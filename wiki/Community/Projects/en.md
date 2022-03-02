@@ -21,7 +21,7 @@ outdated: true
   - [GitHub](https://github.com/ppy/osu-api)
 - osu!framework—A game framework written with osu! in mind.
   - [GitHub](https://github.com/ppy/osu-framework)
-- osu!lazer—The future of osu! and the beginning of an open era.
+- osu!(lazer)—The future of osu! and the beginning of an open era.
   - [GitHub](https://github.com/ppy/osu)
 - osu!performance—Player ranking metric of osu!.
   - [GitHub](https://github.com/ppy/osu-performance)

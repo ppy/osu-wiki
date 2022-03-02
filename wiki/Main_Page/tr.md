@@ -61,14 +61,14 @@ Kısımlar: [Oluştur](/wiki/Client/Beatmap_editor/Compose) • [Dizayn](/wiki/C
 
 [Turnuvalar](/wiki/Tournaments) • [Tema oluşturma](/wiki/Skinning) • [Projeler](/wiki/Community/Projects) • [Rehberler](/wiki/Guides) • [osu!dev Discord sunucusu](/wiki/Community/osu!dev_Discord_server) • [Nasıl yardım edebilirsiniz](/wiki/Community/How_you_can_help!) • [Sözlük](/wiki/Glossary)
 
+Organizasyonlar: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Kişiler
+# [Kişiler](/wiki/People)
 
 [Ekip](/wiki/People/The_Team): [Geliştiriciler](/wiki/People/The_Team/Developers) • [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team) • [Destek Ekibi](/wiki/People/The_Team/Support_Team) • [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Aday Göstericiler](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Takımı](/wiki/People/The_Team/Project_Loved_Team)
-
-Organizasyonlar: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Topluluk İştirakçileri](/wiki/People/Community_Contributors) • [Eşsiz ünvanlara sahip kullanıcılar](/wiki/People/Users_with_unique_titles)
 

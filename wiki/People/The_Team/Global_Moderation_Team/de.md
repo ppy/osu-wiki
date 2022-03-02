@@ -103,6 +103,7 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Offizielle Präsenz des Teams |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippinisch | Chat-Moderation |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Deutsch | Verwaltung von Wettbewerben |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Französisch, etwas Spanisch | Chat-Moderation |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugiesisch | Chat-Moderation |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Kantonesisch, Chinesisch | Chat-Moderation |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Koreanisch, Japanisch | Chat-Moderation |

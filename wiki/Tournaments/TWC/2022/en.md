@@ -47,16 +47,58 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 ## Links
 
-- [Sign up here](https://osu.ppy.sh/community/tournaments/32)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1519196)
 - [Livestream](https://www.twitch.tv/osulive)
+
+## Participants
+
+*Notice: any countries with only their captain listed have yet to submit their roster.*
+
+| | Country | Members |
+| :-: | :-: | :-- |
+| ![][flag_AR] | **Argentina** | **[gaston\_2199](https://osu.ppy.sh/users/5938161)** |
+| ![][flag_AU] | **Australia** | **[Tsubasa2](https://osu.ppy.sh/users/6835183)** |
+| ![][flag_AT] | **Austria** | **[Cupcake\_Lover](https://osu.ppy.sh/users/1776389)** |
+| ![][flag_BR] | **Brazil** | **[Skull Kid](https://osu.ppy.sh/users/3044264)**, [Ppus](https://osu.ppy.sh/users/5918857), [Kyoumo](https://osu.ppy.sh/users/8145223), [HiroK](https://osu.ppy.sh/users/4050738), [Foxeru](https://osu.ppy.sh/users/7479684), [Gustav0eiji](https://osu.ppy.sh/users/215127) |
+| ![][flag_CA] | **Canada** | **[Fudgy](https://osu.ppy.sh/users/3802922)**, [vysha](https://osu.ppy.sh/users/4908773), [Ascrute](https://osu.ppy.sh/users/13175389), [honkers](https://osu.ppy.sh/users/3075337), [Nanners](https://osu.ppy.sh/users/459886), [beary605](https://osu.ppy.sh/users/2198070) |
+| ![][flag_CL] | **Chile** | **[Catulus](https://osu.ppy.sh/users/6276709)**, [Ulqui](https://osu.ppy.sh/users/1263669), [Necromancy-](https://osu.ppy.sh/users/1890084), [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), [Chieri\_](https://osu.ppy.sh/users/10268533), [DaiKiu](https://osu.ppy.sh/users/4232665) |
+| ![][flag_CN] | **China** | **[Blastix Riotz](https://osu.ppy.sh/users/5310623)** |
+| ![][flag_CO] | **Colombia** | **[L1ght](https://osu.ppy.sh/users/9050875)** |
+| ![][flag_CR] | **Costa Rica** | **[pui](https://osu.ppy.sh/users/12687433)** |
+| ![][flag_CZ] | **Czech Republic** | **[Salimen](https://osu.ppy.sh/users/10126927)** |
+| ![][flag_DK] | **Denmark** | **[Zheant](https://osu.ppy.sh/users/708656)** |
+| ![][flag_FI] | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)**, [Antti](https://osu.ppy.sh/users/13281473), [vodnanen](https://osu.ppy.sh/users/10335557), [MEGAMELA](https://osu.ppy.sh/users/13613362), [YERTI](https://osu.ppy.sh/users/1490757), [syysmyrsky](https://osu.ppy.sh/users/9421030) |
+| ![][flag_FR] | **France** | **[Ectomic](https://osu.ppy.sh/users/4069690)**, [QALF](https://osu.ppy.sh/users/11525993), [TimmyAkmed](https://osu.ppy.sh/users/1799973), [Ekoro](https://osu.ppy.sh/users/284905), [Ranshi](https://osu.ppy.sh/users/6680785), [-Akitai-](https://osu.ppy.sh/users/8897643) |
+| ![][flag_DE] | **Germany** | **[frz](https://osu.ppy.sh/users/6956922)**, [Minekuchi](https://osu.ppy.sh/users/9584873), [oomfie126](https://osu.ppy.sh/users/6851789), [Mew](https://osu.ppy.sh/users/2345156), [Xay](https://osu.ppy.sh/users/961417), [xMrtn-](https://osu.ppy.sh/users/866297) |
+| ![][flag_HK] | **Hong Kong** | **[Faputa](https://osu.ppy.sh/users/845733)**, [sing216](https://osu.ppy.sh/users/6096445), [J a c k y](https://osu.ppy.sh/users/8011704), [Consified](https://osu.ppy.sh/users/6502903), [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [ilv\_Rem](https://osu.ppy.sh/users/7850538) |
+| ![][flag_ID] | **Indonesia** | **[XK2238](https://osu.ppy.sh/users/1139209)** |
+| ![][flag_IT] | **Italy** | **[Ikkun](https://osu.ppy.sh/users/1059945)** |
+| ![][flag_JP] | **Japan** | **[uone](https://osu.ppy.sh/users/5321719)**, [ekumea1123](https://osu.ppy.sh/users/9119501), [syaron105](https://osu.ppy.sh/users/8741695), [Seren58](https://osu.ppy.sh/users/15252950), [Grape\_Tea](https://osu.ppy.sh/users/9540073), [nameless\_ll](https://osu.ppy.sh/users/11199742) |
+| ![][flag_MY] | **Malaysia** | **[Jerry](https://osu.ppy.sh/users/605973)**, [\[Zeth\]](https://osu.ppy.sh/users/9912966), [6gicha](https://osu.ppy.sh/users/12273160), [CrabCow](https://osu.ppy.sh/users/9755504), [HHVanilla Ice](https://osu.ppy.sh/users/12803930), [JyaKeii](https://osu.ppy.sh/users/12086753) |
+| ![][flag_MX] | **Mexico** | **[Awwy](https://osu.ppy.sh/users/4183406)** |
+| ![][flag_NL] | **Netherlands** | **[TaikoMom](https://osu.ppy.sh/users/9086438)**, [Boaz](https://osu.ppy.sh/users/13302996), [Cookie\_Tree](https://osu.ppy.sh/users/502722), [Krekker](https://osu.ppy.sh/users/8265940), [Mr HeliX](https://osu.ppy.sh/users/2330619), [StrijkIjzer](https://osu.ppy.sh/users/4130926) |
+| ![][flag_NZ] | **New Zealand** | **[Sparxe](https://osu.ppy.sh/users/5750235)** |
+| ![][flag_NO] | **Norway** | **[Mills](https://osu.ppy.sh/users/7234023)**, [Vendelicious](https://osu.ppy.sh/users/8818089), [Defectum](https://osu.ppy.sh/users/8631719), [Mist31](https://osu.ppy.sh/users/18916920), [Loff](https://osu.ppy.sh/users/8947341) |
+| ![][flag_PH] | **Philippines** | **[Pochacco](https://osu.ppy.sh/users/2927742)**, [Aiery](https://osu.ppy.sh/users/10363380), [DescriptiCringe](https://osu.ppy.sh/users/10882115), [Fynbi](https://osu.ppy.sh/users/2164993), [Nytrioum](https://osu.ppy.sh/users/13547767), [Rimazii](https://osu.ppy.sh/users/3831514) |
+| ![][flag_PL] | **Poland** | **[bernard351](https://osu.ppy.sh/users/9511518)**, [vethreal](https://osu.ppy.sh/users/12067316), [boyan](https://osu.ppy.sh/users/2302140), [flatspot\_](https://osu.ppy.sh/users/13920423), [fafik99](https://osu.ppy.sh/users/1787011), [krytwal](https://osu.ppy.sh/users/17540374) |
+| ![][flag_PT] | **Portugal** | **[BabySnakes](https://osu.ppy.sh/users/4669728)** |
+| ![][flag_RU] | **Russian Federation** | **[TwinT](https://osu.ppy.sh/users/9976154)**, [chayleaf](https://osu.ppy.sh/users/8321579), [night\_flower](https://osu.ppy.sh/users/11574707), [Den4ik228](https://osu.ppy.sh/users/7115174), [QuassBot](https://osu.ppy.sh/users/11117835), [Ak1hiko](https://osu.ppy.sh/users/15305059) |
+| ![][flag_SG] | **Singapore** | **[Prehistoria](https://osu.ppy.sh/users/8364237)** |
+| ![][flag_KR] | **South Korea** | **[Peaceful](https://osu.ppy.sh/users/165027)** |
+| ![][flag_ES] | **Spain** | **[Nara\_NB](https://osu.ppy.sh/users/3593992)** |
+| ![][flag_SE] | **Sweden** | **[Nurend](https://osu.ppy.sh/users/9905079)**, [Raphalge](https://osu.ppy.sh/users/3918650), [melancholicc](https://osu.ppy.sh/users/18406374), [Invisible O](https://osu.ppy.sh/users/22907037), [Soppatorsk](https://osu.ppy.sh/users/2522551) |
+| ![][flag_CH] | **Switzerland** | **[MC2BP](https://osu.ppy.sh/users/11296097)** |
+| ![][flag_TW] | **Taiwan** | **[monkeydluffy3u4](https://osu.ppy.sh/users/2277798)** |
+| ![][flag_TR] | **Turkey** | **[frukoyurdakul](https://osu.ppy.sh/users/7612550)** |
+| ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)** |
+| ![][flag_US] | **United States** | **[pet](https://osu.ppy.sh/users/1656336)** |
+| ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [AkiraPlayz](https://osu.ppy.sh/users/16039831), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [JackTVN](https://osu.ppy.sh/users/12510704), [njshift1](https://osu.ppy.sh/users/16688499) |
 
 ## Ruleset
 
 ### Tournament rules
 
-1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
-   - **While this competition is planned as a 3 versus 3 setup, this might change depending on the number of incoming registrations.**
+1. The osu!taiko World Cup is a country-based 2 versus 2 team tournament, played on the osu!taiko game mode.
 2. Beatmap scoring is based on ScoreV2.
 3. The maps for each round will be announced by the mapset selectors on the Sunday before the actual matches take place. Only these will be used during the respective matches.
 4. The match schedule will be settled by the Tournament Management (see above).
@@ -77,13 +119,13 @@ The osu!taiko World Cup 2022 is run by various community members.
     - Screenshots from other players taken directly in-game that show the affected player's score.
       - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
       - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
-      - All screenshots **MUST** be taken using the game itself (using `ctrl` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
+      - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 12. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
-    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 3 participants must be present for the match to begin).
+    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 2 participants must be present for the match to begin).
 13. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
 14. Exchanging players between games is allowed without limitations.
-15. **The minimum size for a team is 4 players, and the maximum is 6.**
+15. **The minimum size for a team is 3 players, and the maximum is 6.**
 16. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
 17. All players and staff must be treated with respect. Instructions from the referees and the Tournament Management are to be followed. Decisions labelled as final are not to be objected.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
@@ -95,7 +137,8 @@ The osu!taiko World Cup 2022 is run by various community members.
     - Disqualification from the entire tournament.
     - Disqualification from the current and future official tournaments, until appealed.
 20. Referees may allow, at their discretion, lower or higher tolerances for timers.
-21. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+21. The Tournament Management may request liveplays or recordings of individual players or teams at any point.
+22. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
 
@@ -173,16 +216,43 @@ The osu!taiko World Cup 2022 is run by various community members.
 4. **Reschedules will only be considered if both teams agree to a time, which needs to be done and notified to the tournament staff before Wednesday 23:59 UTC in that particular week when your match takes place.**
 5. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff has the right to decline the request.**
-6. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for every match. If teams cannot provide the required amount of players, the match will be considered forfeited.
+6. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for every match (two active players plus one backup). If teams cannot provide the required amount of players, the match will be considered forfeited.
 
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IN]: /wiki/shared/flag/IN.gif "India"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
