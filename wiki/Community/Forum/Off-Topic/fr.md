@@ -1,12 +1,12 @@
 # Off-Topic
 
-[**Off-Topic**](https://osu.ppy.sh/community/forums/52) (abrégé par ***OT***) est un forum destiné à permettre à la communauté d'avoir des conversations sans sujet particulier. Les fils de discussion peuvent souvent être aléatoires, changer de sujet, et/ou avoir plusieurs sujets simultanément. Les sujets peuvent aller de la vie quotidienne aux opinions sur le jeu, en passant par le jeu de rôle, les blagues et le méta-contenu, les bêtises, ou tout ce qui se trouve entre les deux.
+[**Off-Topic**](https://osu.ppy.sh/community/forums/52) (abrégé par ***OT***) est un forum qui a pour but de à permettre à la communauté d'avoir des conversations sans sujet particulier. Les fils de discussion peuvent souvent être aléatoires, changer de sujet, et/ou avoir plusieurs sujets simultanément. Les sujets peuvent aller de la vie quotidienne aux opinions sur le jeu, en passant par le jeu de rôle, les blagues et le méta-contenu, les bêtises, ou tout ce qui se trouve entre les deux.
 
 ## Histoire
 
-Le forum de [General Discussions](https://osu.ppy.sh/community/forums/7) *(discussions générales)* à initialement contenu n'importe quelle sujet que les gens voulait en parler. Pendant que les jeux de forums commençaient à polluer le forum, les personnes ont suggérés faire un sous-forum spécifique pour ces "fils auto-entretenus" [[1]][r]. Le 19 Février 2009, [peppy](/wiki/People/peppy) crée ce sous-forum suggéré : *Forum Games/Random* [[2]][r] [[3]][r].
+Le forum de [General Discussions](https://osu.ppy.sh/community/forums/7) *(discussions générales)* à initialement servi aux gens pour pouvoir discuter de n'importe quelle sujet. Étant donné que les forums de jeux ont commencé à polluer le sous-forum, les personnes ont suggérés faire un sous-forum spécifique pour ces "fils auto-entretenus" [[1]][r]. Le 19 Février 2009, [peppy](/wiki/People/peppy) crée ce sous-forum suggéré : *Forum Games/Random* [[2]][r] [[3]][r].
 
-Le nouveau sous-forum a créé une distinction qui fait que *General Discussion* était utilisé pour les discussions sérieuses, pendant que *Forum Games/Random* était utilisé pour les discussions non-sérieuses. Etant donné la nature de *Forum Games/Random*, les personnes interrompait parfois les jeux du sous-forum avec des conversations aléatoires. [[4]][r]. Le 2 Février 2010, *Forum Games/Random* a été renommé *Off-Topic* et le sous-forum *Forum Games* a été créé [[5]][r].
+Le nouveau sous-forum a créé une distinction qui fait que *General Discussion* était utilisé pour les discussions sérieuses, pendant que *Forum Games/Random* était utilisé pour les discussions non-sérieuses. Etant donné la nature de *Forum Games/Random*, les personnes interrompait parfois les sous-forum de jeux avec des conversations aléatoires. [[4]][r]. Le 2 Février 2010, *Forum Games/Random* a été renommé *Off-Topic* et le sous-forum *Forum Games* a été créé [[5]][r].
 
 Deux sous-forums en plus seront créés plus tard: *Mafia* le 14 Septembre 2011 (pour les jeux comme Mafia ou Loup-Garou) et *Surveys* le 5 Mars 2014 (pour les sondages).
 
@@ -14,7 +14,7 @@ Deux sous-forums en plus seront créés plus tard: *Mafia* le 14 Septembre 2011 
 
 ### Valhalla
 
-Etant donnée la nature de OT, la majorité des fils et discussions étaient de qualité très pauvre. Les fils étaient rarement considérés bons, mais quand ces fils atteignaient ce niveau de qualité, les utilisateurs disaient qu'ils avaient atteint Valhalla.
+Étant donnée la nature de OT, la majorité des fils et discussions étaient de très pauvre qualité. Les fils étaient rarement considérés bons, mais quand ces fils atteignaient ce niveau de qualité, les utilisateurs disaient qu'ils avaient atteint le Valhalla.
 
 Le terme a été utilisé pour la première fois par [Ephemeral](https://osu.ppy.sh/users/102335) dans le fil [ITT: We're Dirty](https://osu.ppy.sh/community/forums/topics/40298), et plusieurs fois par la suite. Depuis, les autres personnes du sous-forum ont adopté ce terme.
 
@@ -30,11 +30,11 @@ Le 9 Juin 2017, [Ephemeral](https://osu.ppy.sh/users/102335) a affirmé une vers
 
 ### L'exil
 
-L'**exil** est un concept de modération non-officiel introduit par [Ephemeral](https://osu.ppy.sh/users/102335) dans [the grand edict thread](https://osu.ppy.sh/community/forums/topics/604424) en réponse contre les personnes qui spammaient le sous-forum et qui créent du contenu embêtant. Le système d'exil est appliqué en supprimant n'importe quel fil, et même parfois des posts par la personne qui est exilé. Il sert d'indicateur que la personne est sur le point d'être lourdement sanctionné par des sanctions plus officielles par la modération.
+L'**exil** est un concept de modération non-officiel introduit par [Ephemeral](https://osu.ppy.sh/users/102335) dans [the grand edict thread](https://osu.ppy.sh/community/forums/topics/604424) en réponse aux personnes qui spammaient le sous-forum, notamment par la création de contenu embêtant. Le système d'exil est appliqué en supprimant n'importe quel fil, et même parfois des posts de la personne qui est exilée. Il sert d'indicateur quand une personne est sur le point d'être lourdement sanctionné par des moyens plus officielles par la modération.
 
 ### Denizens
 
-Depuis que le sous-forum Off-Topic est principalement composé des mêmes personnes qui discutent entre eux dans les fils, tout le monde se connaît. Ceux qui restent suffisamment longtemps pour être considérés comme utilisateur réguliers sont appelés "**denizens**" *("citoyens" en français)*. Ce terme a été utilisé pour la première fois par [Ephemeral](https://osu.ppy.sh/users/102335) sur [ce post](https://osu.ppy.sh/community/forums/posts/1607086), mais n'a pas été adopté par les utilisateurs réguliers qu'à partir de la populaire série de fils [OT!News](https://osu.ppy.sh/community/forums/topics/577518).
+Depuis que le sous-forum Off-Topic est principalement composé des mêmes personnes qui discutent entre elles dans les fils, tout le monde se connaît. Ceux qui restent suffisamment longtemps pour être considérés comme utilisateur réguliers sont appelés "**denizens**" *("citoyens" en français)*. Ce terme a été utilisé pour la première fois par [Ephemeral](https://osu.ppy.sh/users/102335) sur [ce post](https://osu.ppy.sh/community/forums/posts/1607086), mais n'a pas été adopté par les utilisateurs réguliers qu'à partir de la populaire série de fils [OT!News](https://osu.ppy.sh/community/forums/topics/577518).
 
 ### Le lore d'Off-Topic
 
