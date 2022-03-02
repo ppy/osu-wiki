@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 81f105cb33de8dc13172729319d887f95f2f942e
+---
+
 # Storyboard
 
 ![](img/Sbpassing.png "Adegan ini muncul ketika kamu memainkan Walkie Talkie Man di Elite Beat Agent DS dan hanya muncul ketika kamu mendapatkan Elite Beat 300")
