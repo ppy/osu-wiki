@@ -45,7 +45,6 @@ Liens :
 
 ## Mai
 
-
 La osu!Catch World Cup 2017 a été ouverte aux inscriptions. [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) a été annoncé en temps que nouveau Featured Artists pour osu!. osu! a annoncé être à l'Anime Expo 2017. Après plus d'un an, la nouvelle mascotte osu!taiko a été annoncée. [Mocha](/wiki/Mascots#mocha) est entrée sur scène avec [pippi](/wiki/Mascots#pippi), [Yuzu](/wiki/Mascots#yuzu), et [Maria](/wiki/Mascots#mani-&-mari). Plus tard, [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) a été annoncé pour rejoindre les Featured Artists d'osu!. Les votes pour osu!mani et osu!catch beatmapping contest ont tous deux ouverts.
 
 Liens :
