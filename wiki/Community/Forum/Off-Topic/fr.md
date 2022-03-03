@@ -20,13 +20,13 @@ Le terme a été utilisé pour la première fois par [Ephemeral](https://osu.ppy
 
 ### Old Avatar Week
 
-**Old Avatar Week** *(La semaine des anciens avatars)* était un évènement de célébration pour le nouvel an. Chaque année, le 28 Décembre, les personnes remplaçaient leur image de profil par une image qu'ils avaient dans le passé, et ce pour une semaine. Cela permettait aux personnes régulières de ce sous-forum d'un temps plus ancien, de donner une impression de réflexion entre les temps actuels et les temps plus anciens, comme la transition entre l'année actuelle et l'année suivante.
+**Old Avatar Week** *(La semaine des anciens avatars)* était un évènement de célébration pour le nouvel an. Chaque année, le 28 décembre, les personnes remplaçaient leur image de profil par une image qu'ils avaient dans le passé, et ce pour une semaine. Cela permettait aux personnes régulières de ce sous-forum d'un temps plus ancien, de donner une impression de réflexion entre les temps actuels et les temps plus anciens, comme la transition entre l'année actuelle et l'année suivante.
 
 ### Les filles d'animés qui dansent
 
 Les personnes dans les premiers jours du sous-forum Off-Topic ont occasionnellement crées des fils dédiés à des filles d'animés qui dansent. Si un fil était mauvais, alors poster des filles d'animés qui dansent le rendait mieux. Quand les personnes commençaient à faire des fils à propos de quitter OT (et en réalité de ne pas partir), les personnes prenaient ce fil comme un moyen d'attirer l'attention et postaient des filles d'animés qui dansent pour changer le sujet du fil. Poster des filles d'animés qui dansent sur n'importe quel fil d'adieu ou de bienvenue devenait la chose normal à faire, et ainsi c'était devenu une tradition [[6]][r].
 
-Le 9 Juin 2017, [Ephemeral](https://osu.ppy.sh/users/102335) a affirmé une version légèrement différente de la tradition dans les [règles de Off-Topic](https://osu.ppy.sh/community/forums/topics/604424) en imposant aux personnes à poster au moins 3 filles d'animés qui dansent sur les fils d'anniversaires. Cette règle a même été ajouté dans les règles officiels d'osu! [[7]][r] jusqu'au 11 Novembre 2019, quand il a été retiré dans un [effort de nettoyage](https://github.com/ppy/osu-wiki/pull/2655), mais cette règle persiste encore dans les règles du sous-forum Off-Topic.
+Le 9 juin 2017, [Ephemeral](https://osu.ppy.sh/users/102335) a affirmé une version légèrement différente de la tradition dans les [règles de Off-Topic](https://osu.ppy.sh/community/forums/topics/604424) en imposant aux personnes à poster au moins 3 filles d'animés qui dansent sur les fils d'anniversaires. Cette règle a même été ajouté dans les règles officiels d'osu! [[7]][r] jusqu'au 11 novembre 2019, quand il a été retiré dans un [effort de nettoyage](https://github.com/ppy/osu-wiki/pull/2655), mais cette règle persiste encore dans les règles du sous-forum Off-Topic.
 
 ### L'exil
 
