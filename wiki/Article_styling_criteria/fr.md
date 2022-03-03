@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: de80497e3887e708fa8ea709cf48cd5fa0efb49a
 tags:
   - wiki standards
 ---
@@ -17,7 +19,7 @@ Pour suggérer des changements aux critères de mise en forme d'article, [ouvrez
 
 *Notes: Les articles ci-dessous utilisent [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les différents niveaux d'exigence.*
 
-Les critères de mise en forme d'article sont divisés en deux articles:
+Les critères de mise en forme d'article sont divisés en deux articles :
 
-- [Mise en page](Formatting): Inclut Markdown et d'autres règles de mise en page.
-- [Ecriture](Writing): Inclut des pratiques d'écriture et d'autres règles de grammaire.
+- [Écriture](Writing) : Inclut des pratiques d'écriture et d'autres règles de grammaire.
+- [Mise en page](Formatting) : Inclut Markdown et d'autres règles de mise en page.

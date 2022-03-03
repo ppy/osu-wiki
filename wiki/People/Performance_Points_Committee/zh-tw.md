@@ -1,6 +1,5 @@
 ---
 no_native_review: true
-stub: true
 tags:
   - pp committee
 ---

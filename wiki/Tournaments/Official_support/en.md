@@ -1,3 +1,10 @@
+---
+tags:
+  - badge
+  - badges
+  - badged
+---
+
 # Official tournament support
 
 The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.

@@ -463,6 +463,9 @@
 "guides/changing_the_title_text":         "Beatmap/Title_Text#changing-title-text"
 "changing_the_title_text":                "Beatmap/Title_Text#changing-title-text"
 
+# Moved in #6790 due to #6198
+"ranking_criteria/timing_songs_with_8-signatures": "Guides/Timing_Songs_With_8-Signatures"
+
 "help_center":                 "Help_Centre"
 "help":                        "Help_Centre"
 
@@ -851,6 +854,16 @@
 "talk":                        "Community/Video_series/osu!talk"
 
 "tourney":                     "osu!tourney"
+
+# hierarchy swapped in #6888
+"osu!tourney/osu!lazer_tournament_client":          "osu!_tournament_client"
+"osu!tourney":                                      "osu!_tournament_client/osu!tourney"
+"osu!tourney/multiplayer_usage":                    "osu!_tournament_client/osu!tourney/Multiplayer_usage"
+"osu!tourney/setup":                                "osu!_tournament_client/osu!tourney/Setup"
+"osu!tourney/skinning":                             "osu!_tournament_client/osu!tourney/Skinning"
+"osu!tourney/spectator_usage":                      "osu!_tournament_client/osu!tourney/Spectator_usage"
+"osu!tourney/tournament_management_commands":       "osu!_tournament_client/osu!tourney/Tournament_management_commands"
+"osu!tourney/troubleshooting":                      "osu!_tournament_client/osu!tourney/Troubleshooting"
 
 "wiki":                                             "osu!_wiki"
 "wiki_help":                                        "osu!_wiki/Maintenance#routines"

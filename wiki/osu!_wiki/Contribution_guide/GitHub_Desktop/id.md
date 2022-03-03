@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
+---
+
 # GitHub Desktop
 
 *Artikel ini merupakan lanjutan dari [laman utama sebelumnya](/wiki/osu!_wiki/Contribution_guide)* dengan asumsi kamu akan menggunakan [Github Desktop](https://desktop.github.com). **Kamu tetap dapat menggunakan aplikasi Git yang lain sesuai dengan kehendakmu.** Meskipun kamu bekerja secara lokal, kamu masih perlu mengakses GitHub untuk membuat pull request agar perubahan kamu dapat terjadi dan bisa diakses semua orang.

@@ -41,7 +41,7 @@ Wenn du auf den Dialog `Als {Benutzername} angemeldet` klickst, wird ein Menü m
 
 | Name | Beschreibung | Typ |
 | :-- | :-- | :-- |
-| 1. Profil anzeigen | Siehe dein Profil auf der osu!-Webseite an. | Button |
+| 1. Profil anzeigen | Siehe dir dein Profil auf der osu!-Webseite an. | Button |
 | 2. Ausloggen | Logge dich aus dem Spiel aus. | Button |
 | 3. Avatar ändern | Ändere dein Profilbild (dies wird dich auf die Webseite weiterleiten). | Button |
 | 4. Schließen | Schließe den Dialog. Du kannst auch `Esc` drücken. | Button |
@@ -175,7 +175,7 @@ Dieser Abschnitt ist über Einstellungen, die den Spielverlauf beeinflussen.
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Hintergrund-Dimmer` | Passe den Verdunklungsgrad des Hintergrunds und des Storyboards während des Spielens an (kann pro Beatmap eingestellt werden. | Slider | `80%` |
+| `Hintergrund-Dimmer` | Passe den Verdunklungsgrad des Hintergrunds und des Storyboards während des Spielens an (kann pro Beatmap eingestellt werden). | Slider | `80%` |
 | `Don't change dim level during breaks` | Deaktiviere die Aufhellung des Dimmlevels während Pausen, wodurch der Hintergrund niemals sichtbar wird. | Checkbox | `Deaktiviert` |
 | `Position der Fortschrittsleiste` | Stelle ein, wo und wie die Fortschrittsleiste angezeigt werden soll. Siehe unten für weitere Details. | Dropdown-Menü | `Oben rechts (Kreis)` |
 | `Genauigkeitsmeter` | Stelle das Aussehen des Genauigkeitsmeters am unteren Bildschirmrand ein. Bedenke, dass osu!catch immer `Farbe` verwenden wird. | Dropdown-Menü | `Abweichung` |
@@ -242,10 +242,10 @@ Die allgemeine, Musik- sowie Effektelautstärke kann an anderer Stelle auch durc
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
 | `Universales Offset` | Das Offset (in Millisekunden), das alle Beatmaps benutzen werden (zusätzlich zum lokalen Offset). | Slider | `0ms` |
-| `Offset-Assistent starten` | Öffnet des Offset-Assistent. | Button |  |
+| `Offset-Assistent starten` | Öffnet den Offset-Assistenten. | Button |  |
 
-- Für mehr Details über den Offset-Assistent, siehe [Offset-Assistent](/wiki/Client/Options/Offset_Wizard).
-- Für mehr Details darüber, wie man den Offset-Assistent verwendet, siehe [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+- Für mehr Details über den Offset-Assistenten, siehe [Offset-Assistent](/wiki/Client/Options/Offset_Wizard).
+- Für mehr Details darüber, wie man den Offset-Assistenten verwendet, siehe [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_Use_the_Offset_Wizard).
 
 ## Skin
 
@@ -293,7 +293,7 @@ Dieser Abschnitt ist über Eingabeperipheriegeräte.
 
 ---
 
-Wenn du die Dropdown-Liste für `Mauszeiger eingrenzen` öffnest, hast du Folgende Optionen:
+Wenn du die Dropdown-Liste für `Mauszeiger eingrenzen` öffnest, hast du folgende Optionen:
 
 | Name | Beschreibung |
 | :-- | :-- |

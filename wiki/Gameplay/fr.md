@@ -1,22 +1,30 @@
----
-outdated: true
-outdated_since: 8a5f5265f6fa698fdea71e909684ba286ee85111
----
-
 # Gameplay
 
-- [Précision](/wiki/Gameplay/Accuracy)
+- [Choke](/wiki/Gameplay/Choke)
+- [Combo burst](/wiki/Gameplay/Comboburst)
+- [Combo fire](/wiki/Gameplay/Combo_fire)
 - [Combo (multiplicateur de score)](/wiki/Gameplay/Combo_(score_multiplier))
+- [Combo milestone](/wiki/Gameplay/Combo_milestone)
+- [Combo multiplier effect](/wiki/Gameplay/Combo_multiplier_effect)
+- [Dash](/wiki/Gameplay/Dash)
 - [Dash snapping](/wiki/Gameplay/Dash_snapping)
-- [Longueur de drain](/wiki/Gameplay/Drain_time)
+- [Dispositif d'entrée](/wiki/Gameplay/Input_device)
+- [Edge dash](/wiki/Gameplay/Edge_dash)
 - [Fingerlock](/wiki/Gameplay/Fingerlock)
 - [Grade](/wiki/Gameplay/Grade)
-- [Dispositif d'entrée](/wiki/Gameplay/Input_device)
+- [Hyperdash](/wiki/Gameplay/Hyperdash)
 - [Jugement](/wiki/Gameplay/Judgement)
+- [Kiai time](/wiki/Gameplay/Kiai_time)
+- [Longueur de drain](/wiki/Gameplay/Drain_time)
 - [Mind block](/wiki/Gameplay/Mind_block)
+- [Multijoueur](/wiki/Gameplay/Multiplayer)
 - [Notelock](/wiki/Gameplay/Judgement/Notelock)
+- [Pass](/wiki/Gameplay/Pass)
+- [Protection pour tablette](/wiki/Gameplay/Tablet_cover)
+- [Précision](/wiki/Gameplay/Accuracy)
 - [Temps de jeu](/wiki/Gameplay/Play_time)
+- [Replay](/wiki/Gameplay/Replay)
 - [Score](/wiki/Gameplay/Score)
 - [Slider break](/wiki/Gameplay/Judgement/Slider_break)
 - [Spectateurs](/wiki/Gameplay/Spectating)
-- [Protection pour tablette](/wiki/Gameplay/Tablet_cover)
+- [Walk](/wiki/Gameplay/Walk)

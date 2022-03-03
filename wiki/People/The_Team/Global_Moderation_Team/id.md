@@ -64,6 +64,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai ta
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | Mandarin, Malaysia | Moderasi chat |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderasi chat |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Swedia, Spanyol | Moderasi chat, manajemen turnamen |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | Moderasi chat |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Korea, Jepang | Moderasi chat |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turki | Moderasi chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanyol | Moderasi chat, moderasi forum |
@@ -101,6 +102,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai ta
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Anggota inti osu!team |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Tagalog | Moderasi chat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Jerman | Manajemen turnamen |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Prancis, sedikit Spanyol | Moderasi chat |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugis | Moderasi chat |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Kanton, Mandarin | Moderasi chat |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Korea, Jepang | Moderasi chat |

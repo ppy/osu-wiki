@@ -97,7 +97,7 @@ Les 500 meilleures scores sur chaque difficulté d'une beatmap fourni des [repla
 
 Depuis ses débuts, la communauté a eu de nombreuses occasions de mettre en avant leurs meilleures beatmaps. Une des premières approche a été la création de tops mensuels et saisonniers appelés charts constitués d'un groupe restreint de beatmaps classées, où les meilleurs joueurs du classement par points totaux réalisés sur ces maps reçoivent l'[osu!supporter](/wiki/osu!supporter).
 
-Le système de charts à ensuite évolué pour devenir le projet [Beatmap Spotlights](/wiki/Beatmap_Spotlights), qui fonctionne de façon similaire, avec des playlists qui peuvent être jouées sur le client osu!lazer.
+Le système de charts à ensuite évolué pour devenir le projet [Beatmap Spotlights](/wiki/Beatmap_Spotlights), qui fonctionne de façon similaire, avec des playlists qui peuvent être jouées sur le client osu!(lazer).
 
 ### Concours de beatmaps
 

@@ -75,24 +75,21 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | Evaluación, moderación |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandés | Evaluación, estructural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Evaluación, comunicación |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | Evaluación |
 
 ### osu!mania
 
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluación |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, francés | Evaluación |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Español, portugués, gallego, italiano, japonés | Evaluación |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluación |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
 [flag_ES]: /wiki/shared/flag/ES.gif "España"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suecia"

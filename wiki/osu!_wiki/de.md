@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 3e747e2c31e5baabc871781b9987251ebc6da964
+---
+
 # osu!-Wiki
 
 Das **osu!-Wiki** ist eine Sammlung an öffentlich zugänglichem Wissen, welche von [freiwilligen Mitwirkenden](https://github.com/ppy/osu-wiki/graphs/contributors) betrieben wird. Hier findet sich eine große Breite an Informationen rund um osu!, seine Community sowie verwandte Aktivitäten und Konzepte. Das Wiki dient als offizielle Quelle für Informationen und wird als Dokumentation der Geschichte von osu! angesehen.
