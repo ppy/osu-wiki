@@ -130,7 +130,7 @@ Listed below are the players who managed to qualify into their respective divisi
 | 2 | ![][flag_ES] [kazamabc](https://osu.ppy.sh/users/6937470) | 3.6 |
 | 3 | ![][flag_ES] [Kalal331](https://osu.ppy.sh/users/8433636) | 3.9 |
 | 4 | ![][flag_ES] [NHarmonia](https://osu.ppy.sh/users/9582556) | 4.9 |
-| 5 | ![][flag_ES] [amborgesa](https://osu.ppy.sh/users/1968481) | 5.8|
+| 5 | ![][flag_ES] [amborgesa](https://osu.ppy.sh/users/1968481) | 5.8 |
 | 6 | ![][flag_ES] [JoanaBob](https://osu.ppy.sh/users/10966302) | 6.2 |
 | 7 | ![][flag_ES] [-AmHappy-](https://osu.ppy.sh/users/13955752) | 8.1 |
 | 8 | ![][flag_ES] [AngelXC](https://osu.ppy.sh/users/7334711) | 8.3 |
@@ -582,8 +582,8 @@ Saturday, 28 August 2021:
 | España | **[-AmHappy-](https://osu.ppy.sh/users/13955752)** ![][flag_ES] | **5** | 3 | ![][flag_ES] [dariito0xx](https://osu.ppy.sh/users/4739655) | [#1](https://osu.ppy.sh/community/matches/90012482) |
 | España | **[A N T O N I O](https://osu.ppy.sh/users/12760743)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [NHarmonia](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/89967304) |
 | Latinoamerica Sur | [BTG4](https://osu.ppy.sh/users/10659233) ![][flag_AR] | 4 | 4 | ![][flag_CL] [NO37](https://osu.ppy.sh/users/4653583) | [#1](https://osu.ppy.sh/community/matches/89981741) |
-| España | **[V I C E N T E](https://osu.ppy.sh/users/13962152)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [BabyScylla](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/90009444) 
-| Latinoamerica Norte | **[-Wolfy-](https://osu.ppy.sh/users/4497582)** ![][flag_MX] | **5** | 2 | ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857) | [#1](https://osu.ppy.sh/community/matches/90041182) ||
+| España | **[V I C E N T E](https://osu.ppy.sh/users/13962152)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [BabyScylla](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/90009444) |
+| Latinoamerica Norte | **[-Wolfy-](https://osu.ppy.sh/users/4497582)** ![][flag_MX] | **5** | 2 | ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857) | [#1](https://osu.ppy.sh/community/matches/90041182) |
 | España | **[Kalal331](https://osu.ppy.sh/users/8433636)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [JoanaBob](https://osu.ppy.sh/users/10966302) | [#1](https://osu.ppy.sh/community/matches/89955985) |
 
 Monday, 29 August 2021:
