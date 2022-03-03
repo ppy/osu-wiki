@@ -16,33 +16,33 @@ Deux sous-forums en plus seront créés plus tard : *Mafia* le 14 septembre 2011
 
 Étant donné la nature de OT, la majorité des fils et discussions étaient de très pauvre qualité. Les fils étaient rarement considérés bons, mais quand ces fils atteignaient ce niveau de qualité, les utilisateurs disaient qu'ils avaient atteint le Valhalla.
 
-Le terme a été utilisé pour la première fois par [Ephemeral](https://osu.ppy.sh/users/102335) dans le fil [ITT: We're Dirty](https://osu.ppy.sh/community/forums/topics/40298), et plusieurs fois par la suite. Depuis, les autres personnes du sous-forum ont adopté ce terme.
+Le terme a été utilisé pour la première fois par [Ephemeral](https://osu.ppy.sh/users/102335) dans le fil [ITT: We're Dirty](https://osu.ppy.sh/community/forums/topics/40298), et plusieurs fois par la suite. Depuis, les autres utilisateurs du sous-forum ont adopté ce terme.
 
 ### Old Avatar Week
 
-**Old Avatar Week** *(La semaine des anciens avatars)* était un évènement de célébration pour le nouvel an. Chaque année, le 28 décembre, les personnes remplaçaient leur image de profil par une image qu'ils avaient dans le passé, et ce pour une semaine. Cela permettait aux personnes régulières de ce sous-forum d'un temps plus ancien, de donner une impression de réflexion entre les temps actuels et les temps plus anciens, comme la transition entre l'année actuelle et l'année suivante.
+**Old Avatar Week** *(La semaine des anciens avatars)* était un évènement de célébration pour le nouvel an. Chaque année, le 28 décembre, les personnes remplaçaient leur image de profil par une image qu'ils avaient dans le passé, et ce pour une semaine. Cela permettait aux personnes régulières de ce sous-forum d'un temps plus ancien, de donner une impression de réflexion entre les temps actuels et les temps plus anciens, comme la transition entre l'année précédente et l'année suivante.
 
 ### Les filles d'animés qui dansent
 
-Les personnes dans les premiers jours du sous-forum Off-Topic ont occasionnellement crées des fils dédiés à des filles d'animés qui dansent. Si un fil était mauvais, alors poster des filles d'animés qui dansent le rendait mieux. Quand les personnes commençaient à faire des fils à propos de quitter OT (et en réalité de ne pas partir), les personnes prenaient ce fil comme un moyen d'attirer l'attention et postaient des filles d'animés qui dansent pour changer le sujet du fil. Poster des filles d'animés qui dansent sur n'importe quel fil d'adieu ou de bienvenue devenait la chose normal à faire, et ainsi c'était devenu une tradition [[6]][r].
+Les utilisateurs des premiers jours du sous-forum Off-Topic ont occasionnellement créé des fils dédiés à des filles d'animés qui dansent. Si un fil était mauvais, alors poster des filles d'animés qui dansent le rendait meilleur. Quand les utilisateurs commençaient à faire des fils pour annoncer qu'ils quitteraient le sous-forum OT (sans réellement le faire), les autres utilisateurs prenaient ce fil comme un moyen d'attirer l'attention et postaient des filles d'animés qui dansent pour changer le sujet du fil. Poster des filles d'animés qui dansent sur n'importe quel fil d'adieu ou de bienvenue devenait la chose normale à faire, et ainsi était-elle solidifiée en tant que tradition [[6]][r].
 
-Le 9 juin 2017, [Ephemeral](https://osu.ppy.sh/users/102335) a affirmé une version légèrement différente de la tradition dans les [règles de Off-Topic](https://osu.ppy.sh/community/forums/topics/604424) en imposant aux personnes à poster au moins 3 filles d'animés qui dansent sur les fils d'anniversaires. Cette règle a même été ajouté dans les règles officiels d'osu! [[7]][r] jusqu'au 11 novembre 2019, quand il a été retiré dans un [effort de nettoyage](https://github.com/ppy/osu-wiki/pull/2655), mais cette règle persiste encore dans les règles du sous-forum Off-Topic.
+Le 9 juin 2017, [Ephemeral](https://osu.ppy.sh/users/102335) a affirmé une version légèrement différente de la tradition dans les [règles de Off-Topic](https://osu.ppy.sh/community/forums/topics/604424) en imposant aux utilisateurs de poster au moins 3 filles d'animés qui dansent sur les fils d'anniversaires. Cette règle a même été ajoutée dans les règles officielles d'osu! [[7]][r] jusqu'au 11 novembre 2019, quand elle a été retirée dans un [effort de nettoyage](https://github.com/ppy/osu-wiki/pull/2655), mais cette règle persiste encore dans les règles du sous-forum Off-Topic.
 
 ### L'exil
 
-L'**exil** est un concept de modération non-officiel introduit par [Ephemeral](https://osu.ppy.sh/users/102335) dans [the grand edict thread](https://osu.ppy.sh/community/forums/topics/604424) en réponse aux personnes qui spammaient le sous-forum, notamment par la création de contenu embêtant. Le système d'exil est appliqué en supprimant n'importe quel fil, et même parfois des posts de la personne qui est exilée. Il sert d'indicateur quand une personne est sur le point d'être lourdement sanctionné par des moyens plus officielles par la modération.
+L'**exil** est un concept de modération non-officiel introduit par [Ephemeral](https://osu.ppy.sh/users/102335) dans le fil [the grand edict](https://osu.ppy.sh/community/forums/topics/604424) en réponse aux utilisateurs qui spammaient le sous-forum, notamment par la création de contenu embêtant. Le système d'exil est appliqué en supprimant n'importe quel fil, et même parfois des posts de l'utilisateur qui est exilé. Il sert à indiquer qu'un utilisateur est sur le point d'être lourdement sanctionné par des moyens plus officiels de modération.
 
-### Denizens
+### Denizen
 
-Depuis que le sous-forum Off-Topic est principalement composé des mêmes personnes qui discutent entre elles dans les fils, tout le monde se connaît. Ceux qui restent suffisamment longtemps pour être considérés comme utilisateur réguliers sont appelés "**denizens**" *("citoyens" en français)*. Ce terme a été utilisé pour la première fois par [Ephemeral](https://osu.ppy.sh/users/102335) sur [ce post](https://osu.ppy.sh/community/forums/posts/1607086), mais n'a pas été adopté par les utilisateurs réguliers qu'à partir de la populaire série de fils [OT!News](https://osu.ppy.sh/community/forums/topics/577518).
+Puisque que le sous-forum Off-Topic est principalement composé des mêmes utilisateurs qui discutent entre eux dans les fils, tout le monde se connaît. Ceux qui restent suffisamment longtemps pour être considérés comme utilisateurs réguliers sont appelés "**denizens**" *("citoyens" en français)*. Ce terme a été utilisé pour la première fois par [Ephemeral](https://osu.ppy.sh/users/102335) sur [ce post](https://osu.ppy.sh/community/forums/posts/1607086), mais n'a pas été adopté par les utilisateurs réguliers qu'à partir de la populaire série de fils [OT!News](https://osu.ppy.sh/community/forums/topics/577518).
 
 ### Le lore d'Off-Topic
 
-Le **lore d'Off-Topic** est un effort lancé par [abraker](https://osu.ppy.sh/users/4635891) et entretenu par les autres *denizens* pour créer un arc narratif des différents fils que les personnes ont crées dans OT. Le meilleur de cet effort a été complié dans le fil [OT!Chronicles](https://osu.ppy.sh/community/forums/posts/6230570), qui a créé une timeline de plusieurs fils de role-play improvisés dans OT.
+Le **lore d'Off-Topic** est un effort lancé par [abraker](https://osu.ppy.sh/users/4635891) et entretenu par les autres *denizens* pour créer un arc narratif des différents fils que les utilisateurs ont créé dans OT. Le meilleur de cet effort a été compilé dans le fil [OT!Chronicles](https://osu.ppy.sh/community/forums/posts/6230570), qui a créé une timeline de plusieurs fils de role-play improvisés dans OT.
 
 ### Déraillement de fil
 
-Le **déraillement de fil** est une occurrence commune dans le sous-forum Off-Topic à cause de sa nature "hors-sujet". Cela signifie que les fils crées avec un sujet en particulier ne peuvent pas forcément garder ce même sujet.
+Le **déraillement de fil** est une occurrence commune dans le sous-forum Off-Topic à cause de sa nature "hors-sujet". Cela signifie que les fils créés avec un sujet en particulier peuvent ne pas forcément garder ce même sujet.
 
 ## Fils notables
 
@@ -56,13 +56,13 @@ Cette série de fils est un très bon moyen de montrer les hauts et les bas de O
 
 ### OT COURT II: A-Breaking Laboratory & R.O.S.Q. vs Asht. Co
 
-OT court est un élément du lore d'OT qui imite de manière détaillé un procès. Cette organisation a été improvisé lors de sa création, et contre toute attente, est resté du début jusqu'à la fin sans perdre d'intérêt ou sans être déraillé.
+OT court est un élément du lore d'OT qui imite de manière détaillée un procès. Son organisation a été improvisée lors de sa création, et contre toute attente, est restée du début jusqu'à la fin sans perdre d'intérêt ou sans être déraillée.
 
 <https://osu.ppy.sh/community/forums/posts/6956061>
 
 ### Tad the Tadpole
 
-Ce fil est une blague qui a été développé dans le lore d'OT. C'est un bon exemple de comment les *denizens* peuvent créer des fils-blagues à propos de chacun, et par la suite créer une narration à partir des interactions de ce fil. Il montre également la nature imprévisible de l'évolution des fils et comment des bêtises et des choses inattendus peuvent apparaître à partir de ces fils.
+Ce fil est une blague qui a été développée dans le lore d'OT. C'est un bon exemple de comment les *denizens* peuvent créer des fils-blagues à propos de chacun, et par la suite créer une narration à partir des interactions de ce fil. Il montre également la nature imprévisible de l'évolution des fils et comment des bêtises et des choses inattendues peuvent apparaître à partir de ces fils.
 
 <https://osu.ppy.sh/community/forums/posts/7126163>
 
