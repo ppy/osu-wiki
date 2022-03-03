@@ -2,7 +2,7 @@
 
 ## Janvier
 
-Une toute nouvelle année avec l'ajout de la liste des [Contributeurs de la communauté](/wiki/People/Community_Contributors). Le vote Best of 2015 a ouvert.
+Une toute nouvelle année avec l'ajout de la liste des [Contributeurs de la communauté](/wiki/People/Community_Contributors). Le vote Best of 2015 est ouvert.
 
 Liens :
 
@@ -10,7 +10,7 @@ Liens :
 
 ## Février
 
-Un aperçus du design osu!next était présenté lors du 46ème numéro du osu!weekly. peppy a blogué diverses améliorations du jeu. Les plus notables sont la prévisualisation des skins dans les [options](/wiki/Options), et de nouveaux sons de l'interface skinnable qui ont été rajoutés. Les résultats du [Best of 2015](/wiki/Contests) ont donné [Panda Eyes & Teminite - Highscore (CiiyusMiapah)](https://osu.ppy.sh/beatmapsets/332532#osu/736215), [cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331#taiko/624447), [Halozy - Genryuu Kaiko (Yukina)](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), et [D(ABE3) - MANIERA (Jinjin)](https://osu.ppy.sh/beatmapsets/272871#mania/646681) qui ont obtenu le plus de votes pour osu!, osu!taiko, osu!catch, et osu!mania respectivement. De nouveaux produits ont été rajoutés dans le osu!store; tel que: le osu!mug (un mug à café), le osu!mug avec pippi (ditto), et le osu!go (une clé USB avec osu! Pre installé). Avec l'aide de [LiquidPL](https://osu.ppy.sh/users/5044384), la réorganisation des sections de votre profil sur le nouveau site web est maintenant possible.
+Un aperçu du design d'osu!next a été présenté lors du 46ème numéro du osu!weekly. peppy a blogué diverses améliorations du jeu. Les plus notables sont la prévisualisation des skins dans les [options](/wiki/Options), et de nouveaux sons de l'interface skinnable qui ont été ajoutés. Les résultats du [Best of 2015](/wiki/Contests) ont donné [Panda Eyes & Teminite - Highscore (CiiyusMiapah)](https://osu.ppy.sh/beatmapsets/332532#osu/736215), [cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331#taiko/624447), [Halozy - Genryuu Kaiko (Yukina)](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), et [D(ABE3) - MANIERA (Jinjin)](https://osu.ppy.sh/beatmapsets/272871#mania/646681) qui ont obtenu le plus de votes pour osu!, osu!taiko, osu!catch, et osu!mania respectivement. De nouveaux produits ont été ajoutés dans le osu!store ; tels que: le osu!mug (un mug à café), le osu!mug avec pippi (ditto), et le osu!go (une clé USB avec osu! pré-installé). Avec l'aide de [LiquidPL](https://osu.ppy.sh/users/5044384), la réorganisation des sections de votre profil sur le nouveau site web était désormais possible.
 
 Liens :
 
@@ -22,9 +22,9 @@ Liens :
 
 ## Avril
 
-La prise en charge de l'Oculus Rift en tant que dispositif d'entré a été annoncé en 2016 en tant que Poisson d'Avril.
+La prise en charge de l'Oculus Rift en tant que dispositif d'entrée a été annoncée en 2016 en tant que Poisson d'Avril.
 
-[Maria](/wiki/Mascots#mani-&-mari) a rejoint la scène avec [pippi](/wiki/Mascots#pippi) et [Yuzu](/wiki/Mascots#yuzu) en tant que nouvelles mascottes osu!mania. La osu!taiko World Cup 2016 s'est terminée avec une victoire du Japon sur la Taïwan.
+[Maria](/wiki/Mascots#mani-&-mari) a rejoint la scène avec [pippi](/wiki/Mascots#pippi) et [Yuzu](/wiki/Mascots#yuzu) en tant que nouvelle mascotte osu!mania. La osu!taiko World Cup 2016 s'est terminée avec une victoire du Japon face à Taïwan.
 
 Liens :
 
@@ -34,7 +34,7 @@ Liens :
 
 ## Mai
 
-Le premier concours de remix osu! a commencé avec le challenge de remixer "circles!" de nekodex. From Polygon, Keiichi Yano, un des créateurs de jeux tel qu'Elite Beat Agents, a fait l'éloge d'osu! pour sa communauté qui souhaite partager les beatmaps qu'ils créent. Les [aspire](/wiki/Contests/Aspire) reviennent suite à une forte demande.
+Le premier concours de remix osu! a commencé avec le challenge de remixer "circles!" de nekodex. Sur la chaîne YouTube Polygon, Keiichi Yano, un des créateurs de jeux tels qu'Elite Beat Agents, a fait l'éloge d'osu! pour sa communauté qui souhaite partager les beatmaps qu'ils créent. Les concours [aspire](/wiki/Contests/Aspire) reviennent suite à une forte demande.
 
 Liens :
 
@@ -44,7 +44,7 @@ Liens :
 
 ## Juin
 
-Mapping With Rewards \#1, annoncé l'année précédente s'est finalement conclu. osu!idol 2016 a ouvert. peppy a annoncé osu!lazer, qui sera bientôt le successeur du client osu!.
+Mapping With Rewards \#1, annoncé l'année précédente s'est finalement conclu. L'osu!idol 2016 est ouvert. peppy a annoncé osu!lazer, qui sera bientôt le successeur du client osu! actuel.
 
 Liens :
 
@@ -54,7 +54,7 @@ Liens :
 
 ## Juillet
 
-[Aspire](/wiki/Contests/Aspire) 2 s'est conclu avec [Monstrata](https://osu.ppy.sh/users/2706438) en tant qu'Aspirant. les votes pour le concours de remix osu! a ouvert, ainsi que pour le concours de design osu!taiko.
+[Aspire](/wiki/Contests/Aspire) 2 s'est conclu avec [Monstrata](https://osu.ppy.sh/users/2706438) en tant qu'Aspirant. Les votes pour le concours de remix osu! sont ouverts, ainsi que pour le concours de design osu!taiko.
 
 Liens :
 
@@ -64,7 +64,7 @@ Liens :
 
 ## Août
 
-De nouvelles [médailles](/wiki/Medals) Hush-Hush sont sorties. Précédemment personne n'était autorisé à discuter sur la façon d'obtenir ces médailles; cependant, avec le temps il a été encouragé de travailler ensemble sur la façon d'obtenir ces médailles. Les votes pour le concours de fanart osu!taiko ont ouvert. Le concours de remix osu! conclu avec [BilliumMoto](https://osu.ppy.sh/users/3862471) qui a gagné le grand prix. osu! a atteint les 5 milliards de parties ranked!
+De nouvelles [médailles](/wiki/Medals) Hush-Hush sont sorties. Précédemment, personne n'était autorisé à discuter sur la façon d'obtenir ces médailles ; cependant, avec le temps, il a été encouragé de travailler ensemble sur la façon d'obtenir ces médailles. Les votes pour le concours de fanart osu!taiko sont ouverts Le concours de remix osu! s'est conclu avec [BilliumMoto](https://osu.ppy.sh/users/3862471) qui a gagné le grand prix. osu! a atteint les 5 milliards de parties jouées sur des beatmaps classées !
 
 Liens :
 
@@ -75,7 +75,7 @@ Liens :
 
 ## Septembre
 
-La [osu!mania 4k World Cup](/wiki/Tournaments/MWC/2016_4K) a conclu avec la victoire de la Corée du Sud face au Brésil. peppy a twitté pour le 9ème anniversaire d'osu!; cependant, en l'état rien n'a été prévu pour cette année. Les résultats des votes pour les mascottes osu!taiko sont sorties. peppy rappelle que le gagnant voté par la communauté n'était *pas* la nouvelle mascotte, puisque l'équipe d'osu! voulait prendre en compte autre chose que le côté "loli" des mascottes. [yuki.](https://osu.ppy.sh/beatmaps/artists/4), un tout nouveau osu!musician est entré sur scène avec un nouveau concours de mapping communautaire.
+La [osu!mania 4k World Cup](/wiki/Tournaments/MWC/2016_4K) s'est conclu avec la victoire de la Corée du Sud face au Brésil. peppy a tweeté pour le 9ème anniversaire d'osu! ; il a spécifié cependant que rien n'a été prévu pour cette année. Les résultats des votes pour les mascottes osu!taiko sont tombés. peppy rappelle que le gagnant voté par la communauté n'était *pas* la nouvelle mascotte, puisque l'équipe d'osu! voulait prendre en compte autre chose que le côté "loli" des mascottes. [yuki.](https://osu.ppy.sh/beatmaps/artists/4), un tout nouveau osu!musician est entré sur scène avec un nouveau concours de mapping communautaire.
 
 Liens :
 
@@ -86,7 +86,7 @@ Liens :
 
 ## Octobre
 
-Les osu! World Cup 2016 registrations sont ouverts. Les candidatures GML ont été ouvertes pour ceux qui souhaitent y adhérer. La catégorie de beatmap [loved](/wiki/Beatmap/Category#loved) a été introduite en phase de test et tant que moyen de donner community-loved, mais avec des leaderboards de beatmaps unrankable. Ce type de beatmaps ne va cependant pas donner de [pp](/wiki/Performance_points) et leur leaderboard pourra être supprimé quand le créateur met à jour leur beatmaps. le 7ème concours de fanart sur le thème d'Halloween a ouvert. Les loved sont dans leur seconde phase de test, de nouvelles maps sont prêtes à entrer dans cette catégorie. Une nouvelle vidéo sur lazer est sortie. Le plus notable est les hit circles qui ont plus de texture et qui sont plus lisses et brillants. Les votes pour osu!idol 2016 ont ouverts. Quelques jours avant Halloween, le concours de fanart d'Halloween a ouvert et a conclu deux jours plus tard. Le osu!weekly a sorti le 78ème numéro sur Halloween, le rendant le plus terrifiant possible (mais où est passé le 77ème numéro ? Nous ne le saurons jamais).
+Les inscriptions à l'osu! World Cup 2016 sont ouvertes. Les candidatures à la GMT sont ouvertes pour ceux qui souhaitent y adhérer. La catégorie de beatmap [loved](/wiki/Beatmap/Category#loved) a été introduite en phase de test et en tant que moyen de donner un classement aux beatmaps appréciées par la communauté mais ne pouvant pas être classées. Ces beatmaps ne vont cependant pas donner de [pp](/wiki/Performance_points) et leur classement pourra être supprimé si les créateurs les mettent à jour. Le 7ème concours de fanart sur le thème d'Halloween est ouvert. Les loved sont dans leur seconde phase de test, de nouvelles beatmaps sont prêtes à entrer dans cette catégorie. Une nouvelle vidéo sur lazer est sortie. Le plus notable est les hit circles qui ont plus de texture et qui sont plus lisses et brillants. Les votes pour l'osu!idol 2016 sont ouverts. Quelques jours avant Halloween, le concours de fanart d'Halloween est ouvert et s'est conclu deux jours plus tard. Le osu!weekly a sorti le 78ème numéro sur Halloween, le rendant le plus terrifiant possible (mais où est passé le 77ème numéro ? Nous ne le saurons jamais).
 
 Liens :
 
@@ -103,8 +103,8 @@ Liens :
 
 ## Novembre
 
-À partir de novembre, un nouveau lot de de [Contributeurs de la communauté](/wiki/People/Community_Contributors) a été annoncé. 
-[ztrot](https://osu.ppy.sh/users/6347) et [deadbeat](https://osu.ppy.sh/users/128370) ont montré l'évolution d'osu! au niveau de l'UI/UX depuis son départ, jusqu'à maintenant. [Slyleaf](https://osu.ppy.sh/users/3322032) a prit la première place du osu!idol 2016. Fin novembre, le 8ème concours de fan art sur le thème de noël a démarré. 
+À partir de novembre, un nouveau lot de [Contributeurs de la communauté](/wiki/People/Community_Contributors) a été annoncé. 
+[ztrot](https://osu.ppy.sh/users/6347) et [deadbeat](https://osu.ppy.sh/users/128370) ont montré l'évolution d'osu! au niveau de l'UI/UX depuis le début, jusqu'à maintenant. [Slyleaf](https://osu.ppy.sh/users/3322032) a pris la première place du osu!idol 2016. Fin novembre, le 8ème concours de fanart sur le thème de Noël a démarré.
 
 Liens :
 
@@ -115,7 +115,7 @@ Liens :
 
 ## Décembre
 
-Les votes pour le community beatmapping contest \#1 (annoncé en septembre) ont ouvert. Le monthly beatmapping contest \#13 a ouvert. La osu!mania 7K World Cup 2017 registrations a ouvert. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) s'est surpassé afin de produire une magnifique et festive musique d'introduction pour noël, qui peut-être entendue à l'ouverture du jeu. [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7) et [sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) ont été annoncés en tant que nouveaux featured artists sur osu!. La osu! World Cup 2016 a conclu avec la victoire des États-Unis sur la Chine. Un jour avant noël, le concours de fanart de noël s'est terminé avec [\[ Piyori \]](https://osu.ppy.sh/users/4457608) qui a obtenu le plus de votes.
+Les votes pour le community beatmapping contest \#1 (annoncé en septembre) sont ouverts. Le monthly beatmapping contest \#13 est ouvert. Les inscriptions à l'osu!mania 7K World Cup 2017 sont ouvertes. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) s'est surpassé afin de produire une magnifique et festive musique d'introduction pour Noël, qui peut-être entendue à l'ouverture du jeu. [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7) et [sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) ont été annoncés en tant que nouveaux featured artists sur osu!. L'osu! World Cup 2016 a conclu avec la victoire des États-Unis sur la Chine. Un jour avant Noël, le concours de fanart de Noël s'est terminé avec [\[ Piyori \]](https://osu.ppy.sh/users/4457608) qui a obtenu le plus de votes.
 
 Liens :
 
