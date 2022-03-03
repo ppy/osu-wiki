@@ -99,11 +99,11 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | Présence remarquable à l'arbitrage de dizaines de tournois communautaires |
 | ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | Performances exceptionnelles en matière de casting, de commentaires et de comptes-rendus d'événements |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Le cerveau derrière les innombrables améliorations apportées à osu!, aux pp, à la réécriture du moteur graphique, au star rating, et plus encore ! |
-| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Contribution exceptionnelle au projet osu!lazer |
-| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Contribution exceptionnelle au projet osu!lazer avec plus de 90 pullreqs et des centaines de commits |
-| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Contribution exceptionnelle au projet osu!lazer |
-| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Contribution exceptionnelle et organisation du projet de localisation en chinois d'osu!, osu! wiki, et osu!lazer |
-| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Contribution exceptionnelle au projet osu!lazer et création de nombreux outils médiatiques |
+| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Contribution exceptionnelle au projet osu!(lazer) |
+| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Contribution exceptionnelle au projet osu!(lazer) avec plus de 90 pullreqs et des centaines de commits |
+| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Contribution exceptionnelle au projet osu!(lazer) |
+| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Contribution exceptionnelle et organisation du projet de localisation en chinois d'osu!, osu! wiki, et osu!(lazer) |
+| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Contribution exceptionnelle au projet osu!(lazer) et création de nombreux outils médiatiques |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Créateur de PerformancePlus et osu!chan |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Effort exceptionnel dans la production et la publication du projet Scorewatch |
 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Effort exceptionnel dans la production et la publication du projet Scorewatch |
@@ -140,7 +140,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Contribution exceptionnelle au Community Mentorship Program |
 | ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | Contribution exceptionnelle au Community Mentorship Program |
 | ![][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Contribution exceptionnelle au Community Mentorship Program |
-| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Contribution exceptionnelle au projet osu!lazer |
+| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Contribution exceptionnelle au projet osu!(lazer) |
 
 ## 2020
 

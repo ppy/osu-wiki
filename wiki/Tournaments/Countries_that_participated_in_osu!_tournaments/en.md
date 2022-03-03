@@ -8,16 +8,16 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ## Rankings
 
-<!-- last update: MWC 7K 2022 (Registration phase)-->
+<!-- last update: MWC 7K 2022 -->
 
 ### General ranking
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] South Korea | 18 | 4 | 5 |
+| 1 | ![][flag_KR] South Korea | 19 | 4 | 5 |
 | 2 | ![][flag_JP] Japan | 10 | 5 | 2 |
 | 3 | ![][flag_US] United States | 7 | 5 | 4 |
-| 4 | ![][flag_CN] China | 3 | 7 | 3 |
+| 4 | ![][flag_CN] China | 3 | 8 | 3 |
 | 5 | ![][flag_TW] Taiwan | 3 | 7 | 1 |
 | 6 | ![][flag_BR] Brazil | 2 | 2 | 4 |
 | 7 | ![][flag_PL] Poland | 1 | 1 | 2 |
@@ -25,14 +25,14 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | 9 | ![][flag_HK] Hong Kong |  | 4 | 1 |
 | 10 | ![][flag_DE] Germany |  | 3 | 4 |
 | 11 | ![][flag_PH] Philippines |  | 2 |  |
-| 12 | ![][flag_GB] United Kingdom |  | 1 | 4 |
-| 12 | ![][flag_MY] Malaysia |  | 1 | 4 |
-| 13 | ![][flag_ID] Indonesia |  | 1 | 2 |
-| 14 | ![][flag_NL] Netherlands |  | 1 |  |
-| 14 | ![][flag_TH] Thailand |  | 1 |  |
-| 15 | ![][flag_CA] Canada |  |  | 3 |
-| 16 | ![][flag_FR] France |  |  | 2 |
-| 17 | ![][flag_SE] Sweden |  |  | 1 |
+| 12 | ![][flag_MY] Malaysia |  | 1 | 5 |
+| 13 | ![][flag_GB] United Kingdom |  | 1 | 4 |
+| 14 | ![][flag_ID] Indonesia |  | 1 | 2 |
+| 15 | ![][flag_NL] Netherlands |  | 1 |  |
+| 15 | ![][flag_TH] Thailand |  | 1 |  |
+| 16 | ![][flag_CA] Canada |  |  | 3 |
+| 17 | ![][flag_FR] France |  |  | 2 |
+| 18 | ![][flag_SE] Sweden |  |  | 1 |
 
 ### ![][osu!] osu! ranking
 
@@ -82,13 +82,13 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] South Korea | 9 | 1 | 1 |
+| 1 | ![][flag_KR] South Korea | 10 | 1 | 1 |
 | 2 | ![][flag_BR] Brazil | 2 | 2 | 2 |
 | 3 | ![][flag_US] United States | 1 | 3 | 2 |
-| 4 | ![][flag_CN] China | 1 | 1 | 2 |
+| 4 | ![][flag_CN] China | 1 | 2 | 2 |
 | 5 | ![][flag_JP] Japan |  | 2 |  |
 | 5 | ![][flag_PH] Philippines |  | 2 |  |
-| 6 | ![][flag_MY] Malaysia |  | 1 | 4 |
+| 6 | ![][flag_MY] Malaysia |  | 1 | 5 |
 | 7 | ![][flag_TH] Thailand |  | 1 |  |
 | 8 | ![][flag_ID] Indonesia |  |  | 1 |
 | 8 | ![][flag_GB] United Kingdom |  |  | 1 |
