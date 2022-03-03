@@ -12,7 +12,7 @@ Ein YouTube-Video, in dem die Maskottchen von osu! vorgestellt werden, ist unter
 
 pippi, stilisiert mit einem kleinen "p", ist das Maskottchen des osu! Spielmodus, das im Juli 2008 hinzukam. Sie ist auch als pippidon in osu!taiko bekannt und erschien in [Yandere Simulator](https://yanderesimulator.com) als NPC. Das anfängliche Konzeptbild wurde von [Sarumaru](https://osu.ppy.sh/users/9427) erstellt, das pippidon Sprite wurde von [crystalsuicune](https://osu.ppy.sh/users/9974) erstellt und das aktuelle Bild wurde von [Daru](https://osu.ppy.sh/users/32480) entworfen.
 
-### ![osu!catch Icon](/wiki/sh ared/mode/catch.png) Yuzu
+### ![osu!catch Icon](/wiki/shared/mode/catch.png) Yuzu
 
 *Für die Newsbeiträge, siehe: [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) und [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
 
