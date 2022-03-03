@@ -15,7 +15,7 @@ tags:
 
 ## Tasks
 
-Members of LSD were hand-picked by the osu! team from the community to act as moderators for lower-traffic communities and subforums. Unlike Global Moderators, they did not have features like coloured nicknames, or custom forum titles. On [IRC](/wiki/Internet_Relay_Chat), however, they were [operators](/wiki/Internet_Relay_Chat#why-are-some-usernames-prefixed-with-different-signs?) and could apply [silences](/wiki/Silence).
+Members of LSD were hand-picked by the osu! team from the community to act as moderators for lower-traffic communities and subforums. Unlike Global Moderators, they did not have features like coloured nicknames, or custom forum titles. On [IRC](/wiki/Community/Internet_Relay_Chat), however, they were [operators](/wiki/Community/Internet_Relay_Chat#why-are-some-usernames-prefixed-with-different-signs?) and could apply [silences](/wiki/Silence).
 
 The LSD also served as an intermediary group for promising members pending admission into the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) at times, as the two groups generally shared a common goal and similar skill sets.<!-- internal reference: https://osu.ppy.sh/community/forums/topics/123465 -->
 

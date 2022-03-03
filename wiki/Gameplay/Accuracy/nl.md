@@ -51,7 +51,7 @@ Nauwkeurigheid in osu!mania wordt op dezelfde manier berekend als in [osu!](#-os
 
 De prestatiegrafiek is een grafiek die de prestaties van een speler (gebaseerd op hun HP-balk) in de loop van het spel (tijd) weergeeft. Meer info kan worden getoond door de in-game cursor eroverheen te zetten.
 
-*Opmerking: Die extra informatie kan enkel bekeken worden nadat je een beatmap speelde of nadat je een geëxporteerde replay bekijkt. Wanneer je het [resultatenscherm](/wiki/Interface#results-screen) verlaat, zal deze informatie niet opgeslagen worden.*
+*Opmerking: Die extra informatie kan enkel bekeken worden nadat je een beatmap speelde of nadat je een geëxporteerde replay bekijkt. Wanneer je het [resultatenscherm](/wiki/Client/Interface#results-screen) verlaat, zal deze informatie niet opgeslagen worden.*
 
 ### Nauwkeurigheid
 

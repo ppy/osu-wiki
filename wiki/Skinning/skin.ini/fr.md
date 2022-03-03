@@ -54,7 +54,7 @@ Si votre `skin.ini` ne spécifie pas de `Version`, il prendra par défaut cette 
 **Modifications de l'interface/UI**
 
 - Prise en charge des vignettes.
-  - Doit être activé par l'utilisateur dans les [options](/wiki/Options) et être pris en charge par le skin dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
+  - Doit être activé par l'utilisateur dans les [options](/wiki/Client/Options) et être pris en charge par le skin dans le fichier [skin.ini](/wiki/Skinning/skin.ini).
 - Modifie l'affichage du star rating en mettant à l'échelle `star.png` au lieu de `star.png` partiellement élargi.
 - Optimisation de l'alignement du texte du panneau.
 
@@ -194,7 +194,7 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
   - Valeurs : `0` ou `1`
   - Par défaut : `0`
   - Notes :
-    - Le sliderball par défaut sera toujours teintée, si elle est activée dans les [options](/wiki/Options).
+    - Le sliderball par défaut sera toujours teintée, si elle est activée dans les [options](/wiki/Client/Options).
 - `ComboBurstRandom`
   - Question : Les combobursts doivent-ils être affichés dans un ordre aléatoire ?
   - Valeurs : `0` ou `1`
@@ -338,7 +338,7 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
   - Par défaut : `2,170,255`
   - Notes :
     - Ceci est pour [osu!](/wiki/Game_mode/osu!).
-    - Couleur par défaut du sliderball si la teinte est désactivée dans les [options](/wiki/Options).
+    - Couleur par défaut du sliderball si la teinte est désactivée dans les [options](/wiki/Client/Options).
 - `SliderBorder:`
   - Question : Quelle couleur doit-on utiliser pour les bordures des sliders ?
   - Valeur : *RGB*

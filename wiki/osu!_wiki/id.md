@@ -1,8 +1,13 @@
+---
+outdated: true
+outdated_since: 3e747e2c31e5baabc871781b9987251ebc6da964
+---
+
 # osu! wiki
 
 **osu! wiki** adalah basis pengetahuan sumber terbuka yang ditulis dan dikelola oleh [kontributor sukarelawan](https://github.com/ppy/osu-wiki/graphs/contributors). osu! wiki berisi berbagai informasi tentang topik yang terkait dengan osu!, komunitasnya, dan aktivitas serta konsep terkait. Wiki berfungsi sebagai sumber informasi resmi dan sebagai dokumentasi sejarah osu!.
 
-Semua diskusi yang mencakup wiki secara umum, perkembangannya, dan perubahan artikel, terjadi di *channel* `#osu-wiki` di [server Discord osu!dev](/wiki/osu!dev_Discord_server) resmi. Untuk mempelajari bagaimana kamu dapat membantu osu! wiki, periksa artikel berikut:
+Semua diskusi yang mencakup wiki secara umum, perkembangannya, dan perubahan artikel, terjadi di *channel* `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) resmi. Untuk mempelajari bagaimana kamu dapat membantu osu! wiki, periksa artikel berikut:
 
 - [Panduan kontribusi](/wiki/osu!_wiki/Contribution_guide)
 - [Pemeliharaan](/wiki/osu!_wiki/Maintenance)

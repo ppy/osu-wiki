@@ -54,7 +54,7 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
 **interface/UI changes**
 
 - Thumbnail support.
-  - Must be enabled by the user in the [Options](/wiki/Options) and be supported by the skin in the [skin.ini](/wiki/Skinning/skin.ini) file.
+  - Must be enabled by the user in the [Options](/wiki/Client/Options) and be supported by the skin in the [skin.ini](/wiki/Skinning/skin.ini) file.
 - Changes star rating display to scaling `star.png` instead of partially widthed `star.png`.
 - Panel text alignment optimisations.
 
@@ -194,7 +194,7 @@ osu! organises the commands with a heading command. Which may look like this `[G
   - Values: `0` or `1`
   - Default: `0`
   - Notes:
-    - The default sliderball will always get tinted, if enabled in [options](/wiki/Options).
+    - The default sliderball will always get tinted, if enabled in [options](/wiki/Client/Options).
 - `ComboBurstRandom`
   - Question: Should combobursts be shown in a random order?
   - Values: `0` or `1`
@@ -338,7 +338,7 @@ osu! organises the commands with a heading command. Which may look like this `[G
   - Default: `2,170,255`
   - Notes:
     - This is for [osu!](/wiki/Game_mode/osu!).
-    - Default sliderball's colour if tinting is disabled in [options](/wiki/Options).
+    - Default sliderball's colour if tinting is disabled in [options](/wiki/Client/Options).
 - `SliderBorder:`
   - Question: What colour should be used for the sliderborders?
   - Value: *RGB*

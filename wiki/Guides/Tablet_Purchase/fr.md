@@ -50,7 +50,7 @@ Au moment de la rédaction de ce guide, il existe trois versions de la Bamboo, t
 
 ![](img/gen3.jpg "Bamboo troisième génération (Connect, Capture, Create - Connect présenté)")
 
-Il est préférable d'éviter l'une ou l'autre des tablettes Bamboo Touch, car elles ne sont pas dotées d'un stylet et ne sont que des trackpads multitouch pour votre ordinateur. Franchement, [Apple à fait mieux](https://apple.com/magictrackpad).
+Il est préférable d'éviter l'une ou l'autre des tablettes Bamboo Touch, car elles ne sont pas dotées d'un stylet et ne sont que des trackpads multitouch pour votre ordinateur. Franchement, [Apple à fait mieux](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad).
 
 Les autres modèles Bamboo sont disponibles en deux tailles, en principe petite et grande. Pour la deuxième génération, les Bamboo Touch, Pen, et Pen and Touch étaient les "petites", tandis que les Fun et Craft étaient les "grandes". Pour la troisième génération, les modèles Connect et Capture sont les "petits", tandis que le modèle Create est le "grand".
 
@@ -81,7 +81,7 @@ Voici quelques liens pour acheter les derniers modèles :
 - [Amazon - One by Wacom Tablet (small version) (CTL472)](https://www.amazon.com/dp/B07S1RR3FR)
 - [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://a.co/fCXqteP)
 - [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://a.co/b4GpKXt)
-- [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
+- [Huion - HUION H430P (4096)](https://store.huion.com/products/inspiroy-h430p)
   - [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](https://a.co/6uDGhXL)
 
 ## Conclusion

@@ -14,7 +14,7 @@ outdated_since: acdcb1efbd3ac94eef628b095b78cbacfcdac000
 - [Добавление нестандартных хитсаундов](Using_custom_hitsounds)
 - [Редактирование аудио](Audio_Editing)
 - [Изменение исполнителя или названия](Changing_the_Artist_or_Title)
-- [Смена текста заголовка](/wiki/Beatmap/Title_Text#changing-title-text)
+- [Смена текста заголовка](/wiki/Beatmap/Title_text#changing-title-text)
 - [Информация о коллабах](Collab_Information)
 - [Сжатие файлов](Compressing_files)
 - [Библиотека нестандартных хитсаундов](Custom_Hitsound_Library)

@@ -18,7 +18,7 @@ A **difficulty** de um beatmap descreve o nível de habilidade requirido para co
 
 ## Níveis de dificuldade
 
-*Veja também: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Veja também: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 Esses são os típicos níveis de dificuldade que um beatmap pode ser categorizado. Definições específicas e requerimentos de cada podem ser respectivamente encontrados em sua [ranking criteria](/wiki/Ranking_Criteria) de cada modo.
 

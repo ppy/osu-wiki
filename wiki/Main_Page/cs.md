@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 9b7428d718587f9fea31c773261ec4b724b52ac2
 layout: main_page
 no_native_review: true
 ---
@@ -16,9 +18,9 @@ Vítejte na osu! wiki, projekt obsahující širokou škálu osu! souvisejícíc
 
 Důležité články a příručky, které vám pomohou ponořit se do osu!. Pokud se něco pokazí nebo se zdá nejisté, navštivte [fórum nápovědy](https://osu.ppy.sh/forum/5).
 
-[Pravidla](/wiki/Rules) • [Instalace](/wiki/Installation) • [Registrace](/wiki/Registration) • [Centrum nápovědy](/wiki/Help_Centre)
+[Pravidla](/wiki/Rules) • [Instalace](/wiki/Client/Installation) • [Registrace](/wiki/Registration) • [Centrum nápovědy](/wiki/Help_centre)
 
-[Chat konzole](/wiki/Chat_Console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Návody](/wiki/Guides) • [Glosář](/wiki/Glossary)
+[Chat konzole](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Návody](/wiki/Guides) • [Glosář](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -27,9 +29,9 @@ Důležité články a příručky, které vám pomohou ponořit se do osu!. Pok
 
 Jako průvodce světem rytmu, beatu a komba, osu! má co prezentovat. Pochopte hru lépe, tím že se seznámíte s jejím nastavením, možnostmi přizpůsobení, technickými detaily a formátem souborů.
 
-[Rozhraní](/wiki/Interface) • [Možnosti](/wiki/Options) • [Vizuální nastavení](/wiki/Visual_Settings) • [Odkazy na klávesovou zkratku](/wiki/Shortcut_key_reference) • [Konfigurační soubor](/wiki/osu!_Program_Files/User_Configuration_File) • [Program files](/wiki/osu!_Program_Files)
+[Rozhraní](/wiki/Client/Interface) • [Možnosti](/wiki/Client/Options) • [Vizuální nastavení](/wiki/Client/Interface/Visual_settings) • [Odkazy na klávesovou zkratku](/wiki/Client/Keyboard_shortcuts) • [Konfigurační soubor](/wiki/Client/Program_files/User_configuration_file) • [Program files](/wiki/Client/Program_files)
 
-[Formát souborů](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
+[Formát souborů](/wiki/Client/File_formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -40,20 +42,20 @@ Vše od klikání na kruhy, údery do bubnů, chytání ovoce až po hraní na s
 
 [Herní módy](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Obtížnost](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Módy](/wiki/Game_modifier) • [Skóre](/wiki/Score) • [Replay](/wiki/Replay) • [Medajle](/wiki/Medals) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Obtížnost](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Módy](/wiki/Game_modifier) • [Skóre](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medajle](/wiki/Medals) • [Multi](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# [Editor beatmap](/wiki/Beatmap_Editor)
+# [Editor beatmap](/wiki/Client/Beatmap_editor)
 
 Všechno osu! beatmapy jsou vytvářeny kvetoucí představivostí jeho dynamické komunity. Vždy jste chtěli sdílet svou oblíbenou hudbu s ostatními, ale nevěděli jste jak? Seznamte se s vestavěným editorem a příležitostmi, které nabízí.
 
-Sekce: [Složit](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Časování](/wiki/Beatmap_Editor/Timing) • [Nastavení Skladby](/wiki/Beatmap_Editor/Song_Setup)
+Sekce: [Složit](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Časování](/wiki/Client/Beatmap_editor/Timing) • [Nastavení Skladby](/wiki/Client/Beatmap_editor/Song_Setup)
 
-Komponenty: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Časové osy](/wiki/Beatmap_Editor/Timelines)
+Komponenty: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [Časové osy](/wiki/Client/Beatmap_editor/Timelines)
 
-Aktivity: [Beatmapping](/wiki/Beatmapping) • [Mapovací techniky](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
+Aktivity: [Beatmapping](/wiki/Beatmapping) • [Mapovací techniky](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -62,7 +64,7 @@ Aktivity: [Beatmapping](/wiki/Beatmapping) • [Mapovací techniky](/wiki/Mappin
 
 Hodnocení je proces získání žebříčku pro beatmapu, díky čemuž je populárnější a uznávanější. Zjistěte, co to znamená jít touto cestou a jak zvýšit své šance na úspěch prostřednictvím recenzí beatmap, stejně jako postupů pro kontrolu kvality a procesu hodnocení.
 
-[Submission](/wiki/Submission) • [Módování](/wiki/Modding) • [Postup hodnocení](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
+[Submission](/wiki/Submission) • [Módování](/wiki/Modding) • [Postup hodnocení](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
 [Kritéria hodnocení](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -77,7 +79,7 @@ Přečtěte si o postupech a předpisech, které udržují osu! a její komunitu
 
 Mediální předpisy: [Pokyny k použití médií](/wiki/Rules/Content_Usage_Guidelines) • [Explicitní obsah](/wiki/Rules/Explicit_Content) • [Pravidla obsahu písní](/wiki/Rules/Song_Content_Rules) • [Aspekty vizuálního obsahu](/wiki/Rules/Visual_Content_Considerations)
 
-[Právní stránky](/wiki/Legal): [Podmínky služby](/wiki/Legal/Terms) • [Soukromí](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Licencování hudby](/wiki/Legal/Music_Licensing)
+[Právní stránky](/wiki/Legal): [Podmínky služby](/wiki/Legal/Terms) • [Soukromí](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Licencování hudby](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -86,11 +88,11 @@ Mediální předpisy: [Pokyny k použití médií](/wiki/Rules/Content_Usage_Gui
 
 Zde najdete odpovědi na časté otázky a řešení běžných problémů.
 
-[Centrum nápovědy](/wiki/Help_Centre) • [Odstraňování problémů s výkonem](/wiki/Performance_Troubleshooting) • [Tým podpory účtu](/wiki/People/The_Team/Account_support_team) • [Fórum nápovědy](https://osu.ppy.sh/forum/5)
+[Centrum nápovědy](/wiki/Help_centre) • [Odstraňování problémů s výkonem](/wiki/Performance_troubleshooting) • [Tým podpory účtu](/wiki/People/The_Team/Account_support_team) • [Fórum nápovědy](https://osu.ppy.sh/forum/5)
 
-Omezení profilu: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_Centre/Account_Restrictions)
+Omezení profilu: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_centre/Account_restrictions)
 
-Udělejte svojí část: [Jak a s čím pomoci](/wiki/How_you_can_help!) • [Nahlásit špatné chování](/wiki/Reporting_Bad_Behaviour) • [Nahlásit zneužití](/wiki/Reporting_Bad_Behaviour/Abuse) • [Nahlásit cheating](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play)
+Udělejte svojí část: [Jak a s čím pomoci](/wiki/Community/How_you_can_help!) • [Nahlásit špatné chování](/wiki/Reporting_bad_behaviour) • [Nahlásit zneužití](/wiki/Reporting_bad_behaviour/Abuse) • [Nahlásit cheating](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -99,20 +101,20 @@ Udělejte svojí část: [Jak a s čím pomoci](/wiki/How_you_can_help!) • [Na
 
 Sociální interakce je jednou z hlavních věcí, které pohánějí osu! hráče po celém světě. Prozkoumejte aktivity a soutěže, spojte se s ostatními nebo pomozte zorganizovat příští velkou událost!
 
-[Turnaje](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Soutěže](/wiki/Contests) • [Komunitní mentorský program](/wiki/Community_Mentorship_Program)
+[Turnaje](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Soutěže](/wiki/Contests) • [Komunitní mentorský program](/wiki/Community/Community_Mentorship_Program)
 
-[Projekty](/wiki/Projects): [Vybraní umělci](/wiki/Featured_Artists) • [osu! komunitní setkání](/wiki/osu!_Community_Meetings) • [osu!academy](/wiki/osu!academy) • [osu!mapping](/wiki/osu!mapping) • [osu!talk](/wiki/osu!talk)
+[Projekty](/wiki/Community/Projects): [Vybraní umělci](/wiki/Featured_Artists) • [osu! komunitní setkání](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+
+Organizace: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Lidé
+# [Lidé](/wiki/People)
 
 osu! by nebylo možné bez mnoha uživatelů, kteří by pomáhali s vývojem, údržbou a správou komunity: díky jejich úsilí, času a odhodlání hra žije a prosperuje.
 
 [Team](/wiki/People/The_Team): [Vývojáři](/wiki/People/The_Team/Developers) • [Tým moderátorů](/wiki/People/The_Team/Global_Moderation_Team) • [Tým podpory](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap nominátoři](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
-
-Organizace: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 [Přispěvatelé z komunity](/wiki/People/Community_Contributors) • [Uživatelé s jedinečnými tituly](/wiki/People/Users_with_unique_titles)
 
@@ -123,7 +125,7 @@ Organizace: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 Komunikujte s osu! prostřednictvím jiných aplikací a médií, nebo jí pomocte dále růst.
 
-[API](/wiki/osu!api) • [Bot účet](/wiki/Bot_account) • [Pokyny pro identitu značky](/wiki/Brand_identity_guidelines) • [osu!dev Discord server](/wiki/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [Bot účet](/wiki/Bot_account) • [Pokyny pro identitu značky](/wiki/Brand_identity_guidelines) • [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -134,7 +136,7 @@ Stejně jako téměř všechno tady, osu! wiki je psána a udržována dobrovoln
 
 [Historie osu!](/wiki/History_of_osu!) • [Historie osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Časová osa mapování a úprav](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
-[Obsah](/wiki/Sitemap) • [Jak přispět?](/wiki/osu!_wiki/Contribution_guide) • [Kritéria pro návrh článku](/wiki/Article_styling_criteria) • [Kritéria pro návrh zpráv](/wiki/News_Styling_Criteria)
+[Obsah](/wiki/Sitemap) • [Jak přispět?](/wiki/osu!_wiki/Contribution_guide) • [Kritéria pro návrh článku](/wiki/Article_styling_criteria) • [Kritéria pro návrh zpráv](/wiki/News_styling_criteria)
 
 </div>
 </div>

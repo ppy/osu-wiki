@@ -1,8 +1,15 @@
+---
+outdated: true
+outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
+---
+
 # Guide de contribution au osu! wiki
 
 Merci de votre intérêt à vouloir rendre le osu! wiki meilleur ! Cet article couvre le processus de contribution étape par étape. Si vous êtes familier avec GitHub, n'hésitez pas à suivre le feature-branch workflow pour proposer des changements et passez directement à la section concernant le [self-check](#self-check).
 
-Si vous avez besoin d'astuces ou de conseils à n'importe quelle étape, n'hésitez pas à demander dans le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server).
+Les nouveaux contributeurs ne sont pas censés connaître GitHub ou [git](https://git-scm.com/), car ce sont des outils principalement destinés aux développeurs. Ne vous inquiétez pas si vous n'arrivez pas à faire quelque chose correctement du premier coup : un [maintainer du wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers) vous indiquera la bonne direction ou corrigera le problème pour vous.
+
+Si vous avez besoin d'astuces ou de conseils à n'importe quelle étape, n'hésitez pas à demander dans le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 
 ## Domaines d'intérêt
 
@@ -46,12 +53,12 @@ Une fois que les modifications ont été vérifiées, validées et push vers vot
 
 ## Review
 
-Toutes les modifications apportées au osu! wiki sont modérées. Pendant cette étape, les autres collaborateurs signalent les erreurs possibles et les moyens de les corriger, soit sous forme libre, soit en suggérant des modifications directes de la pull request Comme pour toute autre review, vous devez répondre aux commentaires en appliquant les suggestions ou en expliquant pourquoi vous préférez garder les choses telles quelles.
+Toutes les modifications apportées au osu! wiki sont modérées. Pendant cette étape, les autres collaborateurs signalent les erreurs possibles et les moyens de les corriger, soit sous forme libre, soit en suggérant des modifications directes de la pull request Comme pour toute autre review, vous devez répondre aux commentaires en [appliquant les suggestions](/wiki/osu!_wiki/Contribution_guide/Best_practices#appliquer-les-reviews) ou en expliquant pourquoi vous préférez garder les choses telles quelles.
 
 Si personne ne s'est manifesté après quelques jours, essayez ce qui suit :
 
 - Assurez-vous d'avoir résolu toutes les suggestions - les gens peuvent attendre vos réponses.
-- Demandez aux autres rédacteurs du osu! wiki sur le [serveur Discord osu!dev](/wiki/osu!dev_Discord_server) (canal `#osu-wiki`) ou dans les commentaires de GitHub.
+- Demandez aux autres rédacteurs du osu! wiki sur le [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server) (canal `#osu-wiki`) ou dans les commentaires de GitHub.
 - Pour obtenir de l'aide pour la traduction, consultez quelques pull requests fusionnées pour votre langue et contactez leurs réviseurs et/ou auteurs ([exemple de requête GitHub](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BFR%5D+)).
 - Demandez à vos amis d'y jeter un coup d'œil !
 
@@ -59,6 +66,6 @@ En plus d'un processus de révision manuelle, le dépôt osu! wiki possède [un 
 
 ## Merge
 
-Vos modifications seront éventuellement vérifiées par l'un des [wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers), généralement après avoir été review par d'autres collaborateurs. Si rien ne se passe après un laps de temps raisonnable, demandez dans les commentaires de la pull request, ou dans le canal `#osu-wiki` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server). Vos modifications apparaîtront sur le osu! wiki peu de temps après la fusion (dans de rares cas, cela peut prendre jusqu'à cinq heures)
+Vos modifications seront éventuellement vérifiées par l'un des [wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers), généralement après avoir été review par d'autres collaborateurs. Si rien ne se passe après un laps de temps raisonnable, demandez dans les commentaires de la pull request, ou dans le canal `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Vos modifications apparaîtront sur le osu! wiki peu de temps après la fusion (dans de rares cas, cela peut prendre jusqu'à cinq heures).
 
 [osu_wiki]: https://github.com/ppy/osu-wiki

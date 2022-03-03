@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
+---
+
 # Interface
 
 ![](img/intro-screen-FR.jpg "Écran d'introduction")
@@ -6,16 +11,16 @@
 
 ![](img/main-menu-FR.png "Menu principal")
 
-L'[osu!cookie](/wiki/Glossary/Cookie) \[1\] pulse en fonction du [BPM](/wiki/Beatmapping/Beats_per_minute) de la musique en cours de lecture. On peut également voir plusieurs barres autour du logo qui changent de taille en fonction du volume de la musique. Si aucun morceau n'est joué, le logo pulse par défaut à un rythme de 60 BPM. Les éléments du menu principal sont les suivants :
+L'[osu!cookie](/wiki/Client/Interface/Cookie) \[1\] pulse en fonction du [BPM](/wiki/Beatmapping/Beats_per_minute) de la musique en cours de lecture. On peut également voir plusieurs barres autour du logo qui changent de taille en fonction du volume de la musique. Si aucun morceau n'est joué, le logo pulse par défaut à un rythme de 60 BPM. Les éléments du menu principal sont les suivants :
 
 - \[2\] Cliquez sur `Play` (`P`) ou sur le logo pour accéder au menu concernant le mode de jeu (Solo ou Multi).
-- \[3\] Cliquez sur `Edit` (`E`) pour ouvrir le menu de sélection des beatmaps dans l'[éditeur](/wiki/Beatmap_Editor).
-- \[4\] Cliquez sur `Options` (`O`) pour afficher l'écran des [options](/wiki/Options).
+- \[3\] Cliquez sur `Edit` (`E`) pour ouvrir le menu de sélection des beatmaps dans l'[éditeur](/wiki/Client/Beatmap_editor).
+- \[4\] Cliquez sur `Options` (`O`) pour afficher l'écran des [options](/wiki/Client/Options).
 - \[5\] Cliquez sur `Exit` (`Echap`) pour fermer osu!.
 - \[6\] Sous le menu sont affichés divers conseils utiles sur comment tirer le meilleur parti d'osu!, et parfois une bannière concernant un évènement en cours.
 - \[7\] Dans le coin inférieur gauche se situe un lien vers le site web d'osu! ainsi que des informations sur son copyright.
 - \[8\] Le statut de la connexion à [Bancho](/wiki/Bancho_(server))!. Il n'est pas présent sur l'image ci-dessus, mais le statut est représenté par un maillon de chaîne.
-- \[9\] En bas à droite se trouvent les boutons de contrôles du [tchat](/wiki/Chat_Console) (les raccourcis clavier sont `F8` pour le bouton "Show Chat" et `F9` pour le bouton "Online Users").
+- \[9\] En bas à droite se trouvent les boutons de contrôles du [tchat](/wiki/Client/Interface/Chat_console) (les raccourcis clavier sont `F8` pour le bouton "Show Chat" et `F9` pour le bouton "Online Users").
 - \[10\] En haut à droite se situe un jukebox qui joue aléatoirement les musiques que vous avez téléchargées. La partie la plus haute indique la musique en cours de lecture. Les boutons, de gauche à droite, effectuent ces actions :
   - Aller à la musique précédente.
   - Jouer la musique en cours de lecture.
@@ -34,7 +39,7 @@ L'[osu!cookie](/wiki/Glossary/Cookie) \[1\] pulse en fonction du [BPM](/wiki/Bea
 Accédez à cet écran en cliquant sur votre profil se trouvant en haut à gauche de votre écran (sur le menu principal). Aucune commande liée au tchat ne sera accessible depuis ce menu. Vous pouvez sélectionner un élément en appuyant sur le numéro correspondant à ​​l'option.
 
 1. `Consulter le profil` : Ouvre la page contenant votre profil plus en détail sur le site web.
-2. `Se déconnecter` : Vous déconnecte de votre compte (le menu latéral des [options](/wiki/Options) apparaîtra, vous permettant de rentrer votre pseudo et votre mot de passe)
+2. `Se déconnecter` : Vous déconnecte de votre compte (le menu latéral des [options](/wiki/Client/Options) apparaîtra, vous permettant de rentrer votre pseudo et votre mot de passe)
 3. `Changer d'avatar` : Ouvre la page permettant de modifier votre photo de profil sur le site web.
 4. `Fermer` : Ferme la fenêtre.
 
@@ -48,7 +53,7 @@ Accédez à cet écran en cliquant sur votre profil se trouvant en haut à gauch
 
 ## Lobby multijoueur
 
-*Page principale : [Multi](/wiki/Multi)*
+*Page principale : [Multi](/wiki/Gameplay/Multiplayer)*
 
 ![](img/multi-lobby-FR.jpg "Écran de sélection de salle")
 
@@ -63,7 +68,7 @@ Accédez à cet écran en cliquant sur votre profil se trouvant en haut à gauch
 7. Les [mods](/wiki/Game_modifier) que vous avez activés (voir \#12), ainsi que l'option pour les sélectionner. L'option intitulée "Mods libres" décide de si les joueurs peuvent choisir leurs propres mods ou non. Si elle est activée, les joueurs peuvent choisir n'importe quelle combinaison de mods *sauf les mods altérant la vitesse de la beatmap, comme [Double Time](/wiki/Game_modifier/Double_Time) et [Half Time](/wiki/Game_modifier/Half_Time)*. Si elle est désactivée, l'hôte décide de quels mods seront utilisés. L'hôte peut choisir les mods altérant la vitesse de la beatmap peu importe si l'option "Mods libres" est activée ou non.
 8. Le type de partie et les conditions de victoire.
 9. Le bouton "Je suis prêt !".
-10. La [console de tchat](/wiki/Chat_Console).
+10. La [console de tchat](/wiki/Client/Interface/Chat_console).
 11. Le bouton "Quitter la salle".
 12. Là où se trouvent les mods activés par l'hôte.
 
@@ -86,7 +91,7 @@ Avant de continuer, on peut voir que cet écran contient beaucoup trop d'éléme
 
 ![](img/beatmap-metadata-FR.jpg)
 
-Dans cette partie de l'écran se situent **les informations sur la difficulté de la beatmap sélectionnée.** Par défaut, la beatmap dont la musique est jouée par le jukebox est sélectionnée dans l'écran de sélection de beatmaps. En haut à gauche se situe la catégorie de la map (par exemple, deux chevrons signifient que la beatmap est *classée*). À sa droite se situe le titre de la beatmap. Par défaut, le titre romanisé est affiché, mais si vous sélectionnez `Métadonnées des maps dans leur langue d'origine dès que possible` dans les [options](/wiki/Options), le titre au format Unicode sera affiché, comme on peut voir sur la première image. Le créateur de la beatmap est également affiché, ainsi que les informations de la beatmap en dessous. De gauche à droite, on peut lire :
+Dans cette partie de l'écran se situent **les informations sur la difficulté de la beatmap sélectionnée.** Par défaut, la beatmap dont la musique est jouée par le jukebox est sélectionnée dans l'écran de sélection de beatmaps. En haut à gauche se situe la catégorie de la map (par exemple, deux chevrons signifient que la beatmap est *classée*). À sa droite se situe le titre de la beatmap. Par défaut, le titre romanisé est affiché, mais si vous sélectionnez `Métadonnées des maps dans leur langue d'origine dès que possible` dans les [options](/wiki/Client/Options), le titre au format Unicode sera affiché, comme on peut voir sur la première image. Le créateur de la beatmap est également affiché, ainsi que les informations de la beatmap en dessous. De gauche à droite, on peut lire :
 
 - **Durée** : La durée totale de la beatmap, du début à la fin et en comptant les pauses. À ne pas confondre avec le [drain time](/wiki/Gameplay/Drain_time).
 - **BPM** : Le BPM de la beatmap. Si (comme sur la deuxième image) deux BPM sont présents, dont un entre parenthèses, cela veut dire que le BPM change pendant la musique. On peut y voir le BPM le plus lent et le BPM le plus rapide, tandis que la valeur entre parenthèses est le BPM au début de la beatmap.
@@ -162,7 +167,7 @@ Filtres disponibles :
 - `status` : Le statut en ligne. La valeur peut être `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, ou `loved`, (ou, pour faire court, `r`/`a`/`p`/`n`/`u`/`l`).
 - `played` : Le temps depuis la dernière fois que la beatmap a été jouée (en jours).
 - `unplayed` : Affiche uniquement les beatmaps non jouées. Une comparaison sans valeur ajoutée doit être utilisée (la comparaison en elle-même est ignorée).
-- `speed` : La vitesse de défilement sauvegardée dans le mode osu!mania. Cette valeur sera toujours égale à 0 sur les beatmaps non jouées si l'option [Se souvenir des vitesses de défilement sur chaque map osu!mania](/wiki/Options#gameplay) est désactivée.
+- `speed` : La vitesse de défilement sauvegardée dans le mode osu!mania. Cette valeur sera toujours égale à 0 sur les beatmaps non jouées si l'option [Se souvenir des vitesses de défilement sur chaque map osu!mania](/wiki/Client/Options#gameplay) est désactivée.
 
 Comparaisons supportées:
 
@@ -264,7 +269,7 @@ Cliquez sur le bouton `Beatmap Options`, appuyez sur `F3` ou faites un clic droi
 
 Cliquez sur votre **profil** pour accéder aux **options d'utilisateur**.
 
-Cliquez sur le **[logo d'osu!](/wiki/Glossary/Cookie)** pour **commencer à jouer la beatmap sélectionnée**.
+Cliquez sur le **[logo d'osu!](/wiki/Client/Interface/Cookie)** pour **commencer à jouer la beatmap sélectionnée**.
 
 ## Écran des résultats
 
@@ -296,15 +301,15 @@ Voici votre classement en ligne. Vous pouvez y accéder en glissant l'écran des
    1. `Général` : Votre position dans le classement de la beatmap, où vous pouvez vous mesurer à d'autres joueurs qui ont utilisé des [mods](/wiki/Game_modifier), même si vous n'en avez pas utilisé.
    2. `Précision` : La [précision](/wiki/Gameplay/Accuracy) avec laquelle vous avez jouée la beatmap. Elle n'est comptée que si vous avez battu votre ancien record.
    3. `Max Combo` : Votre plus grand combo sur la beatmap jouée.
-   4. `Score classé` : Votre [meilleur score](/wiki/Score/Ranked_score) sur la beatmap.
+   4. `Score classé` : Votre [meilleur score](/wiki/Gameplay/Score/Ranked_score) sur la beatmap.
    5. `Score total` : N'est pas pris en compte puisqu'il n'affecte en rien votre position dans le classement.
    6. `Performance` : Le nombre de [PP non pondéré](/wiki/Performance_points#pourquoi-n'ai-je-pas-gagné-la-totalité-des-pp-d'une-beatmap-que-j'ai-jouée-?) obtenus sur cette partie.
 6. La section `Overall Ranking`. Elle est disponible uniquement pour les beatmaps avec un classement en ligne. Vous devez également être en ligne pour voir cette section.
    1. `Général` : Votre classement global sur la beatmap.
    2. `Précision` : Votre [précision](/wiki/Gameplay/Accuracy#précision) globale sur toutes les beatmaps que vous avez jouées.
    3. `Max Combo` : Votre plus grand combo sur toutes les beatmaps que vous avez jouées.
-   4. Le [`score classé`](/wiki/Score/Ranked_score) : Le nombre total de points que vous avez obtenu sur toutes les beatmaps ayant un classement en ligne que vous avez jouées, chaque beatmap ne comptant qu'une seule fois.
-   5. Le [`score total`](/wiki/Score/Total_score) : Le fonctionnement est identique à celui du score classé, mais il prend en compte toutes les beatmaps présentes sur le site d'osu!, ainsi que les beatmaps que vous avez quittées avant la fin et celles que vous avez échouées. Ce score compte dans votre niveau.
+   4. Le [`score classé`](/wiki/Gameplay/Score/Ranked_score) : Le nombre total de points que vous avez obtenu sur toutes les beatmaps ayant un classement en ligne que vous avez jouées, chaque beatmap ne comptant qu'une seule fois.
+   5. Le [`score total`](/wiki/Gameplay/Score/Total_score) : Le fonctionnement est identique à celui du score classé, mais il prend en compte toutes les beatmaps présentes sur le site d'osu!, ainsi que les beatmaps que vous avez quittées avant la fin et celles que vous avez échouées. Ce score compte dans votre niveau.
    6. `Performance` : Affiche votre nombre total de Points de Performance, ainsi que le nombre de PP que votre score vaut.
 7. Informations sur la beatmap, ainsi que le nombre de parties jouées et le taux de réussite sur celle-ci.
 8. Note globale de la beatmap. Vous pouvez noter la beatmap que vous venez de jouer en fonction de si vous l'avez aimée ou non. Si vous n'arrivez pas à vous décider, laissez cela de côté.

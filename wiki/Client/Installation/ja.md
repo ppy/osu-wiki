@@ -4,9 +4,9 @@ no_native_review: true
 
 # インストール
 
-*関連情報: [インストール/macOS](/wiki/Installation/macOS)*
+*関連情報: [インストール/macOS](/wiki/Client/Installation/macOS)*
 
-このページではWindowsデバイス上でosu!をインストールする方法について大まかに説明しています。 [osu!academy](/wiki/osu!academy)にはWindowsへのインストール方法を説明している[チュートリアル動画](https://www.youtube.com/watch?v=0V5GwzmMhpU)があります。
+このページではWindowsデバイス上でosu!をインストールする方法について大まかに説明しています。 [osu!academy](/wiki/Community/Video_series/osu!academy)にはWindowsへのインストール方法を説明している[チュートリアル動画](https://www.youtube.com/watch?v=0V5GwzmMhpU)があります。
 
 ## 最低システム条件
 
@@ -39,7 +39,7 @@ no_native_review: true
 4. ファイルの拡張子が`.osz`のビートマップセットを開きます。
    - もしくは、ビートマップセットをosu!がインストールされたディレクトリの`Songs`ディレクトリに配置しても追加できます。
 5. osu!は自動的にビートマップセットを処理して読み込みます。
-   - なんらかの理由で読み込まれない場合は、[曲の選択](/wiki/Interface#song-selection-screen)で`F5`を押して再処理します。
+   - なんらかの理由で読み込まれない場合は、[曲の選択](/wiki/Client/Interface#song-select)で`F5`を押して再処理します。
 
 ### osu!direct
 
@@ -50,7 +50,7 @@ no_native_review: true
 3. リストの曲をダブルクリックするか、右側の「Download」をクリックしてダウンロードします。
    - ビートマップセットに付属する動画をダウンロードしたくない場合は、`DL NoVideo`をクリックしてください。
 4. osu!がビートマップセットのダウンロードを完了すると、自動的に読み込まれます。
-   - なんらかの理由で読み込まれない場合は、[曲の選択](/wiki/Interface#song-selection-screen)で`F5`を押して再処理します。
+   - なんらかの理由で読み込まれない場合は、[曲の選択](/wiki/Client/Interface#song-select)で`F5`を押して再処理します。
 
 ## スキンの追加
 
@@ -66,5 +66,5 @@ no_native_review: true
      1. 解凍します。
      2. 解凍したスキンフォルダをosu!のインストール場所の`Skins`ディレクトリに移動します。
      3. もしosu!が起動している場合、リストにスキンが表示されるのは`Ctrl` + `Alt` + `Shift` + `S`を押した後だけです。
-     4. osu!で[オプション](/wiki/Options)に移動し、`Skin`を検索します。
+     4. osu!で[オプション](/wiki/Client/Options)に移動し、`Skin`を検索します。
      5. `現在のスキン`オプションまでスクロールし、ダウンロードしたスキンを選択します。

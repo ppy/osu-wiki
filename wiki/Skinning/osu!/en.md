@@ -16,7 +16,7 @@ Notes:
   - One of the images in the set will be appear when a combo milestone is met.
 - For v2.2-, this is osu! and osu!catch's combobursts.
 - For v2.3+, this is osu!'s combobursts.
-- This can be disabled in the [options](/wiki/Options).
+- This can be disabled in the [options](/wiki/Client/Options).
 - This should face towards the right.
 
 ## Default Numbers
@@ -204,7 +204,7 @@ Notes:
 - Tinting depends on the hit circle's combo colour.
 - This element shrinks over time.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this element will not be used.
-    - To show the first approach circle with Hidden mod enabled, the player will need to enable it in the [options](/wiki/Options).
+    - To show the first approach circle with Hidden mod enabled, the player will need to enable it in the [options](/wiki/Client/Options).
 - Should be a circle.
 
 ---
@@ -259,7 +259,7 @@ Notes:
 
 Notes:
 
-- This element is only used in the [beatmap editor](/wiki/Beatmap_Editor).
+- This element is only used in the [beatmap editor](/wiki/Client/Beatmap_editor).
 - Should be a circle.
 
 ---
@@ -290,7 +290,7 @@ Notes:
 
 Notes:
 
-- This can be disabled in the [options](/wiki/Options).
+- This can be disabled in the [options](/wiki/Client/Options).
 - Tinting depends on the hit circle's combo colour.
 - Used during kiai time:
   - Coloured afterimage as part of hitburst explosion.

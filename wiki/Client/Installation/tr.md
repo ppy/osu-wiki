@@ -1,8 +1,8 @@
 # Kurulum
 
-*Ayrıca bakınız: [macOS için Kurulum](/wiki/Installation/macOS)*
+*Ayrıca bakınız: [macOS için Kurulum](/wiki/Client/Installation/macOS)*
 
-Bu sayfa size Windows cihazınızda osu!'yu nasıl çalıştıracağınızı anlatacaktır. [osu!academy](/wiki/osu!academy)'nin osu!'nun Windows'a nasıl kurulduğunu açıklayan bir [video rehberi](https://www.youtube.com/watch?v=0V5GwzmMhpU) bulunmaktadır.
+Bu sayfa size Windows cihazınızda osu!'yu nasıl çalıştıracağınızı anlatacaktır. [osu!academy](/wiki/Community/Video_series/osu!academy)'nin osu!'nun Windows'a nasıl kurulduğunu açıklayan bir [video rehberi](https://www.youtube.com/watch?v=0V5GwzmMhpU) bulunmaktadır.
 
 ## Minimum sistem gereksinimleri
 
@@ -46,7 +46,7 @@ Beatmap eklemenin iki yolu vardır, web sayfası üzerinden ya da osu!direct üz
 4. Beatmap seti dosyasını bulun ve açın, `.osz` uzantısına sahiptir.
    - Alternatif olarak, beatmap seti dosyasını osu! dosya konumundaki `Songs` dizinine yerleştirebilirsiniz.
 5. Geri kalanını osu! sizin için otomatik olarak halledecektir ve beatmap setini yükleyecektir.
-   - Eğer, herhangi bir nedenden dolayı, onları göremiyorsanız, beatmaplerinizi yenilemek için [Şarkı Seçimi](/wiki/Interface#Şarkı-Seçme-Ekranı) kısmında `F5`'e basın.
+   - Eğer, herhangi bir nedenden dolayı, onları göremiyorsanız, beatmaplerinizi yenilemek için [Şarkı Seçimi](/wiki/Client/Interface#Şarkı-Seçme-Ekranı) kısmında `F5`'e basın.
 
 ### osu!direct
 
@@ -57,7 +57,7 @@ Beatmap eklemenin iki yolu vardır, web sayfası üzerinden ya da osu!direct üz
 3. Listedeki şarkıyı indirmek için çift tıklayın ya da sağdaki `Download` butonuna tıklayın.
    - Eğer beatmap seti ile birlikte gelen videoyu indirmek istemiyorsanız, `DL NoVideo` butonuna tıklayın.
 4. osu! beatmap setlerinizi indirmeyi tamamladığında otomatik olarak yükleyecektir.
-   - Eğer, herhangi bir nedenden dolayı, onları göremiyorsanız, beatmaplerinizi yenilemek için [Şarkı Seçimi](/wiki/Interface#Şarkı-Seçme-Ekranı) kısmında `F5`'e basın.
+   - Eğer, herhangi bir nedenden dolayı, onları göremiyorsanız, beatmaplerinizi yenilemek için [Şarkı Seçimi](/wiki/Client/Interface#Şarkı-Seçme-Ekranı) kısmında `F5`'e basın.
 
 ## Tema ekleme
 
@@ -73,5 +73,5 @@ Beatmap eklemenin iki yolu vardır, web sayfası üzerinden ya da osu!direct üz
      1. Dizine çıkarın.
      2. Çıkarılmış tema dosyasını osu! dosya konumundaki `Skins` dizinine aktarın.
      3. Eğer osu! çalışıyorsa, `Ctrl` + `Alt` + `Shift` + `S` kısayolunu kullandıktan sonra tema görüntülenecektir.
-     4. osu! içerisinde, [Seçeneklere](/wiki/Options) gidin ve aramaya `Tema` yazın.
+     4. osu! içerisinde, [Seçeneklere](/wiki/Client/Options) gidin ve aramaya `Tema` yazın.
      5. `Şimdiki Tema:` seçeneğine tıklayıp çıkan menüde indirdiğiniz temayı seçin.

@@ -2,7 +2,7 @@
 
 The **osu! wiki** is an open-source knowledge database written and maintained by [volunteer contributors](https://github.com/ppy/osu-wiki/graphs/contributors). It contains a wide range of information on topics related to osu!, its community, and related activities and concepts. The wiki serves as an official source of information and is considered as a documentation of the history of osu!.
 
-All discussions that cover the wiki in general, its development, and changes to articles, happen in the `#osu-wiki` channel of the official [osu!dev Discord server](/wiki/osu!dev_Discord_server). To learn how you can help the osu! wiki, check the following articles:
+All discussions that cover the wiki in general, its development, and changes to articles, happen in the `#osu-wiki` channel of the official [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server). To learn how you can help the osu! wiki, check the following articles:
 
 - [Contribution guide](/wiki/osu!_wiki/Contribution_guide)
 - [Maintenance](/wiki/osu!_wiki/Maintenance)
@@ -31,8 +31,8 @@ Articles are composed according to the [styling criteria](/wiki/Article_styling_
 
 Despite having the *wiki* suffix in its name, the osu! wiki does not fully satisfy [the Wiki concept](https://en.wikipedia.org/wiki/Wiki):
 
-- Users are encouraged to improve existing articles and create new ones, but basic knowledge of [GitHub](https://github.com) is expected, which raises the threshold necessary for entry.
-- All changes to the osu! wiki are pre-moderated and undergo a review process, where a contributor is expected to collaborate with the wiki maintainers and respond to feedback.
+- Improvement of existing articles and creation of new ones are encouraged, but basic knowledge of [GitHub](https://github.com) is necessary in order to contribute, which raises the threshold necessary for entry. The osu! wiki does however provide a [contribution guide](/wiki/osu!_wiki/Contribution_guide) to help new contributors get started.
+- All changes to the osu! wiki are pre-moderated and undergo a review process, where a contributor is expected to collaborate with reviewers and respond to feedback.
 
 ## Licence
 

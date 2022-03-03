@@ -380,7 +380,7 @@ Sunday, 23 August 2015:
 4. If no staff or referee is available, the match will be postponed.
 5. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a map gets considered as passing it.
-6. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
+6. Use of the [Visual Settings](/wiki/Client/Interface/Visual_settings) options are allowed.
 7. If the game ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the map.
 9. Maps cannot be reused in the same match unless the game was nullified.

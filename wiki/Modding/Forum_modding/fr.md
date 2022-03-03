@@ -11,7 +11,7 @@ tags:
 
 # Forum modding
 
-**Forum modding**, également connu sous le nom de *Modding v1*, est un nom familier du système de [modding](/wiki/Modding) et de classement basé sur le forum qui a été principalement utilisé jusqu'au [4 novembre 2017](https://osu.ppy.sh/community/forums/topics/650961?n=7), date à laquelle toutes les [beatmaps](/wiki/Beatmap) nouvelles et inactives sont passées en [discussions d'une beatmap](/wiki/Beatmap_Discussion) par défaut.
+**Forum modding**, également connu sous le nom de *Modding v1*, est un nom familier du système de [modding](/wiki/Modding) et de classement basé sur le forum qui a été principalement utilisé jusqu'au [4 novembre 2017](https://osu.ppy.sh/community/forums/topics/650961?n=7), date à laquelle toutes les [beatmaps](/wiki/Beatmap) nouvelles et inactives sont passées en [discussions d'une beatmap](/wiki/Beatmap_discussion) par défaut.
 
 Dans le système de modding du forum, chaque beatmap avait un fil de discussion pour la communication et l'enregistrement de la [procédure de classement](/wiki/Beatmap_ranking_procedure).
 
@@ -41,7 +41,7 @@ Dans chaque sous-forum, les fils des beatmaps étaient classés selon leur star 
 - Certains moddeurs et membres de la BAT se sont appuyés sur la star priority pour décider de la map à modder ou à examiner ensuite.
 - La star priority était une mesure approximative de la popularité d'une beatmap parmi les moddeurs et les mappeurs.
 
-La priorité d'une beatmap peut être augmentée par des mods recevant des kudosu ou des utilisateurs tirant des étoiles de kudosu. Dans les [discussions sur les beatmaps](/wiki/Beatmap_Discussion) modernes, la star priority est comparable au nombre de [hype](/wiki/Beatmap/Hype) d'une beatmap.
+La priorité d'une beatmap peut être augmentée par des mods recevant des kudosu ou des utilisateurs tirant des étoiles de kudosu. Dans les [discussions sur les beatmaps](/wiki/Beatmap_discussion) modernes, la star priority est comparable au nombre de [hype](/wiki/Beatmap/Hype) d'une beatmap.
 
 ### Icônes des fils
 
@@ -63,7 +63,7 @@ La progression d'une beatmap dans la procédure de classement était indiquée p
 ![](img/mod-post.png "Un exemple de message de mod qui a été récompensé par un kudosu.")
 :::
 
-Contrairement aux [discussions sur les beatmaps](/wiki/Beatmap_Discussion), un message typique de modérateur de forum couvrait l'ensemble de la beatmap et pouvait contenir beaucoup de contenu. Si les utilisateurs étaient libres d'exprimer leurs pensées sous la forme qu'ils souhaitaient, la majorité des moddeurs respectaient une structure spécifique afin de rendre leurs messages plus lisibles :
+Contrairement aux [discussions sur les beatmaps](/wiki/Beatmap_discussion), un message typique de modérateur de forum couvrait l'ensemble de la beatmap et pouvait contenir beaucoup de contenu. Si les utilisateurs étaient libres d'exprimer leurs pensées sous la forme qu'ils souhaitaient, la majorité des moddeurs respectaient une structure spécifique afin de rendre leurs messages plus lisibles :
 
 - Il y avait plusieurs sections correspondant à des difficultés individuelles et une liste de paramètres/problèmes à l'échelle de la beatmap.
 - Chaque section contenait une liste d'[horodatages](/wiki/Modding/Timestamp), pointant souvent vers des [objets](/wiki/Hit_object) spécifiques.
@@ -99,7 +99,7 @@ Dans le système de modding basé sur le forum, de nombreuses actions étaient m
 - Les mods peuvent être partiellement ou totalement ignorés, intentionnellement ou non.
 - Les maps pourraient être classées avec des questions unranked, ou sans l'approbation du ou des nominateurs spécifiques au mode.
 
-Les modifications nécessaires pour résoudre les problèmes les plus courants ont été initiées le [26 avril 2013](https://osu.ppy.sh/community/forums/topics/129625), lorsque [peppy](/wiki/People/peppy) a présenté l'idée du [nouveau système de modding](/wiki/Beatmap_Discussion) (connu ensuite sous le nom de *Modding v2*). Le [21 août 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), une nouvelle catégorie, [qualifiée](/wiki/Beatmap/Category#qualifiée), a été ajoutée. La catégorie servirait de tampon entre les beatmaps en attente et les beatmaps classés et permettrait des déranks plus fluides. De plus, une nouvelle équipe, la [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*), a été créée pour vérifier les beatmaps qualifiés et contrôler le processus de classement.
+Les modifications nécessaires pour résoudre les problèmes les plus courants ont été initiées le [26 avril 2013](https://osu.ppy.sh/community/forums/topics/129625), lorsque [peppy](/wiki/People/peppy) a présenté l'idée du [nouveau système de modding](/wiki/Beatmap_discussion) (connu ensuite sous le nom de *Modding v2*). Le [21 août 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), une nouvelle catégorie, [qualifiée](/wiki/Beatmap/Category#qualifiée), a été ajoutée. La catégorie servirait de tampon entre les beatmaps en attente et les beatmaps classés et permettrait des déranks plus fluides. De plus, une nouvelle équipe, la [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*), a été créée pour vérifier les beatmaps qualifiés et contrôler le processus de classement.
 
 Ensuite, le système de discussion des beatmap et le [code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#créer-un-mod-post) ont été développés et mis à disposition pour restructurer le modding et en faire une expérience plus agréable pour toutes les personnes impliquées :
 

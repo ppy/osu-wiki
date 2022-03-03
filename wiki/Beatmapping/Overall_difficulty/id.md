@@ -22,7 +22,7 @@ Semakin tinggi nilai OD, semakin pendek jeda waktu untuk menekan [hit object](/w
 | 100 | `280ms - 16ms * OD` |
 | 300 | `160ms - 12ms * OD` |
 
-Jika pemain menekan hit object diluar dari 50 hit window, itu akan dihitung sebagai miss. Pada kasus hit window antara dua objek yang bertumpuk, objek kedua tidak akan bisa ditekan hingga objek pertama hilang karena mekanik [notelock](/wiki/Gameplay/Notelock).
+Jika pemain menekan hit object diluar dari 50 hit window, itu akan dihitung sebagai miss. Pada kasus hit window antara dua objek yang bertumpuk, objek kedua tidak akan bisa ditekan hingga objek pertama hilang karena mekanik [notelock](/wiki/Gameplay/Judgement/Notelock).
 
 ## Slider dan spinner
 

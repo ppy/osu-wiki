@@ -12,7 +12,7 @@ Transcending all genre stereotypes, **METAROOM** is a California-based producer 
 
 [**METAROOM**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/206) is a cool place to be with **15** songs up for grabs. While you're there, you could even say you're in the **METAROOM** room. But you really shouldn't.
 
-Behind the scenes, [Lugu](https://osu.ppy.sh/users/12851847) from the Mappers' Guild has been hard at work creating a [showcase beatmap](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps) for today's artist announcement. See how it turned out alongside osu!lazer's new built-in Performance Points counter, then check out the other previews below:
+Behind the scenes, [Lugu](https://osu.ppy.sh/users/12851847) from the Mappers' Guild has been hard at work creating a [showcase beatmap](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) for today's artist announcement. See how it turned out alongside osu!lazer's new built-in Performance Points counter, then check out the other previews below:
 
 <div align="center">
     <video width="100%" controls>

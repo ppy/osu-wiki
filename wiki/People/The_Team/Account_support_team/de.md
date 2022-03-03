@@ -14,32 +14,32 @@ Es dauert normalerweise einige Tage für den Support, die E-Mail zu bearbeiten. 
 
 ## Rollen und Aufgaben
 
-*Hauptartikel: [Hilfecenter](/wiki/Help_Centre)*
+*Hauptartikel: [Hilfecenter](/wiki/Help_centre)*
 
-*Siehe auch: [Einschränkungen des Accounts](/wiki/Help_Centre/Account_Restrictions)*
+*Siehe auch: [Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions)*
 
 Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du keinen Einfluss hast. Bitte denke daran, so viel Kontext zu deinem Problem wie möglich zu schildern und die E-Mail von deiner mit osu! assoziierten E-Mail-Adresse zu senden.
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [Beschwerden für Einschränkungen auf deinem Account](/wiki/Help_Centre/Account_Restrictions) sowie zusätzlich:
+- [Beschwerden für Einschränkungen auf deinem Account](/wiki/Help_centre/Account_restrictions) sowie zusätzlich:
   - Stummschaltungen;
   - Entfernung von Profilinhalten;
   - Entfernung von Beatmaps;
   - Entfernung von Forumsbeiträgen und Kommentaren.
-- Fälle von Fehlverhalten, die du [gestehen möchtest](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#was-kann-ich-tun,-wenn-ich-die-regeln-gebrochen-habe?).
-- [Verlust des Zugriffs auf die E-Mail](/wiki/Help_Centre/Installation_and_registration#wo-registriere-ich-mich-für-osu!?), die mit deinem osu!-Account verbunden ist oder, wenn dein Account gestohlen wurde.
-- [Rücksetzungen des Benutzernamens und Rechtschreibfehlerkorrekturen](/wiki/Help_Centre/Account#namensänderungen).
+- Fälle von Fehlverhalten, die du [gestehen möchtest](/wiki/Reporting_bad_behaviour/Handling_foul_play#was-kann-ich-tun,-wenn-ich-die-regeln-gebrochen-habe?).
+- [Verlust des Zugriffs auf die E-Mail](/wiki/Help_centre/Installation_and_registration#wo-registriere-ich-mich-für-osu!?), die mit deinem osu!-Account verbunden ist oder, wenn dein Account gestohlen wurde.
+- [Rücksetzungen des Benutzernamens und Rechtschreibfehlerkorrekturen](/wiki/Help_centre/Account#namensänderungen).
 - [Registrierungen von Bot-Accounts](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Tipp: Um einen extremen Fall von Fehlverhalten oder sexuellem Missbrauch von jeglichem Benutzer, ebenso Moderatoren, zu melden, siehe [Missbrauch melden](/wiki/Reporting_Bad_Behaviour/Abuse).*
+*Tipp: Um einen extremen Fall von Fehlverhalten oder sexuellem Missbrauch von jeglichem Benutzer, ebenso Moderatoren, zu melden, siehe [Missbrauch melden](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Bedenken über das Fehlverhalten eines Moderators.
 - Bedenken über einen Moderator, der die [Richtlinien für Mitwirkende](/wiki/Contributor_Code_of_Conduct) bricht.
-- [Probleme beim Kauf](/wiki/Help_Centre/Account#supporter) einer Bestellung vom [osu!store](https://osu.ppy.sh/store/listing).
-- Technische Probleme, die nicht im [Hilfe-Forum](https://osu.ppy.sh/community/forums/5) gelöst werden konnten, wie z. B. [Verbindungsprobleme](/wiki/Help_Centre/Client#online-features).
+- [Probleme beim Kauf](/wiki/Help_centre/Account#supporter) einer Bestellung vom [osu!store](https://osu.ppy.sh/store/listing).
+- Technische Probleme, die nicht im [Hilfe-Forum](https://osu.ppy.sh/community/forums/5) gelöst werden konnten, wie z. B. [Verbindungsprobleme](/wiki/Help_centre/Client#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

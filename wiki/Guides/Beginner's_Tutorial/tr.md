@@ -86,9 +86,9 @@ Sürekli nota kaçırmanıza sebep olan bir şey üzerinde pratik yapmaktan çek
 
 *Ana sayfa: [Offset Sihirbazı Nasıl Kullanılır](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
 
-osu!'yu oynamak için kullandığınız aygıtlara bağlı olarak, vuruş dairelerinin müziğin ritmine tam olarak uymadığını fark edebilirsiniz. Bunu düzeltmek için, [Ayarlar](/wiki/Options) menüsündeki üniversal ofset değerini değiştirebilirsiniz. Üniversal ofset beatmaplerin ilk notasının ne zaman ortaya çıkacağını (ister daha erken ister daha geç) değiştirir, bu da beatmaptaki diğer bütün notaların aynı miktarda gecikmesine sebep olur. Negatif bir değer notaların biraz daha geç, pozitif bir değer ise daha erken ortaya çıkmalarına sebep olur.
+osu!'yu oynamak için kullandığınız aygıtlara bağlı olarak, vuruş dairelerinin müziğin ritmine tam olarak uymadığını fark edebilirsiniz. Bunu düzeltmek için, [Ayarlar](/wiki/Client/Options) menüsündeki üniversal ofset değerini değiştirebilirsiniz. Üniversal ofset beatmaplerin ilk notasının ne zaman ortaya çıkacağını (ister daha erken ister daha geç) değiştirir, bu da beatmaptaki diğer bütün notaların aynı miktarda gecikmesine sebep olur. Negatif bir değer notaların biraz daha geç, pozitif bir değer ise daha erken ortaya çıkmalarına sebep olur.
 
-[Ayarlar](/wiki/Options) menüsünden erişebileceğiniz [Offset Sihirbazı'nda](/wiki/Options/Offset_Wizard), örnek bir şarkı üstüne metronom vuruşları eklenmiş şekilde çalmaya başlayacak. Yukarı/Aşağı ok tuşları ya da fare tekerleğinizi kullanarak metronomun vuruşları çubuklar orta çizgiyi geçtiği anda eşleşene kadar kademeli olarak ofseti ayarlayın.
+[Ayarlar](/wiki/Client/Options) menüsünden erişebileceğiniz [Offset Sihirbazı'nda](/wiki/Client/Options/Offset_Wizard), örnek bir şarkı üstüne metronom vuruşları eklenmiş şekilde çalmaya başlayacak. Yukarı/Aşağı ok tuşları ya da fare tekerleğinizi kullanarak metronomun vuruşları çubuklar orta çizgiyi geçtiği anda eşleşene kadar kademeli olarak ofseti ayarlayın.
 
 Bir beatmapi oynarken ekranın en altında Vuruş Çizgisi grafiğini göreceksiniz. Bir notayı basmak ne kadar isabetli olarak bastığınıza göre değişecek şekilde beyaz bir çubuğun belirmesine sebep olacaktır. Eğer bütün vuruşlarınız merkezin sol tarafında ise, üniversal ofseti biraz arttırmayı deneyin. Eğer hepsi sağ tarafta ise, azaltmayı deneyin.
 
@@ -96,7 +96,7 @@ Hoşunuza gidene kadar üniversal ofseti değiştirin. Doğru değeri bulmak ort
 
 ### Hassas girdi
 
-*Ayrıca bakınız: [Ayarlar](/wiki/Options#mouse)*
+*Ayrıca bakınız: [Ayarlar](/wiki/Client/Options#mouse)*
 
 Oyunun sıkça gözardı edilen özelliklerinden biri de Hassas Girdi fonksiyonudur. Bu girdi aygıtınızın doğrudan osu! tarafından okunmasını sağlar. Bunu sizler de eğer Windows'un fare imlecinize yaptığı muameleden hoşnut değilseniz kullanabilrisiniz, özellikle tablet kullanıcıları için tavsiye edilir. Gidip onunla birkaç beatmap oynamayı deneyin, çok daha rahat olduğunuzu fark edebilirsiniz.
 

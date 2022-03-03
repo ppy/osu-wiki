@@ -24,7 +24,7 @@ Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste o
 
 ## Erweiterte Chatkonsole
 
-*Die [osu!academy](/wiki/osu!academy) (englisch) hat dieses Thema in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) zusammen mit dem [Mehrspielermodus](/wiki/Multi) behandelt.*
+*Die [osu!academy](/wiki/Community/Video_series/osu!academy) (englisch) hat dieses Thema in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) zusammen mit dem [Mehrspielermodus](/wiki/Gameplay/Multiplayer) behandelt.*
 
 Fast überall in osu! kann mit dem Betätigen der `F9`-Taste oder durch das Klicken des `Online Users`-Tabs (unten rechts) die Chatkonsole erweitert werden. Als Zusatz zu der Chatkonsole wird dann ein Fenster voller Panels von eingeloggten Nutzern eingeblendet, auf dem man auch die momentane Aktivität der Nutzer sehen kann.
 
@@ -59,7 +59,7 @@ Das Fenster lässt sich mit dem weißen Balken auf der rechten Seite oder dem Ma
 | ![Spieler ist im Mehrspieler](img/Chat_Console-Multiplayer.png "Spieler ist im Mehrspieler") | **Braun** - Der Spieler ist im Mehrspielermodus, spielt aber gerade nicht. |
 | ![Spieler spielt im Mehrspieler](img/Chat_Console-Multiplaying.png "Spieler spielt im Mehrspieler") | **Gelb** - Der Spieler spielt eine Beatmap im Mehrspieler. |
 | ![Spieler ist AFK](img/Chat_Console-Afk.png "Spieler ist AFK") | **Schwarz** - Der Spieler ist inaktiv bzw. afk (away from keyboard). |
-| ![Spieler ist per IRC verbunden](img/Chat_Console-IRC.png "Spieler ist per IRC verbunden") | **Dunkelblau ohne Inhalt** - Der Spieler hat sich über einen [IRC](/wiki/Internet_Relay_Chat)-Client eingeloggt. |
+| ![Spieler ist per IRC verbunden](img/Chat_Console-IRC.png "Spieler ist per IRC verbunden") | **Dunkelblau ohne Inhalt** - Der Spieler hat sich über einen [IRC](/wiki/Community/Internet_Relay_Chat)-Client eingeloggt. |
 
 Klicke auf ein Nutzerpanel, um zum Optionsmenü zu gelangen:
 

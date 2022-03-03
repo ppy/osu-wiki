@@ -12,8 +12,8 @@
 | :-- | :-- | :-- |
 | `[General]` | 谱面的一般信息 | `key: value` 键值对 |
 | `[Editor]` | 谱面编辑器的设置 | `key: value` 键值对 |
-| `[Metadata]` | 谱面[自身信息](/wiki/Beatmap_Editor/Song_Setup#歌曲信息设定与相关信息设定(song-and-map-meta-data))的描述 | `key:value` 键值对 |
-| `[Difficulty]` | [难度设定](/wiki/Beatmap_Editor/Song_Setup#谱面难度设定(Difficulty)) | `key:value` 键值对 |
+| `[Metadata]` | 谱面[自身信息](/wiki/Client/Beatmap_editor/Song_Setup#歌曲信息设定与相关信息设定(song-and-map-meta-data))的描述 | `key:value` 键值对 |
+| `[Difficulty]` | [难度设定](/wiki/Client/Beatmap_editor/Song_Setup#谱面难度设定(Difficulty)) | `key:value` 键值对 |
 | `[Events]` | 专用于此谱面的故事板事件 | 逗号分隔值 |
 | `[TimingPoints]` | 时间点和控制点 | 逗号分隔值 |
 | `[Colours]` | 连击皮肤颜色 | `key : value` 键值对 |
@@ -45,15 +45,15 @@
 
 ## Editor （编辑器设置）
 
-这些选项只在使用[谱面编辑器](/wiki/Beatmap_Editor)打开谱面有效，不影响游玩效果
+这些选项只在使用[谱面编辑器](/wiki/Client/Beatmap_editor)打开谱面有效，不影响游玩效果
 
 | 选项 | 值类型 | 描述 |
 | :-- | :-- | :-- |
-| `Bookmarks` | 用逗号分隔的整数 | [书签](/wiki/Beatmap_Editor/Compose#bottom-(song's-timeline))(以毫秒为单位) |
-| `DistanceSpacing` | 小数 | [间距控制](/wiki/Beatmap_Editor/Distance_Snap)的倍数 |
-| `BeatDivisor` | 小数 | [节拍细分](/wiki/Beatmap_Editor/Beat_Snap_Divisor) |
+| `Bookmarks` | 用逗号分隔的整数 | [书签](/wiki/Client/Beatmap_editor/Compose#bottom-(song's-timeline))(以毫秒为单位) |
+| `DistanceSpacing` | 小数 | [间距控制](/wiki/Client/Beatmap_editor/Distance_snap)的倍数 |
+| `BeatDivisor` | 小数 | [节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | `GridSize` | 整数 | [网格尺寸](/wiki/Grid_snapping) |
-| `TimelineZoom` | 小数 | [物件时间轴](/wiki/Beatmap_Editor/Compose#top-left-(hit-objects-timeline))的缩放 |
+| `TimelineZoom` | 小数 | [物件时间轴](/wiki/Client/Beatmap_editor/Compose#top-left-(hit-objects-timeline))的缩放 |
 
 ## Metadata （谱面元数据）
 
@@ -141,7 +141,7 @@
 
 时间点有两个额外效果，可以在 `effects` 整数中使用0和3数位（从最低到最高）进行切换:
 
-- 0：是否为[kiai时间](/wiki/Kiai_time) 
+- 0：是否为[kiai时间](/wiki/Gameplay/Kiai_time) 
 - 3：在osu!taiko与osu!mania模式中是否忽略第一条线
 
 其余位未使用。

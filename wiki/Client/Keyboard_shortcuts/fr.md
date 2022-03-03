@@ -12,7 +12,7 @@ tags:
 
 Il existe de nombreux raccourcis dans osu! qui peuvent être utilisés en jeu ou depuis n'importe quel menu. Ils sont listés ci-dessous avec leurs fonctions.
 
-*Remarque : Cet article répertorie les raccourcis clavier par défaut. Vous pouvez modifier certains d'entre eux dans les [options](/wiki/Options).*
+*Remarque : Cet article répertorie les raccourcis clavier par défaut. Vous pouvez modifier certains d'entre eux dans les [options](/wiki/Client/Options).*
 
 ## Général
 
@@ -43,7 +43,7 @@ Ces raccourcis fonctionnent partout :
 | `Esc` | Revient en arrière ou annule. |
 | `P`, `E`, ou `O` | Ouvre le menu de lecture. |
 | `P` trois fois | Entre dans le mode Solo. |
-| `P` deux fois, puis `M` | Entre dans le mode [Multi](/wiki/Multi). |
+| `P` deux fois, puis `M` | Entre dans le mode [Multi](/wiki/Gameplay/Multiplayer). |
 | `E` deux fois | Entre dans le mode Edit. |
 | `O` | Ouvre la barre latérale des options. |
 | `Q` | Affiche le menu de sortie |
@@ -145,7 +145,7 @@ Ces raccourcis fonctionnent partout :
 
 ## Éditeur de beatmaps
 
-*Page principale : [Éditeur de beatmaps](/wiki/Beatmap_Editor)*
+*Page principale : [Éditeur de beatmaps](/wiki/Client/Beatmap_editor)*
 
 ### Général
 
@@ -170,10 +170,10 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 | `Ctrl` + `N` | Ouvre une fenêtre de confirmation pour supprimer tous les objets. |
 | `Ctrl` + `Up/Down Arrow` | Augmente/diminue la vitesse de lecture de 25%. |
 | `Ctrl` + `Shift` + `Up/Down Arrow` | Augmente/diminue la vitesse de lecture de 5%. |
-| `F1` | Passe en mode [compose](/wiki/Beatmap_Editor/Compose). |
-| `F2` | Passe en mode [design](/wiki/Beatmap_Editor/Design). |
-| `F3` | Passe en mode [timing](/wiki/Beatmap_Editor/Timing). |
-| `F4` | Ouvre la boîte de dialogue [song setup](/wiki/Beatmap_Editor/Song_Setup). |
+| `F1` | Passe en mode [compose](/wiki/Client/Beatmap_editor/Compose). |
+| `F2` | Passe en mode [design](/wiki/Client/Beatmap_editor/Design). |
+| `F3` | Passe en mode [timing](/wiki/Client/Beatmap_editor/Timing). |
+| `F4` | Ouvre la boîte de dialogue [song setup](/wiki/Client/Beatmap_editor/Song_Setup). |
 | `F5` | Entre en mode test. |
 | `F6` | Ouvre la boîte de dialogue des points de contrôle et de synchronisation. |
 | `Ctrl` + `P` | Ajoute un point de timing non hérité à l'horodatage actuel. Si vous n'êtes pas en mode timing, cela ouvrira également le dialogue de timing et de points de contrôle. |
@@ -216,13 +216,13 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 | `1`, `2`, `3`, ou `4` | Passe d'un mode de placement/sélection à l'autre : sélection, cercle, slider et spinner respectivement (osu!, osu!taiko, ou osu!catch). |
 | `1`, `2`, ou `3` | Passe du mode placement/sélection : sélection, cercle et hold respectivement (osu!mania). |
 | `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Active/Désactive entre les modes de placement/sélection. |
-| `Ctrl` + `Shift` + `A` | Ouvre [AiMod](/wiki/Beatmap_Editor/AiMod). |
+| `Ctrl` + `Shift` + `A` | Ouvre [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
 
 #### Terrain de jeu
 
 | Raccourci | Action |
 | :-- | :-- |
-| `Alt` | Active/Désactive temporaire [distance snap](/wiki/Beatmap_Editor/Distance_Snap) lorsqu'il est maintenu enfoncé. |
+| `Alt` | Active/Désactive temporaire [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) lorsqu'il est maintenu enfoncé. |
 | `Y` | Active/Désactive distance snap. |
 | `Shift` | Active/Désactive temporairement grid snap lorsqu'elle est maintenue enfoncée. |
 | `T` | Active/Désactive grid snap. |
@@ -266,7 +266,7 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 
 | Raccourci | Action |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Définit le [diviseur de mesure](/wiki/Beatmap_Editor/Beat_Snap_Divisor) à 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 et 1/9 respectivement. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Définit le [diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) à 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 et 1/9 respectivement. |
 | `Shift` (tout en glissant dans la timeline) | Ignore le snapping du diviseur de mesure. |
 | `J` | Recule la sélection d'un diviseur. |
 | `K` | Avance la sélection d'un diviseur. |

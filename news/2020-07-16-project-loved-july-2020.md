@@ -8,7 +8,7 @@ date: 2020-07-16 09:00:00 +0000
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-For those new to the drill around here, you can click each map's banner to vote whether or not you want it moved to the Loved category. Voting is open for 10 days, starting now! You can read more about how Project Loved works on its [wiki page](/wiki/Project_Loved).
+For those new to the drill around here, you can click each map's banner to vote whether or not you want it moved to the Loved category. Voting is open for 10 days, starting now! You can read more about how Project Loved works on its [wiki page](/wiki/Community/Project_Loved).
 
 ### Navigation
 

@@ -12,7 +12,7 @@ tags:
 
 osu! heeft een groot aantal sneltoetscombinaties die je in-game kunt gebruiken of wanneer je op een bepaalt scherm bent. De combinaties en hun functies zijn hieronder vermeld.
 
-*Opmerking: Dit artikel geeft de standaard sneltoetscombinaties weer. Je kunt enkele hiervan wijzigen in de [opties](/wiki/Options).*
+*Opmerking: Dit artikel geeft de standaard sneltoetscombinaties weer. Je kunt enkele hiervan wijzigen in de [opties](/wiki/Client/Options).*
 
 ## Game-wide
 
@@ -43,7 +43,7 @@ Deze combinaties werken overal:
 | `Esc` | Keer terug of annuleer |
 | `P`, `E`, of `O` | Opent het speelmenu |
 | `P` drie keer | Enter Solo. |
-| `P` Twee keer, vervolgens `M` | Enter [Multi](/wiki/Multi). |
+| `P` Twee keer, vervolgens `M` | Enter [Multi](/wiki/Gameplay/Multiplayer). |
 | `E` Twee keer | Enter edit mode. |
 | `O` | Opent de opties sidebalk. |
 | `Q` | Laat het exit-commando zien. |
@@ -145,7 +145,7 @@ Deze combinaties werken overal:
 
 ## Beatmap editor
 
-*Hoofdpagina: [Beatmap Editor](/wiki/Beatmap_Editor)*
+*Hoofdpagina: [Beatmap Editor](/wiki/Client/Beatmap_editor)*
 
 ### General
 
@@ -170,10 +170,10 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `N` | Vraagt of je alle hit-objecten wilt verwijderen. |
 | `Ctrl` + `Up/Down Arrow` | Verhoogt/verlaagt de afspeelsnelheid met 25%. |
 | `Ctrl` + `Shift` + `Up/Down Arrow` | Verhoogt/verlaagt de afspeelsnelheid met 5%. |
-| `F1` | Schakelt naar de [compose](/wiki/Beatmap_Editor/Compose) modus. |
-| `F2` | Schakelt naar de [design](/wiki/Beatmap_Editor/Design) modus. |
-| `F3` | Schakelt naar de [timing](/wiki/Beatmap_Editor/Timing) modus. |
-| `F4` | Opent de [song setup](/wiki/Beatmap_Editor/Song_Setup) dialoog. |
+| `F1` | Schakelt naar de [compose](/wiki/Client/Beatmap_editor/Compose) modus. |
+| `F2` | Schakelt naar de [design](/wiki/Client/Beatmap_editor/Design) modus. |
+| `F3` | Schakelt naar de [timing](/wiki/Client/Beatmap_editor/Timing) modus. |
+| `F4` | Opent de [song setup](/wiki/Client/Beatmap_editor/Song_Setup) dialoog. |
 | `F5` | Opent de test modus. |
 | `F6` | Opent de timing en control points dialoog. |
 | `Ctrl` + `P` | Voegt een onafhankelijk timing punt op de huidige tijdspositie. Als je niet in de timing mode zit, opent dit ook de timing en control points dialoog. |
@@ -214,13 +214,13 @@ De volgende combinaties werken overal in de beatmap editor:
 | `1`, `2`, `3`, of `4` | Schakel tussen de plaats/selectie modus: select, circle, slider en spinner (osu!, osu!taiko of osu!catch). |
 | `1`, `2`, of `3` | Schakel tussen de plaats/selectie modus: select, circle en hold (osu!mania). |
 | `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Switch tussen plaats/selectie modus. |
-| `Ctrl` + `Shift` + `A` | Opent [AiMod](/wiki/Beatmap_Editor/AiMod). |
+| `Ctrl` + `Shift` + `A` | Opent [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
 
 #### Speel veld
 
 | Sneltoets | Actie |
 | :-- | :-- |
-| `Alt` | Toont de [distance snap](/wiki/Beatmap_Editor/Distance_Snap) zolang de toets is ingedrukt. |
+| `Alt` | Toont de [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) zolang de toets is ingedrukt. |
 | `Y` | Toont/verbergt distance snap. |
 | `Shift` | Toont de grid snap zolang de toets is ingedrukt. |
 | `T` | Toont/verbergt de grid snap. |
@@ -264,7 +264,7 @@ De volgende combinaties werken overal in de beatmap editor:
 
 | Sneltoets | Actie |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Zet de [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) naar 1/1, 1/2, 1/3, 1/4, 1/6 en 1/8 respectievelijk. |
+| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Zet de [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) naar 1/1, 1/2, 1/3, 1/4, 1/6 en 1/8 respectievelijk. |
 | `Shift` (Terwijl je de tijdlijn vasthebt) | Negeert de beat snap divisor snapping. |
 | `J` | Duwt de selectie een divisor terug. |
 | `K` | Duwt de selectie een divisor vooruit. |

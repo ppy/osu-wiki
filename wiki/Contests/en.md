@@ -37,11 +37,11 @@ The **Monthly Beatmapping Contest**, in its initial concept, was a mapping conte
 
 After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 2020 with a brand new schedule, ruleset, voting procedure, and reward scheme. Many aspects of the competition were dramatically altered to make the contests more engaging and attractive, in which some of them were as follows:
 
-- Instead of a single song, the contest now offers a selection of songs from different [featured artists](/wiki/Featured_Artists) each month, in which all participating mappers are free to map and submit their entries for.
+- Instead of a single song, the contest now offers a selection of songs from different [Featured Artists](/wiki/Featured_Artists) each month, in which all participating mappers are free to map and submit their entries for.
 - Participating mappers now only have to submit a single difficulty instead of a complete mapset.
 - Participating mappers now have to adhere to a certain mapping theme and/or limitation set in the ruleset, such as "Star rating may not exceed 4.00★" or "Every object should overlap another object".
 
-| Contest iteration | Featured artist | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | Screening Crew's #1 | Results |
+| Contest iteration | Featured Artist | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | Screening Crew's #1 | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [January 2020](https://osu.ppy.sh/community/contests/84) | [MYLK](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!][osu!] | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | [#1](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 | [February 2020](https://osu.ppy.sh/community/contests/89) | [Voicians](https://osu.ppy.sh/beatmaps/artists/59) | ![osu!][osu!] | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | [#1](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) |
@@ -243,6 +243,14 @@ The **osu!trivium Quiz** is a trivia contest where players compete in answering 
 | :-: | :-- | :-- | :-- | :-- |
 | [#1 (2019)](/wiki/Contests/oBWC/1) | ![][flag_FR] France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), and ![][flag_CH] [Xenok](https://osu.ppy.sh/users/3256600)) | ![][flag_SE] Sweden ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), and [Zer0-](https://osu.ppy.sh/users/4260033)) | ![][flag_HK] Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), and [Starfy](https://osu.ppy.sh/users/2045914)) | [#1](https://www.youtube.com/watch?v=_booyIRa5v8) |
 | [#2 (2020)](/wiki/Contests/oBWC/2) | ![][flag_GB] United Kingdom ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), and [Yusomi](https://osu.ppy.sh/users/4174940)) | ![][flag_AR] Argentina ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), and [Megafan](https://osu.ppy.sh/users/6632605)) | ![][flag_BR] Brazil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), and [Trynna](https://osu.ppy.sh/users/2652951)) | [#1](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
+
+### osb! Storyboarding Contest
+
+The **osb! Storyboarding Contest** is a storyboarding contest where participating storyboarders compete to create the best storyboard. This contest is hosted by osu! storyboarder banquet, the storyboarding community.
+
+| Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](/wiki/Contests/osb!_Storyboarding_Contest/1) | ![][flag_CA] [TheDuckMask](https://osu.ppy.sh/users/7405768) | ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) | [#1](https://osu.ppy.sh/community/forums/topics/897075?n=1) |
 
 ### Pending Cup
 

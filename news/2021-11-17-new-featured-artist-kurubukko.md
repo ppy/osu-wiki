@@ -14,7 +14,7 @@ Keen eyes may remember that we picked up a super popular collaborative track bet
 
 **Kurubukko**'s solo songs are just as awesome, so give them a peek from [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/217)! 
 
-Looking for a fresh taste of **Kurubukko**'s sound? We've organized a few [showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps) for your circle crushing desires, so witness some frames-per-second-pain through the video below, or play the maps for yourself!
+Looking for a fresh taste of **Kurubukko**'s sound? We've organized a few [showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) for your circle crushing desires, so witness some frames-per-second-pain through the video below, or play the maps for yourself!
 
 <div align="center">
     <video width="100%" controls>

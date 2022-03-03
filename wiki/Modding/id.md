@@ -23,7 +23,7 @@ Meskipun ada banyak cara untuk menemukan beatmap untuk di-mod, berikut ini merup
 
 ## Cara untuk melakukan mod
 
-Untuk melakukan mod pada sebuah beatmap, mulailah dengan mengunduh versi terbaru dan buka [halaman diskusi](/wiki/Beatmap_Discussion)nya. Mainkan tingkat kesulitan yang ingin kamu mod dan ingatlah masalah apa saja yang kamu temukan. Setelah selesai, buka tingkat kesulitan tersebut di editor dan lakukan analisis untuk menemukan masalah lain.
+Untuk melakukan mod pada sebuah beatmap, mulailah dengan mengunduh versi terbaru dan buka [halaman diskusi](/wiki/Beatmap_discussion)nya. Mainkan tingkat kesulitan yang ingin kamu mod dan ingatlah masalah apa saja yang kamu temukan. Setelah selesai, buka tingkat kesulitan tersebut di editor dan lakukan analisis untuk menemukan masalah lain.
 
 Saat kamu menemukan masalah, pilih objek hit tersebut, lalu gunakan pintasan salin (`Ctrl` + `C`) untuk menyalin informasi dari timestamp sebagai teks. Pada diskusi beatmap, tempel (`Ctrl` + `V`) timestamp sekaligus umpan balik dari kamu. Tab `Timeline` digunakan untuk masalah yang berkaitan dengan bagian tertentu dari sebuah beatmap, tab `Umum (Tingkat kesulitan ini)` digunakan untuk umpan balik pada bagian yang lebih besar dari sebuah beatmap, dan tab `Umum (Semua tingkat kesulitan)` digunakan untuk masalah yang berlaku untuk semua tingkat kesulitan pada sebuah beatmap.
 

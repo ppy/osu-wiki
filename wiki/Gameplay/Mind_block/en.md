@@ -11,7 +11,7 @@ tags:
 
 # Mind block
 
-*Not to be confused with [Notelock](/wiki/Gameplay/Notelock) or [Fingerlock](/wiki/Gameplay/Fingerlock).*
+*Not to be confused with [Notelock](/wiki/Gameplay/Judgement/Notelock) or [Fingerlock](/wiki/Gameplay/Fingerlock).*
 
 **Mind block** is a term used to describe when a player repeatedly fails or misses on what was a previously easy section of a [beatmap](/wiki/Beatmap), often as a result of retrying said beatmap repeatedly. The term is named "mind block" since the event that it describes creates the sensation that the player's brain (mind) has been figuratively "blocked" from successfully obtaining a full combo or completing the aforementioned section.
 

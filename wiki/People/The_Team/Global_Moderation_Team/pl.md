@@ -14,7 +14,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 **Poza [zasadami społeczności](/wiki/Rules) moderatorzy globalni podlegają również [kodeksowi postępowania „Przymierze współpracy”](/wiki/Contributor_Code_of_Conduct).**
 
-Jeżeli zauważysz, że zachowanie któregoś moderatora globalnego jest nieodpowiednie (lub łamie kodeks postępowania „Przymierze współpracy”), wyślij wiadomość na adres [abuse@ppy.sh](mailto:abuse@ppy.sh) z jak największą liczbą szczegółów. Sprawdź [„Zgłaszanie nadużyć”](/wiki/Reporting_Bad_Behaviour/Abuse), by dowiedzieć się więcej.
+Jeżeli zauważysz, że zachowanie któregoś moderatora globalnego jest nieodpowiednie (lub łamie kodeks postępowania „Przymierze współpracy”), wyślij wiadomość na adres [abuse@ppy.sh](mailto:abuse@ppy.sh) z jak największą liczbą szczegółów. Sprawdź [„Zgłaszanie nadużyć”](/wiki/Reporting_bad_behaviour/Abuse), by dowiedzieć się więcej.
 
 ## Zadania
 
@@ -58,6 +58,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | Chiński, malajski | Moderowanie czatu |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderowanie czatu |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Szwedzki, hiszpański | Moderowanie czatu, organizowanie turniejów |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | Moderowanie czatu |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Koreański, japoński | Moderowanie czatu |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turecki | Moderowanie czatu |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Hiszpański | Moderowanie czatu, moderowanie forum |
@@ -95,6 +96,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Oficjalny profil zespołu gry |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipiński | Moderowanie czatu |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Niemiecki | Organizowanie turniejów |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Francuski, hiszpański (częściowo) | Moderowanie czatu |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugalski | Moderowanie czatu |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Kantoński, chiński | Moderowanie czatu |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Koreański, japoński | Moderowanie czatu |

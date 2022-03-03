@@ -74,24 +74,21 @@ NAT самостоятельно отслеживает появление но�
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Испанский, немецкий | Аттестация номинаторов, модерация |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Нидерландский | Аттестация номинаторов, организация |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Корейский | Аттестация номинаторов, обратная связь |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | Аттестация номинаторов |
 
 ### osu!mania
 
 | Имя | Языки | Сферы деятельности |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Аттестация номинаторов |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Арабский, французский | Аттестация номинаторов |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Испанский, португальский, галисийский, итальянский, японский | Аттестация номинаторов |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Аттестация номинаторов |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Бельгия"
 [flag_CL]: /wiki/shared/flag/CL.gif "Чили"
 [flag_DE]: /wiki/shared/flag/DE.gif "Германия"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Алжир"
 [flag_ES]: /wiki/shared/flag/ES.gif "Испания"
 [flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
 [flag_HK]: /wiki/shared/flag/HK.gif "Гонконг"
-[flag_KR]: /wiki/shared/flag/KR.gif "Республика Корея"
 [flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
 [flag_PL]: /wiki/shared/flag/PL.gif "Польша"
 [flag_SE]: /wiki/shared/flag/SE.gif "Швеция"

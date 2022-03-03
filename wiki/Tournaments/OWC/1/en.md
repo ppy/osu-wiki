@@ -300,7 +300,7 @@ Saturday, 27 February 2011:
 ### Tournament rules
 
 1. The osu! World Cup is a 4v4, country-based team tournament played on the osu! game mode.
-2. Beatmap scoring is based on **[ScoreV1](/wiki/Score/ScoreV1)**.
+2. Beatmap scoring is based on **[ScoreV1](/wiki/Gameplay/Score/ScoreV1)**.
 3. Teams will compete against each other following [this bracket set by the Tournament Management](img/bracket.jpg) using the Single Elimination system.
 4. The beatmaps for each round will be announced by the tournament host on the discussion thread in advance on the Sunday before the actual matches take place. Only these beatmaps will be used during the respective matches.
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie.

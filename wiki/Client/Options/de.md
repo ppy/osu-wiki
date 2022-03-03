@@ -1,292 +1,431 @@
----
-outdated: true
----
-
 # Optionen
 
-![Optionsmenü (die Leiste zur Linken)](img/options_basic.jpg "Optionsmenü (die Leiste zur Linken)")
+![Optionsmenü \(die Leiste auf der linken Seite\)](img/options_basic-DE.jpg "Optionsmenü \(die Leiste auf der linken Seite\)")
 
-## Optionen
+Klicke auf `Options` oder drücke `O` (oder drücke `Strg` + `O`, was in den meisten Menüs funktioniert), um auf die Optionsleiste zuzugreifen und die verfügbaren Optionen in osu! ändern zu können. Sobald sich das Optionsmenü geöffnet hat, kannst du etwas eintippen, um nach einer bestimmten Einstellung zu suchen. Der Text in der Suchleiste wird zittern, sollte die Suchanfrage keine Ergebnisse liefern.
 
-Starte osu! neu, falls etwas nicht wie beabsichtigt funktionieren sollte (Hintergrund-Dimmer ist meist der Auslöser). Klicke auf **Options** oder drücke `O` im Hauptmenü, um das Optionsmenü aufzurufen und um das Verhalten von osu! einzustellen.
+Wenn eine Einstellung, die einen Standardwert hat, geändert wird, dann wird die vertikale Leiste auf der linken Seite für diese Einstellung gelb leuchten. Durch Klicken darauf wird der Wert auf seinen Standardwert zurückgesetzt.
 
-Geben Sie einfach ein, wonach Sie suchen möchten. Der Text in der Suchleiste wird *zittern*, wenn Ihre Suche ungültig ist und verweigert Ihnen weitere ungültige Buchstaben einzugeben.
+## Allgemein
 
-**Anmerkung:** b(Jahr)(Monat)(Tag).(Überarbeitung) = Public Build. Also, b20140323.3 bedeutet: Public Build vom 23. März 2014, dritte Überarbeitung. Man findet diese ganz am *Ende* des Optionsmenüs.
+![Symbol für die Sektion Allgemein](img/general-DE.jpg "Symbol für die Sektion Allgemein")
 
-**Anmerkung2:** b(Jahr)(Monat)(Tag)cuttingedge = Test Build.
+Dieser Abschnitt ist über deinen Account, Spracheinstellungen und Aktualisierungen für osu!.
+
+### Einloggen
+
+Wenn du nicht in den Spiel-Client eingeloggt bist, wird das Optionsmenü automatisch beim Start geöffnet und du wirst aufgefordert, dich einzuloggen. Du kannst das durch das Drücken von `Esc`, das Klicken der Zurück-Taste oder durch das Navigieren zur Songauswahl ignorieren. Sofern du dich nicht einloggst, wird der Spiel-Client dich als "Guest" kennzeichnen und du wirst nicht in der Lage sein, Online-Scores abzurufen, Scores einzureichen oder [Multi](/wiki/Gameplay/Multiplayer) zu spielen.
+
+Wenn du ein Gast bist, stehen dir diese Optionen zur Verfügung:
+
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Benutzername` | Gebe deinen Benutzernamen an. | Text | *(leer)* |
+| `Passwort` | Gebe dein Passwort an. | Passwort | *(leer)* |
+| `Benutzername speichern` | Sofern angekreuzt, wird der Spiel-Client den eingegebenen Benutzernamen speichern. | Checkbox | `Aktiviert` |
+| `Passwort speichern` | Sofern angekreuzt, wird der Spiel-Client das eingegebene Passwort speichern. Dadurch bleibst du eingeloggt. | Checkbox | `Deaktiviert` |
+| `Einloggen` | Logge dich mit den angegebenen Anmeldedaten bei osu! ein. Das Drücken von `Enter` im Benutzernamen- oder Passwortfeld funktioniert ebenfalls. | Button |  |
+| `Account erstellen` | Öffnet den [Dialog zum Registrieren](/wiki/Registration). | Button |  |
+
+---
+
+Wenn du angemeldet bist, wirst du Folgendes sehen:
+
+| Name | Beschreibung | Typ |
+| :-- | :-- | :-- |
+| `Als {Benutzername} angemeldet` | Zeigt das Benutzermenü an. Siehe unten. | Button |
+
+---
+
+Wenn du auf den Dialog `Als {Benutzername} angemeldet` klickst, wird ein Menü mit den folgenden Buttons angezeigt:
+
+| Name | Beschreibung | Typ |
+| :-- | :-- | :-- |
+| 1. Profil anzeigen | Siehe dir dein Profil auf der osu!-Webseite an. | Button |
+| 2. Ausloggen | Logge dich aus dem Spiel aus. | Button |
+| 3. Avatar ändern | Ändere dein Profilbild (dies wird dich auf die Webseite weiterleiten). | Button |
+| 4. Schließen | Schließe den Dialog. Du kannst auch `Esc` drücken. | Button |
+
+Du kannst auf dieses Menü durch das Klicken auf deine Benutzerkarte zugreifen, sofern diese sichtbar ist.
+
+### Sprache
+
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Sprache wählen` | Zeigt eine Liste an Sprachen zum Auswählen an. | Dropdown-Menü |  |
+| `Metadaten in Originalsprache` | In der Songauswahl werden Beatmaps mit ihren originalen oder nicht übersetzten Metadaten angezeigt, sofern verfügbar. | Checkbox | `Deaktiviert` |
+| `Alternative Schriftart im Chat` | Verwendung der alten Schriftart (Tahoma) anstatt der aktuellen Schriftart (Aller) in der [Chat-Konsole](/wiki/Client/Interface/Chat_console). | Checkbox | `Deaktiviert` |
+
+### Updates
+
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Updatequelle` | Zeigt eine Liste an Builds an, die du benutzen kannst. | Dropdown-Menü | `Stable` |
+| `osu! ist auf dem neuesten Stand!` | Klicke, um den Spiel-Client zu zwingen, nach Updates zu suchen und diese herunterzuladen, falls verfügbar. | Button |  |
+| `osu!-Ordner öffnen` | Öffnet den lokalen osu!-Ordner, der deine Skins, Beatmaps usw. enthält. | Button |  |
+
+---
+
+Wenn du die Dropdown-Liste unter `Updatequelle` öffnest, hast du folgende Optionen zur Auswahl:
+
+| Name | Beschreibung |
+| :-- | :-- |
+| `Stable` | Stable public release build. |
+| `Beta` | Dev build - erhält neue Funktionen früher, aber möglicherweise leicht fehlerhaft. |
+| `Cutting Edge (Experimentell)` | Dev build - erhält neue Funktionen noch früher, aber möglicherweise mit vielen Fehlern. |
+
+## Grafik
+
+![Symbol für die Sektion Grafik](img/graphics-DE.jpg "Symbol für die Sektion Grafik")
+
+Dieser Abschnitt ist über das Aussehen des Spiel-Clients, Teile der Benutzeroberfläche und die Videoeinstellungen.
+
+### Renderer
+
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `FPS-Limit` | Stelle das Limit für die Bildfrequenz ein. Siehe unten für Details. | Dropdown-Menü | `Optimal` |
+| `FPS-Zähler` | Zeigt den FPS-Zähler an. Dieser ist in der rechten, unteren Ecke des Bildschirms sichtbar. | Checkbox | `Deaktiviert` |
+| `Kompatibilitätsmodus` | Benutze den alten Renderer, den osu! vorher bei älteren Computern verwendet hat. Dein Spiel-Client wird neugestartet. | Checkbox | `Deaktiviert` |
+| `Reduziert dropped Frames` | Passe grafische Einstellungen an, um verworfene Frames zu vermindern. | Checkbox | `Deaktiviert` |
+| `Leistungsprobleme erkennen` | Warnt dich, falls ein anderes Programm auf deinem Computer die Leistung deines Clients beeinflusst. | Checkbox | `Aktiviert` |
+
+---
+
+*Tipp: Wenn der Spiel-Client nicht das aktive Fenster ist, dann wird das FPS-Limit automatisch auf 30 FPS gesetzt.*
+
+*Vorsicht für Laptop-Nutzer: `Unbegrenzt (nur im Spiel)` zu benutzen, kann dafür sorgen, dass dein Laptop überhitzt!*
+
+Wenn du die Dropdown-Liste zu `FPS-Limit` öffnest, wirst du folgende Optionen sehen:
+
+| Name | Beschreibung |
+| :-- | :-- |
+| `VSync` | Limitiert den Spiel-Client auf die Bildwiederholrate deines Bildschirms. Siehe die untere Erklärung für weitere Details. |
+| `Power Saving` | Limitiert den Spiel-Client auf die zweifache Bildwiederholrate deines Bildschirms. |
+| `Optimal` | Limitiert den Spiel-Client auf die achtfache Bildwiederholrate deines Bildschirms und eine Begrenzung von 960fps. |
+| `Unbegrenzt (nur im Spiel)` | Limitiert den Spiel-Client auf die Bildwiederholrate deines Bildschirms. Siehe die untere Erklärung für weitere Details. |
+
+- Erklärung für `VSync`: Einfach gesagt bedeutet die Benutzung von VSync, dass das Spiel dazu gezwungen wird den gesamten Frame zu laden, bevor dieser angezeigt wird.
+  - Du kannst das benutzen, wenn du "Tearing" siehst (wenn die untere Hälfte der oberen Hälfte des Spiels hinterherhinkt).
+  - Trotz des oben genannten Punkt, kann das zu Lag oder einer Verzögerung führen, bei der der Spiel-Client warten muss, bis der jeweilige Frame geladen wurde.
+- Erklärung für `Unbegrenzt (nur im Spiel)`: Unbegrenzt trifft nur zu, wenn du eine Beatmap spielst.
+  - Sofern du keine Beatmap spielst, ist die Bildrate auf die zweifache Bildwiederholrate deines Bildschirms oder 240 FPS begrenzt, je nachdem, was höher liegt.
+  - Diese Einstellung wird **nicht empfohlen**. `Unbegrenzt (nur im Spiel)` zu benutzen, kann zu Bildschirmfehlern führen.
+  - Verwendet man stattdessen die Option `Optimal`, verändert sich die Latenzzeit des Systems (zwischen Eingabe und Ausgabe) im Vergleich zu `Unbegrenzt (nur im Spiel)` nicht merklich.
+
+### Bildschirmauflösung
+
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Auflösung wählen` | Stelle die Auflösung des Spiel-Clients ein. Die aufgelisteten Auflösungen sind auf das begrenzt, was dein Bildschirm/deine Grafikkarte unterstützt. | Dropdown-Menü |  |
+| `Vollbildmodus` | Führt den Spiel-Client im Vollbildmodus aus (normalerweise reduziert das die Eingabelatenzzeit). | Checkbox | `Aktiviert` |
+| `Render at native resolution` | Benutze die volle native Auflösung, aber stelle osu! in einem kleineren, zentrierten Teil des Bildschirms dar. | Checkbox | `Aktiviert` |
+| `Horizontale Position` | Passe den horizontalen Offset für den Letterbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Slider | `0%` |
+| `Vertikale Position` | Passe den vertikalen Offset für den Letterbox-Modus an. Erscheint nur, wenn `Render at native resolution` aktiviert ist. | Slider | `0%` |
+
+- Wenn der `Vollbildmodus` deaktiviert ist, dann wird darunter `Das ausführen ohne Vollbildmodus wird die Eingabe Verzögerung verbessern` erscheinen.
+
+### Grafikeinstellungen
+
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Animierte Slider` | Slider werden sich von der Startposition aus aufklappen. | Checkbox | `Aktiviert` |
+| `Hintergrundvideo` | Erlaube das Abspielen von Hintergrundvideos während des Spielens von Beatmaps (kann pro Beatmap deaktiviert werden). | Checkbox | `Aktiviert` |
+| `Storyboards` | Erlaube die Anzeige von Storyboards in den Hintergründen von Beatmaps (kann pro Beatmap deaktiviert werden). | Checkbox | `Aktiviert` |
+| `Combo-Bilder` | Erlaube das Anzeigen von Combo-Bildern beim Erreichen von bestimmten Combo-Werten. | Checkbox | `Deaktiviert` |
+| `Trefferleuchten` | Zeigt einen dezenten Leuchteffekt beim Anklicken von Circles. Das Leuchten während der Kiai Time wird nicht deaktiviert. | Checkbox | `Aktiviert` |
+| `Shadereffekte` | Aktiviere Shadereffekte im Spiel. Wenn deine Grafikkarte dies nicht unterstützt, wird diese Option automatisch deaktiviert. | Checkbox | `Disabled` |
+| `Unschärfefilter` | Passe die Shadereffekte an, damit diese weniger auffallend wirken. Das wird automatisch `Shadereffekte` aktivieren. | Checkbox | `Deaktiviert` |
+| `Screenshot-Format` | Stelle das Dateiformat für Screenshots ein. | Dropdown-Menü | `JPEG (Web-geeignet)` |
+
+### Hauptmenü
+
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Schneeanimation` | Zeigt Schnee-Effekte im Hauptmenü (im Winter zwangsweise aktiviert). | Checkbox | `Deaktiviert` |
+| `Parallaxeneffekt` | Zeigt einen leichten Parallaxeneffekt, während man in den Menüs des Spiels navigiert (nicht aktiv während dem Gameplay). | Checkbox | `Aktiviert` |
+| `Tipps anzeigen` | Zeigt jedes Mal Tipps an, sobald du ins Hauptmenü gehst. (Tipps werden nicht in den cuttingedge Builds angezeigt.) | Checkbox | `Aktiviert` |
+| `Interface-Stimmen` | Spielt die Sounds "welcome" und "see ya" beim Öffnen bzw. Schließen des Spiels ab. | Checkbox | `Aktiviert` |
+| `osu!-Titelsong` | Sofern aktiviert, wird der Titelsong nach dem Starten des Spiel-Clients gespielt. Nachdem der Song wechselt, kannst du ihn nicht nochmal spielen, bis der Spiel-Client neugestartet wurde. | Checkbox | `Aktiviert` |
+| `Seasonal backgrounds` | Benutze Gewinner von Fanart-Wettbewerben als Hintergrund im Hauptmenü (und für Beatmaps ohne Hintergrundbilder). Die Bilder werden wechseln, wenn sich der Song ändert. | Dropdown-Menü | `Sometimes` |
+
+---
+
+Wenn du die Dropdown-Liste für `Seasonal backgrounds` öffnest, dann wirst du diese Optionen zur Auswahl haben:
+
+| Name | Beschreibung |
+| :-- | :-- |
+| `Sometimes` | Du wirst saisonale Hintergründe für einige Wochen zu Beginn jeder Saison sehen. Das osu!dev-Team wird entscheiden, wann sie wieder entfernt und durch einfache Hintergründe ersetzt werden, an die du gewöhnt bist. |
+| `Never` | Du wirst nie saisonale Hintergründe sehen und es werden nur Standardbilder verwendet. |
+| `Always` | Du wirst immer die Hintergründe der aktuellen Saison haben. |
+
+### Songauswahl
+
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Vorschaubilder` | Zeigt eine Vorschau von jedem Beatmaphintergrund an. Voraussetzung ist ein kompatibler Skin (Version 2.2+). | Checkbox | `Aktiviert` |
+
+## Gameplay
+
+![Symbol für die Sektion Gameplay](img/gameplay.jpg "Symbol für die Sektion Gameplay")
+
+Dieser Abschnitt ist über Einstellungen, die den Spielverlauf beeinflussen.
 
 ### Allgemein
 
-![Sektion von Allgemein](img/general.jpg "Sektion von Allgemein")
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Hintergrund-Dimmer` | Passe den Verdunklungsgrad des Hintergrunds und des Storyboards während des Spielens an (kann pro Beatmap eingestellt werden). | Slider | `80%` |
+| `Don't change dim level during breaks` | Deaktiviere die Aufhellung des Dimmlevels während Pausen, wodurch der Hintergrund niemals sichtbar wird. | Checkbox | `Deaktiviert` |
+| `Position der Fortschrittsleiste` | Stelle ein, wo und wie die Fortschrittsleiste angezeigt werden soll. Siehe unten für weitere Details. | Dropdown-Menü | `Oben rechts (Kreis)` |
+| `Genauigkeitsmeter` | Stelle das Aussehen des Genauigkeitsmeters am unteren Bildschirmrand ein. Bedenke, dass osu!catch immer `Farbe` verwenden wird. | Dropdown-Menü | `Abweichung` |
+| `Genauigkeitsmetergröße` | Stelle die Größe des Genauigkeitsmeters ein. | Slider | `1x` |
+| `Tasten-Overlay` | Zeigt den Status des Tasten-Overlays an, auch während dem normalen Spiel. | Checkbox | `Deaktiviert` |
+| `Approach Circle des ersten Objektes beim Mod "Hidden"` | Zeigt nur den Approach Circle des ersten Hit-Objektes beim Spielen der Mod "Hidden" an. | Checkbox | `Aktiviert` |
+| `osu!mania-Scrollgeschwindigkeit anhand BPM skalieren` | Stelle die Scrollgeschwindigkeit von osu!mania abhängig von den BPM der Beatmap ein. | Checkbox | `Deaktiviert` |
+| `osu!mania-Scrollgeschwindigkeit für jede Beatmap merken` | Speichert die Scrollgeschwindigkeit, die du pro Beatmap eingestellt hast. | Checkbox | `Deaktiviert` |
 
-#### Einloggen
+---
 
-##### Gast
+Wenn du die Dropdown-Liste für `Position der Fortschrittsleiste` öffnest, hast du folgende Optionen zur Auswahl:
 
-| Name | Effekt |
+| Name | Beschreibung |
 | :-- | :-- |
-| Benutzername | Geben Sie hier Ihren registrierten Benutzernamen ein |
-| Passwort | Das Passwort zu Ihrem Benutzernamen. |
-| Benutzername speichern | Lassen Sie Ihren Benutzernamen von osu! speichern.{Benutzername} |
-| Passwort speichern | Lassen Sie Ihren Passwort von osu! speichern.{Benutzername}, um sich automatisch einzuloggen. |
+| `Oben rechts (Kreis)` | Benutzt ein Kreisdiagramm, welches die restliche Zeit anzeigt, bevor der Song startet, sowie die verbleibende Zeit bis zum Ende. Das Kreisdiagramm ist links neben der Genauigkeit zu sehen. |
+| `Oben rechts (Balken)` | Benutzt einen kurzen, horizontalen Balken, um die Zeit bis zum Ende anzuzeigen. Zu sehen unter dem Score, aber über der Genauigkeit. |
+| `Unten rechts` | Benutzt einen kurzen, horizontalen Balken, um die Zeit bis zum Ende anzuzeigen. Dieser wird in der unteren rechten Ecke angezeigt. |
+| `Unten (lang)` | Benutzt einen langen horizontalen Balken, um die Zeit bis zum Ende anzuzeigen. Dieser wird unten angezeigt. |
 
-Klicke auf **Einloggen**, um sich anzumelden oder klicke auf **Account erstellen**, falls Sie noch über keinen Account verfügen. Sobald Sie sich erfolgreich eingeloggt haben, wird es sich, wie unten angezeigt, ändern.
+---
 
-##### Benutzername
+Wenn du die Dropdown-Liste für `Genauigkeitsmeter` öffnest, hast du folgende Optionen zur Auswahl:
 
-Als {Benutzername} anmeldet.
-
-Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
-
-| Name | Effekt |
+| Name | Beschreibung |
 | :-- | :-- |
-| 1. Profil anzeigen | Sehen Sie sich Ihren Profil auf der osu! Website an. |
-| 2. Ausloggen | Loggen Sie sich aus dem Spiel aus. |
-| 3. Avatar ändern | Ändern Sie Ihren Profilbild. |
-| 4. Schließen | Schließen. |
+| `Aus` | Benutze kein Genauigkeitsmeter, um das Treffertiming des Spieler anzuzeigen. |
+| `Farbe` | Benutze farbige Blöcke, um das Treffertiming anzuzeigen. (osu!catch wird das immer verwenden, sofern `Abweichung` ausgewählt ist.) |
+| `Abweichung` | Benutze ein Genauigkeitsmeter, um das Treffertiming anzuzeigen. Das wird anzeigen, ob der Spieler zu früh oder zu spät getroffen hat. |
 
-#### Sprache
+### Songauswahl
 
-| Name | Effekt |
-| :-- | :-- |
-| Sprache wählen | Wählen Sie Ihre bevorzugte Sprache aus. osu! wird das Sprachpaket downloaden und zu der ausgewählten Sprache wechseln. Standard ist Englisch. Um dazu beizutragen: [Forum Link](https://osu.ppy.sh/community/forums/topics/104342/) (alter Link) |
-| Metadaten in Originalsprache | Beatmaps, die über Unicode Metadaten verfügen, werden statt der üblichen ASCII Metadaten in der Originalsprache angezeigt. **Beispiel:** Wenn ausgewählt, wird sich der Titel der Beatmap von "Night of Feifan Brother" zu "非凡哥之夜" ändern, falls der Mapper Unicode Daten für seine/ihre Beatmap angegeben hat. Hier ist [Beatmap](https://osu.ppy.sh/beatmapsets/44443#osu/139221) aus dem Beispiel. |
-| Alternative Schriftart im Chat | Wenn Sie die alte Schriftart (Tahoma) lieber als die derzeitige (Aller) im Chat verwenden möchten. |
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Zeige Beatmaps von` | Das stellt den **geringsten** Schwierigkeitsgrad für Beatmaps ein, die in der Songauswahl angezeigt werden. | Slider | `0 Sterne` |
+| `bis` | Das stellt den **höchsten** Schwierigkeitsgrad für Beatmaps ein, die in der Songauswahl angezeigt werden. | Slider | `10+ Sterne` |
 
-#### Updates
+## Audio
 
-| Name | Effekt |
-| :-- | :-- |
-| UpdatequelleUpdatequelle | **Stable:** Public build. ****Cutting Edge:** osu!test build (Multi nur als Supporter zugänglich). **Anmerkung:** Online Verbindung ist notwendig, um zwischen diesen zu wechseln. |
-| osu!-Ordner öffnen | osu!-Ordner öffnen. |
+![Symbol für die Sektion Audio](img/audio.jpg "Symbol für die Sektion Audio")
 
-### Grafik
+In diesem Abschnitt geht es um audiobezogene Optionen.
 
-![Sektion von Grafik](img/general.jpg "Sektion von Grafik")
+### Geräte
 
-#### Renderer
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Wiedergabegeräte` | Wähle dein bevorzugtes Wiedergabegerät für das Audio aus. (Die angegebenen Optionen hängen davon ab, was dein Computer unterstützt.) | Dropdown-Menü | `Standard` |
+| `Audio compatibility mode` | Benutzt die alte Audio-Engine, die eine höhere Latenzzeit hat, aber kompatibler ist. | Checkbox | `Deaktiviert` |
 
-`Neustart erforderlich.`
+### Lautstärke
 
-| Name | Effekt |
-| :-- | :-- |
-| OpenGL | Benutze diesen, wenn Sie \[1\] keine Shaderunterstützung haben, \[2\] extreme Lags oder sehr niedrige FPS haben, \[3\] eine alte oder eine DirectX inkompatible Grafikkarte benutzen. |
-| DirectX (Default) | Benutzt Shader, um die Performance zu verbessern, kann sich aber schlecht auf *sehr* alten Geräten auswirken. |
-| Frame Limiter | 60fps (vsync), 60fps (low latency), 120fps \[Standard\], 240fps, Unbegrenzt (Gameplay), Unbegrenzt |
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Allgemein` | Kontrolliert die allgemeine Lautstärke. | Slider | `100%` |
+| `Musik` | Kontrolliert die Lautstärke der Musik. | Slider | `80%` |
+| `Effekte` | Kontrolliert die Lautstärke der Hitsounds sowie anderer Soundeffekte im Spiel. | Slider | `80%` |
+| `Hitsounds ignorieren` | Bevorzugt Hitsounds, die vom aktuellen Skin bereitgestellt werden, anstatt die Hitsounds, die in der Beatmap enthalten sind. | Checkbox | `Deaktiviert` |
 
-Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhitzungen [wie in diesem Beitrag erwähnt](https://osu.ppy.sh/community/forums/topics/82605) vorzubeugen. Außerdem, achtet auf eure Stromrechnung.
+Die allgemeine, Musik- sowie Effektelautstärke kann an anderer Stelle auch durch das Drücken von `Alt` sowie Hoch- und Runterscrollen oder durch das Drücken von `Alt` sowie `nach oben` oder `nach unten` eingestellt werden.
 
-- **FPS-Zähler:** Zeigt einen unaufdringlichen Frame-Pro-Sekunde Zähler am unteren, rechten Rand des Bildschirmes.
+### Universeller Audio-Offset
 
-#### Bildschirmauflösung
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Universales Offset` | Das Offset (in Millisekunden), das alle Beatmaps benutzen werden (zusätzlich zum lokalen Offset). | Slider | `0ms` |
+| `Offset-Assistent starten` | Öffnet den Offset-Assistenten. | Button |  |
 
-##### Auflösung wählen
+- Für mehr Details über den Offset-Assistenten, siehe [Offset-Assistent](/wiki/Client/Options/Offset_Wizard).
+- Für mehr Details darüber, wie man den Offset-Assistenten verwendet, siehe [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_Use_the_Offset_Wizard).
 
-| Eigenschaften | Auflösung im Fenstermodus | Auflösung im Vollbildmodus |
-| :-- | :-- | :-- |
-| Standard | 800 x 600, 1024 x 768 | 800 x 600, 1024 x 768 |
-| Breitbild | 1024 x 600, *Ihre Bildschirmauflösung* (Randlos) \[Standard\] | *Ihre Bildschirmauflösung* (native) \[Standard\] |
+## Skin
 
-- **Vollbildmodus** (osu! nimmt Ihren ganzen Bildschirm ein. Kann die Latenzzeit verringern.)
+![Symbol für die Sektion Skin](img/skin.jpg "Symbol für die Sektion Skin")
 
-#### Grafikeinstellungen
-
-| Name | Effekt |
-| :-- | :-- |
-| Animierte Slider | Slider von der Startposition aus aufklappen lassen, anstatt sie von Anfang an komplett anzuzeigen. Dies sollte keine Probleme bereiten, außer man besitzt einen schwachen PC. |
-| Hintergrund Video | Aktiviert das Abspielen von Hintergrundvideos. Wenn Maps mit Videos für Sie unspielbar sind, deaktivieren Sie diese Option. Kann vorübergehend in den Visual Settings deaktiviert werden. |
-| Storyboards | Zeige Storyboards im Hintergrund von Beatmaps. Sie enthalten meistens Storyelemente, Songtexte oder Spezialeffekte. Kann ebenfalls vorübergehend in den Visual Settings deaktiviert werden. |
-| Combo Bilder | Wenn Sie besondere Combowerte erreicht haben, sehen Sie ein Bild von der Seite auf den Bildschirm springen! |
-| Hit Lighting | Zeigt einen dezenten Leuchteffekt, wenn Sie Circle anklicken. Deaktiviert nicht das Leuchten während dem Kiai. |
-| Shadereffekte | Aktiviert Shadereffekte im Spiel. Benötigt Pixel Shader 2.0. Wenn Ihre Grafikkarte dies nicht unterstützt, wird diese Option automatisch deaktiviert. |
-| Unschärfefilter | Passt die "Shadereffekte" an, um sie weniger "grell" zu machen. |
-
-##### Screenshot Format (Dateiformat von Screenshots)
-
-| Name | Effekt |
-| :-- | :-- |
-| PNG (Verlustfrei) | Hohe Dateigröße, aber unkomprimierte Qualität. |
-| JPEG (Web-geeignet) \[Default\] | Kompakte Dateigröße. Mühelos zu laden. Kann beim Reinzoomen verpixelt wirken. |
-
-#### Hauptmenü
-
-| Name | Effekt |
-| :-- | :-- |
-| Schneeanimation | Kleine Icons des derzeit ausgewählten Spielmodus fallen als Schnee Symbole im Hauptmenü vom Himmel. Erstellt für Weihnachten 2013 und Rückkehr dank großer Nachfrage. |
-| Parallaxeneffekt | Der Bildschirm bewegt sich mit Ihrem osu!cursor mit. Funktioniert nicht während des Gameplays. |
-| Tipps | Zeigt eine Menge interessanter Tipps an, jedes mal wenn man das Hauptmenü besucht. Diese befinden sich unter dem riesigen osu! Symbol. |
-| Interface Stimmen | "Welcome to osu!"/"See you next time." osu! gegrüßt Sie beim Starten und verabschiedet sich beim Beenden. |
-| osu!-Titelsong | osu! spielt "nekodex - welcome to osu!" im Menü anstelle von zufälligen Beatmaps ab. Es ist keine Beatmap und wird immer wieder wiederholt bis Sie den Song ändern. Sobald geändert, können Sie ihn nur wieder hören, indem Sie osu! erneut öffnen. |
-
-#### Songauswahl
-
-| Name | Effekt |
-| :-- | :-- |
-| Vorschaubilder | Zeigt eine Vorschau des Hintergrundbildes in der Songauswahl an. Voraussetzung ist ein kompatibler Skin (Version 2.2+). |
-
-### Gameplay
-
-![Sektion von Gameplay](img/gameplay.jpg "Sektion von Gameplay")
-
-#### Allgemein
-
-| Name | Effekt |
-| :-- | :-- |
-| Hintergrund-Dimmer | Alle Beatmaps werden gezwungen den Wert des Dimmers anzunehmen. |
-| Position der Fortschrittsleiste (stellt die Darstellung und die Position der Fortschrittsleiste fest) | Rechts oben (Kreis) \[Standard\], Top-Right (Balken), Rechts unten {Ähnlich wie bei osu!droid}, Unterer Bildschirmrand (langer Balken) {Ähnlich wie bei osu!stream} |
-| Genauigkeitsmeter (stellt die Erscheinung des Genauigkeitsmessers am unteren Bildschirmrand fest). | **Aus:** Zeigt keinen Genauigkeitsmeter, **Farbe:** Zeigt voherige Hitwerte an (basiert an den Farben vom Standardskin für die 300/100/50/Miss), **Abweichung \[Standard\]:** Zeigt Ihnen präzise, wie akkurat Sie bei jedem Hit sind. Die Länge der einzelnen Bereiche hängen von der OD ab. Links - Mitte - Rechts = zu früh - Perfekt – zu spät |
-| Genauigkeitsmetergröße | Passt die Größe der Genauigkeitsmeterangezeige an. |
-| Tasten-Overlay | Immer das Tasten-Overlay anzeigen, selbst wenn Sie lokal spielen. Nützlich zum Aufnehmen oder Streamen. |
-| Approach Circle des ersten Objektes beim Mod "Hidden" | Dies erlaubt Ihnen, den Approach Circle des ersten Hit-Objektes sehen zu können. |
-| osu!mania-Scrollgeschwindigkeit anhand BPM skalieren | Die Scrollgeschwindigkeit wird proportional zur Grund-BPM der Beatmap eingestellt. Wenn Sie dies aktivieren, scrollen schnellere Beatmaps schneller. |
-| osu!mania-Scrollgeschwindigkeit für jede Beatmap merken | Speichert die Scrollgeschwindigkeiten für jede Beatmap einzeln. |
-
-### Audio
-
-#### Lautstärke
-
-The volume controls allow one to change the volume in-game.
-
-- Allgemein: Allgemeiner Lautstärkeregler.
-- Musik: Beeinflusst nur die Musik selbst.
-- Effekte: Beeinflusst die Lautstärke der Hitsounds, sowie andere Soundeffekte.
-
-| Name | Effekt |
-| :-- | :-- |
-| Beatmaps Hitsounds ignorieren | Hitsounds, die einer Beatmap beigefügt worden sind, werden ignoriert. |
-
-#### Universeller Audio-Offset
-
-Wenn Sie in jeder einzelnen Beatmaps eine Asynchronität feststellen sollten, dann sollten Sie Ýhren universaler Offset anpassen. Entweder klicken Sie auf die gewünschte Stelle vom Graphen oder ziehen den Zeiger auf die gewünschte Stelle. Versuchen Sie den Wert solange anzupassen, bis die Maps zum Lied sychron sind. Alternativ können Sie auch den Offset Assistent benutzen für eine bessere Veranschaulichung, in dem die Tick repräsentiert werden.
-
-Jede Schwierigkeitsstufe besitzt zudem noch einen lokalen Offset, wodurch nur die Schwierigkeitsstufe davon betroffen ist. Wenn ein Online Offset vorhanden sein sollte, dann können Sie entweder \[1\] den Offset der jeweiligen Schwierigkeitsstufe, die Sie gerade spielen, manuell anpassen, indem Sie die Tasten "+" oder "-" benutzen (ändert den Offset in 5ms Schritten, wenn die Taste "Alt" währenddessen gehalten wird, wird der Offset in 1ms geändert) oder \[2\] Sie gehen in den Einstellungen und passen den universalen Offset an. Sie sollten daher nicht vergessen, es danach wieder auf den ursprünglichen Wert einzutellen.
-
-##### Offset Assistent
-
-Klicken Sie auf "Offset Assistent", um den universalen Offset mit einer bildlichen Veranschaulichung anzupassen.
-
-Hinweis: Das derzeitig abgespielte Lied in der Jukebox wird dazu verwendet.
-
-1. Zeigt den universalen Offset Millisekunden an.
-2. Klickt auf den "Halber Tick", um die Anzahl an Ticks zu halbieren oder auf den "Doppelter Tick", um die Anzahl an Ticks zu verdoppeln.
-3. Dies sind die Ticks. Sie werden durch den grün-leuchtenden, vertikalen Linie hindurchpassieren, wodruch ein Klang abgespielt wird, um den Tick zu repräsentieren.
-4. Klick auf "zurück" oder die Taste "ESC", um zu den Einstellungen zurückzukehren. Dadurch wird der universale Offset aktualisiert.
-5. Ihre Jukebox. Benutzt den BPM-Wert des aktuell abgespielten Songs als Tickrate.
+Dieser Abschnitt ist über Einstellungen zum Thema Skin.
 
 ### Skin
 
-![Sektion von Skin](img/skin.jpg "Sektion von Skin")
+| Name | Beschreibung | Typ | Standartwert |
+| :-- | :-- | :-- | :-- |
+| `Bilder vom Skin` | Zeigt verschiedene Gameplay-Elemente vom ausgewählten Skin an. Klicke den Kreis an, um durch die Elementgruppen durchzuwechseln. | Button |  |
+| `Skin auswählen` | Ändere den Skin. Die Elemente im Dropdown-Menü hängen davon ab, was im Ordner `osu!/Skins` liegt. (Die Namen basieren auf den Ordnernamen.) | Dropdown-Menü | `Default` |
+| `Gameplay Vorschau` | Zeigt eine Vorschau des Skins durch das Spielen einer zufälligen Beatmap mit der Mod "Auto". Der Modus wird durch den gewählten Modus in der Songauswahl bestimmt. | Button |  |
+| `Skinordner öffnen` | Öffne den Ordner des ausgewählten Skins. | Button |  |
+| `Als .osk exportieren` | Exportiert den aktuellen Skin als eine `.osk` Datei, damit diese geteilt werden kann. Sobald der Spiel-Client mit dem Export fertig ist, wird das Verzeichnis geöffnet, das die `.osk` Datei enthält. | Button |  |
+| `Alle Beatmap-Skins ignorieren` | Bevorzugt den ausgewählten Skin anstatt den in der Beatmap enthaltenen Skin. Dabei werden Hitsounds nicht mit eingeschlossen (siehe die nächste Option weiter unten). | Checkbox | `Deaktiviert` |
+| `Benutze Skin-Soundsamples` | Benutzt immer die Hitsounds des ausgewählten Skins anstatt der Hitsounds, die in der Beatmap enthalten sind. | Checkbox | `Aktiviert` |
+| `Benutze Taiko-Skin für den Taiko-Modus` | Benutzt osu!taiko-spezifische Skin-Elemente, sofern diese vom ausgewählten Skin bereitgestellt werden. Siehe [Skinning/osu!taiko](/wiki/Skinning/osu!taiko) für mehr Details. | Checkbox | `Deaktiviert` |
+| `Benutze immer den Skincursor` | Bevorzugt den Cursor des aktuellen Skins, unabhängig davon, ob Beatmaps eigene Cursor enthalten. | Checkbox | `Deaktiviert` |
+| `Cursorgröße` | Passe die Größe des Cursors an. | Slider | `1x` |
+| `Automatische Cursorgröße` | Passt die Cursorgröße automatisch der Circle Size der Beatmap an. | Checkbox | `Deaktiviert` |
+| `Combofarbe für Sliderball verwenden` | Sliderbälle werden die aktuelle Combofarbe verwenden (normalerweise transparent). Das muss vom Skin unterstützt werden. | Checkbox | `Aktiviert` |
 
-#### Skin
+## Steuerung
 
-| Name | Effekt |
+![Symbol für die Sektion Steuerung](img/input-DE.jpg "Symbol für die Sektion Steuerung")
+
+Dieser Abschnitt ist über Eingabeperipheriegeräte.
+
+### Maus
+
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Mausgeschwindigkeit` | Passe die Sensitivität des Mauszeigers an. Sofern verändert, sollte `Raw Input` automatisch aktiviert werden. | Slider | `1x` |
+| `Raw Input` | Liest die Positionsdaten für Maus/Tablet direkt von der Hardware aus, ohne eine Nachbearbeitung (dadurch wird die Mausbeschleunigung ignoriert). | Checkbox | `Deaktiviert` |
+| `Absoluten Raw Input auf das osu! Fenster abbilden` | Beschränkt Eingabegeräte mit absoluter Positionierung (z. B. Stift-Tablets) nur auf das Fenster des Spiel-Clients. | Checkbox | `Deaktiviert` |
+| `Mauszeiger eingrenzen` | Verhindert, dass der Mauszeiger das Fenster des Spiel-Clients verlassen kann. Siehe unten für weitere Details. | Dropdown-Menü | `Nur für Vollbildmodus` |
+| `Mausrad beim Spielen deaktivieren` | Deaktiviert das Mausrad während des Spielens. Das Mausrad zu benutzen, kann die allgemeine Lautstärke verändern. | Checkbox | `Deaktiviert` |
+| `Maustasten beim Spielen deaktivieren` | Deaktiviert Maustasten während des Spielens. Das ist hilfreich für Spieler, die mit Tastatur spielen. | Checkbox | `Deaktiviert` |
+| `Cursorwellen` | Zeigt einen Welleneffekt an, sobald die Maus geklickt wird. | Checkbox | `Deaktiviert` |
+
+- Wenn `Raw Input` aktiviert ist, wird die Aktualisierungsrate pro Sekunde sowie die Latenzzeit in Millisekunden angezeigt.
+- Der Cursorwelleneffekt kann durch das Drücken von `M1` und `M2` während dem Spiel ausgelöst werden.
+
+---
+
+Wenn du die Dropdown-Liste für `Mauszeiger eingrenzen` öffnest, hast du folgende Optionen:
+
+| Name | Beschreibung |
 | :-- | :-- |
-| (Bilder vom Skin) | Bilder vom Skin. Zeigt den Spinner nicht. **Set 1:** Hitcircleset, hit50.png, hit100.png, hit300.png, **Set 2:** hit0.png, hit100k.png, hit300g.png, **Set 3:** Combozahlen, **Set 4:** Scorezahlen |
-| Skin auswählen | Zeigt den aktuell benutzten Skin an. Der Standardskin von osu! wird immer als erstes gelistet. |
-| Skinordner öffnen | Schneller Zugriff auf den aktuellen Skin. Funktioniert jedoch nicht mit dem Standardskin von osu! |
-| Als .osk exportieren | Exportiert den aktuell benutzten Skins als .osk Datei. Funktioniert jedoch nicht mit dem Standardskin von osu! |
-| Alle Beatmap-Skins ignorieren | Falls aktiviert, wird nur Ihr aktuell benutzter Skin verwendet, die Skinelemente im Beatmap werden dann ignoriert. |
-| Benutze Skin-Soundsamples | Falls dies nicht ausgewählt ist, werden die Standardsounds verwendet. |
-| Benutze Taiko-Skin für den Taiko-Modus | Falls dies ausgewählt und der Taiko-Skin vorhanden ist, wird dieser im Taiko-Modus immer verwendet. |
-| Benutze immer den Skincursor | Der Cursor des ausgewählten Skins wird alle anderen Beatmap-spezifischen Skins überschreiben. |
-| Cursorgröße | Passe die Größe des Ingame-Cursors an. |
-| Automatische Cursorgröße | Die Größe des Cursors wird entsprechend der [CS](/wiki/Beatmapping/Circle_size) (Circle Size) der aktuellen Beatmap angepasst. |
-| Combofarbe für Sliderball verwenden | Voraussetzung ist ein Skin, der diese Einstellung gesondert unterstützt. |
+| `Nie` | Verhindere niemals, dass der Mauszeiger den Spiel-Client verlassen kann. |
+| `Nur für Vollbildmodus` | Verhindere das Verlassen des Spiel-Clients nur, wenn sich der Spiel-Client im Vollbildmodus befindet (das beinhaltet auch den `Letterbox-Modus`). |
+| `Immer` | Verhindere immer, dass die Maus den Spiel-Client verlassen kann, unabhängig von der Auflösung. |
 
-### Steuerung
+### Tastatur
 
-#### Maus
+| Name | Beschreibung | Typ |
+| :-- | :-- | :-- |
+| `Tastenbelegung` | Zeigt einen Dialog zum Einsehen oder Ändern deiner Tastenbelegung an. Siehe [Tastenbelegung](/wiki/Client/Options/Keyboard_bindings) für weitere Details. | Button |
+| `osu!mania-Layout` | Zeigt einen Dialog zum Einsehen oder Ändern deiner Tastenbelegung in osu!mania. Siehe [osu!mania](/wiki/Game_mode/osu!mania) für mehr Details. | Button |
 
-| Name | Effekt |
-| :-- | :-- |
-| Mausgeschwindigkeit | Die Standardeinstellung entspricht der des Desktops. |
-| Raw Input | Raw Input umgeht die Datenverarbeitung in Windows und fragt die Eingabedaten direkt von der Hardware ab. |
-| Absoluten Raw Input aufs osu! Fenster abbilden | Eingabegeräte mit absoluter Positionierung, z.B. Tablets, betreffen normalerweise den kompletten Bildschirm. Diese Option erlaubt solch Geräten ausschließlich auf das osu! Fenster zu wirken. |
-| Mausrad beim Spielen deaktivieren. | Während des Spiels können Sie die Lautstärke mit dem Mausrad ändern und/oder das Spiel pausieren. Diese Option deaktivert dies. |
-| Maustasten beim Spielen deaktivieren. | Diese Option deaktiviert temporär alle Maustasten, während Sie spielen. Besonders geeignet für diejenigen, die die Tastatur zum Klicken benutzen. Außerhalb den Einstellungen mit der Taste F10 einstellbar. |
-| Cursorwellen | Ein Welleneffekt wird angezeigt, wenn Sie klicken. |
+### Sonstiges
 
-#### Tastatur
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `TabletPC-Unterstützung erzwingen` | Verbessert die Kompatibilität mit Grafik-Tablets und Tablet-PCs. | Checkbox | `Deaktiviert` |
+| `Wiimote-/TaTaCon-Unterstützung aktivieren` | Aktiviere die Unterstützung für den Nintendo Wii Taiko Drum Controller und die Wiimotes. Kopple das Gerät über Bluetooth, bevor du es aktivierst. | Checkbox | `Deaktiviert` |
 
-##### osu!mania-Layout
+## Editor
 
-Tasteneinstellung für die jeweilige Spalte. **Drück die Taste für die jeweilige Spalte.** Ansonsten wird die [Standardtasteneinstellung](/wiki/Game_mode/osu!mania) für osu!mania verwendet.
+![Symbol für die Sektion Editor](img/editor.jpg "Symbol für die Sektion Editor")
 
-| Name | Effekt |
-| :-- | :-- |
-| Tastenanzahl | Einstellungen für 1K - 10K. |
-| Column Style \[nur 6K und 8K\] | **Normal:** `Z S X D C F` (6K), `Z S X D C F V G` (8K); **Right:** `Z S X D C *F*` (6K), `Z S X D C F V *LShift*` (8K); **Left:** `*Z* S X D C F` (6K), `*LShift* Z S X D C F V` (8K); |
-| Vertikal gespiegeltes Spielfeld (DDR-Stil) | Das Spielfeld wird vertikal gespiegelt, wodurch die Tasten am oberen Bildschrirmrand sind und die Noten sich von unten nach oben bewegen. Das Design sowie die Tastenbelegung bleibt unverändert. |
-| Zeige Urteilsbereich | Macht den Urteilsbereich etwas "heller". |
+Dieser Abschnitt ist über den [Beatmap-Editor](/wiki/Client/Beatmap_editor).
 
-#### Sonstiges
+Die Optionen hier beeinflussen nur das Arbeiten innerhalb des Editors oder den Test-Modus (das Testen von Beatmaps).
 
-| Name | Effekt |
-| :-- | :-- |
-| TabletPC-Unterstützung erzwingen | Aktiviere diese Option, wenn Sie einen Tablet-PC oder ein Grafiktablett benutzen und Probleme mit der Eingabe haben. |
-| Joystick-Unterstück aktivieren | Aktiviere dies, wenn Sie osu!mania mit einem Joystick oder Controller spielen. |
-| Wiimote-/TaTaCon-Unterstützung aktivieren | Aktiviert Unterstützung für den Wii-Taiko-Controller und Wiimote (noch nicht unterstützt). Stellen Sie sicher, dass Sie Ihren Wiimote mit Bluetooth verbunden haben, bevor Sie diese Option aktivieren! |
+### Allgemein
 
-### Editor
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Hintergrundvideo` | Spielt das Hintergrundvideo der Beatmap während dem Editieren ab. | Checkbox | `Deaktiviert` |
+| `Standardskin verwenden` | Benutzt den Standardskin von osu! während dem Editieren, unabhängig von dem aktuell ausgewählten Skin. | Checkbox | `Deaktiviert` |
+| `Snaking Slider` | Aktiviert das Bewegen der Slider während dem Editieren. | Checkbox | `Aktiviert` |
+| `Hit Animationen` | Aktiviert Trefferanimationen während dem Editieren. | Checkbox | `Deaktiviert` |
+| `Follow Points` | Aktiviert Follow Points während dem Editieren. | Checkbox | `Aktiviert` |
+| `Stapeln` | Stapelt die Hit-Circles wie im Spiel. | Checkbox | `Aktiviert` |
 
-![Sektion von Grafik](img/editor.jpg "Sektion von Editor")
+Diese Optionen können durch das Menü `Ansicht` im Beatmap-Editor manuell überschrieben werden.
 
-#### Allgemein
+## Online
 
-| Name | Effekt |
-| :-- | :-- |
-| Hintergrundvideo | Hintergrundvideo im Editor zeigen. |
-| Standardskin verwenden | Ignoriert benutzerdefinierte Skins im Editor. Der Standardskin wird für das Editieren empfohlen, um Überlappungen etc. zu vermeiden. |
-| Rückgängig-Funktion deaktivieren | Beim Editieren von sehr langen Marathon-Maps kann das Speichern aller vorgenommenen Änderungen für die Rückgängig-/Wiederholen-Funktion die Perfomance beeinträchtigen. Diese Option ist nur für solche Randfälle gedacht. Benutzung auf eigene Gefahr. |
+![Symbol für die Sektion Online](img/online.jpg "Symbol für die Sektion Online")
 
-### Online
+Dieser Abschnitt ist über den Chat, Zuschauer, Mehrspieler und osu!direct.
 
-![Sektion von Online](img/online.jpg "Sektion von Online")
+### Mitteilungen und Privatsphäre
 
-#### Meldungen und Privatsphäre
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Chat-Ticker` | Zeigt neue Chatnachrichten am unteren Bildschirmrand an. Die Nachricht ist von dem Kanal, den du gerade ausgewählt hast. | Checkbox | `Deaktiviert` |
+| `Chat automatisch ausblenden` | Wenn der Chat während Pausen oder in Spiel-Menüs offen ist, wird der Spiel-Client den Chat automatisch verbergen, sobald das Spiel weitergeht. | Checkbox | `Aktiviert` |
+| `Bei Highlight Hinweis-Popup anzeigen` | Wenn jemand deinen Nutzernamen im Chat erwähnt, wird eine Nachricht erscheinen. | Checkbox | `Aktiviert` |
+| `Über neue Chatnachrichten informieren` | Zeigt eine Nachricht an, sobald neue Chatnachrichten ankommen. | Checkbox | `Aktiviert` |
+| `Bei Highlight Sound abspielen` | Wenn jemand deinen Nutzernamen im Chat erwähnt, wird ein Sound abgespielt. | Checkbox | `Aktiviert` |
+| `Deinen Standort mit anderen teilen` | Teile deine Stadt in deiner Benutzerkarte (bedenke, dass dein Land bereits dort angezeigt wird). | Checkbox | `Deaktiviert` |
+| `Zuschauer-Liste während des Spielens anzeigen` | Zeigt eine Liste an aktuellen Zuschauern auf der linken Seite des Bildschirms während des Spielens. | Checkbox | `Aktiviert` |
+| `Automatisch Beatmaps für Zuschauer verlinken` | Sende die aktuell aktive Beatmap in den Kanal `#spectator`, falls du Zuschauer hast. | Checkbox | `Aktiviert` |
+| `Hinweis-Popups im Spiel anzeigen` | Erlaubt das Anzeigen von Hinweis-Popups während des Spielens. Sofern deaktiviert, wird der Spiel-Client warten, bis du fertig mit dem Spielen bist. | Checkbox | `Aktiviert` |
+| `Hinweis-Popup, wenn Freunde ihren Status ändern` | Zeigt ein Hinweis-Popup an, wenn einer deiner Freunde online oder offline geht. | Checkbox | `Aktiviert` |
+| `Mehrspieler-Einladungen von jedem erlauben` | Erlaube Einladungen in Mehrspieler-Spiele von jedem. Wenn du das deaktiviert, wirst du nur Einladungen zu Mehrspieler-Spielen von deinen Freunden erhalten können. | Checkbox | `Aktiviert` |
 
-| Name | Effekt |
-| :-- | :-- |
-| Chat Ticker | Neue Chatnachrichten werden am unteren Bildschirmrand angezeigt, wenn das Chatfenster ausgeblendet ist. |
-| Chat automatisch ausblenden | Wenn aktiviert, wird der Chat während des Spielens automatisch ausgeblendet. Er wird dann nur noch während den Pausen, dem Intro und dem Outro angezeigt. |
-| Bei Highlight Hinweis-Popup anzeigen | Eine Nachricht wird am unteren Teil deines Bildschirms erscheinen (auch während des Spielens), wenn jemand Ihren Namen oder ein Highlight-Wort im Chat erwähnt. |
-| Deinen Standort für andere anzeigen | Standardmäßig können andere Benutzer nur Ihr Land sehen. Wird diese Option aktiviert, wird auch Ihre Stadt für andere sichtbar sein. In der Regel kann diese ziemlich genau ermittelt werden. |
-| Zuschauer-Liste während des Spielens anzeigen | Eine Liste von Zuschauern ist oben links während des Spielens sichtbar. Wenn Sie dies ausschalten, werden Sie nicht mehr wissen, ob Ihnen jemand zuschaut. |
-| Hinweis-Popups im Spiel anzeigen | Wenn aktiviert, werden Hinweis-Popups im unteren Teil des Bildschirm während des Spielens angezeigt. Wenn deaktiviert, werden Hinweis-Popups nur in Pausen angezeigt. |
-| Hinweis-Popup, wenn Freunde ihren Status ändern | Wenn einer Ihrer Freunde online oder offline geht, wird ein Hinweis-Popup angezeigt. |
-| Mehrspieler-Einladungen von jedem erlauben | Deaktiviere dies, um nur von Freunden Einladungen erhalten zu können. |
+### Integration
 
-#### Integration
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Discord Rich Presence` | Stellt [Discord Rich Presence](/wiki/Guides/Discord_Rich_Presence) Daten zur Verfügung. | Checkbox | `Aktiviert` |
+| `In die Yahoo-Statusanzeige integrieren` | Dein Yahoo Messenger wird den Song anzeigen, den du gerade hörst oder spielst. Das muss von der Webseite eingestellt werden. | Checkbox | `Deaktiviert` |
+| `In die MSN-Live-Statusanzeige integrieren` | Dein Windows Live Messenger wird den Song anzeigen, den du gerade spielst oder hörst. | Checkbox | `Deaktiviert` |
+| `osu!direct-Downloads automatisch starten` | Nur für [osu!supporter](/wiki/osu!supporter). Beim Zuschauen oder beim Spielen im Mehrspieler-Modus wird die Beatmap automatisch heruntergeladen. | Checkbox | `Aktiviert` |
+| `Bevorzugt ohne Video runterladen` | Nur für [osu!supporter](/wiki/osu!supporter). Downloads über osu!direct werden die Versionen von Beatmaps herunterladen, die keine Videos enthalten. | Checkbox | `Deaktiviert` |
 
-| Name | Effekt |
-| :-- | :-- |
-| In die Yahoo-Statusanzeige integrieren | Dein Yahoo Messenger wird den Song anzeigen, den Sie gerade hören oder spielst. |
-| In die MSN-Live-Statusanzeige integrieren | Dein Windows Live Messenger wird den Song anzeigen, den Sie gerade spielen oder hören. |
-| osu!direct-Downloads automatisch starten | osu!supporter wird zum Aktivieren vom osu!direct benötigt. Im Multiplayer oder beim Zuschauen werden Beatmaps automatisch heruntergeladen. |
+#### In-Game-Chat
 
-#### In-Game Chat
+| Name | Beschreibung | Typ | Standardwert |
+| :-- | :-- | :-- | :-- |
+| `Anstößige Wörter filtern` | Ersetzt anstößige Wörter mit `*beep*`. | Checkbox | `Deaktiviert` |
+| `Ausländische Zeichen filtern` | Ersetzt jedes Zeichen im Chat, das kein normales ASCII-Zeichen ist. | Checkbox | `Deaktiviert` |
+| `Private Nachrichten automatisch speichern` | Private Nachrichten werden im Ordner `osu!/Logs` gespeichert. | Checkbox | `Deaktiviert` |
+| `Private Nachrichten nur von Freunden` | Sofern aktiviert, werden nur private Nachrichten von Freunden akzeptiert. | Checkbox | `Deaktiviert` |
+| `Ignorierliste (leerzeichengetrennt)` | Wörter, die du hier platzierst, werden ignoriert. | Text | *(leer)* |
+| `Highlight-Wörter (leerzeichengetrennt)` | Wörter, die du hier platzierst, werden im Chat hervorgehoben. | Text | *(leer)* |
 
-| Name | Effekt |
-| :-- | :-- |
-| Anstößige Wörter filtern | Versucht Wörter zu entfernen, die für bestimmte Kulturen oder jüngere Personen anstößig sein könnten. |
-| Ausländische Zeichen filtern | Entfernt alle Zeichen außerhalb der Standard-ASCII-Zeichenkodierung (Englisch). Nützlich, wenn diese Zeichen Ruckeln verursachen. |
-| Private Nachrichten automatisch speichern | Wenn Sie dies aktiveren, werden Ihre privaten Gespräche automatisch im "Chat"-Ordner im txt-Format gespeichert. |
-| Private Nachrichten nur von Freunden | Wenn Sie dies aktivieren, können Sie nur noch von Freunden private Nachrichten empfangen. Um es per Chat Konsole zu aktivieren/deaktivieren, tipp "/nopm" ein. |
-| Ignorierliste (leerzeichengetrennt) | Der Spieler wird dann permanent ignoriert. Indem Sie ein @ gefolgt von einem c, h oder p an einen Namen anhängen, können Sie jeweils Nachrichten, Highlights und/oder private Nachrichten ignorieren. Wenn ein Name ein Leerzeichen enthält, ersetzen Sie es durch einen Unterstrich - so könnte "GG Time" zu "GG_Time" werden. |
-| Highlight-Wörter (leerzeichengetrennt) | Du wirst benachrichtigt, wenn jemanden die von dir genannten Hightlight-Wörter schreibt. Standardmäßig zählt dein voller Benutzername auch darunter. |
+## Wartung
 
-### Wartung
+![Symbol für die Sektion Wartung](img/maintenance-DE.jpg "Symbol für die Sektion Wartung")
 
-![Sektion von Wartung](img/maintenance.jpg "Sektion von Wartung")
+Dieser Abschnitt ist über Beatmaps und Aktualisierungen.
 
-#### Allgemein
+### Allgemein
 
-| Name | Effekt |
-| :-- | :-- |
-| Alle nicht gerankten Maps löschen | Lösche alle nicht gerankten Maps aus dem Song-Ordner. osu! wird Ihnen danach mitteilen, wie viele Maps gelöscht werden, bevor Sie die Anfrage akzeptieren. |
-| Ordnerberechtigungen erzwingen | Erzwingt die Ordnerberechtigungen für osu!s Ordnern. Useful for Vista users with User Account Control (UAC) enabled. |
-| Alle Maps als "Gespielt" markieren | Markiert alle Maps als "Gespielt". Nicht für Spieler empfohlen, die noch wissen wollen, welche Maps sie noch nicht gespielt haben. |
-| osu!-Updater starten | Schließt osu! und öffnet einen externen osu!-Updater (früher bekannt als osume!), um nach Updates zu suchen. |
+| Name | Beschreibung | Typ |
+| :-- | :-- | :-- |
+| `Alle nicht gerankten Maps löschen` | Lösche alle nicht gerankten Maps aus dem Song-Ordner. | Button |
+| `Ordnerberechtigungen erzwingen` | Erzwingt Lese-/Schreib-Berechtigungen für den Spiel-Client, um auf die entsprechenden Ordner zugreifen zu können. (Damit das funktioniert, wird das Administrator-Passwort benötigt.) | Button |
+| `Alle Maps als "Gespielt" markieren` | Markiert alle Maps als "Gespielt". | Button |
+| `osu!-Updater starten` | Schließt den Spiel-Client und öffnet den Updater, um nach Aktualisierungen zu suchen und herunterzuladen, sofern verfügbar. | Button |
 
-- b(Jahr)(Monat)(Tag).(Überarbeitung) = Public Build. Also, b20140323.3 bedeutet: Public Build vom 23. März 2014, dritte Überarbeitung.
+Weiter unten wird die Versionsnummer angezeigt. Bei einem Klick wird das [Änderungsprotokoll](/wiki/Glossary/Changelog) für diese Version in deinem Webbrowser geöffnet.
+
+### Debug
+
+#### Build-Version
+
+Schaue, welche Build-Version dein Spiel-Client aktuell hat und welche Updatequelle dein Spiel-Client nutzt. Bei einem Klick wirst du zum Änderungsprotokoll in deinem bevorzugten Webbrowser weitergeleitet.
+
+Die Builds werden nach folgendem Schema nummeriert:
+
+```
+b{YYYY}{MM}{DD}.{revision}{type}
+```
+
+- `{YYYY}` ist das Jahr des Builds
+- `{MM}` ist der Monat des Builds
+- `{DD}` ist der Tag des Builds
+- `{revision}` ist die Überarbeitung des Builds
+  - Wenn keine Überarbeitung angegeben ist, wird der Dezimalpunkt entfernt.
+- `{type}` ist die Updatequelle
+  - Wenn kein Wert hier angegeben ist, nehme an, dass es `Stable` ist.
+
+## Trivia
+
+- Wenn du einen Benutzernamen eingibst, aber das Passwortfeld leer lässt, wird osu! diesen Namen benutzen, falls Scores lokal gespeichert werden.
+- Das Öffnen der Options-Leiste wird automatisch die Funktion `osu! is up-to-date!` aktivieren (es wird geprüft, ob Aktualisierungen verfügbar sind).
+- Die Option `Saisonale Hintergründe` wurde hinzugefügt, nachdem das osu!dev-Team positives Feedback erhalten hatte.
+  - Mehr Details: [main menu background changes](https://osu.ppy.sh/community/forums/topics/606931)
+
+### Geschichte
+
+- Das alte Options-Fenster war tatsächlich ein Fenster, das Tabs, Buttons und einen dunklen blassblauen Hintergrund hatte.
+- Das alte Options-Fenster hatte ebenfalls einen Skin-Auswahlbildschirm, der eine Live-Vorschau von einer Beatmap in osu! anbot.
+  - Nachdem das Options-Fenster in die Seitenleiste verschoben wurde, war das alte Fenster immer noch durch das Öffnen einer Skin-Datei aufrufbar.
+  - Der Zugriff darauf wurde später entfernt, nachdem die Vorschau für Skins und die Live-Vorschau eingeführt wurden.

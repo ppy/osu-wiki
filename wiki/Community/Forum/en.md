@@ -26,7 +26,7 @@ In addition to user group badges provided by group membership, users may have [c
 
 ### Moderation
 
-*See also: [Reporting bad behaviour § Forum](/wiki/Reporting_Bad_Behaviour#forum)*
+*See also: [Reporting bad behaviour § Forum](/wiki/Reporting_bad_behaviour#forum)*
 
 [Moderators](/wiki/People/The_Team/Global_Moderation_Team) are users who keep the forums clean and appropriate, and answer concerns related to that. Moderators can edit or delete inappropriate posts or topics, pin topics and move them between different forums, and temporarily prevent offenders from posting by [silencing](/wiki/Silence) them.
 
@@ -47,7 +47,7 @@ Additionally, there are other forums similar to Abandoned Wasteland, which serve
 [The first public forum post](https://osu.ppy.sh/community/forums/topics/2) is dated August 28, 2007, and belongs to [peppy](/wiki/People/peppy). During that time, the osu! website used [phpBB](https://en.wikipedia.org/wiki/PhpBB) as its forum engine, which over the years has been significantly expanded to suit the game and community's needs. Some of its customisations included:
 
 - Integration with the [beatmap submission system](/wiki/Submission)
-- The [kudosu](/wiki/Kudosu) and [beatmap ranking](/wiki/Beatmap_ranking_procedure) systems
+- The [kudosu](/wiki/Modding/Kudosu) and [beatmap ranking](/wiki/Beatmap_ranking_procedure) systems
 - [Help](/wiki/Community/Forum/Help) and [Feature Requests](/wiki/Community/Forum/Feature_Requests) forums
 - [osu!supporter](/wiki/osu!supporter) and user pages
 

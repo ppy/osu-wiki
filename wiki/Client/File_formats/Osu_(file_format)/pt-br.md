@@ -45,7 +45,7 @@ O conteúdo seguinte é separado em seções, indicadas por títulos em colchete
 
 ## Editor
 
-Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wiki/Beatmap_Editor). Elas não afetam a jogabilidade.
+Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wiki/Client/Beatmap_editor). Elas não afetam a jogabilidade.
 
 | Opção | Tipo do valor | Descrição |
 | :-- | :-- | :-- |
@@ -141,7 +141,7 @@ Cada timing point influencia uma parte específica do mapa, comumente chamado de
 
 Timing points têm dois efeitos extras que podem ser habilitados utilizando bits 0 e 3 (do menos para mais significante) no inteiro `effects`:
 
-- 0: Se o [kiai time](/wiki/Kiai_time) está ativado ou não
+- 0: Se o [kiai time](/wiki/Gameplay/Kiai_time) está ativado ou não
 - 3: Se a primeira barline é omitida no osu!taiko e osu!mania
 
 O resto dos bits não são utilizados.

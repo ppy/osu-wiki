@@ -13,7 +13,7 @@ tags:
 
 Existem muitos atalhos no osu! que podem ser utilizados dentro do jogo ou enquanto ocioso em qualquer tela. Aqui esses atalhos estão listados abaixo com sua respectiva função.
 
-*Nota: Esse artigo lista os atalhos padrões de teclado. Você pode modificar alguns deles nas [opções](/wiki/Options).*
+*Nota: Esse artigo lista os atalhos padrões de teclado. Você pode modificar alguns deles nas [opções](/wiki/Client/Options).*
 
 ## Dentro do jogo em geral
 
@@ -44,7 +44,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `Esc` | Volte ou cancele. |
 | `P`, `E`, or `O` | Abre o menu para jogar. |
 | `P` três vezes | Entre no Solo. |
-| `P` duas vezes, depois `M` | Entre no [Multiplayer](/wiki/Multi). |
+| `P` duas vezes, depois `M` | Entre no [Multiplayer](/wiki/Gameplay/Multiplayer). |
 | `E` duas vezes | Entre no modo do editor. |
 | `O` | Abre a barra de canto de opções. |
 | `Q` | Mostra a confirmação para fechar o jogo. |
@@ -146,7 +146,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 
 ## Editor de beatmap
 
-*Página principal: [Beatmap Editor](/wiki/Beatmap_Editor)*
+*Página principal: [Beatmap Editor](/wiki/Client/Beatmap_editor)*
 
 ### General
 
@@ -171,10 +171,10 @@ Esses atalhos funcionam em qualquer lugar do editor:
 | `Ctrl` + `N` | Pergunta se quer remover todas as notas do beatmap. |
 | `Ctrl` + `Setas para Cima/Baixo` | Aumenta/diminui a velocidade de playback em 25%. |
 | `Ctrl` + `Shift` + `Setas para Cima/Baixo` | Aumenta/diminui a velocidade de playback em 5%. |
-| `F1` | Muda para o modo de [compose](/wiki/Beatmap_Editor/Compose). |
-| `F2` | Muda para o modo de [design](/wiki/Beatmap_Editor/Design). |
-| `F3` | Muda para o modo de [timing](/wiki/Beatmap_Editor/Timing). |
-| `F4` | Abre o diálogo de [song setup](/wiki/Beatmap_Editor/Song_Setup). |
+| `F1` | Muda para o modo de [compose](/wiki/Client/Beatmap_editor/Compose). |
+| `F2` | Muda para o modo de [design](/wiki/Client/Beatmap_editor/Design). |
+| `F3` | Muda para o modo de [timing](/wiki/Client/Beatmap_editor/Timing). |
+| `F4` | Abre o diálogo de [song setup](/wiki/Client/Beatmap_editor/Song_Setup). |
 | `F5` | Entra o modo de teste. |
 | `F6` | Abre o diálogo de timing e control points. |
 | `Ctrl` + `P` | Adiciona um ponto de timing não-herdado no tempo atual. Se não estiver no modo de timing, isso também irá abrir o diálogo de timing e control points. |
@@ -215,13 +215,13 @@ Esses atalhos funcionam em qualquer lugar do editor:
 | `1`, `2`, `3`, or `4` | Troca entre os modos de colocar/selecionar: selecionar, circle, slider, e spinner respectivamente (osu!, osu!taiko, ou osu!catch). |
 | `1`, `2`, ou `3` | Troca entre os modos de colocar/selecionar: selecionar, circle, e hold respectivamente (osu!mania). |
 | `Ctrl` + `Alt` + `Roda do mouse para Cima/Baixo` | Troca entre os modos de colocar/selecionar. |
-| `Ctrl` + `Shift` + `A` | Abre o [AiMod](/wiki/Beatmap_Editor/AiMod). |
+| `Ctrl` + `Shift` + `A` | Abre o [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
 
 #### Playfield
 
 | Atalho | Ação |
 | :-- | :-- |
-| `Alt` | Temporariamente ativa o [distance snap](/wiki/Beatmap_Editor/Distance_Snap) enquanto pressionado. |
+| `Alt` | Temporariamente ativa o [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) enquanto pressionado. |
 | `Y` | Ativa ou desativa o distance snap. |
 | `Shift` | Temporariamente ativa o snap de grid snap enquanto pressionado. |
 | `T` | Ativa ou desativa o snap de grid. |
@@ -265,7 +265,7 @@ Esses atalhos funcionam em qualquer lugar do editor:
 
 | Atalho | Ação |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Muda o [divisor de snap de beat](/wiki/Beatmap_Editor/Beat_Snap_Divisor) para 1/1, 1/2, 1/3, 1/4, 1/6, e 1/8 respectivamente. |
+| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Muda o [divisor de snap de beat](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) para 1/1, 1/2, 1/3, 1/4, 1/6, e 1/8 respectivamente. |
 | `Shift` (enquanto arrastando na timeline) | Ignora o snapping do divisor de snap de beat. |
 | `J` | Move a seleção para trás por 1 divisor. |
 | `K` | Move a seleção para frente por 1 divisor. |

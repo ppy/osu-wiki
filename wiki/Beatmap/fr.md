@@ -14,13 +14,13 @@ Une **beatmap** (parfois appelée *beatmapset*) est un ensemble de niveaux ([dif
 - Un [storyboard](/wiki/Storyboard) avec des mouvements graphiques et des effets spéciaux, servant d'animation de fond ou de thème pour la musique (optionnel).
 - Un [skin personnalisé](/wiki/Skinning), qui change l'apparence de l'interface et des éléments de jeu (optionnels).
 
-*Note: Quelques fonctionnalités visuelles et audio peuvent être désactivées via la fenêtre des [paramètres graphiques](/wiki/Visual_Settings)*
+*Note: Quelques fonctionnalités visuelles et audio peuvent être désactivées via la fenêtre des [paramètres graphiques](/wiki/Client/Interface/Visual_settings)*
 
 ## Difficulté
 
 *Article principal: [Difficultés](/wiki/Beatmap/Difficulty)*
 
-Une *difficulté* est un fichier avec [l'extension `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) qui décrit le positionnement des éléments d'une beatmap, des hitsounds et d'effets spéciaux comme le [kiai time](/wiki/Kiai_time). Elle contient également des [paramètres de difficulté](/wiki/Beatmap_Editor/Song_Setup#difficulté) et d'autres paramètres qui affectent directement le jeu. Les difficultés d'une beatmap ont des structures différentes et peuvent parfois n'être jouées que dans un seul [mode de jeu](/wiki/Game_mode). Le système de [notation par étoile](/wiki/Beatmapping/Star_rating) est utilisé pour se donner une idée du niveau requis pour jouer une difficulté.
+Une *difficulté* est un fichier avec [l'extension `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) qui décrit le positionnement des éléments d'une beatmap, des hitsounds et d'effets spéciaux comme le [kiai time](/wiki/Gameplay/Kiai_time). Elle contient également des [paramètres de difficulté](/wiki/Client/Beatmap_editor/Song_Setup#difficulté) et d'autres paramètres qui affectent directement le jeu. Les difficultés d'une beatmap ont des structures différentes et peuvent parfois n'être jouées que dans un seul [mode de jeu](/wiki/Game_mode). Le système de [notation par étoile](/wiki/Beatmapping/Star_rating) est utilisé pour se donner une idée du niveau requis pour jouer une difficulté.
 
 ## Publication
 
@@ -28,7 +28,7 @@ Une *difficulté* est un fichier avec [l'extension `.osu`](/wiki/osu!_File_Forma
 
 Les auteurs de beatmaps peuvent [publier](/wiki/Submission) leur création dans la [liste des beatmaps](https://osu.ppy.sh/beatmapsets). Bien que chaque beatmap est attribuée à [une seule personne](/wiki/Beatmap/Beatmap_host), il s'agit souvent d'un effort commun: certaines difficultés peuvent être créées par d'autres personnes qui travaillent [en collaboration](/wiki/Beatmap/Beatmap_collaborations) ou [séparément](/wiki/Beatmap/Guest_difficulty).
 
-Après soumission, une beatmap reçoit des champs d'informations supplémentaires, comme une description, la langue, le genre, et le marqueur de contenu explicite, qui peut être changé par le créateur de la beatmap sur le site. La beatmap acquiert également un [texte de titre](/wiki/Beatmap/Title_Text), dont l'apparence peut être altérée avec l'aide de [l'équipe de nomination](/wiki/People/The_Team/Nomination_Assessment_Team).
+Après soumission, une beatmap reçoit des champs d'informations supplémentaires, comme une description, la langue, le genre, et le marqueur de contenu explicite, qui peut être changé par le créateur de la beatmap sur le site. La beatmap acquiert également un [texte de titre](/wiki/Beatmap/Title_text), dont l'apparence peut être altérée avec l'aide de [l'équipe de nomination](/wiki/People/The_Team/Nomination_Assessment_Team).
 
 ### Identification
 
@@ -89,7 +89,7 @@ Les joueurs de osu! de tous les modes utilisent les beatmaps pour [gagner des pl
 - Le classement national composé des joueurs du même pays;
 - Le classement des amis qui montre le classement du joueur sur une map comparé à celui de ses amis.
 
-Les 500 meilleures scores sur chaque difficulté d'une beatmap fourni des [replays](/wiki/Replay), qui peuvent être regardés en ligne ou téléchargés dans le classement local pour être visionnés à l'avenir.
+Les 500 meilleures scores sur chaque difficulté d'une beatmap fourni des [replays](/wiki/Gameplay/Replay), qui peuvent être regardés en ligne ou téléchargés dans le classement local pour être visionnés à l'avenir.
 
 ### Charts et Spotlights
 
@@ -97,7 +97,7 @@ Les 500 meilleures scores sur chaque difficulté d'une beatmap fourni des [repla
 
 Depuis ses débuts, la communauté a eu de nombreuses occasions de mettre en avant leurs meilleures beatmaps. Une des premières approche a été la création de tops mensuels et saisonniers appelés charts constitués d'un groupe restreint de beatmaps classées, où les meilleurs joueurs du classement par points totaux réalisés sur ces maps reçoivent l'[osu!supporter](/wiki/osu!supporter).
 
-Le système de charts à ensuite évolué pour devenir le projet [Beatmap Spotlights](/wiki/Beatmap_Spotlights), qui fonctionne de façon similaire, avec des playlists qui peuvent être jouées sur le client osu!lazer.
+Le système de charts à ensuite évolué pour devenir le projet [Beatmap Spotlights](/wiki/Beatmap_Spotlights), qui fonctionne de façon similaire, avec des playlists qui peuvent être jouées sur le client osu!(lazer).
 
 ### Concours de beatmaps
 
@@ -105,8 +105,8 @@ Le système de charts à ensuite évolué pour devenir le projet [Beatmap Spotli
 
 La communauté d'osu! organise régulièrement différents concours pour promouvoir la créativité des mappers motivés. Les concours vont des petites compétitions qui sont réalisés au sein de communautés locales à celles qui ont lieu à une échelle mondiale et qui prévoient des prix plus conséquent. Les gagnants reçoivent souvent des récompenses sous la forme de [tags d'osu!supporter](/wiki/osu!supporter) et d'un badge de profil personnalisé.
 
-### Artistes associés
+### Artistes Associés
 
-*Page principale: [Artistes associés](/wiki/Featured_Artists)*
+*Page principale: [Artistes Associés](/wiki/Featured_Artists)*
 
-Les artistes associés (Featured Artists) est un programme de l'[équipe du jeu](/wiki/People/The_Team) visant à licencier la musique de différents artistes pour osu!, les rendant ainsi disponible au mapping. La [liste des artistes associés](https://osu.ppy.sh/beatmaps/artists) du site internet présente chaque artiste impliqué et fournit des modèles pré-paramétrés pour le mapping.
+Les Artistes Associés (Featured Artists) est un programme de l'[équipe du jeu](/wiki/People/The_Team) visant à licencier la musique de différents artistes pour osu!, les rendant ainsi disponible au mapping. La [liste des Artistes Associés](https://osu.ppy.sh/beatmaps/artists) du site internet présente chaque artiste impliqué et fournit des modèles pré-paramétrés pour le mapping.

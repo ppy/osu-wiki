@@ -62,7 +62,7 @@ On 1 April 2012, the entire osu! website had a 50% chance of either the [Flashli
 
 ### Bad Apple ranking chart
 
-The "Bad Apple Ranking Chart" was a joke ranking chart based on a variety of beatmaps that featured the song "Bad Apple!!" as part of osu!'s 2012 April Fools' joke. Announced via [a newspost](https://osu.ppy.sh/community/forums/posts/1431905) on 1 April 2012, the ranking chart actually functioned as a real working chart at the time and displayed the top 40 players who obtained the highest [ranked score](/wiki/Score/Ranked_score) in any one of the handpicked selections of "Bad Apple!!" beatmaps [[20,21,22]][r]. An excerpt from the aforementioned newspost is inscribed below:
+The "Bad Apple Ranking Chart" was a joke ranking chart based on a variety of beatmaps that featured the song "Bad Apple!!" as part of osu!'s 2012 April Fools' joke. Announced via [a newspost](https://osu.ppy.sh/community/forums/posts/1431905) on 1 April 2012, the ranking chart actually functioned as a real working chart at the time and displayed the top 40 players who obtained the highest [ranked score](/wiki/Gameplay/Score/Ranked_score) in any one of the handpicked selections of "Bad Apple!!" beatmaps [[20,21,22]][r]. An excerpt from the aforementioned newspost is inscribed below:
 
 > We decided to dedicate this chart to the greatest song and video ever created, Bad Apple!!. You can find the awesome chart here
 >
@@ -151,7 +151,7 @@ However, even though the official osu! developers have/had no intention of genui
 
 ### Dancing Auto mod cursor/dancing pippi
 
-"Dancing pippi" (also known as "dancing Auto mod cursor") is the nickname given to one of osu!'s April Fools' jokes for 2016 in which an update was released that caused the game cursor in [Auto](/wiki/Game_modifier/Auto) mod [replays](/wiki/Replay) to circle around the current [hit object](/wiki/Hit_object) in pixel-perfect fashion before eventually hitting the object right on time, in contrast to the Auto mod's usual robotic and perfectly straight movements. The aforementioned update was rolled back in a subsequent one the next day [[47,48,49,50]][r]. <!--still needs official official verification-->
+"Dancing pippi" (also known as "dancing Auto mod cursor") is the nickname given to one of osu!'s April Fools' jokes for 2016 in which an update was released that caused the game cursor in [Auto](/wiki/Game_modifier/Auto) mod [replays](/wiki/Gameplay/Replay) to circle around the current [hit object](/wiki/Hit_object) in pixel-perfect fashion before eventually hitting the object right on time, in contrast to the Auto mod's usual robotic and perfectly straight movements. The aforementioned update was rolled back in a subsequent one the next day [[47,48,49,50]][r]. <!--still needs official official verification-->
 
 ### Free osu! supporter tags
 
@@ -165,7 +165,7 @@ As part of the handful of April Fools' day jokes for 2016, the [osu! cookie](/wi
 
 ## 2017
 
-As announced in a [tweet by peppy](https://twitter.com/ppy/status/848021525663842304), there was no April Fools' day joke for osu! in 2017 due to osu!lazer development.
+As announced in a [tweet by peppy](https://twitter.com/ppy/status/848021525663842304), there was no April Fools' day joke for osu! in 2017 due to development on the lazer version of the osu! client.
 
 ---
 

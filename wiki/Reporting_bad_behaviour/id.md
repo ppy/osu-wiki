@@ -1,106 +1,106 @@
-# Melaporkan perilaku buruk
+# Melaporkan perbuatan yang tidak pantas
 
-osu! memiliki [sebuah tim moderator](/wiki/People/The_Team/Global_Moderation_Team) yang setia untuk menjaga permainan dan ekosistemnya bersih dan aman. Jika kamu melihat perilaku yang melanggar peraturan atau konten tidak pantas, laporkan hal tersebut dengan menggunakan metode yang dijelaskan di bawah ini. Sebagai alternatif, kamu dapat mengontak moderator yang sedang *online* secara langsung jika laporanmu tidak ditangani secara benar dalam jangka waktu yang wajar sebagai cara terakhir.
+osu! memiliki [sebuah tim moderator](/wiki/People/The_Team/Global_Moderation_Team) yang secara khusus bertugas untuk menjaga lingkungan osu! dari hal-hal yang tidak diinginkan. Apabila kamu menemukan ada pihak tertentu yang dengan sengaja melanggar peraturan atau menyebarkan konten yang tidak pantas, harap laporkan hal tersebut melalui jalur-jalur laporan yang tertera di bawah ini. Apabila setelah sekian waktu laporanmu belum ditanggapi, kamu dapat mengontak para moderator yang sedang *online* secara langsung.
 
-Laporan yang tidak disengaja akan diabaikan. Pengguna yang sengaja mengirim laporan palsu akan terancam [di-silence](/wiki/Silence).
+Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, para pengguna yang sengaja mengirimkan laporan palsu akan terancam untuk di-*[silence](/wiki/Silence)*.
 
-## Kasus-kasus spesial
+## Kasus-kasus khusus
 
-| Sifat pelanggaran | Kontak yang dapat diakses |
+| Jenis pelanggaran | Pihak yang dapat dihubungi |
 | :-- | :-- |
-| Pesan pribadi yang tidak pantas | **Tidak ada**: [abaikan pengguna](/wiki/Chat_Console#commands-list) saja. Untuk efek permanen, gunakan daftar abaikan pengguna dalam permainan yang ada pada [options](/wiki/Options). |
-| Pelanggaran terkait modding dan/atau mapping | NAT, melalui website [NAT/BN Management](https://bn.mappersguild.com/reports) |
-| Pelanggaran tingkah laku dari seorang member [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) atau [GMT](/wiki/People/The_Team/Global_Moderation_Team) | [Account support team](/wiki/People/The_Team/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh) |
-| Pelecehan seksual atau kelakuan buruk ekstrim | Rujuk ke artikel [Melaporkan Penyalahgunaan](/wiki/Reporting_bad_behaviour/Abuse) |
+| Pesan pribadi yang tidak pantas | **Tidak ada**: harap [abaikan pengguna tersebut](/wiki/Client/Interface/Chat_console#commands-list). Untuk dapat mengabaikan seseorang secara permanen, gunakan fitur daftar pengabaian (*ignore list*) yang ada pada menu [Options](/wiki/Client/Options). |
+| Pelanggaran yang terkait dengan modding dan/atau mapping | NAT atau para anggota [GMT](/wiki/People/The_Team/Global_Moderation_Team) yang memoderasi komunitas mapping/modding, melalui situs web [NAT/BN Management](https://bn.mappersguild.com/reports) |
+| Perilaku yang tidak pantas dari anggota [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) atau [GMT](/wiki/People/The_Team/Global_Moderation_Team) | [Account support team](/wiki/People/The_Team/Account_support_team) melalui alamat email [support@ppy.sh](mailto:support@ppy.sh) |
+| Pelecehan seksual serta segala bentuk kelakuan buruk yang sudah tidak dapat ditoleransi lagi | Harap rujuk artikel [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse) |
 
-Untuk kasus selain yang di atas, lihat instruksi di bawah ini.
+Untuk kasus-kasus lainnya, harap ikuti instruksi di bawah ini.
 
-## Chat dalam permainan
+## *In-game chat*
 
-### Perintah !report
+### Menggunakan perintah !report
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
-Perilaku buruk dalam chat adalah pelanggaran yang paling sering terjadi. Untuk melaporkan itu, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) di kanal di mana pelanggaran terjadi. Jangan merasa stres: jika pesan kamu dimulai dengan `!report` dan diikuti oleh spasi, **pesan tersebut hanya terlihat oleh moderator** dan tidak ada yang lain dalam chat. Kamu dapat menggunakan fungsi laporkan melalui [menu dalam permainan](#Menu-dalam-permainan) seperti yang digambarkan di bawah ini jika kamu masih khawatir.
+Perilaku buruk dalam *in-game chat* merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkannya, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran tersebut terjadi. Jangan takut untuk melapor: apabila pesan yang kamu tulis dimulai dengan `!report` dan diikuti oleh spasi, **pesan tersebut hanya akan dapat dilihat oleh moderator** tanpa dapat diketahui oleh para pengguna lainnya. Apabila kamu masih belum yakin, kamu dapat kembali melaporkan pelanggaran tersebut melalui [menu dalam permainan](#Mengirimkan-laporan-melalui-menu-dalam-permainan) setelahnya.
 
-Sintaks perintah memiliki dua bentuk:
+Perintah ini dapat dikirim baik dengan ataupun tanpa penjelasan lebih lanjut sebagai berikut:
 
 ```
 !report nama_pengguna
-!report nama_pengguna (deskripsi mengapa pengguna tersebut melanggar)
+!report nama_pengguna (penjelasan singkat seputar pelanggaran yang dilakukan oleh pengguna yang bersangkutan)
 ```
 
-Jika ada spasi pada nama pengguna, gantikan spasi dengan garis bawah (_):
+Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, ganti semua spasi yang ada dengan garis bawah (\_) sesuai dengan contoh berikut:
 
 ```
-!report pengguna_melanggar melakukan spam di #osu
+!report pengguna_yang_melanggar mengirimkan spam di #osu
 ```
 
-### Menu dalam permainan
+### Mengirimkan laporan melalui menu dalam permainan
 
-![](img/report-user-1-ID.png "Menu pengguna dengan tombol laporkan")
+![](img/report-user-1-ID.png "Menu permainan yang memungkinkan kamu untuk melaporkan pengguna yang berperilaku buruk")
 
-![](img/report-user-2-ID.png "Dialog lapor dalam permainan")
+![](img/report-user-2-ID.png "Dialog pelaporan pengguna dalam permainan")
 
-Opsi ini dapat bekerja jika pengguna yang melanggar sedang *online*:
+Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* sebagai berikut:
 
-1. Klik nama pengguna dan tekan tombol merah yang bertuliskan `Laporkan Pengguna...`
-2. Pilih kategori dan tambahkan detil (opsional).
+1. Klik nama pengguna yang hendak kamu laporkan dan pilih tombol merah yang bertuliskan `Laporkan Pengguna...`
+2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
-## Website
+## Situs web osu!
 
-### Halaman profil
+### Melaporkan pengguna lain melalui laman profil mereka
 
-![](img/report-user-profile-ID.png "Tombol laporkan pada halaman profil")
+![](img/report-user-profile-ID.png "Tombol \"Laporkan\" pada laman profil pengguna")
 
-![](img/report-user-web-ID.png "Dialog laporkan pada website")
+![](img/report-user-web-ID.png "Dialog pelaporan pengguna pada situs web osu!")
 
-1. Tekan tombol yang berbentuk tiga dot vertikal dan pilih `Laporkan`.
-2. Pilih kategori dan tambahkan detil (opsional).
+1. Klik tombol titik tiga yang tertera di bawah nama pengguna dan pilih `Laporkan`.
+2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
-### Forum
+### Melaporkan postingan forum yang tidak pantas
 
-![](img/report-user-forum-ID.png "Tombol laporkan pada post forum")
+![](img/report-user-forum-ID.png "Tombol \"Laporkan post\" pada forum")
 
-1. Layangkan kursor ke atas post.
-2. Pada sebuah barisan tombol yang muncul pada pojok kanan atas post, klik tombol dengan simbol peringatan.
-3. Pilih kategori dan tambahkan detil (opsional).
+1. Layangkan kursormu ke atas postingan forum yang hendak kamu laporkan.
+2. Dari deretan tombol yang muncul pada pojok kanan atas layar, klik tombol yang memiliki simbol peringatan.
+3. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
-### Bagian komentar
+### Melaporkan komentar yang tidak pantas
 
-![](img/report-user-comment-ID.png "Tombol laporkan pada sebuah komentar website")
+![](img/report-user-comment-ID.png "Tautan \"laporkan\" pada kolom komentar")
 
-1. Di bawah komen, klik link `laporkan`.
-2. Pilih kategori dan tambahkan detil (opsional).
+1. Klik tautan `laporkan` yang tertera di bawah komentar.
+2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
-### Beatmap
+### Melaporkan beatmap yang tidak pantas
 
-![](img/report-beatmap-ID.png "Tombol laporkan pada laman beatmap")
+![](img/report-beatmap-ID.png "Tombol \"Laporkan\" pada laman info beatmap")
 
-1. Tekan tombol yang berbentuk tiga dot vertikal dan pilih `Laporkan`.
-2. Pilih kategori dan tambahkan detil (opsional).
+1. Klik tombol titik tiga yang tertera pada laman info beatmap dan pilih `Laporkan`.
+2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
-### Diskusi beatmap
+### Melaporkan topik diskusi beatmap yang tidak pantas
 
-![](img/report-user-discussion-ID.png "Tombol laporkan pada diskusi post")
+![](img/report-user-discussion-ID.png "Tautan \"laporkan\" pada laman diskusi beatmap")
 
-1. Di bawah laman diskusi, klik link `laporkan`.
-2. Pilih kategori dan tambahkan detil (opsional).
+1. Pada laman diskusi beatmap yang terkait, tuju topik diskusi beatmap yang bermasalah dan klik tautan `laporkan`.
+2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
-### Daftar skor
+### Melaporkan skor yang tidak wajar
 
-![](img/report-score-user-ID.png "Tombol laporkan pada sebuah skor teratas di profil pengguna")
+![](img/report-score-user-ID.png "Tombol \"Laporkan Skor\" pada skor yang tertera pada laman profil pengguna")
 
-#### Profil pengguna
+#### Pada laman profil pengguna
 
-1. Navigasikan ke bagian `Peringkat` atau `Historis` untuk permainan yang terbaru dan temukan skornya.
-2. Pada bagian kanan atas skor, tekan tombol yang berbentuk tiga dot vertikal dan pilih  `Laporkan Skor`.
-3. Pilih kategori dan tambahkan detil (opsional).
+1. Pada laman profil pengguna yang kamu tenggarai telah berbuat curang, tuju bagian `Peringkat` atau `Historis` dan layangkan kursormu ke atas skor yang kamu anggap tidak wajar.
+2. Klik tombol titik tiga yang muncul pada bagian kanan layar dan pilih `Laporkan Skor`.
+3. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
-#### Daftar skor beatmap
+#### Pada papan peringkat (*leaderboard*) beatmap
 
-![](img/report-score-beatmap-ID.png "Tombol laporkan pada sebuah skor teratas di daftar skor beatmap")
+![](img/report-score-beatmap-ID.png "Tombol \"Laporkan Skor\" pada papan peringkat beatmap")
 
-1. Layangkan kursor ke atas skor.
-2. Pada bagian kanan atas skor, tekan tombol yang berbentuk tiga dot vertikal dan pilih  `Laporkan Skor`.
-3. Pilih kategori dan tambahkan detil (opsional).
+1. Layangkan kursormu ke atas skor yang kamu anggap tidak wajar.
+2. Klik tombol titik tiga yang muncul pada bagian kanan layar dan pilih `Laporkan Skor`.
+3. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).

@@ -6,9 +6,9 @@ Les [beatmaps](/wiki/Beatmap) soumises en ligne sont réparties en catégories e
 
 ### Cimetière
 
-Le cimetière est un endroit où résident les beatmaps abandonnées par leurs [hôtes](/wiki/Beatmap/Beatmap_host). Ces beatmaps n'ont pas de classement, mais elles peuvent toujours être téléchargées et jouées, et elles continuent à [contribuer aux statistiques de jeu](#statistiques-des-beatmaps-non-classées). Elles utilisent l'icône de point d'interrogation (![](/wiki/shared/status/graveyard.png)) dans l'[écran de sélection des beatmaps](/wiki/Interface#écran-de-sélection-des-beatmaps).
+Le cimetière est un endroit où résident les beatmaps abandonnées par leurs [hôtes](/wiki/Beatmap/Beatmap_host). Ces beatmaps n'ont pas de classement, mais elles peuvent toujours être téléchargées et jouées, et elles continuent à [contribuer aux statistiques de jeu](#statistiques-des-beatmaps-non-classées). Elles utilisent l'icône de point d'interrogation (![](/wiki/shared/status/graveyard.png)) dans l'[écran de sélection des beatmaps](/wiki/Client/Interface#écran-de-sélection-des-beatmaps).
 
-Une beatmap est automatiquement déplacée au cimetière depuis les catégories [Work In Progress et En attente](#work-in-progress-et-en-attente) lorsqu'elle n'a pas été mise à jour depuis 4 semaines. L'auteur peut faire revivre la beatmap (c'est-à-dire la ramener dans la catégorie [en attente](#work-in-progress-et-en-attente)) en la mettant à jour via le [système de soumission des beatmaps](/wiki/Submission). Une beatmap au cimetière ne compte pas dans la [limite totale de publications](/wiki/Help_Centre/Beatmapping#je-suis-un-osu!supporter-mais-je-n'ai-pas-10-emplacements-en-attente-!) d'un mappeur, mais la faire revivre nécessite un emplacement libre.
+Une beatmap est automatiquement déplacée au cimetière depuis les catégories [Work In Progress et En attente](#work-in-progress-et-en-attente) lorsqu'elle n'a pas été mise à jour depuis 4 semaines. L'auteur peut faire revivre la beatmap (c'est-à-dire la ramener dans la catégorie [en attente](#work-in-progress-et-en-attente)) en la mettant à jour via le [système de soumission des beatmaps](/wiki/Submission). Une beatmap au cimetière ne compte pas dans la [limite totale de publications](/wiki/Help_centre/Beatmapping#je-suis-un-osu!supporter-mais-je-n'ai-pas-10-emplacements-en-attente-!) d'un mappeur, mais la faire revivre nécessite un emplacement libre.
 
 ### Work In Progress et En attente
 
@@ -30,7 +30,7 @@ La catégorie **classée** correspond aux beatmaps qui sont considérées comme 
 
 *Pour l'histoire de la catégorie Loved, voir : [Histoire de Loved](/wiki/Beatmap/History_of_Loved)*
 
-La catégorie **loved** correspond aux beatmaps qui ne peuvent pas répondre aux [critères de classement](/wiki/Ranking_Criteria), mais elles sont *aimées* par la communauté et sont donc régulièrement ajoutées en fonction des votes de la communauté dans le [Project Loved](/wiki/Project_Loved). Elles ont des classements, mais aucun [point de performance](/wiki/Performance_points) ne sera attribué et tous les scores seront supprimés si elles ne sont plus Loved (cela ne se produit généralement qu'à la demande du créateur). Les beatmaps Loved utilisent l'icône de cœur (![](/wiki/shared/status/loved.png)) dans l'écran de sélection des beatmaps.
+La catégorie **loved** correspond aux beatmaps qui ne peuvent pas répondre aux [critères de classement](/wiki/Ranking_Criteria), mais elles sont *aimées* par la communauté et sont donc régulièrement ajoutées en fonction des votes de la communauté dans le [Project Loved](/wiki/Community/Project_Loved). Elles ont des classements, mais aucun [point de performance](/wiki/Performance_points) ne sera attribué et tous les scores seront supprimés si elles ne sont plus Loved (cela ne se produit généralement qu'à la demande du créateur). Les beatmaps Loved utilisent l'icône de cœur (![](/wiki/shared/status/loved.png)) dans l'écran de sélection des beatmaps.
 
 ## Histoire
 

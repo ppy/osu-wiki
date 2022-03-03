@@ -43,11 +43,11 @@ Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is o
 
 ## Beatmap header
 
-*For information about setting metadata, see: [Song Setup § Song and Map Metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
+*For information about setting metadata, see: [Song Setup § Song and Map Metadata](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)*
 
 ![](img/beatmap-header.png "Beatmap header")
 
-The beatmap header displays the title and artist provided in the [beatmap editor](/wiki/Beatmap_Editor). Clicking the beatmap header will navigate back to the info page.
+The beatmap header displays the title and artist provided in the [beatmap editor](/wiki/Client/Beatmap_editor). Clicking the beatmap header will navigate back to the info page.
 
 ## Difficulty menu
 

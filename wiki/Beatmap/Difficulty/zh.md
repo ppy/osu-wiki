@@ -17,7 +17,7 @@ outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 
 ## 难度级别
 
-*请参见：[难度的命名](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*请参见：[难度的命名](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 以下是对应某个谱面难度的常见难度等级。在各自模式的 [Ranking 准则](/wiki/Ranking_Criteria) 中可以找到它们的具体定义和要求。
 

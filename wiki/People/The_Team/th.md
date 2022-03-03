@@ -77,7 +77,7 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | ผู้พัฒนา osu! และ pp |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | ผู้พัฒนา osu!, ผู้พัฒนาโหมด osu!mania |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | ผู้จัดการ [osu!store](https://osu.ppy.sh/store/listing) |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | อาจารย์​ [osu!academy](/wiki/osu!academy), ผู้สร้างสื่อและตัวละคร |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | อาจารย์​ [osu!academy](/wiki/Community/Video_series/osu!academy), ผู้สร้างสื่อและตัวละคร |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "อาร์เจนตินา"
 [flag_AU]: /wiki/shared/flag/AU.gif "ออสเตรเลีย"

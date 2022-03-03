@@ -42,11 +42,11 @@ Modusselectie verandert de [spelmodus](/wiki/Game_mode) waarvoor je modt. Het is
 
 ## Beatmaphoofding
 
-*Voor meer info over het instellen van metadata, zie: [Song Setup § Muziek en Map Metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
+*Voor meer info over het instellen van metadata, zie: [Song Setup § Muziek en Map Metadata](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)*
 
 ![](img/beatmap-header.png "Beatmaphoofding")
 
-De beatmaphoofding geeft de titel en artiest die in de [beatmap editor](/wiki/Beatmap_Editor). Als je op de beatmaphoofding klikt zal je terug naar de informatiepagina navigeren.
+De beatmaphoofding geeft de titel en artiest die in de [beatmap editor](/wiki/Client/Beatmap_editor). Als je op de beatmaphoofding klikt zal je terug naar de informatiepagina navigeren.
 
 ## Moeilijkheidsgraadmenu
 

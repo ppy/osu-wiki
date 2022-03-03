@@ -8,7 +8,7 @@ Project Loved is here to kick off the summer with the hottest new selection of m
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-For those unfamiliar, Project Loved hosts monthly votings to decide which nominated maps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). You can click on each of the map's banners in this post to go to its poll on the forums or view them on the forum [here](https://osu.ppy.sh/community/forums/120). Voting runs for 10 days, starting now! More info is available on the [wiki page](/wiki/Project_Loved)!
+For those unfamiliar, Project Loved hosts monthly votings to decide which nominated maps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). You can click on each of the map's banners in this post to go to its poll on the forums or view them on the forum [here](https://osu.ppy.sh/community/forums/120). Voting runs for 10 days, starting now! More info is available on the [wiki page](/wiki/Community/Project_Loved)!
 
 This month we do not have any new things to announce regarding changes to Project Loved as of yet but we always welcome relevant feedback, keep our eyes peeled and ears to the ground. With that being said, here are the picks for the month of June.
 
@@ -285,6 +285,6 @@ This collection is showcasing little of the work Nakano Yuko has brought to the 
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Project_Loved). See you next month!
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved). See you next month!
 
 —huu

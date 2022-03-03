@@ -28,14 +28,18 @@ The first osu! community meeting was hosted on September 19, 2021. All meetings 
 
 | Meeting # | Link | Summary | Agenda |
 | :-: | :-- | :-- | :-- |
-| 0 | [September 19, 2021](https://youtu.be/-LjNll8VYTM) | [Meeting notes](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Introduction to these meetings, ranking criteria, difficulty and performance points, osu!lazer in general |
+| 0 | [September 19, 2021](https://youtu.be/-LjNll8VYTM) | [Meeting notes](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Introduction to these meetings, ranking criteria, difficulty and performance points, osu!(lazer) in general |
 | 1 | [October 3, 2021](https://youtu.be/D3OZCm6szVE) | [Meeting notes](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Various community questions, development update |
 | 2 | [October 17, 2021](https://youtu.be/nLT-fLeogrw) | [Meeting notes](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Various community questions |
 | 3 | [October 31, 2021](https://youtu.be/omvZbC7zJUI) | [Meeting notes](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Various community questions |
 | 4 | [November 14, 2021](https://youtu.be/rEWgTY-L95Y) | [Meeting notes](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) | Performance point development process, various community questions, development update |
 | 5 | [November 28, 2021](https://youtu.be/SqMrY26Q6Tw) | [Meeting notes](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) | Various community questions, development update |
 | 6 | [December 11, 2021](https://youtu.be/dtGjIyTFtMA) | [Meeting notes](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) | Future of the osu! World Cups, various community questions |
-| 7 | [December 18, 2021](https://www.twitch.tv/videos/1236856715) | [Meeting notes](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy responds to various controversies and drama in the community |
+| 7 | [December 18, 2021](https://youtu.be/v-LgY3UKhkg) | [Meeting notes](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy responds to various controversies and drama in the community |
+| 8 | [January 9, 2022](https://youtu.be/JXgQ6YEDCGg) | [Meeting notes](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | HP mechanics (health drain), various community questions |
+| 9 | [January 22, 2022](https://youtu.be/Prx0XzHl6-M) | [Meeting notes](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Various community questions, development update |
+| 10 | [February 6, 2022](https://youtu.be/xA4nbE8DM4s) | [Meeting notes](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Various community questions |
+| 11 | [February 20, 2022](https://youtu.be/d66pU5lsHvE) | - | Mod multipliers and score |
 
 ## Related links
 

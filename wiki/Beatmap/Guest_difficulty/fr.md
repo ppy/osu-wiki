@@ -25,6 +25,6 @@ Les difficultés d'invités ne doivent pas être confondues avec les difficulté
 ![](img/gd_ownership.png "Un exemple du panneau de contrôle du propriétaire des difficulté d'invités")
 :::
 
-Sur la page de [discussion d'une beatmap](/wiki/Beatmap_Discussion), l'hôte de la beatmap peut transférer la propriété des difficultés d'invités à leurs mappeurs respectifs par le biais du bouton `Difficulty Owner`. Cela permet aux propriétaires des difficultés d'invités de résoudre eux-mêmes les problèmes en suspens dans leurs difficultés.
+Sur la page de [discussion d'une beatmap](/wiki/Beatmap_discussion), l'hôte de la beatmap peut transférer la propriété des difficultés d'invités à leurs mappeurs respectifs par le biais du bouton `Difficulty Owner`. Cela permet aux propriétaires des difficultés d'invités de résoudre eux-mêmes les problèmes en suspens dans leurs difficultés.
 
 Le propriétaire d'une difficulté d'invité ne peut pas être modifié si la beatmap est [qualifiée](/wiki/Beatmap/Category#qualifiée), [classée](/wiki/Beatmap/Category#classée), ou [loved](/wiki/Beatmap/Category#loved).

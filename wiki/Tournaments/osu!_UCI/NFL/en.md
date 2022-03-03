@@ -11,7 +11,7 @@ tags:
 
 ![NFL banner](img/banner.png)
 
-The **Night Fall LAN** (***NFL***) was an osu! and 4K osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI). It took place at the University of California, Irvine.
+The **Night Fall LAN** (***NFL***) was an osu! and 4K osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Community/Organisations/osu!_UCI). It took place at the University of California, Irvine.
 
 Contrary to what the name might suggest, this tournament ran during the winter of 2020, and most of it took place in the afternoon. osu! UCI has [a long history](/wiki/Tournaments/osu!_UCI) of stretching their tournament names...
 

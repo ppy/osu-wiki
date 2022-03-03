@@ -2,7 +2,7 @@
 
 ![Onglet Design](img/SE_base-FR.png "Onglet Design")
 
-L'**Éditeur de Storyboard** est une section de l'[éditeur de beatmap](/wiki/Beatmap_Editor) du jeu, sous l'onglet Design, qui permet de faire du [Storyboarding](/wiki/Storyboard) simple. C'est une bonne introduction au concept fondamental avant le [Storyboard Scripting](/wiki/Storyboard/Scripting) plus avancé.
+L'**Éditeur de Storyboard** est une section de l'[éditeur de beatmap](/wiki/Client/Beatmap_editor) du jeu, sous l'onglet Design, qui permet de faire du [Storyboarding](/wiki/Storyboard) simple. C'est une bonne introduction au concept fondamental avant le [Storyboard Scripting](/wiki/Storyboard/Scripting) plus avancé.
 
 Il serait bon de faire des cours accélérés de toutes les commandes en utilisant des images aléatoires au moins une fois avant d'essayer de faire du storyboarding sérieux. Cela vous aidera à mieux mémoriser et comprendre l'utilisation.
 

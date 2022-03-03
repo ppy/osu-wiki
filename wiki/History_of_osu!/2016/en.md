@@ -10,7 +10,7 @@ Links:
 
 ## February
 
-A sneak peek of the osu!next design was on display in the 46th issue of osu!weekly. peppy blogged various improvements for the game. Most notably, the skin preview in the [options](/wiki/Options) and new skinnable interface sounds were added. The [Best of 2015](/wiki/Contests) results were in with [Panda Eyes & Teminite - Highscore (CiiyusMiapah)](https://osu.ppy.sh/beatmapsets/332532#osu/736215), [cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331#taiko/624447), [Halozy - Genryuu Kaiko (Yukina)](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), and [D(ABE3) - MANIERA (Jinjin)](https://osu.ppy.sh/beatmapsets/272871#mania/646681) taking in the most votes for the osu!, osu!taiko, osu!catch, and osu!mania respectively. New items were added to the osu!store; such as: the osu!mug (a coffee mug), the osu!mug with pippi (ditto), and osu!go (a USB thumb drive with osu! pre-installed). Thanks to [LiquidPL](https://osu.ppy.sh/users/5044384), reording of the sections, on the new website, in your profile was now possible.
+A sneak peek of the osu!next design was on display in the 46th issue of osu!weekly. peppy blogged various improvements for the game. Most notably, the skin preview in the [options](/wiki/Client/Options) and new skinnable interface sounds were added. The [Best of 2015](/wiki/Contests) results were in with [Panda Eyes & Teminite - Highscore (CiiyusMiapah)](https://osu.ppy.sh/beatmapsets/332532#osu/736215), [cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331#taiko/624447), [Halozy - Genryuu Kaiko (Yukina)](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), and [D(ABE3) - MANIERA (Jinjin)](https://osu.ppy.sh/beatmapsets/272871#mania/646681) taking in the most votes for the osu!, osu!taiko, osu!catch, and osu!mania respectively. New items were added to the osu!store; such as: the osu!mug (a coffee mug), the osu!mug with pippi (ditto), and osu!go (a USB thumb drive with osu! pre-installed). Thanks to [LiquidPL](https://osu.ppy.sh/users/5044384), reording of the sections, on the new website, in your profile was now possible.
 
 Links:
 
@@ -44,7 +44,7 @@ Links:
 
 ## June
 
-Mapping With Rewards \#1, announced in the previous year, has finally been concluded. osu!idol 2016 opened. peppy announced osu!lazer, the soon-to-be successor of the current osu! client.
+Mapping With Rewards \#1, announced in the previous year, has finally been concluded. osu!idol 2016 opened. peppy announced a new osu! client, codenamed "lazer" (previously known as "osu!lazer"), the soon-to-be successor of the current osu! client.
 
 Links:
 
@@ -86,7 +86,7 @@ Links:
 
 ## October
 
-osu! World Cup 2016 registrations opened. GML applications were opened for those who wish to join. The [loved](/wiki/Beatmap/Category#loved) beatmap status was introduced in its testing stage as a way to give community-loved, but unrankable, beatmaps leaderboards. Those types of beatmaps will, however, not award [pp](/wiki/Performance_points) and their leaderboards could be deleted for when the creator updates their beatmap. The Halloween-themed 7th fanart contest opened. Loved was in its second testing state, ready for a new batch of beatmaps to enter this category. A new video featuring osu!lazer was released. Most notably, the hit circles had more textures to them and gave off a smooth and shiny look. osu!idol 2016 voting were opened. A few days before Halloween, the Halloween fanart contest was opened and concluded two days later. The osu!weekly released the 78th issue on Halloween, making it as spooky as possible (but where did the 77th issue go? We'll never know).
+osu! World Cup 2016 registrations opened. GML applications were opened for those who wish to join. The [loved](/wiki/Beatmap/Category#loved) beatmap status was introduced in its testing stage as a way to give community-loved, but unrankable, beatmaps leaderboards. Those types of beatmaps will, however, not award [pp](/wiki/Performance_points) and their leaderboards could be deleted for when the creator updates their beatmap. The Halloween-themed 7th fanart contest opened. Loved was in its second testing state, ready for a new batch of beatmaps to enter this category. A new video featuring the new osu! client (lazer) was released. Most notably, the hit circles had more textures to them and gave off a smooth and shiny look. osu!idol 2016 voting were opened. A few days before Halloween, the Halloween fanart contest was opened and concluded two days later. The osu!weekly released the 78th issue on Halloween, making it as spooky as possible (but where did the 77th issue go? We'll never know).
 
 Links:
 
@@ -114,7 +114,7 @@ Links:
 
 ## December
 
-Voting for the community beatmapping contest \#1 (announced back in September) was opened. Monthly beatmapping contest \#13 was opened. osu!mania 7K World Cup 2017 registrations was opened. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) had outdone himself and produced a beautiful festive intro track for Christmas, which can be heard upon opening the game. [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7) and [sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) were announced to be the newest featured artists in osu!. osu! World Cup 2016 concluded with United States overtaking China. A day past Christmas, the Christmas fanart contest resulted with [\[ Piyori \]](https://osu.ppy.sh/users/4457608) capturing the most votes.
+Voting for the community beatmapping contest \#1 (announced back in September) was opened. Monthly beatmapping contest \#13 was opened. osu!mania 7K World Cup 2017 registrations was opened. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) had outdone himself and produced a beautiful festive intro track for Christmas, which can be heard upon opening the game. [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7) and [sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) were announced to be the newest Featured Artists in osu!. osu! World Cup 2016 concluded with United States overtaking China. A day past Christmas, the Christmas fanart contest resulted with [\[ Piyori \]](https://osu.ppy.sh/users/4457608) capturing the most votes.
 
 Links:
 

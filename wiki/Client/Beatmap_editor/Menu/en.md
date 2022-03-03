@@ -60,7 +60,7 @@ Edit commands. Same as default MS shortcuts.
 
 ### Redo/Undo commands
 
-Do note that these commands can be disabled at [Options](/wiki/Options) sidebar to prevent crash when editing marathon songs.
+Do note that these commands can be disabled at [Options](/wiki/Client/Options) sidebar to prevent crash when editing marathon songs.
 
 | Name | Description |
 | :-- | :-- |
@@ -148,7 +148,7 @@ Places of interest.
 
 ## Compose
 
-*Main page: [Compose](/wiki/Beatmap_Editor/Compose)*
+*Main page: [Compose](/wiki/Client/Beatmap_editor/Compose)*
 
 ![Compose menu](img/M_Compose.jpg "Compose menu")
 
@@ -156,7 +156,7 @@ Places of interest.
 
 | Name | Description |
 | :-- | :-- |
-| Snap Divisor | [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) |
+| Snap Divisor | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | Audio Rate | Same as Playback Rate. |
 | Grid Snapping (T) | Allow snapping of the notes with respect to current grid line. |
 
@@ -167,11 +167,11 @@ Places of interest.
 | Create Polygon Circles (`Ctrl` + `Shift` + `D`) | Create a circular flow of hit circles. You can adjust the Distance Snap (0.1x - 2.0x) {Spacing between notes}, Offset angle (0° - 180°) {Rotation angle}, Repeat and Points (3 - 14/282) {Number of hit circle}. |
 | Convert slider to stream... | (Select a slider) Change the slider to streams of hit circles. You can select between two options: By object count or By distance snap. **By object count:** Adjust the slider flow with the given amount of hit circles (1 - 17/100). **By distance snap:** Adjust the slider flow with a set distance between two notes (0.10x - 5.00x). Can result in absurd amount of hit circles, since it relies on Beat Snap Divisor (one beat = one note). **Beat Snap Divisor:** Note timing adjuster. |
 | Enable live mapping mode (`Ctrl` + Tab) | osu!/osu!catch/osu!taiko maps: use osu!taiko keys to input hit circles, fruits, or taiko hit objects, while playing the song in editor. Placed via cursor location. Different hitsounds based on what osu!taiko key you pressed. osu!mania maps: use osu!mania keys to input hit objects, while playing song in editor. Placed via the key you pressed. Does not work for sliders/holds. |
-| Sample import | [Keysound and Sound Sampling.](/wiki/Beatmap_Editor/Compose) |
+| Sample import | [Keysound and Sound Sampling.](/wiki/Client/Beatmap_editor/Compose) |
 
 ## Design
 
-*Main page: [Design](/wiki/Beatmap_Editor/Design)*
+*Main page: [Design](/wiki/Client/Beatmap_editor/Design)*
 
 ![Design menu](img/M_Design.jpg "Design menu")
 
@@ -181,7 +181,7 @@ Places of interest.
 
 ## Timing
 
-*Main page: [Timing](/wiki/Beatmap_Editor/Timing)*
+*Main page: [Timing](/wiki/Client/Beatmap_editor/Timing)*
 
 ![Timing menu](img/M_Timing.jpg "Timing menu")
 
@@ -206,7 +206,7 @@ Places of interest.
 
 | Name | Description |
 | :-- | :-- |
-| Timing Setup... (F6) | [Timing Setup.](/wiki/Beatmap_Editor/Timing) |
+| Timing Setup... (F6) | [Timing Setup.](/wiki/Client/Beatmap_editor/Timing) |
 
 ### Special commands
 

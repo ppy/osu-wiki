@@ -6,9 +6,9 @@
 
 ### Graveyard
 
-The graveyard is a place where beatmaps abandoned by their [hosts](/wiki/Beatmap/Beatmap_host) reside. These beatmaps do not have leaderboards, but they can still be downloaded and played, and they continue to [contribute to play statistics](#unranked-beatmaps-statistics). They use the question mark icon (![](/wiki/shared/status/graveyard.png)) in the [song selection screen](/wiki/Interface#song-selection-screen).
+The graveyard is a place where beatmaps abandoned by their [hosts](/wiki/Beatmap/Beatmap_host) reside. These beatmaps do not have leaderboards, but they can still be downloaded and played, and they continue to [contribute to play statistics](#unranked-beatmaps-statistics). They use the question mark icon (![](/wiki/shared/status/graveyard.png)) in the [song selection screen](/wiki/Client/Interface#song-select).
 
-A beatmap is moved to the graveyard from [Work in Progress and Pending](#work-in-progress-and-pending) automatically once it hasn't been updated for 4 weeks. The author can revive the beatmap (i.e. bring back to [Pending](#work-in-progress-and-pending)) by updating it via the [beatmap submission system](/wiki/Submission). A beatmap in the graveyard doesn't count towards a mapper's [total upload limit](/wiki/Help_Centre/Beatmapping#i-am-an-osu!supporter,-but-i-don't-have-10-pending-slots!), but reviving it requires a free pending slot.
+A beatmap is moved to the graveyard from [Work in Progress and Pending](#work-in-progress-and-pending) automatically once it hasn't been updated for 4 weeks. The author can revive the beatmap (i.e. bring back to [Pending](#work-in-progress-and-pending)) by updating it via the [beatmap submission system](/wiki/Submission). A beatmap in the graveyard doesn't count towards a mapper's [total upload limit](/wiki/Help_centre/Beatmapping#i-am-an-osu!supporter,-but-i-don't-have-10-pending-slots!), but reviving it requires a free pending slot.
 
 ### Work in Progress and Pending
 
@@ -30,7 +30,7 @@ Ranked beatmaps are endorsed as official content, in the sense that they have re
 
 *For history of the Loved category, see: [History of Loved](/wiki/Beatmap/History_of_Loved)*
 
-Loved beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are *loved* by the community and thus are regularly added based on community votes in [Project Loved](/wiki/Project_Loved). They have leaderboards, but no [performance points](/wiki/Performance_points) will be awarded and all scores will be deleted if it moves out of Loved (this usually only happens on the creator's request). Loved beatmaps use the heart icon (![](/wiki/shared/status/loved.png)) in the song selection screen.
+Loved beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are *loved* by the community and thus are regularly added based on community votes in [Project Loved](/wiki/Community/Project_Loved). They have leaderboards, but no [performance points](/wiki/Performance_points) will be awarded and all scores will be deleted if it moves out of Loved (this usually only happens on the creator's request). Loved beatmaps use the heart icon (![](/wiki/shared/status/loved.png)) in the song selection screen.
 
 ## History
 

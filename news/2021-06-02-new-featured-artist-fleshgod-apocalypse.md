@@ -74,7 +74,7 @@ Or whack your drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/98753
 
 As per usual, the rest of what you're looking for can be found on [**Fleshgod Apocalypse**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/170), primed for mapping thanks to our ultra-convenient beatmap templates. It's about time your maps reached the infamous black expert difficulty icon, right?
 
-And that's all for now! Sticking to the trend of artists who've grown in the osu! community through [Project Loved](/wiki/Project_Loved), our next artist is one you might be familiar with if you're an avid fan of unbelievable DT plays from the likes of [WhiteCat](https://osu.ppy.sh/users/4504101) and [Vaxei](https://osu.ppy.sh/users/4787150).
+And that's all for now! Sticking to the trend of artists who've grown in the osu! community through [Project Loved](/wiki/Community/Project_Loved), our next artist is one you might be familiar with if you're an avid fan of unbelievable DT plays from the likes of [WhiteCat](https://osu.ppy.sh/users/4504101) and [Vaxei](https://osu.ppy.sh/users/4787150).
 
 Stay tuned!
 

@@ -9,7 +9,7 @@ tags:
 
 ![Screenshot of the test mode](img/test-mode-example.jpg "Using test mode with the autoplay function")
 
-The **test mode** is a feature of the [beatmap editor](/wiki/Beatmap_Editor) which allows creators to play their own [beatmaps](/wiki/Beatmap) from the beatmap editor for testing purposes. The mode can be accessed via the `Test` button in the bottom-right of the editor.
+The **test mode** is a feature of the [beatmap editor](/wiki/Client/Beatmap_editor) which allows creators to play their own [beatmaps](/wiki/Beatmap) from the beatmap editor for testing purposes. The mode can be accessed via the `Test` button in the bottom-right of the editor.
 
 ![Test mode button](img/test-mode-button.png "The test mode button in the beatmap editor")
 
@@ -18,7 +18,7 @@ The **test mode** is a feature of the [beatmap editor](/wiki/Beatmap_Editor) whi
 Playing a beatmap in test mode differs from playing it normally, as it will not submit any scores, does not display any leaderboards, will not let users fail the beatmap, and will always display the following information on the left side of the screen:
 
 - The current [timestamp](/wiki/Modding/Timestamp) of the beatmap.
-- The [SB load](/wiki/Beatmap_Editor/SB_Load).
+- The [SB load](/wiki/Client/Beatmap_editor/SB_Load).
 - The total amount of 300s, 100s, 50s, and misses gained.
 - The percentage of hits that are mistimed.
 - The average delay (in milliseconds) that mistimed hits are late.

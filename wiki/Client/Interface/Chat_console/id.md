@@ -24,7 +24,7 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 
 ## Konsol Chat yang Diperluas
 
-*[osu!academy](/wiki/osu!academy) membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Multiplayer](/wiki/Multi).*
+*[osu!academy](/wiki/Community/Video_series/osu!academy) membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Multiplayer](/wiki/Gameplay/Multiplayer).*
 
 Kamu dapat menekan `F9` atau klik tombol `Online Users` di bagian bawah kanan layar untuk membuka Konsol Chat yang Diperluas. Selain konsol obrolan, juga menampilkan informasi berbagai macam pengguna yang sedang daring osu!
 
@@ -37,7 +37,7 @@ Setiap pengguna yang masuk ke dalam osu! mempunyai panel pengguna yang ditampilk
 - Klik tab untuk mengurutkan pengguna.
 - Klik **World Map** untuk melihat pengguna dari negara lain.
 - Kamu bisa mengklik atau menahan kotak putih untuk menggulir, atau dengan menggunakan roda mouse.
-- Pengguna yang tidak terlihat informasi umumnya, menandakan bahwa mereka sedang masuk menggunakan program khusus [IRC](/wiki/Internet_Relay_Chat).
+- Pengguna yang tidak terlihat informasi umumnya, menandakan bahwa mereka sedang masuk menggunakan program khusus [IRC](/wiki/Community/Internet_Relay_Chat).
 
 | Panel colour | Legend |
 | :-- | :-- |

@@ -16,8 +16,8 @@ Resmi topluluk yuvalarının güvenli kalması için, osu!, onları gece gündü
 
 Neyse ki, her şeyin güvenli kalması için yardımcı olmanız hala çok basit. İşte yardımcı olmak için yapabileceğiniz pek çok şeyden bazıları:
 
-- [osu! oyun-içi sohbetteki](/wiki/Chat_Console), ya da forumlardaki, favori kanallarınızı takip edin.
-- Eğer herhangi bir şekilde uygunsuz ya da rahatsız edici olduğunu düşündüğünüz bir şeyle karşılaşırsanız, oranın moderatörlerini bilgilendirmek için oyun-içi sohbette [`!report` komutunu](/wiki/Reporting_Bad_Behaviour) kullanın.
+- [osu! oyun-içi sohbetteki](/wiki/Client/Interface/Chat_console), ya da forumlardaki, favori kanallarınızı takip edin.
+- Eğer herhangi bir şekilde uygunsuz ya da rahatsız edici olduğunu düşündüğünüz bir şeyle karşılaşırsanız, oranın moderatörlerini bilgilendirmek için oyun-içi sohbette [`!report` komutunu](/wiki/Reporting_bad_behaviour) kullanın.
 
 ## Diğer topluluk üyelerine yardım edin
 
@@ -58,9 +58,9 @@ Aşağıda katkıda bulunabileceğiniz yollardan birkaçı mevcut:
 
 ## osu!'nun geleceğine katkıda bulunun
 
-2017 yılında başlayan osu!lazer projesi, bugün görmüş olduğunuz yeni web sayfası ile birlikte, osu! team'in mevcut odağıdır. Eğer bu projeleri daha iyi hale getirmek ve bizi osu!'nun geleceğine daha da yakınlaştırmak istiyorsanız, yapabileceğiniz bir dizi şey mevcut, ancak aşağıdakiler yalnızca birkaç örnek:
+2017 yılında başlayan osu!(lazer) projesi, bugün görmüş olduğunuz yeni web sayfası ile birlikte, osu! team'in mevcut odağıdır. Eğer bu projeleri daha iyi hale getirmek ve bizi osu!'nun geleceğine daha da yakınlaştırmak istiyorsanız, yapabileceğiniz bir dizi şey mevcut, ancak aşağıdakiler yalnızca birkaç örnek:
 
-- [osu!lazer](https://github.com/ppy/osu) projesine yardım edin. osu!'nun yeni sürümüne eklenecek daha pek çok şey bulunuyor, ve siz bunların gerçekleşmesine yardım edebilirsiniz!
+- [osu!(lazer)](https://github.com/ppy/osu) projesine yardım edin. osu!'nun yeni sürümüne eklenecek daha pek çok şey bulunuyor, ve siz bunların gerçekleşmesine yardım edebilirsiniz!
 - [Yeni web sayfasını](https://github.com/ppy/osu-web) daha da iyi hale getirin.
 
 ## Olumsuz olmaktan kaçının! İnsanları mutlu edin!
@@ -68,7 +68,7 @@ Aşağıda katkıda bulunabileceğiniz yollardan birkaçı mevcut:
 Eski bir atasözü çözümün bir parçası olun, sorunun değil, der. Sadece bu eski atasözüne uyduğunuzda, topluluğun daha aydınlık bir yer olmasını sağlayarak osu!'ya yardım etmiş olursunuz. İnsanlar hep şikayet eder, ama topluluk içerisindeki atmosferi aydınlatmanın pek çok yolu var:
 
 - Birbirinize karşı arkadaş canlısı davranın; hayat tartışmak için fazla kısa.
-- [Hilecileri gördüğünüzde rapor edin](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Basitçe `!report <kullanıcı adı> galiba hile yapıyor` yazıp göndermek saatler hatta belki dakikalar içerisinde sorunlarınızı çözeceğinden lütfen başka mecralarda onlar hakkında yakınmayın.
+- [Hilecileri gördüğünüzde rapor edin](/wiki/Reporting_bad_behaviour/Handling_foul_play). Basitçe `!report <kullanıcı adı> galiba hile yapıyor` yazıp göndermek saatler hatta belki dakikalar içerisinde sorunlarınızı çözeceğinden lütfen başka mecralarda onlar hakkında yakınmayın.
 - Olumsuz durumlarda aracılık etme zahmetine girin ve onları olumlu sonuçlara dönüştürün.
 
 **Bu makale osu! topluluğuna daha ne kadar çok yardım edebileceğinizi kapsamasa da, sadece oyunu oynamak bile osu!'yu daha da harika bir hale dönüştürebilir!**

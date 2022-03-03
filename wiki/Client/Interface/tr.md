@@ -11,7 +11,7 @@ outdated_since: 8c58252899939eadafbdbf266f62a75aeb247bff
 
 ![](img/main-menu.jpg "Ana Menü")
 
-[osu!cookie](/wiki/Glossary/Cookie) \[1\] ana menü üzerinde o anda çalan şarkının [BPM](/wiki/Beatmapping/Beats_per_minute)'ine göre titreşir. Ek olarak, şarkının ses seviyesine göre osu!cookie'nin dışına doğru çubuklar çıkar. Eğer hiç bir şarkı çalmıyorsa, 60 BPM hızında titreşir. Ana menüyü oluşturan elemanlar aşağıdaki gibidir:
+[osu!cookie](/wiki/Client/Interface/Cookie) \[1\] ana menü üzerinde o anda çalan şarkının [BPM](/wiki/Beatmapping/Beats_per_minute)'ine göre titreşir. Ek olarak, şarkının ses seviyesine göre osu!cookie'nin dışına doğru çubuklar çıkar. Eğer hiç bir şarkı çalmıyorsa, 60 BPM hızında titreşir. Ana menüyü oluşturan elemanlar aşağıdaki gibidir:
 
 - \[2\] Solo modu şarkı seçim ekranına geçmek için Play'e (`P`) veya logoya tıklayın.
 - \[3\] Düzenleyici modu şarkı seçim ekranına geçmek için Edit'e (`E`) tıklayın.
@@ -20,7 +20,7 @@ outdated_since: 8c58252899939eadafbdbf266f62a75aeb247bff
 - \[6\] Menünün alt kısmında işe yarar rastgele bir tavsiye görüntülenir.
 - \[7\] Sol-alt kısımda osu! web sayfasına bir link, aynı zamanda telif hakkı bilgisi bulunur.
 - \[8\] [Bancho](/wiki/Bancho_(server))'ya bağlantı sonucu! Bu resimde gösterilmiyor, ama bağlantı sonucu bir dizi linke benziyor.
-- \[9\] Sağ-alt kısımda genişletilmiş [sohbet penceresi](/wiki/Chat_Console) (burada "Player List" olarak geçiyor) ve sıradan sohbet penceresi (sırasıyla `F9` & `F8`) için sohbet kontrolleri bulunur.
+- \[9\] Sağ-alt kısımda genişletilmiş [sohbet penceresi](/wiki/Client/Interface/Chat_console) (burada "Player List" olarak geçiyor) ve sıradan sohbet penceresi (sırasıyla `F9` & `F8`) için sohbet kontrolleri bulunur.
 - \[10\] Sağ-üstte şarkıları rastgele sırayla çalan osu! müzik kutusu bulunur. Üst kısım şu anda çalan şarkıyı gösterir. Butonlar, soldan sağa aşağıdaki gibi çalışır:
   - Önceki Parça
   - Oynat
@@ -38,7 +38,7 @@ outdated_since: 8c58252899939eadafbdbf266f62a75aeb247bff
 Ana menünün sol üst kısmında bulunan profilinize tıklayarak bu ekranı görüntüleyin. Kullanıcı seçenek ekranını görüntülerken Sohbet Konsoluna erişemezsiniz. Seçenekler üzerinde belirtilen numaralara basarak herhangi bir ögeyi seçebilirsiniz:
 
 1. `Profili Görüntüle`: Varsayılan internet tarayıcısında profil sayfasını aç.
-2. `Çıkış Yap`: Hesaptan çıkış yap (çıkış yaptıktan sonra, [Seçenekler](/wiki/Options) yan çubuğu size giriş yapmanız için istemde bulunur).
+2. `Çıkış Yap`: Hesaptan çıkış yap (çıkış yaptıktan sonra, [Seçenekler](/wiki/Client/Options) yan çubuğu size giriş yapmanız için istemde bulunur).
 3. `Avatarı Değiştir`: Varsayılan internet tarayıcısında avatar düzenleme sayfasını aç.
 4. `Kapat`: Bu pencereyi kapat
 
@@ -47,12 +47,12 @@ Ana menünün sol üst kısmında bulunan profilinize tıklayarak bu ekranı gö
 ![](img/play-menu.jpg "Oynama Menüsü")
 
 - Yalnız oynamak için `Solo` butonuna (`P`) tıklayın.
-- Diğer insanlarla oynamak için `Multi` butonuna (`M`) tıklayın. [Çoklu](/wiki/Multi) Lobisine yönlendirileceksiniz (aşağıda).
+- Diğer insanlarla oynamak için `Multi` butonuna (`M`) tıklayın. [Çoklu](/wiki/Gameplay/Multiplayer) Lobisine yönlendirileceksiniz (aşağıda).
 - Ana menüye geri dönmek için `Back` butonuna tıklayın.
 
 ## Çoklu Lobisi
 
-*Ana sayfa: [Çoklu](/wiki/Multi)*
+*Ana sayfa: [Çoklu](/wiki/Gameplay/Multiplayer)*
 
 ![](img/multi-lobby.jpg "Çoklu Lobisi")
 
@@ -67,7 +67,7 @@ Ana menünün sol üst kısmında bulunan profilinize tıklayarak bu ekranı gö
 7. Seçtiğiniz modlar (bakınız \#12), aynı zamanda onları ayarlayabileceğiniz bir seçenek. "Free Mods" yazan seçenek oyuncuların kendi istediği modları seçip seçemeyeceğini ayarlar. Eğer seçiliyse, *Double Time gibi hız değiştiren modlar hariç* her türlü mod kombinasyonu seçilebilir. Eğer seçili değilse, oda sahibi hangi modların kullanılacağını belirler. Oda sahibi Free Mods açık olsun veya olmasın hız değiştiren modları seçebilir.
 8. Takım modu ve zafer koşulları.
 9. Hazır butonu.
-10. [Sohbet konsolu](/wiki/Chat_Console).
+10. [Sohbet konsolu](/wiki/Client/Interface/Chat_console).
 11. Çıkış butonu.
 12. Seçtiğiniz modların göründüğü yer.
 
@@ -90,7 +90,7 @@ Devam etmeden önce, bu ekranda kolayca anlaşılabilen numaralarla not edilebil
 
 ![](img/beatmap-metadata.jpg)
 
-Bu bölüm **seçilen beatmap zorluğunun bilgisini** görüntüler. Varsayılan olarak, osu! müzik kutusunda çalan müziğin beatmapi şarkı seçme ekranına girerken seçili olarak açılır. Sol üstte beatmapin derecelendirme durumu bulunur. Hemen yanında başlık bulunur. Normalde, latin alfabeye çevirilmiş başlık gösterilir, ancak eğer [Ayarlarda](/wiki/Options) `Kendi dilindeki metaveriyi tercih et` seçiliyse, Unicode başlığı görüntüler; bu ise bir üstteki resimde mevcuttur. Beatmapper da görüntülenir, ve beatmap bilgisi ise aşağıda görüntülenir. Soldan sağa, veriler aşağıdaki gibidir:
+Bu bölüm **seçilen beatmap zorluğunun bilgisini** görüntüler. Varsayılan olarak, osu! müzik kutusunda çalan müziğin beatmapi şarkı seçme ekranına girerken seçili olarak açılır. Sol üstte beatmapin derecelendirme durumu bulunur. Hemen yanında başlık bulunur. Normalde, latin alfabeye çevirilmiş başlık gösterilir, ancak eğer [Ayarlarda](/wiki/Client/Options) `Kendi dilindeki metaveriyi tercih et` seçiliyse, Unicode başlığı görüntüler; bu ise bir üstteki resimde mevcuttur. Beatmapper da görüntülenir, ve beatmap bilgisi ise aşağıda görüntülenir. Soldan sağa, veriler aşağıdaki gibidir:
 
 - **Uzunluk**: Beatmapin toplam uzunluğudur, molalar dahil baştan sona. [Akış süresi (drain time)](/wiki/Gameplay/Drain_time) ile karıştırılmamalıdır.
 - **BPM**: Beatmapin BPM'idir (dakika başı vuruş sayısı). Eğer (bir alttaki resimde olduğu gibi) biri parantez içinde iki BPM varsa, bu şarkı boyunca BPM'in değiştiğini gösterir. Bunlar en yavaş ve en hızlı BPM'leri gösterir, ve parantez içindeki değer ise beatmapin başlangıcındaki BPM'dir.
@@ -166,7 +166,7 @@ Desteklenen filtreler:
 - `status`: Derecelendirme durumu. Belirtilen değer `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, veya `loved`, ya da kısaca `r`/`a`/`p`/`n`/`u`/`l` olabilir.
 - `played`: Gün olarak en son oynanan tarihten bu yana geçen süre
 - `unplayed`: Oynanmamış mapler. Değer yok (oynanmamış mapler için `unplayed=`, oynanmış mapler için ise `unplayed!=` filtresini kullanın)
-- `speed`: Kayıtlı osu!mania kayma hızı. Oynanmamış maplerde veya [osu!mania hızını her beatmap için hatırla](/wiki/Options#gameplay) opsiyonu kapalı olduğunda her zaman 0'dır
+- `speed`: Kayıtlı osu!mania kayma hızı. Oynanmamış maplerde veya [osu!mania hızını her beatmap için hatırla](/wiki/Client/Options#gameplay) opsiyonu kapalı olduğunda her zaman 0'dır
 
 Desteklenen karşılaştırmalar:
 
@@ -268,7 +268,7 @@ Oyunun **tüm maplerinizi kaydırarak rastgele bir tanesini seçmesi** için `Ra
 
 **Kullanıcı Seçenekleri Menüsüne** erişmek için **kendi kullanıcı panelinize** tıklayın.
 
-**Seçilen beatmapi oynamaya başlamak için [osu!cookie](/wiki/Glossary/Cookie)** üzerine tıklayın. 
+**Seçilen beatmapi oynamaya başlamak için [osu!cookie](/wiki/Client/Interface/Cookie)** üzerine tıklayın. 
 
 ## Sıralama Ekranı
 

@@ -6,7 +6,7 @@ outdated: true
 
 El Divisor de ritmo se usa para limitar dónde se pueden colocar notas para que siempre caigan al ritmo. Mover el control deslizante hacia la derecha aumenta la granularidad de las notas, es decir, se pueden colocar más notas en la misma medida.
 
-Cada una de las configuraciones pone marcas de diferentes colores en las [Lineas de Tiempo](/wiki/Beatmap_Editor/Timelines). Las marcas son los siguientes (para [estandar](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), y [osu!catch](/wiki/Game_mode/osu!catch)):
+Cada una de las configuraciones pone marcas de diferentes colores en las [Lineas de Tiempo](/wiki/Client/Beatmap_editor/Timelines). Las marcas son los siguientes (para [estandar](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), y [osu!catch](/wiki/Game_mode/osu!catch)):
 
 ## osu!, osu!taiko, osu!catch
 
@@ -58,7 +58,7 @@ Cada una de las configuraciones pone marcas de diferentes colores en las [Lineas
 
 El 1/3 y 1/6 son especiales porque significa que el BPM es divisible por tres, pero esto es *raro*.
 
-Al mantener presionado el botón "Alt" sobre el control deslizante, se cambiara por el de [distancia entre notas](/wiki/Beatmap_Editor/Distance_Snap).
+Al mantener presionado el botón "Alt" sobre el control deslizante, se cambiara por el de [distancia entre notas](/wiki/Client/Beatmap_editor/Distance_snap).
 
 ## osu!mania
 

@@ -13,13 +13,13 @@ outdated: true
 Das \[1\] osu! Logo pulsiert nach dem [BPM](/wiki/Beatmapping/Beats_per_minute) des Liedes, das gerade im Hauptmenü spielt. Wenn kein Lied abgespielt wird, pulsiert es in einer langsamen Rate. Die Tastenkombination steht in der Klammer
 
 - \[2\] Klicke auf Play (P) oder auf dem Logo, um zum 2. Einführungsbildschirm zu gelangen.
-- \[3\] Klicke auf Edit (E), um zur Songauswahl für den [Editor](/wiki/Beatmap_Editor) zu kommen.
+- \[3\] Klicke auf Edit (E), um zur Songauswahl für den [Editor](/wiki/Client/Beatmap_editor) zu kommen.
 - \[4\] Klicke auf Options (O), um zu den Einstellungen zu gelangen.
 - \[5\] Klicke auf Exit (Esc), um osu! zu beenden.
 - \[6\] Ein zufälliger, nützlicher Tipp wird unterhalb des Menüs angezeigt.
 - \[7\] In der unteren linken Ecke ist ein Link zur osu! Webseite.
 - \[8\] Verbindungsergebnisse zum Bancho !
-- \[9\] In der unteren rechten Ecke sind die Steuerelemente für den [Chat](/wiki/Internet_Relay_Chat) (F8&F9).
+- \[9\] In der unteren rechten Ecke sind die Steuerelemente für den [Chat](/wiki/Community/Internet_Relay_Chat) (F8&F9).
 - \[10\] Oben rechts ist die osu! Jukebox, welches Lieder in zufälliger Reihenfolge abspielt.
 - \[11\] Oben mittig wird angezeigt, wie viele Maps man hat, wie lange osu! Schon läuft und die Uhrzeit.
 - \[12\] Oben links ist dein User-Panel, klick darauf, um dir die Benutzereinstellungen anzeigen zu lassen.
@@ -45,7 +45,7 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 
 ### Multiplayer-Lobby
 
-*Vollständige Erklärung: [Multiplayer](/wiki/Multi)*
+*Vollständige Erklärung: [Multiplayer](/wiki/Gameplay/Multiplayer)*
 
 ![](img/multi-lobby.jpg)
 
@@ -63,7 +63,7 @@ Da auf diesem Bildschirm zu viele Elemente sind und es sonst zu unübersichtlich
 
 ![](img/metadata-comparison.jpg)
 
-Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche im osu! Jukebox abgespielt wurde. Die BPM-Anzeige zeigt den größten und niedrigsten Wert der Beatmap an. "Objekte" gibt die vollständige Anzahl von [Hit Objekten](/wiki/Hit_object) in den Beatmap wieder. Ein ![](/wiki/shared/icon/heart.gif)Herz Symbol an der oberen linken Ecke kennzeichnet die Beatmap als Ranked, während ein ![](/wiki/shared/icon/flame.gif)Flamen Symbol die Beatmap als Approved kennzeichnet. Der Unicode-Titel wird benutzt, wenn in den Einstellungen die Option ["Metadaten in Originalsprache anzeigen"](/wiki/Options) aktiviert ist und wenn auch Unicodes im Titel/Artist der Beatmap vorhanden sind.
+Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche im osu! Jukebox abgespielt wurde. Die BPM-Anzeige zeigt den größten und niedrigsten Wert der Beatmap an. "Objekte" gibt die vollständige Anzahl von [Hit Objekten](/wiki/Hit_object) in den Beatmap wieder. Ein ![](/wiki/shared/icon/heart.gif)Herz Symbol an der oberen linken Ecke kennzeichnet die Beatmap als Ranked, während ein ![](/wiki/shared/icon/flame.gif)Flamen Symbol die Beatmap als Approved kennzeichnet. Der Unicode-Titel wird benutzt, wenn in den Einstellungen die Option ["Metadaten in Originalsprache anzeigen"](/wiki/Client/Options) aktiviert ist und wenn auch Unicodes im Titel/Artist der Beatmap vorhanden sind.
 
 - Style: {Quelle} ({Artist}) - {Titel} \[{Schwierigkeitsstufe}\]
 
@@ -90,7 +90,7 @@ Klick auf eines der Tabs, **um deine Songliste nach gewissen Kriterien zu sortie
 
 ![](img/search-bar.jpg)
 
-Tippen sie an einer beliebigen Stelle in der Songauswahl etwas ein und das Eingegebene wird an dieser Stelle erscheinen (die [Chat Konsole](/wiki/Chat_Console) muss geschlossen sein, ansonsten wird die Eingabe als Chattext erfasst). Zur selben Zeit werden nur die **Beatmaps gelistet, dessen Informationen** (Songkünstler, Songname, Mapper, Namen der Schwierigkeitsstufen, Tags) **mit dem Eingegebenen übereinstimmen.**
+Tippen sie an einer beliebigen Stelle in der Songauswahl etwas ein und das Eingegebene wird an dieser Stelle erscheinen (die [Chat Konsole](/wiki/Client/Interface/Chat_console) muss geschlossen sein, ansonsten wird die Eingabe als Chattext erfasst). Zur selben Zeit werden nur die **Beatmaps gelistet, dessen Informationen** (Songkünstler, Songname, Mapper, Namen der Schwierigkeitsstufen, Tags) **mit dem Eingegebenen übereinstimmen.**
 
 ---
 

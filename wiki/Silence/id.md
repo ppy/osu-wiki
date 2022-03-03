@@ -10,13 +10,13 @@
 
 Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan hal-hal berikut:
 
-- Menggunakan fitur [*chat*](/wiki/Chat_Console) (publik dan privat) baik di dalam permainan maupun pada situs web osu!
+- Menggunakan fitur [*chat*](/wiki/Client/Interface/Chat_console) (publik dan privat) baik di dalam permainan maupun pada situs web osu!
 - Membuat post pada forum osu!
 - Berkomentar pada situs web osu! (baik itu pada laman berita, riwayat perubahan, maupun info beatmap)
-- Berpartisipasi dalam [laman diskusi beatmap](/wiki/Beatmap_Discussion)
+- Berpartisipasi dalam [laman diskusi beatmap](/wiki/Beatmap_discussion)
 - Menyunting rincian profilnya masing-masing (semisal mengganti avatar atau mengubah isi bagian "me!")
 - Mengunggah beatmap baru atau memperbarui beatmap-beatmap yang sudah ada
-- Berpartisipasi dalam [pertandingan multiplayer](/wiki/Multi)
+- Berpartisipasi dalam [pertandingan multiplayer](/wiki/Gameplay/Multiplayer)
 
 Di samping itu, seluruh pesan yang sebelumnya telah dikirim oleh pengguna yang bersangkutan akan ikut terhapus dari seluruh kanal *chat* dan *private message* yang aktif [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
 
@@ -39,4 +39,4 @@ Berikut merupakan tindakan-tindakan yang dapat menyebabkan seseorang terkena *si
 - Berperilaku tidak sepantasnya dalam kanal *chat* atau ruang-ruang publik lainnya (semisal `#multiplayer` atau laman diskusi beatmap, komentar, dan lain-lain), yang meliputi — namun tidak terbatas pada — mengirimkan spam, berceloteh yang tidak sewajarnya, berperilaku rasis, dan lain sebagainya
 - Mengunggah atau memposting konten-konten yang tidak sepantasnya (baik itu dalam bentuk avatar, beatmap, rincian profil, biodata, banner, ataupun yang lainnya)
 
-Durasi *silence* yang dijatuhkan akan bervariasi tergantung pada seberapa berat pelanggaran yang dilakukan. *Silence* dapat bertumpuk satu sama lain, yang akan memperpanjang durasi *silence* seiring dengan semakin banyaknya pelanggaran yang diperbuat. Sebagai catatan, apabila seorang pengguna telah melakukan pelanggaran yang sangat berat, atau apabila pengguna tersebut telah berulang kali melanggar peraturan tanpa merasa jera sedikit pun, maka pengguna tersebut dapat langsung di-[*restrict*](/wiki/Help_Centre/Account_Restrictions) oleh tim kami tanpa harus di-*silence* terlebih dahulu.
+Durasi *silence* yang dijatuhkan akan bervariasi tergantung pada seberapa berat pelanggaran yang dilakukan. *Silence* dapat bertumpuk satu sama lain, yang akan memperpanjang durasi *silence* seiring dengan semakin banyaknya pelanggaran yang diperbuat. Sebagai catatan, apabila seorang pengguna telah melakukan pelanggaran yang sangat berat, atau apabila pengguna tersebut telah berulang kali melanggar peraturan tanpa merasa jera sedikit pun, maka pengguna tersebut dapat langsung di-[*restrict*](/wiki/Help_centre/Account_restrictions) oleh tim kami tanpa harus di-*silence* terlebih dahulu.

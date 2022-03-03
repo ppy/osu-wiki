@@ -29,7 +29,7 @@ tags:
 
 Le mod **No Video** était un [modificateur de jeu](/wiki/Game_modifier) qui permettait aux joueurs de désactiver la vidéo de fond d'une [beatmap](/wiki/Beatmap). Cela permettait d'améliorer le framerate et les performances du jeu.
 
-La fonctionnalité du mod a été remplacée par une option dans les [paramètres visuels](/wiki/Visual_Settings), et donc l'icône et son mod ne sont plus utilisés.
+La fonctionnalité du mod a été remplacée par une option dans les [paramètres visuels](/wiki/Client/Interface/Visual_settings), et donc l'icône et son mod ne sont plus utilisés.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

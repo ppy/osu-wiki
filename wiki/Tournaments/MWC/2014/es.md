@@ -253,7 +253,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 4. Si no hay ningún staff o árbitro disponible, la partida será pospuesta.
 5. Un puntaje *failed* de un jugador no será añadido al puntaje grupal.
    - Revivir y sobrevivir durante un map es considerado como pasarlo.
-6. Está permitido usar las opciones de [Configuración Visual](/wiki/Visual_Settings).
+6. Está permitido usar las opciones de [Configuración Visual](/wiki/Client/Interface/Visual_settings).
 7. Si la partida termina en un empate, la partida será anulada.
 8. Si un jugador se desconecta, será tratado como si hubieran fallado el beatmap.
 9. Los beatmaps no pueden ser reutilizados en una misma partida a menos que la partida haya sido anulada.

@@ -307,7 +307,7 @@ Sunday, 29 November 2020:
 
 ### General rules
 
-1. Map scoring is based on **[ScoreV2](/wiki/Score#scorev2).**
+1. Map scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the Tournament Management. If there are any team(s) who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.

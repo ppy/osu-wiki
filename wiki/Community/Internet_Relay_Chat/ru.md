@@ -80,4 +80,4 @@
 
 ### Человек пишет в чат, но я не вижу его ник в списке пользователей на канале
 
-Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!lazer](https://github.com/ppy/osu).
+Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!(lazer)](https://github.com/ppy/osu).

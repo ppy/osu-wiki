@@ -24,7 +24,7 @@ Vous pouvez afficher la console de chat sur la plupart des écrans d'osu! en app
 
 ## La console de chat étendue
 
-*L'[osu!academy](/wiki/osu!academy) à déjà abordé ce sujet ici : [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) (en anglais)*
+*L'[osu!academy](/wiki/Community/Video_series/osu!academy) à déjà abordé ce sujet ici : [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) (en anglais)*
 
 Sur la plupart des écrans du jeu vous pouvez cliquer sur `F9` ou sur `Online Users` pour afficher la console de chat étendue. en plus de la console de chat, le chat étendue affiche les utilisateurs connectés.
 

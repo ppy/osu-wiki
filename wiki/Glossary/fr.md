@@ -2,24 +2,13 @@
 
 Page d'index pour tous les articles concernant les termes spécifiques à osu!
 
-- [Objet actif](Active_object)
 - [Changelog](Changelog)
-- [Choke](Choke)
 - [Couleur de combo](Combo_colour)
-- [Combo fire](Combo_fire)
-- [Combo milestone](Combo_milestone)
-- [Combo multiplier effect](Combo_multiplier_effect)
-- [Combobreak](Combobreak)
-- [Comboburst](Comboburst)
-- [Dash](Dash)
-- [Edge dash](Edge_dash)
-- [Hyperdash](Hyperdash)
 - [Lead-in](Lead-in)
 - [Local song offset](Local_song_offset)
-- [Snapping](Snapping)
+- [Objet actif](Active_object)
 - [Touhosu!](Touhosu!)
 - [Trigger distance](Trigger_distance)
-- [Walk](Walk)
 
 ## Le saviez-vous ?
 

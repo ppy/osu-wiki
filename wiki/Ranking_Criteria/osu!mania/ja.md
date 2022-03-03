@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 17ba49c633b089fe88acb7d5d32ac0460e5d65fe
+---
+
 # osu!maniaのランキング基準
 
 **osu!maniaのランキング基準**は、osu!mania固有の難易度を作成する際に適用されるルールとガイドラインです。osu!mania固有の難易度をrankedにするには、一定の基準に従うことが必要です。どのような状況であっても**全てのルールに従う必要があります**が、例外的な状況ではガイドラインを無視することができます。例外的な状況とは、なぜガイドラインを無視したのかと、全体的な品質に支障をきたすのかを、徹底的に説明して正当化することです。
@@ -8,7 +13,7 @@
 
 ### 難易度名
 
-*メイン記事: [難易度のネーミング](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*メイン記事: [難易度のネーミング](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
