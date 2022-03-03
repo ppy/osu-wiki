@@ -1,20 +1,20 @@
 # Off-Topic
 
-[**Off-Topic**](https://osu.ppy.sh/community/forums/52) (abrégé par ***OT***) est un forum qui a pour but de à permettre à la communauté d'avoir des conversations sans sujet particulier. Les fils de discussion peuvent souvent être aléatoires, changer de sujet, et/ou avoir plusieurs sujets simultanément. Les sujets peuvent aller de la vie quotidienne aux opinions sur le jeu, en passant par le jeu de rôle, les blagues et le méta-contenu, les bêtises, ou tout ce qui se trouve entre les deux.
+[**Off-Topic**](https://osu.ppy.sh/community/forums/52) (abrégé par ***OT***) est un forum qui a pour but de permettre à la communauté d'avoir des conversations sans sujet particulier. Les fils de discussion peuvent souvent être aléatoires, changer de sujet, et/ou avoir plusieurs sujets simultanément. Les sujets peuvent aller de la vie quotidienne aux opinions sur le jeu, en passant par le jeu de rôle, les blagues et le méta-contenu, les bêtises, ou tout ce qui se trouve entre les deux.
 
 ## Histoire
 
-Le forum de [General Discussions](https://osu.ppy.sh/community/forums/7) *(discussions générales)* à initialement servi aux gens pour pouvoir discuter de n'importe quelle sujet. Étant donné que les forums de jeux ont commencé à polluer le sous-forum, les personnes ont suggérés faire un sous-forum spécifique pour ces "fils auto-entretenus" [[1]][r]. Le 19 Février 2009, [peppy](/wiki/People/peppy) crée ce sous-forum suggéré : *Forum Games/Random* [[2]][r] [[3]][r].
+Le sous-forum [General Discussions](https://osu.ppy.sh/community/forums/7) *(discussions générales)* servait initialement à discuter de tout sujet n'ayant pas de rapport avec le gameplay. Étant donné que les forums de jeux ont commencé à polluer le sous-forum, la communauté a suggéré de créer un sous-forum spécifique pour ces "fils auto-entretenus" [[1]][r]. Le 19 février 2009, [peppy](/wiki/People/peppy) crée ce sous-forum : *Forum Games/Random* [[2]][r] [[3]][r].
 
-Le nouveau sous-forum a créé une distinction qui fait que *General Discussion* était utilisé pour les discussions sérieuses, pendant que *Forum Games/Random* était utilisé pour les discussions non-sérieuses. Etant donné la nature de *Forum Games/Random*, les personnes interrompait parfois les sous-forum de jeux avec des conversations aléatoires. [[4]][r]. Le 2 Février 2010, *Forum Games/Random* a été renommé *Off-Topic* et le sous-forum *Forum Games* a été créé [[5]][r].
+Le nouveau sous-forum a créé une distinction qui fait que *General Discussion* était utilisé pour les discussions sérieuses, tandis que *Forum Games/Random* était utilisé pour les discussions non-sérieuses. Étant donné la nature de *Forum Games/Random*, les utilisateurs interrompaient parfois les jeux en discutant de façon aléatoire. [[4]][r]. Le 2 février 2010, *Forum Games/Random* a été renommé *Off-Topic* et le sous-forum *Forum Games* a été créé [[5]][r].
 
-Deux sous-forums en plus seront créés plus tard: *Mafia* le 14 Septembre 2011 (pour les jeux comme Mafia ou Loup-Garou) et *Surveys* le 5 Mars 2014 (pour les sondages).
+Deux sous-forums en plus seront créés plus tard : *Mafia* le 14 septembre 2011 et *Surveys* le 5 mars 2014.
 
 ## Traditions et culture
 
 ### Valhalla
 
-Étant donnée la nature de OT, la majorité des fils et discussions étaient de très pauvre qualité. Les fils étaient rarement considérés bons, mais quand ces fils atteignaient ce niveau de qualité, les utilisateurs disaient qu'ils avaient atteint le Valhalla.
+Étant donné la nature de OT, la majorité des fils et discussions étaient de très pauvre qualité. Les fils étaient rarement considérés bons, mais quand ces fils atteignaient ce niveau de qualité, les utilisateurs disaient qu'ils avaient atteint le Valhalla.
 
 Le terme a été utilisé pour la première fois par [Ephemeral](https://osu.ppy.sh/users/102335) dans le fil [ITT: We're Dirty](https://osu.ppy.sh/community/forums/topics/40298), et plusieurs fois par la suite. Depuis, les autres personnes du sous-forum ont adopté ce terme.
 
@@ -68,18 +68,18 @@ Ce fil est une blague qui a été développé dans le lore d'OT. C'est un bon ex
 
 ### Testing
 
-C'est l'un des fils de role-playing résultant du lore d'OT, qui a crée un  improvisé récit intéressant impliquant un méga-télétubbie divin qui fait des ravages dans OT et que les *denizens* essaient de vaincre.
+C'est l'un des fils de role-playing résultant du lore d'OT, qui a créé un intéressant récit improvisé impliquant un méga-télétubby divin qui fait des ravages dans OT et que les *denizens* essaient de vaincre.
 
 <https://osu.ppy.sh/community/forums/posts/7549082>
 
 ## References
 
 1. [Discussion à propos de la création d'un sous-forum pour les jeux de forum](https://osu.ppy.sh/community/forums/posts/80316)
-2. [L'annoncement de peppy du nouveau sous-forum](https://osu.ppy.sh/community/forums/posts/8814)
+2. [L'annonce de peppy du nouveau sous-forum](https://osu.ppy.sh/community/forums/posts/8814)
 3. [Mention de l'ancien nom du sous-forum Off-Topic](https://osu.ppy.sh/community/forums/posts/132900)
 4. [Mention de comment les jeux de forums ont été trollés](https://osu.ppy.sh/community/forums/posts/313614)
-5. [Réactions de personnes du changement du sous-forum Of-Topic](https://osu.ppy.sh/community/forums/posts/316732)
+5. [Réactions d'utilisateurs au changement du sous-forum Off-Topic](https://osu.ppy.sh/community/forums/posts/316732)
 6. [Les recherches d'abraker à propos de la tradition des filles d'animés qui dansent sur les fils d'anniversaires](https://osu.ppy.sh/community/forums/topics/1525770)
-7. [Archive du 17 août 2017 des règles officiels d'osu!](http://web.archive.org/web/20170817161329/http://osu.ppy.sh/help/wiki/Rules)
+7. [Archive du 17 août 2017 des règles officielles d'osu!](http://web.archive.org/web/20170817161329/http://osu.ppy.sh/help/wiki/Rules)
 
 [r]: #references
