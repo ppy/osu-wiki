@@ -33,7 +33,6 @@ Liens :
 
 ## Avril
 
-
 Le Monthly Beatmapping Contest \#13 a conclu avec [RyoKazuka](https://osu.ppy.sh/users/6258586) à la première place. Aspire 2017 : Stage One s'est conclu par la première place de [ProfessionalBox](https://osu.ppy.sh/users/3250792). Les votes pour le concours de fanart printanier ont ouvert. Le 100ème(?) numéro du osu!weekly est sorti. La osu!taiko World Cup 2017 s'est conclue par la victoire du Japon sur la Taïwan. Avant que le mois d'avril se termine, le concours de fanart printanier ont permis à [Evaine](https://osu.ppy.sh/users/7295733) de prendre la première place.
 
 Liens :
