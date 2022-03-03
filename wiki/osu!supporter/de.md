@@ -16,7 +16,7 @@ Um osu!supporter zu erhalten, melde dich an (oder [registriere dich](/wiki/Regis
 
 ### Auswählen der Dauer
 
-!{Kauf von osu!supporter](img/selecting-duration.jpg?1 "Auswahl des Benutzers und der Dauer für osu!supporter")
+![Kauf von osu!supporter](img/selecting-duration.jpg?1 "Auswahl des Benutzers und der Dauer für osu!supporter")
 
 Die Benutzerkarte, die über dem Schieberegler angezeigt wird, ist der Benutzer, für den du osu!supporter kaufst. In der Standardeinstellung sollte es deine Benutzerkarte sein. Um einem Freund ein Geschenk zu machen, gib den Benutzernamen deines Freundes (nicht die Benutzer-ID) in das graue Feld unter der Benutzerkarte ein. Sobald dies geschehen ist, wird die Benutzerkarte auf den von dir eingegebenen Benutzernamen geändert. Von hier aus kannst du dann die Dauer von osu!supporter auswählen, die du verschenken möchtest, aber beachte, dass es keine Aktion für Gruppengeschenke gibt.
 
@@ -50,6 +50,6 @@ Das osu!supporter Abzeichen ändert sich, je nachdem, wie lange du das Spiel unt
 
 ![osu!supporter-Tag mit drei Monaten Restlaufzeit](img/status.jpg?1 "Drei Monate Restlaufzeit des osu!supporter-Tags")
 
-*Tipp: Dieser Abschnitt wird nur angezeigt, nachdem du osu!supporter erhalten hast.
+*Tipp: Dieser Abschnitt wird nur angezeigt, nachdem du osu!supporter erhalten hast.*
 
 Um den Status deines verbleibenden osu!supporter-Tags und die Gesamtsumme der Beiträge und Tag-Käufe zu überprüfen, gehe auf die Seite [Das Spiel unterstützen](https://osu.ppy.sh/home/support) und scrolle nach unten, um einen ähnlichen Bereich wie oben abgebildet zu sehen.
