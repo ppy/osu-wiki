@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: d633a607717a959ee2c6371c9afdd52f951c8667
+---
+
 # osu!taiko ranking criteria
 
 **osu!taiko Ranking Criteria**는 osu!taiko 난이도를 만드는 데 적용되는 규칙과 가이드라인입니다. osu!taiko 난이도를 랭크시키기 위해서 나열된 정해진 기준에 따라야 합니다. **어떤 상황이더라도 규칙을 따라야 하지만**,  예외적인 상황에서 가이드라인을 배제할 수 있습니다. 이러한 상황에서는 왜 가이드라인을 배제하였는지, 왜 배제하지 않으면 맵의 전반적인 퀄리티가 떨어지는지에 대한 자세한 설명이 뒷받침되어야 합니다.
