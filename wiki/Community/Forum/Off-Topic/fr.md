@@ -46,7 +46,7 @@ Le **déraillement de fil** est une occurrence commune dans le sous-forum Off-To
 
 ## Fils notables
 
-Bien que la majorité des fils dans OT sont des bêtises ou d'autres contenus sans importance, il y a quelques fils notables que les personnes non familiers avec le sous-forum pourraient trouver intéressant.
+Bien que la majorité des fils dans OT sont des bêtises ou d'autres contenus sans importance, il y a quelques fils notables que les utilisateurs non familiers avec le sous-forum pourraient trouver intéressant.
 
 ### La série OT!News
 
