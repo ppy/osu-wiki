@@ -2,6 +2,10 @@
 tags:
   - CHM
   - CHM1
+  - CHM 1
+  - CH:M
+  - CH:M1
+  - CH:M 1
 ---
 
 # Coffee Hispanic: Mocha
@@ -34,11 +38,11 @@ The **Coffee Hispanic: Mocha** (***CH:M***) was a double-elimination 1v1 osu! to
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Physical trophy, exclusive custom-made keypad (courtesy of [LotusPro](https://twitter.com/Lotusmech)), commemorative banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Physical trophy, exclusive custom-made keypad (courtesy of [LotusPro](https://twitter.com/Lotusmech)), commemorative banner |
 
-![](img/badge.png "CH:M winner badge")
+![](img/badge.png "Coffee Hispanic: Mocha winner badge")
 
 ## Organisation
 
-Coffee Hispanic: Mocha was run by various osu! community members, in which many of whom were Spanish speakers or hailing from Spanish-speaking countries.
+Coffee Hispanic: Mocha was run by various osu! community members, many of whom are Spanish speakers or hailing from Spanish-speaking countries.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -58,13 +62,13 @@ Coffee Hispanic: Mocha was run by various osu! community members, in which many 
 - [Discord server](https://discord.com/invite/baVKCzU)
 - [Challonge brackets](https://challonge.com/CofeeHispanicMocha)
 - [Livestream channel](https://www.twitch.tv/coffeehispanic)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/39) (organized by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761))
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/39) (organised by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761))
 
 ## Participants
 
 Listed below are the players who managed to qualify into their respective division's Swiss round (along with their seed number and average map rank combined from each individual Qualifier beatmaps) out of 318 registered players in total.
 
-- *Latinoamerica Norte division:*
+### Latinoamerica Norte division
 
 | Seed No. | Player | Avg. Map Rank |
 | :-: | :-- | :-- |
@@ -93,7 +97,7 @@ Listed below are the players who managed to qualify into their respective divisi
 | 23 | ![][flag_CO] [ElMick13](https://osu.ppy.sh/users/3562488) | 26.1 |
 | 24 | ![][flag_PE] [Trint](https://osu.ppy.sh/users/10670748) | 26.2 |
 
-- *Latinoamerica Sur division:*
+### Latinoamerica Sur division
 
 | Seed No. | Player | Avg. Map Rank |
 | :-: | :-- | :-- |
@@ -122,7 +126,7 @@ Listed below are the players who managed to qualify into their respective divisi
 | 23 | ![][flag_CL] [mocaccino](https://osu.ppy.sh/users/5252968) | 24.4 |
 | 24 | ![][flag_AR] [Kaoshii](https://osu.ppy.sh/users/7807935) | 24.6 |
 
-- *España division:*
+### España division
 
 | Seed No. | Player | Avg. Map Rank |
 | :-: | :-- | :-- |
@@ -701,15 +705,15 @@ Monday, 23 August 2021:
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The mappools for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule in the `#scheduling` channel of the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are fairly awarded towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap. 
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
 9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
-   - In case the disconnected player fails to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to win the match by default.
+   - In case the disconnected player fails to report back after the maximum allowance of 15 minutes pass, the opposing player may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
 11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
@@ -742,36 +746,36 @@ Monday, 23 August 2021:
 2. In the lobby, all players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on their average rank combined from each individual Qualifier beatmaps.
+5. Based on their performance in the Qualifiers, players will be ranked based on their average rank combined from each individual Qualifier beatmaps.
    - 24 players from the Latinoamerica Norte division, 24 players from the Latinoamerica Sur division, and 12 players from the España division with **the highest average rank combined from each individual Qualifier beatmaps in each division** will advance to their respective division's Swiss round.
-   - If there are two (or more) players who share the same average rank, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
-6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+   - If there are two (or more) players who share the same average rank, the player holding the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
+6. Failure to attend in any of the predetermined Qualifier lobbies will result in instant elimination from the tournament.
 
 #### Swiss round rules
 
 1. All players will be matched against five other players in their respective division over the course of three weeks based on their Qualifier seed.
-2. **There are no Tiebreakers in the Swiss round.**
-   - All matches in the Swiss round are going to be played until either player obtains 5 points *or* the score gets to 4-4 (in which the match will then be considered as a *draw*).
+2. **There are no tiebreakers in the Swiss round.**
+   - All matches in the Swiss round are going to be played until either player obtains 5 points *or* the score gets to 4-4 (at which point the match will then be considered as a *draw*).
 3. Based on their performance in the Swiss round, players will be ordered based on the following criteria:
    - Number of wins.
    - Number of draws.
    - Head-to-head record against other players.
-   - Whether there are players who are disqualified from the tournament.
+   - Players who are disqualified from the tournament will not advance to the next round.
 4. The top 7 players in the Latinoamerica Norte division, top 7 players in the Latinoamerica Sur division, and top 2 players in the España division at the end of the Swiss round will advance to the Round of 16.
 
 #### Knock-out stage rules
 
 1. All players will be matched against each other based on their finishing position in the Swiss round.
-2. Players will compete against each other using the modified Double Elimination system.
-3. The modified Double Elimination System works as follows:
+2. Players will compete against each other using the double elimination system.
+3. The double elimination System works as follows:
    - Players who lose in the upper bracket can still play again on the lower bracket.
    - Players who lose in the lower bracket will be eliminated from the tournament.
 4. **There will be no bracket reset in the Grand Final.** Instead of a traditional bracket reset system, the Grand Final will instead be played across three sets of matches in which each player needs to win at least 2 out of the 3 contested sets in order to clinch the championship title.
 5. Players who can compete in the next round are determined by the following criteria:
    - In the Round of 16 and the Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
    - In the Semifinals onwards, each player needs to win 7 points in order to to win a match. (Best-of-13) 
-   - Players who win By default.
-   - If there are players who are disqualified from the tournament.
+   - Players who win by default will advance to the next round.
+   - Players who are disqualified from the tournament will not advance to the next round.
 
 ### Match regulations
 
@@ -780,7 +784,7 @@ Monday, 23 August 2021:
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
 2. Each player has to ban **one beatmap** (in the Swiss round) or **two beatmaps** (in the knock-out stage) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
-   - Each player may not ban two beatmaps from the same mod pool, except from the NoMod pool. For example, banning NM1 and NM2 is allowed; banning NM1 and HD1 is allowed; banning HD1 and HD2, however, is *not* allowed.
+   - Each player may not ban two beatmaps from the same mod pool, except from the NoMod pool. For example, banning NM1 and NM2 is allowed, banning NM1 and HD1 is allowed, but banning HD1 and HD2 is *not* allowed.
    - Banning does not apply in the Qualifier lobbies.
 3. Each player is free to select one warm-up beatmap. Picking beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier lobbies.
