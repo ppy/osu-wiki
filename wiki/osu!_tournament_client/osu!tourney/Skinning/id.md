@@ -1,6 +1,6 @@
 # Skinning
 
-_Halaman utama: [osu!tourney](/wiki/osu!tourney)_
+*Halaman utama: [osu!tourney](/wiki/osu!tourney)*
 
 ![Klien dapat dimodifikasi dengan berbagai cara](img/Osutourneycustom.png)
 

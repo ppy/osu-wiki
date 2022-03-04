@@ -33,7 +33,7 @@ Pertemuan komunitas osu! pertama diadakan pada 19 September 2021. Semua pertemua
 
 | Pertemuan ke # | Tautan | Ringkasan | Topik diskusi |
 | :-: | :-- | :-- | :-- |
-| 0 | [19 September 2021](https://youtu.be/-LjNll8VYTM) | [Notulen pertemuan](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Pengenalan awal, kondisi ranking criteria, hubungan antara tingkat kesulitan dan *performance point*, serta berbagai hal yang menyangkut osu!lazer secara umum |
+| 0 | [19 September 2021](https://youtu.be/-LjNll8VYTM) | [Notulen pertemuan](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Pengenalan awal, kondisi ranking criteria, hubungan antara tingkat kesulitan dan *performance point*, serta berbagai hal yang menyangkut osu!(lazer) secara umum |
 | 1 | [3 Oktober 2021](https://youtu.be/D3OZCm6szVE) | [Notulen pertemuan](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Berbagai pertanyaan dari para anggota komunitas serta berita-berita terkini seputar pengembangan osu! |
 | 2 | [17 Oktober 2021](https://youtu.be/nLT-fLeogrw) | [Notulen pertemuan](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Berbagai pertanyaan dari para anggota komunitas |
 | 3 | [31 Oktober 2021](https://youtu.be/omvZbC7zJUI) | [Notulen pertemuan](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Berbagai pertanyaan dari para anggota komunitas |

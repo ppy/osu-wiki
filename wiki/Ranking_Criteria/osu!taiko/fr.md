@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: d633a607717a959ee2c6371c9afdd52f951c8667
+---
+
 # Critères de classement d'osu!taiko
 
 Les **critères de classement d'osu!taiko** sont des règles et des directives qui s'appliquent à la création de difficultés spécifiques à osu!taiko. Pour qu'une difficulté spécifique à osu!taiko soit classée, il est obligatoire que la création obéisse aux critères énumérés. Bien que **toutes les règles doivent être suivies en toute circonstance**, les directives peuvent être ignorées dans des circonstances exceptionnelles. Ces circonstances exceptionnelles doivent être justifiées par une explication exhaustive de la raison pour laquelle la directive a été ignorée et pourquoi le fait de ne pas l'ignorer nuira à la qualité globale de la création.

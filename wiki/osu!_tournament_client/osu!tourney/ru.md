@@ -1,6 +1,8 @@
 ---
-no_native_review: true
+outdated: true
+outdated_since: 6cadc8a931108f84fc5d1d515a0a28d08a3ae018
 needs_cleanup: true  # нужно исправить несколько странных фраз
+no_native_review: true
 ---
 
 # osu!tourney
