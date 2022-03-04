@@ -49,6 +49,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1519196)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/TWC_2022)
 
 ## Participants
 
@@ -208,13 +209,16 @@ The osu!taiko World Cup 2022 is run by various community members.
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
-2. All double elimination stages will be held on either a Saturday or Sunday, UTC.
-3. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-   - In the Quarterfinals stage and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, but no promises can be made.
-4. **Reschedules will only be considered if both teams agree to a time, which needs to be done and notified to the tournament staff before Wednesday 23:59 UTC in that particular week when your match takes place.**
-5. **Reschedules may only be requested by a team captain.**
-   - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff has the right to decline the request.**
-6. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for every match (two active players plus one backup). If teams cannot provide the required amount of players, the match will be considered forfeited.
+2. Matches in Qualifiers will be held during specific time slots proposed by the tournament staff. Each team is free to choose a time slot in which they want to play.
+   - **A team that doesn't pick a time slot by Thursday, March 10 23:59 UTC will be considered disqualified.**
+3. All Bracket Stages will be held between Saturday 0:00 and Sunday 23:59 UTC+0.
+4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage. Tournament Management will try to create the schedule to respect the participants' time zones.
+   - In the Semifinals and subsequent stages, team captains may inform Tournament Management if they expect a specific time slot to be unavailable in the following week. Schedule updates will be granted to the best of Management's abilities.
+5. **Reschedules will only be considered if both teams agree to a time and communicate it to the Tournament Management, before Wednesday 23:59 UTC+0 of the week the match is to take place on.**
+   - Reschedules may only be requested by a team captain.
+   - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC+0** of the week they are to be played at.
+   - **Do not ask for a reschedule unless it is absolutely needed. The Tournament Management reserves the right to deny any rescheduling request.**
+6. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
