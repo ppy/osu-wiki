@@ -18,7 +18,7 @@ While these songs aren't nearly as intense as your average rhythm game song, the
 
 <div align="center">
     <video width="100%" controls>
-        <source src="https://assets.ppy.sh/artists/244/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/245/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
