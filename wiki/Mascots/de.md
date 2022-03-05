@@ -4,13 +4,13 @@
 
 Ein YouTube-Video, in dem die Maskottchen von osu! vorgestellt werden, ist unter [Mascot Showcase](https://youtu.be/mJF2cAs_MrI) zu sehen.
 
-## Official
+## Offiziell
 
 ### ![osu! Icon](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stilisiert mit einem kleinen "p", ist das Maskottchen des osu! Spielmodus, das im Juli 2008 hinzukam. Sie ist auch als pippidon in osu!taiko bekannt und erschien in [Yandere Simulator](https://yanderesimulator.com) als NPC. Das anfängliche Konzeptbild wurde von [Sarumaru](https://osu.ppy.sh/users/9427) erstellt, das pippidon Sprite wurde von [crystalsuicune](https://osu.ppy.sh/users/9974) erstellt und das aktuelle Bild wurde von [Daru](https://osu.ppy.sh/users/32480) entworfen.
+pippi, stilisiert mit einem kleinen "p", ist das Maskottchen des osu!-Spielmodus, das im Juli 2008 hinzukam. Sie ist auch als pippidon in osu!taiko bekannt und erschien in [Yandere Simulator](https://yanderesimulator.com) als NPC. Das anfängliche Konzeptbild wurde von [Sarumaru](https://osu.ppy.sh/users/9427) erstellt, das pippidon Sprite wurde von [crystalsuicune](https://osu.ppy.sh/users/9974) erstellt und das aktuelle Bild wurde von [Daru](https://osu.ppy.sh/users/32480) entworfen.
 
 ### ![osu!catch Icon](/wiki/shared/mode/catch.png) Yuzu
 
@@ -18,7 +18,7 @@ pippi, stilisiert mit einem kleinen "p", ist das Maskottchen des osu! Spielmodus
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu ist das Maskottchen von osu!catch, das am 22.06.2014 hinzukam. Er wurde am 10.04.2000 geboren, ist 172 Zentimeter groß und wiegt 65 Kilogramm. Sein aktuelles Design wurde von [Thievley](https://osu.ppy.sh/users/4717672) entworfen. Sein ursprüngliches Design und die Catcher-Sprites stammen von [ztrot](https://osu.ppy.sh/users/6347); Daru hat das Comboburst-Design erstellt.
+Yuzu ist das Maskottchen von osu!catch, das am 22.06.2014 hinzukam. Er wurde am 10.04.2000 geboren, ist 172 Zentimeter groß und wiegt 65 Kilogramm. Sein aktuelles Design wurde von [Thievley](https://osu.ppy.sh/users/4717672) entworfen. Sein ursprüngliches Design und die Catcher-Sprites stammen von [ztrot](https://osu.ppy.sh/users/6347). Daru hat das Comboburst-Design erstellt.
 
 ### ![osu!mania Icon](/wiki/shared/mode/mania.png) Mani & Mari
 
@@ -56,7 +56,7 @@ Ryuuta war auch im Skin von [LuigiHann](https://osu.ppy.sh/users/1079), [Elite B
 
 > Als Experte für viele Tanzstile, von Hip-Hop bis Ballett, kann J jedes Lebewesen in seinen Bann ziehen.
 
-Agent J, auch bekannt als BA-2 (Beat Agent-2) oder J, war eines der osu! Maskottchen im Jahr 2008, wurde aber 2014 in den Ruhestand versetzt. Er wurde von der iNiS Corporation geschaffen und war einst Teil der alten Website.
+Agent J, auch bekannt als BA-2 (Beat Agent-2) oder J, war eines der osu!-Maskottchen im Jahr 2008, wurde aber 2014 in den Ruhestand versetzt. Er wurde von der iNiS Corporation geschaffen und war einst Teil der alten Website.
 
 Agent J war auch in [LuigiHann](https://osu.ppy.sh/users/1079)'s Skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357) zu sehen.
 
