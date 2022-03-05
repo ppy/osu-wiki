@@ -160,13 +160,13 @@ The osu!taiko World Cup 2022 is run by various community members.
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 5 brackets: [NoMod](/wiki/en/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and [FreeMod](/wiki/en/Game_modifier#freemod). There will be no tiebreakers for this stage.
+2. The mappool will contain 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and [FreeMod](/wiki/Game_modifier#freemod). There will be no tiebreakers for this stage.
 3. The Qualifier pool will contain 10 maps. There will be 3 maps under the NoMod bracket, 2 maps for the Hidden, Hard Rock, and Double Time brackets, and 1 map for the FreeMod bracket.
 4. Teams will have to play the mappool twice at a designated time.
    - Teams may skip individual maps or the second run altogether if they so desire.
 5. The mappool is to be played in the following order: NM1, NM2, NM3, HD1, HD2, HR1, HR2, DT1, DT2, FM1. Teams may not ask to play the pool in any other order.
 6. Each team must have 2 players for each map. They can be exchanged freely after a map is concluded.
-7. A team's score for a map is considered as the highest combined team score for that map (i.e. the final score for a map is the sum of each individual player's score). Only the highest score out of the two runs will be used for seeding.
+7. A team's score for a map is considered as the highest combined team score for that map (i.e. the sum of each individual player's score). Only the highest score out of the two runs will be used for seeding.
 8. An optional 5-minute break will be offered between the first and second play-through of the mappool.
 9. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
 10. Only the top 32 seeded teams will advance to the Round of 32.
