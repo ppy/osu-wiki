@@ -2,25 +2,25 @@
 
 The **osu! community meetings** are a fortnightly discussion panel hosted by the [osu! team](/wiki/People/The_Team). The primary aim of these meetings is to give anyone a chance to speak directly with the developers and people responsible for managing the community to raise issues for discussion or further consideration.
 
-Long ago in the [game's distant past](https://twitter.com/ppy/status/1169256824052170755), the osu! team used to host regular community meetings where everyone was welcome to talk. With the scale of the game today, this is no longer feasible, but through Discord a queueing system of sorts has been implemented where questions can be addressed one at a time. If you are interested in asking questions, please make sure you've read through the FAQ listed below, just in case your question has already been asked and answered!
+Long ago in the [game's distant past](https://twitter.com/ppy/status/1169256824052170755), the osu! team used to host regular community meetings where everyone was welcome to talk. With the scale of the game today, this is no longer feasible, but through Discord a queueing system of sorts has been implemented where questions can be addressed one at a time.
+
+If you are interested in asking questions, please make sure you've read through the FAQ below, just in case your question has already been asked and answered!
 
 Currently, the osu! community meetings are being chaired by [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335), and [smoogipoo](https://osu.ppy.sh/users/1040328).
 
-Meetings are generally held every two weeks, with reminders announced on [peppy's Twitter](https://twitter.com/ppy) about a day beforehand.
-
-The next osu! community meeting date will be announced at a later date.
-
 ## Getting involved
 
-The osu! community meetings are currently hosted on a Discord Stage on the [osu!dev Discord](https://discord.gg/ppy), and simulcasted on [peppy's Twitch channel](https://www.twitch.tv/ppy). Each meeting is currently scheduled to last about an hour, taking place every other weekend. 
+The osu! community meetings are currently hosted on a Discord Stage on the [osu!dev Discord server](https://discord.gg/ppy), and simulcasted on [peppy's Twitch channel](https://www.twitch.tv/ppy). Each meeting is currently scheduled to last about an hour.
 
-Everyone is welcome to join! If you have a question or have something to add to the discussion, you can raise your hand on the Discord Stage to join the queue, or write a message on the relevant Discord thread if you are not comfortable speaking, which will be read out loud and answered. In addition, before asking a question, please observe the following guidelines:
+The meetings are generally held every other weekend, with reminders announced on [peppy's Twitter](https://twitter.com/ppy) about a day beforehand. To get notified about these meetings when they start, mark yourself as interested using the event posted on the [osu!dev Discord server](https://discord.gg/ppy).
+
+Everyone is welcome to join! If you have a question or have something to add to the discussion, you can raise your hand on the Discord Stage to join the queue, or write a message on the relevant Discord thread in the `#community-meetings` channel if you are not comfortable speaking, which will be read out loud and answered. In addition, before asking a question, please observe the following guidelines:
 
 - Plan your talking points ahead of time, and keep them as concise as possible.
 - Try to only bring up issues which affect the larger community, not just you. 
 - Verification on osu!dev is not necessary, but may increase your chances of being selected for questions during Q&A sessions.
 
-We aim to take no more than 5 minutes per question, so please understand that questions that have been answered before or that are especially generic may not be chosen for discussion.
+The aim is to take no more than 5 minutes per question, so please understand that previously answered or especially generic questions may be skipped.
 
 ## Archives
 
