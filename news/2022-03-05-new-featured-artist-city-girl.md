@@ -16,7 +16,6 @@ California based producer **City Girl** has crafted a neat collection of musical
 
 While these songs aren't nearly as intense as your average rhythm game song, they can still be difficult under the right circumstances. Watch [kurtis-](https://osu.ppy.sh/users/5477343) play through [City Girl - L2M (feat. Kelsey Kuan)](https://osu.ppy.sh/beatmapsets/1668789) with approach rates between 8.5 and 11 (yes, *eleven*), then tap along to these other previews:
 
-
 <div align="center">
     <video width="100%" controls>
         <source src="https://assets.ppy.sh/artists/244/release_showcase.mp4" type="video/mp4" preload="none">
