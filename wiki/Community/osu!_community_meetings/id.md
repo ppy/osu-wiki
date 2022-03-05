@@ -1,11 +1,6 @@
----
-outdated: true
-outdated_since: b49301098a9e6de12ad2180c9c22e9868f5ae44f
----
-
 # Pertemuan komunitas osu!
 
-**Pertemuan komunitas osu!** adalah panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/The_Team) setiap dua minggu sekali. Tujuan utama dari pertemuan-pertemuan tersebut adalah untuk memberikan kesempatan kepada seluruh pihak untuk berbicara secara langsung dengan pengembang dan orang-orang yang bertanggung jawab dalam mengatur komunitas untuk membahas tentang suatu hal atau pertimbangan lebih lanjut.
+**Pertemuan komunitas osu!** merupakan panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/The_Team) setiap dua minggu sekali. Tujuan utama dari pertemuan-pertemuan tersebut adalah untuk memberikan kesempatan kepada seluruh pihak untuk berbicara secara langsung dengan pengembang dan orang-orang yang bertanggung jawab dalam mengatur komunitas untuk membahas tentang suatu hal atau pertimbangan lebih lanjut.
 
 [Dahulu kala](https://twitter.com/ppy/status/1169256824052170755), tim inti osu! rutin mengadakan pertemuan komunitas di mana seluruh orang dapat berbicara. Dengan permainan yang mempunyai sebuah komunitas yang sangat besar, hal ini tidak dapat dicapai, tetapi dengan menggunakan sistem antrian Discord yang dapat mengurutkan pertanyaan-pertanyaan yang dapat dibahas satu per satu. Jika kamu tertarik untuk bertanya, mohon pastikan kamu telah membaca FAQ di bawah ini untuk mengecek apakah pertanyaanmu sudah pernah ditanyakan dan dijawab!
 
