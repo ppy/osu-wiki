@@ -27,7 +27,7 @@ While these songs aren't nearly as intense as your average rhythm game song, the
 Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1668789) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/245/C-GIRL/City%20Girl%20-%20L2M%20%28feat.%20Kelsey%20Kuan%29.mp3" type="audio/mpeg">
 </audio>
 
 ### WISHING ON YOU (feat. ry, tiffi)
@@ -35,7 +35,7 @@ Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1668789) h
 Or try [the map that introduced **City Girl** to osu!](https://osu.ppy.sh/beatmapsets/1455209) hosted by [GIGAROBLOXIAN21](https://osu.ppy.sh/users/15315086)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/245/C-GIRL/City%20Girl%20-%20WISHING%20ON%20YOU%20%28feat.%20ry%2C%20tiffi%29.mp3" type="audio/mpeg">
 </audio>
 
 ### LOSING SLEEP (feat. Kelsey Kuan)
@@ -43,7 +43,7 @@ Or try [the map that introduced **City Girl** to osu!](https://osu.ppy.sh/beatma
 Check out [yet another map](https://osu.ppy.sh/beatmapsets/1521806) hosted by [GIGAROBLOXIAN21](https://osu.ppy.sh/users/15315086)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/245/C-GIRL/City%20Girl%20-%20LOSING%20SLEEP%20%28feat.%20Kelsey%20Kuan%29.mp3" type="audio/mpeg">
 </audio>
 
 ---
