@@ -1,35 +1,30 @@
----
-outdated: true
-outdated_since: 0d867e97c5066c996407f9515953de3d351b596a
----
-
 # Pertemuan komunitas osu!
 
 **Pertemuan komunitas osu!** merupakan panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/The_Team) setiap dua minggu sekali. Tujuan utama dari pertemuan-pertemuan tersebut adalah untuk memberikan kesempatan kepada seluruh pihak untuk berbicara secara langsung dengan pengembang dan orang-orang yang bertanggung jawab dalam mengatur komunitas untuk membahas tentang suatu hal atau pertimbangan lebih lanjut.
 
-[Dahulu kala](https://twitter.com/ppy/status/1169256824052170755), tim inti osu! rutin mengadakan pertemuan komunitas di mana seluruh orang dapat berbicara. Dengan permainan yang mempunyai sebuah komunitas yang sangat besar, hal ini tidak dapat dicapai, tetapi dengan menggunakan sistem antrian Discord yang dapat mengurutkan pertanyaan-pertanyaan yang dapat dibahas satu per satu. Jika kamu tertarik untuk bertanya, mohon pastikan kamu telah membaca FAQ di bawah ini untuk mengecek apakah pertanyaanmu sudah pernah ditanyakan dan dijawab!
+[Dahulu kala](https://twitter.com/ppy/status/1169256824052170755), tim inti osu! rutin mengadakan pertemuan komunitas di mana seluruh orang dapat berbicara. Dengan permainan yang mempunyai sebuah komunitas yang sangat besar, hal ini tidak dapat dicapai, tetapi dengan menggunakan sistem antrian Discord yang dapat mengurutkan pertanyaan-pertanyaan yang dapat dibahas satu per satu. 
+
+Jika kamu tertarik untuk bertanya, mohon pastikan kamu telah membaca pedoman yang dicantumkan di bawah halaman ini.
 
 Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335), dan [smoogipoo](https://osu.ppy.sh/users/1040328).
 
-Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya.
-
-Tanggal pertemuan komunitas osu! selanjutnya akan diumumkan dikemudian hari.
-
 ## Cara berpartisipasi
 
-Pertemuan komunitas osu! saat ini diadakan di Discord Stage pada [server Discord osu!dev](https://discord.gg/ppy) dan disiarkan pada [kanal Twitch peppy](https://www.twitch.tv/ppy). Setiap pertemuan saat ini dijadwalkan untuk berlangsung selama satu jam dan dimulai setiap dua minggu sekali.
+Pertemuan komunitas osu! saat ini diadakan di Discord Stage pada [server Discord osu!dev](https://discord.gg/ppy) dan disiarkan pada [kanal Twitch peppy](https://www.twitch.tv/ppy). Setiap pertemuan saat ini dijadwalkan untuk berlangsung selama satu jam.
 
-Semua orang diperkenankan untuk berpartisipasi! Jika kamu punya pertanyaan atau sesuatu untuk disampaikan pada diskusi, kamu dapat mengangkat tanganmu di Discord Stage untuk masuk dalam antrian atau menuliskan pesan pada utas Discord terkait jika kamu tidak nyaman berbicara, yang akan dibacakan dan dijawab. Sebagai tambahan, sebelum bertanya, perhatikan pedoman berikut ini:
+Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya. Untuk mendapat pemberitahuan mengenai pertemuan-pertemuan ini kamu dapat menandai dirimu sebagai "tertarik" (*interested*) pada *event* yang dipost pada [server Discord osu!dev](https://discord.gg/ppy)
+
+Semua orang diperkenankan untuk berpartisipasi! Jika kamu punya pertanyaan atau sesuatu untuk disampaikan pada diskusi, kamu dapat mengangkat tanganmu di Discord Stage untuk masuk dalam antrian atau menuliskan pesan pada utas Discord di *channel* `#community-meetings` jika kamu tidak nyaman berbicara, yang akan dibacakan dan dijawab. Sebagai tambahan, sebelum bertanya, perhatikan pedoman berikut ini:
 
 - Rencanakan poin pembicaraanmu sebelumnya dan buat poinmu seringkas mungkin.
-- Cobalah angkat isu yang mempengaruhi komunitas secara keseluruhan saja, bukan yang hanya mempengaruhimu saja.
+- Cobalah angkat isu yang mempengaruhi komunitas secara keseluruhan saja, bukan yang hanya memengaruhimu saja.
 - Verifikasi pada osu!dev bukanlah keharusan tetapi mungkin dapat menaikkan kemungkinan pertanyaanmu dipilih dalam sesi tanya-jawab.
 
-Kami menargetkan untuk membahas sebuah pertanyaan tidak lebih lama daripada 5 menit, sehingga mohon dipahami bahwa pertanyaan yang pernah dijawab atau yang umum mungkin tidak akan dipilih dalam diskusi.
+Target dari pedoman di atas untuk membahas sebuah pertanyaan tidak lebih lama daripada 5 menit, sehingga mohon dipahami bahwa pertanyaan yang sudah pernah dijawab atau yang umum tidak akan dipilih dalam diskusi.
 
 ## Arsip-arsip
 
-Pertemuan komunitas osu! pertama diadakan pada 19 September 2021. Semua pertemuan yang telah dan akan terjadi akan terus direkam di YouTube bersama dokumen ringkasan pertemuan.
+Pertemuan komunitas osu! pertama diadakan pada tanggal 19 September 2021. Semua pertemuan yang telah dan akan terjadi akan terus direkam di YouTube bersama dokumen ringkasan pertemuan.
 
 | Pertemuan ke # | Tautan | Ringkasan | Topik diskusi |
 | :-: | :-- | :-- | :-- |
