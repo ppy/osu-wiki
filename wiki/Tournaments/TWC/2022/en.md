@@ -212,8 +212,9 @@ The osu!taiko World Cup 2022 is run by various community members.
 4. Every mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 5. The NoMod bracket will be played with the [No Fail](/wiki/Game_modifier/No_Fail) mod activated.
 6. The Hidden, Hard Rock and Double Time brackets will be played with the respective mods activated.
-7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, Hard Rock or both.
-   - When playing a FreeMod map, each team must have at least one of Hidden or Hard Rock selected. A player can take both mods to satisfy this requirement.
+7. The FreeMod bracket will have FreeMod activated. Each player may pick Hidden, Hard Rock or Hidden + Hard Rock.
+   - When playing a FreeMod map, at least one player of each team must use a mod.
+   - Players must select different mod combinations. Using only Hidden, Hard Rock, or Hidden + Hard Rock for both players at the same time is not allowed.
 8. The tiebreaker will be played under FreeMod conditions.
    - While playing the tiebreaker, players do not need to have a mod activated and are allowed to select the same mod combinations.
 9. The size of the NoMod bracket will be 3 for the Qualifiers, 4 for the Round of 32 and Round of 16, 5 for the Quarterfinals and Semifinals, and 6 for the Finals and Grand Finals.
