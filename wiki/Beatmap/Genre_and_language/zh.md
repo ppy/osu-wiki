@@ -16,7 +16,7 @@ tags:
 
 在官网上发布的[谱面](/wiki/Beatmap)都拥有一块用于帮助分类歌曲，名为**歌曲风格**和**语言**的区域。它们也是谱面*元数据*的一部分。<!-- TODO: link -->
 
-歌曲风格与语言不会影响游玩，但能在新版客户端 (lazer 版)内用于搜索。
+除了能在新版客户端 (lazer 版)内用于搜索以外，歌曲风格与语言在客户端中没有任何实际功能。
 
 ## 谱面列表
 
@@ -33,7 +33,7 @@ tags:
 - [社区喜爱计划团队 (LVD)](/wiki/People/The_Team/Project_Loved_Team) 成员可以在谱面处于[社区喜爱 (Loved)](/wiki/Beatmap/Category#loved) 状态时修改。
 - [审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) 和[全局管理团队 (GMT)](/wiki/People/The_Team/Global_Moderation_Team) 成员能在谱面处于任何状态时修改。
 
-歌曲风格或语言标注为`未指定 (Unspecified)` 的谱面无法审核<!-- TODO: link -->通过。
+歌曲风格或语言标注为`未指定 (Unspecified)` 的谱面无法被提名<!-- TODO: link -->。
 
 ## 歌曲风格列表
 
@@ -46,10 +46,10 @@ tags:
 | 流行 (Pop) | 在流行文化中脱颖而出，使用简单的结构和重复的副歌或旋律使其朗朗上口的歌曲。 |
 | 其他 (Other) | 不属于表格内列出的任何风格的歌曲。 |
 | 新奇 (Novelty) | 滑稽或非同寻常的歌曲。在 osu! 里，这个分类主要包含 [YouTube Poop (YTP)](https://en.wikipedia.org/wiki/YouTube_Poop) 曲、niconico 的[音 MAD](http://zh.moegirl.org.cn/%E9%9F%B3MAD) 曲、[梗](https://zh.moegirl.org.cn/%E6%A2%97)曲。 |
-| 嘻哈 (Hip Hop) | 通常伴随说唱 (rap)，节拍或低音有时采样于唱片的风格化节奏歌曲。（参见：[维基百科*嘻哈乐*](https://zh.wikipedia.org/wiki/%E5%98%BB%E5%93%88%E9%9F%B3%E6%A8%82)） |
+| 嘻哈 (Hip Hop) | 通常伴随说唱 (rap)的风格化节奏歌曲，有时还夹杂着预录制的 beats 或 bass 采样。（参见：[维基百科*嘻哈乐*](https://zh.wikipedia.org/wiki/%E5%98%BB%E5%93%88%E9%9F%B3%E6%A8%82)） |
 | 电子 (Electronic) | 使用数码合成器合成或含有电子乐器的歌曲。 |
 | 金属 (Metal) | 使用非常激烈的演奏手法，大量使用响亮和失真的电子吉他和低音贝斯并含有密集快速鼓点的歌曲。 |
-| 古典 (Classical) | 以先进的音乐理论为基础的，在古老西方文化背景下创作的庄重的歌曲。 |
+| 古典 (Classical) | 以高等乐理为基础构建的庄重歌曲，其在古老西方文化背景下创作或自其启发灵感。 |
 | 民谣 (Folk) | 反映一个文化或一群人特点的传统、私有且非正式的歌曲。 |
 | 爵士 (Jazz) | 起源于非洲，含有古巴节奏风格的一类专注于即兴创作的歌曲。它通常含有用于在即兴演奏时伴奏的钢琴和乐器。 |
 
