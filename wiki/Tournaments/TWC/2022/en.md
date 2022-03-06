@@ -93,6 +93,28 @@ The osu!taiko World Cup 2022 is run by various community members.
 | ![][flag_US] | **United States** | **[general chicken](https://osu.ppy.sh/users/8050850)**, [R J](https://osu.ppy.sh/users/6490509), [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [Miniature Lamp](https://osu.ppy.sh/users/9821194), [ChurroChef](https://osu.ppy.sh/users/9258564), [cheese salad](https://osu.ppy.sh/users/6349821) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [AkiraPlayz](https://osu.ppy.sh/users/16039831), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [JackTVN](https://osu.ppy.sh/users/12510704), [njshift1](https://osu.ppy.sh/users/16688499) |
 
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (48 MB)](https://drive.google.com/uc?id=1Enpj3xdC_FsT4uvt7zIba2tLI4I63eyR)**
+
+- NoMod
+  1. [seatrus - morgenroete (KawaiiBass) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1712777#taiko/3499847)
+  2. [Noisia - Vigilantes (rubies87) \[Oni\]](https://osu.ppy.sh/beatmapsets/1713100#taiko/3500416)
+  3. [The Fearless Flyers - Assassin (Megafan) \[j a z z\]](https://osu.ppy.sh/beatmapsets/1712914#taiko/3500092)
+- Hidden
+  1. [xi - Parousia (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1712783#taiko/3499862)
+  2. [Irreversible Mechanism - Beyond (Heaxys) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1712779#taiko/3499852)
+- Hard Rock
+  1. [Zekk - Vespera (Nifty) \[Impulse\]](https://osu.ppy.sh/beatmapsets/1712860#taiko/3499979)
+  2. [Aether Realm - Ravensong (Raiden) \[Wings of Freedom\]](https://osu.ppy.sh/beatmapsets/1713518#taiko/3501347)
+- Double Time
+  1. [KINEMA106 - N.M.W (Nao Tomori) \[Oni\]](https://osu.ppy.sh/beatmapsets/1712810#taiko/3499915)
+  2. [Feryquitous feat. Sennzai - Rugie (Maimaing) \[somnum\]](https://osu.ppy.sh/beatmapsets/1712786#taiko/3499875)
+- FreeMod
+  1. **[seatrus - O (KTYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/1712976#taiko/3500185)**
+
 ## Ruleset
 
 ### Tournament rules
