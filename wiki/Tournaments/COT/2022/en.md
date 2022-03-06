@@ -67,6 +67,35 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (147 MB)](https://drive.google.com/file/d/1HDEPQ-ytf2fCF_u-gzf7L0nlBIi0TO9b/view)**
+
+- NoMod
+  1. [BlackY - ULT!MATE END (Deif) \[Team Various Countries 3's Overdose\]](https://osu.ppy.sh/beatmapsets/1618360#fruits/3304140)
+  2. [Juggernaut. - Revenant (Jemzuu) \[RETALIATION.\]](https://osu.ppy.sh/beatmapsets/1457736#fruits/2995853)
+  3. [BEMANI Sound Team "Nekomata Master" - The last of world music (Yumeno Himiko) \[Reconstruction of the world\]](https://osu.ppy.sh/beatmapsets/1031577#fruits/2157114)
+  4. [Niji no Conquistador - Zutto Summer de Koishiteru (Sotarks) \[Summer Love\]](https://osu.ppy.sh/beatmapsets/1263383#fruits/2625911)
+  5. [Krewella x Diskord - Beggars (Consouls Remix) (NeilPerry) \[Neil x Ameth's Conflux\]](https://osu.ppy.sh/beatmapsets/881753#fruits/1843575)
+  6. [Neuromonakh Feofan - Remeslo (Ksardas) \[Rampage\]](https://osu.ppy.sh/beatmapsets/905674#fruits/1890216)
+- Hidden
+  1. [Yuuyu - Scrap Syndrome (Jemzuu) \[Fragment\]](https://osu.ppy.sh/beatmapsets/1659458#fruits/3387605)
+  2. [Cranky - Libera me (-Hex-) \[Humanity\]](https://osu.ppy.sh/beatmapsets/1488787#fruits/3051985)
+  3. [Laur - Metamorphose (verychill) \[Yokes' Expert\]](https://osu.ppy.sh/beatmapsets/1238413#fruits/2639428)
+  4. [Gesu no Kiwami Otome. - Digital Mogura (dsco) \[Idealist\]](https://osu.ppy.sh/beatmapsets/737340#fruits/1556011)
+- HardRock
+  1. [monet - Kagami no Sekai ni wa Watashi shika Inai -another version- (Terton) \[Terton & M0RU's Overdose\]](https://osu.ppy.sh/beatmapsets/1713726#fruits/3501791)
+  2. [Tatsh - reunion (GIGACHAD) \[Endless Journey\]](https://osu.ppy.sh/beatmapsets/1457145#fruits/3133717)
+  3. [Dreamcatcher - Chase Me (Natsu) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/586144#fruits/1289675)
+  4. [lapix - Nothing but Theory (azr8) \[ultra jazzfunktion\]](https://osu.ppy.sh/beatmapsets/914146#fruits/1924570)
+- DoubleTime
+  1. [ShinRa-Bansho - Junjou Armeria (Jemzuu) \[Specuu's Rain\]](https://osu.ppy.sh/beatmapsets/1220848#fruits/2545171)
+  2. [Crystal Castles - Vietnam (Lacrima) \[Flashback\]](https://osu.ppy.sh/beatmapsets/1151357#fruits/2403325)
+  3. [BAND-MAID - Spirit!! (Lasse) \[Expert!!\]](https://osu.ppy.sh/beatmapsets/1306578#fruits/2709014)
+  4. [USAO - Chariot (Extended Mix) (Realazy) \[lebronJAM\]](https://osu.ppy.sh/beatmapsets/1633242#fruits/3333734)
+- Tiebreaker
+  1. **[Camellia - Stealth-Dash (Rocma) \[Final Dash\]](https://osu.ppy.sh/beatmapsets/1115790#fruits/2330971)**
+
 ### Finals
 
 **[Download the mappack here! (148 MB)](https://drive.google.com/file/d/1P_CT4Lg3hNlr-pCpHh3YtDm4FILTYBR7/view)**
@@ -206,6 +235,22 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
   2. [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#fruits/1624401)
 
 ## Match Results
+
+### Finals
+
+Saturday, 5 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [FruktoLove](https://osu.ppy.sh/users/8417087) ![][flag_UA] | 0 | **6** | ![][flag_RU] **[Kenny331](https://osu.ppy.sh/users/11534285)** | *win by default* |
+| Upper | **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **6** | 5 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98431626) |
+| Lower | **[KitsunIvy](https://osu.ppy.sh/users/7055384)** ![][flag_RU] | **6** | 0 | ![][flag_RU] [cosilgam](https://osu.ppy.sh/users/15960747) | [#1](https://osu.ppy.sh/community/matches/98434650) |
+
+Sunday, 6 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Kenny331](https://osu.ppy.sh/users/11534285) ![][flag_RU] | 5 | **6** | ![][flag_RU] **[KitsunIvy](https://osu.ppy.sh/users/7055384)** | [#1](https://osu.ppy.sh/community/matches/98471760) |
 
 ### Semifinals
 
