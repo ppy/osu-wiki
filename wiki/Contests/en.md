@@ -248,6 +248,14 @@ The **osb! Storyboarding Contest** is a storyboarding contest where participatin
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/osb!_Storyboarding_Contest/1) | ![][flag_CA] [TheDuckMask](https://osu.ppy.sh/users/7405768) | ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) | [#1](https://osu.ppy.sh/community/forums/topics/897075?n=1) |
 
+### osu!taiko Featured Artist Cup
+
+The **osu!taiko Featured Artist Cup #1** is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists.
+
+| Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](/wiki/Contests/o!tFAC/1) | *TBD* | *TBD* | *TBD* | *TBD* |
+
 ### Pending Cup
 
 The **Pending Cup** is a mapping contest that is held yearly by prominent members of the Chinese mapping community. Each year, the contest features up to three songs and/or categories that mappers from all across the community are free to compete and submit their entries in.
