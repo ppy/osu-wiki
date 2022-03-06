@@ -114,7 +114,7 @@ The osu!taiko World Cup 2022 is run by various community members.
   1. [KINEMA106 - N.M.W (Nao Tomori) \[Oni\]](https://osu.ppy.sh/beatmapsets/1712810#taiko/3499915)
   2. [Feryquitous feat. Sennzai - Rugie (Maimaing) \[somnum\]](https://osu.ppy.sh/beatmapsets/1712786#taiko/3499875)
 - FreeMod
-  1. **[seatrus - O (KTYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/1712976#taiko/3500185)**
+  1. [seatrus - O (KTYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/1712976#taiko/3500185)
 
 ## Ruleset
 
