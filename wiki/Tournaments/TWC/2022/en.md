@@ -50,6 +50,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1519196)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Challonge bracket](https://challonge.com/TWC_2022)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vThLpR1_d3DZvJuYNeIwZCAvUlBiiKviX_ssZrmqIuh-Oh6yZbfevBL7oH9p3bC8uFF1TJ4WK1ug5yI/pubhtml)
 
 ## Participants
 
@@ -92,6 +93,28 @@ The osu!taiko World Cup 2022 is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [-Dusk](https://osu.ppy.sh/users/6092181), [Daniels](https://osu.ppy.sh/users/12439209), [Horiiizon](https://osu.ppy.sh/users/8071438), [overdahedge2014](https://osu.ppy.sh/users/9864847), [Metzo](https://osu.ppy.sh/users/10633982) |
 | ![][flag_US] | **United States** | **[general chicken](https://osu.ppy.sh/users/8050850)**, [R J](https://osu.ppy.sh/users/6490509), [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [Miniature Lamp](https://osu.ppy.sh/users/9821194), [ChurroChef](https://osu.ppy.sh/users/9258564), [cheese salad](https://osu.ppy.sh/users/6349821) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [AkiraPlayz](https://osu.ppy.sh/users/16039831), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [JackTVN](https://osu.ppy.sh/users/12510704), [njshift1](https://osu.ppy.sh/users/16688499) |
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (48 MB)](https://drive.google.com/uc?id=1Enpj3xdC_FsT4uvt7zIba2tLI4I63eyR)**
+
+- NoMod
+  1. [seatrus - morgenroete (KawaiiBass) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1712777#taiko/3499847)
+  2. [Noisia - Vigilantes (rubies87) \[Oni\]](https://osu.ppy.sh/beatmapsets/1713100#taiko/3500416)
+  3. [The Fearless Flyers - Assassin (Megafan) \[j a z z\]](https://osu.ppy.sh/beatmapsets/1712914#taiko/3500092)
+- Hidden
+  1. [xi - Parousia (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1712783#taiko/3499862)
+  2. [Irreversible Mechanism - Beyond (Heaxys) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1712779#taiko/3499852)
+- Hard Rock
+  1. [Zekk - Vespera (Nifty) \[Impulse\]](https://osu.ppy.sh/beatmapsets/1712860#taiko/3499979)
+  2. [Aether Realm - Ravensong (Raiden) \[Wings of Freedom\]](https://osu.ppy.sh/beatmapsets/1713518#taiko/3501347)
+- Double Time
+  1. [KINEMA106 - N.M.W (Nao Tomori) \[Oni\]](https://osu.ppy.sh/beatmapsets/1712810#taiko/3499915)
+  2. [Feryquitous feat. Sennzai - Rugie (Maimaing) \[somnum\]](https://osu.ppy.sh/beatmapsets/1712786#taiko/3499875)
+- FreeMod
+  1. [seatrus - O (KTYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/1712976#taiko/3500185)
 
 ## Ruleset
 
@@ -212,8 +235,9 @@ The osu!taiko World Cup 2022 is run by various community members.
 4. Every mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 5. The NoMod bracket will be played with the [No Fail](/wiki/Game_modifier/No_Fail) mod activated.
 6. The Hidden, Hard Rock and Double Time brackets will be played with the respective mods activated.
-7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, Hard Rock or both.
-   - When playing a FreeMod map, each team must have at least one of Hidden or Hard Rock selected. A player can take both mods to satisfy this requirement.
+7. The FreeMod bracket will have FreeMod activated. Each player may pick Hidden, Hard Rock or Hidden + Hard Rock.
+   - When playing a FreeMod map, at least one player of each team must use a mod.
+   - Players must select different mod combinations. Using only Hidden, Hard Rock, or Hidden + Hard Rock for both players at the same time is not allowed.
 8. The tiebreaker will be played under FreeMod conditions.
    - While playing the tiebreaker, players do not need to have a mod activated and are allowed to select the same mod combinations.
 9. The size of the NoMod bracket will be 3 for the Qualifiers, 4 for the Round of 32 and Round of 16, 5 for the Quarterfinals and Semifinals, and 6 for the Finals and Grand Finals.
