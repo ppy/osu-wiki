@@ -52,7 +52,7 @@ The Project Loved Team mostly consists of *captains* for each [game mode](/wiki/
 Coordinators are mainly responsible for making sure all the captains work together to run Project Loved smoothly. They write news and forum posts, maintain tools, and help moderate discussions about Loved.
 
 - ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
-- ![][flag_FR] [Panacotta](https://osu.ppy.sh/users/2850983)
+- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
 
 ## Beatmap metadata reviewers
 
@@ -62,7 +62,6 @@ Metadata reviewers check through every beatmap that will be put up for voting, a
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
-- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [PuigdemontLoL](https://osu.ppy.sh/users/7080063)
@@ -72,8 +71,7 @@ Metadata reviewers check through every beatmap that will be put up for voting, a
 
 Content moderators consist of dedicated [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members that take part in the assessment of the visual and aural content included in the beatmaps that will be put up for voting.
 
-- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
-- ![][flag_FR] [Panacotta](https://osu.ppy.sh/users/2850983)
+- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
 - ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437)
 
 ## Retired members
@@ -90,6 +88,7 @@ Below listed are the users, who once were a part of the Project Loved Team.
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)
 - ![][flag_CA] [Kaifin](https://osu.ppy.sh/users/2596942)
+- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
 - ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453)
@@ -172,3 +171,5 @@ Below listed are the users, who once were a part of the Project Loved Team.
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+
+<!--- last updated @ 1007 on 02/18/2022 with the removal of Noffy from Project Loved Team ---> 

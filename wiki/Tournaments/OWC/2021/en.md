@@ -245,7 +245,7 @@ The osu! World Cup 2021 was run by the osu! team and various community members.
 
 ### Round of 16
 
-**[Download the mapack here (125 MB)](https://drive.google.com/file/d/1a5Y_JvVKGSuN_WofpDz22pIvHyBUb33D/view?usp=sharing)**
+**[Download the mappack here (125 MB)](https://drive.google.com/file/d/1a5Y_JvVKGSuN_WofpDz22pIvHyBUb33D/view?usp=sharing)**
 
 - NoMod
   1. [Comela - Wing of Destiny (Nana Abe) \[OWC Tyrant\]](https://osu.ppy.sh/beatmapsets/1610199#osu/3287700)

@@ -855,6 +855,16 @@
 
 "tourney":                     "osu!tourney"
 
+# hierarchy swapped in #6888
+"osu!tourney/osu!lazer_tournament_client":          "osu!_tournament_client"
+"osu!tourney":                                      "osu!_tournament_client/osu!tourney"
+"osu!tourney/multiplayer_usage":                    "osu!_tournament_client/osu!tourney/Multiplayer_usage"
+"osu!tourney/setup":                                "osu!_tournament_client/osu!tourney/Setup"
+"osu!tourney/skinning":                             "osu!_tournament_client/osu!tourney/Skinning"
+"osu!tourney/spectator_usage":                      "osu!_tournament_client/osu!tourney/Spectator_usage"
+"osu!tourney/tournament_management_commands":       "osu!_tournament_client/osu!tourney/Tournament_management_commands"
+"osu!tourney/troubleshooting":                      "osu!_tournament_client/osu!tourney/Troubleshooting"
+
 "wiki":                                             "osu!_wiki"
 "wiki_help":                                        "osu!_wiki/Maintenance#routines"
 "osu!wiki_contribution_guide":                      "osu!_wiki/Contribution_guide"
