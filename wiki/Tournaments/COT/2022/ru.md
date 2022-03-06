@@ -139,7 +139,7 @@ COT 2022 организован различными членами сообще
   4. [EiK feat. Raimu - a wonderful days -rebirth- (ponbot) \[Jabberwocky\]](https://osu.ppy.sh/beatmapsets/1430653#fruits/2945039)
   5. [Getty vs. DJ DiA - Engage-Rex- (Realazy) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/1336197#fruits/2768157)
 - Hidden
-  1. [succducc - me & u [(Spectator) \[zyzyx's overdose\]](https://osu.ppy.sh/beatmapsets/1281611#fruits/2662018)
+  1. [succducc - me & u (Spectator) \[zyzyx's overdose\]](https://osu.ppy.sh/beatmapsets/1281611#fruits/2662018)
   2. [TWICE - Baby Blue Love (Xetopia) \[Xetopia's Rain\]](https://osu.ppy.sh/beatmapsets/1704251#fruits/3482376)
   3. [onoken - F-mine (Cheri) \[Expert\]](https://osu.ppy.sh/beatmapsets/1073054#fruits/2245707)
 - HardRock
