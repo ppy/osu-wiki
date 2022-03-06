@@ -50,6 +50,7 @@ Translation: *Note: If the above date has passed, the most recent date can be fo
 | 9 | [2022 年 1 月 22 號](https://youtu.be/Prx0XzHl6-M) | [筆記](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | 各類由社群提出的問題、開發最新進度 |
 | 10 | [2022 年 2 月 6 號](https://youtu.be/xA4nbE8DM4s) | [筆記](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | 各類由社群提出的問題 |
 | 11 | [2022 年 2 月 20 號](https://youtu.be/d66pU5lsHvE) | - |  |
+| 12 | [2022 年 3 月 6 號]({{LINK}}) | - |  |
 
 ## 相關連結
 

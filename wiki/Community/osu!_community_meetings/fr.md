@@ -40,6 +40,7 @@ Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meeti
 | 9 | [22 janvier 2022](https://youtu.be/Prx0XzHl6-M) | [Document de synthèse](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Questions diverses de la communauté, mise à jour concernant le développement |
 | 10 | [6 février 2022](https://youtu.be/xA4nbE8DM4s) | [Document de synthèse](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Questions diverses de la communauté |
 | 11 | [20 février 2022](https://youtu.be/d66pU5lsHvE) | - | Score et multiplicateurs de mods |
+| 12 | [6 mars 2022]({{LINK}}) | - |  |
 
 ## Liens associés
 
