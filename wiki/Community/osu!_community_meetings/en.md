@@ -40,7 +40,7 @@ The first osu! community meeting was hosted on September 19, 2021. All meetings 
 | 9 | [January 22, 2022](https://youtu.be/Prx0XzHl6-M) | [Meeting notes](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Various community questions, development update |
 | 10 | [February 6, 2022](https://youtu.be/xA4nbE8DM4s) | [Meeting notes](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Various community questions |
 | 11 | [February 20, 2022](https://youtu.be/d66pU5lsHvE) | - | Mod multipliers and score |
-| 12 | [March 6, 2022]({{LINK}}) | - | Future of the osu! leaderboards |
+| 12 | [March 6, 2022](https://youtu.be/HimCHAnPCCY) | - | Future of the osu! leaderboards |
 
 ## Related links
 
