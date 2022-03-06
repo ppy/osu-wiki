@@ -106,6 +106,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modération du tchat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Allemand | Gestion des tournois |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Français, un peu de Espagnol | Modération du tchat |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugais | Modération du tchat |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, Chinois | Modération du tchat |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Coréen, Japonais | Modération du tchat |

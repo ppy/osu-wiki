@@ -106,6 +106,7 @@ tags:
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Официальное представление команды |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Филиппинский | Модерация чата |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Немецкий | Турниры |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Французский, частично испанский | Модерация чата |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Португальский | Модерация чата |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Кантонский диалект, китайский | Модерация чата |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Корейский, японский | Модерация чата |

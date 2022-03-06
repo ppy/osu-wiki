@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 0d867e97c5066c996407f9515953de3d351b596a
+---
+
 # osu! Community Meetings
 
 Die **osu! Community Meetings** sind eine alle zwei Wochen stattfindende Diskussionsrunde, die vom [osu!-Team](/wiki/People/The_Team) veranstaltet wird. Das Hauptziel dieser Treffen ist es, jedem die Möglichkeit zu geben, direkt mit den Entwicklern und den für die Verwaltung der Community verantwortlichen Personen zu sprechen, um Probleme zur Diskussion zu stellen oder weitere Überlegungen einzubringen.
@@ -8,7 +13,7 @@ Derzeit werden die osu! Community-Treffen von [peppy](https://osu.ppy.sh/users/2
 
 Die Treffen finden in der Regel alle zwei Wochen statt und werden etwa einen Tag vorher auf [peppys Twitter](https://twitter.com/ppy) angekündigt.
 
-Das nächste osu! Community Meeting findet voraussichtlich am: **20. Februar 2022 (Sonntag 07:00 UTC)** statt.
+Das nächste osu! Community Meeting wird zu einem späteren Zeitpunkt bekannt gegeben.
 
 ## Sich beteiligen
 
@@ -28,7 +33,7 @@ Das erste osu! Community Meeting fand am 19. September 2021 statt. Alle Treffen 
 
 | Meeting # | Link | Zusammenfassung | Agenda |
 | :-: | :-- | :-- | :-- |
-| 0 | [19. September 2021](https://youtu.be/-LjNll8VYTM) | [Sitzungsnotizen](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Einführung in diese Meetings, Ranking-Kriterien, Schwierigkeitsgrade und Performance-Punkte, osu!lazer im Allgemeinen |
+| 0 | [19. September 2021](https://youtu.be/-LjNll8VYTM) | [Sitzungsnotizen](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Einführung in diese Meetings, Ranking-Kriterien, Schwierigkeitsgrade und Performance-Punkte, osu!(lazer) im Allgemeinen |
 | 1 | [3. Oktober 2021](https://youtu.be/D3OZCm6szVE) | [Sitzungsnotizen](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Diverse Fragen aus der Community, Entwicklungs-Update |
 | 2 | [17. Oktober 2021](https://youtu.be/nLT-fLeogrw) | [Sitzungsnotizen](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Verschiedene Fragen aus der Community |
 | 3 | [31. Oktober 2021](https://youtu.be/omvZbC7zJUI) | [Sitzungsnotizen](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Verschiedene Fragen aus der Community |
@@ -39,6 +44,7 @@ Das erste osu! Community Meeting fand am 19. September 2021 statt. Alle Treffen 
 | 8 | [9. Januar 2022](https://youtu.be/JXgQ6YEDCGg) | [Sitzungsnotizen](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | HP-Mechanik (Gesundheitsverlust), verschiedene Fragen aus der Community |
 | 9 | [22. Januar 2022](https://youtu.be/Prx0XzHl6-M) | [Sitzungsnotizen](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Diverse Fragen aus der Community, Entwicklungs-Update |
 | 10 | [6. Februar 2022](https://youtu.be/xA4nbE8DM4s) | [Sitzungsnotizen](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Diverse Fragen aus der Community |
+| 11 | [20. Februar 2022](https://youtu.be/d66pU5lsHvE) | - | Mod-Multiplikatoren und Score |
 
 ## Weiterführende Links
 
