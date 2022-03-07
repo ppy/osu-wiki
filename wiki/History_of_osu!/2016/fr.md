@@ -34,7 +34,7 @@ Liens :
 
 ## Mai
 
-Le premier concours de remix osu! a commencé avec le challenge de remixer "circles!" de nekodex. Sur la chaîne YouTube Polygon, Keiichi Yano, un des créateurs de jeux tels qu'Elite Beat Agents, a fait l'éloge d'osu! pour sa communauté qui souhaite partager les beatmaps qu'ils créent. Les concours [aspire](/wiki/Contests/Aspire) reviennent suite à une forte demande.
+Le premier concours de remix osu! a commencé avec le challenge de remixer "circles!" de nekodex. Sur la chaîne YouTube Polygon, Keiichi Yano, un des créateurs de jeux tels qu'Elite Beat Agents, a fait l'éloge d'osu! pour sa communauté qui souhaite partager les beatmaps qu'ils créent. Les concours [Aspire](/wiki/Contests/Aspire) reviennent suite à une forte demande.
 
 Liens :
 
@@ -44,7 +44,7 @@ Liens :
 
 ## Juin
 
-Mapping With Rewards \#1, annoncé l'année précédente s'est finalement conclu. L'osu!idol 2016 est ouvert. peppy a annoncé osu!lazer, qui sera bientôt le successeur du client osu! actuel.
+Mapping With Rewards \#1, annoncé l'année précédente s'est finalement conclu. L'osu!idol 2016 est ouvert. peppy a annoncé un nouveau client osu! avec pour nom de code "lazer" (précédemment connu sous le nom d'osu!lazer), qui sera bientôt le successeur du client osu! actuel.
 
 Liens :
 
@@ -86,7 +86,7 @@ Liens :
 
 ## Octobre
 
-Les inscriptions à l'osu! World Cup 2016 sont ouvertes. Les candidatures à la GMT sont ouvertes pour ceux qui souhaitent y adhérer. La catégorie de beatmap [loved](/wiki/Beatmap/Category#loved) a été introduite en phase de test et en tant que moyen de donner un classement aux beatmaps appréciées par la communauté mais ne pouvant pas être classées. Ces beatmaps ne vont cependant pas donner de [pp](/wiki/Performance_points) et leur classement pourra être supprimé si les créateurs les mettent à jour. Le 7ème concours de fanart sur le thème d'Halloween est ouvert. Les loved sont dans leur seconde phase de test, de nouvelles beatmaps sont prêtes à entrer dans cette catégorie. Une nouvelle vidéo sur lazer est sortie. Le plus notable est les hit circles qui ont plus de texture et qui sont plus lisses et brillants. Les votes pour l'osu!idol 2016 sont ouverts. Quelques jours avant Halloween, le concours de fanart d'Halloween est ouvert et s'est conclu deux jours plus tard. Le osu!weekly a sorti le 78ème numéro sur Halloween, le rendant le plus terrifiant possible (mais où est passé le 77ème numéro ? Nous ne le saurons jamais).
+Les inscriptions à l'osu! World Cup 2016 sont ouvertes. Les candidatures à la GMT sont ouvertes pour ceux qui souhaitent y adhérer. La catégorie de beatmap [loved](/wiki/Beatmap/Category#loved) a été introduite en phase de test et en tant que moyen de donner un classement aux beatmaps appréciées par la communauté mais ne pouvant pas être classées. Ces beatmaps ne vont cependant pas donner de [pp](/wiki/Performance_points) et leur classement pourra être supprimé si les créateurs les mettent à jour. Le 7ème concours de fanart sur le thème d'Halloween est ouvert. Les loved sont dans leur seconde phase de test, de nouvelles beatmaps sont prêtes à entrer dans cette catégorie. Une nouvelle vidéo sur le nouveau client osu! (lazer) est sortie. Le plus notable est les hit circles qui ont plus de texture et qui sont plus lisses et brillants. Les votes pour l'osu!idol 2016 sont ouverts. Quelques jours avant Halloween, le concours de fanart d'Halloween est ouvert et s'est conclu deux jours plus tard. Le osu!weekly a sorti le 78ème numéro sur Halloween, le rendant le plus terrifiant possible (mais où est passé le 77ème numéro ? Nous ne le saurons jamais).
 
 Liens :
 
