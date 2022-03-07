@@ -100,7 +100,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ### Quarterfinals
 
-**[Download the mappack here! (107 MB)](http://drive.google.com/u/0/uc?id=1K-xhseDNcuNQJeCBxkg9JCHejvzG3DSe&export=download)**
+**[Download the mappack here! (140 MB)](http://drive.google.com/u/0/uc?id=17PkLRpDvkuLoyqvbkWIMIBMsAfBtPkww&export=download)**
 
 - NoMod
   1. [Suzuki Konomi - Theater of Life (Raids) \[RaiDiver's Tale of Tomorrow\]](https://osu.ppy.sh/beatmapsets/1649720#osu/3367245)
