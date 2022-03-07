@@ -24,7 +24,7 @@ no_native_review: true
 
 | 项目 | 频道 |
 | :-- | :-- |
-| [osu!lazer](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [osu!](/wiki/Game_mode/osu!) [星级](/wiki/Beatmapping/Star_rating)和 [PP](/wiki/Performance_points) | `#difficulty-osu` |

@@ -103,11 +103,11 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [Yazzehh](https://osu.ppy.sh/users/7068973) | Destacada presencia del árbitro en docenas de torneos comunitarios |
 | [Evrien](https://osu.ppy.sh/users/791660) | Rendimiento excepcional en castings, comentarios y redacciones/resúmenes sobre competiciones |
 | [Tom94](https://osu.ppy.sh/users/1857058) | ¡La mente maestra detrás de innumerables mejoras en osu!, desde pp, reescritura de motor de gráficos, calificación de estado y más! |
-| [DrabWeb](https://osu.ppy.sh/users/6946022) | Contribución excepcional al proyecto osu!lazer |
-| [EVAST](https://osu.ppy.sh/users/8195163) | Contribución excepcional al proyecto osu!lazer con más de 90 pullreqs y cientos de commits |
-| [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Contribución excepcional al proyecto osu!lazer |
-| [kj415j45](https://osu.ppy.sh/users/9367540) | Excelente contribución y organización del proyecto de localización chino para osu!, osu! wiki y osu!lazer |
-| [jorolf](https://osu.ppy.sh/users/7004641) | Contribución excepcional al proyecto osu!lazer y creación de numerosas herramientas de medios |
+| [DrabWeb](https://osu.ppy.sh/users/6946022) | Contribución excepcional al proyecto osu!(lazer) |
+| [EVAST](https://osu.ppy.sh/users/8195163) | Contribución excepcional al proyecto osu!(lazer) con más de 90 pullreqs y cientos de commits |
+| [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Contribución excepcional al proyecto osu!(lazer) |
+| [kj415j45](https://osu.ppy.sh/users/9367540) | Excelente contribución y organización del proyecto de localización chino para osu!, osu! wiki y osu!(lazer) |
+| [jorolf](https://osu.ppy.sh/users/7004641) | Contribución excepcional al proyecto osu!(lazer) y creación de numerosas herramientas de medios |
 | [Syrin](https://osu.ppy.sh/users/5701575) | Creador de PerformancePlus y osu!chan |
 | [Raveille](https://osu.ppy.sh/users/1388767) | Esfuerzo extraordinario en la producción y publicación del proyecto Scorewatch |
 | [ThePooN](https://osu.ppy.sh/users/718454) | Esfuerzo extraordinario en la producción y publicación del proyecto Scorewatch |

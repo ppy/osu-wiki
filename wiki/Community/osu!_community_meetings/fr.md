@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 0d867e97c5066c996407f9515953de3d351b596a
+---
+
 # osu! community meetings
 
 Les **osu! community meetings** sont un groupe de discussion bimensuel organisé par l'[équipe d'osu!](/wiki/People/The_Team). L'objectif principal de ces meetings est de donner à chacun une chance de parler directement avec les développeurs et les personnes responsables de la gestion de la communauté pour soulever des questions à discuter ou à approfondir.
@@ -8,7 +13,7 @@ Actuellement, les osu! community meetings sont présidés par [peppy](https://os
 
 Les meetings ont généralement lieu toutes les deux semaines, les rappels étant annoncés sur le [compte Twitter de peppy](https://twitter.com/ppy) environ un jour avant.
 
-Le prochain osu! community meeting est prévu pour le : **20 février 2022 (Dimanche 07:00 UTC)**.
+La date du prochain osu! community meeting sera annoncée ultérieurement.
 
 ## S'impliquer
 
@@ -28,7 +33,7 @@ Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meeti
 
 | Meeting n° | Lien | Résumé | Agenda |
 | :-: | :-- | :-- | :-- |
-| 0 | [19 septembre 2021](https://youtu.be/-LjNll8VYTM) | [Document de synthèse](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Introduction à ces meetings, critères de classement, points de difficulté et de performance, osu!lazer en général |
+| 0 | [19 septembre 2021](https://youtu.be/-LjNll8VYTM) | [Document de synthèse](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Introduction à ces meetings, critères de classement, points de difficulté et de performance, osu!(lazer) en général |
 | 1 | [3 octobre 2021](https://youtu.be/D3OZCm6szVE) | [Document de synthèse](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Questions diverses de la communauté, mise à jour concernant le développement |
 | 2 | [17 octobre 2021](https://youtu.be/nLT-fLeogrw) | [Document de synthèse](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Questions diverses de la communauté |
 | 3 | [31 octobre 2021](https://youtu.be/omvZbC7zJUI) | [Document de synthèse](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Questions diverses de la communauté |
@@ -39,6 +44,8 @@ Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meeti
 | 8 | [9 janvier 2022](https://youtu.be/JXgQ6YEDCGg) | [Document de synthèse](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | Mécanique des HP (drain de santé), questions diverses de la communauté |
 | 9 | [22 janvier 2022](https://youtu.be/Prx0XzHl6-M) | [Document de synthèse](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Questions diverses de la communauté, mise à jour concernant le développement |
 | 10 | [6 février 2022](https://youtu.be/xA4nbE8DM4s) | [Document de synthèse](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Questions diverses de la communauté |
+| 11 | [20 février 2022](https://youtu.be/d66pU5lsHvE) | - | Score et multiplicateurs de mods |
+| 12 | [6 mars 2022](https://youtu.be/HimCHAnPCCY) | - |  |
 
 ## Liens associés
 

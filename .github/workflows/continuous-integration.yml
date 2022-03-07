@@ -90,7 +90,15 @@ jobs:
           python .github/scripts/ci/run_yamllint.py --config .yamllint.yaml
 
       - name: find broken wikilinks
+        shell: bash
+        env:
+          PULL_REQUEST_TAG: 'SKIP_WIKILINK_CHECK'
         run: |
+          if ${{ contains(github.event.pull_request.body, env.PULL_REQUEST_TAG) }}; then
+            echo "::notice::Broken wikilink check suppressed ($PULL_REQUEST_TAG tag found in the pull request)"
+            exit 0
+          fi
+
           ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "wiki/**/*.md" "news/*.md" )
           python .github/scripts/ci/find_broken_wikilinks.py --target $ARTICLES
 

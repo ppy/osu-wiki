@@ -102,18 +102,18 @@ Para pemain osu! di seluruh dunia saling terhubung dan berinteraksi antar satu s
   
 [Proyek](/wiki/Community/Projects): [Featured Artist](/wiki/Featured_Artists) • [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Orang-orang
+# [Orang-orang](/wiki/People)
   
 osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang telah banyak mendukung kami dalam berbagai hal: upaya, dedikasi, dan jerih payah mereka memungkinkan kami untuk dapat terus tumbuh dan berkembang seiring waktu.
 
 [Tim Inti](/wiki/People/The_Team): [Developer](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
-Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
-
-[Para kontributor komunitas](/wiki/People/Community_Contributors) • [Daftar pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles)
+[Para kontributor komunitas](/wiki/People/Community_Contributors) • [Daftar pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Performance Points Committee](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">
