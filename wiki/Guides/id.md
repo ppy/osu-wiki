@@ -7,7 +7,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 *Halaman utama: [Beatmapping](/wiki/Beatmapping)*
 
 - [Panduan menyunting audio](Audio_Editing)
-- [Mengubah judul teks](/wiki/Beatmap/Title_Text#mengganti-judul-teks)
+- [Mengubah judul teks](/wiki/Beatmap/Title_text#mengganti-judul-teks)
 - [Mengompres berkas](Compressing_files)
 - [Daftar hitsound khusus](Custom_Hitsound_Library)
 - [Custom sample overrides](Custom_Sample_Overrides)
@@ -21,6 +21,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Mengatur offset dengan ketukan yang tepat](Setting_the_Offset_on_the_Correct_Beat)
 - [Menambahkan hitsound khusus](Using_custom_hitsounds)
 - [Video dari YouTube](Videos_from_YouTube)
+- [Menentukan timing lagu dengan birama #/8](Timing_Songs_With_8-Signatures)
 
 ## Modding
 

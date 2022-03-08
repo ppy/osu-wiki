@@ -10,7 +10,7 @@ tags:
 
 osu!'da oyun anında veya herhangi bir ekranda beklemedeyken kullanılabilen pek çok kısayol bulunmaktadır. Onlar fonksiyonlarıyla birlikte aşağıda listelenmişlerdir.
 
-*Not: Bu makale varsayılan klavye kısayollarını listelemektedir. Bunlardan bazılarını [ayarlardan](/wiki/Options) değiştirebilirsiniz.*
+*Not: Bu makale varsayılan klavye kısayollarını listelemektedir. Bunlardan bazılarını [ayarlardan](/wiki/Client/Options) değiştirebilirsiniz.*
 
 ## Oyun geneli
 
@@ -41,7 +41,7 @@ Bu kısayollar her yerde çalışır:
 | `Esc` | Geri dön veya iptal et. |
 | `P`, `E`, veya `O` | Oynama menüsünü aç. |
 | `P` üç kez | Solo'ya gir. |
-| `P` iki kez, sonra `M` | [Çoklu](/wiki/Multi)'ya gir. |
+| `P` iki kez, sonra `M` | [Çoklu](/wiki/Gameplay/Multiplayer)'ya gir. |
 | `E` iki kez | Düzenleme moduna gir. |
 | `O` | Ayarlar yan çubuğunu aç. |
 | `Q` | Çıkış istemcisini görüntüle. |
@@ -143,7 +143,7 @@ Bu kısayollar her yerde çalışır:
 
 ## Beatmap düzenleyici
 
-*Ana sayfa: [Beatmap Düzenleyici](/wiki/Beatmap_Editor)*
+*Ana sayfa: [Beatmap Düzenleyici](/wiki/Client/Beatmap_editor)*
 
 ### Genel
 
@@ -168,10 +168,10 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `Ctrl` + `N` | Tüm vuruş objelerini kaldırmak için seçenek sunar. |
 | `Ctrl` + `Yukarı/Aşağı Ok` | Oynatma hızını %25 arttırır/azaltır. |
 | `Ctrl` + `Shift` + `Yukarı/Aşağı Ok` | Oynatma hızını %5 arttırır/azaltır. |
-| `F1` | [Oluştur (Compose)](/wiki/Beatmap_Editor/Compose) moduna geç. |
-| `F2` | [Dizayn (Design)](/wiki/Beatmap_Editor/Design) moduna geç. |
-| `F3` | [Zamanlama (Timing)](/wiki/Beatmap_Editor/Timing) moduna geç. |
-| `F4` | [Şarkı kurulumu (Song setup)](/wiki/Beatmap_Editor/Song_Setup) kutucuğunu aç. |
+| `F1` | [Oluştur (Compose)](/wiki/Client/Beatmap_editor/Compose) moduna geç. |
+| `F2` | [Dizayn (Design)](/wiki/Client/Beatmap_editor/Design) moduna geç. |
+| `F3` | [Zamanlama (Timing)](/wiki/Client/Beatmap_editor/Timing) moduna geç. |
+| `F4` | [Şarkı kurulumu (Song setup)](/wiki/Client/Beatmap_editor/Song_Setup) kutucuğunu aç. |
 | `F5` | Test moduna gir. |
 | `F6` | Zamanlama ve kontrol noktaları kutucuğunu aç. |
 | `Ctrl` + `P` | Mevcut zaman dilimine devralmayan zamanlama noktası ekle. Eğer zamanlama modunda değilseniz, aynı zamanda zamanlama ve kontrol noktaları kutucuğunu açar. |
@@ -214,13 +214,13 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `1`, `2`, `3`, veya `4` | Sırasıyla seçim, circle, slider, ve spinner yerleştirme/seçim modları arasında geçiş yap (osu!, osu!taiko, veya osu!catch). |
 | `1`, `2`, veya `3` | Sırasıyla seçim, circle, hold yerleştirme/seçim modları arasında geçiş yap (osu!mania). |
 | `Ctrl` + `Alt` + `Fare Tekerleği Yukarı/Aşağı` | Yerleştirme/seçim modları arasında geçiş yap. |
-| `Ctrl` + `Shift` + `A` | [AiMod](/wiki/Beatmap_Editor/AiMod)'u aç. |
+| `Ctrl` + `Shift` + `A` | [AiMod](/wiki/Client/Beatmap_editor/AiMod)'u aç. |
 
 #### Oyun alanı
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `Alt` | Basılı tutarken [mesafe aralığını (distance snap)](/wiki/Beatmap_Editor/Distance_Snap) geçici olarak aç/kapa. |
+| `Alt` | Basılı tutarken [mesafe aralığını (distance snap)](/wiki/Client/Beatmap_editor/Distance_snap) geçici olarak aç/kapa. |
 | `Y` | Mesafe aralığını aç/kapa. |
 | `Shift` | Basılı tutarken açı yakalamayı geçici olarak aç/kapa. |
 | `T` | Açı yakalamayı aç/kapa. |
@@ -264,7 +264,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, veya `9`) | [Nota ızgara bölücüyü](/wiki/Beatmap_Editor/Beat_Snap_Divisor) sırasıyla 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, ve 1/9 olarak ayarla. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, veya `9`) | [Nota ızgara bölücüyü](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) sırasıyla 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, ve 1/9 olarak ayarla. |
 | `Shift` (zaman çizgisinde sürüklerken) | Nota ızgara bölücü ayarını yoksay. |
 | `J` | Seçimi 1 bölüm geriye ötele. |
 | `K` | Seçimi 1 bölüm ileriye ötele. |

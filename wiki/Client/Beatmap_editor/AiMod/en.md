@@ -2,7 +2,7 @@
 
 ![](img/AiMod.jpg "The AiMod window lists warnings and errors about a beatmap.")
 
-**AiMod** is a tool built into the [beatmap editor](/wiki/Beatmap_Editor) that detects problems in a [beatmap](/wiki/Beatmap). It can be opened via the menu option `File` > `Open AiMod` or the [shortcut keys](/wiki/Shortcut_key_reference) `Ctrl` + `Shift` + `A`.
+**AiMod** is a tool built into the [beatmap editor](/wiki/Client/Beatmap_editor) that detects problems in a [beatmap](/wiki/Beatmap). It can be opened via the menu option `File` > `Open AiMod` or the [shortcut keys](/wiki/Client/Keyboard_shortcuts) `Ctrl` + `Shift` + `A`.
 
 While AiMod can be useful for catching basic issues in a map, it is not a replacement for [modding](/wiki/Modding) done by real people. AiMod cannot evaluate the quality of a map or pick out complex issues such as poor [patterning](/wiki/Beatmap/Pattern) or [timing](/wiki/Guides/How_to_Time_Songs). When [creating a map](/wiki/Beatmapping), it is recommended to fix AiMod's warnings first, then ask for other [modders'](/wiki/Modding/Modder) help.
 
@@ -95,7 +95,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Message | Explanation | Solution |
 | :-- | :-- | :-- |
 | Background image is larger than 2560x1440. | *Self-explanatory* | Resize or replace the background image. |
-| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | The storyboard elements change very quickly. | Enable the `Display epilepsy warning (storyboard has quick strobing)` option in the Design tab of the [song setup](/wiki/Beatmap_Editor/Song_Setup). |
+| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | The storyboard elements change very quickly. | Enable the `Display epilepsy warning (storyboard has quick strobing)` option in the Design tab of the [song setup](/wiki/Client/Beatmap_editor/Song_Setup). |
 | <!-- Not sure how to test this one -->{0}'s dimensions must be {1}x{1} |  |  |
 | Your video's dimensions must not exceed 1024x768 for the 4:3 format. | *Self-explanatory* | Resize or replace the background video. |
 | Your video's dimensions must not exceed 1280x720 for the 16:9 format. | *Self-explanatory* | Resize or replace the background video. |
@@ -169,7 +169,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 <!-- TODO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
 
 - **AiMod cannot detect a large number of issues** that are considered unrankable by the [ranking criteria](/wiki/Ranking_Criteria), such as potentially missnapped objects, delayed hitsounds, background filesize above 2.5MB, etc.
-- **AiMod may warn you of non-issues**, such as the mapset needing two standard difficulties on a [marathon](/wiki/Beatmap/Marathon) map and [kiai time](/wiki/Kiai_time) being toggled on for less than 15 seconds.
+- **AiMod may warn you of non-issues**, such as the mapset needing two standard difficulties on a [marathon](/wiki/Beatmap/Marathon) map and [kiai time](/wiki/Gameplay/Kiai_time) being toggled on for less than 15 seconds.
 - **If `Check distance snap` is enabled, AiMod will not check the distance snap between combos.**
 - **If there are multiple MP3 files in the beatmap folder, AiMod may warn you of multiple song files**, however MP3 files can also be used for sound effects such as applause.
 

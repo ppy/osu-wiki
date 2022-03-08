@@ -24,7 +24,7 @@ no_native_review: true
 
 | 项目 | 频道 |
 | :-- | :-- |
-| [osu!lazer](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [osu!](/wiki/Game_mode/osu!) [星级](/wiki/Beatmapping/Star_rating)和 [PP](/wiki/Performance_points) | `#difficulty-osu` |
@@ -33,6 +33,8 @@ no_native_review: true
 | [osu!mania](/wiki/Game_mode/osu!mania) 星级和 PP | `#difficulty-mania` |
 | [月赛](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
+| [Official tournament support](/wiki/Tournaments/Official_support) | `#tournaments` |
+| [osu! community meetings](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
 | [摸图](/wiki/Modding)讨论区和 [NAT 会议](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

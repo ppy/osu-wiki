@@ -1,6 +1,6 @@
 # Song setup window
 
-Song Setup is the fourth section of the [Beatmap Editor](/wiki/Beatmap_Editor). It contains metadata and general beatmap configuration settings.
+Song Setup is the fourth section of the [Beatmap Editor](/wiki/Client/Beatmap_editor). It contains metadata and general beatmap configuration settings.
 
 ## General
 
@@ -80,9 +80,9 @@ The common notation to represent a difficulty setting and its value is the setti
 
 HP Drain Rate, commonly abbreviated as HP, determines the rate of health recovery from good hit scores and health punishment from bad hit scores. The value ranges from 0 to 10; higher HP values will give lower health recovery with higher health punishment.
 
-In osu! and osu!catch, this also affects the [Passive HP](/wiki/Glossary/Health_bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Beatmap/Break).
+In osu! and osu!catch, this also affects the [Passive HP](/wiki/Client/Interface/Health_bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Beatmap/Break).
 
-*Note: More HP is recovered with [Geki](/wiki/Geki) and [Katu](/wiki/Katu) hit scores, which can be given from the last hit object in a combo.*
+*Note: More HP is recovered with [Geki](/wiki/Gameplay/Judgement/Geki) and [Katu](/wiki/Gameplay/Judgement/Katu) hit scores, which can be given from the last hit object in a combo.*
 
 ### Circle Size
 
@@ -160,7 +160,7 @@ While Half Time and Double Time do not change the actual OD value, the speed's e
 
 ### Default Sample Settings
 
-Configuration for hitsounds. Using this will apply globally over the entire beatmap; however, using the [timing](/wiki/Beatmap_Editor/Timing) sections (`F6`), the creator can change both hitsound sets or volume individually through timing points. `Sample Set Selection` and the `Sample Set Volume` will be inaccessible if there are any timing-sensitive volume adjustments used in the beatmap. Clicking on the `Reset Settings` button will remove all the custom timing volume adjustments.
+Configuration for hitsounds. Using this will apply globally over the entire beatmap; however, using the [timing](/wiki/Client/Beatmap_editor/Timing) sections (`F6`), the creator can change both hitsound sets or volume individually through timing points. `Sample Set Selection` and the `Sample Set Volume` will be inaccessible if there are any timing-sensitive volume adjustments used in the beatmap. Clicking on the `Reset Settings` button will remove all the custom timing volume adjustments.
 
 #### Sample Set Selection
 
@@ -253,7 +253,7 @@ Objects are considered to belong to same stack if they are at the same coordinat
 
 *Note: osu!mania has its own beatmap editor that is different from the typical beatmap editor.*
 
-The `Use special style(N+1 style) for mania` checkbox does not do anything, considering the player can set a personal preference specifically in the [Options](/wiki/Options) using the `osu!mania layout` button.
+The `Use special style(N+1 style) for mania` checkbox does not do anything, considering the player can set a personal preference specifically in the [Options](/wiki/Client/Options) using the `osu!mania layout` button.
 
 ## Trivia
 

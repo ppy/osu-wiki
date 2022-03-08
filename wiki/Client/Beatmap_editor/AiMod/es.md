@@ -6,9 +6,9 @@ no_native_review: true
 
 ![](img/AiMod.jpg "La ventana AiMod enlista advertencias y errores de un beatmap.")
 
-**AiMod** es una herramienta incluida en el [beatmap editor](/wiki/Beatmap_Editor) que detecta problemas en un [beatmap](/wiki/Beatmap). Puede abrirse en el menú `Archivo` > `Abrir AiMod` o con el [acceso directo](/wiki/Shortcut_key_reference) `Ctrl` + `Shift` + `A`.
+**AiMod** es una herramienta incluida en el [beatmap editor](/wiki/Client/Beatmap_editor) que detecta problemas en un [beatmap](/wiki/Beatmap). Puede abrirse en el menú `Archivo` > `Abrir AiMod` o con el [acceso directo](/wiki/Client/Keyboard_shortcuts) `Ctrl` + `Shift` + `A`.
 
-Mientras que Aimod puede ser útil al momento de detectar problemas básicos en un mapa, éste no es un reemplazo para el [modeo](/wiki/Modding) realizado por personas reales. AiMod no puede evaluar la calidad del mapa o resolver problemas complejos como un pobre [patrón](/wiki/Beatmap/Pattern) o [timing](/wiki/Beatmap_Editor/Timing). Al momento de crear un mapa, es recomendable arreglar las advertencias de AiMod, luego pedirle a otro [modder](/wiki/Modding/Modder).
+Mientras que Aimod puede ser útil al momento de detectar problemas básicos en un mapa, éste no es un reemplazo para el [modeo](/wiki/Modding) realizado por personas reales. AiMod no puede evaluar la calidad del mapa o resolver problemas complejos como un pobre [patrón](/wiki/Beatmap/Pattern) o [timing](/wiki/Client/Beatmap_editor/Timing). Al momento de crear un mapa, es recomendable arreglar las advertencias de AiMod, luego pedirle a otro [modder](/wiki/Modding/Modder).
 
 El desarrollo de AiMod usualmente está por debajo de los estándares de la comunidad del mapeo y los [Criterios de ranking](/wiki/Ranking_Criteria), y como resultado, [algunos resultados son considerados incorrectos](#defectos).
 
@@ -171,7 +171,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 ## Defectos
 
 - **Aimod no puede detectar un gran número de problemas** que estén considerados inrankeables por el [Criterio de ranking](/wiki/Ranking_Criteria), como objetos potencialmente mal encajados, sonidos atrasados, imagen de fondo sobre los 2.5MB, etc.
-- **AiMod puede advertirte sobre cosas que no son un problema**, como que el conjunto de mapas necesite dos dificultades standard en un mapa de estilo [marathon](/wiki/Beatmap/Marathon) y [tiempo kiai](/wiki/Kiai_time) siendo activado por menos de 15 segundos.
+- **AiMod puede advertirte sobre cosas que no son un problema**, como que el conjunto de mapas necesite dos dificultades standard en un mapa de estilo [marathon](/wiki/Beatmap/Marathon) y [tiempo kiai](/wiki/Gameplay/Kiai_time) siendo activado por menos de 15 segundos.
 - **Si `Check distance snap` está activo, AiMod no revisará la distancia entre combos.**
 - **Si hay múltiples archivos MP3 en la carpeta del beatmap, AiMod puede advertirte sobre múltiples archivos de canciones**, sin embargo, los arvchivos MP3 también pueden ser usados para efectos de sonido como los aplausos.
 

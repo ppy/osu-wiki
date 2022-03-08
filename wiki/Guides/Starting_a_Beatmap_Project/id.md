@@ -6,7 +6,7 @@
 
 *Ya, judul utasmu menjadi penentu bagi pengguna osu! yang akan "tertarik" atau "tidak tertarik" pada proyek beatmap-mu, bahkan sebelum mereka masuk pada utas tersebut!*
 
-`[Discography]`/`[Album]`/`[Collab]` harus menjadi prefiks pada judul utas. Utasmu dapat diabaikan atau dipindahkan ke [Abandoned Wasteland](/wiki/Abandoned_wasteland) jika utasmu tidak memiliki cukup informasi.
+`[Discography]`/`[Album]`/`[Collab]` harus menjadi prefiks pada judul utas. Utasmu dapat diabaikan atau dipindahkan ke [Abandoned Wasteland](/wiki/Community/Forum/Abandoned_Wasteland) jika utasmu tidak memiliki cukup informasi.
 
 Contoh yang baik:
 

@@ -19,7 +19,7 @@ Setiap topik pengembangan yang dibahas telah memiliki *channel* masing - masing:
 
 | Proyek | Channel |
 | :-- | :-- |
-| [osu!lazer](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmapping/Star_rating) dan [performance points](/wiki/Performance_points) | `#difficulty-osu` |
@@ -28,6 +28,8 @@ Setiap topik pengembangan yang dibahas telah memiliki *channel* masing - masing:
 | [osu!mania](/wiki/Game_mode/osu!mania) star rating dan performance points | `#difficulty-mania` |
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
+| [Dukungan resmi turnamen](/wiki/Tournaments/Official_support) | `#tournaments` |
+| [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
 | Diskusi [Modding](/wiki/Modding) dan [Pertemuan anggota NAT](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

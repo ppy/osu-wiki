@@ -16,8 +16,8 @@ Afin de garantir la sécurité des centres officiels de la communauté, osu! dis
 
 Heureusement, il est encore facile pour vous de contribuer à la sécurité du site. Voici quelques-unes des nombreuses façons dont vous pouvez nous aider :
 
-- Suivez vos canaux de discussion préférés dans le [tchat en jeu d'osu!](/wiki/Chat_Console), ou sur les forums.
-- Si vous êtes témoin d'un événement que vous jugez inapproprié ou dérangeant, utilisez [la commande `!report`](/wiki/Reporting_Bad_Behaviour) dans le tchat du jeu pour en informer les modérateurs.
+- Suivez vos canaux de discussion préférés dans le [tchat en jeu d'osu!](/wiki/Client/Interface/Chat_console), ou sur les forums.
+- Si vous êtes témoin d'un événement que vous jugez inapproprié ou dérangeant, utilisez [la commande `!report`](/wiki/Reporting_bad_behaviour) dans le tchat du jeu pour en informer les modérateurs.
 
 ## Aidez les autres membres de la communauté
 
@@ -58,9 +58,9 @@ Vous trouverez ci-dessous quelques-unes des façons dont vous pouvez contribuer 
 
 ## Contribuez à l'avenir d'osu!
 
-Démarré en 2017, le projet osu!lazer est le centre d'intérêt actuel de [l'équipe d'osu!](/wiki/People/The_Team), ainsi que le nouveau site web, qui est ce que vous voyez aujourd'hui ! Si vous souhaitez aider à rendre ces projets encore meilleurs et nous rapprocher de l'avenir d'osu!, il y a un certain nombre de choses que vous pouvez faire, mais ci-dessous ne sont que quelques exemples :
+Démarré en 2017, le projet osu!(lazer) est le centre d'intérêt actuel de [l'équipe d'osu!](/wiki/People/The_Team), ainsi que le nouveau site web, qui est ce que vous voyez aujourd'hui ! Si vous souhaitez aider à rendre ces projets encore meilleurs et nous rapprocher de l'avenir d'osu!, il y a un certain nombre de choses que vous pouvez faire, mais ci-dessous ne sont que quelques exemples :
 
-- Aider le projet [osu!lazer](https://github.com/ppy/osu). Il y a tellement de choses à implémenter dans la nouvelle version d'osu! et vous pouvez aider à les réaliser !
+- Aider le projet [osu!(lazer)](https://github.com/ppy/osu). Il y a tellement de choses à implémenter dans la nouvelle version d'osu! et vous pouvez aider à les réaliser !
 - Rendre le [nouveau site web](https://github.com/ppy/osu-web) encore meilleur.
 
 ## Évitez d'être négatif ! Rendez les gens heureux !
@@ -68,7 +68,7 @@ Démarré en 2017, le projet osu!lazer est le centre d'intérêt actuel de [l'é
 Un vieux dicton dit qu'il faut faire partie de la solution et non du problème. En suivant ce vieux dicton, vous aideriez osu! en rendant la communauté plus lumineuse. Les gens se plaindront toujours, mais il existe encore de nombreuses façons de contribuer à améliorer l'humeur de la communauté :
 
 - Soyez amicaux les uns envers les autres ; la vie est trop courte pour se disputer.
-- [Signalez les tricheurs lorsque vous les voyez](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Veuillez ne pas vous plaindre d'eux par d'autres moyens, car un simple `!report <username> seems to be cheating` peut régler vos problèmes en quelques minutes ou quelques heures.
+- [Signalez les tricheurs lorsque vous les voyez](/wiki/Reporting_bad_behaviour/Handling_foul_play). Veuillez ne pas vous plaindre d'eux par d'autres moyens, car un simple `!report <username> seems to be cheating` peut régler vos problèmes en quelques minutes ou quelques heures.
 - Faites tout ce que vous pouvez pour gérer les situations négatives et les transformer en résultats positifs.
 
 **Bien que cet article ne puisse pas couvrir tout ce que vous pouvez faire pour aider la communauté d'osu!, le simple fait de jouer peut rendre osu! encore plus génial !**

@@ -17,7 +17,7 @@ The **Global Moderation Team** (formerly known as the Global Mod Team, Administr
 ## Roles and responsibilities
 
 ***Note: To report a moderator misbehaving or breaking the Contributor Code of Conduct, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
-*See also: [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour)*
+*See also: [Reporting Bad Behaviour](/wiki/Reporting_bad_behaviour)*
 
 The Global Moderation Team is responsible for the welfare of the chat and forum, and takes care of interactions within the community. They should be approached with any questions pertaining the moderation aspect of the game, which would include (but is not limited to):
 
@@ -35,7 +35,7 @@ Becoming a member of the Global Moderation Team requires a notable amount of con
 The most important factors for consideration are behaviour, activity, understanding of [the rules](/wiki/Rules), and patience:
 
 1. Demonstrate good behaviour by being polite and treating other users with respect. Keeping your account free of any serious silences or issues is essential.
-2. Demonstrate in-game activity by participating in the chat and/or the forums. [Report any misbehaviour](/wiki/Reporting_Bad_Behaviour) and problems via the report system. Answer questions and assist others with issues.
+2. Demonstrate in-game activity by participating in the chat and/or the forums. [Report any misbehaviour](/wiki/Reporting_bad_behaviour) and problems via the report system. Answer questions and assist others with issues.
 3. Have a proper understanding of [the rules](/wiki/Rules) and how they are applied. It is important to know what is acceptable within osu! and what is not.
 4. Be patient. The GMT does not spontaneously add members who have been helping for just a few days. It takes time for the GMT to evaluate someone⁠—their personality, what they can help with, their activity, etc.
 
@@ -64,6 +64,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | Chinese, Malay | Chat moderation |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Chat moderation |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Swedish, Spanish | Chat moderation, tournament management |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | Chat moderation |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Korean, Japanese | Chat moderation |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turkish | Chat moderation |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Chat moderation, forum moderation |
@@ -101,6 +102,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Chat moderation |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | German | Tournament management |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | French, some Spanish | Chat moderation |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portuguese | Chat moderation |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Cantonese, Chinese | Chat moderation |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Korean, Japanese | Chat moderation |
@@ -165,6 +167,8 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | `#vietnamese` |  |  |
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
+
+<!--- Updated as of February 17, 2022 with adding Pachiru back into the GMT---> 
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

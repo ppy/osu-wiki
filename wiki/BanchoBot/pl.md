@@ -6,11 +6,11 @@ outdated: true
 
 ![Panel użytkownika BanchoBota](img/BanchoBot.jpg "Panel użytkownika BanchoBota")
 
-BanchoBot jest botem (zestawem komend ze zautomatyzowanymi odpowiedziami), który pomaga użytkownikom czatu poprzez wyświetlanie określonych informacji i komunikatów związanych z grą. Został on zaprogramowany przez [Echo49](https://osu.ppy.sh/users/431) i jest hostem [serwera Bancho](/wiki/Internet_Relay_Chat). BanchoBot posiada także swój własny [profil osu!](https://osu.ppy.sh/users/3) oraz [konto na Twitterze](https://twitter.com/banchoboat)!
+BanchoBot jest botem (zestawem komend ze zautomatyzowanymi odpowiedziami), który pomaga użytkownikom czatu poprzez wyświetlanie określonych informacji i komunikatów związanych z grą. Został on zaprogramowany przez [Echo49](https://osu.ppy.sh/users/431) i jest hostem [serwera Bancho](/wiki/Community/Internet_Relay_Chat). BanchoBot posiada także swój własny [profil osu!](https://osu.ppy.sh/users/3) oraz [konto na Twitterze](https://twitter.com/banchoboat)!
 
 ## Komendy
 
-*Listę komend klienta gry możesz sprawdzić tutaj: [Czat](/wiki/Chat_Console)*
+*Listę komend klienta gry możesz sprawdzić tutaj: [Czat](/wiki/Client/Interface/Chat_console)*
 
 Komendy BanchoBota składają się z komend poprzedzonych znakiem `!`. Działają one zarówno w grze jak i zewnętrznych klientach IRC. Komendy mogą zostać użyte na kanałach trybu wieloosobowego, jak i w rozmowie prywatnej z BanchoBotem. Jeżeli zwykły użytkownik użyje komendy BanchoBota na kanale publicznym, inni użytkownicy jej nie zobaczą, a odpowiedź zostanie wyświetlona w prywatnej wiadomości od BanchoBota.
 

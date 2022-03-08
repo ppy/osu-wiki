@@ -22,7 +22,7 @@ no_native_review: true
 
 - 需要 [osu!supporter](/wiki/osu!supporter) 才能更改。
 - 在關閉 osu! 時播放。
-- 可以在[設定](/wiki/Options)中停用。
+- 可以在[設定](/wiki/Client/Options)中停用。
 
 ---
 
@@ -30,7 +30,7 @@ no_native_review: true
 
 - 需要 [osu!supporter](/wiki/osu!supporter) 才能更改。
 - 在開啟 osu! 時播放。
-- 可以在[設定](/wiki/Options)中停用。
+- 可以在[設定](/wiki/Client/Options)中停用。
 
 ### 按鍵
 

@@ -23,7 +23,7 @@ Bien qu'il existe d'innombrables façons de découvrir les beatmaps à modder, v
 
 ## Comment modder
 
-Pour modder une beatmap, commencez par télécharger la version la plus récente et ouvrez sa [page de discussion](/wiki/Beatmap_Discussion). Jouez à la [difficulté](/wiki/Beatmap/Difficulty) que vous souhaitez modifier et gardez à l'esprit tout problème lié au gameplay. Lorsque vous avez terminé, ouvrez la difficulté dans l'éditeur et analysez-la à la recherche d'autres problèmes.
+Pour modder une beatmap, commencez par télécharger la version la plus récente et ouvrez sa [page de discussion](/wiki/Beatmap_discussion). Jouez à la [difficulté](/wiki/Beatmap/Difficulty) que vous souhaitez modifier et gardez à l'esprit tout problème lié au gameplay. Lorsque vous avez terminé, ouvrez la difficulté dans l'éditeur et analysez-la à la recherche d'autres problèmes.
 
 Lorsque vous rencontrez un problème, sélectionnez tous les objets pertinents, puis utilisez le raccourci de copie (`Ctrl` + `C`) pour copier leurs informations d'horodatage en tant que texte. Sur la discussion d'une beatmap, collez (`Ctrl` + `V`) les horodatages applicables et vos commentaires. L'onglet `Chronologie` est utilisé pour les problèmes concernant des parties spécifiques d'une beatmap, l'onglet `Général (cette difficulté)` est utilisé pour les commentaires sur de plus grandes sections d'une beatmap, et l'onglet `Général (Toutes les difficultés)` est utilisé pour les problèmes applicables à toutes les difficultés d'une beatmap.
 

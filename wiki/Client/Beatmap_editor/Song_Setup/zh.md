@@ -40,7 +40,7 @@ outdated: true
 
 在编辑模式的歌曲选择界面中显示为"**HP**"。
 
-掉血率，除了在[休息时段外保持恒定](/wiki/Beatmap/Break)。miss 会导致更多的扣血，通过[得分和转盘可以回血](/wiki/Score)。通过一组物件末尾的[“激”和“喝”可以回复更多血量](/wiki/Score)。
+掉血率，除了在[休息时段外保持恒定](/wiki/Beatmap/Break)。miss 会导致更多的扣血，通过[得分和转盘可以回血](/wiki/Gameplay/Score)。通过一组物件末尾的[“激”和“喝”可以回复更多血量](/wiki/Gameplay/Score)。
 
 ### Note 大小设定(Circle Size)
 
@@ -106,7 +106,7 @@ Approach Rate 通常缩写为"**AR**"。
 
 ### 星数评价(Approximate Difficulty Rating)
 
-这是对你在本选项卡中选项的设定的星数评价。更多星数意味着更高的[分数](/wiki/Score)。但这并不等于谱面的最终星数，仅是一个粗略的估计。
+这是对你在本选项卡中选项的设定的星数评价。更多星数意味着更高的[分数](/wiki/Gameplay/Score)。但这并不等于谱面的最终星数，仅是一个粗略的估计。
 
 ## 音效(Audio)
 
@@ -116,7 +116,7 @@ Approach Rate 通常缩写为"**AR**"。
 
 这里你可以设定你喜欢并且适合谱面的音效。
 
-如果你用[timing](/wiki/Beatmap_Editor/Timing)(绿线或红线) 改变了音效或者音效的音量，你就不能在这里设定音效及其音量了。你可以点击\[reset settings\]移除改变音效或者音量的相应红线或绿线。
+如果你用[timing](/wiki/Client/Beatmap_editor/Timing)(绿线或红线) 改变了音效或者音效的音量，你就不能在这里设定音效及其音量了。你可以点击\[reset settings\]移除改变音效或者音量的相应红线或绿线。
 
 #### 音效选择(Sample Set Selection)
 

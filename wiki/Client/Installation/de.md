@@ -1,8 +1,8 @@
 # Installation
 
-*Siehe auch: [Installation auf macOS](/wiki/Installation/macOS)*
+*Siehe auch: [Installation auf macOS](/wiki/Client/Installation/macOS)*
 
-Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum Laufen bekommst. Die [osu!academy](/wiki/osu!academy) hat auch ein englisches [Videotutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) zu diesem Thema.
+Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum Laufen bekommst. Die [osu!academy](/wiki/Community/Video_series/osu!academy) hat auch ein englisches [Videotutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) zu diesem Thema.
 
 ## Mindestanforderungen
 
@@ -50,14 +50,14 @@ Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!
 
 ### osu!direct
 
-*Hinweis: Hierzu benötigt man einen osu!supporter-Tag und eine aktive Internetverbindung.*
+*Hinweis: Hierzu benötigt man ein osu!supporter-Tag und eine aktive Internetverbindung.*
 
-1. Öffne osu! und klicke den osu!direct-Knopf auf der rechten Seite des Hauptbilschirms.
+1. Öffne osu! und klicke den osu!direct-Button auf der rechten Seite des Hauptbildschirms.
 2. Such' dir ein Lied aus, das du gerne spielen würdest.
 3. Klicke zum Herunterladen doppelt auf das Lied in der Liste, oder klicke `Download` auf der rechten Seite.
    - Wenn du das Hintergrundvideo nicht herunterladen willst, klicke stattdessen auf `DL NoVideo`.
 4. Wenn osu! die Beatmap heruntergeladen hat, wird sie automatisch geladen.
-   - Falls du die neue Beatmap aus irgendeinem Grund nicht sehen kannst, drücke `F5` in der [Liedauswahl](/wiki/Interface#song-selection-screen), um alle Beatmaps erneut zu verarbeiten.
+   - Falls du die neue Beatmap aus irgendeinem Grund nicht sehen kannst, drücke `F5` in der [Songauswahl](/wiki/Client/Interface#song-select), um alle Beatmaps erneut zu verarbeiten.
 
 ## Skins hinzufügen
 
@@ -73,5 +73,5 @@ Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!
      1. Entpacke das Archiv.
      2. Verschiebe den entpackten Ordner in das `Skins`-Verzeichnis deiner osu!-Installation.
      3. Wenn osu! geöffnet ist, wird der Skin nach dem Drücken von `Strg` + `Alt` + `Shift` + `S` erscheinen.
-     4. Begib dich in osu! in die [Optionen](/wiki/Options) und suche nach `Skin`.
-     5. Scrolle runter zur `Current skin:`-Option und wähle deinen neuen Skin aus.
+     4. Begib dich in osu! in die [Optionen](/wiki/Client/Options) und suche nach `Skin`.
+     5. Scrolle runter zur Option `Skin auswählen` und wähle deinen neuen Skin aus.

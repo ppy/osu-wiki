@@ -6,7 +6,7 @@
 
 *En effet, le titre de votre fil de discussion déterminera si les autres utilisateurs d'osu! vont dire "oui" ou "non" à votre beatmap project, avant même de cliquer dessus !*
 
-`[Discography]` / `[Album]` / `[Collab]` doit être ajouté avant le titre. Il y a de fortes chances que votre projet soit ignoré ou déplacé vers [Abandoned Wasteland](/wiki/Abandoned_wasteland) si le titre du fil de discussion n'est pas assez descriptif.
+`[Discography]` / `[Album]` / `[Collab]` doit être ajouté avant le titre. Il y a de fortes chances que votre projet soit ignoré ou déplacé vers [Abandoned Wasteland](/wiki/Community/Forum/Abandoned_Wasteland) si le titre du fil de discussion n'est pas assez descriptif.
 
 De bons exemples :
 

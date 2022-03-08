@@ -50,7 +50,7 @@ En osu!mania, la precisión es calculada de forma similar a [osu!](#-osu!).
 
 El Gráfico de rendimiento es un gráfico que muestra el rendimiento del jugador (basado en su barra de vida) en el transcurso de un beatmap (tiempo). Se puede mostrar información adicional al pasar el cursor sobre él.
 
-*Nota: La información adicional solo se puede ver después de reproducir un beatmap o ver una repetición exportada. Después de salir de la [pantalla de resultados](/wiki/Interface#results-screen), esta información no se guardará.*
+*Nota: La información adicional solo se puede ver después de reproducir un beatmap o ver una repetición exportada. Después de salir de la [pantalla de resultados](/wiki/Client/Interface#results-screen), esta información no se guardará.*
 
 ### Precisión
 

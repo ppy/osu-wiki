@@ -8,7 +8,7 @@ date: 2021-05-14 21:45:00 +0000
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-For those unfamiliar, Project Loved hosts monthly votings to decide which nominated maps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). You can click on each of the map's banners in this post to go to its poll on the forums. More info is on the [wiki page](/wiki/Project_Loved)!
+For those unfamiliar, Project Loved hosts monthly votings to decide which nominated maps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). You can click on each of the map's banners in this post to go to its poll on the forums. More info is on the [wiki page](/wiki/Community/Project_Loved)!
 
 Lately there has been a lot of discussion in the `#osu-loved` channel of [osu!dev](https://discord.gg/ppy) about changes to Project Loved, big and small. While not much has gone into effect yet, I want to outline some of what we're working on so you know what to expect and can jump into the conversations if you're interested:
 
@@ -307,6 +307,6 @@ With the song being such a joy to listen to, pairing the fun and bouncy structur
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Project_Loved). See you next month!
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved). See you next month!
 
 —clayton

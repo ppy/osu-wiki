@@ -1,6 +1,6 @@
 # Médailles
 
-Les **médailles**, précédemment connues sous le nom de *réalisations*, sont des badges sur le profil d'un utilisateur qui indiquent certains objectifs qui ont été atteints par l'utilisateur. Actuellement, il y a **247** médailles à débloquer dans huit catégories différentes au total : [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), et [Beatmap Challenge Packs](#beatmap-challenge-packs).
+Les **médailles**, précédemment connues sous le nom de *réalisations*, sont des badges sur le profil d'un utilisateur qui indiquent certains objectifs qui ont été atteints par l'utilisateur. Actuellement, il y a **261** médailles à débloquer dans huit catégories différentes au total : [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), et [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -8,7 +8,7 @@ Les médailles **Beatmap Packs** sont des médailles attribuées après avoir te
 
 Toutes les beatmaps doivent être jouées dans le mode de jeu [osu!](/wiki/Game_mode/osu!) pour obtenir le badge, sauf indication contraire. L'utilisation de [mods réduisant la difficulté](/wiki/Game_modifier#difficulté-réduite) ou de [mods augmentant la difficulté](/wiki/Game_modifier#difficulté-augmentée) est autorisée.
 
-Il convient toutefois de noter que le contenu de tous les packs Video Game Packs, Anime Packs, Internet! Packs et Rhythm Game Packs a été considérablement modifié depuis [leur première introduction en 2008](https://osu.ppy.sh/community/forums/topics/1853). Pour la liste de ces beatmaps packs dans leur état d'origine, voir [Anciens beatmaps packs](/wiki/Medals/Legacy_Beatmap_Packs).
+Il convient toutefois de noter que le contenu de tous les packs Video Game Packs, Anime Packs, Internet! Packs et Rhythm Game Packs a été considérablement modifié depuis [leur première introduction en 2008](https://osu.ppy.sh/community/forums/topics/1853). Pour la liste de ces beatmaps packs dans leur état d'origine, voir [Anciens beatmaps packs](/wiki/Medals/Legacy_beatmap_packs).
 
 ## Skill
 

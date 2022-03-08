@@ -1,6 +1,6 @@
 # Skinning du mode osu!taiko
 
-Vous pouvez remplacer les parties du playfield osu!taiko en créant un dossier appelé `taiko` dans votre dossier skin. Si cette approche est utilisée, l'utilisateur devra explicitement l'activer dans les [options](/wiki/Options) (activer le bouton `Utiliser le skin Taiko pour le mode Taiko`), sinon les éléments du skin par défaut seront utilisés.
+Vous pouvez remplacer les parties du playfield osu!taiko en créant un dossier appelé `taiko` dans votre dossier skin. Si cette approche est utilisée, l'utilisateur devra explicitement l'activer dans les [options](/wiki/Client/Options) (activer le bouton `Utiliser le skin Taiko pour le mode Taiko`), sinon les éléments du skin par défaut seront utilisés.
 
 ## Pippidon
 
@@ -36,7 +36,7 @@ Notes :
 - Nom de l'animation : `pippidonfail{n}.png`.
 - Le taux d'animation dépend du BPM.
 - Cette animation est joué lorsque le joueur rate une note ou n'a pas assez de santé pendant une pause.
-- Ceci remplace `pippidonkiai` si le joueur manque une note pendant le [kiai time](/wiki/Kiai_time).
+- Ceci remplace `pippidonkiai` si le joueur manque une note pendant le [kiai time](/wiki/Gameplay/Kiai_time).
 
 ---
 
@@ -68,7 +68,7 @@ Notes :
 
 - Nom de l'animation : `pippidonkiai{n}.png`.
 - Le taux d'animation dépend du BPM.
-- Cette animation est jouée pendant la [kiai time](/wiki/Kiai_time).
+- Cette animation est jouée pendant la [kiai time](/wiki/Gameplay/Kiai_time).
 - `pippidonfail.png` remplace ceci si le joueur manque une note pendant le kiai time.
 
 ## Hit Bursts
@@ -263,7 +263,7 @@ Notes :
 
 - Le status de modifiable sur une beatmap est suspecté d'être un bug.
 - Teinté en jaune.
-- Cet élément se trouve derrière la position de frappe pendant le [kiai time](/wiki/Kiai_time), qui s'étend lorsque les notes sont touchées.
+- Cet élément se trouve derrière la position de frappe pendant le [kiai time](/wiki/Gameplay/Kiai_time), qui s'étend lorsque les notes sont touchées.
 
 ---
 
@@ -280,7 +280,7 @@ Notes :
 - Teinté en rouge-orange.
 - Il n'y a pas besoin de skinner cet élément pour osu!taiko.
   - Cet élément n'est visible que lorsqu'on utilise une barre de taiko transparente.
-- Il s'affiche derrière la barre de défilement à l'emplacement de la touche pendant le [kiai time](/wiki/Kiai_time).
+- Il s'affiche derrière la barre de défilement à l'emplacement de la touche pendant le [kiai time](/wiki/Gameplay/Kiai_time).
 
 ## Terrain de jeu (moitié supérieure)
 

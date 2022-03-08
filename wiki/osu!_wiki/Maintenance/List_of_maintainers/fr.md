@@ -2,7 +2,7 @@
 
 Les maintainers jettent régulièrement un œil au [suivi des issues](https://github.com/ppy/osu-wiki/issues) et examinent les pull requests des contributeurs. Contrairement aux autres contributeurs, ils peuvent modifier les pull requests et les merge dans la branche `master` du dépôt, rendant ainsi les changements publics.
 
-Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une review de votre pull request, envoyez un message dans le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server) et un maintainer ou un autre contributeur vous répondra (tous les maintainers comprennent l'anglais).
+Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une review de votre pull request, envoyez un message dans le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server) et un maintainer ou un autre contributeur vous répondra (tous les maintainers comprennent l'anglais).
 
 ## L'équipe du wiki
 
@@ -25,7 +25,7 @@ Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une rev
 
 ## L'équipe de rédaction
 
-Curateur, rédacteurs et approbateurs de tous les [news posts](https://osu.ppy.sh/home/news) qui apparaissent sur le site web.
+Curateurs, rédacteurs et approbateurs de tous les [news posts](https://osu.ppy.sh/home/news) qui apparaissent sur le site web.
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |

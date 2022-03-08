@@ -82,7 +82,7 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Ev genel idarecisi, Dünya Kupası organizatörü ve yöneticisi, wiki idarecisi |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! geliştiricisi, osu!mania modu geliştiricisi |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) sorumlusu |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) profesörü, medya ve karakter tasarımcısı |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Community/Video_series/osu!academy) profesörü, medya ve karakter tasarımcısı |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
 [flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"

@@ -1,8 +1,8 @@
 # Cài đặt
 
-*Xem thêm: [Cài đặt trên macOS](/wiki/Installation/macOS)*
+*Xem thêm: [Cài đặt trên macOS](/wiki/Client/Installation/macOS)*
 
-Trang này sẽ hướng dẫn bạn làm thế nào để làm osu! hoạt động trên thiết bị Windows của bạn. [osu!academy](/wiki/osu!academy) đã có một [video hướng dẫn](https://www.youtube.com/watch?v=0V5GwzmMhpU) làm thế nào để cài đặt osu! trên Windows.
+Trang này sẽ hướng dẫn bạn làm thế nào để làm osu! hoạt động trên thiết bị Windows của bạn. [osu!academy](/wiki/Community/Video_series/osu!academy) đã có một [video hướng dẫn](https://www.youtube.com/watch?v=0V5GwzmMhpU) làm thế nào để cài đặt osu! trên Windows.
 
 ## Yêu cầu tối thiểu
 
@@ -46,7 +46,7 @@ Có 2 cách để thêm beatmaps vào game, qua website hoặc sử dụng osu!d
 4. Tìm và mở tệp beatmap, nó có đuôi `.osz`.
    - Ngoài ra, bạn cũng có thể đặt tệp vào thư mục `Songs` bên trong nơi cài đặt osu!.
 5. osu! sẽ tự động xử lí nó cho bạn.
-   - Nếu vì lí do nào đó mà bạn không thấy beatmap đó, ấn `F5` trong [Màn hinh chọn bài hát](/wiki/Interface#song-selection-screen) để soát lại beatmap của bạn.
+   - Nếu vì lí do nào đó mà bạn không thấy beatmap đó, ấn `F5` trong [Màn hinh chọn bài hát](/wiki/Client/Interface#song-select) để soát lại beatmap của bạn.
 
 ### osu!direct
 
@@ -57,7 +57,7 @@ Có 2 cách để thêm beatmaps vào game, qua website hoặc sử dụng osu!d
 3. Nhấn đúp vào bài hát trong danh sách hoặc ấn vào nút `Download` ở bên phải để tải xuống.
    - Nếu như bạn không muốn tải xuống video đi kèm với beatmap, ấn vào nút `DL NoVideo`.
 4. Sau khi osu! hoàn tất tải xuống beatmap, nó sẽ tự động hiện lên khi bạn vào màn hình chọn bài hát.
-   - Nếu vì lí do nào đó mà bạn không thấy beatmap đó, ấn `F5` trong [Màn hinh chọn bài hát](/wiki/Interface#song-selection-screen) để rà soát lại beatmap của bạn.
+   - Nếu vì lí do nào đó mà bạn không thấy beatmap đó, ấn `F5` trong [Màn hinh chọn bài hát](/wiki/Client/Interface#song-select) để rà soát lại beatmap của bạn.
 
 ## Thêm skin
 
@@ -73,5 +73,5 @@ Có 2 cách để thêm beatmaps vào game, qua website hoặc sử dụng osu!d
      1. Giải nén nó.
      2. Chuyển folder vừa được giải nén tới thư mục `Skins` trong nơi cài đặt osu!.
      3. Nếu osu! đang chạy, skin đó sẽ chỉ hiển thị sau khi bạn ấn tổ hợp phím `Ctrl` + `Alt` + `Shift` + `S`.
-     4. Trong osu!, vào phần [Cài đặt](/wiki/Options) và tìm phần `Skin`.
+     4. Trong osu!, vào phần [Cài đặt](/wiki/Client/Options) và tìm phần `Skin`.
      5. Lăn chuột xuống phần `Current skin:` và chọn skin mà bạn đã tải.

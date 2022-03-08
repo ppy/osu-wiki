@@ -16,7 +16,7 @@ The following is a list of players who are recognised to have reached rank #1 in
 
 Over the years, there were three different systems used for ranking players:
 
-- [Ranked Score](/wiki/Score/Ranked_score) (6 October 2007 – 24 July 2012)
+- [Ranked Score](/wiki/Gameplay/Score/Ranked_score) (6 October 2007 – 24 July 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (24 July 2012 – 27 January 2014)
 - [ppv2](/wiki/Performance_points) (27 January 2014 – present)
 
@@ -26,7 +26,7 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 
 ## 2007
 
-*Note: During the period where [Ranked Score](/wiki/Score/Ranked_score) was used, the rank #1 holder would change frequently, thus the earlier listings may have reduced accuracy. Detailed information can be found on the estimated reconstruction of the Ranked Score global leaderboard, which is available [here](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
+*Note: During the period where [Ranked Score](/wiki/Gameplay/Score/Ranked_score) was used, the rank #1 holder would change frequently, thus the earlier listings may have reduced accuracy. Detailed information can be found on the estimated reconstruction of the Ranked Score global leaderboard, which is available [here](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |

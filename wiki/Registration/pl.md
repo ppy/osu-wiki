@@ -2,7 +2,7 @@
 
 *Uwaga: Posiadanie więcej niż jednego konta jest niezgodne z [zasadami gry](/wiki/Rules)!*
 
-1. Po [zainstalowaniu](/wiki/Installation) i otworzeniu gry, osu! poprosi cię o zalogowanie się lub utworzenie nowego konta. Naciśnij przycisk `Stwórz konto`, by wyświetlić formularz rejestracyjny.
+1. Po [zainstalowaniu](/wiki/Client/Installation) i otworzeniu gry, osu! poprosi cię o zalogowanie się lub utworzenie nowego konta. Naciśnij przycisk `Stwórz konto`, by wyświetlić formularz rejestracyjny.
 
    ![Formularz rejestracyjny w grze](img/ingame-registration.jpg "Formularz rejestracyjny")
 
@@ -17,6 +17,6 @@
 
 Nie zapomnij o dokładnym przeczytaniu [zasad](/wiki/Rules)!
 
-Teraz możesz rozpocząć swoją przgodę z osu!. Możesz zacząć [dodawać beatmapy](/wiki/Installation#dodawanie-zestawów-beatmap) oraz [tworzyć własne skórki](/wiki/Skinning) i [beatmapy](/wiki/Beatmapping). Nie zapomnij o [przywitaniu się](https://osu.ppy.sh/community/forums/8)!
+Teraz możesz rozpocząć swoją przgodę z osu!. Możesz zacząć [dodawać beatmapy](/wiki/Client/Installation#dodawanie-zestawów-beatmap) oraz [tworzyć własne skórki](/wiki/Skinning) i [beatmapy](/wiki/Beatmapping). Nie zapomnij o [przywitaniu się](https://osu.ppy.sh/community/forums/8)!
 
 Jeżeli potrzebujesz pomocy, możesz zadać pytanie na kanale `#help`. Aby się tam dostać, otwórz czat (naciśnij `F8` lub `F9`), a następnie wpisz `/join help`. Możesz także utworzyć nowy wątek w [podforum przeznaczonym dla pomocy](https://osu.ppy.sh/community/forums/5).

@@ -9,9 +9,9 @@ tags:
 
 # Health bar
 
-*Untuk health sebagai mekanik, kunjungi: [Health](/wiki/Beatmapping/Health)*
+*Untuk health sebagai mekanik, kunjungi: [Health](/wiki/Gameplay/Health)*
 
-**Health bar** (dikenal juga sebagai *HP bar*) adalah bar yang menampilkan sisa [health](/wiki/Beatmapping/Health) pemain. Di dalam semua [mode permainan](/wiki/Game_mode) kecuali [osu!mania](/wiki/Game_mode/osu!mania), ada indikator yang bergerak di sepanjang health bar yang menunjukkan health pemain saat ini.
+**Health bar** (dikenal juga sebagai *HP bar*) adalah bar yang menampilkan sisa [health](/wiki/Gameplay/Health) pemain. Di dalam semua [mode permainan](/wiki/Game_mode) kecuali [osu!mania](/wiki/Game_mode/osu!mania), ada indikator yang bergerak di sepanjang health bar yang menunjukkan health pemain saat ini.
 
 Di dalam [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), jika health bar habis sepenuhnya, pemain akan gagal pada [beatmap](/wiki/Beatmap) yang dimainkan (dengan asumsi tidak ada game modifier khusus yang diaktifkan).
 

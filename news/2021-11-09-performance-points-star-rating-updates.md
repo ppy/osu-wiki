@@ -162,8 +162,8 @@ Alongside all those big changes above, there are some changes on the smaller sid
 - [Sliderbreaks are now approximated into the total miss count](https://github.com/ppy/osu/pull/15086) in performance calculation, following [**StanR**](https://osu.ppy.sh/users/7217455)'s pull request. This is guessed by comparing the achieved combo to the maximum combo possible on a map. 
 - [Instant spinners no longer give an insane amount of strain](https://github.com/ppy/osu/pull/15009), thanks to [**StanR**](https://osu.ppy.sh/users/7217455). This fixes maps [such as this one](https://osu.ppy.sh/beatmapsets/814850#osu/1901200), which abused this. 
 - [**Joz**](https://osu.ppy.sh/users/10644596) spotted that the initial strain for skills started at 1, not 0. [This has been fixed](https://github.com/ppy/osu/pull/15014).
-- In preparation for osu!lazer, difficulty calculation for [the Blinds mod](https://github.com/ppy/osu/pull/14921) and [the Relax mod](https://github.com/ppy/osu/pull/14942) has been added by [**Apo11o**](https://osu.ppy.sh/users/9558549).
-  - These could be potentially enabled in the future once osu!lazer leaderboard submissions go live, since the concept of "ranked mods" will be no more.
+- In preparation for osu!(lazer), difficulty calculation for [the Blinds mod](https://github.com/ppy/osu/pull/14921) and [the Relax mod](https://github.com/ppy/osu/pull/14942) has been added by [**Apo11o**](https://osu.ppy.sh/users/9558549).
+  - These could be potentially enabled in the future once osu!(lazer) leaderboard submissions go live, since the concept of "ranked mods" will be no more.
 
 **UPDATE:** In response to community feedback, scores on slider-aim-heavy maps will now be rated lower if they are very likely to have dropped slider ends. This is done by scaling between the aim difficulty of a map with and without sliders, depending on an estimate based on score data, which should address the concerns over the current abuse cases. This hotfix also ships an additional minor nerf to slider aim.
 

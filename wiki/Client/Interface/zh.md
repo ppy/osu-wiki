@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
+---
+
 # 界面
 
 ![](img/intro-screen.jpg "初始屏幕")
@@ -6,7 +11,7 @@
 
 ![](img/main-menu.jpg "主菜单")
 
-[osu!粉饼](/wiki/Glossary/Cookie) \[1\]随着 [BPM](/wiki/Beatmapping/Beats_per_minute) 跳动，此外，从osu!粉饼延伸出来的条的长度与歌曲的音量一致。如果没有在播放歌曲或者暂停播放，osu!粉饼就会以60BPM的速度跳动。主菜单的元素如下：
+[osu!粉饼](/wiki/Client/Interface/Cookie) \[1\]随着 [BPM](/wiki/Beatmapping/Beats_per_minute) 跳动，此外，从osu!粉饼延伸出来的条的长度与歌曲的音量一致。如果没有在播放歌曲或者暂停播放，osu!粉饼就会以60BPM的速度跳动。主菜单的元素如下：
 
 - \[2\] 点击 Play （`P`） 或者 osu! 标志进入次级选择界面。
 - \[3\] 点击 Edit （`E`） 进入地图编辑器的歌曲选择界面。
@@ -15,7 +20,7 @@
 - \[6\] 在主菜单下方会有随机的游戏提示。
 - \[7\] 左下角是 osu! 官网的链接，以及版权信息。
 - \[8\] 与[Bancho](/wiki/Bancho_(server))的连接状态，在这张图总没有显示，但是连接的结果应该像一个链条。
-- \[9\] 右下角的是扩展[聊天窗口](/wiki/Chat_Console)的控制开关 (叫做"玩家列表") 和常规聊天窗口 （分别对应 `F9` 和 `F8`）。
+- \[9\] 右下角的是扩展[聊天窗口](/wiki/Client/Interface/Chat_console)的控制开关 (叫做"玩家列表") 和常规聊天窗口 （分别对应 `F9` 和 `F8`）。
 - \[10\] 在右上角是osu!随机播放歌曲的控制器。顶部显示了当前正在播放的歌曲。从左到右，这些按钮的作用如下:
   - 上一首
   - 播放
@@ -33,7 +38,7 @@
 点击屏幕左上角的用户面板以打开用户选项。此时将无法使用聊天界面。点击相应的选项以完成操作。
 
 1. `查看个人资料`：在浏览器中打开玩家主页。
-2. `注销`：退出登录 （退出登录后，[设置](/wiki/Options) 侧边栏会提醒你登录）。
+2. `注销`：退出登录 （退出登录后，[设置](/wiki/Client/Options) 侧边栏会提醒你登录）。
 3. `修改头像`：在浏览器中打开更改头像页面。
 4. `关闭` ：关闭此窗口。
 
@@ -42,12 +47,12 @@
 ![](img/play-menu.jpg "游戏界面")
 
 - 点击 `Solo`（`P`）以进行单机游戏
-- 点击 `Multi`（`M`）以进行多人联机，你会被重定向至[多人游戏](/wiki/Multi)大厅（见下文）。
+- 点击 `Multi`（`M`）以进行多人联机，你会被重定向至[多人游戏](/wiki/Gameplay/Multiplayer)大厅（见下文）。
 - 点击 `Back` (`B`) 以返回主菜单
 
 ### 联机大厅
 
-*详见词条： [Multi](/wiki/Multi)*
+*详见词条： [Multi](/wiki/Gameplay/Multiplayer)*
 
 ![](img/multi-lobby.jpg "多人游戏大厅界面")
 
@@ -62,7 +67,7 @@
 7. 选中的[mods](/wiki/Game_modifier) （参见 #12），以及设置，叫做“Free Mods”的选项决定玩家是否能选择自己想使用的mods。如果启用，他们可以选择任意组合的mods*除了影响速度的模组，如[Double Time](/wiki/Game_modifier/Double_Time)。如果禁用，则由房主来决定使用什么模组，房主可以使用影响速度的mods不论Free Mods是否开启。
 8. 分组方式和胜利条件，
 9. 准备按钮
-10. [聊天窗口](/wiki/Chat_Console)。
+10. [聊天窗口](/wiki/Client/Interface/Chat_console)。
 11. 离开按钮。
 12. 你使用的mods。
 
@@ -85,7 +90,7 @@
 
 ![](img/beatmap-metadata.jpg)
 
-这里显示**你所选的谱面难度信息**。默认情况下，进入选个界面时选中的谱面是你在主界面的音乐播放器中听到的歌。左上角会显示谱面的Rank状态。旁边是歌曲标题。正常情况下，会显示罗马化标题，但是如果在[设置](/wiki/Options)中选择了`以原语言显示歌曲信息`时，会显示Unicode标题；这在上面的图片中进行了表示，然后谱面信息会显示在下方。从左到右依次如下：
+这里显示**你所选的谱面难度信息**。默认情况下，进入选个界面时选中的谱面是你在主界面的音乐播放器中听到的歌。左上角会显示谱面的Rank状态。旁边是歌曲标题。正常情况下，会显示罗马化标题，但是如果在[设置](/wiki/Client/Options)中选择了`以原语言显示歌曲信息`时，会显示Unicode标题；这在上面的图片中进行了表示，然后谱面信息会显示在下方。从左到右依次如下：
 
 - **长度**：谱面的总长度，从开始到结束包括休息时间。不要与[掉血时间](/wiki/Gameplay/Drain_time)混淆。
 - **BPM**：谱面的BPM。如果谱面有两个BPM （如下图所示） 而一个在括号里，这意味着BPM在歌曲中有变化。它显示这个谱面最快和最慢的BPM，而括号里的BPM时谱面开始时歌曲的BPM。
@@ -160,7 +165,7 @@
 - `status`： Ranked状态。 值可以为 `ranked`， `approved`， `pending`， `notsubmitted`， `unknown`， 和 `loved`， 或者 `r`/`a`/`p`/`n`/`u`/`l` 这些缩写。
 - `played`：据你上次游玩这张谱面的时间，单位：天
 - `unplayed`: 显示你没有游玩过谱面。 不允许使用比较的值，比较本身已经被忽略了。
-- `speed`: 在osu!mania谱面中保存的下落速度，这个值在未游玩谱面或 [记住每张地图的osu!mania下落速度](/wiki/Options#gameplay) 选项为关时永远为0。
+- `speed`: 在osu!mania谱面中保存的下落速度，这个值在未游玩谱面或 [记住每张地图的osu!mania下落速度](/wiki/Client/Options#gameplay) 选项为关时永远为0。
 
 支持的比较符：
 
@@ -259,7 +264,7 @@
 
 点击**你的用户面板**以唤出**用户选项**。
 
-点击 **[osu!粉饼](/wiki/Glossary/Cookie)** 来**游玩当前选择的谱面**
+点击 **[osu!粉饼](/wiki/Client/Interface/Cookie)** 来**游玩当前选择的谱面**
 
 ## 结算界面
 
@@ -293,15 +298,15 @@
    1. `整体`：你在这个谱面排行榜的位置，你可以与使用了[mods](/wiki/Game_modifier)的人竞争尽管你没有使用[mods](/wiki/Game_modifier)。
    2. `准确度`：你这次游玩的[精确度](/wiki/Gameplay/Accuracy#准确度)，只有新分数超过旧分数时才会计算。
    3. `Max Combo`：你这次游玩时达到的最高Combo。
-   4. `Ranked图分数`：你在这张谱面的[最好成绩](/wiki/Score/Ranked_score)。
+   4. `Ranked图分数`：你在这张谱面的[最好成绩](/wiki/Gameplay/Score/Ranked_score)。
    5. `总分数`：不考虑，因为它不会影响你的在线排名。
    6. `Performance`：你在这次游玩获得的[未权重计算过的pp](/wiki/Performance_points#为什么我没有得到游玩一个谱面的所有pp)。
 6. `Overall Ranking`部分。也仅当谱面拥有在线排行榜时可用。
    1. `整体`：你的世界排名。
    2. `准确度`：你所有游玩过的图的[平均精确度](/wiki/Gameplay/Accuracy#准确度)。
    3. `Max Combo`：你所有谱子中获得的最长的Combo。
-   4. [`Ranked分数`](/wiki/Score/Ranked_score)：你在每张Ranked图中最高分数的总和。
-   5. [`总分数`](/wiki/Score/Total_score)：与Ranked分数相同，但是它计算所有上传到osu!网站(除了未上传或未更新至最新版的谱面)谱面的每一次游玩分数，包括未游玩完整或失败的成绩。
+   4. [`Ranked分数`](/wiki/Gameplay/Score/Ranked_score)：你在每张Ranked图中最高分数的总和。
+   5. [`总分数`](/wiki/Gameplay/Score/Total_score)：与Ranked分数相同，但是它计算所有上传到osu!网站(除了未上传或未更新至最新版的谱面)谱面的每一次游玩分数，包括未游玩完整或失败的成绩。
    6. `Performance`：你资料的总PP数
 7. 谱面的通过率和总游玩数
 8. 谱面评分。根据你是否喜欢谱面进行评价。如果你不能决定，最好不要管它。

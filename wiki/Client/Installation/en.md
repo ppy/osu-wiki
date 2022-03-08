@@ -1,8 +1,8 @@
 # Installation
 
-*See also: [Installation on macOS](/wiki/Installation/macOS)*
+*See also: [Installation on macOS](/wiki/Client/Installation/macOS)*
 
-This page will tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) that explains how to install osu! on Windows.
+This page will tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/Community/Video_series/osu!academy) has a [video tutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) that explains how to install osu! on Windows.
 
 ## Minimum system requirements
 
@@ -46,7 +46,7 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 4. Locate and open the beatmap file, it has an `.osz` extension.
    - Alternatively, you can also place the beatmap file into the `Songs` directory of the osu! installation.
 5. osu! will automatically handle the rest for you and load the beatmap.
-   - If, for any reason, you do not see them, press `F5` in [Song Selection](/wiki/Interface#song-selection-screen) to re-process your beatmaps.
+   - If, for any reason, you do not see them, press `F5` in [Song Selection](/wiki/Client/Interface#song-select) to re-process your beatmaps.
 
 ### osu!direct
 
@@ -57,7 +57,7 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 3. Double click the the song on the list or click `Download` on the right to download it.
    - If you don't want to download the video that comes along with the beatmap, click `DL NoVideo` instead.
 4. When osu! is done downloading the beatmap, it will automatically load it.
-   - If, for any reason, you do not see them, press `F5` in [Song Selection](/wiki/Interface#song-selection-screen) to re-process your beatmaps.
+   - If, for any reason, you do not see them, press `F5` in [Song Selection](/wiki/Client/Interface#song-select) to re-process your beatmaps.
 
 ## Adding skins
 
@@ -73,5 +73,5 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
      1. Extract it.
      2. Move the extracted skin folder into the `Skins` directory of the osu! installation path.
      3. If osu! is running, the skin will appear in the list only after you press `Ctrl` + `Alt` + `Shift` + `S`.
-     4. In osu!, go to the [Options](/wiki/Options) and search for `Skin`.
+     4. In osu!, go to the [Options](/wiki/Client/Options) and search for `Skin`.
      5. Scroll down to the `Current skin:` option and select the skin you have downloaded.

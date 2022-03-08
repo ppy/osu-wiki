@@ -6,7 +6,7 @@ outdated: true
 
 In osu! gibt es viele Tastenkürzel (auch 'Hotkeys'), die in den Menüs oder im Spiel verwendet werden können. In der folgenden Liste sind sie mit ihren Funktionen aufgeführt.
 
-**Hinweis:** Einige dieser Tastenkürzel können in den [Einstellungen](/wiki/Options) geändert werden! In der Liste unten stehen die zugehörigen Standardkürzel.
+**Hinweis:** Einige dieser Tastenkürzel können in den [Einstellungen](/wiki/Client/Options) geändert werden! In der Liste unten stehen die zugehörigen Standardkürzel.
 
 ## Überall im Spiel
 
@@ -37,7 +37,7 @@ Diese Kürzel können überall verwendet werden:
 - `P`: Spielmenü
 - `P` -> `P`: Solo
   - alternativ: `E` -> `P` -> `P`
-- `P` -> `M`: [Multiplayer](/wiki/Multi)
+- `P` -> `M`: [Multiplayer](/wiki/Gameplay/Multiplayer)
   - alternativ: `E` -> `P` -> `M`
 - `P` -> `E`: Bearbeitungsmodus
 - `D`: osu!direct (nur für [osu!-Supporter](/wiki/osu!supporter))
@@ -62,7 +62,7 @@ Diese Kürzel können überall verwendet werden:
 
 ## Songauswahl
 
-**Hinweis:** Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Multi).
+**Hinweis:** Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Gameplay/Multiplayer).
 
 - `Alt` + `Pfeil oben`: Lautstärke erhöhen
 - `Alt` + `Pfeil unten`: Lautstärke verringern
@@ -149,7 +149,7 @@ Nur für osu!mania:
 
 ## Im Beatmap Editor
 
-*Siehe auch: [Beatmap Editor](/wiki/Beatmap_Editor).*
+*Siehe auch: [Beatmap Editor](/wiki/Client/Beatmap_editor).*
 
 ### Generell
 
@@ -175,10 +175,10 @@ Diese Kürzel funktionieren überall im Editor:
 - `Strg` + `Shift` + `Pfeil unten`: Wiedergabegeschwindigkeit um 5% verringern
 - `Strg` + `Up`: Wiedergabegeschwindigkeit um 25% erhöhen
 - `Strg` + `Shift` + `Pfeil oben`: Wiedergabegeschwindigkeit um 5% erhöhen
-- `F1`: Zum [Compose](/wiki/Beatmap_Editor/Compose)-Modus wechseln
-- `F2`: Zum [Design](/wiki/Beatmap_Editor/Design)-Modus wechseln
-- `F3`: Zum [Timing](/wiki/Beatmap_Editor/Timing)-Modus wechseln
-- `F4`: Das [Song Setup](/wiki/Beatmap_Editor/Song_Setup) öffnen (neues Fenster)
+- `F1`: Zum [Compose](/wiki/Client/Beatmap_editor/Compose)-Modus wechseln
+- `F2`: Zum [Design](/wiki/Client/Beatmap_editor/Design)-Modus wechseln
+- `F3`: Zum [Timing](/wiki/Client/Beatmap_editor/Timing)-Modus wechseln
+- `F4`: Das [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) öffnen (neues Fenster)
 - `F5`: Den Testmodus starten
 - `F6`: Das Timing Setup öffnen
 
@@ -197,7 +197,7 @@ Diese Kürzel funktionieren überall im Editor:
 - `1`, `2`, `3`, or `4`: Modus wechseln: Objektauswahl (1) oder Platzieren von: Circle (2), Slider (3), Spinner (4)
 - `Strg` + `Alt` + `Mausrad hoch`: Modus hochscrollen
 - `Strg` + `Alt` + `Mausrad runter`: Modus runterscrollen
-- `Strg` + `Shift` + `A` : [AiMod](/wiki/Beatmap_Editor/AiMod) öffnen
+- `Strg` + `Shift` + `A` : [AiMod](/wiki/Client/Beatmap_editor/AiMod) öffnen
 
 #### Hitsounding
 
@@ -210,7 +210,7 @@ Diese Kürzel funktionieren überall im Editor:
 
 #### Timeline
 
-- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: Den [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) zu 1/1, 1/2, 1/3, 1/4, 1/6, oder 1/8 ändern (1, 2, und 3 sind in osu!mania nicht verfügbar)
+- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: Den [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) zu 1/1, 1/2, 1/3, 1/4, 1/6, oder 1/8 ändern (1, 2, und 3 sind in osu!mania nicht verfügbar)
 - `Shift` beim Platzieren von Objekten: Snapping ignorieren
 - `J`: Objekt auf der Timeline zurückbewegen
 - `K`: Objekt auf der Timeline vorwärts bewegen

@@ -52,7 +52,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### March
 
 - **2009-03-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) launched the first [Delegation of the Beatmap Approval Deciding Authorities; Submission Squad](/wiki/Modding/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad) (*BADASS*). <!-- https://osu.ppy.sh/community/forums/topics/10638 -->
-  - This change was launched because prior BAT were added based on an informal vote from osu!'s `#bat` [IRC](/wiki/Internet_Relay_Chat) channel, which wasn't visible to enough users.
+  - This change was launched because prior BAT were added based on an informal vote from osu!'s `#bat` [IRC](/wiki/Community/Internet_Relay_Chat) channel, which wasn't visible to enough users.
 
 ### November
 
@@ -74,7 +74,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### July
 
-- **2010-07-24:** The first iteration of the [Community Mentorship Program](/wiki/Community_Mentorship_Program#earlier-mentoring-programs) was launched.
+- **2010-07-24:** The first iteration of the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program#earlier-mentoring-programs) was launched.
   - Users could apply to learn about mapping and modding directly from volunteer MAT and BAT members.
   - The program was discontinued in 2013.<!-- https://osu.ppy.sh/community/forums/topics/34111 + https://osu.ppy.sh/community/forums/topics/34194 -->
 
@@ -183,7 +183,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
   - The BAT (often called newBAT at this time) nominated beatmaps for rank.
   - The QAT ensured qualified beatmaps were of sufficient quality. Beatmaps that did not meet quality standards were disqualified.
   - This essentially reversed the merging of the BAT and MAT last year.
-  - The split was implemented as part of a manual trial for [modding v2](/wiki/Beatmap_Discussion) attempting to automate BAT promotion and retirement. <!-- https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat -->
+  - The split was implemented as part of a manual trial for [modding v2](/wiki/Beatmap_discussion) attempting to automate BAT promotion and retirement. <!-- https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat -->
   - Despite attempts at framing disqualifications as a positive change for mapping quality, the community viewed them negatively. This was especially apparent in cases of controversial beatmaps like the [disqualification on *Halozy - Genryuu Kaiko*](https://osu.ppy.sh/community/forums/posts/3591479)
 
 ### October
@@ -274,7 +274,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### September
 
-- **2016-09-30:** The [Community Mentorship Program](/wiki/Community_Mentorship_Program) re-launched after a long hiatus.
+- **2016-09-30:** The [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) re-launched after a long hiatus.
   - Its new structure was centred around [Discord](https://discord.com) communication and seasonal cycles.
   - The program was led by ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
@@ -315,7 +315,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2017-05-22:** Beatmap Nominator Discord server was created for BN subdivisions.
   - Subdivisions were designed as focus groups of randomly selected nominators from both tiers led by a member of the QAT.
   - Most QAT management shifted to this server despite resistance from osu! higher-ups.
-- **2017-05-23:** Discord bot [Aiess](/wiki/Projects#miscellaneous) was created by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
+- **2017-05-23:** Discord bot [Aiess](/wiki/Community/Projects#miscellaneous) was created by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
   - This provided a feed of mapping related events in osu! Discord servers, starting with nomination and disqualification feeds.
 
 ### June
@@ -348,14 +348,14 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### February
 
-- **2018-02-08:** The [Mappers' Guild](/wiki/Mappers_Guild) was opened to public applications for widespread [Featured Artist](/wiki/Featured_Artists) beatmap creation. <!-- https://osu.ppy.sh/community/forums/topics/700654 -->
+- **2018-02-08:** The [Mappers' Guild](/wiki/Community/Mappers_Guild) was opened to public applications for widespread [Featured Artist](/wiki/Featured_Artists) beatmap creation. <!-- https://osu.ppy.sh/community/forums/topics/700654 -->
 
 ### March
 
 - **2018-03-01:** QAT separated its tasks into branches: BN evaluation, disqualifications, metadata, spotlights, blog, Ranking Criteria, and general leadership.
   - QAT members could be involved in multiple branches.
   - This aimed to give purpose to some QAT members who felt that they had no specific roles in the mapping/modding community. This feeling was largely relevant because the QAT had little involvement with Quality Assurance anymore. <!-- source is discord logs -->
-- **2018-03-03:** `#modding` channel was created in the [osu!dev Discord server](/wiki/osu!dev_Discord_server).
+- **2018-03-03:** `#modding` channel was created in the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
   - While its goal was to shift mapping discussion away from the BN Discord server, this discussion centre was rarely used apart from scheduled QAT meetings. <!-- source is discord logs -->
 - **2018-03-24:** Ranking Criteria subforum was re-opened for public proposal discussions and the UBKRC was discontinued.
   - The UBKRC was discontinued at this time because all subsections of the general and game mode Ranking Criteria were finalised. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
@@ -410,9 +410,9 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### March
 
-- **2019-03-01:** The [Mappers' Guild](/wiki/Mappers_Guild) transitioned from application-based entry to automatic entry for anyone with 3 ranked maps.
+- **2019-03-01:** The [Mappers' Guild](/wiki/Community/Mappers_Guild) transitioned from application-based entry to automatic entry for anyone with 3 ranked maps.
   - [Featured Artist](/wiki/Featured_Artists) beatmaps became more frequently created and ranked.
-  - `#mappers-guild` channel was created in the [osu!dev Discord server](/wiki/osu!dev_Discord_server).
+  - `#mappers-guild` channel was created in the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
 - **2019-03-13:** Rule requiring consecutive nominations to be set at least 24 hours apart from each other was removed.
   - This rule was a major complaint from mappers and Beatmap Nominators because it felt like it was unnecessarily wasting everyone's time. If an issue was found after the first nomination, the second nominator would often avoid pointing it out to avoid an extra 24 hour wait.
   - Along with this change, Beatmap Nominators could veto qualified beatmaps. The rule originally existed because Beatmap Nominators needed 24 hours to potentially apply vetoes to maps with one nomination.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
@@ -429,7 +429,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### August
 
-- **2019-08-05:** ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) released the [Mapset Verifier](/wiki/Projects#modding) tool, automating a significant portion of beatmap checking processes for Beatmap Nominators.
+- **2019-08-05:** ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) released the [Mapset Verifier](/wiki/Community/Projects#modding) tool, automating a significant portion of beatmap checking processes for Beatmap Nominators.
 - **2019-08-06:** Beatmap Nominators became able to participate in BN application evaluations.
   - BN input is visible to the NAT when trying to reach a consensus, though they are rarely used to sway a vote.
   - The NAT often use BN input to help determine future NAT members. <!-- https://github.com/pishifat/qat/commit/a8245a4c6fefcfe9368ffc1eee7e13ad6f8bb6af -->

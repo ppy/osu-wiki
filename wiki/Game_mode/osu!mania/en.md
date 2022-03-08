@@ -194,7 +194,7 @@ The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** g
 In addition, score also has the following components:
 
 - [Accuracy](/wiki/Gameplay/Accuracy#osu!mania) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
-- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) shows how many objects were hit in a row. It has no effect on total score and may be [broken](/wiki/Glossary/Combobreak) by a miss.
+- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) shows how many objects were hit in a row. It has no effect on total score and may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss.
 
 After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!mania), a short accuracy assessment in form of a single letter. A golden or silver SS denotes 100% accuracy.
 

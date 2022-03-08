@@ -413,7 +413,7 @@ Sunday, 10 November 2013:
 3. Match schedule will be settled by Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Revived player's scores will be added to the total score.
-6. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
+6. Use of the [Visual Settings](/wiki/Client/Interface/Visual_settings) options are allowed.
 7. If the game ends in a draw, the game will be nullified.
 8. If one of players gets disconnected, the game will be nullified. This can happen up to twice. After exceeding two attempts, disconnected players get treated as if they left on their own.
 9. Maps cannot be reused in the same match unless the game was nullified.

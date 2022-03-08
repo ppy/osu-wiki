@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 47aa245123d41ef6421aaec3ecddaef4b312ae70
+---
+
 # Formatierung
 
 *Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*
@@ -534,7 +539,7 @@ Gute Beispiele:
 Wiki-Links, die zu einem Unterartikel zeigen, sollten den Namen des übergeordneten Ordners in ihrem Linktext haben. Siehe das folgende Beispiel:
 
 ```markdown
-*Siehe auch: [Beatmap-Editor/Design](/wiki/Beatmap_Editor/Design)*
+*Siehe auch: [Beatmap-Editor/Design](/wiki/Client/Beatmap_editor/Design)*
 ```
 
 ##### Links zu Abschnitten

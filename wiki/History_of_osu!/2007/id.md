@@ -6,7 +6,7 @@ Berikut ini adalah beberapa peristiwa besar yang terjadi di osu! selama tahun 20
 
 ## Juli
 
-osu! dimulai sebagai *proof-of-concept* bernama "ouentest"[[1]][r]. Versi pertama dirilis pada tanggal 1 Juli 2007 untuk sekelompok kecil teman dekat [peppy](https://osu.ppy.sh/users/2) dan memiliki sebuah [editor beatmap](/wiki/Beatmap_Editor) dan mode permainan yang sangat mendasar. Editor hanya dapat membuat [beatmap](/wiki/Beatmap) yang *sangat* sederhana tanpa fungsi *seeking* atau [*snapping*](/wiki/Beatmapping/Snapping) dan tidak ada slider atau spinner, hanya circle dan penghitung skor/kombo yang mendasar. Rilis pertama memakan waktu sekitar 16 jam waktu coding dan dilakukan dalam *single all-nighter*. `pUpdater` diperkenalkan (lekas dikenal sebagai `osume`)[[2]][r] untuk menangani pembaruan ke versi terbaru.
+osu! dimulai sebagai *proof-of-concept* bernama "ouentest"[[1]][r]. Versi pertama dirilis pada tanggal 1 Juli 2007 untuk sekelompok kecil teman dekat [peppy](https://osu.ppy.sh/users/2) dan memiliki sebuah [editor beatmap](/wiki/Client/Beatmap_editor) dan mode permainan yang sangat mendasar. Editor hanya dapat membuat [beatmap](/wiki/Beatmap) yang *sangat* sederhana tanpa fungsi *seeking* atau [*snapping*](/wiki/Beatmapping/Snapping) dan tidak ada slider atau spinner, hanya circle dan penghitung skor/kombo yang mendasar. Rilis pertama memakan waktu sekitar 16 jam waktu coding dan dilakukan dalam *single all-nighter*. `pUpdater` diperkenalkan (lekas dikenal sebagai `osume`)[[2]][r] untuk menangani pembaruan ke versi terbaru.
 
 ![](img/2007-07_01.jpg "Pemilihan Lagu")
 
@@ -16,7 +16,7 @@ osu! dimulai sebagai *proof-of-concept* bernama "ouentest"[[1]][r]. Versi pertam
 
 ![](img/2007-07_04.jpg "Hit circle")
 
-Pada akhir bulan Juli, sistem menu diubah untuk menambahkan sedikit sentuhan desain pada game. Implementasi awal slider telah selesai, dengan slider ball berwarna jingga yang belum memiliki animasi dan beberapa lekukan yang relatif buruk. Beat snapping juga ditambahkan ke editor, serta timeline dan *interface* editor yang lebih kokoh (tampilannya sangat mirip dengan apa yang kamu lihat dalam tampilan [Compose](/wiki/Beatmap_Editor/Compose) hari ini).
+Pada akhir bulan Juli, sistem menu diubah untuk menambahkan sedikit sentuhan desain pada game. Implementasi awal slider telah selesai, dengan slider ball berwarna jingga yang belum memiliki animasi dan beberapa lekukan yang relatif buruk. Beat snapping juga ditambahkan ke editor, serta timeline dan *interface* editor yang lebih kokoh (tampilannya sangat mirip dengan apa yang kamu lihat dalam tampilan [Compose](/wiki/Client/Beatmap_editor/Compose) hari ini).
 
 ![](img/2007-07_05.jpg "Editor")
 
@@ -28,7 +28,7 @@ Pada akhir bulan Juli, sistem menu diubah untuk menambahkan sedikit sentuhan des
 
 ## Agustus
 
-Menu utama telah diperbarui dengan tampilan baru, dan editor menerima banyak fungsi baru, termasuk dukungan salin dan tempel (copy dan paste). Menu tab dan menu konteks (*context menu*) ditambahkan, membuat fitur editor jauh lebih mudah diakses dibanding sebelumnya; slider lebih banyak mendapat dukungan, dengan ditambahkannya [slider tick](/wiki/Beatmapping/Slider_tick); diperkenalkannya [stacking](/wiki/Mapping_Techniques/Stack) [hit circles](/wiki/Hit_object/Hit_circle); dukungan lebih baik untuk skor terbaik lokal; dan format berkas `osu!` direvisi dan dirubah sepenuhnya, tetapi telah mencakup konversi berkas lama ke format baru.
+Menu utama telah diperbarui dengan tampilan baru, dan editor menerima banyak fungsi baru, termasuk dukungan salin dan tempel (copy dan paste). Menu tab dan menu konteks (*context menu*) ditambahkan, membuat fitur editor jauh lebih mudah diakses dibanding sebelumnya; slider lebih banyak mendapat dukungan, dengan ditambahkannya [slider tick](/wiki/Beatmapping/Slider_tick); diperkenalkannya [stacking](/wiki/Mapping_techniques/Stack) [hit circles](/wiki/Hit_object/Hit_circle); dukungan lebih baik untuk skor terbaik lokal; dan format berkas `osu!` direvisi dan dirubah sepenuhnya, tetapi telah mencakup konversi berkas lama ke format baru.
 
 ![](img/2007-08_01.jpg "Pemilihan Lagu untuk Mode Play")
 
@@ -72,7 +72,7 @@ Layar pemilihan lagu mulai mendapat perhatian dengan pengelompokan tingkat kesul
 
 ![](img/2007-10_03.jpg "Pesan eror")
 
-`pUpdater` (`osume`) versi 2 dirilis, mendukung pengunduhan paket opsional. Ini termasuk membuat skin buatan pengguna tersedia untuk semua pemain melalui updater. [Distance-based snapping](/wiki/Beatmap_Editor/Distance_Snap) ditambahkan ke editor, dukungan bookmark, beberapa jenis kurva slider, warna kustom, *play-testing*, *lead-in time*, dan banyak lagi.
+`pUpdater` (`osume`) versi 2 dirilis, mendukung pengunduhan paket opsional. Ini termasuk membuat skin buatan pengguna tersedia untuk semua pemain melalui updater. [Distance-based snapping](/wiki/Client/Beatmap_editor/Distance_snap) ditambahkan ke editor, dukungan bookmark, beberapa jenis kurva slider, warna kustom, *play-testing*, *lead-in time*, dan banyak lagi.
 
 ## November
 
@@ -88,7 +88,7 @@ Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S da
 
 ![](img/2007-11_03.jpg "Pengujian Penggunaan IRC")
 
-[Sistem Submisi Beatmap](/wiki/Submission) (Beatmap Submission System) dipublikasikan, memungkinkan pengguna dengan mudah mengunggah dan membagikan kreasi mereka. Bersamaan dengan ini, map juga memiliki status [pending](/wiki/Beatmap/Category#work-in-progress-and-pending) dan [ranked](/wiki/Beatmap/Category#ranked) yang membantu dalam mengatur koleksi beatmap yang dikirim oleh pengguna. Obrolan dalam game telah ditambahkan, menggunakan klien [IRC](/wiki/Internet_Relay_Chat) yang dibangun dari nol dan terhubung ke server IRC standar (belum ada [Bancho](/wiki/Bancho_(server)); obrolan yang diperluas terlihat; avatar dan statistik dasar ditampilkan dalam game menggunakan komunkasi berbasis http. Kontrol audio juga ditambahkan ke menu utama, yang juga memainkan lagu acak saat membuka game (startup). [Replay](/wiki/Replay) map dapat ditonton untuk skor lokal dan permainan online. Pemain dapat melihat pemain lainnya (dan data penonton dikirim melalu IRC).
+[Sistem Submisi Beatmap](/wiki/Submission) (Beatmap Submission System) dipublikasikan, memungkinkan pengguna dengan mudah mengunggah dan membagikan kreasi mereka. Bersamaan dengan ini, map juga memiliki status [pending](/wiki/Beatmap/Category#work-in-progress-and-pending) dan [ranked](/wiki/Beatmap/Category#ranked) yang membantu dalam mengatur koleksi beatmap yang dikirim oleh pengguna. Obrolan dalam game telah ditambahkan, menggunakan klien [IRC](/wiki/Community/Internet_Relay_Chat) yang dibangun dari nol dan terhubung ke server IRC standar (belum ada [Bancho](/wiki/Bancho_(server)); obrolan yang diperluas terlihat; avatar dan statistik dasar ditampilkan dalam game menggunakan komunkasi berbasis http. Kontrol audio juga ditambahkan ke menu utama, yang juga memainkan lagu acak saat membuka game (startup). [Replay](/wiki/Gameplay/Replay) map dapat ditonton untuk skor lokal dan permainan online. Pemain dapat melihat pemain lainnya (dan data penonton dikirim melalu IRC).
 
 ## Desember
 

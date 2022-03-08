@@ -424,7 +424,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 5. Les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
 6. Les scores des joueurs qui terminent une partie avec un statut d'échec ne sont pas comptabilisés.
    - Cependant, les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
-7. L'utilisation des [Visual Settings](/wiki/Visual_Settings) est autorisée.
+7. L'utilisation des [Visual Settings](/wiki/Client/Interface/Visual_settings) est autorisée.
 8. Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
 9. Si l'un des joueurs est déconnecté durant une partie, il est considéré comme ayant échoué la beatmap et recevra un score de zéro.
 10. Une beatmap ne peut être jouée plus d'une fois au sein d'un match, sauf si la partie dans laquelle la beatmap a été jouée a été annulée.

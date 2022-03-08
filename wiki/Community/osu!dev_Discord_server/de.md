@@ -20,15 +20,17 @@ Jedes Projekt wird in seinem dafür vorgesehenen Kanal diskutiert:
 
 | Projekt | Kanal |
 | :-- | :-- |
-| [osu!lazer](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
-| [osu!](/wiki/Game_mode/osu!) [Star Rating](/wiki/Beatmapping/Star_rating) und [Performancepunkte](/wiki/Performance_points) | `#difficulty-osu` |
-| [osu!taiko](/wiki/Game_mode/osu!taiko) Star Rating und Performancepunkte | `#difficulty-taiko` |
-| [osu!catch](/wiki/Game_mode/osu!catch) Star Rating und Performancepunkte | `#difficulty-catch` |
-| [osu!mania](/wiki/Game_mode/osu!mania) Star Rating und Performancepunkte | `#difficulty-mania` |
+| [osu!](/wiki/Game_mode/osu!) [Star Rating](/wiki/Beatmapping/Star_rating) und [Performance-Punkte](/wiki/Performance_points) | `#difficulty-osu` |
+| [osu!taiko](/wiki/Game_mode/osu!taiko) Star Rating und Performance-Punkte | `#difficulty-taiko` |
+| [osu!catch](/wiki/Game_mode/osu!catch) Star Rating und Performance-Punkte | `#difficulty-catch` |
+| [osu!mania](/wiki/Game_mode/osu!mania) Star Rating und Performance-Punkte | `#difficulty-mania` |
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu!-Wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
+| [Offizielle Wettbewerbsunterstützung](/wiki/Tournaments/Official_support) | `#tournaments` |
+| [osu! Community Meetings](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
 | [Modding](/wiki/Modding) Diskussionen und [NAT Meetings](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

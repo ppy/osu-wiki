@@ -117,7 +117,7 @@ Notes:
 - To have multiple combobursts, use: `comboburst-mania-{n}.png`.
   - One of the images in the set will appear when a combo milestone is met.
 - osu!mania-specific combobursts
-- This can be disabled in the [options](/wiki/Options).
+- This can be disabled in the [options](/wiki/Client/Options).
 - Unlike osu! and osu!catch's combobursts, all edges of this imageset should not be clipped.
 
 ## Keys

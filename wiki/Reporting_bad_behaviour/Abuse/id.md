@@ -1,76 +1,76 @@
-# Melaporkan Penyalahgunaan
+# Melaporkan tindak pelecehan
 
-## Saya tidak tahu apakah saya harus melaporkan ini atau tidak
+## Saya merasa dilecehkan, namun saya tidak yakin apakah saya harus melaporkannya atau tidak
 
 Harap laporkan.
 
-Jika Anda merasa tidak nyaman hingga Anda membaca laman ini, harap kontak kami segera di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan detail sebanyak mungkin mengenai masalahmu.
+Apabila kamu merasa tidak nyaman sampai-sampai kamu harus merujuk pada artikel ini, harap segera hubungi kami di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan rincian yang selengkap-lengkapnya seputar apa yang kamu alami.
 
-Kami tidak memiliki toleransi terhadap perhatian atau rayuan seksual yang tidak diinginkan dalam komunitas ini.
+Kami tidak membenarkan segala bentuk tindakan atau rayuan seksual yang tidak diinginkan di dalam komunitas kami.
 
-Alamat email penyalahgunaan hanya dilihat oleh dua pengguna ini:
+Akun email penyalahgunaan kami hanya dapat diakses oleh kedua nama berikut:
 
-- [peppy](https://osu.ppy.sh/users/2) (pembuat game ini)
-- [Ephemeral](https://osu.ppy.sh/users/102335) (manager komunitas)
+- [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!)
+- [Ephemeral](https://osu.ppy.sh/users/102335) (selaku manajer komunitas osu!)
 
-Apa yang Anda kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dibagikan dengan orang lain selain kedua orang tersebut.
+Selain kedua nama di atas, segala sesuatu yang kamu kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dapat dibaca oleh siapapun juga tanpa terkecuali.
 
-## Seseorang membuat rayuan atau komentar seksual yang tidak pantas terhadap saya!
+## Seseorang membuat rayuan atau komentar seksual yang tidak sepantasnya terhadap saya!
 
-Lihat di bawah untuk mencari tahu apa yang harus dilakukan, tergantung di mana hal ini terjadi.
+Harap ikuti instruksi yang sesuai dengan lokasi tindak pelecehan yang kamu alami di bawah ini.
 
-### Dalam obrolan in-game
+### Dalam *in-game chat*
 
-Segera blokir pengguna tersebut dengan mengklik kanan username mereka dan memilih `Abaikan Pengguna`.
+Segera blokir pengguna tersebut dengan mengklik kanan *username* mereka dan memilih `Abaikan Pengguna`.
 
-Anda juga harus segera melaporkannya dengan mengklik tombol `Laporkan Pengguna` dan mengisi petunjuk yang ada.
+Kamu juga harus segera melaporkan pengguna tersebut dengan mengklik tombol `Laporkan Pengguna` dan mengisi formulir yang tertera.
 
-Jika Anda merasa komentar/rayuan tersebut sangat tidak pantas atau Anda adalah pengguna di bawah umur, harap kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) berisi informasi sebanyak mungkin.
+Apabila kamu masih di bawah umur atau kamu merasa bahwa komentar/rayuan tersebut sudah sangat tidak pantas, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
-### Dalam post publik di osu! forum
+### Dalam postingan publik pada forum osu!
 
-Laporkan post tersebut ke anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) sesegera mungkin.
+Harap laporkan postingan tersebut kepada para anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (GMT) kami sesegera mungkin.
 
-Untuk melakukannya, klik nama pengguna dari anggota GMT dalam daftar di halaman itu. Ini akan membawa Anda ke profil mereka. Jika Anda tidak yakin siapa yang harus diklik, gunakan saja [tautan ini](https://osu.ppy.sh/users/102335).
+Untuk mengirimkan laporanmu, klik salah satu nama GMT yang tertera pada laman tersebut. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung melapor ke Ephemeral](https://osu.ppy.sh/users/102335).
 
-Klik tombol dengan amplop di dalamnya yang berada tepat di bawah bendera negara pengguna. Ini akan membawa Anda ke layar obrolan.
+Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar pesan obrolan pribadi (*private message*) akan terbuka.
 
-Salin tautan ke post forum yang berisi konten yang bermasalah dan beri tahu GMT sedikit tentang apa yang terjadi. Mereka akan menghapus post tersebut untuk Anda sesegera mungkin.
+Salin tautan postingan yang bermasalah tersebut pada kolom *chat* yang muncul dan ceritakan kepada anggota GMT yang bersangkutan seputar apa yang terjadi. Mereka akan menghapus postingan tersebut untukmu sesegera mungkin.
 
-Anda juga dapat melaporkan post tersebut dengan membuka game Anda dan mengetik `!report <orang> <masalah>`, di mana `<orang>` adalah nama pengguna yang menyebabkan masalah, dan `<masalah>` adalah tautan ke post diikuti dengan penjelasan singkat. Jika ada spasi pada nama pengguna tersebut, harap ganti dengan garis bawah (`_`).
+Di samping itu, kamu juga dapat melaporkan postingan tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>` pada *in-game chat*, di mana `<nama pengguna>` hendaknya kamu isi dengan nama pengguna yang berulah dan `<permasalahan>` hendaknya kamu isi dengan tautan serta penjelasan singkat seputar postingan yang bermasalah tersebut. Apabila nama pengguna yang akan kamu laporkan mengandung spasi, ganti seluruh spasi yang ada pada nama pengguna mereka dengan garis bawah (`_`).
 
-Jika post tersebut masih belum hilang dalam jangka waktu yang wajar, silakan kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) berisi informasi sebanyak mungkin.
+Apabila postingan tersebut masih belum juga dihapus setelah sekian waktu, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
-### Di server publik Discord terkait osu!
+### Dalam server Discord publik yang terkait dengan osu!
 
-Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan memilih `Blokir` di daftar drop-down yang muncul.
+Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan memilih `Block` pada menu *drop-down* yang muncul.
 
-Setelah itu, hubungi administrator server dengan mencari seseorang di bagian paling atas dari daftar pengguna dan beri tahu mereka apa yang terjadi. Jika Anda tidak dapat mengetahui siapa yang merupakan administrator, cari seseorang dengan mahkota di samping namanya - mereka adalah pemilik server dan bertanggung jawab atas apa yang terjadi di dalamnya.
+Setelahnya, harap laporkan kejadian ini kepada para administrator server yang pada umumnya dapat dijumpai pada bagian atas daftar pengguna. Apabila kamu tidak tahu siapa-siapa saja yang merupakan administrator server, cari seseorang yang memiliki logo mahkota di samping namanya — mereka merupakan pemilik server yang sedikit banyak bertanggung jawab atas apa-apa saja yang terjadi di dalam server mereka.
 
-Jika penyalahgunaan ini berlanjut dan administrator tidak melakukan apa pun, [beri tahu tim Trust & Safety Discord dengan mengisi laporan](https://dis.gd/request).
+Apabila tindak pelecehan yang kamu alami semakin bertambah parah seiring waktunya dan para administrator server seolah-olah terus mengabaikan laporanmu, [harap laporkan kejadian yang kamu alami kepada tim Trust & Safety Discord melalui formulir berikut](https://dis.gd/request).
 
-Selain itu, jika Anda tahu nama pengguna osu! yang mengganggu Anda, silakan kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) yang berisi informasi sebanyak mungkin dan laporan akan segera diselidiki.
+Di samping itu, apabila kamu mengetahui nama-nama akun osu! milik orang-orang yang mengganggumu, harap beritahukan kami melalui email pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya agar kasusmu dapat turut kami selidiki.
 
-### Di Twitter yang ditautkan ke profil pengguna osu!
+### Dalam akun Twitter yang tertaut pada laman profil pengguna
 
-Klik tiga titik di kanan atas tweet dan klik 'Laporkan Tweet'. Pastikan untuk mengikuti petunjuk dan membacanya dengan cermat. Anda mungkin juga ingin membaca [Panduan Twitter mengenai melaporkan perilaku yang menghina](https://help.twitter.com/id/safety-and-security/report-abusive-behavior) untuk informasi lebih lanjut mengenai prosesnya.
+Klik tombol titik tiga yang terdapat pada pojok kanan atas tweet yang bermasalah dan klik 'Laporkan Tweet'. Pastikan untuk membaca dan mengikuti petunjuk yang disediakan dengan seksama di kala kamu melapor. Untuk informasi lebih lanjut seputar proses ini, kamu dapat merujuk pada [panduan Twitter berikut](https://help.twitter.com/id/safety-and-security/report-abusive-behavior) yang membahas seputar tata cara untuk melaporkan perilaku-perilaku yang bersifat menghina.
 
-Setelah itu, blokir atau bisukan pengguna yang bersangkutan dengan mengeklik tiga titik di kanan atas tweet mereka (jika Anda menggunakan situs web atau klien seluler). Lihat [Panduan Twitter mengenai memblokir akun](https://help.twitter.com/id/using-twitter/blocking-and-unblocking-accounts) untuk informasi lebih lanjut.
+Setelah itu, blokir atau bisukan (*mute*) pengguna yang bersangkutan dengan mengeklik tombol titik tiga yang terdapat pada pojok kanan atas tweet yang sama melalui *browser* atau aplikasi Twitter milikmu. Lihat [panduan Twitter berikut](https://help.twitter.com/id/using-twitter/blocking-and-unblocking-accounts) untuk informasi lebih lanjut.
 
-Perlu diketahui bahwa orang tersebut akan melihat Anda memblokirnya jika mereka memeriksa profil Twitter Anda. Jika Anda khawatir hal ini akan memperburuk masalah, bisukan orang tersebut. Ini akan menghapus tweet mereka dari timeline Anda dan mencegah Anda melihat konten mereka lagi, namun mereka masih dapat melihat dan mengomentari semua tweet yang Anda buat.
+Harap diingat bahwa para pengguna yang telah diblokir tidak akan lagi dapat melihat isi profil Twittermu ke depannya. Apabila kamu khawatir hal ini hanya akan memperkeruh suasana, bisukan (*mute*) orang tersebut. Tindakan ini akan menyembunyikan tweet-tweet mereka dari *timeline*-mu tanpa menghalangi mereka untuk dapat melihat dan mengomentari tweet-tweet yang kamu kirimkan seperti pada umumnya.
 
-Jika tweet tersebut berasal dari akun yang ditautkan ke profil pemain osu! melalui situs web kami (muncul di bawah avatar mereka dan tanggal bergabung, di samping ikon burung), silakan kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) yang berisi salinan tweet dalam bentuk gambar jika memungkinkan, dan informasi lain yang dapat Anda pikirkan.
+Apabila tweet tersebut berasal dari akun Twitter yang tertaut pada laman profil osu! mereka masing-masing (yang terdapat di bawah avatar dan tanggal bergabung, di samping ikon burung), harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan salinan atau *screenshot* tweet yang bersangkutan beserta informasi-informasi lain yang sekiranya dapat berguna.
 
-## Seorang anggota dari salah satu tim sukarelawan (NAT, GMT) mendekati/berbicara/bertindak secara tidak senonoh terhadap saya!
+## Salah seorang anggota tim sukarelawan (NAT, GMT) mendekati/berbicara/bertindak secara tidak senonoh terhadap saya!
 
-Kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) berisi informasi sebanyak mungkin **segera**.
+Harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya.
 
-Jika sesuatu yang ingin Anda masukkan membuat Anda merasa malu, sensor saja. Ini termasuk tangkapan layar, log obrolan, apa pun yang dapat Anda lampirkan ke email.
+Apabila kamu ingin melampirkan suatu bukti (baik itu berupa *screenshot*, *chat log*, ataupun yang lainnya) namun kamu merasa malu atau tidak enak hati kepada pihak-pihak tertentu, kamu dapat menyensornya terlebih dahulu.
 
-Kami akan memeriksanya secepat mungkin.
+Kami akan menindaklanjuti laporanmu dengan segera.
 
-## Seseorang yang saya kenal dilecehkan oleh anggota tim relawan (NAT, GMT) namun terlalu takut untuk angkat bicara!
+## Seseorang yang saya kenal dilecehkan oleh salah seorang anggota tim sukarelawan (NAT, GMT), namun mereka terlalu takut untuk angkat bicara!
 
-Kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) berisi semua yang Anda ketahui dengan bukti sebanyak mungkin.
+Harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan segala informasi dan bukti yang kamu ketahui.
 
-Jika Anda tidak memiliki bukti apa pun, hanya cerita atau rumor yang Anda yakini cukup substansial untuk ditindaklanjuti, silakan kirim email kepada kami. Kami menanggapi keluhan seperti ini dengan sangat serius dan akan melihat setiap laporan secara mendalam.
+Apabila kamu tidak memiliki bukti apapun, atau apabila informasi yang kamu ketahui hanya berasal dari desas-desus yang beredar, jangan sungkan untuk tetap melapor kepada kami. Kami menanggapi segala laporan yang kami terima dengan sungguh-sungguh dan akan memeriksa kasusmu secara lebih mendalam apabila dirasa perlu.

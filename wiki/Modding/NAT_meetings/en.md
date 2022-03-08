@@ -6,7 +6,7 @@ tags:
 
 # NAT meetings
 
-**NAT meetings** are directed discussions hosted by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) in the `#modding` channel of the [osu!dev Discord server](/wiki/osu!dev_Discord_server). Meeting topics concern the [mapping](/wiki/Beatmapping) and [modding](/wiki/Modding) ecosystem, including problems, potential solutions, new ideas, and progress reports. While most contributors to the discussions are NAT members or [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), anyone is allowed to participate.
+**NAT meetings** are directed discussions hosted by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) in the `#modding` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server). Meeting topics concern the [mapping](/wiki/Beatmapping) and [modding](/wiki/Modding) ecosystem, including problems, potential solutions, new ideas, and progress reports. While most contributors to the discussions are NAT members or [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), anyone is allowed to participate.
 
 Meetings are usually announced over a week in advance in the `#modding` channel.
 

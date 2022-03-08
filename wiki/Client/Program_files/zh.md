@@ -27,9 +27,9 @@
 
 ### Exports
 
-当你使用 [皮肤选择器下的 “ 导出 .osk ”](/wiki/Options) 或 [谱面编辑器的 “ 导出 .osz 文件 ”](/wiki/Beatmap_Editor/Menu) 后出现。**它保存着你从osu!导出的.osz（谱面）或.osk（皮肤）文件。** 
+当你使用 [皮肤选择器下的 “ 导出 .osk ”](/wiki/Client/Options) 或 [谱面编辑器的 “ 导出 .osz 文件 ”](/wiki/Client/Beatmap_editor/Menu) 后出现。**它保存着你从osu!导出的.osz（谱面）或.osk（皮肤）文件。** 
 
-如果你想了解如何这么做，参见[osu! 文件格式](/wiki/osu!_File_Formats)。
+如果你想了解如何这么做，参见[osu! 文件格式](/wiki/Client/File_formats)。
 
 ### Localisation
 
@@ -53,7 +53,7 @@ osr 文件保存了游戏成绩和光标移动轨迹。你可以在结果页面�
 
 ### Skins
 
-该文件夹存放**用户创建的皮肤，可以用于自定义游戏界面**。你也可以登录[皮肤板块](https://osu.ppy.sh/community/forums/15) 获取皮肤。你可以通过双击.osk文件来安装皮肤。如果下载的皮肤是文件夹形式的，你需要手动将皮肤放在此处。如果它是ZIP或RAR格式，你需要先解压它。你可以在[设置里的皮肤菜单（皮肤选择器）](/wiki/Options)更改皮肤。请记住选中的皮肤只有你可见。
+该文件夹存放**用户创建的皮肤，可以用于自定义游戏界面**。你也可以登录[皮肤板块](https://osu.ppy.sh/community/forums/15) 获取皮肤。你可以通过双击.osk文件来安装皮肤。如果下载的皮肤是文件夹形式的，你需要手动将皮肤放在此处。如果它是ZIP或RAR格式，你需要先解压它。你可以在[设置里的皮肤菜单（皮肤选择器）](/wiki/Client/Options)更改皮肤。请记住选中的皮肤只有你可见。
 关于皮肤的更多信息，请参考[Skinning](/wiki/Skinning)页面。*osu! by peppy* 是惟一一个不在该目录下且不能被直接删除的皮肤。
 
 ### Songs
@@ -92,7 +92,7 @@ osr 文件保存了游戏成绩和光标移动轨迹。你可以在结果页面�
 配置文件储存了 osu! 初始化时的设置，以保证 osu! 正常运行。这些文件可以通过记事本打开：
 
 - `osu!.cfg` ：存储关于osu!应用文件的安全信息和当前的更新版本。它不应该被人为修改。
-- `osu!.<your PC account name>.cfg`：[设置页](/wiki/Options) 屏幕所包含的设置项。中的选项。见 [用户配置文件](/wiki/osu!_Program_Files/User_Configuration_File)。
+- `osu!.<your PC account name>.cfg`：[设置页](/wiki/Client/Options) 屏幕所包含的设置项。中的选项。见 [用户配置文件](/wiki/Client/Program_files/User_configuration_file)。
 
 ### .exe (应用程序)
 

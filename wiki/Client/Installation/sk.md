@@ -4,9 +4,9 @@ outdated: true
 
 # Inštalácia
 
-*Pozri tiež: [Inštalácia/macOS](/wiki/Installation/macOS)*
+*Pozri tiež: [Inštalácia/macOS](/wiki/Client/Installation/macOS)*
 
-Táto stránka ti povie ako nainštalovať osu! na tvoje Windows zariadenie. [osu!academy](/wiki/osu!academy) má [video návod](https://www.youtube.com/watch?v=0V5GwzmMhpU), ktorý vysvetluje ako nainštalovať osu! na Windows.
+Táto stránka ti povie ako nainštalovať osu! na tvoje Windows zariadenie. [osu!academy](/wiki/Community/Video_series/osu!academy) má [video návod](https://www.youtube.com/watch?v=0V5GwzmMhpU), ktorý vysvetluje ako nainštalovať osu! na Windows.
 
 ## Minimálne systémové požiadavky
 
@@ -39,7 +39,7 @@ Sú dva spôsoby ako pridať beatmapy, pomocou stránky alebo osu!direct (na osu
 4. Nájdi a otvor beatmap súbor, má `.osz` príponu.
    - Môžeš tiež presunúť tieto súbory do priečinku `Songs` v priečinku, kde si nainštaloval osu!.
 5. osu! sa automaticky o všetko postará a načíta beatmapy
-   - Pokiaľ tvoje beatmapy nevidíš, stlač `F5` v [Solo móde](/wiki/Interface#song-selection-screen) pre re-procesovanie tvojich beatmáp.
+   - Pokiaľ tvoje beatmapy nevidíš, stlač `F5` v [Solo móde](/wiki/Client/Interface#song-select) pre re-procesovanie tvojich beatmáp.
 
 ### Pomocou osu!direct
 
@@ -49,8 +49,8 @@ Sú dva spôsoby ako pridať beatmapy, pomocou stránky alebo osu!direct (na osu
 2. Nájdi si pieseň, ktorú chceš hrať.
 3. Dvojklikni na beatmap v liste alebo klikni `Download` napravo aby si stiahol beatmap.
    - Pokiaľ chceš stiahnuť beatmapu bez videa klikni na `DL NoVideo`.
-4. Keď osu! dokončí sťahovanie beatmapu, automaticky ho načíta v Solo móde na obrazovke [Zvolenia piesne](/wiki/Interface#song-selection-screen).
-   - Pokiaľ tvoje beatmapy nevidíš, stlač `F5` v [Solo móde](/wiki/Interface#song-selection-screen) pre re-procesovanie tvojich beatmáp.
+4. Keď osu! dokončí sťahovanie beatmapu, automaticky ho načíta v Solo móde na obrazovke [Zvolenia piesne](/wiki/Client/Interface#song-select).
+   - Pokiaľ tvoje beatmapy nevidíš, stlač `F5` v [Solo móde](/wiki/Client/Interface#song-select) pre re-procesovanie tvojich beatmáp.
 
 ## Pridávanie skinov
 
@@ -66,5 +66,5 @@ Sú dva spôsoby ako pridať beatmapy, pomocou stránky alebo osu!direct (na osu
      1. Extrahuj ho.
      2. Presuň priečinok skinu do priečinku `Skins` ktorý sa nachádza v mieste, kde si nainštaloval osu!.
      3. Pokiaľ máš otvorené osu!, budeš ho musieť reštartovať predtým ako ho začneš používať.
-     4. V osu!, choď do [Nastavení](/wiki/Options) a hľadaj `Skin`.
+     4. V osu!, choď do [Nastavení](/wiki/Client/Options) a hľadaj `Skin`.
      5. Choď dole na `Vyber skin:` / `Current skin:` a zvoľ skin, ktorý si si stiahol.

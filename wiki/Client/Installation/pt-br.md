@@ -1,8 +1,8 @@
 # Instalação
 
-*Veja também: [Instalação no macOS](/wiki/Installation/macOS)*
+*Veja também: [Instalação no macOS](/wiki/Client/Installation/macOS)*
 
-Esta página irá te dizer como ter o osu! funcionando em seu dispositivo Windows. A [osu!academy](/wiki/osu!academy) tem um [vídeo tutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) que explica como instalar osu! no Windows.
+Esta página irá te dizer como ter o osu! funcionando em seu dispositivo Windows. A [osu!academy](/wiki/Community/Video_series/osu!academy) tem um [vídeo tutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) que explica como instalar osu! no Windows.
 
 ## Requisitos mínimos do sistema
 
@@ -46,7 +46,7 @@ Existe duas formas de adicionar beatmaps, via website ou osu!direct (requer [osu
 4. Localize e abra o arquivo do beatmap, ele tem a extensão `.osz`
    - Alternativamente, você também pode colocar o arquivo do beatmap na pasta `Songs` da instalação do osu!
 5. osu! vai cuidar do resto e carregar o beatmap.
-   - Se, por algum motivo, você não o vê, pressione `F5` na [Seleção de música](/wiki/Interface#song-selection-screen) para reprocessar seus beatmaps.
+   - Se, por algum motivo, você não o vê, pressione `F5` na [Seleção de música](/wiki/Client/Interface#song-select) para reprocessar seus beatmaps.
 
 ### osu!direct
 
@@ -57,7 +57,7 @@ Existe duas formas de adicionar beatmaps, via website ou osu!direct (requer [osu
 3. Clique duas vezes na música na lista ou clique `Download` na direita para baixar.
    - Se você não quer baixar o vídeo do beatmap, então clique em `DL NoVideo`.
 4. Quando osu! baixar o beatmap, ele carregará automaticamente.
-   - Se, por algum motivo, você não o vê, pressione `F5` na [Seleção de música](/wiki/Interface#song-selection-screen) para reprocessar seus beatmaps.
+   - Se, por algum motivo, você não o vê, pressione `F5` na [Seleção de música](/wiki/Client/Interface#song-select) para reprocessar seus beatmaps.
 
 ## Adicionando skins
 
@@ -73,5 +73,5 @@ Existe duas formas de adicionar beatmaps, via website ou osu!direct (requer [osu
      1. Extraia.
      2. Mova a pasta da skin extraída para o diretório `Skins` da instalação do osu!.
      3. Se osu! estiver aberto, a skin aparecerá na lista apenas após você pressionar `Ctrl` + `Alt` + `Shift` + `S`.
-     4. No osu!, vá em [Opções](/wiki/Options) e procure por `Skin`.
+     4. No osu!, vá em [Opções](/wiki/Client/Options) e procure por `Skin`.
      5. Desça até a opção `Selecionar skin:` e selecione a skin que baixou.

@@ -60,7 +60,7 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
 3. Los horarios para las partidas serán organizadas por el **Administradores del Torneo** (Ver arriba).
 4. Sino hay Referis (staff) para alguna de las partidas, la misma podrá ser pospuesta).
 5. Los jugadores que fallen su partida no contarán sus scores junto a su equipo.
-6. El uso de [Visual Settings](/wiki/Visual_Settings) en Opciones será permitido.
+6. El uso de [Visual Settings](/wiki/Client/Interface/Visual_settings) en Opciones será permitido.
 7. Si el juego termina en empate podrá ser anulado.
 8. Si un jugador se desconecta/abandona la partida, se contará como perdido.
 9. Los beatmaps seleccionados para una partida no podrán ser usados para las siguientes partidas.

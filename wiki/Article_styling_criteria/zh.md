@@ -4,7 +4,7 @@ outdated: true  # the original article has been UPDATED and split into two, Form
 
 # 文章风格规范
 
-*相关文章：[文章风格规范——新闻篇](/wiki/News_Styling_Criteria)*
+*相关文章：[文章风格规范——新闻篇](/wiki/News_styling_criteria)*
 
 文章风格规范（ASC）通过硬性规定来确保 osu!wiki 的文章通俗易懂，格式统一。
 
@@ -584,7 +584,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 "asc":      "Article_Styling_Criteria"
 ```
 
-你可以这样使用：`[文章风格规范](/wiki/ASC)`。这样写等同于`[文章风格规范](/wiki/Article_styling_criteria)`，因为重定向对大小写不敏感。
+你可以这样使用：`[文章风格规范](/wiki/Article_styling_criteria)`。这样写等同于`[文章风格规范](/wiki/Article_styling_criteria)`，因为重定向对大小写不敏感。
 
 ### 图片
 

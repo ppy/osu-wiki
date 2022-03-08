@@ -30,7 +30,7 @@ outdated_since: 4374cc74effc623b50c0810086911cce5cbf129e
 
 - Вона не знаходится у категоріях [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked) або [Approved](/wiki/Beatmap/Category#approved).
 - Творець мапи згоден з тим, щоб його мапа потрапила у категорію Loved.
-- Творець мапи не заблокований або не має ніяких [обмежень облікового запису](/wiki/Help_Centre/Account#restriction).
+- Творець мапи не заблокований або не має ніяких [обмежень облікового запису](/wiki/Help_centre/Account#restriction).
 - Як мінімум одна складність може бути пройдена.
 - Мапу повинні додати у обране не менш ніж 30 людей (відноситься тільки до osu!).
 - Кожна важкість має мати, хоча б 30 секунд [геймплейного часу карти](/wiki/Gameplay/Drain_time).

@@ -2,7 +2,7 @@
 
 *Voir également : [Guide de contribution au osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
 
-Cet article décrit les aspects techniques ou administratifs du osu! wiki. Il couvre également les procédures de maintenance, qui sont nécessaires pour le maintenir à jour - peut-être pourriez-vous [aider avec l'une d'entre elles](#routines). Pour toutes les discussions relatives au wiki, utilisez le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server).
+Cet article décrit les aspects techniques ou administratifs du osu! wiki. Il couvre également les procédures de maintenance, qui sont nécessaires pour le maintenir à jour - peut-être pourriez-vous [aider avec l'une d'entre elles](#routines). Pour toutes les discussions relatives au wiki, utilisez le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 
 ## Administrateurs
 
@@ -33,7 +33,7 @@ Sur GitHub, les pull requests et les issues peuvent être tagués et classés à
 
 ### Liens et redirections
 
-La plupart des articles du osu! wiki ont des liens alternatifs, qui sont configurés à l'aide du fichier [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml). Les redirections sont destinées à être utilisées en dehors du osu! wiki, par exemple, sur les forums ou dans le [tchat](/wiki/Chat_Console), où elles peuvent être rapidement transformées en référence en ligne :
+La plupart des articles du osu! wiki ont des liens alternatifs, qui sont configurés à l'aide du fichier [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml). Les redirections sont destinées à être utilisées en dehors du osu! wiki, par exemple, sur les forums ou dans le [tchat](/wiki/Client/Interface/Chat_console), où elles peuvent être rapidement transformées en référence en ligne :
 
 ```
 Selon les [[RC]], ceci est interdit.
@@ -70,7 +70,7 @@ Certaines fonctionnalités ne sont pas directement liées au site web d'osu!, ma
 
 *Remarque : le site [osu-wiki status](https://clayton.cc/osu-wiki-status/en) présente une liste de tous les articles nécessitant une maintenance, classés par catégorie.*
 
-Le wiki repose sur les contributions de la communauté d'osu!. Vous pouvez aider les maintainers et les autres contributeurs en faisant votre part. Pour savoir comment faire, lisez le [guide de contribution](/wiki/osu!_wiki/Contribution_guide). Si vous êtes bloqué, demandez de l'aide sur le salon `#osu-wiki` du [serveur Discord osu!dev](/wiki/osu!dev_Discord_server).
+Le wiki repose sur les contributions de la communauté d'osu!. Vous pouvez aider les maintainers et les autres contributeurs en faisant votre part. Pour savoir comment faire, lisez le [guide de contribution](/wiki/osu!_wiki/Contribution_guide). Si vous êtes bloqué, demandez de l'aide sur le salon `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 
 ### Traductions
 

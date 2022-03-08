@@ -86,7 +86,7 @@ tags:
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Пазител на общност, организира и администрира World Cup, поддръжка на wiki |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! разработчик, osu!mania разработчик |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) управител |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) професор, мултимедия и дизайн на персонажи |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Community/Video_series/osu!academy) професор, мултимедия и дизайн на персонажи |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Аржентина"
 [flag_AU]: /wiki/shared/flag/AU.gif "Австралия"

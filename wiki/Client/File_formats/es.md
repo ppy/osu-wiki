@@ -18,8 +18,8 @@ no_native_review: true
 
 | Formato de archivo | Uso |
 | :-- | :-- |
-| [.osu][Osu Link] | [Composición](/wiki/Beatmap_Editor/Compose), [Tiempo](/wiki/Beatmap_Editor/Timing), [Configuración de la canción](/wiki/Beatmap_Editor/Song_Setup). |
-| [.osb][Osb Link] | [Diseño](/wiki/Beatmap_Editor/Design). |
+| [.osu][Osu Link] | [Composición](/wiki/Client/Beatmap_editor/Compose), [Tiempo](/wiki/Client/Beatmap_editor/Timing), [Configuración de la canción](/wiki/Client/Beatmap_editor/Song_Setup). |
+| [.osb][Osb Link] | [Diseño](/wiki/Client/Beatmap_editor/Design). |
 
 ### Repetición
 

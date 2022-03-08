@@ -58,7 +58,7 @@ Lorsqu'un message est marqué comme une **suggestion**, c'est pour des changemen
 
 Lorsqu'un message est marqué comme un **problème**, c'est pour des changements qui sont nécessaires pour le classement de la beatmap et qui sont objectivement nécessaires pour le classement. Ne postez pas de changements subjectifs en tant que problème, seulement lorsque quelque chose viole clairement les critères de classement ou est extrêmement inadapté, comme des SV sur une section où rien ne se passe qui pourrait les justifier, des notes unsnapped, ou un BPM complètement faux.
 
-Vous pouvez consulter l'article [discussions de la beatmap](/wiki/Beatmap_Discussion) pour plus de détails.
+Vous pouvez consulter l'article [discussions de la beatmap](/wiki/Beatmap_discussion) pour plus de détails.
 
 ## Commençons à modder !
 

@@ -286,7 +286,7 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 ## Mekanisme Perhitungan Skor
 
-*Untuk penjelasan lebih lanjut mengenai mekanisme perhitungan skor yang berlaku pada masing-masing mode permainan, harap kunjungi laman [Score](/wiki/Score) atau laman masing-masing mode permainan.*
+*Untuk penjelasan lebih lanjut mengenai mekanisme perhitungan skor yang berlaku pada masing-masing mode permainan, harap kunjungi laman [Score](/wiki/Gameplay/Score) atau laman masing-masing mode permainan.*
 
 *Untuk penjelasan lebih lanjut mengenai mekanisme perhitungan akurasi yang berlaku pada masing-masing mode permainan, harap kunjungi laman [Accuracy](/wiki/Gameplay/Accuracy) atau laman masing-masing mode permainan.*
 
@@ -395,7 +395,7 @@ Terakhir, **Rivenation** juga telah merancang [osu!search](http://osusearch.com)
 
 **Sama sekali tidak ada**. Tidak ada perbedaan apapun antara seorang pemain Level 1 dan seorang pemain Level 100 kecuali pada jam terbang dan pengalaman bermain yang mereka miliki -- di dalam permainan, pemain dengan level yang lebih tinggi tidak akan mendapatkan keuntungan dari segi apapun terhadap pemain dengan level yang lebih rendah.
 
-Level yang kamu miliki didasarkan pada total skor yang telah kamu kumpulkan dari seluruh beatmap yang telah kamu mainkan. [Kamu dapat melihat rumus yang digunakan untuk perhitungan level pada tautan berikut](/wiki/Score).
+Level yang kamu miliki didasarkan pada total skor yang telah kamu kumpulkan dari seluruh beatmap yang telah kamu mainkan. [Kamu dapat melihat rumus yang digunakan untuk perhitungan level pada tautan berikut](/wiki/Gameplay/Score).
 
 #### Mengapa statistik yang tertera pada laman profil saya berbeda dengan statistik yang saya lihat di dalam osu!?
 
@@ -405,7 +405,7 @@ Pastikan kamu tidak sedang berada pada mode permainan yang tidak kamu kehendaki.
 
 #### Bagaimana cara saya mengubah tombol-tombol input yang digunakan di dalam permainan?
 
-*Penjelasan lebih lanjut: [Options](/wiki/Options)*
+*Penjelasan lebih lanjut: [Options](/wiki/Client/Options)*
 
 ![Menu Options](/wiki/shared/Options_quickicons.jpg "Tampilan menu Options")
 
@@ -415,13 +415,13 @@ Buka menu *Options* dan pilih *Input* -> **Keyboard** dari pilihan-pilihan yang 
 
 #### Saya gagal! Kesalahan-kesalahan apa sajakah yang telah saya lakukan selama saya bermain?
 
-*Penjelasan lebih lanjut: [Replay](/wiki/Replay)*
+*Penjelasan lebih lanjut: [Replay](/wiki/Gameplay/Replay)*
 
 Apabila kamu gagal menyelesaikan sebuah beatmap, kamu dapat melihat tayangan ulang dari permainan kamu dengan menekan tombol `F1` untuk kamu telaah lebih lanjut. Tayangan ulang tersebut dapat kamu tonton hingga pada titik di mana kamu menemukan kegagalan. Untuk dapat kembali menonton tayangan ulang tersebut setelahnya, kamu dapat menekan tombol tilde (`~`) atau dengan menekan `Ctrl`+`R` secara bersamaan pada keyboard kamu. Di samping itu, kamu juga dapat menekan tombol `Esc` untuk kembali ke menu Song Selection dan tombol `F2` untuk menyimpan tayangan ulang yang bersangkutan.
 
 #### Apakah osu! memiliki tombol-tombol shortcut?
 
-*Penjelasan lebih lanjut: [Referensi tombol shortcut](/wiki/Shortcut_key_reference)*
+*Penjelasan lebih lanjut: [Referensi tombol shortcut](/wiki/Client/Keyboard_shortcuts)*
 
 osu! memiliki beberapa tombol-tombol shortcut dengan beragam fungsi yang dapat kamu gunakan. Sebagai contoh, menekan tombol `Insert` (**Boss Key**) akan menyembunyikan osu! ke dalam sidebar Windows dalam sekejap; kamu dapat kembali memunculkan osu! seperti semula dengan mengeklik logo osu! yang ada pada sidebar Windows tersebut.
 
