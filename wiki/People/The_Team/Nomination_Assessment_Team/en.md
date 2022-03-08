@@ -47,7 +47,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, moderation |
-| ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  | Evaluation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, structural, moderation, communication |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
@@ -82,7 +81,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluation |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
-<!-- last update: 2022-03-01 with the addition of _Stan into the NAT-->
+<!-- last update: 2022-03-08 with the removal of AJT from the NAT-->
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"

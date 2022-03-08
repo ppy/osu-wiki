@@ -51,7 +51,7 @@ The Project Loved Team mostly consists of *captains* for each [game mode](/wiki/
 
 Coordinators are mainly responsible for making sure all the captains work together to run Project Loved smoothly. They write news and forum posts, maintain tools, and help moderate discussions about Loved.
 
-- ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
+- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
 
 ## Beatmap metadata reviewers
@@ -172,4 +172,4 @@ Below listed are the users, who once were a part of the Project Loved Team.
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 
-<!--- last updated @ 1007 on 02/18/2022 with the removal of Noffy from Project Loved Team ---> 
+<!--- last updated @ 1744 on March 8, 2022 with the removal of huu from Project Loved Team ---> 
