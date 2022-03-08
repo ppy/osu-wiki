@@ -2,7 +2,7 @@
 
 ## Janvier
 
-[Ephemeral](https://osu.ppy.sh/users/102335) a posté un news post pour l'année en cours afin de rassurer sur le fait que plusieurs choses sont prévus pour 2017. [S3RL](https://osu.ppy.sh/beatmaps/artists/9) et [nanobii](https://osu.ppy.sh/beatmaps/artists/10) sont annoncés en tant que featured artists. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2), [yuki.](https://osu.ppy.sh/beatmaps/artists/4) et [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) on chacun sorti un album rajoutant 26 nouvelles musiques pour les beatmaps. Les Aspires sont de retour en 2017.
+[Ephemeral](https://osu.ppy.sh/users/102335) a posté un newspost pour l'année en cours afin de rassurer sur le fait que plusieurs choses sont prévues pour 2017. [S3RL](https://osu.ppy.sh/beatmaps/artists/9) et [nanobii](https://osu.ppy.sh/beatmaps/artists/10) sont annoncés en tant que featured artists. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2), [yuki.](https://osu.ppy.sh/beatmaps/artists/4) et [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) ont chacun sorti un album rajoutant 26 nouvelles musiques pour les beatmaps. Les concours Aspire sont de retour en 2017.
 
 Liens :
 
@@ -12,7 +12,7 @@ Liens :
 
 ## Février
 
-[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) a été annoncé en tant que nouvel Featured Artist. Le premier build d'osu!lazer est sorti !
+[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) a été annoncé en tant que nouveau featured artist. Le premier build lazer d'osu! est sorti !
 
 Liens :
 
@@ -21,7 +21,7 @@ Liens :
 
 ## Mars
 
-Le Monthly Beatmapping Contest revolving pour osu!catch a commencé. [LukHash](https://osu.ppy.sh/beatmaps/artists/12) a été annoncé en tant que nouvel Featured Artist. Les votes pour Aspire 2017 ont commencé. Spotlights a été annoncé pour co-exister avec les chartes de classement. Le 9ème concours de fanart sur le thème printanier a ouvert.
+Le Monthly Beatmapping Contest pour osu!catch a commencé. [LukHash](https://osu.ppy.sh/beatmaps/artists/12) a été annoncé en tant que nouveau featured artist. Les votes pour Aspire 2017 ont commencé. Spotlights a été annoncé pour co-exister avec les chartes de classement. Le 9ème concours de fanart sur le thème printanier a été ouvert.
 
 Liens :
 
@@ -33,7 +33,7 @@ Liens :
 
 ## Avril
 
-Le Monthly Beatmapping Contest \#13 a conclu avec [RyoKazuka](https://osu.ppy.sh/users/6258586) à la première place. Aspire 2017 : Stage One s'est conclu par la première place de [ProfessionalBox](https://osu.ppy.sh/users/3250792). Les votes pour le concours de fanart printanier ont ouvert. Le 100ème(?) numéro du osu!weekly est sorti. La osu!taiko World Cup 2017 s'est conclue par la victoire du Japon sur la Taïwan. Avant que le mois d'avril se termine, le concours de fanart printanier ont permis à [Evaine](https://osu.ppy.sh/users/7295733) de prendre la première place.
+Le Monthly Beatmapping Contest \#13 s'est conclu avec [RyoKazuka](https://osu.ppy.sh/users/6258586) à la première place. Aspire 2017 : Stage One s'est conclu par la première place de [ProfessionalBox](https://osu.ppy.sh/users/3250792). Les votes pour le concours de fanart printanier ont été ouverts. Le 100ème(?) numéro du osu!weekly est sorti. La osu!taiko World Cup 2017 s'est conclue par la victoire du Japon face à Taïwan. Avant que le mois d'avril se termine, le concours de fanart printanier a permis à [Evaine](https://osu.ppy.sh/users/7295733) de prendre la première place.
 
 Liens :
 
@@ -45,7 +45,7 @@ Liens :
 
 ## Mai
 
-La osu!Catch World Cup 2017 a été ouverte aux inscriptions. [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) a été annoncé en temps que nouveau Featured Artists pour osu!. osu! a annoncé être à l'Anime Expo 2017. Après plus d'un an, la nouvelle mascotte osu!taiko a été annoncée. [Mocha](/wiki/Mascots#mocha) est entrée sur scène avec [pippi](/wiki/Mascots#pippi), [Yuzu](/wiki/Mascots#yuzu), et [Maria](/wiki/Mascots#mani-&-mari). Plus tard, [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) a été annoncé pour rejoindre les Featured Artists d'osu!. Les votes pour osu!mani et osu!catch beatmapping contest ont tous deux ouverts.
+La osu!Catch World Cup 2017 a été ouverte aux inscriptions. [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) a été annoncé en tant que nouveau Featured Artists pour osu!. osu! a annoncé être à l'Anime Expo 2017. Après plus d'un an, la nouvelle mascotte osu!taiko a été annoncée. [Mocha](/wiki/Mascots#mocha) est entrée sur scène avec [pippi](/wiki/Mascots#pippi), [Yuzu](/wiki/Mascots#yuzu), et [Maria](/wiki/Mascots#mani-&-mari). Plus tard, [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) a été annoncé en tant que nouveau featured artist d'osu!. Les votes ont été ouverts pour le Beatmapping Contest des modes osu!mania et osu!catch.
 
 Liens :
 
@@ -57,7 +57,7 @@ Liens :
 
 ## Juin
 
-La team osu! participera à l'Anime Expo pour les 10 prochaines années d'osu!. Le 15-07-2017, le menu principal/playfield a été remplacé par 4 nouvelles images génériques. Les images de playfield changent quand on change de musique. LE support permettant d'activer ou de désactiver les seasonal backgrounds toute l'année, ou de temps en temps a été rajouté dans les [Options](/wiki/Client/Options). Pendant le mois, dans le Discord osu!dev, il y a eu des discussions autour de la mort du osu!weekly. À partir de ce moment-là chaque post officiel et communautaire sera postés quand il sera prêt, plutôt que de le faire chaque semaine. Le Mocha in Summer Fanart Contest a commencé.
+L'équipe d'osu! participera à l'Anime Expo pour les 10 prochaines années d'osu!. Le 15 juin 2017, le menu principal/playfield a été remplacé par 4 nouvelles images génériques. Les images de playfield changent quand on change de musique. La possibilité d'activer ou de désactiver les seasonal backgrounds toute l'année, ou de temps en temps a été rajoutée dans les [Options](/wiki/Client/Options). Pendant le mois, dans le Discord osu!dev, il y a eu des discussions autour de la mort du osu!weekly. À partir de ce moment-là, chaque post officiel et communautaire sera posté quand il sera prêt, plutôt que de le faire chaque semaine. Le Mocha in Summer Fanart Contest a commencé.
 
 Liens :
 
@@ -68,7 +68,7 @@ Liens :
 
 ## Juillet
 
-Les inscriptions pour la osu!mania 4K World Cup ont ouvert. Les votes pour le Mocha in Summer Fanart Contest ont ouvert. La osu!catch World Cup 2017 s'est conclue par la victoire de la Corée du Sud sur la Chine. les enregistrements pour la Community Mentorship Program Fall 2017 ont ouverts. Au dernier jour de juillet, la Mocha in Summer fanart contest s'est conclue avec [2Su](https://osu.ppy.sh/users/6598966) à la première place.
+Les inscriptions pour la osu!mania 4K World Cup sont ouverts. Les votes pour le Mocha in Summer Fanart Contest sont ouverts. La osu!catch World Cup 2017 s'est conclue par la victoire de la Corée du Sud sur la Chine. Les inscriptions pour le Community Mentorship Program Fall 2017 sont ouvertes. Au dernier jour de juillet, le Mocha in Summer Fanart Contest s'est conclu avec [2Su](https://osu.ppy.sh/users/6598966) à la première place.
 
 Liens :
 
@@ -79,7 +79,7 @@ Liens :
 
 ## Août
 
-[Wisp X](https://osu.ppy.sh/beatmaps/artists/16) et [OISHII](https://osu.ppy.sh/beatmaps/artists/17) ont été annoncés en temps que nouveaux Featured Artists. Les auditions pour la osu!idol 2017 ont ouvert. Le osu! coffee Hour a été introduit en tant que podcast. Un concours de fanart pour un nouveau look de [Yuzu's](/wiki/Mascots#yuzu) a ouvert.
+[Wisp X](https://osu.ppy.sh/beatmaps/artists/16) et [OISHII](https://osu.ppy.sh/beatmaps/artists/17) ont été annoncés en tant que nouveaux featured artists. Les auditions pour la osu!idol 2017 ont ouvert. La osu! Coffee Hour a été introduite en tant que podcast. Un concours de fanart pour un nouveau look de [Yuzu](/wiki/Mascots#yuzu) a été ouvert.
 
 Liens :
 
@@ -91,7 +91,7 @@ Liens :
 
 ## Septembre
 
-[\*namirin](https://osu.ppy.sh/beatmaps/artists/18) a été annoncé en tant que nouveau Featured Artist. Mapping with rewards est de retour avec des récompenses liées aux musiques sélectionnées. osu!mania 4k World Cup s'est conclue par la victoire de la Corée du Sud face aux États-Unis. Les votes pour le nouveau look de Yuzu ont ouvert.
+[\*namirin](https://osu.ppy.sh/beatmaps/artists/18) a été annoncé en tant que nouveau featured artist. Mapping with rewards est de retour avec des récompenses liées aux musiques sélectionnées. L'osu!mania 4k World Cup s'est conclue par la victoire de la Corée du Sud face aux États-Unis. Les votes pour le nouveau look de Yuzu sont ouverts.
 
 Liens :
 
@@ -102,7 +102,7 @@ Liens :
 
 ## Octobre
 
-Un autre concours de fanart pour Halloween a ouvert. Les inscriptions pour la osu! World Cup 2017 ont ouvert. Quelques jours avant Halloween, le concours de fanart d'Halloween a ouvert. A Halloween, les résultats du concours de fanart ont été révélés.
+Un autre concours de fanart pour Halloween a été ouvert. Les inscriptions pour l'osu! World Cup 2017 sont ouvertes. Quelques jours avant Halloween, le concours de fanart d'Halloween a été ouvert. À Halloween, les résultats du concours de fanart ont été révélés.
 
 Liens :
 
@@ -113,7 +113,7 @@ Liens :
 
 ## Novembre
 
-[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) a été annoncé en tant que nouveau Featured Artists. peppy a ouvert un thread de discussion afin de centraliser ses pensées sur le touchscreens; ainsi que quelques réponses aux solutions fréquemment proposées. Le salon `#osu-performance` sur le Discord osu!dev a ouvert afin de permettre des discussions plus ouvertes. Le Winter 2017 Fanart Contest a ouvert.
+[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) a été annoncé en tant que nouveau featured artist. peppy a ouvert un fil de discussion afin de centraliser ses pensées sur les écrans tactiles ; ainsi que quelques réponses aux solutions fréquemment proposées. Le salon `#osu-performance` sur le Discord osu!dev a été ouvert afin de permettre des discussions plus ouvertes. Le Winter 2017 Fanart Contest a été ouvert.
 
 Liens :
 
@@ -123,7 +123,7 @@ Liens :
 
 ## Décembre
 
-Les résultats du Winter 2017 Fanart Contest sont là, récompensant [Leissss](https://osu.ppy.sh/users/4750716) avec la plupart des votes. La OWC 2017 s'est conclue part la victoire de la Pologne. Merci à LiquidPL d'avoir refait la page de téléchargement osu!web. Le jour avant Noël, une autre poignée de contributeurs de la communauté ont été annoncées. Tous les joueurs ont reçus le status osu!supporter à des fins de test, qui par coincidence est arrivé le jour de Noël. peppy a fini l'année avec une vidéo, montrant l'avancée d'osu!lazer au cours de l'année.
+Les résultats du Winter 2017 Fanart Contest sont tombés, récompensant [Leissss](https://osu.ppy.sh/users/4750716) ayant le plus de votes. L'OWC 2017 s'est conclue par la victoire de la Pologne. Grâce à LiquidPL, la page de téléchargement sur osu!web a pu être refaite. Le jour avant Noël, une autre poignée de contributeurs de la communauté ont été annoncés. Tous les joueurs ont reçu temporairement un tag osu!supporter à des fins de test, qui par coincidence est arrivé le jour de Noël. peppy a terminé l'année avec une vidéo, montrant l'avancée du client lazer d'osu! au cours de l'année.
 
 Liens :
 
