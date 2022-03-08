@@ -244,6 +244,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"

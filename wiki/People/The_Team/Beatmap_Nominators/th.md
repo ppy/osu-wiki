@@ -83,8 +83,8 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | เยอรมัน |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | เกาหลี |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | จีน |
-| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | เยอรมัน |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | รัสเซีย |
 | ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | เยอรมัน |
@@ -102,6 +102,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | เกาหลี |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | รัสเซีย |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
+| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | จีน |
 | ![][flag_HK] [Saggin](https://osu.ppy.sh/users/12464107) | จีน, กวางตุ้ง, ญี่ปุ่น บ้าง |
 | ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | ฝรั่งเศส |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
@@ -136,7 +137,6 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | อาหรับ, ฝรั่งเศส, อิตาลี บ้าง |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
 | ![][flag_BR] [Idealism](https://osu.ppy.sh/users/3869519) | โปรตุเกส |
-| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | ดัตช์ |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | ฟินแลนด์, ญี่ปุ่น |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | ญี่ปุ่น, กวางตุ้ง, จีน |
 | ![][flag_RU] [Lexa14](https://osu.ppy.sh/users/15397129) | รัสเซีย |
@@ -166,17 +166,17 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | จีน |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
 | ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
+| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | จีน |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | เกาหลี |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | เวียดนาม |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | ฟิลิปปินส์ |
 | ![][flag_ID] [Lita-](https://osu.ppy.sh/users/15205070) | อินโดนีเซีย |
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | อินโดนีเซีย |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | อินโดนีเซีย |
-| ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) | อินโดนีเซีย |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | เกาหลี |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | ดัตช์ |
 | ![][flag_ES] [PuigdemontLoL](https://osu.ppy.sh/users/7080063) | สเปน |
@@ -191,16 +191,18 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
+| ![][flag_PT] [Basensorex](https://osu.ppy.sh/users/11655886) | โปรตุเกส |
 | ![][flag_KR] [Cellina](https://osu.ppy.sh/users/2490770) | เกาหลี |
+| ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | สเปน |
 | ![][flag_KR] [Len](https://osu.ppy.sh/users/1686145) | เกาหลี |
 | ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
-| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | จีน |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | ลิทัวเนีย |
 
 #### osu!taiko
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
+| ![][flag_JP] [Chromoxx](https://osu.ppy.sh/users/1881639) | ญี่ปุ่น |
 | ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | ญี่ปุ่น บ้าง, เยอรมัน บ้าง |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | รัสเซีย |
 
@@ -208,17 +210,15 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | จีน |
-| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | จีน |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | อินโดนีเซีย |
-| ![][flag_KR] [Paran](https://osu.ppy.sh/users/13340203) | เกาหลี |
+| ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
 
 #### osu!mania
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | จีน |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | จีน, กวางตุ้ง |
+| ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | จีน |
+| ![][flag_KR] [Paran](https://osu.ppy.sh/users/13340203) | เกาหลี |
+| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | เกาหลี |
 
 ## ประวัติ
 
@@ -244,6 +244,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 [flag_ID]: /wiki/shared/flag/ID.gif "อินโดนีเซีย"
 [flag_IE]: /wiki/shared/flag/IE.gif "ไอร์แลนด์"
 [flag_IT]: /wiki/shared/flag/IT.gif "อิตาลี"
+[flag_JP]: /wiki/shared/flag/JP.gif "ญี่ปุ่น"
 [flag_KR]: /wiki/shared/flag/KR.gif "เกาหลีใต้"
 [flag_KZ]: /wiki/shared/flag/KZ.gif "คาซัคสถาน"
 [flag_LT]: /wiki/shared/flag/LT.gif "ลิทัวเนีย"
@@ -254,6 +255,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 [flag_NZ]: /wiki/shared/flag/NZ.gif "นิวซีแลนด์"
 [flag_PH]: /wiki/shared/flag/PH.gif "ฟิลิปปินส์"
 [flag_PL]: /wiki/shared/flag/PL.gif "โปแลนด์"
+[flag_PT]: /wiki/shared/flag/PT.gif "โปรตุเกส"
 [flag_RU]: /wiki/shared/flag/RU.gif "รัสเซีย"
 [flag_SG]: /wiki/shared/flag/SG.gif "สิงคโปร์"
 [flag_TH]: /wiki/shared/flag/TH.gif "ไทย"
