@@ -6,7 +6,7 @@ date: 2022-03-09 09:00:00 +0000
 
 Jam-packed with energy, **EmoCosine**'s music has finally entered our Featured Artist library!
 
-![](https://assets.ppy.sh/artists/246/header.jpg)
+![](https://assets.ppy.sh/artists/246/header.jpg?2022)
 
 **EmoCosine** is a somewhat fresh addition to the rhythm game world. They only earned their status as a prestigious rhythm game song composer in 2018, but since then, their works have been adopted in major titles like *Lanota*, *Muse Dash*, and *SOUND VOLTEX*.
 
@@ -25,7 +25,7 @@ These songs contrast intense rhythm game tones with **EmoCosine**'s iconic upbea
 Explore [this osu! beatmap](https://osu.ppy.sh/beatmapsets/1710593) hosted by [Garden](https://osu.ppy.sh/users/2849992) and seen in the video above!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/246/Songs/EmoCosine%20-%20Nekojarashi.mp3" type="audio/mpeg">
 </audio>
 
 ### MAGENTA POTION
@@ -33,7 +33,7 @@ Explore [this osu! beatmap](https://osu.ppy.sh/beatmapsets/1710593) hosted by [G
 Sip on [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1502054) hosted by [Rycy](https://osu.ppy.sh/users/7394522)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/246/Love%20Kills%20U%20EP/EmoCosine%20-%20MAGENTA%20POTION.mp3" type="audio/mpeg">
 </audio>
 
 ### Give You My World
@@ -41,7 +41,7 @@ Sip on [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1502054) hosted b
 Or dedicate yourself to [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1225464) hosted by [Capu](https://osu.ppy.sh/users/2474015)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/246/Love%20Kills%20U%20EP/EmoCosine%20-%20Give%20You%20My%20World.mp3" type="audio/mpeg">
 </audio>
 
 ### Cutter
@@ -49,7 +49,7 @@ Or dedicate yourself to [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/
 Last but definitely not least, take a slice of [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1598606) hosted yet again by [Rycy](https://osu.ppy.sh/users/7394522)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/246/Love%20Kills%20U%20EP/EmoCosine%20-%20Cutter.mp3" type="audio/mpeg">
 </audio>
 
 ---
