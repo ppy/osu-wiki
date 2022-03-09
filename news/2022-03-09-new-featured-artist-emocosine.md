@@ -44,7 +44,7 @@ Or dedicate yourself to [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/
     <source src="LINK" type="audio/mpeg">
 </audio>
 
-### Give You My World
+### Cutter
 
 Last but definitely not least, take a slice of [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1598606) hosted yet again by [Rycy](https://osu.ppy.sh/users/7394522)!
 
