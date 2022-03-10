@@ -2,7 +2,7 @@
 
 **Pertemuan komunitas osu!** merupakan sebuah panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/The_Team) setiap dua minggu sekali. Tujuan utama dari pertemuan ini adalah untuk memberikan kesempatan kepada seluruh pihak untuk dapat berbicara secara langsung dengan para pengembang serta orang-orang yang bertanggung jawab dalam mengatur komunitas mengenai berbagai hal yang dirasa perlu untuk dibahas dan dipertimbangkan lebih lanjut.
 
-[Dahulu kala](https://twitter.com/ppy/status/1169256824052170755), tim inti osu! rutin mengadakan pertemuan komunitas yang memungkinkan seluruh anggota komunitas untuk dapat menyuarakan pendapatnya. Meskipun demikian, seiring dengan semakin besarnya komunitas osu!, hal ini tidak lagi memungkinkan. Oleh karenanya, pertemuan komunitas kini diselenggarakan dengan menggunakan sistem antrian Discord yang dapat mengurutkan berbagai pertanyaan yang masuk secara satu per satu. 
+[Dahulu kala](https://twitter.com/ppy/status/1169256824052170755), tim inti osu! rutin mengadakan pertemuan komunitas yang memungkinkan seluruh anggota komunitas untuk dapat menyuarakan pendapatnya. Meskipun demikian, seiring dengan semakin besarnya komunitas osu!, hal ini tidak lagi memungkinkan. Oleh karenanya, pertemuan komunitas kini diselenggarakan dengan menggunakan sistem antrian Discord yang dapat mengurutkan berbagai pertanyaan yang masuk secara satu per satu.
 
 Apabila kamu tertarik untuk bertanya, pastikan kamu telah membaca pedoman yang tertera di bawah.
 
@@ -12,7 +12,7 @@ Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/user
 
 Pertemuan komunitas osu! saat ini diselenggarakan pada Discord Stage yang ada di [server Discord osu!dev](https://discord.gg/ppy) dan disiarkan secara langsung pada [kanal Twitch peppy](https://www.twitch.tv/ppy). Seluruh sesi pertemuan dijadwalkan untuk berlangsung selama satu jam.
 
-Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang akan diumumkan pada [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya. Untuk mendapat pemberitahuan mengenai pertemuan yang akan berlangsung, kamu dapat menandai dirimu sebagai "tertarik" (*"interested"*) pada *event* yang di-*post* pada [server Discord osu!dev](https://discord.gg/ppy)
+Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang akan diumumkan pada [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya. Untuk mendapat pemberitahuan mengenai pertemuan yang akan berlangsung, kamu dapat menandai dirimu sebagai "tertarik" (*"interested"*) pada *event* yang di-*post* pada [server Discord osu!dev](https://discord.gg/ppy).
 
 Semua orang diperkenankan untuk berpartisipasi! Jika kamu punya pertanyaan atau sesuatu untuk disampaikan pada diskusi, kamu dapat mengangkat tanganmu di Discord Stage untuk masuk dalam antrian atau menuliskan pesan pada utas Discord di *channel* `#community-meetings` jika kamu tidak nyaman berbicara, yang akan dibacakan dan dijawab. Sebagai tambahan, sebelum bertanya, perhatikan pedoman berikut ini:
 
