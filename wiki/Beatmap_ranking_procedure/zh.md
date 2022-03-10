@@ -18,7 +18,7 @@
 
 [谱面审核员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 的摸图经验丰富，并且能提名谱面。他们的职责是确保谱面的质量既能达到[上架标准 (Ranking Criteria)](/wiki/Ranking_Criteria)，也能达到他们个人的质量标准。
 
-[审核评估团队 (NAT) ](/wiki/People/The_Team/Nomination_Assessment_Team) 成员也能提名谱面。但这不是他们的主要职责。
+[审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) 成员也能提名谱面。但这不是他们的主要职责。
 
 建议在谱面已获得足够的摸和过审前必需的 5 个推荐后，再去请求 BN 提名谱面（俗称点图）。
 
@@ -38,4 +38,4 @@
 
 谱面通过了过审阶段即完成了谱面审核流程从而上架。此时谱面开放全新的排行榜，玩家也可以从谱面内获取到表现分 (pp)。
 
-上架 (Ranked) 状态的谱面只会在上架后短期内发现了某些严重问题，或是出现了特殊情况后，才下架处理。
+上架状态的谱面只会在上架后短期内发现了某些严重问题，或是出现了特殊情况后，才下架处理。
