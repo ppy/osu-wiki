@@ -18,7 +18,7 @@ Un comportement durable en contradiction avec ces attentes est un motif d'exclus
 
 ## Activité
 
-- **Les exigences en matière d'activité pour votre ou vos modes de jeu respectifs doivent être remplies.** L'activité des 90 derniers jours sera vérifiée le premier jour de chaque mois et lors des évaluations régulières du BN, en tenant compte des congés communiqués.
+- **Les exigences en matière d'activité pour votre ou vos modes de jeu respectifs doivent être remplies.** L'activité des 90 derniers jours sera vérifiée le premier jour de chaque mois et lors des évaluations régulières des BN, en tenant compte des congés communiqués.
   - **Le fait de passer sous la barre des 60 jours de nominations sur une période de 90 jours entraînera une exclusion lors du contrôle de l'activité.** Par exemple, une BN d'osu! avec moins de 6 nominations sur une période de 90 jours sera exclu.
   - **Le fait de passer sous la barre des 90 jours avec plus de 60 jours de nominations entraînera un avertissement d'activité.** 
   - Lorsque vous êtes averti pour votre activité, les exigences minimales d'activité pour votre ou vos modes de jeu respectifs doivent être remplies au cours d'un mois.
