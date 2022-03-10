@@ -2,7 +2,7 @@
 
 *参见： [Rank（消歧义页）](/wiki/Disambiguation/Rank)*
 
-谱面作者（以下简称谱师）能够按照以下的谱面审核流程制作[谱面](/wiki/Beatmap)，即可让谱面被社区推选并进入[已上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态。
+谱面作者（以下简称谱师）能够按照以下的谱面审核流程制作[谱面](/wiki/Beatmap)，即可让谱面被社区推选并进入[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态。
 
 ## 摸图
 
@@ -27,6 +27,8 @@
 每个游戏模式获得 2 个提名后，谱面即进入了[过审 (Qualified)](/wiki/Beatmap/Category#qualified) 状态。已过审谱面有分数排行榜，但玩家游玩时不会获得任何[表现分 (pp)](/wiki/Performance_points)。当谱面处于过审状态并在[上架队列](Ranking_queue)中排队至少 7 天后，即可按队列进入[上架 (Ranked)](#ranked) 状态。
 
 过审状态存在的意义是把谱面推给社区，从而找出谱面中可能存在的隐藏问题。玩家可以从过审谱面的谱面讨论页向 BN 或者 NAT 反映谱面问题。与待定 (Pending) 谱面不同，谱师不能在谱面状态不发生改变的前提下，再次提交以修改这张谱面。若要修改谱面，谱师只能先请求[重置提名](#nomination-resets)，然后听取其他人意见或建议来修改它。
+
+当 BN 或者 NAT 成员认为谱面含有某些与上架标准 (Ranking Criteria) 无关的质量问题时，偶尔也会否决 (veto) 谱面。
 
 ## 提名重置
 
