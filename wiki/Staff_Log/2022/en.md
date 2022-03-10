@@ -66,7 +66,6 @@ Abbreviations for user groups are used throughout this log:
 - 2022-02-26: Added [bigh](https://osu.ppy.sh/users/16352736) to **Probationary BN**
 - 2022-02-28: Added [Basensorex](https://osu.ppy.sh/users/11655886) to **Probationary BN**
 
-
 #### Moves
 
 - 2022-02-06: Moved [Saggin](https://osu.ppy.sh/users/12464107) from **Probationary BN** to **BN**
@@ -109,7 +108,6 @@ Abbreviations for user groups are used throughout this log:
 - 2022-03-01: Added [Didah](https://osu.ppy.sh/users/8030129) to **Probationary BN**
 - 2022-03-06: Added [Chromoxx](https://osu.ppy.sh/users/1881639) to **Probationary BN**
 - 2022-03-08: Added [secXcscX](https://osu.ppy.sh/users/13543418) to **Probationary BN**
-
 
 #### Moves
 
