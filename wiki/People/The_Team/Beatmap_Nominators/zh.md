@@ -148,6 +148,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | 泰语 |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | 粤语 |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | 荷兰语 |
 | ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530) | 波兰语 |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | 希腊语 |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | 韩语 |
@@ -206,6 +207,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
+| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 
 #### osu!mania
 

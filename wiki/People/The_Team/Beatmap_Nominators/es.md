@@ -152,6 +152,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Tailandés |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Cantonés |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Holandés |
 | ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530) | Polaco |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Griego |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Coreano |
@@ -215,6 +216,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
+| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 
 ## Historia
 

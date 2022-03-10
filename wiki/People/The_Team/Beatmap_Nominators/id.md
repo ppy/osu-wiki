@@ -153,6 +153,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thai |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Kanton |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Belanda |
 | ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530) | Polandia |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Yunani |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korea |
@@ -216,6 +217,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
+| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 
 ## Sejarah
 

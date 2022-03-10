@@ -153,6 +153,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Tailandês |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Cantonês |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Holandês |
 | ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530) | Polonês |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Grego |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Coreano |
@@ -211,6 +212,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
+| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 
 #### osu!mania
 
