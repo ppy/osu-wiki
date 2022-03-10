@@ -55,6 +55,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | 中文，马来语 | 聊天室管理员 |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | 聊天室管理员 |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | 瑞典语，西班牙语 | 聊天室管理员，锦标赛管理员 |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | 聊天室管理员 |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | 韩语，日语 | 聊天室管理员 |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | 土耳其语 | 聊天室管理员 |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | 西班牙语 | 聊天室管理员，论坛管理员 |
@@ -92,6 +93,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 菲律宾语 | 聊天室管理员 |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 德语 | 锦标赛管理员 |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | 法语，部分西班牙语 | 聊天室管理员 |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | 葡萄牙语 | 聊天室管理员 |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 粤语，中文 | 聊天室管理员 |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | 韩语，日语 | 聊天室管理员 |

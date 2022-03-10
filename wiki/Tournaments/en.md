@@ -6,7 +6,7 @@ Please visit the [Official tournament support](/wiki/Tournaments/Official_suppor
 
 ## Official World Cups
 
-Official tournaments hosted by the Tournament Management.
+Official tournaments organised by the osu! team.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
@@ -42,6 +42,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!taiko World Cup 2019](TWC/2019) | 2019-04-20 | 2019-05-26 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_KR] South Korea |
 | [osu!taiko World Cup 2020](TWC/2020) | 2020-03-07 | 2020-04-12 | ![][flag_JP] Japan | ![][flag_KR] South Korea | ![][flag_GB] United Kingdom |
 | [osu!taiko World Cup 2021](TWC/2021) | 2021-03-06 | 2021-04-11 | ![][flag_JP] Japan | ![][flag_KR] South Korea | ![][flag_BR] Brazil |
+| [osu!taiko World Cup 2022](TWC/2022) | 2022-03-12 | 2022-04-24 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -75,7 +76,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!mania 4K World Cup 2019](MWC/2019_4K) | 2019-09-21 | 2019-10-27 | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] United States |
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 2020-08-15 | 2020-09-20 | ![][flag_BR] Brazil | ![][flag_JP] Japan | ![][flag_KR] South Korea |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 2021-07-31 | 2021-09-19 | ![][flag_BR] Brazil | ![][flag_US] United States | ![][flag_MY] Malaysia |
-| [osu!mania 7K World Cup 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | TBD | TBD | TBD |
+| [osu!mania 7K World Cup 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_MY] Malaysia |
 
 ## Community
 
@@ -127,6 +128,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Coffee Hispanic Tournament](CH/CHT_1) | 2020-01-17 | 2020-02-17 | United States | Noveno Gaston | hallo y caspi |
 | [Coffee Hispanic Showdown](CH/CHS_1) | 2020-08-06 | 2020-09-13 | yotambien | carlos | catJAM |
+| [Coffee Hispanic: Mocha](CH/CHM_1) | 2021-08-10 | 2021-10-10 | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) | ![][flag_CL] [Intercambing](https://osu.ppy.sh/users/2546001) | ![][flag_ES] [A N T O N I O](https://osu.ppy.sh/users/12760743) |
 
 #### Corgi Cup
 
@@ -531,7 +533,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | 4 Digit osu!mania World Cup | 2019-06-03 | 2019-07-27 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
 | [4 Digit osu!mania World Cup 3](4DM/3) | 2021-01-23 | 2021-03-07 | ![][flag_PH] Philippines | ![][flag_MY] Malaysia | ![][flag_BR] Brazil |
-| [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | *TBD* | *TBD* | *TBD* |
+| [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | ![][flag_FR] France | ![][flag_TH] Thailand | ![][flag_PE] Peru |
 
 #### :thonking: Mania Tournament
 
@@ -733,6 +735,7 @@ Unofficial tournaments/competitions hosted by the communities.
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"

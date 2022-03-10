@@ -54,6 +54,7 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | Chino, malayo | Moderación del chat |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderación del chat |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Sueco, español | Moderación del chat, torneos |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | Moderación del chat |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Coreano, japonés | Moderación del chat |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turco | Moderación del chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Español | Moderación del chat, moderación del foro |
@@ -91,6 +92,7 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Presencia oficial del equipo |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Moderación del chat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Alemán | Torneos |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Francés, algo de español | Moderación del chat |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugués | Moderación del chat |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Cantonés, chino | Moderación del chat |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Coreano, japonés | Moderación del chat |

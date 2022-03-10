@@ -36,17 +36,120 @@ The UK Community Cup 11 is run by various community members.
 | Streamer | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736), ![][flag_FR] [lardon](https://osu.ppy.sh/users/11409334) |
 | Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_GB] [SadShiba](https://osu.ppy.sh/users/10747626), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [Lapis-](https://osu.ppy.sh/users/929134) |
 | Designer | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |
-| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_PL] [Marzale](https://osu.ppy.sh/users/5194043), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [Geag](https://osu.ppy.sh/users/16052525), ![][flag_ID] [Raff](https://osu.ppy.sh/users/7227330), ![][flag_GB] [Kezanub](https://osu.ppy.sh/users/6088641), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736) |
+| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_PL] [Marzale](https://osu.ppy.sh/users/5194043), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [Geag](https://osu.ppy.sh/users/16052525), ![][flag_ID] [Raff](https://osu.ppy.sh/users/7227330), ![][flag_GB] [Kezanub](https://osu.ppy.sh/users/6088641), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736) |
 | Statistician | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 
 ## Links
 
-- **[Registration form](https://docs.google.com/forms/d/1-6sUrCNqhyj5_uOZGBPTF_GDM2QBdHPIeSV8WKJB3Yc/edit)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1508197?n=1)
 - [Discord](https://discord.gg/EtsU7Cw)
 - [Livestream](https://twitch.tv/osuukcc)
 - [Rules and information document](https://docs.google.com/document/d/1rkDOmvN4o5VKTbFcBXUXAjG2kPjNhpan9-WwgYlfpE8/edit?usp=sharing)
 - [Main spreadsheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti8gGxxCJIHsQXy3gJNAKH9EqATfo/edit#gid=0)
+
+## Participants
+
+See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti8gGxxCJIHsQXy3gJNAKH9EqATfo/edit#gid=566374074) for a list of all initial participants.
+
+| Seed | Team | Members |
+| :-: | :-: | :-- |
+| #1 | **go wild Idm** | ![][flag_GB] [Plasma](http://osu.ppy.sh/users/10077431), ![][flag_GB] [Apo11o](http://osu.ppy.sh/users/9558549) |
+| #2 | **ABSOLUTE UNITS** | ![][flag_GB] [Malteser](http://osu.ppy.sh/users/5218178), ![][flag_GB] [Defex](http://osu.ppy.sh/users/9674143) |
+| #3 | **denial piano** | ![][flag_GB] [spook](http://osu.ppy.sh/users/2232928), ![][flag_GB] [majoreh](http://osu.ppy.sh/users/7959222) |
+| #4 | **The PokiStans** | ![][flag_GB] [Matt4132](http://osu.ppy.sh/users/11706972), ![][flag_GB] [nonce](http://osu.ppy.sh/users/11861997) |
+| #5 | **Luciano Fan Club** | ![][flag_GB] [BronySC](http://osu.ppy.sh/users/7516484), ![][flag_GB] [Bubbleman](http://osu.ppy.sh/users/5182050) |
+| #6 | **:stonehenge:** | ![][flag_IE] [Ophiz](http://osu.ppy.sh/users/6671641), ![][flag_GB] [jpjtyld](http://osu.ppy.sh/users/10028762) |
+| #7 | **that's what i'm saying!** | ![][flag_GB] [Gazzzaa](http://osu.ppy.sh/users/8624512), ![][flag_GB] [Voss](http://osu.ppy.sh/users/7657761) |
+| #8 | **:flag_tf:** | ![][flag_HK] [pedeko](http://osu.ppy.sh/users/8645133), ![][flag_GB] [weezer](http://osu.ppy.sh/users/12356252) |
+| #9 | **Werther's Originals** | ![][flag_GB] [Doomsday](http://osu.ppy.sh/users/18983), ![][flag_GB] [dong](http://osu.ppy.sh/users/4422446) |
+| #10 | **Swonkity and Farto** | ![][flag_IE] [swankitydankity](http://osu.ppy.sh/users/14449630), ![][flag_IE] [Faro](http://osu.ppy.sh/users/10276624) |
+| #11 | **Rupert Murducks** | ![][flag_GB] [Withered Lotus](http://osu.ppy.sh/users/3546931), ![][flag_GB] [DeltaZero](http://osu.ppy.sh/users/6472042) |
+| #12 | **bare close to the camera innit** | ![][flag_GB] [Harpy](http://osu.ppy.sh/users/6761714), ![][flag_GB] [bassline junkie](http://osu.ppy.sh/users/17678190) |
+| #13 | **Washed Warriors** | ![][flag_GB] [Rinnu](http://osu.ppy.sh/users/12179012), ![][flag_GB] [-Monki-](http://osu.ppy.sh/users/14121149) |
+| #14 | **Mindmeister107** | ![][flag_HK] [mindmaster107](http://osu.ppy.sh/users/8819496), ![][flag_GG] [WoodMeister](http://osu.ppy.sh/users/10758866) |
+| #15 | **Deflated squidward 2** | ![][flag_GB] [-Deeline](http://osu.ppy.sh/users/10121815), ![][flag_GB] [[Nathan]](http://osu.ppy.sh/users/4741293) |
+| #16 | **stun seed** | ![][flag_GB] [Fwuffy](http://osu.ppy.sh/users/7374212), ![][flag_GB] [ZhiYo](http://osu.ppy.sh/users/9512841) |
+| #17 | **The** | ![][flag_GB] [lystia](http://osu.ppy.sh/users/11042418), ![][flag_GB] [Kingling](http://osu.ppy.sh/users/7010761) |
+| #18 | **the southern service to ore** | ![][flag_GB] [flubb](http://osu.ppy.sh/users/8211340), ![][flag_GB] [Xifan](http://osu.ppy.sh/users/9271492) |
+| #19 | **frogy** | ![][flag_GB] [p4905](http://osu.ppy.sh/users/11839754), ![][flag_GB] [Mahmood](http://osu.ppy.sh/users/7627844) |
+| #20 | **Meal Deal Men** | ![][flag_GB] [NeoPixel201](http://osu.ppy.sh/users/12139352), ![][flag_GB] [Tesco Meal Deal](http://osu.ppy.sh/users/6471972) |
+| #21 | **reshamen** | ![][flag_GB] [flag\_sc](http://osu.ppy.sh/users/17706086), ![][flag_GB] [Doughy](http://osu.ppy.sh/users/5275937) |
+| #22 | **language analysis spray** | ![][flag_GB] [uee](http://osu.ppy.sh/users/3793976), ![][flag_GB] [GongoTheGecko](http://osu.ppy.sh/users/9227012) |
+| #23 | **Mario Party Enjoyers (not Gaz)** | ![][flag_GB] [Gaz](http://osu.ppy.sh/users/3648459), ![][flag_GB] [Kathalshame](http://osu.ppy.sh/users/4572097) |
+| #24 | **osu!UK Lovers** | ![][flag_GB] [Teejay](http://osu.ppy.sh/users/9499753), ![][flag_GB] [Cephus](http://osu.ppy.sh/users/3373206) |
+| #25 | **bri ish** | ![][flag_GB] [Yozora](http://osu.ppy.sh/users/10085767), ![][flag_GB] [HonourBound](http://osu.ppy.sh/users/2945999) |
+| #26 | **Less-tah** | ![][flag_GB] [tekteks](http://osu.ppy.sh/users/11094254), ![][flag_GB] [Abielove](http://osu.ppy.sh/users/9346516) |
+| #27 | **Plympton** | ![][flag_GB] [Komm](http://osu.ppy.sh/users/7671790), ![][flag_GB] [Greninja](http://osu.ppy.sh/users/8579186) |
+| #28 | **sith is a slvt** | ![][flag_GB] [-jordan-](http://osu.ppy.sh/users/7288862), ![][flag_GB] [Sith](http://osu.ppy.sh/users/8112797) |
+| #29 | **Some Femboy Shit** | ![][flag_GB] [Kwichi-](http://osu.ppy.sh/users/16287466), ![][flag_GB] [Fluxey](http://osu.ppy.sh/users/9098192) |
+| #30 | **Platform Duty** | ![][flag_GB] [idealnettles](http://osu.ppy.sh/users/4010354), ![][flag_GB] [- Syndi -](http://osu.ppy.sh/users/11617315) |
+| #31 | **cheese gaming** | ![][flag_GB] [SinqHD](http://osu.ppy.sh/users/15887523), ![][flag_GB] [CrypticInsanity](http://osu.ppy.sh/users/11508900) |
+| #32 | **PopKO** | ![][flag_GB] [Claus](http://osu.ppy.sh/users/4966424), ![][flag_GB] [SpiralKO](http://osu.ppy.sh/users/5387803) |
+
+## Mappools
+
+### Round of 32
+
+**[Download the mappack here (105 MB)](https://www.dropbox.com/s/yaoob4h4vmy8edy/UKCC%2011%20Round%20of%2032.zip?dl=0)**
+
+- NoMod
+  1. [Suzuki Konomi - Zenbu Kimi ga Ita kara Shittanda (Kalibe) [Hope]](https://osu.ppy.sh/beatmapsets/587616#osu/1725575)
+  2. [Ice - Amber Wishes (ktgster) [ktgster's Extreme]](https://osu.ppy.sh/beatmapsets/1212056#osu/2522864)
+  3. [Last Note. - Setsuna Trip (val0108) [DoKo style]](https://osu.ppy.sh/beatmapsets/58604#osu/177493)
+  4. [Mitsukiyo - Rolling Beat (too) [Extra]](https://osu.ppy.sh/beatmapsets/1367155#osu/2827368)
+  5. [Rohi - Slan Leat (VINXIS) [RLC's Extra]](https://osu.ppy.sh/beatmapsets/1177073#osu/2454945)
+- Hidden
+  1. [JIN feat. MARiA from GARNiDELiA - daze (celerih) [reaching out]](https://osu.ppy.sh/beatmapsets/984969#osu/2060853)
+  2. [Daniel & Cherry - Bach Is Back (Castagne) [d]](https://osu.ppy.sh/beatmapsets/1682545#osu/3437664)
+- HardRock
+  1. [Kana Nishino - Sweet Dreams (11t dnb mix) (keeVY) [Reillia's Extra]](https://osu.ppy.sh/beatmapsets/1137139#osu/2396864)
+  2. [SHK - Violet Perfume (ktgster) [SHD]](https://osu.ppy.sh/beatmapsets/1010865#osu/2115970)
+- DoubleTime
+  1. [Nakanoke no Itsutsugo - Gotoubun no Katachi (SkyFlame) [Mimari's Insane]](https://osu.ppy.sh/beatmapsets/1344192#osu/3018777)
+  2. [Bomfunk MC's - Freestyler (Lesjuh) [Insane]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
+  3. [Nekrogoblikon - Killing Time (and Space) (Gordon) [Insane]](https://osu.ppy.sh/beatmapsets/1536045#osu/3140773)
+- FreeMod
+  1. [Kurahashi Yoeko - Tomodachi no Uta (Shirasaka Koume) [ExtrA]](https://osu.ppy.sh/beatmapsets/845272#osu/1768093)
+  2. [Yu-dachi - Yama Girl (Rhonen) [Jubilance]](https://osu.ppy.sh/beatmapsets/956733#osu/2002904)
+- Tiebreaker
+  1. **[Dance Gavin Dance - NASA / I'm Down with Brown Town (Sharkie) [Reminiscence]](https://osu.ppy.sh/beatmapsets/654053#osu/1386449)**
+
+### Qualifiers
+
+- NoMod
+  1. [Babyraids Japan - Yoake Brand New Days (Ayucchi) [Shining DAYS!]](https://osu.ppy.sh/beatmapsets/1111136#osu/2321574)
+  2. [Kuki Akumu - Ki ga Kurutta Noise (Astronic) [Less Emotions]](https://osu.ppy.sh/beatmapsets/1569753#osu/3289450)
+  3. [Sota Fujimori - DANCE ALL NIGHT (- Yoshimaro -) [Delight]](https://osu.ppy.sh/beatmapsets/600303#osu/1268530)
+- Hidden
+  1. [TrySail - Utsuroi (Mir) [Vivy's Extra]](https://osu.ppy.sh/beatmapsets/1433678#osu/3266341)
+  2. [Various Artists - Netsuretsu Kangei Wonderland (Mirash) [Delisha vs Mirash's Mahjong Soul 1v1 Grand Finals [BO9]]](https://osu.ppy.sh/beatmapsets/1604477#osu/3276441)
+- HardRock
+  1. [Himeringo - Yotsuya-san ni Yoroshiku (RLC) [Winber1's Extreme]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
+  2. [Nekomata Master+ - POINT ZERO (Nakagawa-Kanon) [Another]](https://osu.ppy.sh/beatmapsets/61487#osu/183215)
+- DoubleTime
+  1. [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) [mithew's Light Insane]](https://osu.ppy.sh/beatmapsets/581787#osu/1478254)
+  2. [Inoue Marina - Pieces of Sweet Stars (whymeman) [S.t.a.r.S]](https://osu.ppy.sh/beatmapsets/8436#osu/34657)
+
+## Match Results
+
+### Qualifiers
+
+See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti8gGxxCJIHsQXy3gJNAKH9EqATfo/edit#gid=1835059319) for a breakdown of the qualifier results.
+
+Top 10 qualification results:
+
+| Placing | Team | Normalised score | Average score |
+| --: | :-- | :-- | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | go wild Idm | 11,597,376 | 644,299 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ABSOLUTE UNITS | 10,763,110 | 597,951 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | denial piano | 10,289,268 | 571,626 |
+| *4th place* | The PokiStans | 9,846,809 | 547,045 |
+| *5th place* | Luciano Fan Club | 8,935,116 | 496,395 |
+| *6th place* | :stonehenge: | 8,640,279 | 480,016 |
+| *7th place* | that's what i'm saying! | 8,486,694 | 471,483 |
+| *8th place* | :flag_tf: | 8,363,397 | 464,633 |
+| *9th place* | Werther's Originals | 7,822,267 | 434,570 |
+| *10th place* | Swonkity and Farto | 7,199,495 | 399,972 |
 
 ## Ruleset
 
@@ -113,6 +216,8 @@ The UK Community Cup 11 is run by various community members.
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GG]: /wiki/shared/flag/GG.gif "Guernsey"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
