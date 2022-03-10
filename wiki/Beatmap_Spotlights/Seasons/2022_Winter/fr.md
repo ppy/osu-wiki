@@ -10,32 +10,32 @@ tags:
 
 # Beatmap Spotlights Season 5 (Winter 2022)
 
-## Schedule
+## Programme
 
 | Événement | Temps |
 | :-- | :-- |
-| Début de la saison | 15 février, 2022 |
-| Playlist lobby: Playlist A | 15 février - 1er mars, 2022 |
-| Playlist lobby: Playlist B | 1er mars - 15 mars, 2022 |
-| Playlist lobby: Playlist C | 15 mars - 29 mars, 2022 |
-| Playlist lobby: Playlist A | mars 29 - 5 avril, 2022 |
-| Playlist lobby: Playlist B | 5 avril - 12 avril, 2022 |
-| Playlist lobby: Playlist C | 12 avril - 19 avril, 2022 |
-| Conclusion de la saison | 19 avril, 2022 |
+| Début de la saison | 15 février 2022 |
+| Playlist lobby: Playlist A | 15 février - 1er mars 2022 |
+| Playlist lobby: Playlist B | 1er mars - 15 mars 2022 |
+| Playlist lobby: Playlist C | 15 mars - 29 mars 2022 |
+| Playlist lobby: Playlist A | mars 29 - 5 avril 2022 |
+| Playlist lobby: Playlist B | 5 avril - 12 avril 2022 |
+| Playlist lobby: Playlist C | 12 avril - 19 avril 2022 |
+| Conclusion de la saison | 19 avril 2022 |
 
 ## Lobbies multijoueurs hebdomadaires
 
 Pour l'instant, les participants doivent télécharger et installer le client [osu! (lazer)](https://github.com/ppy/osu/releases) pour rejoindre les lobbies multijoueurs hebdomadaires.
 
-1. Toutes les 2 semaines de la saison, un seul lobby playlist est ouvert.  Tout le monde peut y participer toute la semaine. 
+1. Toutes les 2 semaines de la saison, un seul lobby playlist est ouvert. Tout le monde peut y participer toute la semaine. 
    - Après la première vague de lobbies, les playlists vont à nouveau être ouvertes sur une base hebdomadaire.
-2. Chaque lobby playlist fourni une playlist de beatmaps prédéfinies.
+2. Chaque lobby playlist fournit une playlist de beatmaps prédéfinies.
    - Chaque playlist contient une répartition égale de beatmaps Hard, Insane et Expert.
    - Chaque playlist correspond à la lettre attribuée toutes les 2 semaines. Par conséquent, chaque playlist est rejouée une fois au cours d'une saison. 
 3. Au sein d'un lobby, tout le monde est en compétition pour un classement spécifique à la salle.
-   - Uniquement le meilleur score sur chaque beatmap au sein de la playlist seront additionnés pour créer un classement hebdomadaire pour chaque joueur.
+   - Seuls les meilleurs scores sur chaque beatmap au sein de la playlist seront additionnés pour créer un classement hebdomadaire pour chaque joueur.
    - Chaque beatmap d'une playlist compte de manière égale pour le score du classement.
-   - Le score individuel d'une beatmap est basé sur le système de notation du client osu! (lazer).
+   - Le score individuel d'une beatmap est basé sur le système de score du client osu! (lazer).
 4. Une fois qu'une playlist d'un lobby est terminée, le score hebdomadaire de chaque participant de la salle est ajouté au classement saisonnier.
 
 ## Playlists
@@ -49,7 +49,7 @@ Pour l'instant, les participants doivent télécharger et installer le client [o
 - [Osamu Kubota - Presto \[Jval's Another\]](https://osu.ppy.sh/beatmapsets/1452332#osu/3005290), suggéré par [Zelq](https://osu.ppy.sh/users/8953955)
 - [Neru - Lost One no Goukoku \[eveless\]](https://osu.ppy.sh/beatmapsets/83547#osu/230641), suggéré par [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [OSTER project - Violet Rose \[Insane\]](https://osu.ppy.sh/beatmapsets/1178488#osu/2457698), suggéré par [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917), suggéré par [DigitalHypno](https://osu.ppy.sh/users/4384207) and [Lefafel](https://osu.ppy.sh/users/2295850)
+- [onoken - ZADAMGA \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917), suggéré par [DigitalHypno](https://osu.ppy.sh/users/4384207) et [Lefafel](https://osu.ppy.sh/users/2295850)
 - [UKRampage - Jack-the-Ripper \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/1333932#osu/3274710), suggéré par [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [Nekomata Master - Byakuya Gentou \[EX\]](https://osu.ppy.sh/beatmapsets/36849#osu/119375), suggéré par [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - [ELECTROCUTICA - Dependence Intension \[AQUARIUM+\]](https://osu.ppy.sh/beatmapsets/1402842#osu/2893781), suggéré par [Riot](https://osu.ppy.sh/users/4256461)
