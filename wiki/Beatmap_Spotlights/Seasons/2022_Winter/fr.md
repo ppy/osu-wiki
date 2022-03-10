@@ -18,7 +18,7 @@ tags:
 | Playlist lobby: Playlist A | 15 février - 1er mars 2022 |
 | Playlist lobby: Playlist B | 1er mars - 15 mars 2022 |
 | Playlist lobby: Playlist C | 15 mars - 29 mars 2022 |
-| Playlist lobby: Playlist A | mars 29 - 5 avril 2022 |
+| Playlist lobby: Playlist A | 29 mars - 5 avril 2022 |
 | Playlist lobby: Playlist B | 5 avril - 12 avril 2022 |
 | Playlist lobby: Playlist C | 12 avril - 19 avril 2022 |
 | Conclusion de la saison | 19 avril 2022 |
