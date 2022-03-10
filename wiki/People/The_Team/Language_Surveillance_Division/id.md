@@ -25,6 +25,4 @@ LSD juga berfungsi sebagai grup perantara untuk para anggota yang akan bergabung
 
 Seiring dengan [restrukturisasi staf](https://osu.ppy.sh/community/forums/topics/123510) yang berlangsung pada tahun 2013, grup Language Surveillance Division dialihfungsikan menjadi **Chat Moderator** yang memiliki status keanggotaannya tersendiri.
 
-<!--TODO: Translate Staff log-->
-
 Pada tanggal [20 Agustus 2015](/wiki/Staff_Log/2015#august), grup Chat Moderator dan Global Moderation Team [dilebur menjadi satu](https://osu.ppy.sh/community/forums/posts/4435972) yang secara tidak langsung menyetarakan nama dan hak moderasi yang dimiliki oleh seluruh moderator. 
