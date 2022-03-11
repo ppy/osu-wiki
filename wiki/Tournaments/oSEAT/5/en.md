@@ -19,13 +19,13 @@ The **osu! South East Asia Tournament 5** (***oSEAT5***) was a double-eliminatio
 | Qualifiers | 2021-11-21/2021-11-28 |
 | Preliminary groups | 2021-11-29/2021-12-05 |
 | Round of 64 | 2021-12-06/2021-12-12 |
-| Round of 32 | 2021-12-13/2020-12-19 |
+| Round of 32 | 2021-12-13/2021-12-19 |
 | Round of 16 | 2020-12-20/2021-12-26 |
 | *Holiday break* | 2021-12-27/2022-01-02 |
 | Quarterfinals | 2022-01-03/2022-01-09 |
 | Semifinals | 2022-01-10/2022-01-16 |
 | Finals (week 1) | 2022-01-17/2022-01-23 |
-| Finals (week 2) | 2022-01-24/2021-01-30 |
+| Finals (week 2) | 2022-01-24/2022-01-30 |
 
 ## Prizes
 
