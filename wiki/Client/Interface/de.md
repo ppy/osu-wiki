@@ -2,11 +2,11 @@
 
 Dieser Artikel erklärt alles, was du über die Benutzung des Spiel-Clients von osu! wissen musst. Hier findest du Informationen über die Songauswahl, die Rangliste sowie dem Ergebnisbildschirm. Beim Starten des Spiel-Clients siehst du den folgenden Bildschirm:
 
-![](img/intro-screen.jpg "Einführungsbildschirm")
+![](img/intro-screen-DE.jpg "Einführungsbildschirm")
 
 ## Hauptmenü
 
-![](img/main-menu.jpg "Hauptmenü")
+![](img/main-menu-DE.jpg "Hauptmenü")
 
 - \[1\] Der [osu!-Cookie](/wiki/Client/Interface/Cookie). Beim Draufklicken wird das Hauptmenü geöffnet. Er pulsiert abhängig von den [BPM](/wiki/Beatmapping/Beats_per_minute) der Musik und Balken erstrecken sich um den Cookie, die das Audiospektrum visualisieren. Wenn kein Song spielt, pulsiert der Cookie mit langsamen 60 BPM.
 - \[2\] Klicke auf `Play` (oder drücke `P`), um osu! entweder mit dir selbst oder mit anderen zu spielen.
@@ -39,7 +39,7 @@ Die Jukebox kann auch über [Tastenkürzel](/wiki/Client/Keyboard_shortcuts#juke
 
 ### Benutzereinstellungen
 
-![](img/user-options.jpg "Benutzereinstellungen")
+![](img/user-options-DE.jpg "Benutzereinstellungen")
 
 Greife auf diesen Dialog durch das Klicken deines Profils in der linken oberen Ecke im Hauptmenü zu. Du kannst jedes Element auch durch das Drücken der entsprechenden Nummer auswählen:
 
@@ -50,7 +50,7 @@ Greife auf diesen Dialog durch das Klicken deines Profils in der linken oberen E
 
 ## Spielmenü
 
-![](img/play-menu.jpg "Spielmenü")
+![](img/play-menu-DE.jpg "Spielmenü")
 
 Nach dem Drücken von `Play` im Hauptmenü kannst du zwischen 3 Optionen auswählen:
 
@@ -62,13 +62,13 @@ Nach dem Drücken von `Play` im Hauptmenü kannst du zwischen 3 Optionen auswäh
 
 *Hauptseite: [Mehrspieler](/wiki/Gameplay/Multiplayer)*
 
-![](img/multi-lobby.jpg "Mehrspieler-Lobby")
+![](img/multi-lobby-DE.jpg "Mehrspieler-Lobby")
 
 Die Mehrspieler-Lobby erlaubt dir sowohl mit als auch gegen andere Spieler zu spielen.
 
 ### Songauswahl
 
-![](img/song-selection.jpg "Songauswahl")
+![](img/song-selection-DE.jpg "Songauswahl")
 
 Das Symbol für den aktuell ausgewählten [Spielmodus](/wiki/Game_mode) kann in den Optionen unten links, über `Mode`, eingesehen werden. Das Symbol für den Modus ist auch leicht in der Mitte des Bildschirms sichtbar. Das sind die 4, die du sehen wirst:
 
@@ -81,7 +81,7 @@ Da es auf diesem Bildschirm zu viele Elemente gibt und es sonst zu unübersichtl
 
 ### Beatmap-Informationen
 
-![](img/metadata-comparison.jpg)
+![](img/metadata-comparison-DE.jpg)
 
 Dieser Bereich zeigt **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche in der Jukebox abgespielt wird. Das Symbol oben links zeigt die [Beatmap-Kategorie](/wiki/Beatmap/Category) an, wobei diese Beatmap [gerankt](/wiki/Beatmap/Category#ranked) ist.
 
@@ -99,7 +99,7 @@ Der Songtitel wird normalerweise in romanisierter Sprache angezeigt (unteres Bil
 
 ### Gruppe und Sortierung
 
-![](img/beatmap-filters.jpg)
+![](img/beatmap-filters-DE.jpg)
 
 Klicke auf einen der Tabs, **um deine Songliste nach gewissen Kriterien zu sortieren**.
 
@@ -144,7 +144,7 @@ Sortiere Beatmaps in einer bestimmten Reihenfolge.
 
 ### Suche
 
-![](img/search-bar.jpg)
+![](img/search-bar-DE.jpg)
 
 *Tipp: Du kannst die Chatkonsole oder die Optionsleiste nicht offen haben, wenn du nach etwas suchen möchtest. Ansonsten wird alles, was du tippst, als Text für den Chat oder als Suchanfrage in den Optionen interpretiert.*
 
@@ -190,7 +190,7 @@ Du kannst auch eine Schwierigkeitsstufen- oder Beatmap-ID in deine Suche eingebe
 
 ### Rangliste
 
-![](img/leaderboards.jpg)
+![](img/leaderboards-DE.jpg)
 
 Eine Vielzahl von Dingen wird in diesem Bereich angezeigt:
 
@@ -235,9 +235,9 @@ Du kannst durch die Beatmapliste mit dem Mausrad navigieren, in dem du die Maus 
 
 ### Gameplay-Toolbox
 
-![](img/game-mode-selector.jpg "Auflistung aller verfügbaren Spielmodi")
+![](img/game-mode-selector-DE.jpg "Auflistung aller verfügbaren Spielmodi")
 
-![](img/gameplay-toolbox.jpg)
+![](img/gameplay-toolbox-DE.jpg)
 
 Diese Sektion wird auch als Werkzeugbox bezeichnet. Wir werden uns in der Reihenfolge von links nach rechts durcharbeiten.
 
@@ -245,7 +245,7 @@ Drücke `ESC` oder auf den Button `Zurück`, um zum Hauptmenü zurückzukehren.
 
 Klicke auf den Button `Mode`, um eine Liste der verfügbaren Spielmodi in osu! anzuzeigen. Alternativ kannst du auch `Strg` und `1` (osu!), `2` (osu!taiko), `3` (osu!catch) oder `4` (osu!mania) drücken, um den Spielmodus zu ändern. Beim Wechseln zu einem anderen Modus wird auch die [Rangliste](/wiki/Ranking) ausgetauscht, was durch die Veränderung des angezeigten Rangs ersichtlich ist.
 
-![](img/game-modifiers.jpg "Spielmodifikationen")
+![](img/game-modifiers-DE.jpg "Spielmodifikationen")
 
 Klicke auf den Button `Mods` oder drücke `F1`, um in die **[Modauswahl](/wiki/Game_modifier)** zu gelangen.
 
@@ -257,7 +257,7 @@ Klicke auf den Button `Random` oder drücke `F2`, damit das Spiel **zufällig du
 
 *Tipp: Du kannst `Shift` und den Button `Random` oder `F2` drücken, um zu der vorher gewählten Beatmap zurückzukehren.*
 
-![](img/beatmap-options.jpg "Mögliche Optionen für eine Beatmap")
+![](img/beatmap-options-DE.jpg "Mögliche Optionen für eine Beatmap")
 
 Klicke auf `Beatmap Options`, drücke `F3` oder mit Rechtsklick auf die Beatmap, um **die möglichen Optionen für die ausgewählte Beatmap** zu öffnen.
 
@@ -289,7 +289,7 @@ Weiter unten sind die Ergebnisanzeigen aus den anderen Spielmodi.
 
 ### Erweiterte Ergebnisanzeige
 
-![](img/extended-results-screen.jpg "Ein Beispiel eines osu!-Scores")
+![](img/extended-results-screen-DE.jpg "Ein Beispiel eines osu!-Scores")
 
 Dies ist deine Online-Rangliste. Du kannst durch Herunterscrollen von der Ergebnisanzeige aus darauf zugreifen. Deine lokale Rangliste listet wie gewöhnlich deinen Score sowie deinen Namen auf.
 
