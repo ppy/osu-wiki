@@ -243,7 +243,7 @@ Thursday, 10 March 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| PopKO | 1 | **2** | **stun seed** | [#1](https://osu.ppy.sh/community/matches/98599049) ¹ |
+| PopKO | 1 | **2** | **stun seed** | [#1](https://osu.ppy.sh/community/matches/98599049)¹ |
 
 ¹ The match was concluded due to Claus sustaining a hand injury and no longer being able to compete.
 
