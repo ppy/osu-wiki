@@ -25,7 +25,7 @@ The newest of those submissions is [Firmament star](https://osu.ppy.sh/beatmapse
 Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1633703) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/247/Songs/Raimukun%20-%20Firmament%20Star.mp3" type="audio/mpeg">
 </audio>
 
 ### Icyxis
@@ -33,13 +33,13 @@ Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1633703) h
 If you'd rather smash a piano, try [this multi-speed osu!mania map](https://osu.ppy.sh/beatmapsets/1256193) hosted by [11Bit](https://osu.ppy.sh/users/14804526)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/247/Songs/Raimukun%20-%20Icyxis.mp3" type="audio/mpeg">
 </audio>
 
 ### Isysmonahy
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/247/Songs/Raimukun%20-%20Isysmonahy.mp3" type="audio/mpeg">
 </audio>
 
 ---
