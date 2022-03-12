@@ -9,7 +9,7 @@ Dieser Artikel erklärt alles, was du über die Benutzung des Spiel-Clients von 
 ![](img/main-menu-DE.jpg "Hauptmenü")
 
 - \[1\] Der [osu!-Cookie](/wiki/Client/Interface/Cookie). Beim Draufklicken wird das Hauptmenü geöffnet. Er pulsiert abhängig von den [BPM](/wiki/Beatmapping/Beats_per_minute) der Musik und Balken erstrecken sich um den Cookie, die das Audiospektrum visualisieren. Wenn kein Song spielt, pulsiert der Cookie mit langsamen 60 BPM.
-- \[2\] Klicke auf `Play` (oder drücke `P`), um osu! entweder mit dir selbst oder mit anderen zu spielen.
+- \[2\] Klicke auf `Play` (oder drücke `P`), um osu! entweder für dich selbst oder mit anderen zu spielen.
 - \[3\] Klicke auf `Edit` (oder drücke `E`), um eine [Beatmap](/wiki/Beatmap) zu editieren.
 - \[4\] Klicke auf `Options` (oder drücke `O`), um die [Optionsleiste](/wiki/Client/Options) zu öffnen.
 - \[5\] Klicke auf `Exit` (oder drücke `Esc`), um das Spiel zu verlassen.
@@ -44,7 +44,7 @@ Die Jukebox kann auch über [Tastenkürzel](/wiki/Client/Keyboard_shortcuts#juke
 Greife auf diesen Dialog durch das Klicken deines Profils in der linken oberen Ecke im Hauptmenü zu. Du kannst jedes Element auch durch das Drücken der entsprechenden Nummer auswählen:
 
 - `1. Profil anzeigen`: Siehe deine Profilseite auf der Webseite an.
-- `2. Ausloggen`: Logge dich aus deinem Account aus. Nach dem Ausloggen wird dich das Spiel auffordern, dich einzuloggen.
+- `2. Ausloggen`: Logge dich aus deinem Account aus. Nach dem Ausloggen wird dich das Spiel auffordern, dich wieder einzuloggen.
 - `3. Avatar ändern`: Öffne die [Seite zum Editieren des Avatars](https://osu.ppy.sh/home/account/edit#avatar) auf der Webseite.
 - `4. Schließen`: Schließe diesen Dialog.
 
@@ -125,7 +125,7 @@ Diese Optionen organisieren Beatmaps nach mehreren erweiterbaren Gruppen:
 | `Meine Maps` | Nur Beatmaps, die du erstellt hast (d. h. dessen Ersteller mit deinem Profilnamen übereinstimmt), werden angezeigt. |
 | `Ranked-Status` | Beatmaps werden nach ihrem Status gruppiert: ranked, pending, not submitted, unknown oder loved. |
 
-The ersten 5 Gruppierungen sind in den Tabs unter Gruppe und Sortierung verfügbar.
+Die ersten 5 Gruppierungen sind in den Tabs unter Gruppe und Sortierung verfügbar.
 
 #### Sortierung
 
@@ -200,7 +200,7 @@ Eine Vielzahl von Dingen wird in diesem Bereich angezeigt:
 - Wenn `Latest pending version` erscheint, bedeutet das, dass die Beatmap auf die osu!-Webseite hochgeladen wurde, aber noch nicht gerankt ist.
 - Wenn Replays für die Beatmap in der Ansichtseinstellung existieren, dann werden diese anstatt einer Box angezeigt, die den Status gerankt/gespielt der Beatmap angibt. Das wird im oberen Bild gezeigt.
   - Unter den öffentlichen Ranglisten (z. B. Global, Friends, usw.) wird dein höchster Score unten dargestellt sowie dein Rang auf der Rangliste.
-- Wenn `Kein Rekord vorhanden` erscheint, bedeutet es, dass noch keine Replays für die aktuelle Ansichtseinstellung vorhanden ist (das ist meistens in der lokalen Ansichtseinstellung zu sehen, wenn du gerade eine Beatmap heruntergeladen oder editiert hast).
+- Wenn `Kein Rekord vorhanden` erscheint, bedeutet es, dass noch keine Replays für die aktuelle Ansichtseinstellung vorhanden sind (das ist meistens in der lokalen Ansichtseinstellung zu sehen, wenn du gerade eine Beatmap heruntergeladen oder editiert hast).
 
 Dies sind die Ansichtseinstellungen:
 
@@ -251,7 +251,7 @@ Klicke auf den Button `Mods` oder drücke `F1`, um in die **[Modauswahl](/wiki/G
 
 In diesem Bereich kannst du Modifikationen (kurz "Mods") zum Spielverlauf hinzufügen. Einige Mods verringern die Schwierigkeit und verwenden einen Multiplikator, der den von dir erreichten Punktestand verringert. Dagegen steigern manche Mods die Schwierigkeit, aber verwenden einen Multiplikator, der den von dir erreichten Punktestand erhöht. Außerdem beeinflussen manche Mods den Spielverlauf auf eine andere Weise. [Relax](/wiki/Game_modifier/Relax) und [Auto Pilot](/wiki/Game_modifier/Autopilot) fallen unter diesen Kategorie.
 
-Bewege deinen Cursor über das Modsymbol, um dir die Beschreibung dazu anzeigen zu lassen. Klicke auf das Modsymbol, um die Mod zu aktivieren oder zu deaktivieren. Einige Mods, wie z. B. Double Time, haben mehrere Variationen — klicke nochmals auf die Mod, um durch die Variationen durchzuwechseln. Der Punktemultiplikator zeigt den kombinierten Effekt an, die alle selektierten Mods auf deinen Punktestand haben werden. Klicke auf `Mods zurücksetzen` oder drücke `1`, um alle aktuell ausgewählten Mods zu deaktivieren. Klicke auf `Schließen`, drücke `2` oder `ESC`, um zurück zur Songauswahl zu gelangen.
+Bewege deinen Cursor über das Modsymbol, um dir die Beschreibung dazu anzeigen zu lassen. Klicke auf das Modsymbol, um die Mod zu aktivieren oder zu deaktivieren. Einige Mods, wie z. B. Double Time, haben mehrere Variationen — klicke nochmals auf die Mod, um durch die Variationen durchzuwechseln. Der Punktemultiplikator zeigt den kombinierten Effekt an, den alle selektierten Mods auf deinen Punktestand haben werden. Klicke auf `Mods zurücksetzen` oder drücke `1`, um alle aktuell ausgewählten Mods zu deaktivieren. Klicke auf `Schließen`, drücke `2` oder `ESC`, um zurück zur Songauswahl zu gelangen.
 
 Klicke auf den Button `Random` oder drücke `F2`, damit das Spiel **zufällig durch alle Beatmaps blättert und eine davon auswählt.**
 
@@ -314,7 +314,7 @@ Die Kategorien in der Ranglistenanzeige sind wie folgt:
 | `Max Combo` | Die höchste Combo, die du auf der Beatmap gespielt hast. | Die höchste Combo, die du jemals über alle Beatmaps gesehen erreicht hast. |
 | [`Ranked Score`](/wiki/Gameplay/Score/Ranked_score) | Dein [bestes Ergebnis](/wiki/Gameplay/Score/Ranked_score) auf der Beatmap. | Die Anzahl der Punkte von allen gerankten Beatmaps, die du jemals gespielt hast, wobei jede Beatmap genau einmal gezählt wird. |
 | [`Total Score`](/wiki/Gameplay/Score/Total_score) | Das wird nicht berücksichtigt, da es deine Position in der Online-Rangliste nicht beeinflusst. | Das gleiche wie beim gerankten Score, aber es werden alle verfügbaren Beatmaps auf der osu!-Webseite miteinbezogen, also auch gescheiterte Beatmaps oder Beatmaps, bei denen der alte Punktestand nicht überboten wurde. Das wird auf dein [Level](/wiki/Gameplay/Score/Total_score#level) angerechnet.<!-- TODO: Check link as soon as article is available --> |
-| [`Performance`](/wiki/Performance_points) | Die Menge an [ungewichteten PP](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played?), die du für das Spiel erreichen würdest. | Deine gesamte Menge an Performance-Punkten und wie viele PP das eingereichte Spiel wert war.<!-- TODO: Check link as soon as article is available --> |
+| [`Performance`](/wiki/Performance_points) | Die Menge an [ungewichteten PP](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played?), die du für den Score erreichen würdest. | Deine gesamte Menge an Performance-Punkten und wie viele PP der eingereichte Score wert war.<!-- TODO: Check link as soon as article is available --> |
 
 ### Medaillen
 
