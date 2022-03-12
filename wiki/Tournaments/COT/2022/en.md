@@ -254,13 +254,13 @@ Friday, 11 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [KitsunIvy](https://osu.ppy.sh/users/7055384) ![][flag_RU] | 2 | **7** | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98623588) |
+| Lower | [KitsunIvy](https://osu.ppy.sh/users/7055384) ![][flag_RU] | 2 | **7** | ![][flag_RU] **[Nelly](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/98623588) |
 
 Saturday, 12 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Finals | [Memoriola](https://osu.ppy.sh/users/6856387) ![][flag_RU] | **7** | 3 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98655352) |
+| Grand Finals | **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **7** | 3 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98655352) |
 
 ### Finals
 

@@ -257,13 +257,13 @@ COT 2022 организован различными членами сообще
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Нижняя | [KitsunIvy](https://osu.ppy.sh/users/7055384) ![][flag_RU] | 2 | **7** | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98623588) |
+| Нижняя | [KitsunIvy](https://osu.ppy.sh/users/7055384) ![][flag_RU] | 2 | **7** | ![][flag_RU] **[Nelly](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/98623588) |
 
 Суббота, 12 марта 2022:
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Гранд-финал | [Memoriola](https://osu.ppy.sh/users/6856387) ![][flag_RU] | **7** | 3 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98655352) |
+| Гранд-финал | **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **7** | 3 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98655352) |
 
 ### Финал
 
