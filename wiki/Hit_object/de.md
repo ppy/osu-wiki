@@ -1,6 +1,6 @@
 ---
 tags:
-  - Hit Objekte
+  - Hit-Objekte
 ---
 
 # Hit-Objekt
