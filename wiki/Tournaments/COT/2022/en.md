@@ -23,7 +23,7 @@ The **osu!catch CIS Open Tournament 2022** (***COT 2022***) was a double-elimina
 | Quarterfinals | 2022-02-19/2022-02-20 |
 | Semifinals | 2022-02-26/2022-02-27 |
 | Finals | 2022-03-05/2022-03-06 |
-| Grand Finals | 2022-03-12/2022-03-13 |
+| Grand Finals | 2022-03-11/2022-03-12 |
 
 ## Prizes
 
