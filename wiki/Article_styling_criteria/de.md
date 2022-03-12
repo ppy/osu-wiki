@@ -8,13 +8,15 @@ tags:
 
 *Für News-Beiträge, siehe: [News-Gestaltungskriterien](/wiki/News_styling_criteria)*
 
-Die Artikelgestaltungskriterien dienen als verbindliche Gestaltungsstandards des osu!-Wikis, um Klarheit, Formatierung und Layout in allen Artikeln einheitlich zu gestalten.
+Die Artikelgestaltungskriterien dienen als verbindliche Gestaltungsstandards des osu!-Wikis, um Klarheit, Formatierung und Layout in allen Artikeln einheitlich zu gestalten und helfen dabei, richtige Grammatik, korrekte Rechtschreibung und fehlerfreie Informationen zu gewährleisten.
 
-Alle Artikel sollten anstreben, eine gute Grammatik, eine korrekte Rechtschreibung und richtige Informationen zu haben.
+Diese Artikel sind primär Tools, um eine Hilfe bei der Überprüfung zu geben und um einen Standard für Mitwirkende des osu!-Wikis zu repräsentieren, der im Laufe der Jahre entstanden ist. Da das Wiki eine gemeinschaftliche Bemühung durch den Bewertungsprozess ist, ist es nicht notwendig, sich alle Gestaltungskriterien auf einmal zu merken. Wenn du einen Beitrag leisten möchtest, lies den [Beitragsleitfaden](/wiki/osu!_wiki/Contribution_guide).
 
 Um Änderungen bezüglich der Gestaltungskriterien vorzuschlagen, [öffne ein Issue auf GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
 ## Standards
+
+*Hinweis*: Die Artikel weiter unten benutzen [RFC 2119](https://tools.ietf.org/html/rfc2119), um die Anforderungslevel zu beschreiben.
 
 Die Gestaltungskriterien sind in zwei Artikel aufgeteilt:
 
