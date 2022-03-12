@@ -512,6 +512,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Indonesia Convert Cup 2020](ICC/2020) | 2020-09-13 | 2020-11-08 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | [Indonesia Convert Cup 2021](ICC/2021) | 2021-08-16 | 2021-10-11 | ![][flag_ID] [Dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
 
+#### osu!catch CIS Open Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!catch CIS Open Tournament 2022](COT2022/2) | 2022-01-29 | 2022-03-13 | ![][flag_RU] [Memoriola](https://osu.ppy.sh/users/6856387) | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384) |
+
 #### osu! Cup Master
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
