@@ -228,7 +228,7 @@ Das Beatmap-Karussell zeigt alle verfügbaren Beatmaps an. Unterschiedliche Beat
 | :-: | :-- |
 | **Pink** | Diese Beatmap wurde bis jetzt noch nicht gespielt. |
 | **Orange** | Mindestens ein Schwierigkeitsgrad der Beatmap wurde abgeschlossen. |
-| **Hellblau** | Andere Schwierigkeitsgrade in derselben Beatmap werden angezeigt, sobald eine Beatmap erweitert wurde. |
+| **Hellblau** | Andere Schwierigkeitsgrade in derselben Beatmap, die angezeigt werden, sobald eine Beatmap erweitert wurde. |
 | **Weiß** | Aktuell ausgewählte Beatmap. |
 
 Du kannst durch die Beatmapliste mit dem Mausrad navigieren, in dem du die Maus ziehst, während du die linke Maustaste gedrückt hältst oder die rechte Maustaste drückst (bekannt als absolutes Scrollen), was die Scrollbar zu der Y-Position deiner Maus setzt. Eine weitere Möglichkeit, durch die Beatmapliste zu manövrieren, sind die Pfeiltasten nach oben und unten. Klicke auf eine Beatmap, um sie auszuwählen. Dann klicke sie nochmal, drücke `Enter` oder auf den osu!-Cookie in der unteren rechten Ecke, um die Beatmap zu spielen.
