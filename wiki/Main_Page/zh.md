@@ -1,8 +1,5 @@
 ---
-outdated: true
-outdated_since: 9b7428d718587f9fea31c773261ec4b724b52ac2
 layout: main_page
-no_native_review: true
 ---
 
 <div class="wiki-main-page__blurb">
@@ -99,7 +96,7 @@ Ranking 指的是让谱面获得排行榜功能，从而为众人所知的过程
 
 社交是 osu! 玩家间的粘合剂，了解这些活动与竞赛，结识新朋友，或贡献你的一份力量。
 
-[竞标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
+[锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
 [项目](/wiki/Community/Projects)：[精选艺术家](/wiki/Featured_Artists) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu!学院](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
@@ -114,12 +111,12 @@ Ranking 指的是让谱面获得排行榜功能，从而为众人所知的过程
 
 [团队](/wiki/People/The_Team)：[开发团队](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [支持团队](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [名人堂](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
-[社区贡献者](/wiki/People/Community_Contributors) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles)
+[社区贡献者](/wiki/People/Community_Contributors) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles) • [锦标赛委员会](/wiki/People/Tournament_Committee) • [Performance Points 委员会](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# 开发
+# 开发者
 
 通过其他应用与 osu! 交互。
 
