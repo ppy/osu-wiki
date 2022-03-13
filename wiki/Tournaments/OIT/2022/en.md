@@ -98,6 +98,36 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (139 MB)](http://drive.google.com/u/0/uc?id=1jpF6xT8N0uDkqF_0ANUQfdprhKPIEO3A&export=download)**
+
+- NoMod
+  1. [AliA - joker (Kujinn) \[NM1\]](https://osu.ppy.sh/beatmapsets/1556595#osu/3179908)
+  2. [Snowman - Oo warera yorokobi tataubeshi, shu yo (jazzberry) \[Scarlet Dream\]](https://osu.ppy.sh/beatmapsets/1501700#osu/3076939)
+  3. [otetsu - Meiteki Cybernetics (Raijodo) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1317461#osu/2729687)
+  4. [Warak - REANIMATE (Crezz) \[Femboy Collab\]](https://osu.ppy.sh/beatmapsets/1664988#osu/3398960)
+  5. [Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) (IOException) \[Insane \[24o bpm tourney edit\]\]](https://osu.ppy.sh/beatmapsets/1697641#osu/3468405)
+  6. [Masahiro "Godspeed" Aoki - Frostbite (Cut Ver.) (Niva) \[kuyusu's Expert\]](https://osu.ppy.sh/beatmapsets/1501511#osu/3081403)  
+- Hidden
+  1. [KikuoHana - God of Longevity (free playtest) \[Malevolent\]](https://osu.ppy.sh/beatmapsets/973817#osu/2038580)
+  2. [namirin\* - Darling Dance (Kuro Fuyusaki) \[Sea Food Extra\]](https://osu.ppy.sh/beatmapsets/1521734#osu/3474842)
+  3. [xi - Vanitas (RLC) \[Memoriam OD9\]](https://osu.ppy.sh/beatmapsets/89682#osu/243656)  
+- HardRock
+  1. [BUMP OF CHICKEN - Makka na Sora o Mita Darou ka (CoLouRed GlaZeE) \[Jabberwocky\]](https://osu.ppy.sh/beatmapsets/1318074#osu/2731559)
+  2. [kozato - Shijuugo-nen no Yukizakura (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/759281#osu/1596845)
+  3. [RefraQ & Vorso - Biomes (Cut Ver.) (Mir) \[Phases\]](https://osu.ppy.sh/beatmapsets/1403806#osu/2895406)  
+- DoubleTime
+  1. [LiSA - Akogare Bouenkyou (Meg) \[Scope\]](https://osu.ppy.sh/beatmapsets/524642#osu/1113528)
+  2. [yuikonnu - Gigantic O.T.N (Camo) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1362797#osu/3336914)
+  3. [zts - dreamenddischarger (Luscent) \[resurrection\]](https://osu.ppy.sh/beatmapsets/1414566#osu/2915636)
+  4. [Gesu no Kiwami Otome. - Jinsei no Hari (Agatsu) \[schoolboy's Insane\]](https://osu.ppy.sh/beatmapsets/1247336#osu/2693503)  
+- FreeMod
+  1. [MOSAIC.WAV - Tsugihagi: \<\=\> Make Peace! (Riana) \[Acylica's Extra\]](https://osu.ppy.sh/beatmapsets/1394111#osu/3392607)
+  2. [syatten remixed celas - Bird Sprite -Awakening of Light- (emu1337) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1321314#osu/2741605)  
+- Tiebreaker
+  1. **[Dark PHOENiX - Ryokugan no Jealousy (Camo) \[Green-Eyed Monster\]](https://osu.ppy.sh/beatmapsets/1530977#osu/3131384)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (140 MB)](http://drive.google.com/u/0/uc?id=17PkLRpDvkuLoyqvbkWIMIBMsAfBtPkww&export=download)**
