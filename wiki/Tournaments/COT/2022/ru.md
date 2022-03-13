@@ -12,7 +12,7 @@ tags:
 
 ![COT 2021 banner](img/banner.png)
 
-**osu!catch CIS Open Tournament 2022** (***COT2022***, ***КОТ2022***) — сольный osu!catch турнир в формате double-elimination, организованный ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) и ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). В турнире могут принимать участие русскоговорящие игроки из стран СНГ и Прибалтики. COT22 являлся второй итерацией турнира osu!catch CIS Open Tournament.
+**osu!catch CIS Open Tournament 2022** (***COT2022***, ***КОТ2022***) — сольный osu!catch турнир в формате double-elimination, организованный ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) и ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). В турнире могут принимать участие русскоговорящие игроки из стран СНГ и Прибалтики. COT22 был второй итерацией турнира osu!catch CIS Open Tournament.
 
 ## Расписание турнира
 
@@ -72,7 +72,7 @@ COT 2022 организован различными членами сообще
 
 ## Подиум
 
-Этот турнир подошёл к концу со следующими результатами:
+Этот турнир завершился со следующими результатами:
 
 | Место | Игрок |
 | :-: | :-- |
