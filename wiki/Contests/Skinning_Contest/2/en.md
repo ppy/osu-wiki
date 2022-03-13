@@ -108,11 +108,12 @@ The Skinning Contest #2 is run by various community members.
 - The file size for your .osk submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page.
 
-[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
@@ -122,6 +123,5 @@ The Skinning Contest #2 is run by various community members.
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RO]: /wiki/shared/flag/RO.gif "Romania"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
