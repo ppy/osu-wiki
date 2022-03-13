@@ -215,6 +215,7 @@ The **Skinning Contest** is a skinning contest where artistic creators from all 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/Skinning_Contest/1) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) by ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) by ![][flag_EE] [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) by ![][flag_RU] [NikStrim](https://osu.ppy.sh/users/10577559) | [#1](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
+| [#2](/wiki/Contests/Skinning_Contest/2) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) by ![][flag_PL] [Redo_](https://osu.ppy.sh/users/7122165) | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) by ![][flag_PH] [BPChingu](https://osu.ppy.sh/users/4236855) | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) by ![][flag_BY] [thetasigma](https://osu.ppy.sh/users/6234482) | [#1](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results) |
 
 ### osu!trivium Quiz
 
