@@ -87,7 +87,7 @@ Sofern dieses Tag zu einem Artikel hinzugefügt wird, sollten [Kommentare](#komm
 
 ### Artikel mit Tags versehen
 
-Tags helfen der Suchmaschine der Webseite relevantere Artikel anzuzeigen. Die Liste an Tags sollte in derselben Sprache, wie der Artikel, geschrieben sein und zusätzlich noch die originalen Tags beinhalten. Außerdem sollten sie nach Möglichkeit immer Kleinschreibung verwenden.
+Tags helfen der Suchmaschine der Webseite relevantere Artikel anzuzeigen. Die Liste an Tags sollte in derselben Sprache wie der Artikel geschrieben sein und zusätzlich die ursprünglichen Tags beinhalten. Außerdem sollten sie nach Möglichkeit immer Kleinschreibung verwenden.
 
 Ein Artikel über "Beatmap-Diskussion" könnte beispielsweise diese Tags enthalten:
 
@@ -202,7 +202,7 @@ Kopfnoten sind kleine Notizen im oberen Teil eines Artikels oder eines Abschnitt
 
 Kopfnoten müssen in Kursivschrift verfasst sein und direkt unter der Überschrift liegen. Wenn mehrere Kopfnoten benutzt werden, dann müssen diese im selben Paragraphen sein; getrennt durch einen Zeilenumbruch.
 
-### Hauptseite
+### Main page
 
 Die Kopfnote *Main page* verweist den Leser zum Hauptartikel eines Themas. Wenn diese Kopfnote benutzt wird, wird impliziert, dass der Abschnitt eine Zusammenfassung des verlinkten Artikels ist. Die Kopfnote sollte nur einen Link enthalten. Sie muss wie folgt formatiert sein:
 
@@ -244,7 +244,7 @@ Kopfnoten mit *Not to be confused with* helfen dabei, mehrdeutige oder missverst
 
 ### For other uses
 
-Kopfnoten mit *For other uses* sind den Kopfnoten mit *Nicht zu verwechseln mit* ähnlich, aber verweisen direkt auf die [Begriffsabgrenzungsseite](#artikel-für-die-begriffsabgrenzung). Eine solche Kopfnote darf nur zum Begriffsabgrenzungsartikel verlinken. Sie muss folgendes Aussehen haben:
+Kopfnoten mit *For other uses* sind den Kopfnoten mit *Not to be confused with* ähnlich, aber verweisen direkt auf die [Begriffsabgrenzungsseite](#artikel-für-die-begriffsabgrenzung). Eine solche Kopfnote darf nur zum Begriffsabgrenzungsartikel verlinken. Sie muss folgendes Aussehen haben:
 
 ```markdown
 *For other uses, see {Begriffsabgrenzungsseite}.*
@@ -269,7 +269,7 @@ Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werde
 - `Note` sollte für Fakten oder triviale Details genutzt werden.
 - `Notice` sollte für Erinnerungen genutzt werden oder um den Leser auf etwas aufmerksam zu machen.
 - `Caution` sollte genutzt werden, um den Leser vor unbeabsichtigten Konsequenzen zu warnen.
-- `Warnung` sollte genutzt werden, um den Leser zu warnen, dass gegebenenfalls Maßnahmen gegen ihn ergriffen werden.
+- `Warning` sollte genutzt werden, um den Leser zu warnen, dass gegebenenfalls Maßnahmen gegen ihn ergriffen werden.
 
 ## Gestapelte Hinweise und Kopfnoten
 
@@ -806,7 +806,7 @@ Das folgende ist ein Beispiel, wie eine Tabelle aussehen sollte:
 
 ## Blockzitate
 
-Blockzitate sind auf das Zitieren von Texten von anderen beschränkt. Sie dürfen nicht dazu benutzt werden, um anderen Text zu formatieren. Der Name der zitierten Person, der nach dem Zitat folgt, muss mit einem vorangestellten Geviertstrich (`—`) wie folgt geschrieben werden:
+Blockzitate sind auf das Zitieren von Texten einer anderen Person beschränkt. Sie dürfen nicht dazu benutzt werden, um anderen Text zu formatieren. Der Name der zitierten Person, der nach dem Zitat folgt, muss mit einem vorangestellten Geviertstrich (`—`) wie folgt geschrieben werden:
 
 ```markdown
 > plz enjoy game

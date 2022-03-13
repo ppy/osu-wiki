@@ -320,7 +320,7 @@ Verkürzungen (z. B. `that's` anstatt `that is`) dürfen nicht verwendet werden.
 
 ### Serielles Komma
 
-Das serielle Komma, auch bekannt als Oxford- oder Harvardkomma, musst benutzt werden.
+Das serielle Komma, auch bekannt als Oxford- oder Harvardkomma, muss benutzt werden.
 
 ### Geviertstrich
 
