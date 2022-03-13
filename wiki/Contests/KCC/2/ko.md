@@ -65,7 +65,7 @@ tags:
 
 | 순위 | 매퍼 |
 | :-: | :-- |
-| ![금상](/wiki/shared/crown-gold.png "1위") | ![][flag_KR] [Rio1-]](https://osu.ppy.sh/users/5604329) |
+| ![금상](/wiki/shared/crown-gold.png "1위") | ![][flag_KR] [Rio1-](https://osu.ppy.sh/users/5604329) |
 | ![은상](/wiki/shared/crown-silver.png "2위") | ![][flag_KR] [JuHaa](https://osu.ppy.sh/users/15526127) |
 | ![동상](/wiki/shared/crown-bronze.png "3위") | ![][flag_KR] [WintMin](https://osu.ppy.sh/users/11161386) |
 

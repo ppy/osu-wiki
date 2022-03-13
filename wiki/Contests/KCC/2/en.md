@@ -65,7 +65,7 @@ The **Korean Charting Contest 2022** (***KCC2022***) was an osu!mania mapping co
 
 | Place | Mapper |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [Rio1-]](https://osu.ppy.sh/users/5604329) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [Rio1-](https://osu.ppy.sh/users/5604329) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [JuHaa](https://osu.ppy.sh/users/15526127) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [WintMin](https://osu.ppy.sh/users/11161386) |
 
