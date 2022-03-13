@@ -107,7 +107,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [Snowman - Oo warera yorokobi tataubeshi, shu yo (jazzberry) \[Scarlet Dream\]](https://osu.ppy.sh/beatmapsets/1501700#osu/3076939)
   3. [otetsu - Meiteki Cybernetics (Raijodo) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1317461#osu/2729687)
   4. [Warak - REANIMATE (Crezz) \[Femboy Collab\]](https://osu.ppy.sh/beatmapsets/1664988#osu/3398960)
-  5. [Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) (IOException) \[Insane \[24o bpm tourney edit\]\]](https://osu.ppy.sh/beatmapsets/1697641#osu/3468405)
+  5. [Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) (IOException) \[Insane \[240 bpm tourney edit\]\]](https://osu.ppy.sh/beatmapsets/1697641#osu/3468405)
   6. [Masahiro "Godspeed" Aoki - Frostbite (Cut Ver.) (Niva) \[kuyusu's Expert\]](https://osu.ppy.sh/beatmapsets/1501511#osu/3081403)  
 - Hidden
   1. [KikuoHana - God of Longevity (free playtest) \[Malevolent\]](https://osu.ppy.sh/beatmapsets/973817#osu/2038580)
