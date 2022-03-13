@@ -16,7 +16,7 @@ Um Änderungen bezüglich der Gestaltungskriterien vorzuschlagen, [öffne ein Is
 
 ## Standards
 
-*Hinweis*: Die Artikel weiter unten benutzen [RFC 2119](https://tools.ietf.org/html/rfc2119), um die Anforderungslevel zu beschreiben.
+*Hinweis: Die Artikel weiter unten benutzen [RFC 2119](https://tools.ietf.org/html/rfc2119), um die Anforderungslevel zu beschreiben.*
 
 Die Gestaltungskriterien sind in zwei Artikel aufgeteilt:
 
