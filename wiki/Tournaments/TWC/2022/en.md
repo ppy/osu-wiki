@@ -50,7 +50,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1519196)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Challonge bracket](https://challonge.com/TWC_2022)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/81) hosted by [![][flag_DE] hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/81) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vThLpR1_d3DZvJuYNeIwZCAvUlBiiKviX_ssZrmqIuh-Oh6yZbfevBL7oH9p3bC8uFF1TJ4WK1ug5yI/pubhtml)
 
 ## Participants
