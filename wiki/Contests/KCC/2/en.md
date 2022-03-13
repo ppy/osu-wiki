@@ -8,7 +8,7 @@ tags:
 
 ![KCC2022 banner](img/banner.png)
 
-The **Korean Charting Contest 2022** (***KCC2022***) was an osu!mania mapping contest for users from ![][flag_KR] South Korea. It was the second instalment of the Korean Charting Contest.
+The **Korean Charting Contest 2022** (***KCC2022***) is an osu!mania mapping contest for users from ![][flag_KR] South Korea. It was the second instalment of the Korean Charting Contest.
 
 ## Contest schedule
 
