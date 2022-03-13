@@ -77,7 +77,7 @@ Följande är användargrupper som består av osu! communitymedlemmar som hjälp
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | osu! och pp utvecklare |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! utvecklare, osu!mania mode utvecklare |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) ledare |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) professor, media- och karaktärdesigner |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Community/Video_series/osu!academy) professor, media- och karaktärdesigner |
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif

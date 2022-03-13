@@ -18,8 +18,11 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
 
 ## Activity
 
-- **Activity requirements for your respective gamemode(s) must be met.** Average activity over the last 3 months will be checked on the first day of each month and during regular BN evaluations, taking into account any leave of absence communicated. Any BN who falls below their mode's required average will get an activity warning.
-- **When warned for activity, minimum activity requirements for your respective gamemode(s) must be met over the course of one month.** Failing to meet the required minimum when being warned for it prior may result in removal from the Beatmap Nominators.
+- **Activity requirements for your respective game mode(s) must be met.** Activity over the last 90 days will be checked on the first day of each month and during regular BN evaluations, taking into account any leave of absence communicated.
+  - **Falling below 60 days worth of nominations in a 90 day period will result in a removal when activity is checked.** For example, an osu! BN with less than 6 nominations in a 90 day period will be removed.
+  - **Falling below the 90 day requirements with more than 60 days worth of nominations will result in an activity warning.** 
+  - When warned for activity, minimum activity requirements for your respective game mode(s) must be met over the course of one month. 
+  - Failing to meet the required minimum when being warned for it prior may result in removal from the Beatmap Nominators.
 - **You cannot exceed 75 unique nominations over any 90 day period.** Those exceeding this amount will first be warned and then removed if they do not manage their activity accordingly.
 
 ### Requirements
@@ -30,7 +33,7 @@ Each mode has its own required minimum for monthly activity.
 
 - osu!, osu!taiko, osu!catch: 3 nominations.
 - osu!mania: 2 nominations.
-- Hybrid: 3 nominations, with at least 1 per proficient gamemode.
+- Hybrid: 3 nominations, with at least 1 per proficient game mode.
 
 ## Nomination
 
@@ -39,7 +42,7 @@ Each mode has its own required minimum for monthly activity.
 - **Do not nominate a beatmap without properly checking all difficulties of the mode(s) you are nominating.** Improper checking includes just running a modding tool before nominating or not even downloading the beatmap.
 - **Do not nominate a beatmap if you are unsure of something.** In such cases, ask fellow nominators for assistance before making any rushed decisions. This includes unfamiliar game modes, suspiciously grey area/unrankable issues, quality issues or complex timing.
 - **Do not nominate a beatmap if you cannot reasonably judge it.** Being able to reasonably evaluate a beatmap, either through playtesting or modding experience, is a core part of being able to judge a beatmap’s quality. If you are deemed not to have sufficient playing skill or modding experience, we may call your ability to judge the beatmap into question.
-- **Make sure no mod posts in the [beatmap discussion](/wiki/Beatmap_Discussion) have been ignored before nominating a beatmap.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the beatmap discussion and act accordingly.
+- **Make sure no mod posts in the [beatmap discussion](/wiki/Beatmap_discussion) have been ignored before nominating a beatmap.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the beatmap discussion and act accordingly.
 
 ### Qualification
 

@@ -60,7 +60,7 @@ Edit commands. Same as default MS shortcuts.
 
 ### Kommando für Rückgängig/Wiederherstellen
 
-Diese Kommandos können in den [Einstellungen](/wiki/Options) geaktiviert werden, um ein Crash während dem Bearbeiten von Marathon Maps zu verhindern.
+Diese Kommandos können in den [Einstellungen](/wiki/Client/Options) geaktiviert werden, um ein Crash während dem Bearbeiten von Marathon Maps zu verhindern.
 
 | Name | Beschreibung |
 | :-- | :-- |
@@ -148,13 +148,13 @@ Diese Kommandos können in den [Einstellungen](/wiki/Options) geaktiviert werden
 
 ![Kompositionsmenü](img/M_Compose-DE.jpg "Kompositionsmenü")
 
-*Hauptseite: [Komposition](/wiki/Beatmap_Editor/Compose)*
+*Hauptseite: [Komposition](/wiki/Client/Beatmap_editor/Compose)*
 
 ### Regler
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Taktteiler | [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) |
+| Taktteiler | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | Abspieltempo | Gibt an, wie schnell das Lied abgespielt wird. |
 | Gitter-Ausrichtung (`T`) | ? |
 
@@ -165,13 +165,13 @@ Diese Kommandos können in den [Einstellungen](/wiki/Options) geaktiviert werden
 | Polygon-Noten erstellen ... (`Strg` + `Shift` + `D`) | Erstellt einen kreisförmigen Ablauf aus Hit Circles. Sie können den Distance Snap (0.1x - 2.0x) anpassen {Abstand zwischen den Objekten}, Offsetwinkel (0° - 180°) {Rotationswinkel}, Wiederholungen und Puntke (3 - 14/282) {Anzahl an Objekten pro Schleife}. |
 | Slider zu Stream konvertieren... | Beat Snap Divisor: Legt den Taktteiler fest. |
 | Live-Editorapping-Editorodus aktivieren (`Strg` + `Tab`) | osu!/osu!catch/osu!taiko Maps: Benutzen Sie die osu!taikotasten, um Hit Circles/Früchte/osu!taiko Hit Circles zu platzieren, während Sie das Lied im Editor spielen. Die Objekte werden am Standort des Cursors platziert. osu!mania Maps: Benutzen Sie die osu!maniatasten, um Noten während dem Spielen zu platzieren. Wenn Sie die Taste gedrückt halten, wird kein Slider dadurch erstellt. |
-| Sample importieren | [Tastentöne und Sound Sampling.](/wiki/Beatmap_Editor/Compose) |
+| Sample importieren | [Tastentöne und Sound Sampling.](/wiki/Client/Beatmap_editor/Compose) |
 
 ## Design
 
 ![Designmenü](img/M_Design-DE.jpg "Designmenü")
 
-*Main page: [Design](/wiki/Beatmap_Editor/Design)*
+*Main page: [Design](/wiki/Client/Beatmap_editor/Design)*
 
 | Name | Beschreibung |
 | :-- | :-- |
@@ -181,7 +181,7 @@ Diese Kommandos können in den [Einstellungen](/wiki/Options) geaktiviert werden
 
 ![Timingmenü](img/M_Timing-DE.jpg "Timingmenü")
 
-*Main page: [Timing](/wiki/Beatmap_Editor/Timing)*
+*Main page: [Timing](/wiki/Client/Beatmap_editor/Timing)*
 
 ### Kommandos fürs Metronom
 
@@ -204,7 +204,7 @@ Diese Kommandos können in den [Einstellungen](/wiki/Options) geaktiviert werden
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Timing Einstellungen... (`F6`) | [Timing Setup.](/wiki/Beatmap_Editor/Timing) |
+| Timing Einstellungen... (`F6`) | [Timing Setup.](/wiki/Client/Beatmap_editor/Timing) |
 
 ### Spezielle Kommandos
 

@@ -306,7 +306,7 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 
 ## Notation
 
-*Une explication détaillée des notations peut être trouvée sur la page de chaque mode de jeu ou sur [la page des Scores](/wiki/Score).*
+*Une explication détaillée des notations peut être trouvée sur la page de chaque mode de jeu ou sur [la page des Scores](/wiki/Gameplay/Score).*
 
 *Une explication détaillée des calculs de la précision peut être trouvée sur la page de chaque mode de jeu ou sur [the Accuracy page](/wiki/Gameplay/Accuracy).*
 
@@ -411,7 +411,7 @@ Enfin, **Rivenation** a fait un projet [avancé de recherche de beatmaps](https:
 
 **Absolument rien**. Il n'y a aucune différence entre un joueur de niveau 100 et un de niveau 1, mises à part les compétences et l'expérience dans le mode de jeu en question. Il n'y a ni avantages, ni handicaps à avoir un niveau plus/moins élevé (sauf expérience personnelle et matériel utilisé).
 
-Le niveau est basé sur le score total accumulé en ligne, peut importe si la map a été finie ou non. [La formule ici](/wiki/Score).
+Le niveau est basé sur le score total accumulé en ligne, peut importe si la map a été finie ou non. [La formule ici](/wiki/Gameplay/Score).
 
 #### Pourquoi mes statistiques en-jeu sont différentes ?
 
@@ -421,7 +421,7 @@ N'oubliez pas qu'osu! a quatre modes de jeu, vous regardez probablement le mauva
 
 #### Comment changer les touches pour mon mode de jeu ?
 
-**Explication complète: [Options](/wiki/Options)**
+**Explication complète: [Options](/wiki/Client/Options)**
 
 ![Barre des option avec icônes d'accès rapides](/wiki/shared/Options_quickicons.jpg "Icônes rapides des options")
 
@@ -431,7 +431,7 @@ Depuis l'icône *Entrées* dans les *Options* comme mo,tré ci-dessus, sous la s
 
 #### Game over ? Qu'est-ce que j'ai raté ?
 
-*Explication complète: [Replay](/wiki/Replay)*
+*Explication complète: [Replay](/wiki/Gameplay/Replay)*
 
 Après avoir raté une beatmap, appuyer sur la touche `F1` relance un replay de la partie. Le replay se termine quand l'écran noircit, avec le osu!logo au milieu, plutôt que l'écran de game over. Pour revoir le replay encore une fois, maintenez la touche grave/tilde (\`/~) (peut être changé dans les Options; dans *Configurer les touches* dans **Quick Retry (hold briefly)**) out `Ctrl`+`R` pour un moment.
 
@@ -439,7 +439,7 @@ Comme ce n'est pas un écran de replay standard, utilisez `Esc` pour retourner �
 
 #### Est-ce qu'osu! a des raccourcis clavier ?
 
-*Liste complète: [Shortcut key reference](/wiki/Shortcut_key_reference)*
+*Liste complète: [Shortcut key reference](/wiki/Client/Keyboard_shortcuts)*
 
 Appuyer sur la touche `Insert` (pour la configuration par défaut) cachera, mettra en pause (si en partie) et rendra osu! muet dans la barre latérale de *Windows*. Trouvez le *osu!logo* dans la barre latérale *Windows*, et cliquez dessus pour retourner dans osu!, dans l'état dans lequel vous l'avez laissé. Elle est appelée la **Boss key**, et peut être modifiée dans `Configurer les touches` (dans `Options`, sous la section *Clavier*), localisée à la fin de la section *Universal*.
 

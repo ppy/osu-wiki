@@ -12,13 +12,13 @@ outdated: true
 
 - \[1\] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](/wiki/Beatmapping/Beats_per_minute) dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.
 - \[2\] Klik Play (P) atau logo untuk beralih ke layar awal kedua.
-- \[3\] Klik Edit (E) untuk membuka layar pilihan lagu untuk [Penyunting](/wiki/Beatmap_Editor).
-- \[4\] Klik Options (O) dan jendela [opsi](/wiki/Options) akan terbuka.
+- \[3\] Klik Edit (E) untuk membuka layar pilihan lagu untuk [Penyunting](/wiki/Client/Beatmap_editor).
+- \[4\] Klik Options (O) dan jendela [opsi](/wiki/Client/Options) akan terbuka.
 - \[5\] Klik Exit (Esc) untuk keluar osu!.
 - \[6\] Tips yang bermanfaat ditampilkan secara acak di bagian bawah menu.
 - \[7\] Di pojok kiri bawah adalah link ke situs osu! itu.
 - \[8\] Hasil Koneksi ke Bancho!
-- \[9\] Di pojok kanan bawah yaitu adalah kontrol [Konsol Obrolan](/wiki/Internet_Relay_Chat) (pintasan: F8&F9 ).
+- \[9\] Di pojok kanan bawah yaitu adalah kontrol [Konsol Obrolan](/wiki/Community/Internet_Relay_Chat) (pintasan: F8&F9 ).
 - \[10\] Di pojok kanan atas tersebut adalah osu!jukebox yang memainkan lagu secara acak.
 - \[11\] Sebelah userpanel tersebut, jumlah beatmaps, waktu berjalannya program hingga saat ini dan waktu jam komputer kamu.
 - \[12\] Di pojok kiri atas adalah panel pengguna kamu, klik di atasnya untuk menampilkan Pilihan Pengguna.
@@ -39,12 +39,12 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 ![](img/play-menu.jpg "Menu bermain")
 
 - Click Solo (P) untuk bermain sendiri.
-- Click Multi (M) bermain dengan orang lain. Kamu akan diarahkan ke layar [bermain bersama](/wiki/Multi).
+- Click Multi (M) bermain dengan orang lain. Kamu akan diarahkan ke layar [bermain bersama](/wiki/Gameplay/Multiplayer).
 - Click Back untuk kembali ke Menu Utama
 
 ### Lobi Bermain Bersama
 
-*Penjelasan lebih lanjut: [Bermain Bersama](/wiki/Multi)*
+*Penjelasan lebih lanjut: [Bermain Bersama](/wiki/Gameplay/Multiplayer)*
 
 ![](img/multi-lobby.jpg)
 
@@ -64,7 +64,7 @@ Karena layar ini memiliki terlalu banyak elemen untuk diperhatikan oleh nomor ya
 
 ![](img/metadata-comparison.jpg)
 
-Area ini menampilkan **informasi pada tingkat kesulitan beatmap yang sedang dipilih.** Biasanya, Beatmap yang terdengar di osu!jukebox dipilih secara otomatis ketika memasuki layar pemilihan. Nilai BPM yang tercantum adalah deviasi antara BPM tertinggi dan terendah yang terjadi pada Beatmap (perubahan bagian timing). "Objects" adalah jumlah keseluruhan [objek ketukan](/wiki/Hit_object) sebuah beatmap. Sebuah simbol hati ![](/wiki/shared/icon/heart.gif) di pojok kiri atas menunjukkan beatmap tersebut telah ranked, sedangkan simbol api ![](/wiki/shared/icon/flame.gif) menunjukkan approved beatmap. Judul unicode akan digunakan jika [opsi "Utamakan aksara non-Latin untuk metadata" (allowed non-English metadata) pada bagian Umum (General)](/wiki/Options#language) dan beatmap tersebut memiliki judul/artis dalam bentuk unicode.
+Area ini menampilkan **informasi pada tingkat kesulitan beatmap yang sedang dipilih.** Biasanya, Beatmap yang terdengar di osu!jukebox dipilih secara otomatis ketika memasuki layar pemilihan. Nilai BPM yang tercantum adalah deviasi antara BPM tertinggi dan terendah yang terjadi pada Beatmap (perubahan bagian timing). "Objects" adalah jumlah keseluruhan [objek ketukan](/wiki/Hit_object) sebuah beatmap. Sebuah simbol hati ![](/wiki/shared/icon/heart.gif) di pojok kiri atas menunjukkan beatmap tersebut telah ranked, sedangkan simbol api ![](/wiki/shared/icon/flame.gif) menunjukkan approved beatmap. Judul unicode akan digunakan jika [opsi "Utamakan aksara non-Latin untuk metadata" (allowed non-English metadata) pada bagian Umum (General)](/wiki/Client/Options#language) dan beatmap tersebut memiliki judul/artis dalam bentuk unicode.
 
 - Bentuk: {Sumber} ({Artis}) - {Judul} \[{Tingkat kesulitan yang dipilih}\]
 
@@ -107,7 +107,7 @@ Klik pada salah satu tab untuk **mengurutkan daftar lagu kamu sesuai dengan krit
 
 ![](img/search-bar.jpg)
 
-Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](/wiki/Chat_Console) tidak boleh aktif ketika mengetik atau itu akan dianggap sebagai teks obrolan) dan pencarian akan aktif. Catatan:
+Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](/wiki/Client/Interface/Chat_console) tidak boleh aktif ketika mengetik atau itu akan dianggap sebagai teks obrolan) dan pencarian akan aktif. Catatan:
 
 - **Daftar beatmap hanya akan menampilkan map yang mengandung informasi** (Artis lagu, nama lagu, pembuat beatmap, nama tingkat kesulitan, label) **sesuai dengan apa yang kamu ketik**
 - Menggunakan **Ctrl+Backspace** tidak menghilangkan karakter terakhir yang kamu ketik, melainkan kata terakhir yang kamu ketik
@@ -126,7 +126,7 @@ Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](/wiki/Chat_Console) tid
   - **status** - Status Dirank - nilai dapat berupa ranked (Dirank), pending (Ditunda), not submitted (Belum dikirim) atau unknown (Tidak diketahui) (atau lebih singkatnya r/a/p/n/u)
   - **played** - Waktu sejak terakhir dimainkan dalam hari
   - **unplayed** - Map yang belum dimainkan - tanpa nilai (gunakan "unplayed=" untuk map yang belum dimainkan, atau "unplayed!=" untuk map yang telah dimainkan)
-  - **speed** - kecepatan gulir osu!mania yang telah disimpan - selalu 0 untuk map yang belum dimainkan atau jika [Opsi Remember osu!mania scroll speed per beatmap (Ingat kecepatan gulir osu!mania setiap beatmap)](/wiki/Options#gameplay-section) tidak dicentang
+  - **speed** - kecepatan gulir osu!mania yang telah disimpan - selalu 0 untuk map yang belum dimainkan atau jika [Opsi Remember osu!mania scroll speed per beatmap (Ingat kecepatan gulir osu!mania setiap beatmap)](/wiki/Client/Options#gameplay-section) tidak dicentang
 
 #### Peringkat
 

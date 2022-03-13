@@ -1,6 +1,6 @@
 # Configuration des touches
 
-Pour accéder à cette boîte de dialogue, ouvrez les [Options](/wiki/Options), tapez `touches` puis cliquez sur `Configurer les touches`.
+Pour accéder à cette boîte de dialogue, ouvrez les [Options](/wiki/Client/Options), tapez `touches` puis cliquez sur `Configurer les touches`.
 
 Ici, vous pouvez modifier la réaffectation des touches du clavier avec les actions listées.
 

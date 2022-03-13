@@ -4,9 +4,9 @@ no_native_review: true
 
 # 安裝
 
-*另見: [在 macOS 上安裝](/wiki/Installation/macOS)*
+*另見: [在 macOS 上安裝](/wiki/Client/Installation/macOS)*
 
-這個頁面將指導您如何將 osu! 安裝到您的 Windows 裝置上。[osu!academy](/wiki/osu!academy) 也有[影片教學](https://www.youtube.com/watch?v=0V5GwzmMhpU)可供參考。
+這個頁面將指導您如何將 osu! 安裝到您的 Windows 裝置上。[osu!academy](/wiki/Community/Video_series/osu!academy) 也有[影片教學](https://www.youtube.com/watch?v=0V5GwzmMhpU)可供參考。
 
 ## 最低系統要求
 
@@ -50,7 +50,7 @@ no_native_review: true
 4. 找到並開啟圖譜包(副檔名為 `.osz`)檔案。
    - 或者，您也可以將檔案放進 osu! 安裝目錄下的 `Songs` 資料夾。
 5. osu! 會自動處理剩下的事情並載入圖譜。
-   - 如果您還是沒有看到圖譜的話，在[圖譜選擇](/wiki/Interface#song-selection-screen)畫面中按下 `F5` 來重新處理圖譜檔案。
+   - 如果您還是沒有看到圖譜的話，在[圖譜選擇](/wiki/Client/Interface#song-select)畫面中按下 `F5` 來重新處理圖譜檔案。
 
 ### osu!direct
 
@@ -61,7 +61,7 @@ no_native_review: true
 3. 在歌曲上連點兩下左鍵或點擊右邊的 `Download` 按鈕來下載。
    - 如果您不想下載圖譜影片，點擊 `DL NoVideo`。
 4. osu! 會在下載完圖譜後自動載入。
-   - 如果您還是沒有看到圖譜的話，在[圖譜選擇](/wiki/Interface#song-selection-screen)畫面中按下 `F5` 來重新處理圖譜檔案。
+   - 如果您還是沒有看到圖譜的話，在[圖譜選擇](/wiki/Client/Interface#song-select)畫面中按下 `F5` 來重新處理圖譜檔案。
 
 ## 新增 Skin
 
@@ -77,5 +77,5 @@ no_native_review: true
      1. 解壓縮。
      2. 將解壓縮後的 Skin 資料夾放進 osu! 安裝目錄下的 `Skin` 資料夾。
      3. 如果 osu! 還在執行，您必須先按下 `Ctrl` + `Alt` + `Shift` + `S` 才會在列表中看見您的 Skin。
-     4. 在 osu! 中，前往[設定](/wiki/Options)並搜尋 `Skin`。
+     4. 在 osu! 中，前往[設定](/wiki/Client/Options)並搜尋 `Skin`。
      5. 下滑至 `目前 Skin:` 的選項，然後選擇您剛下載的 Skin。

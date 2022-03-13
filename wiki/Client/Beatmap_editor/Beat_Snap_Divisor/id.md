@@ -6,7 +6,7 @@ outdated: true
 
 Pembagi Derik Ketukan digunakan untuk membatasi penempatan not yang dapat ditempat sehingga mereka selalu tepat pada ketukannya. Memindahkan slider ke kanan meningkatkan granularitas dari not, yang berarti, lebih banyak not yang dapat ditempatkan pada satuan yang sama.
 
-Setiap pengaturan memiliki warna tanda yang berbeda pada [baris waktu](/wiki/Beatmap_Editor/Timelines). Tanda-tanda tersebut yaitu:
+Setiap pengaturan memiliki warna tanda yang berbeda pada [baris waktu](/wiki/Client/Beatmap_editor/Timelines). Tanda-tanda tersebut yaitu:
 
 ## osu!, osu!taiko, osu!catch
 
@@ -58,7 +58,7 @@ Setiap pengaturan memiliki warna tanda yang berbeda pada [baris waktu](/wiki/Bea
 
 1/3 dan 1/6 itu spesial sebab itu berarti BPM (Ketukan per Menit)mu bisa dibagi dengan 3, tapi ini *langka*.
 
-Menahan tombol `Alt` pada slider mengubahnya menjadi slider dengan [spasi jarak](/wiki/Beatmap_Editor/Distance_Snap)
+Menahan tombol `Alt` pada slider mengubahnya menjadi slider dengan [spasi jarak](/wiki/Client/Beatmap_editor/Distance_snap)
 
 ## osu!mania
 

@@ -1,6 +1,6 @@
 # Fenêtre Song Setup
 
-Song Setup est la quatrième section de [l'éditeur de beatmap](/wiki/Beatmap_Editor). Elle contient les métadonnées et les paramètres généraux de configuration de la beatmap.
+Song Setup est la quatrième section de [l'éditeur de beatmap](/wiki/Client/Beatmap_editor). Elle contient les métadonnées et les paramètres généraux de configuration de la beatmap.
 
 ## Général
 
@@ -82,9 +82,9 @@ La notation courante pour représenter un paramètre de difficulté et sa valeur
 
 Le **taux de drain de santé**, communément abrégé en HP, détermine le taux de récupération des points de vie à la suite d'un bon score et de punition des points de vie à la suite d'un mauvais score. La valeur varie de 0 à 10 ; des valeurs de HP plus élevées donneront une récupération de santé plus faible avec une punition de santé plus élevée.
 
-Dans osu! et osu!catch, cela affecte également les [HP passifs](/wiki/Glossary/Health_bar) (la vitesse constante à laquelle les HP diminuent, sauf pendant les [pauses](/wiki/Beatmap/Break).
+Dans osu! et osu!catch, cela affecte également les [HP passifs](/wiki/Client/Interface/Health_bar) (la vitesse constante à laquelle les HP diminuent, sauf pendant les [pauses](/wiki/Beatmap/Break).
 
-*Note : Plus d'HP sont récupérés avec les scores [Geki](/wiki/Geki) et [Katu](/wiki/Katu), qui peuvent être donnés par le dernier objet dans un combo.*
+*Note : Plus d'HP sont récupérés avec les scores [Geki](/wiki/Gameplay/Judgement/Geki) et [Katu](/wiki/Gameplay/Judgement/Katu), qui peuvent être donnés par le dernier objet dans un combo.*
 
 ### Circle Size
 
@@ -162,7 +162,7 @@ Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne changent pas la val
 
 ### Paramètres par défaut de l'échantillon
 
-Configuration pour les hitsounds. Cependant, en utilisant les sections [timing](/wiki/Beatmap_Editor/Timing) (`F6`), le créateur peut changer les deux ensembles de hitsounds ou le volume individuellement grâce à des points de timing. Les sections `Sample Set Selection` et `Sample Set Volume` seront inaccessibles si des ajustements de volume sensibles au timing sont utilisés dans la beatmap. Cliquer sur le bouton `Reset Settings` supprimera tous les ajustements de volume personnalisés.
+Configuration pour les hitsounds. Cependant, en utilisant les sections [timing](/wiki/Client/Beatmap_editor/Timing) (`F6`), le créateur peut changer les deux ensembles de hitsounds ou le volume individuellement grâce à des points de timing. Les sections `Sample Set Selection` et `Sample Set Volume` seront inaccessibles si des ajustements de volume sensibles au timing sont utilisés dans la beatmap. Cliquer sur le bouton `Reset Settings` supprimera tous les ajustements de volume personnalisés.
 
 #### Sample Set Selection
 
@@ -255,7 +255,7 @@ Les objets sont considérés comme appartenant à la même pile s'ils se trouven
 
 *Note : osu!mania possède son propre éditeur de beatmap qui est différent de l'éditeur de beatmap classique.*
 
-La case à cocher  `Use special style(N+1 style) for mania` ne fait rien, étant donné que le joueur peut définir une préférence personnelle spécifiquement dans les [Options](/wiki/Options) en utilisant le bouton `osu!mania layout`.
+La case à cocher  `Use special style(N+1 style) for mania` ne fait rien, étant donné que le joueur peut définir une préférence personnelle spécifiquement dans les [Options](/wiki/Client/Options) en utilisant le bouton `osu!mania layout`.
 
 ## Le saviez-vous ?
 

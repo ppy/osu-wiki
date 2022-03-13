@@ -23,7 +23,7 @@ Bonificación adicional de 1,000 puntos dados por cada giro de una ruleta despu�
 
 ## Cómo calcular el multiplicador de dificultad
 
-[Tamaño de circulos (CS)](/wiki/Beatmap_Editor/Song_Setup), [Drenaje de vida (HP)](/wiki/Beatmap_Editor/Song_Setup) and [Dificultad general (OD)](/wiki/Beatmap_Editor/Song_Setup) cada uno da un punto en los *puntos de dificultad*.
+[Tamaño de circulos (CS)](/wiki/Client/Beatmap_editor/Song_Setup), [Drenaje de vida (HP)](/wiki/Client/Beatmap_editor/Song_Setup) and [Dificultad general (OD)](/wiki/Client/Beatmap_editor/Song_Setup) cada uno da un punto en los *puntos de dificultad*.
 
 Los *puntos de dificultad* acumulados afectan el **multiplicador de dificultad** como tal:
 

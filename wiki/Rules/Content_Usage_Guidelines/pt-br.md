@@ -22,7 +22,7 @@ Ao procurar músicas fora do catálogo de artistas em destaque de osu!, verifiqu
 
 Se você deseja criar um beatmap para uma música e seus direitos de uso não estão claros, é recomendável entrar em contato com o artista para obter permissão. A maioria dos artistas tem métodos de contato rotulados em suas plataformas de lançamento de música, sites pessoais e mídia social.
 
-Isso pode parecer um grande obstáculo, mas vimos que os mapeadores têm muito sucesso e recebem a aprovação dos artistas apenas tendo a coragem de perguntar antes de usar o conteúdo sem permissão. Mencionar que osu! é um jogo gratuito sem anúncios pode ajudar, e você pode vinculá-los à nossa página de [licenciamento](/wiki/Legal/Music_Licensing) para dá-los uma ideia melhor de como o conteúdo é consumido.
+Isso pode parecer um grande obstáculo, mas vimos que os mapeadores têm muito sucesso e recebem a aprovação dos artistas apenas tendo a coragem de perguntar antes de usar o conteúdo sem permissão. Mencionar que osu! é um jogo gratuito sem anúncios pode ajudar, e você pode vinculá-los à nossa página de [licenciamento](/wiki/Legal/Music_licensing) para dá-los uma ideia melhor de como o conteúdo é consumido.
 
 Embora músicas sejam frequentemente restritas por direitos autorais, efeitos sonoros usados para hitsounds personalizados estão mais frequentemente disponíveis gratuitamente. Por exemplo, a orquestra da Philharmonia fornece [amostras de som de instrumentos](https://philharmonia.co.uk/resources/sound-samples/) gratuitas e [Freesound](https://freesound.org) permite pesquisas de amostras de som filtradas por direitos de uso.
 

@@ -23,7 +23,7 @@ While there are countless ways to discover beatmaps to mod, the following are a 
 
 ## How to mod
 
-To mod a beatmap, start by downloading the most up-to-date version and opening its [discussion page](/wiki/Beatmap_Discussion). Play the [difficulty](/wiki/Beatmap/Difficulty) you want to mod and keep any gameplay-related issues in mind. When completed, open the difficulty in the editor and analyse it for other issues.
+To mod a beatmap, start by downloading the most up-to-date version and opening its [discussion page](/wiki/Beatmap_discussion). Play the [difficulty](/wiki/Beatmap/Difficulty) you want to mod and keep any gameplay-related issues in mind. When completed, open the difficulty in the editor and analyse it for other issues.
 
 When you come across an issue, select any relevant hit objects, then use the copy shortcut (`Ctrl` + `C`) to copy their timestamp information as text. On the beatmap's discussion, paste (`Ctrl` + `V`) any applicable timestamps and your feedback. The `Timeline` tab is used for issues regarding specific parts of a beatmap, the `General (This difficulty)` tab is used for feedback on larger sections of a beatmap, and the `General (All difficulties)` tab is used for issues applicable to all difficulties of a beatmap.
 

@@ -14,7 +14,7 @@ This section is about your account, language settings, and updates for osu!
 
 ### Sign-in
 
-If you are not signed in to the game client, it will automatically open the options menu on start-up, prompting you to sign in. You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen. By not signing in, the game client will mark you as a "Guest" and you will not be able to fetch online scores, submit scores, or play [Multi](/wiki/Multi).
+If you are not signed in to the game client, it will automatically open the options menu on start-up, prompting you to sign in. You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen. By not signing in, the game client will mark you as a "Guest" and you will not be able to fetch online scores, submit scores, or play [Multi](/wiki/Gameplay/Multiplayer).
 
 If you are a guest, these options will be shown:
 
@@ -54,7 +54,7 @@ You can access this menu by clicking on your player card where available.
 | :-- | :-- | :-- | :-- |
 | `Select language` | Display a list of languages to select. | Dropdown |  |
 | `Prefer metadata in original language` | In the song select screen, beatmaps will display their original or untranslated metadata, if available. | Checkbox | `Disabled` |
-| `Use alternative font for chat display` | Uses the old font (Tahoma) instead of the current font (Aller) in the [chat console](/wiki/Chat_Console). | Checkbox | `Disabled` |
+| `Use alternative font for chat display` | Uses the old font (Tahoma) instead of the current font (Aller) in the [chat console](/wiki/Client/Interface/Chat_console). | Checkbox | `Disabled` |
 
 ### Updates
 
@@ -244,7 +244,7 @@ The master, music, and effect volume can be changed elsewhere by pressing `Alt` 
 | `Universal offset` | The offset (in milliseconds) that all beatmaps will use (in addition to the local offset). | Slider | `0ms` |
 | `Offset wizard` | Opens the offset wizard. | Button |  |
 
-- For details about the offset wizard, see [Offset Wizard](/wiki/Options/Offset_Wizard).
+- For details about the offset wizard, see [Offset Wizard](/wiki/Client/Options/Offset_Wizard).
 - For details on using the offset wizard, see [How to use Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard).
 
 ## Skin
@@ -305,7 +305,7 @@ If you open the dropdown list for `Confine mouse cursor`, you will be presented 
 
 | Name | Description | Type |
 | :-- | :-- | :-- |
-| `Change keyboard bindings` | Displays a dialog which allows you to see or change your keyboard bindings. See [Keyboard Bindings](/wiki/Options/Keyboard_Bindings) for more details. | Button |
+| `Change keyboard bindings` | Displays a dialog which allows you to see or change your keyboard bindings. See [Keyboard Bindings](/wiki/Client/Options/Keyboard_bindings) for more details. | Button |
 | `osu!mania layout` | Displays a dialog which allows you to see or change your osu!mania bindings. See [osu!mania layout](/wiki/Game_mode/osu!mania) for more details. | Button |
 
 ### Other
@@ -319,7 +319,7 @@ If you open the dropdown list for `Confine mouse cursor`, you will be presented 
 
 ![Editor icon](img/editor.jpg "Editor icon")
 
-This section is about the [beatmap editor](/wiki/Beatmap_Editor).
+This section is about the [beatmap editor](/wiki/Client/Beatmap_editor).
 
 These options only affect while working inside the beatmap editor or in test mode (test playing a beatmap).
 

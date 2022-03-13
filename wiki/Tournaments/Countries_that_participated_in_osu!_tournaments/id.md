@@ -8,16 +8,16 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 
 ## Tabel medali
 
-<!-- last update: OWC 2021-->
+<!-- last update: TWC 2022 (registration phase)-->
 
 ### Tabel medali keseluruhan
 
 | Peringkat | Negara | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] Korea Selatan | 18 | 4 | 5 |
+| 1 | ![][flag_KR] Korea Selatan | 19 | 4 | 5 |
 | 2 | ![][flag_JP] Jepang | 10 | 5 | 2 |
 | 3 | ![][flag_US] Amerika Serikat | 7 | 5 | 4 |
-| 4 | ![][flag_CN] Tiongkok | 3 | 7 | 3 |
+| 4 | ![][flag_CN] Tiongkok | 3 | 8 | 3 |
 | 5 | ![][flag_TW] Taiwan | 3 | 7 | 1 |
 | 6 | ![][flag_BR] Brazil | 2 | 2 | 4 |
 | 7 | ![][flag_PL] Polandia | 1 | 1 | 2 |
@@ -25,14 +25,14 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 | 9 | ![][flag_HK] Hong Kong |  | 4 | 1 |
 | 10 | ![][flag_DE] Jerman |  | 3 | 4 |
 | 11 | ![][flag_PH] Filipina |  | 2 |  |
-| 12 | ![][flag_GB] Britania Raya |  | 1 | 4 |
-| 12 | ![][flag_MY] Malaysia |  | 1 | 4 |
-| 13 | ![][flag_ID] Indonesia |  | 1 | 2 |
-| 14 | ![][flag_NL] Belanda |  | 1 |  |
-| 14 | ![][flag_TH] Thailand |  | 1 |  |
-| 15 | ![][flag_CA] Kanada |  |  | 3 |
-| 16 | ![][flag_FR] Prancis |  |  | 2 |
-| 17 | ![][flag_SE] Swedia |  |  | 1 |
+| 12 | ![][flag_MY] Malaysia |  | 1 | 5 |
+| 13 | ![][flag_GB] Britania Raya |  | 1 | 4 |
+| 14 | ![][flag_ID] Indonesia |  | 1 | 2 |
+| 15 | ![][flag_NL] Belanda |  | 1 |  |
+| 15 | ![][flag_TH] Thailand |  | 1 |  |
+| 16 | ![][flag_CA] Kanada |  |  | 3 |
+| 17 | ![][flag_FR] Prancis |  |  | 2 |
+| 18 | ![][flag_SE] Swedia |  |  | 1 |
 
 ### ![][osu!] Tabel medali osu!
 
@@ -82,13 +82,13 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 
 | Peringkat | Negara | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] Korea Selatan | 9 | 1 | 1 |
+| 1 | ![][flag_KR] Korea Selatan | 10 | 1 | 1 |
 | 2 | ![][flag_BR] Brazil | 2 | 2 | 2 |
 | 3 | ![][flag_US] Amerika Serikat | 1 | 3 | 2 |
-| 4 | ![][flag_CN] Tiongkok | 1 | 1 | 2 |
+| 4 | ![][flag_CN] Tiongkok | 1 | 2 | 2 |
 | 5 | ![][flag_JP] Jepang |  | 2 |  |
 | 5 | ![][flag_PH] Filipina |  | 2 |  |
-| 6 | ![][flag_MY] Malaysia |  | 1 | 4 |
+| 6 | ![][flag_MY] Malaysia |  | 1 | 5 |
 | 7 | ![][flag_TH] Thailand |  | 1 |  |
 | 8 | ![][flag_ID] Indonesia |  |  | 1 |
 | 8 | ![][flag_GB] Britania Raya |  |  | 1 |
@@ -111,7 +111,7 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 | ![][flag_CN] Tiongkok | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CO] Kolombia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
 | ![][flag_HR] Kroasia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
-| ![][flag_CZ] Republik Ceska | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_CZ] Republik Ceko | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_DK] Denmark | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_DO] Republik Dominika | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_EE] Estonia | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
@@ -159,52 +159,53 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 
 ### ![][osu!taiko] osu!taiko World Cup
 
-| Negara | 2011 | 2012 | 3 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 |
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ![][flag_AR] Argentina | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_AU] Australia | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_AT] Austria | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
-| ![][flag_BE] Belgia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
-| ![][flag_BR] Brazil | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_CA] Kanada | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_CL] Chili | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_CN] Tiongkok | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_CO] Kolombia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
-| ![][flag_CR] Kosta Rica | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_DK] Denmark | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_FI] Finlandia | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_FR] Prancis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_DE] Jerman | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_GR] Yunani | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] |
-| ![][flag_HK] Hong Kong | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] |
-| ![][flag_HU] Hungaria | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_ID] Indonesia | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_IT] Italia | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_JP] Jepang | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_MO] Makau | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_MY] Malaysia | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_MX] Meksiko | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NL] Belanda | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NZ] Selandia Baru | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NO] Norwegia | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] |
-| ![][flag_PH] Filipina | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_PL] Polandia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_PT] Portugal | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_RU] Rusia | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_SG] Singapura | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_KR] Korea Selatan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_ES] Spanyol | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] |
-| ![][flag_SE] Swedia | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] |
-| ![][flag_CH] Swiss | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_TW] Taiwan | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_TH] Thailand | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_TR] Turki | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_UA] Ukraina | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] |
-| ![][flag_GB] Britania Raya | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_US] Amerika Serikat | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_VE] Venezuela | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] |
-| ![][flag_VN] Vietnam | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| **Total** | 13 | 17 | 21 | 20 | 24 | 24 | 24 | 24 | 32 | 32 | 32 |
+| Negara | 2011 | 2012 | 3 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ![][flag_AR] Argentina | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_AU] Australia | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_AT] Austria | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
+| ![][flag_BE] Belgia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] |
+| ![][flag_BR] Brazil | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_CA] Kanada | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_CL] Chili | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_CN] Tiongkok | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_CO] Kolombia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
+| ![][flag_CR] Kosta Rica | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
+| ![][flag_CZ] Republik Ceko | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_DK] Denmark | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_FI] Finlandia | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_FR] Prancis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_DE] Jerman | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_GR] Yunani | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] |
+| ![][flag_HK] Hong Kong | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] |
+| ![][flag_HU] Hungaria | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ![][flag_ID] Indonesia | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_IT] Italia | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_JP] Jepang | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_MO] Makau | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ![][flag_MY] Malaysia | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_MX] Meksiko | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_NL] Belanda | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_NZ] Selandia Baru | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_NO] Norwegia | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] |
+| ![][flag_PH] Filipina | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_PL] Polandia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_PT] Portugal | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_RU] Rusia | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_SG] Singapura | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_KR] Korea Selatan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_ES] Spanyol | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] |
+| ![][flag_SE] Swedia | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] |
+| ![][flag_CH] Swiss | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_TW] Taiwan | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_TH] Thailand | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ![][flag_TR] Turki | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
+| ![][flag_UA] Ukraina | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ![][flag_GB] Britania Raya | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_US] Amerika Serikat | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_VE] Venezuela | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] |
+| ![][flag_VN] Vietnam | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
+| **Total** | 13 | 17 | 21 | 20 | 24 | 24 | 24 | 24 | 32 | 32 | 32 | 37 |
 
 ### ![][osu!catch] osu!catch World Cup
 
@@ -222,7 +223,7 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 | ![][flag_CO] Kolombia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CR] Kosta Rica | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_HR] Kroasia | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_CZ] Republik Ceska | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] |
+| ![][flag_CZ] Republik Ceko | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] |
 | ![][flag_DK] Denmark | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_EE] Estonia | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_FI] Finlandia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -260,54 +261,58 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 
 ### ![][osu!mania] osu!mania World Cup
 
-| Negara | 2014 4K | 2014 7K | 2015 4K | 2016 7K | 2016 4K | 2017 7K | 2017 4K | 2018 7K | 2018 4K | 2019 7K | 2019 4K | 2020 4K | 2021 4K |
-| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ![][flag_AR] Argentina | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_AU] Australia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_BE] Belgia | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
-| ![][flag_BR] Brazil | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_CA] Kanada | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_CL] Chili | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] |
-| ![][flag_CN] Tiongkok | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_CO] Kolombia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_CZ] Republik Ceska | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_DK] Denmark | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] |
-| ![][flag_FI] Finlandia | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_FR] Prancis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_DE] Jerman | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_HK] Hong Kong | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_ID] Indonesia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_IL] Israel | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
-| ![][flag_IT] Italia | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_JP] Jepang | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_LV] Latvia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_LT] Lithuania | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_MO] Makau | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] |
-| ![][flag_MY] Malaysia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_MX] Meksiko | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] |
-| ![][flag_NL] Belanda | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NZ] Selandia Baru | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_NO] Norwegia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_PE] Peru | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_PH] Filipina | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_PL] Polandia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_PT] Portugal | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_RU] Rusia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_SG] Singapura | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_KR] Korea Selatan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_ES] Spanyol | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_SE] Swedia | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_CH] Swiss | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_TW] Taiwan | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_TH] Thailand | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_TR] Turki | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_UA] Ukraina | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_GB] Britania Raya | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_US] Amerika Serikat | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_UY] Uruguay | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_VE] Venezuela | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] |
-| ![][flag_VN] Vietnam | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
-| **Total** | 20 | 20 | 32 | 20 | 32 | 16 | 32 | 24 | 32 | 24 | 32 | 32 | 39 |
+| Negara | 2014 4K | 2014 7K | 2015 4K | 2016 7K | 2016 4K | 2017 7K | 2017 4K | 2018 7K | 2018 4K | 2019 7K | 2019 4K | 2020 4K | 2021 4K | 2022 7K |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ![][flag_AR] Argentina | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_AU] Australia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_BE] Belgia | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
+| ![][flag_BR] Brazil | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_CA] Kanada | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_CL] Chili | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
+| ![][flag_CN] Tiongkok | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_CO] Kolombia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
+| ![][flag_CZ] Republik Ceko | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ![][flag_DK] Denmark | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] |
+| ![][flag_EE] Estonia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_FI] Finlandia | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
+| ![][flag_FR] Prancis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_DE] Jerman | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_HK] Hong Kong | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] |
+| ![][flag_HU] Hungaria | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_IN] India | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_ID] Indonesia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_IL] Israel | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ![][flag_IT] Italia | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
+| ![][flag_JP] Jepang | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_LV] Latvia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ![][flag_LT] Lithuania | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ![][flag_MO] Makau | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] |
+| ![][flag_MY] Malaysia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_MX] Meksiko | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] |
+| ![][flag_NL] Belanda | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_NZ] Selandia Baru | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_NO] Norwegia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_PE] Peru | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_PH] Filipina | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_PL] Polandia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_PT] Portugal | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
+| ![][flag_RO] Rumania | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_RU] Rusia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_SG] Singapura | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_KR] Korea Selatan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_ES] Spanyol | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_SE] Swedia | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_CH] Swiss | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_TW] Taiwan | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_TH] Thailand | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_TR] Turki | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ![][flag_UA] Ukraina | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ![][flag_GB] Britania Raya | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_US] Amerika Serikat | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_UY] Uruguay | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ![][flag_VE] Venezuela | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] |
+| ![][flag_VN] Vietnam | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] |
+| **Total** | 20 | 20 | 32 | 20 | 32 | 16 | 32 | 24 | 32 | 24 | 32 | 32 | 39 | 36 |
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
@@ -334,7 +339,7 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_CO]: /wiki/shared/flag/CO.gif "Kolombia"
 [flag_CR]: /wiki/shared/flag/CR.gif "Kosta Rica"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "Republik Ceska"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Republik Ceko"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_DO]: /wiki/shared/flag/DO.gif "Republik Dominika"
@@ -349,6 +354,7 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungaria"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IN]: /wiki/shared/flag/IN.gif "India"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
 [flag_KH]: /wiki/shared/flag/KH.gif "Kamboja"

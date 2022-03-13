@@ -8,7 +8,7 @@ needs_cleanup: true
 
 **This page archive the old Score formula used before the implementation of ScoreV2 since 2007 (the birth of osu!)**
 
-**[Click here to return to the main Score page](/wiki/Score)**
+**[Click here to return to the main Score page](/wiki/Gameplay/Score)**
 
 ## osu!
 
@@ -31,7 +31,7 @@ Additional bonus of 1,000 points given for each spin of a spinner after the spin
 
 The **Difficulty multiplier** was calculated based on each map's star rating (the old one, before the introduction of performance points), which factored in object density, and was affected by the difficulty settings of the map as follows.
 
-[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) and [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) each give a tick on *difficulty point*.
+[Circle Size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Client/Beatmap_editor/Song_Setup#hp-drain-rate) and [Overall Difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty) each give a tick on *difficulty point*.
 
 The accumulated *difficulty points* affect the **Difficulty multiplier** as so:-
 

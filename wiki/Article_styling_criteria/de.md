@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: de80497e3887e708fa8ea709cf48cd5fa0efb49a
 tags:
   - wiki standards
   - Wikistandards
@@ -6,7 +8,7 @@ tags:
 
 # Artikelgestaltungskriterien
 
-*Für News-Beiträge, siehe: [News-Gestaltungskriterien](/wiki/News_Styling_Criteria)*
+*Für News-Beiträge, siehe: [News-Gestaltungskriterien](/wiki/News_styling_criteria)*
 
 Die Artikelgestaltungskriterien dienen als verbindliche Gestaltungsstandards des osu!-Wikis, um Klarheit, Formatierung und Layout in allen Artikeln einheitlich zu gestalten.
 

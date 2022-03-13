@@ -16,7 +16,7 @@ tags:
 ## 役割と責任
 
 ***注意: モデレータの不正行為やコントリビューター行動規範の違反を報告するには、[アカウントサポートチーム](/wiki/People/The_Team/Account_support_team#support@ppy.sh)に連絡してください***\
-*次も参照してください: [悪い行為の報告](/wiki/Reporting_Bad_Behaviour)*
+*次も参照してください: [悪い行為の報告](/wiki/Reporting_bad_behaviour)*
 
 グローバルモデレーションチームは、チャットやフォーラムの運営に責任を持ち、コミュニティ内の交流にも配慮しています。ゲームのモデレーションに関する質問は、以下のようなものがありますが、これらに限定されません。
 
@@ -63,6 +63,7 @@ tags:
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | 中国語、マレー語 | チャットモデレーション |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | チャットモデレーション |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | スウェーデン語、スペイン語 | チャットモデレーション、トーナメント運営 |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | チャットモデレーション |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | 韓国語、日本語 | チャットモデレーション |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | トルコ語 | チャットモデレーション |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | スペイン語 | チャットモデレーション、フォーラムモデレーション |
@@ -100,6 +101,7 @@ tags:
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | オフィシャルチームプレゼンス |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | フィリピン語 | チャットモデレーション |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | ドイツ語 | トーナメント運営 |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | フランス語、部分的なスペイン語 | チャットモデレーション |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | ポルトガル語 | チャットモデレーション |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 広東語、中国語 | チャットモデレーション |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | 韓国語、日本語 | チャットモデレーション |

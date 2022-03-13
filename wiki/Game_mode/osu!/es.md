@@ -101,7 +101,7 @@ Si se usó el modificador de juego [Auto Pilot](/wiki/Game_modifier/Autopilot), 
 
 ## Puntuación
 
-*[¡Los valores de puntuación se pueden encontrar en Score bajo el nombre de Sección de valores de puntuación de osu!](/wiki/Score/osu!).*
+*[¡Los valores de puntuación se pueden encontrar en Score bajo el nombre de Sección de valores de puntuación de osu!](/wiki/Gameplay/Score/osu!).*
 
 La sección de puntuación detalla todas las complejidades de la puntuación, incluida la fórmula matemática.
 
@@ -157,7 +157,7 @@ Bonificación adicional de 1,000 puntos dados por cada giro de una ruleta despu�
 
 #### Cómo calcular el multiplicador de dificultad
 
-[Tamaño de circulos (CS)](/wiki/Beatmap_Editor/Song_Setup), [Drenaje de vida (HP)](/wiki/Beatmap_Editor/Song_Setup) and [Dificultad general (OD)](/wiki/Beatmap_Editor/Song_Setup) cada uno da un punto en los *puntos de dificultad*.
+[Tamaño de circulos (CS)](/wiki/Client/Beatmap_editor/Song_Setup), [Drenaje de vida (HP)](/wiki/Client/Beatmap_editor/Song_Setup) and [Dificultad general (OD)](/wiki/Client/Beatmap_editor/Song_Setup) cada uno da un punto en los *puntos de dificultad*.
 
 Los *puntos de dificultad* acumulados afectan el **multiplicador de dificultad** como tal:
 
@@ -273,7 +273,7 @@ El sistema utilizado para calcular el drenaje de la salud y la ganancia de salud
 ### Historia
 
 - ¡La versión anterior de osu! solia emular algunos de los elementos de la serie *Ouendan* antes de ser eliminados o remplazados.
-  - El [combo de fuego](/wiki/Glossary/Combo_fire) aparecía cuando alcanzabas los nuevos hitos del combo.
+  - El [combo de fuego](/wiki/Gameplay/Combo_fire) aparecía cuando alcanzabas los nuevos hitos del combo.
 - La primera versión del skin por defecto que usa el comportamiento de skin v1, fue la skin *osu! Default por peppy*, proporcionaba una copia casi idéntica de la interfaz *Ouendan*.
   - Fue reemplazado por un aspecto predeterminado más actual que usa el comportamiento de la skin v2.
   - La diferencia de característica más notable entre el comportamiento de la skin v1 y v2 es la ruleta.

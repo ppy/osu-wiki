@@ -21,7 +21,7 @@ La **Global Moderation Team** (anciennement appelée Global Mod Team, Administra
 ## Rôles et responsabilités
 
 ***Remarque : pour signaler qu'un modérateur s'est mal comporté ou a enfreint le code de conduite des contributeurs, contactez l'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
-*Voir aussi : [Signaler un mauvais comportement](/wiki/Reporting_Bad_Behaviour)*
+*Voir aussi : [Signaler un mauvais comportement](/wiki/Reporting_bad_behaviour)*
 
 La Global Moderation Team est responsable du bien-être du tchat et du forum, et s'occupe des interactions au sein de la communauté. Vous pouvez la solliciter pour toute question relative à la modération du jeu, ce qui inclut (mais ne se limite pas à) :
 
@@ -39,7 +39,7 @@ Devenir membre de la Global Moderation Team exige une contribution importante. L
 Les facteurs les plus importants à prendre en compte sont le comportement, l'activité, la compréhension des [règles](/wiki/Rules) et la patience :
 
 1. Faites preuve d'un bon comportement en étant poli et en traitant les autres utilisateurs avec respect. Il est essentiel que votre compte soit exempt de silences ou de problèmes graves.
-2. Faire preuve d'activité dans le jeu en participant au chat et/ou aux forums. [Signaler tout mauvais comportement](/wiki/Reporting_Bad_Behaviour) et tout problème via le système de signalement. Répondre aux questions et aider les autres à résoudre leurs problèmes.
+2. Faire preuve d'activité dans le jeu en participant au chat et/ou aux forums. [Signaler tout mauvais comportement](/wiki/Reporting_bad_behaviour) et tout problème via le système de signalement. Répondre aux questions et aider les autres à résoudre leurs problèmes.
 3. Avoir une bonne compréhension des [règles](/wiki/Rules) et de leur application. Il est important de savoir ce qui est acceptable au sein d'osu! et ce qui ne l'est pas.
 4. Soyez patient. La GMT n'ajoute pas spontanément des membres qui aident depuis quelques jours seulement. Il est nécessaire de donner du temps à la GMT afin d'évaluer une personne - sa personnalité, ce qu'elle peut faire, son activité, etc.
 
@@ -68,6 +68,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | Chinois, Malais | Modération du tchat |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Modération du tchat |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Suédois, Espagnol | Modération du tchat, gestion des tournois |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | Modération du tchat |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Coréen, Japonais | Modération du tchat |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Turc | Modération du tchat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Espagnol | Modération du tchat, modération du forum |
@@ -105,6 +106,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modération du tchat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Allemand | Gestion des tournois |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Français, un peu de Espagnol | Modération du tchat |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugais | Modération du tchat |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, Chinois | Modération du tchat |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Coréen, Japonais | Modération du tchat |

@@ -1,6 +1,6 @@
 # Berkas konfigurasi pengguna
 
-Berikut ini adalah daftar opsi yang tersedia di dalam berkas `osu!.<nama akun pengguna komputer>.cfg`. Banyak opsi ini tersedia pada [menu pilihan](/wiki/Options) dalam permainan, dan sangat direkomendasikan kamu mengubahnya dari situ. Nilai-nilai ini dapat diubah secara manual jika terpaksa.
+Berikut ini adalah daftar opsi yang tersedia di dalam berkas `osu!.<nama akun pengguna komputer>.cfg`. Banyak opsi ini tersedia pada [menu pilihan](/wiki/Client/Options) dalam permainan, dan sangat direkomendasikan kamu mengubahnya dari situ. Nilai-nilai ini dapat diubah secara manual jika terpaksa.
 
 ## Dapat diubah melalui menu Pilihan
 

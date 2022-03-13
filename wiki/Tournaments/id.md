@@ -523,6 +523,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | 4 Digit osu!mania World Cup | 2019-06-03 | 2019-07-27 | ![][flag_US] Amerika Serikat | ![][flag_AR] Argentina | ![][flag_PH] Filipina |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ![][flag_US] Amerika Serikat | ![][flag_AR] Argentina | ![][flag_PH] Filipina |
 | [4 Digit osu!mania World Cup 3](4DM/3) | 2021-01-23 | 2021-03-07 | ![][flag_PH] Filipina | ![][flag_MY] Malaysia | ![][flag_BR] Brazil |
+| [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | *TBD* | *TBD* | *TBD* |
 
 #### :thonking: Mania Tournament
 

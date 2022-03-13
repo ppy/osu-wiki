@@ -13,13 +13,13 @@ Tato pravidla jsou základem, ze kterého pomáháme udržovat osu! komunitu zá
 3. **Buďte na sebe hodní.** Obtěžování nebo jiný antagonismus nemá v osu! komunitě místo. Jsme tu od toho, abychom klikali na kruhy, tloukli na bubny, chytali ovoce a mačkali až osmnáct kláves najednou a ne, abychom nebyli jeden na druhého kretény.
 4. **Nebuďte debil.** Pokud si v jakémkoli bodě nejste jisti, zda toto pravidlo porušujete, pravděpodobně ano.
 5. **Jsme komunita pro všechny věkové kategorie.** To znamená, že obsah ve věku 18+/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work), užívání drog nebo témata sexuální povahy, zde není vítán.
-6. **Udržujte jej čistý** osu! není místo pro randění nebo flirtování. Používání sexuálních řečí, obrazů nebo nechtěné narážky na ostatní členy komunity na veřejnosti nebo v soukromí NENÍ v pořádku. Pokud se někdy cítíte nepříjemně z toho, jak s vámi někdo mluví, [nahlaste nám to důvěrně](/wiki/Reporting_Bad_Behaviour/Abuse), abychom vám mohli pomoci (a případně zabrántě ovlivnění ostatních).
+6. **Udržujte jej čistý** osu! není místo pro randění nebo flirtování. Používání sexuálních řečí, obrazů nebo nechtěné narážky na ostatní členy komunity na veřejnosti nebo v soukromí NENÍ v pořádku. Pokud se někdy cítíte nepříjemně z toho, jak s vámi někdo mluví, [nahlaste nám to důvěrně](/wiki/Reporting_bad_behaviour/Abuse), abychom vám mohli pomoci (a případně zabrántě ovlivnění ostatních).
 7. **Tam, kde neplatí pravidla, rozhoduje zdravý rozum.** Administrativa má výslovné uvážení, aby v této věci použila svůj úsudek, jak uzná za vhodné.
 
 ## Pravidla chatu ve hře
 
 1. **Buďte ohleduplní k ostatním uživatelům v kanálu a vyhněte se zahlcení nebo spamu.** Jedna osoba zabírající polovinu obrazovky je otravná, takže se tomu vyhněte, kdekoli je to možné. Ostatní lidé se také snaží chatovat!
-2. **Nechte moderátory řešit problémy v chatu.** Na věci je můžete upozornit pomocí [příkazu `!report`](/wiki/Reporting_Bad_Behaviour) a oni se postarají o zbytek.
+2. **Nechte moderátory řešit problémy v chatu.** Na věci je můžete upozornit pomocí [příkazu `!report`](/wiki/Reporting_bad_behaviour) a oni se postarají o zbytek.
 3. **Pokud někdo dostane time out umlčení nebo omezí, nechte ho být a nezačněte o něm mluvit.** Pokud je někdo omezen, jeho případ se týká pouze jeho a správy hry – absolutně nikoho jiného!
 4. **Podporujte fair play a nevěnujte pozornost podvodníkům nebo jiným toxickým uživatelům.** Tito lidé bohužel existují a věnování jim pozornost je může povzbudit, aby pokračovali, nebo vyprovokovat ostatní.. Nahlaste je chatovacím příkazem `!report` nebo tlačítky na jejich profilové stránce a pokračujte.
 5. **Udržujte chat čistý a vhodný pro komunitu všech věkových kategorií, vyhýbejte se tématům NSFW, kde je to možné.** Věci NSFW opravdu nejsou vhodné pro komunitu všech věkových kategorií. Dělejte si, co chcete, v soukromých zprávách (v rozumných mezích), ale udržujte veřejné kanály čisté pro dobro všech. 
@@ -42,10 +42,10 @@ Tato pravidla jsou základem, ze kterého pomáháme udržovat osu! komunitu zá
 
 *Poznámka: Tato pravidla se vztahují na **všechny odeslané mapy**, nejen hodnocené. Podrobnější pravidla týkající se hodnocených beatmap naleznete v [Kritérii hodnocení](/wiki/Ranking_Criteria).*
 
-Tato pravidla platí striktně pro beatmapy odeslané prostřednictvím herního [Beatmap Submission System](/wiki/Submission). Tato vlákna/diskuze jsou vytvářeny prostřednictvím osu! klienta, když je beatmap odeslán prostřednictvím [editoru](/wiki/Beatmap_Editor).
+Tato pravidla platí striktně pro beatmapy odeslané prostřednictvím herního [Beatmap Submission System](/wiki/Submission). Tato vlákna/diskuze jsou vytvářeny prostřednictvím osu! klienta, když je beatmap odeslán prostřednictvím [editoru](/wiki/Client/Beatmap_editor).
 
 1. **Ujistěte se, že máte oprávnění používat jakýkoli obsah obsažený ve vaší beatmapě.** To zahrnuje písničky, videa, hity, grafiku a další obsah, který není vaší vlastní tvorbou. Pokud si nejste jisti, kde najít obsah, který je zdarma k použití, prohlédněte si naši rostoucí knihovnu [Vybraní umělci](https://osu.ppy.sh/beatmaps/artists) pro hudbu se 100% licencí pro použití v osu! a [Pokyny k používání obsahu](Content_Usage_Guidelines) pro další informace.
-2. **Držte se tématu v [diskuze o beatmapě](/wiki/Beatmap_Discussion).** Tato vlákna/diskuze se týkají příslušné beatmapy a ničeho jiného. Pokud máte problém s něčím, co přímo nesouvisí s beatmapou, napište to do příslušného fóra.
+2. **Držte se tématu v [diskuze o beatmapě](/wiki/Beatmap_discussion).** Tato vlákna/diskuze se týkají příslušné beatmapy a ničeho jiného. Pokud máte problém s něčím, co přímo nesouvisí s beatmapou, napište to do příslušného fóra.
 3. **Neplagiujte ani se nepokoušejte ukrást práci jiných lidí.** Nenahrávejte ani nepoužívejte práce jiných lidí bez jejich výslovného svolení (včetně, ale nejen, vzhledů atd.).
 4. **Řiďte se [Pravidla pro obsah skladeb](Song_Content_Rules) a [Úvahy o vizuálním obsahu](Visual_Content_Considerations).**
 
@@ -64,8 +64,8 @@ Tyto špatné věci mohou zahrnovat (*ale nejsou omezeny na*):
 
 Některé trestné činy mají minimální trvání (obvykle 42 hodin nebo více), pokud jsou zvláště závažné, ačkoli jsou téměř výhradně vyhrazeny pro závažná porušení, jako je sdílení grafického obsahu nebo nelítostné obtěžování ostatních uživatelů.
 
-Pokud po několika porušeních budete nadále porušovat pravidla, váš účet může být [trvale a neodvolatelně omezen](/wiki/Help_Centre/Account_Restrictions).
+Pokud po několika porušeních budete nadále porušovat pravidla, váš účet může být [trvale a neodvolatelně omezen](/wiki/Help_centre/Account_restrictions).
 
-Omezené účty nemohou hrát online, nahrávat skóre, chatovat s ostatními uživateli a jsou pro všechny účely „banned“ z interakcí s komunitou. Omezení pro porušení pravidel komunity lze odstranit pouze na základě odvolání k personálu podpory po uplynutí 3 měsíců ([mohou platit další podmínky](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
+Omezené účty nemohou hrát online, nahrávat skóre, chatovat s ostatními uživateli a jsou pro všechny účely „banned“ z interakcí s komunitou. Omezení pro porušení pravidel komunity lze odstranit pouze na základě odvolání k personálu podpory po uplynutí 3 měsíců ([mohou platit další podmínky](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
 
 Závažné přestupky, které výrazně překračují rámec našich pravidel a spadají do jurisdikce nezákonného obsahu podle mezinárodního obecného práva, budou mít za následek okamžité ukončení účtu. To se týká téměř výhradně extrémně názorných nebo jinak ohavných trestných činů, jako je distribuce dětské pornografie nebo jiného zneužívání.

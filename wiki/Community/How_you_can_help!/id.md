@@ -16,8 +16,8 @@ Untuk menjaga keamanan hub komunitas resmi, osu! memiliki tim moderasi khusus ya
 
 Untungnya, masih mudah bagi kamu untuk membantu menjaga semuanya tetap aman. Berikut ini adalah sebagian kecil dari banyak cara yang dapat kamu lakukan untuk membantu:
 
-- Ikuti *channel* favorit kamu di [obrolan osu! dalam permainan](/wiki/Chat_Console) atau di forum.
-- Jika kamu melihat suatu peristiwa yang tidak pantas atau mengganggu, gunakan [perintah `!report`](/wiki/Reporting_Bad_Behaviour) dalam obrolan dalam osu! untuk memberi tahu moderator.
+- Ikuti *channel* favorit kamu di [obrolan osu! dalam permainan](/wiki/Client/Interface/Chat_console) atau di forum.
+- Jika kamu melihat suatu peristiwa yang tidak pantas atau mengganggu, gunakan [perintah `!report`](/wiki/Reporting_bad_behaviour) dalam obrolan dalam osu! untuk memberi tahu moderator.
 
 ## Bantu anggota komunitas lainnya
 
@@ -58,9 +58,9 @@ Di bawah ini beberapa cara kamu dapat berkontribusi:
 
 ## Berkontribusi untuk masa depan osu!
 
-Dimulai pada tahun 2017, proyek osu!lazer saat ini menjadi fokus [tim inti osu!](/wiki/People/The_Team), bersama dengan situs web baru yang kamu lihat saat ini! Jika kamu ingin membantu menjadikan proyek ini lebih baik dan membawa kita lebih dekat ke masa depan osu!, ada beberapa hal yang dapat kamu lakukan, tetapi di bawah ini hanya beberapa contoh:
+Dimulai pada tahun 2017, proyek osu!(lazer) saat ini menjadi fokus [tim inti osu!](/wiki/People/The_Team), bersama dengan situs web baru yang kamu lihat saat ini! Jika kamu ingin membantu menjadikan proyek ini lebih baik dan membawa kita lebih dekat ke masa depan osu!, ada beberapa hal yang dapat kamu lakukan, tetapi di bawah ini hanya beberapa contoh:
 
-- Membantu proyek [osu!lazer](https://github.com/ppy/osu). Ada begitu banyak yang harus diterapkan ke versi baru osu! ini, dan kamu juga dapat mewujudkannya!
+- Membantu proyek [osu!(lazer)](https://github.com/ppy/osu). Ada begitu banyak yang harus diterapkan ke versi baru osu! ini, dan kamu juga dapat mewujudkannya!
 - Menjadikan [situs web yang baru](https://github.com/ppy/osu-web) yang lebih baik.
 
 ## Hindari bersikap negatif! Buat orang-orang bahagia!
@@ -68,7 +68,7 @@ Dimulai pada tahun 2017, proyek osu!lazer saat ini menjadi fokus [tim inti osu!]
 Ada pepatah lama yang mengatakan bahwa kamu harus menjadi bagian dari solusi, bukan dari masalah. Cukup dengan mengikuti pepatah lama ini, kamu akan membantu osu! dengan membuat komunitas menjadi tempat yang lebih cerah. Mungkin orang-orang akan selalu mengeluh, tetapi masih banyak cara yang dapat kamu lakukan untuk membantu meringankan suasana dalam komunitas:
 
 - Bersikap ramah satu sama lain. Hidup terlalu pendek untuk diperdebatkan.
-- Jangan mengeluhkan jika terdapat pemain yang melakukan kecurangan. [Laporkan saja mereka dan lanjutkan harimu](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play), sederhananya menggunakan perintah `!report <username> sepertinya melakukan kecurangan` dapat memperbaiki masalah kamu dalam beberapa menit hingga jam.
+- Jangan mengeluhkan jika terdapat pemain yang melakukan kecurangan. [Laporkan saja mereka dan lanjutkan harimu](/wiki/Reporting_bad_behaviour/Handling_foul_play), sederhananya menggunakan perintah `!report <username> sepertinya melakukan kecurangan` dapat memperbaiki masalah kamu dalam beberapa menit hingga jam.
 - Berusahalah untuk menengahi situasi negatif dan mengubahnya menjadi hasil yang positif.
 
 **Meskipun artikel ini tidak mencakup seberapa banyaknya kamu dapat membantu komunitas osu!, cukup hanya bermain juga dapat membuat osu! menjadi lebih mengagumkan!**

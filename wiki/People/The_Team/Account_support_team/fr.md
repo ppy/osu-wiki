@@ -12,32 +12,32 @@ Cela prend habituellement quelques jours avant que l'équipe prête attention à
 
 ## Rôle et tâches
 
-*Page principale : [Centre d'aide](/wiki/Help_Centre)*
+*Page principale : [Centre d'aide](/wiki/Help_centre)*
 
-*Voir également : [Restriction de comptes](/wiki/Help_Centre/Account_Restrictions)*
+*Voir également : [Restriction de comptes](/wiki/Help_centre/Account_restrictions)*
 
 Vous devriez contacter cette équipe pour les sujets concernant votre compte qui sont hors de votre contrôle. Veuillez fournir le plus de détails possible sur votre problème et envoyer un mail à l'adresse associée à votre problème.
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [Appel concernant les restrictions placées sur votre compte](/wiki/Help_Centre/Account_Restrictions), incluant :
+- [Appel concernant les restrictions placées sur votre compte](/wiki/Help_centre/Account_restrictions), incluant :
   - Les silences;
   - Les suppressions de contenu du profil;
   - Les suppressions de beatmaps;
   - Les suppressions de posts sur le forum et commentaires.
-- De la mauvaise conduite que vous [souhaitez avouer](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#que-puis-je-faire-si-j'ai-enfreint-les-règles?).
-- [Perte d'accès à l'email](/wiki/Help_Centre/Installation_and_registration#inscription) attaché à votre compte osu!, ou lorsque votre compte a été volé.
-- [Rétablissement d'anciens pseudos et corrections de fautes mineures dans votre pseudo](/wiki/Help_Centre/Account#changements-de-nom).
+- De la mauvaise conduite que vous [souhaitez avouer](/wiki/Reporting_bad_behaviour/Handling_foul_play#que-puis-je-faire-si-j'ai-enfreint-les-règles?).
+- [Perte d'accès à l'email](/wiki/Help_centre/Installation_and_registration#inscription) attaché à votre compte osu!, ou lorsque votre compte a été volé.
+- [Rétablissement d'anciens pseudos et corrections de fautes mineures dans votre pseudo](/wiki/Help_centre/Account#changements-de-nom).
 - [Inscriptions de comptes bot](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Remarque : Pour signaler un cas extrême de mauvaise conduite ou d'abus sexuel de n'importe quel utilisateur (modérateur inclus), voir : [Signaler un abus](/wiki/Reporting_Bad_Behaviour/Abuse).*
+*Remarque : Pour signaler un cas extrême de mauvaise conduite ou d'abus sexuel de n'importe quel utilisateur (modérateur inclus), voir : [Signaler un abus](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Préoccupations concernant la mauvaise conduite d'un modérateur.
 - Préoccupations concernant un modérateur brisant [le Code de conduite du contributeur](/wiki/Contributor_Code_of_Conduct).
-- [Problèmes de paiement](/wiki/Help_Centre/Account#supporter) pour les commandes concernant l'[osu!store](https://osu.ppy.sh/store/listing).
-- Problèmes techniques n'ayant pas pu être résolus dans le [forum d'aide](https://osu.ppy.sh/community/forums/5), tels que les [problèmes de connectivité](/wiki/Help_Centre/Client#fonctions-en-ligne).
+- [Problèmes de paiement](/wiki/Help_centre/Account#supporter) pour les commandes concernant l'[osu!store](https://osu.ppy.sh/store/listing).
+- Problèmes techniques n'ayant pas pu être résolus dans le [forum d'aide](https://osu.ppy.sh/community/forums/5), tels que les [problèmes de connectivité](/wiki/Help_centre/Client#fonctions-en-ligne).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

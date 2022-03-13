@@ -428,7 +428,7 @@ Sunday, 26 April 2020:
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place.
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
-5. Usage of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
+5. Usage of the [Visual Settings](/wiki/Client/Interface/Visual_settings) options are allowed.
 6. If the game ends in a draw, the tiebreaker will be played.
 7. If a player disconnects, their score is treated as being 0.
    - Unless the disconnected player has a screenshot with their final score, or the server saved their score before disconnection, so we can compare it to the others.

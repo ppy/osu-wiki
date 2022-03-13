@@ -7,7 +7,7 @@ tags:
 
 # Slider velocity
 
-*Slider velocity* adalah angka yang menjelaskan seberapa jauh [slider](/wiki/Hit_object/Slider) akan bergerak dalam satu ketukan penuh. Kecepatan dasar dapat ditetapkan melalui tab `Timing` di [editor beatmap](/wiki/Beatmap_Editor) dari jendela utama. Pengganda untuk nilai ini kemudian dapat disetel untuk bagian yang berbeda dari beatmap dengan menambahkan [inhereting timing point](/wiki/Beatmap_Editor/Timing) dan mengubah nilai pengganda kecepatan slider.
+*Slider velocity* adalah angka yang menjelaskan seberapa jauh [slider](/wiki/Hit_object/Slider) akan bergerak dalam satu ketukan penuh. Kecepatan dasar dapat ditetapkan melalui tab `Timing` di [editor beatmap](/wiki/Client/Beatmap_editor) dari jendela utama. Pengganda untuk nilai ini kemudian dapat disetel untuk bagian yang berbeda dari beatmap dengan menambahkan [inhereting timing point](/wiki/Client/Beatmap_editor/Timing) dan mengubah nilai pengganda kecepatan slider.
 
 Kecepatan slider diukur sebagai *ratusan [osupiksel](/wiki/osupixel) per ketukan*, jadi slider dengan kecepatan 1,00 akan bergerak 100 osupiksel (atau, 100 piksel pada resolusi 640x480) dalam satu ketukan penuh. Karena kecepatan bergantung pada panjang ketukan, penggeser dengan pengaturan kecepatan yang sama akan bergerak lebih cepat dengan BPM yang lebih tinggi.
 

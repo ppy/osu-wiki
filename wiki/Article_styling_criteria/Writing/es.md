@@ -17,7 +17,7 @@ Hay dos registros de lenguaje en la wiki: neutral e informal.
 
 El registro neutral es el predeterminado en el wiki.
 
-El registro informal es especial y se da a un pequeño puñado de artículos. Algunos ejemplos con este registro incluyen [FAQ](/wiki/FAQ) y [Centro de Ayuda](/wiki/Help_Centre).
+El registro informal es especial y se da a un pequeño puñado de artículos. Algunos ejemplos con este registro incluyen [FAQ](/wiki/FAQ) y [Centro de Ayuda](/wiki/Help_centre).
 
 Para ambos registros, se deben seguir todas las reglas de esta parte del criterio para el estilo de los artículos. Las excepciones para cualquiera de los dos registros serán anotadas.
 
@@ -37,7 +37,7 @@ Las variantes de ortografía del inglés británico deben ser utilizadas cuando 
 Los nombres de los artículos, cuando se escriben en un párrafo, no deben escribirse en mayúsculas, a menos que se trate de un vínculo que apunte al artículo o sea un sustantivo propio (por ejemplo, BanchoBot). El siguiente es un ejemplo:
 
 ```markdown
-Si quieres saber más sobre el chat, consulta [Consola de chat](/wiki/Chat_Console).
+Si quieres saber más sobre el chat, consulta [Consola de chat](/wiki/Client/Interface/Chat_console).
 ```
 
 ### Modificadores del juego

@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Signaler un abus
 
 ## Je ne sais pas si je dois le signaler ou non
@@ -59,9 +55,9 @@ De plus, si vous connaissez le nom d'utilisateur d'osu! de la personne qui vous 
 
 Cliquez sur les trois points en haut à droite du tweet problématique et cliquez sur `Signaler le tweet`. Veillez à suivre les instructions et à les lire attentivement. Vous pouvez également lire le [guide de Twitter sur le signalement des comportements abusifs](https://help.twitter.com/fr/safety-and-security/report-abusive-behavior) pour plus d'informations sur la procédure.
 
-Ensuite, bloquez ou mettez en sourdine l'utilisateur en question en cliquant sur les trois points en haut à droite de son tweet (si vous utilisez le site web ou le client mobile). Consultez [le guide de Twitter sur le blocage des comptes](https://help.twitter.com/fr/using-twitter/blocking-and-unblocking-accounts) pour plus d'informations.
+Ensuite, bloquez ou masquez l'utilisateur en question en cliquant sur les trois points en haut à droite de son tweet (si vous utilisez le site web ou le client mobile). Consultez [le guide de Twitter sur le blocage des comptes](https://help.twitter.com/fr/using-twitter/blocking-and-unblocking-accounts) pour plus d'informations.
 
-Sachez que la personne verra que vous l'avez bloquée si elle consulte votre profil Twitter. Si vous craignez que cela n'aggrave le problème ailleurs, mettez-la plutôt en sourdine. Cela supprimera ses tweets de votre ligne de temps et vous empêchera de voir d'autres contenus de sa part, mais elle pourra toujours voir et commenter tous vos tweets.
+Sachez que la personne verra que vous l'avez bloquée si elle consulte votre profil Twitter. Si vous craignez que cela n'aggrave le problème ailleurs, masquez-la à la place. Cela supprimera ses tweets de votre timeline et vous empêchera de voir d'autres contenus de sa part, mais elle pourra toujours voir et commenter tous vos tweets.
 
 Si le tweet provient d'un compte lié au profil d'un joueur d'osu! via notre site web (il apparaîtra sous son avatar et sa date d'arrivée à côté d'une icône d'oiseau stylisé), veuillez envoyer un e-mail à [abuse@ppy.sh](mailto:abuse@ppy.sh) contenant une copie du tweet sous forme d'image si possible, ainsi que toute autre information à laquelle vous pensez.
 

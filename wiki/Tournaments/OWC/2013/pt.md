@@ -287,7 +287,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 3. O agendamento das partidas será proposto pela Administração do Torneio (veja abaixo).
 4. Se não houver nenhum membro da administração ou algum árbitro disponível no momento, a partida será remarcada.
 5. A pontuação dos jogadores que falharam e reviveram será contada.
-6. O uso das [PT:Visual Settings](/wiki/Visual_Settings) será permitido.
+6. O uso das [PT:Visual Settings](/wiki/Client/Interface/Visual_settings) será permitido.
 7. Em caso de empate na pontuação, o beatmap jogado será anulado.
 8. Se um dos jogadores desconectar no meio da partida, o beatmap jogado será anulado. Isso poderá acontecer até duas vezes. Depois de duas tentativas, os jogadores que desconectarem serão tratados como se tivessem saído propositalmente, e sua pontuação não será contada.
 9. Beatmaps não podem ser re-utilizados na mesma partida, a não ser que o beatmap tenha sido anulado por questões de falha na conexão.

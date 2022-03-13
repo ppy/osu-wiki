@@ -1,10 +1,11 @@
 ---
-no_native_review: true
+outdated: true
+outdated_since: d096c4bd0f75cef054e5e8c08a5f49905f5f097e
 ---
 
 # Devenir un Beatmap Nominator
 
-Les utilisateurs souhaitant rejoindre les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) doivent passer par un processus de candidature supervisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT). 
+Les utilisateurs souhaitant rejoindre les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) doivent passer par un processus de candidature supervisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
 
 Les candidatures se font via le [site web de la NAT](http://bn.mappersguild.com/bnapps).
 
@@ -18,7 +19,7 @@ Les moddeurs souhaitant postuler chez les Beatmap Nominators doivent remplir les
 - Ils ont accumulé au moins 150 ou 200 [kudosu](/wiki/Modding/Kudosu) au total, selon le mode auquel ils s'appliquent.
 - Ils fournissent 2 à 4 de leurs mods qui, selon eux, les qualifient pour faire partie des Beatmap Nominators.
 
-### Qu'est-ce qui est considéré comme un post d'un moddeur ?
+### Qu'est-ce qui est considéré comme un post de modding ?
 
 - En vous inscrivant, le site web calculera automatiquement votre score kudosu des trois derniers mois.
 - Un message qualifié de mod est un message d'un utilisateur sur une discussion d'une beatmap, dans lequel au moins une suggestion/problème a reçu un vote positif, et qui a été créé dans les 3 mois.
@@ -32,10 +33,10 @@ Les mods soumis doivent montrer qu'un utilisateur est capable d'analyser et d'am
 Voici les caractéristiques de modding attendues des Beatmap Nominators. L'absence de l'un de ces traits peut entraîner le rejet de la candidature.
 
 - Une couverture de tous les niveaux de difficulté
-- Une identification des problèmes conduisant à un unranked, y compris ceux que les outils ne peuvent pas détecter, tels que des erreurs de timing ou de métadonnées.
+- Une identification des problèmes empêchant une beatmap d'être classée, y compris ceux que les outils ne peuvent pas détecter, tels que des erreurs de timing ou de métadonnées.
 - Une comparaison entre les parties d'une map pour étayer les problèmes ou les suggestions
 - Un commentaire sur une grande variété d'éléments de mapping, tels que le rythme, l'espacement, le mouvement, l'intensité, le contraste et la cohérence
-- Une identification des problèmes isolés et des problèmes généraux à l'échelle de la map.
+- Une identification des problèmes isolés et des problèmes généraux à l'échelle de la beatmap.
 
 ### Comment le score minimum requis est calculé
 
@@ -43,8 +44,8 @@ Voici les caractéristiques de modding attendues des Beatmap Nominators. L'absen
 
 ![Formule du ModScore](/wiki/shared/Modscore_new_wiki.png "Formule du ModScore")
 
-`m` = Nombre minimum attendu des beatmaps individuels moddés dans un mois.
-`M` = Nombre total atteint de beatmaps individuels moddés en un mois
+`m` = Nombre minimum attendu des beatmaps individuelles moddées dans un mois.
+`M` = Nombre total atteint de beatmaps individuelles moddées en un mois.
 
 - [Le site web](http://bn.mappersguild.com/bnapps) dispose d'un outil de calcul du `ModScore` sur sa page principale.
 - Afin de déterminer le score minimum requis, la somme des `ModScore` des trois derniers mois doit être supérieure ou égale à zéro.
@@ -53,11 +54,11 @@ Voici les caractéristiques de modding attendues des Beatmap Nominators. L'absen
   - osu! : `m` = 4 et un total de 200 kudosu ou plus
 - Il est généralement conseillé de maintenir votre score au-dessus de ces chiffres, car ils peuvent varier légèrement en fonction du nombre de candidats.
 
-### Comment sont choisis les potentiels nouveaux Beatmap Nominators  ?
+### Comment sont choisis les potentiels nouveaux Beatmap Nominators
 
 - Le `ModScore` de toutes les candidatures sera vérifié pour confirmer qu'elles ont atteint le score minimum requis.
 - Les moddeurs ayant obtenu un score suffisant seront évalués par les membres de la NAT correspondant au mode de jeu pour lequel ils ont postulé, en tenant compte des critères suivants :
-  - Attitude générale : Le ton de la prestation des mods et les autres attentes comportementales du [Code de conduite](/wiki/Ranking_Criteria/Code_of_Conduct), ainsi que le comportement général dans le tchat/forums.
+  - Attitude générale : Le ton des mods et les autres attentes comportementales du [Code de conduite](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), ainsi que le comportement général dans le tchat/forum.
   - Capacités de modding : Connaissance des [critères de classement](/wiki/Ranking_Criteria) généraux et des critères spécifiques de chaque mode de jeu. Des capacités supplémentaires comme les métadonnées, le timing et d'autres seront également prises en compte.
 - Après l'évaluation de chaque moddeur, une discussion sera faite pour savoir si le moddeur rejoindra les Beatmap Nominators.
 
@@ -73,7 +74,7 @@ Vous avez ces conditions si vous avez échoué à une demande pour rejoindre les
 | :-- | :-- | :-- |
 | Standard | 90 jours | `ModScore` supérieur à 0 sur 90 jours |
 | Réduit | 60 jours | `ModScore` supérieur à 0 sur 90 jours |
-| Avoir raté le [test des Beatmaps Nominators](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 jours | `ModScore` supérieur à 0 sur 90 jours |
+| Avoir échoué le [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 jours | `ModScore` supérieur à 0 sur 90 jours |
 
 ### Réintégration après avoir été retiré des Beatmap Nominators
 

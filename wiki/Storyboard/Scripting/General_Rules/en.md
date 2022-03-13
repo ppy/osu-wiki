@@ -22,7 +22,7 @@
   - General playarea is 510 pixels wide by 385 pixels tall `(510x385)`.
 - Coordinates are specified with X going to the **right**, Y going **down**, and the origin (0,0) at the upper-left corner of the screen. This is different from traditional Euclidean coordinate systems, but is the same as most computer-graphics systems.
 - You are allowed to specify coordinates outside of these boundaries (e.g., for a sprite to come in from off-screen).
-- The coordinates of your cursor will be displayed in the Design tab in the [Beatmap Editor](/wiki/Beatmap_Editor).
+- The coordinates of your cursor will be displayed in the Design tab in the [Beatmap Editor](/wiki/Client/Beatmap_editor).
 
 **Editor coordinates:**
 

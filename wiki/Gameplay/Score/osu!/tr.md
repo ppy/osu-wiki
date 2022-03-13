@@ -23,7 +23,7 @@ Ek olarak spinner ölçer dolduktan sonra her bir dönüş için 1,000 puan kaza
 
 ## Zorluk çarpanı nasıl hesaplanır
 
-[Daire Boyutu (CS)](/wiki/Beatmap_Editor/Song_Setup), [HP Tüketimi (HP)](/wiki/Beatmap_Editor/Song_Setup) ve [Genel Zorluk (OD)](/wiki/Beatmap_Editor/Song_Setup), *zorluk puanına* bir tık ekler.
+[Daire Boyutu (CS)](/wiki/Client/Beatmap_editor/Song_Setup), [HP Tüketimi (HP)](/wiki/Client/Beatmap_editor/Song_Setup) ve [Genel Zorluk (OD)](/wiki/Client/Beatmap_editor/Song_Setup), *zorluk puanına* bir tık ekler.
 
 Biriken *zorluk puanları*, **Zorluk çarpanını** şu şekilde etkiler:
 

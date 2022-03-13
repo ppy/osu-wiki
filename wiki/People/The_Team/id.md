@@ -80,7 +80,7 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggo
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Pengembang osu! dan mode osu!mania |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, pengurus dan penyelenggara World Cup, pemelihara osu!wiki |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Manajer [osu!store](https://osu.ppy.sh/store/listing) |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Guru besar [osu!academy](/wiki/osu!academy), pengendali media dan rupa karakter |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Guru besar [osu!academy](/wiki/Community/Video_series/osu!academy), pengendali media dan rupa karakter |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

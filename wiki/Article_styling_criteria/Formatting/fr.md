@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 47aa245123d41ef6421aaec3ecddaef4b312ae70
+---
+
 # Mise en forme
 
 *Pour les normes de rédaction, voir : [Critères de style des articles/Rédaction](../Writing)*
@@ -541,7 +546,7 @@ Voici de bons exemples :
 Les liens Wiki qui pointent vers un sous-article doivent inclure le nom du dossier de l'article parent dans le texte du lien. Voir l'exemple suivant :
 
 ```markdown
-*Voir aussi : [Beatmap Editor/Design](/wiki/Beatmap_Editor/Design)*
+*Voir aussi : [Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)*
 ```
 
 ##### Liens de section

@@ -12,7 +12,7 @@ Netherlands-based duo **T & Sugah** might be a familiar name to those who've bee
 
 **12** striking drum & bass tracks are ready for a trip to the editor from [**T & Sugah**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/188), including a whole bunch of their well-known *Liquicity* songs.
 
-What could be a better way to experience **T & Sugah**'s sound than a quad-map exhibit? Drum & bass fanatics [Strategas](https://osu.ppy.sh/users/2971837) and [Zer0-](https://osu.ppy.sh/users/4260033) have been hard at work creating some [showcase maps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps) specifically for this announcement, so give them a kudosu or two for their efforts.
+What could be a better way to experience **T & Sugah**'s sound than a quad-map exhibit? Drum & bass fanatics [Strategas](https://osu.ppy.sh/users/2971837) and [Zer0-](https://osu.ppy.sh/users/4260033) have been hard at work creating some [showcase maps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) specifically for this announcement, so give them a kudosu or two for their efforts.
 
 Check everything out for yourself:
 

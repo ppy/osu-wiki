@@ -1,6 +1,6 @@
 # osu! program files
 
-*See also: [osu! File Formats](/wiki/osu!_File_Formats)*
+*See also: [osu! File Formats](/wiki/Client/File_formats)*
 
 ![The file structure of osu!'s installation folder, on Windows and macOS](img/file_structure.jpg "The file structure of osu!'s installation folder, on Windows and macOS")
 
@@ -18,7 +18,7 @@ By default, osu! is installed in the following locations:
 
 ### Chat
 
-The Chat folder only appears if the player has "Automatically log private messages" enabled in Options, or the player runs the "/savelog" command in the [Chat Console](/wiki/Chat_Console).
+The Chat folder only appears if the player has "Automatically log private messages" enabled in Options, or the player runs the "/savelog" command in the [Chat Console](/wiki/Client/Interface/Chat_console).
 
 The name structure of the files is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, and can be opened in any text editor. An example of this is shown below:
 
@@ -30,7 +30,7 @@ The Downloads folder holds the beatmaps being downloaded by osu!direct (requires
 
 ### Exports
 
-The Exports folder appears if the player uses the [Skin Selector's "Export as .osk"](/wiki/Options) or [Beatmap Editor's "Export Package"](/wiki/Beatmap_Editor/Menu). It will hold the beatmaps and skins the player has exported from osu!.
+The Exports folder appears if the player uses the [Skin Selector's "Export as .osk"](/wiki/Client/Options) or [Beatmap Editor's "Export Package"](/wiki/Client/Beatmap_editor/Menu). It will hold the beatmaps and skins the player has exported from osu!.
 
 ### Localisation
 
@@ -97,7 +97,7 @@ The database files are databases that osu! requires to function properly. The fi
 Configuration files configure the initial settings for osu! to work. The files can be opened with a text editor.
 
 - `osu!.cfg`: Stores security information about the osu! application files and current release stream. This should never be modified manually.
-- `osu!.<operating system username>.cfg`: Stores [Options](/wiki/Options) data and other game settings. See [User Configuration File](/wiki/osu!_Program_Files/User_Configuration_File).
+- `osu!.<operating system username>.cfg`: Stores [Options](/wiki/Client/Options) data and other game settings. See [User Configuration File](/wiki/Client/Program_files/User_configuration_file).
 
 ### .exe (Application)
 

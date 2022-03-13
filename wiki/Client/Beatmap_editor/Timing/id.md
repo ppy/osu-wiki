@@ -4,7 +4,7 @@
 
 ![Cuplikan tab timing di dalam editor](/wiki/shared/timing/Timing_base.jpg)
 
-**Tab timing** di dalam [beatmap editor](/wiki/Beatmap_Editor) memungkinkan para mapper untuk mengubah pengaturan timing dari sebuah [beatmap](/wiki/Beatmap). Timing biasanya merupakan sebuah langkah pertama dalam membuat sebuah beatmap.
+**Tab timing** di dalam [beatmap editor](/wiki/Client/Beatmap_editor) memungkinkan para mapper untuk mengubah pengaturan timing dari sebuah [beatmap](/wiki/Beatmap). Timing biasanya merupakan sebuah langkah pertama dalam membuat sebuah beatmap.
 
 Timing terdiri dari sebuah [offset](/wiki/Beatmapping/Offset) lagu, [beats per minute (BPM)](/wiki/Beatmapping/Beats_per_minute), dan [meter](https://en.wikipedia.org/wiki/Metre_(music)). Beatmap dituntut agar mempunyai timing yang akurat, supaya para pemain dapat menjaga akurasi saat bermain. Beatmap dengan timing yang tidak tepat, tidak dapat melewati [prosedur beatmap ranking](/wiki/Beatmap_ranking_procedure).
 

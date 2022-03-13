@@ -14,7 +14,7 @@ Okay fine, you're right. **Tasty** isn't actually an *artist*.
 
 What exactly is up for grabs? The full list of **13** tracks is available from [**Tasty**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/221), so take a peek at that in case your favourite snack isn't anywhere in the previews below.
 
-Speaking of previews, [-Sylvari](https://osu.ppy.sh/users/3493804) from the [Mappers' Guild](/wiki/Mappers_Guild) conveniently created a mapset for one of the lesser-known tracks in **Tasty**'s listing: [oneohkay - Last 7 Letters](https://osu.ppy.sh/beatmapsets/1616937). See how a rank 60,000 player manages the map with the Easy mod through the video below, then bestow your eardrums upon the rest of these previews:
+Speaking of previews, [-Sylvari](https://osu.ppy.sh/users/3493804) from the [Mappers' Guild](/wiki/Community/Mappers_Guild) conveniently created a mapset for one of the lesser-known tracks in **Tasty**'s listing: [oneohkay - Last 7 Letters](https://osu.ppy.sh/beatmapsets/1616937). See how a rank 60,000 player manages the map with the Easy mod through the video below, then bestow your eardrums upon the rest of these previews:
 
 <div align="center">
     <video width="85%" controls>

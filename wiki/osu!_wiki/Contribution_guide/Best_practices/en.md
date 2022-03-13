@@ -68,6 +68,18 @@ A pull request shows other people how your edits will affect the files. Add some
   - [Automatic resolution of relevant issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 - Make sure to tick the `Allow edits from maintainers` checkbox, as it will allow the wiki maintainers to help you improve the pull request when necessary
 
+## Applying reviews
+
+Reviews are best applied directly through the GitHub web interface. Use the `Add suggestion to batch` button when in the `Files changed` tab to apply multiple reviews simultaneously.
+
+![Applying a batch review](img/applying-batch-review.gif)
+
+You may also use the `Commit suggestion` button to apply a single suggestion individually, provided that you make commits sparingly and [with informative messages](#making-edits).
+
+![Applying a single review](img/applying-single-review.gif)
+
+Using this system will automatically mark suggestions as resolved. When applying reviews manually (e.g. when the reviewer didn't add a direct suggestion), mark them as resolved *after committing the change* to prevent forgetting any. Letting GitHub apply reviews automatically is preferred, as it ensures that suggestions are applied correctly and prevents any manual copy errors.
+
 ## Resolving conflicts
 
 There are two reasons for why a conflict could have happened:

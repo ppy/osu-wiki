@@ -14,7 +14,7 @@ tags:
 
 在 osu! 中有许多快捷键可以使用以下。是各种模式下可以使用的快捷键：
 
-*小提示：本文列出的是默认键盘快捷键你可以在[设置](/wiki/Options)中修改它们。*
+*小提示：本文列出的是默认键盘快捷键你可以在[设置](/wiki/Client/Options)中修改它们。*
 
 ## 游戏通用
 
@@ -45,7 +45,7 @@ tags:
 | `Esc` | 返回或取消 |
 | `P`，`E` 或 `O` | 打开游玩菜单 |
 | 三次 `P` | 进入单人游戏 |
-| 两次 `P` 后 `M` | 进入[多人游戏](/wiki/Multi) |
+| 两次 `P` 后 `M` | 进入[多人游戏](/wiki/Gameplay/Multiplayer) |
 | 两次 `E` | 进入编辑器模式 |
 | `O` | 打开设置菜单 |
 | `Q` | 退出游戏 |
@@ -149,7 +149,7 @@ tags:
 
 ## 编辑模式
 
-*主页面：[谱面编辑器](/wiki/Beatmap_Editor)*
+*主页面：[谱面编辑器](/wiki/Client/Beatmap_editor)*
 
 ### 常规
 
@@ -174,10 +174,10 @@ tags:
 | `Ctrl` + `N` | 提示并删除当前难度全部物件 |
 | `Ctrl` + `↑/↓` | 将播放速度提高/降低 25％ |
 | `Ctrl` + `Shift` + `↑/↓` | 将播放速度提高/降低 5％ |
-| `F1` | 切换到 [作曲](/wiki/Beatmap_Editor/Compose) 界面 |
-| `F2` | 切换到 [设计](/wiki/Beatmap_Editor/Design) 界面 |
-| `F3` | 切换到 [Timing](/wiki/Beatmap_Editor/Timing) 界面 |
-| `F4` | 打开 [歌曲设置](/wiki/Beatmap_Editor/Song_Setup) 对话框 |
+| `F1` | 切换到 [作曲](/wiki/Client/Beatmap_editor/Compose) 界面 |
+| `F2` | 切换到 [设计](/wiki/Client/Beatmap_editor/Design) 界面 |
+| `F3` | 切换到 [Timing](/wiki/Client/Beatmap_editor/Timing) 界面 |
+| `F4` | 打开 [歌曲设置](/wiki/Client/Beatmap_editor/Song_Setup) 对话框 |
 | `F5` | 进入测试模式 |
 | `F6` | 打开 Timing 点控制对话框 |
 | `Ctrl` + `P` | 在当前位置添加一条红线（Timing 点），如果当前不在 Timing 页面中，则会打开 Timing 点控制对话框 |
@@ -218,14 +218,14 @@ tags:
 | `1`，`2`，`3` 或 `4` | 在选择（select），打击圈（circle），滑条（slider）和转盘（spinner）之间来回切换，仅适用于 osu!，osu!taiko 和 osu!catch |
 | `1`，`2` 或 `3` | 在选择（select），物件（circle）和长按（hold）之间来回切换，仅适用于 osu!mania |
 | `Ctrl` + `Alt` + `鼠标滚轮` | 在选择/放置之间切换 |
-| `Ctrl` + `Shift` + `A` | 打开 [AiMod](/wiki/Beatmap_Editor/AiMod) |
+| `Ctrl` + `Shift` + `A` | 打开 [AiMod](/wiki/Client/Beatmap_editor/AiMod) |
 
 #### 游玩区域
 
 | 快捷键 | 功能 |
 | :-- | :-- |
-| `Alt` | 按住以暂时打开或关闭[间距锁定](/wiki/Beatmap_Editor/Distance_Snap) |
-| `Y` | 打开或关闭[间距锁定](/wiki/Beatmap_Editor/Distance_Snap) |
+| `Alt` | 按住以暂时打开或关闭[间距锁定](/wiki/Client/Beatmap_editor/Distance_snap) |
+| `Y` | 打开或关闭[间距锁定](/wiki/Client/Beatmap_editor/Distance_snap) |
 | `Shift` | 按住以暂时打开或关闭网格校准 |
 | `T` | 打开或关闭网格校准 |
 | `G` | 切换网格校准模式 |
@@ -267,7 +267,7 @@ tags:
 
 | 快捷键 | 功能 |
 | :-- | :-- |
-| `Shift` + (`1`，`2`，`3`，`4`，`6` 或 `8`) | 将[节拍细分](/wiki/Beatmap_Editor/Beat_Snap_Divisor)在 1/1，1/2，1/3，1/4，1/6 或 1/8 之间来回切换 |
+| `Shift` + (`1`，`2`，`3`，`4`，`6` 或 `8`) | 将[节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)在 1/1，1/2，1/3，1/4，1/6 或 1/8 之间来回切换 |
 | `Shift`（拖动时间轴时） | 忽略节拍细分 |
 | `J` | 将选择的物件向前移动一拍 |
 | `K` | 将选择的物件向后移动一拍 |

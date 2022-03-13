@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 3fe983b3a55970aed91a0bcdca028253d918ae5d
+---
+
 # Registre du personnel : 2021
 
 Les  abréviations des groupes d'utilisateurs utilisées dans ce registre sont les suivantes :

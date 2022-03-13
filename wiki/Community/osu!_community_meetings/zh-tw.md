@@ -1,7 +1,7 @@
 ---
-no_native_review: true
 outdated: true
-outdated_since: c5ee74153aa8ac008034cce4efe4be4350f8034b
+outdated_since: 2a90aefc11ed08f4b94533a016698d07f01ca3a3
+no_native_review: true
 ---
 
 # osu! 社群會議 (osu! community meetings)
@@ -17,7 +17,8 @@ outdated_since: c5ee74153aa8ac008034cce4efe4be4350f8034b
 下一次的 osu! 社群會議預定日期將於之後宣布。
 
 <!-- *提醒：若上述的會議日期已過，請查看此條目的英文版本以獲取最新日期。*
-Translation: *Note: If the above date has passed, the most recent date can be found in the English version of this article.*-->
+
+Translation: *Note: If the above date has passed, the most recent date can be found in the English version of this article.* -->
 
 ## 參與其中
 
@@ -35,16 +36,21 @@ Translation: *Note: If the above date has passed, the most recent date can be fo
 
 首次的 osu! 社群會議已於 2021 年 9 月 19 日舉行。所有過往及未來會議都會將錄影檔放上 Youtube，並附上摘要檔案。
 
-| 會議編號 | 連結 | 摘要 |
-| :-: | :-- | :-- |
-| 0 | [2021 年 9 月 19 號](https://youtu.be/-LjNll8VYTM) | [筆記](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) |
-| 1 | [2021 年 10 月 3 號](https://youtu.be/D3OZCm6szVE) | [筆記](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) |
-| 2 | [2021 年 10 月 17 號](https://youtu.be/nLT-fLeogrw) | [筆記](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) |
-| 3 | [2021 年 10 月 31 號](https://youtu.be/omvZbC7zJUI) | [筆記](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) |
-| 4 | [2021 年 11 月 14 號](https://youtu.be/rEWgTY-L95Y) | [筆記](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) |
-| 5 | [2021 年 11 月 28 號](https://youtu.be/SqMrY26Q6Tw) | [筆記](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) |
-| 6 | [2021 年 12 月 11 號](https://youtu.be/dtGjIyTFtMA) | [筆記](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) |
-| 7 | [2021 年 12 月 18 號](https://www.twitch.tv/videos/1236856715) | [筆記](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) |
+| 會議編號 | 連結 | 摘要 | 議程 |
+| :-: | :-- | :-- | :-- |
+| 0 | [2021 年 9 月 19 號](https://youtu.be/-LjNll8VYTM) | [筆記](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | 大致介紹此會議、審核標準、難度及 pp、osu!(lazer) |
+| 1 | [2021 年 10 月 3 號](https://youtu.be/D3OZCm6szVE) | [筆記](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | 各類由社群提出的問題、開發最新進度 |
+| 2 | [2021 年 10 月 17 號](https://youtu.be/nLT-fLeogrw) | [筆記](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | 各類由社群提出的問題 |
+| 3 | [2021 年 10 月 31 號](https://youtu.be/omvZbC7zJUI) | [筆記](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | 各類由社群提出的問題 |
+| 4 | [2021 年 11 月 14 號](https://youtu.be/rEWgTY-L95Y) | [筆記](https://docs.google.com/document/d/1rhrz0zaxQfVK1UnvrcEqj4UMagTD0bPNh8wby8I38IA) | pp 開發過程、各類由社群提出的問題、開發最新進度 |
+| 5 | [2021 年 11 月 28 號](https://youtu.be/SqMrY26Q6Tw) | [筆記](https://docs.google.com/document/d/1R3OZZazb4p_PRcjEMvIrsfg5UqMyra-4QJd5qlvBb98) | 各類由社群提出的問題、開發最新進度 |
+| 6 | [2021 年 12 月 11 號](https://youtu.be/dtGjIyTFtMA) | [筆記](https://docs.google.com/document/d/1WtvmytxdzVTZX86JIWVgl4WZMTz3AfrMHOSVImEIMz8) | osu! 世界盃的未來、各類由社群提出的問題 |
+| 7 | [2021 年 12 月 18 號](https://youtu.be/v-LgY3UKhkg) | [筆記](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | peppy 對社群中發生的各種爭議及戲劇性事件的回應 |
+| 8 | [2022 年 1 月 9 號](https://youtu.be/JXgQ6YEDCGg) | [筆記](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | 血量機制 (掉血)、各類由社群提出的問題 |
+| 9 | [2022 年 1 月 22 號](https://youtu.be/Prx0XzHl6-M) | [筆記](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | 各類由社群提出的問題、開發最新進度 |
+| 10 | [2022 年 2 月 6 號](https://youtu.be/xA4nbE8DM4s) | [筆記](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | 各類由社群提出的問題 |
+| 11 | [2022 年 2 月 20 號](https://youtu.be/d66pU5lsHvE) | - |  |
+| 12 | [2022 年 3 月 6 號](https://youtu.be/HimCHAnPCCY) | - |  |
 
 ## 相關連結
 

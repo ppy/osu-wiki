@@ -1,6 +1,6 @@
 # Medals
 
-**Medals**, previously known as *achievements*, are badges on a user's profile which indicate certain goals that have been achieved by the user. Currently, there are **247** medals available to be unlocked across eight different categories in total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), and [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Medals**, previously known as *achievements*, are badges on a user's profile which indicate certain goals that have been achieved by the user. Currently, there are **261** medals available to be unlocked across eight different categories in total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), and [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -8,7 +8,7 @@
 
 All beatmaps have to be cleared in the [osu!](/wiki/Game_mode/osu!) game mode in order to qualify for the badge unless otherwise specified. The usage of either [difficulty reducing mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increasing mods](/wiki/Game_modifier#difficulty-increase) is permitted.
 
-It is worth noting however that the contents of all the Video Game Packs, Anime Packs, Internet! Packs, and Rhythm Game Packs have been dramatically altered since [their first introduction in 2008](https://osu.ppy.sh/community/forums/topics/1853). For the list of these beatmap packs in their legacy/original state, see [Legacy Beatmap Packs](/wiki/Medals/Legacy_Beatmap_Packs).
+It is worth noting however that the contents of all the Video Game Packs, Anime Packs, Internet! Packs, and Rhythm Game Packs have been dramatically altered since [their first introduction in 2008](https://osu.ppy.sh/community/forums/topics/1853). For the list of these beatmap packs in their legacy/original state, see [Legacy Beatmap Packs](/wiki/Medals/Legacy_beatmap_packs).
 
 ## Skill
 

@@ -9,7 +9,7 @@ tags:
 
 ![Capture d'écran du test mode](img/test-mode-example.jpg "Utilisation du test mode avec la fonction de lecture automatique")
 
-Le **test mode** est une fonctionnalité de l'[éditeur de beatmap](/wiki/Beatmap_Editor) qui permet aux créateurs de jouer leurs propres [beatmaps](/wiki/Beatmap) à partir de l'éditeur de beatmap afin de les tester. Le mode est accessible via le bouton `Test` en bas à droite de l'éditeur.
+Le **test mode** est une fonctionnalité de l'[éditeur de beatmap](/wiki/Client/Beatmap_editor) qui permet aux créateurs de jouer leurs propres [beatmaps](/wiki/Beatmap) à partir de l'éditeur de beatmap afin de les tester. Le mode est accessible via le bouton `Test` en bas à droite de l'éditeur.
 
 ![Bouton du test mode](img/test-mode-button.png "Le bouton du test mode dans l'éditeur de beatmap")
 
@@ -18,7 +18,7 @@ Le **test mode** est une fonctionnalité de l'[éditeur de beatmap](/wiki/Beatma
 Jouer une beatmap en test mode diffère du jeu normal, car il ne soumet aucun score, n'affiche aucun classement, ne permet pas aux utilisateurs d'échouer les beatmaps, et affiche toujours les informations suivantes sur le côté gauche de l'écran :
 
 - L'actuel [timestamp](/wiki/Modding/Timestamp) de la beatmap
-- Le [SB load](/wiki/Beatmap_Editor/SB_Load)
+- Le [SB load](/wiki/Client/Beatmap_editor/SB_Load)
 - Le nombre total de 300s, 100s, 50s et de miss obtenus
 - Le pourcentage de hit qui sont mal placés
 - Le délai moyen (en millisecondes) dans lequel les hits mal placés sont en retard

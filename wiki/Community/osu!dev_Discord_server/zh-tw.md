@@ -21,7 +21,7 @@ tags:
 
 | 專案 | 頻道 |
 | :-- | :-- |
-| [osu!lazer](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmapping/Star_rating) 和 [pp](/wiki/Performance_points) | `#difficulty-osu` |
@@ -30,6 +30,8 @@ tags:
 | [osu!mania](/wiki/Game_mode/osu!mania) 星級和 pp | `#difficulty-mania` |
 | [圖譜聚光燈](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
+| [Official tournament support](/wiki/Tournaments/Official_support) | `#tournaments` |
+| [osu! 社群會議](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
 | [審圖](/wiki/Modding)討論 及 [NAT 會議](/wiki/Modding/NAT_meetings) | `#modding` |
-| [製圖者公會 (Mappers' Guild)](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [製圖者公會 (Mappers' Guild)](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

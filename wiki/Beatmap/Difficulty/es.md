@@ -28,7 +28,7 @@ Los rangos de clasificación de estrellas determinan qué icono web se va a util
 
 ## Niveles de dificultad
 
-*Ver tambien: [Nombrar dificultades](/wiki/Ranking_Criteria/Difficulty_Naming).*
+*Ver tambien: [Nombrar dificultades](/wiki/Ranking_Criteria/Difficulty_naming).*
 
 ### osu!
 

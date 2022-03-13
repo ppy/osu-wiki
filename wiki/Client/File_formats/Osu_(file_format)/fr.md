@@ -12,8 +12,8 @@ Le contenu suivant est séparé en sections, indiquées par des titres de sectio
 | :-- | :-- | :-- |
 | `[General]` | Informations générales sur la beatmap | paires `key: value` |
 | `[Editor]` | Paramètres sauvegardés pour l'éditeur de beatmaps | paires `key: value` |
-| `[Metadata]` | [Information](/wiki/Beatmap_Editor/Song_Setup#métadonnées-des-chansons-et-des-maps) utilisée pour identifier la beatmap. | paires `key:value` |
-| `[Difficulty]` | [Paramètres de difficulté](/wiki/Beatmap_Editor/Song_Setup#difficulté) | paires `key:value` |
+| `[Metadata]` | [Information](/wiki/Client/Beatmap_editor/Song_Setup#métadonnées-des-chansons-et-des-maps) utilisée pour identifier la beatmap. | paires `key:value` |
+| `[Difficulty]` | [Paramètres de difficulté](/wiki/Client/Beatmap_editor/Song_Setup#difficulté) | paires `key:value` |
 | `[Events]` | Beatmap et storyboard des événements graphiques | Listes séparées par des virgules |
 | `[TimingPoints]` | Timing points et control points | Listes séparées par des virgules |
 | `[Colours]` | Couleurs du combo et du skin | paires `key : value` |
@@ -45,15 +45,15 @@ Le contenu suivant est séparé en sections, indiquées par des titres de sectio
 
 ## Editor
 
-Ces options ne concernent que l'ouverture des maps dans l'[éditeur de beatmaps](/wiki/Beatmap_Editor). Elles n'affectent pas le gameplay.
+Ces options ne concernent que l'ouverture des maps dans l'[éditeur de beatmaps](/wiki/Client/Beatmap_editor). Elles n'affectent pas le gameplay.
 
 | Option | Type de valeur en français (en anglais) | Description |
 | :-- | :-- | :-- |
-| `Bookmarks` | Liste d'entiers séparés par des virgules | Temps en millisecondes de [bookmarks](/wiki/Beatmap_Editor/Compose#en-bas-(timeline-de-la-chanson)) |
-| `DistanceSpacing` | Décimal (Decimal) | Multiplicateur [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) |
-| `BeatDivisor` | Décimal (Decimal) | [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) |
+| `Bookmarks` | Liste d'entiers séparés par des virgules | Temps en millisecondes de [bookmarks](/wiki/Client/Beatmap_editor/Compose#en-bas-(timeline-de-la-chanson)) |
+| `DistanceSpacing` | Décimal (Decimal) | Multiplicateur [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) |
+| `BeatDivisor` | Décimal (Decimal) | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | `GridSize` | Entier (Integer) | [Grid size](/wiki/Grid_snapping) |
-| `TimelineZoom` | Décimal (Decimal) | Facteur d'échelle pour la [timeline des objets](/wiki/Beatmap_Editor/Compose#en-haut-à-gauche-(la-timeline-des-objets)) |
+| `TimelineZoom` | Décimal (Decimal) | Facteur d'échelle pour la [timeline des objets](/wiki/Client/Beatmap_editor/Compose#en-haut-à-gauche-(la-timeline-des-objets)) |
 
 ## Metadata
 
@@ -141,7 +141,7 @@ Chaque timing point influence une partie spécifique de la map, communément app
 
 Les timing points ont deux effets supplémentaires qui peuvent être basculés en utilisant les bits 0 et 3 (du moins au plus significatif) dans l'entier `effects` :
 
-- 0 : Si le [kiai time](/wiki/Kiai_time) est activé ou non.
+- 0 : Si le [kiai time](/wiki/Gameplay/Kiai_time) est activé ou non.
 - 3 : L'omission ou non de la première barre de mesure dans osu!taiko et osu!mania
 
 Le reste des bits est inutilisé.

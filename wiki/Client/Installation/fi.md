@@ -4,9 +4,9 @@ no_native_review: true
 
 # Asentaminen
 
-*Katso myös: [Installation/macOS](/wiki/Installation/macOS)*
+*Katso myös: [Installation/macOS](/wiki/Client/Installation/macOS)*
 
-Tämä sivu kertoo miten saat osu!'n toimimaan Windows-tietokoneellesi. [osu!akademiassa](/wiki/osu!academy) on englanninkielinen [video-opas](https://www.youtube.com/watch?v=0V5GwzmMhpU), joka selittää osu!'n asentaminen Windowsille.
+Tämä sivu kertoo miten saat osu!'n toimimaan Windows-tietokoneellesi. [osu!akademiassa](/wiki/Community/Video_series/osu!academy) on englanninkielinen [video-opas](https://www.youtube.com/watch?v=0V5GwzmMhpU), joka selittää osu!'n asentaminen Windowsille.
 
 ## Järjestelmävaatimukset
 
@@ -39,7 +39,7 @@ Voit ladata beatmappejä kotisivulta tai osu!direct'in avulla (vaatii [osu!suppo
 4. Avaa beatmap-tiedoston, sillä on `.osz` tiedostopäätteenä.
    - Voit myös laittaa beatmap-tiedoston `Songs`-kansioon osu!'n asennussijainnissa.
 5. osu! tekee loput automaattisesti ja avaa beatmapin.
-   - Jos jostain syystä et näe sitä, paina `F5`-näppäintä kun olet [Laulujen Valikossa](/wiki/Interface#song-selection-screen) ladatakseen beatmapit uudelleen.
+   - Jos jostain syystä et näe sitä, paina `F5`-näppäintä kun olet [Laulujen Valikossa](/wiki/Client/Interface#song-select) ladatakseen beatmapit uudelleen.
 
 ### osu!direct
 
@@ -50,7 +50,7 @@ Voit ladata beatmappejä kotisivulta tai osu!direct'in avulla (vaatii [osu!suppo
 3. Lataa beatmapin kaksoisnapsauttamalla valitsevasi beatmappiä tai napsauttamalla oikealla puolella olevaa `Download`-painiketta.
    - Jos ett halua beatmapin yhteen tulevaa videota, napsauta `DL NoVideo`.
 4. osu! lataa beatmapin automaattisesti.
-   - Jos jostain syystä et näe sitä, paina `F5`-näppäintä kun olet [Laulujen Valikossa](/wiki/Interface#song-selection-screen) ladatakseen beatmapit uudelleen.
+   - Jos jostain syystä et näe sitä, paina `F5`-näppäintä kun olet [Laulujen Valikossa](/wiki/Client/Interface#song-select) ladatakseen beatmapit uudelleen.
 
 ## Ulkoasun vaihtaminen
 
@@ -66,5 +66,5 @@ Voit ladata beatmappejä kotisivulta tai osu!direct'in avulla (vaatii [osu!suppo
      1. Pura se
      2. Siirrä purattu kansio `Skins`-kansioon osu!'n asennussijainnissa.
      3. Ulkoasu näkyy valikossa painamalla `Ctrl` + `Alt` + `Shift` + `S`, jos osu! on jo käynnissä.
-     4. Etsi `Ulkoasu` osu!'n [Asetuksissa](/wiki/Options).
+     4. Etsi `Ulkoasu` osu!'n [Asetuksissa](/wiki/Client/Options).
      5. Vieritä alas `Valitse ulkoasu`-asetukseen asti ja valitse lataamasi ulkoasun.

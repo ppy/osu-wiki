@@ -13,7 +13,7 @@ Os membros do NAT são reconhecidos pelo seus títulos e nomes de usuário verme
 
 **Todos os membros da Equipe de Avaliação de Nomeação estão em juramento a manter o [Código de Conduta do Contribuidor](/wiki/Contributor_Code_of_Conduct) junto das [Regras da Comunidade](/wiki/Rules).**
 
-Se você encontrar qualquer membro da Equipe de Avaliação de Nomeação agindo inapropriadamente (ou agindo em violação ao Código de Conduta do Contribuidor), por favor entre em contato conosco em [abuse@ppy.sh](mailto:abuse@ppy.sh) imediatamente com o máximo de informação o possível. Para mais detalhes, veja [Denunciando Abuso](/wiki/Reporting_Bad_Behaviour/Abuse).
+Se você encontrar qualquer membro da Equipe de Avaliação de Nomeação agindo inapropriadamente (ou agindo em violação ao Código de Conduta do Contribuidor), por favor entre em contato conosco em [abuse@ppy.sh](mailto:abuse@ppy.sh) imediatamente com o máximo de informação o possível. Para mais detalhes, veja [Denunciando Abuso](/wiki/Reporting_bad_behaviour/Abuse).
 
 ## Responsabilidades
 
@@ -74,24 +74,21 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espanhol, Alemão | Avaliação, moderação |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Avaliação, estrutural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Avaliação, comunicação |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | Avaliação |
 
 ### osu!mania
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Avaliação |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, Francês | Avaliação |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Espanhol, Português, Galego, Italiano, Japonês | Avaliação |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Avaliação |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Argélia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suécia"

@@ -18,7 +18,7 @@ Notes :
 
 - Un tag [osu!supporter](/wiki/osu!supporter) est nécessaire pour le modifier.
 - Ce son est joué lors de la fermeture du client d'osu!
-- Ceci peut être désactivé dans les [options](/wiki/Options).
+- Ceci peut être désactivé dans les [options](/wiki/Client/Options).
 
 ---
 
@@ -26,7 +26,7 @@ Notes :
 
 - Un tag [osu!supporter](/wiki/osu!supporter) est nécessaire pour le modifier.
 - Ce son est joué au démarrage du client d'osu!.
-- Ceci peut être désactivé dans les [options](/wiki/Options).
+- Ceci peut être désactivé dans les [options](/wiki/Client/Options).
 
 ### Touches
 

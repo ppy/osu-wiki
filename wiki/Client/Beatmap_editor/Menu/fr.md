@@ -27,7 +27,7 @@
 | Nom | Description |
 | :-- | :-- |
 | Tester la beatmap (`F5`) | Testez la beatmap. Les modifications actuelles seront sauvegardées afin de pouvoir la tester. |
-| Ouvrir AiMod (`Ctrl` + `Shift` + `A`) | Ouvre [AiMod](/wiki/Beatmap_Editor/AiMod). |
+| Ouvrir AiMod (`Ctrl` + `Shift` + `A`) | Ouvre [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
 
 ### Commandes de package de la beatmap
 
@@ -60,7 +60,7 @@
 
 ### Commandes Rétablir/Annuler
 
-Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Options) pour éviter les plantages lors de l'édition de chansons marathon.
+Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Client/Options) pour éviter les plantages lors de l'édition de chansons marathon.
 
 | Nom | Description |
 | :-- | :-- |
@@ -149,7 +149,7 @@ Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Opt
 
 ## Compose
 
-*Page principale : [Compose](/wiki/Beatmap_Editor/Compose)*
+*Page principale : [Compose](/wiki/Client/Beatmap_editor/Compose)*
 
 ![Menu Compose](img/M_Compose-FR.png "Menu Compose")
 
@@ -157,7 +157,7 @@ Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Opt
 
 | Nom | Description |
 | :-- | :-- |
-| Diviseur de mesure | [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) |
+| Diviseur de mesure | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | Vitesse de la musique | Identique à la vitesse de lecture. |
 | Alignement auto des élements sur la grille (`T`) | Permet l'accrochage des notes par rapport à la ligne de grille actuelle. |
 
@@ -168,11 +168,11 @@ Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Opt
 | Insérer des notes en cercle... (`Ctrl` + `Shift` + `D`) | Crée un flow circulaire de cercles. Vous pouvez ajuster la Distance Snap (0.1x - 2.0x) {Espacement entre les notes}, l'angle Offset (0° - 180°) {Angle de rotation}, la répétition et les points (3 - 14/282) {Nombre de cercles}. |
 | Convertir un slider en stream... | (Sélectionnez un slider) Change le curseur en flow de cercles. Vous pouvez choisir entre deux options : Par nombre d'objets ou Par distance instantanée. **Par nombre d'objets :** Ajustez le slider flow avec la quantité donnée de cercles (1 - 17/100). **Par la distance instantanée :** Ajuste le slider flow avec une distance donnée entre deux notes (0.10x - 5.00x). Peut résulter en une quantité absurde de cercles, puisqu'il s'appuie sur le diviseur de mesure (un temps = une note). **Beat Snap Divisor :** Ajusteur de timing des notes. |
 | Activer le live mapping (`Ctrl` + Tab) | Maps osu!/osu!catch/osu!taiko : utilisez les touches osu!taiko pour saisir des cercles/fruit/taiko, tout en jouant le morceau dans l'éditeur. Les notes sont placées selon l'emplacement du curseur. Différents sons en fonction de la touche osu!taiko sur laquelle vous avez appuyée. maps osu!mania : utilisez les touches osu!mania pour placer des cercles, tout en jouant un morceau dans l'éditeur. La note est placée selon la touche sur laquelle vous avez appuyée. Ne fonctionne pas pour les sliders/holds. |
-| Importer un bruitage | [Keysound and Sound Sampling.](/wiki/Beatmap_Editor/Compose) |
+| Importer un bruitage | [Keysound and Sound Sampling.](/wiki/Client/Beatmap_editor/Compose) |
 
 ## Design
 
-*Page principale : [Design](/wiki/Beatmap_Editor/Design)*
+*Page principale : [Design](/wiki/Client/Beatmap_editor/Design)*
 
 ![Menu Design](img/M_Design-FR.png "Menu Design")
 
@@ -182,7 +182,7 @@ Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Opt
 
 ## Timing
 
-*Page principale : [Timing](/wiki/Beatmap_Editor/Timing)*
+*Page principale : [Timing](/wiki/Client/Beatmap_editor/Timing)*
 
 ![Menu Timing](img/M_Timing-FR.png "Menu Timing")
 
@@ -207,7 +207,7 @@ Notez que ces commandes peuvent être désactivées dans les [Options](/wiki/Opt
 
 | Nom | Description |
 | :-- | :-- |
-| Configuration du timing... (`F6`) | [Timing Setup](/wiki/Beatmap_Editor/Timing). |
+| Configuration du timing... (`F6`) | [Timing Setup](/wiki/Client/Beatmap_editor/Timing). |
 
 ### Commandes spéciales
 

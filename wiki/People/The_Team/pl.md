@@ -78,7 +78,7 @@ Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami ws
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Programista, twórca PP |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Programista, twórca osu!manii |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Zarządzanie [sklepem osu!](https://osu.ppy.sh/store/listing) |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Prowadzenie [akademii osu!](/wiki/osu!academy), grafik |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Prowadzenie [akademii osu!](/wiki/Community/Video_series/osu!academy), grafik |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentyna"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

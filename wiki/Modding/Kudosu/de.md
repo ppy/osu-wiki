@@ -5,7 +5,7 @@ no_native_review: true
 
 # Kudosu
 
-**Kudosu** ist ein Belohnungssystem für [Modding](/wiki/Modding), mit dem hilfreiche Moddingbeiträge in den [Beatmap Diskussionen](/wiki/Beatmap_Discussion) belohnt werden. Diese Punkte werden im Benutzerprofil angezeigt.
+**Kudosu** ist ein Belohnungssystem für [Modding](/wiki/Modding), mit dem hilfreiche Moddingbeiträge in den [Beatmap Diskussionen](/wiki/Beatmap_discussion) belohnt werden. Diese Punkte werden im Benutzerprofil angezeigt.
 
 Zu Zeiten der [Forenmoderation](/wiki/Modding/Forum_modding) war Kudosu gegen [star priority](/wiki/Modding/Star_priority) eintauschbar.
 

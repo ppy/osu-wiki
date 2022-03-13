@@ -18,8 +18,8 @@ In order to keep the official community hubs safe, osu! has a dedicated moderati
 
 Fortunately, it is still easy for you to help keep everything safe here. The following are just a few of the many ways you can help:
 
-- Follow your favourite channels in the [osu! in-game chat](/wiki/Chat_Console), or on the forums.
-- If you see something happening that you think is inappropriate or disturbing in any way, use [the `!report` command](/wiki/Reporting_Bad_Behaviour) in the in-game chat to notify the moderators of it.
+- Follow your favourite channels in the [osu! in-game chat](/wiki/Client/Interface/Chat_console), or on the forums.
+- If you see something happening that you think is inappropriate or disturbing in any way, use [the `!report` command](/wiki/Reporting_bad_behaviour) in the in-game chat to notify the moderators of it.
 
 ## Help other community members
 
@@ -60,9 +60,9 @@ Below are just a few of the ways you can contribute:
 
 ## Contribute to the future of osu!
 
-Started in 2017, the osu!lazer project is the current focus of [the osu! team](/wiki/People/The_Team), along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
+Started in 2017, the osu!(lazer) project is the current focus of [the osu! team](/wiki/People/The_Team), along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
 
-- Helping with the [osu!lazer](https://github.com/ppy/osu) project. There is so much to implement on the new version of osu!, and you can help make it happen!
+- Helping with the [osu!(lazer)](https://github.com/ppy/osu) project. There is so much to implement on the new version of osu!, and you can help make it happen!
 - Make the [new website](https://github.com/ppy/osu-web) even better.
 
 ## Avoid being negative! Make people happy!
@@ -70,7 +70,7 @@ Started in 2017, the osu!lazer project is the current focus of [the osu! team](/
 There is an old saying that you should become part of the solution, not the problem. Simply by following this old saying, you'd be helping osu! by making the community a brighter place. People will always complain, but there are still so many ways you can help lighten up the mood in the community:
 
 - Be friendly to each other; life is too short to argue.
-- [Report cheaters when you see them](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Please do not complain about them through other mediums as a simple `!report <username> seems to be cheating` can fix your problems within minutes to hours.
+- [Report cheaters when you see them](/wiki/Reporting_bad_behaviour/Handling_foul_play). Please do not complain about them through other mediums as a simple `!report <username> seems to be cheating` can fix your problems within minutes to hours.
 - Go out of your way to mediate negative situations and turn them into positive outcomes.
 
 **While this article cannot cover how much more you can help the osu! community, simply playing the game as well can make osu! even more awesome!**

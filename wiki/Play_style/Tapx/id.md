@@ -13,7 +13,7 @@ tags:
 
 *Perhatian: Gaya bermain ini membutuhkan sebuah graphic tablet.*
 
-**Tapx** adalah sebuah gaya tapping bagi pemain [osu!](/wiki/Game_mode/osu!) yang [hanya menggunakan tablet](/wiki/Play_style#tablet-only) untuk bermain. Di mana pemain menekan circle, meluncurkan slider, dan memutar spinner dengan menekankan pena tablet ke tablet, bersama dengan tombol keyboard/tablet kedua untuk membantu pemain dalam melakukan [stream](/wiki/Beatmap/Pattern/Stream) dan [stack](/wiki/Mapping_Techniques/Stack). Metode untuk bermain ini cukup sulit bagi kebanyakan pemain dan tidak terlalu popular bagi kebanyakan pemain tablet.
+**Tapx** adalah sebuah gaya tapping bagi pemain [osu!](/wiki/Game_mode/osu!) yang [hanya menggunakan tablet](/wiki/Play_style#tablet-only) untuk bermain. Di mana pemain menekan circle, meluncurkan slider, dan memutar spinner dengan menekankan pena tablet ke tablet, bersama dengan tombol keyboard/tablet kedua untuk membantu pemain dalam melakukan [stream](/wiki/Beatmap/Pattern/Stream) dan [stack](/wiki/Mapping_techniques/Stack). Metode untuk bermain ini cukup sulit bagi kebanyakan pemain dan tidak terlalu popular bagi kebanyakan pemain tablet.
 
 ## Streaming
 

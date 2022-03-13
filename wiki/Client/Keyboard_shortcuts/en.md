@@ -10,7 +10,7 @@ tags:
 
 There are many shortcuts in osu! that can be utilised while in-game or while idle at any screen. They are listed out with their functions below.
 
-*Note: This article lists the default keyboard shortcuts. You can change some of them in the [options](/wiki/Options).*
+*Note: This article lists the default keyboard shortcuts. You can change some of them in the [options](/wiki/Client/Options).*
 
 ## Game-wide
 
@@ -41,7 +41,7 @@ These shortcuts work anywhere:
 | `Esc` | Go back or cancel. |
 | `P`, `E`, or `O` | Open the play menu. |
 | `P` three times | Enter Solo. |
-| `P` twice, then `M` | Enter [Multi](/wiki/Multi). |
+| `P` twice, then `M` | Enter [Multi](/wiki/Gameplay/Multiplayer). |
 | `E` twice | Enter edit mode. |
 | `O` | Open the options sidebar. |
 | `Q` | Display the exit prompt. |
@@ -143,7 +143,7 @@ These shortcuts work anywhere:
 
 ## Beatmap editor
 
-*Main page: [Beatmap Editor](/wiki/Beatmap_Editor)*
+*Main page: [Beatmap Editor](/wiki/Client/Beatmap_editor)*
 
 ### General
 
@@ -168,10 +168,10 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `N` | Prompt to remove all hit objects. |
 | `Ctrl` + `Up/Down Arrow` | Increase/decrease the playback speed by 25%. |
 | `Ctrl` + `Shift` + `Up/Down Arrow` | Increase/decrease the playback speed by 5%. |
-| `F1` | Switch to the [compose](/wiki/Beatmap_Editor/Compose) mode. |
-| `F2` | Switch to the [design](/wiki/Beatmap_Editor/Design) mode. |
-| `F3` | Switch to the [timing](/wiki/Beatmap_Editor/Timing) mode. |
-| `F4` | Open the [song setup](/wiki/Beatmap_Editor/Song_Setup) dialog. |
+| `F1` | Switch to the [compose](/wiki/Client/Beatmap_editor/Compose) mode. |
+| `F2` | Switch to the [design](/wiki/Client/Beatmap_editor/Design) mode. |
+| `F3` | Switch to the [timing](/wiki/Client/Beatmap_editor/Timing) mode. |
+| `F4` | Open the [song setup](/wiki/Client/Beatmap_editor/Song_Setup) dialog. |
 | `F5` | Enter test mode. |
 | `F6` | Open the timing and control points dialog. |
 | `Ctrl` + `P` | Add an uninherited timing point at the current timestamp. If not in the timing mode, this will also open the timing and control points dialog. |
@@ -214,13 +214,13 @@ These shortcuts work anywhere within the beatmap editor:
 | `1`, `2`, `3`, or `4` | Switch between placement/selection mode: select, circle, slider, and spinner respectively (osu!, osu!taiko, or osu!catch). |
 | `1`, `2`, or `3` | Switch between placement/selection mode: select, circle, and hold respectively (osu!mania). |
 | `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Switch between placement/selection modes. |
-| `Ctrl` + `Shift` + `A` | Open [AiMod](/wiki/Beatmap_Editor/AiMod). |
+| `Ctrl` + `Shift` + `A` | Open [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
 
 #### Playfield
 
 | Shortcut | Action |
 | :-- | :-- |
-| `Alt` | Temporarily toggle [distance snap](/wiki/Beatmap_Editor/Distance_Snap) while held down. |
+| `Alt` | Temporarily toggle [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) while held down. |
 | `Y` | Toggle distance snap. |
 | `Shift` | Temporarily toggle grid snap while held down. |
 | `T` | Toggle grid snap. |
@@ -264,7 +264,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 | Shortcut | Action |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Set the [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 and 1/9 respectively. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Set the [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 and 1/9 respectively. |
 | `Shift` (while dragging in the timeline) | Ignore the beat snap divisor snapping. |
 | `J` | Nudge the selection backwards 1 divisor. |
 | `K` | Nudge the selection forwards 1 divisor. |

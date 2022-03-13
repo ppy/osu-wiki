@@ -21,7 +21,7 @@ outdated: true
   - [GitHub](https://github.com/ppy/osu-api)
 - osu!framework—A game framework written with osu! in mind.
   - [GitHub](https://github.com/ppy/osu-framework)
-- osu!lazer—The future of osu! and the beginning of an open era.
+- osu!(lazer)—The future of osu! and the beginning of an open era.
   - [GitHub](https://github.com/ppy/osu)
 - osu!performance—Player ranking metric of osu!.
   - [GitHub](https://github.com/ppy/osu-performance)
@@ -220,7 +220,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Internet Relay Chat
 
-*See also: [Internet Relay Chat](/wiki/Internet_Relay_Chat)*
+*See also: [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)*
 
 - [chat4osu!](https://osu.ppy.sh/community/forums/topics/879262)—A chat client for referees and casual chatters.
   - [Gitlab](https://gitlab.com/hallowatcher/chat4osu)

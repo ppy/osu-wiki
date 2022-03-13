@@ -8,7 +8,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
@@ -72,6 +72,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
   - would be unreasonable to play with full accuracy.
   - would be effectively represented with a consistent, predictable snap.
   - would cause an inappropriate difficulty spike.
+- **Long notes should be held for at least 1/12 of a beat.** Faster release timings are unreasonable to play with full accuracy.
 - **Avoid using storyboard sampled hitsounds with similar volume to hitsounds on notes.** As storyboarded hitsounds can overwhelm and distort audio feedback from objects in the beatmap, placing hitsounds on a note in the chart should be prioritised. However, storyboarded samples may be used when keysounds are extracted directly from a song and when low difficulties have too few notes to support necessary hitsounds.
 - **Do not use keysounds without hitnormal support.** If hitsounds blend perfectly with the song, feedback for hitting notes is minimal. However, when keysounds extracted directly from a song are used as a replacement for a song's audio, they do not need hitnormal support.
 - **Avoid using the same hitsound for multiple notes in a chord.** This causes feedback to be louder than necessary. This also applies to active hitsounds and storyboard hitsounds used at the same timestamp.

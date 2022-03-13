@@ -19,5 +19,6 @@ Ein normaler Artikel, mit einem ähnlichen Titel, muss die Kopfnote ["Für ander
 - [Ouendan](Ouendan)
 - [Rank](Rank)
 - [Score](Score)
+- [Snapping](Snapping)
 - [Star](Star)
 - [Version](Version)

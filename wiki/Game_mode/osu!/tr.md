@@ -103,7 +103,7 @@ Eğer [Auto Pilot](/wiki/Game_modifier/Autopilot) modu kullanılıyorsa, sadece 
 
 ## Puanlama
 
-*Puanlama değerlerine [osu! puanlama sistemi](/wiki/Score/osu!) makalesinden ulaşabilirsiniz.*
+*Puanlama değerlerine [osu! puanlama sistemi](/wiki/Gameplay/Score/osu!) makalesinden ulaşabilirsiniz.*
 
 Puanlama bölümü, matematiksel formül dahil olmak üzere puanlamanın tüm inceliklerini ayrıntılarıyla anlatır.
 
@@ -159,7 +159,7 @@ Ek olarak spinner ölçer dolduktan sonra her bir dönüş için 1,000 puan kaza
 
 #### Zorluk çarpanı nasıl hesaplanır
 
-[Daire Boyutu (CS)](/wiki/Beatmap_Editor/Song_Setup), [HP Tüketimi (HP)](/wiki/Beatmap_Editor/Song_Setup) ve [Genel Zorluk (OD)](/wiki/Beatmap_Editor/Song_Setup), *zorluk puanına* bir tık ekler.
+[Daire Boyutu (CS)](/wiki/Client/Beatmap_editor/Song_Setup), [HP Tüketimi (HP)](/wiki/Client/Beatmap_editor/Song_Setup) ve [Genel Zorluk (OD)](/wiki/Client/Beatmap_editor/Song_Setup), *zorluk puanına* bir tık ekler.
 
 Biriken *zorluk puanları*, **Zorluk çarpanını** şu şekilde etkiler:
 
@@ -275,7 +275,7 @@ Can tüketimi ve can kazanımını hesaplamak için kullanılan sistem karmaşı
 ### Tarihçe
 
 - osu!'nun eski versiyonu, değiştirilmeden veya kaldırılmadan önce *Ouendan* serisindeki bazı özellikleri taklit ederdi.
-  - Yeni kombo eşiklerine ulaşıldığında [kombo alevinin](/wiki/Glossary/Combo_fire) çıkması.
+  - Yeni kombo eşiklerine ulaşıldığında [kombo alevinin](/wiki/Gameplay/Combo_fire) çıkması.
   - Adı *osu!default by peppy* olan, v1 tema özelliklerini kullanan varsayılan temanın ilk versiyonu *Ouendan* arayüzünün neredeyse birebir kopyasını içerirdi.
     - v2 tema özelliklerini kullanan daha güzel bir varsayılan tema ile değiştirildi.
   - v1 ve v2 temaları arasındaki en önemli davranış farkı, spinnerdır.

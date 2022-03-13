@@ -8,7 +8,7 @@ The spookiest month of the year is upon us and Project Loved brings back the bes
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-To those who need a quick refresher, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the Loved Captains of their respective game modes. Each banner in the news post will redirect you to the respective beatmap's poll, or you can view them all directly on the Project Loved forum [here](https://osu.ppy.sh/community/forums/120). The voting process only lasts for 10 days, so remember to cast your votes! You can read more about this project on the [wiki page](/wiki/Project_Loved)!
+To those who need a quick refresher, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the Loved Captains of their respective game modes. Each banner in the news post will redirect you to the respective beatmap's poll, or you can view them all directly on the Project Loved forum [here](https://osu.ppy.sh/community/forums/120). The voting process only lasts for 10 days, so remember to cast your votes! You can read more about this project on the [wiki page](/wiki/Community/Project_Loved)!
 
 As usual, we would like to thank everyone for your participation in the September votes. We hope you enjoyed the massive 4-year celebratory round and are having fun with the new maps added to the Loved category! If you would like to view the results from the previous round, you may do so by clicking the following links:
 

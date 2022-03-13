@@ -2,7 +2,7 @@
 
 ![](img/AiMod-FR.png "La fenêtre AiMod liste les avertissements et les erreurs concernant une beatmap.")
 
-**AiMod** est un outil intégré à l'[éditeur de beatmap](/wiki/Beatmap_Editor) qui détecte les problèmes dans une [beatmap](/wiki/Beatmap). Il peut être ouvert via l'option de menu `Fichier` > `Ouvrir AiMod` ou les [raccourcis clavier](/wiki/Shortcut_key_reference) `Ctrl` + `Shift` + `A`.
+**AiMod** est un outil intégré à l'[éditeur de beatmap](/wiki/Client/Beatmap_editor) qui détecte les problèmes dans une [beatmap](/wiki/Beatmap). Il peut être ouvert via l'option de menu `Fichier` > `Ouvrir AiMod` ou les [raccourcis clavier](/wiki/Client/Keyboard_shortcuts) `Ctrl` + `Shift` + `A`.
 
 Si AiMod peut être utile pour détecter les problèmes de base d'une carte, il ne remplace pas le [modding](/wiki/Modding) réalisé par de vraies personnes. AiMod ne peut pas évaluer la qualité d'une carte ou détecter des problèmes complexes tels qu'un mauvais [patterning](/wiki/Beatmap/Pattern) ou [timing](/wiki/Guides/How_to_Time_Songs). Lorsque vous [créez une beatmap](/wiki/Beatmapping), il est recommandé de corriger d'abord les avertissements d'AiMod, puis de demander l'aide d'autres [moddeurs](/wiki/Modding/Modder).
 
@@ -95,7 +95,7 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 | Message | Explication | Solution |
 | :-- | :-- | :-- |
 | L'image d'arrière-plan est plus grande que 2560x1440. | *Auto-explicatif* | Redimensionnez ou remplacez l'image de fond. |
-| Cette map doit faire l'objet d'une mise en garde contre l'épilepsie, car elle contient des storyboards qui bouge fréquemment. | Les éléments du storyboard changent très rapidement. | Activez l'option `Afficher l'avertissement d'épilepsie (le storyboard a un stroboscope rapide)` dans l'onglet Design du menu [song setup](/wiki/Beatmap_Editor/Song_Setup). |
+| Cette map doit faire l'objet d'une mise en garde contre l'épilepsie, car elle contient des storyboards qui bouge fréquemment. | Les éléments du storyboard changent très rapidement. | Activez l'option `Afficher l'avertissement d'épilepsie (le storyboard a un stroboscope rapide)` dans l'onglet Design du menu [song setup](/wiki/Client/Beatmap_editor/Song_Setup). |
 | <!-- Not sure how to test this one -->Les dimensions de {0} doivent être {1}x{1}. |  |  |
 | Les dimensions de votre vidéo ne doivent pas dépasser 1024x768 pour le format 4:3. | *Auto-explicatif* | Redimensionnez ou remplacez la vidéo de fond. |
 | Les dimensions de votre vidéo ne doivent pas dépasser 1280x720 pour le format 16:9. | *Auto-explicatif* | Redimensionnez ou remplacez la vidéo de fond. |
@@ -169,7 +169,7 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 <!-- TODO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
 
 - **AiMod ne peut pas détecter un grand nombre de problèmes** qui sont considérés comme non classables par les [critères de classement](/wiki/Ranking_Criteria), tels que les objets potentiellement mal rythmés, les hitsounds retardés, les fichiers d'arrière-plan de plus de 2,5 Mo, etc.
-- **AiMod peut vous avertir de l'absence de problèmes**, comme le fait que les mapsets nécessite deux difficultés du mode osu! sur une map [marathon](/wiki/Beatmap/Marathon) et que l'option [kiai time](/wiki/Kiai_time) soit activée pendant moins de 15 secondes.
+- **AiMod peut vous avertir de l'absence de problèmes**, comme le fait que les mapsets nécessite deux difficultés du mode osu! sur une map [marathon](/wiki/Beatmap/Marathon) et que l'option [kiai time](/wiki/Gameplay/Kiai_time) soit activée pendant moins de 15 secondes.
 - **Si `Check distance snap` est activé, AiMod ne vérifiera pas la distance snap entre les combos.**
 - **S'il y a plusieurs fichiers MP3 dans le dossier beatmap, AiMod peut vous avertir de la présence de plusieurs fichiers**, Toutefois, les fichiers MP3 peuvent également être utilisés pour des effets sonores tels que des applaudissements.
 
