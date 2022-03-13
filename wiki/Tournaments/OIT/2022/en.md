@@ -231,6 +231,39 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ## Match results
 
+### Quarterfinals
+
+Friday, 11 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[D E L O N](https://osu.ppy.sh/users/11983229)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/98616981) |
+| Lower | **[Venta](https://osu.ppy.sh/users/11320627)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/98618243) |
+| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [MineFrostID](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/98618247) |
+| Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Egao](https://osu.ppy.sh/users/12419257) | [#1](https://osu.ppy.sh/community/matches/98618239) |
+| Lower | **[BlankTap](https://osu.ppy.sh/users/10137131)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Naikaze](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/98621818) |
+| Upper | [deeto](https://osu.ppy.sh/users/10069909) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/98656251) |
+
+Saturday, 12 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Herbayse](https://osu.ppy.sh/users/4924094)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [Takagi-chan](https://osu.ppy.sh/users/11379592) | [#1](https://osu.ppy.sh/community/matches/98651724) |
+| Lower | **[StayMusical](https://osu.ppy.sh/users/12688176)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/98649380) |
+| Lower | [cfood](https://osu.ppy.sh/users/8626190) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | [#1](https://osu.ppy.sh/community/matches/98654038) |
+| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/98656061) |
+| Lower | **[-Kiichirou-](https://osu.ppy.sh/users/5791467)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/98661088) |
+
+Monday, 13 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Venta](https://osu.ppy.sh/users/11320627)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [StayMusical](https://osu.ppy.sh/users/12688176) | [#1](https://osu.ppy.sh/community/matches/98696946) |
+| Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Herbayse](https://osu.ppy.sh/users/4924094) | [#1](https://osu.ppy.sh/community/matches/98696938) |
+| Lower | **[D E L O N](https://osu.ppy.sh/users/11983229)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/98700817) |
+| Lower | **[Daffy](https://osu.ppy.sh/users/5968633)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467) | [#1](https://osu.ppy.sh/community/matches/98701565) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [rHO](https://osu.ppy.sh/users/1629553) | [#1](https://osu.ppy.sh/community/matches/98703486) |
+
 ### Round of 16
 
 Friday, 4 March 2022:
