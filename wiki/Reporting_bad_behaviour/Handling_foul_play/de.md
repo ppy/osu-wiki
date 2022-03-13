@@ -66,7 +66,7 @@ Deine Hilfe beim Aufspüren von Verstößen wird gerne angenommen. Wir bewerten 
 
 ## Wird die Benutzung von spezieller Hardware als Schummelei betrachtet?
 
-Peripheriegeräte wie Tablets und Touchscreens sind okay. Alles, was die benötigten Fähigkeiten zum Spielen herabsenkt (z. B. das Benutzen von Fidget Spinner auf einem Tablet) oder den Effekt der Spielmodifikatoren zu Nichte macht, sind es nicht. D. h., dass Benutzen mehrerer Computer, Eingangssplitter oder anderes in der Art wird als Tabu betrachtet.
+Peripheriegeräte wie Tablets und Touchscreens sind okay. Alles, was die benötigten Fähigkeiten zum Spielen herabsenkt (z. B. das Benutzen von Fidget Spinner auf einem Tablet) oder den Effekt der Spielmodifikationen zu Nichte macht, sind es nicht. D. h., dass die Benutzung mehrerer Computer, Eingangssplitter oder anderes in der Art als Tabu betrachtet wird.
 
 ## Wie kann ich Beschwerde gegen meine Einschränkung einlegen?
 
