@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 17ba49c633b089fe88acb7d5d32ac0460e5d65fe
----
-
 # Ranking criteria osu!mania
 
 **Ranking Criteria osu!mania** merupakan peraturan dan pedoman yang berlaku untuk pembuatan tingkat kesulitan spesifik osu!mania. Untuk dapat membuat tingkat kesulitan spesifik osu!mania diwajibkan mematuhi kriteria yang tercantum. Meskipun **semua aturan wajib diikuti dalam keadaan apa pun**, namun pedoman dapat diabaikan dalam kasus tertentu. Kasus tertentu ini harus dapat dibenarkan dengan penjelasan yang lengkap tentang mengapa pedoman tersebut diabaikan dan alasan mengapa tidak mengabaikannya akan mengganggu kualitas keseluruhan pembuatan.
