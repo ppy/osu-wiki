@@ -32,11 +32,11 @@ tags:
 
 | Место | Призы |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "Первое место") | 18 месяцев osu!supporter или 3000₽, уникальный бейдж в профиль |
-| ![Silver crown](/wiki/shared/crown-silver.png "Второе место") | 12 месяцев osu!supporter или 2000₽ |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "Третье место") | 4 месяца osu!supporter или 1000₽ |
+| ![Gold crown](/wiki/shared/crown-gold.png "Первое место") | 18 месяцев osu!supporter, уникальный бейдж в профиль |
+| ![Silver crown](/wiki/shared/crown-silver.png "Второе место") | 12 месяцев osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "Третье место") | 4 месяца osu!supporter |
 
-![](img/badge.jpg "COT 2022 winner badge")
+![](img/badge.jpg "Бейдж победителя COT 2022")
 
 ## Организация
 

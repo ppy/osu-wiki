@@ -29,9 +29,9 @@ The **osu!catch CIS Open Tournament 2022** (***COT 2022***) was a double-elimina
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 18 months of osu!supporter or 3000₽, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 12 months of osu!supporter or 2000₽ |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 month of osu!supporter or 1000₽ |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 18 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 12 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 month of osu!supporter |
 
 ![](img/badge.jpg "COT 2022 winner badge")
 
