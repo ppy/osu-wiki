@@ -1,7 +1,7 @@
 # Formatierung
 
 *Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*\
-*Hinweis: Der Artikel benutzt [RFC 2119](https://tools.ietf.org/html/rfc2119), um die Anforderungslevel zu beschreiben.*
+*Hinweis: Dieser Artikel benutzt [RFC 2119](https://tools.ietf.org/html/rfc2119), um die Anforderungslevel zu beschreiben.*
 
 **Aufgepasst**: Dieser Artikel hat nur eine eingeschränkte Wichtigkeit für Übersetzungen in die deutsche Sprache. Er ist hauptsächlich für die Erstellung englischer Artikel gedacht.
 
