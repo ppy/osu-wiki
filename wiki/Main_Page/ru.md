@@ -102,16 +102,16 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Проекты](/wiki/Community/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+Организаторы: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Люди
+# [Люди](/wiki/People)
 
 osu! бы не было без многих людей, участвующих в разработке, поддержке и управлении сообществом: игра живёт и процветает благодаря их усилиям, личному времени и вовлечённости.
 
 [Команда osu!](/wiki/People/The_Team): [Разработчики](/wiki/People/The_Team/Developers) • [Команда глобальной модерации](/wiki/People/The_Team/Global_Moderation_Team) • [Команда поддержки](/wiki/People/The_Team/Support_Team) • [Команда оценки номинаций](/wiki/People/The_Team/Nomination_Assessment_Team) • [Номинаторы карт](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Команда проекта Loved](/wiki/People/The_Team/Project_Loved_Team)
-
-Организаторы: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles)
 

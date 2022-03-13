@@ -1,9 +1,3 @@
----
-outdated: true
-outdated_since: 8dff6615e53eaa5370c5a9078b365f55f65dccc1
-no_native_review: true
----
-
 # 모범 사례
 
 이 페이지에서는 위키에 기여하는 동안 직면할 수 있는 몇가지 것들에 대해 설명합니다. 여기에 언급된 내용은 작업을 더 쉽게 만들기 위해 작성되었으며, GitHub 또는 유사한 플랫폼에서 호스팅되는 프로젝트에 적용할수도 있습니다.
@@ -73,6 +67,18 @@ Pull Request는 수정한 내용이 파일에 어떠한 식으로 적용되는�
   - The pull request's completeness, or ideas related to it
   - [Automatic resolution of relevant issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 - `Allow edits from maintainers` 항목이 체크되어 있는지 확인하세요. 위키 관리자가 Pull Request를 개선하는데 도움을 줄 수 있습니다.
+
+## 리뷰 적용하기
+
+리뷰는 GitHub 웹 인터페이스를 통해 직접 적용하는 것이 가장 좋습니다. 여러 리뷰를 동시에 적용하려면 `File changed` 탭에서 `Add suggestion to batch`를 클릭하세요.
+
+![Applying a batch review](img/applying-batch-review.gif)
+
+또한 `Commit suggestion` 버튼을 이용하여 각각의 제안을 [정보 메시지와 함께](#수정하기) 개별적으로 적용할 수 있습니다.
+
+![Applying a single review](img/applying-single-review.gif)
+
+이 기능을 사용하면 제안이 자동적으로 해결된 것으로 처리됩니다. 리뷰를 수동으로 적용하려 할 때 (예: 리뷰어가 제안을 따로 하지 않았을 경우), *변경 사항을 커밋 한 후* Mark as resolved로 표시해 잊어버리지 않도록 합니다. GitHub에서 자동으로 리뷰를 적용한다면 제안이 그대로 적용되고 수동 복사 오류를 방지할 수 있으므로 이 방법을 선호해 주세요.
 
 ## 충돌 해결
 
