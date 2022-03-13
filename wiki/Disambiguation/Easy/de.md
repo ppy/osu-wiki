@@ -2,7 +2,7 @@
 
 **Easy** kann Folgendes bedeuten:
 
-- Der [Spielmodifikator](/wiki/Game_modifier/Easy).
+- Die [Spielmodifikation](/wiki/Game_modifier/Easy).
 - Die Schwierigkeit einer Beatmap:
   - ![](/wiki/shared/diff/easy-o.png?20211215) Easy in osu!.
   - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan in osu!taiko.
