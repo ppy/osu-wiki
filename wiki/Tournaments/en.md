@@ -518,6 +518,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Cup Master 3: osu!catch edition](OCM/3) | 2019-12-14 | 2020-03-15 | Acelga | idk lol | KRNS |
 
+#### osu!catch CIS Open Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!catch CIS Open Tournament 2022](COT/2022) | 2022-01-29 | 2022-03-12 | ![][flag_RU] [Memoriola](https://osu.ppy.sh/users/6856387) | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384) |
+
 #### osu!catch Convert Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
