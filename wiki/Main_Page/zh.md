@@ -116,7 +116,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 </div>
 <div class="wiki-main-page-panel">
 
-# 开发者
+# 开发
 
 通过其他应用与 osu! 交互。
 
