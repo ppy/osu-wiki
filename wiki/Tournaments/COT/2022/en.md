@@ -9,7 +9,7 @@ tags:
 
 ![COT 2021 banner](img/banner.png)
 
-The **osu!catch CIS Open Tournament 2022** (***COT 2022***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) and ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). The tournament is open to all players from the Commonwealth of Independent States and Baltic states. It is the second iteration of the osu!catch CIS Open Tournament series.
+The **osu!catch CIS Open Tournament 2022** (***COT 2022***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) and ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). The tournament was open to all players from the Commonwealth of Independent States and Baltic states. It was the second iteration of the osu!catch CIS Open Tournament series.
 
 ## Tournament schedule
 
@@ -23,19 +23,21 @@ The **osu!catch CIS Open Tournament 2022** (***COT 2022***) is a double-eliminat
 | Quarterfinals | 2022-02-19/2022-02-20 |
 | Semifinals | 2022-02-26/2022-02-27 |
 | Finals | 2022-03-05/2022-03-06 |
-| Grand Finals | 2022-03-12/2022-03-13 |
+| Grand Finals | 2022-03-11/2022-03-12 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 18 months of osu!supporter or 3000₽, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 12 months of osu!supporter or 2000₽ |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 month of osu!supporter or 1000₽ |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 18 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 12 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 month of osu!supporter |
+
+![](img/badge.jpg "COT 2022 winner badge")
 
 ## Organisation
 
-COT 2022 is run by various osu! community members mostly hailing from the Commonwealth of Independent States.
+COT 2022 was run by various osu! community members mostly hailing from the Commonwealth of Independent States.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -43,7 +45,7 @@ COT 2022 is run by various osu! community members mostly hailing from the Common
 | Mappool selector | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [Xetopia](https://osu.ppy.sh/users/6689101), ![][flag_RU] [Rebbel](https://osu.ppy.sh/users/4595355), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_CL] [Pekorrat](https://osu.ppy.sh/users/1250096) |
 | Streamer | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
 | Commentator | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
-| Referee | ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267), ![][flag_RU] [MRX](https://osu.ppy.sh/users/10954753) |
+| Referee | ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267), ![][flag_RU] [MRX](https://osu.ppy.sh/users/10954753), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
 | Designer | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
 | Spreadsheet manager | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) |
 | Wiki editor | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
@@ -65,7 +67,46 @@ COT 2022 is run by various osu! community members mostly hailing from the Common
 
 See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS_Sx4MyWdGOYD9raofZ46uomMbVW6wm48/edit#gid=749874175) for a list of all initial participants.
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_RU] [Memoriola](https://osu.ppy.sh/users/6856387) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384) |
+
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (147 MB)](https://drive.google.com/file/d/1HDEPQ-ytf2fCF_u-gzf7L0nlBIi0TO9b/view)**
+
+- NoMod
+  1. [BlackY - ULT!MATE END (Deif) \[Team Various Countries 3's Overdose\]](https://osu.ppy.sh/beatmapsets/1618360#fruits/3304140)
+  2. [Juggernaut. - Revenant (Jemzuu) \[RETALIATION.\]](https://osu.ppy.sh/beatmapsets/1457736#fruits/2995853)
+  3. [BEMANI Sound Team "Nekomata Master" - The last of world music (Yumeno Himiko) \[Reconstruction of the world\]](https://osu.ppy.sh/beatmapsets/1031577#fruits/2157114)
+  4. [Niji no Conquistador - Zutto Summer de Koishiteru (Sotarks) \[Summer Love\]](https://osu.ppy.sh/beatmapsets/1263383#fruits/2625911)
+  5. [Krewella x Diskord - Beggars (Consouls Remix) (NeilPerry) \[Neil x Ameth's Conflux\]](https://osu.ppy.sh/beatmapsets/881753#fruits/1843575)
+  6. [Neuromonakh Feofan - Remeslo (Ksardas) \[Rampage\]](https://osu.ppy.sh/beatmapsets/905674#fruits/1890216)
+- Hidden
+  1. [Yuuyu - Scrap Syndrome (Jemzuu) \[Fragment\]](https://osu.ppy.sh/beatmapsets/1659458#fruits/3387605)
+  2. [Cranky - Libera me (-Hex-) \[Humanity\]](https://osu.ppy.sh/beatmapsets/1488787#fruits/3051985)
+  3. [Laur - Metamorphose (verychill) \[Yokes' Expert\]](https://osu.ppy.sh/beatmapsets/1238413#fruits/2639428)
+  4. [Gesu no Kiwami Otome. - Digital Mogura (dsco) \[Idealist\]](https://osu.ppy.sh/beatmapsets/737340#fruits/1556011)
+- HardRock
+  1. [monet - Kagami no Sekai ni wa Watashi shika Inai -another version- (Terton) \[Terton & M0RU's Overdose\]](https://osu.ppy.sh/beatmapsets/1713726#fruits/3501791)
+  2. [Tatsh - reunion (GIGACHAD) \[Endless Journey\]](https://osu.ppy.sh/beatmapsets/1457145#fruits/3133717)
+  3. [Dreamcatcher - Chase Me (Natsu) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/586144#fruits/1289675)
+  4. [lapix - Nothing but Theory (azr8) \[ultra jazzfunktion\]](https://osu.ppy.sh/beatmapsets/914146#fruits/1924570)
+- DoubleTime
+  1. [ShinRa-Bansho - Junjou Armeria (Jemzuu) \[Specuu's Rain\]](https://osu.ppy.sh/beatmapsets/1220848#fruits/2545171)
+  2. [Crystal Castles - Vietnam (Lacrima) \[Flashback\]](https://osu.ppy.sh/beatmapsets/1151357#fruits/2403325)
+  3. [BAND-MAID - Spirit!! (Lasse) \[Expert!!\]](https://osu.ppy.sh/beatmapsets/1306578#fruits/2709014)
+  4. [USAO - Chariot (Extended Mix) (Realazy) \[lebronJAM\]](https://osu.ppy.sh/beatmapsets/1633242#fruits/3333734)
+- Tiebreaker
+  1. **[Camellia - Stealth-Dash (Rocma) \[Final Dash\]](https://osu.ppy.sh/beatmapsets/1115790#fruits/2330971)**
 
 ### Finals
 
@@ -107,7 +148,7 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
   4. [EiK feat. Raimu - a wonderful days -rebirth- (ponbot) \[Jabberwocky\]](https://osu.ppy.sh/beatmapsets/1430653#fruits/2945039)
   5. [Getty vs. DJ DiA - Engage-Rex- (Realazy) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/1336197#fruits/2768157)
 - Hidden
-  1. [succducc - me & u [(Spectator) \[zyzyx's overdose\]](https://osu.ppy.sh/beatmapsets/1281611#fruits/2662018)
+  1. [succducc - me & u (Spectator) \[zyzyx's overdose\]](https://osu.ppy.sh/beatmapsets/1281611#fruits/2662018)
   2. [TWICE - Baby Blue Love (Xetopia) \[Xetopia's Rain\]](https://osu.ppy.sh/beatmapsets/1704251#fruits/3482376)
   3. [onoken - F-mine (Cheri) \[Expert\]](https://osu.ppy.sh/beatmapsets/1073054#fruits/2245707)
 - HardRock
@@ -206,6 +247,36 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
   2. [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#fruits/1624401)
 
 ## Match Results
+
+### Grand Finals
+
+Friday, 11 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [KitsunIvy](https://osu.ppy.sh/users/7055384) ![][flag_RU] | 2 | **7** | ![][flag_RU] **[Nelly](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/98623588) |
+
+Saturday, 12 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Finals | **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **7** | 3 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98655352) |
+
+### Finals
+
+Saturday, 5 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [FruktoLove](https://osu.ppy.sh/users/8417087) ![][flag_UA] | 0 | **6** | ![][flag_RU] **[Kenny331](https://osu.ppy.sh/users/11534285)** | *win by default* |
+| Upper | **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **6** | 5 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98431626) |
+| Lower | **[KitsunIvy](https://osu.ppy.sh/users/7055384)** ![][flag_RU] | **6** | 0 | ![][flag_RU] [cosilgam](https://osu.ppy.sh/users/15960747) | [#1](https://osu.ppy.sh/community/matches/98434650) |
+
+Sunday, 6 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Kenny331](https://osu.ppy.sh/users/11534285) ![][flag_RU] | 5 | **6** | ![][flag_RU] **[KitsunIvy](https://osu.ppy.sh/users/7055384)** | [#1](https://osu.ppy.sh/community/matches/98471760) |
 
 ### Semifinals
 

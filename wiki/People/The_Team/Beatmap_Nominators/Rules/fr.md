@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 904eb67084cd5fe736008ae93bfa4033dfa11b49
----
-
 # Règles pour les Beatmap Nominators
 
 Les règles énumérées ici concernent ce que les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) peuvent et ne peuvent pas faire lorsqu'ils nominent des beatmaps et donnent le ton de la conduite générale attendue de ces utilisateurs. Ces règles sont le résultat d'une discussion au sein de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) et ont pris en compte les commentaires des Beatmap Nominators lors de leur proposition.
@@ -23,8 +18,11 @@ Un comportement durable en contradiction avec ces attentes est un motif d'exclus
 
 ## Activité
 
-- **Les exigences d'activité pour votre ou vos modes de jeu respectifs doivent être remplies.** L'activité moyenne des 3 derniers mois sera vérifiée le premier jour de chaque mois et lors des évaluations régulières des BN, en tenant compte des congés communiqués. Tout BN qui se situe en dessous de la moyenne requise par son mode recevra un avertissement d'activité.
-- **Lorsque vous êtes averti pour votre activité, les exigences minimales d'activité pour votre ou vos modes de jeu respectifs doivent être remplies au cours d'un mois.** Le fait de ne pas respecter le minimum requis alors que l'on a déjà reçu un avertissement à ce sujet peut entraîner l'exclusion des Beatmap Nominators.
+- **Les exigences en matière d'activité pour votre ou vos modes de jeu respectifs doivent être remplies.** L'activité des 90 derniers jours sera vérifiée le premier jour de chaque mois et lors des évaluations régulières des BN, en tenant compte des congés communiqués.
+  - **Le fait de passer sous la barre des 60 jours de nominations sur une période de 90 jours entraînera une exclusion lors du contrôle de l'activité.** Par exemple, une BN d'osu! avec moins de 6 nominations sur une période de 90 jours sera exclu.
+  - **Le fait de passer sous la barre des 90 jours avec plus de 60 jours de nominations entraînera un avertissement d'activité.** 
+  - Lorsque vous êtes averti pour votre activité, les exigences minimales d'activité pour votre ou vos modes de jeu respectifs doivent être remplies au cours d'un mois.
+  - Le fait de ne pas respecter le minimum requis alors que l'on a déjà reçu un avertissement à ce sujet peut entraîner l'exclusion des Beatmap Nominators.
 - **Vous ne pouvez pas dépasser 75 nominations uniques sur une période de 90 jours.** Ceux qui dépassent ce montant seront d'abord avertis, puis exclus s'ils ne gèrent pas leur activité en conséquence.
 
 ### Exigences
