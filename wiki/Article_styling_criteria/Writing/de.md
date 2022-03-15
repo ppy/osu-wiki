@@ -263,7 +263,7 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 | `beatmap difficulty` | `Schwierigkeitsgrad/-stufe der Beatmap` |
 | `beatmap category` | `Beatmap-Kategorie` |
 | `playcount` | `Spielanzahl` |
-| `ranked`| `ranked` oder `gerankt` |
+| `ranked` | `ranked` oder `gerankt` |
 | `qualified` | `qualified` oder `qualifiziert` |
 | `loved` | `loved` oder `geliebt` |
 | `approved` | `approved` oder `bestätigt` |
