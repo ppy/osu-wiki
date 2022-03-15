@@ -247,6 +247,81 @@ Diese Worte müssen wie folgt verwendet werden (der Abstand muss übereinstimmen
 - `FreeMods`, `FreeMod` oder `FM`
 - `Tiebreaker`
 
+### Übersetzungen für häufige Begriffe
+
+Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übersetzungen auf. Beim Übersetzen von Artikeln sollte darauf geachtet werden, möglichst die hier aufgelisteten Übersetzungen zu verwenden. Ausnahmen können gemacht werden, wenn die ursprüngliche Bedeutung durch die Übersetzung verloren geht.
+
+#### Gameplay
+
+| Englisch | Deutsch |
+| :-: | :-- |
+| `game modifier (mod)` | `Spielmodifikation (Mod)` |
+| `gameplay` | `Spielverlauf` |
+| `multiplier` | `Multiplikator` |
+| `pass rate` | `Erfolgsquote` |
+| `Combo` | `Combo` |
+| `beatmap difficulty` | `Schwierigkeitsgrad/-stufe der Beatmap` |
+| `beatmap category` | `Beatmap-Kategorie` |
+| `playcount` | `Spielanzahl` |
+| `ranked`| `ranked` oder `gerankt` |
+| `qualified` | `qualified` oder `qualifiziert` |
+| `loved` | `loved` oder `geliebt` |
+| `approved` | `approved` oder `bestätigt` |
+| `overall difficulty` | `Allgemeine Schwierigkeit` |
+| `medal` | `Achievement` oder `Medaille` |
+
+#### Spielelemente
+
+| Englisch | Deutsch |
+| :-: | :-- |
+| `fruits` | `Früchte` |
+| `juice stream` | `Juice-Stream` |
+| `hold notes` | `Hold-Notes` |
+| `hit object` | `Hit-Objekt` |
+
+#### Benutzeroberfläche
+
+| Englisch | Deutsch |
+| :-: | :-- |
+| `release stream` | `Updatequelle` |
+| `song select` | `Songauswahl` |
+| `button` | `Button/Schaltfläche` |
+| `result screen` | `Ergebnisanzeige (oder -bildschirm)` |
+| `collection` | `Sammlung` |
+| `beatmap carousel` | `Beatmap-Karussell` |
+| `offset wizard` | `Offset-Assistent` |
+| `play area` (Tablet) | `Bereich zum Spielen` |
+| `keyboard shortcuts` | `Tastenkürzel` |
+| `keyboard bindings` | `Tastenbelegung` |
+
+#### Webseite
+
+| Englisch | Deutsch |
+| :-: | :-- |
+| `beatmap listing` | `Beatmap-Auflistung` |
+| `forum post` | `Forumsbeitrag` |
+| `help centre` | `Hilfecenter` |
+| `Modding` | `Modding` (Verb lautet `gemoddet`) |
+| `tournaments` | `Turnier` |
+| `contest` | `Wettbewerb` |
+| `contribution guide` | `Beitragsleitfaden` |
+
+#### Menschen
+
+| Englisch | Deutsch |
+| :-: | :-- |
+| `account support team` | `Account-Support-Team` |
+| `support team` | `Support-Team` |
+| `osu! staff` | `osu!-Belegschaft` |
+
+#### Regeln
+
+| Englisch | Deutsch |
+| :-: | :-- |
+| `silence` | `Stummschaltung` oder `Silence` (Verb lautet `stummgeschaltet`) |
+| `restriction` | `Einschränkung` |
+| `ban` | `Sperrung` |
+
 ## Abkürzungen, Akronyme und Initialen
 
 Abkürzungen, Akronyme und Initialen müssen bei ihrem ersten Auftreten vollständig ausgeschrieben werden. Nachfolgende Vorkommen sind optional, aber werden nur ausgeschrieben, sofern erforderlich. Das Folgende ist ein Beispiel:
