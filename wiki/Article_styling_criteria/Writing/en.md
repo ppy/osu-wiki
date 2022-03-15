@@ -5,6 +5,18 @@
 
 All English articles must use plain English.
 
+## Content parity
+
+Translations are subject to strict content parity with their English article, in the sense that they must have the same message, regardless of grammar and syntax. Any changes to the translations' meanings must be accompanied by equivalent changes to the English article.
+
+There are some cases where the content is allowed to differ:
+
+- Articles originally written in a language other than English (in this case, English should act as the translation)
+- Translations and explanations of English words that are common terms in the osu! community
+- External links
+- Tags
+- Information specific to a subcommunity or a certain language (such as [Article styling criteria/Writing](/wiki/Article_styling_criteria/Writing))
+
 ## Language register
 
 There are two language registers on the wiki: neutral and informal.
