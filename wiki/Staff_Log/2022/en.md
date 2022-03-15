@@ -93,7 +93,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-02-21: Removed [Eyenine](https://osu.ppy.sh/users/1259391) from **BN**
 - 2022-02-23: Removed [Mir](https://osu.ppy.sh/users/8688812) from **BN**
 - 2022-02-27: Removed [ikin5050](https://osu.ppy.sh/users/4007649) from **BN**
-- 2022-02-28; Removed [Mirea](https://osu.ppy.sh/users/8404646) from **BN**
+- 2022-02-28: Removed [Mirea](https://osu.ppy.sh/users/8404646) from **BN**
 
 ## March
 
