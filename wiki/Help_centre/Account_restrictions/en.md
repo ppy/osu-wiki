@@ -92,7 +92,7 @@ In most cases, each restriction on your account doubles the length of the next r
 
 For example, if you are restricted for cheating, return on appeal, then cheat again, you will be restricted for a minimum of 12 months (double the six months base) before we will review any kind of appeal from you. If you return after this and cheat once again, you will be restricted for a minimum of 24 months.
 
-As an additional note, it becomes progressively harder to return on any kind of appeal after your first offense, as we must consider your past actions and whether unrestricting you at all. Very few (if any) players successfully return to the community after their third restriction.
+As an additional note, it becomes progressively harder to return on any kind of appeal after your first offense, as we must consider your past actions and whether unrestricting you at all is worth the time and risk involved. Very few (if any) players successfully return to the community after their third restriction.
 
 ## My emails are being ignored / I don't think my appeal was handled fairly
 
