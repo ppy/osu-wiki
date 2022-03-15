@@ -4,7 +4,7 @@
 
 Dieser Artikel betrifft die Schriftstandards für Deutsch. Verweise auf die englische Version dieser Seite für die Schriftstandards für englische Artikel.
 
-Alle englischen Artikel müssen einfaches Englisch verwenden.
+Alle deutschen Artikel müssen Standarddeutsch verwenden.
 
 ### Inhaltsparität
 
@@ -28,24 +28,7 @@ Das informelle Register wird speziell für eine kleine Handvoll von Artikeln ben
 
 Alle Regeln der Artikelgestaltungskriterien müssen für beide Register befolgt werden. Ausnahmen für jedes Register werden dokumentiert.
 
-## Britisches Englisch
-
-Varianten aus der Rechtschreibung des britischen Englisch müssen verwendet werden, wenn es widersprüchliche Schreibformen von englischen Wörtern gibt. Nutze zum Beispiel:
-
-- `colour` anstatt von `color`
-- `centre` anstatt von `center`
-- `skilful` anstatt von `skillful`
-- `analyse` anstatt von `analyze`
-
 ## Großschreibung
-
-### Artikelnamen
-
-Artikelnamen dürfen nicht großgeschrieben werden, wenn sie in einem Paragrafen stehen, sofern es nicht ein Link ist, der zu dem Artikel zeigt oder es ein Eigenname ist (z. B. BanchoBot). Im Folgenden ein Beispiel:
-
-```markdown
-If you want to know more about chat, refer to [Chat Console](/wiki/Client/Interface/Chat_console).
-```
 
 ### Spielmodifikationen
 
@@ -88,22 +71,22 @@ Diese Spielmodifikationen werden nicht mehr von osu! verwendet. Aber sofern gebr
 
 ---
 
-Wenn Spielmodifikationen in Wettbewerbsartikeln genannt werden, dann müssen diese Binnenmajuskeln verwenden (entferne das Leerzeichen und behalte die Buchstabenform wie oben beschrieben).
+Wenn Spielmodifikationen in Turnierartikeln genannt werden, dann müssen diese Binnenmajuskeln verwenden (entferne das Leerzeichen und behalte die Buchstabenform bei wie oben beschrieben).
 
 ### Spielelemente
 
-Spielelemente dürfen nicht großgeschrieben werden, sofern sie nicht als ein Titel für einen Link dienen, der zu dem Artikel zeigt. Im Folgenden ein Beispiel:
+Spielelemente müssen großgeschrieben werden und enthalten einen Bindestrich, falls sie ein Leerzeichen beinhalten. Im Folgenden ein Beispiel:
 
 ```markdown
-In the osu! game mode, beatmaps are composed of three different gameplay elements: hit circles, sliders, and spinners.
+Im osu!-Spielmodus bestehen Beatmaps aus drei unterschiedlichen Spielelementen: Hit-Circles, Slider und Spinner.
 ```
 
 ### Sprachnamen
 
-Sprachnamen werden großgeschrieben. Das Folgende ist ein Beispiel:
+Sprachnamen werden großgeschrieben, außer sie deklarieren einen Channel im osu!-Chat. In diesem Fall sollte das englische Wort in Kleinschreibung verwendet werden. Das Folgende ist ein Beispiel:
 
 ```markdown
-The `#spanish` chat channel is for those who speak Spanish.
+Der Chat `#spanish` ist für alle, die Spanisch sprechen.
 ```
 
 ### Eigennamen
@@ -111,7 +94,7 @@ The `#spanish` chat channel is for those who speak Spanish.
 Eigennamen müssen großgeschrieben werden. Im Folgenden ein Beispiel:
 
 ```markdown
-Dean Herbert (also known as peppy) created osu! back in 2007.
+Dean Herbert (auch bekannt als peppy) erschuf osu! in 2007.
 ```
 
 ### Markenzeichen
@@ -136,7 +119,7 @@ Registered-Trade-Mark-Symbole dürfen nicht hinter der Marke stehen.
 
 ### Datumsformatierung
 
-Die Formate in [Wikipedia:Manual of Style/Dates and numbers § Formats](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats) sind alles akzeptierte Formate für Daten. Datenformate sollten konsistent innerhalb eines Artikels sein.
+Die Formate in [Wikipedia:Datumskonventionen](https://de.wikipedia.org/wiki/Wikipedia:Datumskonventionen) sind alles akzeptierte Formate für Daten. Datenformate sollten konsistent innerhalb eines Artikels sein.
 
 Das Datenformat `YYYY-MM-DD` sollte nur in Tabellen benutzt werden.
 
@@ -145,7 +128,7 @@ Das Datenformat `YYYY-MM-DD` sollte nur in Tabellen benutzt werden.
 Zeitformatierungen müssen im folgenden Format benutzt werden:
 
 ```markdown
-HH:MM TIMEZONE
+HH:MM ZEITZONE
 ```
 
 Zeit wird in einem 24-Stunden-Format notiert und alle einstelligen Werte müssen eine Null als Vorzeichen haben. Die Zeitzone befindet sich direkt nach der Zeit und sollte im Format UTC+0 für globale Ereignisse sein. Für kleinere Ereignisse ist es auch in Ordnung, die lokale Zeitzone zu verwenden. Benutze `UTC` anstatt `GMT`.
@@ -153,9 +136,9 @@ Zeit wird in einem 24-Stunden-Format notiert und alle einstelligen Werte müssen
 Schlechte Beispiele:
 
 ```markdown
-3:30 PM UTC
+3:30 UTC
 22:30 (UTC+7)
-11:30
+11
 ```
 
 Gute Beispiele:
@@ -175,14 +158,14 @@ Wenn Zeit- und Datenangaben gemeinsam verwendet werden, dann muss das Datum zuer
 Schlechte Beispiele:
 
 ```markdown
-October 25, 2016 at 11:45 UTC
-October 25, 2016 11:45 UTC
+25. Oktober 2016 um 11:45 UTC
+25. Oktober 2016 11:45 UTC
 ```
 
 Gutes Beispiel:
 
 ```markdown
-October 25, 2016 (11:45 UTC)
+25. Oktober 2016 (11:45 UTC)
 ```
 
 ## Spielmodi
@@ -219,13 +202,13 @@ Benutzertitel, die `osu!` als Teil des Titels enthalten, müssen großgeschriebe
 - `osu! Alumni`
 - `osu! Champion`
 
-Für alle anderen Begriffe muss osu! als [einzelnes Nomen](https://en.wikipedia.org/wiki/Noun_adjunct) behandelt werden. Das bedeutet, es wird ein Leerzeichen zwischen osu! und dem Namen, welcher modifiziert wird, gesetzt. Beispiele sind:
+Für alle anderen Begriffe muss osu! als einzelnes Nomen behandelt werden. Das bedeutet, es wird ein Bindestrich zwischen osu! und dem Namen, welcher modifiziert wird, gesetzt. Beispiele sind:
 
-- `osu! tournaments`
-- `osu! community`
-- `osu! chat`
-- `osu! client`
-- `osu! wiki`
+- `osu!-Turniere`
+- `osu!-Community`
+- `osu!-Chat`
+- `osu!-Client`
+- `osu!-Wiki`
 
 ---
 
@@ -235,34 +218,28 @@ Hinter `osu!` darf kein Ausrufezeichen folgen (also `osu!!`). Der Satz muss umfo
 
 ## Terminologie
 
-Diese Wörter müssen wie folgt geschrieben werden (der Abstand muss übereinstimmen):
+Diese Wörter müssen wie folgt geschrieben werden (Buchstabenform und -abstand muss übereinstimmen):
 
-- `approach circle`
-- `game mode` (oder `mode`)
-- `game mod` (oder `mod`)
-- `gameplay`
-- `hit burst`
-- `hit circle`
-- `hitsound`
-- `in-game`
-- `playstyle`
-- `slider tick`
-- `slider ball`
-- `slider path`
+- `Approach-Circle`
+- `Spielmodus` (oder `Modus`)
+- `Spielmodifikation` (oder `Mod`)
+- `Hit-Burst`
+- `Hit-Circle`
+- `Hitsound`
+- `Slidertick`
+- `Sliderball`
+- `Sliderpath`
 - `Kudosu` (als ein Eigenname zu behandeln)
 
 ---
 
 Manche Wörter haben Varianten. Ihre bevorzugte Schreibweise ist wie folgt:
 
-- `creator` oder `mapper` anstatt `beatmapper`.
-- `mapped` anstatt `beatmapped`.
+- `Ersteller` oder `Mapper` anstatt `Beatmapper`.
+- `erstellt` anstatt `beatmapped` oder `mapped`.
 - `BN` oder `Beatmap Nominators`, wenn auf die *Beatmap Nominators* verwiesen wird.
-- `sign in` anstatt `log in`, sofern der Name eines Buttons oder Links nicht das Gegenteil behauptet.
-- `sign out` anstatt `log out`, sofern der Name eines Buttons oder Links nicht das Gegenteil behauptet.
-- `register` anstatt `sign up`, sofern der Name eines Buttons oder Links nicht das Gegenteil behauptet.
 
-### Wettbewerbsartikel
+### Turnierartikel
 
 Diese Worte müssen wie folgt verwendet werden (der Abstand muss übereinstimmen):
 
@@ -275,7 +252,7 @@ Diese Worte müssen wie folgt verwendet werden (der Abstand muss übereinstimmen
 Abkürzungen, Akronyme und Initialen müssen bei ihrem ersten Auftreten vollständig ausgeschrieben werden. Nachfolgende Vorkommen sind optional, aber werden nur ausgeschrieben, sofern erforderlich. Das Folgende ist ein Beispiel:
 
 ```markdown
-The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC and DT increase the speed of the music by 50%. However, NC will change the pitch of the music and add a clap and finish to the beat.
+Die NC (Nightcore) Mod ist ähnlich zur DT (Double Time) Mod, da beide die Geschwindigkeit der Musik um 50% erhöhen. Allerdings ändert NC die Tonhöhe der Musik und fügt ein Klatschen zum Beat hinzu.
 ```
 
 Abkürzungen, Akronyme und Initialen müssen großgeschrieben werden, allerdings gibt es Ausnahmen. Die Folgenden sind Beispiele:
@@ -287,41 +264,31 @@ Abkürzungen, Akronyme und Initialen müssen großgeschrieben werden, allerdings
 
 ---
 
-Benutze `e.g.` für "for example" und `i.e.` für "that is".
-
----
-
 Abkürzungen, Akronyme und Initialen sollten nicht in der Pluralform benutzt werden. Im Folgenden ein Beispiel:
 
 ```markdown
-Vermeide:  BNs can nominate your beatmap.
+Vermeide: BNs können deine Beatmap nominieren.
 
-Bevorzuge: Beatmap Nominators can nominate your beatmap.
+Bevorzuge: Beatmap Nominators können deine Beatmap nominieren.
 ```
 
 ## Perspektive
 
-`player`, `user`, `skinner`, `storyboarder` und `creator` sollten benutzt werden, wenn der Leser oder eine andere Person angesprochen wird. `they`, `them`, `their` und `theirs` darf benutzt werden, wenn benötigt.
+`Spieler`, `Benutzer`, `Skinner`, `Storyboarder` und `Ersteller` sollten benutzt werden, wenn der Leser oder eine andere Person angesprochen wird. `es`, `sein` und `ihm` darf benutzt werden, wenn benötigt.
 
-`you` und `your` sollte vermieden werden. `I` darf nicht vorkommen. `we`, `he` oder `his` und `she` oder `her` darf ebenfalls nicht vorkommen (siehe weiter oben für andere Begriffe).
+`du` und `dein` sollte vermieden werden. `Ich` darf nicht vorkommen. `wir`, `er` oder `sein` und `sie` oder `ihr` darf ebenfalls nicht vorkommen (siehe weiter oben für andere Begriffe).
 
 ---
 
-[Artikel mit informellen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings sollte `I` trotzdem vermieden werden.
+[Artikel mit informellen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings sollte `Ich` trotzdem vermieden werden.
 
 ## Grammatik und Syntax
 
-Artikel sollten einfache [amerikanische Grammatik und Syntax](https://www.thepunctuationguide.com/british-versus-american-style.html) verwenden.
-
-### Verkürzungen
-
-Verkürzungen (z. B. `that's` anstatt `that is`) dürfen nicht verwendet werden.
-
-[Artikel mit informellen Registern](#sprachregister) dürfen Verkürzungen benutzen. Allerdings sollte die Verwendung konsistent innerhalb eines Artikels erfolgen.
+Artikel sollten einfache deutsche Grammatik verwenden.
 
 ### Zahlen
 
-*Für die Zahlenformatierung, siehe [Wikipedias Schreibweise von Zahlen](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Numbers)*
+*Für die Zahlenformatierung, siehe [Wikipedias Schreibweise von Zahlen](https://de.wikipedia.org/wiki/Wikipedia:Schreibweise_von_Zahlen)*
 
 [Artikel mit informellen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings muss die Benutzung konsistent im gesamten Artikel erfolgen.
 
@@ -329,24 +296,18 @@ Verkürzungen (z. B. `that's` anstatt `that is`) dürfen nicht verwendet werden.
 
 [Artikel mit informellen Registern](#sprachregister) sollten Semikolons (`;`) nicht verwenden.
 
-### Serielles Komma
-
-Das serielle Komma, auch bekannt als Oxford- oder Harvardkomma, muss benutzt werden.
-
 ### Geviertstrich
 
-Geviertstriche (`—`) sollten ohne Leerzeichen um sie herum verwendet werden. Bindestriche dürfen nicht an ihrer Stelle verwendet werden.
+Geviertstriche (`—`) müssen mit einem Leerzeichen davor und dahinter verwendet werden. Normale Bindestriche können ebenfalls verwendet werden. Diese Regel trifft nicht auf [Blockzitate](#blockzitate) zu.
 
 ### Blockzitate
 
-Verweis auf [Wikipedias Artikel zum Format für Zitate](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside).
+Verweis auf [Wikipedias Artikel zum Format für Zitate](https://de.wikipedia.org/wiki/Wikipedia:Zitate#Beispiele).
 
-Von Wikipedias Artikel zum Format für Zitate:
-
-> Include terminal punctuation within the quotation marks only if it was present in the original material, and otherwise place it after the closing quotation mark. For the most part, this means treating periods and commas in the same way as question marks: keep them inside the quotation marks if they apply only to the quoted material and outside if they apply to the whole sentence.
+Füge abschließende Satzzeichen nur dann in die Anführungszeichen ein, wenn sie im Originaltext vorhanden waren und setze sie andernfalls nach dem schließenden Anführungszeichen. In den meisten Fällen bedeutet dies, dass Punkt und Komma genauso behandelt werden wie Fragezeichen: Sie stehen innerhalb der Anführungszeichen, wenn sie sich nur auf das zitierte Material beziehen, und außerhalb, wenn sie sich auf den gesamten Satz beziehen.
 
 Im weiteren Sinne sollten [Betonungen](/wiki/Article_styling_criteria/Formatting#betonung), [Links](/wiki/Article_styling_criteria/Formatting#links) und Klammern denselben Regeln bezogen auf die Zeichensetzung folgen (also, ob sie einen ganzen Satz oder nur einen Teil davon miteinbeziehen).
 
 ## Aussprache
 
-Geschriebene Aussprache muss das [internationale phonetische Alphabet](https://en.wikipedia.org/wiki/Help:IPA/English) benutzen.
+Geschriebene Aussprache muss das [internationale phonetische Alphabet](https://de.wikipedia.org/wiki/Internationales_Phonetisches_Alphabet) benutzen.
