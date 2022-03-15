@@ -15,7 +15,7 @@ Les [timing points](/wiki/Beatmapping/Timing_section) utilisent un BPM et un dé
 
 Dans l'onglet [timing](/wiki/Client/Beatmap_editor/Timing) de l'[éditeur de beatmap](/wiki/Client/Beatmap_editor), vous trouverez un outil d'estimation du BPM. Cet outil calcule un BPM et un décalage à partir de l'utilisateur qui joue pendant que la musique est jouée. Cette méthode est utile pour estimer une valeur de BPM, mais elle nécessite généralement un ajustement supplémentaire pour être totalement synchronisée avec la musique.
 
-La plupart des chansons modernes utilisent un seul BPM, ce qui nécessite un seul timing point. Les chansons plus complexes peuvent nécessiter plusieurs timing points et des timing resets pour être synchronisées correctement. Les timing points sont représentés par des lignes rouges sur la timeline en bas de l'éditeur.
+La plupart des musiques modernes utilisent un seul BPM, ce qui nécessite un seul timing point. Les musiques plus complexes peuvent nécessiter plusieurs timing points et des timing resets pour être synchronisées correctement. Les timing points sont représentés par des lignes rouges sur la timeline en bas de l'éditeur.
 
 ## Gameplay
 
