@@ -121,5 +121,5 @@ Please understand that sending an email to this address only guarantees a second
 | Cheating | 6 months | Appeal terms apply, 1 year tournament ban, and full rollback |
 | Excessive misconduct | Variable | Appeal terms apply. Cooldown will depend on history. |
 | Cheating/sharing for a tournament | 12 months | Appeal terms apply, appropriate rollback, permanent tournament ban |
-| Subsequent offences (cheating) | 12 months | Appeal terms apply, rollback, tournament ban 1 year per offence |
+| Subsequent offences (cheating) | 12 to 24 months | Appeal terms apply, rollback, tournament ban 1 year per offence |
 | Abhorrent or severely abusive misconduct | Indefinite | Often permanent with no chance of appeal |
