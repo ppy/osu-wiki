@@ -111,15 +111,15 @@ Please understand that sending an email to this address only guarantees a second
 
 ## Common restriction reasons and cooldowns
 
-| Restriction reason | Cooldown duration (minimum) | Appeal notes |
+| Restriction reason | Cooldown duration | Appeal notes |
 | :-- | :-- | :-- |
 | Judgement error | No cooldown | If found erroneous, no impact on the account. |
 | Multi-account | Permanent (multis) | Main account will be left unrestricted, possibly silenced. |
 | Excessive multi-accounting | 3 months | Appeal terms apply, 1 year tournament ban |
 | Account sharing | 3 months | Appeal terms apply, 1 year tournament ban, and partial rollback |
+| Subsequent offences (multi-accounting, account sharing, community conduct) | 6 months | Appeal terms apply, rollback (where appropriate), tournament ban 1 year per offence |
 | Cheating | 6 months | Appeal terms apply, 1 year tournament ban, and full rollback |
 | Excessive misconduct | Variable | Appeal terms apply. Cooldown will depend on history. |
 | Cheating/sharing for a tournament | 12 months | Appeal terms apply, appropriate rollback, permanent tournament ban |
-| Subsequent offences (multi-accounting, account sharing, community conduct) | 6 months | Appeal terms apply, rollback (where appropriate), tournament ban 1 year per offence |
-| Subsequent offences (cheating) | 12 months, up to 24 | Appeal terms apply, rollback, tournament ban 1 year per offence |
+| Subsequent offences (cheating) | 12 months | Appeal terms apply, rollback, tournament ban 1 year per offence |
 | Abhorrent or severely abusive misconduct | Indefinite | Often permanent with no chance of appeal |
