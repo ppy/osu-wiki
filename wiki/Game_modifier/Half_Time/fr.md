@@ -33,7 +33,7 @@ Le mod **Half Time** est un [modificateur de jeu](/wiki/Game_modifier) qui rédu
 
 ### osu!taiko
 
-Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le ralentissement de la chanson et du BPM fait que les notes deviennent très denses en raison de la diminution de l'AR. Cependant, en raison de la façon dont les dendens sont calculés dans osu!taiko, il faut maintenant plus de coups pour les terminer et ils donnent une **valeur totale plus élevée que sans le mod** parce que les coups de dendens ne sont pas affectés par le [multiplicateur de score](/wiki/Game_modifier/Score_multiplier).
+Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le ralentissement de la musique et du BPM fait que les notes deviennent très denses en raison de la diminution de l'AR. Cependant, en raison de la façon dont les dendens sont calculés dans osu!taiko, il faut maintenant plus de coups pour les terminer et ils donnent une **valeur totale plus élevée que sans le mod** parce que les coups de dendens ne sont pas affectés par le [multiplicateur de score](/wiki/Game_modifier/Score_multiplier).
 
 Par conséquent, l'utilisation du mod Half Time entraînera une augmentation du score maximal possible pour les beatmaps comportant très peu de combos et beaucoup de longs dendens. Cet effet sera encore plus significatif si le mod [Hard Rock](/wiki/Game_modifier/Hard_Rock) est activé simultanément.
 
