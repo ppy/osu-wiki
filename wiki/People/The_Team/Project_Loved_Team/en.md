@@ -81,6 +81,7 @@ Below listed are the users, who once were a part of the Project Loved Team.
 ### Coordinators
 
 - ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
+- ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
 
 ### osu! captains
 
