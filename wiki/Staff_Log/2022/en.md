@@ -118,4 +118,4 @@ Abbreviations for user groups are used throughout this log:
 
 - 2022-03-01: Removed [\_Stan](https://osu.ppy.sh/users/1653229) from **BN**
 
-<!-- last updated @2030 on march 1, 2022 with the move of _Stan into the NAT--->
+<!-- last updated @1930 on march 8, 2022 with the move of Maxus into the BN --->
