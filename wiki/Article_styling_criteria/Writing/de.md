@@ -6,7 +6,7 @@ Dieser Artikel betrifft die Schriftstandards für Deutsch. Verweise auf die engl
 
 Alle deutschen Artikel müssen Standarddeutsch verwenden.
 
-### Inhaltsparität
+## Inhaltsparität
 
 Übersetzungen müssen den gleichen Inhalt wie der englische Artikel enthalten, sodass sie die gleiche Nachricht überbringen, unabhängig von Grammatik und Syntax. Jede Änderung der Bedeutungen in den Übersetzungen muss mit einer entsprechenden Änderung des englischen Artikels folgen.
 
