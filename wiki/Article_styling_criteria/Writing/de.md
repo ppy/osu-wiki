@@ -264,6 +264,10 @@ Abkürzungen, Akronyme und Initialen müssen großgeschrieben werden, allerdings
 
 ---
 
+Übersetze `e.g.` mit "zum Beispiel" und `i.e.`mit "also" oder "das heißt".
+
+---
+
 Abkürzungen, Akronyme und Initialen sollten nicht in der Pluralform benutzt werden. Im Folgenden ein Beispiel:
 
 ```markdown
