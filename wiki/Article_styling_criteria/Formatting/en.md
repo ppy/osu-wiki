@@ -1,7 +1,6 @@
 # Formatting
 
-*For the writing standards, see: [Article style criteria/Writing](../Writing)*
-
+*For the writing standards, see: [Article style criteria/Writing](../Writing)*\
 *Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
 
 ## Locales
@@ -43,18 +42,6 @@ Listed below are the properly-supported locales for the wiki:
 | `zh-tw.md` | Traditional Chinese (Taiwan) | 繁體中文（台灣） |
 
 *Note: The website will give readers their selected language's version of an article. If it is not available, the English version will be given.*
-
-### Content parity
-
-Translations are subject to strict content parity with their English article, in the sense that they must have the same message, regardless of grammar and syntax. Any changes to the translations' meanings must be accompanied by equivalent changes to the English article.
-
-There are some cases where the content is allowed to differ:
-
-- Articles originally written in a language other than English (in this case, English should act as the translation)
-- Explanations of English words that are common terms in the osu! community
-- External links
-- Tags
-- Subcommunity-specific explanations
 
 ## Front matter
 
@@ -270,16 +257,16 @@ A notice should be placed where appropriate in a section, but must start off the
 - `Caution` should be used to warn the reader to avoid unintended consequences.
 - `Warning` should be used to warn the reader that action may be taken against them.
 
-## Stacked notices and hatnotes
+## Stacked hatnotes and notices
 
-Multiple notices and hatnotes may be stacked when necessary. When doing this, they must be stacked without blank lines and use trailing backslashes:
+Multiple hatnotes and notices may be stacked when necessary. When doing this, they must be stacked without blank lines and use trailing backslashes:
 
 ```markdown
 *Warning: {warning}.*\
 *See also: {article}*
 ```
 
-In many cases, it may be more fitting to embed extraneous notices or hatnotes into paragraph text instead of stacking many of them.
+In many cases, it may be more fitting to embed extraneous hatnotes or notices into paragraph text instead of stacking many of them.
 
 ## Emphasising
 

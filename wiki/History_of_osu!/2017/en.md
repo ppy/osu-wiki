@@ -12,7 +12,7 @@ Links:
 
 ## February
 
-[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) was announced to be another Featured Artist. The first osu!lazer build was released!
+[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) was announced to be another Featured Artist. The first lazer build of osu! was released!
 
 Links:
 
@@ -46,6 +46,8 @@ Links:
 ## May
 
 osu!catch World Cup 2017 was opened for registrations. [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) was featured as another artist of osu!. osu! was announced to be at Anime Expo 2017. In almost over a whole year, the osu!taiko mascot was announced. [Mocha](/wiki/Mascots#mocha) has entered the scene with [pippi](/wiki/Mascots#pippi), [Yuzu](/wiki/Mascots#yuzu), and [Maria](/wiki/Mascots#mani-&-mari). Lastly, [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) was announced to be part of the Featured Artists of osu!. Voting for both osu!mania and osu!catch beatmapping contests were opened.
+
+Links:
 
 - [osu!catch World Cup 2017 - Registrations now open!](https://osu.ppy.sh/home/news/2017-05-03-osucatch-world-cup-2017-registrations-now-open)
 - [osu! at anime expo 2017](https://osu.ppy.sh/home/news/2017-05-09-osu-at-anime-expo-2017)
@@ -121,7 +123,7 @@ Links:
 
 ## December
 
-The Winter 2017 Fanart Contest results were in, awarding [Leissss](https://osu.ppy.sh/users/4750716) with the most votes. OWC 2017 concluded with Poland being victorious. Thanks to LiquidPL, the cringey download page in osu!web has been redone. The day before Christmas, another handful of community contributors were announced. Every player received osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve. peppy ends the year with a video, giving 2017 a year-in-review in regards to osu!lazer.
+The Winter 2017 Fanart Contest results were in, awarding [Leissss](https://osu.ppy.sh/users/4750716) with the most votes. OWC 2017 concluded with Poland being victorious. Thanks to LiquidPL, the cringey download page in osu!web has been redone. The day before Christmas, another handful of community contributors were announced. Every player received osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve. peppy ends the year with a video, giving 2017 a year-in-review in regards to the lazer version of osu!.
 
 Links:
 
