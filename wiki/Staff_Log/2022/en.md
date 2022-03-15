@@ -113,30 +113,9 @@ Abbreviations for user groups are used throughout this log:
 
 - 2022-03-01: Moved [Luscent](https://osu.ppy.sh/users/2688581) from **Probationary BN** to **BN**
 - 2022-03-08: Moved [Maxus](https://osu.ppy.sh/users/4335785) from **Probationary BN** to **BN**
-#### Removals
-
-- 2022-03-01: Removed [\_Stan](https://osu.ppy.sh/users/1653229) from **BN**
-
-## March
-
-- 2022-03-01: Added [\_Stan](https://osu.ppy.sh/users/1653229) to **NAT**
-- 2022-03-08: Removed [AJT](https://osu.ppy.sh/users/3181083) from **NAT**
-- 2022-03-08: Removed [huu](https://osu.ppy.sh/users/6044237) from **Project Loved Team**
-
-### Beatmap Nominators
-#### Additions
-
-- 2022-03-01: Added [Didah](https://osu.ppy.sh/users/8030129) to **Probationary BN**
-- 2022-03-06: Added [Chromoxx](https://osu.ppy.sh/users/1881639) to **Probationary BN**
-- 2022-03-08: Added [secXcscX](https://osu.ppy.sh/users/13543418) to **Probationary BN**
-#### Moves
-
-- 2022-03-01: Moved [Luscent](https://osu.ppy.sh/users/2688581) from **Probationary BN** to **BN**
-- 2022-03-08: Moved [Maxus](https://osu.ppy.sh/users/4335785) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2022-03-01: Removed [\_Stan](https://osu.ppy.sh/users/1653229) from **BN**
 
->>>>>>> Stashed changes
 <!-- last updated @2030 on march 1, 2022 with the move of _Stan into the NAT--->
