@@ -414,7 +414,7 @@ Aufzählungslisten gemeinsam mit nummerierten Listen sollte nur selten benutzt w
 ```markdown
 1. Lade einen Skin aus den Foren herunter.
 2. Lade die Skindatei in osu!.
-   - Wenn die Datei eine `.zip` ist, entpacke sie erst und verschiebe den Inhalt in den `Skins/`-Ordner (in deinem osu!-Installationsordner).
+   - Wenn die Datei eine `.zip` ist, entpacke sie erst und verschiebe den Inhalt in den Ordner `Skins/` (in deinem osu!-Installationsordner).
    - Wenn die Datei eine `.osk` ist, öffne sie auf deinem Desktop oder verschiebe sie per Drag-and-drop in den Spiel-Client.
 3. Öffne osu!, falls es nicht offen ist, und wähle einen Skin in den Optionen.
    - Das kann bereits passiert sein, falls du die `.osk`-Datei geöffnet oder sie per Drag-and-drop in den Spiel-Client verschoben hast.
@@ -448,7 +448,7 @@ Wenn ein Leerzeichen oder die Leertaste repräsentiert werden soll, benutze `` `
 Beim Kopieren von Text aus einem Menü oder Button muss der Text so eingefügt werden, wie er angezeigt wird. (Beispiel unten gezeigt.)
 
 ```markdown
-Der `osu!direct`-Button ist im Hauptmenü auf der rechten Seite sichtbar, sofern du ein aktives osu!supporter-Tag hast.
+Der Button `osu!direct` ist im Hauptmenü auf der rechten Seite sichtbar, sofern du ein aktives osu!supporter-Tag hast.
 ```
 
 ### Ordner- und Verzeichnisnamen
