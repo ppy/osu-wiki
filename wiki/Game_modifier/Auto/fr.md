@@ -42,7 +42,7 @@ Dans le mode [osu!](/wiki/Game_mode/osu!), lorsqu'il est confronté à un spinne
 
 ### osu!taiko
 
-Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Auto tentera de jouer parfaitement, mais n'obtiendra pas toujours la note SS. Il manquera parfois un tick sur les drum rolls qui ne commencent pas sur un temps entier ou un demi-ton et ne sera pas toujours capable de terminer les dendens sur les beatmap dont la difficulté globale est très élevée.
+Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Auto tentera de jouer parfaitement, mais n'obtiendra pas toujours la note SS. Il manquera parfois un tick sur les drum rolls qui ne commencent pas sur un temps entier ou un demi-ton et ne sera pas toujours capable de terminer les dendens sur les beatmaps dont la difficulté globale est très élevée.
 
 ### osu!catch
 

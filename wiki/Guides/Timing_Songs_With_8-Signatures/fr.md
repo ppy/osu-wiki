@@ -2,7 +2,7 @@
 
 De temps en temps, des musiques sont mappées avec une signature temporelle qui n'est pas divisée en quart de note (par exemple `3/4`, `4/4`, `7/4`, ...) mais en huitièmes de note (par exemple `6/8`, `7/8`, ...). L'éditeur actuel ne prend pas en charge ces signatures #/8 dans un futur proche.
 
-Afin de rendre ce tableau plus compréhensible et d'indiquer plus précisément ce que l'on entend par là, ce guide va maintenant expliquer un peu de théorie musicale pertinente derrière tout cela, et donner des exemples de la façon dont cela se traduit dans osu!. Pour cette raison, [trois beatmapsets](https://assets.ppy.sh/media/wiki/TimeSignatures.rar) ont été préparés pour que vous puissiez les télécharger, et ils seront utilisés comme référence dans ce guide.
+Afin de rendre ce tableau plus compréhensible et d'indiquer plus précisément ce que l'on entend par là, ce guide va maintenant expliquer un peu de théorie musicale pertinente derrière tout cela, et donner des exemples de la façon dont cela se traduit dans osu!. Pour cette raison, [trois beatmaps](https://assets.ppy.sh/media/wiki/TimeSignatures.rar) ont été préparées pour que vous puissiez les télécharger, et ils seront utilisés comme référence dans ce guide.
 
 ## Théorie de la musique
 
@@ -26,7 +26,7 @@ En parlant de la difficulté `3/4` de *America* de Leonard Bernstein, j'ai menti
 
 ![150 BPM avec un métronome 2/4 en comparaison avec 100 BPM avec un métronome 3/4](/wiki/shared/timing/150bpm24vs100bpm34.png)
 
-Pour un exemple plus simple, regardez le beatmapset fourni de la musique *We Are The Champions* de Queen, qui est une musique purement en `6/8`. Lorsque vous regardez l'onglet timing de la difficulté `6/8`, vous pouvez voir que les petits ticks blancs entre les mesures correspondent exactement aux temps réels de la musique, et que tous les huitièmes de note ♪ sont mises en correspondance en utilisant le `1/3-BeatSnapDivisor`.
+Pour un exemple plus simple, regardez la beatmap fournie de la musique *We Are The Champions* de Queen, qui est une musique purement en `6/8`. Lorsque vous regardez l'onglet timing de la difficulté `6/8`, vous pouvez voir que les petits ticks blancs entre les mesures correspondent exactement aux temps réels de la musique, et que tous les huitièmes de note ♪ sont mises en correspondance en utilisant le `1/3-BeatSnapDivisor`.
 
 Cette méthode est rythmiquement la plus précise dans osu!. Puisque les ticks blancs représentent toujours un temps, le logo osu! pulsant sur l'écran de sélection de beatmap et les effets sonores du mod Nightcore sont toujours au point et transmettent correctement le "feeling" du morceau. Il est très facile et pratique d'utiliser cette méthode pour les musiques en signatures telles que `6/8` mais aussi `9/8`, `12/8`, etc. - Beaucoup de ces signatures sont plus courantes qu'on ne le pense, par exemple [Nekomata Master - Avalon no Oka](https://osu.ppy.sh/beatmapsets/317538) est un morceau en signature `12/8`, qui a été intuitivement chronométré en signature `4/4` et mappé en utilisant le `1/3-BeatSnapDivisor`. C'est pourquoi nous appliquons généralement cette méthode de chronométrage pour toutes les musiques en `#/8-signature` où les temps sont systématiquement divisés en trois huitièmes de note ♪♪♪ (par exemple, elle serait appliquée sur We Are The Champions de Queen, alors qu'elle ne le serait pas sur America de Leonard Bernstein parce qu'elle est en mesure mixte).
 

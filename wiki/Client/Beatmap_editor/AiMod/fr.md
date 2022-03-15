@@ -115,7 +115,7 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 | Deux timing points existent en même temps ! |  |  |
 | {0} des {1} sections de chronométrage ont un volume inférieur à 5%. |  |  |
 | Plus d'un tiers de la carte est un kiai time. Envisagez de réduire ce temps. |  |  |
-| Plus de la moitié de la carte TV Size est constituée d'un kiai time. Envisagez de le réduire. |  |  |
+| Plus de la moitié de la beatmap TV Size est constituée d'un kiai time. Envisagez de le réduire. |  |  |
 | Le kiai n'est pas aligné ! |  |  |
 | La fin du kiai n'est pas aligné ! |  |  |
 | Les pauses ne sont pas suggérées pour les map du mode osu!mania. | beatmaps osu!mania uniquement ! | Insérez des notes à l'endroit où se trouve la pause. |
@@ -169,7 +169,7 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 <!-- TODO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
 
 - **AiMod ne peut pas détecter un grand nombre de problèmes** qui sont considérés comme non classables par les [critères de classement](/wiki/Ranking_Criteria), tels que les objets potentiellement mal rythmés, les hitsounds retardés, les fichiers d'arrière-plan de plus de 2,5 Mo, etc.
-- **AiMod peut vous avertir de l'absence de problèmes**, comme le fait que les beatmaps nécessite deux difficultés du mode osu! sur une beatmap [marathon](/wiki/Beatmap/Marathon) et que l'option [kiai time](/wiki/Gameplay/Kiai_time) soit activée pendant moins de 15 secondes.
+- **AiMod peut vous avertir de l'absence de problèmes**, comme le fait que les beatmaps nécessitent deux difficultés du mode osu! sur une beatmap [marathon](/wiki/Beatmap/Marathon) et que l'option [kiai time](/wiki/Gameplay/Kiai_time) soit activée pendant moins de 15 secondes.
 - **Si `Check distance snap` est activé, AiMod ne vérifiera pas la distance snap entre les combos.**
 - **S'il y a plusieurs fichiers MP3 dans le dossier beatmap, AiMod peut vous avertir de la présence de plusieurs fichiers**, Toutefois, les fichiers MP3 peuvent également être utilisés pour des effets sonores tels que des applaudissements.
 

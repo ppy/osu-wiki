@@ -112,7 +112,7 @@ Essayez d'essayer ces beatmaps. Elles sont classées de la plus facile à la plu
 
 ### Débutant
 
-Vous pouvez commencer votre aventure avec ces beatmap :
+Vous pouvez commencer votre aventure avec ces beatmaps :
 
 - [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/beatmapsets/15901#osu/57281)(0.83 Stars)
 - [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/beatmapsets/16789#osu/67008)(0.99 Stars)

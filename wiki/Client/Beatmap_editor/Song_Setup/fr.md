@@ -10,7 +10,7 @@ Song Setup est la quatrième section de [l'éditeur de beatmap](/wiki/Client/Bea
 
 ![Un formulaire de Song Setup rempli](img/SS_General.jpg "Un exemple de métadonnées complètes (onglet Général) dans Song Setup")
 
-Ces champs doivent être remplis avant de créer une deuxième difficulté. Il s'agit principalement de s'assurer que les métadonnées seront cohérentes pour toutes les difficultés du beatmapset.
+Ces champs doivent être remplis avant de créer une deuxième difficulté. Il s'agit principalement de s'assurer que les métadonnées seront cohérentes pour toutes les difficultés de la beatmap.
 
 Les données des champs "artiste", "titre" et "source" doivent provenir de la [source primaire de métadonnées](/wiki/Beatmap/Primary_metadata_source) de la musique.
 

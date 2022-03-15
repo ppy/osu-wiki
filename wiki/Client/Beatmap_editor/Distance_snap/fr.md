@@ -8,7 +8,7 @@ no_native_review: true
 
 ***Les distances entre les cercles consécutifs seront brisées en fonction de leur différence rythmique.***
 
-La façon la plus simple de s'assurer que l'espacement des battements est correct sur vos beatmap est d'utiliser la fonction Distance Snapping de l'éditeur, qui se trouve en haut à droite de l'éditeur. La distance relative entre les notes peut être ajustée en utilisant 'Alt' et la molette de la souris. Cela permet de s'assurer que les temps qui sont proches sur la timeline le sont aussi sur le beatmap, et vice versa. Cela permet un jeu intuitif et un bon espacement des temps. Si vous vous en tenez à l'utilisation de Distance Snap pour tout le morceau, l'espacement correct des temps est garanti !
+La façon la plus simple de s'assurer que l'espacement des battements est correct sur vos beatmaps est d'utiliser la fonction Distance Snapping de l'éditeur, qui se trouve en haut à droite de l'éditeur. La distance relative entre les notes peut être ajustée en utilisant 'Alt' et la molette de la souris. Cela permet de s'assurer que les temps qui sont proches sur la timeline le sont aussi sur le beatmap, et vice versa. Cela permet un jeu intuitif et un bon espacement des temps. Si vous vous en tenez à l'utilisation de Distance Snap pour tout le morceau, l'espacement correct des temps est garanti !
 
 Lorsque la fonction Distance Snap est activée, chaque objet ne peut être placé que dans un cercle autour de l'objet précédent. Le rayon du cercle est basé sur le temps écoulé depuis le dernier objet. La variable distance/temps peut être modifiée dans l'éditeur pour rendre le cercle plus petit/plus grand. Après un certain temps (temps nécessaire), l'accrochage est désactivé.
 
