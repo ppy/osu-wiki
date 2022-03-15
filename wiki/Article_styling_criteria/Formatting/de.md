@@ -45,18 +45,6 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 
 *Tipp: Die Webseite wird für einen Artikel die ausgewählte Sprache des Lesers wählen. Sollte der Artikel in dieser Sprache nicht verfügbar sein, wird die englische Version angezeigt.*
 
-### Inhaltsparität
-
-Übersetzungen müssen den gleichen Inhalt wie der englische Artikel enthalten, sodass sie die gleiche Nachricht überbringen, unabhängig von Grammatik und Syntax. Jede Änderung der Bedeutungen in den Übersetzungen muss mit einer entsprechenden Änderung des englischen Artikels folgen.
-
-Es gibt einige Ausnahmen, in denen sich der Inhalt unterscheiden darf:
-
-- Artikel, die ursprünglich in einer anderen Sprache als Englisch geschrieben wurden (in diesem Fall sollte Englisch als Übersetzung dienen)
-- Erklärungen von englischen Begriffen, die gebräuchlich in der osu!-Community sind
-- Externe Links
-- Tags
-- Subcommunity-spezifische Erklärungen
-
 ## Titelsektion
 
 Metainformationen müssen sich ganz am Anfang der Datei befinden. Sie sind in [YAML](https://de.wikipedia.org/wiki/YAML#Beispiele) geschrieben und beschreiben zusätzliche Informationen über den Artikel. Diese müssen mit drei Bindestrichen (`---`) auf der Zeile darüber sowie darunter umrandet werden. Ebenfalls muss eine leere Zeile zwischen dem YAML-Abschnitt und dem Titel vorhanden sein.

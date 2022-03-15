@@ -3,9 +3,23 @@
 *Für die Formatierungsstandards, siehe: [Artikelgestaltungskriterien/Formatierung](../Formatting)*\
 *Hinweis: Dieser Artikel benutzt [RFC 2119](https://tools.ietf.org/html/rfc2119), um die Anforderungslevel zu beschreiben.*
 
+Dieser Artikel betrifft die Schriftstandards für Deutsch. Verweise auf die englische Version dieser Seite für die Schriftstandards für englische Artikel.
+
 **Aufgepasst**: Dieser Artikel hat nur eine eingeschränkte Wichtigkeit für Übersetzungen in die deutsche Sprache. Er ist hauptsächlich für die Erstellung englischer Artikel gedacht.
 
 Alle englischen Artikel müssen einfaches Englisch verwenden.
+
+### Inhaltsparität
+
+Übersetzungen müssen den gleichen Inhalt wie der englische Artikel enthalten, sodass sie die gleiche Nachricht überbringen, unabhängig von Grammatik und Syntax. Jede Änderung der Bedeutungen in den Übersetzungen muss mit einer entsprechenden Änderung des englischen Artikels folgen.
+
+Es gibt einige Ausnahmen, in denen sich der Inhalt unterscheiden darf:
+
+- Artikel, die ursprünglich in einer anderen Sprache als Englisch geschrieben wurden (in diesem Fall sollte Englisch als Übersetzung dienen)
+- Erklärungen von englischen Begriffen, die gebräuchlich in der osu!-Community sind
+- Externe Links
+- Tags
+- Spezifische Informationen für eine Subcommunity oder eine Sprache (wie z. B. Übersetzungen dieses Artikels)
 
 ## Sprachregister
 
