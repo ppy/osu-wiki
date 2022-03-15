@@ -17,8 +17,8 @@ Cet article explique tout ce que vous devez savoir sur l'utilisation du client d
 - \[7\] Le logo [ppy](https://ppy.sh/) ainsi que des informations sur le copyright. En cliquant dessus, vous accédez au [site](https://osu.ppy.sh/home).
 - \[8\] Lorsque des problèmes de connexion avec le [serveur Bancho](/wiki/Bancho_(server)) surviennent, une icône de chaîne brisé est affiché ici.
 - \[9\] Le [tchat](/wiki/Client/Interface/Chat_console), et à sa gauche un bouton pour la fenêtre de tchat étendue, qui liste les utilisateurs actuellement en ligne. Ils sont également affichable avec `F8` et `F9` respectivement.
-- \[10\] Le jukebox. Dans le menu principal, il lit les musique dans un ordre aléatoire. Voir ci-dessous pour plus d'informations sur les boutons de ce menu.
-- \[11\] Le nombre de [difficultés d'une beatmap](/wiki/Beatmap/Difficulty) disponibles (malgré ce qui est indiqué), la durée de votre jeu et l'horloge de votre système.
+- \[10\] Le jukebox. Dans le menu principal, il lit les musiques dans un ordre aléatoire. Voir ci-dessous pour plus d'informations sur les boutons de ce menu.
+- \[11\] Le nombre de [difficultés d'une beatmap](/wiki/Beatmap/Difficulty) disponibles (malgré ce qui est indiqué), la durée de votre jeu ainsi que l'horloge de votre système.
 - \[12\] Votre profil. En cliquant dessus, vous accédez aux [options utilisateur](#options-utilisateur).
 
 ---
@@ -83,9 +83,9 @@ Avant de poursuivre, cet écran comporte trop d'éléments pour être noté à l
 
 ![](img/metadata-comparison-FR.jpg?1)
 
-Cette zone affiche **des informations sur la difficulté de la beatmap actuellement sélectionné.** Lorsque vous entrez dans l'écran de sélection des beatmaps, la musique en cours de lecture sur le jukebox est sélectionné par défaut. L'icône en haut à gauche affiche la [catégorie de la beatmap](/wiki/Beatmap/Category), où celle-ci est [classée](/wiki/Beatmap/Category#classée).
+Cette zone affiche **des informations sur la difficulté de la beatmap actuellement sélectionnée.** Lorsque vous entrez dans l'écran de sélection des beatmaps, la musique en cours de lecture sur le jukebox est sélectionnée par défaut. L'icône en haut à gauche affiche la [catégorie de la beatmap](/wiki/Beatmap/Category), où celle-ci est [classée](/wiki/Beatmap/Category#classée).
 
-Le titre de la musique est normalement affiché en roman (image du bas), mais si vous sélectionnez `Métadonnées des maps dans leur langue d'origine dès que possible` dans les [options](/wiki/Client/Options), le titre Unicode sera affiché (image du haut). Le nom de la difficulté de la beatmap est affiché entre crochets (`[]`). Le créateur qui a mappée le beatmap est indiqué sous le titre, et d'autres informations sont listées en dessous. De gauche à droite, les valeurs sont les suivantes :
+Le titre de la musique est normalement affiché de manière romanisée (image du bas), mais si vous sélectionnez `Métadonnées des maps dans leur langue d'origine dès que possible` dans les [options](/wiki/Client/Options), le titre Unicode sera affiché (image du haut). Le nom de la difficulté de la beatmap est affiché entre crochets (`[]`). Le créateur qui a mappée la beatmap est indiqué sous le titre, et d'autres informations sont listées en dessous. De gauche à droite, les valeurs sont les suivantes :
 
 - **Durée** : La durée totale de la beatmap, du début à la fin, pauses comprises. A ne pas confondre avec le [drain time](/wiki/Gameplay/Drain_time).
 - **BPM** : *Battements par minute*, le tempo de la musique. S'il y a deux valeurs BPM ainsi qu'une valeur entre parenthèses, cela signifie que le BPM change tout au long de la musique. Il indique le BPM le plus lent et le plus rapide, et la valeur entre parenthèses est le BPM le plus courant dans la beatmap.
@@ -109,21 +109,21 @@ Ces options organisent les beatmaps en divers groupes extensibles :
 
 | Regrouper | Description |
 | :-: | :-- |
-| `Ne rien regrouper` | Les beatmaps ne seront pas regroupés mais seront tout de même triés dans l'ordre spécifié par Trier. |
-| `Par artiste` | Les beatmaps seront regroupés par le premier caractère du nom de l'artiste. |
-| `Par BPM` | Les beatmaps seront regroupés en fonction du BPM par multiples de 60. |
-| `Par créateur` | Les beatmaps seront regroupés par le premier caractère du nom du créateur de la beatmap. |
-| `Par date d'ajout` | Les beatmaps seront regroupés en fonction de leur date d'ajout, d'aujourd'hui à il y a plus de 5 mois. |
-| `Par difficulté` | Les beatmaps seront regroupés en fonction de leur star rating, arrondi au nombre entier inférieur. |
-| `Par durée` | Les beatmaps seront regroupés en fonction de leur durée : 1 minute ou moins, 2 minutes ou moins, 3, 4, 5, 10, et 10 minutes ou plus. |
-| `Par mode` | Les beatmaps seront regroupés en fonction de leur mode de jeu. |
-| `Par note reçue` | Les beatmaps seront classés en fonction du [grade](/wiki/Gameplay/Grade) le plus élevé. |
-| `Par titre` | Les beatmaps seront regroupés par le premier caractère du titre. |
+| `Ne rien regrouper` | Les beatmaps ne seront pas regroupées, mais seront tout de même triées dans l'ordre spécifié par Trier. |
+| `Par artiste` | Les beatmaps seront regroupées par le premier caractère du nom de l'artiste. |
+| `Par BPM` | Les beatmaps seront regroupées en fonction du BPM par multiples de 60. |
+| `Par créateur` | Les beatmaps seront regroupées par le premier caractère du nom du créateur de la beatmap. |
+| `Par date d'ajout` | Les beatmaps seront regroupées en fonction de leur date d'ajout, d'aujourd'hui à il y a plus de 5 mois. |
+| `Par difficulté` | Les beatmaps seront regroupées en fonction de leur star rating, arrondi au nombre entier inférieur. |
+| `Par durée` | Les beatmaps seront regroupées en fonction de leur durée : 1 minute ou moins, 2 minutes ou moins, 3, 4, 5, 10, et 10 minutes ou plus. |
+| `Par mode` | Les beatmaps seront regroupées en fonction de leur mode de jeu. |
+| `Par note reçue` | Les beatmaps seront classées en fonction du [grade](/wiki/Gameplay/Grade) le plus élevé. |
+| `Par titre` | Les beatmaps seront regroupées par le premier caractère du titre. |
 | `Collections` | Vous verrez alors apparaître les collections que vous avez créées. *Notez que ceci cachera les beatmaps qui ne sont pas listées dans une collection !* |
-| `Favoris` | Seuls les beatmaps que vous avez mis en favoris sur le site seront affichés. |
-| `Mes beatmaps` | Seuls les beatmaps que vous avez mappés (c'est-à-dire dont le créateur correspond au nom de votre profil) seront affichés. |
-| `Statuts en ligne` | Les beatmaps seront regroupés selon leur statut : classée, en attente, non soumis, inconnu ou loved. |
-| `Maps récemment jou` | Les beatmaps seront regroupés selon la date à laquelle vous les avez joués pour la dernière fois. |
+| `Favoris` | Seules les beatmaps que vous avez mises en favoris sur le site seront affichées. |
+| `Mes beatmaps` | Seules les beatmaps que vous avez mappées (c'est-à-dire dont le créateur correspond au nom de votre profil) seront affichées. |
+| `Statuts en ligne` | Les beatmaps seront regroupées selon leur statut : classée, en attente, non soumis, inconnu ou loved. |
+| `Maps récemment jouées` | Les beatmaps seront regroupées selon la date à laquelle vous les avez jouées pour la dernière fois. |
 
 Les cinq premiers regroupements sont disponibles dans les onglets situés sous Regrouper et Trier.
 
@@ -133,14 +133,14 @@ Trier les beatmaps dans un certain ordre.
 
 | Critère de tri | Description |
 | :-: | :-- |
-| `Par artiste` | Les beatmaps seront classés par ordre alphabétique d'artistes. |
-| `Par BPM` | Les beatmaps seront triés du plus bas au plus haut par leur BPM. Pour les beatmaps dont le BPM change, la plus élevée sera utilisée. |
-| `Par créateur` | Les beatmaps seront classés par ordre alphabétique de leur créateur. |
-| `Par date d'ajout` | Les beatmaps seront triés en fonction de leur date d'ajout, du plus ancien au plus récent. |
-| `Par difficulté` | Les beatmaps seront classés par étoiles, du plus facile au plus difficile. *Notez que cela divisera les difficultés des beatmaps !* |
-| `Par durée` | Les beatmaps seront triés par longueur, du plus court au plus long. |
-| `Par note reçue` | Les beatmaps seront classés en fonction du rang le plus élevé atteint, du plus mauvais au meilleur. |
-| `Par titre` | Les beatmaps seront triés par ordre alphabétique du titre de la musique. |
+| `Par artiste` | Les beatmaps seront classées par ordre alphabétique d'artistes. |
+| `Par BPM` | Les beatmaps seront triées du plus bas au plus haut par leur BPM. Pour les beatmaps dont le BPM change, la plus élevée sera utilisée. |
+| `Par créateur` | Les beatmaps seront classées par ordre alphabétique de leur créateur. |
+| `Par date d'ajout` | Les beatmaps seront triées en fonction de leur date d'ajout, du plus ancien au plus récent. |
+| `Par difficulté` | Les beatmaps seront classées par étoiles, du plus facile au plus difficile. *Notez que cela divisera les difficultés des beatmaps !* |
+| `Par durée` | Les beatmaps seront triées par longueur, du plus court au plus long. |
+| `Par note reçue` | Les beatmaps seront classées en fonction du rang le plus élevé atteint, du plus mauvais au meilleur. |
+| `Par titre` | Les beatmaps seront triées par ordre alphabétique du titre de la musique. |
 
 ### Recherche
 
@@ -173,7 +173,7 @@ Filtres pris en charge :
 | `status` | Le statut de la beatmap. La valeur peut être `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, ou `loved`, ou `r`/`a`/`p`/`n`/`u`/`l` en abrégé. |
 | `played` | Temps depuis le dernier jeu en jours |
 | `unplayed` | Affiche uniquement les beatmaps non jouées. Une comparaison sans valeur définie doit être utilisée (par exemple `unplayed=`). La comparaison elle-même est ignorée. |
-| `speed` | Sauvegarde de la vitesse de défilement d'osu!mania. Toujours 0 pour les cartes non jouées ou si l'option [`Se souvenir des vitesses de défilement sur chaque maps osu!mania`](/wiki/Client/Options#gameplay) est désactivée. |
+| `speed` | Sauvegarde de la vitesse de défilement d'osu!mania. Toujours 0 pour les maps non jouées ou si l'option [`Se souvenir des vitesses de défilement sur chaque maps osu!mania`](/wiki/Client/Options#gameplay) est désactivée. |
 
 Comparaisons prises en charge :
 
@@ -194,7 +194,7 @@ Vous pouvez également entrer un numéro d'identification de difficulté ou de b
 
 Diverses choses peuvent apparaître dans cet espace :
 
-- Une case `Not Submitted` indique une beatmap qui n'a pas été téléchargée sur le site d'osu! en utilisant le [Beatmap Submission System](/wiki/Submission) ou qui a été supprimé par le cartographe.
+- Une case `Not Submitted` indique une beatmap qui n'a pas été téléchargée sur le site d'osu! en utilisant le [Beatmap Submission System](/wiki/Submission) ou qui a été supprimé par le mapper.
 - Une case `Update to latest version` apparaît si une nouvelle version de la beatmap est disponible au téléchargement. Cliquez sur le bouton pour effectuer la mise à jour.
   - *Remarque : Lorsque vous mettez à jour la beatmap, les scores locaux qu'elle contient sont effacés. Les replays des scores locaux peuvent être exportées en faisant un clic droit dessus.*
 - Une case `Latest pending version` signifie que la beatmap a été téléchargé sur le site d'osu! mais n'est pas encore classé.
@@ -212,7 +212,7 @@ Ce sont les paramètres d'affichage :
 
 \*Nécessite un [osu!supporter](/wiki/osu!supporter).
 
-Cliquez sur l'icône de la bulle de texte pour appeler l'écran **accès rapide au web** pour la beatmap sélectionné :
+Cliquez sur l'icône de la bulle de texte pour appeler l'écran **accès rapide au web** pour la beatmap sélectionnée :
 
 - Appuyez sur `1` ou cliquez sur le `Infos beatmap/classement` pour afficher la page de la beatmap pour la difficulté sélectionnée dans votre navigateur.
 - Appuyez sur `2` ou cliquez sur `Topic de la beatmap` pour afficher la page [modding](/wiki/Modding) de la beatmap.
@@ -277,7 +277,7 @@ Cliquez sur le **[cookie d'osu!](/wiki/Client/Interface/Cookie)** pour **démarr
 
 ![](img/results-osu.jpg "La précision dans osu!")
 
-Il s'agit de l'écran de résultats affiché après que vous ayez terminer la beatmap. Vous pouvez accéder à vos résultats en ligne en faisant défiler l'écran vers le bas ou en appuyant sur le bouton évident.
+Il s'agit de l'écran de résultats affiché après que vous ayez terminé la beatmap. Vous pouvez accéder à vos résultats en ligne en faisant défiler l'écran vers le bas ou en appuyant sur le bouton évident.
 
 Vous trouverez ci-dessous les écrans de résultats des autres modes de jeu.
 
@@ -297,7 +297,7 @@ Il s'agit de votre classement en ligne. Vous pouvez y accéder en faisant défil
 - \[2\] `Exporter le replay` : Vous pouvez regarder le replay plus tard, soit en l'ouvrant depuis un leaderboard local, soit en allant dans le répertoire `Replays` et en double cliquant dessus.
 - \[3\] `Ajouter aux favoris en ligne` : Inclue la beatmap dans votre liste de favoris, qui se trouve sur votre page de profil osu! dans la section `Beatmaps`.
 - \[4\] Tableau de classement local : Tous vos résultats sont stockés sur votre ordinateur. Pour les voir, allez dans l'[écran de sélection des beatmaps](#sélection-des-beatmaps) et sélectionnez `Classement local` dans le menu déroulant au-dessus du tableau d'affichage.
-- \[5\] Section `Beatmap Ranking` . Disponible uniquement pour les cartes avec classement en ligne ([qualifiée](/wiki/Beatmap/Category#qualifiée), [classée](/wiki/Beatmap/Category#classée), ou [loved](/wiki/Beatmap/Category#loved)). Vous devez également être en ligne pour voir cette section. Voir ci-dessous pour plus de détails.
+- \[5\] Section `Beatmap Ranking` . Disponible uniquement pour les maps avec classement en ligne ([qualifiée](/wiki/Beatmap/Category#qualifiée), [classée](/wiki/Beatmap/Category#classée), ou [loved](/wiki/Beatmap/Category#loved)). Vous devez également être en ligne pour voir cette section. Voir ci-dessous pour plus de détails.
 - \[6\] Section `Overall Ranking`. Elle n'est disponible que pour les beatmaps avec classement en ligne. Vous devez également être en ligne pour voir cette section. Voir ci-dessous pour plus de détails.
 - \[7\] Informations sur la beatmap avec son nombre de parties et son taux de réussite.
 - \[8\] L'évaluation de la beatmap. Utilisez votre discrétion personnelle en fonction de si vous avez apprécié la beatmap ou non. Il vaut mieux ne pas y toucher si vous n'arrivez pas à vous décider.
@@ -311,9 +311,9 @@ Les catégories du panel de classement sont les suivantes :
 | :-: | :-- | :-- |
 | `Général` | Votre position dans le classement de la beatmap. Notez que les scores avec des [mods](/wiki/Game_modifier) apparaissent également dans ce même classement. | Votre [rang global](/wiki/Ranking#classement-des-points-de-performance) par rapport à tout les joueurs dans le monde. |
 | [`Précision`](/wiki/Gameplay/Accuracy) | La précision avec laquelle vous avez joué la beatmap. Il n'est comptabilisé que lorsque votre ancien score est dépassé. | Une moyenne pondérée de la précision de vos meilleurs scores. |
-| `Max Combo` | Le combo le plus long sur la beatmap que vous avez jouée. | Le combo le plus long sur toutes les beatmaps que vous avez joués. |
+| `Max Combo` | Le combo le plus long sur la beatmap que vous avez jouée. | Le combo le plus long sur toutes les beatmaps que vous avez jouées. |
 | [`Score classée`](/wiki/Gameplay/Score/Ranked_score) | Votre [meilleur résultat](/wiki/Gameplay/Score/Ranked_score) sur la beatmap. | Le nombre de points obtenus grâce à toutes les beatmaps classées que vous avez jouées, chaque beatmap étant comptée exactement une fois. |
-| [`Score total`](/wiki/Gameplay/Score/Total_score) | Non pris en compte, car il n'affecte pas votre position dans les classements en ligne. | Identique au score classé, mais il prend en compte tous les beatmaps disponibles sur le site web d'osu!, y compris les beatmaps sous-joués ou miss. Cela compte pour votre [niveau](/wiki/Gameplay/Score/Total_score#level). |
+| [`Score total`](/wiki/Gameplay/Score/Total_score) | Non pris en compte, car il n'affecte pas votre position dans les classements en ligne. | Identique au score classé, mais il prend en compte tous les beatmaps disponibles sur le site web d'osu!, y compris les beatmaps sous-jouées ou échoués. Cela compte pour votre [niveau](/wiki/Gameplay/Score/Total_score#level). |
 | [`Performance`](/wiki/Performance_points) | Le montant des [pp non pondérés](/wiki/Performance_points#pourquoi-n'ai-je-pas-gagné-la-totalité-des-pp-d'une-beatmap-que-j'ai-jouée-?) que vous recevriez pour le jeu. | Votre nombre total de points de performance, et le nombre de pp de la beatmap soumise. |
 
 ### Médailles
