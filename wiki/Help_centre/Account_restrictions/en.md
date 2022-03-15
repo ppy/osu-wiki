@@ -123,4 +123,3 @@ Please understand that sending an email to this address only guarantees a second
 | Subsequent offences (multi-accounting, account sharing, community conduct) | 6 months | Appeal terms apply, rollback (where appropriate), tournament ban 1 year per offence |
 | Subsequent offences (cheating) | 12 months, up to 24 | Appeal terms apply, rollback, tournament ban 1 year per offence |
 | Abhorrent or severely abusive misconduct | Indefinite | Often permanent with no chance of appeal |
-
