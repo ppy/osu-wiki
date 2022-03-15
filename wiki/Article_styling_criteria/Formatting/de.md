@@ -81,6 +81,7 @@ tags:
   - beatmap discussions
   - modding V2
   - MV2
+  - Beatmap-Diskussionen
 ```
 
 ### Übersetzungen ohne Überprüfungen
@@ -97,13 +98,13 @@ no_native_review: true
 
 *Siehe auch: [Ordnernamen](#ordnernamen) und [Titel](#titel)*
 
-Artikeltitel sollten im Singular stehen und "Sentence case" verwenden. Siehe [Wikipedias Artikel über die Namensgebung](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals)) für mehr Details.
+Artikeltitel sollten im Singular stehen und "Sentence case" verwenden. Siehe [Wikipedias Artikel über die Namensgebung](https://de.wikipedia.org/wiki/Wikipedia:Archiv/Richtlinien_f%C3%BCr_die_Namensgebung:Singular-Plural-Debatte) für mehr Details.
 
 Artikeltitel sollten dem Ordnernamen entsprechen, in welchem sie sich befinden (Unterstriche (`_`) dürfen gerne an angemessenen Stellen mit Leerzeichen ersetzt werden). Wenn der Ordnername sich ändert, dann sollte der Titel sich ebenfalls ändern und umgekehrt.
 
 ---
 
-Wettbewerbsartikel sind eine Ausnahme. Der Ordner muss Abkürzungen, Akronyme oder Initialen verwenden. Der Titel des Artikels muss den vollen Namen des Wettbewerbs enthalten.
+Wettbewerbs- und Turnierartikel sind eine Ausnahme. Der Ordner muss Abkürzungen, Akronyme oder Initialen verwenden. Der Titel des Artikels muss den vollen Namen des Wettbewerbs oder Turniers enthalten.
 
 ## Ordner- und Dateistrukturen
 
@@ -135,7 +136,7 @@ Ein Indexartikel muss erstellt werden, wenn der Ordner nur dazu gedacht ist, and
 
 Verlinkungen müssen aktualisiert werden, sodass mehrdeutige Begriffe zu den entsprechenden Begriffsabgrenzungsseiten zeigen.
 
-Artikel, die aus einem Begriffsabgrenzungsartikel heraus verlinkt werden, müssen die Kopfnote ["For other uses"](#for-other-uses) tragen.
+Artikel, die aus einem Begriffsabgrenzungsartikel heraus verlinkt werden, müssen die Kopfnote ["Für andere Bedeutungen"](#für-andere-bedeutungen) tragen.
 
 ## HTML
 
@@ -187,52 +188,52 @@ Kopfnoten sind kleine Notizen im oberen Teil eines Artikels oder eines Abschnitt
 
 Kopfnoten müssen in Kursivschrift verfasst sein und direkt unter der Überschrift liegen. Wenn mehrere Kopfnoten benutzt werden, dann müssen diese im selben Paragraphen sein; getrennt durch einen Zeilenumbruch.
 
-### Main page
+### Hauptseite
 
-Die Kopfnote *Main page* verweist den Leser zum Hauptartikel eines Themas. Wenn diese Kopfnote benutzt wird, wird impliziert, dass der Abschnitt eine Zusammenfassung des verlinkten Artikels ist. Die Kopfnote sollte nur einen Link enthalten. Sie muss wie folgt formatiert sein:
+Die Kopfnote *Hauptseite* verweist den Leser zum Hauptartikel eines Themas. Wenn diese Kopfnote benutzt wird, wird impliziert, dass der Abschnitt eine Zusammenfassung des verlinkten Artikels ist. Die Kopfnote sollte nur einen Link enthalten. Sie muss wie folgt formatiert sein:
 
 ```markdown
-*Main page: {Artikel}*
+*Hauptseite: {Artikel}*
 
-*Main pages: {Artikel} and {Artikel}*
+*Hauptseite: {Artikel} und {Artikel}*
 ```
 
-### See also
+### Siehe auch
 
-Kopfnoten mit *See also* empfehlen dem Leser andere interessante Artikel oder Abschnitte. Diese müssen wie folgt aussehen:
+Kopfnoten mit *Siehe auch* empfehlen dem Leser andere interessante Artikel oder Abschnitte. Diese müssen wie folgt aussehen:
 
 ```markdown
-*See also: {Artikel}*
+*Siehe auch: {Artikel}*
 
-*See also: {Artikel} and {Artikel}*
+*Siehe auch: {Artikel} und {Artikel}*
 ```
 
-### For see
+### Für siehe
 
-Kopfnoten *For see* sind den Kopfnoten *See also* ähnlich, aber im Allgemeinen beschreibender und direkter. Diese Kopfnoten dürfen mehrere Links enthalten, falls erforderlich. Sie müssen wie folgt geschrieben werden:
+Kopfnoten *Für siehe* sind den Kopfnoten *Siehe auch* ähnlich, aber im Allgemeinen beschreibender und direkter. Diese Kopfnoten dürfen mehrere Links enthalten, falls erforderlich. Sie müssen wie folgt geschrieben werden:
 
 ```markdown
-*For {Beschreibung}, see: {Artikel}*
+*Für {Beschreibung}, siehe: {Artikel}*
 
-*For {Beschreibung}, see: {Artikel} and {Artikel}*
+*Für {Beschreibung}, siehe: {Artikel} und {Artikel}*
 ```
 
-### Not to be confused with
+### Nicht zu verwechseln mit
 
-Kopfnoten mit *Not to be confused with* helfen dabei, mehrdeutige oder missverständliche Artikel oder Abschnitte besser voneinander zu trennen. Eine solche Kopfnote darf mehrere Links verwenden, falls erforderlich. Sie muss wie folgt formatiert sein:
+Kopfnoten mit *Nicht zu verwechseln mit* helfen dabei, mehrdeutige oder missverständliche Artikel oder Abschnitte besser voneinander zu trennen. Eine solche Kopfnote darf mehrere Links verwenden, falls erforderlich. Sie muss wie folgt formatiert sein:
 
 ```markdown
-*Not to be confused with {Artikel}.*
+*Nicht zu verwechseln mit {Artikel}.*
 
-*Not to be confused with {Artikel} or {Artikel}.*
+*Nicht zu verwechseln mit {Artikel} oder {Artikel}.*
 ```
 
-### For other uses
+### Für andere Bedeutungen
 
-Kopfnoten mit *For other uses* sind den Kopfnoten mit *Not to be confused with* ähnlich, aber verweisen direkt auf die [Begriffsabgrenzungsseite](#artikel-für-die-begriffsabgrenzung). Eine solche Kopfnote darf nur zum Begriffsabgrenzungsartikel verlinken. Sie muss folgendes Aussehen haben:
+Kopfnoten mit *Für andere Bedeutungen* sind den Kopfnoten mit *Nicht zu verwechseln mit* ähnlich, aber verweisen direkt auf die [Begriffsabgrenzungsseite](#artikel-für-die-begriffsabgrenzung). Eine solche Kopfnote darf nur zum Begriffsabgrenzungsartikel verlinken. Sie muss folgendes Aussehen haben:
 
 ```markdown
-*For other uses, see {Begriffsabgrenzungsseite}.*
+*Für andere Bedeutungen, siehe {Begriffsabgrenzungsseite}.*
 ```
 
 ## Hinweis
@@ -242,27 +243,27 @@ Kopfnoten mit *For other uses* sind den Kopfnoten mit *Not to be confused with* 
 Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werden, allerdings muss dafür ein neuer Paragraf angefangen werden, der Kursivschrift nutzt. Hinweise dürfen Fettschrift enthalten, sofern angemessen, aber dies sollte auf ein Minimum begrenzt werden. Hinweise müssen als ganze Sätze geschrieben werden. Damit müssen Hinweise, nicht wie die meisten [Kopfnoten](#kopfnote), einen Punkt (`.`) oder ein Ausrufezeichen (`!`) verwenden. Alles in einem Paragrafen eines Hinweises muss kursiv sein. Diese Kopfnoten müssen wie folgt formatiert werden:
 
 ```markdown
-*Note: {Tipp}.*
+*Tipp: {Tipp}.*
 
-*Notice: {Hinweis}.*
+*Hinweis: {Hinweis}.*
 
-*Caution: {Vorsicht}.*
+*Vorsicht: {Vorsicht}.*
 
-*Warning: {Warnung}.*
+*Warnung: {Warnung}.*
 ```
 
-- `Note` sollte für Fakten oder triviale Details genutzt werden.
-- `Notice` sollte für Erinnerungen genutzt werden oder um den Leser auf etwas aufmerksam zu machen.
-- `Caution` sollte genutzt werden, um den Leser vor unbeabsichtigten Konsequenzen zu warnen.
-- `Warning` sollte genutzt werden, um den Leser zu warnen, dass gegebenenfalls Maßnahmen gegen ihn ergriffen werden.
+- `Tipp` sollte für Fakten oder triviale Details genutzt werden.
+- `Hinweis` sollte für Erinnerungen genutzt werden oder um den Leser auf etwas aufmerksam zu machen.
+- `Vorsicht` sollte genutzt werden, um den Leser vor unbeabsichtigten Konsequenzen zu warnen.
+- `Warnung` sollte genutzt werden, um den Leser zu warnen, dass gegebenenfalls Maßnahmen gegen ihn ergriffen werden.
 
 ## Gestapelte Hinweise und Kopfnoten
 
 Mehrere Hinweise und Kopfnoten dürfen gestapelt werden, sofern notwendig. Dabei müssen sie ohne eine Leerzeile und mit einem nachfolgenden Backslash gestapelt werden:
 
 ```markdown
-*Warning: {Warnung}.*\
-*See also: {Artikel}*
+*Warnung: {Warnung}.*\
+*Siehe auch: {Artikel}*
 ```
 
 In vielen Fällen kann es sinnvoller sein, fremde Hinweise oder Kopfnoten in den Text eines Absatzes einzubetten, anstatt viele von ihnen zu stapeln.
@@ -288,13 +289,13 @@ Namen von Videospielen sollten in Kursivschrift stehen. osu! — das Spiel — i
 Beispielsweise bei der Nennung von Songtiteln im Format `{Künstler} - {Titel}`, ist der gesamte Teil ein Verweis auf das Werk und sollte deshalb kursiv sein:
 
 ```markdown
-*cYsmix - triangles* is a one of the three intro songs that can be heard when starting the game client.
+*cYsmix - triangles* ist einer der drei Titelsongs, die beim Starten des Spiel-Clients gehört werden können.
 ```
 
 Künstlernamen sind ansonsten grundsätzlich nicht in Kursivschrift. Das bedeutet, dass bei Freiformverweisen nur der Titel kursiv gesetzt sein sollte, da der Künstlername nicht Teil des Werks ist:
 
 ```markdown
-*Blue Zenith* by xi is an infamous song in the osu! community due to a famous score set by a top player on a certain beatmap.
+*Blue Zenith* von xi ist ein berüchtigter Song in der osu!-Community, da ein Top-Spieler einen bekannten Score auf einer bestimmten Beatmap erreicht hat.
 ```
 
 ### Hervorhebung und Links
@@ -302,13 +303,13 @@ Künstlernamen sind ansonsten grundsätzlich nicht in Kursivschrift. Das bedeute
 Verlinkter Text erscheint in einer anderen Farbe, wodurch dieser bereits betont wird. Daher benötigt verlinkter Text keine weitere Hervorhebung:
 
 ```markdown
-[Camellia - OOPARTS](https://cametek.bandcamp.com/track/parts) is an example of a song officially created specifically for osu!, otherwise known as an *osu! original*, since it was specifically commissioned for the osu! World Cup 2020 tiebreaker.
+[Camellia - OOPARTS](https://cametek.bandcamp.com/track/parts) ist ein Beispiel eines Songs, der offiziell spezifisch für osu! kreiert wurde (auch bekannt als *osu! original*), da dieser speziell für den osu! World Cup 2020 Tie-Break in Auftrag gegeben wurde.
 ```
 
 Das wird jedoch nicht angewendet, wenn das verlinkte Werk nicht der einzige Teil des Links ist:
 
 ```markdown
-[Voltaeyx's beatmap of *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) amassed considerable popularity in 2018 due to its unique overlapping slider patterns.
+[Die Beatmap von Voltaeyx zu *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) erlangte im Jahr 2018 aufgrund ihrer einzigartigen überlappenden Slider-Patterns beträchtliche Popularität.
 ```
 
 Die oben angegebene Art der Konstruktion sollte nur selten verwendet werden und darf nicht an Stellen mit vielen Links benutzt werden, wie z. B. Tabellen oder Listen.
@@ -344,18 +345,16 @@ Abschnittstitel dürfen kein Titellevel überspringen (also gehe nicht von einem
 Es ist möglich, eine Abschnittskennung neu zu definieren, welche genutzt wird, um darauf direkt zu verweisen. Benutzerdefinierte Kennungen sollten genutzt werden, wenn automatisch generierte zu lang sind, knifflige Zeichensetzung oder Bilder enthalten:
 
 ```markdown
-## My cooldown has passed. How do I appeal? {#appeal}
+## Meine Abklingzeit ist vorüber. Wie lege ich Berufung ein? {#berufung}
 
-## Common restriction reasons and cooldowns {#common-reasons}
-
-## Ideas for a multiplayer match {id=идеи-для-мультиплеера} <!-- alternative syntax for Unicode identifiers -->
+## Übliche Gründe für Sperrungen oder Abklingzeiten {#übliche-gründe}
 ```
 
 Dieses Feature kann auch verwendet werden, um einen spezifischen Teil eines Artikels zu markieren, der keine Überschrift trägt. Nutze es sparsam:
 
 ```markdown
-> That's it! You're well on your way to becoming an osu! rhythm champion!
-{#tutorial-quote}
+> Das ist es! Du bist auf dem richtigen Weg, ein osu! Rhythmus-Meister zu werden!
+{#tutorial-zitat}
 ```
 
 ## Listen
@@ -367,15 +366,15 @@ Für verschachtelte Listen gilt, dass Aufzählungszeichen oder Zahlen zu dem Inh
 Das folgende Beispiel wurde falsch umgesetzt (beachte den Abstand vor dem Aufzählungszeichen):
 
 ```markdown
-1. Fly a kite
-  - Don't fly a kite if it's raining
+1. Lasse einen Drachen fliegen
+  - Lasse keinen Drachen fliegen, wenn es regnet
 ```
 
 Das folgende Beispiel wurde richtig umgesetzt:
 
 ```markdown
-1. Fly a kite
-   - Don't fly a kite if it's raining
+1. Lasse einen Drachen fliegen
+   - Lasse keinen Drachen fliegen, wenn es regnet
 ```
 
 ### Aufzählungslisten
@@ -384,13 +383,13 @@ Aufzählungslisten müssen einen Bindestrich (`-`) verwenden. Anschließend muss
 
 ```markdown
 - osu!
-  - Hit circle
-    - Combo number
-    - Approach circle
+  - Hit-Circle
+    - Combozahl
+    - Approach-Circle
   - Slider
-    - Hit circles
-    - Slider body
-    - Slider ticks
+    - Hit-Circles
+    - Sliderkörper
+    - Sliderticks
   - Spinner
 - osu!taiko
 ```
@@ -400,12 +399,12 @@ Aufzählungslisten müssen einen Bindestrich (`-`) verwenden. Anschließend muss
 Die Zahlen in einer nummerierten Liste müssen erhöht werden, um ihren Schritt darzustellen.
 
 ```markdown
-1. Download the osu! installer.
-2. Run the installer.
-   1. To change the installation location, click the text underneath the progression bar.
-   2. The installer will prompt for a new location, choose the installation folder.
-3. osu! will start up once installation is complete.
-4. Sign in.
+1. Lade das Installationsprogramm für osu! herunter.
+2. Führe das Installationsprogramm aus.
+   1. Klicke auf den Text unter der Fortschrittsanzeige, um den Installationsort zu ändern.
+   2. Das Installationsprogramm wird dich nach einem Ort fragen. Gib ein, wo du osu! installieren möchtest.
+3. osu! wird gestartet, sobald die Installation fertig ist.
+4. Logge dich ein.
 ```
 
 ### Gemischt
@@ -413,12 +412,12 @@ Die Zahlen in einer nummerierten Liste müssen erhöht werden, um ihren Schritt 
 Aufzählungslisten gemeinsam mit nummerierten Listen sollte nur selten benutzt werden.
 
 ```markdown
-1. Download a skin from the forums.
-2. Load the skin file into osu!.
-   - If the file is a `.zip`, unzip it and move the contents into the `Skins/` folder (found in your osu! installation folder).
-   - If the file is a `.osk`, open it on your desktop or drag-and-drop it into the game client.
-3. Open osu!, if it is not opened, and select the skin in the options.
-   - This may have been completed if you opened the `.osk` file or drag-and-dropped it into the game client.
+1. Lade einen Skin aus den Foren herunter.
+2. Lade die Skindatei in osu!.
+   - Wenn die Datei eine `.zip` ist, entpacke sie erst und verschiebe den Inhalt in den `Skins/`-Ordner (in deinem osu!-Installationsordner).
+   - Wenn die Datei eine `.osk` ist, öffne sie auf deinem Desktop oder verschiebe sie per Drag-and-drop in den Spiel-Client.
+3. Öffne osu!, falls es nicht offen ist, und wähle einen Skin in den Optionen.
+   - Das kann bereits passiert sein, falls du die `.osk`-Datei geöffnet oder sie per Drag-and-drop in den Spiel-Client verschoben hast.
 ```
 
 ## Code
@@ -427,7 +426,7 @@ Das Mark-up für Code ist ein Akut (`` ` ``). Um Akute in Code zu platzieren, nu
 
 ```markdown
 `` ` ``
-`` `Space` ``
+`` `Leerzeichen` ``
 ```
 
 ### Tastaturtasten
@@ -437,19 +436,19 @@ Das Mark-up für Code ist ein Akut (`` ` ``). Um Akute in Code zu platzieren, nu
 Bei der Darstellung von Tastaturtasten müssen Großbuchstaben für einzelne Buchstaben und "Title case" für Modifikationen verwendet werden. Benutze des Plus-Symbol (`+`) (ohne Code), um Tastaturkürzel darzustellen. (Beispiel unten gezeigt.)
 
 ```markdown
-pippi is spelt with a lowercase "p" like peppy.
+pippi wird mit einem kleinen "p" wie peppy geschrieben.
 
-Press `Ctrl` + `O` to open the open dialog.
+Drücke `Strg` + `O`, um den Dialog zu öffnen.
 ```
 
-Wenn ein Leerzeichen oder die Leertaste repräsentiert werden soll, benutze `` `Space` ``.
+Wenn ein Leerzeichen oder die Leertaste repräsentiert werden soll, benutze `` `Leertaste` ``.
 
 ### Button- oder Menütext
 
 Beim Kopieren von Text aus einem Menü oder Button muss der Text so eingefügt werden, wie er angezeigt wird. (Beispiel unten gezeigt.)
 
 ```markdown
-The `osu!direct` button is visible in the main menu on the right side, if you have an active osu!supporter tag.
+Der `osu!direct`-Button ist im Hauptmenü auf der rechten Seite sichtbar, sofern du ein aktives osu!supporter-Tag hast.
 ```
 
 ### Ordner- und Verzeichnisnamen
@@ -457,7 +456,7 @@ The `osu!direct` button is visible in the main menu on the right side, if you ha
 Beim Kopieren des Namens eines Ordners oder eines Verzeichnisses muss die Schreibweise so sein, wie sie angezeigt wird. Es wird hier trotzdem die Kleinschreibung empfohlen, sofern möglich. Verzeichnispfade dürfen nicht absolut sein (also starte den Verzeichnisnamen nicht vom Laufwerksbuchstaben oder Wurzelpfad aus). (Beispiel unten gezeigt.)
 
 ```markdown
-osu! is installed in the `AppData/Local` folder by default, unless specified otherwise during installation.
+osu! ist standardmäßig im Ordner `AppData/Local` installiert, außer der Installationsort wurde anders festgelegt während der Installation.
 ```
 
 ### Schlüsselwörter und Befehle
@@ -465,7 +464,7 @@ osu! is installed in the `AppData/Local` folder by default, unless specified oth
 Beim Kopieren von Schlüsselwörtern oder Befehlen muss die Schreibweise so sein, wie sie angezeigt wird oder wie sie jemand normalerweise schreiben würde. Sofern anwendbar, sollte Kleinschreibung verwendet werden. (Beispiele unten gezeigt.)
 
 ```markdown
-As of now, the `Name` and `Author` commands in the skin configuration file (`skin.ini`) do nothing.
+Bis jetzt machen die Befehle `Name` und `Author` in der Skinkonfigurationsdatei (`skin.ini`) nichts.
 ```
 
 ### Dateinamen
@@ -473,7 +472,7 @@ As of now, the `Name` and `Author` commands in the skin configuration file (`ski
 Beim Kopieren von Dateinamen sollte die Schreibweise so sein, wie sie angezeigt wird. Sofern anwendbar, wird Kleinschreibung empfohlen. (Beispiele unten gezeigt.)
 
 ```markdown
-To play osu!, double click the `osu!.exe` icon.
+Um osu! zu spielen, mache einen Doppelklick auf das Symbol `osu!.exe`.
 ```
 
 ### Dateierweiterungen
@@ -483,7 +482,7 @@ To play osu!, double click the `osu!.exe` icon.
 Dateierweiterungen müssen mit einem Punkt (`.`), und gefolgt von der Dateierweiterung in Kleinbuchstaben, notiert werden. (Beispiele unten gezeigt.)
 
 ```markdown
-The JPG (or JPEG) file format has the `.jpg` (or `.jpeg`) extension.
+Das Dateiformat JPG (oder JPEG) hat die Erweiterung `.jpg` (oder `.jpeg`).
 ```
 
 ### Chat-Kanäle
@@ -491,7 +490,7 @@ The JPG (or JPEG) file format has the `.jpg` (or `.jpeg`) extension.
 Beim Kopieren eines Chat-Kanalnamens muss mit einer Raute (`#`) begonnen werden, gefolgt von dem Kanalnamen in Kleinbuchstaben. (Beispiel unten gezeigt.)
 
 ```markdown
-`#lobby` is where you can advertise your multi room.
+In `#lobby` kannst du deinen Mehrspielerraum bewerben.
 ```
 
 ## Vorformatierter Text (Codeblöcke)
@@ -507,7 +506,7 @@ Es gibt zwei Arten von Links: Inline und als Verweis. Inline hat zwei Stile.
 Das folgende ist ein Beispiel mit beiden Inline-Stilen:
 
 ```markdown
-[Game modifier](/wiki/Game_modifier)
+[Spielmodifikation](/wiki/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -515,7 +514,7 @@ Das folgende ist ein Beispiel mit beiden Inline-Stilen:
 Das folgende ist ein Beispiel des Verweis-Stils:
 
 ```markdown
-[Game modifier][game mods link]
+[Spielmodifikation][game mods link]
 
 [game mods link]: /wiki/Game_modifier
 ```
@@ -544,17 +543,17 @@ Wiki-Links dürfen keine Umleitungen benutzen und dürfen keinen Schrägstrich (
 Schlechte Beispiele:
 
 ```markdown
-[Article styling criteria](/wiki/ASC)
-[Developers](/wiki/Developers/)
-[Developers](/wiki/Developers/#game-client-developers)
+[Artikelgestaltungskriterien](/wiki/ASC)
+[Entwickler](/wiki/Developers/)
+[Entwickler](/wiki/Developers/#game-client-developers)
 ```
 
 Gute Beispiele:
 
 ```markdown
-[Article styling criteria](/wiki/Article_styling_criteria)
-[Developers](/wiki/People/The_Team/Developers)
-[Developers](/wiki/People/The_Team/Developers#game-client-developers)
+[Artikelgestaltungskriterien](/wiki/Article_styling_criteria)
+[Entwickler](/wiki/People/The_Team/Developers)
+[Entwickler](/wiki/People/The_Team/Developers#game-client-developers)
 ```
 
 ##### Links zu Unterartikeln
@@ -562,7 +561,7 @@ Gute Beispiele:
 Wiki-Links, die zu einem Unterartikel zeigen, sollten den Namen des übergeordneten Ordners in ihrem Linktext haben. Siehe das folgende Beispiel:
 
 ```markdown
-*See also: [Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)*
+*Siehe auch: [Beatmap-Editor/Design](/wiki/Client/Beatmap_editor/Design)*
 ```
 
 ##### Links zu Abschnitten
@@ -572,7 +571,7 @@ Wiki-Links, die zu einem Unterartikel zeigen, sollten den Namen des übergeordne
 Wiki-Links, die zu einem Abschnitt eines Artikels zeigen, dürfen das Paragraphenzeichen (`§`) benutzen. Siehe folgendes Beispiel:
 
 ```markdown
-*For timing rules, see: [Ranking Criteria § Timing](/wiki/Ranking_Criteria#timing)*
+*Für Regeln über das Timing, siehe: [Ranking-Kriterien § Timing](/wiki/Ranking_Criteria#timing)*
 ```
 
 #### Andere osu!-Links
@@ -626,7 +625,7 @@ Das Protokoll `https` muss benutzt werden, es sei denn, die Seite unterstützt d
 Es gibt keine visuellen Unterschiede zwischen externen und osu!-internen Links. Deshalb sollte der Name der Webseite im Linktext enthalten sein. Siehe das folgende Beispiel:
 
 ```markdown
-*For more information about music theory, see: [Music theory](https://en.wikipedia.org/wiki/Music_theory)*
+*Für mehr Informationen über die Musiktheorie, siehe: [Musiktheorie](https://de.wikipedia.org/wiki/Musiktheorie)*
 ```
 
 ## Bilder
@@ -636,15 +635,15 @@ Es gibt zwei Arten von Bildlinks: Inline und als Verweis. Beispiele:
 **Inline-Stil:**
 
 ```markdown
-![Gold crown](/wiki/shared/crown-gold.png "1st place")
+![Goldkrone](/wiki/shared/crown-gold.png "Erster Platz")
 ```
 
 **Verweis-Stil:**
 
 ```markdown
-![Gold crown][GCrown]
+![Goldkrone][GCrown]
 
-[GCrown]: /wiki/shared/crown-gold.png "1st place"
+[GCrown]: /wiki/shared/crown-gold.png "Erster Platz"
 ```
 
 Bilder sollten den Inline-Stil verwenden. Definitionen für Verweise müssen am Ende des Artikels platziert werden.
@@ -665,7 +664,7 @@ Blockbilder werden häufig mit einer Infobox<!-- TODO: link me! --> zusammen for
 
 ```markdown
 ::: Infobox
-![](img/mod-response.png "An example of a response to a mod")
+![](img/mod-response.png "Ein Beispiel einer Antwort eines Moderators")
 :::
 ```
 
@@ -759,7 +758,7 @@ Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreib
 ![](/wiki/shared/flag/xx.gif)
 ```
 
-Wobei `xx` der [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) zwei-Buchstaben Ländercode für die Flagge ist.
+Wobei `xx` der [ISO 3166-2](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste) zwei-Buchstaben Ländercode für die Flagge ist.
 
 Der volle Ländername sollte in den Titeltext eingefügt werden. Der Ländercode im alternativen Text ist optional, aber muss bei allen Flaggen im Artikel angewendet werden.
 
@@ -780,13 +779,13 @@ Die Trennzeichen-Zeile (die nächste Zeile nach den Spaltenüberschriften) darf 
 Das folgende ist ein Beispiel, wie eine Tabelle aussehen sollte:
 
 ```markdown
-| Team "Picturesque" Red | Score | Team "Statuesque" Blue | Average Beatmap Stars |
+| Team "Picturesque" Rot | Punktestand | Team "Statuesque" Blau | Durchschnittliche Beatmap-Sterne |
 | :-- | :-: | --: | :-- |
-| **peppy** | 5 - 2 | pippi | 9.3 stars |
-| Aiko | 1 - 6 | **Alisa** | 4.2 stars |
-| Ryūta | 3 - 4 | **Yuzu** | 5.1 stars |
-| **Taikonator** | 7 - 0 | Tama | 13.37 stars |
-| Maria | No Contest | Mocha |  |
+| **peppy** | 5 - 2 | pippi | 9.3 Sterne |
+| Aiko | 1 - 6 | **Alisa** | 4.2 Sterne |
+| Ryūta | 3 - 4 | **Yuzu** | 5.1 Sterne |
+| **Taikonator** | 7 - 0 | Tama | 13.37 Sterne |
+| Maria | Kein ausgetragenes Spiel | Mocha |  |
 ```
 
 ## Blockzitate
@@ -794,7 +793,7 @@ Das folgende ist ein Beispiel, wie eine Tabelle aussehen sollte:
 Blockzitate sind auf das Zitieren von Texten einer anderen Person beschränkt. Sie dürfen nicht dazu benutzt werden, um anderen Text zu formatieren. Der Name der zitierten Person, der nach dem Zitat folgt, muss mit einem vorangestellten Geviertstrich (`—`) wie folgt geschrieben werden:
 
 ```markdown
-> plz enjoy game
+> bitte habt Spaß am Spiel
 
 —rrtyui
 ```
