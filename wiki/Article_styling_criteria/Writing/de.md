@@ -1,11 +1,8 @@
 # Schrift
 
-*Für die Formatierungsstandards, siehe: [Artikelgestaltungskriterien/Formatierung](../Formatting)*\
-*Hinweis: Dieser Artikel benutzt [RFC 2119](https://tools.ietf.org/html/rfc2119), um die Anforderungslevel zu beschreiben.*
+*Für die Formatierungsstandards, siehe: [Artikelgestaltungskriterien/Formatierung](../Formatting)*
 
 Dieser Artikel betrifft die Schriftstandards für Deutsch. Verweise auf die englische Version dieser Seite für die Schriftstandards für englische Artikel.
-
-**Aufgepasst**: Dieser Artikel hat nur eine eingeschränkte Wichtigkeit für Übersetzungen in die deutsche Sprache. Er ist hauptsächlich für die Erstellung englischer Artikel gedacht.
 
 Alle englischen Artikel müssen einfaches Englisch verwenden.
 
