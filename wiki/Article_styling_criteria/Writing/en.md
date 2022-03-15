@@ -15,7 +15,7 @@ There are some cases where the content is allowed to differ:
 - Translations and explanations of English words that are common terms in the osu! community
 - External links
 - Tags
-- Information specific to a subcommunity or a certain language (such as [Article styling criteria/Writing](/wiki/Article_styling_criteria/Writing))
+- Information specific to a subcommunity or a certain language (such as translations of this article)
 
 ## Language register
 
