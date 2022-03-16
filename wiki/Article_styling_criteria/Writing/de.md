@@ -306,22 +306,6 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 | `contest` | `Wettbewerb` |
 | `contribution guide` | `Beitragsleitfaden` |
 
-#### Menschen
-
-| Englisch | Deutsch |
-| :-: | :-- |
-| `account support team` | `Account-Support-Team` |
-| `support team` | `Support-Team` |
-| `osu! staff` | `osu!-Belegschaft` |
-
-#### Regeln
-
-| Englisch | Deutsch |
-| :-: | :-- |
-| `silence` | `Stummschaltung` oder `Silence` (Verb lautet `stummgeschaltet`) |
-| `restriction` | `Einschränkung` |
-| `ban` | `Sperrung` |
-
 ## Abkürzungen, Akronyme und Initialen
 
 Abkürzungen, Akronyme und Initialen müssen bei ihrem ersten Auftreten vollständig ausgeschrieben werden. Nachfolgende Vorkommen sind optional, aber werden nur ausgeschrieben, sofern erforderlich. Das Folgende ist ein Beispiel:
