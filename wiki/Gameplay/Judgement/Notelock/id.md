@@ -14,18 +14,18 @@ tags:
 1. [Jeda waktu](/wiki/Beatmapping/Overall_difficulty#timing) antara dua *hit object* saling berpotongan.
 2. Objek pertama dari kedua objek tersebut belum mendapatkan penilaiannya (*hit* atau *miss*).
 
-Pada kasus ini, objek kedua akan *terkunci* oleh objek pertama yang membuat osu! tidak mencatat input pemain hingga *hit window* objek pertama berlalu. Notelock hanya menjadi masalah ketika pemain tidak dapat kembali ke objek sebelumnya dan berinteraksi dengan itu secara benar, yang mencabut kunci tersebut. Pada kasus tersebut, sebuah note yang terkunci dapat menyebabkan kegagalan beruntun yang memaksa pemain mendapatkan miss yang lebih banyak dan beruntun, sehingga pemain kehabisan [health](/wiki/Gameplay/Health) dan gagal menyelesaikan beatmap.
+Pada kasus ini, objek kedua akan *terkunci* oleh objek pertama yang membuat osu! tidak mencatat input pemain hingga jeda waktu (*hit window*) dari objek pertama berlalu. Notelock hanya menjadi masalah ketika pemain tidak dapat kembali ke objek sebelumnya dan berinteraksi dengan itu secara benar, yang mencabut kunci tersebut. Pada kasus tersebut, sebuah note yang terkunci dapat menyebabkan kegagalan beruntun yang memaksa pemain mendapatkan miss yang lebih banyak dan beruntun, sehingga pemain kehabisan [health](/wiki/Gameplay/Health) dan gagal menyelesaikan beatmap.
 
-Ketika notelock terjadi, hit circle yang diklik pemain akan bergetar. Hal ini tidak berlaku untuk slider dan spinner.
+Ketika notelock terjadi, *hit circle* yang diklik akan bergetar. Hal ini tidak berlaku untuk *slider* dan *spinner*.
 
 ## Penyebab
 
 Notelock merupakan bagian dari sistem timing osu! dan hal tersebut terjadi ketika jeda waktu dua objek saling berpotongan. Hal ini sering terjadi pada beatmap yang memiliki nilai [OD](/wiki/Beatmapping/Overall_difficulty) yang rendah atau [BPM](/wiki/Beatmapping/Beats_per_minute) yang tinggi, karena jeda waktu yang berpotongan muncul lebih sering.
 
-Seluruh objek pada beatmap osu! diperuntukkan untuk dimainkan secara berurutan, pembatalan input pemain yang disebabkan oleh notelock biasanya memiliki efek yang positif, yaitu:
+Karena keseluruhan objek pada beatmap osu! diperuntukkan penyelesaian secara berurutan, pembatalan input pemain yang disebabkan oleh notelock biasanya memiliki efek yang positif, yaitu:
 
-- Mekanik ini membuat pemain harus memerdulikan seluruh bagian pada beatmap
-- Pada tingkat kesulitan yang lebih susah dan cepat, mekanik ini mencegah pemain kehilangan ritmenya dan menjadi tidak sinkron
+- Menjadikan pemain harus memerdulikan seluruh bagian pada beatmap
+- Pada tingkat kesulitan yang lebih susah dan cepat, menjadi pencegah dari kehilangan ritme yang berarah ke tidak sinkron
 
 ## Pencegahan
 
