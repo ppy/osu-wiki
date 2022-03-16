@@ -259,7 +259,6 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 | `gameplay` | `Spielverlauf` |
 | `multiplier` | `Multiplikator` |
 | `pass rate` | `Erfolgsquote` |
-| `Combo` | `Combo` |
 | `beatmap difficulty` | `Schwierigkeitsgrad/-stufe der Beatmap` |
 | `beatmap category` | `Beatmap-Kategorie` |
 | `playcount` | `Spielanzahl` |
@@ -269,15 +268,6 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 | `approved` | `approved` oder `bestätigt` |
 | `overall difficulty` | `Allgemeine Schwierigkeit` |
 | `medal` | `Achievement` oder `Medaille` |
-
-#### Spielelemente
-
-| Englisch | Deutsch |
-| :-: | :-- |
-| `fruits` | `Fruits` |
-| `juice stream` | `Juice-Stream` |
-| `hold notes` | `Hold-Notes` |
-| `hit object` | `Hit-Objekt` |
 
 #### Benutzeroberfläche
 
@@ -298,9 +288,6 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 
 | Englisch | Deutsch |
 | :-: | :-- |
-| `beatmap listing` | `Beatmap-Auflistung` |
-| `forum post` | `Forumsbeitrag` |
-| `help centre` | `Hilfecenter` |
 | `Modding` | `Modding` (Verb lautet `gemoddet`) |
 | `tournaments` | `Turnier` |
 | `contest` | `Wettbewerb` |
