@@ -22,7 +22,7 @@ There's a lot of **USAO** to consume. Check out some of the existing maps for th
 
 ### Showdown
 
-Explore these mapsets (most of which are included in the video above!)
+Explore these mapsets (most of which are included in the video above!):
 
 - [Full osu! spread](https://osu.ppy.sh/beatmapsets/438839) hosted by [Side](https://osu.ppy.sh/users/3442339)
 - [osu! marathon](https://osu.ppy.sh/beatmapsets/446658) hosted by [Hikaru Rose](https://osu.ppy.sh/users/4811275)
@@ -64,7 +64,7 @@ Play through [this osu! marathon](https://osu.ppy.sh/beatmapsets/554084) hosted 
 
 ### TAPIOCA
 
-Enjoy [this osu! marathon](https://osu.ppy.sh/beatmapsets/1267298) hosted by [Realazy](https://osu.ppy.sh/users/918297) and created as a tiebreaker for Corsace Open 2020's semifinals!
+Enjoy [this osu! marathon](https://osu.ppy.sh/beatmapsets/1267298) hosted by [Realazy](https://osu.ppy.sh/users/918297) and created as a tiebreaker for [Corsace Open 2020](https://osu.ppy.sh/community/forums/topics/1117976)'s semifinals!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/248/Songs/USAO%20-%20TAPIOCA.mp3" type="audio/mpeg">
@@ -80,7 +80,7 @@ Only one more map: [an osu!taiko marathon](https://osu.ppy.sh/beatmapsets/102271
 
 ---
 
-There's nothing more you can say. You're already searching for song to map from [**USAO**'s Featured Artist library](https://osu.ppy.sh/beatmaps/artists/248) or you're... uh... We're not sure what else you could be doing, honestly.
+There's nothing more you can say. You're already searching for a song to map from [**USAO**'s Featured Artist library](https://osu.ppy.sh/beatmaps/artists/248) or you're... uh... We're not sure what else you could be doing, honestly.
 
 We definitely know what you'll be doing 3 days from now: checking the [@osugame Twitter](https://twitter.com/osugame) for news on our next Featured Artist. We'll see you soon.
 
