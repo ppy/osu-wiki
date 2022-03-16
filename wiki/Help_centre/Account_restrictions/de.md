@@ -21,7 +21,7 @@ Wenn dein Account eingeschränkt wurde, verfalle nicht in Panik. Folge bitte die
 - **Kontaktiere unser [Account-Support-Team](/wiki/People/The_Team/Account_support_team).** Wenn dein Account nach dieser Dauer immer noch eingeschränkt ist, sende bitte eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) **von der E-Mail-Adresse, die mit deinem Account verknüpft ist,** um nach Details zu deiner Einschränkung zu fragen. Stelle sicher, dass du deinen Benutzernamen sowie jedes Detail, warum du glaubst, dass dein Account eingeschränkt wurde, der E-Mail hinzufügst. Je mehr du uns erzählst, desto leichter ist es für uns, das Problem zu lösen.
 - Wenn du der festen Überzeugung bist, dass deine Einschränkung ein Irrtum ist, dann kontaktiere uns bitte sofort, damit wir deinen Fall besprechen können.
 
-Wenn dein Account aufgrund von [Regelbruch](/wiki/Rules) eingeschränkt wurde, musst du mindestens **drei Monate** warten, bis du wieder eine Beschwerde einlegen darfst. Diese Zeitspanne wird von uns als *Cooldown* bezeichnet, und wenn du geschummelt hast, beträgt sie stattdessen sechs Monate.
+Wenn dein Account aufgrund von [Regelbruch](/wiki/Rules) eingeschränkt wurde, musst du mindestens **drei Monate** warten, bis du wieder eine Beschwerde einlegen darfst. Diese Zeitspanne wird von uns als *Auszeit* bezeichnet, und wenn du geschummelt hast, beträgt sie stattdessen sechs Monate.
 
 Wenn dein originaler Account nicht eingeschränkt ist, dann darfst du dich dort einloggen und normal weiterspielen, aber stelle sicher, dass du ab diesem Zeitpunkt nicht mehr in deine Multi-Accounts einloggst. Machst du es trotzdem, wird das zu härteren Strafen führen.
 
@@ -88,7 +88,7 @@ Es gibt verschiedene Gründe, warum eine Beschwerde verweigert werden kann.
 
 ## Was passiert, wenn ich nicht zum ersten Mal Beschwerde einlege?
 
-In den meisten Fällen verdoppelt jede Einschränkung auf deinem Account die Länge der nächsten Einschränkung und den damit verbundenen Cooldown.
+In den meisten Fällen verdoppelt jede Einschränkung auf deinem Account die Länge der nächsten Einschränkung und der damit verbundenen Auszeit.
 
 Wenn du zum Beispiel wegen Schummelns eingeschränkt wirst, nach einer Beschwerde zurückkehrst und dann erneut schummelst, wirst du für mindestens 12 Monate eingeschränkt (das Doppelte der sechs Monate), bevor wir irgendeine Beschwerde von dir prüfen. Wenn du danach zurückkehrst und noch einmal schummelst, wirst du für mindestens 24 Monate eingeschränkt.
 
