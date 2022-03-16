@@ -16,7 +16,7 @@
 
 ## 提名
 
-[谱面审核员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 的摸图经验丰富，并且能提名谱面。他们的职责是确保谱面的质量既能达到[上架标准 (Ranking Criteria)](/wiki/Ranking_Criteria)，也能达到他们个人的质量标准。
+[谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 的摸图经验丰富，并且能提名谱面。他们的职责是确保谱面的质量既能达到[上架标准 (Ranking Criteria)](/wiki/Ranking_Criteria)，也能达到他们个人的质量标准。
 
 [审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) 成员也能提名谱面。但这不是他们的主要职责。
 
