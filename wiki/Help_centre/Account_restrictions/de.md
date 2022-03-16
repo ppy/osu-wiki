@@ -92,7 +92,7 @@ In den meisten Fällen verdoppelt jede Einschränkung auf deinem Account die Lä
 
 Wenn du zum Beispiel wegen Schummelns eingeschränkt wirst, nach einer Beschwerde zurückkehrst und dann erneut schummelst, wirst du für mindestens 12 Monate eingeschränkt (das Doppelte der sechs Monate), bevor wir irgendeine Beschwerde von dir prüfen. Wenn du danach zurückkehrst und noch einmal schummelst, wirst du für mindestens 24 Monate eingeschränkt.
 
-Außerdem wird es nach dem ersten Verstoß immer schwieriger, eine Beschwerde einzureichen, da wir deine früheren Taten berücksichtigen werden und prüfen müssen, ob es überhaupt die Zeit und das Risiko wert ist, dich wieder anzunehmen. Nur sehr wenige (wenn es überhaupt welche gibt) Spieler kehren nach ihrer dritten Sperre erfolgreich in die Community zurück.
+Außerdem wird es nach dem ersten Verstoß immer schwieriger, eine Beschwerde einzureichen, da wir deine früheren Taten berücksichtigen werden und prüfen müssen, ob es überhaupt die Zeit und das Risiko wert ist, dich wieder anzunehmen. Nur sehr wenige Spieler (wenn es überhaupt welche gibt) kehren nach ihrer dritten Sperre erfolgreich in die Community zurück.
 
 ## Meine E-Mails werden ignoriert / Ich denke nicht, dass meine Beschwerde ordnungsgemäß bearbeitet wurde
 
