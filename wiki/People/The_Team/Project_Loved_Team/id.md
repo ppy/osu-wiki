@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 3fe983b3a55970aed91a0bcdca028253d918ae5d
 tags:
   - captain
   - captains
@@ -16,7 +14,7 @@ tags:
 
 ## Kapten
 
-Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpilih yang bertindak selaku kapten (*captain*) pada [mode permainannya](/wiki/Game_mode) masing-masing. Tiap-tiap kapten memiliki tanggung jawab untuk menominasikan beatmap-beatmap yang dianggap mewakili aspirasi komunitas secara luas ke dalam kategori Loved. Mereka juga menulis deskripsi singkat tentang beatmap-beatmap yang mereka nominasikan di setiap siklusnya.
+Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpilih yang bertindak selaku kapten (*captain*) pada [mode permainannya](/wiki/Game_mode) masing-masing. Tiap-tiap kapten memiliki tanggung jawab untuk menominasikan beatmap-beatmap yang dianggap mewakili aspirasi komunitas secara luas ke dalam kategori Loved. Mereka juga menulis deskripsi singkat tentang beatmap-beatmap yang mereka nominasikan di setiap siklusnya untuk membantu pembaca mengenali lebih dalam mengenai map tersebut jika mereka belum pernah mengetahui atau memainkan map tersebut.
 
 ### osu!
 
@@ -55,8 +53,8 @@ Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpil
 
 Koordinator secara garis besar bertanggung jawab untuk memastikan semua kapten saling bekerja sama antar satu sama lain demi kelancaran Project Loved. Mereka bertugas untuk menulis berita, membuat topik forum, memelihara sumber daya yang ada, serta mengawal opini publik seputar kategori Loved.
 
-- ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
-- ![][flag_FR] [Panacotta](https://osu.ppy.sh/users/2850983)
+- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
+- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
 
 ## Peninjau metadata beatmap
 
@@ -66,7 +64,6 @@ Peninjau metadata bertugas untuk memeriksa kesiapan setiap beatmap yang hendak d
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
-- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 - ![][flag_ES] [PuigdemontLoL](https://osu.ppy.sh/users/7080063)
@@ -76,8 +73,7 @@ Peninjau metadata bertugas untuk memeriksa kesiapan setiap beatmap yang hendak d
 
 Moderator konten terdiri dari anggota-anggota khusus [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) yang mengambil bagian dalam penilaian konten visual dan aural, termasuk dalam beatmap yang akan disiapkan untuk pemungutan suara.
 
-- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
-- ![][flag_FR] [Panacotta](https://osu.ppy.sh/users/2850983)
+- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
 - ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437)
 
 ## Anggota yang sudah pensiun
@@ -87,6 +83,7 @@ Di bawah ini tercantum pengguna yang pernah menjadi bagian Project Loved Team
 ### Koordinator
 
 - ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
+- ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
 
 ### Kapten-kapten osu!
 
@@ -94,6 +91,7 @@ Di bawah ini tercantum pengguna yang pernah menjadi bagian Project Loved Team
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)
 - ![][flag_CA] [Kaifin](https://osu.ppy.sh/users/2596942)
+- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
 - ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453)
