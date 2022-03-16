@@ -120,6 +120,6 @@ Bitte habe Verständnis, dass das Senden einer E-Mail an diese Adresse nur eine 
 | Folgeverstöße (Multi-Accounting, Account-Sharing, Community-Verhalten) | 6 Monate | Beschwerdebedingungen treffen zu, Rücksetzung (sofern angebracht), Sperrung von Turnieren für ein Jahr pro Verstoß |
 | Cheaten | 6 Monate | Beschwerdebedingungen treffen zu, Sperrung von Turnieren für ein Jahr, und vollständige Rücksetzung |
 | Exzessives Fehlverhalten | Variabel | Beschwerdebedingungen treffen zu. Auszeit hängt von dem früheren Verhalten ab. |
-| Cheaten/Teilen für einen Turnier | 6 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, dauerhafte Sperrung von Turnieren |
-| Nachfolgende Verstöße | 6 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, Sperrung von Turnieren für ein Jahr pro Verstoß |
+| Cheaten/Teilen für einen Turnier | 12 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, dauerhafte Sperrung von Turnieren |
+| Nachfolgende Verstöße (Cheaten) | 12 bis 24 Monate | Beschwerdebedingungen treffen zu, Rücksetzung, Sperrung von Turnieren für ein Jahr pro Verstoß |
 | Verabscheuenswürdiges oder schwer missbräuchliches Fehlverhalten | Unbestimmt | Oftmals für immer und ohne Chance auf Beschwerde |
