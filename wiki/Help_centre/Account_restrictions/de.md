@@ -117,7 +117,7 @@ Bitte habe Verständnis, dass das Senden einer E-Mail an diese Adresse nur eine 
 | Multi-Account | Dauerhaft (Multis) | Hauptaccount wird uneingeschränkt bleiben, möglicherweise stummgeschaltet. |
 | Exzessives Multi-Accounting | 3 Monate | Beschwerdebedingungen treffen zu, Sperrung von Turnieren für ein Jahr |
 | Teilen des Accounts | 3 Monate | Beschwerdebedingungen treffen zu, Sperrung von Turnieren für ein Jahr, und teilweise Rücksetzung |
-Folgeverstöße (Multi-Accounting, Account-Sharing, Community-Verhalten) | 6 Monate | Beschwerdebedingungen treffen zu, Rücksetzung (sofern angebracht), Sperrung von Turnieren für ein Jahr pro Verstoß |
+| Folgeverstöße (Multi-Accounting, Account-Sharing, Community-Verhalten) | 6 Monate | Beschwerdebedingungen treffen zu, Rücksetzung (sofern angebracht), Sperrung von Turnieren für ein Jahr pro Verstoß |
 | Cheaten | 6 Monate | Beschwerdebedingungen treffen zu, Sperrung von Turnieren für ein Jahr, und vollständige Rücksetzung |
 | Exzessives Fehlverhalten | Variabel | Beschwerdebedingungen treffen zu. Auszeit hängt von dem früheren Verhalten ab. |
 | Cheaten/Teilen für einen Turnier | 6 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, dauerhafte Sperrung von Turnieren |
