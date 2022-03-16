@@ -30,7 +30,7 @@ Explore these mapsets (most of which are included in the video above!)
 - [osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1083470) hosted by [radar](https://osu.ppy.sh/users/7131099)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/248/Kick%27s%20For%20Liberation%205/USAO%20-%20Showdown.mp3" type="audio/mpeg">
 </audio>
 
 ### Extra Mode
@@ -43,15 +43,15 @@ And here's another dump of awesome beatmaps:
 - [osu!taiko spread of DJ Myosuke's remix](https://osu.ppy.sh/beatmapsets/692594) hosted by [jyake](https://osu.ppy.sh/users/9099822)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/248/Kick%27s%20For%20Liberation%205/USAO%20-%20Extra%20Mode.mp3" type="audio/mpeg">
 </audio>
 
-### Try Again
+### Try again
 
 Try [this osu! marathon](https://osu.ppy.sh/beatmapsets/804339) hosted by [JrSzZ](https://osu.ppy.sh/users/8845986) or [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/969024) hosted by [Kannes](https://osu.ppy.sh/users/10821432)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/248/Kick%27s%20For%20Liberation%207/USAO%20-%20Try%20again.mp3" type="audio/mpeg">
 </audio>
 
 ### Get on
@@ -59,7 +59,7 @@ Try [this osu! marathon](https://osu.ppy.sh/beatmapsets/804339) hosted by [JrSzZ
 Play through [this osu! marathon](https://osu.ppy.sh/beatmapsets/554084) hosted by [sionKotori](https://osu.ppy.sh/users/1083407)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/248/Songs/USAO%20-%20Get%20on.mp3" type="audio/mpeg">
 </audio>
 
 ### TAPIOCA
@@ -67,7 +67,7 @@ Play through [this osu! marathon](https://osu.ppy.sh/beatmapsets/554084) hosted 
 Enjoy [this osu! marathon](https://osu.ppy.sh/beatmapsets/1267298) hosted by [Realazy](https://osu.ppy.sh/users/918297) and created as a tiebreaker for Corsace Open 2020's semifinals!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/248/Songs/USAO%20-%20TAPIOCA.mp3" type="audio/mpeg">
 </audio>
 
 ### Ashigaru
@@ -75,7 +75,7 @@ Enjoy [this osu! marathon](https://osu.ppy.sh/beatmapsets/1267298) hosted by [Re
 Only one more map: [an osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1022714) hosted by [xtrem3x](https://osu.ppy.sh/users/136385). Savor it.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/248/Songs/USAO%20-%20Ashigaru.mp3" type="audio/mpeg">
 </audio>
 
 ---
