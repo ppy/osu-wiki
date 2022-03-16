@@ -68,9 +68,9 @@ Wenn wir uns entscheiden, dich wieder zuzulassen, werden wir verlangen, dass du 
 
 Zusätzlich erlauben wir keine Änderung der Flagge von deinem Account für ein Jahr.
 
-In einigen Fällen kann ein wieder zugelassener Spieler von offiziellen und mit einem Abzeichen versehenen Wettbewerben ausgeschlossen werden, sowohl als Teilnehmer als auch als Mitglied des Organisationsteams. Die Dauer der Sperrung ist 1 Jahr pro Verstoß (wenn der Nutzer zum zweiten Mal Beschwerde eingelegt hat, dauert die Sperrung 2 Jahre). Die E-Mail zur Entsperrung wird die Dauer der Sperrung darlegen.
+In einigen Fällen kann ein wieder zugelassener Spieler von offiziellen und mit einem Abzeichen versehenen Turnieren ausgeschlossen werden, sowohl als Teilnehmer als auch als Mitglied des Organisationsteams. Die Dauer der Sperrung ist 1 Jahr pro Verstoß (wenn der Nutzer zum zweiten Mal Beschwerde eingelegt hat, dauert die Sperrung 2 Jahre). Die E-Mail zur Entsperrung wird die Dauer der Sperrung darlegen.
 
-**Das Cheaten oder Teilen von Accounts während eines offiziellen Wettbewerbs oder eines Wettbewerbs mit Abzeichen wird zu einer dauerhaften Sperrung des Nutzers zu zukünftigen Wettbewerben führen.** Für diese Sperrung kann keine Beschwerde eingelegt werden (deine E-Mail wird ignoriert, solltest du es versuchen) und die Sperrung wird unter allen Umständen nicht entfernt, gemildert oder aufgegeben.
+**Das Cheaten oder Teilen von Accounts während eines offiziellen Turniers oder eines Turniers mit Abzeichen wird zu einer dauerhaften Sperrung des Nutzers zu zukünftigen Turnieren führen.** Für diese Sperrung kann keine Beschwerde eingelegt werden (deine E-Mail wird ignoriert, solltest du es versuchen) und die Sperrung wird unter allen Umständen nicht entfernt, gemildert oder aufgegeben.
 
 Der Account einiger Spieler wird vereinzelt wieder eingeschränkt nachdem ihrer Beschwerde Recht gegeben wurde und sie mit dem Spielen begonnen haben. Das ist ein automatischer Prozess und wird generell nach 24 Stunden entfernt. Zögere nicht, Fragen auf Twitter via [@osusupport](https://twitter.com/osusupport) oder durch das Senden einer E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) zu stellen, falls dir das passiert!
 
@@ -115,11 +115,11 @@ Bitte habe Verständnis, dass das Senden einer E-Mail an diese Adresse nur eine 
 | :-- | :-- | :-- |
 | Beurteilungsfehler | Keine Auszeit | Sofern als irrtümlich erwiesen, hat das keinen Einfluss auf den Account. |
 | Multi-Account | Dauerhaft (Multis) | Hauptaccount wird uneingeschränkt bleiben, möglicherweise stummgeschaltet. |
-| Exzessives Multi-Accounting | 3 Monate | Beschwerdebedingungen treffen zu, Sperrung von Wettbewerben für ein Jahr |
-| Teilen des Accounts | 3 Monate | Beschwerdebedingungen treffen zu, Sperrung von Wettbewerben für ein Jahr, und teilweise Rücksetzung |
-Folgeverstöße (Multi-Accounting, Account-Sharing, Community-Verhalten) | 6 Monate | Beschwerdebedingungen treffen zu, Rücksetzung (sofern angebracht), Sperrung von Wettbewerben für ein Jahr pro Verstoß |
-| Cheaten | 6 Monate | Beschwerdebedingungen treffen zu, Sperrung von Wettbewerben für ein Jahr, und vollständige Rücksetzung |
+| Exzessives Multi-Accounting | 3 Monate | Beschwerdebedingungen treffen zu, Sperrung von Turnieren für ein Jahr |
+| Teilen des Accounts | 3 Monate | Beschwerdebedingungen treffen zu, Sperrung von Turnieren für ein Jahr, und teilweise Rücksetzung |
+Folgeverstöße (Multi-Accounting, Account-Sharing, Community-Verhalten) | 6 Monate | Beschwerdebedingungen treffen zu, Rücksetzung (sofern angebracht), Sperrung von Turnieren für ein Jahr pro Verstoß |
+| Cheaten | 6 Monate | Beschwerdebedingungen treffen zu, Sperrung von Turnieren für ein Jahr, und vollständige Rücksetzung |
 | Exzessives Fehlverhalten | Variabel | Beschwerdebedingungen treffen zu. Auszeit hängt von dem früheren Verhalten ab. |
-| Cheaten/Teilen für einen Wettbewerb | 6 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, dauerhafte Sperrung von Wettbewerben |
-| Nachfolgende Verstöße | 6 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, Sperrung von Wettbewerben für ein Jahr pro Verstoß |
+| Cheaten/Teilen für einen Turnier | 6 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, dauerhafte Sperrung von Turnieren |
+| Nachfolgende Verstöße | 6 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, Sperrung von Turnieren für ein Jahr pro Verstoß |
 | Verabscheuenswürdiges oder schwer missbräuchliches Fehlverhalten | Unbestimmt | Oftmals für immer und ohne Chance auf Beschwerde |
