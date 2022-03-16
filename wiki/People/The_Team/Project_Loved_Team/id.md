@@ -14,7 +14,7 @@ tags:
 
 ## Kapten
 
-Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpilih yang bertindak selaku kapten (*captain*) pada [mode permainannya](/wiki/Game_mode) masing-masing. Tiap-tiap kapten memiliki tanggung jawab untuk menominasikan beatmap-beatmap yang dianggap mewakili aspirasi komunitas secara luas ke dalam kategori Loved. Mereka juga menulis deskripsi singkat tentang beatmap-beatmap yang mereka nominasikan di setiap siklusnya untuk membantu pembaca mengenali lebih dalam mengenai map tersebut jika mereka belum pernah mengetahui atau memainkan map tersebut.
+Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpilih yang bertindak selaku kapten (*captain*) pada [mode permainannya](/wiki/Game_mode) masing-masing. Tiap-tiap kapten memiliki tanggung jawab untuk menominasikan beatmap-beatmap yang dianggap mewakili aspirasi komunitas secara luas ke dalam kategori Loved. Mereka juga menulis deskripsi singkat tentang beatmap-beatmap yang mereka nominasikan di setiap siklusnya untuk mengenalkan beatmap-beatmap tersebut kepada para pembaca apabila mereka belum pernah mengetahui atau memainkan beatmap tersebut sebelumnya.
 
 ### osu!
 
