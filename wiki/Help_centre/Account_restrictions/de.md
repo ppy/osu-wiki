@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: b830432c4768e242ce32ad592010de960bbefdeb
----
-
 # Einschränkungen des Accounts
 
 Eine Einschränkung ist ein zeitlich begrenzter Ausschluss aus der Community für Accounts, die abnormales, verdächtiges oder regel-brechendes Verhalten zeigen.
@@ -26,7 +21,7 @@ Wenn dein Account eingeschränkt wurde, verfalle nicht in Panik. Folge bitte die
 - **Kontaktiere unser [Account-Support-Team](/wiki/People/The_Team/Account_support_team).** Wenn dein Account nach dieser Dauer immer noch eingeschränkt ist, sende bitte eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) **von der E-Mail-Adresse, die mit deinem Account verknüpft ist,** um nach Details zu deiner Einschränkung zu fragen. Stelle sicher, dass du deinen Benutzernamen sowie jedes Detail, warum du glaubst, dass dein Account eingeschränkt wurde, der E-Mail hinzufügst. Je mehr du uns erzählst, desto leichter ist es für uns, das Problem zu lösen.
 - Wenn du der festen Überzeugung bist, dass deine Einschränkung ein Irrtum ist, dann kontaktiere uns bitte sofort, damit wir deinen Fall besprechen können.
 
-Wenn dein Account aufgrund von [Regelbruch](/wiki/Rules) eingeschränkt wurde, wird eine Auszeit von drei Monaten gesetzt, bis du wieder eine Beschwerde einlegen darfst.
+Wenn dein Account aufgrund von [Regelbruch](/wiki/Rules) eingeschränkt wurde, musst du mindestens **drei Monate** warten, bis du wieder eine Beschwerde einlegen darfst. Diese Zeitspanne wird von uns als *Cooldown* bezeichnet, und wenn du geschummelt hast, beträgt sie stattdessen sechs Monate.
 
 Wenn dein originaler Account nicht eingeschränkt ist, dann darfst du dich dort einloggen und normal weiterspielen, aber stelle sicher, dass du ab diesem Zeitpunkt nicht mehr in deine Multi-Accounts einloggst. Machst du es trotzdem, wird das zu härteren Strafen führen.
 
@@ -47,7 +42,7 @@ Wir bitten Spieler von zu Recht eingeschränkten Accounts einige Zeit zu warten,
 
 - **Habe Spaß am Spiel!** Während dein Account eingeschränkt ist und du eine Auszeit hast, kannst du immer noch das Spiel spielen (solange du auf deinem originalen Account spielst!). Die Scores, die du erreichst werden eingereicht und bleiben dir erhalten nachdem die Einschränkung aufgehoben wurde, sofern dein Account nicht zurückgesetzt wird.
 - **Behalte gutes Verhalten bei.** Wir verstehen, dass ein eingeschränkter Account frustierend sein kann, aber siehe es als Chance, um etwas Auszeit zu nehmen - weg von der Community. Versuche Interaktionen mit der Community für zumindest ein paar Tage zu vermeiden (egal, ob es über Discord, Social Media oder andere Formen von Kontakten ist), um die Aktionen zu reflektieren, die gegebenenfalls zu einer Einschränkung deines Accounts geführt haben.
-- **Versichere dich, dass du die Regeln respektierst.** Langfristige Einschränkungen sind Bestrafungen für das Brechen der Regeln. Wenn du weitermachst während der Einschränkung, dann wird die Auszeit für das Einreichen einer Beschwerde auf 3 Monate zurückgesetzt. Das beinhaltet beispielsweise weiteres Schummeln, auf den Account anderer Spieler zugreifen oder neue Accounts erstellen, um der Einschränkung zu entgehen.
+- **Versichere dich, dass du die Regeln respektierst.** Langfristige Einschränkungen sind Bestrafungen für das Brechen der Regeln. Wenn du während der Einschränkung weitermachst, dann wird die Auszeit für das Einreichen einer Beschwerde auf mindestens **drei Monate** zurückgesetzt. Das beinhaltet beispielsweise weiteres Schummeln (in diesem Fall sechs Monate), auf den Account anderer Spieler zugreifen oder neue Accounts erstellen, um der Einschränkung zu entgehen.
 - **Folge den Anweisungen des Support-Teams.** Die drei monatige Auszeit ist eine Chance, um deine eigenen Aktionen zu reflektieren. Wenn du versucht Beschwerde vor dem Ablaufen der Auszeit einzureichen, werden deine E-Mails ignoriert. Wenn du unsicher bist, wann deine Auszeit ausläuft, und du Beschwerde einlegen darfst oder auf welchem Account du spielen solltest (und die Beschwerde aus einreichen), darfst du uns gerne eine E-Mail senden, um zu fragen.
 - **Zögere nicht uns zu kontaktieren, wenn du irgendwelche Fragen hast.** Solange du nicht versuchst, die Strafe zu umgehen, werden wir dir gerne jede Frage über die Einschränkung deines Accounts beantworten!
 
@@ -86,10 +81,18 @@ Manche Verstöße führen dazu, dass dein Account bei der Entsperrung zurückges
 Es gibt verschiedene Gründe, warum eine Beschwerde verweigert werden kann.
 
 - **Sie wurde zu früh gesendet.** Wenn die Auszeit für deinen Account noch nicht vorüber ist, dann wird deine Beschwerde abgelehnt. Sofern du unsicher bist, wann du die Beschwerde einreichen kannst, dann antworte bitte auf unsere Antwort - wir werden dir das richtige Datum mitteilen.
-- **Deine Beschwerde war unzureichend oder unvollständig.** Wenn deine Beschwerde nicht ausreichend die 4 oben genannten Punkte abdeckt, fordern wir eine Überarbeitung. Das setzt **nicht** unbedingt die Auszeit für deinen Account zurück und du darfst jederzeit deine neue Beschwerde einreichen! Jedoch wird deine Beschwerde wegen Unwahrheit abgelehnt und deine Auszeit auf 3 Monate zurückgestellt, solltest du lügen oder Verstöße (hauptsächlich Multi-Accounting oder Cheaten) verstecken, die du begangen hast. Das ist eine weitere Chance für dich, deine Aktionen zu reflektieren und sicher zu stellen, dass du nichts vergessen hast.
-- **Du bist ausgewichen oder hast auf anderen Accounts gespielt.** Einen weiteren Account zu erstellen, um zu spielen, während dein Account eingeschränkt ist, wird als Versuch, die Einschränkung zu umgehen, gewertet und setzt die Auszeit auf 3 Monate zurück, ausgehend von dem Erstelldatum des weiteren Accounts. Wenn du zu oft versuchst, die Einschränkung zu umgehen, dann wird deine Beschwerde möglicherweise dauerhaft verweigert. Wenn du noch während der Einschränkung deine Multi-Accounts nutzt, wird die Auszeit ebenfalls zurückgesetzt. Bedenke, dass Multi-Accounting gegen die [Regeln](/wiki/Rules) ist und erwartet wird, dass du nur auf deinem originalen Account spielst. Wenn du unsicher bist, welcher Account als dein originaler zählt, dann sende uns eine E-Mail und wir werden dich informieren!
+- **Deine Beschwerde war unzureichend oder unvollständig.** Wenn deine Beschwerde nicht ausreichend die 4 oben genannten Punkte abdeckt, fordern wir eine Überarbeitung. Das setzt **nicht** unbedingt die Auszeit für deinen Account zurück und du darfst jederzeit deine neue Beschwerde einreichen! Jedoch wird deine Beschwerde wegen Unwahrheit abgelehnt und deine Auszeit auf mindestens **drei Monate** zurückgestellt, solltest du lügen oder Verstöße (hauptsächlich Multi-Accounting oder Cheaten) verstecken, die du begangen hast. Das ist eine weitere Chance für dich, deine Aktionen zu reflektieren und sicher zu stellen, dass du nichts vergessen hast.
+- **Du bist ausgewichen oder hast auf anderen Accounts gespielt.** Einen weiteren Account zu erstellen, um zu spielen, während dein Account eingeschränkt ist, wird als Versuch, die Einschränkung zu umgehen, gewertet und setzt die Auszeit auf mindestens **drei Monate** zurück, ausgehend von dem Erstelldatum des weiteren Accounts. Wenn du zu oft versuchst, die Einschränkung zu umgehen, dann wird deine Beschwerde möglicherweise dauerhaft verweigert. Wenn du noch während der Einschränkung deine Multi-Accounts nutzt, wird die Auszeit ebenfalls zurückgesetzt. Bedenke, dass Multi-Accounting gegen die [Regeln](/wiki/Rules) ist und erwartet wird, dass du nur auf deinem originalen Account spielst. Wenn du unsicher bist, welcher Account als dein originaler zählt, dann sende uns eine E-Mail und wir werden dich informieren!
 - **Du hast weitere Verstöße während einer Einschränkung begangen.** Es gibt keinen Grund, die Einschränkung für jemanden aufzuheben, der fortführend Regeln bricht, obwohl er bereits eingeschränkt wurde. Wenn du weiter Verstöße begehst, dann wird die Auszeit deines Accounts auf das Datum deines letzten Verstoßes zurückgesetzt. Im Falle von extremen oder weiterführenden Verstößen wird deine Beschwerde möglicherweise dauerhaft gesperrt.
 - **Deine Geschichte ist zu schwerwiegend.** Bei extremen Verstößen oder bei Spielern, die nach einer erfolgreichen Beschwerde nochmal eingeschränkt werden, werden wir möglicherweise dein Verhalten als zu massiv einordnen, als dass du das Spiel zum momentanen Zeitpunkt spielen darfst. Sollte das auf dich zutreffen, empfehlen wir dir **eine lange Zeit** zu warten, bevor du eine weitere Beschwerde einreichst. Vergewissere dich, dass du in dieser Zeit keine weiteren Regeln brichst.
+
+## Was passiert, wenn ich nicht zum ersten Mal Beschwerde einlege?
+
+In den meisten Fällen verdoppelt jede Einschränkung auf deinem Account die Länge der nächsten Einschränkung und den damit verbundenen Cooldown.
+
+Wenn du zum Beispiel wegen Schummelns eingeschränkt wirst, nach einer Beschwerde zurückkehrst und dann erneut schummelst, wirst du für mindestens 12 Monate eingeschränkt (das Doppelte der sechs Monate), bevor wir irgendeine Beschwerde von dir prüfen. Wenn du danach zurückkehrst und noch einmal schummelst, wirst du für mindestens 24 Monate eingeschränkt.
+
+Außerdem wird es nach dem ersten Verstoß immer schwieriger, eine Beschwerde einzureichen, da wir deine früheren Taten berücksichtigen werden und prüfen müssen, ob es überhaupt die Zeit und das Risiko wert ist, dich wieder anzunehmen. Nur sehr wenige (wenn es überhaupt welche gibt) Spieler kehren nach ihrer dritten Sperre erfolgreich in die Community zurück.
 
 ## Meine E-Mails werden ignoriert / Ich denke nicht, dass meine Beschwerde ordnungsgemäß bearbeitet wurde
 
@@ -114,7 +117,9 @@ Bitte habe Verständnis, dass das Senden einer E-Mail an diese Adresse nur eine 
 | Multi-Account | Dauerhaft (Multis) | Hauptaccount wird uneingeschränkt bleiben, möglicherweise stummgeschaltet. |
 | Exzessives Multi-Accounting | 3 Monate | Beschwerdebedingungen treffen zu, Sperrung von Wettbewerben für ein Jahr |
 | Teilen des Accounts | 3 Monate | Beschwerdebedingungen treffen zu, Sperrung von Wettbewerben für ein Jahr, und teilweise Rücksetzung |
-| Cheaten | 3 Monate | Beschwerdebedingungen treffen zu, Sperrung von Wettbewerben für ein Jahr, und vollständige Rücksetzung |
+Folgeverstöße (Multi-Accounting, Account-Sharing, Community-Verhalten) | 6 Monate | Beschwerdebedingungen treffen zu, Rücksetzung (sofern angebracht), Sperrung von Wettbewerben für ein Jahr pro Verstoß |
+| Cheaten | 6 Monate | Beschwerdebedingungen treffen zu, Sperrung von Wettbewerben für ein Jahr, und vollständige Rücksetzung |
 | Exzessives Fehlverhalten | Variabel | Beschwerdebedingungen treffen zu. Auszeit hängt von dem früheren Verhalten ab. |
 | Cheaten/Teilen für einen Wettbewerb | 6 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, dauerhafte Sperrung von Wettbewerben |
 | Nachfolgende Verstöße | 6 Monate | Beschwerdebedingungen treffen zu, entsprechende Rücksetzung, Sperrung von Wettbewerben für ein Jahr pro Verstoß |
+| Verabscheuenswürdiges oder schwer missbräuchliches Fehlverhalten | Unbestimmt | Oftmals für immer und ohne Chance auf Beschwerde |
