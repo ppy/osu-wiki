@@ -274,7 +274,7 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 
 | Englisch | Deutsch |
 | :-: | :-- |
-| `fruits` | `Früchte` |
+| `fruits` | `Fruits` |
 | `juice stream` | `Juice-Stream` |
 | `hold notes` | `Hold-Notes` |
 | `hit object` | `Hit-Objekt` |
@@ -339,7 +339,7 @@ Abkürzungen, Akronyme und Initialen müssen großgeschrieben werden, allerdings
 
 ---
 
-Übersetze `e.g.` mit "zum Beispiel" und `i.e.`mit "also" oder "das heißt".
+Übersetze `e.g.` mit "z. B." und `i.e.` mit "also" oder "d. h.".
 
 ---
 
