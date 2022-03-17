@@ -37,7 +37,7 @@ Le Taiko Suiji Cup était géré par divers membres de la communauté d'osu!taik
 | Poste | Membre(s) |
 | :-- | :-- |
 | Organisateur | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
-| Sélectionneur de map | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Sélectionneur de beatmap | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Arbitre | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_RU] [-dragon67](https://osu.ppy.sh/users/4328734), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CA] [390](https://osu.ppy.sh/users/7622460), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) |
 | Streamer | ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_DE] [\[TaikoTori\]](https://osu.ppy.sh/users/1074143) |
 | Commentateur | ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
@@ -98,7 +98,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | **i like grosses baguettes** (![][flag_FR] **[Yona la loutre](https://osu.ppy.sh/users/7930622)**, ![][flag_US] [Bauregaurd](https://osu.ppy.sh/users/2598555), ![][flag_SK] [Deathwing1306](https://osu.ppy.sh/users/7491210), ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269), ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_CA] [Vmannnn](https://osu.ppy.sh/users/10942577)) |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | **BabySnakes is Dumb** (![][flag_PT] **[BabySnakes](https://osu.ppy.sh/users/4669728)**, ![][flag_GB] [Ali161102](https://osu.ppy.sh/users/7582420), ![][flag_MY] [CrabCow](https://osu.ppy.sh/users/9755504), ![][flag_JP] [kazu0611](https://osu.ppy.sh/users/3784062), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857), ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934)) |
 
-## Liste des maps
+## Liste des beatmaps
 
 ### Grandes finales
 
@@ -456,22 +456,22 @@ Dimanche, 2 Septembre 2018:
 - La salle de match va être créée par l'arbitre et les capitaines des deux équipes vont être invités. Le capitaine est ensuite en charge d'inviter le reste de l'équipe. Si le capitaine d'une équipe n'est pas en ligne, l'arbitre va inviter n'importe quel autre joueur de cette équipe et ce joueur sera en charge d'inviter l'équipe.
 - Les équipes ont 15 minutes après l'heure prévue pour réunir au moins 4 joueurs disponibles pour jouer le match. Si les 15 minutes passent et que l'équipe n'a pas réuni assez de joueur pour jouer le match, l'autre équipe remporte une victoire par défaut.
 - Une fois que tous les joueurs ont rejoint la salle, les capitaines vont lancer la commande `!roll`; le gagnant du lancer va choisir le premier warmup, le premier ban et le premier pick.
-- La Map Pool va contenir 16 maps et son format est telle que suit:
-  - La Map Pool A va contenir: 4 NoMod, 2 Hidden, 2 HardRock, 2 FreeMod
-  - La Map Pool B va contenir: 2 Challenge, 1 DoubleTime, 1 Easy, 1 Hidden+HardRock, et le Tiebreaker. Ce maps sont **non bannissables**.
-  - Chaque équipe peut bannir une map de la Map Pool A. Les maps de la Map Pool B ne peuvent jamais être bannies.
-- Les maps de warmups sont autorisées tout au long du tournoi. Chaque équipe peut choisir une map warmup.
+- La beatmap Pool va contenir 16 beatmaps et son format est telle que suit:
+  - La beatmap Pool A va contenir: 4 NoMod, 2 Hidden, 2 HardRock, 2 FreeMod
+  - La beatmap Pool B va contenir: 2 Challenge, 1 DoubleTime, 1 Easy, 1 Hidden+HardRock, et le Tiebreaker. Ce beatmaps sont **non bannissables**.
+  - Chaque équipe peut bannir une beatmap de la beatmap Pool A. Les beatmaps de la beatmap Pool B ne peuvent jamais être bannies.
+- Les beatmaps de warmups sont autorisées tout au long du tournoi. Chaque équipe peut choisir une beatmap warmup.
   - Les warmups ne doivent pas excéder 4:30.
-- L'arbitre peut donner le rôle d'hôte aux joueurs uniquement pour les warmups. L'arbitre va être l'hôte pour les reste du match après les warmups. Une équipe va choisir une map en donnant le nom de la map dans le chat multiplayer et l'arbitre va sélectionner la map.
-- Chaque équipe à 1 bans par match. Les maps bannies sont enlevées de la liste des maps pour la durée du match et ne peuvent pas être sélectionnées par les équipes. Une équipe a le droit de bannir 1 maps du même mod.
-- Chaque équipe a 3 minutes pour sélectionner une map; si une équipe ne parvient pas à choisir dans le temps imparti, la sélection de map passe à l'équipe adverse. Cela n'a pas d'effet sur l'ordre de sélection qui suit.
-- Il n'y a pas de restriction sur l'ordre de sélection des maps; les équipes peuvent choisir toutes les maps disponibles à tout moment peu importe le mod.
-- Sur les maps FreeMod, au moins deux joueurs de chaque équipe doivent utiliser Hidden, HardRock, ou les deux.
+- L'arbitre peut donner le rôle d'hôte aux joueurs uniquement pour les warmups. L'arbitre va être l'hôte pour les reste du match après les warmups. Une équipe va choisir une beatmap en donnant le nom de la beatmap dans le chat multiplayer et l'arbitre va sélectionner la beatmap.
+- Chaque équipe à 1 bans par match. Les beatmaps bannies sont enlevées de la liste des beatmaps pour la durée du match et ne peuvent pas être sélectionnées par les équipes. Une équipe a le droit de bannir 1 beatmaps du même mod.
+- Chaque équipe a 3 minutes pour sélectionner une beatmap; si une équipe ne parvient pas à choisir dans le temps imparti, la sélection de beatmap passe à l'équipe adverse. Cela n'a pas d'effet sur l'ordre de sélection qui suit.
+- Il n'y a pas de restriction sur l'ordre de sélection des beatmaps; les équipes peuvent choisir toutes les beatmaps disponibles à tout moment peu importe le mod.
+- Sur les beatmaps FreeMod, au moins deux joueurs de chaque équipe doivent utiliser Hidden, HardRock, ou les deux.
 - Hidden et HardRock sont autorisés mais ne sont pas obligatoires sur les TieBreakers.
 - Seulement une personne de chaque seed est autorisé à jouer dans la salle à tout moment. C'est-à-dire une équipe peut avoir seulement 1 seed A, 1 seed B et 1 seed C.
-- Une fois que le choix de la map a été verrouillé, les joueurs ont 3 minutes pour se préparer. L'arbitre va commencer le match quand tous les joueurs sont prêts. Si les 3 minutes sont écoulées, l'arbitre va forcer le début du match avec la commande `!mp start 15` et le match commencera avec les personnes qui sont prêtes à ce moment dans la salle.
-- Le gagnant de la map est déterminé par l'équipe avec le plus grand score.
-- Dans le cas d'une déconnexion, un rematch va être effectué seulement si la déconnexion est arrivée dans les 30 premières secondes de la map. Cela peut être déterminé par le lien mp. Si un joueur déconnecte après que 30 secondes de map sont passées, leur score ne va pas être pris en compte.
+- Une fois que le choix de la beatmap a été verrouillé, les joueurs ont 3 minutes pour se préparer. L'arbitre va commencer le match quand tous les joueurs sont prêts. Si les 3 minutes sont écoulées, l'arbitre va forcer le début du match avec la commande `!mp start 15` et le match commencera avec les personnes qui sont prêtes à ce moment dans la salle.
+- Le gagnant de la beatmap est déterminé par l'équipe avec le plus grand score.
+- Dans le cas d'une déconnexion, un rematch va être effectué seulement si la déconnexion est arrivée dans les 30 premières secondes de la beatmap. Cela peut être déterminé par le lien mp. Si un joueur déconnecte après que 30 secondes de beatmap sont passées, leur score ne va pas être pris en compte.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"

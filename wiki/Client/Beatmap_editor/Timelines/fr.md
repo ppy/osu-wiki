@@ -8,11 +8,11 @@ Dans l'[éditeur de beatmap](/wiki/Client/Beatmap_editor), il existe trois timel
 
 ## Lecteur de morceaux
 
-![Timeline de la chanson](/wiki/shared/BE_STL.jpg "Timeline de la chanson")
+![Timeline de la musique](/wiki/shared/BE_STL.jpg "Timeline de la musique")
 
 Le lecteur de morceaux est visible dans n'importe quelle partie de l'éditeur de beatmap.
 
-A gauche, il y a l'horodatage en millisecondes et le pourcentage de la durée du morceau. Le pourcentage peut afficher `intro` ou `outro` s'il y a du storyboarding avant ou après la chanson.
+A gauche, il y a l'horodatage en millisecondes et le pourcentage de la durée du morceau. Le pourcentage peut afficher `intro` ou `outro` s'il y a du storyboarding avant ou après la musique.
 
 Au centre, il montre la timeline avec les signets et les boutons obligatoires du lecteur de morceaux. Le bouton `Test` sauvegardera votre beatmap puis commencera à la tester à partir du timestamp actuel.
 
@@ -111,9 +111,9 @@ La timeline du [timing](/wiki/Client/Beatmap_editor/Timing) est située sous l'o
 
 Au centre se trouve la timeline elle-même. Elle utilise des drapeaux blancs et bleus pour décrire le type de point temporel qu'ils représentent, comme décrit dans la section [couleurs des drapeaux](#couleurs-des-drapeaux).
 
-Sur la droite, elle montre l'écriture de la signature temporelle (connue sous le nom de "mètre") et le réglage du métronome. Dans l'image ci-dessus, le compteur est à `4:2`. Cela signifie que la signature temporelle actuelle se trouve au deuxième temps de la quatrième mesure de la chanson.
+Sur la droite, elle montre l'écriture de la signature temporelle (connue sous le nom de "mètre") et le réglage du métronome. Dans l'image ci-dessus, le compteur est à `4:2`. Cela signifie que la signature temporelle actuelle se trouve au deuxième temps de la quatrième mesure de la musique.
 
-Le jeu de métronome joue un tic-tac constant au BPM donné. Il sert également d'aide pour estimer la valeur du BPM de la chanson.
+Le jeu de métronome joue un tic-tac constant au BPM donné. Il sert également d'aide pour estimer la valeur du BPM de la musique.
 
 ### Couleurs des drapeaux
 
