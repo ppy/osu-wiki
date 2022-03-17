@@ -45,7 +45,7 @@ Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à tail
 
 | Mod | Informations stockées |
 | :-- | :-- |
-| Target Practice | Précision totale de tous les hits. Divisez ce chiffre par le nombre de cibles sur la map pour obtenir la précision affichée dans le jeu. |
+| Target Practice | Précision totale de tous les hits. Divisez ce chiffre par le nombre de cibles sur la beatmap pour obtenir la précision affichée dans le jeu. |
 
 Il y a encore d'autres données comme le mouvement de la souris et des touches appuyées dans des données en [LZMA](https://fr.wikipedia.org/wiki/LZMA).
  

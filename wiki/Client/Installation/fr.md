@@ -41,23 +41,23 @@ Il y a deux façons d'ajouter beatmaps, via le site web ou osu!direct (nécessit
 ### Site web
 
 1. Allez sur la [liste des beatmaps](https://osu.ppy.sh/beatmapsets) et connectez-vous au site web.
-2. Trouvez une chanson que vous aimeriez jouer.
+2. Trouvez une musique que vous aimeriez jouer.
 3. Cliquez sur l'icône de téléchargement pour enregistrer la beatmap sur votre ordinateur.
 4. Localisez et ouvrez le fichier beatmap, il a une extension `.osz`.
    - Alternativement, vous pouvez aussi placer le fichier dans le répertoire `Songs` de l'installation d'osu!, ou glisser le ficher sur la fenêtre d'osu!.
 5. osu! s'occupera automatiquement du reste pour vous et chargera la beatmap.
-   - Si, pour une raison quelconque, vous ne les voyez pas, appuyez sur `F5` dans la [sélection des chansons](/wiki/Client/Interface#écran-de-sélection-des-beatmaps) pour retraiter vos beatmaps.
+   - Si, pour une raison quelconque, vous ne les voyez pas, appuyez sur `F5` dans la [sélection des musiques](/wiki/Client/Interface#écran-de-sélection-des-beatmaps) pour retraiter vos beatmaps.
 
 ### osu!direct
 
 *Note : Vous devez avoir un tag osu!supporter et une connexion internet pour utiliser osu!direct.*
 
 1. Ouvrez osu!, et cliquez sur le bouton osu!direct sur le côté droit de l'écran principal.
-2. Trouvez une chanson que vous aimeriez jouer.
-3. Double-cliquez sur la chanson dans la liste ou cliquez sur `Download` à droite pour la télécharger.
+2. Trouvez une musique que vous aimeriez jouer.
+3. Double-cliquez sur la musique dans la liste ou cliquez sur `Download` à droite pour la télécharger.
    - Si vous ne voulez pas télécharger la vidéo qui accompagne la beatmap, cliquez sur `DL NoVideo` à la place.
 4. Lorsque osu! a fini de télécharger la beatmap, il la chargera automatiquement.
-   - Si, pour une raison quelconque, vous ne les voyez pas, appuyez sur `F5` dans la [sélection des chansons](/wiki/Client/Interface#écran-de-sélection-des-beatmaps) pour retraiter vos beatmaps.
+   - Si, pour une raison quelconque, vous ne les voyez pas, appuyez sur `F5` dans la [sélection des musiques](/wiki/Client/Interface#écran-de-sélection-des-beatmaps) pour retraiter vos beatmaps.
 
 ## Ajout de skins
 

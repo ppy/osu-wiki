@@ -36,7 +36,7 @@ La Catch French Cup 4 était gérée par différents membres de la communauté.
 | Poste | Membre(s) |
 | :-- | :-- |
 | Organisateur | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Sélectionneur de map | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Sélectionneur de beatmap | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Arbitre | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
 | Streamer | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Commentateur | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/138728), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467), ![][flag_FR] [Tbotas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [\_Manyura](https://osu.ppy.sh/users/8335913) |
@@ -79,7 +79,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
-## Liste des maps
+## Liste des beatmaps
 
 ### Finales
 

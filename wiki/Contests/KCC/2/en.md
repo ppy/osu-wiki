@@ -8,15 +8,15 @@ tags:
 
 ![KCC2022 banner](img/banner.png)
 
-The **Korean Charting Contest 2022** (***KCC2022***) is an osu!mania mapping contest for users from ![][flag_KR] South Korea. It is the second instalment of the Korean Charting Contest.
+The **Korean Charting Contest 2022** (***KCC2022***) is an osu!mania mapping contest for users from ![][flag_KR] South Korea. It was the second instalment of the Korean Charting Contest.
 
 ## Contest schedule
 
 | Event | Timestamp (UTC+9) |
 | --: | :-- |
 | Submission phase | 2022-01-30/2022-02-27 |
-| Judging phase | 2022-02-28/2022-03-13 |
-| Results announcement | 2022-03-14 |
+| Judging phase | 2022-02-28/2022-03-12 |
+| Results announcement | 2022-03-13 |
 
 ## Prizes
 
@@ -40,6 +40,8 @@ The **Korean Charting Contest 2022** (***KCC2022***) is an osu!mania mapping con
 ## Links
 
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1507792)
+- [Results sheet](https://docs.google.com/spreadsheets/d/1IBIBR7fjgqM90sQEiBWg_J1x1IZqD1PoCevrm7RHZ1g/edit?usp=sharing)
+- [Entries](https://lulu.s-ul.eu/PkrKU3sx)
 
 ## Song list
 
@@ -58,6 +60,14 @@ The **Korean Charting Contest 2022** (***KCC2022***) is an osu!mania mapping con
 | fishbowl feat.Yukichi Kasaku/men - Shinkai | 3:37 | 133 |
 | Tokyo Jihen - Sounan | 3:20 | 156 |
 | Kabocha feat. Sennzai - Morphobia | 3:54 | 145 |
+
+## Results
+
+| Place | Mapper |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [Rio1-](https://osu.ppy.sh/users/5604329) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [JuHaa](https://osu.ppy.sh/users/15526127) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [WintMin](https://osu.ppy.sh/users/11161386) |
 
 ## Ruleset
 

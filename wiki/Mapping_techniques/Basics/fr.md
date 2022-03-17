@@ -14,7 +14,7 @@ Normalement, nous devrions dire : "Pensez à une fonction étrange", mais cela a
 
 ![](img/Rotational_Symmetry.png "Un exemple de symétrie par rapport à l'origine")
 
-Pour vous guider dans le processus de compréhension de la symétrie, nous allons passer en revue divers exemples de symétrie dans une map déjà classée.
+Pour vous guider dans le processus de compréhension de la symétrie, nous allons passer en revue divers exemples de symétrie dans une beatmap déjà classée.
 Expliquer la symétrie sous forme de texte (comme nous le faisons actuellement) n'est pas aussi efficace sans l'image visuelle.
 
 ### Symétrie horizontale
@@ -48,8 +48,8 @@ Pour faire simple, cette tentative est ratée parce que peu de gens l'ont remarq
 
 ### Autres exemples
 
-Cette map contient d'autres bons exemples à utiliser ; il suffit de la parcourir.
-Toutefois, si vous voulez examiner d'autres maps, celles de Krisom sont considérées par beaucoup comme un excellent exemple de modèles et de structures de qualité, avec quelques bons exemples de symétrie.
+Cette beatmap contient d'autres bons exemples à utiliser ; il suffit de la parcourir.
+Toutefois, si vous voulez examiner d'autres beatmaps, celles de Krisom sont considérées par beaucoup comme un excellent exemple de modèles et de structures de qualité, avec quelques bons exemples de symétrie.
 
 ## Jumps
 
@@ -64,12 +64,12 @@ Ils sont également utilisés occasionnellement dans les difficultés Easy et No
 
 ### Utilisation abusive des jumps
 
-Une erreur fréquente des nouveaux mappeurs est qu'ils voient les jumps utilisés dans les difficultés Insane d'autres mappeurs, et qu'ils vont alors introduire des jumps dans leur map sans savoir comment les utiliser correctement, ce qui crée souvent un désordre.
+Une erreur fréquente des nouveaux mappeurs est qu'ils voient les jumps utilisés dans les difficultés Insane d'autres mappeurs, et qu'ils vont alors introduire des jumps dans leur beatmap sans savoir comment les utiliser correctement, ce qui crée souvent un désordre.
 Si vous voulez utiliser les jumps, posez-vous une simple question : "Y a-t-il quelque chose dans la musique ou le rythme qui suggère des jumps ici ?"
 
 Il est recommandé de rester à l'écart des jumps "au feeling" jusqu'à ce que vous ayez plus d'expérience dans le mapping et que vous compreniez quand les utiliser correctement.
-Oui, un mappeur expérimenté utilisant des jumps "au feeling" peut réaliser une map absolument géniale.
-Pour votre première map, cependant, il est souvent préférable de rester simple et de travailler à partir de là.
+Oui, un mappeur expérimenté utilisant des jumps "au feeling" peut réaliser une beatmap absolument géniale.
+Pour votre première beatmap, cependant, il est souvent préférable de rester simple et de travailler à partir de là.
 
 ## Streams
 
@@ -81,17 +81,17 @@ Les streams sont devenus populaires grâce à la musique de beatmania IIDX, à l
 ### Quand l'utiliser
 
 Les streams sont mieux utilisés à des difficultés plus élevées lorsque le stream correspond à des sons dans la musique.
-Dans la plupart des chansons, cela ne se produit qu'à certains moments de la musique, mais certains genres comme l'Eurobeat ont beaucoup d'endroits où l'on peut placer des streams.
+Dans la plupart des musiques, cela ne se produit qu'à certains moments de la musique, mais certains genres comme l'Eurobeat ont beaucoup d'endroits où l'on peut placer des streams.
 Certains streams ne contiennent que des cercles de, d'autres sont mélangés à des sliders.
 
 Vous devriez remarquer que les instruments ont fréquemment 3 notes toutes espacées d'un quart.
-Vous pouvez associer un stream à chacune de ces instances, ce qui donne une map avec des stream fréquents et courts.
+Vous pouvez associer un stream à chacune de ces instances, ce qui donne une beatmap avec des stream fréquents et courts.
 
 ### Quand ne pas l'utiliser
 
 Dans osu!, il est recommandé de ne mettre les streams que là où ils correspondent à des instruments dans la musique.
 Agir autrement est souvent appelé *[overmapping](/wiki/Beatmapping/Overmapping)*.
 Il est tout à fait possible de placer les streams là où ils ne mènent à rien, mais ce n'est pas recommandé, surtout si vous êtes un nouveau mappeur.
-D'autre part, les maps du mode osu!taiko créent un nouveau motif qui s'adapte à la musique (ce qui est exceptionnel car les tambours tiennent généralement le rythme).
-On trouve donc généralement plus de streams dans les maps du mode osu!taiko.
+D'autre part, les beatmaps du mode osu!taiko créent un nouveau motif qui s'adapte à la musique (ce qui est exceptionnel car les tambours tiennent généralement le rythme).
+On trouve donc généralement plus de streams dans les beatmaps du mode osu!taiko.
 Toutefois, il n'est jamais recommandé d'abuser des streams.

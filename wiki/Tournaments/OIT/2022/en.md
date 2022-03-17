@@ -41,7 +41,7 @@ The osu! Indonesia Tournament #12 (2022) is run by various osu! community member
 | Host | ![][flag_ID] [Arca 9](https://osu.ppy.sh/users/14042319), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966) |
 | Co-host | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Millie](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) |
 | Mappool selector | ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Millie](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
-| Playtester | ![][flag_ID] [Pancoz](https://osu.ppy.sh/users/13156137), ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_ID] [\[-Yukari-\]](https://osu.ppy.sh/users/8780223), ![][flag_ID] [Zoneeox](https://osu.ppy.sh/users/6596134), ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) |
+| Playtester | ![][flag_ID] [Pancoz](https://osu.ppy.sh/users/13156137), ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_ID] [\[-Yukari-\]](https://osu.ppy.sh/users/8780223), ![][flag_ID] [Zoneeox](https://osu.ppy.sh/users/6596134), ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837), ![][flag_AU] [Enumi](https://osu.ppy.sh/users/10625283) |
 | Streamer | ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [Millie](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Rumah](https://osu.ppy.sh/users/12086495), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_HK] [ShadeCegLgMn](https://osu.ppy.sh/users/12086495) |
 | Commentator | ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Millie](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677), ![][flag_ID] [Deorum](https://osu.ppy.sh/users/5933031), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [My Angel Eimi](https://osu.ppy.sh/users/3793938), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545) |
 | Referee | ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [-Foxee-](https://osu.ppy.sh/users/14989473), ![][flag_ID] [lucidators](https://osu.ppy.sh/users/10154981), ![][flag_ID] [YaeMyMommy](https://osu.ppy.sh/users/17278897), ![][flag_ID] [Aerotracker](https://osu.ppy.sh/users/24396418), ![][flag_ID] [NotDens](https://osu.ppy.sh/users/17311355), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [Tazkiz](https://osu.ppy.sh/users/3738010), ![][flag_PH] [-Pekora-](https://osu.ppy.sh/users/17959882), ![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_HK] [Smato](https://osu.ppy.sh/users/5616307) |
@@ -97,6 +97,36 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 | 32 | ![][flag_ID] [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | 4.89 |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (139 MB)](http://drive.google.com/u/0/uc?id=1jpF6xT8N0uDkqF_0ANUQfdprhKPIEO3A&export=download)**
+
+- NoMod
+  1. [AliA - joker (Kujinn) \[NM1\]](https://osu.ppy.sh/beatmapsets/1556595#osu/3179908)
+  2. [Snowman - Oo warera yorokobi tataubeshi, shu yo (jazzberry) \[Scarlet Dream\]](https://osu.ppy.sh/beatmapsets/1501700#osu/3076939)
+  3. [otetsu - Meiteki Cybernetics (Raijodo) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1317461#osu/2729687)
+  4. [Warak - REANIMATE (Crezz) \[Femboy Collab\]](https://osu.ppy.sh/beatmapsets/1664988#osu/3398960)
+  5. [Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) (IOException) \[Insane \[240 bpm tourney edit\]\]](https://osu.ppy.sh/beatmapsets/1697641#osu/3468405)
+  6. [Masahiro "Godspeed" Aoki - Frostbite (Cut Ver.) (Niva) \[kuyusu's Expert\]](https://osu.ppy.sh/beatmapsets/1501511#osu/3081403)  
+- Hidden
+  1. [KikuoHana - God of Longevity (free playtest) \[Malevolent\]](https://osu.ppy.sh/beatmapsets/973817#osu/2038580)
+  2. [namirin\* - Darling Dance (Kuro Fuyusaki) \[Sea Food Extra\]](https://osu.ppy.sh/beatmapsets/1521734#osu/3474842)
+  3. [xi - Vanitas (RLC) \[Memoriam OD9\]](https://osu.ppy.sh/beatmapsets/89682#osu/243656)  
+- HardRock
+  1. [BUMP OF CHICKEN - Makka na Sora o Mita Darou ka (CoLouRed GlaZeE) \[Jabberwocky\]](https://osu.ppy.sh/beatmapsets/1318074#osu/2731559)
+  2. [kozato - Shijuugo-nen no Yukizakura (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/759281#osu/1596845)
+  3. [RefraQ & Vorso - Biomes (Cut Ver.) (Mir) \[Phases\]](https://osu.ppy.sh/beatmapsets/1403806#osu/2895406)  
+- DoubleTime
+  1. [LiSA - Akogare Bouenkyou (Meg) \[Scope\]](https://osu.ppy.sh/beatmapsets/524642#osu/1113528)
+  2. [yuikonnu - Gigantic O.T.N (Camo) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1362797#osu/3336914)
+  3. [zts - dreamenddischarger (Luscent) \[resurrection\]](https://osu.ppy.sh/beatmapsets/1414566#osu/2915636)
+  4. [Gesu no Kiwami Otome. - Jinsei no Hari (Agatsu) \[schoolboy's Insane\]](https://osu.ppy.sh/beatmapsets/1247336#osu/2693503)  
+- FreeMod
+  1. [MOSAIC.WAV - Tsugihagi: \<\=\> Make Peace! (Riana) \[Acylica's Extra\]](https://osu.ppy.sh/beatmapsets/1394111#osu/3392607)
+  2. [syatten remixed celas - Bird Sprite -Awakening of Light- (emu1337) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1321314#osu/2741605)  
+- Tiebreaker
+  1. **[Dark PHOENiX - Ryokugan no Jealousy (Camo) \[Green-Eyed Monster\]](https://osu.ppy.sh/beatmapsets/1530977#osu/3131384)**
 
 ### Quarterfinals
 
@@ -200,6 +230,39 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [rerulili feat. Dancing Dolls - Kami no Manima Ni (Sephira) \[RLC's Insane\]](https://osu.ppy.sh/beatmapsets/1182518#osu/2465404)
 
 ## Match results
+
+### Quarterfinals
+
+Friday, 11 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[D E L O N](https://osu.ppy.sh/users/11983229)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/98616981) |
+| Lower | **[Venta](https://osu.ppy.sh/users/11320627)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/98618243) |
+| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [MineFrostID](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/98618247) |
+| Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Egao](https://osu.ppy.sh/users/12419257) | [#1](https://osu.ppy.sh/community/matches/98618239) |
+| Lower | **[BlankTap](https://osu.ppy.sh/users/10137131)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Naikaze](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/98621818) |
+| Upper | [deeto](https://osu.ppy.sh/users/10069909) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/98656251) |
+
+Saturday, 12 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Herbayse](https://osu.ppy.sh/users/4924094)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [Takagi-chan](https://osu.ppy.sh/users/11379592) | [#1](https://osu.ppy.sh/community/matches/98651724) |
+| Lower | **[StayMusical](https://osu.ppy.sh/users/12688176)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/98649380) |
+| Lower | [cfood](https://osu.ppy.sh/users/8626190) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | [#1](https://osu.ppy.sh/community/matches/98654038) |
+| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/98656061) |
+| Lower | **[-Kiichirou-](https://osu.ppy.sh/users/5791467)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/98661088) |
+
+Monday, 13 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Venta](https://osu.ppy.sh/users/11320627)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [StayMusical](https://osu.ppy.sh/users/12688176) | [#1](https://osu.ppy.sh/community/matches/98696946) |
+| Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Herbayse](https://osu.ppy.sh/users/4924094) | [#1](https://osu.ppy.sh/community/matches/98696938) |
+| Lower | **[D E L O N](https://osu.ppy.sh/users/11983229)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/98700817) |
+| Lower | **[Daffy](https://osu.ppy.sh/users/5968633)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467) | [#1](https://osu.ppy.sh/community/matches/98701565) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [rHO](https://osu.ppy.sh/users/1629553) | [#1](https://osu.ppy.sh/community/matches/98703486) |
 
 ### Round of 16
 
@@ -335,12 +398,13 @@ Sunday, 27 February 2022:
 2. Each player has to ban **one beatmap** (on the Round of 32 and Round of 16) and **two beatmaps** (from the Quarterfinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Each player may not ban two beatmaps from the same mod pool, except from the NoMod pool. For example, banning NM1 and NM2 is allowed; banning NM1 and HD1 is allowed; banning HD1 and HD2, however, is *not* allowed.
    - Banning does not apply in the Qualifier lobbies.
-3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
+3. Each player is free to select one warm-up beatmap. Picking beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier lobbies.
 4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
    - Playing a FreeMod pick without any mods applied is not allowed.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
