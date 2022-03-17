@@ -1,4 +1,4 @@
-# Comment faire modder votre map
+# Comment faire modder votre beatmap
 
 Le [modding](/wiki/Modding) de votre beatmap est une étape essentielle du [processus de classement](/wiki/Beatmap_ranking_procedure). Il existe plusieurs façons d'accomplir cette tâche.
 

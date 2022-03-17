@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: b830432c4768e242ce32ad592010de960bbefdeb
+---
+
 # Einschränkungen des Accounts
 
 Eine Einschränkung ist ein zeitlich begrenzter Ausschluss aus der Community für Accounts, die abnormales, verdächtiges oder regel-brechendes Verhalten zeigen.

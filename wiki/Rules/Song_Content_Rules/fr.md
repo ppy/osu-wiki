@@ -6,7 +6,7 @@ Avec une grande variété de musique disponible, la plupart d'entre elles pourro
 - Promotrice de tension ou de division raciale
 - Extrêmement et insupportablement fort ou excessivement écrêté
 
-Veuillez noter que les chansons au contenu explicite sont [couvertes par des règles différentes](/wiki/Rules/Explicit_Content).
+Veuillez noter que les musiques au contenu explicite sont [couvertes par des règles différentes](/wiki/Rules/Explicit_Content).
 
 ## Qu'est-ce qui est considéré comme un contenu "fortement politisé" ?
 
@@ -22,4 +22,4 @@ Chaque fois que votre proposition est supprimée, le membre présidant la [Nomin
 
 Vous pouvez contester cela avec eux par messages privés si vous le souhaitez, ou demander l'avis d'autres personnes pour justifier votre revendication de l'adéquation de la musique. Si vous ne parvenez toujours pas à trouver un terrain d'entente sur ce point, votre demande peut être soumise à un vote par consensus parmi les membres actuels de la NAT, qui décideront collectivement si votre musique est acceptable ou non.
 
-À l'exception des mises en ligne inappropriés, tous les utilisateurs disposent d'un délai de **mise en ligne* avant que des pénalités ne soient infligées en raison de la nature incertaine de cette décision. Une fois cette marge de manœuvre passée, les utilisateurs qui choisissent de continuer de mettre en ligne des pistes inappropriés se verront infliger un [silence](/wiki/Silence) de 42 heures ainsi que la suppression de leur mise en ligne.
+À l'exception des mises en ligne inappropriés, tous les utilisateurs disposent d'un délai de *mise en ligne* avant que des pénalités ne soient infligées en raison de la nature incertaine de cette décision. Une fois cette marge de manœuvre passée, les utilisateurs qui choisissent de continuer de mettre en ligne des beatmaps inappropriés se verront infliger un [silence](/wiki/Silence) de 42 heures ainsi que la suppression de leur mise en ligne.
