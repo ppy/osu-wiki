@@ -101,27 +101,27 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_TR] | Turkey | Mar 19 (Sat) 08:00 UTC | Mar 19 (Sat) 18:00 UTC+10 | Mar 19 (Sat) 11:00 UTC+3 |
-| Malaysia | ![][flag_MY] | ![][flag_RU] | Russian Federation | Mar 19 (Sat) 10:00 UTC | Mar 19 (Sat) 18:00 UTC+8 | Mar 19 (Sat) 13:00 UTC+3 |
 | Chile | ![][flag_CL] | ![][flag_CN] | China | Mar 19 (Sat) 12:00 UTC | Mar 19 (Sat) 09:00 UTC-3 | Mar 19 (Sat) 20:00 UTC+8 |
-| Canada | ![][flag_CA] | ![][flag_NL] | Netherlands | Mar 19 (Sat) 15:00 UTC | Mar 19 (Sat) 10:00 UTC-5 | Mar 19 (Sat) 16:00 UTC+1 |
-| Sweden | ![][flag_SE] | ![][flag_CH] | Switzerland | Mar 19 (Sat) 17:00 UTC | Mar 19 (Sat) 18:00 UTC+1 | Mar 19 (Sat) 18:00 UTC+1 |
-| United States | ![][flag_US] | ![][flag_CR] | Costa Rica | Mar 19 (Sat) 20:00 UTC | Mar 19 (Sat) 15:00 UTC-5 | Mar 19 (Sat) 14:00 UTC-6 |
-| Brazil | ![][flag_BR] | ![][flag_NZ] | New Zealand | Mar 19 (Sat) 22:00 UTC | Mar 19 (Sat) 19:00 UTC-3 | Mar 20 (Sun) 10:00 UTC+12 |
+| Malaysia | ![][flag_MY] | ![][flag_RU] | Russian Federation | Mar 19 (Sat) 14:00 UTC | Mar 19 (Sat) 22:00 UTC+8 | Mar 19 (Sat) 17:00 UTC+3 |
+| France | ![][flag_FR] | ![][flag_AR] | Argentina | Mar 19 (Sat) 20:00 UTC | Mar 19 (Sat) 21:00 UTC+1 | Mar 19 (Sat) 17:00 UTC-3 |
+| Japan | ![][flag_JP] | ![][flag_CO] | Colombia | Mar 19 (Sat) 22:00 UTC | Mar 20 (Sun) 07:00 UTC+9 | Mar 19 (Sat) 17:00 UTC-5 |
 
 ### Sunday, March 20, 2022
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_MX] | Mexico | Mar 20 (Sun) 00:00 UTC | Mar 20 (Sun) 09:00 UTC+9 | Mar 19 (Sat) 18:00 UTC-6 |
-| Japan | ![][flag_JP] | ![][flag_CO] | Colombia | Mar 20 (Sun) 02:00 UTC | Mar 20 (Sun) 11:00 UTC+9 | Mar 19 (Sat) 21:00 UTC-5 |
+| Brazil | ![][flag_BR] | ![][flag_NZ] | New Zealand | Mar 20 (Sun) 00:00 UTC | Mar 19 (Sat) 21:00 UTC-3 | Mar 20 (Sun) 12:00 UTC+12 |
+| South Korea | ![][flag_KR] | ![][flag_MX] | Mexico | Mar 20 (Sun) 04:00 UTC | Mar 20 (Sun) 13:00 UTC+9 | Mar 19 (Sat) 22:00 UTC-6 |
 | Hong Kong | ![][flag_HK] | ![][flag_PL] | Poland | Mar 20 (Sun) 09:00 UTC | Mar 20 (Sun) 17:00 UTC+8 | Mar 20 (Sun) 10:00 UTC+1 |
+| Australia | ![][flag_AU] | ![][flag_TR] | Turkey | Mar 20 (Sun) 10:00 UTC | Mar 20 (Sun) 20:00 UTC+10 | Mar 20 (Sun) 13:00 UTC+3 |
 | United Kingdom | ![][flag_GB] | ![][flag_PH] | Philippines | Mar 20 (Sun) 10:00 UTC | Mar 20 (Sun) 10:00 UTC | Mar 20 (Sun) 18:00 UTC+8 |
-| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | Mar 20 (Sun) 11:00 UTC | Mar 20 (Sun) 18:00 UTC+7 | Mar 20 (Sun) 19:00 UTC+8 |
-| Taiwan | ![][flag_TW] | ![][flag_PT] | Portugal | Mar 20 (Sun) 12:00 UTC | Mar 20 (Sun) 20:00 UTC+8 | Mar 20 (Sun) 12:00 UTC |
 | Italy | ![][flag_IT] | ![][flag_FI] | Finland | Mar 20 (Sun) 13:00 UTC | Mar 20 (Sun) 14:00 UTC+1 | Mar 20 (Sun) 15:00 UTC+2 |
+| Taiwan | ![][flag_TW] | ![][flag_PT] | Portugal | Mar 20 (Sun) 14:00 UTC | Mar 20 (Sun) 22:00 UTC+8 | Mar 20 (Sun) 14:00 UTC |
+| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | Mar 20 (Sun) 14:00 UTC | Mar 20 (Sun) 21:00 UTC+7 | Mar 20 (Sun) 22:00 UTC+8 |
 | Germany | ![][flag_DE] | ![][flag_CZ] | Czech Republic | Mar 20 (Sun) 15:00 UTC | Mar 20 (Sun) 16:00 UTC+1 | Mar 20 (Sun) 16:00 UTC+1 |
-| France | ![][flag_FR] | ![][flag_AR] | Argentina | Mar 20 (Sun) 17:00 UTC | Mar 20 (Sun) 18:00 UTC+1 | Mar 20 (Sun) 14:00 UTC-3 |
+| Canada | ![][flag_CA] | ![][flag_NL] | Netherlands | Mar 20 (Sun) 16:00 UTC | Mar 20 (Sun) 11:00 UTC-5 | Mar 20 (Sun) 17:00 UTC+1 |
+| United States | ![][flag_US] | ![][flag_CR] | Costa Rica | Mar 20 (Sun) 18:00 UTC | Mar 20 (Sun) 13:00 UTC-5 | Mar 20 (Sun) 12:00 UTC-6 |
+| Sweden | ![][flag_SE] | ![][flag_CH] | Switzerland | Mar 20 (Sun) 19:00 UTC | Mar 20 (Sun) 20:00 UTC+1 | Mar 20 (Sun) 20:00 UTC+1 |
 
 ## Mappools
 
