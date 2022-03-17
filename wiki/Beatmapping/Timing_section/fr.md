@@ -10,7 +10,7 @@ tags:
 
 # Section de timing
 
-*Pour des conseils sur le timing des beatmaps, voir : [Comment timer les chansons](/wiki/Guides/How_to_Time_Songs)*
+*Pour des conseils sur le timing des beatmaps, voir : [Comment timer les musiques](/wiki/Guides/How_to_Time_Songs)*
 
 Une **section de timing** dans l'[éditeur de beatmap](/wiki/Client/Beatmap_editor) désigne un changement dans le timing (par exemple [offset](/wiki/Disambiguation/Offset) ou [BPM](/wiki/Beatmapping/Beats_per_minute)) d'une [beatmap](/wiki/Beatmap). Les beatmaps peuvent avoir une seule section de timing qui occupe tout le morceau ou de nombreuses sections de timings qui sont réparties tout au long du morceau.
 

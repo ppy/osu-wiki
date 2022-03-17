@@ -43,7 +43,7 @@ La Catch French Beginner 4 était gérée par différents membres de la communau
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
 | Coorganisateur | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Sélectionneur de map | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| Sélectionneur de beatmap | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
 | Arbitre | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
 | Commentateur | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
@@ -331,7 +331,7 @@ Dimanche, 3 Mai 2020:
 ### Qualifications
 
 - Plus de détails concernant les résultats des qualifications sont accessibles dans la [section des liens](#liens) via la feuille des statistiques.
-- Le rang moyen est déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
+- Le rang moyen est déterminé par : somme des positions du joueur sur chaque beatmap divisée par le nombre de beatmaps composant le mappool des qualifications.
 
 | Seed | Joueur | Rang moyen |
 | --: | :-- | --: |
@@ -360,14 +360,14 @@ Dimanche, 3 Mai 2020:
 2. La restriction de rang s'applique au maximum à **#2,500** sur le mode de jeu osu!catch.
 3. Un retard de plus de 10 minutes à un match entraînera une victoire par défaut pour l'autre joueur.
 4. Un langage correct est exigé, de la part des participants comme du staff.
-5. Les joueurs banniront à chaque match **deux maps** chacun pour un total de **quatre maps** bannies.
-6. Les scores fail comptent, même si le joueur est mort à la fin de la map.
+5. Les joueurs banniront à chaque match **deux beatmaps** chacun pour un total de **quatre beatmaps** bannies.
+6. Les scores fail comptent, même si le joueur est mort à la fin de la beatmap.
 7. Les joueurs lanceront un `!roll` au début du match pour déterminer l'ordre des choix.
 8. Même lors d'un tournoi, osu! reste un jeu, soyez amicaux et fair play.
 9. Ce tournoi sera en double-élimination, ce qui signifie qu'il y aura un loser's bracket.
 10. N'importe quel joueur francophone peut participer au tournoi.
 11. Les joueurs auront deux bans par match.
-12. Les joueurs ne pourront pas ban plus d'une map dans un mod.
+12. Les joueurs ne pourront pas ban plus d'une beatmap dans un mod.
 13. Le Hidden est autorisé en HardRock et DoubleTime.
 14. Le Tiebreaker est joué en FreeMod.
 

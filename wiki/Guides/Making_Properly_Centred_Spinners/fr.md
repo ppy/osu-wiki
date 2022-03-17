@@ -62,7 +62,7 @@ Dans ce guide, il n'y aura pas d'informations sur la façon de rendre les bords 
 
 ## Comment créer des fonds de spinner qui correspondent au fond de la beatmap ?
 
-Si vous voulez que votre spinner ait le même fond que la map réelle, cela peut être difficile à cause d'un bug dans osu! introduit par un changement de gameplay qui n'a jamais été corrigé. Tout d'abord, nous devons faire correspondre le fond *dans le jeu* et non *dans l'éditeur de beatmap*. La beatmap place les éléments scénarisés (fond et vidéo) 5 pixels plus haut sur 1024x768 que le reste de la map.
+Si vous voulez que votre spinner ait le même fond que la beatmap réelle, cela peut être difficile à cause d'un bug dans osu! introduit par un changement de gameplay qui n'a jamais été corrigé. Tout d'abord, nous devons faire correspondre le fond *dans le jeu* et non *dans l'éditeur de beatmap*. La beatmap place les éléments scénarisés (fond et vidéo) 5 pixels plus haut sur 1024x768 que le reste de la beatmap.
 
 ### Ne vous inquiétez pas si le spinner ne semble pas correct dans l'éditeur
 
