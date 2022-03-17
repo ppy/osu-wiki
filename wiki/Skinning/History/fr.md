@@ -125,7 +125,7 @@ Remarques :
 
 | Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
+| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
 
 Remarques :
 
@@ -141,7 +141,7 @@ Remarques :
 
 | Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
+| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
 
 Remarques :
 
@@ -157,7 +157,7 @@ Remarques :
 
 | Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
+| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
 
 Remarques :
 
@@ -173,7 +173,7 @@ Remarques :
 
 | Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
+| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
 
 Remarques :
 
@@ -189,7 +189,7 @@ Remarques :
 
 | Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
+| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
 
 Remarques :
 
@@ -205,7 +205,7 @@ Remarques :
 
 | Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
+| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
 
 Remarques :
 
@@ -221,7 +221,7 @@ Remarques :
 
 | Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
+| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
 
 Remarques :
 
@@ -237,7 +237,7 @@ Remarques :
 
 | Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
+| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
 
 Remarques :
 
@@ -253,7 +253,7 @@ Remarques :
 
 | Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
+| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
 
 Remarques :
 
@@ -269,7 +269,7 @@ Remarques :
 
 | Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
+| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
 
 Remarques :
 
@@ -285,7 +285,7 @@ Remarques :
 
 | Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
+| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
 
 Remarques :
 
@@ -301,7 +301,7 @@ Remarques :
 
 | Versions | Peut être animé | Skinnable sur la beatmap | Mode de fusion | Origine | Taille SD suggérée |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnu) | - |
+| Toutes | ![Non][false] | ![Oui][true] | Normal | (inconnue) | - |
 
 Remarques :
 
