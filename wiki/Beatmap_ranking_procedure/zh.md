@@ -28,13 +28,13 @@
 
 过审状态存在的意义是把谱面推给社区，从而找出谱面中可能存在的隐藏问题。玩家可以从过审谱面的谱面讨论页向 BN 或者 NAT 反映谱面问题。与待定 (Pending) 谱面不同，谱师不能在谱面状态不发生改变的前提下，再次提交以修改这张谱面。若要修改谱面，谱师只能先请求[重置提名](#nomination-resets)，然后听取其他人意见或建议来修改它。
 
-当 BN 或者 NAT 成员认为谱面含有某些与上架标准 (Ranking Criteria) 无关的质量问题时，偶尔也会[否决 (veto)](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) 谱面。
-
 ## 提名重置
 
 提名重置能确保摸图员、BN 和 NAT 成员在谱面进入上架队列前，能检查到已排除问题、最新版本的谱面。
 
 当谱师提交更新了过审状态的谱面时，系统会立即重置谱面的提名。当 BN 或 NAT 发现过审谱面内的问题，或是[全局管理团队 (GMT)](/wiki/People/The_Team/Global_Moderation_Team) 成员发现谱面内存在不适当的内容时，也可以重置提名。谱面一旦重置提名就会立即下架 (Disqualified，或 DQ)，同时从上架队列内移除。
+
+当 BN 或者 NAT 成员认为谱面含有某些与上架标准 (Ranking Criteria) 无关的质量问题时，偶尔也会[否决 (veto)](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) 谱面。
 
 ## 上架
 
