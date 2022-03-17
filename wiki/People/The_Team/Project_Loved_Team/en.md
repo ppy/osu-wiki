@@ -18,8 +18,8 @@ The Project Loved Team mostly consists of *captains* for each [game mode](/wiki/
 
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983)
-- ![][flag_US] [Wixonater](https://osu.ppy.sh/users/10083084)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
+- ![][flag_US] [Wixonater](https://osu.ppy.sh/users/10083084)
 
 ### osu!taiko
 
@@ -44,7 +44,7 @@ The Project Loved Team mostly consists of *captains* for each [game mode](/wiki/
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
-- ![][flag_ES] [PuigdemontLoL](https://osu.ppy.sh/users/7080063)
+- ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612)
 
 ## Coordinators
@@ -58,19 +58,21 @@ Coordinators are mainly responsible for making sure all the captains work togeth
 
 Metadata reviewers check through every beatmap that will be put up for voting, and work with mappers to fix any mistakes before the maps are potentially moved to Loved.
 
+- ![][flag_ES] [Baal Sphere](https://osu.ppy.sh/users/11279465)
 - ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
-- ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
+- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
-- ![][flag_ES] [PuigdemontLoL](https://osu.ppy.sh/users/7080063)
+- ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
 ## Beatmap content moderators
 
 Content moderators consist of dedicated [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members that take part in the assessment of the visual and aural content included in the beatmaps that will be put up for voting.
 
+- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
 - ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437)
 
@@ -82,6 +84,7 @@ Below listed are the users, who once were a part of the Project Loved Team.
 
 - ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
 - ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 
 ### osu! captains
 
@@ -89,7 +92,6 @@ Below listed are the users, who once were a part of the Project Loved Team.
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)
 - ![][flag_CA] [Kaifin](https://osu.ppy.sh/users/2596942)
-- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
 - ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453)
@@ -135,8 +137,19 @@ Below listed are the users, who once were a part of the Project Loved Team.
 - ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707)
 - ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 
+### Beatmap metadata reviewers
+
+- ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
+
+### Beatmap content moderators
+
+- ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108)
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
+
 ### Video editors
 
+- ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
 - ![][flag_GB] [Striiker](https://osu.ppy.sh/users/7291594)
 - ![][flag_US] [ThatsNotAName](https://osu.ppy.sh/users/9682904)
 - ![][flag_HU] [verto](https://osu.ppy.sh/users/2015300)
