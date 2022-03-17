@@ -29,7 +29,7 @@ Les réunions sont généralement annoncées plus d'une semaine à l'avance dans
 
 - Création de manuels/guides pour les BN (il faudrait d'abord terminer ceux de la NAT)
 - Quantification de l'activité et de la réinitialisation des BN pour une évaluation efficace (proposition en attente)
-- Si/comment/quand la sévérité de la réinitialisation s'applique à la qualité générale de la map.
+- Si/comment/quand la sévérité de la réinitialisation s'applique à la qualité générale de la beatmap.
 
 ### Sujets abandonnés
 

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: b830432c4768e242ce32ad592010de960bbefdeb
+---
+
 # Restrictions du compte
 
 Une **restriction de compte** est un bannissement de la communauté appliqué sur les comptes ayant un comportement anormal, suspect ou contraire aux règles.

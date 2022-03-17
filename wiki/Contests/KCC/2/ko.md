@@ -8,15 +8,15 @@ tags:
 
 ![KCC2022 배너](img/banner.png)
 
-**Korean Charting Contest 2022** (***KCC2022***) 은 한국인을 위한 osu!mania 매핑 대회입니다. 이 대회는 두 번째 대회입니다.
+**Korean Charting Contest 2022** (***KCC2022***) 은 한국인을 위한 osu!mania 매핑 대회입니다. 이 대회는 두 번째 대회였습니다.
 
 ## 대회 일정
 
 | 일정 | 날짜 (UTC+9) |
 | --: | :-- |
 | 제출 기간 | 2022-01-30/2022-02-27 |
-| 심사 기간 | 2022-02-28/2022-03-13 |
-| 결과 발표 | 2022-03-14 |
+| 심사 기간 | 2022-02-28/2022-03-12 |
+| 결과 발표 | 2022-03-13 |
 
 ## 상품
 
@@ -40,6 +40,8 @@ tags:
 ## 링크
 
 - [포럼 스레드](https://osu.ppy.sh/community/forums/topics/1507792)
+- [결과 시트](https://docs.google.com/spreadsheets/d/1IBIBR7fjgqM90sQEiBWg_J1x1IZqD1PoCevrm7RHZ1g/edit?usp=sharing)
+- [엔트리 모음](https://lulu.s-ul.eu/PkrKU3sx)
 
 ## 곡 리스트
 
@@ -58,6 +60,14 @@ tags:
 | fishbowl feat.Yukichi Kasaku/men - Shinkai | 3:37 | 133 |
 | Tokyo Jihen - Sounan | 3:20 | 156 |
 | Kabocha feat. Sennzai - Morphobia | 3:54 | 145 |
+
+## 결과
+
+| 순위 | 매퍼 |
+| :-: | :-- |
+| ![금상](/wiki/shared/crown-gold.png "1위") | ![][flag_KR] [Rio1-](https://osu.ppy.sh/users/5604329) |
+| ![은상](/wiki/shared/crown-silver.png "2위") | ![][flag_KR] [JuHaa](https://osu.ppy.sh/users/15526127) |
+| ![동상](/wiki/shared/crown-bronze.png "3위") | ![][flag_KR] [WintMin](https://osu.ppy.sh/users/11161386) |
 
 ## 규칙
 

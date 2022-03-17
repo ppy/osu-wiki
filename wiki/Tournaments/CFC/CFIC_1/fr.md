@@ -37,7 +37,7 @@ La Catch French Intermediate Cup était gérée par différents membres de la co
 | Poste | Membre(s) |
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263) |
-| Sélectionneur de map | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Sélectionneur de beatmap | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
 | Arbitres | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734) |
 | Streamers | ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Commentateurs | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
@@ -81,7 +81,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
-## Liste des maps
+## Liste des beatmaps
 
 ### Grandes Finales
 

@@ -288,7 +288,7 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 
 | Raccourci | Action |
 | :-- | :-- |
-| `T` | Définit le BPM et le décalage lorsque vous tapez sur le rythme de la chanson. |
+| `T` | Définit le BPM et le décalage lorsque vous tapez sur le rythme de la musique. |
 | `Shift` tout en ajustant le BPM ou le décalage | Incrémente 5 fois le montant normal. |
 | `Ctrl` tout en ajustant le BPM | Incrémente de 0,25. |
 | `Ctrl` tout en ajustant l'offset | Incrémente de 1. |

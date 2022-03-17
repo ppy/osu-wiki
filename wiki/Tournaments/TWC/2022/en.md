@@ -50,6 +50,8 @@ The osu!taiko World Cup 2022 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1519196)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Challonge bracket](https://challonge.com/TWC_2022)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/81) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vThLpR1_d3DZvJuYNeIwZCAvUlBiiKviX_ssZrmqIuh-Oh6yZbfevBL7oH9p3bC8uFF1TJ4WK1ug5yI/pubhtml)
 
 ## Participants
 
@@ -92,6 +94,131 @@ The osu!taiko World Cup 2022 is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [-Dusk](https://osu.ppy.sh/users/6092181), [Daniels](https://osu.ppy.sh/users/12439209), [Horiiizon](https://osu.ppy.sh/users/8071438), [overdahedge2014](https://osu.ppy.sh/users/9864847), [Metzo](https://osu.ppy.sh/users/10633982) |
 | ![][flag_US] | **United States** | **[general chicken](https://osu.ppy.sh/users/8050850)**, [R J](https://osu.ppy.sh/users/6490509), [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [Miniature Lamp](https://osu.ppy.sh/users/9821194), [ChurroChef](https://osu.ppy.sh/users/9258564), [cheese salad](https://osu.ppy.sh/users/6349821) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [AkiraPlayz](https://osu.ppy.sh/users/16039831), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [JackTVN](https://osu.ppy.sh/users/12510704), [njshift1](https://osu.ppy.sh/users/16688499) |
+
+## Match schedule: Round of 32
+
+### Saturday, March 19, 2022
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Chile | ![][flag_CL] | ![][flag_CN] | China | Mar 19 (Sat) 12:00 UTC | Mar 19 (Sat) 09:00 UTC-3 | Mar 19 (Sat) 20:00 UTC+8 |
+| Malaysia | ![][flag_MY] | ![][flag_RU] | Russian Federation | Mar 19 (Sat) 14:00 UTC | Mar 19 (Sat) 22:00 UTC+8 | Mar 19 (Sat) 17:00 UTC+3 |
+| France | ![][flag_FR] | ![][flag_AR] | Argentina | Mar 19 (Sat) 20:00 UTC | Mar 19 (Sat) 21:00 UTC+1 | Mar 19 (Sat) 17:00 UTC-3 |
+| Japan | ![][flag_JP] | ![][flag_CO] | Colombia | Mar 19 (Sat) 22:00 UTC | Mar 20 (Sun) 07:00 UTC+9 | Mar 19 (Sat) 17:00 UTC-5 |
+
+### Sunday, March 20, 2022
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Brazil | ![][flag_BR] | ![][flag_NZ] | New Zealand | Mar 20 (Sun) 00:00 UTC | Mar 19 (Sat) 21:00 UTC-3 | Mar 20 (Sun) 12:00 UTC+12 |
+| South Korea | ![][flag_KR] | ![][flag_MX] | Mexico | Mar 20 (Sun) 04:00 UTC | Mar 20 (Sun) 13:00 UTC+9 | Mar 19 (Sat) 22:00 UTC-6 |
+| Hong Kong | ![][flag_HK] | ![][flag_PL] | Poland | Mar 20 (Sun) 09:00 UTC | Mar 20 (Sun) 17:00 UTC+8 | Mar 20 (Sun) 10:00 UTC+1 |
+| Australia | ![][flag_AU] | ![][flag_TR] | Turkey | Mar 20 (Sun) 10:00 UTC | Mar 20 (Sun) 20:00 UTC+10 | Mar 20 (Sun) 13:00 UTC+3 |
+| United Kingdom | ![][flag_GB] | ![][flag_PH] | Philippines | Mar 20 (Sun) 10:00 UTC | Mar 20 (Sun) 10:00 UTC | Mar 20 (Sun) 18:00 UTC+8 |
+| Italy | ![][flag_IT] | ![][flag_FI] | Finland | Mar 20 (Sun) 13:00 UTC | Mar 20 (Sun) 14:00 UTC+1 | Mar 20 (Sun) 15:00 UTC+2 |
+| Taiwan | ![][flag_TW] | ![][flag_PT] | Portugal | Mar 20 (Sun) 14:00 UTC | Mar 20 (Sun) 22:00 UTC+8 | Mar 20 (Sun) 14:00 UTC |
+| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | Mar 20 (Sun) 14:00 UTC | Mar 20 (Sun) 21:00 UTC+7 | Mar 20 (Sun) 22:00 UTC+8 |
+| Germany | ![][flag_DE] | ![][flag_CZ] | Czech Republic | Mar 20 (Sun) 15:00 UTC | Mar 20 (Sun) 16:00 UTC+1 | Mar 20 (Sun) 16:00 UTC+1 |
+| Canada | ![][flag_CA] | ![][flag_NL] | Netherlands | Mar 20 (Sun) 16:00 UTC | Mar 20 (Sun) 11:00 UTC-5 | Mar 20 (Sun) 17:00 UTC+1 |
+| United States | ![][flag_US] | ![][flag_CR] | Costa Rica | Mar 20 (Sun) 18:00 UTC | Mar 20 (Sun) 13:00 UTC-5 | Mar 20 (Sun) 12:00 UTC-6 |
+| Sweden | ![][flag_SE] | ![][flag_CH] | Switzerland | Mar 20 (Sun) 19:00 UTC | Mar 20 (Sun) 20:00 UTC+1 | Mar 20 (Sun) 20:00 UTC+1 |
+
+## Mappools
+
+### Round of 32
+
+**[Download the mappack here (88 MB)](https://drive.google.com/uc?id=12G9mUCf-8-8GykJ7Oh76VgBW6B-ukvX5)**
+
+- NoMod
+  1. [Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (KTYN) \[Passing love\]](https://osu.ppy.sh/beatmapsets/1334132#taiko/2763983)
+  2. [t+pazolite - Troll The Cowardly (Sick Candy Terror Of Feryquitous) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/808095#taiko/1695840)
+  3. [SAVE THE QUEEN - EX-Termination (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1640909#taiko/3349161)
+  4. [meganeko - Feral (osu version) (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/1384524#taiko/2860370)
+- Hidden
+  1. [Lucky Vacuum - Daily Lunch Special (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1159807#taiko/2420011)
+  2. [t+pazolite - You are the Miserable (Fynbi) \[Master Oni\]](https://osu.ppy.sh/beatmapsets/947105#taiko/2252523)
+- Hard Rock
+  1. [Function Phantom - Euclid (tasuke912) \[Indifferentiable\]](https://osu.ppy.sh/beatmapsets/761560#taiko/1601331)
+  2. [penoreri - Lancelot \~Flame of the Rebellion\~ (Servatory) \[Inner Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1491668#taiko/3512780)
+- Double Time
+  1. [Naganuma Hideki - Funky Dealer (Fraolinch) \[Inner Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1095575#taiko/3513038)
+  2. [Earth, Wind & Fire - September (yomoha remix) (Midnaait) \[Juano's Oni\]](https://osu.ppy.sh/beatmapsets/1075239#taiko/2251301)
+- FreeMod
+  1. [EBIMAYO - BADTEK (GNKait) \[INNERONI\]](https://osu.ppy.sh/beatmapsets/1277370#taiko/2653928)
+  2. [Getty - Sonic Bass (KTYN) \[Sprint\]](https://osu.ppy.sh/beatmapsets/1719106#taiko/3513220)
+  3. [M2U - Mare Maris (radar) \[how the why 2 \<THE FINAL\>\]](https://osu.ppy.sh/beatmapsets/1719045#taiko/3513063)
+- Tiebreaker
+  1. **[Dustvoxx, Laur - FireLight (yea) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/978134#taiko/2047037)**
+
+### Qualifiers
+
+**[Download the mappack here (48 MB)](https://drive.google.com/uc?id=1Enpj3xdC_FsT4uvt7zIba2tLI4I63eyR)**
+
+- NoMod
+  1. [seatrus - morgenroete (KawaiiBass) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1712777#taiko/3499847)
+  2. [Noisia - Vigilantes (rubies87) \[Oni\]](https://osu.ppy.sh/beatmapsets/1713100#taiko/3500416)
+  3. [The Fearless Flyers - Assassin (Megafan) \[j a z z\]](https://osu.ppy.sh/beatmapsets/1712914#taiko/3500092)
+- Hidden
+  1. [xi - Parousia (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1712783#taiko/3499862)
+  2. [Irreversible Mechanism - Beyond (Heaxys) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1712779#taiko/3499852)
+- Hard Rock
+  1. [Zekk - Vespera (Nifty) \[Impulse\]](https://osu.ppy.sh/beatmapsets/1712860#taiko/3499979)
+  2. [Aether Realm - Ravensong (Raiden) \[Wings of Freedom\]](https://osu.ppy.sh/beatmapsets/1713518#taiko/3501347)
+- Double Time
+  1. [KINEMA106 - N.M.W (Nao Tomori) \[Oni\]](https://osu.ppy.sh/beatmapsets/1712810#taiko/3499915)
+  2. [Feryquitous feat. Sennzai - Rugie (Maimaing) \[somnum\]](https://osu.ppy.sh/beatmapsets/1712786#taiko/3499875)
+- FreeMod
+  1. [seatrus - O (KTYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/1712976#taiko/3500185)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1A5rJtjh4iR934PY5fLp0RXIHGZOG1lEa90WAoK9B-Ro/edit?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1dWVR84e_MCsFQnXgNZR9KBdi0AEnPIpkEdi4bu8-pbc/edit?rm=minimal).
+
+Qualifier results:
+
+| Seed | Country | Rank Sum |
+| :-: | :-- | :-: | 
+| #1 | ![][flag_JP] Japan | 16 |
+| #2 | ![][flag_KR] South Korea | 36 |
+| #3 | ![][flag_DE] Germany | 38 |
+| #4 | ![][flag_HK] Hong Kong | 65 |
+| #5 | ![][flag_US] United States | 80 |
+| #6 | ![][flag_TW] Taiwan | 88 |
+| #7 | ![][flag_BR] Brazil | 104 |
+| #8 | ![][flag_CA] Canada | 109 |
+| #9 | ![][flag_SE] Sweden | 111 |
+| #10 | ![][flag_GB] United Kingdom | 112 |
+| #11 | ![][flag_ID] Indonesia | 113* |
+| #12 | ![][flag_AU] Australia | 113* |
+| #13 | ![][flag_MY] Malaysia | 121 |
+| #14 | ![][flag_FR] France | 124 |
+| #15 | ![][flag_IT] Italy | 126 |
+| #16 | ![][flag_CL] Chile | 137 |
+| #17 | ![][flag_CN] China | 143 |
+| #18 | ![][flag_FI] Finland | 155 |
+| #19 | ![][flag_AR] Argentina | 166 |
+| #20 | ![][flag_RU] Russian Federation | 194 |
+| #21 | ![][flag_TR] Turkey | 218 |
+| #22 | ![][flag_SG] Singapore | 236 |
+| #23 | ![][flag_PH] Philippines | 238 |
+| #24 | ![][flag_CH] Switzerland | 244 |
+| #25 | ![][flag_NL] Netherlands | 247 |
+| #26 | ![][flag_NZ] New Zealand | 259 |
+| #27 | ![][flag_PT] Portugal | 262 |
+| #28 | ![][flag_CR] Costa Rica | 271 |
+| #29 | ![][flag_PL] Poland | 279 |
+| #30 | ![][flag_CZ] Czech Republic | 282 |
+| #31 | ![][flag_MX] Mexico | 296 |
+| #32 | ![][flag_CO] Colombia | 323 |
+| #33 | ![][flag_DK] Denmark | 327 |
+| #34 | ![][flag_NO] Norway | 335 |
+| #35 | ![][flag_ES] Spain | 336 |
+| #36 | ![][flag_VN] Vietnam | 354 |
+| #37 | ![][flag_AT] Austria | 370 |
+
+\**: higher average team score used as a tiebreaker*
 
 ## Ruleset
 
@@ -157,6 +284,20 @@ The osu!taiko World Cup 2022 is run by various community members.
    - The top 32 seeded teams will qualify to the Round of 32.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators.
 
+### Qualifier instructions
+
+1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
+2. The mappool will contain 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and [FreeMod](/wiki/Game_modifier#freemod). There will be no tiebreakers for this stage.
+3. The Qualifier pool will contain 10 maps. There will be 3 maps under the NoMod bracket, 2 maps for the Hidden, Hard Rock, and Double Time brackets, and 1 map for the FreeMod bracket.
+4. Teams will have to play the mappool twice at a designated time.
+   - Teams may skip individual maps or the second run altogether if they so desire.
+5. The mappool is to be played in the following order: NM1, NM2, NM3, HD1, HD2, HR1, HR2, DT1, DT2, FM1. Teams may not ask to play the pool in any other order.
+6. Each team must have 2 players for each map. They can be exchanged freely after a map is concluded.
+7. A team's score for a map is considered as the highest combined team score for that map (i.e. the sum of each individual player's score). Only the highest score out of the two runs will be used for seeding.
+8. An optional 5-minute break will be offered between the first and second play-through of the mappool.
+9. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
+10. Only the top 32 seeded teams will advance to the Round of 32.
+
 ### Stage instructions
 
 1. Following the Qualifier stage, a double elimination bracket will be played. This means that the winning team moves to the next stage while the loser gets moved to the losers bracket.
@@ -198,8 +339,9 @@ The osu!taiko World Cup 2022 is run by various community members.
 4. Every mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 5. The NoMod bracket will be played with the [No Fail](/wiki/Game_modifier/No_Fail) mod activated.
 6. The Hidden, Hard Rock and Double Time brackets will be played with the respective mods activated.
-7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, Hard Rock or both.
-   - When playing a FreeMod map, each team must have at least one of Hidden or Hard Rock selected. A player can take both mods to satisfy this requirement.
+7. The FreeMod bracket will have FreeMod activated. Each player may pick Hidden, Hard Rock or Hidden + Hard Rock.
+   - When playing a FreeMod map, at least one player of each team must use a mod.
+   - Players must select different mod combinations. Using only Hidden, Hard Rock, or Hidden + Hard Rock for both players at the same time is not allowed.
 8. The tiebreaker will be played under FreeMod conditions.
    - While playing the tiebreaker, players do not need to have a mod activated and are allowed to select the same mod combinations.
 9. The size of the NoMod bracket will be 3 for the Qualifiers, 4 for the Round of 32 and Round of 16, 5 for the Quarterfinals and Semifinals, and 6 for the Finals and Grand Finals.
