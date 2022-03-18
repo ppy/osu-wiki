@@ -12,7 +12,7 @@ If you're not in the know, we've been hosting [community meetings](/wiki/Communi
 
 Not familiar with what lazer is? Check out this brief overview:
 
-<iframe width="90%" height="315" src="https://www.youtube.com/embed/ut_SOreClcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="340" src="https://www.youtube.com/embed/ut_SOreClcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Recently, the format of these meetings has changed slightly in an effort to be both more concise and targeted (as they tended to drag on and become a bit sprawling in terms of the topics covered), and also to get more people involved in hosting them.
 
@@ -30,7 +30,7 @@ If you missed [that meeting](https://www.youtube.com/watch?v=d66pU5lsHvE), here'
 
 The most recent meeting was hosted two weeks ago, with focus on the future of leaderboards. Check it out below:
 
-<iframe width="90%" height="315" src="https://www.youtube.com/embed/HimCHAnPCCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="340" src="https://www.youtube.com/embed/HimCHAnPCCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you're just interested in a quick summary of what was discussed:
 
