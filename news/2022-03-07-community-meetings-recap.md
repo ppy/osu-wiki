@@ -8,7 +8,7 @@ Check out what's been happening in the new community meetings, and fill out a ne
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
-If you're not in the know, we've been hosting [community meetings](https://osu.ppy.sh/wiki/en/Community/osu%21_community_meetings) since mid-September in 2021. Originally, these meetings were an Q&A-style panel featuring [peppy](https://osu.ppy.sh/users/2), [smoogipoo](https://osu.ppy.sh/users/1040328) and [Ephemeral](https://osu.ppy.sh/users/102335) as they tackled specific topics and open questions from the community at large, mostly regarding the future of the game in things like lazer.
+If you're not in the know, we've been hosting [community meetings](/wiki/Community/osu%21_community_meetings) since mid-September in 2021. Originally, these meetings were an Q&A-style panel featuring [peppy](https://osu.ppy.sh/users/2), [smoogipoo](https://osu.ppy.sh/users/1040328) and [Ephemeral](https://osu.ppy.sh/users/102335) as they tackled specific topics and open questions from the community at large, mostly regarding the future of the game in things like lazer.
 
 Not familiar with what lazer is? Check out this brief overview:
 
@@ -21,9 +21,9 @@ Recently, the format of these meetings has changed slightly in an effort to be b
 If you missed that meeting, here's a (very) quick rundown of what was talked about:
 
 - The change made to mod multipliers a few weeks ago and picked up by concerned commentators on social media was a temporary fix to address problems with the lazer-exclusive playlist system.
-    - In lazer, some mods can be adjusted, such as setting the rate at which DoubleTime speeds up the track (in stable, this is a flat 1.5x speed always).
-    - Players could set adjusted DoubleTime at 1.01x speed to gain the flat 1.12x score multiplier, giving them an unfair advantage over those who didn't if freemod was enabled in the playlist/lobby.
-    - Temporarily disabling mod multipliers was intended as a stopgap to fix the above issue while a more robust solution was added.
+  - In lazer, some mods can be adjusted, such as setting the rate at which DoubleTime speeds up the track (in stable, this is a flat 1.5x speed always).
+  - Players could set adjusted DoubleTime at 1.01x speed to gain the flat 1.12x score multiplier, giving them an unfair advantage over those who didn't if freemod was enabled in the playlist/lobby.
+  - Temporarily disabling mod multipliers was intended as a stopgap to fix the above issue while a more robust solution was added.
 - **There are no plans to actually remove mod multipliers in the future.**
 - Playlist hosts will have full freedom over mod multipliers to tailor this kind of play to their individual wishes (tournaments, spotlights-type contests, etc). Global leaderboards will use some kind of 'default' setting.
 - In the future, score multipliers won't be "baked in" on scores but instead exist as seperate components of the score, meaning that mods can be freely rebalanced and scores appropriately recalculated on the fly to match.
@@ -37,10 +37,10 @@ If you're just interested in a quick summary of what was discussed:
 - Improvements to the way scores are saved and stored on the game's end now allow for a lot more flexibility in deciding how to use and show them.
 - Scores set now or previously on lazer won't add to global pp, since they aren't properly verified (no anticheat), but most other stats will still apply.
 - Almost all of the 'processors' needed to handle lazer scores are complete, with the exception of play time and medal awarding.
-    - Play time processing is nearly complete and should be added soon - this means that playing in lazer will increase the total play time visible on your profile.
+  - Play time processing is nearly complete and should be added soon - this means that playing in lazer will increase the total play time visible on your profile.
 - The exact way forward with regards to leaderboards and displaying scores is *not yet known or set in stone.*
-    - peppy wants to poll the community to see how to proceed, as a lot of feedback will be needed on the process and the direction things take.
-    - One of the main topics is whether to split leaderboards between "before lazer" and "after lazer", community will need to decide whether they want this.
+  - peppy wants to poll the community to see how to proceed, as a lot of feedback will be needed on the process and the direction things take.
+  - One of the main topics is whether to split leaderboards between "before lazer" and "after lazer", community will need to decide whether they want this.
 - One goal is to have all scores set on stable visible in lazer's scoreboards (with Classic mod applied) and potentially vice versa (with caveats) where applicable.
     - One example of a caveat is the new mods in lazer not being implemented in stable (and won't be)
 - Whatever happens, *the aim is not to screw people over with the transition*. Scores set in the past will still count and preserving history is very important.
