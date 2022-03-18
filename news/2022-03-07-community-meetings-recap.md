@@ -1,16 +1,20 @@
 ---
 layout: post
 title: "Community Meetings Recap & Scoring Survey"
-date: 2022-03-07 08:30:00 +0000
+date: 2022-03-18 14:00:00 +0000
 ---
 
-Check out what's been happening in the new community meetings, and let us know your thoughts on how scoreboards should be handled in the future!
+Check out what's been happening in the new community meetings, and fill out a new survey to let us know your thoughts on how scoreboards should be handled in the future!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
-If you're not in the know, we've been hosting [community meetings](https://osu.ppy.sh/wiki/en/Community/osu%21_community_meetings) since mid-September in 2021. Originally, these meetings were an Q&A-style panel featuring [peppy](https://osu.ppy.sh/users/2), [smoogipoo](https://osu.ppy.sh/users/1040328) and [Ephemeral](https://osu.ppy.sh/users/102335) as they tackled specific topics and open questions from the community at large.
+If you're not in the know, we've been hosting [community meetings](https://osu.ppy.sh/wiki/en/Community/osu%21_community_meetings) since mid-September in 2021. Originally, these meetings were an Q&A-style panel featuring [peppy](https://osu.ppy.sh/users/2), [smoogipoo](https://osu.ppy.sh/users/1040328) and [Ephemeral](https://osu.ppy.sh/users/102335) as they tackled specific topics and open questions from the community at large, mostly regarding the future of the game in things like lazer.
 
-Recently, the format of the meetings has changed slightly in an effort to be both more concise and targeted (as they tended to drag on and become a bit sprawling in terms of the topics covered), and also to get more people involved in hosting them. 
+Not familiar with what lazer is? Check out this brief overview:
+
+<iframe width="90%" height="315" src="https://www.youtube.com/embed/ut_SOreClcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Recently, the format of these meetings has changed slightly in an effort to be both more concise and targeted (as they tended to drag on and become a bit sprawling in terms of the topics covered), and also to get more people involved in hosting them. 
 
 [DigitalHypno](https://osu.ppy.sh/users/4384207) has stepped as the first of hopefully many hosts for these new shortform meetings, which [started back in February in response to outcry regarding a temporary change made to the score multipliers in lazer](https://www.youtube.com/watch?v=d66pU5lsHvE).
 
@@ -41,6 +45,10 @@ If you're just interested in a quick summary of what was discussed:
 	+ One example of a caveat is the new mods in lazer not being implemented in stable (and won't be)
 - Whatever happens, *the aim is not to screw people over with the transition*. Scores set in the past will still count and preserving history is very important.
 
-Following on from the above, we've prepared a survey for the community to help gauge the direction we should be heading towards in regards to how scoreboards and leaderboards are handled. It should take less than five minutes to complete, so please contribute and share the link around!
+Following on from the above, we've prepared a survey for the community to help gauge the direction we should be heading towards in regards to how scoreboards and leaderboards are handled. It should take less than five minutes to complete, so please contribute and share the link around:
+
+[**Click here to get started with the survey!**](https://form-auth.ppy.sh/form/2022-the-future-of-osu-leaderboards)
+
+We'll be announcing the results of this survey in **2 weeks** time, so make sure to get your results in early.
 
 —osu!team
