@@ -42,7 +42,7 @@ If you're just interested in a quick summary of what was discussed:
   - peppy wants to poll the community to see how to proceed, as a lot of feedback will be needed on the process and the direction things take.
   - One of the main topics is whether to split leaderboards between "before lazer" and "after lazer", community will need to decide whether they want this.
 - One goal is to have all scores set on stable visible in lazer's scoreboards (with Classic mod applied) and potentially vice versa (with caveats) where applicable.
-    - One example of a caveat is the new mods in lazer not being implemented in stable (and won't be)
+  - One example of a caveat is the new mods in lazer not being implemented in stable (and won't be)
 - Whatever happens, *the aim is not to screw people over with the transition*. Scores set in the past will still count and preserving history is very important.
 
 Following on from the above, we've prepared a survey for the community to help gauge the direction we should be heading towards in regards to how scoreboards and leaderboards are handled. It should take less than five minutes to complete, so please contribute and share the link around:
