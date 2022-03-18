@@ -17,7 +17,7 @@ Il est assez difficile de fournir une assistance lorsque tous les types de probl
 
 ### Saccade audio
 
-La piste audio des beatmaps revient en arrière ou s'interrompt. Lorsque le jeu lag, vous pouvez l'entendre dans l'audio. Lors du diagnostic ou du signalement, il peut être utile de :
+Le fichier audio des beatmaps revient en arrière ou s'interrompt. Lorsque le jeu lag, vous pouvez l'entendre dans l'audio. Lors du diagnostic ou du signalement, il peut être utile de :
 
 - Vérifier si cela se produit sur tous les périphériques audio disponibles. Si vous utilisez un casque USB, essayez plutôt de vous connecter via la sortie analogique de votre PC.
 - Vérifier si l'activation du paramètre "Mode de compatibilité audio" dans les options vous aide.
