@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 17ba49c633b089fe88acb7d5d32ac0460e5d65fe
----
-
 # Ranking criteria osu!mania
 
 **Ranking Criteria osu!mania** merupakan peraturan dan pedoman yang berlaku untuk pembuatan tingkat kesulitan spesifik osu!mania. Untuk dapat membuat tingkat kesulitan spesifik osu!mania diwajibkan mematuhi kriteria yang tercantum. Meskipun **semua aturan wajib diikuti dalam keadaan apa pun**, namun pedoman dapat diabaikan dalam kasus tertentu. Kasus tertentu ini harus dapat dibenarkan dengan penjelasan yang lengkap tentang mengapa pedoman tersebut diabaikan dan alasan mengapa tidak mengabaikannya akan mengganggu kualitas keseluruhan pembuatan.
@@ -77,6 +72,7 @@ Aturan dan pedoman secara keseluruhan berlaku untuk setiap jenis tingkat kesulit
   - akan menjadi tidak masuk akal untuk bermain dengan akurasi penuh.
   - akan secara efektif jika ditampilkan secara konsisten, dan dapat diprediksi.
   - akan menyebabkan lonjakan kesulitan yang kurang tepat.
+- **Long note (LN) harus ditahan sekurangnya 1/12 dari sebuah ketukan.** Timing untuk melepas LN yang lebih cepat dari 1/12 ketukan membuat permainan tidak dapat dimainkan dengan akurasi penuh.
 - **Hindari menggunakan sampel hitsound storyboard dengan volume yang mirip dengan hitsound yang terdapat pada note.** Karena storyboard hitsound menyebabkan distorsi audio dari objek di beatmap. Meletakkan hitsound pada note harus di prioritaskan. Namun, sampel storyboard dapat digunakan saat keysound di ekstrasi langsung dari lagu dan saat tingkat kesulitan rendah memiliki note yang sedikit untuk mendukung hitsound yang diperlukan.
 - **Jangan gunakan keysound tanpa dukungan dari hitnormal.** Jika hitsound terlalu menyatu dengan lagu, umpan balik saat menekan note akan menjadi sangat minim. Namun, ketika keysound di ekstrak langsung dari sebuah lagu dan digunakan sebagai pengganti audio lagu, keysound tidak perlu dukungan dari hitnormal.
 - **Hindari menggunakan hitsound yang sama untuk beberapa note dalam satu note.** Hal ini menyebabkan umpan balik menjadi lebih keras dari yang dibutuhkan. Ini juga berlaku untuk hitsound aktif dan storyboard hitsound yang digunakan pada timestamp yang sama.

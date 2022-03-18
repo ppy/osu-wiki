@@ -10,7 +10,7 @@ tags:
 
 *Veuillez noter que le téléchargement de vidéos à partir de YouTube constitue une violation de leurs [conditions d'utilisation](https://www.youtube.com/t/terms).*
 
-[YouTube](https://youtube.com) est une ressource très utile pour les créateurs qui souhaitent ajouter des vidéos de fond à leurs [beatmaps](/wiki/Beatmap). Si une chanson a un clip vidéo, il sera très probablement sur YouTube, et probablement compressé à un point tel que la vidéo a l'air décente mais ne sera pas trop grande en taille.
+[YouTube](https://youtube.com) est une ressource très utile pour les créateurs qui souhaitent ajouter des vidéos de fond à leurs [beatmaps](/wiki/Beatmap). Si une musique a un clip vidéo, il sera très probablement sur YouTube, et probablement compressé à un point tel que la vidéo a l'air décente mais ne sera pas trop grande en taille.
 
 Ce tutoriel est destiné à ceux qui **ne peuvent pas** trouver la vidéo ailleurs que sur YouTube.
 
@@ -31,8 +31,8 @@ youtube-dl -f bestvideo <video link>
 
 ![Télécharger des vidéos YouTube avec youtube-dl](img/example.jpg "Télécharger des vidéos YouTube avec youtube-dl")
 
-## Supprimer les pistes audio
+## Supprimer les fichiers audio
 
 *Page principale : [Compression des fichiers](/wiki/Guides/Compressing_files)*
 
-Après avoir téléchargé la vidéo, vous pouvez la charger dans la beatmap comme vous le feriez normalement via l'[onglet design](/wiki/Client/Beatmap_editor/Design) dans l'[éditeur de beatmap](/wiki/Client/Beatmap_editor). Cependant, non seulement la vidéo contiendra des pistes audio qui ne seront pas utilisées et prendront de la place supplémentaire, mais les [critères de classement](/wiki/Ranking_Criteria#Video-and-background) de la beatmap interdisent les vidéos avec des pistes audio car elles ne sont pas utilisées. Voir [compression des fichiers](/wiki/Guides/Compressing_files) pour savoir comment supprimer l'audio de la vidéo.
+Après avoir téléchargé la vidéo, vous pouvez la charger dans la beatmap comme vous le feriez normalement via l'[onglet design](/wiki/Client/Beatmap_editor/Design) dans l'[éditeur de beatmap](/wiki/Client/Beatmap_editor). Cependant, non seulement la vidéo contiendra des fichiers audio qui ne seront pas utilisées et prendront de la place supplémentaire, mais les [critères de classement](/wiki/Ranking_Criteria#Video-and-background) de la beatmap interdisent les vidéos avec des fichiers audio car elles ne sont pas utilisées. Voir [compression des fichiers](/wiki/Guides/Compressing_files) pour savoir comment supprimer l'audio de la vidéo.

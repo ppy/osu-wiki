@@ -6,7 +6,7 @@ L'**Assistant de décalage** est un outil intégré qui aide l'utilisateur à ca
 
 Pour accéder à l'assistant de décalage, ouvrez le menu [Options](/wiki/Client/Options) et tapez `décalage` dans la barre de recherche rapide. Cliquez ensuite sur le bouton `Démarrer l'assistant`.
 
-À l'ouverture de l'assistant de décalage, l'utilisateur est accueilli par le tic-tac d'un métronome et par des barres vertes verticales défilant à l'écran de manière répétée. La dernière chanson sélectionnée commence à être jouée, mais il est possible de la modifier grâce au juke-box situé dans le coin supérieur droit de l'écran.
+À l'ouverture de l'assistant de décalage, l'utilisateur est accueilli par le tic-tac d'un métronome et par des barres vertes verticales défilant à l'écran de manière répétée. La dernière musique sélectionnée commence à être jouée, mais il est possible de la modifier grâce au juke-box situé dans le coin supérieur droit de l'écran.
 
 Le décalage universel actuel sera affiché dans le coin supérieur gauche de l'écran. Il peut être modifié en appuyant sur les touches `Flèche haut` et `Flèche bas`, ou en utilisant la molette de la souris.
 
