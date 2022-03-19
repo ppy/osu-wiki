@@ -42,6 +42,7 @@ The UK Community Cup 11 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1508197?n=1)
+- [Challonge](https://challonge.com/UKCC11)
 - [Discord](https://discord.gg/EtsU7Cw)
 - [Livestream](https://twitch.tv/osuukcc)
 - [Rules and information document](https://docs.google.com/document/d/1rkDOmvN4o5VKTbFcBXUXAjG2kPjNhpan9-WwgYlfpE8/edit?usp=sharing)
@@ -87,6 +88,35 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
 | #32 | **PopKO** | ![][flag_GB] [Claus](http://osu.ppy.sh/users/4966424), ![][flag_GB] [SpiralKO](http://osu.ppy.sh/users/5387803) |
 
 ## Mappools
+
+### Semifinals
+
+- NoMod
+  1. [TUYU - Loser Girl (Lizu) [Inferior]](https://osu.ppy.sh/beatmapsets/1332877#osu/2761537)
+  2. [Sabaton - Twilight Of The Thunder God (Mazzerin) [Ragnarok awaits]](https://osu.ppy.sh/beatmapsets/1616046#osu/3299406)
+  3. [Hazel - I Love Poland (Extended Dirty Mix) UKCC Edit. (jesus1412) [Almost UKCC Edit]](https://chillierpear.xyz/UKCCNM3)
+  4. [lapix - Debug Dance (Zekk Remix) (dong2729) [Bunny Hop]](https://osu.ppy.sh/beatmapsets/1207234#osu/2514021)
+  5. [Brymir - The Rain (Zelq) [The Map]](https://osu.ppy.sh/beatmapsets/1557052#osu/3180896)
+  6. [Saint Snow - SELF CONTROL!! (ktgster) [Special]](https://osu.ppy.sh/beatmapsets/880205#osu/1840640)
+- Hidden
+  1. [Neil Cicierega - Wow Wow (DTM9 Nowa) [owo owo]](https://osu.ppy.sh/beatmapsets/832889#osu/1744742)
+  2. [a-ha - Analogue (Saturos-fangirl) [Abomination]](https://osu.ppy.sh/beatmapsets/20191#osu/168666)
+  3. [tokiwa - Kotodama Refrain (katagiri Bootleg) (Ducky-) [captin's Extra]](https://osu.ppy.sh/beatmapsets/1605822#osu/3371330)
+- HardRock
+  1. [mafumafu - Rinne Tensei (AirinCat) [Reincarnation]](https://osu.ppy.sh/beatmapsets/1083811#osu/2266659)
+  2. [Reku Mochizuki - Yorixiro (Yugu) [Extra]](https://osu.ppy.sh/beatmapsets/1438879#osu/2960558)
+  3. [LeaF - Monkey Business -Satire mix- (waefwerf) [Yokes' Extra]](https://osu.ppy.sh/beatmapsets/1221791#osu/2561965)
+- DoubleTime
+  1. [Uchida Aya - Blueberry Train (Fycho) [Insane]](https://osu.ppy.sh/beatmapsets/126961#osu/355510)
+  2. [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (Yohanes) [Laurier's Insane]](https://osu.ppy.sh/beatmapsets/849946#osu/1783432)
+  3. [Zektbach - Turii \~Panta rhei\~ (Yooh) [Myah's Insane]](https://osu.ppy.sh/beatmapsets/1537583#osu/3214128)
+  4. [Harumaki Gohan feat. Hatsune Miku - Pokapoka no Hoshi (Kyle Y) [Hakusui3820's Insane]](https://osu.ppy.sh/beatmapsets/1643298#osu/3354224)
+- FreeMod
+  1. [fail better, heal faster - Queer Recovery Club (sammish) [dysmorphia]](https://osu.ppy.sh/beatmapsets/847942#osu/1888617)
+  2. [sasakure.UK - bAd Companyz (caren\_sk) [AR8]](https://osu.ppy.sh/beatmapsets/92234#osu/249516)
+  3. [Dance Gavin Dance - Summertime Gladness (Xexxar) [Blooming Sunset]](https://osu.ppy.sh/beatmapsets/946022#osu/1975387)
+- Tiebreaker
+  1. **[Saitama Saisyu Heiki - L.L. Infinite Beating.ver (sjoy) [MAX]](https://osu.ppy.sh/beatmapsets/403581#osu/877564)**
 
 ### Quarterfinals
 
@@ -187,6 +217,82 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
   2. [Inoue Marina - Pieces of Sweet Stars (whymeman) [S.t.a.r.S]](https://osu.ppy.sh/beatmapsets/8436#osu/34657)
 
 ## Match Results
+
+### Quarterfinals
+
+#### Quarterfinals
+
+Friday, 11 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **The PokiStans** | **6** | 5 | Luciano Fan Club | [#1](https://osu.ppy.sh/community/matches/98621920) |
+
+Sunday, 13 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **The** | **0** | -1 | Werther's Originals | *forfeit* |
+| **ABSOLUTE UNITS** | **6** | 3 | that's what i'm saying! | [#1](https://osu.ppy.sh/community/matches/98709546) |
+| **denial piano** | **6** | 2 | :stonehenge: | [#1](https://osu.ppy.sh/community/matches/98711507) |
+
+#### Losers Bracket Round 2
+
+Thursday, 10 March 2022:
+
+| Team 1 |  |  | Team 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **the southern service to ore** | **0** | -1 | reshamen | *forfeit* |
+
+Friday, 11 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Swonkity and Farto | 3 | **6** | **Washed Warriors** | [#1](https://osu.ppy.sh/community/matches/98627658) |
+| **Meal Deal Men** | **6** | 4 | Mario Party Enjoyers (not Gaz) | [#1](https://osu.ppy.sh/community/matches/98632850) |
+
+Saturday, 12 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **go wild Idm** | **6** | 0 | language analysis spray | [#1](https://osu.ppy.sh/community/matches/98673185) |
+| **:flag_tf:** | **6** | 1 | Platform Duty | [#1](https://osu.ppy.sh/community/matches/98675535) |
+
+Sunday, 13 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| bare close to the camera innit | 3 | **6** | **Deflated squidward 2** | [#1](https://osu.ppy.sh/community/matches/98706366) |
+| Rupert Murducks | 0 | **6** | **stun seed** | [#1](https://osu.ppy.sh/community/matches/98712639) |
+
+Tuesday, 15 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **frogy** | **6** | 0 | osu!UK Lovers | [#1](https://osu.ppy.sh/community/matches/98769302) |
+
+#### Losers Bracket Round 3
+
+Sunday, 13 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **go wild idm** | **3** | 1 | :flag_tf: | [#1](https://osu.ppy.sh/community/matches/98702606)¹ |
+| **Deflated squidward 2** | **0** | -1 | Meal Deal Men | *forfeit* |
+
+¹ The match was concluded due to pedeko having to leave.
+
+Monday, 14 March 2022:
+
+| Team 1 |  |  | Team 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| Washed Warriors | -1 | **0** | **the southern service to ore** | *forfeit* |
+
+Thursday, 17 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **frogy** | **6** | 2 | stun seed | [#1](https://osu.ppy.sh/community/matches/98826215) |
 
 ### Round of 16
 
