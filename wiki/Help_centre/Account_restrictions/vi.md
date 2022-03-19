@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: b830432c4768e242ce32ad592010de960bbefdeb
 ---
 
 # Hạn chế tài khoản

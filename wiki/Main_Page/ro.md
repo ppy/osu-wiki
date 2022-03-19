@@ -61,14 +61,14 @@ Componente: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Divizor Beat Snap](/
 
 [Turnee](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proiecte](/wiki/Community/Projects) • [Ghiduri](/wiki/Guides) • [Serverul Discord osu!dev](/wiki/Community/osu!dev_Discord_server) • [Cum puteți ajuta](/wiki/Community/How_you_can_help!) • [Glosar](/wiki/Glossary)
 
+Organizații: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Oameni
+# [Oameni](/wiki/People)
 
 [Echipa](/wiki/People/The_Team): [Dezvoltatori](/wiki/People/The_Team/Developers) • [Echipa de moderare globală](/wiki/People/The_Team/Global_Moderation_Team) • [Echipa de suport](/wiki/People/The_Team/Support_Team) • [Echipa de evaluare a nominalizărilor](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominalizatorii beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [Absolvenții osu!](/wiki/People/The_Team/osu!_Alumni) • [Echipa Proiect Iubit](/wiki/People/The_Team/Project_Loved_Team)
-
-Organizații: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Contribuitori ai comunității](/wiki/People/Community_Contributors) • [Utilizatori cu titluri unice](/wiki/People/Users_with_unique_titles)
 

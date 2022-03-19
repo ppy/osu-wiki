@@ -1,39 +1,34 @@
----
-outdated: true
-outdated_since: b49301098a9e6de12ad2180c9c22e9868f5ae44f
----
-
 # Pertemuan komunitas osu!
 
-**Pertemuan komunitas osu!** adalah panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/The_Team) setiap dua minggu sekali. Tujuan utama dari pertemuan-pertemuan tersebut adalah untuk memberikan kesempatan kepada seluruh pihak untuk berbicara secara langsung dengan pengembang dan orang-orang yang bertanggung jawab dalam mengatur komunitas untuk membahas tentang suatu hal atau pertimbangan lebih lanjut.
+**Pertemuan komunitas osu!** merupakan sebuah panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/The_Team) setiap dua minggu sekali. Tujuan utama dari pertemuan ini adalah untuk memberikan kesempatan kepada seluruh pihak untuk dapat berbicara secara langsung dengan para pengembang serta orang-orang yang bertanggung jawab dalam mengatur komunitas mengenai berbagai hal yang dirasa perlu untuk dibahas dan dipertimbangkan lebih lanjut.
 
-[Dahulu kala](https://twitter.com/ppy/status/1169256824052170755), tim inti osu! rutin mengadakan pertemuan komunitas di mana seluruh orang dapat berbicara. Dengan permainan yang mempunyai sebuah komunitas yang sangat besar, hal ini tidak dapat dicapai, tetapi dengan menggunakan sistem antrian Discord yang dapat mengurutkan pertanyaan-pertanyaan yang dapat dibahas satu per satu. Jika kamu tertarik untuk bertanya, mohon pastikan kamu telah membaca FAQ di bawah ini untuk mengecek apakah pertanyaanmu sudah pernah ditanyakan dan dijawab!
+[Dahulu kala](https://twitter.com/ppy/status/1169256824052170755), tim inti osu! rutin mengadakan pertemuan komunitas yang memungkinkan seluruh anggota komunitas untuk dapat menyuarakan pendapatnya. Meskipun demikian, seiring dengan semakin besarnya komunitas osu!, hal ini tidak lagi memungkinkan. Oleh karenanya, pertemuan komunitas kini diselenggarakan dengan menggunakan sistem antrian Discord yang dapat mengurutkan berbagai pertanyaan yang masuk secara satu per satu.
+
+Apabila kamu tertarik untuk bertanya, pastikan kamu telah membaca pedoman yang tertera di bawah.
 
 Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335), dan [smoogipoo](https://osu.ppy.sh/users/1040328).
 
-Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang diumumkan melalui [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya.
-
-Pertemuan komunitas osu! berikutnya akan diadakan pada **hari Minggu, 6 Februari 2022 pukul 01.00 UTC (Minggu, 6 Februari 2022 08.00 WIB)**.
-
 ## Cara berpartisipasi
 
-Pertemuan komunitas osu! saat ini diadakan di Discord Stage pada [server Discord osu!dev](https://discord.gg/ppy) dan disiarkan pada [kanal Twitch peppy](https://www.twitch.tv/ppy). Setiap pertemuan saat ini dijadwalkan untuk berlangsung selama satu jam dan dimulai setiap dua minggu sekali.
+Pertemuan komunitas osu! saat ini diselenggarakan pada Discord Stage yang ada di [server Discord osu!dev](https://discord.gg/ppy) dan disiarkan secara langsung pada [kanal Twitch peppy](https://www.twitch.tv/ppy). Seluruh sesi pertemuan dijadwalkan untuk berlangsung selama satu jam.
 
-Semua orang diperkenankan untuk berpartisipasi! Jika kamu punya pertanyaan atau sesuatu untuk disampaikan pada diskusi, kamu dapat mengangkat tanganmu di Discord Stage untuk masuk dalam antrian atau menuliskan pesan pada utas Discord terkait jika kamu tidak nyaman berbicara, yang akan dibacakan dan dijawab. Sebagai tambahan, sebelum bertanya, perhatikan pedoman berikut ini:
+Pertemuan diadakan setiap dua minggu sekali dengan pengingat yang akan diumumkan pada [akun Twitter peppy](https://twitter.com/ppy) sehari sebelumnya. Untuk mendapat pemberitahuan mengenai pertemuan yang akan berlangsung, kamu dapat menandai dirimu sebagai "tertarik" (*"interested"*) pada *event* yang di-*post* pada [server Discord osu!dev](https://discord.gg/ppy).
+
+Semua orang diperkenankan untuk berpartisipasi! Jika kamu punya pertanyaan atau sesuatu untuk disampaikan pada diskusi, kamu dapat mengangkat tanganmu di Discord Stage untuk masuk dalam antrian atau menuliskan pesan pada utas Discord di *channel* `#community-meetings` jika kamu tidak nyaman berbicara, yang akan dibacakan dan dijawab. Sebagai tambahan, sebelum bertanya, perhatikan pedoman berikut ini:
 
 - Rencanakan poin pembicaraanmu sebelumnya dan buat poinmu seringkas mungkin.
-- Cobalah angkat isu yang mempengaruhi komunitas secara keseluruhan saja, bukan yang hanya mempengaruhimu saja.
-- Verifikasi pada osu!dev bukanlah keharusan tetapi mungkin dapat menaikkan kemungkinan pertanyaanmu dipilih dalam sesi tanya-jawab.
+- Cobalah untuk mengangkat isu yang memengaruhi komunitas secara keseluruhan, bukan yang hanya menyangkut seputar dirimu saja.
+- Verifikasi akun pada server osu!dev tidak diwajibkan, namun hal ini dapat memperbesar kemungkinan pertanyaanmu untuk dapat dipilih pada sesi tanya-jawab yang ada.
 
-Kami menargetkan untuk membahas sebuah pertanyaan tidak lebih lama daripada 5 menit, sehingga mohon dipahami bahwa pertanyaan yang pernah dijawab atau yang umum mungkin tidak akan dipilih dalam diskusi.
+Tujuan dari pedoman di atas adalah agar masing-masing pertanyaan tidak memakan waktu lebih dari 5 menit untuk dibahas. Oleh karenanya, mohon dipahami bahwa pertanyaan yang sudah pernah dijawab atau yang terlalu umum tidak akan ditanggapi lebih lanjut.
 
-## Arsip-arsip
+## Arsip
 
-Pertemuan komunitas osu! pertama diadakan pada 19 September 2021. Semua pertemuan yang telah dan akan terjadi akan terus direkam di YouTube bersama dokumen ringkasan pertemuan.
+Pertemuan komunitas osu! pertama diadakan pada tanggal 19 September 2021. Adapun rekaman dari seluruh pertemuan (baik yang telah ataupun yang akan dilaksanakan) akan diunggah ke YouTube beserta dengan dokumen ringkasan pertemuan yang terkait.
 
 | Pertemuan ke # | Tautan | Ringkasan | Topik diskusi |
 | :-: | :-- | :-- | :-- |
-| 0 | [19 September 2021](https://youtu.be/-LjNll8VYTM) | [Notulen pertemuan](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Pengenalan awal, kondisi ranking criteria, hubungan antara tingkat kesulitan dan *performance point*, serta berbagai hal yang menyangkut osu!lazer secara umum |
+| 0 | [19 September 2021](https://youtu.be/-LjNll8VYTM) | [Notulen pertemuan](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Pengenalan awal, kondisi ranking criteria, hubungan antara tingkat kesulitan dan *performance point*, serta berbagai hal yang menyangkut osu!(lazer) secara umum |
 | 1 | [3 Oktober 2021](https://youtu.be/D3OZCm6szVE) | [Notulen pertemuan](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Berbagai pertanyaan dari para anggota komunitas serta berita-berita terkini seputar pengembangan osu! |
 | 2 | [17 Oktober 2021](https://youtu.be/nLT-fLeogrw) | [Notulen pertemuan](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Berbagai pertanyaan dari para anggota komunitas |
 | 3 | [31 Oktober 2021](https://youtu.be/omvZbC7zJUI) | [Notulen pertemuan](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Berbagai pertanyaan dari para anggota komunitas |
@@ -43,6 +38,9 @@ Pertemuan komunitas osu! pertama diadakan pada 19 September 2021. Semua pertemua
 | 7 | [18 Desember 2021](https://youtu.be/v-LgY3UKhkg) | [Notulen pertemuan](https://docs.google.com/document/d/1SqCsuU210c5g7DF9iQ4POunV-U-k5CTBUCaDClfrSrA) | Tanggapan peppy seputar berbagi konflik dan drama yang sedang hangat diperbincangkan oleh para anggota komunitas |
 | 8 | [9 Januari 2022](https://youtu.be/JXgQ6YEDCGg) | [Notulen pertemuan](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | Mekanisme HP (*health drain*) yang berlaku di osu! serta berbagai pertanyaan dari para anggota komunitas |
 | 9 | [22 Januari 2022](https://youtu.be/Prx0XzHl6-M) | [Notulen pertemuan](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Berbagai pertanyaan dari para anggota komunitas serta berita-berita terkini seputar pengembangan osu! |
+| 10 | [6 Februari 2022](https://youtu.be/xA4nbE8DM4s) | [Notulen pertemuan](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Berbagai pertanyaan dari para anggota komunitas |
+| 11 | [20 Februari 2022](https://youtu.be/d66pU5lsHvE) | - |  Pengali skor dan skor |
+| 12 | [6 Maret 2022](https://youtu.be/HimCHAnPCCY) | - |  |
 
 ## Tautan terkait
 

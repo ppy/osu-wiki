@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 19d497357fd186a011c088fb28c3645fbde1261f
----
-
 <!-- TODO: change link as soon as German article is available (line 12) -->
 
 # Tutorials
@@ -28,6 +23,7 @@ Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Communit
 - [Den Offset auf den richtigen Beat setzen](Setting_the_Offset_on_the_Correct_Beat)
 - [Eigene Hitsounds benutzen](Using_custom_hitsounds)
 - [Videos von YouTube](Videos_from_YouTube)
+- [Songs mit #/8-Signaturen timen](Timing_Songs_With_8-Signatures)
 
 ## Modding
 

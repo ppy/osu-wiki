@@ -40,7 +40,7 @@ Le mod Sudden Death **ne fera pas** échouer la beatmap si l'une des situations 
 - Rater un [sliderend](/wiki/Hit_object/Slidertail) (c'est-à-dire un sliderbreak)
 - Ne pas tenir/collecter sur le chemin d'un slider vide
 
-Contrairement à la variante [Perfect](/wiki/Game_modifier/Perfect) du mod Sudden Death , la beatmap ne réessaie pas automatiquement la carte. Au lieu de cela, le joueur se retrouvera devant un écran d'échec normal s'il rate son coup.
+Contrairement à la variante [Perfect](/wiki/Game_modifier/Perfect) du mod Sudden Death , la beatmap ne réessaie pas automatiquement la beatmap. Au lieu de cela, le joueur se retrouvera devant un écran d'échec normal s'il rate son coup.
 
 Ce mod a le même effet sur tous les [modes de jeu](/wiki/Game_mode).
 

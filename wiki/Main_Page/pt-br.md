@@ -60,14 +60,14 @@ Componentes: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](
 
 [Torneios](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projetos](/wiki/Community/Projects) • [Guias](/wiki/Guides) • [Servidor de Discord do osu!dev](/wiki/Community/osu!dev_Discord_server) • [Como você pode ajudar](/wiki/Community/How_you_can_help!) • [Glossário](/wiki/Glossary)
 
+Organizações: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Pessoas
+# [Pessoas](/wiki/People)
 
 [A equipe](/wiki/People/The_Team): [Desenvolvedores](/wiki/People/The_Team/Developers) • [Equipe de Moderação Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipe de Suporte](/wiki/People/The_Team/Support_Team) • [Equipe de Avaliação de Nomeação](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nomeadores de Beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipe Project Loved](/wiki/People/The_Team/Project_Loved_Team)
-
-Organizações: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Colaboradores da Comunidade](/wiki/People/Community_Contributors) • [Usuários com títulos únicos](/wiki/People/Users_with_unique_titles)
 

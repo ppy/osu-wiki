@@ -121,9 +121,9 @@ Consultez [ce sujet](https://answers.microsoft.com/en-us/windows/forum/windows_v
 
 **Assurez-vous que vous ne regroupez pas vos beatmaps par quoi que ce soit en haut à droite de l'écran (c'est-à-dire que "Regrouper" doit être réglé sur "Ne rien regrouper").**
 
-Si vous venez de télécharger une map, vous pouvez essayer de rafraîchir votre liste de beatmap en appuyant sur `F5` à l'écran de sélection des beatmaps.
+Si vous venez de télécharger une beatmap, vous pouvez essayer de rafraîchir votre liste de beatmap en appuyant sur `F5` à l'écran de sélection des beatmaps.
 
-Assurez-vous que vous ne limitez pas les maps affichées dans les options du jeu.
+Assurez-vous que vous ne limitez pas les beatmaps affichées dans les options du jeu.
 
 Pour vérifier ou modifier les beatmaps affichés dans le menu de sélection des morceaux, procédez comme suit :
 
@@ -134,7 +134,7 @@ Pour vérifier ou modifier les beatmaps affichés dans le menu de sélection des
 
 ![](img/difficulty-display-FR.png "Valeurs correctes du paramètre "menu de sélection des beatmaps"")
 
-Si aucune de ces méthodes ne fonctionne, vous pouvez, en dernier recours, essayer de forcer la recréation de votre base de données beatmap. **Notez que cette opération marquera toutes vos maps comme "non jouées", de sorte que la recherche et le regroupement de maps par des champs qui dépendent de la date à laquelle vous les avez jouées ne fonctionneront plus**.
+Si aucune de ces méthodes ne fonctionne, vous pouvez, en dernier recours, essayer de forcer la recréation de votre base de données beatmap. **Notez que cette opération marquera toutes vos beatmaps comme "non jouées", de sorte que la recherche et le regroupement de beatmaps par des champs qui dépendent de la date à laquelle vous les avez jouées ne fonctionneront plus**.
 
 Pour forcer la recréation de votre base de données des beatmaps en toute sécurité, procédez comme suit :
 
@@ -165,7 +165,7 @@ Vous pouvez également vérifier si les boutons de vos périphériques sont bloq
 
 La plupart des beatmap packs sont fournis au format de fichier `.rar`, ce qui signifie qu'il s'agit d'une archive compressée de fichiers de beatmaps. Vous devrez les extraire en utilisant l'utilitaire de votre choix (nous recommandons [7-Zip](https://7-zip.org)) dans votre répertoire "Songs".
 
-Une fois que tous les fichiers `.osz` de l'archive sont dans le répertoire `Songs`, appuyez sur `F5` dans le menu de sélection des chansons pour rafraîchir le cache des beatmaps du jeu et charger vos nouvelles chansons dans le jeu.
+Une fois que tous les fichiers `.osz` de l'archive sont dans le répertoire `Songs`, appuyez sur `F5` dans le menu de sélection des musiques pour rafraîchir le cache des beatmaps du jeu et charger vos nouvelles musiques dans le jeu.
 
 ## Gameplay
 
@@ -187,19 +187,19 @@ Ils ont malheureusement disparu.
 
 Les scores que vous avez envoyés sur le classement général en ligne sont toujours là, cependant - il suffit de retélécharger n'importe quelle beatmap que vous avez jouée auparavant, et votre score réapparaîtra.
 
-Astuce : si vous êtes un osu!supporter, vous pouvez utiliser le filtre `Classée (Jouée)` dans le panneau osu!direct dans le jeu ou via [la page de liste des beatmap](https://osu.ppy.sh/beatmapsets?played=played&s=ranked) pour trouver toutes les maps sur lesquelles vous avez établi des scores dans le passé.
+Astuce : si vous êtes un osu!supporter, vous pouvez utiliser le filtre `Classée (Jouée)` dans le panneau osu!direct dans le jeu ou via [la page de liste des beatmap](https://osu.ppy.sh/beatmapsets?played=played&s=ranked) pour trouver toutes les beatmaps sur lesquelles vous avez établi des scores dans le passé.
 
 #### Êtes-vous réglé sur le bon mode de jeu ?
 
 **Si vous jouez dans un autre mode de jeu (osu!taiko, osu!catch ou osu!mania), l'affichage des scores dans le jeu sera modifié pour ne montrer que les scores de ce mode. Vos scores des autres modes seront ainsi masqués.**
 
-Une cause fréquente de ce problème est le fait de jouer des maps d'un autre mode de jeu, qui règle alors automatiquement la sélection des beatmaps pour utiliser les scores de ce mode jusqu'à ce que le mode soit remis en place.
+Une cause fréquente de ce problème est le fait de jouer des beatmaps d'un autre mode de jeu, qui règle alors automatiquement la sélection des beatmaps pour utiliser les scores de ce mode jusqu'à ce que le mode soit remis en place.
 
 Vous pouvez changer le mode de jeu en cliquant sur le bouton `Mode` en bas à gauche de l'écran dans la sélection des beatmaps, puis en choisissant le mode dans lequel vous recherchez vos scores.
 
-#### Avez-vous récemment téléchargé un grand nombre de maps ? (par exemple, un pack ou un ensemble de beatmaps)
+#### Avez-vous récemment téléchargé un grand nombre de beatmaps ? (par exemple, un pack ou un ensemble de beatmaps)
 
-**Les scores peuvent parfois mettre un peu de temps à être téléchargés depuis les serveurs du jeu si vous avez chargé beaucoup de nouvelles maps en même temps.**
+**Les scores peuvent parfois mettre un peu de temps à être téléchargés depuis les serveurs du jeu si vous avez chargé beaucoup de nouvelles beatmaps en même temps.**
 
 Jouer au jeu ou faire autre chose permettra au client de rattraper son retard en arrière-plan.
 
@@ -215,7 +215,7 @@ Le raccourci clavier par défaut pour cette fonction est `C`, et il fonctionnera
 
 Ceci sauvegardera votre nouveau score sous forme de fichier `.osr` dans le dossier /Replays/ du répertoire d'installation par défaut d'osu!
 
-osu! sauvegarde aussi automatiquement tous les replays après avoir terminé une chanson dans le dossier caché `/Data/r/`, également contenu dans le répertoire d'installation d'osu!
+osu! sauvegarde aussi automatiquement tous les replays après avoir terminé une musique dans le dossier caché `/Data/r/`, également contenu dans le répertoire d'installation d'osu!
 
 Veuillez noter que si aucun replay n'a été sauvegardé pour ce score, vous ne pourrez pas récupérer un replay de cette manière.
 
@@ -255,7 +255,7 @@ Dans le menu de sélection des beatmaps, vérifiez la présence de petites icôn
 
 ![](img/correct-map-status-FR.png "Voici à quoi cela devrait ressembler")
 
-Jouer avec le `Classement général` sélectionné, plutôt qu'avec le classement local, peut aider à empêcher cela. Si un grand nombre de vos maps, ou toutes vos maps, n'ont pas de statut ou ont des statuts incorrects, essayez de forcer la recréation de votre fichier de base de données de maps. Vous pouvez découvrir comment le faire en toute sécurité dans la section "[Certaines de mes beatmaps ont disparu !](#certaines-de-mes-beatmaps-ont-disparu)". Après avoir effectué cette opération, il se peut que cela prenne un certain temps pour que toutes vos maps retrouvent leur statut correct.
+Jouer avec le `Classement général` sélectionné, plutôt qu'avec le classement local, peut aider à empêcher cela. Si un grand nombre de vos beatmaps, ou toutes vos beatmaps, n'ont pas de statut ou ont des statuts incorrects, essayez de forcer la recréation de votre fichier de base de données de beatmaps. Vous pouvez découvrir comment le faire en toute sécurité dans la section "[Certaines de mes beatmaps ont disparu !](#certaines-de-mes-beatmaps-ont-disparu)". Après avoir effectué cette opération, il se peut que cela prenne un certain temps pour que toutes vos beatmaps retrouvent leur statut correct.
 
 #### Les serveurs de soumission des scores sont-ils opérationnels ?
 
@@ -512,7 +512,7 @@ Ce problème se résout généralement après avoir fermé tout ce qui n'est pas
 
 **Parfois, après une mise à jour du jeu, le client peut avoir des difficultés sans raison apparente.**
 
-Si vous avez beaucoup de beatmaps, attendez au moins 10 à 15 minutes avant de donner la responsabilité du lag à la mise à jour. Le client osu! peut être en train de retraiter vos maps pour calculer leur difficulté.
+Si vous avez beaucoup de beatmaps, attendez au moins 10 à 15 minutes avant de donner la responsabilité du lag à la mise à jour. Le client osu! peut être en train de retraiter vos beatmaps pour calculer leur difficulté.
 
 Si le problème ne se résout pas, un redémarrage peut parfois aider.
 

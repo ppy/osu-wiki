@@ -72,7 +72,7 @@ Lisez les procédures et règlements qui assurent la sécurité d'osu! et de sa 
 
 [Règles](/wiki/Rules) • [Code de conduite Contributor Covenant](/wiki/Contributor_Code_of_Conduct) • [Code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
-Réglementation des médias : [Directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines) • [Contenu explicite](/wiki/Rules/Explicit_Content) • [Règles relatives au contenu des chansons](/wiki/Rules/Song_Content_Rules) • [Considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations)
+Réglementation des médias : [Directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines) • [Contenu explicite](/wiki/Rules/Explicit_Content) • [Règles relatives au contenu des musiques](/wiki/Rules/Song_Content_Rules) • [Considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations)
 
 [Mentions légales](/wiki/Legal) : [Conditions d'utilisation](/wiki/Legal/Terms) • [Politique de confidentialité](/wiki/Legal/Privacy) • [Politique de droit d'auteur](/wiki/Legal/Copyright) • [Licence musicale](/wiki/Legal/Music_licensing)
 
@@ -100,18 +100,18 @@ L'interaction sociale est l'une des principales choses qui alimentent les joueur
 
 [Projets](/wiki/Community/Projects) : [Featured Artists](/wiki/Featured_Artists) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+Organisations : [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Personnes
+# [Personnes](/wiki/People)
 
 osu! n'aurait pas été possible sans les nombreux utilisateurs qui participent au développement, à la maintenance et à la gestion de la communauté : leurs efforts, leur temps et leur dévouement font vivre et prospérer le jeu.
 
 [L'équipe](/wiki/People/The_Team) : [Développeurs](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Équipe du support](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
-Organisations : [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
-
-[Les contributeurs de la communauté](/wiki/People/Community_Contributors) • [Utilisateurs ayant des titres uniques](/wiki/People/Users_with_unique_titles)
+[Les contributeurs de la communauté](/wiki/People/Community_Contributors) • [Utilisateurs ayant des titres uniques](/wiki/People/Users_with_unique_titles) • [Comité des tournois](/wiki/People/Tournament_Committee) • [Comité des points de performance](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">
