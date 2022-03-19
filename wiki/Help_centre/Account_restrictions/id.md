@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: b830432c4768e242ce32ad592010de960bbefdeb
+---
+
 # Restriction
 
 *Restriction* merupakan bentuk hukuman yang osu! jatuhkan kepada para pengguna yang telah bersikap tidak sepantasnya, bertindak mencurigakan, atau melanggar peraturan yang berlaku.

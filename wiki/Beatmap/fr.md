@@ -87,7 +87,7 @@ Les joueurs de osu! de tous les modes utilisent les beatmaps pour [gagner des pl
 - Le classement global, qui prend en compte tous les scores des joueurs actifs;
 - Le classement global pour chaque combinaison de [modificateur de jeu](/wiki/Game_modifier);
 - Le classement national composé des joueurs du même pays;
-- Le classement des amis qui montre le classement du joueur sur une map comparé à celui de ses amis.
+- Le classement des amis qui montre le classement du joueur sur une beatmap comparé à celui de ses amis.
 
 Les 500 meilleures scores sur chaque difficulté d'une beatmap fourni des [replays](/wiki/Gameplay/Replay), qui peuvent être regardés en ligne ou téléchargés dans le classement local pour être visionnés à l'avenir.
 
@@ -95,7 +95,7 @@ Les 500 meilleures scores sur chaque difficulté d'une beatmap fourni des [repla
 
 *Article principal: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
 
-Depuis ses débuts, la communauté a eu de nombreuses occasions de mettre en avant leurs meilleures beatmaps. Une des premières approche a été la création de tops mensuels et saisonniers appelés charts constitués d'un groupe restreint de beatmaps classées, où les meilleurs joueurs du classement par points totaux réalisés sur ces maps reçoivent l'[osu!supporter](/wiki/osu!supporter).
+Depuis ses débuts, la communauté a eu de nombreuses occasions de mettre en avant leurs meilleures beatmaps. Une des premières approche a été la création de tops mensuels et saisonniers appelés charts constitués d'un groupe restreint de beatmaps classées, où les meilleurs joueurs du classement par points totaux réalisés sur ces beatmaps reçoivent l'[osu!supporter](/wiki/osu!supporter).
 
 Le système de charts à ensuite évolué pour devenir le projet [Beatmap Spotlights](/wiki/Beatmap_Spotlights), qui fonctionne de façon similaire, avec des playlists qui peuvent être jouées sur le client osu!(lazer).
 
