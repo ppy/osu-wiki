@@ -267,7 +267,7 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 | `loved` | `loved` oder `geliebt` |
 | `approved` | `approved` oder `bestätigt` |
 | `overall difficulty` | `Allgemeine Schwierigkeit` |
-| `medal` | `Achievement` oder `Medaille` |
+| `medal` | `Medaille` |
 
 #### Benutzeroberfläche
 
@@ -276,7 +276,7 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 | `release stream` | `Updatequelle` |
 | `song select` | `Songauswahl` |
 | `button` | `Button/Schaltfläche` |
-| `result screen` | `Ergebnisanzeige (oder -bildschirm)` |
+| `results screen` | `Ergebnisanzeige (oder -bildschirm)` |
 | `collection` | `Sammlung` |
 | `beatmap carousel` | `Beatmap-Karussell` |
 | `offset wizard` | `Offset-Assistent` |
@@ -291,7 +291,6 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 | `Modding` | `Modding` (Verb lautet `gemoddet`) |
 | `tournaments` | `Turnier` |
 | `contest` | `Wettbewerb` |
-| `contribution guide` | `Beitragsleitfaden` |
 
 ## Abkürzungen, Akronyme und Initialen
 
