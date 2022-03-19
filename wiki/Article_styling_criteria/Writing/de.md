@@ -289,7 +289,7 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 | Englisch | Deutsch |
 | :-: | :-- |
 | `Modding` | `Modding` (Verb lautet `gemoddet`) |
-| `tournaments` | `Turnier` |
+| `tournament` | `Turnier` |
 | `contest` | `Wettbewerb` |
 
 ## Abkürzungen, Akronyme und Initialen
