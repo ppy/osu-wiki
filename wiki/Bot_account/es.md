@@ -7,9 +7,9 @@ tags:
   - IRC bots
 ---
 
-# Bot account
+# Cuenta Bot
 
-A **bot account** is a special type of osu! account run by an automated service instead of a real person. On the website, they have a white group badge labelled `BOT`, and only the `me!` section of their profile is visible. Bot accounts are most commonly used to host "chat bots" that offer various functionalities to the community through [multiplayer](/wiki/Gameplay/Multiplayer) lobby channels or private messages.
+Una **Cuenta BOT** es un tipo de cuenta especial de osu! administrada por un servicio automatizado en lugar de una persona real. En la pagina web, ellos tienen un grupo blanco marcado como `BOT`, y solo en la seccion de `me!` en su perfil es visible. Bot accounts are most commonly used to host "chat bots" that offer various functionalities to the community through [multiplayer](/wiki/Gameplay/Multiplayer) lobby channels or private messages.
 
 Bot accounts can only be created via an [application process](#creating-a-bot-account). An attempt to create a bot account by registering normally is considered multi-accounting and is against the [community rules](/wiki/Rules#community-rules).
 
