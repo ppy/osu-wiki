@@ -284,7 +284,7 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 | `keyboard shortcuts` | `Tastenkürzel` |
 | `keyboard bindings` | `Tastenbelegung` |
 
-#### Webseite
+#### Community
 
 | Englisch | Deutsch |
 | :-: | :-- |
