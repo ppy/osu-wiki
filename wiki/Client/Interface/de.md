@@ -299,7 +299,7 @@ Dies ist deine Online-Rangliste. Du kannst durch Herunterscrollen von der Ergebn
 - \[4\] Lokale Rangliste: Alle deine Resultate werden auf deinem Computer gespeichert. Navigiere zur [Songauswahl](#songauswahl) und wähle `Lokale Rangliste` von dem Dropdown-Menü über dem Scoreboard aus, um diese einzusehen.
 - \[5\] Sektion `Beatmap Ranking`. Nur für Beatmaps mit Online-Ranglisten ([qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [loved](/wiki/Beatmap/Category#loved)) verfügbar. Du musst außerdem online sein, um diese Sektion sehen zu können. Siehe unten für mehr Details.<!-- TODO: See if links here have to be adjusted as soon as the Category article is available -->
 - \[6\] Sektion `Overall Ranking`. Das ist nur verfügbar für Beatmaps mit Online-Ranglisten. Du musst außerdem online sein, um diese Sektion sehen zu können. Siehe unten für mehr Details.
-- \[7\] Informationen über die Beatmap mit der Spielanzahl und der Erfolgsquote.
+- \[7\] Informationen über die Beatmap mit der Spielanzahl und der Erfolgsrate.
 - \[8\] Bewertung der Beatmap. Bewerte nach deinem Ermessen, ob du die Beatmap mochtest oder nicht. Lasse es am besten bleiben, wenn du dich nicht entscheiden kannst.
 - \[9\] Klicke hier, um zur Songauswahl zurückzukehren.
 
