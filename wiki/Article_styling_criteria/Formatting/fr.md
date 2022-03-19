@@ -1,7 +1,11 @@
+---
+outdated: true
+outdated_since: 3283bf7d3bfc0d724600cf6330cbc1645f455b3e
+---
+
 # Mise en forme
 
-*Pour les normes de rédaction, voir : [Critères de style des articles/Rédaction](../Writing)*
-
+*Pour les normes de rédaction, voir : [Critères de style des articles/Rédaction](../Writing)*\
 *Note : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les niveaux d'exigence.*
 
 ## Locales
