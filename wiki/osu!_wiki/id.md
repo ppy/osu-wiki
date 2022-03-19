@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 3e747e2c31e5baabc871781b9987251ebc6da964
+---
+
 # osu! wiki
 
 **osu! wiki** adalah basis pengetahuan sumber terbuka yang ditulis dan dikelola oleh [kontributor sukarelawan](https://github.com/ppy/osu-wiki/graphs/contributors). osu! wiki berisi berbagai informasi tentang topik yang terkait dengan osu!, komunitasnya, dan aktivitas serta konsep terkait. Wiki berfungsi sebagai sumber informasi resmi dan sebagai dokumentasi sejarah osu!.

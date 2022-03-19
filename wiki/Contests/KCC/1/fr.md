@@ -12,7 +12,7 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 
 ## Programme du concours
 
-| Événement | Horodatage (UTC+09) |
+| Événement | Horodatage (UTC+9) |
 | --: | :-- |
 | Phase d'inscription, vote de musique | 01/02/2021 - 07/02/2021 |
 | Phase de soumission | 08/02/2021 - 07/03/2021 |
@@ -92,7 +92,7 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 - Les beatmaps ne doivent pas être publiées sur le site d'osu! par le biais du Beatmap Submission System (BSS). Toutes les soumissions au concours doivent être anonymes pendant les phases de jugement afin d'éviter toute partialité.
 - Une seule difficulté est autorisée. Si plusieurs difficultés sont soumises, celle qui a le plus grand nombre d'étoiles sera celle acceptée.
 - Seules les difficultés Insane ou plus sont autorisées. Veuillez consulter les règles spécifiques aux difficultés dans les [critères de classement](/wiki/Ranking_Criteria).
-- Si vous soumettez plusieurs maps, la dernière sera celle prise en compte.
+- Si vous soumettez plusieurs beatmaps, la dernière sera celle prise en compte.
 - L'envoi d'une participation implique la compréhension et l'acceptation des règles énoncées ci-dessus.
 
 ### Critères de jugement

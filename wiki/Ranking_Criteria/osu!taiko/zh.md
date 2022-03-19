@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: d633a607717a959ee2c6371c9afdd52f951c8667
+---
+
 # osu!taiko ranking criteria
 
 **osu!taiko Ranking Criteria** 是一系列关于创建 osu!taiko 模式谱面的规定和准则。为了使 osu!taiko 模式谱面被 ranked，谱面必须遵循以下列出的标准。**规定在任何情况下都须遵守**，而在例外情况下可以违反准则。这些例外情况必须能够详细解释，说明违反准则的原因，以及不违反准则将如何影响谱面的整体质量。

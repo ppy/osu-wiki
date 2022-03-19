@@ -6,7 +6,7 @@ Please visit the [Official tournament support](/wiki/Tournaments/Official_suppor
 
 ## Official World Cups
 
-Official tournaments hosted by the Tournament Management.
+Official tournaments organised by the osu! team.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
@@ -42,6 +42,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!taiko World Cup 2019](TWC/2019) | 2019-04-20 | 2019-05-26 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_KR] South Korea |
 | [osu!taiko World Cup 2020](TWC/2020) | 2020-03-07 | 2020-04-12 | ![][flag_JP] Japan | ![][flag_KR] South Korea | ![][flag_GB] United Kingdom |
 | [osu!taiko World Cup 2021](TWC/2021) | 2021-03-06 | 2021-04-11 | ![][flag_JP] Japan | ![][flag_KR] South Korea | ![][flag_BR] Brazil |
+| [osu!taiko World Cup 2022](TWC/2022) | 2022-03-12 | 2022-04-24 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -75,7 +76,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!mania 4K World Cup 2019](MWC/2019_4K) | 2019-09-21 | 2019-10-27 | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] United States |
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 2020-08-15 | 2020-09-20 | ![][flag_BR] Brazil | ![][flag_JP] Japan | ![][flag_KR] South Korea |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 2021-07-31 | 2021-09-19 | ![][flag_BR] Brazil | ![][flag_US] United States | ![][flag_MY] Malaysia |
-| [osu!mania 7K World Cup 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | TBD | TBD | TBD |
+| [osu!mania 7K World Cup 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_MY] Malaysia |
 
 ## Community
 
@@ -127,6 +128,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Coffee Hispanic Tournament](CH/CHT_1) | 2020-01-17 | 2020-02-17 | United States | Noveno Gaston | hallo y caspi |
 | [Coffee Hispanic Showdown](CH/CHS_1) | 2020-08-06 | 2020-09-13 | yotambien | carlos | catJAM |
+| [Coffee Hispanic: Mocha](CH/CHM_1) | 2021-08-10 | 2021-10-10 | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) | ![][flag_CL] [Intercambing](https://osu.ppy.sh/users/2546001) | ![][flag_ES] [A N T O N I O](https://osu.ppy.sh/users/12760743) |
 
 #### Corgi Cup
 
@@ -237,6 +239,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! South East Asia Tournament 2](oSEAT/2) | 2018-11-30 | 2019-01-27 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
 | [osu! South East Asia Tournament 3](oSEAT/3) | 2019-12-14 | 2020-02-16 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) |
 | [osu! South East Asia Tournament 4](oSEAT/4) | 2020-11-07 | 2021-01-31 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) |
+| [osu! South East Asia Tournament 5](oSEAT/5) | 2021-11-21 | 2022-02-02 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_PH] [NathanRammu2044](https://osu.ppy.sh/users/8472976) | ![][flag_ID] [Tebi](https://osu.ppy.sh/users/5407620) |
 
 #### osu! Tag Team Multiplayer Tournament
 
@@ -492,13 +495,13 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Catch the Beat Indonesia Tournament | 2012-04-28 | 2012-06-28 | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422) |
-| Catch the Beat Indonesia Cup 2013 | 2013-04-26 | 2013-06-18 | ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
-| Catch the Beat Indonesia Cup 2014 | 2014-06-02 | 2014-07-06 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) | ![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) |
+| [Catch the Beat Indonesia Tournament](CIC/2012) | 2012-04-28 | 2012-06-28 | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422) |
+| [Catch the Beat Indonesia Cup 2013](CIC/2013) | 2013-04-26 | 2013-06-18 | ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
+| [Catch the Beat Indonesia Cup 2014](CIC/2014) | 2014-06-02 | 2014-07-06 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) | ![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) |
 | Catch the Beat Indonesia Cup 2016 | 2016-07-15 | 2016-08-06 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Time-](https://osu.ppy.sh/users/2917987) |
 | Catch the Beat Indonesia Cup 2017 | 2017-08-07 | 2017-09-10 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) |
 | [Catch the Beat Indonesia Cup 2018](CIC/2018) | 2018-07-28 | 2018-09-10 | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) | ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) |
-| Catch the Beat Indonesia Cup 2019 | 2019-08-18 | 2019-10-13 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
+| [Catch the Beat Indonesia Cup 2019](CIC/2019) | 2019-08-18 | 2019-10-13 | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
 | [Catch the Beat Indonesia Cup 2020](CIC/2020) | 2020-07-10 | 2020-09-06 | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) |
 | [Catch the Beat Indonesia Cup 2021](CIC/2021) | 2021-06-01 | 2021-08-01 | ![][flag_ID] [Dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | ![][flag_ID] [Nekuro](https://osu.ppy.sh/users/3222638) |
 
@@ -515,6 +518,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Cup Master 3: osu!catch edition](OCM/3) | 2019-12-14 | 2020-03-15 | Acelga | idk lol | KRNS |
 
+#### osu!catch CIS Open Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!catch CIS Open Tournament 2022](COT/2022) | 2022-01-29 | 2022-03-12 | ![][flag_RU] [Memoriola](https://osu.ppy.sh/users/6856387) | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384) |
+
 #### osu!catch Convert Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -530,7 +539,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | 4 Digit osu!mania World Cup | 2019-06-03 | 2019-07-27 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
 | [4 Digit osu!mania World Cup 3](4DM/3) | 2021-01-23 | 2021-03-07 | ![][flag_PH] Philippines | ![][flag_MY] Malaysia | ![][flag_BR] Brazil |
-| [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | *TBD* | *TBD* | *TBD* |
+| [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | ![][flag_FR] France | ![][flag_TH] Thailand | ![][flag_PE] Peru |
 
 #### :thonking: Mania Tournament
 
@@ -732,6 +741,7 @@ Unofficial tournaments/competitions hosted by the communities.
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
