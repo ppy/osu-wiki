@@ -16,6 +16,7 @@ IRC 클라이언트의 설정 창에서 다음 값들을 채우세요 (서버를
 
 - Server: `irc.ppy.sh`
 - Port: `6667`
+- SSL: 無効化
 - Username: osu! 닉네임을 그대로 적으면 됩니다. 닉네임에 공백이 있는 경우에는 공백 문자 대신 언더바 ( _ )를 사용해 적습니다. (예시: `beppy master 1000`를 `beppy_master_1000`로)
 - Password: [IRC 인증](https://osu.ppy.sh/p/irc) 페이지의 비밀번호
 
