@@ -274,7 +274,7 @@ Une note doit être placée à l'endroit approprié dans une section, mais doit 
 
 ## Mélange de Note et hatnotes
 
-Plusieurs notes et hatnote peuvent être cumulées si nécessaire. Dans ce cas, ils doivent être empilés sans lignes vides et utiliser des barres obliques inversées de fin de ligne :
+Plusieurs notes et hatnotes peuvent être cumulées si nécessaire. Dans ce cas, ils doivent être empilés sans lignes vides et utiliser des barres obliques inversées de fin de ligne :
 
 ```markdown
 *Attention : {attention}.*\
@@ -301,10 +301,10 @@ L'italique peut également être utilisé pour accentuer un ou plusieurs mots ou
 
 Les noms des œuvres ou des jeux vidéo doivent être en italique. osu! en est exempt.
 
-Par exemple, lorsque l'on fait référence à des musique sous le format `{artist} - {title}`, toute la partie est une référence à l'œuvre et doit donc être mise en italique :
+Par exemple, lorsque l'on fait référence à des musiques sous le format `{artist} - {title}`, toute la partie est une référence à l'œuvre et doit donc être mise en italique :
 
 ```markdown
-*cYsmix - triangles* est l'une des trois musique d'intro que l'on peut entendre au démarrage du jeu.
+*cYsmix - triangles* est l'une des trois musiques d'intro que l'on peut entendre au démarrage du jeu.
 ```
 
 Par ailleurs, les noms d'artistes ne sont généralement pas en italique. Cela signifie que dans les références en forme libre, seul le titre doit être mis en italique, car le nom de l'artiste ne fait alors pas partie du nom de l'œuvre :
@@ -315,16 +315,16 @@ Par ailleurs, les noms d'artistes ne sont généralement pas en italique. Cela s
 
 ### Accentuation et liens
 
-Les liens apparaissent dans une couleur différente, ce qui le met déjà en valeur et ne nécessite donc pas de mise en valeur supplémentaire :
+Les liens apparaissent dans une couleur différente, ce qui le met déjà en valeur et ne nécessitent donc pas de mise en valeur supplémentaire :
 
 ```markdown
-[Camellia - OOPARTS](https://cametek.bandcamp.com/track/parts) est un exemple de musique officiellement créée spécifiquement pour osu!, autrement dit un *osu! original*, puisqu'elle a été spécifiquement commandée pour le concours osu! World Cup 2020 tiebreaker.
+[Camellia - OOPARTS](https://cametek.bandcamp.com/track/parts) est un exemple de musique officiellement créée spécifiquement pour osu!, autrement dit un *osu! original*, puisqu'elle a été spécifiquement commandée pour le tiebreaker de l'osu! World Cup 2020.
 ```
 
 Cela ne s'applique toutefois pas si l'œuvre référencée n'est pas la seule partie du lien :
 
 ```markdown
-[La beatmap de Voltaeyx de *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) a accumulé une popularité considérable en 2018 grâce à ses overlap de patterns de sliders uniques.
+[La beatmap de Voltaeyx de *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) a accumulé une popularité considérable en 2018 grâce à ses overlaps de patterns de sliders uniques.
 ```
 
 Le type de construction ci-dessus doit être utilisé avec parcimonie, et ne doit pas être utilisé dans des endroits comportant de nombreux liens, tels que des tableaux ou des listes.
@@ -812,7 +812,8 @@ Les citations en bloc sont limitées à la citation du texte d'une personne. Ell
 
 ```markdown
 > profitez du jeu
-—rrtyui
+
+-rrtyui
 ```
 
 ## Ruptures thématiques
