@@ -25,7 +25,7 @@ Need a sample? [_Epreus](https://osu.ppy.sh/users/7342798) produced a map of [Ma
 Try [this map from the video above](https://osu.ppy.sh/beatmapsets/1679690) hosted by [_Epreus](https://osu.ppy.sh/users/7342798)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/249/Melody%20From%20Sky/Plum%20-%20Maelstrom.mp3" type="audio/mpeg">
 </audio>
 
 ### Timeline
@@ -33,13 +33,13 @@ Try [this map from the video above](https://osu.ppy.sh/beatmapsets/1679690) host
 Play the piano to **Plum**'s piano tune through [this osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1510034) hosted by [TakJun](https://osu.ppy.sh/users/4356322)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/249/Musicbox%2024-7%20-%20Side%20PM/Plum%20-%20Timeline.mp3" type="audio/mpeg">
 </audio>
 
 ### Dustwind
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/249/Fragment%20of%20Eden/Plum%20-%20Dustwind.mp3" type="audio/mpeg">
 </audio>
 
 ---
