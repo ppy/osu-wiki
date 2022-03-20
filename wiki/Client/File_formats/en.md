@@ -29,11 +29,6 @@ Knowing how to make a skin or beatmap archive recognised by osu! will make your 
 
 To test the archive, make a copy of the file and open it via osu!.
 
-**Screenshots** (taken from [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694)):
-
-- [WinRAR](https://puu.sh/1MBV)
-- [7-zip](https://puu.sh/1MBW)
-
 ### Using osu!
 
 To produce a beatmap archive:
