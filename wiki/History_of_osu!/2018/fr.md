@@ -99,6 +99,7 @@ Le cookie sur le menu principal tourne lentement dans le sens des aiguilles d'un
 ![](img/april-fools-song-select-hover.jpg "L'écran de sélection de beatmap lors du survol du cookie")
 
 ---
+
 Le badge de contributeur de la communauté a été mis à jour pour correspondre à la nouvelle disposition des badges d'utilisateurs; formant les directives indiquant ce à quoi les badges actuels et futurs devront ressembler.
 
 ![](img/contributor-old.jpg "L'ancien badge des contributeurs")
