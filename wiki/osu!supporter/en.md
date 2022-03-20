@@ -1,61 +1,64 @@
 ---
-needs_cleanup: true
+tags:
+  - support
+  - supporter
 ---
-
-<!-- TODO: website updates, needs a review on the writing style -->
 
 # osu!supporter
 
-*For the osu!supporter page from the website, see: [support the game](https://osu.ppy.sh/home/support)*
+The **osu!supporter** is a *temporary* title given to the players who supported osu! by making a voluntary, monetary donation to help it thrive. Supporters receive a handful of cosmetical and technical benefits, most of which are active only when the title is present, such as:
 
-## Benefits
+- Distinctive bright yellow nickname in the [chat](/wiki/Client/Interface/Chat_console);
+- Access to osu!direct, the in-game beatmap search and download engine;
+- Relaxed limits on number of favourited or uploaded beatmaps;
+- Ability to additionally skin osu!;
+- Custom [leaderboards](/wiki/Beatmap#leaderboards).
 
-*For a list of goodies from having osu!supporter, see: [support the game](https://osu.ppy.sh/home/support)*
+The full list of perks and donation goals may be seen at the [osu!supporter promo page](https://osu.ppy.sh/home/support). It is important to note that the extra features from osu!supporter will never give advantage in gameplay, performance, or score.
 
-In general, by buying osu!supporter tag, you will be directly supporting the game's development while obtaining some extra goodies. It must be noted that the extra features from osu!supporter will never affect gameplay, performance, or score to your advantage in anyway.
+## Permanent benefits
+
+The permanent benefits of the osu!supporter are:
+
+- Ability to change the username once for free;
+- The editable `me!` section of the user profile, previously called a userpage.
+
+## Badge
+
+![Profile with osu!supporter](img/userpage.jpg?1 "Profile with osu!supporter")
+
+![Usercard with osu!supporter](img/usercard.png?1 "User card with osu!supporter")
+
+The badge can be found next to the user avatar and on the usercard next to the country flag. The amount of hearts in the profile depends on how long a user has supported the game in total<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
+
+- Less than 1 year: 1 heart
+- From 1 to 5 years: 2 hearts
+- More than 5 years: 3 hearts
+
+## Remaining duration
+
+![osu!supporter tag with three months remaining](img/status.jpg?1 "Three months left of osu!supporter tag")
+
+The remaining osu!supporter duration, as well as total amount of contributions, tag purchases and gifts, is available at the top of the [osu!supporter promo page](https://osu.ppy.sh/home/support) page.
 
 ## Getting osu!supporter
 
 ![osu!store product banner](img/store-product.jpg?1 "osu!supporter product banner from the osu!store")
 
-To get osu!supporter, sign in (or [register](/wiki/Registration)), then go to the [store page](https://osu.ppy.sh/store/products/supporter-tag). Use the slider or the month buttons (underneath the slider) to select the duration of the osu!supporter tag. A different duration will change the price you will pay. The currency used is in United States dollars (USD). If your country uses a different currency, please use a currency converter such as [OANDA](https://www.oanda.com/currency/converter/) or [Google](https://www.google.com/search?q=usd+exchange+rate) to check the price. The prices displayed on the osu!store page are by per individual account.
+To get osu!supporter, visit the [osu!supporter store page](https://osu.ppy.sh/store/products/supporter-tag) and adjust the supporter tag duration using the slider, or the buttons with number of months underneath. All prices are in United States dollars (USD) and don't include possible fees of the payment system.
 
-### Selecting the duration
+Afterwards, click `Add to Cart` to put the supporter tag into the osu!store shopping cart. To finalize the purchase, go to the [shopping cart](https://osu.ppy.sh/store/cart) and click `Checkout`, then follow on-screen prompts.
 
-![Buying osu!supporter](img/selecting-duration.jpg?1 "Selecting the user and duration for osu!supporter")
+## Giving osu!supporter
 
-The usercard displayed above the slider is the user you are buying osu!supporter for. By default, it should be your usercard. To gift to a friend, enter your friend's username (not user ID) into the grey box below the usercard. Once this is done, the usercard will change to match the username you had entered. From here, you can then select the duration of osu!supporter you want to gift, but keep in mind that there is no promotion for group gifting.
-
-You can only buy or gift osu!supporter to one user at a time within this screen. To gift another user, you will need to go back to the [osu!supporter store page](https://osu.ppy.sh/store/products/supporter-tag) and repeat the steps for adding another user.
-
-### Checking out
-
-Once you are done, click `Add to Cart` to put it into the osu!store shopping cart.
-
-![osu!store shopping cart](img/shopping-cart.jpg?1 "osu!store shopping cart with osu!supporter for flyte")
-
-When you are ready to make the purchase, go to your [shopping cart](https://osu.ppy.sh/store/cart) and click `Checkout`. Then follow the prompts to make your payment.
+The osu!supporter may also be gifted to another player by entering their username into the grey box below the usercard. To add a osu!supporter tag for another user, go back to the [osu!supporter store page](https://osu.ppy.sh/store/products/supporter-tag) and repeat the steps.
 
 ## Conclusion
 
-After the transaction is completed, the Recent Activity section in your account (if you had brought it your self) or the accounts you have gifted will say:
+After the transaction is completed, there will be a new event in the `Recent Activity` section of a profile of the user who made the purchase:
 
-- `{username} has become an osu! supporter - thanks for your generosity!` if it is the first time that account gets osu!supporter.
-- `{username} has once again chosen to support osu! - thanks for your generosity!` if the account has been an osu!supporter before.
+- `{username} has become an osu! supporter - thanks for your generosity!` if it is the first time that user gets osu!supporter.
+- `{username} has once again chosen to support osu! - thanks for your generosity!` if the user has been an osu!supporter before.
+- `{username} has received the gift of osu!supporter!` in case the tag was gifted.
 
-### Userpage and usercard
-
-![Userpage with osu!supporter](img/userpage.jpg?1 "Userpage with osu!supporter")
-
-![Usercard with osu!supporter](img/usercard.png?1 "Usercard with osu!supporter")
-
-On the osu!web, the osu!supporter badge can be found next to the user avatar and in the usercard next to your country flag.
-The osu!supporter badge changes depending on how long you have supported the game for. If you support the game for less than 1 year, you have 1 heart; for 1-5 years, you have 2 hearts; and for more than 5 years, you have 3 hearts.
-
-### Checking your support status
-
-![osu!supporter tag with three months remaining](img/status.jpg?1 "Three months left of osu!supporter tag")
-
-*Note: This section is only shown after you obtain osu!supporter.*
-
-To check your remaining osu!supporter tag status and total contributions and tag purchases, go to the [support the game](https://osu.ppy.sh/home/support) page and scroll down to see a section similar as pictured above.
+Additionally, both the giver and the recipient will receive e-mail notifications mentioning the purchase.
