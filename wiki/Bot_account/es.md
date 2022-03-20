@@ -9,56 +9,56 @@ tags:
 
 # Cuenta Bot
 
-Una **Cuenta BOT** es un tipo de cuenta especial de osu! administrada por un servicio automatizado en lugar de una persona real. En el sitio web, ellos tienen un grupo blanco marcado como `BOT`, y solo en la seccion de `me!` de su perfil es visible. Las cuentas BOT son comúnmente utilizadas para organizar "Chat bots" que frecen varias funcionalidades a la comuinidad a travez de [multiplayer](/wiki/Gameplay/Multiplayer) lobby channels or private messages.
+Una **Cuenta BOT** es un tipo de cuenta especial de osu! administrada por un servicio automatizado en lugar de una persona real. En el sitio web, ellos tienen una insignia blanca etiquetada `BOT`, y solo en la seccion de `me!` de su perfil es visible. Las cuentas BOT son comúnmente utilizadas para organizar "Chat bots" que frecen varias funcionalidades a la comuinidad a travez del canal lobby [multiplayer](/wiki/Gameplay/Multiplayer) o mensajes privados.
 
-Bot accounts can only be created via an [application process](#creating-a-bot-account). An attempt to create a bot account by registering normally is considered multi-accounting and is against the [community rules](/wiki/Rules#community-rules).
+Las cuentas Bot solo pueden ser creadas a travez de un proceso de aplicacion  [proceso de aplicacion](#creating-a-bot-account). El intentar crear una cuenta Bot registrandola de manera normal es considerado como multi-cuenta y va en contra de las [reglas de la comunidad](/wiki/Rules#community-rules).
 
-## Benefits of bot accounts
+## Beneficios de las cuentas bot
 
-The main difference between personal accounts and bot accounts is in the rate limits that apply to them when sending [chat](/wiki/Client/Interface/Chat_console) messages. Bot accounts have higher limits to allow their services to interact with more users without risk of having the account [silenced](/wiki/Silence):
+La gran diferencia entre una cuenta personal y una cuenta de bot esta en los limites que se les aplican al momento de mandar mensajes de [chat](/wiki/Client/Interface/Chat_console). Las cuentas bot tienen limites mayores que les permiten a sus servicios interactuar con mas usuarios sin tener el riesgo de que su cuenta resulte [silenciada](/wiki/Silence):
 
-- Personal accounts can send 10 messages every 5 seconds
-- Bot accounts can send 300 messages every 60 seconds
+- Cuentas personales pueden enviar 10 mensajes cada 5 segundos
+- Cuentas Bot pueden enviar 300 mensajes cada 60 segundos
 
-These rate limits only apply to private messages, `#multiplayer`, and `#spectator`. Bot accounts are not allowed to send messages in other channels.
+Estos limitantes solo aplican a los mensajes privados y en los canales de `#multiplayer`, y `#spectator`. A las cuentas bot no se les permite enviar mensajes en otros canales.
 
-## Creating a bot account
+## Creando una cuenta bot
 
-If you are looking to start a chat bot, please begin by running it on your own osu! account, and make sure to respect the personal account rate limits listed above. As your service grows, there may be an opportunity to request a bot account for it from the account support team.
+Si estas buscando empezar un chat bot, por favor comienza ejecutandolo en tu propia cuenta de osu!, y asegurate de respetar los limites de tu cuenta personal listados arriba.A medida que tu servicio crezca, podra existir la oportunidad de solicitar una cuenta bot para este por parte del equipo de soporte de cuentas.
 
-### Minimum criteria
+### Requisitos minimos
 
-Before considering a request, the support team requires that the bot meets these criteria:
+Antes de considerar una solicitud, el equipo de soporte necesita que el bot cumpla con los siguientes requisitos:
 
-- The bot has been running on your account for at least 6 months
-- The bot is fully open-source and has complete public documentation
-- The bot is used by at least 50 unique users every month
-- The bot respects the personal account rate limits
-- The bot does not send any messages in public channels
-- The bot is helpful to a wide audience in the osu! community
+- El bot tiene que estar funcionando en tu cuenta por al menos 6 meses
+- El bot tiene que ser completamente de codigo abierto y que contenga su documentacion publica completa
+- El bot es usado por almenos 50 usuarios unicos cada mes
+- El bot respeta los limites de cuenta personal
+- El bot no envie ningun mensaje en canales publicos
+- El bot es útil para una amplia audiencia en la comunidad de osu!
 
-### Filing a request
+### Llenando tu solicitud
 
-If your bot fulfils the criteria above, you may file a request to create a bot account for it.
+Si tu bot cumple con los requisitos, tu puedes llenar tu solicitud para crear una cuenta bot.
 
-Send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject `Bot Account Request`. This must be sent from the email address attached to your osu! account.
+Envia un correo electronico a  [accounts@ppy.sh](mailto:accounts@ppy.sh) con el tema `Bot Account Request`. Este correo debera ser enviado desde el correo de tu cuenta personal de osu!.
 
-The body of the email should contain the following:
+El cuerpo del correo electronico debera contener lo siguiente:
 
-- Your osu! username (where you have been running the bot)
-- The username you want to give to the bot account
-- The date on which you began running the bot
-- A link to the source code and documentation
-- A short summary of what your bot does
+- Tu cuenta de osu! (donde haz estado ejecutando el bot)
+- El usuario que le quieres asignar a la cuenta bot
+- La fecha en la que empezaste a ejecutar el bot
+- Un link al codigo del bot y su documentacion
+- Un resumen breve de lo que hace tu bot
 
-The [account support team](/wiki/People/The_Team/Account_support_team) will review your request. If your request is denied, they will let you know why. If your request is approved, they will create the bot account for you and give you follow-up instructions about how to use it.
+El [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team) revisara tu solicitud. Si tu solicitud es denegada, ellos te haran saber el motivo. Si tu solicitud es aprovada, ellos crearan la cuenta bot para ti, y le daran instrucciones necesarias sobre como usarla.
 
 <!-- TODO: history section would be nice, talking about LogBot, BanchoBot, the phpbb crawler accounts, the first user-run bots, Quality Assurance Team, osu!team, ... -->
 
 ## Trivia
 
-- The `BOT` group badge is shown on accounts with a primary group of `Chat Bots` (group #29). The group's listing is not public.
-- Some personal accounts are in the chat bots group because the owners didn't want or request to have a separate bot account for their service, for example ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) and ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). This setup is no longer offered, and new bots entering the group will always be given an exclusive account.
+- La insignia de grupo `BOT` es mostrada en cuentas con un grupo primario de `Chat Bots` (group #29). La lista grupal no es publica.
+- Algunas cuentas personales estan en el grupo de Chat Bots debido a que sus duenos no querían o no solicitaron tener su cuenta separada de su servicio, por ejemplo ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) y ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Este servicio no se ofrece actualmente y los nuevos bots entrando al grupo siempre se les proporcionara una cuenta exclusiva.
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
