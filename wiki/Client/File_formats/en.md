@@ -12,12 +12,12 @@
 
 ## Creating .osz and .osk files
 
-`.osz` and `.osk` are file extensions of the archives supported by osu!. Their contents are automatically extracted by osu! upon opening:
+`.osz` and `.osk` files are archives containing beatmaps and skins respectively. Their contents are automatically extracted by osu! when opening them:
 
-- `.osz` files are extracted into `Songs` directory
-- `.osk` files are extracted into `Skins` directory
+- `.osz` files are extracted into the `Songs` directory
+- `.osk` files are extracted into the `Skins` directory
 
-Knowing how to make a skin or beatmap archive recognized by osu! will make your works more accessible to other users.
+Knowing how to make a skin or beatmap archive recognised by osu! will make your works more accessible to other users.
 
 ### Using an archiver
 
@@ -44,7 +44,7 @@ To produce a beatmap archive:
 
 To produce a skin archive:
 
-- Make sure your skin has everything you want to export. You can check by clicking the `Open Skin Folder` button in osu! settings.
-- In osu! settings, click on `Select Skin`.
+- Make sure your skin has everything you want to export. You can check by clicking the `Open Skin Folder` button in the osu! settings.
+- In the settings, click on `Select Skin`.
 - Choose the skin you want to export and click `Export as .osk`.
-- The `.osk` archive will be placed in the `Exports` folder inside the osu! folder.
+- The `.osk` archive will be placed in the `Exports` folder in the osu! installation folder.
