@@ -20,7 +20,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Gestaltung der [Achievements](/wiki/Medals). |
 | ![][flag_US] [akrolsmir](https://osu.ppy.sh/users/576800) | Entwickler und Aufrechthaltung des [AIBat](https://osu.ppy.sh/community/forums/topics/55305), dem bekanntesten Drittanbietertool für Beatmap-Modding, das heute von den meisten Benutzern in der Community verwendet wird. |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Ausgezeichnete Arbeit im Testen von Features und bei der Fehlerbehebung sowie Entwicklung verschiedener Funktionen für Mapper und Modder. |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organisieren vieler offiziellen Turnier (unter anderem dem OWC). |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organisieren vieler offizieller Turniere (unter anderem dem OWC). |
 | ![][flag_US] [Blazevoir](https://osu.ppy.sh/users/120265) | Wahnsinnige Moderationserfolge (entspricht etwa 6 Mitarbeitern) und fast alleinige Moderation von `#osu` während der Spitzenzeiten (9k+ Nutzer). |
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Entwicklung und Pflege von [osu!stats](https://osustats.ppy.sh/) und einer Reihe nützlicher Werkzeuge für Beatmapping, Modding und allgemeines Spielen. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Herausragende Leistungen beim Testen von Bugfixes/Features und bei der Bearbeitung von Support-Anfragen der Benutzer. |
@@ -165,7 +165,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203) | Herausragende Beiträge zum osu! World Cup |
 | ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) | Herausragende Beiträge zur osu!mania-Turnierszene |
 | ![][flag_DE] [Junihuhn](https://osu.ppy.sh/users/4182339) | Herausragende Beiträge für die osu! World Cups & Turnierszene |
-| ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) | Herausragende Beiträge zur osu!catch Turnierszene |
+| ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) | Herausragende Beiträge zur osu!catch-Turnierszene |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Herausragende Beiträge zur Community-Moderation |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | Herausragende, unermüdliche Unterstützung und Hilfe für Spieler |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Herausragende, unermüdliche Unterstützung und Hilfe für Spieler |
