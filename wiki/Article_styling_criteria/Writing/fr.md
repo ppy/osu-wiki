@@ -7,7 +7,7 @@ Cet article concerne les normes de rédaction pour tous les articles en françai
 
 Tous les articles en français doivent utiliser un français simple.
 
-### Parité de contenu
+## Parité de contenu
 
 Les traductions sont soumises à une stricte parité de contenu avec leur article anglais, ce qui signifie qu'elles doivent avoir le même message, indépendamment de la grammaire et de la syntaxe. Toute modification du sens des traductions doit être accompagnée de modifications équivalentes de l'article anglais.
 
