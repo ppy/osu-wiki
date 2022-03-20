@@ -320,13 +320,13 @@ Consultez les [conventions typographiques de Wikipédia concernant les citations
 Les guillemets ne se ferment après la ponctuation que si celle-ci ne peut pas être séparée de la citation (si cette citation forme une phrase complète, par exemple).
 
 Exemple :
->Le Loup et l'Agneau commence par ces mots : « La raison du plus fort est toujours la meilleure. »
+> Le Loup et l'Agneau commence par ces mots : « La raison du plus fort est toujours la meilleure. »
 Le loup cruel déformait les faits : « Qui te rend si hardi de troubler mon breuvage ? » Le doux agneau se défendit en vain.
 
 Cependant, si la ponctuation se trouve avant ou après la citation, elle se placera après le guillemet fermant.
 
 Exemple :
->La cigale de la fable, « fort dépourvue », fut contrainte d'aller chercher secours « chez la fourmi sa voisine ».
+> La cigale de la fable, « fort dépourvue », fut contrainte d'aller chercher secours « chez la fourmi sa voisine ».
 
 Par extension, les [mises en valeur](/wiki/Article_styling_criteria/Formatting#mise-en-valeur), les [liens](/wiki/Article_styling_criteria/Formatting#liens) et les parenthèses doivent suivre les mêmes règles de ponctuation (qu'elles englobent une phrase entière ou seulement une partie de celle-ci).
 
