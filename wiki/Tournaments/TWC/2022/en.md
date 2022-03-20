@@ -205,27 +205,27 @@ Saturday, March 19, 2022
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Chile** ![][flag_CL] | **6** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/96871014) |
-| **Malaysia** ![][flag_MY] | **6** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/96833931) |
-| **France** ![][flag_FR] | **6** | 0 | ![][flag_AR] Argentina | [#1]( https://osu.ppy.sh/community/matches/97182046) |
-| **Japan** ![][flag_JP] | **6** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/96881672) |
+| **Chile** ![][flag_CL] | **5** | 2 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/98886392) |
+| **Malaysia** ![][flag_MY] | **5** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/98889890) |
+| **France** ![][flag_FR] | **5** | 2 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/98903469) |
+| **Japan** ![][flag_JP] | **5** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/98907836) |
 
 Sunday, March 20, 2022
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Brazil ![][flag_BR] | 3 | **6** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/97137500) |
-| South Korea ![][flag_KR] | 2 | **6** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/97155646) |
-| **Hong Kong** ![][flag_HK] | **6** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/96879069) |
-| Australia ![][flag_AU] | 4 | **6** | ![][flag_TR] **Turkey** | [#1](https://osu.ppy.sh/community/matches/96836932) |
-| United Kingdom ![][flag_GB] | 0 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/97134166) |
-| **Italy** ![][flag_IT] | **6** | 2 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/97139929) |
-| **Taiwan** ![][flag_TW] | **6** | 5 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/97177094) |
-| **Indonesia** ![][flag_ID] | **6** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/97187449) |
-| **Germany** ![][flag_DE] | **6** | 0 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/97170691) |
-| **Canada** ![][flag_CA] | **6** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/96884707) |
-| **United States** ![][flag_US] | **6** | 1 | ![][flag_CR] Costa Rica | [#1](https://osu.ppy.sh/community/matches/96842328) |
-| **Sweden** ![][flag_SE] | **6** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/96883025) |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/98911287) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/98916980) |
+| **Hong Kong** ![][flag_HK] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/98923225) |
+| **Australia** ![][flag_AU] | **5** | 3 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/98924385) |
+| **United Kingdom** ![][flag_GB] | **5** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/98924429) |
+| Italy ![][flag_IT] | 3 | **5** | ![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/98928985) |
+| **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/98930618) |
+| **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/98930679) |
+| **Germany** ![][flag_DE] | **5** | 0 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/98932764) |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/98934492) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_CR] Costa Rica | [#1](https://osu.ppy.sh/community/matches/98938285) |
+| **Sweden** ![][flag_SE] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/98940557) |
 
 ### Qualifiers
 
