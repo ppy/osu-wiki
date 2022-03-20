@@ -6,7 +6,7 @@ outdated: true
 
 ## Janvier
 Après une pause de six mois, flyte a posté sur le blog [osu!next](https://osunext.tumblr.com) avec quelques photos teaser pour le prochain design du site internet. Il a expliqué
-que l'actuel statut du site internet possède beaucoup de problèmes **d'UX**, venant de diverses spécifications de fonctionnalités aux commentaires des utilisateurs, qui n'étaient
+que l'actuel statut du site internet possède beaucoup de problèmes d'UX, venant de diverses spécifications de fonctionnalités aux commentaires des utilisateurs, qui n'étaient
 pas considérées au moment de la conception. Depuis cette date, il avait pris le temps de remodeler le design actuel du site internet en partant de zéro.
 
 La osu!mania 7K World Cup 2018 a été ouverte aux inscriptions. Le Community Choice 2017 (précédemment connu comme la série "Best of") a été ouverte aux votes.
@@ -22,7 +22,7 @@ peppy a tweeté que l'inventaire du nouveau t-shirt (avec leurs nouveaux designs
 
 La capacité de voir les star ratings sur le osu!direct a été reprise de la version lazer du client osu!. Enfin, grâce à nekodex, la refonte du tableau d'affichage a été ajoutée.
 
-peppy a brièvement ouvert une Github issue pour discuter du ***passive HP*.**
+peppy a brièvement ouvert une Github issue pour discuter du *passive HP*.
 
 Liens :
 
@@ -43,7 +43,7 @@ Liens :
 Dans la version lazer du client osu!, les tristements célèbres sliders de catmull ont été implémentés; ceux-ci permettant aux anciennes beatmaps d'être jouées de la manière
 dont elles ont été concues. Le bouton retour dans les options a été remodelé. les statistiques de SS+ et S+ étaient maintenant visibles. le tableau d'affichage d'osu!catch apparaît maintenant, permettant aux joueurs d'enfin achever une partie d'osu!catch. cYsmix a été en charge de créer les nouveaux sons par défaut. Couper le son du client à travers des raccourcis était maintenant, par contre, le design est toujours en cours. Le traitement des URL en jeu a été ajouté et n'est pas voué à disparaître (ouvrir les canaux de discussions ou des liens osu! vont utiliser le client, plutôt que de devoir laisser ouvert le navigateur internet). L'ajustement des paramètres visuels peut être fait dans le "loading screen". L'importation de replays marche de nouveau.
 
-Dans le osu!web, le temps de jeu total a été implémenté dans le profil des utilisateurs. Elasticsearch a été mis à jour. L'ancien site a été déprécié quasiment entièrement (une nouvelle bannière est maintenant présente presque partout sur l'ancien site, renvoyant les utilisateurs vers le nouveau site). Les genres et les languages ont été ajoutés aux pages des beatmaps. L'activité récente affiche maintenant l'option "show more". La recherche des utilisateurs a été améliorée. Les icônes pour les sujets de forum a été changé pour être plus adapté aux daltoniens. Les utilisateurs sont maintenant capables de sélectionner leur mode de jeu par défaut (montré par une étoile à coté du mode de jeu) sur leurs profils de jeu, plutôt que d'assumer le dernier mode de jeu regardé. **Les versions de changelog** ont maintenant une promotion pour l'osu!supporter en bas. Une barre d'expérience pour le niveau de l'utilisateur peut maintenant être vue en survolant le badge de niveau.
+Dans le osu!web, le temps de jeu total a été implémenté dans le profil des utilisateurs. Elasticsearch a été mis à jour. L'ancien site a été déprécié quasiment entièrement (une nouvelle bannière est maintenant présente presque partout sur l'ancien site, renvoyant les utilisateurs vers le nouveau site). Les genres et les languages ont été ajoutés aux pages des beatmaps. L'activité récente affiche maintenant l'option "show more". La recherche des utilisateurs a été améliorée. Les icônes pour les sujets de forum a été changé pour être plus adapté aux daltoniens. Les utilisateurs sont maintenant capables de sélectionner leur mode de jeu par défaut (montré par une étoile à coté du mode de jeu) sur leurs profils de jeu, plutôt que d'assumer le dernier mode de jeu regardé. Les versions de changelog ont maintenant une promotion de l'osu!supporter en bas. Une barre d'expérience pour le niveau de l'utilisateur peut maintenant être vue en survolant le badge de niveau.
 
 Les résultats du Community Choice 2017 ont été publiés avec Doormat, Backfire, Ascendance, et Protastic101 gagnant le vote de la communauté sur osu!, osu!taiko, osu!catch, et osu!mania respectivement.
 
