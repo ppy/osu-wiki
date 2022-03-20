@@ -16,7 +16,7 @@ un nouveau jeu de sons par défaut a été ajouté. osu!catch a été en grande 
 
 Dans le osu!web, la liste des beatmap pack a été amélioré, le compteur de hype et de nomination étaient visibles dans la liste des beatmaps. L'obtention d'un lien permanent au post de la discussion de beatmap a été rendu plus facile à copier, les localisations peuvent maintenant redimensionner le menu en passant la souris au dessus de celles-ci, les
 star ratings peuvent être vus sur la liste des beatmaps via le survol de l'icône de difficulté, et le tri des discussions de beatmaps a été ajouté. Une limite pour charger
-uniquement 250 posts du forum and décharger les autres a été implémentée pour éviter une forte consommation de mémoire.
+uniquement 250 posts du forum et décharger les autres a été implémentée pour éviter une forte consommation de mémoire.
 
 peppy a tweeté que l'inventaire du nouveau t-shirt (avec leurs nouveaux designs) est arrivé. Six jours plus tard, ils étaient disponibles sur le osu!store.
 
@@ -46,7 +46,6 @@ dont elles ont été concues. Le bouton retour dans les options a été remodel�
 Dans le osu!web, le temps de jeu total a été implémenté dans le profil des utilisateurs. Elasticsearch a été mis à jour. L'ancien site a été déprécié quasiment entièrement (une nouvelle bannière est maintenant présente presque partout sur l'ancien site, renvoyant les utilisateurs vers le nouveau site). Les genres et les languages ont été ajoutés aux pages des beatmaps. L'activité récente affiche maintenant l'option "show more". La recherche des utilisateurs a été améliorée. Les icônes pour les sujets de forum a été changé pour être plus adapté aux daltoniens. Les utilisateurs sont maintenant capables de sélectionner leur mode de jeu par défaut (montré par une étoile à coté du mode de jeu) sur leurs profils de jeu, plutôt que d'assumer le dernier mode de jeu regardé. **Les versions de changelog** ont maintenant une promotion pour l'osu!supporter en bas. Une barre d'expérience pour le niveau de l'utilisateur peut maintenant être vue en survolant le badge de niveau.
 
 Les résultats du Community Choice 2017 ont été publiés avec Doormat, Backfire, Ascendance, et Protastic101 gagnant le vote de la communauté sur osu!, osu!taiko, osu!catch, et osu!mania respectivement.
-The Community Choice 2017 results were released with Doormat, Backfire, Ascendance, and Protastic101 winning the community's vote in osu!, osu!taiko, osu!catch, and osu!mania respectively.
 
 Liens :
 
@@ -78,7 +77,7 @@ Sur la version lazer de osu!, le support de base pour le skinning a été implé
 
 Dans le osu!web, les graphiques de l'historique des parties et de l'historique des replays regardés (le design est temporaire) et le nombre de posts dans les profils d'utilisateurs ont été ajoutés. La version mobile du site internet possède maintenant une barre de recherche dédiée. Les titres de pages ont été réarrangés pour prioriser le nom de la page (plutôt que le nom de la partie) permettant une navigation plus simple entre les onglets. Les résultats des recherches sur le forum sont maintenant listés. Grâce à nanaya, les badges des utilisateurs sont maintenant affichés sur les pages des utilisateurs.
 
-Le 13 mars 2018, peppy a introduit le canal `#ranking-procedures` (maintenant appelé `#modding`) dans le Discord osu!dev pour donner aux BN et aux QAT pour discuter de sujets sur lesquels ils souhaitent que des mesures soient prises. Ceci a été fait pour avoir des dicussions plus ouvertes et transparentes, mais aussi pour empêcher les personnes de l'extérieur d'assumer que les membres du "osu! staff" sont ceux qui prennent les décisions prises par les BN et les QAT.
+Le 13 mars 2018, peppy a introduit le canal `#ranking-procedures` (maintenant appelé `#modding`) dans le Discord osu!dev pour donner aux BN et aux QAT un espace pour discuter de sujets sur lesquels ils souhaitent que des mesures soient prises. Ceci a été fait pour avoir des dicussions plus ouvertes et transparentes, mais aussi pour empêcher les personnes de l'extérieur d'assumer que les membres du "osu! staff" sont ceux qui prennent les décisions prises par les BN et les QAT.
 
 MWC 7K 2018 s'est conclu avec la Corée du Sud, la Malaisie, et la Chine prenant respectivement la première, deuxième, et troisième place.
 
