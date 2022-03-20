@@ -85,8 +85,8 @@ tags:
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Немски |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | корейски |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Китайски |
-| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Немски |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Руски |
 | ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Немски |
@@ -104,6 +104,7 @@ tags:
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | корейски |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Руски |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
+| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Китайски |
 | ![][flag_HK] [Saggin](https://osu.ppy.sh/users/12464107) | Китайски, кантонски, някои японски |
 | ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | Френски |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
@@ -138,7 +139,6 @@ tags:
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | арабски, Френски, някои Италиански |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
 | ![][flag_BR] [Idealism](https://osu.ppy.sh/users/3869519) | португалски |
-| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | холандски |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | финландски, японски |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | японски, кантонски, Китайски |
 | ![][flag_RU] [Lexa14](https://osu.ppy.sh/users/15397129) | Руски |
@@ -155,6 +155,7 @@ tags:
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | тайландски |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | кантонски |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | холандски |
 | ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530) | полиране |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Гръцки |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | корейски |
@@ -168,17 +169,17 @@ tags:
 
 | Име | Допълнителен език |
 | :-- | :-- |
-| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Китайски |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
 | ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
+| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Китайски |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | корейски |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | виетнамски |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | филипински |
 | ![][flag_ID] [Lita-](https://osu.ppy.sh/users/15205070) | индонезийски |
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | индонезийски |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | индонезийски |
-| ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) | индонезийски |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | корейски |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | холандски |
 | ![][flag_ES] [PuigdemontLoL](https://osu.ppy.sh/users/7080063) | испански |
@@ -193,16 +194,18 @@ tags:
 
 | Име | Допълнителен език |
 | :-- | :-- |
+| ![][flag_PT] [Basensorex](https://osu.ppy.sh/users/11655886) | португалски |
 | ![][flag_KR] [Cellina](https://osu.ppy.sh/users/2490770) | корейски |
+| ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | испански |
 | ![][flag_KR] [Len](https://osu.ppy.sh/users/1686145) | корейски |
 | ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
-| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Китайски |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | литовски |
 
 #### osu!taiko
 
 | Име | Допълнителен език |
 | :-- | :-- |
+| ![][flag_JP] [Chromoxx](https://osu.ppy.sh/users/1881639) | японски |
 | ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | някои японски, някои Немски |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | Руски |
 
@@ -210,15 +213,16 @@ tags:
 
 | Име | Допълнителен език |
 | :-- | :-- |
+| ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
+| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 
 #### osu!mania
 
 | Име | Допълнителен език |
 | :-- | :-- |
 | ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | Китайски |
-| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Китайски |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | индонезийски |
 | ![][flag_KR] [Paran](https://osu.ppy.sh/users/13340203) | корейски |
+| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | корейски |
 
 ## История
 
@@ -244,6 +248,7 @@ tags:
 [flag_ID]: /wiki/shared/flag/ID.gif "Индонезия"
 [flag_IE]: /wiki/shared/flag/IE.gif "Ирландия"
 [flag_IT]: /wiki/shared/flag/IT.gif "Италия"
+[flag_JP]: /wiki/shared/flag/JP.gif "Япония"
 [flag_KR]: /wiki/shared/flag/KR.gif "Южна Корея"
 [flag_KZ]: /wiki/shared/flag/KZ.gif "Казахстан"
 [flag_LT]: /wiki/shared/flag/LT.gif "Литва"
@@ -254,6 +259,7 @@ tags:
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Нова Зеландия"
 [flag_PH]: /wiki/shared/flag/PH.gif "Филипини"
 [flag_PL]: /wiki/shared/flag/PL.gif "Полша"
+[flag_PT]: /wiki/shared/flag/PT.gif "Португалия"
 [flag_RU]: /wiki/shared/flag/RU.gif "Русия"
 [flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
 [flag_TH]: /wiki/shared/flag/TH.gif "Тайланд"

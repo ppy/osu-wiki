@@ -16,7 +16,7 @@ Lorsque le kiai est actif, tous les [objets](/wiki/Hit_object) clignoteront au r
 
 ## Beatmapping
 
-Le kiai time est le plus souvent utilisé pour la "partie la plus forte d'une chanson" qui est généralement le refrain. Comme les sections kiai sont la partie la plus forte d'une chanson, elles sont généralement un peu plus difficiles que le reste d'une [beatmap](/wiki/Beatmap) pour suivre la chanson.
+Le kiai time est le plus souvent utilisé pour la "partie la plus forte d'une musique" qui est généralement le refrain. Comme les sections kiai sont la partie la plus forte d'une musique, elles sont généralement un peu plus difficiles que le reste d'une [beatmap](/wiki/Beatmap) pour suivre la musique.
 
 ## osu!taiko
 

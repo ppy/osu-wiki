@@ -21,7 +21,7 @@ Où :
 
 ## Exemple
 
-Par exemple, pour jouer une (courte !) piste musicale lorsque le joueur obtient une bonne fin sur la beatmap (par exemple, fin dans l'état Pass), puis jouer un effet sonore d'explosion dans le cadre de la scène :
+Par exemple, pour jouer un (courte !) fichier musicale lorsque le joueur obtient une bonne fin sur la beatmap (par exemple, fin dans l'état Pass), puis jouer un effet sonore d'explosion dans le cadre de la scène :
 
 ```
 Sample,163520,2,"Audio\Best End.mp3",80
