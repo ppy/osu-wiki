@@ -322,7 +322,6 @@ Les guillemets ne se ferment après la ponctuation que si celle-ci ne peut pas �
 Exemple :
 
 > Le Loup et l'Agneau commence par ces mots : « La raison du plus fort est toujours la meilleure. »
-Le loup cruel déformait les faits : « Qui te rend si hardi de troubler mon breuvage ? » Le doux agneau se défendit en vain.
 
 Cependant, si la ponctuation se trouve avant ou après la citation, elle se placera après le guillemet fermant.
 
