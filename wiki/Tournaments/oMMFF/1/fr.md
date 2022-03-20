@@ -86,10 +86,10 @@ La osu! Multi Mode French Fiesta est gérée par différents membres de la commu
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Head Referee | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Sélectionneur de map (osu!) | ![][flag_FR] [Barbex](https://osu.ppy.sh/users/4904410), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
-| Sélectionneur de map (osu!taiko) | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
-| Sélectionneur de map (osu!catch) | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
-| Sélectionneur de map (osu!mania) | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_FR] [AntoAa](https://osu.ppy.sh/users/3897919), ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108), ![][flag_FR] [Cunu](https://osu.ppy.sh/users/7190228), ![][flag_CH] [Haprapra](https://osu.ppy.sh/users/3974114) |
+| Sélectionneur de beatmap (osu!) | ![][flag_FR] [Barbex](https://osu.ppy.sh/users/4904410), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
+| Sélectionneur de beatmap (osu!taiko) | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
+| Sélectionneur de beatmap (osu!catch) | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
+| Sélectionneur de beatmap (osu!mania) | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_FR] [AntoAa](https://osu.ppy.sh/users/3897919), ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108), ![][flag_FR] [Cunu](https://osu.ppy.sh/users/7190228), ![][flag_CH] [Haprapra](https://osu.ppy.sh/users/3974114) |
 | Streamers | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_CH] [Haprapra](https://osu.ppy.sh/users/3974114), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
 | Commentateurs (osu!) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [Barbex](https://osu.ppy.sh/users/4904410), ![][flag_FR] [Battquif](https://osu.ppy.sh/users/2389333), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454), ![][flag_FR] [Zonthem](https://osu.ppy.sh/users/7193908), ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987), ![][flag_FR] [-Unknow](https://osu.ppy.sh/users/3723612), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042) |
 | Commentateurs (osu!taiko) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973), ![][flag_FR] [Misieuroo](https://osu.ppy.sh/users/6732862), ![][flag_FR] [omegaflo](https://osu.ppy.sh/users/83291), ![][flag_FR] [-Valony-](https://osu.ppy.sh/users/6487540) |
@@ -186,7 +186,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
 
-## Liste des maps
+## Liste des beatmaps
 
 ### Division osu!
 
@@ -1137,7 +1137,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 #### Utilisation des mods pour osu!mania
 
-- Pour osu!mania, le tournoi utilisera la règle du **FreeMod** sur toutes les maps. Ceci permet l'utilisation du **Hidden**, **Fade In**, ou **Flashlight** durant un pick.
+- Pour osu!mania, le tournoi utilisera la règle du **FreeMod** sur toutes les beatmaps. Ceci permet l'utilisation du **Hidden**, **Fade In**, ou **Flashlight** durant un pick.
 
 ### Éligibilité et Inscription
 
@@ -1156,7 +1156,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 #### Phase de warmup
 
-- Chaque joueur est autorisé à une map de warmup chacun par match. Elles doivent **être disponibles sur les serveurs d'osu et avoir moins de 5 mins de drain time**. Les warmups ayant un contenu discutable (défini ici par les [règles de communauté d'osu!](/wiki/Rules)) ne seront pas autorisé.
+- Chaque joueur est autorisé à une beatmap de warmup chacun par match. Elles doivent **être disponibles sur les serveurs d'osu et avoir moins de 5 mins de drain time**. Les warmups ayant un contenu discutable (défini ici par les [règles de communauté d'osu!](/wiki/Rules)) ne seront pas autorisé.
 
 #### Bans et Picks
 
@@ -1164,13 +1164,13 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 #### Format du Match
 
-- Les joueurs doivent pick les maps en alternance jusqu'à ce qu'un gagnant soit déterminé. Les matchs seront joués en Best-Of-X dépendant des rounds, marqués juste ici:
+- Les joueurs doivent pick les beatmaps en alternance jusqu'à ce qu'un gagnant soit déterminé. Les matchs seront joués en Best-Of-X dépendant des rounds, marqués juste ici:
   - 16èmes de finale et 8èmes de finale: Best-of-7 (Premier à 4 points)
   - Quarts de finale: Best-of-9 (Premier à 5 points)
   - Demi-finales: Best-of-11 (Premier à 6 points)
   - Finales et Grandes Finales: Best-of-13 (Premier à 7 points)
-- Un joueur n'aura pas le droit de ban **deux maps** d'un même mod. (Example: Joueur 1 ban une map HD, alors il doit ban un autre mod après. Mais le joueur 2 est autorisé à ban une map HD aussi.)
-- Si les scores sur une map finissent en égalité, la map sera nullifiée, et le joueur qui la pick pourra choisir une autre map, ou rejouer cette même map.
+- Un joueur n'aura pas le droit de ban **deux beatmaps** d'un même mod. (Example: Joueur 1 ban une beatmap HD, alors il doit ban un autre mod après. Mais le joueur 2 est autorisé à ban une beatmap HD aussi.)
+- Si les scores sur une beatmap finissent en égalité, la beatmap sera nullifiée, et le joueur qui la pick pourra choisir une autre beatmap, ou rejouer cette même beatmap.
 - Dans le cas où les joueurs arrivent en égalité au point de match, par exemple, 6-6 sur un match en Best-of-13, alors les joueurs devront jouer le Tiebreaker du mappool.
 
 ### Rescheduling
@@ -1180,8 +1180,8 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 ### Déconnexions
 
 - Les déconnexions sont quelque chose qui peuvent arriver à n'importe quel moment pour n'importe qui dans ce tournoi. Pour gérer tout ça, nous avons mis en place certaines règles:
-  - Si le joueur se déconnecte durant les 10 premières secondes de jeu dans le pick, la partie sera annulée, et la map sera rejouée.
-  - Si le joueur se déconnecte durant les 30 premières secondes de jeu dans le pick, la partie continuera, mais les deux joueurs devront décider si ils veulent rejouer la map, ou la map comptera dans les points.
+  - Si le joueur se déconnecte durant les 10 premières secondes de jeu dans le pick, la partie sera annulée, et la beatmap sera rejouée.
+  - Si le joueur se déconnecte durant les 30 premières secondes de jeu dans le pick, la partie continuera, mais les deux joueurs devront décider si ils veulent rejouer la beatmap, ou la beatmap comptera dans les points.
   - Si le joueur se déconnecte après les 30 premières secondes de jeu dans le pick, la partie continuera, et sera comptée dans les points.
   - Pour éviter un abus de ce système, chaque joueur à droit à une déconnexion par match. N'importe quelle déconnexion après cette première déconnexion sera un point pour l'adversaire du joueur. (Applicable uniquement pour les déconnexions en cours de partie)
   - Les joueurs auront 10 minutes maximum pour revenir dans la salle suite à une déconnexion. Si le joueur ne revient pas, le score du match sera bloqué et sera considéré comme le résultat officiel. **Si le joueur qui gagne le match est celui déconnecté, le match continuera, tant que l'adversaire sera toujours là pour jouer. Après 30 minutes, si le joueur n'est pas revenu, il sera disqualifié du match.**

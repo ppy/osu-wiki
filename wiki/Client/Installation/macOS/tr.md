@@ -31,11 +31,11 @@ Eğer osu!'yu açarken sorunlarla karşılaşıyorsanız, aşağıdaki adımlar�
 3. Eğer kurulu bir antivirüs yazılımınız varsa, osu!'yu dizine çıkartırken devre dışı olduğundan emin olun aksi halde Wine için gereken dosyaları karantinaya alabilir.
 4. Eğer hiçbiri işe yaramazsa, [Yardım forumunda](https://osu.ppy.sh/community/forums/5) bir gönderi oluşturabilirsiniz.
 
-## osu!lazer
+## osu!(lazer)
 
-[osu!lazer](https://github.com/ppy/osu), henüz geliştirme aşamasında olan gelecekte kullanılacak osu! istemcisidir. Eğer [performans puanı](/wiki/Performance_points) kazanmayı umursamıyorsanız, bu istemciyi denemeniz önerilir. Kurulum için aşağıdaki adımları izleyin:
+[osu!(lazer)](https://github.com/ppy/osu), henüz geliştirme aşamasında olan gelecekte kullanılacak osu! istemcisidir. Eğer [performans puanı](/wiki/Performance_points) kazanmayı umursamıyorsanız, bu istemciyi denemeniz önerilir. Kurulum için aşağıdaki adımları izleyin:
 
-1. [osu!lazer indirme sayfasına](https://github.com/ppy/osu/releases/latest) gidin, `osu!.app.zip` dosyasını indirin ve dizine çıkarın.
+1. [osu!(lazer) indirme sayfasına](https://github.com/ppy/osu/releases/latest) gidin, `osu!.app.zip` dosyasını indirin ve dizine çıkarın.
 2. osu!'ya çift tıklayın ve açmak için `Aç` sekmesine tıklayın.
 3. Eğer bir pencere size osu!'nun tuş darbelerini almasına izin vermenizi sorarsa:
    1. `Sistem Tercihlerini Aç` butonuna tıklayın.
