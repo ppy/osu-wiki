@@ -5,30 +5,26 @@ outdated: true
 # L'histoire d'osu! en 2018
 
 ## Janvier
-Après une pause de six mois, flyte a posté sur le blog [osu!next](https://osunext.tumblr.com) avec quelques photos teaser pour le prochain design du site internet. Il a expliqué
-que l'actuel statut du site internet possède beaucoup de problèmes d'UX, venant de diverses spécifications de fonctionnalités aux commentaires des utilisateurs, qui n'étaient
-pas considérées au moment de la conception. Depuis cette date, il avait pris le temps de remodeler le design actuel du site internet en partant de zéro.
 
-La osu!mania 7K World Cup 2018 a été ouverte aux inscriptions. Le Community Choice 2017 (précédemment connu comme la série "Best of") a été ouverte aux votes.
+Après une pause de six mois, flyte a posté sur le blog [osu!next](https://osunext.tumblr.com) avec quelques photos teaser pour le prochain design du site internet. Il a expliqué que l'actuel statut du site internet possède beaucoup de problèmes d'UX, venant de diverses spécifications de fonctionnalités aux commentaires des utilisateurs, qui n'étaient pas considérées au moment de la conception. Depuis cette date, il avait pris le temps de remodeler le design actuel du site internet en partant de zéro.
 
-Dans la version lazer de osu!, le brouillage de l'arrière-plan et le mode hidden ont été ajoutés. La vitesse de scrolling d'osu!mania a été implémentée. Grâce à cYsmix,
-un nouveau jeu de sons par défaut a été ajouté. osu!catch a été en grande partie amélioré et l'autoplay a été fixé pour être plus humain.
+L'osu!mania 7K World Cup 2018 a été ouverte aux inscriptions. Le Community Choice 2017 (précédemment connu comme la série "Best of") a été ouvert aux votes.
 
-Dans le osu!web, la liste des beatmap pack a été amélioré, le compteur de hype et de nomination étaient visibles dans la liste des beatmaps. L'obtention d'un lien permanent au post de la discussion de beatmap a été rendu plus facile à copier, les localisations peuvent maintenant redimensionner le menu en passant la souris au dessus de celles-ci, les
-star ratings peuvent être vus sur la liste des beatmaps via le survol de l'icône de difficulté, et le tri des discussions de beatmaps a été ajouté. Une limite pour charger
-uniquement 250 posts du forum et décharger les autres a été implémentée pour éviter une forte consommation de mémoire.
+Dans la version lazer d'osu!, le flou de l'arrière-plan et le mod Hidden ont été ajoutés. La vitesse de scrolling d'osu!mania a été implémentée. Grâce à cYsmix, un nouvel ensemble d'hitsounds par défaut a été ajouté. osu!catch a été en grande partie amélioré et l'autoplay a été modifié pour avoir l'air plus humain.
 
-peppy a tweeté que l'inventaire du nouveau t-shirt (avec leurs nouveaux designs) est arrivé. Six jours plus tard, ils étaient disponibles sur le osu!store.
+Sur osu!web, la liste des beatmap packs a été améliorée, le compteur de hypes et de nominations était visible dans la liste des beatmaps. L'obtention d'un lien permanent au post de la discussion de beatmap a été rendu plus facile à copier, les localisations peuvent maintenant redimensionner le menu en passant la souris au dessus de celles-ci, les star ratings peuvent être vus sur la liste des beatmaps via le survol de l'icône de difficulté, et le tri des discussions de beatmaps a été ajouté. Une limite pour charger uniquement 250 posts du forum et décharger les autres a été implémentée pour éviter une forte consommation de mémoire.
 
-La capacité de voir les star ratings sur le osu!direct a été reprise de la version lazer du client osu!. Enfin, grâce à nekodex, la refonte du tableau d'affichage a été ajoutée.
+peppy a tweeté que l'inventaire du nouveau t-shirt (avec leurs nouveaux designs) est arrivé. Six jours plus tard, ils étaient disponibles sur l'osu!store.
 
-peppy a brièvement ouvert une Github issue pour discuter du *passive HP*.
+La possibilité de voir les star ratings sur l'osu!direct a été reprise de la version lazer du client osu!. Enfin, grâce à nekodex, la refonte du classement sur les beatmaps a été implémentée.
+
+peppy a brièvement ouvert une issue sur GitHub pour discuter du *drain passif de HP*.
 
 Liens :
 
 - [osu!next](https://osunext.tumblr.com/post/169336245023/hi-its-been-6-months-since-my-last-post-rest)
 - [osu!mania 7K World Cup 2018: Registrations now open!](https://osu.ppy.sh/home/news/2018-01-10-MWC7K-2018-registrations-open)
-- [Dean Herbert on Twitter](https://twitter.com/ppy/status/951884503122784257)
+- [Dean Herbert sur Twitter](https://twitter.com/ppy/status/951884503122784257)
 - [Community Choice 2017](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017)
 - [dev changelog 20180120 – ppy blog](https://blog.ppy.sh/dev-changelog-20180120/)
 - [Dean Herbert sur Twitter](https://twitter.com/ppy/status/956058435845611521)
@@ -40,10 +36,9 @@ Liens :
 
 ## Février
 
-Dans la version lazer du client osu!, les tristements célèbres sliders de catmull ont été implémentés; ceux-ci permettant aux anciennes beatmaps d'être jouées de la manière
-dont elles ont été concues. Le bouton retour dans les options a été remodelé. les statistiques de SS+ et S+ étaient maintenant visibles. le tableau d'affichage d'osu!catch apparaît maintenant, permettant aux joueurs d'enfin achever une partie d'osu!catch. cYsmix a été en charge de créer les nouveaux sons par défaut. Couper le son du client à travers des raccourcis était maintenant, par contre, le design est toujours en cours. Le traitement des URL en jeu a été ajouté et n'est pas voué à disparaître (ouvrir les canaux de discussions ou des liens osu! vont utiliser le client, plutôt que de devoir laisser ouvert le navigateur internet). L'ajustement des paramètres visuels peut être fait dans le "loading screen". L'importation de replays marche de nouveau.
+Dans la version lazer du client osu!, les tristement célèbres sliders catmull ont été implémentés ; ceux-ci permettant aux anciennes beatmaps d'être jouées de la manière dont elles ont été conçues. Le bouton retour dans les options a été remodelé. les statistiques de SS+ et S+ étaient maintenant visibles. les classements sur les beatmaps osu!catch peuvent désormais être affichés, permettant enfin aux joueurs de pouvoir terminer une beatmap osu!catch. cYsmix a été en charge de créer les nouveaux hitsounds par défaut. Couper le son du client à travers des raccourcis était maintenant possible. Cependant, le design était toujours en cours. Le traitement des URL en jeu a été ajouté et n'est pas voué à disparaître (ouvrir les canaux de discussions ou des liens osu! vont utiliser le client, plutôt que de devoir laisser ouvert le navigateur internet). L'ajustement des paramètres visuels peut être fait dans le "loading screen". L'importation de replays fonctionne de nouveau.
 
-Dans le osu!web, le temps de jeu total a été implémenté dans le profil des utilisateurs. Elasticsearch a été mis à jour. L'ancien site a été déprécié quasiment entièrement (une nouvelle bannière est maintenant présente presque partout sur l'ancien site, renvoyant les utilisateurs vers le nouveau site). Les genres et les languages ont été ajoutés aux pages des beatmaps. L'activité récente affiche maintenant l'option "show more". La recherche des utilisateurs a été améliorée. Les icônes pour les sujets de forum a été changé pour être plus adapté aux daltoniens. Les utilisateurs sont maintenant capables de sélectionner leur mode de jeu par défaut (montré par une étoile à coté du mode de jeu) sur leurs profils de jeu, plutôt que d'assumer le dernier mode de jeu regardé. Les versions de changelog ont maintenant une promotion de l'osu!supporter en bas. Une barre d'expérience pour le niveau de l'utilisateur peut maintenant être vue en survolant le badge de niveau.
+Sur osu!web, le temps de jeu total a été implémenté dans le profil des utilisateurs. Elasticsearch a été mis à jour. L'ancien site a été déprécié quasiment entièrement (une nouvelle bannière est maintenant présente presque partout sur l'ancien site, renvoyant les utilisateurs vers le nouveau site). Les genres et les langues ont été ajoutés aux pages des beatmaps. L'activité récente affiche maintenant l'option "show more". La recherche des utilisateurs a été améliorée. Les icônes pour les sujets de forum ont été changées pour être plus adapté aux daltoniens. Les utilisateurs peuvent désormais sélectionner leur mode de jeu par défaut (montré par une étoile à côté du mode de jeu) sur leurs profils, plutôt que d'utiliser le dernier mode de jeu regardé. Les versions de changelog ont maintenant une promotion de l'osu!supporter en bas. Une barre d'expérience pour le niveau de l'utilisateur peut maintenant être vue en survolant le badge de niveau.
 
 Les résultats du Community Choice 2017 ont été publiés avec Doormat, Backfire, Ascendance, et Protastic101 gagnant le vote de la communauté sur osu!, osu!taiko, osu!catch, et osu!mania respectivement.
 
@@ -73,13 +68,13 @@ Liens :
 
 Trial & Error a été introduit en tant que nouveau Featured Artist.
 
-Sur la version lazer de osu!, le support de base pour le skinning a été implémenté. L'effet de parallaxe a été réduit durant le gameplay.
+Sur la version lazer d'osu!, la prise en charge de base pour le skinning a été implémentée. L'effet de parallaxe a été réduit durant le gameplay.
 
-Dans le osu!web, les graphiques de l'historique des parties et de l'historique des replays regardés (le design est temporaire) et le nombre de posts dans les profils d'utilisateurs ont été ajoutés. La version mobile du site internet possède maintenant une barre de recherche dédiée. Les titres de pages ont été réarrangés pour prioriser le nom de la page (plutôt que le nom de la partie) permettant une navigation plus simple entre les onglets. Les résultats des recherches sur le forum sont maintenant listés. Grâce à nanaya, les badges des utilisateurs sont maintenant affichés sur les pages des utilisateurs.
+Sur osu!web, les graphiques de l'historique des parties et de l'historique des replays regardés (le design est temporaire) et le nombre de posts sur les profils d'utilisateurs ont été ajoutés. La version mobile du site internet possède maintenant une barre de recherche dédiée. Les titres de pages ont été réarrangés pour prioriser le nom de la page (plutôt que le nom de la partie) permettant une navigation plus simple entre les onglets. Les résultats des recherches sur le forum sont maintenant listés. Grâce à nanaya, les badges des utilisateurs sont maintenant affichés sur les pages des utilisateurs.
 
-Le 13 mars 2018, peppy a introduit le canal `#ranking-procedures` (maintenant appelé `#modding`) dans le Discord osu!dev pour donner aux BN et aux QAT un espace pour discuter de sujets sur lesquels ils souhaitent que des mesures soient prises. Ceci a été fait pour avoir des dicussions plus ouvertes et transparentes, mais aussi pour empêcher les personnes de l'extérieur d'assumer que les membres du "osu! staff" sont ceux qui prennent les décisions prises par les BN et les QAT.
+Le 13 mars 2018, peppy a introduit le canal `#ranking-procedures` (maintenant appelé `#modding`) dans le Discord osu!dev pour donner aux BN et aux QAT un espace pour discuter de sujets sur lesquels ils souhaitent que des mesures soient prises. Ceci a été fait pour avoir des dicussions plus ouvertes et transparentes, mais aussi pour empêcher les personnes de l'extérieur de présumer que les membres du "osu! staff" sont ceux qui prennent les décisions prises par les BN et les QAT.
 
-MWC 7K 2018 s'est conclu avec la Corée du Sud, la Malaisie, et la Chine prenant respectivement la première, deuxième, et troisième place.
+La MWC 7K 2018 s'est conclue avec la Corée du Sud, la Malaisie, et la Chine prenant respectivement la première, deuxième, et troisième place.
 
 Liens :
 
@@ -95,36 +90,36 @@ Liens :
 
 ## Avril
 
-Le cookie sur le menu principal tourne lentement dans le sens des aiguilles d'une montre au fur à mesure que le temps passait. Tandis que le cookie de l'écran de sélection de musique tourne lentement dans le sens inverse. Survoler par dessus le cookie l'aggrandissait, comme d'habitude, mais le faisait aussi tourner plus vite.
+Le cookie sur le menu principal tourne lentement dans le sens des aiguilles d'une montre au fur à mesure que le temps passait. Tandis que le cookie de l'écran de sélection de musique tourne lentement dans le sens inverse. Survoler le cookie l'agrandissait, comme d'habitude, mais le faisait aussi tourner plus vite.
 
-![](img/april-fools-main-menu.jpg "Main menu")
+![](img/april-fools-main-menu.jpg "Menu principal")
 
-![](img/april-fools-song-select.jpg "Song selection screen cookie")
+![](img/april-fools-song-select.jpg "Le cookie sur l'écran de sélection de beatmap")
 
-![](img/april-fools-song-select-hover.jpg "Song selection screen when hovering over the cookie")
+![](img/april-fools-song-select-hover.jpg "L'écran de sélection de beatmap lors du survol du cookie")
 
 ---
 Le badge de contributeur de la communauté a été mis à jour pour correspondre à la nouvelle disposition des badges d'utilisateurs; formant les directives indiquant ce à quoi les badges actuels et futurs devront ressembler.
 
-![](img/contributor-old.jpg "The old contributor badge")
+![](img/contributor-old.jpg "L'ancien badge des contributeurs")
 
-![](/wiki/shared/contributor.jpg "The new contributor badge")
-
----
-
-Dans le osu!web, grâce à nanaya, l'en-tête a été mis à jour pour correspondre au nouveau design de flyte. La possibilité de voir l'historique des pseudos a été ajouté a la page d'utilisateur. L'historique des pseudos était maintenant visible et les pages d'utilisateurs manquants affichent maintenant un message similaire à celui de l'ancien site, plutôt que d'afficher l'imprécise page 404.
-
-![](img/header-before.jpg "The header before")
-
-![](img/header-before-menu.jpg "The header's menu before")
-
-![](img/header-after.jpg "The header after")
-
-![](img/header-after-menu.jpg "The header's menu after")
+![](/wiki/shared/contributor.jpg "Le nouveau badge des contributeurs")
 
 ---
 
-Grâce à nekodex, le statut du osu!supporter est maintenant visible sur la page [support the game](https://osu.ppy.sh/home/support) et la possibilité d'ajouter son pseudo Discord à son compte utilisateur a été implémentée.
+Sur osu!web, grâce à nanaya, l'en-tête a été mis à jour pour correspondre au nouveau design de flyte. La possibilité de voir l'historique des pseudos a été ajoutée à la page d'utilisateur. L'historique des pseudos était maintenant visible et les pages d'utilisateurs manquants affichent maintenant un message similaire à celui de l'ancien site, plutôt que d'afficher l'imprécise page 404.
+
+![](img/header-before.jpg "L'en-tête avant")
+
+![](img/header-before-menu.jpg "Le menu de l'en-tête avant")
+
+![](img/header-after.jpg "L'en-tête après")
+
+![](img/header-after-menu.jpg "Le menu de l'en-tête après")
+
+---
+
+Grâce à nekodex, le statut de l'osu!supporter est maintenant visible sur la page [soutenir le jeu](https://osu.ppy.sh/home/support) et la possibilité d'ajouter son pseudo Discord à son compte utilisateur a été implémentée.
 
 ---
 
