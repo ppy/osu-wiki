@@ -317,7 +317,16 @@ La virgule de série, également connue sous le nom de virgule d'Oxford ou de Ha
 
 Consultez les [conventions typographiques de Wikipédia concernant les citations](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Citation).
 
-N'incluez la ponctuation à l'intérieur des guillemets que si elle était présente dans le texte original, placez-la après le guillemet fermant dans le cas contraire. Dans la plupart des cas, cela signifie qu'il faut traiter les points et les virgules de la même manière que les points d'interrogation : les placer à l'intérieur des guillemets s'ils ne s'appliquent qu'au matériel cité et à l'extérieur s'ils s'appliquent à l'ensemble de la phrase.
+Les guillemets ne se ferment après la ponctuation que si celle-ci ne peut pas être séparée de la citation (si cette citation forme une phrase complète, par exemple).
+
+Exemple :
+>Le Loup et l'Agneau commence par ces mots : « La raison du plus fort est toujours la meilleure. »
+Le loup cruel déformait les faits : « Qui te rend si hardi de troubler mon breuvage ? » Le doux agneau se défendit en vain.
+
+Cependant, si la ponctuation se trouve avant ou après la citation, elle se placera après le guillemet fermant.
+
+Exemple :
+>La cigale de la fable, « fort dépourvue », fut contrainte d'aller chercher secours « chez la fourmi sa voisine ».
 
 Par extension, les [mises en valeur](/wiki/Article_styling_criteria/Formatting#mise-en-valeur), les [liens](/wiki/Article_styling_criteria/Formatting#liens) et les parenthèses doivent suivre les mêmes règles de ponctuation (qu'elles englobent une phrase entière ou seulement une partie de celle-ci).
 
