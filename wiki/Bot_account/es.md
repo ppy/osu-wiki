@@ -9,9 +9,9 @@ tags:
 
 # Cuenta Bot
 
-Una **Cuenta BOT** es un tipo de cuenta especial de osu! administrada por un servicio automatizado en lugar de una persona real. En el sitio web, ellos tienen una insignia blanca etiquetada `BOT`, y solo en la seccion de `me!` de su perfil es visible. Las cuentas BOT son comúnmente utilizadas para organizar "Chat bots" que frecen varias funcionalidades a la comuinidad a travez del canal lobby [multiplayer](/wiki/Gameplay/Multiplayer) o mensajes privados.
+Una **Cuenta BOT** es un tipo de cuenta especial de osu! administrada por un servicio automatizado en lugar de una persona real. En el sitio web, ellos tienen una insignia blanca etiquetada `BOT`, y solo en la sección de `me!` de su perfil es visible. Las cuentas BOT son comúnmente utilizadas para organizar "Chat bots" que frecen varias funcionalidades a la comunidad a través del canal lobby [multiplayer](/wiki/Gameplay/Multiplayer) o mensajes privados.
 
-Las cuentas Bot solo pueden ser creadas a travez de un proceso de aplicacion  [proceso de aplicacion](#creating-a-bot-account). El intentar crear una cuenta Bot registrandola de manera normal es considerado como multi-cuenta y va en contra de las [reglas de la comunidad](/wiki/Rules#community-rules).
+Las cuentas Bot solo pueden ser creadas a través de un [proceso de aplicación](#creating-a-bot-account). El intentar crear una cuenta Bot registrándola de manera normal es considerado como multi-cuenta y va en contra de las [reglas de la comunidad](/wiki/Rules#community-rules).
 
 ## Beneficios de las cuentas bot
 
@@ -24,41 +24,41 @@ Estos limitantes solo aplican a los mensajes privados y en los canales de `#mult
 
 ## Creando una cuenta bot
 
-Si estas buscando empezar un chat bot, por favor comienza ejecutandolo en tu propia cuenta de osu!, y asegurate de respetar los limites de tu cuenta personal listados arriba.A medida que tu servicio crezca, podra existir la oportunidad de solicitar una cuenta bot para este por parte del equipo de soporte de cuentas.
+Si estas buscando empezar un chat bot, por favor comienza ejecutándolo en tu propia cuenta de osu!, y asegúrate de respetar los límites de tu cuenta personal listados arriba. A medida que tu servicio crezca, podrá existir la oportunidad de solicitar una cuenta bot para este por parte del equipo de soporte de cuentas.
 
-### Requisitos minimos
+### Requisitos mínimos
 
 Antes de considerar una solicitud, el equipo de soporte necesita que el bot cumpla con los siguientes requisitos:
 
 - El bot tiene que estar funcionando en tu cuenta por al menos 6 meses
-- El bot tiene que ser completamente de codigo abierto y que contenga su documentacion publica completa
-- El bot es usado por almenos 50 usuarios unicos cada mes
+- El bot tiene que ser completamente de código abierto y que contenga su documentación publica completa
+- El bot es usado por al menos 50 usuarios únicos cada mes
 - El bot respeta los limites de cuenta personal
-- El bot no envie ningun mensaje en canales publicos
+- El bot no envíe ningún mensaje en canales públicos
 - El bot es útil para una amplia audiencia en la comunidad de osu!
 
 ### Llenando tu solicitud
 
 Si tu bot cumple con los requisitos, tu puedes llenar tu solicitud para crear una cuenta bot.
 
-Envia un correo electronico a  [accounts@ppy.sh](mailto:accounts@ppy.sh) con el tema `Bot Account Request`. Este correo debera ser enviado desde el correo de tu cuenta personal de osu!.
+Envía un correo electrónico a [accounts@ppy.sh](mailto:accounts@ppy.sh) con el tema `Bot Account Request`. Este correo deberá ser enviado desde el correo de tu cuenta personal de osu!.
 
-El cuerpo del correo electronico debera contener lo siguiente:
+El cuerpo del correo electrónico deberá contener lo siguiente:
 
 - Tu cuenta de osu! (donde haz estado ejecutando el bot)
 - El usuario que le quieres asignar a la cuenta bot
 - La fecha en la que empezaste a ejecutar el bot
-- Un link al codigo del bot y su documentacion
+- Un link al código del bot y su documentación
 - Un resumen breve de lo que hace tu bot
 
-El [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team) revisara tu solicitud. Si tu solicitud es denegada, ellos te haran saber el motivo. Si tu solicitud es aprovada, ellos crearan la cuenta bot para ti, y le daran instrucciones necesarias sobre como usarla.
+El [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team) revisara tu solicitud. Si tu solicitud es denegada, ellos te harán saber el motivo. Si tu solicitud es aprobada, ellos crearan la cuenta bot para ti, y le darán instrucciones necesarias sobre cómo usarla.
 
 <!-- TODO: history section would be nice, talking about LogBot, BanchoBot, the phpbb crawler accounts, the first user-run bots, Quality Assurance Team, osu!team, ... -->
 
 ## Trivia
 
-- La insignia de grupo `BOT` es mostrada en cuentas con un grupo primario de `Chat Bots` (group #29). La lista grupal no es publica.
-- Algunas cuentas personales estan en el grupo de Chat Bots debido a que sus duenos no querían o no solicitaron tener su cuenta separada de su servicio, por ejemplo ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) y ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Este servicio no se ofrece actualmente y los nuevos bots entrando al grupo siempre se les proporcionara una cuenta exclusiva.
+- La insignia de grupo `BOT` es mostrada en cuentas con un grupo primario de `Chat Bots` (group #29). La lista grupal no es pública.
+- Algunas cuentas personales están en el grupo de Chat Bots debido a que sus dueños no querían o no solicitaron tener su cuenta separada de su servicio, por ejemplo ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) y ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Este servicio no se ofrece actualmente y los nuevos bots entrando al grupo siempre se les proporcionara una cuenta exclusiva.
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
