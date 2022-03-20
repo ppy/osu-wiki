@@ -258,7 +258,6 @@ Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übe
 | `game modifier (mod)` | `Spielmodifikation (Mod)` |
 | `gameplay` | `Spielverlauf` |
 | `multiplier` | `Multiplikator` |
-| `success rate` | `Erfolgsrate` |
 | `beatmap difficulty` | `Schwierigkeitsgrad/-stufe der Beatmap` |
 | `beatmap category` | `Beatmap-Kategorie` |
 | `playcount` | `Spielanzahl` |
