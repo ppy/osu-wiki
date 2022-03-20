@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 9b7428d718587f9fea31c773261ec4b724b52ac2
 layout: main_page
 ---
 
@@ -113,7 +111,7 @@ osu! würde nicht ohne die Hilfe von vielen Menschen existieren, die in der Entw
 
 [Das Team](/wiki/People/The_Team): [Entwickler](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
-[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Benutzer mit besonderen Titeln](/wiki/People/Users_with_unique_titles)
+[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Benutzer mit besonderen Titeln](/wiki/People/Users_with_unique_titles) • [Turnierkomitee](/wiki/People/Tournament_Committee) • [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">
