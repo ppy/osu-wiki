@@ -64,6 +64,7 @@ tags:
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | จีน, มาเลย์ | ผู้ดูแลแชท |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | ผู้ดูแลแชท |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | สวีเดน, สเปน | ผู้ดูแลแชท, ผู้บริหารทัวร์นาเมนต์ |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | ผู้ดูแลแชท |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | ตุรกี | ผู้ดูแลแชท |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | สเปน | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
@@ -89,7 +90,7 @@ tags:
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | กวางตุ้ง, จีน | ผู้บริหารทัวร์นาเมนต์ |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | โปรตุเกส | ผู้ดูแลชุมชนการแมป/การ mod |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | ผู้พัฒนา osu! |
-| ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | รัสเซีย | ผู้ดูแลแชท |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | รัสเซีย | ผู้ดูแลแชท |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | ฟิลิปปินส์ | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้สนับสนุนทางเทคนิค |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | ฝรั่งเศส | ผู้ดูแลแชท |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | ผู้ดูแลชุมชนการแมป/การ mod |
@@ -101,6 +102,7 @@ tags:
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | ทีมอย่างเป็นทางการ |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | ฟิลิปปินส์ | ผู้ดูแลแชท |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | เยอรมัน | ผู้บริหารทัวร์นาเมนต์ |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | ฝรั่งเศส, สเปน บ้าง | ผู้ดูแลแชท |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | โปรตุเกส | ผู้ดูแลแชท |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | กวางตุ้ง, จีน | ผู้ดูแลแชท |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
@@ -154,7 +156,7 @@ tags:
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
 | `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484), ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) |
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
-| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467), ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
+| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467), ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |

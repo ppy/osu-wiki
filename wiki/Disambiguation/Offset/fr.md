@@ -13,4 +13,4 @@ Le terme **Offset** peut avoir plusieurs significations :
 
 - Décalage du compte à rebours, un paramètre qui affecte l'apparence du [compte à rebours](/wiki/Beatmapping/Countdown) avant le premier objet
 - Décalage audio, ou [entrée audio](/wiki/Glossary/Lead-in)
-- Décalage vidéo, un paramètre qui indique à quel moment une vidéo de fond doit être lue par rapport à la piste audio.
+- Décalage vidéo, un paramètre qui indique à quel moment une vidéo de fond doit être lue par rapport au fichier audio.

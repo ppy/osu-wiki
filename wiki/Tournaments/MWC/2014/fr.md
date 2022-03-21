@@ -50,8 +50,8 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 ### Règles du tournoi
 
 1. L'osu!mania World cup est un tournoi, séparé en 4-keys et 7-keys avec une équipe par pays.
-2. Les maps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
-   - Une map, le tiebreaker, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
+2. Les beatmaps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
+   - Une beatmap, le tiebreaker, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
 3. Les dates et horaires des matchs seront fixés par la direction (cf. rubrique « Planification des matchs »).
 4. Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté à une date ultérieure.
 5. En cas de Fail le score ne sera pas comptabilisé.
@@ -100,9 +100,9 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 4. Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
 5. Les matchs suivant sont tous à élimination directe. Cela signifique que l'équipe victorieuse passe au tour suivant alors que l'autre équipes est éliminée du tournoi.
 6. **Conditions de victoire:**
-   - Durant la phase de Poules, Vous devez gagner 4 maps pour gagner un match. (Meilleur des 7)
-   - Durant les huitièmes et quart de finale, vous devez gagner 5 maps pour gagner un match. (Meilleur des 9)
-   - Durant les demi-finales et finale, vous devez gagner 6 maps pour gagner un match (Meilleur des 11)
+   - Durant la phase de Poules, Vous devez gagner 4 beatmaps pour gagner un match. (Meilleur des 7)
+   - Durant les huitièmes et quart de finale, vous devez gagner 5 beatmaps pour gagner un match. (Meilleur des 9)
+   - Durant les demi-finales et finale, vous devez gagner 6 beatmaps pour gagner un match (Meilleur des 11)
 
 ### Match Instructions
 
@@ -110,7 +110,7 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
    1. La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyées aux capitaines des deux équipes dès que possible.
    2. Les paramètres de la salle sont les suivants : osu!mania ; Team VS ; victoire sur score. Le nom de la salle doit suivre cette nomenclature : "MWC 2014: TeamBlue vs TeamRed"
    3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
-2. Les joueurs ont la possibilité de s'échauffer sur une map de leur choix avant le début de la partie.
+2. Les joueurs ont la possibilité de s'échauffer sur une beatmap de leur choix avant le début de la partie.
 3. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande `!roll` dans le chat ; le plus grand nombre l'emporte.
    1. Les capitaines peuvent choisir autant de beatmaps de la catégorie FreeMod qu'ils le souhaitent.
    2. En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker doit être joué.
@@ -121,11 +121,11 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 1. Il y aura 1 mappool pour les phases de Poules, 1 mappool pour les huitièmes, 1 mappool pour les quarts de finales, 1 mappool pour les demi-finales et 1 mappool pour la finale et ce pour chacun des deux modes (4k et 7k).
 2. Les mappool 4K et 7K sont différents.
 3. Chaque mappool est composé d'une seule catégorie : FreeMod.
-4. Chaque mappool est composé de 10 à 14 maps.
+4. Chaque mappool est composé de 10 à 14 beatmaps.
 5. Chaque mappool contient un tiebreaker
 6. La catégorie FreeMod sera joué avec le mode FreeMod activé. Chaque joueur pourra choisir Hidden, Flashlight ou Fade-in ou aucun mode.
 7. Le tiebreaker sera joué sous la catégorie FreeMod.
-8. Le nombre de maps FreeMod sera de :
+8. Le nombre de beatmaps FreeMod sera de :
    - 9 durant les phases de Poules
    - 11 durant les huitièmes et quarts de finales
    - 13 durant les demi-finales et finales.
