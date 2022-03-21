@@ -14,7 +14,7 @@ outdated: true
 | 06/12/2011 | [osu! wiki est maintenant en ligne !](https://osu.ppy.sh/community/forums/topics/68525). |
 | 11/2012 | osu! wiki a maintenant 3 administrateurs (Dellirium, Repflez). Précédemment, peppy était le seul admin. |
 | 27/01/2013 T06:12Z | peppy a intégré le wiki osu! dans le design du site principal. [Lien vers le post de peppy](https://osu.ppy.sh/community/forums/topics/68479/start=124). |
-| 2014 | Le wiki osu! est devenu la source d'information principale d'osu!, remplaçant la plupart des copies web, tel que [L'équipe](/wiki/People/The_Team) ainsi que les [Règles ](/wiki/Rules). Également, le wiki osu! possède maintenant 5 administrateurs (Loctav, deadbeat). |
+| 2014 | Le wiki osu! est devenu la source d'information principale d'osu!, remplaçant la plupart des copies web, tel que [L'équipe](/wiki/People/The_Team) ainsi que les [Règles](/wiki/Rules). Également, le wiki osu! possède maintenant 5 administrateurs (Loctav, deadbeat). |
 | 2015 | L'osu! wiki a reçus une traduction majeur des autres langues. Dellirium a été remplacé par Shiro en tant qu'un des administrateurs du osu! wiki. |
 | 22/02/2016 | Le wiki osu! a maintenant 8 administrateurs (Ukami and Galkan). |
 | 01/04/2016 | Le wiki osu! a maintenant 9 administrateurs (Nathanael). |
