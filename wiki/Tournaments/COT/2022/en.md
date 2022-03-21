@@ -9,7 +9,7 @@ tags:
 
 ![COT 2021 banner](img/banner.png)
 
-The **osu!catch CIS Open Tournament 2022** (***COT 2022***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) and ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). The tournament is open to all players from the Commonwealth of Independent States and Baltic states. It is the second iteration of the osu!catch CIS Open Tournament series.
+The **osu!catch CIS Open Tournament 2022** (***COT 2022***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) and ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). The tournament was open to all players from the Commonwealth of Independent States and Baltic states. It was the second iteration of the osu!catch CIS Open Tournament series.
 
 ## Tournament schedule
 
@@ -23,19 +23,21 @@ The **osu!catch CIS Open Tournament 2022** (***COT 2022***) is a double-eliminat
 | Quarterfinals | 2022-02-19/2022-02-20 |
 | Semifinals | 2022-02-26/2022-02-27 |
 | Finals | 2022-03-05/2022-03-06 |
-| Grand Finals | 2022-03-12/2022-03-13 |
+| Grand Finals | 2022-03-11/2022-03-12 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 18 months of osu!supporter or 3000₽, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 12 months of osu!supporter or 2000₽ |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 month of osu!supporter or 1000₽ |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 18 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 12 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 month of osu!supporter |
+
+![](img/badge.jpg "COT 2022 winner badge")
 
 ## Organisation
 
-COT 2022 is run by various osu! community members mostly hailing from the Commonwealth of Independent States.
+COT 2022 was run by various osu! community members mostly hailing from the Commonwealth of Independent States.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -43,7 +45,7 @@ COT 2022 is run by various osu! community members mostly hailing from the Common
 | Mappool selector | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [Xetopia](https://osu.ppy.sh/users/6689101), ![][flag_RU] [Rebbel](https://osu.ppy.sh/users/4595355), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_CL] [Pekorrat](https://osu.ppy.sh/users/1250096) |
 | Streamer | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
 | Commentator | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
-| Referee | ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267), ![][flag_RU] [MRX](https://osu.ppy.sh/users/10954753) |
+| Referee | ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267), ![][flag_RU] [MRX](https://osu.ppy.sh/users/10954753), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
 | Designer | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
 | Spreadsheet manager | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) |
 | Wiki editor | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
@@ -64,6 +66,16 @@ COT 2022 is run by various osu! community members mostly hailing from the Common
 | 9-24 | ![][flag_RU] [Kenny331](https://osu.ppy.sh/users/11534285), ![][flag_UA] [[-Nyaruko-]](https://osu.ppy.sh/users/13712671), ![][flag_LV] [Soruki](https://osu.ppy.sh/users/11762423), ![][flag_RU] [yuinn](https://osu.ppy.sh/users/11239593), ![][flag_UA] [Shadowbolts1](https://osu.ppy.sh/users/13962882), ![][flag_UA] [Violet Feets](https://osu.ppy.sh/users/15558360), ![][flag_RU] [Mazuki](https://osu.ppy.sh/users/15208771), ![][flag_RU] [mirofantasm](https://osu.ppy.sh/users/6650048), ![][flag_RU] [catch the ExGon](https://osu.ppy.sh/users/12081746), ![][flag_RU] [liquid_boba](https://osu.ppy.sh/users/11694783), ![][flag_RU] [vinnikoish](https://osu.ppy.sh/users/14509580), ![][flag_UA] [NamakemonsteR](https://osu.ppy.sh/users/17314832), ![][flag_LV] [oFKors01](https://osu.ppy.sh/users/26522965), ![][flag_RU] [yoraze](https://osu.ppy.sh/users/18240388), ![][flag_RU] [PedobeerKoroche](https://osu.ppy.sh/users/19389015), ![][flag_RU] [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) |
 
 See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS_Sx4MyWdGOYD9raofZ46uomMbVW6wm48/edit#gid=749874175) for a list of all initial participants.
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_RU] [Memoriola](https://osu.ppy.sh/users/6856387) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384) |
 
 ## Mappools
 
@@ -235,6 +247,20 @@ See the [participants sheet](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS
   2. [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#fruits/1624401)
 
 ## Match Results
+
+### Grand Finals
+
+Friday, 11 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [KitsunIvy](https://osu.ppy.sh/users/7055384) ![][flag_RU] | 2 | **7** | ![][flag_RU] **[Nelly](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/98623588) |
+
+Saturday, 12 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Finals | **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **7** | 3 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98655352) |
 
 ### Finals
 

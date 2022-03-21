@@ -2,7 +2,7 @@
 
 O **osu! wiki** é uma base de dados de código aberto escrita e mantida por [colaboradores voluntários](https://github.com/ppy/osu-wiki/graphs/contributors). Ela contém uma vasta gama de informação em tópicos relacionados ao osu!, sua comunidade, e atividades e conceitos relacionados. O wiki serve como uma fonte oficial de conhecimento e é considerada como uma documentação da história do osu!.
 
-Todas as discussões que abrangem o wiki em geral, seu desenvolvimento, e mudanças dos artigos, acontece no canal `#osu-wiki` do [servidor oficial do osu!dev no Discord](/wiki/Community/osu!dev_Discord_server). Para aprender com você pode ajudar o osu! wiki, consulte os seguinte artigos:
+Todas as discussões que abrangem o wiki em geral, seu desenvolvimento, e mudanças dos artigos, acontece no canal `#osu-wiki` do [servidor oficial do osu!dev no Discord](/wiki/Community/osu!dev_Discord_server). Para aprender como você pode ajudar o osu! wiki, consulte os seguinte artigos:
 
 - [Guia de Contribuição](/wiki/osu!_wiki/Contribution_guide)
 - [Maintenance](/wiki/osu!_wiki/Maintenance)
@@ -11,7 +11,7 @@ Todas as discussões que abrangem o wiki em geral, seu desenvolvimento, e mudan�
 
 *Página principal: [História do osu! wiki](/wiki/History_of_osu!/osu!_wiki)*
 
-As [primeiras tentativas](https://osu.ppy.sh/community/forums/posts/1175876) de criar uma base estruturada de conhecimentos são de 2011, quando [peppy](/wiki/People/peppy) criou uma [MediaWiki](https://en.wikipedia.org/wiki/MediaWiki) instância para qualquer pessoa participar. Ao longo dos anos, a manutenção e operação do MediaWiki tem-se revelado dificil e trabalhoso, e em [2 de Agosto de 2016](https://discord.com/channels/188630481301012481/218677502141399041/218678017659109376) peppy e um time de voluntários começaram o processo de migração do osu! wiki pare o GitHub, onde se mantém até os dias de hoje. O wiki foi integrado no novo site osu! e recebeu atualizações técnicas e visuais para uma boa experiência do usuário.
+As [primeiras tentativas](https://osu.ppy.sh/community/forums/posts/1175876) de criar uma base estruturada de conhecimentos são de 2011, quando [peppy](/wiki/People/peppy) criou uma [MediaWiki](https://en.wikipedia.org/wiki/MediaWiki) instância para qualquer pessoa participar. Ao longo dos anos, a manutenção e operação do MediaWiki tem-se revelado dificil e trabalhoso, e em [2 de Agosto de 2016](https://discord.com/channels/188630481301012481/218677502141399041/218678017659109376) peppy e um time de voluntários começaram o processo de migração do osu! wiki para o GitHub, onde se mantém até os dias de hoje. O wiki foi integrado no novo site osu! e recebeu atualizações técnicas e visuais para uma boa experiência do usuário.
 
 ## Estrutura
 
