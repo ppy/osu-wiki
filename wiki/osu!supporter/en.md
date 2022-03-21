@@ -6,22 +6,22 @@ tags:
 
 # osu!supporter
 
-The **osu!supporter** is a *temporary* title given to the players who supported osu! by making a voluntary, monetary donation to help it thrive. Supporters receive a handful of cosmetical and technical benefits, most of which are active only when the title is present, such as:
+**osu!supporter** is a temporary title given to players who support osu! by making a voluntary, monetary donation to help it thrive. Supporters receive a handful of cosmetic and technical benefits, most of which are active only when the title is present, such as:
 
-- Distinctive bright yellow nickname in the [chat](/wiki/Client/Interface/Chat_console);
-- Access to osu!direct, the in-game beatmap search and download engine;
-- Relaxed limits on number of favourited or uploaded beatmaps;
-- Ability to additionally skin osu!;
-- Custom [leaderboards](/wiki/Beatmap#leaderboards).
+- A distinctive bright yellow nickname in [chat](/wiki/Client/Interface/Chat_console)
+- Access to osu!direct, the in-game beatmap search and download engine
+- Relaxed limits on the number of favourited, uploaded, and downloaded [beatmaps](/wiki/Beatmap)
+- The ability to [skin](/wiki/Skinning) (customise) more game components
+- Friend, country, and [mod](/wiki/Game_modifier) [leaderboards](/wiki/Beatmap#leaderboards)
 
-The full list of perks and donation goals may be seen at the [osu!supporter promo page](https://osu.ppy.sh/home/support). It is important to note that the extra features from osu!supporter will never give advantage in gameplay, performance, or score.
+The full list of perks and the ways osu!supporter helps osu! may be seen at its [promo page](https://osu.ppy.sh/home/support). Note that the extra features from osu!supporter will never give any advantage in gameplay, performance, or score.
 
 ## Permanent benefits
 
 The permanent benefits of the osu!supporter are:
 
-- Ability to change the username once for free;
-- The editable `me!` section of the user profile, previously called a userpage.
+- One free username change
+- An editable `me!` section on the user profile
 
 ## Badge
 
@@ -29,7 +29,7 @@ The permanent benefits of the osu!supporter are:
 
 ![Usercard with osu!supporter](img/usercard.png?1 "User card with osu!supporter")
 
-The badge can be found next to the user avatar and on the usercard next to the country flag. The amount of hearts in the profile depends on how long a user has supported the game in total<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
+Supporters get a badge with hearts on it, usually found next to their username. The amount of hearts depends on the duration of osu!supporter the user has acquired or received in total<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
 
 - Less than 1 year: 1 heart
 - From 1 to 5 years: 2 hearts
@@ -49,13 +49,13 @@ To get osu!supporter, visit the [osu!supporter store page](https://osu.ppy.sh/st
 
 Afterwards, click `Add to Cart` to put the supporter tag into the osu!store shopping cart. To finalize the purchase, go to the [shopping cart](https://osu.ppy.sh/store/cart) and click `Checkout`, then follow on-screen prompts.
 
-## Giving osu!supporter
+## Gifting osu!supporter
 
-The osu!supporter may also be gifted to another player by entering their username into the grey box below the usercard. To add a osu!supporter tag for another user, go back to the [osu!supporter store page](https://osu.ppy.sh/store/products/supporter-tag) and repeat the steps.
+The osu!supporter may also be gifted to another player by entering their username into the grey box below the user card. More people can be added by going back to the store page and repeating the process.
 
 ## Conclusion
 
-After the transaction is completed, there will be a new event in the `Recent Activity` section of a profile of the user who made the purchase:
+After the transaction is completed, there will be a new event in the `Recent Activity` section of a profile of both the giver and the recipient:
 
 - `{username} has become an osu! supporter - thanks for your generosity!` if it is the first time that user gets osu!supporter.
 - `{username} has once again chosen to support osu! - thanks for your generosity!` if the user has been an osu!supporter before.
