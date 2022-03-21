@@ -174,7 +174,7 @@
 [flag_PM]: /wiki/shared/flag/PM.gif "생피에르 미클롱"
 [flag_PN]: /wiki/shared/flag/PN.gif "핏케언"
 [flag_PR]: /wiki/shared/flag/PR.gif "푸에르토리코"
-[flag_PS]: /wiki/shared/flag/PS.gif "팔레스타인 점령지"
+[flag_PS]: /wiki/shared/flag/PS.gif "팔레스타인 영토"
 [flag_PT]: /wiki/shared/flag/PT.gif "포르투갈"
 [flag_PW]: /wiki/shared/flag/PW.gif "팔라우"
 [flag_PY]: /wiki/shared/flag/PY.gif "파라과이"
