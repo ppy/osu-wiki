@@ -65,7 +65,7 @@
 [flag_EU]: /wiki/shared/flag/EU.gif "유럽"
 [flag_FI]: /wiki/shared/flag/FI.gif "핀란드"
 [flag_FJ]: /wiki/shared/flag/FJ.gif "피지"
-[flag_FK]: /wiki/shared/flag/FK.gif "포클랜드 제도 (말비나스 제도)"
+[flag_FK]: /wiki/shared/flag/FK.gif "포클랜드 제도 (말비나스)"
 [flag_FM]: /wiki/shared/flag/FM.gif "미크로네시아 연방"
 [flag_FO]: /wiki/shared/flag/FO.gif "페로 제도"
 [flag_FR]: /wiki/shared/flag/FR.gif "프랑스"
