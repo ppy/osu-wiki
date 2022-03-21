@@ -1,40 +1,44 @@
----
-no_native_review: true
-outdated: true
-outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
----
-
 # Guía de Contribución de la osu! wiki
 
-¡Gracias por tu interés en hacer la osu! wiki mejor! Esta guía de inicio rápido está destinada a los recién llegados que nunca han trabajado con GitHub ni con el flujo de trabajo de contribuciones de la osu! wiki. Si ya tienes experiencia usando GitHub, puedes omitir esta guía y seguir el flujo de trabajo normal de feature-branch para actualizaciones de contenido en este repositorio.
+¡Gracias por tu interés en hacer la osu! wiki mejor! Este articulo cubre el proceso de contribucion paso a paso. Si ya tienes experiencia usando GitHub, puedes omitir esta guía y seguir el flujo de trabajo normal de feature-branch para proponer cambios y salta a la seccion de [Autocomprobación](#Autocomprobación).
 
-Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, siéntete libre de enviar un mensaje al [chat de Discord de osu!dev](https://discord.gg/ppy) (canal `#osu-wiki`).
+No esperamos que los nuevos contribuidores esten familiarizados con GitHub o [Git](https://git-scm.com/), debido a que son herramientas mayormente enfocadas para desarrolladores. No te preocupes si no haces algo bien tu primera vez, un [wiki maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) te guiara en la direccion correcta, o lo arreglara por ti.
 
-## Empezando
+Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, siéntete libre de enviar un mensaje al canal `#osu-wiki` en el [servidor de Discord de osu!dev](/wiki/Community/osu!dev_Discord_server).
 
-### Registrarse
+## Areas of interest
 
-1. [Regístrate](https://github.com/join) para crear una cuenta de GitHub si no tienes una.
-2. [Inicia sesión](https://github.com/login).
-3. Continúa en [Bifurcación](#bifurcación).
+Si realmente quieres ayudar y no sabes por donde comenzar, mira el [mantenimiento de osu! wiki § Rutinas](/wiki/osu!_wiki/Maintenance#routines) para una lista de tareas que necesitan ser realizadas de manera regular, y maneras de ayudar a otros editores de la wiki, mira la [hoja de referencia](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) de Adam Pritchard's.
 
-### Bifurcación
+## Editando la wiki
 
-1. Ve al [repositorio `osu-wiki`](https://github.com/ppy/osu-wiki).
+*Para un proceso de contribucion generalizado, mira [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)*
 
-2. Haz clic en `Fork`.
+Los articulos de la wiki de osu! se encuentran almacenados en [GitHub][osu_wiki]. Para contribuir, haz lo siguiente
 
-   ![](img/fork.jpg)
+0. [Crea](https://github.com/join) una cuenta de GitHub.
+1. Abre el repositorio [`ppy/osu-wiki`][osu_wiki] y haz click en `Fork` situado en la esquina de arriba a la derecha para hacer una copia controlada de la wiki. Para regresar a tu "Fork", dirijete a  [`ppy/osu-wiki`][osu_wiki] y haz click en `Fork` de nuevo.
 
-3. Haz clic en `Fork` de nuevo para ir a tu bifurcación.
+  - Si ya contabas con un "Fork" antiguo, sincronizalo ssegun las [mejores practicas § Ssincronizando el "Fork"](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 
-4. Si ves algo similar a la imagen significa que hiciste una bifurcación del repositorio de `ppy/osu-wiki` y estás en esa misma bifurcación.
+2. Lee las [Mejores practicas § Haciendo cambios](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-changes) y realiza los cambios necesarios. Tu tienes la libertad de usar cualquier aplicacion de tu eleccion, la wiki de osu! tiene instrucciones detalladas en 2 flujos de trabajo:
 
-   ![](img/forked.jpg)
+- [Interfaz Web de GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) - edita en línea; ésta es la mejor opción para la edición de un solo archivo
+- [GitHub para Escritorio](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - edita localmente; ésta es la mejor opción para la edición de uno o más archivos (ésto incluye subir, eliminar y mover imágenes o archivos)
 
-5. Continúa [Sincronizando tu bifurcación](#sincronizando-tu-bifurcación).
+## Autocomprobación
 
-### Sincronizando tu bifurcación
+When you are done editing, take some time to proofread your work. Go through the following quick checklist:
+
+- **Tono de entrega**: the osu! wiki articles, with rare exceptions, must be written using a neutral register.
+- **Style and grammar**: the articles should be clear, understandable, and require no significant mental effort from the reader. Be consistent and avoid overcomplicated or abrupt sentences. Use editors with built-in spell checkers, such as [Google Docs](https://docs.google.com), to expose typos and grammatical or syntax errors.
+- **[Content parity](/wiki/Article_styling_criteria/Writing#content-parity)**: translations must contain the same information as the original articles (differences in punctuation, wording, or formatting are obviously expected). Instead of changing the contents of the translation, [open an issue](https://github.com/ppy/osu-wiki/issues/new) or an extra pull request for the original if you feel it is incomplete, inaccurate, or outdated.
+- **Structure and formatting**: preview your article with a tool such as [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) to make sure it looks exactly how you wanted it to be.<!-- TODO(TicClick): we really need an article on markup features specific to the osu! wiki-->
+- **All images and other non-text files** must be [under 1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Screenshots** need to use the default osu! skin and [specific settings](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay), including the maximum dimensions of 1280×720.
+
+For more specific writing and formatting standards, refer to the [article styling criteria](/wiki/Article_styling_criteria). It's not recommended to read it all at once—a reviewer will likely point out if something needs to be corrected either way.
+
+------------------------------------------------------------------
 
 1. Ve al repositorio de la `osu-wiki`.
 
