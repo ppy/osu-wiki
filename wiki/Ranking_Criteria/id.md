@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 933690a8933c5952827e8f0dcbd6887137787f43
+---
+
 # Ranking criteria
 
 *Untuk ranking criteria [mode permainan](/wiki/Game_mode) yang spesifik, kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
