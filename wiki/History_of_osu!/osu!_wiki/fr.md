@@ -32,5 +32,5 @@ outdated: true
 | 26/01/2017 | Le wiki osu! a été mentionné dans le blog de ppy. |
 | 22/05/2017 | [Les archives osu!news sont maintenant stockées sur le wiki osu! (sous format texte uniquement)](https://github.com/ppy/osu-wiki/pull/252). |
 | 30/05/2017 | [La redirection de page est finalement implémentée dans le wiki osu!](https://github.com/ppy/osu-web/pull/1144) |
-| 06/2017 | TPGPL est promu avec des accès en écriture sur le repository osu-wiki. La fonction de recherche pour le wiki osu! est implémentée.
+| 06/2017 | TPGPL est promu avec des accès en écriture sur le repository osu-wiki. La fonction de recherche pour le wiki osu! est implémentée. |
 | 04/02/2018 | [Le support de mots clés d'article a été implémenté](https://github.com/ppy/osu-web/pull/2331) pour permettre de meilleurs résultats de recherche pour les articles de wiki. |
