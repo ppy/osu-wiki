@@ -25,7 +25,7 @@ The permanent benefits of the osu!supporter are:
 
 ## Badge
 
-![Profile with osu!supporter](img/userpage.jpg?1 "Profile with osu!supporter")
+![Profile with osu!supporter](img/userpage.png?1 "Profile with osu!supporter")
 
 ![Usercard with osu!supporter](img/usercard.png?1 "User card with osu!supporter")
 
