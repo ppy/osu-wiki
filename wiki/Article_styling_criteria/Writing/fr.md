@@ -317,7 +317,7 @@ La virgule de série, également connue sous le nom de virgule d'Oxford ou de Ha
 
 Consultez les [conventions typographiques de Wikipédia concernant les citations](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Citation).
 
-Les guillemets ne se ferment après la ponctuation que si celle-ci ne peut pas être séparée de la citation (si cette citation forme une phrase complète, par exemple).
+Selon ces conventions typographiques, les guillemets ne se ferment après la ponctuation que si celle-ci ne peut pas être séparée de la citation (si cette citation forme une phrase complète, par exemple).
 
 Exemple :
 
