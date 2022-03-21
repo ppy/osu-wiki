@@ -1,8 +1,7 @@
 ---
-needs_cleanup: true
+outdated: true
+outdated_since: 6bc1537ef8d5ee9c08602c13108e15ce6f1ab524
 ---
-
-<!-- TODO: website updates, needs a review on the writing style -->
 
 # osu!サポーター
 

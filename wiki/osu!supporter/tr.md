@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6bc1537ef8d5ee9c08602c13108e15ce6f1ab524
+---
+
 # osu!supporter
 
 *Siteden osu!supporter sayfasına gitmek için, bakınız: [oyunu destekle](https://osu.ppy.sh/home/support)*

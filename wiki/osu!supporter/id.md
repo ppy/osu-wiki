@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6bc1537ef8d5ee9c08602c13108e15ce6f1ab524
+---
+
 # osu!supporter
 
 *Untuk halaman osu!supporter dari situs web osu!, lihat [dukung permainan ini](https://osu.ppy.sh/home/support).*

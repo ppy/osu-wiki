@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6bc1537ef8d5ee9c08602c13108e15ce6f1ab524
+---
+
 # osu!supporter
 
 *Pour la page osu!supporter du site Web, voir: [soutenir le jeu](https://osu.ppy.sh/home/support)*
