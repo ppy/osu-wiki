@@ -16,6 +16,7 @@ IRC ist ein Protokoll auf Anwendungsebene, das das Chatten mit anderen Benutzern
 
 - Server: `irc.ppy.sh`
 - Port: `6667`
+- SSL: ausgeschaltet
 - Benutzername: dein osu! Benutzername. Ersetze Leerzeichen durch Unterstriche (z. B. wird `beppy master 1000` zu `beppy_master_1000`)
 - Passwort: das Passwort der [IRC-Authentifizierungsseite](https://osu.ppy.sh/p/irc)
 
@@ -44,7 +45,7 @@ Normalerweise informieren dich viele IRC-Clients, sobald ein Benutzer einen Chan
 | [Irssi](https://irssi.org) | Tippe `/ignore * JOINS PARTS QUITS` ein |
 | [Weechat](https://weechat.org/) | Gebe `/filter add joinquit * irc_join,irc_part,irc_quit *` ein |
 | [KVIrc](https://www.kvirc.net/) | (Beziehe dich auf [die KVIrc Wikiseite](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
-| [mIRC](https://www.mirc.com/) | Gehe zu den mIRC Optionen (`Tools` -> `Options`, oder `Alt` + `O`), wähle `IRC` aus, klicke den `Events...` Knopf und selektiere `Hide` für Joins und Parts |
+| [mIRC](https://www.mirc.com/) | Gehe zu den mIRC Optionen (`Tools` -> `Options`, oder `Alt` + `O`), wähle `IRC` aus, klicke den Button `Events...`  und selektiere `Hide` für Joins und Parts |
 | [Quassel IRC](https://quassel-irc.org/) | Rechtsklicke im Chat und wähle Joins/Parts/Quits im "Hide Events" Menü |
 | [XChat](http://xchat.org/) | Tippe `/set irc_conf_mode 1` ein |
 
@@ -82,4 +83,4 @@ Benutzer, die über den osu!-Client oder die Website verbunden sind, haben kein 
 
 ### Jemand sendet Nachrichten, aber er ist nicht in der Liste der Channel-Benutzer!
 
-Er verwendet entweder die [Web-Version des Chats](https://osu.ppy.sh/community/chat) oder ist via [osu!lazer](https://github.com/ppy/osu) verbunden.
+Er verwendet entweder die [Web-Version des Chats](https://osu.ppy.sh/community/chat) oder ist via [osu!(lazer)](https://github.com/ppy/osu) verbunden.

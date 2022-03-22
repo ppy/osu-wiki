@@ -14,10 +14,11 @@
 
 Setelah Anda memiliki sebuah klien IRC, Anda perlu mengatur pengaturan server (Anda mungkin perlu untuk menambah server dahulu).
 
-- **Server:** `irc.ppy.sh`
-- **Username:** Nama pengguna osu! Anda. (ganti spasi dengan garis bawah, contoh `beppy master 1000` menjadi `beppy_master_1000`)
-- **Port:** `6667` 
-- **Password:** Dapatkan di [Otentikasi IRC](https://osu.ppy.sh/p/irc).
+- Server: `irc.ppy.sh`
+- Port: `6667` 
+- SSL: dinonaktifkan
+- Username: Nama pengguna osu! Anda. (ganti spasi dengan garis bawah, contoh `beppy master 1000` menjadi `beppy_master_1000`)
+- Password: Dapatkan di [Otentikasi IRC](https://osu.ppy.sh/p/irc).
 
 *Peringatan: Kata sandi IRC Anda berbeda dengan kata sandi akun osu! Anda. ***Jangan dibagikan kepada orang lain***.
 
@@ -82,4 +83,4 @@ Pengguna yang terhubung melalui klien osu! atau website tidak akan mempunyai pre
 
 ### Seseorang mengirim pesan, tetapi mereka tidak ada dalam daftar pengguna kanal!
 
-Mereka menggunakan [versi web chat](https://osu.ppy.sh/community/chat) atau terhubung melalui klien [osu!lazer](https://github.com/ppy/osu).
+Mereka menggunakan [versi web chat](https://osu.ppy.sh/community/chat) atau terhubung melalui klien [osu!(lazer)](https://github.com/ppy/osu).

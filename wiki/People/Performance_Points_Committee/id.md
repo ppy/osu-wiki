@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - pp committee
   - komite pp

@@ -44,7 +44,7 @@ La Game_Osu Tourney 3 était gérée par différents membres de la communauté, 
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824) |
 | Administrateurs | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kynan](https://osu.ppy.sh/users/1093361), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Sélectionneur de map | ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Dj Takaa](https://osu.ppy.sh/users/9183130), ![][flag_FR] [Ayzer](https://osu.ppy.sh/users/6123512), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586), ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) |
+| Sélectionneur de beatmap | ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Dj Takaa](https://osu.ppy.sh/users/9183130), ![][flag_FR] [Ayzer](https://osu.ppy.sh/users/6123512), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586), ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) |
 | Designer | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) |
 | Streamers | ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_CA] [kymotsujason](https://osu.ppy.sh/users/2541804), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) |
 | Commentateurs | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987), ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kynan](https://osu.ppy.sh/users/1093361), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [IIFirenII](https://osu.ppy.sh/users/1984236), ![][flag_FR] [Battquif](https://osu.ppy.sh/users/2389333), ![][flag_FR] [Elysion](https://osu.ppy.sh/users/106269), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_US] [BossG4m3r](https://osu.ppy.sh/users/7677585), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955) |
@@ -151,7 +151,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | *4ème place* | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
 | *5ème place* | ![][flag_HK] [DenierNezzar](https://osu.ppy.sh/users/126144) |
 
-## Liste des maps
+## Liste des beatmaps
 
 ### Finales
 
@@ -589,17 +589,17 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 6. Seulement le **top 128 des inscrits basé sur le [BWS Rank](https://pastebin.com/3QSaGdkE)** à la fin de la période d’inscriptions sera autorisé à participer.
 7. Pour pouvoir vous inscrire, vous devez être au moins **#10,000** global.
 8. La participation au tournoi est **prohibée** à tous les [membres du staff](https://www.gameosu.com/staff) (*à l’exception des casters*).
-9. Les map-pools seront révélés à la fin de chaque semaine les dimanches sur la [chaîne Twitch du Game\_Osu](https://www.twitch.tv/gameosu). Rendez-vous sur le site internet dans l’onglet “Planning” pour en apprendre plus sur l’agenda du tournoi. Servez vous de l’onglet “Mappool” pour y récupérer les maps après leur annonce.
+9. Les beatmap-pools seront révélés à la fin de chaque semaine les dimanches sur la [chaîne Twitch du Game\_Osu](https://www.twitch.tv/gameosu). Rendez-vous sur le site internet dans l’onglet “Planning” pour en apprendre plus sur l’agenda du tournoi. Servez vous de l’onglet “Mappool” pour y récupérer les beatmaps après leur annonce.
 
 ### Organisation des matchs
 
-1. Pour le Round of 64, vous devez gagner 4 maps pour remporter un match. (Best-of-7)
-2. Pour le Round of 32 et le Round of 16, vous devez gagner 5 maps pour remporter un match. (Best-of-9)
-3. Pour les Quarts de Finale et les Demi-Finales, vous devez gagner 6 maps pour remporter un match. (Best-of-11)
-4. Pour les **Finales et la Grande Finale**, vous devez gagner 7 maps pour remporter un match. (Best-of-13)
+1. Pour le Round of 64, vous devez gagner 4 beatmaps pour remporter un match. (Best-of-7)
+2. Pour le Round of 32 et le Round of 16, vous devez gagner 5 beatmaps pour remporter un match. (Best-of-9)
+3. Pour les Quarts de Finale et les Demi-Finales, vous devez gagner 6 beatmaps pour remporter un match. (Best-of-11)
+4. Pour les **Finales et la Grande Finale**, vous devez gagner 7 beatmaps pour remporter un match. (Best-of-13)
    - La Grande Finale peut mener à un Bracket Reset si le joueur venant du Losers Bracket remporte le premier match.
 5. Les arbitres sont ceux chargés de leur lobby pendant les matchs. Les joueurs doivent spécifier leurs picks et bans dans le chat textuel interne au lobby et ce sont les arbitres qui les sélectionnent.
-6. Les arbitres doivent gérer plusieurs lobbies simultanément et ne sont pas toujours au courant de chaque spécificité dans les maps. Veuillez utilisez le nom entier de la beatmap ou d’autres termes tels que `[mod][numéro de la map]` (en utilisant l’onglet `mappool` du site comme référence) pour minimiser les risques de confusion. Demander à l’arbitre une map en décrivant son background où une référence à la musique réduira vos chances d’obtenir la map voulue.
+6. Les arbitres doivent gérer plusieurs lobbies simultanément et ne sont pas toujours au courant de chaque spécificité dans les beatmaps. Veuillez utilisez le nom entier de la beatmap ou d’autres termes tels que `[mod][numéro de la beatmap]` (en utilisant l’onglet `mappool` du site comme référence) pour minimiser les risques de confusion. Demander à l’arbitre une beatmap en décrivant son background où une référence à la musique réduira vos chances d’obtenir la beatmap voulue.
    - Pour les picks Freemod, chaque joueur doit choisir au moins un mod parmi les suivant: Hidden/HardRock/Easy/Flashlight. L’addition de mods est autorisée. Ces mods sont également autorisés sur les Tiebreakers.
 
 ### Règles spécifiques aux étapes de la compétition
@@ -612,14 +612,14 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 4. Si un joueur est toujours absent 10 minutes après l’heure prévue, le match sera déclaré comme gagnant pour son opposant.
 5. Il n’y aura aucun échauffement, soyez sûrs d’être correctement préparés avant vos matchs!
 6. Dans chaque lobby, les joueurs devront `!roll`. Les picks seront ensuite effectués dans l’ordre descendant des scores de `!roll`.
-7. Les joueurs devront jouer 8 maps, chacun d’eux devra pick deux fois au total, en suivant l’ordre de `!roll`.
-8. Après chaque map, les joueurs sont récompensés par des points en fonction de leur place sur la map:
+7. Les joueurs devront jouer 8 beatmaps, chacun d’eux devra pick deux fois au total, en suivant l’ordre de `!roll`.
+8. Après chaque beatmap, les joueurs sont récompensés par des points en fonction de leur place sur la beatmap:
    - 1er - 4 points
    - 2e - 2 points
    - 3e - 1 point
    - 4e - 0 point
 9. Seulement les deux meilleurs joueurs avancent vers la prochaine étape. Dans le cas d’une égalité, le Tiebreaker sera joué en 1v1 entre les joueurs concernés.
-10. Si un joueur est victime d’une déconnexion de Bancho au milieu d’une map, il ne sera pas récompensé par des points pour cette map. Les joueurs ont le droit à 5 minutes pour contacter leur arbitre via osu! où Discord avant qu’ils ne soient comptés perdant du match.
+10. Si un joueur est victime d’une déconnexion de Bancho au milieu d’une beatmap, il ne sera pas récompensé par des points pour cette beatmap. Les joueurs ont le droit à 5 minutes pour contacter leur arbitre via osu! où Discord avant qu’ils ne soient comptés perdant du match.
 
 #### Rounds
 
@@ -628,7 +628,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 3. Il n’y aura aucun échauffement, soyez sûrs d’être correctement préparés avant vos matchs!
 4. Chaque joueur devra `!roll`. Le plus haut roll décide de l’ordre des picks et des bans (le premier à ban sera le dernier à pick)
 5. Dans le cas d’une égalité, le Tiebreaker sera joué. Les perdants du Winners bracket iront au Losers bracket.
-6. Si un joueur est victime d’une déconnexion de Bancho au milieu d’une map, un rematch de cette map peut être joué seulement si l’arbitre y consent, la décision lui revient. Les joueurs ont droit à cinq minutes pour contacter leur arbitre via osu! où Discord avant qu’ils ne soient comptés perdant du match.
+6. Si un joueur est victime d’une déconnexion de Bancho au milieu d’une beatmap, un rematch de cette beatmap peut être joué seulement si l’arbitre y consent, la décision lui revient. Les joueurs ont droit à cinq minutes pour contacter leur arbitre via osu! où Discord avant qu’ils ne soient comptés perdant du match.
 7. Le reschedule est autorisé, pour ce faire nous vous demandons de contacter votre adversaire de vous-même et de nous envoyer une preuve de votre consentement mutuel au reschedule. Nous vous laissons à disposition le channel `#rescheduling` sur le [Serveur Discord GO](https://discord.gg/trnFByC) pour contacter votre adversaire. Vous avez jusqu'au jeudi à 19h (UTC) de la semaine précédant le match pour le faire.
 
 ### Règles liées au comportement

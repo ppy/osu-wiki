@@ -19,7 +19,7 @@ Les `minutes` et les `secondes` sont complétées par 2 chiffres, et les `millis
 
 ### Exemple
 
-Pour une référence aux objets 5 et 6 à 12 secondes et 34 millisecondes dans une map :
+Pour une référence aux objets 5 et 6 à 12 secondes et 34 millisecondes dans une beatmap :
 
 Horodatage : `00:12:034 (5,6)`\
 Lien : `osu://edit/00:12:034 (5,6)`

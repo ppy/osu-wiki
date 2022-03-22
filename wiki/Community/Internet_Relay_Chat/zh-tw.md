@@ -20,6 +20,7 @@ no_native_review: true
 
 - 伺服器：`irc.ppy.sh`
 - 連接埠：`6667`
+- SSL: 禁止
 - 使用者名稱：你在 osu! 中的使用者名稱。將空白換成底線 (例如 `beppy master 1000` 會變成 `beppy_master_1000`)
 - 密碼: 你在 [IRC Authentication](https://osu.ppy.sh/p/irc) 頁面獲得的密碼
 
@@ -86,4 +87,4 @@ IRC 標準中有頻道模式的概念，也就是每位使用者能做的行為�
 
 ### 有人不在頻道用戶列表，但還是可以傳送訊息！
 
-他們是透過[網頁](https://osu.ppy.sh/community/chat)或是 [osu!lazer](https://github.com/ppy/osu) 連接的。
+他們是透過[網頁](https://osu.ppy.sh/community/chat)或是 [osu!(lazer)](https://github.com/ppy/osu) 連接的。
