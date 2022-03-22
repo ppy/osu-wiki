@@ -20,9 +20,9 @@ Diese Kürzel können überall verwendet werden:
 
 | Kürzel | Aktion |
 | :-- | :-- |
-| `Alt` + `F4` | Schließt den Spiel-Client (ohne Bestätigung). Wenn du ein Spiel spielst, dich im Beatmap-Editor oder in osu!direct befindest, gelangst du zurück zur Songauswahl bzw. zum Hauptmenü. |
+| `Alt` + `F4` | Schließt den Spiel-Client (ohne Bestätigung). Wenn du eine Beatmap spielst, dich im Beatmap-Editor oder in osu!direct befindest, gelangst du zurück zur Songauswahl bzw. zum Hauptmenü. |
 | `Alt` + `Pfeil hoch/runter` | Stelle die Gesamtlautstärke ein. Benutze die linke und rechte Pfeiltasten, um die Effekt- sowie die Musiklautstärke anzupassen. |
-| `Strg` + `Alt` + `Shift` + `S` | Lade den aktuellen Skin neu. Wenn dies während eines Spiels oder in der Ergebnisanzeige gedrückt wird, dann wird es ausgeführt, sobald man sich wieder in der Songauswahl befindet. |
+| `Strg` + `Alt` + `Shift` + `S` | Lade den aktuellen Skin neu. Wenn dies während des Spielens oder in der Ergebnisanzeige gedrückt wird, dann wird es ausgeführt, sobald man sich wieder in der Songauswahl befindet. |
 | `Strg` + `F11` | Das Frametime-Diagramm an-/ausschalten. Das Drücken von `Strg` wird dies pausieren. |
 | `F7` | Wechsle durch die FPS-Limiter. |
 | `F8` | Chat-Fenster ein-/ausblenden. |
@@ -73,7 +73,7 @@ Diese Kürzel können überall verwendet werden:
 | `Shift` + `F2` | Gehe zur letzten, zufällig gewählten Beatmap zurück. |
 | `F3` | Öffne die Beatmap-Einstellungen. |
 | `F5` | Verarbeitet alle Beatmaps neu (dies wird dich zum Fortfahren auffordern). |
-| `Shift` + `Entf` | Öffne die Aufforderung zum Löschen einer Beatmap. Das wird dich fragen, ob du die Beatmap (alle Schwierigkeitsgrade), eine einzelne Schwierigkeitsstufen oder alle sichtbaren Beatmaps löschen möchtest. |
+| `Shift` + `Entf` | Öffne die Aufforderung zum Löschen einer Beatmap. Das wird dich fragen, ob du die Beatmap (alle Schwierigkeitsgrade), eine einzelne Schwierigkeitsstufe oder alle sichtbaren Beatmaps löschen möchtest. |
 | `Strg` + `1` | Wechsle zum [osu!](/wiki/Game_mode/osu!)-Spielmodus. |
 | `Strg` + `2` | Wechsle zum [osu!taiko](/wiki/Game_mode/osu!taiko)-Spielmodus. |
 | `Strg` + `3` | Wechsle zum [osu!catch](/wiki/Game_mode/osu!catch)-Spielmodus. |
@@ -97,7 +97,7 @@ Diese Kürzel können überall verwendet werden:
 *Tipp: Das Drücken des Tastenkürzels wird die Mod an-/ausschalten. Du musst im Spielmodifikationsmenü sein, um diese Tastenkürzel verwenden zu können.*\
 *Tipp: Die Mods Target Practice (osu!), 1K und 2K (osu!mania), Co-op (osu!mania) und Mirror (osu!mania) haben keine Tastenkürzel.*
 
-| Shortcut | Mod |
+| Kürzel | Mod |
 | :-- | :-- |
 | `Q` | Easy |
 | `W` | No Fail |
@@ -122,12 +122,12 @@ Diese Kürzel können überall verwendet werden:
 
 | Kürzel | Aktion |
 | :-- | :-- |
-| `+` oder `-` | Passe das lokale Offset an (halte `Alt` für besondere Präzision). |
+| `+` oder `-` | Passe das lokale Offset an (halte `Alt` für bessere Präzision). |
 | `Esc` | Pausiere das Spiel oder kehre zurück zur Songauswahl, wenn du ein Replay anschaust sowie wenn Auto- oder Cinema-Mod aktiviert sind. |
 | `Leertaste` | Überspringe das Intro. |
 | `Tab` | Rangliste ein-/ausschalten. |
 | `Shift` + `Tab` | Benutzeroberfläche im Spiel (außer der Rangliste) ein-/ausblenden. |
-| `H` | Toggle hiding of the scoreboard and replay interface (when watching a replay or spectating). |
+| `H` | Ein- und Ausblenden der Rangliste und des Replay-Interfaces (beim Ansehen eines Replays oder beim Zuschauen). |
 | `F3` oder `F4` | Passe die osu!mania-Scrollgeschwindigkeit an (nur am Anfang des Songs möglich). |
 | `Strg` + `R` oder `` ` `` | Darf nur kurz gehalten werden. Starte die Beatmap schnell neu (das Intro wird automatisch übersprungen)<!--TODO: check if ö or ` is correct (see old version of this article)-->. |
 
@@ -176,8 +176,8 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 | `F4` | Öffne den Dialog für das [Song-Setup](/wiki/Client/Beatmap_editor/Song_Setup). |
 | `F5` | Starte den Testmodus. |
 | `F6` | Öffne den Dialog für das Timing und die Control Points. |
-| `Strg` + `P` | Add an uninherited timing point at the current timestamp. If not in the timing mode, this will also open the timing and control points dialog. |
-| `Strg` + `Shift` + `P` | Füge einen unvererbten Timing Point an der aktuellen Stelle. Das wird auch den Dialog für das Timing und die Control Points öffnen. |
+| `Strg` + `P` | Füge einen unvererbten Timing Point an der aktuellen Stelle hinzu. Wenn dies nicht im Timing-Mode geschiet, wird auch der Dialog für das Timing und die Control Points geöffnet |
+| `Strg` + `Shift` + `P` | Füge einen unvererbten Timing Point an der aktuellen Stelle hinzu. Das wird auch den Dialog für das Timing und die Control Points öffnen. |
 | `Strg` + `I` | Lösche die aktuelle unvererbte oder vererbte Sektion. Das wird nicht beim ersten unvererbten Timing Point funktionieren. |
 
 #### Maus
@@ -187,8 +187,8 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 | `Mausrad hoch/runter` | Springe vorwärts/rückwärts. |
 | `Shift` + `Mausrad hoch/runter` | Springe vorwärts/rückwärts bei 4x. |
 | `Strg` + `Mausrad hoch/runter` | Passe den Snap-Divisor an. |
-| `Alt` + `Mausrad hoch/runter` | Stelle den Distance-Snapping-Multiplikator beim Schweben über dem Spielfeld ein. Passe die Vergrößerung der Timeline beim Schweben über der Timeline an. |
-| `Alt` + `Shift` + `Mausrad hoch/runter` | Stelle sehr präzise den Distance-Snapping-Multiplikator beim Schweben über dem Spielfeld ein. |
+| `Alt` + `Mausrad hoch/runter` | Stelle den Distance-Snapping-Multiplikator beim Hovern über dem Spielfeld ein. Passe die Vergrößerung der Timeline beim Hovern über der Timeline an. |
+| `Alt` + `Shift` + `Mausrad hoch/runter` | Stelle sehr präzise den Distance-Snapping-Multiplikator beim Hovern über dem Spielfeld ein. |
 
 ### Compose
 
@@ -200,7 +200,7 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 | `Strg` + `Z` | Rückgängig. |
 | `Strg` + `Y` | Wiederholen. |
 | `Strg` + `A` | Wähle alle Hit-Objekte aus. |
-| `Strg` + `X` | Ausscheiden. |
+| `Strg` + `X` | Ausschneiden. |
 | `Strg` + `C` | Kopieren. |
 | `Strg` + `V` | Einfügen. |
 | `Strg` + `D` | Dupliziere die Auswahl. Dies wird das Duplikat einen Takt hinter dem zuletzt ausgewählten Objekt platzieren. |
@@ -242,7 +242,7 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 | `Strg` + `.` | Rotiere die Auswahl um 90 Grad mit dem Uhrzeigersinn. |
 | `Strg` + `H` | Spiegle die Auswahl horizontal. |
 | `Strg` + `J` | Spiegle die Auswahl vertikal. |
-| `Strg` + `G` | Mache die Auswahl rückgängig. Das bedeutet, dass das erste ausgewählte Objekt zum letzten ausgewählten Objekt bewegt wird usw. |
+| `Strg` + `G` | Kehre die Auswahl um. Das bedeutet, dass das erste ausgewählte Objekt zum letzten ausgewählten Objekt bewegt wird usw. |
 | `Strg` + `Shift` + `R` | Rotiere die ausgewählten Objekte um einen bestimmten Winkel (öffnet einen Dialog). |
 | `Strg` + `Shift` + `S` | Skaliere die ausgewählten Objekte um einen bestimmten Betrag (öffnet einen Dialog). |
 | `Strg` + `Shift` + `D` | Generiere Polygone mit einer bestimmten Anzahl an Punkten (öffnet einen Dialog). |
@@ -267,7 +267,7 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 | Kürzel | Aktion |
 | :-- | :-- |
 | `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8` oder `9`) | Ändere den [Beat-Snap-Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) auf 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 bzw. 1/9. |
-| `Shift` (während dem Ziehen der Timeline) | Ignoriere das Snapping des Beat-Snap-Divisors. |
+| `Shift` (während dem Ziehen auf der Timeline) | Ignoriere das Snapping des Beat-Snap-Divisors. |
 | `J` | Schiebe die Auswahl auf der Timeline zurück. |
 | `K` | Schiebe die Auswahl auf der Timeline vorwärts. |
 
