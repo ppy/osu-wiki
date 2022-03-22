@@ -6,34 +6,90 @@ tags:
 
 # osu!supporter
 
-**osu!supporter** is a temporary title given to players who support osu! by making a voluntary, monetary donation to help it thrive. Supporters receive a handful of cosmetic and technical benefits, most of which are active only when the title is present, such as:
+**osu!supporter** is a temporary title given to players who support osu! by making a voluntary, monetary donation to help it thrive. Supporters receive a handful of cosmetic and technical benefits, most of which are active only when the title is present. Note that the extra features from osu!supporter will never give any advantage in gameplay, performance, or score.
 
-- A distinctive bright yellow nickname in [chat](/wiki/Client/Interface/Chat_console)
-- Access to osu!direct, the in-game beatmap search and download engine
-- Relaxed limits on the number of favourited, uploaded, and downloaded [beatmaps](/wiki/Beatmap)
-- The ability to [skin](/wiki/Skinning) (customise) more game components
-- Friend, country, and [mod](/wiki/Game_modifier) [leaderboards](/wiki/Beatmap#leaderboards)
+The osu!supporter tag may be obtained from the [osu!supporter store page](https://osu.ppy.sh/store/products/supporter-tag).
 
-The full list of perks and the ways osu!supporter helps osu! may be seen at its [promo page](https://osu.ppy.sh/home/support). Note that the extra features from osu!supporter will never give any advantage in gameplay, performance, or score.
+## Features
 
-## Permanent benefits
-
-The permanent benefits of the osu!supporter are:
-
-- One free username change
-- An editable `me!` section on the user profile
-
-## Badge
+### Heart badge
 
 ![Profile with osu!supporter](img/userpage.png?1 "Profile with osu!supporter")
 
 ![Usercard with osu!supporter](img/usercard.png?1 "User card with osu!supporter")
 
-Supporters get a badge with hearts on it, usually found next to their username. The amount of hearts depends on the duration of osu!supporter the user has acquired or received in total<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
+The badge with hearts on it may usually be found next to a username. The amount of hearts depends on the duration of osu!supporter the user has acquired or received in total<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
 
 - Less than 1 year: 1 heart
 - From 1 to 5 years: 2 hearts
 - More than 5 years: 3 hearts
+
+### Username colour
+
+<!-- TODO(TicClick): add a screenshot -->
+
+The supporters' usernames appear gold for the rest of the [chat](/wiki/Client/Interface/Chat_console) users.
+
+### Editable profile section
+
+Supporters receive a new profile section titled `me!`, often referred to as a userpage. The userpage serves as a personal editable space, where text is formatted using [BBCode](/wiki/BBCode). This feature is permanent and stays after the osu!supporter wears out.
+
+The `me!` section may be a good place for:
+
+- Banners, collabs, and infographics to spice up the profile;
+- A few paragraphs or items providing insights into a player's life;
+- A showcase of favourite maps, mappers, or anything else they consider important.
+
+### Profile cover
+
+It is possible for an osu! supporter to further customize their profile by setting up a cover image:
+
+- Press the pencil icon in the lower right corner of the cover placeholder.
+- Select a new cover from a few predefined options, or upload your own image (its dimensions should be 2400x640).
+
+Once osu!supporter expires, the cover will be replaced with a standard one.
+
+### One free username change
+
+*Note: minor name changes may be requested from the account support team for free—see [Account § Can I change my account's username?](/wiki/Help_centre/Account#name-changes)*
+
+The osu!supporter bearers are granted the ability to change their username once for free, if it's their first name change ([usual conditions apply](/wiki/Help_centre/Account#name-changes)).
+
+### osu!direct
+
+osu!direct is the in-game beatmap search and download engine available to the supporters. It may be accessed from the main menu by clicking the vertical `osu!direct` label on the left side of the screen. In addition to the built-in beatmap listing, osu!direct provides other ways to obtain new beatmaps without leaving the game:
+
+- In-chat links, which point to beatmaps on the osu! website, now trigger the download prompt in-game;
+- [Spectators](/wiki/Gameplay/Spectating) with osu!supporter are able to automatically download beatmaps their target is playing;
+- Players with osu!supporter may opt-in to automatically linking the beatmap they are currently playing in the `#spectator` chat tab.
+
+### Extended leaderboards
+
+Supporters have access to several beatmap-specific [leaderboards](/wiki/Beatmap#leaderboards) available both in-game and on the website:
+
+- Global ranking for every combination of [game modifiers](/wiki/Game_modifier);
+- Country-specific ranking made of players bearing the same flag;
+- Friend ranking that shows a player's position on the map compared to their friends.
+
+### Increased limits
+
+osu! offers more relaxed limits on different things to the supporters:
+
+| Quota type | Regular limit | osu!supporter limit |
+| :-- | :-: | :-: |
+| Uploaded beatmaps | 4 + `min(ranked beatmaps, 2)` | 8 + `min(ranked beatmaps, 4)` |
+| Online beatmap favourites | 100 | 1000 |
+| Friend list length | 250 | 500 |
+
+Additionally, the osu!supporter bearers are granted more lenient download speed limits, as well as the limits on amount of beatmaps downloaded per hour.
+
+### Extra skinnable elements
+
+<!-- TODO(TicClick) -->
+
+### Extended search
+
+<!-- TODO(TicClick) -->
 
 ## Remaining duration
 
@@ -49,11 +105,11 @@ To get osu!supporter, visit the [osu!supporter store page](https://osu.ppy.sh/st
 
 Afterwards, click `Add to Cart` to put the supporter tag into the osu!store shopping cart. To finalize the purchase, go to the [shopping cart](https://osu.ppy.sh/store/cart) and click `Checkout`, then follow on-screen prompts.
 
-## Gifting osu!supporter
+### Gifting osu!supporter
 
 The osu!supporter may also be gifted to another player by entering their username into the grey box below the user card. More people can be added by going back to the store page and repeating the process.
 
-## Conclusion
+### Conclusion
 
 After the transaction is completed, there will be a new event in the `Recent Activity` section of a profile of both the giver and the recipient:
 
