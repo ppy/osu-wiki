@@ -205,7 +205,7 @@ Despite this, *Francium* makes for an incredibly engaging and fun map that feels
 145 BPM, 2:33 | 7.26★\
 *description written by [Horiiizon](https://osu.ppy.sh/users/8071438)*
 
-*Eye of xxxx* is a name those of you who follow the [Global Taiko Showdown tournaments](/wiki/Tournaments/GTS) will most likely recognise, as it was used as NM3 in the Grand Finals of the 4v4 edition of the [Continental Global Taiko Showdown this year](/wiki/en/Tournaments/GTS/CGTS_2021).
+*Eye of xxxx* is a name those of you who follow the [Global Taiko Showdown tournaments](/wiki/Tournaments/GTS) will most likely recognise, as it was used as NM3 in the Grand Finals of the 4v4 edition of the [Continental Global Taiko Showdown this year](/wiki/Tournaments/GTS/CGTS_2021).
 
 As you might expect for a tech map in the Grand Finals of one of the hardest tournaments around, *Eye of xxxx* is very difficult. The entire map consists of constant changes from 1/4 to 1/6 to 1/8, and the beginning and end of the map are especially tough, containing far longer and much more complex patterns which are sure to challenge even seasoned tech map players!
 
