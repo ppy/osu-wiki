@@ -31,7 +31,7 @@ Les sets de hitsounds peuvent être ajoutés à travers le storyboarding pour im
 
 ## Keysound
 
-Un keysound est un échantillon de hitsound qui est extrêmement similaire à la musique, ou directement tiré de celle-ci, et qui est utilisé pour reproduire la hauteur des notes de la musique. Cette méthode de sonorisation des hits fournit généralement un faible feedback au joueur, mais peut rendre le jeu de certains beatmaps plus intéressant et faire ressortir certaines sections d'une map lorsqu'elle est bien appliquée.
+Un keysound est un échantillon de hitsound qui est extrêmement similaire à la musique, ou directement tiré de celle-ci, et qui est utilisé pour reproduire la hauteur des notes de la musique. Cette méthode de sonorisation des hits fournit généralement un faible feedback au joueur, mais peut rendre le jeu de certains beatmaps plus intéressant et faire ressortir certaines sections d'une beatmap lorsqu'elle est bien appliquée.
 
 ## Dans osu!taiko
 

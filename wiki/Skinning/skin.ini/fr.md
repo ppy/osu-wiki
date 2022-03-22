@@ -351,7 +351,7 @@ osu! organise les commandes avec une commande d'en-tête. Qui peut ressembler à
   - Par défaut : *utiliser la couleur combinée actuelle*
   - Notes :
     - Ceci est pour [osu!](/wiki/Game_mode/osu!) uniquement.
-    - En utilisant cette option, toutes les couleurs des pistes des sliders seront identiques.
+    - En utilisant cette option, toutes les couleurs des chemins des sliders seront identiques.
 - `SongSelectActiveText:`
   - Question : De quelle couleur doit être teinté le texte du panneau actif ?
   - Valeur : *RGB*
@@ -777,7 +777,7 @@ Keys: 5
   - Question : Quel est le nom de l'image de la flèche d'avertissement ?
   - Valeur : texte *(chemin vers l'image)*
   - Notes :
-    - Elle apparaît trois lignes de barre avant le début de la map, si le temps est suffisant.
+    - Elle apparaît trois lignes de barre avant le début de la beatmap, si le temps est suffisant.
 - `Hit0:`
   - Question : Quel est le nom de l'image hit0 ?
   - Valeur : texte *(chemin vers l'image)*
