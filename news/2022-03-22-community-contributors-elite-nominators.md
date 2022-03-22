@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Contributors 2021: Elite Nominators"
-date: 2022-03-22 09:00:00 +0000
+date: 2022-03-22 20:00:00 +0000
 ---
 
 Take a moment with us to acknowledge some of the truly exceptional Beatmap Nominators that keep the modding and mapping scenes alive.
@@ -58,7 +58,7 @@ VINXIS took it upon himself to reach out to beloved older mappers in order to pr
 
 [![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/Zer0.jpg)](https://osu.ppy.sh/users/4260033)
 
-The winner of a highly coveted *white mug* for nominating many new mappers' creations earlier in 2021, [**Zer0-**](https://osu.ppy.sh/users/4260033) helped massively in cultivating the modding and mapping scene throughout their brief stint as a Beatmap Nominator.
+A winner of a highly coveted *white mug* for nominating many new mappers' creations earlier in 2021, [**Zer0-**](https://osu.ppy.sh/users/4260033) has helped massively in cultivating the modding and mapping scene throughout their brief stint as a Beatmap Nominator.
 
 During this time, they almost single-handedly revived the venerable drum and bass genre in Ranked, catapulting many now astronomically popular maps such as [The Words I Never Said](https://osu.ppy.sh/beatmapsets/1470072) and [USSEEWA](https://osu.ppy.sh/beatmapsets/1322727) into the limelighy for many to enjoy.
 
@@ -68,7 +68,7 @@ In the words of the NAT, one could might say that Zer0- is both drummed and base
 
 [![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/Hivie.jpg)](https://osu.ppy.sh/users/14102976)
 
-Making his debut in the Beatmap Nominators during January 2021, [**Hivie**] quickly proved himself to be one of the most dedicated nominators the mode has possibly ever seen, reaching over 160 nominations with an excellent incident ratio in a very short time.
+Making his debut in the Beatmap Nominators during January 2021, [**Hivie**](https://osu.ppy.sh/users/14102976) quickly proved himself to be one of the most dedicated nominators the mode has possibly ever seen, reaching over 160 nominations with an excellent incident ratio in a very short time.
 
 Not merely content with his top-tier activity levels, Hivie took the initiative to get involved in many projects within the modding and mapping community, such as assisting with the Community Mentorship program, moderating the osu!taiko Modding & Mapping Hub Discord server, assisting Project Loved in multiple domains and now even managing the returning Beatmap Spotlights. Hivie has been simply *everywhere* at this point, and has continued to excel in all of it.
 
@@ -116,7 +116,7 @@ Without a doubt, \_Stan is a major force in the 7K scene, and things would be ve
 
 A big thank you goes out to [Noffy](https://osu.ppy.sh/users/1541323) for organizing and wrangling much of the research needed to make these accolades happen, and the NAT as a whole for writing much of what you see here.
 
-The astute among you will notice two major differences this year — namely that the Elite section is typically bundled with Community Contributors as a whole, and that there are no extra Elite Storyboarders, Mappers or Referees this year. Due to the large quantity of Elite Nominators this year, we have opted to list them separately from the Community Contributor article, mainly as there are ongoing discussions delaying it from being released in full.
+The astute among you will notice two major differences this year — namely that the Elite section is typically bundled with Community Contributors as a whole, and that there are no extra Elite Storyboarders, Mappers or Referees. Due to the large quantity of Elite Nominators this year, we have opted to list them separately from the Community Contributor article, mainly as there are ongoing discussions delaying it from being released in full.
 
 Additionally, we will be considering a second round of Elite additions for 2021 in domains beyond just the Beatmap Nominators. Stay tuned for more news on that front.
 
