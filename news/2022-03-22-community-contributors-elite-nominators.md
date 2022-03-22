@@ -60,9 +60,9 @@ VINXIS took it upon himself to reach out to beloved older mappers in order to pr
 
 A winner of a highly coveted *white mug* for nominating many new mappers' creations earlier in 2021, [**Zer0-**](https://osu.ppy.sh/users/4260033) has helped massively in cultivating the modding and mapping scene throughout their brief stint as a Beatmap Nominator.
 
-During this time, they almost single-handedly revived the venerable drum and bass genre in Ranked, catapulting many now astronomically popular maps such as [The Words I Never Said](https://osu.ppy.sh/beatmapsets/1470072) and [USSEEWA](https://osu.ppy.sh/beatmapsets/1322727) into the limelighy for many to enjoy.
+During this time, they almost single-handedly revived the venerable drum and bass genre in Ranked, catapulting many now astronomically popular maps such as [The Words I Never Said](https://osu.ppy.sh/beatmapsets/1470072) and [USSEEWA](https://osu.ppy.sh/beatmapsets/1322727) into the limelight for many to enjoy.
 
-In the words of the NAT, one could might say that Zer0- is both drummed and based.
+In the words of the NAT, one could say that Zer0- is both drummed and based.
 
 ## osu!taiko
 
@@ -120,7 +120,7 @@ The astute among you will notice two major differences this year — namely that
 
 Additionally, we will be considering a second round of Elite additions for 2021 in domains beyond just the Beatmap Nominators. Stay tuned for more news on that front.
 
-As always, we are enormously thankful to host one of the most engaged communities on the internet. osu! is continually shaped by volunteer contributors like our Elites who play a huge part in making osu! as awesome as it is, and it only through their efforts that we continue to persist and grow as we have for so many years now.
+As always, we are enormously thankful to host one of the most engaged communities on the internet. osu! is continually shaped by volunteer contributors like our Elites who play a huge part in making osu! as awesome as it is, and it is only through their efforts that we continue to persist and grow as we have for so many years now.
 
 To all those who contribute, you have our utmost gratitude, and we look forward to sharing your accolades with the rest of the community in the future.
 
