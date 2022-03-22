@@ -16,10 +16,10 @@ As usual, we would like to thank everyone for your participation in the February
 - [Results for osu!taiko](https://osu.ppy.sh/community/forums/posts/8535529)
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/posts/8535528)
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/posts/8535527)
- 
-We'd like to take a moment to thank [huu](https://osu.ppy.sh/users/6044237) for his outstanding commitment and dedication, and for being an integral backbone for Project Loved during the past 3 years. He has decided to retire from his position as a coordinator while [Hivie](https://osu.ppy.sh/users/14102976) will replace him as a helping hand and continue to make things run smoothly. 
 
-From the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we sincerely wish you all the best in your future endeavours! 
+We'd like to take a moment to thank [huu](https://osu.ppy.sh/users/6044237) for his outstanding commitment and dedication, and for being an integral backbone for Project Loved during the past 3 years. He has decided to retire from his position as a coordinator while [Hivie](https://osu.ppy.sh/users/14102976) will replace him as a helping hand and continue to make things run smoothly.
+
+From the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we sincerely wish you all the best in your future endeavours!
 
 Without any further delay, let's move onto this month's picks!
 
