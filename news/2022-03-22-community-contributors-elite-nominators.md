@@ -10,7 +10,7 @@ Take a moment with us to acknowledge some of the truly exceptional Beatmap Nomin
 
 The Elite titles are an acknowledgement of utmost contribution to a given field in the osu! community, ranging from fields like beatmap nomination and mapping, to storyboarding, refereeing and more. Without question, every person who holds such an esteemed title has a storied history of making osu! more awesome, and as always, 2021 was no exception on this front.
 
-Today, we would like to acknowledge some of the best of the best among the Beatmap Nominators. The following accolades have been compiled and written by the members of the [Nomination Assessment Team](https://osu.ppy.sh/wiki/en/People/The_Team/Nomination_Assessment_Team).
+Today, we would like to acknowledge some of the best of the best among the Beatmap Nominators. The following accolades have been compiled and written by the members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
 
 ## osu!
 
@@ -108,7 +108,7 @@ Splitting his attention between numerous other projects in the scene, guden is e
 
 [![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/stan.jpg)](https://osu.ppy.sh/users/1653229)
 
-A dedicated Beatmap Nominator since 2018, [**\_Stan**] has had a noted passion for pushing new beatmaps into the 7K scene, ranging from pleasantly simple to some of the hardest beatmaps ever seen to date. 2021 was a continuation of this long-standing tradition for him, powering through nearly thirty nominations with some extremely thorough and detailed modding that have showcased not only his dedication towards improving 7K overall, but his experience with the mode as a whole.
+A dedicated Beatmap Nominator since 2018, [**\_Stan**](https://osu.ppy.sh/users/1653229) has had a noted passion for pushing new beatmaps into the 7K scene, ranging from pleasantly simple to some of the hardest beatmaps ever seen to date. 2021 was a continuation of this long-standing tradition for him, powering through nearly thirty nominations with some extremely thorough and detailed modding that have showcased not only his dedication towards improving 7K overall, but his experience with the mode as a whole.
 
 Without a doubt, \_Stan is a major force in the 7K scene, and things would be very different without him!
 
