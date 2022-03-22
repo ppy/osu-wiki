@@ -41,6 +41,7 @@ Das erste osu! Community Meeting fand am 19. September 2021 statt. Alle Treffen 
 | 10 | [6. Februar 2022](https://youtu.be/xA4nbE8DM4s) | [Sitzungsnotizen](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Diverse Fragen aus der Community |
 | 11 | [20. Februar 2022](https://youtu.be/d66pU5lsHvE) | - | Mod-Multiplikatoren und Score |
 | 12 | [6. März 2022](https://youtu.be/HimCHAnPCCY) | - | Ranglisten, Cross-Kompatibilität und Vorbereitung auf die Veröffentlichung von osu!(lazer) |
+| 13 | [20. März 2022](https://youtu.be/2Cp9rm0rNPQ) | [Sitzungsnotizen](https://yui.tv/osu-community-meetings/2022-03-20) | Entwicklungs-Update, diverse Fragen aus der Community |
 
 ## Weiterführende Links
 

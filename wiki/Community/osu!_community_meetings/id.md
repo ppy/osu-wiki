@@ -41,6 +41,7 @@ Pertemuan komunitas osu! pertama diadakan pada tanggal 19 September 2021. Adapun
 | 10 | [6 Februari 2022](https://youtu.be/xA4nbE8DM4s) | [Notulen pertemuan](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Berbagai pertanyaan dari para anggota komunitas |
 | 11 | [20 Februari 2022](https://youtu.be/d66pU5lsHvE) | - |  Pengali skor dan skor |
 | 12 | [6 Maret 2022](https://youtu.be/HimCHAnPCCY) | - |  |
+| 13 | [20 Maret 2022](https://youtu.be/2Cp9rm0rNPQ) | [Notulen pertemuan](https://yui.tv/osu-community-meetings/2022-03-20) | Berita-berita terkini seputar pengembangan osu! serta berbagai pertanyaan dari para anggota komunitas |
 
 ## Tautan terkait
 
