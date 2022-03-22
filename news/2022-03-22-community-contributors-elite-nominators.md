@@ -24,7 +24,7 @@ He has also contributed vastly to the catalogue of western music that was ranked
 
 Having the highest total number of unique and new mappers nominated throughout the year, [**Garden**](https://osu.ppy.sh/users/2849992) has scored at the very top of the current cohort of Beatmap Nominators! 
 
-Though his overall score only may only be half of that of other nominators, the sheer spike in his outreach towards the future of osu!'s mapping scene highlights his direct commitment towards consistently growing the beatmapping scene, often by focusing on complex sets with diverse difficulty spreads notably large in overall drain time, which has long been a format traditionally looked over by many other Beatmap Nominators.
+Though his overall score may only be half of that of other nominators, the sheer spike in his outreach towards the future of osu!'s mapping scene highlights his direct commitment towards consistently growing the beatmapping scene, often by focusing on complex sets with diverse difficulty spreads notably large in overall drain time, which has long been a format traditionally looked over by many other Beatmap Nominators.
 
 [![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/Hinsvar.jpg)](https://osu.ppy.sh/users/1249323)
 
@@ -34,7 +34,7 @@ He has consistently promoted high effort and high quality beatmaps without missi
 
 [![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/Luscent.jpg)](https://osu.ppy.sh/users/2688581)
 
-Sporting the best overall contribution made towards longer beatmap sets, [**Luscent**](https://osu.ppy.sh/users/2688581) is among the top five highest scoring nominators of the 2021! His nominations have ranged in style from old to modern and everything in between, promoting a multitude of unique maps all throughout.
+Sporting the best overall contribution made towards longer beatmap sets, [**Luscent**](https://osu.ppy.sh/users/2688581) is among the top five highest scoring nominators of 2021! His nominations have ranged in style from old to modern and everything in between, promoting a multitude of unique maps all throughout.
 
 Focused primarily on new and innovative maps in terms of reading, rhythm and movement, Luscent's efforts have directly contributed towards providing novel and era-defining challenges to the player base (most notably in beatmaps like [Beat Cannon](https://osu.ppy.sh/beatmapsets/1240125), [SPUTNIK-3](https://osu.ppy.sh/beatmapsets/1312076) and [true DJ MAG top ranker's song Zenpen \(katagiri Remix\)](https://osu.ppy.sh/beatmapsets/1357624)). Beyond just this, he has also been active in terms of helping to revive some ancient sets that have gone years without proper attention and seeing them brought back to life, such as [Raikou -3rd Desire-](https://osu.ppy.sh/beatmapsets/143316).
 
@@ -60,7 +60,7 @@ VINXIS took it upon himself to reach out to beloved older mappers in order to pr
 
 A winner of a highly coveted *white mug* for nominating many new mappers' creations earlier in 2021, [**Zer0-**](https://osu.ppy.sh/users/4260033) has helped massively in cultivating the modding and mapping scene throughout their brief stint as a Beatmap Nominator.
 
-During this time, they almost single-handedly revived the venerable drum and bass genre in Ranked, catapulting many now astronomically popular maps such as [The Words I Never Said](https://osu.ppy.sh/beatmapsets/1470072) and [USSEEWA](https://osu.ppy.sh/beatmapsets/1322727) into the limelight for many to enjoy.
+During this time, they almost single-handedly revived the venerable drum and bass genre in Ranked, all while catapulting many now astronomically popular maps such as [The Words I Never Said](https://osu.ppy.sh/beatmapsets/1470072) and [USSEEWA](https://osu.ppy.sh/beatmapsets/1322727) into the limelight for many to enjoy.
 
 In the words of the NAT, one could say that Zer0- is both drummed and based.
 
