@@ -84,7 +84,7 @@ From his time as a mentee in the Community Mentorship program, ikin5050 has come
 
 The most active osu!catch Beatmap Nominator of 2021 without contest, [**Secre**](https://osu.ppy.sh/users/2306637) has left a significant mark on the scene with his dedicated drive towards helping many mappers get their works situated in Ranked. 
 
-His outstanding drive for checking qualified mapsets has been instrumental in securing the ongoing quality of many osu!catch beatmaps, and his valuable insight and contribution towards osu!catch-specific Ranking Criteria discussions has been a significant boon for all. He has also since joined the Nomination Assessment Team to continue his efforts in their domain.
+His outstanding ambition for checking qualified mapsets has been instrumental in securing the ongoing quality of many osu!catch beatmaps, and his valuable insight and contribution towards osu!catch-specific Ranking Criteria discussions has been a significant boon for all. He has also since joined the Nomination Assessment Team to continue his efforts in their domain.
 
 [![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/Nokashi.jpg)](https://osu.ppy.sh/users/5431196)
 
@@ -108,7 +108,7 @@ Splitting his attention between numerous other projects in the scene, guden is e
 
 [![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/stan.jpg)](https://osu.ppy.sh/users/1653229)
 
-A dedicated Beatmap Nominator since 2018, [**\_Stan**](https://osu.ppy.sh/users/1653229) has had a noted passion for pushing new beatmaps into the 7K scene, ranging from pleasantly simple to some of the hardest beatmaps ever seen to date. 2021 was a continuation of this long-standing tradition for him, powering through nearly thirty nominations with some extremely thorough and detailed modding that have showcased not only his dedication towards improving 7K overall, but his experience with the mode as a whole.
+A dedicated Beatmap Nominator since 2018, [**\_Stan**](https://osu.ppy.sh/users/1653229) has had a noted passion for pushing new beatmaps into the 7K scene, ranging from pleasantly simple to some of the hardest beatmaps seen to date. 2021 was a continuation of this long-standing tradition for him, powering through nearly thirty nominations with some extremely thorough and detailed modding that have showcased not only his dedication towards improving 7K overall, but his experience with the mode as a whole.
 
 Without a doubt, \_Stan is a major force in the 7K scene, and things would be very different without him!
 
