@@ -39,8 +39,8 @@ Das erste osu! Community Meeting fand am 19. September 2021 statt. Alle Treffen 
 | 8 | [9. Januar 2022](https://youtu.be/JXgQ6YEDCGg) | [Sitzungsnotizen](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | HP-Mechanik (Gesundheitsverlust), verschiedene Fragen aus der Community |
 | 9 | [22. Januar 2022](https://youtu.be/Prx0XzHl6-M) | [Sitzungsnotizen](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Diverse Fragen aus der Community, Entwicklungs-Update |
 | 10 | [6. Februar 2022](https://youtu.be/xA4nbE8DM4s) | [Sitzungsnotizen](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Diverse Fragen aus der Community |
-| 11 | [20. Februar 2022](https://youtu.be/d66pU5lsHvE) | [Zusammenfassender Neswbeitrag](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) | Mod-Multiplikatoren und Score |
-| 12 | [6. März 2022](https://youtu.be/HimCHAnPCCY) | [Zusammenfassender Neswbeitrag](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) | Ranglisten, Cross-Kompatibilität und Vorbereitung auf die Veröffentlichung von osu!(lazer) |
+| 11 | [20. Februar 2022](https://youtu.be/d66pU5lsHvE) | [Zusammenfassender Newsbeitrag](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) | Mod-Multiplikatoren und Score |
+| 12 | [6. März 2022](https://youtu.be/HimCHAnPCCY) | [Zusammenfassender Newsbeitrag](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) | Ranglisten, Cross-Kompatibilität und Vorbereitung auf die Veröffentlichung von osu!(lazer) |
 | 13 | [20. März 2022](https://youtu.be/2Cp9rm0rNPQ) | [Sitzungsnotizen](https://yui.tv/osu-community-meetings/2022-03-20) | Entwicklungs-Update, diverse Fragen aus der Community |
 
 ## Weiterführende Links
