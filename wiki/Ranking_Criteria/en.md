@@ -191,9 +191,12 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Rules
 
-- **A beatmap's audio file must use the `.mp3` or `.ogg` file format and have an average bit rate no greater than 192kbps.**
+- **The audio file of a beatmap must...**
+  - **...use the `.mp3` or `.ogg` file format.**
+  - **...have an average bit rate no greater than 192 kbps.**
+  - **...have an average bit rate no lower than 128 kbps**, if such a source exists. Otherwise, use the highest quality available.
+  - **...not be encoded upwards from a lower bitrate.**
 - **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
-- **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalised to their original release volumes and should not be encoded to a bit rate higher than their original files.
 - **Beatmaps must be [hitsounded](/wiki/Beatmapping/Hitsound).** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.
   - **osu!mania beatmaps do not require hitsound additions.** This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to add hitsounds to improve the feel of your beatmaps.
 - **All clicked parts of objects must have at least one hitsound which both...**
@@ -208,6 +211,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Guidelines
 
+- **The audio file and hitsound files of a beatmap should not feature any audible and unwarranted sound distortions**, like clipping, muffling, or crackling that is clearly not intended by the artist or part of the song's identity. This is best determined by listening to the audio, rather than using software on its own.
 - **The audio file of a song should not be artificially extended in order to meet a time limitation in the beatmap section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the [BPM](/wiki/Beatmapping/Beats_per_minute) of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to [song compilations](/wiki/Beatmapping/Song_compilation) or audio files less than the minimum rankable beatmap length.
 - **If you do not beatmap the last 20% of your beatmap's audio file, it should be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video, or if more than 20% of the song's audio is not able to be mapped due to fade-out or timing issues.
 - **[Song compilations](/wiki/Beatmapping/Song_compilation) should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lacklustre experience for players, and should be broken up into separate beatmaps. Exceptions can be made for songs that were exclusively released together.
