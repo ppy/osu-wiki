@@ -11,7 +11,7 @@ outdated: true
 | Date, Heure | Description |
 | :-- | :-- |
 | 05/12/2011 T08:13Z | Première modification d'osu! wiki par Ephemeral. |
-| 06/12/2011 | [osu! wiki est maintenant en ligne !](https://osu.ppy.sh/community/forums/topics/68525). |
+| 06/12/2011 | [osu! wiki est maintenant en ligne !](https://osu.ppy.sh/community/forums/topics/68525) |
 | 11/2012 | osu! wiki a maintenant 3 administrateurs (Dellirium, Repflez). Précédemment, peppy était le seul admin. |
 | 27/01/2013 T06:12Z | peppy a intégré l'osu! wiki dans le design du site principal. [Lien vers le post de peppy](https://osu.ppy.sh/community/forums/topics/68479/start=124). |
 | 2014 | L'osu! wiki est devenu la source d'information principale d'osu!, remplaçant la plupart des copies web, telles que [L'équipe](/wiki/People/The_Team) ainsi que les [Règles](/wiki/Rules). Par ailleurs, l'osu! wiki possède maintenant 5 administrateurs (Loctav, deadbeat). |
@@ -31,6 +31,6 @@ outdated: true
 | 05/01/2017 | [Le projet osu! wiki suggéré par Ephemeralis](https://github.com/ppy/osu-wiki/projects/1). |
 | 26/01/2017 | L'osu! wiki a été mentionné dans le blog de ppy. |
 | 22/05/2017 | [Les archives osu!news sont maintenant stockées sur l'osu! wiki (sous format texte uniquement)](https://github.com/ppy/osu-wiki/pull/252). |
-| 30/05/2017 | [La redirection de page est finalement implémentée dans l'osu! wiki](https://github.com/ppy/osu-web/pull/1144) |
+| 30/05/2017 | [La redirection de page est finalement implémentée dans l'osu! wiki.](https://github.com/ppy/osu-web/pull/1144) |
 | 06/2017 | TPGPL est promu avec des accès en écriture sur le repository osu-wiki. La fonction de recherche pour l'osu! wiki est implémentée. |
 | 04/02/2018 | [Le support de mots clés d'articles a été implémenté](https://github.com/ppy/osu-web/pull/2331) pour permettre de meilleurs résultats de recherche pour les articles de wiki. |
