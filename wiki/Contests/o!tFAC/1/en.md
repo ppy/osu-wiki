@@ -52,7 +52,7 @@ The osu!taiko Featured Artist Cup #1 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1520800)
 - [Discord server](https://discord.gg/jMsVqwPVrD)
 - [Results sheet](https://docs.google.com/spreadsheets/d/1v8B409syFzzAfgoxXKx6ptitrtNPYDa09Avkt8PeXLI/edit?usp=sharing)
-- [Results stream VOD](https://www.twitch.tv/videos/1434459833)
+- [Results announcement VOD](https://www.twitch.tv/videos/1434459833)
 
 ## Podium
 
@@ -83,8 +83,8 @@ This competition has come to an end and resulted in the following podium:
 - **Creativity (10 Points):** Points will be assigned based on how the submission uses creative and fitting elements to make itself stand out.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
