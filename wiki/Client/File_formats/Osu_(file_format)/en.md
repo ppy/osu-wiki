@@ -4,48 +4,75 @@
 
 ## Structure
 
-The first line of the file specifies the file format version. For example, `osu file format v14` is the latest version.
+The first line of the file specifies the file format version. The latest version is `osu file format v14`.
 
 The following content is separated into sections, indicated by section titles in square brackets.
 
-| Section | Description | Content type |
+| Section | Value type | Description |
 | :-- | :-- | :-- |
-| `[General]` | General information about the beatmap | `key: value` pairs |
-| `[Editor]` | Saved settings for the beatmap editor | `key: value` pairs |
-| `[Metadata]` | [Information](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) used to identify the beatmap | `key:value` pairs |
-| `[Difficulty]` | [Difficulty settings](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) | `key:value` pairs |
-| `[Events]` | Beatmap and storyboard graphic events | Comma-separated lists |
-| `[TimingPoints]` | Timing and control points | Comma-separated lists |
-| `[Colours]` | Combo and skin colours | `key : value` pairs |
-| `[HitObjects]` | Hit objects | Comma-separated lists |
+| `[General]` | `key: value` pairs | General information about the beatmap |
+| `[Editor]` | `key: value` pairs | Saved settings for the beatmap editor |
+| `[Metadata]` | `key:value` pairs | [Metadata](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-meta-data) used to identify the beatmap |
+| `[Difficulty]` | `key:value` pairs | [Difficulty](/wiki/Client/Beatmap_editor/Song_Setup#difficulty.1) settings |
+| `[Events]` | Comma-separated lists | Beatmap and [storyboard](/wiki/Storyboard) graphic events |
+| `[TimingPoints]` | Comma-separated lists | [Timing](/wiki/Beatmapping/Beats_per_minute#timing-points) and [hitsounds](/wiki/Beatmapping/Hitsound) |
+| `[Colours]` | `key : value` pairs | [Colour of notes and combos](/wiki/Glossary/Combo_colour) |
+| `[HitObjects]` | Comma-separated lists | [Hit objects](/wiki/Hit_object) |
 
-## General
+## \[General\]
 
 <!-- TODO: this is missing some functional options that are leftover from very old file formats -->
 
 | Option | Value type | Description | Default value |
 | :-- | :-- | :-- | :-- |
 | `AudioFilename` | String | Location of the audio file relative to the current folder |  |
-| `AudioLeadIn` | Integer | Milliseconds of silence before the audio starts playing | 0 |
+| `AudioLeadIn` | Integer | Milliseconds of silence before the audio starts playing | `0` |
 | `AudioHash` | String | *Deprecated* |  |
-| `PreviewTime` | Integer | Time in milliseconds when the audio preview should start | -1 |
-| `Countdown` | Integer | Speed of the countdown before the first hit object (`0` = no countdown, `1` = normal, `2` = half, `3` = double) | 1 |
-| `SampleSet` | String | Sample set that will be used if timing points do not override it (`Normal`, `Soft`, `Drum`) | Normal |
-| `StackLeniency` | Decimal | Multiplier for the threshold in time where hit objects placed close together stack (0–1) | 0.7 |
-| `Mode` | Integer | Game mode (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
-| `LetterboxInBreaks` | 0 or 1 | Whether or not breaks have a letterboxing effect | 0 |
-| `StoryFireInFront` | 0 or 1 | *Deprecated* | 1 |
-| `UseSkinSprites` | 0 or 1 | Whether or not the storyboard can use the user's skin images | 0 |
-| `AlwaysShowPlayfield` | 0 or 1 | *Deprecated* | 0 |
-| `OverlayPosition` | String | Draw order of hit circle overlays compared to hit numbers (`NoChange` = use skin setting, `Below` = draw overlays under numbers, `Above` = draw overlays on top of numbers) | NoChange |
+| `PreviewTime` | Integer | Time in milliseconds when the audio preview should start on the [song selection screen](/wiki/Client/Interface#song-select) | `-1` |
+| `Countdown` | Integer | Speed of the [countdown](/wiki/Beatmapping/Countdown) before the first hit object | `1` |
+| `SampleSet` | String | Sample set that will be used if timing points do not override it | `Normal` |
+| `StackLeniency` | Decimal | Multiplier for the threshold in time where hit objects placed close together [stack](/wiki/Mapping_techniques/Stack) (0–1) | `0.7` |
+| `Mode` | Integer | Game mode | `0` |
+| `LetterboxInBreaks` | 0 or 1 | Whether or not breaks have a letterboxing effect | `0` |
+| `StoryFireInFront` | 0 or 1 | *Deprecated* | `1` |
+| `UseSkinSprites` | 0 or 1 | Whether or not the storyboard can use the user's skin images | `0` |
+| `AlwaysShowPlayfield` | 0 or 1 | *Deprecated* | `0` |
+| `OverlayPosition` | String | Draw order of hit circle overlays compared to [hit numbers](/wiki/Skinning/Interface#countdown) | `NoChange` |
 | `SkinPreference` | String | Preferred skin to use during gameplay |  |
-| `EpilepsyWarning` | 0 or 1 | Whether or not a warning about flashing colours should be shown at the beginning of the map | 0 |
-| `CountdownOffset` | Integer | Time in beats that the countdown starts before the first hit object | 0 |
-| `SpecialStyle` | 0 or 1 | Whether or not the "N+1" style key layout is used for osu!mania | 0 |
-| `WidescreenStoryboard` | 0 or 1 | Whether or not the storyboard allows widescreen viewing | 0 |
-| `SamplesMatchPlaybackRate` | 0 or 1 | Whether or not sound samples will change rate when playing with speed-changing mods | 0 |
+| `EpilepsyWarning` | 0 or 1 | Whether or not a warning about flashing colours should be shown at the beginning of the map | `0` |
+| `CountdownOffset` | Integer | Speed of the countdown in [beats](/wiki/Beat) before the first hit object | `0` |
+| `SpecialStyle` | 0 or 1 | Whether or not the "N+1" style key layout is used for osu!mania | `0` |
+| `WidescreenStoryboard` | 0 or 1 | Whether or not the storyboard allows widescreen viewing | `0` |
+| `SamplesMatchPlaybackRate` | 0 or 1 | Whether or not sound samples will change rate when playing with speed-changing [mods](/wiki/Game_modifier) | `0` |
 
-## Editor
+### Notice
+`Countdown`
+> Possible values:
+> - `0` - no countdown
+> - `1` - normal
+> - `2` - half
+> - `3` - double
+
+`SampleSet`
+> Possible values:
+> - `Normal`
+> - `Soft`
+> - `Drum`
+
+`Mode`
+> Possible values:
+> - `0` - osu!
+> - `1` - osu!taiko
+> - `2` - osu!catch
+> - `3` - osu!mania
+
+`OverlayPosition`
+> Possible values:
+> - `NoChange` - use skin setting
+> - `Below` - draw overlays under numbers
+> - `Above` - draw overlays on top of numbers
+
+## \[Editor\]
 
 These options are only relevant when opening maps in the [beatmap editor](/wiki/Client/Beatmap_editor). They do not affect gameplay.
 
@@ -53,287 +80,451 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 | :-- | :-- | :-- |
 | `Bookmarks` | Comma-separated list of integers | Time in milliseconds of [bookmarks](/wiki/Client/Beatmap_editor/Compose#bottom-(song's-timeline)) |
 | `DistanceSpacing` | Decimal | [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) multiplier |
-| `BeatDivisor` | Decimal | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
-| `GridSize` | Integer | [Grid size](/wiki/Grid_snapping) |
-| `TimelineZoom` | Decimal | Scale factor for the [object timeline](/wiki/Client/Beatmap_editor/Compose#top-left-(hit-objects-timeline)) |
+| `BeatDivisor` | Decimal | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) value |
+| `GridSize` | Integer | Grid size for [Grid snap](/wiki/Grid_snapping) |
+| `TimelineZoom` | Decimal | Scale factor for the [object timeline](/wiki/Client/Beatmap_editor/Timelines) |
 
-## Metadata
+## \[Metadata\]
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `Title` | String | Romanised song title |
-| `TitleUnicode` | String | Song title |
-| `Artist` | String | Romanised song artist |
-| `ArtistUnicode` | String | Song artist |
+| `Title` | String | Romanised song title (ASCII only) |
+| `TitleUnicode` | String | Song title. If missing, `Title` is used |
+| `Artist` | String | Romanised song artist (ASCII only) |
+| `ArtistUnicode` | String | Song artist. If missing, `Artist` is used |
 | `Creator` | String | Beatmap creator |
 | `Version` | String | Difficulty name |
 | `Source` | String | Original media the song was produced for |
-| `Tags` | Space-separated list of strings | Search terms |
+| `Tags` | Space-separated list of strings | [Search terms](/wiki/BBCode#tags), describing the song and helping with the search |
 | `BeatmapID` | Integer | Difficulty ID |
 | `BeatmapSetID` | Integer | Beatmap ID |
 
-## Difficulty
+## \[Difficulty\]
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
-| `HPDrainRate` | Decimal | HP setting (0–10) |
-| `CircleSize` | Decimal | CS setting (0–10) |
-| `OverallDifficulty` | Decimal | OD setting (0–10) |
-| `ApproachRate` | Decimal | AR setting (0–10) |
-| `SliderMultiplier` | Decimal | Base slider velocity in hundreds of [osu! pixels](/wiki/osupixel) per beat |
-| `SliderTickRate` | Decimal | Amount of slider ticks per beat |
+| `HPDrainRate` | Decimal | [HP](/wiki/Beatmapping/HP_drain_rate) setting (0–10) |
+| `CircleSize` | Decimal | [CS](/wiki/Beatmapping/Circle_size) setting (0–10) |
+| `OverallDifficulty` | Decimal | [OD](/wiki/Beatmapping/Overall_difficulty) setting (0–10) |
+| `ApproachRate` | Decimal | [AR](/wiki/Beatmapping/Approach_rate) setting (0–10) |
+| `SliderMultiplier` | Decimal | Base [slider](/wiki/Hit_object/Slider) velocity in hundreds of [osu! pixels](/wiki/osupixel) per beat |
+| `SliderTickRate` | Decimal | Amount of [slider ticks](/wiki/Beatmapping/Slider_tick) per beat |
 
-## Events
+## \[Events\]
 
-*Event syntax:* `eventType,startTime,eventParams`
+### General syntax
+`event_type,start_time,event_params`
 
-- **`eventType` (String or Integer):** Type of the event. Some events may be referred to by either a name or a number.
-- **`startTime` (Integer):** Start time of the event, in milliseconds from the beginning of the beatmap's audio. For events that do not use a start time, the default is `0`.
-- **`eventParams` (Comma-separated list):** Extra parameters specific to the event's type.
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `event_type` | String or Integer | Type of the event |
+| `start_time` | Integer | Time in milliseconds when the event should start |
+| `event_params` | Comma-separated list | Extra parameters specific to the event type |
 
-### Backgrounds
+### Notice
+`event_type`
+> Some events may be referred to by either a name or a number.
 
-*Background syntax:* `0,0,filename,xOffset,yOffset`
+`start_time`
+> For events that do not use this parameter, the default value is `0`.
 
-- **`filename` (String):** Location of the background image relative to the beatmap directory. Double quotes are usually included surrounding the filename, but they are not required.
-- **`xOffset` (Integer)** and **`yOffset` (Integer):** Offset in [osu! pixels](/wiki/osupixel) from the centre of the screen. For example, an offset of `50,100` would have the background shown 50 osu! pixels to the right and 100 osu! pixels down from the centre of the screen. If the offset is `0,0`, writing it is optional.
+### Background image
 
-### Videos
+#### Parameters
+`event_type,start_time,filename,x_offset,y_offset`
 
-*Video syntax:* `Video,startTime,filename,xOffset,yOffset`
+| Option | Value type | Description | Value |
+| :-- | :-- | :-- | :-- |
+| `event_type` | String or Integer | Type of event | `0` constant |
+| `start_time` | Integer | Time in milliseconds when the background image should start | `0` |
+| `filename` | String | Location of the background image relative to the beatmap directory | `bg.jpg` |
+| `x_offset` | Integer | X-axis offset by the specified number of pixels from the center of the screen | `50` |
+| `y_offset` | Integer | Y-axis offset by the specified number of pixels from the center of the screen | `100` |
 
-`Video` may be replaced by `1`.
+#### Examples
+`0,0,folder/bg.jpg`
 
-- **`filename` (String)**, **`xOffset` (Integer)**, and **`yOffset` (Integer)** behave exactly as in backgrounds.
+`0,0,"super_bg.jpg",50,100`
 
-### Breaks
+#### Notice
+`start_time`
+> Not used.
 
-*Break syntax:* `2,startTime,endTime`
+`filename`
+> Double quotes are usually included surrounding the filename, but they are not required.
 
-`2` may be replaced by `Break`.
+`x_offset`, `y_offset`
+> Offset in pixels from the centre of the screen. For example, an offset of `50,100` would have the background image shown 50 osu! pixels to the right and 100 osu! pixels down from the centre of the screen. If the offset is `0,0`, writing it is optional.
 
-- **`endTime` (Integer):** End time of the break, in milliseconds from the beginning of the beatmap's audio.
+### Video
+
+#### Parameters
+`event_type,start_time,filename,x_offset,y_offset`
+
+| Option | Value type | Description | Value |
+| :-- | :-- | :-- | :-- |
+| `event_type` | String or Integer | Type of event | `1` or `Video` constant |
+| `start_time` | Integer | Time in milliseconds when the video should start | `0` |
+| `filename` | String | Location of the video relative to the beatmap directory | `video.mp4` |
+| `x_offset` | Integer | X-axis offset by the specified number of pixels from the center of the screen | `50` |
+| `y_offset` | Integer | Y-axis offset by the specified number of pixels from the center of the screen | `100` |
+
+#### Examples
+`1,0,folder/video.mp4`
+
+`Video,0,"super_video.mp4",50,100`
+
+#### Notice
+`start_time`
+> Not used.
+
+`filename`
+> Double quotes are usually included surrounding the filename, but they are not required.
+
+`x_offset`, `y_offset`
+> Offset in pixels from the centre of the screen. For example, an offset of `50,100` would have the video shown 50 osu! pixels to the right and 100 osu! pixels down from the centre of the screen. If the offset is `0,0`, writing it is optional.
+
+### Break
+
+#### Parameters
+`event_type,start_time,end_time`
+
+| Option | Value type | Description | Value |
+| :-- | :-- | :-- | :-- |
+| `event_type` | String or Integer | Type of event | `2` or `Break` constant |
+| `start_time` | Integer | Time in milliseconds when the break should start | `750` |
+| `end_time` | Integer | Time in milliseconds when the break should end | `2250` |
+
+#### Examples
+`2,1000,2500`
+
+`Break,750,2250`
+
+#### Notice
+`start_time`
+> `start_time` must not exceed `end_time`.
 
 ### Storyboards
 
 *For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard/Scripting).*
 
-Storyboards can be defined in a separate optional storyboard file with the `.osb` extension. External storyboards are shared between all difficulties in a beatmap.
+Storyboards can be defined in a separate optional storyboard file with the [`.osb`](/wiki/Client/File_formats/Osb_%28file_format%29) extension. External storyboards are shared between all difficulties in a beatmap.
 
 Each beatmap may contain its own difficulty-specific storyboard, either in conjunction with the external storyboard or by itself.
 
-## Timing points
+## \[TimingPoints\]
 
 Each timing point influences a specified portion of the map, commonly called a "timing section". The `.osu` file format requires these to be sorted in chronological order.
 
-*Timing point syntax:* `time,beatLength,meter,sampleSet,sampleIndex,volume,uninherited,effects`
+### Parameters
+`start_time,beat_length,meter,sample_set,sample_index,volume,uninherited,effects`
 
-- **`time` (Integer):** Start time of the timing section, in milliseconds from the beginning of the beatmap's audio. The end of the timing section is the next timing point's time (or never, if this is the last timing point).
-- **`beatLength` (Decimal):** This property has two meanings:
-  - For uninherited timing points, the duration of a beat, in milliseconds.
-  - For inherited timing points, a negative inverse slider velocity multiplier, as a percentage. For example, `-50` would make all sliders in this timing section twice as fast as `SliderMultiplier`.
-- **`meter` (Integer):** Amount of beats in a measure. Inherited timing points ignore this property.
-- **`sampleSet` (Integer):** Default sample set for hit objects (0 = beatmap default, 1 = normal, 2 = soft, 3 = drum).
-- **`sampleIndex` (Integer):** Custom sample index for hit objects. `0` indicates osu!'s default hitsounds.
-- **`volume` (Integer):** Volume percentage for hit objects.
-- **`uninherited` (0 or 1):** Whether or not the timing point is uninherited.
-- **`effects` (Integer):** Bit flags that give the timing point extra effects. See [the effects section](#effects).
-
-### Effects
-
-Timing points have two extra effects that can be toggled using bits 0 and 3 (from least to most significant) in the `effects` integer:
-
-- 0: Whether or not [kiai time](/wiki/Gameplay/Kiai_time) is enabled
-- 3: Whether or not the first barline is omitted in osu!taiko and osu!mania
-
-The rest of the bits are unused.
+| Option | Value type | Description | Value |
+| :-- | :-- | :-- | :-- |
+| `start_time` | Integer | Time in milliseconds when the timing section should start | `12000` |
+| `beat_length` | Decimal | Time in milliseconds of the beat duration | `250` |
+| `meter` | Integer | Amount of beats in a measure | `4` |
+| `sample_set` | Integer | Default sample set for hit objects | `3` |
+| `sample_index` | Integer | Custom sample index for hit objects | `0` |
+| `volume` | Integer | Volume percentage for hit objects | `70` |
+| `uninherited` | 0 or 1 | Whether or not the timing point is uninherited | `0` |
+| `effects` | Integer | Bit flags that give the timing point extra effects | `1` |
 
 ### Examples
+`10000,333.33,4,0,0,100,1,1`
 
-```
-10000,333.33,4,0,0,100,1,1
-12000,-25,4,3,0,100,0,1
-```
+`12000,250,4,3,0,70,0,1`
 
-The first timing point at 10 seconds is uninherited, and sets:
+### Notice
+`start_time`
+> The end of the timing section is the next timing point's time or never, if this is the last timing point.
 
-- BPM to 180 (`1 / 333.33 * 1000 * 60`)
-- Time signature to 4/4
-- Sample set to the beatmap default
-- Sample index to osu!'s default hitsounds
-- Volume to 100%
-- Kiai time
+`beat_length`
+> For inherited points, it is the inverse multiplier of the slider speed as a percentage. For example, `-50` will make all sliders in this time section double as fast as `SliderMultiplier`. In example 1, `333.33` means `1 / 333.33 * 1000 * 60 = 180` BPM.
 
-The second timing point at 12 seconds is inherited, changing the slider velocity to 4x and the sample set to drum.
+`meter`
+> Inherited timing points ignore this property.
 
-## Colours
+`sample_set`
+> Possible values:
+> - `0` - Default
+> - `1` - Normal
+> - `2` - Soft
+> - `3` - Drum
+
+`sample_index`
+> `0` indicates osu!'s default hitsounds.
+
+`uninherited`
+> The first timing point is uninherited.
+
+`effects`
+> Possible values:
+> - `0` - Whether or not kiai time is enabled
+> - `3` - Whether or not the first barline is omitted in osu!taiko and osu!mania
+>  
+> The rest of the bits are unused.
+
+## \[Colours\]
 
 All options in this section represent colours. They are comma-separated triplets of integers 0–255, representing the red, green, and blue components of the colours.
 
-| Option | Description |
-| :-- | :-- |
-| `Combo#`, where `#` is an integer | Additive combo colours |
-| `SliderTrackOverride` | Additive slider track colour |
-| `SliderBorder` | Slider border colour |
+### General syntax
+`colour_type : colour`
 
-## Hit objects
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `colour_type` | String | Type of colour |
+| `colour` | Comma-separated triplets of integers | Colour from the RGB palette |
 
-*Hit object syntax:* `x,y,time,type,hitSound,objectParams,hitSample`
+### Notice
+`colour`
+> Each integer from `colour` must be in the range (0-255).
 
-- **`x` (Integer)** and **`y` (Integer):** Position in [osu! pixels](/wiki/osupixel) of the object.
-- **`time` (Integer):** Time when the object is to be hit, in milliseconds from the beginning of the beatmap's audio.
-- **`type` (Integer):** Bit flags indicating the type of the object. See [the type section](#type).
-- **`hitSound` (Integer):** Bit flags indicating the hitsound applied to the object. See [the hitsounds section](#hitsounds).
-- **`objectParams` (Comma-separated list):** Extra parameters specific to the object's type.
-- **`hitSample` (Colon-separated list):** Information about which samples are played when the object is hit. It is closely related to `hitSound`; see [the hitsounds section](#hitsounds). If it is not written, it defaults to `0:0:0:0:`.
+### Combo colour
 
-### Type
+#### Parameters
+`Combo# : colour`
 
-Hit object types are stored in an 8-bit integer where each bit is a flag with special meaning. The base hit object type is given by bits 0, 1, 3, and 7 (from least to most significant):
+| Option | Value type | Description | Value |
+| :-- | :-- | :-- | :-- |
+| `Combo#`, where `#` is an integer | String | Additive combo colours | `Combo2` |
+| `colour` | Comma-separated triplets of integers | Colour from the RGB palette | `64,128,128` |
 
-- 0: Hit circle
-- 1: Slider
-- 3: Spinner
-- 7: osu!mania hold
+#### Examples
+`Combo1 : 255,255,255`
 
-The remaining bits are used for distinguishing new combos and optionally skipping combo colours (commonly called "colour hax"):
+`Combo2 : 64,128,128`
 
-- 2: New combo
-- 4–6: A 3-bit integer specifying how many combo colours to skip, if this object starts a new combo.
+### Slider body colour
 
-### Hitsounds
+#### Parameters
+`SliderTrackOverride : colour`
 
-The `hitSound` bit flags determine which sounds will play when the object is hit:
+| Option | Value type | Description | Value |
+| :-- | :-- | :-- | :-- |
+| `colour` | Comma-separated triplets of integers | Colour from the RGB palette | `64,128,128` |
 
-- 0: Normal
-- 1: Whistle
-- 2: Finish
-- 3: Clap
+#### Examples
+`SliderTrackOverride : 255,255,255`
 
-If no bits are set, the normal hitsound is used by default.
+`SliderTrackOverride : 64,128,128`
 
-In every mode except osu!mania, the `LayeredHitSounds` skin property forces the normal sound to be included regardless of bit 0's setting. It is enabled by default.
+### Slider border colour
 
-#### Custom hit samples
+#### Parameters
+`SliderBorder : colour`
 
-Usage of `hitSample` can further customise the sounds that play. It defaults to `0:0:0:0:` if it is not written.
+| Option | Value type | Description | Value |
+| :-- | :-- | :-- | :-- |
+| `colour` | Comma-separated triplets of integers | Colour from the RGB palette | `64,128,128` |
 
-*Hit sample syntax:* `normalSet:additionSet:index:volume:filename`
+#### Examples
+`SliderBorder : 255,255,255`
 
-- **`normalSet` (Integer):** Sample set of the normal sound.
-- **`additionSet` (Integer):** Sample set of the whistle, finish, and clap sounds.
-- **`index` (Integer):** Index of the sample. If this is `0`, the timing point's sample index will be used instead.
-- **`volume` (Integer):** Volume of the sample from 1 to 100. If this is `0`, the timing point's volume will be used instead.
-- **`filename` (String):** Custom filename of the addition sound.
+`SliderBorder : 64,128,128`
 
-`normalSet` and `additionSet` can be any of the following:
+## \[HitObjects\]
 
-- `0`: No custom sample set
-  - For normal sounds, the set is determined by the timing point's sample set.
-  - For additions, the set is determined by the normal sound's sample set.
-- `1`: Normal set
-- `2`: Soft set
-- `3`: Drum set
+### General syntax
+`x,y,start_time,object_type,hit_sound,object_params,hit_sample`
 
-All of these options (besides volume) are used to determine which sound file to play for a given hitsound. The filename is `<sampleSet>-hit<hitSound><index>.wav`, where:
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `x` | Integer | The location of the object on the X axis in pixels |
+| `y` | Integer | The location of the object on the Y axis in pixels |
+| `start_time` | Integer | Time in milliseconds when the hit object is to be hit |
+| `object_type` | Integer | Bit flags indicating the type of the object |
+| `hit_sound` | Integer | Bit flags indicating the hitsound applied to the object |
+| `object_params` | Comma-separated list | Extra parameters specific to the object's type |
+| `hit_sample` | Colon-separated list | Information about which samples are played when the object is hit |
 
-- `sampleSet` is `normal`, `soft`, or `drum`, determined by either `normalSet` or `additionSet` depending on which hitsound is playing
-- `hitSound` is `normal`, `whistle`, `finish`, or `clap`
-- `index` is the same `index` as above, except it is not written if the value is `0` or `1`
+### Notice
+`object_type`
+> Hit object types are stored in an 8-bit integer where each bit is a flag with special meaning. The base hit object type is given by bits:
+> - `0` - Hit circle
+> - `1` - Slider
+> - `3` - Spinner
+> - `7` - osu!mania hold
+>  
+> The remaining bits are used for distinguishing new combos and optionally skipping combo colours (commonly called "colour hax"):
+> - `2` - New combo
+> - `4, 5, 6` - A 3-bit integer specifying how many combo colours to skip, if this object starts a new combo
+>  
+> For example, the number `01000110` means `Slider` + `New combo ` + `Skip 3 colors combo`. We have to specify a decimal number `01000110` -> `70` in the option.
 
-The sound file is loaded from the first of the following directories that contains a matching filename:
+`hit_sound`
+> Hit object types are stored in an 8-bit integer where each bit is a flag with special meaning. The field indicates the sound to be played when hitting the object:
+> - `0` - Normal
+> - `1` - Whistle
+> - `2` - Finish
+> - `3` - Clap
+>  
+> Default value is `0`
+>  
+> In every mode except osu!mania, the `LayeredHitSounds` skin property forces the normal sound to be included regardless of bit 0's setting. It is enabled by default.
 
-- Beatmap, if `index` is not `0`
-- Skin, with the `index` removed
-- Default osu! resources, with the `index` removed
+`hit_sample`
+> Using this field, you can additionally adjust the sounds being played. `0:0:0:0:` is used by default, if not specified. Closely related to `hit_sound`
+>  
+> General syntax  
+> `normal_set:addition_set:index:volume:filename`
+> | Option | Value type | Description |
+> | :-- | :-- | :-- |
+> | `normal_set` | Integer | Sample set of the normal sound |
+> | `addition_set` | Integer | Sample set of the `Whistle`, `Finish` и `Clap` |
+> | `index` | Integer | Index of the sample. If this is `0`, the timing point's sample index will be used instead. |
+> | `volume` | Integer | Volume of the sample. If this is `0`, the timing point's sample index will be used instead (0-100) |
+> | `filename` | String | Location of the addition sound relative to the beatmap directory |
+>  
+> `normal_set` and `addition_set` can be any of the following:
+> - `0` - No custom sample set.
+>   - For normal sounds, the set is determined by the timing point's sample set.
+>   - For additions, the set is determined by the normal sound's sample set.
+> - `1` - Normal
+> - `2` - Soft
+> - `3` - Drum
+>  
+> All of these options (besides volume) are used to determine which sound file to play for a given hitsound. The filename is `<sampleSet>-hit<hitSound><index>.wav`, where:
+> - `sample_set` is `Normal`, `Soft` or `Drum`, determined by either `normal_set` or `addition_set` depending on which hitsound is playing
+> - `hit_sound` is `Normal`, `Whistle`, `Finish` or `Clap`
+> - `index` is the same `index` as above, except it is not written if the value is `0` or `1`
+>  
+> The sound file is loaded from the first of the following directories that contains a matching filename:
+> - Beatmap, if `index` is not `0`
+> - Skin, with the `index` removed
+> - Default osu! resources, with the `index` removed
 
-When `filename` is given, no addition sounds will be played, and this file in the beatmap directory is played instead.
+`filename`
+> Double quotes are usually included surrounding the filename, but they are not required.  
+> When `filename` is given, no addition sounds will be played, and this file in the beatmap directory is played instead.
 
-### Hit circles
+### Hit circle
 
-Hit circles do not have additional `objectParams`.
+#### Parameters
+`x,y,start_time,object_type,hit_sound,hit_sample`
 
-### Sliders
+| Option | Value type | Description | Value |
+| :-- | :-- | :-- | :-- |
+| `x` | Integer | The location of the hit circle on the X axis in pixels | `96` |
+| `y` | Integer | The location of the hit circle on the Y axis in pixels | `52` |
+| `start_time` | Integer | Time in milliseconds when the hit circle is to be hit | `1279` |
+| `object_type` | Integer | Bit flags indicating the type of object | bit `0` = `1` constant |
+| `hit_sound` | Integer | Bit flags indicating the hit sound applied to the object | `0` |
+| `hit_sample` | Colon-separated list | Information about which samples are played when the object is hit | `0:0:0:0` by default |
 
-*Slider syntax:* `x,y,time,type,hitSound,curveType|curvePoints,slides,length,edgeSounds,edgeSets,hitSample`
+#### Examples
+`104,59,35660,1,0,0:0:0:0:`
 
-- **`curveType` (Character):** Type of curve used to construct this slider (`B` = bézier, `C` = centripetal catmull-rom, `L` = linear, `P` = perfect circle)
-- **`curvePoints` (Pipe-separated list of strings):** Anchor points used to construct the slider. Each point is in the format `x:y`.
-- **`slides` (Integer):** Amount of times the player has to follow the slider's curve back-and-forth before the slider is complete. It can also be interpreted as the repeat count plus one.
-- **`length` (Decimal):** Visual length in [osu! pixels](/wiki/osupixel) of the slider.
-- **`edgeSounds` (Pipe-separated list of integers):** Hitsounds that play when hitting edges of the slider's curve. The first sound is the one that plays when the slider is first clicked, and the last sound is the one that plays when the slider's end is hit.
-- **`edgeSets` (Pipe-separated list of strings):** Sample sets used for the `edgeSounds`. Each set is in the format `normalSet:additionSet`, with the same meaning as in [the hitsounds section](#hitsounds).
+`96,52,1279,5,0,0:0:0:0:`
 
-#### Slider curves
+### Slider
 
-When constructing curves for a slider, `x` and `y` are used for the first point, and `curvePoints` supply the rest.
+#### Parameters
+`x,y,start_time,object_type,hit_sound,curve_type|curve_points,slides,length,edge_sounds,edge_sets,hit_sample`
 
-There are four types of slider curves in osu!:
+| Option | Value type | Description | Value |
+| :-- | :-- | :-- | :-- |
+| `x` | Integer | The location of the first slider point on the X axis in pixels | `96` |
+| `y` | Integer | The location of the first slider point on the Y axis in pixels | `52` |
+| `start_time` | Integer | Time in milliseconds when the slider is to be hit | `12600` |
+| `object_type` | Integer | Bit flags indicating the type of object | bit `1` = `1` constant |
+| `hit_sound` | Integer | Bit flags indicating the hit sound applied to the object | `1` |
+| `curve_type` | Character | The type of curve used to build the slider | `B` |
+| `curve_points` | Colon-separated list | Anchor points used to construct the slider. Each point is in the format `x:y` | `200:200` |
+| `slides` | Integer | Amount of times the player has to follow the slider's curve back-and-forth before the slider is complete | `1` by default |
+| `length` | Decimal | Visual length in [osu! pixels](/wiki/osupixel) | `310.123` |
+| `edge_sounds` | Colon-separated list | Hitsounds that play when hitting edges of the slider's curve | `2\|1\|2` |
+| `edge_sets` | Colon-separated list | Bit flags indicating the hit sound applied to the object in the format `normalSet:additionSet` | `0:0\|0:0\|0:2` |
+| `hit_sample` | Colon-separated list | Information about which samples are played when the object is hit | `0:0:0:0` by default |
 
-- **Bézier (B):** [Bézier curves](https://en.wikipedia.org/wiki/Bézier_curve) of arbitrary degree can be made. Multiple bézier curves can be joined into a single slider by repeating their points of intersection.
-- **Centripetal catmull-rom (C):** [Catmull curves](https://en.wikipedia.org/wiki/Centripetal_Catmull–Rom_spline) are an interpolating alternative to bézier curves. They are rarely used today due to their lack of visual appeal.
-- **Linear (L):** These curves form a straight path between all of their points.
-- **Perfect circle (P):** Perfect circle curves are limited to three points (including the hit object's position) that define the boundary of a circle. Using more than three points will result in the curve type being switched to bézier.
+#### Examples
+`23,256,2608,2,0,L|34:151,1,105.000004005432,8|2,0:0|0:0,0:0:0:0:`
 
-If the slider's `length` is longer than the defined curve, the slider will extend until it reaches the target length:
+`96,52,12600,6,1,B|200:200|250:200|250:200|300:150,2,310.123,2|1|2,0:0|0:0|0:2,0:0:0:0:`
 
-- For bézier, catmull, and linear curves, it continues in a straight line from the end of the curve.
-- For perfect circle curves, it continues the circular arc.
+#### Notice
+`curve_type`
+> There are four types of slider curves in osu!:
+> - `B` - Bézier - [Bézier curves](https://en.wikipedia.org/wiki/Bézier_curve) of arbitrary degree can be made. Multiple bézier curves can be joined into a single slider by repeating their points of intersection
+> - `C` - Centripetal catmull-rom - [Catmull curves](https://en.wikipedia.org/wiki/Centripetal_Catmull-Rom_spline) are an interpolating alternative to bézier curves. They are rarely used today due to their lack of visual appeal
+> - `L` - Linear - These curves form a straight path between all of their points
+> - `P` - Perfect circle - Perfect circle curves are limited to three points (including the hit object's position) that define the boundary of a circle. Using more than three points will result in the curve type being switched to bézier
 
-*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier*100)*beatLength` tells how many milliseconds it takes to complete one slide of the slider (assuming `beatLength` has been adjusted for inherited timing points).*
+`curve_points`
+> In the second example, the Bézier curve slider is composite. The control points of the first curve are (96,52), (200,200) and (250,200), and the control points of the second curve are (250,200) and (300,150). Duplicated control points denote the [red anchor point](/wiki/Hit_object/Slider_anchor).
 
-#### Slider hitsounds
+`slides`
+> The slider is returnable if the value is more than `1`.
 
-Apart from edge hitsounds, sliders also have an ongoing hitsound whenever the player is in range of the slider's follow circle. The sound file is looped for as long as it is active.
+`length`
+> If the slider's `length` is longer than the defined curve, the slider will extend until it reaches the target length:
+> - For bézier, catmull, and linear curves, it continues in a straight line from the end of the curve
+> - For perfect circle curves, it continues the circular arc
+>  
+> The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier*100)*beatLength` tells how many milliseconds it takes to complete one slide of the slider (assuming `beatLength` has been adjusted for inherited timing points).
 
-This hitsound uses the hit object's `hitSound` and `hitSample` properties, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-slider<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
+`edge_sounds`
+> The first sound is the one that plays when the slider is first clicked, and the last sound is the one that plays when the slider's end is hit.
+> Apart from `edge_sounds`, sliders also have an ongoing hitsound whenever the player is in range of the slider's follow circle. The sound file is looped for as long as it is active.  
+> This hitsound uses the hit object's `hitSound` and `hitSample` properties, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-slider<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
+>  
+> Besides the sounds of the beginning and the end `edge_sounds`, sliders also have an ongoing hitsound whenever the player is in range of the slider's follow circle. The sound file is looped for as long as it is active.  
+> This hitsound uses the hit object's `hit_sound` and `hit_sample`, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-slider<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
 
-### Spinners
+### Spinner
 
-*Spinner syntax:* `x,y,time,type,hitSound,endTime,hitSample`
+#### Parameters
+`x,y,start_time,object_type,hit_sound,end_time,hit_sample`
 
-- **`endTime` (Integer):** End time of the spinner, in milliseconds from the beginning of the beatmap's audio.
-- `x` and `y` do not affect spinners. They default to the centre of the playfield, `256,192`.
+| Option | Value type | Description | Value |
+| :-- | :-- | :-- | :-- |
+| `x` | Integer | The location of the spinner on the X axis in pixels | `0` not used |
+| `y` | Integer | The location of the spinner on the Y axis in pixels | `0` not used |
+| `start_time` | Integer | Time in milliseconds when the spinner should start | `1279` |
+| `object_type` | Integer | Bit flags indicating the type of object | bit `3` = `1` constant |
+| `hit_sound` | Integer | Bit flags indicating the hit sound applied to the object | `0` |
+| `end_time` | Integer | Time in milliseconds when the spinner should end | `1279` |
+| `hit_sample` | Colon-separated list | Information about which samples are played when the object is hit | `0:0:0:0` by default |
 
-### Holds (osu!mania only)
+#### Examples
+`0,0,1250,8,0,3250,0:0:0:0:`
 
-*Hold syntax:* `x,y,time,type,hitSound,endTime:hitSample`
+`0,0,2750,12,2,5000,0:0:0:0:`
 
-- **`endTime` (Integer):** End time of the hold, in milliseconds from the beginning of the beatmap's audio.
-- `x` determines the index of the column that the hold will be in. It is computed by `floor(x * columnCount / 512)` and clamped between `0` and `columnCount - 1`.
-- `y` does not affect holds. It defaults to the centre of the playfield, `192`.
+#### Notice
+`start_time`
+> `start_time` must not exceed `end_time`.
 
-### Examples
+### Hold (osu!mania)
 
-```
-256,192,11000,21,2
-256,192,11200,8,12,12000,3:0:0:80:
-100,100,12600,6,1,B|200:200|250:200|250:200|300:150,2,310.123,2|1|2,0:0|0:0|0:2,0:0:0:0:
-```
+#### Parameters
+`x,y,start_time,object_type,hit_sound,end_time:hit_sample`
 
-The first object is a hit circle:
+| Option | Value type | Description | Value |
+| :-- | :-- | :-- | :-- |
+| `x` | Integer | The index of the hold on the X axis | `0` |
+| `y` | Integer | The index of the hold on the Y axis | `192` not used |
+| `start_time` | Integer | Time in milliseconds when the hold should start | `1279` |
+| `object_type` | Integer | Bit flags indicating the type of object | bit `7` = `1` constant |
+| `hit_sound` | Integer | Bit flags indicating the hit sound applied to the object | `0` |
+| `end_time` | Integer | Time in milliseconds when the hold should end | `1279` |
+| `hit_sample` | Colon-separated list | Information about which samples are played when the object is hit | `0:0:0:0` by default |
 
-- In the centre of the screen
-- At 11 seconds
-- Starting a new combo, and skipping one extra combo colour
-- With a whistle hitsound
+#### Examples
+`64,192,5891,128,8,7396:0:0:0:0:`
 
-The second object is a spinner:
+`448,192,1279,128,2,3937:0:0:0:0:`
 
-- At 11.2 seconds
-- Ending at 12 seconds
-- With finish and clap hitsounds, playing at 80% volume
-- With the normal hitsound playing with the drum set, at 80% volume
+#### Notice
+`x`
+> Determines the index of the column that the hold will be in. It is computed by `floor(x * column_count / 512)` and clamped between `0` and `column_count - 1`.
 
-The third object is a slider:
+`y`
+> Does not affect holds. It defaults to the centre of the playfield, `192`.
 
-- At the position (100,100)
-- At 12.6 seconds
-- Starting a new combo
-- With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), and (300,150). The duplicated control points denote a [red anchor point](/wiki/Hit_object/Slider_anchor). 
-- Repeating once
-- 310.123 osu! pixels long
-- With a whistle hitsound at the beginning, and a whistle hitsound playing with the soft set at the end
+`start_time`
+> `start_time` must not exceed `end_time`.
 
 <!-- TODO: specific details about all of the other game modes (this article should provide everything necessary to parse a .osu file)
 
@@ -341,9 +532,9 @@ also there is no info about how they convert to other game modes from an osu! be
 
 ### osu!taiko
 
-osu!taiko's hit objects only use `time` to determine how they are placed on the play field, so `x` and `y` are ignored. Likewise, the only significant part of slider curves is `length`; `curveType` and `curvePoints` are only relevant when opening the map in the editor. Combo colours and new combos are ignored, and mode-specific hitsounds are used.
+osu!taiko's hit objects only use `start_time` to determine how they are placed on the play field, so `x` and `y` are ignored. Likewise, the only significant part of slider curves is `length`. `curve_type` and `curve_points` are only relevant when opening the map in the editor. Combo colours and new combos are ignored, and mode-specific hitsounds are used.
 
-- Hit circles with whistle or clap hitsounds become kats, and other hit circles become dons. Adding the finish hitsound changes these into their large variants.
+- Hit circles with `Whistle` or `Clap` become kats, and other hit circles become dons. Adding the finish hitsound changes these into their large variants.
 - Sliders become drum rolls.
 - Spinners become denden notes.
 
@@ -357,7 +548,7 @@ osu!catch's play field only uses the x-axis, so `y` is not relevant. Slider curv
 
 ### osu!mania
 
-Similarly to osu!catch, osu!mania hit objects do not use `y`. `x` is used to determine the column; see the [Holds section](#holds-(osu!mania-only)).
+Similarly to osu!catch, osu!mania hit objects do not use `y`. `x` is used to determine the column. See the [Holds section](#holds-(osu!mania-only)).
 
 - Hit circles become normal notes.
 - Sliders and spinners are not used in osu!mania.
