@@ -2,9 +2,9 @@
 outdated: true
 ---
 
-# Dessins pour les tournois
+# Tournament drawings
 
-L'écran des dessins pour les tournois est utilisé pour diffuser en direct le tri des équipes en groupes qui s'affronteront lors des phases de groupes d'un tournoi. Il est uniquement disponible dans le client [osu! (lazer)](https://github.com/ppy/osu/releases).
+L'écran des tournament drawings est utilisé pour diffuser en direct le tri des équipes en groupes qui s'affronteront lors des phases de groupes d'un tournoi. Il est uniquement disponible dans le client [osu! (lazer)](https://github.com/ppy/osu/releases).
 
 Veuillez noter que le client osu! (lazer) est en cours de développement, et qu'il peut-y avoir des bugs.
 
@@ -23,31 +23,31 @@ Ensuite, ajoutez la ligne suivante au fichier `drawings.txt` :
 AU : Australia : AUS
 ```
 
-Les dessins pour les tournois, sont maintenant prêt à être prévisualisés. Il est important de comprendre comment l'écran pour les dessins de tournois fonctionne et agit avant de modifier d'avantage chacun des fichiers.  
+Les tournament drawings, sont maintenant prêt à être prévisualisés. Il est important de comprendre comment l'écran pour les tournament drawings fonctionne et agit avant de modifier d'avantage chacun des fichiers.  
 
 ### Utilisation
 
 À partir du menu principal, appuyer sur `Ctrl + Shift + D` afin d'accéder à l'écran de dessins de tournois. L'écran suivant devrait apparaître :
 ![](img/main-screen.png "Le menu de dessins de tournois")
 
-Cet écran est composé de deux sections - la partie principale se situant sur la gauche, avec la carte du monde en tant que fond d'écran, et la panneau de sélection des contrôles sur la droite? S'il vous-plaît, **évitez** de diffuser en direct ce panneau de contrôle.
+Cet écran est composé de deux sections - la partie principale se situant sur la gauche, avec la carte du monde en tant que fond d'écran, et la panneau de sélection des contrôles sur la droite. **Évitez** de diffuser en direct ce panneau de contrôle.
 
 Il y a 4 boutons sur ce panneau de contrôle, passons-les en revue :
 
-- **Commencer aléatoirement**
+- **Begin random**
   - Ceci va commencer le procédé aléatoire, faisant défiler les drapeaux de l'écran.
-- **Arrêter l'aléatoire**
+- **Stop random**
   - Ceci va arrêter le procédé aléatoire, faisant ralentir le défilement des drapeaux, jusqu'à ce que qu'il s'arrête éventuellement sur le drapeau au centre de l'écran 
-- **Recharger**
+- **Reload**
   - Ceci va recharger le fichier `drawings.txt`.
-- **Réinitialiser**
+- **Reset**
   - Ce bouton doit rarement être utilisé. Il est destructif, et va réinitialiser les résultats du procédé de dessins.
 
-Appuyez sur les boutons `Commencer aléatoirement` et `Arrêter l'aléatoire`. Lorsque le défilement s'arrête sur un drapeau au centre de l'écran, retournez dans le dossier osu! et remarquez qu'un fichier supplémentaire a été créé, appelé `drawings_results.txt`.
+Appuyez sur les boutons `Begin random` et `Stop random`. Lorsque le défilement s'arrête sur un drapeau au centre de l'écran, retournez dans le dossier osu! et remarquez qu'un fichier supplémentaire a été créé, appelé `drawings_results.txt`.
 
 Ouvrez le fichier et observez le format - c'est là que sont stockés les résultats du processus de dessin, et ils doivent être importés dans d'autres outils d'aide à la gestion de tournois, tels que Google Spreadsheets.\
 
-**S'il vous-plaît, soyez sûr d'avoir sauvegardé le fichier `drawings_results.txt` dans un endroit sûr avant d'appuyer sur le bouton de réinitialisation, autrement il sera détruit !** 
+**Soyez sûr d'avoir sauvegardé le fichier `drawings_results.txt` dans un endroit sûr avant d'appuyer sur le bouton de réinitialisation, autrement il sera détruit !** 
 
 ### Configuration
 
