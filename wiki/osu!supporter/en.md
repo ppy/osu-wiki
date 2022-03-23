@@ -61,7 +61,7 @@ Once osu!supporter expires, the cover will be replaced with a standard one.
 
 *Note: minor name changes may be requested from the account support team for free—see [Account § Can I change my account's username?](/wiki/Help_centre/Account#name-changes)*
 
-The osu!supporter bearers are granted the ability to change their username once for free, if it's their first name change ([usual conditions apply](/wiki/Help_centre/Account#name-changes)).
+Getting osu!supporter comes with the ability to change usernames for free for the first time, under [usual conditions](/wiki/Help_centre/Account#name-changes).
 
 ### osu!direct
 
@@ -83,9 +83,9 @@ Supporters have access to several beatmap-specific [leaderboards](/wiki/Beatmap#
 
 osu! offers more relaxed limits on various online features to supporters:
 
-| Quota type | Regular limit | osu!supporter limit |
+| Value | Regular limit | osu!supporter limit |
 | :-- | :-: | :-: |
-| Uploaded beatmaps | 4 + `min(ranked beatmaps, 2)` | 8 + `min(ranked beatmaps, 4)` |
+| [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending) beatmaps | `4 + min(ranked beatmaps, 2)` | `8 + min(ranked beatmaps, 4)` |
 | Online beatmap favourites | 100 | 1000 |
 | Friend count | 250 | 500 |
 
