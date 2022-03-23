@@ -1,0 +1,111 @@
+---
+outdated: true
+---
+
+# Dessins pour les tournois
+
+L'écran des dessins pour les tournois est utilisé pour diffuser en direct le tri des équipes en groupes qui s'affronteront lors des phases de groupes d'un tournoi. Il est uniquement disponible dans le client [osu! (lazer)](https://github.com/ppy/osu/releases).
+
+Veuillez noter que le client osu! (lazer) est en cours de développement, et qu'il peut-y avoir des bugs.
+
+## Accéder au client
+
+Ouvrez osu! (lazer) et appuyez sur `Ctrl + O` afin d'accéder aux paramètres de jeu. À partir de là, cliquez sur "Ouvrir le dossier osu!". Créez les deux fichiers suivants dans ce répertoire :
+
+```
+drawings.ini
+drawings.txt
+```
+
+Ensuite, ajoutez la ligne suivante au fichier `drawings.txt` :
+
+```
+AU : Australia : AUS
+```
+
+Les dessins pour les tournois, sont maintenant prêt à être prévisualisés. Il est important de comprendre comment l'écran pour les dessins de tournois fonctionne et agit avant de modifier d'avantage chacun des fichiers.  
+
+### Utilisation
+
+À partir du menu principal, appuyer sur `Ctrl + Shift + D` afin d'accéder à l'écran de dessins de tournois. L'écran suivant devrait apparaître :
+![](img/main-screen.png "Le menu de dessins de tournois")
+
+Cet écran est composé de deux sections - la partie principale se situant sur la gauche, avec la carte du monde en tant que fond d'écran, et la panneau de sélection des contrôles sur la droite? S'il vous-plaît, **évitez** de diffuser en direct ce panneau de contrôle.
+
+Il y a 4 boutons sur ce panneau de contrôle, passons-les en revue :
+
+- **Commencer aléatoirement**
+  - Ceci va commencer le procédé aléatoire, faisant défiler les drapeaux de l'écran.
+- **Arrêter l'aléatoire**
+  - Ceci va arrêter le procédé aléatoire, faisant ralentir le défilement des drapeaux, jusqu'à ce que qu'il s'arrête éventuellement sur le drapeau au centre de l'écran 
+- **Recharger**
+  - Ceci va recharger le fichier `drawings.txt`.
+- **Réinitialiser**
+  - Ce bouton doit rarement être utilisé. Il est destructif, et va réinitialiser les résultats du procédé de dessins.
+
+Appuyez sur les boutons `Commencer aléatoirement` et `Arrêter l'aléatoire`. Lorsque le défilement s'arrête sur un drapeau au centre de l'écran, retournez dans le dossier osu! et remarquez qu'un fichier supplémentaire a été créé, appelé `drawings_results.txt`.
+
+Ouvrez le fichier et observez le format - c'est là que sont stockés les résultats du processus de dessin, et ils doivent être importés dans d'autres outils d'aide à la gestion de tournois, tels que Google Spreadsheets.\
+
+**S'il vous-plaît, soyez sûr d'avoir sauvegardé le fichier `drawings_results.txt` dans un endroit sûr avant d'appuyer sur le bouton de réinitialisation, autrement il sera détruit !** 
+
+### Configuration
+
+Un tournoi ne peut pas être composé de 8 groupes, et de même chaque groupe ne peut pas être composé de 8 équipes. Le fichier `drawings.ini` est un fichier de configuration qui permet l'ajustement de certaines propriétés.
+Un fichier de configuration valide ressemble à :
+
+```
+Groups = 4
+TeamsPerGroup = 4
+```
+Les propriétés suivantes sont des propriétés configurables au travers de ce fichier :
+
+| Propriété | Description | Valeur Valide | Valeur Par Défaut |
+| :-- | :-- | :-- | :-- |
+| Groups | Le nombre de groupe dans lequel on va trier les équipes. | Entre 1 et 8 (inclusif) | 8 |
+| TeamsPerGroup | Le nombre maximum d'équipes au sein d'un même groupe. | Entre 1 et 8 (inclusif) | 8 |
+
+### Définition des équipes
+
+Le fichier `drawings.txt` fourni une méthode de spécification des équipes qui vont être triées en groupes sur des lignes séparées. Voici une ligne d'exemple :
+
+```
+AU : Australia : AUS
+```
+
+Cette ligne possède trois sections séparées par une colonne (`:`) :
+| Nom Du Drapeau | Nom Complet De L'équipe | Acronyme De L'équipe |
+| :-: | :-: | :-: |
+| AU | Australia | AUS |
+
+- Le nom du drapeau fait référence au nom du fichier qui fourni l'image du drapeau. Par défaut, osu! (lazer) fourni les drapeaux de pays en [Code Pays ISO 3166 Alpha-2](https://www.iso.org/iso-3166-country-codes.html).
+- Le nom complet de l'équipe est affiché au centre de l'écran quand une équipe est sélectionnée au travers du procédé de défilement.
+- L'acronyme de l'équipe est affiché dans les case de groupe.
+![](img/drawings-txt-visual.png "Représentation visuelle des éléments drawings.txt")
+
+
+Un fichier `drawings.txt` valide avec à l'intérieur plusieurs pays en tant qu'équipes :
+
+```
+AU : Australia : AUS
+RO : Romania : RO
+IT : Italy : IT
+US : United States of America : USA
+```
+
+Pour définir un drapeau personnalisé, retournez dans le dossier osu! contenant le fichier `drawings.ini`, à l'intérieur vous trouverez le dossier `Flags`. Les images de drapeaux personnalisées peuvent-être placés à l'intérieur du dossier Flags. Par exemple, si le fichier `my-flag-file.png` a été placé à l'intérieur de ce dossier, alors une ligne valide pouvant être ajoutée au fichier `drawings.txt` se présente sous la forme de :
+
+```
+my-flag-file : My Team : MT
+```
+
+
+La résolution pour une image de drapeau optimale est de 70x47 pixels (ou le même rapport d'aspect)
+
+### Seeding
+
+Il peut-être désirable de "seed" des équipes. Dans ce cas, de multiples fichiers `drawings.txt` peuvent-être "hotswapped" (remplacé à chaud) à l'aid du bouton de Rechargement depuis le panneau de contrôle.
+
+## Questions?
+
+N'hésitez pas à contacter `tournaments@ppy.sh` si vous avez d'autres questions d'utilisation.
