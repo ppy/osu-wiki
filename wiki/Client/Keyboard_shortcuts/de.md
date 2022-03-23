@@ -129,7 +129,7 @@ Diese Kürzel können überall verwendet werden:
 | `Shift` + `Tab` | Benutzeroberfläche im Spiel (außer der Rangliste) ein-/ausblenden. |
 | `H` | Ein- und Ausblenden der Rangliste und des Replay-Interfaces (beim Ansehen eines Replays oder beim Zuschauen). |
 | `F3` oder `F4` | Passe die osu!mania-Scrollgeschwindigkeit an (nur am Anfang des Songs möglich). |
-| `Strg` + `R` oder `` ` `` | Darf nur kurz gehalten werden. Starte die Beatmap schnell neu (das Intro wird automatisch übersprungen)<!--TODO: check if ö or ` is correct (see old version of this article)-->. |
+| `Strg` + `R` oder `Ö` (deutsches Tastaturlayout) | Darf nur kurz gehalten werden. Starte die Beatmap schnell neu (das Intro wird automatisch übersprungen). |
 
 ## Replay mode
 
@@ -258,15 +258,15 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 | `W` | Füge den Whistle-Effekt zu den ausgewählten Objekten hinzu. |
 | `E` | Füge den Finish-Effekt zu den ausgewählten Objekten hinzu. |
 | `R` | Füge den Clap-Effekt zu den ausgewählten Objekten hinzu. |
-| `Shift` + (`Q`, `W`, `E` oder `R`) | Ändere das Sampleset für das ausgewählte Objekt zu Auto, Normal, Soft bzw. Drum. |
-| `Strg` + (`Q`, `W`, `E` oder `R`) | Ändere das Effekteset für das ausgewählte Objekt zu Auto, Normal, Soft bzw. Drum. |
+| `Shift` + (`Q`, `W`, `E` oder `R`) | Ändere das Sampleset für das ausgewählte Objekt zu Auto, Normal, Soft oder Drum. |
+| `Strg` + (`Q`, `W`, `E` oder `R`) | Ändere das Effekteset für das ausgewählte Objekt zu Auto, Normal, Soft oder Drum. |
 | `Strg` + `Shift` + `I` | Öffne den Dialog für den Sample-Import. |
 
 #### Timeline
 
 | Kürzel | Aktion |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8` oder `9`) | Ändere den [Beat-Snap-Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) auf 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 bzw. 1/9. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8` oder `9`) | Ändere den [Beat-Snap-Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) auf 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 oder 1/9. |
 | `Shift` (während dem Ziehen auf der Timeline) | Ignoriere das Snapping des Beat-Snap-Divisors. |
 | `J` | Schiebe die Auswahl auf der Timeline zurück. |
 | `K` | Schiebe die Auswahl auf der Timeline vorwärts. |
