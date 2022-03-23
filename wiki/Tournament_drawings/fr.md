@@ -58,6 +58,7 @@ Un fichier de configuration valide ressemble à :
 Groups = 4
 TeamsPerGroup = 4
 ```
+
 Les propriétés suivantes sont des propriétés configurables au travers de ce fichier :
 
 | Propriété | Description | Valeur Valide | Valeur Par Défaut |
@@ -74,6 +75,7 @@ AU : Australia : AUS
 ```
 
 Cette ligne possède trois sections séparées par une colonne (`:`) :
+
 | Nom Du Drapeau | Nom Complet De L'équipe | Acronyme De L'équipe |
 | :-: | :-: | :-: |
 | AU | Australia | AUS |
@@ -81,8 +83,8 @@ Cette ligne possède trois sections séparées par une colonne (`:`) :
 - Le nom du drapeau fait référence au nom du fichier qui fourni l'image du drapeau. Par défaut, osu! (lazer) fourni les drapeaux de pays en [Code Pays ISO 3166 Alpha-2](https://www.iso.org/iso-3166-country-codes.html).
 - Le nom complet de l'équipe est affiché au centre de l'écran quand une équipe est sélectionnée au travers du procédé de défilement.
 - L'acronyme de l'équipe est affiché dans les case de groupe.
-![](img/drawings-txt-visual.png "Représentation visuelle des éléments drawings.txt")
 
+![](img/drawings-txt-visual.png "Représentation visuelle des éléments drawings.txt")
 
 Un fichier `drawings.txt` valide avec à l'intérieur plusieurs pays en tant qu'équipes :
 
@@ -98,7 +100,6 @@ Pour définir un drapeau personnalisé, retournez dans le dossier osu! contenant
 ```
 my-flag-file : My Team : MT
 ```
-
 
 La résolution pour une image de drapeau optimale est de 70x47 pixels (ou le même rapport d'aspect)
 
