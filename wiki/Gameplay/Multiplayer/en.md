@@ -314,7 +314,7 @@ Each player will receive their match result as a private message in the `#userlo
 
 ![](img/Multi_team_vs.jpg "Team Vs interface")
 
-`Team Vs` pits two teams, Blue and Red, against each other. Fulfill the win condition as closely as possible to reach the top spot in the team and compete with the other team.
+`Team Vs` pits two teams, Blue and Red, against each other.
 
 Blue is on the left and Red is on the right. A crown at the centre moves left and right to show which team is currently winning.
 
@@ -352,7 +352,7 @@ If a player quits during the match, the game will play their part for them.
 
 All players share the same health bar. If it depletes completely, the match ends. In `Tag Team Vs`, each team has their own health bars, and losing all health will cause that team to lose.
 
-Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect) game modifier will cause a fail for the whole team if they fail due to it.
+Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect) game modifier will cause the whole team to fail if they fail due to it.
 
 ##### Result
 
