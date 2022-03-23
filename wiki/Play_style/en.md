@@ -6,7 +6,7 @@ This page will detail the various ways in which players can choose to play in th
 
 ### Mouse-only
 
-*Note: Mouse-only was once the only way to play osu! until other playing methods were supported over time.*
+Mouse-only was once the *only* way to play osu! until other playing methods were supported over time.
 
 Also known as *pure-mouse*, mouse-only players navigate the in-game cursor with a mouse while tapping beats, following sliders, and spinning spinners with only clicking the left and right mouse buttons.
 
@@ -77,9 +77,9 @@ Touchscreen and keyboard is a play style uses a keyboard for key inputs, and tou
 ### Other styles
 
 - **Laptop touchpad/trackpad**: While this method is possible, most players prefer not to use a trackpad because of the extreme difficulty involved. Specifically, players argue that controlling the cursor movement on the limited space of the laptop touchpad/trackpad is clunky, slow, and creates a lot of friction. The trackpad is used to navigate the in-game cursor.
-- **Joystick**: A creative way to control osu!cursor. This play style sees the player hold and move a joystick around to move the in-game cursor and—depending on player's joystick design—taps using the trigger/face buttons of the joystick, or with the keyboard keys to register the beats. It is widley-regarded as a sort of "challenge" play style due to the obvious drawbacks and sheer skill required to control the joystick movement.
+- **Joystick**: A creative way to control the cursor. This play style sees the player hold and move a joystick around to move the in-game cursor and—depending on player's joystick design—taps using the trigger/face buttons of the joystick, or with the keyboard keys to register the beats. It is widley-regarded as a sort of "challenge" play style due to the obvious drawbacks and sheer skill required to control the joystick movement.
 - **Metal plate**: This is a special way to replace the keyboard for tapping beats. The method was introduced by ![](/wiki/shared/flag/US.gif "United States of America") [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
-- **Gamepad:** Like the joystick, this method is one that is more considered to be a creative, and out-of-the-box way to play osu!. Depending on the brand of controller, this play style could see a player using a built-in trackpad, control/analog stick, or D-Pad to control the in-game cursor. Some players may find it more comfortable to use buttons already on the controller itself to tap beats, or through a regular keyboard.
+- **Gamepad**: Like the joystick, this method is one that is more considered to be a creative, and out-of-the-box way to play osu!. Depending on the brand of controller, this play style could see a player using a built-in trackpad, control/analog stick, or D-Pad to control the in-game cursor. Some players may find it more comfortable to use buttons already on the controller itself to tap beats, or through a regular keyboard.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -95,13 +95,13 @@ There are two main styles of setting the keys placement in the keyboard: KDDK (T
 
 ### Taiko controller
 
-A taiko controller is the default play style and controller for the [Taiko no Tatsujin](https://wikipedia.org/wiki/Taiko_no_Tatsujin) series([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) for US).
+A taiko controller is the default play style and controller for the [Taiko no Tatsujin](https://wikipedia.org/wiki/Taiko_no_Tatsujin) series ([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) for US).
 
 *Note: Some skilled players who play using a Taiko controller may create theirs from scratch while others purchase theirs via retail or online stores.*
 
 Players who use a Taiko controller carry a Taiko/drum stick in each hand and hit the centre (Red) or rim of the drum (Blue) to register the note based on where it is hit.
 
-*Notice: Most Taiko controllers connect to the computer by using a Bluetooth connector should there be no USB connector. Though this may increase latency*
+*Notice: Most Taiko controllers connect to the computer by using a Bluetooth connector should there be no USB connector. Though this may increase latency.*
 
 ### Other styles
 
@@ -133,7 +133,7 @@ Players move the head of the joystick and press the face button, trigger, or key
 
 Using a gamepad to control the catcher is a play style for players who prefer the feeling of a particular D-pad or control stick as opposed to a keyboard.
 
-To move the catcher left and right, some players prefer to press the left/right arrows on their gamepad's D-pad to move, while others prefer to use control stick directions. Though, due to a gamepad's wide variety of buttons, players can use triggers, bumpers, or other face buttons to move the  catcher.
+To move the catcher left and right, some players prefer to press the left/right arrows on their gamepad's D-pad to move, while others prefer to use control stick directions. Though, due to a gamepad's wide variety of buttons, players can use triggers, bumpers, or other face buttons to move the catcher.
 
 To dash, many players use one of the face buttons on their gamepad. Though, some players prefer to use triggers, bumpers, or control sticks.
 
@@ -145,11 +145,11 @@ To dash, many players use one of the face buttons on their gamepad. Though, some
 
 ### Keyboard
 
-[External guide for Mechanical Keyboard](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/)
+*Note: For more information about mechanical keyboards, see this [external guide for mechanical keyboards](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/).*
 
 Keyboard was once the *only* way to play osu!mania until other play methods was supported over time.
 
-To play with a keyboard, players would press down the keys respective to their placement on the in-game keyboard. By default these keys are DFJK. The advantage of this play-style is that it can accommodate basically all the Keys setting.
+To play with a keyboard, players would press down the keys respective to their placement on the in-game keyboard. By default these keys are `D` `F` `J` `K`. The advantage of this play-style is that it can accommodate to basically all the keys settings.
 
 ### Arcade controller
 
@@ -169,5 +169,5 @@ Another drawback is that osu!mania maps may have been designed without dance gam
 
 ### Other styles
 
-- **Guitar/Drum set**(5/6K): The default controller for the guitar-themed ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed([Drummania](https://wikipedia.org/wiki/Drum_Mania)) rhythm game. Players stream on their guitar/hit the drum or cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
-- **Para Para controller**(5K): This is the default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitivity of the input receiver and the player's physical limitation.
+- **Guitar/Drum set** (5/6K): The default controller for the guitar-themed ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed ([Drummania](https://wikipedia.org/wiki/Drum_Mania)) rhythm game. Players stream on their guitar/hit the drum or cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
+- **Para Para controller** (5K): This is the default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitivity of the input receiver and the player's physical limitation.
