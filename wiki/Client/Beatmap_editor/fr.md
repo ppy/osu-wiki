@@ -23,11 +23,11 @@ L'onglet [Design](/wiki/Client/Beatmap_editor/Design) permet de réaliser des [s
 
 ## Timing
 
-L'onglet [Timing](/wiki/Client/Beatmap_editor/Timing) gère le timing des sections de la musique et contrôle les hitsounds de la map. C'est essentiel car une beatmap a besoin d'avoir un timing correct ainsi qu'un retour audio approprié pour que l'experience de jeu corresponde au rythme de la musique.
+L'onglet [Timing](/wiki/Client/Beatmap_editor/Timing) gère le timing des sections de la musique et contrôle les hitsounds de la beatmap. C'est essentiel car une beatmap a besoin d'avoir un timing correct ainsi qu'un retour audio approprié pour que l'experience de jeu corresponde au rythme de la musique.
 
 ## Song setup
 
-L'onglet [Song setup](/wiki/Client/Beatmap_editor/Song_Setup) permet de renseigner les [métadonnées](/wiki/Client/Beatmap_editor/Song_Setup#métadonnées-des-chansons-et-des-maps) et d'autres choses universelles d'une [beatmap](/wiki/Beatmap). Cela inclus le titre de la musique, l'artiste, le nom de la difficulté, la couleur des combos, etc...
+L'onglet [Song setup](/wiki/Client/Beatmap_editor/Song_Setup) permet de renseigner les [métadonnées](/wiki/Client/Beatmap_editor/Song_Setup#métadonnées-des-musiques-et-des-beatmaps) et d'autres choses universelles d'une [beatmap](/wiki/Beatmap). Cela inclus le titre de la musique, l'artiste, le nom de la difficulté, la couleur des combos, etc...
 
 ## Autres
 

@@ -167,6 +167,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **If a Unicode song title or artist has an official translation or romanisation provided by the artist, it may be used in the respective romanised field. If both a translation and romanisation are available, either may be used.**
 - **If a beatmap's track was contributed to by multiple artists, they may be listed with commas in between.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
 - **For remixes/covers, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is remixed.** This marker should all be in parentheses and contain the remix/cover artist followed by descriptor.
+- **For live performances of a song, the title may include a `(Live Ver.)` marker.** Relevant details of the performance should be put in the beatmap description and tags, such as the date and location.
 
 ## Timing
 
@@ -181,7 +182,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **No two [uninherited](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) or two [inherited timing points](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) can be placed at the same point.** Having two uninherited or two inherited timing points on top of each other will cause unintended behaviour for slider velocity and volume settings.
 - **An [inherited timing point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) cannot be placed before the first [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point).** Without having any settings to inherit, an inherited timing point does not function properly. If you wish to alter hitsounds or slider velocities before the first uninherited timing point, it must be moved back one full measure so that inherited timing points may be used.
 - **A beatmap's first [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) cannot be used to toggle [kiai](/wiki/Gameplay/Kiai_time).** Doing this will cause the kiai to flash before objects appear. An [inherited point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) in the same position as the first uninherited point must be used to toggle kiai instead.
-- **Objects must be snapped to timeline ticks according to [AiMod](/wiki/Client/Beatmap_editor/AiMod).** Objects in a musical section requiring unsupported beat snap divisors (e.g. 1/11) can either:
+- **Hit objects must be snapped within less than 2 ms of any timeline tick.** [AiMod](/wiki/Client/Beatmap_editor/AiMod) will report these issues, as well as rare false positives. False positives mainly occur on slider ends and reverses, and should be verified manually or with other tools. Objects in a musical section requiring unsupported beat snap divisors (e.g. 1/11) can either:
   - Remain unsnapped, as long as they align with the intended beat snap divisor.
   - Be snapped through a temporary change in [BPM](/wiki/Beatmapping/Beats_per_minute).
 - **An object which is wrongly snapped due to passing through or ending slightly before a new [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must have its tail snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging the end of the object in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file.
@@ -190,9 +191,12 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Rules
 
-- **A beatmap's audio file must use the `.mp3` or `.ogg` file format and have an average bit rate no greater than 192kbps.**
+- **The audio file of a beatmap must...**
+  - **...use the `.mp3` or `.ogg` file format.**
+  - **...have an average bit rate no greater than 192 kbps.**
+  - **...have an average bit rate no lower than 128 kbps**, if such a source exists. Otherwise, use the highest quality available.
+  - **...not be encoded upwards from a lower bitrate.**
 - **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
-- **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalised to their original release volumes and should not be encoded to a bit rate higher than their original files.
 - **Beatmaps must be [hitsounded](/wiki/Beatmapping/Hitsound).** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.
   - **osu!mania beatmaps do not require hitsound additions.** This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to add hitsounds to improve the feel of your beatmaps.
 - **All clicked parts of objects must have at least one hitsound which both...**
@@ -207,6 +211,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Guidelines
 
+- **The audio file and hitsound files of a beatmap should not feature any audible and unwarranted sound distortions**, like clipping, muffling, or crackling that is clearly not intended by the artist or part of the song's identity. This is best determined by listening to the audio, rather than using software on its own.
 - **The audio file of a song should not be artificially extended in order to meet a time limitation in the beatmap section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the [BPM](/wiki/Beatmapping/Beats_per_minute) of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to [song compilations](/wiki/Beatmapping/Song_compilation) or audio files less than the minimum rankable beatmap length.
 - **If you do not beatmap the last 20% of your beatmap's audio file, it should be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video, or if more than 20% of the song's audio is not able to be mapped due to fade-out or timing issues.
 - **[Song compilations](/wiki/Beatmapping/Song_compilation) should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lacklustre experience for players, and should be broken up into separate beatmaps. Exceptions can be made for songs that were exclusively released together.

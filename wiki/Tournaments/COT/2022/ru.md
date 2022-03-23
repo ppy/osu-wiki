@@ -12,7 +12,7 @@ tags:
 
 ![COT 2021 banner](img/banner.png)
 
-**osu!catch CIS Open Tournament 2022** (***COT2022***, ***КОТ2022***) — сольный osu!catch турнир в формате double-elimination, организованный ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) и ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). В турнире могут принимать участие русскоговорящие игроки из стран СНГ и Прибалтики. COT22 является второй итерацией турнира osu!catch CIS Open Tournament.
+**osu!catch CIS Open Tournament 2022** (***COT2022***, ***КОТ2022***) — сольный osu!catch турнир в формате double-elimination, организованный ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) и ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). В турнире могут принимать участие русскоговорящие игроки из стран СНГ и Прибалтики. COT22 был второй итерацией турнира osu!catch CIS Open Tournament.
 
 ## Расписание турнира
 
@@ -26,15 +26,17 @@ tags:
 | Четвертьфинал | 2022-02-19/2022-02-20 |
 | Полуфинал | 2022-02-26/2022-02-27 |
 | Финал | 2022-03-05/2022-03-06 |
-| Гранд-финал | 2022-03-12/2022-03-13 |
+| Гранд-финал | 2022-03-11/2022-03-12 |
 
 ## Призы
 
-| Место | Приз |
+| Место | Призы |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "Первое место") | 18 месяцев osu!supporter или 3000₽, уникальный бейдж в профиль |
-| ![Silver crown](/wiki/shared/crown-silver.png "Второе место") | 12 месяцев osu!supporter или 2000₽ |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "Третье место") | 4 месяца osu!supporter или 1000₽ |
+| ![Gold crown](/wiki/shared/crown-gold.png "Первое место") | 18 месяцев osu!supporter, уникальный бейдж в профиль |
+| ![Silver crown](/wiki/shared/crown-silver.png "Второе место") | 12 месяцев osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "Третье место") | 4 месяца osu!supporter |
+
+![](img/badge.jpg "Бейдж победителя COT 2022")
 
 ## Организация
 
@@ -46,7 +48,7 @@ COT 2022 организован различными членами сообще
 | Маппулеры | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [Xetopia](https://osu.ppy.sh/users/6689101), ![][flag_RU] [Rebbel](https://osu.ppy.sh/users/4595355), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_CL] [Pekorrat](https://osu.ppy.sh/users/1250096) |
 | Стримеры | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
 | Комментаторы | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
-| Рефери | ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267), ![][flag_RU] [MRX](https://osu.ppy.sh/users/10954753) |
+| Рефери | ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267), ![][flag_RU] [MRX](https://osu.ppy.sh/users/10954753), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
 | Дизайнеры | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
 | Редактор гугл-дока | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) |
 | Редактор вики | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
@@ -67,6 +69,16 @@ COT 2022 организован различными членами сообще
 | 9-24 | ![][flag_RU] [Kenny331](https://osu.ppy.sh/users/11534285), ![][flag_UA] [[-Nyaruko-]](https://osu.ppy.sh/users/13712671), ![][flag_LV] [Soruki](https://osu.ppy.sh/users/11762423), ![][flag_RU] [yuinn](https://osu.ppy.sh/users/11239593), ![][flag_UA] [Shadowbolts1](https://osu.ppy.sh/users/13962882), ![][flag_UA] [Violet Feets](https://osu.ppy.sh/users/15558360), ![][flag_RU] [Mazuki](https://osu.ppy.sh/users/15208771), ![][flag_RU] [mirofantasm](https://osu.ppy.sh/users/6650048), ![][flag_RU] [catch the ExGon](https://osu.ppy.sh/users/12081746), ![][flag_RU] [liquid_boba](https://osu.ppy.sh/users/11694783), ![][flag_RU] [vinnikoish](https://osu.ppy.sh/users/14509580), ![][flag_UA] [NamakemonsteR](https://osu.ppy.sh/users/17314832), ![][flag_LV] [oFKors01](https://osu.ppy.sh/users/26522965), ![][flag_RU] [yoraze](https://osu.ppy.sh/users/18240388), ![][flag_RU] [PedobeerKoroche](https://osu.ppy.sh/users/19389015), ![][flag_RU] [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) |
 
 Полный список участников есть в гугл-доке в разделе [Игроки](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS_Sx4MyWdGOYD9raofZ46uomMbVW6wm48/edit#gid=749874175).
+
+## Подиум
+
+Этот турнир завершился со следующими результатами:
+
+| Место | Игрок |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "Первое место") | ![][flag_RU] [Memoriola](https://osu.ppy.sh/users/6856387) |
+| ![Silver crown](/wiki/shared/crown-silver.png "Второе место") | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "Третье место") | ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384) |
 
 ## Маппулы
 
@@ -238,6 +250,20 @@ COT 2022 организован различными членами сообще
   2. [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#fruits/1624401)
 
 ## Результаты матчей
+
+### Гранд-финал
+
+Пятница, 11 марта 2022:
+
+| Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Нижняя | [KitsunIvy](https://osu.ppy.sh/users/7055384) ![][flag_RU] | 2 | **7** | ![][flag_RU] **[Nelly](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/98623588) |
+
+Суббота, 12 марта 2022:
+
+| Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Гранд-финал | **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **7** | 3 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98655352) |
 
 ### Финал
 

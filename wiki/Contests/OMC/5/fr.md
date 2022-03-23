@@ -23,7 +23,7 @@ Les horaires peuvent être retardés.
 
 ## Musiques
 
-Les concurrents ont le choix entre deux musiques. Seules ces deux chansons peuvent être mappés pour le concours.
+Les concurrents ont le choix entre deux musiques. Seules ces deux musiques peuvent être mappés pour le concours.
 
 1. HyuN - Absolute
 2. Cranky - R176
