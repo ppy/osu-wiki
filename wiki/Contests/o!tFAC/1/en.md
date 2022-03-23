@@ -14,7 +14,7 @@ tags:
 
 ![o!tfac logo](img/logo.png)
 
-The **osu!taiko Featured Artist Cup #1** (***o!tfac #1***) is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists.
+The **osu!taiko Featured Artist Cup #1** (***o!tfac #1***) was an osu!taiko mapping contest where contestants were simply asked to map a song from one of osu!'s Featured Artists.
 
 ## Contest schedule
 
@@ -27,7 +27,7 @@ The **osu!taiko Featured Artist Cup #1** (***o!tfac #1***) is an osu!taiko mappi
 
 ## Organisation
 
-The osu!taiko Featured Artist Cup #1 is run by various community members.
+The osu!taiko Featured Artist Cup #1 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
