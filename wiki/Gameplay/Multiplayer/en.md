@@ -176,9 +176,9 @@ The lower left section is the mods section. This section will show the [game mod
 
 The host can enable `Free Mods` to allow players to freely choose any mod combination, except ones that change gameplay speed ([Double Time (DT)](/wiki/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Game_modifier/Nightcore) and [Half Time (HT)](/wiki/Game_modifier/Half_Time)).
 
-#### Team mode
+#### Team mode {#team-mode-match-setup}
 
-*For more information about team modes, see [Team mode](#team-mode).*<!-- ?????? -->
+*For more information about team modes, see [Team mode](#team-mode-while-playing).*
 
 There are four different ways a match can be played:
 
@@ -188,6 +188,12 @@ There are four different ways a match can be played:
 | `Team Vs` | Compete against each other in teams (Red and Blue) for match supremacy. |
 | `Tag Coop` (osu! only, unranked) | Team up to complete the beatmap, one combo at a time together. |
 | `Tag Team Vs` (osu! only, unranked) | The same as `Tag Coop`, but with two teams competing against each other. |
+
+##### Tag Colour
+
+![](img/Multi_tag_colour.jpg "Available colours for the player's turn combo colour")
+
+If the team mode was set to `Tag Coop` or `Tag Team Vs`, a `Tag Colour: (combo colour)` section will be shown which allows choosing a custom colour for each player. Setting this to `Default` will use the beatmap's original combo colours.
 
 #### Win condition
 
@@ -199,12 +205,6 @@ There are four different ways the winner of a match can be decided:
 | `Accuracy` | The player with the highest accuracy wins. If there are two players with 100.00%, the player with the highest score (from spinners) wins. Otherwise, it is a tie. |
 | `Combo` | The player with the highest combo count *at the end of the beatmap* wins. If the combo count is the same, the player with the highest score wins. The maximum combo is not counted in this case. |
 | `Score v2` | The player with the highest (standardised) score wins. |
-
-##### Tag Colour (Tag Coop/Tag Team Vs only) {#tag-colour}<!-- TODO: move up one heading -->
-
-![](img/Multi_tag_colour.jpg "Available colours for the player's turn combo colour")
-
-If the team mode was set to `Tag Coop` or `Tag Team Vs`, a `Tag Colour: (combo colour)` section will be shown which allows choosing a custom colour for each player. Setting this to `Default` will use the beatmap's original combo colours.
 
 ### Match setup buttons
 
@@ -253,19 +253,6 @@ Despite there being no [extended results screen](/wiki/Client/Interface#extended
 
 The replay of the score can be exported by pressing `F2`, except in `Tag Coop` and `Tag Team Vs`.
 
-#### Player box colour<!-- TODO: merge with the heading beneath this one -->
-
-The colour of each player on the leaderboard while playing indicates the status of the player during the match.
-
-| Example image | Status | Description |
-| :-: | :-: | :-- |
-| ![](img/Playerbox/Multi_PB_B.jpg "Normal") | Normal | The player has more than half of their health. The colour will become a brighter blue or bleed to red depending on the player's health. |
-| ![](img/Playerbox/Multi_PB_R.jpg "Danger") | Danger | The player has less than half of their health. The colour will become a brighter red or change to blue depending on the player's health. |
-| ![](img/Playerbox/Multi_PB_F.jpg "Failed") | Failed | The player has reached 0 HP and is in the [failed state](#health). |
-| ![](img/Playerbox/Multi_PB_TAG.jpg "Tag") | Tag | In `Tag Coop` and `Tag Team Vs`, the player box will always be green. A green arrow points at the current player with a subtle white glow. |
-| ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | A request from the player to skip the intro of a beatmap if there is one. The intro will be skipped once all players have requested to skip. |
-| ![](img/Playerbox/Multi_PB_QUIT.jpg "Quit") | Quit | The player has quit the match, either by pressing `Esc` twice or by disconnecting from [Bancho](/wiki/Bancho_(server)). The text colour will be changed from white to red, with `[Quit]` appended at the end. The box colour signifies the status before quitting the game. |
-
 #### Multiplayer leaderboard
 
 The leaderboard to the side of the screen shows different live statistics for each player based on the match settings.
@@ -290,7 +277,18 @@ If a player quits when playing in these modes, the game will perfectly play thei
 
 Players who have failed or quit will be placed at the bottom of the leaderboard with their scores sorted separately from other alive players.
 
-### Team mode
+The colour of each player on the leaderboard while playing indicates the status of the player during the match.
+
+| Example image | Status | Description |
+| :-: | :-: | :-- |
+| ![](img/Playerbox/Multi_PB_B.jpg "Normal") | Normal | The player has more than half of their health. The colour will become a brighter blue or bleed to red depending on the player's health. |
+| ![](img/Playerbox/Multi_PB_R.jpg "Danger") | Danger | The player has less than half of their health. The colour will become a brighter red or change to blue depending on the player's health. |
+| ![](img/Playerbox/Multi_PB_F.jpg "Failed") | Failed | The player has reached 0 HP and is in the [failed state](#health). |
+| ![](img/Playerbox/Multi_PB_TAG.jpg "Tag") | Tag | In `Tag Coop` and `Tag Team Vs`, the player box will always be green. A green arrow points at the current player with a subtle white glow. |
+| ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | A request from the player to skip the intro of a beatmap if there is one. The intro will be skipped once all players have requested to skip. |
+| ![](img/Playerbox/Multi_PB_QUIT.jpg "Quit") | Quit | The player has quit the match, either by pressing `Esc` twice or by disconnecting from [Bancho](/wiki/Bancho_(server)). The text colour will be changed from white to red, with `[Quit]` appended at the end. The box colour signifies the status before quitting the game. |
+
+### Team mode {#team-mode-while-playing}
 
 #### Head to Head
 
