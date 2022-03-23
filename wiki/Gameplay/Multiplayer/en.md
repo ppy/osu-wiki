@@ -80,7 +80,7 @@ Pressing the `1. Start Game` button will create the match with the beatmap playi
 
 ## Match setup
 
-After going into or creating a match, the match setup will be displayed. The subsections below will focus on the different parts of the screen starting from top to bottom and left to right.
+After going into or creating a match, the match setup will be displayed. The subsections below will focus on the different parts of the screen starting from top to bottom and going left to right.
 
 The [options](/wiki/Client/Options) can be accessed by pressing `Ctrl` + `O` while in a match.
 
