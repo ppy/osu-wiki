@@ -425,7 +425,8 @@ All options in this section represent colours. They are comma-separated triplets
 
 > Using this field, you can additionally adjust the sounds being played. `0:0:0:0:` is used by default, if not specified. Closely related to `hit_sound`
 >
-> General syntax  
+> General syntax
+>
 > `normal_set:addition_set:index:volume:filename`
 >
 > | Option | Value type | Description |
@@ -459,7 +460,8 @@ All options in this section represent colours. They are comma-separated triplets
 
 `filename`
 
-> Double quotes are usually included surrounding the filename, but they are not required.  
+> Double quotes are usually included surrounding the filename, but they are not required.
+>
 > When `filename` is given, no addition sounds will be played, and this file in the beatmap directory is played instead.
 
 ### Hit circle
@@ -541,11 +543,10 @@ All options in this section represent colours. They are comma-separated triplets
 `edge_sounds`
 
 > The first sound is the one that plays when the slider is first clicked, and the last sound is the one that plays when the slider's end is hit.
-> Apart from `edge_sounds`, sliders also have an ongoing hitsound whenever the player is in range of the slider's follow circle. The sound file is looped for as long as it is active.  
-> This hitsound uses the hit object's `hitSound` and `hitSample` properties, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-slider<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
 >
-> Besides the sounds of the beginning and the end `edge_sounds`, sliders also have an ongoing hitsound whenever the player is in range of the slider's follow circle. The sound file is looped for as long as it is active.  
-> This hitsound uses the hit object's `hit_sound` and `hit_sample`, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-slider<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
+> Apart from `edge_sounds`, sliders also have an ongoing hitsound whenever the player is in range of the slider's follow circle. The sound file is looped for as long as it is active. This hitsound uses the hit object's `hitSound` and `hitSample` properties, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-slider<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
+>
+> Besides the sounds of the beginning and the end `edge_sounds`, sliders also have an ongoing hitsound whenever the player is in range of the slider's follow circle. The sound file is looped for as long as it is active. This hitsound uses the hit object's `hit_sound` and `hit_sample`, but only the normal and whistle sounds are supported. Its filename is `<sampleSet>-slider<hitSound><index>.wav`, where `hitSound` is either `slide` for normal or `whistle` for whistle.
 
 ### Spinner
 
