@@ -14,9 +14,13 @@ The osu!supporter tag may be obtained from the [osu!supporter store page](https:
 
 ### Heart badge
 
-![Profile with osu!supporter](img/userpage.png?1 "Profile with osu!supporter")
+::: Infobox
+![](img/userpage.png?1 "Profile with osu!supporter")
+:::
 
-![Usercard with osu!supporter](img/usercard.png?1 "User card with osu!supporter")
+::: Infobox
+![](img/usercard.png?1 "User card with osu!supporter")
+:::
 
 The badge with hearts on it may usually be found next to a username. The amount of hearts depends on the duration of osu!supporter the user has acquired or received in total<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
 
@@ -26,7 +30,9 @@ The badge with hearts on it may usually be found next to a username. The amount 
 
 ### Username colour
 
-<!-- TODO(TicClick): add a screenshot -->
+::: Infobox
+![](img/supporter-in-chat.png "A person with osu!supporter in the chat")
+:::
 
 The supporters' usernames appear gold for the rest of the [chat](/wiki/Client/Interface/Chat_console) users.
 
@@ -85,21 +91,41 @@ Additionally, the osu!supporter bearers are granted more lenient download speed 
 
 ### Extra skinnable elements
 
-<!-- TODO(TicClick) -->
+After obtaining osu!supporter, some visual and aural elements of the osu! interface become skinnable:
+
+| Element | Appearance |
+| :-- | :-- |
+| `menu-background.jpg` | The main menu background |
+| `welcome_text.png` | The word `welcome` that appears during osu! startup |
+| `welcome.wav` | The sample that plays during osu! startup |
+| `seeya.wav` | The sample that plays during osu! shutdown |
+
+For details, see [Interface § Main menu](/wiki/Skinning/Interface#main-menu) and [Sounds § Main menu](/wiki/Skinning/Sounds#main-menu)
 
 ### Extended search
 
-<!-- TODO(TicClick) -->
+::: Infobox
+![](img/beatmap-search.png "Beatmap search page on the website, with two new filters in the bottom")
+:::
+
+Supporters have access to an extended set of [beatmap search](https://osu.ppy.sh/beatmapsets) filters:
+
+- Beatmaps that were (or were not) played;
+- Beatmaps where a score with certain [grade](/wiki/Gameplay/Grade) was set.
 
 ## Remaining duration
 
-![osu!supporter tag with three months remaining](img/status.jpg?1 "Three months left of osu!supporter tag")
+::: Infobox
+![](img/status.jpg?1 "Three months left of osu!supporter tag")
+:::
 
 The remaining osu!supporter duration, as well as total amount of contributions, tag purchases and gifts, is available at the top of the [osu!supporter promo page](https://osu.ppy.sh/home/support) page.
 
 ## Getting osu!supporter
 
-![osu!store product banner](img/store-product.jpg?1 "osu!supporter product banner from the osu!store")
+::: Infobox
+![](img/store-product.jpg?1 "osu!supporter product banner from the osu!store")
+:::
 
 To get osu!supporter, visit the [osu!supporter store page](https://osu.ppy.sh/store/products/supporter-tag) and adjust the supporter tag duration using the slider, or the buttons with number of months underneath. All prices are in United States dollars (USD) and don't include possible fees of the payment system.
 
