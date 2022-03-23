@@ -2,7 +2,7 @@
 
 Dieser Bereich ist für osu! Turniere bestimmt. Turniere haben ihr eigenes Forum, das man [über diesen Link](https://osu.ppy.sh/community/forums/55) finden kann.
 
-Bitte besuche die Seite [Offizielle Turnierunterstützung](/wiki/Turniere/Offizielle_Unterstützung), um zu erfahren, wie du offizielle Unterstützung für dein Turnier beantragen kannst (Abzeichen, Prüfverfahren usw.).
+Bitte besuche die Seite [Offizielle Turnierunterstützung](/wiki/Tournaments/Official_support), um zu erfahren, wie du offizielle Unterstützung für dein Turnier beantragen kannst (Abzeichen, Prüfverfahren usw.).
 
 ## Offizielle World Cups
 
