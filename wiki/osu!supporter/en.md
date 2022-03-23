@@ -31,7 +31,7 @@ The badge with hearts on it may usually be found next to a username. The amount 
 ### Username colour
 
 ::: Infobox
-![](img/supporter-in-chat.png "A person with osu!supporter in the chat")
+![](img/chat.png "A person with osu!supporter in the chat")
 :::
 
 The supporters' usernames appear gold for the rest of the [chat](/wiki/Client/Interface/Chat_console) users.
