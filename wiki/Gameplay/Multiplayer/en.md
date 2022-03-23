@@ -184,16 +184,16 @@ There are four different ways a match can be played:
 
 | Team mode | Description |
 | :-- | :-- |
-| `Head to Head` | Compete against each other to reach the top spot of the match leaderboard. |
-| `Team Vs` | Compete against each other in teams (Red and Blue) for match supremacy. |
-| `Tag Coop` (osu! only, unranked) | Team up to complete the beatmap, one combo at a time together. |
-| `Tag Team Vs` (osu! only, unranked) | The same as `Tag Coop`, but with two teams competing against each other. |
+| `Head-to-head` | Compete against each other to reach the top spot of the match leaderboard. |
+| `Team VS` | Compete against each other in teams (Red and Blue) for match supremacy. |
+| `Tag co-op` (osu! only, unranked) | Team up to complete the beatmap, one combo at a time together. |
+| `Tag-team VS` (osu! only, unranked) | The same as `Tag co-op`, but with two teams competing against each other. |
 
 ##### Tag Colour
 
 ![](img/Multi_tag_colour.jpg "Available colours for the player's turn combo colour")
 
-If the team mode was set to `Tag Coop` or `Tag Team Vs`, a `Tag Colour: (combo colour)` section will be shown which allows choosing a custom colour for each player. Setting this to `Default` will use the beatmap's original combo colours.
+If the team mode was set to `Tag co-op` or `Tag-team VS`, a `Tag Colour: (combo colour)` section will be shown which allows choosing a custom colour for each player. Setting this to `Default` will use the beatmap's original combo colours.
 
 #### Win condition
 
@@ -223,7 +223,7 @@ The blue button is used to control the player ready state and to start the match
 
 The bottom section of the screen is the [chat console](/wiki/Client/Interface/Chat_console). Every match has its own channel in a tab called `#multiplayer`, with [BanchoBot](/wiki/BanchoBot) providing a link to the match history on the first line.
 
-For `Head to Head` matches, the result will be displayed privately in another tab called `#userlog` upon conclusion, where BanchoBot says `You placed #{placement} of {total} players in multiplayer on {beatmap} [difficulty] <game mode>.`
+For `Head-to-head` matches, the result will be displayed privately in another tab called `#userlog` upon conclusion, where BanchoBot says `You placed #{placement} of {total} players in multiplayer on {beatmap} [difficulty] <game mode>.`
 
 ![](img/multi-mh.jpg "Example of a match history.")
 
@@ -243,21 +243,21 @@ While the match is starting, moving the cursor to the bottom of the screen will 
 
 When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards. The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect).
 
-In `Team Vs` matches, being in the failed state at the end of the match will make the score not contribute to the team score.
+In `Team VS` matches, being in the failed state at the end of the match will make the score not contribute to the team score.
 
 #### Results
 
-Despite there being no [extended results screen](/wiki/Client/Interface#extended-results-screen) below the results screen like when playing solo, scores set during multiplayer matches (with the exception of `Tag Coop` and `Tag Team Vs` matches) will still appear on online leaderboards if they are good enough. The result will not be shown on the local leaderboard.
+Despite there being no [extended results screen](/wiki/Client/Interface#extended-results-screen) below the results screen like when playing solo, scores set during multiplayer matches (with the exception of `Tag co-op` and `Tag-team VS` matches) will still appear on online leaderboards if they are good enough. The result will not be shown on the local leaderboard.
 
 #### Saving the replay
 
-The replay of the score can be exported by pressing `F2`, except in `Tag Coop` and `Tag Team Vs`.
+The replay of the score can be exported by pressing `F2`, except in `Tag co-op` and `Tag-team VS`.
 
 #### Multiplayer leaderboard
 
 The leaderboard to the side of the screen shows different live statistics for each player based on the match settings.
 
-For `Head to Head` and `Team Vs` matches:
+For `Head-to-head` and `Team VS` matches:
 
 | Win condition | Statistics displayed |
 | :-- | :-- |
@@ -265,13 +265,13 @@ For `Head to Head` and `Team Vs` matches:
 | `Accuracy` | Accuracy, individual score, combo multiplier, judgements |
 | `Combo` | Current combo counts |
 
-For `Tag Coop` and `Tag Team Vs`:
+For `Tag co-op` and `Tag-team VS`:
 
 | `Score` / `Score v2` | Team score, individual score, judgements |
 | `Accuracy` | Team average accuracy, individual score, judgements |
 | `Combo` | Current combo count, individual score, judgements |
 
-If a player fails during a `Tag Coop` match, the match ends and the players return to the match lobby. In `Tag Team Vs`, the opposing team receives a win by default instead. Failed players do not contribute towards the team unless they have been revived by the end of the match.
+If a player fails during a `Tag co-op` match, the match ends and the players return to the match lobby. In `Tag-team VS`, the opposing team receives a win by default instead. Failed players do not contribute towards the team unless they have been revived by the end of the match.
 
 If a player quits when playing in these modes, the game will perfectly play their part for them, but not contribute anything to the team. If all players of a team quit, the opposing team will win by default.
 
@@ -284,23 +284,23 @@ The colour of each player on the leaderboard while playing indicates the status 
 | ![](img/Playerbox/Multi_PB_B.jpg "Normal") | Normal | The player has more than half of their health. The colour will become a brighter blue or bleed to red depending on the player's health. |
 | ![](img/Playerbox/Multi_PB_R.jpg "Danger") | Danger | The player has less than half of their health. The colour will become a brighter red or change to blue depending on the player's health. |
 | ![](img/Playerbox/Multi_PB_F.jpg "Failed") | Failed | The player has reached 0 HP and is in the [failed state](#health). |
-| ![](img/Playerbox/Multi_PB_TAG.jpg "Tag") | Tag | In `Tag Coop` and `Tag Team Vs`, the player box will always be green. A green arrow points at the current player with a subtle white glow. |
+| ![](img/Playerbox/Multi_PB_TAG.jpg "Tag") | Tag | In `Tag co-op` and `Tag-team VS`, the player box will always be green. A green arrow points at the current player with a subtle white glow. |
 | ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | A request from the player to skip the intro of a beatmap if there is one. The intro will be skipped once all players have requested to skip. |
 | ![](img/Playerbox/Multi_PB_QUIT.jpg "Quit") | Quit | The player has quit the match, either by pressing `Esc` twice or by disconnecting from [Bancho](/wiki/Bancho_(server)). The text colour will be changed from white to red, with `[Quit]` appended at the end. The box colour signifies the status before quitting the game. |
 
 ### Team mode {#team-mode-while-playing}
 
-#### Head to Head
+#### Head-to-head
 
 ##### Interface
 
-![](img/Multi_HTH.jpg "Head to Head interface")
+![](img/Multi_HTH.jpg "Head-to-head interface")
 
-Head to Head is a team mode where players duke it all out in a free-for-all match for the top spot on the leaderboard. This is the default team mode and does not have any special characteristics in gameplay, other than going for the top spot.
+Head-to-head is a team mode where players duke it all out in a free-for-all match for the top spot on the leaderboard. This is the default team mode and does not have any special characteristics in gameplay, other than going for the top spot.
 
 ##### Result
 
-![](img/Multi_grade.jpg "Head to Head results screen")
+![](img/Multi_grade.jpg "Head-to-head results screen")
 
 At the end of the match, the winner's avatar is shown in a big winner's box, along with the match leaderboard to the right
 
@@ -308,13 +308,13 @@ The [grade](/wiki/Gameplay/Grade) for the play is placed behind the result like 
 
 Each player will receive their match result as a private message in the `#userlog` tab in [chat](/wiki/Client/Interface/Chat_console).
 
-#### Team Vs
+#### Team VS
 
 ##### Interface
 
-![](img/Multi_team_vs.jpg "Team Vs interface")
+![](img/Multi_team_vs.jpg "Team VS interface")
 
-`Team Vs` pits two teams, Blue and Red, against each other.
+`Team VS` pits two teams, Blue and Red, against each other.
 
 Blue is on the left and Red is on the right. A crown at the centre moves left and right to show which team is currently winning.
 
@@ -322,7 +322,7 @@ Changing teams can be done while in the lobby. There is no handicap for teams wi
 
 ##### Result
 
-![](img/Multi_team_grade.jpg "Team Vs results screen")
+![](img/Multi_team_grade.jpg "Team VS results screen")
 
 The winning team is announced at the top of the results screen.
 
@@ -330,17 +330,17 @@ Only players who are alive by the end of the match count towards their teams' to
 
 The panels to the sides the show results for each player in different tabs. The `Total` tab shows the total count of [judgements](/wiki/Gameplay/Judgement) for both teams and their average accuracy.
 
-#### Tag Coop / Tag Team Vs
+#### Tag co-op / Tag-team VS
 
 ##### Interface
 
 *Note: This team mode is unranked and only available in osu! mode.*
 
-![](img/Multi_tag_co-op.jpg "Tag Coop interface")
+![](img/Multi_tag_co-op.jpg "Tag co-op interface")
 
-![](img/Multi_tag_team_vs.jpg "Tag Team Vs interface")
+![](img/Multi_tag_team_vs.jpg "Tag-team VS interface")
 
-`Tag Coop` makes all players in the match work together to pass the beatmap, one combo at a time. `Tag Team Vs` is just `Tag Coop` but with two teams playing against each other.
+`Tag co-op` makes all players in the match work together to pass the beatmap, one combo at a time. `Tag-team VS` is just `Tag co-op` but with two teams playing against each other.
 
 In this mode, the players' slot placement in the lobby determines the order they play in.
 
@@ -350,21 +350,21 @@ All players must spin the spinner, or the combo will break.
 
 If a player quits during the match, the game will play their part for them.
 
-All players share the same health bar. If it depletes completely, the match ends. In `Tag Team Vs`, each team has their own health bars, and losing all health will cause that team to lose.
+All players share the same health bar. If it depletes completely, the match ends. In `Tag-team VS`, each team has their own health bars, and losing all health will cause that team to lose.
 
 Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect) game modifier will cause the whole team to fail if they fail due to it.
 
 ##### Result
 
-![](img/Multi_co-op_grade.jpg "Team Coop results screen")
+![](img/Multi_co-op_grade.jpg "Tag co-op results screen")
 
-![](img/Multi_tag_team_grade.jpg "Tag Team Vs results screen")
+![](img/Multi_tag_team_grade.jpg "Tag-team VS results screen")
 
-No ranked score or performance points are awarded for `Tag Coop` or `Tag Team Vs` matches.
+No ranked score or performance points are awarded for `Tag co-op` or `Tag-team VS` matches.
 
-For `Tag Coop`, the result shown is the total score, the [judgements](/wiki/Gameplay/Judgement) and accuracy of the team. Individual results are not shown, and can only be seen in the match history. The result screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
+For `Tag co-op`, the result shown is the total score, the [judgements](/wiki/Gameplay/Judgement) and accuracy of the team. Individual results are not shown, and can only be seen in the match history. The result screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
 
-For `Tag Team Vs` results screen, refer to `Tag Team Vs`'s [result screen explanation](#team-vs).
+For `Tag-team VS` results screen, refer to `Tag-team VS`'s [result screen explanation](#team-vs).
 
 ## Trivia
 
