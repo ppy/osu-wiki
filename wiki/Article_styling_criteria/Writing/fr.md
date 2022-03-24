@@ -248,7 +248,7 @@ Ces mots doivent être orthographiés comme suit (l'espacement doit correspondre
 
 Certains mots ont des variantes. Leur orthographe préférée doit être utilisée et est la suivante :
 
-- `créateur` ou `mappeur` au lieu de `beatmapper`.
+- `créateur` ou `mappeur` au lieu de `beatmappeur`.
 - `mappé(e)` au lieu de `beatmappé(e)`.
 - `BN` ou `Beatmap Nominators` lorsqu'il s'agit des *Beatmap Nominators*.
 
