@@ -290,13 +290,13 @@ Dieser Wettbewerb ist zu Ende gegangen und hat die folgenden Podiumsplätze erge
 
 Samstag, 7. Dezember 2013:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | **Südkorea** ![][flag_KR] | **6** | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/3233030) |
 
 Sonntag, 8. Dezember 2013:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | Vereinigtes Königreich ![][flag_GB] | 1 | **6** | ![][flag_PL] **Polen** | [#1](https://osu.ppy.sh/community/matches/3272199) |
 
@@ -304,7 +304,7 @@ Sonntag, 8. Dezember 2013:
 
 Samstag, 30. November 2013:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | **Südkorea** ![][flag_KR] | **6** | 1 | ![][flag_GB] Vereinigtes Königreich | [#1](https://osu.ppy.sh/community/matches/3088440) |
 | **Taiwan** ![][flag_TW] | **6** | 0 | ![][flag_PL] Polen | [#1](https://osu.ppy.sh/community/matches/3091169) |
@@ -313,7 +313,7 @@ Samstag, 30. November 2013:
 
 Sonntag, 24. November 2013:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | Japan ![][flag_JP] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/2962477) |
 | **Südkorea** ![][flag_KR] | **5** | 2 | ![][flag_AT] Österreich | [#1](https://osu.ppy.sh/community/matches/2964278) |
@@ -324,7 +324,7 @@ Sonntag, 24. November 2013:
 
 Samstag, 16. November 2013:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | **Südkorea** ![][flag_KR] | **5** | 0 | ![][flag_RU] Russische Föderation | [#1](https://osu.ppy.sh/community/matches/2778204) |
 | Hongkong ![][flag_HK] | 3 | **5** | ![][flag_DE] **Deutschland** | [#1](https://osu.ppy.sh/community/matches/2780657) |
@@ -332,7 +332,7 @@ Samstag, 16. November 2013:
 
 Sonntag, 17. November 2013:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 2 | ![][flag_US] Vereinigte Staaten | [#1](https://osu.ppy.sh/community/matches/2805329) |
 | **Japan** ![][flag_JP] | **5** | 1 | ![][flag_NL] Niederlande | [#1](https://osu.ppy.sh/community/matches/2811659) |
@@ -344,7 +344,7 @@ Sonntag, 17. November 2013:
 
 Freitag, 8. November 2013:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_ID] Indonesien | [#1](https://osu.ppy.sh/community/matches/2581408) |
 | **Polen** ![][flag_PL] | **4** | 0 | ![][flag_RU] Russische Föderation | [#1](https://osu.ppy.sh/community/matches/2587307) |
@@ -355,7 +355,7 @@ Freitag, 8. November 2013:
 
 Samstag, 9. November 2013:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | **Indonesien** ![][flag_ID] | **4** | 0 | ![][flag_VE] Venezuela | [#1](https://osu.ppy.sh/community/matches/2597698) |
 | **Japan** ![][flag_JP] | **4** | 1 | ![][flag_CA] Kanada | [#1](https://osu.ppy.sh/community/matches/2598602) |
@@ -379,7 +379,7 @@ Samstag, 9. November 2013:
 
 Sonntag, 10. November 2013:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | **Thailand** ![][flag_TH] | **4** | 0 | ![][flag_SG] Singapur | [#1](https://osu.ppy.sh/community/matches/2644383) |
 | **China** ![][flag_CN] | **4** | 1 | ![][flag_PH] Philippinen | [#1](https://osu.ppy.sh/community/matches/2642702), [#2](https://osu.ppy.sh/community/matches/2644022), [#3](https://osu.ppy.sh/community/matches/2644544) |
