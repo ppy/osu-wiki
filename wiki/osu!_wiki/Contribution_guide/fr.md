@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
----
-
 # Guide de contribution au osu! wiki
 
 Merci de votre intérêt à vouloir rendre le osu! wiki meilleur ! Cet article couvre le processus de contribution étape par étape. Si vous êtes familier avec GitHub, n'hésitez pas à suivre le feature-branch workflow pour proposer des changements et passez directement à la section concernant le [self-check](#self-check).
@@ -37,11 +32,10 @@ Lorsque vous avez terminé la review, prenez le temps de relire votre travail. P
 
 - **Le ton de la prestation** : les articles du osu! wiki, à de rares exceptions près, doivent être rédigés dans un registre neutre.
 - **Le style et la grammaire** : les articles doivent être clairs, compréhensibles et ne demander aucun effort mental important au lecteur. Soyez cohérent et évitez les phrases trop compliquées ou abruptes. Utilisez des éditeurs dotés de correcteurs orthographiques intégrés, tels que [Google Docs](https://docs.google.com), pour mettre en évidence les fautes de frappe et les erreurs grammaticales ou syntaxiques.
-- **[La parité de contenu](/wiki/Article_styling_criteria/Formatting#parité-de-contenu)** : les traductions doivent contenir les mêmes informations que les articles originaux (des différences de ponctuation, de formulation ou de formatage sont évidemment attendues). Au lieu de modifier le contenu de la traduction, [ouvrez un issue](https://github.com/ppy/osu-wiki/issues/new) ou une demande de modification supplémentaire pour l'original si vous estimez qu'il est incomplet, inexact ou obsolète.
+- **[La parité de contenu](/wiki/Article_styling_criteria/Writing#parité-de-contenu)** : les traductions doivent contenir les mêmes informations que les articles originaux (des différences de ponctuation, de formulation ou de formatage sont évidemment attendues). Au lieu de modifier le contenu de la traduction, [ouvrez un issue](https://github.com/ppy/osu-wiki/issues/new) ou une demande de modification supplémentaire pour l'original si vous estimez qu'il est incomplet, inexact ou obsolète.
 - **Structure et mise en forme** : prévisualisez votre article à l'aide d'un outil tel que [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) pour vous assurer qu'il se présente exactement comme vous le souhaitiez.
 - **Toutes les images et autres fichiers non textuels** doivent être [inférieurs à 1 mégaoctet](/wiki/Article_styling_criteria/Formatting#taille-du-fichier). **Les captures d'écran** doivent utiliser le skin d'osu! par défaut et les [paramètres spécifiques](/wiki/Article_styling_criteria/Formatting#captures-d'écran-de-gameplay), y compris les dimensions maximales de 1280×720.
-
-Pour une liste complète des règles, lisez les [critères de mise en forme des articles](/wiki/Article_styling_criteria).
+Pour des normes de rédaction et de formatage plus spécifiques, veuillez vous référer aux [critères de mise en forme des articles](/wiki/Article_styling_criteria). Il n'est pas recommandé de le lire en une seule fois, un reviewer vous indiquera probablement si quelque chose doit-être corrigé dans un sens ou dans l'autre.
 
 ## Pull request
 
