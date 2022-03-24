@@ -16,13 +16,9 @@ The osu!supporter tag may be obtained from the [osu!supporter store page](https:
 
 ### Heart badge
 
-::: Infobox
 ![](img/userpage.png?1 "Profile with osu!supporter")
-:::
 
-::: Infobox
 ![](img/usercard.png?2 "User card with osu!supporter")
-:::
 
 Supporters get a badge with hearts on it, usually found next to their username on the website. The amount of hearts depends on the duration of osu!supporter the user has acquired or received in total<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
 
@@ -32,9 +28,7 @@ Supporters get a badge with hearts on it, usually found next to their username o
 
 ### Username colour
 
-::: Infobox
 ![](img/chat.png "A person with osu!supporter in the chat")
-:::
 
 Usernames of active supporters appear bright yellow in [chat](/wiki/Client/Interface/Chat_console) for other users.
 
@@ -106,9 +100,7 @@ For details, see [Skinning/Interface § Main menu](/wiki/Skinning/Interface#main
 
 ### Extended search
 
-::: Infobox
 ![](img/beatmap-search.png "Beatmap search page on the website, with two new filters at the bottom")
-:::
 
 Supporters have access to an extended set of [beatmap search](https://osu.ppy.sh/beatmapsets) filters:
 
@@ -117,17 +109,13 @@ Supporters have access to an extended set of [beatmap search](https://osu.ppy.sh
 
 ## Remaining duration
 
-::: Infobox
 ![](img/status.jpg?1 "Three months of osu!supporter left")
-:::
 
 The remaining osu!supporter duration, as well as total amount of contributions, tag purchases, and gifts, is available at the top of the [osu!supporter promo page](https://osu.ppy.sh/home/support).
 
 ## Getting osu!supporter
 
-::: Infobox
 ![](img/store-product.jpg?2 "osu!supporter product banner from the osu!store")
-:::
 
 To get osu!supporter, visit the [osu!supporter store page](https://osu.ppy.sh/store/products/supporter-tag) and adjust the supporter tag duration using the slider, or the buttons with the number of months underneath. All prices are in United States dollars (USD) and don't include possible fees of the payment system.
 
