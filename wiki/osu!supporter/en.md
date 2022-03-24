@@ -59,7 +59,7 @@ Once osu!supporter expires, the cover will be replaced with a standard one.
 
 ### One free username change
 
-*Note: minor name changes may be requested from the account support team for free—see [Account § Can I change my account's username?](/wiki/Help_centre/Account#name-changes)*
+*Note: Minor name changes may be requested from the account support team for free—see [Help centre/Account § Can I change my account's username?](/wiki/Help_centre/Account#name-changes).*
 
 Getting osu!supporter comes with the ability to change usernames for free for the first time, under [usual conditions](/wiki/Help_centre/Account#name-changes).
 
@@ -69,7 +69,7 @@ osu!direct is the in-game beatmap search and download engine available to suppor
 
 - Beatmap links in chat, which point to beatmaps on the osu! website, now trigger the download prompt in-game
 - Automatic beatmap downloads while playing in a [multiplayer](/wiki/Gameplay/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
-- Players with osu!supporter may opt-in to automatically linking the beatmap they are currently playing in the `#spectator` chat tab.
+- Automatic linking of currently played beatmaps in the `#spectator` chat tab for spectators, as an [opt-out setting](/wiki/Client/Options#online)
 
 ### Extended leaderboards
 
@@ -85,7 +85,7 @@ osu! offers more relaxed limits on various online features to supporters:
 
 | Value | Regular limit | osu!supporter limit |
 | :-- | :-: | :-: |
-| [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending) beatmaps | `4 + min(ranked beatmaps, 2)` | `8 + min(ranked beatmaps, 4)` |
+| [Pending beatmaps](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(ranked beatmaps, 2)` | `8 + min(ranked beatmaps, 4)` |
 | Online beatmap favourites | 100 | 1000 |
 | Friend count | 250 | 500 |
 
@@ -118,7 +118,7 @@ Supporters have access to an extended set of [beatmap search](https://osu.ppy.sh
 ## Remaining duration
 
 ::: Infobox
-![](img/status.jpg?1 "Three months of osu!supporter left ")
+![](img/status.jpg?1 "Three months of osu!supporter left")
 :::
 
 The remaining osu!supporter duration, as well as total amount of contributions, tag purchases, and gifts, is available at the top of the [osu!supporter promo page](https://osu.ppy.sh/home/support).
