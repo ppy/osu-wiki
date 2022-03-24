@@ -42,7 +42,7 @@ Setelah transaksi selesai, bagian Aktivitas Terkini di akun Anda (jika Anda memb
 
 ![Halaman pengguna pemilik osu!supporter](img/userpage.png?1 "Halaman pengguna pemilik osu!supporter")
 
-![Kartu pengguna pemilik osu!supporter](img/usercard.png?1 "Kartu pengguna pemilik osu!supporter")
+![Kartu pengguna pemilik osu!supporter](img/usercard.png?2 "Kartu pengguna pemilik osu!supporter")
 
 Di web osu!, lencana osu!supporter dapat ditemukan di sebelah avatar pengguna dan di kartu pengguna di samping bendera negara Anda.
 

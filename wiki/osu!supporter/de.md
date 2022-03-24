@@ -42,7 +42,7 @@ Nachdem die Transaktion abgeschlossen ist, wird in deinem Account (wenn du es f�
 
 ![Benutzerseite mit osu!supporter](img/userpage.png?1 "Benutzerseite mit osu!supporter")
 
-![Benutzerkarte mit osu!supporter](img/usercard.png?1 "Benutzerkarte mit osu!supporter")
+![Benutzerkarte mit osu!supporter](img/usercard.png?2 "Benutzerkarte mit osu!supporter")
 
 Im osu!web befindet sich das osu!supporter Abzeichen neben dem Benutzeravatar und in der Benutzerkarte neben der Landesflagge.
 Das osu!supporter Abzeichen ändert sich, je nachdem, wie lange du das Spiel unterstützt hast. Wenn du das Spiel weniger als 1 Jahr lang unterstützt, erhältst du 1 Herz; für 1–5 Jahre erhältst du 2 Herzen; und für mehr als 5 Jahre erhältst du 3 Herzen.

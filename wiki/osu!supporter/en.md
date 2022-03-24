@@ -21,7 +21,7 @@ The osu!supporter tag may be obtained from the [osu!supporter store page](https:
 :::
 
 ::: Infobox
-![](img/usercard.png?1 "User card with osu!supporter")
+![](img/usercard.png?2 "User card with osu!supporter")
 :::
 
 Supporters get a badge with hearts on it, usually found next to their username on the website. The amount of hearts depends on the duration of osu!supporter the user has acquired or received in total<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
@@ -126,7 +126,7 @@ The remaining osu!supporter duration, as well as total amount of contributions, 
 ## Getting osu!supporter
 
 ::: Infobox
-![](img/store-product.jpg?1 "osu!supporter product banner from the osu!store")
+![](img/store-product.jpg?2 "osu!supporter product banner from the osu!store")
 :::
 
 To get osu!supporter, visit the [osu!supporter store page](https://osu.ppy.sh/store/products/supporter-tag) and adjust the supporter tag duration using the slider, or the buttons with the number of months underneath. All prices are in United States dollars (USD) and don't include possible fees of the payment system.

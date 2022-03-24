@@ -42,7 +42,7 @@ Une fois la transaction terminée, la section Activité récente de votre compte
 
 ![Page utilisateur avec osu!supporter](img/userpage.png?1 "Page utilisateur avec osu!supporter")
 
-![Carte utilisateur avec osu!supporter](img/usercard.png?1 "Page utilisateur avec osu!supporter")
+![Carte utilisateur avec osu!supporter](img/usercard.png?2 "Page utilisateur avec osu!supporter")
 
 Sur osu! Web, le badge osu! Supporter se trouve à côté de l'avatar de l'utilisateur et dans la carte de l'utilisateur à côté du drapeau de votre pays.
 
