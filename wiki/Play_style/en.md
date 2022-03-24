@@ -6,9 +6,9 @@ This page will detail the various ways in which players can choose to play in th
 
 ### Mouse-only
 
-Mouse-only was once the *only* way to play osu! until other playing methods were supported over time.
-
 Also known as *pure-mouse*, mouse-only players navigate the in-game cursor with a mouse while tapping beats, following sliders, and spinning spinners with only clicking the left and right mouse buttons.
+
+Mouse-only used to be the *only* way to play osu! until other playing methods were supported over time.
 
 The play style is widely considered to be the hardest method to play with and mouse-only players who rank high in the overall rankings are usually greatly respected by the community.
 
@@ -101,7 +101,7 @@ A taiko controller is the default play style and controller for the [Taiko no Ta
 
 Players who use a Taiko controller carry a Taiko/drum stick in each hand and hit the centre (Red) or rim of the drum (Blue) to register the note based on where it is hit.
 
-*Notice: Most Taiko controllers connect to the computer by using a Bluetooth connector should there be no USB connector. Though this may increase latency.*
+*Notice: Most Taiko controllers connect to the computer by using a Bluetooth connector should there be no USB connector, though this may increase latency.*
 
 ### Other styles
 
@@ -169,5 +169,5 @@ Another drawback is that osu!mania maps may have been designed without dance gam
 
 ### Other styles
 
-- **Guitar/Drum set** (5/6K): The default controller for the guitar-themed ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed ([Drummania](https://wikipedia.org/wiki/Drum_Mania)) rhythm game. Players stream on their guitar/hit the drum or cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
+- **Guitar/Drum set** (5/6K): The default controller for the guitar-themed ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed ([DrumMania](https://en.wikipedia.org/wiki/GuitarFreaks_and_DrumMania)) rhythm game. Players stream on their guitar or hit the drums and cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
 - **Para Para controller** (5K): This is the default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitivity of the input receiver and the player's physical limitation.
