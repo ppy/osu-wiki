@@ -1,16 +1,16 @@
 # Turniere
 
-Dieser Bereich ist für osu! Turniere bestimmt. Turniere haben ihr eigenes Forum, das man [über diesen Link](https://osu.ppy.sh/community/forums/55) finden kann.
+Dieser Bereich ist für osu!-Turniere bestimmt. Turniere haben ihr eigenes Forum, das man [über diesen Link](https://osu.ppy.sh/community/forums/55) finden kann.
 
 Bitte besuche die Seite [Offizielle Turnierunterstützung](/wiki/Tournaments/Official_support), um zu erfahren, wie du offizielle Unterstützung für dein Turnier beantragen kannst (Abzeichen, Prüfverfahren usw.).
 
 ## Offizielle World Cups
 
-Offizielle Turniere, die vom osu! Team organisiert werden.
+Offizielle Turniere, die vom osu!-Team organisiert werden.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelausscheidungsregel. Es handelt sich um ein internationales Event, das in der Regel jährlich stattfindet, wobei die osu! Communities auf der ganzen Welt zusammenarbeiten, um ein Turnier mit kompetitivem Charakter zu veranstalten.
+Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelausscheidungsregel. Es handelt sich um ein internationales Event, das in der Regel jährlich stattfindet, wobei die osu!-Communities auf der ganzen Welt zusammenarbeiten, um ein Turnier mit kompetitivem Charakter zu veranstalten.
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -80,7 +80,7 @@ Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelaussch
 
 ## Community
 
-Nicht offizielle Turniere/ Wettkämpfe, die von den Communities veranstaltet werden.
+Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werden.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
