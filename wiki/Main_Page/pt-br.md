@@ -2,8 +2,8 @@
 layout: main_page
 ---
 
-<div class="wiki-main-page__blurb">   
-Bem-vindo ao osu! wiki, uma base de conhecimento de código abeto que contém uma ampla gama de informação relacionada a osu!, um jogo de ritmo gratuito.   
+<div class="wiki-main-page__blurb">
+Bem-vindo ao osu! wiki, uma base de conhecimento de código abeto que contém uma ampla gama de informação relacionada a osu!, um jogo de ritmo gratuito.
 </div>
 
 <div class="wiki-main-page__panels">
