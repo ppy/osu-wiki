@@ -464,7 +464,7 @@ Sonntag, 10. November 2013:
 2. Der Schiedsrichter wird dem Raum extern beitreten und mit Hilfe des Multi-Spectator Clients die Partie verfolgen.
 3. Den Spielern steht es frei eine Beatmap für die Aufwärmphase zu spielen.
 4. Die Beatmapauswahl erfolgt abwechselnd durch jeden Kapitän, der eine Beatmap aus dem Beatmappool auswählt. Jeder Kapitän muss einmal `!roll` in `#multiplayer` verwenden, um zu bestimmen, welches Team zuerst wählt.
-   - Die Kapitäne können frei nach Belieben eine Beatmap aus dem NoMod Sapel auswählen.
+   - Die Kapitäne können frei nach Belieben eine Beatmap aus dem NoMod Stapel auswählen.
    - Die Auswahl aus dem mod-spezifischen Stapeln ist limitiert. Jeder Kapitän darf eine mod-spezifische Beatmap aus dem jeweiligen Stapel während der Partie auswählen.
      - In der K.-o.-Runde kann auf den FreeMod-Stapel frei zugegriffen werden.
    - Im Falle eines Unentschiedens, muss die Tiebreaker-Beatmap gespielt werden.
