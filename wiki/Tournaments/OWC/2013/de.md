@@ -15,7 +15,7 @@ Der **osu! World Cup 2013** (***OWC 2013***) war ein länderbasiertes osu!-Turni
 | Event | Zeitpunkt |
 | :-- | :-- |
 | Registrierungsphase | 15.-28. Okt. 2013 |
-| Live Ziehungen | 31. Okt. 2013 (16:00 UTC) |
+| Live-Auslosung | 31. Okt. 2013 (16:00 UTC) |
 | Gruppenphase | 08.-10. Nov. 2013 |
 | Achtelfinale | 16.-17. Nov. 2013 |
 | Viertelfinale | 24. Nov. 2013 |
@@ -412,18 +412,18 @@ Sonntag, 10. November 2013:
    - Es wird auch einen [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) und FreeMod Stapel geben.
 3. Die Zeiten der Partien werden vom Turnier-Management festgelegt (siehe unten).
 4. Wenn kein Schiedsrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
-5. Die Ergebnisse von wiederbelebten Spielern wird zum Teamergebnis mit angerechnet.
+5. Die Ergebnisse von wiederbelebten Spielern werden zum Teamergebnis mit angerechnet.
 6. Das Benutzen der [visuellen Einstellungen](/wiki/Client/Interface/Visual_settings) ist erlaubt.
 7. Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 8. Wenn ein Spieler die Verbindung verlieren sollte, wird das Ergebnis als nichtig erklärt. Dies kann bis zu 2-mal passieren. Der Spieler, der die Verbindung zum 3. Mal verlieren sollte, wird so gehandhabt, als hätte er die Partie absichtlich verlassen.
 9. Beatmaps können nicht mehrmals in einer Partie gespielt werden, es sei denn, das vorherige Ergebnis derselben Beatmap war nichtig.
-   - Wenn die Server während der Partie instabil laufen sollten, wird das Turnier Management die Partie verschieben.
+   - Wenn die Server während der Partie instabil laufen sollten, wird das Turnier-Management die Partie verschieben.
 10. Wenn weniger als 4 Spieler eines Teams anwesend sind, kann die Partie um maximal 10 Minuten verschoben werden.
 11. Das Austauschen von Spielern während der Partie ist erlaubt.
-    - Sie können einen Spieler pro Beatmap austauschen.
-12. Lag ist kein gültiger Grund, um das Ergebnis einer Beatmap zu nichtigen.
-13. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg bei 4:0 und +2.5 Score Difference Ratio.
-14. Unerwartete Vorkommnisse werden vom Turnier Management behandelt.
+    - Du kannst einen Spieler pro Beatmap austauschen.
+12. Lag ist kein gültiger Grund, um das Ergebnis einer Beatmap zu annullieren.
+13. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg bei 4:0 und +2,5 Score-Unterschiedsverhältnis angesehen.
+14. Unerwartete Vorkommnisse werden vom Turnier-Management behandelt. Die Entscheidung eines Schiedrichters kann vom Turnier-Management überschrieben werden.
 15. Jede Veränderung an den Regeln wird bekannt gegeben.
 
 ### Turnierregistrierung
@@ -434,9 +434,9 @@ Sonntag, 10. November 2013:
 2. Jedes Team representiert eine Nation. Es muss ein Team mit Spielern aus demselben Land zusammengestellt werden.
 3. Für die Teamanmeldungen [musst du dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizierst du  deine Registrierung, in dem du [eine persönliche Nachricht an Loctav schickst](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
    - Kapitäne können ihre Aufstellung durch [das Benachrichtigen an das Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
-4. Jede Registrierung und Änderung wird vom Turnier Management überprüft, bevor sie akzeptiert und zur Liste der Teilnehmer hinzugefügt wird.
+4. Jede Registrierung und Änderung wird vom Turnier-Management überprüft, bevor sie akzeptiert und zur Liste der Teilnehmer hinzugefügt wird.
 5. Die maximale Anzahl an Teams liegt bei 32. Wer zuerst kommt, mahlt zuerst.
-6. Map Wähler dürfen nicht am Turnier als Spieler teilnehmen.
+6. Beatmap-Wähler dürfen nicht am Turnier als Spieler teilnehmen.
 
 ### Etappenanweisungen
 
@@ -451,8 +451,8 @@ Sonntag, 10. November 2013:
 4. Die besten 2 Teams in der Gruppe kommen in die K.-o.-Runde.
 5. Die folgenden Runden sind K.-o.-Runde. Dies bedeutet, dass der Gewinner normal in die nächste Runde kommt und das andere Team aus dem Turnier ausscheidet.
 6. **Bedingungen, um zu gewinnen:**
-   - In der Gruppenphase benötigen Sie 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
-   - Im Achtel- und Viertelfinale benötigen Sie 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
+   - In der Gruppenphase benötigst du 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
+   - Im Achtel- und Viertelfinale benötigst du 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
    - Im Halbfinale und im Finale benötigen 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
 
 ### Partieanweisungen
