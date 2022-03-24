@@ -46,6 +46,7 @@ The following content is separated into sections, indicated by section titles in
 | `SamplesMatchPlaybackRate` | 0 or 1 | Whether or not sound samples will change rate when playing with speed-changing [mods](/wiki/Game_modifier) | `0` |
 
 Notice:
+
 `Countdown`
 
 > Possible values:
@@ -120,8 +121,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 ## \[Events\]
 
-Parameters:
-`event_type,start_time,event_params`
+Parameters: `event_type,start_time,event_params`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
@@ -130,6 +130,7 @@ Parameters:
 | `event_params` | Comma-separated list | Extra parameters specific to the event type |
 
 Notice:
+
 `event_type`
 
 > Some events may be referred to by either a name or a number.
@@ -140,8 +141,7 @@ Notice:
 
 ### Background image
 
-Parameters:
-`event_type,start_time,filename,x_offset,y_offset`
+Parameters: `event_type,start_time,filename,x_offset,y_offset`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
@@ -152,11 +152,13 @@ Parameters:
 | `y_offset` | Integer | Y-axis offset by the specified number of pixels from the center of the screen |
 
 Examples:
+
 `0,0,folder/bg.jpg`
 
 `0,0,"super_bg.jpg",50,100`
 
 Notice:
+
 `filename`
 
 > Double quotes are usually included surrounding the filename, but they are not required.
@@ -167,8 +169,7 @@ Notice:
 
 ### Video
 
-Parameters:
-`event_type,start_time,filename,x_offset,y_offset`
+Parameters: `event_type,start_time,filename,x_offset,y_offset`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
@@ -179,11 +180,13 @@ Parameters:
 | `y_offset` | Integer | Y-axis offset by the specified number of pixels from the center of the screen |
 
 Examples:
+
 `1,0,folder/video.mp4`
 
 `Video,0,"super_video.mp4",50,100`
 
 Notice:
+
 `filename`
 
 > Double quotes are usually included surrounding the filename, but they are not required.
@@ -194,8 +197,7 @@ Notice:
 
 ### Break
 
-Parameters:
-`event_type,start_time,end_time`
+Parameters: `event_type,start_time,end_time`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
@@ -204,6 +206,7 @@ Parameters:
 | `end_time` | Integer | Time in milliseconds when the break should end |
 
 Examples:
+
 `2,1000,2500`
 
 `Break,750,2250`
@@ -221,8 +224,7 @@ Each beatmap may contain its own difficulty-specific storyboard, either in conju
 
 Each timing point influences a specified portion of the map, commonly called a "timing section". The `.osu` file format requires these to be sorted in chronological order.
 
-Parameters:
-`start_time,beat_length,meter,sample_set,sample_index,volume,uninherited,effects`
+Parameters: `start_time,beat_length,meter,sample_set,sample_index,volume,uninherited,effects`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
@@ -236,11 +238,13 @@ Parameters:
 | `effects` | Integer | Bit flags that give the timing point extra effects |
 
 Examples:
+
 `10000,333.33,4,0,0,100,1,1`
 
 `12000,250,4,3,0,70,0,1`
 
 Notice:
+
 `start_time`
 
 > The end of the timing section is the next timing point's time or never, if this is the last timing point.
@@ -283,8 +287,7 @@ Notice:
 
 All options in this section represent colours. They are comma-separated triplets of integers 0–255, representing the red, green, and blue components of the colours.
 
-Parameters:
-`colour_type : colour`
+Parameters: `colour_type : colour`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
@@ -292,14 +295,14 @@ Parameters:
 | `colour` | Comma-separated triplets of integers | Colour from the RGB palette |
 
 Notice:
+
 `colour`
 
 > Each integer from `colour` must be in the range (0-255).
 
 ### Combo colour
 
-Parameters:
-`Combo# : colour`
+Parameters: `Combo# : colour`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
@@ -307,42 +310,42 @@ Parameters:
 | `colour` | Comma-separated triplets of integers | Colour from the RGB palette |
 
 Examples:
+
 `Combo1 : 255,255,255`
 
 `Combo2 : 64,128,128`
 
 ### Slider body colour
 
-Parameters:
-`SliderTrackOverride : colour`
+Parameters: `SliderTrackOverride : colour`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
 | `colour` | Comma-separated triplets of integers | Colour from the RGB palette |
 
 Examples:
+
 `SliderTrackOverride : 255,255,255`
 
 `SliderTrackOverride : 64,128,128`
 
 ### Slider border colour
 
-Parameters:
-`SliderBorder : colour`
+Parameters: `SliderBorder : colour`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
 | `colour` | Comma-separated triplets of integers | Colour from the RGB palette |
 
 Examples:
+
 `SliderBorder : 255,255,255`
 
 `SliderBorder : 64,128,128`
 
 ## \[HitObjects\]
 
-Parameters:
-`x,y,start_time,object_type,hit_sound,object_params,hit_sample`
+Parameters: `x,y,start_time,object_type,hit_sound,object_params,hit_sample`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
@@ -355,6 +358,7 @@ Parameters:
 | `hit_sample` | Colon-separated list | Information about which samples are played when the object is hit |
 
 Notice:
+
 `object_type`
 
 > Hit object types are stored in an 8-bit integer where each bit is a flag with special meaning. The base hit object type is given by bits:
@@ -388,8 +392,7 @@ Notice:
 
 > Using this field, you can additionally adjust the sounds being played. `0:0:0:0:` is used by default, if not specified. Closely related to `hit_sound`
 >
-> Parameters:
-> `normal_set:addition_set:index:volume:filename`
+> Parameters: `normal_set:addition_set:index:volume:filename`
 >
 > | Option | Value type | Description |
 > | :-- | :-- | :-- |
@@ -428,8 +431,7 @@ Notice:
 
 ### Hit circle
 
-Parameters:
-`x,y,start_time,object_type,hit_sound,hit_sample`
+Parameters: `x,y,start_time,object_type,hit_sound,hit_sample`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
@@ -441,14 +443,14 @@ Parameters:
 | `hit_sample` | Colon-separated list | Information about which samples are played when the object is hit |
 
 Examples:
+
 `104,59,35660,1,0,0:0:0:0:`
 
 `96,52,1279,5,0,0:0:0:0:`
 
 ### Slider
 
-Parameters:
-`x,y,start_time,object_type,hit_sound,curve_type|curve_points,slides,length,edge_sounds,edge_sets,hit_sample`
+Parameters: `x,y,start_time,object_type,hit_sound,curve_type|curve_points,slides,length,edge_sounds,edge_sets,hit_sample`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
@@ -466,11 +468,13 @@ Parameters:
 | `hit_sample` | Colon-separated list | Information about which samples are played when the object is hit |
 
 Examples:
+
 `23,256,2608,2,0,L|34:151,1,105.000004005432,8|2,0:0|0:0,0:0:0:0:`
 
 `96,52,12600,6,1,B|200:200|250:200|250:200|300:150,2,310.123,2|1|2,0:0|0:0|0:2,0:0:0:0:`
 
 Notice:
+
 `curve_type`
 
 > There are four types of slider curves in osu!:
@@ -507,8 +511,7 @@ Notice:
 
 ### Spinner
 
-Parameters:
-`x,y,start_time,object_type,hit_sound,end_time,hit_sample`
+Parameters: `x,y,start_time,object_type,hit_sound,end_time,hit_sample`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
@@ -521,14 +524,14 @@ Parameters:
 | `hit_sample` | Colon-separated list | Information about which samples are played when the object is hit |
 
 Examples:
+
 `0,0,1250,8,0,3250,0:0:0:0:`
 
 `0,0,2750,12,2,5000,0:0:0:0:`
 
 ### Hold (osu!mania)
 
-Parameters:
-`x,y,start_time,object_type,hit_sound,end_time:hit_sample`
+Parameters: `x,y,start_time,object_type,hit_sound,end_time:hit_sample`
 
 | Option | Value type | Description |
 | :-- | :-- | :-- |
@@ -541,11 +544,13 @@ Parameters:
 | `hit_sample` | Colon-separated list | Information about which samples are played when the object is hit |
 
 Examples:
+
 `64,192,5891,128,8,7396:0:0:0:0:`
 
 `448,192,1279,128,2,3937:0:0:0:0:`
 
 Notice:
+
 `x`
 
 > Determines the index of the column that the hold will be in. It is computed by `floor(x * column_count / 512)` and clamped between `0` and `column_count - 1`.
