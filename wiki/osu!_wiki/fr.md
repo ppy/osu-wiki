@@ -36,8 +36,8 @@ Les articles sont composés selon les [critères de mise en forme d'article](/wi
 
 Bien que son nom contienne le suffixe *wiki*, le osu! wiki ne répond pas entièrement au [concept de wiki](https://fr.wikipedia.org/wiki/Wiki) :
 
-- Les utilisateurs sont encouragés à améliorer les articles existants et à en créer de nouveaux, mais une connaissance de base de [GitHub](https://github.com) est attendue, ce qui augmente le seuil nécessaire pour entrer.
-- Tous les changements apportés au osu! wiki sont prémodérés et font l'objet d'un processus d'examen, au cours duquel le contributeur doit collaborer avec les maintainers du wiki et répondre aux commentaires.
+- L'amélioration des articles existants ainsi que la création de nouveaux sont encouragés, mais une connaissance de base de [GitHub](https://github.com) nécessaire afin de contribuer, ce qui augmente le seuil nécessaire pour entrer. Le osu! wiki fourni toutefois un [guide de contribution](/wiki/osu!_wiki/Contribution_guide) afin d'aider les nouveaux contributeurs à commencer
+- Tous les changements apportés au osu! wiki sont pré-modérés et font l'objet d'un processus d'examen, au cours duquel le contributeur doit collaborer avec les reviewers et répondre aux commentaires.
 
 ## Licence
 
