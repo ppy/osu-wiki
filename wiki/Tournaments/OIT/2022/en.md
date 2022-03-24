@@ -98,6 +98,36 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ## Mappools
 
+### Finals (week 1)
+
+**[Download the mappack here! (118 MB)](http://drive.google.com/u/0/uc?id=143Jy13SwLOra2tkw4FYY5bCutFivYa4M&export=download)**
+
+- NoMod
+  1. [CON - Cruel Clocks (Meg) \[Cruel Extra\]](https://osu.ppy.sh/beatmapsets/1568793#osu/3203760)
+  2. [Ellim Gnirps vs yomi - SociuS (Chemo) \[Angeli\]](https://osu.ppy.sh/beatmapsets/1575605#osu/3216822)
+  3. [POLKADOT STINGRAY - Keshin (Keqing) \[Deceit\]](https://osu.ppy.sh/beatmapsets/1311266#osu/2717891)
+  4. [Getty vs. DJ DiA - Antifront Gears (Xavier Owens II) \[Break-action (edit)\]](https://osu.ppy.sh/beatmapsets/1712558#osu/3499390)
+  5. [MisomyL - Amnehilesie (Realazy) \[descente aux enfers\]](https://osu.ppy.sh/beatmapsets/1703921#osu/3481620)
+  6. [daisan - Deepsea Moonlight (YokesPai) \[Blurred Vision\]](https://osu.ppy.sh/beatmapsets/1375889#osu/2843881)  
+- Hidden
+  1. [Ito Kashitaro - Yuudachi no Ribbon (Yudragen) \[Flash of Eternity\]](https://osu.ppy.sh/beatmapsets/1383608#osu/2858218)
+  2. [Jakarta Funk Brothers - INSOMNIA (AJT) \[PandaHero's Extra\]](https://osu.ppy.sh/beatmapsets/1689665#osu/3457821)
+  3. [Marmalade butcher - Mirage Age (Gordon) \[Allice's Expert\]](https://osu.ppy.sh/beatmapsets/1624087#osu/3315941)  
+- HardRock
+  1. [rejection - Aimai Attitude (feat. Nakamura Sanso) (Garden) \[Girlish Extra ft. Regou\]](https://osu.ppy.sh/beatmapsets/1601852#osu/3271290)
+  2. [AKATSUKI - Hyakka Ryouran, Akatsukiyo (karaoke ver.) (Mafumafu) \[yf's Extra\]](https://osu.ppy.sh/beatmapsets/690763#osu/1678438)
+  3. [Naoki & Tatsh - Red Zone (Arbane) \[S P E E D R A V E\]](https://osu.ppy.sh/beatmapsets/498036#osu/1060078)  
+- DoubleTime
+  1. [FELT - Closed Wings (Naitoshi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/159760#osu/390146)
+  2. [xi - Parousia (Niva) \[Eschatology (AR8.5)\]](https://osu.ppy.sh/beatmapsets/1713530#osu/3501365)
+  3. [fripSide - black bullet (Luscent) \[extinction\]](https://osu.ppy.sh/beatmapsets/1586228#osu/3239862)
+  4. [Kanno Yugo - il vento d'oro (AirinCat) \[Insane Dream\]](https://osu.ppy.sh/beatmapsets/1250853#osu/2599601)  
+- FreeMod
+  1. [UNDEAD CORPORATION - Blow (Cellina) \[Collab Expert (osu! Indonesia Tournament 2022 Edit)\]](https://osu.ppy.sh/beatmapsets/1721338#osu/3517779)
+  2. [Annabel - lilac slumber (cosmic ver.) (PandaHero) \[fall\]](https://osu.ppy.sh/beatmapsets/1593278#osu/3254177)  
+- Tiebreaker
+  1. **[HISATOMI - lullaby (feat. KIRA) (uet Remix) (she luv lando) \[one more before i go...\]](https://osu.ppy.sh/beatmapsets/1513975#osu/3099626)**
+
 ### Semifinals
 
 **[Download the mappack here! (139 MB)](http://drive.google.com/u/0/uc?id=1jpF6xT8N0uDkqF_0ANUQfdprhKPIEO3A&export=download)**
@@ -230,6 +260,31 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [rerulili feat. Dancing Dolls - Kami no Manima Ni (Sephira) \[RLC's Insane\]](https://osu.ppy.sh/beatmapsets/1182518#osu/2465404)
 
 ## Match results
+
+### Semifinals
+
+Friday, 18 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Rexeez](https://osu.ppy.sh/users/1987591) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/98853253) |
+| Lower | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | *win by default* |
+
+Saturday, 19 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/98881603) |
+| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | [#1](https://osu.ppy.sh/community/matches/98883041) |
+| Lower | [rHO](https://osu.ppy.sh/users/1629553) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[D E L O N](https://osu.ppy.sh/users/11983229)** | *win by default* |
+
+Sunday, 20 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/98926983) |
+| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/98890786) |
+| Lower | [D E L O N](https://osu.ppy.sh/users/11983229) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/98930552) |
 
 ### Quarterfinals
 
