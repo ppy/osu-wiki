@@ -47,7 +47,7 @@ Bien que les branches soient techniquement facultatives, elles sont [fortement r
 
 1. Dans le dossier dans lequel vous avez cloné le dépôt, naviguez jusqu'au fichier que vous voulez modifier. Les articles sont organisés par les noms de dossiers qui sont les noms d'articles et les fichiers `.md` qui sont les locales.
 2. Une fois que vous avez trouvé le bon fichier, ouvrez-le en utilisant votre éditeur de texte préféré.
-3. Vous pouvez maintenant apporter vos modifications. Lorsque vous apportez des modifications, suivez les [Critères de mise en forme des articles](/wiki/Article_styling_criteria) aussi fidèlement que possible.
+3. Vous pouvez maintenant apporter vos modifications. Prenez un moment pour passer également en revue les [self-check](/wiki/osu!_wiki/Contribution_guide#self-check) aussi fidèlement que possible.
 4. Continuer vers [Commits et pushs](#commits-et-pushs).
 
 ### Déplacement de fichiers existants
