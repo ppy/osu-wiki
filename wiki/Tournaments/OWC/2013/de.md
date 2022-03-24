@@ -466,7 +466,7 @@ Sonntag, 10. November 2013:
 4. Die Mapauswahl erfolgt abwechselnd durch jeden Kapitän, der eine Map aus dem Mappool auswählt. Jeder Kapitän muss einmal `!roll` in `#multiplayer` verwenden, um zu bestimmen, welches Team zuerst wählt.
    - Die Kapitäne können frei nach Belieben eine Beatmap aus dem NoMod Sapel auswählen.
    - Die Auswahl aus dem mod-spezifischen Sapeln ist limitiert. Jeder Kapitän darf eine mod-spezifische Beatmap aus dem jeweiligen Sapel während der Partie auswählen.
-      - In der K.-o.-Runde kann auf den FreeMod Sapel frei zugegriffen werden.
+     - In der K.-o.-Runde kann auf den FreeMod Sapel frei zugegriffen werden.
    - Im Falle eines Unentschiedens, muss die Tiebreaker Map gespielt werden.
    - Die Kapitäne müssen dem Schiedsrichter mitteilen, welche Map gewählt wurde.
 5. Jeder Kapitän muss die Ergebnisse mit einem Screenshot abspeichern. Die Schiedsrichter werden den Kapitänen daran erinnern.
