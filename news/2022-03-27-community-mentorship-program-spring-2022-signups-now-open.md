@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Mentorship Program Spring 2022 Signups Now Open"
-date: 2022-27-03 08:00:00 +0000
+date: 2022-03-27 08:00:00 +0000
 ---
 
 The 21st cycle of the Community Mentorship program is on its way! In our program, you can immerse yourself in just about every facet of the mapping community.
