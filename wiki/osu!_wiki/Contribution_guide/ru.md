@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
----
-
 # Руководство по работе с osu! wiki
 
 Спасибо за интерес, проявленный к osu! wiki.
