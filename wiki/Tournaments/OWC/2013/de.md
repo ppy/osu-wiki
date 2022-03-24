@@ -428,13 +428,13 @@ Sonntag, 10. November 2013:
 
 ### Turnierregistrierung
 
-1. Ihr Team benötigt **mindestens 6 Spieler** zum Teilnehmen.
-   1. Die maximale Teamgröße ist 8.
-   2. Es muss ein Kapitän angegeben werden, der das Team representieren wird.
-2. Jedes Team representiert eine Nation. Sie müssen ein Team zusammenstellen mit Spieler aus demselben Land und daher dieselbe Flagge im Profil haben.
-3. Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
+1. Ein Team benötigt **mindestens 6 Spieler** zum Teilnehmen.
+   - Die maximale Teamgröße ist 8.
+   - Es muss ein Kapitän angegeben werden, der das Team representieren wird.
+2. Jedes Team representiert eine Nation. Es muss ein Team mit Spielern aus demselben Land zusammengestellt werden.
+3. Für die Teamanmeldungen [musst du dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizierst du  deine Registrierung, in dem du [eine persönliche Nachricht an Loctav schickst](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
    - Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
-4. Jede Registrierung und Änderung wird vom Turnier Management überprüft, bevor sie akzeptiert und zur Liste der Teilnehmer hinzugefügt werden.
+4. Jede Registrierung und Änderung wird vom Turnier Management überprüft, bevor sie akzeptiert und zur Liste der Teilnehmer hinzugefügt wird.
 5. Die maximale Anzahl an Teams liegt bei 32.
 6. Map Wähler dürfen nicht am Turnier als Spieler teilnehmen.
 
