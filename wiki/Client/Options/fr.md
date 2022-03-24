@@ -389,9 +389,9 @@ Cette section concerne les beatmaps et les mises à jour.
 
 | Nom | Description | Type |
 | :-- | :-- | :-- |
-| `Supprimer toutes les beatmaps non classées` | Supprime toutes les maps non classées dans votre dossier Songs. | Bouton |
+| `Supprimer toutes les beatmaps non classées` | Supprime toutes les beatmaps non classées dans votre dossier Songs. | Bouton |
 | `Restaurer les droits d'accès sur les dossiers` | Donne les droits de lecture/écriture au client du jeu pour accéder à ses dossiers. (Cette opération nécessite le mot de passe administrateur). | Bouton |
-| `Marquer toutes les beatmaps comme étant jouées` | Marque toutes les maps comme étant "jouées". | Bouton |
+| `Marquer toutes les beatmaps comme étant jouées` | Marque toutes les beatmaps comme étant "jouées". | Bouton |
 | `Lancer le logiciel de mise à jour` | Ferme le client et ouvre le dispositif de mise à jour pour rechercher les mises à jour et les télécharger le cas échéant. | Bouton |
 
 En bas, le numéro de la version s'affiche. En cliquant dessus, vous ouvrirez [le journal des modifications](/wiki/Glossary/Changelog) de cette version dans votre navigateur internet.
