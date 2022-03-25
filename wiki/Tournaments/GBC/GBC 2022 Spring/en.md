@@ -14,9 +14,7 @@ The **GB Cup 2022 Spring** (***MWC 4K 2021***) was a 1v1 individual-based osu!ma
 | --: | :-- |
 | Registration phase | 2022-03-26/2022-04-03 (23:59 UTC + 8) |
 | Qualifier showcase | 2022-04-04 (21:00 UTC + 8) |
-| Qualifier stage | 2022-04-09/2022-04-10 |
-| Round of 32 | 2022-04-16/2022-04-17 |
-| Round of 16 | 2022-04-23/2022-04-24 |
+| Qualifier stage | 2022-04-09/2022-04-24 |
 | Quarterfinals | 2022-04-30/2022-05-01 |
 | Semifinals | 2022-05-07/2022-05-08 |
 | Finals | 2021-05-14/2021-05-15 |
@@ -41,7 +39,9 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Mappool selector |  |
+| Staff | ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291),![][flag_CN] [IA Daisuki](https://osu.ppy.sh/users/11238501),![][flag_UK] [-Deepdive-](https://osu.ppy.sh/users/13338645) |
+| Mappool selector |![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14095291),![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561),![][flag_CN] [\[GB\]Yuria](https://osu.ppy.sh/users/13092888),![][flag_CN] [IA Daisuki](https://osu.ppy.sh/users/11238501) |
+| Mappool tester |![][flag_CN] [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771),![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334),![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831),![][flag_CN] [FleVI](https://osu.ppy.sh/users/12519616),![][flag_CN] [Takeru3](https://osu.ppy.sh/users/15188014),![][flag_CN] [_Yiiiiii](https://osu.ppy.sh/users/6066359),![][flag_CN] [rbqq](https://osu.ppy.sh/users/13747488/mania),![][flag_CN] [Seven_Nye](https://osu.ppy.sh/users/20886966),![][flag_CN] [aa219040](https://osu.ppy.sh/users/11653961),![][flag_CN] [DongDouFu](https://osu.ppy.sh/users/17621613) |
 | Referee |                                                              |
 | Streamer |                                                              |
 | Commentator |  |
