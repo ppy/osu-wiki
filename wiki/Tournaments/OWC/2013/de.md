@@ -451,9 +451,9 @@ Sonntag, 10. November 2013:
 4. Die besten 2 Teams in der Gruppe kommen in die K.-o.-Runde.
 5. Die folgenden Runden sind K.-o.-Runde. Dies bedeutet, dass der Gewinner normal in die nächste Runde kommt und das andere Team aus dem Turnier ausscheidet.
 6. **Bedingungen, um zu gewinnen:**
-   - In der Gruppenphase benötigst du 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
-   - Im Achtel- und Viertelfinale benötigst du 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
-   - Im Halbfinale und im Finale benötigen 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
+   - In der Gruppenphase benötigst du 4 gewonnene Beatmaps, um die Partie zu gewinnen. (Best-of-7)
+   - Im Achtel- und Viertelfinale benötigst du 5 gewonnene Beatmaps, um die Partie zu gewinnen. (Best-of-9)
+   - Im Halbfinale und im Finale benötigst du 6 gewonnene Beatmaps, um die Partie zu gewinnen. (Best-of-11)
 
 ### Partieanweisungen
 
@@ -464,7 +464,7 @@ Sonntag, 10. November 2013:
 2. Der Schiedsrichter wird dem Raum extern beitreten und mit Hilfe des Multi-Spectator Clients die Partie verfolgen.
 3. Den Spielern steht es frei eine Beatmap für die Aufwärmphase zu spielen.
 4. Die Beatmapauswahl erfolgt abwechselnd durch jeden Kapitän, der eine Beatmap aus dem Beatmappool auswählt. Jeder Kapitän muss einmal `!roll` in `#multiplayer` verwenden, um zu bestimmen, welches Team zuerst wählt.
-   - Die Kapitäne können frei nach Belieben eine Beatmap aus dem NoMod Stapel auswählen.
+   - Die Kapitäne können frei nach Belieben eine Beatmap aus dem NoMod-Stapel auswählen.
    - Die Auswahl aus dem mod-spezifischen Stapeln ist limitiert. Jeder Kapitän darf eine mod-spezifische Beatmap aus dem jeweiligen Stapel während der Partie auswählen.
      - In der K.-o.-Runde kann auf den FreeMod-Stapel frei zugegriffen werden.
    - Im Falle eines Unentschiedens, muss die Tiebreaker-Beatmap gespielt werden.
@@ -478,9 +478,9 @@ Sonntag, 10. November 2013:
 2. Jeder Mappool besteht aus 5 Stapeln: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) und FreeMod
 3. Jeder Mappool besteht aus 23 Maps.
 4. Jeder Mappool hat eine Tiebreaker-Beatmap.
-5. Der NoMod Stapel wird ohne aktive Mods gespielt.
-6. Der Hidden, HardRock und DoubleTime Stapel wird mit dem entsprechenden, aktivierten Mod gespielt.
-7. Der FreeMod Stapel schaltet den FreeMod frei. Jeder einzelne Spieler kann dann Hidden, HardRock, Flashlight oder mit gar keiner Mod spielen. Spieler dürfen mehr als eine Mod auswählen.
+5. Der NoMod-Stapel wird ohne aktive Mods gespielt.
+6. Der Hidden-, HardRock- und DoubleTime-Stapel wird mit der entsprechenden, aktivierten Mod gespielt.
+7. Der FreeMod-Stapel schaltet den FreeMod frei. Jeder einzelne Spieler kann dann Hidden, HardRock, Flashlight oder mit gar keiner Mod spielen. Spieler dürfen mehr als eine Mod auswählen.
 8. Die Tiebreaker-Beatmap wird mit denselben Bedingungen wie beim Freemod gespielt.
 9. Die Größe der NoMod-Stapel ist:
    - 10 Beatmaps in der Gruppenphase
