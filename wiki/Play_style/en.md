@@ -149,7 +149,7 @@ To dash, many players use one of the face buttons on their gamepad. Though, some
 
 Keyboard was once the *only* way to play osu!mania until other play methods was supported over time.
 
-To play with a keyboard, players would press down the keys respective to their placement on the in-game keyboard. By default these keys are `D` `F` `J` `K`. The advantage of this play-style is that it can accommodate to basically all the keys settings.
+To play with a keyboard, players would press down the keys respective to their placement on the in-game keyboard. By default these keys are `D`, `F`, `J`, and `K`. The advantage of this play style is that it can accommodate to basically all the keys settings.
 
 ### Arcade controller
 
