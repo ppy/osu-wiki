@@ -406,7 +406,7 @@ Sonntag, 10. November 2013:
 
 ### Turnierregeln
 
-1. Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier.
+1. Der osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier.
 2. Die Beatmaps werden von den Beatmap-Wählern für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
    - Es wird auch einen Stapel für [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) und FreeMod geben.
@@ -449,7 +449,7 @@ Sonntag, 10. November 2013:
    4. Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
    5. Gewinner von Rückspielen.
 4. Die besten 2 Teams in der Gruppe kommen in die K.-o.-Runde.
-5. Die folgenden Runden sind K.-o.-Runde. Dies bedeutet, dass der Gewinner normal in die nächste Runde kommt und das andere Team aus dem Turnier ausscheidet.
+5. Die folgenden Runden sind K.-o.-Runden. Dies bedeutet, dass der Gewinner normal in die nächste Runde kommt und das andere Team aus dem Turnier ausscheidet.
 6. **Bedingungen, um zu gewinnen:**
    - In der Gruppenphase benötigst du 4 gewonnene Beatmaps, um die Partie zu gewinnen. (Best-of-7)
    - Im Achtel- und Viertelfinale benötigst du 5 gewonnene Beatmaps, um die Partie zu gewinnen. (Best-of-9)
@@ -465,7 +465,7 @@ Sonntag, 10. November 2013:
 3. Den Spielern steht es frei eine Beatmap für die Aufwärmphase zu spielen.
 4. Die Beatmapauswahl erfolgt abwechselnd durch jeden Kapitän, der eine Beatmap aus dem Beatmappool auswählt. Jeder Kapitän muss einmal `!roll` in `#multiplayer` verwenden, um zu bestimmen, welches Team zuerst wählt.
    - Die Kapitäne können frei nach Belieben eine Beatmap aus dem NoMod-Stapel auswählen.
-   - Die Auswahl aus dem mod-spezifischen Stapeln ist limitiert. Jeder Kapitän darf eine mod-spezifische Beatmap aus dem jeweiligen Stapel während der Partie auswählen.
+   - Die Auswahl aus den mod-spezifischen Stapeln ist limitiert. Jeder Kapitän darf eine mod-spezifische Beatmap aus dem jeweiligen Stapel während der Partie auswählen.
      - In der K.-o.-Runde kann auf den FreeMod-Stapel frei zugegriffen werden.
    - Im Falle eines Unentschiedens, muss die Tiebreaker-Beatmap gespielt werden.
    - Die Kapitäne müssen dem Schiedsrichter mitteilen, welche Beatmap gewählt wurde.
@@ -482,7 +482,7 @@ Sonntag, 10. November 2013:
 6. Der Hidden-, HardRock- und DoubleTime-Stapel wird mit der entsprechenden, aktivierten Mod gespielt.
 7. Der FreeMod-Stapel schaltet den FreeMod frei. Jeder einzelne Spieler kann dann Hidden, HardRock, Flashlight oder mit gar keiner Mod spielen. Spieler dürfen mehr als eine Mod auswählen.
 8. Die Tiebreaker-Beatmap wird mit denselben Bedingungen wie beim Freemod gespielt.
-9. Die Größe der NoMod-Stapel ist:
+9. Die Größe des NoMod-Stapels ist:
    - 10 Beatmaps in der Gruppenphase
    - 6 Beatmaps in der K.-o.-Runde
 10. Die Größe der mod-spezifischen Stapeln ist:
