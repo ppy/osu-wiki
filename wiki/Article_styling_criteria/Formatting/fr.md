@@ -1,6 +1,6 @@
 # Mise en forme
 
-*Pour les normes de rédaction, voir : [Critères de style des articles/Rédaction](../Writing)*\
+*Pour les normes de rédaction, voir : [Critères de mise en forme d'article/Rédaction](../Writing)*\
 *Note : Cet article utilise [RFC 2119](https://microformats.org/wiki/rfc-2119-fr) pour décrire les niveaux d'exigence.*
 
 ## Locales
