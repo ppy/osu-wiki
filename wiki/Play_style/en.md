@@ -91,7 +91,7 @@ Simply, the player would press the assigned keyboard keys to hit the drum parts.
 
 There are two main styles of setting the keys placement in the keyboard: KDDK (Taiko default, or BRRB) or DDKK/KKDD (or RRBB/BBRR). The letters represent the placement of the drum rim or drum centre (e.g. K in KDDK for drum rim, and D for the drum centre).
 
-*Note: For key-binding, the default is `Z` `X` `C` `V` (KDDK, or BRRB).*
+*Note: For key-binding, the default is `Z`, `X`, `C`, and `V` (KDDK, or BRRB).*
 
 ### Taiko controller
 
