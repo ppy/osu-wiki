@@ -101,7 +101,7 @@ Pour définir un drapeau personnalisé, retournez dans le dossier osu! contenant
 my-flag-file : My Team : MT
 ```
 
-La résolution pour une image de drapeau optimale est de 70x47 pixels (ou le même rapport d'aspect)
+La résolution pour une image de drapeau optimale est de 70x47 pixels (ou le même rapport d'aspect).
 
 ### Seeding
 
