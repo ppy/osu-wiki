@@ -14,13 +14,13 @@ Der **osu! World Cup 2013** (***OWC 2013***) war ein länderbasiertes osu!-Turni
 
 | Event | Zeitpunkt |
 | :-- | :-- |
-| Registrierungsphase | 15.-28. Okt. 2013 |
-| Live-Auslosung | 31. Okt. 2013 (16:00 UTC) |
-| Gruppenphase | 08.-10. Nov. 2013 |
-| Achtelfinale | 16.-17. Nov. 2013 |
-| Viertelfinale | 24. Nov. 2013 |
-| Halbfinale | 30. Nov. 2013 |
-| Finale | 07.-08. Dez. 2013 |
+| Registrierungsphase | 2013-10-15 bis 2013-10-28 |
+| Live-Auslosung | 2013-10-31 (16:00 UTC) |
+| Gruppenphase | 2013-11-08 bis 2013-11-10 |
+| Achtelfinale | 2013-11-16 bis 2013-11-17 |
+| Viertelfinale | 2013-11-24 |
+| Halbfinale | 2013-11-30 |
+| Finale | 2013-12-07 bis 2013-12-08 |
 
 ## Preise
 
@@ -409,7 +409,7 @@ Sonntag, 10. November 2013:
 1. Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier.
 2. Die Beatmaps werden von den Beatmap-Wählern für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
-   - Es wird auch einen [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) und FreeMod Stapel geben.
+   - Es wird auch einen Stapel für [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) und FreeMod geben.
 3. Die Zeiten der Partien werden vom Turnier-Management festgelegt (siehe unten).
 4. Wenn kein Schiedsrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 5. Die Ergebnisse von wiederbelebten Spielern werden zum Teamergebnis mit angerechnet.
