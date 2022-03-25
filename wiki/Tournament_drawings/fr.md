@@ -30,7 +30,7 @@ Les tournament drawings sont maintenant prêt à être prévisualisés. Il est i
 À partir du menu principal, appuyez sur `Ctrl + Shift + D` afin d'accéder à l'écran des tournament drawings. L'écran suivant devrait apparaître :
 ![](img/main-screen.png "Menu principal des tournament drawings")
 
-Cet écran est composé de deux sections - la partie principale se situant sur la gauche, avec la carte du monde en tant que fond d'écran, et la panneau de sélection des contrôles sur la droite. **Évitez** de diffuser en direct ce panneau de contrôle.
+Cet écran est composé de deux sections - la partie principale se situant sur la gauche, avec la carte du monde en tant que fond d'écran, et le panneau de sélection des contrôles sur la droite. **Évitez** de diffuser en direct ce panneau de contrôle.
 
 Il y a 4 boutons sur ce panneau de contrôle, passons-les en revue :
 
@@ -95,7 +95,7 @@ IT : Italy : IT
 US : United States of America : USA
 ```
 
-Pour définir un drapeau personnalisé, retournez dans le dossier osu! contenant le fichier `drawings.ini`, à l'intérieur vous trouverez le dossier `Flags`. Les images de drapeaux personnalisées peuvent-être placées à l'intérieur du dossier Flags. Par exemple, si le fichier `my-flag-file.png` a été placé à l'intérieur de ce dossier, alors une ligne valide pouvant être ajoutée au fichier `drawings.txt` se présente sous la forme de :
+Pour définir un drapeau personnalisé, retournez dans le dossier osu! contenant le fichier `drawings.ini`, vous y trouverez le dossier `Flags`. Les images de drapeaux personnalisées peuvent-être placées à l'intérieur du dossier Flags. Par exemple, si le fichier `my-flag-file.png` a été placé à l'intérieur de ce dossier, alors une ligne valide pouvant être ajoutée au fichier `drawings.txt` se présente sous la forme de :
 
 ```
 my-flag-file : My Team : MT
