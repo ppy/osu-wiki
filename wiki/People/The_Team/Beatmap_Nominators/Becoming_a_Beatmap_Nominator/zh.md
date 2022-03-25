@@ -54,9 +54,9 @@ BN 申请程序于 [NAT 官网](http://bn.mappersguild.com/bnapps)进行。
 `m` = 单月内摸图的最低限制
 `M` = 单月内摸图的总数
 
-- [网页](http://bn.mappersguild.com/bnapps)主页拥有计算`摸图分数 (ModScore)` 的工具。
-- 为了确定不同模式所需的最低分数，过去三个月内`摸图分数 (ModScore)` 的总和必须大于等于 0。
-- 整体的最低限制按以下方式设定：
+- [网址](http://bn.mappersguild.com/bnapps)的主页面含有能够计算`摸图分数 (ModScore)` 的工具。
+- 为了满足最低要求，过去三个月内`摸图分数 (ModScore)` 的总和必须大于等于 0。
+- 整体的最低要求按以下方式设定：
   - osu!taiko、osu!catch、osu!mania：`m` = 3，且获得的 kudosu 数量大于等于 150。
   - osu!：`m` = 4，且获得的 kudosu 数量大于等于 200。
 - 建议尽量满足或者超出这些预期要求，因为它们可能会因为申请数量不同而略微变动。
