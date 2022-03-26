@@ -25,7 +25,7 @@ Words are dumb. Use your ears:
 Check out [this million-play map](https://osu.ppy.sh/beatmapsets/155285) hosted by [Katty Pie](https://osu.ppy.sh/users/1367296) or [the map from the video above](https://osu.ppy.sh/beatmapsets/166435) hosted by [Regou](https://osu.ppy.sh/users/419954)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/251/Songs/Cutline%20-%20Die%20For%20You%20%28ShockOne%20Remix%29.mp3" type="audio/mpeg">
 </audio>
 
 ### Zomboy - Nuclear (Hands Up)
@@ -33,19 +33,19 @@ Check out [this million-play map](https://osu.ppy.sh/beatmapsets/155285) hosted 
 In case you missed our [Zomboy Featured Artist announcement](https://osu.ppy.sh/home/news/2021-12-11-new-featured-artist-zomboy), try out [this other classic beatmap](https://osu.ppy.sh/beatmapsets/449299) hosted by [Shadren](https://osu.ppy.sh/users/745494)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/251/Songs/Zomboy%20-%20Nuclear%20%28Hands%20Up%29.mp3" type="audio/mpeg">
 </audio>
 
 ### MUST DIE! - BLISS 2K
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/251/Songs/MUST%20DIE%21%20-%20BLISS%202K.mp3" type="audio/mpeg">
 </audio>
 
 ### Soltan - Kabul
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/251/Songs/Soltan%20-%20Kabul.mp3" type="audio/mpeg">
 </audio>
 
 ---
