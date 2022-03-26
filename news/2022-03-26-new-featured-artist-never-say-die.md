@@ -8,7 +8,7 @@ date: 2022-03-26 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/251/header.jpg)
 
-Calling **Never Say Die** a "Featured Label" would be a lot more accurate. **Never Say Die** is a record label from London, England, who's been proliferating the dubstep scene since their inception in 2009. With familiar names like *Eptic*, *MUST DIE*, and our very own [Zomboy](https://osu.ppy.sh/beatmaps/artists/224) on their roster, there's a strong chance you're familiar with something they have to offer.
+Calling **Never Say Die** a "Featured Label" would be a lot more accurate. **Never Say Die** is a record label from London, England, who's been proliferating the dubstep scene since their inception in 2009. With familiar names like *Eptic*, *MUST DIE!*, and our very own [Zomboy](https://osu.ppy.sh/beatmaps/artists/224) on their roster, there's a strong chance you're familiar with something they have to offer.
 
 **9** new bass-pounding tracks are up for grabs from [**Never Say Die**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/251), including the classic [Cutline - Die For You (ShockOne Remix)](https://osu.ppy.sh/beatmapsets/155285).
 
