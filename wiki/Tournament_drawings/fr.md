@@ -107,6 +107,6 @@ La résolution pour une image de drapeau optimale est de 70x47 pixels (ou le mê
 
 Il peut être désirable de "seed" des équipes. Dans ce cas, de multiples fichiers `drawings.txt` peuvent être intervertis à l'aide du bouton Reload depuis le panneau de contrôle.
 
-## Questions?
+## Questions ?
 
 N'hésitez pas à contacter `tournaments@ppy.sh` si vous avez d'autres questions d'utilisation.
