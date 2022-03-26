@@ -147,7 +147,7 @@ jobs:
 
           MISSED_TRANSLATIONS=$( echo "$ORIGINAL_ARTICLES" | tr \\n \\0 | xargs -0 dirname | sort -u | {
             while read DIRECTORY; do
-              for ARTICLE_NAME in $( ls "$DIRECTORY"/??.md | grep -v en.md || true ); do
+              for ARTICLE_NAME in $( ls "$DIRECTORY"/(??|??-??).md | grep -v en.md || true ); do
                 if ! [[ "$TRANSLATIONS" =~ "$ARTICLE_NAME" ]]; then
                   grep -LzP -e "$MASK" "$ARTICLE_NAME" || true  # print only names of non-matching files, with multiline match (considering \n)
                 fi
