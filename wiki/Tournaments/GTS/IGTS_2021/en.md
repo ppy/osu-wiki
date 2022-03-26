@@ -114,9 +114,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] **United States A** (**[Ethaaaan](https://osu.ppy.sh/users/9536977)**, [9\_9](https://osu.ppy.sh/users/7700831), [Backfire](https://osu.ppy.sh/users/263110), [Miniature Lamp](https://osu.ppy.sh/users/9821194), [Wilfred Murr](https://osu.ppy.sh/users/2598555)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_SG] **Singapore A** (**[Prehistoria](https://osu.ppy.sh/users/8364237)**, [Bobfree](https://osu.ppy.sh/users/10096125), [C5H10](https://osu.ppy.sh/users/7003484), [Spartric](https://osu.ppy.sh/users/7740442), [tzechi](https://osu.ppy.sh/users/4662795)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] **Malaysia A** (**[HHVanilla Ice](https://osu.ppy.sh/users/12803930)**, [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), [cdh](https://osu.ppy.sh/users/2403621), [CrabCow](https://osu.ppy.sh/users/9755504), [imnoobatosuosu](https://osu.ppy.sh/users/12086753)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] **United States** (**[Yujki](https://osu.ppy.sh/users/14987094)**, [Max\_Prm](https://osu.ppy.sh/users/14714592), [-Schwarts](https://osu.ppy.sh/users/4673649), [SlipperyPickle](https://osu.ppy.sh/users/11969691), [SolaEclipse](https://osu.ppy.sh/users/6621158)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] **China** (**[Jahmsy](https://osu.ppy.sh/users/17448064)**, [\[Lily\_White\]](https://osu.ppy.sh/users/12749779), [Lubei_01](https://osu.ppy.sh/users/11692528), [NGname](https://osu.ppy.sh/users/13679148), [WLYMinato](https://osu.ppy.sh/users/12703319)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SG] **Singapore** (**![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957)**, ![][flag_SG] [errorgorn](https://osu.ppy.sh/users/12921469), ![][flag_SG] [I luv loleez](https://osu.ppy.sh/users/18346655), ![][flag_SG] [MattrexDark](https://osu.ppy.sh/users/7171110), ![][flag_SG] [TakoJoe](https://osu.ppy.sh/users/13883186)) |
 
 ## Mappools
 
