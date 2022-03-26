@@ -45,7 +45,7 @@ Il y a 4 boutons sur ce panneau de contrôle, passons-les en revue :
 
 Appuyez sur les boutons `Begin random` et `Stop random`. Lorsque le défilement s'arrête sur un drapeau au centre de l'écran, retournez dans le dossier osu! et remarquez qu'un fichier supplémentaire a été créé, appelé `drawings_results.txt`.
 
-Ouvrez le fichier et observez le format - c'est là que sont stockés les résultats du processus de tirage, et ils doivent être importés dans d'autres outils d'aide à la gestion de tournois, tels que Google Spreadsheets.\
+Ouvrez le fichier et observez le format - c'est là que sont stockés les résultats du processus de tirage, et ils doivent être importés dans d'autres outils d'aide à la gestion de tournois, tels que Google Spreadsheets.
 
 **Soyez sûr d'avoir sauvegardé le fichier `drawings_results.txt` dans un endroit sûr avant d'appuyer sur le bouton de réinitialisation, autrement il sera détruit !** 
 
