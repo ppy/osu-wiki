@@ -55,7 +55,7 @@ The Intermediate Global Taiko Showdown 2021 was run by various community members
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1299094)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1359725)
 - [GTS Discord server](https://discord.gg/3mGC3HB)
 - [GTS website](https://gtsosu.com)
 - Livestream
@@ -63,7 +63,7 @@ The Intermediate Global Taiko Showdown 2021 was run by various community members
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
     - *Note: The second channel's purpose is to allow streams of concurrent matches.*
 - [Challonge bracket](https://challonge.com/IGTS2021)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/57) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/71) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
