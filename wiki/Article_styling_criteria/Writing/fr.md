@@ -240,8 +240,8 @@ Ces mots doivent être orthographiés comme suit (l'espacement doit correspondre
 - `gameplay`
 - `hit burst`
 - `hitsound`
-- `slidertick`
-- `sliderball`
+- `slider tick`
+- `slider ball`
 - `Kudosu` (à traiter comme un nom propre)
 
 ---
@@ -280,7 +280,7 @@ Les abréviations, les acronymes et les sigles doivent prendre une majuscule, sa
 Les abréviations, acronymes et sigles ne devraient pas être pluralisés. Le texte suivant en est un exemple :
 
 ```markdown
-Éviter :  Les BNs peuvent nommer votre beatmap.
+Éviter :  Les BNs peuvent nominer votre beatmap.
 
 Préférer : Les Beatmap Nominators peuvent nominer votre beatmap.
 ```
