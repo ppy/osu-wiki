@@ -101,27 +101,27 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| New Zealand | ![][flag_NZ] | ![][flag_PH] | Philippines | Mar 26 (Sat) 10:00 UTC | Mar 26 (Sat) 22:00 UTC+12 | Mar 26 (Sat) 18:00 UTC+8 |
+| New Zealand | ![][flag_NZ] | ![][flag_PH] | Philippines | Mar 26 (Sat) 11:00 UTC | Mar 26 (Sat) 23:00 UTC+12 | Mar 26 (Sat) 19:00 UTC+8 |
 | Portugal | ![][flag_PT] | ![][flag_SG] | Singapore | Mar 26 (Sat) 13:00 UTC | Mar 26 (Sat) 13:00 UTC | Mar 26 (Sat) 21:00 UTC+8 |
 | Netherlands | ![][flag_NL] | ![][flag_CH] | Switzerland | Mar 26 (Sat) 14:00 UTC | Mar 26 (Sat) 15:00 UTC+1 | Mar 26 (Sat) 15:00 UTC+1 |
-| Poland | ![][flag_PL] | ![][flag_RU] | Russian Federation | Mar 26 (Sat) 15:00 UTC | Mar 26 (Sat) 16:00 UTC+1 | Mar 26 (Sat) 18:00 UTC+3 |
 | Czech Republic | ![][flag_CZ] | ![][flag_AR] | Argentina | Mar 26 (Sat) 16:00 UTC | Mar 26 (Sat) 17:00 UTC+1 | Mar 26 (Sat) 13:00 UTC-3 |
 | Costa Rica | ![][flag_CR] | ![][flag_TR] | Turkey | Mar 26 (Sat) 17:00 UTC | Mar 26 (Sat) 11:00 UTC-6 | Mar 26 (Sat) 20:00 UTC+3 |
+| Germany | ![][flag_DE] | ![][flag_FR] | France | Mar 26 (Sat) 17:00 UTC | Mar 26 (Sat) 18:00 UTC+1 | Mar 26 (Sat) 18:00 UTC+1 |
+| Mexico | ![][flag_MX] | ![][flag_IT] | Italy | Mar 26 (Sat) 20:00 UTC | Mar 26 (Sat) 14:00 UTC-6 | Mar 26 (Sat) 21:00 UTC+1 |
 
 ### Sunday, March 27, 2022
 
 | Team A | | | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | United States | ![][flag_US] | ![][flag_AU] | Australia | Mar 27 (Sun) 03:00 UTC | Mar 26 (Sat) 22:00 UTC-5 | Mar 27 (Sun) 13:00 UTC+10 |
-| Colombia | ![][flag_CO] | ![][flag_CN] | China | Mar 27 (Sun) 04:00 UTC | Mar 26 (Sat) 23:00 UTC-5 | Mar 27 (Sun) 12:00 UTC+8 |
-| Taiwan | ![][flag_TW] | ![][flag_ID] | Indonesia | Mar 27 (Sun) 10:00 UTC | Mar 27 (Sun) 18:00 UTC+8 | Mar 27 (Sun) 17:00 UTC+7 |
-| Hong Kong | ![][flag_HK] | ![][flag_MY] | Malaysia | Mar 27 (Sun) 11:00 UTC | Mar 27 (Sun) 19:00 UTC+8 | Mar 27 (Sun) 19:00 UTC+8 |
+| Hong Kong | ![][flag_HK] | ![][flag_MY] | Malaysia | Mar 27 (Sun) 12:00 UTC | Mar 27 (Sun) 20:00 UTC+8 | Mar 27 (Sun) 20:00 UTC+8 |
 | South Korea | ![][flag_KR] | ![][flag_FI] | Finland | Mar 27 (Sun) 12:00 UTC | Mar 27 (Sun) 21:00 UTC+9 | Mar 27 (Sun) 14:00 UTC+2 |
-| Germany | ![][flag_DE] | ![][flag_FR] | France | Mar 27 (Sun) 13:00 UTC | Mar 27 (Sun) 14:00 UTC+1 | Mar 27 (Sun) 14:00 UTC+1 |
+| Poland | ![][flag_PL] | ![][flag_RU] | Russian Federation | Mar 27 (Sun) 13:00 UTC | Mar 27 (Sun) 14:00 UTC+1 | Mar 27 (Sun) 16:00 UTC+3 |
+| Taiwan | ![][flag_TW] | ![][flag_ID] | Indonesia | Mar 27 (Sun) 13:00 UTC | Mar 27 (Sun) 21:00 UTC+8 | Mar 27 (Sun) 20:00 UTC+7 |
+| Colombia | ![][flag_CO] | ![][flag_CN] | China | Mar 27 (Sun) 14:00 UTC | Mar 27 (Sun) 09:00 UTC-5 | Mar 27 (Sun) 22:00 UTC+8 |
 | Japan | ![][flag_JP] | ![][flag_CL] | Chile | Mar 27 (Sun) 14:00 UTC | Mar 27 (Sun) 23:00 UTC+9 | Mar 27 (Sun) 11:00 UTC-3 |
 | Brazil | ![][flag_BR] | ![][flag_GB] | United Kingdom | Mar 27 (Sun) 15:00 UTC | Mar 27 (Sun) 12:00 UTC-3 | Mar 27 (Sun) 15:00 UTC |
 | Canada | ![][flag_CA] | ![][flag_SE] | Sweden | Mar 27 (Sun) 16:00 UTC | Mar 27 (Sun) 11:00 UTC-5 | Mar 27 (Sun) 17:00 UTC+1 |
-| Mexico | ![][flag_MX] | ![][flag_IT] | Italy | Mar 27 (Sun) 18:00 UTC | Mar 27 (Sun) 12:00 UTC-6 | Mar 27 (Sun) 19:00 UTC+1 |
 
 ## Mappools
 

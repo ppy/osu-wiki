@@ -14,7 +14,7 @@ tags:
 
 ![o!tfac logo](img/logo.png)
 
-The **osu!taiko Featured Artist Cup #1** (***o!tfac #1***) is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists.
+The **osu!taiko Featured Artist Cup #1** (***o!tfac #1***) was an osu!taiko mapping contest where contestants were simply asked to map a song from one of osu!'s Featured Artists.
 
 ## Contest schedule
 
@@ -22,12 +22,12 @@ The **osu!taiko Featured Artist Cup #1** (***o!tfac #1***) is an osu!taiko mappi
 | --: | :-- |
 | Registration phase | 2022-02-12/2022-02-27 00:00 |
 | Submission phase | 2022-02-27/2022-03-06 00:00 |
-| Judging phase | 2022-03-06/2022-03-20 |
-| Results announcement | *TBA* |
+| Judging phase | 2022-03-06/2022-03-23 |
+| Results announcement | 2022-03-23 |
 
 ## Organisation
 
-The osu!taiko Featured Artist Cup #1 is run by various community members.
+The osu!taiko Featured Artist Cup #1 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -45,12 +45,24 @@ The osu!taiko Featured Artist Cup #1 is run by various community members.
 
 ![o!tfac #1 badge](img/badge.png)
 
-¹: ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) and ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) will mod and push the winning entry to ranked if the winner chooses to, and **if they get the necessary difficulties to form a rankable spread if needed**.
+¹: ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) and ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) will mod and push the winning entry to Ranked if the winner chooses to, and **if they get the necessary difficulties to form a rankable spread if needed**.
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1520800)
 - [Discord server](https://discord.gg/jMsVqwPVrD)
+- [Results sheet](https://docs.google.com/spreadsheets/d/1v8B409syFzzAfgoxXKx6ptitrtNPYDa09Avkt8PeXLI/edit?usp=sharing)
+- [Results announcement VOD](https://www.twitch.tv/videos/1434459833)
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | User |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [woosungko](https://osu.ppy.sh/users/14184157) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TH] [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) |
 
 ## Ruleset
 
@@ -71,6 +83,9 @@ The osu!taiko Featured Artist Cup #1 is run by various community members.
 - **Creativity (10 Points):** Points will be assigned based on how the submission uses creative and fitting elements to make itself stand out.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
