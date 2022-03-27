@@ -8,24 +8,24 @@ tags:
 
 # GB Cup 2022 Spring
 
-The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu!mania 4-key tournament hosted by the ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407).
+The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu!mania 4-key tournament hosted by ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407).
 
 ## Tournament schedule
 
-| Event | Timestamp |
-| --: | :-- |
-| Registration phase | 2022-03-26/2022-04-02 (23:59 UTC + 8) |
-| Draft phase | 2022-04-03 (21:00 UTC + 8) |
-| Regular Stage Week 1 | 2022-04-09/2022-04-10 |
-| Regular Stage Week 2 | 2022-04-16/2022-04-17 |
-| Regular Stage Week 3 | 2022-04-23/2022-04-24 |
-| Playoffs Week 1 | 2022-04-30/2022-05-01 |
-| Playoffs Week 2 | 2022-05-07/2022-05-08 |
+|                Event | Timestamp                           |
+| -------------------: | :---------------------------------- |
+|   Registration phase | 2022-03-26/2022-04-02 (23:59 UTC+8) |
+|          Draft phase | 2022-04-03 (21:00 UTC+8)            |
+| Regular Stage Week 1 | 2022-04-09/2022-04-10               |
+| Regular Stage Week 2 | 2022-04-16/2022-04-17               |
+| Regular Stage Week 3 | 2022-04-23/2022-04-24               |
+|      Playoffs Week 1 | 2022-04-30/2022-05-01               |
+|      Playoffs Week 2 | 2022-05-07/2022-05-08               |
 
 ## Prizes
 
 | Placing | Prizes |
-| :-: | :-- |
+| :-----: | :----- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, KanonBot profile badge, 50 CNY ¥ per team member |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, 30 CNY ¥ per team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, 20 CNY ¥ per team member |
@@ -34,16 +34,16 @@ The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu
 
 The GB Cup 2022 Spring was run by the GB Team and various community members.
 
-| Position | Member(s) |
-| :-- | :-- |
-| Host | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Staff | ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291),![][flag_CN] [IA Daisuki](https://osu.ppy.sh/users/11238501),![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645) |
-| Mappool selector | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14095291),![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561),![][flag_CN] [\[GB\]Yuria](https://osu.ppy.sh/users/13092888),![][flag_CN] [IA Daisuki](https://osu.ppy.sh/users/11238501) |
-| Mappool tester | ![][flag_CN] [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771),![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334),![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831),![][flag_CN] [FleVI](https://osu.ppy.sh/users/12519616),![][flag_CN] [Takeru3](https://osu.ppy.sh/users/15188014),![][flag_CN] [_Yiiiiii](https://osu.ppy.sh/users/6066359),![][flag_CN] [rbqq](https://osu.ppy.sh/users/13747488/mania),![][flag_CN] [Seven_Nye](https://osu.ppy.sh/users/20886966),![][flag_CN] [aa219040](https://osu.ppy.sh/users/11653961),![][flag_CN] [DongDouFu](https://osu.ppy.sh/users/17621613) |
-| Referee | *TBA* |
-| Commentator | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617) ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291) ![][flag_CN] [Edward_Tsui](https://osu.ppy.sh/users/8609627) |
-| Designer | *TBA* |
-| Statistician | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407)，![][flag_CN] [Rush_FTK](https://osu.ppy.sh/users/3046856)  |
+| Position         | Member(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Host             | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Staff            | ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291),![][flag_CN] [IA Daisuki](https://osu.ppy.sh/users/11238501),![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645)                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Mappool selector | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14095291),![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561),![][flag_CN] [\[GB\]Yuria](https://osu.ppy.sh/users/13092888),![][flag_CN] [IA Daisuki](https://osu.ppy.sh/users/11238501)                                                                                                                                                                                                                                                                                                                                                                |
+| Mappool tester   | ![][flag_CN] [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771),![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334),![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831),![][flag_CN] [FleVI](https://osu.ppy.sh/users/12519616),![][flag_CN] [Takeru3](https://osu.ppy.sh/users/15188014),![][flag_CN] [_Yiiiiii](https://osu.ppy.sh/users/6066359),![][flag_CN] [rbqq](https://osu.ppy.sh/users/13747488/mania),![][flag_CN] [Seven_Nye](https://osu.ppy.sh/users/20886966),![][flag_CN] [aa219040](https://osu.ppy.sh/users/11653961),![][flag_CN] [DongDouFu](https://osu.ppy.sh/users/17621613) |
+| Referee          | *TBA*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Commentator      | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617) ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291) ![][flag_CN] [Edward_Tsui](https://osu.ppy.sh/users/8609627)                                                                                                                                                                                                                                                                                                                                                                       |
+| Designer         | *TBA*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Statistician     | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407)，![][flag_CN] [Rush_FTK](https://osu.ppy.sh/users/3046856)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ## Links
 
@@ -61,12 +61,12 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
    - **While this competition is planned as a 3 versus 3 setup, this might change depending on the number of incoming registrations.**
 2. Beatmap scoring will be based on Score V2.
 3. The beatmaps for each round will be announced by the Mappool Selector Team on the Sunday before the actual matches take place.
-   - Each mappool will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
+   - Each mappool will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. if the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 4. Match schedule will be handled by the Host.
 5. If no referees are available at match time, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a beatmap is considered as passing it.
-7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
+7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay mechanics.
 8. If a game ends in a draw it will be nullified and the beatmap replayed, herein called a *rematch*.
 9. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
@@ -98,12 +98,12 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 ### Tournament registration
 
-1. Please **send Host private messages** **and** filled [**this form**](https://wj.qq.com/s2/9902248/95cf/) to registration. 
+1. Please send the Host **a private message** and **fill [this form](https://wj.qq.com/s2/9902248/95cf/)** to register. 
 2. Each player could send a VOD clips or an in-game replays to Host, which will be used on Draft phase. 
 3. To ensure valid and serious registrations, every registered user will be manually checked by the Host.
    - To be successfully registrations, player have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **No rank limitations for this tournament.** Some high level players will be **removed from the player list for balance reasons**, they will be invited into show match instead.
-4. All successfully registrated player will be published after the Registration Phase.
+4. A list of all successfully registered players will be published after the Registration Phase.
    - All valid registered players will have the chance to pricipate Draft phase.
 5. Organizers, Mappool Selectors and referees must not participate as a player in the tournament.
 6. Organizers keeps right to decline any suspend account pricipate this tournament.
