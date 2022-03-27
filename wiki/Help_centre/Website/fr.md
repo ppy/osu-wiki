@@ -74,7 +74,7 @@ N'oubliez pas d'inclure dans votre e-mail tout journal de discussion ou autre pr
 
 ### Que sont ces pages "moi!" que je vois sur les profils des autres joueurs ?
 
-**Les pages moi!, ou pages d'utilisateur, sont des éléments de profil spéciaux auxquels tous les joueurs ayant un [tag supporter](https://osu.ppy.sh/home/support) ont accès. Elles peuvent contenir tout ce que vous voulez : des photos de vos exploits, vos maps, tout ce que vous voulez !**
+**Les pages moi!, ou pages d'utilisateur, sont des éléments de profil spéciaux auxquels tous les joueurs ayant un [tag supporter](https://osu.ppy.sh/home/support) ont accès. Elles peuvent contenir tout ce que vous voulez : des photos de vos exploits, vos beatmaps, tout ce que vous voulez !**
 
 Les joueurs ayant un [tag supporter](https://osu.ppy.sh/home/support) ont le privilège d'éditer leur propre page qui sera affichée sur leur profil pour que le monde entier puisse la voir. Les pages moi! peuvent contenir tout ce que vous voulez, tant que cela respecte les [Règles](/wiki/Rules) !
 

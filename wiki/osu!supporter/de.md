@@ -1,67 +1,56 @@
 ---
 outdated: true
+outdated_since: 6bc1537ef8d5ee9c08602c13108e15ce6f1ab524
 ---
 
 # osu!supporter
 
-![osu!supporter Abzeichen](img/store-product.jpg?1 "osu!supporter Abzeichen")
+*Für die osu!supporter Seite der Website, siehe: [Das Spiel unterstützen](https://osu.ppy.sh/home/support)*
 
-## Einleitung
+## Vorteile
 
-Übergeleitet von diesem Link: <https://osu.ppy.sh/home/support>
+*Eine Liste der Extras, die man als osu!supporter bekommt, findest du hier: [Das Spiel unterstützen](https://osu.ppy.sh/home/support)*
 
-Kurz gefasst: Die Unterstützungen tragen dazu bei, dass osu! am Laufen ist, ohne dabei für das Spiel selber zahlen zu müssen.
+Im Allgemeinen unterstützt du durch den Kauf des osu!supporter-Tags direkt die Entwicklung des Spiels und erhältst gleichzeitig einige zusätzliche Extras. Es muss beachtet werden, dass die zusätzlichen Funktionen von osu!supporter niemals das Gameplay, die Performance oder deinen Score in irgendeiner Weise zu deinem Vorteil beeinflussen werden.
 
-## Vorteile als osu!supporter
+## osu!supporter erhalten
 
-- osu!direct (Direkter Download von Beatmaps im Spielclient)
-- osu!test (Testclient für osu!, um neue Updates und Features vor Veröffentlichung auszuprobieren)
-- [Chat Console](/wiki/Client/Interface/Chat_console): Hellgelber Name im Chat (die anderen sehen dich in dieser Farbe, du siehst dich nach wie vor in weiß).
-- [Beatmap listing](https://osu.ppy.sh/beatmapsets) (?): Unterscheidet Beatmap Suchergebnisse zwischen "Gespielt" und "Ungespielt".
-- [Skinning](/wiki/Skinning): Zusätzliche Skin-Elemente können verwendet und editiert werden.
-  - Genauer gesagt, `menu-background.jpg` (Hauptmenü); `matchsetup-background.png` (Multiplayer); `search-background.png` (osu!direct)
-- [Feature Requests](https://osu.ppy.sh/community/forums/4): Zusätzliche Votes für das Feature Requests Forum (Zwei Stück pro Monat).
-- [Songauswahl](/wiki/Client/Interface): Die Möglichkeit, bei Beatmap Rankings nach Land, Freunden und mod-spezifischen Scores zu filtern.
-- Dein Profil: `https://osu.ppy.sh/users/`
-  - Du kannst deine eigene individuelle Userpage aktivieren.
-    - Dieser wird nie deaktiviert, selbst wenn du kein osu!supporter mehr bist.
-  - Die Möglichkeit, einmalig deinen Username zu ändern (sobald dieser Versuch aufgebraucht ist, ist es dir nicht gestattet, noch einmal diesen zu ändern).
-  - Erhöht die Beatmap Submission Anzahl (bis zu acht Beatmaps ingesamt im Pending gleichzeitig)
-- [Performance Ranking](https://osu.ppy.sh/rankings/osu/performance): Die Option "filter to friends" ist verfügbar.
-- *Weitere Features werden noch hinzugefügt*
+![osu!store Produktbanner](img/store-product.jpg?1 "osu!supporter Produktbanner aus dem osu!store")
 
-## Geschäftlicher Teil
+Um osu!supporter zu erhalten, melde dich an (oder [registriere dich](/wiki/Registration)) und gehe dann auf die [Shop-Seite](https://osu.ppy.sh/store/products/supporter-tag). Verwende den Schieberegler oder die Monatsauswahl (unterhalb des Schiebereglers), um die Dauer des osu!supporter-Tags auszuwählen. Bei einer anderen Dauer ändert sich der Preis, den du zahlen musst. Die Währung ist der amerikanische Dollar (USD). Wenn dein Land eine andere Währung verwendet, benutze bitte einen Währungsrechner wie [OANDA](https://www.oanda.com/currency/converter/) oder [Google](https://www.google.com/search?q=usd+wechselkurs), um den Preis zu überprüfen. Die auf der osu!store-Seite angezeigten Preise gelten für jeden einzelnen Account.
 
-### Kosten
+### Auswählen der Dauer
 
-[Benutzt diese Webseite zum Umrechnen](https://finanzen.net/waehrungsrechner/) oder sucht hier in [Google](https://www.google.com.my/#q=usd+exchange+rate) nach, um den Preis in eurem Land nachzuprüfen. Derzeitig wird es in US Dollars verrechnet.
+Die Benutzerkarte, die über dem Schieberegler angezeigt wird, ist der Benutzer, für den du osu!supporter kaufst. In der Standardeinstellung sollte es deine Benutzerkarte sein. Um einem Freund ein Geschenk zu machen, gib den Benutzernamen deines Freundes (nicht die Benutzer-ID) in das graue Feld unter der Benutzerkarte ein. Sobald dies geschehen ist, wird die Benutzerkarte auf den von dir eingegebenen Benutzernamen geändert. Von hier aus kannst du dann die Dauer von osu!supporter auswählen, die du verschenken möchtest, aber beachte, dass es keine Aktion für Gruppengeschenke gibt.
 
-![Beispiel hierfür](img/selecting-duration.jpg?1 "Beispiel hierfür")
+Du kannst osu!supporter immer nur für einen Benutzer auf diesem Bildschirm kaufen oder verschenken. Um einen weiteren Benutzer zu beschenken, musst du zurück zur [osu!supporter Store-Seite](https://osu.ppy.sh/store/products/supporter-tag) gehen und die Schritte zum Hinzufügen eines weiteren Benutzers wiederholen.
 
-| Monate | Kosten ($) | Kosten (€) (Eurostand nach dem 10.06.2014) |
-| :-: | :-- | :-- |
-| 1 | 4 | 2.95 |
-| 2 | 8 | 5.90 |
-| 4 | 12 (-25%) | 8.85 |
-| 6 | 16 (-33%) | 11.81 |
-| 8 | 20 (-38%) | 14.76 |
-| 9 | 22 (-39%) | 16.23 |
-| 10 | 24 (-40%) | 17.71 |
-| 12 | 26 (-46% max) | 19.19 |
-| 24 | 52 (-46% max) | 38.38 |
+### Zur Kasse gehen
 
-- Kosten können individuel bestimmt werden. Außerdem gibt es keine Vergünstigung fürs Gruppenschenken.
+Wenn du fertig bist, klicke auf `Zum Warenkorb hinzufügen`, um den Artikel in den osu!store-Warenkorb zu legen.
 
-### Entscheidung
+Wenn du bereit bist, den Kauf zu tätigen, gehe zu deinem [Warenkorb](https://osu.ppy.sh/store/cart) und klicke auf `Zur Kasse`. Folge dann den Anweisungen, um deine Zahlung vorzunehmen.
 
-Im Normalfall wird dein Account für den Kauf eines Supporter Tag angegeben. Sofern du diesen nicht für dich kaufen willst, klicke auf "Gift another player" und schreibe den Namen des jeweiligen Users hin, dem der Tag gewidmet ist. Wenn du mehr als nur einem User einen Supporter Tag schenken möchtest, klicke auf "Add another tag" neben "Checkout". Nachdem du bestätigt hast, dass es sich auch um diesen Benutzer handelt, schiebe den weißen Schalter bei jedem Benutzer, um zu bestimmen, wie lange der Supporter Tag wirken soll und wie du insgesamt zahlst. Du kannst bei jedem Benutzer eine unterschiedliche Zeit angeben, wo es dann dementsprechend unterschiedliche Preise geben wird. Sobald du die Länge bei jedem bestimmt hast, klick auf "Checkout".
+## Abschluss
 
-### Bezahlung
+Nachdem die Transaktion abgeschlossen ist, wird in deinem Account (wenn du es für dich selbst gekauft hast) oder auf den Accounts, an die du ein Geschenk gemacht hast, unter `Neulich` Folgendes angezeigt:
 
-Nun hast du verschiedene Bezahloptionen, die weltweit verwendet werden. Empfehlenswerte Bezahlmethoden sind [PayPal](https://www.paypal.com) oder Kreditkarten. Zwar gibt es auch andere Möglichkeiten wie etwa per SMS Bezahlung, allerdings wird da eine zusätzliche Gebühr angerechnet und ist daher nicht unbedingt die kostengünstigste Bezahlmethode. Wenn du weniger als deine Gesamtkosten ("Total Cost") in "dorrah" bezahlst (zusätzliche Kosten, sofern nicht Paypal benutzt wird, sind inkludiert), erhälst du nicht deine(n) Abzeichen.
+- `{username} ist zum osu! Supporter geworden - vielen Dank für deine Großzügigkeit!`, wenn es das erste Mal ist, dass dieser Account osu!supporter erhält.
+- `{username} hat sich erneut dazu entschieden, osu! zu unterstützen - vielen Dank für deine Großzügigkeit!`, wenn der Account bereits vorher osu!supporter war.
 
-### Dauer
+### Benutzerseite und Benutzerkarte
 
-![Der Vergleich: Inaktiver und aktiver osu!supporter.](img/status.jpg?1 "Der Vergleich: Inaktiver und aktiver osu!supporter.")
+![Benutzerseite mit osu!supporter](img/userpage.png?1 "Benutzerseite mit osu!supporter")
 
-Sobald die Transaktion abgeschlossen ist, wird auf deinem Profil unter "Recent Activity" folgendes stehen: "{Name des Benutzers} has become an osu! supporter - thanks for your generosity!" (sofern das der erste Tag auf dem jeweiligen Account ist). Sofern schonmal osu!Supporter geholt wurde, wird stattdessen "{Name des Benutzers} has once again chosen to donate to the osu! cause - thanks for your generosity!" stehen. Wenn du dir den für dich selber gekauft hast, wirst du unter deinem Profilbild das osu!supporter Abzeichen finden. Um nachzuprüfen, wann dieser abläuft, [kehre zur Seite zurück, woher du diesen gekauft hast](https://osu.ppy.sh/home/support).
+![Benutzerkarte mit osu!supporter](img/usercard.png?2 "Benutzerkarte mit osu!supporter")
+
+Im osu!web befindet sich das osu!supporter Abzeichen neben dem Benutzeravatar und in der Benutzerkarte neben der Landesflagge.
+Das osu!supporter Abzeichen ändert sich, je nachdem, wie lange du das Spiel unterstützt hast. Wenn du das Spiel weniger als 1 Jahr lang unterstützt, erhältst du 1 Herz; für 1–5 Jahre erhältst du 2 Herzen; und für mehr als 5 Jahre erhältst du 3 Herzen.
+
+### Support-Status abfragen
+
+![osu!supporter-Tag mit drei Monaten Restlaufzeit](img/status.jpg?1 "Drei Monate Restlaufzeit des osu!supporter-Tags")
+
+*Tipp: Dieser Abschnitt wird nur angezeigt, nachdem du osu!supporter erhalten hast.*
+
+Um den Status deines verbleibenden osu!supporter-Tags und die Gesamtsumme der Beiträge und Tag-Käufe zu überprüfen, gehe auf die Seite [Das Spiel unterstützen](https://osu.ppy.sh/home/support) und scrolle nach unten, um einen ähnlichen Bereich wie oben abgebildet zu sehen.

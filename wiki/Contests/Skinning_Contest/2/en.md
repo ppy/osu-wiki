@@ -16,9 +16,9 @@ The **Skinning Contest #2: Tides of Winter** is a free-for-all osu! skinning con
 | Event | Timestamp |
 | --: | :-- |
 | Announcement | 2021-12-02 |
-| Submission phase | 2021-12-02/2021-12-30 |
-| Voting phase | 1 week long, *date TBD* |
-| Results | *TBD* |
+| Submission phase | 2021-12-02/2022-01-09 |
+| Voting phase | 2022-01-16/2022-01-30 |
+| Results | 2022-02-25 |
 
 ## Prizes
 
@@ -27,6 +27,8 @@ The **Skinning Contest #2: Tides of Winter** is a free-for-all osu! skinning con
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, unique profile badge |
+
+![](img/badge-winner.png "Skinning Contest #2 winner badge") ![](img/badge-2nd.png "Skinning Contest #2 2nd place badge") ![](img/badge-3rd.png "Skinning Contest #2 3rd place badge")
 
 ## Organisation
 
@@ -45,11 +47,42 @@ The Skinning Contest #2 is run by various community members.
 
 ## Links
 
+- **[Contest Page](https://osu.ppy.sh/community/contests/137)**
 - [Announcement newspost](https://osu.ppy.sh/home/news/2021-12-02-skinning-contest-tides-of-winter-announcement)
+- [Voting Open newspost](https://osu.ppy.sh/home/news/2022-01-16-skinning-contest-tides-of-winter-voting-open)
+- [Results out newspost](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1472845)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1472846)
 - [Discord server](https://discord.skinship.xyz)
 - [Official website](https://skinship.xyz)
+
+## Participants
+
+| Skinner | Entry |
+| :-- | :-- |
+| ![][flag_PL] [Redo_](https://osu/ppy/sh/users/7122165) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) |
+| ![][flag_VN] [TKieen](https://osu/ppy/sh/users/12561202) | [105°C Chocolate](https://osu.ppy.sh/community/forums/topics/1496067) |
+| ![][flag_BY] [thetasigma](https://osu/ppy/sh/users/6234482) | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) |
+| ![][flag_VN] [koomo](https://osu/ppy/sh/users/2168518) | [CACTUS'](https://osu.ppy.sh/community/forums/topics/1481190) |
+| ![][flag_PH] [BPChingu](https://osu/ppy/sh/users/4236855) | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) |
+| ![][flag_FR] [Ootsu](https://osu/ppy/sh/users/9634575) | [HotChocolate](https://osu.ppy.sh/community/forums/topics/1484895) |
+| ![][flag_PH] [Inflique](https://osu/ppy/sh/users/13865585) | [Inflique's Snow Machine](https://osu.ppy.sh/community/forums/topics/1498697) |
+| ![][flag_ID] [ArchieA7](https://osu/ppy/sh/users/7087699) | [Musim Dingin](https://osu.ppy.sh/community/forums/topics/1480386) |
+| ![][flag_BR] [JoSanInk](https://osu/ppy/sh/users/10848682) | [N-ice](https://osu.ppy.sh/community/forums/topics/1497539) |
+| ![][flag_JP] [too](https://osu/ppy/sh/users/12196931) | [Shirokuma シロクマ](https://osu.ppy.sh/community/forums/topics/1476743) |
+| ![][flag_ID] [Akshiro](https://osu/ppy/sh/users/10557490) | [Snow](https://osu.ppy.sh/community/forums/topics/1494794) |
+| ![][flag_FR] [Corne2Plum3](https://osu/ppy/sh/users/15646039) | [Snowy Circles](https://osu.ppy.sh/community/forums/topics/1498442) |
+| ![][flag_ID] [nayuu](https://osu/ppy/sh/users/12561379) | [snowyy](https://osu.ppy.sh/community/forums/topics/1498720) |
+| ![][flag_MX] [ZiskyST](https://osu/ppy/sh/users/11844975) | [The Lost Winter](https://osu.ppy.sh/community/forums/topics/1494537) |
+| ![][flag_US] [Icysandwich](https://osu/ppy/sh/users/10961544) | [Tides of osu!](https://osu.ppy.sh/community/forums/topics/1498620) |
+| ![][flag_CA] [RUDEKA](https://osu/ppy/sh/users/13015586) | [TOWN](https://osu.ppy.sh/community/forums/topics/1484572) |
+| ![][flag_MY] [HIDOKOMORI123](https://osu/ppy/sh/users/14216890) | [WINTERMACHI](https://osu.ppy.sh/community/forums/topics/1491283) |
+
+## Podium
+
+*For the full results, see the [contest page](https://osu.ppy.sh/community/contests/137).*
+
+![](img/podium.png "Skinning Contest #2 podium")
 
 ## Ruleset
 
@@ -75,9 +108,20 @@ The Skinning Contest #2 is run by various community members.
 - The file size for your .osk submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page.
 
-[Flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[Flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[Flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[Flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[Flag_RO]: /wiki/shared/flag/RO.gif "Romania"
-[Flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

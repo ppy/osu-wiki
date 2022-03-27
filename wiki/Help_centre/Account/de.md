@@ -53,15 +53,15 @@ In Situationen, in denen wir uns sicher sind, dass Schummelei oder Fehlverhalten
 
 Siehe *[Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions)* für mehr Informationen über Accounteinschränkungen und das Beschwerdeverfahren.
 
-## Wettbewerbssperre
+## Turniersperre
 
-### Was ist eine Wettbewerbssperre?
+### Was ist eine Turniersperre?
 
-Wettbewerbssperren sind, wie der Name beschreibt, ein Verbot der Teilnahme an allen offiziell unterstützten Wettbewerben.
+Turniersperren sind, wie der Name beschreibt, ein Verbot der Teilnahme an allen offiziell unterstützten Turnieren.
 
-Ein Benutzer kann eine Wettbewerbssperre für einen Bruch der osu!-Communityregeln während eines Turnierspiels bekommen, abhängig von dem Schweregrad des Verstoßes. Beispiele für solches Fehlverhalten sind unter anderem das Erlangen eines unfairen Vorteils in offiziell unterstützten Wettbewerben, jemanden beleidigen, der an einem Turnier teilnimmt, oder die absichtliche Störung des Turnierablaufs.
+Ein Benutzer kann eine Turniersperre für einen Bruch der osu!-Communityregeln während eines Turnierspiels bekommen, abhängig von dem Schweregrad des Verstoßes. Beispiele für solches Fehlverhalten sind unter anderem das Erlangen eines unfairen Vorteils in offiziell unterstützten Turnieren, jemanden beleidigen, der an einem Turnier teilnimmt, oder die absichtliche Störung des Turnierablaufs.
 
-Die meisten Wettbewerbssperren haben eine festgelegte Dauer, variierend von 3 Monaten bis zu einem Jahr und mehr. Einige Sperren können dauerhaft sein. Unabhängig von der Dauer der Sperre sind alle Turniersperren **final** und können nicht angefochtet werden, wie es bei Einschränkungen der Fall ist.
+Die meisten Turniersperren haben eine festgelegte Dauer, variierend von 3 Monaten bis zu einem Jahr und mehr. Einige Sperren können dauerhaft sein. Unabhängig von der Dauer der Sperre sind alle Turniersperren **final** und können nicht angefochtet werden, wie es bei Einschränkungen der Fall ist.
 
 ## Anmeldung
 
