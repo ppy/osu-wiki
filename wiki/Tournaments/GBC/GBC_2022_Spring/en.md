@@ -74,12 +74,12 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 10. Beatmaps must not be reused in the same match, except for rematches.
-11. The maximum size for a team is depending on the amount of registrations, and the minimum is 5.
-   - While this competition has been planned as a 5 players per team, this might change depending on the amount of registrations.
+11. **The maximum size for a team is depending on the amount of registrations, and the minimum is 5。**
+    - *While this competition has been planned as a 5 players per team, this might change depending on the amount of registrations.*
 12. If less than the minimum amount of required players are present at match time, it can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
-   - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
+    - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
 13. Exchanging players during games is allowed without limitations, except tournament special rules.
-   - see Match instructions for detail.
+    - see Match instructions for detail.
 14. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied.
 15. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match). 
 16. All players and staff must be treated with respect. Instructions of the referees and the Host are to be followed. Decisions labeled as final are not to be objected.
