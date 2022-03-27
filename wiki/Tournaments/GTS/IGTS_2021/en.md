@@ -23,7 +23,7 @@ The **Intermediate Global Taiko Showdown 2021** (***IGTS 2021***) was a worldwid
 | Quarterfinals | 2021-08-14/2021-08-15 |
 | Semifinals | 2021-08-21/2021-08-22 |
 | Finals | 2021-08-28/2021-08-29 |
-| Grand Finals | 2021-09-05 |
+| All Stars & Grand Finals | 2021-09-05 |
 
 ## Prizes
 
@@ -104,6 +104,28 @@ The Intermediate Global Taiko Showdown 2021 was run by various community members
 | ![][flag_TH] | **Thailand** | **[Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)**, [\[ Naris \]](https://osu.ppy.sh/users/7033479), [ppgamer](https://osu.ppy.sh/users/7172288) |
 | ![][flag_GB] | **United Kingdom** | **[Ethereal\_Winter](https://osu.ppy.sh/users/9780417)**, [MaranTheLemon](https://osu.ppy.sh/users/13969379), [MicSup08](https://osu.ppy.sh/users/8834793) |
 | ![][flag_US] | **United States** | **[Yujki](https://osu.ppy.sh/users/14987094)**, [Max\_Prm](https://osu.ppy.sh/users/14714592), [-Schwarts](https://osu.ppy.sh/users/4673649), [SlipperyPickle](https://osu.ppy.sh/users/11969691), [SolaEclipse](https://osu.ppy.sh/users/6621158) |
+
+## All Stars participants
+
+Both teams were formed by a vote held in the IGTS Discord server. Participants with the most votes got to be the captain for each team, and the rest of the members were decided by rankings as stated in the [All Stars rules](#all-stars-rules).
+
+| Team | Members |
+| :-- | :-- |
+| **All-Stars Team 1** | ![][flag_US] **[-Schwarts](https://osu.ppy.sh/users/4673649)**, ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_RO] [mikuhatsunegirl10](https://osu.ppy.sh/users/1188782), ![][flag_AR] [-muke-](https://osu.ppy.sh/users/10051194), ![][flag_RO] [Skyblade1](https://osu.ppy.sh/users/4429612), ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) |
+| **All-Stars Team 2** | ![][flag_US] **[SolaEclipse](https://osu.ppy.sh/users/6621158)**, ![][flag_GB] [MicSup08](https://osu.ppy.sh/users/8834793), ![][flag_CN] [NGname](https://osu.ppy.sh/users/13679148), ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943), ![][flag_SG] [TakoJoe](https://osu.ppy.sh/users/13883186), ![][flag_HK] [YonGin](https://osu.ppy.sh/users/7109317) |
+
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_FI] Finland | ![][flag_PT] Portugal |
+| **B** | ![][flag_KR] South Korea | ![][flag_AR] Argentina | ![][flag_NO] Norway | ![][flag_SE] Sweden |
+| **C** | ![][flag_PL] Poland | ![][flag_RO] Romania | ![][flag_TH] Thailand | ![][flag_FR] France |
+| **D** | ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_CL] Chile | ![][flag_ID] Indonesia |
+| **E** | ![][flag_HK] Hong Kong | ![][flag_PH] Philippines | ![][flag_AU] Australia | ![][flag_MY] Malaysia |
+| **F** | ![][flag_SG] Singapore | ![][flag_CO] Colombia | ![][flag_ES] Spain | ![][flag_BR] Brazil |
+| **G** | ![][flag_CN] China | ![][flag_DE] Germany | ![][flag_IN] India | ![][flag_CA] Canada |
+| **H** | ![][flag_NL] Netherlands | ![][flag_RU] Russian Federation | ![][flag_LV] Latvia | ![][flag_IT] Italy |
 
 ## Podium
 
@@ -293,6 +315,14 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+### All Stars
+
+Sunday, 5 September 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **All-Stars Team 1** | **8** | 7 | All-Stars Team 2 | [#1](https://osu.ppy.sh/community/matches/90436261) |
+
 ### Grand Finals
 
 Sunday, 5 September 2021:
@@ -300,7 +330,7 @@ Sunday, 5 September 2021:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 2 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/90416103) |
-| **United States** | **7** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/90418749) |
+| **United States** ![][flag_US] | **7** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/90418749) |
 
 ### Finals
 
@@ -449,36 +479,40 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 1. This tournament is a **2v2 team tournament** with teams of **5 players maximum**.
 2. The teams will first go through qualifiers. Then they will play in a Group Stage and finally play in a double-elimination bracket.
-3. The scoring system used will be Score V2.
+3. The scoring system used will be **Score V2**.
 4. Any player who meets the requirements stated in the [restrictions and registrations](#restrictions-and-registrations) section is allowed to sign up. Since this tournament will aim to get badged some players might be declined by osu! staff.
-5. Any members of staff apart from organizers, mappoolers, and referees are allowed to play.
+5. Any members of staff apart from **organizers, mappool selectors, and referees** are allowed to play.
 6. Players and staff members must have read this ruleset entirely.
 7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
 8. Any rule changes or unexpected occurrences will be announced in the Discord server.
 
 ### Restrictions and registrations
 
-1. In order to participate players need to be in the rank range of #1,000 - #3,500.
-2. Players must join the Discord server of the tournament to actually be counted as a player.
-3. Players sign up individually. When their registration is accepted, they will get a player role with their respective country.
-4. This iteration we are allowing 2 teams for a country under certain conditions:
+1. In order to participate players need to be in the rank range of #3,500 - #10,000.
+2. Players are not allowed to rank up further than #2,500 during the tournament. If they pass the limit, they'll get disqualified.
+3. Players must join the Discord server of the tournament to actually be counted as a player.
+4. Players sign up individually. When their registration is accepted, they will get a player role with their respective country.
+5. osu! staff can refuse player(s) from participating in the tournament if the staff deem their skill is much higher than the targeted rank range.
+6. If there are 35 or more unique countries able to participate after screening, only **1 team per country** will be allowed. In that case, if there are more than 5 players signed up for a country they'll decide among themselves who will partake in the tournament. If they cannot elect the players, they'll be chosen by ranking to form the new team.
+7. If there are less than 35 unique countries, we are allowing 2 teams for a country under certain conditions:
    - There are **7 or more players** signed up for a country.
    - Each team has to have **at least 3 players**.
-5. Prior to rule number 4, there are going to be different case on how the teams are assembled:
+8. Prior to rule number 7, there are going to be different case on how the teams are assembled:
    - If there are 5 players or less signed up for a country, those players will form the team representing their country.
    - In case there are more than 10 players signed up for a country, players will decide among themselves who will partake in the tournament. If they cannot decide the top 10 players by ranking will be chosen to form the 2 teams.
    - If there are 6 players, players will have to decide on the 5 players who will partake in the tournament. If they cannot decide the top 5 players by ranking will be chosen to form the team.
    - If there are 7 to 10 players (after keeping the best ranked ones) signed up for a country, the players from that country will have a few days to decide how to split themselves between the 2 teams. It is recommended to come to an agreement as fast as possible to then decide on the captain and be able to schedule and prepare the upcoming schedules rapidly.
    - In case the players can't come to an agreement, they will be ranked by pp and put in the 2 teams with at least 3 members in each of them with the best ones in a first team and the lowest in the second.
+9. It is recommended to come to an agreement as fast as possible to then decide on the captain and be able to schedule and prepare their matches rapidly.
    - The players will decide on the captain of their team.
    - If the players can't agree or find a captain, the highest ranked player will be chosen.
-6. The captain has the responsibility to reschedule a match if needed and will ensure that their teammates are present for the matches.
+   - The captain has the responsibility to reschedule a match if needed and will ensure that their teammates are present for the matches.
 
 ### Stage regulations
 
 1. There are seven stages in the 1v1 tournament: the Qualifiers, the Group Stage, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
 2. Teams will be seeded with the average of their ranks on each map during the Qualifiers round in 4 seeds: Top seed, High seed, Low seed, and Unseeded.
-3. Teams will be drawn in **8 groups of 4 teams** during live drawings which will happen on Sunday, May 18th 18:00UTC.
+3. Teams will be drawn in **8 groups of 4 teams** during live drawings which will happen on Sunday, July 25th 2021 18:00UTC.
 4. In the Group Stage all the teams from each group will face each other. The **best 2 teams** get out of their group.
 5. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    1. Most matches won.
@@ -504,13 +538,16 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 ### Mappool instructions
 
-1. There will be 1 mappool for each of the following: Qualifiers, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals, and Grand Finals. For the 1v1 tournaments, every mappool will be different per region.
+1. There will be 1 mappool for each of the following: Qualifiers, Group Stage, Round of 16, Quarterfinals, Semifinals, Finals, and Grand Finals.
 2. The Loser's Bracket will play on the same pool as the Winner's bracket of the same weekend.
-3. The Qualifiers pool will be different from all the other rounds, as it will have a format of 2 NoMod maps, 1 Hidden map, 1 HardRock map, 1 DoubleTime map.
+3. The Qualifiers pool will be different from all the other rounds, as it will have a format of 2 NoMod maps, 1 Hidden map, 1 HardRock map, 1 DoubleTime map, and 1 FreeMod map.
 4. Each mappool consists of 6 brackets: **NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker**.
-5. The Group Stage mappool will consist of 14 maps, Round of 16 and Quarterfinals mappool will consist of 15 maps, Semifinals, Finals and Grand Finals mappool will consist of 16 maps.
+5. Total maps per stage will be listed as follows:
+   - The Group Stage mappool will consist of 14 maps
+   - Round of 16 and Quarterfinals mappool will consist of 15 maps
+   - Semifinals, Finals and Grand Finals mappool will consist of 16 maps.
 6. The size of the Hidden, HardRock and DoubleTime brackets will be 2 in all stages and 3 for the FreeMod bracket in all stages as well.
-7. The FreeMod pool is played with FreeMod activated. Every player **has** to pick Hidden, HardRock or both. And at least one player of each team must have at least one mod activated.
+7. The FreeMod pool is played with FreeMod activated. Every player **has to pick** Hidden, HardRock or both. And at least one player of each team must have at least one mod activated.
 8. Player must select different mod combinations with their team member. (e.g. both are using hidden or both are using HardRock)
 9. The Tiebreaker is played under FreeMod conditions but it is not necessary to have mod activated for both teams.
 10. The mappool for each stage will be showcased a week beforehand.
@@ -530,12 +567,12 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 3. If less than the minimum required players attend, the maximum time the match can be postponed is **10 minutes**.
 4. There is no penalty for not joining the room instantly after match time as long as it's within the postponed time.
 5. If neither of both teams have the minimum required players after 10 minutes it will count as a loss for both teams in Group Stage. In the double elimination bracket the highest seeded team will advance.
-6. The match will be played as TeamVs and ScoreV2 and the name of the room must be: "AGTS 2021: (Team Red) vs (Team Blue)".
-7. Each team is allowed one warm-up but it must be below 3 minutes, and must be sent to the referee and streamer of the match one hour prior to the match's start time. Otherwise, the team will have no warmups.
+6. The match will be played as TeamVs and ScoreV2 and the name of the room must be: "IGTS 2021: (Team Red) vs (Team Blue)".
+7. Each team is allowed one warm-up but it must be **below 3 minutes**, and must be sent to the referee and streamer of the match one hour prior to the match's start time. Otherwise, the team will have no warmups.
 8. If a team does not respect the time said in the rule above, they will not have any warm-up for their match.
-9. Each captain has to ban one beatmap from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
+9. Each captain has to ban **one beatmap** from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
 10. The captain of each team will roll with the command `!roll` in the chat.
-11. The team with the highest roll bans second and picks first. The team with the lowest roll bans first and picks second.
+11. The team with the highest roll **bans second and picks first**. The team with the lowest roll **bans first and picks second**.
 12. Each captain has 2 mins to announce their ban. If they didn't tell the referee by that time the ban will be made with a roll.
 13. Beatmap selection will then alternate between each captain selecting a beatmap out of the map pool.
 14. Captains may pick freely from any bracket.
@@ -547,6 +584,20 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 20. Failed players' scores do get added to the team score.
 21. If the beatmap ends in a draw the game will be nullified and the map will be replayed.
 22. In case of a tie in points (example: 4-4 in BO9) the tiebreaker is selected.
+
+### All Stars rules
+
+1. All Stars is a fun event taking place on the same weekend as the Grand Finals! It'll showcase the best players of the tournament playing against each other in a special match.
+2. 12 players will participate in this event. They will be decided by a vote.
+3. The top 12 players will play in All Stars. If there are more than 2 players from a country in the top 12 most voted players only the 2 best will partake in All Stars.
+4. The top 2 players will be captains of each team. Their teammates will be decided by the ranking of the next 6 players. The topmost voted player will play with players with an odd number and the second most voted player with players with an even number.
+5. The mappool will be made by a special team of mappoolers.
+6. The event will be a 4 vs 4 match with the following rules:
+   - Best-of-15 format (First to 8 points).
+   - All the maps are under true FreeMod rule meaning players are free to pick any of the following mods or a combination of them: NoMod, Hidden, HardRock.
+   - No bans.
+   - Map selection is the same as a normal match.
+   - Same rules as a normal match for disconnections.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
