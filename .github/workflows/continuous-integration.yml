@@ -148,7 +148,7 @@ jobs:
           MISSED_TRANSLATIONS=$( echo "$ORIGINAL_ARTICLES" | tr \\n \\0 | xargs -0 dirname | sort -u | {
             while read DIRECTORY; do
               for ARTICLE_NAME in "$DIRECTORY"/*.md; do
-                if ! [[ "$ARTICLE_NAME" =~ \/(..|..-..)\.md ]] || [[ "$ARTICLE_NAME" =~ \/en\.md ]] ; then
+                if ! [[ "$ARTICLE_NAME" =~ \/(..|..-..)\.md ]] || [[ "$ARTICLE_NAME" =~ \/en\.md ]]; then
                   continue
                 fi
                 if ! [[ "$TRANSLATIONS" =~ "$ARTICLE_NAME" ]]; then
