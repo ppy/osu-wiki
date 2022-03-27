@@ -1,8 +1,10 @@
+---
 tags:
   - GBC
   - GBC 2022
   - GBC2022
   - GBC 2022 Spring
+---
 
 # GB Cup 2022 Spring
 
@@ -13,7 +15,7 @@ The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2022-03-26/2022-04-02 (23:59 UTC + 8) |
-| Draft phase | 2022-04-03 (21:00 UTC + 8) | <!--TODO：确定选秀阶段,初定成和小组赛一致>
+| Draft phase | 2022-04-03 (21:00 UTC + 8) |
 | Regular Stage Week 1| 2022-04-09/2022-04-10 |
 | Regular Stage Week 2| 2022-04-16/2022-04-17 |
 | Regular Stage Week 3| 2022-04-23/2022-04-24 |
@@ -27,8 +29,6 @@ The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, KanonBot profile badge, 50 CNY ￥ per team member|
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, 30 CNY ￥ per team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, 20 CNY ￥ per team member |
-
-
 
 ## Organisation
 
@@ -69,13 +69,13 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
 7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
    - Custom skin elements must not be used to alter core gameplay mechanics.
 8. If a game ends in a draw it will be nullified and the beatmap replayed, herein called a *rematch*.
-9.  Teams may ask for a rematch if a team member encounters technical difficulties while playing.
+9. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 10. Beatmaps must not be reused in the same match, except for rematches. <!--TODO：确认重开两次之后，这张图的比分如何计算？-->
-11.  **The maximum size for a team is depending on the amount of registrations, and the minimum is 5.** 
-    - This might change depending on the amount of registrations.
+11. **The maximum size for a team is depending on the amount of registrations, and the minimum is 5.** 
+   - This might change depending on the amount of registrations.
 12. If less than the minimum amount of required players are present at match time, it can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
    - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
 13. Exchanging players during games is allowed without limitations,except tournament special rules (see Match instructions for detail)
@@ -101,12 +101,11 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
 2. Each player could send a VOD clips or an in-game replays to Host, which will be used on Draft phase. 
 3. To ensure valid and serious registrations, every registered user will be manually checked by the Host.
    - To be successfully registrations, player have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-   -  **No rank limitations for this tournament.** but host have the rights to choose several best players may invited to pricipate showmatch instead of actual tournament for balance issues.
+   - **No rank limitations for this tournament.** but host have the rights to choose several best players may invited to pricipate showmatch instead of actual tournament for balance issues.
 4. All successfully registrated player will be published after the Registration Phase.
    - All valid registered players will have the chance to pricipate Draft phase.
 5. Organizers, Mappool Selectors and referees must not participate as a player in the tournament.
 6. Organizers keeps right to decline any suspend account pricipate this tournament.
-
 
 ### Draft phase instructions
 1. Host will declare one captain for each team on 24 hours before Draft phase.
@@ -128,20 +127,18 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
    - This means each phase takes a total of 16 minutes.
 7. After each phase, there is a 1 minutes break before the next phase starts.
 8. At all times, the captians can communicate with others via the in-game channel or voice chat. 
-   -  Other players will be muted during draft phase.
-9.  After Draft phase, Captains may choose, with the approval of the Host, to delegate their role to other prospective team members. 
+   - Other players will be muted during draft phase.
+9. After Draft phase, Captains may choose, with the approval of the Host, to delegate their role to other prospective team members. 
 10. Being negetivate on Drafting phase will be seen as Disrupting the match by foul play.
-
-<!--功能已经审核完毕的内容-->
 
 ### Regular Stage instructions
 
 1. Following the Draft phase, a 3 Round Swiss stage will be played. This means teams with same record will be 
 2. Following rules are using for result ranking in order:
-   - Higher matchs win
+   - Higher matches win
+   - Head to head result (if possible)
    - Higher Buchholz Score
    - Higher beatmaps win
-   - Head to head result (if possible) <!--TODO：确认是否增加相互战绩结果-->
    - Lower beatmaps lose
    - roll dices. 
 3. Top 8 teams will advanced to play-offs, the remains get eliminated from the tournament.
@@ -150,10 +147,8 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
 5. The Regular Stage will also be done to seed teams. Teams will be ordered based on their ranking result.
 
 ### Play-offs instructions
-1. Following the Qualifier stage, a Single Elimination stage will be played. This means that the winner continues in their runs, and the losing team gets  get eliminated from the tournament.
-<!--TODO:是否存在第三名争夺战？-->
+1. Following the Regular stage, a Single Elimination stage will be played. This means that the winner continues in their runs, and the losing team gets  get eliminated from the tournament, except for brozen match.
 2. Teams in the losers bracket must play 2 matches on Play-offs Week 2.
-
 
 #### Win conditions
 
@@ -184,7 +179,6 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
    - Each team will receive **one** "tactical timeout" of **two minutes**, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional, and is not required to be used*. 
 7. Referee reserves the right to modify these rules or decided which team violation rules for mataches they responsible for. This can only happen if necessary.
 
-
 ### Mappool instructions
 
 1. There will be one mappool for each stage.
@@ -205,45 +199,5 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
    - **Do not ask for rescheduling unless it is absolutely needed. The Host reserves the right to decline any rescheduling requests.**
 6. Captains are responsible for their teams' availability. The current team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IN]: /wiki/shared/flag/IN.gif "India"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
-[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
