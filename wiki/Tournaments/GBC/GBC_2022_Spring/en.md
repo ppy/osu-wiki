@@ -19,8 +19,8 @@ The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu
 | Regular Stage Week 1 | 2022-04-09/2022-04-10 |
 | Regular Stage Week 2 | 2022-04-16/2022-04-17 |
 | Regular Stage Week 3 | 2022-04-23/2022-04-24 |
-| Play-offs Week 1 | 2022-04-30/2022-05-01 |
-| Play-offs Week 2 | 2022-05-07/2022-05-08 |
+| Playoffs Week 1 | 2022-04-30/2022-05-01 |
+| Playoffs Week 2 | 2022-05-07/2022-05-08 |
 
 ## Prizes
 
@@ -32,7 +32,7 @@ The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu
 
 ## Organisation
 
-The osu!mania 4K World Cup 2021 was run by the GB Team and various community members.
+The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -74,8 +74,8 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 10. Beatmaps must not be reused in the same match, except for rematches.
-11. **The maximum size for a team is depending on the amount of registrations, and the minimum is 5.**
-    - *While this competition has been planned as a 5 players per team, this might change depending on the amount of registrations.*
+11. **The size for a team is 5.**
+    - This might change depending on the amount of registrations.
 12. If less than the minimum amount of required players are present at match time, it can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
     - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
 13. Exchanging players during games is allowed without limitations, except tournament special rules.
@@ -102,7 +102,7 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
 2. Each player could send a VOD clips or an in-game replays to Host, which will be used on Draft phase. 
 3. To ensure valid and serious registrations, every registered user will be manually checked by the Host.
    - To be successfully registrations, player have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-   - **No rank limitations for this tournament.** but host have the rights to choose several best players may invited to pricipate showmatch instead of actual tournament for balance issues.
+   - **No rank limitations for this tournament.** but host have the rights to choose several **best** players may invited to **pricipate showmatch instead of actual tournament** for balance issues.
 4. All successfully registrated player will be published after the Registration Phase.
    - All valid registered players will have the chance to pricipate Draft phase.
 5. Organizers, Mappool Selectors and referees must not participate as a player in the tournament.
@@ -128,27 +128,28 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
 6. If the captain picks a player, the pick time still has to elapse before the next captain's turn starts.
    - This means each phase takes a total of 16 minutes.
 7. After each phase, there is a 1 minutes break before the next phase starts.
-8. At all times, the captians can communicate with others via the in-game channel or voice chat. 
+8. At all times, the captians can communicate with others via the same multiplayer chatrooms or voice chat. 
    - Other players will be muted during draft phase.
 9. After Draft phase, Captains may choose, with the approval of the Host, to delegate their role to other prospective team members. 
 10. Being negetivate on Drafting phase will be seen as Disrupting the match by foul play.
 
 ### Regular Stage instructions
 
-1. Following the Draft phase, a 3 Round Swiss stage will be played. This means teams with same record will be 
-2. Following rules are using for result ranking in order:
+1. Following the Draft phase, a 3 rounds Swiss stage will be played. This means teams with same record will be faced to each other.
+2. Following rules are using for deterimined final ranking in order:
    - Higher matches win
    - Head to head result (if possible)
    - Higher Buchholz Score
    - Higher beatmaps win
    - Lower beatmaps lose
    - roll dices. 
-3. Top 8 teams will advanced to play-offs, the remains get eliminated from the tournament.
+3. Top 8 teams will advanced to Playoff Stage, the remains get eliminated from the tournament.
    - that means teams with 2-X or better record will be advanced to next stage.
+   - All teams will finished 3 rounds, even they have 0-2 records.
 4. In the Regular Stage, all team will play in same mappools.
 5. The Regular Stage will also be done to seed teams. Teams will be ordered based on their ranking result.
 
-### Play-offs instructions
+### Playoff Stage instructions
 
 1. Following the Regular stage, a Single Elimination stage will be played. This means that the winner continues in their runs, and the losing team gets  get eliminated from the tournament, except for brozen match.
 2. Teams in the losers bracket must play 2 matches on Play-offs Week 2.
@@ -185,6 +186,7 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
 ### Mappool instructions
 
 1. There will be one mappool for each stage.
+   - The whole Regular stage will be seen as same stage, that means a  mappools will be used in all match in Regular stage.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. All mappools contains 13 beatmaps.
 4. Each mappool has one tiebreake.
