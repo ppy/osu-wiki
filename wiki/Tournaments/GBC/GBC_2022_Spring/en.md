@@ -8,14 +8,14 @@ tags:
 
 # GB Cup 2022 Spring
 
-The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu!mania 4-key tournament hosted by the ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407).
+The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu!mania 4-key tournament hosted by ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407).
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2022-03-26/2022-04-02 (23:59 UTC + 8) |
-| Draft phase | 2022-04-03 (21:00 UTC + 8) |
+| Registration phase | 2022-03-26/2022-04-02 (23:59 UTC+8) |
+| Draft phase | 2022-04-03 (21:00 UTC+8) |
 | Regular Stage Week 1 | 2022-04-09/2022-04-10 |
 | Regular Stage Week 2 | 2022-04-16/2022-04-17 |
 | Regular Stage Week 3 | 2022-04-23/2022-04-24 |
@@ -26,7 +26,7 @@ The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, KanonBot profile badge, 50 CNY ￥ per team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, 50 CNY ￥ per team member |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, 30 CNY ￥ per team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, 20 CNY ￥ per team member |
 
@@ -98,12 +98,12 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 ### Tournament registration
 
-1. Please **send Host private messages** **and** filled [**this form**](https://wj.qq.com/s2/9902248/95cf/) to registration. 
+1. Please send the Host **a private message** and **fill [this form](https://wj.qq.com/s2/9902248/95cf/)** to register. 
 2. Each player could send a VOD clips or an in-game replays to Host, which will be used on Draft phase. 
 3. To ensure valid and serious registrations, every registered user will be manually checked by the Host.
    - To be successfully registrations, player have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **No rank limitations for this tournament.** but host have the rights to choose several **best** players may invited to **pricipate showmatch instead of actual tournament** for balance issues.
-4. All successfully registrated player will be published after the Registration Phase.
+4. A list of all successfully registered players will be published after the Registration Phase.
    - All valid registered players will have the chance to pricipate Draft phase.
 5. Organizers, Mappool Selectors and referees must not participate as a player in the tournament.
 6. Organizers keeps right to decline any suspend account pricipate this tournament.
