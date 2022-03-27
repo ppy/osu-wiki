@@ -463,11 +463,10 @@ Sonntag, 9. November 2014:
 | Finalwoche 1 | O & AB, AC, AD, AE |
 | Finalwoche 2 | P, Q |
 
-#### Bedingungen, um zu gewinnen
-
-- In der Gruppenphase benötigst du 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
-- Im Achtel- und Viertelfinale benötigst du 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
-- Im Halbfinale und im Finale benötigst du 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
+12. **Bedingungen, um zu gewinnen:**
+    - In der Gruppenphase benötigst du 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
+    - Im Achtel- und Viertelfinale benötigst du 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
+    - Im Halbfinale und im Finale benötigst du 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
 
 ### Partieanweisungen
 
