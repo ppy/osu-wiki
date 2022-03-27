@@ -444,39 +444,30 @@ Sonntag, 9. November 2014:
 ### Etappenanweisungen
 
 1. In der ersten Etappe (Gruppenphase) werden alle Teams in 8 Gruppen mit jeweils 4 Teams aufgeteilt.
-
 2. Die Teams werden gegen alle anderen Teams in derselben Gruppe antreten.
-
 3. Rankings werden für jede Gruppe durch eine Sortierung von den Ergebnissen anhand der Performance jedes Teams an den folgenden Prioritäten ermittelt:
-
 4. Am meisten gewonnene Partien.
-
 5. Hat ein größeres `{(Anzahl an gewonnenen Maps) - (Anzahl an verlorenen Maps)}`.
-
 6. Am meisten gewonnene Maps.
-
 7. Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
-
 8. Gewinner von Rückspielen.
-
 9. Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
-
 10. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
-
 11. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
 
-   | Etappe | Partie-ID |
-   | :-- | :-- |
-   | Achtelfinale | A, B, C, D, E, F, G, H |
-   | Viertelfinale | I, J, K, L & R, S, T, U |
-   | Halbfinale | M, N & V, W, X, Y, Z, AA |
-   | Finalwoche 1 | O & AB, AC, AD, AE |
-   | Finalwoche 2 | P, Q |
+| Etappe | Partie-ID |
+| :-- | :-- |
+| Achtelfinale | A, B, C, D, E, F, G, H |
+| Viertelfinale | I, J, K, L & R, S, T, U |
+| Halbfinale | M, N & V, W, X, Y, Z, AA |
+| Finalwoche 1 | O & AB, AC, AD, AE |
+| Finalwoche 2 | P, Q |
 
-12. **Bedingungen, um zu gewinnen:**
-    - In der Gruppenphase benötigst du 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
-    - Im Achtel- und Viertelfinale benötigst du 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
-    - Im Halbfinale und im Finale benötigst du 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
+#### Bedingungen, um zu gewinnen
+
+- In der Gruppenphase benötigst du 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
+- Im Achtel- und Viertelfinale benötigst du 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
+- Im Halbfinale und im Finale benötigst du 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
 
 ### Partieanweisungen
 
