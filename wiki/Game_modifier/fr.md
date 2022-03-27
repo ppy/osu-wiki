@@ -21,7 +21,7 @@ tags:
 
 **Les modificateurs de jeu** (ou "mod" en abrégé) sont des modifications facultatives des éléments et des paramètres d'une [beatmap](/wiki/Beatmap) que les joueurs peuvent activer à partir de l'écran de sélection des mods (ci-dessus). Les mods peuvent rendre les beatmaps plus faciles, plus difficiles ou tout simplement plus amusantes.
 
-Les joueurs peuvent accéder à l'écran de sélection des mods dans l'écran de sélection des chansons en cliquant sur le bouton `Mods` situé dans le coin inférieur gauche de l'écran ou en appuyant sur la touche "F1" de leur clavier. Une fois dans l'écran de sélection des mods, il y a aussi des raccourcis clavier qui peuvent être utilisés pour sélectionner des mods spécifiques. Ces raccourcis peuvent être modifiés dans les Options.
+Les joueurs peuvent accéder à l'écran de sélection des mods dans l'écran de sélection des musiques en cliquant sur le bouton `Mods` situé dans le coin inférieur gauche de l'écran ou en appuyant sur la touche "F1" de leur clavier. Une fois dans l'écran de sélection des mods, il y a aussi des raccourcis clavier qui peuvent être utilisés pour sélectionner des mods spécifiques. Ces raccourcis peuvent être modifiés dans les Options.
 
 Sur l'écran de sélection, les mods sont séparés en trois catégories : `Difficulté réduite`, `Difficulté augmentée`, et `Divers`. Ils peuvent soit réduire, augmenter ou supprimer le [`Multiplicateur de score`](/wiki/Game_modifier/Score_multiplier). Lorsque deux mods sont utilisés simultanément, les multiplicateurs respectifs des mods seront multipliés ensemble (exemple, `1.06x * 1.12x = 1.1872x`).
 

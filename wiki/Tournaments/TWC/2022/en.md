@@ -50,6 +50,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1519196)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Challonge bracket](https://challonge.com/TWC_2022)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/81) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vThLpR1_d3DZvJuYNeIwZCAvUlBiiKviX_ssZrmqIuh-Oh6yZbfevBL7oH9p3bC8uFF1TJ4WK1ug5yI/pubhtml)
 
 ## Participants
@@ -94,7 +95,85 @@ The osu!taiko World Cup 2022 is run by various community members.
 | ![][flag_US] | **United States** | **[general chicken](https://osu.ppy.sh/users/8050850)**, [R J](https://osu.ppy.sh/users/6490509), [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [Miniature Lamp](https://osu.ppy.sh/users/9821194), [ChurroChef](https://osu.ppy.sh/users/9258564), [cheese salad](https://osu.ppy.sh/users/6349821) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [AkiraPlayz](https://osu.ppy.sh/users/16039831), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [JackTVN](https://osu.ppy.sh/users/12510704), [njshift1](https://osu.ppy.sh/users/16688499) |
 
+## Match schedule: Round of 16
+
+### Saturday, March 26, 2022
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| New Zealand | ![][flag_NZ] | ![][flag_PH] | Philippines | Mar 26 (Sat) 11:00 UTC | Mar 26 (Sat) 23:00 UTC+12 | Mar 26 (Sat) 19:00 UTC+8 |
+| Portugal | ![][flag_PT] | ![][flag_SG] | Singapore | Mar 26 (Sat) 13:00 UTC | Mar 26 (Sat) 13:00 UTC | Mar 26 (Sat) 21:00 UTC+8 |
+| Netherlands | ![][flag_NL] | ![][flag_CH] | Switzerland | Mar 26 (Sat) 14:00 UTC | Mar 26 (Sat) 15:00 UTC+1 | Mar 26 (Sat) 15:00 UTC+1 |
+| Czech Republic | ![][flag_CZ] | ![][flag_AR] | Argentina | Mar 26 (Sat) 16:00 UTC | Mar 26 (Sat) 17:00 UTC+1 | Mar 26 (Sat) 13:00 UTC-3 |
+| Costa Rica | ![][flag_CR] | ![][flag_TR] | Turkey | Mar 26 (Sat) 17:00 UTC | Mar 26 (Sat) 11:00 UTC-6 | Mar 26 (Sat) 20:00 UTC+3 |
+| Germany | ![][flag_DE] | ![][flag_FR] | France | Mar 26 (Sat) 17:00 UTC | Mar 26 (Sat) 18:00 UTC+1 | Mar 26 (Sat) 18:00 UTC+1 |
+| Mexico | ![][flag_MX] | ![][flag_IT] | Italy | Mar 26 (Sat) 20:00 UTC | Mar 26 (Sat) 14:00 UTC-6 | Mar 26 (Sat) 21:00 UTC+1 |
+
+### Sunday, March 27, 2022
+
+| Team A | | | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| United States | ![][flag_US] | ![][flag_AU] | Australia | Mar 27 (Sun) 03:00 UTC | Mar 26 (Sat) 22:00 UTC-5 | Mar 27 (Sun) 13:00 UTC+10 |
+| Hong Kong | ![][flag_HK] | ![][flag_MY] | Malaysia | Mar 27 (Sun) 12:00 UTC | Mar 27 (Sun) 20:00 UTC+8 | Mar 27 (Sun) 20:00 UTC+8 |
+| South Korea | ![][flag_KR] | ![][flag_FI] | Finland | Mar 27 (Sun) 12:00 UTC | Mar 27 (Sun) 21:00 UTC+9 | Mar 27 (Sun) 14:00 UTC+2 |
+| Poland | ![][flag_PL] | ![][flag_RU] | Russian Federation | Mar 27 (Sun) 13:00 UTC | Mar 27 (Sun) 14:00 UTC+1 | Mar 27 (Sun) 16:00 UTC+3 |
+| Taiwan | ![][flag_TW] | ![][flag_ID] | Indonesia | Mar 27 (Sun) 13:00 UTC | Mar 27 (Sun) 21:00 UTC+8 | Mar 27 (Sun) 20:00 UTC+7 |
+| Colombia | ![][flag_CO] | ![][flag_CN] | China | Mar 27 (Sun) 14:00 UTC | Mar 27 (Sun) 09:00 UTC-5 | Mar 27 (Sun) 22:00 UTC+8 |
+| Japan | ![][flag_JP] | ![][flag_CL] | Chile | Mar 27 (Sun) 14:00 UTC | Mar 27 (Sun) 23:00 UTC+9 | Mar 27 (Sun) 11:00 UTC-3 |
+| Brazil | ![][flag_BR] | ![][flag_GB] | United Kingdom | Mar 27 (Sun) 15:00 UTC | Mar 27 (Sun) 12:00 UTC-3 | Mar 27 (Sun) 15:00 UTC |
+| Canada | ![][flag_CA] | ![][flag_SE] | Sweden | Mar 27 (Sun) 16:00 UTC | Mar 27 (Sun) 11:00 UTC-5 | Mar 27 (Sun) 17:00 UTC+1 |
+
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here (70 MB)](https://drive.google.com/uc?id=1BAYyEckltoxlJ91jjZDd-J8kz67pMz6f)**
+
+- NoMod
+  1. [Tartarate - It's rainy to bye (ler1211) \[Goodbye (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/1711152#taiko/3522974)
+  2. [ZxNX - Fiend Demme (Nofool) \[Oni (edit)\]](https://osu.ppy.sh/beatmapsets/1723979#taiko/3523337)
+  3. [J-CORE SLi//CER - Yrotsevol Yppahrepyh (X a v y) \[hlskdjfghlksdjfhgkslfdjg\]](https://osu.ppy.sh/beatmapsets/1724001#taiko/3523387)
+  4. [underscores - Where did you fall (Ulqui) \[heartbroken\]](https://osu.ppy.sh/beatmapsets/1414012#taiko/2914571)
+- Hidden
+  1. [Igorrr - Kung-Fu Chevre (Nifty) \[Shaolin Feta\]](https://osu.ppy.sh/beatmapsets/1723995#taiko/3523378)
+  2. [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (Cychloryn) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1206425#taiko/3523443)
+- Hard Rock
+  1. [Yunosuke - Illusional Flashback (Nifty) \[Delirium\]](https://osu.ppy.sh/beatmapsets/1723994#taiko/3523376)
+  2. [EBIMAYO - GOODRAGE (-xNaCLx-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/681490#taiko/1440955)
+- Double Time
+  1. [Marpril - Breaker City (sikawalk Remix) (X a v y) \[Oni\]](https://osu.ppy.sh/beatmapsets/1724008#taiko/3523405)
+  2. [Tanchiky - WABI-CIRCUIT (Original Mix) (gaston\_2199) \[ONI\]](https://osu.ppy.sh/beatmapsets/1365528#taiko/2824584)
+- FreeMod
+  1. [Camellia - This Future (we didn't expect) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/1240296#taiko/2578605)
+  2. [Mitsukiyo - Madeleine (aabc271) \[Inner Oni+\]](https://osu.ppy.sh/beatmapsets/1723908#taiko/3523210)
+  3. [asteria - FUSION (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1723980#taiko/3523339)
+- Tiebreaker
+  1. **[Giga - BRING IT ON feat. Kagamine Rin, Len (Sixstylez Bootleg) (TaikOseania) \[INFERIORITY and SUPERIORITY\]](https://osu.ppy.sh/beatmapsets/1677785#taiko/3427811)**
+
+### Round of 32
+
+**[Download the mappack here (88 MB)](https://drive.google.com/uc?id=12G9mUCf-8-8GykJ7Oh76VgBW6B-ukvX5)**
+
+- NoMod
+  1. [Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (KTYN) \[Passing love\]](https://osu.ppy.sh/beatmapsets/1334132#taiko/2763983)
+  2. [t+pazolite - Troll The Cowardly (Sick Candy Terror Of Feryquitous) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/808095#taiko/1695840)
+  3. [SAVE THE QUEEN - EX-Termination (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1640909#taiko/3349161)
+  4. [meganeko - Feral (osu version) (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/1384524#taiko/2860370)
+- Hidden
+  1. [Lucky Vacuum - Daily Lunch Special (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1159807#taiko/2420011)
+  2. [t+pazolite - You are the Miserable (Fynbi) \[Master Oni\]](https://osu.ppy.sh/beatmapsets/947105#taiko/2252523)
+- Hard Rock
+  1. [Function Phantom - Euclid (tasuke912) \[Indifferentiable\]](https://osu.ppy.sh/beatmapsets/761560#taiko/1601331)
+  2. [penoreri - Lancelot \~Flame of the Rebellion\~ (Servatory) \[Inner Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1491668#taiko/3512780)
+- Double Time
+  1. [Naganuma Hideki - Funky Dealer (Fraolinch) \[Inner Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1095575#taiko/3513038)
+  2. [Earth, Wind & Fire - September (yomoha remix) (Midnaait) \[Juano's Oni\]](https://osu.ppy.sh/beatmapsets/1075239#taiko/2251301)
+- FreeMod
+  1. [EBIMAYO - BADTEK (GNKait) \[INNERONI\]](https://osu.ppy.sh/beatmapsets/1277370#taiko/2653928)
+  2. [Getty - Sonic Bass (KTYN) \[Sprint\]](https://osu.ppy.sh/beatmapsets/1719106#taiko/3513220)
+  3. [M2U - Mare Maris (radar) \[how the why 2 \<THE FINAL\>\]](https://osu.ppy.sh/beatmapsets/1719045#taiko/3513063)
+- Tiebreaker
+  1. **[Dustvoxx, Laur - FireLight (yea) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/978134#taiko/2047037)**
 
 ### Qualifiers
 
@@ -115,6 +194,86 @@ The osu!taiko World Cup 2022 is run by various community members.
   2. [Feryquitous feat. Sennzai - Rugie (Maimaing) \[somnum\]](https://osu.ppy.sh/beatmapsets/1712786#taiko/3499875)
 - FreeMod
   1. [seatrus - O (KTYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/1712976#taiko/3500185)
+
+## Match results
+
+### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1dcyZUSqBQjFKorRFZKEfZ4ZVbIggI4WlWxC1Eofp1Mw/edit?rm=minimal).
+
+Saturday, March 19, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Chile** ![][flag_CL] | **5** | 2 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/98886392) |
+| **Malaysia** ![][flag_MY] | **5** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/98889890) |
+| **France** ![][flag_FR] | **5** | 2 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/98903469) |
+| **Japan** ![][flag_JP] | **5** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/98907836) |
+
+Sunday, March 20, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/98911287) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/98916980) |
+| **Hong Kong** ![][flag_HK] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/98923225) |
+| **Australia** ![][flag_AU] | **5** | 3 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/98924385) |
+| **United Kingdom** ![][flag_GB] | **5** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/98924429) |
+| Italy ![][flag_IT] | 3 | **5** | ![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/98928985) |
+| **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/98930618) |
+| **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/98930679) |
+| **Germany** ![][flag_DE] | **5** | 0 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/98932764) |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/98934492) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_CR] Costa Rica | [#1](https://osu.ppy.sh/community/matches/98938285) |
+| **Sweden** ![][flag_SE] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/98940557) |
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1A5rJtjh4iR934PY5fLp0RXIHGZOG1lEa90WAoK9B-Ro/edit?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1dWVR84e_MCsFQnXgNZR9KBdi0AEnPIpkEdi4bu8-pbc/edit?rm=minimal).
+
+Qualifier results:
+
+| Seed | Country | Rank Sum |
+| :-: | :-- | :-: | 
+| #1 | ![][flag_JP] Japan | 16 |
+| #2 | ![][flag_KR] South Korea | 36 |
+| #3 | ![][flag_DE] Germany | 38 |
+| #4 | ![][flag_HK] Hong Kong | 65 |
+| #5 | ![][flag_US] United States | 80 |
+| #6 | ![][flag_TW] Taiwan | 88 |
+| #7 | ![][flag_BR] Brazil | 104 |
+| #8 | ![][flag_CA] Canada | 109 |
+| #9 | ![][flag_SE] Sweden | 111 |
+| #10 | ![][flag_GB] United Kingdom | 112 |
+| #11 | ![][flag_ID] Indonesia | 113* |
+| #12 | ![][flag_AU] Australia | 113* |
+| #13 | ![][flag_MY] Malaysia | 121 |
+| #14 | ![][flag_FR] France | 124 |
+| #15 | ![][flag_IT] Italy | 126 |
+| #16 | ![][flag_CL] Chile | 137 |
+| #17 | ![][flag_CN] China | 143 |
+| #18 | ![][flag_FI] Finland | 155 |
+| #19 | ![][flag_AR] Argentina | 166 |
+| #20 | ![][flag_RU] Russian Federation | 194 |
+| #21 | ![][flag_TR] Turkey | 218 |
+| #22 | ![][flag_SG] Singapore | 236 |
+| #23 | ![][flag_PH] Philippines | 238 |
+| #24 | ![][flag_CH] Switzerland | 244 |
+| #25 | ![][flag_NL] Netherlands | 247 |
+| #26 | ![][flag_NZ] New Zealand | 259 |
+| #27 | ![][flag_PT] Portugal | 262 |
+| #28 | ![][flag_CR] Costa Rica | 271 |
+| #29 | ![][flag_PL] Poland | 279 |
+| #30 | ![][flag_CZ] Czech Republic | 282 |
+| #31 | ![][flag_MX] Mexico | 296 |
+| #32 | ![][flag_CO] Colombia | 323 |
+| #33 | ![][flag_DK] Denmark | 327 |
+| #34 | ![][flag_NO] Norway | 335 |
+| #35 | ![][flag_ES] Spain | 336 |
+| #36 | ![][flag_VN] Vietnam | 354 |
+| #37 | ![][flag_AT] Austria | 370 |
+
+\**: higher average team score used as a tiebreaker*
 
 ## Ruleset
 

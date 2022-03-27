@@ -39,8 +39,9 @@ Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meeti
 | 8 | [9 janvier 2022](https://youtu.be/JXgQ6YEDCGg) | [Document de synthèse](https://docs.google.com/document/d/1wJtJ7Agnsci3Ujxk52-ajeXfSJEKO-RCXDZCSUHcQYY) | Mécanique des HP (drain de santé), questions diverses de la communauté |
 | 9 | [22 janvier 2022](https://youtu.be/Prx0XzHl6-M) | [Document de synthèse](https://docs.google.com/document/d/1W_97ttbAo1mHjUgTeU_IB5SQVeQztT-pRrwiyTfjTu4) | Questions diverses de la communauté, mise à jour concernant le développement |
 | 10 | [6 février 2022](https://youtu.be/xA4nbE8DM4s) | [Document de synthèse](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Questions diverses de la communauté |
-| 11 | [20 février 2022](https://youtu.be/d66pU5lsHvE) | - | Score et multiplicateurs de mods |
-| 12 | [6 mars 2022](https://youtu.be/HimCHAnPCCY) | - | Classements, compatibilité entre les clients, et préparation de la sortie d'osu!(lazer) |
+| 11 | [20 février 2022](https://youtu.be/d66pU5lsHvE) | [Article récapitulatif](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) | Score et multiplicateurs de mods |
+| 12 | [6 mars 2022](https://youtu.be/HimCHAnPCCY) | [Article récapitulatif](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) | Classements, compatibilité entre les clients, et préparation de la sortie d'osu!(lazer) |
+| 13 | [20 mars 2022](https://youtu.be/2Cp9rm0rNPQ) | [Document de synthèse](https://docs.google.com/document/d/1X6ak_3CXxTYQLz71yhSTsKkl7cm74iaCQ7wecDkE6uQ) | Mise à jour concernant le développement, questions diverses de la communauté |
 
 ## Liens associés
 

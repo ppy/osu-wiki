@@ -8,8 +8,8 @@ Il serait bon de faire des cours accélérés de toutes les commandes en utilisa
 
 ## Démarrage
 
-1. Placez tous vos éléments/photos du storyboard dans le dossier des chansons de votre map et créez un sous-dossier nommé "SB" pour eux.
-2. Accédez à votre map via l'éditeur et allez dans l'onglet "Design".
+1. Placez tous vos éléments/photos du storyboard dans le dossier des musiques de votre beatmap et créez un sous-dossier nommé "SB" pour eux.
+2. Accédez à votre beatmap via l'éditeur et allez dans l'onglet "Design".
 3. Trouvez la bonne case sur la timeline au-dessus de laquelle vous voulez que votre élément de storyboard apparaisse, puis cliquez sur "Sprite Library" et sélectionnez votre image. Assurez-vous que votre élément ne dépasse pas 800x600 px. C'est le seuil maximum.
 4. Sélectionnez maintenant la commande de ce que vous voulez que votre élément fasse (Déplacer, Échelle, Fondu, Rotation ou Couleur) et appuyez sur le "+" de "Keyframe Control" pour placer un point pour la commande au moment où vous vous trouvez. Le bouton "-" sur "Keyframe Control" supprime à nouveau le point, et les boutons fléchés vous permettent de sauter entre plusieurs points de la même commande pour le même élément du SB.
 5. Trouvez maintenant le timing point auquel vous voulez que la commande se termine (à un moment ultérieur). Vous aurez ainsi 2 points pour elle et la ligne de couleur correspondante entre ces points. Vert - Déplacement ; Rouge - Échelle ; Rose - Fondu ; Jaune - Rotation ; Rose clair - Couleur

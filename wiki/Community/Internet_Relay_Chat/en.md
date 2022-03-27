@@ -16,6 +16,7 @@ Open settings of your IRC client and fill in the values (you may need to add a s
 
 - Server: `irc.ppy.sh`
 - Port: `6667`
+- SSL: disabled
 - Username: your osu! username. Replace spaces with underscores (e.g., `beppy master 1000` becomes `beppy_master_1000`)
 - Password: the password from [IRC Authentication](https://osu.ppy.sh/p/irc) page
 
