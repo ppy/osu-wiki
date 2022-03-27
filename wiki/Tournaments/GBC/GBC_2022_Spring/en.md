@@ -74,7 +74,7 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 10. Beatmaps must not be reused in the same match, except for rematches.
-11. **The maximum size for a team is depending on the amount of registrations, and the minimum is 5。**
+11. **The maximum size for a team is depending on the amount of registrations, and the minimum is 5.**
     - *While this competition has been planned as a 5 players per team, this might change depending on the amount of registrations.*
 12. If less than the minimum amount of required players are present at match time, it can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
     - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
