@@ -16,9 +16,9 @@ The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu
 | --: | :-- |
 | Registration phase | 2022-03-26/2022-04-02 (23:59 UTC + 8) |
 | Draft phase | 2022-04-03 (21:00 UTC + 8) |
-| Regular Stage Week 1| 2022-04-09/2022-04-10 |
-| Regular Stage Week 2| 2022-04-16/2022-04-17 |
-| Regular Stage Week 3| 2022-04-23/2022-04-24 |
+| Regular Stage Week 1 | 2022-04-09/2022-04-10 |
+| Regular Stage Week 2 | 2022-04-16/2022-04-17 |
+| Regular Stage Week 3 | 2022-04-23/2022-04-24 |
 | Play-offs Week 1 | 2022-04-30/2022-05-01 |
 | Play-offs Week 2 | 2022-05-07/2022-05-08 |
 
@@ -26,7 +26,7 @@ The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, KanonBot profile badge, 50 CNY ￥ per team member|
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, KanonBot profile badge, 50 CNY ￥ per team member |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, 30 CNY ￥ per team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, 20 CNY ￥ per team member |
 
@@ -38,12 +38,12 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
 | :-- | :-- |
 | Host | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Staff | ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291),![][flag_CN] [IA Daisuki](https://osu.ppy.sh/users/11238501),![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645) |
-| Mappool selector |![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14095291),![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561),![][flag_CN] [\[GB\]Yuria](https://osu.ppy.sh/users/13092888),![][flag_CN] [IA Daisuki](https://osu.ppy.sh/users/11238501) |
-| Mappool tester |![][flag_CN] [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771),![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334),![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831),![][flag_CN] [FleVI](https://osu.ppy.sh/users/12519616),![][flag_CN] [Takeru3](https://osu.ppy.sh/users/15188014),![][flag_CN] [_Yiiiiii](https://osu.ppy.sh/users/6066359),![][flag_CN] [rbqq](https://osu.ppy.sh/users/13747488/mania),![][flag_CN] [Seven_Nye](https://osu.ppy.sh/users/20886966),![][flag_CN] [aa219040](https://osu.ppy.sh/users/11653961),![][flag_CN] [DongDouFu](https://osu.ppy.sh/users/17621613) |
+| Mappool selector | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14095291),![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561),![][flag_CN] [\[GB\]Yuria](https://osu.ppy.sh/users/13092888),![][flag_CN] [IA Daisuki](https://osu.ppy.sh/users/11238501) |
+| Mappool tester | ![][flag_CN] [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771),![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334),![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831),![][flag_CN] [FleVI](https://osu.ppy.sh/users/12519616),![][flag_CN] [Takeru3](https://osu.ppy.sh/users/15188014),![][flag_CN] [_Yiiiiii](https://osu.ppy.sh/users/6066359),![][flag_CN] [rbqq](https://osu.ppy.sh/users/13747488/mania),![][flag_CN] [Seven_Nye](https://osu.ppy.sh/users/20886966),![][flag_CN] [aa219040](https://osu.ppy.sh/users/11653961),![][flag_CN] [DongDouFu](https://osu.ppy.sh/users/17621613) |
 | Referee | *TBA* |
 | Commentator | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617) ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291) ![][flag_CN] [Edward_Tsui](https://osu.ppy.sh/users/8609627) |
 | Designer | *TBA* |
-| Statistician |![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407)，![][flag_CN] [Rush_FTK](https://osu.ppy.sh/users/3046856)  |
+| Statistician | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407)，![][flag_CN] [Rush_FTK](https://osu.ppy.sh/users/3046856)  |
 
 ## Links
 
@@ -73,11 +73,11 @@ The osu!mania 4K World Cup 2021 was run by the GB Team and various community mem
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
-10. Beatmaps must not be reused in the same match, except for rematches. <!--TODO：确认重开两次之后，这张图的比分如何计算？-->
+10. Beatmaps must not be reused in the same match, except for rematches.
 11. **The maximum size for a team is depending on the amount of registrations, and the minimum is 5.**
-   - This might change depending on the amount of registrations.
+   - *Notice: While this competition has been planned as a 5 players per team, this might change depending on the amount of registrations.*
 12. If less than the minimum amount of required players are present at match time, it can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
-    - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
+   - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
 13. Exchanging players during games is allowed without limitations,except tournament special rules (see Match instructions for detail)
 14. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied.
 15. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match). 
