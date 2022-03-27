@@ -451,11 +451,10 @@ Sunday, 19 November 2017:
 | Semifinals | M, N & V, W, X, Y, Z, AA |
 | Finals | O & AB, AC, AD, AE, P, Q |
 
-#### Winning conditions
-
-- In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
-- In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
-- In Semifinals and Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
+12. **Winning conditions:**
+    - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
+    - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
+    - In Semifinals and Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
 
 ### Match instructions
 

@@ -496,11 +496,10 @@ Sunday, 11 November 2018:
 | Finals | O & AB, AC, AD |
 | Grand Finals | AE, P, Q |
 
-#### Winning conditions
-
-- In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
-- In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
-- In Semifinals, Finals and Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
+12. **Winning conditions:**
+    - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
+    - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
+    - In Semifinals, Finals and Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
 
 ### Match instructions
 

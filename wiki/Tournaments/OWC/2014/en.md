@@ -463,11 +463,10 @@ Sunday, 9 November 2014:
 | Finals week 1 | O & AB, AC, AD, AE |
 | Finals week 2 | P, Q |
 
-#### Winning conditions
-
-- In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-- In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
-- In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+12. **Winning conditions:**
+    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+    - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
+    - In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
 ### Match instructions
 

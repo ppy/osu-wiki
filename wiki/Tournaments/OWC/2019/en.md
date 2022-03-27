@@ -489,12 +489,10 @@ Sunday, 17 November 2019:
 9. The top 32 seeded teams will advance to the Round of 32.
 10. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 11. Teams in the losers bracket must play 2 matches each weekend starting from the Quarterfinals.
-
-#### Winning conditions
-
-- The Round of 32 and Round of 16 will be best of 9 (first team to 5 wins).
-- The Quarterfinals and Semifinals will be best of 11 (first team to 6 wins).
-- The Finals and Grand Finals are will be best of 13 (first team to 7 wins).
+12. **Winning conditions:**
+    - The Round of 32 and Round of 16 will be best of 9 (first team to 5 wins).
+    - The Quarterfinals and Semifinals will be best of 11 (first team to 6 wins).
+    - The Finals and Grand Finals are will be best of 13 (first team to 7 wins).
 
 ### Match instructions
 
