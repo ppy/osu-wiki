@@ -61,12 +61,12 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
    - **While this competition is planned as a 3 versus 3 setup, this might change depending on the number of incoming registrations.**
 2. Beatmap scoring will be based on Score V2.
 3. The beatmaps for each round will be announced by the Mappool Selector Team on the Sunday before the actual matches take place.
-   - Each mappool will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
+   - Each mappool will contain a *tiebreaker* beatmap. It will only be played in case of a tie in the scoreline in the *best of* system, e.g. if the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 4. Match schedule will be handled by the Host.
 5. If no referees are available at match time, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a beatmap is considered as passing it.
-7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
+7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay mechanics.
 8. If a game ends in a draw it will be nullified and the beatmap replayed, herein called a *rematch*.
 9. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
@@ -101,7 +101,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 1. Please send the Host **a private message** and **fill [this form](https://wj.qq.com/s2/9902248/95cf/)** to register. 
 2. Each player could send a VOD clips or an in-game replays to Host, which will be used on Draft phase. 
 3. To ensure valid and serious registrations, every registered user will be manually checked by the Host.
-   - To be successfully registrations, player have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+   - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **No rank limitations for this tournament.** but host have the rights to choose several **best** players may invited to **pricipate showmatch instead of actual tournament** for balance issues.
 4. A list of all successfully registered players will be published after the Registration Phase.
    - All valid registered players will have the chance to pricipate Draft phase.
