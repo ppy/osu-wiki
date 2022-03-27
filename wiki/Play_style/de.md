@@ -145,7 +145,7 @@ Zum Dashen verwenden viele Spieler eines Buttons auf ihrem Gamepad. Jedoch bevor
 
 ### Tastatur
 
-*Tipp: Für mehr Informationen über mechanische Tastaturen, siehe diesen [externen Ratgeber über mechanische Tastaturen (auf Englisch)](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/).
+*Tipp: Für mehr Informationen über mechanische Tastaturen, siehe diesen [externen Ratgeber über mechanische Tastaturen (auf Englisch)](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/).*
 
 Tastatur war einmal der *einzige* Weg, um osu!mania zu spielen, bis andere Methoden über die Zeit unterstützt wurden.
 
