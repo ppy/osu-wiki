@@ -1,6 +1,6 @@
 # osu! wiki
 
-Le **osu! wiki** est une base de données de connaissances open-source écrite et maintenue par des [contributeurs volontaires](https://github.com/ppy/osu-wiki/graphs/contributors). Il contient un large éventail d'informations sur des sujets liés à osu!, à sa communauté et à des activités et concepts connexes. Le wiki sert de source officielle d'information et est considéré comme une documentation de l'histoire d'osu!.
+L'**osu! wiki** est une base de données de connaissances open-source écrite et maintenue par des [contributeurs volontaires](https://github.com/ppy/osu-wiki/graphs/contributors). Il contient un large éventail d'informations sur des sujets liés à osu!, à sa communauté et à des activités et concepts connexes. Le wiki sert de source officielle d'information et est considéré comme une documentation de l'histoire d'osu!.
 
 Toutes les discussions qui concernent le wiki en général, son développement et les changements d'articles, ont lieu dans le salon de discussion `#osu-wiki` du serveur [osu!dev](/wiki/Community/osu!dev_Discord_server). Pour savoir comment vous pouvez aider le osu! wiki, consultez les articles suivants :
 
@@ -29,10 +29,10 @@ Les articles sont formatés à l'aide de [Markdown à la sauce GitHub](https://h
 
 Les articles sont composés selon les [critères de mise en forme d'article](/wiki/Article_styling_criteria) du osu! wiki, ce qui signifie qu'ils sont rédigés dans un langage neutre et suivent des règles communes de formatage et de conception. Certains articles informatifs servent de liste de questions fréquemment posées (FAQ) sur le sujet et utilisent un langage informel. Les traductions suivent le principe de parité du contenu et respectent les mêmes règles de formatage.
 
-Bien que son nom contienne le suffixe *wiki*, le osu! wiki ne répond pas entièrement au [concept de wiki](https://fr.wikipedia.org/wiki/Wiki) :
+Bien que son nom contienne le suffixe *wiki*, l'osu! wiki ne répond pas entièrement au [concept de wiki](https://fr.wikipedia.org/wiki/Wiki) :
 
-- L'amélioration des articles existants ainsi que la création de nouveaux sont encouragés, mais une connaissance de base de [GitHub](https://github.com) nécessaire afin de contribuer, ce qui augmente le seuil nécessaire pour entrer. Le osu! wiki fourni toutefois un [guide de contribution](/wiki/osu!_wiki/Contribution_guide) afin d'aider les nouveaux contributeurs à commencer
-- Tous les changements apportés au osu! wiki sont pré-modérés et font l'objet d'un processus d'examen, au cours duquel le contributeur doit collaborer avec les reviewers et répondre aux commentaires.
+- L'amélioration des articles existants ainsi que la création de nouveaux sont encouragés, mais une connaissance de base de [GitHub](https://github.com) est nécessaire afin de contribuer, ce qui augmente le seuil nécessaire pour entrer. L'osu! wiki fournit toutefois un [guide de contribution](/wiki/osu!_wiki/Contribution_guide) afin d'aider les nouveaux contributeurs à commencer.
+- Tous les changements apportés à l'osu! wiki sont pré-modérés et font l'objet d'un processus d'examen, au cours duquel le contributeur doit collaborer avec les reviewers et répondre aux commentaires.
 
 ## Licence
 
