@@ -101,8 +101,8 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 1. Please send the Host **a private message** and **fill [this form](https://wj.qq.com/s2/9902248/95cf/)** to register. 
 2. Each player could send a VOD clips or an in-game replays to Host, which will be used on Draft phase. 
 3. To ensure valid and serious registrations, every registered user will be manually checked by the Host.
-   - To be successfully registrations, player have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-   - **No rank limitations for this tournament.** Some high level players will be **removed from the player list for balance reasons**, they will be invited into show match instead.
+   - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+   - **No rank limitations for this tournament.** host have the right to choose several best players to participate in showmatch (showcase by a match) **instead of** the actual tournament for balance issues.
 4. A list of all successfully registered players will be published after the Registration Phase.
    - All valid registered players will have the chance to pricipate Draft phase.
 5. Organizers, Mappool Selectors and referees must not participate as a player in the tournament.
