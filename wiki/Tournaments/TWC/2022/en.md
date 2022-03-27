@@ -338,7 +338,7 @@ Qualifier results:
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, both teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
-9. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it's clearly communicated in the chatroom.
+9. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
 10. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
     - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
     - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
@@ -442,7 +442,7 @@ Qualifier results:
 7. The FreeMod bracket will have FreeMod activated, and the No Fail mod will be enforced. Each player may pick Hidden, Hard Rock or Hidden + Hard Rock.
    - When playing a FreeMod map, at least one player of each team must use a mod.
    - Both teams must select the No Fail mod in addition to their chosen mod combination.
-   - Players must select different mod combinations. Using only Hidden, Hard Rock, or Hidden + Hard Rock for both players at the same time is not allowed. No Fail will not be counted as a mod (e.g. a No Fail + Hidden and Hidden mod combination will be considered as just Hidden for both players).
+   - Players must select different mod combinations. Using only Hidden, Hard Rock, or Hidden + Hard Rock for both players at the same time is not allowed. No Fail will not be counted as a mod (e.g. two players using No Fail + Hidden and Hidden will be considered as using the same mod combination).
 8. The tiebreaker will be played with FreeMod activated, but will not follow the FreeMod bracket rules: players do not need to have a mod activated and are allowed to select the same mod combination. Both teams must select the No Fail mod.
 9. The size of the NoMod bracket will be 3 for the Qualifiers, 4 for the Round of 32 and Round of 16, 5 for the Quarterfinals and Semifinals, and 6 for the Finals and Grand Finals.
 10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be 2 for all stages.
