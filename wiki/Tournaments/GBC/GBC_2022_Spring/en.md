@@ -26,9 +26,9 @@ The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, KanonBot profile badge, 50 CNY ￥ per team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, 30 CNY ￥ per team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, 20 CNY ￥ per team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, KanonBot profile badge, 50 CNY ¥ per team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, 30 CNY ¥ per team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, 20 CNY ¥ per team member |
 
 ## Organisation
 
@@ -102,7 +102,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 2. Each player could send a VOD clips or an in-game replays to Host, which will be used on Draft phase. 
 3. To ensure valid and serious registrations, every registered user will be manually checked by the Host.
    - To be successfully registrations, player have not violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-   - **No rank limitations for this tournament.** but host have the rights to choose several **best** players may invited to **pricipate showmatch instead of actual tournament** for balance issues.
+   - **No rank limitations for this tournament.** Some high level players will be **removed from the player list for balance reasons**, they will be invited into show match instead.
 4. All successfully registrated player will be published after the Registration Phase.
    - All valid registered players will have the chance to pricipate Draft phase.
 5. Organizers, Mappool Selectors and referees must not participate as a player in the tournament.
