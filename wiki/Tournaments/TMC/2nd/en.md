@@ -164,47 +164,42 @@ The Touhou Project Mania Cup 2nd is run by the TMC team and various community me
 | ![][flag_SA] | 1 | 0.53% |
 | **31** | **188** | |
 
-## Match schedule: Round of 16
+## Podium
 
-Team A represent Blue Team while Team B represnt Red Team. 
+This competition has come to an end and resulted in the following podium:
 
-### Saturday, February 19, 2022
-
-| Team A | Team B | Match time ||
-| --: | :-- | :-: | :-: |
-| Estudia Sonso | Fumo | Feb 19 (Sat) 4:00 UTC | ¹ |
-| Knation | Ordirehv | Feb 19 (Sat) 12:00 UTC | ¹ |
-| Black Stick Rot | ICHIGAY!!! | Feb 19 (Sat) 14:00 UTC | ¹ |
-| monkey bussines | rice quadruplets | Feb 19 (Sat) 16:00 UTC | ¹ |
-| Hourai Elixir | badplayers49 | Feb 19 (Sat) 19:00 UTC | ¹ |
-| Œil | ExtraRipeApples | Feb 19 (Sat) 20:00 UTC | ¹ |
-
-
-
-### Sunday, February 20, 2022
-
-| Team A | Team B | Match time | |
-| --: | :-- | :-: | :-: |
-| Sierra Leone | TheAnswerIsPorn | Feb 20 (Sun) 0:00 UTC | ² |
-| YEP | TouWhou? | Feb 20 (Sun) 2:00 UTC | ² |
-| oh10 | Watermelon | Feb 20 (Sun) 12:00 UTC | ² |
-| Appendicitis | offbrand mwc | Feb 20 (Sun) 12:30 UTC | ¹ |
-| yes | omsim | Feb 20 (Sun) 13:00 UTC | ² |
-| sllab amogus | :1217angry: | Feb 20 (Sun) 13:00 UTC | ¹ |
-| FNF Club Germany | Ricemakers | Feb 20 (Sun) 15:00 UTC | ² |
-| skill issue | bru. | Feb 20 (Sun) 16:00 UTC | ² |
-| Shion Lovers | holiv reprdution | Feb 20 (Sun) 18:00 UTC | ² |
-| Assmen | Team Pixula | Feb 20 (Sun) 21:00 UTC | ² |
-
-¹ Winner bracket match  
-² Losers bracket match  
-³ 
+| Placing | Team |
+| :-- | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") |  |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
 
 ## Mappools
+
+### Finals
 
 ### Semi Finals
 
 ### Quarter Finals 
+
+- Rice
+  1. [nmk feat. Kanaeyume - Memoria (Mipha-) \[miphather\]](https://osu.ppy.sh/beatmapsets/1564347#mania/3194488)
+  2. [Shoegazer - Everything Will Freeze (Shoegazer) \[Calamity\]](https://osu.ppy.sh/beatmapsets/728496#mania/1538017)
+  3. [ClumsyRecord - Naughty Kitten (Blue\_Potion) \[Naughty Streams 0.95x\]](https://osu.ppy.sh/beatmapsets/1670259#mania/3411405)
+  4. [Various - YSOF#2 -Fairy- (Various) \[Morimori Atsushi - Tits or get the fuck out!!\]](https://osu.ppy.sh/beatmapsets/1306263#mania/2708327)
+  5. [Akiyama Uni - Odoru Mizushibuki (Shoegazer) \[Macabre\]](https://osu.ppy.sh/beatmapsets/376703#mania/3090565)
+  6. [AQUAELIE - Broken the Moon (\[Crz\]hinako1804) \[Yue x1.05_P\]](https://osu.ppy.sh/beatmapsets/1180540#mania/3419925)
+- SV
+  1. [uno(IOSYS) - #Fairy_dancing_in_lake (notapplicable) \[#Fairy_dancing_in_the_world\]](https://osu.ppy.sh/beatmapsets/1128020#mania/2356532)
+  2. [Camellia feat. Nanahira - Seashore on the moon (cut ver.) (Bentai Bosmic) \[Tsuki\]](https://osu.ppy.sh/beatmapsets/914391#mania/1909870)
+- LN
+  1. [Rolling Contact - Jerking Zipper (\[OSC\]Amagai) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1700816#mania/3475356)
+  2. [ZUN Arranged by er - Gogo No Koishi-chan (Elementaires) \[Tea Time\]](https://osu.ppy.sh/beatmapsets/632689#mania/1343000) <!--做到这里-->
+- Hybrid
+  1. [Rolling Contact - Jerking Zipper (\[OSC\]Amagai) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1700816#mania/3475356)
+  2. [Camellia - CLOUDY WITH INTERMITTENT RAIN (Cut Ver.) (Salty Mermaid) \[Flowing Skies\]](https://osu.ppy.sh/beatmapsets/1366426#mania/2826087)
+- Tiebreaker
+  1. **[FELT - JOURNEY (-Deepdive-) \[Caelum\]](https://osu.ppy.sh/beatmapsets/1693521#mania/3460519)**
 
 ### Round of 16
 
@@ -213,7 +208,7 @@ Team A represent Blue Team while Team B represnt Red Team.
   2. [LeaF - Arianrhod (hi19hi19) \[Mabinogi 1.1x (176bpm)\]](https://osu.ppy.sh/beatmapsets/1676381#mania/3424741)
   3. [ZUN arr.Myon - Plastic Mind(8bit) (Kuo Kyoka) \[snover\'s Phantasm\]](https://osu.ppy.sh/beatmapsets/361936#mania/795044)
   4. [Akiyama Uni - Touhou Hisouten (Blue\_Potion) \[Streams Rhapsody\]](https://osu.ppy.sh/beatmapsets/1670260#mania/3411388)
-  5. [FELT - Crescent Moon (\[Crz\]hinako1804\]) \[Bereft Emotion](https://osu.ppy.sh/beatmapsets/1655733#mania/3379728)
+  5. [FELT - Crescent Moon (\[Crz\]hinako1804\]) \[Bereft Emotion\]](https://osu.ppy.sh/beatmapsets/1655733#mania/3379728)
   6. [Momokami\/SPACELECTRO - DANCING FOX!!! (\[Crz\]hinako1804\]) \[Pure Furies\]](https://osu.ppy.sh/beatmapsets/1661988#mania/3392920)
 - SV
   1. [Demetori - Higan no dorei \~ One Conclusion (Tidek) \[Old Rain\]](https://osu.ppy.sh/beatmapsets/1434343#mania/2951779)
