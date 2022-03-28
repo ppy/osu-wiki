@@ -95,35 +95,102 @@ The osu!taiko World Cup 2022 is run by various community members.
 | ![][flag_US] | **United States** | **[general chicken](https://osu.ppy.sh/users/8050850)**, [R J](https://osu.ppy.sh/users/6490509), [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [Miniature Lamp](https://osu.ppy.sh/users/9821194), [ChurroChef](https://osu.ppy.sh/users/9258564), [cheese salad](https://osu.ppy.sh/users/6349821) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [AkiraPlayz](https://osu.ppy.sh/users/16039831), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [JackTVN](https://osu.ppy.sh/users/12510704), [njshift1](https://osu.ppy.sh/users/16688499) |
 
-## Match schedule: Round of 32
+## Match schedule: Quarterfinals
 
-### Saturday, March 19, 2022
+### Saturday, April 2, 2022
 
-| Team A | | | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_TR] | Turkey | Mar 19 (Sat) 08:00 UTC | Mar 19 (Sat) 18:00 UTC+10 | Mar 19 (Sat) 11:00 UTC+3 |
-| Malaysia | ![][flag_MY] | ![][flag_RU] | Russian Federation | Mar 19 (Sat) 10:00 UTC | Mar 19 (Sat) 18:00 UTC+8 | Mar 19 (Sat) 13:00 UTC+3 |
-| Chile | ![][flag_CL] | ![][flag_CN] | China | Mar 19 (Sat) 12:00 UTC | Mar 19 (Sat) 09:00 UTC-3 | Mar 19 (Sat) 20:00 UTC+8 |
-| Canada | ![][flag_CA] | ![][flag_NL] | Netherlands | Mar 19 (Sat) 15:00 UTC | Mar 19 (Sat) 10:00 UTC-5 | Mar 19 (Sat) 16:00 UTC+1 |
-| Sweden | ![][flag_SE] | ![][flag_CH] | Switzerland | Mar 19 (Sat) 17:00 UTC | Mar 19 (Sat) 18:00 UTC+1 | Mar 19 (Sat) 18:00 UTC+1 |
-| United States | ![][flag_US] | ![][flag_CR] | Costa Rica | Mar 19 (Sat) 20:00 UTC | Mar 19 (Sat) 15:00 UTC-5 | Mar 19 (Sat) 14:00 UTC-6 |
-| Brazil | ![][flag_BR] | ![][flag_NZ] | New Zealand | Mar 19 (Sat) 22:00 UTC | Mar 19 (Sat) 19:00 UTC-3 | Mar 20 (Sun) 10:00 UTC+12 |
+| Team A | | | Team B | Match time | Local time A | Local time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Malaysia | ![][flag_MY] | ![][flag_NZ] | New Zealand | Apr 2 (Sat) 08:00 UTC | Apr 2 (Sat) 16:00 UTC+8 | Apr 2 (Sat) 20:00 UTC+12 | ² |
+| Taiwan | ![][flag_TW] | ![][flag_CN] | China | Apr 2 (Sat) 10:00 UTC | Apr 2 (Sat) 18:00 UTC+8 | Apr 2 (Sat) 18:00 UTC+8 | ² |
+| Finland | ![][flag_FI] | ![][flag_TR] | Turkey | Apr 2 (Sat) 12:00 UTC | Apr 2 (Sat) 14:00 UTC+2 | Apr 2 (Sat) 15:00 UTC+3 | ² |
+| Chile | ![][flag_CL] | ![][flag_SG] | Singapore | Apr 2 (Sat) 14:00 UTC | Apr 2 (Sat) 11:00 UTC-3 | Apr 2 (Sat) 22:00 UTC+8 | ² |
+| Brazil | ![][flag_BR] | ![][flag_RU] | Russian Federation | Apr 2 (Sat) 15:30 UTC | Apr 2 (Sat) 12:30 UTC-3 | Apr 2 (Sat) 18:30 UTC+3 | ² |
+| France | ![][flag_FR] | ![][flag_CH] | Switzerland | Apr 2 (Sat) 17:00 UTC | Apr 2 (Sat) 18:00 UTC+1 | Apr 2 (Sat) 18:00 UTC+1 | ² |
+| United States | ![][flag_US] | ![][flag_IT] | Italy | Apr 2 (Sat) 18:30 UTC | Apr 2 (Sat) 13:30 UTC-5 | Apr 2 (Sat) 19:30 UTC+1 | ² |
+| Canada | ![][flag_CA] | ![][flag_AR] | Argentina | Apr 2 (Sat) 20:00 UTC | Apr 2 (Sat) 15:00 UTC-5 | Apr 2 (Sat) 17:00 UTC-3 | ² |
 
-### Sunday, March 20, 2022
+### Sunday, April 3, 2022
 
-| Team A | | | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_MX] | Mexico | Mar 20 (Sun) 00:00 UTC | Mar 20 (Sun) 09:00 UTC+9 | Mar 19 (Sat) 18:00 UTC-6 |
-| Japan | ![][flag_JP] | ![][flag_CO] | Colombia | Mar 20 (Sun) 02:00 UTC | Mar 20 (Sun) 11:00 UTC+9 | Mar 19 (Sat) 21:00 UTC-5 |
-| Hong Kong | ![][flag_HK] | ![][flag_PL] | Poland | Mar 20 (Sun) 09:00 UTC | Mar 20 (Sun) 17:00 UTC+8 | Mar 20 (Sun) 10:00 UTC+1 |
-| United Kingdom | ![][flag_GB] | ![][flag_PH] | Philippines | Mar 20 (Sun) 10:00 UTC | Mar 20 (Sun) 10:00 UTC | Mar 20 (Sun) 18:00 UTC+8 |
-| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | Mar 20 (Sun) 11:00 UTC | Mar 20 (Sun) 18:00 UTC+7 | Mar 20 (Sun) 19:00 UTC+8 |
-| Taiwan | ![][flag_TW] | ![][flag_PT] | Portugal | Mar 20 (Sun) 12:00 UTC | Mar 20 (Sun) 20:00 UTC+8 | Mar 20 (Sun) 12:00 UTC |
-| Italy | ![][flag_IT] | ![][flag_FI] | Finland | Mar 20 (Sun) 13:00 UTC | Mar 20 (Sun) 14:00 UTC+1 | Mar 20 (Sun) 15:00 UTC+2 |
-| Germany | ![][flag_DE] | ![][flag_CZ] | Czech Republic | Mar 20 (Sun) 15:00 UTC | Mar 20 (Sun) 16:00 UTC+1 | Mar 20 (Sun) 16:00 UTC+1 |
-| France | ![][flag_FR] | ![][flag_AR] | Argentina | Mar 20 (Sun) 17:00 UTC | Mar 20 (Sun) 18:00 UTC+1 | Mar 20 (Sun) 14:00 UTC-3 |
+| Team A | | | Team B | Match time | Local time A | Local time B | |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| United States | ![][flag_US] | ![][flag_MY] | Malaysia | Apr 3 (Sun) 03:00 UTC | Apr 2 (Sat) 22:00 UTC-5 | Apr 3 (Sun) 11:00 UTC+8 | ³ |
+| United States | ![][flag_US] | ![][flag_NZ] | New Zealand | Apr 3 (Sun) 03:00 UTC | Apr 2 (Sat) 22:00 UTC-5 | Apr 3 (Sun) 15:00 UTC+12 | ³ |
+| Canada | ![][flag_CA] | ![][flag_SG] | Singapore | Apr 3 (Sun) 04:00 UTC | Apr 2 (Sat) 23:00 UTC-5 | Apr 3 (Sun) 12:00 UTC+8 | ³ |
+| Hong Kong | ![][flag_HK] | ![][flag_AU] | Australia | Apr 3 (Sun) 08:00 UTC | Apr 3 (Sun) 16:00 UTC+8 | Apr 3 (Sun) 18:00 UTC+10 | ¹ |
+| Italy | ![][flag_IT] | ![][flag_MY] | Malaysia | Apr 3 (Sun) 10:00 UTC | Apr 3 (Sun) 11:00 UTC+1 | Apr 3 (Sun) 18:00 UTC+8 | ³ |
+| Italy | ![][flag_IT] | ![][flag_NZ] | New Zealand | Apr 3 (Sun) 10:00 UTC | Apr 3 (Sun) 11:00 UTC+1 | Apr 3 (Sun) 22:00 UTC+12 | ³ |
+| Japan | ![][flag_JP] | ![][flag_SE] | Sweden | Apr 3 (Sun) 10:00 UTC | Apr 3 (Sun) 19:00 UTC+9 | Apr 3 (Sun) 11:00 UTC+1 | ¹ |
+| South Korea | ![][flag_KR] | ![][flag_GB] | United Kingdom | Apr 3 (Sun) 11:30 UTC | Apr 3 (Sun) 20:30 UTC+9 | Apr 3 (Sun) 11:30 UTC | ¹ |
+| Taiwan | ![][flag_TW] | ![][flag_FR] | France | Apr 3 (Sun) 13:00 UTC | Apr 3 (Sun) 21:00 UTC+8 | Apr 3 (Sun) 14:00 UTC+1 | ³ |
+| Taiwan | ![][flag_TW] | ![][flag_CH] | Switzerland | Apr 3 (Sun) 13:00 UTC | Apr 3 (Sun) 21:00 UTC+8 | Apr 3 (Sun) 14:00 UTC+1 | ³ |
+| China | ![][flag_CN] | ![][flag_FR] | France | Apr 3 (Sun) 13:00 UTC | Apr 3 (Sun) 21:00 UTC+8 | Apr 3 (Sun) 14:00 UTC+1 | ³ |
+| China | ![][flag_CN] | ![][flag_CH] | Switzerland | Apr 3 (Sun) 13:00 UTC | Apr 3 (Sun) 21:00 UTC+8 | Apr 3 (Sun) 14:00 UTC+1 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_FI] | Finland | Apr 3 (Sun) 14:00 UTC | Apr 3 (Sun) 11:00 UTC-3 | Apr 3 (Sun) 16:00 UTC+2 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_TR] | Turkey | Apr 3 (Sun) 14:00 UTC | Apr 3 (Sun) 11:00 UTC-3 | Apr 3 (Sun) 17:00 UTC+3 | ³ |
+| Russian Federation | ![][flag_RU] | ![][flag_FI] | Finland | Apr 3 (Sun) 14:00 UTC | Apr 3 (Sun) 17:00 UTC+3 | Apr 3 (Sun) 16:00 UTC+2 | ³ |
+| Russian Federation | ![][flag_RU] | ![][flag_TR] | Turkey | Apr 3 (Sun) 14:00 UTC | Apr 3 (Sun) 17:00 UTC+3 | Apr 3 (Sun) 17:00 UTC+3 | ³ |
+| Argentina | ![][flag_AR] | ![][flag_SG] | Singapore | Apr 3 (Sun) 15:00 UTC | Apr 3 (Sun) 12:00 UTC-3 | Apr 3 (Sun) 23:00 UTC+8 | ³ |
+| Germany | ![][flag_DE] | ![][flag_ID] | Indonesia | Apr 3 (Sun) 15:30 UTC | Apr 3 (Sun) 16:30 UTC+1 | Apr 3 (Sun) 22:30 UTC+7 | ¹ |
+| Canada | ![][flag_CA] | ![][flag_CL] | Chile | Apr 3 (Sun) 17:00 UTC | Apr 3 (Sun) 12:00 UTC-5 | Apr 3 (Sun) 14:00 UTC-3 | ³ |
+| Argentina | ![][flag_AR] | ![][flag_CL] | Chile | Apr 3 (Sun) 17:00 UTC | Apr 3 (Sun) 14:00 UTC-3 | Apr 3 (Sun) 14:00 UTC-3 | ³ |
+
+¹ Winners bracket match\
+² Losers bracket match\
+³ Potential match: final matchup depends on the results of ²
 
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here (73 MB)](https://drive.google.com/uc?id=1BAYyEckltoxlJ91jjZDd-J8kz67pMz6f)**
+
+- NoMod
+  1. [Rahatt - Gas Gas (incandescence) \[C8H18\]](https://osu.ppy.sh/beatmapsets/1641207#taiko/3349737)
+  2. [Sta feat.b - Argent symmetry (4sbet1) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1729383#taiko/3534396)
+  3. [youman - R.I.P. (ekumea1123) \[R.I.P.\]](https://osu.ppy.sh/beatmapsets/1039654#taiko/2173146)
+  4. [kamome sano - Elemental Creation (kamome sano Remix) (-Dusk) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1717750#taiko/3510393)
+  5. [Boom Kitty - Burning Sands (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/1729062#taiko/3533634)
+- Hidden
+  1. [7\_7 - Kongetsugou ha!?!?!? (7\_7) \[The TWC Daily!?!?!?\]](https://osu.ppy.sh/beatmapsets/1014856#taiko/3533569)
+  2. [xi - Zauberkugel (sendol) \[Ura Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1706326#taiko/3533413)
+- Hard Rock
+  1. [Minami Yuni - Kanagawa Cyber Culvert (tasuke912) \[Upheaval (Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/1724253#taiko/3523973)
+  2. [RichaadEB - Spider Dance - Metal Cover (asuasu\_yura) \[Muffet\]](https://osu.ppy.sh/beatmapsets/467190#taiko/999671)
+- Double Time
+  1. [kors k - Monkey Business (lapix Remix) (Arrival) \[Oni (TWC edit.)\]](https://osu.ppy.sh/beatmapsets/721496#taiko/3533667)
+  2. [ONE OK ROCK - Clock Strikes (Chromoxx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/602619#taiko/1272845)
+- FreeMod
+  1. [Plum - Mad Piano Party (incandescence) \[Divertississimo (the twc map)\]](https://osu.ppy.sh/beatmapsets/1727527#taiko/3530351)
+  2. [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](https://osu.ppy.sh/beatmapsets/177838#taiko/427932)
+  3. [Daily - Astronomia (USAO a.k.a Daily Mix) (Kannes) \[Lno's Dance\]](https://osu.ppy.sh/beatmapsets/1159255#taiko/2421854)
+- Tiebreaker
+  1. **[Venetian Snares - She Runs (Kqrth) \[Oni\]](https://osu.ppy.sh/beatmapsets/583601#taiko/1234950)**
+
+### Round of 16
+
+**[Download the mappack here (70 MB)](https://drive.google.com/uc?id=1BAYyEckltoxlJ91jjZDd-J8kz67pMz6f)**
+
+- NoMod
+  1. [Tartarate - It's rainy to bye (ler1211) \[Goodbye (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/1711152#taiko/3522974)
+  2. [ZxNX - Fiend Demme (Nofool) \[Oni (edit)\]](https://osu.ppy.sh/beatmapsets/1723979#taiko/3523337)
+  3. [J-CORE SLi//CER - Yrotsevol Yppahrepyh (X a v y) \[hlskdjfghlksdjfhgkslfdjg\]](https://osu.ppy.sh/beatmapsets/1724001#taiko/3523387)
+  4. [underscores - Where did you fall (Ulqui) \[heartbroken\]](https://osu.ppy.sh/beatmapsets/1414012#taiko/2914571)
+- Hidden
+  1. [Igorrr - Kung-Fu Chevre (Nifty) \[Shaolin Feta\]](https://osu.ppy.sh/beatmapsets/1723995#taiko/3523378)
+  2. [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (Cychloryn) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1206425#taiko/3523443)
+- Hard Rock
+  1. [Yunosuke - Illusional Flashback (Nifty) \[Delirium\]](https://osu.ppy.sh/beatmapsets/1723994#taiko/3523376)
+  2. [EBIMAYO - GOODRAGE (-xNaCLx-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/681490#taiko/1440955)
+- Double Time
+  1. [Marpril - Breaker City (sikawalk Remix) (X a v y) \[Oni\]](https://osu.ppy.sh/beatmapsets/1724008#taiko/3523405)
+  2. [Tanchiky - WABI-CIRCUIT (Original Mix) (gaston\_2199) \[ONI\]](https://osu.ppy.sh/beatmapsets/1365528#taiko/2824584)
+- FreeMod
+  1. [Camellia - This Future (we didn't expect) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/1240296#taiko/2578605)
+  2. [Mitsukiyo - Madeleine (aabc271) \[Inner Oni+\]](https://osu.ppy.sh/beatmapsets/1723908#taiko/3523210)
+  3. [asteria - FUSION (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1723980#taiko/3523339)
+- Tiebreaker
+  1. **[Giga - BRING IT ON feat. Kagamine Rin, Len (Sixstylez Bootleg) (TaikOseania) \[INFERIORITY and SUPERIORITY\]](https://osu.ppy.sh/beatmapsets/1677785#taiko/3427811)**
 
 ### Round of 32
 
@@ -171,6 +238,66 @@ The osu!taiko World Cup 2022 is run by various community members.
   1. [seatrus - O (KTYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/1712976#taiko/3500185)
 
 ## Match results
+
+### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/19vfkfIEnt0dhqC2cXuCvDSwhvFAeSbw5i_ZAw2l1CtA/edit?rm=minimal).
+
+Saturday, March 26, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **New Zealand** ![][flag_NZ] | **5** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/99114582) |
+| Portugal ![][flag_PT] | 4 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/99117585) |
+| Netherlands ![][flag_NL] | 1 | **5** | ![][flag_CH] **Switzerland** | [#1](https://osu.ppy.sh/community/matches/99119714) |
+| Czech Republic ![][flag_CZ] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/99123857) |
+| Costa Rica ![][flag_CR] | 0 | **5** | ![][flag_TR] **Turkey** | [#1](https://osu.ppy.sh/community/matches/99125955) |
+| **Germany** ![][flag_DE] | **5** | 3 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/99126137) |
+| Mexico ![][flag_MX] | 0 | **5** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/99132507) |
+
+Sunday, March 27, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US] | 4 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/99144573) |
+| **Hong Kong** ![][flag_HK] | **5** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/99155883) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/99155889) |
+| Poland ![][flag_PL] | 3 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/99157397) |
+| Taiwan ![][flag_TW] | 4 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/99157464) |
+| Colombia ![][flag_CO] | 0 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/99159135) |
+| **Japan** ![][flag_JP] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/99159159) |
+| Brazil ![][flag_BR] | 4 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/99161154) |
+| Canada ![][flag_CA] | 4 | **5** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/99163168) |
+
+### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1dcyZUSqBQjFKorRFZKEfZ4ZVbIggI4WlWxC1Eofp1Mw/edit?rm=minimal).
+
+Saturday, March 19, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Chile** ![][flag_CL] | **5** | 2 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/98886392) |
+| **Malaysia** ![][flag_MY] | **5** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/98889890) |
+| **France** ![][flag_FR] | **5** | 2 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/98903469) |
+| **Japan** ![][flag_JP] | **5** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/98907836) |
+
+Sunday, March 20, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/98911287) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/98916980) |
+| **Hong Kong** ![][flag_HK] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/98923225) |
+| **Australia** ![][flag_AU] | **5** | 3 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/98924385) |
+| **United Kingdom** ![][flag_GB] | **5** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/98924429) |
+| Italy ![][flag_IT] | 3 | **5** | ![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/98928985) |
+| **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/98930618) |
+| **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/98930679) |
+| **Germany** ![][flag_DE] | **5** | 0 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/98932764) |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/98934492) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_CR] Costa Rica | [#1](https://osu.ppy.sh/community/matches/98938285) |
+| **Sweden** ![][flag_SE] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/98940557) |
 
 ### Qualifiers
 
@@ -229,17 +356,16 @@ Qualifier results:
 3. The maps for each round will be announced by the mapset selectors on the Sunday before the actual matches take place. Only these will be used during the respective matches.
 4. The match schedule will be settled by the Tournament Management (see above).
 5. If no referee is available at match time, the match will be postponed.
-6. Failed players' scores do not get added to the team score.
-7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
+6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics.
-8. If the beatmap ends in a draw, the game will be nullified.
+7. If the beatmap ends in a draw, the game will be nullified.
    - If a game is nullified, the beatmap will be replayed.
-9. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
+8. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, both teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
-10. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it's clearly communicated in the chatroom.
-11. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
+9. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
+10. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
     - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
     - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
     - Screenshots from other players taken directly in-game that show the affected player's score.
@@ -247,24 +373,24 @@ Qualifier results:
       - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
-12. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
+11. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
     - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 2 participants must be present for the match to begin).
-13. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
-14. Exchanging players between games is allowed without limitations.
-15. **The minimum size for a team is 3 players, and the maximum is 6.**
-16. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-17. All players and staff must be treated with respect. Instructions from the referees and the Tournament Management are to be followed. Decisions labelled as final are not to be objected.
-18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
+12. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
+13. Exchanging players between games is allowed without limitations.
+14. **The minimum size for a team is 3 players, and the maximum is 6.**
+15. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+16. All players and staff must be treated with respect. Instructions from the referees and the Tournament Management are to be followed. Decisions labelled as final are not to be objected.
+17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
-19. Penalties for violating the tournament rules include, but are not limited to:
+18. Penalties for violating the tournament rules include, but are not limited to:
     - Exclusion of specific players for one beatmap.
     - Exclusion of specific players for an entire match.
     - Declaring the match as forfeited, or as a win by default for the other team.
     - Disqualification from the entire tournament.
     - Disqualification from the current and future official tournaments, until appealed.
-20. Referees may allow, at their discretion, lower or higher tolerances for timers.
-21. The Tournament Management may request liveplays or recordings of individual players or teams at any point.
-22. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+19. Referees may allow, at their discretion, lower or higher tolerances for timers.
+20. The Tournament Management may request liveplays or recordings of individual players or teams at any point.
+21. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
 
@@ -338,12 +464,12 @@ Qualifier results:
 3. The Qualifiers Stage mappool will consist of 10 maps, Round of 32 and Round of 16 will consist of 14 maps, Quarterfinals and Semifinals will consist of 15 maps, and the Finals and Grand Finals mappools will consist of 16 maps.
 4. Every mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 5. The NoMod bracket will be played with the [No Fail](/wiki/Game_modifier/No_Fail) mod activated.
-6. The Hidden, Hard Rock and Double Time brackets will be played with the respective mods activated.
-7. The FreeMod bracket will have FreeMod activated. Each player may pick Hidden, Hard Rock or Hidden + Hard Rock.
+6. The Hidden, Hard Rock and Double Time brackets will be played with the respective mods activated along with the No Fail mod.
+7. The FreeMod bracket will have FreeMod activated, and the No Fail mod will be enforced. Each player may pick Hidden, Hard Rock or Hidden + Hard Rock.
    - When playing a FreeMod map, at least one player of each team must use a mod.
-   - Players must select different mod combinations. Using only Hidden, Hard Rock, or Hidden + Hard Rock for both players at the same time is not allowed.
-8. The tiebreaker will be played under FreeMod conditions.
-   - While playing the tiebreaker, players do not need to have a mod activated and are allowed to select the same mod combinations.
+   - Both teams must select the No Fail mod in addition to their chosen mod combination.
+   - Players must select different mod combinations. Using only Hidden, Hard Rock, or Hidden + Hard Rock for both players at the same time is not allowed. No Fail will not be counted as a mod (e.g. two players using No Fail + Hidden and Hidden will be considered as using the same mod combination).
+8. The tiebreaker will be played with FreeMod activated, but will not follow the FreeMod bracket rules: players do not need to have a mod activated and are allowed to select the same mod combination. Both teams must select the No Fail mod.
 9. The size of the NoMod bracket will be 3 for the Qualifiers, 4 for the Round of 32 and Round of 16, 5 for the Quarterfinals and Semifinals, and 6 for the Finals and Grand Finals.
 10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be 2 for all stages.
 11. The size of the FreeMod brackets will be 3 for all stages minus the Qualifiers, which will have 1 FreeMod map.

@@ -1,253 +1,295 @@
 ---
-outdated: true
+tags:
+  - hotkey
+  - hotkeys
+  - keyboard
+  - shortcuts
+  - Tastatur
+  - Kürzel
 ---
 
 # Tastenkürzel
 
-In osu! gibt es viele Tastenkürzel (auch 'Hotkeys'), die in den Menüs oder im Spiel verwendet werden können. In der folgenden Liste sind sie mit ihren Funktionen aufgeführt.
+In osu! gibt es viele Tastenkürzel (auch *Hotkeys*), die in den Menüs oder im Spiel verwendet werden können. In der folgenden Liste sind sie mit ihren Funktionen aufgeführt.
 
-**Hinweis:** Einige dieser Tastenkürzel können in den [Einstellungen](/wiki/Client/Options) geändert werden! In der Liste unten stehen die zugehörigen Standardkürzel.
+*Tipp: Dieser Artikel listet alle Standardtastaturkürzel auf. Du kannst einige davon in den [Einstellungen](/wiki/Client/Options) ändern.*
 
 ## Überall im Spiel
 
 Diese Kürzel können überall verwendet werden:
 
-- `Strg` + `Alt` + `Shift` + `S`: Den aktuellen [Skin](/wiki/Skinning) neu laden
-  - Falls das Neuladen nicht direkt durchgeführt werden kann (z.B., während man spielt), wird der Befehl zwischengespeichert und später ausgeführt
-- `Strg` + `F11`: Die Anzeige von "Frame Times" an-/ausschalten
-- `F7`: FPS-Limiter weiterschalten
-  - Es wird durch `120FPS`, `240FPS` und `Unbegrenzt` rotiert (VSync wird hierdurch nicht ein-/ausgeschaltet)
-- `F8`: Chatfenster ein-/ausblenden
-- `F9`: Erweitertes Chatfenster ein-/ausblenden
-- `F10`: Maustasten für's Spielen ein-/ausschalten
-- `F12`: Einen Screenshot machen
-- `Shift` + `F12`: Einen Screenshot machen, hochladen und zum Teilen per URL im Browser öffnen
-- `Einfg`: ([Boss-Key](https://de.wikipedia.org/wiki/Cheftaste)) osu! in den Benachrichtigungsbereich minimieren
-- `Shift` + `F1`: [osu!status](https://twitter.com/osustatus) öffnen (nur bei Verbindungsproblemen)
+| Kürzel | Aktion |
+| :-- | :-- |
+| `Alt` + `F4` | Schließt den Spiel-Client (ohne Bestätigung). Wenn du eine Beatmap spielst, dich im Beatmap-Editor oder in osu!direct befindest, gelangst du zurück zur Songauswahl bzw. zum Hauptmenü. |
+| `Alt` + `Pfeil hoch/runter` | Stelle die Gesamtlautstärke ein. Benutze die linke und rechte Pfeiltasten, um die Effekt- sowie die Musiklautstärke anzupassen. |
+| `Strg` + `Alt` + `Shift` + `S` | Lade den aktuellen Skin neu. Wenn dies während des Spielens oder in der Ergebnisanzeige gedrückt wird, dann wird es ausgeführt, sobald man sich wieder in der Songauswahl befindet. |
+| `Strg` + `F11` | Das Frametime-Diagramm an-/ausschalten. Das Drücken von `Strg` wird dies pausieren. |
+| `F7` | Wechsle durch die FPS-Limiter. |
+| `F8` | Chat-Fenster ein-/ausblenden. |
+| `F9` | Erweitertes Chat-Fenster ein-/ausblenden. |
+| `F10` | Alle Maustasten ein-/ausschalten (außer dem Mausrad, welches immer aktiviert ist). |
+| `F12` | Einen Screenshot machen. Klicke auf den Dialog, um den Screenshot-Ordner zu öffnen. |
+| `Shift` + `F12` | Mache ein Screenshot und lade es zum Teilen auf den Server hoch. Der Screenshot wird auch lokal gespeichert. Dies wird den Screenshot in deinem Webbrowser öffnen. |
+| `Einfg` | Das ist der [Boss-Key](https://de.wikipedia.org/wiki/Cheftaste). Minimiere den Spiel-Client in den Benachrichtigungsbereich. Das schaltet das Spiel ebenfalls stumm. |
+| `Shift` + `F1` | Öffne [osu!status](https://twitter.com/osustatus) in deinem Webbrowser. (Nur, wenn ein Verbindungsfehler auftritt.) |
+| `Strg` + `O` | Öffne die Optionen-Seitenleiste. Du kannst nicht in den Offset-Assistenten gelangen, wenn du nicht im Hauptmenü bist. |
 
 ## Hauptmenü
 
-- `Alt` + `F4`: Den osu!client schließen (direkt, ohne Bestätigung)
-- `Alt` + `Enter`: Vollbild ein-/ausschalten
-- `Pfeil oben`: Lautstärke erhöhen
-- `Pfeil unten`: Lautstärke verringern
-- `Esc`: Ein Menü zurückgehen
-  - Schließt die Einstellungen, falls offen
-    - Geht zurück ins Hauptmenü, falls in der Songauswahl
-- `P`: Spielmenü
-- `P` -> `P`: Solo
-  - alternativ: `E` -> `P` -> `P`
-- `P` -> `M`: [Multiplayer](/wiki/Gameplay/Multiplayer)
-  - alternativ: `E` -> `P` -> `M`
-- `P` -> `E`: Bearbeitungsmodus
-- `D`: osu!direct (nur für [osu!-Supporter](/wiki/osu!supporter))
-- `O`: Einstellungen
-  - alternativ: `Strg` + `O`
-- `Q`: "Beenden"-Dialog öffnen
-  - alternativ: `Esc`, wenn die Einstellungen und die Songauswahl geschlossen sind
+| Kürzel | Aktion |
+| :-- | :-- |
+| `Alt` + `Enter` | Vollbildmodus ein-/ausschalten. |
+| `Pfeil hoch/runter` | Stelle die Gesamtlautstärke ein. Benutze die linke und rechte Pfeiltasten, um die Effekt- sowie die Musiklautstärke anzupassen. |
+| `Esc` | Zurückgehen oder Aktion abbrechen. |
+| `P`, `E` oder `O` | Öffne das Spielmenü. |
+| `P` dreimal | Betrete den Einzelspielermodus. |
+| `P` zweimal, dann `M` | Betrete den [Mehrspielermodus](/wiki/Gameplay/Multiplayer). |
+| `E` zweimal | Betrete den Editiermodus. |
+| `O` | Öffne die Optionen-Seitenleiste. |
+| `Q` | Zeigt die Aufforderung zum Verlassen an. |
+| `Esc` | Zeigt die Aufforderung zum Verlassen an, wenn die Optionen und das Spielmenü geschlossen sind. |
+| `F` | Schalte den FPS-Zähler ein oder aus. |
 
 ### Jukebox
 
-- `Z`: Vorheriges Lied
-  - alternativ: `F1`
-- `X`: Lied vom Anfang abspielen
-  - alternativ: `F2`
-- `C`: Pausieren/Fortfahren
-- `F4`: Lied stoppen und an den Anfang zurücksetzen
-- `V`: Nächstes Lied
-  - alternativ: `F5`
-- `J`: Springe zu...
-  - alternativ: `F6`
-- `R`: Zufälliges Lied
+| Kürzel | Aktion |
+| :-- | :-- |
+| `Z` oder `F1` | Spiele den vorherigen Song. |
+| `X` oder `F2` | Den Song weiterspielen. Wenn er bereits spielt, wird er auf den Anfang zurückgesetzt. |
+| `C` | Song pausieren/wiedergeben. |
+| `F4` | Song stoppen und an den Anfang zurücksetzen. |
+| `V` or `F5` | Spiele den nächsten Song. |
+| `J` or `F6` | Öffnet das Menü "Springe zu...". |
+| `R` | Spielt einen zufälligen Song. |
 
 ## Songauswahl
 
-**Hinweis:** Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Gameplay/Multiplayer).
+*Tipp: Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Gameplay/Multiplayer).*
 
-- `Alt` + `Pfeil oben`: Lautstärke erhöhen
-- `Alt` + `Pfeil unten`: Lautstärke verringern
-- `F1`: [Mod](/wiki/Game_modifier)-Auswahl öffnen
-- `F2`: Eine zufällige Beatmap auswählen
-- `Shift` + `F2`: Zufällige Map-Auswahl rückgängig machen
-- `F3`: Beatmap-Optionen
-- `F5`: Beatmaps neu einlesen (kann einen Dialog öffnen)
-- `Shift` + `Entf`: Die ausgewählte Beatmap entfernen
-- `Strg` + `1`: Zu [osu!](/wiki/Game_mode/osu!) wechseln
-- `Strg` + `2`: Zu [osu!taiko](/wiki/Game_mode/osu!taiko) wechseln
-- `Strg` + `3`: Zu [osu!catch](/wiki/Game_mode/osu!catch) wechseln
-- `Strg` + `4`: Zu [osu!mania](/wiki/Game_mode/osu!mania) wechseln
-- `Strg` + `Enter`: Die ausgewählte Map mit dem [Auto](/wiki/Game_modifier/Auto)-Mod spielen
-- `Strg` + `Shift` + `Enter`: Die ausgewählte Map mit dem [Cinema](/wiki/Game_modifier/Cinema)-Mod spielen
-- `Strg` + `A`: Den [Auto](/wiki/Game_modifier/Auto)-Mod ein-/ausschalten
-- `Strg` + `F3`: Die osu!mania-Scrollgeschwindigkeit erhöhen
-  - alias: `Strg` + `+`
-- `Strg` + `F4`: Die osu!mania-Scrollgeschwindigkeit verringern
-  - alias: `Strg` + `-`
-- `Strg` + `Rücktaste`: Das letzte Wort (in der Suche) löschen
-- `Pfeil oben`: Die Difficulty über der aktuellen auswählen
-- `Pfeil unten`: Die Difficulty unter der aktuellen auswählen
-- `Pfeil links`: Das Beatmap über dem aktuellen auswählen
-- `Pfeil rechts`: Das Beatmap über dem aktuellen auswählen
-- `Bild hoch`: Hochscrollen
-- `Bild runter`: Runterscrollen
-- `Enter`: Ausgewählte Map spielen
-- `Shift` + `Pfeil links`: Die Gruppe über der aktuellen auswählen
-- `Shift` + `Pfeil rechts`: Die Gruppe unter der aktuellen auswählen
-- `Shift` + `Enter`: Die aktuelle Gruppe öffnen/schließen
+| Kürzel | Aktion |
+| :-- | :-- |
+| `F1` | Öffne das Auswahlmenü für die [Spielmodifikationen](/wiki/Game_modifier). |
+| `F2` | Wählt zufällig eine Beatmap aus. |
+| `Shift` + `F2` | Gehe zur letzten, zufällig gewählten Beatmap zurück. |
+| `F3` | Öffne die Beatmap-Einstellungen. |
+| `F5` | Verarbeitet alle Beatmaps neu (dies wird dich zum Fortfahren auffordern). |
+| `Shift` + `Entf` | Öffne die Aufforderung zum Löschen einer Beatmap. Das wird dich fragen, ob du die Beatmap (alle Schwierigkeitsgrade), eine einzelne Schwierigkeitsstufe oder alle sichtbaren Beatmaps löschen möchtest. |
+| `Strg` + `1` | Wechsle zum [osu!](/wiki/Game_mode/osu!)-Spielmodus. |
+| `Strg` + `2` | Wechsle zum [osu!taiko](/wiki/Game_mode/osu!taiko)-Spielmodus. |
+| `Strg` + `3` | Wechsle zum [osu!catch](/wiki/Game_mode/osu!catch)-Spielmodus. |
+| `Strg` + `4` | Wechsle zum [osu!mania](/wiki/Game_mode/osu!mania)-Spielmodus. |
+| `Strg` + `Enter` | Spielt die ausgewählte Beatmap mit der [Auto-Mod](/wiki/Game_modifier/Auto). |
+| `Strg` + `Shift` + `Enter` | Spielt die ausgewählte Beatmap mit der [Cinema-Mod](/wiki/Game_modifier/Cinema). |
+| `Strg` + `A` | Auto Mod ein-/ausschalten. |
+| `Strg` + `F3` oder `Strg` + `+` | Erhöhe die osu!mania-Scrollgeschwindigkeit (funktioniert nur im osu!mania-Spielmodus). |
+| `Strg` + `F4` or `Strg` + `-` | Verringere die osu!mania-Scrollgeschwindigkeit (funktioniert nur im osu!mania-Spielmodus). |
+| `Strg` + `Rücktaste` | Lösche das letzte Wort in der Suchleiste. |
+| `Pfeil hoch/runter` | Wähle die nächste darüberliegende bzw. darunterliegende Schwierigkeitsstufe aus. |
+| `Pfeil links/rechts` | Wähle die nächste darüberliegende bzw. darunterliegende Beatmap aus. |
+| `Bild hoch/runter` | Hoch-/Runterscrollen der Seite. |
+| `Enter` | Betrete die aktuelle Auswahl (wenn eine Beatmap- oder Sammelgruppe ausgewählt ist) oder spiele eine Schwierigkeitsstufe (wenn eine Beatmap ausgewählt ist). |
+| `Shift` + `Pfeil links/rechts` | Wähle die nächste/vorherige Gruppe. |
+| `Shift` + `Enter` | Öffne/Schließe die ausgewählte Gruppe. |
 
-### Spielmodifikatoren (Mods)
+### Spielmodifikationen
 
-*Siehe auch: [Spielmodifikatoren](/wiki/Game_modifier)*
+*Hauptseite: [Spielmodifikationen](/wiki/Game_modifier)*
+*Tipp: Das Drücken des Tastenkürzels wird die Mod an-/ausschalten. Du musst im Spielmodifikationsmenü sein, um diese Tastenkürzel verwenden zu können.*\
+*Tipp: Die Mods Target Practice (osu!), 1K und 2K (osu!mania), Co-op (osu!mania) und Mirror (osu!mania) haben keine Tastenkürzel.*
 
-**Hinweis:** Die Tastenkürzel gehen davon aus, dass kein Mod ausgewählt ist.
-
-- `Q`: [Easy](/wiki/Game_modifier/Easy)
-- `W`: [No Fail](/wiki/Game_modifier/No_Fail)
-- `E`: [Half Time](/wiki/Game_modifier/Half_Time)
-
----
-
-- `A`: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
-- `S`: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
-- `S` -> `S`: [Perfect](/wiki/Game_modifier/Perfect)
-- `D`: [Double Time](/wiki/Game_modifier/Double_Time)
-- `D` -> `D`: [Nightcore](/wiki/Game_modifier/Nightcore)
-- `F`: [Hidden](/wiki/Game_modifier/Hidden) (osu!, osu!taiko, und osu!catch)
-  - [Fade In](/wiki/Game_modifier/Fade_In) für osu!mania
-- `F` -> `F`: [Hidden](/wiki/Game_modifier/Hidden) (nur für osu!mania)
-- `G`: [Flashlight](/wiki/Game_modifier/Flashlight)
-
----
-
-- `X`: [Relax](/wiki/Game_modifier/Relax)
-- `C`: [Auto Pilot](/wiki/Game_modifier/Autopilot)
-- `V`: [Spun Out](/wiki/Game_modifier/Spun_Out)
-- `B`: Auto
-- `B` -> `B`: Cinema
-
----
-
-Nur für osu!mania:
-
-- `3`: [3K](/wiki/Game_modifier/xK)
-- `4`: [4K](/wiki/Game_modifier/xK)
-- `5`: [5K](/wiki/Game_modifier/xK)
-- `6`: [6K](/wiki/Game_modifier/xK)
-- `7`: [7K](/wiki/Game_modifier/xK)
-- `8`: [8K](/wiki/Game_modifier/xK)
-- `9`: [9K](/wiki/Game_modifier/xK)
+| Kürzel | Mod |
+| :-- | :-- |
+| `Q` | Easy |
+| `W` | No Fail |
+| `E` | Half Time |
+| `A` | Hard Rock |
+| `S` | Sudden Death |
+| `S` zweimal | Perfect |
+| `D` | Double Time |
+| `D` zweimal | Nightcore |
+| `F` | Hidden (osu!, osu!taiko und osu!catch) oder Fade In (osu!mania) |
+| `F` zweimal | Hidden (osu!mania) |
+| `G` | Flashlight |
+| `Z` | Relax (osu!, osu!taiko und osu!catch) oder wechsle durch die xK-Mods (osu!mania) |
+| `X` | Auto Pilot (osu!) oder Random (osu!mania) |
+| `C` | Spun Out (osu!) |
+| `V` | Auto |
+| `V` zweimal | Cinema |
+| `B` | Score V2 |
+| `3` bis `9` | 3K bis 9K (osu!mania) |
 
 ## Während des Spielens
 
-- `+` und `-`: Lokales Offset anpassen (mit `Alt` für besondere Präzision)
-- `Esc`: Song pausieren (oder beenden, falls der Auto- oder Cinema-Mod aktiv sind)
-- `Space`: Intro überspringen
-- `Tab`: Rangliste ein-/ausschalten
-- `Shift` + `Tab`: Benutzeroberfläche (außer Rangliste) ein-/ausschalten
-- `F3` und `F4`: osu!mania-Scrollgeschwindigkeit anpassen (nur am Anfang des Liedes möglich)
-- `Strg` + `R` oder `ö` (kurz halten): Die Map schnell neustarten (das Intro wird dann automatisch übersprungen)
+| Kürzel | Aktion |
+| :-- | :-- |
+| `+` oder `-` | Passe das lokale Offset an (halte `Alt` für bessere Präzision). |
+| `Esc` | Pausiere das Spiel oder kehre zurück zur Songauswahl, wenn du ein Replay anschaust sowie wenn Auto- oder Cinema-Mod aktiviert sind. |
+| `Leertaste` | Überspringe das Intro. |
+| `Tab` | Rangliste ein-/ausschalten. |
+| `Shift` + `Tab` | Benutzeroberfläche im Spiel (außer der Rangliste) ein-/ausblenden. |
+| `H` | Ein- und Ausblenden der Rangliste und des Replay-Interfaces (beim Ansehen eines Replays oder beim Zuschauen). |
+| `F3` oder `F4` | Passe die osu!mania-Scrollgeschwindigkeit an (nur am Anfang des Songs möglich). |
+| `Strg` + `R` oder `Ö` (deutsches Tastaturlayout) | Darf nur kurz gehalten werden. Starte die Beatmap schnell neu (das Intro wird automatisch übersprungen). |
 
-## Im Beatmap Editor
+## Replay mode
 
-*Siehe auch: [Beatmap Editor](/wiki/Client/Beatmap_editor).*
+*Hinweis: Du musst die Updatequelle "cuttingedge" verwenden, um diese nutzen zu können.*
+
+| Kürzel | Aktion |
+| :-- | :-- |
+| `5` | Pausiere das Replay. |
+| `6` oder `0` | Setze die Wiedergabe fort oder setze die Wiedergabegeschwindigkeit auf 1x. |
+| `7` | Setze die Wiedergabegeschwindigkeit auf 2x. |
+| `8` | Setze die Wiedergabegeschwindigkeit auf 3x. |
+| `9` | Setze die Wiedergabegeschwindigkeit auf 4x. |
+
+## Beatmap-Editor
+
+*Hauptseite: [Beatmap-Editor](/wiki/Client/Beatmap_editor).*
 
 ### Generell
 
-Diese Kürzel funktionieren überall im Editor:
+Diese Kürzel funktionieren überall im Beatmap-Editor:
 
-- `Z`: Zur ersten Note oder zum Anfang des Liedes springen
-- `V`: Zur letzten Note oder zum Ende des Liedes springen
-- `X`: Zum Anfang springen und abspielen
-- `C` oder `Space`: Pause/fortfahren
-- `Pfeil links` or `Pfeil rechts`: Durch das Lied springen
-- `Pfeil oben` or `Pfeil unten`: Zwischen Timing Points springen
-- `Shift` + `Pfeil links` or `Shift` + `Pfeil rechts`: Mit 4-facher Geschwindigkeit durch das Lied springen
-- `Strg` + `B`: Ein Lesezeichen an der aktuellen Stelle setzen
-- `Strg` + `Shift` + `B`: Das Lesezeichen an der aktuellen Stelle entfernen
-- `Strg` + `Pfeil links`: Zum vorherigen Lesezeichen springen
-- `Strg` + `Pfeil rechts`: Zum nächsten Lesezeichen springen
-- `Strg` + `L`: Änderungen zurücksetzen (teilweise): Lädt .osu- und .osb-Dateien neu
-- `Strg` + `Shift` + `L`: Änderungen zurücksetzen (vollständig): Lädt zusätzlich noch Hitsounds und Skinelemente neu
-- `Strg` + `Shift` + `O`: Die Difficulty-Auswahl öffnen
-- `Strg` + `S`: Speichern
-- `Strg` + `N`: Alle Objekte löschen (aber Timing und Song Setup behalten)
-- `Strg` + `Pfeil unten`: Wiedergabegeschwindigkeit um 25% verringern
-- `Strg` + `Shift` + `Pfeil unten`: Wiedergabegeschwindigkeit um 5% verringern
-- `Strg` + `Up`: Wiedergabegeschwindigkeit um 25% erhöhen
-- `Strg` + `Shift` + `Pfeil oben`: Wiedergabegeschwindigkeit um 5% erhöhen
-- `F1`: Zum [Compose](/wiki/Client/Beatmap_editor/Compose)-Modus wechseln
-- `F2`: Zum [Design](/wiki/Client/Beatmap_editor/Design)-Modus wechseln
-- `F3`: Zum [Timing](/wiki/Client/Beatmap_editor/Timing)-Modus wechseln
-- `F4`: Das [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) öffnen (neues Fenster)
-- `F5`: Den Testmodus starten
-- `F6`: Das Timing Setup öffnen
+| Kürzel | Aktion |
+| :-- | :-- |
+| `Z` | Springe zur ersten Note oder zum Anfang des Songs. |
+| `V` | Springe zur letzten Note oder zum Ende des Songs. |
+| `X` | Spiele den Song von Beginn an. |
+| `C` oder `Leertaste` | Pausieren oder Wiedergabe fortsetzen. |
+| `Pfeil links` oder `Pfeil rechts` | Durch den Song springen. |
+| `Pfeil oben` or `Pfeil unten` | Springe zwischen Timing Points. |
+| `Shift` + `Pfeil links` oder `Shift` + `Pfeil rechts` | Springe durch den Song mit 4-facher Geschwindigkeit. |
+| `Strg` + `B` | Setze ein Lesezeichen an der aktuellen Stelle. |
+| `Strg` + `Shift` + `B` | Entferne das Lesezeichen an der aktuellen Stelle. |
+| `Strg` + `Pfeil links/rechts` | Springe zum vorherigen/nächsten Lesezeichen. |
+| `Strg` + `L` | Setze die Änderungen zurück (teilweise). Das wird die `.osu`- und `.osb`-Dateien neu laden. |
+| `Strg` + `Shift` + `L` | Setze die Änderungen zurück (vollständig). Das wird alles neu laden. |
+| `Strg` + `O` | Öffne das Menü zur Auswahl der Schwierigkeitsstufe. |
+| `Strg` + `S` | Speichert die Beatmap in ihrem aktuellen Zustand. |
+| `Strg` + `N` | Lösche alle Hit-Objekte. |
+| `Strg` + `Pfeil hoch/runter` | Erhöhe/verringere die Wiedergabegeschwindigkeit um 25 %. |
+| `Strg` + `Shift` + `Pfeil hoch/runter` | Erhöhe/verringere die Wiedergabegeschwindigkeit um 5 %. |
+| `F1` | Wechsle zum [Compose](/wiki/Client/Beatmap_editor/Compose)-Modus. |
+| `F2` | Wechsle zum [Design](/wiki/Client/Beatmap_editor/Design)-Modus. |
+| `F3` | Wechsle zum [Timing](/wiki/Client/Beatmap_editor/Timing)-Modus. |
+| `F4` | Öffne den Dialog für das [Song-Setup](/wiki/Client/Beatmap_editor/Song_Setup). |
+| `F5` | Starte den Testmodus. |
+| `F6` | Öffne den Dialog für das Timing und die Control Points. |
+| `Strg` + `P` | Füge einen unvererbten Timing Point an der aktuellen Stelle hinzu. Wenn dies nicht im Timing-Mode geschiet, wird auch der Dialog für das Timing und die Control Points geöffnet |
+| `Strg` + `Shift` + `P` | Füge einen unvererbten Timing Point an der aktuellen Stelle hinzu. Das wird auch den Dialog für das Timing und die Control Points öffnen. |
+| `Strg` + `I` | Lösche die aktuelle unvererbte oder vererbte Sektion. Das wird nicht beim ersten unvererbten Timing Point funktionieren. |
+
+#### Maus
+
+| Kürzel | Aktion |
+| :-- | :-- |
+| `Mausrad hoch/runter` | Springe vorwärts/rückwärts. |
+| `Shift` + `Mausrad hoch/runter` | Springe vorwärts/rückwärts bei 4x. |
+| `Strg` + `Mausrad hoch/runter` | Passe den Snap-Divisor an. |
+| `Alt` + `Mausrad hoch/runter` | Stelle den Distance-Snapping-Multiplikator beim Hovern über dem Spielfeld ein. Passe die Vergrößerung der Timeline beim Hovern über der Timeline an. |
+| `Alt` + `Shift` + `Mausrad hoch/runter` | Stelle sehr präzise den Distance-Snapping-Multiplikator beim Hovern über dem Spielfeld ein. |
 
 ### Compose
 
 #### Generell
 
-- `Strg` + `Z`: Rückgängig
-- `Strg` + `Y`: Wiederholen
-- `Strg` + `A`: Alle Objekte auswählen
-- `Strg` + `X`: Ausgewählte Objekte ausschneiden
-- `Strg` + `C`: Ausgewählte Objekte kopieren
-- `Strg` + `V`: Ausgewählte Objekte einfügen
-- `Strg + D`: Ausgewählte Objekte duplizieren (die Duplikate werden einen Takt hinter der letzten ausgewählten Note platziert)
-- `Entf`: Ausgewählte Objekte entfernen
-- `1`, `2`, `3`, or `4`: Modus wechseln: Objektauswahl (1) oder Platzieren von: Circle (2), Slider (3), Spinner (4)
-- `Strg` + `Alt` + `Mausrad hoch`: Modus hochscrollen
-- `Strg` + `Alt` + `Mausrad runter`: Modus runterscrollen
-- `Strg` + `Shift` + `A` : [AiMod](/wiki/Client/Beatmap_editor/AiMod) öffnen
+| Kürzel | Aktion |
+| :-- | :-- |
+| `Alt` + `F4` oder `Esc` | Kehre zurück zur Songauswahl. |
+| `Strg` + `Z` | Rückgängig. |
+| `Strg` + `Y` | Wiederholen. |
+| `Strg` + `A` | Wähle alle Hit-Objekte aus. |
+| `Strg` + `X` | Ausschneiden. |
+| `Strg` + `C` | Kopieren. |
+| `Strg` + `V` | Einfügen. |
+| `Strg` + `D` | Dupliziere die Auswahl. Dies wird das Duplikat einen Takt hinter dem zuletzt ausgewählten Objekt platzieren. |
+| `Strg` + `M` | Passe den Snap-Divisor an. |
+| `Entf` | Löschen. |
+| `1`, `2`, `3` oder `4` | Wechsle zwischen dem Platzier-/Auswahlmodus: wähle Circle, Slider bzw. Spinner aus (osu!, osu!taiko oder osu!catch). |
+| `1`, `2` oder `3` | Wechsle zwischen dem Platzier-/Auswahlmodus: wähle Circle bzw. Hold aus (osu!mania). |
+| `Strg` + `Alt` + `Mausrad hoch/runter` | Wechsle zwischen dem Platzier-/Auswahlmodus. |
+| `Strg` + `Shift` + `A` | Öffne [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
+
+#### Maus
+
+| Kürzel | Aktion |
+| :-- | :-- |
+| `Doppelklick` | Springe bei Circles und Endpunkten von Slidern zur Position des Objekts auf der Timeline, von jedem Punkt des Songs aus. (osu!, osu!taiko, osu!catch) |
+| `Rechtsklick` | Schalte auf die nächste Combo um (beim Platzieren eines neuen Hit-Objekts) oder lösche Objekte (beim Auswählen). |
+
+#### Spielfeld
+
+| Kürzel | Aktion |
+| :-- | :-- |
+| `Alt` | Schalte beim Halten temporär den [Distance-Snap](/wiki/Client/Beatmap_editor/Distance_snap) ein/aus. |
+| `Y` | Schalte den Distance-Snap ein/aus. |
+| `Shift` | Schalte den Grid-Snap beim Halten ein/aus. |
+| `T` | Schalte den Grid-Snap ein/aus. |
+| `G` | Wechsle durch die Rastergrößen. |
+| `Strg` + `1` | Setze die Rastergröße auf winzig. |
+| `Strg` + `2` | Setze die Rastergröße auf klein. |
+| `Strg` + `3` | Setze die Rastergröße auf mittel. |
+| `Strg` + `4` | Setze die Rastergröße auf groß. |
+| `L` | Schalte die Verriegelung der Hit-Objekte ein/aus. |
+
+#### Objektmanipulierung
+
+| Kürzel | Aktion |
+| :-- | :-- |
+| `Q` | Wechsle zu einer neuen Combo. |
+| `Strg` + `,` | Rotiere die Auswahl um 90 Grad gegen den Uhrzeigersinn. |
+| `Strg` + `.` | Rotiere die Auswahl um 90 Grad mit dem Uhrzeigersinn. |
+| `Strg` + `H` | Spiegle die Auswahl horizontal. |
+| `Strg` + `J` | Spiegle die Auswahl vertikal. |
+| `Strg` + `G` | Kehre die Auswahl um. Das bedeutet, dass das erste ausgewählte Objekt zum letzten ausgewählten Objekt bewegt wird usw. |
+| `Strg` + `Shift` + `R` | Rotiere die ausgewählten Objekte um einen bestimmten Winkel (öffnet einen Dialog). |
+| `Strg` + `Shift` + `S` | Skaliere die ausgewählten Objekte um einen bestimmten Betrag (öffnet einen Dialog). |
+| `Strg` + `Shift` + `D` | Generiere Polygone mit einer bestimmten Anzahl an Punkten (öffnet einen Dialog). |
+| `Strg` + `Shift` + `F` | Konvertiere die ausgewählten Slider zu einem Hit-Circle-Stream (öffnet einen Dialog). |
+| `Strg` + `Pfeil links/rechts/hoch/runter` | Schiebe die ausgewählten Objekte in die entsprechende Richtung. (osu!, osu!taiko, osu!catch) |
+| `Strg` + `Pfeil links/rechts` | Bewege die ausgewählten Objekte eine Spalte nach links oder rechts. (osu!mania) |
+| `Strg` + `Pfeil hoch/runter` | Bewege die ausgewählten Objekte einen Divisor hoch oder runter. (osu!mania) |
 
 #### Hitsounding
 
-- `W`: Whistle-Effekt zu den ausgewählten Objekten hinzufügen
-- `E`: Finish-Effekt zu den ausgewählten Objekten hinzufügen
-- `R`: Clap-Effekt zu den ausgewählten Objekten hinzufügen
-- `Shift` + `Q`, `W`, `E`, `R`: Sampleset für das ausgewählte Objekt ändern zu: Auto, Normal, Soft, oder Drum
-- `Strg` + `Q`, `W`, `E`, `R`: Effekteset für das ausgewählte Objekt ändern zu: Auto, Normal, Soft, oder Drum
-- `Strg` + `Shift` + `I`: Sample-Import öffnen (neues Fenster)
+| Kürzel | Aktion |
+| :-- | :-- |
+| `W` | Füge den Whistle-Effekt zu den ausgewählten Objekten hinzu. |
+| `E` | Füge den Finish-Effekt zu den ausgewählten Objekten hinzu. |
+| `R` | Füge den Clap-Effekt zu den ausgewählten Objekten hinzu. |
+| `Shift` + (`Q`, `W`, `E` oder `R`) | Ändere das Sampleset für das ausgewählte Objekt zu Auto, Normal, Soft oder Drum. |
+| `Strg` + (`Q`, `W`, `E` oder `R`) | Ändere das Effekteset für das ausgewählte Objekt zu Auto, Normal, Soft oder Drum. |
+| `Strg` + `Shift` + `I` | Öffne den Dialog für den Sample-Import. |
 
 #### Timeline
 
-- `Shift` + `1`, `2`, `3`, `4`, `6`, `8`: Den [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) zu 1/1, 1/2, 1/3, 1/4, 1/6, oder 1/8 ändern (1, 2, und 3 sind in osu!mania nicht verfügbar)
-- `Shift` beim Platzieren von Objekten: Snapping ignorieren
-- `J`: Objekt auf der Timeline zurückbewegen
-- `K`: Objekt auf der Timeline vorwärts bewegen
-- `L`: Alle Objekte sperren
+| Kürzel | Aktion |
+| :-- | :-- |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8` oder `9`) | Ändere den [Beat-Snap-Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) auf 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 oder 1/9. |
+| `Shift` (während dem Ziehen auf der Timeline) | Ignoriere das Snapping des Beat-Snap-Divisors. |
+| `J` | Schiebe die Auswahl auf der Timeline zurück. |
+| `K` | Schiebe die Auswahl auf der Timeline vorwärts. |
 
 ### Design
 
-- `I`: Sprite-Bibliothek öffnen (als Overlay)
-- `Strg` + `Z`: Rückgängig
-- `Strg` + `Y`: Wiederholen
-- `Strg` + `X`: Ausgewählte Ebene ausschneiden
-- `Strg` + `C`: Ausgewählte Ebene kopieren
-- `Strg` + `V`: Ausgewählte Ebene an aktueller Stelle einfügen (Hinweis: Eingefügte Ebenen werden erst nach Speichern und Neuladen der Map in der Liste angezeigt)
-- `Entf`: Ausgewählte Ebene löschen
-- `W`, `A`, `S`, `D`: Ausgewählte Ebene um einen Pixel nach oben, links, unten oder rechts bewegen
+| Kürzel | Aktion |
+| :-- | :-- |
+| `I` | Öffne die Sprite-Bibliothek (als Overlay). |
+| `Strg` + `Z` | Rückgängig. |
+| `Strg` + `Y` | Wiederholen. |
+| `Strg` + `X` | Schneide die ausgewählte Ebene aus. |
+| `Strg` + `C` | Kopiere die ausgewählte Ebene. |
+| `Strg` + `V` | Füge die ausgewählte Ebene an der aktuellen Stelle ein. *Tipp: Eingefügte Ebenen werden erst nach Speichern und Neuladen der Beatmap in der Liste angezeigt.* |
+| `Entf` | Lösche die ausgewählte Ebene. |
+| `W`, `A`, `S`, `D` | Schiebe die ausgewählte Ebene um einen [osu!pixel](/wiki/osupixel) nach oben, unten, links bzw. rechts. |
 
 ### Timing
 
-- `T`: [BPM](/wiki/Beatmapping/Beats_per_minute) und Offset durch Tippen festlegen
-  - Du solltest so genau wie möglich tippen
-- `Shift` beim Ändern von BPM oder Offset: 4-fache Geschwindigkeit
-- `Strg` + `B`: Aktuellen Timing Point zurücksetzen
-- `Strg` + `P`: Nicht vererbten Timing Point an aktueller Stelle erstellen
-- `Strg` + `Shift` + `P`: Vererbten Timing Point an aktueller Stelle erstellen (öffnet das Timing Setup)
-- `Strg` + `I`: Aktuellen Timing-Abschnitt löschen.
-
-### Maus
-
-- `Linksklick`: Hit Circles/Slider erstellen oder Objekte auswählen
-- `Strg` + `Linksklick`: Neuen Anker zum Slider hinzufügen
-- `Rechtsklick`: Neue Combo starten, Slider beenden, Slider-Anker entfernen oder Objekt löschen.
-- `Mausrad hoch`: Im Lied vorwärts springen
-- `Shift` + `Mausrad hoch`: Im Lied vorwärts springen (4-fache Geschwindigkeit)
-- `Mausrad runter`: Im Lied zurückspringen
-- `Shift` + `Mausrad runter`: Im Lied zurückspringen (4-fache Geschwindigkeit)
-- `Strg` + `Mausrad hoch`: Beat Snap Divisor erhöhen
-- `Strg` + `Mausrad runter`: Beat Snap Divisor verringern
-- `Alt` + `Mausrad hoch`: Im Spielfeld: Distance-Snapping-Multiplikator erhöhen. In der Timeline: Zoom verändern
-- `Alt` + `Mausrad runter`: Im Spielfeld: Distance-Snapping-Multiplikator verringern. In der Timeline: Zoom verändern
-- `Ziehen`: Ausgewählte Objekte verschieben (Position oder Zeit) oder Anker in einem Slider bewegen. In der Timeline: Enden von Slider/Spinner ziehen, um ihre Länge zu verändern
+| Kürzel | Aktion |
+| :-- | :-- |
+| `T` | Stelle die BPM und das Offset beim Tippen zum Beat des Songs ein. |
+| `Shift` beim Einstellen der BPM oder des Offsets | Inkrementiere um 5x des normalen Betrags. |
+| `Strg` beim Einstellen der BPM | Inkrementiere um 0,25. |
+| `Strg` beim Einstellen des Offsets | Inkrementiere um 1. |
+| `Strg` beim Einstellen der Slidergeschwindigkeit | Inkrementiere um 0,1. |

@@ -42,12 +42,12 @@ La couleur du panneau correspond à un des dix statuts:
 | Panel colour | Description |
 | :-- | :-- |
 | ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | Bleu foncé - Aucun des autres statuts |
-| ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | Gris - L'utilisateur joue une map. |
-| ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | Bleu clair/violet - L'utilisateur regarde un joueur jouer une map ou un replay. |
-| ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap") | Rouge - L'utilisateur édite une de ses maps. |
-| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap") | Vert - L'utilisateur édite une map de quelqu'un d'autre. |
-| ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap") | Violet - L'utilisateur test une map depuis l'éditeur. |
-| ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap") | Turquoise - L'utilisateur est en train de mettre une map en ligne. |
+| ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | Gris - L'utilisateur joue une beatmap. |
+| ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | Bleu clair/violet - L'utilisateur regarde un joueur jouer une beatmap ou un replay. |
+| ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap") | Rouge - L'utilisateur édite une de ses beatmaps. |
+| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap") | Vert - L'utilisateur édite une beatmap de quelqu'un d'autre. |
+| ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap") | Violet - L'utilisateur test une beatmap depuis l'éditeur. |
+| ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap") | Turquoise - L'utilisateur est en train de mettre une beatmap en ligne. |
 | ![Player in Mulitplayer](img/Chat_Console-Multiplayer.png "Player in Mulitplayer") | Marron - L'utilisateur est en multijoueur mais ne joue pas. |
 | ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | Jaune - L'utilisateur joue en multijoueur. |
 | ![Player is Afk](img/Chat_Console-Afk.png "Player is Afk") | Noir - L'utisateur ne fait rien depuis plusieurs minutes |
