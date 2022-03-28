@@ -42,6 +42,7 @@ The UK Community Cup 11 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1508197?n=1)
+- [Challonge](https://challonge.com/UKCC11)
 - [Discord](https://discord.gg/EtsU7Cw)
 - [Livestream](https://twitch.tv/osuukcc)
 - [Rules and information document](https://docs.google.com/document/d/1rkDOmvN4o5VKTbFcBXUXAjG2kPjNhpan9-WwgYlfpE8/edit?usp=sharing)
@@ -87,6 +88,66 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
 | #32 | **PopKO** | ![][flag_GB] [Claus](http://osu.ppy.sh/users/4966424), ![][flag_GB] [SpiralKO](http://osu.ppy.sh/users/5387803) |
 
 ## Mappools
+
+### Finals
+
+- NoMod
+  1. [Manami Numakura - Sakebe (SkyFlame) [Outcry]](https://osu.ppy.sh/beatmapsets/1309827#osu/2715370)
+  2. [Demetori - Fuujin Shoujo (ItsWinter) [Stage 4]](https://osu.ppy.sh/beatmapsets/1563116#osu/3192005)
+  3. [The Fearless Flyers - Assassin (olc) [lets go]](https://osu.ppy.sh/beatmapsets/1580627#osu/3227488)
+  4. [Kuba Oms - My Love (Maemi No Yume's Remix) (K4L1) [Kalindraz & Sakura Airi Splendid Reality]](https://osu.ppy.sh/beatmapsets/1389127#osu/2868791)
+  5. [Camellia - Blackmagik Blazing (Cut Ver.) (Lunicia) [The Darkness That Surrounds My Soul Only Makes Me Stronger]](https://osu.ppy.sh/beatmapsets/1310159#osu/2715945)
+  6. [OSTER project - Violet Rose (Saika0k1) [Reminisce]](https://osu.ppy.sh/beatmapsets/1357993#osu/2810326)
+- Hidden
+  1. [Iyowa feat. KAFU - Kyu-kurarin (0ugi) [Anxiety]](https://osu.ppy.sh/beatmapsets/1591460#osu/3250375)
+  2. [COOL&CREATE - Cirno to Mario no Perfect Sansuu Kyoushitsu (Reiji Maigo) [Extra]](https://osu.ppy.sh/beatmapsets/1563526#osu/3192828)
+  3. [HyuN - Illusion of Inflict (Icekalt) [Keys of Chaos]](https://osu.ppy.sh/beatmapsets/968923#osu/2027309)
+  4. [Zekk - Kaleidoscope (Heilia) [Selcouth]](https://osu.ppy.sh/beatmapsets/1148786#osu/2399834)
+- HardRock
+  1. [Bentham - Chicago (ponbot) [Re: Wonder]](https://osu.ppy.sh/beatmapsets/1243342#osu/2584895)
+  2. [Qrispy Joybox - licca (Minakami Yuki) [Special]](https://osu.ppy.sh/beatmapsets/287052#osu/647844)
+  3. [Renard - Terminal (nold\_1702) [EXTRA]](https://osu.ppy.sh/beatmapsets/102282#osu/270490)
+  4. [Moe Shop - Charm (w/ Puniden) (Amateurre) [Seduction]](https://osu.ppy.sh/beatmapsets/1505515#osu/3083882)
+- DoubleTime
+  1. [yanaginagi - Killer Song (Short Ver.) (terametis) [Insane]](https://osu.ppy.sh/beatmapsets/43003#osu/139634)
+  2. [Camellia vs. lapix - Solvicious (Lokidoki) [Corsace]](https://osu.ppy.sh/beatmapsets/1569630#osu/3205317)
+  3. [BAND-MAID - Spirit!! (Lasse) [Insane!!]](https://osu.ppy.sh/beatmapsets/1306578#osu/2709016)
+  4. [Malk De Koijn - Braget (waefwerf) [owc ver]](https://osu.ppy.sh/beatmapsets/1621901#osu/3311356)
+- FreeMod
+  1. [PELICAN FANCLUB - Sangenshoku (fartownik) [Scientia Scortillum]](https://osu.ppy.sh/beatmapsets/1306614#osu/2709080)
+  2. [t+pazolite - Luv-Lab-Poison 22ate! (Xgor) [Xtreme]](https://osu.ppy.sh/beatmapsets/9029#osu/38426)
+  3. [GurinP - I Want (GATE I - gate odyssey MIX) (Snow Note) [Challenge]](https://osu.ppy.sh/beatmapsets/411097#osu/892045)
+- Tiebreaker
+  1. **[Judas Priest - Painkiller (piroshki) [The Metal Reaper]](https://osu.ppy.sh/beatmapsets/903791#osu/1886684)**
+
+### Semifinals
+
+- NoMod
+  1. [TUYU - Loser Girl (Lizu) [Inferior]](https://osu.ppy.sh/beatmapsets/1332877#osu/2761537)
+  2. [Sabaton - Twilight Of The Thunder God (Mazzerin) [Ragnarok awaits]](https://osu.ppy.sh/beatmapsets/1616046#osu/3299406)
+  3. [Hazel - I Love Poland (Extended Dirty Mix) UKCC Edit. (jesus1412) [Almost UKCC Edit]](https://chillierpear.xyz/UKCCNM3)
+  4. [lapix - Debug Dance (Zekk Remix) (dong2729) [Bunny Hop]](https://osu.ppy.sh/beatmapsets/1207234#osu/2514021)
+  5. [Brymir - The Rain (Zelq) [The Map]](https://osu.ppy.sh/beatmapsets/1557052#osu/3180896)
+  6. [Saint Snow - SELF CONTROL!! (ktgster) [Special]](https://osu.ppy.sh/beatmapsets/880205#osu/1840640)
+- Hidden
+  1. [Neil Cicierega - Wow Wow (DTM9 Nowa) [owo owo]](https://osu.ppy.sh/beatmapsets/832889#osu/1744742)
+  2. [a-ha - Analogue (Saturos-fangirl) [Abomination]](https://osu.ppy.sh/beatmapsets/20191#osu/168666)
+  3. [tokiwa - Kotodama Refrain (katagiri Bootleg) (Ducky-) [captin's Extra]](https://osu.ppy.sh/beatmapsets/1605822#osu/3371330)
+- HardRock
+  1. [mafumafu - Rinne Tensei (AirinCat) [Reincarnation]](https://osu.ppy.sh/beatmapsets/1083811#osu/2266659)
+  2. [Reku Mochizuki - Yorixiro (Yugu) [Extra]](https://osu.ppy.sh/beatmapsets/1438879#osu/2960558)
+  3. [LeaF - Monkey Business -Satire mix- (waefwerf) [Yokes' Extra]](https://osu.ppy.sh/beatmapsets/1221791#osu/2561965)
+- DoubleTime
+  1. [Uchida Aya - Blueberry Train (Fycho) [Insane]](https://osu.ppy.sh/beatmapsets/126961#osu/355510)
+  2. [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (Yohanes) [Laurier's Insane]](https://osu.ppy.sh/beatmapsets/849946#osu/1783432)
+  3. [Zektbach - Turii \~Panta rhei\~ (Yooh) [Myah's Insane]](https://osu.ppy.sh/beatmapsets/1537583#osu/3214128)
+  4. [Harumaki Gohan feat. Hatsune Miku - Pokapoka no Hoshi (Kyle Y) [Hakusui3820's Insane]](https://osu.ppy.sh/beatmapsets/1643298#osu/3354224)
+- FreeMod
+  1. [fail better, heal faster - Queer Recovery Club (sammish) [dysmorphia]](https://osu.ppy.sh/beatmapsets/847942#osu/1888617)
+  2. [sasakure.UK - bAd Companyz (caren\_sk) [AR8]](https://osu.ppy.sh/beatmapsets/92234#osu/249516)
+  3. [Dance Gavin Dance - Summertime Gladness (Xexxar) [Blooming Sunset]](https://osu.ppy.sh/beatmapsets/946022#osu/1975387)
+- Tiebreaker
+  1. **[Saitama Saisyu Heiki - L.L. Infinite Beating.ver (sjoy) [MAX]](https://osu.ppy.sh/beatmapsets/403581#osu/877564)**
 
 ### Quarterfinals
 
@@ -187,6 +248,123 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
   2. [Inoue Marina - Pieces of Sweet Stars (whymeman) [S.t.a.r.S]](https://osu.ppy.sh/beatmapsets/8436#osu/34657)
 
 ## Match Results
+
+### Semifinals
+
+#### Semifinals
+
+Sunday, 20 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **The** | **6** | 0 | The PokiStans | [#1](https://osu.ppy.sh/community/matches/98938526) |
+| ABSOLUTE UNITS | 2 | **6** | **denial piano** | [#1](https://osu.ppy.sh/community/matches/98942624) |
+
+#### Losers Bracket Round 4
+
+Saturday, 19 March 2022:
+
+| Team 1 |  |  | Team 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| Werther's Originals | -1 | **0** | **the southern service to ore** | *forfeit* |
+
+Sunday, 20 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Luciano Fan Club** | **6** | 1 | frogy | [#1](https://osu.ppy.sh/community/matches/98927199) |
+| that's what i'm saying! | 3 | **6** | **go wild Idm** | [#1](https://osu.ppy.sh/community/matches/98930814) |
+| **:stonehenge:** | **6** | 0 | Deflated squidward 2 | [#1](https://osu.ppy.sh/community/matches/98935238) |
+
+#### Losers Bracket Round 5
+
+Sunday, 20 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| :stonehenge: | 4 | **6** | **go wild Idm** | [#1](https://osu.ppy.sh/community/matches/98938410) |
+
+Monday, 21 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Luciano Fan Club** | **6** | 0 | the southern service to ore | [#1](https://osu.ppy.sh/community/matches/98964785) |
+
+### Quarterfinals
+
+#### Quarterfinals
+
+Friday, 11 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **The PokiStans** | **6** | 5 | Luciano Fan Club | [#1](https://osu.ppy.sh/community/matches/98621920) |
+
+Sunday, 13 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **The** | **0** | -1 | Werther's Originals | *forfeit* |
+| **ABSOLUTE UNITS** | **6** | 3 | that's what i'm saying! | [#1](https://osu.ppy.sh/community/matches/98709546) |
+| **denial piano** | **6** | 2 | :stonehenge: | [#1](https://osu.ppy.sh/community/matches/98711507) |
+
+#### Losers Bracket Round 2
+
+Thursday, 10 March 2022:
+
+| Team 1 |  |  | Team 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| **the southern service to ore** | **0** | -1 | reshamen | *forfeit* |
+
+Friday, 11 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Swonkity and Farto | 3 | **6** | **Washed Warriors** | [#1](https://osu.ppy.sh/community/matches/98627658) |
+| **Meal Deal Men** | **6** | 4 | Mario Party Enjoyers (not Gaz) | [#1](https://osu.ppy.sh/community/matches/98632850) |
+
+Saturday, 12 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **go wild Idm** | **6** | 0 | language analysis spray | [#1](https://osu.ppy.sh/community/matches/98673185) |
+| **:flag_tf:** | **6** | 1 | Platform Duty | [#1](https://osu.ppy.sh/community/matches/98675535) |
+
+Sunday, 13 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| bare close to the camera innit | 3 | **6** | **Deflated squidward 2** | [#1](https://osu.ppy.sh/community/matches/98706366) |
+| Rupert Murducks | 0 | **6** | **stun seed** | [#1](https://osu.ppy.sh/community/matches/98712639) |
+
+Tuesday, 15 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **frogy** | **6** | 0 | osu!UK Lovers | [#1](https://osu.ppy.sh/community/matches/98769302) |
+
+#### Losers Bracket Round 3
+
+Sunday, 13 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **go wild idm** | **3** | 1 | :flag_tf: | [#1](https://osu.ppy.sh/community/matches/98702606)¹ |
+| **Deflated squidward 2** | **0** | -1 | Meal Deal Men | *forfeit* |
+
+¹ The match was concluded due to pedeko having to leave.
+
+Monday, 14 March 2022:
+
+| Team 1 |  |  | Team 2 | Match info |
+| --: | :-: | :-: | :-- | :-- |
+| Washed Warriors | -1 | **0** | **the southern service to ore** | *forfeit* |
+
+Thursday, 17 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **frogy** | **6** | 2 | stun seed | [#1](https://osu.ppy.sh/community/matches/98826215) |
 
 ### Round of 16
 
