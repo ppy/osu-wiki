@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: ef481df76475a6367dc1fd8369836cab766f8df1
+---
+
 # Configuration d'osu!tourney
 
 *Voir également : [osu! tournament client](/wiki/osu!_tournament_client)*\
