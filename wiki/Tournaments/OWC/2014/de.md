@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2014 logo](img/logo.png)
 
-Der **osu! World Cup 2013** (***OWC 2013***) war ein länderbasiertes osu!-Turnier, das vom [osu!-Team](/wiki/People/The_Team) ausgerichtet wurde. Es war die fünfte Austragung des osu! World Cup.
+Der **osu! World Cup 2014** (***OWC 2014***) war ein länderbasiertes osu!-Turnier, das vom [osu!-Team](/wiki/People/The_Team) ausgerichtet wurde. Es war die fünfte Austragung des osu! World Cup.
 
 ## Turnierzeitplan
 
@@ -35,7 +35,7 @@ Der **osu! World Cup 2013** (***OWC 2013***) war ein länderbasiertes osu!-Turni
 
 ## Organisation
 
-Der osu! World Cup 2013 wurde von verschiedenen Mitgliedern der Community organisiert.
+Der osu! World Cup 2014 wurde von verschiedenen Mitgliedern der Community organisiert.
 
 | Tätigkeit | Person(en) |
 | :-- | :-- |
@@ -106,8 +106,8 @@ Dieser Wettbewerb ist zu Ende gegangen und hat die folgenden Podiumsplätze erge
 | Platzierung | Team |
 | :-: | :-- |
 | ![Goldkrone](/wiki/shared/crown-gold.png "1. Platz") | ![][flag_JP] **Japan** (**[Mercurius](https://osu.ppy.sh/users/589550)**, [Guy](https://osu.ppy.sh/users/91738), [Poruteri](https://osu.ppy.sh/users/1379576), [Potofu](https://osu.ppy.sh/users/657404), [rrtyui](https://osu.ppy.sh/users/352328), [serea](https://osu.ppy.sh/users/371961), [Sinch](https://osu.ppy.sh/users/360552)) |
-| ![Silberne Krone](/wiki/shared/crown-silver.png "2. Platz") | ![][flag_PL] **Polen** (**[fartownik](https://osu.ppy.sh/users/56917)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [lustlos](https://osu.ppy.sh/users/1106527), [r0ck](https://osu.ppy.sh/users/1549620), [SteRRuM](https://osu.ppy.sh/users/42585), [Wilchq](https://osu.ppy.sh/users/2021758), [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
-| ![Bronze-Krone](/wiki/shared/crown-bronze.png "3. Platz") | ![][flag_DE] **Deutschland** (**[cptnXn](https://osu.ppy.sh/users/495272)**, [BDDav](https://osu.ppy.sh/users/1164526), [CookEasy](https://osu.ppy.sh/users/453226), [Dustice](https://osu.ppy.sh/users/754565), [shunsuke](https://osu.ppy.sh/users/2028641), [Splinter572](https://osu.ppy.sh/users/846038), [Tom94](https://osu.ppy.sh/users/1857058)) |
+| ![Silberkrone](/wiki/shared/crown-silver.png "2. Platz") | ![][flag_PL] **Polen** (**[fartownik](https://osu.ppy.sh/users/56917)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [lustlos](https://osu.ppy.sh/users/1106527), [r0ck](https://osu.ppy.sh/users/1549620), [SteRRuM](https://osu.ppy.sh/users/42585), [Wilchq](https://osu.ppy.sh/users/2021758), [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
+| ![Bronzekrone](/wiki/shared/crown-bronze.png "3. Platz") | ![][flag_DE] **Deutschland** (**[cptnXn](https://osu.ppy.sh/users/495272)**, [BDDav](https://osu.ppy.sh/users/1164526), [CookEasy](https://osu.ppy.sh/users/453226), [Dustice](https://osu.ppy.sh/users/754565), [shunsuke](https://osu.ppy.sh/users/2028641), [Splinter572](https://osu.ppy.sh/users/846038), [Tom94](https://osu.ppy.sh/users/1857058)) |
 
 ## Mappools
 
@@ -115,7 +115,7 @@ Dieser Wettbewerb ist zu Ende gegangen und hat die folgenden Podiumsplätze erge
 
 ### Finale
 
-**[Download das Mappack hier! (130 MB)](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
+**[Downloade das Mappack hier! (130 MB)](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
 
 - NoMod
   1. [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmapsets/59049#osu/214248)
@@ -145,7 +145,7 @@ Dieser Wettbewerb ist zu Ende gegangen und hat die folgenden Podiumsplätze erge
 
 ### Halbfinale
 
-**[Download das Mappack hier! (187 MB)](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
+**[Downloade das Mappack hier! (187 MB)](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
 
 - NoMod
   1. [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/338682)
@@ -175,7 +175,7 @@ Dieser Wettbewerb ist zu Ende gegangen und hat die folgenden Podiumsplätze erge
 
 ### Viertelfinale
 
-**[Download das Mappack hier! (164 MB)](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
+**[Downloade das Mappack hier! (164 MB)](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
 - NoMod
   1. [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
@@ -205,7 +205,7 @@ Dieser Wettbewerb ist zu Ende gegangen und hat die folgenden Podiumsplätze erge
 
 ### Achtelfinale
 
-**[Download das Mappack hier! (144 MB)](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
+**[Downloade das Mappack hier! (144 MB)](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
 - NoMod
   1. [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
@@ -235,7 +235,7 @@ Dieser Wettbewerb ist zu Ende gegangen und hat die folgenden Podiumsplätze erge
 
 ### Gruppenphase
 
-**[Download das Mappack hier! (206 MB)](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
+**[Downloade das Mappack hier! (206 MB)](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
 - NoMod
   1. [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
@@ -407,7 +407,7 @@ Sonntag, 9. November 2014:
 1. Der osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier
 2. Die Beatmaps werden vom Beatmapwähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim Punktegleichstand gespielt.
-3. Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
+3. Die Zeiten der Partien werden vom Turnier-Management festgelegt (siehe unten).
 4. Wenn kein Schiedrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 5. Die Ergebnisse von wiederbelebten Spielern werden nicht zum Teamergebnis mit angerechnet.
    - Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
@@ -428,14 +428,14 @@ Sonntag, 9. November 2014:
 1. Ihr Team benötigt **mindestens 6 Spieler** zum Teilnehmen.
 2. Die maximale Teamgröße ist 8.
 3. Es muss ein Kapitän angegeben werden, der das Team representieren wird.
-4. Wir unterscheiden nicht zwischen Kern- und Reservespieler.
-5. Jedes Team representiert eine Nation. Es muss ein Team mit Spielern aus demselben Land zusammengestellt werden.
+4. Wir unterscheiden nicht zwischen Kern- und Reservespielern.
+5. Jedes Team representiert eine Nation. Es muss ein Team mit Spielern aus demselben Land, und dadurch mit denselben Flaggen auf ihren Nutzerprofilen, zusammengestellt werden.
 6. Für die Teamanmeldungen [musst du dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizierst du  deine Registrierung, in dem du [eine persönliche Nachricht an Loctav schickst](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
-   - Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
+   - Kapitäne können ihre Aufstellung durch [das Benachrichtigen an das Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
    - Du bekommst eine Bestätigungsantwort, welche dir mitteilen soll, dass deine Anmeldung erfolgreich angekommen ist. Die Registrierung ist dann in Bearbeitung.
-7. Um gültige und ernsthafte Registrierungen zu gewährleisten, wird jede Registrierung und Änderung vom Turnier Management geprüft.
-8. Das Turnier Management kann Ihre Registrierung aufgrund von unzureichender Gameplay Fähigkeiten ablehnen.
-9. Die Spieladminstration kann deine Registrierung aufgrund [vom Verstoß an den Nutzungsbedingungen](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-) ablehnen.
+7. Um gültige und ernsthafte Registrierungen zu gewährleisten, wird jede Registrierung und Änderung vom Turnier-Management geprüft.
+8. Das Turnier-Management kann deine Registrierung aufgrund von unzureichender Gameplay-Fähigkeiten ablehnen.
+9. Die Spieladministration kann deine Registrierung aufgrund [des Verstoßes an den Nutzungsbedingungen](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-) ablehnen.
 10. Die maximale Anzahl an Teams liegt bei 32.
 11. Alle erfolgreichen Registrierungen der Teams werden nach der Registrierungsphase veröffentlicht.
     - Kapitäne werden im Falle einer Akzeptierung oder Ablehnung benachrichtigt.
@@ -451,8 +451,8 @@ Sonntag, 9. November 2014:
 6. Am meisten gewonnene Maps.
 7. Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
 8. Gewinner von Rückspielen.
-9. Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
-10. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
+9. Die besten 2 Teams in der Gruppe kommen in die Doppeleleminierungsetappen.
+10. Die folgenden Etappen sind Doppeleleminierungsetappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe absteigt.
 11. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
 
 | Etappe | Partie-ID |
@@ -470,8 +470,8 @@ Sonntag, 9. November 2014:
 
 ### Partieanweisungen
 
-1. Ein Schiedsrichter wird 15 Minuten im Vorhinein ein Multiplayer Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
-2. Der Raum wird verschlossen. Das Passwort und die Einladung zum Raum werden beiden Kaptiänen so früh wie möglich gesendet.
+1. Ein Schiedsrichter wird 15 Minuten im Vorhinein ein Multiplayer-Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
+2. Der Raum wird verschlossen. Das Passwort und die Einladung zum Raum werden beiden Kaptitänen so früh wie möglich gesendet.
 3. Raumeinstellungen sind osu!, Team-Vs., Win Condition: 'Score'. Raumname muss "OWC 2014: TeamBlue vs TeamRed" lauten.
 4. Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team dementsprechend dann das rote Team.
 5. Den Spielern steht es frei 2 Beatmaps für die Aufwärmphase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten.
@@ -480,31 +480,31 @@ Sonntag, 9. November 2014:
 8. Beide Kapitäne müssen `!roll` benutzen, um zu ermitteln, wer mit dem Bannen der beiden Beatmaps beginnen soll. Der andere Kapitän darf nicht dieselben Beatmaps bannen und muss daher andere Beatmaps auswählen, um Überlappungen zu vermeiden.
 9. Die Beatmaps werden abwechselnd von den beiden Kapitänen ausgewählt. Zuvor muss jedoch wieder mit `!roll` im `#multiplayer` ermittelt werden, welches Team zuerst anfängt.
 10. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.
-11. Im Falle eines Unentschiedens, muss die Tiebreaker Map gespielt werden.
+11. Im Falle eines Unentschiedens, muss die Tiebreaker-Beatmap gespielt werden.
 12. Die Ergebnisse werden im osu!-Wiki und per Statistiken auf einer Webseite veröffentlicht.
 
 ### Mappoolanweisungen
 
 1. Es wird ein Mappool für die Gruppenphase, ein Mappool für das Achtelfinale, ein Mappool für das Viertelfinale, ein Mappool für Halbfinale und ein Mappool für das Finale geben.
-2. Jeder Mappool besteht aus 5 Gruppen: NoMod, HardRock, Hidden, DoubleTime und FreeMod
-3. Jeder Mappool besteht aus 19 Maps.
+2. Jeder Mappool besteht aus 5 Stapeln: NoMod, HardRock, Hidden, DoubleTime und FreeMod
+3. Jeder Mappool besteht aus 19 Beatmaps.
 4. Jeder Mappool hat eine Tiebreaker-Map.
-5. Die NoMod Gruppe wird ohne aktive Mods gespielt.
-6. Die Hidden, HardRock und DoubleTime Gruppe wird mit der entsprechenden, aktivierten Mod gespielt.
-7. Die FreeMod Gruppe schaltet den FreeMod frei. Jeder einzelne Spieler kann dann Hidden, HardRock, Flashlight oder mit gar keiner Mod spielen.
+5. Der NoMod-Stapel wird ohne aktive Mods gespielt.
+6. Der Hidden-, HardRock- und DoubleTime-Stapel wird mit der entsprechenden, aktivierten Mod gespielt.
+7. Der FreeMod-Stapel schaltet den FreeMod frei. Jeder einzelne Spieler kann dann Hidden, HardRock, Flashlight oder mit gar keiner Mod spielen.
 8. Spieler dürfen mehr als eine Mod auswählen.
-9. Wenn eine FreeMod-Map gespielt wird, müssen mindestens 2 Spieler jedes Teams mindestens eine Mod aktiviert haben.
-10. Die Tiebreaker-Map wird mit denselben Bedingungen wie bei FreeMod gespielt.
-11. Wenn die Tiebreaker-Map gespielt wird, muss jedoch niemand eine Mod aktiviert haben.
-12. Die Größe der NoMod Gruppe besteht aus 6 Maps in allen Etappen.
-13. Die Größe der mod-spezifischen Gruppen besteht aus 3 Maps in allen Etappen.
+9. Wenn eine FreeMod-Beatmap gespielt wird, müssen mindestens 2 Spieler jedes Teams mindestens eine Mod aktiviert haben.
+10. Die Tiebreaker-Beatmap wird mit denselben Bedingungen wie bei FreeMod gespielt.
+11. Wenn die Tiebreaker-Beatmap gespielt wird, muss jedoch niemand eine Mod aktiviert haben.
+12. Die Größe des NoMod-Stapels besteht aus 6 Beatmaps in allen Etappen.
+13. Die Größe der mod-spezifischen Stapel besteht aus 3 Beatmaps in allen Etappen.
 
 ### Zeitplananweisungen
 
 1. Jede Etappe wird **einzeln am Wochenende** abgehalten.
 2. Die Partien können sich in der Gruppenphase überlappen.
-3. Alle Double-Elimination Etappen finden entweder am Samstag oder am Sonntag statt.
-4. Die Zeiten der Partien werden vom Turnier-Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Das Turnier-Management bemüht sich die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
+3. Alle Doppeleleminierungsetappen finden entweder am Samstag oder am Sonntag statt.
+4. Die Zeiten der Partien werden vom Turnier-Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Das Turnier-Management bemüht sich, die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
 5. Die Kapitäne sind für die Anwesenheit ihrer Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Wenn vom Team keine 4 Spieler anwesend sein sollten, zählt die Partie als aufgegeben.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentinien"
