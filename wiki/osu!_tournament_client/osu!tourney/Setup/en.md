@@ -36,3 +36,7 @@ Do not modify the `tournament.cfg` file while osu! is running. Close osu! and ed
   - The client will calculate the width automatically in a 16:9 ratio.
   - The "streamable area" of the client does not include the control panel. In general the control panel is 200px larger than the height of the client, so e.g. a 1440p screen would be safe to stream a 1080p tournament.
   - Default: 720, allowed range: 568-2160
+- `Aspect`: The aspect ratio of the game playfield displays
+  - Note that this only applies to 2v2 layouts.
+  - A value of 1.5 is optimal for osu!taiko.
+  - Default: 2, allowed range: 1-2
