@@ -6,11 +6,11 @@ Diese Seite wird detailliert die verschiedenen Wege darlegen, in denen Spieler i
 
 ### Nur-Maus
 
-Auch bekannt als *pure-mouse*, Nur-Maus-Spieler navigieren den Cursor im Spiel mit einer Maus während dem Tippen der Beats, dem Folgen der Slider und dem Spinnen von Spinnern mit nur den linken und rechten Mausbuttons.
+Auch bekannt als *pure-mouse*, navigieren Nur-Maus-Spieler den Cursor im Spiel mit einer Maus, während sie Beats tippen, Slider folgen und Spinner drehen, indem sie nur die linke und rechte Maustaste drücken.
 
 Nur-Maus war einmal der *einzige* Weg, um osu! zu spielen, bis andere Methoden im Laufe der Zeit unterstützt wurden.
 
-Der Spielstil wird weithin als die schwerste Methode zum Spielen betrachtet und Nur-Maus-Spieler mit hohem Rang in den allgemeinen Ranglisten werden meistens sehr respektiert von der Community.
+Der Spielstil wird weithin als die schwerste Methode zum Spielen betrachtet und Nur-Maus-Spieler mit hohem Rang in den allgemeinen Ranglisten werden meistens sehr von der Community respektiert.
 
 *Tipp: Das Tasten-Overlay zeigt Links-/Rechtsklicks als `M1` und `M2` an.*
 
@@ -64,7 +64,7 @@ Bei diesem Spielstil kommt ein berührungssensitiver Monitor, ein Laptopbildschi
 
 Um den Cursor im Spiel zu navigieren, berühren die Spieler den Bildschirm ihres Geräts mit einem Tablet-Stift oder dem Finger an der genauen Position, an der der Cursor sein soll. Das sorgt dafür, dass der Cursor zu der entsprechenden Position "zu springen" scheint.
 
-Wenn ein Spieler mit Touchscreen den Bildschirm berührt, bewegt das Gerät den Cursor zur entsprechenden Position und sendet gleichzeitig eine Eingabe über Maus. Dadurch werden Spieler nur dann Beats tippen, Slidern folgen und Spinner spinnen, wenn sie tatsächlich wollen, dass das Hit-Objekt getroffen wird.
+Wenn ein Spieler mit Touchscreen den Bildschirm berührt, bewegt das Gerät den Cursor zur entsprechenden Position und sendet gleichzeitig eine Mauseingabe. Dadurch werden Spieler nur dann Beats tippen, Slidern folgen und Spinner spinnen, wenn sie tatsächlich wollen, dass das Hit-Objekt getroffen wird.
 
 Dieser Spielstil kann sich durch den Akt des direkten Berührens, im Gegensatz zum Bewegen des Cursors, ähnlich zum Spielen von [osu!stream](/wiki/osu!stream) anfühlen.
 
@@ -79,7 +79,7 @@ Touchscreen und Tastatur ist ein Spielstil, der eine Tastatur für Tasteneingabe
 - **Touchpad/Trackpad eines Laptops**: Diese Methode ist zwar möglich, aber die meisten Spieler möchten lieber kein Trackpad verwenden, da dies mit einer extremen Schwierigkeit verbunden ist. Konkret argumentieren Spieler, dass die Kontrolle der Cursorbewegung auf der limitierten Fläche des Laptop-Touchpads/-Trackpads schwerfällig und langsam ist und viel Reibung erzeugt. Das Trackpad wird benutzt, um den Cursor im Spiel zu steuern.
 - **Joystick**: Ein kreativer Weg, um den Cursor zu kontrollieren. Bei diesem Spielstil bewegt der Spieler einen Joystick, um den Cursor im Spiel zu bewegen und — abhängig von dem Design des Joysticks — tippt mit den Auslöser-Buttons des Joysticks oder mit den Tastaturtasten, um die Beats zu erfassen. Es wird weithin als eine Art herausfordernder Spielstil angesehen, durch die offensichtlichen Nachteile und den puren Fähigkeiten, die benötigt werden, um die Bewegung des Joysticks zu kontrollieren.
 - **Metallplatte**: Das ist eine besondere Art, die Tastatur zu tauschen, um Beats zu tippen. Die Methode wurde von ![](/wiki/shared/flag/US.gif "Vereinigte Staaten") [geckogates](https://osu.ppy.sh/users/geckogates) vorgestellt und benötigt einige Kabel sowie elektronisches Wissen für die Konstruktion. Der Spieler befestigt ein Kabel mit den klickenden Fingern (verbunden mit der Tastaturschaltung für `Z` und `X`) und berührt die Metallplatten, um Beats zu registrieren.
-- **Gamepad**: Wir der Joystick ist diese Methode auch eine, die als sehr kreativ eingestuft wird und eine unkonventionelle Art, osu! zu spielen. Abhängig von der Marke des Controllers kann der Spieler hier ein eingebautes Trackpad, eine Steuerung/einen analogen Stick oder ein D-Pad benutzen, um den Cursor im Spiel zu steuern. Einige Spieler finden es vielleicht angenehmer, die Buttons direkt auf dem Controller oder eine reguläre Tastatur zu verwenden, um die Beats zu tippen.
+- **Gamepad**: Wie der Joystick ist diese Methode auch eine, die als sehr kreativ eingestuft wird und eine unkonventionelle Art, osu! zu spielen. Abhängig von der Marke des Controllers kann der Spieler hier ein eingebautes Trackpad, eine Steuerung/einen analogen Stick oder ein D-Pad benutzen, um den Cursor im Spiel zu steuern. Einige Spieler finden es vielleicht angenehmer, die Buttons direkt auf dem Controller zu drücken oder eine reguläre Tastatur zu verwenden, um die Beats zu tippen.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -97,7 +97,7 @@ Es gibt zwei Hauptformen, die Tastenbelegung für die Tastatur einzustellen: KDD
 
 Ein Taiko-Controller ist die Standard-Spielweise und der Controller für die Serie [Taiko no Tatsujin](https://de.wikipedia.org/wiki/Taiko_no_Tatsujin) ([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) für die Vereinigten Staaten).
 
-*Tipp: Einige begabte Spieler, die mit einem Taiko-Controller spielen, können ihren Controller selbst bauen, während andere ihren in Einzelhandelsgeschäften oder Online-Shops kaufen können.*
+*Tipp: Einige begabte Spieler, die mit einem Taiko-Controller spielen, können ihren Controller selbst bauen, während andere ihren in Einzelhandelsgeschäften oder Online-Shops kaufen.*
 
 Spieler, die einen Taiko-Controller benutzen, führen einen Taiko-/Schlagzeugstock in jeder Hand und treffen die Mitte (Rot) oder den Rand der Trommel (Blau), um die Note zu registrieren, je nachdem, wo er getroffen wird.
 
@@ -105,7 +105,7 @@ Spieler, die einen Taiko-Controller benutzen, führen einen Taiko-/Schlagzeugsto
 
 ### Andere Stile
 
-- **Gamepad**: Ein Gamepad ist eine mögliche Spielweise in bei den verschiedenen Konsolenvarianten der Serie Taiko no Tatsujin (der Taiko Drum Master mit eingeschlossen). Spieler registrieren Don/Katu durch das Drücken der Front (rechter Don oder rechtes Rot), des Pfeils (linker Don oder linkes Rot) und der oberen Buttons (linkes/rechtes Katu oder linkes/rechtes Blau).
+- **Gamepad**: Ein Gamepad ist eine der möglichen Spielweisen bei den verschiedenen Konsolenvarianten der Serie Taiko no Tatsujin (der Taiko Drum Master mit eingeschlossen). Spieler registrieren Don/Katu durch das Drücken der Front (rechter Don oder rechtes Rot), des Pfeils (linker Don oder linkes Rot) und der oberen Buttons (linkes/rechtes Katu oder linkes/rechtes Blau).
 
 ## ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -133,9 +133,9 @@ Spieler bewegen den Kopf des Joysticks und drücken den Frontbutton, Trigger ode
 
 Die Benutzung eines Gamepads zur Steuerung des Catchers ist eine Spielweise für Spieler, die das Gefühl eines bestimmten D-Pads oder Steuerknüppels, im Gegensatz zur Tastatur, bevorzugen.
 
-Um den Catcher nach links und rechts zu bewegen, bevorzugen einige Spieler die Pfeile links/rechts auf dem D-Pad ihres Gamepads zum Bewegen.Andere wiederum favorisieren die Benutzung eines Sticks. Jedoch können Spieler durch die große Vielfalt an Buttons Trigger, Puffer oder andere Buttons benutzen, um den Catcher zu bewegen.
+Um den Catcher nach links und rechts zu bewegen, bevorzugen einige Spieler die Pfeile links/rechts auf dem D-Pad ihres Gamepads zum Bewegen. Andere wiederum favorisieren die Benutzung eines Sticks. Jedoch können Spieler durch die große Vielfalt an Buttons auch Trigger, Puffer oder andere Buttons benutzen, um den Catcher zu bewegen.
 
-Zum Dashen verwenden viele Spieler eines Buttons auf ihrem Gamepad. Jedoch bevorzugen einige Spieler die Benutzung der Trigger, Bumper oder Steuerknüppel.
+Zum Dashen verwenden viele Spieler einen der Buttons auf ihrem Gamepad. Jedoch bevorzugen einige Spieler die Benutzung der Trigger, Bumper oder Steuerknüppel.
 
 ### Andere Stile
 
