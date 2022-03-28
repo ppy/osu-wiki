@@ -44,7 +44,7 @@ Continuant sur la tendance de juillet, un joueur aura du mal à trouver un aspec
 
 Les records personnels en ligne ont été ajoutés au menu de sélection de musiques, remplissant une demande de longue date, qui demandait une optimisation assez conséquente de la base de données. Des améliorations graphiques ont été ajoutées à l'écran de résultat, et des éléments variés du skin par défaut ont été réalisés dans le but de les rendre plus propres et nets qu'avant. L'affichage du score des sliders ticks (10/30) a été ajouté. Des améliorations ont été vues dans la préparation des matchs multijoueurs, rendant possible le transfert du contrôle de la salle. De nombreuses nouvelles [commandes de chat](/wiki/Client/Interface/Chat_console#la-liste-des-commandes) ont été ajoutées pour les utilisateurs.
 
-Un nouveau statut classé a été ajouté, "![](img/fire.gif) [Approuvée](/wiki/Beatmap/Category#approuvée)" pour les maps de grande qualités, mais qui excédaient les critères de classement de longueur, difficulté, ou autres d'une manière ou d'une autre. Les maps dans ce statut ne s'ajoutent pas aux scores du joueur, mais possèdent des classements, et se comportent comme une map ![](img/heart.gif) [Classée](/wiki/Beatmap/Category#classée).
+Un nouveau statut classé a été ajouté, "![](img/fire.gif) [Approuvée](/wiki/Beatmap/Category#approuvée)" pour les beatmaps de grande qualités, mais qui excédaient les critères de classement de longueur, difficulté, ou autres d'une manière ou d'une autre. Les beatmaps dans ce statut ne s'ajoutent pas aux scores du joueur, mais possèdent des classements, et se comportent comme une beatmap ![](img/heart.gif) [Classée](/wiki/Beatmap/Category#classée).
 
 ## Septembre
 
@@ -68,7 +68,7 @@ Suite aux plaintes de personnes ayant un grand nombre de beatmaps sur le temps d
 
 Le dernier mois de 2008 a eu beaucoup en stock pour le développement d'osu!. Au deuxième Noël d'osu!, la première version de l'éditeur de storyboards a été implémentée, rendant le storyboarding beaucoup plus accessible aux utilisateurs. Un deuxième mode de jeu multijoueur a été ajouté : "Tag Play". C'était un mode coopératif dans lequel les joueurs jouaient chacun leur tour sur une beatmap. Un autre ajout au multijoueur était la "Victoire sur accuracy". MSN et Yahoo ont été intégrés, et les utilisateurs pouvaient entièrement personnaliser leurs touches de jeu et les mots à notifications.
 
-Les miniatures et prévisualisations audios ont été ajoutées a la liste de beatmaps en ligne, rendant la recherche de maps que vous voudriez jouer plus simple.
+Les miniatures et prévisualisations audios ont été ajoutées a la liste de beatmaps en ligne, rendant la recherche de beatmaps que vous voudriez jouer plus simple.
 
 Un autre changement remarquable était que les [scores en Catch the Beat ont été supprimés](https://osu.ppy.sh/community/forums/topics/7996) pendant ce mois. Depuis, le multiplicateur des mods a été changé en Catch the Beat aussi.
 
