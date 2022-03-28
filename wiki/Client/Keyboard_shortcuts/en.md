@@ -190,13 +190,6 @@ These shortcuts work anywhere within the beatmap editor:
 
 ### Compose
 
-#### Mouse
-
-| Shortcut | Action |
-| :-- | :-- |
-| `Double Click` | On circles or slider ends to jump to the object's position in the timeline from any point in the song. (osu!, osu!taiko, osu!catch) |
-| `Right Click` | Toggle new combo (when placing new hit objects) or delete object (when selecting). |
-
 #### General
 
 | Shortcut | Action |
@@ -215,6 +208,13 @@ These shortcuts work anywhere within the beatmap editor:
 | `1`, `2`, or `3` | Switch between placement/selection mode: select, circle, and hold respectively (osu!mania). |
 | `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Switch between placement/selection modes. |
 | `Ctrl` + `Shift` + `A` | Open [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
+
+#### Mouse
+
+| Shortcut | Action |
+| :-- | :-- |
+| `Double Click` | On circles or slider ends to jump to the object's position in the timeline from any point in the song. (osu!, osu!taiko, osu!catch) |
+| `Right Click` | Toggle new combo (when placing new hit objects) or delete object (when selecting). |
 
 #### Playfield
 
