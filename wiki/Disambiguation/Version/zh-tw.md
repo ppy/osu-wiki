@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 版本 (消歧義)
 
 **版本 (Version)** 可以指：
