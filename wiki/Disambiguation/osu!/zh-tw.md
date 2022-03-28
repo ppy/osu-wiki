@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu! (消歧義)
 
 **osu!** 可以指：
