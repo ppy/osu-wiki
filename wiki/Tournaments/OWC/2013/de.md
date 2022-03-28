@@ -13,7 +13,7 @@ Der **osu! World Cup 2013** (***OWC 2013***) war ein länderbasiertes osu!-Turni
 ## Turnierzeitplan
 
 | Event | Zeitpunkt |
-| :-- | :-- |
+| --: | :-- |
 | Registrierungsphase | 2013-10-15 bis 2013-10-28 |
 | Live-Auslosung | 2013-10-31 (16:00 UTC) |
 | Gruppenphase | 2013-11-08 bis 2013-11-10 |
@@ -25,7 +25,7 @@ Der **osu! World Cup 2013** (***OWC 2013***) war ein länderbasiertes osu!-Turni
 ## Preise
 
 | Platzierung | Preis(e) |
-| :-- | :-- |
+| :-: | :-- |
 | ![Goldkrone](/wiki/shared/crown-gold.png "1. Platz") | 6 Monate osu!supporter, Profilabzeichen, OWC Trophäe, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
 | ![Silberkrone](/wiki/shared/crown-silver.png "2. Platz") | 3 Monate osu!supporter |
 | ![Bronzekrone](/wiki/shared/crown-bronze.png "3. Platz") | 1 Monat osu!supporter |
