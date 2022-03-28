@@ -141,6 +141,32 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here (73 MB)](https://drive.google.com/uc?id=1BAYyEckltoxlJ91jjZDd-J8kz67pMz6f)**
+
+- NoMod
+  1. [Rahatt - Gas Gas (incandescence) \[C8H18\]](https://osu.ppy.sh/beatmapsets/1641207#taiko/3349737)
+  2. [Sta feat.b - Argent symmetry (4sbet1) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1729383#taiko/3534396)
+  3. [youman - R.I.P. (ekumea1123) \[R.I.P.\]](https://osu.ppy.sh/beatmapsets/1039654#taiko/2173146)
+  4. [kamome sano - Elemental Creation (kamome sano Remix) (-Dusk) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1717750#taiko/3510393)
+  5. [Boom Kitty - Burning Sands (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/1729062#taiko/3533634)
+- Hidden
+  1. [7\_7 - Kongetsugou ha!?!?!? (7\_7) \[The TWC Daily!?!?!?\]](https://osu.ppy.sh/beatmapsets/1014856#taiko/3533569)
+  2. [xi - Zauberkugel (sendol) \[Ura Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1706326#taiko/3533413)
+- Hard Rock
+  1. [Minami Yuni - Kanagawa Cyber Culvert (tasuke912) \[Upheaval (Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/1724253#taiko/3523973)
+  2. [RichaadEB - Spider Dance - Metal Cover (asuasu\_yura) \[Muffet\]](https://osu.ppy.sh/beatmapsets/467190#taiko/999671)
+- Double Time
+  1. [kors k - Monkey Business (lapix Remix) (Arrival) \[Oni (TWC edit.)\]](https://osu.ppy.sh/beatmapsets/721496#taiko/3533667)
+  2. [ONE OK ROCK - Clock Strikes (Chromoxx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/602619#taiko/1272845)
+- FreeMod
+  1. [Plum - Mad Piano Party (incandescence) \[Divertississimo (the twc map)\]](https://osu.ppy.sh/beatmapsets/1727527#taiko/3530351)
+  2. [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](https://osu.ppy.sh/beatmapsets/177838#taiko/427932)
+  3. [Daily - Astronomia (USAO a.k.a Daily Mix) (Kannes) \[Lno's Dance\]](https://osu.ppy.sh/beatmapsets/1159255#taiko/2421854)
+- Tiebreaker
+  1. **[Venetian Snares - She Runs (Kqrth) \[Oni\]](https://osu.ppy.sh/beatmapsets/583601#taiko/1234950)**
+
 ### Round of 16
 
 **[Download the mappack here (70 MB)](https://drive.google.com/uc?id=1BAYyEckltoxlJ91jjZDd-J8kz67pMz6f)**
