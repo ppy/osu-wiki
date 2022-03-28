@@ -39,7 +39,7 @@ The osu!taiko Featured Artist Cup #1 was run by various community members.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, Ranked status¹,  Unique profile badge (unconfirmed) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, Ranked status¹,  Unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
 
