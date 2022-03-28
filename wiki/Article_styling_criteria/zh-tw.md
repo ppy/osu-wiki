@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - wiki standards
   - 準則
