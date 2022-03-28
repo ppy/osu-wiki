@@ -96,7 +96,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 社交能把世界各地的 osu! 玩家连结起来。了解这些活动与竞赛，结识新朋友，或帮忙组织一个更好的活动！
 
-[比赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
+[锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
 [社区项目](/wiki/Community/Projects)：[精选艺术家](/wiki/Featured_Artists) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
 
@@ -111,7 +111,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [核心团队](/wiki/People/The_Team)：[开发团队](/wiki/People/The_Team/Developers) • [全局管理团队 (GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [援助团队](/wiki/People/The_Team/Support_Team) • [审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) • [名人堂](/wiki/People/The_Team/osu!_Alumni) • [社区喜爱计划团队 (LVD)](/wiki/People/The_Team/Project_Loved_Team)
 
-[社区卓越贡献者](/wiki/People/Community_Contributors) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles)
+[社区贡献者](/wiki/People/Community_Contributors) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles) • [锦标赛委员会](/wiki/People/Tournament_Committee) • [Performance Points 委员会](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">

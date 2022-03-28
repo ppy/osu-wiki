@@ -30,7 +30,7 @@ Jedes Projekt wird in seinem dafür vorgesehenen Kanal diskutiert:
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu!-Wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
 | [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
-| [Offizielle Wettbewerbsunterstützung](/wiki/Tournaments/Official_support) | `#tournaments` |
+| [Offizielle Turnierunterstützung](/wiki/Tournaments/Official_support) | `#tournaments` |
 | [osu! Community Meetings](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
 | [Modding](/wiki/Modding) Diskussionen und [NAT Meetings](/wiki/Modding/NAT_meetings) | `#modding` |
 | [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

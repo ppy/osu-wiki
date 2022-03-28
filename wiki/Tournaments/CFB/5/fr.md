@@ -319,7 +319,7 @@ Dimanche, 24 Janvier 2021:
 ### Qualifications
 
 - Des résultats plus détaillés sont disponibles sur la [fiche statistique](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)
-- Le rang moyen était déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
+- Le rang moyen était déterminé par : somme des positions du joueur sur chaque beatmap divisée par le nombre de beatmaps composant le mappool des qualifications.
 - Seuls les 3 premiers participants ont été classés comme tête de série, car l'un des participants a été disqualifié parce qu'il ne répondait pas aux critères de la phase de sélection des fonctionnaires du staff osu!
 
 | Seed | Joueur | Rang moyen |
@@ -350,14 +350,14 @@ Dimanche, 24 Janvier 2021:
 2. La restriction de rang s'applique au maximum à **#2,500** sur le mode de jeu osu!catch.
 3. Un retard de plus de 10 minutes à un match entraînera une victoire par défaut pour l'autre joueur.
 4. Un langage correct est exigé, de la part des participants comme du staff.
-5. Les joueurs banniront à chaque match **deux maps** chacun pour un total de **quatre maps** bannies.
-6. Les scores fail comptent, même si le joueur est mort à la fin de la map.
+5. Les joueurs banniront à chaque match **deux beatmaps** chacun pour un total de **quatre beatmaps** bannies.
+6. Les scores fail comptent, même si le joueur est mort à la fin de la beatmap.
 7. Les joueurs lanceront un `!roll` au début du match pour déterminer l'ordre des choix.
 8. Même lors d'un tournoi, osu! reste un jeu, soyez amicaux et fair play.
 9. Ce tournoi sera en double-élimination, ce qui signifie qu'il y aura un loser's bracket.
 10. N'importe quel joueur francophone peut participer au tournoi.
 11. Les joueurs auront deux bans par match.
-12. Les joueurs ne pourront pas ban plus d'une map dans un mod.
+12. Les joueurs ne pourront pas ban plus d'une beatmap dans un mod.
 13. Le Hidden est autorisé en HardRock et DoubleTime.
 14. Le Tiebreaker est joué en FreeMod.
 

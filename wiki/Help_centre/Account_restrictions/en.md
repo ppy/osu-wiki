@@ -21,7 +21,7 @@ If your account has been restricted, do not panic. Please follow these steps:
 - **Contact our [account support team](/wiki/People/The_Team/Account_support_team).** If your account remains restricted after that time, please send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) **from the email address attached to your account** to ask for details on your restriction. Make sure you include your username, along with any details you can provide as to why you think you may have been restricted. The more you tell us, the easier it is for us to resolve the issue.
 - If you strongly believe that your restriction is erroneous, please contact us immediately so that we can discuss your case.
 
-If your account has become restricted for breaking the [rules](/wiki/Rules), a strict cooldown of three months will be enforced before you are allowed to send an appeal.
+If your account has become restricted for breaking the [rules](/wiki/Rules), you must wait a minimum of **three months** before you can send an appeal. This time period is referred to as a *cooldown* by us, and if you have cheated, it is six months instead.
 
 If your original account is not restricted, you may log into it and continue playing normally, but make sure not to log into your multi-accounts from then on, as doing so may lead to further punishment.
 
@@ -42,7 +42,7 @@ If an account has been found to be rightfully restricted, we will ask that the u
 
 - **Keep enjoying the game!** While your account is restricted and you are on cooldown, you are more than welcome to continue playing the game (as long as you play on your original account!). The scores you achieve while restricted will be submitted, and unless your account is rolled back, they will remain after you become unrestricted.
 - **Maintain good behaviour.** We understand that being restricted can be frustrating, but think of it as a chance to take some time off, away from the community. Try to avoid interacting with the community for at least a few days (whether it be via Discord, social media, or other forms of contact) to cool down and reflect on the actions that may have contributed to your account being restricted.
-- **Make sure you respect the rules.** Long-term restrictions are punishments for breaking the rules. If you continue to do so while restricted, the cooldown before you can appeal will be reset to three months from your last offence. This includes, for example, continuing to cheat, accessing others' accounts, or creating new accounts to evade a restriction.
+- **Make sure you respect the rules.** Long-term restrictions are punishments for breaking the rules. If you continue to do so while restricted, the cooldown before you can appeal will be reset to at least **three months** from your last offence. This includes, for example, continuing to cheat (six months in this case), accessing others' accounts, or creating new accounts to evade a restriction.
 - **Follow the support team's instructions.** The three-month cooldown is a chance to take time off and reflect on your actions. If you attempt submitting an appeal before the cooldown period is over, your emails will be ignored. If you are unsure when your cooldown expires, when you will be allowed to appeal, or which of your accounts you should be playing on (and appealing from), you are welcome to send us an email to ask.
 - **Do not hesitate to contact us if you have any questions.** As long as you are not trying to circumvent punishment, we will happily answer any questions you have about your account's restriction!
 
@@ -81,10 +81,18 @@ Some offences will lead to your account being rolled back upon unrestriction. Th
 There are several reasons why an appeal might be denied.
 
 - **It was sent too early.** If the cooldown for your account has not yet passed, your appeal will be denied. If you are unsure when you can actually appeal, please reply to our answer - we will give you the correct date.
-- **Your appeal was insufficient or incomplete.** If your appeal does not sufficiently cover the four points listed above, we will request that you write a more complete one. This **does not** necessarily reset the cooldown for your account and you are free to send your new appeal at any point in time! However, if you attempted lying or hiding major rule violations you committed (mainly multi-accounting or cheating), your appeal will be denied for being non-truthful, and your cooldown will be reset to three months. This is another chance for you to reflect on your actions and make sure you did not forget anything.
-- **You have been evading or playing on other accounts.** Creating another account to be able to play online while your account is restricted is considered an attempt at evading the restriction and will reset your cooldown to three months from the date you created the account. If you attempt evading too many times, your appeal might be permanently denied. If you are still accessing or playing on your multi-accounts while restricted, your cooldown will also be reset. Remember that multi-accounting is against the [rules](/wiki/Rules) and you are expected to only play on your original account. If you are unsure which account counts as your original account, send us an email and we will let you know!
+- **Your appeal was insufficient or incomplete.** If your appeal does not sufficiently cover the four points listed above, we will request that you write a more complete one. This **does not** necessarily reset the cooldown for your account and you are free to send your new appeal at any point in time! However, if you attempted lying or hiding major rule violations you committed (mainly multi-accounting or cheating), your appeal will be denied for being non-truthful, and your cooldown will be reset to at least **three months**. This is another chance for you to reflect on your actions and make sure you did not forget anything.
+- **You have been evading or playing on other accounts.** Creating another account to be able to play online while your account is restricted is considered an attempt at evading the restriction and will reset your cooldown to at least **three months** from the date you created the account. If you attempt evading too many times, your appeal might be permanently denied. If you are still accessing or playing on your multi-accounts while restricted, your cooldown will also be reset. Remember that multi-accounting is against the [rules](/wiki/Rules) and you are expected to only play on your original account. If you are unsure which account counts as your original account, send us an email and we will let you know!
 - **You continued offending while restricted.** There is no reason to unrestrict someone who continues to break the rules even after having been restricted. If you do continue offending, the cooldown for your account will be reset to your last offence. In the case of extreme or continuous offences, your appeal might be permanently denied.
 - **Your history is too severe.** In cases of extreme offenders, or players who get restricted again after they have already been unrestricted on a successful appeal, we might simply state that your history is too severe to rejoin the game at the current time. Should this apply to you, we recommend waiting **a long time** before appealing again, and making sure you do not break any further rules in that time.
+
+## What happens if this isn't my first time appealing?
+
+In most cases, each restriction on your account doubles the length of the next restriction and the cooldown associated with it.
+
+For example, if you are restricted for cheating, return on appeal, then cheat again, you will be restricted for a minimum of 12 months (double the six months base) before we will review any kind of appeal from you. If you return after this and cheat once again, you will be restricted for a minimum of 24 months.
+
+As an additional note, it becomes progressively harder to return on any kind of appeal after your first offense, as we must consider your past actions and whether unrestricting you at all is worth the time and risk involved. Very few (if any) players successfully return to the community after their third restriction.
 
 ## My emails are being ignored / I don't think my appeal was handled fairly
 
@@ -109,7 +117,9 @@ Please understand that sending an email to this address only guarantees a second
 | Multi-account | Permanent (multis) | Main account will be left unrestricted, possibly silenced. |
 | Excessive multi-accounting | 3 months | Appeal terms apply, 1 year tournament ban |
 | Account sharing | 3 months | Appeal terms apply, 1 year tournament ban, and partial rollback |
-| Cheating | 3 months | Appeal terms apply, 1 year tournament ban, and full rollback |
+| Subsequent offences (multi-accounting, account sharing, community conduct) | 6 months | Appeal terms apply, rollback (where appropriate), tournament ban 1 year per offence |
+| Cheating | 6 months | Appeal terms apply, 1 year tournament ban, and full rollback |
 | Excessive misconduct | Variable | Appeal terms apply. Cooldown will depend on history. |
-| Cheating/sharing for a tournament | 6 months | Appeal terms apply, appropriate rollback, permanent tournament ban |
-| Subsequent offences | 6 months | Appeal terms apply, appropriate rollback, tournament ban 1 year per offence |
+| Cheating/sharing for a tournament | 12 months | Appeal terms apply, appropriate rollback, permanent tournament ban |
+| Subsequent offences (cheating) | 12 to 24 months | Appeal terms apply, rollback, tournament ban 1 year per offence |
+| Abhorrent or severely abusive misconduct | Indefinite | Often permanent with no chance of appeal |
