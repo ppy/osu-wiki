@@ -6,7 +6,7 @@ Dans ce guide, vous apprendrez à utiliser des [hitsounds](/wiki/Beatmapping/Hit
 
 Afin d'utiliser des hitsounds personnalisés dans votre beatmap, vous devez d'abord en avoir ! La [bibliothèque de sons personnalisés](/wiki/Guides/Custom_Hitsound_Library) est une excellente ressource pour obtenir des échantillons de sons, notamment des cymbales, des tambours, des cloches, des sifflets, etc. Sinon, si vous ne trouvez pas ce que vous cherchez, vous pouvez créer vos propres échantillons !
 
-Les hitsounds doivent être au format `.wav` ou `.ogg`, car ils n'ont pas de retard de lecture et bouclent correctement. Les fichiers sonores au format `.mp3` ont de légers retards et peuvent ne pas correspondre exactement à la chanson que vous essayez de faire résonner. Cependant, ils peuvent encore être utilisés pour certains effets sonores tels que des applaudissements ou des bruits d'ambiance, pour lesquels la taille des fichiers `.wav` ou `.ogg` peut être prohibitive.
+Les hitsounds doivent être au format `.wav` ou `.ogg`, car ils n'ont pas de retard de lecture et bouclent correctement. Les fichiers sonores au format `.mp3` ont de légers retards et peuvent ne pas correspondre exactement à la musique que vous essayez de faire résonner. Cependant, ils peuvent encore être utilisés pour certains effets sonores tels que des applaudissements ou des bruits d'ambiance, pour lesquels la taille des fichiers `.wav` ou `.ogg` peut être prohibitive.
 
 ## Ajouter des hitsounds personnalisés
 
@@ -51,7 +51,7 @@ Notez que vous n'avez pas besoin d'ajouter un hitsound pour chaque son dans un j
 
 ## Travailler avec plusieurs sets de hitsounds
 
-Parfois, une chanson peut avoir plusieurs sections avec des styles musicaux très différents, et un groupe de hitsounds ne conviendra pas à toutes ces sections. Dans ce cas, il est souvent utile d'utiliser un hitsound (ou un groupe de hitsounds) entièrement différent. Ceci peut être réalisé en ajoutant un numéro à la fin du nom du fichier hitsound comme suit :
+Parfois, une musique peut avoir plusieurs sections avec des styles musicaux très différents, et un groupe de hitsounds ne conviendra pas à toutes ces sections. Dans ce cas, il est souvent utile d'utiliser un hitsound (ou un groupe de hitsounds) entièrement différent. Ceci peut être réalisé en ajoutant un numéro à la fin du nom du fichier hitsound comme suit :
 
 `<sampleset>-<sound><#>.wav`
 

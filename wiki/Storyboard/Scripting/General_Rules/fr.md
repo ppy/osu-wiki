@@ -54,7 +54,7 @@ L'idée derrière l'utilisation d'un storyboard plutôt que d'un fichier vidéo 
 
 États **avant le premier temps de jeu** (par exemple, avant le premier [circle/slider/spinner](/wiki/Hit_object), pas nécessairement avant le début du MP3/OGG).
 
-- Pass State. La couche Fail ne sera jamais affichée. Il n'est pas recommandé d'utiliser les couches "pass" ou "fail" à ce stade de la map, car il est inutile de dire que le joueur "passe" à ce stade.
+- Pass State. La couche Fail ne sera jamais affichée. Il n'est pas recommandé d'utiliser les couches "pass" ou "fail" à ce stade de la beatmap, car il est inutile de dire que le joueur "passe" à ce stade.
 
 États pendant le **temps de jeu** ("temps de drainage", lorsque le joueur est censé cliquer sur des objets pour empêcher sa barre de HP de se vider).
 
@@ -69,14 +69,14 @@ L'idée derrière l'utilisation d'un storyboard plutôt que d'un fichier vidéo 
 - Fail State sinon (c'est-à-dire que le symbole "X" apparaît).
   - Dans [osu!taiko](/wiki/Game_mode/osu!taiko), s'il atteint un certain quota à un moment donné. Voir les deux exemples ci-dessous,
     - Exemple A : Obtenir une précision de 96,5% alors que la barre de HP est encore à 40%, donne Pass au lieu de Fail.
-    - Exemple B : Obtenir trop de 100s en environ 30 notes et vous donne D alors que votre barre de HP est encore autour de 30%, donne Fail au lieu de Pass (dans ce cas, ce référez a [cette map](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)).
+    - Exemple B : Obtenir trop de 100s en environ 30 notes et vous donne D alors que votre barre de HP est encore autour de 30%, donne Fail au lieu de Pass (dans ce cas, ce référez a [cette beatmap](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)).
 
-États après le dernier temps de jeu, si la map a eu au moins un break.
+États après le dernier temps de jeu, si la beatmap a eu au moins un break.
 
 - Pass State si au moins la moitié des breaks se sont produites dans Pass State.
 - Fail State sinon.
 
-États après la dernière session de jeu, si la map n'a pas eu de breaks.
+États après la dernière session de jeu, si la beatmap n'a pas eu de breaks.
 
 - Même chose que pendant la pause.
 
@@ -86,9 +86,9 @@ L'idée derrière l'utilisation d'un storyboard plutôt que d'un fichier vidéo 
 
 - Le temps est mesuré en millisecondes (1000 ms = 1 seconde) à partir du début du MP3/OGG principal de la beatmap, y compris les valeurs négatives pour indiquer une intro.
 - Le temps dans les SB ne dépend pas du timing de la beatmap elle-même (par exemple, le nombre de mesures ou de battements par minute). Par conséquent, il est recommandé que la beatmap soit raisonnablement bien chronométrée avant le storyboarding, car il sera plus difficile d'ajuster ces temps par la suite.
-- Le temps n'est pas limité à la longueur de la musique ; il est possible d'avoir des valeurs négatives pour les événements avant le début de la chanson (une intro), et pour les valeurs qui s'étendent au-delà de la dernière section jouable ou même de la fin du MP3/OGG (une outro).
-- Lorsqu'elle est chargée, la map commence à partir de l'événement le plus ancien spécifié ou du temps 0, selon ce qui se produit en premier.
-  - Dans le premier cas, le bouton Skip s'affiche pour l'utilisateur. En cliquant dessus ou en appuyant sur la barre d'espacement, vous passerez au temps 0. Le jeu revient au comportement normal de saut avant la map (par exemple, appuyez à nouveau sur le bouton Skip pour aller directement au compte à rebours - contrairement à EBA, redémarrer la map vous ramène au début, pas au temps 0).
+- Le temps n'est pas limité à la longueur de la musique ; il est possible d'avoir des valeurs négatives pour les événements avant le début de la musique (une intro), et pour les valeurs qui s'étendent au-delà de la dernière section jouable ou même de la fin du MP3/OGG (une outro).
+- Lorsqu'elle est chargée, la beatmap commence à partir de l'événement le plus ancien spécifié ou du temps 0, selon ce qui se produit en premier.
+  - Dans le premier cas, le bouton Skip s'affiche pour l'utilisateur. En cliquant dessus ou en appuyant sur la barre d'espacement, vous passerez au temps 0. Le jeu revient au comportement normal de saut avant la beatmap (par exemple, appuyez à nouveau sur le bouton Skip pour aller directement au compte à rebours - contrairement à EBA, redémarrer la beatmap vous ramène au début, pas au temps 0).
 - Le jeu passe à l'écran des résultats du score dès que le dernier événement se produit, ou que l'utilisateur clique sur le bouton Skip ou appuie sur la barre d'espace.
   - Cela inclut les événements qui se trouvent sur **DEUX** des couches de Pass/Fail, même si une seule sera affichée.
     - Exemple : Si votre storyboard Fail se termine au temps 20000 et votre storyboard Pass au temps 25000, le jeu attendra le temps 25000 même si le joueur est dans l'état Fail (tous les objets disparaîtront). Par conséquent, il est préférable de s'assurer que les deux variantes de fin, Pass et Fail, prennent le même temps pour se terminer.

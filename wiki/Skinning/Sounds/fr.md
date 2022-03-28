@@ -516,7 +516,7 @@ Notes :
 
 - Échec d'une beatmap à n'importe quel moment.
 - Ce son ne devrait pas durer plus longtemps que l'animation d'échec (environ 5 secondes).
-- L'utilisation d'une longue piste audio aura un impact sur les performances du client, car elle est chargée à chaque fois que vous jouez une beatmap, même si vous n'échouez jamais. Elle n'est pas censée dépasser quelques kilo-octets.
+- L'utilisation d'un long fichier audio aura un impact sur les performances du client, car elle est chargée à chaque fois que vous jouez une beatmap, même si vous n'échouez jamais. Elle n'est pas censée dépasser quelques kilo-octets.
 
 ---
 
@@ -542,7 +542,7 @@ Notes :
 
 - Sur l'écran de résultats après avoir terminé une beatmap
 - Doit être formaté en `.mp3` ou `.ogg` dans les beatmaps visant le classement.
-- L'utilisation d'une longue piste audio aura un impact sur les performances du client. Elle ne devrait pas dépasser quelques kilo-octets.
+- L'utilisation d'un fichier audio long aura un impact sur les performances du client. Elle ne devrait pas dépasser quelques kilo-octets.
 
 ---
 
@@ -553,7 +553,7 @@ Notes :
 - Ce son est joué lorsque le jeu est en pause.
 - Ce son est joué en boucle.
 - S'arrête si vous cliquez sur une autre fenêtre ou sur le bureau.
-- L'utilisation d'une longue piste audio aura un impact sur les performances du client. Elle ne devrait pas dépasser quelques kilo-octets.
+- L'utilisation d'un fichier audio long aura un impact sur les performances du client. Elle ne devrait pas dépasser quelques kilo-octets.
 
 ### Hitsounds
 

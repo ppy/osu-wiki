@@ -18,7 +18,7 @@ Vous pouvez également cliquer sur le bouton `Mode` et sélectionner `osu!mania`
 
 Dans l'écran de sélection des beatmaps, le nombre à côté du *K* montre combien de touches seront utilisées pour jouer. La beatmap sera jouée avec un jugement plus léger si le symbole "↓" suit le *K*.
 
-Par exemple, *4K↓* signifie que la map sera jouée avec 4 touches et un jugement de timing plus souple que la normale.
+Par exemple, *4K↓* signifie que la beatmap sera jouée avec 4 touches et un jugement de timing plus souple que la normale.
 
 Notez que le jugement d'une beatmap est déterminé automatiquement.
 
