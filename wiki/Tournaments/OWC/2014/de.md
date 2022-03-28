@@ -13,7 +13,7 @@ Der **osu! World Cup 2014** (***OWC 2014***) war ein länderbasiertes osu!-Turni
 ## Turnierzeitplan
 
 | Event | Zeitpunkt |
-| :-- | :-- |
+| --: | :-- |
 | Registrierungsphase | 2014-10-02 bis 2014-10-26 |
 | Live-Auslosung | 2014-11-01 (14:00 UTC) |
 | Gruppenphase | 2014-11-08 bis 2014-11-09 |
@@ -26,7 +26,7 @@ Der **osu! World Cup 2014** (***OWC 2014***) war ein länderbasiertes osu!-Turni
 ## Preise
 
 | Platzierung | Preis(e) |
-| :-- | :-- |
+| :-: | :-- |
 | ![Goldkrone](/wiki/shared/crown-gold.png "1. Platz") | 6 Monate osu!supporter, Profilabzeichen, "osu! Champion" Profiltitel, osu! Merchandise |
 | ![Silberkrone](/wiki/shared/crown-silver.png "2. Platz") | 3 Monate osu!supporter |
 | ![Bronzekrone](/wiki/shared/crown-bronze.png "3. Platz") | 1 Monat osu!supporter |
