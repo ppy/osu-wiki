@@ -43,18 +43,6 @@ Listed below are the properly-supported locales for the wiki:
 
 *Note: The website will give readers their selected language's version of an article. If it is not available, the English version will be given.*
 
-### Content parity
-
-Translations are subject to strict content parity with their English article, in the sense that they must have the same message, regardless of grammar and syntax. Any changes to the translations' meanings must be accompanied by equivalent changes to the English article.
-
-There are some cases where the content is allowed to differ:
-
-- Articles originally written in a language other than English (in this case, English should act as the translation)
-- Explanations of English words that are common terms in the osu! community
-- External links
-- Tags
-- Subcommunity-specific explanations
-
 ## Front matter
 
 Front matter must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example) and describes additional information about the article. This must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it before the title heading.
