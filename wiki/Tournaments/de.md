@@ -120,7 +120,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | CES League osu! Turnier | 2019-12-02 | 2020-01-19 | ;w; | kirundy | TeamNameIn1v1Xd |
-| CES League osu! Tournament 2](CES/CES2) | 2020-05-01 | 2020-08-16 | Woopak | MissClick324 | Thymue |
+| [CES League osu! Tournament 2](CES/CES2) | 2020-05-01 | 2020-08-16 | Woopak | MissClick324 | Thymue |
 
 #### Coffee Hispanic
 
@@ -577,8 +577,8 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Mania Beginner's Showdown](MBS/1) | 2019-06-15 | 2019-08-04 | ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413) ( Oberliga), ![][flag_TH] [osu\_player420](https://osu.ppy.sh/users/13018880) ( Unterliga) | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) (Oberliga), ![][flag_PH] [Wakeupat5](https://osu.ppy.sh/users/13311553) (Unterliga) | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) (Oberliga), ![][flag_VE] [\_Vanslight\_](https://osu.ppy.sh/users/6031119) (Unterliga) |
-| [Mania Beginner's Showdown 2](MBS/2) | 2020-05-09 | 2020-06-05 | ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120) ( Oberliga), ![][flag_MY] [Anamneses](https://osu.ppy.sh/users/16299729) ( Unterliga) | ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479) (Oberliga), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) (Unterliga) | ![][flag_SG] [loli\_seale](https://osu.ppy.sh/users/5069913) (Oberliga), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) (Unterliga) |
+| [Mania Beginner's Showdown](MBS/1) | 2019-06-15 | 2019-08-04 | ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413) (Oberliga), ![][flag_TH] [osu\_player420](https://osu.ppy.sh/users/13018880) (Unterliga) | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) (Oberliga), ![][flag_PH] [Wakeupat5](https://osu.ppy.sh/users/13311553) (Unterliga) | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) (Oberliga), ![][flag_VE] [\_Vanslight\_](https://osu.ppy.sh/users/6031119) (Unterliga) |
+| [Mania Beginner's Showdown 2](MBS/2) | 2020-05-09 | 2020-06-05 | ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120) (Oberliga), ![][flag_MY] [Anamneses](https://osu.ppy.sh/users/16299729) (Unterliga) | ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479) (Oberliga), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) (Unterliga) | ![][flag_SG] [loli\_seale](https://osu.ppy.sh/users/5069913) (Oberliga), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) (Unterliga) |
 
 #### Mengxin Cup
 
