@@ -8,7 +8,7 @@ tags:
 
 # GB Cup 2022 Spring
 
-The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu!mania 4-key tournament hosted by ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407).
+The **GB Cup 2022 Spring** (***GBC 2022 Spring***) was a 3v3 captain draft-based osu!mania 4-key tournament hosted by ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407).
 
 ## Tournament schedule
 
@@ -26,9 +26,9 @@ The **GB Cup 2022 Spring** (***GBC 4K 2021***) was a 3v3 captain draft-based osu
 
 | Placing | Prizes |
 | :-----: | :----- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, KanonBot profile badge, 50 CNY ¥ per team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, 30 CNY ¥ per team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, 20 CNY ¥ per team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, KanonBot profile badge, ¥50 CNY per team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, ¥30 CNY per team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, ¥20 CNY per team member |
 
 ## Organisation
 
@@ -49,9 +49,9 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1546120)
 - Livestream
-- Challonge bracket
-- Master sheet
-- Statistics sheet
+  - [Bilibili Stream (\[GB\]yobrevelc)](https://live.bilibili.com/22545296)
+  - [Bilibili Stream (aiyulu)](https://live.bilibili.com/10183)
+- [Master sheet](https://docs.qq.com/sheet/DTWVZWk1MTFVLWllu)
 
 ## Ruleset
 
@@ -98,13 +98,12 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 ### Tournament registration
 
 1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/9902248/95cf/)** to register. 
-2. Players can send VOD clips or in-game replays to the host, which will be used for reference during the drafting phase. 
-3. To ensure valid and serious registrations, every registered user will be manually checked by the host.
+2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **No rank limitations for this tournament.** host have the right to choose several best players to participate in showmatch (showcase by a match) **instead of** the actual tournament for balance issues.
-4. A list of all successfully registered players will be published after the registration phase, and will then participate in the drafting phase.
-5. Organisers, mappool selectors, and referees must not participate as players in the tournament.
-6. Organisers reserve the right to decline restricted players from participating in the tournament.
+3. A list of all successfully registered players will be published after the registration phase, and will then participate in the drafting phase.
+4. Organisers, mappool selectors, and referees must not participate as players in the tournament.
+5. Organisers reserve the right to decline restricted players from participating in the tournament.
 
 ### Drafting phase instructions
 
@@ -114,11 +113,8 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
    - Other valid players not belongs to captains , will automaticly joined into a group, wating to join a team, herein called *player pool*.
 2. Captains decide their team members during the drafting phase.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms. 
-   - On draft phase, Captains will also allowed to see a VOD clips or an in-game replays provided by potential players, if possible.
 3. There will be a 120-second planning phase before the picking phase starts.
-4. During the picking phase, the pick order consists of 2 phases that repeat twice, such that every captains gets to pick 4 times.
-   - During phase 1 and 3, picks start from in *increasing* order, from the 1st to the 16th captain.
-   - During phase 2 and 4, picks start from in *decreasing* order, from the 16th to the 1st captain.
+4. During the picking phase, picks start from in *increasing* order, from the 1st to the 16th captain.
 5. Each captain has 60 seconds to pick one player from the player pool on their turn. 
    - The picked player will join into the captain's team, then removed from the player pool.
    - If the captain does not pick an player within 60 seconds, a random player from the remaining player pool will be assigned.
@@ -149,7 +145,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 ### Playoff stage instructions
 
 1. Following the Regular stage, a single elimination stage will be played. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
-2. Teams in the losers' bracket must play 2 matches on week 2 of the playoffs.
+2. Teams must play 2 matches on week 2 of the playoffs.
 
 #### Win conditions
 
