@@ -5,6 +5,7 @@ tags:
   - hybrid
   - play style
   - Tastatur
+  - tippen
   - Spielstil
 ---
 
@@ -17,7 +18,7 @@ tags:
 Hybrid kann auf viele verschiedene Wege durchgeführt werden:
 
 - Einige Hybridspieler tippen [Hit-Objekte](/wiki/Hit_object) durch das Wechseln zwischen der Taste, mit der sie single-tappen (standardmäßig `Z` und `X`) in regelmäßigen Abständen innerhalb einer Beatmap. Wobei sie bei [Stacks](/wiki/Mapping_techniques/Stack) wenn immer möglich alternieren.
-- Einige Hybridspieler benutzen eine Kombination aus Alternating und Single-Tapping, abhängig von der Geschwindigkeit der Beatmap: manche Geschwindigkeiten sind einfacher zum Single-tappen als zum Alternieren und viele Hybridspieler passen sich daran an. DIe Geschwindigkeiten bei denen das auftritt, sind von Spieler zu Spieler unterschiedlich.
+- Einige Hybridspieler benutzen eine Kombination aus Alternating und Single-Tapping, abhängig von der Geschwindigkeit der Beatmap: manche Geschwindigkeiten sind einfacher zum Single-tappen als zum Alternieren und viele Hybridspieler passen sich daran an. Die Geschwindigkeiten bei denen das auftritt, sind von Spieler zu Spieler unterschiedlich.
 - Andere Hybridspieler verwenden eine Kombination aus [Double-Tapping](/wiki/Play_style/Double_tapping), Single-Tapping und Alternating scheinbar nach Lust und Laune. Das ist natürlich alles eine Frage der persönlichen Vorlieben.
 
 ## Argumente

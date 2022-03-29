@@ -5,6 +5,7 @@ tags:
   - tap
   - keyboard
   - Tastatur
+  - tippen
   - Spielstil
 ---
 
