@@ -51,4 +51,5 @@ Penyelenggaraan dan perencanaan Project Loved seluruhnya dilangsungkan pada *cha
 Di samping server-server di atas, komunitas osu!taiko dan osu!mania juga memiliki server-server Discord-nya tersendiri yang dikhususkan untuk Project Loved sebagai berikut:
 
 - [Server Discord Project Loved osu!taiko](https://discord.com/invite/GhfjtZ6)
+- [Server Discord Project Loved osu!catch](https://discord.gg/phgtyS4UCh)
 - [Server Discord Project Loved osu!mania](https://discord.gg/Ededv7m)

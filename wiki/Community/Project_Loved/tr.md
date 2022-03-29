@@ -51,4 +51,5 @@ Project Loved için yapılan organizasyonun ve planlamanın tamamı [osu!dev Dis
 Yukarıda adı geçen tartışma mecralarının yanısıra, osu!taiko ve osu!mania toplulukları kendi Discord sunucularına sahiptir. Bunlara katılmak için aşağıdaki linkleri kullanabilirsiniz:
 
 - [osu!taiko Project Loved Discord sunucusu](https://discord.com/invite/GhfjtZ6)
+- [osu!catch Project Loved Discord sunucusu](https://discord.gg/phgtyS4UCh)
 - [osu!mania Project Loved Discord sunucusu](https://discord.gg/Ededv7m)

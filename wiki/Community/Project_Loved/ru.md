@@ -51,4 +51,5 @@
 У сообществ osu!taiko и osu!mania также есть свои собственные сервера:
 
 - [Дискорд-сервер Project Loved для osu!taiko](https://discord.com/invite/GhfjtZ6)
+- [Дискорд-сервер Project Loved для osu!catch](https://discord.gg/phgtyS4UCh)
 - [Дискорд-сервер Project Loved для osu!mania](https://discord.gg/Ededv7m)

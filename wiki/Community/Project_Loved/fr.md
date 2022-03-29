@@ -51,4 +51,5 @@ Toute l'organisation et la planification du Project se fait dans le canal `#osu-
 En plus des canaux de discussion mentionnés ci-dessus, les communautés osu!taiko et osu!mania ont leurs propres hubs Discord dédiés, que vous pouvez rejoindre via les liens suivants :
 
 - [Discord du Project Loved pour osu!taiko](https://discord.com/invite/GhfjtZ6)
+- [Discord du Project Loved pour osu!catch](https://discord.gg/phgtyS4UCh)
 - [Discord du Project Loved pour osu!mania](https://discord.gg/Ededv7m)
