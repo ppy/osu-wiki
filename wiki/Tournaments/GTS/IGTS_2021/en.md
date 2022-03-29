@@ -544,7 +544,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
    - The Round of 16 and Quarterfinals mappools will consist of 15 maps.
    - The Semifinals, Finals and Grand Finals mappools will consist of 16 maps.
 6. All stages will have 2 Hidden, HardRock, and DoubleTime maps, and 3 FreeMod maps.
-7. The FreeMod pool is played with FreeMod activated. Every player **has to pick** Hidden, HardRock, or both. At least one player of each team must have at least one mod activated.
+7. The FreeMod pool is played with FreeMod activated. Every player may pick a combination of Hidden and HardRock, but at least one player of each team must have at least one mod activated.
 8. Players cannot pick the same mod combination as their team member.
 9. The tiebreaker is played under FreeMod conditions, but it is not necessary to have a mod activated.
 10. The mappool for each stage will be showcased a week beforehand.
