@@ -48,7 +48,7 @@ Il n'existe pas de règles strictes régissant les beatmaps qu'un capitaine doit
 
 Toute l'organisation et la planification du Project se fait dans le canal `#osu-loved` du [serveur Discord osu!dev](https://discord.gg/ppy). Il y a aussi un canal `#project-loved` dans le [serveur discord osu!community](https://discord.gg/0Vxo9AsejDkGlk3H). Toutes les questions, préoccupations ou suggestions peuvent y être adressées.
 
-En plus des canaux de discussion mentionnés ci-dessus, les communautés osu!taiko et osu!mania ont leurs propres hubs Discord dédiés, que vous pouvez rejoindre via les liens suivants :
+En plus des canaux de discussion mentionnés ci-dessus, les communautés osu!taiko, osu!catch et osu!mania ont leurs propres hubs Discord dédiés, que vous pouvez rejoindre via les liens suivants:
 
 - [Discord du Project Loved pour osu!taiko](https://discord.com/invite/GhfjtZ6)
 - [Discord du Project Loved pour osu!catch](https://discord.gg/phgtyS4UCh)

@@ -48,7 +48,7 @@
 
 Вся организация и планирование Project Loved осуществляется на канале `#osu-loved` в [дискорд-сервере osu!dev](https://discord.gg/ppy), а также на канале `#project-loved` в [дискорд-сервере osu! Community](https://discord.gg/0Vxo9AsejDkGlk3H). Любые вопросы, проблемы или предложения можно обсудить и решить там.
 
-У сообществ osu!taiko и osu!mania также есть свои собственные сервера:
+У сообществ osu!taiko, osu!catch и osu!mania также есть свои собственные сервера:
 
 - [Дискорд-сервер Project Loved для osu!taiko](https://discord.com/invite/GhfjtZ6)
 - [Дискорд-сервер Project Loved для osu!catch](https://discord.gg/phgtyS4UCh)
