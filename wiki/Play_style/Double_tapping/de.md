@@ -17,7 +17,7 @@ tags:
 
 ## Verwendung
 
-Double-Tapping wird typischerweise anstelle des primären Tippstils eines Spielers eingesetzt, da er sehr einfach auszuführen ist und eine höhere "Geschwindigkeit" ermöglicht (auch wenn der Spieler nicht tatsächlich schneller tippt). Die Geschwindigkeitserhöhung wird erreicht, indem die überlappenden Trefferfenster genutzt werden, die am häufigsten in Stacks und Streams vorkommen. Also sobald eine Tasteneingabe als ein Circle-Treffer in einem Stack registriert wurde, wird der nächste Circle auch als Treffer registriert, da die Trefferfenster so nah beieinander liegen, dass sie sich überlappen. Aber dadurch ist es fast unmöglich, das Timing dieser Treffer zu kontrollieren, was sich auf die  [Genauigkeit](/wiki/Gameplay/Accuracy) eines Spielers auswirken kann.
+Double-Tapping wird typischerweise anstelle des primären Tippstils eines Spielers eingesetzt, da er sehr einfach auszuführen ist und eine höhere "Geschwindigkeit" ermöglicht (auch wenn der Spieler nicht tatsächlich schneller tippt). Die Geschwindigkeitserhöhung wird erreicht, indem die überlappenden Trefferfenster genutzt werden, die am häufigsten in Stacks und Streams vorkommen. Also sobald eine Tasteneingabe als ein Circle-Treffer in einem Stack registriert wurde, wird der nächste Circle auch als Treffer registriert, da die Trefferfenster so nah beieinander liegen, dass sie sich überlappen. Aber dadurch ist es fast unmöglich, das Timing dieser Treffer zu kontrollieren, was sich auf die [Genauigkeit](/wiki/Gameplay/Accuracy) eines Spielers auswirken kann.
 
 ## Argumente
 

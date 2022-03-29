@@ -9,7 +9,7 @@ tags:
 
 # Drag
 
-**Dragging** (auf Deutsch *Ziehen*) ist ein Begriff, der den Vorgang vom Navigieren (oder "Zielen") eines [Tablet](/wiki/Gameplay/Input_device/Graphics_tablet)-Stifts beschreibt. Dabei berührt der Stift physisch die Oberfläche des Tablets und wird zu der gewünschten Position "gezogen" (im Gegensatz zum [Hovering](/wiki/Play_style/Hover)). Dieser Spielstil wird von Spielern aller Fähigkeitslevel benutzt und ist einfach zu lernen.
+**Dragging** (auf Deutsch *Ziehen*) ist ein Begriff, der den Vorgang vom Navigieren (oder "Zielen") eines [Tablet](/wiki/Gameplay/Input_device/Graphics_tablet)-Stifts beschreibt. Dabei berührt der Stift physisch die Oberfläche des Tablets und wird zu der gewünschten Position "gezogen" (im Gegensatz zum [Hovern](/wiki/Play_style/Hover)). Dieser Spielstil wird von Spielern aller Fähigkeitslevel benutzt und ist einfach zu lernen.
 
 Argumente für das Dragging behaupten oft, dass es komfortabler/natürlicher ist und man nicht so schnell "über das Ziel hinausschießt" bei [Jumps](/wiki/Beatmap/Pattern/Jump). Andere meinen auch, dass die Reibung den Stift auf dem Tablet hält.
 
