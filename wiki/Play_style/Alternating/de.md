@@ -17,7 +17,7 @@ tags:
 
 ## Verwendung
 
-Alternating hat eine große Vielfalt an Anwendungen und seine Formen können von Spieler zu Spieler variieren. Zum Beispiel wechseln viele Spieler, die abwechselnd die Tasten drücken, zwischen `Z` und `X` (auf dem deutschen Tastaturlayout wählen die meisten `Y` und `X`) auf jeder zweiten Note (oder Hit-Object), während andere hingegen die Tasten nach jedem zweiten oder dritten Hit-Objekt wechseln. Es sollte erwähnt werden, dass manche Spieler die meiste Zeit alternieren, aber manchmal dieselbe Taste zweimal drücken, wenn ein Hit-Objekt den Spieler überrascht. Das liegt alles an den persönlichen Vorlieben.
+Alternating hat eine große Vielfalt an Anwendungen und seine Formen können von Spieler zu Spieler variieren. Zum Beispiel wechseln viele Spieler, die abwechselnd die Tasten drücken, zwischen `Z` und `X` (auf dem deutschen Tastaturlayout wählen die meisten `Y` und `X`) auf jeder zweiten Note (oder Hit-Objekt), während andere hingegen die Tasten nach jedem zweiten oder dritten Hit-Objekt wechseln. Es sollte erwähnt werden, dass manche Spieler die meiste Zeit alternieren, aber manchmal dieselbe Taste zweimal drücken, wenn ein Hit-Objekt den Spieler überrascht. Das liegt alles an den persönlichen Vorlieben.
 
 In ähnlicher Weise bevorzugen manche Spieler ihre Tasten mit dem Zeige- und Mittelfinger zu tippen, während andere ihren Zeige- und Ringfinger benutzen. Spieler mit Zeige- und Ringfinger werden typischerweise ihre Tasten mit einem größeren Abstand voneinander einstellen, um die größere Lücke auszugleichen. Zum Beispiel kann anstatt `Y` und `X` mit `Y` und `C` gespielt werden.
 
