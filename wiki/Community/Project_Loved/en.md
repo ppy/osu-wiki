@@ -51,5 +51,5 @@ All of the organisation and planning for Project Loved is done in the `#osu-love
 In addition to the discussion channels mentioned above, osu!taiko and osu!mania communities have their own dedicated Discord hubs, which you may join via the following links:
 
 - [osu!taiko Project Loved Discord server](https://discord.com/invite/GhfjtZ6)
-- [osu!catch Project Loved Discord Server](https://discord.gg/phgtyS4UCh)
+- [osu!catch Project Loved Discord server](https://discord.gg/phgtyS4UCh)
 - [osu!mania Project Loved Discord server](https://discord.gg/Ededv7m)
