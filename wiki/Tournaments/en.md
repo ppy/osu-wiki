@@ -574,6 +574,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Chinese osu!mania 4K Tournament 2018](CMT_4K/2018) | 2018-09-10 | 2018-11-25 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159) |
 
 #### GB Cup
+
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 2022-04-09 | 2022-05-08 | *TBD* | *TBD* | *TBD* |
