@@ -131,9 +131,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] **United States** (**[Yujki](https://osu.ppy.sh/users/14987094)**, [Max\_Prm](https://osu.ppy.sh/users/14714592), [-Schwarts](https://osu.ppy.sh/users/4673649), [SlipperyPickle](https://osu.ppy.sh/users/11969691), [SolaEclipse](https://osu.ppy.sh/users/6621158)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] **China** (**[Jahmsy](https://osu.ppy.sh/users/17448064)**, [\[Lily\_White\]](https://osu.ppy.sh/users/12749779), [Lubei_01](https://osu.ppy.sh/users/11692528), [NGname](https://osu.ppy.sh/users/13679148), [WLYMinato](https://osu.ppy.sh/users/12703319)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SG] **Singapore** (**[\_gt](https://osu.ppy.sh/users/8301957)**, [errorgorn](https://osu.ppy.sh/users/12921469), [I luv loleez](https://osu.ppy.sh/users/18346655), [MattrexDark](https://osu.ppy.sh/users/7171110), [TakoJoe](https://osu.ppy.sh/users/13883186)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[Civil oath](https://osu.ppy.sh/users/3216107)**, [COCOA ANGEL](https://osu.ppy.sh/users/10049161), [Lamery](https://osu.ppy.sh/users/4557972), [Lapina\_87](https://osu.ppy.sh/users/16415779), [RaiRator](https://osu.ppy.sh/users/5054081)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_HK] **Hong Kong** (**[-Storm7-](https://osu.ppy.sh/users/12248285)**, [4399guangguang](https://osu.ppy.sh/users/2499089), [BlackBN](https://osu.ppy.sh/users/6291741), [fanhoho](https://osu.ppy.sh/users/933630), [Irone OSU](https://osu.ppy.sh/users/10678230)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] **China A** (**[WonderMan](https://osu.ppy.sh/users/2221895)**, [betairylia](https://osu.ppy.sh/users/1558839), [DeepMarine](https://osu.ppy.sh/users/21891421), [Edward\_Tsui](https://osu.ppy.sh/users/8609627), [Hynix](https://osu.ppy.sh/users/10507557)) |
 
 ## Mappools
 
