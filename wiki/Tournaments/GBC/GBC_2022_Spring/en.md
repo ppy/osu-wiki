@@ -8,6 +8,8 @@ tags:
 
 # GB Cup 2022 Spring
 
+![GBC 2022 Spring banner](img/GBC-2022-Spring-banner.jpg)
+
 The **GB Cup 2022 Spring** (***GBC 2022 Spring***) was a 3v3 captain draft-based osu!mania 4-key tournament hosted by ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407).
 
 ## Tournament schedule
@@ -42,7 +44,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | Mappool tester | ![][flag_CN] [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_CN] [FleVI](https://osu.ppy.sh/users/12519616), ![][flag_CN] [Takeru3](https://osu.ppy.sh/users/15188014), ![][flag_CN] [_Yiiiiii](https://osu.ppy.sh/users/6066359), ![][flag_CN] [rbqq](https://osu.ppy.sh/users/13747488/mania), ![][flag_CN] [Seven_Nye](https://osu.ppy.sh/users/20886966), ![][flag_CN] [aa219040](https://osu.ppy.sh/users/11653961), ![][flag_CN] [DongDouFu](https://osu.ppy.sh/users/17621613) |
 | Referee | *TBA* |
 | Commentator | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ![][flag_CN] [Edward_Tsui](https://osu.ppy.sh/users/8609627) |
-| Designer | *TBA* |
+| Designer | ![][flag_CN] [King Fish](https://osu.ppy.sh/users/8468203) |
 | Statistician | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ![][flag_CN] [Rush_FTK](https://osu.ppy.sh/users/3046856) |
 
 ## Links
@@ -52,6 +54,103 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
   - [Bilibili Stream (\[GB\]yobrevelc)](https://live.bilibili.com/22545296)
   - [Bilibili Stream (aiyulu)](https://live.bilibili.com/10183)
 - [Master sheet](https://docs.qq.com/sheet/DTWVZWk1MTFVLWllu)
+
+## Participants
+
+| Role | Players |
+| :-: | :-- |
+| **Captains** | ![][flag_CN] [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ![][flag_CN] [boooohhhhee](https://osu.ppy.sh/users/8692698), ![][flag_CN] [JJFLy](https://osu.ppy.sh/users/7580514), ![][flag_CN] [Qz501kn](https://osu.ppy.sh/users/8729618), ![][flag_CN] [lovely_hyahya](https://osu.ppy.sh/users/10318380), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Ranm](https://osu.ppy.sh/users/17527822), ![][flag_CN] [Koishi-0514](https://osu.ppy.sh/users/7546593), ![][flag_CN] [My Angel Yukee7](https://osu.ppy.sh/users/9787146), ![][flag_CN] [- Ran Mitake -](https://osu.ppy.sh/users/19824985), ![][flag_CN] [Vlf](https://osu.ppy.sh/users/9458866), ![][flag_CN] [Carpihat](https://osu.ppy.sh/users/10085090), ![][flag_CN] [gluefly](https://osu.ppy.sh/users/8715409), ![][flag_CN] [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494), ![][flag_CN] [miyes](https://osu.ppy.sh/users/12942073), ![][flag_CN] [StarTemplar](https://osu.ppy.sh/users/8795096) |
+| **Players** | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319), ![][flag_CN] [-Chen-](https://osu.ppy.sh/users/14030362), ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ![][flag_CN] [-[Ulazis]-](https://osu.ppy.sh/users/11144363), ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_AU] [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989), ![][flag_CN] [abbikly](https://osu.ppy.sh/users/14384082), ![][flag_CN] [\[ Classic \]](https://osu.ppy.sh/users/5858053), ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [R u m i a](https://osu.ppy.sh/users/17686114), ![][flag_CN] [tito31158](https://osu.ppy.sh/users/16436669), ![][flag_CN] [Molli](https://osu.ppy.sh/users/8893772), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [MkoTenshi](https://osu.ppy.sh/users/6532520), ![][flag_CN] [\[Arkona\]](https://osu.ppy.sh/users/7883617), ![][flag_CN] [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ![][flag_CN] [Ubiquity](https://osu.ppy.sh/users/6019127), ![][flag_CN] [AWMRone](https://osu.ppy.sh/users/10351684), ![][flag_CN] [rizazyh](https://osu.ppy.sh/users/13673300), ![][flag_CN] [YyottaCat](https://osu.ppy.sh/users/17753835), ![][flag_CN] [King Fish](https://osu.ppy.sh/users/8468203), ![][flag_CN] [tangul](https://osu.ppy.sh/users/6862237), ![][flag_CN] [Hylotl](https://osu.ppy.sh/users/18270260), ![][flag_CN] [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ![][flag_CN] [miserable neet](https://osu.ppy.sh/users/12430477), ![][flag_CN] [Littlesheep37](https://osu.ppy.sh/users/14742881), ![][flag_CN] [Rync_](https://osu.ppy.sh/users/18242164), ![][flag_CN] [DJ Sharpnel](https://osu.ppy.sh/users/5132402), ![][flag_CN] [PropaneFanboy](https://osu.ppy.sh/users/27235859), ![][flag_CN] [Sakurada Shiro](https://osu.ppy.sh/users/14617751), ![][flag_CN] [for need](https://osu.ppy.sh/users/10496581), ![][flag_CN] [\[GB\]a_hisa](https://osu.ppy.sh/users/24057093), ![][flag_US] [EurusY](https://osu.ppy.sh/users/16301690), ![][flag_CN] [sherweifa](https://osu.ppy.sh/users/17457562), ![][flag_CN] [Mito Van](https://osu.ppy.sh/users/14703345), ![][flag_CN] [Takahashi_Yuki](https://osu.ppy.sh/users/7167750), ![][flag_CN] [PORTTAYER](https://osu.ppy.sh/users/8790200), ![][flag_CN] [Kos-](https://osu.ppy.sh/users/9048067), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [qiaolilailai](https://osu.ppy.sh/users/13809991), ![][flag_CN] [Zyuuu](https://osu.ppy.sh/users/15389275), ![][flag_CN] [fishbone2445](https://osu.ppy.sh/users/17640814), ![][flag_CN] [TkskKurumi](https://osu.ppy.sh/users/3631045), ![][flag_HK] [Alptraum](https://osu.ppy.sh/users/26496648), ![][flag_JP] [\[GB\]Kokodayo](https://osu.ppy.sh/users/16585041), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [Llkkm](https://osu.ppy.sh/users/24989144), ![][flag_CN] [fangruyan1013](https://osu.ppy.sh/users/11735651), ![][flag_CN] [majesticlegend](https://osu.ppy.sh/users/10219308), ![][flag_CN] [woshiji](https://osu.ppy.sh/users/26589994), ![][flag_CN] [Horizon5](https://osu.ppy.sh/users/12635658), ![][flag_CN] [QAQlingjiu](https://osu.ppy.sh/users/27288518), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [SY-COCO](https://osu.ppy.sh/users/12854853), ![][flag_CN] [shiki natsume](https://osu.ppy.sh/users/6997459), ![][flag_CN] [UnnamedOrange](https://osu.ppy.sh/users/14753416), ![][flag_CN] [\[GB\]voidmoyu](https://osu.ppy.sh/users/16573996), ![][flag_CN] [Ez2dance](https://osu.ppy.sh/users/9191281), ![][flag_CN] [Chelly-](https://osu.ppy.sh/users/14876346), ![][flag_CN] [AkalinT](https://osu.ppy.sh/users/16640276), ![][flag_CN] [dreamwy](https://osu.ppy.sh/users/11608677), ![][flag_CN] [\[GB\]hej_067](https://osu.ppy.sh/users/24880938), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767), ![][flag_CN] [wait wait](https://osu.ppy.sh/users/15484204), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634) |
+
+<!--
+![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319)
+![][flag_CN] [-Chen-](https://osu.ppy.sh/users/14030362)
+![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273)
+![][flag_CN] [- Xiaoluoli -](https://osu.ppy.sh/users/9502281)
+![][flag_CN] [-[Ulazis]-](https://osu.ppy.sh/users/11144363)
+![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665)
+![][flag_AU] [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989)
+![][flag_CN] [abbikly](https://osu.ppy.sh/users/14384082)
+![][flag_CN] [\[ Classic \]](https://osu.ppy.sh/users/5858053)
+![][flag_CN] [9961](https://osu.ppy.sh/users/14609209)
+![][flag_CN] [R u m i a](https://osu.ppy.sh/users/17686114)
+![][flag_CN] [tito31158](https://osu.ppy.sh/users/16436669)
+![][flag_CN] [Molli](https://osu.ppy.sh/users/8893772)
+![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690)
+![][flag_CN] [MkoTenshi](https://osu.ppy.sh/users/6532520)
+![][flag_CN] [\[Arkona\]](https://osu.ppy.sh/users/7883617)
+![][flag_CN] [\[GB\]Tyris](https://osu.ppy.sh/users/10497659)
+![][flag_CN] [Ubiquity](https://osu.ppy.sh/users/6019127)
+![][flag_CN] [AWMRone](https://osu.ppy.sh/users/10351684)
+![][flag_CN] [rizazyh](https://osu.ppy.sh/users/13673300)
+![][flag_CN] [YyottaCat](https://osu.ppy.sh/users/17753835)
+![][flag_CN] [King Fish](https://osu.ppy.sh/users/8468203)
+![][flag_CN] [tangul](https://osu.ppy.sh/users/6862237)
+![][flag_CN] [Hylotl](https://osu.ppy.sh/users/18270260)
+![][flag_CN] [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400)
+![][flag_CN] [miserable neet](https://osu.ppy.sh/users/12430477)
+![][flag_CN] [Littlesheep37](https://osu.ppy.sh/users/14742881)
+![][flag_CN] [Rync_](https://osu.ppy.sh/users/18242164)
+![][flag_CN] [DJ Sharpnel](https://osu.ppy.sh/users/5132402)
+![][flag_CN] [PropaneFanboy](https://osu.ppy.sh/users/27235859)
+![][flag_CN] [Sakurada Shiro](https://osu.ppy.sh/users/14617751)
+![][flag_CN] [for need](https://osu.ppy.sh/users/10496581)
+![][flag_CN] [\[GB\]a_hisa](https://osu.ppy.sh/users/24057093)
+![][flag_US] [EurusY](https://osu.ppy.sh/users/16301690)
+![][flag_CN] [sherweifa](https://osu.ppy.sh/users/17457562)
+![][flag_CN] [Mito Van](https://osu.ppy.sh/users/14703345)
+![][flag_CN] [Takahashi_Yuki](https://osu.ppy.sh/users/7167750)
+![][flag_CN] [PORTTAYER](https://osu.ppy.sh/users/8790200)
+![][flag_CN] [Kos-](https://osu.ppy.sh/users/9048067)
+![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770)
+![][flag_CN] [qiaolilailai](https://osu.ppy.sh/users/13809991)
+![][flag_CN] [Zyuuu](https://osu.ppy.sh/users/15389275)
+![][flag_CN] [fishbone2445](https://osu.ppy.sh/users/17640814)
+![][flag_CN] [TkskKurumi](https://osu.ppy.sh/users/3631045)
+![][flag_HK] [Alptraum](https://osu.ppy.sh/users/26496648)
+![][flag_JP] [\[GB\]Kokodayo](https://osu.ppy.sh/users/16585041)
+![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706)
+![][flag_CN] [Llkkm](https://osu.ppy.sh/users/24989144)
+![][flag_CN] [fangruyan1013](https://osu.ppy.sh/users/11735651)
+![][flag_CN] [majesticlegend](https://osu.ppy.sh/users/10219308)
+![][flag_CN] [woshiji](https://osu.ppy.sh/users/26589994)
+![][flag_CN] [Horizon5](https://osu.ppy.sh/users/12635658)
+![][flag_CN] [QAQlingjiu](https://osu.ppy.sh/users/27288518)
+![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639)
+![][flag_CN] [SY-COCO](https://osu.ppy.sh/users/12854853)
+![][flag_CN] [shiki natsume](https://osu.ppy.sh/users/6997459)
+![][flag_CN] [UnnamedOrange](https://osu.ppy.sh/users/14753416)
+![][flag_CN] [\[GB\]voidmoyu](https://osu.ppy.sh/users/16573996)
+![][flag_CN] [Ez2dance](https://osu.ppy.sh/users/9191281)
+![][flag_CN] [Chelly-](https://osu.ppy.sh/users/14876346)
+![][flag_CN] [AkalinT](https://osu.ppy.sh/users/16640276)
+![][flag_CN] [dreamwy](https://osu.ppy.sh/users/11608677)
+![][flag_CN] [\[GB\]hej_067](https://osu.ppy.sh/users/24880938)
+![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767)
+![][flag_CN] [wait wait](https://osu.ppy.sh/users/15484204)
+![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634)
+-->
+
+<!--https://docs.qq.com/sheet/DTWVZWk1MTFVLWllu-->
+
+| Teams | Members |
+| :-: | :-- |
+| **Team1** | ![][flag_CN] **[\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018)** |
+| **Team2** | ![][flag_CN] **[boooohhhhee](https://osu.ppy.sh/users/8692698)** |
+| **Team3** | ![][flag_CN] **[JJFLy](https://osu.ppy.sh/users/7580514)** |
+| **Team4** | ![][flag_CN] **[Qz501kn](https://osu.ppy.sh/users/8729618)** |
+| **Team5** | ![][flag_CN] **[lovely_hyahya](https://osu.ppy.sh/users/10318380)** |
+| **Team6** | ![][flag_CN] **[crazybrother](https://osu.ppy.sh/users/8045083)** |
+| **Team7** | ![][flag_CN] **[Ranm](https://osu.ppy.sh/users/17527822)** |
+| **Team8** | ![][flag_CN] **[Koishi-0514](https://osu.ppy.sh/users/7546593)** |
+| **Team9** | ![][flag_CN] **[My Angel Yukee7](https://osu.ppy.sh/users/9787146)** |
+| **Team10** | ![][flag_CN] **[- Ran Mitake -](https://osu.ppy.sh/users/19824985)** |
+| **Team11** | ![][flag_CN] **[Vlf](https://osu.ppy.sh/users/9458866)** |
+| **Team12** | ![][flag_CN] **[Carpihat](https://osu.ppy.sh/users/10085090)** |
+| **Team13** | ![][flag_CN] **[gluefly](https://osu.ppy.sh/users/8715409)** |
+| **Team14** | ![][flag_CN] **[\[Crz\]Nickname](https://osu.ppy.sh/users/10817494)** |
+| **Team15** | ![][flag_CN] **[miyes](https://osu.ppy.sh/users/12942073)** |
+| **Team16** | ![][flag_CN] **[StarTemplar](https://osu.ppy.sh/users/8795096)** |
 
 ## Ruleset
 
@@ -114,7 +213,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 2. Captains decide their team members during the drafting phase.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms. 
 3. There will be a 120-second planning phase before the picking phase starts.
-4. During the picking phase, picks start from in *increasing* order, from the 1st to the 16th captain.
+4. During the picking phase, picks start from in *increasing* order, from the 1st to the 16th captain. The pick order repeat quadruple, such that every captains gets to pick 4 times.
 5. Each captain has 60 seconds to pick one player from the player pool on their turn. 
    - If the captain does not pick an player within 60 seconds, a random player from the remaining player pool will be assigned to their team.
 6. If the captain picks a player, the pick time still has to elapse before the next captain's turn starts, meaning each phase will take 16 minutes.
@@ -145,7 +244,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 1. Following the Regular stage, a single elimination stage will be played. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
 2. Teams must play 2 matches on week 2 of the playoffs.
 
-#### Win conditions
+### Win conditions
 
 - In all stages, teams need to win 6 maps to win a match (best of 11).
 
@@ -195,5 +294,9 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
    - **Do not ask for reschedule unless it is absolutely needed. The host reserves the right to decline any reschedule requests.**
 6. Captains are responsible for their teams' availability. The current team size exists to ensure every team can provide at least three players for each match. If teams cannot provide three players for a match, the match will be considered forfeited.
 
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
