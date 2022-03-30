@@ -371,7 +371,7 @@ Saturday, 3 July 2021:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Argentina ![][flag_AR] | 2 | **6** | ![][flag_CN] **China A** | [#1](https://osu.ppy.sh/community/matches/86713465) |
-| Russian Federation/Ukraine ![][flag_RU] ![][flag_UA] | 4 | **6** | ![][flag_MY] Malaysia A | [#1](https://osu.ppy.sh/community/matches/86713468) |
+| Russian Federation/Ukraine ![][flag_RU] ![][flag_UA] | 4 | **6** | ![][flag_MY] **Malaysia A** | [#1](https://osu.ppy.sh/community/matches/86713468) |
 | **Hong Kong** ![][flag_HK] | **6** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/86713960) |
 | **Japan A** ![][flag_JP] | **6** | 2 | ![][flag_DE] Germany A | [#1](https://osu.ppy.sh/community/matches/86715841) |
 | **Argentina** ![][flag_AR] | **6** | 2 | ![][flag_SG] Singapore A | [#1](https://osu.ppy.sh/community/matches/86718204) |
@@ -392,7 +392,7 @@ Saturday, 26 June 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **China A** ![][flag_CN] | **6** | 3 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/86282475) |
 | **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_SG] Singapore A | [#1](https://osu.ppy.sh/community/matches/86294269) |
-| **Russian Federation/Ukraine** ![][flag_RU] ![][flag_UA] | **6** | 4 | ![][flag_AU] ![][flag_GU] | [#1](https://osu.ppy.sh/community/matches/86297694) |
+| **Russian Federation/Ukraine** ![][flag_RU] ![][flag_UA] | **6** | 4 | ![][flag_AU] ![][flag_GU] Australia/Guam | [#1](https://osu.ppy.sh/community/matches/86297694) |
 | **Hong Kong** ![][flag_HK] | **6** | 0 | ![][flag_PL] ![][flag_CZ] Poland/Czech Republic | [#1](https://osu.ppy.sh/community/matches/86305255) |
 | South Korea ![][flag_KR] | 3 | **6** | ![][flag_MY] **Malaysia A** | [#1](https://osu.ppy.sh/community/matches/86305268) |
 | **Japan A** ![][flag_JP] | **6** | 0 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/86307835) |
@@ -421,7 +421,7 @@ Saturday, 19 June 2021:
 | H | Austria ![][flag_AT] | 4 | **5** | ![][flag_CN] **China A** | [#1](https://osu.ppy.sh/community/matches/85866295) |
 | F | China B ![][flag_CN] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/85868162) |
 | H | Taiwan ![][flag_TW] | 4 | **5** | ![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/85869842) |
-| E | Thailand ![][flag_TH] | 3 | **5** | ![][flag_AU] ![][flag_GU] Australia/Guam | [#1](https://osu.ppy.sh/community/matches/85869850) |
+| E | Thailand ![][flag_TH] | 3 | **5** | ![][flag_AU] ![][flag_GU] **Australia/Guam** | [#1](https://osu.ppy.sh/community/matches/85869850) |
 | F | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_PL] ![][flag_CZ] Poland/Czech Republic | [#1](https://osu.ppy.sh/community/matches/85870874) |
 | B | Singapore B ![][flag_SG] | 4 | **5** | ![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/85871692) |
 | E | Thailand ![][flag_TH] | 1 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/85873878) |
