@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2014 logo](img/logo.png)
 
-La **osu! Catch the Beat World Cup 2014** (***CWC 2014*** ) fue un torneo por países de Catch the Beat organizado por el [Tournament Management](https://osu.ppy.sh/groups/26). Ha sido la 3ra entrega de la osu! Catch the Beat World Cup.
+La **osu! Catch the Beat World Cup 2014** (***CWC 2014*** ) fue un torneo por países de Catch the Beat organizado por el [equipo osu!](/wiki/People/The_Team). Ha sido la 3ra entrega de la osu! Catch the Beat World Cup.
 
 ## Calendario
 
