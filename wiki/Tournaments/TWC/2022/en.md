@@ -143,7 +143,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here (73 MB)](https://drive.google.com/uc?id=1BAYyEckltoxlJ91jjZDd-J8kz67pMz6f)**
+**[Download the mappack here (73 MB)](https://drive.google.com/uc?id=1sx8PbyPgijk7IzQ5waWdWnbISar6JAVk)**
 
 - NoMod
   1. [Rahatt - Gas Gas (incandescence) \[C8H18\]](https://osu.ppy.sh/beatmapsets/1641207#taiko/3349737)
