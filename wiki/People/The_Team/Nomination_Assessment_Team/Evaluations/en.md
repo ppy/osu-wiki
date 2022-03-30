@@ -78,4 +78,6 @@ Once a consensus for the resignation terms has been reached, the NAT will send t
 
 ### Mock evaluations
 
-In addition to NAT members evaluating, mock evaluations may also be given out to BN members for new BN application evaluations. In mock evaluations, BNs will submit individual evaluations alongside the NAT, but their evaluation will not determine the final consensus for the application unless the NAT evaluators can not come to their own consensus. BNs will not be able to see the evaluation in group phase, but will be able to read the evaluations in an anonymized format once the application is archived. Mock evaluations allow the NAT to scout for future NAT members, as well as for BNs to see how NAT evaluate applications and learn from them if joining NAT is something they are interested in in the future.
+In addition to BN evaluations by NAT members, mock evaluations may also be given out to Beatmap Nominators for new BN application evaluations. In mock evaluations, nominators will submit individual evaluations alongside the NAT, but it will not determine the final result for the application unless the NAT evaluators cannot come to their own consensus. For the mock evaluation they participated in, the nominator will be able to read the individual evaluations in an anonymised format once the application is archived.
+
+Mock evaluations allow the NAT to scout for future NAT members, as well as for Beatmap Nominators to see how the NAT evaluates applications and learn from them if joining the NAT in the future is something they are interested in.
