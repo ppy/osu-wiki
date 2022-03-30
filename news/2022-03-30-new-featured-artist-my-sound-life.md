@@ -25,7 +25,7 @@ Want a sample of **my sound life**'s musical genius? Of course you do. Take a pe
 Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1728309) hosted by [Heroine](https://osu.ppy.sh/users/12727076)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/252/lotus/my%20sound%20life%20-%20omega.mp3" type="audio/mpeg">
 </audio>
 
 ### AIR
@@ -33,19 +33,19 @@ Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1728309) h
 Check out [this recently ranked classic beatmap](https://osu.ppy.sh/beatmapsets/190366) hosted by [HanzeR](https://osu.ppy.sh/users/1592447)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/252/portal%20two/my%20sound%20life%20-%20AIR.mp3" type="audio/mpeg">
 </audio>
 
 ### hello
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/252/hello/my%20sound%20life%20-%20hello.mp3" type="audio/mpeg">
 </audio>
 
 ### crossing
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/252/portal%20two/my%20sound%20life%20-%20crossing.mp3" type="audio/mpeg">
 </audio>
 
 ---
