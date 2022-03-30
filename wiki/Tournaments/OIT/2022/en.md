@@ -98,6 +98,36 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ## Mappools
 
+### Finals (week 2)
+
+**[Download the mappack here! (145 MB)](http://drive.google.com/u/0/uc?id=1jC_ByVN0kT1W0KXpb8pGbH9HTHrjuoaJ&export=download)**
+
+- NoMod
+  1. [Risa Yuzuki - Filia no Rashinban (feat. cosMo\@bousouP) (BarkingMadDog) \[Compass\]](https://osu.ppy.sh/beatmapsets/1709938#osu/3494038)
+  2. [Plum - Tempest (knowledgeking) \[Hurricane\]](https://osu.ppy.sh/beatmapsets/1699159#osu/3471880)
+  3. [lical - nyctalopia (Raijodo) \[delusionalism\]](https://osu.ppy.sh/beatmapsets/1284666#osu/2745135)
+  4. [Vorso - Honx (Xarr) \[Dissidence\]](https://osu.ppy.sh/beatmapsets/1564690#osu/3195227)
+  5. [Laur - A Lasting Promise (Altai) \[Morri's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1496445#osu/3093724)
+  6. [ATARASHII GAKKO! - Ookami no Uta (Fisky) \[jasontime's Expert\]](https://osu.ppy.sh/beatmapsets/1562875#osu/3378777)  
+- Hidden
+  1. [Kairiki bear - Shippaisaku Shoujo (jazzberry) \[Amelie\]](https://osu.ppy.sh/beatmapsets/1699191#osu/3471942)
+  2. [I2ka x Tanchiky - Voice (Cut Ver.) (Kyrian) \[Special\]](https://osu.ppy.sh/beatmapsets/1532435#osu/3133966)
+  3. [ISOMERZ (DJ Raisei + seatrus) - Symmetric (Realazy) \[Enantiomorphs\]](https://osu.ppy.sh/beatmapsets/1381824#osu/2855075)  
+- HardRock
+  1. [ELFENSJoN - STYX (Lyruke) \[NOSTALGIC\]](https://osu.ppy.sh/beatmapsets/1554532#osu/3175993)
+  2. [ESTi - HELIX (Edit Ver.) (FreeSongs) \[Helix\]](https://osu.ppy.sh/beatmapsets/331732#osu/734769)
+  3. [lapix - Day by day (PSYQUI Remix) (JeZag) \[Edge of Tomorrow\]](https://osu.ppy.sh/beatmapsets/1318545#osu/2731544)  
+- DoubleTime
+  1. [Liz Triangle - Veda (eiri-) \[Ayylibe's Expert\]](https://osu.ppy.sh/beatmapsets/979392#osu/2049696)
+  2. [ZUN - Romantic Children (Kurashina Asuka) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1550845#osu/3169113)
+  3. [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Gekijou no Prominence (-Mo-) \[Insane\]](https://osu.ppy.sh/beatmapsets/1633270#osu/3333770)
+  4. [Sakuyui - Yoru ni Kakeru (Yugu) \[You\]](https://osu.ppy.sh/beatmapsets/1238144#osu/2574281)  
+- FreeMod
+  1. [MASAKI (ZUNTATA) - Touhou Kijinretsu (Sparhten) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1267353#osu/2633856)
+  2. [Feryquitous feat. Aitsuki Nakuru - Tsukuyomi ni Naru (captin1) \[niva (OLD)\]](https://osu.ppy.sh/beatmapsets/1699172#osu/3529829)  
+- Tiebreaker
+  1. **[IT LIVES & Dr Ushuu - Never Alone (ReeK's "Hitorijanai" Remix) (Tocorn) \[Absolute Ecstacy\]](https://osu.ppy.sh/beatmapsets/1729689#osu/3534950)**
+
 ### Finals (week 1)
 
 **[Download the mappack here! (118 MB)](http://drive.google.com/u/0/uc?id=143Jy13SwLOra2tkw4FYY5bCutFivYa4M&export=download)**
@@ -260,6 +290,27 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [rerulili feat. Dancing Dolls - Kami no Manima Ni (Sephira) \[RLC's Insane\]](https://osu.ppy.sh/beatmapsets/1182518#osu/2465404)
 
 ## Match results
+
+### Finals (week 2)
+
+Saturday, 26 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Crezz](https://osu.ppy.sh/users/7108275) ![][flag_ID] | 5 | **7** | ![][flag_ID] **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/99117520) |
+
+Sunday, 27 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Fuma](https://osu.ppy.sh/users/1501956) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99154662) |
+| Upper | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ![][flag_ID] | 0 | **7** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/99152654) |
+
+Monday, 28 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [MineFrostID](https://osu.ppy.sh/users/12159899) ![][flag_ID] | 5 | **7** | ![][flag_ID] **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99157419) |
 
 ### Semifinals
 
