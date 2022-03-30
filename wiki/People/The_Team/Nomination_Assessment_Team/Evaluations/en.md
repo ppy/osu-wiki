@@ -16,7 +16,7 @@ Every application submitted to the NAT website that passes the [Beatmap Nominato
 
 ### Process
 
-When a user applies to become a BN, the NAT will be notified via the BN site Discord bot in their respective Discord channel. The notification will include the applicant's name and test score, as well as which NAT members have been assigned to the application.
+When a user applies to become a BN, the NAT will be notified via the "bnsite" Discord bot in their respective Discord channel. The notification will include the applicant's name and test score, as well as which NAT members have been assigned to the application.
 
 Members of the NAT can then review the full application on the NAT website, which includes any information the applicant submitted, their test results, as well as a historical record of past evaluations if the user has applied to or has been a BN previously.
 
@@ -64,7 +64,7 @@ Warnings and being placed on probation due to subpar performance as a full Beatm
 
 ### Activity
 
-Beatmap Nominator activity is checked automatically by the NAT website on the 1st of every month. If it has found there are nominators not meeting the activity requirements, they will be flagged and posted in their respective mode's NAT channel for NAT members to review by the bnsite Discord bot. Review will include whether the BN has posted an absence notice recently, and double check to ensure the website check is accurate to the BN's activity status. 
+Beatmap Nominator activity is checked automatically by the NAT website on the 1st of every month. If it has found that there are nominators not meeting the activity requirements, they will be flagged and posted in their respective mode's NAT channel for NAT members to review by the "bnsite" Discord bot. Review will include whether the BN has posted an absence notice recently, and a double check to ensure the website check is accurate to the BN's activity status. 
 
 If it is found the BN is indeed not meeting activity, they will be either warned or removed depending on severity. Beatmap Nominators who were removed for activity in this way may apply again in 30 days, provided they have at least 8 mods to show they have come back to being active as a modder again.
 
