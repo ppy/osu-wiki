@@ -8,7 +8,7 @@ date: 2022-03-30 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/252/header.jpg)
 
-Combining the efforts of highly renowned vocalist *Chata* and compositions from our very own [solfa](https://osu.ppy.sh/beatmaps/artists/207), **my sound life** is a high tempo J-rock unit whose anime-esque style is exactly what comes to mind when thinking of osu!.
+Combining the efforts of highly renowned vocalist *Chata* and compositions from our very own [solfa](https://osu.ppy.sh/beatmaps/artists/207), **my sound life** is a high-tempo J-rock unit whose anime-esque style is exactly what comes to mind when thinking of osu!.
 
 **12** masterfully crafted tracks are ready for pickup from [**my sound life**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/252), all conveniently packed in pre-timed beatmap templates!
 
