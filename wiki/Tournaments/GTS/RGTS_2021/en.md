@@ -487,29 +487,28 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 ### Restrictions and registrations
 
-1. In order to participate, players need to be in the rank range of #3,500 - #10,000.
-2. Players are not allowed to rank up further than #2,500 during the tournament. Passing this limit will result in disqualification.
+1. In order to participate, players need to be in the rank range of #1,000 - #4,500.
+2. Players are not allowed to rank up further than #1,000 during the tournament. Passing this limit will result in disqualification.
 3. Players must join the Discord server of the tournament to actually be counted as a player.
 4. Players sign up individually. When their registration is accepted, they will get a player role with their respective country.
 5. osu! staff can refuse players from participating in the tournament if their skill is deemed much higher than the targeted rank range.
-6. If there are 35 or more unique countries able to participate after screening, only **1 team per country** will be allowed. In that case, if there are more than 5 players signed up for a country, they will have to decide among themselves who will partake in the tournament. If they cannot elect the players, they will be chosen by ranking to form the new team.
-7. If there are less than 35 unique countries, 2 teams for a country may be allowed under certain conditions:
+6. In this iteration, 2 teams for a country may be allowed under certain conditions:
    - There are **7 or more players** signed up for a country.
    - Each team has to have **at least 3 players**.
-8. Teams are otherwise assembled in the following way:
+7. Teams are otherwise assembled in the following way:
    - If there are 5 players or less signed up for a country, those players will form the team representing their country.
    - In case there are more than 10 players signed up for a country, players will decide among themselves who will partake in the tournament. If they cannot decide, the top 10 players by ranking will be chosen to form the 2 teams.
    - If there are 6 players, players will have to decide on the 5 players who will partake in the tournament. If they cannot decide, the top 5 players by ranking will be chosen to form the team.
    - If there are 7 to 10 players (after keeping the best ranked ones) signed up for a country, the players from that country will have a few days to decide how to split themselves between the 2 teams. It is recommended to come to an agreement as fast as possible and decide on a captain to aid in scheduling.
    - In case the players cannot come to an agreement, they will put in 2 teams with at least 3 members in each in order of global ranking.
    - If the players cannot agree or find a captain, the highest ranked player will be chosen.
-9. The captain has the responsibility to reschedule a match if needed and will ensure their teammates are present for the matches.
+8. The captain has the responsibility to reschedule a match if needed and will ensure their teammates are present for the matches.
 
 ### Stage regulations
 
-1. There are seven stages in the 1v1 tournament: the Qualifiers, the Group stage, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
+1. There are seven stages in the tournament: the Qualifiers, the Group stage, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
 2. Teams will be seeded with the average of their ranks on each map during the Qualifiers round in 4 seeds: Top seed, High seed, Low seed, and Unseeded.
-3. Teams will be drawn in **8 groups of 4 teams** during live drawings which will happen on Sunday, 25 July 2021 (18:00 UTC).
+3. Teams will be drawn in **8 groups of 4 teams** during live drawings which will happen on Sunday, 13 June 2021 (18:00 UTC).
 4. In the Group stage, all the teams from each group will face each other. The **best 2 teams** advance from their groups.
 5. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    1. Most matches won.
@@ -588,7 +587,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 2. 12 players will participate in this event. They will be decided by a vote.
 3. If there are more than 2 players from a country in the top 12 most voted players, only the 2 best will partake in All Stars.
 4. The top 2 players will be captains of each team. Their teammates will be decided by the ranking of the next 6 players. The topmost voted player will play with players with an odd number and the second most voted player with players with an even number.
-5. The mappool will be made by a special team of mappoolers.
+5. The mappool that will be used is the mappool from the Grand Finals stage.
 6. The event will be a 4 vs 4 match with the following rules:
    - Best-of-15 format (First to 8 points).
    - All the maps are played under FreeMod rules, meaning players are free to pick any of the following mods or a combination of them: NoMod, Hidden, HardRock.
