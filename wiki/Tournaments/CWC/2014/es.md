@@ -411,6 +411,24 @@ Saturday, 17 Mayo 2014:
    - Los capitanes serán notificados en caso de que su equipo haya sido aceptado o rechazado.
 7. Los selectores de mapas no pueden participar como jugadores en el torneo.
 
+### Stage instructions
+
+1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
+   - This might change according to the final amount of teams
+2. All the teams from each group will face each other.
+3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+   - Most matches won.
+   - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
+   - Most maps won.
+   - Have higher `∑{(total score difference) / (maximum score)}`.
+   - Winner of the rematch.
+4. The top 2 teams of each group will move on to the Knock-Out Stages.
+5. Following stages are Knock-Out Stages. This means that the winner moves to the next stage and the losing team gets kicked out of the tournament.
+6. **Winning conditions:**
+   - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+   - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+   - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+
 ### Instrucciones de partidas
 
 1. Un árbitro creará una sala multijugador con 20 minutos de anticipación. Los jugadores deben reunirse en ese periodo.
