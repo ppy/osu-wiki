@@ -68,7 +68,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
    - Reviving and surviving during a beatmap is considered as passing it.
 7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay mechanics.
-8. If a game ends in a draw it will be nullified and the beatmap replayed, herein called a *rematch*.
+8. If a game ends in a draw it will be nullified and the beatmap played again in a rematch.
 9. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
@@ -100,7 +100,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/9902248/95cf/)** to register. 
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-   - **No rank limitations for this tournament.** host have the right to choose several best players to participate in showmatch (showcase by a match) **instead of** the actual tournament for balance issues.
+  - **There are no rank limitations for this tournament.** If there are too many registrants, some of the high-level registrants may be removed from the main tournament and be invited to participate in the showmatch instead.
 3. A list of all successfully registered players will be published after the registration phase, and will then participate in the drafting phase.
 4. Organisers, mappool selectors, and referees must not participate as players in the tournament.
 5. Organisers reserve the right to decline restricted players from participating in the tournament.
@@ -108,17 +108,15 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 ### Drafting phase instructions
 
 1. The host will declare one captain for each team 24 hours before the drafting phase.
-   - drafting order will also be declared by Host.
-   - Captains are selected by player's performance and preference.
-   - Other valid players not belongs to captains , will automaticly joined into a group, wating to join a team, herein called *player pool*.
+   - Drafting order will also be declared by the host.
+   - Captains are selected by performance and preference.
+   - Non-captains will join a group of players waiting to join a team, herein called a "player pool".
 2. Captains decide their team members during the drafting phase.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms. 
 3. There will be a 120-second planning phase before the picking phase starts.
 4. During the picking phase, picks start from in *increasing* order, from the 1st to the 16th captain.
 5. Each captain has 60 seconds to pick one player from the player pool on their turn. 
-   - The picked player will join into the captain's team, then removed from the player pool.
-   - If the captain does not pick an player within 60 seconds, a random player from the remaining player pool will be assigned.
-   - The captain are only allowed to pick one player on their turn.
+   - If the captain does not pick an player within 60 seconds, a random player from the remaining player pool will be assigned to their team.
 6. If the captain picks a player, the pick time still has to elapse before the next captain's turn starts, meaning each phase will take 16 minutes.
 7. After each phase, there is a 60-second break before the next phase starts.
 8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat. 
@@ -161,7 +159,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 4. Each captain must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` starts picking the first beatmap of the match.
    - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap. 
-5. After each pick, the captain may ban one player of the opposite player from playing that beatmap in the match, except in a tiebreaker.
+5. After each pick, the captain may ban one player of the opposing team from playing that beatmap in the match, except in a tiebreaker.
    - Any player can only be banned like this **once** per match.
    - Banning players is optional.
 6. Teams will have 2 minutes to pick or ban a beatmap, 2 minutes to ban an opposing player, and 3 minutes to get ready. If a team takes more time than allotted, the procedures adopted will be as follows:
@@ -181,7 +179,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 1. There will be one mappool for each stage.
    - The whole Regular stage will be seen as a single stage, meaning the same mappool will be used in all matches in the Regular stage.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
-3. All mappool contains 13 beatmaps.
+3. All mappools contain 13 beatmaps.
 4. Each mappool has one tiebreaker.
 5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
