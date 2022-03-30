@@ -5,7 +5,7 @@ tags:
 
 # Nomination Assessment Team
 
-*See also: [BN Evaluations](Evaluations)*
+*See also: [Beatmap Nominator evaluations](Evaluations)*
 
 The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) and ensure the beatmapping side of osu! stays functional.
 

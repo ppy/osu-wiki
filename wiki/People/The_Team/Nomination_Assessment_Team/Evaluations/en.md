@@ -12,7 +12,7 @@ References to Discord in this article pertain to the BN Discord server, which ha
 
 ## Beatmap Nominator applications
 
-Every application submitted to the NAT website that passes the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) will be reviewed by NAT members to determine whether or not the applicant can enter the Beatmap Nominator group.  For more information on how to apply, please see [Becoming a Beatmap Nominator](/wiki/en/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).
+Every application submitted to the NAT website that passes the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) will be reviewed by NAT members to determine whether or not the applicant can enter the Beatmap Nominator group. For more information on how to apply, please see [Becoming a Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).
 
 ### Process
 
@@ -40,7 +40,7 @@ Once consensus is reached and feedback is written, NAT members will review the f
 
 Every BN is reviewed regularly by members of the NAT. 
 
-For Nominators on [probation](/wiki/en/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators), or that have been issued an [activity](/wiki/en/People/The_Team/Beatmap_Nominators/Rules#activity) warning, their next evaluation will be scheduled for roughly 1 month after being placed on probation or receiving their warning.
+For Nominators on [probation](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators), or that have been issued an [activity](/wiki/People/The_Team/Beatmap_Nominators/Rules#activity) warning, their next evaluation will be scheduled for roughly 1 month after being placed on probation or receiving their warning.
 
 For full Beatmap Nominators without recent warnings, their evaluations will be scheduled to occur every 3 months.
 
@@ -50,7 +50,7 @@ Just like applications, current BN evaluations are randomly assigned 3 NAT membe
 
 ### Individual phase
 
-The individual phase will show on the BN website 2 weeks before it is due, letting NAT members know what evaluations are upcoming to aid them in managing their workload appropriately. During the individual phase, NAT members can submit their evaluations on the Beatmap Nominator's performance. These evaluations will account for the BN's nominations, any nomination resets that happened on their nominations, as well as check on the BN's overall modding across a sample of their nominated maps. NAT members will also be checking for whether the BN is following the [Beatmap Nominator rules](/wiki/en/People/The_Team/Beatmap_Nominators/Rules) and [expectations](/wiki/en/People/The_Team/Beatmap_Nominators/Expectations) appropriately.
+The individual phase will show on the BN website 2 weeks before it is due, letting NAT members know what evaluations are upcoming to aid them in managing their workload appropriately. During the individual phase, NAT members can submit their evaluations on the Beatmap Nominator's performance. These evaluations will account for the BN's nominations, any nomination resets that happened on their nominations, as well as check on the BN's overall modding across a sample of their nominated maps. NAT members will also be checking for whether the BN is following the [Beatmap Nominator rules](/wiki/People/The_Team/Beatmap_Nominators/Rules) and [expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) appropriately.
 
 ### Group phase
 
