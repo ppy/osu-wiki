@@ -9,7 +9,7 @@ tags:
 
 ![RGTS 2021 logo](img/logo.jpg)
 
-The **Rising Global Taiko Showdown 2021** (***RGTS 2021***) was a worldwide double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172) ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), and ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958). Only players ranked between #1,000 and #4,500 could participate. It was the first instalment of the Rising Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Rising Global Taiko Showdown 2021** (***RGTS 2021***) was a worldwide double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), and ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958). Only players ranked between #1,000 and #4,500 could participate. It was the first instalment of the Rising Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
