@@ -38,21 +38,21 @@ La **osu! Catch the Beat World Cup 2014** estuvo a cargo de varios miembros de l
 
 | Cargo | Miembro(s) |
 | :-- | :-- |
-| Administración | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
-| Selección de mapas | ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [Drafura](https://osu.ppy.sh/users/326099) |
-| Transmisión en vivo | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Comentaristas | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) // ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) // ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/users/2107523) |
+| Administración | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
+| Selección de mapas | ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [Drafura](https://osu.ppy.sh/users/326099) |
+| Transmisión en vivo | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Comentaristas | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335), ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/users/2107523) |
 | Estadísticas | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Enlaces
 
-- [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive)
-- [Forma de registro](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
 - [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/200185)
+- [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive)
+- **[Hoja de estadísticas](https://tournaments.hiroto.eu/results/view/1)**
 
 ## Participantes
 
-|  | Pais | Members |
+|  | Pais | Miembros |
 | --: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[NightWar](https://osu.ppy.sh/users/1209167)**, [Gundisalv](https://osu.ppy.sh/users/1160340), [Litooo](https://osu.ppy.sh/users/1170107), [musicguy007](https://osu.ppy.sh/users/2159777) |
 | ![][flag_AT] | **Austria** | **[\[ K a z u \]](https://osu.ppy.sh/users/1902480)**, [Raaban](https://osu.ppy.sh/users/1569025), [xXMarcelXx](https://osu.ppy.sh/users/2355698), [Zuyanta](https://osu.ppy.sh/users/2772759) |
@@ -104,9 +104,9 @@ La competición ha concluido con el siguiente podio:
 
 | Lugar | País |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **Corea del Sur** |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DE] **Alemania** |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SE] **Suecia** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **Corea del Sur** (**[Spectator](https://osu.ppy.sh/users/702598)**, [dae6254](https://osu.ppy.sh/users/563262), [Frobe](https://osu.ppy.sh/users/670365), [Kuzino](https://osu.ppy.sh/users/158552), [Last Bubble](https://osu.ppy.sh/users/1302259)) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DE] **Alemania** (**[DeathXHunter](https://osu.ppy.sh/users/405326)**, [NoteKuroi](https://osu.ppy.sh/users/186642), [Nyan-Zapo](https://osu.ppy.sh/users/480676)) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SE] **Suecia** (**[Yukiteru Amano](https://osu.ppy.sh/users/1894511)**, [-Airi-](https://osu.ppy.sh/users/2546340), [Negri\_sk](https://osu.ppy.sh/users/2231396), [Suzuki](https://osu.ppy.sh/users/2960209), [Walterx8](https://osu.ppy.sh/users/1993041)) |
 
 ## Mapas usados en el torneo (Mappools)
 
