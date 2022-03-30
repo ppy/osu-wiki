@@ -6,6 +6,7 @@ tags:
   - alt
   - play style
   - Tastatur
+  - tippen
   - Spielstil
 ---
 
