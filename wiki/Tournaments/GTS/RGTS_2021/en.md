@@ -492,7 +492,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 3. Players must join the Discord server of the tournament to actually be counted as a player.
 4. Players sign up individually. When their registration is accepted, they will get a player role with their respective country.
 5. osu! staff can refuse players from participating in the tournament if their skill is deemed much higher than the targeted rank range.
-6. In this iteration, 2 teams for a country may be allowed under certain conditions:
+6. 2 teams for a country may be allowed under certain conditions:
    - There are **7 or more players** signed up for a country.
    - Each team has to have **at least 3 players**.
 7. Teams are otherwise assembled in the following way:
@@ -587,7 +587,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 2. 12 players will participate in this event. They will be decided by a vote.
 3. If there are more than 2 players from a country in the top 12 most voted players, only the 2 best will partake in All Stars.
 4. The top 2 players will be captains of each team. Their teammates will be decided by the ranking of the next 6 players. The topmost voted player will play with players with an odd number and the second most voted player with players with an even number.
-5. The mappool that will be used is the mappool from the Grand Finals stage.
+5. The mappool is the same as the one in Grand Finals.
 6. The event will be a 4 vs 4 match with the following rules:
    - Best-of-15 format (First to 8 points).
    - All the maps are played under FreeMod rules, meaning players are free to pick any of the following mods or a combination of them: NoMod, Hidden, HardRock.
