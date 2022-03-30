@@ -52,12 +52,12 @@ La **osu! Catch the Beat World Cup 2014** estuvo a cargo de varios miembros de l
 
 ## Participantes
 
-|  | Pais | Miembros |
+|  | País | Miembros |
 | --: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[NightWar](https://osu.ppy.sh/users/1209167)**, [Gundisalv](https://osu.ppy.sh/users/1160340), [Litooo](https://osu.ppy.sh/users/1170107), [musicguy007](https://osu.ppy.sh/users/2159777) |
 | ![][flag_AT] | **Austria** | **[\[ K a z u \]](https://osu.ppy.sh/users/1902480)**, [Raaban](https://osu.ppy.sh/users/1569025), [xXMarcelXx](https://osu.ppy.sh/users/2355698), [Zuyanta](https://osu.ppy.sh/users/2772759) |
 | ![][flag_BO] | **Bolivia** | **[donjuan\_217](https://osu.ppy.sh/users/2169426)**, [brian\_rqc](https://osu.ppy.sh/users/3710738), [gakupoXD](https://osu.ppy.sh/users/871103), [Zen Youkai](https://osu.ppy.sh/users/3364257) |
-| ![][flag_CA] | **Canada** | **[Kitokofox](https://osu.ppy.sh/users/1815420)**, [Kitsunemimi](https://osu.ppy.sh/users/100037), [Sumaki](https://osu.ppy.sh/users/207916) |
+| ![][flag_CA] | **Canadá** | **[Kitokofox](https://osu.ppy.sh/users/1815420)**, [Kitsunemimi](https://osu.ppy.sh/users/100037), [Sumaki](https://osu.ppy.sh/users/207916) |
 | ![][flag_CL] | **Chile** | *disuelto* |
 | ![][flag_CN] | **China** | **[Dusk](https://osu.ppy.sh/users/533210)**, [hy1hy1hy](https://osu.ppy.sh/users/243877), [Ibuki Suika](https://osu.ppy.sh/users/290249), [MisakaMikoto](https://osu.ppy.sh/users/434917) |
 | ![][flag_HR] | **Croacia** | **[Meikyuuiri Tsumi](https://osu.ppy.sh/users/404314)**, [Animewolf](https://osu.ppy.sh/users/949513), [TinTin](https://osu.ppy.sh/users/2227976) |
@@ -286,89 +286,89 @@ La competición ha concluido con el siguiente podio:
 
 ### Finales
 
-Sunday, 15 Junio 2014:
+Domingo, 15 Junio 2014:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Enlace de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | **Suecia** ![][flag_SE] | **6** | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/7314303) |
 | Germany ![][flag_DE] | 3 | **6** | ![][flag_KR] **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/7317343) |
 
 ### Semifinales
 
-Sunday, 8 Junio 2014:
+Domingo, 8 Junio 2014:
 
-| Equipo 1 |  |  | Equipo 2 | Enlade de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlace de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | Suecia ![][flag_SE] | 2 | **6** | ![][flag_KR] **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/7127415) |
-| **Germany** ![][flag_DE] | **6** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/7128373) |
+| **Alemania** ![][flag_DE] | **6** | 1 | ![][flag_JP] Japón| [#1](https://osu.ppy.sh/community/matches/7128373) |
 
 ### Cuartos de final
 
-Sunday, 1 Junio 2014:
+Domingo, 1 Junio 2014:
 
-| Equipo 1 |  |  | Equipo 2 | Enlade de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlace de la partida |
 | --: | :-: | :-: | :-- | :-- |
-| Finland ![][flag_FI] | 4 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/6972405) |
+| Finlandia ![][flag_FI] | 4 | **5** | ![][flag_JP] **Japón** | [#1](https://osu.ppy.sh/community/matches/6972405) |
 | **Corea del Sur** ![][flag_KR] | **5** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/6974337) |
-| **Sweden** ![][flag_SE] | **5** | 4 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/6975640) |
-| United States ![][flag_US] | 1 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/6977532) |
+| **Suecia** ![][flag_SE] | **5** | 4 | ![][flag_SG] Singapur | [#1](https://osu.ppy.sh/community/matches/6975640) |
+| Estados Unidos ![][flag_US] | 1 | **5** | ![][flag_DE] **Alemania** | [#1](https://osu.ppy.sh/community/matches/6977532) |
 
 ### Octavos de final
 
 Saturday, 24 Mayo 2014:
 
-| Equipo 1 |  |  | Equipo 2 | Enlade de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlace de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | Reino Unido ![][flag_GB] | 0 | **5** | ![][flag_FI] **Finlandia** | [#1](https://osu.ppy.sh/community/matches/6808334) |
 | **Suecia** ![][flag_SE] | **5** | 0 | ![][flag_MY] Malasia | [#1](https://osu.ppy.sh/community/matches/6808918) |
-| Espana ![][flag_ES] | 2 | **5** | ![][flag_SG] **Singapur** | [#1](https://osu.ppy.sh/community/matches/6810811) |
-| **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/6835441) |
+| España ![][flag_ES] | 2 | **5** | ![][flag_SG] **Singapur** | [#1](https://osu.ppy.sh/community/matches/6810811) |
+| **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_TH] Tailandia | [#1](https://osu.ppy.sh/community/matches/6835441) |
 | **Corea del Sur** ![][flag_KR] | **5** | 1 | ![][flag_PL] Polonia | [#1](https://osu.ppy.sh/community/matches/6837116) |
 | Hong Kong ![][flag_HK] | 1 | **5** | ![][flag_DE] **Alemania** | [#1](https://osu.ppy.sh/community/matches/6838919) |
-| **Japon** ![][flag_JP] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/6840792) |
+| **Japón** ![][flag_JP] | **5** | 1 | ![][flag_MX] México | [#1](https://osu.ppy.sh/community/matches/6840792) |
 | **Estados Unidos** ![][flag_US] | **5** | 4 | ![][flag_UY] Uruguay | [#1](https://osu.ppy.sh/community/matches/6842138) |
 
 ### Fase de grupos
 
 Saturday, 17 Mayo 2014:
 
-| Equipo 1 |  |  | Equipo 2 | Enlade de la partida |
+| Equipo 1 |  |  | Equipo 2 | Enlace de la partida |
 | --: | :-: | :-: | :-- | :-- |
-| Austria ![][flag_AT] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/6655525) |
-| **South Korea** ![][flag_KR] | **4** | 0 | Bolivia ![][flag_BO] | [#1](https://osu.ppy.sh/community/matches/6655395) |
+| Austria ![][flag_AT] | 0 | **4** | ![][flag_JP] **Japón** | [#1](https://osu.ppy.sh/community/matches/6655525) |
+| **Corea del Sur** ![][flag_KR] | **4** | 0 | Bolivia ![][flag_BO] | [#1](https://osu.ppy.sh/community/matches/6655395) |
 | China ![][flag_CN] | 0 | **4** | **Uruguay** ![][flag_UY] | *win by default* |
-| Thailand ![][flag_TH] | 0 | **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/6653614) |
-| United Kingdom ![][flag_GB] | 0 | **4** | **Thailand** ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/6657824) |
-| **Taiwan** ![][flag_TW] | **4** | 2 | Singapore ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6657864) |
+| Tailandia ![][flag_TH] | 0 | **4** | **Estados Unidos** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/6653614) |
+| Reino Unido ![][flag_GB] | 0 | **4** | **Tailandia** ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/6657824) |
+| **Taiwán** ![][flag_TW] | **4** | 2 | Singapur ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6657864) |
 | Argentina ![][flag_AR] | 0 | **4** | **Indonesia** ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6657850) |
-| **Poland** ![][flag_PL] | **4** | 0 | Estonia ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/6657969) |
-| Denmark ![][flag_DK] | 0 | **4** | **Sweden** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/6658911) |
-| **Netherlands** ![][flag_NL] | **4** | 2 | Norway ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/6658927) |
+| **Polonia** ![][flag_PL] | **4** | 0 | Estonia ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/6657969) |
+| Dinamarca ![][flag_DK] | 0 | **4** | **Suecia** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/6658911) |
+| **Países Bajos** ![][flag_NL] | **4** | 2 | Noruega ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/6658927) |
 | **Germany** ![][flag_DE] | **4** | 0 | Bolivia ![][flag_BO] | *win by default* |
-| **Spain** ![][flag_ES] | **4** | 0 | Finland ![][flag_FI] | [#1](https://osu.ppy.sh/community/matches/6659024) |
-| **Germany** ![][flag_DE] | **4** | 1 | Canada ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/6662031) |
-| **Spain** ![][flag_ES] | **4** | 0 | Croatia ![][flag_HR] | [#1](https://osu.ppy.sh/community/matches/6661946) |
-| Mexico ![][flag_MX] | 1 | **4** | **Sweden** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/6662038) |
+| **España** ![][flag_ES] | **4** | 0 | Finlandia ![][flag_FI] | [#1](https://osu.ppy.sh/community/matches/6659024) |
+| **Alemania** ![][flag_DE] | **4** | 1 | Canadá ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/6662031) |
+| **España** ![][flag_ES] | **4** | 0 | Croacia ![][flag_HR] | [#1](https://osu.ppy.sh/community/matches/6661946) |
+| México ![][flag_MX] | 1 | **4** | **Suecia** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/6662038) |
 | Argentina ![][flag_AR] | 0 | **4** | **Uruguay** ![][flag_UY] | [#1](https://osu.ppy.sh/community/matches/6662109) |
-| United Kingdom ![][flag_GB] | 0 | **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/6667279) |
-| **Mexico** ![][flag_MX] | **4** | 0 | New Zealand ![][flag_NZ] | [#1](https://osu.ppy.sh/community/matches/6667239) |
-| **Canada** ![][flag_CA] | **4** | 0 | Bolivia ![][flag_BO] | *win by default* |
-| **South Korea** ![][flag_KR] | **4** | 2 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6680444) |
+| Reino Unido ![][flag_GB] | 0 | **4** | **Estados Unidos** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/6667279) |
+| **México** ![][flag_MX] | **4** | 0 | Nueva Zelanda ![][flag_NZ] | [#1](https://osu.ppy.sh/community/matches/6667239) |
+| **Canadá** ![][flag_CA] | **4** | 0 | Bolivia ![][flag_BO] | *win by default* |
+| **Corea del Sur** ![][flag_KR] | **4** | 2 | Alemania ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6680444) |
 | **China** ![][flag_CN] | **4** | 3 | Indonesia ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6680664) |
-| New Zealand ![][flag_NZ] | 0 | **4** | **Sweden** ![][flag_SE] | *win by default* |
-| Malaysia ![][flag_MY] | 1 | **4** | **Japan** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6681641) |
-| Denmark ![][flag_DK] | 0 | 0 | New Zealand ![][flag_NZ] | *nullified* |
-| **Taiwan** ![][flag_TW] | **4** | 0 | Netherlands ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/6681780) |
+| Nueva Zelanda ![][flag_NZ] | 0 | **4** | **Suecia** ![][flag_SE] | *win by default* |
+| Malasia ![][flag_MY] | 1 | **4** | **Japón** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6681641) |
+| Dinamarca ![][flag_DK] | 0 | 0 | Nueva Zelanda ![][flag_NZ] | *nullified* |
+| **Taiwán** ![][flag_TW] | **4** | 0 | Países Bajos ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/6681780) |
 | **Indonesia** ![][flag_ID] | **4** | 0 | Uruguay ![][flag_UY] | [#1](https://osu.ppy.sh/community/matches/6682737) |
-| **Hong Kong** ![][flag_HK] | **4** | 3 | Poland ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/6682744) |
-| **Singapore** ![][flag_SG] | **4** | 2 | Norway ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/6682800) |
-| **Taiwan** ![][flag_TW] | **4** | 2 | Norway ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/6683945) |
-| Austria ![][flag_AT] | 0 | **4** | **Malaysia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/6683957) |
-| Argentina ![][flag_AR] | 0 | **4** | **Canada** ![][flag_CA] | *win by default* |
-| **South Korea** ![][flag_KR] | **4** | 0 | Canada ![][flag_CA] | *win by default* |
-| **Finland** ![][flag_FI] | **4** | 0 | Croatia ![][flag_HR] | [#1](https://osu.ppy.sh/community/matches/6685074) |
+| **Hong Kong** ![][flag_HK] | **4** | 3 | Polonia ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/6682744) |
+| **Singapur** ![][flag_SG] | **4** | 2 | Noruega ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/6682800) |
+| **Taiwán** ![][flag_TW] | **4** | 2 | Noruega ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/6683945) |
+| Austria ![][flag_AT] | 0 | **4** | **Malasia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/6683957) |
+| Argentina ![][flag_AR] | 0 | **4** | **Canadá** ![][flag_CA] | *win by default* |
+| **Corea del Sur** ![][flag_KR] | **4** | 0 | Canadá ![][flag_CA] | *win by default* |
+| **Finlandia** ![][flag_FI] | **4** | 0 | Croacia ![][flag_HR] | [#1](https://osu.ppy.sh/community/matches/6685074) |
 | Netherlands ![][flag_NL] | 1 | **4** | **Singapore** ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6685076) |
-| **Mexico** ![][flag_MX] | **4** | 0 | Denmark ![][flag_DK] | *win by default* |
+| **México** ![][flag_MX] | **4** | 0 | Denmark ![][flag_DK] | *win by default* |
 | **Hong Kong** ![][flag_HK] | **4** | 0 | Estonia ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/6685082) |
 
 ## Reglamento
@@ -376,7 +376,7 @@ Saturday, 17 Mayo 2014:
 ### Reglas del torneo
 
 1. La osu! Catch the Beat World Cup es un torneo por países en equipos de 3v3.
-2. Los mapas de cada ronda serán anunciados por el selector de mapas con anticipación el domingo anterior a la fecha en la que los partidos tengan lugar. Solo esos mapas serán usados durante los respectivos partidos.
+2. Los mapas de cada ronda serán anunciados por el selector de mapas con anticipación el domingo anterior a la fecha en la que los partidos tengan lugar. Solo estos mapas serán usados durante los respectivos partidos.
    - Un mapa será dado como desempate (o *tiebreaker*). Este mapa será jugado solo en caso de un empate.
    - Habrá también mapas para [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) y FreeMod.
 3. El programa de partidos será establecido por la organización del torneo (ver abajo).
@@ -406,7 +406,7 @@ Saturday, 17 Mayo 2014:
    - Recibirás una confirmación en caso de que tu registro haya sido enviado exitosamente. Tu registro queda pendiente entonces.
 4. Para asegurarse de que los registros son válidos y serios, cada uno será controlado por la organización del torneo.
 5. La cantidad total de equipos es de 32.
-   - Dependiendo en la cantidad de registros, el total de equipos podría cambiar.
+   - Dependiendo de la cantidad de registros, el total de equipos podría cambiar.
 6. Todos los equipos registrados exitosamente serán publicados después de la fase de inscripción.
    - Los capitanes serán notificados en caso de que su equipo haya sido aceptado o rechazado.
 7. Los selectores de mapas no pueden participar como jugadores en el torneo.
@@ -418,7 +418,7 @@ Saturday, 17 Mayo 2014:
    2. La configuración de la sala será: Catch the Beat, Equipo-Vs., Win Condition: 'Score '. El nombre debe ser "CtB World Cup 2014: EquipoBlue vs EquipoRed"
    3. El primer equipo en el nombre de la sala será el azul, el otro equipo, el rojo.
 2. Los jugadores son libres de elegir los dos mapas de calentamiento.
-3. La elección de mapas se alternará entre cada capitán seleccionando un mapa del mappool. Cada capitán debe usar `!roll` en `#multiplayer` para determinar que equipo elige primero.
+3. La elección de mapas se alternará entre cada capitán seleccionando un mapa del mappool. Cada capitán debe usar `!roll` en `#multiplayer` para determinar qué equipo elige primero.
    1. Los capitanes pueden elegir mapas NoMod y FreeMod libremente.
    2. La elección de mapas de mod específico es limitada. Cada capitán puede elegir solo un mapa de cada mod durante el partido.
       1. La elección de mapas FreeMod es ilimitada.
@@ -445,7 +445,7 @@ Saturday, 17 Mayo 2014:
     - 3 en la fase de grupos
     - 4 en la fase de eliminación directa
 
-### Instrucciones de programacion
+### Instrucciones de programación
 
 1. Cada ronda se llevará a cabo en **un fin de semana**.
 2. Los partidos de la fase de grupos pueden superponerse.
@@ -471,7 +471,7 @@ Saturday, 17 Mayo 2014:
 [flag_HR]: /wiki/shared/flag/HR.gif "Croacia"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japón"
-[flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corea del Sur"
 [flag_MX]: /wiki/shared/flag/MX.gif "México"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malasia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
