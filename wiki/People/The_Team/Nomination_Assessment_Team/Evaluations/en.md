@@ -13,7 +13,7 @@ References to Discord in this article pertain to the BN Discord server, which is
 
 ## Beatmap Nominator Applications
 
-Every application submitted to the NAT website that passes the RC Test will be reviewed by NAT members to determine whether or not the applicant can enter the Beatmap Nominator group.  For more information on how to apply, please see [Becoming a Beatmap Nominator](/wiki/en/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).
+Every application submitted to the NAT website that passes the [Beatmap Nominator Test](wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) will be reviewed by NAT members to determine whether or not the applicant can enter the Beatmap Nominator group.  For more information on how to apply, please see [Becoming a Beatmap Nominator](/wiki/en/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).
 
 ### Process
 
