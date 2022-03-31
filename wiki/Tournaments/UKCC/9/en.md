@@ -511,7 +511,7 @@ Top 10 qualification results:
 
 | Placing | Player | Total score | Average score |
 | --: | :-- | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [Doomsday](https://osu.ppy.sh/users/18983) | 8,738,273 | 899,539 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 8,738,273 | 899,539 |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | 8,584,021 | 881,695 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) | 8,468,289 | 871,624 |
 | *4th place* | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) | 8,191,791 | 843,249 |
@@ -535,7 +535,7 @@ Top 10 qualification results:
 - All staff (apart from the hosts, mappool selectors and referees) are allowed to participate in the tournament.
 - All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the Discord server or during matches (this includes homophobia, racism, and toxicity) will result in a **ban** and the offending player will be **blacklisted** from participating in future UKCC tournaments.
 - ***Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.***
-- Players are **required** to join the public Discord server so that they are contactable by other players and staff. If a player can't be contacted or is not responding to messages through Discord, in-game messages, or forum PMs, contact the staff.
+- Players are **required** to join the public Discord server so that they are contactable by other players and staff. If a player cannot be contacted or is not responding to messages through Discord, in-game messages, or forum PMs, contact the staff.
 - Mappools are to be released the Monday before a stage is due to happen.
 
 ### Reschedules
@@ -559,9 +559,9 @@ Top 10 qualification results:
 - Players will play each map in the Qualifiers mappool once.
 - There will be 3 NoMod, 2 Hidden, 2 Hard Rock and 2 Double Time maps.
 - The mappool will be played in the order: NM3, HD2, NM1, HD1, HR2, DT2, NM2, HR1, DT1.
-- The top 32 scores will progress into the group stage.
+- The top 32 scores will progress into the Group stage.
 
-### Group Stage
+### Group stage
 
 - The top 32 scores from qualifiers will be seeded into Top, High, Mid, and Low seeds. They will then be randomly placed into 8 groups of 4 players.
 - The top 2 players from each group will make it into the double-elimination bracket stage.
@@ -572,8 +572,8 @@ Top 10 qualification results:
 
 ### Banning
 
-- From the Group Stage onwards players will have **two** bans.
-- In the Group Stage and Round of 16, players cannot ban twice from the same mod pool (excluding the NoMod pool).
+- From the Group stage onwards players will have **two** bans.
+- In the Group stage and Round of 16, players cannot ban twice from the same mod pool (excluding the NoMod pool).
 - Players have **2 minutes** to ban a map. Failure to ban a map within this time limit results in a lost ban.
 
 ### Warmups
@@ -585,7 +585,7 @@ Top 10 qualification results:
 - Players have **90 seconds** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing player.
 - For FreeMod picks, players must select any combination of the following mods: **Hidden or Hard Rock**.
 - Failed scores will count.
-- Tiebreakers are FreeMod, however NoMod can be used.
+- Tiebreakers are FreeMod, but NoMod can also be used.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
