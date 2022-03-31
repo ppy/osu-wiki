@@ -52,14 +52,14 @@ The Squad Global Taiko Showdown 2021 was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1324349)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1471607)
 - [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com/2021/SGTS)
+- [GTS website](https://gtsosu.com/2021/sgts/home)
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
-- [Challonge bracket](https://challonge.com/SGTS2021)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/64) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Challonge bracket](https://challonge.com/SGTS2022)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/78) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
