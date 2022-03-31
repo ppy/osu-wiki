@@ -411,23 +411,22 @@ Saturday, 17 Mayo 2014:
    - Los capitanes serán notificados en caso de que su equipo haya sido aceptado o rechazado.
 7. Los selectores de mapas no pueden participar como jugadores en el torneo.
 
-### Stage instructions
+### Instrucciones de etapas
 
-1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
-   - This might change according to the final amount of teams
-2. All the teams from each group will face each other.
-3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-   - Most matches won.
-   - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
-   - Most maps won.
-   - Have higher `∑{(total score difference) / (maximum score)}`.
-   - Winner of the rematch.
-4. The top 2 teams of each group will move on to the Knock-Out Stages.
-5. Following stages are Knock-Out Stages. This means that the winner moves to the next stage and the losing team gets kicked out of the tournament.
-6. **Winning conditions:**
-   - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-   - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
-   - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+1. En la primera etapa (Fase de grupos), los equipos serán divididos en 8 grupos de 4 equipos.
+   - Esto podría cambiar de acorde con la cantidad final de equipos
+2. Todos los equipos de cada grupo se enfrentarán entre ellos.
+3. Las posiciones de cada grupo se determinan clasificando los resultados del desempeño de cada equipo en la siguiente prioridad:
+   - Tiene mayoría de `{(número de mapas victoriosos) - (el número de mapas derrotados)}`.
+   - Cantidad de mapas victoriosos.
+   - Tienen mayor `∑{(diferencia de puntaje total) / (máximo puntaje)}`.
+   - Ganador de la revancha.
+4. Los 2 mejores equipos de cada grupo avanzan a la fase 'Knock-Out' .
+5. Las siguientes fases son consideradas 'Knock-Out'. Esto significa que el ganador avanza a la siguiente fase y el equipo perdedor queda eliminado del torneo.
+6. **Condiciones de victoria:**
+   - En la fase de grupos, necesitarás ganar 4 mapas para resultar victorioso en el encuentro. (Mejor-de-7)
+   - En los octavos de final y los cuartos de final, necesitarás ganar 5 mapas para resultar victorioso en el encuentro. (Mejor-de-9)
+   - En las semifinales y las finales, necesitarás ganar 6 mapas para resultar victorioso en el encuentro. (Mejor-de-11)
 
 ### Instrucciones de partidas
 
