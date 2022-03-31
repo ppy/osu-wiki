@@ -315,7 +315,7 @@ Domingo, 1 Junio 2014:
 
 ### Octavos de final
 
-Saturday, 24 Mayo 2014:
+Sábado, 24 Mayo 2014:
 
 | Equipo 1 |  |  | Equipo 2 | Enlace de la partida |
 | --: | :-: | :-: | :-- | :-- |
@@ -330,7 +330,7 @@ Saturday, 24 Mayo 2014:
 
 ### Fase de grupos
 
-Saturday, 17 Mayo 2014:
+Sábado, 17 Mayo 2014:
 
 | Equipo 1 |  |  | Equipo 2 | Enlace de la partida |
 | --: | :-: | :-: | :-- | :-- |
