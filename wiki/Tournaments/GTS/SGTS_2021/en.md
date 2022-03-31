@@ -199,7 +199,7 @@ Saturday, 22 January 2022:
 | **idk** | **5** | 0 | Congrats syaron's team for winning SGTS | [#1](https://osu.ppy.sh/community/matches/96836658) |
 | **Super idol 的笑容和 105 度水** | **5** | 1 | Fatherland Community | [#1](https://osu.ppy.sh/community/matches/96836485) |
 | PegNog | 4 | **5** | **Mugi's Harem** | [#1](https://osu.ppy.sh/community/matches/96836793) |
-| Pelotones homosexuales MX:tm: | 0 | **5** | **嘉心糖** | [#1](Kasumi-sama 越过篱笆 165.208.64.194 KFC	) |
+| Pelotones homosexuales MX:tm: | 0 | **5** | **嘉心糖** | [#1](Kasumi-sama 越过篱笆 165.208.64.194 KFC) |
 | The East Asian Taiko Council | 2 | **5** | **Kasumi-sama 越过篱笆 165.208.64.194 KFC** | [#1](https://osu.ppy.sh/community/matches/96839667) |
 | Lets Die in SGTS | 1 | **5** | **#hr-chat** | [#1](https://osu.ppy.sh/community/matches/96845222) |
 | 我真的需要睡眠 (I really need sleep.) | 4 | **5** | **Team on and Pumbaa** | [#1](https://osu.ppy.sh/community/matches/96845132) |
@@ -214,7 +214,7 @@ Sunday, 23 January 2022:
 | **Nanamitaly** | **5** | 2 | Psyduck Supremacy | [#1](https://osu.ppy.sh/community/matches/96883091) |
 | **The East Asian Taiko Council** | **5** | 0 | #hr-chat | [#1](https://osu.ppy.sh/community/matches/96884594) |
 | Onii-sama no BAKA!!! | 3 | **5** | **kanjut badag** | [#1](https://osu.ppy.sh/community/matches/96886538) |
-| **Fatherland Community** | **5** | 0 | Federers Toblerone	| [#1](https://osu.ppy.sh/community/matches/96888960) |
+| **Fatherland Community** | **5** | 0 | Federers Toblerone | [#1](https://osu.ppy.sh/community/matches/96888960) |
 | **Congrats syaron's team for winning SGTS** | **5** | 0 | GUNGACOPIUM | [#1](https://osu.ppy.sh/community/matches/96891658) |
 | **PegNog** | **0** | -1 | 嘉心糖 | *win by default* |
 | **ＴＷＣ历届冠军ＣＧＴＳ这些坚果ＡＧＴＳ笨蛋ＩＧＴＳ冰淇淋Ｂｌｅａｒｒｇｈඞ性感的** | **5** | 0 | OSU!TAIKO FURROSPICIO | [#1](https://osu.ppy.sh/community/matches/96894088) |
@@ -383,6 +383,5 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
