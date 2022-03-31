@@ -292,154 +292,133 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### All Stars
-
-Sunday, 25 July 2021:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **cocoa angle** | **8** | 4 | Vulpine Burro | [#1](https://osu.ppy.sh/community/matches/88031675) |
-
 ### Grand Finals
 
-Sunday, 25 July 2021:
+Sunday, 20 February 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Hong Kong ![][flag_HK] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/88023504) |
-| **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/88026216) |
+| **おまかせ** | **7** | 0 | Ham | [#1](https://osu.ppy.sh/community/matches/97993163) |
 
 ### Finals
 
-Sunday, 18 July 2021:
+Saturday, 12 February 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Hong Kong** ![][flag_HK] | **7** | 6 | ![][flag_CN] China A | [#1](https://osu.ppy.sh/community/matches/87599548) |
-| Japan A ![][flag_JP] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/87603526) |
-| China A ![][flag_CN] | -1 | **0** | ![][flag_KR] **South Korea** | *win by default* |
+| **おまかせ** | **7** | 3 | Ham | [#1](https://osu.ppy.sh/community/matches/97693721) |
+| **皇-SUMERAGI-** | **7** | 3 | Super idol 的笑容和 105 度水 | [#1](https://osu.ppy.sh/community/matches/97693671) |
+
+Sunday, 13 February 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ham** | **7** | 2 | 皇-SUMERAGI- | [#1](https://osu.ppy.sh/community/matches/97735363) |
 
 ### Semifinals
 
-Saturday, 10 July 2021:
+Saturday, 5 February 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| United States A ![][flag_US] | 6 | **7** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/87093392) |
-| Philippines ![][flag_PH] | 1 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/87107467) |
-| **China A** ![][flag_CN] | **7** | 5 | ![][flag_MY] Malaysia A | [#1](https://osu.ppy.sh/community/matches/87115316) |
-| Japan A ![][flag_JP] | 4 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/87117895) |
+| **Ham** | **7** | 6 | 皇-SUMERAGI- | [#1](https://osu.ppy.sh/community/matches/97418909) |
+| **おまかせ** | **7** | 3 | Super idol 的笑容和 105 度水 | [#1](https://osu.ppy.sh/community/matches/97419683) |
+| **The East Asian Taiko Council** | **7** | 0 | Mugi's Harem | [#1](https://osu.ppy.sh/community/matches/97421528) |
+| Kasumi-sama 越过篱笆 165.208.64.194 KFC | 0 | **7** | **shinchikuhome voice\* nom nomnom** | [#1](https://osu.ppy.sh/community/matches/97435803) |
 
-Sunday, 11 July 2021:
+Sunday, 6 February 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Malaysia A ![][flag_MY] | 1 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/87164877) |
-| **Japan A** ![][flag_JP] | **7** | 4 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/87180351) |
+| **皇-SUMERAGI-** | **7** | 0 | The East Asian Taiko Council | [#1](https://osu.ppy.sh/community/matches/97462825) |
+| **Super idol 的笑容和 105 度水** | **7** | 2 | shinchikuhome voice\* nom nomnom | [#1](https://osu.ppy.sh/community/matches/97466321) |
 
 ### Quarterfinals
 
-Saturday, 3 July 2021:
+Saturday, 29 January 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Argentina ![][flag_AR] | 2 | **6** | ![][flag_CN] **China A** | [#1](https://osu.ppy.sh/community/matches/86713465) |
-| Russian Federation/Ukraine ![][flag_RU] ![][flag_UA] | 4 | **6** | ![][flag_MY] **Malaysia A** | [#1](https://osu.ppy.sh/community/matches/86713468) |
-| **Hong Kong** ![][flag_HK] | **6** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/86713960) |
-| **Japan A** ![][flag_JP] | **6** | 2 | ![][flag_DE] Germany A | [#1](https://osu.ppy.sh/community/matches/86715841) |
-| **Argentina** ![][flag_AR] | **6** | 2 | ![][flag_SG] Singapore A | [#1](https://osu.ppy.sh/community/matches/86718204) |
+| **おまかせ** | **6** | 0 | Mugi's Harem | [#1](https://osu.ppy.sh/community/matches/97132700) |
+| **The East Asian Taiko Council** | **6** | 0 | Dönerverwöhner | [#1](https://osu.ppy.sh/community/matches/97137477) |
+| **PegNog** | **6** | 0 | Nanamitaly | [#1](https://osu.ppy.sh/community/matches/97137571) |
+| idk | 3 | **6** | **Super idol 的笑容和 105 度水** | [#1](https://osu.ppy.sh/community/matches/97139684) |
+| **皇-SUMERAGI-** | **6** | 1 | Kasumi-sama 越过篱笆 165.208.64.194 KFC | [#1](https://osu.ppy.sh/community/matches/97142073) |
+| **Ham** | **6** | 0 | shinchikuhome voice\* nom nomnom | [#1](https://osu.ppy.sh/community/matches/97147238) |
+| **Fatherland Community** | **6** | 1 | Congrats syaron's team for winning SGTS | [#1](https://osu.ppy.sh/community/matches/97152626) |
 
-Sunday, 4 July 2021:
+Sunday, 30 January 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Philippines** ![][flag_PH] | **6** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/86749565) |
-| Germany A ![][flag_DE] | 1 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/86767994) |
-| Russian Federation/Ukraine ![][flag_RU] ![][flag_UA] | -1 | **0** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/86780591) |
+| ＴＷＣ历届冠军ＣＧＴＳ这些坚果ＡＧＴＳ笨蛋ＩＧＴＳ冰淇淋Ｂｌｅａｒｒｇｈඞ性感的 | 4 | **6** | **kanjut badag** | [#1](https://osu.ppy.sh/community/matches/97175591) |
+| **Mugi's Harem** | **6** | 4 | kanjut badag | [#1](https://osu.ppy.sh/community/matches/97179772) |
+| **Kasumi-sama 越过篱笆 165.208.64.194 KFC** | **6** | 5 | Fatherland Community | [#1](https://osu.ppy.sh/community/matches/97187710) |
+| idk | 4 | **6** | **The East Asian Taiko Council** | [#1](https://osu.ppy.sh/community/matches/97189979) |
+| **shinchikuhome voice\* nom nomnom** | **6** | 0 | PegNog | [#1](https://osu.ppy.sh/community/matches/97194438) |
 
 ### Round of 16
 
-Saturday, 26 June 2021:
+Saturday, 22 January 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **China A** ![][flag_CN] | **6** | 3 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/86282475) |
-| **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_SG] Singapore A | [#1](https://osu.ppy.sh/community/matches/86294269) |
-| **Russian Federation/Ukraine** ![][flag_RU] ![][flag_UA] | **6** | 4 | ![][flag_AU] ![][flag_GU] Australia/Guam | [#1](https://osu.ppy.sh/community/matches/86297694) |
-| **Hong Kong** ![][flag_HK] | **6** | 0 | ![][flag_PL] ![][flag_CZ] Poland/Czech Republic | [#1](https://osu.ppy.sh/community/matches/86305255) |
-| South Korea ![][flag_KR] | 3 | **6** | ![][flag_MY] **Malaysia A** | [#1](https://osu.ppy.sh/community/matches/86305268) |
-| **Japan A** ![][flag_JP] | **6** | 0 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/86307835) |
-| **Germany A** ![][flag_DE] | **6** | 3 | ![][flag_US] United States A | [#1](https://osu.ppy.sh/community/matches/86319437) |
-| **Argentina** ![][flag_AR] | **6** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/86328997) |
-| **Canada** ![][flag_CA] | **6** | 2 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/86335206) |
+| **shinchikuhome voice\* nom nomnom** | **5** | 0 | ＴＷＣ历届冠军ＣＧＴＳ这些坚果ＡＧＴＳ笨蛋ＩＧＴＳ冰淇淋Ｂｌｅａｒｒｇｈඞ性感的 | [#1](https://osu.ppy.sh/community/matches/96815463) |
+| spexo. | 1 | **5** | **Psyduck Supremacy** | [#1](https://osu.ppy.sh/community/matches/96829500) |
+| Failed Sorry | 0 | **5** | **Federers Toblerone** | [#1](https://osu.ppy.sh/community/matches/96831919) |
+| **皇-SUMERAGI-** | **0** | -1 | Dönerverwöhner | *win by default* |
+| **Ham** | **5** | 0 | Onii-sama no BAKA!!! | [#1](https://osu.ppy.sh/community/matches/96833625) |
+| **idk** | **5** | 0 | Congrats syaron's team for winning SGTS | [#1](https://osu.ppy.sh/community/matches/96836658) |
+| **Super idol 的笑容和 105 度水** | **5** | 1 | Fatherland Community | [#1](https://osu.ppy.sh/community/matches/96836485) |
+| PegNog | 4 | **5** | **Mugi's Harem** | [#1](https://osu.ppy.sh/community/matches/96836793) |
+| Pelotones homosexuales MX:tm: | 0 | **5** | **嘉心糖** | [#1](Kasumi-sama 越过篱笆 165.208.64.194 KFC	) |
+| The East Asian Taiko Council | 2 | **5** | **Kasumi-sama 越过篱笆 165.208.64.194 KFC** | [#1](https://osu.ppy.sh/community/matches/96839667) |
+| Lets Die in SGTS | 1 | **5** | **#hr-chat** | [#1](https://osu.ppy.sh/community/matches/96845222) |
+| 我真的需要睡眠 (I really need sleep.) | 4 | **5** | **Team on and Pumbaa** | [#1](https://osu.ppy.sh/community/matches/96845132) |
+| π2dos | 0 | **5** | **kanjut badag** | [#1](https://osu.ppy.sh/community/matches/96848156) |
 
-Sunday, 27 June 2021:
+Sunday, 23 January 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Australia/Guam ![][flag_AU] ![][flag_GU] | 2 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/86349343) |
-| Poland/Czech Republic ![][flag_PL] ![][flag_CZ] | 2 | **6** | ![][flag_SG] **Singapore A** | [#1](https://osu.ppy.sh/community/matches/86356634) |
-| Austria ![][flag_AT] | 1 | **6** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/86319437) |
+| SubMessy and Pleasant Companions | 2 | **5** | **GUNGACOPIUM** | [#1](https://osu.ppy.sh/community/matches/96864979) |
+| **おまかせ** | **5** | 0 | Nanamitaly | [#1](https://osu.ppy.sh/community/matches/96881756) |
+| **Nanamitaly** | **5** | 2 | Psyduck Supremacy | [#1](https://osu.ppy.sh/community/matches/96883091) |
+| **The East Asian Taiko Council** | **5** | 0 | #hr-chat | [#1](https://osu.ppy.sh/community/matches/96884594) |
+| Onii-sama no BAKA!!! | 3 | **5** | **kanjut badag** | [#1](https://osu.ppy.sh/community/matches/96886538) |
+| **Fatherland Community** | **5** | 0 | Federers Toblerone	| [#1](https://osu.ppy.sh/community/matches/96888960) |
+| **Congrats syaron's team for winning SGTS** | **5** | 0 | GUNGACOPIUM | [#1](https://osu.ppy.sh/community/matches/96891658) |
+| **PegNog** | **0** | -1 | 嘉心糖 | *win by default* |
+| **ＴＷＣ历届冠军ＣＧＴＳ这些坚果ＡＧＴＳ笨蛋ＩＧＴＳ冰淇淋Ｂｌｅａｒｒｇｈඞ性感的** | **5** | 0 | OSU!TAIKO FURROSPICIO | [#1](https://osu.ppy.sh/community/matches/96894088) |
+| **Dönerverwöhner** | **5** | 0 | Team on and Pumbaa | [#1](https://osu.ppy.sh/community/matches/96894198) |
 
-### Group stage
+### Round of 32
 
-Saturday, 19 June 2021:
+Saturday, 15 January 2022:
 
-| Group | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| A | New Zealand ![][flag_NZ] | 4 | **5** | ![][flag_MX] **Mexico A** | [#1](https://osu.ppy.sh/community/matches/85849217) |
-| A | Mexico A ![][flag_MX] | 0 | **5** | ![][flag_US] **United States B** | [#1](https://osu.ppy.sh/community/matches/85852346) |
-| B | Singapore B ![][flag_SG] | 0 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/85856521) |
-| C | Colombia ![][flag_CO] | 1 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/85856496) |
-| H | Austria ![][flag_AT] | 4 | **5** | ![][flag_CN] **China A** | [#1](https://osu.ppy.sh/community/matches/85866295) |
-| F | China B ![][flag_CN] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/85868162) |
-| H | Taiwan ![][flag_TW] | 4 | **5** | ![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/85869842) |
-| E | Thailand ![][flag_TH] | 3 | **5** | ![][flag_AU] ![][flag_GU] **Australia/Guam** | [#1](https://osu.ppy.sh/community/matches/85869850) |
-| F | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_PL] ![][flag_CZ] Poland/Czech Republic | [#1](https://osu.ppy.sh/community/matches/85870874) |
-| B | Singapore B ![][flag_SG] | 4 | **5** | ![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/85871692) |
-| E | Thailand ![][flag_TH] | 1 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/85873878) |
-| H | Spain ![][flag_ES] | 0 | **5** | ![][flag_CN] **China A** | [#1](https://osu.ppy.sh/community/matches/85873881) |
-| H | **China A** ![][flag_CN] | **5** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/85875674) |
-| C | **Malaysia A** ![][flag_MY] | **5** | 3 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/85878525) |
-| D | **Russian Federation/Ukraine** ![][flag_RU] ![][flag_UA] | **5** | 2 | ![][flag_MY] Malaysia B | [#1](https://osu.ppy.sh/community/matches/85878538) |
-| B | **Argentina** ![][flag_AR] | **5** | 0 | ![][flag_SG] Singapore B | [#1](https://osu.ppy.sh/community/matches/85881319) |
-| G | **Germany A** ![][flag_DE] | **5** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/85890291) |
-| A | Mexico A ![][flag_MX] | 0 | **5** | ![][flag_JP] **Japan A** | [#1](https://osu.ppy.sh/community/matches/85893394) |
-| C | **Switzerland** ![][flag_CH] | **5** | 3 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/85896935) |
-| F | **Poland/Czech Republic** ![][flag_PL] ![][flag_CZ] | **5** | 1 | ![][flag_IT] Italy A | [#1](https://osu.ppy.sh/community/matches/85897107) |
-| G | **Canada** ![][flag_CA] | **5** | 3 | ![][flag_DE] Germany B | [#1](https://osu.ppy.sh/community/matches/85896958) |
-| B | Norway ![][flag_NO] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/85896945) |
-| A | **Japan A** ![][flag_JP] | **5** | 2 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/85896937) |
-| B | United States A ![][flag_US] | 3 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/85907888) |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Federers Toblerone | 3 | **5** | **Onii-sama no BAKA!!!** | [#1](https://osu.ppy.sh/community/matches/96536303) |
+| **Dönerverwöhner** | **5** | 0 | 嘉心糖 | [#1](https://osu.ppy.sh/community/matches/96536315) |
+| **The East Asian Taiko Council** | **5** | 0 | spexo. | [#1](https://osu.ppy.sh/community/matches/96536191) |
+| **Fatherland Community** | **5** | 4 | kanjut badag | [#1](https://osu.ppy.sh/community/matches/96538656) |
+| **Kasumi-sama 越过篱笆 165.208.64.194 KFC** | **5** | 0 | Psyduck Supremacy | [#1](https://osu.ppy.sh/community/matches/96538524) |
+| **Super idol 的笑容和 105 度水** | **5** | 0 | π2dos | [#1](https://osu.ppy.sh/community/matches/96541095) |
+| **Ham** | **5** | 0 | Failed Sorry | [#1](https://osu.ppy.sh/community/matches/96540619) |
 
-Sunday, 20 June 2021:
+Sunday, 16 January 2022:
 
-| Group | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| C | Colombia ![][flag_CO] | 0 | **5** | ![][flag_MY] **Malaysia A** | [#1](https://osu.ppy.sh/community/matches/85920414) |
-| D | Malaysia B ![][flag_MY] | 0 | **5** | ![][flag_SG] **Singapore A** | [#1](https://osu.ppy.sh/community/matches/85927691) |
-| A | United States B ![][flag_US] | 4 | **5** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/85929489) |
-| C | **Hong Kong** ![][flag_HK] | **5** | 2 | ![][flag_MY] Malaysia A | [#1](https://osu.ppy.sh/community/matches/85930356) |
-| E | **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_AU] ![][flag_GU] Australia/Guam | [#1](https://osu.ppy.sh/community/matches/85933295) |
-| A | New Zealand ![][flag_NZ] | 2 | **5** | ![][flag_JP] **Japan A** | [#1](https://osu.ppy.sh/community/matches/85934770) |
-| D | **Singapore A** ![][flag_SG] | **5** | 1 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/85934993) |
-| E | **Australia/Guam** ![][flag_AU] ![][flag_GU] | **5** | 3 | ![][flag_NL] Netherlands A | [#1](https://osu.ppy.sh/community/matches/85936743) |
-| H | Spain ![][flag_ES] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/85936968) |
-| F | Italy A ![][flag_IT] | 1 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/85938212) |
-| C | Switzerland ![][flag_CH] | 2 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/85938794) |
-| F | China B ![][flag_CN] | 1 | **5** | ![][flag_PL] ![][flag_CZ] **Poland/Czech Republic** | [#1](https://osu.ppy.sh/community/matches/85938958) |
-| D | Malaysia B ![][flag_MY] | 3 | **5** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/85941012) |
-| E | Netherlands A ![][flag_NL] | 1 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/85940994) |
-| D | **Russian Federation/Ukraine** ![][flag_RU] ![][flag_UA] | **5** | 3 | ![][flag_SG] Singapore A | [#1](https://osu.ppy.sh/community/matches/85943534) |
-| F | **Italy A** ![][flag_IT] | **5** | 4 | ![][flag_CN] China B | [#1](https://osu.ppy.sh/community/matches/85943612) |
-| E | **Netherlands A** ![][flag_NL] | **5** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/85946402) |
-| G | France B ![][flag_FR] | 0 | **5** | ![][flag_DE] **Germany A** | [#1](https://osu.ppy.sh/community/matches/85946315) |
-| D | France A ![][flag_FR] | 2 | **5** | ![][flag_RU] ![][flag_UA] **Russian Federation/Ukraine** | [#1](https://osu.ppy.sh/community/matches/85949193) |
-| G | Germany B ![][flag_DE] | 3 | **5** | ![][flag_DE] **Germany A** | [#1](https://osu.ppy.sh/community/matches/85949085) |
-| G | France B ![][flag_FR] | 1 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/85952487) |
-| G | **Germany B** ![][flag_DE] | **5** | 2 | ![][flag_FR] France B | [#1](https://osu.ppy.sh/community/matches/85958031) |
-| B | Norway ![][flag_NO] | 0 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/85958093) |
-| H | **Austria** ![][flag_AT] | **5** | 2 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/85962087) |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **ＴＷＣ历届冠军ＣＧＴＳ这些坚果ＡＧＴＳ笨蛋ＩＧＴＳ冰淇淋Ｂｌｅａｒｒｇｈඞ性感的** | **5** | 1 | GUNGACOPIUM | [#1](https://osu.ppy.sh/community/matches/96564562) |
+| **idk** | **5** | 0 | OSU!TAIKO FURROSPICIO | [#1](https://osu.ppy.sh/community/matches/96566573) |
+| **Roblox voice: \*nom nomnom** | **5** | 0 | SubMessy and Pleasant Companions | [#1](https://osu.ppy.sh/community/matches/96567012) |
+| **皇-SUMERAGI-** | **5** | 0 | Pelotones homosexuales MX:tm: | [#1](https://osu.ppy.sh/community/matches/96570225) |
+| **おまかせ** | **5** | 0 | Lets Die in SGTS | [#1](https://osu.ppy.sh/community/matches/96581177) |
+| **Nanamitaly** | **5** | 3 | #hr-chat | [#1](https://osu.ppy.sh/community/matches/96582585) |
+| **PegNog** | **5** | 1 | 我真的需要睡眠 (I really need sleep.) | [#1](https://osu.ppy.sh/community/matches/96588134) |
+| **Mugi's Harem** | **5** | 1 | Team on and Pumbaa | [#1](https://osu.ppy.sh/community/matches/96590549) |
+| where did the other 3 gamelans go... | -1 | **0** | **Congrats syaron's team for winning SGTS** | *win by default* |
 
 ### Qualifiers
 
