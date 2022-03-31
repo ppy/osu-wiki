@@ -135,9 +135,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[Civil oath](https://osu.ppy.sh/users/3216107)**, [COCOA ANGEL](https://osu.ppy.sh/users/10049161), [Lamery](https://osu.ppy.sh/users/4557972), [Lapina\_87](https://osu.ppy.sh/users/16415779), [RaiRator](https://osu.ppy.sh/users/5054081)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_HK] **Hong Kong** (**[-Storm7-](https://osu.ppy.sh/users/12248285)**, [4399guangguang](https://osu.ppy.sh/users/2499089), [BlackBN](https://osu.ppy.sh/users/6291741), [fanhoho](https://osu.ppy.sh/users/933630), [Irone OSU](https://osu.ppy.sh/users/10678230)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] **China A** (**[WonderMan](https://osu.ppy.sh/users/2221895)**, [betairylia](https://osu.ppy.sh/users/1558839), [DeepMarine](https://osu.ppy.sh/users/21891421), [Edward\_Tsui](https://osu.ppy.sh/users/8609627), [Hynix](https://osu.ppy.sh/users/10507557)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **おまかせ** (![][flag_JP] **[Six b0xes](https://osu.ppy.sh/users/8303357)**, ![][flag_JP] [\_Kan2](https://osu.ppy.sh/users/7160196), ![][flag_JP] [kanten\_07](https://osu.ppy.sh/users/11680357), ![][flag_JP] [kotohira\_06](https://osu.ppy.sh/users/22444525), ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Ham** (![][flag_JP] **[Noko_BSF](https://osu.ppy.sh/users/3811831)**, ![][flag_JP] [ca08](https://osu.ppy.sh/users/8027517), ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196), ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910), ![][flag_JP] [Majimanjiwwwww](https://osu.ppy.sh/users/12337864), ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **皇-SUMERAGI-** (![][flag_JP] **[Eriha](https://osu.ppy.sh/users/16320311)**, ![][flag_JP] [gekiowata](https://osu.ppy.sh/users/8929896), ![][flag_JP] [Grape\_Tea](https://osu.ppy.sh/users/9540073), ![][flag_JP] [H1gu\_mo](https://osu.ppy.sh/users/6876752), ![][flag_JP] [miki308](https://osu.ppy.sh/users/7632508), ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722)) |
 
 ## Mappools
 
