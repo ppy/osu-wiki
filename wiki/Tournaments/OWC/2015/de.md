@@ -477,10 +477,10 @@ Sonntag, 8. November 2015:
 | Finale - Woche 2 | P, Q |
 
 7. **Bedingungen, um zu gewinnen:**
-   - In der Gruppenphase werden 4 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-7)
-   - Im Achtel- und Viertelfinale werden 5 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-9)
-   - Im Halbfinale und im Finale - Woche 1 werden 6 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-11)
-   - In Finale - Woche 2 werden 7 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-13)
+   - In der Gruppenphase werden 4 gewonnene Beatmaps benötigt, um die Partie zu gewinnen. (Best-of-7)
+   - Im Achtel- und Viertelfinale werden 5 gewonnene Beatmaps benötigt, um die Partie zu gewinnen. (Best-of-9)
+   - Im Halbfinale und im Finale - Woche 1 werden 6 gewonnene Beatmaps benötigt, um die Partie zu gewinnen. (Best-of-11)
+   - In Finale - Woche 2 werden 7 gewonnene Beatmaps benötigt, um die Partie zu gewinnen. (Best-of-13)
 
 ### Partieanweisungen
 
