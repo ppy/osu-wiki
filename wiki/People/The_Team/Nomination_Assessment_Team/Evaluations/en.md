@@ -64,7 +64,7 @@ Warnings and being placed on probation due to subpar performance as a full Beatm
 
 ### Activity
 
-Beatmap Nominator activity is checked automatically by the NAT website on the 1st of every month. If it has found that there are nominators not meeting the activity requirements, they will be flagged and posted in their respective mode's NAT channel for NAT members to review by the "bnsite" Discord bot. Review will include whether the BN has posted an absence notice recently, and a double check to ensure the website check is accurate to the BN's activity status. 
+Each Beatmap Nominator's activity is checked automatically by the NAT website on the 1st of every month. If it has found that there are nominators not meeting the activity requirements, they will be flagged and posted in their respective mode's NAT channel for NAT members to review by the "bnsite" Discord bot. Review will include whether the BN has posted an absence notice recently, and a double check to ensure the website check is accurate to the BN's activity status. 
 
 If it is found the BN is indeed not meeting activity, they will be either warned or removed depending on severity. Beatmap Nominators who were removed for activity in this way may apply again in 30 days, provided they have at least 8 mods to show they have come back to being active as a modder again.
 
@@ -78,6 +78,6 @@ Once a consensus for the resignation terms has been reached, the NAT will send t
 
 ### Mock evaluations
 
-In addition to BN evaluations by NAT members, mock evaluations may also be given out to Beatmap Nominators for new BN application evaluations. In mock evaluations, nominators will submit individual evaluations alongside the NAT, but it will not determine the final result for the application unless the NAT evaluators cannot come to their own consensus. For the mock evaluation they participated in, the nominator will be able to read the individual evaluations in an anonymised format once the application is archived.
+In addition to BN evaluations by NAT members, mock evaluations may also be given out to Beatmap Nominators for new BN application evaluations. In mock evaluations, nominators will submit individual evaluations alongside the NAT, but it will not determine the final result for the application unless the NAT evaluators cannot come to their own consensus. While NAT members are obliged to participate in the evaluation process, there are no consequences for nominators who do not fulfill the given assignment. For the mock evaluation they participated in, the nominator will be able to read the individual evaluations in an anonymised format once the application is archived.
 
 Mock evaluations allow the NAT to scout for future NAT members, as well as for Beatmap Nominators to see how the NAT evaluates applications and learn from them if joining the NAT in the future is something they are interested in.
