@@ -113,7 +113,7 @@ Der osu! World Cup 2015 wurde von verschiedenen Mitgliedern der Community organi
 
 **Dieser Mappool wurde während der Finalwoche 1 und der Finalwoche 2 gespielt.**
 
-**[Downloade des Mappacks hier! (206 MB)](https://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar)**
+**[Downloade das Mappack hier! (206 MB)](https://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar)**
 
 - NoMod
   1. [Reol - Asymmetry (Skystar) \[Asphewin's Expert\]](https://osu.ppy.sh/beatmapsets/310499#osu/698249)
@@ -409,13 +409,13 @@ Sonntag, 8. November 2015:
 ### Turnierregeln
 
 1. Der osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier
-2. Map Scoring basiert auf einer neuen Metrik, genannt Score V2. **[Mehr dazu hier! (englisch)](https://osu.ppy.sh/community/forums/topics/375428)**
+2. Die Bewertung von Beatmaps basiert auf einer neuen Metrik, genannt Score V2. **[Mehr dazu hier! (Englisch)](https://osu.ppy.sh/community/forums/topics/375428)**
 3. Die Beatmaps werden von der Mappool-Auswahl für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
-   - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim Punktegleichstand gespielt.
+   - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur bei einem Punktegleichstand gespielt.
 4. Die Zeiten der Partien werden vom Turnier-Management festgelegt (siehe unten).
 5. Wenn kein Schiedsrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 6. Die Ergebnisse von gescheiterten Spielern werden nicht zum Teamergebnis mit angerechnet.
-   - Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
+   - Das Überleben und Wiederbeleben während einer Beatmap wird als Bestehen betrachtet.
 7. Das Benutzen der [visuellen Einstellungen](/wiki/Client/Interface/Visual_settings) ist erlaubt.
 8. Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 9. Wenn ein Spieler die Verbindung verlieren sollte, wird es so gehandhabt, als wäre der Spieler an der Beatmap gescheitert.
@@ -423,19 +423,19 @@ Sonntag, 8. November 2015:
 10. Beatmaps können nicht mehrmals in einer Partie gespielt werden, es sei denn, das vorherige Ergebnis derselben Beatmap war nichtig.
 11. Wenn weniger als 4 Spieler eines Teams anwesend sind, kann die Partie um maximal 10 Minuten verschoben werden.
 12. Das Austauschen von Spielern während der Partie ist erlaubt.
-13. Lag ist kein gültiger Grund, um das Ergebnis einer Beatmap zu nichtigen.
+13. Lag ist kein gültiger Grund, um das Ergebnis einer Beatmap zu annullieren.
 14. Alle Spieler sollen die Partie flüssig und ohne Verzögerungen abhalten. Exzessive Verzögerungen der Partie, welche vom jeweiligen Spieler verursacht werden, können bestraft werden.
 15. Wenn ein Spieler außerhalb der Partien die Verbindung verlieren sollte und das Team keine Alternative zur Verfügung hat, kann die Partie bis zu maximal 10 Minuten verschoben werden.
-16. Alle Spieler und Schiedrichter müssen mit Respekt behandelt werden. Anweisungen von den Schiedsrichtern und Turnier-Management ist Folge zu leisten. Endgültige Entscheidungen können nicht beanstandet werden.
-17. Unterbrechung des Spiels durch unfaires Spielen, Auswählen von unangemessenen Aufwärm-Beatmaps (siehe unten), Beleidigen oder Provozieren von anderen Spielern oder Schiedsrichtern, Verzögern der Partien oder absichtiliches unangemessenes Verhalten wird strengstens bestraft.
-18. Die Multiplayer Chaträume unterliegen den [osu! Community-Regeln](/wiki/Rules). Alle Chat Regeln gelten daher auch für die Multiplayer Chaträume.
-    1. Das Verletzen der Chatregeln führt zu Stummschaltungen. Stummgeschaltene Spieler können nicht an Multiplayerpartien teilnehmen und müssen für die Zwischenzeit ausgewechselt werden.
+16. Alle Spieler und Schiedrichter müssen mit Respekt behandelt werden. Den Anweisungen der Schiedsrichter und des Turnier-Managements ist Folge zu leisten. Endgültige Entscheidungen können nicht beanstandet werden.
+17. Unterbrechung des Spiels durch unfaires Spielen, Auswählen von unangemessenen Aufwärm-Beatmaps (siehe unten), Beleidigen oder Provozieren von anderen Spielern oder Schiedsrichtern, Verzögern der Partien oder absichtliches unangemessenes Verhalten ist strengstens untersagt.
+18. Die Multiplayer-Chaträume unterliegen den [osu! Community-Regeln](/wiki/Rules). Alle Chat-Regeln gelten daher auch für die Multiplayer-Chaträume.
+    1. Das Verletzen der Chat-Regeln führt zu Stummschaltungen. Stummgeschaltete Spieler können nicht an Multiplayerpartien teilnehmen und müssen für die Zwischenzeit ausgewechselt werden.
 19. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg bei 4:0 und +2,5 Score-Unterschiedsverhältnis angesehen.
 20. Unerwartete Vorkommnisse werden vom Turnier-Management behandelt. Die Entscheidung eines Schiedrichters kann vom Turnier-Management überschrieben werden.
 21. Strafen für das Nicht-Einhalten der Turnierregeln können sein:
     - Ausschluss von bestimmten Spielern für eine Beatmap
     - Ausschluss von bestimmten Spielern für eine komplette Partie
-    - Erklärt die Partie als 'Lost by default'
+    - Erklärung der Partie als 'Lost by default'
     - Disqualifikation für das gesamte Turnier
     - Disqualifikation für das derzeitige und zukünftige offiziele Turnier bis zur Anfechtung
 22. Jede Veränderung an den Regeln wird bekannt gegeben.
@@ -444,7 +444,7 @@ Sonntag, 8. November 2015:
 
 1. Die Anmeldung findet individuell statt.
    - Das Turnier-Management wird eine Liste mit potentiellen Kandidaten für das jeweilige Länderteam erstellen.
-   - Das Turnier-Management erklärt einen Kandidaten als Kapitän für sein Landes Team.
+   - Das Turnier-Management erklärt einen Kandidaten als Kapitän für sein Länderteam.
    - Der ausgewählte Kapitän kann ein Team aus einer Liste mit Kandidaten aus dessen Land erstellen.
 2. Um gültige und ernsthafte Anmeldungen zu gewährleisten, wird jede Anmeldung und Veränderung vom Turnier-Management überprüft.
    - Jeder Spieler wird als potenzielles Teammitglied in Betracht gezogen. Die Flagge im Profil ist ausschlaggebend.
@@ -461,12 +461,12 @@ Sonntag, 8. November 2015:
 3. Rankings werden für jede Gruppe durch eine Sortierung von den Ergebnissen anhand der Performance jedes Teams an den folgenden Prioritäten ermittelt:
    - Am meisten gewonnene Partien.
    - Hat ein größeres `{(Anzahl an gewonnenen Maps) - (Anzahl an verlorenen Maps)}`.
-   - Am meisten gewonnene Maps.
-   - Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
+   - Am meisten gewonnene Beatmaps.
+   - Hat ein größeres `∑{(gesamte Ergebnisdifferenz) / (maximales Ergebnis)}`.
    - Gewinner von Rückspielen.
 4. Die besten 2 Teams in der Gruppe kommen in die Doppeleleminierungsetappen.
-5. Die folgenden Etappen sind Doppeleleminierungsetappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
-6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
+5. Die folgenden Etappen sind Doppeleleminierungsetappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe absteigt.
+6. Basierend auf [dieser Grafik](/wiki/shared/stages-visual.png) teilen sich die Etappen wie folgt auf:
 
 | Stage | Match ID |
 | :-- | :-- |
@@ -484,19 +484,19 @@ Sonntag, 8. November 2015:
 
 ### Partieanweisungen
 
-1. Ein Schiedsrichter wird 15 Minuten im Vorhinein ein Multiplayer Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
+1. Ein Schiedsrichter wird 15 Minuten im Vorhinein ein Multiplayer-Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
    - Raumeinstellungen sind osu!, Team-Vs., Gewinnbedingung: 'ScoreV2'. Raumname muss "OWC 2014: TeamBlue vs TeamRed" lauten. (**das kann sich zu einem späteren Zeitpunkt ändern**)
    - Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team dementsprechend dann das rote Team.
-2. Den Spielern steht es frei 2 Beatmaps für die Aufwärmphase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten. Dazu gehört Obszönität, Gewalt, Nacktheit oder andere NSFW Inhalte als visuelle Elemente oder Lied, unabhängig von der Sprache.
+2. Den Spielern steht es frei 2 Beatmaps für die Aufwärmphase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten. Dazu gehören Obszönität, Gewalt, Nacktheit oder andere NSFW Inhalte als visuelle Elemente oder Lied, unabhängig von der Sprache.
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
    - Beide Vetos müssen benutzt werden.
 4. Die Beatmaps werden aus dem jeweiligen Pool abwechselnd von den beiden Kapitänen ausgewählt.
 5. Beide Kapitäne müssen `!roll` einmal im `#multiplayer` benutzen.
-   - Der Gewinner beim `!roll` wählt die zuerst spielende Map der Partie aus.
+   - Der Gewinner beim `!roll` wählt die zuerst gespielte Beatmap der Partie aus.
    - Der Verlierer beim `!roll` beginnt mit dem Bannen von 2 Beatmaps.
 6. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.
-   - Im Falle eines Unentschiedens, muss die Tiebreaker-Map gespielt werden.
-7. Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.
+   - Im Falle eines Unentschiedens, muss die Tiebreaker-Beatmap gespielt werden.
+7. Die Ergebnisse werden per Statistiken auf einer Webseite veröffentlicht.
 
 ### Mappoolanweisungen
 
@@ -504,7 +504,7 @@ Sonntag, 8. November 2015:
    - Finalwoche 1 und Finalwoche 2 verwenden den gleichen Mappool.
 2. Jeder Mappool besteht aus 5 Stapeln: NoMod, HardRock, Hidden, DoubleTime und FreeMod
 3. Jeder Mappool besteht aus 19 Beatmaps.
-4. Jeder Mappool hat eine Tiebreaker-Map.
+4. Jeder Mappool hat eine Tiebreaker-Beatmap.
 5. Der NoMod-Stapel wird ohne aktive Mods gespielt.
 6. Der Hidden-, HardRock- und DoubleTime-Stapel wird mit der entsprechenden, aktivierten Mod gespielt.
 7. Der FreeMod-Stapel schaltet den FreeMod frei. Jeder einzelne Spieler kann dann Hidden, HardRock, Flashlight oder mit gar keiner Mod spielen.
@@ -520,7 +520,7 @@ Sonntag, 8. November 2015:
 1. Jede Etappe wird **einzeln am Wochenende** abgehalten.
 2. Die Partien können sich in der Gruppenphase überlappen.
 3. Alle Doppeleleminierungsetappen finden entweder am Samstag oder am Sonntag UTC+0 statt.
-4. Die Zeiten der Partien werden vom Turnier-Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Das Turnier-Management bemüht sich die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
+4. Die Zeiten der Partien werden vom Turnier-Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Das Turnier-Management bemüht sich, die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
    - In den Phasen Viertelfinale und höher: Bitte informiere die Turnierleitung vor Sonntag, wenn du erwartest, dass ein bestimmtes Zeitfenster in der folgenden Woche nicht zur Verfügung steht. Es wird versucht, den Wünschen nachzukommen, leider können keine Versprechungen gemacht werden.
 5. Eine Umplanung nach Veröffentlichung des Zeitplans im Wiki ist unter keinen Umständen mehr möglich.
 6. Die Kapitäne sind für die Anwesenheit ihrer Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Wenn vom Team keine 4 Spieler anwesend sein sollten, zählt die Partie als aufgegeben.
