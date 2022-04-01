@@ -42,7 +42,7 @@ Der osu! World Cup 2015 wurde von verschiedenen Mitgliedern der Community organi
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Mappool-Auswahl | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
 | Streamer | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
-| Kommentatoren | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AR] [juankristal](https://osu.ppy. sh/users/443656), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538), ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Kommentatoren | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538), ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiker | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links
