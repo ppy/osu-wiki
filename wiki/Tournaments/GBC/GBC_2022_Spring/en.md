@@ -17,7 +17,7 @@ The **GB Cup 2022 Spring** (***GBC 2022 Spring***) was a 3v3 captain draft-based
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2022-03-26/2022-04-02 (23:59 UTC+8) |
-| Drafting phase | 2022-04-03 (21:00 UTC+8) |
+| Drafting phase | 2022-04-03 (19:30 UTC+8) |
 | Regular stage week 1 | 2022-04-09/2022-04-10 |
 | Regular stage week 2 | 2022-04-16/2022-04-17 |
 | Regular stage week 3 | 2022-04-23/2022-04-24 |
@@ -60,7 +60,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | Role | Players |
 | :-: | :-- |
 | **Captains** | ![][flag_CN] [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ![][flag_CN] [boooohhhhee](https://osu.ppy.sh/users/8692698), ![][flag_CN] [JJFLy](https://osu.ppy.sh/users/7580514), ![][flag_CN] [Qz501kn](https://osu.ppy.sh/users/8729618), ![][flag_CN] [lovely_hyahya](https://osu.ppy.sh/users/10318380), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Ranm](https://osu.ppy.sh/users/17527822), ![][flag_CN] [Koishi-0514](https://osu.ppy.sh/users/7546593), ![][flag_CN] [My Angel Yukee7](https://osu.ppy.sh/users/9787146), ![][flag_CN] [- Ran Mitake -](https://osu.ppy.sh/users/19824985), ![][flag_CN] [Vlf](https://osu.ppy.sh/users/9458866), ![][flag_CN] [Carpihat](https://osu.ppy.sh/users/10085090), ![][flag_CN] [gluefly](https://osu.ppy.sh/users/8715409), ![][flag_CN] [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494), ![][flag_CN] [miyes](https://osu.ppy.sh/users/12942073), ![][flag_CN] [StarTemplar](https://osu.ppy.sh/users/8795096) |
-| **Players** | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319), ![][flag_CN] [-Chen-](https://osu.ppy.sh/users/14030362), ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ![][flag_CN] [-[Ulazis]-](https://osu.ppy.sh/users/11144363), ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_AU] [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989), ![][flag_CN] [abbikly](https://osu.ppy.sh/users/14384082), ![][flag_CN] [\[ Classic \]](https://osu.ppy.sh/users/5858053), ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [R u m i a](https://osu.ppy.sh/users/17686114), ![][flag_CN] [tito31158](https://osu.ppy.sh/users/16436669), ![][flag_CN] [Molli](https://osu.ppy.sh/users/8893772), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [MkoTenshi](https://osu.ppy.sh/users/6532520), ![][flag_CN] [\[Arkona\]](https://osu.ppy.sh/users/7883617), ![][flag_CN] [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ![][flag_CN] [Ubiquity](https://osu.ppy.sh/users/6019127), ![][flag_CN] [AWMRone](https://osu.ppy.sh/users/10351684), ![][flag_CN] [rizazyh](https://osu.ppy.sh/users/13673300), ![][flag_CN] [YyottaCat](https://osu.ppy.sh/users/17753835), ![][flag_CN] [King Fish](https://osu.ppy.sh/users/8468203), ![][flag_CN] [tangul](https://osu.ppy.sh/users/6862237), ![][flag_CN] [Hylotl](https://osu.ppy.sh/users/18270260), ![][flag_CN] [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ![][flag_CN] [miserable neet](https://osu.ppy.sh/users/12430477), ![][flag_CN] [Littlesheep37](https://osu.ppy.sh/users/14742881), ![][flag_CN] [Rync_](https://osu.ppy.sh/users/18242164), ![][flag_CN] [DJ Sharpnel](https://osu.ppy.sh/users/5132402), ![][flag_CN] [PropaneFanboy](https://osu.ppy.sh/users/27235859), ![][flag_CN] [Sakurada Shiro](https://osu.ppy.sh/users/14617751), ![][flag_CN] [for need](https://osu.ppy.sh/users/10496581), ![][flag_CN] [\[GB\]a_hisa](https://osu.ppy.sh/users/24057093), ![][flag_US] [EurusY](https://osu.ppy.sh/users/16301690), ![][flag_CN] [sherweifa](https://osu.ppy.sh/users/17457562), ![][flag_CN] [Mito Van](https://osu.ppy.sh/users/14703345), ![][flag_CN] [Takahashi_Yuki](https://osu.ppy.sh/users/7167750), ![][flag_CN] [PORTTAYER](https://osu.ppy.sh/users/8790200), ![][flag_CN] [Kos-](https://osu.ppy.sh/users/9048067), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [qiaolilailai](https://osu.ppy.sh/users/13809991), ![][flag_CN] [Zyuuu](https://osu.ppy.sh/users/15389275), ![][flag_CN] [fishbone2445](https://osu.ppy.sh/users/17640814), ![][flag_CN] [TkskKurumi](https://osu.ppy.sh/users/3631045), ![][flag_HK] [Alptraum](https://osu.ppy.sh/users/26496648), ![][flag_JP] [\[GB\]Kokodayo](https://osu.ppy.sh/users/16585041), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [Llkkm](https://osu.ppy.sh/users/24989144), ![][flag_CN] [fangruyan1013](https://osu.ppy.sh/users/11735651), ![][flag_CN] [majesticlegend](https://osu.ppy.sh/users/10219308), ![][flag_CN] [woshiji](https://osu.ppy.sh/users/26589994), ![][flag_CN] [Horizon5](https://osu.ppy.sh/users/12635658), ![][flag_CN] [QAQlingjiu](https://osu.ppy.sh/users/27288518), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [SY-COCO](https://osu.ppy.sh/users/12854853), ![][flag_CN] [shiki natsume](https://osu.ppy.sh/users/6997459), ![][flag_CN] [UnnamedOrange](https://osu.ppy.sh/users/14753416), ![][flag_CN] [\[GB\]voidmoyu](https://osu.ppy.sh/users/16573996), ![][flag_CN] [Ez2dance](https://osu.ppy.sh/users/9191281), ![][flag_CN] [Chelly-](https://osu.ppy.sh/users/14876346), ![][flag_CN] [AkalinT](https://osu.ppy.sh/users/16640276), ![][flag_CN] [dreamwy](https://osu.ppy.sh/users/11608677), ![][flag_CN] [\[GB\]hej_067](https://osu.ppy.sh/users/24880938), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767), ![][flag_CN] [wait wait](https://osu.ppy.sh/users/15484204), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634) |
+| **Players** | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319), ![][flag_CN] [-Chen-](https://osu.ppy.sh/users/14030362), ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ![][flag_CN] [-[Ulazis]-](https://osu.ppy.sh/users/11144363), ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_AU] [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989), ![][flag_CN] [abbikly](https://osu.ppy.sh/users/14384082), ![][flag_CN] [\[ Classic \]](https://osu.ppy.sh/users/5858053), ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [R u m i a](https://osu.ppy.sh/users/17686114), ![][flag_CN] [tito31158](https://osu.ppy.sh/users/16436669), ![][flag_CN] [Molli](https://osu.ppy.sh/users/8893772), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [MkoTenshi](https://osu.ppy.sh/users/6532520), ![][flag_CN] [\[Arkona\]](https://osu.ppy.sh/users/7883617), ![][flag_CN] [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ![][flag_CN] [Ubiquity](https://osu.ppy.sh/users/6019127), ![][flag_CN] [AWMRone](https://osu.ppy.sh/users/10351684), ![][flag_CN] [rizazyh](https://osu.ppy.sh/users/13673300), ![][flag_CN] [YyottaCat](https://osu.ppy.sh/users/17753835), ![][flag_CN] [King Fish](https://osu.ppy.sh/users/8468203), ![][flag_CN] [tangul](https://osu.ppy.sh/users/6862237), ![][flag_CN] [Hylotl](https://osu.ppy.sh/users/18270260), ![][flag_CN] [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ![][flag_CN] [miserable neet](https://osu.ppy.sh/users/12430477), ![][flag_CN] [Littlesheep37](https://osu.ppy.sh/users/14742881), ![][flag_CN] [Rync_](https://osu.ppy.sh/users/18242164), ![][flag_CN] [DJ Sharpnel](https://osu.ppy.sh/users/5132402), ![][flag_CN] [PropaneFanboy](https://osu.ppy.sh/users/27235859), ![][flag_CN] [Sakurada Shiro](https://osu.ppy.sh/users/14617751), ![][flag_CN] [for need](https://osu.ppy.sh/users/10496581), ![][flag_CN] [\[GB\]a_hisa](https://osu.ppy.sh/users/24057093), ![][flag_US] [EurusY](https://osu.ppy.sh/users/16301690), ![][flag_CN] [sherweifa](https://osu.ppy.sh/users/17457562), ![][flag_CN] [Mito Van](https://osu.ppy.sh/users/14703345), ![][flag_CN] [Takahashi_Yuki](https://osu.ppy.sh/users/7167750), ![][flag_CN] [PORTTAYER](https://osu.ppy.sh/users/8790200), ![][flag_CN] [Kos-](https://osu.ppy.sh/users/9048067), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [qiaolilailai](https://osu.ppy.sh/users/13809991), ![][flag_CN] [Zyuuu](https://osu.ppy.sh/users/15389275), ![][flag_CN] [fishbone2445](https://osu.ppy.sh/users/17640814), ![][flag_CN] [TkskKurumi](https://osu.ppy.sh/users/3631045), ![][flag_HK] [Alptraum](https://osu.ppy.sh/users/26496648), ![][flag_JP] [\[GB\]Kokodayo](https://osu.ppy.sh/users/16585041), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [Llkkm](https://osu.ppy.sh/users/24989144), ![][flag_CN] [fangruyan1013](https://osu.ppy.sh/users/11735651), ![][flag_CN] [majesticlegend](https://osu.ppy.sh/users/10219308), ![][flag_CN] [woshiji](https://osu.ppy.sh/users/26589994), ![][flag_CN] [Horizon5](https://osu.ppy.sh/users/12635658), ![][flag_CN] [QAQlingjiu](https://osu.ppy.sh/users/27288518), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [SY-COCO](https://osu.ppy.sh/users/12854853), ![][flag_CN] [shiki natsume](https://osu.ppy.sh/users/6997459), ![][flag_CN] [UnnamedOrange](https://osu.ppy.sh/users/14753416), ![][flag_CN] [\[GB\]voidmoyu](https://osu.ppy.sh/users/16573996), ![][flag_CN] [Ez2dance](https://osu.ppy.sh/users/9191281), ![][flag_CN] [Chelly-](https://osu.ppy.sh/users/14876346), ![][flag_CN] [AkalinT](https://osu.ppy.sh/users/16640276), ![][flag_CN] [dreamwy](https://osu.ppy.sh/users/11608677), ![][flag_CN] [\[GB\]hej_067](https://osu.ppy.sh/users/24880938), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767), ![][flag_CN] [wait wait](https://osu.ppy.sh/users/15484204), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634), ![][flag_HK] [biubiutu](https://osu.ppy.sh/users/18801193) |
 
 <!--
 ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319)
@@ -129,6 +129,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767)
 ![][flag_CN] [wait wait](https://osu.ppy.sh/users/15484204)
 ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634)
+![][flag_HK] [biubiutu](https://osu.ppy.sh/users/18801193)
 -->
 
 <!--https://docs.qq.com/sheet/DTWVZWk1MTFVLWllu-->
@@ -151,6 +152,45 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | **Team14** | ![][flag_CN] **[\[Crz\]Nickname](https://osu.ppy.sh/users/10817494)** |
 | **Team15** | ![][flag_CN] **[miyes](https://osu.ppy.sh/users/12942073)** |
 | **Team16** | ![][flag_CN] **[StarTemplar](https://osu.ppy.sh/users/8795096)** |
+
+## Match schedule: Regular stage week 1 
+
+### Saturday, April 9, 2022
+
+| Team A | Team B | Match time |
+| --: | :-- | :-: |
+| Team1 | Team16 | Apr 9 (Sat) 08:00 (UTC+8) |
+
+### Sunday, April 10, 2022
+
+| Team A | Team B | Match time |
+| --: | :-- | :-: |
+| Team1 | Team16 | Apr 10 (Sat) 08:00 (UTC+8)  |
+
+## Mappools
+
+### Regular stage
+
+**[Download the mappack here (160.84 MB)](https://drive.google.com/file/d/1RYMCSNJOp6_evL9W_JVnqTYzylYZ5mbF/view?usp=sharing)**
+
+- Rice
+  1. [Hatsuki Yura - Dark Prince (Lcat2538) \[Challenge\]](https://osu.ppy.sh/beatmapsets/770595#mania/1620129)
+  2. [Primary - in the Garden (IA daisuki) \[Eden \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1077579#mania/3530583)
+  3. [katagiri - Kamiari Algorithm (katagiri Bootleg) (NikoSek) \[x1.1\]](https://osu.ppy.sh/beatmapsets/1576367#mania/3218426)
+  4. [Kano - Stella-rium (DJ Noriken Bootleg) (-Deepdive-) \[Edit\[-4yu-\] 1.1x (192bpm) OD8\]](https://osu.ppy.sh/beatmapsets/1727021#mania/3529400)
+  5. [The Flashbulb - Ripcord (ilikexd) \[Insane\]](https://osu.ppy.sh/beatmapsets/1282006#mania/2662762)
+  6. [Fudanshi Crisis - Scarlet Tempest (Shoegazer) \[Tempest 1.1x (181bpm)\]](https://osu.ppy.sh/beatmapsets/683086#mania/2787817)
+- LN
+  1. [rissyuu feat. choko - Bi (Raveille) \[Bong Botes\]](https://osu.ppy.sh/beatmapsets/1012105#mania/2118448)
+  2. [kamome sano - citrus (K a b i -) \[Sweet Drop\]](https://osu.ppy.sh/beatmapsets/854717#mania/1786282)
+- SV
+  1. [X&G - Whiplash ft. josh pan (sakuraburst Remix) (error_exe777) \[break out\]](https://osu.ppy.sh/beatmapsets/723633#mania/1527737)
+  2. [nora2r - B.B.K.K.B.K.K. (RemiFlan) \[BASS KICK\]](https://osu.ppy.sh/beatmapsets/530022#mania/1353669)
+- Hybrid
+  1. [aran - L.F.O (-MysticEyes) \[Impedance\]](https://osu.ppy.sh/beatmapsets/882805#mania/1845580)
+  2. [Camellia feat. Nanahira - POLKAMANIA (Rhezie) \[Sya's BLACK ANOTHER\]](https://osu.ppy.sh/beatmapsets/1580868#mania/3234094)
+- Tiebreaker
+  1. **[Camellia - Newspapers for Magicians (Leniane) \[Grimoire for Spells\]](https://osu.ppy.sh/beatmapsets/929143#mania/1940608)**
 
 ## Ruleset
 
