@@ -12,7 +12,7 @@ Specializing in Japanese-style instrumental tunes that translate perfectly to rh
 
 We've scooped up **12** songs for [**A.SAKA**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/253) (obviously including *Nanatsu Issenzakura*).
 
-If you're one of the four osu! players who somehow *hasn't* heard this timeless classic, shift your attention towards this multi-mode gameplay video, then peek at the rest of **A.SAKA**'s awesome track previews below:
+If you're one of the four osu! players who somehow *haven't* heard this timeless classic, shift your attention towards this multi-mode gameplay video, then peek at the rest of **A.SAKA**'s awesome track previews below:
 
 <div align="center">
     <video width="100%" controls>
