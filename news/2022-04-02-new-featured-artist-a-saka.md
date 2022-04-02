@@ -31,7 +31,7 @@ Try out one of these masterpieces:
 - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/320555) hosted by [Nofool](https://osu.ppy.sh/users/672430)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/253/Songs/A.SAKA%20-%20Nanatsu%20Issenzakura.mp3" type="audio/mpeg">
 </audio>
 
 ### Yosakura Fubuki
@@ -39,7 +39,7 @@ Try out one of these masterpieces:
 Play through [this osu! beatmap](https://osu.ppy.sh/beatmapsets/1044511) hosted by [Beomsan](https://osu.ppy.sh/users/3626063) or [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/859944) hosted by [Alwaysyukaz](https://osu.ppy.sh/users/4999506)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/253/Songs/A.SAKA%20-%20Yosakura%20Fubuki.mp3" type="audio/mpeg">
 </audio>
 
 ### Nanatsu Koyoto
@@ -47,7 +47,7 @@ Play through [this osu! beatmap](https://osu.ppy.sh/beatmapsets/1044511) hosted 
 Explore [this osu! beatmap](https://osu.ppy.sh/beatmapsets/972793) hosted by [Imakuri](https://osu.ppy.sh/users/6100837)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/253/Songs/A.SAKA%20-%20Nanatsu%20Koyoto.mp3" type="audio/mpeg">
 </audio>
 
 ### Nanatsu Myoukakitsubata
@@ -55,7 +55,7 @@ Explore [this osu! beatmap](https://osu.ppy.sh/beatmapsets/972793) hosted by [Im
 Last but not least, dip your toes into [this osu! beatmap](https://osu.ppy.sh/beatmapsets/1598631) hosted by [Houshou Hari](https://osu.ppy.sh/users/4284198)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/253/Songs/A.SAKA%20-%20Nanatsu%20Myoukakitsubata.mp3" type="audio/mpeg">
 </audio>
 
 ---
