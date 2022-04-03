@@ -8,7 +8,7 @@ tags:
 
 ![OIT 2022 logo](img/logo.jpg)
 
-The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) is an Indonesian double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Arca 9](https://osu.ppy.sh/users/14042319) and ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966). The tournament is open to all players from Indonesia with 4,000 pp or above in the osu! game mode to their name. It is the twelfth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Arca 9](https://osu.ppy.sh/users/14042319) and ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966). The tournament was open to all players from Indonesia with 4,000 pp or above in the osu! game mode to their name. It was the twelfth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -28,13 +28,15 @@ The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) is an Indonesian d
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2,000,000 IDR + 50% of the additional raised prize pool, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1,000,000 IDR + 30% of the additional raised prize pool |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500,000 IDR + 20% of the additional raised prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2,000,000 IDR + 50% of the additional raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1,000,000 IDR + 30% of the additional raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500,000 IDR + 20% of the additional raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)) |
+
+![](img/badge.png "OIT 2022 winner badge")
 
 ## Organisation
 
-The osu! Indonesia Tournament #12 (2022) is run by various osu! community members predominantly hailing from Indonesia.
+The osu! Indonesia Tournament #12 (2022) was run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -95,6 +97,16 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 | 30 | ![][flag_ID] [-TwiHD](https://osu.ppy.sh/users/5470299) | 5.32 |
 | 31 | ![][flag_ID] [Dika312](https://osu.ppy.sh/users/741613) | 5.30 |
 | 32 | ![][flag_ID] [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | 4.89 |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
 
 ## Mappools
 
@@ -292,6 +304,20 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 ## Match results
 
 ### Finals (week 2)
+
+Friday. 1 April 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ![][flag_ID] | 2 | **7** | ![][flag_ID] **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
+
+Saturday, 2 April 2022, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **7** | 4 | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/99335582) |
+
+### Finals (week 1)
 
 Saturday, 26 March 2022:
 
