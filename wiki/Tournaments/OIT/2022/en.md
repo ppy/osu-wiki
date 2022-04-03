@@ -28,9 +28,9 @@ The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) was an Indonesian 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2,000,000 IDR + 50% of the additional raised prize pool, physical trophy, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1,000,000 IDR + 30% of the additional raised prize pool, physical trophy |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500,000 IDR + 20% of the additional raised prize pool, physical trophy |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2,000,000 IDR + 50% of the additional raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1,000,000 IDR + 30% of the additional raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500,000 IDR + 20% of the additional raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)) |
 
 ![](img/badge.png "OIT 2022 winner badge")
 
