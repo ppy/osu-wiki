@@ -130,7 +130,7 @@ Siehe auch:
 
 ## Electronic Pack Vol. 1
 
-Preis: **Kostenlos** / **USD$0.99** (vor dem [2020-Update]](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+Preis: **Kostenlos** / **USD$0.99** (vor dem [2020-Update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
 Dieses Songpaket enthält vier elektronisch orientierte Songs von verschiedenen Künstlern aus aller Welt.
 
@@ -149,7 +149,7 @@ Siehe auch:
 
 ## Odyssey Pack
 
-Preis: **Kostenlos** / **USD$0.99** (vor dem [2020-Update]](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+Preis: **Kostenlos** / **USD$0.99** (vor dem [2020-Update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
 Dieses Songpaket enthält vier Songs, die von dem Internet-Musikkollektiv Odyssey Eurobeat zur Verfügung gestellt wurden.
 
@@ -166,7 +166,7 @@ Siehe auch:
 
 ## VVVVVV Pack Vol. 1
 
-Preis: **Kostenlos** / **USD$0.99** (vor dem [2020-Update]](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+Preis: **Kostenlos** / **USD$0.99** (vor dem [2020-Update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
 Dieses Songpaket enthält vier Songs von SoulEye, die alle in dem Hit-Plattformspiel [VVVVVV](https://thelettervsixtim.es/) vorkommen.
 
@@ -183,7 +183,7 @@ Siehe auch:
 
 ## SHIKI Pack Vol. 1
 
-Preis: **Kostenlos** / **USD$1.99** (vor dem [2020-Update]](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+Preis: **Kostenlos** / **USD$1.99** (vor dem [2020-Update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
 Dieses Songpaket enthält vier Songs des bekannten BMS-Musikproduzenten SHIKI.
 
