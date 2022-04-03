@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: ef481df76475a6367dc1fd8369836cab766f8df1
+---
+
 # osu!tourney setup
 
 **Nota:** Uma *tag* de supporter ativa é requerida para utilizar o cliente osu!tourney.
