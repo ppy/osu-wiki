@@ -168,7 +168,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **If a beatmap's track was contributed to by multiple artists, they may be listed with commas in between.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
 - **For remixes/covers, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is remixed.** This marker should all be in parentheses and contain the remix/cover artist followed by descriptor.
 - **For live performances of a song, the title may include a `(Live Ver.)` marker.** Relevant details of the performance should be put in the beatmap description and tags, such as the date and location.
-- **Words may be repeated in tags, provided the repeated words are part of longer terms or phrases relevant to the beatmap.**
+- **Words already present in metadata may be repeated in tags, provided the repeated words are part of longer terms or phrases relevant to the beatmap.**
 
 ## Timing
 
