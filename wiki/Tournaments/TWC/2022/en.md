@@ -127,6 +127,32 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here (81 MB)](https://drive.google.com/uc?id=1UGY8w8M0yOsJTOwOpIN2ADEtoCVQGBew)**
+
+- NoMod
+  1. [Spacelectro feat. Momokami - DANCING FOX!!! (applerss) \[NIGHT FOX!!!\]](https://osu.ppy.sh/beatmapsets/1600946#taiko/3269458)
+  2. [The Flashbulb - Lawn Wake IX (\_mtk) \[EZ\]](https://osu.ppy.sh/beatmapsets/1734145#taiko/3544468)
+  3. [GomiTaro - takio mash up (KTYN) \[takio\]](https://osu.ppy.sh/beatmapsets/1400451#taiko/2889284)
+  4. [Veer - Migraine (Wadsy) \[Gracious Head\]](https://osu.ppy.sh/beatmapsets/1734341#taiko/3544843)
+  5. [DJ twinturbo - back in 2015 car audio system (ikin5050) \[Gimmickin\]](https://osu.ppy.sh/beatmapsets/1734189#taiko/3544574)
+- Hidden
+  1. [otetsu - Rubik's Cube (Lumenite-) \[16x16x16\]](https://osu.ppy.sh/beatmapsets/1670975#taiko/3544599)
+  2. [ARM(IOSYS) + Brasscapsule - Jazz is Rad (MTNTWarz) \[swagy wacky jazz\]](https://osu.ppy.sh/beatmapsets/1707183#taiko/3544352)
+- Hard Rock
+  1. [katagiri - Nohmen break (Katagiri Remix) (hoku) \[a hoku of life ^-^\]](https://osu.ppy.sh/beatmapsets/1223733#taiko/2545320)
+  2. [Zekk - Foresight (woosungko) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1726306#taiko/3527937)
+- Double Time
+  1. [YUKIYANAGI - Feeling NRG (Megafan) \[Raving All Night\]](https://osu.ppy.sh/beatmapsets/1453904#taiko/2988883)
+  2. [Srav3R vs Getty - DUAL BREAKER XX (Yumirin) \[ONI XX\]](https://osu.ppy.sh/beatmapsets/1442123#taiko/2966564)
+- FreeMod
+  1. [nujioh - PSYCHE (Nifty) \[Neuroticism\]](https://osu.ppy.sh/beatmapsets/1734235#taiko/3544679)
+  2. [Camellia - gigadelic (Camellia's 'THE TERA' Remix) (-Kazu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/836037#taiko/3543322)
+  3. [Kotori - Anomaly (Kou! "Asymetris" 200step Remix) (KTYN) \[Fate\]](https://osu.ppy.sh/beatmapsets/1734106#taiko/3544464)
+- Tiebreaker
+  1. **[breakchild - NEUROTYPICALSYSTEM (Nwolf) \[out now on soundcloud\]](https://osu.ppy.sh/beatmapsets/1734223#taiko/3544650)**
+
 ### Quarterfinals
 
 **[Download the mappack here (73 MB)](https://drive.google.com/uc?id=1sx8PbyPgijk7IzQ5waWdWnbISar6JAVk)**
