@@ -28,11 +28,13 @@ The **GB Cup 2022 Spring** (***GBC 2022 Spring***) was a 3v3 captain draft-based
 
 | Placing | Prizes |
 | :-----: | :----- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, KanonBot profile badge, ¥50 CNY per team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, ¥30 CNY per team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, ¥20 CNY per team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, KanonBot profile badge, ¥250 CNY |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, ¥200 CNY |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, ¥150 CNY |
+| 4th place | ¥125 CNY |
+| 5-8th place | ¥75 CNY |
 
-Each team will recieve additional ¥25 CNY for each regular stage match win.
+Note: Teams are awarded a ¥25 CNY bonus for each regular stage win.
 
 ## Organisation
 
@@ -68,9 +70,9 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | # | Teams | Members |
 | --: | :-: | :-- |
 | 1 | **金戈铁马的鲜丰水果摊** | ![][flag_CN] **[\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018)**, ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319), ![][flag_CN] [King Fish](https://osu.ppy.sh/users/8468203), ![][flag_CN] [tangul](https://osu.ppy.sh/users/6862237), ![][flag_CN] [\[GB\]hej_067](https://osu.ppy.sh/users/24880938) |
-| 2 | **Team 2** | ![][flag_CN] **[boooohhhhee](https://osu.ppy.sh/users/8692698)**, ![][flag_CN] [\[Arkona\]](https://osu.ppy.sh/users/7883617), ![][flag_CN] [YyottaCat](https://osu.ppy.sh/users/17753835), ![][flag_CN] [miserable neet](https://osu.ppy.sh/users/12430477), ![][flag_CN] [Llkkm](https://osu.ppy.sh/users/24989144) |
+| 2 | **你没对象对不队** | ![][flag_CN] **[boooohhhhee](https://osu.ppy.sh/users/8692698)**, ![][flag_CN] [\[Arkona\]](https://osu.ppy.sh/users/7883617), ![][flag_CN] [YyottaCat](https://osu.ppy.sh/users/17753835), ![][flag_CN] [miserable neet](https://osu.ppy.sh/users/12430477), ![][flag_CN] [Llkkm](https://osu.ppy.sh/users/24989144) |
 | 3 | **涩涩不队** | ![][flag_CN] **[JJFLy](https://osu.ppy.sh/users/7580514)**, ![][flag_CN] [Hylotl](https://osu.ppy.sh/users/18270260), ![][flag_CN] [rizazyh](https://osu.ppy.sh/users/13673300), ![][flag_CN] [Kos-](https://osu.ppy.sh/users/9048067), ![][flag_CN] [fangruyan1013](https://osu.ppy.sh/users/11735651) |
-| 4 | **Team 4** | ![][flag_CN] **[Qz501kn](https://osu.ppy.sh/users/8729618)**, ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [R u m i a](https://osu.ppy.sh/users/17686114), ![][flag_CN] [qiaolilailai](https://osu.ppy.sh/users/13809991), ![][flag_CN] [QAQlingjiu](https://osu.ppy.sh/users/27288518) |
+| 4 | **Yzhhのqlll森林汪酱不会大叠** | ![][flag_CN] **[Qz501kn](https://osu.ppy.sh/users/8729618)**, ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [R u m i a](https://osu.ppy.sh/users/17686114), ![][flag_CN] [qiaolilailai](https://osu.ppy.sh/users/13809991), ![][flag_CN] [QAQlingjiu](https://osu.ppy.sh/users/27288518) |
 | 5 | **可爱的hyahya酱上线啦！！** | ![][flag_CN] **[lovely_hyahya](https://osu.ppy.sh/users/10318380)**, ![][flag_CN] [-[Ulazis]-](https://osu.ppy.sh/users/11144363), ![][flag_CN] [tito31158](https://osu.ppy.sh/users/16436669), ![][flag_JP] [\[GB\]Kokodayo](https://osu.ppy.sh/users/16585041), ![][flag_CN] [AkalinT](https://osu.ppy.sh/users/16640276) |
 | 6 | **货拉拉拉不拉拉布拉多队** | ![][flag_CN] **[crazybrother](https://osu.ppy.sh/users/8045083)**, ![][flag_CN] [abbikly](https://osu.ppy.sh/users/14384082), ![][flag_CN] [Zyuuu](https://osu.ppy.sh/users/15389275), ![][flag_CN] [majesticlegend](https://osu.ppy.sh/users/10219308), ![][flag_CN] [TkskKurumi](https://osu.ppy.sh/users/3631045) |
 | 7 | **bikabika** | ![][flag_CN] **[Ranm](https://osu.ppy.sh/users/17527822)**, ![][flag_CN] [Littlesheep37](https://osu.ppy.sh/users/14742881), ![][flag_CN] [DJ Sharpnel](https://osu.ppy.sh/users/5132402), ![][flag_CN] [woshiji](https://osu.ppy.sh/users/26589994), ![][flag_CN] [UnnamedOrange](https://osu.ppy.sh/users/14753416) |
@@ -79,7 +81,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | 10 | **青叶摩卡的百合后花园** | ![][flag_CN] **[- Ran Mitake -](https://osu.ppy.sh/users/19824985)**, ![][flag_CN] [Molli](https://osu.ppy.sh/users/8893772), ![][flag_CN] [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ![][flag_CN] [sherweifa](https://osu.ppy.sh/users/17457562), ![][flag_CN] [Chelly-](https://osu.ppy.sh/users/14876346) |
 | 11 | **啊不对不队** | ![][flag_CN] **[Vlf](https://osu.ppy.sh/users/9458866)**, ![][flag_CN] [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ![][flag_CN] [\[GB\]a_hisa](https://osu.ppy.sh/users/24057093), ![][flag_CN] [Takahashi_Yuki](https://osu.ppy.sh/users/7167750), ![][flag_CN] [Horizon5](https://osu.ppy.sh/users/12635658) |
 | 12 | **啊对对队** | ![][flag_CN] **[Carpihat](https://osu.ppy.sh/users/10085090)**, ![][flag_CN] [-Chen-](https://osu.ppy.sh/users/14030362), ![][flag_CN] [for need](https://osu.ppy.sh/users/10496581), ![][flag_CN] [PORTTAYER](https://osu.ppy.sh/users/8790200), ![][flag_CN] [SY-COCO](https://osu.ppy.sh/users/12854853) |
-| 13 | **Team 13** | ![][flag_CN] **[gluefly](https://osu.ppy.sh/users/8715409)**, ![][flag_US] [EurusY](https://osu.ppy.sh/users/16301690), ![][flag_CN] [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ![][flag_CN] [fishbone2445](https://osu.ppy.sh/users/17640814), ![][flag_HK] [biubiutu](https://osu.ppy.sh/users/18801193) |
+| 13 | **太美丽了理塘** | ![][flag_CN] **[gluefly](https://osu.ppy.sh/users/8715409)**, ![][flag_US] [EurusY](https://osu.ppy.sh/users/16301690), ![][flag_CN] [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ![][flag_CN] [fishbone2445](https://osu.ppy.sh/users/17640814), ![][flag_HK] [biubiutu](https://osu.ppy.sh/users/18801193) |
 | 14 | **皮蛋蛋吸手手俱乐部** | ![][flag_CN] **[\[Crz\]Nickname](https://osu.ppy.sh/users/10817494)**, ![][flag_CN] [Ubiquity](https://osu.ppy.sh/users/6019127), ![][flag_CN] [MkoTenshi](https://osu.ppy.sh/users/6532520), ![][flag_HK] [Alptraum](https://osu.ppy.sh/users/26496648), ![][flag_CN] [dreamwy](https://osu.ppy.sh/users/11608677) |
 | 15 | **Team 15** | ![][flag_CN] **[miyes](https://osu.ppy.sh/users/12942073)**, ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767) |
 | 16 | **头号倒霉蛋** | ![][flag_CN] **[StarTemplar](https://osu.ppy.sh/users/8795096)**, ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634) |
@@ -90,20 +92,19 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 | Team A | Team B | Match time |
 | --: | :-- | :-: |
-| 金戈铁马的鲜丰水果摊 | 头号倒霉蛋 | Apr 9 (Sat) 08:00 (UTC+8) |
-| Team 2 | Team 15 | Apr 9 (Sat) 08:00 (UTC+8) |
-| 涩涩不队 | 皮蛋蛋吸手手俱乐部 | Apr 9 (Sat) 08:00 (UTC+8) |
-| Team 4 | Team 13 | Apr 9 (Sat) 08:00 (UTC+8) |
-| 可爱的hyahya酱上线啦！！ | 啊对对队 | Apr 9 (Sat) 08:00 (UTC+8) |
-| 货拉拉拉不拉拉布拉多队 | 啊不对不队 | Apr 9 (Sat) 08:00 (UTC+8) |
-| bikabika | 青叶摩卡的百合后花园 | Apr 9 (Sat) 08:00 (UTC+8) |
-| Team MyAngel Koishi | 大怨种被迫当队长 | Apr 9 (Sat) 08:00 (UTC+8) |
+| bikabika | 青叶摩卡的百合后花园 | Apr 9 (Sat) 17:00 (UTC+8) |
+| 可爱的hyahya酱上线啦！！ | 啊对对队 | Apr 9 (Sat) 19:00 (UTC+8) |
+| 金戈铁马的鲜丰水果摊 | 头号倒霉蛋 | Apr 9 (Sat) 20:00 (UTC+8) |
+| 涩涩不队 | 皮蛋蛋吸手手俱乐部 | Apr 9 (Sat) 21:00 (UTC+8) |
 
 ### Sunday, April 10, 2022
 
 | Team A | Team B | Match time |
 | --: | :-- | :-: |
-| Team1 | Team16 | Apr 10 (Sat) 08:00 (UTC+8)  |
+| Team MyAngel Koishi | 大怨种被迫当队长 | Apr 10 (Sun) 16:00 (UTC+8) |
+| 货拉拉拉不拉拉布拉多队 | 啊不对不队 | Apr 10 (Sun) 19:00 (UTC+8) |
+| Yzhhのqlll森林汪酱不会大叠 | 太美丽了理塘 | Apr 10 (Sun) 20:00 (UTC+8) |
+| 你没对象对不队 | Team 15 | Apr 10 (Sun) 21:00 (UTC+8) |
 
 ## Mappools
 
@@ -137,9 +138,9 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | #¹ | Team | MT² | MP³ | BD⁴ | BU⁵ | Round 1 | Round 2 | Round 3 |
 | :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | 金戈铁马的鲜丰水果摊 | 0-0 | 0 | 0 | 0 | 倒霉蛋 |  |  |
-| 2 | Team 2 | 0-0 | 0 | 0 | 0 | 15 |  |  |
+| 2 | 你没对象对不队 | 0-0 | 0 | 0 | 0 | 15 |  |  |
 | 3 | 涩涩不队 | 0-0 | 0 | 0 | 0 | 吸手手 |  |  |
-| 4 | Team 4 | 0-0 | 0 | 0 | 0 | 13 |  |  |
+| 4 | Yzhhのqlll森林汪酱不会大叠 | 0-0 | 0 | 0 | 0 | 理塘 |  |  |
 | 5 | 可爱的hyahya酱上线啦！！ | 0-0 | 0 | 0 | 0 | 啊对对 |  |  |
 | 6 | 货拉拉拉不拉拉布拉多队 | 0-0 | 0 | 0 | 0 | 啊不对 |  |  |
 | 7 | bikabika | 0-0 | 0 | 0 | 0 | 摩卡 |  |  |
@@ -147,10 +148,10 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | 9 | 大怨种被迫当队长 | 0-0 | 0 | 0 | 0 | TMK |  |  |
 | 10 | 青叶摩卡的百合后花园 | 0-0 | 0 | 0 | 0 | bika |  |  |
 | 11 | 啊不对不队 | 0-0 | 0 | 0 | 0 | 货拉拉 |  |  |
-| 12 | 啊对对队 | 0-0 | 0 | 0 | 0 | hya |  |  |
-| 13 | Team 13 | 0-0 | 0 | 0 | 0 | 4 |  |  |
+| 12 | 啊对对队 | 0-0 | 0 | 0 | 0 | hya酱 |  |  |
+| 13 | 太美丽了理塘 | 0-0 | 0 | 0 | 0 | Yzh |  |  |
 | 14 | 皮蛋蛋吸手手俱乐部 | 0-0 | 0 | 0 | 0 | 涩涩 |  |  |
-| 15 | Team 15 | 0-0 | 0 | 0 | 0 | 2 |  |  |
+| 15 | Team 15 | 0-0 | 0 | 0 | 0 | 没对象 |  |  |
 | 16 | 头号倒霉蛋 | 0-0 | 0 | 0 | 0 | 水果摊 |  |  |
 
 ¹ Seed\
