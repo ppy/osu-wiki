@@ -100,7 +100,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ## Podium
 
-![](img/podium.jpg "OIT 2021 podium")
+![](img/podium.jpg "OIT 2022 podium")
 
 ## Mappools
 
