@@ -3,7 +3,23 @@
 *For the formatting standards, see: [Article style criteria/Formatting](../Formatting)*\
 *Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
 
+This article concerns writing standards for all English articles. The writing standards for translations can be found in the translations of this page.
+
+<!-- For translations, use "This article concerns writing standards for {language}. Refer to the English version of this page for the writing standards of English articles." instead. -->
+
 All English articles must use plain English.
+
+## Content parity
+
+Translations are subject to strict content parity with their English article, in the sense that they must have the same message, regardless of grammar and syntax. Any changes to the translations' meanings must be accompanied by equivalent changes to the English article.
+
+There are some cases where the content is allowed to differ:
+
+- Articles originally written in a language other than English (in this case, English should act as the translation)
+- Translations and explanations of English words that are common terms in the osu! community
+- External links
+- Tags
+- Information specific to a subcommunity or a certain language (such as translations of this article)
 
 ## Language register
 
