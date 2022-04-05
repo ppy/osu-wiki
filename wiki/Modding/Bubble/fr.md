@@ -13,7 +13,7 @@ La **bubble** (![Icône de la bubble](/wiki/shared/icon/bubble.gif)) était une 
 - [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)
 - [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*)
 
-L'étape suivante de l'[ancien système de classement](/wiki/Modding/Forum_modding) après une [proto-bubble](/wiki/Modding/Proto-bubble), une bubble régulière signifie qu'une [beatmap](/wiki/Beatmap) est prête à être classée du point de vue du moddeur. Les beatmaps avec une bubble étaient éventuellement vérifiées par un autre membre de la BAT ou d'un BN et [classée](/wiki/Beatmap/Category#classée) ou [approuvée](/wiki/Beatmap/Category#approuvée) tant que des modifications mineures de la map étaient nécessaires.
+L'étape suivante de l'[ancien système de classement](/wiki/Modding/Forum_modding) après une [proto-bubble](/wiki/Modding/Proto-bubble), une bubble régulière signifie qu'une [beatmap](/wiki/Beatmap) est prête à être classée du point de vue du moddeur. Les beatmaps avec une bubble étaient éventuellement vérifiées par un autre membre de la BAT ou d'un BN et [classée](/wiki/Beatmap/Category#classée) ou [approuvée](/wiki/Beatmap/Category#approuvée) tant que des modifications mineures de la beatmap étaient nécessaires.
 
 Dans la [procédure de classement du beatmap](/wiki/Beatmap_ranking_procedure) moderne, l'équivalent d'une bubble est la première nomination donnée par un [beatmap nominator](/wiki/People/The_Team/Beatmap_Nominators).
 
@@ -30,7 +30,7 @@ Après la mise en place complète du [système de discussion d'une beatmap](/wik
 ## Mécanique
 
 ::: Infobox
-![](img/list-of-bubbles.png "Liste des beatmaps bubble, suivies des popped bubbles et des maps starred.")
+![](img/list-of-bubbles.png "Liste des beatmaps bubble, suivies des popped bubbles et des beatmaps starred.")
 :::
 
 Les fils de discussion des beatmaps bubble ont été répertoriés sur les premières pages du forum [Pending Beatmaps](https://osu.ppy.sh/community/forums/6), classés par leur [star priority](/wiki/Modding/Star_priority) et agissant efficacement comme des fils de discussion épinglés au forum.
@@ -45,10 +45,10 @@ Les fils de discussion des beatmaps bubble ont été répertoriés sur les premi
 
 Une bubble existante pourrait être **popped** :
 
-- Automatiquement, par le mappeur lui-même, s'il a mis à jour la map ou l'un de ses fichiers.
+- Automatiquement, par le mappeur lui-même, s'il a mis à jour la beatmap ou l'un de ses fichiers.
 - Manuellement, par un membre de la BAT, si la beatmap nécessite davantage de modifications et ne peut être classé dans son état actuel.
 
-Dans les deux cas, l'icône du fil de discussion de la beatmap était définie comme une popped bubble (![Icône de la Popped bubble](/wiki/shared/icon/bubble-pop.gif)). Si une bubble était éclatée manuellement, il était supposé que les membres de la BAT ou de la MAT qui avait placé l'icône s'assureraient que les modifications nécessaires étaient apportées à la map avant qu'elle ne continue dans le processus de classement.
+Dans les deux cas, l'icône du fil de discussion de la beatmap était définie comme une popped bubble (![Icône de la Popped bubble](/wiki/shared/icon/bubble-pop.gif)). Si une bubble était éclatée manuellement, il était supposé que les membres de la BAT ou de la MAT qui avait placé l'icône s'assureraient que les modifications nécessaires étaient apportées à la beatmap avant qu'elle ne continue dans le processus de classement.
 
 ## Voir également
 

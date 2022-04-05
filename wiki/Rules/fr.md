@@ -36,11 +36,11 @@ Ces règles sont les bases à partir de laquelle nous contribuons à faire de la
 
 ## Règles de mise en ligne des beatmaps
 
-*Note : Ces règles s'appliquent à **toutes les maps mises en ligne**, pas seulement les maps classées. Pour des règles plus spécifiques concernant les beatmaps classées, voir les [critères de classement](/wiki/Ranking_Criteria).*
+*Note : Ces règles s'appliquent à **toutes les beatmaps mises en ligne**, pas seulement les beatmaps classées. Pour des règles plus spécifiques concernant les beatmaps classées, voir les [critères de classement](/wiki/Ranking_Criteria).*
 
-Ces règles s'appliquent strictement aux maps mises en ligne via le [système de mise en ligne des beatmaps](/wiki/Submission). Ces fils de discussion sont créés via le client d'osu! lorsqu'une beatmap est soumise via l'[éditeur](/wiki/Client/Beatmap_editor).
+Ces règles s'appliquent strictement aux beatmaps mises en ligne via le [système de mise en ligne des beatmaps](/wiki/Submission). Ces fils de discussion sont créés via le client d'osu! lorsqu'une beatmap est soumise via l'[éditeur](/wiki/Client/Beatmap_editor).
 
-1. **Assurez-vous d'avoir la permission d'utiliser tout contenu impliqué dans votre beatmap.** Cela inclut les chansons, les vidéos, les sons, les graphiques et tout autre contenu qui n'est pas votre propre création. Si vous ne savez pas où trouver du contenu dont l'utilisation est gratuite, consultez notre bibliothèque [Featured Artist](https://osu.ppy.sh/beatmaps/artists) en pleine expansion, qui contient des musiques dont l'utilisation est autorisée à 100 % dans osu! et les [directives d'utilisation du contenu](Content_Usage_Guidelines) pour plus d'informations.
+1. **Assurez-vous d'avoir la permission d'utiliser tout contenu impliqué dans votre beatmap.** Cela inclut les musiques, les vidéos, les sons, les graphiques et tout autre contenu qui n'est pas votre propre création. Si vous ne savez pas où trouver du contenu dont l'utilisation est gratuite, consultez notre bibliothèque [Featured Artist](https://osu.ppy.sh/beatmaps/artists) en pleine expansion, qui contient des musiques dont l'utilisation est autorisée à 100 % dans osu! et les [directives d'utilisation du contenu](Content_Usage_Guidelines) pour plus d'informations.
 2. **Restez dans le sujet dans les [discussions sur les beatmaps](/wiki/Beatmap_discussion).** Ces fils/discussions portent sur la beatmap en question, et rien d'autre. Si vous avez un problème avec quelque chose qui ne concerne pas directement la beatmap, postez-le dans le forum approprié.
 3. **Ne plagiez pas et ne tentez pas de voler le travail d'autrui.** Ne téléchargez pas ou n'utilisez pas le travail d'autres personnes sans leur permission explicite (y compris, mais sans s'y limiter, les skins et les difficultés des invités).
 4. **Respectez les [règles relatives au contenu des musiques](Song_Content_Rules) et les [considérations relatives au contenu visuel](Visual_Content_Considerations).**

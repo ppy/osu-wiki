@@ -2,7 +2,7 @@
 
 *[À propos de l'Offset Interval par Alace](https://osu.ppy.sh/community/forums/topics/20998)*
 
-La plupart des joueurs d'osu! ne sont pas des pros de la musique, donc nous avons quelques maps avec un problème :
+La plupart des joueurs d'osu! ne sont pas des pros de la musique, donc nous avons quelques beatmaps avec un problème :
 
 **Le long tick blanc ne suit pas le début réel d'une section.**
 
