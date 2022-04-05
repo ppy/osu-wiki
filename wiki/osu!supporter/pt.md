@@ -34,8 +34,6 @@ Resumindo: Doações são usadas para sustentar o jogo em geral.
 
 [Use esse conversor de moeda](http://www.oanda.com/currency/converter/) ou [peça ao google](https://www.google.com.my/#q=usd+exchange+rate) para checar o valor no seu país. A doação é feita em "USD$ dollar" (dólar americano).
 
-![](img/selecting-duration.jpg)
-
 | Meses | Valor {USD$} (Desconto) |
 | :-: | :-- |
 | 1 | 4 |

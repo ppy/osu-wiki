@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: c91eea89d6bef915a79496a224a9acd3cb9360fc
+---
+
 # Style de jeu
 
 Cette page détaille les différentes façons dont les joueurs peuvent choisir de jouer dans leurs modes de jeu respectifs.
