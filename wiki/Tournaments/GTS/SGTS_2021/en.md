@@ -9,7 +9,7 @@ tags:
 
 ![SGTS 2021 logo](img/logo.jpg)
 
-The **Squad Global Taiko Showdown 2021** (***SGTS 2021***) was a worldwide double-elimination 3v3 osu!taiko tournament hosted by ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438), and ![][flag_US] [Wadsy](https://osu.ppy.sh/users/2598555). This was a tournament where players can decide their own teams up to 6 players with no rank restrictions. It was the first instalment of the Squad Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Squad Global Taiko Showdown 2021** (***SGTS 2021***) was a worldwide double-elimination 3v3 osu!taiko tournament hosted by ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438), and ![][flag_US] [Wadsy](https://osu.ppy.sh/users/2598555). This was a tournament where players could decide their own teams up to 6 players with no rank restrictions. It was the first instalment of the Squad Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
