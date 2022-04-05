@@ -20,7 +20,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Gestaltung der [Achievements](/wiki/Medals). |
 | ![][flag_US] [akrolsmir](https://osu.ppy.sh/users/576800) | Entwickler und Aufrechthaltung des [AIBat](https://osu.ppy.sh/community/forums/topics/55305), dem bekanntesten Drittanbietertool für Beatmap-Modding, das heute von den meisten Benutzern in der Community verwendet wird. |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Ausgezeichnete Arbeit im Testen von Features und bei der Fehlerbehebung sowie Entwicklung verschiedener Funktionen für Mapper und Modder. |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organisieren vieler offiziellen Wettbewerbe (unter anderem dem OWC). |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organisieren vieler offizieller Turniere (unter anderem dem OWC). |
 | ![][flag_US] [Blazevoir](https://osu.ppy.sh/users/120265) | Wahnsinnige Moderationserfolge (entspricht etwa 6 Mitarbeitern) und fast alleinige Moderation von `#osu` während der Spitzenzeiten (9k+ Nutzer). |
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Entwicklung und Pflege von [osu!stats](https://osustats.ppy.sh/) und einer Reihe nützlicher Werkzeuge für Beatmapping, Modding und allgemeines Spielen. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Herausragende Leistungen beim Testen von Bugfixes/Features und bei der Bearbeitung von Support-Anfragen der Benutzer. |
@@ -90,13 +90,13 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | Benutzer | Beiträge |
 | :-- | :-- |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Herausragende Arbeit bei der Gründung der frühen osu!taiko-Community, mehrjährige Tätigkeit im BAT/QAT |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Herausragende Beiträge zur osu!catch-Community, Überarbeitung der Ranking-Kriterien und Wettbewerben |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Herausragende Beiträge zu zahlreichen Medienprojekten, Wettbewerben und eine langjährige Zugehörigkeit zum GMT |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Herausragende Beiträge zur osu!catch-Community, Überarbeitung der Ranking-Kriterien und Turnieren |
+| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Herausragende Beiträge zu zahlreichen Medienprojekten, Turnieren und eine langjährige Zugehörigkeit zum GMT |
 | ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | Jahrelange engagierte Arbeit für das BVT/QAT und immenser Beitrag zur Überarbeitung der Ranking-Kriterien |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Jahrelanges Engagement für das BAT/QAT, maßgebliche Beteiligung an der Überarbeitung der Ranking-Kriterien und am Beatmap Nominator Test Management |
 | ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | Engagierter Beitrag zum BAT/QAT über unzählige Jahre hinweg |
-| ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) | Hunderte von Stunden an Statistiken und Analysen zu den Wettbewerben des World Cup |
-| ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | Herausragende Präsenz als Schiedsrichter bei Dutzenden Community-Wettbewerben |
+| ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) | Hunderte von Stunden an Statistiken und Analysen zu den Turnieren des World Cup |
+| ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | Herausragende Präsenz als Schiedsrichter bei Dutzenden Community-Turnieren |
 | ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | Hervorragende Leistungen bei Castings, Kommentierungen und ereignisbezogenen Berichten/Rückblicken |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Der Kopf hinter zahllosen Verbesserungen von osu!, von pp, zu einer neu geschriebenen Grafik-Engine, über Star-Rating und mehr! |
 | ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Herausragender Beitrag zum osu!(lazer)-Projekt |
@@ -119,7 +119,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | Benutzer | Beiträge |
 | :-- | :-- |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | World Cup Organisation & Gastgeber der osu! Coffee Hour |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Herausragender Beitrag zur Organisation des World Cups und anderer Wettbewerbe |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Herausragender Beitrag zur Organisation des World Cups und anderer Turniere |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Herausragender Beitrag als Mitglied des GMTs und osu!-Wiki-Teams |
 | ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | Hervorragende Beiträge in vielen Projekten und Bereichen |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | Hervorragende Arbeit bei Spielersupport und Problemlösung |
@@ -127,7 +127,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Entwickler zahlreicher Tools, die sich als integraler Bestandteil des modernen Ranking-Zyklus erwiesen haben |
 | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) | Herausragender Beitrag zum Beatmap-Spotlights-Projekt |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Herausragender Beitrag in zahlreichen Projekten und Bereichen |
-| ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) | Hervorragender Beitrag zum GMT und zur Aufrechterhaltung von Wettbewerben |
+| ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) | Hervorragender Beitrag zum GMT und zur Aufrechterhaltung von Turnieren |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved Teamleiter |
 | ![][flag_CA] [Kaifin](https://osu.ppy.sh/users/2596942) | Frühzeitige Unterstützung und Organisation des Project Loved |
 | ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) | Project Loved Captain (osu!catch) |
@@ -150,8 +150,8 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 
 | Benutzer | Beiträge |
 | :-- | :-- |
-| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Herausragende Beiträge zu Community-Angelegenheiten, Veranstaltungen und Wettbewerben |
-| ![][flag_SG] [hehe](https://osu.ppy.sh/users/2123087) | Herausragende Beiträge zur Mapping-Szene, zu Veranstaltungen und Wettbewerben |
+| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Herausragende Beiträge zu Community-Angelegenheiten, Veranstaltungen und Turnieren |
+| ![][flag_SG] [hehe](https://osu.ppy.sh/users/2123087) | Herausragende Beiträge zur Mapping-Szene, zu Veranstaltungen und Turnieren |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | Herausragende Beiträge zur Mapping-, Modding- und Metadaten-Szene |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | Herausragende Beiträge zum Spielmodus osu!mania |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Herausragende Beiträge zum Spielmodus osu!catch und zum Management |
@@ -163,9 +163,9 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | Herausragende, unermüdliche Beiträge für die osu!-Community im Allgemeinen |
 | ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) | Herausragende Beiträge zum osu! World Cup |
 | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203) | Herausragende Beiträge zum osu! World Cup |
-| ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) | Herausragende Beiträge zur osu!mania-Wettbewerbsszene |
-| ![][flag_DE] [Junihuhn](https://osu.ppy.sh/users/4182339) | Herausragende Beiträge für die osu! World Cups & Wettbewerbsszene |
-| ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) | Herausragende Beiträge zur osu!catch Wettbewerbsszene |
+| ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) | Herausragende Beiträge zur osu!mania-Turnierszene |
+| ![][flag_DE] [Junihuhn](https://osu.ppy.sh/users/4182339) | Herausragende Beiträge für die osu! World Cups & Turnierszene |
+| ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) | Herausragende Beiträge zur osu!catch-Turnierszene |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Herausragende Beiträge zur Community-Moderation |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | Herausragende, unermüdliche Unterstützung und Hilfe für Spieler |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Herausragende, unermüdliche Unterstützung und Hilfe für Spieler |
@@ -186,7 +186,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | ![][flag_PL] [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Herausragende Beiträge zur Entwicklung von osu! durch viele Projekte |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Herausragende Beiträge zur Skinning- und Moderationsszene von osu! |
 | ![][flag_US] [I Must Decrease](https://osu.ppy.sh/users/2773526) | Herausragende Beiträge zur Wartung und Entwicklung des Scorings |
-| ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) | Herausragende Beiträge zu den World Cups und Community-Wettbewerben |
+| ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) | Herausragende Beiträge zu den World Cups und Community-Turnieren |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentinien"
 [flag_AT]: /wiki/shared/flag/AT.gif "Österreich"

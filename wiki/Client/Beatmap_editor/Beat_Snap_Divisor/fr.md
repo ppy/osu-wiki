@@ -32,7 +32,7 @@ Le diviseur 1/2 permet de placer les objets sur des *demi battements* et leurs m
 
 Le diviseur 1/3 permet de placer les objets sur des *triplets*, c'est-à-dire la troisième fraction d'un temps, et leurs multiples (par exemple 1/3 et 2/3). Il est représenté par des ticks de couleur violette sur la timeline de l'éditeur.
 
-Bien que cela soit relativement rare, il existe certaines chansons et certains genres musicaux (par exemple le swing jazz) qui utilisent principalement ce diviseur tout au long du morceau.
+Bien que cela soit relativement rare, il existe certaines musiques et certains genres musicaux (par exemple le swing jazz) qui utilisent principalement ce diviseur tout au long du morceau.
 
 ## Diviseur 1/4
 
@@ -62,7 +62,7 @@ Ce diviseur est extrêmement rare et doit être utilisé avec précaution. Si vo
 
 Le diviseur 1/6 permet de placer des objets sur des *doubles triplets*, soit la sixième fraction d'un temps, et leurs multiples (par exemple 1/6 et 5/6). Il est représenté par des ticks de couleur violette sur la timeline de l'éditeur.
 
-Bien que cela soit relativement rare, il existe certaines chansons et certains genres musicaux (par exemple le swing jazz) qui utilisent principalement ce diviseur tout au long du morceau.
+Bien que cela soit relativement rare, il existe certaines musiques et certains genres musicaux (par exemple le swing jazz) qui utilisent principalement ce diviseur tout au long du morceau.
 
 ## Diviseur 1/7
 

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6bc1537ef8d5ee9c08602c13108e15ce6f1ab524
+---
+
 # osu!supporter
 
 *Untuk halaman osu!supporter dari situs web osu!, lihat [dukung permainan ini](https://osu.ppy.sh/home/support).*
@@ -16,8 +21,6 @@ Untuk mendapatkan osu!supporter, masuk (atau [daftar](/wiki/Registration)). Lalu
 
 ### Memilih durasi
 
-![Membeli osu!supporter](img/selecting-duration.jpg?1 "Memilih pengguna dan durasi untuk osu!supporter")
-
 Kartu pengguna yang ditampilkan di atas slider adalah pengguna yang akan membeli osu!supporter. Secara default, kartu pengguna ini akan berisi nama pengguna Anda. Untuk menghadiahkanya kepada teman, masukkan nama pengguna teman Anda (bukan ID pengguna) ke dalam kotak abu-abu di bawah kartu pengguna. Setelah tahap ini selesai, kartu pengguna akan berubah sesuai dengan nama pengguna yang Anda masukkan. Dari sini, Anda dapat memilih durasi osu!supporter yang ingin Anda berikan, tetapi perlu diingat bahwa tidak ada promosi untuk pemberian hadiah secara grup.
 
 Anda hanya dapat membeli atau menghadiahkan osu!supporter kepada satu pengguna tiap pembelian di halaman ini. Untuk menghadiahkan kepada pengguna lain, Anda harus kembali ke [halaman toko osu!supporter](https://osu.ppy.sh/store/products/supporter-tag) dan mengulangi kembali langkah-langkah pembelian untuk menghadiahkan pengguna lain.
@@ -25,8 +28,6 @@ Anda hanya dapat membeli atau menghadiahkan osu!supporter kepada satu pengguna t
 ### Pembayaran
 
 Setelah selesai, klik `Tambahkan ke Keranjang` untuk memasukannya ke keranjang belanja osu!store.
-
-![Keranjang belanja osu!store](img/shopping-cart.jpg?1 "Keranjang belanja osu!store beserta osu!supporter untuk flyte")
 
 Saat Anda siap melakukan pembayaran, buka [keranjang belanja](https://osu.ppy.sh/store/cart) Anda dan klik `Checkout`. Kemudian ikuti instruksi yang diberikan untuk melakukan pembayaran Anda.
 
@@ -39,9 +40,9 @@ Setelah transaksi selesai, bagian Aktivitas Terkini di akun Anda (jika Anda memb
 
 ### Halaman pengguna dan kartu pengguna
 
-![Halaman pengguna pemilik osu!supporter](img/userpage.jpg?1 "Halaman pengguna pemilik osu!supporter")
+![Halaman pengguna pemilik osu!supporter](img/userpage.png?1 "Halaman pengguna pemilik osu!supporter")
 
-![Kartu pengguna pemilik osu!supporter](img/usercard.png?1 "Kartu pengguna pemilik osu!supporter")
+![Kartu pengguna pemilik osu!supporter](img/usercard.png?2 "Kartu pengguna pemilik osu!supporter")
 
 Di web osu!, lencana osu!supporter dapat ditemukan di sebelah avatar pengguna dan di kartu pengguna di samping bendera negara Anda.
 

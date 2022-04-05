@@ -122,11 +122,11 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_US] États-Unis A |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_CL] Chili |
 
-## Liste des maps
+## Liste des beatmaps
 
 ### All-Stars Battle Royale
 
-**[Téléchargez le map pack ici! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
+**[Téléchargez la beatmap pack ici! (73 MB)](https://mega.nz/#!HXByya4R!moeuOzFnwhOC5Ja2YqXWRY-dE5YYbMyR2jNGmnC2wpg)**
 
 - NoMod
   1. [Silent Siren - Merry-Go-Round (hoku-4625) \[Shallty-Go-Round\]](https://osu.ppy.sh/beatmapsets/751585#taiko/1612301)
@@ -149,7 +149,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 ### All-Stars
 
-**[Téléchargez le map pack ici! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
+**[Téléchargez la beatmap pack ici! (84 MB)](https://mega.nz/#!iPAgxSpD!oZW07szzXj13W884z3zzw_6II2R8uqu1aWP22yxy8Vo)**
 
 - NoMod
   1. [Yuyoyuppe - AiAe (asuasu\_yura) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/447734#taiko/961162)
@@ -180,7 +180,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 ### Grande finale
 
-**[Download the map pack here! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
+**[Téléchargez la beatmap pack ici! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
 
 - NoMod
   1. [xi - Blue Zenith (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035965)
@@ -207,7 +207,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 ### Finales
 
-**[Téléchargez le map pack ici! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
+**[Téléchargez la beatmap pack ici! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
 
 - NoMod
   1. [Reol - Gigantic O.T.N (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/434182#taiko/937232)
@@ -234,7 +234,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 ### Demi-finales
 
-**[Téléchargez le map pack ici! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
+**[Téléchargez la beatmap pack ici! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
 
 - NoMod
   1. [Buta-Otome - Towa no Maigo (404 AccNotFound) \[Oni\]](https://osu.ppy.sh/beatmapsets/622175#taiko/1317865)
@@ -261,7 +261,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 ### Quarts de finale
 
-**[Téléchargez le map pack ici! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
+**[Téléchargez la beatmap pack ici! (80 MB)](https://mega.nz/#!2xlzGaDY!hXiqsiHh2U0iooB_5a0wnplYUC72is9m-3ifIYzaXgw)**
 
 - NoMod
   1. [Dreamcatcher - Chase Me (-omicron) \[Jaye's Lite Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/987174#taiko/2065074)
@@ -287,7 +287,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 ### Huitièmes de finale
 
-**[Téléchargez le map pack ici! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY)**
+**[Téléchargez la beatmap pack ici! (80 MB)](https://mega.nz/#!WSYUBY4Y!Hts6mX8TLvWtnolG42GhHyBQOHzM0lvMaBg8V0x_vDY)**
 
 - NoMod
   1. [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/261311#taiko/596741)
@@ -313,7 +313,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 ### Phase de groupe
 
-**[Téléchargez le map pack ici! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I)**
+**[Téléchargez la beatmap pack ici! (81 MB)](https://mega.nz/#!uKBU1QbB!kFcNmKfvD8BPwchJ0YzcjH2Esf57g20iMq1PI58Ry7I)**
 
 - NoMod
   1. [An - TearVid (Kokatsu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/79647#taiko/222678)
@@ -519,18 +519,18 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
    4. Le gagnant du match entre les équipes à égalité.
 7. Pendant la phase de groupe, une victoire par défaut est considérée comme une victoire 4:0, avec un ratio de différence de score de +1.0.
 8. La condition de victoire pour chaque tour est:
-   - Phase de groupe: BO9 (premier à 5 maps gagnées)
-   - Huitièmes de finale et Quarts de finale: BO11 (premier à 6 maps gagnées)
-   - Demi-finales, Finales, et Grandes Finales: BO13 (premier à 7 maps gagnées)
+   - Phase de groupe: BO9 (premier à 5 beatmaps gagnées)
+   - Huitièmes de finale et Quarts de finale: BO11 (premier à 6 beatmaps gagnées)
+   - Demi-finales, Finales, et Grandes Finales: BO13 (premier à 7 beatmaps gagnées)
 
 ### Format des mappools
 
 1. Il y aura 1 mappool pour chacun des tours suivants: phase de groupe, huitièmes de finale, quarts de finale, demi-finales, finales et grandes finales. Un pool différent sera préparé pour les All-star(voir la partie dédiée pour plus details).
 2. Le Loser's Bracket jouera sur le même pool que celui joué par le Winner's bracket le même weekend.
 3. Chaque mappool est constitué de 6 parties: NoMod, Hidden, HardRock, DoubleTime, FreeMod, et Tiebreaker.
-4. Le mappool de la phase de groupe sera constitué de 14 maps, celui des huitièmes et des quarts de finale de 15 maps et enfin celui des demi-finales, finales et grandes finales de 16 maps.
-5. Le pool HR, HD, et DT sera constitué de 2 maps et le pool FreeMod de 3 maps tout au long du tournoi.
-6. Les maps en Freemod sont jouées avec FreeMod activé. Chaque joueur peut choisir entre **Hidden, HardRock ou les deux. Au moins un joueur de chaque équipe doit avoir au moins un mod activé.**
+4. Le mappool de la phase de groupe sera constitué de 14 beatmaps, celui des huitièmes et des quarts de finale de 15 beatmaps et enfin celui des demi-finales, finales et grandes finales de 16 beatmaps.
+5. Le pool HR, HD, et DT sera constitué de 2 beatmaps et le pool FreeMod de 3 beatmaps tout au long du tournoi.
+6. Les beatmaps en Freemod sont jouées avec FreeMod activé. Chaque joueur peut choisir entre **Hidden, HardRock ou les deux. Au moins un joueur de chaque équipe doit avoir au moins un mod activé.**
 7. Le Tiebreaker est joué dans les mêmes conditions que Freemod cependant il n'est pas nécessaire qu'au moins un joueur doit avoir un mod activé.
 8. Le mappool pour chaque tour sera showcased une semaine à l'avance.
 
@@ -553,14 +553,14 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 7. Chaque capitaine doit bannir **une beatmap** prise dans le pool (sauf le Tiebreaker). Ces beatmaps ne pourront plus être pick par aucune équipe pendant tout le match.
 8. Le capitaine de chaque équipe va faire un jet de dés en tapant la commande `!roll` dans le chat.
 9. L'équipe avec le jet le **plus haut bannit en second et pick en premier.** L'équipe avec le jet le **plus bas bannit en premier et picks en second.**
-10. La sélection de la beatmap à jouer va alterner entre chaque capitaine choisissant une map du pool.
+10. La sélection de la beatmap à jouer va alterner entre chaque capitaine choisissant une beatmap du pool.
 11. Les capitaines peuvent pick librement dans n'importe quelle catégorie.
 12. Il est autorisé d'échanger les joueurs sans aucune limitation.
 13. Si un joueur déconnecte entre deux beatmaps et qu'une équipe n'a aucun remplaçant alors le match peut être retardé d'au maximum 10 minutes.
-14. Si un joueur déconnecte, il sera considéré comme ayant fail la map.
-15. Si la déconnexion est arrivée dans les 30 premières secondes d'une beatmap alors il est autorisé de recommencer la map. Cela est autorisé seulement une fois par équipe.
+14. Si un joueur déconnecte, il sera considéré comme ayant fail la beatmap.
+15. Si la déconnexion est arrivée dans les 30 premières secondes d'une beatmap alors il est autorisé de recommencer la beatmap. Cela est autorisé seulement une fois par équipe.
 16. Les scores des joueurs qui ont fail ne sont pas ajouté au score total de l'équipe.
-17. Si une beatmap finit sur une égalité alors la map est nullifiée et rejouée.
+17. Si une beatmap finit sur une égalité alors la beatmap est nullifiée et rejouée.
 18. Dans le cas d'une égalité des points (exemple: 4-4 en BO9), le Tiebreaker est selectionné.
 
 ### Règles pour le All-star
@@ -570,11 +570,11 @@ Le All-star est un évènement pour le fun qui a lieu le même weekend que la gr
 1. 12 joueurs vont participer à cet évènement. Ils seront choisis par vote.
 2. Les 12 joueurs avec le plus de votes vont participer aux All-star. Dans le cas où il y a plus de 2 joueurs d'un même pays dans le top 12, seuls les 2 premiers participeront.
 3. Les deux joueurs avec le plus de votes seront les capitaines. Ils vont choisir dans la liste des 10 joueurs les plus votés suivant. Le joueur avec le second plus grand nombre de vote commence à pick.
-4. 2 matchs de battle royale 3 vs 3 avec un mappool de 12 maps (2 NM,HR,HD,DT,FM,EX) auront d'abord lieu. (EX = hard maps) Les maps seront picks aléatoirement.
+4. 2 matchs de battle royale 3 vs 3 avec un mappool de 12 beatmaps (2 NM,HR,HD,DT,FM,EX) auront d'abord lieu. (EX = hard beatmaps) Les beatmaps seront picks aléatoirement.
 5. Un match 4 vs 4 aura aussi lieu avec les règles suivantes:
    - le mappool sera constitué de 5 NM,HR,HD,DT,FM,EX et 1 TB. (les règles pour les mods sont les mêmes que pour ceux d'un match normal)
    - pas de ban.
-   - le mod sera choisi aléatoirement avec un roll (et en se basant sur une table). La map sera ensuite choisie par hasard.
+   - le mod sera choisi aléatoirement avec un roll (et en se basant sur une table). La beatmap sera ensuite choisie par hasard.
    - il est autorisé d'échanger les joueurs sans aucune limitation.
    - mêmes règles qu'un match normal pour les déconnexions.
 

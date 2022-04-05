@@ -91,7 +91,7 @@ Si une équipe gagne dans plusieurs des catégories citées ci-dessus, elle sera
 ## Règles
 
 - **La soumission doit être une "expérience complète de beatmap" comprenant les éléments suivants :**
-  - Remix de la chanson **Kuba Oms - My Love**
+  - Remix de la musique **Kuba Oms - My Love**
   - La beatmap suivra les [critères de classement](/wiki/Ranking_Criteria)
   - Storyboard ou vidéo personnalisée
 - **La soumission doit être au format `.osz`.**
