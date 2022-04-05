@@ -66,7 +66,7 @@ Le dossier Skins contient des skins créés par les utilisateurs, qui peuvent ê
 
 Le dossier Songs contient les beatmaps d'osu! du joueur. Il contient généralement des fichiers `.osu` (difficultés), `.mp3`/`.ogg` (fichiers musicaux), `.jpg`/`.png`/`.gif` (images de fond), `.osb` (fichiers de storyboard) et `.mp4`/`.flv` (fichiers vidéo). Peut également contenir des fichiers `.wav`/`.ogg` (fichiers de sons) et des dossiers (dossiers de sprites de storyboard et/ou de skin).
 
-La structure des noms de fichiers est la suivante : `{Numéro de batmap} {Artiste} - {Titre de la chanson}`.
+La structure des noms de fichiers est la suivante : `{Numéro de batmap} {Artiste} - {Titre de la musique}`.
 **Exemple :** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
 Veuillez noter que certains beatmaps très anciens (par exemple, [Kenji Ninuma - DISCO PRINCE](https://osu.ppy.sh/beatmapsets/1) ou [Dudelstudios - Angry Video Game Nerd Theme [MATURE CONTENT]](https://osu.ppy.sh/beatmapsets/66)), ainsi que des beatmaps non publiés, ne respectent pas le format.
