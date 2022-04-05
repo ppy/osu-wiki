@@ -57,14 +57,13 @@ The Expert Global Taiko Shwodown 2021 was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1324349)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1412280)
 - [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com/2021/rgts)
+- [GTS website](https://gtsosu.com/2021/egts/home)
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
-- [Challonge bracket](https://challonge.com/RGTS2021)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/64) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Challonge bracket](https://challonge.com/EGTS2021)
 
 ## Participants
 
