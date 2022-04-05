@@ -21,7 +21,7 @@ The **Squad Global Taiko Showdown 2021** (***SGTS 2021***) was a worldwide doubl
 | Round of 32 | 2022-01-15/2022-01-16 |
 | Round of 16 | 2022-01-22/2022-01-23 |
 | Quarterfinals | 2022-01-29/2022-01-30 |
-| Semifinals | 2022-02-05/2021-02-06 |
+| Semifinals | 2022-02-05/2022-02-06 |
 | Finals | 2022-02-12/2022-02-13 |
 | Grand Finals | 2022-02-20 |
 
