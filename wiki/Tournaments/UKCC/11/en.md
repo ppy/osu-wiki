@@ -89,6 +89,37 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
 
 ## Mappools
 
+### Grand Finals
+
+- NoMod
+  1. [BUD VIRGIN LOGIC - Danzai no Solitude (Mordred) [no modification one]](https://osu.ppy.sh/beatmapsets/1575604#osu/3216821)
+  2. [t+pazolite - Buzy Lake (An Remix) (Cut Ver.) (Acylica) [lemur]](https://osu.ppy.sh/beatmapsets/1551111#osu/3169717)
+  3. [Mio Yamazaki - Byoushin Zenkai Girl (Sparhten) [Keep Going Forward]](https://osu.ppy.sh/beatmapsets/1402550#osu/2893305)
+  4. [Tanchiky - Riot (Feiri) [Expert]](https://osu.ppy.sh/beatmapsets/1645961#osu/3359700)
+  5. [Vaenus - Lazorbeamz (Musty) [;)]](https://osu.ppy.sh/beatmapsets/1616936#osu/3301542)
+  6. [CHON - Splash (mezelyus) [Alacrity]](https://osu.ppy.sh/beatmapsets/1570536#osu/3207058)
+- Hidden
+  1. [Ito Kashitaro - Yuudachi no Ribbon (Yudragen) [Flash of Eternity]](https://osu.ppy.sh/beatmapsets/1383608#osu/2858218)
+  2. [Carpool Tunnel - Hooked Again (funny) [man]](https://osu.ppy.sh/beatmapsets/1611095#osu/3289387)
+  3. [Nhato - Virus Funk (Zelq) [chonk Z]](https://osu.ppy.sh/beatmapsets/1581352#osu/3229058)
+  4. [REDALiCE - DEAD or DIE (Cyberia950) [Extra (MRC Edit)]](https://osu.ppy.sh/beatmapsets/1570534#osu/3359671)
+- HardRock
+  1. [Nekomata Master - Despair of Elferia (-Tochi) [ANIMUM DESPONDEO]](https://osu.ppy.sh/beatmapsets/1069504#osu/2238810)
+  2. [Luck Ganriki - Usan no Kaori (feat. Kino Nei) (Shirasaka Koume) [ExtrA]](https://osu.ppy.sh/beatmapsets/990363#osu/2071581)
+  3. [Yousei Teikoku - Naikan Uchuu Shisha no Yurikago (IsomirDiAngelo) [Extreme]](https://osu.ppy.sh/beatmapsets/1306595#osu/2709056)
+  4. [BlackY - Sthenno (Rtyzen) [STAR]](https://osu.ppy.sh/beatmapsets/991780#osu/2074136)
+- DoubleTime
+  1. [Komiya Mao - (can you) understand me? (Okoratu) [huh?]](https://osu.ppy.sh/beatmapsets/409898#osu/889634)
+  2. [Synthamesk - Suspirious (fergas) [AfteraLL]](https://osu.ppy.sh/beatmapsets/1312111#osu/2719407)
+  3. [Kijibato - w/WWW feat. Hoshimiya Toto (Elcheer) [Utopia]](https://osu.ppy.sh/beatmapsets/1312343#osu/2719893)
+  4. [Rin - Mythic set \~ Hanahazama no Battlefield (Aeril) [Lunatic]](https://osu.ppy.sh/beatmapsets/1013620#osu/2121524)
+- FreeMod
+  1. [Falcom Sound Team jdk - RELEASE OF THE FAR WEST OCEAN (CSY the corrupt) [Corruption]](https://osu.ppy.sh/beatmapsets/77504#osu/217493)
+  2. [kors k - SigSig (AJT) [Dream]](https://osu.ppy.sh/beatmapsets/1615650#osu/3298591)
+  3. [DECO\*27 - Ghost Rule (val0108) [z1085684963's Extra]](https://osu.ppy.sh/beatmapsets/425169#osu/951521)
+- Tiebreaker
+  1. **[Yooh - RPG (Zelq) [Divinity]](https://osu.ppy.sh/beatmapsets/1633250#osu/3333745)**
+
 ### Finals
 
 - NoMod
@@ -248,6 +279,38 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
   2. [Inoue Marina - Pieces of Sweet Stars (whymeman) [S.t.a.r.S]](https://osu.ppy.sh/beatmapsets/8436#osu/34657)
 
 ## Match Results
+
+### Finals
+
+#### Winner Finals
+
+Saturday, 26 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| The | 6 | **7** | **denial piano** | [#1](https://osu.ppy.sh/community/matches/99116190) |
+
+#### Losers Bracket Round 6
+
+Saturday, 26 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| The PokiStans | 1 | **7** | **go wild Idm** | [#1](https://osu.ppy.sh/community/matches/99122113) |
+
+Sunday, 27 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ABSOLUTE UNITS | 2 | **7** | **Luciano Fan Club** | [#1](https://osu.ppy.sh/community/matches/99156013) |
+
+#### Losers Bracket Round 7
+
+Sunday, 27 March 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Luciano Fan Club** | **7** | 0 | go wild Idm | [#1](https://osu.ppy.sh/community/matches/99161492) |
 
 ### Semifinals
 
