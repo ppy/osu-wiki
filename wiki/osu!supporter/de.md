@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6bc1537ef8d5ee9c08602c13108e15ce6f1ab524
+---
+
 # osu!supporter
 
 *Für die osu!supporter Seite der Website, siehe: [Das Spiel unterstützen](https://osu.ppy.sh/home/support)*
@@ -16,8 +21,6 @@ Um osu!supporter zu erhalten, melde dich an (oder [registriere dich](/wiki/Regis
 
 ### Auswählen der Dauer
 
-![Kauf von osu!supporter](img/selecting-duration.jpg?1 "Auswahl des Benutzers und der Dauer für osu!supporter")
-
 Die Benutzerkarte, die über dem Schieberegler angezeigt wird, ist der Benutzer, für den du osu!supporter kaufst. In der Standardeinstellung sollte es deine Benutzerkarte sein. Um einem Freund ein Geschenk zu machen, gib den Benutzernamen deines Freundes (nicht die Benutzer-ID) in das graue Feld unter der Benutzerkarte ein. Sobald dies geschehen ist, wird die Benutzerkarte auf den von dir eingegebenen Benutzernamen geändert. Von hier aus kannst du dann die Dauer von osu!supporter auswählen, die du verschenken möchtest, aber beachte, dass es keine Aktion für Gruppengeschenke gibt.
 
 Du kannst osu!supporter immer nur für einen Benutzer auf diesem Bildschirm kaufen oder verschenken. Um einen weiteren Benutzer zu beschenken, musst du zurück zur [osu!supporter Store-Seite](https://osu.ppy.sh/store/products/supporter-tag) gehen und die Schritte zum Hinzufügen eines weiteren Benutzers wiederholen.
@@ -25,8 +28,6 @@ Du kannst osu!supporter immer nur für einen Benutzer auf diesem Bildschirm kauf
 ### Zur Kasse gehen
 
 Wenn du fertig bist, klicke auf `Zum Warenkorb hinzufügen`, um den Artikel in den osu!store-Warenkorb zu legen.
-
-![osu!store Warenkorb](img/shopping-cart.jpg?1 "osu!store Warenkorb mit osu!supporter für Geshii")
 
 Wenn du bereit bist, den Kauf zu tätigen, gehe zu deinem [Warenkorb](https://osu.ppy.sh/store/cart) und klicke auf `Zur Kasse`. Folge dann den Anweisungen, um deine Zahlung vorzunehmen.
 
@@ -39,9 +40,9 @@ Nachdem die Transaktion abgeschlossen ist, wird in deinem Account (wenn du es f�
 
 ### Benutzerseite und Benutzerkarte
 
-![Benutzerseite mit osu!supporter](img/userpage.jpg?1 "Benutzerseite mit osu!supporter")
+![Benutzerseite mit osu!supporter](img/userpage.png?1 "Benutzerseite mit osu!supporter")
 
-![Benutzerkarte mit osu!supporter](img/usercard.png?1 "Benutzerkarte mit osu!supporter")
+![Benutzerkarte mit osu!supporter](img/usercard.png?2 "Benutzerkarte mit osu!supporter")
 
 Im osu!web befindet sich das osu!supporter Abzeichen neben dem Benutzeravatar und in der Benutzerkarte neben der Landesflagge.
 Das osu!supporter Abzeichen ändert sich, je nachdem, wie lange du das Spiel unterstützt hast. Wenn du das Spiel weniger als 1 Jahr lang unterstützt, erhältst du 1 Herz; für 1–5 Jahre erhältst du 2 Herzen; und für mehr als 5 Jahre erhältst du 3 Herzen.

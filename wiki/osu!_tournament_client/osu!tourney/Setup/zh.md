@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: ef481df76475a6367dc1fd8369836cab766f8df1
+---
+
 <!-- TODO: mention lazer tournament client -->
 
 # 设置 osu!tourney

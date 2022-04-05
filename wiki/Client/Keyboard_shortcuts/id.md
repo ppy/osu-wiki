@@ -191,13 +191,6 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 ### Tab Compose
 
-#### Mouse
-
-| Tombol *shortcut* | Fungsi |
-| :-- | :-- |
-| `Klik Kiri` dua kali | Berpindah secara cepat ke posisi objek yang dipilih. (osu!, osu!taiko, dan osu!catch) |
-| `Klik Kanan` | Mengaktifkan/menonaktifkan penerapan New Combo (pada saat hendak menempatkan objek baru) atau menghapus objek (pada saat memilih objek). |
-
 #### Umum
 
 | Tombol *shortcut* | Fungsi |
@@ -216,6 +209,13 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `1`, `2`, atau `3` | Mengaktifkan mode Select, Circle, dan Hold (osu!mania). |
 | `Ctrl` + `Alt` + `Roda Mouse ke Atas/Bawah` | Mengubah mode pemilihan/penempatan objek yang aktif. |
 | `Ctrl` + `Shift` + `A` | Membuka jendela [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
+
+#### Mouse
+
+| Tombol *shortcut* | Fungsi |
+| :-- | :-- |
+| `Klik Kiri` dua kali | Berpindah secara cepat ke posisi objek yang dipilih. (osu!, osu!taiko, dan osu!catch) |
+| `Klik Kanan` | Mengaktifkan/menonaktifkan penerapan New Combo (pada saat hendak menempatkan objek baru) atau menghapus objek (pada saat memilih objek). |
 
 #### Playfield
 

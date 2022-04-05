@@ -5,6 +5,8 @@ tags:
 
 # Nomination Assessment Team
 
+*See also: [Beatmap Nominator evaluations](Evaluations)*
+
 The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) and ensure the beatmapping side of osu! stays functional.
 
 Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), they have site-wide moderation permissions and a dark red username in the game's chat channels.
@@ -17,7 +19,7 @@ Members of the NAT are distinguished by their red username and user title. Like 
 
 The NAT are responsible for a variety of mapping-related tasks that can be separated into four subcategories:
 
-- **Evaluation:** Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. Most NAT members are responsible for contributing to this subcategory.
+- **Evaluation:** Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. Most NAT members are responsible for contributing to this subcategory. For full details on how evaluations work, please see the [evaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) page.
 - **Structural:** Documenting topics surrounding the ranking process, amending rules and guidelines to the [ranking criteria](/wiki/Ranking_Criteria), developing and maintaining related tools and websites.
 - **Moderation:** Handling user reports and assessing inappropriate behaviour of Beatmap Nominators. This subcategory is a joint effort between the NAT and the GMT.
 - **Communication:** Promoting transparency between the NAT and the mapping/modding community, including the creation and hosting of meetings.
@@ -47,7 +49,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, moderation |
-| ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  | Evaluation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, structural, moderation, communication |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
@@ -78,13 +79,15 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
+| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese | Evaluation |
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluation |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
-<!-- last update: 2022-02-17 removing Spectator and Adding Secre -->
+<!-- last update: 2022-03-08 with the removal of AJT from the NAT-->
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"

@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 17fb11cfdf1bc72ce3f85c62bed260d9870c1cc8
 tags:
   - NAT
 ---
@@ -47,7 +49,6 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Değerlendirme, moderasyon |
-| ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  | Değerlendirme |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Değerlendirme |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça | Değerlendirme, yapısal, moderasyon, haberleşme |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Yapısal, haberleşme |
@@ -78,11 +79,13 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
+| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Çince | Değerlendirme |
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | İspanyolca, Portekizce, Galiçyaca, İtalyanca, Japonca | Değerlendirme |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Değerlendirme |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
 [flag_CL]: /wiki/shared/flag/CL.gif "Şili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Çin"
 [flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
 [flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
 [flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
