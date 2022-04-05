@@ -221,7 +221,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 2. Captains decide their team members during the drafting phase.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms. 
 3. There will be a 120-second planning phase before the picking phase starts.
-4. During the picking phase, picks start from in *increasing* order, from the 1st to the 16th captain. The pick order repeat quadruple, such that every captains gets to pick 4 times.
+4. During the picking phase, picks start in *increasing* order, from the 1st to the 16th captain. The picks repeat four times, such that every captain gets to choose 4 players.
 5. Each captain has 60 seconds to pick one player from the player pool on their turn. 
    - If the captain does not pick an player within 60 seconds, a random player from the remaining player pool will be assigned to their team.
 6. If the captain picks a player, the pick time still has to elapse before the next captain's turn starts, meaning each phase will take 16 minutes.
