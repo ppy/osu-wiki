@@ -192,13 +192,6 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 
 ### Compose
 
-#### Souris
-
-| Raccourci | Action |
-| :-- | :-- |
-| `Double Click` | Sur les cercles ou les extrémités du slider pour sauter à la position de l'objet dans la timeline à partir de n'importe quel point de la musique. (osu!, osu!taiko, osu!catch) |
-| `Right Click` | Active/Désactive un nouveau combo (lors du placement de nouveaux objets) ou supprime un objet (lors de la sélection). |
-
 #### Général
 
 | Raccourci | Action |
@@ -217,6 +210,13 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 | `1`, `2`, ou `3` | Passe du mode placement/sélection : sélection, cercle et hold respectivement (osu!mania). |
 | `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Active/Désactive entre les modes de placement/sélection. |
 | `Ctrl` + `Shift` + `A` | Ouvre [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
+
+#### Souris
+
+| Raccourci | Action |
+| :-- | :-- |
+| `Double Click` | Sur les cercles ou les extrémités du slider pour sauter à la position de l'objet dans la timeline à partir de n'importe quel point de la musique. (osu!, osu!taiko, osu!catch) |
+| `Right Click` | Active/Désactive un nouveau combo (lors du placement de nouveaux objets) ou supprime un objet (lors de la sélection). |
 
 #### Terrain de jeu
 
@@ -288,7 +288,7 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 
 | Raccourci | Action |
 | :-- | :-- |
-| `T` | Définit le BPM et le décalage lorsque vous tapez sur le rythme de la chanson. |
+| `T` | Définit le BPM et le décalage lorsque vous tapez sur le rythme de la musique. |
 | `Shift` tout en ajustant le BPM ou le décalage | Incrémente 5 fois le montant normal. |
 | `Ctrl` tout en ajustant le BPM | Incrémente de 0,25. |
 | `Ctrl` tout en ajustant l'offset | Incrémente de 1. |

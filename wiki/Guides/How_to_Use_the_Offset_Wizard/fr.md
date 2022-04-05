@@ -16,7 +16,7 @@ L'assistant de décalage s'ouvre alors, jouant la musique qui était précédemm
 
 ## Calibrage du décalage universel
 
-1. Écoutez attentivement la chanson et le métronome qui jouent ensemble.
+1. Écoutez attentivement la musique et le métronome qui jouent ensemble.
 2. Commencez à ajuster le décalage universel vers le haut ou vers le bas, en utilisant les touches fléchées correspondantes, ou la molette de la souris.
    - Si les hitsounds semblent se jouer trop tôt lorsque vous jouez, vous devrez *diminuer* votre décalage universel.
    - Si les hitsounds semblent se jouer trop tard lorsque vous jouez, vous devrez *augmenter* votre décalage universel.

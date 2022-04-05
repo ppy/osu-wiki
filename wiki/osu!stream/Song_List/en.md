@@ -4,7 +4,7 @@
 
 osu!stream features up to 45 playable songs spread across various bundles and song packs. As of [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release), all songs are available for download and play for free.
 
-At the Store menu, you can scroll through the list of all available song packs and preview the beatmaps inside before downloading. Upon selecting the `PREVIEW` button, you'll be able to see a short gameplay demo of all four difficulties in a beatmap from the lowest difficulty to the highest [in their corresponding stream order](/wiki/osu!stream#new-game-play-system).
+At the Store menu, you can scroll through the list of all available song packs and preview the beatmaps inside before downloading. Upon selecting the `PREVIEW` button, you'll be able to see a short gameplay demo of all four difficulties in a beatmap from the lowest difficulty to the highest [in their corresponding stream order](/wiki/osu!stream#new-gameplay-system).
 
 Just like the [Featured Artists](/wiki/Featured_Artists) osu! has nowadays, all songs available in the game are either commissioned or licensed ahead of their release. It is worth noting that osu!stream beatmaps come in the `.osf2` file format (instead of [`.osz`](/wiki/osu!_File_Formats/Osz_(file_format))) and are therefore not compatible with the regular osu! client.
 

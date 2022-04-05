@@ -58,11 +58,11 @@ Lorsque vous jouez une beatmap utilisant cette technique, il peut être très di
 
 Nominateur(s) : [SapphireGhost](https://osu.ppy.sh/users/388602)
 
-Les **drain sections** sont des sections dans une beatmap qui deviennent soudainement *plus lentes* ou *moins difficiles* dans le but de mieux correspondre à la chanson ou de faire baisser la barre de vie.
+Les **drain sections** sont des sections dans une beatmap qui deviennent soudainement *plus lentes* ou *moins difficiles* dans le but de mieux correspondre à la musique ou de faire baisser la barre de vie.
 
 Cela peut être fait en plaçant moins de notes et/ou en ralentissant la vitesse du slider.
 
-Les sections de drainage doivent être utilisées avec parcimonie et uniquement lorsque la chanson peut *s'y prêter*.
+Les sections de drainage doivent être utilisées avec parcimonie et uniquement lorsque la musique peut *s'y prêter*.
 
 ### Half-Backing
 
@@ -103,8 +103,8 @@ Il est très important que le mappeur indique clairement la direction dans laque
 Nominateur(s) : [Pasonia](https://osu.ppy.sh/users/43345)
 
 Le **spacing out** fait référence aux objets tels qu'ils sont placés en termes de distance, et non de temps.
-Cette technique a l'avantage de maintenir l'élan d'un morceau pendant cette section de la map.
-Cependant, un patternmapping incorrect peut conduire à une map quasiment injouable.
+Cette technique a l'avantage de maintenir l'élan d'un morceau pendant cette section de la beatmap.
+Cependant, un patternmapping incorrect peut conduire à une beatmap quasiment injouable.
 
 En gros, formez un carré autour du centre avec 4 cercles.
 Les 4 cercles suivants doivent ensuite être placés 1 espace de grille plus loin et ainsi de suite.
@@ -135,9 +135,9 @@ Les **slider slowdowns** ralentissent brusquement un slider en divisant temporai
 Nominateur(s) : [pieguyn](https://osu.ppy.sh/users/107485)
 
 Les **compressed streams** utilisent des cercles qui ne sont séparés que par 3 espaces de grille (sur un niveau à 2 ou 3 grilles).
-Sinon, il suffit de rendre le stream considérablement plus petit par rapport au reste de la map.
+Sinon, il suffit de rendre le stream considérablement plus petit par rapport au reste de la beatmap.
 
-La majorité des maps qui utilisent des streams sont plus susceptibles d'utiliser des streams compressés.
+La majorité des beatmaps qui utilisent des streams sont plus susceptibles d'utiliser des streams compressés.
 
 ### Discontinuous Streams
 
@@ -154,7 +154,7 @@ Il s'agit de sliders (avec ou sans répétitions), de cercles ou d'une combinais
 
 Le but d'un deathstream est de pratiquement faire échouer les joueurs qui ne peuvent pas gérer les streams ordinaires.
 
-L'utilisation de deathstreams rendra votre map **unrankable**!
+L'utilisation de deathstreams rendra votre beatmap **unrankable**!
 Cependant, il peut être accepté comme l'une des beatmaps *approuvée*.
 
 ### Slider Stream Jumps
@@ -172,7 +172,7 @@ Essentiellement, vous sautez avec votre slider et votre stream, d'où le terme *
 Nominateur(s) : [Lybydose](https://osu.ppy.sh/users/64501)
 
 Les **triplet streams** utilisent un ensemble de trois cercles qui doivent être frappés en succession rapide.
-Ceux-ci sont généralement placés dans un diviseur d'un quart de temps en fonction du BPM de la map.
+Ceux-ci sont généralement placés dans un diviseur d'un quart de temps en fonction du BPM de la beatmap.
 
 Ils peuvent être en une seule succession ou en plusieurs, selon ce que souhaite le mappeur.
 
