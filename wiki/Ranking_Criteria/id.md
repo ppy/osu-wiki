@@ -167,7 +167,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **Jika lagu mapset dikontribusikan oleh beberapa artis, mereka dapat dicantumkan dengan tanda koma di antaranya.** Jika ada 3 atau lebih artis yang berkontribusi dan mereka bukan bagian dari grup berlabel resmi, `Various Artists` atau nama deskriptif lainnya dapat digunakan sebagai gantinya.
 - **Untuk remix/cover, artis asli boleh digunakan di kolom artis, selama kolom judul diubah untuk menunjukkan dengan jelas bahwa lagu tersebut di-remix.** Penanda ini harus berada dalam tanda kurung dan berisi remix/cover artis diikuti dengan deskriptor.
 - **Untuk pertunjukan langsung dari sebuah lagu, judul harus menyertakan tanda `(Live Ver.)`.** Hal-hal relevan dari pertunjukan harus ditambahkan pada deskripsi beatmap dan tag, seperti tanggal dan lokasi pertunjukkan.
-- **Kata-kata yang dimasukkan ke dalam tags metadata dapat diulang, dengan alasan bagian dari istilah atau susunan kata yang lebih panjang relevan dengan beatmap.**
+- **Kata-kata yang dimasukkan ke dalam tags metadata dapat berulang, selama kata yang berulang merupakan bagian dari istilah atau frasa yang lebih panjang dan relevan terhadap beatmap.**
 
 ## Timing
 
