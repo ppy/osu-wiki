@@ -796,7 +796,6 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
 [flag_MD]: /wiki/shared/flag/MD.gif "Moldova"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
