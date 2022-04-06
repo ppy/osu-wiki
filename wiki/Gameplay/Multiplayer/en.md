@@ -84,7 +84,7 @@ After going into or creating a match, the match setup will be displayed. The sub
 
 The [options](/wiki/Client/Options) can be accessed by pressing `Ctrl` + `O` while in a match.
 
-The match setup screen looks different for hosts and players. Here is what you can see as the host:
+The match setup screen looks different for hosts and players. Further, the host can see the following:
 
 ![](img/Multi_roomhost.jpg "Example of the match as a host")
 
@@ -96,7 +96,7 @@ And here is the view of the player:
 
 ![](img/multi-match-header.jpg "Example of the header")
 
-There is a phrase in the top-left displaying `Match Setup`, and whether you're the host or a player.
+There is a phrase in the top-left displaying `Match Setup`, and whether the player is a host or a normal player.
 
 In the middle, there's a box containing information about the player's profile. This will display the account's name, the [total pp](/wiki/Performance_points/Total_performance_points), the [overall accuracy](/wiki/Beatmapping/Overall_difficulty), the level, the rank and the [game mode](/wiki/Game_mode) that is currently chosen.
 
@@ -214,10 +214,10 @@ The blue button is used to control the player ready state and to start the match
 
 | Title | Description |
 | :-: | :-- |
-| `Ready!` | Click to mark yourself as ready (green on the player list). The button will change to `Not Ready`. For the match host, it will change to either `Start Game!` or `Force Start Game!` if there are players in the lobby. |
-| `Not Ready` | Click to mark yourself as not ready (white on the player list). The button will change to `Ready!` |
-| `Start Game!` | Click to start the match. This button only appears for the match host when all players are ready. |
-| `Force Start Game! ({ready}/{total})` | Click to start the match, even if not all of the players are ready. This button only appears for the match host when some players are ready. The amount of ready players compared to the total amount of players is shown in parentheses. |
+| `Ready!` | The player can click it to mark himself as ready (green on the player list). The button will change to `Not Ready`. For the match host, it will change to either `Start Game!` or `Force Start Game!` if there are players in the lobby. |
+| `Not Ready` | The player can click it to mark himself as not ready (white on the player list). The button will change to `Ready!` |
+| `Start Game!` | The host can click it to start the match. This button only appears for the match host when all players are ready. |
+| `Force Start Game! ({ready}/{total})` | The host can click it to start the match, even if not all of the players are ready. This button only appears for the match host when some players are ready. The amount of ready players compared to the total amount of players is shown in parentheses. |
 
 ### Match history
 
