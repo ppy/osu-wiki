@@ -611,7 +611,7 @@ Friday, 8 October 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| 9\_9 ![][flag_US] | 4 | **5** | ![][flag_BE] **XOlifreX** | [#1]() |
+| 9\_9 ![][flag_US] | 4 | **5** | ![][flag_BE] **XOlifreX** | [#1](https://osu.ppy.sh/community/matches/92093712) |
 
 Saturday, 9 October 2021:
 
