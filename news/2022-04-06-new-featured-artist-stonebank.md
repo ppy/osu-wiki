@@ -4,7 +4,7 @@ title: "New Featured Artist: Stonebank"
 date: 2022-04-06 09:00:00 +0000
 ---
 
-In collaboration with electronic music’s leading independent record label, *Monstercat*, British producer **Stonebank** unveils a new chapter for our Featured Artist library!
+In collaboration with electronic music's leading independent record label, *Monstercat*, British producer **Stonebank** unveils a new chapter for our Featured Artist library!
 
 ![](https://assets.ppy.sh/artists/254/header.jpg)
 
@@ -24,7 +24,7 @@ Check everything out for yourself:
 
 ### The Pressure
 
-Play through [the osu! map from the video above](https://osu.ppy.sh/beatmapsets/325307)hosted by [Asserin](https://osu.ppy.sh/users/3111087) or [this osu!mania map](https://osu.ppy.sh/beatmapsets/952619) hosted by [Voxa](https://osu.ppy.sh/users/9229539)!
+Play through [the osu! map from the video above](https://osu.ppy.sh/beatmapsets/325307) hosted by [Asserin](https://osu.ppy.sh/users/3111087) or [this osu!mania map](https://osu.ppy.sh/beatmapsets/952619) hosted by [Voxa](https://osu.ppy.sh/users/9229539)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/254/Songs/Stonebank%20-%20The%20Pressure.mp3" type="audio/mpeg">
