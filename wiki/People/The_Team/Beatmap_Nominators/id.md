@@ -83,8 +83,8 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Jerman |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korea |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Mandarin |
-| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Jerman |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Rusia |
 | ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Jerman |
@@ -102,6 +102,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korea |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Rusia |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
+| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Mandarin |
 | ![][flag_HK] [Saggin](https://osu.ppy.sh/users/12464107) | Mandarin, Kanton, sedikit Jepang |
 | ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | Prancis |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
@@ -136,7 +137,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Arab, Prancis, sedikit Italia |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
 | ![][flag_BR] [Idealism](https://osu.ppy.sh/users/3869519) | Portugis |
-| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Belanda |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandia, Jepang |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Jepang, Kanton, Mandarin |
 | ![][flag_RU] [Lexa14](https://osu.ppy.sh/users/15397129) | Rusia |
@@ -153,6 +153,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thai |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Kanton |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Belanda |
 | ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530) | Polandia |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Yunani |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korea |
@@ -166,17 +167,17 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Mandarin |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
 | ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
+| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Mandarin |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korea |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | Vietnam |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Tagalog |
 | ![][flag_ID] [Lita-](https://osu.ppy.sh/users/15205070) | Indonesia |
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesia |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Indonesia |
-| ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) | Indonesia |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korea |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Belanda |
 | ![][flag_ES] [PuigdemontLoL](https://osu.ppy.sh/users/7080063) | Spanyol |
@@ -191,16 +192,18 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
+| ![][flag_PT] [Basensorex](https://osu.ppy.sh/users/11655886) | Portugis |
 | ![][flag_KR] [Cellina](https://osu.ppy.sh/users/2490770) | Korea |
+| ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | Spanyol |
 | ![][flag_KR] [Len](https://osu.ppy.sh/users/1686145) | Korea |
 | ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
-| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Mandarin |
 | ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Lituania |
 
 #### osu!taiko
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
+| ![][flag_JP] [Chromoxx](https://osu.ppy.sh/users/1881639) | Jepang |
 | ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | Sedikit Jepang, sedikit Jerman |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | Rusia |
 
@@ -213,10 +216,8 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | Mandarin |
-| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Mandarin |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesia |
-| ![][flag_KR] [Paran](https://osu.ppy.sh/users/13340203) | Korea |
+| ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
+| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 
 ## Sejarah
 
@@ -242,6 +243,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IE]: /wiki/shared/flag/IE.gif "Irlandia"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
 [flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
 [flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
@@ -252,6 +254,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"

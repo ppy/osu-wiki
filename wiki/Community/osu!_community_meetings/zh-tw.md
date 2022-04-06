@@ -45,6 +45,7 @@ no_native_review: true
 | 10 | [2022 年 2 月 6 號](https://youtu.be/xA4nbE8DM4s) | [筆記](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | 各類由社群提出的問題 |
 | 11 | [2022 年 2 月 20 號](https://youtu.be/d66pU5lsHvE) | - | Mod 加乘及分數 |
 | 12 | [2022 年 3 月 6 號](https://youtu.be/HimCHAnPCCY) | - | 排行榜、交叉相容性、osu!(lazer) 的發佈準備 |
+| 13 | [2022 年 3 月 20 號](https://youtu.be/2Cp9rm0rNPQ) | [筆記](https://docs.google.com/document/d/1X6ak_3CXxTYQLz71yhSTsKkl7cm74iaCQ7wecDkE6uQ) | 開發最新進度、各類由社群提出的問題 |
 
 ## 相關連結
 

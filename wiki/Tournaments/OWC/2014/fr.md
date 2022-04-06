@@ -507,7 +507,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 1. Chaque phase se verra attribuer des beatmaps uniques.
 2. Les beatmaps seront réparties en 5 catégories : NoMod, [HardRock](/wiki/Game_modifier/Hard_Rock), [Hidden](/wiki/Game_modifier/Hidden), [DoubleTime](/wiki/Game_modifier/Double_Time) et FreeMod.
 3. Durant chaque phase, 19 beatmaps, dont un tiebreaker, seront mises à la disposition des joueurs.
-4. Aucun mod n'est autorisé pour les maps de la catégorie NoMod.
+4. Aucun mod n'est autorisé pour les beatmaps de la catégorie NoMod.
 5. Les beatmaps des catégories Hidden, HardRock et DoubleTime doivent être jouées avec le mod approprié.
 6. Les beatmaps de la catégorie FreeMod ainsi que le tiebreaker doivent être jouées avec l'option FreeMod activée. Chaque joueur peut alors sélectionner à sa guise le ou les mods de son choix entre Hidden, HardRock et Flashlight, ou ne pas en sélectionner s'il le désire.
    1. Pour cette catégorie, au moins deux joueurs de chaque équipe doivent activer au minimum un mod (cette condition ne s'applique pas pour le tiebreaker).

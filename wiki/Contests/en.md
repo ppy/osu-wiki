@@ -255,7 +255,7 @@ The **osu!taiko Featured Artist Cup #1** is an osu!taiko mapping contest where c
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
-| [#1](/wiki/Contests/o!tFAC/1) | *TBD* | *TBD* | *TBD* | *TBD* |
+| [#1](/wiki/Contests/o!tFAC/1) | ![][flag_KR] [woosungko](https://osu.ppy.sh/users/14184157) | ![][flag_TH] [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
 
 ### Pending Cup
 

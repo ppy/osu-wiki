@@ -34,7 +34,7 @@ Où :
 - 9 - Bas-Droit
 - `(filepath)` est, en termes simples, le **nom de l'image que vous voulez.** Mais ce n'est pas toujours aussi simple :
   - Si vous avez un sous-dossier dans votre dossier Song, vous devez également l'inclure.
-    - Exemple : "backgrounds/sky.jpg" si vous avez un sous-dossier appelé "backgrounds" contenant une image appelée "sky.jpg". Commencez à énumérer les répertoires uniquement à partir du dossier des chansons, où se trouve le fichier .osu ou .osb (c'est-à-dire un chemin de fichier relatif). Il ne doit pas contenir quelque chose comme "C:".
+    - Exemple : "backgrounds/sky.jpg" si vous avez un sous-dossier appelé "backgrounds" contenant une image appelée "sky.jpg". Commencez à énumérer les répertoires uniquement à partir du dossier des musiques, où se trouve le fichier .osu ou .osb (c'est-à-dire un chemin de fichier relatif). Il ne doit pas contenir quelque chose comme "C:".
   - Les animations sont désignées sans leur numéro. Ainsi, si vous avez "sample0.png" et "sample1.png" comme deux cadres pour faire une seule animation, vous voulez y faire référence comme "sample.png".
   - Les `""` sont techniquement facultatifs, mais ils sont obligatoires si votre nom de fichier ou de sous-dossier comporte des espaces.
     - Exemple : "SB/J\_K.jpg" plutôt que SB/J\_K.jpg. La première recherche trouvera dans le dossier SB le fichier J\_K.jpg, tandis que la seconde annulera l'instance (elle trouve SB/J, une variable invalide).
