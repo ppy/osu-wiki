@@ -16,6 +16,7 @@ Ouvrez les paramètres de votre client IRC et remplissez les valeurs (vous devre
 
 - Serveur : `irc.ppy.sh`
 - Port : `6667`
+- SSL : désactivé
 - Nom d'utilisateur : votre nom d'utilisateur osu!. Remplacez les espaces par des traits de soulignement (ex, `beppy master 1000` devient `beppy_master_1000`)
 - Mot de passe : le mot de passe de la page [authentification IRC](https://osu.ppy.sh/p/irc)
 

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 38cfa4c8f690c8afc5c7d82cd790a1fc954bd796
+---
+
 # Pertemuan komunitas osu!
 
 **Pertemuan komunitas osu!** merupakan sebuah panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/The_Team) setiap dua minggu sekali. Tujuan utama dari pertemuan ini adalah untuk memberikan kesempatan kepada seluruh pihak untuk dapat berbicara secara langsung dengan para pengembang serta orang-orang yang bertanggung jawab dalam mengatur komunitas mengenai berbagai hal yang dirasa perlu untuk dibahas dan dipertimbangkan lebih lanjut.
@@ -41,6 +46,7 @@ Pertemuan komunitas osu! pertama diadakan pada tanggal 19 September 2021. Adapun
 | 10 | [6 Februari 2022](https://youtu.be/xA4nbE8DM4s) | [Notulen pertemuan](https://docs.google.com/document/d/1IM8LlHTrU9aIBkS-WTfbpLrMMrq2eRgRl7EAo_chDYE) | Berbagai pertanyaan dari para anggota komunitas |
 | 11 | [20 Februari 2022](https://youtu.be/d66pU5lsHvE) | - |  Pengali skor dan skor |
 | 12 | [6 Maret 2022](https://youtu.be/HimCHAnPCCY) | - |  |
+| 13 | [20 Maret 2022](https://youtu.be/2Cp9rm0rNPQ) | [Notulen pertemuan](https://docs.google.com/document/d/1X6ak_3CXxTYQLz71yhSTsKkl7cm74iaCQ7wecDkE6uQ) | Berita-berita terkini seputar pengembangan osu! serta berbagai pertanyaan dari para anggota komunitas |
 
 ## Tautan terkait
 
