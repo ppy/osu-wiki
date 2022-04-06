@@ -224,6 +224,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 2020-02-03 | 2020-04-12 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
 | [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 2021-01-04 | 2021-03-28 | ![][flag_ID] [rho](https://osu.ppy.sh/users/1629553) | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) |
+| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 2022-02-15 | 2022-04-03 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
 
 #### osu! Singapore-Indonesia-Malaysia Tournament
 
@@ -345,7 +346,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [UK Community Cup 9](UKCC/9) | 2020-08-29 | 2020-10-11 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup X](UKCC/X) | 2021-02-06 | 2021-04-12 | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) | ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761) | ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484) |
 | [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
-| [UK Community Cup 11](UKCC/11) | 2022-01-23 | 2022-04-03 | *TBD* | *TBD* | *TBD* |
+| [UK Community Cup 11](UKCC/11) | 2022-01-23 | 2022-04-03 | Luciano Fan Club | denial piano | The |
 
 #### Ulat Bulu Cup
 
@@ -429,6 +430,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Advanced Global Taiko Showdown 2021](GTS/AGTS_2021) | 2021-05-15 | 2021-06-27 | ![][flag_US] United States A | ![][flag_SG] Singapore A | ![][flag_MY] Malaysia A |
 | [Rising Global Taiko Showdown 2021](GTS/RGTS_2021) | 2021-06-12 | 2021-07-25 | ![][flag_KR] South Korea | ![][flag_HK] Hong Kong | ![][flag_CN] China A |
 | [Intermediate Global Taiko Showdown 2021](GTS/IGTS_2021) | 2021-07-24 | 2021-09-05 | ![][flag_US] United States | ![][flag_CN] China | ![][flag_SG] Singapore |
+| [Squad Global Taiko Showdown 2021](GTS/SGTS_2021) | 2022-01-08 | 2022-02-20 | おまかせ | Ham | 皇-SUMERAGI- |
 
 #### North & South American Taiko Tournament
 
