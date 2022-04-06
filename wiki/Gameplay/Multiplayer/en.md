@@ -139,7 +139,7 @@ The beatmap section shows the beatmap to be played for this match.
 
 When choosing the beatmap, the host will enter a menu similar to the song selection, but they will not be able to apply any mods.
 
-![](img/Multi_SS.jpg "Example of how the song selection will look like for the host.")
+![](img/Multi_SS.jpg "Example of what the song selection will look like for the host.")
 
 Normally, the beatmap selection will show the background image, game mode symbol, the title, artist of the song, creator of the beatmap, the selected [difficulty](/wiki/Beatmap/Difficulty) selected and the [star rating](/wiki/Beatmapping/Star_rating).
 
@@ -164,7 +164,7 @@ If the player does not have the beatmap, one of these statuses will be shown:
 | :-: | :-- |
 | `Ranked` / `Approved` / `Pending` / `Graveyard` | The [beatmap category](/wiki/Beatmap/Category). Clicking on the beatmap card will open the beatmap page on the website, where it can be [downloaded](/wiki/Beatmap#downloading-beatmaps). |
 | `Not uploaded or not up-to-date` | The beatmap is not available for download. The host should find the link (in the beatmap listing) for the player if the issue persists. |
-| `Cannot update the beatmap` | The [host is probably playing a modified version](https://osu.ppy.sh/community/forums/topics/135726 "peppy's reply on a bug report"). |
+| `Cannot update the beatmap` | The host is playing a modified version of the beatmap. |
 
 #### Mods
 
