@@ -143,9 +143,9 @@ Dieses Songpaket enthält vier elektronisch orientierte Songs von verschiedenen 
 
 Siehe auch:
 
-- [Kenneth Nilsen's Soundcloud page](https://soundcloud.com/keosni391)
-- [NIGHTkilla's Soundcloud](https://soundcloud.com/qbiq-nightkilla)
-- [SkyMarshall's website](https://hafskjold.net/skymarshallarts/)
+- [Soundcloud-Seite von Kenneth Nilsen](https://soundcloud.com/keosni391)
+- [Soundcloud-Seite von NIGHTkilla](https://soundcloud.com/qbiq-nightkilla)
+- [Website von SkyMarshall](https://hafskjold.net/skymarshallarts/)
 
 ## Odyssey Pack
 
@@ -202,7 +202,7 @@ Siehe auch:
 
 Preis: **Kostenlos** / **USD$1.99** (vor dem [Update v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release))
 
-Dieses Songpaket enthält vier Songs/Arrangements von originalen Touhou-Project-Kompositionen von verschiedenen Musikern aus aller Welt.
+Dieses Songpaket enthält vier Songs/Arrangements von originalen Kompositionen des Touhou Projects von verschiedenen Musikern aus aller Welt.
 
 Ursprünglich war dieses Songpaket im Hauptspiel mit einer Preisangabe von USD$1.99 enthalten. Da es jedoch rechtliche Bedenken durch die Verbreitung von Eigentum, welches in Verbindung mit dem Touhou Project stand, im App-Store als kostenpflichtiger Inhalt gab, wurde dieses Songpaket später im [Update v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release) entfernt. Dieses Songpaket wurde erneut als kostenloser Inhalt im [2020-Update](https://news.osustream.com/post/611013728007274496/osustream-2020-release) veröffentlicht.
 
@@ -223,7 +223,7 @@ Siehe auch:
 
 Preis: **Kostenlos** / **USD$1.99** (vor dem [Update v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release))
 
-Dieses Songpaket enthält vier Songs/Arrangements von originalen Touhou-Project-Kompositionen von verschiedenen Musikern aus aller Welt.
+Dieses Songpaket enthält vier Songs/Arrangements von originalen Kompositionen des Touhou Projects von verschiedenen Musikern aus aller Welt.
 
 Ursprünglich war dieses Songpaket im Hauptspiel mit einer Preisangabe von USD$1.99 enthalten. Da es jedoch rechtliche Bedenken durch die Verbreitung von Eigentum, welches in Verbindung mit dem Touhou Project stand, im App-Store als kostenpflichtiger Inhalt gab, wurde dieses Songpaket später im [Update v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release) entfernt. Dieses Songpaket wurde erneut als kostenloser Inhalt im [2020-Update](https://news.osustream.com/post/611013728007274496/osustream-2020-release) veröffentlicht.
 
