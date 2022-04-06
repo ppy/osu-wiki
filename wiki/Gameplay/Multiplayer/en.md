@@ -275,7 +275,7 @@ If a player fails during a `Tag co-op` match, the match ends and the players ret
 
 If a player quits when playing in these modes, the game will perfectly play their part for them, but not contribute anything to the team. If all players of a team quit, the opposing team will win by default.
 
-Players who have failed or quit will be placed at the bottom of the leaderboard with their scores sorted separately from other alive players.
+Players who have failed or quit will be placed at the bottom of the leaderboard with their scores sorted separately from other players.
 
 The colour of each player on the leaderboard while playing indicates the status of the player during the match.
 
