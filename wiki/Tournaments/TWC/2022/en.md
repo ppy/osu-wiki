@@ -101,25 +101,25 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_DE] | Germany | Apr 9 (Sat) 10:00 UTC | Apr 9 (Sat) 19:00 UTC+9 | Apr 9 (Sat) 12:00 UTC+2 | ¹ |
-| Australia | ![][flag_AU] | ![][flag_TW] | Taiwan | Apr 9 (Sat) 11:00 UTC | Apr 9 (Sat) 21:00 UTC+10 | Apr 9 (Sat) 19:00 UTC+8 | ² |
-| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | Apr 9 (Sat) 16:00 UTC | Apr 9 (Sat) 18:00 UTC+2 | Apr 9 (Sat) 13:00 UTC-3 | ² |
+| Australia | ![][flag_AU] | ![][flag_TW] | Taiwan | Apr 9 (Sat) 11:00 UTC | Apr 9 (Sat) 22:00 UTC+11 | Apr 9 (Sat) 19:00 UTC+8 | ² |
+| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | Apr 9 (Sat) 13:00 UTC | Apr 9 (Sat) 15:00 UTC+2 | Apr 9 (Sat) 10:00 UTC-3 | ² |
+| Taiwan | ![][flag_TW] | ![][flag_BR] | Brazil | Apr 9 (Sat) 15:00 UTC | Apr 9 (Sat) 23:00 UTC+8 | Apr 9 (Sat) 12:00 UTC-3 | ³ |
 | United Kingdom | ![][flag_GB] | ![][flag_CA] | Canada | Apr 9 (Sat) 18:00 UTC | Apr 9 (Sat) 19:00 UTC+1 | Apr 9 (Sat) 13:00 UTC-5 | ² |
 
 ### Sunday, April 10, 2022
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_BR] | Brazil | Apr 10 (Sun) 02:00 UTC | Apr 10 (Sun) 12:00 UTC+10 | Apr 9 (Sat) 23:00 UTC-3 | ³ |
+| Australia | ![][flag_AU] | ![][flag_BR] | Brazil | Apr 10 (Sun) 02:00 UTC | Apr 10 (Sun) 13:00 UTC+11 | Apr 9 (Sat) 23:00 UTC-3 | ³ |
 | Indonesia | ![][flag_ID] | ![][flag_US] | United States | Apr 10 (Sun) 04:00 UTC | Apr 10 (Sun) 11:00 UTC+7 | Apr 9 (Sat) 23:00 UTC-5 | ² |
-| Japan | ![][flag_JP] | ![][flag_HK] | Hong Kong | Apr 10 (Sun) 10:00 UTC | Apr 10 (Sun) 19:00 UTC+9 | Apr 10 (Sun) 18:00 UTC+8 | ¹ |
 | Indonesia | ![][flag_ID] | ![][flag_GB] | United Kingdom | Apr 10 (Sun) 12:00 UTC | Apr 10 (Sun) 19:00 UTC+7 | Apr 10 (Sun) 13:00 UTC+1 | ³ |
 | Indonesia | ![][flag_ID] | ![][flag_CA] | Canada | Apr 10 (Sun) 12:00 UTC | Apr 10 (Sun) 19:00 UTC+7 | Apr 10 (Sun) 07:00 UTC-5 | ³ |
-| Australia | ![][flag_AU] | ![][flag_SE] | Sweden | Apr 10 (Sun) 14:00 UTC | Apr 11 (Mon) 00:00 UTC+10 | Apr 10 (Sun) 16:00 UTC+2 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_DE] | Germany | Apr 10 (Sun) 12:00 UTC | Apr 10 (Sun) 21:00 UTC+9 | Apr 10 (Sun) 14:00 UTC+2 | ¹ |
+| Australia | ![][flag_AU] | ![][flag_SE] | Sweden | Apr 10 (Sun) 13:00 UTC | Apr 11 (Mon) 00:00 UTC+11 | Apr 10 (Sun) 15:00 UTC+2 | ³ |
+| Japan | ![][flag_JP] | ![][flag_HK] | Hong Kong | Apr 10 (Sun) 13:00 UTC | Apr 10 (Sun) 22:00 UTC+9 | Apr 10 (Sun) 21:00 UTC+8 | ¹ |
 | Taiwan | ![][flag_TW] | ![][flag_SE] | Sweden | Apr 10 (Sun) 14:00 UTC | Apr 10 (Sun) 22:00 UTC+8 | Apr 10 (Sun) 16:00 UTC+2 | ³ |
-| Taiwan | ![][flag_TW] | ![][flag_BR] | Brazil | Apr 10 (Sun) 14:00 UTC | Apr 10 (Sun) 22:00 UTC+8 | Apr 10 (Sun) 11:00 UTC-3 | ³ |
-| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | Apr 10 (Sun) 18:00 UTC | Apr 10 (Sun) 13:00 UTC-5 | Apr 10 (Sun) 19:00 UTC+1 | ³ |
-| United States | ![][flag_US] | ![][flag_CA] | Canada | Apr 10 (Sun) 18:00 UTC | Apr 10 (Sun) 13:00 UTC-5 | Apr 10 (Sun) 13:00 UTC-5 | ³ |
+| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | Apr 10 (Sun) 20:00 UTC | Apr 10 (Sun) 15:00 UTC-5 | Apr 10 (Sun) 21:00 UTC+1 | ³ |
+| United States | ![][flag_US] | ![][flag_CA] | Canada | Apr 10 (Sun) 20:00 UTC | Apr 10 (Sun) 15:00 UTC-5 | Apr 10 (Sun) 15:00 UTC-5 | ³ |
 
 ¹ Winners bracket match\
 ² Losers bracket match\
