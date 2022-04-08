@@ -20,7 +20,7 @@ The main difference between personal accounts and bot accounts is in the rate li
 - Personal accounts can send 10 messages every 5 seconds
 - Bot accounts can send 300 messages every 60 seconds
 
-These rate limits only apply to private messages, `#multiplayer`, and `#spectator`. Bot accounts are not allowed to send messages in other channels. In addition to this, they should not send unsolicited private messages.
+These rate limits only apply to private messages, `#multiplayer`, and `#spectator`. Bot accounts are not allowed to send messages in other channels, nor any unsolicited private messages.
 
 ## Creating a bot account
 
@@ -35,6 +35,7 @@ Before considering a request, the support team requires that the bot meets these
 - The bot is used by at least 50 unique users every month
 - The bot respects the personal account rate limits
 - The bot does not send any messages in public channels
+- The bot does not send any unsolicited private messages
 - The bot is helpful to a wide audience in the osu! community
 
 ### Filing a request
