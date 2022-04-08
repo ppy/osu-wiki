@@ -20,7 +20,7 @@ The main difference between personal accounts and bot accounts is in the rate li
 - Personal accounts can send 10 messages every 5 seconds
 - Bot accounts can send 300 messages every 60 seconds
 
-These rate limits only apply to private messages, `#multiplayer`, and `#spectator`. Bot accounts are not allowed to send messages in other channels.
+These rate limits only apply to private messages, `#multiplayer`, and `#spectator`. Bot accounts are not allowed to send messages in other channels. In addition to this, they should not send unsolicited private messages.
 
 ## Creating a bot account
 
