@@ -263,12 +263,82 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+### Finals
+
+Saturday, March 12, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| sllab amogus | 3 | **7** | **Ordirehv** | [#1](https://osu.ppy.sh/community/matches/98657070) |
+| **rice quadruplets** | **7** | 1 | offbrand mwc | [#1](https://osu.ppy.sh/community/matches/98648075) |
+
+Sunday, March 13, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hourai Elixir | 0 | **7** | **Black Stick Rot** | [#1](https://osu.ppy.sh/community/matches/98873851) |
+| Ordirehv | 1 | **7** | **rice quadruplets** | [#1](https://osu.ppy.sh/community/matches/98690929) |
+
+Saturday, March 19, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hourai Elixir | 1 | **7** | **rice quadruplets** | [#1](https://osu.ppy.sh/community/matches/98873851) |
+| **Black Stick Rot** | **7** | 2 | rice quadruplets | [#1](https://osu.ppy.sh/community/matches/99123840) |
+
+Sunday, March 26, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+|  |  |  |  |  |
+
+### Semifinals
+
+Saturday, March 5, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Knation | 4 | **7** | **Team Pixula** | [#1](https://osu.ppy.sh/community/matches/98412630) |
+| Fumo | 0 | **7** | **Ordirehv** | [#1](https://osu.ppy.sh/community/matches/98426262) |
+| ExtraRipeApples | 2 | **7** | **offbrand mwc** | [#1](https://osu.ppy.sh/community/matches/98430654) |
+| **Appendicitis** | **7** | 0 | Œil | [#1](https://osu.ppy.sh/community/matches/98433915) |
+
+Sunday, March 6, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| rice quadruplets | 5 | **7** | **Hourai Elixir** | [#1](https://osu.ppy.sh/community/matches/98456131), [#2](https://osu.ppy.sh/community/matches/98458144) |
+| sllab amogus | 4 | **7** | **Black Stick Rot** | [#1](https://osu.ppy.sh/community/matches/98465507) |
+| **Ordirehv** | **7** | 6 | Appendicitis | [#1](https://osu.ppy.sh/community/matches/98471338) |
+| Team Pixula | -1 | **0** | offbrand mwc | [#1](https://osu.ppy.sh/community/matches/98454614) *Win by default* |
+
 ### Quarterfinals
 
 Saturday, February 26, 2022
 
 | Team A | | | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
+| badplayers49 | 0 | **6** | **Team Pixula** | [#1](https://osu.ppy.sh/community/matches/98185056) |
+| ICHIGAY!!! | -1 | **0** | **TheAnswerIsPorn** | [#1](https://osu.ppy.sh/community/matches/98188420) *Win by default* |
+| **Œil** | **0** | -1 | Watermelon | *Win by default* |
+| **offbrand mwc** | **6** | 4 | Ricemakers | [#1](https://osu.ppy.sh/community/matches/98200009) |
+| :1217angry: | 2 | **6** | **yes** | [#1](https://osu.ppy.sh/community/matches/98200825) |
+| **Ordirehv** | **0** | -1 | TouWhou? | *Win by default* |
+| monkey bussines | 4 | **6** | **skill issue** | [#1](https://osu.ppy.sh/community/matches/98217705) |
+| **Estudia Sonso** | **6** | 0 | Shion Lovers | [#1](https://osu.ppy.sh/community/matches/98219303) |
+
+Sunday, February 27, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Appendicitis | 3 | **6** | **rice quadruplets** | [#1](https://osu.ppy.sh/community/matches/98223017) |
+| **Hourai Elixir** | **6** | 1 | Fumo | [#1](https://osu.ppy.sh/community/matches/98228674) |
+| **Black Stick Rot** | **0** | -1 | Knation | *Win by default* |
+| **sllab amogus** | **6** | 0 | ExtraRipeApples | [#1](https://osu.ppy.sh/community/matches/98244293) |
+| skill issue | 2 | **6** | **offbrand mwc** | [#1](https://osu.ppy.sh/community/matches/98228818) |
+| **Ordirehv** | **6** | 1 | TheAnswerIsPorn | [#1](https://osu.ppy.sh/community/matches/98249414) |
+| **Œil ** | **6** | 1 | yes | [#1](https://osu.ppy.sh/community/matches/98249372) |
+| Estudia Sonso | 1 | **6** | **Team Pixula** | [#1](https://osu.ppy.sh/community/matches/98258975) |
 
 ### Round of 16
 
