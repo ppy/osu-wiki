@@ -25,7 +25,7 @@ Wondering what all the hype is about? Witness how **Archspire**'s sound translat
 Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1340043) hosted by [Blood9](https://osu.ppy.sh/users/11214999)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/256/Relentless%20Mutation/Archspire%20-%20A%20Dark%20Horizontal.mp3" type="audio/mpeg">
 </audio>
 
 ### Involuntary Doppelganger
@@ -33,13 +33,13 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1340043)
 Try something a bit easier with [this osu! set](https://osu.ppy.sh/beatmapsets/1581431) hosted by [Blood9](https://osu.ppy.sh/users/11214999) or [this osu!taiko set](https://osu.ppy.sh/beatmapsets/640419) hosted by [LZD](https://osu.ppy.sh/users/224335)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/256/Relentless%20Mutation/Archspire%20-%20Involuntary%20Doppelganger.mp3" type="audio/mpeg">
 </audio>
 
 ### Fathom Infinite Depth
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/256/Relentless%20Mutation/Archspire%20-%20Fathom%20Infinite%20Depth.mp3" type="audio/mpeg">
 </audio>
 
 ---
