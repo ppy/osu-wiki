@@ -8,7 +8,7 @@ Surpass all limits with our newest Featured Artist **Archspire**!
 
 ![](https://assets.ppy.sh/artists/256/header.jpg)
 
-The term "tech mapping" is usually be reserved for electronic rhythm game tunes, but **Archspire** is here to shift the paradigm. This technical death metal band showcases extraordinarily complicated rhythms with skull-vibrating note density, putting them in a position beyond comparison.
+The term "tech mapping" is usually reserved for electronic rhythm game tunes, but **Archspire** is here to shift the paradigm. This technical death metal band showcases extraordinarily complicated rhythms with skull-vibrating note density, putting them in a position beyond comparison.
 
 **5** tracks from their breakthrough album *Relentless Mutation* are up for grabs from [**Archspire**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/256).
 
