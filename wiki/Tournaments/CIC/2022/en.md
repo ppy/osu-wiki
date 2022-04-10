@@ -341,7 +341,7 @@ Saturday, 5 March 2022:
 Sunday, 6 March 2022:
 
 | Group | 1st Place | 2nd Place | 3rd Place | Match link |
-| :-: | :-: | :-: | :-: | :-: | :-- |
+| :-: | :-: | :-: | :-: | :-- |
 | **E** | ![][flag_ID] **[Dika312](https://osu.ppy.sh/users/741613) (22 pts)** | ![][flag_ID] **[Keita](https://osu.ppy.sh/users/3355617) (16 pts)** | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) (11 pts) | [#1](https://osu.ppy.sh/community/matches/98461773) |
 | **F** | ![][flag_ID] **[EpanPan](https://osu.ppy.sh/users/13194580) (18 pts¹)** | ![][flag_ID] **[Ruu](https://osu.ppy.sh/users/3212755) (17 pts²)** | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) (16 pts) | [#1](https://osu.ppy.sh/community/matches/98464680) |
 | **G** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (19 pts)** | ![][flag_ID] **[Kazuyo](https://osu.ppy.sh/users/5604201) (16 pts)** | ![][flag_ID] [Intention](https://osu.ppy.sh/users/3416858) (13 pts) | [#1](https://osu.ppy.sh/community/matches/98473061) |
