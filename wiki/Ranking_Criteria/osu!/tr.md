@@ -68,8 +68,8 @@ Zorluğa özel kurallar ve önergeler yalnızca listelendikleri zorluk seviyesi 
 
 #### Yönergeler
 
-- **[Zaman-mesafe eşitliği](/wiki/Mapping_techniques/Time-distance_equality) kullanılmalıdır.** Varyasyonlar, farklı ritimler için kullanılan aralıklardan açıkça farklıysa kabul edilebilir. Objeler birbirinden 2 beat'ten fazla olduğunda ve oyun alanında nispeten yüksek aralıklara sahip olduğunda, zaman-mesafe eşitliğinin kesin olması gerekmez.
-- **[Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) kullanıldığı zaman, değerini 0.8x ve 1.2x arasında tutun.** Çok fazla veya az değerlerde [slider velocity](/wiki/Hit_object/Slider_velocity), mantıksız olacaktır. Daha yüksek distance snap, [overlap](/wiki/Mapping_techniques/Overlap)'ten kaçınmak için kullanılabilir. Ama bunu çok sık yapıyorsanız eğer, slider velocity arttırılmalıdır.
+- **[Zaman-mesafe eşitliği](/wiki/Mapping_techniques/Time-distance_equality) kullanılmalıdır.** Varyasyonlar, farklı ritimler için kullanılan aralıklardan açıkça farklıysa kabul edilebilir. Objeler birbirinden 2 beatten fazla olduğunda ve oyun alanında nispeten yüksek aralıklara sahip olduğunda, zaman-mesafe eşitliğinin kesin olması gerekmez.
+- **[Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) kullanıldığı zaman, değerini 0.8x ve 1.2x arasında tutun.** Çok fazla veya az değerlerde [slider velocity](/wiki/Hit_object/Slider_velocity), mantıksız olacaktır. Daha yüksek distance snap, [overlapten](/wiki/Mapping_techniques/Overlap)ten kaçınmak için kullanılabilir. Ama bunu çok sık yapıyorsanız eğer, slider velocity arttırılmalıdır.
 - **Nota yoğunluğu çoğu 1/1, 2/1, ya da daha yavaş ritimlerle tutarlı olmalıdır.**
 - **[Slider velocity](/wiki/Hit_object/Slider_velocity) 1.3'ten fazla olmamalıdır.**
 - **1/2 beat'ten kısa sliderlar kullanmaktan kaçının.** Bunlar yeni oyuncuların anlayabileceğinden çok daha hızlı sliderlardır.
@@ -101,8 +101,8 @@ Zorluğa özel kurallar ve önergeler yalnızca listelendikleri zorluk seviyesi 
 
 #### Yönergeler
 
-- **[Zaman-mesafe eşitliği](/wiki/Mapping_techniques/Time-distance_equality) kullanılmalıdır.** Varyasyonlar, farklı ritimler için kullanılan aralıklardan açıkça farklıysa kabul edilebilir. Objeler birbirinden 1 beat'ten fazla olduğunda ve oyun alanında nispeten yüksek aralıklara sahip olduğunda, zaman-mesafe eşitliğinin kesin olması gerekmez.
-- **[Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) kullanıldığı zaman, değerini 0.8x ve 1.3x arasında tutun.** Çok fazla veya az değerlerde [slider velocity](/wiki/Hit_object/Slider_velocity), mantıksız olacaktır. Daha yüksek distance snap, [overlap](/wiki/Mapping_techniques/Overlap)'ten kaçınmak için kullanılabilir. Ama bunu çok sık yapıyorsanız eğer, slider velocity arttırılmalıdır.
+- **[Zaman-mesafe eşitliği](/wiki/Mapping_techniques/Time-distance_equality) kullanılmalıdır.** Varyasyonlar, farklı ritimler için kullanılan aralıklardan açıkça farklıysa kabul edilebilir. Objeler birbirinden 1 beatten fazla olduğunda ve oyun alanında nispeten yüksek aralıklara sahip olduğunda, zaman-mesafe eşitliğinin kesin olması gerekmez.
+- **[Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) kullanıldığı zaman, değerini 0.8x ve 1.3x arasında tutun.** Çok fazla veya az değerlerde [slider velocity](/wiki/Hit_object/Slider_velocity), mantıksız olacaktır. Daha yüksek distance snap, [overlapten](/wiki/Mapping_techniques/Overlap) kaçınmak için kullanılabilir. Ama bunu çok sık yapıyorsanız eğer, slider velocity arttırılmalıdır.
 - **Nota yoğunluğu çoğunluğu 1/1, ara sıra 1/2 ya da daha yavaş ritimlerle tutarlı olmalıdır.**
 - **Circle, slider başı, ve slider kuyruğu gibi objeleri [overlap](/wiki/Mapping_techniques/Overlap) yapmaktan kaçının.** Bu yeni oyuncular için kafa karıştırıcı olabilir. 1/2 overlap'ler [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) nedeniyle daha yüksek aralıklı boşluklarla ya da [slider velocity](/wiki/Hit_object/Slider_velocity) ile kullanmaktan kaçının.
 - **Zincirleme şeklinde gelen 1/2 patternler kullanmayın.** [Overlap](/wiki/Mapping_techniques/Overlap) olan ve üst üste gelen ardışık objeler yeni oyuncular için kafa karıştırıcı olabilir.
