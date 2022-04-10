@@ -17,7 +17,7 @@ Tüm kurallar ve yönergeler her türlü osu! zorluğu için geçerlidir. Ritiml
 - **Varsayılan skin kullanılmadığı taktirde, her beatmap en az iki farklı özel renke sahip olmalıdır.** Kombo renkleri her ihtimale karşı beatmapin arkaplan/storyboard/videosu ile karışmamalıdır. Bu sayede objeler her zaman oyuncu tarafından görülebilir ve özel skinlerin kombo renkleri yanlışlıkla arkaplan ile karışmaz.
 - **Hitnormal ile [keysound](/wiki/Beatmapping/Hitsound#keysound) yapmayın.** Aksi taktirde oyuncular yeteri kadar geribildirim almayacak.
 - **Eğer hitnormal olarak hitsound kullanıyorsanız, hitsoundın şarkıyla karışmadığından emin olun.** Aksi taktirde oyuncular yeteri kadar geribildirim almayacak.
-- **Zorluklar diğer oyun modlarının yıldız derecesi/performans puanı'nı bozmadan dönüştürülebilir olmalıdır.** Bazı durumlarda, `.osu` dosyası yanlış yanlış biçimlendirilebilir, bunun sonucunda ise yıldız dereceleri yanlış gözükür ve performans puanları yanlış olarak ödüllendirilir.
+- **Zorluklar diğer oyun modlarının yıldız derecesi/performans puanını bozmadan dönüştürülebilir olmalıdır.** Bazı durumlarda, `.osu` dosyası yanlış yanlış biçimlendirilebilir, bunun sonucunda ise yıldız dereceleri yanlış gözükür ve performans puanları yanlış olarak ödüllendirilir.
 
 #### Yönergeler
 
@@ -25,7 +25,7 @@ Tüm kurallar ve yönergeler her türlü osu! zorluğu için geçerlidir. Ritiml
 - **Tüm circlelar ve sliderlar, şarkıdaki belirgin seslere göre [yerleştirilmeli](/wiki/Beatmapping/Snapping).** Şarkının olmadığı yerlere obje yerleştirmek, şarkıdan bağımsız bir ritimin oluşmasına neden olabilir.
 - **[Slider tick oranı](/wiki/Beatmapping/Slider_tick_rate) şarkıya göre ayarlanmalıdır.** Örneğin,şarkınız 1/3 ritim kullanan bir bölüm içeriyorsa, tüm map için slider tick oranı 2 yapmak uygun olmaz. Bu gibi durumlarda, tick oranı 1 olmalıdır.
 - **Kombo renkleri, slider kenarları ve hitcircleoverlay renklerini, ~50 veya daha az parlak olan renkleri kullanmaktan kaçının.** Bunun gibi karanlık renkler, okumayı etkiler ve arkaplanın karanlığına kapılıp işlevlerini yitirir.
-- **Kiai'lerde ~220 veya daha parlak olan kombo renkleri kullanmaktan kaçının.** Bu tür parlak renkler göze hoş olmayacak şekilde rahatsızlık verir.
+- **Kiailerde ~220 veya daha parlak olan kombo renkleri kullanmaktan kaçının.** Bu tür parlak renkler göze hoş olmayacak şekilde rahatsızlık verir.
 - **Spinner sonları, slider sonları, ve slider reverseler mutlaka hitsoundlanmalıdır.** Eğer bunlar şarkı içinde belirgin olmayan seslere gelecek şekilde maplendiyse, hitsound koymamanız kabul edilebilir.
 - **Sliderslide, sliderwhistle, ve spinnerspin gibi normal bir şekilde çalışmayan elementler için hitsound kullanmaktan kaçının.** Bu hitsoundlar süreklidir, bu hitsoundların sesleri objenin başından sonuna kadar süregelen bir şekilde oynatılır. Yani bu objelere koyulan hitsoundlar bu tür objelere özel hitsound olmalıdır, yoksa istenmeyen tarzda bir ses ortaya çıkabilir.
 - **Gereksiz yere mapi zorlaştırmayın.** Map, şarkının yoğunluğunu, kendisini temsil etmelidir.
@@ -72,9 +72,9 @@ Zorluğa özel kurallar ve önergeler yalnızca listelendikleri zorluk seviyesi 
 - **[Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) kullanıldığı zaman, değerini 0.8x ve 1.2x arasında tutun.** Çok fazla veya az değerlerde [slider velocity](/wiki/Hit_object/Slider_velocity), mantıksız olacaktır. Daha yüksek distance snap, [overlapten](/wiki/Mapping_techniques/Overlap)ten kaçınmak için kullanılabilir. Ama bunu çok sık yapıyorsanız eğer, slider velocity arttırılmalıdır.
 - **Nota yoğunluğu çoğu 1/1, 2/1, ya da daha yavaş ritimlerle tutarlı olmalıdır.**
 - **[Slider velocity](/wiki/Hit_object/Slider_velocity) 1.3'ten fazla olmamalıdır.**
-- **1/2 beat'ten kısa sliderlar kullanmaktan kaçının.** Bunlar yeni oyuncuların anlayabileceğinden çok daha hızlı sliderlardır.
-- **Circle, slider başı, ve slider kuyruğu gibi objeleri [overlap](/wiki/Mapping_techniques/Overlap) yapmaktan kaçının.** Bu yeni oyuncular için kafa karıştırıcı olabilir. 1/1 overlap'ler [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) nedeniyle daha yüksek aralıklı boşluklarla ya da [slider velocity](/wiki/Hit_object/Slider_velocity) ile kullanmaktan kaçının.
-- **1/1 uzunluktaki sliderlarda çoklu reverse kullanmayın.** Yeni oyuncular bu kısa zaman içinde ekstra reverse'leri okuyamayacaktır.
+- **1/2 beatten kısa sliderlar kullanmaktan kaçının.** Bunlar yeni oyuncuların anlayabileceğinden çok daha hızlı sliderlardır.
+- **Circle, slider başı, ve slider kuyruğu gibi objeleri [overlap](/wiki/Mapping_techniques/Overlap) yapmaktan kaçının.** Bu yeni oyuncular için kafa karıştırıcı olabilir. 1/1 overlapler [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) nedeniyle daha yüksek aralıklı boşluklarla ya da [slider velocity](/wiki/Hit_object/Slider_velocity) ile kullanmaktan kaçının.
+- **1/1 uzunluktaki sliderlarda çoklu reverse kullanmayın.** Yeni oyuncular bu kısa zaman içinde ekstra reverseleri okuyamayacaktır.
 - **Sadece sliderdan oluşan kısımlar yapmaktan kaçının.** Üst üste bir sürü slidera nişan almak ve takip etmek, yeni oyuncular için yorucu olabilir. Bu gibi durumlarda, tıklanılacak veya takip edilecek objeler olmadan, circlelar ve dinlenme anları kullanılmalıdır.
 - **[Slider velocity](/wiki/Hit_object/Slider_velocity)'i sık sık değiştirmek önerilmez.** Slider velocity sadece farklı tempolu müzik bölümleri için kullanılmalıdır ve bu çok değişken olmamalıdır.
 - **Açık bir şekilde anlaşılacak ve kolayca okunabilecek slider şekilleri kullanılmalıdır.** Yeni oyuncular karışık şekilleri nasıl takip edeceklerini anlamayabilir.
@@ -104,9 +104,9 @@ Zorluğa özel kurallar ve önergeler yalnızca listelendikleri zorluk seviyesi 
 - **[Zaman-mesafe eşitliği](/wiki/Mapping_techniques/Time-distance_equality) kullanılmalıdır.** Varyasyonlar, farklı ritimler için kullanılan aralıklardan açıkça farklıysa kabul edilebilir. Objeler birbirinden 1 beatten fazla olduğunda ve oyun alanında nispeten yüksek aralıklara sahip olduğunda, zaman-mesafe eşitliğinin kesin olması gerekmez.
 - **[Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) kullanıldığı zaman, değerini 0.8x ve 1.3x arasında tutun.** Çok fazla veya az değerlerde [slider velocity](/wiki/Hit_object/Slider_velocity), mantıksız olacaktır. Daha yüksek distance snap, [overlapten](/wiki/Mapping_techniques/Overlap) kaçınmak için kullanılabilir. Ama bunu çok sık yapıyorsanız eğer, slider velocity arttırılmalıdır.
 - **Nota yoğunluğu çoğunluğu 1/1, ara sıra 1/2 ya da daha yavaş ritimlerle tutarlı olmalıdır.**
-- **Circle, slider başı, ve slider kuyruğu gibi objeleri [overlap](/wiki/Mapping_techniques/Overlap) yapmaktan kaçının.** Bu yeni oyuncular için kafa karıştırıcı olabilir. 1/2 overlap'ler [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) nedeniyle daha yüksek aralıklı boşluklarla ya da [slider velocity](/wiki/Hit_object/Slider_velocity) ile kullanmaktan kaçının.
+- **Circle, slider başı, ve slider kuyruğu gibi objeleri [overlap](/wiki/Mapping_techniques/Overlap) yapmaktan kaçının.** Bu yeni oyuncular için kafa karıştırıcı olabilir. 1/2 overlapler [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) nedeniyle daha yüksek aralıklı boşluklarla ya da [slider velocity](/wiki/Hit_object/Slider_velocity) ile kullanmaktan kaçının.
 - **Zincirleme şeklinde gelen 1/2 patternler kullanmayın.** [Overlap](/wiki/Mapping_techniques/Overlap) olan ve üst üste gelen ardışık objeler yeni oyuncular için kafa karıştırıcı olabilir.
-- **1/2 uzunluktaki sliderlarda çoklu reverse kullanmayın.** Yeni oyuncular bu kısa zaman içinde ekstra reverse'leri okuyamayacaktır.
+- **1/2 uzunluktaki sliderlarda çoklu reverse kullanmayın.** Yeni oyuncular bu kısa zaman içinde ekstra reverseleri okuyamayacaktır.
 - **Sadece sliderdan oluşan kısımlar yapmaktan kaçının.** Üst üste bir sürü slidera nişan almak ve takip etmek yeni oyuncular için oyurucu olabilir. Bu gibi durumlarda, tıklanılacak veya takip edilecek objeler olmadan, circlelar ve dinlenme anları kullanılmalıdır.
 - **[Stackler](/wiki/Mapping_techniques/Stack) kabul edilebilir, durmadan 1/1 ve 1/2 stackler arasında gidip gelmeyin.** Bunlar, görünüşte aynı oldukları için yeni oyuncular için okumakta sorunlar yaratabilir.
 - **[Slider velocity](/wiki/Hit_object/Slider_velocity)'i sık sık değiştirmek önerilmez.** Slider velocity sadece farklı tempolu müzik bölümleri için kullanılmalıdır ve bu çok değişken olmamalıdır.
