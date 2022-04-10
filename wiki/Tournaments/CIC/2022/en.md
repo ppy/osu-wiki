@@ -434,7 +434,7 @@ Monday, 7 March 2022:
    - At the start of the match, each player has to ban **one beatmap** from the mappool.
    - After a player reaches 3 points (in the Semi Finals, Finals, and Grand Finals), the opposing player is then given a chance to **ban another beatmap** from the mappool that hasn't either been picked or banned up until that point as a comeback mechanic.
    - All banned beatmaps are not allowed to be picked by any player in the remainder of the match.
-   - This rule does not apply in the Group Stage, Round of 16, and Quarter Finals lobbies.
+   - This rule does not apply in the Group Stage.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Group stage lobbies.
 4. In case of a tiebreaker, **the tiebreaker beatmap will be played using Hidden** (HD) **or NoMod** (NM) **based on the player's choice**.
