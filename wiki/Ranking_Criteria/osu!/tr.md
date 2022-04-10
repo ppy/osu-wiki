@@ -141,7 +141,7 @@ Eğer mapsetin *en düşük zorluğu* Normal ise, mapin şu yönergeleri de taki
 - **Tüm sliderların başından sonuna kadar, mevcut olduğu ve gideceği yolu temiz olmalıdır.** Açık bir şekilde okunamayan overlap; slider ve slider kenarları kullanılamaz. Sliderendin konumu, oyuncunun skininde transparan circle ve slider olmasına karşın temiz olmalıdır.
   - Sliderın açık bir şekilde belli olduğu varsayılarak, tüm slider yolunu takip eden sliderlara izin verilir.
 
-#### Guidelines
+#### Yönergeler
 
 - **Spinnerin sonu ile sıradaki obje arasında mutlaka 1 beat olması gerek.** Bu, spinnerdan sonraki objeye geçiş için yeterli zamanı sağlar.
 - **Nota yoğunluğu çoğunluğu 1/2, ara sıra 1/4 ya da daha yavaş ritimlerle tutarlı olmalıdır.**
