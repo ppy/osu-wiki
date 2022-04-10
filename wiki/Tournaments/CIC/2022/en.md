@@ -432,9 +432,9 @@ Monday, 7 March 2022:
    - This rule does not apply in the Group stage lobbies.
 2. Each player may ban up to two beatmaps from the mappool following a modified "comeback mechanic" system that is adapted from the [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019). The system works as follows:
    - At the start of the match, each player has to ban **one beatmap** from the mappool.
-   - After a player reaches 3 points (in the Round of 16, the Quarterfinals, and the Semifinals) or 4 points (in the Finals), the opposing player is then given a chance to **ban another beatmap** from the mappool that hasn't either been picked or banned up until that point as a comeback mechanic.
+   - After a player reaches 3 points (in the Semi Finals, Finals, and Grand Finals), the opposing player is then given a chance to **ban another beatmap** from the mappool that hasn't either been picked or banned up until that point as a comeback mechanic.
    - All banned beatmaps are not allowed to be picked by any player in the remainder of the match.
-   - This rule does not apply in the Group stage lobbies.
+   - This rule does not apply in the Group Stage, Round of 16, and Quarter Finals lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Group stage lobbies.
 4. In case of a tiebreaker, **the tiebreaker beatmap will be played using Hidden** (HD) **or NoMod** (NM) **based on the player's choice**.
