@@ -225,7 +225,7 @@ Sunday, 10 April 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **7** | 5 | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | [#1](https://osu.ppy.sh/community/matches/99603445) |
+| Upper | **[Dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **7** | 3 | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | [#1](https://osu.ppy.sh/community/matches/99603445) |
 
 ### Finals
 
