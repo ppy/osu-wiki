@@ -108,7 +108,7 @@ Listed below are players who qualified into the Group stage (along with their re
 - Tiebreaker
   1. **[Kou! - TERRABYTE ("XETTABYTE" Long Version) (Jemzuu) \[KEN & JEMZUU'S XHAOTIC NEUTRAL\]](https://osu.ppy.sh/beatmapsets/1729729#fruits/3535052)**
 
-### Semifinals
+### Semi Finals
 
 **[Download the mappack here! (124 MB)](https://drive.google.com/file/d/1hppgWwtaboQqXDDQ27qTyCgsLvGIZmLQ/view)**
 
@@ -123,7 +123,7 @@ Listed below are players who qualified into the Group stage (along with their re
   1. [bill wurtz - La de da de da de da de day oh (Deif) \[overdose\]](https://osu.ppy.sh/beatmapsets/1724484#fruits/3524385)
   2. [ITZY - Mafia In the morning (Xetopia) \[Special\]](https://osu.ppy.sh/beatmapsets/1619154#fruits/3305905)
   3. [Two Door Cinema Club - Dirty Air (StarCastler) \[Gens' Blaze\]](https://osu.ppy.sh/beatmapsets/1107855#fruits/2336375)
-  4. [jun with Alison - SUNKISS DROP ~jun side~ (\[Keqing\]) \[please donate for my gacha addiction\]](https://osu.ppy.sh/beatmapsets/1498309#fruits/3070802)
+  4. [jun with Alison - SUNKISS DROP \~jun side\~ (\[Keqing\]) \[please donate for my gacha addiction\]](https://osu.ppy.sh/beatmapsets/1498309#fruits/3070802)
 - HardRock
   1. [mafumafu - Haikei, Sakura Maichiru Kono Hi ni (-Rustyy) \[Graduation\]](https://osu.ppy.sh/beatmapsets/1724443#fruits/3524318)
   2. [DJ YOSHITAKA - JOMANDA (Syamu) \[†\]](https://osu.ppy.sh/beatmapsets/1672888#fruits/3417218)
@@ -137,7 +137,7 @@ Listed below are players who qualified into the Group stage (along with their re
 - Tiebreaker
   1. **[Ka7ag5th - Galaxia (-Rustyy	) \[Cosmic Destruction\]](https://osu.ppy.sh/beatmapsets/1724444#fruits/3524320)**
 
-### Quarterfinals
+### Quarter Finals
 
 **[Download the mappack here! (92 MB)](https://drive.google.com/file/d/1nfib8daJjkkub2JS5tvHLkqaed5hL-zj/view)**
 
@@ -187,7 +187,7 @@ Listed below are players who qualified into the Group stage (along with their re
 - Tiebreaker
   1. **[SOUND HOLIC vs. dj TAKA feat. YURiCa -TIEFSEE (autofanboy) \[SUNKEN REMNANTS\]](https://osu.ppy.sh/beatmapsets/1714444#fruits/3503094)**
 
-### Group stage
+### Group Stage
 
 **[Download the mappack here! (116 MB)](https://drive.google.com/file/d/1xF-fvcCEifJGnlrBlu6MSqRaGXgJEuZq)**
 
