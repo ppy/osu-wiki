@@ -324,7 +324,7 @@ The winning team is announced at the top of the results screen.
 
 Only players who are alive by the end of the match count towards their teams' totals.
 
-The panels to the sides the show results for each player in different tabs. The `Total` tab shows the total count of [judgements](/wiki/Gameplay/Judgement) for both teams and their average accuracy.
+The panels to the sides show results for each player in different tabs. The `Total` tab shows the total count of [judgements](/wiki/Gameplay/Judgement) for both teams and their average accuracy.
 
 #### Tag co-op / Tag-team VS
 
