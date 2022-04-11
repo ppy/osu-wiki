@@ -219,7 +219,7 @@ Saturday, 9 April 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Netamaru](https://osu.ppy.sh/users/1830361)** ![][flag_ID] | **7** | 5 | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/99570824) |
+| Lower | **[Netamaru](https://osu.ppy.sh/users/1830361)** ![][flag_ID] | **7** | 6 | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/99570824) |
 
 Sunday, 10 April 2022:
 
@@ -240,7 +240,7 @@ Saturday, 2 April 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [dedotikea](https://osu.ppy.sh/users/8805157) ![][flag_ID] | **7** | 5 | ![][flag_ID] **[Ruu](https://osu.ppy.sh/users/3212755)** | [#1](https://osu.ppy.sh/community/matches/99334072) |
+| Lower | [dedotikea](https://osu.ppy.sh/users/8805157) ![][flag_ID] | 1 | **7** | ![][flag_ID] **[Ruu](https://osu.ppy.sh/users/3212755)** | [#1](https://osu.ppy.sh/community/matches/99334072) |
 
 Sunday, 3 April 2022:
 
