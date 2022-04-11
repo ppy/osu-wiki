@@ -82,11 +82,15 @@ The [options](/wiki/Client/Options) can be accessed by pressing `Ctrl` + `O` whi
 
 The match setup screen looks different for hosts and players. Further, the host can see the following:
 
+::: Infobox
 ![](img/Multi_roomhost.jpg "Example of the match as a host")
+:::
 
 And here is the view of the player:
 
+::: Infobox
 ![](img/Multi_roomplayer.jpg "Example of the match as a player")
+:::
 
 ### Header section
 
@@ -129,17 +133,23 @@ Here, the host can change the name for the match. Additionally, the password for
 
 #### Beatmap
 
+::: Infobox
 ![](img/Multi_host_song_change.jpg "When the host is changing songs, this bar will become a temporary placeholder.")
+:::
 
 The beatmap section shows the beatmap to be played for this match.
 
 When choosing the beatmap, the host will enter a menu similar to the song selection, but they will not be able to apply any mods.
 
+::: Infobox
 ![](img/Multi_SS.jpg "Example of what the song selection will look like for the host.")
+:::
 
 Normally, the beatmap selection will show the background image, game mode symbol, the title, artist of the song, creator of the beatmap, the selected [difficulty](/wiki/Beatmap/Difficulty) and the [star rating](/wiki/Beatmapping/Star_rating).
 
+::: Infobox
 ![](img/Multi_beatmapinfo.jpg "Beatmap selection when hovered over.")
+:::
 
 On hovering over the beatmap, there will be an extra dialogue displaying further information about the beatmap. These are as follows:
 
@@ -164,9 +174,13 @@ If the player does not have the beatmap, one of these statuses will be shown:
 
 #### Mods
 
+::: Infobox
 ![](img/Multi_mods_host.jpg "Host mod options")
+:::
 
+::: Infobox
 ![](img/Multi_mods_player.jpg "Player (osu!) mods options (with Free Mods enabled)")
+:::
 
 The lower left section is the mods section. This section will show the [game mods](/wiki/Game_modifier) used for this match.
 
@@ -332,9 +346,13 @@ The panels to the sides show results for each player in different tabs. The `Tot
 
 *Note: This team mode is unranked and only available in osu! mode.*
 
+::: Infobox
 ![](img/Multi_tag_co-op.jpg "Tag co-op interface")
+:::
 
+::: Infobox
 ![](img/Multi_tag_team_vs.jpg "Tag-team VS interface")
+:::
 
 Tag co-op makes all players in the match work together to pass the beatmap, one combo at a time. `Tag-team VS` is just `Tag co-op` but with two teams playing against each other.
 
@@ -352,9 +370,13 @@ Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perf
 
 ##### Result
 
+::: Infobox
 ![](img/Multi_co-op_grade.jpg "Tag co-op results screen")
+:::
 
+::: Infobox
 ![](img/Multi_tag_team_grade.jpg "Tag-team VS results screen")
+:::
 
 No ranked score or performance points are awarded for `Tag co-op` or `Tag-team VS` matches.
 
