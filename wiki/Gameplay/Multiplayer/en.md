@@ -219,7 +219,7 @@ The blue button is used to control the player ready state and to start the match
 
 The bottom section of the screen is the [chat console](/wiki/Client/Interface/Chat_console). Every match has its own channel in a tab called `#multiplayer`, with [BanchoBot](/wiki/BanchoBot) providing a link to the match history on the first line.
 
-For `Head-to-head` matches, the result will be displayed privately in another tab called `#userlog` upon conclusion, where BanchoBot says `You placed #{placement} of {total} players in multiplayer on {beatmap} [difficulty] <game mode>.`
+For Head-to-head matches, the result will be displayed privately in another tab called `#userlog` upon conclusion, where BanchoBot says `You placed #{placement} of {total} players in multiplayer on {beatmap} [difficulty] <game mode>.`
 
 ![](img/multi-mh.jpg "Example of a match history.")
 
@@ -239,7 +239,7 @@ While the match is starting, moving the cursor to the bottom of the screen will 
 
 When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards. The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect).
 
-In `Team VS` matches, being in the failed state at the end of the match will make the score not contribute to the team score.
+In Team VS matches, being in the failed state at the end of the match will make the score not contribute to the team score.
 
 #### Results
 
@@ -267,7 +267,7 @@ For `Tag co-op` and `Tag-team VS`:
 | `Accuracy` | Team average accuracy, individual score, judgements |
 | `Combo` | Current combo count, individual score, judgements |
 
-If a player fails during a `Tag co-op` match, the match ends and the players return to the match lobby. In `Tag-team VS`, the opposing team receives a win by default instead. Failed players do not contribute towards the team unless they have been revived by the end of the match.
+If a player fails during a Tag co-op match, the match ends and the players return to the match lobby. In Tag-team VS, the opposing team receives a win by default instead. Failed players do not contribute towards the team unless they have been revived by the end of the match.
 
 If a player quits while being in a match, the game will perfectly play their part for them, but not contribute anything to the team. If all players of a team quit, the opposing team will win by default.
 
@@ -310,7 +310,7 @@ Each player will receive their match result as a private message in the `#userlo
 
 ![](img/Multi_team_vs.jpg "Team VS interface")
 
-`Team VS` pits two teams, Blue and Red, against each other.
+Team VS pits two teams, Blue and Red, against each other.
 
 Blue is on the left and Red is on the right. A crown at the centre moves left and right to show which team is currently winning.
 
@@ -336,7 +336,7 @@ The panels to the sides show results for each player in different tabs. The `Tot
 
 ![](img/Multi_tag_team_vs.jpg "Tag-team VS interface")
 
-`Tag co-op` makes all players in the match work together to pass the beatmap, one combo at a time. `Tag-team VS` is just `Tag co-op` but with two teams playing against each other.
+Tag co-op makes all players in the match work together to pass the beatmap, one combo at a time. `Tag-team VS` is just `Tag co-op` but with two teams playing against each other.
 
 In this mode, the players' slot placement in the lobby determines the order they play in.
 
@@ -346,7 +346,7 @@ All players must spin the spinner, or the combo will break.
 
 If a player quits during the match, the game will play their part for them.
 
-All players share the same health bar. If it depletes completely, the match ends. In `Tag-team VS`, each team has their own health bars, and losing all health will cause that team to lose.
+All players share the same health bar. If it depletes completely, the match ends. In Tag-team VS, each team has their own health bars, and losing all health will cause that team to lose.
 
 Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect) game modifier will cause the whole team to fail if they fail due to it.
 
@@ -358,9 +358,9 @@ Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perf
 
 No ranked score or performance points are awarded for `Tag co-op` or `Tag-team VS` matches.
 
-For `Tag co-op`, the result shown is the total score, the [judgements](/wiki/Gameplay/Judgement) and accuracy of the team. Individual results are not shown, and can only be seen in the match history. The result screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
+For Tag co-op, the result shown is the total score, the [judgements](/wiki/Gameplay/Judgement) and accuracy of the team. Individual results are not shown, and can only be seen in the match history. The result screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
 
-For `Tag-team VS` results screen, refer to `Tag-team VS`'s [result screen explanation](#team-vs-result-screen).
+For Tag-team VS results screen, refer to Tag-team VS's [result screen explanation](#team-vs-result-screen).
 
 ## Trivia
 
