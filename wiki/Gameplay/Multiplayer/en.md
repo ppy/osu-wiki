@@ -316,7 +316,7 @@ Blue is on the left and Red is on the right. A crown at the centre moves left an
 
 Changing teams can be done while in the lobby. There is no handicap for teams with fewer members, and it is entirely possible to start a match with only one team.
 
-##### Result
+##### Result {#team-vs-result-screen}
 
 ![](img/Multi_team_grade.jpg "Team VS results screen")
 
@@ -360,7 +360,7 @@ No ranked score or performance points are awarded for `Tag co-op` or `Tag-team V
 
 For `Tag co-op`, the result shown is the total score, the [judgements](/wiki/Gameplay/Judgement) and accuracy of the team. Individual results are not shown, and can only be seen in the match history. The result screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
 
-For `Tag-team VS` results screen, refer to `Tag-team VS`'s [result screen explanation](#team-vs).
+For `Tag-team VS` results screen, refer to `Tag-team VS`'s [result screen explanation](#team-vs-result-screen).
 
 ## Trivia
 
