@@ -99,15 +99,15 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 ### Saturday, April 16, 2022
 
-| Team A |  |  | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Hong Kong | ![][flag_HK] | ![][flag_ID] | Indonesia | Apr 16 (Sat) 10:00 UTC | Apr 16 (Sat) 18:00 UTC+8 | Apr 16 (Sat) 17:00 UTC+7 | ² |
-| Germany | ![][flag_DE] | ![][flag_SE] | Sweden | Apr 16 (Sat) 12:00 UTC | Apr 16 (Sat) 14:00 UTC+2 | Apr 16 (Sat) 14:00 UTC+2 | ² |
+| Germany | ![][flag_DE] | ![][flag_SE] | Sweden | Apr 16 (Sat) 18:00 UTC | Apr 16 (Sat) 20:00 UTC+2 | Apr 16 (Sat) 20:00 UTC+2 | ² |
 
 ### Sunday, April 17, 2022
 
-| Team A |  |  | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Apr 17 (Sun) 10:00 UTC | Apr 17 (Sun) 19:00 UTC+9 | Apr 17 (Sun) 19:00 UTC+9 | ¹ |
 | Germany | ![][flag_DE] | ![][flag_HK] | Hong Kong | Apr 17 (Sun) 12:00 UTC | Apr 17 (Sun) 14:00 UTC+2 | Apr 17 (Sun) 20:00 UTC+8 | ³ |
 | Germany | ![][flag_DE] | ![][flag_ID] | Indonesia | Apr 17 (Sun) 12:00 UTC | Apr 17 (Sun) 14:00 UTC+2 | Apr 17 (Sun) 19:00 UTC+7 | ³ |
@@ -119,6 +119,33 @@ The osu!taiko World Cup 2022 is run by various community members.
 ³ Potential match: final matchup depends on the results of ²
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here (81 MB)](https://drive.google.com/uc?id=1qOcr47k05xIJn6o6zg5vUMdNzzVeNqUA)**
+
+- NoMod
+  1. [Otsukisama Koukyoukyoku - ultima Thule (Hivie) \[dm radar for free nominations\]](https://osu.ppy.sh/beatmapsets/1739299#taiko/3554734)
+  2. [Kurokoutei - Nonbinarity (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1414457#taiko/2915423)
+  3. [majiko - Hypocrite Syndrome (\_Rise) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1372080#taiko/2836594)
+  4. [Cattle Decapitation - One Day Closer To The End Of The World (ikin5050) \[Heart Strings\]](https://osu.ppy.sh/beatmapsets/1739224#taiko/3554540)
+  5. [METAROOM - JITTER FANTA (woosungko) \[FIZZY\]](https://osu.ppy.sh/beatmapsets/1739593#taiko/3555451)
+  6. [C-Show - Invitation from Mr.C (Nifty) \[YOU ARE INNERVITED!!!!!!\]](https://osu.ppy.sh/beatmapsets/1739332#taiko/3554816)
+- Hidden
+  1. [wotoha - Lonerism (Cut Ver.) (tasuke912) \[Aloneness\]](https://osu.ppy.sh/beatmapsets/1739910#taiko/3556860)
+  2. [Igorrr - Scarlatti 2.0 (Socus) \[Nihilistic idea\]](https://osu.ppy.sh/beatmapsets/1545368#taiko/3158712)
+- Hard Rock
+  1. [katagiri - terminus//runtimes (Horiiizon) \[gamelan's terminal\]](https://osu.ppy.sh/beatmapsets/1343171#taiko/2862324)
+  2. [goreshit - the dancecore element (Cure) \[7th\]](https://osu.ppy.sh/beatmapsets/1554880#taiko/3176652)
+- Double Time
+  1. [Camellia - flying in the flow of deep-sea (Nwolf) \[SKWolf's Aquatic Oni\]](https://osu.ppy.sh/beatmapsets/397682#taiko/864922)
+  2. [nameless - Toumei Elegy (mintong89) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/450585#taiko/966676)
+- FreeMod
+  1. [Laur - Chimimouryou (komasy) \[Muzukasy\]](https://osu.ppy.sh/beatmapsets/1590899#taiko/3249250)
+  2. [Kabanagu - 20210517demo (Ulqui) \[Hippopotamus\]](https://osu.ppy.sh/beatmapsets/1544926#taiko/3157853)
+  3. [PrimeMIX - Uber 6 (iceOC) \[iceOC's Hell Oni\]](https://osu.ppy.sh/beatmapsets/1739327#taiko/3554801)
+- Tiebreaker
+  1. **[First Fragment - Gloire Eternelle (Grimbow) \[Raimbow Oni\]](https://osu.ppy.sh/beatmapsets/1739222#taiko/3554538)**
 
 ### Semifinals
 
@@ -245,6 +272,8 @@ The osu!taiko World Cup 2022 is run by various community members.
 ## Match results
 
 ### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Vte6gkSYpcamsYoL0BsNPJXDin-FQMvoATke4qIUPn8/edit?rm=minimal).
 
 Saturday, April 9, 2022
 
