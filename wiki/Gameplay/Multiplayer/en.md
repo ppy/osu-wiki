@@ -6,7 +6,7 @@ The [osu!academy](/wiki/Community/Video_series/osu!academy) covers this part of 
 
 ## How to play
 
-*Notice: A player cannot play in multiplayer if their account is [silenced](/wiki/Silence).*
+*Notice: Multiplayer cannot be accessed if a player's account is [silenced](/wiki/Silence).*
 
 In order to join a multiplayer lobby, the player must be [signed in to their osu! account](/wiki/Registration). From the main menu, the main multiplayer lobby can be accessed with the following steps:
 
@@ -25,7 +25,7 @@ On entering, the player is presented with all currently available matches.
 
 ### Filter options
 
-The listed match lobbies can be filtered using the filter options at the top left.
+The listed match lobbies can be filtered using the options at the top left.
 
 | Title | Description |
 | :-: | :-- |
@@ -269,7 +269,7 @@ For `Tag co-op` and `Tag-team VS`:
 
 If a player fails during a `Tag co-op` match, the match ends and the players return to the match lobby. In `Tag-team VS`, the opposing team receives a win by default instead. Failed players do not contribute towards the team unless they have been revived by the end of the match.
 
-If a player quits when playing in these modes, the game will perfectly play their part for them, but not contribute anything to the team. If all players of a team quit, the opposing team will win by default.
+If a player quits while being in a match, the game will perfectly play their part for them, but not contribute anything to the team. If all players of a team quit, the opposing team will win by default.
 
 Players who have failed or quit will be placed at the bottom of the leaderboard with their scores sorted separately from other players.
 
