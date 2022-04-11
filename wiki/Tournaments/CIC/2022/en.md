@@ -14,8 +14,8 @@ The **Catch the Beat Indonesia Cup 2022** (***CIC 2022***) was a double-eliminat
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2022-02-01/2022-02-15 |
-| Screening phase | 2022-02-16/2022-02-23 |
+| Registration Phase | 2022-02-01/2022-02-15 |
+| Screening Phase | 2022-02-16/2022-02-23 |
 | Group Stage | 2022-03-04/2022-03-06 |
 | Round of 16 | 2022-03-12/2022-03-13 |
 | Quarter Finals | 2022-03-19/2022-03-20 |
@@ -36,7 +36,7 @@ The **Catch the Beat Indonesia Cup 2022** (***CIC 2022***) was a double-eliminat
 
 ## Organisation
 
-CIC 2022 was run by various Indonesian and non-Indonesian osu! community members.
+CIC 2022 was run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -46,13 +46,13 @@ CIC 2022 was run by various Indonesian and non-Indonesian osu! community members
 | Streamer | ![][flag_ID] [Dika312](https://osu.ppy.sh/users/741613), ![][flag_AU] [wangwangg](https://osu.ppy.sh/users/6416920), ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) |
 | Commentator | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [Pischok](https://osu.ppy.sh/users/15507280), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) |
 | Referee | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) |
-| Graphic designer | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) |
-| Spreadsheet manager | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
-| Wiki editor | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
+| Graphic Designer | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) |
+| Spreadsheet Manager | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
+| Wiki Editor | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSvgR8kpmCBm3hqjKuN0LSNkP6H6S7ugk-7y2Xx2AR8sxYkJqgPFoAmDwoJx3Ic1l9FbdwQg1caZCsM/pubhtml)**
+- **[Main Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSvgR8kpmCBm3hqjKuN0LSNkP6H6S7ugk-7y2Xx2AR8sxYkJqgPFoAmDwoJx3Ic1l9FbdwQg1caZCsM/pubhtml)**
 - [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1513493)
 - [Discord Server](https://discord.gg/YwAYbPa)
 - [Challonge Brackets](https://challonge.com/cic2022)
@@ -388,18 +388,18 @@ Monday, 7 March 2022:
    - In the case where the number of registrants exceeds 32, the Tournament Management will only enlist 32 registrants with the highest osu!catch pp to participate in the tournament.
 5. Testplayers, referees, and map selectors may not participate as players in this tournament.
 
-### Group stage rules
+### Group Stage rules
 
-1. In the Group stage, all qualified players will be situated into eight different seeds (Seed A, Seed B, Seed C, Seed D, Seed E, Seed F, Seed G, and Seed H) based on their osu!catch pp. The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed osu!lazer bracket draw.
+1. In the Group Stage, all qualified players will be situated into four different seeds (Top seed, Medium seed, Low seed, Unseeded) based on their osu!catch performance points (pp). The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed osu!lazer bracket draw.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnouts after each map:
    - 1st place: **+3 points**
    - 2nd place: **+2 point**
    - 3rd place: **+1 point**
    - 4th place: **0 point**
 3. If there is a tie at the end of the map, the points will instead be distributed as follows:
-   - **+2/+2/+1/0** in the case where the 1st place and the 2nd place players are tied.
-   - **+2/+1/+1/+1** in the case where the 2nd place and the 3rd place players are tied.
-   - **+2/+2/+2/0** in the case where the 1st place, the 2nd place, and the 3rd place players are tied.
+   - **+2/+2/+1/+0** in the case where the 1st place and the 2nd place players are tied.
+   - **+2/+1/+1/+0** in the case where the 2nd place and the 3rd place players are tied.
+   - **+2/+2/+2/+0** in the case where the 1st place, the 2nd place, and the 3rd place players are tied.
    - **+2/+2/+2/+2** in the case where all four players are tied.
 4. Players are **not allowed** to ban maps in the Group stage.
 5. There is no Lower Bracket in the Group stage.
@@ -429,14 +429,14 @@ Monday, 7 March 2022:
 
 1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
-   - This rule does not apply in the Group stage lobbies.
+   - This rule does not apply in the Group Stage lobbies.
 2. Each player may ban up to two beatmaps from the mappool following a modified "comeback mechanic" system that is adapted from the [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019). The system works as follows:
    - At the start of the match, each player has to ban **one beatmap** from the mappool.
    - After a player reaches 3 points (in the Semi Finals, Finals, and Grand Finals), the opposing player is then given a chance to **ban another beatmap** from the mappool that hasn't either been picked or banned up until that point as a comeback mechanic.
    - All banned beatmaps are not allowed to be picked by any player in the remainder of the match.
    - This rule does not apply in the Group Stage.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
-   - Warm-ups do not apply in the Group stage lobbies.
+   - Warm-ups do not apply in the Group Stage lobbies.
 4. In case of a tiebreaker, **the tiebreaker beatmap will be played using Hidden** (HD) **or NoMod** (NM) **based on the player's choice**.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
