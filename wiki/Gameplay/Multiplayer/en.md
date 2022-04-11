@@ -41,11 +41,7 @@ The listed match lobbies can be filtered using the filter options at the top lef
 
 In the middle, there are rows displaying available matches.
 
-On the left side, there is the [game mode](/wiki/Game_mode) icon and its name, along with the [team mode](#team-mode) enclosed in parentheses. Below them is the number of players inside the match as well as the maximum number of allowed players. To its right, the player rank range is displayed from highest to lowest.
-
-On the right side, there is a large profile picture of the host and smaller profile pictures of the other players. There is also the name of the match and the beatmap's name along with the current [beatmap difficulty](/wiki/Beatmap/Difficulty) enclosed in square brackets.
-
-The player slots can have three different colours:
+The player slots on the right side can have three different colours:
 
 | Colour | Description |
 | :-: | :-- |
