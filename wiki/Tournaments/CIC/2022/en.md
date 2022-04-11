@@ -88,7 +88,7 @@ Listed below are players who qualified into the Group stage (along with their re
   2. [LeaF - Ka (Kukkai) \[ERROR\]](https://osu.ppy.sh/beatmapsets/1429702#fruits/2943178)
   3. [Aura Kasih - Mari Bercinta (Madoka Ayukawa) \[Dansa\]](https://osu.ppy.sh/beatmapsets/1729731#fruits/3535054)
   4. [SIDxRAM - RAMSING (Ksardas) \[0PPINOSU'S ANOTHER\]](https://osu.ppy.sh/beatmapsets/1137778#fruits/2529041)
-  5. [Nekomata Master - Despair of ELFERIA (-Tochi) \[ANIMUM DESPONDEO\]](https://osu.ppy.sh/beatmapsets/1069504#fruits/2238810) 
+  5. [Nekomata Master - Despair of Elferia (-Tochi) \[ANIMUM DESPONDEO\]](https://osu.ppy.sh/beatmapsets/1069504#fruits/2238810) 
   6. [Camellia - PSYCHO+HEROES (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1404742#fruits/2897138) 
 - Hidden
   1. [Tedjimo yomigY - Edelweiss (Secre) \[Purity\]](https://osu.ppy.sh/beatmapsets/1667554#fruits/3404936)
@@ -123,7 +123,7 @@ Listed below are players who qualified into the Group stage (along with their re
   1. [bill wurtz - La de da de da de da de day oh (Deif) \[overdose\]](https://osu.ppy.sh/beatmapsets/1724484#fruits/3524385)
   2. [ITZY - Mafia In the morning (Xetopia) \[Special\]](https://osu.ppy.sh/beatmapsets/1619154#fruits/3305905)
   3. [Two Door Cinema Club - Dirty Air (StarCastler) \[Gens' Blaze\]](https://osu.ppy.sh/beatmapsets/1107855#fruits/2336375)
-  4. [jun with Alison - SUNKISS DROP \~jun side\~ (\[Keqing\]) \[please donate for my gacha addiction\]](https://osu.ppy.sh/beatmapsets/1498309#fruits/3070802)
+  4. [jun with Alison - SUNKiSS DROP \~jun side\~ (\[Keqing\]) \[please donate for my gacha addiction\]](https://osu.ppy.sh/beatmapsets/1498309#fruits/3070802)
 - HardRock
   1. [mafumafu - Haikei, Sakura Maichiru Kono Hi ni (-Rustyy) \[Graduation\]](https://osu.ppy.sh/beatmapsets/1724443#fruits/3524318)
   2. [DJ YOSHITAKA - JOMANDA (Syamu) \[†\]](https://osu.ppy.sh/beatmapsets/1672888#fruits/3417218)
@@ -132,7 +132,7 @@ Listed below are players who qualified into the Group stage (along with their re
 - DoubleTime
   1. [halca - Kokuhaku Bungee Jump (Chatie) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/1249031#fruits/2595983)
   2. [frederic - ONLYWONDER (JBHyperion) \[Bloom\]](https://osu.ppy.sh/beatmapsets/1488552#fruits/3051572)
-  3. [Sana - Senpai. (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/637706#osu/1410075)
+  3. [sana - Senpai. (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/637706#osu/1410075)
   4. [JUNNA - Here (rosario wknd) \[Heartache\]](https://osu.ppy.sh/beatmapsets/1577247#fruits/3220509)
 - Tiebreaker
   1. **[Ka7ag5th - Galaxia (-Rustyy	) \[Cosmic Destruction\]](https://osu.ppy.sh/beatmapsets/1724444#fruits/3524320)**
@@ -381,7 +381,7 @@ Monday, 7 March 2022:
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, each player is required to have the Indonesian flag displayed on their profile and at least 3000 osu!catch playcounts to their name.
+   - In order to be eligible to play in the tournament, each player is required to have the Indonesian flag displayed on their profile and at least 3000 osu!catch playcounts on their profile.
 2. To ensure valid and serious registrations, every registered player will be checked in detail by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. The Tournament Management will only account for a maximum of 32 players to take part in the tournament.
