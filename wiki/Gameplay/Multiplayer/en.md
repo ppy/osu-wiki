@@ -8,7 +8,7 @@ The [osu!academy](/wiki/Community/Video_series/osu!academy) covers this part of 
 
 *Notice: A player cannot play in multiplayer if their account is [silenced](/wiki/Silence).*
 
-In order to join a multiplayer lobby, the player must be [signed in to their osu! account](/wiki/Registration). From the main menu, the the main multiplayer lobby can be accessed with the following steps:
+In order to join a multiplayer lobby, the player must be [signed in to their osu! account](/wiki/Registration). From the main menu, the main multiplayer lobby can be accessed with the following steps:
 
 1. Click the `Play` button or press `P`.
 2. Click the `Multi` button or press `M`.
