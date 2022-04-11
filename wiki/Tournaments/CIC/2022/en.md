@@ -393,7 +393,7 @@ Monday, 7 March 2022:
 1. In the Group Stage, all qualified players will be situated into four different seeds (Top seed, Medium seed, Low seed, Unseeded) based on their osu!catch performance points (pp). The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed osu!lazer bracket draw.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnouts after each map:
    - 1st place: **+3 points**
-   - 2nd place: **+2 point**
+   - 2nd place: **+2 points**
    - 3rd place: **+1 point**
    - 4th place: **0 point**
 3. If there is a tie at the end of the map, the points will instead be distributed as follows:
