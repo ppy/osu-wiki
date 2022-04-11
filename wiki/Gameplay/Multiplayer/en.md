@@ -137,7 +137,7 @@ When choosing the beatmap, the host will enter a menu similar to the song select
 
 ![](img/Multi_SS.jpg "Example of what the song selection will look like for the host.")
 
-Normally, the beatmap selection will show the background image, game mode symbol, the title, artist of the song, creator of the beatmap, the selected [difficulty](/wiki/Beatmap/Difficulty) selected and the [star rating](/wiki/Beatmapping/Star_rating).
+Normally, the beatmap selection will show the background image, game mode symbol, the title, artist of the song, creator of the beatmap, the selected [difficulty](/wiki/Beatmap/Difficulty) and the [star rating](/wiki/Beatmapping/Star_rating).
 
 ![](img/Multi_beatmapinfo.jpg "Beatmap selection when hovered over.")
 
