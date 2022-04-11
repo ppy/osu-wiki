@@ -99,15 +99,15 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 ### Saturday, April 16, 2022
 
-| Team A |  |  | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Hong Kong | ![][flag_HK] | ![][flag_ID] | Indonesia | Apr 16 (Sat) 10:00 UTC | Apr 16 (Sat) 18:00 UTC+8 | Apr 16 (Sat) 17:00 UTC+7 | ² |
 | Germany | ![][flag_DE] | ![][flag_SE] | Sweden | Apr 16 (Sat) 18:00 UTC | Apr 16 (Sat) 20:00 UTC+2 | Apr 16 (Sat) 20:00 UTC+2 | ² |
 
 ### Sunday, April 17, 2022
 
-| Team A |  |  | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Apr 17 (Sun) 10:00 UTC | Apr 17 (Sun) 19:00 UTC+9 | Apr 17 (Sun) 19:00 UTC+9 | ¹ |
 | Germany | ![][flag_DE] | ![][flag_HK] | Hong Kong | Apr 17 (Sun) 12:00 UTC | Apr 17 (Sun) 14:00 UTC+2 | Apr 17 (Sun) 20:00 UTC+8 | ³ |
 | Germany | ![][flag_DE] | ![][flag_ID] | Indonesia | Apr 17 (Sun) 12:00 UTC | Apr 17 (Sun) 14:00 UTC+2 | Apr 17 (Sun) 19:00 UTC+7 | ³ |
