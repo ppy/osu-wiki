@@ -512,8 +512,8 @@ The rulesets are mainly based on MWC 2021/4DMWC 4, which shows below as referanc
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 
 4. Each captain must use `!roll` once in `#multiplayer`.
-   - The winner of the `!roll` starts picking the first beatmap of the match.
-   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the  `!roll` to ban a beatmap.
+   - The winner of the `!roll` select which team will select first.
+   - The loser of the `!roll` select which team will ban first.
    
 5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team takes more time than alloted, the procedures adopted will be as follows:
    - For the first occurrence:
