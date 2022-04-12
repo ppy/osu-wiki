@@ -10,4 +10,4 @@ tags:
 
 A **measure** (or **bar**) in music theory refers to a single unit of time featuring a specific number of [beats](/wiki/Music_theory/Beat) played at a particular [tempo](/wiki/Music_theory/Tempo).
 
-In the [beatmap editor timeline](/wiki/Client/Beatmap_editor/Timelines), a measure can be identified as the gap between two large white ticks:
+In the [beatmap editor timeline](/wiki/Client/Beatmap_editor/Timelines), a measure can be identified as the gap between two large white ticks.
