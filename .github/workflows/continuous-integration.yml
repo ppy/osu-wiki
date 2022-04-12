@@ -70,7 +70,7 @@ jobs:
 
       - name: setup node
         uses: actions/setup-node@v3
-          with:
+        with:
           node-version: '16'
 
       - name: install remark
