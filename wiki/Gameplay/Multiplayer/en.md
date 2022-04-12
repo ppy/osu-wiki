@@ -1,3 +1,5 @@
+<!-- TODO: needs further rewrite, see https://github.com/ppy/osu-wiki/issues/7165 -->
+
 # Multiplayer
 
 **Multiplayer** (sometimes shortened to *Multi*) is a mode in which up to 16 players can compete against each other or as a team on maps decided by the host.
