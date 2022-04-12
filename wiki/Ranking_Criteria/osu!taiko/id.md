@@ -1,6 +1,6 @@
 # Ranking criteria osu!taiko
 
-**Ranking criteria osu!taiko** merupakan peraturan dan pedoman yang berlaku untuk pembuatan tingkat kesulitan spesifik osu!taiko. Untuk dapat membuat tingkat kesulitan spesifik osu!taiko, diwajibkan mematuhi kriteria yang tercantum. Meskipun **semua aturan wajib diikuti dalam keadaan apa pun**, namun pedoman dapat diabaikan dalam kasus tertentu. Kasus tertentu ini harus dapat dibenarkan dengan penjelasan yang lengkap tentang mengapa pedoman tersebut diabaikan dan alasan mengapa tidak mengabaikannya akan mengganggu kualitas keseluruhan pembuatan.
+**Ranking criteria osu!taiko** merupakan peraturan dan pedoman yang berlaku untuk pembuatan tingkat kesulitan mode permainan osu!taiko. Agar tingkat kesulitan mode permainan osu!taiko dapat di-*ranked*, mapper diwajibkan mematuhi kriteria yang tercantum. Meskipun **semua aturan wajib diikuti dalam keadaan apa pun**, namun pedoman dapat diabaikan dalam kasus tertentu. Kasus tertentu ini harus dapat dibenarkan dengan penjelasan yang lengkap tentang mengapa pedoman tersebut dapat diabaikan alasan bila tidak mengabaikannya akan mengganggu kualitas keseluruhan pembuatan map tersebut.
 
 Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Setiap aturan yang melalui proses diskusi dan persetujuan komunitas dicantumkan di sini sebagaimana telah disepakati pada masing-masing utas diskusi.
 
@@ -18,8 +18,8 @@ Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](
 
 ### Istilah umum
 
-- **Note Don / Merah:** Ketukan yang dapat dipukul dengan salah satu key yang terpasang di Drum Centre (kunci utama `X`, `C`).
-- **Note Kat / Biru:** Ketukan yang dapat dipukul dengan salah satu key yang terpasang pada Drum Rim (kunci utama `Z`, `V`).
+- **Note merah/Don: **Sebuah ketukan yang dapat dipukul dengan tombol yang telah di-*bind* untuk *Drum Centre* (tombol bawaan `X`, `C`).
+- **Note biru/Kat: **Sebuah ketukan yang dapat dipukul dengan tombol yang telah di-*bind* untuk *Drum Rim* (tombol bawaan `Z`, `V`).
 - **Note Don besar / Merah besar / Note finisher:** Ketukan kuat yang dapat dipukul dengan kedua tombol Drum Centre secara bersamaan untuk skor ekstra.
 - **Note Kat besar / Note biru besar / Note finisher:** Ketukan kuat yang dapat dipukul dengan kedua kunci Drum Rim secara bersamaan untuk skor ekstra.
 - **BPM:** Singkatan dari "beats per minute" yang digunakan untuk menentukan tempo sebuah lagu.
@@ -179,5 +179,5 @@ Jika kesulitan Futsuu diperlukan dan digunakan sebagai *kesulitan terendah* dari
 
 #### Pedoman pengaturan kesulitan
 
-- Overall Difficulty harus 5 atau kurang.
-- HP Drain Rate harus 5 atau lebih. Dalam kasus jumlah note yang lebih tinggi, HP Drain Rate dapat sedikit disesuaikan menjadi lebih rendah dari 5.
+- Overall Difficulty harus bernilai lebih besar daripada 5.
+- HP Drain Rate harus sekurang-kurangnya bernilai 5. Dalam kasus jumlah note yang lebih tinggi, HP Drain Rate dapat sedikit disesuaikan menjadi lebih rendah dari 5.
