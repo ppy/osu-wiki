@@ -2,7 +2,7 @@
 
 *Für ein Team, welches Accounts verwaltet, siehe: [Account-Support-Team](/wiki/People/The_Team/Account_support_team)*
 
-Das **Support-Team** (auch bekannt als **Support Team Redux**) besteht aus Mitgliedern der osu!-Belegschaft, die für die Moderation von bestimmten Subforen im Forum zuständig sind: [Entwicklung](https://osu.ppy.sh/community/forums/2), [Spielverlauf & Rankings](https://osu.ppy.sh/community/forums/13) (ausgenommen [Wettbewerbe](https://osu.ppy.sh/community/forums/55) und [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), und [Hilfe](https://osu.ppy.sh/community/forums/5).
+Das **Support-Team** (auch bekannt als **Support Team Redux**) besteht aus Mitgliedern der osu!-Belegschaft, die für die Moderation von bestimmten Subforen im Forum zuständig sind: [Entwicklung](https://osu.ppy.sh/community/forums/2), [Spielverlauf & Rankings](https://osu.ppy.sh/community/forums/13) (ausgenommen [Turniere](https://osu.ppy.sh/community/forums/55) und [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), und [Hilfe](https://osu.ppy.sh/community/forums/5).
 
 ## Rollen und Verantwortlichkeiten
 
