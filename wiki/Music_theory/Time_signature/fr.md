@@ -1,4 +1,5 @@
 ---
+outdated: true
 stub: true
 tags:
   - music theory
