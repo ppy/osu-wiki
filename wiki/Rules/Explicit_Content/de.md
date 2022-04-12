@@ -2,7 +2,7 @@
 
 ![Screenshot einer Beatmap, die expliziten Inhalt enthält](img/explicit-tag-DE.jpg "Ein Beispiel einer Beatmap, die mit dem Tag 'explizit' markiert wurde.")
 
-Mapper können den Inhalt ihrer Beatmap als *explizit* zu deklarieren, indem sie die Checkbox `Explicit Content` ankreuzen, welche im [Genre- und Sprach-Popup-Menü](/wiki/Beatmap/Genre_and_language) auf dem Webeintrag der jeweiligen Beatmap zu finden ist. An diese Funktion sind einige Erwartungen und Regeln bezüglich ihrer Verwendung geknüpft.
+Mapper können den Inhalt ihrer Beatmap als *explizit* deklarieren, indem sie die Checkbox `Expliziter Inhalt` ankreuzen, welche im [Genre- und Sprach-Popup-Menü](/wiki/Beatmap/Genre_and_language) auf dem Webeintrag der jeweiligen Beatmap zu finden ist. An diese Funktion sind einige Erwartungen und Regeln bezüglich ihrer Verwendung geknüpft.
 
 Ungeachtet der Art des Tons, stelle sicher, dass es den [generellen Regeln für Songinhalte](/wiki/Rules/Song_Content_Rules) entspricht.
 

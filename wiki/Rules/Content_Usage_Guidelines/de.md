@@ -38,7 +38,7 @@ Wenn du die Erlaubnis eines Künstlers erhalten hast, ihren Song, ihr Album-Cove
 
 Beim Einreichen einer Beatmap solltest du eine Erlaubnis für Inhalte bezogen auf das Gameplay haben, wie zum Beispiel [Gast-Schwierigkeitsgrade](/wiki/Beatmap/Guest_difficulty) oder Gameplay von anderen Rhythmusspielen.
 
-Wir lehnen keine Einreichungen mit Gameplay (Hit-Objekte) ab, das dem aus anderen Spielen ähnelt, da dies nicht respektvoll gegenüber der  Rhythmusspiel-Community ist.
+Wir dulden keine Einreichungen mit Gameplay (Hit-Objekte), das dem aus anderen Spielen ähnelt, da dies nicht respektvoll gegenüber der Rhythmusspiel-Community ist.
 
 ---
 
