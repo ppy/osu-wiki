@@ -31,11 +31,11 @@ Si vous avez des difficultés à ouvrir osu!, les étapes suivantes peuvent vous
 3. Si vous avez un antivirus installé, assurez-vous qu'il est désactivé lorsque vous décompressez osu! ou bien il peut mettre en quarantaine les fichiers requis par Wine.
 4. Si rien ne fonctionne, vous pouvez créer un message dans le [forum d'aide](https://osu.ppy.sh/community/forums/5).
 
-## osu!lazer
+## osu!(lazer)
 
-[osu!lazer](https://github.com/ppy/osu) est le futur client de jeu d'osu! actuellement en développement. Si vous ne vous souciez pas de gagner des [points de performance](/wiki/Performance_points), il est recommandé de l'essayer. Pour l'installer, suivez les étapes suivantes :
+[osu!(lazer)](https://github.com/ppy/osu) est le futur client de jeu d'osu! actuellement en développement. Si vous ne vous souciez pas de gagner des [points de performance](/wiki/Performance_points), il est recommandé de l'essayer. Pour l'installer, suivez les étapes suivantes :
 
-1. Allez sur la [page de téléchargement de osu!lazer](https://github.com/ppy/osu/releases/latest), téléchargez `osu!app.zip` et décompressez-le.
+1. Allez sur la [page de téléchargement de osu!(lazer)](https://github.com/ppy/osu/releases/latest), téléchargez `osu!app.zip` et décompressez-le.
 2. Double-cliquez sur osu! et appuyez sur `Open` pour l'ouvrir.
 3. Si une boîte de dialogue vous demande d'autoriser osu! à recevoir les frappes au clavier :
    1. Cliquez sur le bouton `Ouvrir les préférences du système`.

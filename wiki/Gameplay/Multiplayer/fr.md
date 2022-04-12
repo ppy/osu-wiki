@@ -142,8 +142,8 @@ Il y a quatre états importants à retenir:
 
 | Couleur (État) | Description |
 | :-- | :-- |
-| **Rouge (n'a pas la map)** | **Le joueur n'a pas la beatmap**. Un `[n'a pas la map]` apparaîtra après le pseudo du joueur jusqu'à ce qu'il ait téléchargé et extrait la map (ce qui mettra l'état du joueur en Blanc). Tous les joueurs auront cet état ou l'état Blanc (Pas prêt) lorsque l'hôte aura changé de beatmap. Si le lancement de la partie est forcé, le joueur n'ayant pas la beatmap ne sera pas affecté. |
-| **Blanc (Pas prêt)** | **Le joueur a la beatmap mais n'a pas encore cliqué sur le bouton "Je suis prêt !"**. Dans cet état, il est possible de changer les mods avec lesquels le joueur va jouer. Tous les joueurs auront cet état ou l'état Rouge (n'a pas la map) lorsque l'hôte aura changé de beatmap. Si le lancement de la partie est forcé, le joueur ayant la map devra la jouer qu'il soit prêt ou non. |
+| **Rouge (n'a pas la beatmap)** | **Le joueur n'a pas la beatmap**. Un `[n'a pas la beatmap]` apparaîtra après le pseudo du joueur jusqu'à ce qu'il ait téléchargé et extrait la beatmap (ce qui mettra l'état du joueur en Blanc). Tous les joueurs auront cet état ou l'état Blanc (Pas prêt) lorsque l'hôte aura changé de beatmap. Si le lancement de la partie est forcé, le joueur n'ayant pas la beatmap ne sera pas affecté. |
+| **Blanc (Pas prêt)** | **Le joueur a la beatmap mais n'a pas encore cliqué sur le bouton "Je suis prêt !"**. Dans cet état, il est possible de changer les mods avec lesquels le joueur va jouer. Tous les joueurs auront cet état ou l'état Rouge (n'a pas la beatmap) lorsque l'hôte aura changé de beatmap. Si le lancement de la partie est forcé, le joueur ayant la beatmap devra la jouer qu'il soit prêt ou non. |
 | **Vert (Prêt)** | **Le joueur est prêt**. Les mods ne peuvent plus être changés dans cet état. Le joueur peut cliquer sur le bouton "Je ne suis pas prêt" pour revenir à l'état Blanc. Pour un hôte, il n'est généralement pas possible d'appuyer sur "Je ne suis pas prêt" puisque celui-ci se transforme en "Démarrer la partie" à moins qu'il n'y ait pas d'autre joueur prêt. |
 | **Bleu clair (en jeu)** | **Le joueur est en partie**. Un `[en jeu]` sera affiché après le pseudo du joueur jusqu'à ce que le match se termine. |
 
@@ -159,9 +159,9 @@ L'hôte peut changer le nom ou créer/changer le mot de passe de la salle en cli
 
 #### Beatmap
 
-![](img/Multi_host_song_change.jpg "Lorsque l'hôte est en train de changer de map, ce texte sera temporairement affiché.")
+![](img/Multi_host_song_change.jpg "Lorsque l'hôte est en train de changer de beatmap, ce texte sera temporairement affiché.")
 
-![](img/Multi_SS.jpg "Exemple de ce que l'hôte voit en sélectionnant une map.")
+![](img/Multi_SS.jpg "Exemple de ce que l'hôte voit en sélectionnant une beatmap.")
 
 La partie du milieu est la partie Beatmap.
 
@@ -311,7 +311,7 @@ Un joueur ayant quitté ou échoué sera placé en bas du classement des joueurs
 | **Danger/Violette-Rouge** | **Le joueur a *moins* de la moitié de sa vie**. Le rouge devient plus clair si la vie du joueur se rapproche de zéro et vire au bleu si la vie passe au dessus de la moitié de la barre de vie. |
 | **Échoué/Grise** | **Le joueur n'a plus de vie** mais il peut continuer à jouer. Dans le cas où [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death)/[Perfect (PF)](/wiki/Game_modifier/Perfect) n'est pas utilisé, remplir entièrement la barre de vie ramène le joueur à la vie et repasse au statut "Normal". Notez que le score n'est pas ajouté au score de l'équipe tant que le joueur est dans ce statut. |
 | **Tag/Verte** | Disponible uniquement en *Tag Coop et Tag Team Vs*. **Cette couleur reste la même durant tout le match et ne change pas selon la barre de vie**. Une flèche pointe le joueur actuellement en train de jouer avec une petite lueur blanche. |
-| **Skipped/Blanche** | **Le joueur demande à passer l'introduction de la map si celle-ci en a une**. Les joueurs ayant appuyé sur le bouton `Skip` en bas à droite de l'écran auront une petite rectangle jaune avec écrit "Skipped" en blanc en bas à droite de leur pseudo. **Tous les joueurs doivent demander à passer l'introduction pour que celle-ci soit passée**. |
+| **Skipped/Blanche** | **Le joueur demande à passer l'introduction de la beatmap si celle-ci en a une**. Les joueurs ayant appuyé sur le bouton `Skip` en bas à droite de l'écran auront une petite rectangle jaune avec écrit "Skipped" en blanc en bas à droite de leur pseudo. **Tous les joueurs doivent demander à passer l'introduction pour que celle-ci soit passée**. |
 | **Quit/Dépend** | **Le joueur a quitté le match**. Il y a deux possibilités d'obtenir ce statut: (1) Appuyer sur `Echap` deux fois ou (2) se déconnecter de Bancho. La couleur du pseudo du joueur passera du blanc au rouge, avec un `[Quit]` écrit près du pseudo. La couleur de la boîte dépend de la vie qu'avait le joueur avant de quitter la partie. |
 
 ### Head to Head
@@ -385,7 +385,7 @@ Dans ce mode, le placement des joueurs allant de haut en bas est important car i
 Une flèche verte montre quel joueur est actuellement en train de jouer le combo de la beatmap.
 Le pseudo du joueur est affiché en bas à droite de l'écran.
 Il y aura des flèches d'avertissements prévenant le joueur qu'il doit jouer et le combo est en couleur jusqu'à ce que le combo se finisse
-Le joueur peut changer la couleur de son combo avant de commencer une map dans **Couleur**
+Le joueur peut changer la couleur de son combo avant de commencer une beatmap dans **Couleur**
 
 **Tous les joueurs doivent jouer les spinners**. Ne pas jouer/réussir le spinner brisera le combo actuel.
 

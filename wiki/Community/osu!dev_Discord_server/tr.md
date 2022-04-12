@@ -20,7 +20,7 @@ Sunucuda tartışılan her bir geliştirme ürününün kendine ait bir kanalı 
 
 | Proje | Kanal |
 | :-- | :-- |
-| [osu!lazer](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [osu!](/wiki/Game_mode/osu!) [yıldız dereceleri](/wiki/Beatmapping/Star_rating) ve [performans puanları](/wiki/Performance_points) | `#difficulty-osu` |

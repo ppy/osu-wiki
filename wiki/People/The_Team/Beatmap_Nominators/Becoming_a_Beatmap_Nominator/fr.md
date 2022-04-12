@@ -1,10 +1,15 @@
+---
+outdated: true
+outdated_since: d096c4bd0f75cef054e5e8c08a5f49905f5f097e
+---
+
 # Devenir un Beatmap Nominator
 
 Les utilisateurs souhaitant rejoindre les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) doivent passer par un processus de candidature supervisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
 
 Les candidatures se font via le [site web de la NAT](http://bn.mappersguild.com/bnapps).
 
-Les candidats doivent répondre à un critère d'activité de modding, soumettre au moins deux maps qu'ils ont récemment moddées et passer un [test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) sur les [critères de classement](/wiki/Ranking_Criteria) afin de soumettre leur candidature. Un message de la NAT sera envoyé dès qu'un verdict aura été rendu. Vous trouverez plus d'informations sur les modalités de candidature sur le site web.
+Les candidats doivent répondre à un critère d'activité de modding, soumettre au moins deux beatmaps qu'ils ont récemment moddées et passer un [test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) sur les [critères de classement](/wiki/Ranking_Criteria) afin de soumettre leur candidature. Un message de la NAT sera envoyé dès qu'un verdict aura été rendu. Vous trouverez plus d'informations sur les modalités de candidature sur le site web.
 
 ## Critères de base
 
@@ -23,13 +28,13 @@ Les moddeurs souhaitant postuler chez les Beatmap Nominators doivent remplir les
 
 ### Attentes en matière de modding
 
-Les mods soumis doivent montrer qu'un utilisateur est capable d'analyser et d'améliorer des maps selon un standard adapté aux Beatmap Nominators.
+Les mods soumis doivent montrer qu'un utilisateur est capable d'analyser et d'améliorer des beatmaps selon un standard adapté aux Beatmap Nominators.
 
 Voici les caractéristiques de modding attendues des Beatmap Nominators. L'absence de l'un de ces traits peut entraîner le rejet de la candidature.
 
 - Une couverture de tous les niveaux de difficulté
 - Une identification des problèmes empêchant une beatmap d'être classée, y compris ceux que les outils ne peuvent pas détecter, tels que des erreurs de timing ou de métadonnées.
-- Une comparaison entre les parties d'une map pour étayer les problèmes ou les suggestions
+- Une comparaison entre les parties d'une beatmap pour étayer les problèmes ou les suggestions
 - Un commentaire sur une grande variété d'éléments de mapping, tels que le rythme, l'espacement, le mouvement, l'intensité, le contraste et la cohérence
 - Une identification des problèmes isolés et des problèmes généraux à l'échelle de la beatmap.
 

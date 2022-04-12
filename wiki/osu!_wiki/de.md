@@ -31,8 +31,8 @@ Artikel werden nach den [Gestaltungskriterien](/wiki/Article_styling_criteria) d
 
 Obwohl das osu!-Wiki *wiki* im Namen trägt, erfüllt es nicht alle Kriterien des [Wiki-Konzepts](https://en.wikipedia.org/wiki/Wiki):
 
-- Benutzer werden dazu aufgerufen, bereits existierende Artikel zu verbessern und neue zu kreieren, aber Grundlagenkenntnisse über [GitHub](https://github.com) werden erwartet. Dadurch wird die Schwelle für Einsteiger angehoben.
-- Alle Änderungen im osu!-Wiki werden moderiert und durchlaufen einen Bewertungsprozess, in dem von einem Mitwirkenden Zusammenarbeit erwartet wird.
+- Die Verbesserung bestehender und die Erstellung neuer Artikel sind erwünscht, allerdings sind Grundkenntnisse im Umgang mit [GitHub](https://github.com) erforderlich, um etwas beizutragen, was die Einstiegshürde anhebt. Das osu!-Wiki bietet jedoch einen [Beitragsleitfaden](/wiki/osu!_wiki/Contribution_guide), um neuen Benutzern den Einstieg zu erleichtern.
+- Alle Änderungen im osu!-Wiki werden moderiert und durchlaufen einen Bewertungsprozess, in dem von den Mitwirkenden erwartet wird, dass sie mit den Prüfern zusammenarbeiten und auf das Feedback eingehen.
 
 ## Lizensierung
 

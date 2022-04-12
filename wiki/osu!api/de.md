@@ -12,4 +12,4 @@ Die Authentifizierung für die neue API folgt dem [OAuth-2-Protokoll](https://oa
 
 ## Siehe auch
 
-- Originaler Forum-Beitrag: [osu!api Open Beta](https://osu.ppy.sh/community/forums/topics/141240) von [peppy](https://osu.ppy.sh/users/2)
+- Originaler Forumsbeitrag: [osu!api Open Beta](https://osu.ppy.sh/community/forums/topics/141240) von [peppy](https://osu.ppy.sh/users/2)

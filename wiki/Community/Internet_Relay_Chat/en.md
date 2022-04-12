@@ -16,6 +16,7 @@ Open settings of your IRC client and fill in the values (you may need to add a s
 
 - Server: `irc.ppy.sh`
 - Port: `6667`
+- SSL: disabled
 - Username: your osu! username. Replace spaces with underscores (e.g., `beppy master 1000` becomes `beppy_master_1000`)
 - Password: the password from [IRC Authentication](https://osu.ppy.sh/p/irc) page
 
@@ -82,4 +83,4 @@ Users connected via osu! client or web site have no prefix.
 
 ### Someone sends messages, but they are not in the list of channel users!
 
-They are either using [the web version of chat](https://osu.ppy.sh/community/chat) or connected via [osu!lazer](https://github.com/ppy/osu).
+They are either using [the web version of chat](https://osu.ppy.sh/community/chat) or connected via [osu!(lazer)](https://github.com/ppy/osu).

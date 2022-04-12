@@ -1,6 +1,6 @@
 ---
 outdated: true
-outdated_since: b87446df1a2a7a76a68595503495f1cbc9cfc0b4
+outdated_since: 2f106e9a6a2c4d368969341706e6d2bc3071883f
 ---
 
 # Concours
@@ -11,15 +11,13 @@ Cette section est dédiée aux concours organisés par la communauté d'osu!.
 
 Les concours officiels sont organisés (ou reconnus comme officiels) par l'[équipe d'osu!](/wiki/People/The_Team). La plupart des concours officiels ont leurs propres pages sur la [liste des concours](https://osu.ppy.sh/community/contests).
 
-### Concours officiels de beatmapping
-
-#### Monthly Beatmapping Contest
+### Monthly Beatmapping Contest
 
 *Page principale : [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
 Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours de mapping où les mappeurs participants s'affrontaient pour créer la beatmap la plus remarquable avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#niveaux-de-difficulté) en commençant à partir de Easy ou Normal en un mois.
 
-| Numéro du concours | Musique(s) | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Numéro du concours | Musique(s) | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/home/news/2013-09-06-osu-monthly-beatmapping-contest-1) | Rostik - Liquid (Paul Rosenthal Remix) | ![osu!][osu!] | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | ![][flag_AT] [Alumetorz](https://osu.ppy.sh/users/1145984) | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | [#1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) |
 | [#2](https://osu.ppy.sh/home/news/2013-10-28-monthly-beatmapping-contest-2-submissions-open) | cYsmix feat. Emmy - Tear Rain | ![osu!][osu!] | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | ![][flag_RU] [Reiji-RJ](https://osu.ppy.sh/users/305389) | [#1](https://osu.ppy.sh/home/news/2014-01-06-monthly-beatmapping-contest-2-results) |
@@ -41,10 +39,10 @@ Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours
 Après une longue interruption, le Monthly Beatmapping Contest a été relancé en janvier 2020 avec un tout nouveau calendrier, de nouvelles règles, une nouvelle procédure de vote et un nouveau système de récompense. De nombreux aspects du concours ont été radicalement modifiés afin de rendre le concours plus attrayant et plus intéressant, dont voici quelques exemples :
 
 - Au lieu d'une musique unique, le concours propose désormais une sélection de musiques de différents [Featured Artists](/wiki/Featured_Artists) chaque mois, pour lesquelles tous les mappeurs participants sont libres de mapper et de soumettre leurs entrées.
-- Les mappeurs participants ne doivent désormais soumettre qu'une seule difficulté au lieu d'un mapset complet.
+- Les mappeurs participants ne doivent désormais soumettre qu'une seule difficulté au lieu d'une beatmap complète.
 - Les mappeurs participants doivent maintenant adhérer à un certain thème de mapping et/ou à une limitation définie dans les règles, telles que "Le classement par étoiles ne doit pas dépasser 4,00★" ou "Chaque objet doit chevaucher un autre objet".
 
-| Itération du concours | Featured Artist | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | Screening Crew's #1 | Résultats |
+| Itération du concours | Featured Artist | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | Screening Crew's #1 | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [Janvier 2020](https://osu.ppy.sh/community/contests/84) | [MYLK](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!][osu!] | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | [#1](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 | [Février 2020](https://osu.ppy.sh/community/contests/89) | [Voicians](https://osu.ppy.sh/beatmaps/artists/59) | ![osu!][osu!] | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | [#1](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) |
@@ -63,11 +61,11 @@ Après une longue interruption, le Monthly Beatmapping Contest a été relancé 
 | [Avril 2021 (osu!catch)](https://osu.ppy.sh/community/contests/124) |  [MYUKKE.](https://osu.ppy.sh/beatmaps/artists/121) | ![osu!catch][osu!catch] | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | ![][flag_TH] [rew0825](https://osu.ppy.sh/users/2488026) | *N/A* | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 | [Mai 2021 (osu!)](https://osu.ppy.sh/community/contests/127) |  [Masahiro "Godspeed" Aoki](https://osu.ppy.sh/beatmaps/artists/136) | ![osu!][osu!] | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 
-#### Aspire
+### Aspire
 
 **Aspire** est un concours de mapping unique en son genre où les mappeurs participants sont mis au défi de créer la beatmap la plus innovante possible sans aucune restriction des [critères de classement](/wiki/Ranking_Criteria). Le concours encourage les mappeurs à explorer autant que possible les possibilités techniques du jeu.
 
-| Numéro du concours | Musique(s) | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Numéro du concours | Musique(s) | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/home/news/2014-07-21-monthly-beatmapping-contest-6) | [LeaF - Evanescent](https://osu.ppy.sh/beatmaps/artists/73) | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | ![][flag_IT] [Bonzi](https://osu.ppy.sh/users/1313969) et ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917) | ![][flag_DE] [Damnae](https://osu.ppy.sh/users/989377) et ![][flag_US] [Jacob](https://osu.ppy.sh/users/976963) | [#1](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) |
 | [#2](https://osu.ppy.sh/home/news/2016-05-17-aspire-returns-beatmap-contest) | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmaps/artists/3) | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145) | ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954) | [#1](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) |
@@ -75,13 +73,13 @@ Après une longue interruption, le Monthly Beatmapping Contest a été relancé 
 | [#4](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins) | [Culprate - Acid Rain](https://osu.ppy.sh/beatmaps/artists/29) | ![][flag_TW] [SnowNiNo\_](https://osu.ppy.sh/users/2506267) | ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ![][flag_LT] [seselis1](https://osu.ppy.sh/users/7321833) | [#1](https://osu.ppy.sh/home/news/2019-07-22-aspire-2018-results) |
 | [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | N'importe quelle musique disponible sur la [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists) jusqu'en avril 2020 | ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) *(gagnant du choix de la communauté)*, ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) *(gagnant du choix du mappeur)* | ![][flag_CA] [Meow Mix](https://osu.ppy.sh/users/3021634) | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
 
-#### osu! Mapping Olympiad
+### osu! Mapping Olympiad
 
 *Page principale : [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
 
 L'**osu! Mapping Olympiad** est un concours de mapping qui se tient comme un successeur spirituel des anciens (avant 2020) Monthly Beatmapping Contests. Dans ce concours, les mappeurs participants sont chargés de créer soit une beatmap avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#niveaux-de-difficulté) en commençant à partir de Easy ou Normal, soit un certain nombre de difficultés pour n'importe quelle musique donnée dans chaque itération correspondante.
 
-| Numéro du concours | Musique(s) | Mode de jeu | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | Résultats |
+| Numéro du concours | Musique(s) | Mode de jeu | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![Couronne en argent](/wiki/shared/crown-silver.png "Seconde place") | ![Couronne en bronze](/wiki/shared/crown-bronze.png "Troisième place") | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/home/news/2018-02-27-osu-mapping-olympiad-1) | [Kuba Oms - Beautiful Uncertainty (Redux)](https://osu.ppy.sh/beatmaps/artists/13), [OISHII - Honey Snowflakes](https://osu.ppy.sh/beatmaps/artists/17), et [cYsmix - Escapism](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_IT] [Bonzi](https://osu.ppy.sh/users/1313969), et ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | ![][flag_UA] [Fallmorph](https://osu.ppy.sh/users/5720389), ![][flag_SG] [Rokkea](https://osu.ppy.sh/users/2500099), et ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648), ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699), et ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | [#1](https://osu.ppy.sh/home/news/2018-06-23-osu-mapping-olympiad-1-results) |
 | [#2](https://osu.ppy.sh/home/news/2018-05-21-osu-mapping-olympiad-2-taiko) | [Thaehan - Bwa!](https://osu.ppy.sh/beatmaps/artists/7) | ![osu!taiko][osu!taiko] | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | [#1](https://osu.ppy.sh/home/news/2019-09-07-osu!taiko-mapping-olympiad-2-results) |
@@ -91,7 +89,7 @@ L'**osu! Mapping Olympiad** est un concours de mapping qui se tient comme un suc
 | [#6](https://osu.ppy.sh/home/news/2020-02-15-osu-mapping-olympiad-6-catch) | [MYLK - Waffle Wave](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!catch][osu!catch] | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962) | [#1](https://osu.ppy.sh/home/news/2020-04-23-osu-mapping-olympiad-6-results) |
 | [#7](https://osu.ppy.sh/home/news/2020-06-06-osu-mapping-olympiad-7-mania) | [Frums - Star Of The COME ON!!](https://osu.ppy.sh/beatmaps/artists/68), [IAHN - Welcome (Original Mix)](https://osu.ppy.sh/beatmaps/artists/3), [PUP - DVP](https://osu.ppy.sh/beatmaps/artists/79), [HyuN - ENCOUNTER](https://osu.ppy.sh/beatmaps/artists/33), et [Cranky - Ran](https://osu.ppy.sh/beatmaps/artists/23) | ![osu!mania][osu!mania] | ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) et ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | *N/A* | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) et ![][flag_CA] [BringoBrango](https://osu.ppy.sh/users/10274043) | [#1](https://osu.ppy.sh/home/news/2020-12-01-osu-mapping-olympiad-7-concludes) |
 
-#### Community Mapping Contest
+### Community Mapping Contest
 
 Le **Community Mapping Contest** est un concours de mapping dans lequel les mappeurs participants sont libres de soumettre leur entrée pour n'importe quelle difficulté dans n'importe quel mode de jeu, après quoi toutes les entrées gagnantes, toutes difficultés et tous modes de jeu confondus, seront fusionnées en une seule beatmap.
 
@@ -103,11 +101,11 @@ Le **Community Mapping Contest** est un concours de mapping dans lequel les mapp
 | [#1 (osu!mania (4K))](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | ![osu!mania][osu!mania] | ![][flag_CN] [Kayano](https://osu.ppy.sh/users/961752) | ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023) | ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023) | ![][flag_FR] [Ovoui](https://osu.ppy.sh/users/2282098) | ![][flag_ID] [DoNotMess](https://osu.ppy.sh/users/1596318) | [#1](https://osu.ppy.sh/beatmapsets/587388) |
 | [#1 (osu!mania (7K))](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | ![osu!mania][osu!mania] | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | [#1](https://osu.ppy.sh/beatmapsets/587388) |
 
-#### Mapping With Rewards
+### Mapping With Rewards
 
 Le **Mapping With Rewards** est un concours de mapping dans lequel les mappeurs participants s'affrontent pour créer la meilleure beatmap (avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#niveaux-de-difficulté) en commençant à partir de Easy ou Normal) pour n'importe laquelle des musiques données dans chaque itération correspondante, sans délai strict.
 
-| Numéro du concours | Musique | Mode de jeu | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | Résultats |
+| Numéro du concours | Musique | Mode de jeu | ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![Couronne en argent](/wiki/shared/crown-silver.png "Seconde place") | ![Couronne en bronze](/wiki/shared/crown-bronze.png "Troisième place") | Résultats |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [#1.1](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) | [cYsmix - Manic](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | *N/A* | *N/A* | [#1](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete) |
 | [#1.2](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) | [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | *N/A* | *N/A* | [#1](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete) |
@@ -122,17 +120,15 @@ Le **Mapping With Rewards** est un concours de mapping dans lequel les mappeurs 
 | [#3.2 (osu!taiko)](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [\*namirin - closing eyes](https://osu.ppy.sh/beatmaps/artists/18) | ![osu!taiko][osu!taiko] | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ![][flag_US] [Jonarwhal](https://osu.ppy.sh/users/3653035) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 | [#3.3](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [Fractal Dreamers - Fortuna Redux](https://osu.ppy.sh/beatmaps/artists/15) | ![osu!][osu!] | ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ![][flag_MY] [HootOwlStar](https://osu.ppy.sh/users/4341302) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 
-### Autres concours officiels
-
-#### A Labour of Love
+### A Labour of Love
 
 **A Labour of Love** est un concours par équipe couvrant plusieurs disciplines artistiques dans lequel les équipes participantes sont chargées de remixer/réarranger une musique largement connue au sein de la communauté d'osu!, de créer une beatmap à partir de la musique remixée, et de concevoir un storyboard/une vidéo d'arrière-plan originale comme accompagnement visuel de la beatmap. Comme [indiqué par ce tweet](https://twitter.com/ppy/status/1333362145224843264), le concours s'inspire de [l'événement BMS OF FIGHTERS](https://www.bmsoffighters.net/) et d'autres concours similaires.
 
-| Numéro du concours | Musique remixée | ![Couronne en or][GCrown] (Vainqueur général) | ![Couronne d'argent][SCrown] (Deuxième place générale) | Gagnant du vote communautaire | Résultats |
+| Numéro du concours | Musique remixée | ![Couronne en or][GCrown] (Vainqueur général) | ![Couronne en argent][SCrown] (Deuxième place générale) | Gagnant du vote communautaire | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [1](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) | [Kuba Oms - My Love](https://osu.ppy.sh/beatmaps/artists/13) | extremely valid (![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471), ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574), ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515), ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297), et ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)) | schoolboy fans (![][flag_RU] [Shadren](https://osu.ppy.sh/users/745494), ![][flag_UA] [wajinshu](https://osu.ppy.sh/users/6339790), ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231), et ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)) | Team Red but Blue (![][flag_CA] [Redside](https://osu.ppy.sh/users/16039046), ![][flag_US] [Tofumang](https://osu.ppy.sh/users/4817223), ![][flag_CA] [Chompy](https://osu.ppy.sh/users/7427035), ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), et ![][flag_CA] [Zer0-G](https://osu.ppy.sh/users/12577911)) | [#1](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love) |
 
-#### Best of/Community Choice
+### Best of/Community Choice
 
 Le **Best of/Community Choice** est un concours de vote public qui a lieu chaque année afin de déterminer les beatmaps les plus populaires aux yeux de la communauté d'osu!.
 
@@ -153,11 +149,11 @@ Le **Best of/Community Choice** est un concours de vote public qui a lieu chaque
 | [2019](https://osu.ppy.sh/home/news/2020-01-23-community-choice-2019-voting-open) | ![osu!][osu!]/![osu!taiko][osu!taiko]/![osu!catch][osu!catch]/![osu!mania][osu!mania] | [DECO\*27 - Ghost Rule](https://osu.ppy.sh/beatmapsets/413117) organisé par ![][flag_CN] [Awaken](https://osu.ppy.sh/users/1380253) | [Nog - Aether Ritual](https://osu.ppy.sh/beatmapsets/928431) organisé par ![][flag_BR] [Kqrth](https://osu.ppy.sh/users/4115718) | [Chroma - I](https://osu.ppy.sh/beatmapsets/944317) organisé par ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | [xi - Blue Zenith](https://osu.ppy.sh/beatmapsets/919633) organisé par ![][flag_SG] [riunosk](https://osu.ppy.sh/users/5594381) | [#1](https://osu.ppy.sh/home/news/2020-02-10-community-choice-2019-result) |
 | [2020](https://osu.ppy.sh/home/news/2021-01-21-community-choice-2020-voting-open) | ![osu!][osu!]/![osu!taiko][osu!taiko]/![osu!catch][osu!catch]/![osu!mania][osu!mania] | [DADDY ! DADDY ! DO ! feat. Suzuki Airi (TV Size)](https://osu.ppy.sh/beatmapsets/1147361) organisé par ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | [Calliope Mori - Excuse My Rudeness, but Could You Please RIP?<3 (t+pazolite Remix)](https://osu.ppy.sh/beatmapsets/1278695) organisé par ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | [Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1151836) organisé par ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | [Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches)](https://osu.ppy.sh/beatmapsets/1034114) organisé par ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176) | [#1](https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results) |
 
-#### Fan Art Contest
+### Fan Art Contest
 
 Le **Fan Art Contest** est un concours de dessin dans lequel les artistes participants de la communauté sont mis au défi de créer le meilleur fan art pour osu! impliquant [les mascottes d'osu!](/wiki/Mascots) à travers différents thèmes et concepts artistiques.
 
-| Numéro du concours | Thème | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Numéro du concours | Thème | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/community/forums/topics/198551) | Pippi | ![][flag_PH] [kunny](https://osu.ppy.sh/users/3931585) | ![][flag_MY] [DumplingYumYum](https://osu.ppy.sh/users/1715930) | ![][flag_HK] [Pokie](https://osu.ppy.sh/users/207340) | [#1](https://osu.ppy.sh/community/forums/topics/210503) |
 | [#2](https://osu.ppy.sh/community/forums/topics/206852) | osu! à travers le monde | ![][flag_ID] [TapponNANA](https://osu.ppy.sh/users/2496203) | ![][flag_PH] [hews](https://osu.ppy.sh/users/1715930) | ![][flag_US] [gendo0032](https://osu.ppy.sh/users/3191089) | [#1](https://osu.ppy.sh/home/news/2014-07-04-second-official-osu-fanart-contest-results) |
@@ -185,19 +181,19 @@ Le **Fan Art Contest** est un concours de dessin dans lequel les artistes partic
 | [#24 (Winter 2020)](https://osu.ppy.sh/home/news/2020-09-11-winter-sports-2020-fanart-contest) | Sports d'hiver | ![][flag_US] [Tofumang](https://osu.ppy.sh/users/4817223) | ![][flag_ID] [CheekyIfa](https://osu.ppy.sh/users/14406940) | ![][flag_RU] [Dem4eg-](https://osu.ppy.sh/users/7206818) | [#1](https://osu.ppy.sh/home/news/2020-12-02-winter-2020-arrives) |
 | [#25 (Spring 2021)](https://osu.ppy.sh/home/news/2021-04-23-spring-2021-fanart-contest) | Une journée dans le parc | ![][flag_US] [Tofumang](https://osu.ppy.sh/users/4817223) | ![][flag_MY] [Kyvrin](https://osu.ppy.sh/users/11589256) | ![][flag_BG] [risuuna](https://osu.ppy.sh/users/7266506) | [#1](https://osu.ppy.sh/home/news/2021-05-20-spring-fanart-contest-results) |
 
-#### osu! Beatmap Blueprints Contest
+### osu! Beatmap Blueprints Contest
 
 Le *osu! Beatmap Blueprints Contest* est un concours unique organisé pour commémorer le lancement de [Beatmap Blueprints](https://osu.ppy.sh/store/products/9) dans l'[osu!store](https://osu.ppy.sh/store/listing). Dans ce concours, les utilisateurs participants se sont affrontés pour créer le meilleur plan d'une beatmap sur n'importe quel support visuel en utilisant toutes les ressources fournies dans le pack de marchandises Beatmap Blueprints.
 
-| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest) | *N/A* | *N/A* | *N/A* | *N/A* |
 
-#### osu!idol
+### osu!idol
 
 L'**osu!idol** est un concours de chant dans lequel les participants de toute la communauté s'affrontent pour créer la meilleure reprise de musique (en solo ou avec un partenaire) à travers plusieurs étapes de jugement et de vote communautaire. Le concours porte le nom de la franchise [Idols](https://fr.wikipedia.org/wiki/Idol_(franchise)) et s'inspire principalement de divers concours de chant télévisés.
 
-| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Musique gagnante | Résultats |
+| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Musique gagnante | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [#1 (2014)](https://osu.ppy.sh/home/news/2014-08-24-osuidol-sign-ups-now-open) | ![][flag_CN] [yealina](https://osu.ppy.sh/users/139551) | ![][flag_CN] [Sharlo](https://osu.ppy.sh/users/1622450) | ![][flag_RS] [MissTitannia](https://osu.ppy.sh/users/4490361) | [yealina - Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | [#1](https://osu.ppy.sh/home/news/2015-01-02-osuidol-2014-results) |
 | [#2 (2015)](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live) | ![][flag_ID] [Sagi](https://osu.ppy.sh/users/491799) | ![][flag_US] [CptHampton](https://osu.ppy.sh/users/3200587) | ![][flag_CN] [yealina](https://osu.ppy.sh/users/139551) | [Sagi - Systematic Love](https://soundcloud.com/sagisapon/czsexzj5tm7b) | [#1](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-result) |
@@ -207,21 +203,30 @@ L'**osu!idol** est un concours de chant dans lequel les participants de toute la
 | [#6 (2019)](https://osu.ppy.sh/home/news/2019-07-02-osu-idol-2019-auditions-now-open) | ![][flag_PH] [iamALieee](https://osu.ppy.sh/users/10093980) | ![][flag_US] [aceredshirt13](https://osu.ppy.sh/users/13736238) | ![][flag_US] [moof](https://osu.ppy.sh/users/8457202) | [iamALieee - White First Love](https://assets.ppy.sh/contests/83/entries/osu!idol%202019%20-%20iamALieee%20-%20White%20First%20Love.mp3) | [#1](https://osu.ppy.sh/home/news/2019-12-21-osu-idol-2019-finals-community-voting-results) |
 | [#7 (2020)](https://osu.ppy.sh/home/news/2020-09-01-osu-idol-2020-auditions-now-open) | *N/A* | *N/A* | *N/A* | *N/A* | *N/A* |
 
-#### osu!remix
+### osu!remix
 
 **osu!remix** est un concours de remix de musique où les musiciens participants de toute la communauté sont chargés de créer le meilleur remix d'une musique choisie qui a été largement connue dans la communauté d'osu! d'une manière ou d'une autre. C'est le tout premier concours à être géré via la page [Liste des concours](https://osu.ppy.sh/community/contests).
 
-| Numéro du concours | Musique remixée | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Numéro du concours | Musique remixée | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest) | [nekodex - circles!](https://osu.ppy.sh/beatmaps/artists/1) | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | [#1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) |
 
-#### Skinning Contest
+### Skinning Contest
 
 Le **Skinning Contest** est un concours de skinning dans lequel les créateurs artistiques de toute la communauté s'affrontent pour créer le meilleur skin en un temps limité. 
 
-| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/Skinning_Contest/1) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) par ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) par ![][flag_EE] [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) par ![][flag_RU] [NikStrim](https://osu.ppy.sh/users/10577559) | [#1](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
+
+### osu!trivium Quiz
+
+Le **osu!trivium Quiz** est un concours de questions où les joueurs s'affrontent pour répondre à des questions difficiles sur osu!.
+
+| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](/wiki/Contests/osu!trivium_Quiz/2020) | nerd neck esoteric collection of individuals (![][flag_US] [1103](https://osu.ppy.sh/users/7306698), ![][flag_US] [GalacticLightN](https://osu.ppy.sh/users/4772172), ![][flag_US] [Leebs](https://osu.ppy.sh/users/7636779), et ![][flag_US] [headstack](https://osu.ppy.sh/users/10322186)) | 21 (![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889), ![][flag_CL] [Eunha](https://osu.ppy.sh/users/7701428), ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050), et ![][flag_CL] [saumensch](https://osu.ppy.sh/users/18157510)) | 5 (![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621), et ![][flag_US] [icedtea](https://osu.ppy.sh/users/9631242)) | [#1](https://www.youtube.com/watch?v=KIgdjSleasg) |
+| [#2](/wiki/Contests/osu!trivium_Quiz/2021) | Squid balls (![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207), ![][flag_US] [Codazen](https://osu.ppy.sh/users/18291144), ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114), et ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621)) | untouchaball-epic-fail-crew-9000-nightmarecore-mix (![][flag_US] [1103](https://osu.ppy.sh/users/7306698), ![][flag_US] [GalacticLightN](https://osu.ppy.sh/users/4772172), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), et ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110)) | sleep squad (![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_SE] [PuffBuck](https://osu.ppy.sh/users/4234525), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), et ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347)) | [#1](https://www.twitch.tv/videos/1237832029) |
 
 ## Concours gérés par la communauté
 
@@ -231,7 +236,7 @@ Les *concours non officiels* sont des concours organisés par les membres de la 
 
 Le **osu! Beatmapping World Championship** est un concours de mapping par équipe dans lequel les équipes participantes, composées de mappeurs d'un même pays, d'une même région, voire d'un même continent (dans une certaine mesure), s'affrontent sur plusieurs musiques et étapes de mapping. Le concours est connu pour n'utiliser que des musiques disponibles dans la bibliothèque [Featured Artist](/wiki/Featured_Artists) pendant son déroulement.
 
-| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1 (2019)](/wiki/Contests/oBWC/1) | ![][flag_FR] France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), et ![][flag_CH] [Xenok](https://osu.ppy.sh/users/3256600)) | ![][flag_SE] Suède ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), et [Zer0-](https://osu.ppy.sh/users/4260033)) | ![][flag_HK] Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), et [Starfy](https://osu.ppy.sh/users/2045914)) | [#1](https://www.youtube.com/watch?v=_booyIRa5v8) |
 | [#2 (2020)](/wiki/Contests/oBWC/2) | ![][flag_GB] Royaume-Uni ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), et [Yusomi](https://osu.ppy.sh/users/4174940)) | ![][flag_AR] Argentine ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), et [Megafan](https://osu.ppy.sh/users/6632605)) | ![][flag_BR] Brésil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), et [Trynna](https://osu.ppy.sh/users/2652951)) | [#1](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
@@ -244,7 +249,7 @@ Bien que la Pending Cup ait été initialement destinée principalement aux memb
 
 #### [Pending Cup \#1 (2013)](https://osu.ppy.sh/community/forums/topics/135492)
 
-| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | TERRA - Hana Ranman -Flowers- | ![osu!][osu!] | ![][flag_CN] [buhei](https://osu.ppy.sh/users/1371514) | ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | [#1](https://osu.ppy.sh/community/forums/topics/152966) |
 | Hatsuki Yura - Yoiyomi Hanabi | ![osu!][osu!] | ![][flag_CN] [Lan Wings](https://osu.ppy.sh/users/467860) | ![][flag_HK] [Kotone](https://osu.ppy.sh/users/26507) | ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954) | [#1](https://osu.ppy.sh/community/forums/topics/152966) |
@@ -252,14 +257,14 @@ Bien que la Pending Cup ait été initialement destinée principalement aux memb
 
 #### [Pending Cup \#2 (2014)](https://osu.ppy.sh/community/forums/topics/229019)
 
-| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Sharlo & Sabbo - Sakura no Hana ga Maiochiru Toki | ![osu!][osu!] | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | ![][flag_CN] [eveless](https://osu.ppy.sh/users/102976) | [#1](https://osu.ppy.sh/community/forums/topics/243930) |
 | A.SAKA - Nanatsu Issenzakura | ![osu!][osu!] | ![][flag_CN] [RL\_Tibbar](https://osu.ppy.sh/users/847182) | ![][flag_CN] [bo0O0od](https://osu.ppy.sh/users/530547) | ![][flag_HK] [Rizia](https://osu.ppy.sh/users/1367570) | [#1](https://osu.ppy.sh/community/forums/topics/243930) |
 
 #### [Pending Cup \#3 (2015)](https://osu.ppy.sh/community/forums/topics/345263)
 
-| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Ai Pi Xiong - Quan Yu Tian Xia | ![osu!][osu!] | ![][flag_CN] [Regraz](https://osu.ppy.sh/users/3076909) | ![][flag_CN] [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | [#1](https://osu.ppy.sh/community/forums/topics/373843) |
 | sakuzyo - Imprinting | ![osu!][osu!] | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | ![][flag_CN] [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | ![][flag_AU] [Flower](https://osu.ppy.sh/users/1033017) | [#1](https://osu.ppy.sh/community/forums/topics/373843) |
@@ -267,7 +272,7 @@ Bien que la Pending Cup ait été initialement destinée principalement aux memb
 
 #### [Pending Cup \#4 (2016)](https://osu.ppy.sh/community/forums/topics/482629)
 
-| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | ClariS - SECRET | ![osu!][osu!] | ![][flag_CA] [FreeSongs](https://osu.ppy.sh/users/2116792) | ![][flag_SG] [handsome](https://osu.ppy.sh/users/2123087) | ![][flag_CN] [Snowy Wings](https://osu.ppy.sh/users/2234810) | [#1](https://osu.ppy.sh/community/forums/topics/504645) |
 | Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix | ![osu!][osu!] | ![][flag_CA] [FreeSongs](https://osu.ppy.sh/users/2116792) | ![][flag_JP] [rui](https://osu.ppy.sh/users/74313) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | [#1](https://osu.ppy.sh/community/forums/topics/504645) |
@@ -275,7 +280,7 @@ Bien que la Pending Cup ait été initialement destinée principalement aux memb
 
 #### [Pending Cup \#5 (2017)](https://osu.ppy.sh/community/forums/topics/620182)
 
-| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Shimotsuki Haruka - Byakuya Gensoutan | ![osu!][osu!] | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | ![][flag_CN] [Lv9](https://osu.ppy.sh/users/7232130) | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | [#1](https://osu.ppy.sh/community/forums/topics/640906) |
 | Nekomata Master - AsiaN distractive | ![osu!][osu!] | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | ![][flag_CN] [Ellyu](https://osu.ppy.sh/users/4438154) | [#1](https://osu.ppy.sh/community/forums/topics/640906) |
@@ -283,7 +288,7 @@ Bien que la Pending Cup ait été initialement destinée principalement aux memb
 
 #### [Pending Cup \#6 (2018)](https://osu.ppy.sh/community/forums/topics/775847)
 
-| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Kenshi Yonezu - LOSER | ![osu!][osu!] | ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) | ![][flag_HK] [how2miss](https://osu.ppy.sh/users/4477199) | ![][flag_CN] [AIR](https://osu.ppy.sh/users/2070688) | [#1](https://osu.ppy.sh/community/forums/topics/806794) |
 | DJ TOTTO - Shoujo Alice to Hakoniwa Gensou Concerto | ![osu!][osu!] | ![][flag_CA] [J1\_](https://osu.ppy.sh/users/5918561) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/4477199) | ![][flag_CN] [Lv9](https://osu.ppy.sh/users/7232130) | [#1](https://osu.ppy.sh/community/forums/topics/806794) |
@@ -291,7 +296,7 @@ Bien que la Pending Cup ait été initialement destinée principalement aux memb
 
 #### [Pending Cup \#7 (2019)](https://osu.ppy.sh/community/forums/topics/953416)
 
-| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | kamome sano - archive::zip | ![osu!][osu!] | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/873961) | ![][flag_RU] [Senseabel](https://osu.ppy.sh/users/6184386) | ![][flag_US] [Axarious](https://osu.ppy.sh/users/2614511) | [#1](https://osu.ppy.sh/community/forums/topics/982516) |
 | EmoCo. - This Club is not 4 U | ![osu!][osu!] | ![][flag_CN] [Ellyu](https://osu.ppy.sh/users/4438154) | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | ![][flag_RS] [Seolv](https://osu.ppy.sh/users/8067876) | [#1](https://osu.ppy.sh/community/forums/topics/982516) |
@@ -299,17 +304,17 @@ Bien que la Pending Cup ait été initialement destinée principalement aux memb
 
 #### [Pending Cup \#8 (2020)](https://osu.ppy.sh/community/forums/topics/1145075)
 
-| Catégorie | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Catégorie | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Featured Artist¹ | ![osu!][osu!] | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_ID] [AncuL](https://osu.ppy.sh/users/2449200) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
 | Vocal² | ![osu!][osu!] | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | ![][flag_DE] [jamesjan3](https://osu.ppy.sh/users/6260705) | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
 | Instrumentale³ | ![osu!][osu!] | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | ![][flag_ID] [\[Keqing\]](https://osu.ppy.sh/users/8972308) | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
 
-¹ La catégorie "Featured Artist" permet aux mappeurs de choisir entre deux chansons différentes à mapper : Zekk - Re\_construct et Shuu no Hazama \[Rainshower\].
+¹ La catégorie "Featured Artist" permet aux mappeurs de choisir entre deux musiques différentes à mapper : Zekk - Re\_construct et Shuu no Hazama \[Rainshower\].
 
-² La catégorie "Vocal" offre aux mappeurs le choix entre deux chansons différentes à mapper : nonoc - memento et DUSTCELL - DERO.
+² La catégorie "Vocal" offre aux mappeurs le choix entre deux musiques différentes à mapper : nonoc - memento et DUSTCELL - DERO.
 
-³ La catégorie "Instrumentale" offre aux mappeurs le choix entre deux chansons différentes à mapper : onoken - Felys final remix et Nekomata Master - The Sky of Sadness.
+³ La catégorie "Instrumentale" offre aux mappeurs le choix entre deux musiques différentes à mapper : onoken - Felys final remix et Nekomata Master - The Sky of Sadness.
 
 ### Newspaper Cup
 
@@ -317,60 +322,60 @@ La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mai
 
 #### [Newspaper Cup \#1 (2015)](https://osu.ppy.sh/community/forums/topics/272739)
 
-| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | wa.vs ETIA. - Akasagarbha | ![osu!][osu!] | ![][flag_CN] [tm1209](https://osu.ppy.sh/users/2775906) | ![][flag_CN] [Philosophy2](https://osu.ppy.sh/users/372256) | ![][flag_CN] [bread129988](https://osu.ppy.sh/users/2010665) | [#1](https://osu.ppy.sh/community/forums/topics/312154) |
 | Nekomata Master - Far east nightbird | ![osu!][osu!] | ![][flag_CN] [Narcissu](https://osu.ppy.sh/users/1826598) | ![][flag_AU] [JJburstOwO](https://osu.ppy.sh/users/1776055) | ![][flag_CN] [Kamio Misuzu](https://osu.ppy.sh/users/2041350) | [#1](https://osu.ppy.sh/community/forums/topics/312154) |
 
 #### [Newspaper Cup \#2 (2016)](https://osu.ppy.sh/community/forums/topics/415669)
 
-| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Hatsuki Yura - Eclipse Parade | ![osu!][osu!] | ![][flag_CN] [LunaSaika](https://osu.ppy.sh/users/4018820) | ![][flag_CA] [FreeSongs](https://osu.ppy.sh/users/2116792) | ![][flag_CN] [Vert](https://osu.ppy.sh/users/3420746) | [#1](https://osu.ppy.sh/community/forums/topics/432070) |
 | sakuzyo - Laplace | ![osu!][osu!] | ![][flag_CN] [Hakurei Yoru](https://osu.ppy.sh/users/3280555) | ![][flag_CN] [liaoxingyao](https://osu.ppy.sh/users/3620963) | ![][flag_HK] [Kencho](https://osu.ppy.sh/users/3178411) | [#1](https://osu.ppy.sh/community/forums/topics/432070) |
 
 #### [Newspaper Cup \#3 (2017)](https://osu.ppy.sh/community/forums/topics/546038)
 
-| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Eisyo-kobu - Oriental Blossom | ![osu!][osu!] | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) et ![][flag_CN] [EmingK](https://osu.ppy.sh/users/2021118) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) et ![][flag_US] [Doj](https://osu.ppy.sh/users/4121612) | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) et ![][flag_CN] [Kashima](https://osu.ppy.sh/users/4370368) | [#1](https://osu.ppy.sh/community/forums/topics/570350) |
 | ESQUARIA - Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954) et ![][flag_TW] [fish39](https://osu.ppy.sh/users/3522390) | ![][flag_US] [Bluekrait](https://osu.ppy.sh/users/4205741) et ![][flag_KR] [Rose Pacifica](https://osu.ppy.sh/users/1393255) | *N/A* | [#1](https://osu.ppy.sh/community/forums/topics/570350) |
 
 #### [Newspaper Cup \#4 (2018)](https://osu.ppy.sh/community/forums/topics/690824)
 
-| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Hatsuki Yura - Saramandora no Odoriko | ![osu!][osu!] | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | ![][flag_NZ] [nika mika](https://osu.ppy.sh/users/3878832) | ![][flag_CN] [SparkNights](https://osu.ppy.sh/users/9641731) | [#1](https://osu.ppy.sh/community/forums/topics/721264) |
 | P\*Light - SAY BAY | ![osu!][osu!] | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | ![][flag_US] [Ceo of Osu](https://osu.ppy.sh/users/2688103) | [#1](https://osu.ppy.sh/community/forums/topics/721264) |
 
 #### [Newspaper Cup \#5 (2019)](https://osu.ppy.sh/community/forums/topics/863274)
 
-| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Ponkichi - Hyakka Sakigake to Shiro Tokkuri | ![osu!][osu!] | ![][flag_CN] [taeyeon\_nn](https://osu.ppy.sh/users/10483270) | ![][flag_CN] [-Nanako-](https://osu.ppy.sh/users/7483636) | ![][flag_CN] [Byakuya](https://osu.ppy.sh/users/8430550) | [#1](https://osu.ppy.sh/community/forums/topics/891628) |
 | Hinatabi Bitter Sweets - Rin to shite saku hana no gotoku \~HinaBitter edition\~ | ![osu!][osu!] | ![][flag_CN] [-Nanako-](https://osu.ppy.sh/users/7483636) | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_CA] [Rage Quit](https://osu.ppy.sh/users/9562068) | [#1](https://osu.ppy.sh/community/forums/topics/891628) |
 
 #### [Newspaper Cup \#6 (2020)](https://osu.ppy.sh/community/forums/topics/1023671)
 
-| Catégorie | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Catégorie | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Vocal¹ | ![osu!][osu!] | ![][flag_CN] [Quantum Rosta](https://osu.ppy.sh/users/4814169) | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) | ![][flag_CN] [Calvaria](https://osu.ppy.sh/users/12381096) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
 | Instrumentale² | ![osu!][osu!] | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_CN] [lililing](https://osu.ppy.sh/users/11025355) | ![][flag_CN] [SuperBox](https://osu.ppy.sh/users/4783121) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
 
-¹ La catégorie "Vocal" offre aux mappeurs le choix entre deux chansons différentes à mapper : Isekai Joucho - Kyoukankaku Obake et Kenshi Yonezu - Shunrai.
+¹ La catégorie "Vocal" offre aux mappeurs le choix entre deux musiques différentes à mapper : Isekai Joucho - Kyoukankaku Obake et Kenshi Yonezu - Shunrai.
 
-² La catégorie "Instrumentale" offre aux mappeurs le choix entre deux chansons différentes à mapper : Morimori Atsushi - Funkotsu Saishin Casino et Fractal Dreamers - Celestial Horizon.
+² La catégorie "Instrumentale" offre aux mappeurs le choix entre deux musiques différentes à mapper : Morimori Atsushi - Funkotsu Saishin Casino et Fractal Dreamers - Celestial Horizon.
 
 #### [Newspaper Cup \#7 (2021)](https://osu.ppy.sh/community/forums/topics/1203301)
 
-| Catégorie | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| Catégorie | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Vocal¹ | ![osu!][osu!] | ![][flag_EE] [Keqing](https://osu.ppy.sh/users/8501291) | ![][flag_US] [Cubby](https://osu.ppy.sh/users/10914582) | ![][flag_TW] [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 | Instrumentale² | ![osu!][osu!] | ![][flag_CA] [Kyumo](https://osu.ppy.sh/users/14689984) | ![][flag_US] [- ascended -](https://osu.ppy.sh/users/4564285) | ![][flag_CL] [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 
-¹ La catégorie "Vocal" offre aux mappeurs un choix de cinq chansons différentes à mapper : Ariabl'eyeS - Unmei no Haguruma, Yunomi - Aimai Trip, KikuoHana - Desert Theater, Kaf - Tomadoi Telepathy, et Mafumafu - SNOBBISM.
+¹ La catégorie "Vocal" offre aux mappeurs un choix de cinq musiques différentes à mapper : Ariabl'eyeS - Unmei no Haguruma, Yunomi - Aimai Trip, KikuoHana - Desert Theater, Kaf - Tomadoi Telepathy, et Mafumafu - SNOBBISM.
 
-² La catégorie "Instrumentale" offre aux mappeurs un choix de cinq chansons différentes à mapper : Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, et roop - Chatblanc.
+² La catégorie "Instrumentale" offre aux mappeurs un choix de cinq musiques différentes à mapper : Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, et roop - Chatblanc.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -90,7 +90,15 @@ jobs:
           python .github/scripts/ci/run_yamllint.py --config .yamllint.yaml
 
       - name: find broken wikilinks
+        shell: bash
+        env:
+          PULL_REQUEST_TAG: 'SKIP_WIKILINK_CHECK'
         run: |
+          if ${{ contains(github.event.pull_request.body, env.PULL_REQUEST_TAG) }}; then
+            echo "::notice::Broken wikilink check suppressed ($PULL_REQUEST_TAG tag found in the pull request)"
+            exit 0
+          fi
+
           ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "wiki/**/*.md" "news/*.md" )
           python .github/scripts/ci/find_broken_wikilinks.py --target $ARTICLES
 
@@ -139,7 +147,10 @@ jobs:
 
           MISSED_TRANSLATIONS=$( echo "$ORIGINAL_ARTICLES" | tr \\n \\0 | xargs -0 dirname | sort -u | {
             while read DIRECTORY; do
-              for ARTICLE_NAME in $( ls "$DIRECTORY"/??.md | grep -v en.md || true ); do
+              for ARTICLE_NAME in "$DIRECTORY"/*.md; do
+                if ! [[ "$ARTICLE_NAME" =~ \/(..|..-..)\.md ]] || [[ "$ARTICLE_NAME" =~ \/en\.md ]]; then
+                  continue
+                fi
                 if ! [[ "$TRANSLATIONS" =~ "$ARTICLE_NAME" ]]; then
                   grep -LzP -e "$MASK" "$ARTICLE_NAME" || true  # print only names of non-matching files, with multiline match (considering \n)
                 fi

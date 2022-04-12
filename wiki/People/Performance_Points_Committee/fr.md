@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - pp committee
   - comité des pp
