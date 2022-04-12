@@ -90,7 +90,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 ### Saturday, April 16, 2022
 
-| Team A | Team B | Match time | |
+| Team A | Team B | Match time |  |
 | --: | :-- | :-: | :-: |
 | Yzhhのqlll森林汪酱不会大叠 | bikabika | Apr 16 (Sat) 17:00 (UTC+8) | ² |
 | 啊对对队 | 头号倒霉蛋 | Apr 16 (Sat) 19:00 (UTC+8) | ² |
@@ -99,7 +99,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 ### Sunday, April 17, 2022
 
-| Team A | Team B | Match time | |
+| Team A | Team B | Match time |  |
 | --: | :-- | :-: | :-: |
 | 太美丽了理塘 | 青叶摩卡的百合后花园 | Apr 17 (Sat) 14:30 (UTC+8) | ¹ |
 | MyAngel Koishi | 你没对象对不队 | Apr 17 (Sun) 16:00 (UTC+8) | ² |
@@ -140,22 +140,22 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 | #¹ | Team | Matches | Beatmaps | BD² | BU³ | Round1 | Round2 | Round3 |
 | :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1 | 金戈铁马的鲜丰水果摊 | 1-0 | 6-1 | +5 | -1 | **6-1**</br>倒霉蛋 | hya酱 |  |
-| 2 | 可爱的hyahya酱上线啦！！ | 1-0 | 6-1 | +5 | -1 | **6-1**</br>啊对对 | 水果摊 |  |
-| 3 | 青叶摩卡的百合后花园 | 1-0 | 6-1 | +5 | -1 | **6-1**</br>bika | 理塘 |  |
-| 4 | 太美丽了理塘 | 1-0 | 6-1 | +5 | -1 | **6-1**</br>Yzh | 摩卡 |  |
-| 5 | GBC最强阵容9个Miyes | 1-0 | 6-2 | +4 | -1 | **6-2**</br>没对象 | 大怨种 |  |
-| 6 | 大怨种被迫当队长 | 1-0 | 6-3 | +3 | -1 | **6-3**</br>TMK | 最强阵 |  |
-| 7 | 货拉拉拉不拉拉布拉多队 | 1-0 | 6-4 | +2 | -1 | **6-4**</br>啊不对 | 涩涩 |  |
-| 8 | 涩涩不队 | 1-0 | 6-5 | +1 | -1 | **6-5**</br>吸手手 | 货拉拉 |  |
-| 9 | 皮蛋蛋吸手手俱乐部 | 0-1 | 5-6 | -1 | +1 | *5-6*</br>涩涩 | 啊不对 |  |
-| 10 | 啊不对不队 | 0-1 | 4-6 | -2 | +1 | *4-6*</br>货拉拉 | 吸手手 |  |
-| 11 | Team MyAngel Koishi | 0-1 | 3-6 | -3 | +1 | *3-6*</br>大怨种 | 没对象 |  |
-| 12 | 你没对象对不队 | 0-1 | 2-6 | -4 | +1 | *2-6*</br>最强阵 | TMK |  |
-| 13 | Yzhhのqlll森林汪酱不会大叠 | 0-1 | 1-6 | -5 | +1 | *1-6*</br>理塘 | bika |  |
-| 14 | bikabika | 0-1 | 1-6 | -5 | +1 | *1-6*</br>摩卡 | Yzh |  |
-| 15 | 啊对对队 | 0-1 | 1-6 | -5 | +1 | *1-6*</br>hya酱 | 倒霉蛋 |  |
-| 16 | 头号倒霉蛋 | 0-1 | 1-6 | -5 | +1 | *1-6*</br>水果摊 | 啊对对 |  |
+| 1 | 金戈铁马的鲜丰水果摊 | 1-0 | 6-1 | +5 | -1 | **6-1 倒霉蛋** | hya酱 |  |
+| 2 | 可爱的hyahya酱上线啦！！ | 1-0 | 6-1 | +5 | -1 | **6-1 啊对对** | 水果摊 |  |
+| 3 | 青叶摩卡的百合后花园 | 1-0 | 6-1 | +5 | -1 | **6-1 bika** | 理塘 |  |
+| 4 | 太美丽了理塘 | 1-0 | 6-1 | +5 | -1 | **6-1 Yzh** | 摩卡 |  |
+| 5 | GBC最强阵容9个Miyes | 1-0 | 6-2 | +4 | -1 | **6-2 没对象** | 大怨种 |  |
+| 6 | 大怨种被迫当队长 | 1-0 | 6-3 | +3 | -1 | **6-3 TMK** | 最强阵 |  |
+| 7 | 货拉拉拉不拉拉布拉多队 | 1-0 | 6-4 | +2 | -1 | **6-4 啊不对** | 涩涩 |  |
+| 8 | 涩涩不队 | 1-0 | 6-5 | +1 | -1 | **6-5 吸手手** | 货拉拉 |  |
+| 9 | 皮蛋蛋吸手手俱乐部 | 0-1 | 5-6 | -1 | +1 | *5-6 涩涩* | 啊不对 |  |
+| 10 | 啊不对不队 | 0-1 | 4-6 | -2 | +1 | *4-6 货拉拉* | 吸手手 |  |
+| 11 | Team MyAngel Koishi | 0-1 | 3-6 | -3 | +1 | *3-6 大怨种* | 没对象 |  |
+| 12 | 你没对象对不队 | 0-1 | 2-6 | -4 | +1 | *2-6 最强阵* | TMK |  |
+| 13 | Yzhhのqlll森林汪酱不会大叠 | 0-1 | 1-6 | -5 | +1 | *1-6 理塘* | bika |  |
+| 14 | bikabika | 0-1 | 1-6 | -5 | +1 | *1-6 摩卡* | Yzh |  |
+| 15 | 啊对对队 | 0-1 | 1-6 | -5 | +1 | *1-6 hya酱* | 倒霉蛋 |  |
+| 16 | 头号倒霉蛋 | 0-1 | 1-6 | -5 | +1 | *1-6 水果摊* | 啊对对 |  |
 
 ¹ Seed, Top 8 Advanced\
 ² Beatmap difference\
@@ -178,7 +178,7 @@ Sunday, April 10, 2022
 | --:  |--: | :-- | :-- | :-: |
 | Team MyAngel Koishi | 3 | **6** | **大怨种被迫当队长** | [#1](https://osu.ppy.sh/community/matches/99603315) |
 | **货拉拉拉不拉拉布拉多队** | **6** | 4 | 啊不对不队 | [#1](https://osu.ppy.sh/community/matches/99606894) |
-| Yzhhのqlll森林汪酱不会大叠 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99608620), [Screenshot](GBC2_Spr_R1G7_YzH_vs_理塘.png) |
+| Yzhhのqlll森林汪酱不会大叠 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99608620), [Screenshot](img\GBC2_Spr_R1G7_YzH_vs_理塘.jpg) |
 | 你没对象对不队 | 2 | **6** | **GBC最强阵容9个Miyes** | [#1](https://osu.ppy.sh/community/matches/99609983) |
 
 ## Ruleset
