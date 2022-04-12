@@ -5,11 +5,11 @@ tags:
   - GTS
 ---
 
-# Expert Global Taiko Shwodown 2021
+# Expert Global Taiko Showdown 2021
 
 ![EGTS 2021 logo](img/logo.jpg)
 
-The **Expert Global Taiko Shwodown 2021** (***EGTS 2021***) was a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), and ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438). A tournament targeted towards top osu!taiko players, with no rank limits. It was the second instalment of the Expert Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Expert Global Taiko Showdown 2021** (***EGTS 2021***) was a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), and ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438). A tournament targeted towards top osu!taiko players, with no rank limits. It was the second instalment of the Expert Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ The **Expert Global Taiko Shwodown 2021** (***EGTS 2021***) was a worldwide doub
 
 ## Organisation
 
-The Expert Global Taiko Shwodown 2021 was run by various community members.
+The Expert Global Taiko Showdown 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
