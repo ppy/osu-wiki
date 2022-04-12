@@ -103,7 +103,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | --: | :-- | :-: | :-: |
 | 太美丽了理塘 | 青叶摩卡的百合后花园 | Apr 17 (Sat) 14:30 (UTC+8) | ¹ |
 | MyAngel Koishi | 你没对象对不队 | Apr 17 (Sun) 16:00 (UTC+8) | ² |
-| 货拉拉拉不拉拉布拉多 | 涩涩不队 | Apr 17 (Sun) 19:00 (UTC+8) | ¹ | 
+| 货拉拉拉不拉拉布拉多 | 涩涩不队 | Apr 17 (Sun) 19:00 (UTC+8) | ¹ |
 | 啊不对不队 | 皮蛋蛋吸手手俱乐部 | Apr 17 (Sun) 20:30 (UTC+8) | ² |
 
 ¹ Round 2 High Matches (Teams with 1-0 record)\
