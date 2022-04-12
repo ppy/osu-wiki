@@ -12,7 +12,7 @@ Expliziter Inhalt meint primär den **Audioinhalt einer Beatmap**, meist in Bezu
 
 Allgemein gesprochen werden mit sehr wenigen Ausnahmen die meisten Formen von Musik für die Verwendung in Beatmaps akzeptiert, solange sie angemessen gekennzeichnet werden.
 
-## Was zählt als intensiver Verwendung von expliziter Sprache?
+## Was zählt als intensive Verwendung von expliziter Sprache?
 
 Eine milde (oder einmalige) Verwendung von üblicher Profanität ist nicht ausreichend, damit eine Beatmap als explizit markiert werden kann. Beatmaps mit dieser Art von Sprache können gefahrlos bleiben, ohne dass sie als explizit markiert werden — solange die Sprache das ist, was man vernünftigerweise als etwas einstufen würde, das eine "elterliche Betreuung" (PG-13) voraussetzt. Falls Argumente darüber aufkommen, ob das für einen bestimmten Track relevant ist, dann nehme an, dass es das nicht ist.
 

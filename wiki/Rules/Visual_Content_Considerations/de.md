@@ -12,7 +12,7 @@ Im Interesse, die Dinge so sauber wie möglich zu halten, gilt die Community-Reg
 
 ## Wichtige Dinge, die zu beachten sind
 
-Alle Bilder sollten so wie sie sind beurteilt werden, ohne Berücksichtigung anderer vorliegender Fälle. Entscheide auf der Grundlage, was du siehst.
+Alle Bilder sollten so wie sie sind beurteilt werden, ohne Berücksichtigung anderer vorliegender Fälle. Entscheide auf der Grundlage dessen, was du siehst.
 
 Bitte habe auch Verständnis, dass wir eine globale, multikulturelle Community mit sehr unterschiedlichen Gedanken, Meinungen und Werten sind bezogen auf was erlaubt ist und was nicht.
 
@@ -20,7 +20,7 @@ Versuche im Zweifel, dich an die gemeinsamen Wertvorstellungen anzupassen, die v
 
 ## Kriterien
 
-Bilder oder visuelle Elemente, die eine der folgenden Dinge enthalten, sind **nicht erlaubt**:
+Bilder oder visuelle Elemente, die eines der folgenden Dinge enthalten, sind **nicht erlaubt**:
 
 - **sexueller Inhalt, der Minderjährige enthält oder auf diese ausgerichtet ist**
 - **exzessive Gewalt, Blut, Zerstückelung, Enthauptung oder Verstümmelung**
@@ -51,7 +51,7 @@ In bestimmten Umständen können einige Ausnahmen für künstlerische Verwendung
 
 Bilder, die überall auf der Webseite außerhalb einer Beatmap benutzt werden (Avatare, Profilbilder, Nutzerseiten usw.) sind **nicht** Thema des Abstimmungsverfahrens, das unten erklärt wird, und können jederzeit nach dem Ermessen des globalen Moderationsteams entfernt werden.
 
-Wenn du dir über ein Bild unsicher bist, das in einer Beatmap vorhanden sein soll, **bitte erstelle eine Anfrage via [der Einreichungsseite von Beatmap-Nominatoren für Meldungen](https://bn.mappersguild.com/reports).** Das Bild wird zur Abstimmung gestellt und muss von einer eindeutigen Mehrheit angenommen werden oder wird automatisch verweigert.
+Wenn du dir über ein Bild unsicher bist, das in einer Beatmap vorhanden sein soll, **erstelle bitte eine Anfrage via [der Einreichungsseite von Beatmap-Nominatoren für Meldungen](https://bn.mappersguild.com/reports).** Das Bild wird zur Abstimmung gestellt und muss von einer eindeutigen Mehrheit angenommen werden oder wird automatisch verweigert.
 
 **Das Ergebnis einer Wahl ist final**, es sei denn, das Bild wird signifikant verändert im Versuch, alle potenziell problematischen Elemente, die während der Diskussion angesprochen wurden, zu lösen.
 
