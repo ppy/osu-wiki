@@ -94,8 +94,8 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | --: | :-- | :-: | :-: |
 | Yzhhのqlll森林汪酱不会大叠 | bikabika | Apr 16 (Sat) 17:00 (UTC+8) | ² |
 | 啊对对队 | 头号倒霉蛋 | Apr 16 (Sat) 19:00 (UTC+8) | ² |
-| 金戈铁马的鲜丰水果摊 | 可爱的hyahya酱上线啦！！ | Apr 16 (Sat) 20:30 (UTC+8) | ¹ |
-| 大怨种被迫当队长 | GBC最强阵容9个Miyes | Apr 16 (Sun) 22:00 (UTC+8) | ¹ |
+| 金戈铁马的鲜丰水果摊 | 可爱的hyahya酱上线啦！！ | Apr 16 (Sat) 20:00 (UTC+8) | ¹ |
+| 啊不对不队 | 皮蛋蛋吸手手俱乐部 | Apr 16 (Sun) 21:00 (UTC+8) | ² |
 
 ### Sunday, April 17, 2022
 
@@ -104,7 +104,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | 太美丽了理塘 | 青叶摩卡的百合后花园 | Apr 17 (Sat) 14:30 (UTC+8) | ¹ |
 | MyAngel Koishi | 你没对象对不队 | Apr 17 (Sun) 16:00 (UTC+8) | ² |
 | 货拉拉拉不拉拉布拉多 | 涩涩不队 | Apr 17 (Sun) 19:00 (UTC+8) | ¹ |
-| 啊不对不队 | 皮蛋蛋吸手手俱乐部 | Apr 17 (Sun) 20:30 (UTC+8) | ² |
+| 大怨种被迫当队长 | GBC最强阵容9个Miyes | Apr 17 (Sun) 20:30 (UTC+8) | ¹ |
 
 ¹ Round 2 High Matches (Teams with 1-0 record)\
 ² Round 2 Low Matches (Teams with 0-1 record)
