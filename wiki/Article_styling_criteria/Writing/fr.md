@@ -1,6 +1,6 @@
 # Rédaction
 
-*Pour les normes de mise en forme, voir : [Critères de mise en forme d'article/Mise en forme](../Formatting)*
+*Pour les normes de mise en forme, voir : [Critères de mise en forme d'article/Mise en forme](../Formatting)*\
 *Note : Cet article utilise [RFC 2119](https://microformats.org/wiki/rfc-2119-fr) pour décrire les niveaux d'exigence.*
 
 Cet article concerne les normes de rédaction pour tous les articles en français. Reportez-vous à la version anglaise de cette page pour les normes de rédaction des articles en anglais.
@@ -293,7 +293,7 @@ Les expressions `tu` et `ton` sont à éviter. Le `je` ne doit pas être utilis�
 
 ---
 
-[Les articles avec registres informels](#registre-des-langues) peuvent ignorer cette section ; cependant, il faut éviter de mettre des `Je` dans les paragraphes.
+[Les articles avec registres informels](#registre-des-langues) peuvent ignorer cette section ; cependant, il faut éviter de mettre des `je` dans les paragraphes.
 
 ## Grammaire et syntaxe
 
