@@ -248,7 +248,6 @@ Sunday, 3 April 2022:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [Ruu](https://osu.ppy.sh/users/3212755) ![][flag_ID] | 5 | **7** | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877)** | [#1](https://osu.ppy.sh/community/matches/99379410) |
 
-
 ### Semi Finals
 
 Friday, 25 March 2022:
@@ -447,4 +446,3 @@ Monday, 7 March 2022:
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-
