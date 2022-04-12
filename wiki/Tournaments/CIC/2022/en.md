@@ -135,7 +135,7 @@ Listed below are players who qualified into the Group stage (along with their re
   3. [sana - Senpai. (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/637706#osu/1410075)
   4. [JUNNA - Here (rosario wknd) \[Heartache\]](https://osu.ppy.sh/beatmapsets/1577247#fruits/3220509)
 - Tiebreaker
-  1. **[Ka7ag5th - Galaxia (-Rustyy	) \[Cosmic Destruction\]](https://osu.ppy.sh/beatmapsets/1724444#fruits/3524320)**
+  1. **[Ka7ag5th - Galaxia (-Rustyy) \[Cosmic Destruction\]](https://osu.ppy.sh/beatmapsets/1724444#fruits/3524320)**
 
 ### Quarter Finals
 
@@ -198,7 +198,7 @@ Listed below are players who qualified into the Group stage (along with their re
   4. [Otsukisama Koukyoukyoku - Apocrypha (Hey lululu) \[IF World\]](https://osu.ppy.sh/beatmapsets/1359388#fruits/2812977)
 - Hidden
   1. [YOASOBI - Taisho Roman (autofanboy) \[Billet-Doux\]](https://osu.ppy.sh/beatmapsets/1709350#fruits/3492957)
-  2. [AAAA - carnation (Dapuluous	) \[Beauty of Nature\]](https://osu.ppy.sh/beatmapsets/1709357#fruits/3492970)
+  2. [AAAA - carnation (Dapuluous) \[Beauty of Nature\]](https://osu.ppy.sh/beatmapsets/1709357#fruits/3492970)
   3. [tomatoism - Ｓｏｍｅｏｎｅ Ｓｐｅｃｉａｌ (Jiysea) \[A n o t h e r\]](https://osu.ppy.sh/beatmapsets/1282080#osu/2662924)
 - HardRock
   1. [KOTOKO - jihad (Short Ver.) (Madoka Ayukawa) \[Marelle\]](https://osu.ppy.sh/beatmapsets/1709352#fruits/3492959)
