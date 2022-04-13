@@ -14,13 +14,25 @@ tags:
 
 ## Timing
 
-Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_object), both in general and in terms of getting high score values. The width of the hit window, centred on the hit object's correct time, is defined by the following table:
+Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_object), both in general and in terms of getting high score values. The maximum allowed hit error for each hit object in osu! and osu!mania, centred on the hit object's correct time, is defined by the following tables:
 
-| Score | Hit window |
+### osu!
+
+| Score | Hit window (ms) |
 | --: | :-- |
-| 50 | `400ms - 20ms * OD` |
-| 100 | `280ms - 16ms * OD` |
-| 300 | `160ms - 12ms * OD` |
+| 300 | `80 - 6 * OD` |
+| 100 | `140 - 8 * OD` |
+| 50 | `200 - 10 * OD` |
+
+### osu!mania
+
+| Score | Hit window (ms) |
+| --: | :-- |
+| MAX | `16` |
+| 300 | `64 - 3 * OD` |
+| 200 | `97 - 3 * OD` |
+| 100 | `127 - 3 * OD` |
+| 50 | `188 - 3 * OD` |
 
 If the player hits outside of the 50's hit window, it will count as a miss. In case the hit windows of two objects overlap, the second object will be inaccessible until the first object disappears due to [notelock](/wiki/Gameplay/Judgement/Notelock).
 
@@ -49,7 +61,7 @@ While Half Time and Double Time do not change the OD value, the speed difference
 
 Overall difficulty is visible when viewing osu!catch beatmap information, but it does not affect gameplay.
 
-<!-- TODO: taiko and mania info -->
+<!-- TODO: taiko info -->
 
 <!-- TODO: Insert lots of links -->
 
