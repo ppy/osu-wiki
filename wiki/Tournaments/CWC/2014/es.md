@@ -300,7 +300,7 @@ Domingo, 8 Junio 2014:
 | Equipo 1 |  |  | Equipo 2 | Enlace de la partida |
 | --: | :-: | :-: | :-- | :-- |
 | Suecia ![][flag_SE] | 2 | **6** | ![][flag_KR] **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/7127415) |
-| **Alemania** ![][flag_DE] | **6** | 1 | ![][flag_JP] Japón| [#1](https://osu.ppy.sh/community/matches/7128373) |
+| **Alemania** ![][flag_DE] | **6** | 1 | ![][flag_JP] Japón | [#1](https://osu.ppy.sh/community/matches/7128373) |
 
 ### Cuartos de final
 
