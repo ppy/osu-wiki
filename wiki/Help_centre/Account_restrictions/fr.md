@@ -1,5 +1,7 @@
 # Restrictions de compte
 
+*Page principale : [Centre d'aide](/wiki/Help_centre)*
+
 Une **restriction de compte** est un bannissement de la communauté appliqué sur les comptes ayant un comportement anormal, suspect ou contraire aux règles.
 
 Lorsqu'un compte est restreint, il ne peut pas intéragir avec la communauté jusqu'à ce que la restriction soit levée. Les joueurs restreints peuvent toujours jouer au jeu, télécharger des beatmaps et soumettre des scores, mais leurs profils seront invisibles pour les autres joueurs.

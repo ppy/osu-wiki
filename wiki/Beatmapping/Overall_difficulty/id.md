@@ -4,6 +4,8 @@ tags:
   - hit window
   - OD
   - spinner difficulty
+outdated: true
+outdated_since: 25fa617b062ef73cd5eda1246697cc0dfdc1862b
 ---
 
 # Overall difficulty

@@ -6,6 +6,8 @@ tags:
   - problem
   - trouble
   - missing
+outdated: true
+outdated_since: 737ea7fc657bed12687ef10e79bb9ae8f444c465
 ---
 
 # Centrum nápovědy
