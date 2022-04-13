@@ -10,7 +10,7 @@ Take a break with our newest Featured Artist **in love with a ghost**.
 
 Morning brightness shines through the blinds into your bedroom. You know you have to rise at some point, but the warmth of your comforter is far too enticing. You lay fully satisfied for just a minute longer before starting your day. Congratulations, you've just experienced your first **in love with a ghost** track.
 
-French artist **in love with a ghost** is the last thing you'd expect to find in a rhythm game. Their songs are mainly gentle piano pieces with touches of jazz and other calm styles, yet despite being so far from the norm, their music struck has assuredly struck chord with osu! players.
+French artist **in love with a ghost** is the last thing you'd expect to find in a rhythm game. Their songs are mainly gentle piano pieces with touches of jazz and other calm styles, yet despite being so far from the norm, their music has assuredly struck chord with osu! players.
 
 **10** relaxing tunes. All available from [**in love with a ghost**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/257). Soak it all in.
 
