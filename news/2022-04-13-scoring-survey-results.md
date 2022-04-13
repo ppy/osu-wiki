@@ -8,9 +8,9 @@ The results from the survey we held recently about scoring and scoreboards are i
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
-A few weeks ago, we asked for your thoughts on how scoreboards should be handled in the future as a part of the [community meetings recap newspost](/news/2022-03-07-community-meetings-recap.md).
+A few weeks ago, we asked for your thoughts on how scoreboards should be handled in the future as a part of the [community meetings recap newspost](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap).
 
-[peppy](https://osu.ppy.sh/users/2) and [smoogipoo](https://osu.ppy.sh/users/1040328) went through the results together during the [community meeting on April 3](/wiki/Community/osu!_community_meetings/) if you're interested in hearing some live commentary from the game's developers on the topic.
+[peppy](https://osu.ppy.sh/users/2) and [smoogipoo](https://osu.ppy.sh/users/1040328) went through the results together during the [community meeting on April 3](/wiki/Community/osu!_community_meetings) if you're interested in hearing some live commentary from the game's developers on the topic.
 
 Otherwise, here's a brief summary of the responses:
 
