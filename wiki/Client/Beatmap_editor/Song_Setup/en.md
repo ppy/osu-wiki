@@ -142,12 +142,9 @@ In osu!, the timing system does not allow an object to be hit until the previous
 
 Additional effects of increasing the OD in each game mode:
 
-- osu!: Spinners must be spun more to fill up the gauge.
+- osu!: Spinners must be spun more to fill up the gauge, up to the point of becoming nearly impossible to clear on time.
 - osu!taiko: The denden (spinner) requires more hits to clear.
-- osu!mania: Each lane's timing window is independent and it is possible to notelock on any combination of columns.
-- osu!catch is not affected by OD.
-
-*Note: This does imply that raising the OD too high can make previously possible spinners near impossible to clear on time.*
+- osu!mania and osu!catch are not affected by OD.
 
 To calculate hit windows, see formulas from the [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) article.
 
