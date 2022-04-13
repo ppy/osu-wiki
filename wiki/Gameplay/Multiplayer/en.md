@@ -96,7 +96,7 @@ After going into or creating a match, the match setup will be displayed. The fol
 
 While there is no direct button for it, the [options menu](/wiki/Client/Options) can still be accessed by pressing `Ctrl` + `O` while in a match lobby.
 
-Note that the the match setup screen looks slightly different for hosts and players (see the two images to the right).
+Note that the match setup screen looks slightly different for hosts and players (see the two images to the right).
 
 ### Header section
 
