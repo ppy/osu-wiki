@@ -74,23 +74,23 @@ The beatmap's difficulty settings; each setting affects different aspects of the
 
 *Note: Holding down `Shift` allows for a precise 0.1 value adjustment over the standard 1 value adjustment.*
 
-The common notation to represent a difficulty setting and its value is the setting's abbreviation followed by the setting's value. For example, `CS4` and `HP4.3` would be a beatmap with a Circle Size of 4 and HP Drain Rate of 4.3 respectively. In theory, negative difficulty settings may look like `AR-2` for an Approach Rate of -2.
+The common notation to represent a difficulty setting and its value is the setting's abbreviation followed by the setting's value. For example, `CS4` and `HP4.3` would be a beatmap with a circle size of 4 and HP drain rate of 4.3 respectively. In theory, negative difficulty settings may look like `AR-2` for an approach rate of -2.
 
-### HP Drain Rate
+### HP drain rate
 
-HP Drain Rate, commonly abbreviated as HP, determines the rate of health recovery from good hit scores and health punishment from bad hit scores. The value ranges from 0 to 10; higher HP values will give lower health recovery with higher health punishment.
+HP drain rate, commonly abbreviated as HP, determines the rate of health recovery from good hit scores and health punishment from bad hit scores. The value ranges from 0 to 10; higher HP values will give lower health recovery with higher health punishment.
 
 In osu! and osu!catch, this also affects the [Passive HP](/wiki/Client/Interface/Health_bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Beatmap/Break).
 
 *Note: More HP is recovered with [Geki](/wiki/Gameplay/Judgement/Geki) and [Katu](/wiki/Gameplay/Judgement/Katu) hit scores, which can be given from the last hit object in a combo.*
 
-### Circle Size
+### Circle size
 
-![Overview of various Circle Sizes](img/Circle_sizes.png "Overview of various Circle Sizes")
+![Overview of various circle sizes](img/Circle_sizes.png "Overview of various circle sizes")
 
 *Note: This option is visible in osu!taiko, but it does not do anything that affects gameplay.*
 
-Circle Size, commonly abbreviated as CS, exists only in osu! and osu!catch. CS determines the size of hit objects or, more specifically in osu!catch, determines the size of the catcher and fruit. The values range from 2 to 7; higher CS values will make hit objects smaller. Using the highest value will make the hit objects as big as the cursor.
+Circle size, commonly abbreviated as CS, exists only in osu! and osu!catch. CS determines the size of hit objects or, more specifically in osu!catch, determines the size of the catcher and fruit. The values range from 2 to 7; higher CS values will make hit objects smaller. Using the highest value will make the hit objects as big as the cursor.
 
 Most beatmaps use a value of 3 or 4, while a value of 5 or 6 is sometimes used and a value of 7 is almost never used. A value of 7 onwards is likely to be seen when using the [Hard Rock](/wiki/Game_modifier/Hard_Rock) mod.
 
@@ -98,11 +98,11 @@ Setting the CS value to something less than 2 or greater than 7 can be done by m
 
 #### Key Count
 
-Key Count, also known as Keys, replaces the [Circle Size](#circle-size) metric for [osu!mania-specific](#mode-specific) beatmaps. Key Count is self-explanatory; it defines the key count that is used. The values range from 1 to 9 keys.
+Key Count, also known as Keys, replaces the [circle size](#circle-size) metric for [osu!mania-specific](#mode-specific) beatmaps. Key Count is self-explanatory; it defines the key count that is used. The values range from 1 to 9 keys.
 
 Checking the `Co-op mode` checkbox will double the currently selected amount (from 5 onwards), leading to a total of 10K (5), 12K (6), 14K (7), 16K (8), and 18K (9).
 
-### Approach Rate
+### Approach rate
 
 *Main page: [Approach rate](/wiki/Beatmapping/Approach_rate)*
 
@@ -110,15 +110,15 @@ Checking the `Co-op mode` checkbox will double the currently selected amount (fr
 
 *Note: This option is visible in osu!taiko and osu!mania, but it does not do anything that affects gameplay. This is mainly because both use a scroll speed, which is based on BPM (beats per minute).*
 
-Approach Rate, commonly abbreviated as AR, exists only in osu! and osu!catch. The values range from 0 to 10; higher AR values will make the hit windows of hit objects shorter. AR indicates how long hit objects will stay on the screen, from the moment they appear until the time to tap/collect.
+Approach rate, commonly abbreviated as AR, exists only in osu! and osu!catch. The values range from 0 to 10; higher AR values will make the hit windows of hit objects shorter. AR indicates how long hit objects will stay on the screen, from the moment they appear until the time to tap/collect.
 
-Higher Approach Rates mean that hit objects will be shown for a shorter period of time, thus giving less reaction time to plan ahead. Inversely, lower Approach Rates mean that hit objects will be shown on the screen for a longer time, allowing more time to react, but can result in an excessive amount of hit objects appearing on the screen at once if the AR is too low.
+Higher approach rates mean that hit objects will be shown for a shorter period of time, thus giving less reaction time to plan ahead. Inversely, lower approach rates mean that hit objects will be shown on the screen for a longer time, allowing more time to react, but can result in an excessive amount of hit objects appearing on the screen at once if the AR is too low.
 
 ---
 
 The duration of a hit object that stays visible on the screen (without mods) ranges from 1800ms at AR0 to 450ms at AR10.
 
-There are four mods that alters the Approach Rate timing when activated:
+There are four mods that alters the approach rate timing when activated:
 
 - [Easy](/wiki/Game_modifier/Easy): Halves the AR value. (e.g. AR10→AR5)
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplies the AR value by 1.40, up to a maximum of AR10. (e.g. AR3→AR4.2 or AR9→AR10)
@@ -146,13 +146,13 @@ Additional effects of increasing OD in each game mode:
 - osu!taiko: The denden (spinner) requires more hits to clear.
 - osu!mania and osu!catch are not affected by OD.
 
-To calculate hit windows, see the formulas from the [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) article.
+To calculate hit windows, see the formulas from the [article on overall difficulty](/wiki/Beatmapping/Overall_difficulty).
 
 ---
 
-At OD0, a player can get a hit score of 300 at less than 79.5ms away from exactly hitting it on-time. On the other end of the scale, OD10 requires being less than 19.5ms away for the same hit score of 300.
+At OD 0, a player can get a hit score of 300 at less than 79.5ms away from exactly hitting it on-time. On the other end of the scale, OD 10 requires being less than 19.5ms away for the same hit score of 300.
 
-There are four mods which alter Overall Difficulty timing when activated:
+There are four mods which alter overall difficulty timing when activated:
 
 - [Easy](/wiki/Game_modifier/Easy): Halves the OD value.
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplies the OD value by 1.4, up to a maximum of OD10.
@@ -250,7 +250,7 @@ Moving the slider towards the right will space out the "closeness" of hit object
 
 *Notice: Stacked hit circles in osu! will move towards the point where the stacking occurs.*
 
-Objects are considered to belong to same stack if they are at the same coordinate and no further in-time than `[(Approach Window) * (Stack Leniency) / 10]`, where `Approach Window` is the duration for which objects stay on screen (see [Approach Rate](#approach-rate) above).
+Objects are considered to belong to same stack if they are at the same coordinate and no further in-time than `[(Approach Window) * (Stack Leniency) / 10]`, where `Approach Window` is the duration for which objects stay on screen (see [approach rate](#approach-rate) above).
 
 ### Mode Specific
 
