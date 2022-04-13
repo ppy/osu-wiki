@@ -27,19 +27,19 @@ In case you've never done late night homework assignments while listening to **i
 Check out [this map from the video above](https://osu.ppy.sh/beatmapsets/1729796) hosted by [bongo](https://osu.ppy.sh/users/5312202)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/257/interdimensional%20portal%20leading%20to%20a%20cute%20place/in%20love%20with%20a%20ghost%20-%20interdimensional%20portal%20leading%20to%20a%20cute%20place%20feat.%20snail%27s%20house.mp3" type="audio/mpeg">
 </audio>
 
 ### complex feelings about my own existence feat. jungkook
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/257/Songs/in%20love%20with%20a%20ghost%20-%20complex%20feelings%20about%20my%20own%20existence%20feat.%20jungkook.mp3" type="audio/mpeg">
 </audio>
 
 ### goodbye earth i'm taking my spaceship to explore the universe
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/257/Songs/in%20love%20with%20a%20ghost%20-%20goodbye%20earth%20i%27m%20taking%20my%20spaceship%20to%20explore%20the%20universe.mp3" type="audio/mpeg">
 </audio>
 
 ---
