@@ -2,7 +2,7 @@
 no_native_review: true
 ---
 
-<!-- TODO: This article should use the informal form. Furthermore, there are also some untranslated sentences and grammar mistakes. -->
+<!-- TODO: This article should use the singular form of "you" (`Du` instead of `Sie`), unless the English version gets rewritten to have no pronouns. Furthermore, there are also some untranslated sentences and grammar mistakes. -->
 
 # Menü
 
