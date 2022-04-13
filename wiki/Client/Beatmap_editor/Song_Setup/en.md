@@ -250,7 +250,7 @@ Moving the slider towards the right will space out the "closeness" of hit object
 
 *Notice: Stacked hit circles in osu! will move towards the point where the stacking occurs.*
 
-Objects are considered to belong to same stack if they are at the same coordinate and no further in-time than `[(Approach Window) * (Stack Leniency) / 10]`, where `Approach Window` is the duration for which objects stay on screen (see [approach rate](#approach-rate) above).
+Objects are considered to belong to same stack if they are at the same coordinate and no further in-time than `[(Approach Window) * (Stack Leniency) / 10]`, where `Approach Window` is the duration for which objects stay on screen (see [the section on approach rate](#approach-rate) above).
 
 ### Mode Specific
 
