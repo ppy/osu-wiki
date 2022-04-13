@@ -117,7 +117,7 @@ Supporters have access to an extended set of [beatmap search](https://osu.ppy.sh
 
 ### Multiplayer in experimental osu! build
 
-As opposed to regular users, supporters may access multiplayer from the experimental builds of osu! called Cutting Edge.
+Supporters may access multiplayer from builds on the early access "cutting edge" release stream.
 
 ## Remaining duration
 
