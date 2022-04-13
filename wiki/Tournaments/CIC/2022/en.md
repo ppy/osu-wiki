@@ -52,11 +52,11 @@ CIC 2022 was run by various osu! community members predominantly hailing from In
 
 ## Links
 
-- **[Main Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSvgR8kpmCBm3hqjKuN0LSNkP6H6S7ugk-7y2Xx2AR8sxYkJqgPFoAmDwoJx3Ic1l9FbdwQg1caZCsM/pubhtml)**
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1513493)
-- [Discord Server](https://discord.gg/YwAYbPa)
-- [Challonge Brackets](https://challonge.com/cic2022)
-- [Livestream Channel](https://www.twitch.tv/catchindonesiacup)
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSvgR8kpmCBm3hqjKuN0LSNkP6H6S7ugk-7y2Xx2AR8sxYkJqgPFoAmDwoJx3Ic1l9FbdwQg1caZCsM/pubhtml)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1513493)
+- [Discord server](https://discord.gg/YwAYbPa)
+- [Challonge brackets](https://challonge.com/cic2022)
+- [Livestream channel](https://www.twitch.tv/catchindonesiacup)
 
 ## Participants
 
@@ -108,7 +108,7 @@ Listed below are players who qualified into the Group stage (along with their re
 - Tiebreaker
   1. **[Kou! - TERRABYTE ("XETTABYTE" Long Version) (Jemzuu) \[KEN & JEMZUU'S XHAOTIC NEUTRAL\]](https://osu.ppy.sh/beatmapsets/1729729#fruits/3535052)**
 
-### Semi Finals
+### Semifinals
 
 **[Download the mappack here! (124 MB)](https://drive.google.com/file/d/1hppgWwtaboQqXDDQ27qTyCgsLvGIZmLQ/view)**
 
@@ -137,7 +137,7 @@ Listed below are players who qualified into the Group stage (along with their re
 - Tiebreaker
   1. **[Ka7ag5th - Galaxia (-Rustyy) \[Cosmic Destruction\]](https://osu.ppy.sh/beatmapsets/1724444#fruits/3524320)**
 
-### Quarter Finals
+### Quarterfinals
 
 **[Download the mappack here! (92 MB)](https://drive.google.com/file/d/1nfib8daJjkkub2JS5tvHLkqaed5hL-zj/view)**
 
@@ -187,7 +187,7 @@ Listed below are players who qualified into the Group stage (along with their re
 - Tiebreaker
   1. **[SOUND HOLIC vs. dj TAKA feat. YURiCa -TIEFSEE (autofanboy) \[SUNKEN REMNANTS\]](https://osu.ppy.sh/beatmapsets/1714444#fruits/3503094)**
 
-### Group Stage
+### Group stage
 
 **[Download the mappack here! (116 MB)](https://drive.google.com/file/d/1xF-fvcCEifJGnlrBlu6MSqRaGXgJEuZq)**
 
@@ -248,7 +248,7 @@ Sunday, 3 April 2022:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [Ruu](https://osu.ppy.sh/users/3212755) ![][flag_ID] | 5 | **7** | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877)** | [#1](https://osu.ppy.sh/community/matches/99379410) |
 
-### Semi Finals
+### Semifinals
 
 Friday, 25 March 2022:
 
@@ -273,7 +273,7 @@ Sunday, 27 March 2022:
 | Lower | **[Keisuu](https://osu.ppy.sh/users/3856673)** ![][flag_ID] | 2 | **7** | ![][flag_ID] **[Ruu](https://osu.ppy.sh/users/3212755)** | [#1](https://osu.ppy.sh/community/matches/99150992) |
 | Lower | [Kazuyo](https://osu.ppy.sh/users/5604201) ![][flag_ID] | 5 | **7** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | [#1](https://osu.ppy.sh/community/matches/99159011) |
 
-### Quarter Finals
+### Quarterfinals
 
 Friday, 18 March 2022:
 
@@ -361,15 +361,15 @@ Monday, 7 March 2022:
 
 1. Map scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#reschedule-request` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. If there are any players who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#reschedule-request` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **15 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in a few of the beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **No Fail will be enforced in some of the beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they failed the beatmap.
    - Disconnects that occur within a few seconds after the beatmap is started by the referee can be rematched.
 9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
-   - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
+   - In case the disconnected player fails to report back after 15 minutes have passed, the opposing player may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
@@ -384,58 +384,58 @@ Monday, 7 March 2022:
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. The Tournament Management will only account for a maximum of 32 players to take part in the tournament.
    - In the case where the number of registrants exceeds 32, the Tournament Management will only enlist 32 registrants with the highest osu!catch pp to participate in the tournament.
-5. Testplayers, referees, and map selectors may not participate as players in this tournament.
+5. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
-### Group Stage rules
+### Group stage rules
 
-1. In the Group Stage, all qualified players will be situated into four different seeds (Top seed, Medium seed, Low seed, Unseeded) based on their osu!catch performance points (pp). The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed osu!lazer bracket draw.
+1. In the Group stage, all qualified players will be situated into four different seeds (Top Seed, Medium Seed, Low Seed, and Unseeded) based on their osu!catch performance points rankings. The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed osu!(lazer) bracket draw.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnouts after each map:
    - 1st place: **+3 points**
    - 2nd place: **+2 points**
    - 3rd place: **+1 point**
    - 4th place: **0 point**
 3. If there is a tie at the end of the map, the points will instead be distributed as follows:
-   - **+2/+2/+1/+0** in the case where the 1st place and the 2nd place players are tied.
-   - **+2/+1/+1/+0** in the case where the 2nd place and the 3rd place players are tied.
-   - **+2/+2/+2/+0** in the case where the 1st place, the 2nd place, and the 3rd place players are tied.
-   - **+2/+2/+2/+2** in the case where all four players are tied.
+   - **+2/+2/+1/+0** in case the **1st** and **2nd** place players are tied.
+   - **+2/+1/+1/+0** in case the **2nd** and **3rd** place players are tied.
+   - **+2/+2/+2/+0** in case the **1st**, **2nd**, and **3rd** place players are tied.
+   - **+2/+2/+2/+2** in the case where **all four players** are tied.
 4. Players are **not allowed** to ban maps in the Group stage.
 5. There is no Lower Bracket in the Group stage.
 6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
    - Most points obtained.
-   - Winner of the Tiebreaker.
-   - Player(s) who Win By Default.
+   - Winner of the tiebreaker.
+   - Players who win by default.
    - Whether there are players who are disqualified from the tournament.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the Knock-out stage.
 
 ### Knock-out stage rules 
 
-1. The eight Group stage winners will be matched to the eight Group stage runners-up using a predetermined match-up format (A1 vs H2, B1 vs G2, and so on).
+1. The eight Group stage winners will be matched against the eight Group stage runners-ups using a predetermined match-up format (A1 vs H2, B1 vs G2, and so on).
 2. Players will compete against each other using the Double Elimination system.
-3. The Double Elimination System works as following:
+3. The Double Elimination system works as following:
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
    - Players who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to clinch the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to clinch the championship title.
 4. Players who can compete in the next round are determined by:
    - In the Round of 16, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Quarter Finals, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Semi Finals, Finals, and Grand Finals, each player needs to win 7 points in order to win a match. (Best-of-13)
-   - Player(s) who Win By Default.
+   - In the Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Semifinals, Finals, and Grand Finals, each player needs to win 7 points in order to win a match. (Best-of-13)
+   - Players who win by default.
    - Whether there are players who are disqualified from the tournament.
 
 ### Match regulations
 
 1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
-   - This rule does not apply in the Group Stage lobbies.
+   - This rule does not apply in the Group stage lobbies.
 2. Each player may ban up to two beatmaps from the mappool following a modified "comeback mechanic" system that is adapted from the [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019). The system works as follows:
    - At the start of the match, each player has to ban **one beatmap** from the mappool.
-   - After a player reaches 3 points (in the Semi Finals, Finals, and Grand Finals), the opposing player is then given a chance to **ban another beatmap** from the mappool that hasn't either been picked or banned up until that point as a comeback mechanic.
-   - All banned beatmaps are not allowed to be picked by any player in the remainder of the match.
-   - This rule does not apply in the Group Stage.
+   - After a player reaches 3 points (in the Semifinals, Finals, and Grand Finals), the opposing player is then given a chance to **ban another beatmap** from the mappool that has neither been picked nor banned up until that point as a comeback mechanic.
+   - No banned beatmaps are allowed to be picked by any player during the remainder of the match.
+   - This rule does not apply in the Group stage.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
-   - Warm-ups do not apply in the Group Stage lobbies.
-4. In case of a tiebreaker, **the tiebreaker beatmap will be played using Hidden** (HD) **or NoMod** (NM) **based on the player's choice**.
+   - Warm-ups do not apply in the Group stage lobbies.
+4. In case of a tiebreaker, **the tiebreaker beatmap will be played using Hidden or NoMod based on the player's choice**.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
