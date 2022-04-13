@@ -444,36 +444,26 @@ Sunday, 9 November 2014:
 ### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
-
 2. All the teams from each group will face each other.
-
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-
 4. Most matches won.
-
 5. Have higher `{(the number of maps won) - (the number of maps defeated)}`.
-
 6. Most maps won.
-
 7. Have higher `∑{(total score difference) / (maximum score)}`.
-
 8. Winner of the rematch.
-
 9. The top 2 teams of each group will move on to the Double Elimination Stages.
-
 10. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-
 11. Based on [this image](/wiki/shared/stages-visual.png), the stages are splitted up the following:
 
-    | Stage | Match ID |
-    | :-- | :-- |
-    | Round of 16 | A, B, C, D, E, F, G, H |
-    | Quarterfinals | I, J, K, L & R, S, T, U |
-    | Semifinals | M, N & V, W, X, Y, Z, AA |
-    | Finals week 1 | O & AB, AC, AD, AE |
-    | Finals week 2 | P, Q |
+| Stage | Match ID |
+| :-- | :-- |
+| Round of 16 | A, B, C, D, E, F, G, H |
+| Quarterfinals | I, J, K, L & R, S, T, U |
+| Semifinals | M, N & V, W, X, Y, Z, AA |
+| Finals week 1 | O & AB, AC, AD, AE |
+| Finals week 2 | P, Q |
 
-12. **Winning conditions:**
+12. **Win conditions:**
     - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
     - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
     - In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)

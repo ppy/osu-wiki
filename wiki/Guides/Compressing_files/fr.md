@@ -25,9 +25,9 @@ Cette section vous montre comment supprimer le son des vidéos en utilisant [Han
 
 ![Sélection du préréglage vidéo](img/preset-handbrake-FR.png "Sélection du préréglage")
 
-3. Sélectionnez l'onglet `Audio` et supprimez toutes les pistes audio. Faites de même pour les sous-titres en allant dans l'onglet `Sous-titres` et en supprimant toutes les entrées.
+3. Sélectionnez l'onglet `Audio` et supprimez tous les fichiers audio. Faites de même pour les sous-titres en allant dans l'onglet `Sous-titres` et en supprimant toutes les entrées.
 
-![Suppression des pistes audio de l'onglet audio dans Handbrake](img/removeaudio-handbrake-FR.png "Suppression des pistes audio")
+![Suppression des fichiers audio de l'onglet audio dans Handbrake](img/removeaudio-handbrake-FR.png "Suppression des fichiers audio")
 
 4. Allez dans l'onglet `Vidéo` et définissez le codec vidéo comme `H.264 (X264)`. Modifiez la valeur de `Qualité constante` entre 20 et 25. Des valeurs plus petites produiront des fichiers de plus petite taille au détriment de la qualité de la vidéo.
 5. Si vous êtes prêt à passer plus de temps à encoder, changez le `Préréglage de l'encodeur` sous `Options de l'encodeur`. Les préréglages plus lents offrent une meilleure qualité vidéo et peuvent également réduire la taille du fichier vidéo, mais ne descendez pas jusqu'au placebo car cela prend beaucoup plus de temps que `VerySlow` pour une très faible amélioration de la qualité. Réglez le framerate pour qu'il soit le même que celui de la source et réglez-le sur un framerate constant.

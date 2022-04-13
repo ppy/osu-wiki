@@ -440,7 +440,7 @@ Notes :
 Notes :
 
 - La largeur de l'image SD doit être exactement de 1px.
-- Cet élément est la piste du rouleau sur laquelle sont placés les `sliderscorepoint.png`.
+- Cet élément est le chemin du slider sur laquelle sont placés les `sliderscorepoint.png`.
 - La teinte passe du jaune au rouge.
 
 ---

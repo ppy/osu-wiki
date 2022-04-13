@@ -410,7 +410,6 @@
 "tag4":                        "Beatmap/TAG"
 "tap":                         "Play_style"
 "test_mode":                   "Client/Beatmap_editor/Test_mode"
-"time_signature":              "Beatmapping/Time_signature"
 "timing_section":              "Beatmapping/Timing_section"
 "touchpad":                    "Gameplay/Input_device/Graphics_tablet"
 "touchscreen":                 "Gameplay/Input_device/Graphics_tablet"
@@ -854,6 +853,16 @@
 "talk":                        "Community/Video_series/osu!talk"
 
 "tourney":                     "osu!tourney"
+
+# hierarchy swapped in #6888
+"osu!tourney/osu!lazer_tournament_client":          "osu!_tournament_client"
+"osu!tourney":                                      "osu!_tournament_client/osu!tourney"
+"osu!tourney/multiplayer_usage":                    "osu!_tournament_client/osu!tourney/Multiplayer_usage"
+"osu!tourney/setup":                                "osu!_tournament_client/osu!tourney/Setup"
+"osu!tourney/skinning":                             "osu!_tournament_client/osu!tourney/Skinning"
+"osu!tourney/spectator_usage":                      "osu!_tournament_client/osu!tourney/Spectator_usage"
+"osu!tourney/tournament_management_commands":       "osu!_tournament_client/osu!tourney/Tournament_management_commands"
+"osu!tourney/troubleshooting":                      "osu!_tournament_client/osu!tourney/Troubleshooting"
 
 "wiki":                                             "osu!_wiki"
 "wiki_help":                                        "osu!_wiki/Maintenance#routines"
@@ -1826,3 +1835,8 @@
 "universal_offset":                 "Client/Options/Universal_offset"
 "osu!_program_files":               "Client/Program_files"
 "osu!_program_files/user_configuration_file": "Client/Program_files/User_configuration_file"
+
+# moved in #6995
+"time_signature":                   "Music_theory/Time_signature"
+"beatmapping/time_signature":       "Music_theory/Time_signature"
+"downbeat":                         "Music_theory/Downbeat"

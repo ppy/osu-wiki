@@ -16,6 +16,7 @@
 
 - Сервер: `irc.ppy.sh`
 - Порт: `6667` (по умолчанию)
+- SSL: выключено
 - Имя пользователя: ваш ник в osu!. Пробелы нужно заменить на подчёркивания (например `beppy_master_1000` вместо `beppy master 1000`)
 - Пароль нужно взять со страницы [IRC Authentication](https://osu.ppy.sh/p/irc)
 
@@ -80,4 +81,4 @@
 
 ### Человек пишет в чат, но я не вижу его ник в списке пользователей на канале
 
-Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!lazer](https://github.com/ppy/osu).
+Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!(lazer)](https://github.com/ppy/osu).

@@ -4,13 +4,13 @@ outdated: true
 
 # Pengundian Turnamen
 
-Layar pengundian turnamen digunakan untuk menyiarkan berbagai tim ke dalam kelompok-kelompok yang akan bersaing di babak grup untuk sebuah turnamen. Untuk saat ini hanya tersedia di klien [osu!lazer](https://github.com/ppy/osu/releases).
+Layar pengundian turnamen digunakan untuk menyiarkan berbagai tim ke dalam kelompok-kelompok yang akan bersaing di babak grup untuk sebuah turnamen. Untuk saat ini hanya tersedia di klien [osu!(lazer)](https://github.com/ppy/osu/releases).
 
-Harap perhatikan bahwa klien osu!lazer saat ini sedang dalam masa pengembangan dan berkemungkinan akan bertemu bug.
+Harap perhatikan bahwa klien osu!(lazer) saat ini sedang dalam masa pengembangan dan berkemungkinan akan bertemu bug.
 
 ## Mengakses Klien
 
-Buka osu!lazer dan tekan `Ctrl + O` untuk memperlihatkan pengaturan permainan. Dari sana, klik "Buka folder osu!". Buat dua file berikut di direktori ini:
+Buka osu!(lazer) dan tekan `Ctrl + O` untuk memperlihatkan pengaturan permainan. Dari sana, klik "Buka folder osu!". Buat dua file berikut di direktori ini:
 
 ```
 drawings.ini
@@ -45,6 +45,7 @@ Ada 4 tombol di panel kontrol, mari kita bahas lebih lanjut:
 
 Tekan tombol `Begin random` dan `Stop random`. Saat pengacakan berhenti di bendera yang berada di tengah layar, kembali ke folder osu! dan perhatikan bahwa sekarang ada file tambahan yang dibuat: `drawings_results.txt`.
 Buka file tambahan tadi dan amati format - disinilah tempat hasil proses pengundian disimpan, dan harus diimpor ke alat lebih lanjut untuk membantu dalam mengelola turnamen, seperti google Spreadsheets.
+
 **Pastikan untuk menyimpan file `drawings_results.txt` di lokasi yang aman sebelum menekan tombol Reset, jika tidak maka file akan hilang!**
 
 ### Konfigurasi
@@ -78,7 +79,7 @@ Baris ini memiliki tiga bagian yang dipisahkan oleh titik dua (`:`):
 | :-: | :-: | :-: |
 | AU | Australia | AUS |
 
-- Kode bendera mengacu pada nama file yang menyediakan gambar bendera. Secara bawaan, osu!lazer menyediakan format bendera negara dari [Kode Bendera ISO 3166 Alpha-2](https://www.iso.org/iso-3166-country-codes.html).
+- Kode bendera mengacu pada nama file yang menyediakan gambar bendera. Secara bawaan, osu!(lazer) menyediakan format bendera negara dari [Kode Bendera ISO 3166 Alpha-2](https://www.iso.org/iso-3166-country-codes.html).
 - Nama lengkap tim ditampilkan di tengah layar ketika tim dipilih melalui proses pengundian.
 - Akronim tim ditampilkan dalam kotak grup.
 

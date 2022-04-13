@@ -36,7 +36,7 @@ Additionally, in response to the backlash from the community, Ephemeral promised
 
 **The modding panel on the new osu! website (new.ppy.sh) was set live for public testing on 11 April 2016**. However, the testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to split problems into separate posts and then discuss them individually for easier tracking of issues and such as part of the steps towards implementing the long-awaited "Modding V2" [[9]][r].<!--wayback snapshot broken-->
 
-**New medal designs were added to osu! on 14 April 2016.** They meant to be more in-line with the "[osu!next](https://osunext.tumblr.com/about "Tumblr")" design philosophy that was used in osu!lazer and on the new website [[10,11]][r]
+**New medal designs were added to osu! on 14 April 2016.** They meant to be more in-line with the "[osu!next](https://osunext.tumblr.com/about)" design philosophy that was used in the new osu! client (codenamed "lazer") and on the new website [[10,11]][r]
 
 ![](img/new-medal-design-2016.jpg "Medal unlock graphic showcasing the new design that would appear in-game [[12]][r]")
 
@@ -62,7 +62,7 @@ Reception of the community towards this change was overall mostly positive. Howe
 
 **The very first osu! remix contest began on 6 May 2016.** "osu!remix" was a new contest that challenged participants to make a remix of the song [circles!](https://soundcloud.com/nekodex/circles) by [nekodex](https://osu.ppy.sh/users/102). The grand prize winner (chosen by osu! staff) would have their remix featured in osu! along with $250 USD in osu!store credit, a profile badge, and an official beatmapping contest featuring the remix. The secondary winner (chosen by community vote) would receive $50 USD in osu!store credit. The deadline for the contest was set to be 9 July 2016 (00:00 UTC) [[15]][r].
 
-**A request for "early bird contributors" was made by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016.** The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) 6.0 and enough free time and willingness to help clean-up and refactor large areas of osu!(lazer)'s codebase [[16]][r]. peppy also later asked for "reinforcements" in the form of additional contributors familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel) and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) [[17]][r].
+**A request for "early bird contributors" was made by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016.** The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) 6.0 and enough free time and willingness to help clean up and refactor large areas of the new osu! client's codebase [[16]][r]. peppy also later asked for "reinforcements" in the form of additional contributors familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel) and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) [[17]][r].
 
 ## June
 
