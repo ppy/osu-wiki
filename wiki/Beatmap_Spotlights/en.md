@@ -33,29 +33,27 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 - ![][flag_FI] **[Nowaie](https://osu.ppy.sh/users/5428909)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
 - ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943)
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
-- ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### osu!taiko curators
 
-- ![][flag_DE] **[OnosakiHito](https://osu.ppy.sh/users/290128)**
-- ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
+- ![][flag_TN] **[Hivie](https://osu.ppy.sh/users/14102976)**
 - ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864)
-- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
-- ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+- ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)
 - ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
+- ![][flag_MY] [[Zeth]](https://osu.ppy.sh/users/9912966)
 
 ### osu!catch curators
 
 - ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
-- ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276)
+- ![][flag_KR] [x_angelkawaii_x](https://osu.ppy.sh/users/566276)
 - ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
 - ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
@@ -77,14 +75,16 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 The Beatmap Spotlights project is currently organised in pre-defined seasons. Each season consists of a pool of curated beatmaps and a competitive seasonal league for the whole community.
 
-1. A single season lasts 8 weeks.
+1. A single season lasts for 9 weeks and cycles between 3 playlists.
+   - Each playlist is labelled with a letter.
+   - Each playlist consists of 2 Hard, 3 Insane, and 4 Expert difficulties.
+   - For the first 6 weeks, each playlist will last for 2 weeks.
+   - For the last 3 weeks, each playlist will last for 1 week instead.
 2. Seasons are fully prepared before they start.
    - Every curated beatmap is selected and locked in before a season starts.
    - Once a season begins, the whole schedule will be released.
-3. Each season is split into weeks. Each week is labelled with a letter.
-   - Each letter represents the playlist of a weekly multiplayer lobby.
-   - Weeks cycle through the entire season and repeat twice.
-4. Once a season finishes, there will be a break of 3 weeks before a new season begins. During that time, readjustments to the project can be made.
+3. Each season will include a themed playlist of some kind of gimmick.
+4. The next season will start a few weeks after the conclusion of the current one.
 
 ### Seasonal leaderboard
 
@@ -139,10 +139,10 @@ The curation system involves the process of curators selecting the beatmaps bein
 2. Beatmaps are selected based on their uniqueness and excellence. Each selected beatmap should be a leading example of content quality in gameplay, design and aesthetics.
 3. Curated beatmaps serve as recommendations to the entire osu! community.
 4. To fulfill the duty of recommending excellent beatmaps to the whole community, curated beatmaps should cover a specific spread of Hard, Insane and Expert difficulties.
-   - 25% of all curated beatmaps should be within the Hard difficulty tier.
-   - 45% of all curated beatmaps should be within the Insane difficulty tier.
-   - 30% of all curated beatmaps should be within the Expert difficulty tier.
-5. For each season, 20 beatmaps must be selected at minimum.
+   - 6 curated beatmaps should be within the Hard difficulty tier.
+   - 9 curated beatmaps should be within the Insane difficulty tier.
+   - 12 curated beatmaps should be within the Expert difficulty tier.
+5. For each season, 27 beatmaps must be selected in total.
    - All selected beatmaps must be Ranked.
    - When selecting more beatmaps, the distribution between difficulty tiers should be followed.
    - Curators can select multiple difficulties of the same beatmap.
@@ -179,17 +179,16 @@ Renamed to [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introduc
 
 In August 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) stepped down from leading the project. At the end of November 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) also resigned, and ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) took over the project along with ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
 
+After the conclusion of the Spring 2021 season, the project went on hiatus, which lasted until September 2021 when efforts of revival emerged, with ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) stepping down from his management role, and ![][flag_TN][Hivie](https://osu.ppy.sh/users/14102976) joining instead. In February 2022, the project resumed operating after some structural and team changes.
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"

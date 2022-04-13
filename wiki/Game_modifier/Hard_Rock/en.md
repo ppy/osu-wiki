@@ -27,7 +27,7 @@ tags:
 
 ## Description
 
-The **Hard Rock** mod is a [game modifier](/wiki/Game_modifier) that aims to increase the difficulty over most (if not all) aspects of a [beatmap](/wiki/Beatmap). It achieves this goal by raising the [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size) by 30%, and all other difficulty settings by 40%.
+The **Hard Rock** mod is a [game modifier](/wiki/Game_modifier) that aims to increase the difficulty over most aspects of a [beatmap](/wiki/Beatmap). Generally, it achieves this goal by raising the [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) by 30%, the [approach rate (AR)](/wiki/Beatmapping/Approach_rate) by 40%, the [health drain (HP)](/wiki/Beatmapping/Health_drain) by 40% and the [overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) by 40%, though the details vary for each game mode.
 
 ### osu!
 
@@ -57,7 +57,11 @@ Due to this much larger spike in difficulty compared to other [game modes](/wiki
 
 *Notice: Using this mod on osu!mania will result in an unranked play.*
 
-In [osu!mania](/wiki/Game_mode/osu!mania), only the [judgement](/wiki/Gameplay/Judgement) difficulty (OD) and the AR values are increased. All other difficulty settings are left as-is. Note placement is not affected.
+In [osu!mania](/wiki/Game_mode/osu!mania), the HP drain is increased by 40% while the timing windows are about 29% stricter. Although the AR value is displayed as increased, it does not affect the gameplay.
+
+To calculate the timing windows after HR is applied, the [original timing window](/wiki/Beatmapping/Overall_difficulty) needs to be divided by 1.4. The timing window of Rainbow 300 (MAX) is fixed regardless of the OD, which means the timing window of a MAX with HR will always be ±11.43ms.
+
+Note that the calculation method is different in [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 ## Trivia
 

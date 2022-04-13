@@ -1,16 +1,11 @@
----
-outdated: true
-outdated_since: 3283bf7d3bfc0d724600cf6330cbc1645f455b3e
----
-
 # Mise en forme
 
-*Pour les normes de rédaction, voir : [Critères de style des articles/Rédaction](../Writing)*\
-*Note : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les niveaux d'exigence.*
+*Pour les normes de rédaction, voir : [Critères de mise en forme d'article/Rédaction](../Writing)*\
+*Note : Cet article utilise [RFC 2119](https://microformats.org/wiki/rfc-2119-fr) pour décrire les niveaux d'exigence.*
 
 ## Locales
 
-Vous trouverez ci-dessous la liste des langues correctement supportées pour le wiki :
+Vous trouverez ci-dessous la liste des langues correctement prises en charge par le wiki :
 
 | Nom du fichier | Nom en Français | Écriture native |
 | :-- | :-- | :-- |
@@ -47,18 +42,6 @@ Vous trouverez ci-dessous la liste des langues correctement supportées pour le 
 | `zh-tw.md` | Chinois traditionnel (Taïwan) | 繁體中文（台灣） |
 
 *Note : Le site web donnera aux lecteurs la version d'un article dans la langue qu'ils ont choisie. Si celle-ci n'est pas disponible, la version anglaise sera donnée.*
-
-### Parité de contenu
-
-Les traductions sont soumises à une stricte parité de contenu avec leur article anglais, ce qui signifie qu'elles doivent avoir le même message, indépendamment de la grammaire et de la syntaxe. Toute modification du sens des traductions doit être accompagnée de modifications équivalentes de l'article anglais.
-
-Dans certains cas, il est permis de différer le contenu :
-
-- Articles rédigés à l'origine dans une langue autre que l'anglais (dans ce cas, l'anglais doit faire office de traduction)
-- Explications de mots anglais qui sont des termes courants dans la communauté d'osu!
-- Liens externes
-- Tags
-- Explications spécifiques aux sous-communautés
 
 ## Page de garde
 
