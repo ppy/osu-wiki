@@ -1,5 +1,7 @@
 # Account restrictions
 
+*Main page: [Help centre](/wiki/Help_centre)*
+
 A restriction is a timeout from the community forced upon accounts that exhibit abnormal, suspicious, or rule-breaking behaviour.
 
 When an account is restricted, it is unable to interact with the community until the restriction is lifted. Restricted players can still continue playing the game, downloading beatmaps and submitting scores, but their profile will be invisible to others.
