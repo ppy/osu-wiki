@@ -115,6 +115,10 @@ Supporters have access to an extended set of [beatmap search](https://osu.ppy.sh
 - Beatmaps that were (or were not) played
 - Beatmaps where a score with certain [grade](/wiki/Gameplay/Grade) was set
 
+### Multiplayer in experimental osu! build
+
+As opposed to regular users, supporters may access multiplayer from the experimental builds of osu! called Cutting Edge.
+
 ## Remaining duration
 
 ::: Infobox
