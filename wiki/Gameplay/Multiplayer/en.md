@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 <!-- TODO: needs further rewrite, see https://github.com/ppy/osu-wiki/issues/7165 -->
 
 # Multiplayer
@@ -8,20 +12,20 @@ The [osu!academy](/wiki/Community/Video_series/osu!academy) covers this part of 
 
 ## How to play
 
-*Notice: Multiplayer cannot be accessed if a player's account is [silenced](/wiki/Silence).*
+*Notice: Multiplayer requires an [osu! account](/wiki/Registration) and is not available for [silenced](/wiki/Silence) players.*
 
-In order to join a multiplayer lobby, the player must be [signed in to their osu! account](/wiki/Registration). From the main menu, the main multiplayer lobby can be accessed with the following steps:
+From the main menu, the main multiplayer lobby can be accessed with the following steps:
 
 1. Click the `Play` button or press `P`.
 2. Click the `Multi` button or press `M`.
-
-Losing internet connection while playing in multiplayer will put the player back in the main menu.
 
 ## Main lobby
 
 *Notice: An active [osu!supporter](/wiki/osu!supporter) tag is required to enter the lobby while using the `Cutting Edge` build.*
 
+::: Infobox
 ![](img/Multi_lobby.jpg "Example of a typical day in the main multiplayer lobby")
+:::
 
 On entering, the player is presented with all currently available matches.
 
@@ -41,9 +45,9 @@ The listed match lobbies can be filtered using the options at the top left.
 
 ### Matches
 
-In the middle, there are rows displaying available matches.
+Covering the middle of the screen is a list of available matches.
 
-The player slots on the right side can have three different colours:
+A variety of information is displayed about each lobby. For example, the player slots to the right can have three different colours:
 
 | Colour | Description |
 | :-: | :-- |
@@ -51,146 +55,140 @@ The player slots on the right side can have three different colours:
 | Green | The slot is available. |
 | No colour | The slot is locked. |
 
-To enter a match, click on one of the desired rows.
+To enter a match, click on any one of them.
 
 ### General options
 
-The three buttons above the [chat console](/wiki/Client/Interface/Chat_console) can be used in the main lobby:
+The three buttons above the [chat console](/wiki/Client/Interface/Chat_console) provide the main navigation options of this screen:
 
 | Title | Description |
 | :-: | :-- |
 | `Back to Menu` | Leave the lobby and return to the main menu. |
 | `New Game` | Create a new game. See below for more details. |
-| `Quick Join` | Join an available match *randomly* based on the player's current pp rank range. |
+| `Quick Join` | Join an available match *randomly* based on the player's current [performance points ranking](/wiki/Ranking#performance-points-ranking). |
 
 ## Creating a new game
 
-![](img/Multi_new_game.jpg "Setting up configuration for a new game")
+::: Infobox
+![](img/Multi_new_game.jpg "Configuration screen for creating a match lobby")<!-- TODO: update image; there is a new `Make match history publicly viewable` button -->
+:::
 
 | Title | Description |
 | :-: | :-- |
 | `Game Name` | The name of the match. The default value is `{account name}'s game`. |
 | `Require password to join` | Make the match private. |
-| `Password` | Set a password for the match. Only appears if the `Require password to join` button was enabled. |
-| `Max Players` | Total number of players allowed to join the match. The default is 8 players, with a range from 2 to a total of 16 players, including the player as host. It can be adjusted later by locking/unlocking the slots. |
+| `Password` | Set a password for the match. Only appears if the `Require password to join` button is enabled. |
+| `Max Players` | The total number of players (including the host) allowed to join the match. A range from 2 to 16 can be selected, with a default of 8. This can be adjusted later by locking/unlocking player slots. |
 
-Pressing the `1. Start Game` button will create the match with the beatmap playing in the jukebox as the match's beatmap. The button `2. Cancel` brings the player back to the lobby.
+Pressing the `1. Start Game` button will create the match with the currently playing song as the beatmap. The `2. Cancel` button brings the player back to the lobby.
 
 ## Match setup
 
-After going into or creating a match, the match setup will be displayed. The subsections below will focus on the different parts of the screen starting from top to bottom and going left to right.
-
-The [options](/wiki/Client/Options) can be accessed by pressing `Ctrl` + `O` while in a match.
-
-The match setup screen looks different for hosts and players. Further, the host can see the following:
-
 ::: Infobox
-![](img/Multi_roomhost.jpg "Example of the match as a host")
+![](img/Multi_roomhost.jpg "The match lobby viewed as a host")
 :::
 
-And here is the view of the player:
-
 ::: Infobox
-![](img/Multi_roomplayer.jpg "Example of the match as a player")
+![](img/Multi_roomplayer.jpg "The match lobby viewed as a player")
 :::
+
+After going into or creating a match, the match setup will be displayed. The following sections will focus on the different parts of the screen starting from top to bottom and going left to right.
+
+While there is no direct button for it, the [options menu](/wiki/Client/Options) can still be accessed by pressing `Ctrl` + `O` while in a match lobby.
+
+Note that the the match setup screen looks slightly different for hosts and players (see the two images to the right).
 
 ### Header section
 
 ![](img/multi-match-header.jpg "Example of the header")
 
-There is a phrase in the top-left displaying `Match Setup`, and whether the player is a host or a normal player.
-
-In the middle, there's a box containing information about the player's profile. This will display the account's name, the [total pp](/wiki/Performance_points/Total_performance_points), the [overall accuracy](/wiki/Beatmapping/Overall_difficulty), the level, the rank and the [game mode](/wiki/Game_mode) that is currently chosen.
-
-At the right side is a button to pause the currently playing song.
+The top-left text indicates whether the player is the match host or a normal player. In the middle, there is a player box with information about [performance points](/wiki/Performance_points/Total_performance_points), [overall accuracy](/wiki/Gameplay/Accuracy), [level](/wiki/Gameplay/Score/Total_score#level), [rank](/wiki/Ranking#performance-points-ranking) and the selected [game mode](/wiki/Game_mode). To the right is a button for pausing the currently playing song.
 
 ### Current players list
 
-![](img/multi-match-current-players-list.jpg "Example of the current players list")
+::: Infobox
+![](img/multi-match-current-players-list.jpg "Example of the player list in a match lobby")
+:::
 
-The players list shows all slots for a match. The bracket shows the number of available players in the match over the total amount of allowed players.
+The player list shows all slots for a match. The numbers in parentheses to the right of `Current Players` show the number of players in the match over the amount of unlocked player slots.
 
-Unlocked slots are still available and can be used by clicking on them. Slots with a closed lock besides them are not accessible. Players are able to change their flag colour to blue/red if it is a team play. Hovering above a player bar will show the level, nation and [accuracy](/wiki/Gameplay/Accuracy) of the player in question. If `Free Mods` is enabled, it also shows the mods used by the player.
+Available slots can be moved between by clicking on them, but slots indicated with a closed lock are not accessible. The host is able to lock and unlock slots through the icons on the left, as well as kick players. Host privileges can be transferred to another player by right-clicking and pressing `Transfer host privileges`. The team colour can be changed between blue and red when playing Team VS.
 
-The host can transfer its host rights to one of the other players, kick players, or unlock/lock the slots.
+Hovering above any player on the list will show the level, country and [overall accuracy](/wiki/Gameplay/Accuracy) of the player in question.
 
-There are four important states to take note of:
+A player can have four different colours in this list, which also mean different things:
 
-| Colour (state) | Description |
+| Colour | Description |
 | :-: | :-- |
-| **Red (no map)** | The player does not have the beatmap. A `[no map]` notice will be appended at the end of player's name until the beatmap was downloaded, extracted, and ready to play. This player will not be affected by the Force Start effect. |
-| **White (not ready)** | The player has the beatmap but is not ready yet. Game modifiers can be changed in this state, and must be confirmed for the game modifier change to take effect. This player will be affected by the Force Start effect regardless of ready state. |
-| **Green (ready)** | The player is ready. Game modifiers can't be changed in this state. A player can press the `Not Ready` button to return to the white state. The host will have a `Start Game` button after pressing ready. |
-| **Light Blue (playing)** | The player is playing. A `[playing]` notice will be appended at the end of player's name until the match ends. |
+| **Red (no map)** | The player does not have the beatmap, indicated by a `[no map]` notice until they have downloaded the beatmap. |
+| **White (not ready)** | The player has the beatmap but is not ready yet. [Game modifiers](/wiki/Game_modifier) can be changed in this state. |
+| **Green (ready)** | The player is ready. Game modifiers cannot be changed in this state. The host will be able to start the game after readying, and any ready players will begin the match. |
+| **Light Blue (playing)** | The player is playing, indicated by a `[playing]` notice until the match ends. |
 
 ### Match settings
 
-![](img/multi-match-settings.jpg "Match settings")
+![](img/multi-match-settings.jpg "The match settings, where the host can change the lobby name, beatmap, team mode, etc")
 
-This section is about the match settings. The host can change the game name, the beatmap, the team mode and other stuff.
+#### Game name and password
 
-#### Change game name and password
-
-Here, the host can change the name for the match. Additionally, the password for the match can be adjusted via the `Change Password` button.
+The `Game Name` is the name of the lobby that is visible in match listings in-game and on the website. Having a password is useful for restricting the lobby to friends or tournament players, and can be changed using the `Change Password` button above the game name.
 
 #### Beatmap
 
 ::: Infobox
-![](img/Multi_host_song_change.jpg "When the host is changing songs, this bar will become a temporary placeholder.")
+![](img/Multi_host_song_change.jpg "The beatmap card when the host is changing songs")
 :::
-
-The beatmap section shows the beatmap to be played for this match.
-
-When choosing the beatmap, the host will enter a menu similar to the song selection, but they will not be able to apply any mods.
 
 ::: Infobox
-![](img/Multi_SS.jpg "Example of what the song selection will look like for the host.")
+![](img/Multi_SS.jpg "The song selection screen when selecting a beatmap in multiplayer")
 :::
 
-Normally, the beatmap selection will show the background image, game mode symbol, the title, artist of the song, creator of the beatmap, the selected [difficulty](/wiki/Beatmap/Difficulty) and the [star rating](/wiki/Beatmapping/Star_rating).
+The beatmap section shows the beatmap to be played in the match. Changing the beatmap using the button above it opens the song selection screen.
+
+The beatmap card will show the background image, game mode icon, title and artist of the song, creator of the beatmap, the selected [difficulty](/wiki/Beatmap/Difficulty), and the [star rating](/wiki/Beatmapping/Star_rating) for the selected beatmap.
 
 ::: Infobox
-![](img/Multi_beatmapinfo.jpg "Beatmap selection when hovered over.")
+![](img/Multi_beatmapinfo.jpg "Hovering over the beatmap card")
 :::
 
-On hovering over the beatmap, there will be an extra dialogue displaying further information about the beatmap. These are as follows:
+When hovering over the beatmap, there is a popup that displays information about the beatmap. These are as follows:
 
 | Value | Description |
 | :-: | :-- |
 | `BPM` | Beats per minute |
 | `Length` | Length of the beatmap |
-| `Last Played` | When the beatmap was played the last time |
-| `CS` | Circle Size |
-| `AR` | Approach Rate |
-| `OD` | Overall Difficulty |
-| `HP` | HP Drain Rate |
-| `Stars` | Star Difficulty |
+| `Last Played` | When the beatmap was last played |
+| `CS` | Circle size |
+| `AR` | Approach rate |
+| `OD` | Overall difficulty |
+| `HP` | HP drain rate |
+| `Stars` | Star rating |
 
 If the player does not have the beatmap, one of these statuses will be shown:
 
 | Beatmap status | Description |
 | :-: | :-- |
 | `Ranked` / `Approved` / `Pending` / `Graveyard` | The [beatmap category](/wiki/Beatmap/Category). Clicking on the beatmap card will open the beatmap page on the website, where it can be [downloaded](/wiki/Beatmap#downloading-beatmaps). |
-| `Not uploaded or not up-to-date` | The beatmap is not available for download. The host should find the link (in the beatmap listing) for the player if the issue persists. |
+| `Not uploaded or not up-to-date` | The beatmap is not available for download. The host should find the link (in the [beatmap listing](https://osu.ppy.sh/beatmapsets)) for the player if the issue persists. |
 | `Cannot update the beatmap` | The host is playing a modified version of the beatmap. |
 
 #### Mods
 
 ::: Infobox
-![](img/Multi_mods_host.jpg "Host mod options")
+![](img/Multi_mods_host.jpg "Host mod selection")
 :::
 
 ::: Infobox
-![](img/Multi_mods_player.jpg "Player (osu!) mods options (with Free Mods enabled)")
+![](img/Multi_mods_player.jpg "Player mod selection, in the osu! game mode, with FreeMod enabled")
 :::
 
-The lower left section is the mods section. This section will show the [game mods](/wiki/Game_modifier) used for this match.
+This section will show the [game mods](/wiki/Game_modifier) used for this match.
 
 The host can enable `Free Mods` to allow players to freely choose any mod combination, except ones that change gameplay speed ([Double Time (DT)](/wiki/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Game_modifier/Nightcore) and [Half Time (HT)](/wiki/Game_modifier/Half_Time)).
 
 #### Team mode {#team-mode-match-setup}
 
-*For more information about team modes, see [Team mode](#team-mode-while-playing).*
+*For more information about team modes, see the [gameplay section on team modes](#team-mode-while-playing).*
 
 There are four different ways a match can be played:
 
@@ -198,8 +196,8 @@ There are four different ways a match can be played:
 | :-- | :-- |
 | `Head-to-head` | Compete against each other to reach the top spot of the match leaderboard. |
 | `Team VS` | Compete against each other in teams (Red and Blue) for match supremacy. |
-| `Tag co-op` (osu! only, unranked) | Team up to complete the beatmap, one combo at a time together. |
-| `Tag-team VS` (osu! only, unranked) | The same as `Tag co-op`, but with two teams competing against each other. |
+| `Tag co-op` (osu! mode only, unranked) | Team up to complete the beatmap, one combo at a time together. |
+| `Tag-team VS` (osu! mode only, unranked) | The same as `Tag co-op`, but with two teams competing against each other. |
 
 ##### Tag Colour
 
@@ -226,10 +224,10 @@ The blue button is used to control the player ready state and to start the match
 
 | Title | Description |
 | :-: | :-- |
-| `Ready!` | The player can click it to mark himself as ready (green on the player list). The button will change to `Not Ready`. For the match host, it will change to either `Start Game!` or `Force Start Game!` if there are players in the lobby. |
-| `Not Ready` | The player can click it to mark himself as not ready (white on the player list). The button will change to `Ready!` |
-| `Start Game!` | The host can click it to start the match. This button only appears for the match host when all players are ready. |
-| `Force Start Game! ({ready}/{total})` | The host can click it to start the match, even if not all of the players are ready. This button only appears for the match host when some players are ready. The amount of ready players compared to the total amount of players is shown in parentheses. |
+| `Ready!` | Marks the player as ready (green on the player list). The button will change to `Not Ready`. For the match host, it will change to either `Start Game!` or `Force Start Game!` if there are players in the lobby. |
+| `Not Ready` | Marks the player as not ready (white on the player list). The button will change to `Ready!` |
+| `Start Game!` | Starts the match. This button only appears for the match host when all players are ready. |
+| `Force Start Game! ({ready}/{total})` | Starts the match even if not all players are ready. This button only appears for the match host when some players are ready. The amount of ready players compared to the total amount of players is shown in parentheses. |
 
 ### Match history
 
@@ -237,7 +235,9 @@ The bottom section of the screen is the [chat console](/wiki/Client/Interface/Ch
 
 For Head-to-head matches, the result will be displayed privately in another tab called `#userlog` upon conclusion, where BanchoBot says `You placed #{placement} of {total} players in multiplayer on {beatmap} [difficulty] <game mode>.`
 
-![](img/multi-mh.jpg "Example of a match history.")
+::: Infobox
+![](img/multi-mh.jpg "Example of a match history page on the website")
+:::
 
 ## While playing
 
@@ -306,13 +306,17 @@ The colour of each player on the leaderboard while playing indicates the status 
 
 ##### Interface
 
+::: Infobox
 ![](img/Multi_HTH.jpg "Head-to-head interface")
+:::
 
 Head-to-head is a team mode where players duke it all out in a free-for-all match for the top spot on the leaderboard. This is the default team mode and does not have any special characteristics in gameplay, other than going for the top spot.
 
 ##### Result
 
+::: Infobox
 ![](img/Multi_grade.jpg "Head-to-head results screen")
+:::
 
 At the end of the match, the winner's avatar is shown in a big winner's box, along with the match leaderboard to the right
 
@@ -324,7 +328,9 @@ Each player will receive their match result as a private message in the `#userlo
 
 ##### Interface
 
+::: Infobox
 ![](img/Multi_team_vs.jpg "Team VS interface")
+:::
 
 Team VS pits two teams, Blue and Red, against each other.
 
@@ -334,11 +340,13 @@ Changing teams can be done while in the lobby. There is no handicap for teams wi
 
 ##### Result {#team-vs-result-screen}
 
+::: Infobox
 ![](img/Multi_team_grade.jpg "Team VS results screen")
+:::
 
 The winning team is announced at the top of the results screen.
 
-Only players who are alive by the end of the match count towards their teams' totals.
+Only players who are alive by the end of the match count towards their teams' totals.<!-- TODO: clarify which statistics this is about -->
 
 The panels to the sides show results for each player in different tabs. The `Total` tab shows the total count of [judgements](/wiki/Gameplay/Judgement) for both teams and their average accuracy.
 
@@ -368,7 +376,7 @@ If a player quits during the match, the game will play their part for them.
 
 All players share the same health bar. If it depletes completely, the match ends. In Tag-team VS, each team has their own health bars, and losing all health will cause that team to lose.
 
-Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect) game modifier will cause the whole team to fail if they fail due to it.
+Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect) game modifier will cause the whole team to fail if they fail due to it.<!-- TODO: check how SD and EZ work in Tag co-op and Tag-team VS -->
 
 ##### Result
 
@@ -391,7 +399,7 @@ For Tag-team VS results screen, refer to Tag-team VS's [result screen explanatio
 ### History
 
 ::: Infobox
-![](img/Multi_Mania_unpatched.jpg "Screenshot of the main lobby when osu!mania was first released \(October 8, 2012\), but not yet playable in multiplayer")
+![](img/Multi_Mania_unpatched.jpg "Screenshot of the main lobby when osu!mania was first released (October 8, 2012), but not yet playable in multiplayer")
 :::
 
 - The initial multiplayer version was implemented on June 3, 2008 in osu! Public Release b335.
