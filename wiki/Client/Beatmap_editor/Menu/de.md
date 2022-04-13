@@ -1,3 +1,9 @@
+---
+no_native_review: true
+---
+
+<!-- TODO: This article should use the informal form. Furthermore, there are also some untranslated sentences and grammar mistakes. -->
+
 # Menü
 
 ## Datei
