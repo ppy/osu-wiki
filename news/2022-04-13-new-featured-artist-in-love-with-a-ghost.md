@@ -14,7 +14,7 @@ French artist **in love with a ghost** is the last thing you'd expect to find in
 
 **10** relaxing tunes. All available from [**in love with a ghost**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/257). Soak it all in.
 
-In case you've never done late night homework assignments while listening to **in love with a ghost** on loop, explore this quick video of [interdimensional portal leading to a cute place](https://osu.ppy.sh/beatmapsets/1729796) and the rest of our previews:
+In case you've never done late-night homework assignments while listening to **in love with a ghost** on loop, explore this quick video of an [interdimensional portal leading to a cute place](https://osu.ppy.sh/beatmapsets/1729796) and the rest of our previews:
 
 <div align="center">
     <video width="100%" controls>
@@ -46,7 +46,6 @@ Check out [this map from the video above](https://osu.ppy.sh/beatmapsets/1729796
 
 [**in love with a ghost**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/257) has everything above *and more*, all packed in ultra-convenient pre-timed beatmap templates. If mapping has ever felt too intimidating, these songs are the ideal place to start.
 
-It may be appropriate to slow down our release schedule to match **in love with a ghost**'s vibe, we have the uncontrollable urge to drown you in new music. The
-[@osugame Twitter](https://twitter.com/osugame) is where it'll drop next Saturday, so be there. Or stay in bed for a few extra minutes. We can wait.
+It may be appropriate to slow down our release schedule to match **in love with a ghost**'s vibe, but we have the uncontrollable urge to drown you in new music. The [@osugame Twitter](https://twitter.com/osugame) is where it'll drop next Saturday, so be there. Or stay in bed for a few extra minutes. We can wait.
 
 —pishifat
