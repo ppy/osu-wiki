@@ -352,9 +352,8 @@ Monday, 7 March 2022:
 | :-: | :-: | :-: | :-: | :-: | :-- |
 | **D** | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361) (22 pts)** | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638) (17 pts)** | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/9153772) (6 pts) | ![][flag_ID] [Kinora](https://osu.ppy.sh/users/20571283) (3 pts) | [#1](https://osu.ppy.sh/community/matches/98504314) |
 
-¹ *Winner of the Tiebreaker map*
-
-² *Loser of the Tiebreaker map*
+¹ *Winner of the tiebreaker map*\
+² *Loser of the tiebreaker map*
 
 ## Ruleset
 
