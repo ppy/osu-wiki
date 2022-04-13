@@ -32,7 +32,7 @@ Bitte füge etwas Freiraum um den Cookie herum hinzu. Nehme das "o" in "osu!" zu
 
 ### Nutzungsbeschränkungen des einfarbigen Cookies
 
-Da osu! von der Community betrieben wird, ist das osu!-Cookie-Logo ist als ein einfaches und flexibles Logo konzipiert. Es kann mit Leichtigkeit auf viele Designs angepasst werden. Die Farbe des Cookies ist nicht beschränkt.
+Da osu! von der Community betrieben wird, ist das osu!-Cookie-Logo als ein einfaches und flexibles Logo konzipiert. Es kann mit Leichtigkeit auf viele Designs angepasst werden. Die Farbe des Cookies ist nicht beschränkt.
 
 ![](img/restrictions-good-single.png)
 
@@ -60,7 +60,7 @@ Da osu! von der Community betrieben wird, ist das osu!-Cookie-Logo ist als ein e
 
 ### Nutzungsbeschränkungen des vollfarbigen Cookies
 
-Da osu! von der Community betrieben wird, ist das osu!-Cookie-Logo ist als ein einfaches und flexibles Logo konzipiert. Es kann mit Leichtigkeit auf viele Designs angepasst werden. Bitte benutze das Logo so wie es ist, ohne Änderungen. Alle Beschränkungen für den einfarbigen Cookie gelten auch für den vollfarbigen Cookie.
+Da osu! von der Community betrieben wird, ist das osu!-Cookie-Logo als ein einfaches und flexibles Logo konzipiert. Es kann mit Leichtigkeit auf viele Designs angepasst werden. Bitte benutze das Logo so wie es ist, ohne Änderungen. Alle Beschränkungen für den einfarbigen Cookie gelten auch für den vollfarbigen Cookie.
 
 ![](img/restrictions-bad-full.png)
 
