@@ -42,13 +42,13 @@ CIC 2022 was run by various osu! community members predominantly hailing from In
 | :-- | :-- |
 | Host | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
 | Mappool Selector | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
-| Custom Mapper | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_PH] [-Rustyy](https://osu.ppy.sh/users/16355636), ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_TH] [Kukkai](https://osu.ppy.sh/users/7811952), ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_PH] [Nosuri](https://osu.ppy.sh/users/2150415), ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) |
+| Custom mapper | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_PH] [-Rustyy](https://osu.ppy.sh/users/16355636), ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_TH] [Kukkai](https://osu.ppy.sh/users/7811952), ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_PH] [Nosuri](https://osu.ppy.sh/users/2150415), ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) |
 | Streamer | ![][flag_ID] [Dika312](https://osu.ppy.sh/users/741613), ![][flag_AU] [wangwangg](https://osu.ppy.sh/users/6416920), ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) |
 | Commentator | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [Pischok](https://osu.ppy.sh/users/15507280), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) |
 | Referee | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) |
-| Graphic Designer | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) |
-| Spreadsheet Manager | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
-| Wiki Editor | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
+| Graphic designer | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) |
+| Spreadsheet manager | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
+| Wiki editor | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
 
 ## Links
 
