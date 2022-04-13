@@ -57,7 +57,7 @@ When appealing, we expect the following points to be covered:
 - **Account history.** It does not need to be too detailed. This should include all your breaches of the major rules (multi-accounting, account sharing, cheating, or major silences). You do not need to remember every date, every silence, or every account you created, as long as you are honest with what you did. This includes any rules you have broken while restricted, if applicable.
 - **Why you broke the rules.** An explanation as to what led you to decide to create new accounts, give your account away, cheat, etc. will help us (and you) determine whether or not you are at risk of offending again. If you continued offending while restricted, we are also interested in knowing why.
 - **How you obtained the means to do so.** This applies mostly to cheating - we want to know where you obtained the tool you used, how you came across it, and whether or not it is still present on your computer.
-- **Why we should allow you back.** Most of the time, this ties in to the second point. We just want to ensure that you will not be breaking the rules again! Please understand that the more rule violations in your account's history, the more we will expect in this section of the appeal.
+- **Why we should allow you back.** Most of the time, this ties into the second point. We just want to ensure that you will not be breaking the rules again! Please understand that the more rule violations in your account's history, the more we will expect in this section of the appeal.
 
 ## What if my appeal is granted?
 

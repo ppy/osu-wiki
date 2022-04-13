@@ -78,7 +78,7 @@ Go to your [account settings](https://osu.ppy.sh/home/account/edit) and click `b
 
 If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them, please send us an email at [support@ppy.sh](mailto:support@ppy.sh).
 
-Make sure to include any chatlogs or other evidence in the email, and our support staff will look into your case and get it sorted for you.
+Make sure to include any chat logs or other evidence in the email, and our support staff will look into your case and get it sorted for you.
 
 ### What are these "Me!" pages that I see on other player's profiles?
 
