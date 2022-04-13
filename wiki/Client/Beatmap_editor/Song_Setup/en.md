@@ -127,7 +127,7 @@ There are four mods that alters the Approach Rate timing when activated:
 
 While Half Time and Double Time does not change the actual given AR value, the speed difference leads to an apparent AR change, as low as AR-5 or as high as AR11. In the AR chart provided, those apparent values are given to allow easy comparison between approach speeds with and without mods. Actual AR, however, is always a number between 0 and 10. Note that AR levels scale by 120ms for below AR5 and 150ms for above AR5.
 
-### Overall Difficulty
+### Overall difficulty
 
 *Main page: [Overall difficulty](/wiki/Beatmapping/Overall_difficulty)*
 
@@ -136,17 +136,17 @@ While Half Time and Double Time does not change the actual given AR value, the s
 *Note: The above table applies for the osu! game mode only.*\
 *Notice: On the beatmap page, Overall Difficulty is listed as Accuracy.*
 
-Overall Difficulty, commonly abbreviated as OD, defines how difficult it is to achieve high accuracy. The values range from 0 to 10; higher OD values will require more accuracy and precision. Since accuracy is important for gaining HP, Overall Difficulty indirectly influences how hard it is to pass the beatmap. Higher OD values mean shorter time windows to clear the hit objects, both in general and in terms of getting the highest score value from the hit object.
+Overall difficulty, commonly abbreviated as OD, defines how difficult it is to achieve high accuracy. The values range from 0 to 10, where higher OD values will require more accuracy and precision. Since accuracy is important for gaining HP, overall difficulty indirectly influences how hard it is to pass the beatmap. Higher OD values mean shorter time windows to clear the hit objects, both in general and in terms of getting the highest score value from the hit object.
 
-In osu!, the timing system does not allow an object to be hit until the previous object has either been hit and received a judgement, or missed after the hit window has passed. If the hit windows are too long, the object's hit window may overlap with the previous one. During this time, the object is "locked" and any hit will not count. This is informally called "notelock" in osu!, or "column locking" or "cbrushing" in osu!mania. For further details and examples, see the [article on notelock](/wiki/Gameplay/Judgement/Notelock). Because of this, it is advised not to use low OD values in high BPM maps.
+In osu!, the timing system does not allow an object to be hit until the previous object has either been hit and received a judgement, or missed after the hit window has passed. If the hit windows are too long, the object's hit window may overlap with the previous one. During this time, the object is "locked" and any hit will not count. This is informally called "notelock" in osu!, or "column locking" or "cbrushing" in osu!mania. For further details and examples, see the [article on notelock](/wiki/Gameplay/Judgement/Notelock). Because of this, it is advised not to use low OD values in high-BPM maps.
 
-Additional effects of increasing the OD in each game mode:
+Additional effects of increasing OD in each game mode:
 
 - osu!: Spinners must be spun more to fill up the gauge, up to the point of becoming nearly impossible to clear on time.
 - osu!taiko: The denden (spinner) requires more hits to clear.
 - osu!mania and osu!catch are not affected by OD.
 
-To calculate hit windows, see formulas from the [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) article.
+To calculate hit windows, see the formulas from the [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) article.
 
 ---
 
@@ -156,8 +156,8 @@ There are four mods which alter Overall Difficulty timing when activated:
 
 - [Easy](/wiki/Game_modifier/Easy): Halves the OD value.
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplies the OD value by 1.4, up to a maximum of OD10.
-- [Double Time](/wiki/Game_modifier/Double_Time): The OD value is not affected, but due to the 50% play speed increase this effectively causes hit windows to be 33% shorter.
-- [Half Time](/wiki/Game_modifier/Half_Time): The OD value is not affected, but due to the 25% play speed decrease, this effectively causes hit windows to be 33% longer.
+- [Double Time](/wiki/Game_modifier/Double_Time): The OD value is not affected, but due to the 50% speed increase this effectively causes hit windows to be 33% shorter.
+- [Half Time](/wiki/Game_modifier/Half_Time): The OD value is not affected, but due to the 25% speed decrease, this effectively causes hit windows to be 33% longer.
 
 While Half Time and Double Time do not change the actual OD value, the speed's effect on hit windows will make the hit objects seem to have a lower or higher apparent OD, respectively. In the OD chart provided, apparent OD values are provided to allow comparison between timings with and without these mods. Note that these apparent OD values only apply to 300s on circles. Windows for 100s, 50s, and sliders (which use the 50 hit window) scale more harshly with Double Time than this apparent OD suggests and more leniently with Half Time. Again, outside of NoMod, HR, and EZ (on the left side); the OD values provided are only for comparison: the actual OD value is always a number from 0 to 10.
 

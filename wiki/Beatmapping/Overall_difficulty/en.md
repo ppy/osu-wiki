@@ -14,7 +14,7 @@ tags:
 
 ## Timing
 
-Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_object), both in general and in terms of getting high score values. The maximum allowed offset for each hit window in osu! and osu!mania, centred on the hit object's correct time, is defined by the following tables:
+Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_object), both in general and in terms of getting high score values. The maximum allowed hit error for each hit object in osu! and osu!mania, centred on the hit object's correct time, is defined by the following tables:
 
 ### osu!
 
