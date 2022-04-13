@@ -13,7 +13,7 @@ tags:
 ![Icône du mod NC](/wiki/shared/mods/NC.png "Icône du mod Nightcore (NC)")
 
 *À ne pas confondre avec [Nightcore (genre)](https://fr.wikipedia.org/wiki/Nightcore).*\
-*Voir aussi : [NC (désambiguïsation)](/wiki/Disambiguïsation/NC), [Double Time (mod)](/wiki/Game_modifier/Double_Time)*\
+*Voir aussi : [NC (désambiguïsation)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Game_modifier/Double_Time)*\
 *Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*
 
 ## À propos
@@ -21,7 +21,7 @@ tags:
 - Abréviation : NC
 - Type : Difficulté croissante
 - Multiplicateur de score :
-  - ![][osu!]: 1.06x
+  - ![][osu!]: 1.12x
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
@@ -32,7 +32,7 @@ tags:
 
 ## Description
 
-Le mod **Nightcore** est un [modificateur de jeu](/wiki/Game_modifier) qui fonctionne exactement de la même manière que sa variante, Double Time, mais qui augmente également la hauteur du son et ajoute une piste de batterie en arrière-plan qui, en 4/4, se déroule dans l'ordre suivant : grosse caisse sur les temps 1 et 3, clap sur les temps 2 et 4, et crash sur le temps 1 toutes les 4 mesures.
+Le mod **Nightcore** est un [modificateur de jeu](/wiki/Game_modifier) qui fonctionne exactement de la même manière que sa variante, Double Time, mais qui augmente également la hauteur du son et ajoute une note de batterie en arrière-plan qui, en 4/4, se déroule dans l'ordre suivant : grosse caisse sur les temps 1 et 3, clap sur les temps 2 et 4, et crash sur le temps 1 toutes les 4 mesures.
 
 Le [multiplicateur de score](/wiki/Game_modifier/Score_multiplier) reste le même qu'avec le mod Double Time activé, et la beatmap lui-même n'est pas affecté au-delà de ce que fait le mod Double Time.
 
@@ -41,7 +41,7 @@ Ce mod a le même effet dans tous les modes de jeu.
 ## Le saviez-vous ?
 
 - Le mod Nightcore était à l'origine une [blague de poisson d'avril](https://osu.ppy.sh/community/forums/topics/49733) mais a ensuite été ajouté au jeu en tant que mod jouable.
-- Le mod Nightcore tire son nom du genre (ou pour certains, du sous-genre) "Nightcore" dans lequel les chansons sont modifiées ou créées pour être accélérées d'environ 10 à 30 % et avoir des voix plus aiguës. Bien que la validité et l'histoire de ce type de musique soient controversées.
+- Le mod Nightcore tire son nom du genre (ou pour certains, du sous-genre) "Nightcore" dans lequel les musiques sont modifiées ou créées pour être accélérées d'environ 10 à 30 % et avoir des voix plus aiguës. Bien que la validité et l'histoire de ce type de musique soient controversées.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

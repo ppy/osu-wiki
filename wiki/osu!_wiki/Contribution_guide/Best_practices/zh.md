@@ -51,9 +51,6 @@ outdated_since: 1963510e21506f90b21ad201b0eb9ca98fe7ecb5
 
 1. 前往你 fork 的 `osu-wiki` 仓库。
 2. 从分支管理的下拉列表中选择要更新的分支。
-
-![](img/select-branch.png "在 fork 仓库中选择过时分支")
-
 3. 点击 `Fetch upstream`，然后点击 `Fetch and merge`。
 
 ![](img/update-branch.png "更新过时分支")

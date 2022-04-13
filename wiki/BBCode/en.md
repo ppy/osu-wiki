@@ -29,7 +29,7 @@ BBCode tags, which are supported on the osu! website, are listed and described i
 [b]text[/b]
 ```
 
-The `[b]` tag is used to strongly emphasize text through the use of bolding. BBCode bolding does not affect the font size.
+The `[b]` tag is used to strongly emphasise text through the use of bolding. BBCode bolding does not affect the font size.
 
 Toolbar button: ![Bold button](img/bold.png "Bold")
 
@@ -39,7 +39,7 @@ Toolbar button: ![Bold button](img/bold.png "Bold")
 [i]text[/i]
 ```
 
-The `[i]` tag is used to lightly emphasize text by slanting the text forward (i.e. italicizing).
+The `[i]` tag is used to lightly emphasise text by slanting the text forward (i.e. italicising).
 
 Toolbar button: ![Italic button](img/italic.png "Italic")
 
@@ -49,7 +49,7 @@ Toolbar button: ![Italic button](img/italic.png "Italic")
 [u]text[/u]
 ```
 
-The `[u]` tag is used to emphasize text by drawing a horizontal line underneath said text (i.e. underlining). The horizontal line that is drawn will be affected by other tags like bolding and italicizing.
+The `[u]` tag is used to emphasise text by drawing a horizontal line underneath said text (i.e. underlining). The horizontal line that is drawn will be affected by other tags like bolding and italicising.
 
 ### Strikethrough
 
@@ -95,7 +95,7 @@ Toolbar button: ![Font size options](img/font-size.png "Font size")
 [spoiler]text[/spoiler]
 ```
 
-The `[spoiler]` tag is used to cover up sensitive information with a solid black foreground that reveals the text underneath it upon being highlighted. If stacked with the [`[color]`](#color) tag, the black cover will not be affected. However, the text under the black cover will still be coloured, whether it is readable or not.
+The `[spoiler]` tag is used to cover up sensitive information with a solid black foreground that reveals the text underneath it upon being highlighted. If stacked with the [`[color]`](#colour) tag, the black cover will not be affected. However, the text under the black cover will still be coloured, whether it is readable or not.
 
 The tag is most commonly used to prevent spoiling critical/sensitive information regarding a TV show, movie, or other media. It is also sometimes used for comedic effect or emphasis.
 
@@ -151,7 +151,7 @@ text
 [/code]
 ```
 
-The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformatted text*). On the osu! website, the `[code]` tag will format text in a monospace font inside of a semi-transparent gray box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or source code into something else.
+The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformatted text*). On the osu! website, the `[code]` tag will format text in a monospace font inside of a semi-transparent grey box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or source code into something else.
 
 Within the osu! forums, code blocks are most often used to post source code for a [storyboard](/wiki/Storyboard), or in tutorials that require showing the syntax for tags, commands, or source code.
 

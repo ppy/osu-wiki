@@ -9,9 +9,9 @@ La **Quality Assurance Team (*QAT*)** était chargée de maintenir la qualité d
 
 ## Histoire
 
-La QAT a été créée dans le cadre d'un essai manuel du [modding v2](/wiki/Beatmap_Discussion) visant à automatiser la promotion et le retrait des BAT. L'équipe examinait les beatmaps [qualifiées](/wiki/Beatmap/Category#qualified) et disqualifiait celles qui ne répondaient pas aux [critères de classement](/wiki/Ranking_Criteria) ou aux normes de qualité personnelles de l'équipe.
+La QAT a été créée dans le cadre d'un essai manuel du [modding v2](/wiki/Beatmap_discussion) visant à automatiser la promotion et le retrait des BAT. L'équipe examinait les beatmaps [qualifiées](/wiki/Beatmap/Category#qualifiée) et disqualifiait celles qui ne répondaient pas aux [critères de classement](/wiki/Ranking_Criteria) ou aux normes de qualité personnelles de l'équipe.
 
-La réputation de la QAT parmi les mappeurs et les joueurs était surtout négative en raison de la disqualification fréquente de maps que les utilisateurs pensaient être classées. Les joueurs étaient surtout mécontents de la perte de [points de performance](/wiki/Performance_points) et les mappeurs n'étaient pas d'accord avec l'application de normes de qualité restrictives par la QAT.
+La réputation de la QAT parmi les mappeurs et les joueurs était surtout négative en raison de la disqualification fréquente de beatmaps que les utilisateurs pensaient être classées. Les joueurs étaient surtout mécontents de la perte de [points de performance](/wiki/Performance_points) et les mappeurs n'étaient pas d'accord avec l'application de normes de qualité restrictives par la QAT.
 
 En 2016, la QAT a commencé à disqualifier les beatmaps de manière réactive sur la base des rapports des utilisateurs, plutôt que d'examiner de manière proactive les beatmaps pour les disqualifier. Cela a conduit à ce que la plupart des tâches de la QAT soient liées à la gestion, comme l'évaluation des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) et la réforme des critères de classement.
 

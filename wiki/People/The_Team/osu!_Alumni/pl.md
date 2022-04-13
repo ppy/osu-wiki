@@ -12,7 +12,6 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Moderator czatu |
-| ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | Moderator czatu, GMT |
 | ![][flag_HK] [aabc271](https://osu.ppy.sh/users/155707) | BAT |
 | ![][flag_CN] [abalee](https://osu.ppy.sh/users/13103) | BAT |
 | ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982) | GMT |
@@ -114,6 +113,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
 | ![][flag_MX] [Kenezz](https://osu.ppy.sh/users/167050) | BAT |
 | ![][flag_TH] [Kharl](https://osu.ppy.sh/users/452) | BAT |
+| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | BAT, QAT, NAT |
 | ![][flag_US] [kingcobra52](https://osu.ppy.sh/users/9934) | BAT |
 | ![][flag_AU] [kingking9](https://osu.ppy.sh/users/1277097) | GMT |
 | ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) | Moderator czatu |
@@ -173,6 +173,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Moderator czatu, pomoc techniczna |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Moderator czatu |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | GMT |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, pomoc techniczna |
 | ![][flag_NL] [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
@@ -191,6 +192,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ![][flag_CO] [Sakura](https://osu.ppy.sh/users/289422) | BAT, GMT |
 | ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | BAT |
+| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | NAT |
 | ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ![][flag_MD] [senaya](https://osu.ppy.sh/users/304103) | Moderator czatu |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
@@ -201,6 +203,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ![][flag_US] [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | NAT |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | QAT, NAT |
 | ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
@@ -221,6 +224,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
+| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Moderator czatu |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, pomoc techniczna |
@@ -243,6 +247,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Prowadzenie akademii osu!, GMT |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentyna"
@@ -257,6 +262,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 [flag_CO]: /wiki/shared/flag/CO.gif "Kolumbia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Niemcy"
 [flag_DO]: /wiki/shared/flag/DO.gif "Dominikana"
+[flag_DZ]: /wiki/shared/flag/DZ.gif "Algieria"
 [flag_ES]: /wiki/shared/flag/ES.gif "Hiszpania"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
 [flag_FR]: /wiki/shared/flag/FR.gif "Francja"

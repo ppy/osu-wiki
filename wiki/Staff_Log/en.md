@@ -23,12 +23,13 @@ Promotions and retirements of public staff have been recorded to make them easil
 - [2019](2019)
 - [2020](2020)
 - [2021](2021)
+- [2022](2022)
 
 <!--
 TODO: incomplete history
 - pretty much anyone who moved in/out of BN...
 - pretty much anyone around the time of BAT/QAT split
-- anyone involved with management (orange color?)
+- anyone involved with management (orange colour?)
 - Pereira006
 - Seijiro
 - p3n
@@ -43,3 +44,5 @@ TODO: incomplete history
 - Kurai (not certain when their GMT membership was, were they QAT and GMT at the same time?)
 - ... probably many more. searching for "Moved.+?\) to" helps find people with broken history, since their origin group on Moved isn't logged
 -->
+
+<!--- last updated 0930 02-18-2022, with the addition of the 2022 folder--->

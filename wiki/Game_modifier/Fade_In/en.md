@@ -27,7 +27,7 @@ tags:
 
 ## Description
 
-The **Fade In** mod is a [game modifier](/wiki/Game_modifier) for [osu!mania](/wiki/Game_mode/osu!mania) that increases the difficulty of [beatmaps](/wiki/Beatmap) by causing notes disappear and then fade in as they approach the judgement bar. Hence the name.
+The **Fade In** mod is a [game modifier](/wiki/Game_modifier) for [osu!mania](/wiki/Game_mode/osu!mania) that increases the difficulty of [beatmaps](/wiki/Beatmap) by causing notes disappear and then fade in as they approach the [judgement](/wiki/Gameplay/Judgement) bar. Hence the name.
 
 The speed at which the notes fade in is based on the combo, with higher combo causing the notes to fade in later and remain invisible longer. I.e., the notes fade in later and later the higher and higher a player increases their combo.
 

@@ -10,7 +10,7 @@ Les soumissions à ce concours comprennent les éléments suivants :
 
 ## Liens
 
-- [Liste des concours](https://osu.ppy.sh/contests/115)
+- [Liste des concours](https://osu.ppy.sh/community/contests/115)
 - [Annonce du concours](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love)
 - [Annonce du vote](https://osu.ppy.sh/home/news/2021-03-26-a-labour-of-love-voting-open)
 - [Résumé des résultats](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love)
@@ -91,7 +91,7 @@ Si une équipe gagne dans plusieurs des catégories citées ci-dessus, elle sera
 ## Règles
 
 - **La soumission doit être une "expérience complète de beatmap" comprenant les éléments suivants :**
-  - Remix de la chanson **Kuba Oms - My Love**
+  - Remix de la musique **Kuba Oms - My Love**
   - La beatmap suivra les [critères de classement](/wiki/Ranking_Criteria)
   - Storyboard ou vidéo personnalisée
 - **La soumission doit être au format `.osz`.**
@@ -192,20 +192,20 @@ Pour plus d'informations sur les résultats, voir l'[aperçu détaillé des rés
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "Tchéquie"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "République tchèque"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Unis"
-[flag_GG]: /wiki/shared/flag/GG.gif "Guernsey"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
+[flag_GG]: /wiki/shared/flag/GG.gif "Guernesey"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
 [flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbie"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turquie"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"

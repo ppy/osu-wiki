@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-  - half time
+  - halftime
   - mod
   - game modifier
   - HT
@@ -29,11 +29,11 @@ tags:
 
 *Note : La méthode utilisée pour ralentir le morceau peut lui donner un son boueux ou robotique.*
 
-Le mod **Half Time** est un [modificateur de jeu](/wiki/Game_modifier) qui réduit la vitesse (BPM) de la [beatmap](/wiki/Beatmap) à 75% de la vitesse originale, augmente la durée de la musique de 33%, et diminue l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), et la [santé (HP)](/wiki/Beatmapping/Health) d'une petite quantité.
+Le mod **Half Time** est un [modificateur de jeu](/wiki/Game_modifier) qui réduit la vitesse (BPM) de la [beatmap](/wiki/Beatmap) à 75% de la vitesse originale, augmente la durée de la musique de 33%, et diminue l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), et la [santé (HP)](/wiki/Gameplay/Health) d'une petite quantité.
 
 ### osu!taiko
 
-Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le ralentissement de la chanson et du BPM fait que les notes deviennent très denses en raison de la diminution de l'AR. Cependant, en raison de la façon dont les dendens sont calculés dans osu!taiko, il faut maintenant plus de coups pour les terminer et ils donnent une **valeur totale plus élevée que sans le mod** parce que les coups de dendens ne sont pas affectés par le [multiplicateur de score](/wiki/Game_modifier/Score_multiplier).
+Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le ralentissement de la musique et du BPM fait que les notes deviennent très denses en raison de la diminution de l'AR. Cependant, en raison de la façon dont les dendens sont calculés dans osu!taiko, il faut maintenant plus de coups pour les terminer et ils donnent une **valeur totale plus élevée que sans le mod** parce que les coups de dendens ne sont pas affectés par le [multiplicateur de score](/wiki/Game_modifier/Score_multiplier).
 
 Par conséquent, l'utilisation du mod Half Time entraînera une augmentation du score maximal possible pour les beatmaps comportant très peu de combos et beaucoup de longs dendens. Cet effet sera encore plus significatif si le mod [Hard Rock](/wiki/Game_modifier/Hard_Rock) est activé simultanément.
 

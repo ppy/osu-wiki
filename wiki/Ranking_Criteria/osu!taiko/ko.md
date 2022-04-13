@@ -8,13 +8,13 @@
 
 ### 난이도 이름
 
-*메인 문서: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*메인 문서: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-- ![](/wiki/shared/diff/easy-t.png) Kantan
-- ![](/wiki/shared/diff/normal-t.png) Futsuu
-- ![](/wiki/shared/diff/hard-t.png) Muzukashii
-- ![](/wiki/shared/diff/insane-t.png) Oni
-- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
+- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png?20211215) Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 ### 게임 플레이 요소
 
@@ -75,7 +75,7 @@
 
 특정 난이도의 룰과 가이드라인은 각각 해당하는 난이도에만 적용되며 *osu!taiko 난이도에 **모두** 적용되지 않습니다.* 리듬과 연관된 룰과 가이드라인은 180 BPM을 기준으로 작성되었으며, 노래가 기준보다 많이 느리거나 빠른 경우, 몇몇 변수는 [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM)에 적힌 것과 같이 달라질 수 있습니다.
 
-### ![](/wiki/shared/diff/easy-t.png) Kantan
+### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
 #### 규칙
 
@@ -95,7 +95,7 @@
 - OD 4 이하.
 - HP 6 이상. 노트 갯수에 따라 HP를 6보다 약간 낮은 수치로 조정할 수 있습니다.
 
-### ![](/wiki/shared/diff/normal-t.png) Futsuu
+### ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 
 #### 규칙
 
@@ -125,7 +125,7 @@
 - OD 5 이하.
 - HP 5 이상. 노트 갯수에 따라 HP를 5보다 약간 낮은 수치로 조정할 수 있습니다.
 
-### ![](/wiki/shared/diff/hard-t.png) Muzukashii
+### ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 
 #### 규칙
 
@@ -138,7 +138,7 @@
 - **1/4 패턴에서의 노트 갯수가 5개를 넘어선 안 됩니다.** 이 이상으로 긴 패턴은 중수들에게 부담이 될 수 있습니다.
 - **메인 스냅은 대부분 1/2, 1/1 혹은 더 느린 리듬으로 구성되어야 합니다.** 때로는 1/2을 사용하는 것이 허용됩니다.
 - **스피너와 뒤에 따라오는 노트 사이에는 적어도 1/2 간격이 있어야 합니다.** 이는 이것들이 너무 오버랩되지 않게 하고, 가독성을 확보해줍니다.
-- **16/1 ~ 20/1 박자가 연속적으로 매핑된 경우, 3/2 만큼의 휴식 구간을 최소 1번은 넣어주세요.** 만약 곡의 페이스가 휴식 시간을 비직관적으로 만들거나 연속적으로 매핑된 부분이 플레이어에게 더 쉽다면 휴식 구간을 덜 사용하는 것이 허용될 수 있습니다.
+- **16/1 ~ 20/1 박자가 연속적으로 매핑된 경우, 3/2 만큼의 휴식 구간을 최소 1번은 넣어주세요.** 만약 곡의 흐름이 휴식 시간을 비직관적으로 만들거나 연속적으로 매핑된 부분이 플레이어에게 더 쉽다면 1/1 만큼의 3회 연속 휴식 구간을 사용하는 것이 허용될 수 있습니다.
 - **슬라이더의 속도 조작이 허용되지만**, 다른 속도를 가진 섹션에서만 이루어져야 하며, 속도가 급격하게 변하지 않아야 합니다.
 - **하나 이상의 색상 변화가 있는 1/4 패턴은 가급적 적게 사용해주세요.** 이 난이도를 플레이하는 타깃층이 복잡한 패턴들에 익숙하지 않기 때문에, 이러한 성질의 어려운 패턴들은 피해야 합니다.
 - **3개보다 많은 노트로 이루어진 1/4 패턴의 경우, 패턴의 시작 혹은 끝부분에서만 색상 변경을 해야합니다.** 이것보다 복잡한 패턴은 중수들에게 많이 어려울수 있습니다. 또한 이러한 패턴 다음에는 휴식구간이 와야합니다.
@@ -148,7 +148,7 @@
 - OD 5 이하.
 - HP 5 이상. 노트 갯수에 따라 HP를 5보다 약간 낮은 수치로 조정할 수 있습니다.
 
-### ![](/wiki/shared/diff/insane-t.png) Oni
+### ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 
 #### 규칙
 
@@ -170,7 +170,7 @@
 - OD 5 이상.
 - HP 5 이상. 노트 갯수에 따라 HP를 5보다 약간 낮은 수치로 조정할 수 있습니다.
 
-### ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+### ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 #### 가이드라인
 

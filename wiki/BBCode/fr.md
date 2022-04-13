@@ -241,7 +241,7 @@ L'ID d'une vidéo YouTube se trouve dans l'URL de la vidéo, et est la chaîne d
 
 La balise `[audio]` est utilisée pour intégrer un lecteur audio [HTML5](https://fr.wikipedia.org/wiki/HTML5) provenant d'une source audio en ligne. Les fichiers audio peuvent provenir de n'importe où, tant que le fichier existe à partir d'une URL donnée. Les chemins d'accès aux fichiers locaux (par exemple, `C:\Users\Name\Music\audio.mp3`) **ne fonctionneront pas**.
 
-*Attention : Veuillez noter que tous les services de partage de fichiers n'apprécient pas l'extraction de leurs fichiers audio, en raison des problèmes de piratage de la musique. osu! n'est pas responsable des problèmes de droits d'auteur que les utilisateurs peuvent rencontrer à cet égard.
+*Attention : Veuillez noter que tous les services de partage de fichiers n'apprécient pas l'extraction de leurs fichiers audio, en raison des problèmes de piratage de la musique. osu! n'est pas responsable des problèmes de droits d'auteur que les utilisateurs peuvent rencontrer à cet égard.*
 
 Pour intégrer des fichiers audio par cette méthode, les utilisateurs doivent coller leur URL source (par exemple, `https://www.example.com/example.mp3`) entre les deux balises `[audio]`.
 

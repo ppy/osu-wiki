@@ -2,7 +2,7 @@
 
 *Voir aussi : [Rank (désambiguïsation)](/wiki/Disambiguation/Rank)*
 
-Les [beatmaps](/wiki/Beatmap) peuvent être promues dans la communauté en suivant la procédure de classement des beatmaps et en entrant dans la catégorie [classée](/wiki/Beatmap/Category#ranked).
+Les [beatmaps](/wiki/Beatmap) peuvent être promues dans la communauté en suivant la procédure de classement des beatmaps et en entrant dans la catégorie [classée](/wiki/Beatmap/Category#classée).
 
 ## Commentaires
 

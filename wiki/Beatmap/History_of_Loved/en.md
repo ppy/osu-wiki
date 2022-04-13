@@ -2,7 +2,7 @@
 
 # History of Loved
 
-The [Loved](/wiki/Beatmap/Category#loved) beatmap category is currently managed by [Project Loved](/wiki/Project_Loved). However, this wasn't always the case. Project Loved is the third main system that has promoted beatmaps to Loved; prior to it, there were other methods to do so, as well as long periods of stagnation for the Loved category.
+The [Loved](/wiki/Beatmap/Category#loved) beatmap category is currently managed by [Project Loved](/wiki/Community/Project_Loved). However, this wasn't always the case. Project Loved is the third main system that has promoted beatmaps to Loved; prior to it, there were other methods to do so, as well as long periods of stagnation for the Loved category.
 
 ## Feature request (Feb 2015)
 
@@ -48,7 +48,7 @@ While preparing the round of March 2021, most administrative tasks for Loved tra
 
 ## Present day
 
-[Project Loved](/wiki/Project_Loved) is the current system being used to move maps to Loved. More details and information about how to get beatmaps up for voting in Project Loved can be found in its wiki article.
+[Project Loved](/wiki/Community/Project_Loved) is the current system being used to move maps to Loved. More details and information about how to get beatmaps up for voting in Project Loved can be found in its wiki article.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"

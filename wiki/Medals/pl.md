@@ -75,5 +75,5 @@ Podpowiedź znajduje się w tytule medalu.
 
 ## Źródła
 
-- [Oryginalne paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Legacy_Beatmap_Packs)
+- [Oryginalne paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Legacy_beatmap_packs)
 - [Wątek peppy'ego dot. grafik medali](https://osu.ppy.sh/community/forums/topics/80448).

@@ -16,17 +16,17 @@ The following is a list of players who are recognised to have reached rank #1 in
 
 Over the years, there were three different systems used for ranking players:
 
-- [Ranked Score](/wiki/Score#ranked-score) (6 October 2007 – 24 July 2012)
+- [Ranked Score](/wiki/Gameplay/Score/Ranked_score) (6 October 2007 – 24 July 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (24 July 2012 – 27 January 2014)
 - [ppv2](/wiki/Performance_points) (27 January 2014 – present)
 
-Because of this, this list only includes players who have reached rank #1 on the main leaderboard that was used at the time. *Italicized* dates and numbers indicate that the corresponding player is continuing their reign as the osu!'s rank #1 holder either from the previous year or into the following year.
+Because of this, this list only includes players who have reached rank #1 on the main leaderboard that was used at the time. *Italicised* dates and numbers indicate that the corresponding player is continuing their reign as the osu!'s rank #1 holder either from the previous year or into the following year.
 
 While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the first rank #1 holder, no sources were able to validate this claim.
 
 ## 2007
 
-*Note: During the period where [Ranked Score](/wiki/Score#ranked-score) was used, the rank #1 holder would change frequently, thus the earlier listings may have reduced accuracy. Detailed information can be found on the estimated reconstruction of the Ranked Score global leaderboard, which is available [here](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
+*Note: During the period where [Ranked Score](/wiki/Gameplay/Score/Ranked_score) was used, the rank #1 holder would change frequently, thus the earlier listings may have reduced accuracy. Detailed information can be found on the estimated reconstruction of the Ranked Score global leaderboard, which is available [here](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
@@ -266,7 +266,13 @@ While ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) was assumed to be the fir
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ![][flag_DE] [WhiteCat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | 2021-04-08 | [\[1\]](https://web.archive.org/web/20191006200709/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/whitecat/) [\[3\]](https://web.archive.org/web/20210119102542/https://old.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/) [\[4\]](https://web.archive.org/web/20210203170702if_/https://www.youtube.com/watch?v=Bx4R7lovF-0) |
-| ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | 2021-04-08 | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/) [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
+| ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | 2021-04-08 | *Present* | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/) [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
+
+## 2022
+
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/7562902) [\[3\]](https://ameobea.me/osutrack/user/mrekk/) [\[4\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[5\]](https://osu.ppy.sh/scores/osu/3584256449") [\[6\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[7\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 
 ## Number of reigns
 

@@ -34,7 +34,7 @@ Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_obje
 | 100 | `127 - 3 * OD` |
 | 50 | `188 - 3 * OD` |
 
-If the player hits outside of the 50's hit window, it will count as a miss. In case the hit windows of two objects overlap, the second object will be inaccessible until the first object disappears due to [notelock](/wiki/Gameplay/Notelock).
+If the player hits outside of the 50's hit window, it will count as a miss. In case the hit windows of two objects overlap, the second object will be inaccessible until the first object disappears due to [notelock](/wiki/Gameplay/Judgement/Notelock).
 
 ## Sliders and spinners
 

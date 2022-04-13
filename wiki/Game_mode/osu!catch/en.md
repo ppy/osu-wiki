@@ -58,7 +58,7 @@ Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (
 
 ## Play Styles
 
-*Refer to [Play Style page under osu!catch](/wiki/Play_style#-osu!catch).*
+*Refer to [Play Style page under osu!catch](/wiki/Play_style#osu!catch).*
 
 ## Controls
 
@@ -74,111 +74,13 @@ The placement of in-game cursor does not matter when playing normally. If [Relax
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu!catch Scoring Values section](/wiki/Score#osu!catch).*
+[Score in osu!catch](/wiki/Gameplay/Score/osu!catch) is a weighted sum of multiple components of gameplay. It depends on the following:
 
-Scoring section details all the intricacies of scoring, including mathematical formula.
+- [Judgement](/wiki/Gameplay/Judgement) only provides fixed score values for each caught hit object and does not depend on hit accuracy.
+- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. In osu!catch, combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by missing a large fruit or a drop, which also decreases [health](/wiki/Gameplay/Health).
+- [Accuracy](/wiki/Gameplay/Accuracy#osu!catch) shows how many objects were caught in total. Small droplets decrease accuracy when missed, but do not break combo.
 
-### Grades
-
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100.00% Accuracy |
-| S | 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in *osu!mania*). |
-| A | 94.01% to 98.00% Accuracy |
-| B | 90.01% to 94.00% Accuracy |
-| C | 85.01% to 90.00% Accuracy |
-| D | Any other accuracy under 85.00%. |
-
-A silver S or SS can be obtained by using the *[Hidden](/wiki/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Game_modifier/Flashlight)* mod.
-
-### Accuracy
-
-Accuracy is defined by how much caught over how much missed, excluding spinner's bananas.
-
-In other words: `Accuracy = Total numbers of fruits caught / Total number of fruits`
-
-| Term | Formula |
-| :-: | :-- |
-| **Total numbers of fruits caught** | Droplets + Drops + Fruits |
-| **Total numbers of fruits** | Misses + Miss droplets + Droplets + Drops + Fruits |
-
-**Exception:**
-
-- Note that bananas (or spinner fruit) are considered to be bonus or extra points obtainable and does not count towards accuracy.
-
-Note that if using the API to calculate the accuracy, number of droplets is under **count50** and number of miss droplets is under **countkatu**.
-
-### Score
-
-Scoring for osu!catch follows the same multiplier as in [osu!](/wiki/Game_mode/osu!). However, the fruit that adds up the score is different from osu!.
-
-- A regular sized fruit gives a score of 300 times the multiplier.
-- A large juice drop (slider tick) gives a score of 100.
-- The smallest drop (also called "droplet", or slider trail/path) gives a score of 10.
-- Each collected bananas (collected during spinner duration) will give a static score of 1,100 regardless of mod and combo multiplier.
-
-Combo will not be lost for missing droplets (considered as *Miss Droplet* in server leaderboard) in this mode but a drop of Accuracy and score gain from it.
-
-`Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
-
-| Term | Meaning |
-| :-: | :-- |
-| **Hit Value** | The hit circle judgement (50, 100 or 300), any slider ticks, and spinner's bonus |
-| **Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher |
-| **Difficulty multiplier** | The difficulty setting for the beatmap |
-| **Mod multiplier** | The multiplier of the selected mods |
-
-**Note:** There is a difference between osu! and osu!catch's scoring methods:
-
-- 300s and a combo increment are not given to a finished spinner
-- Reverse slider ticks are counted as a full score of a hit
-  - Note that in osu!, a reverse tick only gives 30 points
-
-### Hit objects judgement
-
-**All except bananas:**
-
-- Full score when collected.
-- Miss when failed.
-
-**Bananas:**
-
-- Constant score of 1,100 per banana collected.
-- Nothing happens for missed bananas.
-
-### Score/Combo Multiplier
-
-**The following each add a point to the score/combo multiplier:**
-
-- Collecting the fruits.
-- Collecting the juice drops.
-
-**The following will reset the score multiplier to zero:**
-
-- Missed the fruits.
-- Missed the juice drops.
-
-**The following will not increase or reset the score multiplier:**
-
-- Collecting the droplets.
-- Collecting the bananas.
-
-## Health bar
-
-The system used to calculate health drain and health gain is complicated so it will not be explained in detail. It all revolves around the HP difficulty setting which can only be set by the mapper itself.
-
-**The following will result in health recovery:**
-
-- Collecting any fruits, juice drops, or bananas.
-
-**The following will result in health loss:**
-
-- Constant life drain.
-- Not collecting any fruits or juice drops.
-
-**The following will reserve health in the health bar:**
-
-- Break time.
+After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!catch), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of missed objects.
 
 ## Skinning
 
@@ -203,7 +105,7 @@ The system used to calculate health drain and health gain is complicated so it w
 - If `Hit-error` was enabled, it will always use `Colour`.
 - The catcher can be moved around during any break.
 - The catcher has a Miss animation, much like osu!taiko pippidon's Miss animation.
-- The first default catcher was a chibified version of Ryuuta Ippongi (from [ouendan series](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) until 2014, which was replaced by current catcher and mascot, [Yuzu](/wiki/Mascots#-yuzu).
+- The first default catcher was a chibified version of Ryuuta Ippongi (from [ouendan series](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) until 2014, which was replaced by current catcher and mascot, [Yuzu](/wiki/Mascots#yuzu).
 - When played by [Auto](/wiki/Game_modifier/Auto), the player name will be *salad!*.
 
 ### History

@@ -58,7 +58,7 @@ For mouse and tablet or any other input device, you may also use your keyboard (
 
 One of the most important factors when playing osu! is your timing, much like other rhythm games! In this sense, if you've listened to a lot of music, it should be fairly easy to pick up on. The goal of accuracy and timing is to tap the notes at the correct time as precisely as possible.
 
-Each object in the game has an approach circle; a large ring that slowly approaches the hit circle itself. When the ring reaches the circle, it's time to tap it! If you pay attention to them carefully, it will help you recognize whether some notes are on half-beats or full beats, or whether you need to wait for the next note.
+Each object in the game has an approach circle; a large ring that slowly approaches the hit circle itself. When the ring reaches the circle, it's time to tap it! If you pay attention to them carefully, it will help you recognise whether some notes are on half-beats or full beats, or whether you need to wait for the next note.
 
 Music works in beats and rhythms. When you start a map (or even before you play) pay attention to the how the song sounds, and you can get a pretty good idea on the melody that you will be hitting circles to. Getting along with the music more closely will help you out in achieving better timing and coordination over it.
 
@@ -86,9 +86,9 @@ Don't be afraid to practise something that always makes you miss for one reason 
 
 *Main page: [How to use the Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
 
-Depending on the devices you use to play osu! with, you may find that the hit circles aren't quite on beat with the music. To correct this, you can change the global offset value in the [Settings](/wiki/Options) menu. Global offset will change when the first note appears on beatmaps (either earlier or later than default), which in turn delays the rest of the notes by the same amount. A negative offset value will make notes appear slightly later, and a positive value will make them appear earlier.
+Depending on the devices you use to play osu! with, you may find that the hit circles aren't quite on beat with the music. To correct this, you can change the global offset value in the [Settings](/wiki/Client/Options) menu. Global offset will change when the first note appears on beatmaps (either earlier or later than default), which in turn delays the rest of the notes by the same amount. A negative offset value will make notes appear slightly later, and a positive value will make them appear earlier.
 
-In the [Offset Wizard](/wiki/Options/Offset_Wizard), which you can access from the [Settings](/wiki/Options) menu, a sample song will play with a metronome beat on top. Adjust the offset gradually using the up/down arrow keys or your mouse wheel until the beats of the metronome match when the bars cross the centre line.
+In the [Offset Wizard](/wiki/Client/Options/Offset_Wizard), which you can access from the [Settings](/wiki/Client/Options) menu, a sample song will play with a metronome beat on top. Adjust the offset gradually using the up/down arrow keys or your mouse wheel until the beats of the metronome match when the bars cross the centre line.
 
 When you are playing a beatmap you will notice the Hit Error graph at the bottom of the screen. Hitting a note causes a white line to appear somewhere along it depending on how accurate you were. If all of your hits are to the left of the centre, try increasing your global offset slightly. If they are all on the right side, try decreasing it.
 
@@ -96,7 +96,7 @@ Adjust your global offset until you are happy with it. Getting the right value w
 
 ### Raw Input
 
-*See also: [Options](/wiki/Options#mouse)*
+*See also: [Options](/wiki/Client/Options#mouse)*
 
 A commonly overlooked feature of the game is the Raw Input function. This allows for direct reading of your input device into osu! itself. You may use this too if you don't like how Windows handles your mouse cursor, or especially recommended if you use a tablet. Give it a try and play a few maps with it, you might find yourself a lot more comfortable with it!
 

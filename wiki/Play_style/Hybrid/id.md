@@ -15,7 +15,7 @@ tags:
 
 *Hybrid* dapat dilakukan dengan berbagai cara:
 
-- Beberapa pemain hybrid menekan [*hit object*](/wiki/Hit_object) dengan menekan antara tombol mereka single-tap (`Z` dan `X` secara default) secara berkala pada beatmap. Sementara juga alternating pada [*stack*](/wiki/Mapping_Techniques/Stack) bila memungkinkan.
+- Beberapa pemain hybrid menekan [*hit object*](/wiki/Hit_object) dengan menekan antara tombol mereka single-tap (`Z` dan `X` secara default) secara berkala pada beatmap. Sementara juga alternating pada [*stack*](/wiki/Mapping_techniques/Stack) bila memungkinkan.
 - Beberapa pemain hybrid menggunakan kombinasi dari alternating dan single-tapping tergantung pada kecepatan sebuah beatmap: beberapa kecepatan lebih mudah untuk detekan dengan singletapping daripada alternating dan banyak pemain hybrid mengakomodasi untuk itu. Kecepatan dimana ini bervariasi dari pemain ke pemain.
 - Beberapa pemain hybrid menggunakan kombinasi dari [*double tapping*](/wiki/Play_style/Double_tapping), *single-tapping*, dan *alternating* dengan sesuka hati. Ini, tentu saja, semua tergantung preferensi pribadi.
 

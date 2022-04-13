@@ -232,11 +232,11 @@ osu!mania est le troisième mode de jeu ajouté à osu!, après osu!taiko et osu
 
 Ce mode est très utilisé dans la plupart des jeux de rythme majeurs. Il demande une bonne coordination main et/ou jambes comme les notes (et leur quantité, calculée avec le BPM et la difficulté) se déplacent sur un tapis-roulant. Le joueur devra appuyer sur la touche correspondant à la note au bon moment. Alors que ce mode de jeu a été originalement créé comme une imitation du style de jeu de *Beatmania*, osu!mania permet de changer le nombre de touches, ainsi que de changer l'orientation du terrain de jeu (cela signifie qu'il peut ressembler à *Guitar Hero* \[5 touches\] ou *Dance Dance Revolution* \[4 touches\] et ainsi de suite).
 
-Lorsque l'on convertit une map qui n'est pas spécifique à osu!mania, le nombre de touches va de 4 à 7.
+Lorsque l'on convertit une beatmap qui n'est pas spécifique à osu!mania, le nombre de touches va de 4 à 7.
 
-Avec le modifieur [xK](/wiki/Game_modifier/xK), le joueur peut manuellement changer le nombre de touches, qui peut aller de 1 à 9, avec une réduction du multiplicateur de score. Cependant, le modifieur ne fonctionnera pas sur les maps spécifiques à osu!mania.
+Avec le modifieur [xK](/wiki/Game_modifier/xK), le joueur peut manuellement changer le nombre de touches, qui peut aller de 1 à 9, avec une réduction du multiplicateur de score. Cependant, le modifieur ne fonctionnera pas sur les beatmaps spécifiques à osu!mania.
 
-Avec le modifieur [Co-Op](/wiki/Game_modifier/Co-op), l'écran sera divisé en deux, et les contrôles Co-Op seront utilisés. Il permet de jouer de 2 à 18 touches, avec une réduction du multiplicateur de score. Puisque le nombre de touches n'est pas doublé sur les maps spécifiques à osu!mania, l'écran sera séparé en deux (la partie gauche aura une touche en plus si impair), utilisera les contrôles Co-Op, et n'aura pas de réduction du multiplicateur de score.
+Avec le modifieur [Co-Op](/wiki/Game_modifier/Co-op), l'écran sera divisé en deux, et les contrôles Co-Op seront utilisés. Il permet de jouer de 2 à 18 touches, avec une réduction du multiplicateur de score. Puisque le nombre de touches n'est pas doublé sur les beatmaps spécifiques à osu!mania, l'écran sera séparé en deux (la partie gauche aura une touche en plus si impair), utilisera les contrôles Co-Op, et n'aura pas de réduction du multiplicateur de score.
 
 #### Explication basique
 
@@ -306,7 +306,7 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 
 ## Notation
 
-*Une explication détaillée des notations peut être trouvée sur la page de chaque mode de jeu ou sur [la page des Scores](/wiki/Score).*
+*Une explication détaillée des notations peut être trouvée sur la page de chaque mode de jeu ou sur [la page des Scores](/wiki/Gameplay/Score).*
 
 *Une explication détaillée des calculs de la précision peut être trouvée sur la page de chaque mode de jeu ou sur [the Accuracy page](/wiki/Gameplay/Accuracy).*
 
@@ -373,7 +373,7 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 
 *Explication complète: [Performance Points](/wiki/Performance_points)*
 
-Les points de performance(pp) est une métrique de classement visant à être plus pertinente par rapport au contexte d'un jeu continuel tel qu'osu!. Elle vise à mettre en valeur les compétences du joueur plutôt que le temps joué. Les points de performance sont énormément basés sur la difficulté de la map, déterminé par un algorithme unique à chaque mode de jeu. Basé sur la difficulté seule, chaque score se verra attribué un classement et un valeur de pp. Le rang de performance est beaucoup basé sur les performances de maps individuelles. Le meilleur moyen de l'améliorer est de faire de bons scores sur des musiques difficiles, et jouer beaucoup de musiques. sachez que les modes de jeu sont séparés; jouer osu!, osu!taiko, osu!catch, ou osu!mania augmentera votre montant de pp pour ce mode de jeu uniquement.
+Les points de performance(pp) est une métrique de classement visant à être plus pertinente par rapport au contexte d'un jeu continuel tel qu'osu!. Elle vise à mettre en valeur les compétences du joueur plutôt que le temps joué. Les points de performance sont énormément basés sur la difficulté de la beatmap, déterminé par un algorithme unique à chaque mode de jeu. Basé sur la difficulté seule, chaque score se verra attribué un classement et un valeur de pp. Le rang de performance est beaucoup basé sur les performances de beatmaps individuelles. Le meilleur moyen de l'améliorer est de faire de bons scores sur des musiques difficiles, et jouer beaucoup de musiques. sachez que les modes de jeu sont séparés; jouer osu!, osu!taiko, osu!catch, ou osu!mania augmentera votre montant de pp pour ce mode de jeu uniquement.
 
 Pour les questions concernant les pp, veuillez d'abord consulter [la page du wiki sur les pp](/wiki/Performance_points).
 
@@ -393,17 +393,17 @@ La page principale, sous le nom *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. N'
 
 **Non**, car, à l'instar des vidéos, c'est un élément de gameplay (au même titre que les hit objects), et ne peut donc pas être désactivé.
 
-#### les maps sont trop difficiles ! Où trouver des maps plus faciles ?
+#### les beatmaps sont trop difficiles ! Où trouver des beatmaps plus faciles ?
 
 Pour osu!, **Pokebis** a compilé des beatmaps pour débutants. Ce peut être trouvé [ici](https://osu.ppy.sh/community/forums/topics/5456).
 
 Pour osu!taiko, **OnosakiHito** a compilé des beatmaps pour apprendre osu!taiko. Ce peut être trouvé [ici](https://osu.ppy.sh/community/forums/topics/175867).
 
-Pour osu!catch, **Kingkevin30** a compilé un super liste de maps osu!catch ainsi que des explications basiques sur osu!catch. Ce peut être trouvé [ici](https://osu.ppy.sh/community/forums/topics/131067).
+Pour osu!catch, **Kingkevin30** a compilé un super liste de beatmaps osu!catch ainsi que des explications basiques sur osu!catch. Ce peut être trouvé [ici](https://osu.ppy.sh/community/forums/topics/131067).
 
-Pour osu!mania, **Entozer** a compilé une liste basée sur la difficulté de chaque map, avec **Drace** fournissant des conseils avancés pour les débutants d'osu!mania. Ces deux listes peuvent être trouvées [ici](https://osu.ppy.sh/community/forums/topics/147552) (guide de beatmaps d'**Entozer**), et [ici](https://osu.ppy.sh/community/forums/topics/146615) (guide de perfectionnement de **Drace**)
+Pour osu!mania, **Entozer** a compilé une liste basée sur la difficulté de chaque beatmap, avec **Drace** fournissant des conseils avancés pour les débutants d'osu!mania. Ces deux listes peuvent être trouvées [ici](https://osu.ppy.sh/community/forums/topics/147552) (guide de beatmaps d'**Entozer**), et [ici](https://osu.ppy.sh/community/forums/topics/146615) (guide de perfectionnement de **Drace**)
 
-Autrement, la barre de recherche du site a une option pour [ranger les beatmaps par difficulté](https://osu.ppy.sh/beatmapsets). Les maps les plus faciles seront tout en haut de la liste.
+Autrement, la barre de recherche du site a une option pour [ranger les beatmaps par difficulté](https://osu.ppy.sh/beatmapsets). Les beatmaps les plus faciles seront tout en haut de la liste.
 
 Enfin, **Rivenation** a fait un projet [avancé de recherche de beatmaps](https://osu.ppy.sh/community/forums/topics/380485) nommé [osu!search](http://osusearch.com/) qui, en plus de proposer les options du site web officiel, permet de définir des prérequis. Cette barre de recherche non officielle peut être trouvée [ici](http://osusearch.com).
 
@@ -411,7 +411,7 @@ Enfin, **Rivenation** a fait un projet [avancé de recherche de beatmaps](https:
 
 **Absolument rien**. Il n'y a aucune différence entre un joueur de niveau 100 et un de niveau 1, mises à part les compétences et l'expérience dans le mode de jeu en question. Il n'y a ni avantages, ni handicaps à avoir un niveau plus/moins élevé (sauf expérience personnelle et matériel utilisé).
 
-Le niveau est basé sur le score total accumulé en ligne, peut importe si la map a été finie ou non. [La formule ici](/wiki/Score).
+Le niveau est basé sur le score total accumulé en ligne, peut importe si la beatmap a été finie ou non. [La formule ici](/wiki/Gameplay/Score).
 
 #### Pourquoi mes statistiques en-jeu sont différentes ?
 
@@ -421,7 +421,7 @@ N'oubliez pas qu'osu! a quatre modes de jeu, vous regardez probablement le mauva
 
 #### Comment changer les touches pour mon mode de jeu ?
 
-**Explication complète: [Options](/wiki/Options)**
+**Explication complète: [Options](/wiki/Client/Options)**
 
 ![Barre des option avec icônes d'accès rapides](/wiki/shared/Options_quickicons.jpg "Icônes rapides des options")
 
@@ -431,7 +431,7 @@ Depuis l'icône *Entrées* dans les *Options* comme mo,tré ci-dessus, sous la s
 
 #### Game over ? Qu'est-ce que j'ai raté ?
 
-*Explication complète: [Replay](/wiki/Replay)*
+*Explication complète: [Replay](/wiki/Gameplay/Replay)*
 
 Après avoir raté une beatmap, appuyer sur la touche `F1` relance un replay de la partie. Le replay se termine quand l'écran noircit, avec le osu!logo au milieu, plutôt que l'écran de game over. Pour revoir le replay encore une fois, maintenez la touche grave/tilde (\`/~) (peut être changé dans les Options; dans *Configurer les touches* dans **Quick Retry (hold briefly)**) out `Ctrl`+`R` pour un moment.
 
@@ -439,7 +439,7 @@ Comme ce n'est pas un écran de replay standard, utilisez `Esc` pour retourner �
 
 #### Est-ce qu'osu! a des raccourcis clavier ?
 
-*Liste complète: [Shortcut key reference](/wiki/Shortcut_key_reference)*
+*Liste complète: [Shortcut key reference](/wiki/Client/Keyboard_shortcuts)*
 
 Appuyer sur la touche `Insert` (pour la configuration par défaut) cachera, mettra en pause (si en partie) et rendra osu! muet dans la barre latérale de *Windows*. Trouvez le *osu!logo* dans la barre latérale *Windows*, et cliquez dessus pour retourner dans osu!, dans l'état dans lequel vous l'avez laissé. Elle est appelée la **Boss key**, et peut être modifiée dans `Configurer les touches` (dans `Options`, sous la section *Clavier*), localisée à la fin de la section *Universal*.
 
@@ -506,7 +506,7 @@ Lorsqu'activé, il utilisera les élémentes de skin du dossier `taiko`, peut im
 
 #### "This beatmap you're trying to submit isn't owned by you!"
 
-*Pour map non-classée seulement.*
+*Pour les beatmaps non-classée seulement.*
 
 ![Exemple de contenu d'un fichier .osu](/wiki/shared/Beatmap_not_owned.png "Exemple du contenu d'un fichier .osu")
 

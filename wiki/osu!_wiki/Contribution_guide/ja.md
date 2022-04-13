@@ -57,7 +57,7 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 編集する方法は大きく2つあります。
 
-- [GitHub Web Interface](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) - オンラインで編集します。一人で編集をするのに適しています。
+- [GitHub Web Interface](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) - オンラインで編集します。一人で編集をするのに適しています。
 - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - ローカルで編集します。これは複数人で編集するのに適しています。（特に画像やファイルを移動したり削除したりするのに適しています。）
 
 *ちなみに: 編集するのにこれらの方法しか使ってはいけないわけではありません。このガイドを短く簡潔にするために、ここでは他のツールについて多くは語りません。他にも上の２つのような働きをするアプリケーションが存在します。*

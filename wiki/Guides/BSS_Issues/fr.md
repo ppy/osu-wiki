@@ -1,9 +1,9 @@
 ---
 tags:
-- I can't submit my own beatmap!
-- beatmap submission system issues
-- Je ne peux pas soumettre ma propre beatmap !
-- problèmes dans le système de soumission d'une beatmap
+  - I can't submit my own beatmap!
+  - beatmap submission system issues
+  - Je ne peux pas soumettre ma propre beatmap !
+  - problèmes dans le système de soumission d'une beatmap
 ---
 
 # Problème avec le BSS
@@ -11,7 +11,7 @@ tags:
 Si le **[Système de Soumission d'une Beatmap](/wiki/Submission)** (***BSS***) ne vous laisse pas soumettre votre propre beatmap car cela vous dit que ce n’est pas votre propre beatmap, procédez comme suit :
 
 1. Allez dans le dossier beatmap.
-   - Vous pouvez y accéder facilement en allant dans `Fichier` puis `Ouvrir le fichier Song` dans l’[éditeur de beatmap](/wiki/Beatmap_Editor).
+   - Vous pouvez y accéder facilement en allant dans `Fichier` puis `Ouvrir le fichier Song` dans l’[éditeur de beatmap](/wiki/Client/Beatmap_editor).
 2. Fermez osu! (pour être sur que ces changements soient bien appliqués).
 3. Ouvrez le fichier de la difficulté `.osu` avec un éditeur de texte brut (ex : Notepad).
 4. Entrez votre nom d’utilisateur pour le `Creator`. (Si votre nom a des espaces, utilisez des espaces).

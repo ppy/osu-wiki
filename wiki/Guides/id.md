@@ -1,50 +1,53 @@
 # Panduan
 
-Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota komunitas osu!. Sebagian besar panduan di bawah ini pada mulanya berasal dari utas-utas pada forum osu! yang kemudian dipindahkan ke osu!wiki.
+Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota komunitas osu!. Sebagian besar panduan di bawah ini pada mulanya berasal dari utas pada forum osu! yang kemudian dipindahkan ke laman wiki.
                                                                 
 ## Beatmapping
 
 *Halaman utama: [Beatmapping](/wiki/Beatmapping)*
 
-- [Menambahkan Custom Hitsound](Adding_Custom_Hitsounds)
-- [Editing Audio](Audio_Editing)
-- [Mengubah Artis/Judul Beatmap](Changing_the_Artist_or_Title)
-- [Mengubah Judul Teks](/wiki/Beatmap/Title_Text#changing-title-text)
-- [Informasi Kolaborasi](Collab_Information)
-- [Mengompresi File](Compressing_Files)
-- [Kustom Hitsound Library](Custom_Hitsound_Library)
-- [Kustom Sample Overrides](Custom_Sample_Overrides)
-- [Mengatur Timing Musik](How_to_Time_Songs)
-- [Teori Musik](Music_Theory)
+- [Panduan menyunting audio](Audio_Editing)
+- [Mengubah judul teks](/wiki/Beatmap/Title_text#mengganti-judul-teks)
+- [Mengompres berkas](Compressing_files)
+- [Daftar hitsound khusus](Custom_Hitsound_Library)
+- [Custom sample overrides](Custom_Sample_Overrides)
+- [Cara mengganti artis atau judul lagu dari sebuah beatmap](Changing_the_Artist_or_Title)
+- [Cara menyelesaikan masalah pada BSS](BSS_Issues)
+- [Informasi kolaborasi](Collab_Information)
+- [Cara memulai proyek beatmap](Starting_a_Beatmap_Project)
+- [Cara mengatur timing musik](How_to_Time_Songs)
+- [Teori musik](/wiki/Music_theory)
 - [Panduan Mapping osu!mania](osu!mania_Mapping_Guide)
-- [Mengatur Offset Pada Ketukan yang Tepat](Setting_the_Offset_on_the_Correct_Beat)
-- [Memulai Proyek Beatmap](Starting_a_Beatmap_Project)
-- [Mengambil Video dari YouTube](Videos_From_Youtube)
+- [Mengatur offset dengan ketukan yang tepat](Setting_the_Offset_on_the_Correct_Beat)
+- [Menambahkan hitsound khusus](Using_custom_hitsounds)
+- [Video dari YouTube](Videos_from_YouTube)
+- [Menentukan timing lagu dengan birama #/8](Timing_Songs_With_8-Signatures)
 
 ## Modding
 
 *Halaman utama: [Modding](/wiki/Modding)*
 
-- [Mendapatkan Mod pada Map Kamu](Getting_Your_Map_Modded)
+- [Cara mendapatkan mod untuk map kamu](Getting_Your_Map_Modded)
+- [Panduan modding untuk mode osu!mania](osu!mania_modding_guide)
 
 ## Permainan
 
-- [Panduan Pemula](Beginner's_Tutorial)
-- [Cara menggunakan Offset Wizard](How_to_Use_the_Offset_Wizard)
-- [Mencari dan Mengunduh Beatmap](Searching_and_Downloading_Beatmaps)
-- [Pembelian Tablet](Tablet_Purchase)
+- [Cara mencari dan mengunduh beatmap](Searching_and_Downloading_Beatmaps)
+- [Cara menggunakan offset wizard](How_to_Use_the_Offset_Wizard)
+- [Panduan untuk membeli tablet](Tablet_Purchase)
+- [Panduan untuk pemula](Beginner's_Tutorial)
 
 ## Membuat skin
 
 *Halaman utama: [Panduan membuat skin dan utas-utas penting](/wiki/Skinning/Guides_and_important_threads)*
 
-- [Memotong Gambar Dengan Latar Belakang Kompleks](Cropping_with_Complex_Backgrounds)
-- [Memotong Gambar Dengan Latar Belakang Sederhana](Cropping_with_Simple_Backgrounds)
-- [Membuat Spinner Tepat Berada di Tengah](Making_Properly_Centered_Spinners)
+- [Memotong gambar dengan latar belakang kompleks](Cropping_with_Complex_Backgrounds)
+- [Memotong gambar dengan latar belakang sederhana](Cropping_with_Simple_Backgrounds)
+- [Membuat skin spinner tepat berada di tengah](Making_Properly_Centred_Spinners)
 
 ## Lainnya
 
 - [Discord Rich Presence](Discord_Rich_Presence)
-- [Siaran Langsung osu!](Livestreaming_osu!)
-- [Masalah Dukungan OpenGL](OpenGL_Support_Issues)
-- [Merekam Permainan osu!](Recording_osu!)
+- [Siaran langsung osu!](Livestreaming_osu!)
+- [Masalah dukungan OpenGL](OpenGL_Support_Issues)
+- [Cara merekam video bermain osu!](Recording_osu!)

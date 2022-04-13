@@ -31,7 +31,7 @@ no_native_review: true
 
 Медали группы **Skill** в настоящее время разделены на три группы: Комбо, место в рейтинге и количество звёзд.
 
-Медали за комбо можно заработать набрав указанное [комбо](/wiki/Glossary/Combo_(score_multiplier)) в режиме osu! и завершив любую песню. Достижение аналогичного комбо-счёта в режимах [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch) или [osu!mania](/wiki/Game_mode/osu!mania) не даст эту медаль.
+Медали за комбо можно заработать набрав указанное [комбо](/wiki/Gameplay/Combo_(score_multiplier)) в режиме osu! и завершив любую песню. Достижение аналогичного комбо-счёта в режимах [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch) или [osu!mania](/wiki/Game_mode/osu!mania) не даст эту медаль.
 
 Для медалей за 1000 и 2000 комбо вам стоит поискать достаточно длинные карты. **Если карта не в категории Рейтинговых или Одобренных, медаль не будет выдана.**
 

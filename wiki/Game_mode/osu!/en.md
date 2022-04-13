@@ -94,156 +94,21 @@ The default controls for osu! are:
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
-If [Relax](/wiki/Game_modifier/Relax) game modifer was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
+If [Relax](/wiki/Game_modifier/Relax) game modifier was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
 
 If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Game_modifier/Spun_Out) mod speed.
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu! Scoring Values section](/wiki/Score#osu).*
+[Score in osu!](/wiki/Gameplay/Score/osu!) is a weighted sum of multiple components of gameplay. It depends on the following:
 
-Scoring section details all the intricacies of scoring, including mathematical formula.
+- [Judgement](/wiki/Gameplay/Judgement/osu!) determines a hit object's base scoring value (300, 100, 50, or 0 in case of a miss). For [hit circles](/wiki/Hit_object/Hit_circle), well-timed key presses are valued more, both in terms of score and accuracy. [Sliders](/wiki/Hit_object/Slider) and [spinners](/wiki/Hit_object/Spinner) don't have hit windows, but will break combo when missed or not cleared properly. Getting a higher judgement also provides a higher [health](/wiki/Gameplay/Health) boost.
+- [Accuracy](/wiki/Gameplay/Accuracy#osu!) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
+- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss or a [slider break](/wiki/Gameplay/Judgement/Slider_break).
 
-### Grades
+When combo is maintained, the total score grows exponentially. Objects closer to the end of the map are worth orders of magnitude more points than the ones in the beginning, which means that a player will lose way more potential score on them in case of mistimed hits. As a result, it's possible and very common for a score with lower accuracy to have a higher amount of points and beat a score with higher accuracy.
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% accuracy |
-| S | Over 90% 300s, less than 1% 50s and no misses |
-| A | Over 80% 300s and no misses **OR** over 90% 300s |
-| B | Over 70% 300s and no misses **OR** over 80% 300s |
-| C | Over 60% 300s |
-| D | Anything else |
-
-A silver S or SS can be obtained by using the *[Hidden](/wiki/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Game_modifier/Flashlight)* mod.
-
-### Accuracy
-
-Accuracy is calculated by weighting the judgement gained on each note by its value and dividing by the maximum possible amount.
-
-In other words: `Accuracy = Total points of hits / (Total number of hits * 300p)`
-
-| Term | Formula |
-| :-: | :-- |
-| **Total points of hits** | `(50s * 50p) + (100s * 100p) + (300s * 300p)` |
-| **Total number of hits** | `Misses + 50s + 100s + 300s` |
-| **s** | Number of |
-| **p** | points |
-
-In other words, each *Miss* counts as 0 points, each *50* counts as 50 points, each *100* as 100 points and each *300* as 300 points.
-
-Add them all together and divide the sum with the number of hits multiplied by 300.
-
-- If only 300s: a result of 1.00, which means 100% accuracy.
-- If only 100s: a result of 0.3333 (i.e. 100/300), which means 33.33% accuracy.
-
-### Score
-
-The score given by each hit circle and end of a slider is calculated with the following formula:
-
-`Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))`
-
-| Term | Meaning |
-| :-: | :-- |
-| **Hit Value** | The hit circle judgement (50, 100 or 300), any slider ticks and spinner's bonus |
-| **Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher |
-| **Difficulty multiplier** | The difficulty setting for the beatmap (see next header) |
-| **Mod multiplier** | The multiplier of the selected mods |
-
-Additionally each slider start, end and repeat tick awards 30 points, each slider middle tick awards 10 points and each spin of a spinner awards 100 points.
-
-Additional bonus of 1,000 points given for each spin of a spinner after the spinner meter is full.
-
-#### How to calculate the Difficulty multiplier
-
-[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup) and [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup) each give a tick on *difficulty point*.
-
-The accumulated *difficulty points* affect the **Difficulty multiplier** as so:
-
-| Difficulty points range | Difficulty multiplier |
-| :-: | :-- |
-| 0 - 5 | 2x multiplier |
-| 6 - 12 | 3x multiplier |
-| 13 - 17 | 4x multiplier |
-| 18 - 24 | 5x multiplier |
-| 25 - 30 | 6x multiplier |
-
-The limited highest is 27 difficulty points with CS7, OD10 and HP10. The limited lowest is 2 difficulty points with CS2, OD0 and HP0.
-
-CS cannot normally go below 2 or above 7 (requires direct modification to the `.osu` file).
-
-Note that game modifiers (like Hard Rock/Easy) will not change the **Difficulty multiplier**. It will only account for original values only.
-
-### Hit objects judgement
-
-**Hit circles:**
-
-- A 300, 100 or 50 given from a normal hit circle depending on how accurately the player tap on it.
-- A miss given if the player do not click on the hit circle at all or click on it way too early.
-
-**Sliders:**
-
-- The judgement for sliders does not depend on the accuracy of the initial hit.
-- Sliders consist of slider ticks, which include the start, end and repeat points of the slider.
-- A 300 given if the player successfully gets all slider ticks, a 100 given if the player gets at least half of them, and a 50 given if the player manages to collect even one of the ticks.
-- Tapping a slider **too early** does not incur a miss but will **reset** the score multiplier to **0**.
-  - Not collecting the slider ticks, shown or otherwise, will not incur a miss, but will **reset** the score multiplier to **0**.
-  - Missing the slider end does not incur a miss but will **not** increment the score multiplier.
-- A miss given if the player collects none of the slider ticks.
-
-**Spinner:**
-
-- A 300, 100 or 50 given depending on the number of spins done compared to the length of the spinner.
-- A miss if the player unable to expand the spinner circle to a satisfactory limit for a 50 to be given.
-  - v1 skin behaviour: A miss if the player unable to fill the meter shown on both sides of the spinner to a satisfactory limit for a 50 to be given.
-
-### Score/Combo Multiplier
-
-**The following each add a point to the score/combo multiplier:**
-
-- A successful tap on the hit circle.
-- A successful tap at the start of a slider.
-- The slider ball collected a slider tick successfully.
-- The slider ball touched the end or a reverse arrow of a slider successfully.
-- A successful completed/semi-completed spinner.
-
-**The following will reset the score multiplier to zero:**
-
-- Missing a hit circle.
-- Tapping a slider start early.
-- Missing a slider start or slider tick.
-- Failed to expand the spinner circle to a satisfactory size.
-  - v1 skin behaviour: Failed to fill up at least half the gauge of a spinner.
-
-**The following will not increase or reset the score multiplier:**
-
-- Missing a slider end (will result in getting Katu or 100/50 Hit).
-- Spinner: 1,000 Bonus
-
-## Health bar
-
-The system used to calculate health drain and health gain is complicated so it will not be explained in detail. It all revolves around the HP difficulty setting which can only be set by the mapper itself.
-
-**The following will result in health recovery:**
-
-- A successful tap on the hit circle (better judgement leads to more health gain; the last hit circle in a colour combo awards more health).
-- A successful tap on a slider start.
-- The slider ball collected a slider tick successfully.
-- The slider ball touched the end or a reverse arrow of a slider successfully (better judgement at the end tick leads to more health gain).
-- Completing a spinner and continuous spinning in the spinner duration (better judgement at the end of the spinner leads to more health gain).
-
-**The following will result in health loss:**
-
-- Constant health drain.
-- Miss was given.
-- Missing a hit circle.
-- Tapping a slider start early.
-- Missing a slider tick, or slider reverse arrow.
-- Failed to complete a spinner for a 50 to be given.
-
-**The following will reserve health in the health bar:**
-
-- Break time.
+After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of 300s, 50s, and misses.
 
 ## Skinning
 
@@ -266,13 +131,13 @@ The system used to calculate health drain and health gain is complicated so it w
 - Changing spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then spin in the correct direction. The spin progress will not be lost during the reorientation (it will not increase instead), and will continue to increase on reverse spin.
 - Not spinning around the centre core of the spinner will **not** be considered as a valid spin.
 - Smoke last longer than default in-game cursor trail. Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
-- Mascot for osu! is [pippi](/wiki/Mascots#-pippi).
+- Mascot for osu! is [pippi](/wiki/Mascots#pippi).
 - When played by [Auto](/wiki/Game_modifier/Auto), the player name will be osu!.
 
 ### History
 
 - Older version of osu! used to emulate some of the elements from the *Ouendan* series before being removed or replaced:
-  - [Combo fire](/wiki/Glossary/Combo_fire) when hitting new combo milestones.
+  - [Combo fire](/wiki/Gameplay/Combo_fire) when hitting new combo milestones.
   - The first version of default skin using v1 skin behaviour, which was *osu!default by peppy* skin, provides an almost identical copy of the *Ouendan* interface.
     - It was replaced by nicer current default skin using v2 skin behaviour.
   - The most notable feature difference between v1 and v2 skin behaviour is the spinner.
@@ -285,4 +150,4 @@ The system used to calculate health drain and health gain is complicated so it w
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 ) , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), or `Brandy - Love Fighter`.
 - Notably, the older folders have their own naming convention (the folder names can only be found in *ancient* beatmap packs) and does not strictly follow the current enforced `{BeatmapSetID} {ArtistName} - {BeatmapName}` format.
-  - Downloading directly from the osu!website beatmaplist does follow the current enforced naming format regardless.
+  - Downloading directly from the osu!website beatmap list does follow the current enforced naming format regardless.

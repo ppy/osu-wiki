@@ -6,7 +6,7 @@ outdated: true
 
 ![BanchoBot's tab.](img/BanchoBot.jpg "BanchoBot's tab.")
 
-IRC 主機 (Chat Server) - BanchoBot [osu! 聊天服務器](/wiki/Internet_Relay_Chat).
+IRC 主機 (Chat Server) - BanchoBot [osu! 聊天服務器](/wiki/Community/Internet_Relay_Chat).
 
 有自己的個人檔案! :D
 

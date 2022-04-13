@@ -74,9 +74,9 @@ Au bout d'un certain temps, lorsque vous arriverez à des difficultés plus diff
 
 ### Pratique
 
-Un autre sujet lourd est le fait qu'osu! est un jeu dont la courbe de difficulté augmente à l'infini, ce qui signifie qu'il n'y a pas de "victoire" dans le jeu. Au contraire, vous devrez vous efforcer de vous améliorer constamment. Au lieu de jouer une map encore et encore, vous devrez éventuellement passer à d'autres maps une fois que vous aurez commencé à surpasser leur difficulté.
+Un autre sujet lourd est le fait qu'osu! est un jeu dont la courbe de difficulté augmente à l'infini, ce qui signifie qu'il n'y a pas de "victoire" dans le jeu. Au contraire, vous devrez vous efforcer de vous améliorer constamment. Au lieu de jouer une beatmap encore et encore, vous devrez éventuellement passer à d'autres beatmaps une fois que vous aurez commencé à surpasser leur difficulté.
 
-La meilleure façon de s'améliorer est de se mettre au défi. La seule façon de vous habituer à des difficultés de plus en plus tenaces est d'explorer au-delà de vos limites. Jouer une map qui vous fait rater plusieurs fois vous donne en fin de compte plus d'expérience de jeu que d'en jouer plusieurs sur lesquelles vous pouvez obtenir un combo complet ou même obtenir un rang SS. Cela fonctionne un peu comme dans un MMORPG : plus l'ennemi est difficile, plus vous obtenez d'expérience pour lui.
+La meilleure façon de s'améliorer est de se mettre au défi. La seule façon de vous habituer à des difficultés de plus en plus tenaces est d'explorer au-delà de vos limites. Jouer une beatmap qui vous fait rater plusieurs fois vous donne en fin de compte plus d'expérience de jeu que d'en jouer plusieurs sur lesquelles vous pouvez obtenir un combo complet ou même obtenir un rang SS. Cela fonctionne un peu comme dans un MMORPG : plus l'ennemi est difficile, plus vous obtenez d'expérience pour lui.
 
 N'ayez pas peur de pratiquer quelque chose qui vous fait toujours rater pour une raison ou une autre. Vous devrez trouver le défi, et voir ce que vous devez faire pour le relever. Avez-vous besoin d'appuyer plus rapidement sur les boutons ? Avez-vous besoin d'un meilleur timing ? Devez-vous être plus précis lorsque vous passez aux notes ? Ce sont toutes des questions que vous pouvez vous poser. Cela vous aidera à trouver votre réponse beaucoup plus rapidement et rendra votre expérience d'autant plus intéressante.
 
@@ -86,9 +86,9 @@ N'ayez pas peur de pratiquer quelque chose qui vous fait toujours rater pour une
 
 *Page principale : [Comment utiliser l'Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
 
-Selon les appareils que vous utilisez pour jouer à osu!, il se peut que les cercles ne soient pas tout à fait en phase avec la musique. Pour corriger cela, vous pouvez modifier la valeur du décalage global dans les [options](/wiki/Options). Le global offset modifie le moment où la première note apparaît sur les beatmaps (plus tôt ou plus tard que la valeur par défaut), ce qui retarde le reste des notes de la même quantité. Une valeur de décalage négative fera apparaître les notes légèrement plus tard, et une valeur positive les fera apparaître plus tôt.
+Selon les appareils que vous utilisez pour jouer à osu!, il se peut que les cercles ne soient pas tout à fait en phase avec la musique. Pour corriger cela, vous pouvez modifier la valeur du décalage global dans les [options](/wiki/Client/Options). Le global offset modifie le moment où la première note apparaît sur les beatmaps (plus tôt ou plus tard que la valeur par défaut), ce qui retarde le reste des notes de la même quantité. Une valeur de décalage négative fera apparaître les notes légèrement plus tard, et une valeur positive les fera apparaître plus tôt.
 
-Dans l'[Offset Wizard](/wiki/Options/Offset_Wizard), auquel vous pouvez accéder à partir des [options](/wiki/Options), une musique sera joué avec un battement d'un métronome sur le dessus. Ajustez le décalage progressivement à l'aide des touches fléchées haut/bas ou de la molette de votre souris jusqu'à ce que les battements du métronome correspondent lorsque les barres traversent la ligne centrale.
+Dans l'[Offset Wizard](/wiki/Client/Options/Offset_Wizard), auquel vous pouvez accéder à partir des [options](/wiki/Client/Options), une musique sera joué avec un battement d'un métronome sur le dessus. Ajustez le décalage progressivement à l'aide des touches fléchées haut/bas ou de la molette de votre souris jusqu'à ce que les battements du métronome correspondent lorsque les barres traversent la ligne centrale.
 
 Lorsque vous jouez une beatmap, vous remarquerez le graphique Hit Error en bas de l'écran. En frappant une note, une ligne blanche apparaît quelque part le long de celle-ci, en fonction de votre précision. Si toutes vos frappes se trouvent à gauche du centre, essayez d'augmenter légèrement votre global offset. S'ils sont tous à droite, essayez de le diminuer.
 
@@ -96,9 +96,9 @@ Ajustez votre global offset jusqu'à ce que vous en soyez satisfait. L'obtention
 
 ### Entrée brute
 
-*Voir également : [Options](/wiki/Options#mouse)*
+*Voir également : [Options](/wiki/Client/Options#pointage)*
 
-Une caractéristique souvent négligée du jeu est la fonction d'entrée brute. Elle permet la lecture directe de votre périphérique d'entrée dans osu! lui-même. Vous pouvez également l'utiliser si vous n'aimez pas la façon dont Windows gère le curseur de votre souris, ou particulièrement recommandé si vous utilisez une tablette. Essayez-la et jouez quelques maps avec elle, vous pourriez vous sentir beaucoup plus à l'aise avec elle !
+Une caractéristique souvent négligée du jeu est la fonction d'entrée brute. Elle permet la lecture directe de votre périphérique d'entrée dans osu! lui-même. Vous pouvez également l'utiliser si vous n'aimez pas la façon dont Windows gère le curseur de votre souris, ou particulièrement recommandé si vous utilisez une tablette. Essayez-la et jouez quelques beatmaps avec elle, vous pourriez vous sentir beaucoup plus à l'aise avec elle !
 
 ### Skins
 
@@ -106,13 +106,13 @@ Une caractéristique souvent négligée du jeu est la fonction d'entrée brute. 
 
 Il y a beaucoup, beaucoup de skins parmi lesquels choisir ; vous pouvez les trouver sur les forums, dans le chat, ou même en demandant aux autres utilisateurs ! Bien qu'ils n'améliorent pas votre jeu, ils peuvent vous aider à vous motiver ou à rendre le jeu plus agréable à regarder. Ou, si vous préférez ne pas avoir beaucoup de HUD, vous pouvez trouver un skin avec une approche minimale. Vous pouvez même trouver des skins créés par des [professionnels](https://osu.ppy.sh/community/forums/topics/87675) et voir ce qui fait le succès de ces skins. Certains skins ont été construits pour faciliter la vue, tandis que d'autres sont excentriques et juste pour le plaisir. Hélas, c'est une autre façon de tirer plus de plaisir d'osu! et de rendre votre expérience en gravissant les échelons un peu plus agréable.
 
-## Maps pour débutants
+## Beatmaps pour débutants
 
-Essayez d'essayer ces maps. Elles sont classées de la plus facile à la plus difficile, alors essayez de descendre la liste à votre propre rythme !
+Essayez d'essayer ces beatmaps. Elles sont classées de la plus facile à la plus difficile, alors essayez de descendre la liste à votre propre rythme !
 
 ### Débutant
 
-Vous pouvez commencer votre aventure avec ces cartes :
+Vous pouvez commencer votre aventure avec ces beatmaps :
 
 - [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/beatmapsets/15901#osu/57281)(0.83 Stars)
 - [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/beatmapsets/16789#osu/67008)(0.99 Stars)
@@ -128,7 +128,7 @@ Vous pouvez commencer votre aventure avec ces cartes :
 
 ### Novice
 
-Après avoir joué un peu, essayez ces maps :
+Après avoir joué un peu, essayez ces beatmaps :
 
 - [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Easy\]](https://osu.ppy.sh/beatmapsets/38872#osu/124348)(1.21 Stars)
 - [goreshit - o'er the flood (grumd) \[Easy\]](https://osu.ppy.sh/beatmapsets/51972#osu/177139)(1.22 Stars)
@@ -149,4 +149,4 @@ Vous voulez vous dépasser et relever un défi ? Essayez ceci :
 
 ## Aller au-delà
 
-Une fois que vous avez épuisé la difficulté des beatmaps répertoriés ici, ne vous arrêtez pas là. Continuez et trouvez des maps d'un niveau de difficulté plus élevé. Essayez même de rechercher des beatmaps en vous basant sur [suggestion de difficulté](https://osu.ppy.sh/beatmapsets?c=recommended), car cela vous aidera à vous faire une idée de ce que vous devez faire ensuite. N'ayez pas peur de demander à d'autres utilisateurs de s'améliorer, car la plupart du temps, ils seront gentils et vous feront part d'une map amusante à jouer qu'ils ont également appréciée, là où leur aventure dans l'osu! world a commencé. Enfin, et c'est le plus important, amusez-vous !
+Une fois que vous avez épuisé la difficulté des beatmaps répertoriés ici, ne vous arrêtez pas là. Continuez et trouvez des beatmaps d'un niveau de difficulté plus élevé. Essayez même de rechercher des beatmaps en vous basant sur [suggestion de difficulté](https://osu.ppy.sh/beatmapsets?c=recommended), car cela vous aidera à vous faire une idée de ce que vous devez faire ensuite. N'ayez pas peur de demander à d'autres utilisateurs de s'améliorer, car la plupart du temps, ils seront gentils et vous feront part d'une beatmap amusante à jouer qu'ils ont également appréciée, là où leur aventure dans l'osu! world a commencé. Enfin, et c'est le plus important, amusez-vous !

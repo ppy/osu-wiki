@@ -8,9 +8,9 @@ Accuracy is a percentile measurement of a player's ability to hit [hit objects](
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_osu.png "Accuracy formula for osu!")
+![Accuracy = (300 \* number of 300s + 100 \* number of 100s + 50 \* number of 50s) / (300 \* (number of 300s + number of 100s + number of 50s + number of misses))](img/accuracy_osu_updated.png "Accuracy formula for osu!")
 
-In osu!, accuracy is calculated by weighting the judgement gained from each hit object by its value and divided by the maximum possible amount.
+In osu!, accuracy is calculated by weighting the [judgement](/wiki/Gameplay/Judgement) gained from each hit object by its value and divided by the maximum possible amount.
 
 Reference for one hit circle:
 
@@ -23,23 +23,40 @@ Reference for one hit circle:
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-![Accuracy = 0.5(number of GOOD + number of GREAT) / (number of BAD + number of GOOD + number of GREAT)](img/accuracy_taiko.png "Accuracy formula for osu!taiko")
+![Accuracy = (number of GREATs + 0.5 \* number of GOODs) / (number of GREATs + number of GOODs + number of misses)](img/accuracy_taiko_updated.png "Accuracy formula for osu!taiko")
 
 In osu!taiko, accuracy is calculated by taking the sum of the note accuracy (how close you were to hitting the note on time) divided by the number of total notes scored thus far. The note accuracies are labelled as a GREAT (良) (counts as 100%), GOOD (可) (counts as 50%) (half), and MISS/BAD (不可) (counts as 0%, which also breaks the combo). Drum rolls and spinners do not influence accuracy.
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![Accuracy = (number of droplets + number of drops + number of fruits) / (number of missed droplets + number of missed drops + number of missed fruits + number of droplets + number of drops + number of fruits)](img/accuracy_catch.png "Accuracy formula for osu!catch")
+![Accuracy = (number of caught fruits + number of caught drops + number of caught droplets) / (number of all fruits + number of all drops + number of all droplets)](img/accuracy_catch_updated.png "Accuracy formula for osu!catch")
 
 In osu!catch, accuracy is calculated by taking the total number of non-spinner hit objects collected, divided by the total number of non-spinner objects. All hit objects have the same value; except for bananas, as they are part of the spinner objects.
 
-*Note for API users: To calculate the accuracy in osu!catch, the number of droplets is under `count50` and the number of missed droplets is under `countkatu`.*
+*Notes for [API](/wiki/osu!api) users:*
+
+- The number of caught drops is returned as `count100`.
+- The number of caught droplets is returned as `count50`.
+- The number of missed fruits *and* drops cumulatively is returned as `countMiss`.
+- The number of missed droplets is returned as `countKatu`.
+- `countGeki` should not be used to calculate the accuracy at all. It is the count of caught combo-ending fruits.
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
+In osu!mania, accuracy is calculated similarly to [osu!](#osu!). However, the weighting of rainbow 300s (also referred to as MAX results) depends on whether ScoreV2 is active.
 
-In osu!mania, accuracy is calculated similarly to [osu!](#-osu!).
+Without ScoreV2 active, rainbow 300s and gold 300s have an equal weight of 300:
+
+![Accuracy = (300 \* (number of MAXs + number of 300s) + 200 \* number of 200s + 100 \* number of 100s + 50 \* number of 50s) / (300 \* (number of MAXs + number of 300s + number of 200s + number of 100s + number of 50s + number of misses))](img/accuracy_mania_updated_score_v1.png "Accuracy formula for osu!mania with ScoreV1")
+
+ScoreV2 increases the weighting of rainbow 300s to 305:
+
+![Accuracy = 305 \* number of MAXs + 300 \* number of 300s + 200 \* number of 200s + 100 \* number of 100s + 50 \* number of 50s) / (305 \* (number of MAXs + number of 300s + number of 200s + number of 100s + number of 50s + number of misses))](img/accuracy_mania_updated_score_v2.png "Accuracy formula for osu!mania with ScoreV2")
+
+*Notes for API users:*
+
+- The number of rainbow 300s is returned as `countGeki`.
+- The number of 200s is returned as `countKatu`.
 
 ## Performance graph
 
@@ -47,7 +64,7 @@ In osu!mania, accuracy is calculated similarly to [osu!](#-osu!).
 
 The performance graph is a chart that displays the player's performance (based on their life bar) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
 
-*Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/Interface#ranking-screen), this information will not be saved.*
+*Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/Client/Interface#results-screen), this information will not be saved.*
 
 ### Accuracy
 

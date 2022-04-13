@@ -2,7 +2,7 @@
 
 The maintainers regularly look after the [issue tracker](https://github.com/ppy/osu-wiki/issues) and review pull requests from contributors. Contrary to other contributors, they can edit pull requests and merge them into the `master` branch of the repository, effectively making the changes public.
 
-If you need help with making a contribution or want a review on your pull request, send a message in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/osu!dev_Discord_server) and a maintainer or another contributor will reply back (all maintainers know English).
+If you need help with making a contribution or want a review on your pull request, send a message in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) and a maintainer or another contributor will reply back (all maintainers know English).
 
 ## The wiki team
 
@@ -22,6 +22,7 @@ If you need help with making a contribution or want a review on your pull reques
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Inactive | French |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Active** | Russian |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | **Active** | Polish |
+| ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **Active** | Finnish, Swedish |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | Inactive | Spanish |
 
 ## The news team
@@ -55,4 +56,5 @@ This list includes maintainers of the MediaWiki setup, which the osu! wiki [used
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -14,7 +14,7 @@ April's contest covered **osu!**, **osu!taiko**, and **osu!catch**. That means w
 
 ## Summary
 
-| User | Mode | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#prizes) |
+| User | Mode | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [- Frontier -](https://osu.ppy.sh/users/4314710) | osu! | Overall winner + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | 3 (⯅3) |
 | [Acylica](https://osu.ppy.sh/users/1943309) | osu! | Runner-up | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | 6 (⯅1) |

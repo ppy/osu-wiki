@@ -97,12 +97,11 @@ The first and only batch of portable osu! install USB sticks (shown below) were 
 
 ## November
 
-[OWC](/wiki/Tournaments#-osu!-world-cup) profile banners were added to the osu!store on 7–8 November 2015 [[37,38]][r].
+[OWC](/wiki/Tournaments#osu!-world-cup) profile banners were added to the osu!store on 7–8 November 2015 [[37,38]][r].
 
 Required email verification for certain account actions began rolling out on 16 November 2015 in response to recent events at the time involving the compromisation of numerous osu! streamers' accounts [[39,40,41]][r]. The following day, [peppy posted to his blog](https://blog.ppy.sh/post/133395614668/20151117), where he initially announced the change in account security:
 
 > It has come to my attention that over the last few days a lot of osu! livestreamers have been hacked. The common link seems to be that they all had active xsplit accounts (which was hacked in 2013, leaking all passwords). This means that the said users were using the same password across twitch, twitter, osu! and more. First and foremost, if you are doing something like this, LEAVE RIGHT NOW AND CHANGE YOUR PASSWORDS. Get a password manager and set one password per service!
->
 > Even though I am confident that osu! was not involved in the leaking of any details, I am making sure further such attempts will not result in osu! accounts being compromised. Starting yesterday I began rolling out email verification for certain account actions. Going forward, we will also be adding email verification to the game client, but this will require a touch more implementation. Expect it in the near future.
 
 — peppy, "20151117" [[39]][r]
@@ -110,19 +109,19 @@ Required email verification for certain account actions began rolling out on 16 
 A few days later (19 November 2015), peppy updated users on the situation in [another blog post](https://blog.ppy.sh/post/133524244723/20151119), in which he elaborated on the situation and kept his stance the same:
 
 > Some updates on account security:
->
+
 > - I am confident that osu! has not been compromised.
 > - All users which were targeted so far have used the same password for 3+ years.
 > - Many used a very simple password, or shared the password across other services.
 > - All users compromised have had at least one other account compromised in the past.
-> 
+
 > Nonetheless, I am still taking further action:
-> 
+
 > - I’ve expanded the list of common passwords, and am forcefully resetting passwords of users which have these.
 > - We are on high alert and ready to help users out which are experiencing troubles.
 > - We’ve made procedures for users which have invalid email addresses so they can recover their account successfully.
 > - Working on adding two-factor support (email for now) to the osu! client. Should surface very soon.
-> 
+
 > We have a lot of accounts to forcefully reset due to weak passwords, and due to limited support staff, will be staggering the “rollout” of these resets over the coming weeks.
 
 — peppy, "20151119" [[40]][r]

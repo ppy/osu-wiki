@@ -1,16 +1,11 @@
----
-no_native_review: true
----
-
 # Mise en forme
 
-*Pour les normes de rédaction, voir : [Critères de style des articles/Rédaction](../Writing)*
-
-*Note : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les niveaux d'exigence.*
+*Pour les normes de rédaction, voir : [Critères de mise en forme d'article/Rédaction](../Writing)*\
+*Note : Cet article utilise [RFC 2119](https://microformats.org/wiki/rfc-2119-fr) pour décrire les niveaux d'exigence.*
 
 ## Locales
 
-Vous trouverez ci-dessous la liste des langues correctement supportées pour le wiki :
+Vous trouverez ci-dessous la liste des langues correctement prises en charge par le wiki :
 
 | Nom du fichier | Nom en Français | Écriture native |
 | :-- | :-- | :-- |
@@ -47,18 +42,6 @@ Vous trouverez ci-dessous la liste des langues correctement supportées pour le 
 | `zh-tw.md` | Chinois traditionnel (Taïwan) | 繁體中文（台灣） |
 
 *Note : Le site web donnera aux lecteurs la version d'un article dans la langue qu'ils ont choisie. Si celle-ci n'est pas disponible, la version anglaise sera donnée.*
-
-### Parité de contenu
-
-Les traductions sont soumises à une stricte parité de contenu avec leur article anglais, ce qui signifie qu'elles doivent avoir le même message, indépendamment de la grammaire et de la syntaxe. Toute modification du sens des traductions doit être accompagnée de modifications équivalentes de l'article anglais.
-
-Dans certains cas, il est permis de différer le contenu :
-
-- Articles rédigés à l'origine dans une langue autre que l'anglais (dans ce cas, l'anglais doit faire office de traduction)
-- Explications de mots anglais qui sont des termes courants dans la communauté d'osu!
-- Liens externes
-- Tags
-- Explications spécifiques aux sous-communautés
 
 ## Page de garde
 
@@ -153,7 +136,7 @@ Les articles de [désambiguïsation](/wiki/Disambiguation) doivent être placés
 
 Les redirections doivent être mises à jour afin que les mots clés ambigus soient redirigés vers l'article de désambiguïsation.
 
-Les articles liés à partir d'un article de désambiguïsation doivent avoir une hatnote [pour d'autres utilisations](#for-other-uses).
+Les articles liés à partir d'un article de désambiguïsation doivent avoir une hatnote [pour d'autres utilisations](#pour-d'autres-utilisations).
 
 ## HTML
 
@@ -232,9 +215,9 @@ Les hatnotes *Voir aussi* suggèrent aux lecteurs d'autres points d'intérêt d'
 Les hatnotes *Pour voir* sont similaires aux hatnotes *Voir aussi*, mais sont généralement plus descriptives et directes. Cette hatnote peut utiliser plus d'un lien si nécessaire. Elles doivent être formatées comme suit :
 
 ```markdown
-*Pour {description}, voir : {article}`*
+*Pour {description}, voir : {article}*
 
-*Pour {description}, voir : {article} et {article}`*
+*Pour {description}, voir : {article} et {article}*
 ```
 
 ### À ne pas confondre avec
@@ -259,7 +242,7 @@ Les hatnotes *Pour d'autres utilisations* sont similaires aux hatnotes *À ne pa
 
 *À ne pas confondre avec [Hatnote](#hatnote).*
 
-Une note doit être placée à l'endroit approprié dans une section, mais doit commencer le paragraphe et utiliser l'italique. Les notes peuvent contenir des caractères gras lorsque cela est approprié, mais ils doivent être limités autant que possible. Les notes doivent être rédigées sous forme de phrases complètes. Ainsi, contrairement à la plupart des [hatnotes](#hatnote), elles doivent utiliser un point (`.`) ou un point d'exclamation (`!`) si nécessaire. Tout ce qui se trouve dans le même paragraphe qu'une note doit également être en italique. Elles doivent être formatées comme suit :
+Une note doit être placée à l'endroit approprié dans une section, mais doit commencer le paragraphe et utiliser l'italique. Les notes peuvent contenir des caractères gras lorsque cela est approprié, mais ils doivent être limités autant que possible. Les notes doivent être rédigées sous forme de phrases complètes. Ainsi, contrairement à la plupart des [hatnotes](#hatnote), les notes doivent utiliser un point (`.`) ou un point d'exclamation (`!`) si nécessaire. Tout ce qui se trouve dans le même paragraphe qu'une note doit également être en italique. Elles doivent être formatées comme suit :
 
 ```markdown
 *Note : {note}.*
@@ -276,11 +259,22 @@ Une note doit être placée à l'endroit approprié dans une section, mais doit 
 - `Attention` doit être utilisé pour avertir le lecteur afin d'éviter des malentendus.
 - `Avertissement` doit être utilisé pour avertir le lecteur que des mesures peuvent être prises à son encontre.
 
+## Mélange de Note et hatnotes
+
+Plusieurs notes et hatnotes peuvent être cumulées si nécessaire. Dans ce cas, ils doivent être empilés sans lignes vides et utiliser des barres obliques inversées de fin de ligne :
+
+```markdown
+*Attention : {attention}.*\
+*Voir également : {article}*
+```
+
+Dans de nombreux cas, il peut être plus judicieux d'intégrer des notes ou des hatnotes dans le texte du paragraphe plutôt que d'en empiler un grand nombre.
+
 ## Mise en valeur
 
 ### Gras
 
-Les caractères gras doivent utiliser des doubles astérisques (`**`).
+Les textes en gras doivent utiliser des doubles astérisques (`**`).
 
 Les paragraphes de tête peuvent mettre en gras la première occurrence du titre de l'article.
 
@@ -288,11 +282,39 @@ Les paragraphes de tête peuvent mettre en gras la première occurrence du titre
 
 Les italiques doivent utiliser des astérisques simples (`*`).
 
-Les noms des œuvres ou des jeux vidéo doivent être en italique. osu! (le jeu) est exempté de cette règle.
-
 La première occurrence d'une abréviation, d'un acronyme ou d'un sigle peut être mise en italique.
 
-L'italique peut également être utilisé pour accenter un ou plusieurs mots ou faciliter la lecture.
+L'italique peut également être utilisé pour accentuer un ou plusieurs mots ou faciliter la lecture.
+
+Les noms des œuvres ou des jeux vidéo doivent être en italique. osu! en est exempt.
+
+Par exemple, lorsque l'on fait référence à des musiques sous le format `{artist} - {title}`, toute la partie est une référence à l'œuvre et doit donc être mise en italique :
+
+```markdown
+*cYsmix - triangles* est l'une des trois musiques d'intro que l'on peut entendre au démarrage du jeu.
+```
+
+Par ailleurs, les noms d'artistes ne sont généralement pas en italique. Cela signifie que dans les références en forme libre, seul le titre doit être mis en italique, car le nom de l'artiste ne fait alors pas partie du nom de l'œuvre :
+
+```markdown
+*Blue Zenith* de xi est une musique réputée dans la communauté d'osu! en raison d'un score célèbre réalisé par un joueur de haut niveau sur une certaine beatmap.
+```
+
+### Accentuation et liens
+
+Les liens apparaissent dans une couleur différente, ce qui le met déjà en valeur et ne nécessitent donc pas de mise en valeur supplémentaire :
+
+```markdown
+[Camellia - OOPARTS](https://cametek.bandcamp.com/track/parts) est un exemple de musique officiellement créée spécifiquement pour osu!, autrement dit un *osu! original*, puisqu'elle a été spécifiquement commandée pour le tiebreaker de l'osu! World Cup 2020.
+```
+
+Cela ne s'applique toutefois pas si l'œuvre référencée n'est pas la seule partie du lien :
+
+```markdown
+[La beatmap de Voltaeyx de *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) a accumulé une popularité considérable en 2018 grâce à ses overlaps de patterns de sliders uniques.
+```
+
+Le type de construction ci-dessus doit être utilisé avec parcimonie, et ne doit pas être utilisé dans des endroits comportant de nombreux liens, tels que des tableaux ou des listes.
 
 ## Rubriques
 
@@ -496,7 +518,7 @@ Voici un exemple de style de référence :
 ```markdown
 [Modificateurs de jeu][lien vers les mods de jeu]
 
-[lien vers les mods de jeu]: /wiki/Game_Modifiers
+[lien vers les mods de jeu]: /wiki/Game_modifier
 ```
 
 ---
@@ -545,7 +567,7 @@ Voici de bons exemples :
 Les liens Wiki qui pointent vers un sous-article doivent inclure le nom du dossier de l'article parent dans le texte du lien. Voir l'exemple suivant :
 
 ```markdown
-*Voir aussi : [Beatmap Editor/Design](/wiki/Beatmap_Editor/Design)*
+*Voir aussi : [Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)*
 ```
 
 ##### Liens de section
@@ -575,7 +597,7 @@ Le texte du lien de l'utilisateur doit être le nom actuel de l'utilisateur.
 Lorsque vous créez un lien vers une difficulté, utilisez ce format pour le texte du lien :
 
 ```
-{artist} - {title} ({creator}) [{difficuty_name}]
+{artist} - {title} ({creator}) [{difficulty_name}]
 ```
 
 Le lien vers une beatmap doit effectivement mener à cette difficulté. Les URL des difficultés de la beatmap doivent être formatées comme suit :
@@ -619,20 +641,38 @@ Il existe deux types de liens d'image : en ligne et de référence. Exemples :
 **Style en ligne :**
 
 ```markdown
-![](/wiki/shared/flag/AU.gif)
+![Couronne en or](/wiki/shared/crown-gold.png "1ère place")
 ```
 
 **Style de référence :**
 
 ```markdown
-![][flag_AU]
+![Couronne en or][GCrown]
 
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[GCrown]: /wiki/shared/crown-gold.png "1ère place"
 ```
 
-Les images doivent utiliser le style de lien en ligne. Les références aux liens de référence doivent être placées en bas de l'article.
+Les images doivent utiliser le style de lien en ligne. Les définitions des liens de référence doivent être placées au bas de l'article.
 
-Les images doivent être placées dans un dossier nommé `img`, situé dans le dossier de l'article. Les images qui sont utilisées dans plusieurs articles doivent être stockées dans le dossier `/wiki/shared/`.
+### Texte alternatif et texte de titre
+
+Le texte figurant dans la première paire de crochets (*texte alternatif*) doit décrire l'image littéralement. Il est utilisé par les lecteurs d'écran ou lorsque le chargement de l'image échoue. Il peut être omis s'il est identique au texte du titre ou si l'image est incluse uniquement à des fins décoratives.
+
+Le texte entre guillemets (*texte du titre*) doit donner un contexte supplémentaire à l'image ou indiquer sa signification. Il s'affiche sous forme d'info-bulle lors du survol de l'image et est utilisé comme légende, le cas échéant. Il ne prend en charge aucun formatage markdown.
+
+### Rendu
+
+Si une image est le seul contenu d'un paragraphe, elle s'affiche comme un bloc centré. Sinon, elle se fond dans le texte en ligne qui l'entoure.
+
+Les images en bloc avec un texte de titre affichent le texte du titre comme une légende sous l'image.
+
+Les images en bloc sont généralement associées au formatage des infobox afin de réduire leur taille initiale et de les faire flotter à côté d'autres contenus :
+
+```markdown
+::: Infobox
+![](img/mod-response.png "Un exemple de réponse à un mod")
+:::
+```
 
 ### Mise en cache des images
 
@@ -662,33 +702,7 @@ Où `<input>` est le nom du fichier à compresser et `<output>` est le nom du fi
 
 Utilisez des traits d'union (`-`) pour espacer les mots. Lorsque vous nommez une image, le nom du fichier doit être significatif ou descriptif mais court.
 
-### Mise en page et positionnement
-
-*Remarque : il n'est actuellement pas possible de faire flotter une image ou de faire en sorte que le texte s'enroule autour d'elle.*
-
-Les images sur le site web seront centrées lorsqu'elles se trouvent sur une seule ligne, par elles-mêmes. Sinon, elles seront placées en ligne avec le paragraphe. L'exemple suivant placera l'image au centre :
-
-```markdown
-L'installation d'osu! est facile. Tout d'abord, téléchargez le programme d'installation depuis la page de téléchargement.
-
-![](img/download-page.jpg)
-
-Localisez ensuite le programme d'installation et exécutez-le.
-```
-
-### Texte alternatif
-
-Les images doivent être accompagnées d'un texte alternatif, sauf si elles ont un but décoratif.
-
-### Légendes
-
-Les images sont légendées sur le site web si elles remplissent ces conditions :
-
-1. L'image est seule.
-2. L'image n'est pas à l'intérieur d'un titre.
-3. L'image a un titre.
-
-Les légendes sont reprises dans le texte du titre, qui doit être en texte clair. Les images avec légendes sont également centrées avec l'image sur le site web.
+Les images doivent être placées dans un dossier nommé `img`, situé dans le dossier de l'article. Les images qui sont utilisées dans plusieurs articles doivent être stockées dans le dossier `/wiki/shared/`.
 
 ### Largeur maximale de l'image
 
@@ -746,10 +760,10 @@ Les icônes de drapeau situées à côté des liens utilisateur doivent être s�
 Les icônes de drapeau utilisent le code à deux lettres (en majuscules) et se terminent par `.gif`. Lorsque vous ajoutez un drapeau en ligne, utilisez ce format :
 
 ```markdown
-![](/wiki/shared/flag/xx.gif)
+![](/wiki/shared/flag/XX.gif)
 ```
 
-Où `xx` est le code pays à deux lettres [ISO 3166-2](https://fr.wikipedia.org/wiki/ISO_3166-1_alpha-2) du drapeau.
+Où `XX` est le code pays à deux lettres [ISO 3166-2](https://fr.wikipedia.org/wiki/ISO_3166-1_alpha-2) du drapeau.
 
 Le nom complet du pays doit être ajouté dans le texte du titre. Le code du pays dans le texte alternatif est facultatif, mais doit être appliqué à toutes les icônes de drapeau dans l'article.
 
@@ -781,7 +795,13 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 
 ## Citations en bloc
 
-Les citations en bloc sont limitées à la citation du texte d'une personne. Elles ne doivent pas être utilisées pour formater le texte.
+Les citations en bloc sont limitées à la citation du texte d'une personne. Elles ne doivent pas être utilisées pour formater le texte. Le nom de la personne citée qui suit la citation doit être précédé d'un tiret (`-`) comme suit :
+
+```markdown
+> profitez du jeu
+
+-rrtyui
+```
 
 ## Ruptures thématiques
 

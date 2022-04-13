@@ -58,7 +58,7 @@ Nếu bạn thắc mắc hay cần giúp đỡ ở bất cứ phần nào, hãy 
 
 Vào lúc này, bạn có hai lựa chọn:
 
-- [Giao diện Web GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) - sửa trực tuyến; đây là lựa chọn tốt nhất khi bạn chỉ sửa một bài viết.
+- [Giao diện Web GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) - sửa trực tuyến; đây là lựa chọn tốt nhất khi bạn chỉ sửa một bài viết.
 - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - sửa cục bộ; đây là lựa chọn tốt nhất để sửa một và/hoặc nhiều bài viết (bao gồm đăng tải, xoá, và di chuyển ảnh cũng như các tệp khác).
 
 *Chú ý: Bạn không bị giới hạn chỉ ở hai lựa chọn trên. Để giữ hướng dẫn này ngắn gọn và đơn giản, chúng tôi sẽ không đi sâu, hoặc không đề cập đến cách sử dụng các công cụ khác. Có nhiều ứng dụng bên thứ ba khác có thể thực hiện tương tự những gì mà Giao diện Web Github và GitHub Desktop có thể làm.*

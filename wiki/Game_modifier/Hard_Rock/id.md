@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-  - hard rock
+  - hardrock
   - mod
   - game modifier
   - HR
@@ -29,7 +29,7 @@ outdated_since: bb68816d3f5cdcce9eaa78788e9fc7b671e1dc93
 
 ## Deskripsi
 
-Mod **Hard Rock** adalah sebuah [game modifier](/wiki/Game_modifier) yang bertujuan untuk meningkatkan aspek-aspek (jika tidak semua) kesulitan dari sebuah [beatmap](/wiki/Beatmap). Mod ini meningkatkan [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) sebesar 30%, dan pengaturan kesulitan lainnya sebesar 40%.
+Mod **Hard Rock** adalah sebuah [game modifier](/wiki/Game_modifier) yang bertujuan untuk meningkatkan aspek-aspek (jika tidak semua) kesulitan dari sebuah [beatmap](/wiki/Beatmap). Mod ini meningkatkan [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size) sebesar 30%, dan pengaturan kesulitan lainnya sebesar 40%.
 
 ### osu!
 
@@ -59,7 +59,7 @@ Dikarenakan kenaikan pada tingkat kesulitan yang lebih besar dibandingkan dengan
 
 *Catatan: Menggunakan mod ini pada mode osu!mania akan menyebabkan sebuah unranked play.*
 
-Pada [osu!mania](/wiki/Game_mode/osu!mania), hanya pengaturan kesulitan penilaian (OD) dan nilai AR yang ditingkatkan. Pengaturan kesulitan lainnya tetap tidak berubah. Posisi peletakkan not-not tidak terpengaruhi.
+Pada [osu!mania](/wiki/Game_mode/osu!mania), hanya [judgement](/wiki/Gameplay/Judgement) overall difficulty (OD) dan nilai AR yang ditingkatkan. Pengaturan kesulitan lainnya tetap tidak berubah. Posisi peletakkan note-note tidak terpengaruhi.
 
 ## Trivia
 

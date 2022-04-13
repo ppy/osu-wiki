@@ -43,10 +43,8 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | 评估，管理 |
-| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | 评估 |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，中文 | 评估 |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | 孟加拉语，部分阿拉伯语 | 评估，构造，管理，沟通 |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | 评估 |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 构造，沟通 |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | 评估，构造，沟通 |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | 构造 |
@@ -59,8 +57,9 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | 德语 | 评估 |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | 粤语，中文 | 评估 |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | 泰语 | 评估 |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | 评估 |
 
 ### osu!catch
 
@@ -68,24 +67,24 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 | 评估，管理 |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | 评估，构造 |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | 韩语 | 评估，沟通 |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | 评估 |
 
 ### osu!mania
 
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语，法语 | 评估 |
+| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | 中文 | 评估 |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | 西班牙语，葡萄牙语，加利西亚语，意大利语，日语 | 评估 |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 评估 |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "比利时"
-[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "阿尔及利亚"
+[flag_CL]: /wiki/shared/flag/CL.gif "智利"
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
 [flag_GB]: /wiki/shared/flag/GB.gif "英国"
 [flag_HK]: /wiki/shared/flag/HK.gif "香港"
-[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
 [flag_PL]: /wiki/shared/flag/PL.gif "波兰"
 [flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
-[flag_TH]: /wiki/shared/flag/TH.gif "泰国"
 [flag_US]: /wiki/shared/flag/US.gif "美国"

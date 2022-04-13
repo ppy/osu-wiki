@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
+---
+
 # Precisión
 
 La precisión es una forma de medir la consistencia de un jugador. Hay tres tipos de precisión que un jugador puede tener. Una de ellas es la precisión del beatmap que depende de los puntajes obtenidos. Otra, es la precisión general del jugador, que se mide a partir de sus mejores puntajes. Y por ultimo, la precisión [pp](/wiki/Performance_points) del jugador, que depende de la precisión del puntaje obtenido.
@@ -8,7 +13,7 @@ La precisión es una forma de medir la consistencia de un jugador. Hay tres tipo
 
 ![Precisión = (50 * número de 50s + 100 * número de 100s + 300 * número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](img/accuracy_osu.png "Formula de precisión para osu!")
 
-En osu!, la precisión se calcula ponderando el criterio con el que se le da a cada nota, multiplicado por su valor y dividido por la cantidad maxima posible.
+En osu!, la precisión se calcula ponderando el [juicio](/wiki/Gameplay/Judgement) obtenido por cada nota, multiplicado por su valor y dividido por la cantidad maxima posible.
 
 Referencias para un círculo de golpe
 
@@ -45,7 +50,7 @@ En osu!mania, la precisión es calculada de forma similar a [osu!](#-osu!).
 
 El Gráfico de rendimiento es un gráfico que muestra el rendimiento del jugador (basado en su barra de vida) en el transcurso de un beatmap (tiempo). Se puede mostrar información adicional al pasar el cursor sobre él.
 
-*Nota: La información adicional solo se puede ver después de reproducir un beatmap o ver una repetición exportada. Después de salir de la [pantalla de resultados](/wiki/Interface#ranking-screen), esta información no se guardará.*
+*Nota: La información adicional solo se puede ver después de reproducir un beatmap o ver una repetición exportada. Después de salir de la [pantalla de resultados](/wiki/Client/Interface#results-screen), esta información no se guardará.*
 
 ### Precisión
 

@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 17fb11cfdf1bc72ce3f85c62bed260d9870c1cc8
 tags:
   - NAT
 ---
@@ -40,17 +42,15 @@ NAT mengawasi kandidat NAT yang memiliki potensi dalam jangka waktu yang lama, d
 
 *Catatan: Semua Nomination Assessment Team berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
 
-Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota NAT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota NAT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#menilai-gambar-anda).
 
 ### osu!
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluasi, moderasi |
-| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluasi |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Mandarin | Evaluasi |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengal, sedikit Arab | Evaluasi, struktural, moderasi, komunikasi |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluasi |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Struktural, komunikasi |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluasi, struktural, komunikasi |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Struktural |
@@ -63,8 +63,9 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Jerman | Evaluasi |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Kanton, Mandarin | Evaluasi |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | Evaluasi |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | Evaluasi |
 
 ### osu!catch
 
@@ -72,24 +73,24 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanyol, Jerman | Evaluasi, moderasi |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Belanda | Evaluasi, struktural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korea | Evaluasi, komunikasi |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | Evaluasi |
 
 ### osu!mania
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arab, Prancis | Evaluasi |
+| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Mandarin | Evaluasi |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanyol, Portugis, Galisia, Italia, Jepang | Evaluasi |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluasi |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Aljazair"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
+[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
 [flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

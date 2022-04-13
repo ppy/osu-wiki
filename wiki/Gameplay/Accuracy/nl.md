@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
 ---
 
 # Nauwkeurigheid
@@ -12,7 +14,7 @@ De nauwkeurigheid is een meting van de consistentie van een speler. Er zijn drie
 
 ![Nauwkeurigheid = (50 \* aantal 50s + 100 \* aantal 100s + 300 \* aantal 300s) / 300(aantal 0s + aantal 50s + aantal 100s + aantal 300s)](img/accuracy_osu.png "Nauwkeurigheidsformule voor osu!")
 
-In osu! wordt nauwkeurigheid berekend door de beoordeling van elk hitobject te wegen en dan te delen door de hoogst mogelijke waarde die behaald kan worden voor dat object.
+In osu! wordt nauwkeurigheid berekend door de [beoordeling](/wiki/Gameplay/Judgement) van elk hitobject te wegen en dan te delen door de hoogst mogelijke waarde die behaald kan worden voor dat object.
 
 Referentie voor één hitcirkel:
 
@@ -49,7 +51,7 @@ Nauwkeurigheid in osu!mania wordt op dezelfde manier berekend als in [osu!](#-os
 
 De prestatiegrafiek is een grafiek die de prestaties van een speler (gebaseerd op hun HP-balk) in de loop van het spel (tijd) weergeeft. Meer info kan worden getoond door de in-game cursor eroverheen te zetten.
 
-*Opmerking: Die extra informatie kan enkel bekeken worden nadat je een beatmap speelde of nadat je een geëxporteerde replay bekijkt. Wanneer je het [resultatenscherm](/wiki/Interface#ranking-screen) verlaat, zal deze informatie niet opgeslagen worden.*
+*Opmerking: Die extra informatie kan enkel bekeken worden nadat je een beatmap speelde of nadat je een geëxporteerde replay bekijkt. Wanneer je het [resultatenscherm](/wiki/Client/Interface#results-screen) verlaat, zal deze informatie niet opgeslagen worden.*
 
 ### Nauwkeurigheid
 

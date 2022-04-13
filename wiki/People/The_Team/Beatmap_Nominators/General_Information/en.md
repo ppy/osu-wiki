@@ -12,7 +12,7 @@ Are you a [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) *(BN)*, 
 
 ## Beatmap Nominator abilities
 
-Nominations and resetting nominations are the evidence of a BN's efforts when checking maps, indicating a map's progress through the ranking proccess. As a BN you have access to these tools and must use them wisely.
+Nominations and resetting nominations are the evidence of a BN's efforts when checking maps, indicating a map's progress through the ranking process. As a BN you have access to these tools and must use them wisely.
 
 ### Nominate
 
@@ -24,7 +24,7 @@ Nominations and resetting nominations are the evidence of a BN's efforts when ch
 
 ![disqualify and reset buttons](img/reset_dq.png)
 
-**This allows you to reset a beatmap's progress in the ranking proccess.** If a beatmap is currently nominated or qualified, you as a nominator are given the ability to reset the beatmaps' nomination(s) by posting an issue using a Problem stamp. If a beatmap is qualified, it can only be disqualified by a full BN. These options are usually used when there is a major or unrankable issue in the beatmap which should be addressed before considering it for ranking.
+**This allows you to reset a beatmap's progress in the ranking process.** If a beatmap is currently nominated or qualified, you as a nominator are given the ability to reset the beatmaps' nomination(s) by posting an issue using a Problem stamp. If a beatmap is qualified, it can only be disqualified by a full BN. These options are usually used when there is a major or unrankable issue in the beatmap which should be addressed before considering it for ranking.
 
 Steps for disqualifying a beatmap:
 
@@ -53,4 +53,4 @@ Any BN can contribute to the moderation of songs and images by either submitting
 
 ### Mock Evaluations
 
-Full BNs may be assigned at random to do mock evaluations on BN Applications alongside the NAT's real ones. They can choose to opt out of this at any time, and doing assigned evaluations is not required. Mock evaluations are primarily used as information for the NAT to evaluate future NAT candidates, though details presented in mock evaluations may be added to applicant feedback on occassion or serve as tiebreakers if the NAT cannot come to a conclusion on their own.
+Full BNs may be assigned at random to do mock evaluations on BN Applications alongside the NAT's real ones. They can choose to opt out of this at any time, and doing assigned evaluations is not required. Mock evaluations are primarily used as information for the NAT to evaluate future NAT candidates, though details presented in mock evaluations may be added to applicant feedback on occasion or serve as tiebreakers if the NAT cannot come to a conclusion on their own.

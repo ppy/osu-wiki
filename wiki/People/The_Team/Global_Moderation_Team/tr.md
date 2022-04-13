@@ -17,7 +17,7 @@ tags:
 ## Rol ve sorumluluklar
 
 ***Not: Uygunsuz davranış sergileyen veya İştirakçi Etik Davranış Kurallarına uymayan bir moderatörü bildirmek için, [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team#support@ppy.sh) iletişime geçin.***\
-*Ayrıca bakınız: [Olumsuz Davranış Bildirme](/wiki/Reporting_Bad_Behaviour)*
+*Ayrıca bakınız: [Olumsuz Davranış Bildirme](/wiki/Reporting_bad_behaviour)*
 
 Küresel Moderasyon Takımı sohbetin ve forumun düzeninden sorumludurlar, ve topluluk içerisindeki etkileşimleri gözetirler. Oyunun moderasyon kısmıyla ilgili konularda onlara danışılmalıdır. Bu konular, aşağıdakilerle sınırlı olmaksızın, şunları içerir:
 
@@ -35,7 +35,7 @@ Küresel Moderasyon Takımı üyesi olmak dikkate değer bir miktar katkıda bul
 Tavır ve davranışlar, aktiflik durumu, [kurallara](/wiki/Rules) uyum, ve sabırlı olmak adaylık için en önemli faktörlerdendir:
 
 1. Diğer kullanıcılara karşı kibar ve saygılı davranarak olumlu tutumunuzu gösterebilirsiniz. Hesabınızı ciddi susturulma cezalarından veya problemlerden uzak tutmak çok önemlidir. 
-2. Oyun içerisindeki aktifliğinizi sohbet veya forum içerisindeki tartışmalara, muhabbetlere katılarak gösterin. Uygunsuz davranışları ve sorunları [rapor sistemiyle rapor edin](/wiki/Reporting_Bad_Behaviour). Soruları cevaplayın, diğerlerinin sorunlarında onlara yardımcı olun. 
+2. Oyun içerisindeki aktifliğinizi sohbet veya forum içerisindeki tartışmalara, muhabbetlere katılarak gösterin. Uygunsuz davranışları ve sorunları [rapor sistemiyle rapor edin](/wiki/Reporting_bad_behaviour). Soruları cevaplayın, diğerlerinin sorunlarında onlara yardımcı olun. 
 3. [Kurallar](/wiki/Rules) ve nasıl uygulandığı hakkında doğru bir anlayışınız olsun. osu! içerisinde neyin kabul edilebilir neyin edilemez konusunda bilginizin olması önemlidir.
 4. Sabırlı olun. GMT sadece birkaç gün boyunca yardım eden kullanıcıları rastgele takıma almaz. GMT’nin kullanıcıları değerlendirmesi – onların kişiliği, hangi konuda yardımcı olabilirler, ne kadar aktifler vs. - biraz zaman alan bir süreçtir. 
 
@@ -57,12 +57,14 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | İsim | Ek diller | Odak alanları |
 | :-- | :-- | :-- |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Almanca | Sohbet moderasyonu |
+| ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | Macarca | Sohbet moderasyonu |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusça | Sohbet moderasyonu |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderasyonu |
 | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | Turnuva yönetimi |
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | Çince, Malay dili | Sohbet moderasyonu |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Sohbet moderasyonu |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | İsveççe, İspanyolca | Sohbet moderasyonu, turnuva yönetimi |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | Sohbet moderasyonu |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Korece, Japonca | Sohbet moderasyonu |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Türkçe | Sohbet moderasyonu |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | İspanyolca | Sohbet moderasyonu, forum moderasyonu |
@@ -88,7 +90,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonca, Çince | Turnuva yönetimi |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Portekizce | Mapping/modding topluluk moderasyonu |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! geliştirme |
-| ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | Rusça | Sohbet moderasyonu |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Rusça | Sohbet moderasyonu |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipince | Sohbet moderasyonu, forum moderasyonu, teknik destek |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Fransızca | Sohbet moderasyonu |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Mapping/modding topluluk moderasyonu |
@@ -100,7 +102,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipince | Sohbet moderasyonu |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Almanca | Turnuva yönetimi |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Fransızca, biraz İspanyolca | Sohbet moderasyonu, forum moderasyonu, mapping/modding topluluk moderasyonu |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Fransızca, biraz İspanyolca | Sohbet moderasyonu |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portekizce | Sohbet moderasyonu |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Kantonca, Çince | Sohbet moderasyonu |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Korece, Japonca | Sohbet moderasyonu |
@@ -126,7 +128,6 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Lehçe | Sohbet moderasyonu |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Sohbet moderasyonu |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Türkçe, Almanca | Sohbet moderasyonu |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Sohbet moderasyonu |
 
 ### Dillere göre moderasyonun gruplandırılması
 
@@ -146,7 +147,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
-| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) |  |
+| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
@@ -155,7 +156,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
 | `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484), ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) |
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
-| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467), ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
+| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467), ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
@@ -176,6 +177,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 [flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HM]: /wiki/shared/flag/HM.gif "Heard Adası ve McDonald Adaları"
+[flag_HU]: /wiki/shared/flag/HU.gif "Macaristan"
 [flag_ID]: /wiki/shared/flag/ID.gif "Endonezya"
 [flag_IT]: /wiki/shared/flag/IT.gif "İtalya"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japonya"

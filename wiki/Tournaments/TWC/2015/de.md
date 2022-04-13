@@ -58,7 +58,7 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 3. Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 4. Wenn kein Schiedsrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 5. Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
-6. Das Benutzen der [visuellen Einstellungen](/wiki/Visual_Settings) ist erlaubt.
+6. Das Benutzen der [visuellen Einstellungen](/wiki/Client/Interface/Visual_settings) ist erlaubt.
 7. Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 8. Wenn ein Spieler die Verbindung verlieren sollte, wird es so gehandhabt, als wäre der Spieler an der Beatmap gescheitert.
 9. Beatmaps können nicht mehrmals in einer Partie gespielt werden, es sei denn, das vorherige Ergebnis derselben Beatmap war nichtig.
@@ -155,10 +155,10 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 4. Die Zeiten der Partien werden vom Turnier Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Der Turnier Management bemüht sich die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
 5. Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Es müssen vom jeweiligen Team mindestens 3 Spieler anwesend sein, ansonsten zählt die Partie als aufgegeben.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australien"
+[flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spanien"
+[flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polen"
+[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"

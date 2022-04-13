@@ -12,7 +12,7 @@ tags:
 
 ![Icône du mod EZ](/wiki/shared/mods/EZ.png "Icône du mod Easy (EZ)")
 
-*Pour d'autres utilisations, voir [Easy (désambiguïsation)](/wiki/Disambiguïsation/Easy).*
+*Pour d'autres utilisations, voir [Easy (désambiguïsation)](/wiki/Disambiguation/Easy).*
 
 *Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*.
 
@@ -33,13 +33,13 @@ tags:
 
 Le mod **Easy** est un [modificateur de jeu](/wiki/Game_modifier) qui allège la difficulté d'une [beatmap](/wiki/Beatmap). Pour ce faire, il divise par deux tous les paramètres de difficulté de la beatmap sélectionnée.
 
-Dans tous les [modes de jeu](/wiki/Game_mode) sauf [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Easy accordera au joueur deux "vies" supplémentaires pendant une partie si la [barre de vie](/wiki/Glossary/Health_bar) tombe à zéro. Si cela se produit, le jeu se met en pause pour remplir lentement la barre de vie jusqu'à environ 80 % et retire une "vie" du compteur de vie du joueur. Aucun son ne sera joué pendant cet effet.
+Dans tous les [modes de jeu](/wiki/Game_mode) sauf [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Easy accordera au joueur deux "vies" supplémentaires pendant une partie si la [barre de vie](/wiki/Client/Interface/Health_bar) tombe à zéro. Si cela se produit, le jeu se met en pause pour remplir lentement la barre de vie jusqu'à environ 80 % et retire une "vie" du compteur de vie du joueur. Aucun son ne sera joué pendant cet effet.
 
 Cet événement de recharge sera signalé au joueur par le son "ready" (`readysound.wav`). Une fois que la barre de vie a fini d'être remplie, le joueur sera signalé à nouveau mais avec le son go (`gosound.wav`). Après quoi, la beatmap reprendra le jeu et laissera le joueur continuer. Si le joueur n'a plus de vies et que la barre de vie est tombée à zéro, le jeu échouera comme d'habitude.
 
 ### osu!
 
-Dans le mode [osu!](wiki/Game_Modes/osu!), le mod Easy diminue le [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), et l'[HP drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) de moitié.
+Dans le mode [osu!](/wiki/Game_mode/osu!), le mod Easy diminue le [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size), l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate), l'[overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty), et l'[HP drain (HP)](/wiki/Client/Beatmap_editor/Song_Setup#taux-de-drain-de-santé) de moitié.
 
 ![Gameplay du mod Easy dans osu!](img/EZ-comparison-osu.jpg "Comparaison entre un jeu normal (gauche) et un jeu avec le mod Easy activé (droite) dans osu!")
 
@@ -53,7 +53,7 @@ Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Easy réduit de moit
 
 *Note : Le nombre de tours nécessaires pour terminer un [spinner](/wiki/Hit_object/Spinner) est réduit à la valeur de l'OD.*
 
-Contrairement aux autres modes de jeu, l'utilisation du mod Easy dans le mode osu!taiko réduit le score requis pour gagner de la santé. Dans ce mode de jeu la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu d'une chanson.
+Contrairement aux autres modes de jeu, l'utilisation du mod Easy dans le mode osu!taiko réduit le score requis pour gagner de la santé. Dans ce mode de jeu la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu d'une musique.
 
 ### osu!catch
 
@@ -70,7 +70,7 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), les effets sont les mêmes 
 ## Le saviez-vous ?
 
 - Lorsque vous regardez un replay où une vie supplémentaire est utilisée, l'animation de recharge de la santé sera ignorée et le replay continuera comme si le joueur jouait avec le mod [No Fail](/wiki/Game_modifier/No_Fail) activé.
-- En mod [Multi](/wiki/Multi), l'effet des "vies" ne fonctionnera pas en mod [Tag Co-op ou Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs)
+- En mod [Multi](/wiki/Gameplay/Multiplayer), l'effet des "vies" ne fonctionnera pas en mod [Tag Co-op ou Tag Team Vs.](/wiki/Gameplay/Multiplayer#tag-coop-tag-team-vs)
 - Le mod Easy annule le mod [Hard Rock](/wiki/Game_modifier/Hard_Rock), et vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

@@ -14,7 +14,7 @@ Los miembros del NAT se distinguen por su nombre de usuario rojo y su título de
 
 **Todos los miembros del Equipo de Evaluación de Nominaciones han jurado respetar [el Código de Conducta de los Colaboradores](/wiki/Contributor_Code_of_Conduct) además de las [Reglas de la Comunidad](/wiki/Rules).**
 
-Si encuentra a algún miembro del Equipo de Evaluación de Nominaciones actuando de manera inapropiada, por favor contacte [abuse@ppy.sh](mailto:abuse@ppy.sh) de inmediato con toda la información posible. Para más detalles, vea [Reportando Abuso](/wiki/Reporting_Bad_Behaviour/Abuse).
+Si encuentra a algún miembro del Equipo de Evaluación de Nominaciones actuando de manera inapropiada, por favor contacte [abuse@ppy.sh](mailto:abuse@ppy.sh) de inmediato con toda la información posible. Para más detalles, vea [Reportando Abuso](/wiki/Reporting_bad_behaviour/Abuse).
 
 ## Responsabilidades
 
@@ -50,10 +50,8 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluación, moderación |
-| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluación |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluación |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalí, algo de árabe | Evaluación, estructural, moderación, comunicación |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluación |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estructural, comunicación |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluación, estructural, comunicación |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estructural |
@@ -66,8 +64,9 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluación |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonés, chino | Evaluación |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tailandés | Evaluación |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | Evaluación |
 
 ### osu!catch
 
@@ -75,24 +74,24 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | Evaluación, moderación |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandés | Evaluación, estructural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Evaluación, comunicación |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | Evaluación |
 
 ### osu!mania
 
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, francés | Evaluación |
+| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chino | Evaluación |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Español, portugués, gallego, italiano, japonés | Evaluación |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluación |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
 [flag_ES]: /wiki/shared/flag/ES.gif "España"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suecia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Tailandia"
 [flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

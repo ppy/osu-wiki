@@ -2,7 +2,7 @@
 
 *Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
 
-1. After [installing](/wiki/Installation) osu! and running it, osu! will prompt you to sign in or register. Assuming that you're here because you need an account, click `Create an account`.
+1. After [installing](/wiki/Client/Installation) osu! and running it, osu! will prompt you to sign in or register. Assuming that you're here because you need an account, click `Create an account`.
 
    ![The in-game registration form](img/ingame-registration.jpg "The registration form")
 
@@ -17,6 +17,6 @@
 
 Don't forget to read the [rules](/wiki/Rules) very carefully!
 
-Once that is done, you are now ready to start your rhythm adventure! You can [add beatmaps](/wiki/Installation#adding-beatmaps) to play, [make a skin](/wiki/Skinning), or [make a beatmap](/wiki/Beatmapping). You could also stop by and say "Hi" in the [Introductions subforum](https://osu.ppy.sh/community/forums/8).
+Once that is done, you are now ready to start your rhythm adventure! You can [add beatmaps](/wiki/Client/Installation#adding-beatmaps) to play, [make a skin](/wiki/Skinning), or [make a beatmap](/wiki/Beatmapping). You could also stop by and say "Hi" in the [Introductions subforum](https://osu.ppy.sh/community/forums/8).
 
-If you need further in-game help, you can ask in the `#help` [Internet Relay Chat](/wiki/Internet_Relay_Chat) (IRC) channel by opening the chat console (press `F8` or `F9` in-game) then type `/join help`. You could also post your question in the [Help subforum](https://osu.ppy.sh/community/forums/5).
+If you need further in-game help, you can ask in the `#help` [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC) channel by opening the chat console (press `F8` or `F9` in-game) then type `/join help`. You could also post your question in the [Help subforum](https://osu.ppy.sh/community/forums/5).

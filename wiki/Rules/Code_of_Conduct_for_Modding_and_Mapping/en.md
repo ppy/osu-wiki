@@ -9,7 +9,7 @@ The **code of conduct for modding and mapping** is a set of rules and guidelines
   - Don't shy away from new mappers and modders—these people are the ones who can benefit the most from your input! Be patient, understanding, and provide as much explanation as possible so that they can learn and improve more quickly
   - If you're new yourself, don't be afraid to say so! This will allow more experienced community members to point you in the right direction. Everyone was new and in your position once!
 - Treat others as you wish to be treated. People are more receptive to kind, helpful suggestions than hostile ones. Try to understand others' point-of-view rather than attack it—nobody likes to feel worthless, incompetent or stupid. If you are a masochist, assume that all others are not.
-- If you wish to comment on or discuss a beatmap, go to that beatmap's [discussion page](/wiki/Beatmap_Discussion)—not social media outlets, or the comment section, as it is unlikely your concerns will be heard by anyone with the power to address them appropriately.
+- If you wish to comment on or discuss a beatmap, go to that beatmap's [discussion page](/wiki/Beatmap_discussion)—not social media outlets, or the comment section, as it is unlikely your concerns will be heard by anyone with the power to address them appropriately.
 - Personal attacks, hateful comments, misplaced joking, derailing the thread and general drama-initiation are not acceptable in any form and **will not be tolerated**.
 
 ## Making a mod post
@@ -50,7 +50,7 @@ Sometimes, a single mod and response isn't enough to bring all parties to agreem
 - Still can't reach an agreement? Ask someone with more experience, such as a member of [BN](/wiki/People/The_Team/Beatmap_Nominators) or [NAT](/wiki/People/The_Team/Nomination_Assessment_Team). Remember they are busy people, however! Should you realise there's a more suitable alternative to something you originally suggested, don't be afraid to put your pride aside - **sometimes being wrong can be far more valuable than being right**.
 - **There is no such things as a "wrong" opinion** - it's up to the mapper and modders to come to an agreement in a civil manner - try to understand alternative points of view rather than attack them, as you never know when it might be useful in the future.
 - If you can't explain something through logic, you will not be able to explain it to them through violence either. Rather than continue a discussion that isn't progressing, walk away and try again with the next modder/mapper.
-- When things look to be getting out of hand, or if the discussion is struggling to stay on topic, [call a moderator](/wiki/Reporting_Bad_Behaviour). Don't contribute to the problem by continuing to post.
+- When things look to be getting out of hand, or if the discussion is struggling to stay on topic, [call a moderator](/wiki/Reporting_bad_behaviour). Don't contribute to the problem by continuing to post.
 
 ## Qualified beatmaps
 

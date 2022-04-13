@@ -12,7 +12,7 @@ Les descriptions des beatmaps [classées](/wiki/Beatmap/Category#classée) compr
 
 ### Images
 
-De nombreuses descriptions de beatmaps contiennent au moins une image (souvent un [GIF](https://fr.wikipedia.org/wiki/Graphics_Interchange_Format) animé) qui est utilisée pour exprimer et illustrer le créateur, la chanson et/ou la beatmap de manière voyante. Elles peuvent également servir de titre ou d'en-tête pour ajouter du style et de la qualité. Pour savoir comment ajouter une image, consultez la [section de l'article BBCode sur les images](/wiki/BBCode#image).
+De nombreuses descriptions de beatmaps contiennent au moins une image (souvent un [GIF](https://fr.wikipedia.org/wiki/Graphics_Interchange_Format) animé) qui est utilisée pour exprimer et illustrer le créateur, la musique et/ou la beatmap de manière voyante. Elles peuvent également servir de titre ou d'en-tête pour ajouter du style et de la qualité. Pour savoir comment ajouter une image, consultez la [section de l'article BBCode sur les images](/wiki/BBCode#images).
 
 ### Sections de difficultés
 

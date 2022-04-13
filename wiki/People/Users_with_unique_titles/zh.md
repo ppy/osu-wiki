@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 9cfb562a5fe6a20f992ba572bdc34366b95c3107
+---
+
 # 拥有特殊头衔的玩家
 
 玩家的头衔通常与 [用户组](/wiki/People/The_Team#用户组) 相关联，但是出于其他原因，为以下列出的用户提供了特殊头衔。大多数头衔是对贡献或成就的奖励，其余则是有标志性或有趣的 osu! 历史的标志。
@@ -141,6 +146,7 @@ osu!remix 大赛将 **osu!mixer** 作为冠军头衔。
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | [Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
 | ![][flag_US] [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) |
+| ![][flag_JP] [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
 | ![][flag_JP] [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ![][flag_RO] [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |

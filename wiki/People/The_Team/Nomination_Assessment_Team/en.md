@@ -5,6 +5,8 @@ tags:
 
 # Nomination Assessment Team
 
+*See also: [Beatmap Nominator evaluations](Evaluations)*
+
 The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) and ensure the beatmapping side of osu! stays functional.
 
 Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), they have site-wide moderation permissions and a dark red username in the game's chat channels.
@@ -17,12 +19,12 @@ Members of the NAT are distinguished by their red username and user title. Like 
 
 The NAT are responsible for a variety of mapping-related tasks that can be separated into four subcategories:
 
-- **Evaluation:** Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. Most NAT members are responsible for contributing to this subcategory.
+- **Evaluation:** Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. Most NAT members are responsible for contributing to this subcategory. For full details on how evaluations work, please see the [evaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) page.
 - **Structural:** Documenting topics surrounding the ranking process, amending rules and guidelines to the [ranking criteria](/wiki/Ranking_Criteria), developing and maintaining related tools and websites.
-- **Moderation:** Handling user reports and assessing inappropriate behavior of Beatmap Nominators. This subcategory is a joint effort between the NAT and the GMT.
+- **Moderation:** Handling user reports and assessing inappropriate behaviour of Beatmap Nominators. This subcategory is a joint effort between the NAT and the GMT.
 - **Communication:** Promoting transparency between the NAT and the mapping/modding community, including the creation and hosting of meetings.
 
-A member of the NAT can engage with any tasks within any subcategory that they choose, despite what their primary responsibilities may be listed as. For example, if a member of the NAT prioritizes the Structural subcategory, they are not responsible for all tasks within the subcategory and they can still help with tasks from any other subcategory.
+A member of the NAT can engage with any tasks within any subcategory that they choose, despite what their primary responsibilities may be listed as. For example, if a member of the NAT prioritises the Structural subcategory, they are not responsible for all tasks within the subcategory and they can still help with tasks from any other subcategory.
 
 In addition to moderation abilities, NAT also possess the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations), [qualify](/wiki/Beatmap_ranking_procedure#qualification), and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps. In this area they are considered largely the same as [full BNs](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators), and all BN rules and expectations besides activity apply to NAT members. NAT members are not expected to nominate maps regularly the way BNs are due to having additional responsibilities in the osu! mapping and modding community.
 
@@ -47,10 +49,8 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, moderation |
-| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, structural, moderation, communication |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluation |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, structural, communication |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
@@ -63,8 +63,9 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | German | Evaluation |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluation |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | Evaluation |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | Evaluation |
 
 ### osu!catch
 
@@ -72,24 +73,26 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, moderation |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation, structural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korean | Evaluation, communication |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | Evaluation |
 
 ### osu!mania
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French | Evaluation |
+| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese | Evaluation |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluation |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
+<!-- last update: 2022-03-08 with the removal of AJT from the NAT-->
+
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

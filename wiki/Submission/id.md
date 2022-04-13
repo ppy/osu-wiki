@@ -1,10 +1,10 @@
 # Submisi Beatmap
 
-[Beatmap](/wiki/Beatmap) dapat diunggah ke situs osu! melalui [in-game editor](/wiki/Beatmap_Editor). Mengunggah sebuah beatmap memberikan sebuah perhatian kepada pengguna lain dan berpotensi dapat mengikuti kategori [Ranked](/wiki/Beatmap/Category#ranked) atau [Loved](/wiki/Beatmap/Category#loved).
+[Beatmap](/wiki/Beatmap) dapat diunggah ke situs osu! melalui [in-game editor](/wiki/Client/Beatmap_editor). Mengunggah sebuah beatmap memberikan sebuah perhatian kepada pengguna lain dan berpotensi dapat mengikuti kategori [Ranked](/wiki/Beatmap/Category#ranked) atau [Loved](/wiki/Beatmap/Category#loved).
 
 ![](img/bss_warning.png "Tampilan Beatmap Submission System")
 
-Memilih `Upload Beatmap...` dari dropdown `File` di editor (shortcut: `Ctrl`+ `Shift` + `U`) akan membuka jendela **Beatmap Submission System** (***BSS***). Ini awalnya membantu pengguna dalam hal mapping, mencari umpan balik untuk beatmap mereka, dan memastikan map mereka sudah siap untuk ranking. Jika kamu mengalami masalah ketika menggunakan BSS, silahkan lihat petunjuk mengenai [masalah BSS](/wiki/Guides/BSS/Issues).
+Memilih `Upload Beatmap...` dari dropdown `File` di editor (shortcut: `Ctrl`+ `Shift` + `U`) akan membuka jendela **Beatmap Submission System** (***BSS***). Ini awalnya membantu pengguna dalam hal mapping, mencari umpan balik untuk beatmap mereka, dan memastikan map mereka sudah siap untuk ranking. Jika kamu mengalami masalah ketika menggunakan BSS, silahkan lihat petunjuk mengenai [masalah BSS](/wiki/Guides/BSS_Issues).
 
 Jika beatmap dari pengguna ketika diunggah tidak ada pada situs osu!, jendela BSS akan memunculkan berapa banyak pengunggahan baru pada pengguna yang dapat dipublikasi. Jika beatmap sudah dinominasi, akan muncul pesan peringatan jika nominasi akan direset ketika melakukan perubahan pada beatmap. Jika beatmap berada pada kategori graveyard, akan muncul pesan peringatan kalau beatmap tersebut akan dipindahkan ke kategori pending beatmap.
 

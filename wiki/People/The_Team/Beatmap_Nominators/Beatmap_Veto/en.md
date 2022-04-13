@@ -37,12 +37,12 @@ Following mediation, the beatmap veto will either be dismissed if the proposed c
 
 **If the beatmap veto is dismissed**, any formally qualified Beatmap Nominator may renominate the beatmap - including the Nominator(s) who initially nominated.
 
-In order to re-initate a mediation which resulted in the dismissal of a veto, a previously uninvolved Beatmap Nominator, or one only involved through jury, can re-initate the mediation with a newly randomly selected jury through vetoing again.
+In order to re-initiate a mediation which resulted in the dismissal of a veto, a previously uninvolved Beatmap Nominator, or one only involved through jury, can re-initiate the mediation with a newly randomly selected jury through vetoing again.
 
 ### Upheld beatmap vetoes
 
 **If the beatmap veto is upheld**, the beatmap may not be re-nominated until appropriate changes are made that remedy the issues present.
 
-In order to re-initate a mediation which resulted in the upholding of a veto, either the vetoer has to change their mind, or members of the jury that upheld has to change their minds to the point where the result of the mediation would have been different. This will re-initate the mediation with a newly randomly selected jury.
+In order to re-initiate a mediation which resulted in the upholding of a veto, either the vetoer has to change their mind, or members of the jury that upheld has to change their minds to the point where the result of the mediation would have been different. This will re-initiate the mediation with a newly randomly selected jury.
 
 Once changes are made to the beatmap, both the Nominator performing the beatmap veto, as well as the jury members upholding it, will be called to recheck the beatmap and decide individually if the issues have been satisfactorily addressed.

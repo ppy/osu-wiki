@@ -1,9 +1,9 @@
----
-no_native_review: true
----
+# osu! Beatmapping World Championship
 
-# osu! Mapping World Cup
+*Auparavant, osu! Mapping World Cup.*
 
-La page d'index de toutes les séries de osu! Mapping World Cup.
+Page d'index pour l'ensemble de la série osu! Beatmapping World Championship series.
 
 - [osu! Mapping World Cup #1](1)
+- [osu! Beatmapping World Championship 2020](2)
+- [osu! Beatmapping World Championship 2021](3)

@@ -26,13 +26,13 @@ The **Mirror** mod is [game modifier](/wiki/Game_modifier) for [osu!mania](/wiki
 
 ![MR gameplay](img/MR-comparison-mania.jpg "Comparison between a regular play (left) vs. a play with the Mirror mod enabled (right) in osu!mania")
 
-The reasoning behind this is that many osu!mania beatmaps are mapped by right-hand-dominant creators, and thus many of the beatmaps patterns are made to be more comfortable to right-hand-dominant osu!mania players. Thus, many left-hand-dominant players—particularly higher-ranking ones—feel that the mirrored note placement caused by the mod allows their left-hand to be utilized more effectively.
+The reasoning behind this is that many osu!mania beatmaps are mapped by right-hand-dominant creators, and thus many of the beatmaps patterns are made to be more comfortable to right-hand-dominant osu!mania players. Thus, many left-hand-dominant players—particularly higher-ranking ones—feel that the mirrored note placement caused by the mod allows their left-hand to be utilised more effectively.
 
 ## Trivia
 
 - The Mirror mod was added in September 2019, in response to a [feature request](https://osu.ppy.sh/community/forums/topics/956618) by user [Kamuy](https://osu.ppy.sh/users/7439226).
-  - At the time of the feature request's posting, there was already a Mirror-like mod that was implemented in [osu!lazer](https://github.com/ppy/osu#osu), but due to the Mirror mod's nature of increasing accessibility, it was added into the Stable release of osu! at the time.
+  - At the time of the feature request's posting, there was already a Mirror-like mod that was implemented in [osu!(lazer)](https://github.com/ppy/osu#osu), but due to the Mirror mod's nature of increasing accessibility, it was added into the Stable release of osu! at the time.
   - The current Mirror mod had actually been requested multiple times, and years before Kamuy's feature request, but Kamuy's was the only post that actually gained enough attention for the mod to actually be added.
-- The Mirror mod is the only game modifier in the "Special" category that affects neither the amount of [performance points (pp)](/wiki/Performance_points) nor [score](/wiki/Score) that a player gains, whilst still being rankable.
+- The Mirror mod is the only game modifier in the "Special" category that affects neither the amount of [performance points (pp)](/wiki/Performance_points) nor [score](/wiki/Gameplay/Score) that a player gains, whilst still being rankable.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

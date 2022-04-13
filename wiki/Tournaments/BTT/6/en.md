@@ -45,8 +45,8 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Co-organiser | ![][flag_FR] [Badeline](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) |
+| Organizer | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Co-organizer | ![][flag_FR] [Badeline](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) |
 | Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_DE] [DrugManager](https://osu.ppy.sh/users/8694649), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
 | Referee | ![][flag_FR] [Badeline](https://osu.ppy.sh/users/4833654), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_CH] [OverKurumi](https://osu.ppy.sh/users/9987378), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316), ![][flag_US] [travis\_ba](https://osu.ppy.sh/users/10822220) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
@@ -109,204 +109,204 @@ The Beginners' Taiko Tournament Season 6 was run by various community members.
 **[Download the mappack here! (92 MB)](https://mega.nz/file/4g921QLB#d2-t3ntlbihBngKUYvT3tE_uVAgdMzgZQ4VTqC1kCP4)**
 
 - NoMod
-  - [Feint - Laurence (ZTH) \[Oni\]](https://osu.ppy.sh/beatmapsets/417759#taiko/945140)
-  - [MYUKKE. - The 89's Momentum (HiroK) \[Oni\]](https://osu.ppy.sh/beatmapsets/1320872#taiko/2868401)
-  - [Frums - Star of the COME ON!! (rubies87) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1036375#taiko/2166945)
-  - [siqlo - YInMn Blue (gaston\_2199) \[Oni\]](https://osu.ppy.sh/beatmapsets/1233593#taiko/2564433)
-  - [Bad Bunny x Jhay Cortez - Dakiti (Gamelan4) \[Euforia\]](https://osu.ppy.sh/beatmapsets/1385512#taiko/2862238)
-  - [Tanchiky - Build (Sayira) \[Destroy\]](https://osu.ppy.sh/beatmapsets/1415637#taiko/2917561)
+  1. [Feint - Laurence (ZTH) \[Oni\]](https://osu.ppy.sh/beatmapsets/417759#taiko/945140)
+  2. [MYUKKE. - The 89's Momentum (HiroK) \[Oni\]](https://osu.ppy.sh/beatmapsets/1320872#taiko/2868401)
+  3. [Frums - Star of the COME ON!! (rubies87) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1036375#taiko/2166945)
+  4. [siqlo - YInMn Blue (gaston\_2199) \[Oni\]](https://osu.ppy.sh/beatmapsets/1233593#taiko/2564433)
+  5. [Bad Bunny x Jhay Cortez - Dakiti (Gamelan4) \[Euforia\]](https://osu.ppy.sh/beatmapsets/1385512#taiko/2862238)
+  6. [Tanchiky - Build (Sayira) \[Destroy\]](https://osu.ppy.sh/beatmapsets/1415637#taiko/2917561)
 - Hidden
-  - [Kanon Wakeshima - Tsukinami (gaston\_2199) \[Oni\]](https://osu.ppy.sh/beatmapsets/556098#taiko/1286354)
-  - [Cranky - LVBNR5 SCHWARZ (Nofool) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/492813#taiko/1049767)
-  - [toby fox - Spider Dance (MARETU Remix) (Serial Dreemurr) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1088142#taiko/2275354)
+  1. [Kanon Wakeshima - Tsukinami (gaston\_2199) \[Oni\]](https://osu.ppy.sh/beatmapsets/556098#taiko/1286354)
+  2. [Cranky - LVBNR5 SCHWARZ (Nofool) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/492813#taiko/1049767)
+  3. [toby fox - Spider Dance (MARETU Remix) (Serial Dreemurr) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1088142#taiko/2275354)
 - HardRock
-  - [Krewella - Surrender The Throne (Lyawi) \[Oni\]](https://osu.ppy.sh/beatmapsets/1062820#taiko/2225599)
-  - [BlackY - IKAROS DYNAMITE!!!! (Vulkin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/537224#taiko/1163529)
-  - [Bring Me The Horizon - ouch (Arrival) \[oni (Capu) (BTT edit)\]](https://osu.ppy.sh/beatmapsets/1415810#taiko/2917823)
+  1. [Krewella - Surrender The Throne (Lyawi) \[Oni\]](https://osu.ppy.sh/beatmapsets/1062820#taiko/2225599)
+  2. [BlackY - IKAROS DYNAMITE!!!! (Vulkin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/537224#taiko/1163529)
+  3. [Bring Me The Horizon - ouch (Arrival) \[oni (Capu) (BTT edit)\]](https://osu.ppy.sh/beatmapsets/1415810#taiko/2917823)
 - DoubleTime
-  - [Sayuri - Sore wa Chiisana Hikari no Youna (Arrival) \[Muzukashii (Nao Tomori) (BTT Edit)\]](https://osu.ppy.sh/beatmapsets/1415820#taiko/2917841)
-  - [ZUN - The Youkai Mountain ~ Mysterious Mountain (BCI) \[Koka's Muzukashii\]](https://osu.ppy.sh/beatmapsets/76048#taiko/216948)
-  - [sakuraburst - dungeon music (iceOC) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056653#taiko/2279001)
+  1. [Sayuri - Sore wa Chiisana Hikari no Youna (Arrival) \[Muzukashii (Nao Tomori) (BTT Edit)\]](https://osu.ppy.sh/beatmapsets/1415820#taiko/2917841)
+  2. [ZUN - The Youkai Mountain ~ Mysterious Mountain (BCI) \[Koka's Muzukashii\]](https://osu.ppy.sh/beatmapsets/76048#taiko/216948)
+  3. [sakuraburst - dungeon music (iceOC) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056653#taiko/2279001)
 - FreeMod
-  - [DECO\*27 - Haruichi. feat. Hatsune Miku (mintong89) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/196049#taiko/464950)
-  - [Camellia - U Got That (Camellia's Neurofunk Bootleg) (rubies87) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1037894#taiko/2177225)
-  - [tarolabo - Miko (Genjuro) \[Dusk's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1100379#taiko/2308255)
+  1. [DECO\*27 - Haruichi. feat. Hatsune Miku (mintong89) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/196049#taiko/464950)
+  2. [Camellia - U Got That (Camellia's Neurofunk Bootleg) (rubies87) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1037894#taiko/2177225)
+  3. [tarolabo - Miko (Genjuro) \[Dusk's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1100379#taiko/2308255)
 - Tiebreaker
-  - **[Camellia feat. Nana Takahashi - Mushi No Sumu Tokoro (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1415803#taiko/2917815)**
+  1. **[Camellia feat. Nana Takahashi - Mushi No Sumu Tokoro (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1415803#taiko/2917815)**
 
 ### Finals
 
 **[Download the mappack here! (84 MB)](https://mega.nz/file/U00wEJ4Q#s-RRtQKSwz8Zhm8cvzJUQBDuRvVkHbBZHU-EY-Y3hn0)**
 
 - NoMod
-  - [Various Artists - BTT 2021 Finals Mappack (Arrival) \[Silent Siren - Routine (yuzu\_\_rinrin) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905175)
-  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (Faputa) \[AHOI\]](https://osu.ppy.sh/beatmapsets/1301977#taiko/2700414)
-  - [Laur - Nostalgic Blood of Strife (sendol) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/968515#taiko/2026573)
-  - [Camellia - {albus} (\_DUSK\_) \[DREAM's Muzukashii\]](https://osu.ppy.sh/beatmapsets/834687#taiko/1860959)
-  - [Swingrowers - Here to Stay (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/1327394#taiko/2749972)
-  - [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? (Nifty) \[Genjuro's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1053885#taiko/2225010)
+  1. [Various Artists - BTT 2021 Finals Mappack (Arrival) \[Silent Siren - Routine (yuzu\_\_rinrin) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905175)
+  2. [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (Faputa) \[AHOI\]](https://osu.ppy.sh/beatmapsets/1301977#taiko/2700414)
+  3. [Laur - Nostalgic Blood of Strife (sendol) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/968515#taiko/2026573)
+  4. [Camellia - {albus} (\_DUSK\_) \[DREAM's Muzukashii\]](https://osu.ppy.sh/beatmapsets/834687#taiko/1860959)
+  5. [Swingrowers - Here to Stay (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/1327394#taiko/2749972)
+  6. [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? (Nifty) \[Genjuro's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1053885#taiko/2225010)
 - Hidden
-  - [Lime - 8bit Voyager (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1326923#taiko/2748993)
-  - [Truxton - SHOTGUN JUGGLE (DarkVortex) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/532587#taiko/1128510)
-  - [Deorro - Red Lips (Jaye) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/697727#taiko/1477915)
+  1. [Lime - 8bit Voyager (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1326923#taiko/2748993)
+  2. [Truxton - SHOTGUN JUGGLE (DarkVortex) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/532587#taiko/1128510)
+  3. [Deorro - Red Lips (Jaye) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/697727#taiko/1477915)
 - HardRock
-  - [Various Artists - BTT 2021 Finals Mappack (Arrival) \[MIMI - Mizuoto to Curtain (eiri-) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905176)
-  - [Memme - Pandemonium (Raiden) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/922918#taiko/2562603)
-  - [Tezuka x Qayo - NiNi (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1048248#taiko/2192545)
+  1. [Various Artists - BTT 2021 Finals Mappack (Arrival) \[MIMI - Mizuoto to Curtain (eiri-) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905176)
+  2. [Memme - Pandemonium (Raiden) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/922918#taiko/2562603)
+  3. [Tezuka x Qayo - NiNi (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1048248#taiko/2192545)
 - DoubleTime
-  - [Various Artists - BTT 2021 Finals Mappack (Arrival) \[Hanazawa Kana - happy endings (Nardoxyribonucleic) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905174)
-  - [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/140418#taiko/351167)
-  - [URBANGARDE - BAERUNA (Faputa) \[MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/1323774#taiko/2781312)
+  1. [Various Artists - BTT 2021 Finals Mappack (Arrival) \[Hanazawa Kana - happy endings (Nardoxyribonucleic) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905174)
+  2. [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/140418#taiko/351167)
+  3. [URBANGARDE - BAERUNA (Faputa) \[MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/1323774#taiko/2781312)
 - FreeMod
-  - [SymaG - Buriki no Dance (\_yu68) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/482486#taiko/1089740)
-  - [Camellia - #1f1e33 (Raytoly) \[#mu2ukash11\]](https://osu.ppy.sh/beatmapsets/1193771#taiko/2494888)
-  - [penoreri - Preserved Valkyria (Nardoxyribonucleic) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/861177#taiko/1829396)
+  1. [SymaG - Buriki no Dance (\_yu68) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/482486#taiko/1089740)
+  2. [Camellia - #1f1e33 (Raytoly) \[#mu2ukash11\]](https://osu.ppy.sh/beatmapsets/1193771#taiko/2494888)
+  3. [penoreri - Preserved Valkyria (Nardoxyribonucleic) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/861177#taiko/1829396)
 - Tiebreaker
-  - **[NIWASHI - Playing with Ruby (Cychloryn) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1328323#taiko/2764682)**
+  1. **[NIWASHI - Playing with Ruby (Cychloryn) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1328323#taiko/2764682)**
 
 ### Semifinals
 
 **[Download the mappack here! (81 MB)](https://mega.nz/file/MgtE0aIQ#EcGPzw5-l2sWmKoU56L87Vl5uI-mNmQ1TORBK01yKyg)**
 
 - NoMod
-  - [Jouhoushori-bu - Setsuna Iro (tamame's EZC remix) (X a v y) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1381626#taiko/2854725)
-  - [q/stol - LOVE THIS MOMENT (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/959704#taiko/2009320)
-  - [FOLiACETATE - Heterochromia Iridis (DakeDekaane) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/432303#taiko/936949)
-  - [Silentroom - F1055 (HiroK) \[Ulqui's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1224716#taiko/2604633)
-  - [Chroma - Made In Love (Nifty) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1016229#taiko/2267976)
+  1. [Jouhoushori-bu - Setsuna Iro (tamame's EZC remix) (X a v y) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1381626#taiko/2854725)
+  2. [q/stol - LOVE THIS MOMENT (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/959704#taiko/2009320)
+  3. [FOLiACETATE - Heterochromia Iridis (DakeDekaane) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/432303#taiko/936949)
+  4. [Silentroom - F1055 (HiroK) \[Ulqui's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1224716#taiko/2604633)
+  5. [Chroma - Made In Love (Nifty) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1016229#taiko/2267976)
 - Hidden
-  - [SOUND HOLIC feat. Nana Takahashi - STARLIGHT JUNCTION (Luqua) \[Roger's MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/1102691#taiko/2312268)
-  - [Various Artists - BTT 2021 SF Mappack (Arrival) \[Rahatt - Brecorr in Macedonia (Genjuro) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1402498#taiko/2893220)
-  - [yuikonnu - Genjitsu Game (Lasse) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/733590#taiko/2229526)
+  1. [SOUND HOLIC feat. Nana Takahashi - STARLIGHT JUNCTION (Luqua) \[Roger's MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/1102691#taiko/2312268)
+  2. [Various Artists - BTT 2021 SF Mappack (Arrival) \[Rahatt - Brecorr in Macedonia (Genjuro) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1402498#taiko/2893220)
+  3. [yuikonnu - Genjitsu Game (Lasse) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/733590#taiko/2229526)
 - HardRock
-  - [Various Artists - BTT 2021 SF Mappack (Arrival) \[AcuticNotes - Axeria (tasuke912) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1402498#taiko/2893219)
-  - [Morimori Atsushi - Mangetsu no Tikurin(MRM REMIX) (Ozu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1082080#taiko/2263550)
-  - [Lime - 8bit Adventurer (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1225007#taiko/2547758)
+  1. [Various Artists - BTT 2021 SF Mappack (Arrival) \[AcuticNotes - Axeria (tasuke912) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1402498#taiko/2893219)
+  2. [Morimori Atsushi - Mangetsu no Tikurin(MRM REMIX) (Ozu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1082080#taiko/2263550)
+  3. [Lime - 8bit Adventurer (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1225007#taiko/2547758)
 - DoubleTime
-  - [Alex Gaudino feat. Crystal Waters - Destination Calabria (Getty) \[Ayyri's Muzukashii\]](https://osu.ppy.sh/beatmapsets/760416#taiko/1601539)
-  - [Zekk - Falling Down feat. Renko x TRIANGLE (Raiden) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1150487#taiko/2411483)
+  1. [Alex Gaudino feat. Crystal Waters - Destination Calabria (Getty) \[Ayyri's Muzukashii\]](https://osu.ppy.sh/beatmapsets/760416#taiko/1601539)
+  2. [Zekk - Falling Down feat. Renko x TRIANGLE (Raiden) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1150487#taiko/2411483)
 - FreeMod
-  - [DJ Fresh feat. Rita Ora - Hot Right Now (Radio Edit) (gaston\_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/575072#taiko/1221606)
-  - [Kicco - Shinryoku no Cinderella (\[R\]) \[Oni\]](https://osu.ppy.sh/beatmapsets/1030360#taiko/2163951)
-  - [ziki\_7 - Leviathan (yassu-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1013884#taiko/2186075)
+  1. [DJ Fresh feat. Rita Ora - Hot Right Now (Radio Edit) (gaston\_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/575072#taiko/1221606)
+  2. [Kicco - Shinryoku no Cinderella (\[R\]) \[Oni\]](https://osu.ppy.sh/beatmapsets/1030360#taiko/2163951)
+  3. [ziki\_7 - Leviathan (yassu-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1013884#taiko/2186075)
 - Tiebreaker
-  - **[Camellia - Bring Our Ignition Back (Arrival) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1133558#taiko/2459407)**
+  1. **[Camellia - Bring Our Ignition Back (Arrival) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1133558#taiko/2459407)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (89 MB)](https://mega.nz/file/FlUVGADS#6rpZmhtJojlQo6WnieDL4_zTwq_5hKe9zCx0qyQnmz8)**
 
 - NoMod
-  - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[m1ng's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/134151#taiko/341042)
-  - [Memme feat. M2U - Sky of the Ocean (Pagliaccio) \[TK'S Muzukashii\]](https://osu.ppy.sh/beatmapsets/131642#taiko/342866)
-  - [TUYU - Doro no Bunzai de Watashi dake no Taisetsu o Ubaouda nante (gaston\_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1316773#taiko/2734138)
-  - [Sota Fujimori - polygon (Fallmorph) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/721297#taiko/1526012)
-  - [TEZUKApo11o band feat. Ranko (BUTAOTOME) + OFFICE Manta (Kabu) - "Youkai Rokku, Wareshi Konikeri." (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1171274#taiko/2450893)
+  1. [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[m1ng's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/134151#taiko/341042)
+  2. [Memme feat. M2U - Sky of the Ocean (Pagliaccio) \[TK'S Muzukashii\]](https://osu.ppy.sh/beatmapsets/131642#taiko/342866)
+  3. [TUYU - Doro no Bunzai de Watashi dake no Taisetsu o Ubaouda nante (gaston\_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1316773#taiko/2734138)
+  4. [Sota Fujimori - polygon (Fallmorph) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/721297#taiko/1526012)
+  5. [TEZUKApo11o band feat. Ranko (BUTAOTOME) + OFFICE Manta (Kabu) - "Youkai Rokku, Wareshi Konikeri." (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1171274#taiko/2450893)
 - Hidden
-  - [nora2r - B.B.K.K.B.K.K (DanSparce) \[Nishizumi's Muzukashii\]](https://osu.ppy.sh/beatmapsets/326284#taiko/726479)
-  - [Akira Complex - Ether Strike (Raytoly) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1170083#taiko/2471176)
+  1. [nora2r - B.B.K.K.B.K.K (DanSparce) \[Nishizumi's Muzukashii\]](https://osu.ppy.sh/beatmapsets/326284#taiko/726479)
+  2. [Akira Complex - Ether Strike (Raytoly) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1170083#taiko/2471176)
 - HardRock
-  - [Various Artists - BTT 2021 QF Mappack (Arrival) \[Agnete Kjolsrud - Get Jinxed (Hanjamon) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880212)
-  - [Various Artists - BTT 2021 QF Mappack (Arrival) \[AAAA Chazuke - Hoshi no Otoshimono (X a v y) [Futsuu (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880211)
+  1. [Various Artists - BTT 2021 QF Mappack (Arrival) \[Agnete Kjolsrud - Get Jinxed (Hanjamon) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880212)
+  2. [Various Artists - BTT 2021 QF Mappack (Arrival) \[AAAA Chazuke - Hoshi no Otoshimono (X a v y) [Futsuu (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880211)
 - DoubleTime
-  - [Various Artists - BTT 2021 QF Mappack (Arrival) \[Eve - Dramaturgy (Ulqui) [Futsuu (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880213)
-  - [UNDEAD CORPORATION - Karakurenai (ASPIRIN) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/709336#taiko/1510938)
+  1. [Various Artists - BTT 2021 QF Mappack (Arrival) \[Eve - Dramaturgy (Ulqui) [Futsuu (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880213)
+  2. [UNDEAD CORPORATION - Karakurenai (ASPIRIN) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/709336#taiko/1510938)
 - FreeMod
-  - [Equilibrium - Rise Again (LZD) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/645370#taiko/1367600)
-  - [RoughSketch - The Omen (Ulqui) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/566671#taiko/1424778)
-  - [rejection - Signal feat. Such (Vanity8) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1249606#taiko/2601909)
+  1. [Equilibrium - Rise Again (LZD) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/645370#taiko/1367600)
+  2. [RoughSketch - The Omen (Ulqui) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/566671#taiko/1424778)
+  3. [rejection - Signal feat. Such (Vanity8) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1249606#taiko/2601909)
 - Tiebreaker
-  - **[THE ORAL CIGARETTES - ReI (Capu) \[Blacken's Muzukashii\]](https://osu.ppy.sh/beatmapsets/987631#taiko/2232573)**
+  1. **[THE ORAL CIGARETTES - ReI (Capu) \[Blacken's Muzukashii\]](https://osu.ppy.sh/beatmapsets/987631#taiko/2232573)**
 
 ### Round of 16
 
 **[Download the mappack here! (61 MB)](https://mega.nz/file/QsdgxLiD#VzO5fdLJjk_Oe7MqC6BVVhFGCzQCRFTPJJIX2ysdrtc)**
 
 - NoMod
-  - [Fear, and Loathing in Las Vegas - Rave-Up Tonight (qoot8123) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/244532#taiko/567838)
-  - [soejima takuma feat. BEMANI Sound Team "Nekomata Master" - Mistress Ann ni Hanataba o (D o t) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1103043#taiko/2305020)
-  - [BEMANI Sound Team "PHQUASE" - voltississimo (Cynplytholowazy) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/1044151#taiko/2183756)
-  - [meganeko - Delete [Bossfight Remix] (gaston\_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1007211#taiko/2107983)
-  - [RoughSketch - 666 (Cynplytholowazy) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/1107042#taiko/2313754)
+  1. [Fear, and Loathing in Las Vegas - Rave-Up Tonight (qoot8123) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/244532#taiko/567838)
+  2. [soejima takuma feat. BEMANI Sound Team "Nekomata Master" - Mistress Ann ni Hanataba o (D o t) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1103043#taiko/2305020)
+  3. [BEMANI Sound Team "PHQUASE" - voltississimo (Cynplytholowazy) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/1044151#taiko/2183756)
+  4. [meganeko - Delete [Bossfight Remix] (gaston\_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1007211#taiko/2107983)
+  5. [RoughSketch - 666 (Cynplytholowazy) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/1107042#taiko/2313754)
 - Hidden
-  - [Various Artists - BTT 2021 RO16 Mappack (Arrival) \[senya - Sasakayu, Kiekaketa Kouisou ga (Prophecy) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868117)
-  - [Rahatt - Mafijas Breakcore (Genjuro) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1164471#taiko/2442083)
+  1. [Various Artists - BTT 2021 RO16 Mappack (Arrival) \[senya - Sasakayu, Kiekaketa Kouisou ga (Prophecy) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868117)
+  2. [Rahatt - Mafijas Breakcore (Genjuro) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1164471#taiko/2442083)
 - HardRock
-  - [Morimori Atsushi vs. uma - Sweet\* Witch\* Girl\* (FiNNb) \[Muzukashii*\]](https://osu.ppy.sh/beatmapsets/1283515#taiko/2668780)
-  - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2244449)
+  1. [Morimori Atsushi vs. uma - Sweet\* Witch\* Girl\* (FiNNb) \[Muzukashii*\]](https://osu.ppy.sh/beatmapsets/1283515#taiko/2668780)
+  2. [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2244449)
 - DoubleTime
-  - [MYLK - Bubblegum (Cynplytholowazy) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2206121)
-  - [Yunomi - Wakusei Rabbit (feat. TORIENA) (Franklin\_DeJavu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/639535#taiko/1357108)
+  1. [MYLK - Bubblegum (Cynplytholowazy) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2206121)
+  2. [Yunomi - Wakusei Rabbit (feat. TORIENA) (Franklin\_DeJavu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/639535#taiko/1357108)
 - FreeMod
-  - [U-F SEQUENCER - The Invisible (Poltergeist mix) (Reficul) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1243362#taiko/2584929)
-  - [Jun Kuroda - Meikyoshisui (Capu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1338121#taiko/2772278)
-  - [Various Artists - BTT 2021 RO16 Mappack (Arrival) \[yanaginagi - Vidro Moyou (mintong89) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868119)
+  1. [U-F SEQUENCER - The Invisible (Poltergeist mix) (Reficul) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1243362#taiko/2584929)
+  2. [Jun Kuroda - Meikyoshisui (Capu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1338121#taiko/2772278)
+  3. [Various Artists - BTT 2021 RO16 Mappack (Arrival) \[yanaginagi - Vidro Moyou (mintong89) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868119)
 - Tiebreaker
-  - **[Various Artists - BTT 2021 RO16 Mappack (Arrival) \[Task Horizon & Neonlight - Enigma Machine (Capu) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868118)**
+  1. **[Various Artists - BTT 2021 RO16 Mappack (Arrival) \[Task Horizon & Neonlight - Enigma Machine (Capu) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868118)**
 
 ### Round of 32
 
 **[Download the mappack here! (74 MB)](https://mega.nz/file/hwlC0aYK#D2iCzvYnzj576mfIgHmzMYFKDh9wKy_1gfVKqscw5Ug)**
 
 - NoMod
-  - [Thaehan - Overpowered (Yales) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/877935#taiko/1840720)
-  - [Akiyama Uni - Kaoru Juyouka (CallMeLyra) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1181321#taiko/2463170)
-  - [Sakamoto Eizo x Takahama Yusuke - UNDEAD HEART (IKARI NO Warriors) (ARGENTINE DREAM) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/781915#taiko/1642074)
-  - [lapix - Roll the Dice (ARGENTINE DREAM) \[MEDIUM\]](https://osu.ppy.sh/beatmapsets/840905#taiko/1760018)
+  1. [Thaehan - Overpowered (Yales) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/877935#taiko/1840720)
+  2. [Akiyama Uni - Kaoru Juyouka (CallMeLyra) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1181321#taiko/2463170)
+  3. [Sakamoto Eizo x Takahama Yusuke - UNDEAD HEART (IKARI NO Warriors) (ARGENTINE DREAM) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/781915#taiko/1642074)
+  4. [lapix - Roll the Dice (ARGENTINE DREAM) \[MEDIUM\]](https://osu.ppy.sh/beatmapsets/840905#taiko/1760018)
 - Hidden
-  - [Silentroom - Alt Futur (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1239033#taiko/2583911)
-  - [Rohi - LvC3 (Hivie) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1176918#taiko/2455956)
+  1. [Silentroom - Alt Futur (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1239033#taiko/2583911)
+  2. [Rohi - LvC3 (Hivie) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1176918#taiko/2455956)
 - HardRock
-  - [Memme - Starving Days (Love) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/157641#taiko/390091)
-  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (L y s) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/812548#taiko/1704322)
+  1. [Memme - Starving Days (Love) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/157641#taiko/390091)
+  2. [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (L y s) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/812548#taiko/1704322)
 - DoubleTime
-  - [SHW - Ikusa JAPAN (shw.in) (kanpakyin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/169969#taiko/411519)
-  - [CLIFF EDGE - Angel feat. Nakamura Maiko (Speed Up Ver.) (Fleure De Lapin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1049007#taiko/2192603)
+  1. [SHW - Ikusa JAPAN (shw.in) (kanpakyin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/169969#taiko/411519)
+  2. [CLIFF EDGE - Angel feat. Nakamura Maiko (Speed Up Ver.) (Fleure De Lapin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1049007#taiko/2192603)
 - FreeMod
-  - [Nekomata Master - Scar in the Earth (Tasha) \[Futsuu\]](https://beatconnect.io/b/59429/DVeqR1Jq)
-  - [xyst - Ylil's overed landscape (SKSalt) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/897948#taiko/1882386)
+  1. [Nekomata Master - Scar in the Earth (Tasha) \[Futsuu\]](https://beatconnect.io/b/59429/DVeqR1Jq)
+  2. [xyst - Ylil's overed landscape (SKSalt) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/897948#taiko/1882386)
 - Tiebreaker
-  - **[hololive IDOL PROJECT - Shiny Smily Story (taiko\_ryuki) \[Ron's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1050045#taiko/2322393)**
+  1. **[hololive IDOL PROJECT - Shiny Smily Story (taiko\_ryuki) \[Ron's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1050045#taiko/2322393)**
 
 ### Group stage
 
 **[Download the mappack here! (52 MB)](https://mega.nz/file/B0UCVZAC#YE-4sS94GSC6kwigXFxLtlsCkqM_VZF4zj14eRbvhS4)**
 
 - NoMod
-  - [HoneyWorks feat. sana - Ijiwaru na Deai (yuzu\_\_rinrin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/635498#taiko/1348547)
-  - [Ryu\* feat.Mayumi Morinaga - Din Don Dan (aabc271) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/467975#taiko/1004401)
-  - [xi - Wish upon Twin Stars (Ascendance) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/353259#taiko/805886)
-  - [cute girls doing cute things - Ideal (Reficul) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1292718#taiko/2682743)
+  1. [HoneyWorks feat. sana - Ijiwaru na Deai (yuzu\_\_rinrin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/635498#taiko/1348547)
+  2. [Ryu\* feat.Mayumi Morinaga - Din Don Dan (aabc271) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/467975#taiko/1004401)
+  3. [xi - Wish upon Twin Stars (Ascendance) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/353259#taiko/805886)
+  4. [cute girls doing cute things - Ideal (Reficul) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1292718#taiko/2682743)
 - Hidden
-  - [Zekk - Libertas (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1001338#taiko/2109511)
-  - [RYO - Shuffle Heaven (Nwolf) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/194109#taiko/461057)
+  1. [Zekk - Libertas (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1001338#taiko/2109511)
+  2. [RYO - Shuffle Heaven (Nwolf) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/194109#taiko/461057)
 - HardRock
-  - [Camellia - Sayonara Heaven (Camellia's NEKOMATAelectroRMX) (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/964453#taiko/2027842)
-  - [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (TKSalt) \[Futsuu\]](https://beatconnect.io/b/108948 )
+  1. [Camellia - Sayonara Heaven (Camellia's NEKOMATAelectroRMX) (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/964453#taiko/2027842)
+  2. [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (TKSalt) \[Futsuu\]](https://beatconnect.io/b/108948 )
 - DoubleTime
-  - [XXXTENTACION - Jocelyn Flores (Chromoxx) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/705133#taiko/1491486)
-  - [Sano Gaku - Rise Up Your Flag (Meow2) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/221626#taiko/555274)
+  1. [XXXTENTACION - Jocelyn Flores (Chromoxx) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/705133#taiko/1491486)
+  2. [Sano Gaku - Rise Up Your Flag (Meow2) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/221626#taiko/555274)
 - FreeMod
-  - [UI-70 - Sakura Sakura \~Japanize Dream... (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/329326#taiko/730048)
-  - [U1 Overground - Dopamine (\[\_Chichinya\_\]) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/804423#taiko/1688629)
+  1. [UI-70 - Sakura Sakura \~Japanize Dream... (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/329326#taiko/730048)
+  2. [U1 Overground - Dopamine (\[\_Chichinya\_\]) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/804423#taiko/1688629)
 - Tiebreaker
-  - **[UNDEAD CORPORATION - The Empress (Raiden) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/452051#taiko/2504589)**
+  1. **[UNDEAD CORPORATION - The Empress (Raiden) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/452051#taiko/2504589)**
 
 ### Qualifiers
 
 **[Download the mappack here! (27 MB)](https://mega.nz/file/os0gBYIT#6DLmTb5qI14SenROILgf4oq5wQF8HHC3b5Mo3mHBULM)**
 
 - NoMod
-  - [Mrs. GREEN APPLE - Inferno (Volta) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1146346#taiko/2395137)
-  - [The Super Mario Players feat. Kate Davis - Jump Up, Super Star! (Short ver.) (maziari1105) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/710971#taiko/1505875)
+  1. [Mrs. GREEN APPLE - Inferno (Volta) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1146346#taiko/2395137)
+  2. [The Super Mario Players feat. Kate Davis - Jump Up, Super Star! (Short ver.) (maziari1105) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/710971#taiko/1505875)
 - Hidden
-  - [dark cat - hot chocolate (Backfire) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/847576#taiko/1863457)
+  1. [dark cat - hot chocolate (Backfire) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/847576#taiko/1863457)
 - HardRock
-  - [Akiyama Uni - Kanpan Tasogare Shinbun (Yumyum-) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/748983#taiko/1580170)
+  1. [Akiyama Uni - Kanpan Tasogare Shinbun (Yumyum-) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/748983#taiko/1580170)
 - DoubleTime
-  - [Rin - Kishinjou set 01 ~ Mist Lake (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/948844#taiko/1981515)
+  1. [Rin - Kishinjou set 01 ~ Mist Lake (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/948844#taiko/1981515)
 - FreeMod
-  - [Hommarju - BEAST BASS BOMB (Tofu1222) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/855722#taiko/1802776)
+  1. [Hommarju - BEAST BASS BOMB (Tofu1222) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/855722#taiko/1802776)
 
 ## Match results
 
@@ -688,7 +688,7 @@ Sunday, 21 February 2021:
 1. This tournament will use double-elimination bracket and single-player 1v1 format. There are no teams here.
 2. The Scoring system used will be **ScoreV2**.
 3. The mapset will be announced every Sunday. More details are in stated in the [Mappool regulations](#mappool-regulations).
-4. Match schedule is decided by the organiser. Participants may feel free to ask for a reschedule their schedule doesn't work for them. Each stage of this tournament will last a weekend (except for Group Stage).
+4. Match schedule is decided by the organizer. Participants may feel free to ask for a reschedule their schedule doesn't work for them. Each stage of this tournament will last a weekend (except for Group Stage).
 5. If there is no referee available, the match can be postponed.
 6. If both participants on a tie condition with no maps available left, the Tiebreaker bracket will be played.
 7. If a participant disconnects from the game, the opponent wins the round. The only exception is if the participant disconnects during the first ten seconds of the song, in which the round is restarted (any abuse of this rule will be sanctionned).
@@ -733,8 +733,8 @@ Sunday, 21 February 2021:
 
 1. Every stage is held during the week-ends to let participants prepare and practice.
 2. Matches are allowed to overlap if referees are available.
-3. Participants must compete on the match at the given time by organiser.
-4. However if both participants can come up with a better time than what the organiser had scheduled, please inform the organiser. They will change their match time if it has been informed before the Thursday of the running week-end.
+3. Participants must compete on the match at the given time by organizer.
+4. However if both participants can come up with a better time than what the organizer had scheduled, please inform the organizer. They will change their match time if it has been informed before the Thursday of the running week-end.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

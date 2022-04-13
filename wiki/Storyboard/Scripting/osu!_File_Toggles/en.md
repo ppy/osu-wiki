@@ -2,7 +2,7 @@
 
 *See also: [skin.ini](/wiki/Skinning/skin.ini)*
 
-The following are toggles that can be added to .osu (and in some cases, .osb files) to affect [skinning](/wiki/Skinning) / [storyboarding](/wiki/Storyboard). Those that are added/removed by the [Beatmap Editor](/wiki/Beatmap_Editor) can also be included.
+The following are toggles that can be added to .osu (and in some cases, .osb files) to affect [skinning](/wiki/Skinning) / [storyboarding](/wiki/Storyboard). Those that are added/removed by the [Beatmap Editor](/wiki/Client/Beatmap_editor) can also be included.
 
 ## Under \[General\] Section
 

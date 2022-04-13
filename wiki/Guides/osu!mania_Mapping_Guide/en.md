@@ -8,11 +8,11 @@
 
 osu!mania is one of the four game modes. osu!mania falls under the genre **Vertical Scrolling Rhythm Game** (VSRG). As the name already suggests, that the musical notes are falling down or rising up in a vertical manner. There are many rather similar games to osu!mania such as "Stepmania", "O2Jam" or "Beatmania IIDX".
 
-One advantage of osu!mania is the customizable number of playable columns and its simple to use beatmap editor.
+One advantage of osu!mania is the customisable number of playable columns and its simple to use beatmap editor.
 
 ### What is the beatmap editor?
 
-As stated, the editor allows a customizable amount of columns. For simplicity, this guide will revolve around 4-key-mapping. Below you can see a screenshot that details the editor compartments.
+As stated, the editor allows a customisable amount of columns. For simplicity, this guide will revolve around 4-key-mapping. Below you can see a screenshot that details the editor compartments.
 
 #### osu!mania editor
 
@@ -73,7 +73,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 | HP Drain Rate (HP): | A higher value means a more punishing drain and a lower recovery, vice versa. A commonly used HP value would be **7** *Note: Only 50 or Misses will drain HP* |
 | Key Count: | Here you have to set the key count in which you want to map. In this Guide I will use 4K. Note that only 4K, 5K, 6K, 7K, 8K and 9K maps are rankable. The checkbox "Co-Op" can be selected when you choose 5K and above,  doubling the keycount. This allows you to play with a friend on one keyboard. |
 | Approach Rate: | This point is not used in osu!mania and you can ignore it. |
-| Overall Difficulty (OD): | OD changes the hit error range of all judgements except 300g. It is recommended to use lower OD for maps that are Long Note oriented, vice versa for Note oriented maps. |
+| Overall Difficulty (OD): | OD changes the hit error range of all [judgements](/wiki/Gameplay/Judgement) except 300g. It is recommended to use lower OD for maps that are Long Note oriented, vice versa for Note oriented maps. |
 
 #### Design
 
@@ -142,13 +142,13 @@ Go to the point where the BPM changes, press F6 to open the Timing panel, add an
 
 #### Timing Setup Panel
 
-![Timing Setup](/wiki/Beatmap_Editor/Timing/img/TimingSetup.jpg "Timing Setup")
+![Timing Setup](/wiki/shared/timing/TimingSetup.png "Timing Setup")
 
 | Name | Description |
 | :-- | :-- |
 | Timing Point: | The timing point or "Red Line" is there to time your song. Without it you can't start mapping. Refer to above on steps to [**Timing**](#timing) your song |
-| Inherited Point: | The inherited point or "Green Line" is used to add "effects" to your map. With these, you can change the volume, the sample set, the slider velocity (SV) and you can add a [Kiai-Time](/wiki/Kiai_time). |
-| Kiai: | The Kiai can be selected in "Style" and can be added between two inherited points. The Kiai Time is normally used in the chorus of your Song. It'll spawn star fountains on both sides of the screen and is used to emphasize a section of the map. |
+| Inherited Point: | The inherited point or "Green Line" is used to add "effects" to your map. With these, you can change the volume, the sample set, the slider velocity (SV) and you can add a [Kiai-Time](/wiki/Gameplay/Kiai_time). |
+| Kiai: | The Kiai can be selected in "Style" and can be added between two inherited points. The Kiai Time is normally used in the chorus of your Song. It'll spawn star fountains on both sides of the screen and is used to emphasise a section of the map. |
 
 ### Pattern
 
@@ -162,7 +162,7 @@ The LN is the "Slider" in osu!mania. Using LNs are the best way to represent lon
 
 #### Chord
 
-In the screenshot I have used a two note chord. Chords mean *more than 1 note*. "Doubles", "triples" or "quads" fall into that category. It is used to emphasize strong sounds in your song like heavy drums or cymbals.
+In the screenshot I have used a two note chord. Chords mean *more than 1 note*. "Doubles", "triples" or "quads" fall into that category. It is used to emphasise strong sounds in your song like heavy drums or cymbals.
 
 If you are planning to rank your map, you can use up to six notes! Anything more is against the Ranking Criteria.
 
@@ -194,7 +194,7 @@ Also known as a **Jack**. It is recommended to use jacks for two sounds that sou
 
 #### Shield
 
-The shield can be recognized by the fact that its always note right before or after a LN.
+The shield can be recognised by the fact that its always note right before or after a LN.
 
 ![Shield](img/MT-Shield.jpg "Shield")
 
@@ -212,7 +212,7 @@ The trill is used for two really fast changing sounds in your song. In the scree
 
 #### Chordtrill
 
-The chord trill can raise the difficulty of your map quickly. Like the trill, the chord trill is used to emphasize two much louder sounds that change really fast. A simpler alternative would be using `12` and `34` chord trills instead.
+The chord trill can raise the difficulty of your map quickly. Like the trill, the chord trill is used to emphasise two much louder sounds that change really fast. A simpler alternative would be using `12` and `34` chord trills instead.
 
 ![Chordtrill](img/MT-Chordtrill.jpg "Chordtrill")
 
@@ -248,13 +248,13 @@ Now I'll explain the **general guidelines** on what to chart for particular diff
 
 **Like I said this is just a guideline and you don't have to follow these 1:1**.
 
-**The "Easy" difficulty**: Like the name already says, we are mapping the easy difficulty here. And this it should be: Easy to play! We want to introduce the newer players to osu!mania and he should learn the basics. That's why we want to keep our difficulty as simple as we can. We don't use any 1/4 pattern, even ½ pattern should be used carefully. Use chords only to emphasize the beginning or the end of a part with a heavy cymbal. Make sure you always try to balance the hands very well. Use a lot of LNs for the long sounds in your song and to map heavy 1/4 sounds and above. If you want to use chords for example in your kiai, make sure the player has enough time to react. That means give him 1/1 beat time! In most songs the second down or main beat is always louder than the first one, with heavy drums, kicks or clap sounds. These you could map a chord while you use a normal note for the quiet sounds. But still: In the best case just use normal, single notes. Also do not use single notes while having a LN! The player should first learn how to handle a LN and how to release it at the right time. If you really want to use single notes during a LN you should watch out that the single note is on the other hand. Means, when you have mapped a LN on the right hand, the single note must be pressed with the left hand! Also don't forget: If you want to add an easy difficult to your song you should try to keep it below 1,5\* to have the easy icon.
+**The "Easy" difficulty**: Like the name already says, we are mapping the easy difficulty here. And this it should be: Easy to play! We want to introduce the newer players to osu!mania and he should learn the basics. That's why we want to keep our difficulty as simple as we can. We don't use any 1/4 pattern, even ½ pattern should be used carefully. Use chords only to emphasise the beginning or the end of a part with a heavy cymbal. Make sure you always try to balance the hands very well. Use a lot of LNs for the long sounds in your song and to map heavy 1/4 sounds and above. If you want to use chords for example in your kiai, make sure the player has enough time to react. That means give him 1/1 beat time! In most songs the second down or main beat is always louder than the first one, with heavy drums, kicks or clap sounds. These you could map a chord while you use a normal note for the quiet sounds. But still: In the best case just use normal, single notes. Also do not use single notes while having a LN! The player should first learn how to handle a LN and how to release it at the right time. If you really want to use single notes during a LN you should watch out that the single note is on the other hand. Means, when you have mapped a LN on the right hand, the single note must be pressed with the left hand! Also don't forget: If you want to add an easy difficult to your song you should try to keep it below 1,5\* to have the easy icon.
 
-**The "Normal" difficulty**: Now that we know how to map an easy difficulty, we can raise the density of the notes for the normal difficulty a little bit. We can use more 1/2 patterns now, but we should try to avoid using 1/4 patterns or just use them really carefully. In the best case only when your song has a really low bpm or only really short stairs. Also we can use more chords now. If you have a heavy snare drum or a heavy cymbal in the middle of the part we can map this with a chord to emphasize these. Also, we can use single notes during a LNs but please try to use different hands like explained in the easy difficulty! Should you have more notes than one during the LN it's okay to have some on the same hand as the LN, but most of them should still be played with the other hand! Here we should definitely map the kiai with chords and normal notes like already explained in the easy, but do not overuse it. Depending on the bpm of your song you can also add 1/2 normal notes here. But do not forget: The player just learned the basic pattern and you should not overdo it! A also good point for a normal difficult is to follow the PR (pitch relevancy) with your notes. Higher sounds can be mapped on the right side, deeper sounds on the left side of the play field.
+**The "Normal" difficulty**: Now that we know how to map an easy difficulty, we can raise the density of the notes for the normal difficulty a little bit. We can use more 1/2 patterns now, but we should try to avoid using 1/4 patterns or just use them really carefully. In the best case only when your song has a really low bpm or only really short stairs. Also we can use more chords now. If you have a heavy snare drum or a heavy cymbal in the middle of the part we can map this with a chord to emphasise these. Also, we can use single notes during a LNs but please try to use different hands like explained in the easy difficulty! Should you have more notes than one during the LN it's okay to have some on the same hand as the LN, but most of them should still be played with the other hand! Here we should definitely map the kiai with chords and normal notes like already explained in the easy, but do not overuse it. Depending on the bpm of your song you can also add 1/2 normal notes here. But do not forget: The player just learned the basic pattern and you should not overdo it! A also good point for a normal difficult is to follow the PR (pitch relevancy) with your notes. Higher sounds can be mapped on the right side, deeper sounds on the left side of the play field.
 
 **The "Hard" difficulty**: In the Hard difficulty we can start to add more complicated patterns since the player should have learned the basics from easy and normal. We can start to add longer 1/4 bursts and stair patterns, we can also start to use 3-note chords for heavy cymbals at the end or at the beginning of a part. Also, depending on the bpm and the part of your map, we can use short jump streams but make sure they fit to the part you currently map. When the song gets more hectic and faster, it's the perfect time to add such a jumpstream. You can start to use short jack patterns here as well. What you should avoid are chord trills. Chord trills have a really high pattern density which may result in a very high star rating. You can of course use short triples of chords, these should not have a big impact on the star rating. The kiai should be the most dense part of your map if possible. Also, you can try to combine more LNs and ¼ single note patterns. Try to combine different lengths of LN patterns at the same time! It can give your map a special feeling by using more than one LN at the same time. But be very careful here. Make sure every LN follows a sound! Do not add these "randomly" into your song just because you think it could play well. Depending on the BPM it's also okay to add short 1/6 or 1/8 stair patterns. But use these carefully. Only when the song provides enough for these. The 1/6 burst should not be longer than a 1/2 beat and the 1/8 not longer than 1/4 beat! The lower the bpm of your song is, the longer these burst patterns can be.
 
-**The "Insane" and "Extreme" difficulty**: Now we focus on the insane and extra difficulties. Again, we raise the density of the pattern and start to use even more complicated patterns! You can now use all kinds of pattern and try to combine them. Also, you can now use long 1/8 patterns as well as chord trills! An insane and extra difficulty is mostly for more experienced players, so you should try to make a really nice to play and still exciting difficulty. Try to combine jumpstreams with trills and heavy chord mashing. You can now use 3-note chords for more than just emphasizing the ending of a certain part in your song. But keep in mind: Should you plan to add another difficulty like an extra difficulty, you should not go to the limits! You should leave some space to make an even harder difficulty. I can't tell much since you just have to create a harder difficult than the hard in a good spread. If you plan to add an extra difficulty you can go to the limits of the song. You can use heavy jumpstreams together with heavy chordmash. You can use 3-note chords in jumpstreams between two-note chords. You have to try out what's the limit of the song. But take note of the following: A guideline says that you must be able to pass your own difficulties and I have to agree with this point. If you really want to create a good and playable insane/extra difficulty you should know how they play and for this you have to be able to pass them.
+**The "Insane" and "Extreme" difficulty**: Now we focus on the insane and extra difficulties. Again, we raise the density of the pattern and start to use even more complicated patterns! You can now use all kinds of pattern and try to combine them. Also, you can now use long 1/8 patterns as well as chord trills! An insane and extra difficulty is mostly for more experienced players, so you should try to make a really nice to play and still exciting difficulty. Try to combine jumpstreams with trills and heavy chord mashing. You can now use 3-note chords for more than just emphasising the ending of a certain part in your song. But keep in mind: Should you plan to add another difficulty like an extra difficulty, you should not go to the limits! You should leave some space to make an even harder difficulty. I can't tell much since you just have to create a harder difficult than the hard in a good spread. If you plan to add an extra difficulty you can go to the limits of the song. You can use heavy jumpstreams together with heavy chordmash. You can use 3-note chords in jumpstreams between two-note chords. You have to try out what's the limit of the song. But take note of the following: A guideline says that you must be able to pass your own difficulties and I have to agree with this point. If you really want to create a good and playable insane/extra difficulty you should know how they play and for this you have to be able to pass them.
 
 ### Hitsounds
 
@@ -346,7 +346,7 @@ Of course you don't need to follow the pitch in your map but you can see it as a
 
 The Slider Velocity acts a bit different in osu!mania; it changes the speed, at which the notes scroll downwards. Higher slider velocity means that the notes fall faster, lower Slider Velocity means the notes fall slower.
 
-This is mainly used to emphasize specific part of the maps! For example; when the song gets calm and slower, you can use a low slider velocity, to make the map fit to the mood of the song. But when the song has a few, short and fast breaks, you can use higher SV to make the map more exciting, that way, it fits the song even better!
+This is mainly used to emphasise specific part of the maps! For example; when the song gets calm and slower, you can use a low slider velocity, to make the map fit to the mood of the song. But when the song has a few, short and fast breaks, you can use higher SV to make the map more exciting, that way, it fits the song even better!
 
 Also you need to add SV changes to your map when your song has multiple BPM changes. As an example: If your song has a BPM change from 150 to 200, the scroll speed of your notes will also get higher! To prevent this, we need to add an SV point at the BPM change to adjust the scroll speed to the average BPM.
 
@@ -360,7 +360,7 @@ You take this number and divide it by the current BPM. What you will get is the 
 
 As mentioned before, the osu!mania community consists of players from different VSRGs so they are used to having different mapping styles as well.
 
-While every person who's mapping has his own style, there some basic features on which you can recognize the other games mapping styles.
+While every person who's mapping has his own style, there some basic features on which you can recognise the other games mapping styles.
 
 #### Stepmania Style
 
@@ -368,7 +368,7 @@ Stepmania has one of the largest communities for VSRG Games. Therefore it also h
 
 Stepmania style consists, besides of the personal style of every mapper, basically out of two different mapping styles. The NB5/Yolomania 4 and the DCP/LCP style.
 
-The DCP/LCP style emphasizes the musical relevancy through mapping techniques like pitch relevancy and jack theory. (The jack theory is basically creating jacks to emphasize a certain instrument like a cymbal crash). The DCP/LCP charts are more appreciated by other charters than the players because they focus mostly on musical relevancy and not so much on playability.
+The DCP/LCP style emphasises the musical relevancy through mapping techniques like pitch relevancy and jack theory. (The jack theory is basically creating jacks to emphasise a certain instrument like a cymbal crash). The DCP/LCP charts are more appreciated by other charters than the players because they focus mostly on musical relevancy and not so much on playability.
 
 The yolomania style relies more on pattering than anything else. It cares more about creating good playable charts for the player and the community. While it still uses the concept of pitch relevancy, it has not the highest importance.
 
