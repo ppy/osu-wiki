@@ -5,6 +5,8 @@ outdated_since: b830432c4768e242ce32ad592010de960bbefdeb
 
 # Restriction
 
+*Laman utama: [Pusat bantuan](/wiki/Help_centre)*
+
 *Restriction* merupakan bentuk hukuman yang osu! jatuhkan kepada para pengguna yang telah bersikap tidak sepantasnya, bertindak mencurigakan, atau melanggar peraturan yang berlaku.
 
 Ketika seorang pengguna di-*restrict*, pengguna tersebut tidak akan dapat berinteraksi dengan para anggota komunitas lainnya hingga status *restriction* mereka dicabut. Para pengguna yang di-*restrict* masih akan dapat bermain, mengunduh beatmap, dan mengirimkan skor sebagaimana pada umumnya, namun laman profil mereka tidak akan dapat dilihat oleh siapapun kecuali diri mereka sendiri.

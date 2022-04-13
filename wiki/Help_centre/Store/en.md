@@ -36,7 +36,7 @@ If you have any further issues, please feel free to submit a ticket to [support@
 
 Please contact [store@ppy.sh](mailto:store@ppy.sh) for further inquiries.
 
-#### Checking the LEDs for corosion
+#### Checking the LEDs for corrosion
 
 **Rubbing the base of the LED connectors with a small square of aluminium foil will remove most of the residue caused from corrosion.**
 

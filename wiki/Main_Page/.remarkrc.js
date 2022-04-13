@@ -1,6 +1,6 @@
 module.exports = {
   plugins: [
-    '../../.remarkrc',
+    '../../.remarkrc.js',
     ['lint-no-html', false],
     ['lint-no-multiple-toplevel-headings', false],
   ],

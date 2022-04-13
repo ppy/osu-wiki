@@ -64,13 +64,13 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 | Role | Players |
 | :-: | :-- |
-| **Captains** | ![][flag_CN] [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ![][flag_CN] [boooohhhhee](https://osu.ppy.sh/users/8692698), ![][flag_CN] [JJFLy](https://osu.ppy.sh/users/7580514), ![][flag_CN] [Qz501kn](https://osu.ppy.sh/users/8729618), ![][flag_CN] [lovely_hyahya](https://osu.ppy.sh/users/10318380), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Ranm](https://osu.ppy.sh/users/17527822), ![][flag_CN] [Koishi-0514](https://osu.ppy.sh/users/7546593), ![][flag_CN] [My Angel Yukee7](https://osu.ppy.sh/users/9787146), ![][flag_CN] [- Ran Mitake -](https://osu.ppy.sh/users/19824985), ![][flag_CN] [Vlf](https://osu.ppy.sh/users/9458866), ![][flag_CN] [Carpihat](https://osu.ppy.sh/users/10085090), ![][flag_CN] [gluefly](https://osu.ppy.sh/users/8715409), ![][flag_CN] [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494), ![][flag_CN] [miyes](https://osu.ppy.sh/users/12942073), ![][flag_CN] [StarTemplar](https://osu.ppy.sh/users/8795096) |
-| **Players** | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319), ![][flag_CN] [-Chen-](https://osu.ppy.sh/users/14030362), ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ![][flag_CN] [-[Ulazis]-](https://osu.ppy.sh/users/11144363), ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_AU] [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989), ![][flag_CN] [abbikly](https://osu.ppy.sh/users/14384082), ![][flag_CN] [\[ Classic \]](https://osu.ppy.sh/users/5858053), ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [R u m i a](https://osu.ppy.sh/users/17686114), ![][flag_CN] [tito31158](https://osu.ppy.sh/users/16436669), ![][flag_CN] [Molli](https://osu.ppy.sh/users/8893772), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [MkoTenshi](https://osu.ppy.sh/users/6532520), ![][flag_CN] [\[Arkona\]](https://osu.ppy.sh/users/7883617), ![][flag_CN] [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ![][flag_CN] [Ubiquity](https://osu.ppy.sh/users/6019127), ![][flag_CN] [rizazyh](https://osu.ppy.sh/users/13673300), ![][flag_CN] [YyottaCat](https://osu.ppy.sh/users/17753835), ![][flag_CN] [King Fish](https://osu.ppy.sh/users/8468203), ![][flag_CN] [tangul](https://osu.ppy.sh/users/6862237), ![][flag_CN] [Hylotl](https://osu.ppy.sh/users/18270260), ![][flag_CN] [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ![][flag_CN] [miserable neet](https://osu.ppy.sh/users/12430477), ![][flag_CN] [Littlesheep37](https://osu.ppy.sh/users/14742881), ![][flag_CN] [Rync\_](https://osu.ppy.sh/users/18242164), ![][flag_CN] [DJ Sharpnel](https://osu.ppy.sh/users/5132402), ![][flag_CN] [Sakurada Shiro](https://osu.ppy.sh/users/14617751), ![][flag_CN] [for need](https://osu.ppy.sh/users/10496581), ![][flag_CN] [\[GB\]a_hisa](https://osu.ppy.sh/users/24057093), ![][flag_US] [EurusY](https://osu.ppy.sh/users/16301690), ![][flag_CN] [sherweifa](https://osu.ppy.sh/users/17457562), ![][flag_CN] [Mito Van](https://osu.ppy.sh/users/14703345), ![][flag_CN] [Takahashi_Yuki](https://osu.ppy.sh/users/7167750), ![][flag_CN] [PORTTAYER](https://osu.ppy.sh/users/8790200), ![][flag_CN] [Kos-](https://osu.ppy.sh/users/9048067), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [qiaolilailai](https://osu.ppy.sh/users/13809991), ![][flag_CN] [Zyuuu](https://osu.ppy.sh/users/15389275), ![][flag_CN] [fishbone2445](https://osu.ppy.sh/users/17640814), ![][flag_CN] [TkskKurumi](https://osu.ppy.sh/users/3631045), ![][flag_HK] [Alptraum](https://osu.ppy.sh/users/26496648), ![][flag_JP] [\[GB\]Kokodayo](https://osu.ppy.sh/users/16585041), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [Llkkm](https://osu.ppy.sh/users/24989144), ![][flag_CN] [fangruyan1013](https://osu.ppy.sh/users/11735651), ![][flag_CN] [majesticlegend](https://osu.ppy.sh/users/10219308), ![][flag_CN] [woshiji](https://osu.ppy.sh/users/26589994), ![][flag_CN] [Horizon5](https://osu.ppy.sh/users/12635658), ![][flag_CN] [QAQlingjiu](https://osu.ppy.sh/users/27288518), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [SY-COCO](https://osu.ppy.sh/users/12854853), ![][flag_CN] [shiki natsume](https://osu.ppy.sh/users/6997459), ![][flag_CN] [UnnamedOrange](https://osu.ppy.sh/users/14753416), ![][flag_CN] [\[GB\]voidmoyu](https://osu.ppy.sh/users/16573996), ![][flag_CN] [Ez2dance](https://osu.ppy.sh/users/9191281), ![][flag_CN] [Chelly-](https://osu.ppy.sh/users/14876346), ![][flag_CN] [AkalinT](https://osu.ppy.sh/users/16640276), ![][flag_CN] [dreamwy](https://osu.ppy.sh/users/11608677), ![][flag_CN] [\[GB\]hej_067](https://osu.ppy.sh/users/24880938), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634), ![][flag_HK] [biubiutu](https://osu.ppy.sh/users/18801193) |
+| **Captains** | ![][flag_CN] [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ![][flag_CN] [YyottaCat](https://osu.ppy.sh/users/17753835), ![][flag_CN] [JJFLy](https://osu.ppy.sh/users/7580514), ![][flag_CN] [Qz501kn](https://osu.ppy.sh/users/8729618), ![][flag_CN] [lovely_hyahya](https://osu.ppy.sh/users/10318380), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Ranm](https://osu.ppy.sh/users/17527822), ![][flag_CN] [Koishi-0514](https://osu.ppy.sh/users/7546593), ![][flag_CN] [My Angel Yukee7](https://osu.ppy.sh/users/9787146), ![][flag_CN] [- Ran Mitake -](https://osu.ppy.sh/users/19824985), ![][flag_CN] [Vlf](https://osu.ppy.sh/users/9458866), ![][flag_CN] [Carpihat](https://osu.ppy.sh/users/10085090), ![][flag_CN] [gluefly](https://osu.ppy.sh/users/8715409), ![][flag_CN] [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494), ![][flag_CN] [miyes](https://osu.ppy.sh/users/12942073), ![][flag_CN] [StarTemplar](https://osu.ppy.sh/users/8795096) |
+| **Players** | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319), ![][flag_CN] [-Chen-](https://osu.ppy.sh/users/14030362), ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ![][flag_CN] [-[Ulazis]-](https://osu.ppy.sh/users/11144363), ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_AU] [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989), ![][flag_CN] [abbikly](https://osu.ppy.sh/users/14384082), ![][flag_CN] [\[ Classic \]](https://osu.ppy.sh/users/5858053), ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [R u m i a](https://osu.ppy.sh/users/17686114), ![][flag_CN] [tito31158](https://osu.ppy.sh/users/16436669), ![][flag_CN] [Molli](https://osu.ppy.sh/users/8893772), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [MkoTenshi](https://osu.ppy.sh/users/6532520), ![][flag_CN] [\[Arkona\]](https://osu.ppy.sh/users/7883617), ![][flag_CN] [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ![][flag_CN] [Ubiquity](https://osu.ppy.sh/users/6019127), ![][flag_CN] [rizazyh](https://osu.ppy.sh/users/13673300), ![][flag_CN] [King Fish](https://osu.ppy.sh/users/8468203), ![][flag_CN] [tangul](https://osu.ppy.sh/users/6862237), ![][flag_CN] [Hylotl](https://osu.ppy.sh/users/18270260), ![][flag_CN] [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ![][flag_CN] [miserable neet](https://osu.ppy.sh/users/12430477), ![][flag_CN] [Littlesheep37](https://osu.ppy.sh/users/14742881), ![][flag_CN] [Rync\_](https://osu.ppy.sh/users/18242164), ![][flag_CN] [DJ Sharpnel](https://osu.ppy.sh/users/5132402), ![][flag_CN] [Sakurada Shiro](https://osu.ppy.sh/users/14617751), ![][flag_CN] [for need](https://osu.ppy.sh/users/10496581), ![][flag_CN] [\[GB\]a_hisa](https://osu.ppy.sh/users/24057093), ![][flag_US] [EurusY](https://osu.ppy.sh/users/16301690), ![][flag_CN] [sherweifa](https://osu.ppy.sh/users/17457562), ![][flag_CN] [Mito Van](https://osu.ppy.sh/users/14703345), ![][flag_CN] [Takahashi_Yuki](https://osu.ppy.sh/users/7167750), ![][flag_CN] [PORTTAYER](https://osu.ppy.sh/users/8790200), ![][flag_CN] [Kos-](https://osu.ppy.sh/users/9048067), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [qiaolilailai](https://osu.ppy.sh/users/13809991), ![][flag_CN] [Zyuuu](https://osu.ppy.sh/users/15389275), ![][flag_CN] [fishbone2445](https://osu.ppy.sh/users/17640814), ![][flag_CN] [TkskKurumi](https://osu.ppy.sh/users/3631045), ![][flag_HK] [Alptraum](https://osu.ppy.sh/users/26496648), ![][flag_JP] [\[GB\]Kokodayo](https://osu.ppy.sh/users/16585041), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [Llkkm](https://osu.ppy.sh/users/24989144), ![][flag_CN] [fangruyan1013](https://osu.ppy.sh/users/11735651), ![][flag_CN] [majesticlegend](https://osu.ppy.sh/users/10219308), ![][flag_CN] [woshiji](https://osu.ppy.sh/users/26589994), ![][flag_CN] [Horizon5](https://osu.ppy.sh/users/12635658), ![][flag_CN] [QAQlingjiu](https://osu.ppy.sh/users/27288518), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [SY-COCO](https://osu.ppy.sh/users/12854853), ![][flag_CN] [shiki natsume](https://osu.ppy.sh/users/6997459), ![][flag_CN] [UnnamedOrange](https://osu.ppy.sh/users/14753416), ![][flag_CN] [\[GB\]voidmoyu](https://osu.ppy.sh/users/16573996), ![][flag_CN] [Ez2dance](https://osu.ppy.sh/users/9191281), ![][flag_CN] [Chelly-](https://osu.ppy.sh/users/14876346), ![][flag_CN] [AkalinT](https://osu.ppy.sh/users/16640276), ![][flag_CN] [dreamwy](https://osu.ppy.sh/users/11608677), ![][flag_CN] [\[GB\]hej_067](https://osu.ppy.sh/users/24880938), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634), ![][flag_HK] [biubiutu](https://osu.ppy.sh/users/18801193) |
 
 | # | Teams | Members |
 | --: | :-: | :-- |
 | 1 | **金戈铁马的鲜丰水果摊** | ![][flag_CN] **[\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018)**, ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319), ![][flag_CN] [King Fish](https://osu.ppy.sh/users/8468203), ![][flag_CN] [tangul](https://osu.ppy.sh/users/6862237), ![][flag_CN] [\[GB\]hej_067](https://osu.ppy.sh/users/24880938) |
-| 2 | **你没对象对不队** | ![][flag_CN] **[boooohhhhee](https://osu.ppy.sh/users/8692698)**, ![][flag_CN] [\[Arkona\]](https://osu.ppy.sh/users/7883617), ![][flag_CN] [YyottaCat](https://osu.ppy.sh/users/17753835), ![][flag_CN] [miserable neet](https://osu.ppy.sh/users/12430477), ![][flag_CN] [Llkkm](https://osu.ppy.sh/users/24989144) |
+| 2 | **你没对象对不队** | **![][flag_CN] [YyottaCat](https://osu.ppy.sh/users/17753835)**, ![][flag_CN] [\[Arkona\]](https://osu.ppy.sh/users/7883617), ![][flag_CN] [miserable neet](https://osu.ppy.sh/users/12430477), ![][flag_CN] [Llkkm](https://osu.ppy.sh/users/24989144) |
 | 3 | **涩涩不队** | ![][flag_CN] **[JJFLy](https://osu.ppy.sh/users/7580514)**, ![][flag_CN] [Hylotl](https://osu.ppy.sh/users/18270260), ![][flag_CN] [rizazyh](https://osu.ppy.sh/users/13673300), ![][flag_CN] [Kos-](https://osu.ppy.sh/users/9048067), ![][flag_CN] [fangruyan1013](https://osu.ppy.sh/users/11735651) |
 | 4 | **Yzhhのqlll森林汪酱不会大叠** | ![][flag_CN] **[Qz501kn](https://osu.ppy.sh/users/8729618)**, ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [R u m i a](https://osu.ppy.sh/users/17686114), ![][flag_CN] [qiaolilailai](https://osu.ppy.sh/users/13809991), ![][flag_CN] [QAQlingjiu](https://osu.ppy.sh/users/27288518) |
 | 5 | **可爱的hyahya酱上线啦！！** | ![][flag_CN] **[lovely_hyahya](https://osu.ppy.sh/users/10318380)**, ![][flag_CN] [-[Ulazis]-](https://osu.ppy.sh/users/11144363), ![][flag_CN] [tito31158](https://osu.ppy.sh/users/16436669), ![][flag_JP] [\[GB\]Kokodayo](https://osu.ppy.sh/users/16585041), ![][flag_CN] [AkalinT](https://osu.ppy.sh/users/16640276) |
@@ -83,28 +83,31 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | 12 | **啊对对队** | ![][flag_CN] **[Carpihat](https://osu.ppy.sh/users/10085090)**, ![][flag_CN] [-Chen-](https://osu.ppy.sh/users/14030362), ![][flag_CN] [for need](https://osu.ppy.sh/users/10496581), ![][flag_CN] [PORTTAYER](https://osu.ppy.sh/users/8790200), ![][flag_CN] [SY-COCO](https://osu.ppy.sh/users/12854853) |
 | 13 | **太美丽了理塘** | ![][flag_CN] **[gluefly](https://osu.ppy.sh/users/8715409)**, ![][flag_US] [EurusY](https://osu.ppy.sh/users/16301690), ![][flag_CN] [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ![][flag_CN] [fishbone2445](https://osu.ppy.sh/users/17640814), ![][flag_HK] [biubiutu](https://osu.ppy.sh/users/18801193) |
 | 14 | **皮蛋蛋吸手手俱乐部** | ![][flag_CN] **[\[Crz\]Nickname](https://osu.ppy.sh/users/10817494)**, ![][flag_CN] [Ubiquity](https://osu.ppy.sh/users/6019127), ![][flag_CN] [MkoTenshi](https://osu.ppy.sh/users/6532520), ![][flag_HK] [Alptraum](https://osu.ppy.sh/users/26496648), ![][flag_CN] [dreamwy](https://osu.ppy.sh/users/11608677) |
-| 15 | **Team 15** | ![][flag_CN] **[miyes](https://osu.ppy.sh/users/12942073)**, ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767) |
+| 15 | **GBC最强阵容9个Miyes** | ![][flag_CN] **[miyes](https://osu.ppy.sh/users/12942073)**, ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767) |
 | 16 | **头号倒霉蛋** | ![][flag_CN] **[StarTemplar](https://osu.ppy.sh/users/8795096)**, ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634) |
 
-## Match schedule: Regular stage week 1 
+## Match schedule: Regular stage week 2 
 
-### Saturday, April 9, 2022
+### Saturday, April 16, 2022
 
-| Team A | Team B | Match time |
-| --: | :-- | :-: |
-| bikabika | 青叶摩卡的百合后花园 | Apr 9 (Sat) 17:00 (UTC+8) |
-| 可爱的hyahya酱上线啦！！ | 啊对对队 | Apr 9 (Sat) 19:00 (UTC+8) |
-| 金戈铁马的鲜丰水果摊 | 头号倒霉蛋 | Apr 9 (Sat) 20:00 (UTC+8) |
-| 涩涩不队 | 皮蛋蛋吸手手俱乐部 | Apr 9 (Sat) 21:00 (UTC+8) |
+| Team A | Team B | Match time |  |
+| --: | :-- | :-: | :-: |
+| Yzhhのqlll森林汪酱不会大叠 | bikabika | Apr 16 (Sat) 17:00 (UTC+8) | ² |
+| 啊对对队 | 头号倒霉蛋 | Apr 16 (Sat) 19:00 (UTC+8) | ² |
+| 金戈铁马的鲜丰水果摊 | 可爱的hyahya酱上线啦！！ | Apr 16 (Sat) 20:00 (UTC+8) | ¹ |
+| 啊不对不队 | 皮蛋蛋吸手手俱乐部 | Apr 16 (Sun) 21:00 (UTC+8) | ² |
 
-### Sunday, April 10, 2022
+### Sunday, April 17, 2022
 
-| Team A | Team B | Match time |
-| --: | :-- | :-: |
-| Team MyAngel Koishi | 大怨种被迫当队长 | Apr 10 (Sun) 16:00 (UTC+8) |
-| 货拉拉拉不拉拉布拉多队 | 啊不对不队 | Apr 10 (Sun) 19:00 (UTC+8) |
-| Yzhhのqlll森林汪酱不会大叠 | 太美丽了理塘 | Apr 10 (Sun) 20:00 (UTC+8) |
-| 你没对象对不队 | Team 15 | Apr 10 (Sun) 21:00 (UTC+8) |
+| Team A | Team B | Match time |  |
+| --: | :-- | :-: | :-: |
+| 太美丽了理塘 | 青叶摩卡的百合后花园 | Apr 17 (Sat) 14:30 (UTC+8) | ¹ |
+| MyAngel Koishi | 你没对象对不队 | Apr 17 (Sun) 16:00 (UTC+8) | ² |
+| 货拉拉拉不拉拉布拉多 | 涩涩不队 | Apr 17 (Sun) 19:00 (UTC+8) | ¹ |
+| 大怨种被迫当队长 | GBC最强阵容9个Miyes | Apr 17 (Sun) 20:30 (UTC+8) | ¹ |
+
+¹ Round 2 High Matches (Teams with 1-0 record)\
+² Round 2 Low Matches (Teams with 0-1 record)
 
 ## Mappools
 
@@ -135,30 +138,48 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 ### Regular stage
 
-| #¹ | Team | MT² | MP³ | BD⁴ | BU⁵ | Round 1 | Round 2 | Round 3 |
+| #¹ | Team | Matches | Beatmaps | BD² | BU³ | Round1 | Round2 | Round3 |
 | :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1 | 金戈铁马的鲜丰水果摊 | 0-0 | 0 | 0 | 0 | 倒霉蛋 |  |  |
-| 2 | 你没对象对不队 | 0-0 | 0 | 0 | 0 | 15 |  |  |
-| 3 | 涩涩不队 | 0-0 | 0 | 0 | 0 | 吸手手 |  |  |
-| 4 | Yzhhのqlll森林汪酱不会大叠 | 0-0 | 0 | 0 | 0 | 理塘 |  |  |
-| 5 | 可爱的hyahya酱上线啦！！ | 0-0 | 0 | 0 | 0 | 啊对对 |  |  |
-| 6 | 货拉拉拉不拉拉布拉多队 | 0-0 | 0 | 0 | 0 | 啊不对 |  |  |
-| 7 | bikabika | 0-0 | 0 | 0 | 0 | 摩卡 |  |  |
-| 8 | Team MyAngel Koishi | 0-0 | 0 | 0 | 0 | 大怨种 |  |  |
-| 9 | 大怨种被迫当队长 | 0-0 | 0 | 0 | 0 | TMK |  |  |
-| 10 | 青叶摩卡的百合后花园 | 0-0 | 0 | 0 | 0 | bika |  |  |
-| 11 | 啊不对不队 | 0-0 | 0 | 0 | 0 | 货拉拉 |  |  |
-| 12 | 啊对对队 | 0-0 | 0 | 0 | 0 | hya酱 |  |  |
-| 13 | 太美丽了理塘 | 0-0 | 0 | 0 | 0 | Yzh |  |  |
-| 14 | 皮蛋蛋吸手手俱乐部 | 0-0 | 0 | 0 | 0 | 涩涩 |  |  |
-| 15 | Team 15 | 0-0 | 0 | 0 | 0 | 没对象 |  |  |
-| 16 | 头号倒霉蛋 | 0-0 | 0 | 0 | 0 | 水果摊 |  |  |
+| 1 | **金戈铁马的鲜丰水果摊** | 1-0 | 6-1 | +5 | -1 | 6-1 倒霉蛋 | hya酱 |  |
+| 2 | **可爱的hyahya酱上线啦！！** | 1-0 | 6-1 | +5 | -1 | 6-1 啊对对 | 水果摊 |  |
+| 3 | **青叶摩卡的百合后花园** | 1-0 | 6-1 | +5 | -1 | 6-1 bika | 理塘 |  |
+| 4 | **太美丽了理塘** | 1-0 | 6-1 | +5 | -1 | 6-1 Yzh | 摩卡 |  |
+| 5 | **GBC最强阵容9个Miyes** | 1-0 | 6-2 | +4 | -1 | 6-2 没对象 | 大怨种 |  |
+| 6 | **大怨种被迫当队长** | 1-0 | 6-3 | +3 | -1 | 6-3 TMK | 最强阵 |  |
+| 7 | **货拉拉拉不拉拉布拉多队** | 1-0 | 6-4 | +2 | -1 | 6-4 啊不对 | 涩涩 |  |
+| 8 | **涩涩不队** | 1-0 | 6-5 | +1 | -1 | 6-5 吸手手 | 货拉拉 |  |
+| 9 | **皮蛋蛋吸手手俱乐部** | 0-1 | 5-6 | -1 | +1 | 5-6 涩涩 | 啊不对 |  |
+| 10 | 啊不对不队 | 0-1 | 4-6 | -2 | +1 | 4-6 **货拉拉** | 吸手手 |  |
+| 11 | Team MyAngel Koishi | 0-1 | 3-6 | -3 | +1 | 3-6 **大怨种** | 没对象 |  |
+| 12 | 你没对象对不队 | 0-1 | 2-6 | -4 | +1 | 2-6 **最强阵** | TMK |  |
+| 13 | Yzhhのqlll森林汪酱不会大叠 | 0-1 | 1-6 | -5 | +1 | 1-6 **理塘** | bika |  |
+| 14 | bikabika | 0-1 | 1-6 | -5 | +1 | 1-6 **摩卡** | Yzh |  |
+| 15 | 啊对对队 | 0-1 | 1-6 | -5 | +1 | 1-6 **hya酱** | 倒霉蛋 |  |
+| 16 | 头号倒霉蛋 | 0-1 | 1-6 | -5 | +1 | 1-6 **水果摊** | 啊对对 |  |
 
-¹ Seed\
-² Matches\
-³ Beatmaps\
-⁴ Beatmap difference\
-⁵ Buchholz score\
+¹ Seed, Top 8 Advanced\
+² Beatmap difference\
+³ Buchholz score
+
+#### Regular stage week 1
+
+Saturday, April 9, 2022
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| bikabika | 1 | **6** | **青叶摩卡的百合后花园** | [#1](https://osu.ppy.sh/community/matches/99564304) |
+| **可爱的hyahya酱上线啦！！** | **6** | 1 | 啊对对队 | [#1](https://osu.ppy.sh/community/matches/99566208) |
+| **金戈铁马的鲜丰水果摊** | **6** | 1 | 头号倒霉蛋 | [#1](https://osu.ppy.sh/community/matches/99567449) |
+| **涩涩不队** | **6** | 5 | 皮蛋蛋吸手手俱乐部 | [#1](https://osu.ppy.sh/community/matches/99568857) |
+
+Sunday, April 10, 2022
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| Team MyAngel Koishi | 3 | **6** | **大怨种被迫当队长** | [#1](https://osu.ppy.sh/community/matches/99603315) |
+| **货拉拉拉不拉拉布拉多队** | **6** | 4 | 啊不对不队 | [#1](https://osu.ppy.sh/community/matches/99606894) |
+| Yzhhのqlll森林汪酱不会大叠 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99608620), [Screenshot](img/GBC2SprW1M7.jpg) |
+| 你没对象对不队 | 2 | **6** | **GBC最强阵容9个Miyes** | [#1](https://osu.ppy.sh/community/matches/99609983) |
 
 ## Ruleset
 
@@ -259,7 +280,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!mania, Team VS, Win Condition: Score v2. Room name must be `GBC2022Spring: ({TeamRed}) vs ({TeamBlue})`.
+   - Room settings are osu!mania, Team VS, Win Condition: Score v2. Room name must be `GBC2 Spr: ({TeamRed}) vs ({TeamBlue})`.
    - The team mentioned first in the room name must be the red team, and the team mentioned second in the room name must be the blue team.
 2. Each captain can ban **one beatmap** from the pool. These beatmaps cannot be picked by any team during the entire match.
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
