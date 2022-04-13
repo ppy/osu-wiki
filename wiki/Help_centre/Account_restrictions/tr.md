@@ -5,6 +5,8 @@ outdated_since: b830432c4768e242ce32ad592010de960bbefdeb
 
 # Hesap kısıtlamaları
 
+*Ana sayfa: [Yardım Merkezi](/wiki/Help_centre)*
+
 Kısıtlama, anormal, şüpheli ya da kuralları çiğneyecek davranış gösteren hesaplara uygulanan bir topluluktan uzaklaştırma durumudur.
 
 Bir hesap kısıtlandığı zaman, kısıtlama kaldırılana kadar toplulukla iletişime geçemez. Kısıtlı oyuncular oyunu oynamaya devam edebilir, beatmapler indirebilir ve skor gönderebilir, ama profilleri başkalarına görünmez.
