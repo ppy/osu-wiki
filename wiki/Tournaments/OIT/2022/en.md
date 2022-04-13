@@ -100,13 +100,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ## Podium
 
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+![](img/podium.jpg "OIT 2022 podium")
 
 ## Mappools
 

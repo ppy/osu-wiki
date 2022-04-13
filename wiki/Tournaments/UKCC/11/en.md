@@ -9,7 +9,7 @@ tags:
 
 ![UKCC11 logo](img/logo.jpg)
 
-The **UK Community Cup 11** (***UKCC 11***) is a British 2v2 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147) and ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823). It is the twelfth instalment of the UK Community Cup series and the series' fifth 2v2 competition.
+The **UK Community Cup 11** (***UKCC 11***) was a British 2v2 double-elimination osu! tournament hosted by ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147) and ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823). It is the twelfth instalment of the UK Community Cup series and the series' fifth 2v2 competition.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **UK Community Cup 11** (***UKCC 11***) is a British 2v2 double-elimination 
 
 ## Organisation
 
-The UK Community Cup 11 is run by various community members.
+The UK Community Cup 11 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -36,7 +36,7 @@ The UK Community Cup 11 is run by various community members.
 | Streamer | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736), ![][flag_FR] [lardon](https://osu.ppy.sh/users/11409334) |
 | Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_GB] [SadShiba](https://osu.ppy.sh/users/10747626), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [Lapis-](https://osu.ppy.sh/users/929134) |
 | Designer | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) |
-| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_PL] [Marzale](https://osu.ppy.sh/users/5194043), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [Geag](https://osu.ppy.sh/users/16052525), ![][flag_ID] [Raff](https://osu.ppy.sh/users/7227330), ![][flag_GB] [Kezanub](https://osu.ppy.sh/users/6088641), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736) |
+| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_PL] [Marzale](https://osu.ppy.sh/users/5194043), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [Geag](https://osu.ppy.sh/users/16052525), ![][flag_ID] [Raff](https://osu.ppy.sh/users/7227330), ![][flag_GB] [Kezanub](https://osu.ppy.sh/users/6088641), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_IL] [FlagFlayer](https://osu.ppy.sh/users/14289115), ![][flag_CA] [PuffedKirby](https://osu.ppy.sh/users/19165524) |
 | Statistician | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 
 ## Links
@@ -58,7 +58,7 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
 | #2 | **ABSOLUTE UNITS** | ![][flag_GB] [Malteser](http://osu.ppy.sh/users/5218178), ![][flag_GB] [Defex](http://osu.ppy.sh/users/9674143) |
 | #3 | **denial piano** | ![][flag_GB] [spook](http://osu.ppy.sh/users/2232928), ![][flag_GB] [majoreh](http://osu.ppy.sh/users/7959222) |
 | #4 | **The PokiStans** | ![][flag_GB] [Matt4132](http://osu.ppy.sh/users/11706972), ![][flag_GB] [nonce](http://osu.ppy.sh/users/11861997) |
-| #5 | **Luciano Fan Club** | ![][flag_GB] [BronySC](http://osu.ppy.sh/users/7516484), ![][flag_GB] [Bubbleman](http://osu.ppy.sh/users/5182050) |
+| #5 | **Luciano Fan Club** | ![][flag_GB] [Kera](http://osu.ppy.sh/users/7516484), ![][flag_GB] [Bubbleman](http://osu.ppy.sh/users/5182050) |
 | #6 | **:stonehenge:** | ![][flag_IE] [Ophiz](http://osu.ppy.sh/users/6671641), ![][flag_GB] [jpjtyld](http://osu.ppy.sh/users/10028762) |
 | #7 | **that's what i'm saying!** | ![][flag_GB] [Gazzzaa](http://osu.ppy.sh/users/8624512), ![][flag_GB] [Voss](http://osu.ppy.sh/users/7657761) |
 | #8 | **:flag_tf:** | ![][flag_HK] [pedeko](http://osu.ppy.sh/users/8645133), ![][flag_GB] [weezer](http://osu.ppy.sh/users/12356252) |
@@ -86,6 +86,16 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
 | #30 | **Platform Duty** | ![][flag_GB] [idealnettles](http://osu.ppy.sh/users/4010354), ![][flag_GB] [- Syndi -](http://osu.ppy.sh/users/11617315) |
 | #31 | **cheese gaming** | ![][flag_GB] [SinqHD](http://osu.ppy.sh/users/15887523), ![][flag_GB] [CrypticInsanity](http://osu.ppy.sh/users/11508900) |
 | #32 | **PopKO** | ![][flag_GB] [Claus](http://osu.ppy.sh/users/4966424), ![][flag_GB] [SpiralKO](http://osu.ppy.sh/users/5387803) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Luciano Fan Club** (![][flag_GB] [BronySC](http://osu.ppy.sh/users/7516484), ![][flag_GB] [Bubbleman](http://osu.ppy.sh/users/5182050)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **denial piano** (![][flag_GB] [spook](http://osu.ppy.sh/users/2232928), ![][flag_GB] [majoreh](http://osu.ppy.sh/users/7959222)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **The** (![][flag_GB] [lystia](http://osu.ppy.sh/users/11042418), ![][flag_GB] [Kingling](http://osu.ppy.sh/users/7010761)) |
 
 ## Mappools
 
@@ -279,6 +289,25 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1eQsZnSalFvgeB5ti
   2. [Inoue Marina - Pieces of Sweet Stars (whymeman) [S.t.a.r.S]](https://osu.ppy.sh/beatmapsets/8436#osu/34657)
 
 ## Match Results
+
+### Grand Finals
+
+#### Grand Final
+
+Monday, 4 April 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| denial piano | 4 | **7** | **Luciano Fan Club** | [#1](https://osu.ppy.sh/community/matches/99421955) |
+| **Luciano Fan Club** | **7** | 1 | denial piano | [#1](https://osu.ppy.sh/community/matches/99423944) |
+
+#### Losers Finals
+
+Sunday, 3 April 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| The | 3 | **7** | **Luciano Fan Club** | [#1](https://osu.ppy.sh/community/matches/99383238) |
 
 ### Finals
 
@@ -614,6 +643,7 @@ Top 10 qualification results:
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
