@@ -1,6 +1,6 @@
 # Personen
 
-Indexseite für Artikel über Menschen oder Gruppen.
+Indexseite für Artikel über Personen oder Gruppen.
 
 - [Mitwirkende der Community](Community_Contributors)
 - [peppy](peppy)
