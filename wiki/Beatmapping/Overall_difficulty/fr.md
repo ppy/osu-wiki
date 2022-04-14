@@ -13,11 +13,11 @@ outdated_since: bb68816d3f5cdcce9eaa78788e9fc7b671e1dc93
 
 *Pour les valeurs d'OD recommandées, voir : [Critères de classement](/wiki/Ranking_Criteria)*
 
-L'**overall difficulty** (abrégé en ***OD***) définit la difficulté d'obtenir une [précision](/wiki/Gameplay/Accuracy) élevée sur une [beatmap](/wiki/Beatmap). La valeur est comprise entre 0 et 10, une OD plus élevée exigeant plus de précision et d'exactitude. Étant donné que la précision est importante pour récupérer de la vie, l'overall difficulty influence également la difficulté pour réussir une beatmap.
+L'**overall difficulty** (abrégé en ***OD***) définit la difficulté d'obtenir une [précision](/wiki/Gameplay/Accuracy) élevée sur une [beatmap](/wiki/Beatmap). La valeur est comprise entre 0 et 10, une OD plus élevée exigeant plus de précision et d'exactitude. Étant donné que la précision est importante pour récupérer de la [vie](/wiki/Gameplay/Health), l'overall difficulty influence également la difficulté pour réussir une beatmap.
 
 ## Timing
 
-Des valeurs d'OD plus élevées signifient une hit window plus courte pour frapper les [objets](/wiki/Hit_object), à la fois en général et pour obtenir des scores élevés. La largeur de l'intervalle pour frapper une note, centrée sur le timing correct de l'objet, est définie par le tableau suivant :
+Des valeurs d'OD plus élevées signifient une hit window plus courte pour frapper les [objets](/wiki/Hit_object), à la fois en général et pour obtenir des [scores](/wiki/Gameplay/Score) élevés. La largeur de l'intervalle pour frapper une note, centrée sur le timing correct de l'objet, est définie par le tableau suivant :
 
 | Score | hit window |
 | --: | :-- |
@@ -31,7 +31,7 @@ Si le joueur frappe en dehors de la hit window du 50, cela comptera comme un mis
 
 Dans [osu!](/wiki/Game_mode/osu!), les sliders récompense le joueur d'un 300 tant qu'il frappe dans la hit window du 50. Cela est parfois appelé *slideracc* et est supprimé dans le [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
-L'overall difficulty affecte également les spinners, dans la mesure où il faut les faire tourner davantage pour remplir la jauge à temps. Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le denden aura également besoin de plus de coups pour être complété. Le nombre de tours par minutes nécessaires pour compléter un spinner est défini par la formule suivante :
+L'overall difficulty affecte également les [spinners](/wiki/Hit_object/Spinner), dans la mesure où il faut les faire tourner davantage pour remplir la jauge à temps. Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le denden aura également besoin de plus de coups pour être complété. Le nombre de tours par minutes nécessaires pour compléter un spinner est défini par la formule suivante :
 
 - OD < 5 : `5 - 2 * (5 - OD) / 5`
 - OD = 5 : `5`
@@ -39,7 +39,7 @@ L'overall difficulty affecte également les spinners, dans la mesure où il faut
 
 ## Effets des mods
 
-Il existe quatre mods qui modifient l'OD lorsqu'ils sont activés :
+Il existe quatre [mods](/wiki/Game_modifier) qui modifient l'OD lorsqu'ils sont activés :
 
 - [Easy](/wiki/Game_modifier/Easy) : Réduit de moitié la valeur de l'OD.
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock) : Multiplie la valeur de l'OD par 1,4, jusqu'à un maximum de 10.
