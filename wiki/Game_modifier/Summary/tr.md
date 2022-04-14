@@ -40,7 +40,7 @@
 | 6K | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x |
 | 7K | 0.66x | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x |
 
-### *x*K modları ile Co-op skor çarpanları
+### xK modları ile Co-op skor çarpanları
 
 *Dikkat: Bu tablo sadece osu!'tan osu!mania'ya çevirilmiş beatmapleri etkiler, osu!mania için özel olan beatmapleri değil! Ayrıca, Co-op modu osu!mania'ya özel olan beatmaplerin puanını da düşürmez.*
 

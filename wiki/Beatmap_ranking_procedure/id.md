@@ -30,7 +30,7 @@ Beatmap-beatmap yang telah memperoleh dua nominasi per mode permainan yang dimil
 
 Kategori Qualified sendiri dirintis agar komunitas osu! dapat mengevaluasi beatmap-beatmap yang telah dinyatakan siap untuk di-*rank* secara lebih luas. Apabila suatu beatmap yang telah berstatus Qualified ternyata bermasalah, nominasi yang telah diberikan kepada beatmap tersebut akan [dianulir](#penganuliran-nominasi-(nomination-reset)) dan beatmap yang bersangkutan akan kembali ditarik ke Pending oleh anggota BN atau NAT.
 
-## Penganuliran nominasi (*nomination reset*)
+## Penganuliran nominasi (nomination reset)
 
 Penganuliran nominasi (*nomination reset*) merupakan bagian dari prosedur ranking beatmap yang memastikan agar para modder, BN, dan NAT dapat senantiasa memeriksa versi beatmap yang paling baru sebelum memasuki antrian ranking.
 

@@ -12,7 +12,7 @@ Peraturan-peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komuni
 6. **Hindari perbuatan yang tidak senonoh.** osu! bukanlah tempat yang ditujukan untuk mencari jodoh atau menggoda pengguna lain. Segala tutur kata, gambar, dan tindakan yang dapat digolongkan sebagai suatu bentuk rayuan seksual TIDAK dibenarkan baik di depan umum maupun di dalam ranah pribadi. Apabila kamu merasa tidak nyaman dengan cara seseorang mendekatimu, [segera laporkan kepada kami secara rahasia](/wiki/Reporting_bad_behaviour/Abuse) agar kami dapat membantumu (dan mencegah orang lain untuk turut menjadi korban).
 7. **Apabila terdapat suatu masalah yang tidak diliput pada poin-poin sebelumnya, gunakan akal sehat *(common sense)* untuk menyelesaikannya.** Pada kasus-kasus yang lebih serius, tim administratif kami berhak untuk menindaklanjuti para pelanggar secara sepihak dengan hukuman yang dirasa setimpal.
 
-## Peraturan *in-game chat*
+## Peraturan in-game chat
 
 1. **Hormatilah pengguna lain dan jangan membanjiri layar *(flooding)* atau mengirimkan pesan yang sama berulang-ulang *(spamming)* dalam suatu kanal obrolan.** Obrolan yang memakan ruang hingga separuh layar tentunya akan membuat para pengguna lain merasa terganggu. Orang lain juga ingin mengobrol!
 2. **Biarkan masalah yang muncul di dalam obrolan ditangani oleh para moderator.** Kamu dapat membantu kami untuk menyelesaikan suatu masalah bukan dengan bermain hakim sendiri, namun dengan menggunakan [perintah `!report`](/wiki/Reporting_bad_behaviour) yang akan memanggil para moderator untuk turun tangan ke lokasi permasalahan.
