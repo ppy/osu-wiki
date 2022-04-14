@@ -9,7 +9,7 @@ tags:
 
 ![A screenshot of genre, language, and tags on a beatmap page](img/beatmap-info.png "Genre and language are listed on beatmap pages.")
 
-[Beatmaps](/wiki/Beatmap) submitted to the website have **genre** and **language** fields to help categorise songs. They are considered to be part of a beatmap's [*metadata*](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata).
+[Beatmaps](/wiki/Beatmap) submitted to the website have **genre** and **language** fields to help categorise songs. They are considered to be part of a beatmap's [metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata).
 
 Genre and language have no function in the game, but will be available as search options in osu!(lazer)<!-- TODO: link me -->.
 

@@ -1,5 +1,4 @@
 ---
-outdated: true
 tags:
   - approach time
   - AR
@@ -52,4 +51,4 @@ Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la va
 
 ## osu!taiko et osu!mania
 
-L'approach rate est visible lors de l'affichage des informations d'une beatmap d'osu!taiko ou d'osu!mania, mais elle n'affecte pas la jouabilité. La vitesse de défilement de chaque mode est déterminée par d'autres facteurs.
+L'approach rate est visible lors de l'affichage des informations d'une beatmap d'[osu!taiko](/wiki/Game_mode/osu!taiko) ou d'[osu!mania](/wiki/Game_mode/osu!mania), mais elle n'affecte pas la jouabilité. La vitesse de défilement de chaque mode est déterminée par d'autres facteurs.
