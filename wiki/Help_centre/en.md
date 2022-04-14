@@ -17,7 +17,8 @@ Choose the section that matches your problem the most to find a suitable solutio
 
 | Section | Area of focus |
 | :-- | :-- |
-| [Account](/wiki/Help_centre/Account) | osu!supporter, restrictions, signing-in, name changes, profile data |
+| [Account](/wiki/Help_centre/Account) | osu!supporter, sign-in and access recovery, name changes, profile data |
+| [Account restrictions](/wiki/Help_centre/Account_restrictions) | All about restrictions: overview, appeal process, common reasons and cooldowns |
 | [Beatmapping and Editor](/wiki/Help_centre/Beatmapping) | Maintaining your beatmaps, beatmap ownership, beatmap slots |
 | [Client](/wiki/Help_centre/Client) | Bugs and crashes, gameplay, connection, performance |
 | [Installation and registration](/wiki/Help_centre/Installation_and_registration) | Downloading the game, creating an account |
