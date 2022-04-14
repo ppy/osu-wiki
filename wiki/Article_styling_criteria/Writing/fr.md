@@ -293,7 +293,7 @@ Les expressions `tu` et `ton` sont à éviter. Le `je` ne doit pas être utilis�
 
 ---
 
-[Les articles avec registres informels](#registre-des-langues) peuvent ignorer cette section ; cependant, il faut éviter de mettre des `je` dans les paragraphes.
+[Les articles avec registres informels](#registre-de-langue) peuvent ignorer cette section ; cependant, il faut éviter de mettre des `je` dans les paragraphes.
 
 ## Grammaire et syntaxe
 
@@ -303,11 +303,11 @@ Les articles doivent utiliser de préférence une grammaire et une syntaxe fran�
 
 *Pour le formatage des nombres, voir les [conventions typographiques de Wikipédia concernant les nombres](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Conventions_typographiques#Nombres)*
 
-[Les articles avec registres informels](#registre-des-langues) peuvent ignorer cette section ; toutefois, l'usage doit rester cohérent tout au long de l'article.
+[Les articles avec registres informels](#registre-de-langue) peuvent ignorer cette section ; toutefois, l'usage doit rester cohérent tout au long de l'article.
 
 ### Points-virgules
 
-[Les articles avec registres informels](#registre-des-langues) doivent éviter d'utiliser les points-virgules (`;`).
+[Les articles avec registres informels](#registre-de-langue) doivent éviter d'utiliser les points-virgules (`;`).
 
 ### Virgule en série
 
