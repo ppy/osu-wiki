@@ -156,7 +156,7 @@ If that player **does** have any plays across all game modes, a [non-linear func
 
 **Yes, but only under certain circumstances.**
 
-We grant free reverts for a user's direct previous username. Simply contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and request your name change reverted.
+We grant free reverts for a user's direct previous username. Simply contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and request your name change be reverted.
 
 Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32).
 
