@@ -7,7 +7,7 @@ outdated_since: 097575f6a3dae8c477c302dce2d1c9f76b71bb89
 
 *Дополнительные критерии для каждого [режима игры](/wiki/Game_mode) можно прочитать тут: [osu!](/wiki/Ranking_Criteria/osu!), [osu!taiko](/wiki/Ranking_Criteria/osu!taiko), [osu!catch](/wiki/Ranking_Criteria/osu!catch) и [osu!mania](/wiki/Ranking_Criteria/osu!mania).*
 
-**Критерии ранкинга** представляют собой свод [различных правил и рекомендаций](#общая-терминология) для [карт osu!](/wiki/Beatmap), которые собираются участвовать в [процедуре ранкинга](/wiki/Beatmap_ranking_procedure).
+**Критерии ранкинга** — это свод различных [правил и рекомендаций](#общая-терминология) для [карт osu!](/wiki/Beatmap), которые собираются участвовать в [процедуре ранкинга](/wiki/Beatmap_ranking_procedure).
 
 Изменение этих правил и рекомендаций можно предлагать и обсуждать в [специальном разделе форума](https://osu.ppy.sh/community/forums/87) — см. подробности в теме *[How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)*. Правки, которые не затрагивают смысловое содержание документа (переформулировка предложений, исправление опечаток, изменение структуры и т.д.), можно вносить без предварительного обсуждения на форуме.
 
