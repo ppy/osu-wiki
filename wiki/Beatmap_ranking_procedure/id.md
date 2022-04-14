@@ -26,7 +26,7 @@ Harap dicatat bahwa sebelum dapat dinominasikan, suatu beatmap harus terlebih da
 
 ## Kualifikasi
 
-Beatmap-beatmap yang telah memperoleh dua nominasi per mode permainan yang dimilikinya akan secara otomatis berpindah ke kategori [Qualified](/wiki/Beatmap/Category#qualified). Meskipun mereka memiliki *leaderboard*-nya tersendiri, beatmap-beatmap yang berstatus Qualified tidak memberikan [performance point](/wiki/Performance_points) apapun ketika dimainkan. Ketika suatu beatmap telah mencapai akhir [antrian ranking](Ranking_queue), barulah beatmap tersebut akan berstatus [Ranked](#ranked).
+Beatmap-beatmap yang telah memperoleh dua nominasi per mode permainan yang dimilikinya akan secara otomatis berpindah ke kategori [Qualified](/wiki/Beatmap/Category#qualified). Meskipun mereka memiliki *leaderboard*-nya tersendiri, beatmap-beatmap yang berstatus Qualified tidak memberikan [performance point](/wiki/Performance_points) apapun ketika dimainkan. Ketika suatu beatmap telah mencapai akhir [antrian ranking](Ranking_queue), barulah beatmap tersebut akan berstatus [Ranked](#ranking).
 
 Kategori Qualified sendiri dirintis agar komunitas osu! dapat mengevaluasi beatmap-beatmap yang telah dinyatakan siap untuk di-*rank* secara lebih luas. Apabila suatu beatmap yang telah berstatus Qualified ternyata bermasalah, nominasi yang telah diberikan kepada beatmap tersebut akan [dianulir](#penganuliran-nominasi-(nomination-reset)) dan beatmap yang bersangkutan akan kembali ditarik ke Pending oleh anggota BN atau NAT.
 
