@@ -264,7 +264,7 @@ Don, Don-chan
 
 - Taiko (Skin)
 
-{Oficjalna skórka dost. [w opcjach](/wiki/Client/Options#Skin)}
+{Oficjalna skórka dost. [w opcjach](/wiki/Client/Options#skórka)}
 
 #### Twórcy
 
