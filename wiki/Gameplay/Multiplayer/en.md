@@ -69,9 +69,9 @@ The three buttons above the [chat console](/wiki/Client/Interface/Chat_console) 
 
 ::: Infobox
 ![](img/Multi_new_game.jpg "Configuration screen for creating a match lobby")
+:::
 
 <!-- TODO: update above image; there is a new `Make match history publicly viewable` button -->
-:::
 
 | Title | Description |
 | :-: | :-- |
