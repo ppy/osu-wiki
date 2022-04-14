@@ -1,4 +1,4 @@
-# Menschen
+# Personen
 
 Indexseite für Artikel über Menschen oder Gruppen.
 
