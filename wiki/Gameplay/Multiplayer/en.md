@@ -23,9 +23,7 @@ From the main menu, the main multiplayer lobby can be accessed with the followin
 
 *Notice: An active [osu!supporter](/wiki/osu!supporter) tag is required to enter the lobby while using the `Cutting Edge` build.*
 
-::: Infobox
 ![](img/Multi_lobby.jpg "Example of a typical day in the main multiplayer lobby")
-:::
 
 On entering, the player is presented with all currently available matches.
 
@@ -70,8 +68,10 @@ The three buttons above the [chat console](/wiki/Client/Interface/Chat_console) 
 ## Creating a new game
 
 ::: Infobox
-![](img/Multi_new_game.jpg "Configuration screen for creating a match lobby")<!-- TODO: update image; there is a new `Make match history publicly viewable` button -->
+![](img/Multi_new_game.jpg "Configuration screen for creating a match lobby")
 :::
+
+<!-- TODO: update above image; there is a new `Make match history publicly viewable` button -->
 
 | Title | Description |
 | :-: | :-- |
@@ -85,18 +85,12 @@ Pressing the `1. Start Game` button will create the match with the currently pla
 ## Match setup
 
 ::: Infobox
-![](img/Multi_roomhost.jpg "The match lobby viewed as a host")
-:::
-
-::: Infobox
 ![](img/Multi_roomplayer.jpg "The match lobby viewed as a player")
 :::
 
 After going into or creating a match, the match setup will be displayed. The following sections will focus on the different parts of the screen starting from top to bottom and going left to right.
 
 While there is no direct button for it, the [options menu](/wiki/Client/Options) can still be accessed by pressing `Ctrl` + `O` while in a match lobby.
-
-Note that the match setup screen looks slightly different for hosts and players (see the two images to the right).
 
 ### Header section
 
@@ -175,11 +169,7 @@ If the player does not have the beatmap, one of these statuses will be shown:
 #### Mods
 
 ::: Infobox
-![](img/Multi_mods_host.jpg "Host mod selection")
-:::
-
-::: Infobox
-![](img/Multi_mods_player.jpg "Player mod selection, in the osu! game mode, with FreeMod enabled")
+![](img/Multi_mods_player.jpg "The multiplayer mod selection screen, where the host has enabled Free Mods")
 :::
 
 This section will show the [game mods](/wiki/Game_modifier) used for this match.
@@ -188,7 +178,7 @@ The host can enable `Free Mods` to allow players to freely choose any mod combin
 
 #### Team mode {#team-mode-match-setup}
 
-*For more information about team modes, see the [gameplay section on team modes](#team-mode-while-playing).*
+*For more information about team modes, see the [gameplay section on team modes](#team-mode-gameplay).*
 
 There are four different ways a match can be played:
 
@@ -201,7 +191,9 @@ There are four different ways a match can be played:
 
 ##### Tag Colour
 
+::: Infobox
 ![](img/Multi_tag_colour.jpg "Available colours for the player's turn combo colour")
+:::
 
 If the team mode was set to `Tag co-op` or `Tag-team VS`, a `Tag Colour: (combo colour)` section will be shown which allows choosing a custom colour for each player. Setting this to `Default` will use the beatmap's original combo colours.
 
@@ -231,13 +223,13 @@ The blue button is used to control the player ready state and to start the match
 
 ### Match history
 
+::: Infobox
+![](img/multi-mh.jpg "A match history page on the website")
+:::
+
 The bottom section of the screen is the [chat console](/wiki/Client/Interface/Chat_console). Every match has its own channel in a tab called `#multiplayer`, with [BanchoBot](/wiki/BanchoBot) providing a link to the match history on the first line.
 
 For Head-to-head matches, the result will be displayed privately in another tab called `#userlog` upon conclusion, where BanchoBot says `You placed #{placement} of {total} players in multiplayer on {beatmap} [difficulty] <game mode>.`
-
-::: Infobox
-![](img/multi-mh.jpg "Example of a match history page on the website")
-:::
 
 ## While playing
 
@@ -300,7 +292,7 @@ The colour of each player on the leaderboard while playing indicates the status 
 | ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | A request from the player to skip the intro of a beatmap if there is one. The intro will be skipped once all players have requested to skip. |
 | ![](img/Playerbox/Multi_PB_QUIT.jpg "Quit") | Quit | The player has quit the match, either by pressing `Esc` twice or by disconnecting from [Bancho](/wiki/Bancho_(server)). The text colour will be changed from white to red, with `[Quit]` appended at the end. The box colour signifies the status before quitting the game. |
 
-### Team mode {#team-mode-while-playing}
+### Team mode {#team-mode-gameplay}
 
 #### Head-to-head
 
@@ -312,7 +304,7 @@ The colour of each player on the leaderboard while playing indicates the status 
 
 Head-to-head is a team mode where players duke it all out in a free-for-all match for the top spot on the leaderboard. This is the default team mode and does not have any special characteristics in gameplay, other than going for the top spot.
 
-##### Result
+##### Results
 
 ::: Infobox
 ![](img/Multi_grade.jpg "Head-to-head results screen")
@@ -338,7 +330,7 @@ Blue is on the left and Red is on the right. A crown at the centre moves left an
 
 Changing teams can be done while in the lobby. There is no handicap for teams with fewer members, and it is entirely possible to start a match with only one team.
 
-##### Result {#team-vs-result-screen}
+##### Results {#team-vs-results-screen}
 
 ::: Infobox
 ![](img/Multi_team_grade.jpg "Team VS results screen")
@@ -378,7 +370,7 @@ All players share the same health bar. If it depletes completely, the match ends
 
 Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect) game modifier will cause the whole team to fail if they fail due to it.<!-- TODO: check how SD and EZ work in Tag co-op and Tag-team VS -->
 
-##### Result
+##### Results
 
 ::: Infobox
 ![](img/Multi_co-op_grade.jpg "Tag co-op results screen")
@@ -390,9 +382,9 @@ Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perf
 
 No ranked score or performance points are awarded for `Tag co-op` or `Tag-team VS` matches.
 
-For Tag co-op, the result shown is the total score, the [judgements](/wiki/Gameplay/Judgement) and accuracy of the team. Individual results are not shown, and can only be seen in the match history. The result screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
+For `Tag co-op`, the result shown is the total score, the [judgements](/wiki/Gameplay/Judgement) and accuracy of the team. Individual results are not shown, and can only be seen in the match history. The result screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
 
-For Tag-team VS results screen, refer to Tag-team VS's [result screen explanation](#team-vs-result-screen).
+The `Tag-team VS` results screen is identical to the [`Team VS`'s results screen](#team-vs-results-screen).
 
 ## Trivia
 
