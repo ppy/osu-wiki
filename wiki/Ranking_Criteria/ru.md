@@ -15,7 +15,7 @@ outdated_since: 097575f6a3dae8c477c302dce2d1c9f76b71bb89
 
 ## Инструменты
 
-Для проверки карты настоятельно рекомендуем использовать [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier), поскольку [AiMod](/wiki/Client/Beatmap_editor/AiMod) из стабильной версии osu! уже устарел и давно не обновлялся, а в новой версии osu! (lazer) инструмент для проверки [находится в разработке](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
+Для проверки карты настоятельно рекомендуется использовать [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier), поскольку [AiMod](/wiki/Client/Beatmap_editor/AiMod) из стабильной версии osu! уже устарел и давно не обновлялся, а в новой версии osu! (lazer) инструмент для проверки [находится в разработке](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
 
 При этом важно помнить следующее:
 - Запуск подобных автоматических проверок **не избавляет** вас от необходимости чтения критериев ранкинга и самостоятельной оценки карты.
