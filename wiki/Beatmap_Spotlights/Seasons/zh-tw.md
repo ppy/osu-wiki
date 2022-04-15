@@ -3,6 +3,8 @@ tags:
   - charts
   - Ranking Charts
   - Seasonal Spotlights
+  - 月賽
+  - 賽季
 ---
 
 # 圖譜聚光燈賽季
