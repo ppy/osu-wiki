@@ -86,6 +86,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Allemand | Modération de la communauté modding/mapping |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russe | Modération du tchat |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japonais | Modération du tchat |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Russe | Modération du tchat |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russe | Modération du tchat |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandais | Modération du tchat |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugais, Espagnol | Modération du tchat, gestion des tournois |
@@ -94,7 +95,6 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonais, Chinois | Gestion des tournois |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Portugais | Modération de la communauté modding/mapping |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Développement d'osu! |
-| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Russe | Modération du tchat |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippin | Modération du tchat, modération du forum, support technique |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Français | Modération du tchat |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Modération de la communauté modding/mapping |
@@ -103,8 +103,8 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Portugais, Espagnol | Modération du tchat |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand | Modération de la communauté modding/mapping |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, Serbe | Modération du tchat, modération de la communauté modding/mapping |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modération du tchat |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Allemand | Gestion des tournois |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Français, un peu de Espagnol | Modération du tchat |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugais | Modération du tchat |
