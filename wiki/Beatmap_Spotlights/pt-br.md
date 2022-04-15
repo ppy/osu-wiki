@@ -33,47 +33,43 @@ Cada lançamento do Beatmap Spotlights é montado por um time dedicado de curado
 
 ### Curadores osu!
 
-- ![][flag_US] **[pishifat](https://osu.ppy.sh/users/3178418)**
+- ![][flag_FI] **[Nowaie](https://osu.ppy.sh/users/5428909)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
-- ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572)
 - ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
-- ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660)
+- ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943)
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
-- ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332)
-- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
+- ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### Curadores osu!taiko
 
-- ![][flag_DE] **[OnosakiHito](https://osu.ppy.sh/users/290128)**
-- ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
-- ![][flag_JP] [Charlotte](https://osu.ppy.sh/users/3686901)
-- ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851)
-- ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
-- ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817)
-- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
+- ![][flag_TN] **[Hivie](https://osu.ppy.sh/users/14102976)**
+- ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864)
+- ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)
+- ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
+- ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
+- ![][flag_MY] [[Zeth]](https://osu.ppy.sh/users/9912966)
 
 ### Curadores osu!catch
 
-- ![][flag_ES] **[Deif](https://osu.ppy.sh/users/318565)**
-- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
-- ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243)
-- ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
+- ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
+- ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
+- ![][flag_KR] [x_angelkawaii_x](https://osu.ppy.sh/users/566276)
 - ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
 - ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### Curadores osu!mania
 
 - ![][flag_GB] **[Hydria](https://osu.ppy.sh/users/808176)**
+- ![][flag_KR] [Aruel](https://osu.ppy.sh/users/3984370)
+- ![][flag_CA] [BringoBrango](https://osu.ppy.sh/users/10274043)
 - ![][flag_AU] [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
+- ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768)
 - ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184)
+- ![][flag_MY] [Kibitz](https://osu.ppy.sh/users/7418493)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
-- ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
-- ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
 
 ## Playlists (Verão 2020)
 
@@ -291,14 +287,14 @@ Recompensas são distribuídas para vencedores de salas permanentes semanalmente
 
 | Distintivos | Divisão de Liga | Posição |
 | :-: | :-- | :-- |
-| ![](img/badges/summer_2020/osu/ri_2.png) ![](img/badges/summer_2020/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
-| ![](img/badges/summer_2020/osu/diamond_2.png) ![](img/badges/summer_2020/osu/diamond_3.png) | Diamante | Top 51 – 3% |
-| ![](img/badges/summer_2020/osu/platinum_2.png) ![](img/badges/summer_2020/osu/platinum_3.png) | Platina | 3% – 10% |
-| ![](img/badges/summer_2020/osu/gold_2.png) ![](img/badges/summer_2020/osu/gold_3.png) | Ouro | 10% – 25% |
-| ![](img/badges/summer_2020/osu/silver_2.png) ![](img/badges/summer_2020/osu/silver_3.png) | Prata | 25% – 50% |
-| ![](img/badges/summer_2020/osu/bronze_2.png) ![](img/badges/summer_2020/osu/bronze_3.png) | Bronze | 50% – 70% |
-| ![](img/badges/summer_2020/osu/copper_2.png) ![](img/badges/summer_2020/osu/copper_3.png) | Cobre | 70% – 95% |
-| ![](img/badges/summer_2020/osu/iron_2.png) ![](img/badges/summer_2020/osu/iron_3.png) | Ferro | 95% – 100% |
+| ![](img/badges/winter_2022/osu/ri_2.png) ![](img/badges/winter_2022/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
+| ![](img/badges/winter_2022/osu/diamond_2.png) ![](img/badges/winter_2022/osu/diamond_3.png) | Diamante | Top 51 – 3% |
+| ![](img/badges/winter_2022/osu/platinum_2.png) ![](img/badges/winter_2022/osu/platinum_3.png) | Platina | 3% – 10% |
+| ![](img/badges/winter_2022/osu/gold_2.png) ![](img/badges/winter_2022/osu/gold_3.png) | Ouro | 10% – 25% |
+| ![](img/badges/winter_2022/osu/silver_2.png) ![](img/badges/winter_2022/osu/silver_3.png) | Prata | 25% – 50% |
+| ![](img/badges/winter_2022/osu/bronze_2.png) ![](img/badges/winter_2022/osu/bronze_3.png) | Bronze | 50% – 70% |
+| ![](img/badges/winter_2022/osu/copper_2.png) ![](img/badges/winter_2022/osu/copper_3.png) | Cobre | 70% – 95% |
+| ![](img/badges/winter_2022/osu/iron_2.png) ![](img/badges/winter_2022/osu/iron_3.png) | Ferro | 95% – 100% |
 
 Essa tabela mostra apenas uma das quatro versões de distintivos. Cada modo de jogo tem seu próprio distintivo.
 

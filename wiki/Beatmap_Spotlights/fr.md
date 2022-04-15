@@ -38,29 +38,27 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de conse
 
 - ![][flag_FI] **[Nowaie](https://osu.ppy.sh/users/5428909)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
 - ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943)
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
-- ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### Curateurs osu!taiko
 
-- ![][flag_DE] **[OnosakiHito](https://osu.ppy.sh/users/290128)**
-- ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
+- ![][flag_TN] **[Hivie](https://osu.ppy.sh/users/14102976)**
 - ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864)
-- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
-- ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+- ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)
 - ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
+- ![][flag_MY] [[Zeth]](https://osu.ppy.sh/users/9912966)
 
 ### Curateurs osu!catch
 
 - ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
-- ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276)
+- ![][flag_KR] [x_angelkawaii_x](https://osu.ppy.sh/users/566276)
 - ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
 - ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
@@ -120,14 +118,14 @@ Des récompenses sont distribuées aux gagnants du lobby temporaire hebdomadaire
 
 | Badges | Palier de bracket | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/spring_2021/osu/ri_1.png) ![](img/badges/spring_2021/osu/ri_2.png) | Rhythm Incarnate | Le meilleur des meilleurs |
-| ![](img/badges/spring_2021/osu/diamond_1.png) ![](img/badges/spring_2021/osu/diamond_2.png) | Diamond | Top 3% |
-| ![](img/badges/spring_2021/osu/platinum_1.png) ![](img/badges/spring_2021/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/spring_2021/osu/gold_1.png) ![](img/badges/spring_2021/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/spring_2021/osu/silver_1.png) ![](img/badges/spring_2021/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/spring_2021/osu/bronze_1.png) ![](img/badges/spring_2021/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/spring_2021/osu/copper_1.png) ![](img/badges/spring_2021/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/spring_2021/osu/iron_1.png) ![](img/badges/spring_2021/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/winter_2022/osu/ri_1.png) ![](img/badges/winter_2022/osu/ri_2.png) | Rhythm Incarnate | Le meilleur des meilleurs |
+| ![](img/badges/winter_2022/osu/diamond_1.png) ![](img/badges/winter_2022/osu/diamond_2.png) | Diamond | Top 3% |
+| ![](img/badges/winter_2022/osu/platinum_1.png) ![](img/badges/winter_2022/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/winter_2022/osu/gold_1.png) ![](img/badges/winter_2022/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/winter_2022/osu/silver_1.png) ![](img/badges/winter_2022/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/winter_2022/osu/bronze_1.png) ![](img/badges/winter_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/winter_2022/osu/copper_1.png) ![](img/badges/winter_2022/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/winter_2022/osu/iron_1.png) ![](img/badges/winter_2022/osu/iron_2.png) | Iron | 95% – 100% |
 
 Le seuil du niveau Rhythm Incarnate est choisi manuellement en fonction du nombre de participants de la saison et de la taille générale des autres niveaux, bien qu'il s'agisse d'un nombre absolu qui se situe entre le top 2 et le top 50 dans la plupart des cas.
 
