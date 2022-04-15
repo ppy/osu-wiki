@@ -287,14 +287,14 @@ Recompensas são distribuídas para vencedores de salas permanentes semanalmente
 
 | Distintivos | Divisão de Liga | Posição |
 | :-: | :-- | :-- |
-| ![](img/badges/winter_2022/osu/ri_2.png) ![](img/badges/winter_2022/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
-| ![](img/badges/winter_2022/osu/diamond_2.png) ![](img/badges/winter_2022/osu/diamond_3.png) | Diamante | Top 51 – 3% |
-| ![](img/badges/winter_2022/osu/platinum_2.png) ![](img/badges/winter_2022/osu/platinum_3.png) | Platina | 3% – 10% |
-| ![](img/badges/winter_2022/osu/gold_2.png) ![](img/badges/winter_2022/osu/gold_3.png) | Ouro | 10% – 25% |
-| ![](img/badges/winter_2022/osu/silver_2.png) ![](img/badges/winter_2022/osu/silver_3.png) | Prata | 25% – 50% |
-| ![](img/badges/winter_2022/osu/bronze_2.png) ![](img/badges/winter_2022/osu/bronze_3.png) | Bronze | 50% – 70% |
-| ![](img/badges/winter_2022/osu/copper_2.png) ![](img/badges/winter_2022/osu/copper_3.png) | Cobre | 70% – 95% |
-| ![](img/badges/winter_2022/osu/iron_2.png) ![](img/badges/winter_2022/osu/iron_3.png) | Ferro | 95% – 100% |
+| ![](img/badges/winter_2022/osu/ri_1.png) ![](img/badges/winter_2022/osu/ri_2.png) | Rhythm Incarnate | Top 50 |
+| ![](img/badges/winter_2022/osu/diamond_1.png) ![](img/badges/winter_2022/osu/diamond_2.png) | Diamante | Top 51 – 3% |
+| ![](img/badges/winter_2022/osu/platinum_1.png) ![](img/badges/winter_2022/osu/platinum_2.png) | Platina | 3% – 10% |
+| ![](img/badges/winter_2022/osu/gold_1.png) ![](img/badges/winter_2022/osu/gold_2.png) | Ouro | 10% – 25% |
+| ![](img/badges/winter_2022/osu/silver_1.png) ![](img/badges/winter_2022/osu/silver_2.png) | Prata | 25% – 50% |
+| ![](img/badges/winter_2022/osu/bronze_1.png) ![](img/badges/winter_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/winter_2022/osu/copper_1.png) ![](img/badges/winter_2022/osu/copper_2.png) | Cobre | 70% – 95% |
+| ![](img/badges/winter_2022/osu/iron_1.png) ![](img/badges/winter_2022/osu/iron_2.png) | Ferro | 95% – 100% |
 
 Essa tabela mostra apenas uma das quatro versões de distintivos. Cada modo de jogo tem seu próprio distintivo.
 
