@@ -37,29 +37,27 @@ tags:
 
 - ![][flag_FI] **[Nowaie](https://osu.ppy.sh/users/5428909)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
 - ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943)
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
-- ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### osu!taiko 策展人
 
-- ![][flag_DE] **[OnosakiHito](https://osu.ppy.sh/users/290128)**
-- ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
+- ![][flag_TN] **[Hivie](https://osu.ppy.sh/users/14102976)**
 - ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864)
-- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
-- ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+- ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)
 - ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
+- ![][flag_MY] [[Zeth]](https://osu.ppy.sh/users/9912966)
 
 ### osu!catch 策展人
 
 - ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
-- ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276)
+- ![][flag_KR] [x_angelkawaii_x](https://osu.ppy.sh/users/566276)
 - ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
 - ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
@@ -81,14 +79,16 @@ tags:
 
 月赛目前在规定时段中进行。每个赛季都包含一组图池和一个面向整个社区的竞争性赛季排行榜。
 
-1. 每个赛季持续 8 周。
+1. 每个赛季持续 9 周，一个周期有 3 个图池。
+   - 每个图池都会用一个字母标记。
+   - 每个图池包含 2 个 Hard，3 个 Insane 和 4 个 Expert 难度。
+   - 在前 6 周，每张图池会持续 2 个星期。
+   - 在最后 3 周，每张图池只会持续 1 个星期。
 2. 赛季在开始前就已经做好了充足的准备。
    - 图池都会在赛季开始之前被选中并锁定。
    - 赛季开始后，发布整个时间表。
-3. 一个赛季被分为多个星期。每个星期都会被标上一个字母。
-   - 字母代表每星期的多人游戏房间的图池。
-   - 在整个赛季中，每周进行一次循环，并重复两次。最后两周将以前的所有图池分为两个合并的图池。
-4. 赛季结束后，在新赛季开始前将有三周休息时间。在此期间，可以对项目进行一些调整。
+3. 每个赛季都会有一个以某种噱头或花招诡计为主题的图池。
+4. 下个赛季会在当前赛季结束的几周后开始。
 
 ### 赛季排行榜
 
@@ -141,12 +141,12 @@ tags:
 2. 谱面的选择基于其独特性和卓越性。每个选定的谱面都应在游戏性，设计和美学方面出类拔萃。
 3. 最终所选的谱面可作为对整个 osu! 社区的推荐。
 4. 为了履行向整个社区推荐优秀谱面的职责，谱面应涵盖特定范围的 Hard，Insane 和 Expert 难度。
-   - 所有谱面中的 25％ 应该在 Hard 难度内。
-   - 所有谱面中的 45％ 应该在 Insane 难度内。
-   - 所有谱面中的 30％ 应该在 Expert 难度内。
-5. 每赛季至少选择 20 个高质量谱面。
+   - 在所有谱面中，应该有 6 张谱面为 Hard 难度内。
+   - 在所有谱面中，应该有 9 张谱面为 Insane 难度内。
+   - 在所有谱面中，应该有 12 张谱面为 Expert 难度内。
+5. 每赛季一共选择 27 个高质量谱面。
    - 所有谱面必须 Ranked。
-   - 就算挑选出了超过 20 个谱面，也必须遵循难度之间的均匀分布。
+   - 就算挑选出了超过 27 个谱面，也必须遵循难度之间的均匀分布。
    - 策展人可以选择同一谱面集的多个谱面。
 6. 谱面应该是最新和公认内容的健康组合。
    - 所选谱面中至少有 25％ 必须在本赛季开始前的最近三个月内 Ranked。
@@ -181,17 +181,16 @@ tags:
 
 2020 年八月 ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底  ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) 和 ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
 
+在第 4 赛季（2021 春）后，项目进入停顿期，直至 2021 年 9 月，出现了复兴的倾向，随着 ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) 加入管理团队代替了 ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) 的卸任。2022 年 2 月，在经历了一些结构和团队的变化后，项目恢复了运作。
+
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"
 [flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
-[flag_FR]: /wiki/shared/flag/FR.gif "法国"
 [flag_GB]: /wiki/shared/flag/GB.gif "英国"
-[flag_HK]: /wiki/shared/flag/HK.gif "香港"
 [flag_HU]: /wiki/shared/flag/HU.gif "匈牙利"
 [flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_KR]: /wiki/shared/flag/KR.gif "韩国"
