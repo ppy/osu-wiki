@@ -13,7 +13,7 @@ The **Beatmap Spotlights** (also known as *Spotlights* or *Ranking Charts*) is a
 
 **The current iteration of this program is still under development and many features are still pending implementation.** Specifics of this system, such as rewards, seasonal rankings or gameplay features, can change anytime.
 
-The current season is the Winter 2021 season.
+The current season is the Winter 2022 season.
 
 ## Organisation
 

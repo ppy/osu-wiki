@@ -15,7 +15,7 @@ O **Beatmap Spotlights** (também conhecido como *Spotlights* ou *Ranking Charts
 
 **A iteração atual desse projeto está em desenvolvimento e muitas de suas funcionalidades ainda estão sendo implementadas.** Específicos desse sistema, tais como recompensas, rankings sazonais ou funcionalidades de jogabilidade, podem mudar a qualquer momento.
 
-A temporada atual é a temporada de Verão 2020. É considerada o primeiro teste do novo sistema de Beatmap Spotlights.
+A temporada atual é a temporada de Inverno 2022. É considerada o primeiro teste do novo sistema de Beatmap Spotlights.
 
 ## Organização
 

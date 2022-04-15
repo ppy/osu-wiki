@@ -16,7 +16,7 @@ tags:
 
 **Program Beatmap Spotlights saat ini masih berjalan dalam tahapan uji coba dan masih terdapat berbagai fitur yang belum sepenuhnya diimplementasikan.** Seluk-beluk dari sistem ini seperti penghargaan, papan peringkat musiman, dan fitur-fitur permainan lainnya masih bersifat tentatif dan dapat berubah kapan saja.
 
-Musim saat ini adalah Musim Dingin 2021.
+Musim saat ini adalah Musim Dingin 2022.
 
 ## Organisasi
 
