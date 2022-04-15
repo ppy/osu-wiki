@@ -4,7 +4,7 @@ outdated: true
 
 # Kontes
 
-Sebuah daftar kontes yang tidak disebutkan pada [Halaman Kontes Komunitas](https://osu.ppy.sh/community/contests) (sebagian besar sebelum akhir 2016 dan [kontes-kontes lainnya yang dikelola oleh komunitas](#community-contests)).
+Sebuah daftar kontes yang tidak disebutkan pada [Halaman Kontes Komunitas](https://osu.ppy.sh/community/contests) (sebagian besar sebelum akhir 2016 dan [kontes-kontes lainnya yang dikelola oleh komunitas](#kontes-komunitas)).
 
 ## Monthly Beatmapping Contest
 

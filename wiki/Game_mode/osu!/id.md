@@ -263,7 +263,7 @@ Sistem yang digunakan untuk menghitung *health drain* dan *health gain* per obje
 - Mengubah arah putaran di tengah putaran spinner akan menyebabkan spinner melakukan penyetelan ulang terhadap orientasi putaran. Mula-mula, spinner akan menurunkan putaran per menit ke 0. Kemudian, spinner akan melakukan penyetelan ulang dan mulai berputar ke arah yang benar.
 - Putaran spinner **tidak** akan dianggap valid jika kamu tidak melakukan putaran di sekitar inti tengah dari spinner.
 - Efek asap akan bertahan lebih lama daripada jejak kursor dalam game. Oleh karena itu, terapkan efek asap sesekali untuk mencegah efek asap sebelumnya menghilang terlalu cepat.
-- Maskot untuk osu! adalah [pippi](/wiki/Mascots#-pippi).
+- Maskot untuk osu! adalah [pippi](/wiki/Mascots#pippi).
 - Ketika kamu menggunakan mod [Auto](/wiki/Game_modifier/Auto), nama pemain akan ditampilkan sebagai osu!.
 
 ### Sejarah

@@ -537,7 +537,7 @@ Voici quelques exemples :
 
 ```markdown
 [FAQ](/wiki/FAQ)
-[pippi](/wiki/Mascots#-pippi)
+[pippi](/wiki/Mascots#pippi)
 [Beatmaps](../)
 [Pattern](./Pattern)
 ```
