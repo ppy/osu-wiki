@@ -18,8 +18,8 @@ Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](
 
 ### Gameplay
 
-- **Note merah/Don: **Sebuah ketukan yang dapat dipukul dengan tombol yang telah di-*bind* untuk *Drum Centre* (tombol bawaan `X`, `C`).
-- **Note biru/Kat: **Sebuah ketukan yang dapat dipukul dengan tombol yang telah di-*bind* untuk *Drum Rim* (tombol bawaan `Z`, `V`).
+- **Note merah/Don:** Sebuah ketukan yang dapat dipukul dengan tombol yang telah di-*bind* untuk *Drum Centre* (tombol bawaan `X`, `C`).
+- **Note biru/Kat:** Sebuah ketukan yang dapat dipukul dengan tombol yang telah di-*bind* untuk *Drum Rim* (tombol bawaan `Z`, `V`).
 - **Note Don besar / Merah besar / Note finisher:** Ketukan kuat yang dapat dipukul dengan kedua tombol Drum Centre secara bersamaan untuk skor ekstra.
 - **Note Kat besar / Note biru besar / Note finisher:** Ketukan kuat yang dapat dipukul dengan kedua kunci Drum Rim secara bersamaan untuk skor ekstra.
 - **BPM:** Singkatan dari "beats per minute" yang digunakan untuk menentukan tempo sebuah lagu.
