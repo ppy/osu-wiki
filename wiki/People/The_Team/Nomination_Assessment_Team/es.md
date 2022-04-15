@@ -51,10 +51,14 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluación, moderación |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluación |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chino | Evaluación |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalí, algo de árabe | Evaluación, estructural, moderación, comunicación |
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation, communication | 
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estructural, comunicación |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluación, estructural, comunicación |
+| ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluation | 
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estructural |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluación |
+| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian | Evaluation | 
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluación |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Español, francés | Evaluación |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Holandés | Evaluación |
@@ -84,6 +88,7 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Español, portugués, gallego, italiano, japonés | Evaluación |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluación |
 
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
@@ -91,6 +96,7 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 [flag_ES]: /wiki/shared/flag/ES.gif "España"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suecia"

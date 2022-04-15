@@ -86,6 +86,7 @@ tags:
 | ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Немецкий | Модерация маппинг-сообщества |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Русский | Модерация чата |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Японский | Модерация чата |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Русский | Модерация чата |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Русский | Модерация чата |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Финский | Модерация чата |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Португальский, испанский | Модерация чата, турниры |
@@ -94,7 +95,6 @@ tags:
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Кантонский диалект, китайский | Турниры |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Португальский | Модерация маппинг-сообщества |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Разработка osu! |
-| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Русский | Модерация чата |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Филиппинский | Модерация чата, модерация форума, техподдержка |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Французский | Модерация чата |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Модерация маппинг-сообщества |

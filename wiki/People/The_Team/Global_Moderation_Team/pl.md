@@ -76,6 +76,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Niemiecki | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rosyjski | Moderowanie czatu |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japoński | Moderowanie czatu |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Rosyjski | Moderowanie czatu |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rosyjski | Moderowanie czatu |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Fiński | Moderowanie czatu |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugalski, hiszpański | Moderowanie czatu, organizowanie turniejów |
@@ -84,7 +85,6 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kantoński, chiński | Organizowanie turniejów |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Portugalski | Moderowanie społeczności twórców i moderów beatmap |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Rozwój gry |
-| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Rosyjski | Moderowanie czatu |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński | Moderowanie czatu, moderowanie forum, pomoc techniczna |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francuski | Moderowanie czatu |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Moderowanie społeczności twórców i moderów beatmap |

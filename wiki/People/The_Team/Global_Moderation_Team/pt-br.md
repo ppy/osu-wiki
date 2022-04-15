@@ -75,6 +75,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Alemão | Moderação da comunidade de mapping/modding |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russo | Moderação de chat |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japonês | Moderação de chat |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Russo | Moderação de chat |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russo | Moderação de chat |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandês | Moderação de chat |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Português, Espanhol | Moderação de chat, torneios |
@@ -83,7 +84,6 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonês, Chinês | Torneios |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Português | Moderação da comunidade de mapping/modding |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Desenvolvimento do osu! |
-| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Russo | Moderação de chat |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Moderação de chat, moderação de fórum, suporte técnico |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francês | Moderação de chat |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Moderação da comunidade de mapping/modding |

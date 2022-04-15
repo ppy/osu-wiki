@@ -81,6 +81,7 @@ tags:
 | ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | ドイツ語 | Mapping/modding コミュニティ モデレーション |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | ロシア語 | チャットモデレーション |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | 日本語 | チャットモデレーション |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | ロシア語 | チャットモデレーション |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | ロシア語 | チャットモデレーション |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | フィンランド語 | チャットモデレーション |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | ポルトガル語、スペイン語 | チャットモデレーション、トーナメント運営 |
@@ -89,7 +90,6 @@ tags:
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | 広東語、中国語 | トーナメント運営 |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | ポルトガル語 | Mapping/modding コミュニティ モデレーション |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu!開発者 |
-| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | ロシア語 | チャットモデレーション |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | フィリピン語 | チャットモデレーション、フォーラムモデレーション、テクニカルサポート |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | フランス語 | チャットモデレーション |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Mapping/modding コミュニティ モデレーション |
