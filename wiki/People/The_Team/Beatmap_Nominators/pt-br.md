@@ -169,6 +169,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Holandês |
 | ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | Espanhol |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonésio |
+| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | Coreano |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinês |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
 | ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772) | Indonésio |
@@ -212,7 +213,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Chinese | 
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Coreano |
-| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | Coreano |
+| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Coreano |
 
 ## History
 

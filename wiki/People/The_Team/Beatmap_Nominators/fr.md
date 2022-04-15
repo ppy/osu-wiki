@@ -169,6 +169,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Néerlandais |
 | ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | Espagnol |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonésien |
+| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | Coréen |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinois |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coréen |
 | ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772) | Indonésien |

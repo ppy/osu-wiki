@@ -167,6 +167,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Dutch |
 | ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | Spanish |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesian |
+| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | Korean |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinese |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korean |
 | ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772) | Indonesian |
@@ -210,7 +211,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Chinese | 
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korean |
-| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | Korean |
+| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korean |
 
 ## History
 
@@ -218,7 +219,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 - On the 22nd of August, 2014, the BAT were no longer considered a part of the staff team. This revoked their chat moderation ability in-game and their red name in-game and on the forums.
 - On the 1st of February, 2015, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nomination Group*, later adjusted to the Beatmap Nominators that we know today.
 
-<!--- updated to April 13, 2022 @ 1742 with the Maxus' removal from BN to his addition into the NAT---> 
+<!--- updated to April 15, 2022 with the addition of Kim_GodSSI to the Probationary BN ---> 
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

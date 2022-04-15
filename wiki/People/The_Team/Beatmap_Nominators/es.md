@@ -168,6 +168,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Holandés |
 | ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | Español |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesio |
+| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | Coreano |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chino |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
 | ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772) | Indonesio |

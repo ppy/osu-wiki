@@ -168,7 +168,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
 
-<!--- Updated as of March 9, 2022 @2037 with the name change of mrrrk to Kudou Chitose---> 
+<!--- Updated as of April 15, 2022 with the name change of mrrrk to Kudou Chitose, and fixing the alphabetizing of the GMT---> 
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

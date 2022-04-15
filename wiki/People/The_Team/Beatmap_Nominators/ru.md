@@ -169,6 +169,7 @@ tags:
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Нидерландский |
 | ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | Испанский |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Индонезийский |
+| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | Корейский |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Китайский |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Корейский |
 | ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772) | Индонезийский |

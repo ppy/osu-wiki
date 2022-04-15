@@ -169,6 +169,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | ดัตช์ |
 | ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | สเปน |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | อินโดนีเซีย |
+| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | เกาหลี |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | จีน |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | เกาหลี |
 | ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772) | อินโดนีเซีย |
@@ -212,7 +213,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | :-- | :-- |
 | ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Chinese | 
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | เกาหลี |
-| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | เกาหลี |
+| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | เกาหลี |
 
 ## ประวัติ
 

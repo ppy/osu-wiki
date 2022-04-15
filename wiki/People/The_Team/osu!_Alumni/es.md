@@ -147,7 +147,6 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | QAT, NAT |
 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, osu!dev |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | NAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
 | ![][flag_KR] [minyeob](https://osu.ppy.sh/users/9207) | BAT |
@@ -165,6 +164,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | QAT, NAT |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ![][flag_CN] [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |

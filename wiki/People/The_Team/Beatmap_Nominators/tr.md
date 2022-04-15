@@ -169,6 +169,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Flemenkçe |
 | ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | İspanyolca |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Endonezce |
+| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | Korece |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Çince |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korece |
 | ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772) | Endonezce |
@@ -212,7 +213,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Chinese | 
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korece |
-| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | Korece |
+| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korece |
 
 ## Tarihçe
 

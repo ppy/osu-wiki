@@ -169,6 +169,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Belanda |
 | ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | Spanyol |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesia |
+| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | Korea |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Mandarin |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korea |
 | ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772) | Indonesia |
