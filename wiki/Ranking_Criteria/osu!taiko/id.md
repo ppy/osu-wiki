@@ -16,7 +16,7 @@ Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 - ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
-### Istilah umum
+### Gameplay
 
 - **Note merah/Don: **Sebuah ketukan yang dapat dipukul dengan tombol yang telah di-*bind* untuk *Drum Centre* (tombol bawaan `X`, `C`).
 - **Note biru/Kat: **Sebuah ketukan yang dapat dipukul dengan tombol yang telah di-*bind* untuk *Drum Rim* (tombol bawaan `Z`, `V`).
