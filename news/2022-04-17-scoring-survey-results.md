@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scoring Survey Results"
-date: 2022-04-14 09:00:00 +0000
+date: 2022-04-17 09:00:00 +0000
 ---
 
 The results from the survey we held recently about scoring and scoreboards are in. Check out where your opinions stand with the rest of the community!
