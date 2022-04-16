@@ -87,7 +87,7 @@ tags:
 2. 赛季在开始前就已经做好了充足的准备。
    - 图池都会在赛季开始之前被选中并锁定。
    - 赛季开始后，发布整个时间表。
-3. 每个赛季都会有一个以某种噱头或花招诡计为主题的图池。
+3. 每个赛季都会有一个特定主题的图池。
 4. 下个赛季会在当前赛季结束的几周后开始。
 
 ### 赛季排行榜
@@ -181,7 +181,7 @@ tags:
 
 2020 年八月 ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底  ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) 和 ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
 
-在第 4 赛季（2021 春）后，项目进入停顿期，直至 2021 年 9 月，出现了复兴的倾向，随着 ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) 加入管理团队代替了 ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) 的卸任。2022 年 2 月，在经历了一些结构和团队的变化后，项目恢复了运作。
+在第 4 赛季（2021 春）后，项目进入停顿期。直至 2021 年 9 月，出现了复兴的倾向，![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) 卸任，而 ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) 加入管理团队，于 2022 年 2 月，在人员重组后，项目恢复了运作。
 
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
