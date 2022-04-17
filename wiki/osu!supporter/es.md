@@ -69,6 +69,7 @@ osu!direct es el motor de búsqueda y descarga de mapas disponible para supporte
 
 - Enlaces de beatmaps en el chat, que te dirigen al sitio web de osu!, ahora activan el aviso de descarga dentro del juego
 - Descargas automáticas de beatmaps mientras juegas en una sala [multijugador](/wiki/Gameplay/Multiplayer) o te encuentras [espectando](/wiki/Gameplay/Spectating) a otro usuario, como una [configuración opcional](/wiki/Client/Options#online)
+- Enlace automático de los beatmaps que se están jugando en la pestaña de chat `#spectator` para los espectadores, como una [configuración opcional](/wiki/Client/Options#online)
 
 ### Clasificaciones extendidas
 
