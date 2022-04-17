@@ -203,7 +203,6 @@ Sunday, April 17, 2022
 | 货拉拉拉不拉拉布拉多 | **6** | 3 | 涩涩不队 | [#1](https://osu.ppy.sh/community/matches/99840516) |
 | 大怨种被迫当队长 | **6** | 4 | GBC最强阵容9个Miyes | [#1](https://osu.ppy.sh/community/matches/99840241) |
 
-
 ## Ruleset
 
 ### Tournament rules
@@ -329,7 +328,7 @@ Sunday, April 17, 2022
 ### Mappool instructions
 
 1. There will be one mappool for each stage.
-   - The whole Regular stage will be seen as a single stage, meaning the same mappool will be used in all matches in the Regular stage.
+   - The Regular stage Round 1 & Round 2 will be seen as a single stage, meaning the same mappool will be used in all matches in the Round 1 and Round 2.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. All mappools contain 13 beatmaps.
 4. Each mappool has one tiebreaker.
