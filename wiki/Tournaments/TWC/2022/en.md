@@ -115,6 +115,33 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here (117 MB)](https://drive.google.com/uc?id=1nBTRaLhiOQ7wSGNJBHbdKfu75JRZkj3c)**
+
+- NoMod
+  1. [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai (KTYN) \[KTYN//FIRE (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1744775#taiko/3568501)
+  2. [7\_7 - Meriba (X a v y) \[ONI\]](https://osu.ppy.sh/beatmapsets/1744973#taiko/3569029)
+  3. [Frums - Q.E. (HiroK) \[Mirage\]](https://osu.ppy.sh/beatmapsets/1530469#taiko/3130422)
+  4. [TJ.hangneil - Apollo (Axer) \[Nostradamus\]](https://osu.ppy.sh/beatmapsets/1739877#taiko/3556397)
+  5. [7\_7 - Meriba (X a v y) \[ONI\]](https://osu.ppy.sh/beatmapsets/1744973#taiko/3569029)
+  6. [agata - AMAIWTIWNKMS (Nifty) \[TWC Ver.\]](https://osu.ppy.sh/beatmapsets/1744774#taiko/3568498)
+- Hidden
+  1. [Animals as Leaders - Monomyth (Zetera) \[Mess\]](https://osu.ppy.sh/beatmapsets/1744810#taiko/3568619)
+  2. [METAROOM - SPIRAL (woosungko) \[CONVERGENCE (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1744786#taiko/3568534)
+- Hard Rock
+  1. [Retractable - Eye of xxxx (4sbet1) \[Oni\]](https://osu.ppy.sh/beatmapsets/1383882#taiko/2858741)
+  2. [Slax - Too Much Loli (KawaiiBass) \[Go Away 260BPM\]](https://osu.ppy.sh/beatmapsets/1579730#taiko/3225784)
+- Double Time
+  1. [Mothtek - Meltdown (Remix 2022) (KawaiiBass) \[agitato\]](https://osu.ppy.sh/beatmapsets/1744995#taiko/3569182)
+  2. [Gomitaro - S4y G00dby3 (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1454482#taiko/2991949)
+- FreeMod
+  1. [YUKIYANAGI - ALERT (Megafan) \[RAVING ALL NIGHT\]](https://osu.ppy.sh/beatmapsets/1744794#taiko/3568570)
+  2. [The Flashbulb - Ninedump (Arrival) \[tasuke's Perilous\]](https://osu.ppy.sh/beatmapsets/984361#taiko/2059692)
+  3. [Marco Minnemann - Broken Orange (mangomizer) \[mango\]](https://osu.ppy.sh/beatmapsets/1642598#taiko/3433673)
+- Tiebreaker
+  1. **[onumi & Akira Complex - Ethereal Cyber Angel XV (Maimaing) \[Demon\]](https://osu.ppy.sh/beatmapsets/1744942#taiko/3568932)**
+
 ### Finals
 
 **[Download the mappack here (81 MB)](https://drive.google.com/uc?id=1qOcr47k05xIJn6o6zg5vUMdNzzVeNqUA)**
@@ -267,6 +294,8 @@ The osu!taiko World Cup 2022 is run by various community members.
 ## Match results
 
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Qlbh6F3OZ0ZLnEy12eBhPcuTb32ZcsMBq25dyBePVc0/edit?rm=minimal).
 
 Saturday, April 16, 2022
 
