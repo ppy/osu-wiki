@@ -19,6 +19,8 @@ tags:
   - Gerät
   - Benutzername
   - Löschung
+outdated: true
+outdated_since: 56ef96e783e017921593b286c0d744de40c16168
 ---
 
 <!--TODO: change link as soon as German article is available (line 223)-->

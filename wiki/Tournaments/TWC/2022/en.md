@@ -95,28 +95,23 @@ The osu!taiko World Cup 2022 is run by various community members.
 | ![][flag_US] | **United States** | **[general chicken](https://osu.ppy.sh/users/8050850)**, [R J](https://osu.ppy.sh/users/6490509), [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [Miniature Lamp](https://osu.ppy.sh/users/9821194), [ChurroChef](https://osu.ppy.sh/users/9258564), [cheese salad](https://osu.ppy.sh/users/6349821) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [AkiraPlayz](https://osu.ppy.sh/users/16039831), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [JackTVN](https://osu.ppy.sh/users/12510704), [njshift1](https://osu.ppy.sh/users/16688499) |
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Saturday, April 16, 2022
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Hong Kong | ![][flag_HK] | ![][flag_ID] | Indonesia | Apr 16 (Sat) 12:00 UTC | Apr 16 (Sat) 20:00 UTC+8 | Apr 16 (Sat) 19:00 UTC+7 | ² |
-| Germany | ![][flag_DE] | ![][flag_SE] | Sweden | Apr 16 (Sat) 18:00 UTC | Apr 16 (Sat) 20:00 UTC+2 | Apr 16 (Sat) 20:00 UTC+2 | ² |
-
-### Sunday, April 17, 2022
+### Saturday, April 23, 2022
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Germany | ![][flag_DE] | ![][flag_HK] | Hong Kong | Apr 17 (Sun) 07:00 UTC | Apr 17 (Sun) 09:00 UTC+2 | Apr 17 (Sun) 15:00 UTC+8 | ³ |
-| Germany | ![][flag_DE] | ![][flag_ID] | Indonesia | Apr 17 (Sun) 07:00 UTC | Apr 17 (Sun) 09:00 UTC+2 | Apr 17 (Sun) 14:00 UTC+7 | ³ |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Apr 17 (Sun) 10:00 UTC | Apr 17 (Sun) 19:00 UTC+9 | Apr 17 (Sun) 19:00 UTC+9 | ¹ |
-| Sweden | ![][flag_SE] | ![][flag_HK] | Hong Kong | Apr 17 (Sun) 12:00 UTC | Apr 17 (Sun) 14:00 UTC+2 | Apr 17 (Sun) 20:00 UTC+8 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_ID] | Indonesia | Apr 17 (Sun) 12:00 UTC | Apr 17 (Sun) 14:00 UTC+2 | Apr 17 (Sun) 19:00 UTC+7 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia | Apr 23 (Sat) 12:00 UTC | Apr 23 (Sat) 21:00 UTC+9 | Apr 23 (Sat) 19:00 UTC+7 | ¹ |
 
-¹ Winners bracket match\
-² Losers bracket match\
-³ Potential match: final matchup depends on the results of ²
+### Sunday, April 24, 2022
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Apr 24 (Sun) 12:00 UTC | Apr 24 (Sun) 21:00 UTC+9 | Apr 24 (Sun) 21:00 UTC+9 | ² |
+| Japan | ![][flag_JP] | ![][flag_ID] | Indonesia | Apr 24 (Sun) 12:00 UTC | Apr 24 (Sun) 21:00 UTC+9 | Apr 24 (Sun) 19:00 UTC+7 | ² |
+
+¹ Losers bracket match\
+² Potential match: final matchup depends on the results of ¹
 
 ## Mappools
 
@@ -270,6 +265,22 @@ The osu!taiko World Cup 2022 is run by various community members.
   1. [seatrus - O (KTYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/1712976#taiko/3500185)
 
 ## Match results
+
+### Finals
+
+Saturday, April 16, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 1 | **7** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/99804975) |
+| **Germany** ![][flag_DE] | **7** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/99816543) |
+
+Sunday, April 17, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Germany ![][flag_DE] | 6 | **7** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/99836330) |
+| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/99839555) |
 
 ### Semifinals
 

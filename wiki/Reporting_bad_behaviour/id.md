@@ -15,7 +15,7 @@ Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, par
 
 Untuk kasus-kasus lainnya, harap ikuti instruksi di bawah ini.
 
-## *In-game chat*
+## In-game chat
 
 ### Menggunakan perintah !report
 
@@ -97,7 +97,7 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 2. Klik tombol titik tiga yang muncul pada bagian kanan layar dan pilih `Laporkan Skor`.
 3. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
-#### Pada papan peringkat (*leaderboard*) beatmap
+#### Pada papan peringkat (leaderboards) beatmap
 
 ![](img/report-score-beatmap-ID.png "Tombol \"Laporkan Skor\" pada papan peringkat beatmap")
 
