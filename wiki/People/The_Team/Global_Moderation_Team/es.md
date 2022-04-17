@@ -37,7 +37,7 @@ Los factores más importantes para ser considerado son el comportamiento, la act
 1. Demostrar una buena conducta al ser educado y tratar a otros usuarios con respeto. Mantener tu cuenta libre de silencios serios o problemas es esencial.
 2. Demostrar una actividad dentro del juego, participando en el chat y/o en los foros. [Reporta malas conductas](/wiki/Reporting_bad_behaviour) o cualquier problema vía el sistema de reportes. Responde preguntas y ayuda a otros con sus problemas.
 3. Tener un entendimiento adecuado de [las reglas](/wiki/Rules) y cómo son aplicadas. Es importante saber qué es aceptable en osu! y qué no lo es.
-4. Ser paciente. El GMT no añade no es espontáneo en cuanto a añadir miembros que lleven ayudando un par de días. Al GMT le toma tiempo evaluar a alguien-su personalidad, con qué pueden ayudar, su actividad, etc.
+4. Ser paciente. Los GMT no añade miembros de manera espontanea que lleven ayudando un par de días. A los GMT les toma tiempo evaluar a alguien su personalidad, con qué pueden ayudar, su actividad, etc.
 
 Generalmente el equipo observará a las personas por varias semanas para asegurarse de que son una adición valiosa para el equipo. Por favor sé paciente y no te pases. Siéntete libre de preguntarle a cualquiera del GMT sobre cualquier pregunta relativa a las reglas, reportar usuarios y otros problemas.
 
