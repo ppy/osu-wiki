@@ -14,8 +14,7 @@ Any severe violation of the [community rules](/wiki/Rules) that takes place duri
 
 Some real-world examples of such behavior is as follows:
 
-- Drawing hate symbols (swastika, etc.) using cursor smoke in streamed matches
-- Writing slurs or parts of slurs in cursor smoke in streamed matches
+- Drawing or writing hate symbols/slurs (swastika, etc.) using cursor smoke in streamed matches
 
 All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns), which may be lengthened at the discretion of the [account support team](/wiki/People/The_Team/Account_support_team).
 
