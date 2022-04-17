@@ -4,7 +4,7 @@
 
 A tournament ban prevents a player from being involved in officially supported tournaments in any capacity. This includes playing and staffing or any other kind of assistance.
 
-Tournament bans are very rarely handed out their own, but generally speaking almost all players who return under a standard appeal for an [account restriction](/wiki/Help_centre/Account_restrictions) are subject to one of at least a year in length.
+Tournament bans are very rarely handed out on their own, but generally speaking almost all players who return under a standard appeal for an [account restriction](/wiki/Help_centre/Account_restrictions) are subject to one of at least a year in length.
 
 Due to the high-stakes nature of tournament play, tournament bans are treated very seriously and are not subject to the kind of leniency an account restriction might ordinarily receive.
 
