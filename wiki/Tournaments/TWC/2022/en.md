@@ -124,7 +124,7 @@ The osu!taiko World Cup 2022 is run by various community members.
   2. [7\_7 - Meriba (X a v y) \[ONI\]](https://osu.ppy.sh/beatmapsets/1744973#taiko/3569029)
   3. [Frums - Q.E. (HiroK) \[Mirage\]](https://osu.ppy.sh/beatmapsets/1530469#taiko/3130422)
   4. [TJ.hangneil - Apollo (Axer) \[Nostradamus\]](https://osu.ppy.sh/beatmapsets/1739877#taiko/3556397)
-  5. [7\_7 - Meriba (X a v y) \[ONI\]](https://osu.ppy.sh/beatmapsets/1744973#taiko/3569029)
+  5. [Jiiko - Wocky (Maimaing) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1744951#taiko/3568943)
   6. [agata - AMAIWTIWNKMS (Nifty) \[TWC Ver.\]](https://osu.ppy.sh/beatmapsets/1744774#taiko/3568498)
 - Hidden
   1. [Animals as Leaders - Monomyth (Zetera) \[Mess\]](https://osu.ppy.sh/beatmapsets/1744810#taiko/3568619)
