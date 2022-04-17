@@ -88,7 +88,7 @@ osu! ofrece a los supporters límites incrementados en varias funciones en líne
 | Beatmaps favoritos | 100 | 1000 |
 | Amigos | 250 | 500 |
 
-Adicionalmente, los usuarios con osu!supporter tienen límites de descarga de beatmaps poco estrictos.
+Adicionalmente, los usuarios con osu!supporter tienen límites de descarga de beatmaps menos estrictos.
 
 ### Elementos extra para la Skin
 
