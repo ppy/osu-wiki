@@ -55,7 +55,7 @@ Supporters can further customise their profile by setting a cover image:
 - Press the pencil icon in the lower right corner of the cover placeholder.
 - Select a new cover from a few predefined options, or upload your own image (its dimensions should be 2400x640).
 
-Once osu!supporter expires, the cover will be replaced with a standard one.
+Once osu!supporter expires, the cover will remain, but cannot be changed.
 
 ### One free username change
 
@@ -114,6 +114,10 @@ Supporters have access to an extended set of [beatmap search](https://osu.ppy.sh
 
 - Beatmaps that were (or were not) played
 - Beatmaps where a score with certain [grade](/wiki/Gameplay/Grade) was set
+
+### Multiplayer in experimental builds of osu!
+
+Supporters may access multiplayer from builds on the early access "cutting edge" release stream.
 
 ## Remaining duration
 

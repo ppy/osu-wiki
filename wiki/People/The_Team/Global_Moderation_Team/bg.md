@@ -89,6 +89,7 @@ tags:
 | ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Немски | Модериране обществото на създатели/редактори |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Руски | Модериране на чат |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Японски | Модериране на чат |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Руски | Модериране на чат |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Руски | Модериране на чат |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Финландски | Модериране на чат |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Португалски, Испански | Модериране на чат, Управление на турнири |
@@ -97,7 +98,6 @@ tags:
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Кантонски, Китайски | Управление на турнири |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Португалски | Модериране обществото на създатели/редактори |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! разработчик |
-| ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | Руски | Модериране на чат |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Филипински | Модериране на чат, Модериране на форум, Техническа поддръжка |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Френски | Модериране на чат |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Модериране обществото на създатели/редактори |
@@ -106,8 +106,8 @@ tags:
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Португалски, Испански | Модериране на чат |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Немски | Модериране обществото на създатели/редактори |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Немски, Сръбски | Модериране на чат, Модериране обществото на създатели/редактори |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Официално представяне на екип |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Филипински | Модериране на чат |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Официално представяне на екип |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Немски | Управление на турнири |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Френски, малко Испански | Модериране на чат, Модериране на форум, Модериране обществото на създатели/редактори |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Португалски | Модериране на чат |

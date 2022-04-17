@@ -67,7 +67,7 @@ Note que caso esteja usando a API para calcular a precisão, a quantidade de dro
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-No [osu!mania](/wiki/Game_mode/osu!mania), a precisão é calculada de modo similar ao [osu!](#-osu!).
+No [osu!mania](/wiki/Game_mode/osu!mania), a precisão é calculada de modo similar ao [osu!](#osu!).
 
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 

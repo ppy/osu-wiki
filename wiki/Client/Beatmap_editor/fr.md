@@ -2,7 +2,7 @@
 
 ![Une capture d'écran de l'onglet composition montrant la beatmap Donor Song de pishifat](img/compose.jpg)
 
-*Pour les raccourcis de l'éditeur de beatmap, voir : [Référence sur les raccourcis clavier & éditeur de beatmap](/wiki/Client/Keyboard_shortcuts#general)*
+*Pour les raccourcis de l'éditeur de beatmap, voir : [Référence sur les raccourcis clavier & éditeur de beatmap](/wiki/Client/Keyboard_shortcuts#général)*
 
 L'**éditeur de beatmap** est l'interface graphique intégrée au client et est utilisée pour créer des [beatmaps](/wiki/Beatmap). Le [Beatmapping](/wiki/Beatmapping) est le processus de création de beatmap sur osu!.
 

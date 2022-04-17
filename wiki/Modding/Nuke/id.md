@@ -2,7 +2,7 @@
 
 **Nuke** merupakan suatu ikon pada sistem [forum modding](/wiki/Modding/Forum_modding) terdahulu yang digunakan untuk menandai [beatmap-beatmap](/wiki/Beatmap) yang bermasalah. Ikon ini pada umumnya disematkan oleh para anggota [Beatmap Appreciation Team (BAT)](/wiki/Modding/Beatmap_Appreciation_Team) atau [Global Moderation Team (GMT)](/wiki/People/The_Team/Global_Moderation_Team) pada beatmap-beatmap yang dianggap telah mengabaikan aturan dan [kode etik](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) yang berlaku.
 
-Saat sebuah beatmap di-nuke, akan muncul simbol radioaktif ![](/wiki/shared/icon/nuke.gif) pada utas beatmap tersebut. Simbol tersebut menjadi tanda bagi anggota BAT/GMT lainnya bahwa beatmap tersebut tidak dapat dipertimbangkan untuk [Ranked](/wiki/Beatmap_ranking_procedure#ranked) sampai perubahan signifikan telah dibuat. Jika perubahan yang sesuai sudah dilakukan, ikon tersebut akan dihapus dan dapat dilanjutkan ke [proses ranking](/wiki/Beatmap_ranking_procedure).
+Saat sebuah beatmap di-nuke, akan muncul simbol radioaktif ![](/wiki/shared/icon/nuke.gif) pada utas beatmap tersebut. Simbol tersebut menjadi tanda bagi anggota BAT/GMT lainnya bahwa beatmap tersebut tidak dapat dipertimbangkan untuk [Ranked](/wiki/Beatmap_ranking_procedure#ranking) sampai perubahan signifikan telah dibuat. Jika perubahan yang sesuai sudah dilakukan, ikon tersebut akan dihapus dan dapat dilanjutkan ke [proses ranking](/wiki/Beatmap_ranking_procedure).
 
 ::: Infobox
 ![](img/forum-listing-nuke.png "Beatmap-beatmap yang di-nuke dan utas-utasnya yang berada di sub-forum Graveyard")

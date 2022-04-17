@@ -443,4 +443,4 @@ Sunday, 11 April 2021:
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_XX]: /wiki/shared/flag/XX.gif
+[flag_XX]: /wiki/shared/flag/__.gif

@@ -73,6 +73,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | 德语 | 谱面制作社群的管理工作 |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | 俄语 | 聊天室管理员 |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | 日语 | 聊天室管理员 |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | 俄语 | 聊天室管理员 |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 俄语 | 聊天室管理员 |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | 芬兰语 | 聊天室管理员 |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | 葡萄牙语，西班牙语 | 聊天室管理员，锦标赛管理员 |
@@ -81,7 +82,6 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | 粤语，中文 | 锦标赛管理员 |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | 葡萄牙语 | 谱面制作社群的管理工作 |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! 开发 |
-| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | 俄语 | 聊天室管理员 |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天室管理员，论坛管理员，技术支持 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 法语 | 聊天室管理员 |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | 谱面制作社群的管理工作 |
@@ -90,8 +90,8 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | 葡萄牙语，西班牙语 | 聊天室管理员 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | 谱面制作社群的管理工作 |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | 德语，塞尔维亚语 | 聊天室管理员，谱面制作社群的管理工作 |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 菲律宾语 | 聊天室管理员 |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 德语 | 锦标赛管理员 |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | 法语，部分西班牙语 | 聊天室管理员 |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | 葡萄牙语 | 聊天室管理员 |
