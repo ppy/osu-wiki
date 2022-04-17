@@ -33,7 +33,7 @@ The **Touhou Project Mania Cup 2nd** (***TMC 2nd***) was a team-based 2v2 osu!ma
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-![](img/badge.png "TMC 2st winner badge")
+![](img/badge.png "TMC 2nd winner badge")
 
 ## Organisation
 
@@ -44,7 +44,7 @@ The Touhou Project Mania Cup 2nd was run by the TMC team and various community m
 | Host | ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
 | Co-host | ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_CN] [cdwcgt](https://osu.ppy.sh/users/14721101) |
 | Mappool selector | ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_CN] [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903), ![][flag_MX] [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070), ![][flag_ID] [eZmmR](https://osu.ppy.sh/users/8647138), ![][flag_GB] [H1Pur](https://osu.ppy.sh/users/15756120), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [YuEast 2018](https://osu.ppy.sh/users/13953619) |
-| Pool tester | ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_GB] [Eliminate](https://osu.ppy.sh/users/9169747), ![][flag_GB] [H1Pur](https://osu.ppy.sh/users/15756120), ![][flag_SG] [Kings](https://osu.ppy.sh/users/1016926) |
+| Mappool tester | ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_GB] [Eliminate](https://osu.ppy.sh/users/9169747), ![][flag_GB] [H1Pur](https://osu.ppy.sh/users/15756120), ![][flag_SG] [Kings](https://osu.ppy.sh/users/1016926) |
 | Custom mapper | ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_CN] [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903), ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_MX] [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070), ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_CN] [cherrychou](https://osu.ppy.sh/users/7214023), ![][flag_ID] [eZmmR](https://osu.ppy.sh/users/8647138), ![][flag_GB] [H1Pur](https://osu.ppy.sh/users/15756120), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [Miscedence](https://osu.ppy.sh/users/15382838), ![][flag_CN] [YuEast 2018](https://osu.ppy.sh/users/13953619), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Showcaser | ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_TW] [\[Crz\]Ha0201](https://osu.ppy.sh/users/12243730), ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_CN] [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ![][flag_GB] [Eliminate](https://osu.ppy.sh/users/9169747), ![][flag_GB] [H1Pur](https://osu.ppy.sh/users/15756120), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Referee | ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_CN] [cdwcgt](https://osu.ppy.sh/users/14721101), ![][flag_GB] [H1Pur](https://osu.ppy.sh/users/15756120), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_BR] [Konohana Lucia](https://osu.ppy.sh/users/8642224), ![][flag_ID] [SanjayaIH](https://osu.ppy.sh/users/12202728), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_ID] [Yukari\_Sama](https://osu.ppy.sh/users/6316524) |
@@ -52,7 +52,7 @@ The Touhou Project Mania Cup 2nd was run by the TMC team and various community m
 | Commentator | ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_US] [-Sparky-](https://osu.ppy.sh/users/3187959), ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ![][flag_PH] [\[KN\]Tenshi](https://osu.ppy.sh/users/18520056), ![][flag_KR] [\[LS\] Rollpan](https://osu.ppy.sh/users/19584910),  ![][flag_US] [Dynascape](https://osu.ppy.sh/users/8784587), ![][flag_GB] [H1Pur](https://osu.ppy.sh/users/15756120), ![][flag_SG] [Kings](https://osu.ppy.sh/users/1016926), ![][flag_VN] [MashedPotato](https://osu.ppy.sh/users/10494860), ![][flag_US] [PorkIsGreat](https://osu.ppy.sh/users/10756322)，![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_US] [SunApple](https://osu.ppy.sh/users/11817622), ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832), ![][flag_BH] [Unitori-](https://osu.ppy.sh/users/15772814) |
 | Statistician | ![][flag_HK] [MashedPotato](https://osu.ppy.sh/users/10494860) |
 | Banner designer | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552)  |
-| Storyboarder | ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), !![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617) |
+| Storyboarder | ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617) |
 | Community contributor | ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CA] [Nezu-](https://osu.ppy.sh/users/21963245) |
 | Wiki editor | ![][flag_CN] [cdwcgt](https://osu.ppy.sh/users/14721101), ![][flag_CN] [Rush\_FTK](https://osu.ppy.sh/users/3046856) |
 
@@ -63,7 +63,7 @@ The Touhou Project Mania Cup 2nd was run by the TMC team and various community m
 - [Livestream (YouTube)](https://www.youtube.com/channel/UClgz9mNT7ny7YlesOwiitNw)
 - [Challonge bracket](https://challonge.com/TMC2nd)
 - [Information spreadsheet](https://cdwcgt-my.sharepoint.com/:x:/g/personal/cdwcgt_cdwcgt_top1/EaVVMZD2MeZEjpGFZJgoWGEBhgxQM5ubRWOpaQynzydFSw?e=6t0trY)
-- [Statistic spreadsheet](https://docs.google.com/spreadsheets/d/1Nf7XhtkQkl90291EPaIJm5ubdzSbS_3W9xDmEDYiYw0/edit?usp=sharing)
+- [Statistics spreadsheet](https://docs.google.com/spreadsheets/d/1Nf7XhtkQkl90291EPaIJm5ubdzSbS_3W9xDmEDYiYw0/edit?usp=sharing)
 
 ## Participants
 
@@ -134,7 +134,7 @@ The Touhou Project Mania Cup 2nd was run by the TMC team and various community m
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
-| :-- | :-- |
+| :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Black Stick Rot |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | rice quadruplets |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Hourai Elixir |
