@@ -14,10 +14,10 @@ Any severe violation of the [community rules](/wiki/Rules) that takes place duri
 
 Some real-world examples of such behavior is as follows:
 
-- Drawing hate symbols (swastika, etc) using cursor smoke in streamed matches
+- Drawing hate symbols (swastika, etc.) using cursor smoke in streamed matches
 - Writing slurs or parts of slurs in cursor smoke in streamed matches
 
-All users returning to the game after a restriction under the standard appeal terms are also subject to a [1 year minimum temporary tournament ban](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns), which may be lengthened at the discretion of the account support team.
+All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns), which may be lengthened at the discretion of the [account support team](/wiki/People/The_Team/Account_support_team).
 
 ## What causes someone to receive a permanent tournament ban?
 
@@ -29,29 +29,29 @@ This includes situations like:
 - Making use of multiple accounts to enter a tournament
 - Attempting to evade a silence or infringement by using another account
 - Account sharing within/during an officially supported tournament
-- Conspiring to obtain or otherwise using private information to gain or confer an advantage (such as accessing mappool information before other teams, etc)
-- Abusing positions of trust to gain or confer an advantage (manipulating schedules, unfairly changing team compositions or disqualifying participants without cause or reasoning)
-- Organizing targeted abuse campaigns towards participants or organizers well outside the realm of criticism
+- Conspiring to obtain or otherwise using private information to gain or confer an advantage (such as accessing mappool information before other teams, etc.)
+- Abusing positions of trust to gain or confer an advantage (manipulating schedules, unfairly changing team compositions, or disqualifying participants without cause or reasoning)
+- Organising targeted abuse campaigns towards participants or organisers well outside the realm of criticism
 
 ## Can I appeal a tournament ban?
 
 Whether temporary or permanent, **tournament bans cannot be appealed**.
 
-In rare situations, the account support team may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
+In rare situations, the [account support team](/wiki/People/The_Team/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
 
-## What can I do while tournament banned?
+## What can I do while tournament-banned?
 
-You may continue to play in community tournaments that do not request official support or require screening at the discretion of the individuals organizing such events.
+You may continue to play in community tournaments that do not request official support or require screening at the discretion of the individuals organising such events.
 
-Information about your tournament ban status may be provided to tournament organizers upon request, whether they are benefitting from official support or not.
+Information about your tournament ban status may be provided to tournament organisers upon request, whether they are benefitting from official support or not.
 
 ## Common tournament ban reasons and durations
 
 | Tournament ban reason | Duration | Notes |
 | :-- | :-- | :-- |
-| Player misconduct during officially supported tournament | 1-2 years | N/A |
-| Returning under standard appeal terms | 1-2 years | May be longer at account support team's discretion |
-| Multi-accounting or account sharing during officially supported tournament | Permanent | Will also cause a restriction |
-| Using third-party utilities or other cheating tools during officially supported tournament | Permanent | Will also cause a restriction |
-| Utilizing private/confidential tournament information to gain or confer an unfair advantage | Permanent | May also cause a restriction |
-| Severe abuse towards or harassment of tournament organizers/staff/participants | Permanent | May also cause a restriction |
+| Player misconduct during an officially supported tournament | 1-2 years |  |
+| Returning under standard appeal terms | 1-2 years | May be longer at the account support team's discretion |
+| Multi-accounting or account sharing during an officially supported tournament | Permanent | Will also cause a restriction |
+| Using third-party utilities or other cheating tools during an officially supported tournament | Permanent | Will also cause a restriction |
+| Utilising private/confidential tournament information to gain or confer an unfair advantage | Permanent | May also cause a restriction |
+| Severe abuse towards or harassment of tournament organisers/staff/participants | Permanent | May also cause a restriction |

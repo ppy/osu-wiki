@@ -49,7 +49,7 @@ Refer to *[Account Restrictions](/wiki/Help_centre/Account_restrictions)* for mo
 
 Tournament bans are as the name describes - a ban from participation in all officially supported tournaments.
 
-Refer to the *[Tournament bans](/wiki/Help_centre/Tournament_bans)* article for more information on the topic.
+Refer to the [Tournament bans](/wiki/Help_centre/Tournament_bans) article for more information on the topic.
 
 ## Sign-in
 

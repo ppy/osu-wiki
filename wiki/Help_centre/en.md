@@ -23,7 +23,7 @@ Choose the section that matches your problem the most to find a suitable solutio
 | [Client](/wiki/Help_centre/Client) | Bugs and crashes, gameplay, connection, performance |
 | [Installation and registration](/wiki/Help_centre/Installation_and_registration) | Downloading the game, creating an account |
 | [Store](/wiki/Help_centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
-| [Tournament bans](/wiki/Help_centre/Tournament_bans) | All about tournament bans: overview, common reasons and cooldowns |
+| [Tournament bans](/wiki/Help_centre/Tournament_bans) | All about tournament bans: overview, common reasons, and cooldowns |
 | [Website](/wiki/Help_centre/Website) | Blocking users, contacting with the support, site appearance |
 
 ## Help us help you
