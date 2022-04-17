@@ -191,7 +191,7 @@ Los concursos osu!remix premian el título **osu!mixer** como premio al primer l
 
 ## Ganadores actuales de osu!trivium Quiz
 
-El concurso [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) premia al equipo ganador o al individuo con el título **osu!trivium Champion**, el cual dura por un ano. Estos son los poseedores del título en 2021:
+El concurso [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) premia al equipo ganador o al individuo con el título **osu!trivium Champion**, el cual dura por un año. Estos son los poseedores del título en 2021:
 
 - ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
 - ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621)
