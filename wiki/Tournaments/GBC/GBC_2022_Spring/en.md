@@ -77,7 +77,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | 5 | **可爱的hyahya酱上线啦！！** | ![][flag_CN] **[lovely_hyahya](https://osu.ppy.sh/users/10318380)**, ![][flag_CN] [-[Ulazis]-](https://osu.ppy.sh/users/11144363), ![][flag_CN] [tito31158](https://osu.ppy.sh/users/16436669), ![][flag_JP] [\[GB\]Kokodayo](https://osu.ppy.sh/users/16585041), ![][flag_CN] [AkalinT](https://osu.ppy.sh/users/16640276) |
 | 6 | **货拉拉拉不拉拉布拉多队** | ![][flag_CN] **[crazybrother](https://osu.ppy.sh/users/8045083)**, ![][flag_CN] [abbikly](https://osu.ppy.sh/users/14384082), ![][flag_CN] [Zyuuu](https://osu.ppy.sh/users/15389275), ![][flag_CN] [majesticlegend](https://osu.ppy.sh/users/10219308), ![][flag_CN] [TkskKurumi](https://osu.ppy.sh/users/3631045) |
 | 7 | **bikabika** | ![][flag_CN] **[Ranm](https://osu.ppy.sh/users/17527822)**, ![][flag_CN] [Littlesheep37](https://osu.ppy.sh/users/14742881), ![][flag_CN] [DJ Sharpnel](https://osu.ppy.sh/users/5132402), ![][flag_CN] [woshiji](https://osu.ppy.sh/users/26589994), ![][flag_CN] [UnnamedOrange](https://osu.ppy.sh/users/14753416) |
-| 8 | **Team MyAngel Koishi** | ![][flag_CN] **[Koishi-0514](https://osu.ppy.sh/users/7546593)**, ![][flag_CN] [\[ Classic \]](https://osu.ppy.sh/users/5858053), ![][flag_CN] [shiki natsume](https://osu.ppy.sh/users/6997459), ![][flag_CN] [Mito Van](https://osu.ppy.sh/users/14703345), ![][flag_CN] [Ez2dance](https://osu.ppy.sh/users/9191281) |
+| 8 | **MyAngel Koishi** | ![][flag_CN] **[Koishi-0514](https://osu.ppy.sh/users/7546593)**, ![][flag_CN] [\[ Classic \]](https://osu.ppy.sh/users/5858053), ![][flag_CN] [shiki natsume](https://osu.ppy.sh/users/6997459), ![][flag_CN] [Mito Van](https://osu.ppy.sh/users/14703345), ![][flag_CN] [Ez2dance](https://osu.ppy.sh/users/9191281) |
 | 9 | **大怨种被迫当队长** | ![][flag_CN] **[My Angel Yukee7](https://osu.ppy.sh/users/9787146)**, ![][flag_AU] [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989), ![][flag_CN] [Rync\_](https://osu.ppy.sh/users/18242164), ![][flag_CN] [Sakurada Shiro](https://osu.ppy.sh/users/14617751), ![][flag_CN] [\[GB\]voidmoyu](https://osu.ppy.sh/users/16573996) |
 | 10 | **青叶摩卡的百合后花园** | ![][flag_CN] **[- Ran Mitake -](https://osu.ppy.sh/users/19824985)**, ![][flag_CN] [Molli](https://osu.ppy.sh/users/8893772), ![][flag_CN] [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ![][flag_CN] [sherweifa](https://osu.ppy.sh/users/17457562), ![][flag_CN] [Chelly-](https://osu.ppy.sh/users/14876346) |
 | 11 | **啊不对不队** | ![][flag_CN] **[Vlf](https://osu.ppy.sh/users/9458866)**, ![][flag_CN] [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ![][flag_CN] [\[GB\]a_hisa](https://osu.ppy.sh/users/24057093), ![][flag_CN] [Takahashi_Yuki](https://osu.ppy.sh/users/7167750), ![][flag_CN] [Horizon5](https://osu.ppy.sh/users/12635658) |
@@ -87,28 +87,29 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | 15 | **GBC最强阵容9个Miyes** | ![][flag_CN] **[miyes](https://osu.ppy.sh/users/12942073)**, ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767) |
 | 16 | **头号倒霉蛋** | ![][flag_CN] **[StarTemplar](https://osu.ppy.sh/users/8795096)**, ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634) |
 
-## Match schedule: Regular stage week 2 
+## Match schedule: Regular stage week 3 
 
-### Saturday, April 16, 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-: | :-: |
-| Yzhhのqlll森林汪酱不会大叠 | bikabika | Apr 16 (Sat) 17:00 (UTC+8) | ² |
-| 啊对对队 | 头号倒霉蛋 | Apr 16 (Sat) 19:00 (UTC+8) | ² |
-| 金戈铁马的鲜丰水果摊 | 可爱的hyahya酱上线啦！！ | Apr 16 (Sat) 20:00 (UTC+8) | ¹ |
-| 啊不对不队 | 皮蛋蛋吸手手俱乐部 | Apr 16 (Sun) 21:00 (UTC+8) | ² |
-
-### Sunday, April 17, 2022
+### Saturday, April 23, 2022
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-: | :-: |
-| 太美丽了理塘 | 青叶摩卡的百合后花园 | Apr 17 (Sat) 14:30 (UTC+8) | ¹ |
-| MyAngel Koishi | 你没对象对不队 | Apr 17 (Sun) 16:00 (UTC+8) | ² |
-| 货拉拉拉不拉拉布拉多 | 涩涩不队 | Apr 17 (Sun) 19:00 (UTC+8) | ¹ |
-| 大怨种被迫当队长 | GBC最强阵容9个Miyes | Apr 17 (Sun) 19:00 (UTC+8) | ¹ |
+| 金戈铁马的鲜丰水果摊 | 货拉拉拉不拉拉布拉多 | Apr 23 (Sat) 17:00 (UTC+8) | ¹ |
+| 大怨种被迫当队长 | 太美丽了理塘 | Apr 23 (Sat) 19:00 (UTC+8) | ¹ |
+| 涩涩不队 | bikabika | Apr 23 (Sat) 20:00 (UTC+8) | ² |
+| 青叶摩卡的百合后花园 | 皮蛋蛋吸手手俱乐部 | Apr 23 (Sat) 21:00 (UTC+8) | ² |
 
-¹ Round 2 High Matches (Teams with 1-0 record)\
-² Round 2 Low Matches (Teams with 0-1 record)
+### Sunday, April 24, 2022
+
+| Team A | Team B | Match time |  |
+| --: | :-- | :-: | :-: |
+| GBC最强阵容9个Miyes | 头号倒霉蛋 | Apr 24 (Sun) 14:30 (UTC+8) | ² |
+| 可爱的hyahya酱上线啦！！ | MyAngel Koishi | Apr 24 (Sun) 16:00 (UTC+8) | ² |
+| 啊不对不队 | 你没对象对不队 | Apr 24 (Sun) 19:00 (UTC+8) | ³ |
+| Yzhhのqlll森林汪酱不会大叠 | 啊对对队 | Apr 24 (Sun) 19:00 (UTC+8) | ³ |
+
+¹ Round 3 High Matches (Teams with 2-0 record)\
+² Round 3 Mid Matches (Teams with 1-1 record)\
+³ Round 3 Low Matches (Teams with 0-2 record)
 
 ## Mappools
 
@@ -141,22 +142,22 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 | #¹ | Team | Matches | Beatmaps | BD² | BU³ | Round1 | Round2 | Round3 |
 | :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1 | 金戈铁马的鲜丰水果摊 | 1-0 | 6-1 | +5 | -1 | 6-1 倒霉蛋 | hya酱 |  |
-| 2 | 可爱的hyahya酱上线啦！！ | 1-0 | 6-1 | +5 | -1 | 6-1 啊对对 | 水果摊 |  |
-| 3 | 青叶摩卡的百合后花园 | 1-0 | 6-1 | +5 | -1 | 6-1 bika | 理塘 |  |
-| 4 | 太美丽了理塘 | 1-0 | 6-1 | +5 | -1 | 6-1 Yzh | 摩卡 |  |
-| 5 | GBC最强阵容9个Miyes | 1-0 | 6-2 | +4 | -1 | 6-2 没对象 | 大怨种 |  |
-| 6 | 大怨种被迫当队长 | 1-0 | 6-3 | +3 | -1 | 6-3 TMK | 最强阵 |  |
-| 7 | 货拉拉拉不拉拉布拉多队 | 1-0 | 6-4 | +2 | -1 | 6-4 啊不对 | 涩涩 |  |
-| 8 | 涩涩不队 | 1-0 | 6-5 | +1 | -1 | 6-5 吸手手 | 货拉拉 |  |
-| 9 | 皮蛋蛋吸手手俱乐部 | 0-1 | 5-6 | -1 | +1 | 5-6 涩涩 | 啊不对 |  |
-| 10 | 啊不对不队 | 0-1 | 4-6 | -2 | +1 | 4-6 货拉拉 | 吸手手 |  |
-| 11 | Team MyAngel Koishi | 0-1 | 3-6 | -3 | +1 | 3-6 大怨种 | 没对象 |  |
-| 12 | 你没对象对不队 | 0-1 | 2-6 | -4 | +1 | 2-6 最强阵 | TMK |  |
-| 13 | Yzhhのqlll森林汪酱不会大叠 | 0-1 | 1-6 | -5 | +1 | 1-6 理塘 | bika |  |
-| 14 | bikabika | 0-1 | 1-6 | -5 | +1 | 1-6 摩卡 | Yzh |  |
-| 15 | 啊对对队 | 0-1 | 1-6 | -5 | +1 | 1-6 hya酱 | 倒霉蛋 |  |
-| 16 | 头号倒霉蛋 | 0-1 | 1-6 | -5 | +1 | 1-6 水果摊 | 啊对对 |  |
+| 1 | **金戈铁马的鲜丰水果摊** | 2-0 | 12-3 | +9 | 0 | 6-1 倒霉蛋 | 6-2 hya酱 | 货拉拉 |
+| 2 | **大怨种被迫当队长** | 2-0 | 12-7 | +5 | 0 | 6-3 MK | 6-4 最强阵 | 理塘 |
+| 3 | **太美丽了理塘** | 2-0 | 12-2 | +10 | -2 | 6-1 Yzh | 6-1 摩卡 | 大怨种 |
+| 4 | **货拉拉拉不拉拉布拉多队** | 2-0 | 12-7 | +5 | -2 | 6-4 啊不对 | 6-3 涩涩 | 水果摊 |
+| 5 | 青叶摩卡的百合后花园 | 1-1 | 7-7 | 0 | +2 | 6-1 bika | 1-6 理塘 | 吸手手 |
+| 6 | 涩涩不队 | 1-1 | 9-11 | -2 | +2 | 6-5 吸手手 | 3-6 货拉拉 | bika |
+| 7 | GBC最强阵容9个Miyes | 1-1 | 10-8 | +2 | 0 | 6-2 没对象 | 4-6 大怨种 | 倒霉蛋 |
+| 8 | Team MyAngel Koishi | 1-1 | 9-7 | +2 | 0 | 3-6 大怨种 | 6-1 没对象 | hya酱 |
+| 9 | 可爱的hyahya酱上线啦！！ | 1-1 | 8-7 | +1 | 0 | 6-1 啊对对 | 2-6 水果摊 | MK |
+| 10 | 头号倒霉蛋 | 1-1 | 7-11 | -4 | 0 | 1-6 水果摊 | 6-5 啊对对 | 最强阵 |
+| 11 | 皮蛋蛋吸手手俱乐部 | 1-1 | 11-9 | +2 | -2 | 5-6 涩涩 | 6-3 啊不对 | 摩卡 |
+| 12 | bikabika | 1-1 | 7-11 | -4 | -2 | 1-6 摩卡 | 6-5 Yzh | 涩涩 |
+| 13 | 啊不对不队 | 0-2 | 7-12 | -5 | +2 | 4-6 货拉拉 | 3-6 吸手手 | 没对象 |
+| 14 | Yzhhのqlll森林汪酱不会大叠 | 0-2 | 6-12 | -6 | +2 | 1-6 理塘 | 5-6 bika | 啊对对 |
+| 15 | 啊对对队 | 0-2 | 6-12 | -6 | 0 | 1-6 hya酱 | 5-6 倒霉蛋 | Yzh |
+| 16 | 你没对象对不队 | 0-2 | 3-12 | -9 | 0 | 2-6 最强阵 | 1-6 MK | 啊不对 |
 
 ¹ Seed, Top 8 Advanced\
 ² Beatmap difference\
@@ -181,6 +182,27 @@ Sunday, April 10, 2022
 | **货拉拉拉不拉拉布拉多队** | **6** | 4 | 啊不对不队 | [#1](https://osu.ppy.sh/community/matches/99606894) |
 | Yzhhのqlll森林汪酱不会大叠 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99608620), [Screenshot](img/GBC2SprW1M7.jpg) |
 | 你没对象对不队 | 2 | **6** | **GBC最强阵容9个Miyes** | [#1](https://osu.ppy.sh/community/matches/99609983) |
+
+#### Regular stage week 2
+
+Saturday, April 16, 2022
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| Yzhhのqlll森林汪酱不会大叠 | 5 | **6** | bikabika | [#1](https://osu.ppy.sh/community/matches/99801555) |
+| 啊对对队 | 5 | **6** | 头号倒霉蛋 | [#1](https://osu.ppy.sh/community/matches/99803451) |
+| 金戈铁马的鲜丰水果摊 | **6** | 2 | 可爱的hyahya酱上线啦！！ | [#1](https://osu.ppy.sh/community/matches/99804500) |
+| 啊不对不队 | 3 | **6** | 皮蛋蛋吸手手俱乐部 | [#1](https://osu.ppy.sh/community/matches/99806554) |
+
+Sunday, April 17, 2022
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| 太美丽了理塘 | **6** | 1 | 青叶摩卡的百合后花园 | [#1](https://osu.ppy.sh/community/matches/99835417) |
+| MyAngel Koishi | **6** | 1 | 你没对象对不队 | [#1](https://osu.ppy.sh/community/matches/99837265) |
+| 货拉拉拉不拉拉布拉多 | **6** | 3 | 涩涩不队 | [#1](https://osu.ppy.sh/community/matches/99840516) |
+| 大怨种被迫当队长 | **6** | 4 | GBC最强阵容9个Miyes | [#1](https://osu.ppy.sh/community/matches/99840241) |
+
 
 ## Ruleset
 
@@ -260,6 +282,7 @@ Sunday, April 10, 2022
    - Most matches won
    - Head-to-head result (if possible)
    - Highest Buchholz score
+   - Highest Beatmap difference
    - Most beatmaps won
    - Fewest beatmaps lost
    - Dice roll
@@ -291,7 +314,7 @@ Sunday, April 10, 2022
 5. After each pick, the captain may ban one player of the opposing team from playing that beatmap in the match, except in a tiebreaker.
    - Any player can only be banned like this **once** per match.
    - Banning players is optional.
-6. Teams will have 2 minutes to pick or ban a beatmap, 2 minutes to ban an opposing player, and 3 minutes to get ready. If a team takes more time than allotted, the procedures adopted will be as follows:
+6. Teams will have 2 minutes to pick or ban a beatmap, 1 minutes to ban an opposing player, and 2 minutes to get ready. If a team takes more time than allotted, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:
