@@ -113,9 +113,32 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 ## Mappools
 
-### Regular stage
+### Regular stage Week 3
 
-**[Download the mappack here (160.84 MB)](https://drive.google.com/file/d/1RYMCSNJOp6_evL9W_JVnqTYzylYZ5mbF/view?usp=sharing)**
+**[Download the mappack here (116.38 MB)](https://drive.google.com/file/d/1bB4ybEiRhBWacF1tZnQGbfBu4CiRhpGl/)**
+
+- Rice
+  1. [stereoberry - ametsuchi (Monheim) \[petrichor 1.2\]](https://osu.ppy.sh/beatmapsets/671311#mania/2553924)
+  2. [minecraft gamer 2002 - my intro (\[GB\]AelSan) \[ChordJack \[GBC edit.\]\]](https://osu.ppy.sh/beatmapsets/1722108#mania/3570031)
+  3. [YOASOBI - Romance (\[GB\]AelSan) \[lv.22 \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1674849#mania/3421330)
+  4. [BACK-ON - INFINITY (Nightcore Mix) (LaoXiao-) \[x1.0\]](https://osu.ppy.sh/beatmapsets/1132869#mania/2366200)
+  5. [Pegboard Nerds - Swamp Thing (Shoegazer) \[Swampgator 1.1x (149bpm)\]](https://osu.ppy.sh/beatmapsets/1227404#mania/2552373)
+  6. [you - hold angel (Shoegazer) \[Insane\]](https://osu.ppy.sh/beatmapsets/292422#mania/763511)
+- LN
+  1. [kuwagata - Signal Hopping! (riunosk) \[Noodle Hopping!\]](https://osu.ppy.sh/beatmapsets/1288739#mania/3274408)
+  2. [M2U - Mare Maris (Raveille) \[LNpai's MASTER\]](https://osu.ppy.sh/beatmapsets/917906#mania/2416459)
+- SV
+  1. [Frums - Credits (Sillyp) \[F u n d i n g\]](https://osu.ppy.sh/beatmapsets/1212405#mania/2523592)
+  2. [Inspector K - Disconnected -Hyper- (XeoStyle) \[beep boop\]](https://osu.ppy.sh/beatmapsets/609453#mania/1287062)
+- Hybrid
+  1. [Warak \[Feat. isaya\] - Please, Lover (Shuniki) \[ShuChan!!(NO SV)\]](https://osu.ppy.sh/beatmapsets/1100368#mania/3568778)
+  2. [Aoi vs. r0y - Coldlapse (Murumoo) \[-Mystic's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/845859#mania/1774662)
+- Tiebreaker
+  1. **[Camellia - We Magicians Still Alive in 2021 (HowToPlayLN) \[Everlasting\]](https://osu.ppy.sh/beatmapsets/1517582#mania/3106711)**
+
+### Regular stage Week 1 & Week 2
+
+**[Download the mappack here (160.84 MB)](https://drive.google.com/file/d/1RYMCSNJOp6_evL9W_JVnqTYzylYZ5mbF/)**
 
 - Rice
   1. [Hatsuki Yura - Dark Prince (Lcat2538) \[Challenge\]](https://osu.ppy.sh/beatmapsets/770595#mania/1620129)
