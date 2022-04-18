@@ -328,7 +328,7 @@ Estos usuarios fueron premiados con sus respectivos títulos por razones varias.
 [flag_FR]: /wiki/shared/flag/FR.gif "Francia"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HM]: /wiki/shared/flag/HM.gif "Heard Island and McDonald Islands"
+[flag_HM]: /wiki/shared/flag/HM.gif "Islas Heard y McDonald"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IL]: /wiki/shared/flag/IL.gif "Israel"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italia"
