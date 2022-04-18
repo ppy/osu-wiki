@@ -261,7 +261,7 @@ O sistema usado para calcular o dreno de vida é complicado, então não será e
 - Trocar o sentido de giro de um spinner no meio da execução das rotações fará o spinner "freiar" e voltar para 0, até que novamente se acumule movimento no sentido inverso e comece a efetivamente rotacionar na direção contrária. Apesar disso, o progresso não será perdido durante a reorientação da rotação (embora também não aumentará). Somente após a mudança completa de sentido (caso ocorra) o spinner voltará a expandir.
 - A rotação deve ser realizada ao redor do núcleo do spinner ou então **será invalidada**.
 - A Fumaça dura mais tempo do que a trilha padrão do ponteiro. Aplique a Fumaça esparsadamente para prevenir que eles desapareçam rápido demais.
-- O mascote do osu! é o [pippi](/wiki/Mascots#-pippi).
+- O mascote do osu! é o [pippi](/wiki/Mascots#pippi).
 - Quando o modificador [Auto](/wiki/Game_modifier/Auto) é ativado, o nome do jogador aparecerá como osu!.
 
 ### Histórico

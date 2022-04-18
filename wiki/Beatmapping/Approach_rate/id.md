@@ -51,4 +51,4 @@ Sementara Half Time (HT) dan Double Time (DT) tidak mempengaruhi nilai AR, tetap
 
 ## osu!taiko dan osu!mania
 
-AR tetap dapat dilihat ketika sedang membuka laman informasi beatmap dari jenis permainan osu!taiko atau osu!mania. Hal tersebut tidak mempengaruhi gameplay. Kecepatan scroll dari mode-mode tersebut, ditentukan oleh faktor lain.
+AR tetap dapat dilihat ketika sedang membuka laman informasi beatmap dari jenis permainan [osu!taiko](/wiki/Game_mode/osu!taiko) atau [osu!mania](/wiki/Game_mode/osu!mania). Hal tersebut tidak mempengaruhi gameplay. Kecepatan scroll dari mode-mode tersebut, ditentukan oleh faktor lain.

@@ -48,7 +48,7 @@ Pour chaque png que vous utilisez dans votre storyboard, osu! doit en dessiner l
 
 ### N'oubliez pas que vous pouvez recolorer les images en utilisant le codage SB
 
-Je ne le mentionne que parce que je ne vois pas cet effet beaucoup utilisé dans les storyboards, mais **voyez le code de l'événement "[colour](/wiki/Storyboard/Scripting/Commands#color---colour--c--command)" dans le fil de discussion Scripting**. Vous pouvez créer des effets sympas en créant un sprite en niveaux de gris ou de couleur claire, et en y superposant différentes couleurs pendant votre SB. Dans certains cas, il est possible de faire apparaître en fondu une image d'arrière-plan distincte alors qu'il suffirait de changer la couleur de cette façon, pour les ciels et autres. C'est juste quelque chose à considérer.
+Je ne le mentionne que parce que je ne vois pas cet effet beaucoup utilisé dans les storyboards, mais **voyez le code de l'événement "[colour](/wiki/Storyboard/Scripting/Commands#commande-color/colour-(c))" dans le fil de discussion Scripting**. Vous pouvez créer des effets sympas en créant un sprite en niveaux de gris ou de couleur claire, et en y superposant différentes couleurs pendant votre SB. Dans certains cas, il est possible de faire apparaître en fondu une image d'arrière-plan distincte alors qu'il suffirait de changer la couleur de cette façon, pour les ciels et autres. C'est juste quelque chose à considérer.
 
 J'espère que ces conseils vous seront utiles. Je sais que beaucoup de gens ne connaissent pas la fonction de désactivation de l'arrière-plan, alors faites passer le mot, surtout si vous voyez quelqu'un utiliser une grande image noire vide pour cacher son image d'arrière-plan.
 

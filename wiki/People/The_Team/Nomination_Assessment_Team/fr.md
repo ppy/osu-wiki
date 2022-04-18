@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 17fb11cfdf1bc72ce3f85c62bed260d9870c1cc8
 tags:
   - NAT
 ---
@@ -24,7 +26,7 @@ Les NAT sont responsables d'une variété de tâches liées au mapping qui peuve
 
 Un membre de la NAT peut s'engager dans n'importe quelle tâche de la sous-catégorie de son choix, malgré la liste de ses responsabilités principales. Par exemple, si un membre de la NAT s'engage dans les tâches de la sous-catégorie `Structure`, il n'est pas responsable de toutes les tâches de cette sous-catégorie et il peut toujours aider aux tâches de toute autre sous-catégorie.
 
-En plus des droits de modération, les NAT possèdent également la capacité de [nominer](/wiki/Beatmap_ranking_procedure#nominations), [qualifier](/wiki/Beatmap_ranking_procedure#qualification), et [réinitialiser les nominations](/wiki/Beatmap_ranking_procedure##réinitialisation-de-la-nomination) sur les beatmaps. Dans ce domaine, ils sont considérés comme des [BN confirmés](/wiki/People/The_Team/Beatmap_Nominators#beatmap-nominators-confirmés), et toutes les règles et attentes des BN, à part l'activité, s'appliquent aux membres des NAT. Les membres de la NAT ne sont pas censés nominer des beatmaps régulièrement comme le font les BN en raison de leurs responsabilités supplémentaires dans la communauté de modding et de mapping d'osu!.
+En plus des droits de modération, les NAT possèdent également la capacité de [nominer](/wiki/Beatmap_ranking_procedure#nominations), [qualifier](/wiki/Beatmap_ranking_procedure#qualification), et [réinitialiser les nominations](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) sur les beatmaps. Dans ce domaine, ils sont considérés comme des [BN confirmés](/wiki/People/The_Team/Beatmap_Nominators#beatmap-nominators-confirmés), et toutes les règles et attentes des BN, à part l'activité, s'appliquent aux membres des NAT. Les membres de la NAT ne sont pas censés nominer des beatmaps régulièrement comme le font les BN en raison de leurs responsabilités supplémentaires dans la communauté de modding et de mapping d'osu!.
 
 Les membres de la NAT qui contribuent principalement à la sous-catégorie `Évaluation` sont également responsables de modder au moins 3 beatmaps par mois. Cela garantit que la NAT est à jour avec la communauté des moddeurs lors de l'évaluation des Beatmap Nominators. Les membres qui ne remplissent pas les conditions d'activité de modding recevront un avertissement. Si leur activité ne s'améliore pas au cours du mois suivant, ils seront retirés de la NAT. Les membres de la NAT travaillant sur d'autres projets liés au mapping peuvent être exemptés des exigences de modding au cas par cas.
 
@@ -40,7 +42,7 @@ La NAT suit les candidats potentiels à la NAT sur de longues périodes, et se r
 
 *Remarque : Tous les membres de la NAT parlent l'anglais en plus de la ou des langues énumérées ci-dessous, sauf indication contraire.*
 
-La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7) contient la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la Nomination Assessment Team prennent part à [l'examen du contenu audio et visuel inclus dans les beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7) contient la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la Nomination Assessment Team prennent part à [l'examen du contenu audio et visuel inclus dans les beatmaps](/wiki/Rules/Visual_Content_Considerations#faire-évaluer-votre-image).
 
 ### osu!
 
