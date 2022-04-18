@@ -4,6 +4,8 @@ tags:
   - moderator
   - moderators
   - chat mod
+  - moderador
+  - moderadores
 ---
 
 # Equipo de Moderación Global
