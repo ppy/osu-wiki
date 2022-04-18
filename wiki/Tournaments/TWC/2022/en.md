@@ -40,8 +40,8 @@ The osu!taiko World Cup 2022 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910) |
-| Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548) ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Lumenite-](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910) |
+| Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548) ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_US] [Lumenite-](https://osu.ppy.sh/users/6256027), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -95,51 +95,105 @@ The osu!taiko World Cup 2022 is run by various community members.
 | ![][flag_US] | **United States** | **[general chicken](https://osu.ppy.sh/users/8050850)**, [R J](https://osu.ppy.sh/users/6490509), [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [Miniature Lamp](https://osu.ppy.sh/users/9821194), [ChurroChef](https://osu.ppy.sh/users/9258564), [cheese salad](https://osu.ppy.sh/users/6349821) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [AkiraPlayz](https://osu.ppy.sh/users/16039831), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [JackTVN](https://osu.ppy.sh/users/12510704), [njshift1](https://osu.ppy.sh/users/16688499) |
 
-## Match schedule: Quarterfinals
+## Match schedule: Grand Finals
 
-### Saturday, April 2, 2022
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Brazil | ![][flag_BR] | ![][flag_RU] | Russian Federation | Apr 2 (Sat) 10:00 UTC | Apr 2 (Sat) 07:00 UTC-3 | Apr 2 (Sat) 13:00 UTC+3 | ² |
-| Malaysia | ![][flag_MY] | ![][flag_NZ] | New Zealand | Apr 2 (Sat) 12:00 UTC | Apr 2 (Sat) 20:00 UTC+8 | Apr 3 (Sun) 00:00 UTC+12 | ² |
-| Finland | ![][flag_FI] | ![][flag_TR] | Turkey | Apr 2 (Sat) 12:00 UTC | Apr 2 (Sat) 15:00 UTC+3 | Apr 2 (Sat) 15:00 UTC+3 | ² |
-| Taiwan | ![][flag_TW] | ![][flag_CN] | China | Apr 2 (Sat) 13:30 UTC | Apr 2 (Sat) 21:30 UTC+8 | Apr 2 (Sat) 21:30 UTC+8 | ² |
-| Chile | ![][flag_CL] | ![][flag_SG] | Singapore | Apr 2 (Sat) 14:00 UTC | Apr 2 (Sat) 11:00 UTC-3 | Apr 2 (Sat) 22:00 UTC+8 | ² |
-| France | ![][flag_FR] | ![][flag_CH] | Switzerland | Apr 2 (Sat) 17:00 UTC | Apr 2 (Sat) 19:00 UTC+2 | Apr 2 (Sat) 19:00 UTC+2 | ² |
-| United States | ![][flag_US] | ![][flag_IT] | Italy | Apr 2 (Sat) 18:30 UTC | Apr 2 (Sat) 13:30 UTC-5 | Apr 2 (Sat) 20:30 UTC+2 | ² |
-| Canada | ![][flag_CA] | ![][flag_AR] | Argentina | Apr 2 (Sat) 22:00 UTC | Apr 2 (Sat) 17:00 UTC-5 | Apr 2 (Sat) 19:00 UTC-3 | ² |
-
-### Sunday, April 3, 2022
+### Saturday, April 23, 2022
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_NZ] | New Zealand | Apr 3 (Sun) 03:00 UTC | Apr 2 (Sat) 22:00 UTC-5 | Apr 3 (Sun) 15:00 UTC+12 | ³ |
-| Canada | ![][flag_CA] | ![][flag_SG] | Singapore | Apr 3 (Sun) 04:00 UTC | Apr 2 (Sat) 23:00 UTC-5 | Apr 3 (Sun) 12:00 UTC+8 | ³ |
-| United States | ![][flag_US] | ![][flag_MY] | Malaysia | Apr 3 (Sun) 05:00 UTC | Apr 3 (Sun) 00:00 UTC-5 | Apr 3 (Sun) 13:00 UTC+8 | ³ |
-| Hong Kong | ![][flag_HK] | ![][flag_AU] | Australia | Apr 3 (Sun) 08:00 UTC | Apr 3 (Sun) 16:00 UTC+8 | Apr 3 (Sun) 18:00 UTC+10 | ¹ |
-| Italy | ![][flag_IT] | ![][flag_NZ] | New Zealand | Apr 3 (Sun) 09:00 UTC | Apr 3 (Sun) 11:00 UTC+2 | Apr 3 (Sun) 21:00 UTC+12 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_GB] | United Kingdom | Apr 3 (Sun) 11:30 UTC | Apr 3 (Sun) 20:30 UTC+9 | Apr 3 (Sun) 12:30 UTC+1 | ¹ |
-| Taiwan | ![][flag_TW] | ![][flag_FR] | France | Apr 3 (Sun) 13:00 UTC | Apr 3 (Sun) 21:00 UTC+8 | Apr 3 (Sun) 15:00 UTC+2 | ³ |
-| Taiwan | ![][flag_TW] | ![][flag_CH] | Switzerland | Apr 3 (Sun) 13:00 UTC | Apr 3 (Sun) 21:00 UTC+8 | Apr 3 (Sun) 15:00 UTC+2 | ³ |
-| China | ![][flag_CN] | ![][flag_FR] | France | Apr 3 (Sun) 13:00 UTC | Apr 3 (Sun) 21:00 UTC+8 | Apr 3 (Sun) 15:00 UTC+2 | ³ |
-| China | ![][flag_CN] | ![][flag_CH] | Switzerland | Apr 3 (Sun) 13:00 UTC | Apr 3 (Sun) 21:00 UTC+8 | Apr 3 (Sun) 15:00 UTC+2 | ³ |
-| Italy | ![][flag_IT] | ![][flag_MY] | Malaysia | Apr 3 (Sun) 14:00 UTC | Apr 3 (Sun) 16:00 UTC+2 | Apr 3 (Sun) 22:00 UTC+8 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_FI] | Finland | Apr 3 (Sun) 14:00 UTC | Apr 3 (Sun) 11:00 UTC-3 | Apr 3 (Sun) 17:00 UTC+3 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_TR] | Turkey | Apr 3 (Sun) 14:00 UTC | Apr 3 (Sun) 11:00 UTC-3 | Apr 3 (Sun) 17:00 UTC+3 | ³ |
-| Russian Federation | ![][flag_RU] | ![][flag_FI] | Finland | Apr 3 (Sun) 14:00 UTC | Apr 3 (Sun) 17:00 UTC+3 | Apr 3 (Sun) 17:00 UTC+3 | ³ |
-| Russian Federation | ![][flag_RU] | ![][flag_TR] | Turkey | Apr 3 (Sun) 14:00 UTC | Apr 3 (Sun) 17:00 UTC+3 | Apr 3 (Sun) 17:00 UTC+3 | ³ |
-| Japan | ![][flag_JP] | ![][flag_SE] | Sweden | Apr 3 (Sun) 14:00 UTC | Apr 3 (Sun) 23:00 UTC+9 | Apr 3 (Sun) 16:00 UTC+2 | ¹ |
-| Argentina | ![][flag_AR] | ![][flag_SG] | Singapore | Apr 3 (Sun) 15:00 UTC | Apr 3 (Sun) 12:00 UTC-3 | Apr 3 (Sun) 23:00 UTC+8 | ³ |
-| Germany | ![][flag_DE] | ![][flag_ID] | Indonesia | Apr 3 (Sun) 15:00 UTC | Apr 3 (Sun) 17:00 UTC+2 | Apr 3 (Sun) 22:00 UTC+7 | ¹ |
-| Canada | ![][flag_CA] | ![][flag_CL] | Chile | Apr 3 (Sun) 17:00 UTC | Apr 3 (Sun) 12:00 UTC-5 | Apr 3 (Sun) 14:00 UTC-3 | ³ |
-| Argentina | ![][flag_AR] | ![][flag_CL] | Chile | Apr 3 (Sun) 19:00 UTC | Apr 3 (Sun) 16:00 UTC-3 | Apr 3 (Sun) 16:00 UTC-3 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia | Apr 23 (Sat) 12:00 UTC | Apr 23 (Sat) 21:00 UTC+9 | Apr 23 (Sat) 19:00 UTC+7 | ¹ |
 
-¹ Winners bracket match\
-² Losers bracket match\
-³ Potential match: final matchup depends on the results of ²
+### Sunday, April 24, 2022
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Apr 24 (Sun) 12:00 UTC | Apr 24 (Sun) 21:00 UTC+9 | Apr 24 (Sun) 21:00 UTC+9 | ² |
+| Japan | ![][flag_JP] | ![][flag_ID] | Indonesia | Apr 24 (Sun) 12:00 UTC | Apr 24 (Sun) 21:00 UTC+9 | Apr 24 (Sun) 19:00 UTC+7 | ² |
+
+¹ Losers bracket match\
+² Potential match: final matchup depends on the results of ¹
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (117 MB)](https://drive.google.com/uc?id=1nBTRaLhiOQ7wSGNJBHbdKfu75JRZkj3c)**
+
+- NoMod
+  1. [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai (KTYN) \[KTYN//FIRE (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1744775#taiko/3568501)
+  2. [7\_7 - Meriba (X a v y) \[ONI\]](https://osu.ppy.sh/beatmapsets/1744973#taiko/3569029)
+  3. [Frums - Q.E. (HiroK) \[Mirage\]](https://osu.ppy.sh/beatmapsets/1530469#taiko/3130422)
+  4. [TJ.hangneil - Apollo (Axer) \[Nostradamus\]](https://osu.ppy.sh/beatmapsets/1739877#taiko/3556397)
+  5. [Jiiko - Wocky (Maimaing) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1744951#taiko/3568943)
+  6. [agata - AMAIWTIWNKMS (Nifty) \[TWC Ver.\]](https://osu.ppy.sh/beatmapsets/1744774#taiko/3568498)
+- Hidden
+  1. [Animals as Leaders - Monomyth (Zetera) \[Mess\]](https://osu.ppy.sh/beatmapsets/1744810#taiko/3568619)
+  2. [METAROOM - SPIRAL (woosungko) \[CONVERGENCE (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1744786#taiko/3568534)
+- Hard Rock
+  1. [Retractable - Eye of xxxx (4sbet1) \[Oni\]](https://osu.ppy.sh/beatmapsets/1383882#taiko/2858741)
+  2. [Slax - Too Much Loli (KawaiiBass) \[Go Away 260BPM\]](https://osu.ppy.sh/beatmapsets/1579730#taiko/3225784)
+- Double Time
+  1. [Mothtek - Meltdown (Remix 2022) (KawaiiBass) \[agitato\]](https://osu.ppy.sh/beatmapsets/1744995#taiko/3569182)
+  2. [Gomitaro - S4y G00dby3 (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1454482#taiko/2991949)
+- FreeMod
+  1. [YUKIYANAGI - ALERT (Megafan) \[RAVING ALL NIGHT\]](https://osu.ppy.sh/beatmapsets/1744794#taiko/3568570)
+  2. [The Flashbulb - Ninedump (Arrival) \[tasuke's Perilous\]](https://osu.ppy.sh/beatmapsets/984361#taiko/2059692)
+  3. [Marco Minnemann - Broken Orange (mangomizer) \[mango\]](https://osu.ppy.sh/beatmapsets/1642598#taiko/3433673)
+- Tiebreaker
+  1. **[onumi & Akira Complex - Ethereal Cyber Angel XV (Maimaing) \[Demon\]](https://osu.ppy.sh/beatmapsets/1744942#taiko/3568932)**
+
+### Finals
+
+**[Download the mappack here (81 MB)](https://drive.google.com/uc?id=1qOcr47k05xIJn6o6zg5vUMdNzzVeNqUA)**
+
+- NoMod
+  1. [Otsukisama Koukyoukyoku - ultima Thule (Hivie) \[dm radar for free nominations\]](https://osu.ppy.sh/beatmapsets/1739299#taiko/3554734)
+  2. [Kurokoutei - Nonbinarity (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1414457#taiko/2915423)
+  3. [majiko - Hypocrite Syndrome (\_Rise) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1372080#taiko/2836594)
+  4. [Cattle Decapitation - One Day Closer To The End Of The World (ikin5050) \[Heart Strings\]](https://osu.ppy.sh/beatmapsets/1739224#taiko/3554540)
+  5. [METAROOM - JITTER FANTA (woosungko) \[FIZZY\]](https://osu.ppy.sh/beatmapsets/1739593#taiko/3555451)
+  6. [C-Show - Invitation from Mr.C (Nifty) \[YOU ARE INNERVITED!!!!!!\]](https://osu.ppy.sh/beatmapsets/1739332#taiko/3554816)
+- Hidden
+  1. [wotoha - Lonerism (Cut Ver.) (tasuke912) \[Aloneness\]](https://osu.ppy.sh/beatmapsets/1739910#taiko/3556860)
+  2. [Igorrr - Scarlatti 2.0 (Socus) \[Nihilistic idea\]](https://osu.ppy.sh/beatmapsets/1545368#taiko/3158712)
+- Hard Rock
+  1. [katagiri - terminus//runtimes (Horiiizon) \[gamelan's terminal\]](https://osu.ppy.sh/beatmapsets/1343171#taiko/2862324)
+  2. [goreshit - the dancecore element (Cure) \[7th\]](https://osu.ppy.sh/beatmapsets/1554880#taiko/3176652)
+- Double Time
+  1. [Camellia - flying in the flow of deep-sea (Nwolf) \[SKWolf's Aquatic Oni\]](https://osu.ppy.sh/beatmapsets/397682#taiko/864922)
+  2. [nameless - Toumei Elegy (mintong89) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/450585#taiko/966676)
+- FreeMod
+  1. [Laur - Chimimouryou (komasy) \[Muzukasy\]](https://osu.ppy.sh/beatmapsets/1590899#taiko/3249250)
+  2. [Kabanagu - 20210517demo (Ulqui) \[Hippopotamus\]](https://osu.ppy.sh/beatmapsets/1544926#taiko/3157853)
+  3. [PrimeMIX - Uber 6 (iceOC) \[iceOC's Hell Oni\]](https://osu.ppy.sh/beatmapsets/1739327#taiko/3554801)
+- Tiebreaker
+  1. **[First Fragment - Gloire Eternelle (Grimbow) \[Raimbow Oni\]](https://osu.ppy.sh/beatmapsets/1739222#taiko/3554538)**
+
+### Semifinals
+
+**[Download the mappack here (81 MB)](https://drive.google.com/uc?id=1UGY8w8M0yOsJTOwOpIN2ADEtoCVQGBew)**
+
+- NoMod
+  1. [Spacelectro feat. Momokami - DANCING FOX!!! (applerss) \[NIGHT FOX!!!\]](https://osu.ppy.sh/beatmapsets/1600946#taiko/3269458)
+  2. [The Flashbulb - Lawn Wake IX (\_mtk) \[EZ\]](https://osu.ppy.sh/beatmapsets/1734145#taiko/3544468)
+  3. [GomiTaro - takio mash up (KTYN) \[takio\]](https://osu.ppy.sh/beatmapsets/1400451#taiko/2889284)
+  4. [Veer - Migraine (Wadsy) \[Gracious Head\]](https://osu.ppy.sh/beatmapsets/1734341#taiko/3544843)
+  5. [DJ twinturbo - back in 2015 car audio system (ikin5050) \[Gimmickin\]](https://osu.ppy.sh/beatmapsets/1734189#taiko/3544574)
+- Hidden
+  1. [otetsu - Rubik's Cube (Lumenite-) \[16x16x16\]](https://osu.ppy.sh/beatmapsets/1670975#taiko/3544599)
+  2. [ARM(IOSYS) + Brasscapsule - Jazz is Rad (MTNTWarz) \[swagy wacky jazz\]](https://osu.ppy.sh/beatmapsets/1707183#taiko/3544352)
+- Hard Rock
+  1. [katagiri - Nohmen break (Katagiri Remix) (hoku) \[a hoku of life ^-^\]](https://osu.ppy.sh/beatmapsets/1223733#taiko/2545320)
+  2. [Zekk - Foresight (woosungko) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1726306#taiko/3527937)
+- Double Time
+  1. [YUKIYANAGI - Feeling NRG (Megafan) \[Raving All Night\]](https://osu.ppy.sh/beatmapsets/1453904#taiko/2988883)
+  2. [Srav3R vs Getty - DUAL BREAKER XX (Yumirin) \[ONI XX\]](https://osu.ppy.sh/beatmapsets/1442123#taiko/2966564)
+- FreeMod
+  1. [nujioh - PSYCHE (Nifty) \[Neuroticism\]](https://osu.ppy.sh/beatmapsets/1734235#taiko/3544679)
+  2. [Camellia - gigadelic (Camellia's 'THE TERA' Remix) (-Kazu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/836037#taiko/3543322)
+  3. [Kotori - Anomaly (Kou! "Asymetris" 200step Remix) (KTYN) \[Fate\]](https://osu.ppy.sh/beatmapsets/1734106#taiko/3544464)
+- Tiebreaker
+  1. **[breakchild - NEUROTYPICALSYSTEM (Nwolf) \[out now on soundcloud\]](https://osu.ppy.sh/beatmapsets/1734223#taiko/3544650)**
 
 ### Quarterfinals
 
@@ -238,6 +292,76 @@ The osu!taiko World Cup 2022 is run by various community members.
   1. [seatrus - O (KTYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/1712976#taiko/3500185)
 
 ## Match results
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Qlbh6F3OZ0ZLnEy12eBhPcuTb32ZcsMBq25dyBePVc0/edit?rm=minimal).
+
+Saturday, April 16, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 1 | **7** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/99804975) |
+| **Germany** ![][flag_DE] | **7** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/99816543) |
+
+Sunday, April 17, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Germany ![][flag_DE] | 6 | **7** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/99836330) |
+| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/99839555) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Vte6gkSYpcamsYoL0BsNPJXDin-FQMvoATke4qIUPn8/edit?rm=minimal).
+
+Saturday, April 9, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Australia ![][flag_AU] | 1 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/99565775) |
+| **Sweden** ![][flag_SE] | **6** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/99569072) |
+| **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/99580358) |
+
+Sunday, April 10, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Indonesia** ![][flag_ID] | **6** | 3 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/99598217) |
+| **Indonesia** ![][flag_ID] | **6** | 3 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/99608677) |
+| **South Korea** ![][flag_KR] | **6** | 1 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/99608458) |
+| **Japan** ![][flag_JP] | **6** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/99610214) |
+| Taiwan ![][flag_TW] | 5 | **6** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/99612233) |
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1SZ1K9ldPL6LgR3iD6QRUZV0KJvU-wFmEDqV0w8-huYM/edit?rm=minimal).
+
+Saturday, April 2, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** ![][flag_BR] | **6** | 3 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/99336587) |
+| **Malaysia** ![][flag_MY] | **6** | 1 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/99339267) |
+| **Finland** ![][flag_FI] | **6** | 4 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/99339409) |
+| **Taiwan** ![][flag_TW] | **6** | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/99341849) |
+| **Chile** ![][flag_CL] | **6** | 3 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/99342997) |
+| **France** ![][flag_FR] | **6** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/99349325) |
+| **United States** ![][flag_US] | **6** | 3 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/99352849) |
+| **Canada** ![][flag_CA] | **6** | 3 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/99360731) |
+
+Sunday, April 3, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **6** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/99370860) |
+| **Hong Kong** ![][flag_HK] | **6** | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/99374323) |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/99378718) |
+| **Taiwan** ![][flag_TW] | **6** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/99381123) |
+| **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/99383387) |
+| **Japan** ![][flag_JP] | **6** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/99383214) |
+| **Germany** ![][flag_DE] | **6** | 3 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/99385496) |
+| **Canada** ![][flag_CA] | **6** | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/99389469) |
 
 ### Round of 16
 

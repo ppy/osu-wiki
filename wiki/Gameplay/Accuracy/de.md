@@ -44,7 +44,7 @@ In osu!catch wird die Genauigkeit berechnet, indem die Gesamtzahl der gesammelte
 
 ![Genauigkeit = (50 \* Anzahl der 50er + 100 \* Anzahl der 100er + 200 \* Anzahl der 200er + 300 \* Anzahl der 300er + 300 \* Anzahl von MAX) / 300(Anzahl der 0er + Anzahl der 50er + Anzahl der 100er + Anzahl der 200er + Anzahl der 300er + Anzahl von MAX)](img/accuracy_mania.png "Genauigkeitsformel für osu!mania")
 
-In osu!mania wird die Genauigkeit ähnlich wie bei [osu!](#-osu!) berechnet.
+In osu!mania wird die Genauigkeit ähnlich wie bei [osu!](#osu!) berechnet.
 
 ## Leistungskurve
 
@@ -52,7 +52,7 @@ In osu!mania wird die Genauigkeit ähnlich wie bei [osu!](#-osu!) berechnet.
 
 Die Leistungskurve ist ein Diagramm, das die Leistung des Spielers (basierend auf seinem Lebensbalken) im Verlauf eines Spiels (Zeit) anzeigt. Zusätzliche Informationen können angezeigt werden, wenn man den Mauszeiger im Spiel darüber bewegt.
 
-*Hinweis: Die zusätzlichen Informationen können nur nach dem Abspielen einer Beatmap oder nach dem Ansehen eines Replays angezeigt werden. Nach dem Verlassen des [Ergebnisbildschirms](/wiki/Client/Interface#ranking-screen) werden diese Informationen nicht gespeichert.*
+*Hinweis: Die zusätzlichen Informationen können nur nach dem Abspielen einer Beatmap oder nach dem Ansehen eines Replays angezeigt werden. Nach dem Verlassen des [Ergebnisbildschirms](/wiki/Client/Interface#rangliste) werden diese Informationen nicht gespeichert.*
 
 ### Genauigkeit
 

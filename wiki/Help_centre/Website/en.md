@@ -56,17 +56,7 @@ If you wish to prevent anyone not on your friends list from sending you private 
 
 Users who are not on your friends list can no longer contact you.
 
-<!-- TODO: this part needs to be rewritten for the current website, "foes" is no longer available on the old one
-
-#### Blocking public forum posts from a user
-
-**To naturally hide most public forum posts of a particular user, add them to your Foes list via the UCP.**
-
-1. Head over to the [foes list setting in the UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes) and simply add their username to the list as pictured.
-2. Click submit.
-3. You are done! Most forum posts from that user will no longer be visible to you - it will be as if they are never there. Do note that other users quoting their posts will still be visible.
-
--->
+<!-- TODO: describe how to ignore others' posts and comments when https://github.com/ppy/osu-web/issues/2319 is implemented -->
 
 #### Prevent any new forum private messages from reaching you
 
@@ -78,7 +68,7 @@ Go to your [account settings](https://osu.ppy.sh/home/account/edit) and click `b
 
 If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them, please send us an email at [support@ppy.sh](mailto:support@ppy.sh).
 
-Make sure to include any chatlogs or other evidence in the email, and our support staff will look into your case and get it sorted for you.
+Make sure to include any chat logs or other evidence in the email, and our support staff will look into your case and get it sorted for you.
 
 ### What are these "Me!" pages that I see on other player's profiles?
 

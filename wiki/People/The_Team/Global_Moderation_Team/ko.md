@@ -50,8 +50,8 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 필리핀어 | 채팅 관리, 포럼 관리, 기술 지원 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 프랑스어 | 채팅 관리 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 독일어 | 포럼 관리, 채팅 관리 |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 필리핀 | 채팅 관리 |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 독일어 | 대회 관리 |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | 프랑스어 | 채팅 관리, 포럼 관리 |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | 포르투갈어 | 채팅 관리 |

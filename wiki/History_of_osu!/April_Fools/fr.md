@@ -289,7 +289,7 @@ Le poisson d'avril 2021 a recyclé la même blague que les deux années précéd
 64. [Reddit post (r/osugame) [u/AdriaLOL] - "haha, nice april fools peppy XD"](https://www.reddit.com/r/osugame/comments/88qlwk/haha_nice_april_fools_peppy_xd/)
 65. [osu! forum thread (General Discussion) [Aochie] - "The osu! logo is moving?"](https://osu.ppy.sh/community/forums/topics/724377)
 66. [osu! forum thread (Resolved Issues [Jreen] - "[resolved] Osu! Logo Sideways?"](https://osu.ppy.sh/community/forums/topics/724094)
-67. [osu! wiki article - "History of osu! 2018"](/wiki/History_of_osu!/2018#april)
+67. [osu! wiki article - "History of osu! 2018"](/wiki/History_of_osu!/2018#avril)
 68. [Reddit post (r/osugame) [u/jivko500] - "The April Fools joke in osu"](https://www.reddit.com/r/osugame/comments/b83pnl/the_april_fools_joke_in_osu/)
 69. [Reddit post (r/osugame) [u/anoymaly2152] - "Bless you, Pippi."](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/)
 70. [osu! forum thread (Off-Topic) [Brainage] - "No April Fools in the changelog?"](https://osu.ppy.sh/community/forums/topics/888939)
