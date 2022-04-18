@@ -92,11 +92,11 @@
 - **곡이 비디오 게임, 영화, 시리즈 등과 같은 매체에 직접적으로 연관되어 있다면 출처 (Source) 란을 반드시 사용해야 합니다.** 곡이 공개된 이후 매체에 등장하거나 연관되었지만 주로 그 출처로 알려진 경우에도 해당됩니다. 곡이 가능한 여러 출처를 가지고 있다면 어떤 것을 적어도 괜찮습니다.
   - 원곡에 기반한 리믹스, 어레인지 또는 커버에 대해서는 원곡의 출처가 그대로 적용됩니다.
   - 곡이 플랫폼과 관련된 특정 문화현상과 연결되어 있거나 웹사이트 주제·배경곡으로 사용된 경우 웹사이트 이름을 출처로 사용할 수 있습니다.
-  - [Song compilation](/wiki/Beatmapping/Song_compilation), 리믹스, 메들리 등이 공통의 출처를 가지고 있지 않다면, 출처는 출처란 대신 태그에 적혀야 합니다.
+  - [송 컴필레이션](/wiki/Beatmapping/Song_compilation), 리믹스, 메들리 등이 공통의 출처를 가지고 있지 않다면, 출처는 출처란 대신 태그에 적혀야 합니다.
   - 주문 제작된 토너먼트 타이브레이커 곡처럼 특별히 osu! 전용으로 만들어진 곡 (osu! original) 이외엔 `osu!`를 출처로 사용할 수 없습니다. 
 - **표기 란의 길이 제한 (81글자)를 넘어서는 메타데이터는 반드시 줄여 써야 합니다.** 우선 추가적인 마커를 지우고, 그래도 부족하다면 `...`을 적절한 곳에 적어서 제목이 단축되었다는 것을 표시해 주세요.
 - **만약 아티스트나 제목 란이 길이 제한에 맞춰서 단축되었다면, 생략된 정보는 반드시 태그에 추가되어야 합니다.**
-- **만약 매핑된 곡이 [Featured Artist](/wiki/Featured_Artists) 라이브러리에 있는 사용허가가 내려진 곡이라면, `featured artist`가 반드시 태그에 추가되어야 합니다.**
+- **만약 매핑된 곡이 [공식 아티스트](/wiki/Featured_Artists) 라이브러리에 있는 사용허가가 내려진 곡이라면, `featured artist`가 반드시 태그에 추가되어야 합니다.**
 - **태그는 반드시 비트맵과 관련이 있어야 하며, 검색 결과가 혼동되도록 해서는 안 됩니다.** 비트맵의 스타일, 곡, 스토리보드, 비디오, 혹은 배경 콘텐츠에 관련된 태그는 비트맵과 관련이 있다고 간주됩니다.
 
 #### 표준화
@@ -174,19 +174,19 @@
 
 ### 규칙
 
-- **반드시 [Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [#/8 박자로 구성된 곡의 타이밍 맞추기](/wiki/Guides/Timing_Songs_With_8-Signatures)를 참조해 주세요.
+- **반드시 [상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [#/8 박자로 구성된 곡의 타이밍 맞추기](/wiki/Guides/Timing_Songs_With_8-Signatures)를 참조해 주세요.
 - **비트맵은 완벽하게 타이밍이 맞춰져야 합니다.** 이는 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [오프셋](/wiki/Beatmapping/Offset)이 곡과 완벽하게 싱크 되어야 한다는 것입니다. 지속적으로 BPM이 변화하는 비트맵은 완벽하게 타이밍을 맞추기 어려울 수 있어도 플레이에 악영향을 미치지 않는 한도에서 가능한 정확하게 맞춰져야 합니다. 브레이크나 스피너 동안의 복잡한 타이밍은 필수적이지 않습니다.
-- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)는 비트맵의 모든 난이도에서 동일해야 합니다.** 각 포인트는 각 난이도에서 동일한 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [오프셋](/wiki/Beatmapping/Offset)을 가져야 합니다.
-- **어떠한 난이도에도 불필요한 [Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트 코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:
+- **[상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)는 비트맵의 모든 난이도에서 동일해야 합니다.** 각 포인트는 각 난이도에서 동일한 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [오프셋](/wiki/Beatmapping/Offset)을 가져야 합니다.
+- **어떠한 난이도에도 불필요한 [상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트 코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:
   - 곡의 음악적 구간을 나이트 코어 모드의 비트와 맞추기 위한 경우.
   - 지원되지 않는 비트 스냅 (예를 들어 1/11)을 요구하는 음악적 구간을 포함하기 위해.
-- **두 개의 [Uninherited](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) 또는 두 개의 [Inherited timing points](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)를 동일한 지점에 배치해서는 안 됩니다.** 두 개의 적색 (Uninherited) 또는 Inherited timing points가 서로 겹쳐지면 슬라이더 속도 및 볼륨 설정에 대한 의도하지 않은 동작이 있을 수 있습니다.
-- **[Inherited timing points](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)는 첫 번째 [Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) 앞에 배치할 수 없습니다.** 앞에서 받아올 설정이 없다면 Inherited timing points는 제대로 동작하지 않습니다. 만약 히트 사운드나 슬라이더 속도 변화를 첫 번째 Uninherited timing points 이전에 사용하고 싶다면 해당 Uninherited timing points를 한마디 앞으로 옮겨서 Inherited timing points가 사용될 수 있도록 해야 합니다.
-- **비트맵의 첫 번째 [Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)는 [키아이](/wiki/Gameplay/Kiai_time)를 활성화하는 데 사용할 수 없습니다.** 이렇게 하면 오브젝트가 나타나기 전에 키아이가 반짝이게 됩니다. 대신 첫 번째 Uninherited timing points와 동일한 위치에 있는 [Inherited timing points](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)을 사용하여 키아이를 활성화해야 합니다.
+- **두 개의 [Uninherited](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) 또는 두 개의 [상속된 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)를 동일한 지점에 배치해서는 안 됩니다.** 두 개의 적색 (Uninherited) 또는 상속된 타이밍 포인트가 서로 겹쳐지면 슬라이더 속도 및 볼륨 설정에 대한 의도하지 않은 동작이 있을 수 있습니다.
+- **[상속된 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)는 첫 번째 [상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) 앞에 배치할 수 없습니다.** 앞에서 받아올 설정이 없다면 상속된 타이밍 포인트는 제대로 동작하지 않습니다. 만약 히트 사운드나 슬라이더 속도 변화를 첫 번째 상속되지 않은 타이밍 포인트 이전에 사용하고 싶다면 해당 상속되지 않은 타이밍 포인트를 한마디 앞으로 옮겨서 상속된 타이밍 포인트가 사용될 수 있도록 해야 합니다.
+- **비트맵의 첫 번째 [상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)는 [키아이](/wiki/Gameplay/Kiai_time)를 활성화하는 데 사용할 수 없습니다.** 이렇게 하면 오브젝트가 나타나기 전에 키아이가 반짝이게 됩니다. 대신 첫 번째 상속되지 않은 타이밍 포인트와 동일한 위치에 있는 [상속된 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)을 사용하여 키아이를 활성화해야 합니다.
 - **모든 오브젝트는 타임라인 틱에서 2 ms를 넘지 않는 범위 내에 스냅 되어야 합니다.** [AiMod](/wiki/Client/Beatmap_editor/AiMod)는 이러한 오류들을 알려주며, 일부 잘못된 보고가 있을 수 있습니다. 잘못된 오류 보고는 주로 슬라이더의 끝이나 리버스 화살표에서 나타나며, 다른 도구를 이용해 수동으로 확인해야 합니다. 지원되지 않는 비트 스냅이 필요한 음악적 구간의 오브젝트 (예를 들자면, 1/11)들은 다음과 같이 할 수 있습니다:
   - 의도된 비트 스냅에 맞는 이상, 언스냅 상태로 남겨질 수 있습니다.
   - 일시적인 [BPM](/wiki/Beatmapping/Beats_per_minute) 변화로 스냅 시킬 수 있습니다.
-- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)를 통과하거나 약간 앞에서 끝나서 잘못 스냅 된 오브젝트는 오브젝트의 끝이 새 타이밍 구간에 스냅 되어야 합니다.** 스피너나 osu!mania의 롱 노트의 경우 오브젝트의 끝을 타임라인에서 드래그하면 됩니다. 슬라이더의 경우는 슬라이더 속도를 고치거나 `.osu` 파일을 수정해 줘야 합니다.
+- **[상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)를 통과하거나 약간 앞에서 끝나서 잘못 스냅 된 오브젝트는 오브젝트의 끝이 새 타이밍 구간에 스냅 되어야 합니다.** 스피너나 osu!mania의 롱 노트의 경우 오브젝트의 끝을 타임라인에서 드래그하면 됩니다. 슬라이더의 경우는 슬라이더 속도를 고치거나 `.osu` 파일을 수정해 줘야 합니다.
 
 ## 오디오
 
@@ -213,10 +213,10 @@
 ### 가이드라인
 
 - **비트맵의 오디오 파일과 히트 사운드 파일에는 눈에 띄는 왜곡이 존재해서는 안 됩니다.** (아티스트가 의도하지 않았거나 곡 정체성의 일부가 아닌 클리핑, 머플링, 딱딱 거리는 소리 같은 것을 의미). 간섭이 있는지에 대한 여부는 프로그램에 의존하는 것보다 오디오를 들어서 확인하는 것이 가장 좋습니다.
-- **곡의 오디오 파일을 이 규정의 비트맵 부분에 있는 시간제한을 맞추기 위해서 인위적으로 연장해서는 안 됩니다.** 이에는 오디오 파일 구간의 반복, 곡 혹은 곡의 구간의 BPM을 낮추거나, 곡 전체를 포함하지 않고 약간의 음악을 추가하는 것을 포함합니다 (이것으로만 한정되지는 않습니다). 이는 [Song compilation](/wiki/Beatmapping/Song_compilation)과 랭크 가능한 최저 길이보다 짧은 오디오 파일에는 적용되지 않습니다.
+- **곡의 오디오 파일을 이 규정의 비트맵 부분에 있는 시간제한을 맞추기 위해서 인위적으로 연장해서는 안 됩니다.** 이에는 오디오 파일 구간의 반복, 곡 혹은 곡의 구간의 BPM을 낮추거나, 곡 전체를 포함하지 않고 약간의 음악을 추가하는 것을 포함합니다 (이것으로만 한정되지는 않습니다). 이는 [송 컴필레이션](/wiki/Beatmapping/Song_compilation)과 랭크 가능한 최저 길이보다 짧은 오디오 파일에는 적용되지 않습니다.
 - **오디오 파일의 마지막 20% 이상이 매핑되어 있지 않다면, 반드시 잘라내야 합니다.** 인트로 시간은 포함되지 않으며 아웃트로 20% 이상에 스토리보드/비디오가 작동하고 있거나 20% 이상을 페이드아웃이나 타이밍 문제로 매핑할 수 없는 경우 적용되지 않습니다.
-- **[Song compilation](/wiki/Beatmapping/Song_compilation)은 3곡 이상을 포함해야 합니다.** 2곡만 Compilation에 사용하는 것은 플레이어에게 부족한 경험을 주므로, 별도의 비트맵으로 나누어져야 합니다. 함께 독점적으로 발매된 곡에 대해서는 예외로 할 수 있습니다.
-- **[Song compilation](/wiki/Beatmapping/Song_compilation)은 곡이 적절하게 연결되어 있어야 하며, 다른 곡들 사이에 갑작스러운 휴식이나 긴 페이드를 포함해서는 안 됩니다.** Song compilation에 사용된 곡은 오디오 품질, 볼륨, 길이가 비슷해야 합니다. 이는 Compilation이 다른 비트맵과 같이 일정한 게임 플레이 경험을 줄 수 있도록 하기 위한 것입니다. 크로스 페이드 전환을 사용하는 것은 허용하지만, 사용 빈도를 최소한으로 하고 일반적으로 5초를 넘어서는 안됩니다. 적절하게 잘 설계된 전환 효과는 크로스 페이딩보다 항상 더 좋은 옵션임을 알아두세요.
+- **[송 컴필레이션](/wiki/Beatmapping/Song_compilation)은 3곡 이상을 포함해야 합니다.** 2곡만 컴필레이션에 사용하는 것은 플레이어에게 부족한 경험을 주므로, 별도의 비트맵으로 나누어져야 합니다. 함께 독점적으로 발매된 곡에 대해서는 예외로 할 수 있습니다.
+- **[송 컴필레이션](/wiki/Beatmapping/Song_compilation)은 곡이 적절하게 연결되어 있어야 하며, 다른 곡들 사이에 갑작스러운 휴식이나 긴 페이드를 포함해서는 안 됩니다.** 송 컴필레이션에 사용된 곡은 오디오 품질, 볼륨, 길이가 비슷해야 합니다. 이는 컴필레이션이 다른 비트맵과 같이 일정한 게임 플레이 경험을 줄 수 있도록 하기 위한 것입니다. 크로스 페이드 전환을 사용하는 것은 허용하지만, 사용 빈도를 최소한으로 하고 일반적으로 5초를 넘어서는 안됩니다. 적절하게 잘 설계된 전환 효과는 크로스 페이딩보다 항상 더 좋은 옵션임을 알아두세요.
 - **컷 된 곡은 반드시 전체 곡의 느낌과 세기를 유지해야 합니다.** 전체 곡의 구조를 바꾸는 컷 (예를 들어 곡의 인트로/벌스/코러스/아웃트로를 제외하거나 리 어레인지 하는 것)은 곡을 잘못 표현할 수 있으며, 불만족스러운 플레이 경험을 유발합니다. 이것은 공식적인 컷이나 공식적인 컷의 재현에는 적용되지 않습니다.
 - **[액티브 히트 사운드](/wiki/Beatmapping/Hitsound#active-hitsound)를 제외한 [게임 플레이 사운드](/wiki/Skinning/Sounds#gameplay)는 `.mp3` 혹은 `.ogg` 파일 포맷을 사용해야 합니다.** 이런 파일은 보통 긴 길이를 가지고 있으며, `.wav` 파일은 상대적으로 불필요하게 큽니다. 하지만 `.wav`가 더 작은 파일 사이즈라면 이를 사용해야 합니다.
 - **소프트/노말 샘플셋의 피니시를 자주 사용하는 커스텀 히트 사운드 샘플로 대체하는 것은 피해야 합니다.** 이 피니쉬들을 스네어/베이스 드럼이나 곡의 멜로디를 표현하기 위해 사용하는 것은 비트맵 히트 사운드를 비활성화한 사람들에게 굉장히 시끄럽게 들릴 수 있습니다. 휘슬/클랩은 더 자주 사용되기 때문에 이를 대체하는 것이 권장됩니다. osu!taiko 비트맵에는 이 가이드라인이 적용되지 않으며, 고유의 히트 사운드 샘플 가이드라인을 가지고 있습니다.
