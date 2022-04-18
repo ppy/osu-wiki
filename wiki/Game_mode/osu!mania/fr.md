@@ -80,7 +80,7 @@ La régénération de la barre de vie s'active lentement lorsque vous tenez une/
 
 ## Styles de jeu
 
-*Référez-vous à la page [Styles de jeu sous osu!mania](/wiki/Play_style#osu-mania).*
+*Référez-vous à la page [Styles de jeu sous osu!mania](/wiki/Play_style#osu!mania).*
 
 ## Contrôles
 
@@ -221,7 +221,7 @@ Activez le bouton `Co-op mode` pour forcer le modificateur *Co-Op* quand elle se
   - Par exemple, pour une beatmap 4K, utiliser les modificateurs 2K et Co-Op n'affectera pas le score.
   - Respectivement, pour une beatmap 5K, utiliser le modificateur 5K n'affectera pas non plus le score.
   - Utiliser le modificateur xK ou Co-Op sur les beatmaps spécifiques à osu!mania n'affectera pas non plus le score.
-- Les mascottes d'osu!mania sont [Mani & Mari](/wiki/Mascots#-mani-&-mari).
+- Les mascottes d'osu!mania sont [Mani & Mari](/wiki/Mascots#mani-&-mari).
 - Lorsque le mod [Auto](/wiki/Game_modifier/Auto) est utilisé, le nom du joueur sera *osu!topus*.
 
 ### Histoire

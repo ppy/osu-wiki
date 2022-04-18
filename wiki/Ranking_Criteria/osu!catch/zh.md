@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 44a89d5d1b2e627f6fad43aa6b69563fe976ae68
+---
+
 # osu!catch ranking criteria
 
 ***注意: 这个文件是[通用 Ranking Criteria](/wiki/Ranking_Criteria)的扩展。***

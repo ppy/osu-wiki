@@ -98,7 +98,7 @@ Le premier et unique lot de clés USB portables osu! install (illustrées ci-des
 
 ## Novembre
 
-Des bannières de profil [OWC](/wiki/Tournaments#-osu!-world-cup) ont été ajoutées à l'osu!store les 7 et 8 novembre 2015 [[37,38]][r].
+Des bannières de profil [OWC](/wiki/Tournaments#osu!-world-cup) ont été ajoutées à l'osu!store les 7 et 8 novembre 2015 [[37,38]][r].
 
 La vérification obligatoire de l'email pour certaines actions sur le compte a commencé à être déployée le 16 novembre 2015 en réponse aux événements récents de l'époque impliquant la compromission des comptes de nombreux streamers d'osu! [[39,40,41]][r]. Le lendemain, [peppy a posté sur son blog](https://blog.ppy.sh/post/133395614668/20151117), où il a initialement annoncé le changement de la sécurité des comptes :
 
