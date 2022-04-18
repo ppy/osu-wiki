@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Ranking criteria
 
 *[게임 모드](/wiki/Game_mode) 고유의 Ranking criteria를 보려면, 다음을 참조하세요: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch)와 [osu!mania](osu!mania)*
