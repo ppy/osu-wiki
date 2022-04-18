@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 17fb11cfdf1bc72ce3f85c62bed260d9870c1cc8
 tags:
   - NAT
 ---
@@ -24,7 +26,7 @@ NAT bertanggung jawab atas berbagai tugas terkait mapping yang dapat dipisahkan 
 
 Seorang anggota NAT dapat terlibat dengan tugas apapun sesuai dengan subkategori yang mereka pilih, terlepas dari tanggung jawab utama mereka yang sudah tercantum diatas. Misalnya, jika seorang anggota NAT memprioritaskan subkategori struktural, mereka tidak bertanggung jawab atas semua tugas dalam subkategori tersebut dan mereka masih dapat membantu tugas dari subkategori lain.
 
-Selain kemampuan moderasi, NAT juga memiliki kemampuan untuk [nominasi](/wiki/Beatmap_ranking_procedure#nominasi), [kualifikasi](/wiki/Beatmap_ranking_procedure#kualifikasi), dan [menyetel ulang nominasi](/wiki/Beatmap_ranking_procedure#pengulangan-nominasi) di beatmap. Di area ini mereka dianggap sama dengan [full BN](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominator), dan semua aturan dan ekspektasi BN selain aktivitas berlaku untuk anggota NAT. Anggota NAT tidak diharapkan untuk menominasikan map secara teratur seperti BN karena memiliki tanggung jawab tambahan di komunitas mapping dan modding osu!.
+Selain kemampuan moderasi, NAT juga memiliki kemampuan untuk [nominasi](/wiki/Beatmap_ranking_procedure#nominasi), [kualifikasi](/wiki/Beatmap_ranking_procedure#kualifikasi), dan [menyetel ulang nominasi](/wiki/Beatmap_ranking_procedure#penganuliran-nominasi-(nomination-reset)) di beatmap. Di area ini mereka dianggap sama dengan [full BN](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominator), dan semua aturan dan ekspektasi BN selain aktivitas berlaku untuk anggota NAT. Anggota NAT tidak diharapkan untuk menominasikan map secara teratur seperti BN karena memiliki tanggung jawab tambahan di komunitas mapping dan modding osu!.
 
 Anggota NAT yang berkontribusi terutama pada subkategori evaluasi juga bertanggung jawab untuk melakukan modding setidaknya 3 beatmap per bulan. Hal ini dapat menjamin bahwa NAT selalu diperbarui berdasarkan komunitas modding saat mengevaluasi Beatmap Nominator. Anggota yang gagal memenuhi persyaratan aktivitas modding akan diberi peringatan. Jika aktivitas mereka tidak meningkat dalam sebulan ke depan, mereka akan dikeluarkan dari NAT. Anggota NAT yang mengerjakan proyek yang berhubungan dengan mapping mungkin dibebaskan dari persyaratan modding berdasarkan kasus per kasus.
 

@@ -670,7 +670,7 @@ Monday, 9 July 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Apraxia** ![][flag_US] | **4** | 1 | ![][flag_Au] Jordan The Bear | [#1](https://osu.ppy.sh/community/matches/43636376) |
+| **Apraxia** ![][flag_US] | **4** | 1 | ![][flag_AU] Jordan The Bear | [#1](https://osu.ppy.sh/community/matches/43636376) |
 | **Apraxia** ![][flag_US] | **4** | 0 | ![][flag_EE] Tiger Claw | [#1](https://osu.ppy.sh/community/matches/43699039) |
 | **Apraxia** ![][flag_US] | **4** | 0 | ![][flag_RU] z0mbir | [#1](https://osu.ppy.sh/community/matches/43623566) |
 | **Jordan The Bear** ![][flag_AU] | **4** | 1 | ![][flag_EE] Tiger Claw | [#1](https://osu.ppy.sh/community/matches/43803789) |

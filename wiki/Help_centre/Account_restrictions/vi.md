@@ -1,5 +1,7 @@
 # Hạn chế tài khoản
 
+*Bài báo chính: [Trung tâm trợ giúp](/wiki/Help_centre)*
+
 Hạn chế là việc tách biệt bạn khỏi cộng đồng, được áp đặt lên những tài khoản có những hành vi bất thường, đáng ngờ, hoặc phạm quy.
 
 Khi một tài khoản bị hạn chế, họ sẽ không thể tương tác với cộng đồng cho đến khi hạn chế được gỡ bỏ. Người chơi bị hạn chế vẫn có thể chơi trò chơi, tải beatmaps và ghi điểm, nhưng hồ sơ cá nhân của họ sẽ bị ẩn đi đối với người khác.

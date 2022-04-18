@@ -453,7 +453,7 @@ Sonntag, 9. November 2014:
 8. Gewinner von Rückspielen.
 9. Die besten 2 Teams in der Gruppe kommen in die Doppeleleminierungsetappen.
 10. Die folgenden Etappen sind Doppeleleminierungsetappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe absteigt.
-11. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
+11. Basierend auf [dieser Grafik](/wiki/shared/stages-visual.png) teilen sich die Etappen wie folgt auf:
 
 | Etappe | Partie-ID |
 | :-- | :-- |

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: ad3744762742b8a2c1c7d3d1795e060a9569a46e
+---
+
 # Turniere
 
 Dieser Bereich ist für osu!-Turniere bestimmt. Turniere haben ihr eigenes Forum, das man [über diesen Link](https://osu.ppy.sh/community/forums/55) finden kann.
@@ -429,6 +434,8 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Advanced Global Taiko Showdown 2021](GTS/AGTS_2021) | 2021-05-15 | 2021-06-27 | ![][flag_US] Vereinigte Staaten A | ![][flag_SG] Singapur A | ![][flag_MY] Malaysia A |
 | [Rising Global Taiko Showdown 2021](GTS/RGTS_2021) | 2021-06-12 | 2021-07-25 | ![][flag_KR] Südkorea | ![][flag_HK] Hong Kong | ![][flag_CN] China A |
 | [Intermediate Global Taiko Showdown 2021](GTS/IGTS_2021) | 2021-07-24 | 2021-09-05 | ![][flag_US] Vereinigte Staaten | ![][flag_CN] China | ![][flag_SG] Singapur |
+| [Expert Global Taiko Showdown 2021](GTS/EGTS_2021) | 2021-10-02 | 2021-11-28 | ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
+| [Squad Global Taiko Showdown 2021](GTS/SGTS_2021) | 2022-01-08 | 2022-02-20 | おまかせ | Ham | 皇-SUMERAGI- |
 
 #### North & South American Taiko Tournament
 

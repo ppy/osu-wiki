@@ -6,7 +6,7 @@ tags:
 
 # Drain time
 
-**Drain time** mengacu pada total durasi sebuah [beatmap](/wiki/Beatmap) yang mengharuskan pemain untuk aktif. Ini dimulai dari awal [hit object](/wiki/Hit_object), berhenti sampai hit object yang terakhir, dan tidak ada putus. Kata *drain* berasal dari [osu!](/wiki/Game_mode/osu!) dan sistem [health drain](/wiki/Beatmapping/Health_drain) mode [osu!catch](/wiki/Game_mode/osu!catch), dimana health pemain terus menurun ketika mereka bermain sebuah map.
+**Drain time** mengacu pada total durasi sebuah [beatmap](/wiki/Beatmap) yang mengharuskan pemain untuk aktif. Ini dimulai dari awal [hit object](/wiki/Hit_object), berhenti sampai hit object yang terakhir, dan tidak ada [putus](/wiki/Beatmap/Break). Kata *drain* berasal dari [osu!](/wiki/Game_mode/osu!) dan sistem [health drain](/wiki/Beatmapping/Health_drain) mode [osu!catch](/wiki/Game_mode/osu!catch), dimana health pemain terus menurun ketika mereka bermain sebuah map.
 
 Beatmap dengan durasi drain time yang sangat panjang adalah tipe *[marathons](/wiki/Beatmap/Marathon)* yang di mana harus memiliki kesabaran untuk menyelesaikannya.
 
