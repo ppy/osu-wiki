@@ -55,6 +55,6 @@ Katu déclenche le deuxième niveau sur le storyboard pendant le jeu, ce qui mon
 
 L'obtention de Katu déclenche plusieurs événements :
 
-- [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#layers) est désactivé.
-- [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#layers) est activé.
+- [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#couches) est désactivé.
+- [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#couches) est activé.
 - L'événement "Passing" est déclenché, si l'état précédent était "Fail".

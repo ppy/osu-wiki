@@ -147,7 +147,7 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 
 ## Le saviez-vous ?
 
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a créé l'équipe originelle de capitaines en septembre 2017 ainsi que le système [Captain's Pick](/wiki/Beatmap/History_of_Loved#captains-pick-et-project-loved-(septembre-2017---présent)) qui a ensuite été renommé Project Loved. Jusqu'à fin 2019, il a supervisé et géré l'ensemble du projet.
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a créé l'équipe originelle de capitaines en septembre 2017 ainsi que le système [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-et-project-loved-(septembre-2017---présent)) qui a ensuite été renommé Project Loved. Jusqu'à fin 2019, il a supervisé et géré l'ensemble du projet.
 - Avant le 28 avril 2021, la [page du groupe Project Loved](https://osu.ppy.sh/groups/31) n'était pas publique et n'était utilisée qu'à des fins administratives. À partir de maintenant, elle est accessible au public.
   - Jusqu'au 16 avril 2021, les seules personnes qui faisaient partie du groupe étaient ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), et ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689). Maintenant, tous les utilisateurs faisant partie de la Project Loved Team appartiennent au groupe.
 
