@@ -16,7 +16,7 @@ As always, we would like to thank everyone for your participation in the March v
 - [Results for osu!taiko](https://osu.ppy.sh/community/forums/posts/8581556)
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/posts/8581555)
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/posts/8581554)
- 
+
 This month, a person who's known for hosting one of the best community tournament series, the [Global Taiko Showdown](/wiki/Tournaments/GTS), has joined us as a part of the team. Please welcome our newest addition, [Kasumi-sama](https://osu.ppy.sh/users/6177263)! He will be joining us as a captain for osu!... catch??
 
 Yes, you heard that right, Kasumi's wrath also extends to the fruit sector as a high-ranked player, and he'll be joining the osu!catch captains to serve you all the *fruitiest* maps out there!
@@ -355,7 +355,7 @@ The tournament scene needs absolutely no introduction to juankristal: arguably t
 
 *Paintings? Oh, yeah.*
 
-*Paintings? Oh, yeah.* is one of his mid-tier entries as far as difficulty goes and was mapped all the way back in 2016 for... a French tournament (M4F). It has since been featured in many, many tournaments: some very notable ones (\[SOFT 2](https://osu.ppy.sh/community/forums/topics/546286), [4DMWC2](/wiki/Tournaments/4DM/2), [/wiki/Tournaments/MWC/2021_4K\]MWC 4K 2021\[/url\]), as well as many more discrete ones.
+*Paintings? Oh, yeah.* is one of his mid-tier entries as far as difficulty goes and was mapped all the way back in 2016 for... a French tournament (M4F). It has since been featured in many, many tournaments: some very notable ones ([SOFT 2](https://osu.ppy.sh/community/forums/topics/546286), [4DMWC2](/wiki/Tournaments/4DM/2), [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K)), as well as many more discrete ones.
 
 *Paintings? Oh, yeah.*
 
