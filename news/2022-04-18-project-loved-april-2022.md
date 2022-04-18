@@ -68,11 +68,11 @@ fanzhen0019 is well-renowned for having some of the most unique and carefree map
 250 BPM, 1:39 | 1.54★ – 7.11★\
 *description written by [Doomsday](https://osu.ppy.sh/users/18983)*
 
-When it comes to the art of mapping high speed, jump heavy breakcore, Silverboxer is a name that always springs to mind. Many of his early mapsets became very popular through multiplayer lobbies and tournament warmup picks, and this is no exception!
+When it comes to the art of mapping high-speed, jump-heavy breakcore, Silverboxer is a name that always springs to mind. Many of his early mapsets became very popular through multiplayer lobbies and tournament warmup picks, and this is no exception!
 
 Mapped in 2016, Some of the references in *PISSCORD* might be a little dated, but this mapping certainly hasn't aged a day. 250 BPM jumps are the name of the game, with no respite for its 1 minute 30 second length. Geometric shapes, back and forths, and linear patterns abound in this one, but it still retains a smooth flow that stops it from feeling like an old map. It also comes loaded with a full spread of difficulties, including many from some renowned guest mappers, peaking at over 7 stars in difficulty.
 
-A great example of the aim heavy mapping of the mid 2010's, with the following to match. Let us know if you think it should ascend into the Loved category!
+A great example of the aim-heavy mapping of the mid 2010's, with the following to match. Let us know if you think it should ascend into the Loved category!
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/396643.jpg)](https://osu.ppy.sh/community/forums/topics/1561116)
 
@@ -124,7 +124,9 @@ The osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/
 220 BPM, 60:08 | 5.24★ – 7.35★\
 *description written by [Boaz](https://osu.ppy.sh/users/13302996)*
 
-When you think of taiko marathons, it will most likely be a \~20-40 minute distorted j-pop compilation filled with amen breaks but *Because Maybe!* is different. *Because Maybe!* is an album by Renard, a fairly well-known artist in the osu! community, filled with a whopping 20 tracks. Well guess what, [Axer](https://osu.ppy.sh/users/7299864) and his mapping colleagues mapped all of them! Not only does this mapset include a 60 minute collab marathon featuring every song on the album, it also includes all 20 songs as separate diffs so you don't have to play the first 53 minutes only to play *TU4AR* ;). If you thought it couldn't get any better: this map also features an amazing storyboard by [Jerry](https://osu.ppy.sh/users/605973), so make sure you play with the storyboard enabled for the full experience! Let's see who's ready for [Axer](https://osu.ppy.sh/users/7299864) and his friends to take you for a 60 minute ride.
+When you think of taiko marathons, it will most likely be a \~20-40 minute distorted j-pop compilation filled with amen breaks but *Because Maybe!* is different. *Because Maybe!* is an album by Renard, a fairly well-known artist in the osu! community, filled with a whopping 20 tracks. Well guess what, [Axer](https://osu.ppy.sh/users/7299864) and his mapping colleagues mapped all of them! Not only does this mapset include a 60-minute collab marathon featuring every song on the album, it also includes all 20 songs as separate diffs so you don't have to play the first 53 minutes only to play *TU4AR* ;).
+
+If you thought it couldn't get any better: this map also features an amazing storyboard by [Jerry](https://osu.ppy.sh/users/605973), so make sure you play with the storyboard enabled for the full experience! Let's see who's ready for [Axer](https://osu.ppy.sh/users/7299864) and his friends to take you for a 60-minute ride.
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/1018730.jpg)](https://osu.ppy.sh/community/forums/topics/1561111)
 
@@ -132,7 +134,7 @@ When you think of taiko marathons, it will most likely be a \~20-40 minute disto
 215 BPM, 2:42 | 6.27★, 6.61★\
 *description written by [Gamelan4](https://osu.ppy.sh/users/9856910)*
 
-*Kotori - Nanamori (youth remix)* is a very popular track among osu! players, and both Felt7z & nyanmi's excellent taiko redemption of it works for an spectacular combo. Two diffs as energetic as the track itself, it's no surprise both have been featured in several tournaments through their lifetime, amassing enough popularity to make not nominating this for Loved a crime. Streams, engaging rhythms and patterning and two different approaches for a hyper tracks as this, we at Loved HQs are glad to bring this mapset, that you should absolutely try if you haven't done so yet!
+*Kotori - Nanamori (youth remix)* is a very popular track among osu! players, and both Felt7z & nyanmi's excellent taiko redemption of it works for an spectacular combo. Two diffs as energetic as the track itself, it's no surprise both have been featured in several tournaments throughout their lifetimes, amassing enough popularity to make not nominating this for Loved a crime. Streams, engaging rhythms and patterning and two different approaches for a hyper track such as this one, we at Loved HQ are glad to bring this mapset, that you should absolutely try if you haven't done so yet!
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/1350314.jpg)](https://osu.ppy.sh/community/forums/topics/1561109)
 
@@ -197,7 +199,7 @@ For those who want to play this very unique song but find the higher-density sna
 190 BPM, 2:32 | 6.45★, 6.45★\
 *description written by [KuroKuroKuro](https://osu.ppy.sh/users/11931563)*
 
-\*Hyper Bass feat. Yunomi (7_7 bootleg)* is a map made by EJ_\_ and remixed by 7_7, who is also a taiko player. This map was used as the NM1 in the Round of 16 of [TWC 2021\](https://osu.ppy.sh/wiki/Tournaments/TWC/2021).
+*Hyper Bass feat. Yunomi (7_7 bootleg)* is a map made by EJ_\_ and remixed by 7_7, who is also a taiko player. This map was used as the NM1 in the Round of 16 of [TWC 2021](/wiki/Tournaments/TWC/2021).
 
 There are a moderate number of shorter streams and 1/6 and 1/8 bursts placed in this map, but they are all easy patterns, and all of them are very good practice for the basics. All in all, it's a very good map for those who want to hone their taiko skills and test their abilities. Why not play and see what kind of map it is? We hope you will like it!
 
@@ -233,7 +235,7 @@ With his map of *Unwelcome School*, Dika312 experiments with patterns that don't
 255 BPM, 6:05 | 8.10★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-I bet many of you have been waiting for this and it is finally here up for voting: last year's \[osu!catch World Cup\](https://osu.ppy.sh/wiki/Tournaments/CWC/2021) Grand Finals tiebreaker *of Ambrosia!*
+I bet many of you have been waiting for this and it is finally here up for voting: last year's [osu!catch World Cup](/wiki/Tournaments/CWC/2021) Grand Finals tiebreaker *of Ambrosia!*
 
 Oh boy, where do I even start on this? First of all, the song itself was a commission and it was specifically composed for the osu!catch World Cup. It was first revealed to the public during the mappool showcase along with the map. As the difficulty name suggests, it is a collab, but one of the strongest collabs imagineable on top of that. Jemzuu, Ascendance, Deif and Spectator — there is hardly anyone out there who wouldn't know those names. Just seeing who was involved making this should give you an idea what you are in for.
 
@@ -323,8 +325,7 @@ We're taking things far back, with akuma123's set of *3rd Eye In Breast*.
 
 Uploaded back in the beginning of 2015, this set is well over 7 years old now. Since then the community has grown exponentially, and really everything about this gamemode as well as the whole game has changed completely. If there's one thing that has stayed consistent however, it's that sets were always favored, and as far as I can remember this particular set took off pretty quickly.
 
-For 4K players at the time, things like the 4K SHD or even the INF would have provided some serious challenge. 208 BPM jumpstreams are still fast even for today's standards, especially if you're a newer player. Not to mention that this set also includes a 7K difficulty from [Skalim]( https://osu.ppy.sh/users/2225008), a long time veteran of the game. This 7K is really no slouch on the density end either, containing all kinds of uncomfortable jumps and bursts. Lastly, there are also the lower difficulties which should make this more appealing to a wider audience of players. It seems like at one point the set was going for Ranked, but hey, things don't always work out on that end.
-
+For 4K players at the time, things like the 4K SHD or even the INF would have provided some serious challenge. 208 BPM jumpstreams are still fast even for today's standards, especially if you're a newer player. Not to mention that this set also includes a 7K difficulty from [Skalim]( https://osu.ppy.sh/users/2225008), a long-time veteran of the game. This 7K is really no slouch on the density end either, containing all kinds of uncomfortable jumps and bursts. Lastly, there are also the lower difficulties which should make this more appealing to a wider audience of players. It seems like at one point the set was going for Ranked, but hey, things don't always work out on that end.
 
 We're always happy to throw it back with classic sets like these, and give players who weren't around during those times an idea of how things used to be.
 
@@ -334,9 +335,11 @@ We're always happy to throw it back with classic sets like these, and give playe
 201 BPM, 7:01 | 5.84★\
 *description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
 
-MyZterioN- makes their return to Loved, with their widely enjoyed map of *Nacreous Snowmelt*.
+MyZterioN- makes their return to Loved, with their widely-enjoyed map of *Nacreous Snowmelt*.
 
-Back in August of last year, MyZ had their map of [*MEGALOVANIA*]( https://osu.ppy.sh/beatmapsets/1038667#mania/2171185) go up, and *Snowmelt* here is going up for very similar reasons. Both charts are executed strongly, with MyZ's sensible patterning. There's plenty of challenge to be found in this chart, but at the same time it all feels very ergonomic and rewarding to play. At OD 7, *Snowmelt* strikes a balance between leniency towards rice, but also it puts your long note accuracy to the test in many of its tougher sections. Because of that balance, I think it's fair to label this overall as a hybrid. Lots of LN coordination intermixed with rice, dedicated speed and jack sections, and even some LN density in the second half. This chart really feels like the full experience that you would want out of a song as dynamic as this, and MyZterioN- did a great job of making that happen.
+Back in August of last year, MyZ had their map of [MEGALOVANIA]( https://osu.ppy.sh/beatmapsets/1038667#mania/2171185) go up, and *Snowmelt* here is going up for very similar reasons. Both charts are executed strongly, with MyZ's sensible patterning. There's plenty of challenge to be found in this chart, but at the same time it all feels very ergonomic and rewarding to play.
+
+At OD 7, *Snowmelt* strikes a balance between leaning towards rice, and putting your long note accuracy to the test in many of its tougher sections. Because of that balance, I think it's fair to label this overall as a hybrid. Lots of LN coordination intermixed with rice, dedicated speed and jack sections, and even some LN density in the second half. This chart really feels like the full experience that you would want out of a song as dynamic as this, and MyZterioN- did a great job of making that happen.
 
 Give your vote to show them your appreciation!
 
@@ -352,15 +355,15 @@ The tournament scene needs absolutely no introduction to juankristal: arguably t
 
 *Paintings? Oh, yeah.*
 
-*Paintings? Oh, yeah.* is one of his mid-tier entries as far as difficulty goes and was mapped all the way back in 2016 for... a French tournament (M4F). It has since been featured in many, many tournaments: some very notable ones (SOFT2, 4DMWC2, MWC2021), as well as many more discrete ones.
+*Paintings? Oh, yeah.* is one of his mid-tier entries as far as difficulty goes and was mapped all the way back in 2016 for... a French tournament (M4F). It has since been featured in many, many tournaments: some very notable ones (\[SOFT 2](https://osu.ppy.sh/community/forums/topics/546286), [4DMWC2](/wiki/Tournaments/4DM/2), [/wiki/Tournaments/MWC/2021_4K\]MWC 4K 2021\[/url\]), as well as many more discrete ones.
 
 *Paintings? Oh, yeah.*
 
-As a tournament pick, it has mainly been useful as a consistency pick: the coordination and control required to maintain combo and good accuracy throughout the entire 3 minutes and 14 seconds of the song is a fair challenge and separates the players who know their LNs well to the ones who do not.
+As a tournament pick, it has mainly been useful as a consistency pick: the coordination and control required to maintain combo and good accuracy throughout the entire 3 minutes and 14 seconds of the song is a fair challenge and separates the players who know their LNs well from the ones who do not.
 
 *Paintings? Oh, yeah.*
 
-Among Juan's collection of Loved maps, this would constitute his 6th entry, and would certainly be one of his more affordable entries along with [*Saigo*](https://osu.ppy.sh/beatmapsets/609463). Are you willing to Blame Juan once again? Give us your votes! Also, just one more thing.
+Among Juan's collection of Loved maps, this would constitute his 6th entry, and would certainly be one of his more affordable entries along with [Saigo](https://osu.ppy.sh/beatmapsets/609463). Are you willing to *Blame Juan* once again? Give us your votes! Also, just one more thing.
 
 ***Paintings? Oh, yeah.***
 
@@ -372,7 +375,7 @@ Among Juan's collection of Loved maps, this would constitute his 6th entry, and 
 
 You all have asked for this for a while now, and it's finally here. arcwin's *Yoru ni Kakeru* is up for voting!
 
-The playcount here is overwhelming for a graveyarded set. Unlike the [**previous**](https://osu.ppy.sh/beatmapsets/1211012) [**sets**](https://osu.ppy.sh/beatmapsets/1178390#mania/2457545) of this song going up, this set aims to be very approachable especially since it has both 4K and 7K sets. Those of all skill levels can enjoy this, including beginners! Try not to miss from jamming to this song too hard, though. I've totally never done that before.
+The playcount here is overwhelming for a graveyarded set. Unlike [previous](https://osu.ppy.sh/beatmapsets/1211012) [sets](https://osu.ppy.sh/beatmapsets/1178390) of this song gone up to Loved, this set aims to be very approachable especially since it has both 4K and 7K diffs. Those of all skill levels can enjoy this, including beginners! Try not to miss from jamming to this song too hard, though. I've totally never done that before.
 
 If you want to see this entry in Loved, cast your vote in support of this chart!
 
@@ -384,7 +387,7 @@ If you want to see this entry in Loved, cast your vote in support of this chart!
 
 It's been a little while since we've seen Pikobaka in the Loved section, but they're back with another great O2Jam-styled map. This time it's *Runway Drive*!
 
-Like many of Pikobaka's maps, *Runway Drive* features a healthy mix of different LN patterns to keep you on your toes. Whether it's light or dense streams, or the occasional mini-shield, the map provides a fun and engaging playing experience for anyone who wants to give it a shot. The higher star rating may seem intimidating, but the straightforward streams and low OD makes this very approachable for the map's difficulty.
+Like many of Pikobaka's maps, *Runway Drive* features a healthy mix of different LN patterns to keep you on your toes. Whether it's light or dense streams, or the occasional mini-shield, the map provides a fun and engaging playing experience for anyone who wants to give it a shot. The higher star rating may seem intimidating, but the straightforward streams and low OD make the map very approachable for the its difficulty.
 
 *Runway Drive* is a beautiful song with a great map to accompany it. Make sure to cast your vote and show your support for it!
 
