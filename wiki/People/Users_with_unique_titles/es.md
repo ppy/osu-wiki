@@ -340,7 +340,7 @@ Estos usuarios fueron premiados con sus respectivos títulos por razones varias.
 [flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
-[flag_RO]: /wiki/shared/flag/RO.gif "Rumania"
+[flag_RO]: /wiki/shared/flag/RO.gif "Rumanía"
 [flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suecia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
