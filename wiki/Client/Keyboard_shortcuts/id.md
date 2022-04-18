@@ -49,7 +49,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `Esc` | Menampilkan pilihan untuk keluar dari permainan. (Hanya pada saat menu Play dan Options sedang tidak aktif) |
 | `F` | Menampilkan indikator FPS. |
 
-### Pemutar lagu (*jukebox*)
+### Pemutar lagu (jukebox)
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |

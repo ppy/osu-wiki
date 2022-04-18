@@ -186,7 +186,7 @@ En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur 
 
 **En termes simples, l'ajustement d'une longueur donnée d'un fil à coudre de couleur (section de chronométrage) pour un espace de dessin de broderie (mesures, divisées par le diviseur pour être appelées battements) sur le tissu (morceau).** Puisque osu!mania accorde une grande importance au timing des notes, le **time signature** (MM:B) de la section Timing est ajoutée (15:3 = 15ème mesure 3ème temps) à côté de la barre d'ajustement pour faciliter la référence du mappeur. Elle peut prendre une valeur négative (-8:-3 par exemple) si la première section de timing est à *quelques secondes* du début du fichier musique de la beatmap.
 
-Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'horodatage actuel. A côté du bouton se trouve le **nom du fichier son court storyboardé à la note (bleue) sélectionnée**, connu sous le nom de **[keysound](#Léchantillonnage)**
+Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'horodatage actuel. A côté du bouton se trouve le **nom du fichier son court storyboardé à la note (bleue) sélectionnée**, connu sous le nom de **[keysound](#l'échantillonnage)**
 
 ### Au centre à gauche (Sélecteur)
 
@@ -288,7 +288,7 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | Distance Snap (`Y`) | **`Alt` (Maintenu):** On/Off temporaire. Passe du Beat Snap Divisor à la Distance Snap **`Alt` + Molette de la souris :** Ajuster le multiplicateur de distance de Snap. | La distance entre des notes consécutives sera snappé en fonction de leur différence rythmique. A utiliser de préférence lorsque la timeline est en pause. |
 | Lock Notes (`L`) | ("Select" sur une note) **Clic gauche :** Verrouille cette note | Verrouille la note sélectionnée à la position et à l'horodatage actuels. |
 
-Pour **keysound** (ajout de SE sur les hitnotes), sélectionnez la note et **`Alt` + Clic gauche** sur la note sélectionnée (une fenêtre pop-up s'affichera avec des échantillons sonores dans votre dossier beatmap). Référez vous à [L'échantillonnage](#Lechantillonnage)
+Pour **keysound** (ajout de SE sur les hitnotes), sélectionnez la note et **`Alt` + Clic gauche** sur la note sélectionnée (une fenêtre pop-up s'affichera avec des échantillons sonores dans votre dossier beatmap). Référez vous à [L'échantillonnage](#l'échantillonnage)
 
 ### En bas (Timeline de la musique)
 
@@ -338,7 +338,7 @@ En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur 
 | Delete | **Supprime le fichier sonore personnalisé.** Pour supprimer le fichier sonore associé à la note, utilisez le bouton "Reset". |
 | Apply | Applique le fichier sonore personnalisé sélectionné à cette note. |
 | Sample | Place ce fichier sonore personnalisé sélectionné dans le storyboard en respectant l'horodatage actuel. |
-| Sample list | [Fichiers sonores storyboardé](#exemple-de-liste-dévénements) |
+| Sample list | [Fichiers sonores storyboardé](#exemple-de-liste-d'événements) |
 | Reset | Supprime le fichier son associé à la note |
 | Cancel | Ferme la fenêtre. |
 
