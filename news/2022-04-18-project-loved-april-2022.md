@@ -44,7 +44,9 @@ The osu! Loved candidates were chosen by [Bubbleman](https://osu.ppy.sh/users/51
 207.45 BPM, 1:52 | 5.13★, 6.18★, 7.05★\
 *description written by [UberFazz](https://osu.ppy.sh/users/8646059)*
 
-Racking up over a thousand favorites at the time of writing this, Renamon's simple yet engaging map of *Mate Um Bonito Hoje Mesmo!* has won the hearts of many cursor-flinging jump map enthusiasts over its nearly 3 years of life. Coupled with a short, catchy song and a fair few difficulties, it's no wonder this map blew up as much as it did in recent times. Check it out if you've been feeling the intense desire of perfectly smashing those circles all over your screen on the highest difficulty at 7 stars, or would like an easier yet still challenging time on either of the two lower difficulties.
+Racking up over a thousand favorites at the time of writing this, Renamon's simple yet engaging map of *Mate Um Bonito Hoje Mesmo!* has won the hearts of many cursor-flinging jump map enthusiasts over its nearly 3 years of life. Coupled with a short, catchy song and a fair few difficulties, it's no wonder this map blew up as much as it did in recent times. 
+
+Check it out if you've been feeling the intense desire of perfectly smashing those circles all over your screen on the highest difficulty at 7 stars, or would like an easier yet still challenging time on either of the two lower difficulties.
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/1392496.jpg)](https://osu.ppy.sh/community/forums/topics/1561146)
 
@@ -52,7 +54,11 @@ Racking up over a thousand favorites at the time of writing this, Renamon's simp
 200 BPM, 3:08 | 7.39★\
 *description written by [Wixonater](https://osu.ppy.sh/users/10083084)*
 
-Within the last year, Seamob maps have garnered massive popularity for their addictive stamina based flow aim and the high spacing within them. Bad for me is another great example of this, and similarly to Lullaby, it leans into this player fantasy heavily. At 200 BPM, and a hefty 7.4 star rating, the three minute runtime is nothing short of brutal. Whether your confidence to perform is high or not, this map will certainty pose a challenge, and maybe leave your arm sore in the meantime. If all of this piques your interest, I recommend you vote yes and help this map enter the loved category!
+Within the last year, Seamob maps have garnered massive popularity for their addictive stamina based flow aim and the high spacing within them. Bad for me is another great example of this, and similarly to Lullaby, it leans into this player fantasy heavily. 
+
+At 200 BPM, and a hefty 7.4 star rating, the three minute runtime is nothing short of brutal. Whether your confidence to perform is high or not, this map will certainty pose a challenge, and maybe leave your arm sore in the meantime. 
+
+If all of this piques your interest, I recommend you vote yes and help this map enter the loved category!
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/1042704.jpg)](https://osu.ppy.sh/community/forums/topics/1561144)
 
@@ -60,7 +66,11 @@ Within the last year, Seamob maps have garnered massive popularity for their add
 120 BPM, 1:26 | 4.39★\
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-fanzhen0019 is well-renowned for having some of the most unique and carefree maps in the game, and this map showcases that like no other. Don't be fooled by the low star rating, and the approach rate of 6 is only the first of many reasons why. The map itself features deceptively spaced patterns that make you question your ability to read osu! maps at all. Whether you're looking for a map to challenge your reading or just feel like twisting your brain for whatever reason, this is the map to go to.
+fanzhen0019 is well-renowned for having some of the most unique and carefree maps in the game, and this map showcases that like no other. Don't be fooled by the low star rating, and the approach rate of 6 is only the first of many reasons why. 
+
+The map itself features deceptively spaced patterns that make you question your ability to read osu! maps at all. 
+
+Whether you're looking for a map to challenge your reading or just feel like twisting your brain for whatever reason, this is the map to go to.
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/539007.jpg)](https://osu.ppy.sh/community/forums/topics/1561117)
 
@@ -134,7 +144,9 @@ If you thought it couldn't get any better: this map also features an amazing sto
 215 BPM, 2:42 | 6.27★, 6.61★\
 *description written by [Gamelan4](https://osu.ppy.sh/users/9856910)*
 
-*Kotori - Nanamori (youth remix)* is a very popular track among osu! players, and both Felt7z & nyanmi's excellent taiko redemption of it works for an spectacular combo. Two diffs as energetic as the track itself, it's no surprise both have been featured in several tournaments throughout their lifetimes, amassing enough popularity to make not nominating this for Loved a crime. Streams, engaging rhythms and patterning and two different approaches for a hyper track such as this one, we at Loved HQ are glad to bring this mapset, that you should absolutely try if you haven't done so yet!
+*Kotori - Nanamori (youth remix)* is a very popular track among osu! players, and both Felt7z & nyanmi's excellent taiko redemption of it works for an spectacular combo. Sporting two diffs just asenergetic as the track itself, it's no surprise both have been featured in several tournaments throughout their lifetimes, amassing enough popularity to make not nominating this for Loved a crime. 
+
+With streams, engaging rhythms, patterning and two different approaches for a hyper track such as this one, we at Loved HQ are glad to bring this mapset, which you should absolutely try if you haven't done so yet!
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/1350314.jpg)](https://osu.ppy.sh/community/forums/topics/1561109)
 
@@ -201,7 +213,9 @@ For those who want to play this very unique song but find the higher-density sna
 
 *Hyper Bass feat. Yunomi (7_7 bootleg)* is a map made by EJ_\_ and remixed by 7_7, who is also a taiko player. This map was used as the NM1 in the Round of 16 of [TWC 2021](/wiki/Tournaments/TWC/2021).
 
-There are a moderate number of shorter streams and 1/6 and 1/8 bursts placed in this map, but they are all easy patterns, and all of them are very good practice for the basics. All in all, it's a very good map for those who want to hone their taiko skills and test their abilities. Why not play and see what kind of map it is? We hope you will like it!
+There are a moderate number of shorter streams and 1/6 and 1/8 bursts placed in this map, but they are all easy patterns, and all of them are very good practice for the basics. 
+
+All in all, it's a very good map for those who want to hone their taiko skills and test their abilities. Why not play and see what kind of map it is? We hope you will like it!
 
 ## osu!catch
 
@@ -227,7 +241,11 @@ Since this map was made back in 2011, it was made with the old hyperdash system 
 
 Dika312 makes his return to the Loved section with quite the unique map that went quite under the radar until today!
 
-With his map of *Unwelcome School*, Dika312 experiments with patterns that don't require you to dash, despite there being dashes, also known as hyperwalks. The take Dika312 has on these patterns makes it a completely different story than what we're used to, though. They're generally known as pretty speed-based patterns, with them generally being made using stacks, but Dika flipped that idea around its head and made the map with sliders. To make for one challenging map. Testing your control and accuracy. And it is absolutely relentless.
+With his map of *Unwelcome School*, Dika312 experiments with patterns that don't require you to dash, despite there being dashes, also known as hyperwalks. 
+
+The take Dika312 has on these patterns makes it a completely different story than what we're used to, though. They're generally known as pretty speed-based patterns, with them generally being made using stacks, but Dika flipped that idea around its head and made the map with sliders... to make for one challenging map which tests your control and accuracy. 
+
+And it is absolutely relentless.
 
 [![](/wiki/shared/news/2022-04-18-project-loved-april-2022/1478486.jpg)](https://osu.ppy.sh/community/forums/topics/1561100)
 
@@ -295,7 +313,9 @@ Show your support to both Evening and eyes by giving your vote!
 
 inteliser makes their return to the Loved polls, with their revered jack map of Hikaru Utada's *traveling*!
 
-Over the past few years since inteliser created this map, it's consistently been cited as one of the more creative chordjack maps the playerbase has seen. With it's unapologetic use of anchors, a plethora of quads, and not a single break in sight during the song's 5-minute runtime. It's no wonder how this gained the reputation that it has for being not only unique, but VERY difficult. Chordjack is one of the most difficult skillsets to make stand out, and the fact that this chart years after creation is still known to be incredibly distinct, is really just a testament to Intel's creativity as a charter.
+Over the past few years since inteliser created this map, it's consistently been cited as one of the more creative chordjack maps the playerbase has seen. With it's unapologetic use of anchors, a plethora of quads, and not a single break in sight during the song's 5-minute runtime. 
+
+It's no wonder how this gained the reputation that it has for being not only unique, but VERY difficult. Chordjack is one of the most difficult skillsets to make stand out, and the fact that this chart years after creation is still known to be incredibly distinct is really just a testament to Intel's creativity as a charter.
 
 We're happy to finally bring this one to all of you, and make sure to show inteliser your support by giving your vote.
 
