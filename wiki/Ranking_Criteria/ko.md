@@ -180,7 +180,7 @@
 - **어떠한 난이도에도 불필요한 [상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트 코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:
   - 곡의 음악적 구간을 나이트 코어 모드의 비트와 맞추기 위한 경우.
   - 지원되지 않는 비트 스냅 (예를 들어 1/11)을 요구하는 음악적 구간을 포함하기 위해.
-- **두 개의 [Uninherited](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) 또는 두 개의 [상속된 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)를 동일한 지점에 배치해서는 안 됩니다.** 두 개의 적색 (Uninherited) 또는 상속된 타이밍 포인트가 서로 겹쳐지면 슬라이더 속도 및 볼륨 설정에 대한 의도하지 않은 동작이 있을 수 있습니다.
+- **두 개의 [상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) 혹은 두 개의 [상속된 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)를 동일한 지점에 배치해서는 안 됩니다.** 두 개의 상속되지 않은 타이밍 포인트 혹은 두 개의 상속된 타이밍 포인트가 서로 겹쳐지면 슬라이더 속도 및 볼륨 설정에 대한 의도하지 않은 동작이 있을 수 있습니다.
 - **[상속된 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)는 첫 번째 [상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) 앞에 배치할 수 없습니다.** 앞에서 받아올 설정이 없다면 상속된 타이밍 포인트는 제대로 동작하지 않습니다. 만약 히트 사운드나 슬라이더 속도 변화를 첫 번째 상속되지 않은 타이밍 포인트 이전에 사용하고 싶다면 해당 상속되지 않은 타이밍 포인트를 한마디 앞으로 옮겨서 상속된 타이밍 포인트가 사용될 수 있도록 해야 합니다.
 - **비트맵의 첫 번째 [상속되지 않은 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)는 [키아이](/wiki/Gameplay/Kiai_time)를 활성화하는 데 사용할 수 없습니다.** 이렇게 하면 오브젝트가 나타나기 전에 키아이가 반짝이게 됩니다. 대신 첫 번째 상속되지 않은 타이밍 포인트와 동일한 위치에 있는 [상속된 타이밍 포인트](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)을 사용하여 키아이를 활성화해야 합니다.
 - **모든 오브젝트는 타임라인 틱에서 2 ms를 넘지 않는 범위 내에 스냅 되어야 합니다.** [AiMod](/wiki/Client/Beatmap_editor/AiMod)는 이러한 오류들을 알려주며, 일부 잘못된 보고가 있을 수 있습니다. 잘못된 오류 보고는 주로 슬라이더의 끝이나 리버스 화살표에서 나타나며, 다른 도구를 이용해 수동으로 확인해야 합니다. 지원되지 않는 비트 스냅이 필요한 음악적 구간의 오브젝트 (예를 들자면, 1/11)들은 다음과 같이 할 수 있습니다:
@@ -254,7 +254,7 @@
 
 ### 가이드라인
 
-- **스킨 요소에서 투명화를 사용하고 있다면 `.png` 형식을 사용해야 합니다.** 만약 투명화를 사용하지 않는다면, 가장 적은 용량을 사용하고 osu!에서 스킨을 위해 지원되는 어떠한 형식이든 사용할 수 있습니다.
+- **스킨 요소가 투명도를 활용하고 있다면 `.png` 형식을 사용해야 합니다.** 만약 투명화를 사용하지 않는다면, 가장 적은 용량을 사용하고 osu!에서 스킨을 위해 지원되는 어떠한 형식이든 사용할 수 있습니다.
 
 ## 스토리보딩
 
