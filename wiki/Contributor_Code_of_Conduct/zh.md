@@ -84,7 +84,7 @@
 此行为标准常见问题请洽：[https://www.contributor-covenant.org/faq][FAQ]。
 另有诸译本：[https://www.contributor-covenant.org/translations][translations]。
 
-[homepage]:https://www.contributor-covenant.org
+[homepage]: https://www.contributor-covenant.org
 [v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq

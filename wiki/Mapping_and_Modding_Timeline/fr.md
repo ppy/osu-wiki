@@ -313,7 +313,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 - **22/05/2017 :** Le serveur Discord Beatmap Nominator a été créé pour les sous-divisions des BN.
   - Les sous-divisions ont été conçues comme des groupes de discussion composés de nominateurs sélectionnés au hasard dans les deux niveaux, dirigés par un membre de la QAT.
   - La plupart des responsables des QAT sont passés à ce serveur malgré la résistance des hauts responsables d'osu!
-- **23/05/2017 :** Le bot Discord [Aiess](/wiki/Community/Projects#miscellaneous) a été créé par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
+- **23/05/2017 :** Le bot Discord [Aiess](/wiki/Community/Projects#divers) a été créé par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
   - Il s'agit d'un flux d'événements liés aux mapping sur les serveurs Discord d'osu! en commençant par les flux de nomination et de disqualification.
 
 ### Juin
@@ -373,7 +373,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Juin
 
-- **21/06/2018 :** L'initiative [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#assurance-qualité) a été créée.
+- **21/06/2018 :** L'initiative [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) a été créée.
   - Cette mesure visait à garantir que tous les beatmaps qualifiés étaient examinés par au moins deux membres du BN ou de la QAT avant d'être classés.
   - Le programme a été géré via Trello et automatisé par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) via Aiess.
   - Ce changement a été l'une des principales raisons pour lesquelles le QAT a été renommé par la suite.
@@ -447,7 +447,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - Ils avaient été prévues à l'origine lors du bouleversement de la QAT deux ans auparavant.
 - **21/02/2020 :**  La direction de la NAT en tant que concept a été abandonnée lorsque ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) a quitté la direction du NAT.
   - Les tâches spécifiques aux leaders de la NAT ont été déléguées à l'ensemble de l'équipe.
-- **24/02/2020 :** Le système [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#assurance-qualité) a été transféré de Trello au [Beatmap Nominator website](https://bn.mappersguild.com/).
+- **24/02/2020 :** Le système [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) a été transféré de Trello au [Beatmap Nominator website](https://bn.mappersguild.com/).
   - Ce changement a été effectué pour tenir compte de l'activité d'assurance qualité dans les évaluations des Beatmap Nominators.
 
 ### Avril
@@ -521,7 +521,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - Les membres de la communauté de mapping n'étaient pas satisfaits de l'absence de débat public derrière ce changement et ont par la suite procédé à des adaptations pour combler de nouvelles lacunes.
 - **18/09/2021 :** Après une interruption de dix ans, les osu! community meetings ont repris sous la forme de discussions vocales sur le Discord osu!dev. Le premier sujet abordé a été [les préoccupations concernant les critères de classement d'osu!mania](https://osu.ppy.sh/community/forums/topics/1388182?n=1), ainsi que d'autres questions comme la complexité générale des critères de classement, l'engagement avec les nouveaux mappeurs, et plus encore.
   - Les changements de critères concernant le classement d'osu!mania ont été soumis à la discussion et, s'ils sont acceptés, ils pourraient entrer en vigueur bientôt.
-- **24/09/2021:** Les [Contrôles d'assurance qualité](/wiki/People/The_Team/Beatmap_Nominators/General_Information#assurance-qualité) ne sont plus comptabilisés dans l'activité des Beatmap Nominators.
+- **24/09/2021:** Les [Contrôles d'assurance qualité](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) ne sont plus comptabilisés dans l'activité des Beatmap Nominators.
   - Cette mesure a été mise en place parce qu'il semblait que certains utilisateurs l'utilisaient comme une échappatoire pour éviter de contribuer activement en tant que Beatmap Nominator.
   - Avant ce changement, chaque contrôle qualité était considéré comme égal à 1/4 d'une nomination.
 
