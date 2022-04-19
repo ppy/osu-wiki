@@ -2,6 +2,8 @@
 tags:
   - bancho
   - server bot
+  - commands
+  - announcements
   - comandos
   - anúncios
 ---
