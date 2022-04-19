@@ -20,10 +20,10 @@ Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](
 
 - **Note merah/Don:** Sebuah ketukan yang dapat dipukul dengan tombol yang telah di-*bind* untuk *Drum Centre* (tombol bawaan `X`, `C`).
 - **Note biru/Kat:** Sebuah ketukan yang dapat dipukul dengan tombol yang telah di-*bind* untuk *Drum Rim* (tombol bawaan `Z`, `V`).
-- **Note Don besar / Merah besar / Note finisher:** Ketukan kuat yang dapat dipukul dengan kedua tombol Drum Centre secara bersamaan untuk skor ekstra.
-- **Note Kat besar / Note biru besar / Note finisher:** Ketukan kuat yang dapat dipukul dengan kedua kunci Drum Rim secara bersamaan untuk skor ekstra.
+- **Note Don besar/Note merah besar/Note finisher:** Ketukan kuat yang dapat dipukul dengan kedua tombol *Drum Centre* secara bersamaan untuk skor ekstra.
+- **Note Kat besar/ Note biru besar/ Note finisher:** Ketukan kuat yang dapat dipukul dengan kedua kunci *Drum Rim* secara bersamaan untuk skor ekstra.
 - **BPM:** Singkatan dari "beats per minute" yang digunakan untuk menentukan tempo sebuah lagu.
-- **Slider/Drumroll:** Bilah kuning dengan tanda centang di dalamnya yang dimainkan dengan salah satu key yang ditetapkan. Tick ini biasanya dipotong menjadi 1/4 sesuai dengan BPM lagu. Jika BPM lebih rendah dari 125, snap akan berubah menjadi 1/8. Jika BPM lebih tinggi dari 250, itu akan berubah menjadi 1/2. Jika laju centang penggeser diatur ke 3, tick slider akan berubah menjadi 1/3.
+- **Slider/Drumroll:** Batang kuning dengan tick di dalamnya yang dimainkan dengan salah satu key yang ditetapkan. Tick ini biasanya di-*snap* menjadi 1/4 sesuai dengan BPM lagu. Jika BPM lebih rendah dari 125, *snap* akan berubah menjadi 1/8. Jika BPM lebih tinggi dari 250, *snap* akan berubah menjadi 1/2. Jika kecepatan slider tick diatur ke 3, slider tick akan di-*snap* menjadi 1/3.
 - **Spinner:** Elemen putaran yang mengharuskan pemain bergantian memukul Don/Kat untuk beberapa kali secara ditentukan, yang ditampilkan di tengah pemintal. Jumlah ini tergantung pada keseluruhan tingkat kesulitan map serta panjang spinner.
 - **Bar line:** Garis yang muncul di area permainan dan menentukan awal dari sebuah pengukuran.
 - **Overlap:** Sebuah note yang sebagian atau keseluruhan menutupi note lain di area permainan.
@@ -31,10 +31,10 @@ Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](
 - **Stream:** Lingkaran berurutan yang dikelompokkan bersama. Biasanya mempunyai snap ke 1/4 ketukan.
 - **Snapping:** Timeline tick di mana suatu objek ditempatkan.
 - **Variable snapping:** Kombinasi dari beberapa cara berbeda untuk menjadikan note dalam rentang waktu yang singkat karena sifat lagu yang berfluktuasi.
-- **Slider velocity:** Kecepatan di mana garis note/drumroll/spinner/bar bergerak secara horizontal dari kanan ke kiri melalui area permainan. Kecepatan slider dasar dapat dikontrol di timing panel dan perubahan tambahan dapat dilakukan melalui *inherited* (hijau) *timing point*.
+- **Slider velocity:** Kecepatan di mana garis note/drumroll/spinner/bar bergerak secara horisontal dari kanan ke kiri melalui area permainan. Kecepatan dasar slider dapat dikontrol di panel timing dan perubahan tambahan dapat dilakukan melalui *inherited* (hijau) *timing point*.
 - **Smooth slider velocity changes:** Mekanik yang memungkinkan transisi bertahap dari bagian *Slider Velocity* yang lebih rendah ke yang lebih tinggi / dari yang lebih tinggi ke yang lebih rendah. Transisi note dengan berbagai *Slider Velocity* dapat digunakan untuk mencapai efek ini.
-- **Improvisation:** Memiliki lebih banyak note daripada yang disediakan oleh lagu yang sebenarnya.
-- **Taiko template background:** Gambar latar belakang yang mensimulasikan gaya permainan Taiko no Tatsujin yang otentik. Biasanya menyertakan bilah hitam yang menunjukkan artis dan judul lagu berwarna putih di bawah area permainan.
+- **Improvisation:** Memiliki lebih banyak note daripada ritme yang ada pada lagu.
+- **Taiko template background:** Gambar latar belakang yang mensimulasikan gaya permainan Taiko no Tatsujin yang otentik. Biasanya menyertakan batang hitam yang menunjukkan artis dan judul lagu berwarna putih di bawah area permainan.
 
 ## Keseluruhan
 
@@ -47,10 +47,10 @@ Keberlakuan keseluruhan aturan dan pedoman untuk setiap tingkat kesulitan osu!ta
 Semua aturan adalah: **aturan**. Mereka **bukan** pedoman dan **tidak** boleh dilanggar dalam situasi **apa pun**.
 
 - **Setiap note wajib memiliki warna yang dapat dibedakan dengan jelas dari note sebelumnya dan note yang akan datang.**
-- **Setiap note wajib secara jelas ditetapkan ke lapisan musik atau unit lapisan yang didiwakili, baik itu untuk penyempurnaan lapisan yang disediakan lagu, atau lapisan tambahan yang diimprovisasi oleh pembuat map.** Jangan berimprovisasi dengan cara yang mengubah nada dan tempo yang bertentangan dengan gerakan musik secara umum atau salah mengartikan intensitas lagu. Improvisasi wajib meningkatkan lapisan lagu atau menambahkan yang baru. Jika tidak, hubungan dengan lagu akan dihentikan dan ini bertentangan dengan tujuan utama dari permainan.
+- **Setiap note wajib secara jelas ditetapkan ke lapisan musik atau unit lapisan yang diwakili, baik itu untuk penyempurnaan lapisan yang disediakan lagu, atau lapisan tambahan yang diimprovisasi oleh pembuat map.** Jangan berimprovisasi dengan cara yang mengubah nada dan tempo yang bertentangan dengan gerakan musik secara umum atau salah mengartikan intensitas lagu. Improvisasi wajib meningkatkan lapisan lagu atau menambahkan yang baru. Jika tidak, hubungan dengan lagu akan dihentikan dan ini bertentangan dengan tujuan utama dari permainan.
 - **Fitur `Omit first bar line` dari *uninherited timing point* harus digunakan ketika perubahan BPM/reset metronom akan menghambat pengalaman bermain secara estetis dengan menambahkan garis bilah yang tidak perlu.**
 - ***Taiko template backgrounds* tidak boleh digunakan.** Karena berbagai resolusi layar yang umum, mereka tidak berfungsi seperti aslinya.
-- ***Slider tails* tidak boleh salah dipotong untuk memperbaiki *slider tick* yang hilang.** Perilaku ini tidak disengaja dan akan diperbaiki di masa mendatang.
+- ***Slider tails* tidak boleh di-*snap* secara salah dengan tujuan untuk memperbaiki *slider tick* yang hilang.** Perilaku ini tidak disengaja dan akan diperbaiki di masa mendatang.
 
 #### Pedoman
 
