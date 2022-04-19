@@ -101,7 +101,7 @@ Vào lúc này, bạn có hai lựa chọn:
 
     ![](img/new-pull-request.png)
 
-11. Xem [Review (Đánh giá)](#review-đánh-giá) và [Merge (Hợp nhất)](#merge-hợp-nhất) bên dưới.
+11. Xem [Review (Đánh giá)](#review-(đánh-giá)) và [Merge (Hợp nhất)](#merge-(hợp-nhất)) bên dưới.
 
 ### Review (Đánh giá)
 

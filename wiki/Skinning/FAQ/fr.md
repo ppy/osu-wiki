@@ -273,7 +273,7 @@ Vous devez avoir un tag [osu!supporter](/wiki/osu!supporter) pour voir l'image d
 
 ### Que fait @2x ?
 
-*Page principale : [HD images](#images-HD)*
+*Page principale : [HD images](#images-hd)*
 
 ### Mes tambours taiko sont dans la mauvaise position !
 

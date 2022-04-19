@@ -165,7 +165,7 @@ Les éléments du Multi ne seront pas sauvegardés comme montré sur la comparai
 
 ### Spectateur
 
-Le mode spectateur requiert l'accès à la [Console de chat étendue](/wiki/Client/Interface/Chat_console#extended-chat-console), vous devez donc vous connecter à Bancho pour observer un joueur.
+Le mode spectateur requiert l'accès à la [Console de chat étendue](/wiki/Client/Interface/Chat_console#la-console-de-chat-étendue), vous devez donc vous connecter à Bancho pour observer un joueur.
 
 Après cela, appuyez sur `F9` pour accéder à la console de chat étendue et choisissez le jouer à observer.
 Vous devez avoir la **même** difficulté/beatmap que le joueur, ou un message d'avertissement apparaîtra en bas à droite pour vous dire que vous ne possédez pas la beatmap, vous ne pouvez donc pas obtenir le replay.

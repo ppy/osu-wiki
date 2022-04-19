@@ -82,6 +82,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai ta
 | ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Jerman | Moderasi komunitas mapping/modding |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rusia | Moderasi chat |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Jepang | Moderasi chat |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Rusia | Moderasi chat |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusia | Moderasi chat |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandia | Moderasi chat |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugis, Spanyol | Moderasi chat, manajemen turnamen |
@@ -90,7 +91,6 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai ta
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kanton, Mandarin | Manajemen turnamen |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Portugis | Moderasi komunitas mapping/modding |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Pengembangan osu! |
-| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Rusia | Moderasi chat |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Tagalog | Moderasi chat, moderasi forum, dukungan teknis |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Prancis | Moderasi chat |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Moderasi komunitas mapping/modding |
@@ -99,8 +99,8 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai ta
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Portugis, Spanyol | Moderasi chat |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman | Moderasi komunitas mapping/modding |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Jerman, Serbia | Moderasi chat, moderasi komunitas mapping/modding |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Anggota inti osu!team |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Tagalog | Moderasi chat |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Anggota inti osu!team |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Jerman | Manajemen turnamen |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Prancis, sedikit Spanyol | Moderasi chat |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugis | Moderasi chat |

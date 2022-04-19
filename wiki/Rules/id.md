@@ -12,7 +12,7 @@ Peraturan-peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komuni
 6. **Hindari perbuatan yang tidak senonoh.** osu! bukanlah tempat yang ditujukan untuk mencari jodoh atau menggoda pengguna lain. Segala tutur kata, gambar, dan tindakan yang dapat digolongkan sebagai suatu bentuk rayuan seksual TIDAK dibenarkan baik di depan umum maupun di dalam ranah pribadi. Apabila kamu merasa tidak nyaman dengan cara seseorang mendekatimu, [segera laporkan kepada kami secara rahasia](/wiki/Reporting_bad_behaviour/Abuse) agar kami dapat membantumu (dan mencegah orang lain untuk turut menjadi korban).
 7. **Apabila terdapat suatu masalah yang tidak diliput pada poin-poin sebelumnya, gunakan akal sehat *(common sense)* untuk menyelesaikannya.** Pada kasus-kasus yang lebih serius, tim administratif kami berhak untuk menindaklanjuti para pelanggar secara sepihak dengan hukuman yang dirasa setimpal.
 
-## Peraturan *in-game chat*
+## Peraturan in-game chat
 
 1. **Hormatilah pengguna lain dan jangan membanjiri layar *(flooding)* atau mengirimkan pesan yang sama berulang-ulang *(spamming)* dalam suatu kanal obrolan.** Obrolan yang memakan ruang hingga separuh layar tentunya akan membuat para pengguna lain merasa terganggu. Orang lain juga ingin mengobrol!
 2. **Biarkan masalah yang muncul di dalam obrolan ditangani oleh para moderator.** Kamu dapat membantu kami untuk menyelesaikan suatu masalah bukan dengan bermain hakim sendiri, namun dengan menggunakan [perintah `!report`](/wiki/Reporting_bad_behaviour) yang akan memanggil para moderator untuk turun tangan ke lokasi permasalahan.
@@ -62,6 +62,6 @@ Para pengguna yang telah melakukan pelanggaran berat akan dihukum dengan durasi 
 
 Apabila setelah beberapa kali melanggar kamu masih tetap melanggar aturan, akun kamu dapat langsung [di-*restrict* secara permanen tanpa adanya opsi pengajuan banding](/wiki/Help_centre/Account_restrictions).
 
-Akun yang di-*restrict* tidak akan dapat bermain secara *online*, menorehkan skor pada *leaderboard*, berinteraksi dengan para pengguna lain, dan dalam segala maksud dan tujuan akan "diasingkan" dari komunitas. Adapaun status Restriction ini hanya dapat dicabut dengan mengajukan banding kepada staf kami setelah 3 bulan ([yang dapat berlaku lebih pada situasi-situasi tertentu](/wiki/Help_centre/Account_restrictions#alasan-pembatasan-umum-dan-masa-tunggunya)).
+Akun yang di-*restrict* tidak akan dapat bermain secara *online*, menorehkan skor pada *leaderboard*, berinteraksi dengan para pengguna lain, dan dalam segala maksud dan tujuan akan "diasingkan" dari komunitas. Adapaun status Restriction ini hanya dapat dicabut dengan mengajukan banding kepada staf kami setelah 3 bulan ([yang dapat berlaku lebih pada situasi-situasi tertentu](/wiki/Help_centre/Account_restrictions#penyebab-penyebab-umum-restriction-dan-masa-cooldown-nya-masing-masing)).
 
 Pelanggaran-pelanggaran berat yang konsekuensinya sudah sangat fatal dan telah tergolong ke dalam praktek ilegal sesuai dengan hukum internasional yang berlaku akan berakibat pada penghapusan akun dengan segera. Hukuman ini pada umumnya hanya akan diterapkan bagi para pengguna yang telah melakukan suatu pelanggaran yang tidak dapat ditoleransi lagi, seperti penyebaran konten pornografi anak di bawah umur serta penyalahgunaan akun yang telah jauh melampaui batas wajar.
