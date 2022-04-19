@@ -46,7 +46,7 @@ Beatmap eklemenin iki yolu vardır, web sayfası üzerinden ya da osu!direct üz
 4. Beatmap seti dosyasını bulun ve açın, `.osz` uzantısına sahiptir.
    - Alternatif olarak, beatmap seti dosyasını osu! dosya konumundaki `Songs` dizinine yerleştirebilirsiniz.
 5. Geri kalanını osu! sizin için otomatik olarak halledecektir ve beatmap setini yükleyecektir.
-   - Eğer, herhangi bir nedenden dolayı, onları göremiyorsanız, beatmaplerinizi yenilemek için [Şarkı Seçimi](/wiki/Client/Interface#Şarkı-Seçme-Ekranı) kısmında `F5`'e basın.
+   - Eğer, herhangi bir nedenden dolayı, onları göremiyorsanız, beatmaplerinizi yenilemek için [Şarkı Seçimi](/wiki/Client/Interface#şarkı-seçme-ekranı) kısmında `F5`'e basın.
 
 ### osu!direct
 
@@ -57,7 +57,7 @@ Beatmap eklemenin iki yolu vardır, web sayfası üzerinden ya da osu!direct üz
 3. Listedeki şarkıyı indirmek için çift tıklayın ya da sağdaki `Download` butonuna tıklayın.
    - Eğer beatmap seti ile birlikte gelen videoyu indirmek istemiyorsanız, `DL NoVideo` butonuna tıklayın.
 4. osu! beatmap setlerinizi indirmeyi tamamladığında otomatik olarak yükleyecektir.
-   - Eğer, herhangi bir nedenden dolayı, onları göremiyorsanız, beatmaplerinizi yenilemek için [Şarkı Seçimi](/wiki/Client/Interface#Şarkı-Seçme-Ekranı) kısmında `F5`'e basın.
+   - Eğer, herhangi bir nedenden dolayı, onları göremiyorsanız, beatmaplerinizi yenilemek için [Şarkı Seçimi](/wiki/Client/Interface#şarkı-seçme-ekranı) kısmında `F5`'e basın.
 
 ## Tema ekleme
 

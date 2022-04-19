@@ -12,11 +12,11 @@ outdated_since: 25fa617b062ef73cd5eda1246697cc0dfdc1862b
 
 *Untuk nilai OD yang direkomendasikan, lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Overall difficulty** (***OD***) menjelaskan seberapa sulit untuk mendapatkan [akurasi](/wiki/Gameplay/Accuracy) yang tinggi di dalam sebuah [beatmap](/wiki/Beatmap). Nilainya berkisar dari 0 sampai 10, di mana semakin tinggi nilai OD, semakin diperlukan akurasi dan presisi yang bagus. Karena akurasi itu yang paling penting untuk meningkatkan health, overall difficulty juga memengaruhi seberapa sulit untuk menyelesaikan sebuah beatmap.
+**Overall difficulty** (***OD***) menjelaskan seberapa sulit untuk mendapatkan [akurasi](/wiki/Gameplay/Accuracy) yang tinggi di dalam sebuah [beatmap](/wiki/Beatmap). Nilainya berkisar dari 0 sampai 10, di mana semakin tinggi nilai OD, semakin diperlukan akurasi dan presisi yang bagus. Karena akurasi itu yang paling penting untuk meningkatkan [health](/wiki/Gameplay/Health), overall difficulty juga memengaruhi seberapa sulit untuk menyelesaikan sebuah beatmap.
 
 ## Timing
 
-Semakin tinggi nilai OD, semakin pendek jeda waktu untuk menekan [hit object](/wiki/Hit_object), baik secara umum maupun dalam mendapatkan skor yang tinggi. Besar dari hit window, berpusat pada ketepatan waktu hit object, dijelaskan dengan tabel berikut:
+Semakin tinggi nilai OD, semakin pendek jeda waktu untuk menekan [hit object](/wiki/Hit_object), baik secara umum maupun dalam mendapatkan [skor](/wiki/Gameplay/Score) yang tinggi. Besar dari hit window, berpusat pada ketepatan waktu hit object, dijelaskan dengan tabel berikut:
 
 | Skor | Hit window |
 | --: | :-- |
@@ -30,7 +30,7 @@ Jika pemain menekan hit object diluar dari 50 hit window, itu akan dihitung seba
 
 Di [osu!](/wiki/Game_mode/osu!), slider akan memberikan 300 selama mereka ditekan dalam 50 hit window. Ini terkadang disebut sebagai *slideracc* dan dihapus di dalam [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
-Overall difficulty juga berefek pada spinner, di mana mereka harus memutar lebih untuk mengisi pengukur pada waktunya. Di [osu!taiko](/wiki/Game_mode/osu!taiko), denden juga membutuhkan hit yang lebih banyak untuk diselesaikan. Spin per detik sangat dibutuhkan untuk menyelesaikan spinner, yang dimana akan dijelaskan dengan rumus berikut:
+Overall difficulty juga berefek pada [spinner](/wiki/Hit_object/Spinner), di mana mereka harus memutar lebih untuk mengisi pengukur pada waktunya. Di [osu!taiko](/wiki/Game_mode/osu!taiko), denden juga membutuhkan hit yang lebih banyak untuk diselesaikan. Spin per detik sangat dibutuhkan untuk menyelesaikan spinner, yang dimana akan dijelaskan dengan rumus berikut:
 
 - OD < 5: `5 - 2 * (5 - OD) / 5`
 - OD = 5: `5`
@@ -38,7 +38,7 @@ Overall difficulty juga berefek pada spinner, di mana mereka harus memutar lebih
 
 ## Efek mod
 
-Ada empat mod yang dapat mengubah overall difficulty ketika diaktifkan:
+Ada empat [mod](/wiki/Game_modifier) yang dapat mengubah overall difficulty ketika diaktifkan:
 
 - [Easy](/wiki/Game_modifier/Easy): Setengah dari nilai OD.
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock): Mengalikan nilai OD beatmap dengan 1.4, hingga nilai maksimal 10.

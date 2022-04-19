@@ -19,7 +19,7 @@ osu! има няколко Twitter акаунта, всеки обслужващ
 | :-: | :-: | :-- |
 | ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | Официален източник за новини и изявления. |
 | ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Комедийно разпускане когато нещата се объркат. |
-| ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Новини, уведомления и кратки обществени анкети от [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (не се управлява от [osu! екип](/wiki/People/The_Team#the-team)). |
+| ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Новини, уведомления и кратки обществени анкети от [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (не се управлява от [osu! екип](/wiki/People/The_Team)). |
 
 ## Личен
 

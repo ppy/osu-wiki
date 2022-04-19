@@ -21,7 +21,7 @@ The osu! wiki articles are stored on [GitHub][osu_wiki]. To contribute, do the f
 
   - If you've made a fork some time ago, sync it according to [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 
-2. Read [Best practices § Making changes](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-changes) and perform necessary edits. While you are free to use any application of your choice, the osu! wiki has detailed instructions on two workflows:
+2. Read [Best practices § Making changes](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits) and perform necessary edits. While you are free to use any application of your choice, the osu! wiki has detailed instructions on two workflows:
 
   - [GitHub web-based editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (online, no installation required).
   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (offline, offers more control).
