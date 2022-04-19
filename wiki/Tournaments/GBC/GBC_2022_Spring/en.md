@@ -168,7 +168,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 ### Regular stage
 
-| #¹ | Team | Matches | Beatmaps | BD² | BU³ | Round1 | Round2 | Round3 |
+| #¹ | Team | Matches | Beatmaps | BD² | BU³ | Round 1 | Round 2 | Round 3 |
 | :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | **金戈铁马的鲜丰水果摊** | 2-0 | 12-3 | +9 | 0 | 6-1 倒霉蛋 | 6-2 hya酱 | 货拉拉 |
 | 2 | **大怨种被迫当队长** | 2-0 | 12-7 | +5 | 0 | 6-3 MK | 6-4 最强阵 | 理塘 |
