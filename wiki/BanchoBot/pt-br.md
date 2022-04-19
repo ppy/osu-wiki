@@ -156,7 +156,3 @@ Tem um total de 7 tipos de status que podem ser mostrados pelo comando: `!stats`
 
 - A página de usuário do BanchoBot tem "Aqui desde o começo" embaixo da data de entrada no jogo
   - O dia oficial do entrada do BanchoBot é 27 de agosto de 2007, 22:09:14 UTC-5
-
-
-
-
