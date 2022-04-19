@@ -2,8 +2,8 @@
 tags:
   - bancho
   - server bot
-  - commands
-  - announcements
+  - comandos
+  - anúncios
 ---
 
 # BanchoBot
@@ -44,12 +44,12 @@ A lista de todos os comandos do BanchoBot podem ser encontrdas abaixo:
 ```
 13:00 pippi: !help
 13:00 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
-13:00 BanchoBot: WHERE <usário>
-13:00 BanchoBot: STATS <usuário>
+13:00 BanchoBot: WHERE <user>
+13:00 BanchoBot: STATS <user>
 13:00 BanchoBot: FAQ <item>|list
-13:00 BanchoBot: REPORT <motivo> - chame um administrador
-13:00 BanchoBot: REQUEST [lista] - aparece uma solicitação aleatória recente de mod
-13:00 BanchoBot: ROLL <número> - rola um dado e obtenha um resultado aleatório de 1 para o número (padrão 100)
+13:00 BanchoBot: REPORT <reason> - call for an admin
+13:00 BanchoBot: REQUEST [list] - shows a random recent mod request
+13:00 BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
 
 <!--note for editors: the code block above reflects the exact response from banchobot -->
@@ -59,7 +59,7 @@ A lista de todos os comandos do BanchoBot podem ser encontrdas abaixo:
 ### Roll
 
 ```
-!roll <argument>/<number>
+!roll <argumento>/<número>
 ```
 
 `!roll` escolhe um número aleatório de 1 até o número selecionado. se o número não é especificado ou um argumento não é dado, o número máximo será 100. Um exemplo de quando esse comando é usado aparece abaixo:
@@ -77,7 +77,7 @@ A lista de todos os comandos do BanchoBot podem ser encontrdas abaixo:
 ### Stats
 
 ```
-!stats <username>
+!stats <usuário>
 ```
 
 `!stats` mostra as estatísticas do usuário e seus status atuais. O resultado depende do [modo de jogo](/wiki/Game_mode) que está selecionado e que o usuário jogou por último, e o BanchoBot não irá mostrar qual modo de jogos os status vem. Se perguntado para mostrar os status de outro usuário que nunca jogou o osu!, BanchoBot vai responder com `User not found`, mesmo se o usuário existir. Um exemplo de quando esse comando é selecionado aparece abaixo:
@@ -116,7 +116,7 @@ Tem um total de 7 tipos de status que podem ser mostrados pelo comando: `!stats`
 ### FAQ
 
 ```
-!faq <entry>
+!faq <entrada>
 ```
 
 ```
