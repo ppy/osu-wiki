@@ -309,7 +309,7 @@ Sunday, April 17, 2022
    - Most matches won
    - Head-to-head result (if possible)
    - Highest Buchholz score
-   - Highest beatmap difference
+   - Highest beatmap difference (`beatmap wins - beatmap losses`)
    - Most beatmaps won
    - Fewest beatmaps lost
    - Dice roll
