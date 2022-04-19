@@ -89,23 +89,28 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 ## Match schedule: Regular stage week 3 
 
+### Friday, April 22, 2022
+
+| Team A | Team B | Match time |  |
+| --: | :-- | :-: | :-: |
+| 大怨种被迫当队长 | 太美丽了理塘 | Apr 22 (Fri) 20:00 (UTC+8) | ¹ |
+
 ### Saturday, April 23, 2022
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-: | :-: |
-| 金戈铁马的鲜丰水果摊 | 货拉拉拉不拉拉布拉多 | Apr 23 (Sat) 17:00 (UTC+8) | ¹ |
-| 大怨种被迫当队长 | 太美丽了理塘 | Apr 23 (Sat) 19:00 (UTC+8) | ¹ |
-| 涩涩不队 | bikabika | Apr 23 (Sat) 20:00 (UTC+8) | ² |
+| Yzhhのqlll森林汪酱不会大叠 | 啊对对队 | Apr 23 (Sat) 18:00 (UTC+8) | ³ |
+| 涩涩不队 | bikabika | Apr 23 (Sat) 19:00 (UTC+8) | ² |
+| 可爱的hyahya酱上线啦！！ | MyAngel Koishi | Apr 23 (Sat) 20:00 (UTC+8) | ² |
 | 青叶摩卡的百合后花园 | 皮蛋蛋吸手手俱乐部 | Apr 23 (Sat) 21:00 (UTC+8) | ² |
 
 ### Sunday, April 24, 2022
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-: | :-: |
-| GBC最强阵容9个Miyes | 头号倒霉蛋 | Apr 24 (Sun) 14:30 (UTC+8) | ² |
-| 可爱的hyahya酱上线啦！！ | MyAngel Koishi | Apr 24 (Sun) 16:00 (UTC+8) | ² |
-| 啊不对不队 | 你没对象对不队 | Apr 24 (Sun) 19:00 (UTC+8) | ³ |
-| Yzhhのqlll森林汪酱不会大叠 | 啊对对队 | Apr 24 (Sun) 19:00 (UTC+8) | ³ |
+| 啊不对不队 | 你没对象对不队 | Apr 24 (Sun) 18:00 (UTC+8) | ³ |
+| GBC最强阵容9个Miyes | 头号倒霉蛋 | Apr 24 (Sun) 19:00 (UTC+8) | ² |
+| 金戈铁马的鲜丰水果摊 | 货拉拉拉不拉拉布拉多 | Apr 24 (Sun) 20:00 (UTC+8) | ¹ |
 
 ¹ Round 3 High Matches (Teams with 2-0 record)\
 ² Round 3 Mid Matches (Teams with 1-1 record)\
