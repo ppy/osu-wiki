@@ -118,9 +118,9 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 ## Mappools
 
-### Regular stage Week 3
+### Regular stage week 3
 
-**[Download the mappack here (116.38 MB)](https://drive.google.com/file/d/1bB4ybEiRhBWacF1tZnQGbfBu4CiRhpGl/)**
+**[Download the mappack here (116.38 MB)](https://drive.google.com/file/d/1bB4ybEiRhBWacF1tZnQGbfBu4CiRhpGl/view)**
 
 - Rice
   1. [stereoberry - ametsuchi (Monheim) \[petrichor 1.2\]](https://osu.ppy.sh/beatmapsets/671311#mania/2553924)
@@ -141,9 +141,9 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 - Tiebreaker
   1. **[Camellia - We Magicians Still Alive in 2021 (HowToPlayLN) \[Everlasting\]](https://osu.ppy.sh/beatmapsets/1517582#mania/3106711)**
 
-### Regular stage Week 1 & Week 2
+### Regular stage week 1 & week 2
 
-**[Download the mappack here (160.84 MB)](https://drive.google.com/file/d/1RYMCSNJOp6_evL9W_JVnqTYzylYZ5mbF/)**
+**[Download the mappack here (160.84 MB)](https://drive.google.com/file/d/1RYMCSNJOp6_evL9W_JVnqTYzylYZ5mbF/view)**
 
 - Rice
   1. [Hatsuki Yura - Dark Prince (Lcat2538) \[Challenge\]](https://osu.ppy.sh/beatmapsets/770595#mania/1620129)
@@ -309,7 +309,7 @@ Sunday, April 17, 2022
    - Most matches won
    - Head-to-head result (if possible)
    - Highest Buchholz score
-   - Highest Beatmap difference
+   - Highest beatmap difference
    - Most beatmaps won
    - Fewest beatmaps lost
    - Dice roll
@@ -356,7 +356,7 @@ Sunday, April 17, 2022
 ### Mappool instructions
 
 1. There will be one mappool for each stage.
-   - The Regular stage Round 1 & Round 2 will be seen as a single stage, meaning the same mappool will be used in all matches in the Round 1 and Round 2.
+   - Regular stage Round 1 and Round 2 are seen as a single stage, meaning they use the same mappool.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. All mappools contain 13 beatmaps.
 4. Each mappool has one tiebreaker.
