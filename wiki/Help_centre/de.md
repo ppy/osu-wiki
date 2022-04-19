@@ -25,6 +25,7 @@ Wähle den Abschnitt, der deinem Problem am meisten ähnelt, damit du eine passe
 | [Client](/wiki/Help_centre/Client) | Fehler und Abstürze, Spielverlauf, Verbindung, Leistung |
 | [Installation und Registrierung](/wiki/Help_centre/Installation_and_registration) | Das Spiel herunterladen, einen Account erstellen |
 | [Store](/wiki/Help_centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
+| [Turniersperren](/wiki/Help_centre/Tournament_bans) | Alles über Turniersperren: Übersicht, häufige Gründe und Auszeiten |
 | [Webseite](/wiki/Help_centre/Website) | Benutzer blockieren, den Support kontaktieren, Erscheinungsbild der Website |
 
 ## Helfe uns, dir zu helfen
