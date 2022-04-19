@@ -6,7 +6,7 @@
 
 | Mod | İsim (Kısaltma) | Çarpan | İpucu metni |
 | :-- | :-- | :-- | :-- |
-| ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.50x | • ![][osu!]: `Genel zorluğu düşürür - daha geniş circlelar, HP azalması daha töleranslı ve daha az dikkat gerektirir` • ![][osu!taiko]: `Genel zorluğu düşürür - notalar daha yavaş hareket eder ve daha az dikkat gerektirir.` • ![][osu!catch]: `Genel zorluğu düşürür - daha geniş circlelar, HP azalması daha töleranslı ve daha az dikkat gerektirir.` • ![][osu!mania]: `Genel zorluğu düşürür - HP azalması daha töleranslı ve daha az dikkat gerektirir.` | 
+| ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.50x | • ![][osu!]: `Genel zorluğu düşürür - daha geniş circlelar, HP azalması daha töleranslı ve daha az dikkat gerektirir` • ![][osu!taiko]: `Genel zorluğu düşürür - notalar daha yavaş hareket eder ve daha az dikkat gerektirir.` • ![][osu!catch]: `Genel zorluğu düşürür - daha geniş circlelar, HP azalması daha töleranslı ve daha az dikkat gerektirir.` • ![][osu!mania]: `Genel zorluğu düşürür - HP azalması daha töleranslı ve daha az dikkat gerektirir.` |
 | ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.50x  | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Başarısız olamazsınız. Ne olursa olsun.` |
 | ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | • ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.30x • ![][osu!mania]: 0.50x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Çoook Yavaaaaaaş` |
 | ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | • ![][osu!]: 1.12x ![][osu!taiko]: 1.06x • ![][osu!catch]: 1.12x • ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Her şey biraz daha zorlaştı...` |
@@ -40,7 +40,7 @@
 | 6K | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x |
 | 7K | 0.66x | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x |
 
-### *x*K modları ile Co-op skor çarpanları
+### xK modları ile Co-op skor çarpanları
 
 *Dikkat: Bu tablo sadece osu!'tan osu!mania'ya çevirilmiş beatmapleri etkiler, osu!mania için özel olan beatmapleri değil! Ayrıca, Co-op modu osu!mania'ya özel olan beatmaplerin puanını da düşürmez.*
 
