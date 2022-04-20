@@ -111,24 +111,6 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
    - The top 32 seeded teams will qualify to the Round of 32.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
 
-### Tournament registration
-
-1. Every user interested in joining their country's team signs up individually.
-   - Tournament Management will create a list of potential candidates for a country's team.
-   - Tournament Management will declare one candidate captain of their country's team.
-2. The declared captain will then form their team from the candidate list of their country.
-   - Captains are expected to choose team members with honesty and good will, with the aim of fielding the strongest team possible.
-   - Captains are allowed to exclude themselves from the team list.
-   - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
-   - Captains may choose, with the approval of the Tournament Management, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
-   - Every registered user will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!catch global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-4. All successfully formed teams will be published after the Registration Phase.
-   - A team should have at least 4 players registered to have the chance to play the Qualifier stage. This limitation may be change depending on the amount of signups.
-   - The top 32 seeded teams will qualify to the Round of 32.
-5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators.
-
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
@@ -187,8 +169,6 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 7. The Hidden, HardRock and DoubleTime bracket will be played with the respective mods activated, as well as the [No Fail](/wiki/Game_modifier/No_Fail) mod.
    - When playing a map from the [Hard Rock](/wiki/Game_modifier/Hard_Rock) or [Double Time](/wiki/Game_modifier/Double_Time) pool, [Hidden](/wiki/Game_modifier/Hidden) can be used optionally by any player.
 8. The tiebreaker can be played with no mods selected or with the [Hidden](/wiki/Game_modifier/Hidden) mod.
-9. The size of the [NoMod](/wiki/Game_modifier#nomod), bracket will be 4 in Group Stage, 5 in Round of 16 and Quarterfinals and 6 for Semifinals, Finals and Grand Finals.
-10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be 3 in all stages.
 
 ### Scheduling instructions
 
