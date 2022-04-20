@@ -25,7 +25,7 @@ If you need some convincing, watch [Monko2k](https://osu.ppy.sh/users/4852013) p
 Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1724172) hosted by [PaRaDogi](https://osu.ppy.sh/users/2054596)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/259/Songs/Aethral%20-%20It%27s%20Boss%20Time%2C%20dude.mp3" type="audio/mpeg">
 </audio>
 
 ### Aethral - Victorious Journey
@@ -33,19 +33,20 @@ Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1724172) h
 Explore [this loved osu!mania map](https://osu.ppy.sh/beatmapsets/1157663) hosted by [Nimis](https://osu.ppy.sh/users/7439226)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/259/Songs/Aethral%20-%20Victorious%20Journey.mp3" type="audio/mpeg">
 </audio>
 
 ### Aethral & Renko - Together
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/259/Songs/Aethral%20%26%20Renko%20-%20Together.mp3
+" type="audio/mpeg">
 </audio>
 
 ### Aethral & Miss Lina - Luminescence
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/259/Songs/Aethral%20%26%20Miss%20Lina%20-%20Luminescence.mp3" type="audio/mpeg">
 </audio>
 
 ---
