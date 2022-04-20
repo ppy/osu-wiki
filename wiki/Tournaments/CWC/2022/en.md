@@ -120,10 +120,10 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
    - Teams may skip individual maps or the second run altogether if they so desire.
 5. The mappool **must** be played in the following order: NM1, NM2, NM3, HD1, HD2, HR1, HR2, DT1, DT2.
 6. Each team must have 3 players for each map. They can be exchanged freely after each map is concluded.
-8. A team's final score for a map is considered as the highest combined team score for that map (i.e. the sum of each individual player's score). Only the highest score out of the two runs will be used for seeding.
-9. An optional 3-minute break will be offered between the first and second play-through of the mappool.
-10. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
-11. Only the top 32 seeded teams will advance to the Round of 32.
+7. A team's final score for a map is considered as the highest combined team score for that map (i.e. the sum of each individual player's score). Only the highest score out of the two runs will be used for seeding.
+8. An optional 3-minute break will be offered between the first and second play-through of the mappool.
+9. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
+10. Only the top 32 seeded teams will advance to the Round of 32.
 
 ### Stage instructions
 
@@ -163,7 +163,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
 2. Each mappool consists of 4 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/No_Fail), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time).
 3. The Qualifiers Stage mappool will consist of 9 maps, Round of 32 will consist of 14 maps, Round of 16 and Quarterfinals will consist of 17 maps, Semifinals, Finals and Grand Finals will consist of 18 maps.
-4. 4. Every mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
+4. Every mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 5. **The [No Fail](/wiki/Game_modifier/No_Fail) mod will be enabled on all maps.**
 6. The NoMod bracket will be played with the [No Fail](/wiki/Game_modifier/No_Fail) mod.
 7. The Hidden, HardRock and DoubleTime bracket will be played with the respective mods activated, as well as the [No Fail](/wiki/Game_modifier/No_Fail) mod.
