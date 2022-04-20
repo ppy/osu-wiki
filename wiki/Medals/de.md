@@ -44,7 +44,7 @@ Obwohl die monatlichen Beatmap-Spotlights seit April 2018 zugunsten der [saisona
 
 ## Seasonal Spotlights
 
-**Seasonal Spotlights medals** sind Medaillen, die beim Abschließen von bestimmten Beatmap-Paketen aus den [saisonalen Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018) vergeben werden. Um die Medaillen in dieser Kategorie freischalten zu können, muss ein Spieler alle Beatmaps *in irgendeiner der vier Spielmodi-Pakete* durchspielen, die auf der entsprechenden Rangliste der saisonalen Spotlights angefochten werden. Die Verwendung von entweder [Mods zur Verringerung der Schwierigkeit](/wiki/Game_modifier#difficulty-reduction) oder [Mods zur Erhöhung der Schwierigkeit](/wiki/Game_modifier#difficulty-increase) ist erlaubt.
+**Seasonal Spotlights Medaillen** sind Medaillen, die beim Abschließen von bestimmten Beatmap-Paketen aus den [saisonalen Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018) vergeben werden. Um die Medaillen in dieser Kategorie freischalten zu können, muss ein Spieler alle Beatmaps *in irgendeiner der vier Spielmodi-Pakete* durchspielen, die auf der entsprechenden Rangliste der saisonalen Spotlights angefochten werden. Die Verwendung von entweder [Mods zur Verringerung der Schwierigkeit](/wiki/Game_modifier#difficulty-reduction) oder [Mods zur Erhöhung der Schwierigkeit](/wiki/Game_modifier#difficulty-increase) ist erlaubt.
 
 Obwohl die saisonalen Spotlights seit Frühjahr 2020 zugunsten des [aktuellen Beatmap-Spotlights-Systems](/wiki/Beatmap_Spotlights) eingestellt wurden, können alle dazugehörigen Medaillen auch heute noch erworben werden.
 
