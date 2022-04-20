@@ -16,7 +16,7 @@ The **osu!catch World Cup 2022** (***CWC 2022***) is a country-based osu!catch t
 | --: | :-- |
 | Registration phase | 2022-04-21/2022-05-05 |
 | Qualifier showcase | 2022-05-14 (14:00 UTC) |
-| Qualifier stage | 2022-05-21/2022-05-22 |
+| Qualifiers | 2022-05-21/2022-05-22 |
 | Round of 32 | 2022-05-28/2022-05-29 |
 | Round of 16 | 2022-06-04/2022-06-05 |
 | Quarterfinals | 2022-06-11/2022-06-12 |
@@ -26,7 +26,7 @@ The **osu!catch World Cup 2022** (***CWC 2022***) is a country-based osu!catch t
 
 ## Prizes
 
-The osu!catch Cup 2022 offers a $2,000 cash prize pool.
+The osu!catch World Cup 2022 offers a $2,000 cash prize pool.
 
 | Placing | Prizes |
 | :-: | :-- |
