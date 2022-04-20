@@ -28,7 +28,7 @@ The **osu!catch World Cup 2022** (***CWC 2022***) is a country-based osu!catch t
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, *osu!catch Champion* user title for one year |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, **osu!catch Champion** user title for one year |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
