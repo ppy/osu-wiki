@@ -30,7 +30,7 @@ For more details on these changes, please refer to the **[osu!catch World Cup 20
 
 The osu!catch World Cup 2022 offers a $2,000 cash prize pool and limited edition merch!
 
-- **1st:** 48% of the prize pool, single-run merch, profile badge, **osu!taiko Champion** user title for one year
+- **1st:** 48% of the prize pool, single-run merch, profile badge, **osu!catch Champion** user title for one year
 - **2nd:** 32% of the prize pool, single-run merch, profile badge
 - **3rd:** 20% of the prize pool, single-run merch, profile badge
 
