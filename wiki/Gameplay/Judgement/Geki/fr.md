@@ -44,6 +44,6 @@ Geki déclenche le meilleur niveau du storyboard pendant le jeu, ce qui montre g
 
 L'obtention de Geki déclenche plusieurs événements :
 
-- [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#layers) est désactivé.
-- [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#layers) est activé.
+- [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#couches) est désactivé.
+- [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#couches) est activé.
 - L'événement "Passing" est déclenché, si l'état précédent était "Fail".

@@ -12,12 +12,12 @@ Les questions du test sont tirées d'un grand nombre de questions triées par ca
 
 - [Les règles des Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/Rules) : 5 questions
 - [Le code de conduite pour le mapping et le modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) : 1 question
-- [Les critères de classement généraux](/wiki/Ranking_Criteria#general) (*RC*) : 1 question
+- [Les critères de classement généraux](/wiki/Ranking_Criteria#général) (*RC*) : 1 question
 - [Le spread dans les RC](/wiki/Ranking_Criteria#beatmap) : 1 question
 - [Les métadonnées dans les RC](/wiki/Ranking_Criteria#metadata) : 1 question
 - [Le timing dans les RC](/wiki/Ranking_Criteria#timing): 1 question
 - [L'audio dans les RC](/wiki/Ranking_Criteria#audio) : 1 question
-- [Les vidéos et arrière-plan dans les RC](/wiki/Ranking_Criteria#video-and-background) : 1 question
+- [Les vidéos et arrière-plan dans les RC](/wiki/Ranking_Criteria#vidéo-et-arrière-plan) : 1 question
 - [Le skinning dans les RC](/wiki/Ranking_Criteria#skinning) : 1 question
 - [Le storyboarding dans les RC](/wiki/Ranking_Criteria#storyboarding)
 - Le RC spécifique à un mode : 4 questions spécifiques au mode de jeu pour lequel l'utilisateur est candidat (osu!, osu!taiko, osu!catch, osu!mania)

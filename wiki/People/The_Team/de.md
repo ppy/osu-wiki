@@ -34,7 +34,7 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Allgemeiner Hausmeister |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu!-Entwickler, osu!mania-Liebhaber, Fehlerbeseitiger |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved Manager, Community-Berater, Featured Artist Kontaktaufnahme |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Allgemeiner Hausmeister, Wettbewerbs-Assistent |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Allgemeiner Hausmeister, Turnierassistent |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Gefährdete Art |
 
 Darüber hinaus ist das [Account-Support-Team](Account_support_team) da, um bei den Dingen zu helfen, die außerhalb der Reichweite liegen.
@@ -62,7 +62,7 @@ Die folgenden Benutzergruppen bestehen aus Mitgliedern der osu!-Community, die h
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Organisator und Administrator des World Cups |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Allgemeiner Hausmeister, Community-Manager |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu!-Entwickler, Entwickler von IRC-Integration für In-Game-Chat, Wartung der Website. [Blog](http://blog.echo.sh/) |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour Gastgeber, World Cup Streamer, Wettbewerbsorganisator |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour Gastgeber, World Cup Streamer, Turnierorganisator |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! Entwickler, Entwickler von osz2 und p2p Backend |
 | ![][flag_US] Jim | Ursprünglicher Website-Designer, Hosting-Provider in den Anfangstagen. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Organisator und Administrator des World Cups |

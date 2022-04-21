@@ -19,6 +19,8 @@ tags:
   - Gerät
   - Benutzername
   - Löschung
+outdated: true
+outdated_since: 56ef96e783e017921593b286c0d744de40c16168
 ---
 
 <!--TODO: change link as soon as German article is available (line 223)-->
@@ -53,15 +55,15 @@ In Situationen, in denen wir uns sicher sind, dass Schummelei oder Fehlverhalten
 
 Siehe *[Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions)* für mehr Informationen über Accounteinschränkungen und das Beschwerdeverfahren.
 
-## Wettbewerbssperre
+## Turniersperre
 
-### Was ist eine Wettbewerbssperre?
+### Was ist eine Turniersperre?
 
-Wettbewerbssperren sind, wie der Name beschreibt, ein Verbot der Teilnahme an allen offiziell unterstützten Wettbewerben.
+Turniersperren sind, wie der Name beschreibt, ein Verbot der Teilnahme an allen offiziell unterstützten Turnieren.
 
-Ein Benutzer kann eine Wettbewerbssperre für einen Bruch der osu!-Communityregeln während eines Turnierspiels bekommen, abhängig von dem Schweregrad des Verstoßes. Beispiele für solches Fehlverhalten sind unter anderem das Erlangen eines unfairen Vorteils in offiziell unterstützten Wettbewerben, jemanden beleidigen, der an einem Turnier teilnimmt, oder die absichtliche Störung des Turnierablaufs.
+Ein Benutzer kann eine Turniersperre für einen Bruch der osu!-Communityregeln während eines Turnierspiels bekommen, abhängig von dem Schweregrad des Verstoßes. Beispiele für solches Fehlverhalten sind unter anderem das Erlangen eines unfairen Vorteils in offiziell unterstützten Turnieren, jemanden beleidigen, der an einem Turnier teilnimmt, oder die absichtliche Störung des Turnierablaufs.
 
-Die meisten Wettbewerbssperren haben eine festgelegte Dauer, variierend von 3 Monaten bis zu einem Jahr und mehr. Einige Sperren können dauerhaft sein. Unabhängig von der Dauer der Sperre sind alle Turniersperren **final** und können nicht angefochtet werden, wie es bei Einschränkungen der Fall ist.
+Die meisten Turniersperren haben eine festgelegte Dauer, variierend von 3 Monaten bis zu einem Jahr und mehr. Einige Sperren können dauerhaft sein. Unabhängig von der Dauer der Sperre sind alle Turniersperren **final** und können nicht angefochtet werden, wie es bei Einschränkungen der Fall ist.
 
 ## Anmeldung
 
@@ -150,7 +152,7 @@ Wenn du zu irgendeinem Zeitpunkt ein [Supporter-Tag](https://osu.ppy.sh/home/sup
 
 Zu jedem späteren Zeitpunkt kannst du dir eine [Namensänderung](https://osu.ppy.sh/store/products/32) kaufen, um deinen Benutzernamen deinem Wunsch nach zu ändern. Jedoch wird jede Änderung schrittweise teurer - die zweite kostet $8 USD, die dritte $16 USD, und so weiter, bis zu einer Höhe von $100 USD. Wir machen das, um Leute daran zu hindern, das System zu missbrauchen und ihren Namen in kurzen Abständen zu ändern.
 
-Bitte beachte, dass Nutzernamen sich an unsere [Communityregeln](/wiki/Rules#communityregeln) in der Weise halten müssen, dass sich andere Nutzer nicht angegriffen fühlen dürfen, sowie, dass kein übermäßig provokantes oder hetzerisches Verhalten vorkommt. Des Weiteren sind Nutzernamen, die den Namen von Personen des öffentlichen Lebens ähneln (zum Beispiel Prominente, Politiker, etc.), nicht erlaubt und werden zwingend geändert, sobald wir davon Kenntnis nehmen.
+Bitte beachte, dass Nutzernamen sich an unsere [Communityregeln](/wiki/Rules#community-regeln) in der Weise halten müssen, dass sich andere Nutzer nicht angegriffen fühlen dürfen, sowie, dass kein übermäßig provokantes oder hetzerisches Verhalten vorkommt. Des Weiteren sind Nutzernamen, die den Namen von Personen des öffentlichen Lebens ähneln (zum Beispiel Prominente, Politiker, etc.), nicht erlaubt und werden zwingend geändert, sobald wir davon Kenntnis nehmen.
 
 Enthält dein Nutzername nur geringfügige Grammatik-/Rechtschreibfehler, dann kannst du eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) senden und nach einer kostenlosen Namensänderung fragen, um diese Probleme zu lösen. Wir werden kein Geld für diese Namensänderung verlangen, aber du **MUSST** diese via der Support-E-Mail durchführen. Bedenke, dass wir das nur einige begrenzte Male machen, also sei dir sicher, dass du die Änderung wirklich möchtest!
 
@@ -216,7 +218,7 @@ Solltest du aktuell mehr als einen Account haben, dann kontaktiere bitte [accoun
 
 Wir erwägen, zusätzlich Käufe von "Rücksetzung des Scores" im osu!store für hartgesottene Spieler anzubieten, die nichts als Perfektion in ihren Statistiken haben wollen. Wie es aktuell aussieht, können wir für dich keine Account-Statistiken beseitigen.
 
-Das bedeutet aber nicht, dass du einen neuen Account erstellen kannst! Mehrere Accounts zu besitzen ist gegen die [Regeln](/wiki/Rules#communityregeln) und wir werden jeden solcher Accounts deaktivieren, auf die wir aufmerksam werden.
+Das bedeutet aber nicht, dass du einen neuen Account erstellen kannst! Mehrere Accounts zu besitzen ist gegen die [Regeln](/wiki/Rules#community-regeln) und wir werden jeden solcher Accounts deaktivieren, auf die wir aufmerksam werden.
 
 ### Kann ich meinen Account löschen?
 
@@ -224,7 +226,7 @@ Das bedeutet aber nicht, dass du einen neuen Account erstellen kannst! Mehrere A
 
 *Vorsicht: Accounts zu löschen ist dauerhaft und kann daher nicht rückgängig gemacht werden!*
 
-Ja, jeder Nutzer kann die Löschung seines Accounts durch das Senden einer E-Mail an [privacy@ppy.sh](mailto:privacy@ppy.sh) beantragen. Beachte, dass die Löschung **endgültig** ist. Das heißt, dass sie nicht aufgehoben werden kann. Einen Account zu löschen bedeutet nicht, dass du einen neuen Account erstellen kannst, da der Besitz mehrerer Accounts gegen die [Regeln](/wiki/Rules#communityregeln) verstößt. Du wirst also nicht mehr in der Lage sein, die Online-Funktionen von osu! nutzen zu können.
+Ja, jeder Nutzer kann die Löschung seines Accounts durch das Senden einer E-Mail an [privacy@ppy.sh](mailto:privacy@ppy.sh) beantragen. Beachte, dass die Löschung **endgültig** ist. Das heißt, dass sie nicht aufgehoben werden kann. Einen Account zu löschen bedeutet nicht, dass du einen neuen Account erstellen kannst, da der Besitz mehrerer Accounts gegen die [Regeln](/wiki/Rules#community-regeln) verstößt. Du wirst also nicht mehr in der Lage sein, die Online-Funktionen von osu! nutzen zu können.
 
 ### Kann ich auf einem Computer spielen, den ein anderer osu!-Spieler vorher benutzt hat?
 

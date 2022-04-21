@@ -45,7 +45,7 @@
 | 6K | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x |
 | 7K | 0.66x | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x |
 
-### *x*K mod with Co-op score multipliers
+### xK mod with Co-op score multipliers
 
 *Notice: This table only affects beatmaps converted from osu! to osu!mania during play, not on osu!mania-specific beatmaps. And as such, the Co-Op mod gives no penalty on osu!mania-specific beatmaps.*
 

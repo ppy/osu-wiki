@@ -316,7 +316,7 @@ To make sure osu! can access the internet, we will need to allow it to communica
 
 #### Allowing a program through AVG Firewall
 
-Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home) for detailed instructions on how to do this.
+Please consult AVG's [official knowledge base entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home) for detailed instructions on how to do this.
 
 #### Allowing a program through Kaspersky Internet Security
 
@@ -324,13 +324,13 @@ Please consult Kaspersky's [official help article](https://support.kaspersky.com
 
 #### Allowing a program through McAfee
 
-Please consult McAfee's [official knowledgebase entry on the topic](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
+Please consult McAfee's [official knowledge base entry on the topic](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
 
 ### I've added osu! to my firewall but I still can't connect to the game!
 
 **We will need extra information from you to help sort this out.**
 
-If you are still having issues connecting to our game servers, please submit a support ticket by sending an e-mail to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information will help us resolve your issue quickly:
+If you are still having issues connecting to our game servers, please submit a support ticket by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information will help us resolve your issue quickly:
 
 - A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
 - The `network.log` file from the `Logs` folder in your osu! installation directory
@@ -341,7 +341,7 @@ If you are still having issues connecting to our game servers, please submit a s
 
 You can perform a trace route by opening Command Prompt and running the command `tracert`.
 
-To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. For more information, see the [Windows knowledgebase article](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
+To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. For more information, see the [Windows knowledge base article](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
 
 You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
 
@@ -476,7 +476,7 @@ Keep your computer clean and safe and you might notice an improvement. Try runni
 
 #### How old is your computer?
 
-**Very old computers that use even older Intel Integrated graphics chipsets may not be powerful to handle osu! at all, even on the lowest settings.**
+**Very old computers that use even older Intel Integrated graphics chipsets may not be powerful enough to handle osu! at all, even on the lowest settings.**
 
 The only way to deal with this one is to upgrade your computer!
 
@@ -502,7 +502,7 @@ An easy solution to this is to try unplugging your USB hub briefly. If your lag 
 
 This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this, especially if it shares space with the drive that osu! is installed on.
 
-#### Has the game recently updated?
+#### Has the game recently been updated?
 
 **Sometimes after a game update, the client may struggle for seemingly no reason.**
 

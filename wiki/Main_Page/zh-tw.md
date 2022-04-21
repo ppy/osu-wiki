@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 9b7428d718587f9fea31c773261ec4b724b52ac2
 layout: main_page
 no_native_review: true
 ---
@@ -116,7 +114,7 @@ no_native_review: true
     
 [團隊](/wiki/People/The_Team)：[開發團隊](/wiki/People/The_Team/Developers) • [管理團隊 (Global Moderation Team)](/wiki/People/The_Team/Global_Moderation_Team) • [支援團隊](/wiki/People/The_Team/Support_Team) • [提名評估團隊 (Nomination Assessment Team)](/wiki/People/The_Team/Nomination_Assessment_Team) • [圖譜提名者](/wiki/People/The_Team/Beatmap_Nominators) • [osu! 名人堂](/wiki/People/The_Team/osu!_Alumni) • [Project Loved 團隊](/wiki/People/The_Team/Project_Loved_Team)
 
-[社群貢獻者](/wiki/People/Community_Contributors) • [有專屬頭銜的玩家](/wiki/People/Users_with_unique_titles)
+[社群貢獻者](/wiki/People/Community_Contributors) • [有專屬頭銜的玩家](/wiki/People/Users_with_unique_titles)• [錦標賽委員會](/wiki/People/Tournament_Committee) • [表現分數 (PP) 委員會](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">

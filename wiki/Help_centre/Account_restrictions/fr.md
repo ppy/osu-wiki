@@ -1,9 +1,10 @@
-# Restrictions du compte
+# Restrictions de compte
+
+*Page principale : [Centre d'aide](/wiki/Help_centre)*
 
 Une **restriction de compte** est un bannissement de la communauté appliqué sur les comptes ayant un comportement anormal, suspect ou contraire aux règles.
 
-Lorsqu'un compte est restreint, il ne peut pas intéragir avec la communauté jusqu'à ce que la restriction soit levée.
-Les joueurs restreints peuvent toujours jouer au jeu, télécharger des beatmaps et soumettre des scores, mais leurs profils seront invisibles pour les autres joueurs.
+Lorsqu'un compte est restreint, il ne peut pas intéragir avec la communauté jusqu'à ce que la restriction soit levée. Les joueurs restreints peuvent toujours jouer au jeu, télécharger des beatmaps et soumettre des scores, mais leurs profils seront invisibles pour les autres joueurs.
 
 Les fonctionnalités suivantes sont désactivées pour les comptes restreints :
 
@@ -22,7 +23,7 @@ Si votre compte a été restreint, ne paniquez pas. Veuillez suivre ces étapes 
 - **Contactez notre [équipe de support aux comptes](/wiki/People/The_Team/Account_support_team).** Si votre compte est toujours restreint après ces 24 heures, veuillez envoyer un email à [accounts@ppy.sh](mailto:accounts@ppy.sh) **depuis l'adresse email attachée à votre compte** pour demander des détails sur votre restriction. Assurez-vous d'inclure votre pseudo en fournissant le plus d'informations possibles sur ce pourquoi vous pensez avoir été restreint. Plus vous nous en dites, plus il sera facile pour nous de résoudre le problème.
 - Si vous pensez fermement que votre restriction est le résultat d'une erreur, veuillez nous contacter immédiatement pour que nous puissions discuter de votre cas.
 
-Si votre compte a été restreint pour avoir brisé les [règles](/wiki/Rules), vous ne serez autorisé à envoyer un appel qu'après trois mois.
+Si votre compte a été restreint pour avoir brisé les [règles](/wiki/Rules), vous ne serez autorisé à envoyer un appel qu'après un minimum de **trois mois**. Cette période de temps est appelée un *cooldown*, et si vous avez triché, elle sera de six mois.
 
 Si votre compte originel n'est pas restreint, vous pouvez vous connecter dessus et continuer à jouer normalement, mais assurez-vous de ne plus vous connecter à vos multicomptes, car cela mènera à des sanctions supplémentaires.
 
@@ -43,7 +44,7 @@ Si un compte a été restreint à juste titre, nous demanderons à l'utilisateur
 
 - **Continuez à jouer !** Tant que votre compte est restreint et que vous avez un cooldown, vous êtes plus que bienvenu pour continuer à jouer (tant que vous jouez sur votre compte principal !). Les scores que vous réalisez pendant votre restriction seront bien pris en compte, et à moins que vos scores soient partiellement ou totalement supprimés, ils resteront lorsque la restriction sera levée.
 - **Maintenez un bon comportement.** Nous comprenons qu'être restreint peut être frustrant, mais voyez-le comme une chance de vous reposer, loin de la communauté. Essayez d'éviter d'intéragir avec la communauté pour au moins quelques jours (que ce soit par Discord, des réseaux sociaux, ou autres formes de contact) pour vous calmer et réfléchir aux actions qui peuvent avoir contribué à la restriction de votre compte.
-- **Assurez-vous de suivre les règles.** Les restrictions à long terme sont des sanctions pour avoir brisé les règles. Si vous continuez à briser les règles en étant restreint, le cooldown avant que vous puissiez faire appel sera remis à trois mois depuis votre dernière infraction. Cela inclut, par exemple, de continuer à tricher, accéder aux comptes des autres, ou créer des nouveaux comptes pour échapper à la restriction.
+- **Assurez-vous de suivre les règles.** Les restrictions à long terme sont des sanctions pour avoir brisé les règles. Si vous continuez à briser les règles en étant restreint, le cooldown avant que vous puissiez faire appel sera remis à au moins **trois mois** depuis votre dernière infraction. Cela inclut, par exemple, de continuer à tricher (six mois dans ce cas), accéder aux comptes des autres, ou créer des nouveaux comptes pour échapper à la restriction.
 - **Suivez les instructions de l'équipe du support.** Le cooldown de trois mois est une chance pour vous reposer et réfléchir à vos actions. Si vous essayez d'envoyer un appel avant que le cooldown soit terminé, vos emails seront ignorés. Si vous n'êtes pas sûr de la date d'expiration de votre délai de réflexion, de la date à laquelle vous serez autorisé à faire appel, ou du compte sur lequel vous devriez jouer (et faire appel), n'hésitez pas à nous envoyer un e-mail pour nous le demander.
 - **N'hésitez pas à nous contacter si vous avez des questions.** Tant que vous n'essayer pas d'échapper à votre sanction, nous serons toujours ravis de répondre aux questions que vous avez concernant votre restriction !
 
@@ -82,10 +83,18 @@ Certaines infractions mèneront à un retour en arrière de votre compte une foi
 Il y a plusieurs raisons pour lesquelles un appel peut être rejeté.
 
 - **Il a été envoyé trop tôt.** Si le cooldown pour votre compte n'est pas encore passé, votre appel sera rejeté. Si vous n'êtes pas sûr de quand vous pouvez envoyer un appel, veuillez répondre à notre mail - nous vous donnerons la bonne date.
-- **Votre appel était insuffisant ou incomplet.** Si votre appel ne couvre pas suffisamment les quatre points ci-dessus, nous vous demanderons d'en rédiger un plus complet. Cela **ne réinitialise pas** le cooldown pour votre compte et vous êtes libre d'envoyer un nouvel appel à tout moment ! Cependant, si vous avez tenté de mentir ou de cacher des infractions majeures que vous avez commises (principalement du multi-compte ou de la tricherie), votre appel sera rejeté pour ne pas avoir été digne de confiance et votre cooldown sera réinitialisé à trois mois. C'est une autre occasion pour vous de réfléchir à vos actions et de vous assurer de ne rien oublier.
-- **Vous avez tenté d'échapper à votre restriction ou joué sur d'autres comptes.** Créer un autre compte pour pouvoir jouer en ligne alors que votre compte est restreint est considéré comme une tentative d'échapper à la restriction et réinitialisera votre cooldown à trois mois à partir de la date à laquelle vous avez créé le compte. Si vous essayez trop d'échapper à votre restriction, votre appel peut être refusé de façon permanente. Si vous accédez ou jouez toujours sur vos multi-comptes alors que vous êtes restreint, votre cooldown sera également réinitialisé. Souvenez-vous que le multi-compte est contraire aux [règles](/wiki/Rules) et nous tenons à ce que vous ne jouiez que sur votre compte originel. Si vous n'êtes pas sûr de quel compte est considéré votre compte d'origine, envoyez-nous un mail et nous vous le ferons savoir !
+- **Votre appel était insuffisant ou incomplet.** Si votre appel ne couvre pas suffisamment les quatre points ci-dessus, nous vous demanderons d'en rédiger un plus complet. Cela **ne réinitialise pas** le cooldown pour votre compte et vous êtes libre d'envoyer un nouvel appel à tout moment ! Cependant, si vous avez tenté de mentir ou de cacher des infractions majeures que vous avez commises (principalement du multi-compte ou de la tricherie), votre appel sera rejeté pour ne pas avoir été digne de confiance et votre cooldown sera réinitialisé à au moins **trois mois**. C'est une autre occasion pour vous de réfléchir à vos actions et de vous assurer de ne rien oublier.
+- **Vous avez tenté d'échapper à votre restriction ou joué sur d'autres comptes.** Créer un autre compte pour pouvoir jouer en ligne alors que votre compte est restreint est considéré comme une tentative d'échapper à la restriction et réinitialisera votre cooldown à au moins **trois mois** à partir de la date à laquelle vous avez créé le compte. Si vous essayez trop d'échapper à votre restriction, votre appel peut être refusé de façon permanente. Si vous accédez ou jouez toujours sur vos multi-comptes alors que vous êtes restreint, votre cooldown sera également réinitialisé. Souvenez-vous que le multi-compte est contraire aux [règles](/wiki/Rules) et nous tenons à ce que vous ne jouiez que sur votre compte originel. Si vous n'êtes pas sûr de quel compte est considéré votre compte d'origine, envoyez-nous un mail et nous vous le ferons savoir !
 - **Vous avez continué à briser les règles tout en étant restreint.** Il n'y a aucune raison de lever la restriction d'une personne qui continue d'enfreindre les règles même après avoir été restreinte. Si vous continuez à commettre des infractions, le cooldown de votre compte sera réinitialisé à votre dernière infraction. Dans le cas d'infractions extrêmes ou continues, votre appel peut être rejeté de façon permanente.
 - **Votre historique est trop chargé.** Dans les cas de joueurs qui manquent aux règles de façon importante, ou de joueurs qui sont à nouveau restreints après avoir été autorisé à rejouer suite à un appel réussi, nous pourrions simplement conclure que votre historique est trop chargé pour rejoindre le jeu à l'heure actuelle. Si cela vous arrive, nous vous recommandons d'attendre **un très long moment** avant de renvoyer un appel, tout en vous assurant de ne pas enfreindre d'autres règles pendant cette période.
+
+## Que se passe-t-il si ce n'est pas la première fois que je fais appel ?
+
+Dans la plupart des cas, chaque restriction sur votre compte double la durée de la restriction suivante et le cooldown qui lui est associé.
+
+Par exemple, si vous êtes restreint pour avoir triché, vous revenez suite à un appel, puis trichez à nouveau, vous serez restreint pendant au moins 12 mois (le double de la base de six mois) avant que nous n'examinions le moindre appel de votre part. Si vous revenez après cela et trichez à nouveau, vous serez restreint pendant au moins 24 mois.
+
+De plus, il devient de plus en plus difficile de revenir sur vos appels après votre première infraction, car nous devons tenir compte de vos actions passées et déterminer si le fait de lever la restriction vaut le temps et les risques encourus. Très peu de joueurs (voire aucun) reviennent avec succès dans la communauté après leur troisième restriction.
 
 ## Mes mails sont ignorés/Je ne pense pas que mon appel a été traité de façon juste
 
@@ -107,10 +116,12 @@ Veuillez comprendre que l'envoi d'un email à cette adresse ne garantit qu'un se
 | Raison de restriction | Durée du cooldown | Remarques |
 | :-- | :-- | :-- |
 | Erreur de jugement | Pas de cooldown | S'il s'agissait d'une erreur, aucun impact sur le compte. |
-| Multi-compte | Permanent (multis) | Le compte principal ne sera pas restreint, possiblement réduit au silence. |
-| Multi-compte excessif | 3 mois | Les conditions d'appel s'appliquent, bannissement d'un an des tournois. |
-| Partage de compte | 3 mois | Les conditions d'appel s'appliquent, bannissement d'un an des tournois et retour en arrière partiel. |
-| Triche | 3 mois | Les conditions d'appel s'appliquent, bannissement d'un an des tournois, et suppression de tous les scores. |
-| Mauvaise conduit excessive | Variable | Les conditions d'appel s'appliquent. Le cooldown dépendra de l'historique. |
-| Triche/Partage de compte en tournoi | 6 mois | Les conditions d'appel s'appliquent, retour en arrière approprié, bannissement permanent des tournois. |
-| Infractions ultérieures | 6 mois | Les conditions d'appel s'appliquent, retour en arrière approprié, bannissement des tournois d'un an par infraction. |
+| Multicompte | Permanent (multis) | Le compte principal ne sera pas restreint, possiblement réduit au silence. |
+| Multicompte excessif | 3 mois | Les conditions d'appel s'appliquent, bannissement d'un an des tournois. |
+| Partage de compte | 3 mois | Les conditions d'appel s'appliquent, bannissement d'un an des tournois et réinitialisation partielle du compte. |
+| Récidives (Multicompte, partage de compte, mauvaise conduite) | 6 mois | Les conditions d'appel s'appliquent, réinitialisation du compte (si nécessaire), bannissement des tournois d'un an par infraction |
+| Triche | 6 mois | Les conditions d'appel s'appliquent, bannissement d'un an des tournois, et réinitialisation complète du compte. |
+| Mauvaise conduite excessive | Variable | Les conditions d'appel s'appliquent. Le cooldown dépendra de l'historique. |
+| Triche/Partage de compte en tournoi | 12 mois | Les conditions d'appel s'appliquent, réinitialisation appropriée, bannissement permanent des tournois. |
+| Récidives (Triche) | 12 à 24 mois | Les conditions d'appel s'appliquent, réinitialisation appropriée, bannissement des tournois d'un an par infraction. |
+| Mauvaise conduite grave ou abusive | Indéfinie | Souvent permanente sans possibilité d'appel. |

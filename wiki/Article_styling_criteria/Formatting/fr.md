@@ -1,17 +1,11 @@
----
-outdated: true
-outdated_since: 47aa245123d41ef6421aaec3ecddaef4b312ae70
----
-
 # Mise en forme
 
-*Pour les normes de rédaction, voir : [Critères de style des articles/Rédaction](../Writing)*
-
-*Note : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les niveaux d'exigence.*
+*Pour les normes de rédaction, voir : [Critères de mise en forme d'article/Rédaction](../Writing)*\
+*Note : Cet article utilise [RFC 2119](https://microformats.org/wiki/rfc-2119-fr) pour décrire les niveaux d'exigence.*
 
 ## Locales
 
-Vous trouverez ci-dessous la liste des langues correctement supportées pour le wiki :
+Vous trouverez ci-dessous la liste des langues correctement prises en charge par le wiki :
 
 | Nom du fichier | Nom en Français | Écriture native |
 | :-- | :-- | :-- |
@@ -48,18 +42,6 @@ Vous trouverez ci-dessous la liste des langues correctement supportées pour le 
 | `zh-tw.md` | Chinois traditionnel (Taïwan) | 繁體中文（台灣） |
 
 *Note : Le site web donnera aux lecteurs la version d'un article dans la langue qu'ils ont choisie. Si celle-ci n'est pas disponible, la version anglaise sera donnée.*
-
-### Parité de contenu
-
-Les traductions sont soumises à une stricte parité de contenu avec leur article anglais, ce qui signifie qu'elles doivent avoir le même message, indépendamment de la grammaire et de la syntaxe. Toute modification du sens des traductions doit être accompagnée de modifications équivalentes de l'article anglais.
-
-Dans certains cas, il est permis de différer le contenu :
-
-- Articles rédigés à l'origine dans une langue autre que l'anglais (dans ce cas, l'anglais doit faire office de traduction)
-- Explications de mots anglais qui sont des termes courants dans la communauté d'osu!
-- Liens externes
-- Tags
-- Explications spécifiques aux sous-communautés
 
 ## Page de garde
 
@@ -233,9 +215,9 @@ Les hatnotes *Voir aussi* suggèrent aux lecteurs d'autres points d'intérêt d'
 Les hatnotes *Pour voir* sont similaires aux hatnotes *Voir aussi*, mais sont généralement plus descriptives et directes. Cette hatnote peut utiliser plus d'un lien si nécessaire. Elles doivent être formatées comme suit :
 
 ```markdown
-*Pour {description}, voir : {article}`*
+*Pour {description}, voir : {article}*
 
-*Pour {description}, voir : {article} et {article}`*
+*Pour {description}, voir : {article} et {article}*
 ```
 
 ### À ne pas confondre avec
@@ -260,7 +242,7 @@ Les hatnotes *Pour d'autres utilisations* sont similaires aux hatnotes *À ne pa
 
 *À ne pas confondre avec [Hatnote](#hatnote).*
 
-Une note doit être placée à l'endroit approprié dans une section, mais doit commencer le paragraphe et utiliser l'italique. Les notes peuvent contenir des caractères gras lorsque cela est approprié, mais ils doivent être limités autant que possible. Les notes doivent être rédigées sous forme de phrases complètes. Ainsi, contrairement à la plupart des [hatnotes](#hatnote), elles doivent utiliser un point (`.`) ou un point d'exclamation (`!`) si nécessaire. Tout ce qui se trouve dans le même paragraphe qu'une note doit également être en italique. Elles doivent être formatées comme suit :
+Une note doit être placée à l'endroit approprié dans une section, mais doit commencer le paragraphe et utiliser l'italique. Les notes peuvent contenir des caractères gras lorsque cela est approprié, mais ils doivent être limités autant que possible. Les notes doivent être rédigées sous forme de phrases complètes. Ainsi, contrairement à la plupart des [hatnotes](#hatnote), les notes doivent utiliser un point (`.`) ou un point d'exclamation (`!`) si nécessaire. Tout ce qui se trouve dans le même paragraphe qu'une note doit également être en italique. Elles doivent être formatées comme suit :
 
 ```markdown
 *Note : {note}.*
@@ -277,11 +259,22 @@ Une note doit être placée à l'endroit approprié dans une section, mais doit 
 - `Attention` doit être utilisé pour avertir le lecteur afin d'éviter des malentendus.
 - `Avertissement` doit être utilisé pour avertir le lecteur que des mesures peuvent être prises à son encontre.
 
+## Mélange de Note et hatnotes
+
+Plusieurs notes et hatnotes peuvent être cumulées si nécessaire. Dans ce cas, ils doivent être empilés sans lignes vides et utiliser des barres obliques inversées de fin de ligne :
+
+```markdown
+*Attention : {attention}.*\
+*Voir également : {article}*
+```
+
+Dans de nombreux cas, il peut être plus judicieux d'intégrer des notes ou des hatnotes dans le texte du paragraphe plutôt que d'en empiler un grand nombre.
+
 ## Mise en valeur
 
 ### Gras
 
-Les caractères gras doivent utiliser des doubles astérisques (`**`).
+Les textes en gras doivent utiliser des doubles astérisques (`**`).
 
 Les paragraphes de tête peuvent mettre en gras la première occurrence du titre de l'article.
 
@@ -289,11 +282,39 @@ Les paragraphes de tête peuvent mettre en gras la première occurrence du titre
 
 Les italiques doivent utiliser des astérisques simples (`*`).
 
-Les noms des œuvres ou des jeux vidéo doivent être en italique. osu! (le jeu) est exempté de cette règle.
-
 La première occurrence d'une abréviation, d'un acronyme ou d'un sigle peut être mise en italique.
 
-L'italique peut également être utilisé pour accenter un ou plusieurs mots ou faciliter la lecture.
+L'italique peut également être utilisé pour accentuer un ou plusieurs mots ou faciliter la lecture.
+
+Les noms des œuvres ou des jeux vidéo doivent être en italique. osu! en est exempt.
+
+Par exemple, lorsque l'on fait référence à des musiques sous le format `{artist} - {title}`, toute la partie est une référence à l'œuvre et doit donc être mise en italique :
+
+```markdown
+*cYsmix - triangles* est l'une des trois musiques d'intro que l'on peut entendre au démarrage du jeu.
+```
+
+Par ailleurs, les noms d'artistes ne sont généralement pas en italique. Cela signifie que dans les références en forme libre, seul le titre doit être mis en italique, car le nom de l'artiste ne fait alors pas partie du nom de l'œuvre :
+
+```markdown
+*Blue Zenith* de xi est une musique réputée dans la communauté d'osu! en raison d'un score célèbre réalisé par un joueur de haut niveau sur une certaine beatmap.
+```
+
+### Accentuation et liens
+
+Les liens apparaissent dans une couleur différente, ce qui le met déjà en valeur et ne nécessitent donc pas de mise en valeur supplémentaire :
+
+```markdown
+[Camellia - OOPARTS](https://cametek.bandcamp.com/track/parts) est un exemple de musique officiellement créée spécifiquement pour osu!, autrement dit un *osu! original*, puisqu'elle a été spécifiquement commandée pour le tiebreaker de l'osu! World Cup 2020.
+```
+
+Cela ne s'applique toutefois pas si l'œuvre référencée n'est pas la seule partie du lien :
+
+```markdown
+[La beatmap de Voltaeyx de *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) a accumulé une popularité considérable en 2018 grâce à ses overlaps de patterns de sliders uniques.
+```
+
+Le type de construction ci-dessus doit être utilisé avec parcimonie, et ne doit pas être utilisé dans des endroits comportant de nombreux liens, tels que des tableaux ou des listes.
 
 ## Rubriques
 
@@ -516,7 +537,7 @@ Voici quelques exemples :
 
 ```markdown
 [FAQ](/wiki/FAQ)
-[pippi](/wiki/Mascots#-pippi)
+[pippi](/wiki/Mascots#pippi)
 [Beatmaps](../)
 [Pattern](./Pattern)
 ```
@@ -576,7 +597,7 @@ Le texte du lien de l'utilisateur doit être le nom actuel de l'utilisateur.
 Lorsque vous créez un lien vers une difficulté, utilisez ce format pour le texte du lien :
 
 ```
-{artist} - {title} ({creator}) [{difficuty_name}]
+{artist} - {title} ({creator}) [{difficulty_name}]
 ```
 
 Le lien vers une beatmap doit effectivement mener à cette difficulté. Les URL des difficultés de la beatmap doivent être formatées comme suit :
@@ -774,7 +795,13 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 
 ## Citations en bloc
 
-Les citations en bloc sont limitées à la citation du texte d'une personne. Elles ne doivent pas être utilisées pour formater le texte.
+Les citations en bloc sont limitées à la citation du texte d'une personne. Elles ne doivent pas être utilisées pour formater le texte. Le nom de la personne citée qui suit la citation doit être précédé d'un tiret (`-`) comme suit :
+
+```markdown
+> profitez du jeu
+
+-rrtyui
+```
 
 ## Ruptures thématiques
 

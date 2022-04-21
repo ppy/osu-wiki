@@ -1,4 +1,11 @@
+---
+outdated: true
+outdated_since: b830432c4768e242ce32ad592010de960bbefdeb
+---
+
 # 账号限制
+
+*主页面： [帮助中心](/wiki/Help_centre)*
 
 账号限制是社区对表现出不正常、可疑、或违规行为的账号的一个强制措施。
 

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: ef481df76475a6367dc1fd8369836cab766f8df1
+---
+
 # 설정
 
 **공지:** osu!tourney 클라이언트를 사용하기 위해서는 서포터 태그가 있어야 합니다.
