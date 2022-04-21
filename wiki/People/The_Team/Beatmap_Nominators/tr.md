@@ -210,7 +210,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Chinese |
+| ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Çince |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korece |
 | ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korece |
 

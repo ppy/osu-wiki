@@ -210,7 +210,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Chinese |
+| ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | จีน |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | เกาหลี |
 | ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | เกาหลี |
 

@@ -52,12 +52,12 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Mandarin | Evaluasi |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Mandarin | Evaluasi |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengal, sedikit Arab | Evaluasi, struktural, moderasi, komunikasi |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation, communication |
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesia | Evaluasi, komunikasi |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Struktural, komunikasi |
-| ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluation |
+| ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluasi |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Struktural |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluasi |
-| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian | Evaluation |
+| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Jerman, Serbia | Evaluasi |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluasi |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanyol, Prancis | Evaluasi |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Belanda | Evaluasi |

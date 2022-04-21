@@ -210,7 +210,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Chinese |
+| ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Chinês |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Coreano |
 | ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Coreano |
 

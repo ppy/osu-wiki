@@ -101,7 +101,8 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Deutsch | Moderation der Mapping-/Modding-Community |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Deutsch, Serbisch | Chat-Moderation, Moderation der Mapping-/Modding-Community |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippinisch | Chat-Moderation |
-| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Deutsch | Verwaltung von Turnieren |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Offizielle Präsenz des Teams |
+| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Deutsch | Verwaltung von Wettbewerben |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Französisch, etwas Spanisch | Chat-Moderation |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugiesisch | Chat-Moderation |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Kantonesisch, Chinesisch | Chat-Moderation |
@@ -197,3 +198,4 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 [flag_TR]: /wiki/shared/flag/TR.gif "Türkei"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"
+[flag___]: /wiki/shared/flag/__.gif
