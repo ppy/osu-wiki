@@ -8,7 +8,7 @@ tags:
 
 # osu!mania 7K Chinese National Cup 2022
 
-![MCNC 7K 2022 logo](img/logo.png)
+![MCNC 7K 2022 banner](img/banner.jpg)
 
 The **osu!mania 7K Chinese National Cup 2022** (***MCNC 7K 2022***) was a country-based osu!mania tournament hosted by the \[Crz\]Team. It was the first instalment of the osu!mania 7K Chinese National Cup.
 
