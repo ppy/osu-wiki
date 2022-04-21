@@ -26,13 +26,13 @@ The **osu!catch World Cup 2022** (***CWC 2022***) is a country-based osu!catch t
 
 ## Prizes
 
-The osu!catch World Cup 2022 offers a $2,000 cash prize pool.
+The osu!catch World Cup 2022 offers a $2,000 cash prize pool and limited edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 48% of the prize pool, profile badge, **osu!catch Champion** user title for one year |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 48% of the prize pool, single-run merch, profile badge, **osu!catch Champion** user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
 ## Organisation
 
@@ -48,6 +48,8 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ## Links
 
+- [Register here](https://osu.ppy.sh/community/tournaments/33)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1562118)
 - [Livestream](https://www.twitch.tv/osulive)
 
 ## Ruleset
@@ -137,8 +139,8 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 - In the Qualifier stage, teams need to place in the top 32 seeded teams in order to advance to the following double elimination stages.
 - In the Round of 32, teams need to win 5 maps to win a match (best of 9).
-- In the Round of 16 and Quarterfinals, teams need to win 5 maps to win a match (best of 11).
-- In the Semifinals, Finals, and Grand Finals, teams need to win 6 maps to win a match (best of 13).
+- In the Round of 16 and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
+- In the Semifinals, Finals, and Grand Finals, teams need to win 7 maps to win a match (best of 13).
 
 ### Match instructions
 
@@ -163,13 +165,13 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 4 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/No_Fail), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time).
+2. Each mappool consists of 4 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/No_Fail), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and Mixed Mod.
 3. The Qualifiers Stage mappool will consist of 9 maps, Round of 32 will consist of 14 maps, Round of 16 and Quarterfinals will consist of 17 maps, Semifinals, Finals and Grand Finals will consist of 18 maps.
 4. Every mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 5. **The [No Fail](/wiki/Game_modifier/No_Fail) mod will be enabled on all maps.**
-6. The NoMod bracket will be played with the [No Fail](/wiki/Game_modifier/No_Fail) mod.
-7. The Hidden, HardRock and DoubleTime bracket will be played with the respective mods activated, as well as the [No Fail](/wiki/Game_modifier/No_Fail) mod.
-   - When playing a map from the [Hard Rock](/wiki/Game_modifier/Hard_Rock) or [Double Time](/wiki/Game_modifier/Double_Time) pool, [Hidden](/wiki/Game_modifier/Hidden) can be used optionally by any player.
+6. When playing a map from the [Hard Rock](/wiki/Game_modifier/Hard_Rock) or [Double Time](/wiki/Game_modifier/Double_Time) pool, [Hidden](/wiki/Game_modifier/Hidden) can be used optionally by any player.
+7. The Mixed Mod bracket will be played with FreeMod activated. Each player will be forced to choose one mod each, from a selection of [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), and [Hard Rock](/wiki/Game_modifier/Hard_Rock). Each mod must be played by exactly one player (i.e. one player MUST pick NoMod, another player MUST pick Hidden, and the remaining player MUST pick Hard Rock).
+   - The player using Hard Rock may choose to use Hidden and Hard Rock or just Hard Rock.
 8. The tiebreaker can be played with no mods selected or with the [Hidden](/wiki/Game_modifier/Hidden) mod.
 
 ### Scheduling instructions
@@ -197,5 +199,5 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 [flag_IN]: /wiki/shared/flag/IN.gif "India"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_TN]: /wiki/shared/flag/TR.gif "Tunisia"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
