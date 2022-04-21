@@ -25,8 +25,8 @@
 | ![Relax](/wiki/shared/mods/RL.png) | Relax (RL) | • ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.00x | • ![][osu!]: `Anda tidak perlu meng-klik. Santaikanlah jari-jemari Anda dari intensnya permainan. ** UNRANKED **` • ![][osu!taiko]: `Santai saja! Anda tidak akan dipusingkan oleh putaran (spinner) kilat, pukulan drumroll, atau katu yang muncul tiba-tiba. ** UNRANKED **` • ![][osu!catch]: `Gunakan mouse untuk mengendalikan penangkap (catcher). ** UNRANKED **` |
 | ![Autopilot](/wiki/shared/mods/AP.png) | Auto Pilot (AP) | • ![][osu!]: 0.00x | • ![][osu!]: `Kursor akan digerakkan secara otomatis - Anda hanya perlu mengikuti ritme lagu! ** UNRANKED **` |
 | ![Spun Out](/wiki/shared/mods/SO.png) | Spun Out (SO) | • ![][osu!]: 0.90x | • ![][osu!]: `Putaran (spinner) akan diselesaikan secara otomatis.` |
-| ![4K (*x*K)](/wiki/shared/mods/4K.png) | 4K (*x*K) | 0.66x–1.00x (lihat [grafik dibawah](#xk-mod-score-multipliers)) |  |
-| ![Co-op](/wiki/shared/mods/CP.png) | Co-op (CP) | 0.70x–1.00x (lihat [grafik dibawah](#xk-mod-with-co-op-score-multipliers)) | • ![][osu!mania]: `Dua kali jumlah key-nya, dua kali keseruannya!` |
+| ![4K (*x*K)](/wiki/shared/mods/4K.png) | 4K (*x*K) | 0.66x–1.00x (lihat [grafik dibawah](#pengali-skor-mod-xk)) |  |
+| ![Co-op](/wiki/shared/mods/CP.png) | Co-op (CP) | 0.70x–1.00x (lihat [grafik dibawah](#pengali-skor-mod-xk-dengan-co-op)) | • ![][osu!mania]: `Dua kali jumlah key-nya, dua kali keseruannya!` |
 | ![Mirror](/wiki/shared/mods/MR.png) | Mirror (MR) | • ![][osu!mania]: 1.00x |  |
 | ![Random](/wiki/shared/mods/RD.png) | Random (RD) | • ![][osu!mania]: 0.00x | • ![][osu!mania]: `Acak semua posisi notnya!` |
 | ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Tonton permainan sempurna yang berjalan secara otomatis.` |
@@ -45,7 +45,7 @@
 | 6K | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x |
 | 7K | 0.66x | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x |
 
-### Pengali Skor Mod *x*K dengan Co-op
+### Pengali Skor Mod xK dengan Co-op
 
 *Daftar ini hanya mempengaruhi beatmap yang telah di convert dari osu! ke osu!mania, bukan pada beatmap khusus osu!mania. Karena itu, Mod Co-op tidak mempunyai penalti apapun pada beatmap khusus osu!mania.*
 

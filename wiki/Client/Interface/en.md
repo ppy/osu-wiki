@@ -314,7 +314,7 @@ The categories in the ranking panel are as follows:
 | `Max Combo` | The longest combo on the map you played. | The longest combo over all beatmaps you have played. |
 | [`Ranked Score`](/wiki/Gameplay/Score/Ranked_score) | Your [best result](/wiki/Gameplay/Score/Ranked_score) on the beatmap. | The number of points earned from all ranked beatmaps that you have ever played, with every map being counted exactly once. |
 | [`Total Score`](/wiki/Gameplay/Score/Total_score) | Not taken into account, since it does not affect your position in online rankings. | Same as ranked score, but it takes into account all beatmaps available on the osu! website, including underplayed or failed beatmaps. This counts towards your [level](/wiki/Gameplay/Score/Total_score#level). |
-| [`Performance`](/wiki/Performance_points) | The amount of [unweighted pp](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played?) you would receive for the play. | Your total amount of performance points, and how much pp the submitted play was worth. |
+| [`Performance`](/wiki/Performance_points) | The amount of [unweighted pp](/wiki/Performance_points#why-didn't-i-gain-the-full-amount-of-pp-from-a-map-i-played?) you would receive for the play. | Your total amount of performance points, and how much pp the submitted play was worth. |
 
 ### Medals
 

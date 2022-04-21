@@ -53,7 +53,7 @@ Generell wird das Team Menschen über mehrere Wochen oder Monate hinweg beobacht
 
 *Tipp: Alle GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.*
 
-Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet alle Teammitglieder auf. Zusätzlich zu den unten genannten Bereichen nehmen alle Mitglieder des GMTs teil an der [Bewertung des visuellen und auditiven Inhalts in Beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed)<!-- TODO: add link as soon as German article is available -->.
+Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet alle Teammitglieder auf. Zusätzlich zu den unten genannten Bereichen nehmen alle Mitglieder des GMTs teil an der [Bewertung des visuellen und auditiven Inhalts in Beatmaps](/wiki/Rules/Visual_Content_Considerations#dein-bild-bewerten-lassen).
 
 | Name | Zusätzliche Sprachen | Schwerpunktgebiet |
 | :-- | :-- | :-- |
@@ -83,6 +83,7 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Deutsch | Moderation der Mapping-/Modding-Community |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russisch | Chat-Moderation |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japanisch | Chat-Moderation |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Russisch | Chat-Moderation |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russisch | Chat-Moderation |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finnisch | Chat-Moderation |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugiesisch, Spanisch | Chat-Moderation, Verwaltung von Turnieren |
@@ -91,7 +92,6 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonesisch, Chinesisch | Verwaltung von Turnieren |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Portugiesisch | Moderation der Mapping-/Modding-Community |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu!-Entwicklung |
-| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Russisch | Chat-Moderation |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippinisch | Chat-Moderation, Forum-Moderation, Technischer Support |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Französisch | Chat-Moderation |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Moderation der Mapping-/Modding-Community |
@@ -100,8 +100,8 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Portugiesisch, Spanisch | Chat-Moderation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Deutsch | Moderation der Mapping-/Modding-Community |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Deutsch, Serbisch | Chat-Moderation, Moderation der Mapping-/Modding-Community |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Offizielle Präsenz des Teams |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippinisch | Chat-Moderation |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Offizielle Präsenz des Teams |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Deutsch | Verwaltung von Turnieren |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Französisch, etwas Spanisch | Chat-Moderation |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugiesisch | Chat-Moderation |

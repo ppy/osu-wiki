@@ -9,7 +9,7 @@ tags:
 
 **Combo burst** merayakan pencapaian sebuah [combo milestone](/wiki/Gameplay/Combo_milestone) dengan mem-flash gambar combo burst. Gambar tersebut berbeda untuk setiap mode permainan.
 
-- Di dalam [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), karakter akan meledak dari sisi kiri atau kanan jendela. Secara default, karakter tersebut menjadi masing-masing [pippi](/wiki/Mascots#-pippi) dan [Yuzu](/wiki/Mascots#-yuzu).
+- Di dalam [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch), karakter akan meledak dari sisi kiri atau kanan jendela. Secara default, karakter tersebut menjadi masing-masing [pippi](/wiki/Mascots#pippi) dan [Yuzu](/wiki/Mascots#yuzu).
 - Di dalam [osu!taiko](/wiki/Game_mode/osu!taiko), kumpulan bunga akan meledak di belakang [pippidon](/wiki/Mascots#don).
 - Di dalam [osu!mania](/wiki/Game_mode/osu!mania), karakter akan meledak dari sisi kanan panggung secara default.
 

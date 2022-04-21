@@ -31,7 +31,7 @@ Apabila proses pengunggahan yang ada berlangsung tanpa masalah, kamu akan dapat 
 
 Masing-masing pengguna hanya dapat memiliki beatmap yang berstatus Pending/WIP hingga jumlah tertentu dalam suatu waktunya. Suatu beatmap Pending/WIP yang telah terabaikan/tidak diperbarui selama satu bulan (28 hari) akan secara otomatis terkubur di dalam [Beatmap Graveyard](/wiki/Beatmap/Category#graveyard). Apabila kamu ingin memindahkan beatmap milikmu yang sudah terkubur di Graveyard kembali ke Pending/WIP, perbarui beatmap tersebut melalui editor.
 
-## Saya mendapatkan pesan dari editor yang memperingatkan bahwa beatmap yang hendak saya unggah bukan milik saya ("*The beatmap you are trying to submit isn't yours!*")!
+## Saya mendapatkan pesan dari editor yang memperingatkan bahwa beatmap yang hendak saya unggah bukan milik saya ("The beatmap you are trying to submit isn't yours!")!
 
 **Hal ini dapat terjadi apabila kolom nama pembuat beatmap pada berkas beatmap yang terkait tidak terisi dengan benar.**
 
