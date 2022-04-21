@@ -14,3 +14,4 @@ tags:
 - [Automne 2020](2020_Autumn)
 - [Hiver 2021](2021_Winter)
 - [Printemps 2021](2021_Spring)
+- [Hiver 2022](2022_Winter)
