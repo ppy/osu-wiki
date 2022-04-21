@@ -45,7 +45,7 @@
 | 6K | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x |
 | 7K | 0.66x | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x |
 
-### Pengali Skor Mod *x*K dengan Co-op
+### Pengali Skor Mod xK dengan Co-op
 
 *Daftar ini hanya mempengaruhi beatmap yang telah di convert dari osu! ke osu!mania, bukan pada beatmap khusus osu!mania. Karena itu, Mod Co-op tidak mempunyai penalti apapun pada beatmap khusus osu!mania.*
 
