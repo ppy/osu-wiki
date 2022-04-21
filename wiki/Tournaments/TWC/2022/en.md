@@ -107,8 +107,8 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Apr 24 (Sun) 12:00 UTC | Apr 24 (Sun) 21:00 UTC+9 | Apr 24 (Sun) 21:00 UTC+9 | ² |
-| Japan | ![][flag_JP] | ![][flag_ID] | Indonesia | Apr 24 (Sun) 12:00 UTC | Apr 24 (Sun) 21:00 UTC+9 | Apr 24 (Sun) 19:00 UTC+7 | ² |
+| Japan | ![][flag_JP] | ![][flag_ID] | Indonesia | Apr 24 (Sun) 06:00 UTC | Apr 24 (Sun) 15:00 UTC+9 | Apr 24 (Sun) 13:00 UTC+7 | ² |
+| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Apr 24 (Sun) 08:00 UTC | Apr 24 (Sun) 17:00 UTC+9 | Apr 24 (Sun) 17:00 UTC+9 | ² |
 
 ¹ Losers bracket match\
 ² Potential match: final matchup depends on the results of ¹
