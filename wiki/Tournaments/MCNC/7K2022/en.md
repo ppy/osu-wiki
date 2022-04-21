@@ -259,13 +259,13 @@ The final standings for the Qualifier stage can be found at the following [sprea
 4. Match schedule will be handled by the Tournament Management.
 5. If no referees are available at match time, the match will be postponed.
 6. Failed players' scores will be considered losses, even if they are higher than the opponent.
-    - Reviving and surviving during a beatmap is considered as passing it.
+   - Reviving and surviving during a beatmap is considered as passing it.
 7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
-    - Custom skin elements must not be used to alter core gameplay mechanics.
+   - Custom skin elements must not be used to alter core gameplay mechanics.
 8. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
-    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
-    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same.
-    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
+   - "Lag spikes" are not considered a valid reason to nullify a beatmap.
+   - If a rematch happens, the original roster for each team during that particular beatmap must remain the same.
+   - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 9. Beatmaps must not be reused in the same match, except for rematches.
 10. If a player is not present at match time, it can be postponed for up to 10 minutes. If they are still absent after this period, a win by default will be declared for the player present.
 11. All players and staff must be treated with respect. Instructions of the referees and the Tournament Management are to be followed. Decisions labelled as final are not to be objected.
@@ -286,10 +286,10 @@ The final standings for the Qualifier stage can be found at the following [sprea
 1. There is no rank range for this tournament: players from all skill levels are free to participate.
 2. This tournament is for Chinese players only, including players from Mainland Chinese territories, Taiwan territories, Hong Kong territories, and Macau territories. Please note that this tournament has nothing to do with politics and views about the territories of China. Only players with the flags of the aforementioned territories are eligible for playing.
 3. To be eligible for playing, one must:
-    - Have not been banned/majorly restricted in the MCNC.
-    - Pass a background check by osu! staff and the tournament staff.
-    - Include the answer "我不是管人痴" in the question "Do you have anything else to say?".
-    - To ensure that the game is played normally, every registered user will be manually checked by the Tournament Management and will give the list to the official osu! staff to check.
+   - Have not been banned/majorly restricted in the MCNC.
+   - Pass a background check by osu! staff and the tournament staff.
+   - Include the answer "我不是管人痴" in the question "Do you have anything else to say?".
+   - To ensure that the game is played normally, every registered user will be manually checked by the Tournament Management and will give the list to the official osu! staff to check.
 4. All successfully formed players will be published after the registration phase.
 5. Organisers, mappoolers and referees must not participate as a player in the tournament.
 
@@ -320,12 +320,12 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-    - Room settings are `Game mode: osu!mania`, `Team mode: Head-to-head`, `Win Condition: "ScoreV2"`. Room name must be `MCNC7K2021: ({Red team}) vs ({Blue team})`.
+   - Room settings are `Game mode: osu!mania`, `Team mode: Head-to-head`, `Win Condition: "ScoreV2"`. Room name must be `MCNC7K2021: ({Red team}) vs ({Blue team})`.
 2. Each player can ban one beatmap from the mappool. These beatmaps cannot be picked by any player in the entire match.
 3. Beatmap selection will alternate between each player selecting a beatmap in the mappool.
 4. Each player must use `!roll` once in `#multiplayer`.
-    - The winner of the `!roll` starts picking the first beatmap of the match.
-    - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player takes more time than alloted more than once, a random map will be chosen from the mappool using `!roll` with the number of maps that were neither picked nor banned, excluding the tiebreaker. Repeat offenders may receive further sanctions from the Tournament Management.
 6. Players will be given at most a 3-minute timeout for solving unexpected situations.
 7. Qualifier results will be published via a statistics sheet.
@@ -335,11 +335,11 @@ The final standings for the Qualifier stage can be found at the following [sprea
 1. There will be one mappool for each stage, except for the Finals and Grand Finals, which will share the same mappool.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
-    - Qualifiers: 5 beatmaps
-    - Round of 16: 10 beatmaps
-    - Quarterfinals: 12 beatmaps
-    - Semifinals: 14 beatmaps
-    - Finals: 16 beatmaps
+   - Qualifiers: 5 beatmaps
+   - Round of 16: 10 beatmaps
+   - Quarterfinals: 12 beatmaps
+   - Semifinals: 14 beatmaps
+   - Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for all maps are Hidden, Fade In, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
