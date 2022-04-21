@@ -1,6 +1,6 @@
 # Originale Beatmap-Pakete
 
-Beatmap-Pakete sind ein integraler Bestandteil der osu!-Community seit [ihrer ersten Bekanntmachung](https://osu.ppy.sh/community/forums/topics/1853) von ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) vor langer Zeit im Jahr 2008, in dem einige der Pakete mit bestimmten [Errungenschaften](/wiki/Medals) verbunden waren. Als osu! und seine Community jedoch über die Jahre wuchsen, hat sich das Mapping-Meta im Allgemeinen seit seinen Anfängen stark verändert und es wurde — durch große Nachfrage der Öffentlichkeit — [am 16. Januar 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) eine umfassende Überarbeitung bei zahlreichen Beatmap-Paketen vorgenommen, um diese in ihrer Gesamtheit auf dem neusten Stand zu halten.
+Beatmap-Pakete sind ein integraler Bestandteil der osu!-Community seit [ihrer ersten Bekanntmachung](https://osu.ppy.sh/community/forums/topics/1853) von ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) vor langer Zeit im Jahr 2008, in dem einige der Pakete mit bestimmten [Errungenschaften](/wiki/Medals) verbunden waren. Als osu! und seine Community jedoch über die Jahre wuchsen, hat sich die Mapping-Meta im Allgemeinen seit ihren Anfängen stark verändert und es wurde — durch große Nachfrage der Öffentlichkeit — [am 16. Januar 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) eine umfassende Überarbeitung bei zahlreichen Beatmap-Paketen vorgenommen, um diese in ihrer Gesamtheit auf dem neusten Stand zu halten.
 
 Dieser Artikel listet die Inhalte der Beatmap-Pakete in ihrem ursprünglichen Zustand auf, welche der genannten Überholung unterzogen wurden.
 
@@ -400,7 +400,7 @@ Beatmaps:
 
 ## Trivia
 
-- Die Beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), welche im Internet Pack (Volume 1) enthalten war, war berüchtigt dafür, in die Sektion [approved](/wiki/Beatmap/Category#approved) gedrückt worden zu sein, auch wenn sie nur aus einem einzigen Spinner bestand. Obwohl die Beatmap kurze Zeit später [vom dem Approved Beatmap Listing entfernt wurde](https://osu.ppy.sh/community/forums/posts/149328), blieben ihre Überreste trotzdem im Internet Pack (Volume 1).
+- Die Beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), welche im Internet Pack (Volume 1) enthalten war, war berüchtigt dafür, in die Sektion [Approved](/wiki/Beatmap/Category#approved) verschoben worden zu sein, auch wenn sie nur aus einem einzigen Spinner bestand. Obwohl die Beatmap kurze Zeit später [von der Approved-Beatmap-Auflistung entfernt wurde](https://osu.ppy.sh/community/forums/posts/149328), blieben ihre Überreste trotzdem im Internet Pack (Volume 1).
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
 [flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"

@@ -8,7 +8,7 @@
 
 Alle Beatmaps müssen im [osu!](/wiki/Game_mode/osu!)-Spielmodus bezwungen werden, um sich für das Abzeichen zu qualifizieren, sofern nicht anders angegeben. Die Verwendung von entweder [Mods zur Verringerung der Schwierigkeit](/wiki/Game_modifier#difficulty-reduction) oder [Mods zur Erhöhung der Schwierigkeit](/wiki/Game_modifier#difficulty-increase) ist erlaubt.
 
-Es ist jedoch erwähnenswert, dass der Inhalt aller Video Game Packs, Anime Packs, Internet! Packs und Rhythm Game Packs sich seit [ihrer ersten Bekanntmachung im Jahr 2008](https://osu.ppy.sh/community/forums/topics/1853) dramatisch verändert haben. Siehe [originale Beatmap-Pakete](/wiki/Medals/Legacy_beatmap_packs) für die Liste dieser Beatmap-Pakete in ihrem alten/originalen Zustand.
+Es ist jedoch erwähnenswert, dass sich der Inhalt aller Video Game Packs, Anime Packs, Internet! Packs und Rhythm Game Packs seit [ihrer ersten Bekanntmachung im Jahr 2008](https://osu.ppy.sh/community/forums/topics/1853) dramatisch verändert hat. Siehe [originale Beatmap-Pakete](/wiki/Medals/Legacy_beatmap_packs) für die Liste dieser Beatmap-Pakete in ihrem alten/originalen Zustand.
 
 ## Skill
 
@@ -22,7 +22,7 @@ Es ist jedoch erwähnenswert, dass der Inhalt aller Video Game Packs, Anime Pack
 
 *Siehe auch: [Spielmodifikationen](/wiki/Game_modifier)*
 
-**Mod Introduction Medaillen** (zu Dt. Mod-Vorstellung) sind Medaillen, die beim Abschießen von [qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) Beatmaps mit der entsprechenden [Spielmodifikation (Mod)](/wiki/Game_modifier) überreicht werden. Diese Medaillen sollen neue Spieler dazu ermutigen, jede Mod auszuprobieren und zu entdecken, was das Spiel zu bieten hat. Bedenke jedoch, dass wenn Spieler mit mehreren Spielmodifikationen zur gleichen Zeit spielen, der Spieler **nicht** berechtigt ist, *irgendeine* der Medaillen für die Spielmodifikationen für dieses Spiel zu gewinnen.
+**Mod Introduction Medaillen** (zu Dt. Mod-Vorstellung) sind Medaillen, die beim Abschließen von [qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) Beatmaps mit der entsprechenden [Spielmodifikation (Mod)](/wiki/Game_modifier) überreicht werden. Diese Medaillen sollen neue Spieler dazu ermutigen, jede Mod auszuprobieren und zu entdecken, was das Spiel zu bieten hat. Bedenke jedoch, dass wenn Spieler mit mehreren Spielmodifikationen zur gleichen Zeit spielen, der Spieler **nicht** berechtigt ist, *irgendeine* der Medaillen für die Spielmodifikationen für dieses Spiel zu gewinnen.
 
 Alle Mod Introduction Medaillen können in jedem [Spielmodus](/wiki/Game_mode) freigeschaltet werden, sofern nicht anders angegeben.
 
