@@ -197,7 +197,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_TR] [Burak](https://osu.ppy.sh/users/13213075) | Turki |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Korea |
-| ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | Sedikit Jepang, sedikit Jerman |
 
 #### osu!catch
 

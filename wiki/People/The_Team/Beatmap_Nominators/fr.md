@@ -197,7 +197,6 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | :-- | :-- |
 | ![][flag_TR] [Burak](https://osu.ppy.sh/users/13213075) | Turc |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Coréen |
-| ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | Un peu de Japonais, un peu de Allemand |
 
 #### osu!catch
 

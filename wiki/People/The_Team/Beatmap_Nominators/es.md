@@ -196,7 +196,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | :-- | :-- |
 | ![][flag_TR] [Burak](https://osu.ppy.sh/users/13213075) | Turco |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Coreano |
-| ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | Algo de japonés, algo de alemán |
 
 #### osu!catch
 

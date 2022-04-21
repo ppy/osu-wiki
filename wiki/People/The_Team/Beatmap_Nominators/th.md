@@ -197,7 +197,6 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | :-- | :-- |
 | ![][flag_TR] [Burak](https://osu.ppy.sh/users/13213075) | ตุรกี |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | เกาหลี |
-| ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | ญี่ปุ่น บ้าง, เยอรมัน บ้าง |
 
 #### osu!catch
 

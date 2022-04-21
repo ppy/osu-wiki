@@ -192,7 +192,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | :-- | :-- |
 | ![][flag_TR] [Burak](https://osu.ppy.sh/users/13213075) | 土耳其语 |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | 韩语 |
-| ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | 部分日语，部分德语 |
 
 #### osu!catch
 

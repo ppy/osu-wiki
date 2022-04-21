@@ -197,7 +197,6 @@ tags:
 | :-- | :-- |
 | ![][flag_TR] [Burak](https://osu.ppy.sh/users/13213075) | Турецкий |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Корейский |
-| ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | Частично японский, частично немецкий |
 
 #### osu!catch
 

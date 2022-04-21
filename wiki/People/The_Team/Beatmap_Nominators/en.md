@@ -195,7 +195,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_TR] [Burak](https://osu.ppy.sh/users/13213075) | Turkish |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Korean |
-| ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | Some Japanese, some German |
 
 #### osu!catch
 
