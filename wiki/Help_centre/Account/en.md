@@ -49,9 +49,7 @@ Refer to *[Account Restrictions](/wiki/Help_centre/Account_restrictions)* for mo
 
 Tournament bans are as the name describes - a ban from participation in all officially supported tournaments.
 
-A user may receive a tournament ban for deliberately breaking the osu! community rules during tournament play, depending on the severity of the offence. Examples of such bad behaviour include attempting to gain an unfair advantage in an officially supported tournament by any means, being abusive to anyone involved in a tournament or being deliberately disruptive to the running of a tournament.
-
-Most tournament bans have a set duration, anywhere from 3 months to a year or more. Some bans may be permanent. Regardless of the duration of the ban, all tournament bans are **final** and cannot be appealed like restrictions can.
+Refer to the [Tournament bans](/wiki/Help_centre/Tournament_bans) article for more information on the topic.
 
 ## Sign-in
 

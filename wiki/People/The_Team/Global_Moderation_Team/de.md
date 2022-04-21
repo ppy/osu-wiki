@@ -53,7 +53,7 @@ Generell wird das Team Menschen über mehrere Wochen oder Monate hinweg beobacht
 
 *Tipp: Alle GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.*
 
-Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet alle Teammitglieder auf. Zusätzlich zu den unten genannten Bereichen nehmen alle Mitglieder des GMTs teil an der [Bewertung des visuellen und auditiven Inhalts in Beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed)<!-- TODO: add link as soon as German article is available -->.
+Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet alle Teammitglieder auf. Zusätzlich zu den unten genannten Bereichen nehmen alle Mitglieder des GMTs teil an der [Bewertung des visuellen und auditiven Inhalts in Beatmaps](/wiki/Rules/Visual_Content_Considerations#dein-bild-bewerten-lassen).
 
 | Name | Zusätzliche Sprachen | Schwerpunktgebiet |
 | :-- | :-- | :-- |

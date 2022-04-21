@@ -17,7 +17,7 @@ osu! มีบัญชีทวิตเตอร์หลายบัญชี
 | :-: | :-: | :-- |
 | ![รูปโปรไฟล์ osu!](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | แหล่งข่าวและประกาศอย่างเป็นทางการของ osu! |
 | ![รูปโปรไฟล์ BanchoBoat](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | มุกตลกคลายเครียดเมื่อมีอะไรผิดพลาดไป |
-| ![รูปโปรไฟล์ NAT](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | ข่าวสาร, ประกาศ และแบบสำรวจชุมชนสั้นๆโดย [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (ไม่ได้ดูแลโดย [ทีมงาน osu!](/wiki/People/The_Team#the-team)) |
+| ![รูปโปรไฟล์ NAT](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | ข่าวสาร, ประกาศ และแบบสำรวจชุมชนสั้นๆโดย [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (ไม่ได้ดูแลโดย [ทีมงาน osu!](/wiki/People/The_Team)) |
 
 ## ส่วนตัว
 

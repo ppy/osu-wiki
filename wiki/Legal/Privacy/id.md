@@ -62,7 +62,7 @@ Tujuan utama kami dalam menerapkan sistem ini adalah untuk mewujudkan lingkungan
 
 Pada saat Anda menyelesaikan sebuah sesi permainan (baik Anda berhasil ataupun gagal), rincian permainan Anda akan secara otomatis dikirimkan ke dalam server kami. Adapun skor yang dikirimkan akan mencakup data tayangan ulang dari permainan Anda, yang dapat ditampilkan secara publik pada Papan Peringkat Global dan Profil Pengguna Anda serta tidak dapat dihapus atau dimodifikasi.
 
-### *Anti-cheat*
+### Anti-cheat
 
 osu! mengandung kode *executable* khusus yang digunakan untuk mendeteksi penggunaan perangkat lunak illegal (*cheat*). Tujuan dari penerapan sistem *anti-cheat* ini adalah untuk menjaga agar lingkungan permainan kami dapat bersifat adil dan kompetitif bagi semua, namun tanpa memengaruhi performa permainan atau privasi para penggunanya.
 
@@ -102,7 +102,7 @@ Anda memiliki hak untuk dapat menghapus akun Anda dari layanan kami. Harap diper
 
 Kami menerapkan kebijakan satu akun per pengguna (*one-account-per-user*) yang ketat untuk menjaga permainan kami tetap adil. Oleh karenanya, setelah akun Anda dihapus, Anda tidak akan dapat kembali lagi ke layanan kami. Untuk menegakkan kebijakan ini, kami akan tetap menyimpan kode *string* pengenal milik akun Anda yang sebagaimana yang tertera pada "Informasi yang kami kumpulkan" bahkan setelah akun Anda dihapus. Layanan penghapusan akun ini sendiri kami tawarkan sebagai suatu [bentuk kepatuhan terhadap undang-undang GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/) yang wajib kami ikuti. Meskipun demikian, Anda tidak perlu khawatir karena seluruh informasi dalam proses ini akan di-*hash* secara satu arah dan tidak akan dapat digunakan untuk mengidentifikasi Anda di luar osu! atau di luar konteks penegakan kebijakan ini.
 
-## *Cookie*
+## Cookie
 
 Layaknya berbagai layanan internet lain pada umumnya, layanan kami juga menggunakan *cookie*. Kami hanya akan menggunakan *cookie* milik Anda untuk mempertahankan status sesi dan kredensial login pada perangkat-perangkat aktif yang Anda miliki. Apabila Anda tidak suka dengan sistem *cookie*, mohon untuk tidak menggunakan layanan kami.
 

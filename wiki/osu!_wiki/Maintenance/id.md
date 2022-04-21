@@ -14,7 +14,7 @@ Pengelola melakukan tinjauan akhir *pull request* dan menggabungkannya. Jika kam
 
 ## Detail teknis
 
-### *Issue Tracker*
+### Issue Tracker
 
 [*Issue tracker*](https://github.com/ppy/osu-wiki/issues) osu! wiki berisi ide dan permintaan untuk kemungkinan perbaikan, baik untuk artikel itu sendiri maupun bagian situs web yang terkait dengan wiki. Bukalah sebuah *issue* jika kamu memiliki permintaan fitur, atau jika kamu menemukan kesalahan pada salah satu halaman. Harap diperhatikan bahwa **ini hanya terbatas pada osu! wiki**—jika kamu memerlukan bantuan dengan proyek resmi lain yang terkait dengan osu!, gunakan *issue tracker* mereka sendiri:
 
@@ -22,7 +22,7 @@ Pengelola melakukan tinjauan akhir *pull request* dan menggabungkannya. Jika kam
 - [Situs web osu!](https://github.com/ppy/osu-web/)
 - [osu!(stable)](https://github.com/ppy/osu-stable-issues)
 
-#### Label *issue*
+#### Label issue
 
 Di GitHub, pull request dan *issue* dapat ditandai dan diklasifikasikan dengan menggunakan [label](https://github.com/ppy/osu-wiki/labels), yang menunjukkan aspek berbeda dari pull request atau *issue*. Label bersifat informasional, ditetapkan oleh pengelola wiki, dan biasanya cukup jelas. Meskipun tidak memerlukan tindakan dari sudut pandang pengguna, label merah berfungsi sebagai pengingat atau ajakan bertindak untuk pengelola lainnya:
 
@@ -41,7 +41,7 @@ Menurut [[RC]], ini dilarang.
 
 Saat menambahkan pengalihan untuk artikel baru atau yang sudah ada, ingatlah bahwa pengalihan harus ringkas dan dirancang untuk penggunaan sebenarnya.
 
-### *CI check*
+### CI check
 
 Repositori osu! wiki menggunakan [*continuous integration*](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) untuk secara otomatis memeriksa berbagai kesalahan umum dalam *pull request* yang masuk. Daftar pemeriksaan dikonfigurasi dalam berkas [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
 
