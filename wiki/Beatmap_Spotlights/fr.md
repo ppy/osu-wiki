@@ -18,7 +18,7 @@ Le **Beatmap Spotlights** (également connu sous le nom de *Spotlights* ou *Rank
 
 **L'itération actuelle de ce programme est toujours en cours de développement et de nombreuses fonctionnalités sont encore en attente de mise en œuvre.** Les spécificités de ce système, telles que les récompenses, les classements saisonniers ou les caractéristiques de jeu, peuvent changer à tout moment.
 
-La saison actuelle est celle du hiver 2022.
+La saison actuelle est celle de l'hiver 2022.
 
 ## Organisation
 
