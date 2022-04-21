@@ -58,6 +58,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!catch World Cup 2019](CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_CL] Chile |
 | [osu!catch World Cup 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_US] United States |
 | [osu!catch World Cup 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ![][flag_KR] South Korea | ![][flag_HK] Hong Kong | ![][flag_US] United States |
+| [osu!catch World Cup 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | *TBD* | *TBD*  | *TBD* |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 

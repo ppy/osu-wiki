@@ -41,5 +41,5 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [Permintaan data](/wiki/Legal/Privacy#pengontrol-data) dan masalah privasi.
+- [Permintaan data](/wiki/Legal/Privacy#pengelola-data) dan masalah privasi.
 - [Permintaan penghapusan akun](/wiki/Legal/Privacy#hak-dan-kendali-anda) secara **permanen**.

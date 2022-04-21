@@ -48,8 +48,8 @@ I Global Moderation Team sono responsabili del benessere della chat/forum e si p
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filippino | Moderazione della chat, Moderazione del forum, Supporto Tecnico, Moderazione della Beatmap |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francese | Moderazione della chat |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Tedesco | Moderazione del forum, Moderazione della Beatmap |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Presenza ufficiale della squadra |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filippino | Moderazione della chat |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Presenza ufficiale della squadra |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Tedesco | Tornei, Moderazione della Beatmap |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Francese | Moderazione della chat, Moderazione del forum, Moderazione della Beatmap |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portoghese | Moderazione della chat |
