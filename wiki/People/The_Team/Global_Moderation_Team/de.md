@@ -197,4 +197,3 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 [flag_TR]: /wiki/shared/flag/TR.gif "Türkei"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"
-[flag___]: /wiki/shared/flag/__.gif

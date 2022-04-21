@@ -208,7 +208,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
 | ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 
 ## Sejarah

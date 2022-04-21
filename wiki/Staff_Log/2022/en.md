@@ -104,6 +104,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-03-29 Removed [Noffy](https://osu.ppy.sh/users/1541323) from **NAT**
 - 2022-03-29: Added [Noffy](https://osu.ppy.sh/users/1541323) to **osu! Alumni**
 - 2022-03-31: Added [Kasumi-sama](https://osu.ppy.sh/users/6177263) to **Project Loved Team**
+
 ### Beatmap Nominators
 
 #### Additions
@@ -154,6 +155,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-04-02: Added [Stixy](https://osu.ppy.sh/users/9000308) to **NAT**
 - 2022-04-02: Added [StarCastler](https://osu.ppy.sh/users/12402453) to **NAT**
 - 2022-04-13: Moved [Maxus](https://osu.ppy.sh/users/4335785) from **osu! Alumni** to **NAT**
+
 ### Beatmap Nominators
 
 #### Additions
@@ -162,12 +164,14 @@ Abbreviations for user groups are used throughout this log:
 - 2022-04-09: Added [FLeVI](https://osu.ppy.sh/users/12519616) to **Probationary BN**
 - 2022-04-10: Added [neonat](https://osu.ppy.sh/users/1561995) to **Probationary BN**
 - 2022-04-15: Added [Kim_GodSSI](https://osu.ppy.sh/users/2218047) to **Probationary BN**
+
 #### Moves
 
 - 2022-04-06: Moved [Len](https://osu.ppy.sh/users/1686145) from **Probationary BN** to **BN**
 - 2022-04-10: Moved [Cellina](https://osu.ppy.sh/users/2490770) from **Probationary BN** to **BN**
 - 2022-04-12: Moved [Chromoxx](https://osu.ppy.sh/users/1881639) from **Probationary BN** to  **BN**
 - 2022-04-14: Moved [secXcscX](https://osu.ppy.sh/users/13543418) from **Probationary BN** to **BN**
+
 #### Removals
 
 - 2022-04-01: Removed [Sanyi](https://osu.ppy.sh/users/7496029) from **BN**
@@ -181,4 +185,4 @@ Abbreviations for user groups are used throughout this log:
 - 2022-04-10: Removed [Mniam](https://osu.ppy.sh/users/6050530) from **BN**
 - 2022-04-13: Removed [Maxus](https://osu.ppy.sh/users/4335785) from **BN**
 
-<!-- last updated @1930 on april 15, 2022 with the addition of Kim_GodSSI into the BN --->
+<!-- last updated @1930 on april 15, 2022 with the addition of Kim_GodSSI into the BN -->

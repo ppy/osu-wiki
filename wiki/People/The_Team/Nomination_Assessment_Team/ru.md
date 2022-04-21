@@ -54,12 +54,12 @@ NAT самостоятельно отслеживает появление но�
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Кантонский диалект, китайский | Аттестация номинаторов |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Китайский | Аттестация номинаторов |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Бенгальский, частично арабский | Аттестация номинаторов, организация, модерация, обратная связь |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation, communication | 
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation, communication |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Шведский | Организация, обратная связь |
-| ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluation | 
+| ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluation |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Организация |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  | Аттестация номинаторов |
-| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian | Evaluation | 
+| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian | Evaluation |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Аттестация номинаторов |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Испанский, французский | Аттестация номинаторов |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Нидерландский | Аттестация номинаторов |

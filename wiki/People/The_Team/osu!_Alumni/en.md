@@ -246,8 +246,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | osu!academy Founder, GMT |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
-
-<!--- last updated with the addition of Noffy to the alumni, and the removal of Maxus from the alumni to the NAT---!>
+<!-- last updated with the addition of Noffy to the alumni, and the removal of Maxus from the alumni to the NAT -->
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
