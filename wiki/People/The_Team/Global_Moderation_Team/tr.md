@@ -99,8 +99,8 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Portekizce, İspanyolca | Sohbet moderasyonu |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Almanca | Mapping/modding topluluk moderasyonu |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Almanca, Sırpça | Sohbet moderasyonu, mapping/modding topluluk moderasyonu |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipince | Sohbet moderasyonu |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Almanca | Turnuva yönetimi |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Fransızca, biraz İspanyolca | Sohbet moderasyonu |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portekizce | Sohbet moderasyonu |

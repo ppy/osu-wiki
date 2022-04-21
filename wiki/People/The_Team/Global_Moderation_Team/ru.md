@@ -103,8 +103,8 @@ tags:
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Португальский, испанский | Модерация чата |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Немецкий | Модерация маппинг-сообщества |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Немецкий, сербский | Модерация чата, модерация маппинг-сообщества |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Официальное представление команды |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Филиппинский | Модерация чата |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Официальное представление команды |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Немецкий | Турниры |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Французский, частично испанский | Модерация чата |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Португальский | Модерация чата |

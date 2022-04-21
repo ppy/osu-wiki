@@ -98,8 +98,8 @@ tags:
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | ポルトガル語、スペイン語 | チャットモデレーション |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | ドイツ語 | Mapping/modding コミュニティ モデレーション |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | ドイツ語、セルビア語 | チャットモデレーション、mapping/modding コミュニティ モデレーション |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | オフィシャルチームプレゼンス |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | フィリピン語 | チャットモデレーション |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | オフィシャルチームプレゼンス |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | ドイツ語 | トーナメント運営 |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | フランス語、部分的なスペイン語 | チャットモデレーション |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | ポルトガル語 | チャットモデレーション |

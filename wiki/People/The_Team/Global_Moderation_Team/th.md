@@ -99,8 +99,8 @@ tags:
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | โปรตุเกส, สเปน | ผู้ดูแลแชท |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | เยอรมัน | ผู้ดูแลชุมชนการแมป/การ mod |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | เยอรมัน, เซอร์เบีย | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | ทีมอย่างเป็นทางการ |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | ฟิลิปปินส์ | ผู้ดูแลแชท |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | ทีมอย่างเป็นทางการ |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | เยอรมัน | ผู้บริหารทัวร์นาเมนต์ |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | ฝรั่งเศส, สเปน บ้าง | ผู้ดูแลแชท |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | โปรตุเกส | ผู้ดูแลแชท |

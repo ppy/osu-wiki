@@ -56,7 +56,7 @@ En général, l'équipe observe les utilisateurs pendant plusieurs semaines ou m
 
 *Note : Tous les membres de la GMT parlent l'anglais en plus des langues énumérées ci-dessous, sauf indication contraire.*
 
-La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la GMT participent à [l'examen du contenu visuel et sonore inclus dans les beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la GMT participent à [l'examen du contenu visuel et sonore inclus dans les beatmaps](/wiki/Rules/Visual_Content_Considerations#faire-évaluer-votre-image).
 
 | Nom | Langues supplémentaires | Domaine d'intérêt |
 | :-- | :-- | :-- |
@@ -103,8 +103,8 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Portugais, Espagnol | Modération du tchat |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand | Modération de la communauté modding/mapping |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, Serbe | Modération du tchat, modération de la communauté modding/mapping |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modération du tchat |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Allemand | Gestion des tournois |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Français, un peu de Espagnol | Modération du tchat |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugais | Modération du tchat |

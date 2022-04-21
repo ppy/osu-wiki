@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: f2fbb31f3b5661608a23fcd9e50931d07243ec03
+---
+
 # L'histoire d'osu! en 2016
 
 ## Janvier

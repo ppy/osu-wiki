@@ -44,7 +44,7 @@ Di osu!catch, akurasi dikalkulasi dengan mengambil jumlah hit objek tanpa spinne
 
 ![Akurasi = (50 \* jumlah 50 + 100 \* jumlah 100 + 200 \* jumlah 200 + 300 \* jumlah 300 + 300 \* jumlah MAX) / 300(jumlah 0 + jumlah 50 + jumlah 100 + jumlah 200 + jumlah 300 + jumlah MAX)](img/accuracy_mania.png "Formula akurasi untuk osu!mania")
 
-Di osu!mania, akurasi dikalkulasi mirip dengan [osu!](#-osu!).
+Di osu!mania, akurasi dikalkulasi mirip dengan [osu!](#osu!).
 
 ## Grafik performa
 

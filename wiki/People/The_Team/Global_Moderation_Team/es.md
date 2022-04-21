@@ -3,46 +3,58 @@ tags:
   - GMT
   - moderator
   - moderators
-no_native_review: true
-outdated: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
+  - chat mod
+  - moderador
+  - moderadores
 ---
 
-# Global Moderation Team
+# Equipo de Moderación Global
 
-El **Global Moderation Team** (anteriormente conocido como Administradores, Equipo de Mods Globales o “GreenBAT”), comúnmente referido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación de los jugadores y en los problemas pertinentes a lo largo del staff y la comunidad.
+*Véase también: [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
 
-## Roles y Responsabilidades
+El **Equipo de Moderación Global** (anteriormente conocido como Administradores, Equipo de Mods Globales o “GreenBAT”), comúnmente referido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación de los jugadores y en los problemas pertinentes a lo largo del staff y la comunidad. Se distinguen por su titulo y su nombres de color, los cuales son de color rojo en el chat, y verde en el foro.
 
-El Global Moderation Team es responsable del bienestar del chat y del foro y se encarga de las interacciones dentro de la comunidad. Deben ser contactados si tienes alguna pregunta pertinente al aspecto de la moderación del juego, que incluye (pero no se limita a) problemas con el chat (ej. silencios o acoso) y el foro (ej. spam o comentarios inapropiados).
+**Todos los Moderadores Globales han jurado defender [el código de conducta del pacto de contribuyentes](/wiki/Contributor_Code_of_Conduct) además de las [reglas de la comunidad](/wiki/Rules).**
+
+## Roles y responsabilidades
+
+***Nota: Para denunciar a un moderador por mala conducta o que este infringiendo el el código de conducta del pacto de contribuyentes, comuníquese con el [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
+*Véase también: [Reporta mala conducta](/wiki/Reporting_bad_behaviour)*
+
+El Equipo de Moderación Global es responsable del bienestar del chat y del foro y se encarga de las interacciones dentro de la comunidad. Deben ser contactados si tienes alguna pregunta pertinente al aspecto de la moderación del juego, que incluye (pero no se limita a):
+
+- problemas con el chat (ej. silencios o acoso)
+- conducta inapropiada en el foro (ej. comentarios inapropiados)
+- la sección de discusión y comentarios de un beatmap
+- moderación del perfil (Contenido NSFW o contenido ofensivo en fotos de perfil, imagen de portada o detalles, ...)
 
 ## Convirtiéndose en un GMT
 
-Convertirse en un miembro del Global Moderation Team requiere de una cantidad notable de contribuciones. Miembros potenciales son comúnmente seleccionados por querer ayudar a otros usuarios, su actividad dentro de la comunidad y tener buen comportamiento. La habilidad de hablar otro idioma aparte del Inglés es sumamente recomendado. Los cantidatos son discutidos por el equipo para determinar su potencial como miembro del equipo.
+Convertirse en un miembro del Equipo de Moderación Global requiere de una cantidad notable de contribuciones. Miembros potenciales son comúnmente seleccionados por querer ayudar a otros usuarios, su actividad dentro de la comunidad y tener buen comportamiento. La habilidad de hablar otro idioma aparte del Inglés es sumamente recomendado. Los candidatos son discutidos por el equipo para determinar su potencial como miembro del equipo.
 
 ### Cómo ser considerado
 
-Los factores más importantes para ser considerado son el comportamiento, la actividad, entendimiento de las reglas y paciencia:
+Los factores más importantes para ser considerado son el comportamiento, la actividad, entendimiento de [las reglas](/wiki/Rules) y paciencia:
 
 1. Demostrar una buena conducta al ser educado y tratar a otros usuarios con respeto. Mantener tu cuenta libre de silencios serios o problemas es esencial.
-2. Demostrar una actividad dentro del juego, participando en el chat y/o en los foros. Reporta cualquier problema o malas conductas vía el sistema de reportes. Responde preguntas y ayuda a otros con sus problemas.
+2. Demostrar una actividad dentro del juego, participando en el chat y/o en los foros. [Reporta malas conductas](/wiki/Reporting_bad_behaviour) o cualquier problema vía el sistema de reportes. Responde preguntas y ayuda a otros con sus problemas.
 3. Tener un entendimiento adecuado de [las reglas](/wiki/Rules) y cómo son aplicadas. Es importante saber qué es aceptable en osu! y qué no lo es.
-4. Ser paciente. El GMT no añade no es espontáneo en cuanto a añadir miembros que lleven ayudando un par de días. Al GMT le toma tiempo evaluar a alguien-su personalidad, con qué pueden ayudar, su actividad, etc.
+4. Ser paciente. Los GMT no añade miembros de manera espontanea que lleven ayudando un par de días. A los GMT les toma tiempo evaluar a alguien su personalidad, con qué pueden ayudar, su actividad, etc.
 
-Generalmente el equipo observará a las personas por varias semanas para asegurarse que son una adición valiosa para el equipo. Por favor sé paciente y no te pases. Siéntete libre de preguntarle a cualquiera del GMT sobre cualquier pregunta relativa a las reglas, reportar usuarios y otros problemas.
+Generalmente el equipo observará a las personas por varias semanas para asegurarse de que son una adición valiosa para el equipo. Por favor sé paciente y no te pases. Siéntete libre de preguntarle a cualquiera del GMT sobre cualquier pregunta relativa a las reglas, reportar usuarios y otros problemas.
 
 ### Algunas cosas para no hacer
 
 1. No preguntarle continuamente al GMT sobre tu posición como un potencial candidato. El GMT no busca añadir a cualquiera que contribuya con intención de tener algo a cambio. La clave es una mentalidad altruista.
 2. No reportes cada pequeña cosa en el chat. Es una habilidad importante el saber qué vale la pena reportar y qué no.
 3. No respondas las preguntas de otras personas sin saber si la respuesta que diste es correcta o no, particularmente en los foros. Las sugerencias son bienvenidas, pero informar mal no ayuda a nadie. Si no conoces la solución de un problema, deja que otro responda y aprende de él.
-4. No sobre-hagas las cosas. El equipo busca una contribución consistente, no una cantidad super-cargada. Es conocido que esto "quema" a las personas y hace que pierdan la paciencia y compromiso. ¡Tómalo con clama!
+4. No sobre-hagas las cosas. El equipo busca una contribución consistente, no una cantidad super-cargada. Es conocido que esto "quema" a las personas y hace que pierdan la paciencia y compromiso. ¡Tómalo con calma!
 
 ## Miembros del equipo
 
-La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) lista a todos los miembros del equipo.
+*Nota: Todos los miembros del GMT hablan Inglés en adición a los idiomas listados a continuación, a menos que se especifique lo contrario.*
 
-*Nota: Todos los miembros del GMT hablan Inglés en adición a la lista a continuación, a menos que se especifique lo contrario.*
+La [página del grupo del Equipo de Moderacion Global](https://osu.ppy.sh/groups/4) lista a todos los miembros del equipo. En adición a las áreas mencionadas debajo, todos los GMT toman parte en la [revisión visual y contenido auditivo incluido en los beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 | Nombre | Idiomas adicionales | Área principal |
 | :-- | :-- | :-- |
@@ -89,8 +101,8 @@ La [página del grupo de Global Moderation Team](https://osu.ppy.sh/groups/4) li
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Portugués, español | Moderación del chat |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Alemán | Moderación de la comunidad de mapping/modding |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Alemán, serbio | Moderación del chat, moderación de la comunidad de mapping/modding |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Presencia oficial del equipo |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Moderación del chat |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Presencia oficial del equipo |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Alemán | Torneos |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Francés, algo de español | Moderación del chat |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugués | Moderación del chat |

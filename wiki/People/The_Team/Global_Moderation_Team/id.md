@@ -99,8 +99,8 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai ta
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Portugis, Spanyol | Moderasi chat |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman | Moderasi komunitas mapping/modding |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Jerman, Serbia | Moderasi chat, moderasi komunitas mapping/modding |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Anggota inti osu!team |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Tagalog | Moderasi chat |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Anggota inti osu!team |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Jerman | Manajemen turnamen |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Prancis, sedikit Spanyol | Moderasi chat |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugis | Moderasi chat |

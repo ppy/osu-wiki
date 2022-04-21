@@ -269,7 +269,7 @@ Can tüketimi ve can kazanımını hesaplamak için kullanılan sistem karmaşı
 - Spinnerı döndürürken döndürme yönünü değiştirmek spinnerın yavaşlamasına sebep olur (dakika başına çevirme, döndürme oryantasyonunu sıfırlamak için 0'a iner), ardından doğru yöne doğru dönmeye başlar. Yeniden yönlendirme sırasında dönüş ilerlemesi kaybedilmez (ancak artmaz da), ve ters dönüşte artmaya devam eder.
 - Spinnerı merkezinin etrafında döndürmemek geçerli bir dönüş **sayılmaz**.
 - Duman efekti, varsayılan oyun içi imleç izinden daha uzun süre dayanır. Önceki duman efektlerinin çok hızlı kaybolmasını önlemek için az miktarda duman efekti uygulayın.
-- [pippi](/wiki/Mascots#-pippi), osu! modunun maskotudur.
+- [pippi](/wiki/Mascots#pippi), osu! modunun maskotudur.
 - [Auto](/wiki/Game_modifier/Auto) modunda oynandığında, oyuncu adı osu! olur.
 
 ### Tarihçe

@@ -58,7 +58,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 |  | Team | Members |
 | :-: | :-: | :-- |
 | ![](img/teams/acelga.png) | Acelga | ![][flag_CL] [eldnl](https://osu.ppy.sh/users/285756), ![][flag_CL] [Aryssiel](https://osu.ppy.sh/users/2389481), ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
-| ![](img/teams/mybloodtrailsoplica.png) | My blood trail soplica | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462), ![][flag_Pl] [Mniam](https://osu.ppy.sh/users/6050530), ![][flag_PL] [Verti](https://osu.ppy.sh/users/10674528) |
+| ![](img/teams/mybloodtrailsoplica.png) | My blood trail soplica | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462), ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530), ![][flag_PL] [Verti](https://osu.ppy.sh/users/10674528) |
 | ![](img/teams/loschoripondios.png) | Los Choripondios | ![][flag_CL] [alluya69](https://osu.ppy.sh/users/2212951), ![][flag_CL] [-Kotaru-](https://osu.ppy.sh/users/9131357), ![][flag_CL] [-Naroh](https://osu.ppy.sh/users/9087831) |
 | ![](img/teams/115.png) | 115 | ![][flag_ES] [Dogma](https://osu.ppy.sh/users/4175333), ![][flag_DE] [bro gamer NR1](https://osu.ppy.sh/users/9573527), ![][flag_JP] [noob desu](https://osu.ppy.sh/users/4808804), ![][flag_US] [ChewyTarTar](https://osu.ppy.sh/users/13978275/fruits) |
 | ![](img/teams/bjirrsquad.png) | Bjirr Squad | ![][flag_ID] [Chiya--](https://osu.ppy.sh/users/7934854), ![][flag_ID] [ZYX_GAME](https://osu.ppy.sh/users/3770612), ![][flag_ID] [Zephirine](https://osu.ppy.sh/users/9629190) |
