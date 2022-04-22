@@ -40,8 +40,8 @@ The osu!taiko World Cup 2022 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910) |
-| Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548) ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Lumenite-](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910) |
+| Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548) ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_US] [Lumenite-](https://osu.ppy.sh/users/6256027), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -107,13 +107,40 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Apr 24 (Sun) 12:00 UTC | Apr 24 (Sun) 21:00 UTC+9 | Apr 24 (Sun) 21:00 UTC+9 | ² |
-| Japan | ![][flag_JP] | ![][flag_ID] | Indonesia | Apr 24 (Sun) 12:00 UTC | Apr 24 (Sun) 21:00 UTC+9 | Apr 24 (Sun) 19:00 UTC+7 | ² |
+| Japan | ![][flag_JP] | ![][flag_ID] | Indonesia | Apr 24 (Sun) 06:00 UTC | Apr 24 (Sun) 15:00 UTC+9 | Apr 24 (Sun) 13:00 UTC+7 | ² |
+| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Apr 24 (Sun) 08:00 UTC | Apr 24 (Sun) 17:00 UTC+9 | Apr 24 (Sun) 17:00 UTC+9 | ² |
 
 ¹ Losers bracket match\
 ² Potential match: final matchup depends on the results of ¹
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (117 MB)](https://drive.google.com/uc?id=1nBTRaLhiOQ7wSGNJBHbdKfu75JRZkj3c)**
+
+- NoMod
+  1. [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai (KTYN) \[KTYN//FIRE (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1744775#taiko/3568501)
+  2. [7\_7 - Meriba (X a v y) \[ONI\]](https://osu.ppy.sh/beatmapsets/1744973#taiko/3569029)
+  3. [Frums - Q.E. (HiroK) \[Mirage\]](https://osu.ppy.sh/beatmapsets/1530469#taiko/3130422)
+  4. [TJ.hangneil - Apollo (Axer) \[Nostradamus\]](https://osu.ppy.sh/beatmapsets/1739877#taiko/3556397)
+  5. [Jiiko - Wocky (Maimaing) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1744951#taiko/3568943)
+  6. [agata - AMAIWTIWNKMS (Nifty) \[TWC Ver.\]](https://osu.ppy.sh/beatmapsets/1744774#taiko/3568498)
+- Hidden
+  1. [Animals as Leaders - Monomyth (Zetera) \[Mess\]](https://osu.ppy.sh/beatmapsets/1744810#taiko/3568619)
+  2. [METAROOM - SPIRAL (woosungko) \[CONVERGENCE (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1744786#taiko/3568534)
+- Hard Rock
+  1. [Retractable - Eye of xxxx (4sbet1) \[Oni\]](https://osu.ppy.sh/beatmapsets/1383882#taiko/2858741)
+  2. [Slax - Too Much Loli (KawaiiBass) \[Go Away 260BPM\]](https://osu.ppy.sh/beatmapsets/1579730#taiko/3225784)
+- Double Time
+  1. [Mothtek - Meltdown (Remix 2022) (KawaiiBass) \[agitato\]](https://osu.ppy.sh/beatmapsets/1744995#taiko/3569182)
+  2. [Gomitaro - S4y G00dby3 (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1454482#taiko/2991949)
+- FreeMod
+  1. [YUKIYANAGI - ALERT (Megafan) \[RAVING ALL NIGHT\]](https://osu.ppy.sh/beatmapsets/1744794#taiko/3568570)
+  2. [The Flashbulb - Ninedump (Arrival) \[tasuke's Perilous\]](https://osu.ppy.sh/beatmapsets/984361#taiko/2059692)
+  3. [Marco Minnemann - Broken Orange (mangomizer) \[mango\]](https://osu.ppy.sh/beatmapsets/1642598#taiko/3433673)
+- Tiebreaker
+  1. **[onumi & Akira Complex - Ethereal Cyber Angel XV (Maimaing) \[Demon\]](https://osu.ppy.sh/beatmapsets/1744942#taiko/3568932)**
 
 ### Finals
 
@@ -267,6 +294,8 @@ The osu!taiko World Cup 2022 is run by various community members.
 ## Match results
 
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Qlbh6F3OZ0ZLnEy12eBhPcuTb32ZcsMBq25dyBePVc0/edit?rm=minimal).
 
 Saturday, April 16, 2022
 
