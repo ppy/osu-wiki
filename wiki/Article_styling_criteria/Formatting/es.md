@@ -293,6 +293,7 @@ Nombres de artista no suelen estar en cursiva. Esto significa que en las referen
 
 ```markdown
 *Blue Zenith* por xi es una canción infame de la comunidad de osu! debido a un puntaje famoso realizado por uno de los mejores jugadores en un determinado beatmap.
+```
 
 ### Énfasis y enlaces
 
