@@ -12,7 +12,7 @@ Skinning es un simple mecanismo de cambio de imágenes que osu! cargará despué
 
 Si has recorrido todos los foros de skinning y estás seguro de que no puedes encontrar *esa* skin,  entonces felicidades, osu! aun no cuenta con ella. ¡Con esto en mente, puedes tomar esta iniciativa para crear la skin de tus sueños y hacerla de manera y hacerla algo que todos los demás puedan querer!
 
-**Sin embargo, por favor, nunca solicites una skin en ningún lugar de los foros.** El incumplimiento de esta regla hará que tu hilo sea trasladado a los terrenos baldíos.
+**Sin embargo, por favor, nunca solicites una skin en ningún lugar de los foros.** El incumplimiento de esta regla hará que tu hilo sea trasladado al olvido.
 
 ### ¿Dónde puedo conseguir esta skin la cual vi a una persona jugar con ella?
 
