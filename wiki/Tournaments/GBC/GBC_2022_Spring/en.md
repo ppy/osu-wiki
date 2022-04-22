@@ -110,7 +110,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | --: | :-- | :-: | :-: |
 | 啊不对不队 | 你没对象对不队 | Apr 24 (Sun) 18:00 (UTC+8) | ³ |
 | GBC最强阵容9个Miyes | 头号倒霉蛋 | Apr 24 (Sun) 19:00 (UTC+8) | ² |
-| 金戈铁马的鲜丰水果摊 | 货拉拉拉不拉拉布拉多 | Apr 24 (Sun) 20:00 (UTC+8) | ¹ |
+| 金戈铁马的鲜丰水果摊 | 货拉拉拉不拉拉布拉多 | Apr 24 (Sun) 21:00 (UTC+8) | ¹ |
 
 ¹ Round 3 High Matches (Teams with 2-0 record)\
 ² Round 3 Mid Matches (Teams with 1-1 record)\
