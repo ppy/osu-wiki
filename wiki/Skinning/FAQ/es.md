@@ -248,7 +248,7 @@ Si deseas remover un elemento, deberás utilizar una imagen transparente en el e
 
 Hay dos maneras de hacer esto:
 
-- Desactivar e; `Hit Lighting` en las [opciones](/wiki/Client/Options).
+- Desactivar el `Hit Lighting` en las [opciones](/wiki/Client/Options).
 - Usar una imagen transparente llamada `lighting.png` en tu skin.
 
 ##### ¡Me refería a las partículas después de hacer clic!
