@@ -16,7 +16,7 @@ Si has recorrido todos los foros de skinning y estás seguro de que no puedes en
 
 ### ¿Dónde puedo conseguir esta skin la cual vi a una persona jugar con ella?
 
-En primer lugar, no preguntes esto en los foros; de lo contrario, lo más probable es que tu hilo sea trasladado a los terrenos baldíos. En segundo lugar, es mejor que le pidas a esa persona la skin que está utilizando. Puede que te la den, pero no siempre será el caso.
+En primer lugar, no preguntes esto en los foros; de lo contrario, lo más probable es que tu hilo sea trasladado al olvido. En segundo lugar, es mejor que le pidas a esa persona la skin que está utilizando. Puede que te la den, pero no siempre será el caso.
 
 ### ¿Puedo utilizar un elemento de la skin de otra persona?
 
