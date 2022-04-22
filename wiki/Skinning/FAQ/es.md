@@ -216,7 +216,7 @@ Sin embargo, la pantalla de clasificación de osu!mania es una excepción a esto
 
 ### ¿Cómo se anima un elemento?
 
-Primero, revisa los archivos listados para verificar que el archivo que desees animar pueda ser animado. Si es posible, entonces podrás comenzar la animación. Para poder hacer esto, necesitaras que cada fotograma este en imágenes separadas. Cuando cuentes con esto, nombre cada archivo, seguido de un guion (`-`), entonces una cuenta de índice (comenzando de 0). Repite esto por el resto de fotogramas.
+Primero, revisa los archivos listados para verificar que el archivo que desees animar pueda ser animado. Si es posible, entonces podrás comenzar la animación. Para poder hacer esto, necesitarás que cada fotograma este en imágenes separadas. Cuando cuentes con esto, nombre cada archivo, seguido de un guion (`-`), entonces una cuenta de índice (comenzando de 0). Repite esto por el resto de fotogramas.
 
 Por ejemplo, si estás intentando animar `scorebar-colour.png`, nombra el primer fotograma `scorebar-colour-0.png`, luego el segundo `scorebar-colour-1.png`, luego el tercero `scorebar-colour-2.png`, y repite para el resto.
 
