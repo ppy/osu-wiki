@@ -6,7 +6,7 @@ Este artículo trata de las preguntas frecuentes sobre skinning.
 
 ### ¿Qué es skinning?
 
-Skinning es un simple mecanismo de cambio de imágenes que osu! cargara después de seleccionar una skin en las opciones. Montar una skin es fácil, pero crear los archivos para esta, es un poco más difícil de lograr.
+Skinning es un simple mecanismo de cambio de imágenes que osu! cargará después de seleccionar una skin en las opciones. Montar una skin es fácil, pero crear los archivos para esta, es un poco más difícil de lograr.
 
 ### ¿Puede alguien hacer una skin de esa serie/juego?
 
