@@ -44,14 +44,14 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | :-- | :-- |
 | Host | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Staff | ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645) |
-| Mappool selector | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14095291), ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_CN] [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
-| Mappool tester | ![][flag_CN] [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_CN] [FleVI](https://osu.ppy.sh/users/12519616), ![][flag_CN] [Takeru3](https://osu.ppy.sh/users/15188014), ![][flag_CN] [_Yiiiiii](https://osu.ppy.sh/users/6066359), ![][flag_CN] [rbqq](https://osu.ppy.sh/users/13747488/mania), ![][flag_CN] [Seven_Nye](https://osu.ppy.sh/users/20886966), ![][flag_CN] [aa219040](https://osu.ppy.sh/users/11653961), ![][flag_CN] [DongDouFu](https://osu.ppy.sh/users/17621613), ![][flag_CN] [sheng_guang](https://osu.ppy.sh/users/12417981), ![][flag_CN] [sackwoman](https://osu.ppy.sh/users/21573696) |
-| Referee | ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ![][flag_CN] [\[GB\]Ceci1ia](https://osu.ppy.sh/users/28052545), ![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| Mappool selector | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14095291), ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291),![][flag_CN] [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771)  |
+| Mappool tester | ![][flag_CN] [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_CN] [FleVI](https://osu.ppy.sh/users/12519616), ![][flag_CN] [\[GB\]Takeru3](https://osu.ppy.sh/users/15188014), ![][flag_CN] [_Yiiiiii](https://osu.ppy.sh/users/6066359), ![][flag_CN] [rbqq](https://osu.ppy.sh/users/13747488/mania), ![][flag_CN] [Seven_Nye](https://osu.ppy.sh/users/20886966), ![][flag_CN] [aa219040](https://osu.ppy.sh/users/11653961), ![][flag_CN] [DongDouFu](https://osu.ppy.sh/users/17621613), ![][flag_CN] [sheng_guang](https://osu.ppy.sh/users/12417981), ![][flag_CN] [sackwoman](https://osu.ppy.sh/users/21573696) |
+| Referee | ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ![][flag_CN] [\[GB\]Ceci1ia](https://osu.ppy.sh/users/28052545), ![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334) |
 | Commentator | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291) |
 | Guest commentator | ![][flag_CN] [King Fish](https://osu.ppy.sh/users/8468203), ![][flag_CN] [Tachibana Gekka](https://osu.ppy.sh/users/4363530) |
-| Streamer | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617) |
+| Streamer | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291) |
 | Designer | ![][flag_CN] [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634), ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ![][flag_CN] [King Fish](https://osu.ppy.sh/users/8468203), ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
-| Statistician | ![][flag_CN] [Rush_FTK](https://osu.ppy.sh/users/3046856), ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| Statistician | ![][flag_CN] [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 
 ## Links
 
@@ -110,7 +110,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | --: | :-- | :-: | :-: |
 | 啊不对不队 | 你没对象对不队 | Apr 24 (Sun) 18:00 (UTC+8) | ³ |
 | GBC最强阵容9个Miyes | 头号倒霉蛋 | Apr 24 (Sun) 19:00 (UTC+8) | ² |
-| 金戈铁马的鲜丰水果摊 | 货拉拉拉不拉拉布拉多 | Apr 24 (Sun) 20:00 (UTC+8) | ¹ |
+| 金戈铁马的鲜丰水果摊 | 货拉拉拉不拉拉布拉多 | Apr 24 (Sun) 21:00 (UTC+8) | ¹ |
 
 ¹ Round 3 High Matches (Teams with 2-0 record)\
 ² Round 3 Mid Matches (Teams with 1-1 record)\
