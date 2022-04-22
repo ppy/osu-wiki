@@ -1,5 +1,8 @@
 # Formatos
 
+*Para estándares de escritura, véase: [Criterios para el estilo del artículo/Escribiendo](../Writing)*\
+*Aviso: Este artículo utiliza [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
+
 ## Locales
 
 El listado siguiente son las configuraciones locales soportadas para la wiki:
@@ -306,7 +309,7 @@ Texto enlazado aparece de un color diferente que ya le da énfasis, y por lo tan
 Sin embargo, esto no aplica si la obra referenciada no es la única parte del enlace:
 
 ```markdown
-[Voltaeyx's beatmap of *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) acumuló una popularidad considerable en 2018 debido a sus patrones exclusivos de sliders superpuestos.
+[El beatmap de Voltaeyx's *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) acumuló una popularidad considerable en 2018 debido a sus patrones exclusivos de sliders superpuestos.
 ```
 
 El tipo de construcción anterior debe usarse con moderación y no debe usarse en lugares con muchos enlaces, como tablas o listas.
