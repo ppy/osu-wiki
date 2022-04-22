@@ -312,7 +312,7 @@ El tipo de construcción anterior debe usarse con moderación y no debe usarse e
 
 ## Encabezados
 
-TODOS los encabezados deberán usar el formato de oración.
+Todos los encabezados deberán usar el formato de oración.
 
 Los encabezados deberán usar el [estilo ATX (hash)](https://github.github.com/gfm/#atx-headings) y deberán tener una línea de texto vacía antes y después del encabezado. El título del encabezado es una excepción cuando está en la primera línea. Si este es el caso, solo debe haber una línea de texto vacía después del título del encabezado. 
 
