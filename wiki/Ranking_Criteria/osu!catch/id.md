@@ -13,7 +13,7 @@ Keseluruhan aturan dan pedoman yang berlaku untuk setiap jenis kesulitan osu!cat
 #### Peraturan
 
 - **Beatmap secara teoritis dapat diambil SS.** Ini berarti wajib untuk menangkap semua [fruit](/wiki/Hit_object/Fruit), [drop](/wiki/Hit_object/Juice_stream#drop) dan [droplet](/wiki/Hit_object/Juice_stream#droplet).
-- **Setiap beatmap wajib menggunakan setidaknya dua kustom [warna kombo](/wiki/Glossary/Combo_colour) yang berbeda, kecuali dipaksakan skin default.** Warna kombo tidak boleh berbaur dengan background/storyboard/video dari beatmap dalam hal apa pun. Ini agar objek yang terkena selalu terlihat oleh pemain dan warna kombo skin kustom tidak menyatu dengan background secara tidak sengaja.
+- **Setiap beatmap wajib menggunakan setidaknya dua kustom [warna kombo](/wiki/Beatmapping/Combo_colour) yang berbeda, kecuali dipaksakan skin default.** Warna kombo tidak boleh berbaur dengan background/storyboard/video dari beatmap dalam hal apa pun. Ini agar objek yang terkena selalu terlihat oleh pemain dan warna kombo skin kustom tidak menyatu dengan background secara tidak sengaja.
 - **Jangan gunakan keysound tanpa dukungan hitnormal.** Jika suara berpadu sempurna dengan lagu, umpan balik untuk memukul note akan minimal.
 
 #### Pedoman
@@ -27,8 +27,8 @@ Keseluruhan aturan dan pedoman yang berlaku untuk setiap jenis kesulitan osu!cat
   - Jika sebuah kesulitan menggunakan Approach Rate yang lebih rendah dari satu atau lebih kesulitan di tingkat kesulitan di bawahnya, maka Approach Rate harus sama dengan nilai Overall Difficulty tertinggi pada tingkat kesulitan sebelumnya.
 - **Slider tick rate harus diatur sesuai dengan lagu.** Untuk contoh jika lagu menggunakan snapping 1/3, tick rate 2 atau 4 tidak akan cocok.
 - **Gunakan slider tick rate yang sama di setiap kesulitan** karena ini bagian dari musik tanpa dijadikan map. Namun, kesulitan yang lebih rendah dapat menggunakan tick rate yang lebih rendah untuk mengurangi persyaratan akurasi untuk pemain baru, asalkan mereka masih mengikuti irama lagu. Menggunakan murni tick rate yang tinggi untuk meningkatkan skor/kombo/tingkat kesulitan adalah tidak masuk akal.
-- **Hindari menggunakan [warna kombo](/wiki/Glossary/Combo_colour) dengan luminositas ~50 atau lebih rendah.** Warna gelap memengaruhi keterbacaan [fruit](/wiki/Hit_object/Fruit) dengan latar belakang redup.
-- **Hindari menggunakan [warna kombo](/wiki/Glossary/Combo_colour) dengan luminositas ~220 atau lebih tinggi jika waktu Kiai digunakan.** Warna terang menciptakan dorongan kecerahan selama waktu Kiai, yang bisa tidak menyenangkan bagi mata.
+- **Hindari menggunakan [warna kombo](/wiki/Beatmapping/Combo_colour) dengan luminositas ~50 atau lebih rendah.** Warna gelap memengaruhi keterbacaan [fruit](/wiki/Hit_object/Fruit) dengan latar belakang redup.
+- **Hindari menggunakan [warna kombo](/wiki/Beatmapping/Combo_colour) dengan luminositas ~220 atau lebih tinggi jika waktu Kiai digunakan.** Warna terang menciptakan dorongan kecerahan selama waktu Kiai, yang bisa tidak menyenangkan bagi mata.
 
 ### Skinning
 
