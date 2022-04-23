@@ -25,7 +25,6 @@ The osu! panel was first announced to the public through the [November 2021 *Per
 - ![][flag_AU] [molneya](https://osu.ppy.sh/users/8945180)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 
-
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
