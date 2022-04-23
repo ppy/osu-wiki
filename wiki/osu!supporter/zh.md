@@ -62,7 +62,7 @@ osu! 支持者标签可以在 [osu! 支持者商店页面](https://osu.ppy.sh/st
 
 ### 一次免费的改名
 
-*注意：关于可向账号管理团队请求的免费细微修改，请参见：[帮助中心/我可以修改用户名么？](/wiki/Help_centre/Account#用户名更改)*
+*注意：关于可向账号管理团队请求的免费细微修改，请参见：[帮助中心/账号 § 我可以修改用户名么？](/wiki/Help_centre/Account#用户名更改)*
 
 在[通常条件](/wiki/Help_centre/Account#用户名更改)下，首次获得支持者标签后可以免费获得一次改名机会。
 
@@ -105,7 +105,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 | `welcome.wav` | 游戏启动时播放的 "welcome to osu!" 音效 |
 | `seeya.wav` | 游戏关闭时播放的 "see ya next time" 音效 |
 
-获取更多信息，请参见 [皮肤/外观界面 - 主菜单](/wiki/Skinning/Interface#main-menu) 和 [皮肤/皮肤音效 - 主菜单](/wiki/Skinning/Sounds#main-menu)。
+获取更多信息，请参见 [皮肤/外观界面 § 主菜单](/wiki/Skinning/Interface#main-menu) 和 [皮肤/皮肤音效 § 主菜单](/wiki/Skinning/Sounds#main-menu)。
 
 ### 额外搜索
 
