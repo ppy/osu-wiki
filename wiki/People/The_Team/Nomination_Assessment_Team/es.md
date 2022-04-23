@@ -53,7 +53,6 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluación |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chino | Evaluación |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalí, algo de árabe | Evaluación, estructural, moderación, comunicación |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio | Evaluación, comunicación |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estructural, comunicación |
 | ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluación |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estructural |
@@ -85,6 +84,7 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chino | Evaluación |
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio | Evaluación, comunicación |
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Español, portugués, gallego, italiano, japonés | Evaluación |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluación |
 
