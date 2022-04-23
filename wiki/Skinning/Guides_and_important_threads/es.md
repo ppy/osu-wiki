@@ -21,7 +21,7 @@ Lista de guías e hilos importantes, creados por la comunidad.
 - [Plantilla para la skin de osu! default](https://osu.ppy.sh/community/forums/topics/129191) por [peppy](https://osu.ppy.sh/users/2)
 - [Comprobador de skins](https://osu.ppy.sh/community/forums/topics/617168) por [Roan](https://osu.ppy.sh/users/8214639)
 - [Reglas del foro de skinning](https://osu.ppy.sh/community/forums/topics/318193)
-- [Soporte para Skinning ](https://osu.ppy.sh/community/forums/topics/51694) por [MLGnom](https://osu.ppy.sh/users/46620)
+- [Soporte para Skinning](https://osu.ppy.sh/community/forums/topics/51694) por [MLGnom](https://osu.ppy.sh/users/46620)
 
 ## Colecciones
 
