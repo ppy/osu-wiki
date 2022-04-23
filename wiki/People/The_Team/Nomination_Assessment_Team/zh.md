@@ -46,7 +46,6 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 | 评估 |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | 汉语 | 评估 |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | 孟加拉语，部分阿拉伯语 | 评估，构造，管理，沟通 |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 | 评估，沟通 |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 构造，沟通 |
 | ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | 评估 |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | 构造 |
@@ -78,6 +77,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | 汉语 | 评估 |
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 | 评估，沟通 |
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | 西班牙语，葡萄牙语，加利西亚语，意大利语，日语 | 评估 |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 评估 |
 
