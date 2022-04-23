@@ -449,7 +449,7 @@ Sonntag, 9. November 2014:
 4. Am meisten gewonnene Partien.
 5. Hat ein größeres `{(Anzahl an gewonnenen Maps) - (Anzahl an verlorenen Maps)}`.
 6. Am meisten gewonnene Maps.
-7. Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
+7. Hat ein größeres `∑{(gesamte Ergebnisdifferenz) / (maximales Ergebnis)}`.
 8. Gewinner von Rückspielen.
 9. Die besten 2 Teams in der Gruppe kommen in die Doppeleleminierungsetappen.
 10. Die folgenden Etappen sind Doppeleleminierungsetappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe absteigt.
@@ -471,7 +471,7 @@ Sonntag, 9. November 2014:
 ### Partieanweisungen
 
 1. Ein Schiedsrichter wird 15 Minuten im Vorhinein ein Multiplayer-Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
-2. Der Raum wird verschlossen. Das Passwort und die Einladung zum Raum werden beiden Kaptitänen so früh wie möglich gesendet.
+2. Der Raum wird verschlossen. Das Passwort und die Einladung zum Raum werden beiden Kapitänen so früh wie möglich gesendet.
 3. Raumeinstellungen sind osu!, Team-Vs., Win Condition: 'Score'. Raumname muss "OWC 2014: TeamBlue vs TeamRed" lauten.
 4. Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team dementsprechend dann das rote Team.
 5. Den Spielern steht es frei 2 Beatmaps für die Aufwärmphase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten.
