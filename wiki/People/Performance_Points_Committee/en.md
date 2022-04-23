@@ -9,6 +9,8 @@ The **Performance Points Committee** is a panel of well-versed players and devel
 
 The osu! panel was first announced to the public through the [November 2021 *Performance Points & Star Rating Updates* news post](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) in response to a [community survey](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) held earlier that year.
 
+osu!mania's panel was formed on the 22nd April 2022 in anticipation of a surge in active development effort, starting with [a change that fixed critical issues in osu!mania's strain skill](https://github.com/ppy/osu/pull/17913).
+
 ## Members
 
 ### osu!
