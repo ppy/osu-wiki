@@ -21,7 +21,7 @@ The osu! panel was first announced to the public through the [November 2021 *Per
 ### osu!mania
 
 - ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891)
-- ![][flag_ES] [Evening](https://osu.ppy.sh/users/2193881)
+- ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881)
 - ![][flag_AU] [molneya](https://osu.ppy.sh/users/8945180)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
 
