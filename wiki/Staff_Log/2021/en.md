@@ -548,6 +548,7 @@ Abbreviations for user groups are used throughout this log:
 - 2021-11-20: Removed [AJT](https://osu.ppy.sh/users/3181083) from **BN**
 - 2021-11-20: Removed [Benita](https://osu.ppy.sh/users/4023183) from **BN**
 - 2021-11-24: Removed [Quenlla](https://osu.ppy.sh/users/4725379) from **BN**
+- 2021-11-27: Removed [gevbiivi5](https://osu.ppy.sh/users/7140680) from **Probationary BN**
 
 ## December
 
