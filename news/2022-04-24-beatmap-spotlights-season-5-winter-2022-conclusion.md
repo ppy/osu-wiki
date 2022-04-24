@@ -8,13 +8,13 @@ The Winter 2022 season of the Beatmap Spotlights has come to an end⁠ — come 
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-By far the most played Beatmap Spotlights yet, over **3300** players have battled in the Winter 2022 playlists for fun and glory. To keep things fresh, we've also decided to try something new that we've titled as the Players' Pick. Read on below for more details.
+By far the most played Beatmap Spotlights yet, over **3300** players have battled in the Winter 2022 playlists for fun and glory. To keep things fresh, we've also decided to try something new that we've titled the Players' Pick. Read on below for more details.
 
 ## Beatmap of the Season — Players' Pick
 
 Previously, we've held a *Beatmap of the Season* competition where the [Spotlights Curators](/wiki/Beatmap_Spotlights#curators) would vote for their favourite entries from the season's mappool. This time however, we'd like to expand further and let the players select their most-loved beatmaps too!
 
-The results of both the curator and player pick will be announced at the the launch of the Spring 2022 season of the Beatmap Spotlights, and the creators of winning entries will be awarded with **three months of osu!supporter** each. If you'd like to make your opinions known on the best maps of the season, this is the place to do it!
+The results of both the curator and player picks will be announced at the the launch of the Spring 2022 season of the Beatmap Spotlights, and the creators of winning entries will be awarded with **3 months of osu!supporter** each. If you'd like to make your opinions known on the best maps of the season, this is the place to do it!
 
 Check out each respective game mode's contest and vote today:
 
@@ -23,7 +23,7 @@ Check out each respective game mode's contest and vote today:
 - [osu!catch](https://osu.ppy.sh/community/contests/145)
 - [osu!mania](https://osu.ppy.sh/community/contests/146)
 
-The voting will remain open for **7 days** from the date of the post, so be sure to vote in time!
+The voting will remain open for **7 days** from the date of this news post, so be sure to vote in time!
 
 ## Beatmap Spotlights final rankings
 
@@ -84,7 +84,7 @@ The voting will remain open for **7 days** from the date of the post, so be sure
 
 ---
 
-Join us over at the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself to a role to keep up with Spotlights changes and announcements, or visit the [osu!dev Discord server](https://discord.gg/ppy) to help us push this project even further!
+Join us over at the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself a role to keep up with Spotlights changes and announcements, or visit the [osu!dev Discord server](https://discord.gg/ppy) to help us push this project even further!
 
 You can find out more about the Beatmap Spotlights [on the osu! wiki](/wiki/Beatmap_Spotlights).
 
