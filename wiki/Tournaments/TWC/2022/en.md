@@ -283,6 +283,8 @@ The osu!taiko World Cup 2022 was run by various community members.
 
 ### Grand Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1e6UBnSyrKsoVqGwE3e_Q-uRDJvEAjmFBGxUilmeHIs8/edit?rm=minimal).
+
 Saturday, April 23, 2022
 
 | Team A |  |  | Team B | Match link |
