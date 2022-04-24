@@ -38,7 +38,7 @@ The PERAK osu! Tournament 2022 was run by various Indonesian osu! community memb
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) |
-| Supervisor | ![][flag_ID] [Bisma404](https://osu.ppy.sh/users/10018405), ![][flag_ID] [Jevlyn](https://osu.ppy.sh/users/28585681) |
+| Supervisor | ![][flag_ID] [Bisma404](https://osu.ppy.sh/users/7171896), ![][flag_ID] [Jevlyn](https://osu.ppy.sh/users/28585681) |
 | Mappool selector | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405), ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) |
 | Playtester | ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
 | Streamer | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465) |
