@@ -29,7 +29,7 @@ The voting will remain open for **7 days** from the date of this news post, so b
 
 [Click here for the full leaderboards of every game mode!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXMzFT-9-kfXPHj6tQ_wgqrhagZg4kvsfoTMp5xwpLJ-JLXqdKAZFxvInD9sSRmd_vxKQ_IM3drxHV/pubhtml#)
 
-| Rank | ![][osu!] Tier | Player | ![][osu!taiko] Tier | Player | ![][osu!catch] Tier | Player | ![][osu!mania] Tier | Player |
+| Rank | Tier | ![][osu!] Player | Tier | ![][osu!taiko] Player | Tier | ![][osu!catch] Player | Tier | ![][osu!mania] Player |
 | :-: | :-: | :-- | :-: | :-- | :-: | :-- | :-: | :-- |
 | #1 | ![][winter-2022-osu!-ri-3] | [fieryrage](https://osu.ppy.sh/users/3533958) | ![][winter-2022-taiko-ri-3] | [uone](https://osu.ppy.sh/users/5321719) | ![][winter-2022-ctb-ri-3] | [Predominador](https://osu.ppy.sh/users/4568537) | ![][winter-2022-mania-ri-3] | [grillroasted](https://osu.ppy.sh/users/18271627) |
 | #2 | ![][winter-2022-osu!-ri-3] | [maliszewski](https://osu.ppy.sh/users/12408961) | ![][winter-2022-taiko-ri-2] | [sing216](https://osu.ppy.sh/users/6096445) | ![][winter-2022-ctb-ri-2] | [Nelly](https://osu.ppy.sh/users/4741164) | ![][winter-2022-mania-ri-2] | [UmmmMrMoo](https://osu.ppy.sh/users/15314355) |
