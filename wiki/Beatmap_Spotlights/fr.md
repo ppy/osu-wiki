@@ -82,7 +82,7 @@ Le projet Beatmap Spotlights est actuellement organisé en saisons prédéfinies
    - Chaque playlist est identifiée par une lettre.
    - Chaque playlist se compose de 2 difficultés Hard, 3 Insane et 4 Expert.
    - Pendant les 6 premières semaines, chaque playlist durera 2 semaines.
-   - Pour les 3 dernières semaines, chaque playlist durera 1 semaine au lieu de 1.
+   - Pour les 3 dernières semaines, chaque playlist durera 1 semaine au lieu de 2.
 2. Les saisons sont entièrement préparées avant de commencer.
    - Chaque beatmap est sélectionnée et verrouillée avant le début de la saison.
    - Une fois la saison commencée, le calendrier complet sera publié.
@@ -148,7 +148,7 @@ Le système de curation implique un processus de sélection par les curateurs de
 5. Pour chaque saison, 27 beatmaps au minimum doivent être sélectionnées au total.
    - Toutes les beatmaps sélectionnées doivent être classées.
    - Lors de la sélection de nouvelles beatmaps, il convient de respecter la répartition entre les niveaux de difficulté.
-   - Les curateurs peuvent sélectionner plusieurs beatmaps d'un même ensemble de beatmaps.
+   - Les curateurs peuvent sélectionner plusieurs difficultés d'une même beatmap.
 6. Les beatmaps doivent être un mélange sain de contenu récent et établi.
    - Au moins 25 % des difficultés des beatmaps sélectionnées doivent avoir été classées dans les 3 derniers mois précédant le début de la saison.
 7. Les curateurs individuels ne doivent pas recommander les beatmaps auxquelles ils ont contribué lors de leur création.
