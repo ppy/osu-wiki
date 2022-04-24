@@ -4,17 +4,17 @@ title: "Beatmap Spotlights Winter 2022 Conclusion & Players' Pick Voting"
 date: 2022-04-24 16:00:00 +0000
 ---
 
-The Winter 2022 season of the Beatmap Spotlights has come to an end - come check out the top 50 for each gamemode, and vote on your favourite beatmaps from the season!
+The Winter 2022 season of the Beatmap Spotlights has come to an end⁠ — come check out the top 50 for each game mode, and vote on your favourite beatmaps from the season!
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 By far the most played Beatmap Spotlights yet, over **3300** players have battled in the Winter 2022 playlists for fun and glory. To keep things fresh, we've also decided to try something new that we've titled as the Players' Pick. Read on below for more details.
 
-## Beatmap of the Season - Players' Pick
+## Beatmap of the Season — Players' Pick
 
-Previously, we've held a *Beatmap of the Season* competition where the [Spotlights Curators](/wiki/Beatmap_Spotlights#curators) would vote for their favourite entries from season's beatmaps pool. This time however, we'd like to expand further and let the players select their most-loved beatmaps too!
+Previously, we've held a *Beatmap of the Season* competition where the [Spotlights Curators](/wiki/Beatmap_Spotlights#curators) would vote for their favourite entries from the season's mappool. This time however, we'd like to expand further and let the players select their most-loved beatmaps too!
 
-The results of both the curator and player pick will be announced at the the launch of the Spring 2022 season of the Beatmap Spotlights, and the creators of winning entries will be awarded with **three months of osu!supporter tag** each. If you'd like to make your opinions known on the best maps of the season, this is the place to do it!
+The results of both the curator and player pick will be announced at the the launch of the Spring 2022 season of the Beatmap Spotlights, and the creators of winning entries will be awarded with **three months of osu!supporter** each. If you'd like to make your opinions known on the best maps of the season, this is the place to do it!
 
 Check out each respective game mode's contest and vote today:
 
@@ -25,12 +25,14 @@ Check out each respective game mode's contest and vote today:
 
 The voting will remain open for **7 days** from the date of the post, so be sure to vote in time!
 
-## Final rankings
+## Beatmap Spotlights final rankings
+
+[Click here for the full leaderboards of every game mode!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXMzFT-9-kfXPHj6tQ_wgqrhagZg4kvsfoTMp5xwpLJ-JLXqdKAZFxvInD9sSRmd_vxKQ_IM3drxHV/pubhtml#)
 
 ### osu!
 
-| Placement | User | Tier |
-| --: | :-- | :-: |
+| Rank | Player | Tier |
+| :-: | :-- | :-: |
 | #1 | [fieryrage](https://osu.ppy.sh/users/3533958) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-osu!-ri-3.png "Rhythm Incarnate 2") |
 | #2 | [maliszewski](https://osu.ppy.sh/users/12408961) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-osu!-ri-3.png "Rhythm Incarnate 2") |
 | #3 | [EzChock](https://osu.ppy.sh/users/9276293) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-osu!-ri-3.png "Rhythm Incarnate 2") |
@@ -84,8 +86,8 @@ The voting will remain open for **7 days** from the date of the post, so be sure
 
 ### osu!taiko
 
-| Placement | User | Tier |
-| --: | :-- | :-: |
+| Rank | Player | Tier |
+| :-: | :-- | :-: |
 | #1 | [uone](https://osu.ppy.sh/users/5321719) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-taiko-ri-3.png "Rhythm Incarnate 2") |
 | #2 | [sing216](https://osu.ppy.sh/users/6096445) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-taiko-ri-2.png "Rhythm Incarnate 1") |
 | #3 | [J a c k y](https://osu.ppy.sh/users/8011704) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-taiko-diamond-3.png "Diamond 2") |
@@ -139,8 +141,8 @@ The voting will remain open for **7 days** from the date of the post, so be sure
 
 ### osu!catch
 
-| Placement | User | Tier |
-| --: | :-- | :-: |
+| Rank | Player | Tier |
+| :-: | :-- | :-: |
 | #1 | [Predominador](https://osu.ppy.sh/users/4568537) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-ctb-ri-3.png "Rhythm Incarnate 2") |
 | #2 | [Nelly](https://osu.ppy.sh/users/4741164) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-ctb-ri-2.png "Rhythm Incarnate 1") |
 | #3 | [KitsunIvy](https://osu.ppy.sh/users/7055384) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-ctb-diamond-3.png "Diamond 2") |
@@ -194,8 +196,8 @@ The voting will remain open for **7 days** from the date of the post, so be sure
 
 ### osu!mania
 
-| Placement | User | Tier |
-| --: | :-- | :-: |
+| Rank | Player | Tier |
+| :-: | :-- | :-: |
 | #1 | [grillroasted](https://osu.ppy.sh/users/18271627) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-mania-ri-3.png "Rhythm Incarnate 2") |
 | #2 | [UmmmMrMoo](https://osu.ppy.sh/users/15314355) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-mania-ri-2.png "Rhythm Incarnate 1") |
 | #3 | [Cryolien](https://osu.ppy.sh/users/1626983) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-mania-ri-2.png "Rhythm Incarnate 1") |
@@ -247,13 +249,11 @@ The voting will remain open for **7 days** from the date of the post, so be sure
 | #49 | [hhza](https://osu.ppy.sh/users/9370133) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-mania-gold-3.png "Gold 2") |
 | #50 | [JackMFS](https://osu.ppy.sh/users/8145297) | ![](https://assets.ppy.sh/profile-badges/spotlights-2022/winter-2022-mania-gold-3.png "Gold 2") |
 
-Check the full leaderboard for every gamemode [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSXMzFT-9-kfXPHj6tQ_wgqrhagZg4kvsfoTMp5xwpLJ-JLXqdKAZFxvInD9sSRmd_vxKQ_IM3drxHV/pubhtml#).
-
 ---
 
-Join us over at [the community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself to a role to keep up with Spotlights changes and announcements or visit the [osu!dev Discord server](https://discord.gg/ppy) to help us push this project even further!
+Join us over at the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself to a role to keep up with Spotlights changes and announcements, or visit the [osu!dev Discord server](https://discord.gg/ppy) to help us push this project even further!
 
-You can find out more about [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu! wiki.
+You can find out more about the Beatmap Spotlights [on the osu! wiki](/wiki/Beatmap_Spotlights).
 
 See you soon along with the Spring Season 2022 launch!
 
