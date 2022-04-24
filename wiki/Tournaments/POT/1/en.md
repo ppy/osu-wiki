@@ -54,7 +54,7 @@ The PERAK osu! Tournament was run by various Indonesian osu! community members.
 
 ## Participants
 
-Listed below are players who qualified into the Round of 12 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 19 registered players in total.
+Listed below are players who managed to qualify into the Round of 12 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 19 registered players in total.
 
 | Seed No. | Player | Avg. Map Rank |
 | :-- | :-- | :-- |
