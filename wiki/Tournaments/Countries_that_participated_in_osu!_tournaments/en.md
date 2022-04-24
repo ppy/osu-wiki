@@ -54,15 +54,16 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_JP] Japan | 9 | 1 | 2 |
+| 1 | ![][flag_JP] Japan | 10 | 1 | 2 |
 | 2 | ![][flag_TW] Taiwan | 2 | 5 |  |
 | 3 | ![][flag_HK] Hong Kong |  | 3 | 1 |
-| 4 | ![][flag_KR] South Korea |  | 2 | 1 |
-| 5 | ![][flag_CA] Canada |  |  | 2 |
-| 5 | ![][flag_FR] France |  |  | 2 |
-| 6 | ![][flag_BR] Brazil |  |  | 1 |
-| 6 | ![][flag_CN] China |  |  | 1 |
-| 6 | ![][flag_GB] United Kingdom |  |  | 1 |
+| 3 | ![][flag_KR] South Korea |  | 3 | 1 |
+| 4 | ![][flag_CA] Canada |  |  | 2 |
+| 4 | ![][flag_FR] France |  |  | 2 |
+| 5 | ![][flag_BR] Brazil |  |  | 1 |
+| 5 | ![][flag_CN] China |  |  | 1 |
+| 5 | ![][flag_ID] Indonesia |  |  | 1 |
+| 5 | ![][flag_GB] United Kingdom |  |  | 1 |
 
 ### ![][osu!catch] osu!catch ranking
 
