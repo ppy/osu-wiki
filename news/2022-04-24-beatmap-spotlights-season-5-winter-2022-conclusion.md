@@ -17,6 +17,7 @@ We used to hold a *Beatmap of the Season* competition where the [Spotlights Cura
 The voting will be held in the contest system, the results of both curator and player pick will be announced in the Spotlights Spring Season 2022 launch newspost, the creators of winning entries will be awarded with **three months of osu!supporter tag** each.
 
 Check the respective game mode contest entries:
+
 - [osu!](https://osu.ppy.sh/community/contests/143)
 - [osu!taiko](https://osu.ppy.sh/community/contests/144)
 - [osu!catch](https://osu.ppy.sh/community/contests/145)
