@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Beatmap Spotlights Season 5 (Winter 2022) Conclusion: Vote for your favourite beatmap!"
+title: "Beatmap Spotlights Winter 2022 Conclusion & Players' Pick Voting"
 date: 2022-04-24 16:00:00 +0000
 ---
 
-Spotlights Winter Season 2022 has come to and end, check the final rankings and vote for your favourite beatmaps of the season now!
+The Winter 2022 season of the Beatmap Spotlights has come to an end - come check out the top 50 for each gamemode, and vote on your favourite beatmaps from the season!
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-This season of Beatmap Spotlights has been so far the most played one, with the number of players reaching over 3 thousands, therefore we decided to give more voice to the Spotlights community, be sure to read on below!
+By far the most played Beatmap Spotlights yet, over **3300** players have battled in the Winter 2022 playlists for fun and glory. To keep things fresh, we've also decided to try something new that we've titled as the Players' Pick. Read on below for more details.
 
-## Beatmap of the Season - Players' pick
+## Beatmap of the Season - Players' Pick
 
-We used to hold a *Beatmap of the Season* competition where the [Spotlights Curators](/wiki/Beatmap_Spotlights#curators) would vote for their favourite entries of the season's beatmaps pool. This time however, we'd like to expand further and let the players select their best-loved beatmaps too!
+Previously, we've held a *Beatmap of the Season* competition where the [Spotlights Curators](/wiki/Beatmap_Spotlights#curators) would vote for their favourite entries from season's beatmaps pool. This time however, we'd like to expand further and let the players select their most-loved beatmaps too!
 
-The voting will be held in the contest system, the results of both curator and player pick will be announced in the Spotlights Spring Season 2022 launch newspost, the creators of winning entries will be awarded with **three months of osu!supporter tag** each.
+The results of both the curator and player pick will be announced at the the launch of the Spring 2022 season of the Beatmap Spotlights, and the creators of winning entries will be awarded with **three months of osu!supporter tag** each. If you'd like to make your opinions known on the best maps of the season, this is the place to do it!
 
-Check the respective game mode contest entries:
+Check out each respective game mode's contest and vote today:
 
 - [osu!](https://osu.ppy.sh/community/contests/143)
 - [osu!taiko](https://osu.ppy.sh/community/contests/144)
