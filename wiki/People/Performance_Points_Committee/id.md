@@ -1,4 +1,5 @@
 ---
+tags:
   - pp committee
   - komite pp
 ---
