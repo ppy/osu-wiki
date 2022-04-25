@@ -35,19 +35,19 @@ The following outlines how you can get started helping others on the forum:
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
   - [Skinning](https://osu.ppy.sh/community/forums/15)
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
-- Read trough the forums pinned posts, to learn the subforum specific rules and any useful info that may be there.
+- Read trough the forums pinned posts to learn the subforum-specific rules and any useful info that may be there.
 - Use the `Mark forum as read` button on the top.
-- Follow any new threads, reading each one and helping-out when you can; you can use the unread icons to make sure you keep up.
+- Follow any new threads, reading each one and help out when you can—you can use the unread icons to make sure you keep up.
 - Read the [available guides](/wiki/Guides) to polish-up your osu! knowledge. If the guides in there don't satisfy you, then you can try contributing to them!
 
 ## Help check/mod beatmaps!
 
-osu! has the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), a dedicated team of reviewers to check if the [beatmaps](/wiki/Beatmap) are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector:
+osu! has a dedicated team of reviewers, the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), to check if submitted [beatmaps](/wiki/Beatmap) are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector:
 
 - Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) listing for any artists or songs you like and/or want to contribute to.
 - Play beatmaps in the [*Pending* or *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-and-pending) stages and leave feedback in the beatmap's discussion page.
 - Read the [Modding Guide](/wiki/Modding) and the [Ranking Criteria](/wiki/Ranking_Criteria) to know the basics of technical modding and what makes a beatmap rankable.
-- Join the `#mapping` and `#modreqs` channels on the in-game chat and either join-in on the conversation or just follow along.
+- Join the `#mapping` and `#modreqs` channels in the in-game chat and either join in on the conversation or just follow along.
 - If you have the time and dedication, make a [Modding Queue](https://osu.ppy.sh/community/forums/60) to give beatmap creators a place to request you for mods.
 
 ## Give feedback on player progress or skins!
