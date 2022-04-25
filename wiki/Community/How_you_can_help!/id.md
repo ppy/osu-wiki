@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 17eeba86a2344329aec159f1673c810a37a874b4
+---
+
 # Bagaimana kamu dapat membantu!
 
 osu! memiliki komunitas yang sangat dinamis yang terdiri dari orang-orang dari seluruh dunia. Siapa pun dapat menjadi bagian dari komunitas dengan caranya sendiri!

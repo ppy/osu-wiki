@@ -34,8 +34,8 @@ Obwohl das osu!-Wiki *wiki* im Namen trägt, erfüllt es nicht alle Kriterien de
 - Die Verbesserung bestehender und die Erstellung neuer Artikel sind erwünscht, allerdings sind Grundkenntnisse im Umgang mit [GitHub](https://github.com) erforderlich, um etwas beizutragen, was die Einstiegshürde anhebt. Das osu!-Wiki bietet jedoch einen [Beitragsleitfaden](/wiki/osu!_wiki/Contribution_guide), um neuen Benutzern den Einstieg zu erleichtern.
 - Alle Änderungen im osu!-Wiki werden moderiert und durchlaufen einen Bewertungsprozess, in dem von den Mitwirkenden erwartet wird, dass sie mit den Prüfern zusammenarbeiten und auf das Feedback eingehen.
 
-## Lizensierung
+## Lizenzierung
 
-Der Großteil von Inhalten im osu!-Wiki wird lizensiert unter [CC-BY-NC 4.0](https://github.com/ppy/osu-wiki/blob/master/LICENCE.md). Das bedeutet, dass die Materialien in einem kostenlosen Kontext verwendet werden dürfen (siehe die [Kurzzusammenfassung](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-4.0-international-(cc-by-nc-4.0))). Einige Inhalte können durch Drittanbieterlizensen abgedeckt sein, wobei in diesem Fall die Drittanbierterlizenz gegenüber der globalen Lizenz dominiert.
+Der Großteil von Inhalten im osu!-Wiki wird lizenziert unter [CC-BY-NC 4.0](https://github.com/ppy/osu-wiki/blob/master/LICENCE.md). Das bedeutet, dass die Materialien in einem kostenlosen Kontext verwendet werden dürfen (siehe die [Kurzzusammenfassung](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-4.0-international-(cc-by-nc-4.0))). Einige Inhalte können durch Drittanbieterlizenzen abgedeckt sein, wobei in diesem Fall die Drittanbieterlizenz gegenüber der globalen Lizenz dominiert.
 
 Bitte beachte, dass dies nicht die Verwendung von "osu!" oder der Marke "ppy" in jedweder Software, Ressource, Werbung oder Promotion erlaubt, da diese durch das Markenrecht geschützt sind. Falls du eine Erlaubnis für die Benutzung dieser Begriffe benötigst, [kontaktiere uns](mailto:contact@ppy.sh) bitte.

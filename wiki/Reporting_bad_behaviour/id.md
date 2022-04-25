@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 5d060ae21b4df7739919dfc468c9456bb305acf6
+---
+
 # Melaporkan perbuatan yang tidak pantas
 
 osu! memiliki [sebuah tim moderator](/wiki/People/The_Team/Global_Moderation_Team) yang secara khusus bertugas untuk menjaga lingkungan osu! dari hal-hal yang tidak diinginkan. Apabila kamu menemukan ada pihak tertentu yang dengan sengaja melanggar peraturan atau menyebarkan konten yang tidak pantas, harap laporkan hal tersebut melalui jalur-jalur laporan yang tertera di bawah ini. Apabila setelah sekian waktu laporanmu belum ditanggapi, kamu dapat mengontak para moderator yang sedang *online* secara langsung.
