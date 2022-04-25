@@ -140,11 +140,11 @@ Le système de curation implique un processus de sélection par les curateurs de
    - Les responsables des modes de jeu respectifs verrouillent les décisions et consolident la sélection après des discussions concluantes.
    - Le processus de sélection lui-même varie selon les modes de jeu et s'adapte aux besoins des membres respectifs.
 2. Les beatmaps sont sélectionnées en fonction de leur caractère unique et de leur excellence. Chaque beatmap sélectionnée doit être un exemple de qualité de contenu en termes de gameplay, de design et d'esthétique.
-3. Ces beatmaps servent de recommandations à l'ensemble de la communauté d'osu!
+3. Ces beatmaps servent de recommandations à l'ensemble de la communauté d'osu!.
 4. Pour remplir le devoir de recommander d'excellentes beatmaps à l'ensemble de la communauté, les curateurs des beatmaps doivent couvrir une répartition spécifique des difficultés Hard, Insane et Expert.
    - 6 beatmaps sélectionnées doivent se situer dans le niveau de difficulté Hard.
    - 9 beatmaps sélectionnées doivent se situer dans le niveau de difficulté Insane.
-   - 12 beatmaps sélectionnées doivent être dans le niveau de difficulté Expert.
+   - 12 beatmaps sélectionnées doivent se situer dans le niveau de difficulté Expert.
 5. Pour chaque saison, 27 beatmaps au minimum doivent être sélectionnées au total.
    - Toutes les beatmaps sélectionnées doivent être classées.
    - Lors de la sélection de nouvelles beatmaps, il convient de respecter la répartition entre les niveaux de difficulté.
