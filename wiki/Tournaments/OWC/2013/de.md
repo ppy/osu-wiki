@@ -446,7 +446,7 @@ Sonntag, 10. November 2013:
    1. Am meisten gewonnene Partien.
    2. Hat ein größeres `{(Anzahl an gewonnenen Maps) - (Anzahl an verlorenen Maps)}`.
    3. Am meisten gewonnene Maps.
-   4. Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
+   4. Hat ein größeres `∑{(gesamte Ergebnisdifferenz) / (maximales Ergebnis)}`.
    5. Gewinner von Rückspielen.
 4. Die besten 2 Teams in der Gruppe kommen in die K.-o.-Runde.
 5. Die folgenden Runden sind K.-o.-Runden. Dies bedeutet, dass der Gewinner normal in die nächste Runde kommt und das andere Team aus dem Turnier ausscheidet.
@@ -458,7 +458,7 @@ Sonntag, 10. November 2013:
 ### Partieanweisungen
 
 1. Ein Schiedsrichter wird 30 Minuten im Vorhinein ein Multiplayer-Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
-   - Der Raum wird verschlossen. Das Passwort und die Einladung zum Raum werden beiden Kaptiänen so früh wie möglich gesendet.
+   - Der Raum wird verschlossen. Das Passwort und die Einladung zum Raum werden beiden Kapitänen so früh wie möglich gesendet.
    - Raumeinstellungen sind osu!, Team-Vs., Win Condition: 'Score'. Raumname muss "osu! World Cup 2013: TeamBlue vs TeamRed" lauten.
    - Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team dementsprechend dann das rote Team.
 2. Der Schiedsrichter wird dem Raum extern beitreten und mit Hilfe des Multi-Spectator Clients die Partie verfolgen.
