@@ -1,4 +1,4 @@
-FIRST_COMMIT_HASH=$( git log master..$( git branch --show-current ) --pretty=oneline | tail -1 | awk '{ print $1 }' )
+FIRST_COMMIT_HASH=$( git log master..$( git branch --show-current ) --pretty=format:%H | tail -1 )
 LAST_COMMIT_HASH=$( git rev-parse HEAD )
 ARTICLES=$( git diff --diff-filter=d --name-only ${FIRST_COMMIT_HASH}^ ${LAST_COMMIT_HASH} "wiki/**/*.md" "news/*.md" )
 
