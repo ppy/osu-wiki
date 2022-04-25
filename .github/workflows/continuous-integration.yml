@@ -33,7 +33,7 @@ jobs:
 
           # set up sparse checkout
           git sparse-checkout init
-          git sparse-checkout set '**/*.md' '**/.remark*' '**/*.json' '**/*.yaml' '.github/scripts' 'wiki/**/*'
+          git sparse-checkout set '**/*.md' '**/.remark*' '**/*.json' '**/*.yaml' 'scripts' 'wiki/**/*'
 
           # fetch the merge commit ref
           git -c protocol.version=2 fetch --no-tags --prune --progress --depth=2 origin +${GITHUB_SHA}:refs/remotes/origin/${BRANCH}
@@ -41,7 +41,7 @@ jobs:
 
       - name: inspect binary file sizes
         shell: bash
-        run: bash .github/scripts/ci/inspect_binary_file_sizes.sh ${{ github.sha }} ${{ github.sha }}
+        run: bash scripts/ci/inspect_binary_file_sizes.sh ${{ github.sha }} ${{ github.sha }}
       - name: setup node
         uses: actions/setup-node@v1
 
@@ -49,7 +49,7 @@ jobs:
         run: npm install
 
       - name: run remark on changed files
-        run: bash .github/scripts/ci/run_remark.sh ${{ github.sha }} ${{ github.sha }}
+        run: bash scripts/ci/run_remark.sh ${{ github.sha }} ${{ github.sha }}
 
       - name: setup Python
         uses: actions/setup-python@v2
@@ -59,7 +59,7 @@ jobs:
       - name: setup and run yamllint on .yaml and .md files
         run: |
           pip install yamllint
-          python .github/scripts/ci/run_yamllint.py --config .yamllint.yaml
+          python scripts/ci/run_yamllint.py --config .yamllint.yaml
 
       - name: find broken wikilinks
         shell: bash
@@ -72,7 +72,7 @@ jobs:
           fi
 
           ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "wiki/**/*.md" "news/*.md" )
-          python .github/scripts/ci/find_broken_wikilinks.py --target $ARTICLES
+          python scripts/ci/find_broken_wikilinks.py --target $ARTICLES
 
       - name: check if translations are marked as outdated
         shell: bash
@@ -85,4 +85,4 @@ jobs:
           fi
           # get the first commit of the branch associated with the PR; GitHub's ubuntu-latest has curl/jq: https://github.com/actions/virtual-environments
           FIRST_PR_COMMIT_HASH=$( curl -sS ${{ github.event.pull_request.commits_url }}?per_page=1 | jq -r '.[0].sha' || true )
-          bash .github/scripts/ci/check_outdated_tags.sh ${{ github.sha }} ${{ github.sha }} $FIRST_PR_COMMIT_HASH
+          bash scripts/ci/check_outdated_tags.sh ${{ github.sha }} ${{ github.sha }} $FIRST_PR_COMMIT_HASH
