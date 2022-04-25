@@ -21,3 +21,32 @@ Luckily, if you're not willing to get too involved with the technicalities of Gi
 The [Article Styling Criteria (ASC)](https://github.com/ppy/osu-wiki/tree/master/wiki/Article_styling_criteria) is a set of standards that must be adhered to for all new and edited articles going forward. Among these are rules regarding project structure, usage of Markdown, formatting, diction and grammar. Please refer to it if you have any specific questions or concerns.
 
 The ASC is fairly verbose and encompasses many minute details, that are not necessary to memorise in order to take the first step of contributing to the osu! wiki. Have a look at the [contribution guide](https://github.com/ppy/osu-wiki/tree/master/wiki/osu!_wiki/Contribution_guide), and other contributors will also be happy to answer your questions in the `#osu-wiki` channel of the [osu!dev Discord server](https://discord.gg/ppy).
+
+## Testing
+
+All pull requests are automatically run through a series of continuous integration checks (CI) in order to catch various common errors.
+
+For people familiar with the command line, these CI checks can also be run locally.
+
+### Requirements
+
+- Python 3.X
+- Node.js 16
+
+### Setup
+
+```sh
+pip3 install venv
+python3 -m venv ./.venv
+source ./.venv/bin/activate
+pip install -r requirements.txt
+npm install
+```
+
+### Running
+
+From the repository root on your feature branch:
+
+```sh
+bash run-ci.sh
+```
