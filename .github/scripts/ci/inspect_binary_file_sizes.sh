@@ -7,9 +7,9 @@ FIRST_COMMIT_HASH=$1
 LAST_COMMIT_HASH=$2
 
 # https://en.wikipedia.org/wiki/ANSI_escape_code#3-bit_and_4-bit
-function echo_red () { printf "\e[0;31m$1\e[m"; }
-function echo_yellow () { printf "\e[0;34m$1\e[m"; }
-function echo_grey () { printf "\e[0;90m$1\e[m"; }
+function echo_red () { printf "\e[0;31m$1\e[m\n"; }
+function echo_yellow () { printf "\e[0;34m$1\e[m\n"; }
+function echo_grey () { printf "\e[0;90m$1\e[m\n"; }
 
 while read file
 do
@@ -20,16 +20,16 @@ do
     hash=`git ls-tree ${LAST_COMMIT_HASH} "${file}" | awk -F ' ' '{ print $3 }'`
     filesize=`git cat-file -s ${hash} 2>/dev/null`
     if [[ ${filesize} -ge ${ERROR_ON_SIZE} ]]; then
-        printf "$( echo_red 'Error:' ) The size of \"${file}\" exceeds 1MB. Compress it to optimise performance."
+        printf "$( echo_red 'Error:' ) The size of \"${file}\" exceeds 1MB. Compress it to optimise performance.\n"
         EXIT=1
     elif [[ ${filesize} -ge ${WARN_ON_SIZE} ]]; then
-        printf "$( echo_yellow 'Warning:' ) The size of \"${file}\" exceeds 500kB. Consider compressing it to optimise performance."
+        printf "$( echo_yellow 'Warning:' ) The size of \"${file}\" exceeds 500kB. Consider compressing it to optimise performance.\n"
   fi
 done < <(git diff --numstat --no-renames --diff-filter=d ${FIRST_COMMIT_HASH}^ ${LAST_COMMIT_HASH} | grep -Eoe '-\t-\t\K.+')
 # git diff --numstat will output -<TAB>-<TAB>$filename for blobs
 
 if [[ ${EXIT} -eq 0 ]]; then
-    printf "$( echo_grey 'Notice:' ) No excessively large files detected"
+    printf "$( echo_grey 'Notice:' ) No excessively large files detected\n"
 fi
 
 exit ${EXIT}
