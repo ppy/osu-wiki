@@ -1,3 +1,5 @@
+#!/bin/bash
+
 MASK='---\n(.*\n)*?((outdated: |outdated_since: ).+\n)(.*\n)*?---'
 PULL_REQUEST_TAG='SKIP_OUTDATED_CHECK'
 
@@ -6,17 +8,17 @@ LAST_COMMIT_HASH=$2
 FIRST_PR_COMMIT_HASH=$3
 
 # https://en.wikipedia.org/wiki/ANSI_escape_code#3-bit_and_4-bit
-function echo_red () { echo -e "\e[0;31m$1\e[m"; }
-function echo_green () { echo -e "\e[0;32m$1\e[m"; }
-function echo_grey () { echo -e "\e[0;90m$1\e[m"; }
+function echo_red () { printf "\e[0;31m$1\e[m"; }
+function echo_green () { printf "\e[0;32m$1\e[m"; }
+function echo_grey () { printf "\e[0;90m$1\e[m"; }
 
 function print_error () {
   echo "$( echo_red 'Error:' ) You have edited some original articles (en.md), but did not outdate their translations:"
   while read FILENAME; do
     echo_red "* $FILENAME"
   done <<< "$1"
-  echo -e "\nIf your changes DON'T NEED to be added to the translations, add $( echo_red $PULL_REQUEST_TAG ) anywhere in the description of your pull request."
-  echo -e "Otherwise, add the following to each article's front matter (https://osu.ppy.sh/wiki/en/Article_styling_criteria/Formatting#front-matter):\n"
+  printf "\nIf your changes DON'T NEED to be added to the translations, add $( echo_red $PULL_REQUEST_TAG ) anywhere in the description of your pull request."
+  printf "Otherwise, add the following to each article's front matter (https://osu.ppy.sh/wiki/en/Article_styling_criteria/Formatting#front-matter):\n"
   echo_green "---"
   echo_green "outdated: true"
   if [[ -n "$2" ]]; then
@@ -44,7 +46,7 @@ MISSED_TRANSLATIONS=$( echo "$ORIGINAL_ARTICLES" | tr \\n \\0 | xargs -0 dirname
         continue
       fi
       if ! [[ "$TRANSLATIONS" =~ "$ARTICLE_NAME" ]]; then
-        grep -LzP -e "$MASK" "$ARTICLE_NAME" || true  # print only names of non-matching files, with multiline match (considering \n)
+        grep -LzE -e "$MASK" "$ARTICLE_NAME" || true  # print only names of non-matching files, with multiline match (considering \n)
       fi
     done
   done
@@ -60,5 +62,5 @@ if [[ -n "$MISSED_TRANSLATIONS" ]]; then
   fi
   exit 1
 else
-  echo -e "$( echo_grey 'Notice:' ) Either you have edited no original articles, or all translations are properly outdated"
+  printf "$( echo_grey 'Notice:' ) Either you have edited no original articles, or all translations are properly outdated"
 fi
