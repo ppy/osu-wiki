@@ -31,7 +31,7 @@ For people familiar with the command line, these CI checks can also be run local
 ### Requirements
 
 - [Python](https://www.python.org/) 3.x
-- [Node.js](https://nodejs.org/) 16 (installing via [nvm](https://github.com/nvm-sh/nvm) is recommended)
+- [Node.js](https://nodejs.org/) 16+ (installing via [nvm](https://github.com/nvm-sh/nvm) is recommended)
 
 ### Setup
 
