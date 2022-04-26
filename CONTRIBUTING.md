@@ -38,7 +38,7 @@ For people familiar with the command line, these CI checks can also be run local
 ```sh
 python3 -m venv ./.venv
 source ./.venv/bin/activate
-pip3 install -r requirements.txt
+pip3 install -r scripts/requirements.txt
 npm install
 ```
 
