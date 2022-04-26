@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: c5ff61dc391a6c6db310c8fcde0620fa6a8fe358
 tags:
   - charts
   - Ranking Charts
@@ -80,14 +78,16 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de conse
 
 Le projet Beatmap Spotlights est actuellement organisé en saisons prédéfinies. Chaque saison se compose d'un pool de beatmaps sélectionnées et d'une ligue saisonnière compétitive pour l'ensemble de la communauté.
 
-1. Une seule saison dure 8 semaines.
+1. Une saison dure 9 semaines et se déroule sur 3 playlists.
+   - Chaque playlist est identifiée par une lettre.
+   - Chaque playlist se compose de 2 difficultés Hard, 3 Insane et 4 Expert.
+   - Pendant les 6 premières semaines, chaque playlist durera 2 semaines.
+   - Pour les 3 dernières semaines, chaque playlist durera 1 semaine au lieu de 2.
 2. Les saisons sont entièrement préparées avant de commencer.
    - Chaque beatmap est sélectionnée et verrouillée avant le début de la saison.
    - Une fois la saison commencée, le calendrier complet sera publié.
-3. Chaque saison est divisée en semaines. Chaque semaine est identifiée par une lettre.
-   - Chaque lettre représente la playlist d'un lobby multijoueur hebdomadaire.
-   - Les semaines se déroulent sur toute la saison et sont répétées deux fois.
-4. Lorsqu'une saison se termine, il y aura une pause de 3 semaines avant le début d'une nouvelle saison. Pendant cette période, des réajustements du projet peuvent être effectués.
+3. Chaque saison comprendra une playlist thématique d'une sorte de gimmick.
+4. La prochaine saison commencera quelques semaines après la conclusion de la saison en cours.
 
 ### Classement saisonnier
 
@@ -140,15 +140,15 @@ Le système de curation implique un processus de sélection par les curateurs de
    - Les responsables des modes de jeu respectifs verrouillent les décisions et consolident la sélection après des discussions concluantes.
    - Le processus de sélection lui-même varie selon les modes de jeu et s'adapte aux besoins des membres respectifs.
 2. Les beatmaps sont sélectionnées en fonction de leur caractère unique et de leur excellence. Chaque beatmap sélectionnée doit être un exemple de qualité de contenu en termes de gameplay, de design et d'esthétique.
-3. Ces beatmaps servent de recommandations à l'ensemble de la communauté d'osu!
+3. Ces beatmaps servent de recommandations à l'ensemble de la communauté d'osu!.
 4. Pour remplir le devoir de recommander d'excellentes beatmaps à l'ensemble de la communauté, les curateurs des beatmaps doivent couvrir une répartition spécifique des difficultés Hard, Insane et Expert.
-   - 25% de toutes les beatmaps sélectionnées doivent se situer dans le niveau de difficulté Hard.
-   - 45% de toutes les beatmaps sélectionnées doivent se situer dans le niveau de difficulté Insane.
-   - 30 % de toutes les beatmaps sélectionnées doivent être dans le niveau de difficulté Expert.
-5. Pour chaque saison, 20 beatmaps au minimum doivent être sélectionnées.
+   - 6 beatmaps sélectionnées doivent se situer dans le niveau de difficulté Hard.
+   - 9 beatmaps sélectionnées doivent se situer dans le niveau de difficulté Insane.
+   - 12 beatmaps sélectionnées doivent se situer dans le niveau de difficulté Expert.
+5. Pour chaque saison, 27 beatmaps au minimum doivent être sélectionnées au total.
    - Toutes les beatmaps sélectionnées doivent être classées.
    - Lors de la sélection de nouvelles beatmaps, il convient de respecter la répartition entre les niveaux de difficulté.
-   - Les curateurs peuvent sélectionner plusieurs beatmaps d'un même ensemble de beatmaps.
+   - Les curateurs peuvent sélectionner plusieurs difficultés d'une même beatmap.
 6. Les beatmaps doivent être un mélange sain de contenu récent et établi.
    - Au moins 25 % des difficultés des beatmaps sélectionnées doivent avoir été classées dans les 3 derniers mois précédant le début de la saison.
 7. Les curateurs individuels ne doivent pas recommander les beatmaps auxquelles ils ont contribué lors de leur création.
@@ -181,6 +181,8 @@ La direction du projet a changé plusieurs fois au cours de son histoire. ![][fl
 Renommé [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) en mars 2017, le système lui-même est resté globalement cohérent tout en ajoutant des récompenses supplémentaires comme des médailles et en améliorant encore la présentation des Beatmap Spotlights. Lors d'une refonte interne de la Quality Assurance Team, la responsabilité du projet a été réattribuée à ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) et a réimplanté une équipe de sélection basée sur la communauté. En novembre 2018, la fréquence des Spotlights a été modifiée pour devenir un [cycle de publication saisonnier](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). En mars 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) a repris la direction du projet avec Kurokami, en lui donnant une nouvelle forme et en constituant une nouvelle équipe de curateurs osu!.
 
 En août 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) s'est retiré de la direction du projet. Fin novembre 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) a également démissionné, et ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) a repris le projet avec ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
+
+Après la conclusion de la saison du printemps 2021, le projet est entré en hiatus, qui a duré jusqu'en septembre 2021 lorsque des efforts de relance ont émergé, avec ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) se retirant de son rôle de gestion, et ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) rejoignant à la place. En février 2022, le projet a repris ses activités après quelques changements de structure et d'équipe.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
