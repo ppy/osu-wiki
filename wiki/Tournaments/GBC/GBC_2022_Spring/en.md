@@ -97,7 +97,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | 太美丽了理塘 | 可爱的hyahya酱上线啦！！ | May 1 (Sun) 19:00 (UTC+8) |
 | 金戈铁马的鲜丰水果摊 | 皮蛋蛋吸手手俱乐部 | May 1 (Sun) 20:30 (UTC+8) |
 
-### Monday, April 24, 2022
+### Monday, May 2, 2022
 
 | Team A | Team B | Match time |
 | --: | :-- | :-: |
@@ -234,7 +234,7 @@ Saturday, April 23, 2022
 | 涩涩不队 | **6** | 0 | bikabika | [#1](https://osu.ppy.sh/community/matches/100018611) |
 | 可爱的hyahya酱上线啦！！ | **6** | 2 | MyAngel Koishi | [#1](https://osu.ppy.sh/community/matches/100018611) |
 
-Sunday, April 24, 2022
+Sunday, April 24, 2022:
 
 | Team A |  |  | Team B | Match link |
 | --:  |--: | :-- | :-- | :-: |
@@ -385,7 +385,7 @@ Tie-breaker (Dice Roll)
 
 1. Each stage will be held on **a single weekend**.
 2. All matches will be held on either a Saturday or Sunday (UTC+8).
-   - With **both** team request and agreed, **reschedule** match to weekdays is permitted to do so.
+   - Rescheduling a match to a weekday is only permitted if **both** teams request and agree to it.
 3. Scheduling will be handled by the host, and will be released on the Sunday before the first match of the stage. The host will try to create a schedule that respects all participants' preferences.
    - Please inform the host before Sunday if you expect a specific time slot to be unavailable in the following week. The host will try to accommodate all wishes, but makes no promises.
 4. **Reschedules will only be considered if both teams agree to a time. This needs to be done and notified to the tournament staff before Wednesday (23:59 UTC) of that particular week when your match takes place.**
