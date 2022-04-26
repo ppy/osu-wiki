@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 17eeba86a2344329aec159f1673c810a37a874b4
+---
+
 # Nasıl yardım edebilirsiniz!
 
 osu!, dünyanın dört bir yanından bir araya gelmiş enerjik bir topluluğa sahiptir. Herkes kendi tarzına göre topluluğun bir parçası olabilir.

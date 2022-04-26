@@ -19,7 +19,7 @@ osu! tiene bastantes cuentas de Twitter, cada una para diferentes propósitos. L
 | :-: | :-: | :-- |
 | ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame "Twitter") | La fuente oficial de noticias y anuncios. |
 | ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat "Twitter") | Chistes cuando las cosas salen mal. |
-| ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat "Twitter") | Noticias, anuncios, y cortos cuestionarios de la comunidad por el [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (no es manejado por [el osu!team](/wiki/People/The_Team#the-team)). |
+| ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat "Twitter") | Noticias, anuncios, y cortos cuestionarios de la comunidad por el [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (no es manejado por [el osu!team](/wiki/People/The_Team)). |
 
 ## Personal
 

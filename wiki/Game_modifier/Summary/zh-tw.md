@@ -49,7 +49,7 @@ no_native_review: true
 | 6K | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x |
 | 7K | 0.66x | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x |
 
-### *x*K mod 加上 Co-op 的分數加成
+### xK mod 加上 Co-op 的分數加成
 
 *提醒: 此表格只會影響從 osu! 到 osu!mania 的轉譜，對 osu!mania 的圖譜沒有影響。因此 Co-op 也不會影響 osu!mania 圖譜的分數加成。*
 

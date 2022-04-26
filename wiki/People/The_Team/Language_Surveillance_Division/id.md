@@ -15,7 +15,7 @@ tags:
 
 ## Tugas
 
-Anggota tim LSD dipilih secara internal oleh tim inti osu! dari para anggota komunitas untuk memoderasi berbagai komunitas dan sub-forum yang memiliki jumlah pengguna aktif yang rendah. Tidak seperti Global Moderator, mereka tidak diberikan berbagai keutamaan seperti *nickname* dengan warna khusus atau gelar khusus di forum. Meskipun demikian, pada [IRC](/wiki/Community/Internet_Relay_Chat), mereka dapat bertidak selaku [operator](/wiki/Community/Internet_Relay_Chat#why-are-some-usernames-prefixed-with-different-signs?) dan menjatuhkan *[silence](/wiki/Silence)* sebagaimana moderator pada umumnya.
+Anggota tim LSD dipilih secara internal oleh tim inti osu! dari para anggota komunitas untuk memoderasi berbagai komunitas dan sub-forum yang memiliki jumlah pengguna aktif yang rendah. Tidak seperti Global Moderator, mereka tidak diberikan berbagai keutamaan seperti *nickname* dengan warna khusus atau gelar khusus di forum. Meskipun demikian, pada [IRC](/wiki/Community/Internet_Relay_Chat), mereka dapat bertidak selaku [operator](/wiki/Community/Internet_Relay_Chat#mengapa-beberapa-nama-pengguna-diawali-dengan-tanda-yang-berbeda?) dan menjatuhkan *[silence](/wiki/Silence)* sebagaimana moderator pada umumnya.
 
 LSD juga berfungsi sebagai grup perantara untuk para anggota yang akan bergabung ke dalam [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) pada masanya. Hal ini dikarenakan kedua grup tersebut secara umum memiliki tujuan yang serupa dan membutuhkan anggota dengan kemampuan yang kurang lebihnya sama.
 

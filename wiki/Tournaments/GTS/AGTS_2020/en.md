@@ -519,7 +519,7 @@ Sunday, 20 September 2020:
 | **Malaysia** ![][flag_MY] | **5** | 1 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/67239312) |
 | Germany A ![][flag_DE] | 4 | **5** | ![][flag_PL] **Poland A** | [#1](https://osu.ppy.sh/community/matches/67241288) |
 | Chile ![][flag_CL] | 3 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/67241638) |
-| **Poland A** ![][flag_Pl] | **5** | 0 | ![][flag_NL] Netherlands A | [#1](https://osu.ppy.sh/community/matches/67245720) |
+| **Poland A** ![][flag_PL] | **5** | 0 | ![][flag_NL] Netherlands A | [#1](https://osu.ppy.sh/community/matches/67245720) |
 | Argentina B ![][flag_AR] | 0 | **5** | ![][flag_NL] **Netherlands B** | [#1](https://osu.ppy.sh/community/matches/67245722) |
 
 ### Qualifiers

@@ -433,7 +433,7 @@ Pazar, 17 Kasım 2019:
 2. Beatmap skorları Score V2 ile hesaplanacaktır.
 3. Her raundun beatmapleri o mapleri seçen kişiler tarafınca turnuvanın yer alacağı tarihin öncesindeki Pazar günü açıklanacaktır. Sadece bu beatmapler maç sırasında oynanacaktır.
    - Bir beatmap Tiebreaker olarak seçilecektir. Bu beatmap sadece beraberlik durumunda oynanacaktır. **Bu kurala tek istisna Eleme turundaki beatmap havuzudur.**
-4. Maç Zamanlamaları, Turnuva Yönetimi tarafından belirlenecektir (bknz: [Planlama Talimatları](#scheduling-instructions)).
+4. Maç Zamanlamaları, Turnuva Yönetimi tarafından belirlenecektir (bknz: [Planlama Talimatları](#planlama-talimatları)).
 5. Eğer maça bakacak herhangi bir hakem veya başka çalışan yoksa maç ertelenecektir.
 6. Arkaplan ışığını değiştirmek için Görsel Ayarları kullanmak, veya film şeridi, temalar gibi beatmap seçeneklerini devre dışı bırakmak serbesttir.
 7. Beatmap'in berabere bitmesi durumunda, map oynanmamış sayılacak ve tekrar oynanacaktır.

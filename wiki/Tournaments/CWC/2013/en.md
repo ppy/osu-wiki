@@ -377,7 +377,7 @@ Monday, 18 February 2013:
 ### Registration
 
 1. Team must consist of at least 3 players. You may add a 4th player as a back up which is always encouraged.
-2. A captain must be picked to organize and manage the team (e.g. in match scheduling)
+2. A captain must be picked to organise and manage the team (e.g. in match scheduling)
    - Preferably the captain should know a good amount of English to communicate.
 3. Each team represents a nation, meaning you make teams with players of the same country.
 4. You can make multiple teams from the same nation. One will be benoted as "A" then "B" and so on.

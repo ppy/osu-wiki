@@ -21,7 +21,7 @@ osu! versi macOS pada umumnya belum stabil dan memiliki bug-bug tertentu yang ti
    - Apabila kamu sudah memiliki akun, silakan masuk.
    - Apabila kamu belum memiliki akun, harap untuk terlebih dahulu membuat akun baru sesuai dengan panduan yang tertera pada artikel [Pendaftaran](/wiki/Registration).
 
-## Penyelesaian masalah (*troubleshooting*)
+## Penyelesaian masalah (troubleshooting)
 
 Apabila kamu menemui masalah dalam menjalankan osu!, cobalah untuk mengikuti langkah-langkah berikut:
 

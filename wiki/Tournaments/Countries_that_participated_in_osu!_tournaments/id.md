@@ -8,14 +8,14 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 
 ## Tabel medali
 
-<!-- last update: TWC 2022 (registration phase)-->
+<!-- last update: TWC 2022-->
 
 ### Tabel medali keseluruhan
 
 | Peringkat | Negara | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] Korea Selatan | 19 | 4 | 5 |
-| 2 | ![][flag_JP] Jepang | 10 | 5 | 2 |
+| 1 | ![][flag_KR] Korea Selatan | 19 | 5 | 5 |
+| 2 | ![][flag_JP] Jepang | 11 | 5 | 2 |
 | 3 | ![][flag_US] Amerika Serikat | 7 | 5 | 4 |
 | 4 | ![][flag_CN] Tiongkok | 3 | 8 | 3 |
 | 5 | ![][flag_TW] Taiwan | 3 | 7 | 1 |
@@ -27,7 +27,7 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 | 11 | ![][flag_PH] Filipina |  | 2 |  |
 | 12 | ![][flag_MY] Malaysia |  | 1 | 5 |
 | 13 | ![][flag_GB] Britania Raya |  | 1 | 4 |
-| 14 | ![][flag_ID] Indonesia |  | 1 | 2 |
+| 14 | ![][flag_ID] Indonesia |  | 1 | 3 |
 | 15 | ![][flag_NL] Belanda |  | 1 |  |
 | 15 | ![][flag_TH] Thailand |  | 1 |  |
 | 16 | ![][flag_CA] Kanada |  |  | 3 |
@@ -54,15 +54,16 @@ Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turna
 
 | Peringkat | Negara | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_JP] Jepang | 9 | 1 | 2 |
+| 1 | ![][flag_JP] Jepang | 10 | 1 | 2 |
 | 2 | ![][flag_TW] Taiwan | 2 | 5 |  |
 | 3 | ![][flag_HK] Hong Kong |  | 3 | 1 |
-| 4 | ![][flag_KR] Korea Selatan |  | 2 | 1 |
-| 5 | ![][flag_CA] Kanada |  |  | 2 |
-| 5 | ![][flag_FR] Prancis |  |  | 2 |
-| 6 | ![][flag_BR] Brazil |  |  | 1 |
-| 6 | ![][flag_CN] Tiongkok |  |  | 1 |
-| 6 | ![][flag_GB] Britania Raya |  |  | 1 |
+| 3 | ![][flag_KR] Korea Selatan |  | 3 | 1 |
+| 4 | ![][flag_CA] Kanada |  |  | 2 |
+| 4 | ![][flag_FR] Prancis |  |  | 2 |
+| 5 | ![][flag_BR] Brazil |  |  | 1 |
+| 5 | ![][flag_CN] Tiongkok |  |  | 1 |
+| 5 | ![][flag_ID] Indonesia |  |  | 1 |
+| 5 | ![][flag_GB] Britania Raya |  |  | 1 |
 
 ### ![][osu!catch] Tabel medali osu!catch
 
