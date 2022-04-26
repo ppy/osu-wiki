@@ -89,18 +89,13 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 ## Match schedule: Playoffs week 1
 
-### Saturday, April 30, 2022
-
-| Team A | Team B | Match time |
-| --: | :-- | :-: |
-| 大怨种被迫当队长 | GBC最强阵容9个Miyes | Apr 30 (Sat) 20:30 (UTC+8) |
-
 ### Sunday, May 1, 2022
 
 | Team A | Team B | Match time |
 | --: | :-- | :-: |
-| 金戈铁马的鲜丰水果摊 | 皮蛋蛋吸手手俱乐部 | May 1 (Sun) 20:30 (UTC+8) |
+| 大怨种被迫当队长 | GBC最强阵容9个Miyes | May 1 (Sun) 18:00 (UTC+8) |
 | 太美丽了理塘 | 可爱的hyahya酱上线啦！！ | May 1 (Sun) 19:00 (UTC+8) |
+| 金戈铁马的鲜丰水果摊 | 皮蛋蛋吸手手俱乐部 | May 1 (Sun) 20:30 (UTC+8) |
 
 ### Monday, April 24, 2022
 
