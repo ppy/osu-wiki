@@ -230,8 +230,8 @@ Saturday, April 23, 2022
 
 | Team A |  |  | Team B | Match link |
 | --:  |--: | :-- | :-- | :-: |
-| 青叶摩卡的百合后花园 |  3 | **6** | 皮蛋蛋吸手手俱乐部 | [#1](https://osu.ppy.sh/mp/100017943) |
-| 涩涩不队 |  **6** | 0 | bikabika | [#1](https://osu.ppy.sh/community/matches/100018611) |
+| 青叶摩卡的百合后花园 | 3 | **6** | 皮蛋蛋吸手手俱乐部 | [#1](https://osu.ppy.sh/mp/100017943) |
+| 涩涩不队 | **6** | 0 | bikabika | [#1](https://osu.ppy.sh/community/matches/100018611) |
 | 可爱的hyahya酱上线啦！！ | **6** | 2 | MyAngel Koishi | [#1](https://osu.ppy.sh/community/matches/100018611) |
 
 Sunday, April 24, 2022
