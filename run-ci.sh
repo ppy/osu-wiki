@@ -1,5 +1,10 @@
 #!/bin/bash
 
+python="python3"
+if test -x "./.venv/bin/python3"; then
+  python="./.venv/bin/python3"
+fi
+
 FIRST_COMMIT_HASH=$( git log master..$( git branch --show-current ) --pretty=format:%H | tail -1 )
 LAST_COMMIT_HASH=$( git rev-parse HEAD )
 ARTICLES=$( git diff --diff-filter=d --name-only ${FIRST_COMMIT_HASH}^ ${LAST_COMMIT_HASH} "wiki/**/*.md" "news/*.md" )
@@ -11,10 +16,10 @@ printf -- "\n--- Run remark ---\n\n"
 bash scripts/ci/run_remark.sh ${FIRST_COMMIT_HASH} ${LAST_COMMIT_HASH}
 
 printf -- "\n--- Run yamllint ---\n\n"
-python3 scripts/ci/run_yamllint.py --config .yamllint.yaml
+"$python" scripts/ci/run_yamllint.py --config .yamllint.yaml
 
 printf -- "\n--- Broken wikilink check ---\n\n"
-python3 scripts/ci/find_broken_wikilinks.py --target ${ARTICLES}
+"$python" scripts/ci/find_broken_wikilinks.py --target ${ARTICLES}
 
 printf -- "\n--- Outdated tag check ---\n\n"
 bash scripts/ci/check_outdated_tags.sh ${FIRST_COMMIT_HASH} ${LAST_COMMIT_HASH}
