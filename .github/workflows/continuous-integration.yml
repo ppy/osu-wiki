@@ -58,7 +58,7 @@ jobs:
 
       - name: setup and run yamllint on .yaml and .md files
         run: |
-          pip install yamllint
+          pip install -r scripts/requirements.txt
           python scripts/ci/run_yamllint.py --config .yamllint.yaml
 
       - name: find broken wikilinks

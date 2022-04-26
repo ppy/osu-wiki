@@ -1,1 +1,1 @@
-yamllint
+yamllint==1.26.3
