@@ -16,7 +16,7 @@ Le **Beatmap Spotlights** (également connu sous le nom de *Spotlights* ou *Rank
 
 **L'itération actuelle de ce programme est toujours en cours de développement et de nombreuses fonctionnalités sont encore en attente de mise en œuvre.** Les spécificités de ce système, telles que les récompenses, les classements saisonniers ou les caractéristiques de jeu, peuvent changer à tout moment.
 
-La saison actuelle est celle du printemps 2021.
+La saison actuelle est celle de l'hiver 2022.
 
 ## Organisation
 
@@ -36,29 +36,27 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de conse
 
 - ![][flag_FI] **[Nowaie](https://osu.ppy.sh/users/5428909)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
 - ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943)
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
-- ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### Curateurs osu!taiko
 
-- ![][flag_DE] **[OnosakiHito](https://osu.ppy.sh/users/290128)**
-- ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
+- ![][flag_TN] **[Hivie](https://osu.ppy.sh/users/14102976)**
 - ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864)
-- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
-- ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+- ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)
 - ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
+- ![][flag_MY] [[Zeth]](https://osu.ppy.sh/users/9912966)
 
 ### Curateurs osu!catch
 
 - ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
-- ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276)
+- ![][flag_KR] [x_angelkawaii_x](https://osu.ppy.sh/users/566276)
 - ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
 - ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
@@ -80,14 +78,16 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de conse
 
 Le projet Beatmap Spotlights est actuellement organisé en saisons prédéfinies. Chaque saison se compose d'un pool de beatmaps sélectionnées et d'une ligue saisonnière compétitive pour l'ensemble de la communauté.
 
-1. Une seule saison dure 8 semaines.
+1. Une saison dure 9 semaines et se déroule sur 3 playlists.
+   - Chaque playlist est identifiée par une lettre.
+   - Chaque playlist se compose de 2 difficultés Hard, 3 Insane et 4 Expert.
+   - Pendant les 6 premières semaines, chaque playlist durera 2 semaines.
+   - Pour les 3 dernières semaines, chaque playlist durera 1 semaine au lieu de 2.
 2. Les saisons sont entièrement préparées avant de commencer.
    - Chaque beatmap est sélectionnée et verrouillée avant le début de la saison.
    - Une fois la saison commencée, le calendrier complet sera publié.
-3. Chaque saison est divisée en semaines. Chaque semaine est identifiée par une lettre.
-   - Chaque lettre représente la playlist d'un lobby multijoueur hebdomadaire.
-   - Les semaines se déroulent sur toute la saison et sont répétées deux fois.
-4. Lorsqu'une saison se termine, il y aura une pause de 3 semaines avant le début d'une nouvelle saison. Pendant cette période, des réajustements du projet peuvent être effectués.
+3. Chaque saison comprendra une playlist thématique d'une sorte de gimmick.
+4. La prochaine saison commencera quelques semaines après la conclusion de la saison en cours.
 
 ### Classement saisonnier
 
@@ -118,14 +118,14 @@ Des récompenses sont distribuées aux gagnants du lobby temporaire hebdomadaire
 
 | Badges | Palier de bracket | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/spring_2021/osu/ri_1.png) ![](img/badges/spring_2021/osu/ri_2.png) | Rhythm Incarnate | Le meilleur des meilleurs |
-| ![](img/badges/spring_2021/osu/diamond_1.png) ![](img/badges/spring_2021/osu/diamond_2.png) | Diamond | Top 3% |
-| ![](img/badges/spring_2021/osu/platinum_1.png) ![](img/badges/spring_2021/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/spring_2021/osu/gold_1.png) ![](img/badges/spring_2021/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/spring_2021/osu/silver_1.png) ![](img/badges/spring_2021/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/spring_2021/osu/bronze_1.png) ![](img/badges/spring_2021/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/spring_2021/osu/copper_1.png) ![](img/badges/spring_2021/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/spring_2021/osu/iron_1.png) ![](img/badges/spring_2021/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/winter_2022/osu/ri_1.png) ![](img/badges/winter_2022/osu/ri_2.png) | Rhythm Incarnate | Le meilleur des meilleurs |
+| ![](img/badges/winter_2022/osu/diamond_1.png) ![](img/badges/winter_2022/osu/diamond_2.png) | Diamond | Top 3% |
+| ![](img/badges/winter_2022/osu/platinum_1.png) ![](img/badges/winter_2022/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/winter_2022/osu/gold_1.png) ![](img/badges/winter_2022/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/winter_2022/osu/silver_1.png) ![](img/badges/winter_2022/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/winter_2022/osu/bronze_1.png) ![](img/badges/winter_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/winter_2022/osu/copper_1.png) ![](img/badges/winter_2022/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/winter_2022/osu/iron_1.png) ![](img/badges/winter_2022/osu/iron_2.png) | Iron | 95% – 100% |
 
 Le seuil du niveau Rhythm Incarnate est choisi manuellement en fonction du nombre de participants de la saison et de la taille générale des autres niveaux, bien qu'il s'agisse d'un nombre absolu qui se situe entre le top 2 et le top 50 dans la plupart des cas.
 
@@ -140,15 +140,15 @@ Le système de curation implique un processus de sélection par les curateurs de
    - Les responsables des modes de jeu respectifs verrouillent les décisions et consolident la sélection après des discussions concluantes.
    - Le processus de sélection lui-même varie selon les modes de jeu et s'adapte aux besoins des membres respectifs.
 2. Les beatmaps sont sélectionnées en fonction de leur caractère unique et de leur excellence. Chaque beatmap sélectionnée doit être un exemple de qualité de contenu en termes de gameplay, de design et d'esthétique.
-3. Ces beatmaps servent de recommandations à l'ensemble de la communauté d'osu!
+3. Ces beatmaps servent de recommandations à l'ensemble de la communauté d'osu!.
 4. Pour remplir le devoir de recommander d'excellentes beatmaps à l'ensemble de la communauté, les curateurs des beatmaps doivent couvrir une répartition spécifique des difficultés Hard, Insane et Expert.
-   - 25% de toutes les beatmaps sélectionnées doivent se situer dans le niveau de difficulté Hard.
-   - 45% de toutes les beatmaps sélectionnées doivent se situer dans le niveau de difficulté Insane.
-   - 30 % de toutes les beatmaps sélectionnées doivent être dans le niveau de difficulté Expert.
-5. Pour chaque saison, 20 beatmaps au minimum doivent être sélectionnées.
+   - 6 beatmaps sélectionnées doivent se situer dans le niveau de difficulté Hard.
+   - 9 beatmaps sélectionnées doivent se situer dans le niveau de difficulté Insane.
+   - 12 beatmaps sélectionnées doivent se situer dans le niveau de difficulté Expert.
+5. Pour chaque saison, 27 beatmaps au minimum doivent être sélectionnées au total.
    - Toutes les beatmaps sélectionnées doivent être classées.
    - Lors de la sélection de nouvelles beatmaps, il convient de respecter la répartition entre les niveaux de difficulté.
-   - Les curateurs peuvent sélectionner plusieurs beatmaps d'un même ensemble de beatmaps.
+   - Les curateurs peuvent sélectionner plusieurs difficultés d'une même beatmap.
 6. Les beatmaps doivent être un mélange sain de contenu récent et établi.
    - Au moins 25 % des difficultés des beatmaps sélectionnées doivent avoir été classées dans les 3 derniers mois précédant le début de la saison.
 7. Les curateurs individuels ne doivent pas recommander les beatmaps auxquelles ils ont contribué lors de leur création.
@@ -182,17 +182,16 @@ Renommé [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducin
 
 En août 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) s'est retiré de la direction du projet. Fin novembre 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) a également démissionné, et ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) a repris le projet avec ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
 
+Après la conclusion de la saison du printemps 2021, le projet est entré en hiatus, qui a duré jusqu'en septembre 2021 lorsque des efforts de relance ont émergé, avec ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) se retirant de son rôle de gestion, et ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) rejoignant à la place. En février 2022, le projet a repris ses activités après quelques changements de structure et d'équipe.
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australie"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_DO]: /wiki/shared/flag/DO.gif "République dominicaine"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hongrie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
 [flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"

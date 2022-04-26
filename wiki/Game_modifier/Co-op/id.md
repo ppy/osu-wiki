@@ -21,7 +21,7 @@ tags:
 
 - Singkatan: CP atau CO
 - Jenis: Spesial
-- Pengali Skor: 0.70x–1.00x (lihat [tabel dibawah](#score-multiplier))
+- Pengali Skor: 0.70x–1.00x (lihat [tabel dibawah](#pengali-skor))
 - Deskripsi: `Dua kali jumlah key-nya, dua kali keseruannya!`
 - Mode permainan yang cocok: ![][osu!mania]
 

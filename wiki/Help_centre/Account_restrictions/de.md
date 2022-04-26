@@ -1,5 +1,7 @@
 # Einschränkungen des Accounts
 
+*Hauptseite: [Hilfecenter](/wiki/Help_centre)*
+
 Eine Einschränkung ist ein zeitlich begrenzter Ausschluss aus der Community für Accounts, die abnormales, verdächtiges oder regel-brechendes Verhalten zeigen.
 
 Wenn ein Account eingeschränkt wird, dann kann dieser nicht mit der Community interagieren, bis die Einschränkung aufgehoben wird. Eingeschränkte Spieler können noch das Spiel spielen, Beatmaps herunterladen und Scores einreichen, aber ihr Profil wird für andere unsichtbar sein.

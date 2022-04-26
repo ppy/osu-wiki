@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2022 logo](/wiki/shared/news/2022-02-10-osu-taiko-world-cup-2022-registrations-now-open/twc-2022-banner.jpg)
 
-The **osu!taiko World Cup 2022** (***TWC 2022***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the twelfth instalment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2022** (***TWC 2022***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the twelfth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -33,15 +33,17 @@ The **osu!taiko World Cup 2022** (***TWC 2022***) is a country-based osu!taiko t
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
+![](img/twc-2022-badge-1st.jpg "TWC 2022 winner badge") ![](img/twc-2022-badge-2nd.jpg "TWC 2022 2nd place badge") ![](img/twc-2022-badge-3rd.jpg "TWC 2022 3rd place badge")
+
 ## Organisation
 
-The osu!taiko World Cup 2022 is run by various community members.
+The osu!taiko World Cup 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910) |
-| Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548) ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Lumenite-](https://osu.ppy.sh/users/6256027), ![][flag_JP] [Maimaing](https://osu.ppy.sh/users/14520910) |
+| Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548) ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_US] [Lumenite-](https://osu.ppy.sh/users/6256027), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -55,7 +57,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[gaston\_2199](https://osu.ppy.sh/users/5938161)**, [\_Doodle\_](https://osu.ppy.sh/users/5427801), [Axer](https://osu.ppy.sh/users/7299864), [paz08](https://osu.ppy.sh/users/9964420), [Atreevete](https://osu.ppy.sh/users/2615199), [Ingrid10](https://osu.ppy.sh/users/9786011) |
 | ![][flag_AU] | **Australia** | **[r1chyy](https://osu.ppy.sh/users/11499467)**, [acid](https://osu.ppy.sh/users/2913584), [Ceryuia](https://osu.ppy.sh/users/5253213), [Aloda](https://osu.ppy.sh/users/1190127), [Jaye](https://osu.ppy.sh/users/4841352), [rango](https://osu.ppy.sh/users/7728466) |
@@ -95,35 +97,117 @@ The osu!taiko World Cup 2022 is run by various community members.
 | ![][flag_US] | **United States** | **[general chicken](https://osu.ppy.sh/users/8050850)**, [R J](https://osu.ppy.sh/users/6490509), [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [Miniature Lamp](https://osu.ppy.sh/users/9821194), [ChurroChef](https://osu.ppy.sh/users/9258564), [cheese salad](https://osu.ppy.sh/users/6349821) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [AkiraPlayz](https://osu.ppy.sh/users/16039831), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [JackTVN](https://osu.ppy.sh/users/12510704), [njshift1](https://osu.ppy.sh/users/16688499) |
 
-## Match schedule: Round of 16
+## Podium
 
-### Saturday, March 26, 2022
-
-| Team A | | | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| New Zealand | ![][flag_NZ] | ![][flag_PH] | Philippines | Mar 26 (Sat) 10:00 UTC | Mar 26 (Sat) 22:00 UTC+12 | Mar 26 (Sat) 18:00 UTC+8 |
-| Portugal | ![][flag_PT] | ![][flag_SG] | Singapore | Mar 26 (Sat) 13:00 UTC | Mar 26 (Sat) 13:00 UTC | Mar 26 (Sat) 21:00 UTC+8 |
-| Netherlands | ![][flag_NL] | ![][flag_CH] | Switzerland | Mar 26 (Sat) 14:00 UTC | Mar 26 (Sat) 15:00 UTC+1 | Mar 26 (Sat) 15:00 UTC+1 |
-| Poland | ![][flag_PL] | ![][flag_RU] | Russian Federation | Mar 26 (Sat) 15:00 UTC | Mar 26 (Sat) 16:00 UTC+1 | Mar 26 (Sat) 18:00 UTC+3 |
-| Czech Republic | ![][flag_CZ] | ![][flag_AR] | Argentina | Mar 26 (Sat) 16:00 UTC | Mar 26 (Sat) 17:00 UTC+1 | Mar 26 (Sat) 13:00 UTC-3 |
-| Costa Rica | ![][flag_CR] | ![][flag_TR] | Turkey | Mar 26 (Sat) 17:00 UTC | Mar 26 (Sat) 11:00 UTC-6 | Mar 26 (Sat) 20:00 UTC+3 |
-
-### Sunday, March 27, 2022
-
-| Team A | | | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_AU] | Australia | Mar 27 (Sun) 03:00 UTC | Mar 26 (Sat) 22:00 UTC-5 | Mar 27 (Sun) 13:00 UTC+10 |
-| Colombia | ![][flag_CO] | ![][flag_CN] | China | Mar 27 (Sun) 04:00 UTC | Mar 26 (Sat) 23:00 UTC-5 | Mar 27 (Sun) 12:00 UTC+8 |
-| Taiwan | ![][flag_TW] | ![][flag_ID] | Indonesia | Mar 27 (Sun) 10:00 UTC | Mar 27 (Sun) 18:00 UTC+8 | Mar 27 (Sun) 17:00 UTC+7 |
-| Hong Kong | ![][flag_HK] | ![][flag_MY] | Malaysia | Mar 27 (Sun) 11:00 UTC | Mar 27 (Sun) 19:00 UTC+8 | Mar 27 (Sun) 19:00 UTC+8 |
-| South Korea | ![][flag_KR] | ![][flag_FI] | Finland | Mar 27 (Sun) 12:00 UTC | Mar 27 (Sun) 21:00 UTC+9 | Mar 27 (Sun) 14:00 UTC+2 |
-| Germany | ![][flag_DE] | ![][flag_FR] | France | Mar 27 (Sun) 13:00 UTC | Mar 27 (Sun) 14:00 UTC+1 | Mar 27 (Sun) 14:00 UTC+1 |
-| Japan | ![][flag_JP] | ![][flag_CL] | Chile | Mar 27 (Sun) 14:00 UTC | Mar 27 (Sun) 23:00 UTC+9 | Mar 27 (Sun) 11:00 UTC-3 |
-| Brazil | ![][flag_BR] | ![][flag_GB] | United Kingdom | Mar 27 (Sun) 15:00 UTC | Mar 27 (Sun) 12:00 UTC-3 | Mar 27 (Sun) 15:00 UTC |
-| Canada | ![][flag_CA] | ![][flag_SE] | Sweden | Mar 27 (Sun) 16:00 UTC | Mar 27 (Sun) 11:00 UTC-5 | Mar 27 (Sun) 17:00 UTC+1 |
-| Mexico | ![][flag_MX] | ![][flag_IT] | Italy | Mar 27 (Sun) 18:00 UTC | Mar 27 (Sun) 12:00 UTC-6 | Mar 27 (Sun) 19:00 UTC+1 |
+![](img/podium.jpg "TWC 2022 podium")
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (117 MB)](https://drive.google.com/uc?id=1nBTRaLhiOQ7wSGNJBHbdKfu75JRZkj3c)**
+
+- NoMod
+  1. [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai (KTYN) \[KTYN//FIRE (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1744775#taiko/3568501)
+  2. [7\_7 - Meriba (X a v y) \[ONI\]](https://osu.ppy.sh/beatmapsets/1744973#taiko/3569029)
+  3. [Frums - Q.E. (HiroK) \[Mirage\]](https://osu.ppy.sh/beatmapsets/1530469#taiko/3130422)
+  4. [TJ.hangneil - Apollo (Axer) \[Nostradamus\]](https://osu.ppy.sh/beatmapsets/1739877#taiko/3556397)
+  5. [Jiiko - Wocky (Maimaing) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1744951#taiko/3568943)
+  6. [agata - AMAIWTIWNKMS (Nifty) \[TWC Ver.\]](https://osu.ppy.sh/beatmapsets/1744774#taiko/3568498)
+- Hidden
+  1. [Animals as Leaders - Monomyth (Zetera) \[Mess\]](https://osu.ppy.sh/beatmapsets/1744810#taiko/3568619)
+  2. [METAROOM - SPIRAL (woosungko) \[CONVERGENCE (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1744786#taiko/3568534)
+- Hard Rock
+  1. [Retractable - Eye of xxxx (4sbet1) \[Oni\]](https://osu.ppy.sh/beatmapsets/1383882#taiko/2858741)
+  2. [Slax - Too Much Loli (KawaiiBass) \[Go Away 260BPM\]](https://osu.ppy.sh/beatmapsets/1579730#taiko/3225784)
+- Double Time
+  1. [Mothtek - Meltdown (Remix 2022) (KawaiiBass) \[agitato\]](https://osu.ppy.sh/beatmapsets/1744995#taiko/3569182)
+  2. [Gomitaro - S4y G00dby3 (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1454482#taiko/2991949)
+- FreeMod
+  1. [YUKIYANAGI - ALERT (Megafan) \[RAVING ALL NIGHT\]](https://osu.ppy.sh/beatmapsets/1744794#taiko/3568570)
+  2. [The Flashbulb - Ninedump (Arrival) \[tasuke's Perilous\]](https://osu.ppy.sh/beatmapsets/984361#taiko/2059692)
+  3. [Marco Minnemann - Broken Orange (mangomizer) \[mango\]](https://osu.ppy.sh/beatmapsets/1642598#taiko/3433673)
+- Tiebreaker
+  1. **[onumi & Akira Complex - Ethereal Cyber Angel XV (Maimaing) \[Demon\]](https://osu.ppy.sh/beatmapsets/1744942#taiko/3568932)**
+
+### Finals
+
+**[Download the mappack here (81 MB)](https://drive.google.com/uc?id=1qOcr47k05xIJn6o6zg5vUMdNzzVeNqUA)**
+
+- NoMod
+  1. [Otsukisama Koukyoukyoku - ultima Thule (Hivie) \[dm radar for free nominations\]](https://osu.ppy.sh/beatmapsets/1739299#taiko/3554734)
+  2. [Kurokoutei - Nonbinarity (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1414457#taiko/2915423)
+  3. [majiko - Hypocrite Syndrome (\_Rise) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1372080#taiko/2836594)
+  4. [Cattle Decapitation - One Day Closer To The End Of The World (ikin5050) \[Heart Strings\]](https://osu.ppy.sh/beatmapsets/1739224#taiko/3554540)
+  5. [METAROOM - JITTER FANTA (woosungko) \[FIZZY\]](https://osu.ppy.sh/beatmapsets/1739593#taiko/3555451)
+  6. [C-Show - Invitation from Mr.C (Nifty) \[YOU ARE INNERVITED!!!!!!\]](https://osu.ppy.sh/beatmapsets/1739332#taiko/3554816)
+- Hidden
+  1. [wotoha - Lonerism (Cut Ver.) (tasuke912) \[Aloneness\]](https://osu.ppy.sh/beatmapsets/1739910#taiko/3556860)
+  2. [Igorrr - Scarlatti 2.0 (Socus) \[Nihilistic idea\]](https://osu.ppy.sh/beatmapsets/1545368#taiko/3158712)
+- Hard Rock
+  1. [katagiri - terminus//runtimes (Horiiizon) \[gamelan's terminal\]](https://osu.ppy.sh/beatmapsets/1343171#taiko/2862324)
+  2. [goreshit - the dancecore element (Cure) \[7th\]](https://osu.ppy.sh/beatmapsets/1554880#taiko/3176652)
+- Double Time
+  1. [Camellia - flying in the flow of deep-sea (Nwolf) \[SKWolf's Aquatic Oni\]](https://osu.ppy.sh/beatmapsets/397682#taiko/864922)
+  2. [nameless - Toumei Elegy (mintong89) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/450585#taiko/966676)
+- FreeMod
+  1. [Laur - Chimimouryou (komasy) \[Muzukasy\]](https://osu.ppy.sh/beatmapsets/1590899#taiko/3249250)
+  2. [Kabanagu - 20210517demo (Ulqui) \[Hippopotamus\]](https://osu.ppy.sh/beatmapsets/1544926#taiko/3157853)
+  3. [PrimeMIX - Uber 6 (iceOC) \[iceOC's Hell Oni\]](https://osu.ppy.sh/beatmapsets/1739327#taiko/3554801)
+- Tiebreaker
+  1. **[First Fragment - Gloire Eternelle (Grimbow) \[Raimbow Oni\]](https://osu.ppy.sh/beatmapsets/1739222#taiko/3554538)**
+
+### Semifinals
+
+**[Download the mappack here (81 MB)](https://drive.google.com/uc?id=1UGY8w8M0yOsJTOwOpIN2ADEtoCVQGBew)**
+
+- NoMod
+  1. [Spacelectro feat. Momokami - DANCING FOX!!! (applerss) \[NIGHT FOX!!!\]](https://osu.ppy.sh/beatmapsets/1600946#taiko/3269458)
+  2. [The Flashbulb - Lawn Wake IX (\_mtk) \[EZ\]](https://osu.ppy.sh/beatmapsets/1734145#taiko/3544468)
+  3. [GomiTaro - takio mash up (KTYN) \[takio\]](https://osu.ppy.sh/beatmapsets/1400451#taiko/2889284)
+  4. [Veer - Migraine (Wadsy) \[Gracious Head\]](https://osu.ppy.sh/beatmapsets/1734341#taiko/3544843)
+  5. [DJ twinturbo - back in 2015 car audio system (ikin5050) \[Gimmickin\]](https://osu.ppy.sh/beatmapsets/1734189#taiko/3544574)
+- Hidden
+  1. [otetsu - Rubik's Cube (Lumenite-) \[16x16x16\]](https://osu.ppy.sh/beatmapsets/1670975#taiko/3544599)
+  2. [ARM(IOSYS) + Brasscapsule - Jazz is Rad (MTNTWarz) \[swagy wacky jazz\]](https://osu.ppy.sh/beatmapsets/1707183#taiko/3544352)
+- Hard Rock
+  1. [katagiri - Nohmen break (Katagiri Remix) (hoku) \[a hoku of life ^-^\]](https://osu.ppy.sh/beatmapsets/1223733#taiko/2545320)
+  2. [Zekk - Foresight (woosungko) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1726306#taiko/3527937)
+- Double Time
+  1. [YUKIYANAGI - Feeling NRG (Megafan) \[Raving All Night\]](https://osu.ppy.sh/beatmapsets/1453904#taiko/2988883)
+  2. [Srav3R vs Getty - DUAL BREAKER XX (Yumirin) \[ONI XX\]](https://osu.ppy.sh/beatmapsets/1442123#taiko/2966564)
+- FreeMod
+  1. [nujioh - PSYCHE (Nifty) \[Neuroticism\]](https://osu.ppy.sh/beatmapsets/1734235#taiko/3544679)
+  2. [Camellia - gigadelic (Camellia's 'THE TERA' Remix) (-Kazu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/836037#taiko/3543322)
+  3. [Kotori - Anomaly (Kou! "Asymetris" 200step Remix) (KTYN) \[Fate\]](https://osu.ppy.sh/beatmapsets/1734106#taiko/3544464)
+- Tiebreaker
+  1. **[breakchild - NEUROTYPICALSYSTEM (Nwolf) \[out now on soundcloud\]](https://osu.ppy.sh/beatmapsets/1734223#taiko/3544650)**
+
+### Quarterfinals
+
+**[Download the mappack here (73 MB)](https://drive.google.com/uc?id=1sx8PbyPgijk7IzQ5waWdWnbISar6JAVk)**
+
+- NoMod
+  1. [Rahatt - Gas Gas (incandescence) \[C8H18\]](https://osu.ppy.sh/beatmapsets/1641207#taiko/3349737)
+  2. [Sta feat.b - Argent symmetry (4sbet1) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1729383#taiko/3534396)
+  3. [youman - R.I.P. (ekumea1123) \[R.I.P.\]](https://osu.ppy.sh/beatmapsets/1039654#taiko/2173146)
+  4. [kamome sano - Elemental Creation (kamome sano Remix) (-Dusk) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1717750#taiko/3510393)
+  5. [Boom Kitty - Burning Sands (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/1729062#taiko/3533634)
+- Hidden
+  1. [7\_7 - Kongetsugou ha!?!?!? (7\_7) \[The TWC Daily!?!?!?\]](https://osu.ppy.sh/beatmapsets/1014856#taiko/3533569)
+  2. [xi - Zauberkugel (sendol) \[Ura Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1706326#taiko/3533413)
+- Hard Rock
+  1. [Minami Yuni - Kanagawa Cyber Culvert (tasuke912) \[Upheaval (Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/1724253#taiko/3523973)
+  2. [RichaadEB - Spider Dance - Metal Cover (asuasu\_yura) \[Muffet\]](https://osu.ppy.sh/beatmapsets/467190#taiko/999671)
+- Double Time
+  1. [kors k - Monkey Business (lapix Remix) (Arrival) \[Oni (TWC edit.)\]](https://osu.ppy.sh/beatmapsets/721496#taiko/3533667)
+  2. [ONE OK ROCK - Clock Strikes (Chromoxx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/602619#taiko/1272845)
+- FreeMod
+  1. [Plum - Mad Piano Party (incandescence) \[Divertississimo (the twc map)\]](https://osu.ppy.sh/beatmapsets/1727527#taiko/3530351)
+  2. [Ocelot - TSUBAKI (TKS) \[TSUBAKI\]](https://osu.ppy.sh/beatmapsets/177838#taiko/427932)
+  3. [Daily - Astronomia (USAO a.k.a Daily Mix) (Kannes) \[Lno's Dance\]](https://osu.ppy.sh/beatmapsets/1159255#taiko/2421854)
+- Tiebreaker
+  1. **[Venetian Snares - She Runs (Kqrth) \[Oni\]](https://osu.ppy.sh/beatmapsets/583601#taiko/1234950)**
 
 ### Round of 16
 
@@ -196,6 +280,122 @@ The osu!taiko World Cup 2022 is run by various community members.
   1. [seatrus - O (KTYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/1712976#taiko/3500185)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1e6UBnSyrKsoVqGwE3e_Q-uRDJvEAjmFBGxUilmeHIs8/edit?rm=minimal).
+
+Saturday, April 23, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/100019807) |
+
+Sunday, April 24, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/100051772) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Qlbh6F3OZ0ZLnEy12eBhPcuTb32ZcsMBq25dyBePVc0/edit?rm=minimal).
+
+Saturday, April 16, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 1 | **7** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/99804975) |
+| **Germany** ![][flag_DE] | **7** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/99816543) |
+
+Sunday, April 17, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Germany ![][flag_DE] | 6 | **7** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/99836330) |
+| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/99839555) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Vte6gkSYpcamsYoL0BsNPJXDin-FQMvoATke4qIUPn8/edit?rm=minimal).
+
+Saturday, April 9, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Australia ![][flag_AU] | 1 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/99565775) |
+| **Sweden** ![][flag_SE] | **6** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/99569072) |
+| **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/99580358) |
+
+Sunday, April 10, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Indonesia** ![][flag_ID] | **6** | 3 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/99598217) |
+| **Indonesia** ![][flag_ID] | **6** | 3 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/99608677) |
+| **South Korea** ![][flag_KR] | **6** | 1 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/99608458) |
+| **Japan** ![][flag_JP] | **6** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/99610214) |
+| Taiwan ![][flag_TW] | 5 | **6** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/99612233) |
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1SZ1K9ldPL6LgR3iD6QRUZV0KJvU-wFmEDqV0w8-huYM/edit?rm=minimal).
+
+Saturday, April 2, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** ![][flag_BR] | **6** | 3 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/99336587) |
+| **Malaysia** ![][flag_MY] | **6** | 1 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/99339267) |
+| **Finland** ![][flag_FI] | **6** | 4 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/99339409) |
+| **Taiwan** ![][flag_TW] | **6** | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/99341849) |
+| **Chile** ![][flag_CL] | **6** | 3 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/99342997) |
+| **France** ![][flag_FR] | **6** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/99349325) |
+| **United States** ![][flag_US] | **6** | 3 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/99352849) |
+| **Canada** ![][flag_CA] | **6** | 3 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/99360731) |
+
+Sunday, April 3, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **6** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/99370860) |
+| **Hong Kong** ![][flag_HK] | **6** | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/99374323) |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/99378718) |
+| **Taiwan** ![][flag_TW] | **6** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/99381123) |
+| **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/99383387) |
+| **Japan** ![][flag_JP] | **6** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/99383214) |
+| **Germany** ![][flag_DE] | **6** | 3 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/99385496) |
+| **Canada** ![][flag_CA] | **6** | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/99389469) |
+
+### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/19vfkfIEnt0dhqC2cXuCvDSwhvFAeSbw5i_ZAw2l1CtA/edit?rm=minimal).
+
+Saturday, March 26, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **New Zealand** ![][flag_NZ] | **5** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/99114582) |
+| Portugal ![][flag_PT] | 4 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/99117585) |
+| Netherlands ![][flag_NL] | 1 | **5** | ![][flag_CH] **Switzerland** | [#1](https://osu.ppy.sh/community/matches/99119714) |
+| Czech Republic ![][flag_CZ] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/99123857) |
+| Costa Rica ![][flag_CR] | 0 | **5** | ![][flag_TR] **Turkey** | [#1](https://osu.ppy.sh/community/matches/99125955) |
+| **Germany** ![][flag_DE] | **5** | 3 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/99126137) |
+| Mexico ![][flag_MX] | 0 | **5** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/99132507) |
+
+Sunday, March 27, 2022
+
+| Team A | | | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US] | 4 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/99144573) |
+| **Hong Kong** ![][flag_HK] | **5** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/99155883) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/99155889) |
+| Poland ![][flag_PL] | 3 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/99157397) |
+| Taiwan ![][flag_TW] | 4 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/99157464) |
+| Colombia ![][flag_CO] | 0 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/99159135) |
+| **Japan** ![][flag_JP] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/99159159) |
+| Brazil ![][flag_BR] | 4 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/99161154) |
+| Canada ![][flag_CA] | 4 | **5** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/99163168) |
 
 ### Round of 32
 
@@ -284,17 +484,16 @@ Qualifier results:
 3. The maps for each round will be announced by the mapset selectors on the Sunday before the actual matches take place. Only these will be used during the respective matches.
 4. The match schedule will be settled by the Tournament Management (see above).
 5. If no referee is available at match time, the match will be postponed.
-6. Failed players' scores do not get added to the team score.
-7. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
+6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics.
-8. If the beatmap ends in a draw, the game will be nullified.
+7. If the beatmap ends in a draw, the game will be nullified.
    - If a game is nullified, the beatmap will be replayed.
-9. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
+8. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, both teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
-10. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it's clearly communicated in the chatroom.
-11. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
+9. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
+10. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
     - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
     - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
     - Screenshots from other players taken directly in-game that show the affected player's score.
@@ -302,24 +501,24 @@ Qualifier results:
       - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
-12. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
+11. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
     - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 2 participants must be present for the match to begin).
-13. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
-14. Exchanging players between games is allowed without limitations.
-15. **The minimum size for a team is 3 players, and the maximum is 6.**
-16. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-17. All players and staff must be treated with respect. Instructions from the referees and the Tournament Management are to be followed. Decisions labelled as final are not to be objected.
-18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
+12. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
+13. Exchanging players between games is allowed without limitations.
+14. **The minimum size for a team is 3 players, and the maximum is 6.**
+15. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+16. All players and staff must be treated with respect. Instructions from the referees and the Tournament Management are to be followed. Decisions labelled as final are not to be objected.
+17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
-19. Penalties for violating the tournament rules include, but are not limited to:
+18. Penalties for violating the tournament rules include, but are not limited to:
     - Exclusion of specific players for one beatmap.
     - Exclusion of specific players for an entire match.
     - Declaring the match as forfeited, or as a win by default for the other team.
     - Disqualification from the entire tournament.
     - Disqualification from the current and future official tournaments, until appealed.
-20. Referees may allow, at their discretion, lower or higher tolerances for timers.
-21. The Tournament Management may request liveplays or recordings of individual players or teams at any point.
-22. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+19. Referees may allow, at their discretion, lower or higher tolerances for timers.
+20. The Tournament Management may request liveplays or recordings of individual players or teams at any point.
+21. The Tournament Management reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
 
@@ -393,12 +592,12 @@ Qualifier results:
 3. The Qualifiers Stage mappool will consist of 10 maps, Round of 32 and Round of 16 will consist of 14 maps, Quarterfinals and Semifinals will consist of 15 maps, and the Finals and Grand Finals mappools will consist of 16 maps.
 4. Every mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 5. The NoMod bracket will be played with the [No Fail](/wiki/Game_modifier/No_Fail) mod activated.
-6. The Hidden, Hard Rock and Double Time brackets will be played with the respective mods activated.
-7. The FreeMod bracket will have FreeMod activated. Each player may pick Hidden, Hard Rock or Hidden + Hard Rock.
+6. The Hidden, Hard Rock and Double Time brackets will be played with the respective mods activated along with the No Fail mod.
+7. The FreeMod bracket will have FreeMod activated, and the No Fail mod will be enforced. Each player may pick Hidden, Hard Rock or Hidden + Hard Rock.
    - When playing a FreeMod map, at least one player of each team must use a mod.
-   - Players must select different mod combinations. Using only Hidden, Hard Rock, or Hidden + Hard Rock for both players at the same time is not allowed.
-8. The tiebreaker will be played under FreeMod conditions.
-   - While playing the tiebreaker, players do not need to have a mod activated and are allowed to select the same mod combinations.
+   - Both teams must select the No Fail mod in addition to their chosen mod combination.
+   - Players must select different mod combinations. Using only Hidden, Hard Rock, or Hidden + Hard Rock for both players at the same time is not allowed. No Fail will not be counted as a mod (e.g. two players using No Fail + Hidden and Hidden will be considered as using the same mod combination).
+8. The tiebreaker will be played with FreeMod activated, but will not follow the FreeMod bracket rules: players do not need to have a mod activated and are allowed to select the same mod combination. Both teams must select the No Fail mod.
 9. The size of the NoMod bracket will be 3 for the Qualifiers, 4 for the Round of 32 and Round of 16, 5 for the Quarterfinals and Semifinals, and 6 for the Finals and Grand Finals.
 10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be 2 for all stages.
 11. The size of the FreeMod brackets will be 3 for all stages minus the Qualifiers, which will have 1 FreeMod map.

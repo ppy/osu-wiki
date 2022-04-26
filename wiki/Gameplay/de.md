@@ -1,18 +1,32 @@
----
-outdated: true
-outdated_since: 8b4224f1287d609d0b6b564055ef2cbca4a694e5
----
-
 # Gameplay
 
 - [Genauigkeit](/wiki/Gameplay/Accuracy)
+- [Choke](/wiki/Gameplay/Choke)
+- [Combo (Punktemultiplikator)](/wiki/Gameplay/Combo_(score_multiplier))
+- [Combo-Feuer](/wiki/Gameplay/Combo_fire)
+- [Combo-Meilensteine](/wiki/Gameplay/Combo_milestone)
+- [Combo-Multiplikatoreffekt](/wiki/Gameplay/Combo_multiplier_effect)
+- [Comboburst](/wiki/Gameplay/Comboburst)
+- [Dash](/wiki/Gameplay/Dash)
+- [Dash-Snapping](/wiki/Gameplay/Dash_snapping)
 - [Drain-Zeit](/wiki/Gameplay/Drain_time)
+- [Edge-Dash](/wiki/Gameplay/Edge_dash)
 - [Fingerlock](/wiki/Gameplay/Fingerlock)
+- [Note](/wiki/Gameplay/Grade)
+- [Hyperdash](/wiki/Gameplay/Hyperdash)
 - [Eingabegerät](/wiki/Gameplay/Input_device)
+- [Beurteilung](/wiki/Gameplay/Judgement)
+- [Kiai-Time](/wiki/Gameplay/Kiai_time)
 - [Denkblockade](/wiki/Gameplay/Mind_block)
+- [Mehrspieler](/wiki/Gameplay/Multiplayer)
+- [Notelock](/wiki/Gameplay/Judgement/Notelock)
+- [Pass](/wiki/Gameplay/Pass)
 - [Spielzeit](/wiki/Gameplay/Play_time)
-- [Slider break](/wiki/Gameplay/Judgement/Slider_break)
+- [Replay](/wiki/Gameplay/Replay)
+- [Score](/wiki/Gameplay/Score)
+- [Sliderbreak](/wiki/Gameplay/Judgement/Slider_break)
 - [Zuschauen](/wiki/Gameplay/Spectating)
 - [Tablet-Abdeckung](/wiki/Gameplay/Tablet_cover)
+- [Walk](/wiki/Gameplay/Walk)
 
 <!-- TODO: category needs some fleshing out and this index probably shouldn't be empty -->

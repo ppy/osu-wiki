@@ -56,7 +56,7 @@ Eine Liste aller BanchoBot-Befehle befindet sich unten:
 
 <!--note for editors: the code block above reflects the exact response from banchobot -->
 
-*Hinweis: Der Befehl `!request` wird von BanchoBot nicht mehr unterstützt.
+*Hinweis: Der Befehl `!request` wird von BanchoBot nicht mehr unterstützt.*
 
 ### Roll
 

@@ -275,8 +275,6 @@
 "collaboration":               "Beatmap/Beatmap_collaborations"
 "combo":                       "Disambiguation/Combo"
 "combos":                      "Disambiguation/Combo"
-"combo_colour":                "Glossary/Combo_colour"
-"combo_color":                 "Glossary/Combo_colour"
 "combo_fire":                  "Gameplay/Combo_fire"
 "combofire":                   "Gameplay/Combo_fire"
 "glossary/combo_fire":         "Gameplay/Combo_fire"
@@ -314,7 +312,6 @@
 "ds_games":                    "iNiS_games"
 "eba":                         "iNiS_games"
 "elite_beat_agents":           "iNiS_games"
-"fc":                          "Full_combo"
 "geki":                        "Gameplay/Judgement/Geki"
 "elite_beat!":                 "Gameplay/Judgement/Geki"
 "激":                          "Gameplay/Judgement/Geki"
@@ -410,7 +407,6 @@
 "tag4":                        "Beatmap/TAG"
 "tap":                         "Play_style"
 "test_mode":                   "Client/Beatmap_editor/Test_mode"
-"time_signature":              "Beatmapping/Time_signature"
 "timing_section":              "Beatmapping/Timing_section"
 "touchpad":                    "Gameplay/Input_device/Graphics_tablet"
 "touchscreen":                 "Gameplay/Input_device/Graphics_tablet"
@@ -1836,3 +1832,16 @@
 "universal_offset":                 "Client/Options/Universal_offset"
 "osu!_program_files":               "Client/Program_files"
 "osu!_program_files/user_configuration_file": "Client/Program_files/User_configuration_file"
+
+# moved in #6995
+"time_signature":                   "Music_theory/Time_signature"
+"beatmapping/time_signature":       "Music_theory/Time_signature"
+"downbeat":                         "Music_theory/Downbeat"
+
+# moved in #7154
+"fc":                               "Gameplay/Full_combo"
+"full_combo":                       "Gameplay/Full_combo"
+"combo_colour":                     "Beatmapping/Combo_colour"
+"combo_color":                      "Beatmapping/Combo_colour"
+"glossary/combo_colour":            "Beatmapping/Combo_colour"
+"glossary/combo_color":             "Beatmapping/Combo_colour"

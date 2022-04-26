@@ -86,7 +86,7 @@ Important to understand before using:
 #### Technical
 
 - **Metadata must be consistent across all difficulties of a beatmap.**
-- **[Guest difficulty](/wiki/Beatmap/Guest_difficulty) creators, storyboarders, skinners and hitsounders must be added to the tags of a beatmap.** This is to give credit where credit is due and help others identify the main contributors of any given beatmap. Usernames containing single characters separated by spaces must have the spaces replaced with underscores.
+- **[Guest difficulty](/wiki/Beatmap/Guest_difficulty) creators, storyboarders, skinners and hitsounders must be added to the tags of a beatmap.** Guest difficulty creators must be set as difficulty owners for their respective difficulties in addition to being added to tags. This is to give credit where credit is due and help others identify the main contributors of any given beatmap. Usernames in tags containing single characters separated by spaces must have the spaces replaced with underscores.
 - **[Primary metadata sources](/wiki/Beatmap/Primary_metadata_source) must be used as references for metadata.** Do not modify metadata from primary sources except to comply with formatting and standardisation rules below. If no sources are available, use what is most common and recognisable.
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. A song's sole artist cannot be a fictional character or program unless it is the artist's alias.
 - **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, event, etc.** This also applies if the song was featured or tied to a media after it was released, but is primarily known due to that source. If a song has multiple potential sources, any option is valid. 
@@ -168,6 +168,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **If a beatmap's track was contributed to by multiple artists, they may be listed with commas in between.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
 - **For remixes/covers, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is remixed.** This marker should all be in parentheses and contain the remix/cover artist followed by descriptor.
 - **For live performances of a song, the title may include a `(Live Ver.)` marker.** Relevant details of the performance should be put in the beatmap description and tags, such as the date and location.
+- **Words already present in metadata may be repeated in tags, provided the repeated words are part of longer terms or phrases relevant to the beatmap.**
 
 ## Timing
 

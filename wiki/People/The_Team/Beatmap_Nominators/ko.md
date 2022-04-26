@@ -201,7 +201,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
-| ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | 약간의 일본어, 약간의 독일 사람 |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | 러시아인 |
 
 #### osu!catch

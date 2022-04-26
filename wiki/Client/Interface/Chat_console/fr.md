@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # La console de chat
 
 Vous pouvez afficher la console de chat sur la plupart des écrans d'osu! en appuyant sur `F8` ou sur `Show Chat` en bas à droite de l'écran.
