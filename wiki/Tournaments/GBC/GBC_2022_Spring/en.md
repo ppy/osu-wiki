@@ -153,7 +153,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 ## Match results
 
-### Regular stage
+### Regular stage summary
 
 | #¹ | Team | Matches | Beatmaps | BD² | BU³ | Round 1 | Round 2 | Round 3 |
 | :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -174,19 +174,19 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | 15 | Yzhhのqlll森林汪酱不会大叠 | 0-3 | 6-18 | -6 | +1 | 1-6 理塘 | 5-6 bika | 0-6 啊对对 |
 | 16 | 你没对象对不队 | 0-3 | 3-18 | -9 | -1 | 2-6 最强阵 | 1-6 MK | 0-6 啊不对 |
 
-¹ Seed, Top 8 Advanced\
+¹ Seed: the top 8 advance to the next round\
 ² Beatmap difference\
 ³ Buchholz score
 
-#### Regular stage tie-breaker (dice-roll)
+### Regular stage tiebreaker
 
 Sunday, April 24, 2022:
 
-| Team A |  |  | Team B |
-| --:  |--: | :-- | :-- |
-| 大怨种被迫当队长 | 18 | **71** | **货拉拉拉不拉拉布拉多队** |
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| 大怨种被迫当队长 | 18 | **71** | **货拉拉拉不拉拉布拉多队** | *dice roll* |
 
-#### Regular stage week 3
+### Regular stage week 3
 
 Friday, April 22, 2022:
 
@@ -206,12 +206,12 @@ Sunday, April 24, 2022:
 
 | Team A |  |  | Team B | Match link |
 | --:  |--: | :-- | :-- | :-: |
-| Yzhhのqlll森林汪酱不会大叠 | -1 | **0** | **啊对对队** | *Win by default* |
+| Yzhhのqlll森林汪酱不会大叠 | -1 | **0** | **啊对对队** | *win by default* |
 | **GBC最强阵容9个Miyes** | **6** | 4 | 头号倒霉蛋 | [#1](https://osu.ppy.sh/community/matches/100054908) |
-| **啊不对不队** | **0** | -1 | 你没对象对不队 | *Win by default* |
+| **啊不对不队** | **0** | -1 | 你没对象对不队 | *win by default* |
 | **金戈铁马的鲜丰水果摊** | **6** | 1 | 货拉拉拉不拉拉布拉多 | [#1](https://osu.ppy.sh/community/matches/100057491) |
 
-#### Regular stage week 2
+### Regular stage week 2
 
 Saturday, April 16, 2022:
 
@@ -231,7 +231,7 @@ Sunday, April 17, 2022:
 | **货拉拉拉不拉拉布拉多** | **6** | 3 | 涩涩不队 | [#1](https://osu.ppy.sh/community/matches/99840516) |
 | **大怨种被迫当队长** | **6** | 4 | GBC最强阵容9个Miyes | [#1](https://osu.ppy.sh/community/matches/99840241) |
 
-#### Regular stage week 1
+### Regular stage week 1
 
 Saturday, April 9, 2022:
 
@@ -248,7 +248,7 @@ Sunday, April 10, 2022:
 | --:  |--: | :-- | :-- | :-: |
 | Team MyAngel Koishi | 3 | **6** | **大怨种被迫当队长** | [#1](https://osu.ppy.sh/community/matches/99603315) |
 | **货拉拉拉不拉拉布拉多队** | **6** | 4 | 啊不对不队 | [#1](https://osu.ppy.sh/community/matches/99606894) |
-| Yzhhのqlll森林汪酱不会大叠 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99608620), [Screenshot](img/GBC2SprW1M7.jpg) |
+| Yzhhのqlll森林汪酱不会大叠 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99608620), [screenshot](img/GBC2SprW1M7.jpg) |
 | 你没对象对不队 | 2 | **6** | **GBC最强阵容9个Miyes** | [#1](https://osu.ppy.sh/community/matches/99609983) |
 
 ## Ruleset
