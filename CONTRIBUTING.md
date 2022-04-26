@@ -30,7 +30,7 @@ For people familiar with the command line, these CI checks can also be run local
 
 ### Requirements
 
-- Python 3.X
+- Python 3.x
 - Node.js 16
 
 ### Setup
@@ -39,7 +39,7 @@ For people familiar with the command line, these CI checks can also be run local
 pip3 install venv
 python3 -m venv ./.venv
 source ./.venv/bin/activate
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 npm install
 ```
 
