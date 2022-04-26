@@ -87,34 +87,26 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 | 15 | **GBC最强阵容9个Miyes** | ![][flag_CN] **[miyes](https://osu.ppy.sh/users/12942073)**, ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767) |
 | 16 | **头号倒霉蛋** | ![][flag_CN] **[StarTemplar](https://osu.ppy.sh/users/8795096)**, ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634) |
 
-## Match schedule: Regular stage week 3 
+## Match schedule: Playoffs week 1
 
-### Friday, April 22, 2022
+### Saturday, April 30, 2022
 
-| Team A | Team B | Match time |  |
-| --: | :-- | :-: | :-: |
-| 大怨种被迫当队长 | 太美丽了理塘 | Apr 22 (Fri) 20:00 (UTC+8) | ¹ |
+| Team A | Team B | Match time |
+| --: | :-- | :-: |
+| 大怨种被迫当队长 | GBC最强阵容9个Miyes | Apr 30 (Sat) 20:30 (UTC+8) |
 
-### Saturday, April 23, 2022
+### Sunday, May 1, 2022
 
-| Team A | Team B | Match time |  |
-| --: | :-- | :-: | :-: |
-| Yzhhのqlll森林汪酱不会大叠 | 啊对对队 | Apr 23 (Sat) 18:00 (UTC+8) | ³ |
-| 涩涩不队 | bikabika | Apr 23 (Sat) 19:00 (UTC+8) | ² |
-| 可爱的hyahya酱上线啦！！ | MyAngel Koishi | Apr 23 (Sat) 20:00 (UTC+8) | ² |
-| 青叶摩卡的百合后花园 | 皮蛋蛋吸手手俱乐部 | Apr 23 (Sat) 21:00 (UTC+8) | ² |
+| Team A | Team B | Match time |
+| --: | :-- | :-: |
+| 金戈铁马的鲜丰水果摊 | 皮蛋蛋吸手手俱乐部 | May 1 (Sun) 20:30 (UTC+8) |
+| 太美丽了理塘 | 可爱的hyahya酱上线啦！！ | May 1 (Sun) 19:00 (UTC+8) |
 
-### Sunday, April 24, 2022
+### Monday, April 24, 2022
 
-| Team A | Team B | Match time |  |
-| --: | :-- | :-: | :-: |
-| 啊不对不队 | 你没对象对不队 | Apr 24 (Sun) 18:00 (UTC+8) | ³ |
-| GBC最强阵容9个Miyes | 头号倒霉蛋 | Apr 24 (Sun) 19:00 (UTC+8) | ² |
-| 金戈铁马的鲜丰水果摊 | 货拉拉拉不拉拉布拉多 | Apr 24 (Sun) 21:00 (UTC+8) | ¹ |
-
-¹ Round 3 High Matches (Teams with 2-0 record)\
-² Round 3 Mid Matches (Teams with 1-1 record)\
-³ Round 3 Low Matches (Teams with 0-2 record)
+| Team A | Team B | Match time |
+| --: | :-- | :-: |
+| 货拉拉拉不拉拉布拉多 | 涩涩不队 | May 2 (Mon) 19:00 (UTC+8) |
 
 ## Mappools
 
@@ -398,6 +390,7 @@ Tie-breaker (Dice Roll)
 
 1. Each stage will be held on **a single weekend**.
 2. All matches will be held on either a Saturday or Sunday (UTC+8).
+   - With **both** team request and agreed, **reschedule** match to weekdays is permitted to do so.
 3. Scheduling will be handled by the host, and will be released on the Sunday before the first match of the stage. The host will try to create a schedule that respects all participants' preferences.
    - Please inform the host before Sunday if you expect a specific time slot to be unavailable in the following week. The host will try to accommodate all wishes, but makes no promises.
 4. **Reschedules will only be considered if both teams agree to a time. This needs to be done and notified to the tournament staff before Wednesday (23:59 UTC) of that particular week when your match takes place.**
