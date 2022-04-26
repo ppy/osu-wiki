@@ -128,7 +128,7 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 - Tiebreaker
   1. **[Camellia - We Magicians Still Alive in 2021 (HowToPlayLN) \[Everlasting\]](https://osu.ppy.sh/beatmapsets/1517582#mania/3106711)**
 
-### Regular stage week 1 & week 2
+### Regular stage week 1 & 2
 
 **[Download the mappack here (160.84 MB)](https://drive.google.com/file/d/1RYMCSNJOp6_evL9W_JVnqTYzylYZ5mbF/view)**
 
