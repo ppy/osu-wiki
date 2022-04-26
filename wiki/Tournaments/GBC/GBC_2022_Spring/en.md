@@ -10,7 +10,7 @@ tags:
 
 ![GBC 2022 Spring banner](img/GBC-2022-Spring-banner.jpg)
 
-The **GB Cup 2022 Spring** (***GBC 2022 Spring***) was a 3v3 captain draft-based osu!mania 4-key tournament hosted by ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407).
+The **GB Cup 2022 Spring** (***GBC 2022 Spring***) is a 3v3 captain draft-based osu!mania 4-key tournament hosted by ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407).
 
 ## Tournament schedule
 
@@ -28,17 +28,17 @@ The **GB Cup 2022 Spring** (***GBC 2022 Spring***) was a 3v3 captain draft-based
 
 | Placing | Prizes |
 | :-----: | :----- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | profile badge, KanonBot profile badge, ¥250 CNY |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, ¥250 CNY |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, ¥200 CNY |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, ¥150 CNY |
 | 4th place | ¥125 CNY |
 | 5-8th place | ¥75 CNY |
 
-Note: Teams are awarded a ¥25 CNY bonus for each regular stage win.
+Teams are also awarded a ¥25 CNY bonus for each regular stage win.
 
 ## Organisation
 
-The GB Cup 2022 Spring was run by the GB Team and various community members.
+The GB Cup 2022 Spring is run by the GB Team and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
