@@ -178,55 +178,23 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 ² Beatmap difference\
 ³ Buchholz score
 
-#### Regular stage week 1
+#### Regular stage tie-breaker (dice-roll)
 
-Saturday, April 9, 2022
+Sunday, April 24, 2022:
 
-| Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
-| bikabika | 1 | **6** | **青叶摩卡的百合后花园** | [#1](https://osu.ppy.sh/community/matches/99564304) |
-| **可爱的hyahya酱上线啦！！** | **6** | 1 | 啊对对队 | [#1](https://osu.ppy.sh/community/matches/99566208) |
-| **金戈铁马的鲜丰水果摊** | **6** | 1 | 头号倒霉蛋 | [#1](https://osu.ppy.sh/community/matches/99567449) |
-| **涩涩不队** | **6** | 5 | 皮蛋蛋吸手手俱乐部 | [#1](https://osu.ppy.sh/community/matches/99568857) |
-
-Sunday, April 10, 2022
-
-| Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
-| Team MyAngel Koishi | 3 | **6** | **大怨种被迫当队长** | [#1](https://osu.ppy.sh/community/matches/99603315) |
-| **货拉拉拉不拉拉布拉多队** | **6** | 4 | 啊不对不队 | [#1](https://osu.ppy.sh/community/matches/99606894) |
-| Yzhhのqlll森林汪酱不会大叠 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99608620), [Screenshot](img/GBC2SprW1M7.jpg) |
-| 你没对象对不队 | 2 | **6** | **GBC最强阵容9个Miyes** | [#1](https://osu.ppy.sh/community/matches/99609983) |
-
-#### Regular stage week 2
-
-Saturday, April 16, 2022
-
-| Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
-| Yzhhのqlll森林汪酱不会大叠 | 5 | **6** | **bikabika** | [#1](https://osu.ppy.sh/community/matches/99801555) |
-| 啊对对队 | 5 | **6** | **头号倒霉蛋** | [#1](https://osu.ppy.sh/community/matches/99803451) |
-| **金戈铁马的鲜丰水果摊** | **6** | 2 | 可爱的hyahya酱上线啦！！ | [#1](https://osu.ppy.sh/community/matches/99804500) |
-| 啊不对不队 | 3 | **6** | **皮蛋蛋吸手手俱乐部** | [#1](https://osu.ppy.sh/community/matches/99806554) |
-
-Sunday, April 17, 2022
-
-| Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
-| **太美丽了理塘** | **6** | 1 | 青叶摩卡的百合后花园 | [#1](https://osu.ppy.sh/community/matches/99835417) |
-| **MyAngel Koishi** | **6** | 1 | 你没对象对不队 | [#1](https://osu.ppy.sh/community/matches/99837265) |
-| **货拉拉拉不拉拉布拉多** | **6** | 3 | 涩涩不队 | [#1](https://osu.ppy.sh/community/matches/99840516) |
-| **大怨种被迫当队长** | **6** | 4 | GBC最强阵容9个Miyes | [#1](https://osu.ppy.sh/community/matches/99840241) |
+| Team A |  |  | Team B |
+| --:  |--: | :-- | :-- |
+| 大怨种被迫当队长 | 18 | **71** | **货拉拉拉不拉拉布拉多队** |
 
 #### Regular stage week 3
 
-Friday, April 22, 2022
+Friday, April 22, 2022:
 
 | Team A |  |  | Team B | Match link |
 | --:  |--: | :-- | :-- | :-: |
 | 大怨种被迫当队长 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99985568) |
 
-Saturday, April 23, 2022
+Saturday, April 23, 2022:
 
 | Team A |  |  | Team B | Match link |
 | --:  |--: | :-- | :-- | :-: |
@@ -243,11 +211,45 @@ Sunday, April 24, 2022:
 | **啊不对不队** | **0** | -1 | 你没对象对不队 | *Win by default* |
 | **金戈铁马的鲜丰水果摊** | **6** | 1 | 货拉拉拉不拉拉布拉多 | [#1](https://osu.ppy.sh/community/matches/100057491) |
 
-Tie-breaker (Dice Roll)
+#### Regular stage week 2
 
-| Team A |  |  | Team B |
-| --:  |--: | :-- | :-- |
-| 大怨种被迫当队长 | 18 | **71** | **货拉拉拉不拉拉布拉多队** |
+Saturday, April 16, 2022:
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| Yzhhのqlll森林汪酱不会大叠 | 5 | **6** | **bikabika** | [#1](https://osu.ppy.sh/community/matches/99801555) |
+| 啊对对队 | 5 | **6** | **头号倒霉蛋** | [#1](https://osu.ppy.sh/community/matches/99803451) |
+| **金戈铁马的鲜丰水果摊** | **6** | 2 | 可爱的hyahya酱上线啦！！ | [#1](https://osu.ppy.sh/community/matches/99804500) |
+| 啊不对不队 | 3 | **6** | **皮蛋蛋吸手手俱乐部** | [#1](https://osu.ppy.sh/community/matches/99806554) |
+
+Sunday, April 17, 2022:
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| **太美丽了理塘** | **6** | 1 | 青叶摩卡的百合后花园 | [#1](https://osu.ppy.sh/community/matches/99835417) |
+| **MyAngel Koishi** | **6** | 1 | 你没对象对不队 | [#1](https://osu.ppy.sh/community/matches/99837265) |
+| **货拉拉拉不拉拉布拉多** | **6** | 3 | 涩涩不队 | [#1](https://osu.ppy.sh/community/matches/99840516) |
+| **大怨种被迫当队长** | **6** | 4 | GBC最强阵容9个Miyes | [#1](https://osu.ppy.sh/community/matches/99840241) |
+
+#### Regular stage week 1
+
+Saturday, April 9, 2022:
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| bikabika | 1 | **6** | **青叶摩卡的百合后花园** | [#1](https://osu.ppy.sh/community/matches/99564304) |
+| **可爱的hyahya酱上线啦！！** | **6** | 1 | 啊对对队 | [#1](https://osu.ppy.sh/community/matches/99566208) |
+| **金戈铁马的鲜丰水果摊** | **6** | 1 | 头号倒霉蛋 | [#1](https://osu.ppy.sh/community/matches/99567449) |
+| **涩涩不队** | **6** | 5 | 皮蛋蛋吸手手俱乐部 | [#1](https://osu.ppy.sh/community/matches/99568857) |
+
+Sunday, April 10, 2022:
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| Team MyAngel Koishi | 3 | **6** | **大怨种被迫当队长** | [#1](https://osu.ppy.sh/community/matches/99603315) |
+| **货拉拉拉不拉拉布拉多队** | **6** | 4 | 啊不对不队 | [#1](https://osu.ppy.sh/community/matches/99606894) |
+| Yzhhのqlll森林汪酱不会大叠 | 1 | **6** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/99608620), [Screenshot](img/GBC2SprW1M7.jpg) |
+| 你没对象对不队 | 2 | **6** | **GBC最强阵容9个Miyes** | [#1](https://osu.ppy.sh/community/matches/99609983) |
 
 ## Ruleset
 
