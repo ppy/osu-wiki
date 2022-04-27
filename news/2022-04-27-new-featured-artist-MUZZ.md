@@ -16,7 +16,7 @@ See how **MUZZ**'s sound translates to mapping through the video below, then try
 
 <div align="center">
 	<video width="100%" controls>
-    	<source src="https://assets.ppy.sh/artists/261/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/261/release_showcase.mp4" type="video/mp4" preload="none">
 	</video>
 </div>
 
@@ -25,7 +25,7 @@ See how **MUZZ**'s sound translates to mapping through the video below, then try
 Try [this classic marathon](https://osu.ppy.sh/beatmapsets/397905) hosted by [Secretpipe](https://osu.ppy.sh/users/2208964) or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/519474) hosted by [gaston_2199](https://osu.ppy.sh/users/5938161)!
 
 <audio controls>
-	<source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Endgame.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Endgame.mp3" type="audio/mpeg">
 </audio>
 
 ### MUZZ - Spectrum
@@ -37,7 +37,7 @@ Explore any of these stunning maps:
 - [osu!catch marathon](https://osu.ppy.sh/beatmapsets/1442175) hosted by [Greaper](https://osu.ppy.sh/users/2369776)
 
 <audio controls>
-	<source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Spectrum.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Spectrum.mp3" type="audio/mpeg">
 </audio>
 
 ### MUZZ - Draining Atlantic
@@ -45,7 +45,7 @@ Explore any of these stunning maps:
 If you didn't have enough of [Secretpipe](https://osu.ppy.sh/users/2208964) yet, here's [another osu! marathon](https://osu.ppy.sh/beatmapsets/479671).
 
 <audio controls>
-	<source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Draining%20Atlantic.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Draining%20Atlantic.mp3" type="audio/mpeg">
 </audio>
 
 ### MUZZ - Lost Forever
@@ -53,7 +53,7 @@ If you didn't have enough of [Secretpipe](https://osu.ppy.sh/users/2208964) yet,
 Try out [this osu! marathon](https://osu.ppy.sh/beatmapsets/600276) hosted by [Mir](https://osu.ppy.sh/users/8688812)!
 
 <audio controls>
-	<source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Lost%20Forever.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Lost%20Forever.mp3" type="audio/mpeg">
 </audio>
 
 ### MUZZ - Children of Hell
@@ -61,7 +61,7 @@ Try out [this osu! marathon](https://osu.ppy.sh/beatmapsets/600276) hosted by [M
 Here's another [osu! marathon](https://osu.ppy.sh/beatmapsets/452965) hosted by [Secretpipe](https://osu.ppy.sh/users/2208964)!
 
 <audio controls>
-	<source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Children%20of%20Hell.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Children%20of%20Hell.mp3" type="audio/mpeg">
 </audio>
 
 ### MUZZ - Timberwolf
@@ -69,7 +69,7 @@ Here's another [osu! marathon](https://osu.ppy.sh/beatmapsets/452965) hosted by 
 [Another osu! marathon](https://osu.ppy.sh/beatmapsets/419291). Do we really need to say who mapped it?
 
 <audio controls>
-	<source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Timberwolf.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Timberwolf.mp3" type="audio/mpeg">
 </audio>
 
 ### MUZZ - Calling Out (feat. KG & Skyelle)
@@ -77,7 +77,7 @@ Here's another [osu! marathon](https://osu.ppy.sh/beatmapsets/452965) hosted by 
 Test your limits with [this loved map](https://osu.ppy.sh/beatmapsets/392041) hosted by [elchxyrlia](https://osu.ppy.sh/users/1722835)!
 
 <audio controls>
-	<source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Calling%20Out%20(feat.%20KG%20%26%20Skyelle).mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Calling%20Out%20(feat.%20KG%20%26%20Skyelle).mp3" type="audio/mpeg">
 </audio>
 
 ### MUZZ - Break Away (feat. Priority One)
@@ -85,7 +85,7 @@ Test your limits with [this loved map](https://osu.ppy.sh/beatmapsets/392041) ho
 On the opposide side of the difficulty spectrum, try this [easier osu! marathon](https://osu.ppy.sh/beatmapsets/789823) hosted by [Peter](https://osu.ppy.sh/users/8623835)!
 
 <audio controls>
-	<source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Break%20Away%20(feat.%20Priority%20One).mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Break%20Away%20(feat.%20Priority%20One).mp3" type="audio/mpeg">
 </audio>
 
 ### MUZZ - Crescendo (feat. MYLK)
@@ -93,7 +93,7 @@ On the opposide side of the difficulty spectrum, try this [easier osu! marathon]
 If circles aren't your thing, enjoy [this osu!catch map](https://osu.ppy.sh/beatmapsets/526032) hosted by [WildOne94](https://osu.ppy.sh/users/3482692)!
 
 <audio controls>
-	<source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Crescendo%20(feat.%20MYLK).mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Crescendo%20(feat.%20MYLK).mp3" type="audio/mpeg">
 </audio>
 
 ---
