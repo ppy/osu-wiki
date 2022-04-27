@@ -100,7 +100,7 @@ If circles aren't your thing, enjoy [this osu!catch map](https://osu.ppy.sh/beat
 
 Here's [**MUZZ**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/261). You know what to do.
 
-In case you missed [our Stonebank announcement](https://osu.ppy.sh/home/news/2022-04-06-new-featured-artist-stonebank), we're now working with *Monstercat* to bring talents beloved by the osu! community to our Featured Artists collection. Check the [**Monstercat** listing](https://osu.ppy.sh/beatmaps/artists/255) for a continually updated list of *Monstercat* tunes!
+In case you missed [our Stonebank announcement](https://osu.ppy.sh/home/news/2022-04-06-new-featured-artist-stonebank), we're now working with **Monstercat** to bring talents beloved by the osu! community to our Featured Artists collection. Check the [**Monstercat** listing](https://osu.ppy.sh/beatmaps/artists/255) for a continually updated list of *Monstercat* tunes!
 
 And that's all for now! Another artist will be joining our ranks this Saturday, so keep an eye on the [@osugame Twitter](https://twitter.com/osugame) and enjoy **MUZZ**'s magic in the meantime.
 
