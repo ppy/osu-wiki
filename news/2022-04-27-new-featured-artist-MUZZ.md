@@ -15,9 +15,9 @@ Take your pick from **12** energetic tracks including classics like *Children of
 See how **MUZZ**'s sound translates to mapping through the video below, then try playing any of the awesome maps below:
 
 <div align="center">
-	<video width="100%" controls>
+    <video width="100%" controls>
         <source src="https://assets.ppy.sh/artists/261/release_showcase.mp4" type="video/mp4" preload="none">
-	</video>
+    </video>
 </div>
 
 ### MUZZ - Endgame
