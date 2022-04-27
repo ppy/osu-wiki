@@ -82,7 +82,7 @@ Test your limits with [this loved map](https://osu.ppy.sh/beatmapsets/392041) ho
 
 ### MUZZ - Break Away (feat. Priority One)
 
-On the opposide side of the difficulty spectrum, try [this easier osu! marathon](https://osu.ppy.sh/beatmapsets/789823) hosted by [Peter](https://osu.ppy.sh/users/8623835)!
+On the opposite side of the difficulty spectrum, try [this easier osu! marathon](https://osu.ppy.sh/beatmapsets/789823) hosted by [Peter](https://osu.ppy.sh/users/8623835)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/261/Songs/MUZZ%20-%20Break%20Away%20(feat.%20Priority%20One).mp3" type="audio/mpeg">
