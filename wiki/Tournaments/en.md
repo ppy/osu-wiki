@@ -294,6 +294,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [PERAK osu! Tournament](POT/1) | 2021-01-17 | 2021-04-04 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| [PERAK osu! Tournament 2022](POT/2022) | 2022-02-21 | 2022-04-24 | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) |
 
 #### Rapid Monthly osu! Tournament Invitationals
 
