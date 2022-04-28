@@ -8,7 +8,7 @@ tags:
 
 ![PERAK osu! Tournament logo](img/logo.jpg)
 
-The **PERAK osu! Tournament** was a double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) and ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) as part of the annual [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament was open to all players who were registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It was the first iteration of the PERAK osu! Tournament.
+The **PERAK osu! Tournament**  (***POT***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) and ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) as part of the annual [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament was open to all players who were registered as a student at (or alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It was the first iteration of the PERAK osu! Tournament.
 
 ## Tournament schedule
 
@@ -56,8 +56,8 @@ The PERAK osu! Tournament was run by various Indonesian osu! community members.
 
 Listed below are players who managed to qualify into the Round of 12 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 19 registered players in total.
 
-| Seed No. | Player | Avg. Map Rank |
-| :-- | :-- | :-- |
+| Seed | Player | Avg. map rank |
+| :-: | :-- | :-- |
 | 1 | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) | 1.6 |
 | 2 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | 2.8 |
 | 3 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | 4.1 |
