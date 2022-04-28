@@ -1,5 +1,7 @@
 ---
 tags:
+  - I can't submit my own beatmap!
+  - beatmap submission system issues
   - Я не могу отправить свою карту на рассмотрение!
   - проблемы с beatmap submission system
 ---
