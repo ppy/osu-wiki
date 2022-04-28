@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 17eeba86a2344329aec159f1673c810a37a874b4
+---
+
 # Comment vous pouvez aider !
 
 osu! a une communauté très vivante composée de personnes du monde entier. Et tout le monde peut faire partie de la communauté à sa manière ! 
