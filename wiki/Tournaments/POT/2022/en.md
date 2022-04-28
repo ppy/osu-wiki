@@ -8,7 +8,7 @@ tags:
 
 ![PERAK osu! Tournament 2022 logo](img/banner.jpg)
 
-The **PERAK osu! Tournament 2022** (***POT 2022***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) as part of the annual [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament was open to all players who were registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It was the second iteration of the PERAK osu! Tournament.
+The **PERAK osu! Tournament 2022** (***POT 2022***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) as part of the annual [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament was open to all players who were registered as a student at (or alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It was the second iteration of the PERAK osu! Tournament.
 
 ## Tournament schedule
 
