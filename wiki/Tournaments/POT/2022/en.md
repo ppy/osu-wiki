@@ -346,7 +346,7 @@ Monday, 7 March 2022:
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, a player must be able to attest their status as a registered student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) by showing a valid [EMAS UI credential](http://emas.ui.ac.id) to the Tournament Management.
+   - In order to be eligible to play in the tournament, a player must be able to attest their status as a registered student at (or alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) by showing a valid [EMAS UI credential](http://emas.ui.ac.id) to the Tournament Management.
 2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. Test players, referees, and mappool selectors may not participate as players in this tournament.
