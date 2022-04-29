@@ -17,15 +17,20 @@ do
     # git ls-tree will output:
     # (file mode) (file type) (blob hash)<TAB>(file name)
     # we're interested in the hash to pull the file's size using cat-file
-    hash=`git ls-tree ${LAST_COMMIT_HASH} "${file}" | awk -F ' ' '{ print $3 }'`
-    filesize=`git cat-file -s ${hash} 2>/dev/null`
+    if [[ -z "${LAST_COMMIT_HASH}" ]]; then
+        # manually check in local ci runs to account for uncommitted files
+        filesize=`stat --format=%s ${file}`
+    else
+        hash=`git ls-tree ${LAST_COMMIT_HASH} "${file}" | awk -F ' ' '{ print $3 }'`
+        filesize=`git cat-file -s ${hash} 2>/dev/null`
+    fi
     if [[ ${filesize} -ge ${ERROR_ON_SIZE} ]]; then
         printf "$( echo_red 'Error:' ) The size of \"${file}\" exceeds 1MB. Compress it to optimise performance.\n"
         EXIT=1
     elif [[ ${filesize} -ge ${WARN_ON_SIZE} ]]; then
         printf "$( echo_yellow 'Warning:' ) The size of \"${file}\" exceeds 500kB. Consider compressing it to optimise performance.\n"
   fi
-done < <(git diff --numstat --no-renames --diff-filter=d ${FIRST_COMMIT_HASH}^ ${LAST_COMMIT_HASH} | grep -Eoe '-\t-\t\K.+')
+done < <(git diff --numstat --no-renames --diff-filter=d ${FIRST_COMMIT_HASH}^ ${LAST_COMMIT_HASH} | awk '/^-\t-\t/ { print $3 }')
 # git diff --numstat will output -<TAB>-<TAB>$filename for blobs
 
 if [[ ${EXIT} -eq 0 ]]; then
