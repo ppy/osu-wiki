@@ -166,7 +166,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
 - **If a Unicode song title or artist has an official translation or romanisation provided by the artist, it may be used in the respective romanised field. If both a translation and romanisation are available, either may be used.**
 - **If a beatmap's track was contributed to by multiple artists, they may be listed with commas in between.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
-- **For remixes, covers, or performances, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is remixed.** This marker should all be in parentheses and contain the remix/cover artist followed by descriptor.
+- **For remixes, covers, or performances, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is become different.** This marker should all be in parentheses and contain the remix/cover/performances artist followed by descriptor.
 - **For live performances of a song, the title may include a `(Live Ver.)` marker.** Relevant details of the performance should be put in the beatmap description and tags, such as the date and location.
 - **Words already present in metadata may be repeated in tags, provided the repeated words are part of longer terms or phrases relevant to the beatmap.**
 
