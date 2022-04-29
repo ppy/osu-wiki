@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 44a89d5d1b2e627f6fad43aa6b69563fe976ae68
----
-
 # osu!catch ranking criteria
 
 ***注意: 这个文件是[通用 Ranking Criteria](/wiki/Ranking_Criteria)的扩展。***
@@ -18,7 +13,7 @@ outdated_since: 44a89d5d1b2e627f6fad43aa6b69563fe976ae68
 #### 规定
 
 - **你的谱面必须理论上可以 SS。** 这意味着必须可以完全接住所有[水果/大果](/wiki/Hit_object/Fruit)、[水滴/中果](/wiki/Hit_object/Juice_stream#drop)、[小水滴/小果](/wiki/Hit_object/Juice_stream#droplet)。
-- **除非强制使用默认皮肤，谱面必须设置至少两种不同的自定义 combo 颜色。** 任何情况下，combo 颜色组不能与谱面的背景图片、故事板、背景视频相混淆。这保证了玩家能看清所有物件，并避免使用了自定义 combo 颜色组的物件不会凑巧与背景元素相混淆。
+- **除非强制使用默认皮肤，谱面必须设置至少两种不同的自定义 [combo 颜色](/wiki/Beatmapping/Combo_colour)。** 任何情况下，combo 颜色组不能与谱面的背景图片、故事板、背景视频相混淆。这保证了玩家能看清所有物件，并避免使用了自定义 combo 颜色组的物件不会凑巧与背景元素相混淆。
 - **请勿在 hitnormal 音效较弱时使用[键盘音](/wiki/Beatmapping/Hitsound#keysound)。** 如果键盘音与歌曲混淆，此时玩家不能获得足够的反馈。
 
 #### 准则
@@ -32,8 +27,8 @@ outdated_since: 44a89d5d1b2e627f6fad43aa6b69563fe976ae68
   - 在两者的值不相同的情况下，OD 的数值不能超过下一更高难度的 OD 值。
 - **[滑条点倍率](/wiki/Beatmapping/Slider_tick_rate)应按歌曲节奏类型来设置。** 举个例子，如果你的歌曲包含了 1/3 节拍细分的段落，那么此时很不适合使用 2 倍或 4 倍滑条点倍率。
 - **在谱面的所有难度内需使用相同的滑条点倍率。** 因为它仅仅反映了歌曲的属性，而不是谱面的属性。然而，在低难谱面内也可以使用较低的滑条点倍率来降低对新手玩家的准确度要求，且能让他们能跟上歌曲的节奏。但单纯地通过使用较高的滑条点倍率来提高分数、连击、难度是毫无意义的做法。
-- **避免使用亮度小于等于 50 的 [Combo 颜色](/wiki/Glossary/Combo_colour)。** 暗色会干扰低背景亮度下[水果/大果](/wiki/Hit_object/Fruit)的读图。
-- **避免当处于 kiai 时间时，使用亮度大于等于 220 的 [Combo 颜色](/wiki/Glossary/Combo_colour)。** 闪光瞎眼。
+- **避免使用亮度小于等于 50 的 [Combo 颜色](/wiki/Beatmapping/Combo_colour)。** 暗色会干扰低背景亮度下[水果/大果](/wiki/Hit_object/Fruit)的读图。
+- **避免当处于 kiai 时间时，使用亮度大于等于 220 的 [Combo 颜色](/wiki/Beatmapping/Combo_colour)。** 闪光瞎眼。
 
 ### 皮肤
 
@@ -134,7 +129,7 @@ outdated_since: 44a89d5d1b2e627f6fad43aa6b69563fe976ae68
 
 - **不应使用超远的[红果跳](/wiki/Gameplay/Hyperdash)。** [基础](/wiki/Gameplay/Dash_snapping#basic-snapped)红果跳推荐限制为[触发距离](/wiki/Glossary/Trigger_distance)的 1.5 倍内，而[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)红果跳推荐限制为[触发距离](/wiki/Glossary/Trigger_distance)的 1.3 倍内。
 - **可以在[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[红果跳](/wiki/Gameplay/Hyperdash)内使用[反向](/wiki/Beatmapping/Antiflow)梗。** 若使用，则后接[走路](/wiki/Gameplay/Walk)的基础红果跳应限制为触发距离的 1.2 倍内，后接[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[白果跳](/wiki/Gameplay/Dash)的基础红果跳应限制为触发距离的 1.1 倍内。
-- **最好不要在[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)后使用[反向](/wiki/Beatmapping/Antiflow)梗。** 若使用，则它应限制为[触发距离](/wiki/Glossary/Trigger_distance)的 1.1 倍，且之后必须接[走路](/wiki/Gameplay/Walk)排列。
+- **最好不要在[短时](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)后使用[反向](/wiki/Beatmapping/Antiflow)梗。** 若使用，则它应限制为[触发距离](/wiki/Glossary/Trigger_distance)的 1.1 倍。
 - **包括滑条尾和滑条折返，[Combo](/wiki/Beatmapping/Combo) 不应该超过 12 个物件。** [转盘](/wiki/Hit_object/Spinner)除外。
 - **谱面物件密度应主要由 1/2 或 1/3 节奏组成。** 1/4 或 1/6 节奏应极少使用。
 
