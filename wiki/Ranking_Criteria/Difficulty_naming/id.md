@@ -119,6 +119,11 @@ Mapset yang memiliki lagu yang berasal dari game ritme lain sering kali mengguna
 - ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) VIVID / VVD
 
+#### SOUND VOLTEX EXCEED GEAR
+
+- ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
+
 ### Arcaea
 
 - ![](/wiki/shared/diff/normal-o.png?20211215) Past

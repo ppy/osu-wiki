@@ -119,6 +119,11 @@ Les beatmaps de musiques provenant d'autres jeux de rythme empruntent souvent le
 - ![](/wiki/shared/diff/expert-o.png) MAXIMUM / MXM
 - ![](/wiki/shared/diff/expertplus-o.png) VIVID / VVD
 
+#### SOUND VOLTEX EXCEED GEAR
+
+- ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
+
 ### Arcaea
 
 - ![](/wiki/shared/diff/normal-o.png) Past
