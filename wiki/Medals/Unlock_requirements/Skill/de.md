@@ -2,10 +2,10 @@
 
 | Medaillenname | Anforderung |
 | :-- | :-- |
-| 500 Combo | Erziele eine 500ter Combo auf einer Beatmap in irgendeinem Spielmodus. |
-| 750 Combo | Erziele eine 750ter Combo auf einer Beatmap in irgendeinem Spielmodus. |
-| 1000 Combo | Erziele eine 1000ter Combo auf einer Beatmap in irgendeinem Spielmodus. |
-| 2000 Combo | Erziele eine 2000ter Combo auf einer Beatmap in irgendeinem Spielmodus. |
+| 500 Combo | Erziele eine 500er Combo auf einer Beatmap in irgendeinem Spielmodus. |
+| 750 Combo | Erziele eine 750er Combo auf einer Beatmap in irgendeinem Spielmodus. |
+| 1000 Combo | Erziele eine 1000er Combo auf einer Beatmap in irgendeinem Spielmodus. |
+| 2000 Combo | Erziele eine 2000er Combo auf einer Beatmap in irgendeinem Spielmodus. |
 | I can see the top | Erziele einen globalen Rang von #50.000 oder höher in irgendeinem Spielmodus. |
 | The gradual rise | Erziele einen globalen Rang von #10.000 oder höher in irgendeinem Spielmodus. |
 | Scaling up | Erziele einen globalen Rang von #5.000 oder höher in irgendeinem Spielmodus. |
