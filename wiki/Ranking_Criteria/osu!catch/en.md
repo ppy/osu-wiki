@@ -13,7 +13,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 #### Rules
 
 - **Your map must theoretically be possible to SS.** This means it must be possible to catch absolutely all [fruits](/wiki/Hit_object/Fruit), [drops](/wiki/Hit_object/Juice_stream#drop) and [droplets](/wiki/Hit_object/Juice_stream#droplet).
-- **Each beatmap must use at least two different custom [combo colours](/wiki/Glossary/Combo_colour) unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
+- **Each beatmap must use at least two different custom [combo colours](/wiki/Beatmapping/Combo_colour) unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
 - **Do not use keysounds without hitnormal support.** If sounds blend perfectly with the song, feedback for hitting notes is minimal.
 
 #### Guidelines
@@ -27,8 +27,8 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
   - If a difficulty uses a lower Approach Rate than one or more difficulties in the difficulty level below it, then the Overall Difficulty should be equal to that of the highest Overall Difficulty value in the previous difficulty level.
 - **Slider tick rate should be set according to the song.** For example if your song only uses 1/3 snapping, using tick rate 2 or 4 would not be fitting.
 - **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
-- **Avoid using [combo colours](/wiki/Glossary/Combo_colour) with ~50 luminosity or lower.** Dark colours impact the readability of [fruits](/wiki/Hit_object/Fruit) with low background dim.
-- **Avoid using [combo colours](/wiki/Glossary/Combo_colour) with ~220 luminosity or higher if Kiai time is used.** Light colours create bright pulses during Kiai time, which can be unpleasant to the eyes.
+- **Avoid using [combo colours](/wiki/Beatmapping/Combo_colour) with ~50 luminosity or lower.** Dark colours impact the readability of [fruits](/wiki/Hit_object/Fruit) with low background dim.
+- **Avoid using [combo colours](/wiki/Beatmapping/Combo_colour) with ~220 luminosity or higher if Kiai time is used.** Light colours create bright pulses during Kiai time, which can be unpleasant to the eyes.
 
 ### Skinning
 
