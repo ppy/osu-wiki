@@ -164,7 +164,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 
 ## Elite Nominators
 
-Since 2020, members of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) who have been displaying an exceptional performance towards supporting the ranking system in a given year are rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and is removed upon the user leaving the team.
+Since 2020, members of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) with an exceptional display towards supporting the ranking system in a given year are rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, lasts for roughly a year, and is removed upon the user leaving the team.
 
 - ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229)
 - ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065)
