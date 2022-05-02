@@ -36,7 +36,7 @@ Ne modifiez pas le fichier `tournament.cfg` quand osu! est ouvert. Fermez osu! p
   - Le client calculera la largeur automatiquement avec le ratio 16:9.
   - La "zone streamable" du client n'inclut pas le panneau de contrôle. En général, le panneau de contrôle est plus large de 200 pixels que la hauteur du client, donc, par exemple, un écran de 1440p serait propre pour streamer un tournoi en 1080p.
   - Défaut : 720, pouvant aller de 568 à 2160
-- `Aspect` : Le rapport d'aspect des affichages du champ de jeu.
+- `Aspect` : Le rapport d'aspect des affichages du terrain de jeu.
   - Notez que cela ne s'applique qu'aux dispositions 2v2.
   - Une valeur de 1.5 est optimale pour osu!taiko.
   - Valeur par défaut : 2, plage autorisée : 1-2
