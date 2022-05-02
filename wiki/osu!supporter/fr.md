@@ -8,16 +8,16 @@ tags:
 
 # osu!supporter
 
-**osu!supporter** (ou le ***tag osu!supporter***) est un titre temporaire donné aux joueurs qui supportent osu! en faisant un don monétaire volontaire afin d'aider le jeu à prospérer. Les supporters reçoivent une poignée de bénéfices cosmétique et technique, la plupart d'entre eux sont actifs uniquement lorsque le titre est présent. Les fonctionnalités supplémentaires d'osu!supporter ne donnent aucun avantage en matière de jeu, de performance ou de score, et ne le feront jamais.
+**osu!supporter** (ou le ***tag osu!supporter***) est un titre temporaire donné aux joueurs qui soutiennent osu! en faisant un don monétaire volontaire afin d'aider le jeu à prospérer. Les supporters reçoivent une poignée de bénéfices cosmétiques et techniques, la plupart d'entre eux sont actifs uniquement lorsque le titre est présent. Les fonctionnalités supplémentaires du osu!supporter ne donnent aucun avantage en matière de gameplay, de performance ou de score, et ne le feront jamais.
 
-Le tag osu!supporter peut-être obtenu depuis [la page de boutique osu!supporter](https://osu.ppy.sh/store/products/supporter-tag).
+Le tag osu!supporter peut être obtenu depuis [la page de magasin osu!supporter](https://osu.ppy.sh/store/products/supporter-tag).
 
 ## Fonctionnalités
 
 ### Badge de cœur
 
 ::: Infobox
-![](img/userpage.png?1 "profil avec osu!supporter")
+![](img/userpage.png?1 "Profil avec osu!supporter")
 :::
 
 ::: Infobox
@@ -28,12 +28,12 @@ Les supporters obtiennent un badge orné de cœurs. Il peut-être trouvé à cô
 
 - Moins d'1 an : 1 cœur
 - De 1 à 5 ans : 2 cœurs
-- Plus de 5 ans : 3 cœur
+- Plus de 5 ans : 3 cœurs
 
 ### Couleur du nom d'utilisateur
 
 ::: Infobox
-![](img/chat.png "Une personne avec osu!supporter dans un tchat")
+![](img/chat.png "Un utilisateur avec osu!supporter dans le tchat")
 :::
 
 Les noms d'utilisateurs des supporters actifs apparaissent en jaune clair dans le [tchat](/wiki/Client/Interface/Chat_console) pour les autres utilisateurs.
@@ -42,24 +42,24 @@ Les noms d'utilisateurs des supporters actifs apparaissent en jaune clair dans l
 
 Les supporters reçoivent une nouvelle section de profil intitulé `moi !`, souvent appelé page utilisateur. La page utilisateur sert en tant qu'espace personnel éditable, où le texte est formaté en utilisant le [BBCode](/wiki/BBCode). Cette fonctionnalité est permanente et reste éditable même après qu'osu!supporter ai expiré.
 
-La section `moi !` est une bonne place pour :
+La section `moi !` est un bon endroit pour :
 
-- Les bannières, les collabs, ainsi que des infographies pour pimenter le profil
+- Les bannières, les collabs, ainsi que des infographies pour pimenter le profil.
 - Quelques paragraphes ou articles donnant un aperçu de la vie d'un joueur.
-- Une vitrine de leurs maps et mappers préférés, ou tout autre élément qu'ils jugent important.
+- Une vitrine des maps et mappeurs préférés d'un joueur, ou tout autre élément qu'il juge important.
 
-### Couverture de profil
+### Bannière de profil
 
-Les supporters peuvent customiser d'avantage leur profil en ajoutant une image de couverture :
+Les supporters peuvent customiser davantage leur profil en ajoutant une bannière :
 
-- Appuyez sur l'icône de crayon dans le coin en bas à droite de la couverture.
-- Sélectionnez une nouvelle couverture à partir d'options prédéfinies, ou publier votre propre image (ses dimensions doivent-être de 2400x640). 
+- Appuyez sur l'icône en forme de crayon dans le coin en bas à droite de la bannière.
+- Sélectionnez une nouvelle bannière à partir d'options prédéfinies, ou en mettant en ligne votre propre image (ses dimensions doivent être de 2400x640). 
 
-Une fois qu'osu!supporter aura expiré, cette couverture restera mais ne pourra plus être modifiée.
+Une fois que le tag osu!supporter aura expiré, cette bannière restera mais ne pourra plus être modifiée.
 
 ### Un changement de pseudo gratuit
 
-*Note : Des changements de nom mineurs peuvent-être demandés directement à l'équipe de support gratuitement, voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#changements-de-nom).*
+*Remarque : Des changements de pseudo mineurs peuvent-être demandés directement à l'équipe de support gratuitement, voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#changements-de-nom).*
 
 Obtenir osu!supporter donne la possibilité de changer de nom d'utilisateur gratuitement la première fois en respectant les [conditions habituelles](/wiki/Help_centre/Account#changements-de-nom).
 
@@ -67,17 +67,17 @@ Obtenir osu!supporter donne la possibilité de changer de nom d'utilisateur grat
 
 osu!direct est l'outil de recherche et de téléchargement de beatmap en jeu disponible pour les supporters. On peut y accéder depuis le menu principal en cliquant sur le label vertical `osu!direct` sur le côté droit de l'écran. En plus d'une liste intégrée de beatmaps, osu!direct fournit d'autres moyens d'obtenir de nouvelles beatmaps sans quitter le jeu :
 
-- Les liens de beatmaps dans le chat qui pointent vers le lien de la map sur le site web d'osu! déclenchent maintenant le téléchargement directement en jeu
-- Téléchargements automatiques en jouant dans un lobby [multijoueur](/wiki/Gameplay/Multiplayer) ou en [observant](/wiki/Gameplay/Spectating) un autre joueur en tant que [paramètre d'exclusion](/wiki/Client/Options#integrations)
-- Liaison automatique des beatmaps actuellement jouées dans l'onglet chat `#spectator` pour les spectateurs en tant que [paramètre d'exclusion](/wiki/Client/Options#integrations)
+- Les liens de beatmaps dans le tchat qui mènent vers la page de la beatmap sur le site web d'osu! démarrent directement le téléchargement en jeu.
+- Téléchargements automatiques en jouant dans un lobby [multijoueur](/wiki/Gameplay/Multiplayer) ou en [observant](/wiki/Gameplay/Spectating) un autre joueur en tant que [paramètre](/wiki/Client/Options#integrations).
+- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs en tant que [paramètre](/wiki/Client/Options#integrations)
 
 ### Classements avancés
 
-Les supporters ont accès à plusieurs outils spécifiques aux [classements](/wiki/Beatmap#leaderboards) d'une beatmap, disponible à la fois en jeu et sur le site web : 
+Les supporters ont accès à plusieurs outils spécifiques aux [classements](/wiki/Beatmap#leaderboards) d'une beatmap, disponibles à la fois en jeu et sur le site web : 
 
-- Les classements globaux pour toutes les combinaisons de [modificateurs de jeu](/wiki/Game_modifier)
-- Le classement par pays des joueurs portant le même drapeau
-- Le classement des amis qui montre la position d'un joueur sur une carte par rapport à ses amis.
+- Les classements globaux pour toutes les combinaisons de [modificateurs de jeu](/wiki/Game_modifier).
+- Le classement par pays des joueurs portant le même drapeau.
+- Le classement des amis qui montre la position d'un joueur sur une beatmap par rapport à ses amis.
 
 ### Limites plus souples
 
@@ -89,40 +89,40 @@ osu! propose aux supporters des limites plus souples sur diverses fonctionnalit�
 | Beatmap favorites en ligne | 100 | 1000 |
 | Nombre d'amis | 250 | 500 |
 
-De plus, les détenteurs d'osu!supporter bénéficient de limites de téléchargement de beatmap plus clémentes.
+De plus, les détenteurs d'osu!supporter bénéficient de limites de téléchargement de beatmap plus souples.
 
 ### Éléments skinnables supplémentaires
 
-Après avoir obtenu osu!supporter, certains éléments visuels et sonores de l'interface d'osu ! deviennent skinnables :
+Après avoir obtenu osu!supporter, certains éléments visuels et sonores de l'interface d'osu! deviennent skinnables :
 
 | Élément | Description |
 | :-- | :-- |
 | `menu-background.jpg` | Le fond du menu principal |
 | `welcome_text.png` | Le texte de "bienvenue" qui apparaît au démarrage du jeu |
-| `welcome.wav` | Le sample "welcome to osu !" qui joue au démarrage du jeu |
-| `seeya.wav` | Le sample "see ya next time" qui est joué quand le jeu s'arrête |
+| `welcome.wav` | Le sample "welcome to osu!" qui est joué au démarrage du jeu |
+| `seeya.wav` | Le sample "see ya next time" qui est joué quand le jeu se ferme |
 
 Pour plus de détails, voir [Skinning de l'interface § Menu principal](/wiki/Skinning/Interface#menu-principal) et [Skinning des sons § Menu principal](/wiki/Skinning/Sounds#menu-menu-principal).
 
 ### Recherche étendue
 
 ::: Infobox
-![](img/beatmap-search.png "Page de recherche Beatmap sur le site web, avec deux nouveaux filtres en bas")
+![](img/beatmap-search.png "Page de recherche de beatmaps sur le site web, avec deux nouveaux filtres en bas")
 :::
 
 Les supporters ont accès à une liste étendue de filtres de [recherche de beatmap](https://osu.ppy.sh/beatmapsets) :
 
-- Beatmaps qui ont été (ou n'ont pas été) joués
-- Beatmaps où un score avec un certain [grade](/wiki/Gameplay/Grade) a été réalisé.
+- Les beatmaps qui ont été (ou n'ont pas été) jouées
+- Les beatmaps sur lesquelles un score avec une certaine [note](/wiki/Gameplay/Grade) a été réalisé.
 
 ### Multijoueur dans les versions expérimentales d'osu!
 
-Les supporteurs peuvent accéder au mode multijoueur à partir des versions en accès anticipé "cutting edge".
+Les supporters peuvent accéder au mode multijoueur à partir des versions en accès anticipé "cutting edge".
 
 ### Durée restante
 
 ::: Infobox
-![](img/status.jpg?1 "Trois mois d'osu!supporter restant")
+![](img/status.jpg?1 "Trois mois d'osu!supporter restants")
 :::
 
 La durée restante d'osu!supporter, ainsi que le montant total des contributions, des achats de tags et des cadeaux, sont disponibles en haut de la page [de promotion d'osu!supporter](https://osu.ppy.sh/home/support).
@@ -135,7 +135,7 @@ La durée restante d'osu!supporter, ainsi que le montant total des contributions
 
 Pour obtenir osu!supporter, visitez la [page de la boutique osu!supporter](https://osu.ppy.sh/store/products/supporter-tag) et ajustez la durée de l'abonnement à l'aide du curseur, ou des boutons avec le nombre de mois en dessous. Tous les prix sont en dollars américains (USD) et ne comprennent pas les frais éventuels du système de paiement.
 
-Ensuite, cliquez sur `Ajouter au panier` pour placer l'étiquette de supporter dans le panier d'achat d'osu!store. Pour finaliser l'achat, allez dans le [panier](https://osu.ppy.sh/store/cart) et cliquez sur `Commander`, puis suivez les instructions à l'écran.
+Ensuite, cliquez sur `Ajouter au panier` pour placer le tag de supporter dans le panier d'achat osu!store. Pour finaliser l'achat, allez dans le [panier](https://osu.ppy.sh/store/cart) et cliquez sur `Commander`, puis suivez les instructions à l'écran.
 
 ### Offrir osu!supporter
 
@@ -145,8 +145,8 @@ osu!supporter peut également être offert à un autre joueur en entrant son nom
 
 Une fois la transaction terminée, un nouvel événement apparaîtra dans la section `Activité récente` du profil du donateur et du bénéficiaire :
 
-- `{nom_d'utilisateur} est devenu un supporter d'osu ! - merci pour votre générosité!` si c'est la première fois que l'utilisateur reçoit un osu!supporter
-- `{nom_d'utilisateur} a choisi une fois de plus de soutenir osu ! - merci pour votre générosité!` si l'utilisateur a déjà été un osu!supporter auparavant.
-- `{nom_d'utilisateur} a reçu le cadeau osu!supporter!` dans le cas où le tag a été offert.
+- `{nom_d'utilisateur} a choisi de soutenir osu! - merci pour votre générosité !` si c'est la première fois que l'utilisateur reçoit un osu!supporter.
+- `{nom_d'utilisateur} a de nouveau choisi de soutenir osu! - merci pour votre générosité !` si l'utilisateur a déjà été un osu!supporter auparavant.
+- `{nom_d'utilisateur} a reçu le osu!supporter en cadeau !` dans le cas où le tag a été offert.
 
 En outre, le donateur et le bénéficiaire recevront tous deux des notifications par e-mail mentionnant l'achat.
