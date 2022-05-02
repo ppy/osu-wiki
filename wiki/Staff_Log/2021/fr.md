@@ -438,7 +438,7 @@ Les  abréviations des groupes d'utilisateurs utilisées dans ce registre sont l
 
 - 01/09/2021 : Retrait de [wonjae](https://osu.ppy.sh/users/5032045) : **BN**
 - 02/09/2021 : Retrait de [X a v y](https://osu.ppy.sh/users/3738344) : **Probationary BN**
-- 2021-09-07: Retrait de [pimp](https://osu.ppy.sh/users/328615) : **Probationary BN**
+- 07/09/2021 : Retrait de [pimp](https://osu.ppy.sh/users/328615) : **Probationary BN**
 - 10/09/2021 : Retrait de [Stefan](https://osu.ppy.sh/users/626907) : **BN**
 - 19/09/2021 : Retrait de [Bibbity Bill](https://osu.ppy.sh/users/4446810) : **BN**
 - 21/09/2021 : Retrait de [Du5t](https://osu.ppy.sh/users/6053071) : **BN**
@@ -552,7 +552,7 @@ Les  abréviations des groupes d'utilisateurs utilisées dans ce registre sont l
 
 ## Décembre
 
-- 2021-12-06: Ajout de [Boaz](https://osu.ppy.sh/users/13302996) : **Project Loved Team**
+- 06/12/2021 : Ajout de [Boaz](https://osu.ppy.sh/users/13302996) : **Project Loved Team**
 
 ### Beatmap Nominators
 
