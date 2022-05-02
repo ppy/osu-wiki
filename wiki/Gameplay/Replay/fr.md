@@ -96,7 +96,7 @@ Un replay exporté aura un fichier sous le format `.osr` avec un nom écrit comm
 
 ```
 Format : {Nom local du joueur} - {Artiste} - {Titre} [{Difficulté}] ({AAAA-MM-JJ}) {GameMode}
-Exemple: dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS] (12/08/2013) OsuMania
+Exemple: dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS] (2013-08-12) OsuMania
 ```
 
 Notez que le fichier du replay ne fonctionnera **pas** si la **difficulté/beatmap liée au fichier du replay n'est pas présente**.
