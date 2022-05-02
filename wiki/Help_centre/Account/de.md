@@ -21,8 +21,6 @@ tags:
   - Löschung
 ---
 
-<!--TODO: change link as soon as German article is available (line 223)-->
-
 # Account
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*
@@ -218,7 +216,7 @@ Das bedeutet aber nicht, dass du einen neuen Account erstellen kannst! Mehrere A
 
 ### Kann ich meinen Account löschen?
 
-*Für mehr Informationen über die Löschung von Accounts, siehe: [deine Rechte und Kontrolle](/wiki/Legal/Privacy#your-rights-and-control).*
+*Für mehr Informationen über die Löschung von Accounts, siehe: [deine Rechte und Kontrolle](/wiki/Legal/Privacy#your-rights-and-control)<!--TODO: change link as soon as German article is available-->.*
 
 *Vorsicht: Accounts zu löschen ist dauerhaft und kann daher nicht rückgängig gemacht werden!*
 
