@@ -206,7 +206,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Pocket Picks
 
-See the [Pocket Picks sheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJmIYW6dGfDgL4djEZfAIMQcDgfV-mskmc/edit#gid=1724187283) for a breakdown of the participants Pocket Picks.
+See the [Pocket Picks sheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJmIYW6dGfDgL4djEZfAIMQcDgfV-mskmc/edit#gid=1724187283) for a breakdown of the participants' Pocket Picks.
 
 ## Match results
 
