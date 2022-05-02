@@ -16,15 +16,15 @@ L'**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) était un tourno
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2019-05-11/2019-05-25 |
-| Live du tirage au sort | 2019-06-02 |
-| Phase de groupe | 2019-06-08/2019-06-09 |
-| Huitièmes de finale | 2019-06-15/2019-06-22 |
-| Quarts de finale | 2019-06-22/2019-06-23 |
-| Demi-finales | 2019-06-29/2019-06-30 |
-| Finales | 2019-07-06/2019-07-07 |
-| Grande finale | 2019-07-13/2019-07-14 |
-| All-Stars | 2019-07-13/2019-07-14 |
+| Phase d'inscription | 11/05/2019/25/05/2019 |
+| Live du tirage au sort | 02/06/2019 |
+| Phase de groupe | 08/06/2019/09/06/2019 |
+| Huitièmes de finale | 15/06/2019/22/06/2019 |
+| Quarts de finale | 22/06/2019/23/06/2019 |
+| Demi-finales | 29/06/2019/30/06/2019 |
+| Finales | 06/07/2019/07/07/2019 |
+| Grande finale | 13/07/2019/14/07/2019 |
+| All-Stars | 13/07/2019/14/07/2019 |
 
 ## Prix
 
@@ -340,31 +340,31 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 ### Grande finale
 
-| Samedi, 2019-07-13 |  |  |  |  |
+| Samedi, 13/07/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | États-Unis A ![][flag_US] | 5 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53299127) |
 | **Hong Kong** ![][flag_HK] | **7** | 4 | ![][flag_US] États-Unis A | [#1](https://osu.ppy.sh/community/matches/53300693) |
 
 ### Finales
 
-| Samedi, 2019-07-06 |  |  |  |  |
+| Samedi, 06/07/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **7** | 2 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/53143747) |
 | **États-Unis A** ![][flag_US] | **7** | 3 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/53159685) |
 
-| Dimanche, 2019-07-07 |  |  |  |  |
+| Dimanche, 07/07/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Chili ![][flag_CL] | 1 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53162196) |
 
 ### Demi-finales
 
-| Samedi, 2019-06-29 |  |  |  |  |
+| Samedi, 29/06/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **États-Unis A** ![][flag_US] | **7** | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/52977372) |
 | **Chili** ![][flag_CL] | **7** | 5 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/52987753) |
 | **Hong Kong** ![][flag_HK] | **7** | 1 | ![][flag_AR] Argentine | [#1](https://osu.ppy.sh/community/matches/52987594) |
 
-| Dimanche, 2019-06-30 |  |  |  |  |
+| Dimanche, 30/06/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **France A** ![][flag_FR] | **7** | 6 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/53005399) |
 | Philippines ![][flag_PH] | 6 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53005654) |
@@ -372,7 +372,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 ### Quarts de finale
 
-| Samedi, 2019-06-22 |  |  |  |  |
+| Samedi, 22/06/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Indonésie A ![][flag_ID] | 0 | **6** | ![][flag_US] **États-Unis A** | -win by default- |
 | France A ![][flag_FR] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/52814381) |
@@ -380,7 +380,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 | **Chili** ![][flag_CL] | **6** | 1 | ![][flag_SG] Singapour | [#1](https://osu.ppy.sh/community/matches/52820880) |
 | Taiwan ![][flag_TW] | 0 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/52820731) |
 
-| Dimanche, 2019-06-23 |  |  |  |  |
+| Dimanche, 23/06/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Indonésie A ![][flag_ID] | 2 | **6** | ![][flag_JP] **Japon** | [#1](https://osu.ppy.sh/community/matches/52845363) |
 | Singapour ![][flag_SG] | 5 | **6** | ![][flag_AR] **Argentine** | [#1](https://osu.ppy.sh/community/matches/52848092) |
@@ -388,7 +388,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 ### Huitièmes de finale
 
-| Samedi, 2019-06-15 |  |  |  |  |
+| Samedi, 15/06/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Chine** ![][flag_CN] | **6** | 1 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/52630781) |
 | Taïwan ![][flag_TW] | 3 | **6** | ![][flag_PL] **Pologne B** | [#1](https://osu.ppy.sh/community/matches/52636109) |
@@ -399,21 +399,21 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 | Pologne A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52647239) |
 | **États Unis A** ![][flag_US] | **6** | 0 | ![][flag_EC] Équateur | [#1](https://www.twitch.tv/videos/439630298) |
 
-| Dimanche, 2019-06-16 |  |  |  |  |
+| Dimanche, 16/06/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **6** | 2 | ![][flag_EC] Équateur | [#1](https://osu.ppy.sh/community/matches/52657012) |
 | Japon ![][flag_JP] | 2 | **6** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/52661179) |
 | Pologne A ![][flag_PL] | 1 | **6** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52673843) |
 | **Argentine** ![][flag_AR] | **6** | 4 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/community/matches/52676942) |
 
-| Samedi, 2019-06-22 |  |  |  |  |
+| Samedi, 22/06/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Taïwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Pologne B | [#1](https://osu.ppy.sh/community/matches/52815977) |
 | **Japon** ![][flag_JP] | **6** | 0 | ![][flag_PL] Pologne B | -win by default- |
 
 ### Phase de groupe
 
-| Groupe | Samedi, 2019-06-08 |  |  |  |  |
+| Groupe | Samedi, 08/06/2019 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F3 | **États Unis A** ![][flag_US] | **5** | 0 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/52446671) |
 | G5 | Pérou ![][flag_PE] | 0 | **5** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52446788) |
@@ -440,7 +440,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 | E3 | États Unis B ![][flag_US] | 2 | **5** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52460665) |
 | E6 | **Argentine** ![][flag_AR] | **5** | 1 | ![][flag_US] États Unis B | [#1](https://osu.ppy.sh/community/matches/52498726) |
 
-| Groupe | Dimanche, 2019-06-09 |  |  |  |  |
+| Groupe | Dimanche, 09/06/2019 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F6 | Canada ![][flag_CA] | 3 | **5** | ![][flag_US] **États Unis A** | [#1](https://osu.ppy.sh/community/matches/52474938) |
 | G3 | Brésil ![][flag_BR] | 2 | **5** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52475794) |

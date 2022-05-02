@@ -150,7 +150,7 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
 
 ### Mai
 
-- **[BLANKFIELD](https://osu.ppy.sh/home/news/2020-05-06-new-featured-artist-blankfield)** (2020-05-06)
+- **[BLANKFIELD](https://osu.ppy.sh/home/news/2020-05-06-new-featured-artist-blankfield)** (06/05/2020)
   - (![][osu!]) [BLANKFIELD - Falling Falls](https://osu.ppy.sh/beatmapsets/1120635#osu/2341586) organisé par ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
   - (![][osu!]) [BLANKFIELD - Retrospective City](https://osu.ppy.sh/beatmapsets/1120645#osu/2341602) organisé par ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
 - **[Disasterpeace](https://osu.ppy.sh/home/news/2020-05-13-new-featured-artist-disasterpeace)** (13/05/2020)
