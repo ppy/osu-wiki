@@ -14,12 +14,12 @@ La **Catch French Cup 3** (***CFC 3***) était un tournoi osu!catch français en
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 15/08/2018/02/09/2018 |
+| Phase d'inscription | 15/08/2018 - 02/09/2018 |
 | Tirage au sort en direct | 01/09/2018 (19:00 UTC) |
-| Phase de poules | 08/09/2018/16/09/2018 |
-| 16èmes de finale | 22/09/2018/25/09/2018 |
-| Quarts-de-finale | 29/09/2018/30/09/2018 |
-| Demi-finales | 06/10/2018/07/10/2018 |
+| Phase de poules | 08/09/2018 - 16/09/2018 |
+| 16èmes de finale | 22/09/2018 - 25/09/2018 |
+| Quarts-de-finale | 29/09/2018 - 30/09/2018 |
+| Demi-finales | 06/10/2018 - 07/10/2018 |
 | Finales | 13/10/2018 |
 | Grandes Finales | 20/10/2018 |
 

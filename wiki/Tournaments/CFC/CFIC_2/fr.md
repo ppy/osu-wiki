@@ -14,12 +14,12 @@ La **Catch French Intermediate Cup 2** (***CFIC 2***) était un tournoi 1v1 fran
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 18/01/2020/02/02/2020 |
+| Phase d'inscription | 18/01/2020 - 02/02/2020 |
 | Live drawings | 07/02/2020 (22:00 UTC+2) |
-| Qualifications | 15/02/2020/16/02/2020 |
-| Phase de poules | 22/02/2020/23/02/2020 |
-| Quarts-de-finale | 29/02/2020/01/03/2020 |
-| Demi-finales | 07/03/2020/08/03/2020 |
+| Qualifications | 15/02/2020 - 16/02/2020 |
+| Phase de poules | 22/02/2020 - 23/02/2020 |
+| Quarts-de-finale | 29/02/2020 - 01/03/2020 |
+| Demi-finales | 07/03/2020 - 08/03/2020 |
 | Finales | 14/03/2020 |
 | Grandes Finales | 21/03/2020 |
 

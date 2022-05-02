@@ -14,12 +14,12 @@ La **Catch French Cup 4** (***CFC 4***) était un tournoi osu!catch français en
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 24/02/2019/17/03/2019 |
+| Phase d'inscription | 24/02/2019 - 17/03/2019 |
 | Tirage au sort en direct | 24/03/2019 (20:00 UTC+1) |
-| Phase de poules | 30/03/2019/07/04/2019 |
-| Quarts-de-finale | 13/04/2019/14/04/2019 |
-| Demi-finales | 20/04/2019/23/04/2019 |
-| Finales | 27/04/2019/28/04/2019 |
+| Phase de poules | 30/03/2019 - 07/04/2019 |
+| Quarts-de-finale | 13/04/2019 - 14/04/2019 |
+| Demi-finales | 20/04/2019 - 23/04/2019 |
+| Finales | 27/04/2019 - 28/04/2019 |
 
 ## Récompenses
 

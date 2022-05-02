@@ -15,15 +15,15 @@ Le **Game_Osu Tourney 3** (***GO 3***) était un tournoi international 1v1 sur o
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 16/02/2019/04/03/2019 |
+| Phase d'inscription | 16/02/2019 - 04/03/2019 |
 | Tirage au sort en direct | 04/03/2019 (20:00 UTC) |
-| Qualifications | 09/03/2019/10/03/2019 |
-| 32èmes de finale | 22/03/2019/24/03/2019 |
-| 16èmes de finale | 27/03/2019/01/04/2019 |
-| 8èmes de finale | 04/04/2019/08/04/2019 |
-| Quarts-de-finale | 11/04/2019/15/04/2019 |
-| Demi-finales | 19/04/2019/24/04/2019 |
-| Finales | 27/04/2019/06/05/2019 |
+| Qualifications | 09/03/2019 - 10/03/2019 |
+| 32èmes de finale | 22/03/2019 - 24/03/2019 |
+| 16èmes de finale | 27/03/2019 - 01/04/2019 |
+| 8èmes de finale | 04/04/2019 - 08/04/2019 |
+| Quarts-de-finale | 11/04/2019 - 15/04/2019 |
+| Demi-finales | 19/04/2019 - 24/04/2019 |
+| Finales | 27/04/2019 - 06/05/2019 |
 | Grandes Finales | 28/04/2019 |
 
 ## Récompenses

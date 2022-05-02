@@ -17,52 +17,52 @@ L'**osu! Multi Mode French Fiesta** ***(oMMFF)*** est un tournoi 1v1 français e
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 04/11/2018/02/12/2018 |
+| Phase d'inscription | 04/11/2018 - 02/12/2018 |
 | Tirage au sort en direct | 02/12/2018 (17:00 UTC) |
-| Qualifications | 15/12/2018/16/12/2018 |
-| 16èmes de finale | 05/01/2019/06/01/2019 |
-| 8èmes de finale | 12/01/2019/13/01/2019 |
-| Quarts-de-finale | 19/01/2019/20/01/2019 |
-| Demi-finales | 26/01/2019/27/01/2019 |
-| Finales | 02/02/2019/03/02/2019 |
+| Qualifications | 15/12/2018 - 16/12/2018 |
+| 16èmes de finale | 05/01/2019 - 06/01/2019 |
+| 8èmes de finale | 12/01/2019 - 13/01/2019 |
+| Quarts-de-finale | 19/01/2019 - 20/01/2019 |
+| Demi-finales | 26/01/2019 - 27/01/2019 |
+| Finales | 02/02/2019 - 03/02/2019 |
 | Grandes Finales | 16/02/2019 |
 
 ### osu!taiko
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 10/11/2018/09/12/2018 |
+| Phase d'inscription | 10/11/2018 - 09/12/2018 |
 | Tirage au sort en direct | 09/12/2018 (17:00 UTC) |
-| Qualifications | 05/01/2019/06/01/2019 |
-| Group Stage | 12/01/2019/13/01/2019 |
-| 6èmes de finale | 19/01/2019/20/01/2019 |
-| Demi-finales | 26/01/2019/27/01/2019 |
-| Finales | 02/02/2019/03/02/2019 |
+| Qualifications | 05/01/2019 - 06/01/2019 |
+| Group Stage | 12/01/2019 - 13/01/2019 |
+| 6èmes de finale | 19/01/2019 - 20/01/2019 |
+| Demi-finales | 26/01/2019 - 27/01/2019 |
+| Finales | 02/02/2019 - 03/02/2019 |
 | Grandes Finales | 23/02/2019 |
 
 ### osu!catch
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 14/11/2018/16/12/2018 |
+| Phase d'inscription | 14/11/2018 - 16/12/2018 |
 | Tirage au sort en direct | 16/12/2018 (17:00 UTC) |
-| Qualifications | 05/01/2019/06/01/2019 |
-| Quarts-de-finale | 12/01/2019/13/01/2019 |
-| Demi-finales | 19/01/2019/20/01/2019 |
-| Finales | 26/01/2019/27/01/2019 |
+| Qualifications | 05/01/2019 - 06/01/2019 |
+| Quarts-de-finale | 12/01/2019 - 13/01/2019 |
+| Demi-finales | 19/01/2019 - 20/01/2019 |
+| Finales | 26/01/2019 - 27/01/2019 |
 | Grandes Finales | 02/02/2019 |
 
 ### osu!mania
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 04/11/2018/23/12/2018 |
+| Phase d'inscription | 04/11/2018 - 23/12/2018 |
 | Tirage au sort en direct | 23/12/2018 (17:00 UTC) |
-| Qualifications | 12/01/2019/13/01/2019 |
-| 12èmes de finale | 19/01/2019/20/01/2019 |
-| Quarts-de-finale | 26/01/2019/27/01/2019 |
-| Demi-finales | 02/02/2019/03/02/2019 |
-| Finales | 09/02/2019/10/02/2019 |
+| Qualifications | 12/01/2019 - 13/01/2019 |
+| 12èmes de finale | 19/01/2019 - 20/01/2019 |
+| Quarts-de-finale | 26/01/2019 - 27/01/2019 |
+| Demi-finales | 02/02/2019 - 03/02/2019 |
+| Finales | 09/02/2019 - 10/02/2019 |
 | Grandes Finales | 16/02/2019 |
 
 ## Récompenses

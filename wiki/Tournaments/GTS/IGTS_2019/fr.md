@@ -16,15 +16,15 @@ L'**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) était un tourno
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 11/05/2019/25/05/2019 |
+| Phase d'inscription | 11/05/2019 - 25/05/2019 |
 | Live du tirage au sort | 02/06/2019 |
-| Phase de groupe | 08/06/2019/09/06/2019 |
-| Huitièmes de finale | 15/06/2019/22/06/2019 |
-| Quarts de finale | 22/06/2019/23/06/2019 |
-| Demi-finales | 29/06/2019/30/06/2019 |
-| Finales | 06/07/2019/07/07/2019 |
-| Grande finale | 13/07/2019/14/07/2019 |
-| All-Stars | 13/07/2019/14/07/2019 |
+| Phase de groupe | 08/06/2019 - 09/06/2019 |
+| Huitièmes de finale | 15/06/2019 - 22/06/2019 |
+| Quarts de finale | 22/06/2019 - 23/06/2019 |
+| Demi-finales | 29/06/2019 - 30/06/2019 |
+| Finales | 06/07/2019 - 07/07/2019 |
+| Grande finale | 13/07/2019 - 14/07/2019 |
+| All-Stars | 13/07/2019 - 14/07/2019 |
 
 ## Prix
 

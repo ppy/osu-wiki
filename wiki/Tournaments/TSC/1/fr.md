@@ -13,14 +13,14 @@ Le **Taiko Suiji Cup** (***TSC***) était un tournoi 3vs3 avec des équipes form
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 01/08/2018/25/08/2018 |
+| Phase d'inscription | 01/08/2018 - 25/08/2018 |
 | Tirage au sort en direct | 25/08/2018 (12:30 UTC) |
-| 32èmes de finale | 01/09/2018/02/09/2018 |
-| 16èmes de finale | 08/09/2018/09/09/2018 |
-| Quarts-de-finale | 15/09/2018/16/09/2018 |
-| Demi-finales | 22/09/2018/23/09/2018 |
-| Finales | 29/09/2018/30/09/2018 |
-| Grandes finales | 06/10/2018/07/10/2018 |
+| 32èmes de finale | 01/09/2018 - 02/09/2018 |
+| 16èmes de finale | 08/09/2018 - 09/09/2018 |
+| Quarts-de-finale | 15/09/2018 - 16/09/2018 |
+| Demi-finales | 22/09/2018 - 23/09/2018 |
+| Finales | 29/09/2018 - 30/09/2018 |
+| Grandes finales | 06/10/2018 - 07/10/2018 |
 
 ## Récompenses
 

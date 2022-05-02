@@ -16,13 +16,13 @@ L'**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) est un tournoi par p
 
 | Evénement | Dates |
 | --: | :-- |
-| Phase d'inscription | 07/07/2019/21/07/2019 |
+| Phase d'inscription | 07/07/2019 - 21/07/2019 |
 | Tirages au sort en direct | 04/08/2019 (15:00 UTC) |
-| Qualifications | 10/08/2019/11/08/2019 |
-| Phases de poules | 17/08/2019/18/08/2019 |
-| Quarts de finale | 24/08/2019/25/08/2019 |
-| Demi-finales | 31/08/2019/01/09/2019 |
-| Finales | 07/09/2019/08/09/2019 |
+| Qualifications | 10/08/2019 - 11/08/2019 |
+| Phases de poules | 17/08/2019 - 18/08/2019 |
+| Quarts de finale | 24/08/2019 - 25/08/2019 |
+| Demi-finales | 31/08/2019 - 01/09/2019 |
+| Finales | 07/09/2019 - 08/09/2019 |
 | Grande Finale | 14/09/2019 |
 
 ## Prix
