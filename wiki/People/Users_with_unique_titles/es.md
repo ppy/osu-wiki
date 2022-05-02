@@ -51,7 +51,6 @@ Ganadores de la [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) con el título de *
 - ![][flag_KR] [Estonians](https://osu.ppy.sh/users/7014697)
 - ![][flag_KR] [yz1155](https://osu.ppy.sh/users/2071008)
 
-
 ## Antiguos campeones de la “World Cup”
 
 Comenzando en noviembre de 2021, los antiguos ganadores de las “World Cup” serán premiados retroactivamente con el título de **Former osu!/osu!taiko/osu!catch/osu!mania Champion**. A los jugadores que hayan ganado varias Copas del Mundo, se le otorgará el título correspondiente a la última iteración de la “World Cup” en la que hayan conseguido la victoria.
