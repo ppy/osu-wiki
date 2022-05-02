@@ -354,6 +354,6 @@ Ces utilisateurs ont reçu leurs titres respectifs pour des raisons diverses.
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_SH]: /wiki/shared/flag/SH.gif "Sainte-Hélène"
-[flag_TU]: /wiki/shared/flag/TU.gif "Tunisie"
+[flag_TN]: /wiki/shared/flag/TU.gif "Tunisie"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
