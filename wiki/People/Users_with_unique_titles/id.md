@@ -354,6 +354,6 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas berbagai alasan yan
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
 [flag_SH]: /wiki/shared/flag/SH.gif "Saint Helena"
-[flag_TU]: /wiki/shared/flag/TU.gif "Tunisia"
+[flag_TN]: /wiki/shared/flag/TU.gif "Tunisia"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
