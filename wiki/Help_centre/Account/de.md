@@ -19,8 +19,6 @@ tags:
   - Gerät
   - Benutzername
   - Löschung
-outdated: true
-outdated_since: 56ef96e783e017921593b286c0d744de40c16168
 ---
 
 <!--TODO: change link as soon as German article is available (line 223)-->
@@ -61,9 +59,7 @@ Siehe *[Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions)* 
 
 Turniersperren sind, wie der Name beschreibt, ein Verbot der Teilnahme an allen offiziell unterstützten Turnieren.
 
-Ein Benutzer kann eine Turniersperre für einen Bruch der osu!-Communityregeln während eines Turnierspiels bekommen, abhängig von dem Schweregrad des Verstoßes. Beispiele für solches Fehlverhalten sind unter anderem das Erlangen eines unfairen Vorteils in offiziell unterstützten Turnieren, jemanden beleidigen, der an einem Turnier teilnimmt, oder die absichtliche Störung des Turnierablaufs.
-
-Die meisten Turniersperren haben eine festgelegte Dauer, variierend von 3 Monaten bis zu einem Jahr und mehr. Einige Sperren können dauerhaft sein. Unabhängig von der Dauer der Sperre sind alle Turniersperren **final** und können nicht angefochtet werden, wie es bei Einschränkungen der Fall ist.
+Siehe dazu den Artikel [Turniersperren](/wiki/Help_centre/Tournament_bans) für mehr Informationen zu diesem Thema.
 
 ## Anmeldung
 
