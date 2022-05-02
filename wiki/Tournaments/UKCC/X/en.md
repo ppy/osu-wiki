@@ -516,7 +516,7 @@ Top 10 qualification results:
 | *7th place* | ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143) | 6,414,683 | 712,743 |
 | *8th place* | ![][flag_GB] [Mahmood](https://osu.ppy.sh/users/7627844) | 6,234,206 | 692,690 |
 | *9th place* | ![][flag_PH] [LilyFlower](https://osu.ppy.sh/users/7449949) | 6,217,907 | 690,879 |
-| *10th place* | ![][flag_gb] [Doomsday](https://osu.ppy.sh/users/18983) | 5,931,218 | 659,024 |
+| *10th place* | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 5,931,218 | 659,024 |
 
 ## Ruleset
 
@@ -556,7 +556,7 @@ Top 10 qualification results:
 ### Swiss
 
 - Since Swiss bracketing is a natural seeding system, matchups will be drawn between **top 16 and bottom 16 players randomly** to begin.
-- Two matches will happen every weekend for each player, one on Saturday and one on Sunday - therefore, **two matchups will be drawn per weekend** for each player.
+- Two matches will happen every weekend for each player, one on Saturday and one on Sunday—therefore, **two matchups will be drawn per weekend** for each player.
 - The order the matches are played in **does not matter**.
 - Matchups will be drawn between players with the **same aggregate match W-L-D score** (eg. players at 3-0-1 will prioritise playing against the players with the most similar W-L-D), and will prioritise **avoiding rematches** until each active player has played each other once.
 
@@ -577,29 +577,29 @@ Top 10 qualification results:
 ### Picking
 
 - Players have **90 seconds** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing player.
-- **Failed scores will count, and every map will be played with the NF modification enabled**
+- **Failed scores will count, and every map will be played with the No Fail mod enabled**
 - Each player picks **four times**. Once 8 maps have been picked and played, the match ends.
-- There are **no Tiebreakers.**
+- There are **no tiebreakers.**
 
 ### Health system
 
 - Each player who qualifies into Swiss will **begin with 8,000,000 HP**, which carries through matches.
 - During a match, the **losing player of each map pick** will **lose HP equal to the score difference** between the two players.
-- If a player’s HP reaches 0, they are **immediately eliminated from the tournament**, and if their match is still in progress it ends immediately.
+- If a player's HP reaches 0, they are **immediately eliminated from the tournament**, and if their match is still in progress it ends immediately.
 
 ### Pocket Picks
 
 - When signing up to the tournament, each player will **submit three maps** to be listed as “Pocket Picks” for use during Swiss.
 - Pocket Picks can be **any map, with any mods**. The mods chosen are forced.
-- While there is room to push boundaries, the **rule of common sense** applies when submitting Pocket Picks - the maps will be reviewed case by case, and if a map is too far out of the playable range it will be rejected and a new Pocket Pick will have to be submitted.
-- Only up to one Pocket Pick can be played per match, and only as a player’s **3rd or 4th pick during the match**.
+- While there is room to push boundaries, the **rule of common sense** applies when submitting Pocket Picks—the maps will be reviewed case by case, and if a map is too far out of the playable range it will be rejected and a new Pocket Pick will have to be submitted.
+- Only up to one Pocket Pick can be played per match, and only as a player's **3rd or 4th pick during the match**.
 - Once a Pocket Pick has been played, it **cannot be picked again for the rest of the tournament**.
 - Pocket Picks cannot be banned.
 
 ### Byes
 
 - Due to the nature of the elimination system, byes are unavoidable.
-- If you receive a bye, once the matches for each round are completed you will receive a “tax” of 90% of the average HP lost by the players at your general aggregate match score (+/- 1).
+- If you receive a bye, once the matches for each round are completed you will receive a "tax" of 90% of the average HP lost by the players at your general aggregate match score (+/- 1).
 - Byes will prioritise players in the middle of the pack so as to avoid unfair eliminations or advantages.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
