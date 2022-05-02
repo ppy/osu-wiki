@@ -77,7 +77,7 @@ Les supporters ont accès à plusieurs outils spécifiques aux [classements](/wi
 
 - Les classements globaux pour toutes les combinaisons de [modificateurs de jeu](/wiki/Game_modifier)
 - Le classement par pays des joueurs portant le même drapeau
--  Le classement des amis qui montre la position d'un joueur sur une carte par rapport à ses amis.
+- Le classement des amis qui montre la position d'un joueur sur une carte par rapport à ses amis.
 
 ### Limites plus souples
 
