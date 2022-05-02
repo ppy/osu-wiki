@@ -6,7 +6,7 @@ tags:
 
 # UK Community Cup X
 
-![UKCCX logo](img/banner.jpg)
+![UKCCX banner](img/banner.jpg)
 
 The **UK Community Cup X** (***UKCC X***) was a British 1v1 swiss osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the tenth instalment of the UK Community Cup series and the series' first experimental competition.
 
