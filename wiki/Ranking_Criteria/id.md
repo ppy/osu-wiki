@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 3c99cc29990941d4c84f04746c098661bed07fe6
----
-
 # Ranking criteria
 
 *Untuk ranking criteria [mode permainan](/wiki/Game_mode) yang spesifik, kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
@@ -170,7 +165,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **Untuk lagu di mana komposer dan penyanyi adalah orang yang berbeda, penyanyi dapat dicantumkan setelah nama komposer atau circle/grup dengan indikator `feat.`.**
 - **Jika unicode pada sebuah judul lagu maupun artis memiliki terjemahan atau romanisasi resmi yang disediakan oleh artis, itu dapat digunakan pada bidang romanisasi masing-masing. Jika kedua terjemahan dan romanisasi tersedia, keduanya dapat digunakan.**
 - **Jika lagu mapset dikontribusikan oleh beberapa artis, mereka dapat dicantumkan dengan tanda koma di antaranya.** Jika ada 3 atau lebih artis yang berkontribusi dan mereka bukan bagian dari grup berlabel resmi, `Various Artists` atau nama deskriptif lainnya dapat digunakan sebagai gantinya.
-- **Untuk remix/cover, artis asli boleh digunakan di kolom artis, selama kolom judul diubah untuk menunjukkan dengan jelas bahwa lagu tersebut di-remix.** Penanda ini harus berada dalam tanda kurung dan berisi remix/cover artis diikuti dengan deskriptor.
+- **Untuk remix, cover, atau pertunjukan, artis asli boleh digunakan di kolom artis, selama kolom judul diubah untuk menunjukkan dengan jelas bahwa lagu tersebut berbeda dengan versi original.** Penanda ini harus berada dalam tanda kurung dan berisi remix/cover artis atau penampil diikuti dengan deskriptor.
 - **Untuk pertunjukan langsung dari sebuah lagu, judul harus menyertakan tanda `(Live Ver.)`.** Hal-hal relevan dari pertunjukan harus ditambahkan pada deskripsi beatmap dan tag, seperti tanggal dan lokasi pertunjukkan.
 - **Kata-kata yang dimasukkan ke dalam tags metadata dapat berulang, selama kata yang berulang merupakan bagian dari istilah atau frasa yang lebih panjang dan relevan terhadap beatmap.**
 
