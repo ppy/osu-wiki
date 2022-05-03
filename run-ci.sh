@@ -4,7 +4,7 @@
 # For newly added files, stage or commit them before running these checks.
 
 CURRENT_BRANCH=$( git branch --show-current )
-if test ${CURRENT_BRANCH} == 'master'; then
+if test ${CURRENT_BRANCH} = 'master'; then
   printf -- "Please run this from a feature branch, i.e. not 'master'.\n"
   exit 1
 fi
