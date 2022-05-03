@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 17ba49c633b089fe88acb7d5d32ac0460e5d65fe
----
-
 # Critères de classement d'osu!mania
 
 Les **critères de classement d'osu!mania** sont des règles et des directives qui s'appliquent à la création des difficultés spécifiques à osu!mania. Pour qu'une difficulté spécifique à osu!mania soit classée, il est obligatoire que la création obéisse aux critères énumérés. Bien que **toutes les règles doivent être suivies en toute circonstance**, les directives peuvent être ignorées dans des circonstances exceptionnelles. Ces circonstances exceptionnelles doivent être justifiées par une explication exhaustive de la raison pour laquelle la directive a été ignorée et pourquoi le fait de ne pas l'ignorer nuira à la qualité globale de la création.

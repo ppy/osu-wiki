@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 44a89d5d1b2e627f6fad43aa6b69563fe976ae68
----
-
 # Critères de classement d'osu!catch
 
 ***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_Criteria).***
@@ -18,7 +13,7 @@ Les règles et directives générales s'appliquent à tous les types de difficul
 #### Règles
 
 - **Votre beatmap doit être théoriquement possible à SS.** Cela signifie qu'il doit être possible d'attraper absolument tous les [fruits](/wiki/Hit_object/Fruit), les [drop](/wiki/Hit_object/Juice_stream#drop) et les [droplets](/wiki/Hit_object/Juice_stream#droplet).
-- **Chaque beatmap doit utiliser au moins deux [couleurs de combo](/wiki/Glossary/Combo_colour) personnalisées différentes, sauf si le skin par défaut est forcé.** Les couleurs de combo ne doivent en aucun cas se mélanger à l'arrière-plan/le storyboard/la vidéo de la beatmap. Ainsi, les objets sont toujours visibles pour le joueur et les couleurs de combos du skin personnalisé ne se mélangent pas accidentellement avec l'arrière-plan.
+- **Chaque beatmap doit utiliser au moins deux [couleurs de combo](/wiki/Beatmapping/Combo_colour) personnalisées différentes, sauf si le skin par défaut est forcé.** Les couleurs de combo ne doivent en aucun cas se mélanger à l'arrière-plan/le storyboard/la vidéo de la beatmap. Ainsi, les objets sont toujours visibles pour le joueur et les couleurs de combos du skin personnalisé ne se mélangent pas accidentellement avec l'arrière-plan.
 - **N'utilisez pas les keysounds sans support de hitnormal.** Si les bruitages s'intègrent parfaitement à la musique, l'effet de rétroaction après avoir touché des notes est minime.
 
 #### Directives
@@ -32,8 +27,8 @@ Les règles et directives générales s'appliquent à tous les types de difficul
   - Si une difficulté utilise un Approach Rate plus faible qu'une ou plusieurs difficultés du niveau de difficulté inférieur, l'Overall Difficulty doit être égale à la valeur de l'Overall Difficulty la plus élevée du niveau de difficulté précédent.
 - **Le slider tick rate doit être réglé en fonction de la musique.** Par exemple, si votre musique n'utilise que le snapping 1/3, utiliser le tick rate 2 ou 4 ne serait pas approprié.
 - **Utilisez le même slider tick rate pour chaque difficulté.** Car il s'agit d'une propriété de la musique plutôt que du mapping. Cependant, les difficultés inférieures peuvent utiliser des tick rates plus faibles pour réduire les exigences de précision pour les nouveaux joueurs, à condition qu'ils suivent toujours le rythme de la musique. Utiliser des tick rates élevés uniquement pour augmenter le score/le combo/la difficulté est insensé.
-- **Évitez d'utiliser des [couleurs de combo](/wiki/Glossary/Combo_colour) avec une luminosité de ~50 ou moins.** Les couleurs sombres ont un impact sur la lisibilité des [fruits](/wiki/Hit_object/Fruit) avec une faible luminosité de fond.
-- **Évitez d'utiliser des [couleurs de combo](/wiki/Glossary/Combo_colour) avec une luminosité de ~220 ou plus si le kiai time est utilisé.** Les couleurs claires créent des impulsions lumineuses pendant le kiai time, ce qui peut être désagréable pour les yeux.
+- **Évitez d'utiliser des [couleurs de combo](/wiki/Beatmapping/Combo_colour) avec une luminosité de ~50 ou moins.** Les couleurs sombres ont un impact sur la lisibilité des [fruits](/wiki/Hit_object/Fruit) avec une faible luminosité de fond.
+- **Évitez d'utiliser des [couleurs de combo](/wiki/Beatmapping/Combo_colour) avec une luminosité de ~220 ou plus si le kiai time est utilisé.** Les couleurs claires créent des impulsions lumineuses pendant le kiai time, ce qui peut être désagréable pour les yeux.
 
 ### Skinning
 
@@ -134,7 +129,7 @@ Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au 
 
 - **Les [hyperdashes](/wiki/Glossary/Hyperdash) forts ne doivent pas être utilisés.** Pour les hyperdashes [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped), une limite de 1,5 fois la [trigger distance](/wiki/Glossary/Trigger_distance) est recommandée. Pour les hyperdashes [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped), une limite de 1,3 fois la trigger distance est recommandée.
 - **Les [hyperdashes](/wiki/Glossary/Hyperdash) qui sont [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) peuvent être utilisés en conjonction avec des patterns [antiflow](/wiki/Beatmapping/Antiflow).** S'il est utilisé, l'espacement ne doit pas dépasser un distance snap de 1,2 fois la [trigger distance](/wiki/Glossary/Trigger_distance) lorsqu'il est suivi d'un [walk](/wiki/Glossary/Walk), ou de 1,1 fois la trigger distance lorsqu'il est suivi d'un [dash](/wiki/Glossary/Dash) basic-snapped.
-- **Les [hyperdashes](/wiki/Glossary/Hyperdash) qui sont [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être suivis de patterns [antiflow](/wiki/Beatmapping/Antiflow).** S'il est utilisé, l'espacement ne doit pas dépasser une distance snap de 1,1 fois la [trigger distance](/wiki/Glossary/Trigger_distance) et le mouvement après l'hyperdash doit être un [walk](/wiki/Glossary/Walk).
+- **Les [hyperdashes](/wiki/Glossary/Hyperdash) qui sont [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) ne doivent pas être suivis de patterns [antiflow](/wiki/Beatmapping/Antiflow).** S'il est utilisé, l'espacement ne doit pas dépasser une distance snap de 1,1 fois la [trigger distance](/wiki/Glossary/Trigger_distance).
 - **Les [combos](/wiki/Beatmapping/Combo) ne doivent pas dépasser 12 objets, y compris les slider tails et les répétitions.** Les [spinners](/wiki/Hit_object/Spinner) sont une exception.
 - **La densité des notes doit suivre un pattern principalement de 1/2 et/ou 1/3.** Les patterns 1/4 et/ou 1/6 doivent être utilisés avec parcimonie.
 
