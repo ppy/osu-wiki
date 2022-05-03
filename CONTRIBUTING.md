@@ -43,7 +43,7 @@ npm install
 
 ### Running
 
-From the repository root on your feature branch:
+Using `git add`, stage or commit files you want to have checked, then run from the repository root on your feature branch:
 
 ```sh
 bash run-ci.sh
