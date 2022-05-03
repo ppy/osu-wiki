@@ -14,8 +14,8 @@ Modは、主に[Ranked](/wiki/Beatmap/Category#ranked)を目指すビートマ�
 
   キューの作成者は、最初にどのビートマップを受け付けるかのルールを提示します。キューは一般的に下記の2種類の方法でModされます。
 
-  - **Normal mod (NM):**は、mapperがmodderにModを要求する一般的な方法です。
-  - **Mod for mod (M4M):**は、modderがModする代わりに、要求したmapperはmodderのビートマップをModする、つまりお互いのビートマップをModし合う方法です。
+  - **Normal mod (NM)** は、mapperがmodderにModを要求する一般的な方法です。
+  - **Mod for mod (M4M)** は、modderがModする代わりに、要求したmapperはmodderのビートマップをModする、つまりお互いのビートマップをModし合う方法です。
 
 - 有名なmodderは、プロフィールにModを受け付けているかをよく書いています。
 
