@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2022 logo](/wiki/shared/news/2022-02-10-osu-taiko-world-cup-2022-registrations-now-open/twc-2022-banner.jpg)
 
-The **osu!taiko World Cup 2022** (***TWC 2022***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the twelfth instalment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2022** (***TWC 2022***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the twelfth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -33,9 +33,11 @@ The **osu!taiko World Cup 2022** (***TWC 2022***) is a country-based osu!taiko t
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
+![](img/twc-2022-badge-1st.jpg "TWC 2022 winner badge") ![](img/twc-2022-badge-2nd.jpg "TWC 2022 2nd place badge") ![](img/twc-2022-badge-3rd.jpg "TWC 2022 3rd place badge")
+
 ## Organisation
 
-The osu!taiko World Cup 2022 is run by various community members.
+The osu!taiko World Cup 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -55,7 +57,7 @@ The osu!taiko World Cup 2022 is run by various community members.
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[gaston\_2199](https://osu.ppy.sh/users/5938161)**, [\_Doodle\_](https://osu.ppy.sh/users/5427801), [Axer](https://osu.ppy.sh/users/7299864), [paz08](https://osu.ppy.sh/users/9964420), [Atreevete](https://osu.ppy.sh/users/2615199), [Ingrid10](https://osu.ppy.sh/users/9786011) |
 | ![][flag_AU] | **Australia** | **[r1chyy](https://osu.ppy.sh/users/11499467)**, [acid](https://osu.ppy.sh/users/2913584), [Ceryuia](https://osu.ppy.sh/users/5253213), [Aloda](https://osu.ppy.sh/users/1190127), [Jaye](https://osu.ppy.sh/users/4841352), [rango](https://osu.ppy.sh/users/7728466) |
@@ -95,23 +97,9 @@ The osu!taiko World Cup 2022 is run by various community members.
 | ![][flag_US] | **United States** | **[general chicken](https://osu.ppy.sh/users/8050850)**, [R J](https://osu.ppy.sh/users/6490509), [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [Miniature Lamp](https://osu.ppy.sh/users/9821194), [ChurroChef](https://osu.ppy.sh/users/9258564), [cheese salad](https://osu.ppy.sh/users/6349821) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [AkiraPlayz](https://osu.ppy.sh/users/16039831), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [JackTVN](https://osu.ppy.sh/users/12510704), [njshift1](https://osu.ppy.sh/users/16688499) |
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, April 23, 2022
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_ID] | Indonesia | Apr 23 (Sat) 12:00 UTC | Apr 23 (Sat) 21:00 UTC+9 | Apr 23 (Sat) 19:00 UTC+7 | ¹ |
-
-### Sunday, April 24, 2022
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | Apr 24 (Sun) 12:00 UTC | Apr 24 (Sun) 21:00 UTC+9 | Apr 24 (Sun) 21:00 UTC+9 | ² |
-| Japan | ![][flag_JP] | ![][flag_ID] | Indonesia | Apr 24 (Sun) 12:00 UTC | Apr 24 (Sun) 21:00 UTC+9 | Apr 24 (Sun) 19:00 UTC+7 | ² |
-
-¹ Losers bracket match\
-² Potential match: final matchup depends on the results of ¹
+![](img/podium.jpg "TWC 2022 podium")
 
 ## Mappools
 
@@ -292,6 +280,22 @@ The osu!taiko World Cup 2022 is run by various community members.
   1. [seatrus - O (KTYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/1712976#taiko/3500185)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1e6UBnSyrKsoVqGwE3e_Q-uRDJvEAjmFBGxUilmeHIs8/edit?rm=minimal).
+
+Saturday, April 23, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/100019807) |
+
+Sunday, April 24, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/100051772) |
 
 ### Finals
 

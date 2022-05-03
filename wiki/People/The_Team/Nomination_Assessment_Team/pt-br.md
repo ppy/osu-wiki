@@ -50,10 +50,13 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Avaliação, moderação |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, Chinês | Avaliação |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinês | Avaliação |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, um pouco de Árabe | Avaliação, estrutural, moderação, comunicação |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estrutural, comunicação |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Avaliação, estrutural, comunicação |
+| ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Avaliação |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estrutural |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  | Avaliação |
+| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Alemão, Sérvio | Avaliação |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Avaliação |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Espanhol, Francês | Avaliação |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | Avaliação |
@@ -80,9 +83,11 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinês | Avaliação |
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonésio | Avaliação, comunicação |
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Espanhol, Português, Galego, Italiano, Japonês | Avaliação |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Avaliação |
 
+[flag_AT]: /wiki/shared/flag/AT.gif "Áustria"
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
@@ -90,6 +95,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 [flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suécia"

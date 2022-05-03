@@ -68,13 +68,13 @@ Ranking ist der Prozess eine Beatmap auf einer Rangliste darzustellen und die Be
 
 # Regeln und Jura
 
-Lese über die Prozeduren und Kontrollen, die osu! und seine Community schützen; von Musiklizensierung und Medienrichtlinien bis hin zu Chat- und Forumregeln.
+Lese über die Prozeduren und Kontrollen, die osu! und seine Community schützen; von Musiklizenzierung und Medienrichtlinien bis hin zu Chat- und Forumregeln.
 
 [Regeln](/wiki/Rules) • [Verhaltenskodex für Mitwirkende](/wiki/Contributor_Code_of_Conduct) • [Verhaltenskodex für das Modding und Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 Medienregulierungen: [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Content_Usage_Guidelines) • [Expliziter Inhalt](/wiki/Rules/Explicit_Content) • [Regeln für Songinhalte](/wiki/Rules/Song_Content_Rules) • [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_Content_Considerations)
 
-[Rechtliche Seiten](/wiki/Legal): [Allgemeine Geschäftsbedingungen](/wiki/Legal/Terms) • [Datenschutz](/wiki/Legal/Privacy) • [Urheberrecht (DMCA)](/wiki/Legal/Copyright) • [Musiklizensierung](/wiki/Legal/Music_licensing)
+[Rechtliche Seiten](/wiki/Legal): [Allgemeine Geschäftsbedingungen](/wiki/Legal/Terms) • [Datenschutz](/wiki/Legal/Privacy) • [Urheberrecht (DMCA)](/wiki/Legal/Copyright) • [Musiklizenzierung](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
