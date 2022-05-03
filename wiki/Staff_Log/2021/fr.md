@@ -1,6 +1,6 @@
 # Registre du personnel : 2021
 
-Les  abréviations des groupes d'utilisateurs utilisées dans ce registre sont les suivantes :
+Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont les suivantes :
 
 - **BN :** [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)
 - **GMT :** [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)
