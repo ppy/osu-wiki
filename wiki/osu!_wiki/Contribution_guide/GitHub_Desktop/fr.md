@@ -71,7 +71,7 @@ Bien que les branches soient techniquement facultatives, elles sont [fortement r
 2. Par défaut, GitHub Desktop sélectionne automatiquement toutes vos modifications.
 3. Il est préférable de séparer chaque "grosse" action en un seul commit.
 
-Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#-pippi) a ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien vers l'image, et marqué les traductions comme obsolètes. A partir de cela, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier `en.md`, et un pour marquer les traductions comme obsolètes.
+Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) a ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien vers l'image, et marqué les traductions comme obsolètes. A partir de cela, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier `en.md`, et un pour marquer les traductions comme obsolètes.
 
 4. Sélectionnez les fichiers qui vont être placés dans le commit.
 5. Entrez le résumé du commit. Il est limité à 72 caractères et **doit être en anglais**.
@@ -87,4 +87,4 @@ Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#-pippi) a ajouté 
 
   ![](img/github-desktop-push.jpg)
 
-9. Continuez vers [Finition](/wiki/osu!_wiki/Contribution_guide#finitions) pour le dernier élément d'information concernant votre pull request et les changements.
+9. Continuez vers [Review](/wiki/osu!_wiki/Contribution_guide#review) pour le dernier élément d'information concernant votre pull request et les changements.

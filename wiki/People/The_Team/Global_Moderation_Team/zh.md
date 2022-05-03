@@ -52,7 +52,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄语 | 聊天室管理员 |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | 论坛管理员 |
 | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | 锦标赛管理员 |
-| ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | 中文，马来语 | 聊天室管理员 |
+| ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | 汉语，马来语 | 聊天室管理员 |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | 聊天室管理员 |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | 瑞典语，西班牙语 | 聊天室管理员，锦标赛管理员 |
 | ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | 聊天室管理员 |
@@ -64,24 +64,24 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 技术支持 |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | 葡萄牙语，日语 | 聊天室管理员 |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | 玩家支持，wiki 管理 |
-| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | 中文 | 谱面制作社群的管理工作 |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | 汉语 | 谱面制作社群的管理工作 |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | 波兰语 | 聊天室管理员 |
-| ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | 中文 | 谱面制作社群的管理工作 |
+| ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | 汉语 | 谱面制作社群的管理工作 |
 | ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899) |  | 谱面制作社群的管理工作 |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | 聊天室管理员，谱面制作社群的管理工作 |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 粤语，中文，日语 | 聊天室管理员 |
+| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 粤语，汉语，日语 | 聊天室管理员 |
 | ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | 德语 | 谱面制作社群的管理工作 |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | 俄语 | 聊天室管理员 |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | 日语 | 聊天室管理员 |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | 俄语 | 聊天室管理员 |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 俄语 | 聊天室管理员 |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | 芬兰语 | 聊天室管理员 |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | 葡萄牙语，西班牙语 | 聊天室管理员，锦标赛管理员 |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 德语 | 谱面制作社群的管理工作 |
-| ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | 中文 | 聊天室管理员 |
-| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | 粤语，中文 | 锦标赛管理员 |
+| ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | 汉语 | 聊天室管理员 |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | 粤语，汉语 | 锦标赛管理员 |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | 葡萄牙语 | 谱面制作社群的管理工作 |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! 开发 |
-| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | 俄语 | 聊天室管理员 |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天室管理员，论坛管理员，技术支持 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 法语 | 聊天室管理员 |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | 谱面制作社群的管理工作 |
@@ -90,12 +90,12 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | 葡萄牙语，西班牙语 | 聊天室管理员 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | 谱面制作社群的管理工作 |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | 德语，塞尔维亚语 | 聊天室管理员，谱面制作社群的管理工作 |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 菲律宾语 | 聊天室管理员 |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 德语 | 锦标赛管理员 |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | 法语，部分西班牙语 | 聊天室管理员 |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | 葡萄牙语 | 聊天室管理员 |
-| ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 粤语，中文 | 聊天室管理员 |
+| ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 粤语，汉语 | 聊天室管理员 |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | 韩语，日语 | 聊天室管理员 |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | 谱面制作社群的管理工作 |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | 西班牙语 | 聊天室管理员 |
@@ -108,7 +108,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | 葡萄牙语 | 谱面制作社群的管理工作 |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | 印度尼西亚语 | 聊天室管理员 |
 | ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) | 印度尼西亚语 | 聊天室管理员 |
-| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | 中文 | 聊天室管理员 |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | 汉语 | 聊天室管理员 |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | 俄语 | 聊天室管理员，wiki 管理 |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | 韩语，日语，菲律宾语 | 聊天室管理员 |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | 菲律宾语 | 聊天室管理员 |

@@ -208,7 +208,6 @@ tags:
 | Име | Допълнителен език |
 | :-- | :-- |
 | ![][flag_JP] [Chromoxx](https://osu.ppy.sh/users/1881639) | японски |
-| ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | някои японски, някои Немски |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | Руски |
 
 #### osu!catch

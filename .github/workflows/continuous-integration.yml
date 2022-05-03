@@ -43,7 +43,9 @@ jobs:
         shell: bash
         run: bash scripts/ci/inspect_binary_file_sizes.sh ${{ github.sha }} ${{ github.sha }}
       - name: setup node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
 
       - name: install remark
         run: npm install

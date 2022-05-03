@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 5d060ae21b4df7739919dfc468c9456bb305acf6
+---
+
 # Melaporkan perbuatan yang tidak pantas
 
 osu! memiliki [sebuah tim moderator](/wiki/People/The_Team/Global_Moderation_Team) yang secara khusus bertugas untuk menjaga lingkungan osu! dari hal-hal yang tidak diinginkan. Apabila kamu menemukan ada pihak tertentu yang dengan sengaja melanggar peraturan atau menyebarkan konten yang tidak pantas, harap laporkan hal tersebut melalui jalur-jalur laporan yang tertera di bawah ini. Apabila setelah sekian waktu laporanmu belum ditanggapi, kamu dapat mengontak para moderator yang sedang *online* secara langsung.
@@ -8,20 +13,20 @@ Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, par
 
 | Jenis pelanggaran | Pihak yang dapat dihubungi |
 | :-- | :-- |
-| Pesan pribadi yang tidak pantas | **Tidak ada**: harap [abaikan pengguna tersebut](/wiki/Client/Interface/Chat_console#commands-list). Untuk dapat mengabaikan seseorang secara permanen, gunakan fitur daftar pengabaian (*ignore list*) yang ada pada menu [Options](/wiki/Client/Options). |
+| Pesan pribadi yang tidak pantas | **Tidak ada**: harap [abaikan pengguna tersebut](/wiki/Client/Interface/Chat_console#daftar-perintah). Untuk dapat mengabaikan seseorang secara permanen, gunakan fitur daftar pengabaian (*ignore list*) yang ada pada menu [Options](/wiki/Client/Options). |
 | Pelanggaran yang terkait dengan modding dan/atau mapping | NAT atau para anggota [GMT](/wiki/People/The_Team/Global_Moderation_Team) yang memoderasi komunitas mapping/modding, melalui situs web [NAT/BN Management](https://bn.mappersguild.com/reports) |
 | Perilaku yang tidak pantas dari anggota [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) atau [GMT](/wiki/People/The_Team/Global_Moderation_Team) | [Account support team](/wiki/People/The_Team/Account_support_team) melalui alamat email [support@ppy.sh](mailto:support@ppy.sh) |
 | Pelecehan seksual serta segala bentuk kelakuan buruk yang sudah tidak dapat ditoleransi lagi | Harap rujuk artikel [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse) |
 
 Untuk kasus-kasus lainnya, harap ikuti instruksi di bawah ini.
 
-## *In-game chat*
+## In-game chat
 
 ### Menggunakan perintah !report
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
-Perilaku buruk dalam *in-game chat* merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkannya, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran tersebut terjadi. Jangan takut untuk melapor: apabila pesan yang kamu tulis dimulai dengan `!report` dan diikuti oleh spasi, **pesan tersebut hanya akan dapat dilihat oleh moderator** tanpa dapat diketahui oleh para pengguna lainnya. Apabila kamu masih belum yakin, kamu dapat kembali melaporkan pelanggaran tersebut melalui [menu dalam permainan](#Mengirimkan-laporan-melalui-menu-dalam-permainan) setelahnya.
+Perilaku buruk dalam *in-game chat* merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkannya, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran tersebut terjadi. Jangan takut untuk melapor: apabila pesan yang kamu tulis dimulai dengan `!report` dan diikuti oleh spasi, **pesan tersebut hanya akan dapat dilihat oleh moderator** tanpa dapat diketahui oleh para pengguna lainnya. Apabila kamu masih belum yakin, kamu dapat kembali melaporkan pelanggaran tersebut melalui [menu dalam permainan](#mengirimkan-laporan-melalui-menu-dalam-permainan) setelahnya.
 
 Perintah ini dapat dikirim baik dengan ataupun tanpa penjelasan lebih lanjut sebagai berikut:
 
@@ -97,7 +102,7 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 2. Klik tombol titik tiga yang muncul pada bagian kanan layar dan pilih `Laporkan Skor`.
 3. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
-#### Pada papan peringkat (*leaderboard*) beatmap
+#### Pada papan peringkat (leaderboards) beatmap
 
 ![](img/report-score-beatmap-ID.png "Tombol \"Laporkan Skor\" pada papan peringkat beatmap")
 

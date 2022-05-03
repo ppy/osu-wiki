@@ -5,6 +5,8 @@ outdated_since: b830432c4768e242ce32ad592010de960bbefdeb
 
 # Restriction
 
+*Laman utama: [Pusat bantuan](/wiki/Help_centre)*
+
 *Restriction* merupakan bentuk hukuman yang osu! jatuhkan kepada para pengguna yang telah bersikap tidak sepantasnya, bertindak mencurigakan, atau melanggar peraturan yang berlaku.
 
 Ketika seorang pengguna di-*restrict*, pengguna tersebut tidak akan dapat berinteraksi dengan para anggota komunitas lainnya hingga status *restriction* mereka dicabut. Para pengguna yang di-*restrict* masih akan dapat bermain, mengunduh beatmap, dan mengirimkan skor sebagaimana pada umumnya, namun laman profil mereka tidak akan dapat dilihat oleh siapapun kecuali diri mereka sendiri.
@@ -18,7 +20,7 @@ Berikut merupakan fitur-fitur serta tindakan-tindakan yang tidak dapat dilakukan
 - penyuntingan profil
 - pembelian produk-produk osu!store
 
-## Akun saya telah di-*restrict*! Apa yang harus saya lakukan?
+## Akun saya telah di-restrict! Apa yang harus saya lakukan?
 
 Apabila akunmu di-*restrict*, jangan panik. Harap ikuti langkah-langkah di bawah ini:
 
@@ -32,7 +34,7 @@ Apabila akunmu di-*restrict* karena kamu memiliki lebih dari satu akun namun aku
 
 Apabila bandingmu dikabulkan namun akunmu kembali di-*restrict* sesaat setelah kamu kembali bermain, jangan panik! Hal ini kemungkinan disebabkan oleh sistem kami yang menandai akunmu sebagai akun yang mencurigakan secara tidak sengaja. Jangan ragu untuk mengontak kami via email atau Twitter agar kami dapat kembali memulihkan akunmu sesegera mungkin!
 
-## Mengapa akun saya di-*restrict*?
+## Mengapa akun saya di-restrict?
 
 Ada beberapa alasan umum yang dapat menyebabkan akun seseorang di-*restrict*.
 
@@ -51,7 +53,7 @@ Apabila kamu terbukti melakukan sesuatu yang dapat menyebabkan akunmu di-*restri
 - **Ikuti instruksi tim layanan dukungan kami.** Masa *cooldown* selama tiga bulan yang kami berikan merupakan kesempatan bagimu untuk dapat memikirkan kembali kesalahan-kesalahan yang telah kamu lakukan. Apabila kamu mencoba untuk mengajukan banding sebelum masa *cooldown* akunmu usai, email yang kamu kirim akan diabaikan. Apabila kamu tidak yakin kapan masa *cooldown* akunmu akan berakhir, kapan kamu akan diizinkan untuk mengajukan banding, atau akun mana yang hendaknya kamu ajukan dalam banding yang kamu kirim, kamu dapat mengirimkan email kepada kami.
 - **Jangan ragu untuk menghubungi kami apabila kamu memiliki sesuatu yang ingin ditanyakan.** Selama kamu berperilaku baik dan tidak berusaha untuk mengakali *restriction* yang kamu terima, kami akan dengan senang hati menjawab apapun yang ingin kamu tanyakan seputar *restriction* akunmu!
 
-## Masa *cooldown* saya telah usai. Bagaimana caranya agar saya dapat mengajukan banding?
+## Masa cooldown saya telah usai. Bagaimana caranya agar saya dapat mengajukan banding?
 
 Kamu dapat mengajukan banding dengan cara mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan melampirkan nama pengguna akunmu. Pastikan kamu hanya mengirim pengajuan banding dari alamat email yang terkait dengan akun osu! milikmu. Setelah kamu mengajukan banding, tim kami akan menjawab banding tersebut dalam kurun waktu satu minggu. Apabila kamu belum menerima jawaban yang pasti setelah satu minggu telah terlewati, harap hubungi kami lebih lanjut melalui Twitter atau email — bisa jadi pesan bandingmu tidak sengaja luput dari pengecekan tim kami.
 
@@ -106,7 +108,7 @@ Harap dipahami bahwa dengan mengirimkan email ke alamat tersebut, vonis banding 
 
 **Kami hanya akan memproses permintaan-permintaan peninjauan banding (*appeal review*) yang dikirim melalui email pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Harap untuk tidak menghubungi para anggota account support team (atau tim-tim lainnya) yang bertugas secara pribadi terkait permintaan ini — mereka tidak memiliki wewenang untuk membantumu.
 
-## Penyebab-penyebab umum *restriction* dan masa *cooldown*-nya masing-masing
+## Penyebab-penyebab umum restriction dan masa cooldown-nya masing-masing
 
 | Penyebab *restriction* | Masa *cooldown* | Catatan |
 | :-- | :-- | :-- |
