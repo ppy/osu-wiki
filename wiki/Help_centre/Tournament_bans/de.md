@@ -24,7 +24,7 @@ Das beinhaltet Situationen wie:
 
 - wie oben beschrieben, jegliche Nutzung von Drittanbieter-Tools oder Programme, um einen Vorteil zu erzielen
 - die Erstellung mehrerer Accounts, um einem Turnier beizutreten
-- der Versuch, durch einen weiteren Account eine Stummschaltung oder ein Verstoß zu umgehen
+- der Versuch, durch einen weiteren Account eine Stummschaltung oder einen Verstoß zu umgehen
 - das Teilen von Accounts innerhalb/während eines offiziell unterstützten Turniers
 - sich verschwören, um an private Informationen zu gelangen, die einen Vorteil darstellen (wie z. B. der Zugriff auf Informationen von Mappools vor anderen Teams usw.)
 - das Missbrauchen einer Vertrauensstellung, um einen Vorteil zu erhalten (Zeitpläne manipulieren, die Zusammensetzung der Teams unfair verändern oder Teilnehmer ohne Grund und Veranlassung disqualifizieren)
@@ -38,7 +38,7 @@ In seltenen Situationen kann das [Account-Support-Team](/wiki/People/The_Team/Ac
 
 ## Was kann ich tun, während ich von Turnieren gesperrt bin?
 
-Du darfst weiter in Turnieren von der Community spielen, die keine offizielle Unterstützung anfordern oder eine Überprüfung bei der Bewertung der Veranstalter von solchen Events benötigen.
+Du darfst weiter in Turnieren von der Community spielen, die keine offizielle Unterstützung anfordern oder eine Überprüfung benötigen, was im Ermessen der Veranstalter dieser Events liegt.
 
 Informationen über den Status deiner Turniersperre können Turnierveranstaltern auf Anfrage bereitgestellt werden, unabhängig davon, ob sie von der offiziellen Unterstützung profitieren oder nicht.
 

@@ -57,7 +57,7 @@ Siehe *[Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions)* 
 
 Turniersperren sind, wie der Name beschreibt, ein Verbot der Teilnahme an allen offiziell unterstützten Turnieren.
 
-Siehe dazu den Artikel [Turniersperren](/wiki/Help_centre/Tournament_bans) für mehr Informationen zu diesem Thema.
+Siehe den Artikel [Turniersperren](/wiki/Help_centre/Tournament_bans) für mehr Informationen zu diesem Thema.
 
 ## Anmeldung
 
