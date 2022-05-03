@@ -32,7 +32,7 @@ Although many [Pending and Work-in-progress](/wiki/Beatmap/Category#work-in-prog
 
 Beatmaps entering the Loved category are required to follow some additional rulesets:
 
-- [Some points from the Metadata section of the Ranking Criteria](/wiki/Ranking_Criteria#metadata)
+- [Some points from the Metadata section of the Ranking Criteria](/wiki/Ranking_Criteria#metadata):
   - Song title, artist, and source should be correct in all cases.
   - Beatmap tags should properly list all contributors (guest difficulty creators, storyboarders, etc.).
 - [Song Content Rules](/wiki/Rules/Song_Content_Rules)
