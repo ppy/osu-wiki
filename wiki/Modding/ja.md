@@ -14,8 +14,8 @@ Modは、主に[Ranked](/wiki/Beatmap/Category#ranked)を目指すビートマ�
 
   キューの作成者は、最初にどのビートマップを受け付けるかのルールを提示します。キューは一般的に下記の2種類の方法でModされます。
 
-  - **Normal mod (NM)** は、mapperがmodderにModを要求する一般的な方法です。
-  - **Mod for mod (M4M)** は、modderがModする代わりに、要求したmapperはmodderのビートマップをModする、つまりお互いのビートマップをModし合う方法です。
+  - **Normal mod (NM):** は、mapperがmodderにModを要求する一般的な方法です。
+  - **Mod for mod (M4M):** は、modderがModする代わりに、要求したmapperはmodderのビートマップをModする、つまりお互いのビートマップをModし合う方法です。
 
 - 有名なmodderは、プロフィールにModを受け付けているかをよく書いています。
 
@@ -23,9 +23,9 @@ Modは、主に[Ranked](/wiki/Beatmap/Category#ranked)を目指すビートマ�
 
 ## Modの方法
 
-Modするには、まず該当ビートマップを最新のバージョンにし、[ディスカッションページ]を開きます。次に、Modしたい[難易度](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty)をテストプレイし、不自然な部分を見つけます。終わったら、その難易度をエディターで開いて、その不自然な箇所を調べます。
+Modするには、まず該当ビートマップを最新のバージョンにし、[ディスカッションページ](/wiki/Beatmap_discussion)を開きます。次に、Modしたい[難易度](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty)をテストプレイし、不自然な部分を見つけます。終わったら、その難易度をエディターで開いて、その不自然な箇所を調べます。
 
-不自然な箇所を見つけたら、そのオブジェクトを選択し、コピー(Ctrl + C)して投稿画面(もしくはメモ帳など)に貼り付け(Ctrl + V)ます。そして、なぜ不自然に思ったのかの理由を一緒に書いてください。"タイムライン"タブはビートマップの特定の部分に関する問題、"一般(難易度名)"タブは特定の難易度に関する問題、"一般(すべての難易度)"タブはすべての難易度に問題がある場合に使われます。
+不自然な箇所を見つけたら、そのオブジェクトを選択し、コピー(Ctrl + C)して投稿画面(もしくはメモ帳など)に貼り付け(Ctrl + V)ます。そして、なぜ不自然に思ったのかの理由を一緒に書いてください。`タイムライン`タブはビートマップの特定の部分に関する問題、`一般(難易度名)`タブは特定の難易度に関する問題、`一般(すべての難易度)`タブはすべての難易度に問題がある場合に使われます。
 
 指摘する場合は、どこが不自然なのか、なぜそれが不自然に思ったのか、どのように修正すればより良くなるのかを言う必要があります。詳しくは、[ModdingとMappingにおける行動規範](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#Mod投稿)を参照してください。
 
@@ -33,10 +33,10 @@ mapperは定期的に、役に立ったMod投稿に賛成票を入れること�
 
 ## Mod投稿の種類
 
-The goal of each `Problem` or `Suggestion` post on a beatmap discussion page is to explain anything concerning about a beatmap in the context of its design.
+ビートマップのディスカッションページでの`問題`や`提案`タブでは、ビートマップの配置(デザイン)に関することを説明します。
 
-Many mod posts address mistakes in a beatmap. For example, a missing clap hitsound which would be expected by the beatmap's hitsounding pattern is likely a mistake.
+多くのMod投稿では、ビートマップの基本的なミスを指摘しています。例えば、曲のリズムに合っていないヒットサウンドは、間違いである可能性が高いです。
 
-Providing alternative ways of beatmapping is another common type of mod post. While part of a beatmap may be acceptable in its current form, a modder can explain how to improve it further by designing it differently.
+modderは指摘だけでもmapperに通じることはありますが、別の配置を提案することでより分かりやすく説明することができます。
 
-Ranked目指すビートマップでは、[ランキング基準](/wiki/Ranking_Criteria)を確実に遵守する必要があります。Mod投稿のほとんどは、ランキング基準に反している部分を指摘しています。
+Ranked目指すビートマップでは、[ランキング基準](/wiki/Ranking_Criteria)を確実に遵守する必要があります。多くのMod投稿は、ランキング基準に反している部分を指摘しています。
