@@ -19,7 +19,7 @@ do
     # we're interested in the hash to pull the file's size using cat-file
     if [[ -z "${LAST_COMMIT_HASH}" ]]; then
         # manually check in local ci runs to account for uncommitted files
-        filesize=`stat --format=%s ${file}`
+        filesize=`wc -c < ${file}`
     else
         hash=`git ls-tree ${LAST_COMMIT_HASH} "${file}" | awk -F ' ' '{ print $3 }'`
         filesize=`git cat-file -s ${hash} 2>/dev/null`
@@ -29,7 +29,7 @@ do
         EXIT=1
     elif [[ ${filesize} -ge ${WARN_ON_SIZE} ]]; then
         printf "$( echo_yellow 'Warning:' ) The size of \"${file}\" exceeds 500kB. Consider compressing it to optimise performance.\n"
-  fi
+    fi
 done < <(git diff --numstat --no-renames --diff-filter=d ${FIRST_COMMIT_HASH}^ ${LAST_COMMIT_HASH} | awk '/^-\t-\t/ { print $3 }')
 # git diff --numstat will output -<TAB>-<TAB>$filename for blobs
 
