@@ -14,7 +14,7 @@ Le tag osu!supporter peut être obtenu depuis [la page de magasin osu!supporter]
 
 ## Fonctionnalités
 
-### Badge de cœur
+### Badge cœur
 
 ::: Infobox
 ![](img/userpage.png?1 "Profil avec osu!supporter")
@@ -24,7 +24,7 @@ Le tag osu!supporter peut être obtenu depuis [la page de magasin osu!supporter]
 ![](img/usercard.png?2 "Carte utilisateur avec un badge osu!supporter")
 :::
 
-Les supporters obtiennent un badge orné de cœurs. Il peut-être trouvé à côté du nom de l'utilisateur sur le site web. Le nombre de cœur dépend de la durée du osu!supporter que l'utilisateur a acquis ou reçus au total<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 --> :
+Les supporters obtiennent un badge orné de cœurs. Il peut être trouvé à côté du nom de l'utilisateur sur le site web. Le nombre de cœur dépend de la durée du osu!supporter que l'utilisateur a acquis ou reçus au total. 
 
 - Moins d'1 an : 1 cœur
 - De 1 à 5 ans : 2 cœurs
@@ -68,8 +68,8 @@ Obtenir osu!supporter donne la possibilité de changer de nom d'utilisateur grat
 osu!direct est l'outil de recherche et de téléchargement de beatmap en jeu disponible pour les supporters. On peut y accéder depuis le menu principal en cliquant sur le label vertical `osu!direct` sur le côté droit de l'écran. En plus d'une liste intégrée de beatmaps, osu!direct fournit d'autres moyens d'obtenir de nouvelles beatmaps sans quitter le jeu :
 
 - Les liens de beatmaps dans le tchat qui mènent vers la page de la beatmap sur le site web d'osu! démarrent directement le téléchargement en jeu.
-- Téléchargements automatiques en jouant dans un lobby [multijoueur](/wiki/Gameplay/Multiplayer) ou en [observant](/wiki/Gameplay/Spectating) un autre joueur en tant que [paramètre](/wiki/Client/Options#integrations).
-- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs en tant que [paramètre](/wiki/Client/Options#integrations)
+- Téléchargements automatiques en jouant dans un lobby [multijoueur](/wiki/Gameplay/Multiplayer) ou en [observant](/wiki/Gameplay/Spectating) un autre joueur comme [paramètre](/wiki/Client/Options#integrations).
+- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs comme [paramètre](/wiki/Client/Options#integrations)
 
 ### Classements avancés
 
@@ -117,7 +117,7 @@ Les supporters ont accès à une liste étendue de filtres de [recherche de beat
 
 ### Multijoueur dans les versions expérimentales d'osu!
 
-Les supporters peuvent accéder au mode multijoueur à partir des versions en accès anticipé "cutting edge".
+Les supporters peuvent accéder au mode multijoueur à partir des versions en accès anticipé "Cutting Edge".
 
 ### Durée restante
 
