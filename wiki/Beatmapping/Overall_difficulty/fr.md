@@ -29,6 +29,7 @@ Des valeurs d'OD plus élevées signifient une fenêtre de timing plus courte po
 ### osu!mania
 
 | Score | Fenêtre de hit (ms) |
+| --: | :-- |
 | MAX | `16` |
 | 300 | `64 - 3 * OD` |
 | 200 | `97 - 3 * OD` |
