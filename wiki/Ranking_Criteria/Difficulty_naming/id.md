@@ -168,6 +168,7 @@ Mapset yang memiliki lagu yang berasal dari game ritme lain sering kali mengguna
 #### Cytus
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) Chaos
+- ![](/wiki/shared/diff/expert-o.png?20211215) Glitch / Crash
 
 #### Deemo
 

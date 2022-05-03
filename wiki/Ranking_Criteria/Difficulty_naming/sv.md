@@ -175,6 +175,7 @@ Mapsets av låtar som härstammar från andra rytmspel lånar ofta spelets svår
 #### Cytus
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) Chaos
+- ![](/wiki/shared/diff/expert-o.png?20211215) Glitch / Crash
 
 #### Deemo
 

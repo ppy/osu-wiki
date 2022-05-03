@@ -168,6 +168,7 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 #### Cytus
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) Chaos
+- ![](/wiki/shared/diff/expert-o.png?20211215) Glitch / Crash
 
 #### Deemo
 
