@@ -10,7 +10,7 @@ Les modifications des règles et des directives de ce document sont proposées e
 
 ## Outils
 
-Il est fortement recommandé d'utiliser [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) pour aider à vérifier ces critères. [AiMod](/wiki/Client/Beatmap_editor/AiMod) qui se trouve sur l'ancien client (stable) est une version non maintenue et pas à jour. La vérification de beatmap sur le nouveau client (lazer) est un [work in progress](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
+Il est fortement recommandé d'utiliser [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) pour aider à vérifier ces critères. [AiMod](/wiki/Client/Beatmap_editor/AiMod) qui se trouve sur l'ancien client (stable) est une version non maintenue et donc pas à jour. La vérification des beatmaps sur le nouveau client (lazer) est au stade [work in progress](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
 
 Il est important de noter avant de les utiliser :
 
@@ -30,7 +30,7 @@ Il est important de noter avant de les utiliser :
 ### Règles
 
 - **Deux objets ne peuvent pas être placés sur le même tick.** Cela inclut les cercles et les durées des sliders et des spinners. Les difficultés d'osu!mania sont exemptes de cette règle.
-- **Il ne doit pas y avoir d'images obscènes dans [l'arrière-plan](/wiki/Beatmap/Background)/le storyboard/le contenu vidéo.** Cela inclut la nudité, la quasi-nudité, les références sexuelles, la violence, la toxicomanie, etc. Voir [Règles générales relatives au contenu des musiques](/wiki/Rules/Visual_Content_Considerations) pour des règles plus détaillées.
+- **Il ne doit pas y avoir d'images obscènes dans [l'arrière-plan](/wiki/Beatmap/Background)/le storyboard/le contenu vidéo.** Cela inclut la nudité, la quasi-nudité, les références sexuelles, la violence, la toxicomanie, etc. Voir les [règles générales relatives au contenu des musiques](/wiki/Rules/Visual_Content_Considerations) pour des règles plus détaillées.
 - **Les difficultés qui contiennent des stroboscopes répétitifs, des images pulsées ou des changements rapides de contraste, de luminosité ou de couleur dans le storyboard ou la vidéo doivent comporter un avertissement d'épilepsie.** Si l'avertissement interfère avec le gameplay, le lead-in audio doit être plus long. Les effets stroboscopiques à 3 Hz (c'est-à-dire 3 éclairs par seconde) et moins sont peu susceptibles de poser problème. En cas de doute, ajoutez l'avertissement et confirmez sa nécessité au cours du processus de modding.
 - **Il ne doit pas y avoir de fichiers inutilisés ou de fichiers à 0 octet dans le dossier de la beatmap.** Les fichiers à 0 octet empêchent les autres fichiers du dossier beatmap de se télécharger correctement. Les fichiers `thumbs.db` générés automatiquement sont les seules exceptions.
 - **Les [pauses](/wiki/Beatmap/Break) doivent être insérés avec les restrictions de l'[éditeur de beatmap](/wiki/Client/Beatmap_editor).**
@@ -164,7 +164,7 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
 - **Si un titre de musique ou un artiste Unicode a une traduction ou une romanisation officielle fournie par l'artiste, elle peut être utilisée dans le champ romanisé correspondant. Si une traduction et une romanisation sont toutes deux disponibles, l'une ou l'autre peut être utilisée.**
 - **Si la musique d'une beatmap a été réalisée par plusieurs artistes, ils peuvent être listés avec des virgules entre eux.** S'il y a trois artistes ou plus qui contribuent et qu'ils ne font pas partie d'un groupe officiellement étiqueté, `Various Artists` ou d'autres tags d'artistes descriptifs peuvent être utilisés à la place.
 - **Pour les remixes/reprises, ou performances, l'artiste original peut être utilisé dans le champ artiste, à condition que le champ titre soit modifié pour indiquer clairement que la musique n'est pas la version originale.** Ce marqueur doit être entre parenthèses et contenir l'artiste remix/cover ou l'interprète en tant que descripteur.
-- **Pour les performances live d'une musique, le titre doit-inclure un marqueur `(Live Ver.)`.** Les détails pertinents du spectacle doivent être indiqués dans la description et les tags de la beatmap, tels que la date et le lieu.
+- **Pour les performances live d'une musique, le titre doit-inclure un marqueur `(Live Ver.)`.** Les détails pertinents du spectacle doivent être indiqués dans la description et dans les tags de la beatmap, tels que la date et le lieu.
 - **Les mots déjà présents dans les métadonnées doivent-être répétés dans les tags à condition que les mots récurrents fassent partie de termes plus longs ou de phrases pertinentes pour la beatmap.**
 
 ## Timing
@@ -194,7 +194,7 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
   - **...utiliser le format de fichier `.mp3` ou `.ogg`.**
   - **...avoir un débit binaire moyen non supérieur à 192 kbps.**
   - **...avoir un débit moyen non inférieur à 128 kbps**, si une telle source existe. Sinon, utilisez la plus haute qualité disponible.
-  - **...ne pas être encodé vers le haut à partir d'un débit binaire inférieur.**
+  - **...ne pas être encodé trop haut à partir d'un débit binaire inférieur.**
 - **Une beatmap ne peut contenir qu'un seul fichier d'une musique utilisé par toutes les difficultés.** Les fichiers de musique multiples dans une seule beatmap ne sont pas pris en charge et entraînent un comportement inattendu avec les temps de prévisualisation, les métadonnées, etc.
 **Une beatmap doit posséder des [hitsounds](/wiki/Beatmapping/Hitsound).** Les Hitnormals donnent un retour au joueur, et les ajouts (whistles, claps et finishes) accentuent les parties les plus importantes de la musique.
   - **Les beatmaps d'osu!mania ne nécessitent pas l'ajout d'hitsound.** Cela permet de faciliter l'approche des mappeurs osu!mania de différentes origines. Il est toujours fortement recommandé d'ajouter des hitsounds afin d'améliorer la sensation de vos beatmaps. 
@@ -210,7 +210,7 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
 
 ### Directives
 
-- **Le fichier audio et les fichiers hitsound d'une beatmap ne doivent pas présenter de distorsions sonores audibles et injustifiées**, comme des coupures, des étouffements ou des grésillements qui ne sont manifestement pas voulus par l'artiste ou qui ne font pas partie de l'identité de la chanson. La meilleure façon de le déterminer est d'écouter l'audio, plutôt que d'utiliser un logiciel.
+- **Le fichier audio et les fichiers hitsound d'une beatmap ne doivent pas présenter de distorsions sonores audibles et injustifiées**, comme des coupures, des étouffements ou des grésillements qui ne sont manifestement pas voulus par l'artiste ou qui ne font pas partie de l'identité de la musique. La meilleure façon de le déterminer est d'écouter l'audio, plutôt que d'utiliser un logiciel.
 - **Le fichier audio d'une musique ne doit pas être allongé artificiellement afin de respecter une limite de temps dans la section "beatmap" de ces critères.** Cela peut inclure (sans s'y limiter) la mise en boucle de sections du fichier audio, la réduction du [BPM](/wiki/Beatmapping/Beats_per_minute) de la musique ou d'une section de la musique, ou l'ajout de petites quantités de musique à la musique sans l'incorporer dans toute la musique. Cela ne s'applique pas aux [compilations de musiques](/wiki/Beatmapping/Song_compilation) ou aux fichiers audio dont la longueur est inférieure à la longueur minimale de la beatmap classée.
 - **Si vous n'effectuez pas le beatmapping des derniers 20% du fichier audio de votre beatmap, celui-ci doit être coupé.** La durée de l'intro n'est pas incluse. Ceci ne s'applique pas si plus de 20% de l'outro est occupé par un storyboard/vidéo, ou si plus de 20% de l'audio de la musique ne peut pas être mappé en raison de problèmes de fade-out ou de timing.
 - **Les [compilations de musiques](/wiki/Beatmapping/Song_compilation) doivent comporter 3 musiques ou plus.** L'utilisation de seulement 2 chansons dans une compilation est une expérience terne pour les joueurs, et devrait être divisée en beatmaps séparés. Des exceptions peuvent être faites pour les musiques qui sont sorties exclusivement ensembles.
