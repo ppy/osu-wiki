@@ -46,7 +46,7 @@ Le dossier Replays contient les fichiers replay du joueur. Un fichier replay ne 
 
 La structure du nom de fichier est `Nom du joueur local} - {Artiste} - {Titre} {[Difficulté]}{(AAAA-MM-JJ)} {Mode de jeu}`. Un exemple de cette structure est présenté ci-dessous :
 
-``dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (12/08/2013) OsuMania``
+``dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\] (2013-08-12) OsuMania``
 
 ### Screenshots
 
