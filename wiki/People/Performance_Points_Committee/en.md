@@ -9,7 +9,9 @@ The **Performance Points Committee** is a panel of well-versed players and devel
 
 The osu! panel was first announced to the public through the [November 2021 *Performance Points & Star Rating Updates* news post](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) in response to a [community survey](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) held earlier that year.
 
-osu!mania's panel was formed 22 April 2022 in anticipation of a surge in active development effort, starting with [a change in difficulty calculation for hold note releases in osu!mania](https://github.com/ppy/osu/pull/17913).
+The osu!mania panel was formed 22 April 2022 in anticipation of a surge in active development effort, starting with [a change in difficulty calculation for hold note releases in osu!mania](https://github.com/ppy/osu/pull/17913).
+
+The osu!taiko panel was formed on 1 May 2022 for reasons similar to the above, with the first batch of changes expected to roll out shortly.
 
 ## Members
 
@@ -19,6 +21,11 @@ osu!mania's panel was formed 22 April 2022 in anticipation of a surge in active 
 - ![][flag_HU] [emu1337](https://osu.ppy.sh/users/2185987)
 - ![][flag_AU] [MBmasher](https://osu.ppy.sh/users/4498616)
 - ![][flag_RU] [StanR](https://osu.ppy.sh/users/7217455)
+
+### osu!taiko
+- ![][flag_AU] [-Lawtron-](https://osu.ppy.sh/users/11475208)
+- ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718)
+- ![][flag_MY] [vun](https://osu.ppy.sh/users/6932501)
 
 ### osu!mania
 
@@ -31,6 +38,7 @@ osu!mania's panel was formed 22 April 2022 in anticipation of a surge in active 
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
