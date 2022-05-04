@@ -40,3 +40,4 @@ Ne modifiez pas le fichier `tournament.cfg` quand osu! est ouvert. Fermez osu! p
   - Notez que cela ne s'applique qu'aux dispositions 2v2.
   - Une valeur de 1.5 est optimale pour osu!taiko.
   - Valeur par défaut : 2, plage autorisée : 1-2
+  
