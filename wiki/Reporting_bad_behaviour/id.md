@@ -12,7 +12,7 @@ Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, par
 | Pesan pribadi yang menyinggung/tidak pantas | **Tidak ada**: harap [abaikan pengguna tersebut](/wiki/Client/Interface/Chat_console#daftar-perintah). Untuk dapat mengabaikan seseorang secara permanen, gunakan fitur daftar pengabaian (*ignore list*) yang ada pada menu [Options](/wiki/Client/Options) atau blokir pengguna tersebut melalui tombol yang ada pada laman profil mereka. |
 | Perilaku yang tidak pantas dari anggota [BN](/wiki/People/The_Team/Beatmap_Nominators) | [NAT](/wiki/People/The_Team/Nomination_Assessment_Team), melalui situs web [NAT/BN Management](https://bn.mappersguild.com/reports) |
 | Perilaku yang tidak pantas dari anggota [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) atau [GMT](/wiki/People/The_Team/Global_Moderation_Team) | [Account support team](/wiki/People/The_Team/Account_support_team) melalui [support@ppy.sh](mailto:support@ppy.sh) |
-| Pelecehan seksual atau perilaku menyimpang lainnya yang berlebihan | Harap rujuk artikel [[Melaporkan tindak pelecehan](https://osu.ppy.sh/wiki/id/Reporting_bad_behaviour/Abuse)](/wiki/Reporting_bad_behaviour/Abuse) |
+| Pelecehan seksual atau perilaku menyimpang lainnya yang berlebihan | Harap rujuk artikel [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse) |
 
 Untuk kasus-kasus lainnya, harap ikuti instruksi di bawah ini.
 
