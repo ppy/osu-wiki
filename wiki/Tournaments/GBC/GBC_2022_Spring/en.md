@@ -87,7 +87,7 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 | 15 | **GBC最强阵容9个Miyes** | ![][flag_CN] **[miyes](https://osu.ppy.sh/users/12942073)**, ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767) |
 | 16 | **头号倒霉蛋** | ![][flag_CN] **[StarTemplar](https://osu.ppy.sh/users/8795096)**, ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634) |
 
-## Match schedule: Semifinal
+## Match schedule: Semifinals
 
 ### Saturday, May 7, 2022
 
@@ -103,7 +103,7 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 
 ## Mappools
 
-### Semifinal & Final
+### Semifinals & Finals
 
 **[Download the mappack here (130.7 MB)](https://drive.google.com/file/d/1GdRG5ay0LU_RaAfcpml8qG_Gu3bdlWB1/view)**
 
@@ -111,7 +111,7 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
   1. [DJ TOTTO - Chaplet (riunosk) \[Deceptive\]](https://osu.ppy.sh/beatmapsets/1440718#mania/2964130)
   2. [Hachioji-P feat. Hatsune Miku - Blue Star (\[Crz\]Rachel) \[Sparkle Star\]](https://osu.ppy.sh/beatmapsets/1000382#mania/2093764)
   3. [goreshit - satori de pon! (SaltedFISSH) \[\~\~Pon!\~\~\]](https://osu.ppy.sh/beatmapsets/1251545#mania/2601285)
-  4. [DECO*27 - Android Girl feat. Hatsune Miku (Xingyue -) \[AI x1.1\]](https://osu.ppy.sh/beatmapsets/969824#mania/2029268)
+  4. [DECO\*27 - Android Girl feat. Hatsune Miku (Xingyue -) \[AI x1.1\]](https://osu.ppy.sh/beatmapsets/969824#mania/2029268)
   5. [TUYU - Yappari Ame wa Furun da ne (- Freeman -) \[Edit (cut)\]](https://osu.ppy.sh/beatmapsets/1742064#mania/3587065)
   6. [Pan Weibo / Zhang Shaohan - Kuai Le Chong Bai (Doshowz) \[Come on\]](https://osu.ppy.sh/beatmapsets/1179698#mania/2459946)
   7. [Hatsuki Yura - Snow Veil -Shoujo to Kemono no Mori- (Hylotl) \[BAKEMONO\]](https://osu.ppy.sh/beatmapsets/1711963#mania/3498202)
@@ -176,7 +176,7 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 
 ## Match results
 
-### Quarterfinal
+### Quarterfinals
 
 Sunday, May 1, 2022:
 
@@ -384,8 +384,8 @@ Sunday, April 10, 2022:
 
 ### Win conditions
 
-- In Regular stages and Quarterfinal, teams need to win 6 maps to win a match (best of 11).
-- In Semifinal and Final , teams need to win 7 maps to win a match (best of 13).
+- In the Regular stage and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
+- In Semifinals and Finals, teams need to win 7 maps to win a match (best of 13).
 
 ### Match instructions
 
@@ -414,12 +414,12 @@ Sunday, April 10, 2022:
 
 ### Mappool instructions
 
-1. There will be three seprate mappools for all stage.
-   - Regular stage Round 1 and Round 2 use the mappool #1.
-   - Regular stage Round 3 and Quarterfinal use the mappool #2.
-   - Semifinal and Final use the mappool #3
+1. There will be three separate mappools.
+   - Regular stage Round 1 and Round 2 use mappool #1.
+   - Regular stage Round 3 and Quarterfinals use mappool #2.
+   - Semifinals and Finals use mappool #3.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
-3. mappool #1 & #2 contain 13 beatmaps, mappool #3 contain 15 beatmaps.
+3. Mappools #1 & #2 contain 13 beatmaps, and mappool #3 contains 15 beatmaps.
 4. Each mappool has one tiebreaker.
 5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
