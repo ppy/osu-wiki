@@ -129,7 +129,7 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 - Tiebreaker
   1. **[Camellia - SECRET BOSS (\[GB\]yobrevelc) \[Glorious Battlefield of Champions\]](https://osu.ppy.sh/beatmapsets/1755452#mania/3592441)**
 
-### Regular stage week 3 & Quarterfinal
+### Regular stage week 3 & Quarterfinals
 
 **[Download the mappack here (116.38 MB)](https://drive.google.com/file/d/1bB4ybEiRhBWacF1tZnQGbfBu4CiRhpGl/view)**
 
