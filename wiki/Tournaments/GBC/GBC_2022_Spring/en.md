@@ -183,7 +183,7 @@ Sunday, May 1, 2022:
 | Team A |  |  | Team B | Match link |
 | --:  |--: | :-- | :-- | :-: |
 | 大怨种被迫当队长 | 3 | **6** | GBC最强阵容9个Miyes | [#1](https://osu.ppy.sh/community/matches/100250198) |
-| 太美丽了理塘 | **6** | 2 | 可爱的hyahya酱上线啦！！ | [#1](https://osu.ppy.sh/mp/100250096) |
+| 太美丽了理塘 | **6** | 2 | 可爱的hyahya酱上线啦！！ | [#1](https://osu.ppy.sh/community/matches/100250096) |
 
 Monday, May 2, 2022:
 
