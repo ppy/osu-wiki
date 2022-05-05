@@ -164,8 +164,8 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Mappool instructions
 
-1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 4 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/No_Fail), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and Mixed Mod.
+1. There will be one mappool for each round of play.
+2. Each mappool consists of 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/No_Fail), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and Mixed Mod.
 3. The Qualifiers Stage mappool will consist of 9 maps, Round of 32 will consist of 14 maps, Round of 16 and Quarterfinals will consist of 17 maps, Semifinals, Finals and Grand Finals will consist of 18 maps.
 4. Every mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 5. **The [No Fail](/wiki/Game_modifier/No_Fail) mod will be enabled on all maps.**
