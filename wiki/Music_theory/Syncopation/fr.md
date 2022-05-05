@@ -8,7 +8,7 @@ La **syncope** est l'accentuation ou la mise en valeur régulière de notes qui 
 
 À titre d'exemple, [la difficulté Insane de fanzhen0019 de *Chasers - Lost*](https://osu.ppy.sh/beatmapsets/151114#osu/372628) contient des patterns de [slider](/wiki/Hit_object/Slider) avec des [sliderheads](/wiki/Hit_object/Sliderhead) à la fois sur le temps et en dehors du temps.
 
-Certains patterns de slider, comme le tout premier, suivent la mélodie du synthétiseur qui est syncopée avec les coups de pied de la batterie, se posant sur les ticks rouges de la timeline :
+Certains patterns de slider, comme le tout premier, suivent la mélodie du synthétiseur qui est syncopée avec les coups de grosse caisse, se posant sur les ticks rouges de la timeline :
 
 ![Exemple de slidersheads suivants un rythme syncopé](img/syncopated-sliders.png)
 
