@@ -21,8 +21,9 @@ The **GB Cup 2022 Spring** (***GBC 2022 Spring***) is a 3v3 captain draft-based 
 | Regular stage week 1 | 2022-04-09/2022-04-10 |
 | Regular stage week 2 | 2022-04-16/2022-04-17 |
 | Regular stage week 3 | 2022-04-23/2022-04-24 |
-| Playoffs week 1 | 2022-04-30/2022-05-01 |
-| Playoffs week 2 | 2022-05-07/2022-05-08 |
+| Quarterfinals | 2022-04-30/2022-05-01 |
+| Semifinals | 2022-05-07/2022-05-08 |
+| Finals | 2022-05-14/2022-05-15 |
 
 ## Prizes
 
