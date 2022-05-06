@@ -98,7 +98,7 @@ Après avoir obtenu osu!supporter, certains éléments visuels et sonores de l'i
 | Élément | Description |
 | :-- | :-- |
 | `menu-background.jpg` | Le fond du menu principal |
-| `welcome_text.png` | Le texte de "bienvenue" qui apparaît au démarrage du jeu |
+| `welcome_text.png` | Le texte de "welcome" qui apparaît au démarrage du jeu |
 | `welcome.wav` | Le sample "welcome to osu!" qui est joué au démarrage du jeu |
 | `seeya.wav` | Le sample "see ya next time" qui est joué quand le jeu se ferme |
 
@@ -125,7 +125,7 @@ Les supporters peuvent accéder au mode multijoueur à partir des versions en ac
 ![](img/status.jpg?1 "Trois mois d'osu!supporter restants")
 :::
 
-La durée restante d'osu!supporter, ainsi que le montant total des contributions, des achats de tags et des cadeaux, sont disponibles en haut de la page [de promotion d'osu!supporter](https://osu.ppy.sh/home/support).
+La durée restante d'osu!supporter, ainsi que le montant total des contributions, des achats de tags et des cadeaux, sont disponibles en haut de la [page de promotion d'osu!supporter](https://osu.ppy.sh/home/support).
 
 ### Obtenir osu!supporter
 
