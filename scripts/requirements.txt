@@ -1,1 +1,2 @@
 yamllint==1.26.3
+PyYAML==6.0
