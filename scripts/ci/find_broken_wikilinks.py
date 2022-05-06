@@ -3,198 +3,11 @@ import os
 import sys
 import typing
 
-Redirects = typing.Dict[str, typing.Tuple[str, int]]
-
-class Link(typing.NamedTuple):
-    """
-    A Markdown link, external or internal. May be relative. Example:
-
-        See [Difficulty Names](/wiki/Beatmap/Difficulty#naming-conventions)
-
-    - title: 'Difficulty Names'
-    - location: '/wiki/Beatmap/Difficulty'
-    - extra: '#naming-conventions'
-
-    Another example:
-
-        ![Player is AFK](img/chat-console-afk.png "Player is away from keyboard")
-
-    - title: 'Player is AFK'
-    - location: 'img/chat-console-afk.png'
-    - extra: ' "Player is away from keyboard"'
-    """
-
-    title: str
-    location: str
-    extra: str
-
-    # Link position within the line. Example:
-    #   See also: [Difficulty names](/wiki/Beatmap/Difficulty#naming-conventions)
-    #             ^ link_start                                                  ^ link_end
-    link_start: int
-    link_end: int
-
-    # Sections of a link. Example:
-    #    ![Player is AFK](img/chat-console-afk.png "Player is away from keyboard")
-    #                     ^ ----- location ----- ^
-    #                                             ^ ---------- extra ---------- ^
-    #                     ^ --------------------- content --------------------- ^
-    #     ^ ------------------ full_link / full_coloured_link ------------------ ^
-    @property
-    def content(self):
-        return self.location + self.extra
-
-    @property
-    def full_link(self):
-        return f"[{self.title}]{self.content}"
-
-    @property
-    def full_coloured_link(self):
-        return "{title_in_braces}{left_brace}{location}{extra}{right_brace}".format(
-            title_in_braces=green(f"[{self.title}]"),
-            left_brace=green('('),
-            location=red(self.location),
-            extra=blue(self.extra),
-            right_brace=green(')'),
-        )
-
-
-def red(s):
-    return f"\x1b[31m{s}\x1b[0m"
-
-
-def green(s):
-    return f"\x1b[32m{s}\x1b[0m"
-
-
-def yellow(s):
-    return f"\x1b[33m{s}\x1b[0m"
-
-
-def blue(s):
-    return f"\x1b[34m{s}\x1b[0m"
-
-
-def load_redirects(path: str) -> Redirects:
-    redirects = {}
-    with open(path, 'r', encoding='utf-8') as fd:
-        for line_number, line in enumerate(fd, start=1):
-            split = line.split('"')
-            try:
-                redirects[split[1]] = (split[3], line_number)
-            except IndexError:
-                pass
-    return redirects
-
-
-def child(path: str) -> str:
-    return path[path.find('/', 1) + 1:]
-
-
-def directory(filename: str) -> str:
-    return filename[filename.find('/') + 1:filename.rfind('/')]
-
-
-def check_redirect(redirects: Redirects, link: str):
-    link = link.lower()
-    try:
-        destination, line_no = redirects[link]
-    except KeyError:
-        return (False, "")
-    if not os.path.exists(f"wiki/{destination}"):
-        note = f"{blue('Note:')} Broken redirect (redirect.yaml:{line_no}: {link} --> {destination})"
-        return (False, note)
-    return (True, "")
-
-
-def check_link(redirects: Redirects, directory: str, link: str) -> typing.Tuple[bool, str]:
-    if link.startswith("/wiki/"):
-        # absolute wikilink
-        if os.path.exists(link[1:]):
-            return (True, "")
-        else:
-            # may have a redirect
-            return check_redirect(redirects, child(link))
-    elif not any(link.startswith(prefix) for prefix in ("http://", "https://", "mailto:")):
-        # relative wikilink
-        if os.path.exists(f"wiki/{directory}/{link}"):
-            return (True, "")
-        else:
-            # may have a redirect
-            return check_redirect(redirects, f"{directory}/{link}")
-    else:
-        # some other link; don't care
-        return (True, "")
-
-
-def is_in_comment(s, start, end):
-    return s.rfind("<!--", 0, start) != -1 and s.find("-->", end, -1)
-
-
-def find_link(s: str, index=0) -> typing.Optional[Link]:
-    found_brackets = False
-    started = False
-    start = None
-    mid = None
-    extra = None
-    end = None
-    square_bracket_level = 0
-    parenthesis_level = 0
-    for i, c in enumerate(s[index:]):
-        i += index
-        if not found_brackets and c == '[':
-            if not start:
-                start = i
-                started = True
-            square_bracket_level += 1
-            continue
-        if started and not found_brackets and c == ']':
-            square_bracket_level -= 1
-            if square_bracket_level == 0:
-                if len(s) > i + 1 and s[i + 1] == '(':
-                    found_brackets = True
-                    mid = i + 1
-            continue
-        if found_brackets and (c == ' ' or c == '#' or c == '?'):
-            if extra is None:
-                extra = i
-            continue
-        if found_brackets and c == '(':
-            parenthesis_level += 1
-            continue
-        if found_brackets and c == ')':
-            parenthesis_level -= 1
-            if parenthesis_level == 0:
-                end = i
-                if is_in_comment(s, start, end):
-                    return None
-                if extra is None:
-                    extra = end
-
-                return Link(
-                    location=s[mid + 1: extra],
-                    title=s[start + 1: mid - 1],
-                    extra=s[extra: end],
-                    link_start=start,
-                    link_end=end,
-                )
-            continue
-
-    return None
-
-
-def find_links(s: str) -> typing.List[Link]:
-    results = []
-    index = 0
-    match = find_link(s, index)
-    while match:
-        results.append(match)
-        match = find_link(s, match.link_end + 1)
-    return results
+from wikitools import article_parser, console, link_checker, redirect_parser, errors as error_types
 
 
 def print_error():
-    print(f"{red('Error:')} Some wiki or image links in the files you've changed have errors.\n")
+    print(f"{console.red('Error:')} Some wiki or image links in the files you've changed have errors.\n")
     print("This can happen in one of the following ways:\n")
     print("- The article or image that the link points to has since been moved or renamed (make sure to match capitalisation)")
     print("- The link simply contains typos or formatting errors")
@@ -208,52 +21,129 @@ def print_clean():
     print("Notice: No broken wiki or image links detected.")
 
 
+def s(i: int, s: str) -> str:
+    return f"{i} {s}{'s' if i != 1 else ''}"
+
+
+def print_count(errors: int, matches: int, error_files: int, files: int):
+    print(f"{console.blue('Note:')} Found {s(errors, 'error')} in {s(error_files, 'file')} ({s(matches, 'link')} in {s(files, 'file')} checked).")
+
+
+def highlight_links(s: str, errors: typing.List[error_types.LinkError]) -> str:
+    highlighted_line = ""
+    prev_index = 0
+    for error in errors:
+        highlighted_line += s[prev_index: error.link.start]
+        highlighted_line += error.pretty_link
+        prev_index = error.link.end + 1
+    highlighted_line += s[prev_index: -1]
+    return highlighted_line
+
+
+def pretty_location(path, lineno, pos, location):
+    return f"{console.yellow(path)}:{lineno}:{pos}: {console.red(location)}"
+
+
 def parse_args(args):
     parser = argparse.ArgumentParser()
     parser.add_argument("-t", "--target", nargs='*', help="paths to the articles you want to check")
+    parser.add_argument("-a", "--all", action='store_true', help="check all articles")
+    parser.add_argument("-s", "--separate", action='store_true', help="print errors that appear on the same line separately")
+    parser.add_argument("--outdated", action='store_true', help="check links in outdated articles")
     return parser.parse_args(args)
+
+
+def file_iterator(roots: list):
+    for item in roots:
+        if os.path.isdir(item):
+            for root, _, filenames in os.walk(item):
+                for f in filenames:
+                    filepath = os.path.join(root, f)
+                    yield filepath
+        elif os.path.isfile(item):
+            yield item
+
+
+def identifier_suggestions(e, articles):
+    return '\n\t'.join((
+        'line {}: {}'.format(lineno, identifier)
+        for identifier, lineno in sorted(
+            articles[e.path].identifiers.items(), key=lambda tuple_: tuple_[1]
+        )
+    ))
 
 
 def main():
     args = parse_args(sys.argv[1:])
-    if not args.target:
-        print("Notice: No articles to check.")
+    if not args.target and not args.all:
+        print(f"{console.grey('Notice:')} No articles to check.")
         sys.exit(0)
 
-    redirects = load_redirects("wiki/redirect.yaml")
+    filenames = []
+    if args.all:
+        filenames = file_iterator(["wiki", "news"])
+    else:
+        filenames = args.target
+
+    redirects = redirect_parser.load_redirects("wiki/redirect.yaml")
     exit_code = 0
-    for filename in args.target:
-        filename = filename.replace('\\', '/')
-        if filename.startswith("./"):
-            filename = filename[2:]
+
+    articles: typing.Dict[str, article_parser.Article] = {}
+    for filename in filenames:
         if any((
             not filename.endswith(".md"),
             "TEMPLATE" in filename,
             "README" in filename,
-            "Article_styling_criteria" in filename,
         )):
             continue
 
-        with open(filename, 'r', encoding='utf-8') as fd:
-            for linenumber, line in enumerate(fd, start=1):
-                for match in find_links(line):
-                    if match.content == "/wiki/Sitemap":
-                        continue
-                    success, note = check_link(redirects, directory(filename), match.location)
-                    if success:
-                        continue
+        a = article_parser.parse(filename)
+        articles[a.path] = a
 
-                    if exit_code == 0:
-                        print_error()
-                    exit_code = 1
-                    print(f"{yellow(filename)}:{linenumber}:{match.link_start + 1}: {red(match.location)}")
-                    if note:
-                        print(note)
+    error_count = 0
+    link_count = 0
+    error_file_count = 0
+    file_count = 0
 
-                    print("{}{}{}".format(line[:match.link_start], match.full_coloured_link, line[match.link_end + 1:]), end="\n\n")
+    for _, a in sorted(articles.items()):
+        if a.front_matter.get("outdated", False) and not args.outdated:
+            continue
+
+        link_count += sum(len(_.links) for _ in a.lines.values())
+        file_count += 1
+
+        errors = link_checker.check_article(a, redirects, articles)
+        if not errors:
+            continue
+
+        error_file_count += 1
+        if exit_code == 0:
+            print_error()
+        exit_code = 1
+
+        for lineno, errors_on_line in sorted(errors.items()):
+            error_count += len(errors_on_line)
+            for e in errors_on_line:
+                print(e.pretty_location(a.path, lineno))
+            for e in errors_on_line:
+                print(e.pretty())
+                if isinstance(e, error_types.MissingIdentifierError):
+                    suggestions = identifier_suggestions(e, articles)
+                    if suggestions:
+                        print('{}\n\t{}'.format(console.blue('Suggestions:'), suggestions))
+
+            print()
+            if args.separate:
+                for e in errors_on_line:
+                    print(highlight_links(a.lines[lineno].raw_line, [e]), end="\n\n")
+            else:
+                print(highlight_links(a.lines[lineno].raw_line, errors_on_line), end="\n\n")
 
     if exit_code == 0:
         print_clean()
+        print()
+
+    print_count(error_count, link_count, error_file_count, file_count)
     sys.exit(exit_code)
 
 
