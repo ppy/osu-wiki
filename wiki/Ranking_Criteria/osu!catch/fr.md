@@ -12,7 +12,7 @@ Les règles et directives générales s'appliquent à tous les types de difficul
 
 #### Règles
 
-- **Votre beatmap doit être théoriquement possible à SS.** Cela signifie qu'il doit être possible d'attraper absolument tous les [fruits](/wiki/Hit_object/Fruit), les [drop](/wiki/Hit_object/Juice_stream#drop) et les [droplets](/wiki/Hit_object/Juice_stream#droplet).
+- **Votre beatmap doit être théoriquement possible à SS.** Cela signifie qu'il doit être possible d'attraper absolument tous les [fruits](/wiki/Hit_object/Fruit), les [drops](/wiki/Hit_object/Juice_stream#drop) et les [droplets](/wiki/Hit_object/Juice_stream#droplet).
 - **Chaque beatmap doit utiliser au moins deux [couleurs de combo](/wiki/Beatmapping/Combo_colour) personnalisées différentes, sauf si le skin par défaut est forcé.** Les couleurs de combo ne doivent en aucun cas se mélanger à l'arrière-plan/le storyboard/la vidéo de la beatmap. Ainsi, les objets sont toujours visibles pour le joueur et les couleurs de combos du skin personnalisé ne se mélangent pas accidentellement avec l'arrière-plan.
 - **N'utilisez pas les keysounds sans support de hitnormal.** Si les bruitages s'intègrent parfaitement à la musique, l'effet de rétroaction après avoir touché des notes est minime.
 
