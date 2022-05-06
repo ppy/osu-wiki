@@ -15,7 +15,7 @@ Il est fortement recommandé d'utiliser [Mapset Verifier (MV)](https://github.co
 Il est important de noter avant de les utiliser :
 
 - Aucun outil ne va remplacer la nécessité de lire cette page ou de vérifier manuellement.
-- Soyez critique à l'égard de ce qu'ils soulignent et ne les suivez pas aveuglément.
+- Soyez critique à l'égard de ce qu'ils signalent et ne les suivez pas aveuglément.
 - Ils existent pour vous aider, pas pour vous remplacer.
 
 ## Glossaire
