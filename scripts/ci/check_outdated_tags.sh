@@ -46,7 +46,12 @@ MISSED_TRANSLATIONS=$( echo "$ORIGINAL_ARTICLES" | tr \\n \\0 | xargs -0 dirname
         continue
       fi
       if ! [[ "$TRANSLATIONS" =~ "$ARTICLE_NAME" ]]; then
-        grep -LzE -e "$MASK" "$ARTICLE_NAME" || true  # print only names of non-matching files, with multiline match (considering \n)
+        # FIXME(TicClick): a quick fix for grep to process the mask correctly both under macOS and Linux until the check is rewritten in another language
+        grep_flags="LzE"
+        if test $( uname ) = "Linux"; then
+          grep_flags="LzP"
+        fi
+        grep -"$grep_flags" -e "$MASK" "$ARTICLE_NAME" || true  # print only names of non-matching files, with multiline match (considering \n)
       fi
     done
   done
