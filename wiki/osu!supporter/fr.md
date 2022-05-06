@@ -24,7 +24,7 @@ Le tag osu!supporter peut être obtenu depuis [la page de magasin osu!supporter]
 ![](img/usercard.png?2 "Carte utilisateur avec un badge osu!supporter")
 :::
 
-Les supporters obtiennent un badge orné de cœurs. Il peut être trouvé à côté du nom de l'utilisateur sur le site web. Le nombre de cœur dépend de la durée du osu!supporter que l'utilisateur a acquis ou reçus au total. 
+Les supporters obtiennent un badge orné de cœurs. Il peut être trouvé à côté du nom de l'utilisateur sur le site web. Le nombre de cœurs dépend de la durée du osu!supporter que l'utilisateur a acquis ou reçu au total. 
 
 - Moins d'1 an : 1 cœur
 - De 1 à 5 ans : 2 cœurs
@@ -40,7 +40,7 @@ Les noms d'utilisateurs des supporters actifs apparaissent en jaune clair dans l
 
 ### Section de profil éditable
 
-Les supporters reçoivent une nouvelle section de profil intitulé `moi !`, souvent appelé page utilisateur. La page utilisateur sert en tant qu'espace personnel éditable, où le texte est formaté en utilisant le [BBCode](/wiki/BBCode). Cette fonctionnalité est permanente et reste éditable même après qu'osu!supporter ai expiré.
+Les supporters reçoivent une nouvelle section de profil intitulée `moi !`, souvent appelée page utilisateur. La page utilisateur sert en tant qu'espace personnel éditable, où le texte est formaté en utilisant le [BBCode](/wiki/BBCode). Cette fonctionnalité est permanente et reste éditable même après que le osu!supporter ait expiré.
 
 La section `moi !` est un bon endroit pour :
 
@@ -65,11 +65,11 @@ Obtenir osu!supporter donne la possibilité de changer de nom d'utilisateur grat
 
 ### osu!direct
 
-osu!direct est l'outil de recherche et de téléchargement de beatmap en jeu disponible pour les supporters. On peut y accéder depuis le menu principal en cliquant sur le label vertical `osu!direct` sur le côté droit de l'écran. En plus d'une liste intégrée de beatmaps, osu!direct fournit d'autres moyens d'obtenir de nouvelles beatmaps sans quitter le jeu :
+osu!direct est l'outil de recherche et de téléchargement de beatmaps en jeu disponible pour les supporters. On peut y accéder depuis le menu principal en cliquant sur le label vertical `osu!direct` sur le côté droit de l'écran. En plus d'une liste intégrée de beatmaps, osu!direct fournit d'autres moyens d'obtenir de nouvelles beatmaps sans quitter le jeu :
 
 - Les liens de beatmaps dans le tchat qui mènent vers la page de la beatmap sur le site web d'osu! démarrent directement le téléchargement en jeu.
 - Téléchargements automatiques en jouant dans un lobby [multijoueur](/wiki/Gameplay/Multiplayer) ou en [observant](/wiki/Gameplay/Spectating) un autre joueur comme [paramètre](/wiki/Client/Options#integrations).
-- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs comme [paramètre](/wiki/Client/Options#integrations)
+- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs comme [paramètre](/wiki/Client/Options#integrations).
 
 ### Classements avancés
 
@@ -98,7 +98,7 @@ Après avoir obtenu osu!supporter, certains éléments visuels et sonores de l'i
 | Élément | Description |
 | :-- | :-- |
 | `menu-background.jpg` | Le fond du menu principal |
-| `welcome_text.png` | Le texte de "welcome" qui apparaît au démarrage du jeu |
+| `welcome_text.png` | Le texte "welcome" qui apparaît au démarrage du jeu |
 | `welcome.wav` | Le sample "welcome to osu!" qui est joué au démarrage du jeu |
 | `seeya.wav` | Le sample "see ya next time" qui est joué quand le jeu se ferme |
 
@@ -112,7 +112,7 @@ Pour plus de détails, voir [Skinning de l'interface § Menu principal](/wiki/Sk
 
 Les supporters ont accès à une liste étendue de filtres de [recherche de beatmap](https://osu.ppy.sh/beatmapsets) :
 
-- Les beatmaps qui ont été (ou n'ont pas été) jouées
+- Les beatmaps qui ont été (ou n'ont pas été) jouées.
 - Les beatmaps sur lesquelles un score avec une certaine [note](/wiki/Gameplay/Grade) a été réalisé.
 
 ### Multijoueur dans les versions expérimentales d'osu!
