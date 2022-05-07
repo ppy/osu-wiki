@@ -52,6 +52,50 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1562118)
 - [Livestream](https://www.twitch.tv/osulive)
 
+## Participants
+
+*Notice: Captains are listed in **bold**. The final team composition for each country is subject to change.*
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ![][flag_DZ] | **Algeria** | **[nadvanlis](https://osu.ppy.sh/users/1402808)** |
+| ![][flag_AR] | **Argentina** | **[\[Force\]](https://osu.ppy.sh/users/1617217)** |
+| ![][flag_AU] | **Australia** | **[chickennando](https://osu.ppy.sh/users/5818665)** |
+| ![][flag_BE] | **Belgium** | **[\[ Quinten \]](https://osu.ppy.sh/users/6283136)** |
+| ![][flag_BR] | **Brazil** | **[Hanikawa Kurose](https://osu.ppy.sh/users/4533507)** |
+| ![][flag_CA] | **Canada** | **[Katsuragi](https://osu.ppy.sh/users/3616480)** |
+| ![][flag_CL] | **Chile** | **[eldnl](https://osu.ppy.sh/users/285756)** |
+| ![][flag_CN] | **China** | **[Dusk](https://osu.ppy.sh/users/533210)** |
+| ![][flag_CO] | **Colombia** | **[Hojaldre](https://osu.ppy.sh/users/2573707)** |
+| ![][flag_FI] | **Finland** | **[Nikolai](https://osu.ppy.sh/users/5302804)** |
+| ![][flag_FR] | **France** | **[Holloh](https://osu.ppy.sh/users/7612994)** |
+| ![][flag_DE] | **Germany** | **[Vinci007](https://osu.ppy.sh/users/5030297)** |
+| ![][flag_ID] | **Indonesia** | **[Chroneko](https://osu.ppy.sh/users/5472877)** |
+| ![][flag_IL] | **Israel** | **[gal1](https://osu.ppy.sh/users/9424481)** |
+| ![][flag_IT] | **Italy** | **[Camme79](https://osu.ppy.sh/users/5220794)** |
+| ![][flag_JP] | **Japan** | **[Molqus](https://osu.ppy.sh/users/1927193)** |
+| ![][flag_MY] | **Malaysia** | **[murutattack](https://osu.ppy.sh/users/4480237)** |
+| ![][flag_MX] | **Mexico** | **[daxeroz](https://osu.ppy.sh/users/1170156)** |
+| ![][flag_NL] | **Netherlands** | **[Chatie](https://osu.ppy.sh/users/6524765)** |
+| ![][flag_NZ] | **New Zealand** | **[Lay](https://osu.ppy.sh/users/3768185)** |
+| ![][flag_NO] | **Norway** | **[Mile](https://osu.ppy.sh/users/2760954)** |
+| ![][flag_PH] | **Philippines** | **[Lobsterr](https://osu.ppy.sh/users/6575915)** |
+| ![][flag_PL] | **Poland** | **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)** |
+| ![][flag_PT] | **Portugal** | **[Tris](https://osu.ppy.sh/users/3821475)** |
+| ![][flag_RU] | **Russian Federation** | **[Nelly](https://osu.ppy.sh/users/4741164)** |
+| ![][flag_SG] | **Singapore** | **[He Ang CTB](https://osu.ppy.sh/users/2451381)** |
+| ![][flag_KR] | **South Korea** | **[JISAN](https://osu.ppy.sh/users/3657951)** |
+| ![][flag_ES] | **Spain** | **[Patatitta](https://osu.ppy.sh/users/16294034)** |
+| ![][flag_SE] | **Sweden** | **[Aceon](https://osu.ppy.sh/users/4452911)** |
+| ![][flag_CH] | **Switzerland** | **[ItsJ0el](https://osu.ppy.sh/users/5586377)** |
+| ![][flag_TW] | **Taiwan** | **[Beepu](https://osu.ppy.sh/users/4958376)** |
+| ![][flag_TH] | **Thailand** | **[Azuria](https://osu.ppy.sh/users/16102533)** |
+| ![][flag_TR] | **Turkey** | **[Zeus-](https://osu.ppy.sh/users/5464437)** |
+| ![][flag_UA] | **Ukraine** | **[\[-Nyaruko-\]](https://osu.ppy.sh/users/13712671)** |
+| ![][flag_GB] | **United Kingdom** | **[Matt\_H](https://osu.ppy.sh/users/4067115)** |
+| ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)** |
+| ![][flag_VN] | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)** |
+
 ## Ruleset
 
 ### Tournament rules
@@ -164,9 +208,9 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Mappool instructions
 
-1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 4 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/No_Fail), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and Mixed Mod.
-3. The Qualifiers Stage mappool will consist of 9 maps, Round of 32 will consist of 14 maps, Round of 16 and Quarterfinals will consist of 17 maps, Semifinals, Finals and Grand Finals will consist of 18 maps.
+1. There will be one mappool for each round of play.
+2. Each mappool consists of 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/No_Fail), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and Mixed Mod.
+3. The Qualifier stage mappool will consist of 9 maps, Round of 32 will consist of 14 maps, Round of 16 and Quarterfinals will consist of 17 maps, Semifinals, Finals and Grand Finals will consist of 18 maps.
 4. Every mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
 5. **The [No Fail](/wiki/Game_modifier/No_Fail) mod will be enabled on all maps.**
 6. When playing a map from the [Hard Rock](/wiki/Game_modifier/Hard_Rock) or [Double Time](/wiki/Game_modifier/Double_Time) pool, [Hidden](/wiki/Game_modifier/Hidden) can be used optionally by any player.
@@ -188,16 +232,43 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
    - **Do not ask for a reschedule unless it is absolutely needed. The Tournament Management reserves the right to deny any rescheduling request.**
 6. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
 
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_IN]: /wiki/shared/flag/IN.gif "India"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IN]: /wiki/shared/flag/IN.gif "India"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
