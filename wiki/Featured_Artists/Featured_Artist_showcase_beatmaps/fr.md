@@ -494,6 +494,7 @@ Comme la Guilde elle-même fonctionnait sur une entrée fermée, basée sur les 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
