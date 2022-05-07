@@ -15,13 +15,13 @@ tags:
 
 ![Perfil de usuário do BanchoBot](img/BanchoBot.jpg "BanchoBot's user card")
 
-**BanchoBot** (às vezes chamado de *Bancho*) é um chat bot online feito para o osu! que ajuda os jogadores pelo chat dentro do jogo, anunciando mensagens relacionadas a ele (exemplo: vezes totais jogadas, tentativas, etc..), e respondendo a certos comandos . Ele foi programado pelo [Echo](https://osu.ppy.sh/users/431) e é o fornecedor do [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
+**BanchoBot** (às vezes chamado de *Bancho*) é um chat bot online feito para o osu! que ajuda os jogadores pelo chat dentro do jogo, anunciando mensagens relacionadas a ele (exemplo: vezes totais jogadas, tentativas, etc..), e respondendo a certos comandos. Ele foi programado pelo [Echo](https://osu.ppy.sh/users/431) e é o fornecedor do [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot também tem seu próprio [perfil osu!](https://osu.ppy.sh/users/3) e [conta no Twitter](https://twitter.com/banchoboat).
 
 ## Comandos
 
-*Para uma lista de comandos em jogo, veja: [Consolde do Chat](/wiki/Client/Interface/Chat_console#commands-list)*
+*Para uma lista de comandos em jogo, veja: [Console do Chat](/wiki/Client/Interface/Chat_console#commands-list)*
 
 O BanchoBot pode responder jogadores através de comandos específicos digitados no chat. Todos os comandos do BanchoBot começam com um ponto de exclamação (`!`) seguidos pelo nome do comando dependente. (com espaço entre eles). Esses comandos podem ser usados em canais de chat através de mensagens privadas com o BanchoBot.
 
