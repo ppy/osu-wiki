@@ -108,7 +108,7 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
 
 - **[Teminite](https://osu.ppy.sh/home/news/2020-01-15-new-featured-artist-teminite)** (15/01/2020)
   - (![][osu!]) [Teminite - Step Into The Light (feat. Jonah Hitchens)](https://osu.ppy.sh/beatmapsets/1089017#osu/2276963) organisé par ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
-- **[Blue Stahli](https://osu.ppy.sh/home/news/2020-01-22-new-featured-artist-blue-stahli)** (22/01/2019)
+- **[Blue Stahli](https://osu.ppy.sh/home/news/2020-01-22-new-featured-artist-blue-stahli)** (22/01/2020)
   - (![][osu!])(![][osu!taiko]) [Blue Stahli - Throw Away](https://osu.ppy.sh/beatmapsets/1061411#osu/2222638) organisé par ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
   - (![][osu!catch]) [Blue Stahli - Suit Up](https://osu.ppy.sh/beatmapsets/1061425#fruits/2222665) organisé par ![][flag_GB] [MBomb](https://osu.ppy.sh/users/3071175)
   - (![][osu!catch]) [Blue Stahli & Nyyzy Nyce - Run The Track](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242234) organisé par ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
@@ -358,7 +358,7 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
   - (![][osu!]) [La prière - Kyouzou no Canon](https://osu.ppy.sh/beatmapsets/1475603) organisé par ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
 - **[katagiri](https://osu.ppy.sh/home/news/2021-06-23-new-featured-artist-katagiri)** (23/06/2021)
   - (![][osu!catch]) [katagiri - Urushi](https://osu.ppy.sh/beatmapsets/1482723) organisé par ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
-- **[Andromedik](https://osu.ppy.sh/home/news/2021-06-26-new-featured-artist-andromedik)** (26/06/2018)
+- **[Andromedik](https://osu.ppy.sh/home/news/2021-06-26-new-featured-artist-andromedik)** (26/06/2021)
   - (![][osu!]) [Andromedik x Itro x Polygon - Fly](https://osu.ppy.sh/beatmapsets/1470255) organisé par ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
 
 ### Juillet
