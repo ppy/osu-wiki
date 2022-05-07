@@ -50,7 +50,7 @@ Si votre compte a été restreint, vous saurez probablement pourquoi après une 
 
 Dans les situations où nous sommes absolument sûrs qu'un acte répréhensible a eu lieu, nous vous demanderons d'attendre une période de **trois mois** à partir de la date de votre dernière infraction avant de considérer un appel de votre part pour vous laisser revenir sur le jeu.
 
-Consultez la page *[restrictions du compte](/wiki/Help_centre/Account_restrictions)* pour plus d'informations sur les restrictions des comptes et des procédures d'appels.
+Consultez la page *[Restrictions de compte](/wiki/Help_centre/Account_restrictions)* pour plus d'informations sur les restrictions de compte et des procédures d'appel.
 
 ## Bannissement des tournois
 
