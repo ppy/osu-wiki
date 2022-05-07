@@ -38,7 +38,6 @@ The entirety of this skin set is gameplay relevant.
 | sliderpoint10.png | should be included together with sliderpoint30.png; will only work if an user-specific skin supports skin version 1 | optional | - |
 | sliderpoint30.png | should be included together with sliderpoint10.png; will only work if an user-specific skin supports skin version 1 | optional | - |
 
-
 ### Lighting set
 
 The entirety of this skin set is gameplay relevant.
