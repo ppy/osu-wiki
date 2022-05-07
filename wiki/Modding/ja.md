@@ -10,7 +10,7 @@ Modは、主に[Ranked](/wiki/Beatmap/Category#ranked)を目指すビートマ�
 
 ビートマップを見つける方法はいくらでもありますが、ここでは主な方法をあげます。
 
-- [Modding Queuesフォーラム](//osu.ppy.sh/community/forums/60)はmapperが自身のビートマップのModを求めるためによく使用されているところです。modderはキューと呼ばれる自分のスレッドを作成すると、あなたにModしてほしいmapperが自身のビートマップのMod要求をします。
+- [Modding Queuesフォーラム](https://osu.ppy.sh/community/forums/60)はmapperが自身のビートマップのModを求めるためによく使用されているところです。modderはキューと呼ばれる自分のスレッドを作成すると、あなたにModしてほしいmapperが自身のビートマップのMod要求をします。
 
   キューの作成者は、最初にどのビートマップを受け付けるかのルールを提示します。キューは一般的に下記の2種類の方法でModされます。
 
