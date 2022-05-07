@@ -76,7 +76,7 @@ Les paramètres de difficulté de la beatmap ; chaque paramètre affecte différ
 
 *Note : En maintenant la touche `Shift` enfoncée, on peut obtenir un ajustement précis de 0,1 par rapport à l'ajustement standard de 1.*
 
-La notation courante pour représenter un paramètre de difficulté et sa valeur est l'abréviation du paramètre suivie de la valeur du paramètre. Par exemple, `CS4` et `HP4.3` seront une beatmap avec un Circle size de 4 et un taux de drain de santé de 4.3 respectivement. En théorie, les paramètres de difficulté négatifs peuvent ressembler à `AR-2` pour un Approach rate de -2.
+La notation courante pour représenter un paramètre de difficulté et sa valeur est l'abréviation du paramètre suivie de la valeur du paramètre. Par exemple, `CS4` et `HP4.3` seront une beatmap avec un circle size de 4 et un taux de drain de santé de 4.3 respectivement. En théorie, les paramètres de difficulté négatifs peuvent ressembler à `AR-2` pour un approach rate de -2.
 
 ### Taux de drain de santé
 
@@ -88,11 +88,11 @@ Dans osu! et osu!catch, cela affecte également les [HP passifs](/wiki/Client/In
 
 ### Circle size
 
-![Aperçu des différentes Circle size](img/Circle_sizes.png "Aperçu des différentes Circle size")
+![Aperçu des différentes circle size](img/Circle_sizes.png "Aperçu des différentes Circle size")
 
 *Note : Cette option est visible dans osu!taiko, mais elle n'affecte pas le gameplay.*
 
-Le **Circle size**, communément abrégée en CS, n'existe que dans osu! et osu!catch. CS détermine la taille des objets ou, plus précisément dans osu!catch, détermine la taille de l'attrapeur et du fruit. Les valeurs vont de 2 à 7 ; plus les valeurs CS sont élevées, plus les objets sont petits. En utilisant la valeur la plus élevée, les objets seront aussi grands que le curseur.
+Le **circle size**, communément abrégée en CS, n'existe que dans osu! et osu!catch. CS détermine la taille des objets ou, plus précisément dans osu!catch, détermine la taille de l'attrapeur et du fruit. Les valeurs vont de 2 à 7 ; plus les valeurs CS sont élevées, plus les objets sont petits. En utilisant la valeur la plus élevée, les objets seront aussi grands que le curseur.
 
 La plupart des beatmaps utilisent une valeur de 3 ou 4, tandis qu'une valeur de 5 ou 6 est parfois utilisée et une valeur de 7 n'est presque jamais utilisée. Une valeur de 7 et plus est susceptible d'être vue lors de l'utilisation du mod [Hard Rock](/wiki/Game_modifier/Hard_Rock).
 
@@ -100,7 +100,7 @@ Le réglage de la valeur CS à une valeur inférieure à 2 ou supérieure à 7 p
 
 #### Key Count
 
-Key Count, également connu sous le nom de Keys, remplace la métrique [Circle size](#circle-size) pour les beatmaps [osu!mania-specific](#mode-specific). Key Count est auto-explicatif ; il définit le nombre de touches utilisé. Les valeurs vont de 1 à 9 touches.
+Key Count, également connu sous le nom de Keys, remplace la métrique [circle size](#circle-size) pour les beatmaps [osu!mania-specific](#mode-specific). Key Count est auto-explicatif ; il définit le nombre de touches utilisé. Les valeurs vont de 1 à 9 touches.
 
 En cochant la case "Co-op mode", le montant sélectionné sera doublé (à partir de 5), ce qui donne un total de 10K (5), 12K (6), 14K (7), 16K (8) et 18K (9).
 
@@ -112,15 +112,15 @@ En cochant la case "Co-op mode", le montant sélectionné sera doublé (à parti
 
 *Remarque : cette option est visible dans osu!taiko et osu!mania, mais elle n'a aucune incidence sur la jouabilité. C'est principalement parce que les deux utilisent une vitesse de défilement, qui est basée sur le BPM (battements par minute)..*
 
-L'**Approach rate**, communément abrégée en AR, n'existe que dans osu! et osu!catch. Les valeurs vont de 0 à 10 ; plus les valeurs d'AR sont élevées, plus la hit windows des objets est courte. L'AR indique combien de temps les objets resteront à l'écran, depuis le moment où ils apparaissent jusqu'au moment où il faut les frapper/récupérer.
+L'**approach rate**, communément abrégée en AR, n'existe que dans osu! et osu!catch. Les valeurs vont de 0 à 10 ; plus les valeurs d'AR sont élevées, plus la hit windows des objets est courte. L'AR indique combien de temps les objets resteront à l'écran, depuis le moment où ils apparaissent jusqu'au moment où il faut les frapper/récupérer.
 
-Un Approach rate plus élevé signifie que les objets seront affichés pendant une période plus courte, ce qui laisse moins de temps de réaction pour planifier. Inversement, un Approach rate plus faible signifie que les objets seront affichés à l'écran pendant plus longtemps, ce qui laisse plus de temps pour réagir, mais peut entraîner l'apparition d'un nombre excessif d'objets à l'écran en même temps si l'Approach rate est trop faible.
+Un approach rate plus élevé signifie que les objets seront affichés pendant une période plus courte, ce qui laisse moins de temps de réaction pour planifier. Inversement, un approach rate plus faible signifie que les objets seront affichés à l'écran pendant plus longtemps, ce qui laisse plus de temps pour réagir, mais peut entraîner l'apparition d'un nombre excessif d'objets à l'écran en même temps si l'approach rate est trop faible.
 
 ---
 
 La durée d'un objet qui reste visible à l'écran (sans mods) varie de 1800ms (AR0) à 450ms (AR10).
 
-Il existe quatre mods qui modifient le timing de l'Approach rate lorsqu'ils sont activés :
+Il existe quatre mods qui modifient le timing de l'approach rate lorsqu'ils sont activés :
 
 - [Easy](/wiki/Game_modifier/Easy) : Divise par deux la valeur AR. (par exemple, AR10→AR5)
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock) :  Multiplie la valeur d'AR par 1,40, jusqu'à AR10 au maximum. (par exemple, on passe de AR3 à AR4.2 ou de AR9 à AR10)
@@ -159,7 +159,7 @@ Il existe quatre mods qui modifient le timing de l'Overall difficulty lorsqu'ils
 - [Easy](/wiki/Game_modifier/Easy): Divise par deux la valeur de l'OD.
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplie la valeur de l'OD par 1,4, jusqu'à OD10 au maximum.
 - [Double Time](/wiki/Game_modifier/Double_Time): La valeur de l'OD n'est pas affectée, mais en raison de l'augmentation de 50 % de la vitesse, les fenêtres de hits sont effectivement 33 % plus courtes.
-- [Half Time](/wiki/Game_modifier/Half_Time): La valeur de l'OD n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse, les fenêtres de tir sont effectivement 33 % plus longues.
+- [Half Time](/wiki/Game_modifier/Half_Time): La valeur de l'OD n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse, les fenêtres de hits sont effectivement 33 % plus longues.
 
 Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne changent pas la valeur réelle de l'OD, l'effet de la vitesse sur les hit windows fera que les objets sembleront avoir une OD apparente inférieure ou supérieure, respectivement. Dans le tableau de l'OD fourni, les valeurs d'OD apparentes sont indiquées pour permettre la comparaison entre les temps avec et sans ces mods. Notez que ces valeurs d'OD apparentes ne s'appliquent qu'aux 300 sur les cercles. Les fenêtres pour les 100, les 50 et les sliders (qui utilisent la hit windows 50) sont plus sévères avec le Double Time que ne le suggère cette OD apparente et plus clémentes avec le Half Time. Encore une fois, en dehors du NoMod, Hard Rock *(HR)* et Easy *(EZ)* (sur le côté gauche), les valeurs de l'OD fournies ne servent qu'à des fins de comparaison : la valeur réelle de l'OD est toujours un nombre compris entre 0 et 10.
 
@@ -252,7 +252,7 @@ En déplaçant le slider vers la droite, vous espacerez la "proximité" des obje
 
 *Remarque : Les cercles empilés dans osu! se déplaceront vers le point où l'empilement se produit.*
 
-Les objets sont considérés comme appartenant à la même pile s'ils se trouvent à la même coordonnée et pas plus loin dans le temps que `[(Fenêtre d'approche) * (Limite de pile) / 10]`, où `Fenêtre d'approche` est la durée pendant laquelle les objets restent à l'écran (voir [La section sur l'approach rate](#approach-rate).
+Les objets sont considérés comme appartenant à la même pile s'ils se trouvent à la même coordonnée et pas plus loin dans le temps que `[(Fenêtre d'approche) * (Limite de pile) / 10]`, où `Fenêtre d'approche` est la durée pendant laquelle les objets restent à l'écran (voir [la section sur l'approach rate](#approach-rate).
 
 ### Mode Specific
 
