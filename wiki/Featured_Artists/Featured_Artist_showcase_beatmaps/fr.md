@@ -44,7 +44,7 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
   - (![][osu!]) [Phonetic - Journey](https://osu.ppy.sh/beatmapsets/795432#osu/1670491) organisé par ![][flag_KR] [Left](https://osu.ppy.sh/users/5062061)
   - (![][osu!]) [Pulse - LP](https://osu.ppy.sh/beatmapsets/789374#osu/1656604) organisé par ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
 
-### Novembre 
+### Novembre
 
 - **[Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate)** (21/11/2018)
   - (![][osu!]) [Culprate - Aurora](https://osu.ppy.sh/beatmapsets/848003#osu/1773386) organisé par ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
