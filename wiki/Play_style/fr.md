@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: c91eea89d6bef915a79496a224a9acd3cb9360fc
----
-
 # Style de jeu
 
 Cette page détaille les différentes façons dont les joueurs peuvent choisir de jouer dans leurs modes de jeu respectifs.
@@ -11,9 +6,9 @@ Cette page détaille les différentes façons dont les joueurs peuvent choisir d
 
 ### Souris uniquement
 
-*Remarque : La souris était autrefois la seule façon de jouer à osu!, jusqu'à ce que d'autres méthodes de jeu soient prises en charge au fil du temps.*
-
 Aussi connu sous le nom de *mouse only*, les joueurs qui n'utilisent que la souris se déplacent avec le curseur en tapant, en suivant les sliders et en faisant tourner les spinners en cliquant uniquement sur les boutons gauche et droit de la souris.
+
+*La souris était autrefois la *seule* façon de jouer à osu!, jusqu'à ce que d'autres méthodes de jeu soient prises en charge au fil du temps.*
 
 Ce style de jeu est largement considéré comme la méthode la plus difficile à utiliser et les joueurs utilisant uniquement la souris qui se classent bien dans les classements généraux sont généralement très respectés par la communauté.
 
@@ -82,7 +77,7 @@ L'écran tactile et le clavier est un style de jeu qui utilise un clavier pour s
 ### Autres styles
 
 - **Pavé tactile/trackpad de l'ordinateur portable** : Bien que cette méthode soit possible, la plupart des joueurs préfèrent ne pas utiliser de trackpad en raison de l'extrême difficulté que cela représente. Plus précisément, les joueurs affirment que le contrôle du mouvement du curseur sur l'espace limité du pavé tactile/trackpad de l'ordinateur portable est maladroit, lent et crée beaucoup de friction. Le trackpad est utilisé pour déplacer le curseur dans le jeu.
-- **Joystick** : Une façon créative de contrôler le curseur d'osu!. Dans ce style de jeu, le joueur tient et déplace un joystick pour faire bouger le curseur et, selon la conception du joystick du joueur, tape en utilisant les boutons de déclenchement/de face du joystick, ou avec les touches du clavier pour enregistrer les battements. Ce style de jeu est largement considéré comme une sorte de "défi" en raison des inconvénients évidents et de l'habileté requise pour contrôler le mouvement du joystick.
+- **Joystick** : Une façon créative de contrôler le curseur. Dans ce style de jeu, le joueur tient et déplace un joystick pour faire bouger le curseur et, selon la conception du joystick du joueur, tape en utilisant les boutons de déclenchement/de face du joystick, ou avec les touches du clavier pour enregistrer les battements. Ce style de jeu est largement considéré comme une sorte de "défi" en raison des inconvénients évidents et de l'habileté requise pour contrôler le mouvement du joystick.
 - **Plaque métallique** : Il s'agit d'une méthode spéciale qui remplace le clavier pour taper. La méthode a été introduite par ![][flag_US] [geckogates](https://osu.ppy.sh/users/geckogates) et nécessite un peu de câblage et de connaissances électroniques pour la construire. Le joueur attachera un fil aux doigts qui cliquent (connectés au circuit du clavier pour `Z` et `X`) et touchera les plaques de métal pour enregistrer les battements.
 - **Manette de jeu** : Tout comme le joystick, cette méthode est considérée comme une façon créative et originale de jouer à osu!. Selon la marque de la manette, le joueur peut utiliser un trackpad intégré, un stick de contrôle/analogique ou un D-Pad pour contrôler le curseur. Certains joueurs trouveront plus confortable d'utiliser les boutons déjà présents sur la manette pour cliquer, ou d'utiliser un clavier ordinaire.
 
@@ -96,7 +91,7 @@ Il suffit au joueur d'appuyer sur les touches du clavier qui lui sont assignées
 
 Il existe deux styles principaux de réglage de l'emplacement des touches sur le clavier : KDDK (Taiko par défaut, ou BRRB) ou DDKK/KKDD (ou RRBB/BBRR). Les lettres représentent le placement du bord du tambour ou du centre du tambour (par exemple, K dans KDDK pour le bord du tambour, et D pour le centre du tambour).
 
-*Note : Pour les raccourci clavier, la valeur par défaut est `Z` `X` `C` `V` (KDDK, ou BRRB).*
+*Note : Pour les raccourci clavier, la valeur par défaut est `Z`, `X`, `C`, et `V` (KDDK, ou BRRB).*
 
 ### Manette taiko
 
@@ -106,7 +101,7 @@ La manette taiko est le style de jeu et la manette par défaut de la série [Tai
 
 Les joueurs qui utilisent une manette taiko portent un bâton de taiko/tambour dans chaque main et frappent le centre (rouge) ou le bord du tambour (bleu) pour enregistrer la note en fonction de l'endroit où elle est frappée.
 
-*Remarque : La plupart des contrôleurs taiko se connectent à l'ordinateur en utilisant un connecteur Bluetooth s'il n'y a pas de connecteur USB. Bien que cela puisse augmenter la latence*
+*Remarque : La plupart des contrôleurs taiko se connectent à l'ordinateur en utilisant un connecteur Bluetooth s'il n'y a pas de connecteur USB, bien que cela puisse augmenter la latence.*
 
 ### Autres styles
 
@@ -150,11 +145,11 @@ Pour le dash, de nombreux joueurs utilisent l'un des boutons de leur manette de 
 
 ### Clavier
 
-[Guide externe pour clavier mécanique](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/)
+*Remarque : Pour plus d'information à propos des claviers mécaniques, voir ce [guide externe pour clavier mécanique](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/).*
 
 Le clavier était autrefois la *seule* façon de jouer à osu!mania jusqu'à ce que d'autres méthodes de jeu soient prises en charge au fil du temps.
 
-Pour jouer avec un clavier, les joueurs doivent appuyer sur les touches correspondant à leur emplacement sur le clavier. Par défaut, ces touches sont DFJK. L'avantage de ce style de jeu est qu'il peut s'adapter à tous les paramètres des touches.
+Pour jouer avec un clavier, les joueurs doivent appuyer sur les touches correspondant à leur emplacement sur le clavier. Par défaut, ces touches sont `D`, `F`, `J` et `k`. L'avantage de ce style de jeu est qu'il peut s'adapter à pratiquement tous les paramètres des touches.
 
 ### Contrôleur d'arcade
 
@@ -174,7 +169,7 @@ Un autre inconvénient est que les beatmaps d'osu!mania ont peut-être été con
 
 ### Autres styles
 
-- **Ensemble guitare/batterie** (5/6K) : La manette par défaut du jeu de rythme sur le thème de la guitare ([Guitar Hero](https://fr.wikipedia.org/wiki/Guitar_Hero_(série_de_jeux_vidéo)))/de la batterie ([Drummania](https://fr.wikipedia.org/wiki/GuitarFreaks_et_DrumMania)). Les joueurs jouent sur leur guitare ou frappent la batterie ou les cymbales pour entrer des commandes. Les joueurs de batterie sont désavantagés par rapport aux joueurs de guitare car ils ne peuvent saisir que deux commandes à la fois sans une pédale de frappe spéciale.
+- **Ensemble guitare/batterie** (5/6K) : La manette par défaut du jeu de rythme sur le thème de la guitare ([Guitar Hero](https://fr.wikipedia.org/wiki/Guitar_Hero_(série_de_jeux_vidéo)))/de la batterie ([DrumMania](https://fr.wikipedia.org/wiki/GuitarFreaks_et_DrumMania)). Les joueurs jouent sur leur guitare ou frappent la batterie ainsi que les cymbales pour entrer des commandes. Les joueurs de batterie sont désavantagés par rapport aux joueurs de guitare car ils ne peuvent saisir que deux commandes à la fois sans une pédale de frappe spéciale.
 - **Contrôleur Para Para** (5K) : Il s'agit de la manette par défaut de la série [Para Para Paradise](https://fr.wikipedia.org/wiki/Para_Para_Paradise). Les joueurs déplacent leurs bras, leurs coudes et leurs mains au-dessus des capteurs de proximité pour entrer des commandes basées sur la position des mains à travers les capteurs de proximité. L'inconvénient est la sensibilité du récepteur d'entrée et la limitation physique du joueur.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
