@@ -240,7 +240,7 @@ Le **osu! Beatmapping World Championship** est un concours de mapping par équip
 
 Le **osb! Storyboarding Contest** est un concours de storyboarding où les storyboarders participants s'affrontent pour créer le meilleur storyboard. Ce concours est organisé par osu! storyboarder banquet, la communauté de storyboarding.
 
-| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Results |
+| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/osb!_Storyboarding_Contest/1) | ![][flag_CA] [TheDuckMask](https://osu.ppy.sh/users/7405768) | ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) | [#1](https://osu.ppy.sh/community/forums/topics/897075?n=1) |
 
