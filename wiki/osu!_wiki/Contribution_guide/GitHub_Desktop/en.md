@@ -87,4 +87,4 @@ For example, as pictured above, [pippi](/wiki/Mascots#pippi) had added an image 
 
   ![](img/github-desktop-push.jpg)
 
-9. Continue to [Finishing](/wiki/osu!_wiki/Contribution_guide#finishing) for the last piece of information regarding your pull request and changes.
+9. Continue to [Review](/wiki/osu!_wiki/Contribution_guide#review) for the last piece of information regarding your pull request and changes.

@@ -39,7 +39,7 @@ Offsets em byte não estão incluídos nesta tabela devido aos valores de compri
 | Integer | Comprimento em bytes dos dados do replay comprimidos |
 | Byte Array | Dados do replay comprimidos |
 | Long | ID da pontuação online |
-| Double | Informação adicional de mod. Presente apenas se [Target Practice](/wiki/Game_modifier#special.1) está ativado |
+| Double | Informação adicional de mod. Presente apenas se [Target Practice](/wiki/Game_modifier#special) está ativado |
 
 **Informação adicional de mod:**
 

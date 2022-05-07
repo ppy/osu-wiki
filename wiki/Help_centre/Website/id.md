@@ -27,7 +27,7 @@ Laman ini akan membahas berbagai permasalahan dan pertanyaan yang sering diutara
 
 ## Masalah-masalah umum
 
-### Saya sudah menunggu hingga lebih dari 2 minggu, namun sampai saat ini saya belum mendapatkan kabar apa-apa seputar tiket layanan dukungan (*support ticket*) milik saya!
+### Saya sudah menunggu hingga lebih dari 2 minggu, namun sampai saat ini saya belum mendapatkan kabar apa-apa seputar tiket layanan dukungan (support ticket) milik saya!
 
 **Pada umumnya, hal ini disebabkan oleh banyaknya tiket layanan dukungan (*support ticket*) yang sedang kami proses.**
 
@@ -41,7 +41,7 @@ Dalam **kasus-kasus tertentu** yang utamanya melibatkan pelanggaran-pelanggaran 
 
 Apabila kamu merasa tersinggung atau terlecehkan dengan pesan-pesan yang dikirim oleh pengguna-pengguna tertentu, baik itu melalui pesan pribadi (*private message*), forum, ataupun kanal obrolan dalam permainan (*in-game chat*), kamu dapat memblokir mereka dengan mengikuti langkah-langkah berikut.
 
-#### Memblokir pesan-pesan *in-game chat* dari pengguna lain
+#### Memblokir pesan-pesan in-game chat dari pengguna lain
 
 **Untuk dapat memblokir pesan-pesan *in-game chat* dari pengguna lain, tambahkan nama pengguna mereka ke dalam daftar pengabaian (*ignore list*) yang kamu miliki.**
 
@@ -53,7 +53,7 @@ Ke depannya, kamu tidak akan lagi melihat pesan-pesan dari para pengguna tersebu
 
 Apabila kamu hanya ingin memblokir jenis-jenis pesan tertentu saja (semisal *highlight*, *private message*, atau *public message*), kamu dapat menambahkan @h, @p, atau @c pada nama-nama tertentu dalam daftar pengabaian milikmu. Sebagai contoh, `The_Gatekeeper@c` akan memblokir pesan-pesan pada kanal-kanal obrolan publik dan `The_Gatekeeper@ph` akan memblokir *highlight* dan *private message* yang masuk dari pengguna yang bersangkutan.
 
-#### Memblokir pesan-pesan pribadi (*private message*) dari pengguna-pengguna yang tidak ditambahkan sebagai teman pada *in-game chat*
+#### Memblokir pesan-pesan pribadi (private message) dari pengguna-pengguna yang tidak ditambahkan sebagai teman pada in-game chat
 
 Apabila kamu tidak lagi ingin menerima pesan pribadi (*private message*) dari pengguna-pengguna yang tidak kamu tambahkan sebagai teman, kamu dapat mengikuti langkah-langkah berikut. **Harap dicatat bahwa fitur ini tidak akan menghalangi para moderator kami untuk dapat berkomunikasi denganmu melalui *in-game chat*; apabila kamu merasa ada moderator yang menggunakan keistimewaan yang mereka miliki ini untuk hal-hal yang tidak sepantasnya, harap hubungi [tim layanan dukungan kami](mailto:support@ppy.sh).**
 
@@ -63,7 +63,7 @@ Apabila kamu tidak lagi ingin menerima pesan pribadi (*private message*) dari pe
 
 Ke depannya, kamu tidak akan lagi mendapatkan pesan *in-game chat* dari pengguna-pengguna yang tidak kamu tambahkan sebagai teman.
 
-#### Memblokir pesan-pesan pribadi (*private message*) dari pengguna-pengguna yang tidak ditambahkan sebagai teman pada forum osu!
+#### Memblokir pesan-pesan pribadi (private message) dari pengguna-pengguna yang tidak ditambahkan sebagai teman pada forum osu!
 
 Tuju laman [pengaturan akun](https://osu.ppy.sh/home/account/edit) dan aktifkan opsi `Blokir pesan pribadi dari orang yang tidak ada dalam daftar teman Anda` yang ada pada kolom Kebijakan Privasi. Ke depannya, kamu tidak akan lagi mendapatkan pesan forum yang berasal dari pengguna-pengguna yang tidak kamu tambahkan sebagai teman.
 

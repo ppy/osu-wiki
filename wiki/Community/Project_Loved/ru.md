@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: bb4dac3fcde3b8fdc28a3d2bae7b9d1d60062144
+---
+
 # Project Loved
 
 **Project Loved** (*проект «Любимые карты»*, также *«Лавд»*) — это платформа для голосования, через которую карты попадают в категорию [Loved](/wiki/Beatmap/Category#loved). Проектом управляет [одноимённая команда](/wiki/People/The_Team/Project_Loved_Team).
@@ -32,7 +37,7 @@
 
 Карты, входящие в категорию Loved, также должны соответствовать нескольким наборам правил:
 
-- [Раздел «Метаданные» в критериях ранкинга](/wiki/Ranking_Criteria#Метадата),
+- [Раздел «Метаданные» в критериях ранкинга](/wiki/Ranking_Criteria#метаданные),
 - [Правила содержимого песни](/wiki/Rules/Song_Content_Rules),
 - [Критерии визуального содержания](/wiki/Rules/Visual_Content_Considerations).
 
