@@ -20,13 +20,13 @@ Choisissez la section qui correspond le plus à votre problème pour trouver une
 
 | Section | Domaine d'intérêt |
 | :-- | :-- |
-| [Compte](/wiki/Help_centre/Account) | osu!supporter, connexion et récupération de l'accès, changements de pseudo, données de profil |
-| [Restrictions de compte](/wiki/Help_centre/Account_restrictions) | Tout sur les restrictions : aperçu, processus d'appel, raisons courantes et cooldowns |
-| [Beatmapping et Éditeur](/wiki/Help_centre/Beatmapping) | Maintenance de vos beatmaps, propriété des beatmaps, emplacements des beatmaps |
-| [Client](/wiki/Help_centre/Client) | Bugs et crashs, gameplay, connexion, performances |
-| [Installation et inscription](/wiki/Help_centre/Installation_and_registration) | Télécharger le jeu, créer un compte |
-| [Boutique](/wiki/Help_centre/Store) | Marchandise, osu!go, osu!keyboard, osu!tablet |
 | [Bannissement des tournois](/wiki/Help_centre/Tournament_bans) | Tout sur les bannissements des tournois : aperçu, raisons courantes et cooldowns |
+| [Beatmapping et Éditeur](/wiki/Help_centre/Beatmapping) | Maintenance de vos beatmaps, propriété des beatmaps, emplacements des beatmaps |
+| [Boutique](/wiki/Help_centre/Store) | Marchandise, osu!go, osu!keyboard, osu!tablet |
+| [Client](/wiki/Help_centre/Client) | Bugs et crashs, gameplay, connexion, performances |
+| [Compte](/wiki/Help_centre/Account) | osu!supporter, connexion et récupération de l'accès, changements de pseudo, données de profil |
+| [Installation et inscription](/wiki/Help_centre/Installation_and_registration) | Télécharger le jeu, créer un compte |
+| [Restrictions de compte](/wiki/Help_centre/Account_restrictions) | Tout sur les restrictions : aperçu, processus d'appel, raisons courantes et cooldowns |
 | [Site web](/wiki/Help_centre/Website) | Blocage des utilisateurs, contacter le support, apparence du site |
 
 ## Aidez-nous à vous aider
