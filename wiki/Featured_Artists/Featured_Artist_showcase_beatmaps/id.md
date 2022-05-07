@@ -532,6 +532,7 @@ Dimulai dari [Pengumuman MYUKKE. sebagai Featured Artist](https://osu.ppy.sh/hom
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
