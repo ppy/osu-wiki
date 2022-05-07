@@ -88,7 +88,7 @@ Dans osu! et osu!catch, cela affecte également les [HP passifs](/wiki/Client/In
 
 ### Circle size
 
-![Aperçu des différentes circle size](img/Circle_sizes.png "Aperçu des différentes Circle size")
+![Aperçu des différentes circle size](img/Circle_sizes.png "Aperçu des différentes circle size")
 
 *Note : Cette option est visible dans osu!taiko, mais elle n'affecte pas le gameplay.*
 
@@ -138,7 +138,7 @@ Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la va
 *Remarque : le tableau ci-dessus s'applique uniquement au mode de jeu osu!.*\
 *Remarque : Sur la page de la beatmap, l'Overall difficulty est indiquée sous le nom de Précision.*
 
-L'Overall difficulty, communément abrégée en OD, définit le degré de difficulté à atteindre une grande précision. Les valeurs vont de 0 à 10, les valeurs d'OD les plus élevées nécessitant plus de précision et d'exactitude. Étant donné que la précision est importante pour gagner des HP, l'Overall difficulty influence indirectement la difficulté de passer la beatmap. Des valeurs OD plus élevées signifient des fenêtres de hit plus courtes pour clear les objets, à la fois en général et en termes d'obtention de la valeur de score la plus élevée de l'objet.
+L'overall difficulty, communément abrégée en OD, définit le degré de difficulté à atteindre une grande précision. Les valeurs vont de 0 à 10, les valeurs d'OD les plus élevées nécessitant plus de précision et d'exactitude. Étant donné que la précision est importante pour gagner des HP, l'Overall difficulty influence indirectement la difficulté de passer la beatmap. Des valeurs OD plus élevées signifient des fenêtres de hit plus courtes pour clear les objets, à la fois en général et en termes d'obtention de la valeur de score la plus élevée de l'objet.
 
 Dans osu!, le système de timing ne permet pas à un objet d'être touché tant que l'objet précédent ne l'a pas été et n'a pas reçu de jugement, ou tant qu'il n'a pas manqué après que la fenêtre de hit soit passée. Si les fenêtres de hits sont trop longues, la fenêtre de hit de l'objet peut chevaucher la fenêtre précédente. Pendant ce temps, l'objet est "verrouillé" et les coups ne comptent pas. Ce phénomène est appelé de manière informelle "notelock" dans osu!, ou "column locking" ou "cbrushing" dans osu!mania. Pour plus de détails et d'exemples, voir l'[article sur le notelock](/wiki/Gameplay/Judgement/Notelock). Pour cette raison, il est conseillé de ne pas utiliser de faibles valeurs d'OD dans les maps à fort BPM.
 
@@ -148,13 +148,13 @@ Effets supplémentaires de l'augmentation de l'OD dans chaque mode de jeu :
 - osu!taiko : Le denden (spinner) nécessite plus de coups pour être éliminé.
 - osu!mania et osu!catch ne sont pas affectés par l'OD.
 
-Pour calculer les fenêtres de hits, voir les formules de l'[article sur l'Overall difficulty](/wiki/Beatmapping/Overall_difficulty).
+Pour calculer les fenêtres de hits, voir les formules de l'[article sur l'overall difficulty](/wiki/Beatmapping/Overall_difficulty).
 
 ---
 
 À OD 0, un joueur peut obtenir un score de 300 en étant à moins de 79,5 ms de la frappe exacte à temps. À l'autre extrémité de l'échelle, OD 10 exige d'être à moins de 19,5 ms pour obtenir le même score de 300.
 
-Il existe quatre mods qui modifient le timing de l'Overall difficulty lorsqu'ils sont activés :
+Il existe quatre mods qui modifient le timing de l'overall difficulty lorsqu'ils sont activés :
 
 - [Easy](/wiki/Game_modifier/Easy): Divise par deux la valeur de l'OD.
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplie la valeur de l'OD par 1,4, jusqu'à OD10 au maximum.
