@@ -49,7 +49,7 @@ outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
   - (![][osu!]) [Phonetic - Journey](https://osu.ppy.sh/beatmapsets/795432#osu/1670491) ![][flag_KR] [Left](https://osu.ppy.sh/users/5062061)によってホスト
   - (![][osu!]) [Pulse - LP](https://osu.ppy.sh/beatmapsets/789374#osu/1656604) ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)によってホスト
 
-### 11月
+### 11月 
 
 - **[Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate)** (2018-11-21)
   - (![][osu!]) [Culprate - Aurora](https://osu.ppy.sh/beatmapsets/848003#osu/1773386) ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)によってホスト
@@ -322,7 +322,7 @@ outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
   - (![][osu!]) [Amidst - Fate](https://osu.ppy.sh/beatmapsets/1359944#osu/2814151) ![][flag_US] [Aeril](https://osu.ppy.sh/users/4334976)によってホスト
   - (![][osu!]) [Amidst - Treat (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1345615#osu/2786730) ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)によってホスト
   - (![][osu!]) [Amidst & OHEY - Need U (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1319384#osu/2733104) ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231)によってホスト
-- **[Xanthochroid](https://osu.ppy.sh/home/news/2021-03-27-new-featured-artist-amidst)** (2021-03-27)
+- **[Xanthochroid](https://osu.ppy.sh/home/news/2021-03-31-new-featured-artist-xanthochroid)** (2021-03-31)
   - (![][osu!]) [Xanthochroid - The Sound of Hunger Rises](https://osu.ppy.sh/beatmapsets/1335143#osu/2766094) ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)によってホスト
 
 ### 4月

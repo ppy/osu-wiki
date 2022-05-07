@@ -44,7 +44,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!]) [Phonetic - Journey](https://osu.ppy.sh/beatmapsets/795432#osu/1670491) diurus oleh ![][flag_KR] [Left](https://osu.ppy.sh/users/5062061)
   - (![][osu!]) [Pulse - LP](https://osu.ppy.sh/beatmapsets/789374#osu/1656604) diurus oleh ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
 
-### November
+### November 
 
 - **[Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate)** (2018-11-21)
   - (![][osu!]) [Culprate - Aurora](https://osu.ppy.sh/beatmapsets/848003#osu/1773386) diurus oleh ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
@@ -385,7 +385,7 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!]) [Natsume Itsuki - Mayday](https://osu.ppy.sh/beatmapsets/1506697) diurus oleh ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)
   - (![][osu!]) [Natsume Itsuki - AI to CodeQ no Hate](https://osu.ppy.sh/beatmapsets/1515036) diurus oleh ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
   - (![][osu!]) [Natsume Itsuki - Miniascape](https://osu.ppy.sh/beatmapsets/1509856) diurus oleh ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
-- **[rN](https://osu.ppy.sh/home/news/2021-08-14-new-featured-artist-rn)** 
+- **[rN](https://osu.ppy.sh/home/news/2021-08-14-new-featured-artist-rn)** (2021-08-14)
   - (![][osu!]) [rN - My Dearest Nightmare](https://osu.ppy.sh/beatmapsets/1542543) diurus oleh ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009)
 - **[technoplanet](https://osu.ppy.sh/home/news/2021-08-25-new-featured-artist-technoplanet)** (2021-08-25)
   - (![][osu!]) [technoplanet feat. chamo - Tepic Tepoch](https://osu.ppy.sh/beatmapsets/1551369) diurus oleh ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311)
@@ -422,12 +422,21 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1571215) diurus oleh ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
   - (![][osu!taiko]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1580723) diurus oleh ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
   - (![][osu!catch]) [Risa Yuzuki - Cinderella Maker](https://osu.ppy.sh/beatmapsets/1582952) diurus oleh ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637)
+
+### November
+
+- **[FATE GEAR](https://osu.ppy.sh/home/news/2021-11-13-new-featured-artist-fate-gear)** (2021-11-13)
+  - (![][osu!]) [Headless Goddess](https://osu.ppy.sh/beatmapsets/1568902) diurus oleh ![][flag_CN] [Elayue](https://osu.ppy.sh/users/6400861)
+  - (![][osu!catch]) [Scars in my Life](https://osu.ppy.sh/beatmapsets/1507375) diurus oleh ![][flag_AT] [Daletto](https://osu.ppy.sh/users/7592136)
+- **[Kurubukko](https://osu.ppy.sh/home/news/2021-11-17-new-featured-artist-kurubukko)** (2021-11-17)
+  - (![][osu!]) [Rain](https://osu.ppy.sh/beatmapsets/1578257) diurus oleh ![][flag_AU] [Gibune](https://osu.ppy.sh/users/5778687)
+  - (![][osu!]) [The 84th Flight](https://osu.ppy.sh/beatmapsets/1577313) diurus oleh ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
 - **[Matduke](https://osu.ppy.sh/home/news/2021-11-24-new-featured-artist-matduke)** (2021-11-24)
   - (![][osu!]) [Matduke - Let It Go (Original Mix)](https://osu.ppy.sh/beatmapsets/1625651#osu/3319012) diurus oleh ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380)
 - **[Marmalade butcher](https://osu.ppy.sh/home/news/2021-11-27-new-featured-artist-marmalade-butcher)** (2021-11-27)
   - (![][osu!]) [Marmalade butcher - Mirage Age](https://osu.ppy.sh/beatmapsets/1624087#osu/3315941) diurus oleh ![][flag_CA] [Gordon](https://osu.ppy.sh/users/7856835)
 
-### December
+### Desember
 
 - **[Tasty](https://osu.ppy.sh/home/news/2021-12-01-new-featured-artist-tasty)** (2021-12-01)
   - (![][osu!]) [oneohkay - Last 7 Letters](https://osu.ppy.sh/beatmapsets/1616937#osu/3301543) diurus oleh ![][flag_PL] [-Sylvari](https://osu.ppy.sh/users/3493804)
