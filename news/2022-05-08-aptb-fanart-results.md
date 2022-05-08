@@ -12,7 +12,7 @@ Boldly striding forward into one of our broadest themes yet, **135** artists mad
 
 And considering is exactly what the masses did! With only **14** votes to wield, it was a tough set of choices to make, but over nine thousand (nice) of you let loose your stars of judgement, and so, we have finalists to crown.
 
-Let's get straight into the results - but not before a quick reminder from yours truly about how you can click any of the finalist banners to be directed to a high-quality version of the image for all your wallpapering needs.
+Let's get straight into the results — but not before a quick reminder from yours truly about how you can click any of the finalist banners to be directed to a high-quality version of the image for all your wallpapering needs.
 
 Got that? Onwards:
 
@@ -40,7 +40,7 @@ Is it a date? A field trip for a school project? Are we the fish Mocha is pointi
 
 [![](https://assets.ppy.sh/contests/142/banners/PacifiedPaints.jpg)](https://assets.ppy.sh/contests/142/winners/PacifiedPaints.png)
 
-The very un-aptly named [**PacifiedPaints**](https://osu.ppy.sh/users/8377453) produced a punchy punk picture of pippi and Mocha engaging in some urban art to the approval of **2727** voters.
+The very unaptly named [**PacifiedPaints**](https://osu.ppy.sh/users/8377453) produced a punchy punk picture of pippi and Mocha engaging in some urban art to the approval of **2727** voters.
 
 There's something absolutely poetic about this piece also featuring a WYSI sticker in it. I swear, we haven't touched the votes. This stuff just *happens* sometimes.
 
@@ -52,7 +52,7 @@ There's something absolutely poetic about this piece also featuring a WYSI stick
 
 Springtime camping is on the cards in [**ZunK**](https://osu.ppy.sh/users/1070783)'s entry showcasing pippi, Mocha and the Dean "peppy" Herbert in a most huggable doll form. **2594** voters likely smashed the vote button so hard that they sprained something afterwards.
 
-Don't let the magnificence of the doll distract you - Mocha's rocking some serious style in this one. A don is chilling out in the back there too!
+Don't let the magnificence of the doll distract you — Mocha's rocking some serious style in this one. A don is chilling out in the back there too!
 
 [![](https://assets.ppy.sh/contests/142/banners/cubey.jpg)](https://assets.ppy.sh/contests/142/winners/cubey.png)
 
@@ -68,13 +68,13 @@ Of course this fantasy-Yuzu is haggling for fruit, and of course the fantasy-Moc
 
 [![](https://assets.ppy.sh/contests/142/banners/Kwms024.jpg)](https://assets.ppy.sh/contests/142/winners/Kwms024.png)
 
-Dialling attitude up to maximum, [**Kwms024**](https://osu.ppy.sh/users/11516014) ruthlessly intimidated (or just straight up convinced, your choice) **2207** voters into supporting their urbane osu! piece.
+Dialling attitude up to maximum, [**Kwms024**](https://osu.ppy.sh/users/11516014) ruthlessly intimidated (or just straight up convinced, your choice) **2207** voters into supporting their urban osu! piece.
 
-There is a *lot* going on in this piece, and the more you look at it, the more you see. Wonderfully stylized and beautifully executed, though unfortunately pippi's *slightly* provocative choice of attire means that it won't be actually making it to the main menu despite being a bonafide finalist. That's a bummer. The piece still owns, though.
+There is a *lot* going on in this piece, and the more you look at it, the more you see. Wonderfully stylised and beautifully executed, though unfortunately pippi's *slightly* provocative choice of attire means that it won't be actually making it to the main menu despite being a bonafide finalist. That's a bummer. The piece still owns, though.
 
 [![](https://assets.ppy.sh/contests/142/banners/Dem4eg-.jpg)](https://assets.ppy.sh/contests/142/winners/Dem4eg-.png)
 
-The cheers of **2137** voters lifted up [**Dem4eg-**](https://osu.ppy.sh/users/7206818) piece of pippi and Mocha taking center stage as charming idols, complete with a fanatic crowd cheering and swinging their pastel glowsticks.
+The cheers of **2137** voters lifted up [**Dem4eg-**](https://osu.ppy.sh/users/7206818)'s piece of pippi and Mocha taking centre stage as charming idols, complete with a fanatic crowd cheering and swinging their pastel glowsticks.
 
 [![](https://assets.ppy.sh/contests/142/banners/lILY1231.jpg)](https://assets.ppy.sh/contests/142/winners/lILY1231.png)
 
@@ -82,7 +82,7 @@ The cheers of **2137** voters lifted up [**Dem4eg-**](https://osu.ppy.sh/users/7
 
 [![](https://assets.ppy.sh/contests/142/banners/tehfire.jpg)](https://assets.ppy.sh/contests/142/winners/tehfire.png)
 
-[**tehfire**](https://osu.ppy.sh/users/7082924)'s most orbital arrangement of basically the entire official cast (plus the Taikonator) floating in space impressed **2055** voters. If you look really closely, they're all there, and what could be mistaken for solar panels is in fact, a osu!mania playfield. Or could be.
+[**tehfire**](https://osu.ppy.sh/users/7082924)'s most orbital arrangement of basically the entire official cast (plus the Taikonator) floating in space impressed **2055** voters. If you look really closely, they're all there, and what could be mistaken for solar panels is in fact, an osu!mania playfield. Or could be.
 
 What's that? You're worried about Yuzu being cut loose? Don't worry, he'll be just fine.
 
@@ -90,7 +90,7 @@ Probably.
 
 [![](https://assets.ppy.sh/contests/142/banners/Porukana.jpg)](https://assets.ppy.sh/contests/142/winners/Porukana.png)
 
-**2003** voters gazed across the neon lights of a cyberpunky cityscape with [**Porukana**](https://osu.ppy.sh/users/12992775)'s rendition of pippi and Tama in special osu! branded athletics wear. Looking stylish!
+**2003** voters gazed across the neon lights of a cyberpunky cityscape with [**Porukana**](https://osu.ppy.sh/users/12992775)'s rendition of pippi and Tama in special osu!-branded athletic wear. Looking stylish!
 
 [![](https://assets.ppy.sh/contests/142/banners/araran.jpg)](https://assets.ppy.sh/contests/142/winners/araran.png)
 
@@ -98,7 +98,7 @@ Probably.
 
 ---
 
-[*Download an archive containing high-quality images for all the finalist entries here!*](https://assets.ppy.sh/contests/142/APTB2022-Finalists.zip)
+[Download an archive containing high-quality images for all the finalist entries here!](https://assets.ppy.sh/contests/142/APTB2022-Finalists.zip)
 
 You'll now be able to enjoy (almost) all of the finalists listed above as the Spring 2022 Seasonal backgrounds, now available in the osu! game client. 
 
