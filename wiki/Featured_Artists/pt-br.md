@@ -6,7 +6,7 @@ tags:
 
 # Artistas em destaque
 
-**Artistas em destaque** são musicas de artistas que trabalharam com o osu! para fazer uma seleção de suas faixas ficarem disponíveis para uso em [beatmaps](/wiki/Beatmap) e imagem de fundo em músicas de transmissões ao vivo da [Copa do mundo osu!](/wiki/Tournaments#osu!-world-cup).
+**Artistas em destaque** são músicos que trabalharam junto ao osu! para fazer uma seleção de suas próprias músicas disponíveis para uso irrestrito na comunidade em [beatmaps](/wiki/Beatmap) e imagem de fundo em músicas de transmissões ao vivo da [Copa do mundo osu!](/wiki/Tournaments#osu!-world-cup). Alguns desses artistas em destaque também comporam músicas específicamente para o osu! e lançaram elas como exclusivas do osu!
 
 O site da [lista de Artistas em Destaque](https://osu.ppy.sh/beatmaps/artists) mostra cada artista envolvido. Cada página do artista possui uma informação geral sobre sua musica e uma lista de suas faixas licenciadas para usar no osu! acompanhadas pelo arquivo `.osz` pré-temporrizados para mapeamento.
 
