@@ -14,7 +14,7 @@ O site da [lista de Artistas em Destaque](https://osu.ppy.sh/beatmaps/artists) m
 
 Adições recentes para a biblioteca de artistas em destaque são selecionados indiretamente pela comunidade do osu!. Se mapeadores criarem e ranquearem seus mapas para um artista, o [osu! team](/wiki/People/The_Team) pode comunicar com o artista para discutir o Programa de Artistas em Destaque. Porém, alguns artistas são ocasionalmente convidados para de tornar um Artista em Destaque baseado em outros fatores, assim como sua expectativa de contato com a comunidade de mapeamento do osu!.
 
-A maioria das musicas no programa de Artistas em Destaque não exclusivamente licenciadas para o osu!. Em casos raros um artista irá criar faixas exclusivamente para o osu!, que é caracterizado como *exclusivo do osu!* em sua listagem de Artista em Destaque.
+A maioria das musicas no programa de Artistas em Destaque licenciadas para o osu! são sem exclusividade. Em casos raros um artista irá criar faixas exclusivamente para o osu!, que é caracterizado como *exclusivo do osu!* em sua listagem de Artista em Destaque.
 
 Detalhes para um músico entrar no Artista em Destaque pode ser encontrado no artigo [licenciamento de músicas](/wiki/Legal/Music_licensing).
 
