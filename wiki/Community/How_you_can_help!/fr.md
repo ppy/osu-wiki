@@ -61,7 +61,7 @@ Vous trouverez ci-dessous quelques-unes des façons dont vous pouvez contribuer 
   - Rejoignez le [Discord osu!dev](https://discord.gg/ppy) ! Le simple fait de suivre et de rester au courant du développement et des projets d'osu! est un bon moyen de rester informé.
 - Rejoignez un [beatmap project](https://osu.ppy.sh/community/forums/53) et apprenez à quel point la collaboration avec d'autres personnes peut être amusante !
 - Lancez votre propre projet ou rejoignez celui de quelqu'un d'autre ! Qu'il s'agisse de faire revenir le dancing pippi, ou simplement de faire quelque chose de cool pour osu!, tout est accepté !
-  - Consultez la [liste de projets populaires](/wiki/Community/Projets).
+  - Consultez la [liste de projets populaires](/wiki/Community/Projects).
 
 ## Contribuez à l'avenir d'osu!
 
