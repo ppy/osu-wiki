@@ -90,7 +90,7 @@ Probably.
 
 [![](https://assets.ppy.sh/contests/142/banners/Porukana.jpg)](https://assets.ppy.sh/contests/142/winners/Porukana.png)
 
-**2003** voters gazed across the neon lights of a cyberpunky cityscape with [**Porukana**](https://osu.ppy.sh/users/12992775)'s rendition of pippi and Tama in special osu!-branded athletic wear. Looking stylish!
+**2003** voters gazed across the neon lights of a cyberpunky cityscape with [**Porukana**](https://osu.ppy.sh/users/12992775)'s rendition of pippi and Aiko in special osu!-branded athletic wear. Looking stylish!
 
 [![](https://assets.ppy.sh/contests/142/banners/araran.jpg)](https://assets.ppy.sh/contests/142/winners/araran.png)
 
