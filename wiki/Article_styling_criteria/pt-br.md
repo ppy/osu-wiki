@@ -16,9 +16,9 @@ Para sugerir mudanças independente dos critérios de estilo do artigo, [abra um
 
 ## Padrões
 
-*Observe: Os artigos abaixo usam o  [RFC 2119](https://tools.ietf.org/html/rfc2119) para descrever os níveis de exigência.*
+*Observe: Os artigos abaixo usam o [RFC 2119](https://tools.ietf.org/html/rfc2119) para descrever os níveis de exigência.*
 
 Os critérios de estilo do artigo são separados em dois artigos:
 
 - [Formatação](Formatting): inclui Markdown e outras regras de formatação
-- [Escrita](Writing): inclui  práticas de escrita e outras regras de gramática
+- [Escrita](Writing): inclui práticas de escrita e outras regras de gramática
