@@ -3,7 +3,6 @@ stub: true
 tags:
   - sheet music
   - partition
-  - partition
 ---
 
 # Signature temporelle
