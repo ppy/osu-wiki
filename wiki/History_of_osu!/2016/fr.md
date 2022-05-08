@@ -6,7 +6,7 @@
 
 ## Février
 
-**Deux nouveaux articles ont été ajoutés à l'osu!store en février : l'osu!mug et l'osu!go.** L'osu!mug était une tasse typique avec un design d'osu! ($15 USD au lancement) tandis que l'osu!go était une clé USB préchargée avec le client osu!, permettant de jouer à osu! directement dessus ($50 USD au lancement) [[6,7]][r].<!--dates missing-->
+**Deux nouveaux articles ont été ajoutés à l'osu!store en février : l'osu!mug et l'osu!go.** L'osu!mug était une tasse typique avec un design d'osu! ($15 USD au lancement) tandis que l'osu!go était une clé USB préchargée avec le client osu!, permettant de jouer à osu! directement dessus ($50 USD au lancement) [[6,7]][r].
 
 ![](img/osu-mug-osu-go.jpg "L'osu!mug avec pippi en style chibi (à gauche) et l'osu!go (à droite) [[6]][r]")
 
@@ -34,9 +34,9 @@ De plus, en réponse à la réaction de la communauté, Ephemeral a promis que l
 
 ## Avril
 
-**La panel de modding du nouveau site d'osu! (new.ppy.sh) a été mis en ligne afin de permettre des tests publics le 11 avril 2016.** Cependant, ces tests n'étaient disponibles que pour [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) et [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). Selon [Loctav](https://osu.ppy.sh/users/71366), l'idée principale du panel était de diviser les problèmes en posts séparés, puis d'en discuter individuellement pour obtenir un suivi plus facile des problèmes et de s'en servir comme une partie des étapes vers la mise en œuvre du "Modding V2" tant attendu [[9]][r].<!--wayback snapshot broken-->
+**La panel de modding du nouveau site d'osu! (new.ppy.sh) a été mis en ligne afin de permettre des tests publics le 11 avril 2016.** Cependant, ces tests n'étaient disponibles que pour [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) et [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). Selon [Loctav](https://osu.ppy.sh/users/71366), l'idée principale du panel était de diviser les problèmes en posts séparés, puis d'en discuter individuellement pour obtenir un suivi plus facile des problèmes et de s'en servir comme une partie des étapes vers la mise en œuvre du "Modding V2" tant attendu [[9]][r].
 
-**De nouveaux designs de médailles ont été ajoutés à osu! le 14 avril 2016.** Ces designs permettaient d'être plus en phase avec le design d' "[osu!next](https://osunext.tumblr.com/about)" qui était utilisé dans le nouveau client d'osu! (nom de code "lazer") et sur le nouveau site web [[10,11]][r].
+**De nouveaux designs de médailles ont été ajoutés à osu! le 14 avril 2016.** Ces designs permettaient d'être plus en phase avec le design d'"[osu!next](https://osunext.tumblr.com/about)" qui était utilisé dans le nouveau client d'osu! (nom de code "lazer") et sur le nouveau site web [[10,11]][r].
 
 ![](img/new-medal-design-2016.jpg "Écran de déverrouillage d'une médaille présentant le nouveau design qui apparaîtrait en jeu [[12]][r]")
 
@@ -62,11 +62,11 @@ La réception de la communauté à l'égard de ce changement a été globalement
 
 **Le tout premier concours osu!remix a commencé le 6 mai 2016.** "osu!remix" était un nouveau concours qui mettait les participants au défi de faire un remix de la musique [circles!](https://soundcloud.com/nekodex/circles) par [nekodex](https://osu.ppy.sh/users/102). Le gagnant du premier prix (choisi par le staff d'osu!) aurait son remix mis en vedette sur osu! ainsi que $250 USD à utiliser dans l'osu!store, un badge de profil, et un concours officiel de beatmapping avec le remix. Le participant ayant terminé à la seconde place (choisi par un vote communautaire) recevrait $50 USD à utiliser dans l'osu!store. La date limite du concours était fixée au 9 juillet 2016 (00:00 UTC) [[15]][r].
 
-**Une demande de "contributeurs de la première heure" a été faite par [peppy](https://osu.ppy.sh/users/2) le 18 mai 2016.** La demande s'adressait spécifiquement aux utilisateurs ayant des connaissances en [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) 6.0 et suffisamment de temps libre et de volonté pour aider à nettoyer et à refactoriser de vastes zones du code du nouveau client d'osu! [[16]][r]. peppy a également demandé plus tard des "renforts" sous la forme de contributeurs supplémentaires familiarisés avec [Laravel](https://en.wikipedia.org/wiki/Laravel) et [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) [[17]][r].
+**Une demande de "contributeurs de la première heure" a été faite par [peppy](https://osu.ppy.sh/users/2) le 18 mai 2016.** La demande s'adressait spécifiquement aux utilisateurs ayant des connaissances en [C#](https://fr.wikipedia.org/wiki/C_sharp) 6.0 et suffisamment de temps libre et de volonté pour aider à nettoyer et à refactoriser de vastes zones du code du nouveau client d'osu! [[16]][r]. peppy a également demandé plus tard des "renforts" sous la forme de contributeurs supplémentaires familiarisés avec [Laravel](https://fr.wikipedia.org/wiki/Laravel) et [React](https://fr.wikipedia.org/wiki/React) [[17]][r].
 
 ## Juin
 
-**Après neuf mois, les résultats du premier concours [Mapping With Rewards](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) ont été publiés le 1er juin 2016.** Il y avait trois gagnants choisis dans le concours - un pour chaque chanson : [monstrata](https://osu.ppy.sh/users/2706438) (a gagné [Manic](https://osu.ppy.sh/beatmapsets/361175#osu/793620)), [alacat](https://osu.ppy.sh/users/869782#osu) (a gagné [House With Legs](https://osu.ppy.sh/beatmapsets/360680#osu/793357)), [Guy](https://osu.ppy.sh/users/91738) (a gagné [Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950#osu/793190)). En plus d'avoir leurs beatmaps préinstallées avec l'installateur d'osu!, ils ont chacun reçu $50 USD à utiliser dans l'osu!store, et un badge de profil unique comme prix [[18]][r].
+**Après neuf mois, les résultats du premier concours [Mapping With Rewards](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) ont été publiés le 1er juin 2016.** Il y avait trois gagnants choisis dans le concours - un pour chaque musique : [monstrata](https://osu.ppy.sh/users/2706438) (a gagné [Manic](https://osu.ppy.sh/beatmapsets/361175#osu/793620)), [alacat](https://osu.ppy.sh/users/869782#osu) (a gagné [House With Legs](https://osu.ppy.sh/beatmapsets/360680#osu/793357)), [Guy](https://osu.ppy.sh/users/91738) (a gagné [Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950#osu/793190)). En plus d'avoir leurs beatmaps préinstallées avec l'installateur d'osu!, ils ont chacun reçu $50 USD à utiliser dans l'osu!store, et un badge de profil unique comme prix [[18]][r].
 
 **Le serveur Discord osu!dev a été rendu public le 9 juin 2016.** Comme annoncé sur Twitter, le but du serveur était de remplacer l'équipe publique Slack qui était auparavant en place en raison de son manque de contrôle sur la modération. Tout utilisateur disposant du lien vers le serveur Discord pouvait rejoindre et suivre le développement d'osu!, bien qu'ils ne soient pas en mesure de parler dans les salons textuels à moins d'y être spécifiquement autorisés par un modérateur [[19,20]][r].
 
@@ -74,7 +74,7 @@ La réception de la communauté à l'égard de ce changement a été globalement
 
 **Un nouveau concours mettant au défi la communauté de créer un nouveau design de la mascotte d'osu!taiko qui remplacerait pippidon, l'ancienne mascotte, a été annoncé et a commencé le 18 juillet 2016.** Le gagnant du concours verrait son design officiellement accepté en tant que mascotte officielle d'osu!taiko, recevrait le titre utilisateur **osu!artist**, 12 mois d'osu!supporter, et $50 USD à utiliser dans l'osu!store. La date limite fixée pour les inscriptions était le 16 août 2016 (00:00 UTC) [[21]][r].
 
-**Des changements concernant la manière dont les prix sont attribués pour les tournois ont été apportés et annoncés le 24 juillet 2016.** En raison du nombre croissant de tournois lancés et gérés par la communauté à ce moment, l'équipe d'osu! a estimé qu'un système de crédits pouvant être échangés contre des tags osu!supporter serait plus utile et plus facile à suivre pour les joueurs et organisateurs des tournois. Les crédits attribués aux candidats seraient conservés sur une Google Sheet fournie [[22]][r].<!-- Google Sheet unavailable due to locked forum thread: https://osu.ppy.sh/community/forums/topics/481791 -->
+**Des changements concernant la manière dont les prix sont attribués pour les tournois ont été apportés et annoncés le 24 juillet 2016.** En raison du nombre croissant de tournois lancés et gérés par la communauté à ce moment, l'équipe d'osu! a estimé qu'un système de crédits pouvant être échangés contre des tags osu!supporter serait plus utile et plus facile à suivre pour les joueurs et organisateurs des tournois. Les crédits attribués aux candidats seraient conservés sur une Google Sheet fournie [[22]][r].
 
 ## Août
 
@@ -82,7 +82,7 @@ La réception de la communauté à l'égard de ce changement a été globalement
 
 ![](img/hush-hush-medals.jpg "Une liste visuelle de toutes les nouvelles médailles Hush-Hush ajoutées [[23]][r]")
 
-**Les résultats du premier concours "osu!remix" ont été officiellement annoncés le 29 août 2016**:
+**Les résultats du premier concours "osu!remix" ont été officiellement annoncés le 29 août 2016** :
 
 | Place | Musique | Artiste | Prix |
 | :-- | :-: | :-: | :-- |
@@ -179,4 +179,4 @@ Malgré les premiers ajouts, il a été rappelé aux utilisateurs que ce nouveau
 28. [Here Comes the Love](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love)
 29. [Show Your Love!](https://osu.ppy.sh/home/news/2016-10-21-show-your-love)
 
-[r]: #references
+[r]: #références
