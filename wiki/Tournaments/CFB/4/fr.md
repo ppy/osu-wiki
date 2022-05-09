@@ -14,14 +14,14 @@ La **Catch French Beginner 4** (***CFB4***) était un tournoi 1v1 français déb
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2020-03-26/2020-04-18 |
-| Live drawings | 2020-04-18 (21:00 UTC+2) |
-| Qualifications | 2020-04-25/2020-04-26 |
-| Phase de poules | 2020-05-02/2020-05-03 |
-| Quarts de finale | 2020-05-09/2020-05-10 |
-| Demi-finales | 2020-05-16/2020-05-17 |
-| Finales | 2020-05-23/2020-05-24 |
-| Grandes Finales | 2020-05-30 |
+| Phase d'inscription | 26/03/2020 - 18/04/2020 |
+| Live drawings | 18/04/2020 (21:00 UTC+2) |
+| Qualifications | 25/04/2020 - 26/04/2020 |
+| Phase de poules | 02/05/2020 - 03/05/2020 |
+| Quarts de finale | 09/05/2020 - 10/05/2020 |
+| Demi-finales | 16/05/2020 - 17/05/2020 |
+| Finales | 23/05/2020 - 24/05/2020 |
+| Grandes Finales | 30/05/2020 |
 
 ## Récompenses
 
