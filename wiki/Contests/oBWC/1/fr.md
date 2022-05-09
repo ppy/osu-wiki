@@ -14,10 +14,10 @@ La **osu! Mapping World Cup #1** (***oMWC #1***) est un concours de mapping d'os
 
 | Event | Horodatage |
 | --: | :-- |
-| Candidatures d'ambassadeurs d'équipe | 11/12/2018/27/12/2018 |
-| Assemblage des équipes | 27/12/2018/11/01/2019 |
-| Phase de mapping | 12/01/2019/09/02/2019 |
-| Phase de jugement | 09/02/2019/09/03/2019 |
+| Candidatures d'ambassadeurs d'équipe | 11/12/2018 - 27/12/2018 |
+| Assemblage des équipes | 27/12/2018 - 11/01/2019 |
+| Phase de mapping | 12/01/2019 - 09/02/2019 |
+| Phase de jugement | 09/02/2019 - 09/03/2019 |
 | Résultats finaux | 16/03/2019 (21:00 UTC+0) |
 
 ## Prix
