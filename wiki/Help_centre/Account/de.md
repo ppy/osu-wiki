@@ -226,7 +226,7 @@ Ja, jeder Nutzer kann die Löschung seines Accounts durch das Senden einer E-Mai
 
 **Ja, absolut. Damit sind auch geteilte PCs wie Internetcafés oder PC Bangs gemeint.**
 
-**Solange du auf deinem eigenem Account spielst**, kannst du osu! überall spielen!
+**Solange du auf deinem eigenen Account spielst**, kannst du osu! überall spielen!
 
 Solltest du in einem öffentlichen Ort spielen, achte auf die Sicherheit deines Accounts. Geteilte Computer sind oft Ziele von Angriffen mit Schadsoftware.
 

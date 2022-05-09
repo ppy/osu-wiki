@@ -8,7 +8,7 @@ Versehentliche Meldungen werden ignoriert. Benutzer, die absichtlich invalide Me
 
 | Art des Verstoßes | Kontaktperson |
 | :-- | :-- |
-| Scamming/Phishing in privaten Nachrichten | Sende einen regulären Bericht |
+| Scamming/Phishing in privaten Nachrichten | Sende eine reguläre Meldung |
 | Andere offensive/unangemessene private Nachrichten | **Keine**: [ignoriere den Benutzer](/wiki/Client/Interface/Chat_console#liste-an-chatbefehlen) stattdessen. Für einen dauerhaften Effekt muss die Ignorieren-Liste in den [Optionen](/wiki/Client/Options) des Spiel-Clients genutzt werden oder blockiere ihn auf der Webseite mit dem Button auf seinem Nutzerprofil. |
 | Unangemessenes Verhalten eines [BN](/wiki/People/The_Team/Beatmap_Nominators) | [NAT](/wiki/People/The_Team/Nomination_Assessment_Team), via der Webseite für [NAT-/BN-Management](https://bn.mappersguild.com/reports) |
 | Unangebrachtes Verhalten von einem [NAT](/wiki/People/The_Team/Nomination_Assessment_Team)- oder [GMT](/wiki/People/The_Team/Global_Moderation_Team)-Mitglied | [Account-Support-Team](/wiki/People/The_Team/Account_support_team) unter [support@ppy.sh](mailto:support@ppy.sh) |
