@@ -36,7 +36,7 @@ Si vous avez reçu l'autorisation d'un musicien d'utiliser sa musique, la couver
 
 ## Gameplay
 
-Lorsque vous mettez en ligne une beatmap, vous devez obtenir l'autorisation d'utiliser des ressources liées au gameplay, telles que les [difficultés des invités](/wiki/Beatmap/Guest_difficulty) ou les graphiques d'autres jeux de rythme.
+Lorsque vous mettez en ligne une beatmap, vous devez obtenir l'autorisation d'utiliser des ressources liées au gameplay, telles que les [guest difficulties](/wiki/Beatmap/Guest_difficulty) ou les graphiques d'autres jeux de rythme.
 
 Nous ne tolérons pas les mises en ligne présentant un gameplay (objets) correspondant à celui d'autres jeux, car cela n'est pas respectueux de la communauté des jeux de rythme.
 

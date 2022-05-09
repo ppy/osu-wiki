@@ -17,7 +17,7 @@ Dans le système de modding du forum, chaque beatmap avait un fil de discussion 
 
 ## Fils des beatmaps
 
-Un fil de discussion a été créé pour une beatmap lors de sa [soumission](/wiki/Submission) initiale  et contenait des commentaires libres, des interactions avec les difficultés des invités et des retours structurés sous la forme de messages de mods. Il servait de centre de discussion principal entre tous les utilisateurs intéressés par les beatmaps : les joueurs réguliers, l'[hôte de la beatmap](/wiki/Beatmap/Beatmap_host), les [mappeurs invités](/wiki/Beatmap/Guest_difficulty), les [moddeurs](/wiki/Modding/Modder) et les membres des équipes de classement des beatmaps :
+Un fil de discussion a été créé pour une beatmap lors de sa [soumission](/wiki/Submission) initiale  et contenait des commentaires libres, des interactions avec les guest difficulties et des retours structurés sous la forme de messages de mods. Il servait de centre de discussion principal entre tous les utilisateurs intéressés par les beatmaps : les joueurs réguliers, l'[hôte de la beatmap](/wiki/Beatmap/Beatmap_host), les [mappeurs invités](/wiki/Beatmap/Guest_difficulty), les [moddeurs](/wiki/Modding/Modder) et les membres des équipes de classement des beatmaps :
 
 - [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
 - [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
