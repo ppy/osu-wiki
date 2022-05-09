@@ -40,9 +40,9 @@ L'ensemble de ce skin set est pertinent pour le gameplay.
 
 ### Jeu de lumières
 
-L'ensemble de ce set de skin est pertinant pour le jeu.
+L'ensemble de ce skin set est pertinent pour le gameplay.
 
-| Nom du fichier | Notes | Achèvement du set | Tailles recommandées pour les skins SD |
+| Nom du fichier | Notes | Pertinence de l'ajout | Tailles recommandées pour les skins SD |
 | --: | :-: | :-: | :-: |
 | lighting.png | - | - | - |
 
