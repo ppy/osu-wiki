@@ -20,7 +20,7 @@ Un aperçu du design d'osu!next a été présenté lors du 46ème numéro du osu
 Liens :
 
 - [osu!weekly \#46](https://osu.ppy.sh/home/news/2016-02-02-osuweekly-46)
-- [2016-01](https://blog.ppy.sh/post/138642696393/2016-01)
+- [01/2016](https://blog.ppy.sh/post/138642696393/2016-01)
 - [Best of 2015: Result](https://osu.ppy.sh/home/news/2016-02-06-best-of-2015-results)
 - [osu!weekly \#48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
 - [osu!weekly \#49](https://osu.ppy.sh/home/news/2016-02-23-osuweekly-49)
