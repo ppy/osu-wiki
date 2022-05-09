@@ -10,7 +10,7 @@
 
 ![](img/osu-mug-osu-go.jpg "L'osu!mug avec pippi en style chibi (à gauche) et l'osu!go (à droite) [[6]][r]")
 
-**Le 13 février 2016, un nouveau changement de règle qui tentait de modifier les critères de répartition des difficultés pour les beatmaps classées a provoqué une réaction massive de la part de la communauté de beatmapping.** [[3]][r].
+**Le 13 février 2016, un nouveau changement de règle qui tentait de modifier les critères de répartition des difficultés pour les beatmaps classées a provoqué une réaction massive de la part de la communauté de beatmapping** [[3]][r].
 
 Bien qu'une grande partie de la réponse de la communauté désapprouvait ce nouveau changement de règle (qui tentait de limiter le nombre de difficultés autorisées dans une seule beatmap classée), une discussion beaucoup plus large a été lancée, centrée sur le mécontentement de nombreux utilisateurs envers le staff d'osu! en raison de ce qu'ils considéraient comme un manque de transparence et de représentation des joueurs concernant les changements récents dans la BAT (Beatmap Appreciation Team) ainsi que la création du RCC (Ranking Criteria Council) [[3]][r].
 
@@ -56,7 +56,7 @@ De plus, en réponse à la réaction de la communauté, Ephemeral a promis que l
 
 —Loctav, "Changes to the Quality Assurance Team" [[14]][r]
 
-La réception de la communauté à l'égard de ce changement a été globalement plutôt positive. Cependant, certains utilisateurs se demandaient si ce changement pouvait permettre à des beatmaps d'être ignorées sans au moins un mod garanti par un membre de la QAT. [[14]][r].
+La réception de la communauté à l'égard de ce changement a été globalement plutôt positive. Cependant, certains utilisateurs se demandaient si ce changement pouvait permettre à des beatmaps d'être ignorées sans au moins un mod garanti par un membre de la QAT [[14]][r].
 
 ## Mai
 
@@ -91,7 +91,7 @@ La réception de la communauté à l'égard de ce changement a été globalement
 | **Deuxième place du vote communautaire** | [circles! (黒皇帝 Remix)](https://soundcloud.com/dialgadu77/circles-remix) | [Sayaka-](https://osu.ppy.sh/users/398275) | $50 USD à utiliser dans l'osu!store |
 | **Troisième place du vote communautaire** | [circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix) | [happy30](https://osu.ppy.sh/users/27767) | Mention honorable |
 
-Bien que BilliumMoto ait remporté la première place du vote communautaire, le prix du gagnant du vote communautaire ($50 USD à utiliser dans l'osu!store) a été décerné au finaliste, Sayaka-, car BilliumMoto avait déjà remporté le vote du staff et ses prix. [[24]][r].
+Bien que BilliumMoto ait remporté la première place du vote communautaire, le prix du gagnant du vote communautaire ($50 USD à utiliser dans l'osu!store) a été décerné au finaliste, Sayaka-, car BilliumMoto avait déjà remporté le vote du staff et ses prix [[24]][r].
 
 ## Septembre
 
@@ -121,9 +121,9 @@ Malgré le classement et les récompenses, il a été rappelé aux utilisateurs 
 
 Les candidatures distribuées étaient différentes des candidatures des BN (Beatmap Nominator) dans la mesure où le simple fait de remplir un formulaire avec de "bonnes réponses" ne garantissait pas un poste : les utilisateurs qui intéressaient la GMT seraient contactés par la GMT et une inspection plus approfondie suivrait à partir de là. De plus, il n'y avait pas de nombre limité de "places" disponibles pour la GMT. Si l'équipe estimait que quelqu'un était qualifié pour le poste, elle l'ajouterait, quel que soit le nombre actuel de membres [[27]][r].
 
-**Les tests ouverts de la catégorie "Loved" pour les beatmaps ont été officiellement lancés et annoncés le 17 octobre 2016.** La catégorie, destinée aux beatmaps tenues en très haute estime par la communauté dans son ensemble, permettait aux beatmaps d'avoir des classements officiels en ligne, avec la mise en garde qu'elles n'accorderaient pas de points de performance aux joueurs. Le but était de mettre en évidence les beatmaps qui ne suivent pas les critères de classement afin de leur permettre de recevoir des classements en ligne et une reconnaissance plus "officielle" de leur statut bien-aimé dans la communauté. [[28]][r].
+**Les tests ouverts de la catégorie "Loved" pour les beatmaps ont été officiellement lancés et annoncés le 17 octobre 2016.** La catégorie, destinée aux beatmaps tenues en très haute estime par la communauté dans son ensemble, permettait aux beatmaps d'avoir des classements officiels en ligne, avec la mise en garde qu'elles n'accorderaient pas de points de performance aux joueurs. Le but était de mettre en évidence les beatmaps qui ne suivent pas les critères de classement afin de leur permettre de recevoir des classements en ligne et une reconnaissance plus "officielle" de leur statut bien-aimé dans la communauté [[28]][r].
 
-Dans l'[article de news](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love) l'annonçant, un ensemble de beatmaps présélectionnées ont reçu le statut de beatmap Loved :
+Dans l'[article de news l'annonçant](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love), un ensemble de beatmaps présélectionnées ont reçu le statut de beatmap Loved :
 
 - [mocchie - Nyan Nyan Drive (D: (caren_sk)](https://osu.ppy.sh/beatmapsets/106318)
 - [The Quick Brown Fox - PACEMAKER (Kyshiro)](https://osu.ppy.sh/beatmapsets/180771)
@@ -143,7 +143,7 @@ Dans l'[article de news](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-
 - [Seether - Fake It ([Dellirium])](https://osu.ppy.sh/beatmapsets/48738)
 - [Vektor - Recharging the Void (Mazzerin)](https://osu.ppy.sh/beatmapsets/489236)
 
-Malgré les premiers ajouts, il a été rappelé aux utilisateurs que ce nouveau statut était toujours en "test ouvert", et que l'équipe n'était toujours pas sûre de la façon dont les spécificités de l'intégration d'une beatmap dans le statut Loved devraient fonctionner. De nombreuses idées pour cela ont été données, bien que la première à être testée ait été un système de vote communautaire hebdomadaire à partir d'un ensemble de dix beatmaps choisies en fonction d'une "variété de facteurs". [[28,29]][r].
+Malgré les premiers ajouts, il a été rappelé aux utilisateurs que ce nouveau statut était toujours en "test ouvert", et que l'équipe n'était toujours pas sûre de la façon dont les spécificités de l'intégration d'une beatmap dans le statut Loved devraient fonctionner. De nombreuses idées pour cela ont été données, bien que la première à être testée ait été un système de vote communautaire hebdomadaire à partir d'un ensemble de dix beatmaps choisies en fonction d'une "variété de facteurs" [[28,29]][r].
 
 ---
 
