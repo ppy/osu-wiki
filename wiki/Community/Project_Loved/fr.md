@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: bb4dac3fcde3b8fdc28a3d2bae7b9d1d60062144
----
-
 # Project Loved
 
 Le **Project Loved** est la plateforme de vote qui promeut les beatmaps dans la catégorie [loved](/wiki/Beatmap/Category#loved). Il est géré principalement par la [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
@@ -37,11 +32,11 @@ Bien que de nombreuses beatmaps [en attente et work in progress](/wiki/Beatmap/C
 
 Les beatmaps entrant dans la catégorie loved doivent respecter des règles supplémentaires :
 
-- [La section Métadonnées des critères de classement](/wiki/Ranking_Criteria#metadata)
+- [Certains points de la section Métadonnées des critères de classement](/wiki/Ranking_Criteria#metadata)
 - [Les règles relatives au contenu des musiques](/wiki/Rules/Song_Content_Rules)
 - [Les considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations)
 
-En outre, afin de maintenir la qualité audio de la musique à un niveau raisonnable, les fichiers audio des beatmap doivent provenir d'une source de la plus haute qualité disponible tout en ayant un débit binaire moyen ne dépassant pas 192 kbps.
+En outre, afin de maintenir la qualité audio de la musique à un niveau raisonnable, les fichiers audio des beatmaps doivent avoir un débit binaire moyen d'au moins 128kbps.
 
 Tout problème lié à ces règles est généralement résolu pendant que la beatmap est proposée au vote.
 
