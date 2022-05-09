@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 3fe983b3a55970aed91a0bcdca028253d918ae5d
 tags:
   - promotion
   - retirement
@@ -26,3 +24,4 @@ Les promotions et les retrait du personnel ont été enregistrés pour les rendr
 - [2019](2019)
 - [2020](2020)
 - [2021](2021)
+- [2022](2022)
