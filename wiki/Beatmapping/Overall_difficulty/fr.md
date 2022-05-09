@@ -20,11 +20,11 @@ L'**overall difficulty** (abrégé en ***OD***) définit la difficulté d'obteni
 
 Des valeurs d'OD plus élevées signifient une fenêtre de timing plus courte pour cliquer sur les [objets](/wiki/Hit_object), à la fois de façon générale et pour obtenir des [scores](/wiki/Gameplay/Score) élevés. La fenêtre d'erreur de timing autorisée pour chaque objet dans osu! et osu!mania, centrée sur le timing correct de l'objet, est définie par les tableaux ci-dessous.
 
-Notez que dans la version stable d'osu!, les fenêtres de hit dans osu! et osu!taiko peuvent effectivement être jusqu'à 0,5 ms plus courtes des deux côtés que ce que les formules suggèrent, et dans osu!mania elles peuvent être jusqu'à 0,5 ms plus longues des deux côtés. Ceci est dû au fait que dans osu! et osu!taiko, un hit est considéré à l'intérieur d'une fenêtre de hit si `hit error < round(hit window)`, alors que dans osu!mania il est considéré à l'intérieur si `hit error <= round(hit window)`.
+Notez que dans la version stable d'osu!, les fenêtres de timing dans osu! et osu!taiko peuvent effectivement être jusqu'à 0,5 ms plus courtes des deux côtés que ce que les formules suggèrent. Par ailleurs, dans osu!mania, elles peuvent être jusqu'à 0,5 ms plus longues des deux côtés. Ceci est dû au fait que dans osu! et osu!taiko, un clic est considéré à l'intérieur d'une fenêtre de timing si `erreur de timing < arrondi(fenêtre de timing)`, alors que dans osu!mania, il est considéré à l'intérieur si `erreur de timing <= arrondi(fenêtre de timing)`.
 
-Par exemple, la fenêtre de hit d'un Great dans osu!taiko à OD 5 est de ±34,5 ms, au lieu des ±35 ms que donne le tableau. Dans osu!mania, la fenêtre de hit d'un MAX est de ±16,5 ms, et non de ±16 ms comme le suggère le tableau.
+Par exemple, la fenêtre de timing d'un Great dans osu!taiko à OD 5 est de ±34,5 ms, au lieu des ±35 ms que donne le tableau. Dans osu!mania, la fenêtre de hit d'un MAX est de ±16,5 ms, et non de ±16 ms comme le suggère le tableau.
 
-Les fenêtres de hits pour les jugements peuvent être visualisées en passant la souris sur les [informations sur la beatmap dans l'écran de sélection des beatmaps](/wiki/Client/Interface#beatmap-information), qui afficheront toujours les valeurs correctes.
+Les fenêtres de timing pour les jugements peuvent être visualisées en passant la souris sur les [informations sur la beatmap dans l'écran de sélection des beatmaps](/wiki/Client/Interface#beatmap-information), qui afficheront toujours les valeurs correctes.
 
 ### osu!
 
