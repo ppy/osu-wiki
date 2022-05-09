@@ -22,7 +22,7 @@ The osu!taiko panel was formed on 1 May 2022 in response to the same survey as a
 | ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
 | ![][flag_HU] [emu1337](https://osu.ppy.sh/users/2185987) | [emu1337](https://github.com/emu1337) |
 | ![][flag_AU] [MBmasher](https://osu.ppy.sh/users/4498616) | [MBmasher](https://github.com/MBmasher) |
-| ![][flag_RU] [StanR](https://osu.ppy.sh/users/7217455) | [standriders](https://github.com/stanriders) |
+| ![][flag_RU] [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
 
 ### osu!taiko
 
