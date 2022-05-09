@@ -48,7 +48,7 @@ Ce champ doit préférer l'orthographe des sources officielles de sortie. L'arti
 
 **Le nom de la beatmap, en d'autres termes, le nom de la difficulté.** Le menu déroulant contient les noms prédéfinis de `Easy`, `Normal`, `Hard`, et `Insane`. Le créateur peut choisir l'un des noms prédéfinis dans le menu déroulant ou en taper un. Même s'il est bon d'être créatif, essayez de rendre les noms de difficulté très clairs quant à la difficulté qu'ils représentent. Les noms de difficulté ambigus ennuient les joueurs et ne sont pas classables.
 
-Ce champ peut également être utilisé pour indiquer qu'il s'agit d'une difficulté invitée (par exemple "Larto's Hard").
+Ce champ peut également être utilisé pour indiquer qu'il s'agit d'une guest difficulty (par exemple "Larto's Hard").
 
 #### Source
 

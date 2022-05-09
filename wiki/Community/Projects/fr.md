@@ -20,7 +20,7 @@ outdated: true
   - [GitHub](https://github.com/ppy/osu-framework)
 - osu! performance—Le classement des joueurs sur osu!.
   - [GitHub](https://github.com/ppy/osu-performance)
-- [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144)—Une version du client initial du jeu.
+- [osu! Public Release (09/2007)](https://osu.ppy.sh/community/forums/topics/130144)—Une version du client initial du jeu.
 - [osu! wiki](https://osu.ppy.sh/community/forums/topics/68479)—Informations sur osu!.
   - [GitHub](https://github.com/ppy/osu-wiki) | [Site](/wiki/Main_Page)
 - osu! web—La partie d'osu! dédiée au navigateur.
