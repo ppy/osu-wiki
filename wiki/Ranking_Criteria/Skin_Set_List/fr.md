@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: e2ee68f241d348ef35cde3e42dd5663c987aa5e0
----
-
 # Liste des skin sets pour les critères de classement
 
 Ce qui suit contient la liste des sets de skins qui peuvent être utilisés dans les skins spécifiques aux utilisateurs et aux beatmaps. Quand vous skinnez un élément de gameplay dans un skin spécifique à une beatmap, les sets d'éléments doivent être skinnés afin d'éviter les conflits entre le skin spécifique à l'utilisateur et le skin spécifique à la beatmap.
@@ -37,12 +32,19 @@ L'ensemble de ce skin set est pertinent pour le gameplay.
 | hit300(-n).png | Doit être clairement distingué de tous les autres hitbursts | Requis | - |
 | hit300g(-n).png | Doit être clairement distingué de tous les autres hitbursts | Requis | - |
 | hit300k(-n).png | Doit être clairement distingué de tous les autres hitbursts | Requis | - |
-| lighting.png | - | Optionnel | - |
 | particle50.png | Doit être inclus avec toutes les autres particules ; ne fonctionnera que si des hitbursts personnalisés sont inclus | Optionnel | 7x7px |
 | particle100.png | Doit être inclus avec toutes les autres particules ; ne fonctionnera que si des hitbursts personnalisés sont inclus | Optionnel | 7x7px |
 | particle300.png | Doit être inclus avec toutes les autres particules ; ne fonctionnera que si des hitbursts personnalisés sont inclus | Optionnel | 7x7px |
 | sliderpoint10.png | Doit être inclus avec sliderpoint30.png ; ne fonctionnera que si le skin spécifique à l'utilisateur prend en charge le Skin V1 | Optionnel | - |
 | sliderpoint30.png | Doit être inclus avec sliderpoint10.png ; ne fonctionnera que si le skin spécifique à l'utilisateur prend en charge le Skin V1 | Optionnel | - |
+
+### Jeu de lumières
+
+L'ensemble de ce set de skin est pertinant pour le jeu.
+
+| Nom du fichier | Notes | Achèvement du set | Tailles recommandées pour les skins SD |
+| --: | :-: | :-: | :-: |
+| lighting.png | - | - | - |
 
 ### Set des hitcircle
 
