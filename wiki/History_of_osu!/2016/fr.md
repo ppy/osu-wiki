@@ -36,7 +36,7 @@ De plus, en réponse à la réaction de la communauté, Ephemeral a promis que l
 
 **La panel de modding du nouveau site d'osu! (new.ppy.sh) a été mis en ligne afin de permettre des tests publics le 11 avril 2016.** Cependant, ces tests n'étaient disponibles que pour [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) et [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). Selon [Loctav](https://osu.ppy.sh/users/71366), l'idée principale du panel était de diviser les problèmes en posts séparés, puis d'en discuter individuellement pour obtenir un suivi plus facile des problèmes et de s'en servir comme une partie des étapes vers la mise en œuvre du "Modding V2" tant attendu [[9]][r].
 
-**De nouveaux designs de médailles ont été ajoutés à osu! le 14 avril 2016.** Ces designs permettaient d'être plus en phase avec le design d'"[osu!next](https://osunext.tumblr.com/about)" qui était utilisé dans le nouveau client d'osu! (nom de code "lazer") et sur le nouveau site web [[10,11]][r].
+**De nouveaux designs de médailles ont été ajoutés à osu! le 14 avril 2016.** Ces designs permettaient d'être plus en phase avec le design du blog "[osu!next](https://osunext.tumblr.com/about)" qui était utilisé dans le nouveau client d'osu! (nom de code "lazer") et sur le nouveau site web [[10,11]][r].
 
 ![](img/new-medal-design-2016.jpg "Écran de déverrouillage d'une médaille présentant le nouveau design qui apparaîtrait en jeu [[12]][r]")
 
