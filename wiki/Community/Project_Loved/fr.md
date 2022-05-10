@@ -34,7 +34,7 @@ Les beatmaps entrant dans la catégorie loved doivent respecter des règles supp
 
 - [Certains points de la section Métadonnées des critères de classement](/wiki/Ranking_Criteria#metadata)
   - Le titre de la musique, l'artiste ainsi que la source doivent-être correcte dans tous les cas.
-  - Les tags de beatmap doivent mentionner correctement tous les contributeurs (guest difficulties, créateurs, storyboarders, etc.)
+  - Les tags de la beatmap doivent mentionner correctement tous les contributeurs (guest difficulties, créateurs, storyboarders, etc.)
 - [Les règles relatives au contenu des musiques](/wiki/Rules/Song_Content_Rules)
 - [Les considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations)
 
