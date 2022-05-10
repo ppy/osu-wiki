@@ -27,8 +27,8 @@ Von der Community betriebene Turniere, die sich an die folgenden strengen Regeln
 - Die Turnierserie darf nicht mehr als viermal pro Jahr stattfinden.
 - Das Turnier muss zumindest als Achtelfinale mit Doppeleleminierungsverfahren betrieben werden **ODER** es müssen mindestens 64 Spieler (oder 16 Teams) teilnehmen. Größere Maßstäbe und Formate sind erlaubt.
 - Das Turnier wird von einem *erfahrenem Team an seriösem Personal**¹*** organisiert und betrieben **ODER** das Turnier *wurde mindestens einmal ohne den Erhalt einer Belohnung geleitet*.
-- Mitarbeiter dürfen selbst zu keinem Zeitpunkt am Turnier teilnehmen und Spieler ist es ebenso nicht erlaubt als Mitarbeiter zu assistieren. Bitte beachte die [FAQ](#was-wird-als-personal-angesehen) für unsere Definition von "Personal".
-- Der Forumsbeitrag für das Turnier **MUSS** einen klar sichtbaren Link in einer normal großen Schriftart zum [Meldeformular für Turniere](https://pif.ephemeral.ink/tournament-reports) als der letzte Inhalt des originalen Beitrags haben.
+- Mitarbeiter dürfen selbst zu keinem Zeitpunkt am Turnier teilnehmen und Spielern ist es ebenso nicht erlaubt als Mitarbeiter zu assistieren. Bitte beachte die [FAQ](#was-wird-als-personal-angesehen) für unsere Definition von "Personal".
+- Der Forumsbeitrag für das Turnier **MUSS** einen klar sichtbaren Link in einer normal großen Schriftart zum [Meldeformular für Turniere](https://pif.ephemeral.ink/tournament-reports) als letzten Inhalt des originalen Beitrags haben.
   - `https://pif.ephemeral.ink/tournament-reports`
   - Dieses Meldeformular wird vom [Turnierkomitee](/wiki/People/Tournament_Committee) angesehen. Wir ermutigen alle Nutzer — Spieler wie Mitarbeiter gleichermaßen — dazu, das Formular bei Bedarf zu verwenden.
 
@@ -42,7 +42,7 @@ Wenn dein Turnier die [Kriterien für die Anspruchsberechtigung](#anspruchsberec
 
 - Eine kurze Beschreibung deines Turniers, einschließlich aller geltenden Termine, Spielmodi und anderer geeigneter Merkmale.
 - Jegliche Links zu:
-  - Zum Forumsbeitrag zu finden unter dem [Turnierforum](https://osu.ppy.sh/community/forums/55), das dein Turnier ankündigt/beschreibt.
+  - dem Forumsbeitrag zu finden unter dem [Turnierforum](https://osu.ppy.sh/community/forums/55), das dein Turnier ankündigt/beschreibt.
     - Für regionale Turniere darf der Beitrag im entsprechenden Sprachsubforum erstellt werden.
   - Öffentliche Discord-Server oder jegliche andere externe Chaträume, die für das Event verwendet werden.
   - Vorherige Durchläufe derselben Turnierserie (nur soweit zutreffend).
@@ -54,7 +54,7 @@ Sobald wir deinen Antrag erhalten, wird das Account-Support-Team eine Liste an S
 
 ## Erwartungen
 
-Von Turnierveranstaltern wird erwartet, dass sie ihr Turnier auf alles überwachen, was gegen die nachstehend beschriebenen Erwartungen verstößt und sind eigenhändig für das Melden solcher Vorfälle an das Account-Support-Team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) verantwortlich. Die Nichtbeachtung dieser Regel kann zum Widerruf der öffentlichen Unterstützung führen.
+Von Turnierveranstaltern wird erwartet, dass sie ihr Turnier auf alles überwachen, was gegen die nachstehend beschriebenen Erwartungen verstößt und sind eigenhändig für das Melden solcher Vorfälle an das Account-Support-Team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) verantwortlich. Die Nichtbeachtung dieser Regel kann zum Widerruf der offiziellen Unterstützung führen.
 
 ### Turniere
 
@@ -142,7 +142,7 @@ Bitte beachte die folgenden akzeptierten Abzeichendesigns als Beispiele:
 
 Abzeichenbilder, die diese Standards nicht erfüllen, werden mit angegebener Begründung verweigert und du wirst möglicherweise aufgefordert, deine Abzeichen neu zu entwerfen. Das ist ziemlich selten, aber es sollte beachtet werden.
 
-In äußerst seltenen Fällen kann einem Turnier das Privileg gewährt werden, den drei besten Finalisten Abzeichen zu verleihen. Ein Turnier, das diese Auszeichnung erhält, wird für die Erreichung des höchsten Levels an Produktionsqualität und Organisation anerkannt — dies wird exklusiv im Ermessen des osu!-Teams ausgeteilt. Die Gastgeber werden direkt kontaktiert, sofern das zutrifft.
+In äußerst seltenen Fällen kann einem Turnier das Privileg gewährt werden, den drei besten Finalisten Abzeichen zu verleihen. Ein Turnier, das diese Auszeichnung erhält, wird für die Erreichung des höchsten Levels an Produktionsqualität und Organisation anerkannt — dies wird exklusiv im Ermessen des osu!-Teams ausgeteilt. Die Veranstalter werden direkt kontaktiert, sofern das zutrifft.
 
 ### Unterstützung von Bannern im Hauptmenü beantragen
 
@@ -173,7 +173,7 @@ Bitte reiche kein Hauptmenübanner zusammen mit deinem originalen Antrag ein —
 
 ## Häufig gestellte Fragen
 
-### Warum muss ein Turnier mindestens zweimal oder öfters betrieben werden, um sich ohne die Anwesenheit von erfahrenem Personal für Profilabzeichen zu qualifizieren? {#zweimal-oder-öfters}
+### Warum muss ein Turnier mindestens zweimal oder öfter betrieben werden, um sich ohne die Anwesenheit von erfahrenem Personal für Profilabzeichen zu qualifizieren? {#zweimal-oder-öfter}
 
 Der zweite Durchlauf eines Turniers ist oft frei von vielen organisatorischen Problemen des ersten Turniers und hat eine solide Arbeitsweise etabliert sowie Personal geschaffen, das in die Produktion involviert ist. Das Personal ist weitaus weniger gefährdet, sich zu verzetteln oder fragwürdige Entscheidungen zu treffen. Das Turnier ist außerdem bekannter, wenn es mehr als einmal betrieben wird.
 
