@@ -39,4 +39,4 @@ Todos os concursos de mapeamento publicados na [listagem de concursos da comunid
 
 Para promover o conteúdo de Artistas em Destaque, membros da comunidade criaram o [Mappers' Guild](/wiki/Community/Mappers_Guild), dando jogadores um sistema de desafio com estilo MMO que eles podem participar com outros mapeadores. Prêmios são distribuídos por criar e ranquear um beatmap, incluindo 3 tipos de medalhas de perfil<!-- TODO: profile badges article -->. Mapeadores podem entrar na guilda visitando o [site de Mappers' Guild](https://mappersguild.com/).
 
-Se um pré-tenporizado `.osz` pela listagem de Artista em Destaque possuir erros de qualquer tipo, eles podem ser reportados [nesse fórum](https://osu.ppy.sh/community/forums/topics/783985). 
+Se um `.osz` pré-temporizado da listagem de Artistas em Destaque possuir erros de qualquer tipo, eles podem ser reportados [nesse fórum](https://osu.ppy.sh/community/forums/topics/783985).
