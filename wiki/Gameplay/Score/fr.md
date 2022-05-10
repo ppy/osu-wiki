@@ -27,4 +27,4 @@ Le ScoreV2 essaie de normaliser les systèmes de score des différents modes de 
 Chaque objet fait à présent partie du score de 1 million et sont réajustées en conséquence, plutôt que d'utiliser leurs propres valeurs de score et formules bonus.
 
 Le ScoreV2 peut être testé en mode [multijoueur](/wiki/Gameplay/Multiplayer) en tant que condition de victoire dans les options du salon.
-Depuis le [22 février 2017 (2017-02-22)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), le système ScoreV2 peut être testé en mode *Solo* en utilisant le mod **Unranked** [ScoreV2](/wiki/Game_modifier/ScoreV2).
+Depuis le [22 février 2017 (22/02/2017)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), le système ScoreV2 peut être testé en mode *Solo* en utilisant le mod **Unranked** [ScoreV2](/wiki/Game_modifier/ScoreV2).
