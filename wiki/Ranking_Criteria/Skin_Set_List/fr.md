@@ -38,7 +38,7 @@ L'ensemble de ce skin set est pertinent pour le gameplay.
 | sliderpoint10.png | Doit être inclus avec sliderpoint30.png ; ne fonctionnera que si le skin spécifique à l'utilisateur prend en charge le Skin V1 | Optionnel | - |
 | sliderpoint30.png | Doit être inclus avec sliderpoint10.png ; ne fonctionnera que si le skin spécifique à l'utilisateur prend en charge le Skin V1 | Optionnel | - |
 
-### Set des lumières
+### Lueurs de fond
 
 L'ensemble de ce skin set est pertinent pour le gameplay.
 
