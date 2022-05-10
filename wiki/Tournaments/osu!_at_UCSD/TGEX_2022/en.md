@@ -21,7 +21,7 @@ TGEX will take place on Sunday, May 29th at [Price Center](https://en.wikipedia.
 
 Some parts of the event may require checking in at Ballroom West (rooms 215 and 216). There is no entry fee.
 
-Besides the osu! tournament, TGEX is hosting tournaments for many other games, panels with game industry experts, an artist alley, cosplay gathering, keyboard showcase, and more. More details can be found in [their Discord server](https://discord.gg/tritongaming).
+Besides the osu! tournament, TGEX is hosting tournaments for many other games, panels with game industry experts, an artist alley, cosplay gathering, keyboard showcase, and more. More details can be found in the [Triton Gaming Discord server](https://discord.gg/tritongaming).
 
 ## Links
 

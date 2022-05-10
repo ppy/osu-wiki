@@ -1,6 +1,6 @@
 # osu! at UCSD tournaments
 
-Index page for all of the osu! tournaments hosted by [osu! at UCSD](/wiki/Community/Organisations/osu!_at_UCSD) at the University of California, San Diego.
+Index page for all osu! tournaments hosted by [osu! at UCSD](/wiki/Community/Organisations/osu!_at_UCSD) at the University of California, San Diego.
 
 - Triton Gaming Expo 2018
 - osu! Battle Royale
