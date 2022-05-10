@@ -13,7 +13,7 @@ tags:
 
 ![Triton Gaming Expo 2022 announcement banner](https://cdn.discordapp.com/attachments/228229738181820417/971166619948699678/TGEX.png)
 
-[osu! at UCSD](/wiki/Community/Organisations/osu!_at_UCSD) is hosting an osu! LAN tournament at **Triton Gaming Expo 2022** (***TGEX 2022***) in collaboration with [Triton Gaming](https://discord.gg/tritongaming "Triton Gaming Discord server"). Attendance and tournament participation is open to everybody. The exact schedule and details for the tournament have not been released yet.
+[osu! at UCSD](/wiki/Community/Organisations/osu!_at_UCSD) is hosting an osu! LAN tournament at **Triton Gaming Expo 2022** (***TGEX 2022***) in collaboration with *Triton Gaming*. Attendance and tournament participation is open to everybody. The exact schedule and details for the tournament have not been released yet.
 
 ## TGEX details
 

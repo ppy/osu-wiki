@@ -10,13 +10,14 @@ tags:
 
 # osu! at UCSD
 
-**osu! at UCSD** is an osu! club run as a division of [Triton Gaming](https://discord.gg/tritongaming "Triton Gaming Discord server") at the University of California, San Diego (*UCSD*). Its goal is to give osu! players at or around UCSD a space to connect with each other and build a local community. They host regular meetups both in-person and online, as well as LAN and online osu! tournaments.
+**osu! at UCSD** is an osu! club run as a division of *Triton Gaming* at the University of California, San Diego (*UCSD*). Its goal is to give osu! players at or around UCSD a space to connect with each other and build a local community. They host regular meetups both in person and online, as well as LAN and online osu! tournaments.
 
 See the [osu! at UCSD tournament index](/wiki/Tournaments/osu!_at_UCSD) for wiki articles about some of their tournaments.
 
 ## Links
 
 - **[Discord server](https://discord.gg/DqBVmv5Knx)**
+- [Triton Gaming Discord server](https://discord.gg/tritongaming)
 - [UCSD Student Organization listing](https://studentorg.ucsd.edu/Home/Details/14917)
 
 ## Current officers
