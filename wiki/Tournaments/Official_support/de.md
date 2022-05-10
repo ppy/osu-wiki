@@ -27,7 +27,7 @@ Von der Community betriebene Turniere, die sich an die folgenden strengen Regeln
 - Die Turnierserie darf nicht mehr als viermal pro Jahr stattfinden.
 - Das Turnier muss zumindest als Achtelfinale mit Doppeleleminierungsverfahren betrieben werden **ODER** es müssen mindestens 64 Spieler (oder 16 Teams) teilnehmen. Größere Maßstäbe und Formate sind erlaubt.
 - Das Turnier wird von einem *erfahrenem Team an seriösem Personal**¹*** organisiert und betrieben **ODER** das Turnier *wurde mindestens einmal ohne den Erhalt einer Belohnung geleitet*.
-- Mitarbeiter dürfen selbst zu keinem Zeitpunkt am Turnier teilnehmen und Spielern ist es ebenso nicht erlaubt als Mitarbeiter zu assistieren. Bitte beachte die [FAQ](#was-wird-als-personal-angesehen) für unsere Definition von "Personal".
+- Mitarbeiter dürfen selbst zu keinem Zeitpunkt am Turnier teilnehmen und Spielern ist es ebenso nicht erlaubt als Mitarbeiter zu assistieren. Bitte beachte die [FAQ](#what-is-considered-staff) für unsere Definition von "Personal".
 - Der Forumsbeitrag für das Turnier **MUSS** einen klar sichtbaren Link in einer normal großen Schriftart zum [Meldeformular für Turniere](https://pif.ephemeral.ink/tournament-reports) als letzten Inhalt des originalen Beitrags haben.
   - `https://pif.ephemeral.ink/tournament-reports`
   - Dieses Meldeformular wird vom [Turnierkomitee](/wiki/People/Tournament_Committee) angesehen. Wir ermutigen alle Nutzer — Spieler wie Mitarbeiter gleichermaßen — dazu, das Formular bei Bedarf zu verwenden.
@@ -47,7 +47,7 @@ Wenn dein Turnier die [Kriterien für die Anspruchsberechtigung](#anspruchsberec
   - Öffentliche Discord-Server oder jegliche andere externe Chaträume, die für das Event verwendet werden.
   - Vorherige Durchläufe derselben Turnierserie (nur soweit zutreffend).
 - Separate Listen für:
-  - Das Personal und die Helfer, die an der Durchführung des Turnier beteiligt sind (siehe [FAQ](#was-wird-als-personal-angesehen)).
+  - Das Personal und die Helfer, die an der Durchführung des Turnier beteiligt sind (siehe [FAQ](#what-is-considered-staff)).
   - Die Nutzer, die sich zur Teilnahme am Turnier registriert haben (siehe [Turnier-Screening](#turnier-screening)).
 
 Sobald wir deinen Antrag erhalten, wird das Account-Support-Team eine Liste an Spielern herausgeben, die ungeeignet sind, an Turnieren teilzunehmen. Bitte plane ausreichend Zeit für eine Antwort ein. Wir werden unser Bestes geben, alle Anfragen innerhalb einer Woche zu bearbeiten, aber gelegentlich haben wir große Auslastungsspitzen, was dies unmöglich gestaltet.
@@ -87,7 +87,7 @@ Sobald das Turnier beendet ist, müssen die Turnierveranstalter die folgenden In
 
 Von Turnierveranstaltern wird erwartet, dass das Turnier reibungslos abläuft und so wenige Störungen wie möglich hat.
 
-Von Benutzern mit einer aktiven Turniersperre wird erwartet, dass sie den Status ihrer Turniersperre bei allen offiziell unterstützten Turnieren offenlegen, bei denen sie helfen wollen. Sie können nach dem Ermessen des Veranstalters als [Helfer](#was-wird-als-personal-angesehen)angeworben werden, aber wir ermutigen zu sorgfältiger Abwägung von solchen Entscheidungen, da die genannten Personen bereits einmal gegen die Regeln verstoßen haben (oder mehrmals). Sie können nicht als [Personal](#was-wird-als-personal-angesehen) agieren, ES SEI DENN, der Veranstalter bittet beim Erstantrag auf Unterstützung um eine Ausnahme für sie. Das Account-Support-Team wird daraufhin die Spieler mit Blick auf deren Geschichte von Fall zu Fall prüfen.
+Von Benutzern mit einer aktiven Turniersperre wird erwartet, dass sie den Status ihrer Turniersperre bei allen offiziell unterstützten Turnieren offenlegen, bei denen sie helfen wollen. Sie können nach dem Ermessen des Veranstalters als [Helfer](#what-is-considered-staff)angeworben werden, aber wir ermutigen zu sorgfältiger Abwägung von solchen Entscheidungen, da die genannten Personen bereits einmal gegen die Regeln verstoßen haben (oder mehrmals). Sie können nicht als [Personal](#what-is-considered-staff) agieren, ES SEI DENN, der Veranstalter bittet beim Erstantrag auf Unterstützung um eine Ausnahme für sie. Das Account-Support-Team wird daraufhin die Spieler mit Blick auf deren Geschichte von Fall zu Fall prüfen.
 
 ### Spieler
 
@@ -173,13 +173,13 @@ Bitte reiche kein Hauptmenübanner zusammen mit deinem originalen Antrag ein —
 
 ## Häufig gestellte Fragen
 
-### Warum muss ein Turnier mindestens zweimal oder öfter betrieben werden, um sich ohne die Anwesenheit von erfahrenem Personal für Profilabzeichen zu qualifizieren? {#zweimal-oder-öfter}
+### Warum muss ein Turnier mindestens zweimal oder öfter betrieben werden, um sich ohne die Anwesenheit von erfahrenem Personal für Profilabzeichen zu qualifizieren? {#twice-or-more}
 
 Der zweite Durchlauf eines Turniers ist oft frei von vielen organisatorischen Problemen des ersten Turniers und hat eine solide Arbeitsweise etabliert sowie Personal geschaffen, das in die Produktion involviert ist. Das Personal ist weitaus weniger gefährdet, sich zu verzetteln oder fragwürdige Entscheidungen zu treffen. Das Turnier ist außerdem bekannter, wenn es mehr als einmal betrieben wird.
 
 Aus all diesen Gründen (und weiteren) bitten wir darum, dass Profilabzeichenpreise nur bei Turnieren verliehen werden, die mindestens einmal erfolgreich zuvor betrieben wurden, es sei denn, eine große Mehrheit des Teams ist erfahren und veranstaltete Turniere in der Vergangenheit.
 
-### Was wird als "Personal" angesehen, soweit Turniermanagement reicht? {#was-wird-als-personal-angesehen}
+### Was wird als "Personal" angesehen, soweit Turniermanagement reicht? {#what-is-considered-staff}
 
 Wenn ein Benutzer Zugriff auf Informationen hat, die möglicherweise das Ergebnis des Turniers/Wettbewerbs beeinflussen könnten, wird die Person als Mitarbeiter betrachtet. Zur Klarstellung: wir betrachten Veranstalter, Schiedsrichter, Mappool-Auswähler, Mappool-Spieletester, individuelle Mapper, Kampfrichter oder jede andere Form einer leitenden Position, die direkt in die Wartung und den Betrieb des Turniers/Wettbewerbs involviert ist, als Teil des Personals. Diese Liste ist nicht vollständig — kontaktiere bitte [tournaments@ppy.sh](mailto:tournaments@ppy.sh), wenn du irgendwelche Zweifel hast.
 
@@ -187,23 +187,23 @@ Kommentatoren, Streamer sowie Grafikdesigner sind als **Helfer** gekennzeichnet 
 
 In der Vergangenheit hatten wir Probleme mit skrupellosen Veranstaltern, die die Turniere speziell ausgerichtet haben (also sie haben Beatmaps gewählt, mit denen sie vertraut sind; die Platzierung angepasst etc.), um Profilabzeichen für sich und ihre Freunde zu ergattern. Während wir verstehen, dass die meisten Gruppen das nicht tun werden, müssen wir diese Einschränkung durchsetzen, um die Dinge für alle fair zu halten.
 
-### Kann ein Spieler, der in meinem Turnier vom Spiel ausgeschieden ist, nachträglich zum Personal stoßen und keine Probleme verursachen? {#spieler-wird-mitarbeiter}
+### Kann ein Spieler, der in meinem Turnier vom Spiel ausgeschieden ist, nachträglich zum Personal stoßen und keine Probleme verursachen? {#player-join-staff}
 
 Nein. Spieler, die von Turnieren/Wettbewerben ausgeschlossen wurden, können dem Personal nicht beitreten oder in irgendeiner organisatorischen Funktion mitwirken. Die einzige Ausnahme davon ist das Einstellen von Replays für Mappool-Vorstellungen. Sie können jedoch als Helfer angeworben werden.
 
-### Kann ein Nutzer dem Personal beitreten, wenn er noch keine Matches gespielt hat? {#kein-spiel-wird-mitarbeiter}
+### Kann ein Nutzer dem Personal beitreten, wenn er noch keine Matches gespielt hat? {#no-play-join-staff}
 
 Ein Teilnehmer, der das Screening-Verfahren bestanden hat, aber noch nicht für irgendwelche Matches eingeteilt ist **UND** noch an keinem Spiel teilgenommen hat (einschließlich Qualifikationsrunden), wird noch nicht als Spieler/Teilnehmer des Turniers betrachtet und kann daher noch dem Personal beitreten.
 
-### Was sollte ich tun, wenn ein Spieler in meinem Turnier eingeschränkt wird? {#spieler-einschränkung}
+### Was sollte ich tun, wenn ein Spieler in meinem Turnier eingeschränkt wird? {#player-restriction}
 
 In dem unwahrscheinlichen Fall, dass ein Spieler im Laufe eines Turniers eingeschränkt wird, musst du vermutlich bestimmte Matches, an denen er beteiligt war, erneut austragen, um die Wettbewerbsintegrität des Turniers zu wahren. Turnierveranstalter sollten das Account-Support-Team kontaktieren, um Informationen und eine Betreuung in diesen (hoffentlich seltenen) Fällen zu erhalten.
 
-### Warum können Abzeichen nicht bei monatlich (oder wöchentlich) wiederkehrenden Turnieren verliehen werden? {#wiederkehrende-wettbewerbe}
+### Warum können Abzeichen nicht bei monatlich (oder wöchentlich) wiederkehrenden Turnieren verliehen werden? {#recurring-contests}
 
 Das Spiel mit Abzeichen zu überfluten verwischt das Ansehen des Preises für alle anderen. Wir wollen nicht, dass Profilabzeichen etwas sind, was Leute aus einer Reihe an regulären, wiederkehrenden Turnieren erbeuten.
 
-### Kann ich ein Abzeichen für einen Beatmap-Wettbewerb oder andere Arten von Wettbewerben anfordern? {#wettbewerb-unterstützung}
+### Kann ich ein Abzeichen für einen Beatmap-Wettbewerb oder andere Arten von Wettbewerben anfordern? {#contest-support}
 
 Ja, für Beatmap-Wettbewerbe gilt das. Folge einfach denselben Regeln wie oben. Wir empfehlen dringend [Featured Artists](https://osu.ppy.sh/beatmaps/artists) für solche Wettbewerbe zu benutzen und werden diejenigen, die dies tun, in eklatanter Weise bevorzugt behandeln.
 
