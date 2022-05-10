@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 2f106e9a6a2c4d368969341706e6d2bc3071883f
----
-
 # Concours
 
 Cette section est dédiée aux concours organisés par la communauté d'osu!.
@@ -240,6 +235,14 @@ Le **osu! Beatmapping World Championship** est un concours de mapping par équip
 | :-: | :-- | :-- | :-- | :-- |
 | [#1 (2019)](/wiki/Contests/oBWC/1) | ![][flag_FR] France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), et ![][flag_CH] [Xenok](https://osu.ppy.sh/users/3256600)) | ![][flag_SE] Suède ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), et [Zer0-](https://osu.ppy.sh/users/4260033)) | ![][flag_HK] Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), et [Starfy](https://osu.ppy.sh/users/2045914)) | [#1](https://www.youtube.com/watch?v=_booyIRa5v8) |
 | [#2 (2020)](/wiki/Contests/oBWC/2) | ![][flag_GB] Royaume-Uni ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), et [Yusomi](https://osu.ppy.sh/users/4174940)) | ![][flag_AR] Argentine ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), et [Megafan](https://osu.ppy.sh/users/6632605)) | ![][flag_BR] Brésil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), et [Trynna](https://osu.ppy.sh/users/2652951)) | [#1](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
+
+### osb! Storyboarding Contest
+
+Le **osb! Storyboarding Contest** est un concours de storyboarding où les storyboarders participants s'affrontent pour créer le meilleur storyboard. Ce concours est organisé par osu! storyboarder banquet, la communauté de storyboarding.
+
+| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](/wiki/Contests/osb!_Storyboarding_Contest/1) | ![][flag_CA] [TheDuckMask](https://osu.ppy.sh/users/7405768) | ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) | [#1](https://osu.ppy.sh/community/forums/topics/897075?n=1) |
 
 ### Pending Cup
 

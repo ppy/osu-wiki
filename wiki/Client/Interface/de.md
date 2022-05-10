@@ -1,6 +1,6 @@
 # Benutzeroberfläche
 
-Dieser Artikel erklärt alles, was du über die Benutzung des Spiel-Clients von osu! wissen musst. Hier findest du Informationen über die Songauswahl, die Rangliste sowie dem Ergebnisbildschirm. Beim Starten des Spiel-Clients siehst du den folgenden Bildschirm:
+Dieser Artikel erklärt alles, was du über die Benutzung des Spiel-Clients von osu! wissen musst. Hier findest du Informationen über die Songauswahl, die Rangliste sowie den Ergebnisbildschirm. Beim Starten des Spiel-Clients siehst du den folgenden Bildschirm:
 
 ![](img/intro-screen-DE.jpg "Einführungsbildschirm")
 
@@ -8,18 +8,18 @@ Dieser Artikel erklärt alles, was du über die Benutzung des Spiel-Clients von 
 
 ![](img/main-menu-DE.jpg "Hauptmenü")
 
-- \[1\] Der [osu!-Cookie](/wiki/Client/Interface/Cookie). Beim Draufklicken wird das Hauptmenü geöffnet. Er pulsiert abhängig von den [BPM](/wiki/Beatmapping/Beats_per_minute) der Musik und Balken erstrecken sich um den Cookie, die das Audiospektrum visualisieren. Wenn kein Song spielt, pulsiert der Cookie mit langsamen 60 BPM.
+- \[1\] Der [osu!-Cookie](/wiki/Client/Interface/Cookie). Beim Anklicken wird das Hauptmenü geöffnet. Er pulsiert abhängig von den [BPM](/wiki/Beatmapping/Beats_per_minute) der Musik und Balken erstrecken sich um den Cookie, die das Audiospektrum visualisieren. Wenn kein Song spielt, pulsiert der Cookie mit langsamen 60 BPM.
 - \[2\] Klicke auf `Play` (oder drücke `P`), um osu! entweder für dich selbst oder mit anderen zu spielen.
 - \[3\] Klicke auf `Edit` (oder drücke `E`), um eine [Beatmap](/wiki/Beatmap) zu editieren.
 - \[4\] Klicke auf `Options` (oder drücke `O`), um die [Optionsleiste](/wiki/Client/Options) zu öffnen.
 - \[5\] Klicke auf `Exit` (oder drücke `Esc`), um das Spiel zu verlassen.
 - \[6\] Ein zufälliger, nützlicher Tipp.
-- \[7\] Das [ppy](https://ppy.sh/)-Logo zusammen mit den Urheberrechtsinformationen. Beim Draufklicken wird man zur  [osu!-Webseite](https://osu.ppy.sh/home) weitergeleitet.
+- \[7\] Das [ppy](https://ppy.sh/)-Logo zusammen mit den Urheberrechtsinformationen. Beim Anklicken wird man zur [osu!-Webseite](https://osu.ppy.sh/home) weitergeleitet.
 - \[8\] Sobald Verbindungsprobleme mit dem [Bancho-Server](/wiki/Bancho_(server)) auftreten, wird hier ein gebrochenes Kettenglied angezeigt.
 - \[9\] Der [Chat](/wiki/Client/Interface/Chat_console) und zur linken Seite der Button für das erweiterte Chat-Fenster, welches alle aktuellen Online-Nutzer auflistet. Diese sind auch über `F8` bzw. `F9` entsprechend umschaltbar.
 - \[10\] Die Jukebox. Im Hauptmenü spielt sie Musik in zufälliger Reihenfolge. Siehe weiter unten für mehr Informationen über die Buttons in diesem Menü.
 - \[11\] Die Anzahl der verfügbaren [Beatmap-Schwierigkeitsgrade](/wiki/Beatmap/Difficulty) (trotz dessen, was hier steht), wie lange du schon spielst, und deine Systemuhr.
-- \[12\] Dein Profil. Beim Draufklicken werden die [Benutzereinstellungen](#benutzereinstellungen) angezeigt.
+- \[12\] Dein Profil. Beim Anklicken werden die [Benutzereinstellungen](#benutzereinstellungen) angezeigt.
 
 ---
 
