@@ -60,7 +60,7 @@ Malgré cela, la nouvelle équipe était entièrement publique et pouvait être 
 
 ## Août
 
-Les tchat Moderators ont été officiellement fusionnés dans la Global Moderation Team (GMT) le 20 août 2015 [[24,25]][r].
+Les Chat Moderators ont été officiellement fusionnés dans la Global Moderation Team (GMT) le 20 août 2015 [[24,25]][r].
 
 ## Septembre
 
