@@ -4,7 +4,7 @@ Vous pouvez afficher la console de tchat d'osu! sur la plupart des écrans en ap
 
 ![La console de tchat](img/Chatconsole1.png "La console de tchat")
 
-- Les onglets répertorient les salons actuellement disponibles. Il suffit de cliquer sur un onglet pour accéder à ce salon. Cliquez sur le bouton "+" jaune pour afficher une liste de nouveaux salons à rejoindre.
+- Les onglets répertorient les canaux actuellement disponibles. Il suffit de cliquer sur un onglet pour accéder à ce canal. Cliquez sur le bouton "+" jaune pour afficher une liste de nouveaux canaux à rejoindre.
 - Les couleurs des noms d'utilisateur ont des significations différentes.
 
 | Couleur | Qui ? |
@@ -26,7 +26,7 @@ Vous pouvez afficher la console de tchat d'osu! sur la plupart des écrans en ap
 
 *L'[osu!academy](/wiki/Community/Video_series/osu!academy) à déjà abordé ce sujet ici : [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ainsi que le [multijoueur](/wiki/Gameplay/Multiplayer) (en anglais).*
 
-Sur la plupart des écrans vous pouvez cliquer sur `F9` ou sur `Online Users` pour afficher la console de tchat étendue. En plus de la console de tchat, le tchat étendu superpose une liste de panneaux dans les deux tiers restants de l'écran, affichant des informations sur les utilisateurs actuellement connectés à osu!.
+Sur la plupart des écrans, vous pouvez appuyer sur `F9` ou cliquer sur `Online Users` pour afficher la console de tchat étendue. En plus de la console de tchat, le tchat étendu superpose une liste de panneaux dans les deux tiers restants de l'écran, affichant des informations sur les utilisateurs actuellement connectés à osu!.
 
 ![La console de tchat étendue](img/Chat_Console-Extended.png "La console de tchat étendue")
 
@@ -34,7 +34,7 @@ Chaque utilisateur connecté a un panneau qui lui est dédié. Par défaut, il a
 
 - La case "Friends only" limite l'affichage à vos amis.
 - La case "Lock Panels" empêche les panneaux de se déplacer, y compris pour les nouveaux utilisateurs.
-- Cliquez sur un onglet pour trier les panels d'utilisateurs en fonction de cet attribut.
+- Cliquez sur un onglet pour trier les panneaux d'utilisateurs en fonction de cet attribut.
 - Cliquez sur la carte du monde pour afficher une carte qui montre où se trouve tout le monde.
 - Vous pouvez cliquer et glisser sur la boîte blanche pour faire défiler, vous pouvez également utiliser la molette de la souris.
 - Les utilisateurs qui n'ont pas de statistiques dans leur panneau sont connectés au tchat en utilisant leur client IRC.
@@ -52,17 +52,17 @@ La couleur du panneau correspond à un des dix statuts:
 | ![Le joueur mod une beatmap](img/Chat_Console-Modding.png "Le joueur mod une beatmap") | Vert - Mod ou édite une beatmap de quelqu'un d'autre. |
 | ![Le joueur joue en multijoueur](img/Chat_Console-Multiplayer.png "Le joueur joue en multijoueur") | Marron - L'utilisateur est en mode multijoueur, mais ne joue pas. |
 | ![Le joueur joue en multijoueur](img/Chat_Console-Multiplaying.png "Le joueur joue en multijoueur") | Jaune - Joue actuellement en mode multijoueur. |
-| ![Le joueur est Afk](img/Chat_Console-Afk.png "Le joueur est Afk") | Noir - Inactif ou éloigné du clavier (away from keyboard) (afk). |
-| ![Le joueur est connecté via IRC](img/Chat_Console-IRC.png "Le joueur est connecté via IRC") | Bleu foncé sans contenu - Le joueur n'est pas dans le jeu, mais s'est connecté à un client IRC ou les statistiques ne sont pas disponibles. |
+| ![Le joueur est Afk](img/Chat_Console-Afk.png "Le joueur est Afk") | Noir - Inactif (away from keyboard) (afk). |
+| ![Le joueur est connecté via IRC](img/Chat_Console-IRC.png "Le joueur est connecté via IRC") | Bleu foncé sans contenu - Le joueur n'a pas le jeu ouvert, mais s'est connecté à un client IRC ou les statistiques ne sont pas disponibles. |
 
 En cliquant sur n'importe quel panneau utilisateur, un écran d'options apparaît.
 
 ![Options du panneau de l'utilisateur](img/Chat_Console-Userpaneloptions.jpg "Options du panneau de l'utilisateur")
 
-1. `Observer le joueur` : Si l'utilisateur joue une beatmap et que vous l'avez, vous pouvez observer pendant qu'il joue. Votre nom figurera dans sa liste de spectateurs.
+1. `Observer le joueur` : Si l'utilisateur joue une beatmap et que vous l'avez, vous pouvez l'observer pendant qu'il joue. Votre nom figurera dans sa liste de spectateurs.
 2. `Consulter le profil` : Ouvre la page web du profil du joueur dans votre navigateur.
 3. `Discuter` : Ouvre un onglet de tchat privé avec l'utilisateur.
-4. `Inviter à rejoindre la salle` : (Si vous êtes dans une salle multijoueur) Demandez à l'utilisateur de venir dans votre salle.
+4. `Inviter à rejoindre la salle` : (Si vous êtes dans une salle multijoueur) Demande à l'utilisateur de venir dans votre salle.
 5. `Ajouter (retirer) de la liste d'amis` : Ajoute (supprime) l'utilisateur à votre liste d'amis.
 6. `Signaler l'utilisateur` : Signaler l'utilisateur pour un mauvais comportement. Ne doit jamais être utilisé, sauf indication contraire. Vous pouvez signaler un utilisateur dans le jeu pour un certain nombre de choses, mais aussi sur le web, comme les forums.
 7. `Ignorer l'utilisateur` : Toute entrée de tchat par l'utilisateur n'apparaîtra pas dans votre console de tchat.
