@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Tenchio"
-date: 2022-05-11 09:00:00 +0000
+date: 2022-05-11 12:00:00 +0000
 ---
 
 Sink into the abyss where you'll find **Tenchio**, our newest Featured Artist.
@@ -60,6 +60,6 @@ And here's one more [osu!taiko map](https://osu.ppy.sh/beatmapsets/1669641) host
 
 I usually wouldn't (and probably shouldn't) reference myself in these news articles, but after listening to **Tenchio**'s songs for the last few minutes, I feel an uncontrollable urge to start mapping one of their songs. If you feel the same, [**Tenchio**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/265) is waiting.
 
-Anyway, that's all for today's release! This weekend we'll be cancelling out the terror that is **Tenchio**'s sound with a cutesy J-pop artist, so stick around the [@osugame Twitter](https://twitter.com/osugame) for a healthy dose of whiplash.
+Anyway, that's all for today's release! This weekend we'll be cancelling out the terror that is **Tenchio**'s sound with a cutesy J-pop artist, so stick around the [@osugame Twitter](https://twitter.com/osugame) for a healthy dose of emotional whiplash.
 
 —pishifat
