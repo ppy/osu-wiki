@@ -462,7 +462,7 @@ Dimanche, 2 Septembre 2018:
   - Chaque équipe peut bannir une beatmap de la beatmap Pool A. Les beatmaps de la beatmap Pool B ne peuvent jamais être bannies.
 - Les beatmaps de warmups sont autorisées tout au long du tournoi. Chaque équipe peut choisir une beatmap warmup.
   - Les warmups ne doivent pas excéder 4:30.
-- L'arbitre peut donner le rôle d'hôte aux joueurs uniquement pour les warmups. L'arbitre va être l'hôte pour les reste du match après les warmups. Une équipe va choisir une beatmap en donnant le nom de la beatmap dans le chat multiplayer et l'arbitre va sélectionner la beatmap.
+- L'arbitre peut donner le rôle d'hôte aux joueurs uniquement pour les warmups. L'arbitre va être l'hôte pour les reste du match après les warmups. Une équipe va choisir une beatmap en donnant le nom de la beatmap dans le tchat multiplayer et l'arbitre va sélectionner la beatmap.
 - Chaque équipe à 1 bans par match. Les beatmaps bannies sont enlevées de la liste des beatmaps pour la durée du match et ne peuvent pas être sélectionnées par les équipes. Une équipe a le droit de bannir 1 beatmaps du même mod.
 - Chaque équipe a 3 minutes pour sélectionner une beatmap; si une équipe ne parvient pas à choisir dans le temps imparti, la sélection de beatmap passe à l'équipe adverse. Cela n'a pas d'effet sur l'ordre de sélection qui suit.
 - Il n'y a pas de restriction sur l'ordre de sélection des beatmaps; les équipes peuvent choisir toutes les beatmaps disponibles à tout moment peu importe le mod.

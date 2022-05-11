@@ -1,7 +1,7 @@
 ---
 tags:
   - chatop
-  - chat op
+  - tchat op
   - chat operator
   - chatops
   - lsd
@@ -21,7 +21,7 @@ La LSD a également servi de groupe intermédiaire pour les membres prometteurs 
 
 ## Restructuration
 
-![](img/chat-moderator-profile.png "Page de profil d'un chat moderator en 2013")
+![](img/chat-moderator-profile.png "Page de profil d'un tchat moderator en 2013")
 
 Après une [restructuration du personnel](https://osu.ppy.sh/community/forums/topics/123510) en 2013, la Language Surveillance Division a été rebaptisée **Chat Moderators** et a reçu sa propre liste de membres.
 

@@ -33,7 +33,7 @@ Les supporters obtiennent un badge orné de cœurs. Il peut être trouvé à cô
 ### Couleur du nom d'utilisateur
 
 ::: Infobox
-![](img/chat.png "Un utilisateur avec osu!supporter dans le tchat")
+![](img/tchat.png "Un utilisateur avec osu!supporter dans le tchat")
 :::
 
 Les noms d'utilisateurs des supporters actifs apparaissent en jaune clair dans le [tchat](/wiki/Client/Interface/Chat_console) pour les autres utilisateurs.
