@@ -109,8 +109,6 @@ Cliquez sur  `1. Start Game` pour **créer la salle en tant qu'hôte** avec la *
 
 <!-- One/Two image here? Subsections of the images later like what was done in Interface of the old osu! wiki for Song Selection? -->
 
-![](img/Multi_roomhost.jpg "Exemple d'une salle en tant qu'hôte")
-
 ![](img/Multi_roomplayer.jpg "Exemple d'une salle en tant que joueur \(avec l'option "Mods libres" activée\)")
 
 La partie haute montre le nom de l'écran à gauche, votre statut dans la salle (soit hôte soit joueur), vos informations sur le mode de jeu en cours au milieu et un bouton pause pour mettre en pause la musique (si vous avez la beatmap) à droite.
@@ -179,8 +177,6 @@ Quelques informations seront affichées dans le cas où le joueur ne possède pa
 | **Impossible de mettre à jour la beatmap** | [L'hôte joue probablement une version modifiée.](https://osu.ppy.sh/community/forums/topics/135726 "ppy's reply on a bug report.") |
 
 #### Mods
-
-![](img/Multi_mods_host.jpg "Options de mods \(osu! standard\) de l'hôte")
 
 ![](img/Multi_mods_player.jpg "Options de mods \(osu! standard\) d'un joueur \(avec l'option "Mods libres" activée\)")
 
