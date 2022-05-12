@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 45d0ff932649c6f2c7f8c76ce5d616154ca0ecf8
 tags:
   - april fools
   - april 1st
@@ -173,7 +171,7 @@ Dans le cadre de la poignée de blagues du poisson d'avril 2016, le [osu! cookie
 
 ## 2017
 
-Comme annoncé dans un [tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de osu!(lazer).
+Comme annoncé dans un [Tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de la version lazer du client d'osu!.
 
 ---
 
