@@ -25,7 +25,7 @@ Here's a quick rundown of how the event will work:
 - **Talks must be less than 18 minutes long**. This is the maximum allowed length, not a goal to aim for — even a 3-minute talk can have massive impact.
 - The story you share does not necessarily have to be about osu!, but because it is an osu!-related event, it is recommended to try connecting the story or the lesson behind your story to osu! in some way.
 - The event schedule, including the list of all speakers, their scheduled time, and the name of their talk, will be released in the [osu! University Discord server](https://discord.gg/QubdHdnBVg) a few days before the event starts.
-- All talks will be streamed live on [osu! University's Twitch channel](https://twitch.tv/osuuniversity) and uploaded separately to YouTube after the event on the [osu! University YouTube channel](https://www.youtube.com/c/osuuniversity).
+- All talks will be streamed live on [osu! University's Twitch channel](https://twitch.tv/osuuniversity) and uploaded separately to [osu! University's YouTube channel](https://www.youtube.com/c/osuuniversity) after the event.
 
 
 ---
