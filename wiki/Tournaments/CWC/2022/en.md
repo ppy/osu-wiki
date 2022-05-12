@@ -68,7 +68,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_CN] | **China** | **[Dusk](https://osu.ppy.sh/users/533210)** |
 | ![][flag_CO] | **Colombia** | **[Hojaldre](https://osu.ppy.sh/users/2573707)**, [Deley-](https://osu.ppy.sh/users/8291465), [God Gosu](https://osu.ppy.sh/users/7971842), [Juansy-](https://osu.ppy.sh/users/12588215), [Narnia](https://osu.ppy.sh/users/3600162), [HelpMePleasee](https://osu.ppy.sh/users/10835397) |
 | ![][flag_FI] | **Finland** | **[Nikolai](https://osu.ppy.sh/users/5302804)**, [Awsumi](https://osu.ppy.sh/users/4174308), [Bot\_Burger](https://osu.ppy.sh/users/6109660), [HuoltoMies](https://osu.ppy.sh/users/4278969), [JonZku](https://osu.ppy.sh/users/12740132), [Kurtsi](https://osu.ppy.sh/users/4222176) |
-| ![][flag_FR] | **France** | **[Holloh](https://osu.ppy.sh/users/7612994)** |
+| ![][flag_FR] | **France** | **[Holloh](https://osu.ppy.sh/users/7612994)**, [Ttobas](https://osu.ppy.sh/users/2084568), [Natsuko](https://osu.ppy.sh/users/8266817), [Boros](https://osu.ppy.sh/users/5490623), [Electr0o](https://osu.ppy.sh/users/9484428), [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | ![][flag_DE] | **Germany** | **[NoteKuroi](https://osu.ppy.sh/users/186642)**, [Marvmallow](https://osu.ppy.sh/users/8403032), [Vinci007](https://osu.ppy.sh/users/5030297), [Inryuka](https://osu.ppy.sh/users/11635773), [-Nirfu-](https://osu.ppy.sh/users/7332050), [Ginoshi](https://osu.ppy.sh/users/5398106) |
 | ![][flag_ID] | **Indonesia** | **[Chroneko](https://osu.ppy.sh/users/5472877)**, [Dika312](https://osu.ppy.sh/users/741613), [Netamaru](https://osu.ppy.sh/users/1830361), [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), [Urabe Mikoto](https://osu.ppy.sh/users/1272422), [LeWind](https://osu.ppy.sh/users/9718235) |
 | ![][flag_IL] | **Israel** | **[gal1](https://osu.ppy.sh/users/9424481)**, [LiL L1ghtMare](https://osu.ppy.sh/users/16782179), [Tourb0](https://osu.ppy.sh/users/19471527), [drhfff](https://osu.ppy.sh/users/20586082) |
@@ -80,11 +80,11 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_NZ] | **New Zealand** | **[Lay](https://osu.ppy.sh/users/3768185)**, [CTB Sakamata1](https://osu.ppy.sh/users/11735313), [LegoBoyWelly](https://osu.ppy.sh/users/24345309), [Nashiro](https://osu.ppy.sh/users/9740073) |
 | ![][flag_NO] | **Norway** | **[Mile](https://osu.ppy.sh/users/2760954)**, [Cameragod](https://osu.ppy.sh/users/4974088), [CyCeph](https://osu.ppy.sh/users/4586304), [Vanilla-](https://osu.ppy.sh/users/3400701), [Zazick](https://osu.ppy.sh/users/2569786), [Lanki](https://osu.ppy.sh/users/2535200) |
 | ![][flag_PH] | **Philippines** | **[Lobsterr](https://osu.ppy.sh/users/6575915)**, [Lawrence Angelo](https://osu.ppy.sh/users/10373568), [risu](https://osu.ppy.sh/users/18558246), [KumaRushia](https://osu.ppy.sh/users/23301957) |
-| ![][flag_PL] | **Poland** | **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)** |
+| ![][flag_PL] | **Poland** | **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)**, [LechuCzechu88](https://osu.ppy.sh/users/5251714), [Kosmit](https://osu.ppy.sh/users/1749173), [Skyleia](https://osu.ppy.sh/users/2958293), [trig0n](https://osu.ppy.sh/users/3704228), [Mawers](https://osu.ppy.sh/users/14522883) |
 | ![][flag_PT] | **Portugal** | **[Tris](https://osu.ppy.sh/users/3821475)**, [DemiGod Yoxide](https://osu.ppy.sh/users/6205809), [GoncS](https://osu.ppy.sh/users/19423459), [Hiroto-](https://osu.ppy.sh/users/14917517), [Nelson](https://osu.ppy.sh/users/4095868), [Rosa](https://osu.ppy.sh/users/7385703) |
 | ![][flag_RU] | **Russian Federation** | **[Memoriola](https://osu.ppy.sh/users/6856387)**, [Nelly](https://osu.ppy.sh/users/4741164), [KitsunIvy](https://osu.ppy.sh/users/7055384), [\_Insomnia](https://osu.ppy.sh/users/8928855), [vafara](https://osu.ppy.sh/users/18917363) |
 | ![][flag_SG] | **Singapore** | **[He Ang CTB](https://osu.ppy.sh/users/2451381)**, [Accel](https://osu.ppy.sh/users/1169796), [\[Eun\]](https://osu.ppy.sh/users/3788536), [Kings](https://osu.ppy.sh/users/1016926), [Rubae](https://osu.ppy.sh/users/21105275), [Setsuen](https://osu.ppy.sh/users/2673742) |
-| ![][flag_KR] | **South Korea** | **[JISAN](https://osu.ppy.sh/users/3657951)** |
+| ![][flag_KR] | **South Korea** | **[JISAN](https://osu.ppy.sh/users/3657951)**, [Rells](https://osu.ppy.sh/users/7937519), [YesMyDarknesss](https://osu.ppy.sh/users/4158549), [x\_angelkawaii\_x](https://osu.ppy.sh/users/566276), [DreStar](https://osu.ppy.sh/users/1808057), [Byeol](https://osu.ppy.sh/users/2754651) |
 | ![][flag_ES] | **Spain** | **[Patatitta](https://osu.ppy.sh/users/16294034)**, [Alepe](https://osu.ppy.sh/users/15273403), [Sprint-](https://osu.ppy.sh/users/13845399), [Anchoadae](https://osu.ppy.sh/users/22598202), [SirPantuflas](https://osu.ppy.sh/users/16163163), [skyres00](https://osu.ppy.sh/users/10158490) |
 | ![][flag_SE] | **Sweden** | **[Aceon](https://osu.ppy.sh/users/4452911)**, [\[ M e a k u \]](https://osu.ppy.sh/users/2747072), [DataPata](https://osu.ppy.sh/users/985360), [EclipZ](https://osu.ppy.sh/users/4586549), [Yukiteru Amano](https://osu.ppy.sh/users/1894511) |
 | ![][flag_CH] | **Switzerland** | **[ItsJ0el](https://osu.ppy.sh/users/5586377)** |
@@ -100,7 +100,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Tournament rules
 
-1. The osu!catch World Cup is a country-based team tournament played on the osu!catch game mode.
+1. The osu!catch World Cup is a country-based 3 versus 3 team tournament, played on the osu!catch game mode.
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the number of registrations.
 2. Beatmap scoring is based on ScoreV2.
 3. The maps for each round will be announced by the mappool selectors on the Sunday before the actual matches take place.
@@ -123,7 +123,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 11. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
-    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 2 participants must be present for the match to begin).
+    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 3 participants must be present for the match to begin).
 12. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
 13. Exchanging players between games is allowed without limitations.
 14. **The minimum size for a team is 4 players, and the maximum is 6.**
