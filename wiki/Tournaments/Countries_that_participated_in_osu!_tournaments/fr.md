@@ -1,4 +1,4 @@
-# Pays ayant participé aux tournois osu!
+# Pays ayant participé aux tournois d'osu!
 
 Cet article établit une liste de pays ayant déjà participé dans des tournois officiels [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), et [osu!mania](/wiki/Game_mode/osu!mania). Il fournit également le classement des équipes ayant atteint le top 3.
 
@@ -16,7 +16,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | 2 | ![][flag_JP] Japon | 11 | 5 | 2 |
 | 3 | ![][flag_US] États-Unis | 7 | 5 | 4 |
 | 4 | ![][flag_CN] Chine | 3 | 8 | 3 |
-| 5 | ![][flag_TW] Taiwan | 3 | 7 | 1 |
+| 5 | ![][flag_TW] Taïwan | 3 | 7 | 1 |
 | 6 | ![][flag_BR] Brésil | 2 | 2 | 4 |
 | 7 | ![][flag_PL] Pologne | 1 | 1 | 2 |
 | 8 | ![][flag_CL] Chili | 1 |  | 2 |
@@ -32,7 +32,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | 17 | ![][flag_FR] France |  |  | 2 |
 | 18 | ![][flag_SE] Suède |  |  | 1 |
 
-### ![][osu!] classement osu!
+### ![][osu!] Classement osu!
 
 | Rang | Pays | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -40,7 +40,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | 2 | ![][flag_KR] Corée du Sud | 3 | 1 | 3 |
 | 3 | ![][flag_JP] Japon | 1 | 2 |  |
 | 4 | ![][flag_PL] Pologne | 1 | 1 | 2 |
-| 5 | ![][flag_TW] Taiwan | 1 | 1 | 1 |
+| 5 | ![][flag_TW] Taïwan | 1 | 1 | 1 |
 | 6 | ![][flag_DE] Allemagne |  | 2 | 2 |
 | 7 | ![][flag_CN] Chine |  | 2 |  |
 | 8 | ![][flag_GB] Royaume-Uni |  | 1 | 2 |
@@ -48,7 +48,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | 10 | ![][flag_BR] Brésil |  |  | 1 |
 | 10 | ![][flag_CA] Canada |  |  | 1 |
 
-### ![][osu!taiko] classement osu!taiko
+### ![][osu!taiko] Classement osu!taiko
 
 | Rang | Pays | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -63,7 +63,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | 5 | ![][flag_ID] Indonésie |  |  | 1 |
 | 5 | ![][flag_GB] Royaume-Uni |  |  | 1 |
 
-### ![][osu!catch] classement osu!catch
+### ![][osu!catch] Classement osu!catch
 
 | Rang | Pays | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -74,10 +74,10 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | 4 | ![][flag_US] États-Unis |  | 1 | 2 |
 | 5 | ![][flag_ID] Indonésie |  | 1 | 1 |
 | 6 | ![][flag_HK] Hong Kong |  | 1 |  |
-| 6 | ![][flag_TW] Taiwan |  | 1 |  |
+| 6 | ![][flag_TW] Taïwan |  | 1 |  |
 | 7 | ![][flag_SE] Suède |  |  | 1 |
 
-### ![][osu!mania] classement osu!mania
+### ![][osu!mania] Classement osu!mania
 
 | Rang | Pays | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
@@ -145,7 +145,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | ![][flag_ES] Espagne | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_SE] Suède | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CH] Suisse | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_TW] Taiwan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_TW] Taïwan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TH] Thaïlande | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] |
 | ![][flag_TR] Turquie | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ![][flag_UA] Ukraine | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
@@ -196,7 +196,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | ![][flag_ES] Espagne | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] |
 | ![][flag_SE] Suède | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] |
 | ![][flag_CH] Suisse | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_TW] Taiwan | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_TW] Taïwan | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TH] Thaïlande | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
 | ![][flag_TR] Turquie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
 | ![][flag_UA] Ukraine | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
@@ -249,7 +249,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | ![][flag_KR] Corée du Sud | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_ES] Espagne | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_SE] Suède | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_TW] Taiwan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_TW] Taïwan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TH] Thaïlande | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] |
 | ![][flag_GB] Royaume-Uni | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ![][flag_US] États-Unis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -302,7 +302,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | ![][flag_ES] Espagne | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_SE] Suède | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CH] Suisse | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_TW] Taiwan | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_TW] Taïwan | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TH] Thaïlande | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TR] Turquie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
 | ![][flag_UA] Ukraine | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
@@ -379,7 +379,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 [flag_SK]: /wiki/shared/flag/SK.gif "Slovaquie"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turquie"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
 [flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
