@@ -64,7 +64,7 @@ Ici, vous pouvez modifier la réaffectation des touches du clavier avec les acti
 | Nom | Défaut |
 | :-- | :-- |
 | Toggle Framerate Limit | `F7` |
-| Toggle tchat | `F8` |
+| Toggle Chat | `F8` |
 | Toggle Extended Chat | `F9` |
 | Save Screenshot | `F12` |
 | Increase Volume | `Up Arrow` |
