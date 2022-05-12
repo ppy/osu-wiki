@@ -12,7 +12,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 
 | Rang | Pays | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] Corée du Sud | 19 | 5 | 5 |s
+| 1 | ![][flag_KR] Corée du Sud | 19 | 5 | 5 |
 | 2 | ![][flag_JP] Japon | 11 | 5 | 2 |
 | 3 | ![][flag_US] États-Unis | 7 | 5 | 4 |
 | 4 | ![][flag_CN] Chine | 3 | 8 | 3 |
