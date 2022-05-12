@@ -101,7 +101,6 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 ### Tournament rules
 
 1. The osu!catch World Cup is a country-based 3 versus 3 team tournament, played on the osu!catch game mode.
-   - While this competition is planned as a 3 versus 3 setup, this might change depending on the number of registrations.
 2. Beatmap scoring is based on ScoreV2.
 3. The maps for each round will be announced by the mappool selectors on the Sunday before the actual matches take place.
 4. The match schedule will be settled by the Tournament Management (see above).
