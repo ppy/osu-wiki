@@ -92,7 +92,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | 8 | ![][flag_ID] Indonésie |  |  | 1 |
 | 8 | ![][flag_GB] Royaume-Uni |  |  | 1 |
 
-## Prévisions
+## Participants
 
 ### ![][osu!] osu! World Cup
 
@@ -318,12 +318,12 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
 
-[GCrown]: /wiki/shared/crown-gold.png "1st place"
+[GCrown]: /wiki/shared/crown-gold.png "1ère place"
 [SCrown]: /wiki/shared/crown-silver.png "2nd place"
-[BCrown]: /wiki/shared/crown-bronze.png "3rd place"
+[BCrown]: /wiki/shared/crown-bronze.png "3ème place"
 
-[true]: /wiki/shared/true.png "Attended"
-[false]: /wiki/shared/false.png "Not attended"
+[true]: /wiki/shared/true.png "Participant"
+[false]: /wiki/shared/false.png "Non participant"
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
