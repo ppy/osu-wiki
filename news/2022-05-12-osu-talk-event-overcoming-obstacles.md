@@ -8,7 +8,7 @@ date: 2022-05-12 08:00:00 +0000
 Do you have a story to share, but no platform to share it on? Join us for the first ever osu! talk event (OTE), hosted by osu! University!
 
 
-![](https://i.imgur.com/NKebKUA.png)
+![]/wiki/shared/news/2022-05-12-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
 
 
 Unlike many events that involve guest speakers, OTE is open for anyone to speak -- all you need is a story to share. Each OTE centers around a certain theme. For this OTE, all talks will center around the theme of **overcoming obstacles**.
