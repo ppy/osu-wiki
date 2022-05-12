@@ -11,7 +11,7 @@ Do you have a story to share, but no platform to share it on? Join us for the fi
 ![](https://i.imgur.com/NKebKUA.png)
 
 
-Unlike many events that involve guest speakers, OTE is open for anyone to speak -- all you need is a story to share. Each OTE centers around a certain theme. For this OTE, all talks will center around the theme of [b]overcoming obstacles[/b].
+Unlike many events that involve guest speakers, OTE is open for anyone to speak -- all you need is a story to share. Each OTE centers around a certain theme. For this OTE, all talks will center around the theme of **overcoming obstacles**.
 
 
 If you're not familiar, [osu! University](https://discord.gg/QubdHdnBVg) is an improvement-focused osu! hub that serves to bridge the gap between experienced and new players alike.
@@ -24,8 +24,8 @@ Here's a quick rundown of how the event will work:
 - **The speaker will use a Discord stage channel** in the [osu! University Discord server](https://discord.gg/QubdHdnBVg) to give their talk.
 - **Talks must be less than 18 minutes long**. This is the maximum allowed length, not a goal to aim for — even a 3-minute talk can have massive impact.
 - The story you share does not necessarily have to be about osu!, but because it is an osu!-related event, it is recommended to try connecting the story or the lesson behind your story to osu! in some way.
-- The event schedule, including the list of all speakers, their scheduled time, and the name of their talk, will be released in the [url=https://discord.gg/QubdHdnBVg]osu! University Discord server[/url] a few days before the event starts.
-- All talks will be streamed live on osu! University's Twitch channel and uploaded separately to YouTube after the event on the [url=https://www.youtube.com/c/osuuniversity]osu! University YouTube channel[/url].[/list][/notice]
+- The event schedule, including the list of all speakers, their scheduled time, and the name of their talk, will be released in the [osu! University Discord server](https://discord.gg/QubdHdnBVg) a few days before the event starts.
+- All talks will be streamed live on [osu! University's Twitch channel](https://twitch.tv/osuuniversity) and uploaded separately to YouTube after the event on the [osu! University YouTube channel](https://www.youtube.com/c/osuuniversity).
 
 
 If you believe that you or someone you know has a story worth sharing about overcoming obstacles, please fill out this [speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8). If you want to nominate someone else, you can still fill out the form on their behalf.
