@@ -5,7 +5,7 @@ date: 2022-05-12 08:00:00 +0000
 ---
 
 
-Do you have a story to share, but no platform to share it on? Join us for the first ever osu! talk event (OTE), hosted by osu! University!
+Do you have a story to share, but no platform to share it on? Join us for the first ever osu! talk event (OTE), where you can make your voice heard.
 
 
 ![](/wiki/shared/news/2022-05-12-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
@@ -14,14 +14,11 @@ Do you have a story to share, but no platform to share it on? Join us for the fi
 Unlike many events that involve guest speakers, OTE is open for anyone to speak -- all you need is a story to share. Each OTE centers around a certain theme. For this OTE, all talks will center around the theme of **overcoming obstacles**.
 
 
-If you're not familiar, [osu! University](https://discord.gg/QubdHdnBVg) is an improvement-focused osu! hub that serves to bridge the gap between experienced and new players alike.
-
-
 Here's a quick rundown of how the event will work:
 
 
 - **The event will last 3 days total,** from May 20 - 22, 2022.
-- **The speaker will use a Discord stage channel** in the [osu! University Discord server](https://discord.gg/QubdHdnBVg) to give their talk.
+- **The speaker will use a Discord stage channel** in the [osu!dev Discord server](https://discord.gg/ppy) to give their talk.
 - **Talks must be less than 18 minutes long**. This is the maximum allowed length, not a goal to aim for — even a 3-minute talk can have massive impact.
 - The story you share does not necessarily have to be about osu!, but because it is an osu!-related event, it is recommended to try connecting the story or the lesson behind your story to osu! in some way.
 - The event schedule, including the list of all speakers, their scheduled time, and the name of their talk, will be released in the [osu! University Discord server](https://discord.gg/QubdHdnBVg) a few days before the event starts.
