@@ -28,6 +28,9 @@ Here's a quick rundown of how the event will work:
 - All talks will be streamed live on [osu! University's Twitch channel](https://twitch.tv/osuuniversity) and uploaded separately to YouTube after the event on the [osu! University YouTube channel](https://www.youtube.com/c/osuuniversity).
 
 
+---
+
+
 If you believe that you or someone you know has a story worth sharing about overcoming obstacles, please fill out this [speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8). If you want to nominate someone else, you can still fill out the form on their behalf.
 
 
