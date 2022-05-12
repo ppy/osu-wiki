@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: osu! Talk Event: Overcoming Obstacles
+title: "osu! Talk Event: Overcoming Obstacles"
 date: 2022-05-12 08:00:00 +0000
 ---
 
