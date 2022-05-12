@@ -98,6 +98,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 
 | Pays | 1 | 2 | 3 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ![][flag_DE] Allemagne | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_AR] Argentine | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_AU] Australie | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_AT] Autriche | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -109,14 +110,15 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | ![][flag_CL] Chili | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CN] Chine | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CO] Colombie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
+| ![][flag_KR] Corée du Sud | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_HR] Croatie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
-| ![][flag_CZ] République tchèque | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_DK] Danemark | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_DO] République dominicaine | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ![][flag_US] États-Unis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_ES] Espagne | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_EE] Estonie | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
+| ![][flag_RU] Fédération de Russie | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_FI] Finlande | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_FR] France | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_DE] Allemagne | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_GR] Grèce | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_HK] Hong Kong | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_HU] Hongrie | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
@@ -130,27 +132,25 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | ![][flag_MO] Macao | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_MY] Malaisie | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ![][flag_MX] Mexique | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NL] Pays-Bas | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NZ] Nouvelle-Zélande | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] |
 | ![][flag_NO] Norvège | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_NZ] Nouvelle-Zélande | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] |
+| ![][flag_NL] Pays-Bas | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PE] Pérou | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
 | ![][flag_PH] Philippines | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PL] Pologne | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PT] Portugal | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
+| ![][flag_DO] République dominicaine | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ![][flag_CZ] République tchèque | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_RO] Roumanie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_RU] Fédération de Russie | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_GB] Royaume-Uni | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_SG] Singapour | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_SK] Slovaquie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_KR] Corée du Sud | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_ES] Espagne | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_SE] Suède | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CH] Suisse | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TW] Taïwan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TH] Thaïlande | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] |
 | ![][flag_TR] Turquie | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ![][flag_UA] Ukraine | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_GB] Royaume-Uni | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_US] États-Unis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_UY] Uruguay | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ![][flag_VE] Venezuela | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_VN] Vietnam | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
@@ -160,6 +160,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 
 | Pays | 2011 | 2012 | 3 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ![][flag_DE] Allemagne | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_AR] Argentine | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_AU] Australie | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_AT] Autriche | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
@@ -169,12 +170,14 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | ![][flag_CL] Chili | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CN] Chine | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CO] Colombie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
+| ![][flag_KR] Corée du Sud | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CR] Costa Rica | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
-| ![][flag_CZ] République tchèque | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ![][flag_DK] Danemark | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_ES] Espagne | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] |
+| ![][flag_US] États-Unis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_RU] Fédération de Russie | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_FI] Finlande | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_FR] France | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_DE] Allemagne | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_GR] Grèce | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] |
 | ![][flag_HK] Hong Kong | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] |
 | ![][flag_HU] Hongrie | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
@@ -184,24 +187,21 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | ![][flag_MO] Macao | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_MY] Malaisie | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_MX] Mexique | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NL] Pays-Bas | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NZ] Nouvelle-Zélande | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_NO] Norvège | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] |
+| ![][flag_NZ] Nouvelle-Zélande | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_NL] Pays-Bas | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PH] Philippines | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PL] Pologne | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PT] Portugal | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_RU] Fédération de Russie | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_CZ] République tchèque | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_GB] Royaume-Uni | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_SG] Singapour | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_KR] Corée du Sud | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_ES] Espagne | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] |
-| ![][flag_SE] Suède | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] |
 | ![][flag_CH] Suisse | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_SE] Suède | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] |
 | ![][flag_TW] Taïwan | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TH] Thaïlande | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
 | ![][flag_TR] Turquie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
 | ![][flag_UA] Ukraine | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_GB] Royaume-Uni | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_US] États-Unis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_VE] Venezuela | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] |
 | ![][flag_VN] Vietnam | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
 | **Total** | 13 | 17 | 21 | 20 | 24 | 24 | 24 | 24 | 32 | 32 | 32 | 37 |
@@ -210,6 +210,8 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 
 | Pays | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ![][flag_DE] Allemagne | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_SA] Arabie Saoudite | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
 | ![][flag_AR] Argentine | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_AU] Australie | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_AT] Autriche | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] |
@@ -220,14 +222,16 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | ![][flag_CL] Chili | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CN] Chine | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CO] Colombie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_KR] Corée du Sud | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CR] Costa Rica | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_HR] Croatie | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_CZ] République tchèque | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] |
 | ![][flag_DK] Danemark | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_ES] Espagne | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_EE] Estonie | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ![][flag_US] États-Unis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_RU] Fédération de Russie | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_FI] Finlande | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_FR] France | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_DE] Allemagne | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_HK] Hong Kong | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_HU] Hongrie | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] |
 | ![][flag_ID] Indonésie | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -235,24 +239,20 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | ![][flag_JP] Japon | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_MY] Malaisie | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
 | ![][flag_MX] Mexique | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NL] Pays-Bas | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NZ] Nouvelle-Zélande | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_NO] Norvège | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_NZ] Nouvelle-Zélande | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ![][flag_NL] Pays-Bas | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PE] Pérou | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ![][flag_PH] Philippines | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PL] Pologne | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PT] Portugal | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
+| ![][flag_CZ] République tchèque | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] |
 | ![][flag_RO] Roumanie | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] |
-| ![][flag_RU] Fédération de Russie | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_SA] Arabie Saoudite | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ![][flag_GB] Royaume-Uni | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ![][flag_SG] Singapour | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_KR] Corée du Sud | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_ES] Espagne | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_SE] Suède | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TW] Taïwan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TH] Thaïlande | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] |
-| ![][flag_GB] Royaume-Uni | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_US] États-Unis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_UY] Uruguay | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_VE] Venezuela | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] |
 | ![][flag_VN] Vietnam | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -262,6 +262,7 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 
 | Pays | 2014 4K | 2014 7K | 2015 4K | 2016 7K | 2016 4K | 2017 7K | 2017 4K | 2018 7K | 2018 4K | 2019 7K | 2019 4K | 2020 4K | 2021 4K | 2022 7K |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ![][flag_DE] Allemagne | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_AR] Argentine | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_AU] Australie | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_BE] Belgique | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
@@ -270,15 +271,17 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | ![][flag_CL] Chili | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
 | ![][flag_CN] Chine | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CO] Colombie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
-| ![][flag_CZ] République tchèque | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ![][flag_KR] Corée du Sud | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_DK] Danemark | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] |
+| ![][flag_ES] Espagne | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_EE] Estonie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_US] États-Unis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_RU] Fédération de Russie | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_FI] Finlande | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
 | ![][flag_FR] France | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_DE] Allemagne | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_HK] Hong Kong | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] |
 | ![][flag_HU] Hongrie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_IN] India | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_IN] Inde | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ![][flag_ID] Indonésie | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_IL] Israël | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_IT] Italie | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
@@ -288,26 +291,23 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 | ![][flag_MO] Macao | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] |
 | ![][flag_MY] Malaisie | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_MX] Mexique | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] |
-| ![][flag_NL] Pays-Bas | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NZ] Nouvelle-Zélande | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ![][flag_NO] Norvège | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_NZ] Nouvelle-Zélande | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_NL] Pays-Bas | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PE] Pérou | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PH] Philippines | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PL] Pologne | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_PT] Portugal | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
+| ![][flag_CZ] République tchèque | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_RO] Roumanie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_RU] Fédération de Russie | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_GB] Royaume-Uni | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_SG] Singapour | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_KR] Corée du Sud | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_ES] Espagne | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_SE] Suède | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_CH] Suisse | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_SE] Suède | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TW] Taïwan | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TH] Thaïlande | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TR] Turquie | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
 | ![][flag_UA] Ukraine | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
-| ![][flag_GB] Royaume-Uni | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_US] États-Unis | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_UY] Uruguay | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
 | ![][flag_VE] Venezuela | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] |
 | ![][flag_VN] Vietnam | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] |
@@ -325,63 +325,63 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 [true]: /wiki/shared/true.png "Participant"
 [false]: /wiki/shared/false.png "Non participant"
 
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_SA]: /wiki/shared/flag/SA.gif "Arabie Saoudite"
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
-[flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
-[flag_BG]: /wiki/shared/flag/BG.gif "Bulgarie"
 [flag_BO]: /wiki/shared/flag/BO.gif "Bolivie"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgarie"
+[flag_KH]: /wiki/shared/flag/KH.gif "Cambodge"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
 [flag_CO]: /wiki/shared/flag/CO.gif "Colombie"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
 [flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "République tchèque"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_HR]: /wiki/shared/flag/HR.gif "Croatie"
 [flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
-[flag_DO]: /wiki/shared/flag/DO.gif "République dominicaine"
-[flag_EE]: /wiki/shared/flag/EE.gif "Estonie"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonie"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HR]: /wiki/shared/flag/HR.gif "Croatie"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hongrie"
+[flag_IN]: /wiki/shared/flag/IN.gif "Inde"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
 [flag_IL]: /wiki/shared/flag/IL.gif "Israël"
-[flag_IN]: /wiki/shared/flag/IN.gif "India"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
-[flag_KH]: /wiki/shared/flag/KH.gif "Cambodge"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
 [flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lituanie"
 [flag_LV]: /wiki/shared/flag/LV.gif "Lettonie"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lituanie"
 [flag_MO]: /wiki/shared/flag/MO.gif "Macao"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
-[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
-[flag_PE]: /wiki/shared/flag/PE.gif "Pérou"
+[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_PE]: /wiki/shared/flag/PE.gif "Pérou"
+[flag_DO]: /wiki/shared/flag/DO.gif "République dominicaine"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "République tchèque"
 [flag_RO]: /wiki/shared/flag/RO.gif "Roumanie"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
-[flag_SA]: /wiki/shared/flag/SA.gif "Arabie Saoudite"
-[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
 [flag_SK]: /wiki/shared/flag/SK.gif "Slovaquie"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turquie"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
 [flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
 [flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
