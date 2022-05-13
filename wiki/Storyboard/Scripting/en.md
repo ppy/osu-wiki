@@ -28,6 +28,8 @@ See the following articles:
 
 ## Community tools
 
+<!-- as-is, this section's only purpose is to say that these projects exist (plus a popular example). this would be a good place to link away to other helpful projects or an article about them. -->
+
 Various tools have been made by the community to abstract and build upon storyboard scripting, such as ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)'s [storybrew](https://github.com/Damnae/storybrew "GitHub repository").
 
 <!--
