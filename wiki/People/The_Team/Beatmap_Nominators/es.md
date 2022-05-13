@@ -200,7 +200,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finlandés |
+| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finlandés, algo de sueco |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Japonés |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Coreano |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |

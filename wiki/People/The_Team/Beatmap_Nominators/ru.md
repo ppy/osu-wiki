@@ -201,7 +201,7 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Финский |
+| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Финский, частично шведский |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Японский |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Корейский |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |

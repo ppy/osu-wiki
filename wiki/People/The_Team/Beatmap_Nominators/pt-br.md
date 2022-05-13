@@ -201,7 +201,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finlandês |
+| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finlandês, um pouco de Sueco |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Japonês |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Coreano |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |

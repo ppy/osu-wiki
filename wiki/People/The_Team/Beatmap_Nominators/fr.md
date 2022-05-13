@@ -201,7 +201,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finlandais |
+| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finlandais, un peu de Suédois |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Japonais |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Coréen |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |

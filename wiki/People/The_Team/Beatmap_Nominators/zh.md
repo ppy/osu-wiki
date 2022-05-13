@@ -199,7 +199,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | 芬兰语 |
+| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | 芬兰语，部分瑞典语 |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | 日语 |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | 韩语 |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |

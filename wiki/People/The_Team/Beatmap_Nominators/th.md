@@ -201,7 +201,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | ฟินแลนด์ |
+| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | ฟินแลนด์, สวีเดน บ้าง |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | ญี่ปุ่น |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | เกาหลี |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |

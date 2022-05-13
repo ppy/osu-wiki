@@ -201,7 +201,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Fince |
+| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Fince, biraz İsveççe |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Japonca |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Korece |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |

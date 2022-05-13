@@ -201,7 +201,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finlandia |
+| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finlandia, sedikit Swedia |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Jepang |
 | ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Korea |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
