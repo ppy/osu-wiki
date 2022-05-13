@@ -12,7 +12,7 @@ Le contenu suivant est séparé en sections, indiquées par des titres de sectio
 | :-- | :-- | :-- |
 | `[General]` | Informations générales sur la beatmap | paires `key: value` |
 | `[Editor]` | Paramètres sauvegardés pour l'éditeur de beatmaps | paires `key: value` |
-| `[Metadata]` | [Information](/wiki/Client/Beatmap_editor/Song_Setup#métadonnées-des-chansons-et-des-maps) utilisée pour identifier la beatmap. | paires `key:value` |
+| `[Metadata]` | [Information](/wiki/Client/Beatmap_editor/Song_Setup#métadonnées-des-musiques-et-des-beatmaps) utilisée pour identifier la beatmap. | paires `key:value` |
 | `[Difficulty]` | [Paramètres de difficulté](/wiki/Client/Beatmap_editor/Song_Setup#difficulté) | paires `key:value` |
 | `[Events]` | Beatmap et storyboard des événements graphiques | Listes séparées par des virgules |
 | `[TimingPoints]` | Timing points et control points | Listes séparées par des virgules |
@@ -45,11 +45,11 @@ Le contenu suivant est séparé en sections, indiquées par des titres de sectio
 
 ## Editor
 
-Ces options ne concernent que l'ouverture des maps dans l'[éditeur de beatmaps](/wiki/Client/Beatmap_editor). Elles n'affectent pas le gameplay.
+Ces options ne concernent que l'ouverture des beatmaps dans l'[éditeur de beatmaps](/wiki/Client/Beatmap_editor). Elles n'affectent pas le gameplay.
 
 | Option | Type de valeur en français (en anglais) | Description |
 | :-- | :-- | :-- |
-| `Bookmarks` | Liste d'entiers séparés par des virgules | Temps en millisecondes de [bookmarks](/wiki/Client/Beatmap_editor/Compose#en-bas-(timeline-de-la-chanson)) |
+| `Bookmarks` | Liste d'entiers séparés par des virgules | Temps en millisecondes de [bookmarks](/wiki/Client/Beatmap_editor/Compose#en-bas-(timeline-de-la-musique)) |
 | `DistanceSpacing` | Décimal (Decimal) | Multiplicateur [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) |
 | `BeatDivisor` | Décimal (Decimal) | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | `GridSize` | Entier (Integer) | [Grid size](/wiki/Grid_snapping) |
@@ -59,13 +59,13 @@ Ces options ne concernent que l'ouverture des maps dans l'[éditeur de beatmaps]
 
 | Option | Type de valeurs en français (en anglais) | Description |
 | :-- | :-- | :-- |
-| `Title` | Chaîne de caractère (String) | Titre romanisé de la chanson |
-| `TitleUnicode` | Chaîne de caractère (String) | Titre de la chanson |
-| `Artist` | Chaîne de caractère (String) | Artiste de la chanson romanisé |
-| `ArtistUnicode` | Chaîne de caractère (String) | Artiste de la chanson |
+| `Title` | Chaîne de caractère (String) | Titre romanisé de la musique |
+| `TitleUnicode` | Chaîne de caractère (String) | Titre de la musique |
+| `Artist` | Chaîne de caractère (String) | Artiste de la musique romanisé |
+| `ArtistUnicode` | Chaîne de caractère (String) | Artiste de la musique |
 | `Creator` | Chaîne de caractère (String) | Créateur de la beatmap |
 | `Version` | Chaîne de caractère (String) | Nom de la difficulté |
-| `Source` | Chaîne de caractère (String) | Média original pour lequel la chanson a été produite |
+| `Source` | Chaîne de caractère (String) | Média original pour lequel la musique a été produite |
 | `Tags` | Liste de chaînes de caractères séparées par des espaces | Termes de recherche |
 | `BeatmapID` | Entier (Integer) | ID de la difficulté |
 | `BeatmapSetID` | Entier (Integer) | ID de la beatmap |
@@ -122,7 +122,7 @@ Chaque beatmap peut contenir son propre storyboard spécifique à la difficulté
 
 ## Timing points
 
-Chaque timing point influence une partie spécifique de la map, communément appelée "timing section". Le format de fichier `.osu` exige que ceux-ci soient triés par ordre chronologique.
+Chaque timing point influence une partie spécifique de la beatmap, communément appelée "timing section". Le format de fichier `.osu` exige que ceux-ci soient triés par ordre chronologique.
 
 *Syntax des timing points :* `time,beatLength,meter,sampleSet,sampleIndex,volume,uninherited,effects`
 
@@ -141,7 +141,7 @@ Chaque timing point influence une partie spécifique de la map, communément app
 
 Les timing points ont deux effets supplémentaires qui peuvent être basculés en utilisant les bits 0 et 3 (du moins au plus significatif) dans l'entier `effects` :
 
-- 0 : Si le [kiai time](/wiki/Kiai_time) est activé ou non.
+- 0 : Si le [kiai time](/wiki/Gameplay/Kiai_time) est activé ou non.
 - 3 : L'omission ou non de la première barre de mesure dans osu!taiko et osu!mania
 
 Le reste des bits est inutilisé.
@@ -335,7 +335,7 @@ Le troisième objet est un slider :
 
 ### osu!taiko
 
-Les objets du mode osu!taiko n'utilisent que le `time` pour déterminer comment ils sont placés sur le playfield, donc `x` et `y` sont ignorés. De même, la seule partie significative des courbes des sliders est `length` ; `curveType` et `curvePoints` ne sont pertinents que lors de l'ouverture de la map dans l'éditeur. Les couleurs des combos et les nouveaux combos sont ignorés, et les hitsounds spécifiques au mode sont utilisés.
+Les objets du mode osu!taiko n'utilisent que le `time` pour déterminer comment ils sont placés sur le playfield, donc `x` et `y` sont ignorés. De même, la seule partie significative des courbes des sliders est `length` ; `curveType` et `curvePoints` ne sont pertinents que lors de l'ouverture de la beatmap dans l'éditeur. Les couleurs des combos et les nouveaux combos sont ignorés, et les hitsounds spécifiques au mode sont utilisés.
 
 - Les cercles avec des hitsounds whistle ou clap deviennent des kats, et les autres cercles deviennent des dons. L'ajout du son d'arrivée les transforme en leurs grandes variantes.
 - Les sliders deviennent des roulements de tambour.

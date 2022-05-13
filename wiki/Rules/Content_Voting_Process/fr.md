@@ -1,5 +1,6 @@
 ---
-no_native_review: true
+tags:
+  - vote
 ---
 
 # Processus de vote sur le contenu
@@ -8,9 +9,9 @@ Le contenu soumis à l'examen des [Beatmap Nominators](/wiki/People/The_Team/Bea
 
 ## Processus
 
-1. Un mappeur, un moddeur ou un membre concerné de la communauté soulève tout élément visuel dans un beatmap pour le soumettre à l'examen des [considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations) en le signalant via le [site web des BN](https://bn.mappersguild.com/reports).
+1. Un mappeur, un moddeur ou un membre de la communauté soulève tout élément visuel dans une beatmap pour le soumettre à l'examen des [considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations) en le signalant via le [site web des BN](https://bn.mappersguild.com/reports).
 2. Le rapport est évalué par la NAT et pour toutes les situations, sauf les plus évidentes, un nouveau "cas de contenu" est mis en ligne et disponible pour le vote dès que possible. Tous les membres des BN, de la GMT et de la NAT ont le droit de voter.
-3. Tant que le vote est actif, toute map contenant l'élément visuel en question ne peut être ni nominée ni qualifiée. Si la map est qualifiée, elle est temporairement disqualifiée pendant que la discussion se poursuit.
+3. Tant que le vote est actif, toute beatmap contenant l'élément visuel en question ne peut être ni nominée ni qualifiée. Si la beatmap est qualifiée, elle est temporairement disqualifiée pendant que la discussion se poursuit.
 4. Le vote se termine après une période de 3 jours sans nouveaux votes, ou 7 jours depuis le début du vote, selon la première éventualité.
 
 ## Résultat

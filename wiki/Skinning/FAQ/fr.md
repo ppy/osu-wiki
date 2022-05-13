@@ -127,7 +127,7 @@ osu! gameplay
 [url=https://example.com/skin-download-link-here.osk]Download link[/url][/centre]
 ```
 
-Il est vraiment important d'inclure diverses captures d'écran du gameplay et du choix des chansons, etc. Beaucoup de gens voudront voir à quoi ressemble votre skin avant de le télécharger sans réfléchir ! Vous pouvez utiliser upppy ou imgur pour les télécharger.
+Il est vraiment important d'inclure diverses captures d'écran du gameplay et du choix des musiques, etc. Beaucoup de gens voudront voir à quoi ressemble votre skin avant de le télécharger sans réfléchir ! Vous pouvez utiliser upppy ou imgur pour les télécharger.
 
 ## skin.ini
 
@@ -273,7 +273,7 @@ Vous devez avoir un tag [osu!supporter](/wiki/osu!supporter) pour voir l'image d
 
 ### Que fait @2x ?
 
-*Page principale : [HD images](#images-HD)*
+*Page principale : [HD images](#images-hd)*
 
 ### Mes tambours taiko sont dans la mauvaise position !
 

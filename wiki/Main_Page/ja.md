@@ -13,7 +13,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 # はじめに
 
-[インストール](/wiki/Client/Installation) • [登録](/wiki/Registration) • [ヘルプセンター](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[インストール](/wiki/Client/Installation) • [登録](/wiki/Registration) • [ヘルプセンター](/wiki/Help_centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -31,7 +31,7 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 [ゲームモード](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[ビートマップ](/wiki/Beatmap) • [ヒットオブジェクト](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [スコア](/wiki/Gameplay/Score) • [リプレイ](/wiki/Replay) • [マルチ](/wiki/Multi)
+[ビートマップ](/wiki/Beatmap) • [ヒットオブジェクト](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [スコア](/wiki/Gameplay/Score) • [リプレイ](/wiki/Gameplay/Replay) • [マルチ](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -60,14 +60,14 @@ osu!に関する様々な情報を集めたプロジェクト、osu! wikiへよ�
 
 [トーナメント](/wiki/Tournaments) • [スキニング](/wiki/Skinning) • [プロジェクト](/wiki/Community/Projects) • [ガイド](/wiki/Guides) • [osu!dev Discordサーバー](/wiki/Community/osu!dev_Discord_server) • [ご協力のお願い](/wiki/Community/How_you_can_help!) • [用語集](/wiki/Glossary)
 
+組織: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# 人物
+# [人物](/wiki/People)
 
 [チーム](/wiki/People/The_Team): [開発者](/wiki/People/The_Team/Developers) • [グローバルモデレーションチーム](/wiki/People/The_Team/Global_Moderation_Team) • [サポートチーム](/wiki/People/The_Team/Support_Team) • [ノミネーション アセスメント チーム](/wiki/People/The_Team/Nomination_Assessment_Team) • [ビートマップノミネーター](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved チーム](/wiki/People/The_Team/Project_Loved_Team)
-
-組織: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [コミュニティへの貢献](/wiki/People/Community_Contributors) • [ユニークなタイトルを持つユーザー](/wiki/People/Users_with_unique_titles)
 

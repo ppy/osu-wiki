@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 421d351504f7f02cbe916b63fc6120b24fce0c3a
 tags:
   - bot accounts
   - chat bot
@@ -9,7 +11,7 @@ tags:
 
 # Bot hesabı
 
-**Bot hesabı** gerçek bir kişi yerine otomatik bir hizmet sağlayıcısı tarafından kullanılan özel bir osu! hesap türüdür. Websitesinde, `BOT` etiketli beyaz bir grup rozetine sahiptir, ve profillerinde sadece `ben!` kısmı görünür. Bot hesapları çoğunlukla [çoklu oyunculu](/wiki/Multi) lobi kanalları veya özel mesajlar aracılığıyla topluluğa çeşitli hizmetler sunan "sohbet botlarını" barındırmak için kullanılır.
+**Bot hesabı** gerçek bir kişi yerine otomatik bir hizmet sağlayıcısı tarafından kullanılan özel bir osu! hesap türüdür. Websitesinde, `BOT` etiketli beyaz bir grup rozetine sahiptir, ve profillerinde sadece `ben!` kısmı görünür. Bot hesapları çoğunlukla [çoklu oyunculu](/wiki/Gameplay/Multiplayer) lobi kanalları veya özel mesajlar aracılığıyla topluluğa çeşitli hizmetler sunan "sohbet botlarını" barındırmak için kullanılır.
 
 Bot hesapları yalnızca bir [başvuru süreci](#bot-hesabı-oluşturmak) ile oluşturulabilir. Bot hesabı oluşturma amacıyla normal yollarla kaydolmak birden fazla hesap kullanımı sayılır ve [topluluk kurallarına](/wiki/Rules#topluluk-kuralları) aykırıdır.
 

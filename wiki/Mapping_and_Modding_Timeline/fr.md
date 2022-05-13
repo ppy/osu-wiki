@@ -26,7 +26,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 ### Mars
 
 - **11/03/2008 :** La catégorie [Graveyard](/wiki/Beatmap/Category#cimetière) a été mise en place pour accueillir les beatmaps inactives.
-  - La communauté s'attendait à ce que chaque map en attente soit classée, mais les maps étaient fréquemment abandonnées et devaient être séparées.
+  - La communauté s'attendait à ce que chaque beatmap en attente soit classée, mais les beatmaps étaient fréquemment abandonnées et devaient être séparées.
 
 ### Juillet
 
@@ -66,7 +66,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) a été le premier [Leader MAT](/wiki/Modding/MAT_Leaders) du groupe. 
   - Les membres de la MAT avaient un titre violet sur les forums.
   - Le MAT s'appelait initialement "équipe de modding intermédiaire" et était composé de moddeurs établis qui n'étaient pas encore prêts à entrer dans le BAT.
-  - Les objectifs du MAT étaient de réduire la charge de travail des BAT, d'identifier les maps qui passaient entre les mailles du filet du cycle de classement et d'améliorer le contrôle de la qualité, deux problèmes urgents à l'époque. Rétrospectivement, aucun de ses objectifs n'a été pleinement réalisé.
+  - Les objectifs du MAT étaient de réduire la charge de travail des BAT, d'identifier les beatmaps qui passaient entre les mailles du filet du cycle de classement et d'améliorer le contrôle de la qualité, deux problèmes urgents à l'époque. Rétrospectivement, aucun de ses objectifs n'a été pleinement réalisé.
 
 **1400 beatmaps** ont été classées en 2009.
 
@@ -182,7 +182,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - Les QAT s'assure que les beatmaps qualifiés étaient de qualité suffisante. Les beatmaps qui ne répondaient pas aux normes de qualité étaient disqualifiées.
   - Cela a essentiellement inversé la fusion des BAT et des MAT l'année dernière.
   - La division a été mise en œuvre dans le cadre d'un essai manuel pour le [modding v2](/wiki/Beatmap_discussion) qui tente d'automatiser la promotion et la retraite des BAT.
-  - Malgré les tentatives de présenter les disqualifications comme un changement positif pour la qualité des maps, la communauté les a perçues de manière négative. Cela était particulièrement évident dans le cas de beatmaps controversées comme [disqualification on *Halozy - Genryuu Kaiko*](https://osu.ppy.sh/community/forums/posts/3591479)
+  - Malgré les tentatives de présenter les disqualifications comme un changement positif pour la qualité des beatmaps, la communauté les a perçues de manière négative. Cela était particulièrement évident dans le cas de beatmaps controversées comme [disqualification on *Halozy - Genryuu Kaiko*](https://osu.ppy.sh/community/forums/posts/3591479)
 
 ### Octobre
 
@@ -244,13 +244,13 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - Adoptant une position similaire à celle du [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate), le conseil des critères de classement comprenait des membres représentant les principaux sous-groupes de mappeurs par région. Chaque mode de jeu comptait 1 mappeur et 1 joueur des Amériques, d'Europe et d'Asie, ainsi que 2 membres des QAT.
   - L'objectif de chaque mode de jeu était de créer un critère de classement général/difficile pour leur mode respectif. osu!catch est le seul mode de jeu qui a atteint cet objectif avec ce système.
   - L'objectif collectif de ce groupe était de réécrire toutes les sections des critères généraux de classement.
-- **24/02/2016 :** Une restructuration des mapsets et des spreads a été introduite pour limiter le nombre de difficultés dans chaque niveau de difficulté par beatmap.
+- **24/02/2016 :** Une restructuration des beatmaps et des spreads a été introduite pour limiter le nombre de difficultés dans chaque niveau de difficulté par beatmap.
   - L'accueil négatif du public a entraîné son annulation immédiate et son [fil de discussion](https://osu.ppy.sh/community/forums/topics/420223) a accumulé 614 réponses en 24 heures, ce qui en fait le fil de discussion le plus rapide d'osu!
   - Cette tentative de changement antidémocratique a immédiatement valu au conseil des critères de classement une réputation négative.
 
 ### Avril
 
-- **25/04/2016 :** Le QAT a commencé à vérifier les maps qualifiées pour les problèmes *réactifs* plutôt que proactifs.
+- **25/04/2016 :** Le QAT a commencé à vérifier les beatmaps qualifiées pour les problèmes *réactifs* plutôt que proactifs.
   - Les utilisateurs ont signalés des beatmaps qualifiées au QAT pour disqualification. Les QAT ont confirmés ou infirmés les problèmes signalés dans les fils de discussion respectifs des beatmaps.
   - Ce changement a été effectué en réponse à la vision constamment négative des disqualifications par les QAT. Les QAT ont pris leurs distances par rapport aux tâches liées à l'assurance qualité à ce moment-là.
   - Les contrôles des métadonnées étaient toujours effectués de manière proactive par les QAT, dirigée par ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463).
@@ -279,7 +279,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 ### Octobre
 
 - **17/01/2016 :** La catégorie [Loved](/wiki/Beatmap/Category#loved) a été créée.
-  - Cette catégorie fournissait des classements pour les maps populaires qui ne pouvaient pas être classées pour diverses raisons.
+  - Cette catégorie fournissait des classements pour les beatmaps populaires qui ne pouvaient pas être classées pour diverses raisons.
   - *Voir [History of Loved](/wiki/Beatmap/History_of_Loved) pour une chronologie détaillée des changements du système Loved.*
 
 ### Novembre
@@ -302,10 +302,10 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 - **06/04/2017 :** Les [Beatmap Nominator Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) ont été implémentés, divisant les BN en deux sous-groupes appelés "tiers".
   - Comme le QAT ne jouait plus son rôle de contrôle de la qualité, ce système a été mis en place pour améliorer la qualité des beatmaps entrant dans la catégorie classée.
   - Ce système a imité le stade ultérieur de la [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team).
-    - Les nominateurs de niveau 1 pouvaient mettre des bubbles sur les maps.
-    - Les nominateurs de niveau 2 pouvaient mettre des bubbles et qualifier les maps..
+    - Les nominateurs de niveau 1 pouvaient mettre des bubbles sur les beatmaps.
+    - Les nominateurs de niveau 2 pouvaient mettre des bubbles et qualifier les beatmaps.
   - Les niveaux ont été déterminés par un test BN conçu pour identifier les problèmes généraux des beatmaps. Les résultats du test ont été terribles, révélant que la conception du test était défectueuse.
-  - Contrairement à ses objectifs, ce système a réduit la motivation de tous les nominateurs de niveau 1 et surchargé les quelques nominateurs de niveau 2 motivés. Les mappeurs disposaient de moins de ressources BN et le nombre total de maps classées pendant la période des niveaux a diminué.
+  - Contrairement à ses objectifs, ce système a réduit la motivation de tous les nominateurs de niveau 1 et surchargé les quelques nominateurs de niveau 2 motivés. Les mappeurs disposaient de moins de ressources BN et le nombre total de beatmaps classées pendant la période des niveaux a diminué.
   - Aucun Beatmap Nominators n'a été ajouté au 2e niveau pendant les 5 mois où ce système était actif, ce qui a considérablement ralenti la vitesse de classement.
 
 ### Mai
@@ -313,7 +313,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 - **22/05/2017 :** Le serveur Discord Beatmap Nominator a été créé pour les sous-divisions des BN.
   - Les sous-divisions ont été conçues comme des groupes de discussion composés de nominateurs sélectionnés au hasard dans les deux niveaux, dirigés par un membre de la QAT.
   - La plupart des responsables des QAT sont passés à ce serveur malgré la résistance des hauts responsables d'osu!
-- **23/05/2017 :** Le bot Discord [Aiess](/wiki/Community/Projects#miscellaneous) a été créé par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
+- **23/05/2017 :** Le bot Discord [Aiess](/wiki/Community/Projects#divers) a été créé par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
   - Il s'agit d'un flux d'événements liés aux mapping sur les serveurs Discord d'osu! en commençant par les flux de nomination et de disqualification.
 
 ### Juin
@@ -373,15 +373,15 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Juin
 
-- **21/06/2018 :** L'initiative [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#assurance-qualité) a été créée.
+- **21/06/2018 :** L'initiative [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) a été créée.
   - Cette mesure visait à garantir que tous les beatmaps qualifiés étaient examinés par au moins deux membres du BN ou de la QAT avant d'être classés.
   - Le programme a été géré via Trello et automatisé par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) via Aiess.
   - Ce changement a été l'une des principales raisons pour lesquelles le QAT a été renommé par la suite.
 
 ### Juillet
 
-- **09/07/2018 :** De nouvelles règles d'étalement des maps ont été mises en place, ce qui a complètement modifié la façon dont les difficultés sont créées dans les mapsets classés à l'avenir.
-  - Avant ce changement, toute map dont le drain time était inférieur à 5 minutes nécessitait un écart de difficulté complet. Après ce changement, les exigences en matière d'écart de difficulté étaient plus souples pour les beatmaps plus longues dont le drain time était inférieur à 5 minutes.
+- **09/07/2018 :** De nouvelles règles d'étalement des beatmaps ont été mises en place, ce qui a complètement modifié la façon dont les difficultés sont créées dans les beatmaps classés à l'avenir.
+  - Avant ce changement, toute beatmap dont le drain time était inférieur à 5 minutes nécessitait un écart de difficulté complet. Après ce changement, les exigences en matière d'écart de difficulté étaient plus souples pour les beatmaps plus longues dont le drain time était inférieur à 5 minutes.
   - *Pour plus de détails sur ce changement, lisez son [fil de discussion](https://osu.ppy.sh/community/forums/topics/726474).*
 
 ### Décembbre
@@ -393,7 +393,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 - **17/12/2018 :** La QA a été déclarée sans avenir dans son état actuel et les idées de réforme ont été encouragées.
   - Cette décision a été prise parce que la QAT n'avait pas été impliquée dans quoi que ce soit lié à l'assurance qualité depuis des années, mais un système devait exister pour maintenir les Beatmap Nominators et la communauté de mapping en général.
   - À l'époque, la QAT suscitait certaines inquiétudes :
-    - Peu d'engagement de la QAT dans les maps controversées.
+    - Peu d'engagement de la QAT dans les beatmaps controversées.
     - Accessibilité limitée pour l'entrée de nouveaux utilisateurs dans l'équipe, ce qui entraîne une stagnation.
     - Le rôle de la QAT dans la communauté de mapping n'était pas clair.
 
@@ -408,12 +408,12 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Mars
 
-- **01/03/2019 :** La [Mappers' Guild](/wiki/Community/Mappers_Guild) est passée d'une inscription sur dossier à une inscription automatique pour toute personne ayant 3 maps classées.
+- **01/03/2019 :** La [Mappers' Guild](/wiki/Community/Mappers_Guild) est passée d'une inscription sur dossier à une inscription automatique pour toute personne ayant 3 beatmaps classées.
   - Les beatmaps des [Artistes Associés](/wiki/Featured_Artists) ont été créées et classées plus fréquemment.
   - Le canal `#mappers-guild` a été créé dans le [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 - **13/03/2019 :** La règle exigeant que les nominations consécutives soient espacées d'au moins 24 heures a été supprimée.
   - Cette règle a fait l'objet d'une plainte majeure de la part des mappeurs et des Beatmap Nominators, car elle donnait l'impression de faire perdre inutilement du temps à tout le monde. Si un problème était découvert après la première nomination, le deuxième nominateur évitait souvent de le signaler pour éviter une attente supplémentaire de 24 heures.
-  - Parallèlement à ce changement, les Beatmap Nominators peuvent opposer leur veto aux beatmaps qualifiées. Cette règle existait à l'origine parce que les Beatmap Nominators avaient besoin de 24 heures pour appliquer potentiellement des vetos aux maps avec une nomination.
+  - Parallèlement à ce changement, les Beatmap Nominators peuvent opposer leur veto aux beatmaps qualifiées. Cette règle existait à l'origine parce que les Beatmap Nominators avaient besoin de 24 heures pour appliquer potentiellement des vetos aux beatmaps avec une nomination.
 
 ### Mai
 
@@ -447,7 +447,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - Ils avaient été prévues à l'origine lors du bouleversement de la QAT deux ans auparavant.
 - **21/02/2020 :**  La direction de la NAT en tant que concept a été abandonnée lorsque ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) a quitté la direction du NAT.
   - Les tâches spécifiques aux leaders de la NAT ont été déléguées à l'ensemble de l'équipe.
-- **24/02/2020 :** Le système [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#assurance-qualité) a été transféré de Trello au [Beatmap Nominator website](https://bn.mappersguild.com/).
+- **24/02/2020 :** Le système [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) a été transféré de Trello au [Beatmap Nominator website](https://bn.mappersguild.com/).
   - Ce changement a été effectué pour tenir compte de l'activité d'assurance qualité dans les évaluations des Beatmap Nominators.
 
 ### Avril
@@ -468,7 +468,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 ### Novembre
 
 - **30/11/2020 :** Les beatmaps hybrides ont été retravaillées pour nécessiter 2 nominations par mode de jeu.
-  - Les nominateurs compétents dans plusieurs modes de jeu peuvent sélectionner un ou plusieurs modes de jeu à nommer sur les mapsets applicables.
+  - Les nominateurs compétents dans plusieurs modes de jeu peuvent sélectionner un ou plusieurs modes de jeu à nommer sur les beatmaps applicables.
 
 ### Décembre
 
@@ -480,8 +480,8 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Janvier
 
-- **05/01/2021 :** L'étiquette `Explicit` pour les beatmaps a été implémentée pour nettoyer le contenu inapproprié des anciens classements et autoriser le contenu de chansons auparavant inacceptables.
-  - Cette modification ne s'applique pas au contenu visuel des maps en attente. Ceux-ci continuent de suivre les [Considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations).
+- **05/01/2021 :** L'étiquette `Explicit` pour les beatmaps a été implémentée pour nettoyer le contenu inapproprié des anciens classements et autoriser le contenu de musiques auparavant inacceptables.
+  - Cette modification ne s'applique pas au contenu visuel des beatmaps en attente. Ceux-ci continuent de suivre les [Considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations).
 - **30/01/2021 :** Le canal de discussion en jeu `#modhelp` a été remplacé par `#mapping` car le canal original était principalement utilisé pour les discussions sur le mapping.
 
 ### Mars
@@ -491,7 +491,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - Tous les candidats doivent se soumettre à la candidature, mais les membres du groupe qui reviennent bénéficient d'un délai d'attente plus court et sont autorisés à fournir 1 à 2 mois d'activité de modding au lieu de la norme précédente de 3 mois.
 - **16/03/2021 :** Les Beatmap Nominators ont reçu un renouvellement automatique de leur tag osu!supporter.
   - Ce changement a été effectué en réponse à un manque de récompense pour les membres dévoués de la scène de mapping.
-- **16/03/2021 :** La limite de maps classées par jour et par mode a été augmentée de 8 à 10 afin de compenser le débordement de la catégorie "Qualified beatmaps".
+- **16/03/2021 :** La limite de beatmaps classées par jour et par mode a été augmentée de 8 à 10 afin de compenser le débordement de la catégorie "Qualified beatmaps".
 
 ### Avril
 
@@ -505,7 +505,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - Un sous-ensemble de Beatmap Nominators s'est vu confier des rôles d'évaluation équivalents à ceux de la NAT, ce qui leur a permis de contribuer et de décider des résultats des demandes de BN et des évaluations actuelles des BN.
   - Le premier lot de membres d'essai comprenait ~10 utilisateurs, tandis que le deuxième lot comprenait ~20 utilisateurs.
 - **13/05/2021 :** Une option permettant de changer le propriétaire de la difficulté a été ajoutée à la page de discussion des beatmaps.
-  - Cela a permis aux créateurs de guest difficulties de résoudre les problèmes sur leurs beatmaps. Avant ce changement, seul l'hôte du mapset pouvait résoudre les problèmes, ce qui constituait une frustration majeure pour les mappeurs.
+  - Cela a permis aux créateurs de guest difficulties de résoudre les problèmes sur leurs beatmaps. Avant ce changement, seul l'hôte de la beatmap pouvait résoudre les problèmes, ce qui constituait une frustration majeure pour les mappeurs.
 
 ### Juin
 
@@ -521,7 +521,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
   - Les membres de la communauté de mapping n'étaient pas satisfaits de l'absence de débat public derrière ce changement et ont par la suite procédé à des adaptations pour combler de nouvelles lacunes.
 - **18/09/2021 :** Après une interruption de dix ans, les osu! community meetings ont repris sous la forme de discussions vocales sur le Discord osu!dev. Le premier sujet abordé a été [les préoccupations concernant les critères de classement d'osu!mania](https://osu.ppy.sh/community/forums/topics/1388182?n=1), ainsi que d'autres questions comme la complexité générale des critères de classement, l'engagement avec les nouveaux mappeurs, et plus encore.
   - Les changements de critères concernant le classement d'osu!mania ont été soumis à la discussion et, s'ils sont acceptés, ils pourraient entrer en vigueur bientôt.
-- **24/09/2021:** Les [Contrôles d'assurance qualité](/wiki/People/The_Team/Beatmap_Nominators/General_Information#assurance-qualité) ne sont plus comptabilisés dans l'activité des Beatmap Nominators.
+- **24/09/2021:** Les [Contrôles d'assurance qualité](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) ne sont plus comptabilisés dans l'activité des Beatmap Nominators.
   - Cette mesure a été mise en place parce qu'il semblait que certains utilisateurs l'utilisaient comme une échappatoire pour éviter de contribuer activement en tant que Beatmap Nominator.
   - Avant ce changement, chaque contrôle qualité était considéré comme égal à 1/4 d'une nomination.
 

@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT5 logo](img/logo.jpg)
 
-The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination 1v1 osu! tournament hosted by ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846). The tournament is open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Philippines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It is the 5th instalment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 5** (***oSEAT5***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846). The tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Philippines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It was the fifth instalment of the osu! South East Asia Tournament.
 
 ## Tournament schedule
 
@@ -19,13 +19,13 @@ The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination
 | Qualifiers | 2021-11-21/2021-11-28 |
 | Preliminary groups | 2021-11-29/2021-12-05 |
 | Round of 64 | 2021-12-06/2021-12-12 |
-| Round of 32 | 2021-12-13/2020-12-19 |
+| Round of 32 | 2021-12-13/2021-12-19 |
 | Round of 16 | 2020-12-20/2021-12-26 |
 | *Holiday break* | 2021-12-27/2022-01-02 |
 | Quarterfinals | 2022-01-03/2022-01-09 |
 | Semifinals | 2022-01-10/2022-01-16 |
-| Finals week 1 | 2022-01-17/2022-01-23 |
-| Finals week 2 | 2022-01-24/2021-01-30 |
+| Finals (week 1) | 2022-01-17/2022-01-23 |
+| Finals (week 2) | 2022-01-24/2022-01-30 |
 
 ## Prizes
 
@@ -37,9 +37,11 @@ The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination
 | *4th place* | 2 months of osu!supporter |
 | *5th place* | 1 month of osu!supporter |
 
+![](img/badge.png "oSEAT5 winner badge")
+
 ## Organisation
 
-oSEAT5 is run by various osu! community members predominantly hailing from various South East Asian countries.
+oSEAT5 was run by various osu! community members predominantly hailing from various South East Asian countries.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -63,7 +65,7 @@ oSEAT5 is run by various osu! community members predominantly hailing from vario
 
 ## Participants
 
-Listed below are players who qualified into the Preliminary groups (along with their respective bracket, seeding, and group placements) out of 176 registered players in total.
+Listed below are the players who managed to qualify into the Preliminary groups (along with their respective bracket, seeding, and group placements) out of 176 registered players in total.
 
 - *Upper bracket:*
 
@@ -103,7 +105,79 @@ Listed below are players who qualified into the Preliminary groups (along with t
 
 ² *Despite having the ![][flag_JP] Japanese flag on their profile, [ZHKPN](https://osu.ppy.sh/users/13042221) is eligible to participate in the tournament as they are a citizen of ![][flag_PH] The Philippines living abroad.*
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [NathanRammu2044](https://osu.ppy.sh/users/8472976) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SG] [Tebi](https://osu.ppy.sh/users/5407620) |
+
 ## Mappools
+
+### Finals (week 2)
+
+**[Download the mappack here! (185 MB)](https://drive.google.com/u/0/uc?id=1sveB_3TPuXj7_oJNIFs-GkCmwOQIs_Pa&export=download)**
+
+- NoMod
+  1. [ELFENSJoN - ASH OF ROUGE (Xayah) \[pog\]](https://osu.ppy.sh/beatmapsets/1471010#osu/3019994)
+  2. [UNDEAD CORPORATION - The silent world (Aeril) \[Armageddon\]](https://osu.ppy.sh/beatmapsets/1581330#osu/3229017)
+  3. [TOMOSUKE - Macuilxochitl (Raijodo) \[Flower (phox's CS4 Edit)\]](https://osu.ppy.sh/beatmapsets/1683090#osu/3438884)
+  4. [Silentroom - NULCTRL (factal Remix) (Xarr) \[fluid\]](https://osu.ppy.sh/beatmapsets/1256524#osu/2611132)
+  5. [Spire - Somnambulism (verychill) \[LMT's Lucid Nightmare\]](https://osu.ppy.sh/beatmapsets/1171893#osu/3120531)
+  6. [tarolabo - eth ken (ktgster) \[Extreme (phox's AR9 Edit)\]](https://osu.ppy.sh/beatmapsets/1683088#osu/3438882)  
+- Hidden
+  1. [Yorushika - Walk (Ryuusei Aika) \[Whitening Memory, Catchpenny Pattern and You\]](https://osu.ppy.sh/beatmapsets/1518479#osu/3108320)
+  2. [void (Mournfinale) - World Vanquisher (Deppyforce) \[De-structurization\]](https://osu.ppy.sh/beatmapsets/1683078#osu/3438866)
+  3. [Kijibato - w/WWW feat. Hoshimiya Toto (-Tynamo) \[Endless\]](https://osu.ppy.sh/beatmapsets/1329408#osu/2753990)
+  4. [DJ Myosuke - Behemoth (Mazzerin) \[D357RUC710N\]](https://osu.ppy.sh/beatmapsets/1612153#osu/3291477)
+- HardRock
+  1. [EPICA - The Cosmic Algorithm (Mordred) \[anime map\]](https://osu.ppy.sh/beatmapsets/1479445#osu/3035067)
+  2. [Otokaze - SaiGetsu (Cut Ver.) (Yusomi) \[Years\]](https://osu.ppy.sh/beatmapsets/746240#osu/1572866)
+  3. [Given - Fuyu no Hanashi (Yudragen) \[All that you've left behind, has become my everything\]](https://osu.ppy.sh/beatmapsets/1401056#osu/2890370)
+  4. [ClariS - Hitorigoto (TV Size) (Net0) \[Faito's Expert\]](https://osu.ppy.sh/beatmapsets/1292749#osu/2688323)
+- DoubleTime
+  1. [LazuLight - Diamond City Lights (\[ TNTlealu \]) \[Rainbow\]](https://osu.ppy.sh/beatmapsets/1464031#osu/3017567)
+  2. [-45 - System Sun (Lasse) \[Insane (Flask's 1.12x (170bpm) Edit)\]](https://osu.ppy.sh/beatmapsets/1658007#osu/3384275)
+  3. [Denkishiki Karen Ongaku Shuudan - Aoki Kotou no Anguis (OliBomby) \[TheBlank's Insane\]](https://osu.ppy.sh/beatmapsets/989342#osu/2069602)
+  4. [Hatsune Miku - With a Dance Number (val0108) \[0108 style\]](https://osu.ppy.sh/beatmapsets/29691#osu/98415)
+- FreeMod
+  1. [USAO - Hastur (Extended Mix) (Regou) \[Anomaly\]](https://osu.ppy.sh/beatmapsets/1313256#osu/2721644)
+  2. [Utah Saints - Something Good '08 (Radio Edit) (xDololow) \[Running Child\]](https://osu.ppy.sh/beatmapsets/456463#osu/2194972)
+  3. [xi - Blue Zenith (Asphyxia) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/292301#osu/658127)
+
+### Finals (week 1)
+
+**[Download the mappack here! (172 MB)](https://drive.google.com/u/0/uc?id=182y2MbubZEM0g5WCiEWX1wOgdCvL5btH&export=download)**
+
+- NoMod
+  1. [RAISE A SUILEN - HELL! or HELL? (Strategas) \[RAS\]](https://osu.ppy.sh/beatmapsets/1251944#osu/2602090)
+  2. [Hino Isuka - Dreamin' attraction!! (My Angel Watame) \[Hellish Attraction!! (Nerf)\]](https://osu.ppy.sh/beatmapsets/1181405#osu/3420222)
+  3. [siromaru + cranky - conflict (yf\_bmp) \[Intersection\]](https://osu.ppy.sh/beatmapsets/1212359#osu/3107406)
+  4. [Billain - Codename (winber1) \[\_.\]](https://osu.ppy.sh/beatmapsets/1495814#osu/3066436)
+  5. [Cattle Decapitation - Your Disposal (Chanci) \[Eradication\]](https://osu.ppy.sh/beatmapsets/988109#osu/2207855)
+  6. [Nekomata Master - Life is beautiful (DeviousPanda) \[Extravaganza (Tournament Ver.)\]](https://osu.ppy.sh/beatmapsets/1570515#osu/3207016)  
+- Hidden
+  1. [bbno$ & Rich Brian - edamame (PotatoDew) \[nerf\]](https://osu.ppy.sh/beatmapsets/1589180#osu/3245938)
+  2. [Alstroemeria Records feat. ayame - SACRIFICE (Original Mix) (Nuvolina) \[Extra\]](https://osu.ppy.sh/beatmapsets/1161525#osu/2423227)
+  3. [IOSYS - Kanbu de Tomatte Sugu Tokeru ~ Kyouki no Udongein (eiri-) \[ExGon & Len's Classic Extra\]](https://osu.ppy.sh/beatmapsets/1442363#osu/3121361)
+  4. [A-One feat. ayaponzu\* - Justice Monster (Chizu-Kun) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1513750#osu/3099250)
+- HardRock
+  1. [Hoshimachi Suisei - Jibunkatte Dazzling (-Atri-) \[Ji Ba vtuber Tu\]](https://osu.ppy.sh/beatmapsets/1565297#osu/3196416)
+  2. [Natsuiro Burning Love\*Prim - Sore wa Hanabi no Youna Koi (Yooh) \[Fragile Love\]](https://osu.ppy.sh/beatmapsets/1419210#osu/2923717)
+  3. [Sanxion7 - Gargoyle (2009 version) (Down) \[Emerald\]](https://osu.ppy.sh/beatmapsets/1373720#osu/2839980)
+  4. [Michael Jackson - Smooth Criminal (FailureAtOsu) \[Crescendo\]](https://osu.ppy.sh/beatmapsets/1297771#osu/2692157)
+- DoubleTime
+  1. [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) \[Catharsis\]](https://osu.ppy.sh/beatmapsets/562169#osu/1188549)
+  2. [Sano Denji - Taiko Time (Flask) \[SEAT5 Time\]](https://osu.ppy.sh/beatmapsets/1536761#osu/3428157)
+  3. [UNDEAD CORPORATION - Murasa (MaridiuS) \[Seni's Lunatic\]](https://osu.ppy.sh/beatmapsets/1280200#osu/3257630)
+  4. [Black Eyed Peas - Boom Boom Pow (mrowswares) \[Ultra\]](https://osu.ppy.sh/beatmapsets/1263837#osu/2626918)
+- FreeMod
+  1. [96Neko feat. Kogeinu - Akatsuki Arrival (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/1529859#osu/3129297)
+  2. [SEPHID - The Public Parallel (Camo) \[Master\]](https://osu.ppy.sh/beatmapsets/1627418#osu/3322445)
+  3. [Hakui Koyori - "Hmm,Ah,Ah." (Deppyforce) \[x.x\]](https://osu.ppy.sh/beatmapsets/1662519#osu/3393912)
 
 ### Semifinals
 
@@ -314,6 +388,66 @@ Listed below are players who qualified into the Preliminary groups (along with t
 
 ## Match results
 
+### Finals (week 2)
+
+Saturday, 29 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Tebi](https://osu.ppy.sh/users/5407620) ![][flag_SG] | 3 | **8** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/97130133) |
+
+Wednesday, 2 February 2022, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | [NathanRammu2044](https://osu.ppy.sh/users/8472976) ![][flag_PH] | 6 | **9** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/97293572) |
+
+### Finals (week 1)
+
+Saturday, 22 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Rexeez](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **8** | 3 | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) | [#1](https://osu.ppy.sh/community/matches/96834092) |
+| Lower | [Crezz](https://osu.ppy.sh/users/7108275) ![][flag_ID] | 5 | **8** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/96833378) |
+
+Sunday, 23 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **8** | 4 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/96881059) |
+
+Monday, 24 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Tebi](https://osu.ppy.sh/users/5407620) ![][flag_SG] | 2 | **8** | ![][flag_PH] **[NathanRammu2044](https://osu.ppy.sh/users/8472976)** | [#1](https://osu.ppy.sh/community/matches/96927354) |
+
+### Semifinals
+
+Saturday, 15 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **7** | 2 | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | [#1](https://osu.ppy.sh/community/matches/96531102) |
+| Lower | [Tzero](https://osu.ppy.sh/users/6088976) ![][flag_MY] | 5 | **7** | ![][flag_PH] **[Rammu](https://osu.ppy.sh/users/10652837)** | [#1](https://osu.ppy.sh/community/matches/96538636) |
+| Upper | **[Tebi](https://osu.ppy.sh/users/5407620)** ![][flag_SG] | **7** | 6 | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | [#1](https://osu.ppy.sh/community/matches/96538734) |
+| Lower | **[Dawnwing](https://osu.ppy.sh/users/5144534)** ![][flag_SG] | **7** | 0 | ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609) | *win by default* |
+
+Sunday, 16 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[NathanRammu2044](https://osu.ppy.sh/users/8472976)** ![][flag_PH] | **7** | 5 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/96590552) |
+| Lower | [Eagle5324](https://osu.ppy.sh/users/11987104) ![][flag_SG] | 2 | **7** | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/96544511) |
+| Lower | [Dawnwing](https://osu.ppy.sh/users/5144534) ![][flag_SG] | 2 | **7** | ![][flag_PH] **[Rammu](https://osu.ppy.sh/users/10652837)** | [#1](https://osu.ppy.sh/community/matches/96587915) |
+
+Monday, 17 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **7** | 4 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/96572076) |
+
 ### Quarterfinals
 
 Saturday, 8 January 2022:
@@ -507,7 +641,7 @@ Saturday, 25 December 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Hecatia](https://osu.ppy.sh/users/8244635) ![][flag_SG] | 5 | **6** | ![][flag_SG] **[Houshou Marine](https://osu.ppy.sh/users/6402211)** | [#1](https://osu.ppy.sh/community/matches/95671535) |
+| Lower | [Hecatia](https://osu.ppy.sh/users/8244635) ![][flag_SG] | 5 | **6** | ![][flag_MY] **[Houshou Marine](https://osu.ppy.sh/users/6402211)** | [#1](https://osu.ppy.sh/community/matches/95671535) |
 
 Sunday, 26 December 2021:
 

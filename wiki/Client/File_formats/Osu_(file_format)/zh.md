@@ -141,7 +141,7 @@
 
 时间点有两个额外效果，可以在 `effects` 整数中使用0和3数位（从最低到最高）进行切换:
 
-- 0：是否为[kiai时间](/wiki/Kiai_time) 
+- 0：是否为[kiai时间](/wiki/Gameplay/Kiai_time) 
 - 3：在osu!taiko与osu!mania模式中是否忽略第一条线
 
 其余位未使用。

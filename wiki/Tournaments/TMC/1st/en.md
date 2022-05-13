@@ -7,7 +7,7 @@ tags:
 
 ![TMC 1st logo](img/logo.png)
 
-The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!mania 4K tournament hosted by ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501). The tournament features a variety of maps related to the Touhou Project. It is the first instalment of the Touhou Project Mania Cup.
+The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!mania 4K tournament hosted by ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501). The tournament features a variety of maps related to the Touhou Project. It is the first instalment of the Touhou Project Mania Cup.
 
 ## Tournament schedule
 
@@ -37,10 +37,10 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501) |
+| Host | ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
 | Co-host | ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_CN] [cdwcgt](https://osu.ppy.sh/users/14721101) |
-| Map selector | ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501), ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_CN] [YuEast 2018](https://osu.ppy.sh/users/13953619) |
-| Streamer & Referee | ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741), ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501), ![][flag_CN] [Tigerest](https://osu.ppy.sh/users/10896564), ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319), ![][flag_CN] [cdwcgt](https://osu.ppy.sh/users/14721101) |
+| Map selector | ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_CN] [YuEast 2018](https://osu.ppy.sh/users/13953619) |
+| Streamer & Referee | ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [Tigerest](https://osu.ppy.sh/users/10896564), ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319), ![][flag_CN] [cdwcgt](https://osu.ppy.sh/users/14721101) |
 | Commentator | ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_CN] [Tigerest](https://osu.ppy.sh/users/10896564), ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) |
 | Designer | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) |
 | Wiki | ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [cdwcgt](https://osu.ppy.sh/users/14721101) |
@@ -53,7 +53,7 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 - [Challonge](https://challonge.com/zh_CN/TMC1st)
 - [Mappool recommendation](https://forms.gle/vD28kudECmMqppyw9)
 - Livestream
-  - [Tamaki Iroha](https://live.bilibili.com/4353181)
+  - [\[GB\]Sanae](https://live.bilibili.com/4353181)
   - [kj415j45](https://okinawa.loli.land/live)
   - [aiyulu](https://live.bilibili.com/10183)
   - [Tigerest](https://live.bilibili.com/869246)

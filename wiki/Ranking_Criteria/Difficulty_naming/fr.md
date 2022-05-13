@@ -42,7 +42,7 @@ Ces noms de difficulté sont les plus couramment utilisés pour chaque mode de j
 
 ## Noms des difficultés d'autres jeux
 
-Les beatmaps de musiques provenant d'autres jeux de rythme empruntent souvent le système de dénomination des difficultés de ces jeux. L'utilisation de ces noms de difficulté est acceptable pour n'importe quelle chanson. Vous trouverez ici une liste des noms de difficulté les plus courants qui ont été utilisés dans osu! :
+Les beatmaps de musiques provenant d'autres jeux de rythme empruntent souvent le système de dénomination des difficultés de ces jeux. L'utilisation de ces noms de difficulté est acceptable pour n'importe quelle musique. Vous trouverez ici une liste des noms de difficulté les plus courants qui ont été utilisés dans osu! :
 
 ### Beatmania IIDX
 
@@ -119,6 +119,11 @@ Les beatmaps de musiques provenant d'autres jeux de rythme empruntent souvent le
 - ![](/wiki/shared/diff/expert-o.png) MAXIMUM / MXM
 - ![](/wiki/shared/diff/expertplus-o.png) VIVID / VVD
 
+#### SOUND VOLTEX EXCEED GEAR
+
+- ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
+
 ### Arcaea
 
 - ![](/wiki/shared/diff/normal-o.png) Past
@@ -163,6 +168,7 @@ Les beatmaps de musiques provenant d'autres jeux de rythme empruntent souvent le
 #### Cytus
 
 - ![](/wiki/shared/diff/expert-o.png) Chaos
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Glitch / Crash
 
 #### Deemo
 

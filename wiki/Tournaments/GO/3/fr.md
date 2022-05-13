@@ -15,16 +15,16 @@ Le **Game_Osu Tourney 3** (***GO 3***) était un tournoi international 1v1 sur o
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2019-02-16/2019-03-04 |
-| Tirage au sort en direct | 2019-03-04 (20:00 UTC) |
-| Qualifications | 2019-03-09/2019-03-10 |
-| 32èmes de finale | 2019-03-22/2019-03-24 |
-| 16èmes de finale | 2019-03-27/2019-04-01 |
-| 8èmes de finale | 2019-04-04/2019-04-08 |
-| Quarts-de-finale | 2019-04-11/2019-04-15 |
-| Demi-finales | 2019-04-19/2019-04-24 |
-| Finales | 2019-04-27/2019-05-06 |
-| Grandes Finales | 2019-04-28 |
+| Phase d'inscription | 16/02/2019 - 04/03/2019 |
+| Tirage au sort en direct | 04/03/2019 (20:00 UTC) |
+| Qualifications | 09/03/2019 - 10/03/2019 |
+| 32èmes de finale | 22/03/2019 - 24/03/2019 |
+| 16èmes de finale | 27/03/2019 - 01/04/2019 |
+| 8èmes de finale | 04/04/2019 - 08/04/2019 |
+| Quarts-de-finale | 11/04/2019 - 15/04/2019 |
+| Demi-finales | 19/04/2019 - 24/04/2019 |
+| Finales | 27/04/2019 - 06/05/2019 |
+| Grandes Finales | 28/04/2019 |
 
 ## Récompenses
 
@@ -44,7 +44,7 @@ La Game_Osu Tourney 3 était gérée par différents membres de la communauté, 
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824) |
 | Administrateurs | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kynan](https://osu.ppy.sh/users/1093361), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Sélectionneur de map | ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Dj Takaa](https://osu.ppy.sh/users/9183130), ![][flag_FR] [Ayzer](https://osu.ppy.sh/users/6123512), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586), ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) |
+| Sélectionneur de beatmap | ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Dj Takaa](https://osu.ppy.sh/users/9183130), ![][flag_FR] [Ayzer](https://osu.ppy.sh/users/6123512), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586), ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) |
 | Designer | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) |
 | Streamers | ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_CA] [kymotsujason](https://osu.ppy.sh/users/2541804), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) |
 | Commentateurs | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987), ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kynan](https://osu.ppy.sh/users/1093361), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [IIFirenII](https://osu.ppy.sh/users/1984236), ![][flag_FR] [Battquif](https://osu.ppy.sh/users/2389333), ![][flag_FR] [Elysion](https://osu.ppy.sh/users/106269), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_US] [BossG4m3r](https://osu.ppy.sh/users/7677585), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955) |
@@ -151,7 +151,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | *4ème place* | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
 | *5ème place* | ![][flag_HK] [DenierNezzar](https://osu.ppy.sh/users/126144) |
 
-## Liste des maps
+## Liste des beatmaps
 
 ### Finales
 
@@ -363,57 +363,57 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Grandes Finales
 
-| Dimanche, 2019-04-28 |  |  |  |  |
+| Dimanche, 28/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Bubbleman ![][flag_GB] | 5 | **7** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51375022) |
 | **Vaxei** ![][flag_US] | **7** | 4 | ![][flag_GB] Bubbleman | [#1](https://osu.ppy.sh/community/matches/51376894) |
 
 ### Finales
 
-| Samedi, 2019-04-27 |  |  |  |  |
+| Samedi, 27/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | DenierNezzar ![][flag_HK] | 5 | **7** | ![][flag_FR] **Musty** | [#1](https://osu.ppy.sh/community/matches/51336254) |
 | **Bubbleman** ![][flag_GB] | **7** | 6 | ![][flag_US] idke | [#1](https://osu.ppy.sh/community/matches/51340598) |
 | WubWoofWolf ![][flag_PL] | 3 | **7** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51345216) |
 | **Vaxei** ![][flag_US] | **7** | 0 | ![][flag_FR] Musty | [#1](https://osu.ppy.sh/community/matches/51347082) |
 
-| Dimanche, 2019-04-28 |  |  |  |  |
+| Dimanche, 28/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | idke ![][flag_US] | 3 | **7** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51371651) |
 
-| Lundi, 2019-05-06 |  |  |  |  |
+| Lundi, 06/05/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | WubWoofWolf ![][flag_PL] | 0 | **7** | ![][flag_HK] **DenierNezzar** | -win by default- |
 
 ### Demi-finales
 
-| Vendredi, 2019-04-19 |  |  |  |  |
+| Vendredi, 19/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Koba ![][flag_IT] | 3 | **6** | ![][flag_US] **Apraxia** | [#1](https://osu.ppy.sh/community/matches/51131272) |
 
-| Samedi, 2019-04-20 |  |  |  |  |
+| Samedi, 20/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **WalkingTuna** ![][flag_KR] | **6** | 5 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/51155889) |
 | **Musty** ![][flag_FR] | **6** | 2 | ![][flag_FR] NerO | [#1](https://osu.ppy.sh/community/matches/51159057) |
 
-| Dimanche, 2019-04-21 |  |  |  |  |
+| Dimanche, 21/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | DigitalHypno ![][flag_US] | 0 | **6** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51170756) |
 | **idke** ![][flag_US] | **6** | 1 | ![][flag_HK] DenierNezzar | [#1](https://osu.ppy.sh/community/matches/51172579) |
 | WalkingTuna ![][flag_KR] | 0 | **6** | ![][flag_FR] **Musty** | -win by default- |
 | Apraxia ![][flag_US] | 2 | **6** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51193033) |
 
-| Mercredi, 2019-04-24 |  |  |  |  |
+| Mercredi, 24/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | WubWoofWolf ![][flag_PL] | 5 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/51261158) |
 
 ### Quarts-de-finale
 
-| Mardi, 2019-04-11 |  |  |  |  |
+| Mardi, 11/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | WalkingTuna ![][flag_KR] | 2 | **6** | ![][flag_PL] **WubWoofWolf** | [#1](https://osu.ppy.sh/community/matches/50914466) |
 
-| Samedi, 2019-04-13 |  |  |  |  |
+| Samedi, 13/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Apraxia** ![][flag_US] | **6** | 3 | ![][flag_RO] Chamosiala | [#1](https://osu.ppy.sh/community/matches/50972880) |
 | trev rasher ![][flag_CA] | 0 | **6** | ![][flag_PL] **Mastasz** | -win by default- |
@@ -423,7 +423,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **MrBooM** ![][flag_PL] | **6** | 0 | ![][flag_FR] ThePooN | -win by default- |
 | **RyuK** ![][flag_CA] | **6** | 0 | ![][flag_SG] Demonical | -win by default- |
 
-| Dimanche, 2019-04-14 |  |  |  |  |
+| Dimanche, 14/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | DigitalHypno ![][flag_US] | 2 | **6** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50997691) |
 | -raizen- ![][flag_FR] | 1 | **6** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50999328) |
@@ -433,23 +433,23 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **idke** ![][flag_US] | **6** | 0 | ![][flag_IT] Koba | [#1](https://osu.ppy.sh/community/matches/51007580) |
 | Mastasz ![][flag_PL] | 0 | **6** | ![][flag_US] **Apraxia** | [#1](https://osu.ppy.sh/community/matches/51007543) |
 
-| Lundi, 2019-04-15 |  |  |  |  |
+| Lundi, 15/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | -Roxas ![][flag_GB] | 5 | **6** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/51031676) |
 
 ### 8èmes de finale
 
-| Jeudi, 2019-04-04 |  |  |  |  |
+| Jeudi, 04/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Apraxia ![][flag_US] | 3 | **5** | ![][flag_FR] **Musty** | [#1](https://osu.ppy.sh/community/matches/50754987) |
 
-| Vendredi, 2019-04-05 |  |  |  |  |
+| Vendredi, 05/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Vaxei ![][flag_US] | 3 | **5** | ![][flag_PL] **WubWoofWolf** | [#1](https://osu.ppy.sh/community/matches/50771250) |
 | -Roxas ![][flag_GB] | 3 | **5** | ![][flag_IT] **Koba** | [#1](https://osu.ppy.sh/community/matches/50772551) |
 | fieryrage ![][flag_US] | 1 | **5** | ![][flag_NL] **Viveliam** | [#1](https://osu.ppy.sh/community/matches/50776297) |
 
-| Samedi, 2019-04-06 |  |  |  |  |
+| Samedi, 06/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Varvalian** ![][flag_JP] | **5** | 0 | ![][flag_PR] Unexpected | [#1](https://osu.ppy.sh/community/matches/50786166) |
 | Ansol ![][flag_KR] | 3 | **5** | ![][flag_MY] **Rampax** | [#1](https://osu.ppy.sh/community/matches/50790357) |
@@ -466,7 +466,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **Rafis** ![][flag_PL] | **5** | 3 | ![][flag_US] lain | [#1](https://osu.ppy.sh/community/matches/50804752) |
 | **Aden** ![][flag_RU] | **5** | 2 | ![][flag_US] Mathyu | [#1](https://osu.ppy.sh/community/matches/50808975) |
 
-| Dimanche, 2019-04-07 |  |  |  |  |
+| Dimanche, 07/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | RyuK ![][flag_CA] | 2 | **5** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50819331) |
 | **DigitalHypno** ![][flag_US] | **5** | 4 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/50827776) |
@@ -482,22 +482,22 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | Viveliam ![][flag_NL] | 4 | **5** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50838354) |
 | **idke** ![][flag_US] | **5** | 0 | ![][flag_FR] -raizen- | [#1](https://osu.ppy.sh/community/matches/50839786) |
 
-| Lundi, 2019-04-08 |  |  |  |  |
+| Lundi, 08/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Mastasz** ![][flag_PL] | **5** | 0 | ![][flag_GB] Spare | [#1](https://osu.ppy.sh/community/matches/50854223) |
 
 ### 16èmes de finale
 
-| Mercredi, 2019-03-27 |  |  |  |  |
+| Mercredi, 27/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Spare ![][flag_GB] | 4 | **5** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50567799) |
 
-| Vendredi, 2019-03-29 |  |  |  |  |
+| Vendredi, 29/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Varvalian ![][flag_JP] | 4 | **5** | ![][flag_IT] **Koba** | [#1](https://osu.ppy.sh/community/matches/50607754) |
 | not very smart ![][flag_US] | 2 | **5** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50616124) |
 
-| Samedi, 2019-03-30 |  |  |  |  |
+| Samedi, 30/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_SG] Demonical | [#1](https://osu.ppy.sh/community/matches/50636598) |
 | **FlyingTuna** ![][flag_KR] | **5** | 1 | ![][flag_US] fieryrage | [#1](https://osu.ppy.sh/community/matches/50638810) |
@@ -512,7 +512,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **RyuK** ![][flag_CA] | **5** | 2 | ![][flag_PL] Mastasz | [#1](https://osu.ppy.sh/community/matches/50648948) |
 | **Doomsday** ![][flag_GB] | **5** | 1 | ![][flag_US] he rack | [#1](https://osu.ppy.sh/community/matches/50649378) |
 
-| Dimanche, 2019-03-31 |  |  |  |  |
+| Dimanche, 31/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Apraxia** ![][flag_US] | **5** | 4 | ![][flag_AU] Jordan The Bear | [#1](https://osu.ppy.sh/community/matches/50655862) |
 | nickerdead3 ![][flag_AU] | 4 | **5** | ![][flag_US] **Mathyu** | [#1](https://osu.ppy.sh/community/matches/50657460) |
@@ -530,17 +530,17 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **Lilily** ![][flag_NL] | **5** | 0 | ![][flag_US] Im a fancy lad | -win by default- |
 | **lain** ![][flag_US] | **5** | 2 | ![][flag_US] kablaze | [#1](https://osu.ppy.sh/community/matches/50678470) |
 
-| Lundi, 2019-04-01 |  |  |  |  |
+| Lundi, 01/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **WubWoofWolf** ![][flag_PL] | **5** | 1 | ![][flag_IL] Xilver15 | [#1](https://osu.ppy.sh/community/matches/50690504) |
 
 ### 32èmes de finale
 
-| Vendredi, 2019-03-22 |  |  |  |  |
+| Vendredi, 22/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ![][flag_FR] | **4** | 1 | ![][flag_GR] Riven | [#1](https://osu.ppy.sh/community/matches/50446144) |
 
-| Samedi, 2019-03-23 |  |  |  |  |
+| Samedi, 23/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **DigitalHypno** ![][flag_US] | **4** | 3 | ![][flag_US] Tj7223 | [#1](https://osu.ppy.sh/community/matches/50460840) |
 | **RyuK** ![][flag_CA] | **4** | 0 | ![][flag_US] not very smart | [#1](https://osu.ppy.sh/community/matches/50461471) |
@@ -567,7 +567,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | GladiOol ![][flag_NL] | 1 | **4** | ![][flag_US] **fieryrage** | [#1](https://osu.ppy.sh/community/matches/50481010) |
 | **Apraxia** ![][flag_US] | **4** | 1 | ![][flag_AU] GranDSenpai | [#1](https://osu.ppy.sh/community/matches/50484488) |
 
-| Dimanche, 2019-03-24 |  |  |  |  |
+| Dimanche, 24/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Unexpected ![][flag_PR] | 3 | **4** | ![][flag_AU] **Jordan The Bear** | [#1](https://osu.ppy.sh/community/matches/50489515) |
 | **Vaxei** ![][flag_US] | **4** | 0 | ![][flag_ID] Rexeez | [#1](https://osu.ppy.sh/community/matches/50491738) |
@@ -589,17 +589,17 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 6. Seulement le **top 128 des inscrits basé sur le [BWS Rank](https://pastebin.com/3QSaGdkE)** à la fin de la période d’inscriptions sera autorisé à participer.
 7. Pour pouvoir vous inscrire, vous devez être au moins **#10,000** global.
 8. La participation au tournoi est **prohibée** à tous les [membres du staff](https://www.gameosu.com/staff) (*à l’exception des casters*).
-9. Les map-pools seront révélés à la fin de chaque semaine les dimanches sur la [chaîne Twitch du Game\_Osu](https://www.twitch.tv/gameosu). Rendez-vous sur le site internet dans l’onglet “Planning” pour en apprendre plus sur l’agenda du tournoi. Servez vous de l’onglet “Mappool” pour y récupérer les maps après leur annonce.
+9. Les beatmap-pools seront révélés à la fin de chaque semaine les dimanches sur la [chaîne Twitch du Game\_Osu](https://www.twitch.tv/gameosu). Rendez-vous sur le site internet dans l’onglet “Planning” pour en apprendre plus sur l’agenda du tournoi. Servez vous de l’onglet “Mappool” pour y récupérer les beatmaps après leur annonce.
 
 ### Organisation des matchs
 
-1. Pour le Round of 64, vous devez gagner 4 maps pour remporter un match. (Best-of-7)
-2. Pour le Round of 32 et le Round of 16, vous devez gagner 5 maps pour remporter un match. (Best-of-9)
-3. Pour les Quarts de Finale et les Demi-Finales, vous devez gagner 6 maps pour remporter un match. (Best-of-11)
-4. Pour les **Finales et la Grande Finale**, vous devez gagner 7 maps pour remporter un match. (Best-of-13)
+1. Pour le Round of 64, vous devez gagner 4 beatmaps pour remporter un match. (Best-of-7)
+2. Pour le Round of 32 et le Round of 16, vous devez gagner 5 beatmaps pour remporter un match. (Best-of-9)
+3. Pour les Quarts de Finale et les Demi-Finales, vous devez gagner 6 beatmaps pour remporter un match. (Best-of-11)
+4. Pour les **Finales et la Grande Finale**, vous devez gagner 7 beatmaps pour remporter un match. (Best-of-13)
    - La Grande Finale peut mener à un Bracket Reset si le joueur venant du Losers Bracket remporte le premier match.
 5. Les arbitres sont ceux chargés de leur lobby pendant les matchs. Les joueurs doivent spécifier leurs picks et bans dans le chat textuel interne au lobby et ce sont les arbitres qui les sélectionnent.
-6. Les arbitres doivent gérer plusieurs lobbies simultanément et ne sont pas toujours au courant de chaque spécificité dans les maps. Veuillez utilisez le nom entier de la beatmap ou d’autres termes tels que `[mod][numéro de la map]` (en utilisant l’onglet `mappool` du site comme référence) pour minimiser les risques de confusion. Demander à l’arbitre une map en décrivant son background où une référence à la musique réduira vos chances d’obtenir la map voulue.
+6. Les arbitres doivent gérer plusieurs lobbies simultanément et ne sont pas toujours au courant de chaque spécificité dans les beatmaps. Veuillez utilisez le nom entier de la beatmap ou d’autres termes tels que `[mod][numéro de la beatmap]` (en utilisant l’onglet `mappool` du site comme référence) pour minimiser les risques de confusion. Demander à l’arbitre une beatmap en décrivant son background où une référence à la musique réduira vos chances d’obtenir la beatmap voulue.
    - Pour les picks Freemod, chaque joueur doit choisir au moins un mod parmi les suivant: Hidden/HardRock/Easy/Flashlight. L’addition de mods est autorisée. Ces mods sont également autorisés sur les Tiebreakers.
 
 ### Règles spécifiques aux étapes de la compétition
@@ -612,14 +612,14 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 4. Si un joueur est toujours absent 10 minutes après l’heure prévue, le match sera déclaré comme gagnant pour son opposant.
 5. Il n’y aura aucun échauffement, soyez sûrs d’être correctement préparés avant vos matchs!
 6. Dans chaque lobby, les joueurs devront `!roll`. Les picks seront ensuite effectués dans l’ordre descendant des scores de `!roll`.
-7. Les joueurs devront jouer 8 maps, chacun d’eux devra pick deux fois au total, en suivant l’ordre de `!roll`.
-8. Après chaque map, les joueurs sont récompensés par des points en fonction de leur place sur la map:
+7. Les joueurs devront jouer 8 beatmaps, chacun d’eux devra pick deux fois au total, en suivant l’ordre de `!roll`.
+8. Après chaque beatmap, les joueurs sont récompensés par des points en fonction de leur place sur la beatmap:
    - 1er - 4 points
    - 2e - 2 points
    - 3e - 1 point
    - 4e - 0 point
 9. Seulement les deux meilleurs joueurs avancent vers la prochaine étape. Dans le cas d’une égalité, le Tiebreaker sera joué en 1v1 entre les joueurs concernés.
-10. Si un joueur est victime d’une déconnexion de Bancho au milieu d’une map, il ne sera pas récompensé par des points pour cette map. Les joueurs ont le droit à 5 minutes pour contacter leur arbitre via osu! où Discord avant qu’ils ne soient comptés perdant du match.
+10. Si un joueur est victime d’une déconnexion de Bancho au milieu d’une beatmap, il ne sera pas récompensé par des points pour cette beatmap. Les joueurs ont le droit à 5 minutes pour contacter leur arbitre via osu! où Discord avant qu’ils ne soient comptés perdant du match.
 
 #### Rounds
 
@@ -628,7 +628,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 3. Il n’y aura aucun échauffement, soyez sûrs d’être correctement préparés avant vos matchs!
 4. Chaque joueur devra `!roll`. Le plus haut roll décide de l’ordre des picks et des bans (le premier à ban sera le dernier à pick)
 5. Dans le cas d’une égalité, le Tiebreaker sera joué. Les perdants du Winners bracket iront au Losers bracket.
-6. Si un joueur est victime d’une déconnexion de Bancho au milieu d’une map, un rematch de cette map peut être joué seulement si l’arbitre y consent, la décision lui revient. Les joueurs ont droit à cinq minutes pour contacter leur arbitre via osu! où Discord avant qu’ils ne soient comptés perdant du match.
+6. Si un joueur est victime d’une déconnexion de Bancho au milieu d’une beatmap, un rematch de cette beatmap peut être joué seulement si l’arbitre y consent, la décision lui revient. Les joueurs ont droit à cinq minutes pour contacter leur arbitre via osu! où Discord avant qu’ils ne soient comptés perdant du match.
 7. Le reschedule est autorisé, pour ce faire nous vous demandons de contacter votre adversaire de vous-même et de nous envoyer une preuve de votre consentement mutuel au reschedule. Nous vous laissons à disposition le channel `#rescheduling` sur le [Serveur Discord GO](https://discord.gg/trnFByC) pour contacter votre adversaire. Vous avez jusqu'au jeudi à 19h (UTC) de la semaine précédant le match pour le faire.
 
 ### Règles liées au comportement

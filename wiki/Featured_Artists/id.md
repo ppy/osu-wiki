@@ -15,7 +15,7 @@ osu! secara proaktif senantiasa mengajak para musisi dari seluruh belahan dunia 
 
 Dalam proses perizinannya, pada umumnya osu! tidak menuntut suatu lisensi eksklusif kepada para musisi yang membatasi hak guna lagu-lagu yang ada hanya pada lingkungan osu! semata. Meskipun demikian, dalam beberapa kasus tertentu, terdapat beberapa musisi yang secara khusus menggubah lagu-lagu baru untuk osu! yang ditandai dengan label *osu! exclusive* pada laman Featured Artist musisi-musisi terkait.
 
-Bagi para musisi yang sekiranya tertarik untuk bergabung ke dalam Featured Artist kami, harap kunjungi laman [lisensi musik](/wiki/Legal/Music_Licensing).
+Bagi para musisi yang sekiranya tertarik untuk bergabung ke dalam Featured Artist kami, harap kunjungi laman [lisensi musik](/wiki/Legal/Music_licensing).
 
 ## Jumlah rilis
 
@@ -33,7 +33,7 @@ Featured Artist baru akan diumumkan setiap minggunya pada kolom [berita](https:/
 
 ## Penggunaan dalam komunitas
 
-Para mapper sangat dianjurkan untuk mempergunakan lagu-lagu yang tersedia pada katalog Featured Artist osu! sebagai dasar beatmap mereka. Lagu-lagu ini telah dilengkapi dengan pengaturan [timing](/wiki/Client/Beatmap_editor/Timing) dasar yang telah disediakan di dalamnya dan telah terjamin untuk dapat digunakan secara bebas dan legal untuk segala kepentingan dalam ruang-ruang lingkup yang tercakup di atas. Ke depannya, beatmap-beatmap yang menggunakan lagu Featured Artist juga akan ditandai secara khusus pada [osu!lazer](https://github.com/ppy/osu/releases).
+Para mapper sangat dianjurkan untuk mempergunakan lagu-lagu yang tersedia pada katalog Featured Artist osu! sebagai dasar beatmap mereka. Lagu-lagu ini telah dilengkapi dengan pengaturan [timing](/wiki/Client/Beatmap_editor/Timing) dasar yang telah disediakan di dalamnya dan telah terjamin untuk dapat digunakan secara bebas dan legal untuk segala kepentingan dalam ruang-ruang lingkup yang tercakup di atas. Ke depannya, beatmap-beatmap yang menggunakan lagu Featured Artist juga akan ditandai secara khusus pada [osu!(lazer)](https://github.com/ppy/osu/releases).
 
 Kontes-kontes mapping, baik yang berstatus resmi dan tercantum pada [daftar kontes komunitas](https://osu.ppy.sh/community/contests) seperti [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) dan [Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad) ataupun yang tidak, pada umumnya turut mengharuskan para pesertanya untuk membuat beatmap dari satu atau lebih lagu yang sebelumnya telah tersedia pada katalog Featured Artist.
 

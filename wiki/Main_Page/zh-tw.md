@@ -16,7 +16,7 @@ no_native_review: true
 
 幫助您入門 osu! 的重要文章及指南。如果發生任何問題或不確定的情況，請前往[幫助論壇](https://osu.ppy.sh/forum/5)。
 
-[規範](/wiki/Rules) • [安裝](/wiki/Client/Installation) • [註冊](/wiki/Registration) • [幫助中心](/wiki/Help_Centre)
+[規範](/wiki/Rules) • [安裝](/wiki/Client/Installation) • [註冊](/wiki/Registration) • [幫助中心](/wiki/Help_centre)
 
 [聊天控制台](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [常見問題](/wiki/FAQ) • [指南](/wiki/Guides) • [術語表](/wiki/Glossary)
 
@@ -40,7 +40,7 @@ no_native_review: true
 
 [遊戲模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[圖譜](/wiki/Beatmap) • [難度](/wiki/Beatmap/Difficulty) • [打擊物件](/wiki/Hit_object) • [Mod](/wiki/Game_modifier) • [分數](/wiki/Gameplay/Score) • [重播](/wiki/Replay) • [成就](/wiki/Medals) • [多人遊戲](/wiki/Multi)
+[圖譜](/wiki/Beatmap) • [難度](/wiki/Beatmap/Difficulty) • [打擊物件](/wiki/Hit_object) • [Mod](/wiki/Game_modifier) • [分數](/wiki/Gameplay/Score) • [重播](/wiki/Gameplay/Replay) • [成就](/wiki/Medals) • [多人遊戲](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -77,7 +77,7 @@ no_native_review: true
 
 媒體規章：[內容使用準則](/wiki/Rules/Content_Usage_Guidelines) • [兒少不宜內容](/wiki/Rules/Explicit_Content) • [歌曲內容規範](/wiki/Rules/Song_Content_Rules) • [視覺內容考量](/wiki/Rules/Visual_Content_Considerations)
 
-[法律頁面](/wiki/Legal): [服務條款](/wiki/Legal/Terms) • [隱私權政策](/wiki/Legal/Privacy) • [版權 (DMCA)](/wiki/Legal/Copyright) • [音樂授權](/wiki/Legal/Music_Licensing)
+[法律頁面](/wiki/Legal): [服務條款](/wiki/Legal/Terms) • [隱私權政策](/wiki/Legal/Privacy) • [版權 (DMCA)](/wiki/Legal/Copyright) • [音樂授權](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -86,9 +86,9 @@ no_native_review: true
 
 這裡存放著常見問題的解答。
 
-[幫助中心](/wiki/Help_Centre) • [效能問題排解](/wiki/Performance_troubleshooting) • [帳號支援團隊](/wiki/People/The_Team/Account_support_team) • [幫助論壇](https://osu.ppy.sh/forum/5)
+[幫助中心](/wiki/Help_centre) • [效能問題排解](/wiki/Performance_troubleshooting) • [帳號支援團隊](/wiki/People/The_Team/Account_support_team) • [幫助論壇](https://osu.ppy.sh/forum/5)
 
-個人檔案限制：[禁言](/wiki/Silence) • [帳號限制](/wiki/Help_Centre/Account_Restrictions)
+個人檔案限制：[禁言](/wiki/Silence) • [帳號限制](/wiki/Help_centre/Account_restrictions)
 
 各盡其責：[如何協助](/wiki/Community/How_you_can_help!) • [回報不良行為](/wiki/Reporting_bad_behaviour) • [回報騷擾行為](/wiki/Reporting_bad_behaviour/Abuse) • [回報作弊玩家](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -103,18 +103,18 @@ no_native_review: true
 
 [專案](/wiki/Community/Projects): [精選藝術家](/wiki/Featured_Artists) • [osu! 社群會議](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+組織：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# 成員
+# [成員](/wiki/People)
 
 有了許多玩家協助開發、維護、及社群管理，osu! 才得以實現，他們的努力、時間及貢獻使遊戲能夠成長茁壯。
     
 [團隊](/wiki/People/The_Team)：[開發團隊](/wiki/People/The_Team/Developers) • [管理團隊 (Global Moderation Team)](/wiki/People/The_Team/Global_Moderation_Team) • [支援團隊](/wiki/People/The_Team/Support_Team) • [提名評估團隊 (Nomination Assessment Team)](/wiki/People/The_Team/Nomination_Assessment_Team) • [圖譜提名者](/wiki/People/The_Team/Beatmap_Nominators) • [osu! 名人堂](/wiki/People/The_Team/osu!_Alumni) • [Project Loved 團隊](/wiki/People/The_Team/Project_Loved_Team)
 
-組織：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
-
-[社群貢獻者](/wiki/People/Community_Contributors) • [有專屬頭銜的玩家](/wiki/People/Users_with_unique_titles)
+[社群貢獻者](/wiki/People/Community_Contributors) • [有專屬頭銜的玩家](/wiki/People/Users_with_unique_titles)• [錦標賽委員會](/wiki/People/Tournament_Committee) • [表現分數 (PP) 委員會](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">

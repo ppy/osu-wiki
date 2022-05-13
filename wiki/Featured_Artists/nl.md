@@ -16,7 +16,7 @@ De nieuwe toevoegingen aan de aanbevolen artiesten-bibliotheek worden indirect g
 
 De meeste nummers in het aanbevolen artiesten programma zijn niet-exclusief gelicencieerd aan osu!. In uitzonderlijke gevallen maken artiesten nummers exclusief voor osu!, die ook gelabeld worden als *osu! exclusive* op hun aanbevolen artiest pagina.
 
-Voor muzikanten die in het aanbovelen artiesten programma zullen toetreden zijn er meer details beschikbaar in het [muzieklicentiëring](/wiki/Legal/Music_Licensing)-artikel.
+Voor muzikanten die in het aanbovelen artiesten programma zullen toetreden zijn er meer details beschikbaar in het [muzieklicentiëring](/wiki/Legal/Music_licensing)-artikel.
 
 ## Uitgaven
 
@@ -34,7 +34,7 @@ Nieuwe aanbevolen artiesten worden wekelijks aangekondigd op osu!'s [newsfeed](h
 
 ## Gebruik in de community
 
-Beatmappers worden aangemoedigd om maps te maken voor de nummers van aanbevolen artiesten. Deze nummers zijn voorzien van [timing](/wiki/Client/Beatmap_editor/Timing)-gegevens en werden reeds goedgekeurd voor gebruik in osu!, waardoor gebruikers meteen kunnen beatmappen zonder zich zorgen te maken. De ontwikkelingsbuild van osu! in uitvoering, genaamd [osu!lazer](https://github.com/ppy/osu/releases), zal deze maps duidelijk aanduiden in-game.
+Beatmappers worden aangemoedigd om maps te maken voor de nummers van aanbevolen artiesten. Deze nummers zijn voorzien van [timing](/wiki/Client/Beatmap_editor/Timing)-gegevens en werden reeds goedgekeurd voor gebruik in osu!, waardoor gebruikers meteen kunnen beatmappen zonder zich zorgen te maken. De ontwikkelingsbuild van osu! in uitvoering, genaamd [osu!(lazer)](https://github.com/ppy/osu/releases), zal deze maps duidelijk aanduiden in-game.
 
 Alle beatmappingwedstrijden die op de [communitywedstrijdpagina](https://osu.ppy.sh/community/contests) gepubliceerd werden, zoals de [Maandelijke Beatmappingwedstrijd](/wiki/Contests/Monthly_Beatmapping_Contest) en de [Mappingolympiade](/wiki/Contests/Mapping_Olympiad), vereisen dat deelnemers een nummer van een aanbevolen artiest beatmappen. Sommige door de community georganiseerde wedstrijden gebruiken deze nummers ook.
 

@@ -40,8 +40,8 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu!-Comm
 
 Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Submission) hochgeladen werden. Die Threads werden mithilfe des osu!-Clients erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Client/Beatmap_editor) hochlädst.
 
-1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du dir unsicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Dort findest du Musik, die zu 100% für die Benutzung in osu! lizensiert ist. Achte außerdem auf die [Regeln für die Inhaltsverwendung](Content_Usage_Guidelines).
-2. **Komm in [Beatmapdiskussionen](/wiki/Beatmap_discussion) nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.
+1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du dir unsicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Dort findest du Musik, die zu 100% für die Benutzung in osu! lizenziert ist. Achte außerdem auf die [Regeln für die Inhaltsverwendung](Content_Usage_Guidelines).
+2. **Komm in [Beatmap-Diskussionen](/wiki/Beatmap_discussion) nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.
 3. **Plagiiere oder stehle nicht die Arbeit anderer Nutzer.** Lade keine Inhalte anderer Nutzer ohne deren expliziten Erlaubnis hoch, einschließlich Skins und Guest Difficulties.
 4. **Folge den [Regeln für Songinhalte](Song_Content_Rules) und den [Empfehlungen für visuelle Inhalte](Visual_Content_Considerations).**
 
@@ -60,8 +60,8 @@ Diese schlechten Dinge umfassen unter anderem (nicht nur):
 
 Gewisse Verstöße haben eine Mindestdauer zufolge (meistens 42 Stunden oder mehr) - jedoch nur bei besonders schweren Verstößen, beispielsweise das Teilen expliziter Inhalte oder das unverschämte Belästigen anderer Nutzer.
 
-Solltest du nach zahlreichen Verstößen weiterhin die Regeln brechen, kann dein Account [permanent und unwiderruflich gesperrt werden](/wiki/Help_Centre/Account_Restrictions).
+Solltest du nach zahlreichen Verstößen weiterhin die Regeln brechen, kann dein Account [permanent und unwiderruflich gesperrt werden](/wiki/Help_centre/Account_restrictions).
 
-Eingeschränkte Accounts können nicht online spielen, Scores erzielen, mit anderen Nutzern sprechen und sind im Großen und Ganzen von allen Interaktionen mit der Community 'gebannt'. Eingeschränkte Accounts können nur freigegeben werden, wenn nach 3 Monaten ein entsprechendes Gesuch beim Support eingereicht wird ([es können weitere Bedingungen aufgestellt werden](/wiki/Help_Centre/Account_Restrictions#häufige-gründe-für-einschränkungen-und-auszeiten)).
+Eingeschränkte Accounts können nicht online spielen, Scores erzielen, mit anderen Nutzern sprechen und sind im Großen und Ganzen von allen Interaktionen mit der Community 'gebannt'. Eingeschränkte Accounts können nur freigegeben werden, wenn nach 3 Monaten ein entsprechendes Gesuch beim Support eingereicht wird ([es können weitere Bedingungen aufgestellt werden](/wiki/Help_centre/Account_restrictions#häufige-gründe-für-einschränkungen-und-auszeiten)).
 
 Schwere Vergehen, die den Rahmen unserer Regeln sprengen und unter die Jurisdiktion von illegalen Inhalten im Sinne der geltenden Rechtsprechung fallen, führen zur sofortigen Schließung des Accounts. Dies gilt fast ausschließlich zu extrem exzessiven oder anderen abscheulichen Darstellungen, wie unter anderem Kinderpornografie oder die Darstellung von Vergewaltigungen.

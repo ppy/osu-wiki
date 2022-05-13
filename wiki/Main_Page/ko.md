@@ -14,7 +14,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 시작하기
 
-[설치하기](/wiki/Client/Installation) • [회원가입](/wiki/Registration) • [고객 지원](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[설치하기](/wiki/Client/Installation) • [회원가입](/wiki/Registration) • [고객 지원](/wiki/Help_centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -32,7 +32,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 [게임 모드](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[비트맵](/wiki/Beatmap) • [히트 오브젝트](/wiki/Hit_object) • [모드](/wiki/Game_modifier) • [점수](/wiki/Gameplay/Score) •  [리플레이](/wiki/Replay) • [멀티 플레이](/wiki/Multi)
+[비트맵](/wiki/Beatmap) • [히트 오브젝트](/wiki/Hit_object) • [모드](/wiki/Game_modifier) • [점수](/wiki/Gameplay/Score) •  [리플레이](/wiki/Gameplay/Replay) • [멀티 플레이](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -61,14 +61,14 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 [토너먼트](/wiki/Tournaments) • [스킨](/wiki/Skinning) • [프로젝트](/wiki/Community/Projects) • [가이드](/wiki/Guides) • [osu!dev 디스코드 서버](/wiki/Community/osu!dev_Discord_server) • [도움을 줄 수 있는 방법](/wiki/Community/How_you_can_help!) • [용어 사전](/wiki/Glossary)
 
+동호회: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# 사람들
+# [사람들](/wiki/People)
 
 [The Team](/wiki/People/The_Team): [Developers](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
-
-동호회: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [커뮤니티 기여자](/wiki/People/Community_Contributors) • [칭호를 가진 유저](/wiki/People/Users_with_unique_titles)
 

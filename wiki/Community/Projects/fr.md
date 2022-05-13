@@ -20,12 +20,12 @@ outdated: true
   - [GitHub](https://github.com/ppy/osu-framework)
 - osu! performance—Le classement des joueurs sur osu!.
   - [GitHub](https://github.com/ppy/osu-performance)
-- [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144)—Une version du client initial du jeu.
+- [osu! Public Release (09/2007)](https://osu.ppy.sh/community/forums/topics/130144)—Une version du client initial du jeu.
 - [osu! wiki](https://osu.ppy.sh/community/forums/topics/68479)—Informations sur osu!.
   - [GitHub](https://github.com/ppy/osu-wiki) | [Site](/wiki/Main_Page)
 - osu! web—La partie d'osu! dédiée au navigateur.
   - [GitHub](https://github.com/ppy/osu-web) | [Site](https://osu.ppy.sh/home)
-- osu!lazer—Le futur d'osu! et le début d'une ère ouverte.
+- osu!(lazer)—Le futur d'osu! et le début d'une ère ouverte.
   - [GitHub](https://github.com/ppy/osu)
 - [osu!api](https://osu.ppy.sh/community/forums/topics/141240)—API public pour accéder aux données en rapport avec osu!.
   - [GitHub](https://github.com/ppy/osu-api)
@@ -116,9 +116,9 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
 - [lua-mania](https://osu.ppy.sh/community/forums/topics/465914)—Convertit les beatmaps osu!, osu!taiko et osu!catch en beatmaps osu!mania.
   - [GitHub](https://github.com/semyon422/lua-mania)
 - [Magic Copy](https://osu.ppy.sh/community/forums/topics/488175)—Outil qui copie les hitsounds d'une difficulté à une autre (fonctionne avec les hitsounds par défaut et personnalisés).
-- [Note Density calculator](https://osu.ppy.sh/community/forums/topics/488175)—Liste la distribution des keys dans les maps osu!mania.
+- [Note Density calculator](https://osu.ppy.sh/community/forums/topics/488175)—Liste la distribution des keys dans les beatmaps osu!mania.
 - [o2jam to osu!mania converter](https://osu.ppy.sh/community/forums/topics/121149)—Convertit o2jam en osu!mania.
-- [OMISM](https://osu.ppy.sh/community/forums/topics/664319)—Convertir les maps osu!mania en maps Stepmania (et copie les keysounds osu!mania).
+- [OMISM](https://osu.ppy.sh/community/forums/topics/664319)—Convertir les beatmaps osu!mania en beatmaps Stepmania (et copie les keysounds osu!mania).
   - [GitHub](https://github.com/BilliumMoto/OMiSM)
 - [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646)—Modificateur de timerate pour osu!mania.
   - [GitHub](https://github.com/semyon422/omtrc)
@@ -156,7 +156,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
 
 - [Auto-downloader for Bloodcat](https://osu.ppy.sh/community/forums/topics/166347)—Télécharge automatiquement les beatmaps en utilisant le miroir Bloodcat.
 - [Batch script to delete maps](https://osu.ppy.sh/community/forums/topics/682907)—Un script pour supprimer toutes les beatmaps.
-- [Beatmap Version Checker](https://osu.ppy.sh/community/forums/topics/636199)—Cherche les maps non-classés non mises à jour pour automatiquement (ou manuellement) les mettre à jour.
+- [Beatmap Version Checker](https://osu.ppy.sh/community/forums/topics/636199)—Cherche les beatmaps non-classés non mises à jour pour automatiquement (ou manuellement) les mettre à jour.
   - [GitHub](https://github.com/RoanH/osuBeatmapVersionChecker)
 - [Collections Manager](https://osu.ppy.sh/community/forums/topics/131103)—Créez et gérer vos collections plus facilement.
   - [GitHub](https://github.com/Piotrekol/CollectionManager)
@@ -219,7 +219,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
 
 ### Divers
 
-- [Aiess](https://github.com/Naxesss/Aiess)—Fournit des abonnements pour les évènements en rapport avec le mapping sur osu! (Nouvelles maps classés, qualifications, nominations, newsposts, changements de groupe, etc).
+- [Aiess](https://github.com/Naxesss/Aiess)—Fournit des abonnements pour les évènements en rapport avec le mapping sur osu! (Nouvelles beatmaps classés, qualifications, nominations, newsposts, changements de groupe, etc).
 - [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510)—Calcule l'AR et l'OD.
 - [Beatmap URL Formatter](https://osu.ppy.sh/community/forums/topics/55305)—Programme qui formatte les URL de beatmaps en BBCode pour les poster.
 - [BloodyFox \[Android\]](https://osu.ppy.sh/community/forums/topics/475693)—Rechercher et télécharger des beatmaps/Voir les statistiques d'un joueur.

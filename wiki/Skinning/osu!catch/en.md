@@ -32,7 +32,7 @@ Notes:
 
 - Animation name: `fruit-catcher-fail-{n}.png`
 - This element is the "missed" catcher state.
-- This overrides `fruit-catcher-kiai.png` if a fruit or drop/droplet is missed during [kiai time](/wiki/Kiai_time).
+- This overrides `fruit-catcher-kiai.png` if a fruit or drop/droplet is missed during [kiai time](/wiki/Gameplay/Kiai_time).
 - This should face towards the right.
 
 ---
@@ -49,7 +49,7 @@ Notes:
 
 - Animation name: `fruit-catcher-kiai-{n}.png`
 - This element is the catcher state during kiai time.
-- `fruit-catcher-fail.png` will override this if a fruit or drop/droplet is missed during [kiai time](/wiki/Kiai_time).
+- `fruit-catcher-fail.png` will override this if a fruit or drop/droplet is missed during [kiai time](/wiki/Gameplay/Kiai_time).
 - This should face towards the right.
 
 ---
@@ -99,7 +99,7 @@ Notes:
 
 Notes:
 
-- This pulsates on the catch line for where fruit's landing location during [kiai time](/wiki/Kiai_time).
+- This pulsates on the catch line for where fruit's landing location during [kiai time](/wiki/Gameplay/Kiai_time).
 - This element is also used in [osu!](/wiki/Game_mode/osu!) and [osu!taiko](/wiki/Game_mode/osu!taiko).
 - This can be disabled in the [options](/wiki/Client/Options).
 - Tinting depends on the fruit's combo colour.

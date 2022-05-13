@@ -53,7 +53,7 @@ Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Easy réduit de moit
 
 *Note : Le nombre de tours nécessaires pour terminer un [spinner](/wiki/Hit_object/Spinner) est réduit à la valeur de l'OD.*
 
-Contrairement aux autres modes de jeu, l'utilisation du mod Easy dans le mode osu!taiko réduit le score requis pour gagner de la santé. Dans ce mode de jeu la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu d'une chanson.
+Contrairement aux autres modes de jeu, l'utilisation du mod Easy dans le mode osu!taiko réduit le score requis pour gagner de la santé. Dans ce mode de jeu la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu d'une musique.
 
 ### osu!catch
 
@@ -70,7 +70,7 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), les effets sont les mêmes 
 ## Le saviez-vous ?
 
 - Lorsque vous regardez un replay où une vie supplémentaire est utilisée, l'animation de recharge de la santé sera ignorée et le replay continuera comme si le joueur jouait avec le mod [No Fail](/wiki/Game_modifier/No_Fail) activé.
-- En mod [Multi](/wiki/Multi), l'effet des "vies" ne fonctionnera pas en mod [Tag Co-op ou Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs)
+- En mod [Multi](/wiki/Gameplay/Multiplayer), l'effet des "vies" ne fonctionnera pas en mod [Tag Co-op ou Tag Team Vs.](/wiki/Gameplay/Multiplayer#tag-coop-/-tag-team-vs)
 - Le mod Easy annule le mod [Hard Rock](/wiki/Game_modifier/Hard_Rock), et vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

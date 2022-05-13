@@ -50,7 +50,7 @@ Voir également :
 
 Prix : **Gratuit**
 
-Ce pack comprend la musique Want You Gone de Jonathan Coulton (sous le pseudonyme Aperture Science) rendue célèbre par le jeu vidéo [Portal 2](https://www.thinkwithportals.com/).
+Ce pack comprend la musique *Want You Gone* de Jonathan Coulton (sous le pseudonyme Aperture Science) rendue célèbre par le jeu vidéo [Portal 2](https://www.thinkwithportals.com/).
 
 | Musique | Mappeur | Niveau de difficulté |
 | :-- | :-- | :-- |

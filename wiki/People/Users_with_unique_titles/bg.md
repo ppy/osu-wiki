@@ -6,7 +6,7 @@ no_native_review: true
 
 # Потребители със специални титли
 
-Потребителските титли обикновено са свързани с [потребителски групи](/wiki/People/The_Team#user-groups), но долу изброените потребители са получили собствени титли заради определени причини. Повечето титли са награди за принос или постижение, оставени като спомен от забележително събитие или част от забавната история на osu!.
+Потребителските титли обикновено са свързани с [потребителски групи](/wiki/People/The_Team#потребителски-групи), но долу изброените потребители са получили собствени титли заради определени причини. Повечето титли са награди за принос или постижение, оставени като спомен от забележително събитие или част от забавната история на osu!.
 
 ## По категория, с причина
 
@@ -147,6 +147,7 @@ no_native_review: true
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | [Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
 | ![][flag_US] [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) |
+| ![][flag_JP] [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
 | ![][flag_JP] [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ![][flag_RO] [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |

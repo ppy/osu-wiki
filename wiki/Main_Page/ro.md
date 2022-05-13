@@ -14,7 +14,7 @@ Bine ați venit la osu! wiki, un proiect care conține o gamă largă de informa
 
 # Noțiuni de bază
 
-[Instalare](/wiki/Client/Installation) • [Înregistrare](/wiki/Registration) • [Centrul de ajutor](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Instalare](/wiki/Client/Installation) • [Înregistrare](/wiki/Registration) • [Centrul de ajutor](/wiki/Help_centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -32,7 +32,7 @@ Bine ați venit la osu! wiki, un proiect care conține o gamă largă de informa
 
 [Moduri de joc](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Obiect lovit](/wiki/Hit_object) • [Moduri](/wiki/Game_modifier) • [Scor](/wiki/Gameplay/Score) • [Reluare](/wiki/Replay) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Obiect lovit](/wiki/Hit_object) • [Moduri](/wiki/Game_modifier) • [Scor](/wiki/Gameplay/Score) • [Reluare](/wiki/Gameplay/Replay) • [Multi](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -61,14 +61,14 @@ Componente: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Divizor Beat Snap](/
 
 [Turnee](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proiecte](/wiki/Community/Projects) • [Ghiduri](/wiki/Guides) • [Serverul Discord osu!dev](/wiki/Community/osu!dev_Discord_server) • [Cum puteți ajuta](/wiki/Community/How_you_can_help!) • [Glosar](/wiki/Glossary)
 
+Organizații: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Oameni
+# [Oameni](/wiki/People)
 
 [Echipa](/wiki/People/The_Team): [Dezvoltatori](/wiki/People/The_Team/Developers) • [Echipa de moderare globală](/wiki/People/The_Team/Global_Moderation_Team) • [Echipa de suport](/wiki/People/The_Team/Support_Team) • [Echipa de evaluare a nominalizărilor](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominalizatorii beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [Absolvenții osu!](/wiki/People/The_Team/osu!_Alumni) • [Echipa Proiect Iubit](/wiki/People/The_Team/Project_Loved_Team)
-
-Organizații: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Contribuitori ai comunității](/wiki/People/Community_Contributors) • [Utilizatori cu titluri unice](/wiki/People/Users_with_unique_titles)
 

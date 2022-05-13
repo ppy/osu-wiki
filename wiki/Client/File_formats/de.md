@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: fa5c5014bbc907515c84510d42e8354cb974ec37
+---
+
 # osu!-Dateiformate
 
 ## osu!-spezifische Dateiformate
@@ -8,7 +13,7 @@
 | [.osk][Osk Link] | `x-osu-skin-archive` | Ausführbare Skindatei |
 | [.osu][Osu Link] | `x-osu-beatmap` | osu!-[Beatmap](/wiki/Beatmap) |
 | [.osb][Osb Link] | `x-osu-storyboard` | osu!-[Storyboard](/wiki/Storyboard/Scripting) |
-| [.osr][Osr Link] | `x-osu-replay` | osu!-[Replay](/wiki/Replay) |
+| [.osr][Osr Link] | `x-osu-replay` | osu!-[Replay](/wiki/Gameplay/Replay) |
 
 ## .osz/.osk Datei erstellen
 

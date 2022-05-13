@@ -20,7 +20,7 @@ A **beatmap** (sometimes called *beatmapset*) is a set of game levels ([difficul
 
 *Main article: [Difficulty](/wiki/Beatmap/Difficulty)*
 
-A *difficulty* is a file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Kiai_time). It also contains [difficulty settings](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmapping/Star_rating) system is used to visualise a difficulty's skill requirement.
+A *difficulty* is a file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Gameplay/Kiai_time). It also contains [difficulty settings](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmapping/Star_rating) system is used to visualise a difficulty's skill requirement.
 
 ## Submission
 
@@ -91,19 +91,19 @@ osu! players across all game modes use beatmaps to [rank up globally](/wiki/Perf
 - Country-specific ranking made of players bearing the same flag;
 - Friend ranking that shows a player's position on the map compared to their friends.
 
-The top 500 scores on every difficulty of a beatmap provide [replays](/wiki/Replay), which can be watched online or saved for further display in a local leaderboard.
+The top 500 scores on every difficulty of a beatmap provide [replays](/wiki/Gameplay/Replay), which can be watched online or saved for further display in a local leaderboard.
 
 ### Charts and Spotlights
 
 <!-- TODO: charts, as well as Chart Assembly Team, need to be referenced here when they receive a dedicated article (issue #4685) -->
 
-<!-- TODO: would be very cool to have a separate article for osu!lazer as well (issue #4686) -->
+<!-- TODO: would be very cool to have a separate article for osu!(lazer) as well (issue #4686) -->
 
 *Main article: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
 
 Since its early days, the community has had various ways to showcase unique and excellent maps. One of the first documented approaches were monthly and seasonal charts consisting of a small subset of ranked beatmaps, where top players from leaderboards displaying total score across these maps would be awarded with [osu!supporter](/wiki/osu!supporter).
 
-The chart system has later evolved into the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) project, which now operates on similar conditions, but takes place in osu!lazer's playlists instead.
+The chart system has later evolved into the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) project, which now operates on similar conditions, but takes place in osu!(lazer)'s playlists instead.
 
 ### Beatmap contests
 

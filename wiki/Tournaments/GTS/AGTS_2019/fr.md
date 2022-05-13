@@ -16,14 +16,14 @@ L'**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) est un tournoi par p
 
 | Evénement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2019-07-07/2019-07-21 |
-| Tirages au sort en direct | 2019-08-04 (15:00 UTC) |
-| Qualifications | 2019-08-10/2019-08-11 |
-| Phases de poules | 2019-08-17/2019-08-18 |
-| Quarts de finale | 2019-08-24/2019-08-25 |
-| Demi-finales | 2019-08-31/2019-09-01 |
-| Finales | 2019-09-07/2019-09-08 |
-| Grande Finale | 2019-09-14 |
+| Phase d'inscription | 07/07/2019 - 21/07/2019 |
+| Tirages au sort en direct | 04/08/2019 (15:00 UTC) |
+| Qualifications | 10/08/2019 - 11/08/2019 |
+| Phases de poules | 17/08/2019 - 18/08/2019 |
+| Quarts de finale | 24/08/2019 - 25/08/2019 |
+| Demi-finales | 31/08/2019 - 01/09/2019 |
+| Finales | 07/09/2019 - 08/09/2019 |
+| Grande Finale | 14/09/2019 |
 
 ## Prix
 
@@ -116,11 +116,11 @@ Cette compétition est maintenant terminée, voici le classement final:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] Canada |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] Russie A |
 
-## Liste des maps
+## Liste des beatmaps
 
 ### Grande Finale
 
-**[Téléchargez le map pack ici! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
+**[Téléchargez la beatmap pack ici! (86 MB)](https://mega.nz/#!s5sQzABI!BZ2WNuZ13rXisVdUgv2-gdku-4YxAR5IvkRfHqpRrOE)**
 
 - NoMod
   1. [sakuraburst - dragonlands (Faputa) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/935765#taiko/1954961)
@@ -149,7 +149,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Finales
 
-**[Téléchargez le map pack ici! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
+**[Téléchargez la beatmap pack ici! (102 MB)](https://mega.nz/#!VslyCQQC!OjkCUb9D1DUMskdeyY8OMGefSheh7Ol2hTaGkOJLSkQ)**
 
 - NoMod
   1. [YUC'e - PUMP (KinomiCandy) \[Kinobles & Ozzy's Oni\]](https://osu.ppy.sh/beatmapsets/610546#taiko/1289147)
@@ -178,7 +178,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Demi-finales
 
-**[Téléchargez le map pack ici! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
+**[Téléchargez la beatmap pack ici! (77 MB)](https://mega.nz/#!xoE0iIbD!lJcoplSa3ELqMyn3vgNRHelF8xP93he6DpzoBcQ4qEs)**
 
 - NoMod
   1. [Murder King - Ben Her Gun Artik Sen (frukoyurdakul) \[Suistimal\]](https://osu.ppy.sh/beatmapsets/959186#taiko/2008180)
@@ -207,7 +207,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Quarts de finale
 
-**[Téléchargez le map pack ici! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
+**[Téléchargez la beatmap pack ici! (83 MB)](https://mega.nz/#!spkR0agQ!MokudfOpqItg9GU4KnYaD-jRjMLVYctMnBeRmWDtGDA)**
 
 - NoMod
   1. [Function Phantom - Euclid (salchow) \[Green's Fifth Axiom\]](https://osu.ppy.sh/beatmapsets/941145#taiko/2002626)
@@ -235,7 +235,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Phases de poules
 
-**[Téléchargez le map pack ici! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
+**[Téléchargez la beatmap pack ici! (96 MB)](https://mega.nz/#!Iw9DFapR!yT-FtB8nk1fXieIln5gP_2tbUOWuxFQKAnj40NVpZHE)**
 
 - NoMod
   1. [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Ex's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/136632#taiko/342847)
@@ -267,7 +267,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Qualifications
 
-**[Téléchargez le map pack ici! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
+**[Téléchargez la beatmap pack ici! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
 
 - NoMod
   1. [kors k - Poochie (Nifty) \[Special\]](https://osu.ppy.sh/beatmapsets/946420#taiko/1976130)
@@ -283,30 +283,30 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Grande Finale
 
-| Samedi, 2019-09-14 |  |  |  |  |
+| Samedi, 14/09/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Japon** ![][flag_JP] | **7** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/54839968) |
 
 ### Finales
 
-| Samedi, 2019-09-07 |  |  |  |  |
+| Samedi, 07/09/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Japon** ![][flag_JP] | **7** | 1 | ![][flag_RU] Russie A | [#1](https://osu.ppy.sh/community/matches/54674122) |
 
-| Dimanche, 2019-09-08 |  |  |  |  |
+| Dimanche, 08/09/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Corée du Sud ![][flag_KR] | 4 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54691282) |
 | Russie A ![][flag_RU] | 2 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54706574) |
 
 ### Demi-finales
 
-| Samedi, 2019-08-31 |  |  |  |  |
+| Samedi, 31/08/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Indonésie A ![][flag_ID] | 4 | **7** | ![][flag_JP] **Japon** | [#1](https://osu.ppy.sh/community/matches/54504410) |
 | **Russie A** ![][flag_RU] | **7** | 2 | ![][flag_TW] Taïwan | [#1](https://osu.ppy.sh/community/matches/54507108) |
 | Argentine ![][flag_AR] | 4 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54515229) |
 
-| Dimanche, 2019-09-01 |  |  |  |  |
+| Dimanche, 01/09/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Taïwan ![][flag_TW] | 1 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Pays-Bas ![][flag_NL] | 6 | **7** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/54530786) |
@@ -314,7 +314,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Quarts de finale
 
-| Samedi, 2019-08-24 |  |  |  |  |
+| Samedi, 24/08/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Argentine ![][flag_AR] | 5 | **6** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/54305260) |
 | Allemagne A ![][flag_DE] | 0 | **6** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54317268) |
@@ -324,7 +324,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 | Pologne ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
 | **Canada** ![][flag_CA] | **6** | 1 | ![][flag_RU] Russie B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
-| Dimanche, 2019-08-25 |  |  |  |  |
+| Dimanche, 25/08/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Corée du Sud ![][flag_KR] | 3 | **6** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/54334906) |
 | Pays-Bas ![][flag_NL] | 2 | **6** | ![][flag_RU] **Russie A** | [#1](https://osu.ppy.sh/community/matches/54346880) |
@@ -334,7 +334,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Phases de poules
 
-| Groupe | Samedi, 2019-08-17 |  |  |  |  |
+| Groupe | Samedi, 17/08/2019 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C4 | Mexique ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/54132793) |
 | D6 | États-Unis B ![][flag_US] | 1 | **5** | ![][flag_US] **États-Unis A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
@@ -351,7 +351,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 | B5 | Chili ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentine** | [#1](https://osu.ppy.sh/community/matches/54153575) |
 | C3 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] Royaume-Uni/Portugal | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
-| Groupe | Dimanche, 2019-08-18 |  |  |  |  |
+| Groupe | Dimanche, 18/08/2019 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F6 | Indonésie A ![][flag_ID] | 3 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54159212) |
 | B2 | Chili ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japon** | [#1](https://osu.ppy.sh/community/matches/54160233) |
@@ -437,7 +437,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 4. Chaque mappool sera structuré avec 6 catégories de mods: NoMod (NM), Hidden (HD), HardRock (HR), DoubleTime (DT), FreeMod (FM) et le Tiebreaker (TB).
 5. Chaque mappool sera composé de 20 beatmaps.
 6. La taille du pool pour les mods Hidden, Hard Rock et DoubleTime sera de deux (2) et 3 pour le pool Freemod, peu importe l'étape du tournoi.
-7. La catégorie de beatmaps EX sera jouée sans aucun mod actif, et est une version plus complexe des beatmaps NoMod, les maps contenant des patterns trompeurs, des changements de vitesse, etc...
+7. La catégorie de beatmaps EX sera jouée sans aucun mod actif, et est une version plus complexe des beatmaps NoMod, les beatmaps contenant des patterns trompeurs, des changements de vitesse, etc...
 8. Le pool de beatmaps Freemod se jouera avec le Freemod activé. Chaque joueur peut individuellement choisir **Hidden, HardRock ou les deux. Chaque joueur présent dans la salle doit avoir au moins un mod activé lorsque le match commence.**
 9. Le Tiebreaker sera joué au même titre que les beatmaps en Freemod, à l'exception que vous n'êtes pas obligé d'avoir un mod actif.
 10. Le mappool pour chaque étape sera dévoilé en direct une semaine avant le début des matchs sur ledit pool.
@@ -478,12 +478,12 @@ All-stars est un événement fait pour le fun, se déroulant le même week-end q
 1. 12 joueurs vont participer à cet événement. Ils seront décidés par un vote.
 2. Les 12 meilleurs joueurs (à l'issue du vote) participeront à l'événement. Dans le cas où plus de 2 joueurs du même pays sont dans le top 12, seuls les deux meilleurs prendront part à l'événement.
 3. les deux meilleurs joueurs à l'issue du vote seront capitaines de chaque équipe, et ils doivent choisir dans la liste des 10 joueurs suivants. Le joueur avec le plus de votes commencera à choisir. Le choix se fera dans un "snake draft picking style", voilà son fonctionnement: A->B->B->A->A->B->B->A->A->B.
-4. 2 matchs de type battle royale en 3 contre 3 avec un mappool à 12 beatmaps (2 NoMod, HardRock, Hidden, DoubleTime, FreeMod, EX) vont d'abord se jouer. (EX = des beatmaps beaucoup plus compliquées). Les maps vont être sélectionnées aléatoirement, grâce à une roue.
+4. 2 matchs de type battle royale en 3 contre 3 avec un mappool à 12 beatmaps (2 NoMod, HardRock, Hidden, DoubleTime, FreeMod, EX) vont d'abord se jouer. (EX = des beatmaps beaucoup plus compliquées). Les beatmaps vont être sélectionnées aléatoirement, grâce à une roue.
 5. Un autre match va se dérouler en 4 contre 4, avec les règles suivantes:
    - Un mappool composé de 5 beatmaps NoMod, HardRock, Hidden, DoubleTime, FreeMod, EX et 1 Tiebreaker (les règles sont les mêmes que lors d'un match normal)
    - Aucun ban ne sera effectué
-   - Le mod sera choisi aléatoirement par un roll (avec un tableau), et les maps seront choisies avec une roue.
-   - Il est autorisé de changer ses joueurs entre les maps sans limite aucune.
+   - Le mod sera choisi aléatoirement par un roll (avec un tableau), et les beatmaps seront choisies avec une roue.
+   - Il est autorisé de changer ses joueurs entre les beatmaps sans limite aucune.
    - Les même règles pour les déconnexions s'appliquent qu'en temps normal.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"

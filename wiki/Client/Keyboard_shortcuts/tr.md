@@ -41,7 +41,7 @@ Bu kısayollar her yerde çalışır:
 | `Esc` | Geri dön veya iptal et. |
 | `P`, `E`, veya `O` | Oynama menüsünü aç. |
 | `P` üç kez | Solo'ya gir. |
-| `P` iki kez, sonra `M` | [Çoklu](/wiki/Multi)'ya gir. |
+| `P` iki kez, sonra `M` | [Çoklu](/wiki/Gameplay/Multiplayer)'ya gir. |
 | `E` iki kez | Düzenleme moduna gir. |
 | `O` | Ayarlar yan çubuğunu aç. |
 | `Q` | Çıkış istemcisini görüntüle. |
@@ -190,13 +190,6 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 ### Oluştur
 
-#### Fare
-
-| Kısayol | Eylem |
-| :-- | :-- |
-| `Çift Tık` | Dairelerin veya slider sonlarının üzerine şarkının herhangi bir yerinden objenin zaman çizgisindeki konumuna atla. (osu!, osu!taiko, osu!catch) |
-| `Sağ Tık` | Yeni kombo dizisine geç (yeni vuruş objesi yerleştirirken) ya da objeyi sil (seçerken). |
-
 #### Genel
 
 | Kısayol | Eylem |
@@ -215,6 +208,13 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `1`, `2`, veya `3` | Sırasıyla seçim, circle, hold yerleştirme/seçim modları arasında geçiş yap (osu!mania). |
 | `Ctrl` + `Alt` + `Fare Tekerleği Yukarı/Aşağı` | Yerleştirme/seçim modları arasında geçiş yap. |
 | `Ctrl` + `Shift` + `A` | [AiMod](/wiki/Client/Beatmap_editor/AiMod)'u aç. |
+
+#### Fare
+
+| Kısayol | Eylem |
+| :-- | :-- |
+| `Çift Tık` | Dairelerin veya slider sonlarının üzerine şarkının herhangi bir yerinden objenin zaman çizgisindeki konumuna atla. (osu!, osu!taiko, osu!catch) |
+| `Sağ Tık` | Yeni kombo dizisine geç (yeni vuruş objesi yerleştirirken) ya da objeyi sil (seçerken). |
 
 #### Oyun alanı
 

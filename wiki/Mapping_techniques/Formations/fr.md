@@ -142,7 +142,7 @@ L'ordre des combos oblige le joueur à longer le carré plutôt que de le traver
 
 Nominateur : Beuchi-chan et [mm201](https://osu.ppy.sh/users/30655)
 
-La **formation en carré v2** est à peu près la même que la [formation en carré](#formation-en-carré), mais l'ordre des cercles vous oblige à traverser le carré en diagonale.
+La **formation en carré v2** est à peu près la même que la [formation en carré](#formation-en-carrée), mais l'ordre des cercles vous oblige à traverser le carré en diagonale.
 
 ### Triangle Beats
 

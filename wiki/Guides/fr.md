@@ -8,7 +8,7 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 
 - [Bibliothèque de hitsounds personnalisés](Custom_Hitsound_Library)
 - [Changer l'artiste ou le titre d'une beatmap](Changing_the_Artist_or_Title)
-- [Comment chronométrer les chansons](How_to_Time_Songs)
+- [Comment régler le timing d'une musique](How_to_Time_Songs)
 - [Comment démarrer un projet de beatmap](Starting_a_Beatmap_Project)
 - [Comment démarrer une collaboration sur une beatmap](Collab_Information)
 - [Comment régler le décalage sur le bon rythme](Setting_the_Offset_on_the_Correct_Beat)
@@ -18,6 +18,7 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 - [Modification du texte du titre](/wiki/Beatmap/Title_text#changer-le-texte-du-titre)
 - [Problème avec le BSS](BSS_Issues)
 - [Théorie de la musique](/wiki/Music_theory)
+- [Timing des musiques avec des signatures en #/8](Timing_Songs_With_8-Signatures)
 - [Utilisation de hitsounds personnalisés](Using_custom_hitsounds)
 - [Vidéos de YouTube](Videos_from_YouTube)
 - [Vue d'ensemble des échantillons personnalisées](Custom_Sample_Overrides)
@@ -26,7 +27,7 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 
 *Page principale : [Modding](/wiki/Modding)*
 
-- [Comment faire modder votre map](Getting_Your_Map_Modded)
+- [Comment faire modder votre beatmap](Getting_Your_Map_Modded)
 - [Guide de modding d'osu!mania](osu!mania_modding_guide)
 
 ## Playing

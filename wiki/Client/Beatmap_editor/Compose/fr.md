@@ -119,7 +119,7 @@ Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage 
 
 | Bouton (raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
-| Nouveau combo (`Q`) | **Clic droit :** Change la note actuelle en la couleur du combo suivant. | Note du combo. C'est l'équivalent d'un couplet/une mesure dans une chanson/un instrument. Une fourchette acceptable est d'environ 5 à 20. |
+| Nouveau combo (`Q`) | **Clic droit :** Change la note actuelle en la couleur du combo suivant. | Note du combo. C'est l'équivalent d'un couplet/une mesure dans une musique/un instrument. Une fourchette acceptable est d'environ 5 à 20. |
 
 #### Hitsounds
 
@@ -137,11 +137,11 @@ Le bouton **Insert Break Time** démarre/arrête "Break Time" dans l'horodatage 
 | Distance Snap (`Y`) | **`Alt` (Maintenu):** On/Off temporaire. Bascule Beat Snap Divisor en Distance Snap **`Alt` + Molette de souris :** Ajustez le multiplicateur de distance snap | La distance entre des notes consécutives sera cassée en fonction de leur différence rythmique. A utiliser de préférence lorsque la timeline est en pause. |
 | Lock Notes (`L`) | ("Select" sur une note) **Clic gauche :** Verrouille cette note | Verrouille la note sélectionnée à la position et à l'horodatage actuels. |
 
-### En bas à gauche (Timeline de la chanson)
+### En bas à gauche (Timeline de la musique)
 
-![Timeline de la chanson](img/BE_HSAT.jpg "Timeline de la chanson")
+![Timeline de la musique](img/BE_HSAT.jpg "Timeline de la musique")
 
-En **bas à gauche**, il y a le **timestamp** en millisecondes (ms) et la **durée de la chanson** en pourcentage. Le pourcentage peut être changé en "intro" ou "outro" s'il y a du storyboarding avant ou après la musique.
+En **bas à gauche**, il y a le **timestamp** en millisecondes (ms) et la **durée de la musique** en pourcentage. Le pourcentage peut être changé en "intro" ou "outro" s'il y a du storyboarding avant ou après la musique.
 
 Au **centre en bas**, il y a une **timeline** avec des marques et les boutons obligatoires du lecteur de musique. Le bouton `Test` à droite de la ligne de temps sauvegardera votre beatmap puis vous permettra de le tester, en commençant par le timestamp actuel.
 
@@ -184,9 +184,9 @@ En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur 
 
 *Article principal  : [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)*
 
-**En termes simples, l'ajustement d'une longueur donnée d'un fil à coudre de couleur (section de chronométrage) pour un espace de dessin de broderie (mesures, divisées par le diviseur pour être appelées battements) sur le tissu (morceau).** Puisque osu!mania accorde une grande importance au timing des notes, le **time signature** (MM:B) de la section Timing est ajoutée (15:3 = 15ème mesure 3ème temps) à côté de la barre d'ajustement pour faciliter la référence du mappeur. Elle peut prendre une valeur négative (-8:-3 par exemple) si la première section de timing est à *quelques secondes* du début du fichier chanson de la beatmap.
+**En termes simples, l'ajustement d'une longueur donnée d'un fil à coudre de couleur (section de chronométrage) pour un espace de dessin de broderie (mesures, divisées par le diviseur pour être appelées battements) sur le tissu (morceau).** Puisque osu!mania accorde une grande importance au timing des notes, le **time signature** (MM:B) de la section Timing est ajoutée (15:3 = 15ème mesure 3ème temps) à côté de la barre d'ajustement pour faciliter la référence du mappeur. Elle peut prendre une valeur négative (-8:-3 par exemple) si la première section de timing est à *quelques secondes* du début du fichier musique de la beatmap.
 
-Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'horodatage actuel. A côté du bouton se trouve le **nom du fichier son court storyboardé à la note (bleue) sélectionnée**, connu sous le nom de **[keysound](#Léchantillonnage)**
+Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'horodatage actuel. A côté du bouton se trouve le **nom du fichier son court storyboardé à la note (bleue) sélectionnée**, connu sous le nom de **[keysound](#l'échantillonnage)**
 
 ### Au centre à gauche (Sélecteur)
 
@@ -212,7 +212,7 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 
 ![Terrain de jeu (osu!mania)](/wiki/shared/BEM_PF.jpg "Terrain de jeu (osu!mania)")
 
-**Représentation visuelle de la map basée sur l'horodatage actuel.**
+**Représentation visuelle de la beatmap basée sur l'horodatage actuel.**
 
 #### Boîtes de terrain de jeu
 
@@ -270,7 +270,7 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 
 | Bouton (raccourci clavier) | Utilisation | Description |
 | :-- | :-- | :-- |
-| New Combo (`Q`) | **Clic droit :** Change la note actuelle en la couleur du combo suivant. | Note du combo. C'est l'équivalent d'un couplet dans une chanson. Une fourchette acceptable est d'environ 5 à 20. |
+| New Combo (`Q`) | **Clic droit :** Change la note actuelle en la couleur du combo suivant. | Note du combo. C'est l'équivalent d'un couplet dans une musique. Une fourchette acceptable est d'environ 5 à 20. |
 
 #### Hitsounds
 
@@ -288,13 +288,13 @@ Le bouton **Insérer le temps de pause** met/arrête le "temps de pause" dans l'
 | Distance Snap (`Y`) | **`Alt` (Maintenu):** On/Off temporaire. Passe du Beat Snap Divisor à la Distance Snap **`Alt` + Molette de la souris :** Ajuster le multiplicateur de distance de Snap. | La distance entre des notes consécutives sera snappé en fonction de leur différence rythmique. A utiliser de préférence lorsque la timeline est en pause. |
 | Lock Notes (`L`) | ("Select" sur une note) **Clic gauche :** Verrouille cette note | Verrouille la note sélectionnée à la position et à l'horodatage actuels. |
 
-Pour **keysound** (ajout de SE sur les hitnotes), sélectionnez la note et **`Alt` + Clic gauche** sur la note sélectionnée (une fenêtre pop-up s'affichera avec des échantillons sonores dans votre dossier beatmap). Référez vous à [L'échantillonnage](#Lechantillonnage)
+Pour **keysound** (ajout de SE sur les hitnotes), sélectionnez la note et **`Alt` + Clic gauche** sur la note sélectionnée (une fenêtre pop-up s'affichera avec des échantillons sonores dans votre dossier beatmap). Référez vous à [L'échantillonnage](#l'échantillonnage)
 
-### En bas (Timeline de la chanson)
+### En bas (Timeline de la musique)
 
-![Timeline de la chanson](/wiki/shared/BE_STL.jpg "Timeline de la chanson")
+![Timeline de la musique](/wiki/shared/BE_STL.jpg "Timeline de la musique")
 
-En **bas à gauche**, il indique **l'horodatage en millisecondes (ms)** et **la durée de la chanson en %**.
+En **bas à gauche**, il indique **l'horodatage en millisecondes (ms)** et **la durée de la musique en %**.
 
 En **bas au centre**, il affiche la **timeline avec des marques et les boutons obligatoires du lecteur de musique.** Pour le bouton "Test", votre beatmap sera enregistré pour tester la beatmap à partir de l'heure actuelle.
 
@@ -338,7 +338,7 @@ En **bas à droite**, vous pouvez régler le **débit de lecture** par **valeur 
 | Delete | **Supprime le fichier sonore personnalisé.** Pour supprimer le fichier sonore associé à la note, utilisez le bouton "Reset". |
 | Apply | Applique le fichier sonore personnalisé sélectionné à cette note. |
 | Sample | Place ce fichier sonore personnalisé sélectionné dans le storyboard en respectant l'horodatage actuel. |
-| Sample list | [Fichiers sonores storyboardé](#exemple-de-liste-dévénements) |
+| Sample list | [Fichiers sonores storyboardé](#exemple-de-liste-d'événements) |
 | Reset | Supprime le fichier son associé à la note |
 | Cancel | Ferme la fenêtre. |
 

@@ -62,7 +62,7 @@ Lorsqu'il est associé au mod Hidden, les fruits sont momentanément visibles si
 
 ### osu!mania
 
-Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), la zone visible est limitée à une barre horizontale relativement fine au centre de la piste, tandis que tout le reste est obstrué. En ce sens, le mod Flashlight peut être considéré comme la combinaison des mods Hidden et [Fade In](/wiki/Game_modifier/Fade_In). (C'est-à-dire sans les changements de taille de la zone visible).
+Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), la zone visible est limitée à une barre horizontale relativement fine au centre du playfield, tandis que tout le reste est obstrué. En ce sens, le mod Flashlight peut être considéré comme la combinaison des mods Hidden et [Fade In](/wiki/Game_modifier/Fade_In). (C'est-à-dire sans les changements de taille de la zone visible).
 
 ![Gameplay avec le mod FL dans osu!mania](img/FL-mania.jpg "Gameplay de osu!mania avec le mod Flashlight activé")
 

@@ -6,8 +6,8 @@ Cette page répertorie les moyens par lesquels les utilisateurs de tout le site 
 
 - [Forum](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
-- [Serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
 - [Organisations hors ligne](/wiki/Community/Organisations)
+- [Serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
 
 ## Projets
 

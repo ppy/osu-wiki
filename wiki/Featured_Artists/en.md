@@ -15,7 +15,7 @@ Recent additions to the Featured Artist library are selected indirectly by the o
 
 Most songs in the Featured Artist program are non-exclusively licensed for osu!. In rare cases an artist will create tracks exclusively for osu!, which are labelled with *osu! exclusive* on their Featured Artist listing.
 
-Details for a musician joining the Featured Artists can be found on the [music licensing](/wiki/Legal/Music_Licensing) article.
+Details for a musician joining the Featured Artists can be found on the [music licensing](/wiki/Legal/Music_licensing) article.
 
 ## Releases
 
@@ -33,7 +33,7 @@ New Featured Artists are announced weekly on osu!'s [news feed](https://osu.ppy.
 
 ## Community usage
 
-Beatmappers are encouraged to create maps for Featured Artist tracks. These tracks are provided with [timing](/wiki/Client/Beatmap_editor/Timing) data and are already cleared for use within osu!, allowing users to immediately jump into mapping without worry. The work-in-progress development build of osu!, dubbed [osu!lazer](https://github.com/ppy/osu/releases)<!-- TODO: wiki link needs own page -->, will mark these maps prominently in-game.
+Beatmappers are encouraged to create maps for Featured Artist tracks. These tracks are provided with [timing](/wiki/Client/Beatmap_editor/Timing) data and are already cleared for use within osu!, allowing users to immediately jump into mapping without worry. The work-in-progress development build of osu!, dubbed [osu!(lazer)](https://github.com/ppy/osu/releases)<!-- TODO: wiki link needs own page -->, will mark these maps prominently in-game.
 
 All mapping contests published on the [community contest listing](https://osu.ppy.sh/community/contests), such as the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and the [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), require participants to map Featured Artist songs. Some community-run contests utilise these songs as well.
 

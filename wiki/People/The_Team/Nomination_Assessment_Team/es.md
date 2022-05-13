@@ -50,12 +50,14 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluación, moderación |
-| ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  | Evaluación |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluación |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chino | Evaluación |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalí, algo de árabe | Evaluación, estructural, moderación, comunicación |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estructural, comunicación |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluación, estructural, comunicación |
+| ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluación |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estructural |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluación |
+| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Alemán, serbio | Evaluación |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluación |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Español, francés | Evaluación |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Holandés | Evaluación |
@@ -75,24 +77,26 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | Evaluación, moderación |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandés | Evaluación, estructural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Evaluación, comunicación |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | Evaluación |
 
 ### osu!mania
 
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluación |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, francés | Evaluación |
+| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chino | Evaluación |
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio | Evaluación, comunicación |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Español, portugués, gallego, italiano, japonés | Evaluación |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluación |
 
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
 [flag_ES]: /wiki/shared/flag/ES.gif "España"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suecia"

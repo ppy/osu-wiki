@@ -15,7 +15,7 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 
 Важные статьи и руководства, которые помогут погрузиться в osu!. В случае проблем или недопонимания загляните на [форум техподдержки](https://osu.ppy.sh/forum/5), или в тему «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)».
 
-[Правила](/wiki/Rules) • [Установка](/wiki/Client/Installation) • [Регистрация](/wiki/Registration) • [Справочный центр](/wiki/Help_Centre)
+[Правила](/wiki/Rules) • [Установка](/wiki/Client/Installation) • [Регистрация](/wiki/Registration) • [Справочный центр](/wiki/Help_centre)
 
 [Внутриигровой чат](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Руководства](/wiki/Guides) • [Словарь](/wiki/Glossary)
 
@@ -39,7 +39,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Режимы игры](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Карта](/wiki/Beatmap) • [Сложность](/wiki/Beatmap/Difficulty) • [Игровые объекты](/wiki/Hit_object) • [Модификаторы](/wiki/Game_modifier) • [Очки](/wiki/Gameplay/Score) • [Реплей](/wiki/Replay) • [Медали](/wiki/Medals) • [Мультиплеер](/wiki/Multi)
+[Карта](/wiki/Beatmap) • [Сложность](/wiki/Beatmap/Difficulty) • [Игровые объекты](/wiki/Hit_object) • [Модификаторы](/wiki/Game_modifier) • [Очки](/wiki/Gameplay/Score) • [Реплей](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мультиплеер](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -76,7 +76,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Медиа: [Рекомендации для медиа](/wiki/Rules/Content_Usage_Guidelines) • [Откровенное содержимое](/wiki/Rules/Explicit_Content) • [Правила для песен](/wiki/Rules/Song_Content_Rules) • [Критерии визуального содержания](/wiki/Rules/Visual_Content_Considerations)
 
-[Правовые документы](/wiki/Legal): [Пользовательское соглашение](/wiki/Legal/Terms) • [Политика конфиденциальности](/wiki/Legal/Privacy) • [Защита авторских прав (DMCA)](/wiki/Legal/Copyright) • [Лицензирование музыки](/wiki/Legal/Music_Licensing)
+[Правовые документы](/wiki/Legal): [Пользовательское соглашение](/wiki/Legal/Terms) • [Политика конфиденциальности](/wiki/Legal/Privacy) • [Защита авторских прав (DMCA)](/wiki/Legal/Copyright) • [Лицензирование музыки](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -85,9 +85,9 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Ответы на часто задаваемые вопросы и решения распространённых проблем.
 
-[Справочный центр](/wiki/Help_Centre) • [Проблемы с производительностью](/wiki/Performance_troubleshooting) • [Служба поддержки](/wiki/People/The_Team/Account_support_team) • Тема «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)» • [Форум техподдержки](https://osu.ppy.sh/forum/5)
+[Справочный центр](/wiki/Help_centre) • [Проблемы с производительностью](/wiki/Performance_troubleshooting) • [Служба поддержки](/wiki/People/The_Team/Account_support_team) • Тема «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)» • [Форум техподдержки](https://osu.ppy.sh/forum/5)
 
-Ограничения: [Сайленс](/wiki/Silence) • [Рестрикт аккаунта](/wiki/Help_Centre/Account_Restrictions)
+Ограничения: [Сайленс](/wiki/Silence) • [Рестрикт аккаунта](/wiki/Help_centre/Account_restrictions)
 
 Поддержание порядка: [Как и где помочь osu!](/wiki/Community/How_you_can_help!) • [Жалобы на чужое поведение](/wiki/Reporting_bad_behaviour) • [Жалобы на домогательства](/wiki/Reporting_bad_behaviour/Abuse) • [Жалобы на читеров](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -102,16 +102,16 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Проекты](/wiki/Community/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+Организаторы: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Люди
+# [Люди](/wiki/People)
 
 osu! бы не было без многих людей, участвующих в разработке, поддержке и управлении сообществом: игра живёт и процветает благодаря их усилиям, личному времени и вовлечённости.
 
 [Команда osu!](/wiki/People/The_Team): [Разработчики](/wiki/People/The_Team/Developers) • [Команда глобальной модерации](/wiki/People/The_Team/Global_Moderation_Team) • [Команда поддержки](/wiki/People/The_Team/Support_Team) • [Команда оценки номинаций](/wiki/People/The_Team/Nomination_Assessment_Team) • [Номинаторы карт](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Команда проекта Loved](/wiki/People/The_Team/Project_Loved_Team)
-
-Организаторы: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles)
 

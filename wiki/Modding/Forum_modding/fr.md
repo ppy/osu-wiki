@@ -17,7 +17,7 @@ Dans le système de modding du forum, chaque beatmap avait un fil de discussion 
 
 ## Fils des beatmaps
 
-Un fil de discussion a été créé pour une beatmap lors de sa [soumission](/wiki/Submission) initiale  et contenait des commentaires libres, des interactions avec les difficultés des invités et des retours structurés sous la forme de messages de mods. Il servait de centre de discussion principal entre tous les utilisateurs intéressés par les beatmaps : les joueurs réguliers, l'[hôte de la beatmap](/wiki/Beatmap/Beatmap_host), les [mappeurs invités](/wiki/Beatmap/Guest_difficulty), les [moddeurs](/wiki/Modding/Modder) et les membres des équipes de classement des beatmaps :
+Un fil de discussion a été créé pour une beatmap lors de sa [soumission](/wiki/Submission) initiale et contenait des commentaires libres, des interactions avec les guest difficulties et des retours structurés sous la forme de messages de mods. Il servait de centre de discussion principal entre tous les utilisateurs intéressés par les beatmaps : les joueurs réguliers, l'[hôte de la beatmap](/wiki/Beatmap/Beatmap_host), les [mappeurs invités](/wiki/Beatmap/Guest_difficulty), les [moddeurs](/wiki/Modding/Modder) et les membres des équipes de classement des beatmaps :
 
 - [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
 - [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
@@ -38,7 +38,7 @@ Un fil de discussion du forum a été déplacé automatiquement entre différent
 Dans chaque sous-forum, les fils des beatmaps étaient classés selon leur star priority, ce qui avait plusieurs objectifs :
 
 - Une priorité de 12 étoiles était nécessaire pour qu'une beatmap puisse recevoir une [bubble](/wiki/Modding/Bubble).
-- Certains moddeurs et membres de la BAT se sont appuyés sur la star priority pour décider de la map à modder ou à examiner ensuite.
+- Certains moddeurs et membres de la BAT se sont appuyés sur la star priority pour décider de la beatmap à modder ou à examiner ensuite.
 - La star priority était une mesure approximative de la popularité d'une beatmap parmi les moddeurs et les mappeurs.
 
 La priorité d'une beatmap peut être augmentée par des mods recevant des kudosu ou des utilisateurs tirant des étoiles de kudosu. Dans les [discussions sur les beatmaps](/wiki/Beatmap_discussion) modernes, la star priority est comparable au nombre de [hype](/wiki/Beatmap/Hype) d'une beatmap.
@@ -87,9 +87,9 @@ Bien que cela ne soit pas obligatoire, les mappeurs étaient censés répondre �
 Si un mod post était jugé utile, le mappeur ou un membre de la QAT/BAT/BN pouvait lui attribuer un kudosu. Selon une règle non écrite, seul le premier mod post d'un utilisateur pouvait être récompensé par un kudosu. Quel que soit le nombre de suggestions contenues dans un message ou son utilité pour le mappeur, le nombre de kudosu reçus était constant :
 
 - 1 kudosu, dans la plupart des circonstances.
-- 2 kudosu, au cas où le fil de discussion de la beatmap serait resté inactif pendant plus d'une semaine. Ceci était censé promouvoir le modding sur les anciennes cartes.
+- 2 kudosu, au cas où le fil de discussion de la beatmap serait resté inactif pendant plus d'une semaine. Ceci était censé promouvoir le modding sur les anciennes beatmap.
 
-Les kudosu servaient de mesure de l'activité des moddeurs. La plupart des utilisateurs dépensaient les kudosu accumulés pour augmenter la [star priority](/wiki/Modding/Star_priority) des maps qu'ils aimaient ou qu'ils voulaient promouvoir.
+Les kudosu servaient de mesure de l'activité des moddeurs. La plupart des utilisateurs dépensaient les kudosu accumulés pour augmenter la [star priority](/wiki/Modding/Star_priority) des beatmaps qu'ils aimaient ou qu'ils voulaient promouvoir.
 
 ## Dépréciation
 
@@ -97,7 +97,7 @@ Dans le système de modding basé sur le forum, de nombreuses actions étaient m
 
 - Le retour d'information du mappeur pourrait être absent.
 - Les mods peuvent être partiellement ou totalement ignorés, intentionnellement ou non.
-- Les maps pourraient être classées avec des questions unranked, ou sans l'approbation du ou des nominateurs spécifiques au mode.
+- Les beatmaps pourraient être classées avec des questions unranked, ou sans l'approbation du ou des nominateurs spécifiques au mode.
 
 Les modifications nécessaires pour résoudre les problèmes les plus courants ont été initiées le [26 avril 2013](https://osu.ppy.sh/community/forums/topics/129625), lorsque [peppy](/wiki/People/peppy) a présenté l'idée du [nouveau système de modding](/wiki/Beatmap_discussion) (connu ensuite sous le nom de *Modding v2*). Le [21 août 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), une nouvelle catégorie, [qualifiée](/wiki/Beatmap/Category#qualifiée), a été ajoutée. La catégorie servirait de tampon entre les beatmaps en attente et les beatmaps classés et permettrait des déranks plus fluides. De plus, une nouvelle équipe, la [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*), a été créée pour vérifier les beatmaps qualifiés et contrôler le processus de classement.
 

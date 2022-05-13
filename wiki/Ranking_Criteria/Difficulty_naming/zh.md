@@ -1,19 +1,14 @@
----
-outdated: true
-outdated_since: c7f544369a2aada51f6d62a7725382afb03a6373
----
-
 # 难度命名
 
-难度命名的目的是告诉玩家一张谱面的难易程度。这篇文章列出了多年来的通用约定和一些替代选择。然而，在具有描述性且清晰指示了一系列谱面间的相对难度的前提下，你可以选择任何想要的命名方式。
+难度命名的目的是为了让玩家能了解谱面的难易程度。这篇文章列出了多年来的通用约定和一些替代选择。不过，你也可以使用自己的命名方案，只要命名能大致描述难度的情况，且能清晰反映出不同难度之间的游玩难易程度阶级即可。
 
 ## 默认
 
-这些难度名在该游戏模式下最常用。
+通常情况下，osu! 四个游戏模式的谱面都使用以下列出的方案。
 
-*注：特殊难度名称 **Marathon** 历史上曾被用来允许提交更长的歌曲，从而也常被用于只有一个难度的谱面集。现在，这个名称没有特殊含义，一般只被用于特别长的歌曲或混编。*
+*注意：曾经谱师制作长度很长歌曲的谱面并上传时，被允许使用特殊的难度名称 **Marathon** 。这个名称现在没有特殊含义，一般只在歌曲特别长的谱面或歌曲混编谱面内使用。*
 
-### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
+### osu!
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy（简单）
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal（普通）
@@ -21,16 +16,15 @@ outdated_since: c7f544369a2aada51f6d62a7725382afb03a6373
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane（疯狂）
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert（专家）
 
-### ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko
+### osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan（简单）
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu（普通）
-- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii（难）
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii（困难）
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni（鬼）
 - ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni（里鬼）
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni（地狱）
 
-### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch
+### osu!catch
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad
@@ -38,7 +32,7 @@ outdated_since: c7f544369a2aada51f6d62a7725382afb03a6373
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
-### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania
+### osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
@@ -46,9 +40,9 @@ outdated_since: c7f544369a2aada51f6d62a7725382afb03a6373
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
-## 来自其他游戏的命名方式
+## 来自其他游戏的命名方案
 
-为来自其它音乐游戏的歌曲所作的谱面经常借用该游戏的难度命名方式。可以将这些难度名用于任何歌曲。此处列出已经进入 osu! 的一些常用命名方式：
+若谱面的歌曲来源为其他音乐节奏类游戏，谱师也常常会借用它们的难度命名方案来命名。这种命名手法适用于任意歌曲。此处列出一些在 osu! 内常用的命名方案：
 
 ### Beatmania IIDX
 
@@ -100,7 +94,7 @@ outdated_since: c7f544369a2aada51f6d62a7725382afb03a6373
 
 ### SOUND VOLTEX
 
-*注：较大的 SOUND VOLTEX 歌曲谱面集经常使用该游戏多个版本的命名方式，即使该歌曲并没有在各个版本中都出现。*
+*注意：即使使用的来自于 SOUND VOLTEX 的歌曲并没有在某些机种内出现，在制作较多难度的谱面时，也可使用以下所有列出的难度命名。*
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) BASIC / BSC
 - ![](/wiki/shared/diff/normal-o.png?20211215) NOVICE / NOV
@@ -124,6 +118,11 @@ outdated_since: c7f544369a2aada51f6d62a7725382afb03a6373
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) VIVID / VVD
+
+#### SOUND VOLTEX EXCEED GEAR
+
+- ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
 
 ### Arcaea
 
@@ -169,6 +168,7 @@ outdated_since: c7f544369a2aada51f6d62a7725382afb03a6373
 #### Cytus
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) Chaos
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Glitch / Crash
 
 #### Deemo
 
@@ -186,12 +186,14 @@ outdated_since: c7f544369a2aada51f6d62a7725382afb03a6373
 - ![](/wiki/shared/diff/insane-o.png?20211215) Lunatic
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra / Extra Stage / Phantasm
 
-## 广泛接受的替代
+## 约定俗成的替代方案
 
-作为对默认难度名的补充，以下难度名是常见的替代：
+以下列出的难度名称也常用于替代或补充默认方案内的难度名：
 
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: 在默认的 Easy-Normal-Hard-Insane-Expert 分布中，其指最低的难度，比 Easy 还要低。
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: 在默认的 Easy-Normal-Hard-Insane-Expert 分布中，其指在 Normal 和 Hard 之间的难度。
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: 在默认的 Easy-Normal-Hard-Insane-Expert 分布中，其指在 Hard 和 Insane 之间的难度。
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: 可被用作 Expert 的替代。
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: 可用来指更难的 Expert。
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner（初学者）：在默认的 Easy-Normal-Hard-Insane-Expert 难度分布中，它通常指代谱面内最低，甚至比 Easy 还要简单的难度。
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu（初级）：在默认的 Kantan-Futsuu-Muzukashii-Oni-Inner Oni 难度分布中，它通常指代谱面内最低，甚至比 Kantan 还要简单的难度。
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced：在默认的 Easy-Normal-Hard-Insane-Expert 难度分布中，它通常指代处于 Normal 和 Hard 之间的难度。
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper：在默认的 Easy-Normal-Hard-Insane-Expert 难度分布中，它通常指代处于 Hard 和 Insane 之间的难度。
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra：通常等同于 Expert。
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme：它通常用于指代比 Expert 更困难的难度。
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni（地狱鬼）：它通常用于指代比 Inner Oni 更困难的难度。

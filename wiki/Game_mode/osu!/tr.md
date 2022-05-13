@@ -269,13 +269,13 @@ Can tüketimi ve can kazanımını hesaplamak için kullanılan sistem karmaşı
 - Spinnerı döndürürken döndürme yönünü değiştirmek spinnerın yavaşlamasına sebep olur (dakika başına çevirme, döndürme oryantasyonunu sıfırlamak için 0'a iner), ardından doğru yöne doğru dönmeye başlar. Yeniden yönlendirme sırasında dönüş ilerlemesi kaybedilmez (ancak artmaz da), ve ters dönüşte artmaya devam eder.
 - Spinnerı merkezinin etrafında döndürmemek geçerli bir dönüş **sayılmaz**.
 - Duman efekti, varsayılan oyun içi imleç izinden daha uzun süre dayanır. Önceki duman efektlerinin çok hızlı kaybolmasını önlemek için az miktarda duman efekti uygulayın.
-- [pippi](/wiki/Mascots#-pippi), osu! modunun maskotudur.
+- [pippi](/wiki/Mascots#pippi), osu! modunun maskotudur.
 - [Auto](/wiki/Game_modifier/Auto) modunda oynandığında, oyuncu adı osu! olur.
 
 ### Tarihçe
 
 - osu!'nun eski versiyonu, değiştirilmeden veya kaldırılmadan önce *Ouendan* serisindeki bazı özellikleri taklit ederdi.
-  - Yeni kombo eşiklerine ulaşıldığında [kombo alevinin](/wiki/Glossary/Combo_fire) çıkması.
+  - Yeni kombo eşiklerine ulaşıldığında [kombo alevinin](/wiki/Gameplay/Combo_fire) çıkması.
   - Adı *osu!default by peppy* olan, v1 tema özelliklerini kullanan varsayılan temanın ilk versiyonu *Ouendan* arayüzünün neredeyse birebir kopyasını içerirdi.
     - v2 tema özelliklerini kullanan daha güzel bir varsayılan tema ile değiştirildi.
   - v1 ve v2 temaları arasındaki en önemli davranış farkı, spinnerdır.

@@ -1,3 +1,10 @@
+---
+tags:
+  - badge
+  - badges
+  - badged
+---
+
 # Official tournament support
 
 The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
@@ -22,7 +29,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - Staff members must not participate in the tournament themselves at any point, and players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
-  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users—players and staff alike—to make use of this form where necessary. 
+  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users—players and staff alike—to make use of this form where necessary.
 
 **¹**: An "experienced" staff member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
 
@@ -64,7 +71,7 @@ In addition, all promotional material or any services associated with a tourname
 - All registrants must be screened by the account support team before play commences**²**. See [tournament screening](#tournament-screening) for more details.
 - If a user satisfies the sign-up criteria (if any), the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
-- A dedicated referee must be present during every match. Players cannot "self-ref". 
+- A dedicated referee must be present during every match. Players cannot "self-ref".
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear and accessible format.
 
 **²**: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.

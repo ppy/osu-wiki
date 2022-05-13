@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 9b7428d718587f9fea31c773261ec4b724b52ac2
 layout: main_page
 no_native_review: true
 ---
@@ -16,7 +18,7 @@ Vítejte na osu! wiki, projekt obsahující širokou škálu osu! souvisejícíc
 
 Důležité články a příručky, které vám pomohou ponořit se do osu!. Pokud se něco pokazí nebo se zdá nejisté, navštivte [fórum nápovědy](https://osu.ppy.sh/forum/5).
 
-[Pravidla](/wiki/Rules) • [Instalace](/wiki/Client/Installation) • [Registrace](/wiki/Registration) • [Centrum nápovědy](/wiki/Help_Centre)
+[Pravidla](/wiki/Rules) • [Instalace](/wiki/Client/Installation) • [Registrace](/wiki/Registration) • [Centrum nápovědy](/wiki/Help_centre)
 
 [Chat konzole](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Návody](/wiki/Guides) • [Glosář](/wiki/Glossary)
 
@@ -40,7 +42,7 @@ Vše od klikání na kruhy, údery do bubnů, chytání ovoce až po hraní na s
 
 [Herní módy](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Obtížnost](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Módy](/wiki/Game_modifier) • [Skóre](/wiki/Gameplay/Score) • [Replay](/wiki/Replay) • [Medajle](/wiki/Medals) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Obtížnost](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Módy](/wiki/Game_modifier) • [Skóre](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medajle](/wiki/Medals) • [Multi](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -77,7 +79,7 @@ Přečtěte si o postupech a předpisech, které udržují osu! a její komunitu
 
 Mediální předpisy: [Pokyny k použití médií](/wiki/Rules/Content_Usage_Guidelines) • [Explicitní obsah](/wiki/Rules/Explicit_Content) • [Pravidla obsahu písní](/wiki/Rules/Song_Content_Rules) • [Aspekty vizuálního obsahu](/wiki/Rules/Visual_Content_Considerations)
 
-[Právní stránky](/wiki/Legal): [Podmínky služby](/wiki/Legal/Terms) • [Soukromí](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Licencování hudby](/wiki/Legal/Music_Licensing)
+[Právní stránky](/wiki/Legal): [Podmínky služby](/wiki/Legal/Terms) • [Soukromí](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Licencování hudby](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -86,9 +88,9 @@ Mediální předpisy: [Pokyny k použití médií](/wiki/Rules/Content_Usage_Gui
 
 Zde najdete odpovědi na časté otázky a řešení běžných problémů.
 
-[Centrum nápovědy](/wiki/Help_Centre) • [Odstraňování problémů s výkonem](/wiki/Performance_troubleshooting) • [Tým podpory účtu](/wiki/People/The_Team/Account_support_team) • [Fórum nápovědy](https://osu.ppy.sh/forum/5)
+[Centrum nápovědy](/wiki/Help_centre) • [Odstraňování problémů s výkonem](/wiki/Performance_troubleshooting) • [Tým podpory účtu](/wiki/People/The_Team/Account_support_team) • [Fórum nápovědy](https://osu.ppy.sh/forum/5)
 
-Omezení profilu: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_Centre/Account_Restrictions)
+Omezení profilu: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_centre/Account_restrictions)
 
 Udělejte svojí část: [Jak a s čím pomoci](/wiki/Community/How_you_can_help!) • [Nahlásit špatné chování](/wiki/Reporting_bad_behaviour) • [Nahlásit zneužití](/wiki/Reporting_bad_behaviour/Abuse) • [Nahlásit cheating](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -103,16 +105,16 @@ Sociální interakce je jednou z hlavních věcí, které pohánějí osu! hrá�
 
 [Projekty](/wiki/Community/Projects): [Vybraní umělci](/wiki/Featured_Artists) • [osu! komunitní setkání](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+Organizace: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Lidé
+# [Lidé](/wiki/People)
 
 osu! by nebylo možné bez mnoha uživatelů, kteří by pomáhali s vývojem, údržbou a správou komunity: díky jejich úsilí, času a odhodlání hra žije a prosperuje.
 
 [Team](/wiki/People/The_Team): [Vývojáři](/wiki/People/The_Team/Developers) • [Tým moderátorů](/wiki/People/The_Team/Global_Moderation_Team) • [Tým podpory](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap nominátoři](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
-
-Organizace: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Přispěvatelé z komunity](/wiki/People/Community_Contributors) • [Uživatelé s jedinečnými tituly](/wiki/People/Users_with_unique_titles)
 

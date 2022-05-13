@@ -6,13 +6,13 @@ outdated: true
 
 # Tournament drawings
 
-The tournament drawings screen is used to livestream the sorting of teams into groups that will compete in the group stages for a tournament. It is only available in the [osu!lazer](https://github.com/ppy/osu/releases) client.
+The tournament drawings screen is used to livestream the sorting of teams into groups that will compete in the group stages for a tournament. It is only available in the [osu!(lazer)](https://github.com/ppy/osu/releases) client.
 
-Please note that the osu!lazer client is currently under development and there may be bugs.
+Please note that the osu!(lazer) client is currently under development and there may be bugs.
 
 ## Accessing The Client
 
-Open osu!lazer and press `Ctrl + O` to reveal the game settings. From there, click "Open osu! folder". Create the following two files in this directory:
+Open osu!(lazer) and press `Ctrl + O` to reveal the game settings. From there, click "Open osu! folder". Create the following two files in this directory:
 
 ```
 drawings.ini
@@ -47,8 +47,9 @@ There are 4 buttons in the control panel, let's go over them:
 
 Press the `Begin random` and the `Stop random` buttons. When the scrolling stops on a flag at the centre of the screen, go back to the osu! folder and notice that an additional file has been created, called `drawings_results.txt`.
 
-Open the file and observe the format - this is where the results of the drawings process are stored, and should be imported into further tools to assist in managing the tournament, such as Google Spreadsheets.\
-**Please make sure to save the `drawings_results.txt` file in a safe location before pressing the Reset button otherwise it will be destroyed!**
+Open the file and observe the format - this is where the results of the drawings process are stored, and should be imported into further tools to assist in managing the tournament, such as Google Spreadsheets.
+
+**Please make sure to save the `drawings_results.txt` file in a safe location before pressing the Reset button, otherwise it will be destroyed!**
 
 ### Configuration
 
@@ -81,7 +82,7 @@ This line has three sections separated by a colon (`:`):
 | :-: | :-: | :-: |
 | AU | Australia | AUS |
 
-- The flag name refers to the name of a file that provides the flag image. By default, osu!lazer provides country flags as [ISO 3166 Alpha-2 Country Codes](https://www.iso.org/iso-3166-country-codes.html).
+- The flag name refers to the name of a file that provides the flag image. By default, osu!(lazer) provides country flags as [ISO 3166 Alpha-2 Country Codes](https://www.iso.org/iso-3166-country-codes.html).
 - The full team name is displayed in the centre of the screen when a team is selected through the scrolling process.
 - The team acronym is displayed in the group boxes.
 

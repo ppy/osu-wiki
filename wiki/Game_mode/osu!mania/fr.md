@@ -18,7 +18,7 @@ Vous pouvez également cliquer sur le bouton `Mode` et sélectionner `osu!mania`
 
 Dans l'écran de sélection des beatmaps, le nombre à côté du *K* montre combien de touches seront utilisées pour jouer. La beatmap sera jouée avec un jugement plus léger si le symbole "↓" suit le *K*.
 
-Par exemple, *4K↓* signifie que la map sera jouée avec 4 touches et un jugement de timing plus souple que la normale.
+Par exemple, *4K↓* signifie que la beatmap sera jouée avec 4 touches et un jugement de timing plus souple que la normale.
 
 Notez que le jugement d'une beatmap est déterminé automatiquement.
 
@@ -80,7 +80,7 @@ La régénération de la barre de vie s'active lentement lorsque vous tenez une/
 
 ## Styles de jeu
 
-*Référez-vous à la page [Styles de jeu sous osu!mania](/wiki/Play_style#osu-mania).*
+*Référez-vous à la page [Styles de jeu sous osu!mania](/wiki/Play_style#osu!mania).*
 
 ## Contrôles
 
@@ -192,7 +192,7 @@ Le [score dans osu!mania](/wiki/Gameplay/Score/osu!mania) est plafonné à 1 mil
 En outre, le score comporte également les éléments suivants :
 
 - La [précision](/wiki/Gameplay/Accuracy#osu!mania) dépend du jugement et montre la précision avec laquelle le joueur a appuyé sur les touches. Appuyer trop tôt ou trop tard, ainsi que manquer les notes, diminuent la précision globale.
-- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) indique combien d'objets ont été touchés à la suite. Il n'a aucun effet sur le score total et peut être [cassé](/wiki/Glossary/Combobreak) par un miss.
+- Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) indique combien d'objets ont été touchés à la suite. Il n'a aucun effet sur le score total et peut être [cassé](/wiki/Gameplay/Judgement/Combobreak) par un miss.
 
 Après avoir terminé une beatmap, le score se voit attribuer une [note](/wiki/Gameplay/Grade#osu!mania), une courte évaluation de la précision sous la forme d'une seule lettre. Un SS doré ou argenté indique une précision de 100 %.
 
@@ -221,7 +221,7 @@ Activez le bouton `Co-op mode` pour forcer le modificateur *Co-Op* quand elle se
   - Par exemple, pour une beatmap 4K, utiliser les modificateurs 2K et Co-Op n'affectera pas le score.
   - Respectivement, pour une beatmap 5K, utiliser le modificateur 5K n'affectera pas non plus le score.
   - Utiliser le modificateur xK ou Co-Op sur les beatmaps spécifiques à osu!mania n'affectera pas non plus le score.
-- Les mascottes d'osu!mania sont [Mani & Mari](/wiki/Mascots#-mani-&-mari).
+- Les mascottes d'osu!mania sont [Mani & Mari](/wiki/Mascots#mani-&-mari).
 - Lorsque le mod [Auto](/wiki/Game_modifier/Auto) est utilisé, le nom du joueur sera *osu!topus*.
 
 ### Histoire

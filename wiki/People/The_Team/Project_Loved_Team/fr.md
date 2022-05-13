@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 3fe983b3a55970aed91a0bcdca028253d918ae5d
 tags:
   - captain
   - captains
@@ -18,15 +20,15 @@ La Project Loved Team se compose principalement de *capitaines* pour chaque [mod
 
 ### osu!
 
-- ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983)
-- ![][flag_US] [kotkeone](https://osu.ppy.sh/users/10083084)
+- ![][flag_US] [Wixonater](https://osu.ppy.sh/users/10083084)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
 ### osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
+- ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996)
 - ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910)
 - ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
@@ -42,18 +44,19 @@ La Project Loved Team se compose principalement de *capitaines* pour chaque [mod
 ### osu!mania
 
 - ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750)
-- ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722)
-- ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
+- ![][flag_US] [-NoName-](https://osu.ppy.sh/users/10400730)
+- ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
-- ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
+- ![][flag_ES] [PuigdemontLoL](https://osu.ppy.sh/users/7080063)
+- ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612)
 
 ## Coordinateurs
 
 Les coordinateurs sont principalement chargés de veiller à ce que tous les capitaines travaillent ensemble pour assurer le bon déroulement du projet. Ils écrivent les nouvelles et les messages du forum, maintiennent les outils et aident à modérer les discussions sur la catégorie loved.
 
 - ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237)
-- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
+- ![][flag_FR] [Panacotta](https://osu.ppy.sh/users/2850983)
 
 ## Vérificateurs des métadonnées d'une beatmap
 
@@ -63,10 +66,10 @@ Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise 
 - ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_ES] [kadoen](https://osu.ppy.sh/users/12780575)
 - ![][flag_ES] [Nikolayio](https://osu.ppy.sh/users/11279465)
-- ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
+- ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
 - ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
-- ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063)
+- ![][flag_ES] [PuigdemontLoL](https://osu.ppy.sh/users/7080063)
 - ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
 
 ## Modération du contenu des beatmaps
@@ -74,7 +77,7 @@ Les vérificateurs des métadonnées vérifient chaque beatmap qui sera soumise 
 Les modérateurs de contenu sont des membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) et de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) qui participent à l'évaluation du contenu visuel et sonore des beatmaps qui seront soumises au vote.
 
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
-- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
+- ![][flag_FR] [Panacotta](https://osu.ppy.sh/users/2850983)
 - ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437)
 
 ## Membres retraités
@@ -88,6 +91,7 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 ### Capitaines osu!
 
 - ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
+- ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)
 - ![][flag_CA] [Kaifin](https://osu.ppy.sh/users/2596942)
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
@@ -126,12 +130,13 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852)
 - ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256)
+- ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722)
 - ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992)
 - ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783)
+- ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
 - ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
 - ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707)
-- ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612)
 - ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 
 ### Éditeurs vidéo
@@ -142,7 +147,7 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont fait partie de la Pr
 
 ## Le saviez-vous ?
 
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a créé l'équipe originelle de capitaines en septembre 2017 ainsi que le système [Captain's Pick](/wiki/Beatmap/History_of_Loved#captains-pick-et-project-loved-(septembre-2017---présent)) qui a ensuite été renommé Project Loved. Jusqu'à fin 2019, il a supervisé et géré l'ensemble du projet.
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a créé l'équipe originelle de capitaines en septembre 2017 ainsi que le système [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-et-project-loved-(septembre-2017---présent)) qui a ensuite été renommé Project Loved. Jusqu'à fin 2019, il a supervisé et géré l'ensemble du projet.
 - Avant le 28 avril 2021, la [page du groupe Project Loved](https://osu.ppy.sh/groups/31) n'était pas publique et n'était utilisée qu'à des fins administratives. À partir de maintenant, elle est accessible au public.
   - Jusqu'au 16 avril 2021, les seules personnes qui faisaient partie du groupe étaient ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), et ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689). Maintenant, tous les utilisateurs faisant partie de la Project Loved Team appartiennent au groupe.
 

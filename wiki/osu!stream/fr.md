@@ -132,7 +132,7 @@ Le mode Stream est un mode exclusif à osu!stream. Dans ce mode, les joueurs com
 
 En bref, le joueur commence entre Easy et Hard.
 
-Notez que le joueur **doit obtenir au moins le rang A (>80% de précision) dans ce mode afin de débloquer le mode Expert de la chanson**. Une précision inférieure à 80 %, même en full-combo, ne compte pas comme A (elle sera comptée comme B, comme d'habitude).
+Notez que le joueur **doit obtenir au moins le rang A (>80% de précision) dans ce mode afin de débloquer le mode Expert de la musique**. Une précision inférieure à 80 %, même en full-combo, ne compte pas comme A (elle sera comptée comme B, comme d'habitude).
 
 La couleur de fond est verte (Easy), bleue (Normal) et rose (Hard).
 
@@ -216,7 +216,7 @@ La couleur de fond est le violet et les lumières s'assombrissent en fonction de
 
 ---
 
-## Liste des Chansons
+## Liste des musiques
 
 ***[Cliquez ici pour une liste complète](Song_List)***
 
@@ -255,7 +255,7 @@ En outre, chaque tick de début, de fin et de répétition du slider rapporte 30
 
 - Un cercle de 300, 100 ou 50 est attribué à partir d'une frappe normale, selon la précision de la frappe.
 - Un miss est donné si un cercle a été frappé trop tôt ou n'a pas été frappé du tout.
-  - Si vous tapez dessus trop tôt, l'objet va trembler, on parle ici d'un [Notelock](/wiki/Gameplay/Notelock). Techniquement, il ne se passe rien, si ce n'est que l'on peut voir que l'objet a été touché trop tôt.
+  - Si vous tapez dessus trop tôt, l'objet va trembler, on parle ici d'un [Notelock](/wiki/Gameplay/Judgement/Notelock). Techniquement, il ne se passe rien, si ce n'est que l'on peut voir que l'objet a été touché trop tôt.
 
 **Hold-circle**
 
@@ -359,7 +359,7 @@ En raison de la difficulté d'obtenir une licence pour cette dernière.
 
 Rendez-vous dans la section "Store" du jeu ou appuyez sur le bouton "Download more songs..." dans la section "Play".
 
-### Quelle est la chanson thème de osu!stream ?
+### Quelle est la musique thème de osu!stream ?
 
 [nekodex - osu!stream theme (1.48)](https://soundcloud.com/nekodex/osu-stream-theme).
 On l'entend généralement dans le menu principal et sur l'écran du tutoriel.

@@ -4,7 +4,7 @@ Depuis la version 2.5, les skinners peuvent personnaliser entièrement les notes
 
 ## Hit Bursts
 
-*Voir également : [Skinning/FAQ § Hiérarchie de l'écran de classement](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
+*Voir également : [Skinning/FAQ § Hiérarchie de l'écran de classement](/wiki/Skinning/FAQ#hiérarchie-des-résultats-de-l'écran-de-classement)*
 
 ---
 
@@ -527,7 +527,7 @@ Notes :
 
 - Cet élément doit pointer vers le bas.
   - Cette image est automatiquement inversé horizontalement si le stage est inversé.
-- Cet élément est toujours présent avant le début d'une map, s'il y a suffisamment de temps.
+- Cet élément est toujours présent avant le début d'une beatmap, s'il y a suffisamment de temps.
 
 ### Lighting
 

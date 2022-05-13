@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 17eeba86a2344329aec159f1673c810a37a874b4
+---
+
 # Nasıl yardım edebilirsiniz!
 
 osu!, dünyanın dört bir yanından bir araya gelmiş enerjik bir topluluğa sahiptir. Herkes kendi tarzına göre topluluğun bir parçası olabilir.
@@ -58,9 +63,9 @@ Aşağıda katkıda bulunabileceğiniz yollardan birkaçı mevcut:
 
 ## osu!'nun geleceğine katkıda bulunun
 
-2017 yılında başlayan osu!lazer projesi, bugün görmüş olduğunuz yeni web sayfası ile birlikte, osu! team'in mevcut odağıdır. Eğer bu projeleri daha iyi hale getirmek ve bizi osu!'nun geleceğine daha da yakınlaştırmak istiyorsanız, yapabileceğiniz bir dizi şey mevcut, ancak aşağıdakiler yalnızca birkaç örnek:
+2017 yılında başlayan osu!(lazer) projesi, bugün görmüş olduğunuz yeni web sayfası ile birlikte, osu! team'in mevcut odağıdır. Eğer bu projeleri daha iyi hale getirmek ve bizi osu!'nun geleceğine daha da yakınlaştırmak istiyorsanız, yapabileceğiniz bir dizi şey mevcut, ancak aşağıdakiler yalnızca birkaç örnek:
 
-- [osu!lazer](https://github.com/ppy/osu) projesine yardım edin. osu!'nun yeni sürümüne eklenecek daha pek çok şey bulunuyor, ve siz bunların gerçekleşmesine yardım edebilirsiniz!
+- [osu!(lazer)](https://github.com/ppy/osu) projesine yardım edin. osu!'nun yeni sürümüne eklenecek daha pek çok şey bulunuyor, ve siz bunların gerçekleşmesine yardım edebilirsiniz!
 - [Yeni web sayfasını](https://github.com/ppy/osu-web) daha da iyi hale getirin.
 
 ## Olumsuz olmaktan kaçının! İnsanları mutlu edin!

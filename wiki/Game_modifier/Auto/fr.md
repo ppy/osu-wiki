@@ -34,7 +34,7 @@ tags:
 
 Le mod **Auto** est un [modificateur de jeu](/wiki/Game_modifier) qui permet aux joueurs de regarder une exécution parfaite de la beatmap sélectionné.
 
-Le mod fonctionne exactement comme un [replay](/wiki/Replay), avec les options de lecture à la vitesse de 0,5x/1,0x/2,0x et les commentaires sur la beatmap qui peuvent être vus et faits comme d'habitude. Le mod Auto obtiendra toujours la note SS, à l'exception de quelques cas particuliers.
+Le mod fonctionne exactement comme un [replay](/wiki/Gameplay/Replay), avec les options de lecture à la vitesse de 0,5x/1,0x/2,0x et les commentaires sur la beatmap qui peuvent être vus et faits comme d'habitude. Le mod Auto obtiendra toujours la note SS, à l'exception de quelques cas particuliers.
 
 ### osu!
 
@@ -42,7 +42,7 @@ Dans le mode [osu!](/wiki/Game_mode/osu!), lorsqu'il est confronté à un spinne
 
 ### osu!taiko
 
-Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Auto tentera de jouer parfaitement, mais n'obtiendra pas toujours la note SS. Il manquera parfois un tick sur les drum rolls qui ne commencent pas sur un temps entier ou un demi-ton et ne sera pas toujours capable de terminer les dendens sur les cartes dont la difficulté globale est très élevée.
+Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Auto tentera de jouer parfaitement, mais n'obtiendra pas toujours la note SS. Il manquera parfois un tick sur les drum rolls qui ne commencent pas sur un temps entier ou un demi-ton et ne sera pas toujours capable de terminer les dendens sur les beatmaps dont la difficulté globale est très élevée.
 
 ### osu!catch
 

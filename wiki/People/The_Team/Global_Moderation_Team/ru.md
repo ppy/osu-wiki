@@ -68,6 +68,7 @@ tags:
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | Китайский, малайзийский | Модерация чата |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Модерация чата |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Шведский, испанский | Модерация чата, турниры |
+| ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | Модерация чата |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Корейский, японский | Модерация чата |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Турецкий | Модерация чата |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Испанский | Модерация чата, модерация форума |
@@ -85,6 +86,7 @@ tags:
 | ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Немецкий | Модерация маппинг-сообщества |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Русский | Модерация чата |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Японский | Модерация чата |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Русский | Модерация чата |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Русский | Модерация чата |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Финский | Модерация чата |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Португальский, испанский | Модерация чата, турниры |
@@ -93,7 +95,6 @@ tags:
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Кантонский диалект, китайский | Турниры |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Португальский | Модерация маппинг-сообщества |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Разработка osu! |
-| ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | Русский | Модерация чата |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Филиппинский | Модерация чата, модерация форума, техподдержка |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Французский | Модерация чата |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Модерация маппинг-сообщества |
@@ -102,9 +103,10 @@ tags:
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Португальский, испанский | Модерация чата |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Немецкий | Модерация маппинг-сообщества |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Немецкий, сербский | Модерация чата, модерация маппинг-сообщества |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Официальное представление команды |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Филиппинский | Модерация чата |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Официальное представление команды |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Немецкий | Турниры |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Французский, частично испанский | Модерация чата |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Португальский | Модерация чата |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Кантонский диалект, китайский | Модерация чата |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Корейский, японский | Модерация чата |
@@ -158,7 +160,7 @@ tags:
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
 | `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484), ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) |
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
-| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467), ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
+| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467), ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |

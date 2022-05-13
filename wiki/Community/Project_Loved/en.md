@@ -30,13 +30,15 @@ There are some very minimal criteria that need to be met for beatmaps to be nomi
 
 Although many [Pending and Work-in-progress](/wiki/Beatmap/Category#work-in-progress-and-pending) maps meet these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
 
-Beatmaps entering the Loved category are required to follow some additional rule sets:
+Beatmaps entering the Loved category are required to follow some additional rulesets:
 
-- [The Metadata section of the Ranking Criteria](/wiki/Ranking_Criteria#metadata)
+- [Some points from the Metadata section of the Ranking Criteria](/wiki/Ranking_Criteria#metadata):
+  - Song title, artist, and source should be correct in all cases.
+  - Beatmap tags should properly list all contributors (guest difficulty creators, storyboarders, etc.).
 - [Song Content Rules](/wiki/Rules/Song_Content_Rules)
 - [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations)
 
-Additionally, in order to keep the audio quality of the song at a reasonable level, beatmap's audio files should be from the highest quality source available while having an average bit rate no greater than 192kbps.
+Additionally, in order to keep the audio quality of the song at a reasonable level, beatmap audio files should have an average bitrate of at least 128kbps.
 
 Any problems with these rules are usually sorted out while the map is up for voting.
 
@@ -48,7 +50,8 @@ There are no strict rules governing which maps a captain must nominate for Loved
 
 All of the organisation and planning for Project Loved is done in the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy). There is also a `#project-loved` channel in the [osu! Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H). Any questions, concerns, or suggestions may be directed there.
 
-In addition to the discussion channels mentioned above, osu!taiko and osu!mania communities have their own dedicated Discord hubs, which you may join via the following links:
+In addition to the discussion channels mentioned above, the osu!taiko, osu!catch, and osu!mania communities have their own dedicated Discord hubs, which you may join via the following links:
 
 - [osu!taiko Project Loved Discord server](https://discord.com/invite/GhfjtZ6)
+- [osu!catch Project Loved Discord server](https://discord.gg/phgtyS4UCh)
 - [osu!mania Project Loved Discord server](https://discord.gg/Ededv7m)

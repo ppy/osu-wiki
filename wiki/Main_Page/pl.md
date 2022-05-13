@@ -14,7 +14,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 # Podstawy
 
-[Instalacja](/wiki/Client/Installation) • [Rejestracja](/wiki/Registration) • [Centrum pomocy](/wiki/Help_Centre) • [Najczęściej zadawane pytania](/wiki/FAQ)
+[Instalacja](/wiki/Client/Installation) • [Rejestracja](/wiki/Registration) • [Centrum pomocy](/wiki/Help_centre) • [Najczęściej zadawane pytania](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -32,7 +32,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 [Tryby gry](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmapa](/wiki/Beatmap) • [Obiekty rozgrywki](/wiki/Hit_object) • [Modyfikatory](/wiki/Game_modifier) • [Wynik](/wiki/Gameplay/Score) • [Powtórka](/wiki/Replay) • [Tryb wieloosobowy](/wiki/Multi)
+[Beatmapa](/wiki/Beatmap) • [Obiekty rozgrywki](/wiki/Hit_object) • [Modyfikatory](/wiki/Game_modifier) • [Wynik](/wiki/Gameplay/Score) • [Powtórka](/wiki/Gameplay/Replay) • [Tryb wieloosobowy](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -61,14 +61,14 @@ Komponenty: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Podzielnik beatu](/w
 
 [Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Community/Projects) • [Poradniki](/wiki/Guides) • [Serwer Discord osu!dev](/wiki/Community/osu!dev_Discord_server) • [Jak możesz pomóc?](/wiki/Community/How_you_can_help!) • [Słownik](/wiki/Glossary)
 
+Organizacje: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Użytkownicy
+# [Użytkownicy](/wiki/People)
 
 [Zespół](/wiki/People/The_Team): [Programiści](/wiki/People/The_Team/Developers) • [Moderatorzy globalni](/wiki/People/The_Team/Global_Moderation_Team) • [Pomoc techniczna](/wiki/People/The_Team/Support_Team) • [Zespół zapewniania jakości](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominatorzy beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [Alumni osu!](/wiki/People/The_Team/osu!_Alumni) • [Zespół Project Loved](/wiki/People/The_Team/Project_Loved_Team)
-
-Organizacje: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Zasłużeni dla społeczności](/wiki/People/Community_Contributors) • [Utytułowani użytkownicy](/wiki/People/Users_with_unique_titles)
 

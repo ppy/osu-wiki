@@ -4,13 +4,20 @@ osu! fait de son mieux pour fonctionner avec des paramètres par défaut sains e
 
 Malheureusement, en raison de l'étendue du matériel sur lequel fonctionne osu!, il est très difficile de garantir des performances optimales pour chaque utilisateur. Cette page a pour but de vous aider à auto-diagnostiquer les problèmes de performance que vous rencontrez, mais elle fournit également des termes spécifiques que vous pouvez apprendre (et des vérifications que vous pouvez effectuer) pour nous aider lorsque vous contactez le support.
 
+## Points à vérifier
+
+- Utilisez-vous un skin ? Si c'est le cas, essayez de revenir au skin par défaut et voyez si les choses s'améliorent. Certains skins peuvent être conçus d'une manière qui peut entraîner des problèmes de performances sur certains ou tous les systèmes.
+- Votre limiteur d'images est-il réglé sur "illimité" ? Réglez-le sur "optimal" et voyez si cela vous aide. Voir [sa section ci-dessous](#illimité) pour plus d'informations sur les raisons pour lesquelles "illimité" n'est généralement pas le meilleur choix.
+- Vous êtes en mode fenêtré ? Passez en mode plein écran.
+- Avez-vous mis à jour vos pilotes (en particulier le GPU) ? Essayez de le faire et voyez si les choses s'améliorent. Sinon, si vous les avez récemment mis à jour, essayez de revenir en arrière.
+
 ## Les types de "lags"
 
 Il est assez difficile de fournir une assistance lorsque tous les types de problèmes sont regroupés sous le seul mot "lag". Commençons donc par définir certains termes pour des scénarios spécifiques.
 
 ### Saccade audio
 
-La piste audio des beatmaps revient en arrière ou s'interrompt. Lorsque le jeu lag, vous pouvez l'entendre dans l'audio. Lors du diagnostic ou du signalement, il peut être utile de :
+Le fichier audio des beatmaps revient en arrière ou s'interrompt. Lorsque le jeu lag, vous pouvez l'entendre dans l'audio. Lors du diagnostic ou du signalement, il peut être utile de :
 
 - Vérifier si cela se produit sur tous les périphériques audio disponibles. Si vous utilisez un casque USB, essayez plutôt de vous connecter via la sortie analogique de votre PC.
 - Vérifier si l'activation du paramètre "Mode de compatibilité audio" dans les options vous aide.

@@ -1084,7 +1084,7 @@ Notes :
 
 Notes :
 
-- Cet élément apparaît sur l'écran de classement (après avoir terminé une map ou consulté un score).
+- Cet élément apparaît sur l'écran de classement (après avoir terminé une beatmap ou consulté un score).
 - Cet élément est positionné à 672px de hauteur ou à 576px de hauteur, si `pause-retry.png` n'est pas disponible.
 
 ---
@@ -1104,7 +1104,7 @@ Notes :
     - Centre, positionné à 400px de hauteur
   - écran de classement :
     - A droite, positionné à 576px de hauteur
-- Cet élément apparaît sur l'écran de classement après avoir terminé une map et sur les écrans de pause et d'échec.
+- Cet élément apparaît sur l'écran de classement après avoir terminé une beatmap et sur les écrans de pause et d'échec.
 
 ### Scorebar
 
@@ -1884,7 +1884,7 @@ Notes :
 
 Notes :
 
-- Cet élément est utilisé uniquement en [multi](/wiki/Multi).
+- Cet élément est utilisé uniquement en [multi](/wiki/Gameplay/Multiplayer).
 
 ## Entrée du score
 
@@ -2152,7 +2152,7 @@ Notes :
 Notes :
 
 - Cet élément est utilisé pour les classements dans le jeu.
-- Cet élément est utilisé dans les parties [Multi](/wiki/Multi) lorsque la condition de victoire est définie sur la précision.
+- Cet élément est utilisé dans les parties [Multi](/wiki/Gameplay/Multiplayer) lorsque la condition de victoire est définie sur la précision.
 - Teinté en blanc.
 
 ---

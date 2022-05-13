@@ -37,7 +37,7 @@ Catatan:
 - Nama animasi: `pippidonfail{n}.png`.
 - Kecepatan animasi tergantung oleh ketukan per menit (BPM).
 - Animasi ini akan diputar ketika pemain memperoleh miss pada saat bermain atau tidak memiliki health yang cukup ketika mencapai break.
-- Elemen ini menggantikan elemen `pippidonkiai` jika pemain miss selama [kiai time](/wiki/Kiai_time).
+- Elemen ini menggantikan elemen `pippidonkiai` jika pemain miss selama [kiai time](/wiki/Gameplay/Kiai_time).
 
 ---
 
@@ -69,7 +69,7 @@ Catatan:
 
 - Nama animasi: `pippidonkiai{n}.png`.
 - Kecepatan animasi tergantung oleh ketukan per menit (BPM).
-- Animasi ini akan diputar selama [kiai time](/wiki/Kiai_time).
+- Animasi ini akan diputar selama [kiai time](/wiki/Gameplay/Kiai_time).
 - `pippidonfail.png` akan menggantikan elemen ini apabila pemain memperoleh miss selama kiai time.
 
 ## Hit Burst
@@ -264,7 +264,7 @@ Catatan:
 
 - Elemen ini ditenggarai dapat menyebabkan *bug-bug* tertentu pada skin yang digunakan.
 - Diwarnai kuning.
-- Elemen ini tersembunyi di belakang note-note yang muncul selama [kiai time](/wiki/Kiai_time) dan akan muncul ketika pemain berhasil mengenai note-note tersebut.
+- Elemen ini tersembunyi di belakang note-note yang muncul selama [kiai time](/wiki/Gameplay/Kiai_time) dan akan muncul ketika pemain berhasil mengenai note-note tersebut.
 
 ---
 
@@ -281,7 +281,7 @@ Catatan:
 - Diwarnai merah oranye.
 - Elemen ini tidak perlu untuk dibuat untuk osu!taiko.
   - Elemen ini hanya akan terlihat apabila taiko bar yang digunakan bersifat transparan.
-- Elemen ini berdenyut di belakang scrolling bar pada hit position saat [kiai time](/wiki/Kiai_time).
+- Elemen ini berdenyut di belakang scrolling bar pada hit position saat [kiai time](/wiki/Gameplay/Kiai_time).
 
 ## Playfield (paruh atas)
 

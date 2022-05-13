@@ -1,6 +1,6 @@
 # Registre du personnel : 2021
 
-Les  abréviations des groupes d'utilisateurs utilisées dans ce registre sont les suivantes :
+Les abréviations des groupes d'utilisateurs utilisées dans ce registre sont les suivantes :
 
 - **BN :** [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)
 - **GMT :** [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)
@@ -347,6 +347,11 @@ Les  abréviations des groupes d'utilisateurs utilisées dans ce registre sont l
 
 - 02/08/2021 : Retrait de [Nepuri](https://osu.ppy.sh/users/6637817) : **osu! Alumni**
 - 16/08/2021 : Retrait de [Pope Gadget](https://osu.ppy.sh/users/2288341) : **Project Loved Team**
+- 23/08/2021 : Transfert de [n0ah](https://osu.ppy.sh/users/3086393) : **GMT** > **osu! Alumni**
+- 29/08/2021 : Ajout de [Hivie](https://osu.ppy.sh/users/14102976) : **Project Loved Team**
+- 30/08/2021 : Ajout de [Zeus-](https://osu.ppy.sh/users/5464437) : **Project Loved Team**
+- 30/08/2021 : Ajout de [Doomsday](https://osu.ppy.sh/users/18983) : **Project Loved Team**
+- 30/08/2021 : Retrait de [X a v y](https://osu.ppy.sh/users/3738344) : **Project Loved Team**
 
 ### Beatmap Nominators
 
@@ -360,6 +365,8 @@ Les  abréviations des groupes d'utilisateurs utilisées dans ce registre sont l
 - 11/08/2021 : Ajout de [FuJu](https://osu.ppy.sh/users/10773882) : **Probationary BN**
 - 13/08/2021 : Ajout de [RandomeLoL](https://osu.ppy.sh/users/7080063) : **Probationary BN**
 - 13/08/2021 : Ajout de [DarkistDeci](https://osu.ppy.sh/users/13360768) : **Probationary BN**
+- 25/08/2021 : Ajout de [Een Persoon](https://osu.ppy.sh/users/10959501) : **Probationary BN**
+- 28/08/2021 : Ajout de [Mordred](https://osu.ppy.sh/users/7265097) : **Probationary BN**
 
 #### Transferts
 
@@ -369,6 +376,9 @@ Les  abréviations des groupes d'utilisateurs utilisées dans ce registre sont l
 - 13/08/2021 : Transfert de [Murumoo](https://osu.ppy.sh/users/8001433) : **BN** > **Probationary BN**
 - 13/08/2021 : Transfert de [yenmaster](https://osu.ppy.sh/users/12565402) : **Probationary BN** > **BN**
 - 13/08/2021 : Transfert de [Chatie](https://osu.ppy.sh/users/6524765) : **Probationary BN** > **BN**
+- 28/08/2021 : Transfert de [BlackBq](https://osu.ppy.sh/users/6291741) : **Probationary BN** > **BN**
+- 30/08/2021 : Transfert de [Chatie](https://osu.ppy.sh/users/6524765) : **BN** > **Probationary BN**
+- 30/08/2021 : Transfert de [autofanboy](https://osu.ppy.sh/users/636114) : **BN** > **Probationary BN**
 
 #### Retraits
 
@@ -378,3 +388,205 @@ Les  abréviations des groupes d'utilisateurs utilisées dans ce registre sont l
 - 13/08/2021 : Retrait de [Lirai](https://osu.ppy.sh/users/3734394) : **BN**
 - 17/08/2021 : Retrait de [Default Guy](https://osu.ppy.sh/users/7058457) : **Probationary BN**
 - 17/08/2021 : Retrait de [CallieCube](https://osu.ppy.sh/users/7535045) : **Probationary BN**
+- 19/08/2021 : Retrait de [Cychloryn](https://osu.ppy.sh/users/6921736) : **BN**
+- 30/08/2021 : Retrait de [tomatas95](https://osu.ppy.sh/users/11403815) : **Probationary BN**
+- 30/08/2021 : Retrait de [Akayume](https://osu.ppy.sh/users/10617530) : **Probationary BN**
+- 30/08/2021 : Retrait de [Dada](https://osu.ppy.sh/users/9119507) : **Probationary BN**
+- 30/08/2021 : Retrait de [Iceluin](https://osu.ppy.sh/users/3558897) : **Probationary BN**
+- 30/08/2021 : Retrait de [AJT](https://osu.ppy.sh/users/3181083) : **BN**
+
+## Septembre
+
+- 06/09/2021 : Ajout de [Gamelan4](https://osu.ppy.sh/users/9856910) : **Project Loved Team**
+- 06/08/2021 : Transfert de [Stefan](https://osu.ppy.sh/users/626907) : **GMT** > **osu! Alumni**
+- 07/09/2021 : Retrait de [Alter-](https://osu.ppy.sh/users/4980256) : **Project Loved Team**
+- 14/09/2021 : Transfert de [Clobohne](https://osu.ppy.sh/users/499343) : **GMT** > **osu! Alumni**
+- 25/09/2021 : Transfert de [Seto Kousuke](https://osu.ppy.sh/users/2857314) : **NAT** > **osu! Alumni**
+- 27/09/2021 : Ajout de [UberFazz](https://osu.ppy.sh/users/8646059) : **NAT**
+- 27/09/2021 : Ajout de [Uberzolik](https://osu.ppy.sh/users/1314547) : **NAT**
+- 29/09/2021 : Ajout de [Paturages](https://osu.ppy.sh/users/1375479) : **Project Loved Team**
+- 29/09/2021 : Ajout de [DannyPX](https://osu.ppy.sh/users/11253722) : **Project Loved Team**
+- 29/09/2021 : Retrait de [-mint-](https://osu.ppy.sh/users/8976576) : **Project Loved Team**
+
+### Beatmap Nominators
+
+#### Ajouts
+
+- 07/09/2021 : Ajout de [Flask](https://osu.ppy.sh/users/959763) : **Probationary BN**
+- 10/09/2021 : Ajout de [D0UG](https://osu.ppy.sh/users/13806900) : **Probationary BN**
+- 13/09/2021 : Ajout de [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) : **Probationary BN**
+- 17/09/2021 : Ajout de [DakeDekaane](https://osu.ppy.sh/users/1425253) : **Probationary BN**
+- 23/09/2021 : Ajout de [Iceluin](https://osu.ppy.sh/users/3558897) : **BN**
+- 23/09/2021 : Ajout de [Dada](https://osu.ppy.sh/users/9119507) : **BN**
+- 26/09/2021 : Ajout de [duski](https://osu.ppy.sh/users/6506484) : **Probationary BN**
+- 28/09/2021 : Ajout de [Froskya](https://osu.ppy.sh/users/4230454) : **Probationary BN**
+- 29/09/2021 : Ajout de [Rocma](https://osu.ppy.sh/users/566276) : **Probationary BN**
+
+#### Transferts
+
+- 02/09/2021 : Transfert de [gevbiivi5](https://osu.ppy.sh/users/7140680) : **BN** > **Probationary BN**
+- 04/09/2021 : Transfert de [Mirea](https://osu.ppy.sh/users/8404646) : **Probationary BN** > **BN**
+- 04/09/2021 : Transfert de [mrowswares](https://osu.ppy.sh/users/9558549) : **Probationary BN** > **BN**
+- 19/09/2021 : Transfert de [Riana](https://osu.ppy.sh/users/1997633) : **Probationary BN** > **BN**
+- 21/09/2021 : Transfert de [Lacrima](https://osu.ppy.sh/users/4915649) : **Probationary BN** > **BN**
+- 26/09/2021 : Transfert de [Idealism](https://osu.ppy.sh/users/3869519) : **Probationary BN** > **BN**
+- 27/09/2021 : Transfert de [mnyui](https://osu.ppy.sh/users/14261540) : **Probationary BN** > **BN**
+- 27/09/2021 : Transfert de [Kyle Y](https://osu.ppy.sh/users/3565813) : **Probationary BN** > **BN**
+- 27/09/2021 : Transfert de [FuJu](https://osu.ppy.sh/users/10773882) : **Probationary BN** > **BN**
+
+#### Retraits
+
+- 01/09/2021 : Retrait de [wonjae](https://osu.ppy.sh/users/5032045) : **BN**
+- 02/09/2021 : Retrait de [X a v y](https://osu.ppy.sh/users/3738344) : **Probationary BN**
+- 07/09/2021 : Retrait de [pimp](https://osu.ppy.sh/users/328615) : **Probationary BN**
+- 10/09/2021 : Retrait de [Stefan](https://osu.ppy.sh/users/626907) : **BN**
+- 19/09/2021 : Retrait de [Bibbity Bill](https://osu.ppy.sh/users/4446810) : **BN**
+- 21/09/2021 : Retrait de [Du5t](https://osu.ppy.sh/users/6053071) : **BN**
+- 23/09/2021 : Retrait de [Mimari](https://osu.ppy.sh/users/14339830) : **BN**
+- 23/09/2021 : Retrait de [Sonnyc](https://osu.ppy.sh/users/11771) : **BN**
+- 27/09/2021 : Retrait de [UberFazz](https://osu.ppy.sh/users/8646059) : **BN**
+- 27/09/2021 : Retrait de [Uberzolik](https://osu.ppy.sh/users/1314547) : **BN**
+
+## Octobre
+
+- 06/10/2021 : Transfert de [[ Another ]](https://osu.ppy.sh/users/3416573) : **osu! Alumni** > **GMT**
+- 10/10/2021 : Transfert de [- Felix](https://osu.ppy.sh/users/8503985) : **GMT** > **osu! Alumni**
+- 14/10/2021 : Ajout de [radar](https://osu.ppy.sh/users/7131099) : **NAT**
+- 14/10/2021 : Ajout de [Capu](https://osu.ppy.sh/users/2474015) : **NAT**
+- 14/10/2021 : Transfert de [Tyistiana](https://osu.ppy.sh/users/1421452) : **NAT** > **osu! Alumni**
+- 24/10/2021 : Retrait de [Agatsu](https://osu.ppy.sh/users/5579871) : **NAT**
+
+### Beatmap Nominators
+
+#### Ajouts
+
+- 01/10/2021 : Ajout de [Nifty](https://osu.ppy.sh/users/4956097) : **Probationary BN**
+- 01/10/2021 : Ajout de [tomatas95](https://osu.ppy.sh/users/11403815) : **BN**
+- 03/10/2021 : Ajout de [Kawawa](https://osu.ppy.sh/users/4647754) : **Probationary BN**
+- 09/10/2021 : Ajout de [Ymiir](https://osu.ppy.sh/users/3922569) : **Probationary BN**
+- 09/10/2021 : Ajout de [Dapuluous](https://osu.ppy.sh/users/8140944) : **Probationary BN**
+- 10/10/2021 : Ajout de [Greenshell](https://osu.ppy.sh/users/8693851) : **Probationary BN**
+- 10/10/2021 : Ajout de [Asherz007](https://osu.ppy.sh/users/9014047) : **Probationary BN**
+- 11/10/2021 : Ajout de [AJT](https://osu.ppy.sh/users/3181083) : **BN**
+- 13/10/2021 : Ajout de [riffy](https://osu.ppy.sh/users/597957) : **BN**
+- 13/10/2021 : Ajout de [elicz1](https://osu.ppy.sh/users/8039342) : **Probationary BN**
+- 17/10/2021 : Ajout de [Toofu](https://osu.ppy.sh/users/11004271) : **Probationary BN**
+- 23/10/2021 : Ajout de [Roger](https://osu.ppy.sh/users/1538223) : **BN**
+- 24/10/2021 : Ajout de [Agatsu](https://osu.ppy.sh/users/5579871) : **BN**
+
+#### Transferts
+
+- 01/10/2021 : Transfert de [Mordred](https://osu.ppy.sh/users/7265097) : **Probationary BN** > **BN**
+- 09/10/2021 : Transfert de [Chatie](https://osu.ppy.sh/users/6524765) : **Probationary BN** > **BN**
+- 09/10/2021 : Transfert de [autofanboy](https://osu.ppy.sh/users/636114) : **Probationary BN** > **BN**
+- 09/10/2021 : Transfert de [[ Decku ]](https://osu.ppy.sh/users/13360768) : **Probationary BN** > **BN**
+- 09/10/2021 : Transfert de [Murumoo](https://osu.ppy.sh/users/8001433) : **Probationary BN** > **BN**
+- 09/10/2021 : Transfert de [RandomeLoL](https://osu.ppy.sh/users/7080063) : **Probationary BN** > **BN**
+- 15/10/2021 : Transfert de [[Karcher] 2](https://osu.ppy.sh/users/9892196) : **Probationary BN** > **BN**
+- 18/10/2021 : Transfert de [Een Persoon](https://osu.ppy.sh/users/10959501) : **Probationary BN** > **BN**
+- 19/10/2021 : Transfert de [Cris-](https://osu.ppy.sh/users/6175280) : **BN** > **Probationary BN**
+- 19/10/2021 : Transfert de [D0UG](https://osu.ppy.sh/users/13806900) : **Probationary BN** > **BN**
+- 21/10/2021 : Transfert de [PokeSky](https://osu.ppy.sh/users/3617111) : **BN** > **Probationary BN**
+- 23/10/2021 : Transfert de [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) : **Probationary BN** > **BN**
+- 28/10/2021 : Transfert de [flask](https://osu.ppy.sh/users/959763) : **Probationary BN** > **BN**
+- 29/10/2021 : Transfert de [DakeDekaane](https://osu.ppy.sh/users/1425253) : **Probationary BN** > **BN**
+
+#### Retraits
+
+- 01/10/2021 : Retrait de [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) : **BN**
+- 08/10/2021 : Retrait de [davidminh0111](https://osu.ppy.sh/users/9623142) : **BN**
+- 10/10/2021 : Retrait de [Kudosu](https://osu.ppy.sh/users/11038155) : **BN**
+- 13/10/2021 : Retrait de [DeviousPanda](https://osu.ppy.sh/users/4966334) : **BN**
+- 14/10/2021 : Retrait de [radar](https://osu.ppy.sh/users/7131099) : **BN**
+- 14/10/2021 : Retrait de [Capu](https://osu.ppy.sh/users/2474015) : **BN**
+- 17/10/2021 : Retrait de [Arzenvald](https://osu.ppy.sh/users/3027421) : **BN**
+- 21/10/2021 : Retrait de [Roasted Chicken](https://osu.ppy.sh/users/9461160) : **BN**
+- 22/10/2021 : Retrait de [Jemzuu](https://osu.ppy.sh/users/7890134) : **BN**
+
+## Novembre
+
+- 03/11/2021 : Ajout de [Nokashi](https://osu.ppy.sh/users/5431196) : **Project Loved Team**
+- 05/11/2021 : Transfert de [Kibbleru](https://osu.ppy.sh/users/3193504) : **NAT** > **osu! Alumni**
+- 05/11/2021 : Transfert de [- Felix](https://osu.ppy.sh/users/8503985) : **osu! Alumni** > **GMT**
+- 05/11/2021 : Transfert de [ztrot](https://osu.ppy.sh/users/6347) : **GMT** > **osu! Alumni**
+- 05/11/2021 : Transfert de [Pachiru](https://osu.ppy.sh/users/2850983) : **GMT** > **osu! Alumni**
+- 20/11/2021 : Ajout de [AJT](https://osu.ppy.sh/users/3181083) : **NAT**
+- 24/11/2021 : Ajout de [Quenlla](https://osu.ppy.sh/users/4725379) : **NAT**
+
+### Beatmap Nominators
+
+#### Ajouts
+
+- 04/11/2021 : Ajout de [Kibbleru](https://osu.ppy.sh/users/3193504) : **BN**
+- 04/11/2021 : Ajout de [Yogurtt](https://osu.ppy.sh/users/2649717) : **Probationary BN**
+- 04/11/2021 : Ajout de [-Aqua](https://osu.ppy.sh/users/7150015) : **Probationary BN**
+- 04/11/2021 : Ajout de [Mimari](https://osu.ppy.sh/users/14339830) : **BN**
+- 06/11/2021 : Ajout de [Sanyi](https://osu.ppy.sh/users/7496029) : **Probationary BN**
+- 06/11/2021 : Ajout de [Mniam](https://osu.ppy.sh/users/6050530) : **Probationary BN**
+- 09/11/2021 : Ajout de [Lexa14](https://osu.ppy.sh/users/15397129) : **Probationary BN**
+- 13/11/2021 : Ajout de [Fisky](https://osu.ppy.sh/users/8352623) : **Probationary BN**
+- 13/11/2021 : Ajout de [Esutarosa](https://osu.ppy.sh/users/12024753) : **Probationary BN**
+- 14/11/2021 : Ajout de [Aakki](https://osu.ppy.sh/users/11077540) : **Probationary BN**
+- 18/11/2021 : Ajout de [Myxo](https://osu.ppy.sh/users/2202645) : **BN**
+
+#### Transferts
+
+- 06/11/2021 : Transfert de [GIGACHAD](https://osu.ppy.sh/users/11081858) : **Probationary BN** > **BN**
+- 12/11/2021 : Transfert de [Nifty](https://osu.ppy.sh/users/2850983) : **Probationary BN** > **BN**
+- 13/11/2021 : Transfert de [deta5859](https://osu.ppy.sh/users/15275662) : **BN** > **Probationary BN**
+- 18/11/2021 : Transfert de [Rocma](https://osu.ppy.sh/users/566276) : **Probationary BN** > **BN**
+- 19/11/2021 : Transfert de [Greenshell](https://osu.ppy.sh/users/8693851) : **Probationary BN** > **BN**
+- 22/11/2021 : Transfert de [Asherz007](https://osu.ppy.sh/users/9014047) : **Probationary BN** > **BN**
+- 22/11/2021 : Transfert de [Kawawa](https://osu.ppy.sh/users/4647754) : **Probationary BN** > **BN**
+- 23/11/2021 : Transfert de [Dapuluous](https://osu.ppy.sh/users/8140944) : **Probationary BN** > **BN**
+
+#### Retraits
+
+- 04/11/2021 : Retrait de [Krisom](https://osu.ppy.sh/users/99269) : **BN**
+- 07/11/2021 : Retrait de [Bastian](https://osu.ppy.sh/users/6345176) : **BN**
+- 09/11/2021 : Retrait de [Sparhten](https://osu.ppy.sh/users/7601720) : **BN**
+- 20/11/2021 : Retrait de [AJT](https://osu.ppy.sh/users/3181083) : **BN**
+- 20/11/2021 : Retrait de [Benita](https://osu.ppy.sh/users/4023183) : **BN**
+- 24/11/2021 : Retrait de [Quenlla](https://osu.ppy.sh/users/4725379) : **BN**
+- 27/11/2021 : Retrait de [gevbiivi5](https://osu.ppy.sh/users/7140680) : **Probationary BN**
+
+## Décembre
+
+- 06/12/2021 : Ajout de [Boaz](https://osu.ppy.sh/users/13302996) : **Project Loved Team**
+
+### Beatmap Nominators
+
+#### Ajouts
+
+- 03/12/2021 : Ajout de [Virtue-](https://osu.ppy.sh/users/6144772) : **Probationary BN**
+- 03/12/2021 : Ajout de [Muse Dash](https://osu.ppy.sh/users/13695676) : **Probationary BN**
+- 06/12/2021 : Ajout de [Geo_ooo](https://osu.ppy.sh/users/12013943) : **Probationary BN** 
+- 09/12/2021 : Ajout de [Kuo Kyoka](https://osu.ppy.sh/users/2596306) : **Probationary BN**
+- 19/12/2021 : Ajout de [wafer](https://osu.ppy.sh/users/9416836) : **Probationary BN**
+- 19/12/2021 : Ajout de [tadahitotsu](https://osu.ppy.sh/users/11653544) : **Probationary BN**
+- 19/12/2021 : Ajout de [Present](https://osu.ppy.sh/users/5645691) : **Probationary BN**
+- 23/12/2021 : Ajout de [Saggin](https://osu.ppy.sh/users/12464107) : **Probationary BN**
+- 23/12/2021 : Transfert de [davidminh0111](https://osu.ppy.sh/users/9623142) > **BN** 
+
+#### Transferts
+
+- 02/12/2021 : Transfert de [elicz1](https://osu.ppy.sh/users/8039342) : **Probationary BN** > **BN** 
+- 02/12/2021 : Transfert de [Cris-](https://osu.ppy.sh/users/6175280) : **Probationary BN** > **BN**
+- 19/12/2021 : Transfert de [duski](https://osu.ppy.sh/users/6506484) : **Probationary BN** > **BN** 
+- 23/12/2021 : Transfert de [Lexa14](https://osu.ppy.sh/users/15397129) : **Probationary BN** > **BN** 
+- 23/12/2021 : Transfert de [Yogurtt](https://osu.ppy.sh/users/2649717) : **Probationary BN** > **BN** 
+- 23/12/2021 : Transfert de [-Aqua](https://osu.ppy.sh/users/7150015) : **Probationary BN** > **BN** 
+- 25/12/2021 : Transfert de [Gamelan4](https://osu.ppy.sh/users/9856910) : **BN** > **Probationary BN**
+- 29/12/2021 : Transfert de [Sanyi](https://osu.ppy.sh/users/7496029) : **Probationary BN** > **BN**
+- 29/12/2021 : Transfert de [Fisky](https://osu.ppy.sh/users/8352623) : **Probationary BN** > **BN**
+- 29/12/2021 : Transfert de [Esutarosa](https://osu.ppy.sh/users/12024753) : **Probationary BN** > **BN**
+- 29/12/2021 : Transfert de [Aakki](https://osu.ppy.sh/users/11077540) : **Probationary BN** > **BN**
+
+#### Retraits
+
+- 02/12/2021 : Retrait de [Toofu](https://osu.ppy.sh/users/11004271) : **Probationary BN**
+- 03/12/2021 : Retrait de [Davvy](https://osu.ppy.sh/users/10047413) : **BN**
+- 09/12/2021 : Retrait de [PokeSky](https://osu.ppy.sh/users/3617111) : **Probationary BN**
+- 19/12/2021 : Retrait de [Chatie](https://osu.ppy.sh/users/6524765) : **BN**
+- 29/12/2021 : Retrait de [Icekalt](https://osu.ppy.sh/users/5410645) : **BN**
+- 31/12/2021 : Retrait de [Morrighan](https://osu.ppy.sh/users/12042090) : **BN**

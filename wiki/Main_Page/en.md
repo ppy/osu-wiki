@@ -15,7 +15,7 @@ Welcome to the osu! wiki, the open-source knowledge base containing a wide range
 
 Important articles and guides that will help you dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5).
 
-[Rules](/wiki/Rules) • [Installation](/wiki/Client/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_Centre)
+[Rules](/wiki/Rules) • [Installation](/wiki/Client/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_centre)
 
 [Chat console](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Guides](/wiki/Guides) • [Glossary](/wiki/Glossary)
 
@@ -39,7 +39,7 @@ Everything about clicking circles, striking drums, catching fruits, and playing 
 
 [Game modes](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Replay) • [Medals](/wiki/Medals) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medals](/wiki/Medals) • [Multi](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -76,7 +76,7 @@ Read about procedures and regulations that keep osu! and its community safe, fro
 
 Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelines) • [Explicit content](/wiki/Rules/Explicit_Content) • [Song content rules](/wiki/Rules/Song_Content_Rules) • [Visual content considerations](/wiki/Rules/Visual_Content_Considerations)
 
-[Legal pages](/wiki/Legal): [Terms of Service](/wiki/Legal/Terms) • [Privacy](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Music licensing](/wiki/Legal/Music_Licensing)
+[Legal pages](/wiki/Legal): [Terms of Service](/wiki/Legal/Terms) • [Privacy](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Music licensing](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -85,9 +85,9 @@ Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelin
 
 Answers to frequent questions and solutions to common issues live here.
 
-[Help centre](/wiki/Help_Centre) • [Performance troubleshooting](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
+[Help centre](/wiki/Help_centre) • [Performance troubleshooting](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
 
-Profile restrictions: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_Centre/Account_Restrictions)
+Profile restrictions: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_centre/Account_restrictions)
 
 Do your part: [How and what to help with](/wiki/Community/How_you_can_help!) • [Report bad behaviour](/wiki/Reporting_bad_behaviour) • [Report abuse](/wiki/Reporting_bad_behaviour/Abuse) • [Report cheating](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -102,18 +102,18 @@ Social interaction is one of main things that fuel osu! players all around the w
 
 [Projects](/wiki/Community/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+Organisations: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# People
+# [People](/wiki/People)
 
 osu! wouldn't have been possible without many users helping with development, maintenance, and community management: their efforts, time, and dedication make the game live and prosper.
 
 [The Team](/wiki/People/The_Team): [Developers](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
-Organisations: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
-
-[Community Contributors](/wiki/People/Community_Contributors) • [Users with unique titles](/wiki/People/Users_with_unique_titles)
+[Community Contributors](/wiki/People/Community_Contributors) • [Users with unique titles](/wiki/People/Users_with_unique_titles) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Performance Points Committee](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">

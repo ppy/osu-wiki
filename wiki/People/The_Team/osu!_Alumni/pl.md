@@ -149,7 +149,6 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | QAT, NAT |
 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, programista gry |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | NAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
 | ![][flag_KR] [minyeob](https://osu.ppy.sh/users/9207) | BAT |
@@ -167,6 +166,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | QAT, NAT |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Programista gry |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ![][flag_CN] [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
@@ -192,6 +192,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ![][flag_CO] [Sakura](https://osu.ppy.sh/users/289422) | BAT, GMT |
 | ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | BAT |
+| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | NAT |
 | ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ![][flag_MD] [senaya](https://osu.ppy.sh/users/304103) | Moderator czatu |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
@@ -202,6 +203,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ![][flag_US] [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | NAT |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | QAT, NAT |
 | ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
@@ -260,6 +262,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 [flag_CO]: /wiki/shared/flag/CO.gif "Kolumbia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Niemcy"
 [flag_DO]: /wiki/shared/flag/DO.gif "Dominikana"
+[flag_DZ]: /wiki/shared/flag/DZ.gif "Algieria"
 [flag_ES]: /wiki/shared/flag/ES.gif "Hiszpania"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
 [flag_FR]: /wiki/shared/flag/FR.gif "Francja"

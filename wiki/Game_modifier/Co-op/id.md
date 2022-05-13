@@ -15,13 +15,13 @@ tags:
 ![Ikon mod Co-op](/wiki/shared/mods/CP.png "Ikon mod Co-op (CO)")
 
 *Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*\
-*Berbeda konteks dengan [Multiplayer](/wiki/Multi).*
+*Berbeda konteks dengan [Multiplayer](/wiki/Gameplay/Multiplayer).*
 
 ## Tentang
 
 - Singkatan: CP atau CO
 - Jenis: Spesial
-- Pengali Skor: 0.70x–1.00x (lihat [tabel dibawah](#score-multiplier))
+- Pengali Skor: 0.70x–1.00x (lihat [tabel dibawah](#pengali-skor))
 - Deskripsi: `Dua kali jumlah key-nya, dua kali keseruannya!`
 - Mode permainan yang cocok: ![][osu!mania]
 

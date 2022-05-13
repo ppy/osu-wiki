@@ -4,21 +4,21 @@ Song Setup est la quatrième section de [l'éditeur de beatmap](/wiki/Client/Bea
 
 ## Général
 
-### Métadonnées des chansons et des maps
+### Métadonnées des musiques et des beatmaps
 
 *Voir également : [\[Guide\] Metadata](https://osu.ppy.sh/community/forums/topics/249288 "forums osu!")*
 
 ![Un formulaire de Song Setup rempli](img/SS_General.jpg "Un exemple de métadonnées complètes (onglet Général) dans Song Setup")
 
-Ces champs doivent être remplis avant de créer une deuxième difficulté. Il s'agit principalement de s'assurer que les métadonnées seront cohérentes pour toutes les difficultés du beatmapset.
+Ces champs doivent être remplis avant de créer une deuxième difficulté. Il s'agit principalement de s'assurer que les métadonnées seront cohérentes pour toutes les difficultés de la beatmap.
 
-Les données des champs "artiste", "titre" et "source" doivent provenir de la [source primaire de métadonnées](/wiki/Beatmap/Primary_metadata_source) de la chanson.
+Les données des champs "artiste", "titre" et "source" doivent provenir de la [source primaire de métadonnées](/wiki/Beatmap/Primary_metadata_source) de la musique.
 
 Ces champs doivent être remplis avant de créer une deuxième difficulté. Ceci est principalement pour s'assurer que les métadonnées seront cohérentes à travers toutes les difficultés de la beatmap.
 
 #### Artiste
 
-**Le groupe, le chanteur, le compositeur ou le groupe qui a interprété ou créé la chanson**. Normalement, cette information est automatiquement extraite des métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
+**Le groupe, le chanteur, le compositeur ou le groupe qui a interprété ou créé la musique**. Normalement, cette information est automatiquement extraite des métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
 
 *Attention : Les titres d'animes ou de jeux doivent être placés dans le champ [Source](#source). Les noms de Vocaloid ou de sociétés doivent être placés dans le champ [Tags](#tags).*
 
@@ -32,11 +32,11 @@ Ce champ doit préférer l'orthographe des sources officielles de sortie. L'arti
 
 #### Titre
 
-**Le titre de la chanson** Normalement, il est automatiquement extrait des métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
+**Le titre de la musique** Normalement, il est automatiquement extrait des métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
 
 ##### Titre romanisé
 
-**Le nom romanisé de la chanson.** Ce champ ne sera disponible que si des caractères Unicode sont utilisés dans le champ [Titre](#titre).
+**Le nom romanisé de la musique.** Ce champ ne sera disponible que si des caractères Unicode sont utilisés dans le champ [Titre](#titre).
 
 #### Créateur de la beatmap
 
@@ -48,17 +48,17 @@ Ce champ doit préférer l'orthographe des sources officielles de sortie. L'arti
 
 **Le nom de la beatmap, en d'autres termes, le nom de la difficulté.** Le menu déroulant contient les noms prédéfinis de `Easy`, `Normal`, `Hard`, et `Insane`. Le créateur peut choisir l'un des noms prédéfinis dans le menu déroulant ou en taper un. Même s'il est bon d'être créatif, essayez de rendre les noms de difficulté très clairs quant à la difficulté qu'ils représentent. Les noms de difficulté ambigus ennuient les joueurs et ne sont pas classables.
 
-Ce champ peut également être utilisé pour indiquer qu'il s'agit d'une difficulté invitée (par exemple "Larto's Hard").
+Ce champ peut également être utilisé pour indiquer qu'il s'agit d'une guest difficulty (par exemple "Larto's Hard").
 
 #### Source
 
-**L'origine de la chanson.** En général, ce champ ne doit être utilisé que pour les chansons d'animes ou de jeux vidéo et occasionnellement pour les chansons de novels (films, télévision ou Internet).
+**L'origine de la musique.** En général, ce champ ne doit être utilisé que pour les musiques d'animes ou de jeux vidéo et occasionnellement pour les musiques de novels (films, télévision ou Internet).
 
-Si la chanson est tirée d'un anime, d'un jeu vidéo ou si elle est célèbre pour son utilisation dans un film ou une émission de télévision, le titre de cette source doit être ajouté dans ce champ. Dans le cas contraire, ce champ doit être laissé vide.
+Si la musique est tirée d'un anime, d'un jeu vidéo ou si elle est célèbre pour son utilisation dans un film ou une émission de télévision, le titre de cette source doit être ajouté dans ce champ. Dans le cas contraire, ce champ doit être laissé vide.
 
 *Remarque : Ce champ ne doit pas être utilisé pour les titres d'album, qui doivent être placés dans le champ [Tags](#tags).*
 
-Toutes les chansons n'ont pas besoin de quelque chose dans le champ source. La source est seulement pour les chansons qui sont tirées de quelque chose (par exemple, un jeu vidéo ou un anime). Les chansons rock et pop ordinaires peuvent laisser ce champ vide. D'autres informations pertinentes doivent être saisies dans le champ [Tags](#tags), comme le titre de l'album ou des informations sur le sous-genre.
+Toutes les musiques n'ont pas besoin de quelque chose dans le champ source. La source est seulement pour les musiques qui sont tirées de quelque chose (par exemple, un jeu vidéo ou un anime). Les musiques rock et pop ordinaires peuvent laisser ce champ vide. D'autres informations pertinentes doivent être saisies dans le champ [Tags](#tags), comme le titre de l'album ou des informations sur le sous-genre.
 
 #### Tags
 
@@ -76,7 +76,7 @@ Les paramètres de difficulté de la beatmap ; chaque paramètre affecte différ
 
 *Note : En maintenant la touche `Shift` enfoncée, on peut obtenir un ajustement précis de 0,1 par rapport à l'ajustement standard de 1.*
 
-La notation courante pour représenter un paramètre de difficulté et sa valeur est l'abréviation du paramètre suivie de la valeur du paramètre. Par exemple, `CS4` et `HP4.3` seront une beatmap avec un Circle Size de 4 et un taux de drain de santé de 4.3 respectivement. En théorie, les paramètres de difficulté négatifs peuvent ressembler à `AR-2` pour un Approach Rate de -2.
+La notation courante pour représenter un paramètre de difficulté et sa valeur est l'abréviation du paramètre suivie de la valeur du paramètre. Par exemple, `CS4` et `HP4.3` seront une beatmap avec un circle size de 4 et un taux de drain de santé de 4.3 respectivement. En théorie, les paramètres de difficulté négatifs peuvent ressembler à `AR-2` pour un approach rate de -2.
 
 ### Taux de drain de santé
 
@@ -84,15 +84,15 @@ Le **taux de drain de santé**, communément abrégé en HP, détermine le taux 
 
 Dans osu! et osu!catch, cela affecte également les [HP passifs](/wiki/Client/Interface/Health_bar) (la vitesse constante à laquelle les HP diminuent, sauf pendant les [pauses](/wiki/Beatmap/Break).
 
-*Note : Plus d'HP sont récupérés avec les scores [Geki](/wiki/Geki) et [Katu](/wiki/Katu), qui peuvent être donnés par le dernier objet dans un combo.*
+*Note : Plus d'HP sont récupérés avec les scores [Geki](/wiki/Gameplay/Judgement/Geki) et [Katu](/wiki/Gameplay/Judgement/Katu), qui peuvent être donnés par le dernier objet dans un combo.*
 
-### Circle Size
+### Circle size
 
-![Aperçu des différentes Circle Size](img/Circle_sizes.png "Aperçu des différentes Circle Size")
+![Aperçu des différentes circle size](img/Circle_sizes.png "Aperçu des différentes circle size")
 
 *Note : Cette option est visible dans osu!taiko, mais elle n'affecte pas le gameplay.*
 
-Le **Circle Size**, communément abrégée en CS, n'existe que dans osu! et osu!catch. CS détermine la taille des objets ou, plus précisément dans osu!catch, détermine la taille de l'attrapeur et du fruit. Les valeurs vont de 2 à 7 ; plus les valeurs CS sont élevées, plus les objets sont petits. En utilisant la valeur la plus élevée, les objets seront aussi grands que le curseur.
+Le **circle size**, communément abrégée en CS, n'existe que dans osu! et osu!catch. CS détermine la taille des objets ou, plus précisément dans osu!catch, détermine la taille de l'attrapeur et du fruit. Les valeurs vont de 2 à 7 ; plus les valeurs CS sont élevées, plus les objets sont petits. En utilisant la valeur la plus élevée, les objets seront aussi grands que le curseur.
 
 La plupart des beatmaps utilisent une valeur de 3 ou 4, tandis qu'une valeur de 5 ou 6 est parfois utilisée et une valeur de 7 n'est presque jamais utilisée. Une valeur de 7 et plus est susceptible d'être vue lors de l'utilisation du mod [Hard Rock](/wiki/Game_modifier/Hard_Rock).
 
@@ -100,11 +100,11 @@ Le réglage de la valeur CS à une valeur inférieure à 2 ou supérieure à 7 p
 
 #### Key Count
 
-Key Count, également connu sous le nom de Keys, remplace la métrique [Circle Size](#circle-size) pour les beatmaps [osu!mania-specific](#mode-specific). Key Count est auto-explicatif ; il définit le nombre de touches utilisé. Les valeurs vont de 1 à 9 touches.
+Key Count, également connu sous le nom de Keys, remplace la métrique [circle size](#circle-size) pour les beatmaps [osu!mania-specific](#mode-specific). Key Count est auto-explicatif ; il définit le nombre de touches utilisé. Les valeurs vont de 1 à 9 touches.
 
 En cochant la case "Co-op mode", le montant sélectionné sera doublé (à partir de 5), ce qui donne un total de 10K (5), 12K (6), 14K (7), 16K (8) et 18K (9).
 
-### Approach Rate
+### Approach rate
 
 *Page principale : [Approach rate](/wiki/Beatmapping/Approach_rate)*
 
@@ -112,7 +112,7 @@ En cochant la case "Co-op mode", le montant sélectionné sera doublé (à parti
 
 *Remarque : cette option est visible dans osu!taiko et osu!mania, mais elle n'a aucune incidence sur la jouabilité. C'est principalement parce que les deux utilisent une vitesse de défilement, qui est basée sur le BPM (battements par minute)..*
 
-L'**Approach Rate**, communément abrégée en AR, n'existe que dans osu! et osu!catch. Les valeurs vont de 0 à 10 ; plus les valeurs d'AR sont élevées, plus la hit windows des objets est courte. L'AR indique combien de temps les objets resteront à l'écran, depuis le moment où ils apparaissent jusqu'au moment où il faut les frapper/récupérer.
+L'**approach rate**, communément abrégée en AR, n'existe que dans osu! et osu!catch. Les valeurs vont de 0 à 10 ; plus les valeurs d'AR sont élevées, plus la hit windows des objets est courte. L'AR indique combien de temps les objets resteront à l'écran, depuis le moment où ils apparaissent jusqu'au moment où il faut les frapper/récupérer.
 
 Un approach rate plus élevé signifie que les objets seront affichés pendant une période plus courte, ce qui laisse moins de temps de réaction pour planifier. Inversement, un approach rate plus faible signifie que les objets seront affichés à l'écran pendant plus longtemps, ce qui laisse plus de temps pour réagir, mais peut entraîner l'apparition d'un nombre excessif d'objets à l'écran en même temps si l'approach rate est trop faible.
 
@@ -129,30 +129,37 @@ Il existe quatre mods qui modifient le timing de l'approach rate lorsqu'ils sont
 
 Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la valeur réelle de l'AR, la différence de vitesse entraîne un changement d'AR apparent, aussi bas que AR-5 ou aussi élevé que AR11. Dans le tableau d'AR fourni, ces valeurs apparentes sont données pour permettre une comparaison facile entre les vitesses d'approche avec et sans mods. L'AR réel, cependant, est toujours un nombre compris entre 0 et 10. Notez que les niveaux d'AR s'échelonnent de 120 ms pour une valeur inférieure à l'AR5 et de 150 ms pour une valeur supérieure à l'AR5.
 
-### Overall Difficulty
+### Overall difficulty
+
+*Page principale : [overall difficulty](/wiki/Beatmapping/Overall_difficulty)*
 
 ![Tableau détaillé de l'OD](img/ODTable.png "Tableau détaillé de l'OD")
 
+*Remarque : le tableau ci-dessus s'applique uniquement au mode de jeu osu!.*\
 *Remarque : Sur la page de la beatmap, l'overall difficulty est indiquée sous le nom de Précision.*
 
-l'**overall difficulty**, communément abrégée en OD, définit le degré de difficulté à atteindre une grande précision. Les valeurs vont de 0 à 10 ; plus les valeurs OD sont élevées, plus il faut être précis et exact. Étant donné que la précision est importante pour gagner des HP, l'overall difficulty influe indirectement sur la difficulté de passer la beatmap. Des valeurs OD plus élevées signifient des fenêtres de temps plus courtes pour éliminer les objets, à la fois en général et en termes d'obtention de la valeur de score la plus élevée de l'objet.
+L'overall difficulty, communément abrégée en OD, définit le degré de difficulté à atteindre une grande précision. Les valeurs vont de 0 à 10, les valeurs d'OD les plus élevées nécessitant plus de précision et d'exactitude. Étant donné que la précision est importante pour gagner des HP, l'overall difficulty influence indirectement la difficulté de passer la beatmap. Des valeurs OD plus élevées signifient des fenêtres de hit plus courtes pour clear les objets, à la fois en général et en termes d'obtention de la valeur de score la plus élevée de l'objet.
 
-Dans le mode osu!, cela affecte également les spinners, dans lesquels il faut les faire tourner plus souvent pour remplir la jauge à temps. Dans osu!taiko, le denden (spinner osu!taiko) aura également besoin de plus de frappes pour être vidé.
+Dans osu!, le système de timing ne permet pas à un objet d'être touché tant que l'objet précédent ne l'a pas été et n'a pas reçu de jugement, ou tant qu'il n'a pas manqué après que la fenêtre de hit soit passée. Si les fenêtres de hits sont trop longues, la fenêtre de hit de l'objet peut chevaucher la fenêtre précédente. Pendant ce temps, l'objet est "verrouillé" et les coups ne comptent pas. Ce phénomène est appelé de manière informelle "notelock" dans osu!, ou "column locking" ou "cbrushing" dans osu!mania. Pour plus de détails et d'exemples, voir l'[article sur le notelock](/wiki/Gameplay/Judgement/Notelock). Pour cette raison, il est conseillé de ne pas utiliser de faibles valeurs d'OD dans les maps à fort BPM.
 
-*Note : Cela signifie que si l'on augmente trop l'OD, il peut être presque impossible d'éliminer dans les temps des spinners auparavant possibles.*
+Effets supplémentaires de l'augmentation de l'OD dans chaque mode de jeu :
 
-Dans osu!, le système de timing ne permet pas de toucher un objet tant que l'objet précédent n'a pas été frappé (ou manqué après le passage de la hit windows), ce qui entraîne un échec. Avec une faible valeur d'OD, la hit window d'un objet peut se chevaucher avec celle du suivant. Ainsi, un joueur peut toucher le deuxième objet avec un timing parfait après avoir échoué à toucher le premier objet, mais il manquera complètement les deux objets parce que la hit window du premier objet sera active.
+- osu! : Les spinners doivent être tournés davantage pour remplir la jauge, au point de devenir presque impossible à terminer dans les temps.
+- osu!taiko : Le denden (spinner) nécessite plus de coups pour être éliminé.
+- osu!mania et osu!catch ne sont pas affectés par l'OD.
+
+Pour calculer les fenêtres de hits, voir les formules de l'[article sur l'overall difficulty](/wiki/Beatmapping/Overall_difficulty).
 
 ---
 
-À OD0, un joueur peut obtenir un score de 300 en étant à moins de 79,5 ms de la frappe exacte à temps. À l'autre extrémité de l'échelle, OD10 exige d'être à moins de 19,5 ms pour obtenir le même score de 300.
+À OD 0, un joueur peut obtenir un score de 300 en étant à moins de 79,5 ms de la frappe exacte à temps. À l'autre extrémité de l'échelle, OD 10 exige d'être à moins de 19,5 ms pour obtenir le même score de 300.
 
 Il existe quatre mods qui modifient le timing de l'overall difficulty lorsqu'ils sont activés :
 
 - [Easy](/wiki/Game_modifier/Easy): Divise par deux la valeur de l'OD.
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplie la valeur de l'OD par 1,4, jusqu'à OD10 au maximum.
-- [Double Time](/wiki/Game_modifier/Double_Time): La valeur OD n'est pas affectée, mais en raison de l'augmentation de 50 % de la vitesse de lecture, les hit windows sont 33 % plus courtes.
-- [Half Time](/wiki/Game_modifier/Half_Time): La valeur OD n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse de lecture, les hit windows sont 33 % plus longues.
+- [Double Time](/wiki/Game_modifier/Double_Time): La valeur de l'OD n'est pas affectée, mais en raison de l'augmentation de 50 % de la vitesse, les fenêtres de hits sont effectivement 33 % plus courtes.
+- [Half Time](/wiki/Game_modifier/Half_Time): La valeur de l'OD n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse, les fenêtres de hits sont effectivement 33 % plus longues.
 
 Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne changent pas la valeur réelle de l'OD, l'effet de la vitesse sur les hit windows fera que les objets sembleront avoir une OD apparente inférieure ou supérieure, respectivement. Dans le tableau de l'OD fourni, les valeurs d'OD apparentes sont indiquées pour permettre la comparaison entre les temps avec et sans ces mods. Notez que ces valeurs d'OD apparentes ne s'appliquent qu'aux 300 sur les cercles. Les fenêtres pour les 100, les 50 et les sliders (qui utilisent la hit windows 50) sont plus sévères avec le Double Time que ne le suggère cette OD apparente et plus clémentes avec le Half Time. Encore une fois, en dehors du NoMod, Hard Rock *(HR)* et Easy *(EZ)* (sur le côté gauche), les valeurs de l'OD fournies ne servent qu'à des fins de comparaison : la valeur réelle de l'OD est toujours un nombre compris entre 0 et 10.
 
@@ -245,7 +252,7 @@ En déplaçant le slider vers la droite, vous espacerez la "proximité" des obje
 
 *Remarque : Les cercles empilés dans osu! se déplaceront vers le point où l'empilement se produit.*
 
-Les objets sont considérés comme appartenant à la même pile s'ils se trouvent à la même coordonnée et pas plus loin dans le temps que `[(Fenêtre d'approche) * (Limite de pile) / 10]`, où `Fenêtre d'approche` est la durée pendant laquelle les objets restent à l'écran (voir [Approach Rate](#approach-rate).
+Les objets sont considérés comme appartenant à la même pile s'ils se trouvent à la même coordonnée et pas plus loin dans le temps que `[(Fenêtre d'approche) * (Limite de pile) / 10]`, où `Fenêtre d'approche` est la durée pendant laquelle les objets restent à l'écran (voir [la section sur l'approach rate](#approach-rate).
 
 ### Mode Specific
 

@@ -1,6 +1,8 @@
-# Guide de contribution au osu! wiki
+# Guide de contribution de l'osu! wiki
 
-Merci de votre intérêt à vouloir rendre le osu! wiki meilleur ! Cet article couvre le processus de contribution étape par étape. Si vous êtes familier avec GitHub, n'hésitez pas à suivre le feature-branch workflow pour proposer des changements et passez directement à la section concernant le [self-check](#self-check).
+Merci de votre intérêt à vouloir rendre l'osu! wiki meilleur ! Cet article couvre le processus de contribution étape par étape. Si vous êtes familier avec GitHub, n'hésitez pas à suivre le feature-branch workflow pour proposer des changements et passez directement à la section concernant le [self-check](#self-check).
+
+Les nouveaux contributeurs ne sont pas censés connaître GitHub ou [git](https://git-scm.com/), car ce sont des outils principalement destinés aux développeurs. Ne vous inquiétez pas si vous n'arrivez pas à faire quelque chose correctement du premier coup : un [maintainer du wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers) vous indiquera la bonne direction ou corrigera le problème pour vous.
 
 Si vous avez besoin d'astuces ou de conseils à n'importe quelle étape, n'hésitez pas à demander dans le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 
@@ -28,13 +30,13 @@ Les articles du osu! wiki sont stockés sur [GitHub][osu_wiki]. Pour contribuer,
 
 Lorsque vous avez terminé la review, prenez le temps de relire votre travail. Passez en revue la liste de contrôle rapide suivante :
 
-- **Le ton de la prestation** : les articles du osu! wiki, à de rares exceptions près, doivent être rédigés dans un registre neutre.
+- **Le ton de la prestation** : les articles de l'osu! wiki, à de rares exceptions près, doivent être rédigés dans un registre neutre.
 - **Le style et la grammaire** : les articles doivent être clairs, compréhensibles et ne demander aucun effort mental important au lecteur. Soyez cohérent et évitez les phrases trop compliquées ou abruptes. Utilisez des éditeurs dotés de correcteurs orthographiques intégrés, tels que [Google Docs](https://docs.google.com), pour mettre en évidence les fautes de frappe et les erreurs grammaticales ou syntaxiques.
-- **[La parité de contenu](/wiki/Article_styling_criteria/Formatting#parité-de-contenu)** : les traductions doivent contenir les mêmes informations que les articles originaux (des différences de ponctuation, de formulation ou de formatage sont évidemment attendues). Au lieu de modifier le contenu de la traduction, [ouvrez un issue](https://github.com/ppy/osu-wiki/issues/new) ou une demande de modification supplémentaire pour l'original si vous estimez qu'il est incomplet, inexact ou obsolète.
+- **[La parité de contenu](/wiki/Article_styling_criteria/Writing#parité-de-contenu)** : les traductions doivent contenir les mêmes informations que les articles originaux (des différences de ponctuation, de formulation ou de formatage sont évidemment attendues). Au lieu de modifier le contenu de la traduction, [ouvrez un issue](https://github.com/ppy/osu-wiki/issues/new) ou une demande de modification supplémentaire pour l'original si vous estimez qu'il est incomplet, inexact ou obsolète.
 - **Structure et mise en forme** : prévisualisez votre article à l'aide d'un outil tel que [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) pour vous assurer qu'il se présente exactement comme vous le souhaitiez.
-- **Toutes les images et autres fichiers non textuels** doivent être [inférieurs à 1 mégaoctet](/wiki/Article_styling_criteria/Formatting#taille-du-fichier). **Les captures d'écran** doivent utiliser le skin d'osu! par défaut et les [paramètres spécifiques](/wiki/Article_styling_criteria/Formatting#captures-d'écran-de-gameplay), y compris les dimensions maximales de 1280×720.
+- **Toutes les images et autres fichiers non textuels** doivent être [inférieurs à 1 mégaoctet](/wiki/Article_styling_criteria/Formatting#taille-du-fichier). **Les captures d'écran** doivent utiliser le skin d'osu! par défaut et des [paramètres spécifiques](/wiki/Article_styling_criteria/Formatting#captures-d'écran-de-gameplay), y compris les dimensions maximales de 1280×720.
 
-Pour une liste complète des règles, lisez les [critères de mise en forme des articles](/wiki/Article_styling_criteria).
+Pour des normes de rédaction et de formatage plus spécifiques, veuillez vous référer aux [critères de mise en forme des articles](/wiki/Article_styling_criteria). Il n'est pas recommandé de le lire en une seule fois, un reviewer vous indiquera probablement si quelque chose doit-être corrigé dans un sens ou dans l'autre.
 
 ## Pull request
 
@@ -46,7 +48,7 @@ Une fois que les modifications ont été vérifiées, validées et push vers vot
 
 ## Review
 
-Toutes les modifications apportées au osu! wiki sont modérées. Pendant cette étape, les autres collaborateurs signalent les erreurs possibles et les moyens de les corriger, soit sous forme libre, soit en suggérant des modifications directes de la pull request Comme pour toute autre review, vous devez répondre aux commentaires en appliquant les suggestions ou en expliquant pourquoi vous préférez garder les choses telles quelles.
+Toutes les modifications apportées au osu! wiki sont modérées. Pendant cette étape, les autres collaborateurs signalent les erreurs possibles et les moyens de les corriger, soit sous forme libre, soit en suggérant des modifications directes de la pull request Comme pour toute autre review, vous devez répondre aux commentaires en [appliquant les suggestions](/wiki/osu!_wiki/Contribution_guide/Best_practices#appliquer-les-reviews) ou en expliquant pourquoi vous préférez garder les choses telles quelles.
 
 Si personne ne s'est manifesté après quelques jours, essayez ce qui suit :
 

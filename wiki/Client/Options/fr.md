@@ -14,7 +14,7 @@ Cette section concerne votre compte, les paramètres de langues et les mises à 
 
 ### Connexion
 
-Si vous n'êtes pas connecté au client, le menu des options s'ouvrira automatiquement au démarrage, vous invitant à vous connecter. Vous pouvez ignorer cette demande en appuyant sur `Esc`, en cliquant sur le bouton retour, ou en naviguant vers l'écran de sélection des beatmaps. Si vous ne vous connectez pas, le client vous marquera comme "Invité" et vous ne pourrez pas récupérer les scores en ligne, envoyer des scores ou jouer en [multijoueur](/wiki/Multi).
+Si vous n'êtes pas connecté au client, le menu des options s'ouvrira automatiquement au démarrage, vous invitant à vous connecter. Vous pouvez ignorer cette demande en appuyant sur `Esc`, en cliquant sur le bouton retour, ou en naviguant vers l'écran de sélection des beatmaps. Si vous ne vous connectez pas, le client vous marquera comme "Invité" et vous ne pourrez pas récupérer les scores en ligne, envoyer des scores ou jouer en [multijoueur](/wiki/Gameplay/Multiplayer).
 
 Si vous êtes un invité, ces options seront affichées :
 
@@ -389,9 +389,9 @@ Cette section concerne les beatmaps et les mises à jour.
 
 | Nom | Description | Type |
 | :-- | :-- | :-- |
-| `Supprimer toutes les beatmaps non classées` | Supprime toutes les maps non classées dans votre dossier Songs. | Bouton |
+| `Supprimer toutes les beatmaps non classées` | Supprime toutes les beatmaps non classées dans votre dossier Songs. | Bouton |
 | `Restaurer les droits d'accès sur les dossiers` | Donne les droits de lecture/écriture au client du jeu pour accéder à ses dossiers. (Cette opération nécessite le mot de passe administrateur). | Bouton |
-| `Marquer toutes les beatmaps comme étant jouées` | Marque toutes les maps comme étant "jouées". | Bouton |
+| `Marquer toutes les beatmaps comme étant jouées` | Marque toutes les beatmaps comme étant "jouées". | Bouton |
 | `Lancer le logiciel de mise à jour` | Ferme le client et ouvre le dispositif de mise à jour pour rechercher les mises à jour et les télécharger le cas échéant. | Bouton |
 
 En bas, le numéro de la version s'affiche. En cliquant dessus, vous ouvrirez [le journal des modifications](/wiki/Glossary/Changelog) de cette version dans votre navigateur internet.
