@@ -2,7 +2,7 @@
 
 ![Screenshot of a storyboard script open in "Code - OSS"](img/osb-example.png "Example of a storyboard script (.osb)")
 
-**Storyboard scripting** is the process of editing osu! [storyboards](/wiki/Storyboard) via their `.osb` and `.osu` files. These files define the images and effects that create  storyboard videos in-game.
+**Storyboard scripting** is the process of editing osu! [storyboards](/wiki/Storyboard) via their [`.osb`](/wiki/Client/File_formats/Osb_(file_format)) and [`.osu`](/wiki/Client/File_formats/Osu_(file_format)) files. These files define images and effects that the [game client](/wiki/Client) renders into background animations during gameplay.
 
 Scripting is a common alternative to [the game client's storyboard editor](/wiki/Client/Beatmap_editor/Design) when precision or complexity are required. With a text editor such as [Notepad](https://en.wikipedia.org/wiki/Windows_Notepad "\"Windows Notepad\" on Wikipedia"), [Notepad++](https://www.notepad-plus-plus.org/), or [Visual Studio Code](https://code.visualstudio.com/), storyboarders can edit the exact values of [objects](Objects) and [commands](Commands) instead of using on-screen controls. Many storyboarders also make use of [programming](https://en.wikipedia.org/wiki/Computer_programming "\"Computer programming\" on Wikipedia") to build storyboard files that would be difficult to create manually.
 
