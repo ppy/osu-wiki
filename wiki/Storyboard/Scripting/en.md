@@ -6,7 +6,7 @@
 
 Scripting is a common alternative to [the game client's storyboard editor](/wiki/Client/Beatmap_editor/Design) when precision or complexity are required. With a text editor such as [Notepad](https://en.wikipedia.org/wiki/Windows_Notepad "\"Windows Notepad\" on Wikipedia"), [Notepad++](https://www.notepad-plus-plus.org/), or [Visual Studio Code](https://code.visualstudio.com/), storyboarders can edit the exact values of [objects](Objects) and [commands](Commands) instead of using on-screen controls. Many storyboarders also make use of [programming](https://en.wikipedia.org/wiki/Computer_programming "\"Computer programming\" on Wikipedia") to build storyboard files that would be difficult to create manually.
 
-*Warning: Avoid editing storyboard scripts of a [beatmap](/wiki/Beatmap) currently open in the [beatmap editor](/wiki/Client/Beatmap_editor). Your work may be overwritten when saving or exiting the editor.*
+*Warning: Avoid editing storyboard scripts of a [beatmap](/wiki/Beatmap) currently open in the [beatmap editor](/wiki/Client/Beatmap_editor). Your work on scripts may be overwritten when saving the beatmap.*
 
 ## Concepts and file format
 
