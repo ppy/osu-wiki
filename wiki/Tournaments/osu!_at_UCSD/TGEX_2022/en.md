@@ -19,7 +19,7 @@ tags:
 
 TGEX will take place on Sunday, May 29th at [Price Center](https://en.wikipedia.org/wiki/Price_Center) at the University of California, San Diego (*UCSD*). The event is expected to run from 12:00 p.m. to 10:00 p.m (UTC-7).
 
-Some parts of the event may require checking in at Ballroom West (rooms 215 and 216). There is no entry fee.
+Some parts of the event may require checking in at Ballroom West (rooms 215 and 216). There is no entry fee, but proof of vaccination against COVID-19 may be required.
 
 Besides the osu! tournament, TGEX is hosting tournaments for many other games, panels with game industry experts, an artist alley, cosplay gathering, keyboard showcase, and more. More details can be found in the [Triton Gaming Discord server](https://discord.gg/tritongaming).
 
