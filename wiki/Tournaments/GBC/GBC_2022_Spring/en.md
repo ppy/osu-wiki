@@ -103,7 +103,7 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 | GBC最强阵容9个Miyes | 货拉拉拉不拉拉布拉多 | May 15 (Sun) 19:00 (UTC+8) | ² |
 
 ¹ Finals\
-² Brozen match\
+² Bronze match
 
 ## Mappools
 
