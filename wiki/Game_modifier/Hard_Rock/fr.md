@@ -6,8 +6,6 @@ tags:
   - game modifier
   - HR
   - modificateur de jeu
-outdated: true
-outdated_since: bb68816d3f5cdcce9eaa78788e9fc7b671e1dc93
 ---
 
 # Le mod Hard Rock
@@ -30,7 +28,7 @@ outdated_since: bb68816d3f5cdcce9eaa78788e9fc7b671e1dc93
 
 ## Description
 
-Le mod **Hard Rock** est un [modificateur de jeu](/wiki/Game_modifier) qui vise à augmenter la difficulté de la plupart (sinon de tous) les aspects d'une [beatmap](/wiki/Beatmap). Il atteint cet objectif en augmentant le [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size) de 30%, et tous les autres paramètres de difficulté de 40%.
+Le mod **Hard Rock** est un [modificateur de jeu](/wiki/Game_modifier) qui vise à augmenter la difficulté de la plupart des aspects d'une [beatmap](/wiki/Beatmap). Il atteint généralement cet objectif en augmentant le [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) de 30%, l'[approach rate (AR)](/wiki/Beatmapping/Approach_rate) de 40%, le [health drain (HP)](/wiki/Beatmapping/Health_drain) de 40% et l'[overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) de 40%, bien que les détails varient pour chaque mode de jeu.
 
 ### osu!
 
@@ -58,9 +56,13 @@ En raison de ce pic de difficulté beaucoup plus important que pour les autres [
 
 ### osu!mania
 
-*Avis : L'utilisation de ce mod dans osu!mania entraînera un jeu non classé.*
+*Remarque : L'utilisation de ce mod dans le mode de jeu osu!mania ne permet pas de jouer une partie classée.*
 
-Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), seules le [judgement](/wiki/Gameplay/Judgement) difficulty (OD) et les valeurs AR sont augmentées. Tous les autres paramètres de difficulté restent inchangés. Le placement des notes n'est pas affecté.
+Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), l'HP drain est augmenté de 40% tandis que la fenêtre de timing est environ 29% plus stricte. Bien que la valeur AR soit affichée comme augmentée, cela n'affecte pas le gameplay.
+
+Pour calculer la fenêtre de timing après l'application du HR, la [fenêtre de timing originale](/wiki/Beatmapping/Overall_difficulty) doit être divisée par 1,4. La fenêtre de timing du Rainbow 300 (MAX) est fixe, quel que soit l'OD, ce qui signifie que la fenêtre de timing d'un MAX avec HR sera toujours de ±11,43 ms.
+
+Notez que la méthode de calcul est différente dans [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 ## Le saviez-vous ?
 

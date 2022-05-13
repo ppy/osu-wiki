@@ -1,3 +1,8 @@
+---
+tags:
+  - vote
+---
+
 # Процедура оценки медиа
 
 В osu! существует процедура оценки медиа, в которой участвуют [номинаторы](/wiki/People/The_Team/Beatmap_Nominators) (BN), [модераторы](/wiki/People/The_Team/Global_Moderation_Team) (GMT) и члены [команды оценки номинаций](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
