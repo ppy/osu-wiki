@@ -2,11 +2,11 @@
 
 ***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_Criteria).***
 
-**Ranking criteria osu!catch** menjabarkan [aturan dan pedoman](/wiki/Ranking_Criteria#general-terms) spesifik untuk [beatmaps](/wiki/Beatmap) [osu!catch](/wiki/Game_mode/osu!catch)  yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
+**Ranking criteria osu!catch** menjabarkan [aturan dan pedoman](/wiki/Ranking_Criteria#general-terms) spesifik untuk [beatmap](/wiki/Beatmap) [osu!catch](/wiki/Game_mode/osu!catch) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
 ## Keseluruhan
 
-Keseluruhan aturan dan pedoman yang berlaku untuk setiap jenis kesulitan osu!catch. Aturan dan pedoman ritme berlaku untuk beatmap sekitar 180 BPM dengan 4/4 time signature. Jika lagu secara drastis lebih cepat atau lebih lambat, beberapa variabel mungkin berbeda, seperti yang dijelaskan dalam [Penskalaan BPM di kriteria ranking](/wiki/Ranking_Criteria/Scaling_BPM).
+Keseluruhan aturan dan pedoman berlaku untuk setiap jenis tingkat kesulitan osu!catch. Aturan dan pedoman ritme berlaku untuk beatmap sekitar 180 BPM dengan 4/4 time signature. Jika lagu secara drastis lebih cepat atau lebih lambat, beberapa variabel mungkin berbeda, seperti yang dijelaskan dalam [Penskalaan BPM di ranking criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
 ### Umum
 
@@ -21,7 +21,7 @@ Keseluruhan aturan dan pedoman yang berlaku untuk setiap jenis kesulitan osu!cat
 - **Semua circle dan kepala slider harus mewakili suara yang ada dalam musik.** Ini biasanya digunakan dalam suara yang berbeda, tetapi juga dapat mewakili suara yang berkelanjutan dengan awal atau akhir yang tidak dapat dibedakan.
 - **Slider tail dari slider yang diperpanjang harus dipotong sesuai dengan struktur ketukan lagu.** Jika lagunya menggunakan beat lurus, 1/4, 1/8, dan 1/16 harus digunakan. Jika lagunya menggunakan ketukan ayunan, 1/6 or 1/12 harus digunakan. Jika lagu memiliki suara snap yang berbeda dari yang direkomendasikan, snap ke beat yang sebenarnya selalu diprioritaskan.
 - **[Dash](/wiki/Gameplay/Dash) dan [hyperdash](/wiki/Gameplay/Hyperdash) tidak boleh digunakan ketika tujuan dari dash atau hyperdash terletak di dekat batas kiri atau kanan area permainan.** Ini menciptakan gerakan yang tidak nyaman karena penangkap dihentikan secara paksa saat mencapai batas area bermain (x:16 di kiri dan x:496 di kanan).
-- **Pastikan [kombo](/wiki/Beatmapping/Combo) tidak mencapai panjang yang tidak masuk akal.** Menangkap [fruit](/wiki/Hit_object/Fruit) akan menumpuk di piring dan berpotensi menghalangi pandangan pemain. Ingatlah bahwa slider tail, repeat dan [spinner](/wiki/Hit_object/Spinner) [pisang](/wiki/Hit_object/Banana) juga dihitung sebagai "fruit". Kombo baru harus ditempatkan secara teratur untuk membersihkan piring dan menghindari hal ini terjadi.
+- **Pastikan [kombo](/wiki/Beatmapping/Combo) tidak mencapai panjang yang tidak masuk akal.** Menangkap [fruit](/wiki/Hit_object/Fruit) akan menumpuk di piring dan berpotensi menghalangi pandangan pemain. Ingatlah bahwa slider tail, repeat dan [spinner](/wiki/Hit_object/Spinner) [banana](/wiki/Hit_object/Banana) juga dihitung sebagai "fruit". Kombo baru harus ditempatkan secara teratur untuk membersihkan piring dan menghindari hal ini terjadi.
 - **Cobalah untuk memiliki setidaknya satu [spinner](/wiki/Hit_object/Spinner) di setiap kesulitan untuk membuat variasi di beatmap dan fluktuasi di antara skor.** Namun, jika spinner tidak cocok di mana pun dalam lagu, maka tidak perlu dipaksakan.
 - **[Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) harus memiliki nilai yang sama dengan [Approach Rate](/wiki/Beatmapping/Approach_rate).** Ini hanya nilai standar, karena Overall Difficulty tidak memengaruhi gameplay atau angka dari [fruit](/wiki/Hit_object/Fruit) yang [spinner](/wiki/Hit_object/Spinner) miliki. Overall Difficulty hanya mempengaruhi skor maksimum dari tingkat kesulitan.
   - Jika sebuah kesulitan menggunakan Approach Rate yang lebih rendah dari satu atau lebih kesulitan di tingkat kesulitan di bawahnya, maka Approach Rate harus sama dengan nilai Overall Difficulty tertinggi pada tingkat kesulitan sebelumnya.
@@ -100,7 +100,7 @@ Aturan dan pedoman kesulitan hanya berlaku untuk tingkat kesulitan yang tercantu
 - **Semua jarak harus jelas apakah mereka mengharuskan pemain untuk [walk](/wiki/Gameplay/Walk) atau [dash](/wiki/Gameplay/Dash).** Hal ini untuk memastikan bahwa pemain dapat dengan mudah mengenali pola yang membutuhkan dash.
 - **[Dash](/wiki/Gameplay/Dash) yang [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) tidak boleh digunakan secara berurutan saat menggunakan ketukan snap yang berbeda.** Contohnya, dash 1/1 diikuti oleh dash 1/2.
 - **[Dash](/wiki/Gameplay/Dash) yang [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) tidak harus diikuti oleh pattern [antiflow](/wiki/Beatmapping/Antiflow).**
-- **[Kombo](/wiki/Beatmapping/Combo) tidak boleh melebihi 10 objek termasuk slider tail dan pengulangan.** [Spinners](/wiki/Hit_object/Spinner) adalah pengecualian.
+- **[Kombo](/wiki/Beatmapping/Combo) tidak boleh melebihi 10 objek termasuk slider tail dan pengulangan.** [Spinner](/wiki/Hit_object/Spinner) adalah pengecualian.
 - **Perhatikan kepadatan note harus mengikuti sebagian besar pattern 1/1 dan 1/2.** Pattern 1/2 dan/atau 1/3 harus jarang digunakan.
 
 #### Pedoman pengaturan kesulitan
@@ -116,7 +116,7 @@ Aturan dan pedoman kesulitan hanya berlaku untuk tingkat kesulitan yang tercantu
 - **[Hyperdash](/wiki/Gameplay/Hyperdash) gap wajib setidaknya 125 ms di antara dua objek.**
 - **[Hyperdash](/wiki/Gameplay/Hyperdash) tidak dapat digunakan pada [drop](/wiki/Hit_object/Juice_stream#drop) individu dan/atau perulangan slider.** Akurasi dan kontrol yang diperlukan akan tidak masuk akal pada level ini dan dapat menciptakan situasi di mana pemain berpotensi gagal membaca jalur slider.
 - **[Hyperdash](/wiki/Gameplay/Hyperdash) dari snap beat yang berbeda tidak boleh digunakan di antara [fruit](/wiki/Hit_object/Fruit) secara berurutan.** Contohnya, hyperdash 1/2 diikuti hyperdash 1/4.
-- **[Hyperdash](/wiki/Gameplay/Hyperdash) yang [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) tidak boleh digunakan lebih dari dua kali antara [fruits](/wiki/Hit_object/Fruit) secara berturut-turut.**
+- **[Hyperdash](/wiki/Gameplay/Hyperdash) yang [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) tidak boleh digunakan lebih dari dua kali antara [fruit](/wiki/Hit_object/Fruit) secara berturut-turut.**
 - **[Hyperdash](/wiki/Gameplay/Hyperdash) yang [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) tidak boleh digunakan bersamaan dengan [Dash](/wiki/Gameplay/Dash) lain  atau hyperdash.**
 - **[Dash](/wiki/Gameplay/Dash) gap wajib setidaknya 62 ms di antara dua objek.**
 - **[Dash](/wiki/Gameplay/Dash) yang [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) tidak boleh digunakan lebih dari empat kali antara [fruit](/wiki/Hit_object/Fruit) berturut-turut.**
@@ -156,7 +156,7 @@ Aturan dan pedoman kesulitan hanya berlaku untuk tingkat kesulitan yang tercantu
 - **[Hyperdash](/wiki/Gameplay/Hyperdash) yang [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) tidak boleh digunakan secara berurutan saat menggunakan ketukan beat yang berbeda.** Contohnya, hyperdash 1/1 diikuti oleh hyperdash 1/2.
 - **[Hyperdash](/wiki/Gameplay/Hyperdash) yang [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) tidak boleh diikuti [antiflow](/wiki/Beatmapping/Antiflow) [Dash](/wiki/Gameplay/Dash) dengan gap yang lebih rendah dari 250 ms.**
 - **[Edge dash](/wiki/Gameplay/Edge_dash) hanya dapat digunakan secara tunggal (tidak berhubungan dengan [Dash](/wiki/Gameplay/Dash) yang lain atau [Hyperdash](/wiki/Gameplay/Hyperdash)).**
-- **[Combos](/wiki/Beatmapping/Combo) tidak boleh melebihi 16 objek termasuk tail slider dan pengulangan.** [Spinner](/wiki/Hit_object/Spinner) adalah pengecualian.
+- **[Kombo](/wiki/Beatmapping/Combo) tidak boleh melebihi 16 objek termasuk tail slider dan pengulangan.** [Spinner](/wiki/Hit_object/Spinner) adalah pengecualian.
 - **Perhatikan kepadatan note harus mengikuti sebagian besar pattern 1/2 + 1/4 dan/atau 1/3 + 1/6.** Pattern 1/8 dan lebih tinggi harus jarang digunakan.
 
 #### Pedoman pengaturan kesulitan
