@@ -76,7 +76,7 @@ En cliquant sur n'importe quel panneau utilisateur, un écran d'options apparaî
 | :-- | :-- | :-- | :-- |
 | `/addfriend [user]` | Ajoute ou supprime `[user]` de votre liste d'amis. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [user]` | Supprime `[user]` de votre liste d'amis. | `/delfriend Amigo` | You are no longer friends with Amigo. |
-| `/away [message]` | Défini un message d'absence à envoyer aux utilisateurs vous envoyant un message privé. Laissez le champ vide pour annuler. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. Quand Amigo /msg John Où es-tu~ ? BanchoBot : I am John Smith. |
+| `/away [message]` | Défini un message d'absence à envoyer aux utilisateurs vous envoyant un message privé. Laissez le champ vide pour annuler. | `/away Je suis John Smith.` | You have been marked as being away: I am John Smith. Quand Amigo /msg John Où es-tu~ ? BanchoBot : Je suis John Smith. |
 | `/bb` | Envoie un message à Bancho pour qu'il exécute une commande telle que `!stats [user]` | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [user]` | Ouvre un nouvel onglet de tchat avec l'utilisateur spécifié. | `/tchat Amigo` | (L'onglet Amigo est ouvert) |
 | `/clear` | Efface le contenu du tchat actuel. | `/clear` | (Efface pratiquement tout ce qui se trouve dans l'onglet actuel) |
