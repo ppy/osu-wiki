@@ -41,7 +41,7 @@ Try out [this 4K and 7K osu!mania mapset](https://osu.ppy.sh/beatmapsets/1505746
 Jump into [this hyper-intense beatmap](https://osu.ppy.sh/beatmapsets/1519877) hosted by [oyu](https://osu.ppy.sh/users/14135665)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/266/Songs/Neko%20Hacker%20feat.%20Nanahira%20-%20ShuwaShuwa%20Parfait.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/266/Songs/Neko%20Hacker%20-%20Pipopipo%20-People%20People-%20feat.%20Nanahira.mp3" type="audio/mpeg">
 </audio>
 
 ### Shadows feat. Such
