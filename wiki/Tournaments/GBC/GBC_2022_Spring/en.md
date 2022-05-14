@@ -88,19 +88,22 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 | 15 | **GBC最强阵容9个Miyes** | ![][flag_CN] **[miyes](https://osu.ppy.sh/users/12942073)**, ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767) |
 | 16 | **头号倒霉蛋** | ![][flag_CN] **[StarTemplar](https://osu.ppy.sh/users/8795096)**, ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634) |
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Saturday, May 7, 2022
+### Saturday, May 14, 2022
 
-| Team A | Team B | Match time |
-| --: | :-- | :-: |
-| 货拉拉拉不拉拉布拉多 | 太美丽了理塘 | May 7 (Sat) 18:00 (UTC+8) |
+| Team A | Team B | Match time |  |
+| --: | :-- | :-: | :-: |
+| 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | May 14 (Sat) 20:00 (UTC+8) | ¹ |
 
-### Sunday, May 8, 2022
+### Sunday, May 15, 2022
 
-| Team A | Team B | Match time |
-| --: | :-- | :-: |
-| GBC最强阵容9个Miyes | 金戈铁马的鲜丰水果摊 | May 8 (Sun) 18:00 (UTC+8) |
+| Team A | Team B | Match time |  |
+| --: | :-- | :-: | :-: |
+| GBC最强阵容9个Miyes | 货拉拉拉不拉拉布拉多 | May 15 (Sun) 19:00 (UTC+8) | ² |
+
+¹ Finals\
+² Bronze match
 
 ## Mappools
 
@@ -176,6 +179,20 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
   1. **[Camellia - Newspapers for Magicians (Leniane) \[Grimoire for Spells\]](https://osu.ppy.sh/beatmapsets/929143#mania/1940608)**
 
 ## Match results
+
+### Semifinals
+
+Saturday, May 7, 2022:
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| 货拉拉拉不拉拉布拉多 |  3 | **7** | 太美丽了理塘 | [#1](https://osu.ppy.sh/community/matches/100411441) |
+
+Sunday, May 8, 2022:
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| GBC最强阵容9个Miyes | 3 | **7** | 金戈铁马的鲜丰水果摊 | [#1](https://osu.ppy.sh/community/matches/100444701) |
 
 ### Quarterfinals
 
