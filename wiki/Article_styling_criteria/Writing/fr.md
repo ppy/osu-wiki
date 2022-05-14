@@ -222,6 +222,7 @@ Pour tous les autres termes, osu! doit être traité comme un nom seul. Cela sig
 - `osu! tournament`
 - `osu! community`
 - `osu! tchat`
+- `osu! chat`
 - `osu! client`
 - `osu! wiki`
 
