@@ -14,9 +14,9 @@ Le **osu! Fan Cafe Mapping Contest #5** (***OMC5***) est un concours de mapping 
 
 | Événement | Horodatage (UTC+9) |
 | --: | :-- |
-| Phase d'inscription | 13/08/2019/19/08/2019 |
-| Phase de soumission | 20/08/2019/20/09/2019 |
-| Phase de jugement | 21/09/2019/28/09/2019 |
+| Phase d'inscription | 13/08/2019 - 19/08/2019 |
+| Phase de soumission | 20/08/2019 - 20/09/2019 |
+| Phase de jugement | 21/09/2019 - 28/09/2019 |
 | Annonce des résultats | 29/09/2019 |
 
 Les horaires peuvent être retardés.
