@@ -8,14 +8,14 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ## Rankings
 
-<!-- last update: TWC 2022 (registration phase)-->
+<!-- last update: TWC 2022-->
 
 ### General ranking
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] South Korea | 19 | 4 | 5 |
-| 2 | ![][flag_JP] Japan | 10 | 5 | 2 |
+| 1 | ![][flag_KR] South Korea | 19 | 5 | 5 |
+| 2 | ![][flag_JP] Japan | 11 | 5 | 2 |
 | 3 | ![][flag_US] United States | 7 | 5 | 4 |
 | 4 | ![][flag_CN] China | 3 | 8 | 3 |
 | 5 | ![][flag_TW] Taiwan | 3 | 7 | 1 |
@@ -27,7 +27,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | 11 | ![][flag_PH] Philippines |  | 2 |  |
 | 12 | ![][flag_MY] Malaysia |  | 1 | 5 |
 | 13 | ![][flag_GB] United Kingdom |  | 1 | 4 |
-| 14 | ![][flag_ID] Indonesia |  | 1 | 2 |
+| 14 | ![][flag_ID] Indonesia |  | 1 | 3 |
 | 15 | ![][flag_NL] Netherlands |  | 1 |  |
 | 15 | ![][flag_TH] Thailand |  | 1 |  |
 | 16 | ![][flag_CA] Canada |  |  | 3 |
@@ -54,15 +54,16 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_JP] Japan | 9 | 1 | 2 |
+| 1 | ![][flag_JP] Japan | 10 | 1 | 2 |
 | 2 | ![][flag_TW] Taiwan | 2 | 5 |  |
 | 3 | ![][flag_HK] Hong Kong |  | 3 | 1 |
-| 4 | ![][flag_KR] South Korea |  | 2 | 1 |
-| 5 | ![][flag_CA] Canada |  |  | 2 |
-| 5 | ![][flag_FR] France |  |  | 2 |
-| 6 | ![][flag_BR] Brazil |  |  | 1 |
-| 6 | ![][flag_CN] China |  |  | 1 |
-| 6 | ![][flag_GB] United Kingdom |  |  | 1 |
+| 3 | ![][flag_KR] South Korea |  | 3 | 1 |
+| 4 | ![][flag_CA] Canada |  |  | 2 |
+| 4 | ![][flag_FR] France |  |  | 2 |
+| 5 | ![][flag_BR] Brazil |  |  | 1 |
+| 5 | ![][flag_CN] China |  |  | 1 |
+| 5 | ![][flag_ID] Indonesia |  |  | 1 |
+| 5 | ![][flag_GB] United Kingdom |  |  | 1 |
 
 ### ![][osu!catch] osu!catch ranking
 
