@@ -1,6 +1,6 @@
 ---
 outdated: true
-outdated_since: 335a77a349202175ce045415601839cb0050330a
+outdated_since: 2e7ca4cf876739862918998b75070e461ad7891c
 ---
 
 # Storyboard scripting

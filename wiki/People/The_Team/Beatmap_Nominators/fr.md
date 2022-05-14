@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 17fb11cfdf1bc72ce3f85c62bed260d9870c1cc8
 tags:
   - BN
   - BNG
@@ -24,7 +22,7 @@ Les membres des Beatmap Nominators sont divisés en deux groupes : les Beatmap N
 
 En plus du modding et du classement des beatmaps, les Beatmap Nominators confirmés sont responsables de la disqualification de beatmaps dans lesquelles des problèmes ont été trouvés. Les Beatmap Nominators confirmés peuvent également participer à des évaluations de candidatures au poste de Beatmap Nominator s'ils souhaitent faire partie de la Nomination Assessment Team dans le futur.
 
-Environ tous les trois mois, les Beatmap Nominators confirmés ont leur comportement et leur activité/qualité en nomination évalués par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). Si leurs nominations sont fréquemment réinitialisées pour des raisons notables ou si leur comportement est inacceptable, ils peuvent être déplacés dans le groupe des Beatmap Nominators probatoires.
+Environ tous les trois mois, les Beatmap Nominators confirmés ont leur comportement et leur activité/qualité en nomination [évalués](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). Si leurs nominations sont fréquemment réinitialisées pour des raisons notables ou si leur comportement est inacceptable, ils peuvent être déplacés dans le groupe des Beatmap Nominators probatoires.
 
 Les Beatmap Nominators confirmés ne montrant que peu d'activité ne seront pas placés en probation, cependant, ils seront exclus du groupe si leur activité ne s'améliore pas.
 
@@ -32,7 +30,7 @@ Les Beatmap Nominators confirmés ne montrant que peu d'activité ne seront pas 
 
 La probation est utilisée pour surveiller les nouveaux Beatmap Nominators ou les Beatmap Nominators ayant un comportement inapproprié. Le rôle principal des Beatmap Nominators probatoires est d'établir une fondation en tant que Beatmap Nominator en promouvant des beatmaps dans la procédure de classement. Au moins un Beatmap Nominator confirmé doit être impliqué dans la procédure de classement pour chaque mode de jeu sur une beatmap, les Beatmap Nominators probatoires ne peuvent donc pas donner la dernière nomination à une beatmap qui n'a reçu que des nominations d'autres membres probatoires pour leur mode de jeu.
 
-Les nouveaux Beatmap Nominators commencent avec un mois de probation. Si leurs nominations et leur comportement sont satisfaisants, ils seront promus au rang de Beatmap Nominator confirmés. Autrement, ils resteront en probation pour un autre mois ou seront exclus des Beatmap Nominators.
+Les nouveaux Beatmap Nominators commencent avec un mois de probation. Si leurs nominations et leur comportement sont satisfaisants, ils seront promus au rang de Beatmap Nominator confirmés suite à une [évaluation](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) positive. Autrement, ils resteront en probation pour un autre mois ou seront exclus des Beatmap Nominators.
 
 Lorsqu'un Beatmap Nominator est placé en probation, il ne peut pas être placé en probation une nouvelle fois pour la même raison. Par exemple, si un Beatmap Nominator est placé en probation pour mauvais comportement, il sera retiré des Beatmap Nominators s'il vient à présenter un mauvais comportement une seconde fois, même s'il est Beatmap Nominator confirmé à la seconde infraction.
 
@@ -202,6 +200,9 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
+| ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
+| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 
 #### osu!mania
 
