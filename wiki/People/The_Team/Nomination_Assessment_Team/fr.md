@@ -1,11 +1,11 @@
 ---
-outdated: true
-outdated_since: 17fb11cfdf1bc72ce3f85c62bed260d9870c1cc8
 tags:
   - NAT
 ---
 
 # Nomination Assessment Team
+
+*Voir également : [Évaluations des Beatmap Nominators](Evaluations)*
 
 La **Nomination Assessment Team** (***NAT***) sont les modérateurs des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) et s'assure que le côté beatmapping d'osu! reste fonctionnel.
 
@@ -19,7 +19,7 @@ Les membres de la NAT se distinguent par leur nom d'utilisateur rouge et leur ti
 
 Les NAT sont responsables d'une variété de tâches liées au mapping qui peuvent être séparées en quatre sous-catégories :
 
-- **Évaluation :** Évaluer les compétences et l'activité des candidats et des Beatmap Nominators actuels. La plupart des membres de la NAT sont responsables de la contribution à cette sous-catégorie.
+- **Évaluation :** Évaluer les compétences et l'activité des candidats et des Beatmap Nominators actuels. La plupart des membres de la NAT sont responsables de la contribution à cette sous-catégorie. Pour plus de détails sur le fonctionnement des évalutations, veuillez voir la page sur les [évaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations).
 - **Structure :** Documenter les sujets relatifs au processus de classement, modifier les règles et les directives relatives aux [critères de classement](/wiki/Ranking_Criteria), développer et maintenir les outils et les sites web associés.
 - **Modération :** Traiter les signalements des utilisateurs et évaluer le comportement inapproprié des Beatmap Nominators. Cette sous-catégorie est un effort conjoint entre la NAT et la GMT.
 - **Communication :** Promouvoir la transparence entre la NAT et la communauté de mapping/modding, notamment en créant et en organisant des réunions.
@@ -51,7 +51,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Évaluation, modération |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, Chinois | Évaluation |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinois | Évaluation |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, un peu de Arabe | Évaluation, structure, modération, communication |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, un peu d'Arabe | Évaluation, structure, modération, communication |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Structure, communication |
 | ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Évaluation |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structure |
@@ -84,7 +84,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | :-- | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinois | Évaluation |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonésien | Évaluation, communication |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Espagnol, Portugais, Galician, Italien, Japonais | Évaluation |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Espagnol, Portugais, Galicien, Italien, Japonais | Évaluation |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Évaluation |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"

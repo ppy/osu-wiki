@@ -1,3 +1,8 @@
+---
+tags:
+  - vote
+---
+
 # Processus de vote sur le contenu
 
 Le contenu soumis à l'examen des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (BN), de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (GMT) et de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) est soumis à un processus de vote spécial, comme indiqué ci-dessous.
