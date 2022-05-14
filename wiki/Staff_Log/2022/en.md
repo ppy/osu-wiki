@@ -63,6 +63,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-02-03: Added [Mokobe](https://osu.ppy.sh/users/10374819) to **Probationary BN**
 - 2022-02-12: Added [Sonnyc](https://osu.ppy.sh/users/11771) to **BN**
 - 2022-02-13: Added [Cellina](https://osu.ppy.sh/users/2490770) to **Probationary BN**
+- 2022-02-19: Added [Gabdu09](https://osu.ppy.sh/users/8852605) to **Probationary BN**
 - 2022-02-26: Added [bigh](https://osu.ppy.sh/users/16352736) to **Probationary BN**
 - 2022-02-28: Added [Basensorex](https://osu.ppy.sh/users/11655886) to **Probationary BN**
 
@@ -88,7 +89,6 @@ Abbreviations for user groups are used throughout this log:
 - 2022-02-16: Removed [Mimari](https://osu.ppy.sh/users/14339830) from **BN**
 - 2022-02-16: Removed [Sylas](https://osu.ppy.sh/users/3906405) from **BN**
 - 2022-02-19: Removed [Kibbleru](https://osu.ppy.sh/users/3193504) from **BN**
-- 2022-02-19: Removed [Gabdu09](https://osu.ppy.sh/users/8852605) from **Probationary BN**
 - 2022-02-20: Removed [Garden](https://osu.ppy.sh/users/2849992) from **BN**
 - 2022-02-21: Removed [Eyenine](https://osu.ppy.sh/users/1259391) from **BN**
 - 2022-02-23: Removed [Mir](https://osu.ppy.sh/users/8688812) from **BN**
