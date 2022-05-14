@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Guías de skinning e hilos importantes
 
 Lista de guías e hilos importantes, creados por la comunidad.
