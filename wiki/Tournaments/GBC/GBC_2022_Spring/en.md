@@ -21,8 +21,9 @@ The **GB Cup 2022 Spring** (***GBC 2022 Spring***) is a 3v3 captain draft-based 
 | Regular stage week 1 | 2022-04-09/2022-04-10 |
 | Regular stage week 2 | 2022-04-16/2022-04-17 |
 | Regular stage week 3 | 2022-04-23/2022-04-24 |
-| Playoffs week 1 | 2022-04-30/2022-05-01 |
-| Playoffs week 2 | 2022-05-07/2022-05-08 |
+| Quarterfinals | 2022-04-30/2022-05-01 |
+| Semifinals | 2022-05-07/2022-05-08 |
+| Finals | 2022-05-14/2022-05-15 |
 
 ## Prizes
 
@@ -87,25 +88,51 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 | 15 | **GBC最强阵容9个Miyes** | ![][flag_CN] **[miyes](https://osu.ppy.sh/users/12942073)**, ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767) |
 | 16 | **头号倒霉蛋** | ![][flag_CN] **[StarTemplar](https://osu.ppy.sh/users/8795096)**, ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634) |
 
-## Match schedule: Playoffs week 1
+## Match schedule: Finals
 
-### Sunday, May 1, 2022
+### Saturday, May 14, 2022
 
-| Team A | Team B | Match time |
-| --: | :-- | :-: |
-| 大怨种被迫当队长 | GBC最强阵容9个Miyes | May 1 (Sun) 18:00 (UTC+8) |
-| 太美丽了理塘 | 可爱的hyahya酱上线啦！！ | May 1 (Sun) 19:00 (UTC+8) |
-| 金戈铁马的鲜丰水果摊 | 皮蛋蛋吸手手俱乐部 | May 1 (Sun) 20:30 (UTC+8) |
+| Team A | Team B | Match time |  |
+| --: | :-- | :-: | :-: |
+| 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | May 14 (Sat) 20:00 (UTC+8) | ¹ |
 
-### Monday, May 2, 2022
+### Sunday, May 15, 2022
 
-| Team A | Team B | Match time |
-| --: | :-- | :-: |
-| 货拉拉拉不拉拉布拉多 | 涩涩不队 | May 2 (Mon) 19:00 (UTC+8) |
+| Team A | Team B | Match time |  |
+| --: | :-- | :-: | :-: |
+| GBC最强阵容9个Miyes | 货拉拉拉不拉拉布拉多 | May 15 (Sun) 19:00 (UTC+8) | ² |
+
+¹ Finals\
+² Bronze match
 
 ## Mappools
 
-### Regular stage week 3
+### Semifinals & Finals
+
+**[Download the mappack here (130.7 MB)](https://drive.google.com/file/d/1GdRG5ay0LU_RaAfcpml8qG_Gu3bdlWB1/view)**
+
+- Rice
+  1. [DJ TOTTO - Chaplet (riunosk) \[Deceptive\]](https://osu.ppy.sh/beatmapsets/1440718#mania/2964130)
+  2. [Hachioji-P feat. Hatsune Miku - Blue Star (\[Crz\]Rachel) \[Sparkle Star\]](https://osu.ppy.sh/beatmapsets/1000382#mania/2093764)
+  3. [goreshit - satori de pon! (SaltedFISSH) \[\~\~Pon!\~\~\]](https://osu.ppy.sh/beatmapsets/1251545#mania/2601285)
+  4. [DECO\*27 - Android Girl feat. Hatsune Miku (Xingyue -) \[AI x1.1\]](https://osu.ppy.sh/beatmapsets/969824#mania/2029268)
+  5. [TUYU - Yappari Ame wa Furun da ne (- Freeman -) \[Edit (cut)\]](https://osu.ppy.sh/beatmapsets/1742064#mania/3587065)
+  6. [Pan Weibo / Zhang Shaohan - Kuai Le Chong Bai (Doshowz) \[Come on\]](https://osu.ppy.sh/beatmapsets/1179698#mania/2459946)
+  7. [Hatsuki Yura - Snow Veil -Shoujo to Kemono no Mori- (Hylotl) \[BAKEMONO\]](https://osu.ppy.sh/beatmapsets/1711963#mania/3498202)
+- LN
+  1. [DJ TOTTO VS TOTTO - Vajra (IA daisuki) \[IA daisuki&cherrychou's SPECIAL\]](https://osu.ppy.sh/beatmapsets/1677512#mania/3440654)
+  2. [YOASOBI - Gunjou (shuniki) \[ShuChan!!+\]](https://osu.ppy.sh/beatmapsets/1296693#mania/2711689)
+  3. [HyuN & Ritoru - Apocalypse in Love (IceDynamix) \[Ende der Liebe\]](https://osu.ppy.sh/beatmapsets/925537#mania/1933271)
+- SV
+  1. [Cutter - EmoCosine (\[GB\]AelSan) \[Miscedence's Cute \[GBC edit\]\]](https://osu.ppy.sh/beatmapsets/1755418#mania/3592340)
+  2. [TSAR - 0.0? (\[GB\]AelSan) \[Mafufu & AelSan's @v@!\]](https://osu.ppy.sh/beatmapsets/1755419#mania/3592342)
+- Hybrid
+  1. [IOSYS - Ringo's Tea Party (TheToaphster) \[Spooked\]](https://osu.ppy.sh/beatmapsets/638838#mania/1355027)
+  2. [Camellia feat. Nanahira - Ska-sh All Neurons!! (HowToPlayLN) \[Re-forward !!\]](https://osu.ppy.sh/beatmapsets/1122764#mania/2349915)
+- Tiebreaker
+  1. **[Camellia - SECRET BOSS (\[GB\]yobrevelc) \[Glorious Battlefield of Champions\]](https://osu.ppy.sh/beatmapsets/1755452#mania/3592441)**
+
+### Regular stage week 3 & Quarterfinals
 
 **[Download the mappack here (116.38 MB)](https://drive.google.com/file/d/1bB4ybEiRhBWacF1tZnQGbfBu4CiRhpGl/view)**
 
@@ -152,6 +179,36 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
   1. **[Camellia - Newspapers for Magicians (Leniane) \[Grimoire for Spells\]](https://osu.ppy.sh/beatmapsets/929143#mania/1940608)**
 
 ## Match results
+
+### Semifinals
+
+Saturday, May 7, 2022:
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| 货拉拉拉不拉拉布拉多 |  3 | **7** | 太美丽了理塘 | [#1](https://osu.ppy.sh/community/matches/100411441) |
+
+Sunday, May 8, 2022:
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| GBC最强阵容9个Miyes | 3 | **7** | 金戈铁马的鲜丰水果摊 | [#1](https://osu.ppy.sh/community/matches/100444701) |
+
+### Quarterfinals
+
+Sunday, May 1, 2022:
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| 大怨种被迫当队长 | 3 | **6** | GBC最强阵容9个Miyes | [#1](https://osu.ppy.sh/community/matches/100250198) |
+| 太美丽了理塘 | **6** | 2 | 可爱的hyahya酱上线啦！！ | [#1](https://osu.ppy.sh/community/matches/100250096) |
+
+Monday, May 2, 2022:
+
+| Team A |  |  | Team B | Match link |
+| --:  |--: | :-- | :-- | :-: |
+| 货拉拉拉不拉拉布拉多 | **6** | 5 | 涩涩不队 | [#1](https://osu.ppy.sh/community/matches/100280784) |
+| 金戈铁马的鲜丰水果摊 | **6** | 4 | 皮蛋蛋吸手手俱乐部 | [#1](https://osu.ppy.sh/community/matches/100281811) |
 
 ### Regular stage summary
 
@@ -342,11 +399,11 @@ Sunday, April 10, 2022:
 ### Playoff stage instructions
 
 1. Following the Regular stage, a single elimination stage will be played. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
-2. Teams must play 2 matches on week 2 of the playoffs.
 
 ### Win conditions
 
-- In all stages, teams need to win 6 maps to win a match (best of 11).
+- In the Regular stage and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
+- In Semifinals and Finals, teams need to win 7 maps to win a match (best of 13).
 
 ### Match instructions
 
@@ -375,10 +432,12 @@ Sunday, April 10, 2022:
 
 ### Mappool instructions
 
-1. There will be one mappool for each stage.
-   - Regular stage Round 1 and Round 2 are seen as a single stage, meaning they use the same mappool.
+1. There will be three separate mappools.
+   - Regular stage Round 1 and Round 2 use mappool #1.
+   - Regular stage Round 3 and Quarterfinals use mappool #2.
+   - Semifinals and Finals use mappool #3.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
-3. All mappools contain 13 beatmaps.
+3. Mappools #1 & #2 contain 13 beatmaps, and mappool #3 contains 15 beatmaps.
 4. Each mappool has one tiebreaker.
 5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
