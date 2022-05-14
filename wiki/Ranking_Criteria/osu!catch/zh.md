@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!catch ranking criteria
 
 ***注意: 这个文件是[通用 Ranking Criteria](/wiki/Ranking_Criteria)的扩展。***
