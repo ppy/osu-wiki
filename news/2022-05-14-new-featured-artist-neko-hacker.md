@@ -52,7 +52,7 @@ Jump into [this hyper-intense beatmap](https://osu.ppy.sh/beatmapsets/1519877) h
 
 ---
 
-Need some mapping motivation? After scrolling through [**Neko Hacker**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/266), you'll be ready. Explore any of the songs and start your creative expedition with any of the super convenient pre-timed beatmap templates.
+Need some mapping motivation? After scrolling through [**Neko Hacker**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/266), you'll be ready. Explore any of the songs and start your creative expedition with any of the super-convenient pre-timed beatmap templates.
 
 The week has finished, but the Featured Artist train is nowhere near its destination. The [@osugame Twitter](https://twitter.com/osugame) will keep you up to date on our bi-weekly schedule of arrivals, so do whatever you want to do with that information and we'll see you soon!
 
