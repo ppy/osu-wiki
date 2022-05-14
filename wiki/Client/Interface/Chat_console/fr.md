@@ -59,6 +59,8 @@ En cliquant sur n'importe quel panneau utilisateur, un écran d'options apparaî
 
 ![Options du panneau de l'utilisateur](img/Chat_Console-Userpaneloptions.jpg "Options du panneau de l'utilisateur")
 
+Appuyez sur le numéro ou cliquez sur la barre pour l'activer :
+
 1. `Observer le joueur` : Si l'utilisateur joue une beatmap et que vous l'avez, vous pouvez l'observer pendant qu'il joue. Votre nom figurera dans sa liste de spectateurs.
 2. `Consulter le profil` : Ouvre la page web du profil du joueur dans votre navigateur.
 3. `Discuter` : Ouvre un onglet de tchat privé avec l'utilisateur.
