@@ -13,7 +13,7 @@ tags:
 
 # osu! at UCSD
 
-**osu! at UCSD** est un club osu! géré comme une division de *Triton Gaming* à l'Université de Californie, San Diego (*UCSD*). Son but est de donner aux joueurs osu! de l'UCSD et de ses environs un espace pour se connecter les uns aux autres et construire une communauté locale. Ils organisent des rencontres régulières en personne et en ligne, ainsi que des LAN et des tournois osu! en ligne.
+**osu! at UCSD** est un club osu! géré comme une division de *Triton Gaming* à l'Université de Californie, San Diego (*UCSD*). Son but est de donner aux joueurs d'osu! de l'UCSD et de ses environs un espace pour se connecter les uns aux autres et construire une communauté locale. Ils organisent des rencontres régulières en personne et en ligne, ainsi que des LAN et des tournois osu! en ligne.
 
 Voir la [page d'index des tournois osu! at UCSD](/wiki/Tournaments/osu!_at_UCSD) pour plus d'informations sur leurs tournois.
 
