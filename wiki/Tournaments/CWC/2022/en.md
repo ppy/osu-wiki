@@ -43,7 +43,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114), ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_CA] [wwwww](https://osu.ppy.sh/users/8434466), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
 | Commentator | ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Elux](https://osu.ppy.sh/users/12004983), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_AU] [Maitoo](https://osu.ppy.sh/users/16899553), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_US] [Lumenite-](https://osu.ppy.sh/users/6256027), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941), ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_BE] [\[ Quinten \]](https://osu.ppy.sh/users/6283136) |
-| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
@@ -92,6 +92,26 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_GB] | **United Kingdom** | **[Withered Lotus](https://osu.ppy.sh/users/3546931)**, [Matt\_H](https://osu.ppy.sh/users/4067115), [Stats-Kun](https://osu.ppy.sh/users/8611935), [Zoggoth](https://osu.ppy.sh/users/2799946), [Litlas](https://osu.ppy.sh/users/5126518), [Tomato](https://osu.ppy.sh/users/9239206) |
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983) |
 | ![][flag_VN] | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)**, [Stardust Prism](https://osu.ppy.sh/users/8525921), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-Linglan Lily-](https://osu.ppy.sh/users/8738261), [Marota](https://osu.ppy.sh/users/10278890), [NamSPro](https://osu.ppy.sh/users/11387006) |
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (117 MB)](https://drive.google.com/uc?id=1lEUFkMvljWzub9IhE3lW0wGI9COU-2DO)**
+
+- NoMod
+  1. [Mia REGINA - I got it! (Slax Remix) (-Rustyy) \[Rustyy & Nosuri's Special\]](https://osu.ppy.sh/beatmapsets/1764078#fruits/3610710)
+  2. [Christopher Larkin - Mantis Lords (0 K Remix) (JBHyperion) \[A Traitor's End\]](https://osu.ppy.sh/beatmapsets/1763744#fruits/3610043)
+  3. [Rhodanthe\* - Yumeiro Parade (Doormat) \[Mosaic\]](https://osu.ppy.sh/beatmapsets/425957#fruits/920453)
+- Hidden
+  1. [siqlo - YInMn Blue (autofanboy) \[Artefact\]](https://osu.ppy.sh/beatmapsets/1763643#fruits/3609835)
+  2. [isubokuro - Aun no Beats (Beren) \[Answer\]](https://osu.ppy.sh/beatmapsets/1153984#fruits/2408391)
+- Hard Rock
+  1. [MisomyL - Mukishitsu Sekai ni Irodori o (Bunnrei) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1763991#fruits/3610504)
+  2. [KINEMA106 - Juusou (Mordred) \[Yogurtt's Extra\]](https://osu.ppy.sh/beatmapsets/1301393#fruits/2709081)
+- Double Time
+  1. [WOODKID - Iron (Ascendance) \[Requiescat in Pace\]](https://osu.ppy.sh/beatmapsets/1763686#fruits/3609911)
+  2. [Tatsh - Lunatic Tears... (Tatsh Remix) (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/1460718#fruits/3001358)
 
 ## Ruleset
 
