@@ -63,7 +63,7 @@ Liens :
 
 - [This week (month) in osu! – ppy blog](https://blog.ppy.sh/post/46924535831/this-week-month-in-osu-13)
 - [The end of the MAT](https://osu.ppy.sh/community/forums/topics/129165)
-- [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144)
+- [osu! Public Release (09/2007)](https://osu.ppy.sh/community/forums/topics/130144)
 
 ## Mai
 

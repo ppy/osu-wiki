@@ -18,7 +18,7 @@ Pour relancer un replay depuis le début, restez appuyé sur un des boutons par 
 L'écran devrait s'assombrir et un son sera joué lorsque le replay sera relancé.
 Relâcher trop tôt ne permettra pas au relancement de s'effectuer.
 
-Il est toujours possible d'accéder à la [console de chat](/wiki/Client/Interface/Chat_console) (`F8`)/[console de chat étendue](/wiki/Client/Interface/Chat_console#la-console-de-chat-étendue) (`F9`) .
+Il est toujours possible d'accéder à la [console de tchat](/wiki/Client/Interface/Chat_console) (`F8`)/[console de tchat étendue](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue) (`F9`) .
 Appuyez sur `Tab` pour cacher/afficher le classement actuellement sélectionné.
 Appuyez sur `H` pour cacher/afficher les éléments du replays exceptés les mods utilisés et la notice **UNRANKED** si la partie est jouée par [Auto](/wiki/Game_modifier/Auto).
 
@@ -63,7 +63,7 @@ Pour retirer la notice **UNRANKED** , regardez un replay du `classement global`,
 
 Quand vous regardez un replay du classement global, les commentaires du joueur seront montrés en bas de l'écran et ne seront montrés que sur ce replay uniquement.
 
-Par défaut, sans tag osu!supporter actif, la couleur des commentaires dépendra de la couleur affichée dans le chat (les comptes sans osu!supporter sont affichés en blanc) mis à part le créateur de la beatmap (commentaires en bleu-clair).
+Par défaut, sans tag osu!supporter actif, la couleur des commentaires dépendra de la couleur affichée dans le tchat (les comptes sans osu!supporter sont affichés en blanc) mis à part le créateur de la beatmap (commentaires en bleu-clair).
 
 ### Collections
 
@@ -165,13 +165,13 @@ Les éléments du Multi ne seront pas sauvegardés comme montré sur la comparai
 
 ### Spectateur
 
-Le mode spectateur requiert l'accès à la [Console de chat étendue](/wiki/Client/Interface/Chat_console#la-console-de-chat-étendue), vous devez donc vous connecter à Bancho pour observer un joueur.
+Le mode spectateur requiert l'accès à la [Console de tchat étendue](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue), vous devez donc vous connecter à Bancho pour observer un joueur.
 
-Après cela, appuyez sur `F9` pour accéder à la console de chat étendue et choisissez le jouer à observer.
+Après cela, appuyez sur `F9` pour accéder à la console de tchat étendue et choisissez le jouer à observer.
 Vous devez avoir la **même** difficulté/beatmap que le joueur, ou un message d'avertissement apparaîtra en bas à droite pour vous dire que vous ne possédez pas la beatmap, vous ne pouvez donc pas obtenir le replay.
 Si vous possédez la beatmap, le replay en mode spectateur commencera.
 
-Un onglet `#spectator` s'ouvrira dans la console de chat (pour les spectateurs et le joueur) pour discuter de la partie du joueur.
+Un onglet `#spectator` s'ouvrira dans la console de tchat (pour les spectateurs et le joueur) pour discuter de la partie du joueur.
 
 Notez que selon les paramètres du joueur, la liste des pseudos des spectateurs apparaîtra en blanc sur l'écran du joueur dans le coin supérieur gauche.
 

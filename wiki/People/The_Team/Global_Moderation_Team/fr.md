@@ -39,7 +39,7 @@ Devenir membre de la Global Moderation Team exige une contribution importante. L
 Les facteurs les plus importants à prendre en compte sont le comportement, l'activité, la compréhension des [règles](/wiki/Rules) et la patience :
 
 1. Faites preuve d'un bon comportement en étant poli et en traitant les autres utilisateurs avec respect. Il est essentiel que votre compte soit exempt de silences ou de problèmes graves.
-2. Faire preuve d'activité dans le jeu en participant au chat et/ou aux forums. [Signaler tout mauvais comportement](/wiki/Reporting_bad_behaviour) et tout problème via le système de signalement. Répondre aux questions et aider les autres à résoudre leurs problèmes.
+2. Faire preuve d'activité dans le jeu en participant au tchat et/ou aux forums. [Signaler tout mauvais comportement](/wiki/Reporting_bad_behaviour) et tout problème via le système de signalement. Répondre aux questions et aider les autres à résoudre leurs problèmes.
 3. Avoir une bonne compréhension des [règles](/wiki/Rules) et de leur application. Il est important de savoir ce qui est acceptable au sein d'osu! et ce qui ne l'est pas.
 4. Soyez patient. La GMT n'ajoute pas spontanément des membres qui aident depuis quelques jours seulement. Il est nécessaire de donner du temps à la GMT afin d'évaluer une personne - sa personnalité, ce qu'elle peut faire, son activité, etc.
 
