@@ -1,0 +1,131 @@
+---
+layout: post
+title: "triangles"
+date: 2022-05-17 19:00:00 +0000
+---
+
+Mappers and storyboarders unite in osu!'s newest contest: **triangles**!
+
+![](/wiki/shared/news/banners/triangles.jpg)triangles - aficionado@2x.png
+
+[**lazer**](https://www.youtube.com/watch?v=ut_SOreClcc) is the next major update to osu!. If you [try it for yourself](https://github.com/ppy/osu#running-osu), you'll notice that osu!'s classic theme song has been replaced by *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*:
+
+<audio controls>
+    <source src="LINK" type="audio/mpeg">
+</audio>
+
+**triangles** is a mapping and storyboarding contest using lazer's theme song, and the winning submission will be **bundled with all new installations of lazer** (along with other cool prizes!).
+
+There's a lot to explain. Let's dive in.
+
+---
+
+## Teams
+
+To participate in this contest, you need a **team of 2-5 mappers/storyboarders** to create:
+
+- A **triangle-themed** beatmap spread...
+    - following the [ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_Criteria) 
+    - with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert.
+- A **triangle-themed** storyboard...
+    - focused on lightweight performance (think in terms of vector images). If the storyboard performs well enough, it may even be displayed behind lazer's main menu on startup!
+    - with a `.osb` filesize under **1 MB**
+
+**Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).** Once confirmed, your team will be published on the [*triangles* contest wiki page](/wiki/Contests/triangles_Contest)!
+
+Unlike last year's [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) contest, entries this time around will remain **anonymous** during the judging phase. This means you should **NOT** upload your submission to BSS or share details about it until *after* judging is completed.
+
+## Schedule
+
+- **May 17 - July 17:** Contest is open for submissions [here](https://osu.ppy.sh/community/contests/147)!
+- **July 19 - July 31:** Submissions are evaluated by a team of judges.
+- **August 02 - August 16:** Top beatmaps are published for community vote and lazer playlists.
+- **August 20:** Live stream announcement of contest results!
+
+## Prizes
+
+Following the 3-sided theme of **triangles**, we have prizes for 3 types of people on osu!: **mappers**, **storyboarders**, and **competitive players!**
+
+**Mappers** and **storyboarders** are in charge of judging. Each of these groups will evaluate their area of expertise AND the overall beatmap package — all while considering the contest's **triangle** theme.
+
+Prizes will be awarded to all members of the highest scoring team in each category:
+
+### Mapper panel
+
+- **Runner-up:** 3 months of osu!supporter 
+- **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
+
+![Mappers' Pick profile badge](/wiki/shared/news/2022-05-17-triangles/mappers@2x.png)
+
+### Storyboarder panel
+
+- **Runner-up:** 3 months of osu!supporter 
+- **Winner:**  6 months of osu!supporter + *Storyboarders' Pick* profile badge
+
+![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-17-triangles/storyboarders@2x.png)
+
+### Overall prizes
+
+This category is based on how members of both Mapper and Storyboarder panels evaluate the full beatmap package.
+
+- **Runner-up:**
+    - 6 months of osu!supporter
+    - *Overall runner-up* profile badge
+- **Winner:**
+    - 12 months of osu!supporter
+    - *Overall winner* profile badge
+    - *Elite Mapper*/*Elite Storyboarder* user titles
+    - Submission bundled with new lazer installations (after reaching Ranked status)
+
+![Overall runner-up profile badge](/wiki/shared/news/2022-05-17-triangles/overallrunnerup@2x.png)
+
+![Overall winner profile badge](/wiki/shared/news/2022-05-17-triangles/overallwinner@2x.png)
+
+### Community vote
+
+Top beatmaps will be published for a **community vote** and featured in **5 lazer playlists** (one per difficulty level). At this time, teams may reveal their beatmaps to the public.
+
+To participate in the community vote, you will need to play through any of the relevant playlists on lazer. This ensures anyone voting has actually considered all of the options!
+
+- **Community vote runner-up:** 3 months of osu!supporter
+- **Community vote winner:** 6 months of osu!supporter + *Community Pick* profile badge
+
+![Community pick profile badge](/wiki/shared/news/2022-05-17-triangles/community@2x.png)
+
+Players have a chance to earn something too! Once the playlists are closed, whoever has the highest score on each leaderboard will receive a minor prize too:
+
+- **Easy/Normal/Hard/Insane playlist leaders:** 1 month of osu!supporter each
+- **Expert playlist leader:** 1 month of osu! supporter + *triangle aficionado* profile badge
+
+![triangle aficionado profile badge](/wiki/shared/news/2022-05-17-triangles/aficionado@2x.png)
+
+---
+
+Once *everything above* is finalized, we'll announce the results in a **live stream showcase of the finalists** with commentary from some of the judges!
+
+In case one team wins multiple categories, we'll combine their profile badges accordingly. Sorry profile badge collectors, you only receive one.
+
+## Rules
+
+Surprising absolutely nobody, this contest has RULES:
+
+- **Submission must including the following:**
+    - A beatmap spread of *cYsmix - triangles* with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert. [Download the beatmap template here!](LINK)
+    - A storyboard with a `.osb` filesize under **1 MB** with a focus on lightweight performance. Consider how this could look in the background of lazer's main menu too!
+- **Submission must be in `.osz` format.**
+- **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
+- **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
+- **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).**
+    - If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418).
+    - Teams must have 2-5 members.
+- **Submissions must not be publicly revealed until after the judging phase ends.**
+- **Submissions must not be Qualified until after the community vote ends.**
+
+
+---
+
+Head to the [**triangles** contest listing](https://osu.ppy.sh/community/contests/147) when your team's submission is ready! And to keep track of the competition (among other actually useful things), look through the [**triangles** wiki article](/wiki/Contests/triangles_Contest)!
+
+Prove to the next generation of osu! players how cool triangles can be. Best of luck.
+
+—pishifat
