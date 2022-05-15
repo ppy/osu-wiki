@@ -28,10 +28,10 @@ BN 考试没有分数线，但可以大概地根据得分把申请者分为三�
 
 ## 历史
 
-[Echo](https://osu.ppy.sh/users/431) 于 2008 年举行了一次小测试，也是摸图考试的原型。但它并不用于选拔新 BN（旧称为 [谱面评估团队 (*BAT*)](/wiki/Modding/Beatmap_Appreciation_Team)）。而是便于玩家们指出这张谱面 （[Arashi - Kitto Daijoubu](http://up.ppy.sh/files/Arashi%20-%20Kitto%20Daijoubu.rar)） 内的瑕疵或错误。
+[Echo](https://osu.ppy.sh/users/431) 于 2008 年进行了一项小测试，这也是摸图考试的雏形，但它并不用于选拔新 BN（旧称为 [谱面评估团队 (*BAT*)](/wiki/Modding/Beatmap_Appreciation_Team)）。测试要求玩家指出谱面 （[Arashi - Kitto Daijoubu](http://up.ppy.sh/files/Arashi%20-%20Kitto%20Daijoubu.rar)）的瑕疵或错误。
 
-直到 2015 年之前，类似的摸图小测试还只是为了娱乐而设立。这一年，BN 考试开始试运行。考试包含了一些多选题，与现在的考试题很相似。并由 [Charles445](https://osu.ppy.sh/users/85000) 制作了第一版用于评估摸图能力的考试谱面。这张谱面内包含了 10 个难度，难度内仅有一小段物件。每段物件都代表了一个[难度等级](/wiki/Beatmap/Difficulty)，包含了刻意设计，并让玩家找出的问题。
+直到 2015 年之前，类似的摸图小测试还只是为了娱乐而设立。这一年，BN 考试开始实行。考试包含了一些与现在的考试题很相似的多选题，以及由 [Charles445](https://osu.ppy.sh/users/85000) 制作的第一版用于评估摸图能力的考试谱面。这张谱面内包含了 10 个难度，每个难度内仅有一小段物件，而每段物件都对应了一个精心设计的[难度等级](/wiki/Beatmap/Difficulty)，考生需要指出其中存在的问题。
 
-第二版考试谱面（由 [Irreversible](https://osu.ppy.sh/users/1287964) 和 [Mao](https://osu.ppy.sh/users/2204515) 制作）；第三版考试谱面（由 Irreversible、Mao、[Myxo](https://osu.ppy.sh/users/2202645) 制作）；第四版考试谱面（由 Irreversible 和 Mao 制作）都覆盖了所有难度等级，来模拟真实情况下摸图的感觉。
+第二版考试谱面（由 [Irreversible](https://osu.ppy.sh/users/1287964) 和 [Mao](https://osu.ppy.sh/users/2204515) 制作）、第三版考试谱面（由 Irreversible、Mao、[Myxo](https://osu.ppy.sh/users/2202645) 制作）、第四版考试谱面（由 Irreversible 和 Mao 制作）均设计为完整谱面，以模拟真实情况下的摸图。
 
 直到 2017 年之前，这些试运行测试仍用于挑选新 BN。而这之后，因为不再死抓考试中作弊的行为，试运行测试停止。取而代之的是[质量保障团队 (QAT)](/wiki/Modding/Quality_Assurance_Team)（现改名为审核评估团队 (NAT)）的主观评判，来决定申请者是否能通过评估并加入 BN 团队。
