@@ -3,7 +3,6 @@ tags:
   - DS
 ---
 
-
 # Distance snap
 
 ![Un exemple de ce que fait exactement l'espacement des beats.](img/Beatspacing.jpg "Un exemple de ce que fait exactement l'espacement des beats.")
