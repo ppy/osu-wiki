@@ -50,6 +50,8 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1562118)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/87) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRetD8MoopEqecAdBgPUlpXsbnqnu0posV0qh9Lxo130lScWtEx1Qe2uxdyIVx-HqtXdtEXD6Rtjs_V/pubhtml)
 
 ## Participants
 
@@ -185,9 +187,15 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 5. The mappool **must** be played in the following order: NM1, NM2, NM3, HD1, HD2, HR1, HR2, DT1, DT2.
 6. Each team must have 3 players for each map. They can be exchanged freely after each map is concluded.
 7. A team's final score for a map is considered as the highest combined team score for that map (i.e. the sum of each individual player's score). Only the highest score out of the two runs will be used for seeding.
-8. An optional 3-minute break will be offered between the first and second play-through of the mappool.
-9. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
-10. Only the top 32 seeded teams will advance to the Round of 32.
+8. The seeding method used for Qualifiers will be %MAX - the highest combined team score for each map will receive 100% of the points, and every other team will be awarded a percentage of that top score.
+    - The exact formula that will be used for all teams (and for each map) is `Final Score = {Team Score} / MAX({Map Score})`, where:
+      - `Final Score` is the percentage awarded to the current team
+      - `{Team Score}` is the score the current team achieved on the current map
+      - `MAX({Map Score})` is the highest score achieved for the current map.
+9. An optional 3-minute break will be offered between the first and second play-through of the mappool.
+10. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
+11. Only the top 32 seeded teams will advance to the Round of 32.
+12. The Qualifier stage results will be published in this wiki article after all teams have played.
 
 ### Stage instructions
 
