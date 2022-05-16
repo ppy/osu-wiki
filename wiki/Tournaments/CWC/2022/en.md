@@ -190,7 +190,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 8. The seeding method used for Qualifiers will be %MAX—the highest combined team score for each map will receive 100% of the points, and every other team will be awarded a percentage of that top score.
    - The exact formula that will be used for all teams (and for each map) is `Final Score = Team Score / MAX(Map Score)`, where:
      - `Final Score` is the percentage awarded to the current team
-     - `{Team Score}` is the score the current team achieved on the current map
+     - `Team Score` is the score the current team achieved on the current map
      - `MAX(Map Score)` is the highest score achieved for the current map
 9. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 10. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
@@ -228,7 +228,6 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
    - Repeat offenders may receive further sanctions from the Tournament Management.
    - Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
      - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
-6. Results for the Qualifier stage will be published via a statistics sheet.
 
 ### Mappool instructions
 
