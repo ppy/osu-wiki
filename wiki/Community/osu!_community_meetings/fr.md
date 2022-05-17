@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 4a75f667505af5dc619a81b7326eac73d6483a3e
----
-
 # osu! community meetings
 
 Les **osu! community meetings** sont un groupe de discussion bimensuel organisé par l'[équipe d'osu!](/wiki/People/The_Team). L'objectif principal de ces meetings est de donner à chacun une chance de parler directement avec les développeurs et les personnes responsables de la gestion de la communauté pour soulever des questions à discuter ou à approfondir.
@@ -47,6 +42,7 @@ Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meeti
 | 11 | [20 février 2022](https://youtu.be/d66pU5lsHvE) | [Article récapitulatif](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) | Score et multiplicateurs de mods |
 | 12 | [6 mars 2022](https://youtu.be/HimCHAnPCCY) | [Article récapitulatif](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) | Classements, compatibilité entre les clients, et préparation de la sortie d'osu!(lazer) |
 | 13 | [20 mars 2022](https://youtu.be/2Cp9rm0rNPQ) | [Document de synthèse](https://docs.google.com/document/d/1X6ak_3CXxTYQLz71yhSTsKkl7cm74iaCQ7wecDkE6uQ) | Mise à jour concernant le développement, questions diverses de la communauté |
+| 14 | [3 avril 2022](https://youtu.be/UWT18LaoeKw) | [Document de synthèse](https://docs.google.com/document/d/1LzKpXwIKxcpYgEAK4zdEIVuMNJckoo9SWN-UoAvOto8) | Passage en revue des résultats du sondage sur le score, questions diverses de la communauté |
 
 ## Liens associés
 
