@@ -190,7 +190,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | Espanhol |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Francês |
-| ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Chinês |
 | ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Alemão |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinês |
@@ -213,11 +212,13 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
+| ![][flag_TW] [_Rokii_](https://osu.ppy.sh/users/12770065) | Chinês |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chinês |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonésio |
 | ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malaio |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
+| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonésio |
 | ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Coreano |
 
 #### osu!mania

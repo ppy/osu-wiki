@@ -190,7 +190,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | İspanyolca |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Fransızca |
-| ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Çince |
 | ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Almanca |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Çince |
@@ -213,11 +212,13 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ![][flag_TW] [_Rokii_](https://osu.ppy.sh/users/12770065) | Çince |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Çince |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Endonezce |
 | ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malay dili |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
+| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Endonezce |
 | ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korece |
 
 #### osu!mania

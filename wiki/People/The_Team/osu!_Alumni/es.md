@@ -236,7 +236,6 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | BAT |
 | ![][flag_CN] [xierbaliti](https://osu.ppy.sh/users/34044) | BAT |
 | ![][flag_FR] [XPJ38](https://osu.ppy.sh/users/273531) | Equipo de soporte |
-| ![][flag_SE] [Xytox](https://osu.ppy.sh/users/2229274) | GMT |
 | ![][flag_FR] [yaya](https://osu.ppy.sh/users/50163) | BAT |
 | ![][flag_US] [yeahyeahyeahhh](https://osu.ppy.sh/users/58042) | MAT |
 | ![][flag_AU] [YGOkid8](https://osu.ppy.sh/users/69114) | BAT |

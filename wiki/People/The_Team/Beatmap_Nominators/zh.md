@@ -188,7 +188,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | 西班牙语 |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | 法语 |
-| ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | 中文 |
 | ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | 德语 |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 中文 |
@@ -211,11 +210,13 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ![][flag_TW] [_Rokii_](https://osu.ppy.sh/users/12770065) | 中文 |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | 中文 |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | 印度尼西亚语 |
 | ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | 马来语 |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
+| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | 印度尼西亚语 |
 | ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | 韩语 |
 
 #### osu!mania
