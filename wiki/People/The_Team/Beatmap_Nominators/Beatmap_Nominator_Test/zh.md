@@ -34,4 +34,4 @@ BN 考试没有分数线，但可以大概地根据得分把申请者分为三�
 
 第二版考试谱面（由 [Irreversible](https://osu.ppy.sh/users/1287964) 和 [Mao](https://osu.ppy.sh/users/2204515) 制作）、第三版考试谱面（由 Irreversible、Mao、[Myxo](https://osu.ppy.sh/users/2202645) 制作）、第四版考试谱面（由 Irreversible 和 Mao 制作）均设计为完整谱面，以模拟真实情况下的摸图。
 
-直到 2017 年之前，这些试运行测试仍用于挑选新 BN。而这之后，因为不再死抓考试中作弊的行为，试运行测试停止。取而代之的是[质量保障团队 (QAT)](/wiki/Modding/Quality_Assurance_Team)（现改名为审核评估团队 (NAT)）的主观评判，来决定申请者是否能通过评估并加入 BN 团队。
+直到 2017 年之前，这些考试仍用于挑选新 BN，之后因作弊方面的担忧，考试取消。取而代之的是[质量保障团队 (QAT)](/wiki/Modding/Quality_Assurance_Team)（现改名为审核评估团队 (NAT)）的主观评判，来决定申请者是否能通过评估并加入 BN 团队。
