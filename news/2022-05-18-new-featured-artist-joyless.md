@@ -4,7 +4,7 @@ title: "New Featured Artist: JOYLESS"
 date: 2022-05-18 09:00:00 +0000
 ---
 
-Delivering California surf-punk from the distant shores of Norway, **JOYLESS** joins our Featured Artist collection!
+Delivering California surf punk from the distant shores of Norway, **JOYLESS** joins our Featured Artist collection!
 
 ![](https://assets.ppy.sh/artists/267/header.jpg)
 
