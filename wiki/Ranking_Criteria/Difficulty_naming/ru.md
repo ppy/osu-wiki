@@ -197,4 +197,4 @@
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra: альтернатива Expert.
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: более сложная версия Expert.
 - ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: более сложная версия Inner Oni.
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: более сложная версия Deluge.
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: более сложная версия Overdose.

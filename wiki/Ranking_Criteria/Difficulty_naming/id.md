@@ -197,4 +197,4 @@ Nama tingkat kesulitan berikut adalah alternatif umum dan tambahan untuk nama ti
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra: dapat digunakan sebagai pengganti Expert.
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: dapat digunakan sebagai Expert yang lebih sulit.
 - ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: dapat digunakan sebagai Inner Oni yang lebih sulit.
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: dapat digunakan sebagai Deluge yang lebih sulit.
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: dapat digunakan sebagai Overdose yang lebih sulit.

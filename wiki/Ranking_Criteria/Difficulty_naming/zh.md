@@ -197,4 +197,4 @@
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra：通常等同于 Expert。
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme：它通常用于指代比 Expert 更困难的难度。
 - ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni（地狱鬼）：它通常用于指代比 Inner Oni 更困难的难度。
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge：它通常用于指代比 Deluge 更困难的难度。
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge：它通常用于指代比 Overdose 更困难的难度。
