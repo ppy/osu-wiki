@@ -12,7 +12,7 @@ tags:
 
 ![BanchoBot ユーザーカード](img/BanchoBot.jpg "BanchoBot ユーザーカード")
 
-**BanchoBot**（Banchoと呼ばれることもあります）はosu!のために作られたオンラインチャットボットで、ゲームに関するメッセージ（例：累計プレイ回数、リトライ回数など）をお知らせしたり、特定のコマンドに応答したりして、ゲーム内のチャットでプレイヤーを支援します。[Echo](https://osu.ppy.sh/users/431)によってプログラムされ、[Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat)を提供しています。
+**BanchoBot**（*Bancho*と呼ばれることもあります）はosu!のために作られたオンラインチャットボットで、ゲームに関するメッセージ（例：累計プレイ回数、リトライ回数など）をお知らせしたり、特定のコマンドに応答したりして、ゲーム内のチャットでプレイヤーを支援します。[Echo](https://osu.ppy.sh/users/431)によってプログラムされ、[Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat)を提供しています。
 
 BanchoBotは[osu!プロフィール](https://osu.ppy.sh/users/3)や[Twitterアカウント](https://twitter.com/banchoboat)を持っています。
 
@@ -20,9 +20,9 @@ BanchoBotは[osu!プロフィール](https://osu.ppy.sh/users/3)や[Twitterア�
 
 ゲーム内クライアントのコマンド一覧については、[チャットコンソール](/wiki/Client/Interface/Chat_console#コマンド一覧)を参照してください。
 
-BanchoBotは、チャットで特定のメッセージを介してプレイヤーのコマンドに応答することができます。BanchoBotの全てのコマンドは、感嘆符(`!`)で始まり、その後スペースを入れずにコマンド名が続きます。コマンド名は大文字小文字を区別しません。これらのコマンドは、チャットチャンネルやBanchoBotとのプライベートメッセージで使用できます。
+BanchoBotは、チャットで特定のメッセージを介してプレイヤーのコマンドに応答することができます。BanchoBotの全てのコマンドは、感嘆符(`!`)で始まり、その後スペースを入れずにコマンド名が続きます。コマンド名は大文字小文字を区別しません。これらのコマンドは、チャンネルやBanchoBotとのプライベートメッセージで使用できます。
 
-通常ユーザーがパブリックチャットチャンネルでコマンドを送信した場合、他のユーザーにはそのコマンドは表示されず、BanchoBotとのプライベートメッセージで応答が表示されます。また、ゲーム内クライアントコマンド`/bb`を使用すると、自動的にBanchoBotのタブが開き、すぐにコマンドを送信することができます。
+通常ユーザーがチャンネルでコマンドを送信した場合、他のユーザーにはそのコマンドは表示されず、BanchoBotとのプライベートメッセージで応答されます。また、ゲーム内のクライアントコマンドの`/bb`を使用すると、自動的にBanchoBotのタブが開き、すぐにコマンドを送信することができます。
 
 BanchoBotの全コマンドの一覧は以下の通りです。
 
@@ -39,7 +39,7 @@ BanchoBotの全コマンドの一覧は以下の通りです。
 !help
 ```
 
-`!help` は、利用可能なBanchoBotコマンドの一覧を表示します。以下はこのコマンドの送信例です。
+`!help` は、利用可能なコマンドの一覧を表示します。以下はこのコマンドの送信例です。
 
 ```
 13:00 pippi: !help
@@ -52,17 +52,17 @@ BanchoBotの全コマンドの一覧は以下の通りです。
 13:00 BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
 
-<!-- 記事の編集者へ 上記の送信例は正確なレスポンスを反映させてください。 -->
+<!-- 記事の編集者へ 上記の送信例は正確なものを反映させてください。 -->
 
 注: BanchoBotでは、`!request`コマンドがサポートされなくなりました。
 
 ### Roll
 
 ```
-!roll <最大値>
+!roll <テキスト/最大値>
 ```
 
-`!roll`は、1から指定された番号までの乱数を表示します。数値が指定されていない場合や、引数が与えられていない場合は、最大の数値が100に設定されます。以下はこのコマンドの送信例です。
+`!roll`は、1から指定された番号までの乱数を表示します。数値が指定されていない場合は、最大の数値が100に設定されます。以下はこのコマンドの送信例です。
 
 ```
 13:00 pippi: !roll 1000
@@ -80,7 +80,7 @@ BanchoBotの全コマンドの一覧は以下の通りです。
 !stats <ユーザー名>
 ```
 
-`!stats`は、入力されたユーザーのゲーム統計情報と現在の状態を表示します。表示は入力されたユーザが最後にプレイした[ゲームモード](/wiki/Game_mode)に依存しますが、BanchoBotは統計がどのゲームモードのものであるかは表示しません。osu!をプレイしたことのないユーザーの統計情報を表示すると、そのユーザーが存在していても、BanchoBotは`User not found`(ユーザーが見つかりません)と応答します。以下はこのコマンドの送信例です。
+`!stats`は、指定されたユーザーの統計情報と現在の状態を表示します。ユーザが最後にプレイした[ゲームモード](/wiki/Game_mode)が表示されますが、BanchoBotは、統計がどのゲームモードのものであるかは表示しません。osu!を一度もプレイしたことのないユーザーの統計情報を表示すると、そのユーザーが存在していても、BanchoBotは`User not found`(ユーザーが見つかりません)と応答します。以下はこのコマンドの送信例です。
 
 ```
 13:01 pippi: !stats peppy
@@ -90,7 +90,7 @@ BanchoBotの全コマンドの一覧は以下の通りです。
 13:01 BanchoBot: Accuracy: 87.13%
 ```
 
-ステータスは全部でEditing、Idle、Lobby、Modding、Multiplayer、Multiplaying、Playingの7つです。以下はこのコマンドで表示可能なステータスがあるユーザーの応答例です。
+ステータスはEditing、Idle、Lobby、Modding、Multiplayer、Multiplaying、Playingの7つあります。以下は表示可能なステータスがあるユーザーの応答例です。
 
 ```
 13:01 pippi: !stats peppy
@@ -106,7 +106,7 @@ BanchoBotの全コマンドの一覧は以下の通りです。
 !where <ユーザー名>
 ```
 
-`!where`は、入力されたユーザーの現在地を表示します。デフォルトでは、ユーザーの国のみを表示します。しかし、ユーザーが`Share your city location with others`(他のユーザーに都市を表示)を有効にしている場合は、そのユーザーの都市も表示されます。以下はこのコマンドの送信例です。
+`!where`は、入力されたユーザーの現在地を表示します。デフォルトでは、ユーザーの国のみを表示します。ユーザーが`Share your city location with others`(他のユーザーに都市を表示)を有効にしている場合は、そのユーザーの都市も表示されます。以下はこのコマンドの送信例です。
 
 ```
 13:02 pippi: !where Ephemeral
@@ -123,7 +123,7 @@ BanchoBotの全コマンドの一覧は以下の通りです。
 !faq list
 ```
 
-`!faq`は、エントリの内容を表示します。また、`list`という引数を使うと、利用可能な全てのエントリを表示することができます。デフォルトでは、BanchoBotは英語で表示されますが、エントリの前にその言語の[2文字のコード](/wiki/Article_styling_criteria/Formatting#locales)を付けることで、他の言語で表示することができます。以下はこのコマンドの送信例です。
+`!faq`は、エントリの内容を表示します。また、`list`という引数を使うと、利用可能な全てのエントリを表示することができます。デフォルトでは、英語で表示されますが、エントリの前にその言語の[2文字のコード](/wiki/Article_styling_criteria/Formatting#locales)を付けることで、他の言語で表示することができます。以下はこのコマンドの送信例です。
 
 ```
 13:03 pippi: !faq peppy
@@ -143,7 +143,7 @@ BanchoBotの全コマンドの一覧は以下の通りです。
 !report <ユーザ名> <理由>
 ```
 
-`!report`は、ユーザーの不適切な行動を[グローバルモデレーションチーム](/wiki/People/The_Team/Global_Moderation_Team)に報告します。ユーザー名にスペースがある場合は、アンダースコアに置き換えてください（例: `really cool username`は`really_cool_username`になります）。モデレーターを報告するには、[アカウントサポートチーム](/wiki/People/The_Team/Account_support_team#support@ppy.sh)に連絡してください。以下はユーザーを報告する例です。
+`!report`は、ユーザーの不適切な行動を[グローバルモデレーションチーム](/wiki/People/The_Team/Global_Moderation_Team)(GMT)に報告します。ユーザー名にスペースがある場合は、アンダースコアに置き換えてください（例: `really cool username`は`really_cool_username`になります）。モデレーターを報告するには、[アカウントサポートチーム](/wiki/People/The_Team/Account_support_team#support@ppy.sh)に連絡してください。以下はユーザーを報告する例です。
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
