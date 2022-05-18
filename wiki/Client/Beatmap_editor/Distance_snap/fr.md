@@ -35,7 +35,7 @@ Il y a **trois façons d'activer/désactiver Distance Snap** :
 
 ## Multiplicateur de distance suggéré ?
 
-Lors du réglage de la distance, vous devez vous concentrer sur certains points ayant à peu près le même BPM et utiliser votre propre jugement. Bien qu'il soit possible d'utiliser jusqu'à 6,0x, une utilisation élevée et l'incohérence du multiplicateur donnera l'impression que les objets sont dispersés de façon aléatoire sur le terrain. Comme la limite inférieure peut varier, essayez de vous assurer que les objets ne se chevauchent pas trop étroitement, sauf dans des cas spéciaux comme les streams (de la mort).
+Lors du réglage de la distance, vous devez vous concentrer sur certains points ayant à peu près le même BPM et utiliser votre propre jugement. Bien qu'il soit possible d'utiliser jusqu'à 6,0x, une utilisation élevée et l'incohérence du multiplicateur donnera l'impression que les objets sont dispersés de façon aléatoire sur le terrain. Comme la limite inférieure peut varier, essayez de vous assurer que les objets ne se chevauchent pas trop étroitement, sauf dans des cas spéciaux comme les (death)streams.
 
 ## Utilisation de la fonction Distance Snap
 
