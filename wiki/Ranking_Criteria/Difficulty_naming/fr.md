@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 8c395996b858198d7d53b7014d97ab9423be4178
+---
+
 # Noms des difficultés
 
 Le but de la dénomination des difficultés est d'informer les joueurs de la difficulté d'une beatmap. Cet article énumère les conventions courantes ainsi que d'autres alternatives qui ont été recueillies au fil des ans. Cependant, tant que l'ensemble des noms de difficulté est descriptif et indique clairement la progression de la difficulté, vous pouvez utiliser tout type de schéma souhaité.
