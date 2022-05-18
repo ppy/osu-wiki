@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 8c395996b858198d7d53b7014d97ab9423be4178
----
-
 # Penamaan tingkat kesulitan
 
 Tujuan dari penamaan tingkat kesulitan adalah untuk memberi tahu pemain seberapa sulit map itu. Artikel ini mencantumkan konvensi umum serta alternatif lain yang telah dikumpulkan selama bertahun-tahun. Namun, selama kumpulan dari nama tingkat kesulitan itu bersifat deskriptif dan menunjukkan eskalasi kesulitan secara jelas, kamu dapat menggunakan jenis skema apapun.
@@ -202,3 +197,4 @@ Nama tingkat kesulitan berikut adalah alternatif umum dan tambahan untuk nama ti
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra: dapat digunakan sebagai pengganti Expert.
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: dapat digunakan sebagai Expert yang lebih sulit.
 - ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: dapat digunakan sebagai Inner Oni yang lebih sulit.
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: dapat digunakan sebagai Deluge yang lebih sulit.

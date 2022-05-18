@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 8c395996b858198d7d53b7014d97ab9423be4178
----
-
 # 难度命名
 
 难度命名的目的是为了让玩家能了解谱面的难易程度。这篇文章列出了多年来的通用约定和一些替代选择。不过，你也可以使用自己的命名方案，只要命名能大致描述难度的情况，且能清晰反映出不同难度之间的游玩难易程度阶级即可。
@@ -202,3 +197,4 @@ outdated_since: 8c395996b858198d7d53b7014d97ab9423be4178
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra：通常等同于 Expert。
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme：它通常用于指代比 Expert 更困难的难度。
 - ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni（地狱鬼）：它通常用于指代比 Inner Oni 更困难的难度。
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge：它通常用于指代比 Deluge 更困难的难度。
