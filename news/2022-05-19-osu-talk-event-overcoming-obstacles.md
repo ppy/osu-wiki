@@ -54,7 +54,6 @@ Below is the talk schedule for the event, including the speaker's username and t
 | 19:30 UTC | [WaifuMaterial](https://osu.ppy.sh/users/14592606) | "Overcoming social anxiety" |
 | 20:00 UTC | [chiv](https://osu.ppy.sh/users/6701656) | "The problematic state of osu! tournaments" |
 
-
 ---
 
 Join us this weekend for a hopefully inspirational event! Most importantly, be sure to spread the word to anyone you can. We know the folks in `#general` don't want to miss this.
