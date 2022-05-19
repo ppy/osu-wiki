@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2022: Mapper & Tester Applications"
-date: 2022-05-19 09:00:00 +0000
+date: 2022-05-20 08:00:00 +0000
 ---
 
 The 2022 osu! World Cup is slated to the latter half of the year, but preparations are already underway. Read on if you are intested in helping out with mappooling for the year's biggest tournament!
