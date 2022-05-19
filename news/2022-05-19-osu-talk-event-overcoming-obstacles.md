@@ -17,32 +17,36 @@ Here's a rundown of how OTE works:
 - **Talks will be less than 18 minutes long.** This is the maximum allowed length, not a goal to aim for — even a 3-minute talk can have massive impact.
 - The stories shared do not necessarily have to be about osu!, but because it is an osu!-related event, the speakers are recommended to try connecting their story or the lesson behind their story to osu! in some way.
 
----
-
 Below is the talk schedule for the event, including the speaker's username and the name of their talk. All talks will be streamed live on [osu! University's Twitch channel](https://twitch.tv/osuuniversity) and uploaded separately to [osu! University's YouTube channel](https://www.youtube.com/c/osuuniversity) after the event. You can also tune in live through a Discord stage channel in the [official osu!dev Discord server](https://discord.gg/ppy).
 
-**Friday, May 20, 2022**:
+### Friday, May 20, 2022
 
-- 21:30 UTC | [PandaPasBo](https://osu.ppy.sh/users/10262231): "Why expectation ruins your skill in osu"
-- 22:00 UTC | [xootynator](https://osu.ppy.sh/users/3717598): "xooty's left hand training"
-- 22:30 UTC | [Likean00b](https://osu.ppy.sh/users/4860447): "When tournaments become a hindrance"
-- 23:00 UTC | [MakiDonalds](https://osu.ppy.sh/users/11610772): "Break your walls before they break you"
+| Time (UTC) | Speaker | Title |
+| :-: | :-- | :-- |
+| 21:30 | [PandaPasBo](https://osu.ppy.sh/users/10262231) | "Why expectation ruins your skill in osu" |
+| 22:00 | [xootynator](https://osu.ppy.sh/users/3717598) | "xooty's left hand training" |
+| 22:30 | [Likean00b](https://osu.ppy.sh/users/4860447) | "When tournaments become a hindrance" |
+| 23:00 | [MakiDonalds](https://osu.ppy.sh/users/11610772) | "Break your walls before they break you" |
 
-**Saturday, May 21, 2022**:
+### Saturday, May 21, 2022
 
-- 11:00 UTC | [IryN](https://osu.ppy.sh/users/17909384): "Being hardstuck"
-- 13:00 UTC | [Axiqn](https://osu.ppy.sh/users/21130016): "Focusing on weaknesses"
-- 13:30 UTC | [UserAlsoExists](https://osu.ppy.sh/users/19036931): "The "play less" meta"
-- 14:30 UTC | [-Liability](https://osu.ppy.sh/users/12260184): "Doubting yourself"
-- 15:00 UTC | [Astral52](https://osu.ppy.sh/users/11936432): "Opening the mind to have fun: How to build a less toxic mentality"
+| Time (UTC) | Speaker | Title |
+| :-: | :-- | :-- |
+| 11:00 UTC | [IryN](https://osu.ppy.sh/users/17909384) | "Being hardstuck" |
+| 13:00 UTC | [Axiqn](https://osu.ppy.sh/users/21130016) | "Focusing on weaknesses" |
+| 13:30 UTC | [UserAlsoExists](https://osu.ppy.sh/users/19036931) | "The "play less" meta" |
+| 14:30 UTC | [-Liability](https://osu.ppy.sh/users/12260184) | "Doubting yourself" |
+| 15:00 UTC | [Astral52](https://osu.ppy.sh/users/11936432) | "Opening the mind to have fun: How to build a less toxic mentality" |
 
-**Sunday, May 22, 2022**:
+### Sunday, May 22, 2022
 
-- 18:00 UTC | [cristi2708](https://osu.ppy.sh/users/7552300): "A perspective on switches and tapping techinques"
-- 18:30 UTC | [PruceStrats](https://osu.ppy.sh/users/16518886): "Overcoming adversity in daily life"
-- 19:00 UTC | [-TunaSliders-](https://osu.ppy.sh/users/15420104): "Using ideas from osu! to view life differently"
-- 19:30 UTC | [WaifuMaterial](https://osu.ppy.sh/users/14592606): "Overcoming social anxiety"
-- 20:00 UTC | [chiv](https://osu.ppy.sh/users/6701656): "The problematic state of osu! tournaments"
+| Time (UTC) | Speaker | Title |
+| :-: | :-- | :-- |
+| 18:00 UTC | [cristi2708](https://osu.ppy.sh/users/7552300) | "A perspective on switches and tapping techinques" |
+| 18:30 UTC | [PruceStrats](https://osu.ppy.sh/users/16518886) | "Overcoming adversity in daily life" |
+| 19:00 UTC | [-TunaSliders-](https://osu.ppy.sh/users/15420104) | "Using ideas from osu! to view life differently" |
+| 19:30 UTC | [WaifuMaterial](https://osu.ppy.sh/users/14592606) | "Overcoming social anxiety" |
+| 20:00 UTC | [chiv](https://osu.ppy.sh/users/6701656) | "The problematic state of osu! tournaments" |
 
 The speakers were selected through a public speaker nomination form. If you believe that you or someone you know would be fit to give a talk in future events, please fill out the [OTE speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8). The same nomination form is used for all OTEs.
 
