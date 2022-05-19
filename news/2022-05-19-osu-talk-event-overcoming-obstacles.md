@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! Talk Event: Overcoming Obstacles"
-date: 2022-05-19 08:00:00 +0000
+date: 2022-05-19 10:00:00 +0000
 ---
 
 Mark your calendars, set your alarms, and join us for the first ever osu! talk event, where you can make your voice heard.
