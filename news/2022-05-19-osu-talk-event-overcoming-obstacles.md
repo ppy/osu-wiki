@@ -6,7 +6,7 @@ date: 2022-05-19 08:00:00 +0000
 
 Mark your calendars, set your alarms, and join us for the first ever osu! talk event (OTE), where you can make your voice heard.
 
-![](/wiki/shared/news/2022-05-12-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
+![](/wiki/shared/news/2022-05-19-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
 
 Unlike many events that involve guest speakers, OTE is open for anyone to speak — all you need is a story to share. Each OTE centers around a certain theme. For this OTE, all talks will center around the theme of **overcoming obstacles**.
 
