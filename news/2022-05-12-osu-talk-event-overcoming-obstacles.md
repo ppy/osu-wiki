@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "osu! Talk Event: Overcoming Obstacles"
 date: 2022-05-19 08:00:00 +0000
@@ -20,7 +20,7 @@ Here's a rundown of how OTE works:
 - **The event will last 3 days total,** from May 20 - 22, 2022.
 - **The speaker will use a Discord stage channel** in the [official osu!dev Discord server](https://discord.gg/ppy) to give their talk.
 - **Talks will be less than 18 minutes long**. This is the maximum allowed length, not a goal to aim for — even a 3-minute talk can have massive impact.
-- The story you share does not necessarily have to be about osu!, but because it is an osu!-related event, it is recommended to try connecting the story or the lesson behind your story to osu! in some way.
+- The stories shared do not necessarily have to be about osu!, but because it is an osu!-related event, the speakers are recommended to try connecting their story or the lesson behind their story to osu! in some way.
 
 
 ---
