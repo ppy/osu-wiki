@@ -21,6 +21,8 @@ Below is the talk schedule for the event, including the speaker's username and t
 
 ### Friday, May 20, 2022
 
+[**Sign up for this event on Discord to be notified when it starts!**](https://discord.gg/z62bbJHA?event=976723460766187570)
+
 | Time (UTC) | Speaker | Title |
 | :-: | :-- | :-- |
 | 21:30 | [PandaPasBo](https://osu.ppy.sh/users/10262231) | "Why expectation ruins your skill in osu" |
@@ -29,6 +31,8 @@ Below is the talk schedule for the event, including the speaker's username and t
 | 23:00 | [MakiDonalds](https://osu.ppy.sh/users/11610772) | "Break your walls before they break you" |
 
 ### Saturday, May 21, 2022
+
+[**Sign up for this event on Discord to be notified when it starts!**](https://discord.gg/z62bbJHA?event=976724758722924574)
 
 | Time (UTC) | Speaker | Title |
 | :-: | :-- | :-- |
@@ -39,6 +43,8 @@ Below is the talk schedule for the event, including the speaker's username and t
 | 15:00 UTC | [Astral52](https://osu.ppy.sh/users/11936432) | "Opening the mind to have fun: How to build a less toxic mentality" |
 
 ### Sunday, May 22, 2022
+
+[**Sign up for this event on Discord to be notified when it starts!**](https://discord.gg/z62bbJHA?event=976725279126982656)
 
 | Time (UTC) | Speaker | Title |
 | :-: | :-- | :-- |
