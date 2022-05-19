@@ -14,7 +14,7 @@ Mark your calendars, set your alarms, and join us for the first ever osu! talk e
 Unlike many events that involve guest speakers, OTE is open for anyone to speak -- all you need is a story to share. Each OTE centers around a certain theme. For this OTE, all talks will center around the theme of **overcoming obstacles**.
 
 
-Here's a rundown of how the event will work:
+Here's a rundown of how OTE works:
 
 
 - **The event will last 3 days total,** from May 20 - 22, 2022.
