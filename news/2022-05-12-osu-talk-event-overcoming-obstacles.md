@@ -39,8 +39,8 @@ __**Saturday, May 21, 2022**__
 - 11:00 UTC | [IryN](https://osu.ppy.sh/users/17909384): "Being hardstuck"
 - 13:00 UTC | [Axiqn](https://osu.ppy.sh/users/21130016): "Focusing on weaknesses"
 - 13:30 UTC | [UserAlsoExists](https://osu.ppy.sh/users/19036931): "The "play less" meta"
-- 14:00 UTC | [Astral52](https://osu.ppy.sh/users/11936432): "Opening the mind to have fun: How to build a less toxic mentality"
 - 14:30 UTC | [-Liability](https://osu.ppy.sh/users/12260184): "Doubting yourself"
+- 15:00 UTC | [Astral52](https://osu.ppy.sh/users/11936432): "Opening the mind to have fun: How to build a less toxic mentality"
 
 
 __**Sunday, May 22, 2022**__
