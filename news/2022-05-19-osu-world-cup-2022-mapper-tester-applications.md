@@ -26,6 +26,6 @@ This is also a nice way for players who are more than good enough to play in the
 
 As an important reminder, being accepted into either role means that you will not be able to participate as a player in OWC 2022. If you are interested in joining the team and helping us out, [apply here](https://forms.gle/iQC6GSqPV5z16VKfA)!
 
-Thank you as always to all who make the osu! World Cup the amazing event that it has always been, especially to those who make everything run smoothly behind the scenes. Let's look forward to an amazing experience  for everyone this october.
+Thank you as always to all who make the osu! World Cup the amazing event that it has always been, especially to those who make everything run smoothly behind the scenes. Let's look forward to an amazing experience for everyone this october.
 
 —Azer
