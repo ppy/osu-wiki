@@ -4,27 +4,20 @@ title: "osu! Talk Event: Overcoming Obstacles"
 date: 2022-05-19 08:00:00 +0000
 ---
 
-
 Mark your calendars, set your alarms, and join us for the first ever osu! talk event (OTE), where you can make your voice heard.
-
 
 ![](/wiki/shared/news/2022-05-12-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
 
-
 Unlike many events that involve guest speakers, OTE is open for anyone to speak — all you need is a story to share. Each OTE centers around a certain theme. For this OTE, all talks will center around the theme of **overcoming obstacles**.
 
-
 Here's a rundown of how OTE works:
-
 
 - **The event will last 3 days total**, from May 20 - 22, 2022.
 - **The speaker will use a Discord stage channel** in the [official osu!dev Discord server](https://discord.gg/ppy) to give their talk.
 - **Talks will be less than 18 minutes long.** This is the maximum allowed length, not a goal to aim for — even a 3-minute talk can have massive impact.
 - The stories shared do not necessarily have to be about osu!, but because it is an osu!-related event, the speakers are recommended to try connecting their story or the lesson behind their story to osu! in some way.
 
-
 ---
-
 
 Below is the talk schedule for the event, including the speaker's username and the name of their talk. All talks will be streamed live on [osu! University's Twitch channel](https://twitch.tv/osuuniversity) and uploaded separately to [osu! University's YouTube channel](https://www.youtube.com/c/osuuniversity) after the event. You can also tune in live through a Discord stage channel in the [official osu!dev Discord server](https://discord.gg/ppy).
 
@@ -35,7 +28,6 @@ Below is the talk schedule for the event, including the speaker's username and t
 - 22:30 UTC | [Likean00b](https://osu.ppy.sh/users/4860447): "When tournaments become a hindrance"
 - 23:00 UTC | [MakiDonalds](https://osu.ppy.sh/users/11610772): "Break your walls before they break you"
 
-
 **Saturday, May 21, 2022**:
 
 - 11:00 UTC | [IryN](https://osu.ppy.sh/users/17909384): "Being hardstuck"
@@ -43,7 +35,6 @@ Below is the talk schedule for the event, including the speaker's username and t
 - 13:30 UTC | [UserAlsoExists](https://osu.ppy.sh/users/19036931): "The "play less" meta"
 - 14:30 UTC | [-Liability](https://osu.ppy.sh/users/12260184): "Doubting yourself"
 - 15:00 UTC | [Astral52](https://osu.ppy.sh/users/11936432): "Opening the mind to have fun: How to build a less toxic mentality"
-
 
 **Sunday, May 22, 2022**:
 
@@ -53,19 +44,14 @@ Below is the talk schedule for the event, including the speaker's username and t
 - 19:30 UTC | [WaifuMaterial](https://osu.ppy.sh/users/14592606): "Overcoming social anxiety"
 - 20:00 UTC | [chiv](https://osu.ppy.sh/users/6701656): "The problematic state of osu! tournaments"
 
-
 The speakers were selected through a public speaker nomination form. If you believe that you or someone you know would be fit to give a talk in future events, please fill out the [OTE speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8). The same nomination form is used for all OTEs.
 
 ---
 
-
 Join us this weekend for this inspirational event! Most importantly, be sure to spread the word to anyone you can. We know the folks in `#general` don't want to miss this.
-
 
 If you are interested in being considered to speak in future events, please fill out the [OTE speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8).
 
-
 See you all soon!
-
 
 —DigitalHypno
