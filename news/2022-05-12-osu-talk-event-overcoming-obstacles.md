@@ -30,7 +30,7 @@ Below is the talk schedule for the event, including the speaker's username and t
 
 __**Friday, May 20, 2022**__
 - 21:30 UTC | [PandaPasBo](https://osu.ppy.sh/users/10262231): "Why expectation ruins your skill in osu"
-- 22:00 UTC | [xootynator](https://osu.ppy.sh/users/3717598): "xooty's speed approach"
+- 22:00 UTC | [xootynator](https://osu.ppy.sh/users/3717598): "xooty's left hand training"
 - 22:30 UTC | [Likean00b](https://osu.ppy.sh/users/4860447): "When tournaments become a hindrance"
 - 23:00 UTC | [MakiDonalds](https://osu.ppy.sh/users/11610772): "Break your walls before they break you"
 
