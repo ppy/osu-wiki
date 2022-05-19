@@ -4,13 +4,13 @@ title: "osu! Talk Event: Overcoming Obstacles"
 date: 2022-05-19 08:00:00 +0000
 ---
 
-Mark your calendars, set your alarms, and join us for the first ever osu! talk event (OTE), where you can make your voice heard.
+Mark your calendars, set your alarms, and join us for the first ever osu! talk event, where you can make your voice heard.
 
 ![](/wiki/shared/news/2022-05-19-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
 
-Unlike many events that involve guest speakers, OTE is open for anyone to speak — all you need is a story to share. Each OTE centers around a certain theme. For this OTE, all talks will center around the theme of **overcoming obstacles**.
+Unlike many events that involve guest speakers, the osu! talk event is open for anyone to speak — all you need is a story to share. Each osu! talk event centers around a certain theme. For this osu! talk event, all talks will center around the theme of **overcoming obstacles**.
 
-Here's a rundown of how OTE works:
+Here's a rundown of how osu! talk event works:
 
 - **The event will last 3 days total**, from May 20 - 22, 2022.
 - **The speaker will use a Discord stage channel** in the [official osu!dev Discord server](https://discord.gg/ppy) to give their talk.
@@ -54,13 +54,13 @@ Below is the talk schedule for the event, including the speaker's username and t
 | 19:30 UTC | [WaifuMaterial](https://osu.ppy.sh/users/14592606) | "Overcoming social anxiety" |
 | 20:00 UTC | [chiv](https://osu.ppy.sh/users/6701656) | "The problematic state of osu! tournaments" |
 
-The speakers were selected through a public speaker nomination form. If you believe that you or someone you know would be fit to give a talk in future events, please fill out the [OTE speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8). The same nomination form is used for all OTEs.
+The speakers were selected through a public speaker nomination form. If you believe that you or someone you know would be fit to give a talk in future events, please fill out the [osu! talk event speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8). The same nomination form is used for all osu! talk events.
 
 ---
 
 Join us this weekend for this inspirational event! Most importantly, be sure to spread the word to anyone you can. We know the folks in `#general` don't want to miss this.
 
-If you are interested in being considered to speak in future events, please fill out the [OTE speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8).
+If you are interested in being considered to speak in future events, please fill out the [osu! talk event speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8).
 
 See you all soon!
 
