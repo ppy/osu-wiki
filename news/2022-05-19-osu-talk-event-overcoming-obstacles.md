@@ -8,7 +8,7 @@ Mark your calendars, set your alarms, and join us for the first ever osu! talk e
 
 ![](/wiki/shared/news/2022-05-19-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
 
-Unlike many events that involve guest speakers, the event is open for anyone to speak — all you need is a story to share. Each event centers around a certain theme. For this iteration, all talks will center around the theme of **overcoming obstacles**.
+Unlike many events that involve guest speakers, this one is open for anyone to speak — all you need is a story to share. Each event centers around a certain theme. For this iteration, all talks will center around the theme of **overcoming obstacles**.
 
 Here's a rundown of how the event works:
 
@@ -54,7 +54,7 @@ Below is the talk schedule for the event, including the speaker's username and t
 | 19:30 UTC | [WaifuMaterial](https://osu.ppy.sh/users/14592606) | "Overcoming social anxiety" |
 | 20:00 UTC | [chiv](https://osu.ppy.sh/users/6701656) | "The problematic state of osu! tournaments" |
 
-The speakers were selected through a public speaker nomination form. If you believe that you or someone you know would be fit to give a talk in future events, please fill out the [speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8). The same nomination form is used for all future osu! talk events.
+The speakers were selected through a public speaker nomination form. If you believe that you or someone you know would be fit to give a talk in future events, please fill out the [speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8). The same nomination form will be used for all future osu! talk events.
 
 ---
 
