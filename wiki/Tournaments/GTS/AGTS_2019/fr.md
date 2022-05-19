@@ -459,7 +459,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 5. Le match sera joué avec le format d'équipe TeamVs et la condition de victoire réglée à ScoreV2, et le nom de la salle privée doit être: "AGTS 2019: (équipe rouge) vs (équipe bleue)".
 6. Chaque équipe aura le droit à une beatmap d'échauffement, mais celle-ci ne peut pas dépasser quatre (4) minutes. Tout le monde peut être dans le salon pendant les beatmaps de chauffe.
 7. Chaque capitaine doit bannir **une (1) beatmap** choisie dans le mappool (à part le Tiebreaker). Ces beatmaps ne peuvent pas être choisies par la suite par les deux équipes pendant toute la durée du match.
-8. Le capitaine de chaque équipe devra tirer un nombre au sort en utilisant la commande `!roll` dans le chat du salon privé.
+8. Le capitaine de chaque équipe devra tirer un nombre au sort en utilisant la commande `!roll` dans le tchat du salon privé.
 9. L'équipe avec le **le plus haut nombre bannira en deuxième et choisira la première beatmap jouée.** L'équipe avec **le plus bas nombre bannira en deuxième et choisira la deuxième beatmap jouée.**
 10. La sélection des beatmaps sera à partir de là faite en alternance entre les deux équipes, jusqu'à ce qu'une équipe remplisse la condition de victoire.
 11. Les capitaines peuvent choisir librement les beatmaps (par exemple, il peut choisir une beatmap jouée en HR, et rechoisir une beatmap jouée en HR lorsque son équipe doit à nouveau choisir une beatmap à jouer).
