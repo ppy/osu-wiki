@@ -8,8 +8,7 @@ Submissions to this contest include:
     - following the [ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_Criteria) 
     - with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert
 - A triangle-themed storyboard...
-    - focused on lightweight performance
-    - with a `.osb` filesize under **1 MB**
+    - with all storyboarded content under ~1 MB total (including the `.osb` file and difficulty-specific storyboarding).
 - A team of 2-5 participants
 
 ## Links
@@ -27,9 +26,9 @@ Submissions to this contest include:
 
 ## Schedule
 
-- **May 17 - July 17:** Contest is open for submissions.
+- **May 24 - July 18:** Contest is open for submissions.
 - **July 19 - July 31:** Submissions are evaluated by a team of judges.
-- **August 02 - August 16:** Top beatmaps are published for community vote and lazer playlists.
+- **August 01 - August 15:** Top beatmaps are published for community vote and lazer playlists.
 - **August 20:** Live stream announcement of contest results.
 
 ## Prizes
@@ -41,7 +40,7 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
     - **Runner-up:** 3 months of osu!supporter
     - **Winner:** 6 months of osu!supporter + *Community Pick* profile badge
 
-![Community pick profile badge](/wiki/shared/news/2022-05-17-triangles/community@2x.png)
+![Community pick profile badge](/wiki/shared/news/2022-05-24-triangles/community@2x.png)
 
 - **Mapper panel** (focusing on mapping content)
   - Prizes
@@ -49,7 +48,7 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
     - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
   - Panelists: TBD
 
-![Mappers' Pick profile badge](/wiki/shared/news/2022-05-17-triangles/mappers@2x.png)
+![Mappers' Pick profile badge](/wiki/shared/news/2022-05-24-triangles/mappers@2x.png)
 
 - **Storyboarder panel** (focusing on storyboard content)
   - Prizes
@@ -57,7 +56,7 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
     - **Winner:**  6 months of osu!supporter + *Storyboarders' Pick* profile badge
   - Panelists: TBD
 
-![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-17-triangles/storyboarders@2x.png)
+![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-24-triangles/storyboarders@2x.png)
 
 - **Overall prizes** (combination of both panels focusing on all areas)
   - **Runner-up:** 3 months of osu!supporter + *Overall runner-up* profile badge
@@ -67,9 +66,9 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
     - *Elite Mapper*/*Elite Storyboarder* user titles
     - Submission bundled with new lazer installations (after reaching Ranked status)
 
-![Overall runner-up profile badge](/wiki/shared/news/2022-05-17-triangles/overallrunnerup@2x.png)
+![Overall runner-up profile badge](/wiki/shared/news/2022-05-24-triangles/overallrunnerup@2x.png)
 
-![Overall winner profile badge](/wiki/shared/news/2022-05-17-triangles/overallwinner@2x.png)
+![Overall winner profile badge](/wiki/shared/news/2022-05-24-triangles/overallwinner@2x.png)
 
 If a team wins in multiple of the above categories, they will be rewarded a profile badge reflecting all relevant categories.
 
@@ -78,13 +77,13 @@ Players are also eligible for prizes if they participate in the lazer playlists:
 - **Easy/Normal/Hard/Insane playlist leaders:** 1 month of osu!supporter each
 - **Expert playlist leader:** 1 month of osu! supporter + *triangle aficionado* profile badge
 
-![triangle aficionado profile badge](/wiki/shared/news/2022-05-17-triangles/aficionado@2x.png)
+![triangle aficionado profile badge](/wiki/shared/news/2022-05-24-triangles/aficionado@2x.png)
 
 ## Rules
 
 - **Submission must including the following:**
     - A beatmap spread of *cYsmix - triangles* with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert.
-    - A storyboard with a `.osb` filesize under **1 MB** with a focus on lightweight performance.
+    - A storyboard with all storyboarded content under ~1 MB total (including the `.osb` file and difficulty-specific storyboarding).
 - **Submission must be in `.osz` format.**
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.

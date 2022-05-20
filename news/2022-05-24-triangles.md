@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "triangles"
-date: 2022-05-17 19:00:00 +0000
+date: 2022-05-24 19:00:00 +0000
 ---
 
 Mappers and storyboarders unite in osu!'s newest contest: **triangles**!
 
-![](/wiki/shared/news/banners/triangles.jpg)triangles - aficionado@2x.png
+![](/wiki/shared/news/banners/triangles.jpg)
 
 [**lazer**](https://www.youtube.com/watch?v=ut_SOreClcc) is the next major update to osu!. If you [try it for yourself](https://github.com/ppy/osu#running-osu), you'll notice that osu!'s classic theme song has been replaced by *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*:
 
@@ -28,8 +28,8 @@ To participate in this contest, you need a **team of 2-5 mappers/storyboarders**
     - following the [ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_Criteria) 
     - with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert.
 - A **triangle-themed** storyboard...
-    - focused on lightweight performance (think in terms of vector images). If the storyboard performs well enough, it may even be displayed behind lazer's main menu on startup!
-    - with a `.osb` filesize under **1 MB**
+    - with all image assets **under ~x MB total**.
+    - with all storyboard files **under ~y MB total** (including the `.osb` file and difficulty-specific storyboarding). The storyboard may load on lazer's startup, so it should be fairly lightweight!
 
 **Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).** Once confirmed, your team will be published on the [*triangles* contest wiki page](/wiki/Contests/triangles_Contest)!
 
@@ -37,9 +37,9 @@ Unlike last year's [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-
 
 ## Schedule
 
-- **May 17 - July 17:** Contest is open for submissions [here](https://osu.ppy.sh/community/contests/147)!
+- **May 24 - July 18:** Contest is open for submissions [here](https://osu.ppy.sh/community/contests/147)!
 - **July 19 - July 31:** Submissions are evaluated by a team of judges.
-- **August 02 - August 16:** Top beatmaps are published for community vote and lazer playlists.
+- **August 01 - August 15:** Top beatmaps are published for community vote and lazer playlists.
 - **August 20:** Live stream announcement of contest results!
 
 ## Prizes
@@ -55,14 +55,14 @@ Prizes will be awarded to all members of the highest scoring team in each catego
 - **Runner-up:** 3 months of osu!supporter 
 - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
 
-![Mappers' Pick profile badge](/wiki/shared/news/2022-05-17-triangles/mappers@2x.png)
+![Mappers' Pick profile badge](/wiki/shared/news/2022-05-24-triangles/mappers@2x.png)
 
 ### Storyboarder panel
 
 - **Runner-up:** 3 months of osu!supporter 
 - **Winner:**  6 months of osu!supporter + *Storyboarders' Pick* profile badge
 
-![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-17-triangles/storyboarders@2x.png)
+![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-24-triangles/storyboarders@2x.png)
 
 ### Overall prizes
 
@@ -77,9 +77,9 @@ This category is based on how members of both Mapper and Storyboarder panels eva
     - *Elite Mapper*/*Elite Storyboarder* user titles
     - Submission bundled with new lazer installations (after reaching Ranked status)
 
-![Overall runner-up profile badge](/wiki/shared/news/2022-05-17-triangles/overallrunnerup@2x.png)
+![Overall runner-up profile badge](/wiki/shared/news/2022-05-24-triangles/overallrunnerup@2x.png)
 
-![Overall winner profile badge](/wiki/shared/news/2022-05-17-triangles/overallwinner@2x.png)
+![Overall winner profile badge](/wiki/shared/news/2022-05-24-triangles/overallwinner@2x.png)
 
 ### Community vote
 
@@ -90,14 +90,14 @@ To participate in the community vote, you will need to play through any of the r
 - **Community vote runner-up:** 3 months of osu!supporter
 - **Community vote winner:** 6 months of osu!supporter + *Community Pick* profile badge
 
-![Community pick profile badge](/wiki/shared/news/2022-05-17-triangles/community@2x.png)
+![Community pick profile badge](/wiki/shared/news/2022-05-24-triangles/community@2x.png)
 
 Players have a chance to earn something too! Once the playlists are closed, whoever has the highest score on each leaderboard will receive a minor prize too:
 
 - **Easy/Normal/Hard/Insane playlist leaders:** 1 month of osu!supporter each
 - **Expert playlist leader:** 1 month of osu! supporter + *triangle aficionado* profile badge
 
-![triangle aficionado profile badge](/wiki/shared/news/2022-05-17-triangles/aficionado@2x.png)
+![triangle aficionado profile badge](/wiki/shared/news/2022-05-24-triangles/aficionado@2x.png)
 
 ---
 
@@ -111,7 +111,7 @@ Surprising absolutely nobody, this contest has RULES:
 
 - **Submission must including the following:**
     - A beatmap spread of *cYsmix - triangles* with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert. [Download the beatmap template here!](LINK)
-    - A storyboard with a `.osb` filesize under **1 MB** with a focus on lightweight performance. Consider how this could look in the background of lazer's main menu too!
+    - A storyboard with all storyboarded content **under ~1 MB total** (including the `.osb` file and difficulty-specific storyboarding).
 - **Submission must be in `.osz` format.**
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
@@ -121,11 +121,10 @@ Surprising absolutely nobody, this contest has RULES:
 - **Submissions must not be publicly revealed until after the judging phase ends.**
 - **Submissions must not be Qualified until after the community vote ends.**
 
-
 ---
 
 Head to the [**triangles** contest listing](https://osu.ppy.sh/community/contests/147) when your team's submission is ready! And to keep track of the competition (among other actually useful things), look through the [**triangles** wiki article](/wiki/Contests/triangles_Contest)!
 
-Prove to the next generation of osu! players how cool triangles can be. Best of luck.
+Start drawing some triangles. Good luck.
 
 —pishifat
