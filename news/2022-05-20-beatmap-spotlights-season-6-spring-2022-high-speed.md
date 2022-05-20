@@ -162,7 +162,7 @@ This season, we will say farawell to some of our members as well as welcome some
 **Curator resignations:**
 
 - **osu!**: Ryuusei Aika
-- **osu!taiko**: Arrival, Nardoxyribonucleic, Onosaki
+- **osu!taiko**: Arrival, Nardoxyribonucleic
 - **osu!catch**: Snowless, x_angelkawaii_x
 - **osu!mania**: \[ Decku \], BringoBrango,  Kaito-kun
 
