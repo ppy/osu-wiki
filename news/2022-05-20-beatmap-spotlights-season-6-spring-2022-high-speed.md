@@ -134,7 +134,6 @@ dreamless wanderer is easily one of those charts with its integration of LN grac
 
 I definitely see this chart setting the groundwork for more expressive charting in the future for 7K ranked. Good job paradoxus_!
 
-
 *described and primarily suggested by [lepnai](https://osu.ppy.sh/users/5314573)*
 
 #### Players' Pick
@@ -163,11 +162,13 @@ This season, we will say farawell to some of our members as well as welcome some
 **Curator resignations:**
 
 - **osu!**: Ryuusei Aika
-- **osu!taiko**: Arrival, Nardoxyribonucleic
+- **osu!taiko**: Arrival, Nardoxyribonucleic, Onosaki
 - **osu!catch**: Snowless, x_angelkawaii_x
 - **osu!mania**: \[ Decku \], BringoBrango,  Kaito-kun
 
 Hydria will also be stepping away as the osu!mania curators' team leader after almost two years of service, CrumpetFiddler will be the one to ensure things go smooth on the mania side from now on.
+
+OnosakiHito will also say farawell to the osu!taiko curators' team after leading it since the very first season of modern Spotlights, Hivie will take over his tasks.
 
 For the full Spotlights Team members list, check out the [Beatmap Spotlights wiki article](/wiki/Beatmap_Spotlights).
 
