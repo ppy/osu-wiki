@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights Season 6: Spring 2022 - High Speed"
-date: 2022-05-20 22:00:00 +0000
+date: 2022-05-22 13:00:00 +0000
 ---
 
 Spotlights rivals, assemble! With a brand new theme, **Spring Season 2022** is finally here. Get ready for a high-speed ride with a set of fresh 240+ BPM beatmaps!
@@ -176,14 +176,14 @@ For the full Spotlights Team members list, check out the [Beatmap Spotlights wik
 
 | Event | Time |
 | :-- | :-- |
-| Season start | May 20, 2022 |
-| Playlist lobby: Playlist A | May 20 - Jun 3, 2022 |
-| Playlist lobby: Playlist B | Jun 3 - Jun 17, 2022 |
-| Playlist lobby: Playlist C | Jun 17 - Jul 1, 2022 |
-| Playlist lobby: Playlist A | Jul 1 - Jul 8, 2022 |
-| Playlist lobby: Playlist B | Jul 8 - Jul 15, 2022 |
-| Playlist lobby: Playlist C | Jul 15 - Jul 22, 2022 |
-| Season conclusion | Jul 22, 2022 |
+| Season start | May 22, 2022 |
+| Playlist lobby: Playlist A | May 22 - Jun 5, 2022 |
+| Playlist lobby: Playlist B | Jun 5 - Jun 19, 2022 |
+| Playlist lobby: Playlist C | Jun 19 - Jul 3, 2022 |
+| Playlist lobby: Playlist A | Jul 3 - Jul 10, 2022 |
+| Playlist lobby: Playlist B | Jul 10 - Jul 17, 2022 |
+| Playlist lobby: Playlist C | Jul 17 - Jul 24, 2022 |
+| Season conclusion | Jul 24, 2022 |
 
 The Winter Season 2022 leaderboard will be available over at the [Beatmap Spotlights Spring Season 2022](/wiki/Beatmap_Spotlights/Seasons/2022_Spring) wiki article once the first batch of lobbies conclude in the coming weeks.
 
