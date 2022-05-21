@@ -42,7 +42,9 @@ Thank you all for the votes casted for your favourite beatmaps and enjoy the res
 
 #### Curators' Pick
 
-[King Gizzard & The Lizard Wizard - Robot Stop [REDLIGHT (VIP)]](https://osu.ppy.sh/beatmapsets/1610231#osu/3287767), mapped by [olc](https://osu.ppy.sh/users/7081160)
+[King Gizzard & The Lizard Wizard - Robot Stop [REDLIGHT (VIP)]](https://osu.ppy.sh/beatmapsets/1610231#osu/3287767), mapped by [olc](https://osu.ppy.sh/users/7081160)\
+*primarily suggested by [Omgforz](https://osu.ppy.sh/users/578943)*\
+*described by [Omgforz](https://osu.ppy.sh/users/578943), with some help of [DeviousPanda](https://osu.ppy.sh/users/4966334)*
 
 If you feel like there's a lack of western song representation in osu!, then look no further.
 
@@ -52,27 +54,22 @@ Fun and engaging gameplay mixed with high-quality mapping that's also suitable f
 
 If you decide to give this map a go, make sure to untick the "ignore beatmap hitsounds" option before playing.
 
-*primarily suggested by [Omgforz](https://osu.ppy.sh/users/578943)*
-
-*described by [Omgforz](https://osu.ppy.sh/users/578943), with some help of [DeviousPanda](https://osu.ppy.sh/users/4966334)*
-
 #### Players' Pick
 
-[Ado - Odo [Dance]](https://osu.ppy.sh/beatmapsets/1529362#osu/3128396), mapped by [Heilia](https://osu.ppy.sh/users/9823042)
+[Ado - Odo [Dance]](https://osu.ppy.sh/beatmapsets/1529362#osu/3128396), mapped by [Heilia](https://osu.ppy.sh/users/9823042)\
+*primarily suggested by [ChillierPear](https://osu.ppy.sh/users/9501251), [DigitalHypno](https://osu.ppy.sh/users/4384207), and [Nowaie](https://osu.ppy.sh/users/5428909)*\
+*described by [ChillierPear](https://osu.ppy.sh/users/9501251)*
 
 With Ado making her debut in osu! just under 2 years ago she and her music have certainly taken the community by storm. Alongside other songs such as *Bocca della Verita* and *USSEEWA*, *Odo* has quickly become a fan-favorite, having 4 mapsets across 2 different game modes. When combining this absolute jam with an all-star mapper such as Heilia, you should certainly *get ready for the show*.
 
 With outstandingly exciting pattern choice and a difficulty that is comfortable for players of all ranges, it's no wonder the set has picked up more than 300,000 plays in under 6 months (and earned the good favor of 3 different curators for nomination). The refreshing combination of 1/3 and 1/6 patterning alongside the more chaotic slider sections makes this map nothing short of a masterpiece.
 
-*primarily suggested by [ChillierPear](https://osu.ppy.sh/users/9501251), [DigitalHypno](https://osu.ppy.sh/users/4384207), and [Nowaie](https://osu.ppy.sh/users/5428909)*
-
-*described by [ChillierPear](https://osu.ppy.sh/users/9501251)*
-
 ### osu!taiko
 
 #### Curators' Pick
 
-[mafumafu - Hello Dystopia [Collapsing Reality]](https://osu.ppy.sh/beatmapsets/809048#taiko/1697683), mapped by [JarvisGaming](https://osu.ppy.sh/users/8601048)
+[mafumafu - Hello Dystopia [Collapsing Reality]](https://osu.ppy.sh/beatmapsets/809048#taiko/1697683), mapped by [JarvisGaming](https://osu.ppy.sh/users/8601048)\
+*described and primarily suggested by [Axer](https://osu.ppy.sh/users/7299864)*
 
 Coming in hot this season's osu!taiko Spotlights, we have JarvisGaming's rendition of mafumafu's Hello Dystopia!
 
@@ -80,25 +77,22 @@ His emblematic "Collapsing Reality" difficulty is an exemplary demonstration of 
 
 And yes, the top diff still slaps *extremely* hard.
 
-*described and primarily suggested by [Axer](https://osu.ppy.sh/users/7299864)*
-
 #### Players' Pick
 
-[TUYU - Daemonisch [KTYN's Inner Oni]](https://osu.ppy.sh/beatmapsets/1444402#taiko/2983308), mapped by [KTYN](https://osu.ppy.sh/users/2250574)
+[TUYU - Daemonisch [KTYN's Inner Oni]](https://osu.ppy.sh/beatmapsets/1444402#taiko/2983308), mapped by [KTYN](https://osu.ppy.sh/users/2250574)\
+*primarily suggested by Nepuri*\
+*described by [Axer](https://osu.ppy.sh/users/7299864)*
 
 Arriving at the demand of player's choice, we have KTYN's interpretation of TUYU's *Daemonisch*, hosted by certified TUYU enjoyer gaston_2199!
 
 KTYN's Inner Oni proves that simplicity can be just as striking as catharsis, with a structure that is simplistic when necessary, getting more frantic as the song progresses, and culminating into a grand finale that spikes the density with carefully crafted piano streams. This is a map that can be enjoyed by a wide audience (as long as you can survive it, that is!).
 
-*primarily suggested by Nepuri*
-
-*described by [Axer](https://osu.ppy.sh/users/7299864)*
-
 ### osu!catch
 
 #### Curators' Pick
 
-[Chroma - Made In Love [Rei's MAXIMUM]](https://osu.ppy.sh/beatmapsets/1028944#fruits/2151543), mapped by [Bunnrei](https://osu.ppy.sh/users/829284)
+[Chroma - Made In Love [Rei's MAXIMUM]](https://osu.ppy.sh/beatmapsets/1028944#fruits/2151543), mapped by [Bunnrei](https://osu.ppy.sh/users/829284)\
+*described and primarily suggested by [wonjae](https://osu.ppy.sh/users/5032045)*
 
 There are few maps in osu!catch I can think of that is mapped to the song as well as Bunnrei's MAXIMUM for *Made in Love*.
 
@@ -106,11 +100,11 @@ The map masterfully manages to convey all of the distinct parts of the song in a
 
 While not the most technical or difficult map Bunnrei has ever mapped, this map is one that any experienced fruit catcher can enjoy for themselves.
 
-*described and primarily suggested by [wonjae](https://osu.ppy.sh/users/5032045)*
-
 #### Players' Pick
 
-[SHK - Halloween Party [Juansy's Rain]](https://osu.ppy.sh/beatmapsets/1609415#fruits/3286191), mapped by [Juansy-](https://osu.ppy.sh/users/12588215)
+[SHK - Halloween Party [Juansy's Rain]](https://osu.ppy.sh/beatmapsets/1609415#fruits/3286191), mapped by [Juansy-](https://osu.ppy.sh/users/12588215)\
+*primarily suggested by [x\_angelkawaii\_x](https://osu.ppy.sh/users/566276)*\
+*described by [Nelly](https://osu.ppy.sh/users/4741164)*
 
 Although it may be either *slightly* too late or too early into Halloween, you can't deny the fact that this diff on this set is comfortable enough to play either for the casual fruit fan or to the hardcore maniac catch enjoyer.
 
@@ -118,15 +112,12 @@ Juansy's Rain in particular is balanced enough to maintain the overall intensity
 
 Maybe that was spooky enough after all.
 
-*primarily suggested by [x\_angelkawaii\_x](https://osu.ppy.sh/users/566276)*
-
-*described by [Nelly](https://osu.ppy.sh/users/4741164)*
-
 ### osu!mania
 
 #### Curators' Pick
 
-[Camellia - dreamless wanderer [flying in the void of deep-dream]](https://osu.ppy.sh/beatmapsets/1580929#mania/3228051), mapped by [paradoxus_](https://osu.ppy.sh/users/11185275)
+[Camellia - dreamless wanderer [flying in the void of deep-dream]](https://osu.ppy.sh/beatmapsets/1580929#mania/3228051), mapped by [paradoxus_](https://osu.ppy.sh/users/11185275)\
+*described and primarily suggested by [lepnai](https://osu.ppy.sh/users/5314573)*
 
 Rarely do we come across a map that provides bold concepts with nuanced gameplay elements to the table.
 
@@ -134,19 +125,16 @@ Rarely do we come across a map that provides bold concepts with nuanced gameplay
 
 I definitely see this chart setting the groundwork for more expressive charting in the future for 7K Ranked. Good job paradoxus_!
 
-*described and primarily suggested by [lepnai](https://osu.ppy.sh/users/5314573)*
-
 #### Players' Pick
 
-[Camellia - #1f1e33 [Future]](https://osu.ppy.sh/beatmapsets/1184620#mania/2485263), mapped by [Murumoo](https://osu.ppy.sh/users/8001433)
+[Camellia - #1f1e33 [Future]](https://osu.ppy.sh/beatmapsets/1184620#mania/2485263), mapped by [Murumoo](https://osu.ppy.sh/users/8001433)\
+*described and primarily suggested by [[ Decku ]](https://osu.ppy.sh/users/13360768)*
 
 This spectacle of a map *#1f1e33* mapped by Murumoo really has a lot of extraordinary concepts and representations, but the Future diff is a must-play for people who enjoy comfortable gameplay, which is everyone!
 
 The wubs and synths are represented in contrast to the hi-hats, which creates a perfect balance and makes the map a lot more entertaining. But let me tell you, the kiai is by far one of the most important areas of a map, and Murumoo really does pull it off here.
 
 This map will trip you up in excitement and pour a feeling of satisfaction when you see that pass on your screen, truly a wonder to behold.
-
-*described and primarily suggested by [[ Decku ]](https://osu.ppy.sh/users/13360768)*
 
 ## Inside the Spotlights Team
 
