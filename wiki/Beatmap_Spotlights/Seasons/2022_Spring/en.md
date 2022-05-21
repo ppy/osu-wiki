@@ -41,8 +41,6 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 #### Playlist A (high speed)
 
-#### Playlist A (high speed)
-
 - [Otsukisama Koukyoukyoku - ultima Thule (Kyle Y) \[Ky's Hard\]](https://osu.ppy.sh/beatmapsets/1507229#osu/3204358), suggested by [Nowaie](https://osu.ppy.sh/users/5428909)
 - [Aitsuki Nakuru & Kabocha - Lilith (Akito) \[Hard\]](https://osu.ppy.sh/beatmapsets/1344501#osu/2985707), suggested by [ChillierPear](https://osu.ppy.sh/users/9501251)
 - [Laur - Nostalgic Blood of the Strife (VINXIS) \[VINXIS' EXHAUST\]](https://osu.ppy.sh/beatmapsets/1257525#osu/3036753), suggested by [Nowaie](https://osu.ppy.sh/users/5428909)
