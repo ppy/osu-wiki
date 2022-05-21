@@ -106,9 +106,7 @@ The seasonal leaderboard sums up the weekly ranked score results of every partic
 
 ### Rewards
 
-*Parts of these rewards are pending implementation. They are to be added as the season goes on. Because of that, this section can change anytime.*
-
-Rewards are distributed to weekly timeshift lobby winners, creators of curated beatmaps and every participant present on the seasonal leaderboard.
+Rewards are distributed to playlists lobby winners, creators of curated beatmaps and every participant present on the seasonal leaderboard.
 
 1. The top 10 of each weekly timeshift lobby will be awarded with 1 week of osu! supporter tags.
 2. During the season, every participant is assigned to a league bracket, which is reflected by a unique profile badge on their profile that lasts for the duration of the season.
