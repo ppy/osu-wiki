@@ -90,7 +90,7 @@ The Beatmap Spotlights project is currently organised in pre-defined seasons. Ea
    - Every curated beatmap is selected and locked in before a season starts.
    - Once a season begins, the whole schedule will be released.
 3. Each season's first playlist will be themed playlist of some kind of gimmick.
-3. At the end of each season, Beatmap of the Season voting will be open for the players along with a conclusion newspost. Its results will be announced in the next season's opening newspost.
+4. At the end of each season, Beatmap of the Season voting will be open for the players along with a conclusion newspost. Its results will be announced in the next season's opening newspost.
 5. The next season will start a few weeks after the conclusion of the current one.
 
 ### Seasonal leaderboard
