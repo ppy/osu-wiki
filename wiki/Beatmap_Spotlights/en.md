@@ -21,7 +21,7 @@ Once you're done installing and logging into your account, head on over to the p
 
 If there's no open lobbies, you will need to wait for the next season release. The between-season break usually takes a few weeks, the new seasons are announced in the newsposts.
 
-![Beatmap Spotlights playlist lobby](/img/spotlights-lobby.png)
+![Beatmap Spotlights playlist lobby](img/spotlights-lobby.png)
 
 ## Organisation
 
