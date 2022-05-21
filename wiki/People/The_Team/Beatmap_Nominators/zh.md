@@ -166,6 +166,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | 韩语 |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_CN] [gzdongsheng](https://osu.ppy.sh/users/8660315) | 中文 |
+| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | 韩语 |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | 菲律宾语 |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | 韩语 |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | 荷兰语 |
@@ -188,6 +189,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | 西班牙语 |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | 法语 |
+| ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | 德语 |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 中文 |
@@ -210,22 +212,19 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_TW] [_Rokii_](https://osu.ppy.sh/users/12770065) | 中文 |
+| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | 西班牙语 |
+
+#### osu!mania
+
+| 名字 | 语言 |
+| :-- | :-- |
+| ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | 中文 |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | 中文 |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | 印度尼西亚语 |
 | ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | 马来语 |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | 印度尼西亚语 |
-| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | 韩语 |
-
-#### osu!mania
-
-| 名字 | 语言 |
-| :-- | :-- |
-| ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | 汉语 |
-| ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | 韩语 |
-| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | 韩语 |
 
 ## 历史
 
@@ -241,6 +240,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 [flag_BE]: /wiki/shared/flag/BE.gif "比利时"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_CL]: /wiki/shared/flag/CL.gif "智利"
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_DK]: /wiki/shared/flag/DK.gif "丹麦"

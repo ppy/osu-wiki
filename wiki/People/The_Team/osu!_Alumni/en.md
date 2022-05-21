@@ -234,6 +234,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | BAT |
 | ![][flag_CN] [xierbaliti](https://osu.ppy.sh/users/34044) | BAT |
 | ![][flag_FR] [XPJ38](https://osu.ppy.sh/users/273531) | Support Team |
+| ![][flag_SE] [Xytox](https://osu.ppy.sh/users/2229274) | GMT |
 | ![][flag_FR] [yaya](https://osu.ppy.sh/users/50163) | BAT |
 | ![][flag_US] [yeahyeahyeahhh](https://osu.ppy.sh/users/58042) | MAT |
 | ![][flag_AU] [YGOkid8](https://osu.ppy.sh/users/69114) | BAT |
@@ -246,7 +247,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | osu!academy Founder, GMT |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
-<!-- last update: 2022-05-17 with the removal of Xytox from the list (Removed from ALM)-->
+<!-- last update: 2022-05-13 with the removal of QHideaki13 from the list (Moved to GMT)-->
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"

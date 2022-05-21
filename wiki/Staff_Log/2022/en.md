@@ -216,7 +216,6 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-12: Added [clayton](https://osu.ppy.sh/users/3666350) to **Project Loved Team**
 - 2022-05-13: Moved [QHideaki13](https://osu.ppy.sh/users/733998) from **osu! Alumni** to **GMT**
 - 2022-05-13: Added [My Angel Chino](https://osu.ppy.sh/users/20547597) to **GMT**
-- 2022-05-17: Removed [Xytox](https://osu.ppy.sh/users/2229274) from **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -233,7 +232,9 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-12: Added [Pumi](https://osu.ppy.sh/users/7140680) to **Probationary BN**
 - 2022-05-12: Added [Eriha](https://osu.ppy.sh/users/17853754) to **Probationary BN**
 - 2022-05-15: Added [FAMoss](https://osu.ppy.sh/users/7707789) to **Probationary BN**
-- 2022-05-15: Added [_Rokii_](https://osu.ppy.sh/users/12770065) to **Probationary BN**
+- 2022-05-15: Added [_Rokii](https://osu.ppy.sh/users/12770065) to **Probationary BN**
+- 2022-05-18: Added [ZiRoX](https://osu.ppy.sh/users/200768) to **Probationary BN**
+- 2022-05-20: Added [Mocaotic](https://osu.ppy.sh/users/9487458) to **Probationary BN**
 
 #### Moves
 
@@ -244,6 +245,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-12: Moved [Didah](https://osu.ppy.sh/users/8030129) from **BN** to **Probationary BN**
 - 2022-05-12: Moved [Axer](https://osu.ppy.sh/users/7299864) from **Probationary BN** to **BN**
 - 2022-05-13: Moved [FleVI](https://osu.ppy.sh/users/12519616) from **Probationary BN** to **BN**
+- 2022-05-19: Moved [Kim_GodSSI](https://osu.ppy.sh/users/2218047) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -251,4 +253,4 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-13: Removed [Mipha-](https://osu.ppy.sh/users/5767941) from **BN**
 - 2022-05-14: Removed [Karen](https://osu.ppy.sh/users/3143784) from **Probationary BN**
 
-<!-- updated as of May 17, 2022 with the removal of Xytox from osu! Alumni -->
+<!-- updated as of May 20, 2022 with the additional of Mocaotic to the osu! Probationary BN -->

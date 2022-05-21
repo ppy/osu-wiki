@@ -168,6 +168,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korea |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_CN] [gzdongsheng](https://osu.ppy.sh/users/8660315) | Mandarin |
+| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korea |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Tagalog |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korea |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Belanda |
@@ -190,6 +191,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | Spanyol |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Prancis |
+| ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Jerman |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Mandarin |
@@ -217,14 +219,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_TW] [_Rokii_](https://osu.ppy.sh/users/12770065) | Mandarin |
-| ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Mandarin |
-| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesia |
-| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
-| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malaysia |
-| ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
-| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesia |
-| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korea |
+| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Spanyol |
 
 ## Sejarah
 
@@ -238,6 +233,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"

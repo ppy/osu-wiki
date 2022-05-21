@@ -168,6 +168,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korece |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_CN] [gzdongsheng](https://osu.ppy.sh/users/8660315) | Çince |
+| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korece |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Flemenkçe |
@@ -190,6 +191,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | İspanyolca |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Fransızca |
+| ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Almanca |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Çince |
@@ -212,22 +214,19 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_TW] [_Rokii_](https://osu.ppy.sh/users/12770065) | Çince |
+| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | İspanyolca |
+
+#### osu!mania
+
+| İsim | Ek diller |
+| :-- | :-- |
+| ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | Çince |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Çince |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Endonezce |
 | ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malay dili |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Endonezce |
-| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korece |
-
-#### osu!mania
-
-| İsim | Ek diller |
-| :-- | :-- |
-| ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Çince |
-| ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korece |
-| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korece |
 
 ## Tarihçe
 
@@ -241,6 +240,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 [flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Şili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Çin"
 [flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
 [flag_DK]: /wiki/shared/flag/DK.gif "Danimarka"

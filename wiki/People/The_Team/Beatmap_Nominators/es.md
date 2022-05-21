@@ -167,6 +167,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Coreano |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_CN] [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chino |
+| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Coreano |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Holandés |
@@ -189,6 +190,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | Español |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Francés |
+| ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Alemán |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chino |
@@ -216,14 +218,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_TW] [_Rokii_](https://osu.ppy.sh/users/12770065) | Chino |
-| ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chino |
-| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesio |
-| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
-| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malayo |
-| ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
-| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesio |
-| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Coreano |
+| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Español |
 
 ## Historia
 
@@ -237,6 +232,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
 [flag_DK]: /wiki/shared/flag/DK.gif "Dinamarca"
