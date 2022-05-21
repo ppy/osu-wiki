@@ -4,21 +4,21 @@ title: "Beatmap Spotlights Season 6: Spring 2022 - High Speed"
 date: 2022-05-20 22:00:00 +0000
 ---
 
-Spotlights rivals, assemble! With a brand new theme, **Spring Season 2022** is finally here. Get ready for a high speed ride with a set of fresh 240+ BPM beatmaps!
+Spotlights rivals, assemble! With a brand new theme, **Spring Season 2022** is finally here. Get ready for a high-speed ride with a set of fresh 240+ BPM beatmaps!
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-With last season hitting highest playcounts in the modern Beatmap Spotlights history, we're introducing you to the new season.
+With last season hitting the highest playcounts in modern Beatmap Spotlights history, we're introducing you to the new season.
 
 The theme for this run is **high (240+) BPM** beatmaps. If you've got some fast fingers, or enjoy an exhausting experience of fast tapping in general, the first playlist of the season is definitely your cup of tea!
 
-In this season we haven't got a lot of changes to cover, we've got some new features to announce, though. We will also announce the results of recent Beatmap of the Season community voting, so make sure not to miss this one as well!
+In this season we haven't got a lot of changes to cover, but we've got some new features to announce. We will also announce the results of the recent Beatmap of the Season community voting, so make sure to read on below if you're interested!
 
 If you just can't wait to try out the new maps, **the Beatmap Spotlights lobbies are now open for play on the osu!(lazer) client**. If you've got no idea how to get started with things, read on below!
 
 ## How do I participate in the Beatmap Spotlights?
 
-To participate in the Beatmap Spotlights, download the latest version of the osu! (lazer) client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
+To participate in the Beatmap Spotlights, download the latest version of the lazer client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
 
 Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to Spotlights only in the top right corner.
 
@@ -26,9 +26,9 @@ Once you're done installing and logging into your account, head on over to the p
 
 ### Beatmap label and filter
 
-Along with the new season start, we're introducing **brand new shiny beatmap label that will appear on spotlights-featured beatmaps cards and listings** next to the song title, this will help to ensure that outstanding maps selected by the curators get a proper dose of deserved visibility.
+Along with the new season start, we're introducing a **brand new shiny beatmap label that will appear on Spotlights-featured beatmap cards and listings** next to the song title, which will help to ensure that outstanding maps selected by the curators get a proper dose of deserved visibility.
 
-In addition to that, mentioned maps can be searched using the new **Spotlighted Beatmaps filter** on the beatmap listing, go ahead and [give it a try](https://osu.ppy.sh/beatmapsets?c=spotlights)!
+In addition to that, mentioned maps can be searched using the new **Spotlighted beatmaps filter** on the beatmap listing, go ahead and [give it a try](https://osu.ppy.sh/beatmapsets?c=spotlights)!
 
 ## Beatmap of The Season - results
 
@@ -36,7 +36,7 @@ With this season launch, we're going back to the roots, reviewing the Beatmap of
 
 The creator of each winning entry will be awarded with **3 months of the osu!supporter tag** for their hard efforts.
 
-Thank you all for the votes casted for your favourite beatmaps, enjoy the results below!
+Thank you all for the votes casted for your favourite beatmaps and enjoy the results below!
 
 ### osu!
 
@@ -46,9 +46,9 @@ Thank you all for the votes casted for your favourite beatmaps, enjoy the result
 
 If you feel like there's a lack of western song representation in osu!, then look no further.
 
-olc is no stranger when it comes to western songs that are hard to map, and has made plenty of wonderful additions to the ranking section. But this map ticks all the right boxes for players and mappers alike.
+olc is no stranger when it comes to western songs that are hard to map, and has made plenty of wonderful additions to the Ranked section. But this map ticks all the right boxes for players and mappers alike.
 
-Fun and engaging gameplay mixed with high quality mapping that's also suitable for tournaments. As you would expect of a tiebreaker, you'll see consistent difficulty spread throughout the entirety of its 5 minute long runtime. What makes this map stand out from the rest is the masterful way olc represents each section and sound in the song in its own unique way, carefully crafting patterns and angles around slight changes in the music so that this map never has a dull moment.
+Fun and engaging gameplay mixed with high-quality mapping that's also suitable for tournaments. As you would expect of a tiebreaker, you'll see a consistent difficulty spread throughout the entirety of its 5-minute runtime. What makes this map stand out from the rest is the masterful way olc represents each section and sound in the song in its own unique way, carefully crafting patterns and angles around slight changes in the music so that this map never has a dull moment.
 
 If you decide to give this map a go, make sure to untick the "ignore beatmap hitsounds" option before playing.
 
@@ -60,7 +60,7 @@ If you decide to give this map a go, make sure to untick the "ignore beatmap hit
 
 [Ado - Odo [Dance]](https://osu.ppy.sh/beatmapsets/1529362#osu/3128396), mapped by [Heilia](https://osu.ppy.sh/users/9823042)
 
-With Ado making her debut in osu! just under 2 years ago she and her music have certainly taken the community by storm. Alongside other songs such as Bocca della Verita and USSEEWA, Odo has quickly become a fan-favorite now having 4 map-sets across 2 different game modes. When combining this absolute jam with an all-star mapper such as Heilia you should certainly "get ready for the show".
+With Ado making her debut in osu! just under 2 years ago she and her music have certainly taken the community by storm. Alongside other songs such as *Bocca della Verita* and *USSEEWA*, *Odo* has quickly become a fan-favorite, having 4 mapsets across 2 different game modes. When combining this absolute jam with an all-star mapper such as Heilia, you should certainly *get ready for the show*.
 
 With outstandingly exciting pattern choice and a difficulty that is comfortable for players of all ranges, it's no wonder the set has picked up more than 300,000 plays in under 6 months (and earned the good favor of 3 different curators for nomination). The refreshing combination of 1/3 and 1/6 patterning alongside the more chaotic slider sections makes this map nothing short of a masterpiece.
 
@@ -76,9 +76,9 @@ With outstandingly exciting pattern choice and a difficulty that is comfortable 
 
 Coming in hot this season's osu!taiko Spotlights, we have JarvisGaming's rendition of mafumafu's Hello Dystopia!
 
-His emblematic "Collapsing Reality" difficulty is an exemplary demonstration of both structuring and patterning, with notes carefully arranged to fit the song like a glove yet still being fun and entertaining for the player. Ranging from the faster chorus sections down to the break-off & deceleration in the 2nd half of the theme, it all climaxes into an extraordinarily grandiloquent experience.
+His emblematic "Collapsing Reality" difficulty is an exemplary demonstration of both structuring and patterning, with notes carefully arranged to fit the song like a glove yet still being fun and entertaining for the player. Ranging from the faster chorus sections down to the break-off and deceleration in the second half of the theme, it all climaxes into an extraordinarily *grandiloquent* experience.
 
-And yes, the top diff still slaps really damn hard.
+And yes, the top diff still slaps *extremely* hard.
 
 *described and primarily suggested by [Axer](https://osu.ppy.sh/users/7299864)*
 
@@ -86,7 +86,7 @@ And yes, the top diff still slaps really damn hard.
 
 [TUYU - Daemonisch [KTYN's Inner Oni]](https://osu.ppy.sh/beatmapsets/1444402#taiko/2983308), mapped by [KTYN](https://osu.ppy.sh/users/2250574)
 
-Arriving at the demand of player's choice, we have KTYN's interpretation of TUYU's Daemonisch, hosted by certified TUYU enjoyer gaston_2199!
+Arriving at the demand of player's choice, we have KTYN's interpretation of TUYU's *Daemonisch*, hosted by certified TUYU enjoyer gaston_2199!
 
 KTYN's Inner Oni proves that simplicity can be just as striking as catharsis, with a structure that is simplistic when necessary, getting more frantic as the song progresses, and culminating into a grand finale that spikes the density with carefully crafted piano streams. This is a map that can be enjoyed by a wide audience (as long as you can survive it, that is!).
 
@@ -100,11 +100,11 @@ KTYN's Inner Oni proves that simplicity can be just as striking as catharsis, wi
 
 [Chroma - Made In Love [Rei's MAXIMUM]](https://osu.ppy.sh/beatmapsets/1028944#fruits/2151543), mapped by [Bunnrei](https://osu.ppy.sh/users/829284)
 
-There are few maps in osu!catch I can think of that is mapped to the song as well as Bunnrei's MAXIMUM for Made in Love.
+There are few maps in osu!catch I can think of that is mapped to the song as well as Bunnrei's MAXIMUM for *Made in Love*.
 
-The map masterfully manages to convey all of the distinct parts of the song in a way that highlights each section's own distinct theme. Whether it be the less dense introduction, the more technical and synth heavy middle, or the denser streams mapped near the end, everything is mapped in a way that highlights noises and themes in the song.
+The map masterfully manages to convey all of the distinct parts of the song in a way that highlights each section's own distinct theme. Whether it be the less dense introduction, the more technical and synth-heavy middle, or the denser streams mapped near the end, everything is mapped in a way that highlights noises and themes in the song.
 
-While its not the most technical or difficult map that Bunnrei has ever mapped, this map is one that any experienced fruit catcher can enjoy for themselves.
+While not the most technical or difficult map Bunnrei has ever mapped, this map is one that any experienced fruit catcher can enjoy for themselves.
 
 *described and primarily suggested by [wonjae](https://osu.ppy.sh/users/5032045)*
 
@@ -112,9 +112,9 @@ While its not the most technical or difficult map that Bunnrei has ever mapped, 
 
 [SHK - Halloween Party [Juansy's Rain]](https://osu.ppy.sh/beatmapsets/1609415#fruits/3286191), mapped by [Juansy-](https://osu.ppy.sh/users/12588215)
 
-Though it's either too late or too early into the Halloween you can't deny the fact that this diff on this set is comfortable enough to play either for the casual fruit fan or to the hardcore maniac catch enjoyer.
+Although it may be either *slightly* too late or too early into Halloween, you can't deny the fact that this diff on this set is comfortable enough to play either for the casual fruit fan or to the hardcore maniac catch enjoyer.
 
-Juansy's Rain in particular is balanced enough to maintain the overall intensity of the difficulty featuring a few empty gaps in between at the beginning and a consistent but yet not relaxing ending.
+Juansy's Rain in particular is balanced enough to maintain the overall intensity of the difficulty, featuring a few empty gaps in between at the beginning and a consistent but yet not relaxing ending.
 
 Maybe that was spooky enough after all.
 
@@ -130,9 +130,9 @@ Maybe that was spooky enough after all.
 
 Rarely do we come across a map that provides bold concepts with nuanced gameplay elements to the table.
 
-dreamless wanderer is easily one of those charts with its integration of LN grace elements more commonly found in 4k and technical, reading intensive, patterning. This yields a combination which is quite a rarity even for unranked! While the highlights of the chart are found in the intense complextro bits, the intentionaly usage of pattern repetition and build really wraps the chart together.
+*dreamless wanderer* is easily one of those charts with its integration of LN grace elements more commonly found in 4k and technical, reading-intensive, patterning. This yields a combination which is quite a rarity even for unranked! While the highlights of the chart are found in the intense complextro bits, the intentional usage of pattern repetition and build really wraps the chart together.
 
-I definitely see this chart setting the groundwork for more expressive charting in the future for 7K ranked. Good job paradoxus_!
+I definitely see this chart setting the groundwork for more expressive charting in the future for 7K Ranked. Good job paradoxus_!
 
 *described and primarily suggested by [lepnai](https://osu.ppy.sh/users/5314573)*
 
@@ -140,9 +140,9 @@ I definitely see this chart setting the groundwork for more expressive charting 
 
 [Camellia - #1f1e33 [Future]](https://osu.ppy.sh/beatmapsets/1184620#mania/2485263), mapped by [Murumoo](https://osu.ppy.sh/users/8001433)
 
-This spectacle of a map #1f1e33 mapped by Murumoo really has a lot of extraordinary concepts and representations, but the Future diff is a must play for people who enjoy comfortable gameplay, which is everyone!
+This spectacle of a map *#1f1e33* mapped by Murumoo really has a lot of extraordinary concepts and representations, but the Future diff is a must-play for people who enjoy comfortable gameplay, which is everyone!
 
-The wubs and synths that are being represented in contrast to the hi hats, which create a perfect balance and make the map a lot more entertaining. But let me tell you, the kiai is by far one of the most important areas of a map, and it really does pull it off.
+The wubs and synths are represented in contrast to the hi-hats, which creates a perfect balance and makes the map a lot more entertaining. But let me tell you, the kiai is by far one of the most important areas of a map, and Murumoo really does pull it off here.
 
 This map will trip you up in excitement and pour a feeling of satisfaction when you see that pass on your screen, truly a wonder to behold.
 
@@ -150,7 +150,7 @@ This map will trip you up in excitement and pour a feeling of satisfaction when 
 
 ## Inside the Spotlights Team
 
-This season, we will say farawell to some of our members as well as welcome some fresh blood to the ranks of Spotlights Curators, thanks for all your hard efforts to deliver the seasonal doso of outstanding beatmap material!
+This season, we will say farewell to some of our members as well as welcome some fresh blood to the ranks of Spotlights Curators. Thanks for all your hard efforts to deliver the seasonal dose of outstanding beatmap material!
 
 **Curator additions:**
 
@@ -166,9 +166,9 @@ This season, we will say farawell to some of our members as well as welcome some
 - **osu!catch**: Snowless, x_angelkawaii_x
 - **osu!mania**: \[ Decku \], BringoBrango,  Kaito-kun
 
-Hydria will also be stepping away as the osu!mania curators' team leader after almost two years of service, CrumpetFiddler will be the one to ensure things go smooth on the mania side from now on.
+Hydria will also be stepping away as the osu!mania curators' team leader after almost two years of service, while CrumpetFiddler will be the one to ensure things go smooth on the mania side from now on.
 
-OnosakiHito will also say farawell to the osu!taiko curators' team after leading it since the very first season of modern Spotlights, Hivie will take over his tasks.
+OnosakiHito will also say farewell to the osu!taiko curators' team after leading it since the very first season of modern Spotlights, but worry not, because Hivie will take over his tasks.
 
 For the full Spotlights Team members list, check out the [Beatmap Spotlights wiki article](/wiki/Beatmap_Spotlights).
 
