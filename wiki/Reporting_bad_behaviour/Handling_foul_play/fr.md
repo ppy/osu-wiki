@@ -55,7 +55,7 @@ Dans les pages des beatmaps, vous pouvez signaler un utilisateur dans les classe
 
 Ce type de report n'est **pas encouragé** car les reports en jeu sont principalement liés au tchat.
 
-Utilisez la commande `!report` dans n'importe quel canal public pour informer les modérateurs du tchat. Les autres joueurs ne verront pas vos report dans le chat.
+Utilisez la commande `!report` dans n'importe quel canal public pour informer les modérateurs du tchat. Les autres joueurs ne verront pas vos report dans le tchat.
 
 ```
 Format : !report <username> <reason>

@@ -101,7 +101,7 @@ Le clip de "Bad Apple!!" était une sorte de blague à l'époque, les remixes de
 
 ### BanchoBot devient une tsundere
 
-Le 1er avril 2013, [BanchoBot](/wiki/BanchoBot) a été transformé en [tsundere](https://fr.wikipedia.org/wiki/Tsundere). En ce jour de poisson d'avril, chaque fois qu'un utilisateur donnait une commande à BanchoBot ou l'invitait à parler dans un chat public, ses messages de chat étaient remplacés par des réponses stéréotypées d'une tsundere avec un intérêt romantique [[24,25,26,27,28,29]][r].
+Le 1er avril 2013, [BanchoBot](/wiki/BanchoBot) a été transformé en [tsundere](https://fr.wikipedia.org/wiki/Tsundere). En ce jour de poisson d'avril, chaque fois qu'un utilisateur donnait une commande à BanchoBot ou l'invitait à parler dans un tchat public, ses messages de tchat étaient remplacés par des réponses stéréotypées d'une tsundere avec un intérêt romantique [[24,25,26,27,28,29]][r].
 
 ![](img/2013-regular-banchobot.jpg "Interactions avec BanchoBot en 2013")
 
