@@ -1160,7 +1160,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 #### Bans et Picks
 
-- Suivant la phase de warmup, les joueurs devront utiliser la commande de `!roll` sur le chat du multijoueur. Le joueur avec le plus bas roll aura le premier ban et deuxième pick, tandis que le joueur avec le plus haut roll aura le premier pick et deuxième ban. Il y aura **deux bans** par joueur pour chaque round.
+- Suivant la phase de warmup, les joueurs devront utiliser la commande de `!roll` sur le tchat du multijoueur. Le joueur avec le plus bas roll aura le premier ban et deuxième pick, tandis que le joueur avec le plus haut roll aura le premier pick et deuxième ban. Il y aura **deux bans** par joueur pour chaque round.
 
 #### Format du Match
 

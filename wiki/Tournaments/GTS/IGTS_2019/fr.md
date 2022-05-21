@@ -551,7 +551,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 5. Le match sera joué en TeamVs et ScoreV2 et le nom de la salle doit être : "IGTS 2019: (Team Red) vs (Team Blue)".
 6. Chaque équipe a droit à un warm up. Celui-ci doit durer moins de 4 minutes. Il est autorisé d'inviter tous les joueurs dans la salle pour les warm ups.
 7. Chaque capitaine doit bannir **une beatmap** prise dans le pool (sauf le Tiebreaker). Ces beatmaps ne pourront plus être pick par aucune équipe pendant tout le match.
-8. Le capitaine de chaque équipe va faire un jet de dés en tapant la commande `!roll` dans le chat.
+8. Le capitaine de chaque équipe va faire un jet de dés en tapant la commande `!roll` dans le tchat.
 9. L'équipe avec le jet le **plus haut bannit en second et pick en premier.** L'équipe avec le jet le **plus bas bannit en premier et picks en second.**
 10. La sélection de la beatmap à jouer va alterner entre chaque capitaine choisissant une beatmap du pool.
 11. Les capitaines peuvent pick librement dans n'importe quelle catégorie.

@@ -34,7 +34,7 @@ La phase de groupe a une date limite de 14 jours après que le candidat ait envo
 
 Dans le cas de [candidatures rejetées](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#failed-applications), la NAT déterminera également la durée du délai de l'utilisateur avant qu'il puisse postuler à nouveau. Le délai standard est de 90 jours à partir de la date de la candidature, mais la durée peut être réduite pour les candidats ayant relativement peu de problèmes à résoudre avant de devenir des Beatmap Nominators. Dans ce cas, les conditions de réduction du délai d'attente seront indiquées dans le feedback envoyé aux candidats.
 
-Une fois que le consensus est atteint et que les commentaires sont rédigés, les membres de la NAT les examinent afin d'affiner l'exactitude et la clarté des commentaires pour le candidat. Ils envoient ensuite le feedback au candidat, après quoi l'évaluation sera archivée pour référence future. Le feedback lui-même sera envoyé par le [mappersguild bot](https://osu.ppy.sh/users/23648635) comme un message dans le chat d'osu!.
+Une fois que le consensus est atteint et que les commentaires sont rédigés, les membres de la NAT les examinent afin d'affiner l'exactitude et la clarté des commentaires pour le candidat. Ils envoient ensuite le feedback au candidat, après quoi l'évaluation sera archivée pour référence future. Le feedback lui-même sera envoyé par le [mappersguild bot](https://osu.ppy.sh/users/23648635) comme un message dans le tchat d'osu!.
 
 ## Évaluations actuelles des Beatmap Nominators
 
@@ -56,7 +56,7 @@ La phase individuelle sera affichée sur le site web des BN deux semaines avant 
 
 Après que trois membres de la NAT aient soumis leurs évaluations, l'évaluation passera à la phase de groupe. Au cours de la phase de groupe, les membres de la NAT discuteront de leurs évaluations entre eux, parviendront à un consensus et rédigeront un feedback de l'évaluation. Les résultats et les commentaires varieront en fonction du BN. S'il s'avère qu'un BN ne répond pas aux normes, il peut recevoir un avertissement ou être placé en probation, selon la gravité du problème. 
 
-Une fois le feedback écrit et vérifié, il sera envoyé et accompagnera tout changement de groupe nécessaire si le BN est déplacé des Beatmap Nominators probatoires aux Beatmap Nominators confirmés, ou vice versa. Le feedback sera envoyé par le [mappersguild bot](https://osu.ppy.sh/users/23648635) comme un message dans le chat d'osu!.
+Une fois le feedback écrit et vérifié, il sera envoyé et accompagnera tout changement de groupe nécessaire si le BN est déplacé des Beatmap Nominators probatoires aux Beatmap Nominators confirmés, ou vice versa. Le feedback sera envoyé par le [mappersguild bot](https://osu.ppy.sh/users/23648635) comme un message dans le tchat d'osu!.
 
 Les avertissements et la mise à l'épreuve dus à des performances médiocres en tant que Beatmap Nominator à part entière sont effectifs pendant environ un an. Si un BN a des problèmes récurrents après avoir été averti ou mis à l'épreuve récemment, il peut être exclu des Beatmap Nominators lors de futures évaluations.
 
