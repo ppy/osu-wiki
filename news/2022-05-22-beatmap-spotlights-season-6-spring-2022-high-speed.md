@@ -4,7 +4,7 @@ title: "Beatmap Spotlights Season 6: Spring 2022 - High Speed"
 date: 2022-05-22 13:00:00 +0000
 ---
 
-Spotlights rivals, assemble! With a brand new theme, **Spring Season 2022** is finally here. Get ready for a high-speed ride with a set of fresh 240+ BPM beatmaps!
+Spotlights rivals, assemble! With a brand new theme, **Spring Season 2022** is finally here. Get ready for a high-speed ride with a fresh set of 240+ BPM beatmaps!
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
@@ -44,7 +44,7 @@ Thank you all for the votes casted for your favourite beatmaps and enjoy the res
 
 [King Gizzard & The Lizard Wizard - Robot Stop [REDLIGHT (VIP)]](https://osu.ppy.sh/beatmapsets/1610231#osu/3287767), mapped by [olc](https://osu.ppy.sh/users/7081160)\
 *primarily suggested by [Omgforz](https://osu.ppy.sh/users/578943)*\
-*described by [Omgforz](https://osu.ppy.sh/users/578943), with some help of [DeviousPanda](https://osu.ppy.sh/users/4966334)*
+*described by [Omgforz](https://osu.ppy.sh/users/578943), with some help from [DeviousPanda](https://osu.ppy.sh/users/4966334)*
 
 If you feel like there's a lack of western song representation in osu!, then look no further.
 
@@ -71,7 +71,7 @@ With outstandingly exciting pattern choice and a difficulty that is comfortable 
 [mafumafu - Hello Dystopia [Collapsing Reality]](https://osu.ppy.sh/beatmapsets/809048#taiko/1697683), mapped by [JarvisGaming](https://osu.ppy.sh/users/8601048)\
 *described and primarily suggested by [Axer](https://osu.ppy.sh/users/7299864)*
 
-Coming in hot this season's osu!taiko Spotlights, we have JarvisGaming's rendition of mafumafu's Hello Dystopia!
+Coming in hot this season's osu!taiko Spotlights, we have JarvisGaming's rendition of mafumafu's *Hello Dystopia*!
 
 His emblematic "Collapsing Reality" difficulty is an exemplary demonstration of both structuring and patterning, with notes carefully arranged to fit the song like a glove yet still being fun and entertaining for the player. Ranging from the faster chorus sections down to the break-off and deceleration in the second half of the theme, it all climaxes into an extraordinarily *grandiloquent* experience.
 
