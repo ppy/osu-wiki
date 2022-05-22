@@ -602,9 +602,9 @@ Top 10 qualification results:
 
 ### Byes
 
-- Due to the nature of the elimination system, byes are unavoidable.
-- If you receive a bye, once the matches for each round are completed you will receive a "tax" of 90% of the average HP lost by the players at your general aggregate match score (+/- 1).
-- Byes will prioritise players in the middle of the pack so as to avoid unfair eliminations or advantages.
+- A player receives a bye when an opponent is eliminated from the tournament before the scheduled match can take place.
+- If a player forfeits a match, both players will receive a bye for that match.
+- For each bye a player receives, once all scheduled matches for a round are completed, the player will receive an HP deduction of 90% of the average HP lost by players with similar aggregate match scores (+/- 1) from that round.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
