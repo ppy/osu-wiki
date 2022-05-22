@@ -136,6 +136,14 @@ The wubs and synths are represented in contrast to the hi-hats, which creates a 
 
 This map will trip you up in excitement and pour a feeling of satisfaction when you see that pass on your screen, truly a wonder to behold.
 
+### Full Players' Pick voting results
+
+Check out each respective game mode's player voting results:
+- [osu!](https://osu.ppy.sh/community/contests/143)
+- [osu!taiko](https://osu.ppy.sh/community/contests/144)
+- [osu!catch](https://osu.ppy.sh/community/contests/145)
+- [osu!mania](https://osu.ppy.sh/community/contests/146)
+
 ## Inside the Spotlights Team
 
 This season, we will say farewell to some of our members as well as welcome some fresh blood to the ranks of Spotlights Curators. Thanks for all your hard efforts to deliver the seasonal dose of outstanding beatmap material!
@@ -144,7 +152,7 @@ This season, we will say farewell to some of our members as well as welcome some
 
 - **osu!**: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - **osu!taiko**: [\[Zeth\]](https://osu.ppy.sh/users/9912966), [Nifty](https://osu.ppy.sh/users/4956097)
-- **osu!catch**: [Nelly](https://osu.ppy.sh/users/4741164)
+- **osu!catch**: [Nelly](https://osu.ppy.sh/users/4741164), [wwwww](https://osu.ppy.sh/users/8434466)
 - **osu!mania**: [Antalf](https://osu.ppy.sh/users/8793773), [Protastic101](https://osu.ppy.sh/users/6712747)
 
 **Curator resignations:**
