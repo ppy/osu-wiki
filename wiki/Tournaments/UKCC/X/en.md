@@ -589,7 +589,7 @@ Top 10 qualification results:
 
 ### Pocket Picks
 
-- When signing up to the tournament, each player will **submit three maps** to be listed as “Pocket Picks” for use during Swiss.
+- When signing up to the tournament, each player will **submit three maps** to be listed as "Pocket Picks" for use during Swiss.
 - Pocket Picks can be **any map, with any mods**. The mods chosen are forced.
 - While there is room to push boundaries, the **rule of common sense** applies when submitting Pocket Picks—the maps will be reviewed case by case, and if a map is too far out of the playable range it will be rejected and a new Pocket Pick will have to be submitted.
 - Only up to one Pocket Pick can be played per match, and only as a player's **3rd or 4th pick during the match**.
