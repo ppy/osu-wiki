@@ -214,7 +214,7 @@ See the [Pocket Picks sheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJ
 
 #### Day 17
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Kingling** ![][flag_GB] | **4** | 1 | ![][flag_GB] Malteser | [#1](https://osu.ppy.sh/community/matches/80493729) | *Malteser was eliminated* |
 | **Voss** ![][flag_GB] | **7** | 1 | ![][flag_GB] Kerantina | [#1](https://osu.ppy.sh/community/matches/80499466) |  |
@@ -223,7 +223,7 @@ See the [Pocket Picks sheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJ
 
 The full results for this match can be found at this [link](https://osu.ppy.sh/community/matches/80587587).
 
-| Players | Score | Player status |
+| Players | Score | Outcome |
 | --: | :-: | :-- |
 | ![][flag_GB] Kingling | 4 |  |
 | ![][flag_GB] Voss | 0 |  |
@@ -231,7 +231,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Grand Finals: Part 2
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Voss** ![][flag_GB] | **9** | 6 | ![][flag_GB] Kingling | [#1](https://osu.ppy.sh/community/matches/80679009) | *Voss was eliminated* |
 
@@ -239,7 +239,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Day 15
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Kingling** ![][flag_GB] | **7** | 1 | ![][flag_GB] Doomsday | [#1](https://osu.ppy.sh/community/matches/79851742) | *Doomsday was eliminated* |
 | **Voss** ![][flag_GB] | **0** | -1 | ![][flag_GB] Mahmood | *forfeit* |  |
@@ -248,7 +248,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Day 16
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Jemzsee** ![][flag_GB] | **1** | **1** | ![][flag_GB] **Kingling** | [#1](https://osu.ppy.sh/community/matches/79967207) | *Jemzsee was eliminated* |
 | **Voss** ![][flag_GB] | **5** | 3 | ![][flag_GB] Malteser | [#1](https://osu.ppy.sh/community/matches/80123632) |  |
@@ -269,7 +269,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Day 14
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Kerantina ![][flag_GB] | 2 | **6** | ![][flag_GB] **Malteser** | [#1](https://osu.ppy.sh/community/matches/79333680) |  |
 | Voss ![][flag_GB] | 1 | **7** | ![][flag_GB] **Kingling** | [#1](https://osu.ppy.sh/community/matches/79305439) |  |
@@ -281,7 +281,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Day 11
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Kingling** ![][flag_GB] | **6** | 2 | ![][flag_GB] Malteser | [#1](https://osu.ppy.sh/community/matches/78570293) |  |
 | Voss ![][flag_GB] | 3 | **5** | ![][flag_GB] **Jemzsee** | [#1](https://osu.ppy.sh/community/matches/78577173) |  |
@@ -293,7 +293,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Day 12
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Doomsday** ![][flag_GB] | **4** | **4** | ![][flag_GB] **Best459** | [#1](https://osu.ppy.sh/community/matches/78653957) |  |
 | **Jemzsee** ![][flag_GB] | **5** | 3 | ![][flag_GB] Mahmood | [#1](https://osu.ppy.sh/community/matches/78679264) |  |
@@ -307,7 +307,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Day 9
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Jemzsee** ![][flag_GB] | **4** | **4** | ![][flag_GB] **Malteser** | [#1](https://osu.ppy.sh/community/matches/77964476) |  |
 | **Voss** ![][flag_GB] | **7** | 1 | ![][flag_GB] Chemistry | [#1](https://osu.ppy.sh/community/matches/78137186) |  |
@@ -321,7 +321,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Day 10
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **LilyFlower** ![][flag_PH] | **4** | **4** | ![][flag_IE] **Ophiz** | [#1](https://osu.ppy.sh/community/matches/78070911) |  |
 | **Jemzsee** ![][flag_GB] | **6** | 2 | ![][flag_GB] Rinnu | [#1](https://osu.ppy.sh/community/matches/78072127) |  |
@@ -336,7 +336,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Day 7
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Kingling** ![][flag_GB] | **6** | 0 | ![][flag_GB] [Nathan] | [#1](https://osu.ppy.sh/community/matches/77378886) | *[Nathan] was eliminated* |
 | **LilyFlower** ![][flag_PH] | **5** | 3 | ![][flag_GB] Taiga Tiger | [#1](https://osu.ppy.sh/community/matches/77356952) |  |
@@ -352,7 +352,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Day 8
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Kingling** ![][flag_GB] | **4** | **4** | ![][flag_GB] **Rinnu** | [#1](https://osu.ppy.sh/community/matches/77375267) |  |
 | **Voss** ![][flag_GB] | **7** | 1 | ![][flag_GB] Best459 | [#1](https://osu.ppy.sh/community/matches/77370352) |  |
@@ -370,7 +370,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Day 5
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Kerantina** ![][flag_GB] | **6** | 2 | ![][flag_GB] -Deeline | [#1](https://osu.ppy.sh/community/matches/76903547) |  |
 | **Best459** ![][flag_GB] | **4** | **4** | ![][flag_GB] **Rinnu** | [#1](https://osu.ppy.sh/community/matches/76911035) |  |
@@ -392,7 +392,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Day 6
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Kerantina** ![][flag_GB] | **1** | 0 | ![][flag_GB] Fozzy | [#1](https://osu.ppy.sh/community/matches/76919822) | *Fozzy was eliminated* |
 | **Taiga Tiger** ![][flag_GB] | **0** | -1 | ![][flag_GB] squarercube | *forfeit* | *squarercube was eliminated* |
@@ -436,7 +436,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Day 4
 
-| Player 1 |  |  | Player 2 | Match link | Player status |
+| Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **LilyFlower** ![][flag_PH] | **7** | 1 | ![][flag_GB] [Nathan] | [#1](https://osu.ppy.sh/community/matches/76358546) |  |
 | **Kingling** ![][flag_GB] | **6** | 2 | ![][flag_GB] Apo11o | [#1](https://osu.ppy.sh/community/matches/76335225) |  |
