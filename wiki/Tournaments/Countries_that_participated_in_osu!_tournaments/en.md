@@ -8,7 +8,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 ## Rankings
 
-<!-- last update: TWC 2022-->
+<!-- last update: CWC 2022 (Registration phase)-->
 
 ### General ranking
 
