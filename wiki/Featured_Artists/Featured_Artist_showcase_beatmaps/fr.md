@@ -44,7 +44,7 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
   - (![][osu!]) [Phonetic - Journey](https://osu.ppy.sh/beatmapsets/795432#osu/1670491) organisé par ![][flag_KR] [Left](https://osu.ppy.sh/users/5062061)
   - (![][osu!]) [Pulse - LP](https://osu.ppy.sh/beatmapsets/789374#osu/1656604) organisé par ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
 
-### Novembre 
+### Novembre
 
 - **[Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate)** (21/11/2018)
   - (![][osu!]) [Culprate - Aurora](https://osu.ppy.sh/beatmapsets/848003#osu/1773386) organisé par ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
@@ -70,7 +70,7 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
 
 ### Février
 
-- **[HyuN](https://osu.ppy.sh/home/news/2019-02-05-new-featured-artist-hyun)** (06/02/2019)
+- **[HyuN](https://osu.ppy.sh/home/news/2019-02-05-new-featured-artist-hyun)** (05/02/2019)
   - (![][osu!]) [HyuN - Guitian](https://osu.ppy.sh/beatmapsets/891348#osu/1863256) organisé par ![][flag_ID] [ScubDomino](https://osu.ppy.sh/users/8972308)
   - (![][osu!]) [HyuN - Illusion of Inflict](https://osu.ppy.sh/beatmapsets/891366#osu/1863289) organisé par ![][flag_EE] [schoolboy](https://osu.ppy.sh/users/8722791)
   - (![][osu!]) [HyuN - Infinity Heaven](https://osu.ppy.sh/beatmapsets/891345#osu/1863246) organisé par ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
@@ -150,7 +150,7 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
 
 ### Mai
 
-- **[BLANKFIELD](https://osu.ppy.sh/home/news/2020-05-06-new-featured-artist-blankfield)** (2020-05-06)
+- **[BLANKFIELD](https://osu.ppy.sh/home/news/2020-05-06-new-featured-artist-blankfield)** (06/05/2020)
   - (![][osu!]) [BLANKFIELD - Falling Falls](https://osu.ppy.sh/beatmapsets/1120635#osu/2341586) organisé par ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
   - (![][osu!]) [BLANKFIELD - Retrospective City](https://osu.ppy.sh/beatmapsets/1120645#osu/2341602) organisé par ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
 - **[Disasterpeace](https://osu.ppy.sh/home/news/2020-05-13-new-featured-artist-disasterpeace)** (13/05/2020)
@@ -235,7 +235,7 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
 
 ### Novembre
 
-- **[Se-U-Ra](https://osu.ppy.sh/home/news/2020-11-03-new-featured-artist-se-u-ra)** (04/11/2020)
+- **[Se-U-Ra](https://osu.ppy.sh/home/news/2020-11-03-new-featured-artist-se-u-ra)** (03/11/2020)
   - (![][osu!]) [Se-U-Ra - Qlifact -another-](https://osu.ppy.sh/beatmapsets/1224699#osu/2547134) organisé par ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
   - (![][osu!mania]) [Elif to Shiro Kura no Yoru -Called-](https://osu.ppy.sh/beatmapsets/1226466#mania/2550395) organisé par ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
 - **[glass beach](https://osu.ppy.sh/home/news/2020-11-07-new-featured-artist-glass-beach)** (07/11/2020)
@@ -277,7 +277,7 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
   - (![][osu!]) [Symholic - Maisery](https://osu.ppy.sh/beatmapsets/1322631#osu/2739658) organisé par ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
 - **[Tiny Waves](https://osu.ppy.sh/home/news/2021-01-17-new-featured-artist-tiny-waves)** (17/01/2021)
   - (![][osu!]) [Kabuki, MYLK - Talk 2 Me](https://osu.ppy.sh/beatmapsets/1293770#osu/2684766) organisé par ![][flag_MX] [Gero](https://osu.ppy.sh/users/1467715)
-- **[Geoxor](https://osu.ppy.sh/home/news/2021-01-23-new-featured-artist-geoxor)** (23/01/2020)
+- **[Geoxor](https://osu.ppy.sh/home/news/2021-01-23-new-featured-artist-geoxor)** (23/01/2021)
   - (![][osu!]) [Geoxor - Stardust (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1349715#osu/2794531) organisé par ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033)
 - **[Dimrain47](https://osu.ppy.sh/home/news/2021-01-27-new-featured-artist-dimrain47)** (27/01/2021)
   - (![][osu!]) [Dimrain47 - At the Speed of Light](https://osu.ppy.sh/beatmapsets/1335517#osu/2883905) organisé par ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
@@ -356,7 +356,7 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
 - **[La priere](https://osu.ppy.sh/home/news/2021-06-16-new-featured-artist-la-priere)** (16/06/2021)
   - (![][osu!]) [La prière - Senjou no Utahime](https://osu.ppy.sh/beatmapsets/1398580) organisé par ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
   - (![][osu!]) [La prière - Kyouzou no Canon](https://osu.ppy.sh/beatmapsets/1475603) organisé par ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
-- **[katagiri](https://osu.ppy.sh/home/news/2020-06-23-new-featured-artist-katagiri)** (23/06/2021)
+- **[katagiri](https://osu.ppy.sh/home/news/2021-06-23-new-featured-artist-katagiri)** (23/06/2021)
   - (![][osu!catch]) [katagiri - Urushi](https://osu.ppy.sh/beatmapsets/1482723) organisé par ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - **[Andromedik](https://osu.ppy.sh/home/news/2021-06-26-new-featured-artist-andromedik)** (26/06/2021)
   - (![][osu!]) [Andromedik x Itro x Polygon - Fly](https://osu.ppy.sh/beatmapsets/1470255) organisé par ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
@@ -394,6 +394,130 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
 - **[Release Hallucination](https://osu.ppy.sh/home/news/2021-08-28-new-featured-artist-release-hallucination)** (28/08/2021)
   - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) organisé par ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
+### Septembre
+
+- **[Alkome](https://osu.ppy.sh/home/news/2021-09-01-new-featured-artist-alkome)** (01/09/2021)
+  - (![][osu!]) [Alkome - Mind Disorder](https://osu.ppy.sh/beatmapsets/1301375) organisé par ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865)
+- **[litmus\*](https://osu.ppy.sh/home/news/2021-09-22-new-featured-artist-litmus)** (22/09/2021)
+  - (![][osu!]) [litmus\* as Ester - Krave](https://osu.ppy.sh/beatmapsets/1551054) organisé par ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342)
+  - (![][osu!catch]) [litmus\* as Ester - Krave](https://osu.ppy.sh/beatmapsets/1551054) organisé par ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+  - (![][osu!mania]) [litmus\* - Rush-More](https://osu.ppy.sh/beatmapsets/1505336) organisé par ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
+- **[tokiwa](https://osu.ppy.sh/home/news/2021-09-25-new-featured-artist-tokiwa)** (25/09/2021)
+  - (![][osu!]) [tokiwa - wasurena feat. Sennzai](https://osu.ppy.sh/beatmapsets/1496234) organisé par ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458)
+- **[Lundy](https://osu.ppy.sh/home/news/2021-09-29-new-featured-artist-lundy)** (29/09/2021)
+  - (![][osu!taiko]) [Lundy - STOP?](https://osu.ppy.sh/beatmapsets/1584108) organisé par ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
+  - (![][osu!catch]) [Lundy - to.ALPHA](https://osu.ppy.sh/beatmapsets/1554550) organisé par ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+
+### Octobre
+
+- **[DJ Raisei](https://osu.ppy.sh/home/news/2021-10-02-new-featured-artist-dj-raisei)** (02/10/2021)
+  - (![][osu!]) [ISOMERZ (DJ Raisei + seatrus) - Symmetric](https://osu.ppy.sh/beatmapsets/1381824) organisé par ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
+- **[METAROOM](https://osu.ppy.sh/home/news/2021-10-09-new-featured-artist-metaroom)** (09/10/2021)
+  - (![][osu!]) [METAROOM - PINK ORIGINS](https://osu.ppy.sh/beatmapsets/1589495) organisé par ![][flag_TR] [Lugu](https://osu.ppy.sh/users/12851847)
+- **[Lexurus](https://osu.ppy.sh/home/news/2021-10-16-new-featured-artist-lexurus)** (16/10/2021)
+  - (![][osu!]) [Lexurus - Take Me Away](https://osu.ppy.sh/beatmapsets/1572918) organisé par ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+- **[Risa Yuzuki](https://osu.ppy.sh/home/news/2021-10-27-new-featured-artist-risa-yuzuki)** (27/10/2021)
+  - (![][osu!]) [Risa Yuzuki - Honogurai Tsuioku](https://osu.ppy.sh/beatmapsets/1544897) organisé par ![][flag_GB] [CallieCube](https://osu.ppy.sh/users/7535045)
+  - (![][osu!]) [Risa Yuzuki - Amatsu Sumizome](https://osu.ppy.sh/beatmapsets/1591003) organisé par ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628)
+  - (![][osu!]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1571215) organisé par ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!taiko]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1580723) organisé par ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
+  - (![][osu!catch]) [Risa Yuzuki - Cinderella Maker](https://osu.ppy.sh/beatmapsets/1582952) organisé par ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637)
+
+### Novembre
+
+- **[FATE GEAR](https://osu.ppy.sh/home/news/2021-11-13-new-featured-artist-fate-gear)** (13/11/2021)
+  - (![][osu!]) [Headless Goddess](https://osu.ppy.sh/beatmapsets/1568902) organisé par ![][flag_CN] [Elayue](https://osu.ppy.sh/users/6400861)
+  - (![][osu!catch]) [Scars in my Life](https://osu.ppy.sh/beatmapsets/1507375) organisé par ![][flag_AT] [Daletto](https://osu.ppy.sh/users/7592136)
+- **[Kurubukko](https://osu.ppy.sh/home/news/2021-11-17-new-featured-artist-kurubukko)** (17/11/2021)
+  - (![][osu!]) [Rain](https://osu.ppy.sh/beatmapsets/1578257) organisé par ![][flag_AU] [Gibune](https://osu.ppy.sh/users/5778687)
+  - (![][osu!]) [The 84th Flight](https://osu.ppy.sh/beatmapsets/1577313) organisé par ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
+- **[Matduke](https://osu.ppy.sh/home/news/2021-11-24-new-featured-artist-matduke)** (24/11/2021)
+  - (![][osu!]) [Matduke - Let It Go (Original Mix)](https://osu.ppy.sh/beatmapsets/1625651#osu/3319012) organisé par ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380)
+- **[Marmalade butcher](https://osu.ppy.sh/home/news/2021-11-27-new-featured-artist-marmalade-butcher)** (27/11/2021)
+  - (![][osu!]) [Marmalade butcher - Mirage Age](https://osu.ppy.sh/beatmapsets/1624087#osu/3315941) organisé par ![][flag_CA] [Gordon](https://osu.ppy.sh/users/7856835)
+
+### Décembre
+
+- **[Tasty](https://osu.ppy.sh/home/news/2021-12-01-new-featured-artist-tasty)** (01/12/2021)
+  - (![][osu!]) [oneohkay - Last 7 Letters](https://osu.ppy.sh/beatmapsets/1616937#osu/3301543) organisé par ![][flag_PL] [-Sylvari](https://osu.ppy.sh/users/3493804)
+- **[KINEMA106](https://osu.ppy.sh/home/news/2021-12-04-new-featured-artist-kinema106)** (04/12/2021)
+  - (![][osu!]) [KINEMA106 - Rend Ens](https://osu.ppy.sh/beatmapsets/1599737#osu/3267234) organisé par ![][flag_AU] [- Clubber -](https://osu.ppy.sh/users/12905443)
+  - (![][osu!]) [KINEMA106 - Asu e no Kyoukaisen](https://osu.ppy.sh/beatmapsets/1613010#osu/3293187) organisé par ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
+  - (![][osu!]) [KINEMA106 - N.M.W](https://osu.ppy.sh/beatmapsets/1621874#osu/3311309) organisé par ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
+- **[Seraph](https://osu.ppy.sh/home/news/2021-12-15-new-featured-artist-seraph)** (15/12/2021)
+  - (![][osu!]) [Seraph - for Black, Dear Dahlia](https://osu.ppy.sh/beatmapsets/1649891#osu/3369458) organisé par ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327)
+- **[siromaru](https://osu.ppy.sh/home/news/2021-12-18-new-featured-artist-siromaru)** (18/12/2021)
+  - (![][osu!]) [siromaru - Gensou Kaiki no Omochabako](https://osu.ppy.sh/beatmapsets/1649491#osu/3366797) organisé par ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
+  - (![][osu!mania]) [Team Grimoire vs. siromaru - Glasya-Labolas](https://osu.ppy.sh/beatmapsets/1593180#mania/3254013) organisé par ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
+  - (![][osu!taiko]) [INNOCENT NOIZE - Reverse Clock](https://osu.ppy.sh/beatmapsets/1628255#taiko/3325417) organisé par ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
+- **[PTB10](https://osu.ppy.sh/home/news/2021-12-22-new-featured-artist-ptb10)** (22/12/2021)
+  - (![][osu!]) [PTB10 - Starfall](https://osu.ppy.sh/beatmapsets/1648460#osu/3364707) organisé par ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865)
+
+---
+
+## 2022
+
+### Janvier
+
+- **[DGK](https://osu.ppy.sh/home/news/2022-01-08-new-featured-artist-dgk)** (08/01/2022)
+  - (![][osu!]) [DGK - nx.](https://osu.ppy.sh/beatmapsets/1667057#osu/3403888) organisé par ![][flag_PL] [-Sylvari](https://osu.ppy.sh/users/3493804)
+- **[Boom Kitty](https://osu.ppy.sh/home/news/2022-01-22-new-featured-artist-boom-kitty)** (22/01/2022)
+  - (![][osu!]) [Boom Kitty - Any Other Way (feat. Ivy Marie)](https://osu.ppy.sh/beatmapsets/1673457#osu/3418230) organisé par ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342)
+- **[Annabel](https://osu.ppy.sh/home/news/2022-01-26-new-featured-artist-annabel)** (26/01/2022)
+  - (![][osu!]) [Annabel - pedalnote](https://osu.ppy.sh/beatmapsets/1669381#osu/3409173) organisé par ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
+  - (![][osu!]) [Annabel - little voice](https://osu.ppy.sh/beatmapsets/1619033#osu/3305650) organisé par ![][flag_RU] [PandaHero](https://osu.ppy.sh/users/1233255)
+  - (![][osu!]) [Annabel - Kareru](https://osu.ppy.sh/beatmapsets/1680958#osu/3434154) organisé par ![][flag_CH] [Erisu](https://osu.ppy.sh/users/12469536)
+  - (![][osu!]) [Annabel - lilac slumber (cosmic ver.)](https://osu.ppy.sh/beatmapsets/1569646#osu/3205344) organisé par ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!]) [Annabel - Transient](https://osu.ppy.sh/beatmapsets/1661304#osu/3391525) organisé par ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540)
+  - (![][osu!]) [Annabel - lilac slumber (cosmic ver.)](https://osu.ppy.sh/beatmapsets/1593278#osu/3254177) organisé par ![][flag_RU] [PandaHero](https://osu.ppy.sh/users/1233255)
+- **[Maduk](https://osu.ppy.sh/home/news/2022-01-29-new-featured-artist-maduk)** (29/01/2022)
+  - (![][osu!]) [Misun - Eli Eli (Maduk Remix)](https://osu.ppy.sh/beatmapsets/1654092#osu/3376247) organisé par ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342)
+  - (![][osu!]) [Maduk - Company (feat. Juul) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1667478#osu/3404781) organisé par ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033)
+  - (![][osu!]) [Maduk - Go (feat. Lachi) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1675558#osu/3422936) organisé par ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+
+### Février
+
+- **[HEAD PHONES PRESIDENT](https://osu.ppy.sh/home/news/2022-02-09-new-featured-artist-head-phones-president)** (09/02/2022)
+  - (![][osu!]) [HEAD PHONES PRESIDENT - Until I Die](https://osu.ppy.sh/beatmapsets/1692553#osu/3458537) organisé par ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
+- **[MisoilePunch](https://osu.ppy.sh/home/news/2022-02-12-new-featured-artist-misoilepunch)** (12/02/2022)
+  - (![][osu!]) [MisoilePunch ~Harumaki Soe~ - DisXloss](https://osu.ppy.sh/beatmapsets/1647720#osu/3363297) organisé par ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)
+- **[Good Kid](https://osu.ppy.sh/home/news/2022-02-16-new-featured-artist-good-kid)** (16/02/2022)
+  - (![][osu!]) [Good Kid - Alchemist](https://osu.ppy.sh/beatmapsets/1689430#osu/3452423) organisé par ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342)
+- **[Rabbit House](https://osu.ppy.sh/home/news/2022-02-23-new-featured-artist-rabbit-house)** (23/02/2022)
+  - (![][osu!catch]) [Rabbit House - Seculo Seculorum](https://osu.ppy.sh/beatmapsets/1599662#fruits/3267109) organisé par ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+- **[MisomyL](https://osu.ppy.sh/home/news/2022-02-26-new-featured-artist-misomyl)** (26/02/2022)
+  - (![][osu!]) [MisomyL - Amnehilesie](https://osu.ppy.sh/beatmapsets/1703921#osu/3482929) organisé par ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
+
+### Mars
+
+- **[City Girl](https://osu.ppy.sh/home/news/2022-03-05-new-featured-artist-city-girl)** (05/03/2022)
+  - (![][osu!]) [City Girl - L2M (feat. Kelsey Kuan)](https://osu.ppy.sh/beatmapsets/1668789#osu/3407969) organisé par ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+- **[EmoCosine](https://osu.ppy.sh/home/news/2022-03-09-new-featured-artist-emocosine)** (09/03/2022)
+  - (![][osu!]) [EmoCosine - Nekojarashi](https://osu.ppy.sh/beatmapsets/1710593#osu/3495348) organisé par ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992)
+- **[Raimukun](https://osu.ppy.sh/home/news/2022-03-12-new-featured-artist-raimukun)** (12/03/2022)
+  - (![][osu!catch]) [Raimukun - Firmament star](https://osu.ppy.sh/beatmapsets/1633703#fruits/3360065) organisé par ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+- **[Plum](https://osu.ppy.sh/home/news/2022-03-19-new-featured-artist-plum)** (19/03/2022)
+  - (![][osu!]) [Plum - Maelstrom](https://osu.ppy.sh/beatmapsets/1679690#osu/3493711) organisé par ![][flag_KR] [_Epreus](https://osu.ppy.sh/users/7342798)
+- **[my sound life](https://osu.ppy.sh/home/news/2022-03-30-new-featured-artist-my-sound-life)** (30/03/2022)
+  - (![][osu!]) [my sound life - omega](https://osu.ppy.sh/beatmapsets/1728309#osu/3538894) organisé par ![][flag_US] [Heroine](https://osu.ppy.sh/users/12727076)
+
+### Avril
+
+- **[in love with a ghost](https://osu.ppy.sh/home/news/2022-04-13-new-featured-artist-in-love-with-a-ghost)** (13/04/2022)
+  - (![][osu!]) [in love with a ghost - interdimensional portal leading to a cute place feat. snail's house](https://osu.ppy.sh/beatmapsets/1729796#osu/3535185) organisé par ![][flag_DK] [bongo](https://osu.ppy.sh/users/5312202)
+- **[Aethral](https://osu.ppy.sh/home/news/2022-04-20-new-featured-artist-aethral)** (20/04/2022)
+  - (![][osu!]) [Aethral - It's Boss Time, dude](https://osu.ppy.sh/beatmapsets/1724172#osu/3523788) organisé par ![][flag_DE] [PaRaDogi](https://osu.ppy.sh/users/2054596)
+- **[Mitsuki / RINYA](https://osu.ppy.sh/home/news/2022-04-30-new-featured-artist-mitsuki-rinya)** (30/04/2022)
+  - (![][osu!]) [Mitsuki - Eeliaas](https://osu.ppy.sh/beatmapsets/1736814#osu/3570727) organisé par ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+  - (![][osu!]) [Mitsuki - Eeliaas](https://osu.ppy.sh/beatmapsets/1737106#osu/3574730) organisé par ![][flag_US] [Ascended](https://osu.ppy.sh/users/4564285)
+  - (![][osu!catch]) [Mitsuki - Eeliaas](https://osu.ppy.sh/beatmapsets/1724385#fruits/3528111) organisé par ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+  - (![][osu!]) [Mitsuki - tesseract](https://osu.ppy.sh/beatmapsets/1750201#osu/3580568) organisé par ![][flag_PL] [-Sylvari](https://osu.ppy.sh/users/3493804)
+
+### Mai
+
+- **[Ardolf](https://osu.ppy.sh/home/news/2022-05-04-new-featured-artist-ardolf)** (04/05/2022)
+  - (![][osu!]) [Ardolf - Varcolac](https://osu.ppy.sh/beatmapsets/1750904#osu/3582059) organisé par ![][flag_TR] [Nymphe](https://osu.ppy.sh/users/10507407)
+
 ## Histoire
 
 Dès sa création, la Mappers' Guild s'est fixée comme objectif principal de "créer des packs de beatmaps promotionnels pour les Artistes Associés à venir". Cela s'est reflété dans le tout premier projet majeur de la Guilde, dans lequel les membres de la Guilde ont préparé et classé six beatmaps des [musiques MOtOLOiD sous licence](https://osu.ppy.sh/beatmaps/artists/19) bien avant [l'annonce de l'artiste correspondant](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
@@ -408,12 +532,16 @@ Comme la Guilde elle-même fonctionnait sur une entrée fermée, basée sur les 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
+[flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
 [flag_CZ]: /wiki/shared/flag/CZ.gif "République tchèque"
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonie"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
@@ -429,6 +557,7 @@ Comme la Guilde elle-même fonctionnait sur une entrée fermée, basée sur les 
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbie"

@@ -119,6 +119,11 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 - ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) VIVID / VVD
 
+#### SOUND VOLTEX EXCEED GEAR
+
+- ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
+
 ### Arcaea
 
 - ![](/wiki/shared/diff/normal-o.png?20211215) Past
@@ -163,6 +168,7 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 #### Cytus
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) Chaos
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Glitch / Crash
 
 #### Deemo
 
@@ -191,3 +197,4 @@ The following difficulty names are common alternatives and additions to the defa
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra: it can used as a substitute for Expert.
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: it can be used to represent a more difficult Expert.
 - ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: it can be used to represent a more difficult Inner Oni.
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: it can be used to represent a more difficult Overdose.
