@@ -139,6 +139,7 @@ This map will trip you up in excitement and pour a feeling of satisfaction when 
 ### Full Players' Pick voting results
 
 Check out each respective game mode's player voting results:
+
 - [osu!](https://osu.ppy.sh/community/contests/143)
 - [osu!taiko](https://osu.ppy.sh/community/contests/144)
 - [osu!catch](https://osu.ppy.sh/community/contests/145)
