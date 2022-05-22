@@ -212,7 +212,7 @@ See the [Pocket Picks sheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJ
 
 ### Final Round
 
-#### Day 17
+Saturday, 10 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -223,6 +223,8 @@ See the [Pocket Picks sheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJ
 
 The full results for this match can be found at this [link](https://osu.ppy.sh/community/matches/80587587).
 
+Sunday, 11 April 2021:
+
 | Players | Score | Outcome |
 | --: | :-: | :-- |
 | ![][flag_GB] Kingling | 4 |  |
@@ -231,13 +233,15 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 #### Grand Finals: Part 2
 
+Sunday, 11 April 2021:
+
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Voss** ![][flag_GB] | **9** | 6 | ![][flag_GB] Kingling | [#1](https://osu.ppy.sh/community/matches/80679009) | *Voss was eliminated* |
 
 ### Round 8
 
-#### Day 15
+Saturday, 3 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -246,7 +250,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 | **Kerantina** ![][flag_GB] | **7** | 1 | ![][flag_GB] Jemzsee | [#1](https://osu.ppy.sh/community/matches/79863112) |  |
 | **Malteser** ![][flag_GB] | **4** | 0 | ![][flag_GB] Chemistry | [#1](https://osu.ppy.sh/community/matches/79865788) | *Chemistry was eliminated* |
 
-#### Day 16
+Sunday, 4 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -256,7 +260,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 ### Round 7
 
-#### Day 13
+Saturday, 27 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -267,7 +271,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 | **Jemzsee** ![][flag_GB] | **0** | -1 | ![][flag_PH] LilyFlower | *forfeit* |
 | **Kerantina** ![][flag_GB] | **4** | **4** | ![][flag_GB] **Chemistry** | [#1](https://osu.ppy.sh/community/matches/79210112) |
 
-#### Day 14
+Sunday, 28 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -279,7 +283,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 ### Round 6
 
-#### Day 11
+Saturday, 20 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -291,7 +295,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 | **Mahmood** ![][flag_GB] | **4** | 3 | ![][flag_GB] Rinnu | [#1](https://osu.ppy.sh/community/matches/78587606) | *Rinnu was eliminated* |
 | **Best459** ![][flag_GB] | **5** | 3 | ![][flag_PH] LilyFlower | [#1](https://osu.ppy.sh/community/matches/78593326) |  |
 
-#### Day 12
+Sunday, 21 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -305,7 +309,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 ### Round 5
 
-#### Day 9
+Saturday, 13 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -319,7 +323,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 | **Zyphox** ![][flag_GB] | **6** | 1 | ![][flag_GB] Fwuffy | [#1](https://osu.ppy.sh/community/matches/77998980) | *Fwuffy was eliminated* |
 | **Best459** ![][flag_GB] | **4** | **4** | ![][flag_IE] **Ophiz** | [#1](https://osu.ppy.sh/community/matches/77978828) |  |
 
-#### Day 10
+Sunday, 14 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -334,7 +338,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 ### Round 4
 
-#### Day 7
+Saturday, 6 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -350,7 +354,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 | **Ophiz** ![][flag_IE] | **5** | 3 | ![][flag_GB] idealnettles | [#1](https://osu.ppy.sh/community/matches/77384104) |  |
 | **Chemistry** ![][flag_GB] | **8** | 0 | ![][flag_GB] HonourBound | [#1](https://osu.ppy.sh/community/matches/77393402) |  |
 
-#### Day 8
+Sunday, 7 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -368,7 +372,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 ### Round 3
 
-#### Day 5
+Saturday, 27 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -390,7 +394,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 ![][flag_GB] Mahmood had a bye so did not compete this day.
 
-#### Day 6
+Sunday, 28 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -413,7 +417,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 ### Round 2
 
-#### Day 3
+Saturday, 20 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -434,7 +438,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 | **Apo11o** ![][flag_GB] | **5** | 3 | ![][flag_IE] Xempus | [#1](https://osu.ppy.sh/community/matches/76274132) |
 | -Deeline ![][flag_GB] | 2 | **6** | ![][flag_GB] **Taiga Tiger** | [#1](https://osu.ppy.sh/community/matches/76232797) |
 
-#### Day 4
+Sunday, 21 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link | Outcome |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -457,7 +461,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 
 ### Round 1
 
-#### Day 1
+Saturday, 13 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -478,7 +482,7 @@ The full results for this match can be found at this [link](https://osu.ppy.sh/c
 | **-Deeline** ![][flag_GB] | **6** | 2 | ![][flag_IE] Xempus | [#1](https://osu.ppy.sh/community/matches/75696811) |
 | HonourBound ![][flag_GB] | 1 | **7** | ![][flag_GB] **Best459** | [#1](https://osu.ppy.sh/community/matches/75765948) |
 
-#### Day 2
+Sunday, 14 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
