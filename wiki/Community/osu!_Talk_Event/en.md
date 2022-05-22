@@ -5,6 +5,8 @@ tags:
 
 # osu! Talk Event
 
+![osu! Talk Event banner](img/banner.png)
+
 The **osu! Talk Event** is an event organised by osu! University where different people hold talks about various topics.
 
 Speakers hold their talks in a Stage channel on the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server). During the event, thread channels will be opened in the `#community-meetings` channel for discussion.
