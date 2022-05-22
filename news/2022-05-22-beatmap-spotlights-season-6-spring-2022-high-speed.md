@@ -81,7 +81,7 @@ And yes, the top diff still slaps *extremely* hard.
 #### Players' Pick
 
 [TUYU - Daemonisch [KTYN's Inner Oni]](https://osu.ppy.sh/beatmapsets/1444402#taiko/2983308), mapped by [KTYN](https://osu.ppy.sh/users/2250574)\
-*primarily suggested and described by [Axer](https://osu.ppy.sh/users/7299864)*
+*described and primarily suggested by [Axer](https://osu.ppy.sh/users/7299864)*
 
 Arriving at the demand of player's choice, we have KTYN's interpretation of TUYU's *Daemonisch*, hosted by certified TUYU enjoyer gaston_2199!
 
