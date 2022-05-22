@@ -60,8 +60,8 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1546120)
 - Livestream
-  - [Bilibili Stream (\[GB\]yobrevelc)](https://live.bilibili.com/22545296)
-  - [Bilibili Stream (aiyulu)](https://live.bilibili.com/10183)
+  - [Bilibili stream](https://live.bilibili.com/22545296) (![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
+  - [Bilibili stream](https://live.bilibili.com/10183) (![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617))
 - [Master sheet](https://docs.qq.com/sheet/DTWVZWk1MTFVLWllu)
 
 ## Participants
