@@ -24,6 +24,7 @@ no_native_review: true
 ## 企劃
 
 - [osu! 社群會議](/wiki/Community/osu!_community_meetings)
+- [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
 - [影片系列](/wiki/Community/Video_series)
   - [osu!academy](/wiki/Community/Video_series/osu!academy)
   - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
