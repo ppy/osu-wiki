@@ -35,13 +35,13 @@ The **GB Cup 2022 Spring** (***GBC 2022 Spring***) was a 3v3 captain draft-based
 | 4th place | ¥125 CNY |
 | 5-8th place | ¥75 CNY |
 
-Teams are also awarded a ¥25 CNY bonus for each regular stage win.
+Teams were also awarded a ¥25 CNY bonus for each regular stage win.
 
 ![](img/GBC-2022-Spring-badge-1st.png "GBC 2022 Spring winner badge") ![](img/GBC-2022-Spring-badge-2nd.png "GBC 2022 Spring 2nd place badge") ![](img/GBC-2022-Spring-badge-3rd.png "GBC 2022 Spring 3rd place badge")
 
 ## Organisation
 
-The GB Cup 2022 Spring is run by the GB Team and various community members.
+The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
