@@ -212,6 +212,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 | Country | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ![][flag_DZ] Algeria | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ![][flag_AR] Argentina | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_AU] Australia | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_AT] Austria | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] |
@@ -233,6 +234,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | ![][flag_HK] Hong Kong | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] |
 | ![][flag_HU] Hungary | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ![][flag_ID] Indonesia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_IL] Israel | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ![][flag_IT] Italy | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_JP] Japan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_MY] Malaysia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
@@ -251,8 +253,11 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | ![][flag_KR] South Korea | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_ES] Spain | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ![][flag_SE] Sweden | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ![][flag_CH] Switzerland | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ![][flag_TW] Taiwan | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_TH] Thailand | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
+| ![][flag_TR] Turkey | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ![][flag_UA] Ukraine | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ![][flag_GB] United Kingdom | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_US] United States | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ![][flag_UY] Uruguay | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
@@ -344,6 +349,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
+[flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
