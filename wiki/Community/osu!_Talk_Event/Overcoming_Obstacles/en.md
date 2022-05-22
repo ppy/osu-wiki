@@ -36,7 +36,7 @@ To participate as a speaker in a future iteration of the event, or recommend som
 
 ### Friday, May 20, 2022
 
-[Sign up for this event on Discord to be notified when it starts](https://discord.gg/z62bbJHA?event=976723460766187570)
+**[View the full VOD for this day of the event here](https://www.youtube.com/watch?v=dXwMiPBiQpk)**
 
 | Time (UTC) | Speaker | Title | VOD |
 | :-: | :-- | :-- | :-- |
@@ -47,19 +47,19 @@ To participate as a speaker in a future iteration of the event, or recommend som
 
 ### Saturday, May 21, 2022
 
-[Sign up for this event on Discord to be notified when it starts](https://discord.gg/z62bbJHA?event=976724758722924574)
+**[View the full VOD for this day of the event here](https://www.youtube.com/watch?v=YLaFZup2mFo)**
 
 | Time (UTC) | Speaker | Title | VOD |
 | :-: | :-- | :-- | :-- |
-| 11:00 | [IryN](https://osu.ppy.sh/users/17909384) | "Being hardstuck" |  |
-| 13:00 | [Axiqn](https://osu.ppy.sh/users/21130016) | "Focusing on weaknesses" |  |
-| 13:30 | [UserAlsoExists](https://osu.ppy.sh/users/19036931) | "The "play less" meta" |  |
-| 14:30 | [-Liability](https://osu.ppy.sh/users/12260184) | "Doubting yourself" |  |
-| 15:00 | [Astral52](https://osu.ppy.sh/users/11936432) | "Opening the mind to have fun: How to build a less toxic mentality" |  |
+| 11:00 | [IryN](https://osu.ppy.sh/users/17909384) | "Being hardstuck" | [#1](https://www.youtube.com/watch?v=jbKdUhsJKh8) |
+| 13:00 | [Axiqn](https://osu.ppy.sh/users/21130016) | "Focusing on weaknesses" | [#1](https://www.youtube.com/watch?v=pGBBxAM7QkU) |
+| 13:30 | [UserAlsoExists](https://osu.ppy.sh/users/19036931) | "The "play less" meta" | [#1](https://www.youtube.com/watch?v=qQvVtu19CnM) |
+| 14:30 | [-Liability](https://osu.ppy.sh/users/12260184) | "Doubting yourself" | [#1](https://www.youtube.com/watch?v=_dGxynP9HSs) |
+| 15:00 | [Astral52](https://osu.ppy.sh/users/11936432) | "Opening the mind to have fun: How to build a less toxic mentality" | [#1](https://www.youtube.com/watch?v=hJUwU8YLUUg) |
 
 ### Sunday, May 22, 2022
 
-[Sign up for this event on Discord to be notified when it starts](https://discord.gg/z62bbJHA?event=976725279126982656)
+**[Sign up for this event on Discord to be notified when it starts](https://discord.gg/z62bbJHA?event=976725279126982656)**
 
 | Time (UTC) | Speaker | Title | VOD |
 | :-: | :-- | :-- | :-- |
