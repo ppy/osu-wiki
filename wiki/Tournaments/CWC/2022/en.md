@@ -177,7 +177,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 Qualifier results:
 
 | Seed | Country | MAX% Sum |
-| :-: | :-- | :-: |
+| :-: | :-- | :-- |
 | #1 | ![][flag_CN] China | 8.888 | 
 | #2 | ![][flag_KR] South Korea | 8.795 | 
 | #3 | ![][flag_US] United States | 8.787 | 
