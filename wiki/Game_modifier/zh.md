@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
  - mod
  - game modifier
@@ -21,7 +20,7 @@ tags:
 
 # 游戏模组 (Mods)
 
-*参见 [Mod（消歧义页）](/wiki/Disambiguation/Mod).*
+*对于更多义项，参见 [Mod（消歧义页）](/wiki/Disambiguation/Mod).*
 
 ![模组选择界面](img/mod-selection-screen.jpg "不同游戏模式内模组选择界面的对照图，左上为 osu!，右上为 osu!taiko，左下为 osu!catch，右下为 osu!mania。")
 
@@ -53,8 +52,6 @@ tags:
 - [Hidden (HD)](/wiki/Game_modifier/Hidden) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
   - [Fade In (FI)](/wiki/Game_modifier/Fade_In) ![][osu!mania]
 - [Flashlight (FL)](/wiki/Game_modifier/Flashlight) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-
-### Special
 
 ### 特殊
 
