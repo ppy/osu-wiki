@@ -148,7 +148,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
   1. [Rigel Theatre - Maple Town Memories (F D Flourite) \[Maple Story\]](https://osu.ppy.sh/beatmapsets/1769594#fruits/3622419)
   2. [Nardis - HAPPY (-PC) \[Yokes' Insane: OVERJOYED\]](https://osu.ppy.sh/beatmapsets/790841#fruits/2085630)
 - Tiebreaker
-  1. [La priere - Sore wa Sekai o Koete (Yumeno Himiko) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1769605#fruits/3622443)
+  1. **[La priere - Sore wa Sekai o Koete (Yumeno Himiko) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1769605#fruits/3622443)**
 
 ### Qualifiers
 
