@@ -214,7 +214,7 @@ Qualifier results:
 | #34 | ![][flag_NZ] New Zealand | 5.584 |
 | #35 | ![][flag_PH] Philippines | 5.286 |
 | #36 | ![][flag_DZ] Algeria | 4.722 |
-| #37 | ![][flag_CH] Switzerland | 4.452 | 
+| #37 | ![][flag_CH] Switzerland | 4.452 |
 
 ## Ruleset
 
