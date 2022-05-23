@@ -69,7 +69,8 @@ With outstandingly exciting pattern choice and a difficulty that is comfortable 
 #### Curators' Pick
 
 [mafumafu - Hello Dystopia [Collapsing Reality]](https://osu.ppy.sh/beatmapsets/809048#taiko/1697683), mapped by [JarvisGaming](https://osu.ppy.sh/users/8601048)\
-*described and primarily suggested by [Axer](https://osu.ppy.sh/users/7299864)*
+*primarily suggested by Nepuri*\
+*described by [Axer](https://osu.ppy.sh/users/7299864)*
 
 Coming in hot this season's osu!taiko Spotlights, we have JarvisGaming's rendition of mafumafu's *Hello Dystopia*!
 
@@ -80,8 +81,7 @@ And yes, the top diff still slaps *extremely* hard.
 #### Players' Pick
 
 [TUYU - Daemonisch [KTYN's Inner Oni]](https://osu.ppy.sh/beatmapsets/1444402#taiko/2983308), mapped by [KTYN](https://osu.ppy.sh/users/2250574)\
-*primarily suggested by Nepuri*\
-*described by [Axer](https://osu.ppy.sh/users/7299864)*
+*described and primarily suggested by [Axer](https://osu.ppy.sh/users/7299864)*
 
 Arriving at the demand of player's choice, we have KTYN's interpretation of TUYU's *Daemonisch*, hosted by certified TUYU enjoyer gaston_2199!
 
@@ -117,7 +117,7 @@ Maybe that was spooky enough after all.
 #### Curators' Pick
 
 [Camellia - dreamless wanderer [flying in the void of deep-dream]](https://osu.ppy.sh/beatmapsets/1580929#mania/3228051), mapped by [paradoxus_](https://osu.ppy.sh/users/11185275)\
-*described and primarily suggested by [lepnai](https://osu.ppy.sh/users/5314573)*
+*described and primarily suggested by [lenpai](https://osu.ppy.sh/users/5314573)*
 
 Rarely do we come across a map that provides bold concepts with nuanced gameplay elements to the table.
 
