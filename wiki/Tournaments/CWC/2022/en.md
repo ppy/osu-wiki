@@ -174,8 +174,6 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8/edit?rm=minimal).
 
-Qualifier results:
-
 | Seed | Country | MAX% Sum |
 | :-: | :-- | :-- |
 | #1 | ![][flag_CN] China | 8.888 |
