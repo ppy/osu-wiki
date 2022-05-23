@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Distance Snap
 
 ![An example of what exactly beat spacing does.](img/Beatspacing.jpg "An example of what exactly beat spacing does.")
