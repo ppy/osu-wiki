@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Distance Snap
 
 ![Beispiel](img/Beatspacing.jpg "Beispiel")
