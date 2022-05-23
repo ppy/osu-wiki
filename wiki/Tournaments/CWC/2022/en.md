@@ -177,43 +177,45 @@ The final standings for the Qualifier stage can be found in the following [sprea
 Qualifier results:
 
 | Seed | Country | MAX% Sum |
+<<<<<<< HEAD
 | :-: | :-- | :-- |
-| #1 | ![][flag_CN] China | 8.888 | 
-| #2 | ![][flag_KR] South Korea | 8.795 | 
-| #3 | ![][flag_US] United States | 8.787 | 
-| #4 | ![][flag_ID] Indonesia | 8.755 | 
-| #5 | ![][flag_CL] Chile | 8.69 | 
-| #6 | ![][flag_CA] Canada | 8.688 | 
-| #7 | ![][flag_TW] Taiwan | 8.629 | 
-| #8 | ![][flag_FR] France | 8.608 | 
-| #9 | ![][flag_IT] Italy | 8.556 | 
-| #10 | ![][flag_MX] Mexico | 8.494 | 
-| #11 | ![][flag_RU] Russian Federation | 8.478 | 
-| #12 | ![][flag_AU] Australia | 8.261 | 
-| #13 | ![][flag_SG] Singapore | 8.253 | 
-| #14 | ![][flag_BE] Belgium | 8.222 | 
-| #15 | ![][flag_DE] Germany | 8.189 | 
-| #16 | ![][flag_BR] Brazil | 8.059 | 
-| #17 | ![][flag_JP] Japan | 7.934 | 
-| #18 | ![][flag_FI] Finland | 7.882 | 
-| #19 | ![][flag_PL] Poland | 7.847 | 
-| #20 | ![][flag_AR] Argentina | 7.648 | 
-| #21 | ![][flag_VN] Vietnam | 7.574 | 
-| #22 | ![][flag_NO] Norway | 7.538 | 
-| #23 | ![][flag_SE] Sweden | 7.372 | 
-| #24 | ![][flag_NL] Netherlands | 7.302 | 
-| #25 | ![][flag_TH] Thailand | 7.285 | 
-| #26 | ![][flag_TR] Turkey | 7.274 | 
-| #27 | ![][flag_GB] United Kingdom | 7.199 | 
-| #28 | ![][flag_CO] Colombia | 7.011 | 
-| #29 | ![][flag_MY] Malaysia | 6.779 | 
-| #30 | ![][flag_UA] Ukraine | 6.588 | 
-| #31 | ![][flag_PT] Portugal | 6.445 | 
-| #32 | ![][flag_IL] Israel | 6.173 | 
-| #33 | ![][flag_ES] Spain | 5.982 | 
-| #34 | ![][flag_NZ] New Zealand | 5.584 | 
-| #35 | ![][flag_PH] Philippines | 5.286 | 
-| #36 | ![][flag_DZ] Algeria | 4.722 | 
+| #1 | ![][flag_CN] China | 8.888 |
+| #2 | ![][flag_KR] South Korea | 8.795 |
+| #3 | ![][flag_US] United States | 8.787 |
+| #4 | ![][flag_ID] Indonesia | 8.755 |
+| #5 | ![][flag_CL] Chile | 8.69 |
+| #6 | ![][flag_CA] Canada | 8.688 |
+| #7 | ![][flag_TW] Taiwan | 8.629 |
+| #8 | ![][flag_FR] France | 8.608 |
+| #9 | ![][flag_IT] Italy | 8.556 |
+| #10 | ![][flag_MX] Mexico | 8.494 |
+| #11 | ![][flag_RU] Russian Federation | 8.478 |
+| #12 | ![][flag_AU] Australia | 8.261 |
+| #13 | ![][flag_SG] Singapore | 8.253 |
+| #14 | ![][flag_BE] Belgium | 8.222 |
+| #15 | ![][flag_DE] Germany | 8.189 |
+| #16 | ![][flag_BR] Brazil | 8.059 |
+| #17 | ![][flag_JP] Japan | 7.934 |
+| #18 | ![][flag_FI] Finland | 7.882 |
+| #19 | ![][flag_PL] Poland | 7.847 |
+| #20 | ![][flag_AR] Argentina | 7.648 |
+| #21 | ![][flag_VN] Vietnam | 7.574 |
+| #22 | ![][flag_NO] Norway | 7.538 |
+| #23 | ![][flag_SE] Sweden | 7.372 |
+| #24 | ![][flag_NL] Netherlands | 7.302 |
+| #25 | ![][flag_TH] Thailand | 7.285 |
+| #26 | ![][flag_TR] Turkey | 7.274 |
+| #27 | ![][flag_GB] United Kingdom | 7.199 |
+| #28 | ![][flag_CO] Colombia | 7.011 |
+| #29 | ![][flag_MY] Malaysia | 6.779 |
+| #30 | ![][flag_UA] Ukraine | 6.588 |
+| #31 | ![][flag_PT] Portugal | 6.445 |
+| #32 | ![][flag_IL] Israel | 6.173 |
+| #33 | ![][flag_ES] Spain | 5.982 |
+| #34 | ![][flag_NZ] New Zealand | 5.584 |
+| #35 | ![][flag_PH] Philippines | 5.286 |
+| #36 | ![][flag_DZ] Algeria | 4.722 |
+>>>>>>> 940bec688ffa472ecf60d0280cdac7c77ae00c2f
 | #37 | ![][flag_CH] Switzerland | 4.452 | 
 
 ## Ruleset
