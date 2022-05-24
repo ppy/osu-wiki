@@ -206,6 +206,21 @@ We are considering extra 'score reset' purchases from the osu!store for the trul
 
 This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is against the [rules](/wiki/Rules#community-rules), and we will disable any such accounts that are brought to our attention.
 
+### I no longer want to keep playing, but I don't want my account to be deleted! 
+
+*For more information on what you can and cannot do with your account see: [your rights and controls](/wiki/Legal/Privacy#your-rights-and-control).*
+
+Any user can request their account to be **locked** by sending an email to [privacy@ppy.sh](mailto:privacy@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), or [support@ppy.sh](mailto:support@ppy.sh). 
+A **Locked** status on your account means that the only information that is going to change is going to be the account's associated password. This password is going to be known to only [osu!team](wiki/en/People/The_Team) and no one else. 
+
+All information from that locked account will still be publically visible. The only change done to the account is that the original owner of the account will not have access to it until the original account holder would like the account back to them.  
+
+When the user would like to have their account back, they can simply send an email to one of the emails previously listed above with the intent to unlock their account.  
+
+*Caution: this is not to be abused. Locking an account should be one of the last resorts for those players that don't want to leave osu! forever, but **need**  dedicated time away from osu! for a legitimate reason.*
+
+*Note: If you do not have a valid reason to lock your account you can reset your password to random words or letters you will never remember and log out. This is essentially the same process as locking. Once you are ready to come back into the osu!community, then you can send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) requesting the password to be reset or changed to the password you are going to use.*
+
 ### Can I delete my account?
 
 *For more information on account deletion, see: [your rights and controls](/wiki/Legal/Privacy#your-rights-and-control).*
