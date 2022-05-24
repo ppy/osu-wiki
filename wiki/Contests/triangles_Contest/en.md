@@ -7,8 +7,7 @@ Submissions to this contest include:
 - A triangle-themed beatmap spread...
     - following the [ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_Criteria) 
     - with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert
-- A triangle-themed storyboard...
-    - with all storyboarded content under ~1 MB total (including the `.osb` file and difficulty-specific storyboarding).
+- A triangle-themed storyboard
 - A team of 2-5 participants
 
 ## Links

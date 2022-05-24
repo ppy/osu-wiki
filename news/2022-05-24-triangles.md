@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "triangles"
-date: 2022-05-24 19:00:00 +0000
+date: 2022-05-24 23:00:00 +0000
 ---
 
 Mappers and storyboarders unite in osu!'s newest contest: **triangles**!
@@ -11,7 +11,7 @@ Mappers and storyboarders unite in osu!'s newest contest: **triangles**!
 [**lazer**](https://www.youtube.com/watch?v=ut_SOreClcc) is the next major update to osu!. If you [try it for yourself](https://github.com/ppy/osu#running-osu), you'll notice that osu!'s classic theme song has been replaced by *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*:
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/2/Songs/cYsmix%20-%20triangles.mp3" type="audio/mpeg">
 </audio>
 
 **triangles** is a mapping and storyboarding contest using lazer's theme song, and the winning submission will be **bundled with all new installations of lazer** (along with other cool prizes!).
@@ -26,10 +26,8 @@ To participate in this contest, you need a **team of 2-5 mappers/storyboarders**
 
 - A **triangle-themed** beatmap spread...
     - following the [ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_Criteria) 
-    - with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert.
-- A **triangle-themed** storyboard...
-    - with all image assets **under ~x MB total**.
-    - with all storyboard files **under ~y MB total** (including the `.osb` file and difficulty-specific storyboarding). The storyboard may load on lazer's startup, so it should be fairly lightweight!
+    - with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert
+- A **triangle-themed** storyboard
 
 **Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).** Once confirmed, your team will be published on the [*triangles* contest wiki page](/wiki/Contests/triangles_Contest)!
 
@@ -110,7 +108,7 @@ In case one team wins multiple categories, we'll combine their profile badges ac
 Surprising absolutely nobody, this contest has RULES:
 
 - **Submission must including the following:**
-    - A beatmap spread of *cYsmix - triangles* with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert. [Download the beatmap template here!](LINK)
+    - A beatmap spread of *cYsmix - triangles* with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert. [Download the beatmap template here!](https://assets.ppy.sh/artists/2/Songs/cYsmix%20-%20triangles.osz)
     - A storyboard with all storyboarded content **under ~1 MB total** (including the `.osb` file and difficulty-specific storyboarding).
 - **Submission must be in `.osz` format.**
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
