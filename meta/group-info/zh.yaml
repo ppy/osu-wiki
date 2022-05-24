@@ -3,8 +3,8 @@ alumni:
   roles:
     academy: osu!academy 创立者
     admin: 管理员
-    chat: 聊天室管理员
-    dev: osu! 开发者
+    chat: 聊天管理员
+    dev: osu! 开发团队
     media: osu!media 创立者
     support: 支持团队
     tournaments: 锦标赛管理员
@@ -16,8 +16,8 @@ gmt:
     forum: 论坛管理员
     team: 官方团队
     dev: osu! 开发团队
-    player: 玩家支持
-    support: 技术支持
+    player: 玩家支持团队
+    support: 技术支持团队
     tournaments: 锦标赛管理员
     wiki: wiki 管理员
     mapping: 作图、摸图社群管理员
