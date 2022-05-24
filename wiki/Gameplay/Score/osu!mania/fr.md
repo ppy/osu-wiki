@@ -28,7 +28,7 @@ MaxScore = 1 000 000
 ModMultiplier = Le multiplicateur de score des mods sélectionnés (diminution de difficulté et/ou nK)
 ModDivider = Le réducteur de punition des mods sélectionnés (augmentation de difficulté)
 
-Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
+Jugement  HitValue  HitBonusValue  HitBonus  HitPunishment
    MAX       320          32            2
    300       300          32            1
    200       200          16                        8
