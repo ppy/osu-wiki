@@ -6,7 +6,7 @@ Submissions to this contest include:
 
 - A triangle-themed beatmap spread...
   - of the song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*
-  - following the [ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_Criteria) 
+  - following the [ranking criteria](/wiki/Ranking_Criteria) 
   - with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert
 - A triangle-themed storyboard
 - A team of 2-5 participants
