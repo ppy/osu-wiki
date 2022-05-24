@@ -110,7 +110,7 @@ Du kannst das Spiel ebenfalls zu einem Update zwingen, indem du eine Datei `help
 
 Falls du diesen Fehler beim Starten von osu! oder seinem Aktualisierungsprogramm siehst, heißt das, dass du wichtige Systemschriftarten gelöscht oder anderweitig verloren hast, die mit Windows mitgeliefert werden. Diese Schriftarten werden überall im Windows-Betriebssystem verwendet. Somit kannst du also mit anderen Problemen wie falschen Schriftarten, fehlendem Text und anderen App-Abstürzen in Windows rechnen.
 
-Hier ist eine Sammlung gängiger Schriftarten, die in verschiedenen Windows-Versionen und im Internet benutzt werden und die dir helfen soll:
+Hier ist eine Sammlung gängiger Schriftarten, die in verschiedenen Windows-Versionen und im Internet benutzt werden, die dir helfen sollten:
 
 - [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (insbesondere Arial, Times New Roman, Trebuchet MS und Verdana)
 - [Tahoma](https://freefontsfamily.com/tahoma-font-free)
@@ -257,7 +257,7 @@ Prüfe in der Songauswahl, in der linken, oberen Ecke des Bildschirms, auf etwai
 
 ![](img/correct-map-status-DE.png "So sollte es aussehen")
 
-Das Spielen mit der `globalen Rangliste` und nicht mit der lokalen Rangliste kann helfen, das für jede einzelne Beatmap zu verhindern. Wenn eine große Anzahl deiner Beatmaps, oder alle, fehlen/inkorrekte Status haben, versuche, die Neuerstellung der Beatmap-Datenbank zu erzwingen. Wie man das ungefährlich machen kann, erfährst du in der Sektion "[Einige meiner Beatmaps fehlen!](#einige-meiner-beatmaps-fehlen!)". Nachdem du dies getan hast, kann es eine Weile dauern, bis alle Beatmaps wieder ihren richtigen Status haben.
+Das Spielen mit der `globalen Rangliste` und nicht mit der lokalen Rangliste kann helfen, das für jede einzelne Beatmap zu verhindern. Wenn eine große Anzahl deiner Beatmaps, oder alle, fehlende/inkorrekte Status haben, versuche, die Neuerstellung der Beatmap-Datenbank zu erzwingen. Wie man das ungefährlich machen kann, erfährst du in der Sektion "[Einige meiner Beatmaps fehlen!](#einige-meiner-beatmaps-fehlen!)". Nachdem du dies getan hast, kann es eine Weile dauern, bis alle Beatmaps wieder ihren richtigen Status haben.
 
 #### Sind die Server zur Einreichung von Scores in Betrieb?
 
@@ -265,7 +265,7 @@ Das Spielen mit der `globalen Rangliste` und nicht mit der lokalen Rangliste kan
 
 Falls die Server offline sind, schließe osu! nicht, bis wir die Probleme gelöst haben und die Server wieder aktiv sind. Das Spiel wird bis zu eine Stunde lang versuchen, deinen Score erneut einzureichen, bevor es aufgibt.
 
-### Kannst du einen Score, den ich erreicht habe, für mich hochladen?
+### Könnt Ihr einen Score, den ich erreicht habe, für mich hochladen?
 
 **Leider können wir keine Scores auf Anfrage hochladen.**
 
@@ -464,9 +464,9 @@ Bei den meisten Wacom-Tablets wird das via dem Tab `Mapping` der Applikation `Wa
 
 Du musst den Hersteller deines Tablets fragen, um herauszufinden, wie der Tablet-Bereich für dein spezifisches Peripheriegerät eingestellt werden kann.
 
-Alle Tablets der Marke osu! unterstützen Raw Input standardmäßig und die Empfindlichkeit kann dort leicht sowie spontan durch die Einstellung  Raw Input im Spiel und den Schieberegler für die Mausempfindlichkeit angepasst werden.
+Alle Tablets der Marke osu! unterstützen Raw Input standardmäßig und die Empfindlichkeit kann dort leicht sowie spontan durch die Einstellung Raw Input im Spiel und den Schieberegler für die Mausempfindlichkeit angepasst werden.
 
-### Ich erlebe Lag-Spitzen oder Screen Tearing während dem Spielen!
+### Ich erlebe Lag-Spitzen oder Stottern während dem Spielen!
 
 **Es gibt viele Gründe, warum das Spiel inkonsistent arbeitet, von Programmen auf deinem Computer, zu veralteten Treibern oder dass einfach einige Einstellungen zu hoch sind.**
 
@@ -506,7 +506,7 @@ Eine einfache Lösung ist, zu versuchen, deinen USB-Hub kurz abzustecken. Wenn d
 
 #### Friert dein Spiel nur für einen Moment oder so ein?
 
-**Manchmal können Hintergrundprozesse oder andere Applikationen auf deinem Computer können große Anfragen nach Ressourcen auf einmal senden, was deine Maschine in Schwierigkeiten bringt.**
+**Manchmal können Hintergrundprozesse oder andere Applikationen auf deinem Computer große Anfragen nach Ressourcen auf einmal senden, was deine Maschine in Schwierigkeiten bringt.**
 
 Das erledigt sich normalerweise von selbst, nachdem alles Unwesentliche vor dem Spielen von osu! geschlossen wurde. Torrenting-Software ist ein Hauptverursacher dafür, insbesondere wenn sie Speicherplatz mit dem Laufwerk teilt, auf dem osu! installiert ist.
 
@@ -518,4 +518,4 @@ Falls du viele Beatmaps hast, dann warte bitte mindestens 10 bis 15 Minuten, bev
 
 Wenn das nichts hilft, dann kann ein Neustart manchmal helfen.
 
-**Solltest du immer noch Lag-Spitzen oder Screen Tearing während dem Spielen haben, siehe dir den [Leitfaden zur Fehlerbehebung bei Leistungsproblemen](/wiki/Performance_troubleshooting) für mehr verwandte Probleme und ihre Lösungen an.**
+**Solltest du immer noch Lag-Spitzen oder Stottern während des Spielens haben, siehe dir den [Leitfaden zur Fehlerbehebung bei Leistungsproblemen](/wiki/Performance_troubleshooting) für mehr verwandte Probleme und ihre Lösungen an.**
