@@ -9,7 +9,7 @@ tags:
 
 L'[équipe d'osu!](/wiki/People/The_Team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois gérés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
 
-Cet article a été mis à jour le 9 janvier 2022. Pour toute question ou clarification, veuillez consulter le canal `#tournaments` sur le serveur Discord [osu!dev](https://discord.com/invite/ppy) ou envoyer un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Cet article a été mis à jour le 9 janvier 2022. Pour toute question ou clarification, veuillez consulter le salon textuel `#tournaments` sur le serveur Discord [osu!dev](https://discord.com/invite/ppy) ou envoyer un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Avantages
 
@@ -86,7 +86,7 @@ Une fois le tournoi terminé, les organisateurs du tournoi devront envoyer les �
 
 Les organisateurs de tournois doivent veiller à ce que leurs tournois se déroulent sans heurts et avec le moins de perturbations possible.
 
-Les utilisateurs sous le coup d'un ban des tournois active sont censés révéler leur statut de ban de tournoi à tout tournoi supporté officiellement auquel ils ont l'intention de participer. Ils peuvent être engagés en tant qu'[assistants](#what-is-considered-staff) à la discrétion de l'hôte, mais nous encourageons une réflexion approfondie sur de tels choix car ces individus ont déjà enfreint les règles une fois (ou plus). Ils ne peuvent pas agir en tant que [staff](#what-is-considered-staff) À MOINS que l'hôte ne demande une exemption pour eux lorsqu'il envoie sa demande initiale de support. L'équipe de support aux comptes évaluera ensuite ces demandes au cas par cas en tenant compte de l'historique de l'utilisateur.
+Les utilisateurs sous le coup d'un ban des tournois actif sont censés révéler leur statut de ban de tournoi à tout tournoi supporté officiellement auquel ils ont l'intention de participer. Ils peuvent être engagés en tant qu'[assistants](#what-is-considered-staff) à la discrétion de l'hôte, mais nous encourageons une réflexion approfondie sur de tels choix car ces individus ont déjà enfreint les règles une fois (ou plus). Ils ne peuvent pas agir en tant que [staff](#what-is-considered-staff) À MOINS que l'hôte ne demande une exemption pour eux lorsqu'il envoie sa demande initiale de support. L'équipe de support aux comptes évaluera ensuite ces demandes au cas par cas en tenant compte de l'historique de l'utilisateur.
 
 ### Joueurs
 
@@ -188,7 +188,7 @@ Nous avons connu des cas où des organisateurs peu scrupuleux ont organisé des 
 
 ### Un joueur qui a été éliminé de mon tournoi peut-il rejoindre le staff après coup et ne pas causer de problèmes ? {#joueur-membre-du-staff}
 
-Non. Les joueurs qui ont été éliminés du tournoi/concours ne peuvent pas être recrutés en tant que staff ou aider à l'organisation, à la seule exception de la mise en place de replays pour les showcases mappool. Ils peuvent toutefois être recrutés en tant qu'assistants.
+Non. Les joueurs qui ont été éliminés du tournoi/concours ne peuvent pas être recrutés en tant que staff ou aider à l'organisation, à la seule exception de la mise en place de replays pour les showcases de mappool. Ils peuvent toutefois être recrutés en tant qu'assistants.
 
 ### Si un utilisateur n'a pas encore joué de match, peut-il rejoindre le staff ? {#pas-de-participation-staff}
 
