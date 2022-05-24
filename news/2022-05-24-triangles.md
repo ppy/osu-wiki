@@ -25,9 +25,9 @@ There's a lot to explain. Let's dive in.
 To participate in this contest, you need a **team of 2-5 mappers/storyboarders** to create:
 
 - A **triangle-themed** beatmap spread...
-    - of the song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*
-    - following the [ranking criteria](/wiki/Ranking_Criteria) 
-    - with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert
+  - of the song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*
+  - following the [ranking criteria](/wiki/Ranking_Criteria) 
+  - with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert
 - A **triangle-themed** storyboard
 
 **Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).** Once confirmed, your team will be published on the [*triangles* contest wiki page](/wiki/Contests/triangles_Contest)!
@@ -68,13 +68,13 @@ Prizes will be awarded to all members of the highest scoring team in each catego
 This category is based on how members of both Mapper and Storyboarder panels evaluate the full beatmap package.
 
 - **Runner-up:**
-    - 6 months of osu!supporter
-    - *Overall runner-up* profile badge
+  - 6 months of osu!supporter
+  - *Overall runner-up* profile badge
 - **Winner:**
-    - 12 months of osu!supporter
-    - *Overall winner* profile badge
-    - *Elite Mapper*/*Elite Storyboarder* user titles
-    - Submission bundled with new lazer installations (after reaching Ranked status)
+  - 12 months of osu!supporter
+  - *Overall winner* profile badge
+  - *Elite Mapper*/*Elite Storyboarder* user titles
+  - Submission bundled with new lazer installations (after reaching Ranked status)
 
 ![Overall runner-up profile badge](/wiki/shared/news/2022-05-24-triangles/overallrunnerup@2x.png)
 
@@ -109,14 +109,14 @@ In case one team wins multiple categories, we'll combine their profile badges ac
 Surprising absolutely nobody, this contest has RULES:
 
 - **Submission must including the following:**
-    - A beatmap spread of *cYsmix - triangles* with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert. [Download the beatmap template here!](https://assets.ppy.sh/artists/2/Songs/cYsmix%20-%20triangles.osz)
-    - A storyboard with all storyboarded content **under ~1 MB total** (including the `.osb` file and difficulty-specific storyboarding).
+  - A beatmap spread of *cYsmix - triangles* with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert. [Download the beatmap template here!](https://assets.ppy.sh/artists/2/Songs/cYsmix%20-%20triangles.osz)
+  - A storyboard with all storyboarded content **under ~1 MB total** (including the `.osb` file and difficulty-specific storyboarding).
 - **Submission must be in `.osz` format.**
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
 - **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).**
-    - If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418).
-    - Teams must have 2-5 members.
+  - If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418).
+  - Teams must have 2-5 members.
 - **Submissions must not be publicly revealed until after the judging phase ends.**
 - **Submissions must not be Qualified until after the community vote ends.**
 
