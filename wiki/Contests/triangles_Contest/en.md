@@ -35,14 +35,18 @@ Submissions to this contest include:
 
 Contest judging will be handled by two panels of mappers and storyboarders. Because each group has its own specialty, the highest scoring team in each group will earn a separate prize.
 
-- **Community vote** (a player must play all difficulties of a **triangles** lazer playlist in order to vote)
-  - Prizes
-    - **Runner-up:** 3 months of osu!supporter
-    - **Winner:** 6 months of osu!supporter + *Community Pick* profile badge
+### Community vote
+
+- A player must play all difficulties of a **triangles** lazer playlist in order to vote)
+- Prizes
+  - **Runner-up:** 3 months of osu!supporter
+  - **Winner:** 6 months of osu!supporter + *Community Pick* profile badge
 
 ![Community pick profile badge](/wiki/shared/news/2022-05-24-triangles/community@2x.png)
 
-- **Mapper panel** (focusing on mapping content)
+### Mapper panel
+
+- Focused on mapping content
   - Prizes
     - **Runner-up:** 3 months of osu!supporter 
     - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
@@ -50,21 +54,25 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
 
 ![Mappers' Pick profile badge](/wiki/shared/news/2022-05-24-triangles/mappers@2x.png)
 
-- **Storyboarder panel** (focusing on storyboard content)
-  - Prizes
-    - **Runner-up:** 3 months of osu!supporter 
-    - **Winner:**  6 months of osu!supporter + *Storyboarders' Pick* profile badge
-  - Panelists: TBD
+### Storyboarder panel
+
+- Focused on storyboard content
+- Prizes
+  - **Runner-up:** 3 months of osu!supporter 
+  - **Winner:**  6 months of osu!supporter + *Storyboarders' Pick* profile badge
+- Panelists: TBD
 
 ![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-24-triangles/storyboarders@2x.png)
 
-- **Overall prizes** (combination of both panels focusing on all areas)
-  - **Runner-up:** 3 months of osu!supporter + *Overall runner-up* profile badge
-  - **Winner:**
-    - 6 months of osu!supporter
-    - *Overall winner* profile badge
-    - *Elite Mapper*/*Elite Storyboarder* user titles
-    - Submission bundled with new lazer installations (after reaching Ranked status)
+### Overall prizes
+
+- Combination of both panels focused on all areas of the submission
+- **Runner-up:** 3 months of osu!supporter + *Overall runner-up* profile badge
+- **Winner:**
+  - 6 months of osu!supporter
+  - *Overall winner* profile badge
+  - *Elite Mapper*/*Elite Storyboarder* user titles
+  - Submission bundled with new lazer installations (after reaching Ranked status)
 
 ![Overall runner-up profile badge](/wiki/shared/news/2022-05-24-triangles/overallrunnerup@2x.png)
 
@@ -82,13 +90,13 @@ Players are also eligible for prizes if they participate in the lazer playlists:
 ## Rules
 
 - **Submission must including the following:**
-    - A beatmap spread of *cYsmix - triangles* with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert.
-    - A storyboard with all storyboarded content under ~1 MB total (including the `.osb` file and difficulty-specific storyboarding).
+  - A beatmap spread of *cYsmix - triangles* with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert.
+  - A storyboard with all storyboarded content under ~1 MB total (including the `.osb` file and difficulty-specific storyboarding).
 - **Submission must be in `.osz` format.**
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
 - **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).**
-    - If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418).
-    - Teams must have 2-5 members.
+  - If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418).
+  - Teams must have 2-5 members.
 - **Submissions must not be publicly revealed until after the judging phase ends.**
 - **Submissions must not be Qualified until after the community vote ends.**
