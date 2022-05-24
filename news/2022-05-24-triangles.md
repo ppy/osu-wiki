@@ -18,8 +18,6 @@ Mappers and storyboarders unite in osu!'s newest contest: **triangles**!
 
 There's a lot to explain. Let's dive in.
 
----
-
 ## Teams
 
 To participate in this contest, you need a **team of 2-5 mappers/storyboarders** to create:
@@ -39,11 +37,11 @@ Unlike last year's [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-
 - **May 24 - July 18:** Contest is open for submissions [here](https://osu.ppy.sh/community/contests/147)!
 - **July 19 - July 31:** Submissions are evaluated by a team of judges.
 - **August 01 - August 15:** Top beatmaps are published for community vote and lazer playlists.
-- **August 20:** Live stream announcement of contest results!
+- **August 20:** Livestream announcement of contest results!
 
 ## Prizes
 
-Following the 3-sided theme of **triangles**, we have prizes for 3 types of people on osu!: **mappers**, **storyboarders**, and **competitive players!**
+Following the 3-sided theme of **triangles**, we have prizes for 3 types of people on osu!: **mappers**, **storyboarders**, and **competitive players**!
 
 **Mappers** and **storyboarders** are in charge of judging. Each of these groups will evaluate their area of expertise AND the overall beatmap package — all while considering the contest's **triangle** theme.
 
@@ -73,7 +71,7 @@ This category is based on how members of both Mapper and Storyboarder panels eva
 - **Winner:**
   - 12 months of osu!supporter
   - *Overall winner* profile badge
-  - *Elite Mapper*/*Elite Storyboarder* user titles
+  - **Elite Mapper** and **Elite Storyboarder** user titles
   - Submission bundled with new lazer installations (after reaching Ranked status)
 
 ![Overall runner-up profile badge](/wiki/shared/news/2022-05-24-triangles/overallrunnerup@2x.png)
@@ -94,13 +92,13 @@ To participate in the community vote, you will need to play through any of the r
 Players have a chance to earn something too! Once the playlists are closed, whoever has the highest score on each leaderboard will receive a minor prize too:
 
 - **Easy/Normal/Hard/Insane playlist leaders:** 1 month of osu!supporter each
-- **Expert playlist leader:** 1 month of osu! supporter + *triangle aficionado* profile badge
+- **Expert playlist leader:** 1 month of osu!supporter + *triangle aficionado* profile badge
 
 ![triangle aficionado profile badge](/wiki/shared/news/2022-05-24-triangles/aficionado@2x.png)
 
 ---
 
-Once *everything above* is finalized, we'll announce the results in a **live stream showcase of the finalists** with commentary from some of the judges!
+Once *everything above* is finalized, we'll announce the results in a **livestream showcase of the finalists** with commentary from some of the judges!
 
 In case one team wins multiple categories, we'll combine their profile badges accordingly. Sorry profile badge collectors, you only receive one.
 
@@ -115,7 +113,7 @@ Surprising absolutely nobody, this contest has RULES:
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
 - **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).**
-  - If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418).
+  - If your country does not support Google Forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418).
   - Teams must have 2-5 members.
 - **Submissions must not be publicly revealed until after the judging phase ends.**
 - **Submissions must not be Qualified until after the community vote ends.**

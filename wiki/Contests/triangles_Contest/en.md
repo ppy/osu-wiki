@@ -22,14 +22,14 @@ Submissions to this contest include:
 
 | Team name | Beatmapper(s) | Storyboarder(s) | Submission |
 | :-- | :-- | :-- | :-- |
-| TBD | TBD | TBD | TBD |
+| *TBD* |  |  |  |
 
 ## Schedule
 
 - **May 24 - July 18:** Contest is open for submissions.
 - **July 19 - July 31:** Submissions are evaluated by a team of judges.
 - **August 01 - August 15:** Top beatmaps are published for community vote and lazer playlists.
-- **August 20:** Live stream announcement of contest results.
+- **August 20:** Livestream announcement of contest results.
 
 ## Prizes
 
@@ -37,7 +37,7 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
 
 ### Community vote
 
-- A player must play all difficulties of a **triangles** lazer playlist in order to vote)
+- A player must play all difficulties of a **triangles** lazer playlist in order to vote
 - Prizes
   - **Runner-up:** 3 months of osu!supporter
   - **Winner:** 6 months of osu!supporter + *Community Pick* profile badge
@@ -50,7 +50,7 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
   - Prizes
     - **Runner-up:** 3 months of osu!supporter 
     - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
-  - Panelists: TBD
+  - Panelists: *TBD*
 
 ![Mappers' Pick profile badge](/wiki/shared/news/2022-05-24-triangles/mappers@2x.png)
 
@@ -60,7 +60,7 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
 - Prizes
   - **Runner-up:** 3 months of osu!supporter 
   - **Winner:**  6 months of osu!supporter + *Storyboarders' Pick* profile badge
-- Panelists: TBD
+- Panelists: *TBD*
 
 ![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-24-triangles/storyboarders@2x.png)
 
@@ -71,7 +71,7 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
 - **Winner:**
   - 6 months of osu!supporter
   - *Overall winner* profile badge
-  - *Elite Mapper*/*Elite Storyboarder* user titles
+  - **Elite Mapper** and **Elite Storyboarder** user titles
   - Submission bundled with new lazer installations (after reaching Ranked status)
 
 ![Overall runner-up profile badge](/wiki/shared/news/2022-05-24-triangles/overallrunnerup@2x.png)
@@ -83,7 +83,7 @@ If a team wins in multiple of the above categories, they will be rewarded a prof
 Players are also eligible for prizes if they participate in the lazer playlists:
 
 - **Easy/Normal/Hard/Insane playlist leaders:** 1 month of osu!supporter each
-- **Expert playlist leader:** 1 month of osu! supporter + *triangle aficionado* profile badge
+- **Expert playlist leader:** 1 month of osu!supporter + *triangle aficionado* profile badge
 
 ![triangle aficionado profile badge](/wiki/shared/news/2022-05-24-triangles/aficionado@2x.png)
 
@@ -96,7 +96,7 @@ Players are also eligible for prizes if they participate in the lazer playlists:
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
 - **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).**
-  - If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418).
+  - If your country does not support Google Forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418).
   - Teams must have 2-5 members.
 - **Submissions must not be publicly revealed until after the judging phase ends.**
 - **Submissions must not be Qualified until after the community vote ends.**
