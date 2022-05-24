@@ -59,7 +59,7 @@ tags:
 
 禁赛 - 顾名思义就是被禁止参加任何受官方支持的锦标赛。
 
-关于禁赛的更多信息，请参见：[禁赛](/wiki/Help_centre/Tournament_bans)
+关于禁赛相关的更多信息，请参见：[禁赛](/wiki/Help_centre/Tournament_bans)
 
 ## 登录
 
