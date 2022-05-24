@@ -25,6 +25,7 @@ There's a lot to explain. Let's dive in.
 To participate in this contest, you need a **team of 2-5 mappers/storyboarders** to create:
 
 - A **triangle-themed** beatmap spread...
+    - of the song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*
     - following the [ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_Criteria) 
     - with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert
 - A **triangle-themed** storyboard
