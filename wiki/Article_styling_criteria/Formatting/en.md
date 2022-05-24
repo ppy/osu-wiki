@@ -802,6 +802,14 @@ The blockquote is limited to quoting text from someone. It must not be used to f
 —rrtyui
 ```
 
+Translated blockquotes must be highlighted as such to emphasise that they are not the original quote. A note must be added at the bottom like so:
+
+```markdown
+> plz enjoy game
+
+—rrtyui (translated into English)
+```
+
 ## Thematic breaks
 
 The thematic break (also known as the horizontal rule or line) should be used sparingly. A few uses of the thematic break may include (but is not limited to):
