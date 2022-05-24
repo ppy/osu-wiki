@@ -6,7 +6,7 @@ date: 2022-05-24 23:00:00 +0000
 
 Mappers and storyboarders unite in osu!'s newest contest: **triangles**!
 
-![](/wiki/shared/news/banners/triangles.jpg)
+![](https://assets.ppy.sh/contests/147/header.jpg)
 
 [**lazer**](https://www.youtube.com/watch?v=ut_SOreClcc) is the next major update to osu!. If you [try it for yourself](https://github.com/ppy/osu#running-osu), you'll notice that osu!'s classic theme song has been replaced by *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*:
 
