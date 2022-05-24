@@ -206,6 +206,14 @@ We are considering extra 'score reset' purchases from the osu!store for the trul
 
 This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is against the [rules](/wiki/Rules#community-rules), and we will disable any such accounts that are brought to our attention.
 
+### Can I delete my account?
+
+*For more information on account deletion, see: [osu! privacy policy § Your rights and control](/wiki/Legal/Privacy#your-rights-and-control).*
+
+*Caution: Account deletion is permanent, and therefore cannot be undone!*
+
+Yes, any user can request for their account to be deleted by sending an email to [privacy@ppy.sh](mailto:privacy@ppy.sh). Keep in mind that deleting your account is **final**, meaning that it cannot be reversed or undone. Deleting your account does not mean you can create a new account, as having multiple accounts is against the [rules](/wiki/Rules#community-rules). This means you will no longer be able to use any of osu!'s online features.
+
 ### I no longer want to keep playing, but I don't want my account to be deleted! 
 
 *For more information on what you can and cannot do with your account see: [osu! privacy policy § Your rights and control](/wiki/Legal/Privacy#your-rights-and-control).*
@@ -219,14 +227,6 @@ To unlock the account again, simply send an email to one of the aforementioned a
 *This feature is not to be abused.* Locking an account should be one of the last resorts for those players that don't want to leave osu! forever, but **need** dedicated time away from osu! for a legitimate reason.
 
 If you do not have a valid reason to lock your account, you can change your password to random words or letters you will never remember and log out. This is essentially the same process as locking. Once you are ready to come back into the community, send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) requesting a password reset.
-
-### Can I delete my account?
-
-*For more information on account deletion, see: [osu! privacy policy § Your rights and control](/wiki/Legal/Privacy#your-rights-and-control).*
-
-*Caution: Account deletion is permanent, and therefore cannot be undone!*
-
-Yes, any user can request for their account to be deleted by sending an email to [privacy@ppy.sh](mailto:privacy@ppy.sh). Keep in mind that deleting your account is **final**, meaning that it cannot be reversed or undone. Deleting your account does not mean you can create a new account, as having multiple accounts is against the [rules](/wiki/Rules#community-rules). This means you will no longer be able to use any of osu!'s online features.
 
 ### Can I play on a computer that another osu! user has used before?
 
