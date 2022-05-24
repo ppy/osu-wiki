@@ -91,7 +91,7 @@ Players are also eligible for prizes if they participate in the lazer playlists:
 
 - **Submission must including the following:**
   - A beatmap spread of *cYsmix - triangles* with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert.
-  - A storyboard with all storyboarded content under ~1 MB total (including the `.osb` file and difficulty-specific storyboarding).
+  - A storyboard.
 - **Submission must be in `.osz` format.**
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
