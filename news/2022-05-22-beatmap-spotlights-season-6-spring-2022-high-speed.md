@@ -117,7 +117,7 @@ Maybe that was spooky enough after all.
 #### Curators' Pick
 
 [Camellia - dreamless wanderer [flying in the void of deep-dream]](https://osu.ppy.sh/beatmapsets/1580929#mania/3228051), mapped by [paradoxus_](https://osu.ppy.sh/users/11185275)\
-*described and primarily suggested by [lepnai](https://osu.ppy.sh/users/5314573)*
+*described and primarily suggested by [lenpai](https://osu.ppy.sh/users/5314573)*
 
 Rarely do we come across a map that provides bold concepts with nuanced gameplay elements to the table.
 
