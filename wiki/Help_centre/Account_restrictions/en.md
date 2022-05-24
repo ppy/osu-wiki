@@ -19,7 +19,7 @@ The following features are disabled for restricted accounts:
 
 If your account has been restricted, do not panic. Please follow these steps:
 
-- **Wait 24 hours.** Some restrictions are the results of automated processes. As we check every new restriction daily, please wait 24 hours - if your restriction was erroneous, it will hopefully be lifted within that time.
+- **Wait 24 hours.** Some restrictions are the results of automated processes. As we check every new restriction daily, please wait 24 hours—if your restriction was erroneous, it will hopefully be lifted within that time.
 - **Contact our [account support team](/wiki/People/The_Team/Account_support_team).** If your account remains restricted after that time, please send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) **from the email address attached to your account** to ask for details on your restriction. Make sure you include your username, along with any details you can provide as to why you think you may have been restricted. The more you tell us, the easier it is for us to resolve the issue.
 - If you strongly believe that your restriction is erroneous, please contact us immediately so that we can discuss your case.
 
@@ -50,13 +50,13 @@ If an account has been found to be rightfully restricted, we will ask that the u
 
 ## My cooldown has passed. How do I appeal?
 
-You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) including the username of your account. Make sure you are sending the appeal from the email address associated with your account. After you send your appeal, expect a reply within one week. If you have not received one by then, please contact us on twitter or by email - there is a chance we may not have received it.
+You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) including the username of your account. Make sure you are sending the appeal from the email address associated with your account. After you send your appeal, expect a reply within one week. If you have not received one by then, please contact us on twitter or by email—there is a chance we may not have received it.
 
 When appealing, we expect the following points to be covered:
 
 - **Account history.** It does not need to be too detailed. This should include all your breaches of the major rules (multi-accounting, account sharing, cheating, or major silences). You do not need to remember every date, every silence, or every account you created, as long as you are honest with what you did. This includes any rules you have broken while restricted, if applicable.
 - **Why you broke the rules.** An explanation as to what led you to decide to create new accounts, give your account away, cheat, etc. will help us (and you) determine whether or not you are at risk of offending again. If you continued offending while restricted, we are also interested in knowing why.
-- **How you obtained the means to do so.** This applies mostly to cheating - we want to know where you obtained the tool you used, how you came across it, and whether or not it is still present on your computer.
+- **How you obtained the means to do so.** This applies mostly to cheating—we want to know where you obtained the tool you used, how you came across it, and whether or not it is still present on your computer.
 - **Why we should allow you back.** Most of the time, this ties into the second point. We just want to ensure that you will not be breaking the rules again! Please understand that the more rule violations in your account's history, the more we will expect in this section of the appeal.
 
 ## What if my appeal is granted?
@@ -82,7 +82,7 @@ Some offences will lead to your account being rolled back upon unrestriction. Th
 
 There are several reasons why an appeal might be denied.
 
-- **It was sent too early.** If the cooldown for your account has not yet passed, your appeal will be denied. If you are unsure when you can actually appeal, please reply to our answer - we will give you the correct date.
+- **It was sent too early.** If the cooldown for your account has not yet passed, your appeal will be denied. If you are unsure when you can actually appeal, please reply to our answer—we will give you the correct date.
 - **Your appeal was insufficient or incomplete.** If your appeal does not sufficiently cover the four points listed above, we will request that you write a more complete one. This **does not** necessarily reset the cooldown for your account and you are free to send your new appeal at any point in time! However, if you attempted lying or hiding major rule violations you committed (mainly multi-accounting or cheating), your appeal will be denied for being non-truthful, and your cooldown will be reset to at least **three months**. This is another chance for you to reflect on your actions and make sure you did not forget anything.
 - **You have been evading or playing on other accounts.** Creating another account to be able to play online while your account is restricted is considered an attempt at evading the restriction and will reset your cooldown to at least **three months** from the date you created the account. If you attempt evading too many times, your appeal might be permanently denied. If you are still accessing or playing on your multi-accounts while restricted, your cooldown will also be reset. Remember that multi-accounting is against the [rules](/wiki/Rules) and you are expected to only play on your original account. If you are unsure which account counts as your original account, send us an email and we will let you know!
 - **You continued offending while restricted.** There is no reason to unrestrict someone who continues to break the rules even after having been restricted. If you do continue offending, the cooldown for your account will be reset to your last offence. In the case of extreme or continuous offences, your appeal might be permanently denied.
@@ -109,7 +109,7 @@ All emails sent to the appeal review address will be investigated by a third par
 
 Please understand that sending an email to this address only guarantees a second look/initial answer to your appeal, it does not guarantee a change in any outcome if you have been found to be violating the expectations involved in the appealing process.
 
-**We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy - they cannot help you.
+**We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy—they cannot help you.
 
 ## Common restriction reasons and cooldowns
 

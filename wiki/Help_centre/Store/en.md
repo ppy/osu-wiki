@@ -62,7 +62,7 @@ To find out, perform the following steps:
 2. Gently plug the cable back into a USB slot on your system.
 3. If the tablet is functioning, the light slot on the face of the tablet will flash green momentarily then fall dark. This is normal behaviour.
 
-If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use.
+If the tablet's light does not flash, try using a different USB cable—the ones included with the tablet can sometimes be damaged during transit or after extensive use.
 
 Please contact [store@ppy.sh](mailto:store@ppy.sh) for further inquiries.
 

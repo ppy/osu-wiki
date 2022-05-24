@@ -22,7 +22,7 @@ So you downloaded a map and you've thought of some things you aren't happy with�
   - **Intersubjective Issues** - Not prohibited by rulesets, but are agreed upon as being "wrong" by a majority of people. Should be fixed in most cases unless there are opposing intersubjective arguments with equal size, or if the mapper can exhaustively explain why they feel it is acceptable.
   - **Subjective Issues** - Something that you believe or think on a personal level. Might become intersubjective if many people agree with it.
 - **Unless the concept behind a beatmap is fundamentally flawed from the start**, modding should aim to improve the map **in its current design** - not force your own style upon it. If you truly believe the map has too many significant issues to address individually, try to give a general statement of why this is the case and what direction you think the map should go in to get back on track.
-- When pointing out "issues", inspect each thoroughly and consider exactly what it is about the particular "thing" you dislike. Then, try to offer a potential solution or improvement and consider exactly how that suggestion will improve the map. If necessary, try multiple suggestions to see which work best - The more help you can offer the mapper, the better.
+- When pointing out "issues", inspect each thoroughly and consider exactly what it is about the particular "thing" you dislike. Then, try to offer a potential solution or improvement and consider exactly how that suggestion will improve the map. If necessary, try multiple suggestions to see which work best—the more help you can offer the mapper, the better.
 
 Suggestions themselves should ideally consist of four main parts, though based on the experience of the mapper and/or your personal relationship to them, you may want to be more lenient:
 
@@ -48,7 +48,7 @@ Sometimes, a single mod and response isn't enough to bring all parties to agreem
 
 - If you're unsure about something, ask the person in question to explain what they meant. They should be more than willing to explain things to you in more detail.
 - Still can't reach an agreement? Ask someone with more experience, such as a member of [BN](/wiki/People/The_Team/Beatmap_Nominators) or [NAT](/wiki/People/The_Team/Nomination_Assessment_Team). Remember they are busy people, however! Should you realise there's a more suitable alternative to something you originally suggested, don't be afraid to put your pride aside - **sometimes being wrong can be far more valuable than being right**.
-- **There is no such things as a "wrong" opinion** - it's up to the mapper and modders to come to an agreement in a civil manner - try to understand alternative points of view rather than attack them, as you never know when it might be useful in the future.
+- **There is no such things as a "wrong" opinion**—it's up to the mapper and modders to come to an agreement in a civil manner. Try to understand alternative points of view rather than attack them, as you never know when it might be useful in the future.
 - If you can't explain something through logic, you will not be able to explain it to them through violence either. Rather than continue a discussion that isn't progressing, walk away and try again with the next modder/mapper.
 - When things look to be getting out of hand, or if the discussion is struggling to stay on topic, [call a moderator](/wiki/Reporting_bad_behaviour). Don't contribute to the problem by continuing to post.
 

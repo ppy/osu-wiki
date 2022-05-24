@@ -72,9 +72,9 @@ Make sure to include any chat logs or other evidence in the email, and our suppo
 
 ### What are these "Me!" pages that I see on other player's profiles?
 
-**Me! pages, or userpages, are special profile elements that all players with a [supporter tag](https://osu.ppy.sh/home/support) get access to. They can contain whatever you like - pictures of your achievements, your beatmaps, basically anything you wish!**
+**Me! pages, or userpages, are special profile elements that all players with a [supporter tag](https://osu.ppy.sh/home/support) get access to. They can contain whatever you like—pictures of your achievements, your beatmaps, basically anything you wish!**
 
-Players with a [supporter tag](https://osu.ppy.sh/home/support) are given the privilege of editing their very own page for display on their profile for the world to see. Me! pages may contain anything you like - so long as it follows the [community rules](/wiki/Rules)!
+Players with a [supporter tag](https://osu.ppy.sh/home/support) are given the privilege of editing their very own page for display on their profile for the world to see. Me! pages may contain anything you like, so long as it follows the [community rules](/wiki/Rules)!
 
 Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out, your Me! page will **remain visible** and you will still be able to edit its contents.
 
