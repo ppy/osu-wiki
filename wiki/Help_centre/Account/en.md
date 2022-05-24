@@ -208,22 +208,21 @@ This doesn't mean you can make a new account to do the same thing, either! Havin
 
 ### I no longer want to keep playing, but I don't want my account to be deleted! 
 
-*For more information on what you can and cannot do with your account see: [your rights and controls](/wiki/Legal/Privacy#your-rights-and-control).*
+*For more information on what you can and cannot do with your account see: [osu! privacy policy § Your rights and control](/wiki/Legal/Privacy#your-rights-and-control).*
 
-Any user can request their account to be **locked** by sending an email to [privacy@ppy.sh](mailto:privacy@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), or [support@ppy.sh](mailto:support@ppy.sh). 
-A **Locked** status on your account means that the only information that is going to change is going to be the account's associated password. This password is going to be known to only [osu!team](wiki/en/People/The_Team) and no one else. 
+Any user can request their account to be **locked** by sending an email to [privacy@ppy.sh](mailto:privacy@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), or [support@ppy.sh](mailto:support@ppy.sh). The account's associated password will then be scrambled, locking the user out of their account.
 
-All information from that locked account will still be publically visible. The only change done to the account is a change in the account's password.  
+All information from a locked account will still be publicly visible.
 
-When the user would like to have their account back, they can simply send an email to one of the emails previously listed above with the intent to unlock their account.  
+To unlock the account again, simply send an email to one of the aforementioned addresses expressing the intent to unlock it.
 
-*Caution: this is not to be abused. Locking an account should be one of the last resorts for those players that don't want to leave osu! forever, but **need**  dedicated time away from osu! for a legitimate reason.*
+*This feature is not to be abused.* Locking an account should be one of the last resorts for those players that don't want to leave osu! forever, but **need** dedicated time away from osu! for a legitimate reason.
 
-*Note: If you do not have a valid reason to lock your account you can reset your password to random words or letters you will never remember and log out. This is essentially the same process as locking. Once you are ready to come back into the osu!community you can send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) requesting the password to be reset or changed to the password you are going to use.*
+If you do not have a valid reason to lock your account, you can change your password to random words or letters you will never remember and log out. This is essentially the same process as locking. Once you are ready to come back into the community, send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) requesting a password reset.
 
 ### Can I delete my account?
 
-*For more information on account deletion, see: [your rights and controls](/wiki/Legal/Privacy#your-rights-and-control).*
+*For more information on account deletion, see: [osu! privacy policy § Your rights and control](/wiki/Legal/Privacy#your-rights-and-control).*
 
 *Caution: Account deletion is permanent, and therefore cannot be undone!*
 
