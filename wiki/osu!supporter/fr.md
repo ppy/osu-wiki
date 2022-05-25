@@ -122,7 +122,7 @@ Les supporters peuvent accéder au mode multijoueur à partir des versions en ac
 ### Durée restante
 
 ::: Infobox
-![](img/status.jpg?1 "Trois mois d'osu!supporter restants")
+![](img/status.jpg?1 "Statistiques d'achat du osu!supporter")
 :::
 
 La durée restante d'osu!supporter, ainsi que le montant total des contributions, des achats de tags et des cadeaux, sont disponibles en haut de la [page de promotion d'osu!supporter](https://osu.ppy.sh/home/support).

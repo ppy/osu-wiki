@@ -202,3 +202,4 @@ Följande svårighetsgradnamn är vanliga alternativ och tillägg till svårighe
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: i en standard Easy-Normal-Hard-Insane-Expert- spridning är det en svårighetsgrad mellan Hard och Insane.
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra: kan användas som ersättning för Expert.
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: kan användas för att representera en beatmap svårare än Expert.
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: kan användas för att representera en beatmap svårare än Overdose.
