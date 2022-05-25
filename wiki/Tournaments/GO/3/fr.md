@@ -598,7 +598,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 3. Pour les Quarts de Finale et les Demi-Finales, vous devez gagner 6 beatmaps pour remporter un match. (Best-of-11)
 4. Pour les **Finales et la Grande Finale**, vous devez gagner 7 beatmaps pour remporter un match. (Best-of-13)
    - La Grande Finale peut mener à un Bracket Reset si le joueur venant du Losers Bracket remporte le premier match.
-5. Les arbitres sont ceux chargés de leur lobby pendant les matchs. Les joueurs doivent spécifier leurs picks et bans dans le chat textuel interne au lobby et ce sont les arbitres qui les sélectionnent.
+5. Les arbitres sont ceux chargés de leur lobby pendant les matchs. Les joueurs doivent spécifier leurs picks et bans dans le tchat textuel interne au lobby et ce sont les arbitres qui les sélectionnent.
 6. Les arbitres doivent gérer plusieurs lobbies simultanément et ne sont pas toujours au courant de chaque spécificité dans les beatmaps. Veuillez utilisez le nom entier de la beatmap ou d’autres termes tels que `[mod][numéro de la beatmap]` (en utilisant l’onglet `mappool` du site comme référence) pour minimiser les risques de confusion. Demander à l’arbitre une beatmap en décrivant son background où une référence à la musique réduira vos chances d’obtenir la beatmap voulue.
    - Pour les picks Freemod, chaque joueur doit choisir au moins un mod parmi les suivant: Hidden/HardRock/Easy/Flashlight. L’addition de mods est autorisée. Ces mods sont également autorisés sur les Tiebreakers.
 
