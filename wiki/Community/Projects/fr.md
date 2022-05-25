@@ -11,7 +11,7 @@ outdated: true # À jour par rapport à `en.md`
   - [Site web](https://osu.ppy.sh/p/events)
 - [osu! (OS X)](https://osu.ppy.sh/community/forums/topics/56460)—osu! sur OS X (les résultats peuvent varier).
   - [GitHub](https://github.com/ppy/osu-wine) | [Site web](http://osuosx.tumblr.com)
-- [osu! Community Localisation Project](ttps://osu.ppy.sh/community/forums/topics/104342)—Le projet osu! localisation, localisez votre langue sur osu!.
+- [osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342)—Le projet osu! localisation, localisez votre langue sur osu!.
 - [osu! Public Release (09/2007)](https://osu.ppy.sh/community/forums/topics/130144)—Une version du client initial du jeu.
 - [osu!api](https://osu.ppy.sh/community/forums/topics/141240)—API publique pour l'accès aux données relatives à osu!.
   - [GitHub](https://github.com/ppy/osu-api)
