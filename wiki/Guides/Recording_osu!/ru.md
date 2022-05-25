@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Как записать реплей в osu!
 
 [Хотите использовать Virtualdub вместо Sony Vegas? Нажмите здесь!](https://osu.ppy.sh/community/forums/posts/252802)

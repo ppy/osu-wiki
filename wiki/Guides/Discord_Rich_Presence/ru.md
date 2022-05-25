@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Discord Rich Presence
 
 С 31 октября 2017 года Discord Rich Presence стал стабильнее!

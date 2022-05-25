@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Как использовать мастер настройки оффсета
 
 *См. также: [Мастер настройки оффсета](/wiki/Client/Options/Offset_Wizard) и [Универсальный оффсет](/wiki/Client/Options/Universal_offset)*

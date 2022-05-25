@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Пользовательская библиотека хитсаундов
 
 *[Пользовательская библиотека хитсаундов от: Yuukari-Banteki](https://osu.ppy.sh/community/forums/topics/15407)*
