@@ -14,34 +14,34 @@ tags:
 | 阶段 | 时间 |
 | :-- | :-- |
 | 赛季开始 | 2022 年 5 月 22 日 |
-| 歌单模式大厅：图池 A | 2022 年 5 月 22 日 - 6 月 5 日 |
-| 歌单模式大厅：图池 B | 2022 年 6 月 5 日 - 6 月 19 日 |
-| 歌单模式大厅：图池 C | 2022 年 6 月 19 日 - 7 月 3 日 |
-| 歌单模式大厅：图池 A | 2022 年 7 月 3 日 - 7 月 10 日 |
-| 歌单模式大厅：图池 B | 2022 年 7 月 10 日 - 7 月 17 日 |
-| 歌单模式大厅：图池 C | 2022 年 7 月 17 日 - 7 月 24 日 |
+| 歌单模式大厅：歌单 A | 2022 年 5 月 22 日 - 6 月 5 日 |
+| 歌单模式大厅：歌单 B | 2022 年 6 月 5 日 - 6 月 19 日 |
+| 歌单模式大厅：歌单 C | 2022 年 6 月 19 日 - 7 月 3 日 |
+| 歌单模式大厅：歌单 A | 2022 年 7 月 3 日 - 7 月 10 日 |
+| 歌单模式大厅：歌单 B | 2022 年 7 月 10 日 - 7 月 17 日 |
+| 歌单模式大厅：歌单 C | 2022 年 7 月 17 日 - 7 月 24 日 |
 | 赛季结算 | 2022 年 7 月 24 日 |
 
 ## 每周多人游戏大厅
 
 目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](https://github.com/ppy/osu/releases)。
 
-1. 赛季每 2 周将打开一个时移多人游戏大厅，每大厅在整个开放期间都可参加。
-   - 在第一轮图池结束后，每周将重新开放一个图池。
-2. 每个大厅会提供一个提前准备好的图池。
-   - 每个图池内所包含的 Hard，Insane 和 Expert 难度均匀分布。
-   - 每个图池与每两周分配的字母相对应。每张图池会在下个周期复刻一次。
-3. 在时移大厅中，每个人都可以争夺特定房间的排行榜。
-   - 只有最佳成绩会被计入排行榜当中，排行榜分数为房间图池分数的总和。
-   - 图池中所有谱面均计入排行榜。
+1. 赛季每 2 周将打开一个歌单模式大厅，每大厅在整个开放期间都可参加。
+   - 在第一轮歌单结束后，每周将重新开放一个歌单。
+2. 每个大厅会提供一个提前准备好的歌单。
+   - 每个歌单内所包含的 Hard，Insane 和 Expert 难度均匀分布。
+   - 每个歌单与每两周分配的字母相对应。每个歌单会在下个周期复刻一次。
+3. 在歌单模式大厅中，每个人都可以争夺特定大厅的排行榜。
+   - 只有最佳成绩会被计入排行榜当中，排行榜分数为大厅所有谱面分数的总和。
+   - 歌单中所有谱面均计入排行榜。
    - 所有谱面分数均基于 osu!(lazer) 的分数系统。
-4. 时移大厅关闭后，房间内所有参与者的周 Ranked 谱面总分将添加到月赛排行榜当中。
+4. 歌单模式大厅关闭后，大厅内所有参与者的周 Ranked 谱面总分将添加到赛季排行榜当中。
 
-## 图池
+## 歌单
 
 ### osu!（由 [Nowaie](https://osu.ppy.sh/users/5428909) 领导）
 
-#### 图池 A（高速）
+#### 歌单 A（高速）
 
 - [Otsukisama Koukyoukyoku - ultima Thule (Kyle Y) \[Ky's Hard\]](https://osu.ppy.sh/beatmapsets/1507229#osu/3204358), suggested by [Nowaie](https://osu.ppy.sh/users/5428909)
 - [Aitsuki Nakuru & Kabocha - Lilith (Akito) \[Hard\]](https://osu.ppy.sh/beatmapsets/1344501#osu/2985707), suggested by [ChillierPear](https://osu.ppy.sh/users/9501251)
@@ -55,7 +55,7 @@ tags:
 
 ### osu!taiko（由 [Hivie](https://osu.ppy.sh/users/14102976) 领导）
 
-#### 图池 A（高速）
+#### 歌单 A（高速）
 
 - [7\_7 - Mousou Chikan Express (Cychloryn) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1581561#taiko/3238786), suggested by [Hivie](https://osu.ppy.sh/users/14102976)
 - [Remo Prototype (CV: Hanamori Yumiri) - Sendan Life (katagiri Bootleg) (iceOC) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1118054#taiko/2564741), suggested by [Axer](https://osu.ppy.sh/users/7299864)
@@ -69,7 +69,7 @@ tags:
 
 ### osu!catch（由 [SadEgg](https://osu.ppy.sh/users/10278243) 领导）
 
-#### 图池 A（高速）
+#### 歌单 A（高速）
 
 - [Umeboshi Chazuke - Bison Charge (Benita) \[Benita's Platter\]](https://osu.ppy.sh/beatmapsets/1368447#fruits/2845509), suggested by [x\_angelkawaii\_x](https://osu.ppy.sh/users/566276)
 - [TUYU - Anoyo-iki no Bus ni Notte Saraba. (Souvenir) \[Platter\]](https://osu.ppy.sh/beatmapsets/1583701#fruits/3236139), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
@@ -83,7 +83,7 @@ tags:
 
 ### osu!mania（由 [Crumpey](https://osu.ppy.sh/users/3518705) 领导）
 
-#### 图池 A（高速）
+#### 歌单 A（高速）
 
 - [DJ TOTTO - Crystalia (Critical_Star) \[CS' Hyper\]](https://osu.ppy.sh/beatmapsets/782749#mania/1643587), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
 - [katagiri - HIVEMIND (DannyPX) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1665442#mania/3411830), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
