@@ -214,11 +214,9 @@ This doesn't mean you can make a new account to do the same thing, either! Havin
 
 Yes, any user can request for their account to be deleted by sending an email to [privacy@ppy.sh](mailto:privacy@ppy.sh). Keep in mind that deleting your account is **final**, meaning that it cannot be reversed or undone. Deleting your account does not mean you can create a new account, as having multiple accounts is against the [rules](/wiki/Rules#community-rules). This means you will no longer be able to use any of osu!'s online features.
 
-### I no longer want to keep playing, but I don't want my account to be deleted! 
+### I no longer want to keep playing, but I don't want my account to be deleted!
 
-*For more information on what you can and cannot do with your account see: [osu! privacy policy § Your rights and control](/wiki/Legal/Privacy#your-rights-and-control).*
-
-Any user can request their account to be **locked** by sending an email to [privacy@ppy.sh](mailto:privacy@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), or [support@ppy.sh](mailto:support@ppy.sh). The account's associated password will then be scrambled, locking the user out of their account. There is a one-week cooldown after an account is locked in this manner before the user can request it unlocked in order to prevent abuse.
+Any user can request their account to be **locked** by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh). The account's associated password will then be scrambled and its email address blanked out, locking the user out of their account. There is a one-week cooldown after an account is locked in this manner before the user can request it unlocked in order to prevent abuse.
 
 A locked account will remain publicly visible with no changes to information available on its profile.
 
