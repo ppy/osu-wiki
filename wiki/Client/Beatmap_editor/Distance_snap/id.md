@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Jarak Ketukan
 
 ![Contoh ketika Distance Snap bekerja.](img/Beatspacing.jpg "Contoh ketika Distance Snap bekerja.")

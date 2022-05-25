@@ -197,3 +197,4 @@ The following difficulty names are common alternatives and additions to the defa
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra: it can used as a substitute for Expert.
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: it can be used to represent a more difficult Expert.
 - ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: it can be used to represent a more difficult Inner Oni.
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: it can be used to represent a more difficult Overdose.

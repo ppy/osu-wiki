@@ -42,14 +42,16 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | :-- | :-- |
 | Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114), ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_CA] [wwwww](https://osu.ppy.sh/users/8434466), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
-| Commentator | ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Elux](https://osu.ppy.sh/users/12004983), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_AU] [Maitoo](https://osu.ppy.sh/users/16899553), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_US] [Lumenite-](https://osu.ppy.sh/users/6256027), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941), ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_BE] [\[ Quinten \]](https://osu.ppy.sh/users/6283136) |
-| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Commentator | ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Elux](https://osu.ppy.sh/users/12004983), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_US] [Lumenite-](https://osu.ppy.sh/users/6256027), ![][flag_AU] [Maitoo](https://osu.ppy.sh/users/16899553), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941), ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_BE] [\[ Quinten \]](https://osu.ppy.sh/users/6283136) |
+| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1562118)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/87) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRetD8MoopEqecAdBgPUlpXsbnqnu0posV0qh9Lxo130lScWtEx1Qe2uxdyIVx-HqtXdtEXD6Rtjs_V/pubhtml)
 
 ## Participants
 
@@ -92,6 +94,125 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_GB] | **United Kingdom** | **[Withered Lotus](https://osu.ppy.sh/users/3546931)**, [Matt\_H](https://osu.ppy.sh/users/4067115), [Stats-Kun](https://osu.ppy.sh/users/8611935), [Zoggoth](https://osu.ppy.sh/users/2799946), [Litlas](https://osu.ppy.sh/users/5126518), [Tomato](https://osu.ppy.sh/users/9239206) |
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983) |
 | ![][flag_VN] | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)**, [Stardust Prism](https://osu.ppy.sh/users/8525921), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-Linglan Lily-](https://osu.ppy.sh/users/8738261), [Marota](https://osu.ppy.sh/users/10278890), [NamSPro](https://osu.ppy.sh/users/11387006) |
+
+## Match schedule: Round of 32
+
+### Saturday, May 28, 2022
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| China | ![][flag_CN] | ![][flag_IL] | Israel | May 28 (Sat) 10:00 UTC | May 28 (Sat) 18:00 UTC+8 | May 28 (Sat) 13:00 UTC+3 |
+| France | ![][flag_FR] | ![][flag_TH] | Thailand | May 28 (Sat) 12:00 UTC | May 28 (Sat) 14:00 UTC+2 | May 28 (Sat) 19:00 UTC+7 |
+| Italy | ![][flag_IT] | ![][flag_NL] | Netherlands | May 28 (Sat) 13:00 UTC | May 28 (Sat) 15:00 UTC+2 | May 28 (Sat) 15:00 UTC+2 |
+| Singapore | ![][flag_SG] | ![][flag_AR] | Argentina | May 28 (Sat) 14:00 UTC | May 28 (Sat) 22:00 UTC+8 | May 28 (Sat) 11:00 UTC-3 |
+| Belgium | ![][flag_BE] | ![][flag_PL] | Poland | May 28 (Sat) 15:00 UTC | May 28 (Sat) 17:00 UTC+2 | May 28 (Sat) 17:00 UTC+2 |
+| Mexico | ![][flag_MX] | ![][flag_SE] | Sweden | May 28 (Sat) 19:00 UTC | May 28 (Sat) 13:00 UTC-6 | May 28 (Sat) 21:00 UTC+2 |
+| Canada | ![][flag_CA] | ![][flag_GB] | United Kingdom | May 28 (Sat) 20:00 UTC | May 28 (Sat) 15:00 UTC-5 | May 28 (Sat) 21:00 UTC+1 |
+
+### Sunday, May 29, 2022
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Brazil | ![][flag_BR] | ![][flag_JP] | Japan | May 29 (Sun) 01:00 UTC | May 28 (Sat) 22:00 UTC-3 | May 29 (Sun) 10:00 UTC+9 |
+| Indonesia | ![][flag_ID] | ![][flag_MY] | Malaysia | May 29 (Sun) 07:00 UTC | May 29 (Sun) 14:00 UTC+7 | May 29 (Sun) 15:00 UTC+8 |
+| Australia | ![][flag_AU] | ![][flag_VN] | Vietnam | May 29 (Sun) 08:00 UTC | May 29 (Sun) 18:00 UTC+10 | May 29 (Sun) 15:00 UTC+7 |
+| Taiwan | ![][flag_TW] | ![][flag_TR] | Turkey | May 29 (Sun) 10:00 UTC | May 29 (Sun) 18:00 UTC+8 | May 29 (Sun) 13:00 UTC+3 |
+| South Korea | ![][flag_KR] | ![][flag_PT] | Portugal | May 29 (Sun) 12:00 UTC | May 29 (Sun) 21:00 UTC+9 | May 29 (Sun) 13:00 UTC+1 |
+| Germany | ![][flag_DE] | ![][flag_FI] | Finland | May 29 (Sun) 13:00 UTC | May 29 (Sun) 15:00 UTC+2 | May 29 (Sun) 16:00 UTC+3 |
+| Russian Federation | ![][flag_RU] | ![][flag_NO] | Norway | May 29 (Sun) 15:00 UTC | May 29 (Sun) 18:00 UTC+3 | May 29 (Sun) 17:00 UTC+2 |
+| Chile | ![][flag_CL] | ![][flag_CO] | Colombia | May 29 (Sun) 18:00 UTC | May 29 (Sun) 15:00 UTC-3 | May 29 (Sun) 13:00 UTC-5 |
+| United States | ![][flag_US] | ![][flag_UA] | Ukraine | May 29 (Sun) 18:00 UTC | May 29 (Sun) 13:00 UTC-5 | May 29 (Sun) 21:00 UTC+3 |
+
+## Mappools
+
+### Round of 32
+
+**[Download the mappack here (82 MB)](https://drive.google.com/uc?id=1dithcmw7fxXIqtGjNWA5ljgem8HSMwm8)**
+
+- NoMod
+  1. [sana - Kotoba no Iranai Yakusoku (Dapuluous) \[Everlasting Memories\]](https://osu.ppy.sh/beatmapsets/1769632#fruits/3622487)
+  2. [cYsmix - Peer Gynt (Mniam) \[oVerdose\]](https://osu.ppy.sh/beatmapsets/1769575#fruits/3622391)
+  3. [ZODIACSYNDICATE - Astraea no Soubei (wring) \[AngelHoney's ExtrA\]](https://osu.ppy.sh/beatmapsets/62788#fruits/441920)
+  4. [Empty Peperoncino - Ame ni Utaeba (coco) \[Decaptin's Insane\]](https://osu.ppy.sh/beatmapsets/1385670#fruits/2862490)
+- Hidden
+  1. [YOASOBI - Yoru ni Kakeru (Bunnrei) \[Racing into the Night\]](https://osu.ppy.sh/beatmapsets/1769611#fruits/3622450)
+  2. [Soken Masayoshi - A Long Fall (Ryuusei Aika) \[Time Traveler\]](https://osu.ppy.sh/beatmapsets/1266110#fruits/2631415)
+- Hard Rock
+  1. [onoken feat. moco - Light up my love!! (Ascendance) \[Special\]](https://osu.ppy.sh/beatmapsets/1769587#fruits/3622411)
+  2. [Fractal Dreamers - Monolithia (Yugu) \[Insane\]](https://osu.ppy.sh/beatmapsets/982375#fruits/2073093)
+- Double Time
+  1. [Loki - Wizard's Tower (Verti) \[Platter\]](https://osu.ppy.sh/beatmapsets/1769773#fruits/3622817)
+  2. [TWICE - Feel Special (Xetopia) \[Platter\]](https://osu.ppy.sh/beatmapsets/1108886#fruits/2331693)
+  3. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (Cut Ver.) (-Keitaro) \[Insane\]](https://osu.ppy.sh/beatmapsets/1057015#fruits/2210722)
+- Mixed Mod
+  1. [Rigel Theatre - Maple Town Memories (F D Flourite) \[Maple Story\]](https://osu.ppy.sh/beatmapsets/1769594#fruits/3622419)
+  2. [Nardis - HAPPY (-PC) \[Yokes' Insane: OVERJOYED\]](https://osu.ppy.sh/beatmapsets/790841#fruits/2085630)
+- Tiebreaker
+  1. **[La priere - Sore wa Sekai o Koete (Yumeno Himiko) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1769605#fruits/3622443)**
+
+### Qualifiers
+
+**[Download the mappack here (93 MB)](https://drive.google.com/uc?id=1lEUFkMvljWzub9IhE3lW0wGI9COU-2DO)**
+
+- NoMod
+  1. [Mia REGINA - I got it! (Slax Remix) (-Rustyy) \[Rustyy & Nosuri's Special\]](https://osu.ppy.sh/beatmapsets/1764078#fruits/3610710)
+  2. [Christopher Larkin - Mantis Lords (0 K Remix) (JBHyperion) \[A Traitor's End\]](https://osu.ppy.sh/beatmapsets/1763744#fruits/3610043)
+  3. [Rhodanthe\* - Yumeiro Parade (Doormat) \[Mosaic\]](https://osu.ppy.sh/beatmapsets/425957#fruits/920453)
+- Hidden
+  1. [siqlo - YInMn Blue (autofanboy) \[Artefact\]](https://osu.ppy.sh/beatmapsets/1763643#fruits/3609835)
+  2. [isubokuro - Aun no Beats (Beren) \[Answer\]](https://osu.ppy.sh/beatmapsets/1153984#fruits/2408391)
+- Hard Rock
+  1. [MisomyL - Mukishitsu Sekai ni Irodori o (Bunnrei) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1763991#fruits/3610504)
+  2. [KINEMA106 - Juusou (Mordred) \[Yogurtt's Extra\]](https://osu.ppy.sh/beatmapsets/1301393#fruits/2709081)
+- Double Time
+  1. [WOODKID - Iron (Ascendance) \[Requiescat in Pace\]](https://osu.ppy.sh/beatmapsets/1763686#fruits/3609911)
+  2. [Tatsh - Lunatic Tears... (Tatsh Remix) (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/1460718#fruits/3001358)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8/edit?rm=minimal).
+
+| Seed | Country | MAX% sum |
+| :-: | :-- | :-- |
+| #1 | ![][flag_CN] China | 8.888 |
+| #2 | ![][flag_KR] South Korea | 8.795 |
+| #3 | ![][flag_US] United States | 8.787 |
+| #4 | ![][flag_ID] Indonesia | 8.755 |
+| #5 | ![][flag_CL] Chile | 8.69 |
+| #6 | ![][flag_CA] Canada | 8.688 |
+| #7 | ![][flag_TW] Taiwan | 8.629 |
+| #8 | ![][flag_FR] France | 8.608 |
+| #9 | ![][flag_IT] Italy | 8.556 |
+| #10 | ![][flag_MX] Mexico | 8.494 |
+| #11 | ![][flag_RU] Russian Federation | 8.478 |
+| #12 | ![][flag_AU] Australia | 8.261 |
+| #13 | ![][flag_SG] Singapore | 8.253 |
+| #14 | ![][flag_BE] Belgium | 8.222 |
+| #15 | ![][flag_DE] Germany | 8.189 |
+| #16 | ![][flag_BR] Brazil | 8.059 |
+| #17 | ![][flag_JP] Japan | 7.934 |
+| #18 | ![][flag_FI] Finland | 7.882 |
+| #19 | ![][flag_PL] Poland | 7.847 |
+| #20 | ![][flag_AR] Argentina | 7.648 |
+| #21 | ![][flag_VN] Vietnam | 7.574 |
+| #22 | ![][flag_NO] Norway | 7.538 |
+| #23 | ![][flag_SE] Sweden | 7.372 |
+| #24 | ![][flag_NL] Netherlands | 7.302 |
+| #25 | ![][flag_TH] Thailand | 7.285 |
+| #26 | ![][flag_TR] Turkey | 7.274 |
+| #27 | ![][flag_GB] United Kingdom | 7.199 |
+| #28 | ![][flag_CO] Colombia | 7.011 |
+| #29 | ![][flag_MY] Malaysia | 6.779 |
+| #30 | ![][flag_UA] Ukraine | 6.588 |
+| #31 | ![][flag_PT] Portugal | 6.445 |
+| #32 | ![][flag_IL] Israel | 6.173 |
+| #33 | ![][flag_ES] Spain | 5.982 |
+| #34 | ![][flag_NZ] New Zealand | 5.584 |
+| #35 | ![][flag_PH] Philippines | 5.286 |
+| #36 | ![][flag_DZ] Algeria | 4.722 |
+| #37 | ![][flag_CH] Switzerland | 4.452 |
 
 ## Ruleset
 
@@ -165,9 +286,15 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 5. The mappool **must** be played in the following order: NM1, NM2, NM3, HD1, HD2, HR1, HR2, DT1, DT2.
 6. Each team must have 3 players for each map. They can be exchanged freely after each map is concluded.
 7. A team's final score for a map is considered as the highest combined team score for that map (i.e. the sum of each individual player's score). Only the highest score out of the two runs will be used for seeding.
-8. An optional 3-minute break will be offered between the first and second play-through of the mappool.
-9. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
-10. Only the top 32 seeded teams will advance to the Round of 32.
+8. The seeding method used for Qualifiers will be %MAX—the highest combined team score for each map will receive 100% of the points, and every other team will be awarded a percentage of that top score.
+   - The exact formula that will be used for all teams (and for each map) is `Final Score = Team Score / MAX(Map Score)`, where:
+     - `Final Score` is the percentage awarded to the current team
+     - `Team Score` is the score the current team achieved on the current map
+     - `MAX(Map Score)` is the highest score achieved for the current map
+9. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
+10. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
+11. Only the top 32 seeded teams will advance to the Round of 32.
+12. The Qualifier stage results will be published in this wiki article after all teams have played.
 
 ### Stage instructions
 
@@ -200,7 +327,6 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
    - Repeat offenders may receive further sanctions from the Tournament Management.
    - Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
      - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
-6. Results for the Qualifier stage will be published via a statistics sheet.
 
 ### Mappool instructions
 
