@@ -175,7 +175,7 @@ Excuse my rudeness, but could you please cast your vote? <3
 243 BPM, 5:58 | 8.28★, 8.71★\
 *description written by [Kasumi-sama](https://osu.ppy.sh/users/6177263)*
 
-Resident osu!catch mapper Minato Yukina makes once again his return to the Loved section, with potentially his 20th Loved beatmap, *Contrapasso -purgatorio-*, which was mapped for [AxS' 4th edition](https://osu.ppy.sh/community/forums/topics/822420)'s Grand Finals tiebreaker. This map takes any osu!catch player to one hellish ride, with the first two kiai sections riddled with relatively hard antiflow patterns, jumps and bursts, and the map does not stop the intensity it pulls out in the slightest, even up to the very end, with the nastiest burst right at the end, ready to kill players.
+Resident osu!catch mapper CLSW makes once again his return to the Loved section, with potentially his 20th Loved beatmap, *Contrapasso -purgatorio-*, which was mapped for [AxS' 4th edition](https://osu.ppy.sh/community/forums/topics/822420)'s Grand Finals tiebreaker. This map takes any osu!catch player to one hellish ride, with the first two kiai sections riddled with relatively hard antiflow patterns, jumps and bursts, and the map does not stop the intensity it pulls out in the slightest, even up to the very end, with the nastiest burst right at the end, ready to kill players.
 
 [![](/wiki/shared/news/2022-05-21-project-loved-may-2022/1107782.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
