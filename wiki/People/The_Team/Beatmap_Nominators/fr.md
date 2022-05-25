@@ -212,15 +212,20 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
-| ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
-| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
+| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Espagnol |
 
 #### osu!mania
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
-| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Espagnol |
+| ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | Chinois |
+| ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chinois |
+| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonésien |
+| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
+| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malais |
+| ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
+| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonésien |
+| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonésien |
 
 ## Historique
 

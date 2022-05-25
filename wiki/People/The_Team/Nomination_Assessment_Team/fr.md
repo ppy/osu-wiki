@@ -84,7 +84,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinois | Évaluation |
 | ![][flag_VN] [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamien | Évaluation |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonésien | Évaluation, communication |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Espagnol, Portugais, Galicien, Italien, Japonais | Évaluation |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Espagnol, Portugais, Galician, Italien, Japonais | Évaluation |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Évaluation |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
