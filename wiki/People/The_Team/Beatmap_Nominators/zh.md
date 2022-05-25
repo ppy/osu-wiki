@@ -48,7 +48,9 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | :-- | :-- |
 | ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | 菲律宾语 |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | 印度尼西亚语 |
+| ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | 意大利语 |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
+| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | 俄语 |
 | ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | 韩语 |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | 意大利语 |
@@ -81,6 +83,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | 中文 |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
 | ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
+| ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | 德语 |
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | 丹麥语 |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
@@ -88,7 +91,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | 法语 |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | 意大利语 |
-| ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 中文，粤语 |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | 法语 |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | 俄语 |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
@@ -102,6 +104,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | 德语 |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | 芬兰语 |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | 泰语 |
+| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | 立陶宛语 |
 | ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
 | ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836) | |
@@ -183,18 +186,15 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | 意大利语 |
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
 | ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | 西班牙语 |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | 西班牙语 |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | 法语 |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
-| ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | 德语 |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 中文 |
 | ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691) | 中文 |
-| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | 立陶宛语 |
 
 #### osu!taiko
 
@@ -225,6 +225,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | 马来语 |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | 印度尼西亚语 |
+| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
 
 ## 历史
 
@@ -239,6 +240,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_BE]: /wiki/shared/flag/BE.gif "比利时"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
+[flag_BY]: /wiki/shared/flag/BY.gif "白俄罗斯"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
 [flag_CL]: /wiki/shared/flag/CL.gif "智利"
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"

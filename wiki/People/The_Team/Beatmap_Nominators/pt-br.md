@@ -50,7 +50,9 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonésio |
+| ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | Italiano |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
+| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Russo |
 | ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | Coreano |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | Italiano |
@@ -83,6 +85,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinês |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Russo |
 | ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
+| ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Alemão |
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | Dinamarquês |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russo |
@@ -90,7 +93,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Francês |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Italiano |
-| ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Chinês, Cantonês |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Francês |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Russo |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
@@ -104,6 +106,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Alemão |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finlandês |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Tailandês |
+| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Lituano |
 | ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
 | ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836) | |
@@ -185,18 +188,15 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | Italiano |
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
 | ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | Espanhol |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | Espanhol |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Francês |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
-| ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Alemão |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinês |
 | ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691) | Chinês |
-| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Lituano |
 
 #### osu!taiko
 
@@ -227,6 +227,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malaio |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonésio |
+| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonésio |
 
 ## History
 
@@ -239,6 +240,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 [flag_AU]: /wiki/shared/flag/AU.gif "Austrália"
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
+[flag_BY]: /wiki/shared/flag/BY.gif "Bielorrússia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"

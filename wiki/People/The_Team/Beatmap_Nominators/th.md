@@ -50,7 +50,9 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | :-- | :-- |
 | ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | ฟิลิปปินส์ |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | อินโดนีเซีย |
+| ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | อิตาลี |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
+| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | รัสเซีย |
 | ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | เกาหลี |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | อิตาลี |
@@ -83,6 +85,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | จีน |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | รัสเซีย |
 | ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
+| ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | เยอรมัน |
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | เดนมาร์ก |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | รัสเซีย |
@@ -90,7 +93,6 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | ฝรั่งเศส |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | อิตาลี |
-| ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | จีน, กวางตุ้ง |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | ฝรั่งเศส |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | รัสเซีย |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
@@ -104,6 +106,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | เยอรมัน |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | ฟินแลนด์ |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | ไทย |
+| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | ลิทัวเนีย |
 | ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
 | ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836) | |
@@ -185,18 +188,15 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | อิตาลี |
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
 | ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | สเปน |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | สเปน |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | ฝรั่งเศส |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
-| ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | เยอรมัน |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | จีน |
 | ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691) | จีน |
-| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | ลิทัวเนีย |
 
 #### osu!taiko
 
@@ -227,6 +227,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | มาเลย์ |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | อินโดนีเซีย |
+| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | อินโดนีเซีย |
 
 ## ประวัติ
 
@@ -239,6 +240,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 [flag_AU]: /wiki/shared/flag/AU.gif "ออสเตรเลีย"
 [flag_BE]: /wiki/shared/flag/BE.gif "เบลเยียม"
 [flag_BR]: /wiki/shared/flag/BR.gif "บราซิล"
+[flag_BY]: /wiki/shared/flag/BY.gif "เบลารุส"
 [flag_CA]: /wiki/shared/flag/CA.gif "แคนาดา"
 [flag_CL]: /wiki/shared/flag/CL.gif "ชิลี"
 [flag_CN]: /wiki/shared/flag/CN.gif "จีน"

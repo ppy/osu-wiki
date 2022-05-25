@@ -50,7 +50,9 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipince |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Endonezce |
+| ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | İtalyanca |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
+| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Rusça |
 | ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | Korece |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | İtalyanca |
@@ -83,6 +85,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Çince |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Rusça |
 | ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
+| ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Almanca |
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | Danca |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Rusça |
@@ -90,7 +93,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Fransızca |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | İtalyanca |
-| ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Çince, Kantonca |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Fransızca |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Rusça |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
@@ -104,6 +106,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Almanca |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Fince |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Tay dili |
+| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Litvanca |
 | ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
 | ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836) | |
@@ -185,18 +188,15 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | İtalyanca |
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
 | ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | İspanyolca |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | İspanyolca |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Fransızca |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
-| ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Almanca |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Çince |
 | ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691) | Çince |
-| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | Litvanca |
 
 #### osu!taiko
 
@@ -227,6 +227,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malay dili |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Endonezce |
+| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Endonezce |
 
 ## Tarihçe
 
@@ -239,6 +240,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 [flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"
+[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Şili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Çin"
