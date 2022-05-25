@@ -30,7 +30,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1396156)
 
 ### 24 Hr Drive-Thru
 
-If you're looking for something easier, try [this chill mapset](https://osu.ppy.sh/beatmapsets/1724847) hosted by [SMOEKLIND](https://osu.ppy.sh/users/9327302)!
+If you're looking for something easier, try [this chill mapset](https://osu.ppy.sh/beatmapsets/1724847) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/269/Somewhere%20City%2FOrigami%20Angel%20-%2024%20Hr%20Drive-Thru.mp3" type="audio/mpeg">
