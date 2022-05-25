@@ -201,3 +201,4 @@ no_native_review: true
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra：可替代 Expert。
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme (極限)：指比 Expert 更難的難度。
 - ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni (獄鬼)：指比 Inner Oni 更難的難度。
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge：指比 Overdose 更難的難度。
