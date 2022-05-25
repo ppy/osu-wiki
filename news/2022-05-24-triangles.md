@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "triangles"
-date: 2022-05-24 23:00:00 +0000
+date: 2022-05-26 23:00:00 +0000
 ---
 
 Mappers and storyboarders unite in osu!'s newest contest: **triangles**!
@@ -26,7 +26,8 @@ To participate in this contest, you need a **team of 2-5 mappers/storyboarders**
   - of the song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*
   - following the [ranking criteria](/wiki/Ranking_Criteria) 
   - with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert
-- A **triangle-themed** storyboard
+- A **triangle-themed** storyboard...
+  - with a `.osb` file no greater than **1 MB**. This is to ensure the storyboard is well optimised and doesn't take too long to parse and load into the game.
 
 **Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).** Once confirmed, your team will be published on the [*triangles* contest wiki page](/wiki/Contests/triangles_Contest)!
 
@@ -34,7 +35,7 @@ Unlike last year's [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-
 
 ## Schedule
 
-- **May 24 - July 18:** Contest is open for submissions [here](https://osu.ppy.sh/community/contests/147)!
+- **May 26 - July 18:** Contest is open for submissions [here](https://osu.ppy.sh/community/contests/147)!
 - **July 19 - July 31:** Submissions are evaluated by a team of judges.
 - **August 01 - August 15:** Top beatmaps are published for community vote and lazer playlists.
 - **August 20:** Livestream announcement of contest results!
@@ -106,9 +107,10 @@ In case one team wins multiple categories, we'll combine their profile badges ac
 
 Surprising absolutely nobody, this contest has RULES:
 
-- **Submission must including the following:**
+- **Submission must include the following:**
   - A beatmap spread of *cYsmix - triangles* with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert. [Download the beatmap template here!](https://assets.ppy.sh/artists/2/Songs/cYsmix%20-%20triangles.osz)
-  - A storyboard.
+  - A storyboard with a `.osb` file no greater than **1 MB**. This is to ensure the storyboard is well optimised and doesn't take too long to parse and load into the game.
+- **Submission must be no greater than 10 MB.** While not required, we recommend designs that use simple shapes, keep resources to a minimum, and align with lazer's approach to UI design.
 - **Submission must be in `.osz` format.**
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
