@@ -105,18 +105,18 @@ Les organisateurs de tournois devront fournir une liste séparée par des virgul
 La liste séparée par des virgules doit ressembler à ceci :
 
 ```csv
-User1,1234567
-User2,1234567
-User3,1234567
+Utilisateur1,1234567
+Utilisateur2,1234567
+Utilisateur3,1234567
 ```
 
 Pour les tournois par équipe, le format attendu est le suivant :
 
 ```csv
-User1,Team1,1234567
-User2,Team1,1234567
-User3,Team2,1234567
-User4,Team2,1234567
+Utilisateur1,Équipe1,1234567
+Utilisateur2,Équipe1,1234567
+Utilisateur3,Équipe2,1234567
+Utilisateur4,Équipe2,1234567
 ```
 
 Une fois le screening terminé, l'équipe de support aux comptes fournira une liste de tous les utilisateurs qui n'ont pas passé le screening et qui ne sont pas considérés comme éligibles pour le tournoi, sans fournir de raison spécifique. Les utilisateurs qui ne sont pas satisfaits du résultat du screening doivent être invités à consulter [accounts@ppy.sh](mailto:accounts@ppy.sh) par e-mail.
