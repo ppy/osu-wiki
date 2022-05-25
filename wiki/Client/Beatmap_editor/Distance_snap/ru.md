@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Distance Snap
 
 **Distance Snap** — фиксированный множитель расстояния между нотами.

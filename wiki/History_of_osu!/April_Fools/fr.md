@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 45d0ff932649c6f2c7f8c76ce5d616154ca0ecf8
 tags:
   - april fools
   - april 1st
@@ -103,7 +101,7 @@ Le clip de "Bad Apple!!" était une sorte de blague à l'époque, les remixes de
 
 ### BanchoBot devient une tsundere
 
-Le 1er avril 2013, [BanchoBot](/wiki/BanchoBot) a été transformé en [tsundere](https://fr.wikipedia.org/wiki/Tsundere). En ce jour de poisson d'avril, chaque fois qu'un utilisateur donnait une commande à BanchoBot ou l'invitait à parler dans un chat public, ses messages de chat étaient remplacés par des réponses stéréotypées d'une tsundere avec un intérêt romantique [[24,25,26,27,28,29]][r].
+Le 1er avril 2013, [BanchoBot](/wiki/BanchoBot) a été transformé en [tsundere](https://fr.wikipedia.org/wiki/Tsundere). En ce jour de poisson d'avril, chaque fois qu'un utilisateur donnait une commande à BanchoBot ou l'invitait à parler dans un tchat public, ses messages de tchat étaient remplacés par des réponses stéréotypées d'une tsundere avec un intérêt romantique [[24,25,26,27,28,29]][r].
 
 ![](img/2013-regular-banchobot.jpg "Interactions avec BanchoBot en 2013")
 
@@ -173,7 +171,7 @@ Dans le cadre de la poignée de blagues du poisson d'avril 2016, le [osu! cookie
 
 ## 2017
 
-Comme annoncé dans un [tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de osu!(lazer).
+Comme annoncé dans un [Tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de la version lazer du client d'osu!.
 
 ---
 
@@ -289,7 +287,7 @@ Le poisson d'avril 2021 a recyclé la même blague que les deux années précéd
 64. [Reddit post (r/osugame) [u/AdriaLOL] - "haha, nice april fools peppy XD"](https://www.reddit.com/r/osugame/comments/88qlwk/haha_nice_april_fools_peppy_xd/)
 65. [osu! forum thread (General Discussion) [Aochie] - "The osu! logo is moving?"](https://osu.ppy.sh/community/forums/topics/724377)
 66. [osu! forum thread (Resolved Issues [Jreen] - "[resolved] Osu! Logo Sideways?"](https://osu.ppy.sh/community/forums/topics/724094)
-67. [osu! wiki article - "History of osu! 2018"](/wiki/History_of_osu!/2018#april)
+67. [osu! wiki article - "History of osu! 2018"](/wiki/History_of_osu!/2018#avril)
 68. [Reddit post (r/osugame) [u/jivko500] - "The April Fools joke in osu"](https://www.reddit.com/r/osugame/comments/b83pnl/the_april_fools_joke_in_osu/)
 69. [Reddit post (r/osugame) [u/anoymaly2152] - "Bless you, Pippi."](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/)
 70. [osu! forum thread (Off-Topic) [Brainage] - "No April Fools in the changelog?"](https://osu.ppy.sh/community/forums/topics/888939)

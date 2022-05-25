@@ -14,14 +14,14 @@ La **Catch French Beginner 5** (***CFB5***) était un tournoi 1v1 français déb
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2020-12-26/2021-01-10 |
-| Live drawings | 2021-01-10 (22:00 UTC+2) |
-| Qualifications | 2021-01-16/2021-01-17 |
-| Huitièmes de finale | 2021-01-23/2021-01-24 |
-| Quarts-de-finale | 2021-01-30/2021-01-31 |
-| Demi-finales | 2021-02-06/2021-02-07 |
-| Finales | 2021-02-13/2021-02-13 |
-| Grandes Finales | 2021-02-20/2021-02-21 |
+| Phase d'inscription | 26/12/2020 - 10/01/2021 |
+| Live drawings | 10/01/2021 (22:00 UTC+2) |
+| Qualifications | 16/01/2021 - 17/01/2021 |
+| Huitièmes de finale | 23/01/2021 - 24/01/2021 |
+| Quarts-de-finale | 30/01/2021 - 31/01/2021 |
+| Demi-finales | 06/02/2021 - 07/02/2021 |
+| Finales | 13/02/2021 - 13/02/2021 |
+| Grandes Finales | 20/02/2021 - 21/02/2021 |
 
 ## Récompenses
 
@@ -305,7 +305,7 @@ Samedi, 23 Janvier 2021:
 | **Shamookie** ![][flag_FR] | **4** | 0 | ![][flag_FR] iron-wish | [#1](https://osu.ppy.sh/community/matches/74054310) |
 | **Redjiii** ![][flag_FR] | **4** | 0 | ![][flag_FR] JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/74040385) |
 | **MitsukeZ** ![][flag_FR] | **4** | 2 | ![][flag_FR] caillrot | [#1](https://osu.ppy.sh/community/matches/74057644) |
-| **Beltheor** ![][flag_FR] | **4** | 1 | ![][flag_Fr] Okawashi | [#1](https://osu.ppy.sh/community/matches/74060895) |
+| **Beltheor** ![][flag_FR] | **4** | 1 | ![][flag_FR] Okawashi | [#1](https://osu.ppy.sh/community/matches/74060895) |
 | **Jibsz** ![][flag_FR] | **4** | 0 | ![][flag_FR] AceEpmo | [#1](https://osu.ppy.sh/community/matches/74074646) |
 
 Dimanche, 24 Janvier 2021:

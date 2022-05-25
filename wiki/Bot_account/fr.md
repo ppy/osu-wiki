@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 421d351504f7f02cbe916b63fc6120b24fce0c3a
 tags:
   - bot accounts
   - chat bot
@@ -13,7 +11,7 @@ tags:
 
 Un **compte bot** est un type spécial de compte osu! appartenant à un service automatisé et non à une personne. Sur le site web, ils ont un badge de groupe blanc intitulé `BOT`, et seulement la section `moi!` de leur profil est visible. Les comptes bots sont principalement utilisés pour héberger des "tchat bots" qui offrent des fonctionnalités variées dans les salons [multijoueur](/wiki/Gameplay/Multiplayer) ou encore dans les messages privés.
 
-Les comptes bot ne peuvent être créés que via [un formulaire d'inscription](#créer-un-compte-bot). Essayer de créer un compte bot en s'inscrivant est considéré comme du multi-compte, ce qui est à l'encontre des [règles de la communauté](/wiki/Rules#règles-de-communauté).
+Les comptes bot ne peuvent être créés que via [un formulaire d'inscription](#créer-un-compte-bot). Essayer de créer un compte bot en s'inscrivant est considéré comme du multi-compte, ce qui est à l'encontre des [règles de la communauté](/wiki/Rules#règles-communautaires).
 
 ## Avantages des comptes bot  
 
@@ -22,7 +20,7 @@ La différence principale entre les comptes personnels et les comptes bot se sit
 - Les comptes personnels peuvent envoyer 10 messages toutes les 5 secondes
 - Les comptes bot peuvent envoyer 300 messages toutes les 60 secondes
 
-Ces limitations s'appliquent uniquement dans les messages privés, et dans les salons `#multiplayer`, et `#spectator`. Les comptes bot ne sont pas autorisés à envoyer des messages dans les autres salons.
+Ces limitations s'appliquent uniquement dans les messages privés, et dans les salons `#multiplayer`, et `#spectator`. Les comptes bot ne sont pas autorisés à envoyer des messages dans les autres salons, ni de messages privés non sollicités.
 
 ## Créer un compte bot
 
@@ -37,6 +35,7 @@ Avant d'envoyer une requête, le support a besoin que le bot remplisse les crit�
 - Le bot est utilisé par au moins 50 utilisateurs chaque mois
 - Le bot respecte les limitations de comptes personnels
 - Le bot n'envoie aucun message dans les salons publics
+- Le bot n'envoie pas de messages privés non sollicités.
 - Le bot est utile et a une grande audience dans la communauté osu!
 
 ### Remplir une requête

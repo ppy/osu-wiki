@@ -55,7 +55,7 @@ Supporters can further customise their profile by setting a cover image:
 - Press the pencil icon in the lower right corner of the cover placeholder.
 - Select a new cover from a few predefined options, or upload your own image (its dimensions should be 2400x640).
 
-Once osu!supporter expires, the cover will be replaced with a standard one.
+Once osu!supporter expires, the cover will remain, but cannot be changed.
 
 ### One free username change
 
@@ -122,7 +122,7 @@ Supporters may access multiplayer from builds on the early access "cutting edge"
 ## Remaining duration
 
 ::: Infobox
-![](img/status.jpg?1 "Three months of osu!supporter left")
+![](img/status.jpg?1 "osu!supporter purchase statistics")
 :::
 
 The remaining osu!supporter duration, as well as total amount of contributions, tag purchases, and gifts, is available at the top of the [osu!supporter promo page](https://osu.ppy.sh/home/support).

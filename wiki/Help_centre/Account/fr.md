@@ -50,17 +50,15 @@ Si votre compte a été restreint, vous saurez probablement pourquoi après une 
 
 Dans les situations où nous sommes absolument sûrs qu'un acte répréhensible a eu lieu, nous vous demanderons d'attendre une période de **trois mois** à partir de la date de votre dernière infraction avant de considérer un appel de votre part pour vous laisser revenir sur le jeu.
 
-Consultez la page *[restrictions du compte](/wiki/Help_centre/Account_restrictions)* pour plus d'informations sur les restrictions des comptes et des procédures d'appels.
+Consultez la page *[Restrictions de compte](/wiki/Help_centre/Account_restrictions)* pour plus d'informations sur les restrictions de compte et des procédures d'appel.
 
-## Bans des tournois
+## Bannissement des tournois
 
-### Qu'est-ce qu'un ban des tournois ?
+### Qu'est-ce qu'un bannissement des tournois ?
 
-Un ban des tournois est, comme son nom l'indique, une interdiction de participer à tous les tournois officiels.
+Un bannissement des tournois est, comme son nom l'indique, une interdiction de participer à tous les tournois officiels.
 
-Un utilisateur peut recevoir un ban des tournois pour avoir délibérément enfreint les règles de la communauté d'osu! pendant un tournoi, selon la gravité de l'infraction. Parmi les exemples de mauvais comportement, citons la tentative d'obtenir un avantage déloyal dans un tournoi officiel par quelque moyen que ce soit, le fait d'être injurieux envers toute personne participant à un tournoi ou de perturber délibérément le déroulement d'un tournoi.
-
-La plupart des bans des tournois ont une durée déterminée, allant de 3 mois à un an ou plus. Certains bannissements peuvent être permanents. Quelle que soit la durée du ban, tous les bans des tournois sont **irrévocables** et ne peuvent faire l'objet d'un appel comme les restrictions.
+Voir l'article [Bannissement des tournois](/wiki/Help_centre/Tournament_bans) pour plus d'informations sur le sujet.
 
 ## Connexion
 
@@ -149,7 +147,7 @@ Si vous avez acheté (ou reçu) un [tag de supporter](https://osu.ppy.sh/home/su
 
 À tout moment par la suite, vous pouvez acheter un [changement du nom d'utilisateur](https://osu.ppy.sh/store/products/32) pour changer votre nom d'utilisateur en ce que vous souhaitez. Cependant, chaque changement deviendra progressivement plus cher - le deuxième coûtera 8$, le troisième 16$, et ainsi de suite, jusqu'à un plafond de 100$. Nous faisons cela pour empêcher les utilisateurs d'abuser du système pour changer leur nom très rapidement.
 
-Veuillez noter que les noms d'utilisateur doivent respecter les [règles de la communauté](/wiki/Rules#règles-de-communauté), c'est-à-dire qu'ils ne doivent pas être offensants pour les autres utilisateurs, ni provocants ou susceptibles de créer des conflits. En outre, les noms d'utilisateur qui usurpent l'identité de personnalités publiques importantes (telles que des célébrités, des politiciens, etc.) ne sont pas autorisés et seront annulés dès que nous les découvrirons.
+Veuillez noter que les noms d'utilisateur doivent respecter les [règles de la communauté](/wiki/Rules#règles-communautaires), c'est-à-dire qu'ils ne doivent pas être offensants pour les autres utilisateurs, ni provocants ou susceptibles de créer des conflits. En outre, les noms d'utilisateur qui usurpent l'identité de personnalités publiques importantes (telles que des célébrités, des politiciens, etc.) ne sont pas autorisés et seront annulés dès que nous les découvrirons.
 
 Si vous ne recherchez que des modifications mineures en matière de capitalisation ou de grammaire/orthographe, vous pouvez envoyer un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) pour demander un changement de nom gratuit afin de corriger ces problèmes. Nous ne vous facturerons pas pour ce type de changement de nom, mais vous **DEVEZ** le faire par le biais d'un e-mail au support. Gardez à l'esprit que nous n'effectuerons cette opération qu'un nombre limité de fois, alors assurez-vous que vous le souhaitez vraiment !
 
@@ -215,7 +213,7 @@ Si vous avez actuellement plus d'un compte, veuillez nous contacter à l'adresse
 
 Nous envisageons des achats supplémentaires de 'remise à zéro du score' dans l'osu!store pour les joueurs les plus acharnés qui ne souhaitent rien d'autre que la perfection dans leurs statistiques, mais en l'état actuel des choses, nous ne pouvons pas effacer les statistiques d'un compte pour vous.
 
-Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour faire la même chose ! Le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-de-communauté) et nous désactiverons tous les comptes de ce type qui nous seront signalés.
+Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour faire la même chose ! Le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires) et nous désactiverons tous les comptes de ce type qui nous seront signalés.
 
 ### Puis-je supprimer mon compte ?
 
@@ -223,7 +221,7 @@ Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour fair
 
 *Attention : La suppression d'un compte est permanente, et ne peut donc pas être annulée !*
 
-Oui, tout utilisateur peut demander la suppression de son compte en envoyant un courriel à [privacy@ppy.sh](mailto:privacy@ppy.sh). Gardez à l'esprit que la suppression de votre compte est **définitive**, ce qui signifie qu'elle ne peut pas être annulée. La suppression de votre compte ne signifie pas que vous pouvez créer un nouveau compte, car le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-de-communauté). Cela signifie que vous ne pourrez plus utiliser aucune des fonctionnalités en ligne d'osu!. 
+Oui, tout utilisateur peut demander la suppression de son compte en envoyant un courriel à [privacy@ppy.sh](mailto:privacy@ppy.sh). Gardez à l'esprit que la suppression de votre compte est **définitive**, ce qui signifie qu'elle ne peut pas être annulée. La suppression de votre compte ne signifie pas que vous pouvez créer un nouveau compte, car le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires). Cela signifie que vous ne pourrez plus utiliser aucune des fonctionnalités en ligne d'osu!. 
 
 ### Puis-je jouer sur un ordinateur qu'un autre utilisateur d'osu! a déjà utilisé ?
 

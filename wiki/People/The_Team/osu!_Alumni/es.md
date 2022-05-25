@@ -94,6 +94,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ![][flag_US] [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | QAT |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | NAT |
 | ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) | BAT, moderador del chat, GMT, QAT |
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
@@ -147,7 +148,6 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | QAT, NAT |
 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, osu!dev |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | NAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
 | ![][flag_KR] [minyeob](https://osu.ppy.sh/users/9207) | BAT |
@@ -165,6 +165,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | QAT, NAT |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ![][flag_CN] [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
@@ -179,7 +180,6 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ![][flag_MY] [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
 | ![][flag_US] [Protastic101](https://osu.ppy.sh/users/6712747) | QAT |
-| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Moderador del chat, GMT |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ![][flag_US] [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
@@ -223,6 +223,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
+| ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Moderador del chat, GMT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Moderador del chat |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, equipo de soporte |
@@ -272,7 +273,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japón"
-[flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corea del Sur"
 [flag_MD]: /wiki/shared/flag/MD.gif "Moldavia"
 [flag_MX]: /wiki/shared/flag/MX.gif "México"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malasia"
@@ -282,7 +283,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 [flag_PE]: /wiki/shared/flag/PE.gif "Perú"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
-[flag_RU]: /wiki/shared/flag/RU.gif "Federación Rusa"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suecia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tailandia"

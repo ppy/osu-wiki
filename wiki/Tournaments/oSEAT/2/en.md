@@ -676,7 +676,7 @@ Saturday, 15 December 2018:
 | **MioMilo** ![][flag_PH] | **5** | 3 | ![][flag_ID] Somay 287 | [#1](https://osu.ppy.sh/community/matches/48110965) |
 | **moosepi** ![][flag_SG] | **5** | 3 | ![][flag_PH] Xidorn | [#1](https://osu.ppy.sh/community/matches/48112145) |
 | **Loslite** ![][flag_SG] | **5** | 1 | ![][flag_SG] Snipey | [#1](https://osu.ppy.sh/community/matches/48112171) |
-| Yuu-Chii ![][flag_My] | 2 | **5** | ![][flag_ID] **121Brian121** | [#1](https://osu.ppy.sh/community/matches/48112154) |
+| Yuu-Chii ![][flag_MY] | 2 | **5** | ![][flag_ID] **121Brian121** | [#1](https://osu.ppy.sh/community/matches/48112154) |
 | **fixedbyglue** ![][flag_PH] | **5** | 1 | ![][flag_ID] Evanescent- | [#1](https://osu.ppy.sh/community/matches/48112166) |
 | **Zygody** ![][flag_MY] | **5** | 0 | ![][flag_SG] CryingWaff | [#1](https://osu.ppy.sh/community/matches/48112213) |
 | LMT ![][flag_VN] | 1 | **5** | ![][flag_SG] **Loslite** | [#1](https://osu.ppy.sh/community/matches/48113560) |

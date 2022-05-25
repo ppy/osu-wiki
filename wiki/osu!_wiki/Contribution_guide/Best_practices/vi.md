@@ -95,5 +95,5 @@ Tuỳ vào mức độ nghiêm trọng của các conflict, bạn có hai lựa 
    3. Từ đây, sửa các conflict thủ công và xoá các đánh dấu `<<<<<<<`, `=======`, và `>>>>>>> master`.
    4. Lặp lại quá trình trên với mọi conflict.
    5. Khi hoàn thành, nhấn `Mark as resolved` (bạn chỉ có thể làm điều này khi mọi phần conflict trong tệp đã được xử lý).
-2. Nếu nút `Resolve conflicts` bị khoá vì nó quá phức tạp đối với GitHub, bạn đã gặp xui xẻo và cần phải [cập nhật branch của bạn](#branch-của-tôi-đã-lỗi-thời) và thực hiện lại các thay đổi của bạn.
+2. Nếu nút `Resolve conflicts` bị khoá vì nó quá phức tạp đối với GitHub, bạn đã gặp xui xẻo và cần phải [cập nhật branch của bạn](#branch-của-tôi-đã-lỗi-thời!) và thực hiện lại các thay đổi của bạn.
    - *Chú ý: Điều này chỉ đúng khi bạn giới hạn ở việc sử dụng Giao diện Web GitHub.*  Vẫn còn nhiều cách khác để sửa, nhưng chúng sẽ không được đề cập trong bài viết này, và có thể nó không đáng để làm vậy, bởi vì đằng nào bạn cũng sẽ phải ghi đè và hoàn tác lại các thay đổi bị conflict.

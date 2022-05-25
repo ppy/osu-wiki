@@ -36,14 +36,14 @@ The Skinning Contest #2 is run by various community members.
 
 | User | Responsibility |
 | :-- | :-- |
-| ![][Flag_DE] [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning, graphic design |
-| ![][Flag_RO] [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
-| ![][Flag_NL] [Roan](https://osu.ppy.sh/users/8214639) | Contest planning, internal tool development |
-| ![][Flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
-| ![][Flag_GB] [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
-| ![][Flag_NL] [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
-| ![][Flag_PL] [watterino](https://osu.ppy.sh/users/3512261) | Video editor |
-| ![][Flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning, newspost writer |
+| ![][flag_DE] [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning, graphic design |
+| ![][flag_RO] [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
+| ![][flag_NL] [Roan](https://osu.ppy.sh/users/8214639) | Contest planning, internal tool development |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
+| ![][flag_GB] [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
+| ![][flag_NL] [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
+| ![][flag_PL] [watterino](https://osu.ppy.sh/users/3512261) | Video editor |
+| ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning, newspost writer |
 
 ## Links
 

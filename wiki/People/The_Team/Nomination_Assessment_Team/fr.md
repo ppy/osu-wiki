@@ -1,11 +1,11 @@
 ---
-outdated: true
-outdated_since: 17fb11cfdf1bc72ce3f85c62bed260d9870c1cc8
 tags:
   - NAT
 ---
 
 # Nomination Assessment Team
+
+*Voir également : [Évaluations des Beatmap Nominators](Evaluations)*
 
 La **Nomination Assessment Team** (***NAT***) sont les modérateurs des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) et s'assure que le côté beatmapping d'osu! reste fonctionnel.
 
@@ -19,14 +19,14 @@ Les membres de la NAT se distinguent par leur nom d'utilisateur rouge et leur ti
 
 Les NAT sont responsables d'une variété de tâches liées au mapping qui peuvent être séparées en quatre sous-catégories :
 
-- **Évaluation :** Évaluer les compétences et l'activité des candidats et des Beatmap Nominators actuels. La plupart des membres de la NAT sont responsables de la contribution à cette sous-catégorie.
+- **Évaluation :** Évaluer les compétences et l'activité des candidats et des Beatmap Nominators actuels. La plupart des membres de la NAT sont responsables de la contribution à cette sous-catégorie. Pour plus de détails sur le fonctionnement des évalutations, veuillez voir la page sur les [évaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations).
 - **Structure :** Documenter les sujets relatifs au processus de classement, modifier les règles et les directives relatives aux [critères de classement](/wiki/Ranking_Criteria), développer et maintenir les outils et les sites web associés.
 - **Modération :** Traiter les signalements des utilisateurs et évaluer le comportement inapproprié des Beatmap Nominators. Cette sous-catégorie est un effort conjoint entre la NAT et la GMT.
 - **Communication :** Promouvoir la transparence entre la NAT et la communauté de mapping/modding, notamment en créant et en organisant des réunions.
 
 Un membre de la NAT peut s'engager dans n'importe quelle tâche de la sous-catégorie de son choix, malgré la liste de ses responsabilités principales. Par exemple, si un membre de la NAT s'engage dans les tâches de la sous-catégorie `Structure`, il n'est pas responsable de toutes les tâches de cette sous-catégorie et il peut toujours aider aux tâches de toute autre sous-catégorie.
 
-En plus des droits de modération, les NAT possèdent également la capacité de [nominer](/wiki/Beatmap_ranking_procedure#nominations), [qualifier](/wiki/Beatmap_ranking_procedure#qualification), et [réinitialiser les nominations](/wiki/Beatmap_ranking_procedure##réinitialisation-de-la-nomination) sur les beatmaps. Dans ce domaine, ils sont considérés comme des [BN confirmés](/wiki/People/The_Team/Beatmap_Nominators#beatmap-nominators-confirmés), et toutes les règles et attentes des BN, à part l'activité, s'appliquent aux membres des NAT. Les membres de la NAT ne sont pas censés nominer des beatmaps régulièrement comme le font les BN en raison de leurs responsabilités supplémentaires dans la communauté de modding et de mapping d'osu!.
+En plus des droits de modération, les NAT possèdent également la capacité de [nominer](/wiki/Beatmap_ranking_procedure#nominations), [qualifier](/wiki/Beatmap_ranking_procedure#qualification), et [réinitialiser les nominations](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) sur les beatmaps. Dans ce domaine, ils sont considérés comme des [BN confirmés](/wiki/People/The_Team/Beatmap_Nominators#beatmap-nominators-confirmés), et toutes les règles et attentes des BN, à part l'activité, s'appliquent aux membres des NAT. Les membres de la NAT ne sont pas censés nominer des beatmaps régulièrement comme le font les BN en raison de leurs responsabilités supplémentaires dans la communauté de modding et de mapping d'osu!.
 
 Les membres de la NAT qui contribuent principalement à la sous-catégorie `Évaluation` sont également responsables de modder au moins 3 beatmaps par mois. Cela garantit que la NAT est à jour avec la communauté des moddeurs lors de l'évaluation des Beatmap Nominators. Les membres qui ne remplissent pas les conditions d'activité de modding recevront un avertissement. Si leur activité ne s'améliore pas au cours du mois suivant, ils seront retirés de la NAT. Les membres de la NAT travaillant sur d'autres projets liés au mapping peuvent être exemptés des exigences de modding au cas par cas.
 
@@ -42,7 +42,7 @@ La NAT suit les candidats potentiels à la NAT sur de longues périodes, et se r
 
 *Remarque : Tous les membres de la NAT parlent l'anglais en plus de la ou des langues énumérées ci-dessous, sauf indication contraire.*
 
-La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7) contient la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la Nomination Assessment Team prennent part à [l'examen du contenu audio et visuel inclus dans les beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7) contient la liste de tous les membres de l'équipe. En plus des domaines mentionnés ci-dessous, tous les membres de la Nomination Assessment Team prennent part à [l'examen du contenu audio et visuel inclus dans les beatmaps](/wiki/Rules/Visual_Content_Considerations#faire-évaluer-votre-image).
 
 ### osu!
 
@@ -50,10 +50,12 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Évaluation, modération |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, Chinois | Évaluation |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, un peu de Arabe | Évaluation, structure, modération, communication |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinois | Évaluation |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Structure, communication |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Évaluation, structure, communication |
+| ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Évaluation |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structure |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  | Évaluation |
+| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Allemand, Serbe | Évaluation |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Évaluation |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Espagnol, Français | Évaluation |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Néerlandais | Évaluation |
@@ -80,9 +82,12 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | Nom | Langues supplémentaires | Principales responsabilités |
 | :-- | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinois | Évaluation |
+| ![][flag_VN] [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamien | Évaluation |
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonésien | Évaluation, communication |
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Espagnol, Portugais, Galician, Italien, Japonais | Évaluation |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Évaluation |
 
+[flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
@@ -90,7 +95,9 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
 [flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

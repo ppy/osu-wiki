@@ -36,7 +36,7 @@ Pour les deux registres, toutes les règles de cette partie des critères de sty
 Les noms d'articles, lorsqu'ils sont écrits dans un paragraphe, ne doivent pas prendre de majuscule, sauf s'il s'agit d'un lien qui pointe vers l'article ou d'un nom propre (par exemple, BanchoBot). Voici un exemple :
 
 ```markdown
-Si vous voulez en savoir plus sur le tchat, reportez-vous à [Console de chat](/wiki/Client/Interface/Chat_console).
+Si vous voulez en savoir plus sur le tchat, reportez-vous à [Console de tchat](/wiki/Client/Interface/Chat_console).
 ```
 
 ### Modificateurs de jeu
@@ -221,6 +221,7 @@ Pour tous les autres termes, osu! doit être traité comme un nom seul. Cela sig
 
 - `osu! tournament`
 - `osu! community`
+- `osu! tchat`
 - `osu! chat`
 - `osu! client`
 - `osu! wiki`
@@ -293,7 +294,7 @@ Les expressions `tu` et `ton` sont à éviter. Le `je` ne doit pas être utilis�
 
 ---
 
-[Les articles avec registres informels](#registre-des-langues) peuvent ignorer cette section ; cependant, il faut éviter de mettre des `je` dans les paragraphes.
+[Les articles avec registres informels](#registre-de-langue) peuvent ignorer cette section ; cependant, il faut éviter de mettre des `je` dans les paragraphes.
 
 ## Grammaire et syntaxe
 
@@ -303,11 +304,11 @@ Les articles doivent utiliser de préférence une grammaire et une syntaxe fran�
 
 *Pour le formatage des nombres, voir les [conventions typographiques de Wikipédia concernant les nombres](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Conventions_typographiques#Nombres)*
 
-[Les articles avec registres informels](#registre-des-langues) peuvent ignorer cette section ; toutefois, l'usage doit rester cohérent tout au long de l'article.
+[Les articles avec registres informels](#registre-de-langue) peuvent ignorer cette section ; toutefois, l'usage doit rester cohérent tout au long de l'article.
 
 ### Points-virgules
 
-[Les articles avec registres informels](#registre-des-langues) doivent éviter d'utiliser les points-virgules (`;`).
+[Les articles avec registres informels](#registre-de-langue) doivent éviter d'utiliser les points-virgules (`;`).
 
 ### Virgule en série
 

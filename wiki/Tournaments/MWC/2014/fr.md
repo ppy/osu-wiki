@@ -111,7 +111,7 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
    2. Les paramètres de la salle sont les suivants : osu!mania ; Team VS ; victoire sur score. Le nom de la salle doit suivre cette nomenclature : "MWC 2014: TeamBlue vs TeamRed"
    3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
 2. Les joueurs ont la possibilité de s'échauffer sur une beatmap de leur choix avant le début de la partie.
-3. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande `!roll` dans le chat ; le plus grand nombre l'emporte.
+3. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande `!roll` dans le tchat ; le plus grand nombre l'emporte.
    1. Les capitaines peuvent choisir autant de beatmaps de la catégorie FreeMod qu'ils le souhaitent.
    2. En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker doit être joué.
 4. Les résultats seront publiés dans le tableau officiel des résultats et statistiques (cf. rubrique « Liens importants »).

@@ -147,7 +147,7 @@ Pour forcer la recréation de votre base de données des beatmaps en toute sécu
 7. Renommez-le comme bon vous semble. Ce n'est pas important, tant que vous le ne renommez pas "osu!". Puis appuyez sur `Entrer`.
 8. Relancez osu!
 
-*Remarque : un correctif pour ce problème a été ajouté dans la version [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) datée du 2021-05-19. Si vous rencontrez toujours ce problème, veuillez [nous le faire savoir ici](https://github.com/ppy/osu-stable-issues/issues).*
+*Remarque : un correctif pour ce problème a été ajouté dans la version [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) datée du 19/05/2021. Si vous rencontrez toujours ce problème, veuillez [nous le faire savoir ici](https://github.com/ppy/osu-stable-issues/issues).*
 
 ### Ma liste de beatmaps défile toute seule !
 
@@ -255,7 +255,7 @@ Dans le menu de sélection des beatmaps, vérifiez la présence de petites icôn
 
 ![](img/correct-map-status-FR.png "Voici à quoi cela devrait ressembler")
 
-Jouer avec le `Classement général` sélectionné, plutôt qu'avec le classement local, peut aider à empêcher cela. Si un grand nombre de vos beatmaps, ou toutes vos beatmaps, n'ont pas de statut ou ont des statuts incorrects, essayez de forcer la recréation de votre fichier de base de données de beatmaps. Vous pouvez découvrir comment le faire en toute sécurité dans la section "[Certaines de mes beatmaps ont disparu !](#certaines-de-mes-beatmaps-ont-disparu)". Après avoir effectué cette opération, il se peut que cela prenne un certain temps pour que toutes vos beatmaps retrouvent leur statut correct.
+Jouer avec le `Classement général` sélectionné, plutôt qu'avec le classement local, peut aider à empêcher cela. Si un grand nombre de vos beatmaps, ou toutes vos beatmaps, n'ont pas de statut ou ont des statuts incorrects, essayez de forcer la recréation de votre fichier de base de données de beatmaps. Vous pouvez découvrir comment le faire en toute sécurité dans la section "[Certaines de mes beatmaps ont disparu !](#certaines-de-mes-beatmaps-ont-disparu-!)". Après avoir effectué cette opération, il se peut que cela prenne un certain temps pour que toutes vos beatmaps retrouvent leur statut correct.
 
 #### Les serveurs de soumission des scores sont-ils opérationnels ?
 
