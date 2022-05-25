@@ -43,7 +43,7 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
   - **Runner-up:** 3 months of osu!supporter
   - **Winner:** 6 months of osu!supporter + *Community Pick* profile badge
 
-![Community pick profile badge](/wiki/shared/news/2022-05-24-triangles/community@2x.png)
+![Community pick profile badge](/wiki/shared/news/2022-05-26-triangles/community@2x.png)
 
 ### Mapper panel
 
@@ -53,7 +53,7 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
     - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
   - Panelists: *TBD*
 
-![Mappers' Pick profile badge](/wiki/shared/news/2022-05-24-triangles/mappers@2x.png)
+![Mappers' Pick profile badge](/wiki/shared/news/2022-05-26-triangles/mappers@2x.png)
 
 ### Storyboarder panel
 
@@ -63,7 +63,7 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
   - **Winner:**  6 months of osu!supporter + *Storyboarders' Pick* profile badge
 - Panelists: *TBD*
 
-![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-24-triangles/storyboarders@2x.png)
+![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-26-triangles/storyboarders@2x.png)
 
 ### Overall prizes
 
@@ -75,9 +75,9 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
   - **Elite Mapper** and **Elite Storyboarder** user titles
   - Submission bundled with new lazer installations (after reaching Ranked status)
 
-![Overall runner-up profile badge](/wiki/shared/news/2022-05-24-triangles/overallrunnerup@2x.png)
+![Overall runner-up profile badge](/wiki/shared/news/2022-05-26-triangles/overallrunnerup@2x.png)
 
-![Overall winner profile badge](/wiki/shared/news/2022-05-24-triangles/overallwinner@2x.png)
+![Overall winner profile badge](/wiki/shared/news/2022-05-26-triangles/overallwinner@2x.png)
 
 If a team wins in multiple of the above categories, they will be rewarded a profile badge reflecting all relevant categories.
 
@@ -86,7 +86,7 @@ Players are also eligible for prizes if they participate in the lazer playlists:
 - **Easy/Normal/Hard/Insane playlist leaders:** 1 month of osu!supporter each
 - **Expert playlist leader:** 1 month of osu!supporter + *triangle aficionado* profile badge
 
-![triangle aficionado profile badge](/wiki/shared/news/2022-05-24-triangles/aficionado@2x.png)
+![triangle aficionado profile badge](/wiki/shared/news/2022-05-26-triangles/aficionado@2x.png)
 
 ## Rules
 

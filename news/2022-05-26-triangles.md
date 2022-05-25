@@ -53,14 +53,14 @@ Prizes will be awarded to all members of the highest scoring team in each catego
 - **Runner-up:** 3 months of osu!supporter 
 - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
 
-![Mappers' Pick profile badge](/wiki/shared/news/2022-05-24-triangles/mappers@2x.png)
+![Mappers' Pick profile badge](/wiki/shared/news/2022-05-26-triangles/mappers@2x.png)
 
 ### Storyboarder panel
 
 - **Runner-up:** 3 months of osu!supporter 
 - **Winner:**  6 months of osu!supporter + *Storyboarders' Pick* profile badge
 
-![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-24-triangles/storyboarders@2x.png)
+![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-26-triangles/storyboarders@2x.png)
 
 ### Overall prizes
 
@@ -75,9 +75,9 @@ This category is based on how members of both Mapper and Storyboarder panels eva
   - **Elite Mapper** and **Elite Storyboarder** user titles
   - Submission bundled with new lazer installations (after reaching Ranked status)
 
-![Overall runner-up profile badge](/wiki/shared/news/2022-05-24-triangles/overallrunnerup@2x.png)
+![Overall runner-up profile badge](/wiki/shared/news/2022-05-26-triangles/overallrunnerup@2x.png)
 
-![Overall winner profile badge](/wiki/shared/news/2022-05-24-triangles/overallwinner@2x.png)
+![Overall winner profile badge](/wiki/shared/news/2022-05-26-triangles/overallwinner@2x.png)
 
 ### Community vote
 
@@ -88,14 +88,14 @@ To participate in the community vote, you will need to play through any of the r
 - **Community vote runner-up:** 3 months of osu!supporter
 - **Community vote winner:** 6 months of osu!supporter + *Community Pick* profile badge
 
-![Community pick profile badge](/wiki/shared/news/2022-05-24-triangles/community@2x.png)
+![Community pick profile badge](/wiki/shared/news/2022-05-26-triangles/community@2x.png)
 
 Players have a chance to earn something too! Once the playlists are closed, whoever has the highest score on each leaderboard will receive a minor prize too:
 
 - **Easy/Normal/Hard/Insane playlist leaders:** 1 month of osu!supporter each
 - **Expert playlist leader:** 1 month of osu!supporter + *triangle aficionado* profile badge
 
-![triangle aficionado profile badge](/wiki/shared/news/2022-05-24-triangles/aficionado@2x.png)
+![triangle aficionado profile badge](/wiki/shared/news/2022-05-26-triangles/aficionado@2x.png)
 
 ---
 
