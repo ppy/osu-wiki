@@ -109,7 +109,7 @@ The osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/
 The \[I'm Die, Thank You Forever. (MTC EDIT)\] difficulty is *not* being nominated for Loved.\
 *description written by [Boaz](https://osu.ppy.sh/users/13302996)*
 
-cdh returns to the Taiko Loved scene with yet another gimmick map! *How Are You* was featured in [the osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021) and goes down in TWC history as one of the most creative FreeMod picks in the series. Usually we only see gimmick maps like this in the NoMod section of tournament pools, but the TWC 2021 poolers really spiced up their finals pool with this amazing map.
+cdh returns to the taiko Loved scene with yet another gimmick map! *How Are You* was featured in [the osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021) and goes down in TWC history as one of the most creative FreeMod picks in the series. Usually we only see gimmick maps like this in the NoMod section of tournament pools, but the TWC 2021 poolers really spiced up their finals pool with this amazing map.
 
 *How Are You* already starts off quite silly with some ninja notes and sliders, but it gets even crazier as the map progresses. Soon enough in the map you'll be dealing with mind-boggling overlaps and a fairly unique use of barlines. The barlines in the first and second kiai show you a sequence of notes you'll have to remember and play 1 second later. If you thought it couldn't get any harder, this map also features a brutal low-SV section and a tri-colored stream. I highly recommend you check this map out at least once if you enjoy gimmick maps!
 
@@ -119,7 +119,7 @@ cdh returns to the Taiko Loved scene with yet another gimmick map! *How Are You*
 128 – 260 BPM, 4:19 | 4.90★, 5.18★, 6.51★, 6.87★, 6.89★\
 *description written by [Gamelan4](https://osu.ppy.sh/users/9856910)*
 
-Join both a famous artist with a recognized Japanese Taiko mapper and the product would be the banger of a set *YOASOBI Songs Mapset* is. With a whopping 7.5K plays, it would be a serious crime to ignore this map for Loved, so here we are at Loved HQ, avoiding possible future legal charges.
+Join both a famous artist with a recognized Japanese taiko mapper and the product would be the banger of a set *YOASOBI Songs Mapset* is. With a whopping 7.5K plays, it would be a serious crime to ignore this map for Loved, so here we are at Loved HQ, avoiding possible future legal charges.
 
 The set has 5 engaging diffs made by hoku, each being a different song by YAOSOBI, which will definitely leave you with a ^-^ expression after trying them out. hoku is a mapper who is able to make players enjoy their maps even if the track is not of their taste, so whether you are a YAOSOBI fan or just an average drum basher, this mapset is for you, so check it out now!
 
@@ -141,7 +141,7 @@ So, if you're up for the task, you should really give this a try!
 270 BPM, 2:32 | 6.53★, 6.69★, 7.00★\
 *description written by [KuroKuroKuro](https://osu.ppy.sh/users/11931563)*
 
-*Nageki no Hana (Slax Remix)* is a very popular map among Taiko players. I often see various Taiko players pick and play this map in multi mode. The fact that it is loved by such a wide variety of players must mean that the map is that good. The BPM is fast (270), but there are many basic patterns, so this is a good speed map for intermediate to advanced players to practice. 1/6 is not included at all, only 1/4 is used, so it is recommended for those who are not good at fast maps and want to improve. If you're looking for a way to hone your Taiko skills, why not play this map?
+*Nageki no Hana (Slax Remix)* is a very popular map among taiko players. I often see various taiko players pick and play this map in multi mode. The fact that it is loved by such a wide variety of players must mean that the map is that good. The BPM is fast (270), but there are many basic patterns, so this is a good speed map for intermediate to advanced players to practice. 1/6 is not included at all, only 1/4 is used, so it is recommended for those who are not good at fast maps and want to improve. If you're looking for a way to hone your taiko skills, why not play this map?
 
 [![](/wiki/shared/news/2022-05-21-project-loved-may-2022/529279.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
