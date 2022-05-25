@@ -286,4 +286,3 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 - [SpinnyProgram](https://osu.ppy.sh/community/forums/topics/140878)—Testez la vitesse à laquelle vous pouvez faire tourner le curseur de votre souris.
 - stats.circleclickers—Voir les statistiques en temps réel sur le nombre d'utilisateurs dans osu!
   - [Site](https://stats.circleclickers.com/)
-
