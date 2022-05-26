@@ -20,7 +20,7 @@ Pour participer en tant que speaker à une prochaine itération de l'événement
 - **L'événement durera 3 jours au total**, du 20 au 22 mai 2022.
 - **Le speaker utilisera le salon Scène Discord** dans le [serveur Discord osu!dev](https://discord.gg/ppy) pour faire leur exposé.
 - **Les interventions dureront moins de 18 minutes.** Il s'agit de la durée maximale autorisée, et non d'un objectif à atteindre - même un exposé de trois minutes peut avoir un impact considérable.
-- Les histoires partagées ne doivent pas nécessairement concerner l'université d'Ottawa, mais comme il s'agit d'un événement lié à l'université, il est recommandé aux speakers d'essayer de relier leur histoire ou la leçon qu'elle contient à l'université d'Ottawa d'une manière ou d'une autre.
+- Les histoires partagées ne doivent pas nécessairement concerner osu! University, mais comme il s'agit d'un événement lié à l'université, il est recommandé aux speakers d'essayer de relier leur histoire ou la leçon qu'elle contient à l'université d'Ottawa d'une manière ou d'une autre.
 
 ## Liens
 
