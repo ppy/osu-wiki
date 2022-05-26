@@ -796,8 +796,7 @@ The following is an example of what a table should look like:
 
 ## Footnotes
 
-Footnotes are short notes located at the end of the page. 
-They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article.
+Footnotes are short notes located at the end of the page. They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article.
 
 In osu! wiki, footnotes are implemented using reference-style links. References can use any titles, but will be automatically rendered as increasing numbers in order of their first appearance. The footnotes themselves must be placed in a separate second-level heading at the end of the article, called `References`.
 
