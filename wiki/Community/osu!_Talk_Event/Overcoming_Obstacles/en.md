@@ -5,13 +5,13 @@ tags:
 
 # osu! Talk Event: Overcoming Obstacles
 
-![osu! Talk Event banner](/wiki/shared/news/2022-05-19-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
+![osu! Talk Event: Overcoming Obstacles banner](/wiki/shared/news/2022-05-19-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
 
-The **osu! Talk Event** is an event organised by osu! University where different people hold talks about various topics. This is the first iteration of the event with the theme of "overcoming obstacles".
+The **osu! Talk Event** is an event organised by osu! University where different people held talks about various topics. This was the first iteration of the event with the theme of "overcoming obstacles".
 
-Speakers hold their talks in a Stage channel on the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server). During the event, thread channels will be opened in the `#community-meetings` channel for discussion.
+Speakers held their talks in a Stage channel on the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server). During the event, thread channels were opened in the `#community-meetings` channel for discussion.
 
-The talks are also livestreamed on [osu! University's Twitch channel](https://twitch.tv/osuuniversity) and recordings of each talk will be available in [osu! University's YouTube channel](https://www.youtube.com/c/osuuniversity).
+The talks were also livestreamed on [osu! University's Twitch channel](https://twitch.tv/osuuniversity) and recordings of each talk are available in [osu! University's YouTube channel](https://www.youtube.com/c/osuuniversity).
 
 To participate as a speaker in a future iteration of the event, or recommend someone who would be fit to give a talk, fill out the [speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8).
 
@@ -36,7 +36,7 @@ To participate as a speaker in a future iteration of the event, or recommend som
 
 ### Friday, May 20, 2022
 
-[Sign up for this event on Discord to be notified when it starts](https://discord.gg/z62bbJHA?event=976723460766187570)
+**[View the full VOD for this day of the event here](https://www.youtube.com/watch?v=dXwMiPBiQpk)**
 
 | Time (UTC) | Speaker | Title | VOD |
 | :-: | :-- | :-- | :-- |
@@ -47,24 +47,23 @@ To participate as a speaker in a future iteration of the event, or recommend som
 
 ### Saturday, May 21, 2022
 
-[Sign up for this event on Discord to be notified when it starts](https://discord.gg/z62bbJHA?event=976724758722924574)
+**[View the full VOD for this day of the event here](https://www.youtube.com/watch?v=YLaFZup2mFo)**
 
 | Time (UTC) | Speaker | Title | VOD |
 | :-: | :-- | :-- | :-- |
-| 11:00 | [IryN](https://osu.ppy.sh/users/17909384) | "Being hardstuck" |  |
-| 13:00 | [Axiqn](https://osu.ppy.sh/users/21130016) | "Focusing on weaknesses" |  |
-| 13:30 | [UserAlsoExists](https://osu.ppy.sh/users/19036931) | "The "play less" meta" |  |
-| 14:30 | [-Liability](https://osu.ppy.sh/users/12260184) | "Doubting yourself" |  |
-| 15:00 | [Astral52](https://osu.ppy.sh/users/11936432) | "Opening the mind to have fun: How to build a less toxic mentality" |  |
+| 11:00 | [IryN](https://osu.ppy.sh/users/17909384) | "Being hardstuck" | [#1](https://www.youtube.com/watch?v=jbKdUhsJKh8) |
+| 13:00 | [Axiqn](https://osu.ppy.sh/users/21130016) | "Focusing on weaknesses" | [#1](https://www.youtube.com/watch?v=pGBBxAM7QkU) |
+| 13:30 | [UserAlsoExists](https://osu.ppy.sh/users/19036931) | "The "play less" meta" | [#1](https://www.youtube.com/watch?v=qQvVtu19CnM) |
+| 14:30 | [-Liability](https://osu.ppy.sh/users/12260184) | "Doubting yourself" | [#1](https://www.youtube.com/watch?v=_dGxynP9HSs) |
+| 15:00 | [Astral52](https://osu.ppy.sh/users/11936432) | "Opening the mind to have fun: How to build a less toxic mentality" | [#1](https://www.youtube.com/watch?v=hJUwU8YLUUg) |
 
 ### Sunday, May 22, 2022
 
-[Sign up for this event on Discord to be notified when it starts](https://discord.gg/z62bbJHA?event=976725279126982656)
+**[View the full VOD for this day of the event here](https://www.youtube.com/watch?v=TICCyoj1F1U)**
 
 | Time (UTC) | Speaker | Title | VOD |
 | :-: | :-- | :-- | :-- |
-| 18:00 | [cristi2708](https://osu.ppy.sh/users/7552300) | "A perspective on switches and tapping techinques" |  |
-| 18:30 | [PruceStrats](https://osu.ppy.sh/users/16518886) | "Overcoming adversity in daily life" |  |
-| 19:00 | [-TunaSliders-](https://osu.ppy.sh/users/15420104) | "Using ideas from osu! to view life differently" |  |
-| 19:30 | [WaifuMaterial](https://osu.ppy.sh/users/14592606) | "Overcoming social anxiety" |  |
-| 20:00 | [chiv](https://osu.ppy.sh/users/6701656) | "The problematic state of osu! tournaments" |  |
+| 18:00 | [cristi2708](https://osu.ppy.sh/users/7552300) | "A perspective on switches and tapping techinques" | [#1](https://www.youtube.com/watch?v=_KhDLQJ0-nc) |
+| 18:30 | [PruceStrats](https://osu.ppy.sh/users/16518886) | "Overcoming adversity in daily life" | [#1](https://www.youtube.com/watch?v=4iY_Rv0lobU) |
+| 19:00 | [-TunaSliders-](https://osu.ppy.sh/users/15420104) | "Using ideas from osu! to view life differently" | [#1](https://www.youtube.com/watch?v=fKXmq-udD-Q) |
+| 19:30 | [chiv](https://osu.ppy.sh/users/6701656) | "The problematic state of osu! tournaments" | [#1](https://www.youtube.com/watch?v=g7CtcSctWSI) |

@@ -50,6 +50,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1562118)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/CWC22)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/87) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRetD8MoopEqecAdBgPUlpXsbnqnu0posV0qh9Lxo130lScWtEx1Qe2uxdyIVx-HqtXdtEXD6Rtjs_V/pubhtml)
 
@@ -95,11 +96,64 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983) |
 | ![][flag_VN] | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)**, [Stardust Prism](https://osu.ppy.sh/users/8525921), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-Linglan Lily-](https://osu.ppy.sh/users/8738261), [Marota](https://osu.ppy.sh/users/10278890), [NamSPro](https://osu.ppy.sh/users/11387006) |
 
+## Match schedule: Round of 32
+
+### Saturday, May 28, 2022
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| China | ![][flag_CN] | ![][flag_IL] | Israel | May 28 (Sat) 10:00 UTC | May 28 (Sat) 18:00 UTC+8 | May 28 (Sat) 13:00 UTC+3 |
+| France | ![][flag_FR] | ![][flag_TH] | Thailand | May 28 (Sat) 11:00 UTC | May 28 (Sat) 13:00 UTC+2 | May 28 (Sat) 18:00 UTC+7 |
+| Singapore | ![][flag_SG] | ![][flag_AR] | Argentina | May 28 (Sat) 14:00 UTC | May 28 (Sat) 22:00 UTC+8 | May 28 (Sat) 11:00 UTC-3 |
+| Canada | ![][flag_CA] | ![][flag_GB] | United Kingdom | May 28 (Sat) 20:00 UTC | May 28 (Sat) 15:00 UTC-5 | May 28 (Sat) 21:00 UTC+1 |
+
+### Sunday, May 29, 2022
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Brazil | ![][flag_BR] | ![][flag_JP] | Japan | May 29 (Sun) 01:00 UTC | May 28 (Sat) 22:00 UTC-3 | May 29 (Sun) 10:00 UTC+9 |
+| Chile | ![][flag_CL] | ![][flag_CO] | Colombia | May 29 (Sun) 02:00 UTC | May 28 (Sat) 23:00 UTC-3 | May 28 (Sat) 21:00 UTC-5 |
+| Belgium | ![][flag_BE] | ![][flag_PL] | Poland | May 29 (Sun) 11:00 UTC | May 29 (Sun) 13:00 UTC+2 | May 29 (Sun) 13:00 UTC+2 |
+| South Korea | ![][flag_KR] | ![][flag_PT] | Portugal | May 29 (Sun) 12:00 UTC | May 29 (Sun) 21:00 UTC+9 | May 29 (Sun) 13:00 UTC+1 |
+| Italy | ![][flag_IT] | ![][flag_NL] | Netherlands | May 29 (Sun) 13:00 UTC | May 29 (Sun) 15:00 UTC+2 | May 29 (Sun) 15:00 UTC+2 |
+| Indonesia | ![][flag_ID] | ![][flag_MY] | Malaysia | May 29 (Sun) 13:00 UTC | May 29 (Sun) 20:00 UTC+7 | May 29 (Sun) 21:00 UTC+8 |
+| Australia | ![][flag_AU] | ![][flag_VN] | Vietnam | May 29 (Sun) 13:00 UTC | May 29 (Sun) 23:00 UTC+10 | May 29 (Sun) 20:00 UTC+7 |
+| Taiwan | ![][flag_TW] | ![][flag_TR] | Turkey | May 29 (Sun) 13:00 UTC | May 29 (Sun) 21:00 UTC+8 | May 29 (Sun) 16:00 UTC+3 |
+| Russian Federation | ![][flag_RU] | ![][flag_NO] | Norway | May 29 (Sun) 15:00 UTC | May 29 (Sun) 18:00 UTC+3 | May 29 (Sun) 17:00 UTC+2 |
+| United States | ![][flag_US] | ![][flag_UA] | Ukraine | May 29 (Sun) 16:00 UTC | May 29 (Sun) 11:00 UTC-5 | May 29 (Sun) 19:00 UTC+3 |
+| Germany | ![][flag_DE] | ![][flag_FI] | Finland | May 29 (Sun) 17:00 UTC | May 29 (Sun) 19:00 UTC+2 | May 29 (Sun) 20:00 UTC+3 |
+| Mexico | ![][flag_MX] | ![][flag_SE] | Sweden | May 29 (Sun) 17:45 UTC | May 29 (Sun) 11:45 UTC-6 | May 29 (Sun) 19:45 UTC+2 |
+
 ## Mappools
+
+### Round of 32
+
+**[Download the mappack here (82 MB)](https://drive.google.com/uc?id=1dithcmw7fxXIqtGjNWA5ljgem8HSMwm8)**
+
+- NoMod
+  1. [sana - Kotoba no Iranai Yakusoku (Dapuluous) \[Everlasting Memories\]](https://osu.ppy.sh/beatmapsets/1769632#fruits/3622487)
+  2. [cYsmix - Peer Gynt (Mniam) \[oVerdose\]](https://osu.ppy.sh/beatmapsets/1769575#fruits/3622391)
+  3. [ZODIACSYNDICATE - Astraea no Soubei (wring) \[AngelHoney's ExtrA\]](https://osu.ppy.sh/beatmapsets/62788#fruits/441920)
+  4. [Empty Peperoncino - Ame ni Utaeba (coco) \[Decaptin's Insane\]](https://osu.ppy.sh/beatmapsets/1385670#fruits/2862490)
+- Hidden
+  1. [YOASOBI - Yoru ni Kakeru (Bunnrei) \[Racing into the Night\]](https://osu.ppy.sh/beatmapsets/1769611#fruits/3622450)
+  2. [Soken Masayoshi - A Long Fall (Ryuusei Aika) \[Time Traveler\]](https://osu.ppy.sh/beatmapsets/1266110#fruits/2631415)
+- Hard Rock
+  1. [onoken feat. moco - Light up my love!! (Ascendance) \[Special\]](https://osu.ppy.sh/beatmapsets/1769587#fruits/3622411)
+  2. [Fractal Dreamers - Monolithia (Yugu) \[Insane\]](https://osu.ppy.sh/beatmapsets/982375#fruits/2073093)
+- Double Time
+  1. [Loki - Wizard's Tower (Verti) \[Platter\]](https://osu.ppy.sh/beatmapsets/1769773#fruits/3622817)
+  2. [TWICE - Feel Special (Xetopia) \[Platter\]](https://osu.ppy.sh/beatmapsets/1108886#fruits/2331693)
+  3. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (Cut Ver.) (-Keitaro) \[Insane\]](https://osu.ppy.sh/beatmapsets/1057015#fruits/2210722)
+- Mixed Mod
+  1. [Rigel Theatre - Maple Town Memories (F D Flourite) \[Maple Story\]](https://osu.ppy.sh/beatmapsets/1769594#fruits/3622419)
+  2. [Nardis - HAPPY (-PC) \[Yokes' Insane: OVERJOYED\]](https://osu.ppy.sh/beatmapsets/790841#fruits/2085630)
+- Tiebreaker
+  1. **[La priere - Sore wa Sekai o Koete (Yumeno Himiko) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1769605#fruits/3622443)**
 
 ### Qualifiers
 
-**[Download the mappack here (117 MB)](https://drive.google.com/uc?id=1lEUFkMvljWzub9IhE3lW0wGI9COU-2DO)**
+**[Download the mappack here (93 MB)](https://drive.google.com/uc?id=1lEUFkMvljWzub9IhE3lW0wGI9COU-2DO)**
 
 - NoMod
   1. [Mia REGINA - I got it! (Slax Remix) (-Rustyy) \[Rustyy & Nosuri's Special\]](https://osu.ppy.sh/beatmapsets/1764078#fruits/3610710)
@@ -114,6 +168,52 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 - Double Time
   1. [WOODKID - Iron (Ascendance) \[Requiescat in Pace\]](https://osu.ppy.sh/beatmapsets/1763686#fruits/3609911)
   2. [Tatsh - Lunatic Tears... (Tatsh Remix) (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/1460718#fruits/3001358)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8/view?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/10rAEhiJH9smCfqYEfFVvk3pDm6VLR3tYhJNOB01LNJo/view?rm=minimal).
+
+| Seed | Country | MAX% sum |
+| :-: | :-- | :-- |
+| #1 | ![][flag_CN] China | 8.888 |
+| #2 | ![][flag_KR] South Korea | 8.795 |
+| #3 | ![][flag_US] United States | 8.787 |
+| #4 | ![][flag_ID] Indonesia | 8.755 |
+| #5 | ![][flag_CL] Chile | 8.69 |
+| #6 | ![][flag_CA] Canada | 8.688 |
+| #7 | ![][flag_TW] Taiwan | 8.629 |
+| #8 | ![][flag_FR] France | 8.608 |
+| #9 | ![][flag_IT] Italy | 8.556 |
+| #10 | ![][flag_MX] Mexico | 8.494 |
+| #11 | ![][flag_RU] Russian Federation | 8.478 |
+| #12 | ![][flag_AU] Australia | 8.261 |
+| #13 | ![][flag_SG] Singapore | 8.253 |
+| #14 | ![][flag_BE] Belgium | 8.222 |
+| #15 | ![][flag_DE] Germany | 8.189 |
+| #16 | ![][flag_BR] Brazil | 8.059 |
+| #17 | ![][flag_JP] Japan | 7.934 |
+| #18 | ![][flag_FI] Finland | 7.882 |
+| #19 | ![][flag_PL] Poland | 7.847 |
+| #20 | ![][flag_AR] Argentina | 7.648 |
+| #21 | ![][flag_VN] Vietnam | 7.574 |
+| #22 | ![][flag_NO] Norway | 7.538 |
+| #23 | ![][flag_SE] Sweden | 7.372 |
+| #24 | ![][flag_NL] Netherlands | 7.302 |
+| #25 | ![][flag_TH] Thailand | 7.285 |
+| #26 | ![][flag_TR] Turkey | 7.274 |
+| #27 | ![][flag_GB] United Kingdom | 7.199 |
+| #28 | ![][flag_CO] Colombia | 7.011 |
+| #29 | ![][flag_MY] Malaysia | 6.779 |
+| #30 | ![][flag_UA] Ukraine | 6.588 |
+| #31 | ![][flag_PT] Portugal | 6.445 |
+| #32 | ![][flag_IL] Israel | 6.173 |
+| #33 | ![][flag_ES] Spain | 5.982 |
+| #34 | ![][flag_NZ] New Zealand | 5.584 |
+| #35 | ![][flag_PH] Philippines | 5.286 |
+| #36 | ![][flag_DZ] Algeria | 4.722 |
+| #37 | ![][flag_CH] Switzerland | 4.452 |
 
 ## Ruleset
 

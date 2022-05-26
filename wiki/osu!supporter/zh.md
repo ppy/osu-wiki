@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 7d0ae0be44e8664bf61cad4514a79f573f226a6a
 tags:
   - support
   - supporter
@@ -127,7 +125,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 ## 到期时间
 
 ::: Infobox
-![](img/status.jpg?1 "还剩三个月的 osu! 支持者标签")
+![](img/status.jpg?1 "osu! 支持者标签购买统计")
 :::
 
 支持者标签的剩余时间，以及总捐赠次数，金额和赠送的礼物数量都会显示在 [osu! 支持者页面](https://osu.ppy.sh/home/support)的顶部。

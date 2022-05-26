@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6450b01c1dbc60bcfecdd85bce52a0bfc44b4e99
+---
+
 # Usuarios con títulos únicos
 
 Los títulos de usuarios son usualmente asociados con los [grupos de usuarios](/wiki/People/The_Team#user-groups), pero los usuarios listados a continuación recibieron sus títulos por otras razones. La mayoría de los títulos son recompensas por contribuciones o logros, y el resto son señales icónicas o divertidas de la historia de osu!
