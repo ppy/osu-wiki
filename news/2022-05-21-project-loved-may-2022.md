@@ -306,7 +306,7 @@ If you like what you see here, don't forget to try c36098651's other charts too!
 [![](/wiki/shared/news/2022-05-21-project-loved-may-2022/1347388.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [seatrus - Dancing In The Blue](https://osu.ppy.sh/beatmapsets/1347388#mania) by [GoosBaams](https://osu.ppy.sh/users/10484642)\
-174.91 BPM, 3:26 | 5.56★, 6.02★, 6.50★, 6.97★, 7.44★\
+159 – 222.6 BPM, 3:26 | 5.52★, 5.98★, 6.44★, 6.91★, 7.37★\
 The \[To You x0.9\] difficulty is *not* being nominated for Loved.\
 *description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
 
