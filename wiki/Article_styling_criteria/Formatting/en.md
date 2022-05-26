@@ -796,20 +796,32 @@ The following is an example of what a table should look like:
 
 ## Footnotes
 
-Footnotes are short notes located at the end of the page. They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article.
+Footnotes are short notes located at the end of the page. They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article. Footnotes may contain text formatting and links.
 
 In the osu! wiki, footnotes are implemented using special syntax (`[^identifier]`). Footnotes can use any identifier, but they will automatically be rendered as superscripts with increasing numbers in order of their first appearance. The footnotes themselves must be placed in a separate second-level heading at the end of the article, called `References`.
 
-Footnotes may contain text formatting and links.
+Footnote references are placed directly after the words they explain, with no space inbetween. If a word is followed by a punctuation sign, a reference must be placed after the sign instead. The only exception to this rule is an exclamation mark, which could be mistakenly attempted to be rendered as an image due to similar syntax.
+
+Correct usage examples:
+
+```markdown
+The osu! wiki is a project that was meant to replace the old FAQ system.[^wiki-faq] It was named after the rhythm game osu! [^osu] and the largest open online encyclopedia, Wikipedia. From the very start, it had attracted skillful translators[^wiki-tl] and 
+
+## References
+
+[^wiki-faq]: https://osu.ppy.sh/community/forums/topics/68525
+[^wiki-tl]: https://osu.ppy.sh/community/forums/posts/1177500
+[^osu]: https://osu.ppy.sh/community/forums/posts/1178153
+```
 
 ### Citations
 
-Citations, or references, are used to identify a source of information. A reference is a link pointing at the source, which uses its title for a link text. Citations via footnotes should be preferred over regular inline links.
+Citations, or references, are used to identify a source of information. A reference is a link pointing at the source, which uses its title for a link text. Citations via footnotes should be preferred over inline links.
 
 Example:
 
 ```markdown
-The first version of the osu!api was made available on July 2, 2013[^api-first-usage]. It had received critical acclaim from the users[^api-praise].
+The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from the users.[^api-praise]
 
 ## References
 
@@ -824,7 +836,7 @@ Footnotes may be used for storing explanations or tangential remarks which canno
 Example:
 
 ```markdown
-A tournament must not be organised and run by an inexperienced team of unaccomplished and irreputable staff[^staff].
+A tournament must not be organised and run by an inexperienced team of unaccomplished and irreputable staff.[^staff]
 
 ## References
 
