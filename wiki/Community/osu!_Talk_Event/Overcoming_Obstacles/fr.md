@@ -22,7 +22,7 @@ Pour participer en tant que speaker à une prochaine itération de l'événement
 - **Les interventions dureront moins de 18 minutes.** Il s'agit de la durée maximale autorisée, et non d'un objectif à atteindre - même un exposé de trois minutes peut avoir un impact considérable.
 - Les histoires partagées ne doivent pas nécessairement concerner l'université d'Ottawa, mais comme il s'agit d'un événement lié à l'université, il est recommandé aux speakers d'essayer de relier leur histoire ou la leçon qu'elle contient à l'université d'Ottawa d'une manière ou d'une autre.
 
-## Links
+## Liens
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/1574152)
 - [News post de l'annonce](https://osu.ppy.sh/home/news/2022-05-19-osu-talk-event-overcoming-obstacles)
