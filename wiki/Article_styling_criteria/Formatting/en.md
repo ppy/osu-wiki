@@ -798,7 +798,7 @@ The following is an example of what a table should look like:
 
 Footnotes are short notes located at the end of the page. They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article.
 
-In osu! wiki, footnotes are implemented using reference-style links. References can use any titles, but will be automatically rendered as increasing numbers in order of their first appearance. The footnotes themselves must be placed in a separate second-level heading at the end of the article, called `References`.
+In the osu! wiki, footnotes are implemented using special syntax (`[^identifier]`). Footnotes can use any identifier, but they will automatically be rendered as superscripts with increasing numbers in order of their first appearance. The footnotes themselves must be placed in a separate second-level heading at the end of the article, called `References`.
 
 Footnotes may contain text formatting and links.
 
@@ -809,7 +809,7 @@ Citations, or references, are used to identify a source of information. A refere
 Example:
 
 ```markdown
-The first version of osu!api was made available on July 2, 2013[^api-first-usage]. It had received critical acclaim from the users[^api-praise].
+The first version of the osu!api was made available on July 2, 2013[^api-first-usage]. It had received critical acclaim from the users[^api-praise].
 
 ## References
 
@@ -824,7 +824,7 @@ Footnotes may be used for storing explanations or tangential remarks which canno
 Example:
 
 ```markdown
-A tournament must not be organised and run by an inexperienced team of unaccomplished and irreputable staff [^staff].
+A tournament must not be organised and run by an inexperienced team of unaccomplished and irreputable staff[^staff].
 
 ## References
 
