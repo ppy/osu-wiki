@@ -12,25 +12,26 @@ Submissions to this contest include:
 - A team of 2-5 participants
 - A full submission under 10 MB total.
 
+## Contest schedule
+
+| Event | Timestamp |
+| --: | :-- |
+| Announcement | 2022-05-26 |
+| Submission phase | 2022-05-26/2022-07-18 |
+| Judging phase | 2022-07-19/2022-07-31 |
+| Community vote and lazer playlists | 2022-08-01/2022-08-15 |
+| Results announcement livestream | 2022-08-20 |
+
 ## Links
 
 - [Contest listing](https://osu.ppy.sh/community/contests/147)
-- [Contest announcement](https://osu.ppy.sh/home/news/2022-05-17-triangles)
-- **Voting announcement** (pending)
-- **Results announcement** (pending)
+- [Contest announcement](https://osu.ppy.sh/home/news/2022-05-26-triangles)
 
 ## Teams
 
 | Team name | Beatmapper(s) | Storyboarder(s) | Submission |
 | :-- | :-- | :-- | :-- |
 | *TBD* |  |  |  |
-
-## Schedule
-
-- **May 24 - July 18:** Contest is open for submissions.
-- **July 19 - July 31:** Submissions are evaluated by a team of judges.
-- **August 01 - August 15:** Top beatmaps are published for community vote and lazer playlists.
-- **August 20:** Livestream announcement of contest results.
 
 ## Prizes
 
