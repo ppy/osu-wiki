@@ -28,6 +28,7 @@ To participate in this contest, you need a **team of 2-5 mappers/storyboarders**
   - with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert
 - A **triangle-themed** storyboard...
   - with a `.osb` file no greater than **1 MB**. This is to ensure the storyboard is well optimised and doesn't take too long to parse and load into the game.
+- A full submission no greater than **10 MB**.
 
 **Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).** Once confirmed, your team will be published on the [*triangles* contest wiki page](/wiki/Contests/triangles_Contest)!
 
