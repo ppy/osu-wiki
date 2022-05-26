@@ -505,6 +505,8 @@ Preformatted text (also known as code blocks) must be fenced using three grave m
 
 ## Links
 
+*See also: [Footnotes](#footnotes)*
+
 There are two types of links: inline and reference. Inline has two styles.
 
 The following is an example of both inline styles:
@@ -790,6 +792,44 @@ The following is an example of what a table should look like:
 | Ryūta | 3 - 4 | **Yuzu** | 5.1 stars |
 | **Taikonator** | 7 - 0 | Tama | 13.37 stars |
 | Maria | No Contest | Mocha |  |
+```
+
+## Footnotes
+
+Footnotes are short notes located at the end of the page. 
+They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article.
+
+In osu! wiki, footnotes are implemented using reference-style links. References can use any titles, but will be automatically rendered as increasing numbers in order of their first appearance. The footnotes themselves must be placed in a separate second-level heading at the end of the article, called `References`.
+
+Footnotes may contain text formatting and links.
+
+### Citations
+
+Citations, or references, are used to identify a source of information. A reference is a link pointing at the source, which uses its title for a link text. Citations via footnotes should be preferred over regular inline links.
+
+Example:
+
+```markdown
+The first version of osu!api was made available on July 2, 2013[^api-first-usage]. It had received critical acclaim from the users[^api-praise].
+
+## References
+
+[^api-first-usage]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
+```
+
+### Background information
+
+Footnotes may be used for storing explanations or tangential remarks which cannot be inlined without worsening the article's readability, or are less significant than the article itself. Such footnotes may use free-form text.
+
+Example:
+
+```markdown
+A tournament must not be organised and run by an inexperienced team of unaccomplished and irreputable staff [^staff].
+
+## References
+
+[^staff]: An *inexperienced* staff member is loosely defined as someone who has been playing osu! for less than an hour in total.
 ```
 
 ## Blockquotes
