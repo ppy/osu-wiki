@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated: true # À jour par rapport à `en.md`
 ---
 
 # Tournament drawings
