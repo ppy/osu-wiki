@@ -1,5 +1,5 @@
 ---
-needs_cleanup: true
+needs_cleanup: true # À jour par rapport à `en.md`
 outdated: true
 ---
 
