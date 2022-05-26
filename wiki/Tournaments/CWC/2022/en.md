@@ -172,7 +172,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8/edit?rm=minimal).
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8/view?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/10rAEhiJH9smCfqYEfFVvk3pDm6VLR3tYhJNOB01LNJo/view?rm=minimal).
 
 | Seed | Country | MAX% sum |
 | :-: | :-- | :-- |
