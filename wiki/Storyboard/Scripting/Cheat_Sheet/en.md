@@ -37,27 +37,27 @@ _event, [...]
 
 Z-order (back to front) is determined by the order the files appear in the .osu file. The first storyboard event will be behind everything else, ie. if storyboard event 'A' is above storyboard event 'B', 'B' will be on top of 'A'.
 
-**layer**:
-
-- 0—Background
-- 1—Fail
-- 2—Pass
-- 3—Foreground
+| Value | Layer |
+| :-: | :-- |
+| 0 | Background |
+| 1 | Fail |
+| 2 | Pass |
+| 3 | Foreground |
 
 *Note: Background and Foreground are always visible.*
 
-**origin**:
-
-- 0—TopLeft
-- 1—Centre
-- 2—CentreLeft
-- 3—TopRight
-- 4—BottomCentre
-- 5—TopCentre
-- 6—Custom (same effect as TopLeft, but should not be used)
-- 7—CentreRight
-- 8—BottomLeft
-- 9—BottomRight
+| Value | Origin |
+| :-: | :-- |
+| 0 | TopLeft |
+| 1 | Centre |
+| 2 | CentreLeft |
+| 3 | TopRight |
+| 4 | BottomCentre |
+| 5 | TopCentre |
+| 6 | Custom (same effect as TopLeft, but should not be used) |
+| 7 | CentreRight |
+| 8 | BottomLeft |
+| 9 | BottomRight |
 
 All Rotations and Size changes (Including Vector Scaling) are affected by origin.
 
@@ -67,23 +67,23 @@ All Rotations and Size changes (Including Vector Scaling) are affected by origin
 
 For each of the event types below, the initial value(s) of that event will assume the first assignment given to that event.
 
-**event type**:
+| Event type | Description |
+| :-: | :-- |
+| F | fade |
+| M | move |
+| S | scale |
+| V | vector scale (width and height separately) |
+| R | rotate |
+| C | colour |
+| L | loop |
+| T | Event-triggered loop |
+| P | Parameters |
 
-- F—fade
-- M—move
-- S—scale
-- V—vector scale (width and height separately)
-- R—rotate
-- C—colour
-- L—loop
-- T—Event-triggered loop
-- P—Parameters
-
-**easing**:
-
-- 0—none
-- 1—start fast and slow down
-- 2—start slow and speed up
+| Easing | Description |
+| :-: | :-- |
+| 0 | none |
+| 1 | start fast and slow down |
+| 2 | start slow and speed up |
 
 **starttime, endtime**: the times in milliseconds between which the event will be animated
 
