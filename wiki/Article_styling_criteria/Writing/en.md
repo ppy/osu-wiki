@@ -360,7 +360,7 @@ When quoting text from someone, specify the person being quoted after the [block
 —rrtyui (translated from {language})
 ```
 
-In general, the source of the quote should be specified above it. See the [above section](#logical-quotation) for an example. When quoting from a written article or otherwise, not necessarily from a specific person, the writer does not need to be specified below the blockquote.
+In general, the source of the quote should be specified above it. See the [above section](#logical-quotation) for an example. When quoting a written article or otherwise, and not necessarily a specific person, the writer does not need to be specified below the blockquote.
 
 ## Pronunciation
 

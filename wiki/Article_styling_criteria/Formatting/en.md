@@ -794,7 +794,7 @@ The following is an example of what a table should look like:
 
 ## Blockquotes
 
-The blockquote is limited to [quoting text from someone or somewhere](/wiki/Article_styling_criteria/Writing#block-quotation). It must not be used to format text otherwise.
+The blockquote is limited to [quoting someone or something](/wiki/Article_styling_criteria/Writing#block-quotation). It must not be used to format text otherwise.
 
 ```markdown
 > plz enjoy game
