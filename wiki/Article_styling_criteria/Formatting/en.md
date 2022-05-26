@@ -800,12 +800,12 @@ Footnotes are short notes located at the end of the page. They are used for citi
 
 In the osu! wiki, footnotes are implemented using special syntax (`[^identifier]`). Footnotes can use any identifier, but they will automatically be rendered as superscripts with increasing numbers in order of their first appearance. The footnotes themselves must be placed in a separate second-level heading at the end of the article, called `References`.
 
-Footnote references are placed directly after the words they explain, with no space inbetween. If a word is followed by a punctuation sign, a reference must be placed after the sign instead. The only exception to this rule is an exclamation mark, which could be mistakenly attempted to be rendered as an image due to similar syntax.
+Footnote references are placed directly after the words, phrases, or sentences they explain, with no space in between. These references must be placed after punctuation, except for parentheses, when they pertain to the contents inside, and dashes.<!-- Taken from https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_and_footnotes -->
 
 Correct usage examples:
 
 ```markdown
-The osu! wiki is a project that was meant to replace the old FAQ system.[^wiki-faq] It was named after the rhythm game osu! [^osu] and the largest open online encyclopedia, Wikipedia. From the very start, it had attracted skillful translators[^wiki-tl] and editors.
+The osu! wiki is a project that was meant to replace the old FAQ system.[^wiki-faq] It was named after the rhythm game osu![^osu] and the largest open online encyclopedia, Wikipedia. From the very start, it had attracted skillful translators[^wiki-tl] and editors.
 
 ## References
 
@@ -816,12 +816,12 @@ The osu! wiki is a project that was meant to replace the old FAQ system.[^wiki-f
 
 ### Citations
 
-Citations, or references, are used to identify a source of information. A reference is a link pointing at the source, which uses its title for a link text. Citations via footnotes should be preferred over inline links.
+Citations, or references, are used to identify a source of information. Citations via footnotes should be preferred over inline links.
 
 Example:
 
 ```markdown
-The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from the users.[^api-praise]
+The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from users.[^api-praise]
 
 ## References
 
