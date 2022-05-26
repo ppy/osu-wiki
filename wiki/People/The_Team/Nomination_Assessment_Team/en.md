@@ -51,7 +51,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, moderation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinese | Evaluation |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, structural, moderation, communication |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
 | ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluation |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
@@ -83,11 +82,12 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese | Evaluation |
+| ![][flag_VN] [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese | Evaluation |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation, communication |
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluation |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
-<!-- last update: 2022-04-13 with the addition of Maxus to the NAT-->
+<!-- last update: 2022-05-01 with the addition of Akasha- to the osu!mania NAT-->
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
@@ -102,3 +102,4 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
