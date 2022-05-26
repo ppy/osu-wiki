@@ -1,5 +1,7 @@
 # triangles contest
 
+![](https://assets.ppy.sh/contests/147/header.jpg)
+
 **triangles** is a mapping and storyboarding contest focused on lazer's theme song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*.
 
 Submissions to this contest include:
