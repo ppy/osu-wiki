@@ -11,7 +11,7 @@ L'**osu! Talk Event** est un événement organisé par osu! University où diff�
 
 Les intervenants ont tenu leurs discours dans un salon Stage sur le [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Pendant l'événement, des salons de discussion ont été ouverts dans le salon `#community-meetings` pour les discussions.
 
-Les conférences ont également été diffusées en direct sur [la chaîne Twitch de l'Université d'Ossétie du Sud](https://twitch.tv/osuuniversity) et des enregistrements de chaque conférence sont disponibles sur [la chaîne YouTube de l'Université d'Ossétie du Sud](https://www.youtube.com/c/osuuniversity).
+Les conférences ont également été diffusées en direct sur [la chaîne Twitch de osu! University](https://twitch.tv/osuuniversity) et des enregistrements de chaque conférence sont disponibles sur [la chaîne YouTube de osu! University](https://www.youtube.com/c/osuuniversity).
 
 Pour participer en tant que speaker à une prochaine itération de l'événement, ou recommander quelqu'un qui serait apte à donner une conférence, remplissez le [formulaire de nomination d'un speaker](https://forms.gle/HCD6ac8JwURGh8zx8).
 
