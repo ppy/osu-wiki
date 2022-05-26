@@ -94,6 +94,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ![][flag_US] [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | QAT |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | NAT |
 | ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) | BAT, moderador del chat, GMT, QAT |
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
@@ -179,7 +180,6 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ![][flag_MY] [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
 | ![][flag_US] [Protastic101](https://osu.ppy.sh/users/6712747) | QAT |
-| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Moderador del chat, GMT |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ![][flag_US] [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
@@ -223,6 +223,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
+| ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Moderador del chat, GMT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Moderador del chat |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, equipo de soporte |

@@ -113,7 +113,7 @@ To fix this, ensure you have the osu!go device selected, right-click on the RAW 
 
 **You will need to partition the device from scratch.**
 
-Please follow [this guide](https://staging.tails.boum.org/doc/first_steps/reset/windows.en.html) for details on how to do that.
+Please follow [this guide](https://tails.boum.org/doc/reset/windows/index.en.html) for details on how to do that.
 
 ### I've reformatted the osu!go device and it now shows up in Disk Management
 
