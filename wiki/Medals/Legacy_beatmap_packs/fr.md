@@ -126,7 +126,7 @@ Beatmaps :
 - [Rick Astley - Never Gonna Give You Up 2](https://osu.ppy.sh/beatmapsets/977)
 - [Caramell - Caramelldansen (Speedycake Remix)](https://osu.ppy.sh/beatmapsets/1018)
 - [Hatsune Miku - Ievan Polkka](https://osu.ppy.sh/beatmapsets/1287)
-- [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463)
+- [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463)[^polkka-unranked]
 
 ### Volume 2
 
