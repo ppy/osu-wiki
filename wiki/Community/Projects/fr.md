@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 <!-- TODO: plenty to add, and some of these are now completely dead or unusable -->

@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 4ed0787c13e3890522d5319a7eee7e015a4e86ff
 tags:
   - Beatmap Spotlights
