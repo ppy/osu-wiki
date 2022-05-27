@@ -31,6 +31,7 @@ Pour participer en tant qu'intervenant à une prochaine itération de l'événem
 - [Chaîne Twitch d'osu! University](https://twitch.tv/osuuniversity)
 - [Chaîne YouTube d'osu! University](https://www.youtube.com/c/osuuniversity)
 - [Formulaire de nomination des intervenants](https://forms.gle/HCD6ac8JwURGh8zx8)
+
 ## Programme
 
 ### Vendredi 20 mai 2022
