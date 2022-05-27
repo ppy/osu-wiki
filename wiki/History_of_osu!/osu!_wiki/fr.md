@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # L'histoire de l'osu! wiki
 
 ## MediaWiki (2011 - 2017)
