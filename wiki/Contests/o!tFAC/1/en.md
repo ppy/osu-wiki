@@ -39,13 +39,11 @@ The osu!taiko Featured Artist Cup #1 was run by various community members.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, Ranked status¹, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, Ranked status,[^prizes-ranked] unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter |
 
 ![o!tfac #1 badge](img/badge.png)
-
-¹: ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) and ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) will mod and push the winning entry to Ranked if the winner chooses to, and **if they get the necessary difficulties to form a rankable spread if needed**.
 
 ## Links
 
@@ -81,6 +79,10 @@ This competition has come to an end and resulted in the following podium:
 - **Structure (10 Points):** Points will be assigned based on how well the map is internally designed (consistency, concept introduction, etc.).
 - **Relevance (10 Points):** Points will be assigned based on how well the map represents the song and how well it plays.
 - **Creativity (10 Points):** Points will be assigned based on how the submission uses creative and fitting elements to make itself stand out.
+
+## References
+
+[^prizes-ranked]: ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) and ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) will mod and push the winning entry to Ranked if the winner chooses to, and **if they get the necessary difficulties to form a rankable spread if needed**.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"

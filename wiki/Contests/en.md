@@ -322,15 +322,9 @@ Although the Pending Cup was initially intended mainly for the Chinese-speaking 
 
 | Category | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| Featured Artist¹ | ![osu!][osu!] | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_ID] [AncuL](https://osu.ppy.sh/users/2449200) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
-| Vocal² | ![osu!][osu!] | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | ![][flag_DE] [jamesjan3](https://osu.ppy.sh/users/6260705) | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
-| Instrumental³ | ![osu!][osu!] | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | ![][flag_ID] [\[Keqing\]](https://osu.ppy.sh/users/8972308) | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
-
-¹ The Featured Artist category provides mappers with a choice of two different songs to be mapped: Zekk - Re\_construct and Shuu no Hazama \[Rainshower\].
-
-² The Vocal category provides mappers with a choice of two different songs to be mapped: nonoc - memento and DUSTCELL - DERO.
-
-³ The Instrumental category provides mappers with a choice of two different songs to be mapped: onoken - Felys final remix and Nekomata Master - The Sky of Sadness.
+| Featured Artist[^pending-cup-8-fa] | ![osu!][osu!] | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_ID] [AncuL](https://osu.ppy.sh/users/2449200) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
+| Vocal[^pending-cup-8-vocal] | ![osu!][osu!] | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | ![][flag_DE] [jamesjan3](https://osu.ppy.sh/users/6260705) | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
+| Instrumental[^pending-cup-8-instrumental] | ![osu!][osu!] | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | ![][flag_ID] [\[Keqing\]](https://osu.ppy.sh/users/8972308) | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
 
 ### Newspaper Cup
 
@@ -375,23 +369,25 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 
 | Category | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| Vocal¹ | ![osu!][osu!] | ![][flag_CN] [Quantum Rosta](https://osu.ppy.sh/users/4814169) | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) | ![][flag_CN] [Calvaria](https://osu.ppy.sh/users/12381096) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
-| Instrumental² | ![osu!][osu!] | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_CN] [lililing](https://osu.ppy.sh/users/11025355) | ![][flag_CN] [SuperBox](https://osu.ppy.sh/users/4783121) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
-
-¹ The Vocal category provides mappers with a choice of two different songs to be mapped: Isekai Joucho - Kyoukankaku Obake and Kenshi Yonezu - Shunrai.
-
-² The Instrumental category provides mappers with a choice of two different songs to be mapped: Morimori Atsushi - Funkotsu Saishin Casino and Fractal Dreamers - Celestial Horizon.
+| Vocal[^newspaper-cup-6-vocal] | ![osu!][osu!] | ![][flag_CN] [Quantum Rosta](https://osu.ppy.sh/users/4814169) | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) | ![][flag_CN] [Calvaria](https://osu.ppy.sh/users/12381096) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
+| Instrumental[^newspaper-cup-6-instrumental] | ![osu!][osu!] | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_CN] [lililing](https://osu.ppy.sh/users/11025355) | ![][flag_CN] [SuperBox](https://osu.ppy.sh/users/4783121) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
 
 #### [Newspaper Cup \#7 (2021)](https://osu.ppy.sh/community/forums/topics/1203301)
 
 | Category | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| Vocal¹ | ![osu!][osu!] | ![][flag_EE] [Keqing](https://osu.ppy.sh/users/8501291) | ![][flag_US] [Cubby](https://osu.ppy.sh/users/10914582) | ![][flag_TW] [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
-| Instrumental² | ![osu!][osu!] | ![][flag_CA] [Kyumo](https://osu.ppy.sh/users/14689984) | ![][flag_US] [- ascended -](https://osu.ppy.sh/users/4564285) | ![][flag_CL] [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
+| Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ![][flag_EE] [Keqing](https://osu.ppy.sh/users/8501291) | ![][flag_US] [Cubby](https://osu.ppy.sh/users/10914582) | ![][flag_TW] [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
+| Instrumental[^newspaper-cup-7-instrumental] | ![osu!][osu!] | ![][flag_CA] [Kyumo](https://osu.ppy.sh/users/14689984) | ![][flag_US] [- ascended -](https://osu.ppy.sh/users/4564285) | ![][flag_CL] [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 
-¹ The Vocal category provides mappers with a choice of five different songs to be mapped: Ariabl'eyeS - Unmei no Haguruma, Yunomi - Aimai Trip, KikuoHana - Desert Theater, Kaf - Tomadoi Telepathy, and Mafumafu - SNOBBISM.
+## References
 
-² The Instrumental category provides mappers with a choice of five different songs to be mapped: Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, and roop - Chatblanc.
+[^pending-cup-8-fa]: The Featured Artist category provides mappers with a choice of two different songs to be mapped: Zekk - Re\_construct and Shuu no Hazama \[Rainshower\].
+[^pending-cup-8-vocal]: The Vocal category provides mappers with a choice of two different songs to be mapped: nonoc - memento and DUSTCELL - DERO.
+[^pending-cup-8-instrumental]: The Instrumental category provides mappers with a choice of two different songs to be mapped: onoken - Felys final remix and Nekomata Master - The Sky of Sadness.
+[^newspaper-cup-6-vocal]: The Vocal category provides mappers with a choice of two different songs to be mapped: Isekai Joucho - Kyoukankaku Obake and Kenshi Yonezu - Shunrai.
+[^newspaper-cup-6-instrumental]: The Instrumental category provides mappers with a choice of two different songs to be mapped: Morimori Atsushi - Funkotsu Saishin Casino and Fractal Dreamers - Celestial Horizon.
+[^newspaper-cup-7-vocal]: The Vocal category provides mappers with a choice of five different songs to be mapped: Ariabl'eyeS - Unmei no Haguruma, Yunomi - Aimai Trip, KikuoHana - Desert Theater, Kaf - Tomadoi Telepathy, and Mafumafu - SNOBBISM.
+[^newspaper-cup-7-instrumental]: The Instrumental category provides mappers with a choice of five different songs to be mapped: Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, and roop - Chatblanc.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
