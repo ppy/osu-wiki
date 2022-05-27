@@ -25,13 +25,11 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 
 - The tournament series must run no more than four times per year.
 - The tournament must operate on a Round of 16 double-elimination format at a minimum, **OR**, have at least 64 players (or 16 teams) participating. Larger scales and formats are permitted.
-- The tournament is organised and run by an *experienced team of accomplished and reputable staff**¹*** , **OR**, the tournament *has been run at least once before without receiving rewards*.
+- The tournament is organised and run by an *experienced team of accomplished and reputable staff[^experience]* , **OR**, the tournament *has been run at least once before without receiving rewards*.
 - Staff members must not participate in the tournament themselves at any point, and players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users—players and staff alike—to make use of this form where necessary.
-
-**¹**: An "experienced" staff member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
 
 ## Requesting Support
 
@@ -68,13 +66,11 @@ In addition, all promotional material or any services associated with a tourname
 
 **The tournament must also abide by the following practices throughout:**
 
-- All registrants must be screened by the account support team before play commences**²**. See [tournament screening](#tournament-screening) for more details.
+- All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
 - If a user satisfies the sign-up criteria (if any), the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - A dedicated referee must be present during every match. Players cannot "self-ref".
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear and accessible format.
-
-**²**: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.
 
 Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
 
@@ -207,3 +203,8 @@ Flooding the game with profile badges dilutes the prestige of the prize for ever
 For beatmap contests, yes, just follow the same rules as above. We highly recommend using [Featured Artists](https://osu.ppy.sh/beatmaps/artists) for such contests and will flagrantly give preferential treatment to those who do.
 
 For other contests, email us and ask personally. We'll try to work something out.
+
+## References
+
+[^experience]: An "experienced" staff member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
+[^play-commence]: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.

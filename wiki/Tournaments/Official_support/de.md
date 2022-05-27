@@ -26,13 +26,11 @@ Von der Community betriebene Turniere, die sich an die folgenden strengen Regeln
 
 - Die Turnierserie darf nicht mehr als viermal pro Jahr stattfinden.
 - Das Turnier muss zumindest als Achtelfinale mit Doppeleleminierungsverfahren betrieben werden **ODER** es müssen mindestens 64 Spieler (oder 16 Teams) teilnehmen. Größere Maßstäbe und Formate sind erlaubt.
-- Das Turnier wird von einem *erfahrenem Team an seriösem Personal**¹*** organisiert und betrieben **ODER** das Turnier *wurde mindestens einmal ohne den Erhalt einer Belohnung geleitet*.
+- Das Turnier wird von einem *erfahrenem Team an seriösem Personal[^experience]* organisiert und betrieben **ODER** das Turnier *wurde mindestens einmal ohne den Erhalt einer Belohnung geleitet*.
 - Mitarbeiter dürfen selbst zu keinem Zeitpunkt am Turnier teilnehmen und Spielern ist es ebenso nicht erlaubt als Mitarbeiter zu assistieren. Bitte beachte die [FAQ](#what-is-considered-staff) für unsere Definition von "Personal".
 - Der Forumsbeitrag für das Turnier **MUSS** einen klar sichtbaren Link in einer normal großen Schriftart zum [Meldeformular für Turniere](https://pif.ephemeral.ink/tournament-reports) als letzten Inhalt des originalen Beitrags haben.
   - `https://pif.ephemeral.ink/tournament-reports`
   - Dieses Meldeformular wird vom [Turnierkomitee](/wiki/People/Tournament_Committee) angesehen. Wir ermutigen alle Nutzer — Spieler wie Mitarbeiter gleichermaßen — dazu, das Formular bei Bedarf zu verwenden.
-
-**¹**: Ein "erfahrener" Mitarbeiter ist grob definiert als jemand, der signifikant zum erfolgreichen Betreiben von mindestens **drei** Turnieren mit Abzeichen zuvor beigetragen hat oder Teil eines offiziellen World Cup Freiwilligenteams für irgendeinen Spielmodus war. Das kann sich nach dem Ermessen des Account-Support-Teams unterscheiden.
 
 ## Unterstützung anfragen
 
@@ -69,13 +67,11 @@ Zusätzlich sollten alle Werbematerialien oder andere Dienstleistungen, die im Z
 
 **Das Turnier muss sich außerdem durchgehend an die folgenden Praktiken halten:**
 
-- Alle registrierten Teilnehmer müssen vor Spielbeginn vom Account-Support-Team überprüft werden**²**. Siehe [Turnier-Screening](#turnier-screening) für mehr Details.
+- Alle registrierten Teilnehmer müssen vor Spielbeginn vom Account-Support-Team überprüft werden.[^play-commence] Siehe [Turnier-Screening](#turnier-screening) für mehr Details.
 - Wenn ein Nutzer die Kriterien zum Registrieren erfüllt (falls vorhanden), darf das Turnier keinen an der Teilnahme hindern, der das Screening-Verfahren besteht, außer es werden zahlreiche Beweise gegen den Teilnehmer öffentlich vorgelegt und das Account-Support-Team stimmt zu.
   - Dazu gehört, dass Spieler, die als absichtliche Verlierer wahrgenommen werden (*Sandbagging*), vom Spiel ausgeschlossen werden. Sollten Veranstalter berechtigte Bedenken über die Anwesenheit solcher Spieler haben, die die Wettbewerbsintegrität des Turniers beeinflussen, können sie das Problem mit Hilfe des [Meldeformulars für Turniere](https://pif.ephemeral.ink/tournament-reports) an das [Turnierkomitee](/wiki/People/Tournament_Committee) für eine Einzelfallüberprüfung melden.
 - Ein engagierter Schiedsrichter muss bei jedem Match präsent sein. Spieler können nicht selbst Schiedsrichter sein.
 - Alle Mehrspieler-Spiele, die für das Turnier relevant sind, müssen mit dem Befehl `!mp make` erstellt werden, damit sie nicht verfallen. Die Ergebnisse müssen aufgenommen und im originalen Forumsbeitrag in einem klaren Format öffentlich zugänglich gemacht werden.
-
-**²**: Das Spiel "beginnt", sobald die Platzierungen feststehen. Daher können Qualifikationsspiele von dieser Regelung ausgenommen werden.
 
 Sobald das Turnier beendet ist, müssen die Turnierveranstalter die folgenden Informationen an das Account-Support-Team überreichen:
 
@@ -208,3 +204,8 @@ Das Spiel mit Abzeichen zu überfluten verwischt das Ansehen des Preises für al
 Ja, für Beatmap-Wettbewerbe gilt das. Folge einfach denselben Regeln wie oben. Wir empfehlen dringend [Featured Artists](https://osu.ppy.sh/beatmaps/artists) für solche Wettbewerbe zu benutzen und werden diejenigen, die dies tun, in eklatanter Weise bevorzugt behandeln.
 
 Sende uns eine E-Mail für andere Wettbewerbe und frage uns persönlich. Wir werden versuchen, eine Lösung zu finden.
+
+## Einzelnachweise
+
+[^experience]: Ein "erfahrener" Mitarbeiter ist grob definiert als jemand, der signifikant zum erfolgreichen Betreiben von mindestens **drei** Turnieren mit Abzeichen zuvor beigetragen hat oder Teil eines offiziellen World Cup Freiwilligenteams für irgendeinen Spielmodus war. Das kann sich nach dem Ermessen des Account-Support-Teams unterscheiden.
+[^play-commence]: Das Spiel "beginnt", sobald die Platzierungen feststehen. Daher können Qualifikationsspiele von dieser Regelung ausgenommen werden.
