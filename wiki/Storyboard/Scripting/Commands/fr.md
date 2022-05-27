@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: aecdfe5275d693cac9f3d610277e56531f81c58c
+---
+
 # Commandes de script d'un storyboard
 
 Chaque [déclaration d'objet](/wiki/Storyboard/Scripting/Objects) est suivie d'une ou plusieurs **commandes**. Celles-ci indiquent à l'objet de faire quelque chose, appelé **événement**, comme se déplacer ou changer de couleur. On peut considérer que chaque commande affecte une variable (ou un ensemble de variables) pour cet objet. Une fois la commande terminée, l'objet conserve ces valeurs jusqu'à ce qu'une autre commande les modifie. Les objets pour lesquels aucun type particulier de commande n'est utilisé utiliseront la valeur par défaut pour cette variable.
