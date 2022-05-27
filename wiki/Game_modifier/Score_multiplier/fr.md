@@ -1,5 +1,4 @@
 ---
-outdated_translation: true # À jour par rapport à `en.md`
 stub: true
 tags:
   - score multiplier

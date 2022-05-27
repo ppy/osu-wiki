@@ -1,7 +1,3 @@
----
-outdated_translation: true # À jour par rapport à `en.md`
----
-
 # Tournament drawings
 
 L'écran des tournament drawings est utilisé pour diffuser en direct le tirage des équipes en groupes qui s'affronteront lors des phases de groupes d'un tournoi. Il est uniquement disponible dans le client [osu! (lazer)](https://github.com/ppy/osu/releases).
