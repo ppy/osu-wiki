@@ -237,6 +237,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-20: Added [Mocaotic](https://osu.ppy.sh/users/9487458) to **Probationary BN**
 - 2022-05-23: Added [AirinCat](https://osu.ppy.sh/users/11119539) to **BN**
 - 2022-05-25: Added [Rivals_7](https://osu.ppy.sh/users/4610379) to **Probationary BN**
+- 2022-05-27: Added [Syrion-](https://osu.ppy.sh/users/15380643) to **Probationary BN**
 
 #### Moves
 
@@ -251,6 +252,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-23: Moved [tomatas95](https://osu.ppy.sh/users/11403815) from **Probationary BN** to **BN**
 - 2022-05-23: Moved [-Syncro](https://osu.ppy.sh/users/4338923) from **Probationary BN** to **BN**
 - 2022-05-24: Moved [Mokobe](https://osu.ppy.sh/users/10374819) from **Probationary BN** to **BN**
+- 2022-05-26: Moved [Amiichii](https://osu.ppy.sh/users/9228569) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -259,4 +261,4 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-14: Removed [Karen](https://osu.ppy.sh/users/3143784) from **Probationary BN**
 - 2022-05-24: Removed [Petal](https://osu.ppy.sh/users/7354729) from **BN**
 
-<!-- updated as of May 20, 2022 with the removal of Petal from osu! Full BN -->
+<!-- updated as of May 27, 2022 with the addition of Syrion- to the probationary BN -->
