@@ -50,6 +50,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1562118)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/CWC22)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/87) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRetD8MoopEqecAdBgPUlpXsbnqnu0posV0qh9Lxo130lScWtEx1Qe2uxdyIVx-HqtXdtEXD6Rtjs_V/pubhtml)
 
@@ -102,11 +103,8 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | Team A |  |  | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | China | ![][flag_CN] | ![][flag_IL] | Israel | May 28 (Sat) 10:00 UTC | May 28 (Sat) 18:00 UTC+8 | May 28 (Sat) 13:00 UTC+3 |
-| France | ![][flag_FR] | ![][flag_TH] | Thailand | May 28 (Sat) 12:00 UTC | May 28 (Sat) 14:00 UTC+2 | May 28 (Sat) 19:00 UTC+7 |
-| Italy | ![][flag_IT] | ![][flag_NL] | Netherlands | May 28 (Sat) 13:00 UTC | May 28 (Sat) 15:00 UTC+2 | May 28 (Sat) 15:00 UTC+2 |
+| France | ![][flag_FR] | ![][flag_TH] | Thailand | May 28 (Sat) 11:00 UTC | May 28 (Sat) 13:00 UTC+2 | May 28 (Sat) 18:00 UTC+7 |
 | Singapore | ![][flag_SG] | ![][flag_AR] | Argentina | May 28 (Sat) 14:00 UTC | May 28 (Sat) 22:00 UTC+8 | May 28 (Sat) 11:00 UTC-3 |
-| Belgium | ![][flag_BE] | ![][flag_PL] | Poland | May 28 (Sat) 15:00 UTC | May 28 (Sat) 17:00 UTC+2 | May 28 (Sat) 17:00 UTC+2 |
-| Mexico | ![][flag_MX] | ![][flag_SE] | Sweden | May 28 (Sat) 19:00 UTC | May 28 (Sat) 13:00 UTC-6 | May 28 (Sat) 21:00 UTC+2 |
 | Canada | ![][flag_CA] | ![][flag_GB] | United Kingdom | May 28 (Sat) 20:00 UTC | May 28 (Sat) 15:00 UTC-5 | May 28 (Sat) 21:00 UTC+1 |
 
 ### Sunday, May 29, 2022
@@ -114,14 +112,17 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | Team A |  |  | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Brazil | ![][flag_BR] | ![][flag_JP] | Japan | May 29 (Sun) 01:00 UTC | May 28 (Sat) 22:00 UTC-3 | May 29 (Sun) 10:00 UTC+9 |
-| Indonesia | ![][flag_ID] | ![][flag_MY] | Malaysia | May 29 (Sun) 07:00 UTC | May 29 (Sun) 14:00 UTC+7 | May 29 (Sun) 15:00 UTC+8 |
-| Australia | ![][flag_AU] | ![][flag_VN] | Vietnam | May 29 (Sun) 08:00 UTC | May 29 (Sun) 18:00 UTC+10 | May 29 (Sun) 15:00 UTC+7 |
-| Taiwan | ![][flag_TW] | ![][flag_TR] | Turkey | May 29 (Sun) 10:00 UTC | May 29 (Sun) 18:00 UTC+8 | May 29 (Sun) 13:00 UTC+3 |
+| Chile | ![][flag_CL] | ![][flag_CO] | Colombia | May 29 (Sun) 02:00 UTC | May 28 (Sat) 23:00 UTC-3 | May 28 (Sat) 21:00 UTC-5 |
+| Belgium | ![][flag_BE] | ![][flag_PL] | Poland | May 29 (Sun) 11:00 UTC | May 29 (Sun) 13:00 UTC+2 | May 29 (Sun) 13:00 UTC+2 |
 | South Korea | ![][flag_KR] | ![][flag_PT] | Portugal | May 29 (Sun) 12:00 UTC | May 29 (Sun) 21:00 UTC+9 | May 29 (Sun) 13:00 UTC+1 |
-| Germany | ![][flag_DE] | ![][flag_FI] | Finland | May 29 (Sun) 13:00 UTC | May 29 (Sun) 15:00 UTC+2 | May 29 (Sun) 16:00 UTC+3 |
+| Italy | ![][flag_IT] | ![][flag_NL] | Netherlands | May 29 (Sun) 13:00 UTC | May 29 (Sun) 15:00 UTC+2 | May 29 (Sun) 15:00 UTC+2 |
+| Indonesia | ![][flag_ID] | ![][flag_MY] | Malaysia | May 29 (Sun) 13:00 UTC | May 29 (Sun) 20:00 UTC+7 | May 29 (Sun) 21:00 UTC+8 |
+| Australia | ![][flag_AU] | ![][flag_VN] | Vietnam | May 29 (Sun) 13:00 UTC | May 29 (Sun) 23:00 UTC+10 | May 29 (Sun) 20:00 UTC+7 |
+| Taiwan | ![][flag_TW] | ![][flag_TR] | Turkey | May 29 (Sun) 13:00 UTC | May 29 (Sun) 21:00 UTC+8 | May 29 (Sun) 16:00 UTC+3 |
 | Russian Federation | ![][flag_RU] | ![][flag_NO] | Norway | May 29 (Sun) 15:00 UTC | May 29 (Sun) 18:00 UTC+3 | May 29 (Sun) 17:00 UTC+2 |
-| Chile | ![][flag_CL] | ![][flag_CO] | Colombia | May 29 (Sun) 18:00 UTC | May 29 (Sun) 15:00 UTC-3 | May 29 (Sun) 13:00 UTC-5 |
-| United States | ![][flag_US] | ![][flag_UA] | Ukraine | May 29 (Sun) 18:00 UTC | May 29 (Sun) 13:00 UTC-5 | May 29 (Sun) 21:00 UTC+3 |
+| United States | ![][flag_US] | ![][flag_UA] | Ukraine | May 29 (Sun) 16:00 UTC | May 29 (Sun) 11:00 UTC-5 | May 29 (Sun) 19:00 UTC+3 |
+| Germany | ![][flag_DE] | ![][flag_FI] | Finland | May 29 (Sun) 17:00 UTC | May 29 (Sun) 19:00 UTC+2 | May 29 (Sun) 20:00 UTC+3 |
+| Mexico | ![][flag_MX] | ![][flag_SE] | Sweden | May 29 (Sun) 17:45 UTC | May 29 (Sun) 11:45 UTC-6 | May 29 (Sun) 19:45 UTC+2 |
 
 ## Mappools
 
@@ -172,7 +173,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8/edit?rm=minimal).
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8/view?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/10rAEhiJH9smCfqYEfFVvk3pDm6VLR3tYhJNOB01LNJo/view?rm=minimal).
 
 | Seed | Country | MAX% sum |
 | :-: | :-- | :-- |
