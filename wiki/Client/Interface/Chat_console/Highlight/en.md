@@ -16,4 +16,4 @@ It is possible to ignore highlights from specific users by adding their username
 ![](img/hl-notification.png "An example of highlight notification")
 :::
 
-When a chat message triggers highlight, the sender's username on that line becomes green, and the message is added to a fake `#highlight` chat tab. Additionally, if the osu!'s window is inactive, its icon will flash on the taskbar.
+When a chat message triggers highlight, the sender's username on that line becomes green, and the message is added to a `#highlight` chat tab. Additionally, if the osu!'s window is inactive, its icon will flash on the taskbar.
