@@ -55,6 +55,6 @@ Wenn du dir über ein Bild unsicher bist, das in einer Beatmap vorhanden sein so
 
 Zu jeder Zeit behält sich [das osu!-Team](/wiki/People/The_Team) in ihrem Ermessen das Recht vor, einseitig jeden Inhalt als entweder zugelassen oder nicht zugelassen zu deklarieren, unabhängig von vorherigen Wahlen bezogen auf das Thema.
 
-## Einzelnachweise
+## Anmerkungen
 
 [^drug-nature]: Hiervon können Ausnahmen gemacht werden, abhängig von der Art der Droge, ihre Verwendung und ihre Subkultur, insbesondere im Falle von Drogen, die weltweit rasch entkriminalisiert und reguliert werden, wie Marihuana. Beantragungen spezifischer Ausnahmen für diese Regel sollten durch eine Kontaktaufnahme mit dem [Support-Team](/wiki/People/The_Team/Account_support_team) unter [support@ppy.sh](mailto:support@ppy.sh) erfolgen.

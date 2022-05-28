@@ -205,7 +205,7 @@ Ja, für Beatmap-Wettbewerbe gilt das. Folge einfach denselben Regeln wie oben. 
 
 Sende uns eine E-Mail für andere Wettbewerbe und frage uns persönlich. Wir werden versuchen, eine Lösung zu finden.
 
-## Einzelnachweise
+## Anmerkungen
 
 [^experience]: Ein "erfahrener" Mitarbeiter ist grob definiert als jemand, der signifikant zum erfolgreichen Betreiben von mindestens **drei** Turnieren mit Abzeichen zuvor beigetragen hat oder Teil eines offiziellen World Cup Freiwilligenteams für irgendeinen Spielmodus war. Das kann sich nach dem Ermessen des Account-Support-Teams unterscheiden.
 [^play-commence]: Das Spiel "beginnt", sobald die Platzierungen feststehen. Daher können Qualifikationsspiele von dieser Regelung ausgenommen werden.
