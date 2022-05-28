@@ -12,7 +12,7 @@ Anyone who's traversed the osu! community in the last decade has fallen in love 
 
 **24** powerfully emotive tracks are ready to be mapped from [**Rameses B**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/270), spanning across his extensive list of [Monstercat](https://osu.ppy.sh/beatmaps/artists/255) and *Liquicity* releases.
 
-Check out everything **Rameses B** has to offer and discover how to participate in lazer's playlists:
+Check out everything **Rameses B** has to offer and discover how to participate in osu!(lazer)'s playlists:
 
 <div align="center">
     <video width="100%" controls>
@@ -22,7 +22,7 @@ Check out everything **Rameses B** has to offer and discover how to participate 
 
 ### Neon Rainbow (feat. Anna Yvette)
 
-Play [the map from the video above](https://osu.ppy.sh/beatmapsets/446332) hosted by [Aia](https://osu.ppy.sh/users/3492472) on lazer's new Featured Artist playlist!
+Play [the map from the video above](https://osu.ppy.sh/beatmapsets/446332) hosted by [Aia](https://osu.ppy.sh/users/3492472) on osu!(lazer)'s new Featured Artist playlist!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/270/Neon%20Rainbow/Rameses%20B%20-%20Neon%20Rainbow%20(feat.%20Anna%20Yvette).mp3" type="audio/mpeg">
@@ -117,7 +117,7 @@ Congrats on making it to the end of the list. Here's [one final marathon](https:
 
 That's a lot of songs, we know. And there's even more on [**Rameses B**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/270) waiting for you to begin your mapping journey. Don't keep them waiting.
 
-## Featured Artists in lazer
+## Featured Artists in osu!(lazer)
 
 Speaking of awesome new things, we're also experimenting with **Featured Artists playlists** starting TODAY.
 
@@ -138,9 +138,9 @@ The **highest ranked 3 players** in each playlist will receive one of these Feat
 
 ### How to participate
 
-Not sure what *lazer* or *playlists* are? Catch up [here](https://www.youtube.com/watch?v=ut_SOreClcc).
+Not sure what *osu! lazer* or *playlists* are? Catch up [here](https://www.youtube.com/watch?v=ut_SOreClcc).
 
-If you want to try out these new Featured Artist playlists, start by downloading lazer from its [GitHub releases page](https://github.com/ppy/osu/releases/latest). From lazer's main menu, enter the **playlists** section and filter the lobbies to **Featured Artists** in the top-right corner. Enter a lobby, play each map, then you'll see your name on the leaderboards!
+If you want to try out these new Featured Artist playlists, start by downloading osu!(lazer) from its [GitHub releases page](https://github.com/ppy/osu/releases/latest). From the main menu, enter the **playlists** section and filter the lobbies to **Featured Artists** in the top-right corner. Enter a lobby, play each map, then you'll see your name on the leaderboards!
 
 And... that's all for now! Go play some **Rameses B** maps already.
 
