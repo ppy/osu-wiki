@@ -798,7 +798,7 @@ The following is an example of what a table should look like:
 
 Footnotes are short notes located at the end of the page. They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article. Footnotes may contain text formatting and links.
 
-In the osu! wiki, footnotes are implemented using special syntax (`[^identifier]`). Footnotes can use any identifier, but they will automatically be rendered as superscripts with increasing numbers in order of their first appearance. The footnotes themselves must be placed in a separate second-level heading at the end of the article, called `References`.
+In the osu! wiki, footnotes are implemented using special syntax (`[^identifier]`). Footnotes can use any identifier, but they will automatically be rendered as superscripts with increasing numbers in order of their first appearance. The footnotes themselves must be placed in a separate second-level heading at the end of the article. Depending on the content, the heading used may be `References`, `Notes`, or `Notes and references`.
 
 Footnote references are placed directly after the words, phrases, or sentences they explain, with no space in between. These references must be placed after punctuation, except for parentheses, when they pertain to the contents inside, and dashes.<!-- Taken from https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_and_footnotes -->
 
@@ -838,7 +838,7 @@ Example:
 ```markdown
 A tournament must not be organised and run by an inexperienced team of unaccomplished and irreputable staff.[^staff]
 
-## References
+## Notes
 
 [^staff]: An *inexperienced* staff member is loosely defined as someone who has been playing osu! for less than an hour in total.
 ```
