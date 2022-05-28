@@ -121,18 +121,27 @@ That's a lot of songs, we know. And there's even more on [**Rameses B**'s Featur
 
 Speaking of awesome new things, we're also experimenting with **Featured Artists in lazer playlists** starting TODAY.
 
-For **1 month**, playlists of recent Featured Artist beatmaps will be open for *all modes*, and the **highest 3 ranking players** in each playlist will receive a Featured Artist themed profile badge!
+Here's the general idea: every month, we host one (or more) playlists using Featured Artist songs and reward participants with *something*. There isn't a strict format to the playlists — the mod choices, the map selection process, and even the prizes may change month by month.
 
-![Featured Artist profile badge](LINK)
+We'll keep things simple for this first iteration. This month's playlists are...
 
-We're keeping things simple with a playlist that doesn't allow any mods, but we'll dive into more complicated playlist requirements going forward!
+  - Open for **1 month**
+  - Available for **all game modes**
+  - Highlighting **8 maps** from recent Featured Artists
+  - Locked into the **Hidden mod** (with *No Fail* and *Mirror* freemod options)
+
+The **3 highest ranking players** in each playlist will receive one of these Featured Artist themed profile badges!
+
+![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplosu.png) ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/fapltaiko.png)
+
+![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplcatch.png) ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplmania.png)
 
 ### How to participate
 
 Not sure what *lazer* or *playlists* are? [Catch up here.](https://www.youtube.com/watch?v=ut_SOreClcc)
 
-If you want to participate in new Featured Artist playlists, download lazer from its [GitHub releases page](https://github.com/ppy/osu/releases/latest). From lazer's main menu, enter the **playlists** section and filter the lobbies to **Featured Artists** in the top right corner. Enter a lobby, play each map, then you'll see your name on the leaderboards!
+If you want to try out these new Featured Artist playlists, start by downloading lazer from its [GitHub releases page](https://github.com/ppy/osu/releases/latest). From lazer's main menu, enter the **playlists** section and filter the lobbies to **Featured Artists** in the top right corner. Enter a lobby, play each map, then you'll see your name on the leaderboards!
 
-And... that's all for now! Go play some **Rameses B** maps and stay tuned for more Featured Artists next month!
+And... that's all for now! Go play some **Rameses B** maps already.
 
 —pishifat
