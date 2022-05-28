@@ -22,7 +22,7 @@ To counterbalance February's new mods, the [Relax](/wiki/Game_modifier/Relax) (R
 
 ## April
 
-No joke, Bancho went live in April, and so did the user panels of [Extended Chat](/wiki/Client/Interface/Chat_console#extended-chat-console). Users were now able to see what other users were doing in their user panels, as well as interact with them by clicking to spectate. The automatic error submission system debuted, xfire compatibility was implemented, and the main menu and editor interface received makeovers (with new icons by [LuigiHann](https://osu.ppy.sh/users/1079)). The chat interface got some love with the "show chat" button, tab completion, and nickname highlight alerts. The ranking screen now shows points required to reach the next rank.
+No joke, Bancho went live in April, and so did the user panels of [Extended Chat](/wiki/Client/Interface/Chat_console#extended-chat-console). Users were now able to see what other users were doing in their user panels, as well as interact with them by clicking to spectate. The automatic error submission system debuted, xfire compatibility was implemented, and the main menu and editor interface received makeovers (with new icons by [LuigiHann](https://osu.ppy.sh/users/1079)). The chat interface got some love with the "show chat" button, tab completion, and [nickname highlight](/wiki/Client/Interface/Chat_console/Highlight) alerts. The ranking screen now shows points required to reach the next rank.
 
 ## May
 

@@ -44,7 +44,7 @@ In the event that another user is harassing you via private messages either on t
 
 You'll no longer see public chat messages from any users on that list, or receive private messages from them.
 
-If you wish to ignore highlights, private messages, or public messages, you can simply append respectively `@h`, `@p`, `@c` to their username. `The_Gatekeeper@c` will ignore the user's messages in public channels. It is possible to combine those: `The_Gatekeeper@ph` will ignore highlights and private messages, but leave public messages visible.
+If you wish to ignore [highlights](/wiki/Client/Interface/Chat_console/Highlight), private messages, or public messages, you can simply append respectively `@h`, `@p`, `@c` to their username. `The_Gatekeeper@c` will ignore the user's messages in public channels. It is possible to combine those: `The_Gatekeeper@ph` will ignore highlights and private messages, but leave public messages visible.
 
 #### Blocking all non-friends from sending private messages in-game
 
