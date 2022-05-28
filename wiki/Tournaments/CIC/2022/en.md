@@ -294,7 +294,7 @@ Sunday, 20 March 2022:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [Mamat](https://osu.ppy.sh/users/3031177) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Keisuu](https://osu.ppy.sh/users/3856673)** | [#1](https://osu.ppy.sh/community/matches/98923798) |
-| Lower | **[Ruu](https://osu.ppy.sh/users/3212755)** [^default-winner] ![][flag_ID] | **1** | 0 | ![][flag_ID] [^default-loser] [Minalinsky-](https://osu.ppy.sh/users/2823883) | [#1](https://osu.ppy.sh/community/matches/98926575) |
+| Lower | **[Ruu](https://osu.ppy.sh/users/3212755)** ![][flag_ID] | **1** | 0 | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | *win by default* |
 | Lower | [BitDust](https://osu.ppy.sh/users/9573836) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[Chiya--](https://osu.ppy.sh/users/7934854)** | [#1](https://osu.ppy.sh/community/matches/98928761) |
 | Lower | [Keita](https://osu.ppy.sh/users/3355617) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[Kazuyo](https://osu.ppy.sh/users/5604201)** | [#1](https://osu.ppy.sh/community/matches/98920897) |
 
@@ -433,8 +433,6 @@ Monday, 7 March 2022:
 
 ## References
 
-[^default-winner]: Wins by default.
-[^default-loser]: Lose by default.
 [^tb-winner]: Winner of the tiebreaker map.
 [^tb-loser]: Loser of the tiebreaker map.
 

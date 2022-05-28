@@ -506,7 +506,7 @@ Sunday, 3 October 2021:
 | **Checha** ![][flag_BR] | **5** | 1 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/91871404) |
 | **Aistre** ![][flag_GB] | **5** | 3 | ![][flag_GB] Cornfield | [#1](https://osu.ppy.sh/community/matches/91874338) |
 | Zyphox ![][flag_GB] | 4 | **5** | ![][flag_GB] **Reshamen** | [#1](https://osu.ppy.sh/community/matches/91922449) |
-| FuzzyL ![][flag_GB] | 0 | **2** | ![][flag_GB] **spook** | [#1](https://osu.ppy.sh/community/matches/91881112) [^lb-note-3] |
+| FuzzyL ![][flag_GB] | 0 | **2** | ![][flag_GB] **spook** | [#1](https://osu.ppy.sh/community/matches/91881112)[^lb-note-3] |
 
 ### Round of 32
 
