@@ -1845,3 +1845,6 @@
 "combo_color":                      "Beatmapping/Combo_colour"
 "glossary/combo_colour":            "Beatmapping/Combo_colour"
 "glossary/combo_color":             "Beatmapping/Combo_colour"
+
+"highlight":                        "Client/Interface/Chat_console/Highlight"
+"mention":                          "Client/Interface/Chat_console/Highlight"
