@@ -268,7 +268,7 @@ Monday, 5 December 2011:
 | Group | Team 1 |  |  | Team 2 | Match link |
 | --: | --: | :-: | :-: | :-- | :-- |
 | B | **State(s) of the Art** | **2** | 1 | Hungary CTB | [#1](https://osu.ppy.sh/community/matches/2123665) |
-| D | Chile | *N/A* | *N/A* | China | *not played[^cl-cn-skip]* |
+| D | Chile | *N/A* | *N/A* | China | *not played*[^cl-cn-skip] |
 
 ### Group stage week 4
 

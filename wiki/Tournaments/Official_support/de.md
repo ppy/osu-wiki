@@ -26,7 +26,7 @@ Von der Community betriebene Turniere, die sich an die folgenden strengen Regeln
 
 - Die Turnierserie darf nicht mehr als viermal pro Jahr stattfinden.
 - Das Turnier muss zumindest als Achtelfinale mit Doppeleleminierungsverfahren betrieben werden **ODER** es müssen mindestens 64 Spieler (oder 16 Teams) teilnehmen. Größere Maßstäbe und Formate sind erlaubt.
-- Das Turnier wird von einem *erfahrenem Team an seriösem Personal[^experience]* organisiert und betrieben **ODER** das Turnier *wurde mindestens einmal ohne den Erhalt einer Belohnung geleitet*.
+- Das Turnier wird von einem *erfahrenem Team an seriösem Personal*[^experience] organisiert und betrieben **ODER** das Turnier *wurde mindestens einmal ohne den Erhalt einer Belohnung geleitet*.
 - Mitarbeiter dürfen selbst zu keinem Zeitpunkt am Turnier teilnehmen und Spielern ist es ebenso nicht erlaubt als Mitarbeiter zu assistieren. Bitte beachte die [FAQ](#what-is-considered-staff) für unsere Definition von "Personal".
 - Der Forumsbeitrag für das Turnier **MUSS** einen klar sichtbaren Link in einer normal großen Schriftart zum [Meldeformular für Turniere](https://pif.ephemeral.ink/tournament-reports) als letzten Inhalt des originalen Beitrags haben.
   - `https://pif.ephemeral.ink/tournament-reports`

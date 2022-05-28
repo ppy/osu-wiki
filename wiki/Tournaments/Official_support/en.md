@@ -25,7 +25,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 
 - The tournament series must run no more than four times per year.
 - The tournament must operate on a Round of 16 double-elimination format at a minimum, **OR**, have at least 64 players (or 16 teams) participating. Larger scales and formats are permitted.
-- The tournament is organised and run by an *experienced team of accomplished and reputable staff[^experience]* , **OR**, the tournament *has been run at least once before without receiving rewards*.
+- The tournament is organised and run by an *experienced team of accomplished and reputable staff*,[^experience] **OR**, the tournament *has been run at least once before without receiving rewards*.
 - Staff members must not participate in the tournament themselves at any point, and players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`

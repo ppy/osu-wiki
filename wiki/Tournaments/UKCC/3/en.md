@@ -385,8 +385,8 @@ Sunday, 30 July 2017:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| Summer Solstice ![][flag_GB] | -1 | -1 | ![][flag_GB] Woffel | *double no-show[^lb-note-1]* |
-| Mykaterasu ![][flag_GB] | -1 | **0** | ![][flag_GB] **Wario** | *forfeit[^lb-note-1]* |
+| Summer Solstice ![][flag_GB] | -1 | -1 | ![][flag_GB] Woffel | *double no-show*[^lb-note-1] |
+| Mykaterasu ![][flag_GB] | -1 | **0** | ![][flag_GB] **Wario** | *forfeit*[^lb-note-1] |
 | **Kardet** ![][flag_GB] | **5** | 3 | ![][flag_GB] Dag |  |
 
 Wednesday, 2 August 2017:
@@ -615,7 +615,7 @@ Sunday, 2 July 2017:
 | uee ![][flag_GB] | 2 | **3** | ![][flag_GB] **Majoreh** | [^ro128-note-2] |
 | Sapphy128 ![][flag_GB] | 0 | **3** | ![][flag_CA] **Squapple** |  |
 | **Poi Panda** ![][flag_GB] | **3** | 1 | ![][flag_GB] Pyrooo |  |
-| Desired ![][flag_GB] | -1 | -1 | ![][flag_GB] \[Josh\] | *double no-show[^ro128-note-2]* |
+| Desired ![][flag_GB] | -1 | -1 | ![][flag_GB] \[Josh\] | *double no-show*[^ro128-note-2] |
 | **helix** ![][flag_GB] | **0** | -1 | ![][flag_GB] fgl2036 | *forfeit* |
 | Scootawoo ![][flag_GB] | 2 | **3** | ![][flag_GB] **Pelzio** |  |
 | Patritoic Brit ![][flag_GB] | 0 | **3** | ![][flag_GB] **Dag** |  |
@@ -626,7 +626,7 @@ Sunday, 2 July 2017:
 | Chassit ![][flag_GB] | -1 | **0** | ![][flag_GB] **Addstir** | *forfeit* |
 | Pepsi Max ![][flag_GB] | 1 | **3** | ![][flag_IE] **M a t t y** |  |
 | Falc0 ![][flag_GB] | 0 | **3** | ![][flag_GB] **dong** |  |
-| Azerith ![][flag_GB] | -1 | -1 | ![][flag_GB] Valentine | *double forfeit[^ro128-note-1]* |
+| Azerith ![][flag_GB] | -1 | -1 | ![][flag_GB] Valentine | *double forfeit*[^ro128-note-1] |
 
 Monday, 3 July 2017:
 

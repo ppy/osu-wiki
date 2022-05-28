@@ -25,7 +25,7 @@ Les tournois gérés par la communauté qui respectent les critères stricts sui
 
 - La série de tournois ne doit pas se dérouler plus de quatre fois par an.
 - Le tournoi doit se dérouler au minimum sous la forme de huitièmes de finale à double élimination, **OU**, avoir au moins 64 joueurs (ou 16 équipes) participants. Des échelles et des formats plus importants sont autorisés.
-- Le tournoi est organisé et géré par une *équipe expérimentée composée de membres de staff accomplis et réputés[^experience]* , **OU**, le tournoi *a été organisé au moins une fois auparavant sans recevoir de récompenses*.
+- Le tournoi est organisé et géré par une *équipe expérimentée composée de membres de staff accomplis et réputés* ,[^experience] **OU**, le tournoi *a été organisé au moins une fois auparavant sans recevoir de récompenses*.
 - Les membres du staff ne doivent en aucun cas participer eux-mêmes au tournoi, et les joueurs ne peuvent pas non plus assister ultérieurement en tant que staff. Pour notre définition du terme "staff", veuillez consulter la [FAQ](#what-is-considered-staff).
 - Le fil de discussion du forum pour le tournoi **DOIT** contenir un lien clairement visible dans une police de taille normale vers le [formulaire de rapport de tournoi](https://pif.ephemeral.ink/tournament-reports) comme tout dernier contenu du message original.
   - `https://pif.ephemeral.ink/tournament-reports`
