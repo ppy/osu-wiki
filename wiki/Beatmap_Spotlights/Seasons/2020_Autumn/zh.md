@@ -64,6 +64,14 @@ tags:
 - [Dictate - Treason (Realazy) \[The Senate\]](https://osu.ppy.sh/beatmapsets/848976#osu/1775314)
 - [Shade - Ontology (LMT) \[Brutal King\]](https://osu.ppy.sh/beatmapsets/1050313#osu/2195031)
 
+#### 歌单 D
+
+- [Feryquitous - I can avoid it.#owo (Natsume Shiki) [Hard]](https://osu.ppy.sh/beatmapsets/1157872#osu/2426476) +DT
+- [Fleur - Zov mayaka (smozit) [mirashboy's Extra]](https://osu.ppy.sh/beatmapsets/1065266#osu/2231040) +HR
+- [Noeliart - Indigo Blue (Kalibe) [Eternity]](https://osu.ppy.sh/beatmapsets/1197602#osu/2494519)
+- [Neru - Ningen Shikkaku (nold_1702) [Posthumous]](https://osu.ppy.sh/beatmapsets/86983#osu/237848)
+- [Cranky - Rave 2 Rave (Sonnyc) [Expert]](https://osu.ppy.sh/beatmapsets/751896#osu/1582902)
+
 ### osu!taiko
 
 #### 歌单 A
@@ -89,6 +97,14 @@ tags:
 - [Zekk - Abrasion (komasy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1204065#taiko/2507370)
 - [DJ TOTTO VS TOTTO - Vajra (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/322526#taiko/717065)
 - [Cranky - Into the Unknown (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/738600#taiko/1558762)
+
+#### 歌单 D
+
+- [Nakanojojo - Nouryokusha Dakedo Mirai Nante Yomenai (Chromoxx) [Nardo's Muzukashii]](https://osu.ppy.sh/beatmapsets/936357#taiko/2010539)
+- [TeamGrimoire+Amaneko - croiX (HelloSCV) [714's Oni]](https://osu.ppy.sh/beatmapsets/88692#taiko/242953)
+- [Kano - Houkago Stride (Short Ver.) (Lundlerol) [Oni]](https://osu.ppy.sh/beatmapsets/80983#taiko/225075)
+- [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX- (Nanatsu) [Inner Oni]](https://osu.ppy.sh/beatmapsets/406622#taiko/920487)
+- [Onocchi, Xenon - Suigetsu Kyouka Koubou Issen (lolcubes) [Oni]](https://osu.ppy.sh/beatmapsets/294471#taiko/672474)
 
 ### osu!catch
 
@@ -116,6 +132,14 @@ tags:
 - [siromaru + cranky - conflict (Bunnrei) \[Conquest of the Damned\]](https://osu.ppy.sh/beatmapsets/981762#fruits/2054777) +HD
 - [REDALiCE vs. USAO - SAIKYO STRONGER (Rocma) \[ROCMA'S MIRAI\]](https://osu.ppy.sh/beatmapsets/1105820#fruits/2311283)
 
+#### 歌单 D
+
+- [Mitsuhiro Kitadani - Aria of the Soul (JeirYagtama) [Platter]](https://osu.ppy.sh/beatmapsets/996344#fruits/2084141)
+- [Goose house - 18sai (mingmichael) [Rain]](https://osu.ppy.sh/beatmapsets/242856#fruits/560408) +DT
+- [Rezonate - The Phoenix (Nanachii) [Resurrection]](https://osu.ppy.sh/beatmapsets/808379#fruits/1696380)
+- [CELLON. - Virtual mode (JBHyperion) [Rain]](https://osu.ppy.sh/beatmapsets/1069501#fruits/2238805)
+- [PUP - DVP (Jemzuu) [YUH]](https://osu.ppy.sh/beatmapsets/1159828#fruits/2420076) +HR
+
 ### osu!mania
 
 #### 歌单 A
@@ -141,3 +165,11 @@ tags:
 - [Bond - Wintersun (Bobby D'Ambrosio Mix) (ExPew) \[7K Winter\]](https://osu.ppy.sh/beatmapsets/95635#mania/256726)
 - [Mastermind(xi+nora2r) - Dreadnought (Kyousuke-) \[LordRaika's 7K Onslaught\]](https://osu.ppy.sh/beatmapsets/400351#mania/923665)
 - [RIOT - Overkill (yetii) \[SYNTHESIZED VIOLENCE\]](https://osu.ppy.sh/beatmapsets/945496#mania/1974394)
+
+#### 歌单 D
+
+- [Kero Kero Bonito - My Party (bo en Remix) (Hydria) [Hard]](https://osu.ppy.sh/beatmapsets/812008#mania/1703185)
+- [Rohi - Kakuzetsu Thanatos (\_underjoy) [Insane]](https://osu.ppy.sh/beatmapsets/357060#mania/790529)
+- [Nekomata Gekidan - envidia (Calcyon) [Jealousy]](https://osu.ppy.sh/beatmapsets/819153#mania/1717476)
+- [Yooh - Dynasty -al fine- (AWMRone) [Domination]](https://osu.ppy.sh/beatmapsets/1176967#mania/2552545)
+- [Billain & Vorso - Transhumanist (Kamuy) [inhuman]](https://osu.ppy.sh/beatmapsets/1069426#mania/2238671)
