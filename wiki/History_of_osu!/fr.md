@@ -1,5 +1,5 @@
 ---
-oudated: true
+outdated: true
 ---
 
 # L'histoire d'osu!
