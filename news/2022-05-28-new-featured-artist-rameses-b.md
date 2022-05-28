@@ -119,9 +119,9 @@ That's a lot of songs, we know. And there's even more on [**Rameses B**'s Featur
 
 ## Featured Artists in lazer
 
-Speaking of awesome new things, we're also experimenting with **Featured Artists in lazer playlists** starting TODAY.
+Speaking of awesome new things, we're also experimenting with **Featured Artists playlists** starting TODAY.
 
-Here's the general idea: every month, we host one (or more) playlists using Featured Artist songs and reward participants with *something*. There isn't a strict format to the playlists — the mod choices, the map selection process, and even the prizes may change month by month.
+Here's the general idea: every month, we host one (or more) playlists using Featured Artist songs and reward participants with *something*. There isn't a strict format to the playlists — the mod choices, the map selection process, and even the prizes may change month by month. If you're wondering what a playlist is, make sure to check out the video above for a quick rundown of how to get involved!
 
 We'll keep things simple for this first iteration. This month's playlists are...
 
