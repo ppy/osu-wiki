@@ -10,7 +10,7 @@ date: 2022-05-28 13:00:00 +0000
 
 Anyone who's traversed the osu! community in the last decade has fallen in love with this multi-talented electronic producer. **Rameses B** is renowned among circle clickers as the musician behind the classic pre-installed beatmap [Flaklypa](https://osu.ppy.sh/beatmapsets/190390) and as an iconic contributor to the drum & bass genre!
 
-**24** powerfully emotive tracks ready to be mapped from [**Rameses B**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/270), spanning across his extensive list of [Monstercat](https://osu.ppy.sh/beatmaps/artists/255) and *Liquicity* releases.
+**24** powerfully emotive tracks are ready to be mapped from [**Rameses B**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/270), spanning across his extensive list of [Monstercat](https://osu.ppy.sh/beatmaps/artists/255) and *Liquicity* releases.
 
 Check out everything **Rameses B** has to offer and discover how to participate in lazer's playlists:
 
@@ -125,12 +125,12 @@ Here's the general idea: every month, we host one (or more) playlists using Feat
 
 We'll keep things simple for this first iteration. This month's playlists are...
 
-  - Open for **1 month**
-  - Available for **all game modes**
-  - Highlighting **8 maps** from recent Featured Artists
-  - Locked into the **Hidden mod** (with *No Fail* and *Mirror* freemod options)
+- Open for **1 month**
+- Available for **all game modes**
+- Highlighting **8 maps** from recent Featured Artists
+- Locked into the **Hidden mod** (with *No Fail* and *Mirror* freemod options)
 
-The **highest ranked 3 players** in each playlist will receive one of these Featured Artist themed profile badges!
+The **highest ranked 3 players** in each playlist will receive one of these Featured Artist–themed profile badges!
 
 ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/faplosu.png) ![Featured Artist profile badge](/wiki/shared/news/2022-05-28-new-featured-artist-rameses-b/fapltaiko.png)
 
@@ -138,9 +138,9 @@ The **highest ranked 3 players** in each playlist will receive one of these Feat
 
 ### How to participate
 
-Not sure what *lazer* or *playlists* are? [Catch up here.](https://www.youtube.com/watch?v=ut_SOreClcc)
+Not sure what *lazer* or *playlists* are? Catch up [here](https://www.youtube.com/watch?v=ut_SOreClcc).
 
-If you want to try out these new Featured Artist playlists, start by downloading lazer from its [GitHub releases page](https://github.com/ppy/osu/releases/latest). From lazer's main menu, enter the **playlists** section and filter the lobbies to **Featured Artists** in the top right corner. Enter a lobby, play each map, then you'll see your name on the leaderboards!
+If you want to try out these new Featured Artist playlists, start by downloading lazer from its [GitHub releases page](https://github.com/ppy/osu/releases/latest). From lazer's main menu, enter the **playlists** section and filter the lobbies to **Featured Artists** in the top-right corner. Enter a lobby, play each map, then you'll see your name on the leaderboards!
 
 And... that's all for now! Go play some **Rameses B** maps already.
 
