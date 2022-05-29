@@ -91,6 +91,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Kantonca, Çince | Turnuva yönetimi |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Portekizce | Mapping/modding topluluk moderasyonu |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! geliştirme |
+| ![][flag_VN] [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamca | Sohbet moderasyonu |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipince | Sohbet moderasyonu, forum moderasyonu, teknik destek |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Fransızca | Sohbet moderasyonu |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Mapping/modding topluluk moderasyonu |
@@ -107,6 +108,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Kantonca, Çince | Sohbet moderasyonu |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Korece, Japonca | Sohbet moderasyonu |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Mapping/modding topluluk moderasyonu |
+| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Arapça, Malay dili | Sohbet moderasyonu |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | İspanyolca | Sohbet moderasyonu |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Almanca | Forum moderasyonu |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korece | Sohbet moderasyonu |
@@ -116,14 +118,13 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Fransızca, İspanyolca | Sohbet moderasyonu |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | Portekizce | Mapping/modding topluluk moderasyonu |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Endonezce | Sohbet moderasyonu |
-| ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) | Endonezce | Sohbet moderasyonu |
+| ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) | Endonezce, biraz Vietnamca | Sohbet moderasyonu |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Çince | Sohbet moderasyonu |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Rusça | Sohbet moderasyonu, wiki yönetimi |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Korece, Japonca, Filipince | Sohbet moderasyonu |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipince | Sohbet moderasyonu |
 | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) | Tay dili | Sohbet moderasyonu |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | İspanyolca | Teknik destek |
-| ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Lehçe | Sohbet moderasyonu |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | Lehçe | Sohbet moderasyonu |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Lehçe | Sohbet moderasyonu |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Sohbet moderasyonu |
@@ -133,11 +134,11 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 
 | Kanal | Alt forum | Moderatörler |
 | :-- | :-- | :-- |
-| `#arabic` |  |  |
+| `#arabic` |  | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) |
-| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419), ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729), ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) |
+| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131), ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729), ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) |  |
 | `#english` |  | *Tüm moderatörler* |
@@ -152,17 +153,17 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
-| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
-| `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
+| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419), ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+| `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
 | `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484), ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) |
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
-| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467), ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
+| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467), ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991), ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
-| `#vietnamese` |  |  |
+| `#vietnamese` |  | ![][flag_VN] [My Angel Chino](https://osu.ppy.sh/users/733998), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
 [flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
@@ -195,4 +196,5 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 [flag_TR]: /wiki/shared/flag/TR.gif "Türkiye"
 [flag_TW]: /wiki/shared/flag/TW.gif "Tayvan"
 [flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
 [flag___]: /wiki/shared/flag/__.gif

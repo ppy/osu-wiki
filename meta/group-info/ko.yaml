@@ -1,11 +1,67 @@
-outdated: true # missing entries
 separator: ", "
+alumni:
+  roles:
+    academy: osu!academy 설립자
+    admin: 관리자
+    chat: 챗 모더레이터
+    dev: osu!dev
+    media: osu!media 설립자
+    support: 지원팀
+    tournaments: 토너먼트 관리자
 gmt:
+  all_mods: 모든 모더레이터
   areas:
     beatmap: 비트맵 관리
     chat: 채팅 관리
     forum: 포럼 관리
+    team: 공식 팀
+    dev: osu! 개발
     player: 플레이어 지원
     support: 기술 지원
-    tournaments: 대회 관리
-    wiki: wiki 관리
+    tournaments: 토너먼트 관리
+    wiki: 위키 관리
+    mapping: 매핑/모딩 커뮤니티 관리
+nat:
+  areas:
+    communication: 소통
+    evaluation: 평가
+    moderation: 중재
+    structural: 구조
+languages:
+  partial: 일부 <language>
+  ar: 아랍어
+  bg: 불가리아어
+  bn: 뱅골어
+  ca: 카탈로니아어
+  da: 덴마크어
+  de: 독일어
+  el: 그리스어
+  es: 스페인어
+  et: 에스토니아어
+  fi: 핀란드어
+  fil: 필리핀어
+  fr: 프랑스어
+  gl: 갈리시아어
+  hr: 크로아티아어
+  hu: 헝가리어
+  id: 인도네시아어
+  it: 이탈리아어
+  ja: 일본어
+  ko: 한국어
+  lt: 리투아니아어
+  ms: 말레이어
+  nl: 네덜란드어
+  no: 노르웨이어
+  pl: 폴란드어
+  pt: 포르투갈어
+  ro: 루마니아어
+  ru: 러시아어
+  sr: 세르비아어
+  sv: 스웨덴어
+  te: 텔루구어
+  th: 타이어
+  tr: 터키어
+  ur: 우르두어
+  vi: 베트남어
+  yue: 광둥어
+  zh: 중국어

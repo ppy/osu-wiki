@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6450b01c1dbc60bcfecdd85bce52a0bfc44b4e99
+---
+
 # Daftar pengguna dengan gelar khusus
 
 Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [gugus pengguna (*user group*)](/wiki/People/The_Team#gugus-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen unik yang mereka torehkan.
