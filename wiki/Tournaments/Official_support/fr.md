@@ -25,13 +25,11 @@ Les tournois gérés par la communauté qui respectent les critères stricts sui
 
 - La série de tournois ne doit pas se dérouler plus de quatre fois par an.
 - Le tournoi doit se dérouler au minimum sous la forme de huitièmes de finale à double élimination, **OU**, avoir au moins 64 joueurs (ou 16 équipes) participants. Des échelles et des formats plus importants sont autorisés.
-- Le tournoi est organisé et géré par une *équipe expérimentée composée de membres de staff accomplis et réputés**¹*** , **OU**, le tournoi *a été organisé au moins une fois auparavant sans recevoir de récompenses*.
+- Le tournoi est organisé et géré par une *équipe expérimentée composée de membres de staff accomplis et réputés*,[^experience] **OU**, le tournoi *a été organisé au moins une fois auparavant sans recevoir de récompenses*.
 - Les membres du staff ne doivent en aucun cas participer eux-mêmes au tournoi, et les joueurs ne peuvent pas non plus assister ultérieurement en tant que staff. Pour notre définition du terme "staff", veuillez consulter la [FAQ](#what-is-considered-staff).
 - Le fil de discussion du forum pour le tournoi **DOIT** contenir un lien clairement visible dans une police de taille normale vers le [formulaire de rapport de tournoi](https://pif.ephemeral.ink/tournament-reports) comme tout dernier contenu du message original.
   - `https://pif.ephemeral.ink/tournament-reports`
   - Ce formulaire de rapport est supervisé par le [Comité des tournois](/wiki/People/Tournament_Committee). Nous encourageons tous les utilisateurs, qu'ils soient joueurs ou membres du staff, à utiliser ce formulaire si nécessaire.
-
-**¹** : Un membre du staff "expérimenté" est vaguement défini comme quelqu'un qui a contribué de manière significative au bon déroulement d'au moins **trois** tournois ayant reçu des badges au préalable, ou qui a fait partie d'une équipe de bénévoles officielle de la World Cup pour n'importe quel mode de jeu. Cette définition peut varier à la discrétion de l'équipe de support aux comptes.
 
 ## Demande de support
 
@@ -68,13 +66,11 @@ En outre, tout matériel promotionnel ou tout service associé à un tournoi bé
 
 **Le tournoi doit également respecter les pratiques suivantes pendant toute la durée du tournoi :**
 
-- Tous les joueurs inscrits doivent être contrôlés par l'équipe de support aux comptes avant le début du tournoi**²**. Voir [screening du tournoi](#tournament-screening) pour plus de détails.
+- Tous les joueurs inscrits doivent être contrôlés par l'équipe de support aux comptes avant le début du tournoi.[^play-commence] Voir [screening du tournoi](#tournament-screening) pour plus de détails.
 - Si un utilisateur répond aux critères d'inscription (s'il y en a), le tournoi ne doit pas empêcher ceux qui passent le screening de participer sans que de nombreuses preuves soient présentées publiquement contre eux et sans l'approbation de l'équipe de support aux comptes.
   - Il s'agit notamment d'empêcher de jouer les utilisateurs qui sont suspectés de "sandbag" leur performance. Si un organisateur a des raisons valables de penser que la présence de tels joueurs affecte l'intégrité compétitive de son tournoi, il peut soumettre le problème au [Comité des tournois](/wiki/People/Tournament_Committee) pour un examen au cas par cas en utilisant le [formulaire de report de tournoi](https://pif.ephemeral.ink/tournament-reports).
 - Un arbitre dédié doit être présent lors de chaque match. Les joueurs ne peuvent pas s'auto-arbitrer.
 - Tous les matchs multijoueur relatifs au tournoi doivent être créés avec la commande `!mp make`, afin qu'ils n'expirent pas. Les résultats doivent être enregistrés et rendus publics sur le post original du forum du tournoi dans un format clair et accessible.
-
-**²** : Le tournoi "commence" une fois que le seeding ou les brackets ont été déterminés. Par conséquent, les phases de qualifications peuvent être exemptées de cette règle.
 
 Une fois le tournoi terminé, les organisateurs du tournoi devront envoyer les éléments suivants à l'équipe de support aux comptes :
 
@@ -207,3 +203,8 @@ Inonder le jeu de badges de profil dilue le prestige du prix pour tous les autre
 Pour les concours de beatmaps, oui, il suffit de suivre les mêmes règles que ci-dessus. Nous vous recommandons vivement d'utiliser les musiques des [Featured Artists](https://osu.ppy.sh/beatmaps/artists) pour ces concours et nous accorderons de manière flagrante un traitement préférentiel à ceux qui le font.
 
 Pour les autres concours, envoyez-nous un e-mail et demandez personnellement. Nous essaierons de trouver une solution.
+
+## Notes
+
+[^experience]: Un membre du staff "expérimenté" est vaguement défini comme quelqu'un qui a contribué de manière significative au bon déroulement d'au moins **trois** tournois ayant reçu des badges au préalable, ou qui a fait partie d'une équipe de bénévoles officielle de la World Cup pour n'importe quel mode de jeu. Cette définition peut varier à la discrétion de l'équipe de support aux comptes.
+[^play-commence]: Le tournoi "commence" une fois que le seeding ou les brackets ont été déterminés. Par conséquent, les phases de qualifications peuvent être exemptées de cette règle.
