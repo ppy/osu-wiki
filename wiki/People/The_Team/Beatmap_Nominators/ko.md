@@ -230,8 +230,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 - 2014년 8월 22일부로  BAT는 스태프 팀에서 제외되었고, 이로 인해 인게임 채팅 관리 권한 및 인게임과 포럼에서 빨간 닉네임이 사라지게 되었습니다. 
 - 2015년 2월 1일부로 *BAT*에서 *비트맵 노미네이션 그룹(Beatmap Nomination Group)*으로 변경되었고, 이후 우리가 현재 알고 있는 비트맵 노미네이터로 변경되었습니다.
 
-[flag_ES]: /wiki/shared.flag/ES.gif
-
 [flag_AR]: /wiki/shared/flag/AR.gif "아르헨티나"
 [flag_AT]: /wiki/shared/flag/AT.gif "오스트리아"
 [flag_AU]: /wiki/shared/flag/AU.gif "오스트레일리아"
