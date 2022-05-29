@@ -7,9 +7,9 @@ tags:
 
 # Flow
 
-The **flow** is a mapping concept that describes natural and intuitive movement of a player throughout the map. The flow, or lack thereof, is almost always related to the [osu!](/wiki/Game_mode/osu!) game mode beatmaps due to the two-dimensional playfield. Additionally, the osu! beatmaps offer a vast variety of [patterns](/wiki/Beatmap/Pattern) and slider shapes, which may be used by mappers to direct a player's cursor wherever they want to.
+**Flow** is a mapping concept that describes natural and intuitive movement patterns of a player during gameplay. Flow, or the lack thereof, is almost always related to the [osu! game mode](/wiki/Game_mode/osu!) due to the two-dimensional playfield. By utilising the vast variety of [patterns](/wiki/Beatmap/Pattern) and slider shapes possible in osu! beatmaps, mappers are able to direct a player's cursor around the playfield in various ways, yielding different effects on the gameplay experience.
 
-If a mapper deliberately ignores the concepts of flow, or uses their opposites, they utilise [antiflow](/wiki/Beatmapping/Antiflow).
+The opposite of flow is called [antiflow](/wiki/Beatmapping/Antiflow), which conversely involves unintuitive or unnatural movement patterns.
 
 ## Key components
 
@@ -17,7 +17,7 @@ While flow is mostly subjective, as movement preferences differ from one person 
 
 ### Smooth movement
 
-The cursor movement required to pass the map is stable most of the time and doesn't contain sharp, abrupt turns, or fast change of pace. Often, a player's cursor follows a smooth curve that spans for several patterns. The curve contains lots of circular or semicircular segments (so-called *oval or circular flow*) going in different directions, mixed with "neutral", non-demanding patterns. Such patterns don't contribute to the general direction, or only change it slightly to ease the transition to the next pattern.
+The cursor movement required to pass the map is stable most of the time and doesn't contain sharp, abrupt turns, or fast change of pace. Often, a player's cursor follows a smooth curve that spans for several patterns. The curve contains lots of circular or semicircular segments (so-called *oval* or *circular flow*) going in different directions, mixed with "neutral", non-demanding patterns. Such patterns don't contribute to the general direction, or only change it slightly to ease the transition to the next pattern.
 
 Linear movement may also be considered another form of flow, albeit less common, since it doesn't enforce any specific cursor trajectory type.
 
@@ -32,8 +32,8 @@ To further make the beatmap look and feel more natural, mappers can use [streams
 ## See also
 
 - [Analyzing Flow in Beatmaps](https://osu.ppy.sh/community/forums/topics/86329), a guide by ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
-- [Mapping Analysis #1 - Flow](https://osu.ppy.sh/home/news/2013-09-15-mapping-analysis-1-flow), a newspost by ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005)
-- *[flow + circles](https://www.youtube.com/watch?v=ig7nTSbWwVc)* and *[flow + sliders](https://www.youtube.com/watch?v=GYGatwQszwQ)*, the episodes of the [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube series
+- [Mapping Analysis #1 - Flow](https://osu.ppy.sh/home/news/2013-09-15-mapping-analysis-1-flow), a news post by ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005)
+- *[flow + circles](https://www.youtube.com/watch?v=ig7nTSbWwVc)* and *[flow + sliders](https://www.youtube.com/watch?v=GYGatwQszwQ)*, episodes of the [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube series by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
 
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
