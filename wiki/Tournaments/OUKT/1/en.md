@@ -18,11 +18,11 @@ The **UK osu!standard tournament!** (***OUKT1***) was a ![][flag_GB] United King
 | --: | :-- |
 | Signups Open | 2013-11-11 |
 | Signups Close | 2013-11-12 |
-| Round of 32 | 2013-12-7 |
+| Round of 32 | 2013-12-07 |
 | Round of 16 | 2013-12-14 |
 | Quaterfinals | 2013-12-21 |
-| Semifinals | 2014-1-4 |
-| Finals | 2014-1-11 |
+| Semifinals | 2014-01-04 |
+| Finals | 2014-01-11 |
 
 ## Prizes
 
