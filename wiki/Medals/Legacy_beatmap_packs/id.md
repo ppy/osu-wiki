@@ -400,7 +400,7 @@ Daftar beatmap:
 
 - Beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), yang terkandung dalam paket beatmap Internet Pack (Volume 1), terkenal sebagai beatmap yang dahulu pernah di-[approve](/wiki/Beatmap/Category#approved) meskipun hanya tersusun atas satu spinner. Walaupun [status Approved beatmap tersebut kini telah dicabut](https://osu.ppy.sh/community/forums/posts/149328), beatmap tersebut tetap dapat diunduh dan menjadi bagian dari paket beatmap Internet Pack (Volume 1).
 
-## References
+## Catatan
 
 [^polkka-unranked]: [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) merupakan beatmap yang berstatus unranked. Beatmap ini tidak wajib dimainkan untuk dapat menyelesaikan paket ini.
 

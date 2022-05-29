@@ -55,6 +55,6 @@ Jika Anda tidak yakin terhadap gambar yang akan dimasukkan ke dalam beatmap, **s
 
 Setiap saat, [tim inti osu!](/wiki/People/The_Team) berhak untuk menyatakan valid atau tidak terhadap konten apapun secara sepihak atas kebijakan mereka, terlepas dari pemungutan suara yang sebelumnya telah diadakan terkait masalah tersebut.
 
-## References
+## Catatan
 
 [^drug-nature]: Ini merupakan dapat menjadi pengecualian tergantung oleh asal obat-obatan terlarang, penggunaannya, dan subkulturnya, khususnya obat-obatan terlarang yang mengalami dekriminalisasi dan diregulasi seperti ganja. Permohonan pengecualian spesifik terhadap aturan ini dapat ditempuh dengan mengontak [tim support](/wiki/People/The_Team/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh).

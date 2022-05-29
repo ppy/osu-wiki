@@ -321,7 +321,7 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas berbagai alasan yan
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 
-## References
+## Catatan
 
 [^mao-note]: ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam meraih gelar Elite Mapper pada dua kontes mapping yang berbeda, yakni [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
 [^charles445-note]: ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) saat ini menyandang gelar **Elite Mapper II: Aspirant** atas keberhasilannya dalam menjuarai [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) dan [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) secara bersamaan.
