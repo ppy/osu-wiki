@@ -96,33 +96,33 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983) |
 | ![][flag_VN] | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)**, [Stardust Prism](https://osu.ppy.sh/users/8525921), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-Linglan Lily-](https://osu.ppy.sh/users/8738261), [Marota](https://osu.ppy.sh/users/10278890), [NamSPro](https://osu.ppy.sh/users/11387006) |
 
-## Match schedule: Round of 32
+## Match schedule: Round of 16
 
-### Saturday, May 28, 2022
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_IL] | Israel | May 28 (Sat) 10:00 UTC | May 28 (Sat) 18:00 UTC+8 | May 28 (Sat) 13:00 UTC+3 |
-| France | ![][flag_FR] | ![][flag_TH] | Thailand | May 28 (Sat) 11:00 UTC | May 28 (Sat) 13:00 UTC+2 | May 28 (Sat) 18:00 UTC+7 |
-| Singapore | ![][flag_SG] | ![][flag_AR] | Argentina | May 28 (Sat) 14:00 UTC | May 28 (Sat) 22:00 UTC+8 | May 28 (Sat) 11:00 UTC-3 |
-| Canada | ![][flag_CA] | ![][flag_GB] | United Kingdom | May 28 (Sat) 20:00 UTC | May 28 (Sat) 15:00 UTC-5 | May 28 (Sat) 21:00 UTC+1 |
-
-### Sunday, May 29, 2022
+### Saturday, June 4, 2022
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Brazil | ![][flag_BR] | ![][flag_JP] | Japan | May 29 (Sun) 01:00 UTC | May 28 (Sat) 22:00 UTC-3 | May 29 (Sun) 10:00 UTC+9 |
-| Chile | ![][flag_CL] | ![][flag_CO] | Colombia | May 29 (Sun) 02:00 UTC | May 28 (Sat) 23:00 UTC-3 | May 28 (Sat) 21:00 UTC-5 |
-| Belgium | ![][flag_BE] | ![][flag_PL] | Poland | May 29 (Sun) 11:00 UTC | May 29 (Sun) 13:00 UTC+2 | May 29 (Sun) 13:00 UTC+2 |
-| South Korea | ![][flag_KR] | ![][flag_PT] | Portugal | May 29 (Sun) 12:00 UTC | May 29 (Sun) 21:00 UTC+9 | May 29 (Sun) 13:00 UTC+1 |
-| Italy | ![][flag_IT] | ![][flag_NL] | Netherlands | May 29 (Sun) 13:00 UTC | May 29 (Sun) 15:00 UTC+2 | May 29 (Sun) 15:00 UTC+2 |
-| Indonesia | ![][flag_ID] | ![][flag_MY] | Malaysia | May 29 (Sun) 13:00 UTC | May 29 (Sun) 20:00 UTC+7 | May 29 (Sun) 21:00 UTC+8 |
-| Australia | ![][flag_AU] | ![][flag_VN] | Vietnam | May 29 (Sun) 13:00 UTC | May 29 (Sun) 23:00 UTC+10 | May 29 (Sun) 20:00 UTC+7 |
-| Taiwan | ![][flag_TW] | ![][flag_TR] | Turkey | May 29 (Sun) 13:00 UTC | May 29 (Sun) 21:00 UTC+8 | May 29 (Sun) 16:00 UTC+3 |
-| Russian Federation | ![][flag_RU] | ![][flag_NO] | Norway | May 29 (Sun) 15:00 UTC | May 29 (Sun) 18:00 UTC+3 | May 29 (Sun) 17:00 UTC+2 |
-| United States | ![][flag_US] | ![][flag_UA] | Ukraine | May 29 (Sun) 16:00 UTC | May 29 (Sun) 11:00 UTC-5 | May 29 (Sun) 19:00 UTC+3 |
-| Germany | ![][flag_DE] | ![][flag_FI] | Finland | May 29 (Sun) 17:00 UTC | May 29 (Sun) 19:00 UTC+2 | May 29 (Sun) 20:00 UTC+3 |
-| Mexico | ![][flag_MX] | ![][flag_SE] | Sweden | May 29 (Sun) 17:45 UTC | May 29 (Sun) 11:45 UTC-6 | May 29 (Sun) 19:45 UTC+2 |
+| Israel | ![][flag_IL] | ![][flag_JP] | Japan | Jun 4 (Sat) 10:00 UTC | Jun 4 (Sat) 13:00 UTC+3 | Jun 4 (Sat) 19:00 UTC+9 |
+| Thailand | ![][flag_TH] | ![][flag_NL] | Netherlands | Jun 4 (Sat) 11:00 UTC | Jun 4 (Sat) 18:00 UTC+7 | Jun 4 (Sat) 13:00 UTC+2 |
+| Ukraine | ![][flag_UA] | ![][flag_BE] | Belgium | Jun 4 (Sat) 12:00 UTC | Jun 4 (Sat) 15:00 UTC+3 | Jun 4 (Sat) 14:00 UTC+2 |
+| Portugal | ![][flag_PT] | ![][flag_FI] | Finland | Jun 4 (Sat) 13:00 UTC | Jun 4 (Sat) 14:00 UTC+1 | Jun 4 (Sat) 16:00 UTC+3 |
+| Malaysia | ![][flag_MY] | ![][flag_AR] | Argentina | Jun 4 (Sat) 14:00 UTC | Jun 4 (Sat) 22:00 UTC+8 | Jun 4 (Sat) 11:00 UTC-3 |
+| France | ![][flag_FR] | ![][flag_IT] | Italy | Jun 4 (Sat) 15:00 UTC | Jun 4 (Sat) 17:00 UTC+2 | Jun 4 (Sat) 17:00 UTC+2 |
+| Colombia | ![][flag_CO] | ![][flag_VN] | Vietnam | Jun 4 (Sat) 16:00 UTC | Jun 4 (Sat) 11:00 UTC-5 | Jun 4 (Sat) 23:00 UTC+7 |
+| United Kingdom | ![][flag_GB] | ![][flag_NO] | Norway | Jun 4 (Sat) 17:00 UTC | Jun 4 (Sat) 18:00 UTC+1 | Jun 4 (Sat) 19:00 UTC+2 |
+
+### Sunday, June 5, 2022
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Taiwan | ![][flag_TW] | ![][flag_MX] | Mexico | Jun 5 (Sun) 04:00 UTC | Jun 5 (Sun) 12:00 UTC+8 | Jun 4 (Sat) 22:00 UTC-6 |
+| South Korea | ![][flag_KR] | ![][flag_DE] | Germany | Jun 5 (Sun) 10:00 UTC | Jun 5 (Sun) 19:00 UTC+9 | Jun 5 (Sun) 12:00 UTC+2 |
+| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | Jun 5 (Sun) 11:00 UTC | Jun 5 (Sun) 18:00 UTC+7 | Jun 5 (Sun) 19:00 UTC+8 |
+| Chile | ![][flag_CL] | ![][flag_AU] | Australia | Jun 5 (Sun) 13:30 UTC | Jun 5 (Sun) 09:30 UTC-4 | Jun 5 (Sun) 23:30 UTC+10 |
+| China | ![][flag_CN] | ![][flag_BR] | Brazil | Jun 5 (Sun) 14:00 UTC | Jun 5 (Sun) 22:00 UTC+8 | Jun 5 (Sun) 11:00 UTC-3 |
+| Canada | ![][flag_CA] | ![][flag_RU] | Russian Federation | Jun 5 (Sun) 16:00 UTC | Jun 5 (Sun) 11:00 UTC-5 | Jun 5 (Sun) 19:00 UTC+3 |
+| United States | ![][flag_US] | ![][flag_PL] | Poland | Jun 5 (Sun) 17:00 UTC | Jun 5 (Sun) 12:00 UTC-5 | Jun 5 (Sun) 19:00 UTC+2 |
+| Turkey | ![][flag_TR] | ![][flag_SE] | Sweden | Jun 5 (Sun) 18:00 UTC | Jun 5 (Sun) 21:00 UTC+3 | Jun 5 (Sun) 20:00 UTC+2 |
 
 ## Mappools
 
@@ -170,6 +170,34 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
   2. [Tatsh - Lunatic Tears... (Tatsh Remix) (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/1460718#fruits/3001358)
 
 ## Match results
+
+### Round of 32
+
+Saturday, May 28, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ![][flag_CN] | **5** | 0 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/100983046) |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/100984192) |
+| **Singapore** ![][flag_SG] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/100988735) |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/100999540) |
+
+Sunday, May 29, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** ![][flag_BR] | **5** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/101006356) |
+| **Chile** ![][flag_CL] | **5** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/101007435) |
+| Belgium ![][flag_BE] | 2 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/101016819) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/101018119) |
+| **Italy** ![][flag_IT] | **5** | 1 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/101019335) |
+| **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/101019418) |
+| **Australia** ![][flag_AU] | **5** | 1 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/101019454) |
+| **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/101019336) |
+| **Russian Federation** ![][flag_RU] | **5** | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/101022550) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/101024434) |
+| **Germany** ![][flag_DE] | **5** | 4 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/101025686) |
+| **Mexico** ![][flag_MX] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/101026998) |
 
 ### Qualifiers
 
