@@ -829,7 +829,7 @@ The first version of the osu!api was made available on July 2, 2013.[^api-first-
 [^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
 ```
 
-### Background information
+### Notes
 
 Footnotes may be used for storing explanations or tangential remarks which cannot be inlined without worsening the article's readability, or are less significant than the article itself. Such footnotes may use free-form text.
 
