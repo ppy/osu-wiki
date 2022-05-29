@@ -348,9 +348,9 @@ Dieser Abschnitt ist über den Chat, Zuschauer, Mehrspieler und osu!direct.
 | :-- | :-- | :-- | :-- |
 | `Chat-Ticker` | Zeigt neue Chatnachrichten am unteren Bildschirmrand an. Die Nachricht ist von dem Kanal, den du gerade ausgewählt hast. | Checkbox | `Deaktiviert` |
 | `Chat automatisch ausblenden` | Wenn der Chat während Pausen oder in Spiel-Menüs offen ist, wird der Spiel-Client den Chat automatisch verbergen, sobald das Spiel weitergeht. | Checkbox | `Aktiviert` |
-| `Bei Highlight Hinweis-Popup anzeigen` | Wenn jemand deinen Nutzernamen im Chat erwähnt, wird eine Nachricht erscheinen. | Checkbox | `Aktiviert` |
+| `Bei Highlight Hinweis-Popup anzeigen` | Wenn jemand deinen [Nutzernamen im Chat erwähnt](/wiki/Client/Interface/Chat_console/Highlight), wird eine Nachricht erscheinen. | Checkbox | `Aktiviert` |
 | `Über neue Chatnachrichten informieren` | Zeigt eine Nachricht an, sobald neue Chatnachrichten ankommen. | Checkbox | `Aktiviert` |
-| `Bei Highlight Sound abspielen` | Wenn jemand deinen Nutzernamen im Chat erwähnt, wird ein Sound abgespielt. | Checkbox | `Aktiviert` |
+| `Bei Highlight Sound abspielen` | Wenn jemand deinen [Nutzernamen im Chat erwähnt](/wiki/Client/Interface/Chat_console/Highlight), wird ein Sound abgespielt. | Checkbox | `Aktiviert` |
 | `Deinen Standort mit anderen teilen` | Teile deine Stadt in deiner Benutzerkarte (bedenke, dass dein Land bereits dort angezeigt wird). | Checkbox | `Deaktiviert` |
 | `Zuschauer-Liste während des Spielens anzeigen` | Zeigt eine Liste an aktuellen Zuschauern auf der linken Seite des Bildschirms während des Spielens. | Checkbox | `Aktiviert` |
 | `Automatisch Beatmaps für Zuschauer verlinken` | Sende die aktuell aktive Beatmap in den Kanal `#spectator`, falls du Zuschauer hast. | Checkbox | `Aktiviert` |
@@ -377,7 +377,7 @@ Dieser Abschnitt ist über den Chat, Zuschauer, Mehrspieler und osu!direct.
 | `Private Nachrichten automatisch speichern` | Private Nachrichten werden im Ordner `osu!/Logs` gespeichert. | Checkbox | `Deaktiviert` |
 | `Private Nachrichten nur von Freunden` | Sofern aktiviert, werden nur private Nachrichten von Freunden akzeptiert. | Checkbox | `Deaktiviert` |
 | `Ignorierliste (leerzeichengetrennt)` | Wörter, die du hier platzierst, werden ignoriert. | Text | *(leer)* |
-| `Highlight-Wörter (leerzeichengetrennt)` | Wörter, die du hier platzierst, werden im Chat hervorgehoben. | Text | *(leer)* |
+| `Highlight-Wörter (leerzeichengetrennt)` | Wörter, die du hier platzierst, werden [im Chat hervorgehoben](/wiki/Client/Interface/Chat_console/Highlight). | Text | *(leer)* |
 
 ## Wartung
 
