@@ -263,4 +263,4 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-14: Removed [Karen](https://osu.ppy.sh/users/3143784) from **Probationary BN**
 - 2022-05-24: Removed [Petal](https://osu.ppy.sh/users/7354729) from **BN**
 
-<!-- updated as of May 27, 2022 with the addition of Syrion- to the probationary BN -->
+<!-- updated as of May 28, 2022 with the Drum-hitnormal's move from the Prob. BN to full BN -->
