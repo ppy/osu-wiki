@@ -19,7 +19,7 @@ While flow is mostly subjective, as movement preferences differ from one person 
 
 The cursor movement required to pass the map is stable most of the time and doesn't contain sharp, abrupt turns, or fast change of pace. Often, a player's cursor follows a smooth curve that spans for several patterns. The curve contains lots of circular or semicircular segments (so-called *oval* or *circular flow*) going in different directions, mixed with "neutral", non-demanding patterns. Such patterns don't contribute to the general direction, or only change it slightly to ease the transition to the next pattern.
 
-Linear movement may also be considered another form of flow, albeit less common, since it doesn't enforce any specific cursor trajectory type.
+Linear movement may also be considered another form of smooth flow, albeit less common, since it doesn't enforce any specific cursor trajectory type.
 
 ### Repetition
 
