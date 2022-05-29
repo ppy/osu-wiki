@@ -163,9 +163,11 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | Chinês |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
+| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonésio |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | Coreano |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Chinês |
+| ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
 | ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Chinês |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Coreano |
@@ -193,6 +195,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | Espanhol |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Francês |
+| ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | Coreano |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Alemão |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinês |
@@ -222,12 +225,11 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | Chinês |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chinês |
-| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonésio |
 | ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malaio |
-| ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonésio |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonésio |
+| ![][flag_ID] [Syrion-](https://osu.ppy.sh/users/15380643) | Indonésio |
 
 ## History
 

@@ -48,142 +48,141 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 | 닉네임 | 추가 언어 |
 | :-- | :-- |
-| ![][flag_PH] [Laplus-](https://osu.ppy.sh/users/7150015) | 필리핀 |
-| ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | 인도네시아 인 |
-| ![][flag_FI] [Aakki](https://osu.ppy.sh/users/11077540) | 핀란드어 |
+| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | 필리핀어 |
+| ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | 인도네시아어 |
+| ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | 이탈리아어 |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
-| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | 러시아인 |
+| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | 러시아어 |
 | ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
-| ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | 일본어 |
-| ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | 이탈리아 사람 |
+| ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | 한국어 |
+| ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | 이탈리아어 |
 | ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549) | |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | 한국어 |
-| ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | 중국인 |
-| ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | 네덜란드 사람 |
-| ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) | 스페인의 |
-| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | 중국인 |
-| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | 인도네시아 인 |
-| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 네덜란드 사람 |
+| ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | 중국어 |
+| ![][flag_KR] [Cellina](https://osu.ppy.sh/users/2490770) | 한국어 |
+| ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) | 포르투갈어 |
+| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | 중국어 |
+| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 스페인어 |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | 우크라이나 인 |
+| ![][flag_BE] [Enneya](https://osu.ppy.sh/users/10959501) | 네덜란드어 |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | 중국인 |
-| ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | 노르웨이 사람 |
-| ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) | 중국인 |
-| ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | 러시아인 |
-| ![][flag_DE] [FuJu](https://osu.ppy.sh/users/10773882) | 독일 사람 |
-| ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | 중국인 |
-| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | 인도네시아 인 |
+| ![][flag_FI] [finnish bn](https://osu.ppy.sh/users/11077540) | 핀란드어 |
+| ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | 노르웨이어 |
+| ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) | 중국어 |
+| ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | 러시아어 |
+| ![][flag_DE] [FuJu](https://osu.ppy.sh/users/10773882) | 독일어 |
+| ![][flag_FR] [Gweon Sua](https://osu.ppy.sh/users/13466351) | 프랑스어 |
+| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | 인도네시아어 |
 | ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
-| ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | 중국인, 약간의 프랑스 국민 |
-| ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | 중국인 |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  |
-| ![][flag_HK] [Kyle Y](https://osu.ppy.sh/users/3565813) | 중국인, 광둥어 |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | 독일 사람 |
+| ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | 중국어, 일부 프랑스어 |
+| ![][flag_SG] [Kotoha](https://osu.ppy.sh/users/7823498) |  |
+| ![][flag_HK] [Kyle Y](https://osu.ppy.sh/users/3565813) | 중국어, 광둥어 |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | 독일어 |
+| ![][flag_KR] [Len](https://osu.ppy.sh/users/1686145) | 한국어 |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
-| ![][flag_US] [Logic Agent](https://osu.ppy.sh/users/6341262) |  |
-| ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | 중국인 |
-| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | 독일 사람 |
-| ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | 러시아인 |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 한국어 |
+| ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | 중국어 |
+| ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | 러시아어 |
 | ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
-| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | 독일 사람 |
-| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
-| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 러시아인 |
-| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 중국인 |
+| ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
+| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | 독일어 |
+| ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | 덴마크어 |
+| ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 러시아어 |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
-| ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  |
-| ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | 프랑스 국민 |
-| ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | 이탈리아 사람 |
-| ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 중국인, 광둥어 |
-| ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691) | 중국인, 약간의 일본어 |
-| ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | 프랑스 국민 |
-| ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | 한국어 |
-| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | 러시아인 |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
+| ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | 프랑스어 |
+| ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | 이탈리아어 |
+| ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | 프랑스어 |
+| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | 러시아어 |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
-| ![][flag_HK] [Saggin](https://osu.ppy.sh/users/12464107) | 중국인, 광둥어, 약간의 일본어 |
-| ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | 프랑스 국민 |
+| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 중국어 |
+| ![][flag_HK] [Saggin](https://osu.ppy.sh/users/12464107) | 중국어, 광둥어, 일부 일본어 |
+| ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | 프랑스어 |
+| ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | 러시아어 |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
-| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | 러시아인 |
-| ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | 한국어 |
-| ![][flag_FR] [Sotarks](https://osu.ppy.sh/users/4452992) | 프랑스 국민 |
-| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
-| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | 독일 사람, 세르비아 사람 |
-| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | 독일 사람 |
+| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | 러시아어 |
+| ![][flag_FR] [Sotarks](https://osu.ppy.sh/users/4452992) | 프랑스어 |
+| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | 독일어 |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | 핀란드어 |
-| ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | 태국어 |
+| ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | 타이어 |
+| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | 리투아니아어 |
+| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
 | ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836) | |
-| ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | 프랑스 국민 |
+| ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | 프랑스어 |
 | ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 | ![][flag_US] [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
-| ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | 중국인, 일본어 |
+| ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | 중국어, 일본어 |
 
 #### osu!taiko
 
 | 닉네임 | 추가 언어 |
 | :-- | :-- |
-| ![][flag_GB] [-Dusk](https://osu.ppy.sh/users/6092181) | 베트남어, 약간의 우르두어 |
-| ![][flag_HK] [BlackBN](https://osu.ppy.sh/users/6291741) | 중국인, 광둥어 |
+| ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | 스페인어 |
+| ![][flag_HK] [BlackBN](https://osu.ppy.sh/users/6291741) | 중국어, 광둥어 |
 | ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
-| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 중국인, 광둥어 |
-| ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | 네덜란드 사람 |
-| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | 포르투갈 인 |
-| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 네덜란드 사람 |
-| ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | 독일 사람 |
+| ![][flag_JP] [Chromoxx](https://osu.ppy.sh/users/1881639) | 일본어 |
+| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 중국어, 광둥어 |
+| ![][flag_BR] [D0UG](https://osu.ppy.sh/users/13806900) | 포르투갈어 |
+| ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | 스페인어 |
+| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | 베트남어 |
+| ![][flag_GB] [Dusk-](https://osu.ppy.sh/users/6092181) | 우르두어, 일부 아랍어 |
+| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 스페인어 |
+| ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | 독일어 |
 | ![][flag_IE] [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
-| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | 우르두어, 프랑스 국민, 약간의 이탈리아 사람 |
-| ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
-| ![][flag_BR] [Idealism](https://osu.ppy.sh/users/3869519) | 스페인의 |
-| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | 인도네시아 인 |
-| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | 핀란드어, 일본어 |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 일본어, 광둥어, 중국인 |
-| ![][flag_RU] [Lexa14](https://osu.ppy.sh/users/15397129) | 러시아인 |
-| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 중국인 |
-| ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |  |
-| ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | 인도네시아 인 |
-| ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | 필리핀 |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | 독일 사람, 약간의 프랑스 국민 |
+| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 |
+| ![][flag_BR] [Ideal](https://osu.ppy.sh/users/3869519) | 포르투갈어 |
+| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 일본어, 광둥어, 중국어 |
 | ![][flag_US] [meiqth](https://osu.ppy.sh/users/12565402) |  |
+| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 중국어 |
+| ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |  |
+| ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | 러시아어 |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | 독일어, 일부 프랑스어 |
 
 #### osu!catch
 
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
-| ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | 태국어 |
+| ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | 타이어 |
+| ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | 한국어 |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | 광둥어 |
-| ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530) | 광택 |
-| ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | 그리스 어 |
-| ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | 한국어 |
-| ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | 한국어 |
-| ![][flag_DE] [Sanyi](https://osu.ppy.sh/users/7496029) | 독일 사람 |
-| ![][flag_CN] [Souvenir](https://osu.ppy.sh/users/14057792) | 중국인 |
+| ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
+| ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | 네덜란드어 |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | 네덜란드어 |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
+| ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | 그리스어 |
+| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_CA] [Ymiir](https://osu.ppy.sh/users/3922569) |  |
-| ![][flag_BR] [zerokt](https://osu.ppy.sh/users/13776127) | 스페인의 |
+| ![][flag_BR] [zerokt](https://osu.ppy.sh/users/13776127) | 포르투갈어 |
 
 #### osu!mania
 
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
-| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | 중국인 |
-| ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
 | ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
+| ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | 중국어 |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
+| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | 인도네시아어 |
+| ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | 한국어 |
+| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | 중국어 |
+| ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | 한국어 |
+| ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | 중국어 |
+| ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | 한국어 |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
-| ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | 포르투갈 인 |
-| ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | 필리핀 |
-| ![][flag_ID] [Lita-](https://osu.ppy.sh/users/15205070) | 인도네시아 인 |
-| ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | 인도네시아 인 |
-| ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) | 인도네시아 인 |
+| ![][flag_CN] [gzdongsheng](https://osu.ppy.sh/users/8660315) | 중국어 |
+| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | 한국어 |
+| ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | 필리핀어 |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | 한국어 |
-| ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | 인도네시아 인 |
-| ![][flag_ES] [PuigdemontLoL](https://osu.ppy.sh/users/7080063) | 네덜란드 사람 |
-| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | 인도네시아 인 |
-| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | 중국인 |
+| ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | 네덜란드어 |
+| ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | 스페인어 |
+| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | 인도네시아어 |
+| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | 한국어 |
+| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | 중국어 |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | 한국어 |
-| ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772) | 인도네시아 인 |
+| ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772) | 인도네시아어 |
 
 ### Probationary BN
 
@@ -191,17 +190,28 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
-| ![][flag_KR] [Cellina](https://osu.ppy.sh/users/2490770) | 한국어 |
-| ![][flag_KR] [Len](https://osu.ppy.sh/users/1686145) | 한국어 |
-| ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
-| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 중국인 |
-| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | 리투아니아 사람 |
+| ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
+| ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | 스페인어 |
+| ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | 스페인어 |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
+| ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | 프랑스어 |
+| ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | 한국어 |
+| ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
+| ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | 독일어 |
+| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 중국어 |
+| ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691) | 중국어 |
 
 #### osu!taiko
 
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
-| ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | 러시아인 |
+| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | 핀란드어, 일부 스웨덴어 |
+| ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | 일본어 |
+| ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | 한국어 |
+| ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
+| ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | 핀란드어 |
+| ![][flag_ID] [Surono](https://osu.ppy.sh/users/3611370) | 인도네시아어 |
+| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | 포르투갈어 |
 
 #### osu!catch
 
@@ -212,10 +222,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
-| ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | 중국인 |
-| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | 중국인 |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | 인도네시아 인 |
-| ![][flag_KR] [Paran](https://osu.ppy.sh/users/13340203) | 한국어 |
+| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | 스페인어 |
 
 ## 역사
 
@@ -223,39 +230,42 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 - 2014년 8월 22일부로  BAT는 스태프 팀에서 제외되었고, 이로 인해 인게임 채팅 관리 권한 및 인게임과 포럼에서 빨간 닉네임이 사라지게 되었습니다. 
 - 2015년 2월 1일부로 *BAT*에서 *비트맵 노미네이션 그룹(Beatmap Nomination Group)*으로 변경되었고, 이후 우리가 현재 알고 있는 비트맵 노미네이터로 변경되었습니다.
 
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_BY]: /wiki/shared/flag/BY.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared.flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_KZ]: /wiki/shared/flag/KZ.gif
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif 
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+
+[flag_AR]: /wiki/shared/flag/AR.gif "아르헨티나"
+[flag_AT]: /wiki/shared/flag/AT.gif "오스트리아"
+[flag_AU]: /wiki/shared/flag/AU.gif "오스트레일리아"
+[flag_BE]: /wiki/shared/flag/BE.gif "벨기에"
+[flag_BR]: /wiki/shared/flag/BR.gif "브라질"
+[flag_BY]: /wiki/shared/flag/BY.gif "벨라루스"
+[flag_CA]: /wiki/shared/flag/CA.gif "캐나다"
+[flag_CL]: /wiki/shared/flag/CL.gif "칠레"
+[flag_CN]: /wiki/shared/flag/CN.gif "중국"
+[flag_DE]: /wiki/shared/flag/DE.gif "독일"
+[flag_DK]: /wiki/shared/flag/DK.gif "덴마크"
+[flag_ES]: /wiki/shared/flag/ES.gif "스페인"
+[flag_FI]: /wiki/shared/flag/FI.gif "핀란드"
+[flag_FR]: /wiki/shared/flag/FR.gif "프랑스"
+[flag_GB]: /wiki/shared/flag/GB.gif "영국"
+[flag_GR]: /wiki/shared/flag/GR.gif "그리스"
+[flag_HK]: /wiki/shared/flag/HK.gif "홍콩"
+[flag_ID]: /wiki/shared/flag/ID.gif "인도네시아"
+[flag_IE]: /wiki/shared/flag/IE.gif "아일랜드"
+[flag_IT]: /wiki/shared/flag/IT.gif "이탈리아"
+[flag_JP]: /wiki/shared/flag/JP.gif "일본"
+[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
+[flag_KZ]: /wiki/shared/flag/KZ.gif "카자흐스탄"
+[flag_LT]: /wiki/shared/flag/LT.gif "리투아니아"
+[flag_MX]: /wiki/shared/flag/MX.gif "멕시코"
+[flag_MY]: /wiki/shared/flag/MY.gif "말레이시아"
+[flag_NL]: /wiki/shared/flag/NL.gif "네덜란드"
+[flag_NO]: /wiki/shared/flag/NO.gif "노르웨이"
+[flag_PH]: /wiki/shared/flag/PH.gif "필리핀"
+[flag_RU]: /wiki/shared/flag/RU.gif "러시아"
+[flag_SG]: /wiki/shared/flag/SG.gif "싱가포르"
+[flag_TH]: /wiki/shared/flag/TH.gif "태국"
+[flag_TN]: /wiki/shared/flag/TN.gif "튀니지"
+[flag_TW]: /wiki/shared/flag/TW.gif "대만"
+[flag_UA]: /wiki/shared/flag/UA.gif "우크라이나"
+[flag_US]: /wiki/shared/flag/US.gif "미국"
+[flag_VN]: /wiki/shared/flag/VN.gif "베트남"

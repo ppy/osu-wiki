@@ -108,7 +108,7 @@ tags:
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | กวางตุ้ง, จีน | ผู้ดูแลแชท |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | ผู้ดูแลชุมชนการแมป/การ mod |
-| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | อาหรับ, มาเลย์ | ผู้ดูแลแชท |
+| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | มาเลย์ | ผู้ดูแลแชท |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | สเปน | ผู้ดูแลแชท |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | เยอรมัน | ผู้ดูแลฟอรั่ม |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | เกาหลี | ผู้ดูแลแชท |
@@ -134,7 +134,7 @@ tags:
 
 | รายชื่อภาษา | ตัวอักษร | รายชื่อบุคคล |
 | :-- | :-- | :-- |
-| `#arabic` |  | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) |
+| `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) |

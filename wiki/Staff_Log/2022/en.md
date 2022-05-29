@@ -238,6 +238,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-23: Added [AirinCat](https://osu.ppy.sh/users/11119539) to **BN**
 - 2022-05-25: Added [Rivals_7](https://osu.ppy.sh/users/4610379) to **Probationary BN**
 - 2022-05-27: Added [Syrion-](https://osu.ppy.sh/users/15380643) to **Probationary BN**
+- 2022-05-28: Added [KeyWee](https://osu.ppy.sh/users/10476879) to **Probationary BN**
 
 #### Moves
 
@@ -253,6 +254,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-23: Moved [-Syncro](https://osu.ppy.sh/users/4338923) from **Probationary BN** to **BN**
 - 2022-05-24: Moved [Mokobe](https://osu.ppy.sh/users/10374819) from **Probationary BN** to **BN**
 - 2022-05-26: Moved [Amiichii](https://osu.ppy.sh/users/9228569) from **Probationary BN** to **BN**
+- 2022-05-28: Moved [Drum-Hitnormal](https://osu.ppy.sh/users/748722) from **Probationary BN** to **BN**
 
 #### Removals
 
