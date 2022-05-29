@@ -48,7 +48,7 @@ Si un autre utilisateur vous harcèle par le biais de messages privés, que ce s
 
 Vous ne verrez plus les messages de tchat publics des utilisateurs de cette liste et ne recevrez plus de messages privés de leur part.
 
-Si vous souhaitez ignorer les [highlights](/wiki/Client/Interface/Chat_console/Highlight) les messages privés, ou les messages publics, vous pouvez simplement ajouter respectivement `@h`, `@p`, `@c` à leur nom d'utilisateur. `The_Gatekeeper@c` ignorera les messages de l'utilisateur dans les canaux publics. Il est possible de les combiner : `The_Gatekeeper@ph` ignorera les highlights et les messages privés, mais laissera les messages publics visibles.
+Si vous souhaitez ignorer les highlights les messages privés, ou les messages publics, vous pouvez simplement ajouter respectivement `@h`, `@p`, `@c` à leur nom d'utilisateur. `The_Gatekeeper@c` ignorera les messages de l'utilisateur dans les canaux publics. Il est possible de les combiner : `The_Gatekeeper@ph` ignorera les highlights et les messages privés, mais laissera les messages publics visibles.
 
 #### Bloquer l'envoi de messages privés dans le jeu à tous les non-amis
 

@@ -51,7 +51,7 @@ Apabila kamu merasa tersinggung atau terlecehkan dengan pesan-pesan yang dikirim
 
 Ke depannya, kamu tidak akan lagi melihat pesan-pesan dari para pengguna tersebut baik yang dikirim pada kanal-kanal obrolan publik ataupun pada pesan pribadi (*private message*).
 
-Apabila kamu hanya ingin memblokir jenis-jenis pesan tertentu saja (semisal *[highlight](/wiki/Client/Interface/Chat_console/Highlight)*, *private message*, atau *public message*), kamu dapat menambahkan @h, @p, atau @c pada nama-nama tertentu dalam daftar pengabaian milikmu. Sebagai contoh, `The_Gatekeeper@c` akan memblokir pesan-pesan pada kanal-kanal obrolan publik dan `The_Gatekeeper@ph` akan memblokir *highlight* dan *private message* yang masuk dari pengguna yang bersangkutan.
+Apabila kamu hanya ingin memblokir jenis-jenis pesan tertentu saja (semisal *highlight*, *private message*, atau *public message*), kamu dapat menambahkan @h, @p, atau @c pada nama-nama tertentu dalam daftar pengabaian milikmu. Sebagai contoh, `The_Gatekeeper@c` akan memblokir pesan-pesan pada kanal-kanal obrolan publik dan `The_Gatekeeper@ph` akan memblokir *highlight* dan *private message* yang masuk dari pengguna yang bersangkutan.
 
 #### Memblokir pesan-pesan pribadi (private message) dari pengguna-pengguna yang tidak ditambahkan sebagai teman pada in-game chat
 
