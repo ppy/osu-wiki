@@ -204,7 +204,7 @@ Pour les concours de beatmaps, oui, il suffit de suivre les mêmes règles que c
 
 Pour les autres concours, envoyez-nous un e-mail et demandez personnellement. Nous essaierons de trouver une solution.
 
-## Références
+## Notes
 
 [^experience]: Un membre du staff "expérimenté" est vaguement défini comme quelqu'un qui a contribué de manière significative au bon déroulement d'au moins **trois** tournois ayant reçu des badges au préalable, ou qui a fait partie d'une équipe de bénévoles officielle de la World Cup pour n'importe quel mode de jeu. Cette définition peut varier à la discrétion de l'équipe de support aux comptes.
 [^play-commence]: Le tournoi "commence" une fois que le seeding ou les brackets ont été déterminés. Par conséquent, les phases de qualifications peuvent être exemptées de cette règle.

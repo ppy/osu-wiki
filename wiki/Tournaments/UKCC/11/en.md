@@ -630,7 +630,7 @@ Top 10 qualification results:
 - For FreeMod picks, one player from each team must select any combination of **Hidden or Hard Rock**.
 - Tiebreakers are FreeMod, however NoMod can be used.
 
-## References
+## Notes
 
 [^lb-note-1]: The match was concluded due to pedeko having to leave.
 [^lb-note-2]: The match was concluded due to Claus sustaining a hand injury and no longer being able to compete.

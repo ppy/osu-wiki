@@ -572,7 +572,7 @@ Time Zone: (...)
    - **Do not ask for a reschedule unless it is absolutely necessary. The Tournament Management has the right to decline the request.**
 5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
-## References
+## Notes
 
 [^fartownik-note]: ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), who prior to his mappool selecting duties was also participating as a player for ![][flag_PL] Poland in the tournament, was admitted to the mappool selectors from the Semifinals onwards after Poland's elimination from the tournament.
 [^group-stage-note]: A player that was brought in either as an extra player, a substitute player, or an emergency reserve player during the running of the Group Stage.

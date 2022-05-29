@@ -55,6 +55,6 @@ If you are unsure about an image that is going to be included in a beatmap in an
 
 At all times, [the osu! team](/wiki/People/The_Team) reserves the right to unilaterally declare any piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
 
-## References
+## Notes
 
 [^drug-nature]: This may be subject to exceptions depending on the nature of the drug, its usage, and its subculture, particularly in cases of drugs experiencing rapid worldwide decriminalization and regulation like marijuana. Requesting specific exceptions to this rule should be undertaken by contacting the [support team](/wiki/People/The_Team/Account_support_team) at [support@ppy.sh](mailto:support@ppy.sh).

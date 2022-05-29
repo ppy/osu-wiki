@@ -704,7 +704,7 @@ Top 10 qualification results:
 - Failed scores will count.
 - Tiebreakers are FreeMod, however NoMod can be used.
 
-## References
+## Notes
 
 [^lb-note-1]: Match was postponed due to tech issues, Voss was unable to complete the match after postponing.
 [^lb-note-2]: Kathalshame left before the last map.

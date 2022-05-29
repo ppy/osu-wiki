@@ -204,7 +204,7 @@ For beatmap contests, yes, just follow the same rules as above. We highly recomm
 
 For other contests, email us and ask personally. We'll try to work something out.
 
-## References
+## Notes
 
 [^experience]: An "experienced" staff member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
 [^play-commence]: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.

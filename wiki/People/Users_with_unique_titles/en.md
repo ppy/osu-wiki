@@ -322,7 +322,7 @@ These users were awarded their respective titles for miscellanous reasons.
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 
-## References
+## Notes
 
 [^mao-note]: ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) was awarded with the **Elite Mapper II** title instead for having successfully earned the Elite Mapper title through two different means: Winning the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest and surpassing the 6-points threshold in the new [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) system.
 [^charles445-note]: ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) was awarded with the **Elite Mapper II : Aspirant** title instead for having won both the [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) and the [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).

@@ -1918,7 +1918,7 @@ Sunday, 21 February 2021:
 22. If the beatmap ends in a draw the game will be nullified and the map will be replayed. If it does end in a tie again, the map will be nullified again, and the player/team who picked it will have to pick another map.
 23. In case of a tie in points (example: 4-4 in BO9) the Tiebreaker is selected.
 
-## References
+## Notes
 
 [^jp-showcase]: The match was a part of the Japan vs Rest of the World special match showcase.
 

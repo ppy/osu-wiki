@@ -457,7 +457,7 @@ Sunday, April 10, 2022:
    - **Do not ask for reschedule unless it is absolutely needed. The host reserves the right to decline any reschedule requests.**
 6. Captains are responsible for their teams' availability. The current team size exists to ensure every team can provide at least three players for each match. If teams cannot provide three players for a match, the match will be considered forfeited.
 
-## References
+## Notes
 
 [^rs-summary-seed]: Seed: the top 8 advance to the next round.
 [^rs-summary-bd]: Beatmap difference.

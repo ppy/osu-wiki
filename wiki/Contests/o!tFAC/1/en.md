@@ -80,7 +80,7 @@ This competition has come to an end and resulted in the following podium:
 - **Relevance (10 Points):** Points will be assigned based on how well the map represents the song and how well it plays.
 - **Creativity (10 Points):** Points will be assigned based on how the submission uses creative and fitting elements to make itself stand out.
 
-## References
+## Notes
 
 [^prizes-ranked]: ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) and ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) will mod and push the winning entry to Ranked if the winner chooses to, and **if they get the necessary difficulties to form a rankable spread if needed**.
 

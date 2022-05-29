@@ -379,7 +379,7 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 | Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ![][flag_EE] [Keqing](https://osu.ppy.sh/users/8501291) | ![][flag_US] [Cubby](https://osu.ppy.sh/users/10914582) | ![][flag_TW] [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 | Instrumental[^newspaper-cup-7-instrumental] | ![osu!][osu!] | ![][flag_CA] [Kyumo](https://osu.ppy.sh/users/14689984) | ![][flag_US] [- ascended -](https://osu.ppy.sh/users/4564285) | ![][flag_CL] [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 
-## References
+## Notes
 
 [^pending-cup-8-fa]: The Featured Artist category provides mappers with a choice of two different songs to be mapped: Zekk - Re\_construct and Shuu no Hazama \[Rainshower\].
 [^pending-cup-8-vocal]: The Vocal category provides mappers with a choice of two different songs to be mapped: nonoc - memento and DUSTCELL - DERO.

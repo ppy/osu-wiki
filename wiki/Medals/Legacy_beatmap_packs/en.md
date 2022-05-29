@@ -400,7 +400,7 @@ Beatmaps:
 
 - The beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), which was included in the Internet Pack (Volume 1), was notorious for being pushed to the [Approved](/wiki/Beatmap/Category#approved) section despite only consisting of one single spinner. Although the beatmap was [removed from the Approved beatmaps listing shortly after](https://osu.ppy.sh/community/forums/posts/149328), the remains of it stayed up on the Internet Pack (Volume 1) nevertheless.
 
-## References
+## Notes
 
 [^polkka-unranked]: [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) is an unranked beatmap. Playing this beatmap is not necessary in order to complete the pack.
 

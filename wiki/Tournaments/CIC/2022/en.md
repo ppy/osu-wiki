@@ -431,7 +431,7 @@ Monday, 7 March 2022:
 4. In case of a tiebreaker, **the tiebreaker beatmap will be played using Hidden or NoMod based on the player's choice**.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
-## References
+## Notes
 
 [^tb-winner]: Winner of the tiebreaker map.
 [^tb-loser]: Loser of the tiebreaker map.

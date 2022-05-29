@@ -686,7 +686,7 @@ Monday, 3 July 2017:
   - As a rule of thumb, if a player has a full combo at the time of disconnection and the opponent misses or has missed, the map will likely be rematched.
 - Any other unexpected happenings are handled at the referee and hosts discretion.
 
-## References
+## Notes
 
 [^lb-note-1]: Wario advances to Losers Bracket Round 4, Summer Solstice and Woffel eliminated.
 [^ro128-note-1]: djsettle advances to group stage, Azerith and Valentine eliminated.

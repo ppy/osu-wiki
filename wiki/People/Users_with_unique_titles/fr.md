@@ -316,7 +316,7 @@ Ces utilisateurs ont reçu leurs titres respectifs pour des raisons diverses.
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 
-## Références
+## Notes
 
 [^mao-note]: ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) a reçu le titre de **Elite Mapper II** pour avoir réussi à obtenir le titre d'Elite Mapper par deux moyens différents : La victoire au concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) et le dépassement du seuil de 6 points dans le nouveau système [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
 [^charles445-note]: ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) a reçu le titre **Elite Mapper II : Aspirant** pour avoir remporté le [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) et le [Monthly Beatmapping Contest : Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).

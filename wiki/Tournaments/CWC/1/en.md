@@ -472,7 +472,7 @@ Time Zone: (...)
    - **Do not ask for a reschedule unless it is absolutely necessary. The Tournament Management has the right to decline the request.**
 5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least three players for each match. If a team is unable to provide three players for a match, the match will be considered forfeited.
 
-## References
+## Notes
 
 [^cl-cn-skip]: As per the Tournament Management's decision ([\[1\]](https://osu.ppy.sh/community/forums/posts/1184327) [\[2\]](https://osu.ppy.sh/community/forums/posts/1206142) [\[3\]](https://osu.ppy.sh/community/forums/posts/1187916)), the Chile vs. China match was not played.
 

@@ -931,7 +931,7 @@ Sunday, 6 December 2021:
    - If both players ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
-## References
+## Notes
 
 [^flag-note-1]: Despite having the ![][flag_US] American flag on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Philippine passport](https://en.wikipedia.org/wiki/Philippine_passport).
 [^flag-note-2]: Despite having the ![][flag_JP] Japanese flag on their profile, [ZHKPN](https://osu.ppy.sh/users/13042221) is eligible to participate in the tournament as they are a citizen of ![][flag_PH] The Philippines living abroad.

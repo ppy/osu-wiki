@@ -421,7 +421,7 @@ Monday, 5 July 2021:
 4. In case of a tiebreaker, **the tiebreaker beatmap will be played without any mods enabled** (NoMod).
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
-## References
+## Notes
 
 [^tb-winner]: Winner of the Tiebreaker map.
 [^tb-loser]: Loser of the Tiebreaker map.

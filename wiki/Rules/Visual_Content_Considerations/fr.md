@@ -55,6 +55,6 @@ Si vous avez des doutes sur une image qui doit être incluse dans une beatmap, *
 
 En tout temps, [l'équipe d'osu!](/wiki/People/The_Team) se réserve le droit de déclarer unilatéralement tout élément de contenu valide ou invalide à sa discrétion, sans tenir compte des votes antérieurs sur la question.
 
-## Références
+## Notes
 
 [^drug-nature]: Cette règle peut faire l'objet d'exceptions en fonction de la nature de la drogue, de son usage et de sa sous-culture, notamment dans le cas de drogues faisant l'objet d'une décriminalisation et d'une réglementation rapides dans le monde entier, comme la marijuana. Les demandes d'exceptions spécifiques à cette règle doivent être faites en contactant l'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team) à l'adresse [support@ppy.sh](mailto:support@ppy.sh).
