@@ -1848,3 +1848,6 @@
 
 "highlight":                        "Client/Interface/Chat_console/Highlight"
 "mention":                          "Client/Interface/Chat_console/Highlight"
+
+"flow":                             "Beatmapping/Flow"
+"antiflow":                         "Beatmapping/Antiflow"
