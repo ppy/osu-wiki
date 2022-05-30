@@ -19,10 +19,10 @@ Submissions to this contest include:
 | Event | Timestamp |
 | --: | :-- |
 | Announcement | 2022-05-30 |
-| Submission phase | 2022-05-30/2022-07-22 |
-| Judging phase | 2022-07-23/2022-08-04 |
-| Community vote and lazer playlists | 2022-08-04/2022-08-19 |
-| Results announcement livestream | 2022-08-24 |
+| Submission phase | 2022-05-30/2022-07-25 |
+| Judging phase | 2022-07-26/2022-08-08 |
+| Community vote and lazer playlists | 2022-08-09/2022-08-23 |
+| Results announcement livestream | 2022-08-27 |
 
 ## Links
 

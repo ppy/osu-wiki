@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "triangles Beatmapping Contest"
-date: 2022-05-30 23:00:00 +0000
+date: 2022-05-30 16:00:00 +0000
 ---
 
 Mappers and storyboarders unite in osu!'s newest contest: **triangles**!
@@ -30,16 +30,16 @@ To participate in this contest, you need a **team of 2-5 mappers/storyboarders**
   - with a `.osb` file no greater than **1 MB**. This is to ensure the storyboard is well optimised and doesn't take too long to parse and load into the game.
 - A full submission no greater than **10 MB**.
 
-**Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).** Once confirmed, your team will be published on the [*triangles* contest wiki page](/wiki/Contests/triangles_Contest)!
+**Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link).** Once confirmed, your team will be published on the [*triangles* contest wiki page](/wiki/Contests/triangles_Beatmapping_Contest)!
 
 Unlike last year's [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) contest, entries this time around will remain **anonymous** during the judging phase. This means you should **NOT** upload your submission to BSS or share details about it until *after* judging is completed.
 
 ## Schedule
 
-- **May 30 - July 22:** Contest is open for submissions [here](https://osu.ppy.sh/community/contests/147)!
-- **July 23 - August 04:** Submissions are evaluated by a team of judges.
-- **August 05 - August 19:** Top beatmaps are published for community vote and lazer playlists.
-- **August 24:** Livestream announcement of contest results!
+- **May 30 - July 25:** Contest is open for submissions [here](https://osu.ppy.sh/community/contests/147)!
+- **July 26 - August 08:** Submissions are evaluated by a team of judges.
+- **August 09 - August 23:** Top beatmaps are published for community vote and lazer playlists.
+- **August 27:** Livestream announcement of contest results!
 
 ## Prizes
 
@@ -123,7 +123,7 @@ Surprising absolutely nobody, this contest has RULES:
 
 ---
 
-Head to the [**triangles** contest listing](https://osu.ppy.sh/community/contests/147) when your team's submission is ready! And to keep track of the competition (among other actually useful things), look through the [**triangles** wiki article](/wiki/Contests/triangles_Contest)!
+Head to the [**triangles** contest listing](https://osu.ppy.sh/community/contests/147) when your team's submission is ready! And to keep track of the competition (among other actually useful things), look through the [**triangles** wiki article](/wiki/Contests/triangles_Beatmapping_Contest)!
 
 Start drawing some triangles. Good luck.
 
