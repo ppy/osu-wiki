@@ -152,7 +152,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
   1. [Mili - Summoning 101 (JierYagtama) \[Jier & Mniam's Ritual\]](https://osu.ppy.sh/beatmapsets/1774772#fruits/3634242)
   2. [Dirty Androids - Egret and Willow (X Light) \[nika's Dove and Olive Extra\]](https://osu.ppy.sh/beatmapsets/1159124#fruits/2448956)
 - Tiebreaker
-  1. [USAO - Extra Mode (Deif) \[Greaper & Deif's Another Episode\]](https://osu.ppy.sh/beatmapsets/1774332#fruits/3632973)
+  1. **[USAO - Extra Mode (Deif) \[Greaper & Deif's Another Episode\]](https://osu.ppy.sh/beatmapsets/1774332#fruits/3632973)**
 
 ### Round of 32
 
