@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: b3aea796883d81f817472253da2f002b7a4c6996
+---
+
 # Formatos
 
 *Para estándares de escritura, véase: [Criterios para el estilo del artículo/Escribiendo](../Writing)*\

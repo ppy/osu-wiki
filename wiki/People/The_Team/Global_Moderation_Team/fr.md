@@ -112,7 +112,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Cantonais, Chinois | Modération du tchat |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Coréen, Japonais | Modération du tchat |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Modération de la communauté modding/mapping |
-| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Arabe, Malais | Modération du tchat |
+| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Malais | Modération du tchat |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Espagnol | Modération du tchat |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Allemand | Modération du forum |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Coréen | Modération du tchat |
@@ -138,7 +138,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 
 | Channel | Sous-forum | Modérateurs |
 | :-- | :-- | :-- |
-| `#arabic` |  | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) |
+| `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) |

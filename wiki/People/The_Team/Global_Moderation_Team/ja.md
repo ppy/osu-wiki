@@ -107,7 +107,7 @@ tags:
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 広東語、中国語 | チャットモデレーション |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | 韓国語、日本語 | チャットモデレーション |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Mapping/modding コミュニティ モデレーション |
-| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | アラビア語、マレー語 | チャットモデレーション |
+| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | マレー語 | チャットモデレーション |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | スペイン語 | チャットモデレーション |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | ドイツ語 | フォーラムモデレーション |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | 韓国語 | チャットモデレーション |
@@ -133,7 +133,7 @@ tags:
 
 | チャンネル | サブフォーラム | モデレーター |
 | :-- | :-- | :-- |
-| `#arabic` |  | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) |
+| `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) |

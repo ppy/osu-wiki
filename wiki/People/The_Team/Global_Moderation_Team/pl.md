@@ -102,7 +102,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Kantoński, chiński | Moderowanie czatu |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Koreański, japoński | Moderowanie czatu |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Moderowanie społeczności twórców i moderów beatmap |
-| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Arabski, malajski | Moderowanie czatu |
+| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Malajski | Moderowanie czatu |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Hiszpański | Moderowanie czatu |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Niemiecki | Moderowanie forum |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Koreański | Moderowanie czatu |
@@ -128,7 +128,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 
 | Kanał | Forum | Moderatorzy |
 | :-- | :-- | :-- |
-| `#arabic` |  | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) |
+| `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) |

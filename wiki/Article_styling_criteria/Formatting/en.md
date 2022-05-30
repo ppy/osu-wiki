@@ -505,6 +505,8 @@ Preformatted text (also known as code blocks) must be fenced using three grave m
 
 ## Links
 
+*See also: [Footnotes](#footnotes)*
+
 There are two types of links: inline and reference. Inline has two styles.
 
 The following is an example of both inline styles:
@@ -790,6 +792,55 @@ The following is an example of what a table should look like:
 | Ryūta | 3 - 4 | **Yuzu** | 5.1 stars |
 | **Taikonator** | 7 - 0 | Tama | 13.37 stars |
 | Maria | No Contest | Mocha |  |
+```
+
+## Footnotes
+
+Footnotes are short notes located at the end of the page. They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article. Footnotes may contain text formatting and links.
+
+In the osu! wiki, footnotes are implemented using special syntax (`[^identifier]`). Footnotes can use any identifier, but they will automatically be rendered as superscripts with increasing numbers in order of their first appearance. The footnotes themselves must be placed in a separate second-level heading at the end of the article. Depending on the content, the heading used may be `References`, `Notes`, or `Notes and references`.
+
+Footnote references are placed directly after the words, phrases, or sentences they explain, with no space in between. These references must be placed after punctuation, except for parentheses, when they pertain to the contents inside, and dashes.<!-- Taken from https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_and_footnotes -->
+
+Correct usage examples:
+
+```markdown
+The osu! wiki is a project that was meant to replace the old FAQ system.[^wiki-faq] It was named after the rhythm game osu![^osu] and the largest open online encyclopedia, Wikipedia. From the very start, it had attracted skillful translators[^wiki-tl] and editors.
+
+## References
+
+[^wiki-faq]: https://osu.ppy.sh/community/forums/topics/68525
+[^wiki-tl]: https://osu.ppy.sh/community/forums/posts/1177500
+[^osu]: https://osu.ppy.sh/community/forums/posts/1178153
+```
+
+### Citations
+
+Citations, or references, are used to identify a source of information. Citations via footnotes should be preferred over inline links.
+
+Example:
+
+```markdown
+The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from users.[^api-praise]
+
+## References
+
+[^api-first-usage]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
+```
+
+### Notes
+
+Footnotes may be used for storing explanations or tangential remarks which cannot be inlined without worsening the article's readability, or are less significant than the article itself. Such footnotes may use free-form text.
+
+Example:
+
+```markdown
+A tournament must not be organised and run by an inexperienced team of unaccomplished and irreputable staff.[^staff]
+
+## Notes
+
+[^staff]: An *inexperienced* staff member is loosely defined as someone who has been playing osu! for less than an hour in total.
 ```
 
 ## Blockquotes

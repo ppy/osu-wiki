@@ -1193,9 +1193,7 @@ Saturday, 17 April 2021:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Asia** | **7** | 1 | Europe | [#1](https://osu.ppy.sh/community/matches/81084347) |
-| **Japan** | **7** | 0 | Rest of the World | [#1](https://osu.ppy.sh/community/matches/81090281)¹ |
-
-¹ It was part of the Japan vs Rest of the World special match showcase
+| **Japan** | **7** | 0 | Rest of the World | [#1](https://osu.ppy.sh/community/matches/81090281)[^jp-showcase] |
 
 #### Finals
 
@@ -1919,6 +1917,10 @@ Sunday, 21 February 2021:
 21. Failed players' scores do count.
 22. If the beatmap ends in a draw the game will be nullified and the map will be replayed. If it does end in a tie again, the map will be nullified again, and the player/team who picked it will have to pick another map.
 23. In case of a tie in points (example: 4-4 in BO9) the Tiebreaker is selected.
+
+## Notes
+
+[^jp-showcase]: The match was a part of the Japan vs Rest of the World special match showcase.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

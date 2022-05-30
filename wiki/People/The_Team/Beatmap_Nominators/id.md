@@ -163,9 +163,11 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | Mandarin |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
+| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesia |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | Korea |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Mandarin |
+| ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korea |
 | ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Mandarin |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korea |
@@ -193,6 +195,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | Spanyol |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Prancis |
+| ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | Korea |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Jerman |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Mandarin |
