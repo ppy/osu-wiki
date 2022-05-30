@@ -31,7 +31,7 @@ In diesem Artikel werden Länder aufgelistet, die an offiziellen Turnieren in [o
 | 15 | ![][flag_NL] Niederlande |  | 1 |  |
 | 15 | ![][flag_TH] Thailand |  | 1 |  |
 | 16 | ![][flag_CA] Kanada |  |  | 3 |
-| 17 | ![][flag_FR] FRangreich |  |  | 2 |
+| 17 | ![][flag_FR] Frankreich |  |  | 2 |
 | 18 | ![][flag_SE] Schweden |  |  | 1 |
 
 ### ![][osu!] osu! Rangliste
