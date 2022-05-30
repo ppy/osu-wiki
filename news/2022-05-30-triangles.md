@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "triangles"
-date: 2022-05-26 23:00:00 +0000
+title: "triangles Beatmapping Contest"
+date: 2022-05-30 23:00:00 +0000
 ---
 
 Mappers and storyboarders unite in osu!'s newest contest: **triangles**!
@@ -14,7 +14,7 @@ Mappers and storyboarders unite in osu!'s newest contest: **triangles**!
     <source src="https://assets.ppy.sh/artists/2/Songs/cYsmix%20-%20triangles.mp3" type="audio/mpeg">
 </audio>
 
-**triangles** is a mapping and storyboarding contest using lazer's theme song, and the winning submission will be **bundled with all new installations of lazer** (along with other cool prizes!).
+**triangles** is a mapping and storyboarding contest using osu!(lazer)'s theme song, and the winning submission will be **bundled with all new installations of osu!(lazer)** (along with other cool prizes!).
 
 There's a lot to explain. Let's dive in.
 
@@ -36,10 +36,10 @@ Unlike last year's [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-
 
 ## Schedule
 
-- **May 26 - July 18:** Contest is open for submissions [here](https://osu.ppy.sh/community/contests/147)!
-- **July 19 - July 31:** Submissions are evaluated by a team of judges.
-- **August 01 - August 15:** Top beatmaps are published for community vote and lazer playlists.
-- **August 20:** Livestream announcement of contest results!
+- **May 30 - July 22:** Contest is open for submissions [here](https://osu.ppy.sh/community/contests/147)!
+- **July 23 - August 04:** Submissions are evaluated by a team of judges.
+- **August 05 - August 19:** Top beatmaps are published for community vote and lazer playlists.
+- **August 24:** Livestream announcement of contest results!
 
 ## Prizes
 
