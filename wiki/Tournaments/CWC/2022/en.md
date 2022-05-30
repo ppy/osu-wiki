@@ -67,7 +67,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_CL] | **Chile** | **[lineqtxz](https://osu.ppy.sh/users/989542)**, [eldnl](https://osu.ppy.sh/users/285756), [Aryssiel](https://osu.ppy.sh/users/2389481), [Lechu FAQ 35P](https://osu.ppy.sh/users/2872000), [Pekorrat](https://osu.ppy.sh/users/1250096), [Stark](https://osu.ppy.sh/users/1565036) |
 | ![][flag_CN] | **China** | **[Dusk](https://osu.ppy.sh/users/533210)**, [Callionet](https://osu.ppy.sh/users/3072921), [Coevir](https://osu.ppy.sh/users/3171965), [Crystal](https://osu.ppy.sh/users/1646397), [KagamineRin02](https://osu.ppy.sh/users/518503), [Kitakami](https://osu.ppy.sh/users/6347308) |
 | ![][flag_CO] | **Colombia** | **[Hojaldre](https://osu.ppy.sh/users/2573707)**, [Deley-](https://osu.ppy.sh/users/8291465), [God Gosu](https://osu.ppy.sh/users/7971842), [Juansy-](https://osu.ppy.sh/users/12588215), [Narnia](https://osu.ppy.sh/users/3600162), [HelpMePleasee](https://osu.ppy.sh/users/10835397) |
-| ![][flag_FI] | **Finland** | **[Nikolai](https://osu.ppy.sh/users/5302804)**, [Awsumi](https://osu.ppy.sh/users/4174308), [Bot\_Burger](https://osu.ppy.sh/users/6109660), [HuoltoMies](https://osu.ppy.sh/users/4278969), [JonZku](https://osu.ppy.sh/users/12740132), [Kurtsi](https://osu.ppy.sh/users/4222176) |
+| ![][flag_FI] | **Finland** | **[Nikolai](https://osu.ppy.sh/users/5302804)**, [Awsumi](https://osu.ppy.sh/users/4174308), [Bot\_Burger](https://osu.ppy.sh/users/6109660), [Mitenvoi](https://osu.ppy.sh/users/4278969), [JonZku](https://osu.ppy.sh/users/12740132), [Kurtsi](https://osu.ppy.sh/users/4222176) |
 | ![][flag_FR] | **France** | **[Holloh](https://osu.ppy.sh/users/7612994)**, [Ttobas](https://osu.ppy.sh/users/2084568), [Natsuko](https://osu.ppy.sh/users/8266817), [Boros](https://osu.ppy.sh/users/5490623), [Electr0o](https://osu.ppy.sh/users/9484428), [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | ![][flag_DE] | **Germany** | **[NoteKuroi](https://osu.ppy.sh/users/186642)**, [Marvmallow](https://osu.ppy.sh/users/8403032), [Vinci007](https://osu.ppy.sh/users/5030297), [Inryuka](https://osu.ppy.sh/users/11635773), [-Nirfu-](https://osu.ppy.sh/users/7332050), [Ginoshi](https://osu.ppy.sh/users/5398106) |
 | ![][flag_ID] | **Indonesia** | **[Chroneko](https://osu.ppy.sh/users/5472877)**, [Dika312](https://osu.ppy.sh/users/741613), [Netamaru](https://osu.ppy.sh/users/1830361), [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), [Urabe Mikoto](https://osu.ppy.sh/users/1272422), [LeWind](https://osu.ppy.sh/users/9718235) |
@@ -90,7 +90,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_CH] | **Switzerland** | **[ItsJ0el](https://osu.ppy.sh/users/5586377)**, [KiraKuroto](https://osu.ppy.sh/users/229191), [MC2BP](https://osu.ppy.sh/users/11296097), [xXMysteryXx](https://osu.ppy.sh/users/11475426) |
 | ![][flag_TW] | **Taiwan** | **[Beepu](https://osu.ppy.sh/users/4958376)**, [ZX123456](https://osu.ppy.sh/users/489271), [Sanami](https://osu.ppy.sh/users/1629471), [-Anya-](https://osu.ppy.sh/users/2455926), [Happiness Fish](https://osu.ppy.sh/users/4586766), [Extricate](https://osu.ppy.sh/users/4787989) |
 | ![][flag_TH] | **Thailand** | **[Azuria](https://osu.ppy.sh/users/16102533)**, [Mirimz](https://osu.ppy.sh/users/25792227), [Social Distance](https://osu.ppy.sh/users/17385454), [harlemshake555](https://osu.ppy.sh/users/7355319), [-TANAKITO-](https://osu.ppy.sh/users/6037121), [Char0n](https://osu.ppy.sh/users/17838855) |
-| ![][flag_TR] | **Turkey** | **[Zeus-](https://osu.ppy.sh/users/5464437)**, [1Haruki](https://osu.ppy.sh/users/11152537), [Fl4ndre Scarlet](https://osu.ppy.sh/users/4146243), [Mansek](https://osu.ppy.sh/users/10445862), [Sjndex\_](https://osu.ppy.sh/users/17130789), [SW4Guy](https://osu.ppy.sh/users/14318796) |
+| ![][flag_TR] | **Turkey** | **[Zeus-](https://osu.ppy.sh/users/5464437)**, [1Haruki](https://osu.ppy.sh/users/11152537), [Fl4ndre Scarlet](https://osu.ppy.sh/users/4146243), [Mansek](https://osu.ppy.sh/users/10445862), [lorem ipsum](https://osu.ppy.sh/users/17130789), [shimu](https://osu.ppy.sh/users/14318796) |
 | ![][flag_UA] | **Ukraine** | **[\[-Nyaruko-\]](https://osu.ppy.sh/users/13712671)**, [Shadowbolts1](https://osu.ppy.sh/users/13962882), [Violet Feets](https://osu.ppy.sh/users/15558360), [bernkastel feet](https://osu.ppy.sh/users/13681464) |
 | ![][flag_GB] | **United Kingdom** | **[Withered Lotus](https://osu.ppy.sh/users/3546931)**, [Matt\_H](https://osu.ppy.sh/users/4067115), [Stats-Kun](https://osu.ppy.sh/users/8611935), [Zoggoth](https://osu.ppy.sh/users/2799946), [Litlas](https://osu.ppy.sh/users/5126518), [Tomato](https://osu.ppy.sh/users/9239206) |
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983) |
@@ -118,13 +118,41 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | Taiwan | ![][flag_TW] | ![][flag_MX] | Mexico | Jun 5 (Sun) 04:00 UTC | Jun 5 (Sun) 12:00 UTC+8 | Jun 4 (Sat) 22:00 UTC-6 |
 | South Korea | ![][flag_KR] | ![][flag_DE] | Germany | Jun 5 (Sun) 10:00 UTC | Jun 5 (Sun) 19:00 UTC+9 | Jun 5 (Sun) 12:00 UTC+2 |
 | Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | Jun 5 (Sun) 11:00 UTC | Jun 5 (Sun) 18:00 UTC+7 | Jun 5 (Sun) 19:00 UTC+8 |
-| Chile | ![][flag_CL] | ![][flag_AU] | Australia | Jun 5 (Sun) 13:30 UTC | Jun 5 (Sun) 09:30 UTC-4 | Jun 5 (Sun) 23:30 UTC+10 |
 | China | ![][flag_CN] | ![][flag_BR] | Brazil | Jun 5 (Sun) 14:00 UTC | Jun 5 (Sun) 22:00 UTC+8 | Jun 5 (Sun) 11:00 UTC-3 |
+| Chile | ![][flag_CL] | ![][flag_AU] | Australia | Jun 5 (Sun) 14:00 UTC | Jun 5 (Sun) 10:00 UTC-4 | Jun 6 (Mon) 00:00 UTC+10 |
 | Canada | ![][flag_CA] | ![][flag_RU] | Russian Federation | Jun 5 (Sun) 16:00 UTC | Jun 5 (Sun) 11:00 UTC-5 | Jun 5 (Sun) 19:00 UTC+3 |
 | United States | ![][flag_US] | ![][flag_PL] | Poland | Jun 5 (Sun) 17:00 UTC | Jun 5 (Sun) 12:00 UTC-5 | Jun 5 (Sun) 19:00 UTC+2 |
 | Turkey | ![][flag_TR] | ![][flag_SE] | Sweden | Jun 5 (Sun) 18:00 UTC | Jun 5 (Sun) 21:00 UTC+3 | Jun 5 (Sun) 20:00 UTC+2 |
 
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here (104 MB)](https://drive.google.com/uc?id=1ek2HFZvYTDLiEGR-S3xJwwNmyeyL5Sju)**
+
+- NoMod
+  1. [Nhato - Cosmica (Nosuri) \[Future\]](https://osu.ppy.sh/beatmapsets/1774456#fruits/3633387)
+  2. [Seiryu - Time to Air (Ascendance) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1774324#fruits/3632962)
+  3. [KNOWER - Overtime (Mir) \[Ecstasy\]](https://osu.ppy.sh/beatmapsets/1170697#fruits/2442178)
+  4. [solfa feat. Chata - Miracle infinity (toara) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1607495#fruits/3282605)
+- Hidden
+  1. [Roce - Jishu (-Rustyy) \[Relentless\]](https://osu.ppy.sh/beatmapsets/1774484#fruits/3633464)
+  2. [Origami Angel - The Title Track (Jemzuu) \[Crowley's Overdose\]](https://osu.ppy.sh/beatmapsets/1503591#fruits/3404571)
+  3. [xi - ANiMA (Kalindraz) \[Oberum Primus\]](https://osu.ppy.sh/beatmapsets/441271#fruits/949234)
+- Hard Rock
+  1. [REOL - Konoyo Loading... (-Ken) \[Ken & AFB's Virtual Reality\]](https://osu.ppy.sh/beatmapsets/1774326#fruits/3632965)
+  2. [Yu\_Asahina - eighth-slave (Bunnrei) \[over-dose\]](https://osu.ppy.sh/beatmapsets/1774353#fruits/3633055)
+  3. [Jun Kuroda - Cybernetics (Altai) \[Heatwave's Insane\]](https://osu.ppy.sh/beatmapsets/1325579#fruits/2859329)
+- Double Time
+  1. [2ToneDisco x Cosmicosmo - Shoelaces (feat. Puniden) (autofanboy) \[Knots\]](https://osu.ppy.sh/beatmapsets/1774474#fruits/3633434)
+  2. [Kobaryo - Cross The Finish Line \[feat. Nanahira\] (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/1774337#fruits/3632989)
+  3. [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmapsets/127712#fruits/323769)
+  4. [Parov Stelar - Catgroove (Blue Dragon) \[Kuron's Insane\]](https://osu.ppy.sh/beatmapsets/144955#fruits/630739)
+- Mixed Mod
+  1. [Mili - Summoning 101 (JierYagtama) \[Jier & Mniam's Ritual\]](https://osu.ppy.sh/beatmapsets/1774772#fruits/3634242)
+  2. [Dirty Androids - Egret and Willow (X Light) \[nika's Dove and Olive Extra\]](https://osu.ppy.sh/beatmapsets/1159124#fruits/2448956)
+- Tiebreaker
+  1. **[USAO - Extra Mode (Deif) \[Greaper & Deif's Another Episode\]](https://osu.ppy.sh/beatmapsets/1774332#fruits/3632973)**
 
 ### Round of 32
 
@@ -172,6 +200,8 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 ## Match results
 
 ### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1TXBAh_aZ7I-gVQ7nMNMl2KXOjr7sZGK5nS97dg1xf3Y/view?rm=minimal).
 
 Saturday, May 28, 2022
 
