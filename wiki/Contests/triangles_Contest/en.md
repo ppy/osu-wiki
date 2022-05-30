@@ -1,4 +1,4 @@
-# triangles contest
+# triangles Beatmapping Contest
 
 ![](https://assets.ppy.sh/contests/147/header.jpg)
 
@@ -18,11 +18,11 @@ Submissions to this contest include:
 
 | Event | Timestamp |
 | --: | :-- |
-| Announcement | 2022-05-26 |
-| Submission phase | 2022-05-26/2022-07-18 |
-| Judging phase | 2022-07-19/2022-07-31 |
-| Community vote and lazer playlists | 2022-08-01/2022-08-15 |
-| Results announcement livestream | 2022-08-20 |
+| Announcement | 2022-05-30 |
+| Submission phase | 2022-05-30/2022-07-22 |
+| Judging phase | 2022-07-23/2022-08-04 |
+| Community vote and lazer playlists | 2022-08-04/2022-08-19 |
+| Results announcement livestream | 2022-08-24 |
 
 ## Links
 
