@@ -11,7 +11,7 @@ Mappers and storyboarders unite in osu!'s newest contest: **triangles**!
 [**lazer**](https://www.youtube.com/watch?v=ut_SOreClcc) is the next major update to osu!. If you [try it for yourself](https://github.com/ppy/osu#running-osu), you'll notice that osu!'s classic theme song has been replaced by *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*:
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/2/Songs/cYsmix%20-%20triangles.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/2/Songs/cYsmix%20-%20triangles.mp3?2022-4" type="audio/mpeg">
 </audio>
 
 **triangles** is a mapping and storyboarding contest using osu!(lazer)'s theme song, and the winning submission will be **bundled with all new installations of osu!(lazer)** (along with other cool prizes!).
