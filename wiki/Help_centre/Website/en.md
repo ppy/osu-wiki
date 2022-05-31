@@ -38,8 +38,8 @@ In the event that another user is harassing you via private messages either on t
 
 **To block a user from sending you messages in-game, simply add them to your ignore list.**
 
-1. Click the Options menu button in-game
-2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
+1. Click the `Options` menu button in-game
+2. Type `ignore` to filter the options listing to the `Chat Ignore List` section.
 3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called *The Gatekeeper* becomes *The\_Gatekeeper* for example).
 
 You'll no longer see public chat messages from any users on that list, or receive private messages from them.
@@ -51,7 +51,7 @@ If you wish to ignore highlights, private messages, or public messages, you can 
 If you wish to prevent anyone not on your friends list from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
 
 1. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
-2. Type "block" to filter the options listing to the "In-game Chat" section.
+2. Type `block` to filter the options listing to the `In-game Chat` section.
 3. Click on the setting that appears to enable it.
 
 Users who are not on your friends list can no longer contact you.
