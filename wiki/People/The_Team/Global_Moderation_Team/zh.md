@@ -99,7 +99,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 粤语，汉语 | 聊天管理员 |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | 韩语，日语 | 聊天管理员 |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | 作图、摸图社群管理员 |
-| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | 阿拉伯语，马来语 | 聊天管理员 |
+| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | 马来语 | 聊天管理员 |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | 西班牙语 | 聊天管理员 |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | 德语 | 论坛管理员 |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | 韩语 | 聊天管理员 |
@@ -125,7 +125,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 | 频道 | 子论坛 | 版主 |
 | :-- | :-- | :-- |
-| `#arabic` |  | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) |
+| `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) |
