@@ -1,6 +1,6 @@
 ---
 legal: true
-outdated: true # missing new intro paragraphs
+outdated_translation: true # missing new intro paragraphs
 ---
 
 # Лицензирование музыки для osu!

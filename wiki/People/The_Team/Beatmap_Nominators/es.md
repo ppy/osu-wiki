@@ -3,7 +3,7 @@ tags:
   - BN
   - BNG
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: deb9ce772b8229d869cc469cb7d39c007e3e55c9
 ---
 
