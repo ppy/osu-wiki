@@ -108,7 +108,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Cantonese, Chinese | Chat moderation |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Korean, Japanese | Chat moderation |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Mapping/modding community moderation |
-| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Arabic, Malay | Chat moderation |
+| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Malay | Chat moderation |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Spanish | Chat moderation |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | German | Forum moderation |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korean | Chat moderation |
@@ -130,13 +130,13 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Chat moderation |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turkish, German | Chat moderation |
 
-<!--- Updated as of March 9, 2022 with the addition of My Angel Chino and QHideaki13--->
+<!--- Updated as of May 27, 2022 with the request to remove arabic from QHideaki13's extra language--->
 
 ### Grouped by languages moderated
 
 | Channel | Subforum | Moderators |
 | :-- | :-- | :-- |
-| `#arabic` |  | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) |
+| `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) |
@@ -169,7 +169,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
 
-<!--- Updated as of May 13, 2022 with the addition of My Angel Chino and QHideaki13---> 
+<!--- Updated as of May 27, 2022 with the request to remove arabic from QHideaki's moderation list---> 
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

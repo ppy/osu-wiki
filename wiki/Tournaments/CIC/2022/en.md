@@ -294,13 +294,9 @@ Sunday, 20 March 2022:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [Mamat](https://osu.ppy.sh/users/3031177) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Keisuu](https://osu.ppy.sh/users/3856673)** | [#1](https://osu.ppy.sh/community/matches/98923798) |
-| Lower | **[Ruu](https://osu.ppy.sh/users/3212755)** ¹ ![][flag_ID] | **1** | 0 | ![][flag_ID] ² [Minalinsky-](https://osu.ppy.sh/users/2823883) | [#1](https://osu.ppy.sh/community/matches/98926575) |
+| Lower | **[Ruu](https://osu.ppy.sh/users/3212755)** ![][flag_ID] | **1** | 0 | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | *win by default* |
 | Lower | [BitDust](https://osu.ppy.sh/users/9573836) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[Chiya--](https://osu.ppy.sh/users/7934854)** | [#1](https://osu.ppy.sh/community/matches/98928761) |
 | Lower | [Keita](https://osu.ppy.sh/users/3355617) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[Kazuyo](https://osu.ppy.sh/users/5604201)** | [#1](https://osu.ppy.sh/community/matches/98920897) |
-
-¹ *Wins by default*
-
-² *Lose by default*
 
 ### Round of 16
 
@@ -333,8 +329,8 @@ Saturday, 5 March 2022:
 
 | Group | 1st Place | 2nd Place | 3rd Place | 4th Place | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
-| **A** | ![][flag_ID] **[dedotikea](https://osu.ppy.sh/users/8805157) (16 pts¹)** | ![][flag_ID] **[BitDust](https://osu.ppy.sh/users/9573836) (15 pts²)** | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) (13 pts) | ![][flag_ID] [Swirfly](https://osu.ppy.sh/users/5164134) (5 pts) | [#1](https://osu.ppy.sh/community/matches/98422839) |
-| **B** | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435) (20 pts)** | ![][flag_ID] **[Mamat](https://osu.ppy.sh/users/3031177) (12 pts¹)** | ![][flag_ID] [Honkenway](https://osu.ppy.sh/users/11582543) (11 pts²) | ![][flag_ID] [Reissfelt](https://osu.ppy.sh/users/1096240) (6 pts) | [#1](https://osu.ppy.sh/community/matches/98418786) |
+| **A** | ![][flag_ID] **[dedotikea](https://osu.ppy.sh/users/8805157) (16 pts[^tb-winner])** | ![][flag_ID] **[BitDust](https://osu.ppy.sh/users/9573836) (15 pts[^tb-loser])** | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) (13 pts) | ![][flag_ID] [Swirfly](https://osu.ppy.sh/users/5164134) (5 pts) | [#1](https://osu.ppy.sh/community/matches/98422839) |
+| **B** | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435) (20 pts)** | ![][flag_ID] **[Mamat](https://osu.ppy.sh/users/3031177) (12 pts[^tb-winner])** | ![][flag_ID] [Honkenway](https://osu.ppy.sh/users/11582543) (11 pts[^tb-loser]) | ![][flag_ID] [Reissfelt](https://osu.ppy.sh/users/1096240) (6 pts) | [#1](https://osu.ppy.sh/community/matches/98418786) |
 | **C** | ![][flag_ID] **[Keisuu](https://osu.ppy.sh/users/3856673) (18 pts)** | ![][flag_ID] **[Chiya--](https://osu.ppy.sh/users/7934854) (17 pts)** | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) (8 pts) | ![][flag_ID] [ReiYKana](https://osu.ppy.sh/users/13055705) (5 pts) | [#1](https://osu.ppy.sh/community/matches/98427634) |
 
 Sunday, 6 March 2022:
@@ -342,7 +338,7 @@ Sunday, 6 March 2022:
 | Group | 1st Place | 2nd Place | 3rd Place | Match link |
 | :-: | :-: | :-: | :-: | :-- |
 | **E** | ![][flag_ID] **[Dika312](https://osu.ppy.sh/users/741613) (22 pts)** | ![][flag_ID] **[Keita](https://osu.ppy.sh/users/3355617) (16 pts)** | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) (11 pts) | [#1](https://osu.ppy.sh/community/matches/98461773) |
-| **F** | ![][flag_ID] **[EpanPan](https://osu.ppy.sh/users/13194580) (18 pts¹)** | ![][flag_ID] **[Ruu](https://osu.ppy.sh/users/3212755) (17 pts²)** | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) (16 pts) | [#1](https://osu.ppy.sh/community/matches/98464680) |
+| **F** | ![][flag_ID] **[EpanPan](https://osu.ppy.sh/users/13194580) (18 pts[^tb-winner])** | ![][flag_ID] **[Ruu](https://osu.ppy.sh/users/3212755) (17 pts[^tb-loser])** | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) (16 pts) | [#1](https://osu.ppy.sh/community/matches/98464680) |
 | **G** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (19 pts)** | ![][flag_ID] **[Kazuyo](https://osu.ppy.sh/users/5604201) (16 pts)** | ![][flag_ID] [Intention](https://osu.ppy.sh/users/3416858) (13 pts) | [#1](https://osu.ppy.sh/community/matches/98473061) |
 | **H** | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877) (22 pts)** | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883) (18 pts)** | ![][flag_ID] [fikricm](https://osu.ppy.sh/users/3243148) (8 pts) | [#1](https://osu.ppy.sh/community/matches/98464680) |
 
@@ -351,9 +347,6 @@ Monday, 7 March 2022:
 | Group | 1st Place | 2nd Place | 3rd Place | 4th Place | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
 | **D** | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361) (22 pts)** | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638) (17 pts)** | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/9153772) (6 pts) | ![][flag_ID] [Kinora](https://osu.ppy.sh/users/20571283) (3 pts) | [#1](https://osu.ppy.sh/community/matches/98504314) |
-
-¹ *Winner of the tiebreaker map*\
-² *Loser of the tiebreaker map*
 
 ## Ruleset
 
@@ -437,6 +430,11 @@ Monday, 7 March 2022:
    - Warm-ups do not apply in the Group stage lobbies.
 4. In case of a tiebreaker, **the tiebreaker beatmap will be played using Hidden or NoMod based on the player's choice**.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
+
+## Notes
+
+[^tb-winner]: Winner of the tiebreaker map.
+[^tb-loser]: Loser of the tiebreaker map.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
