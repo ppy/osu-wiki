@@ -230,7 +230,7 @@ Ein gesperrter Account wird öffentlich sichtbar bleiben, ohne dass auf dem Prof
 
 Um den Account wieder zu entsperren, sende eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) und bringe die Absicht zum Ausdruck, deinen Account freizuschalten. Hierbei sollte dieselbe E-Mail-Adresse genutzt werden, die für den ursprünglichen Antrag auf Accountsperrung verwendet wurde.
 
-*Diese Funktionalität darf nicht missbraucht werden.* Das Sperren eines Accounts sollte eine der letzten Auswege für diese Spieler sein, die osu! nicht für immer verlassen möchten, aber eine Auszeit von osu! aus einem legitimen Grund **brauchen**.
+*Diese Funktionalität darf nicht missbraucht werden.* Das Sperren eines Accounts sollte einer der letzten Auswege für Spieler sein, die osu! nicht für immer verlassen möchten, aber eine Auszeit von osu! aus einem legitimen Grund **brauchen**.
 
 Du kannst dich selbst aus deinem Account aussperren, indem du die E-Mail und das Passwort zu zufälligen Wörtern oder Zeichen änderst, an die du dich niemals erinnern wirst, und dich danach ausloggst. Das ist im Wesentlichen der gleiche Prozess wie bei der Sperrung. Sobald du bereit bist, wieder zurück in die Community zu kommen, sende eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) mit der Beantragung einer Passwortrücksetzung. Versichere dich, dass du die zuvor benutzte E-Mail für deinen Account verwendest.
 

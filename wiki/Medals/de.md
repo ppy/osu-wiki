@@ -38,7 +38,7 @@ Da die Hush-Hush Medaillen eine Art geheime Errungenschaft sein sollen, sind die
 
 ## Beatmap Spotlights
 
-**Beatmap Spotlights Medaillen** sind Medaillen, die beim Abschließen von bestimmten Beatmap-Paketen aus den [monatlichen Beatmap-Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) vergeben werden. Um die Medaillen in dieser Kategorie freischalten zu können, muss ein Spieler alle Beatmaps *in irgendeiner der vier Spielmodi-Pakete* durchspielen, die auf der entsprechenden Rangliste der Beatmap-Spotlights angefochten werden. Die folgenden Mods sind für die Verwendung erlaubt:
+**Beatmap Spotlights Medaillen** sind Medaillen, die beim Abschließen von bestimmten Beatmap-Paketen aus den [monatlichen Beatmap-Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) vergeben werden. Um die Medaillen in dieser Kategorie freischalten zu können, muss ein Spieler alle Beatmaps *in irgendeinem der vier Spielmodi-Pakete* durchspielen, die auf der entsprechenden Rangliste der Beatmap-Spotlights angefochten werden. Die folgenden Mods sind für die Verwendung erlaubt:
 
 - [Mods zur Verringerung der Schwierigkeit](/wiki/Game_modifier#difficulty-reduction)
 - [Mods zur Erhöhung der Schwierigkeit](/wiki/Game_modifier#difficulty-increase)
@@ -48,7 +48,7 @@ Obwohl die monatlichen Beatmap-Spotlights seit April 2018 zugunsten der [saisona
 
 ## Seasonal Spotlights
 
-**Seasonal Spotlights Medaillen** sind Medaillen, die beim Abschließen von bestimmten Beatmap-Paketen aus den [saisonalen Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018) vergeben werden. Um die Medaillen in dieser Kategorie freischalten zu können, muss ein Spieler alle Beatmaps *in irgendeiner der vier Spielmodi-Pakete* durchspielen, die auf der entsprechenden Rangliste der saisonalen Spotlights angefochten werden. Die folgenden Mods sind für die Verwendung erlaubt:
+**Seasonal Spotlights Medaillen** sind Medaillen, die beim Abschließen von bestimmten Beatmap-Paketen aus den [saisonalen Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018) vergeben werden. Um die Medaillen in dieser Kategorie freischalten zu können, muss ein Spieler alle Beatmaps *in irgendeinem der vier Spielmodi-Pakete* durchspielen, die auf der entsprechenden Rangliste der saisonalen Spotlights angefochten werden. Die folgenden Mods sind für die Verwendung erlaubt:
 
 - [Mods zur Verringerung der Schwierigkeit](/wiki/Game_modifier#difficulty-reduction)
 - [Mods zur Erhöhung der Schwierigkeit](/wiki/Game_modifier#difficulty-increase)
