@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Modding
 
 *その他の用途については、[Mod（曖昧さ回避）](/wiki/Disambiguation/Mod)を参照してください。*
