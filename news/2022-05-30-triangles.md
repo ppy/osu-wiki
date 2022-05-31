@@ -110,7 +110,7 @@ Surprising absolutely nobody, this contest has RULES:
 
 - **Submission must include the following:**
   - A beatmap spread of *cYsmix - triangles* with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert. [Download the beatmap template here!](https://assets.ppy.sh/artists/2/Songs/cYsmix%20-%20triangles.osz)
-  - A storyboard with a `.osb` file no greater than **1 MB**. This is to ensure the storyboard is well optimised and doesn't take too long to parse and load into the game.
+  - A storyboard with a `.osb` file no greater than **1 MB**. This may sound small to some, but many storyboards have been made in the past with filesizes far smaller than this. Consider it part of the challenge, and make sure to make full use of loops and triggers!
 - **Submission must be no greater than 10 MB.** While not required, we recommend designs that use simple shapes, keep resources to a minimum, and align with lazer's approach to UI design.
 - **Submission must be in `.osz` format.**
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
