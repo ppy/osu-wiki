@@ -127,13 +127,13 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 - [o2jam to osu!mania converter](https://osu.ppy.sh/community/forums/topics/121149)—Un convertisseur de o2jam à osu!mania.
 - [OMISM](https://osu.ppy.sh/community/forums/topics/664319)—Un convertisseur de beatmaps osu!mania vers Stepmania (et un copieur de keysound osu!mania).
   - [GitHub](https://github.com/BilliumMoto/OMiSM)
-- [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646)—Un changeur de timerate pour osu!mania.
+- [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646)—Un modificateur de timerate pour osu!mania.
   - [GitHub](https://github.com/semyon422/omtrc)
 - [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832)—Un outil de hitsounding pour osu!mania qui copie les fichiers hitsound et le volume des objets vers les objets et les storyboards. Initialement nommé osu!MagiCopy.
 
 ### Storyboarding
 
-- [osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597)—Outil permettant de modifier le texte d'un storyboard.
+- [osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597)—Outil permettant de modifier le texte d'une storyboard.
 - [SGL Tool](https://osu.ppy.sh/community/forums/topics/118733)—Langage de programmation spécifiquement pour générer du code de storyboard. Successeur de [osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597).
   - [GitHub](https://github.com/Qwby/osu-sgl)
 - [Taiko Mod Generator](https://osu.ppy.sh/community/forums/topics/605656)—Modifie le storyboard d'osu!taiko pour vous permettre de faire des choses intéressantes avec les Dons et les Kats.
@@ -163,7 +163,7 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 ### Gestion des beatmaps
 
 - [Auto-downloader for Bloodcat](https://osu.ppy.sh/community/forums/topics/166347)—Télécharge automatiquement les beatmaps en utilisant le miroir Bloodcat.
-- [Batch script to delete maps](https://osu.ppy.sh/community/forums/topics/682907)—Un script Windows Batch pour supprimer tous les beatmaps.
+- [Batch script to delete maps](https://osu.ppy.sh/community/forums/topics/682907)—Un script Windows Batch pour supprimer toutes les beatmaps.
 - [Beatmap Version Checker](https://osu.ppy.sh/community/forums/topics/636199)—Recherche les beatmaps non classés et obsolète et les met à jour automatiquement (ou manuellement).
   - [GitHub](https://github.com/RoanH/osuBeatmapVersionChecker)
 - [Collections Manager](https://osu.ppy.sh/community/forums/topics/131103)—Créez et gérez vos collections sur osu! plus facilement.
@@ -173,7 +173,7 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
   - [GitHub](https://github.com/mfaishalakbar/osu-grab)
 - [Osu! Masive Beatmap Downloader](https://osu.ppy.sh/community/forums/topics/533550)—Téléchargez des beatmaps en grande quantité.
   - [GitHub](https://github.com/GarciaMiguelangel/Osu-Masive-Beatmap-Downloader)
-- osu!cleaner—Vous permet de filtrer automatiquement vos beatmaps en utilisant divers filtres. Les beatmaps qui ne correspondent à aucun filtre seront déplacés dans un dossier `Cleanup`, où ils pourront être supprimés ou replacés plus tard.
+- osu!cleaner—Vous permet de filtrer automatiquement vos beatmaps en utilisant divers filtres. Les beatmaps qui ne correspondent à aucun filtre seront déplacées dans un dossier `Cleanup`, où elles pourront être supprimées ou replacées plus tard.
   - [GitHub](https://github.com/InvisibleSymbol/osu-cleaner)
 - [osu!ocm Collection Manager](https://osu.ppy.sh/community/forums/topics/554209)—Basé sur une [demande de fonctionnalité](https://osu.ppy.sh/community/forums/topics/541813), ce programme permet de télécharger des beatmaps à partir de collections exportées.
   - [GitHub](https://github.com/otaku-overclocks/osu-collection-explorer)
@@ -189,11 +189,11 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 
 - Beatconnect—Un site miroir pour le téléchargement des beatmaps d'osu!.
   - [Site](https://beatconnect.io/)
-- Chimu.moe—Un site de miroirs de beatmaps et le successeur de BloodCat.
+- Chimu.moe—Un site miroir de beatmaps, et le successeur de BloodCat.
   - [Site](https://chimu.moe/)
-- Sayobot—Un site de miroirs de beatmaps chinois.
+- Sayobot—Un site miroir de beatmaps chinois.
   - [Site](https://osu.sayobot.cn/)
-- [Yet another beatmap mirror](https://osu.ppy.sh/community/forums/topics/137156)—Encore un autre site de miroirs de beatmaps.
+- [Yet another beatmap mirror](https://osu.ppy.sh/community/forums/topics/137156)—Encore un autre site miroir de beatmaps.
 
 ### Site Web
 
