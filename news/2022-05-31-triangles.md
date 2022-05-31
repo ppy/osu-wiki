@@ -16,7 +16,7 @@ Mappers and storyboarders unite in osu!'s newest contest: **triangles**!
 
 **triangles** is a mapping and storyboarding contest using osu!(lazer)'s theme song, and the winning submission will be **bundled with all new installations of osu!(lazer)** (along with other cool prizes!).
 
-To participate in this contest, you'll need to form a **team of 2-5 mappers/storyboarders** to create a **triangle-themed** beatmap set to the track *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*, plus a **triangle-themed** storyboard following a few limitations laid out in the Rules below.
+To participate in this contest, you'll need to form a **team of 2-5 mappers/storyboarders** to create a **triangle-themed** beatmap set to the track *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*, plus a **triangle-themed** storyboard following a few limitations laid out in the rules below.
 
 There's a lot to explain, so let's dive straight in.
 
