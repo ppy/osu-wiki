@@ -83,9 +83,9 @@ Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu
 | `EditorStacking` | 0 veya 1 | Yığın haline getirme |
 | `Ticker` | 0 veya 1 | Kayan yazı bandı (sohbet) |
 | `AutoChatHide` | 0 veya 1 | Sohbeti oyun sırasında otomatik olarak gizle |
-| `ChatHighlightName` | 0 veya 1 | Biri ismini söylediğinde bildirim göster |
+| `ChatHighlightName` | 0 veya 1 | Biri ismini [söylediğinde](/wiki/Client/Interface/Chat_console/Highlight) bildirim göster |
 | `ChatMessageNotification` | 0 veya 1 | Sohbet mesajları bildirimlerini göster |
-| `ChatAudibleHighlight` | 0 veya 1 | Biri senin adını söylediğinde ses ile bildir |
+| `ChatAudibleHighlight` | 0 veya 1 | Biri senin adını [söylediğinde](/wiki/Client/Interface/Chat_console/Highlight) ses ile bildir |
 | `DisplayCityLocation` | 0 veya 1 | Bulunduğun şehri diğerleri ile paylaş |
 | `ShowSpectators` | 0 veya 1 | Oyun sırasında izleyici listesini göster |
 | `AutoSendNowPlaying` | 0 veya 1 | Haritaların linklerini otomatik olarak seyircilerle paylaş |
@@ -102,7 +102,7 @@ Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu
 | `LogPrivateMessages` | 0 veya 1 | Özel mesajları otomatik olarak kronolojik sırayla kaydet |
 | `BlockNonFriendPM` | 0 veya 1 | Arkadaşlara ekli olmayanlardan gelen mesajları engelle |
 | `IgnoreList` | Boşluk ile ayrılmış metin listesi | Engellenmiş kişi listesi |
-| `HighlightWords` | Boşluk ile ayrılmış metin listesi | Highlight'lanmış kelimeler |
+| `HighlightWords` | Boşluk ile ayrılmış metin listesi | [Highlight](/wiki/Client/Interface/Chat_console/Highlight)'lanmış kelimeler |
 
 ### Tuş düzeni
 

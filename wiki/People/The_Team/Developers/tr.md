@@ -5,7 +5,7 @@ tags:
   - osu!devs
   - osu! dev
   - osu! devs
-outdated: true
+outdated_translation: true
 outdated_since: b5ffad1bde58fd33ff05bc06bb2843bc8707275e
 ---
 

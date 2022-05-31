@@ -340,7 +340,7 @@ The serial comma, also known as the Oxford or Harvard comma, must be used.
 
 Em dashes (`—`) must be used without spaces around them. Hyphens must not be used in their place.
 
-### Logical quotations
+### Logical quotation
 
 Refer to [Wikipedia's Manual of Style for logical quotations](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside).
 
@@ -349,6 +349,18 @@ From Wikipedia's Manual of Style:
 > Include terminal punctuation within the quotation marks only if it was present in the original material, and otherwise place it after the closing quotation mark. For the most part, this means treating periods and commas in the same way as question marks: keep them inside the quotation marks if they apply only to the quoted material and outside if they apply to the whole sentence.
 
 By extension, [emphasis](/wiki/Article_styling_criteria/Formatting#emphasising), [links](/wiki/Article_styling_criteria/Formatting#links), and parentheses should follow the same rules regarding punctuation (i.e. whether they enclose a whole sentence or only part of one).
+
+### Block quotation
+
+When quoting text from someone, specify the person being quoted after the [blockquote](/wiki/Article_styling_criteria/Formatting#blockquotes) with an em dash (`—`). If the original quote is from a non-English source, specify it in parentheses.
+
+```markdown
+> plz enjoy game
+
+—rrtyui (translated from {language})
+```
+
+In general, the source of the quote should be specified above it. See the [above section](#logical-quotation) for an example. When quoting a written article or otherwise, and not necessarily a specific person, the writer does not need to be specified below the blockquote.
 
 ## Pronunciation
 

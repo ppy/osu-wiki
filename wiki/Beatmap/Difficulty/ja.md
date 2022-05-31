@@ -5,7 +5,7 @@ tags:
   - 星
   - 星評価
   - SR
-outdated: true
+outdated_translation: true
 ---
 
 # 難易度

@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 6450b01c1dbc60bcfecdd85bce52a0bfc44b4e99
 ---
 
@@ -148,7 +148,7 @@ osu! pada umumnya menganugerahkan para pemenang kontes mapping yang berstatus re
 - ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)
 - ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023)
 - ![][flag_AU] [m980](https://osu.ppy.sh/users/3288)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)¹
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)[^mao-note]
 - ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993)
 - ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
 - ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
@@ -164,8 +164,6 @@ osu! pada umumnya menganugerahkan para pemenang kontes mapping yang berstatus re
 - ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
-
-¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam meraih gelar Elite Mapper pada dua kontes mapping yang berbeda, yakni [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
 
 ## Elite Nominator
 
@@ -187,7 +185,7 @@ Sejak tahun 2020, setiap tahunnya osu! menganugerahkan gelar **Elite Nominator**
 
 osu! menganugerahkan gelar **Elite Mapper: Aspirant** kepada para pemenang kontes-kontes mapping Aspire.
 
-- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)¹
+- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)[^charles445-note]
 - ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
 - ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619)
@@ -196,16 +194,12 @@ osu! menganugerahkan gelar **Elite Mapper: Aspirant** kepada para pemenang konte
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) saat ini menyandang gelar **Elite Mapper II: Aspirant** atas keberhasilannya dalam menjuarai [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) dan [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) secara bersamaan.
-
 ## Pemenang kontes osu!remix
 
 osu! menganugerahkan gelar **osu!mixer** kepada para pemenang kontes-kontes osu!remix.
 
-- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
+- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)[^billiummoto-note]
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
-
-¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) saat ini menyandang gelar **osu!mixer II** atas keberhasilannya dalam menjuarai dua kontes osu!remix yang berbeda, yakni [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) dan [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 
 ## Juara bertahan kontes osu!trivium Quiz
 
@@ -326,6 +320,12 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas berbagai alasan yan
 | ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
+
+## Catatan
+
+[^mao-note]: ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam meraih gelar Elite Mapper pada dua kontes mapping yang berbeda, yakni [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
+[^charles445-note]: ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) saat ini menyandang gelar **Elite Mapper II: Aspirant** atas keberhasilannya dalam menjuarai [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) dan [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) secara bersamaan.
+[^billiummoto-note]: ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) saat ini menyandang gelar **osu!mixer II** atas keberhasilannya dalam menjuarai dua kontes osu!remix yang berbeda, yakni [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) dan [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

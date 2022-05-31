@@ -13,7 +13,7 @@ Puoi premere `F8` o cliccare il pulsante `Show Chat` situato in basso a destra p
 | **Pallido** | Altri utenti |
 | **Giallo** | [osu!supporter](/wiki/osu!supporter) |
 | **Rosso** | Un membro del [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) o del [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) |
-| **Verde** | Una linea contenente il tuo nome o certe parole impostate da te per farti "highlight". Una copia di tale messaggio sarà inviata anche in un canale dedicato, `#highlight`, dove sono contenute tutte le linee di questo genere. |
+| **Verde** | Una linea contenente il tuo nome o certe parole impostate da te per farti [highlight](Highlight). Una copia di tale messaggio sarà inviata anche in un canale dedicato, `#highlight`, dove sono contenute tutte le linee di questo genere. |
 | **Blu** | Messaggio Privato (PM) |
 | **Ciano** | [peppy](https://osu.ppy.sh/users/2), il creatore di osu! |
 | **Rosa** | [BanchoBot](/wiki/BanchoBot) |
@@ -80,7 +80,7 @@ Premi il numero o clicca il pulsante per attivare:
 | `/bb` | Invia un messaggio a BanchoBot, come ad esempio: search parola chiave | `/bb rank 1` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [utente]` | Apre una nuova chat con l'utente specificato. | `/chat Amigo` | (La chat con Amigo viene aperta) |
 | `/clear` | Pulisce la chat corrente. | `/clear` | Rimuove praticamente tutto dal canale in cui sei) |
-| `/ignore [utente][@chp]` | Ignora tutti i messaggi dell'utente indicato per la sessione corrente. Aggiungendo una @ seguita dalle lettere c, h e/o p, puoi ignorarli in chat, i loro highlight od i loro PM rispettivamente. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (La tua chat console è impostata per: ignorare qualsiasi testo scritto da Amigo \[c\], qualsiasi highlight da parte diAmigo \[h\] qualsiasi Messaggio Privato inviatoti da Amigo \[p\]) |
+| `/ignore [utente][@chp]` | Ignora tutti i messaggi dell'utente indicato per la sessione corrente. Aggiungendo una @ seguita dalle lettere c, h e/o p, puoi ignorarli in chat, i loro [highlight](Highlight) od i loro PM rispettivamente. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (La tua chat console è impostata per: ignorare qualsiasi testo scritto da Amigo \[c\], qualsiasi highlight da parte diAmigo \[h\] qualsiasi Messaggio Privato inviatoti da Amigo \[p\]) |
 | `/j [canale]` o `/join [canale]` | Apri il canale specificato | `/join #lobby` | (la tab #lobby viene aperta) |
 | `/p` o `/part` | Chiudi il canale in cui sei al momento. | `/part` | n/a |
 | `/unignore [utente]` | Smetti di ignorare l'utente per questa sessione. | `/unignore Amigo` | You may now hear Amigo. (La tua chat console renderà visibile ogni messaggio da parte di Amigo) |
