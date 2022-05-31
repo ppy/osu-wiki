@@ -38,21 +38,21 @@ Da die Hush-Hush Medaillen eine Art geheime Errungenschaft sein sollen, sind die
 
 ## Beatmap Spotlights
 
-**Beatmap Spotlights Medaillen** sind Medaillen, die beim Abschließen von bestimmten Beatmap-Paketen aus den [monatlichen Beatmap-Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) vergeben werden. Um die Medaillen in dieser Kategorie freischalten zu können, muss ein Spieler alle Beatmaps *in irgendeiner der vier Spielmodi-Pakete* durchspielen, die auf der entsprechenden Rangliste der Beatmap-Spotlights angefochten werden. The following mods are permitted for use:
+**Beatmap Spotlights Medaillen** sind Medaillen, die beim Abschließen von bestimmten Beatmap-Paketen aus den [monatlichen Beatmap-Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) vergeben werden. Um die Medaillen in dieser Kategorie freischalten zu können, muss ein Spieler alle Beatmaps *in irgendeiner der vier Spielmodi-Pakete* durchspielen, die auf der entsprechenden Rangliste der Beatmap-Spotlights angefochten werden. Die folgenden Mods sind für die Verwendung erlaubt:
 
-- [Difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction)
-- [Difficulty increase mods](/wiki/Game_modifier#difficulty-increase)
-- [xK](/wiki/Game_modifier/xK), [Mirror](/wiki/Game_modifier/Mirror), and [Spun Out](/wiki/Game_modifier/Spun_Out)
+- [Mods zur Verringerung der Schwierigkeit](/wiki/Game_modifier#difficulty-reduction)
+- [Mods zur Erhöhung der Schwierigkeit](/wiki/Game_modifier#difficulty-increase)
+- [xK](/wiki/Game_modifier/xK), [Mirror](/wiki/Game_modifier/Mirror) und [Spun Out](/wiki/Game_modifier/Spun_Out)
 
 Obwohl die monatlichen Beatmap-Spotlights seit April 2018 zugunsten der [saisonalen Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018) eingestellt wurden, können alle dazugehörigen Medaillen auch heute noch erworben werden.
 
 ## Seasonal Spotlights
 
-**Seasonal Spotlights Medaillen** sind Medaillen, die beim Abschließen von bestimmten Beatmap-Paketen aus den [saisonalen Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018) vergeben werden. Um die Medaillen in dieser Kategorie freischalten zu können, muss ein Spieler alle Beatmaps *in irgendeiner der vier Spielmodi-Pakete* durchspielen, die auf der entsprechenden Rangliste der saisonalen Spotlights angefochten werden. The following mods are permitted for use:
+**Seasonal Spotlights Medaillen** sind Medaillen, die beim Abschließen von bestimmten Beatmap-Paketen aus den [saisonalen Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018) vergeben werden. Um die Medaillen in dieser Kategorie freischalten zu können, muss ein Spieler alle Beatmaps *in irgendeiner der vier Spielmodi-Pakete* durchspielen, die auf der entsprechenden Rangliste der saisonalen Spotlights angefochten werden. Die folgenden Mods sind für die Verwendung erlaubt:
 
-- [Difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction)
-- [Difficulty increase mods](/wiki/Game_modifier#difficulty-increase)
-- [xK](/wiki/Game_modifier/xK), [Mirror](/wiki/Game_modifier/Mirror), and [Spun Out](/wiki/Game_modifier/Spun_Out)
+- [Mods zur Verringerung der Schwierigkeit](/wiki/Game_modifier#difficulty-reduction)
+- [Mods zur Erhöhung der Schwierigkeit](/wiki/Game_modifier#difficulty-increase)
+- [xK](/wiki/Game_modifier/xK), [Mirror](/wiki/Game_modifier/Mirror) und [Spun Out](/wiki/Game_modifier/Spun_Out)
 
 Obwohl die saisonalen Spotlights seit Frühjahr 2020 zugunsten des [aktuellen Beatmap-Spotlights-Systems](/wiki/Beatmap_Spotlights) eingestellt wurden, können alle dazugehörigen Medaillen auch heute noch erworben werden.
 
