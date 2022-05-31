@@ -11,6 +11,10 @@ FRONT_MATTER_DELIMITER = "---"
 MARKDOWN_EXTENSION = ".md"
 
 
+def grey(s):
+    return f"\x1b[90m{s}\x1b[0m"
+
+
 def front_matter(fileobj: typing.TextIO, filepath: str) -> str:
     delimiters = 0
     lines = []
@@ -85,6 +89,8 @@ def main():
 
     if max_level == yamllint.linter.PROBLEM_LEVELS["error"]:
         sys.exit(1)
+
+    print(f"{grey('Notice:')} No errors in YAML files detected.")
 
 
 if __name__ == "__main__":

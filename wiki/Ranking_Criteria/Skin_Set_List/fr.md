@@ -32,12 +32,19 @@ L'ensemble de ce skin set est pertinent pour le gameplay.
 | hit300(-n).png | Doit être clairement distingué de tous les autres hitbursts | Requis | - |
 | hit300g(-n).png | Doit être clairement distingué de tous les autres hitbursts | Requis | - |
 | hit300k(-n).png | Doit être clairement distingué de tous les autres hitbursts | Requis | - |
-| lighting.png | - | Optionnel | - |
 | particle50.png | Doit être inclus avec toutes les autres particules ; ne fonctionnera que si des hitbursts personnalisés sont inclus | Optionnel | 7x7px |
 | particle100.png | Doit être inclus avec toutes les autres particules ; ne fonctionnera que si des hitbursts personnalisés sont inclus | Optionnel | 7x7px |
 | particle300.png | Doit être inclus avec toutes les autres particules ; ne fonctionnera que si des hitbursts personnalisés sont inclus | Optionnel | 7x7px |
 | sliderpoint10.png | Doit être inclus avec sliderpoint30.png ; ne fonctionnera que si le skin spécifique à l'utilisateur prend en charge le Skin V1 | Optionnel | - |
 | sliderpoint30.png | Doit être inclus avec sliderpoint10.png ; ne fonctionnera que si le skin spécifique à l'utilisateur prend en charge le Skin V1 | Optionnel | - |
+
+### Set des lueurs de fond
+
+L'ensemble de ce skin set est pertinent pour le gameplay.
+
+| Nom du fichier | Notes | Pertinence de l'ajout | Tailles recommandées pour les skins SD |
+| --: | :-: | :-: | :-: |
+| lighting.png | - | - | - |
 
 ### Set des hitcircle
 

@@ -122,7 +122,7 @@ Supporters may access multiplayer from builds on the early access "cutting edge"
 ## Remaining duration
 
 ::: Infobox
-![](img/status.jpg?1 "Three months of osu!supporter left")
+![](img/status.jpg?1 "osu!supporter purchase statistics")
 :::
 
 The remaining osu!supporter duration, as well as total amount of contributions, tag purchases, and gifts, is available at the top of the [osu!supporter promo page](https://osu.ppy.sh/home/support).

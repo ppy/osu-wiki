@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 2f106e9a6a2c4d368969341706e6d2bc3071883f
----
-
 # Concours
 
 Cette section est dédiée aux concours organisés par la communauté d'osu!.
@@ -241,6 +236,14 @@ Le **osu! Beatmapping World Championship** est un concours de mapping par équip
 | [#1 (2019)](/wiki/Contests/oBWC/1) | ![][flag_FR] France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), et ![][flag_CH] [Xenok](https://osu.ppy.sh/users/3256600)) | ![][flag_SE] Suède ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), et [Zer0-](https://osu.ppy.sh/users/4260033)) | ![][flag_HK] Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), et [Starfy](https://osu.ppy.sh/users/2045914)) | [#1](https://www.youtube.com/watch?v=_booyIRa5v8) |
 | [#2 (2020)](/wiki/Contests/oBWC/2) | ![][flag_GB] Royaume-Uni ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), et [Yusomi](https://osu.ppy.sh/users/4174940)) | ![][flag_AR] Argentine ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), et [Megafan](https://osu.ppy.sh/users/6632605)) | ![][flag_BR] Brésil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), et [Trynna](https://osu.ppy.sh/users/2652951)) | [#1](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
 
+### osb! Storyboarding Contest
+
+Le **osb! Storyboarding Contest** est un concours de storyboarding où les storyboarders participants s'affrontent pour créer le meilleur storyboard. Ce concours est organisé par osu! storyboarder banquet, la communauté de storyboarding.
+
+| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](/wiki/Contests/osb!_Storyboarding_Contest/1) | ![][flag_CA] [TheDuckMask](https://osu.ppy.sh/users/7405768) | ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) | [#1](https://osu.ppy.sh/community/forums/topics/897075?n=1) |
+
 ### Pending Cup
 
 La **Pending Cup** est un concours de mapping organisé chaque année par des membres éminents de la communauté sinophone de mapping. Chaque année, le concours présente jusqu'à trois musiques et/ou catégories dans lesquelles les mappeurs de toute la communauté sont libres de concourir et de soumettre leurs entrées.
@@ -306,15 +309,9 @@ Bien que la Pending Cup ait été initialement destinée principalement aux memb
 
 | Catégorie | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| Featured Artist¹ | ![osu!][osu!] | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_ID] [AncuL](https://osu.ppy.sh/users/2449200) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
-| Vocal² | ![osu!][osu!] | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | ![][flag_DE] [jamesjan3](https://osu.ppy.sh/users/6260705) | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
-| Instrumentale³ | ![osu!][osu!] | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | ![][flag_ID] [\[Keqing\]](https://osu.ppy.sh/users/8972308) | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
-
-¹ La catégorie "Featured Artist" permet aux mappeurs de choisir entre deux musiques différentes à mapper : Zekk - Re\_construct et Shuu no Hazama \[Rainshower\].
-
-² La catégorie "Vocal" offre aux mappeurs le choix entre deux musiques différentes à mapper : nonoc - memento et DUSTCELL - DERO.
-
-³ La catégorie "Instrumentale" offre aux mappeurs le choix entre deux musiques différentes à mapper : onoken - Felys final remix et Nekomata Master - The Sky of Sadness.
+| Featured Artist[^pending-cup-8-fa] | ![osu!][osu!] | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_ID] [AncuL](https://osu.ppy.sh/users/2449200) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
+| Vocal[^pending-cup-8-vocal] | ![osu!][osu!] | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | ![][flag_DE] [jamesjan3](https://osu.ppy.sh/users/6260705) | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
+| Instrumentale[^pending-cup-8-instrumental] | ![osu!][osu!] | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | ![][flag_ID] [\[Keqing\]](https://osu.ppy.sh/users/8972308) | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
 
 ### Newspaper Cup
 
@@ -359,23 +356,25 @@ La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mai
 
 | Catégorie | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| Vocal¹ | ![osu!][osu!] | ![][flag_CN] [Quantum Rosta](https://osu.ppy.sh/users/4814169) | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) | ![][flag_CN] [Calvaria](https://osu.ppy.sh/users/12381096) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
-| Instrumentale² | ![osu!][osu!] | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_CN] [lililing](https://osu.ppy.sh/users/11025355) | ![][flag_CN] [SuperBox](https://osu.ppy.sh/users/4783121) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
-
-¹ La catégorie "Vocal" offre aux mappeurs le choix entre deux musiques différentes à mapper : Isekai Joucho - Kyoukankaku Obake et Kenshi Yonezu - Shunrai.
-
-² La catégorie "Instrumentale" offre aux mappeurs le choix entre deux musiques différentes à mapper : Morimori Atsushi - Funkotsu Saishin Casino et Fractal Dreamers - Celestial Horizon.
+| Vocal[^newspaper-cup-6-vocal] | ![osu!][osu!] | ![][flag_CN] [Quantum Rosta](https://osu.ppy.sh/users/4814169) | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) | ![][flag_CN] [Calvaria](https://osu.ppy.sh/users/12381096) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
+| Instrumentale[^newspaper-cup-6-instrumental] | ![osu!][osu!] | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_CN] [lililing](https://osu.ppy.sh/users/11025355) | ![][flag_CN] [SuperBox](https://osu.ppy.sh/users/4783121) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
 
 #### [Newspaper Cup \#7 (2021)](https://osu.ppy.sh/community/forums/topics/1203301)
 
 | Catégorie | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| Vocal¹ | ![osu!][osu!] | ![][flag_EE] [Keqing](https://osu.ppy.sh/users/8501291) | ![][flag_US] [Cubby](https://osu.ppy.sh/users/10914582) | ![][flag_TW] [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
-| Instrumentale² | ![osu!][osu!] | ![][flag_CA] [Kyumo](https://osu.ppy.sh/users/14689984) | ![][flag_US] [- ascended -](https://osu.ppy.sh/users/4564285) | ![][flag_CL] [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
+| Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ![][flag_EE] [Keqing](https://osu.ppy.sh/users/8501291) | ![][flag_US] [Cubby](https://osu.ppy.sh/users/10914582) | ![][flag_TW] [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
+| Instrumentale[^newspaper-cup-7-instrumental] | ![osu!][osu!] | ![][flag_CA] [Kyumo](https://osu.ppy.sh/users/14689984) | ![][flag_US] [- ascended -](https://osu.ppy.sh/users/4564285) | ![][flag_CL] [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 
-¹ La catégorie "Vocal" offre aux mappeurs un choix de cinq musiques différentes à mapper : Ariabl'eyeS - Unmei no Haguruma, Yunomi - Aimai Trip, KikuoHana - Desert Theater, Kaf - Tomadoi Telepathy, et Mafumafu - SNOBBISM.
+## Notes
 
-² La catégorie "Instrumentale" offre aux mappeurs un choix de cinq musiques différentes à mapper : Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, et roop - Chatblanc.
+[^pending-cup-8-fa]: La catégorie "Featured Artist" permet aux mappeurs de choisir entre deux musiques différentes à mapper : Zekk - Re\_construct et Shuu no Hazama \[Rainshower\].
+[^pending-cup-8-vocal]: La catégorie "Vocal" offre aux mappeurs le choix entre deux musiques différentes à mapper : nonoc - memento et DUSTCELL - DERO.
+[^pending-cup-8-instrumental]: La catégorie "Instrumentale" offre aux mappeurs le choix entre deux musiques différentes à mapper : onoken - Felys final remix et Nekomata Master - The Sky of Sadness.
+[^newspaper-cup-6-vocal]: La catégorie "Vocal" offre aux mappeurs le choix entre deux musiques différentes à mapper : Isekai Joucho - Kyoukankaku Obake et Kenshi Yonezu - Shunrai.
+[^newspaper-cup-6-instrumental]: La catégorie "Instrumentale" offre aux mappeurs le choix entre deux musiques différentes à mapper : Morimori Atsushi - Funkotsu Saishin Casino et Fractal Dreamers - Celestial Horizon.
+[^newspaper-cup-7-vocal]: La catégorie "Vocal" offre aux mappeurs un choix de cinq musiques différentes à mapper : Ariabl'eyeS - Unmei no Haguruma, Yunomi - Aimai Trip, KikuoHana - Desert Theater, Kaf - Tomadoi Telepathy, et Mafumafu - SNOBBISM.
+[^newspaper-cup-7-instrumental]: La catégorie "Instrumentale" offre aux mappeurs un choix de cinq musiques différentes à mapper : Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, et roop - Chatblanc.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

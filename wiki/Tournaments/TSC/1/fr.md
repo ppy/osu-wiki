@@ -13,14 +13,14 @@ Le **Taiko Suiji Cup** (***TSC***) était un tournoi 3vs3 avec des équipes form
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2018-08-01/2018-08-25 |
-| Tirage au sort en direct | 2018-08-25 (12:30 UTC) |
-| 32èmes de finale | 2018-09-01/2018-09-02 |
-| 16èmes de finale | 2018-09-08/2018-09-09 |
-| Quarts-de-finale | 2018-09-15/2018-09-16 |
-| Demi-finales | 2018-09-22/2018-09-23 |
-| Finales | 2018-09-29/2018-09-30 |
-| Grandes finales | 2018-10-06/2018-10-07 |
+| Phase d'inscription | 01/08/2018 - 25/08/2018 |
+| Tirage au sort en direct | 25/08/2018 (12:30 UTC) |
+| 32èmes de finale | 01/09/2018 - 02/09/2018 |
+| 16èmes de finale | 08/09/2018 - 09/09/2018 |
+| Quarts-de-finale | 15/09/2018 - 16/09/2018 |
+| Demi-finales | 22/09/2018 - 23/09/2018 |
+| Finales | 29/09/2018 - 30/09/2018 |
+| Grandes finales | 06/10/2018 - 07/10/2018 |
 
 ## Récompenses
 
@@ -462,7 +462,7 @@ Dimanche, 2 Septembre 2018:
   - Chaque équipe peut bannir une beatmap de la beatmap Pool A. Les beatmaps de la beatmap Pool B ne peuvent jamais être bannies.
 - Les beatmaps de warmups sont autorisées tout au long du tournoi. Chaque équipe peut choisir une beatmap warmup.
   - Les warmups ne doivent pas excéder 4:30.
-- L'arbitre peut donner le rôle d'hôte aux joueurs uniquement pour les warmups. L'arbitre va être l'hôte pour les reste du match après les warmups. Une équipe va choisir une beatmap en donnant le nom de la beatmap dans le chat multiplayer et l'arbitre va sélectionner la beatmap.
+- L'arbitre peut donner le rôle d'hôte aux joueurs uniquement pour les warmups. L'arbitre va être l'hôte pour les reste du match après les warmups. Une équipe va choisir une beatmap en donnant le nom de la beatmap dans le tchat multiplayer et l'arbitre va sélectionner la beatmap.
 - Chaque équipe à 1 bans par match. Les beatmaps bannies sont enlevées de la liste des beatmaps pour la durée du match et ne peuvent pas être sélectionnées par les équipes. Une équipe a le droit de bannir 1 beatmaps du même mod.
 - Chaque équipe a 3 minutes pour sélectionner une beatmap; si une équipe ne parvient pas à choisir dans le temps imparti, la sélection de beatmap passe à l'équipe adverse. Cela n'a pas d'effet sur l'ordre de sélection qui suit.
 - Il n'y a pas de restriction sur l'ordre de sélection des beatmaps; les équipes peuvent choisir toutes les beatmaps disponibles à tout moment peu importe le mod.

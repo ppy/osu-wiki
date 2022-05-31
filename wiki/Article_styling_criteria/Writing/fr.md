@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: e7b3cc5c226c12925b62dcb153d1ae11902da79c
+---
+
 # Rédaction
 
 *Pour les normes de mise en forme, voir : [Critères de mise en forme d'article/Mise en forme](../Formatting)*\
@@ -36,7 +41,7 @@ Pour les deux registres, toutes les règles de cette partie des critères de sty
 Les noms d'articles, lorsqu'ils sont écrits dans un paragraphe, ne doivent pas prendre de majuscule, sauf s'il s'agit d'un lien qui pointe vers l'article ou d'un nom propre (par exemple, BanchoBot). Voici un exemple :
 
 ```markdown
-Si vous voulez en savoir plus sur le tchat, reportez-vous à [Console de chat](/wiki/Client/Interface/Chat_console).
+Si vous voulez en savoir plus sur le tchat, reportez-vous à [Console de tchat](/wiki/Client/Interface/Chat_console).
 ```
 
 ### Modificateurs de jeu
@@ -221,6 +226,7 @@ Pour tous les autres termes, osu! doit être traité comme un nom seul. Cela sig
 
 - `osu! tournament`
 - `osu! community`
+- `osu! tchat`
 - `osu! chat`
 - `osu! client`
 - `osu! wiki`

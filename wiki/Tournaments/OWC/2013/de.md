@@ -14,13 +14,13 @@ Der **osu! World Cup 2013** (***OWC 2013***) war ein länderbasiertes osu!-Turni
 
 | Event | Zeitpunkt |
 | --: | :-- |
-| Registrierungsphase | 2013-10-15 bis 2013-10-28 |
-| Live-Auslosung | 2013-10-31 (16:00 UTC) |
-| Gruppenphase | 2013-11-08 bis 2013-11-10 |
-| Achtelfinale | 2013-11-16 bis 2013-11-17 |
-| Viertelfinale | 2013-11-24 |
-| Halbfinale | 2013-11-30 |
-| Finale | 2013-12-07 bis 2013-12-08 |
+| Registrierungsphase | 15.10.2013 bis 28.10.2013 |
+| Live-Auslosung | 31.10.2013 (16:00 UTC) |
+| Gruppenphase | 08.11.2013 bis 10.11.2013 |
+| Achtelfinale | 16.11.2013 bis 17.11.2013 |
+| Viertelfinale | 24.11.2013 |
+| Halbfinale | 30.11.2013 |
+| Finale | 07.12.2013 bis 08.12.2013 |
 
 ## Preise
 

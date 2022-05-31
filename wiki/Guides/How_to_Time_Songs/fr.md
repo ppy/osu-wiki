@@ -1,5 +1,5 @@
 ---
-needs_cleanup: true
+needs_cleanup: true # À jour par rapport à `en.md`
 ---
 
 <!-- TODO: some outdated info and this could be simplified a lot. it's a pretty long read for what you get -->

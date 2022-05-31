@@ -14,34 +14,34 @@ tags:
 | 阶段 | 时间 |
 | :-- | :-- |
 | 赛季开始 | 2022 年 2 月 15 日 |
-| 时移多人游戏大厅：图池 A | 2022 年 2 月 15 日 - 3 月 1 日 |
-| 时移多人游戏大厅：图池 B | 2022 年 3 月 1 日 - 3 月 15 日 |
-| 时移多人游戏大厅：图池 C | 2022 年 3 月 15 日 - 3 月 29 日 |
-| 时移多人游戏大厅：图池 A | 2022 年 3 月 29 日 - 4 月 5 日 |
-| 时移多人游戏大厅：图池 B | 2022 年 4 月 5 日 - 4 月 12 日 |
-| 时移多人游戏大厅：图池 C | 2022 年 4 月 12 日 - 4 月 19 日 |
+| 歌单模式大厅：歌单 A | 2022 年 2 月 15 日 - 3 月 1 日 |
+| 歌单模式大厅：歌单 B | 2022 年 3 月 1 日 - 3 月 15 日 |
+| 歌单模式大厅：歌单 C | 2022 年 3 月 15 日 - 3 月 29 日 |
+| 歌单模式大厅：歌单 A | 2022 年 3 月 29 日 - 4 月 5 日 |
+| 歌单模式大厅：歌单 B | 2022 年 4 月 5 日 - 4 月 12 日 |
+| 歌单模式大厅：歌单 C | 2022 年 4 月 12 日 - 4 月 19 日 |
 | 赛季结算 | 2022 年 4 月 19 日 |
 
 ## 每周多人游戏大厅
 
 目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](https://github.com/ppy/osu/releases)。
 
-1. 赛季每 2 周将打开一个时移多人游戏大厅，每大厅在整个开放期间都可参加。
-   - 在第一轮图池结束后，每周将重新开放一个图池。
-2. 每个大厅会提供一个提前准备好的图池。
-   - 每个图池内所包含的 Hard，Insane 和 Expert 难度均匀分布。
-   - 每个图池与每两周分配的字母相对应。每张图池会在下个周期复刻一次。
-3. 在时移大厅中，每个人都可以争夺特定房间的排行榜。
-   - 只有最佳成绩会被计入排行榜当中，排行榜分数为房间图池分数的总和。
-   - 图池中所有谱面均计入排行榜。
+1. 赛季每 2 周将开放一个歌单模式大厅，每大厅在整个开放期间都可参加。
+   - 在第一轮歌单结束后，每周将重新开放一个歌单。
+2. 每个大厅会提供一个提前准备好的歌单。
+   - 每个歌单内所包含的 Hard，Insane 和 Expert 难度均匀分布。
+   - 每个歌单与每两周分配的字母相对应。每个歌单会在下个周期复刻一次。
+3. 在歌单模式大厅中，每个人都可以争夺特定大厅的排行榜。
+   - 只有最佳成绩会被计入排行榜当中，排行榜分数为大厅所有谱面分数的总和。
+   - 歌单中所有谱面均计入排行榜。
    - 所有谱面分数均基于 osu!(lazer) 的分数系统。
-4. 时移大厅关闭后，房间内所有参与者的周 Ranked 谱面总分将添加到月赛排行榜当中。
+4. 歌单模式大厅关闭后，大厅内所有玩家的周 Ranked 谱面总分将添加到赛季排行榜当中。
 
-## 图池
+## 歌单
 
 ### osu!（由 [Nowaie](https://osu.ppy.sh/users/5428909) 领导）
 
-#### 图池 A（异端节奏）
+#### 歌单 A（异端节奏）
 
 - [Polyphia - O.D. \[Hard\]](https://osu.ppy.sh/beatmapsets/1378026#osu/2850639)，由 [Lefafel](https://osu.ppy.sh/users/2295850) 推荐
 - [OSTER project - piano x forte \[Hard\]](https://osu.ppy.sh/beatmapsets/1296249#osu/2983635)，由 [DigitalHypno](https://osu.ppy.sh/users/4384207) 推荐
@@ -55,7 +55,7 @@ tags:
 
 ### osu!taiko（由 [OnosakiHito](https://osu.ppy.sh/users/290128) 领导）
 
-#### 图池 A（异端节奏）
+#### 歌单 A（异端节奏）
 
 - [Sven Noon - Argentum Pluviam \[Muzukashii\] (ZTH)](https://osu.ppy.sh/beatmapsets/1523642#taiko/3200785)，由 [Axer](https://osu.ppy.sh/users/7299864) 推荐
 - [Breakchild & II-L - METEORITE \[MUZUKASHII\] (WTHBRO)](https://osu.ppy.sh/beatmapsets/1487513#taiko/3109255)，由 [Hivie](https://osu.ppy.sh/users/14102976) 推荐
@@ -69,7 +69,7 @@ tags:
 
 ### osu!catch（由 [SadEgg](https://osu.ppy.sh/users/10278243) 领导）
 
-#### 图池 A （异端节奏）
+#### 歌单 A （异端节奏）
 
 - [Silentroom vs. Frums - Aegleseeker \[AFB's Platter\] (Jemzuu)](https://osu.ppy.sh/beatmapsets/1460413#fruits/3024973)，由 [Rocma](https://osu.ppy.sh/users/566276) 推荐
 - [LukHash - WINTER ERROR \[COLLAB PLATTER\] (Rocma)](https://osu.ppy.sh/beatmapsets/1031668#fruits/2163462)，由 [wonjae](https://osu.ppy.sh/users/5032045) 推荐
@@ -83,7 +83,7 @@ tags:
 
 ### osu!mania（由 [Hydria](https://osu.ppy.sh/users/808176) 领导，[CrumpetFiddler](https://osu.ppy.sh/users/3518705) 提供帮助）
 
-#### 图池 A（异端节奏）
+#### 歌单 A（异端节奏）
 
 - [Musicarus - Sure shot \[Eagle Eye\] (AHHHHHHHHHHHHHH)](https://osu.ppy.sh/beatmapsets/1366536#mania/2826333)，由 [CrumpetFiddler](https://osu.ppy.sh/users/3518705) 推荐
 - [U.T.D & Friends - Lesson by DJ \[CHALLENGE\] (Lenfried-)](https://osu.ppy.sh/beatmapsets/704987#mania/1491195)，由 [Kaito-kun](https://osu.ppy.sh/users/4715184) 推荐

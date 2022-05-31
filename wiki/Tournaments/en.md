@@ -270,7 +270,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [UK osu!standard tournament!](OUKT/1) | 2013-11-11 | 2014-1-11 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193) | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
+| [UK osu!standard tournament!](OUKT/1) | 2013-11-11 | 2014-01-11 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193) | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
 | [UK osu!standard tournament 2](OUKT/2) | 2014-03-15 | 2014-04-20 | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
 | [osu! UK Tournament 3](OUKT/3) | 2014-06-28 | 2014-08-10 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [jesus1412](https://osu.ppy.sh/users/230116) | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
 | [osu! UK Tournament 4](OUKT/4) | 2015-01-10 | 2015-08-21 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | N/A |
@@ -294,6 +294,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [PERAK osu! Tournament](POT/1) | 2021-01-17 | 2021-04-04 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| [PERAK osu! Tournament 2022](POT/2022) | 2022-02-21 | 2022-04-24 | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) |
 
 #### Rapid Monthly osu! Tournament Invitationals
 
@@ -583,7 +584,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 2022-04-09 | 2022-05-08 | *TBD* | *TBD* | *TBD* |
+| [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 2022-04-09 | 2022-05-15 | 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | GBC最强阵容9个Miyes |
 
 #### Mania Beginner's Showdown
 
@@ -606,13 +607,14 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Mistrzostwa Polski w 7K 2019](MP/2019_7K) | 2019-10-09 | 2019-12-22 | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537) | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) | ![][flag_PL] [-Karen-chan-](https://osu.ppy.sh/users/1333495) |
 | [Mistrzostwa Polski w 7K 2020](MP/2020_7K) | 2020-10-12 | 2020-12-20 | ![][flag_PL] [paprotkaaaaa](https://osu.ppy.sh/users/6034749) | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537) | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/2235750) |
 
-#### osu!mania 4K Chinese National Cup
+#### osu!mania Chinese National Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania 4K Chinese National Cup 2019](MCNC/2019) | 2019-06-19 | 2019-08-12 | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
 | [osu!mania 4K Chinese National Cup 2020](MCNC/2020) | 2020-04-27 | 2020-06-28 | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) | ![][flag_CN] [Kakuko](https://osu.ppy.sh/users/10413362) | ![][flag_CN] [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
 | [osu!mania 4K Chinese National Cup 2021](MCNC/2021) | 2021-04-05 | 2021-06-06 | ![][flag_CN] [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) | ![][flag_CN] [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
+| [osu!mania 7K Chinese National Cup 2022](MCNC/7K2022) | 2022-01-21 | 2022-03-06 | ![][flag_CN] [LiangIaiajan](https://osu.ppy.sh/users/5144698) | ![][flag_CN] [4kGameBye](https://osu.ppy.sh/users/89545) | ![][flag_CN] [U1d](https://osu.ppy.sh/users/10125072) |
 
 #### osu!mania Asian's Champions
 
