@@ -845,7 +845,7 @@ A tournament must not be organised and run by an inexperienced team of unaccompl
 
 ## Blockquotes
 
-The blockquote is limited to quoting text from someone. It must not be used to format text otherwise. The name of the quoted person that follows the quote must be prepended by an em dash (`—`) as follows:
+The blockquote is limited to [quoting someone or something](/wiki/Article_styling_criteria/Writing#block-quotation). It must not be used to format text otherwise.
 
 ```markdown
 > plz enjoy game
