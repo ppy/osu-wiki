@@ -20,7 +20,7 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `cs.md` | Tschechisch | Česky |
 | `da.md` | Dänisch | Dansk |
 | `de.md` | Deutsch | Deutsch |
-| `gr.md` | Griechisch | Ελληνικά |
+| `el.md` | Griechisch | Ελληνικά |
 | `es.md` | Spanisch | Español |
 | `fi.md` | Finnisch | Suomi |
 | `fr.md` | Französisch | Français |

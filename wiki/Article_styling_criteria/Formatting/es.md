@@ -21,7 +21,7 @@ El listado siguiente son las configuraciones locales soportadas para la wiki:
 | `cs.md` | Checo | Česky |
 | `da.md` | Danés | Dansk |
 | `de.md` | Alemán | Deutsch |
-| `gr.md` | Griego | Ελληνικά |
+| `el.md` | Griego | Ελληνικά |
 | `es.md` | Español | Español |
 | `fi.md` | Finlandés | Suomi |
 | `fr.md` | Francés | Français |

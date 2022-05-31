@@ -16,7 +16,7 @@ Listed below are the properly-supported locales for the wiki:
 | `cs.md` | Czech | Česky |
 | `da.md` | Danish | Dansk |
 | `de.md` | German | Deutsch |
-| `gr.md` | Greek | Ελληνικά |
+| `el.md` | Greek | Ελληνικά |
 | `es.md` | Spanish | Español |
 | `fi.md` | Finnish | Suomi |
 | `fr.md` | French | Français |
