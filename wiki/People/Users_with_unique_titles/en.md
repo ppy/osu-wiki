@@ -143,7 +143,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)
 - ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023)
 - ![][flag_AU] [m980](https://osu.ppy.sh/users/3288)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)¹
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)[^mao-note]
 - ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993)
 - ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
 - ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
@@ -159,8 +159,6 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
-
-¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) was awarded with the **Elite Mapper II** title instead for having successfully earned the Elite Mapper title through two different means: Winning the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest and surpassing the 6-points threshold in the new [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) system.
 
 ## Elite Nominators
 
@@ -182,7 +180,7 @@ Since 2020, members of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_No
 
 The Aspire mapping contests feature a special variation of the Elite Mapper title called **Elite Mapper: Aspirant** as a prize.
 
-- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)¹
+- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)[^charles445-note]
 - ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
 - ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619)
@@ -191,16 +189,12 @@ The Aspire mapping contests feature a special variation of the Elite Mapper titl
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) was awarded with the **Elite Mapper II : Aspirant** title instead for having won both the [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) and the [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
-
 ## osu!remix contest winners
 
 The osu!remix contests award the **osu!mixer** title as a first-place prize.
 
-- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
+- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)[^billiummoto-note]
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
-
-¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) was awarded with the **osu!mixer II** title instead for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest.
 
 ## Current osu!trivium Quiz contest winners
 
@@ -284,7 +278,7 @@ These players were awarded their respective titles through either a crazy gamepl
 | :-- | :-- | :-- |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Scored the first NoMod FC on [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Scored FCs on all Ranked osu!taiko maps as of 3 November 2019 |
-| ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Undocumented* <!-- TODO: a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further --> |
+| ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Awarded by ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) in late 2008 for reaching rank #104 in 1 week, as a reference to [*The World Ends with You*](https://en.wikipedia.org/wiki/The_World_Ends_with_You) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Played all Ranked osu! maps as of 27 April 2019 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Won [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
@@ -327,6 +321,12 @@ These users were awarded their respective titles for miscellanous reasons.
 | ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
+
+## Notes
+
+[^mao-note]: ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) was awarded with the **Elite Mapper II** title instead for having successfully earned the Elite Mapper title through two different means: Winning the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest and surpassing the 6-points threshold in the new [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) system.
+[^charles445-note]: ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) was awarded with the **Elite Mapper II : Aspirant** title instead for having won both the [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) and the [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
+[^billiummoto-note]: ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) was awarded with the **osu!mixer II** title instead for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

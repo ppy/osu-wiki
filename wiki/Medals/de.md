@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 9d633793be230661c17c4c6fc336b309a3e8c306
+---
+
 # Medaillen
 
 **Medaillen**, auch früher bekannt als *Achievements* (zu Dt. Erfolge oder Errungenschaften), sind Embleme auf der Profilseite, welche anzeigen, dass der Benutzer ein Ziel erreicht hat. Zur Zeit können **265** Medaillen freigeschaltet werden in 8 unterschiedlichen Kategorien: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) und [Beatmap Challenge Packs](#beatmap-challenge-packs).

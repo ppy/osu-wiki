@@ -197,3 +197,4 @@ Les noms de difficulté suivants sont des alternatives et des ajouts courants au
 - ![](/wiki/shared/diff/expert-o.png) Extra : il peut être utilisé comme substitut d'Expert.
 - ![](/wiki/shared/diff/expertplus-o.png) Extreme : il peut être utilisé pour représenter une difficulté Expert plus difficile.
 - ![](/wiki/shared/diff/expertplus-t.png) Hell Oni : il peut être utilisé pour représenter une difficulté Inner Oni plus difficile.
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge : il peut être utilisé pour représenter une difficulté Overdose plus difficile.

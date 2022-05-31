@@ -1,6 +1,6 @@
 ---
 needs_cleanup: true
-outdated: true
+outdated: true # À jour par rapport à `en.md`
 ---
 
 <!-- TODO: this is riddled with old client information and probably needs to be rewritten anyway. -->

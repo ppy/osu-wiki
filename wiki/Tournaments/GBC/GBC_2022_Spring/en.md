@@ -10,7 +10,7 @@ tags:
 
 ![GBC 2022 Spring banner](img/GBC-2022-Spring-banner.jpg)
 
-The **GB Cup 2022 Spring** (***GBC 2022 Spring***) is a 3v3 captain draft-based osu!mania 4-key tournament hosted by ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407).
+The **GB Cup 2022 Spring** (***GBC 2022 Spring***) was a 3v3 captain draft-based osu!mania 4-key tournament hosted by ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407).
 
 ## Tournament schedule
 
@@ -35,11 +35,13 @@ The **GB Cup 2022 Spring** (***GBC 2022 Spring***) is a 3v3 captain draft-based 
 | 4th place | ¥125 CNY |
 | 5-8th place | ¥75 CNY |
 
-Teams are also awarded a ¥25 CNY bonus for each regular stage win.
+Teams were also awarded a ¥25 CNY bonus for each regular stage win.
+
+![](img/GBC-2022-Spring-badge-1st.png "GBC 2022 Spring winner badge") ![](img/GBC-2022-Spring-badge-2nd.png "GBC 2022 Spring 2nd place badge") ![](img/GBC-2022-Spring-badge-3rd.png "GBC 2022 Spring 3rd place badge")
 
 ## Organisation
 
-The GB Cup 2022 Spring is run by the GB Team and various community members.
+The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -47,7 +49,7 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 | Staff | ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_GB] [-Deepdive-](https://osu.ppy.sh/users/13338645) |
 | Mappool selector | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14095291), ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291),![][flag_CN] [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771)  |
 | Mappool tester | ![][flag_CN] [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ![][flag_CN] [Blue_Potion](https://osu.ppy.sh/users/13094831), ![][flag_CN] [FleVI](https://osu.ppy.sh/users/12519616), ![][flag_CN] [\[GB\]Takeru3](https://osu.ppy.sh/users/15188014), ![][flag_CN] [_Yiiiiii](https://osu.ppy.sh/users/6066359), ![][flag_CN] [rbqq](https://osu.ppy.sh/users/13747488/mania), ![][flag_CN] [Seven_Nye](https://osu.ppy.sh/users/20886966), ![][flag_CN] [aa219040](https://osu.ppy.sh/users/11653961), ![][flag_CN] [DongDouFu](https://osu.ppy.sh/users/17621613), ![][flag_CN] [sheng_guang](https://osu.ppy.sh/users/12417981), ![][flag_CN] [sackwoman](https://osu.ppy.sh/users/21573696) |
-| Referee | ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ![][flag_CN] [\[GB\]Ceci1ia](https://osu.ppy.sh/users/28052545), ![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334) |
+| Referee | ![][flag_CN] [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ![][flag_CN] [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ![][flag_CN] [\[GB\]Ceci1ia](https://osu.ppy.sh/users/28052545), ![][flag_CN] [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Commentator | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291) |
 | Guest commentator | ![][flag_CN] [King Fish](https://osu.ppy.sh/users/8468203), ![][flag_CN] [Tachibana Gekka](https://osu.ppy.sh/users/4363530) |
 | Streamer | ![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [\[GB\]AelSan](https://osu.ppy.sh/users/14095291) |
@@ -58,8 +60,8 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1546120)
 - Livestream
-  - [Bilibili Stream (\[GB\]yobrevelc)](https://live.bilibili.com/22545296)
-  - [Bilibili Stream (aiyulu)](https://live.bilibili.com/10183)
+  - [Bilibili stream](https://live.bilibili.com/22545296) (![][flag_CN] [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
+  - [Bilibili stream](https://live.bilibili.com/10183) (![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617))
 - [Master sheet](https://docs.qq.com/sheet/DTWVZWk1MTFVLWllu)
 
 ## Participants
@@ -88,22 +90,9 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 | 15 | **GBC最强阵容9个Miyes** | ![][flag_CN] **[miyes](https://osu.ppy.sh/users/12942073)**, ![][flag_CN] [alivn](https://osu.ppy.sh/users/15807665), ![][flag_CN] [ZOM148](https://osu.ppy.sh/users/10402690), ![][flag_CN] [ChiralSS](https://osu.ppy.sh/users/18211706), ![][flag_CN] [1atk](https://osu.ppy.sh/users/20520767) |
 | 16 | **头号倒霉蛋** | ![][flag_CN] **[StarTemplar](https://osu.ppy.sh/users/8795096)**, ![][flag_CN] [9961](https://osu.ppy.sh/users/14609209), ![][flag_CN] [1145810](https://osu.ppy.sh/users/24449770), ![][flag_CN] [lochid](https://osu.ppy.sh/users/18107639), ![][flag_CN] [OTruthO](https://osu.ppy.sh/users/17470634) |
 
-## Match schedule: Finals
+## Podium
 
-### Saturday, May 14, 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-: | :-: |
-| 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | May 14 (Sat) 20:00 (UTC+8) | ¹ |
-
-### Sunday, May 15, 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-: | :-: |
-| GBC最强阵容9个Miyes | 货拉拉拉不拉拉布拉多 | May 15 (Sun) 19:00 (UTC+8) | ² |
-
-¹ Finals\
-² Bronze match
+![](img/GBC-2022-Spring-podium.png "GBC 2022 Spring podium")
 
 ## Mappools
 
@@ -180,19 +169,37 @@ The GB Cup 2022 Spring is run by the GB Team and various community members.
 
 ## Match results
 
+### Play-offs summary
+
+![](img/GBC-2022-Spring-PlayoffsSummary.png "GBC 2022 Spring play-offs summary") 
+
+### Finals
+
+Saturday, May 14, 2022:
+
+| Team A |  |  | Team B | Match link | Note |
+| --:  |--: | :-- | :-- | :-: | :-: |
+| **金戈铁马的鲜丰水果摊** | **7** | 6 | 太美丽了理塘 | [#1](https://osu.ppy.sh/community/matches/100602282) | Finals |
+
+Sunday, May 15, 2022:
+
+| Team A |  |  | Team B | Match link |  |
+| --:  |--: | :-- | :-- | :-: | :-: |
+| **GBC最强阵容9个Miyes** | **7** | 3 | 货拉拉拉不拉拉布拉多 | [#1](https://osu.ppy.sh/community/matches/100634289) | Bronze match |
+
 ### Semifinals
 
 Saturday, May 7, 2022:
 
 | Team A |  |  | Team B | Match link |
 | --:  |--: | :-- | :-- | :-: |
-| 货拉拉拉不拉拉布拉多 |  3 | **7** | 太美丽了理塘 | [#1](https://osu.ppy.sh/community/matches/100411441) |
+| 货拉拉拉不拉拉布拉多 |  3 | **7** | **太美丽了理塘** | [#1](https://osu.ppy.sh/community/matches/100411441) |
 
 Sunday, May 8, 2022:
 
 | Team A |  |  | Team B | Match link |
 | --:  |--: | :-- | :-- | :-: |
-| GBC最强阵容9个Miyes | 3 | **7** | 金戈铁马的鲜丰水果摊 | [#1](https://osu.ppy.sh/community/matches/100444701) |
+| GBC最强阵容9个Miyes | 3 | **7** | **金戈铁马的鲜丰水果摊** | [#1](https://osu.ppy.sh/community/matches/100444701) |
 
 ### Quarterfinals
 
@@ -200,19 +207,19 @@ Sunday, May 1, 2022:
 
 | Team A |  |  | Team B | Match link |
 | --:  |--: | :-- | :-- | :-: |
-| 大怨种被迫当队长 | 3 | **6** | GBC最强阵容9个Miyes | [#1](https://osu.ppy.sh/community/matches/100250198) |
-| 太美丽了理塘 | **6** | 2 | 可爱的hyahya酱上线啦！！ | [#1](https://osu.ppy.sh/community/matches/100250096) |
+| 大怨种被迫当队长 | 3 | **6** | **GBC最强阵容9个Miyes** | [#1](https://osu.ppy.sh/community/matches/100250198) |
+| **太美丽了理塘** | **6** | 2 | 可爱的hyahya酱上线啦！！ | [#1](https://osu.ppy.sh/community/matches/100250096) |
 
 Monday, May 2, 2022:
 
 | Team A |  |  | Team B | Match link |
 | --:  |--: | :-- | :-- | :-: |
-| 货拉拉拉不拉拉布拉多 | **6** | 5 | 涩涩不队 | [#1](https://osu.ppy.sh/community/matches/100280784) |
-| 金戈铁马的鲜丰水果摊 | **6** | 4 | 皮蛋蛋吸手手俱乐部 | [#1](https://osu.ppy.sh/community/matches/100281811) |
+| **货拉拉拉不拉拉布拉多** | **6** | 5 | 涩涩不队 | [#1](https://osu.ppy.sh/community/matches/100280784) |
+| **金戈铁马的鲜丰水果摊** | **6** | 4 | 皮蛋蛋吸手手俱乐部 | [#1](https://osu.ppy.sh/community/matches/100281811) |
 
 ### Regular stage summary
 
-| #¹ | Team | Matches | Beatmaps | BD² | BU³ | Round 1 | Round 2 | Round 3 |
+| #[^rs-summary-seed] | Team | Matches | Beatmaps | BD[^rs-summary-bd] | BU[^rs-summary-bu] | Round 1 | Round 2 | Round 3 |
 | :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | **金戈铁马的鲜丰水果摊** | 3-0 | 18-4 | +14 | +1 | 6-1 倒霉蛋 | 6-2 hya酱 | 6-1 货拉拉 |
 | 2 | **太美丽了理塘** | 3-0 | 18-3 | +15 | -3 | 6-1 Yzh | 6-1 摩卡 | 6-1 大怨种 |
@@ -230,10 +237,6 @@ Monday, May 2, 2022:
 | 14 | bikabika | 1-2 | 7-17 | -10 | -3 | 1-6 摩卡 | 6-5 Yzh | 0-6 涩涩 |
 | 15 | Yzhhのqlll森林汪酱不会大叠 | 0-3 | 6-18 | -6 | +1 | 1-6 理塘 | 5-6 bika | 0-6 啊对对 |
 | 16 | 你没对象对不队 | 0-3 | 3-18 | -9 | -1 | 2-6 最强阵 | 1-6 MK | 0-6 啊不对 |
-
-¹ Seed: the top 8 advance to the next round\
-² Beatmap difference\
-³ Buchholz score
 
 ### Regular stage tiebreaker
 
@@ -255,9 +258,9 @@ Saturday, April 23, 2022:
 
 | Team A |  |  | Team B | Match link |
 | --:  |--: | :-- | :-- | :-: |
-| 青叶摩卡的百合后花园 | 3 | **6** | 皮蛋蛋吸手手俱乐部 | [#1](https://osu.ppy.sh/community/matches/100017943) |
-| 涩涩不队 | **6** | 0 | bikabika | [#1](https://osu.ppy.sh/community/matches/100018611) |
-| 可爱的hyahya酱上线啦！！ | **6** | 2 | MyAngel Koishi | [#1](https://osu.ppy.sh/community/matches/100018611) |
+| 青叶摩卡的百合后花园 | 3 | **6** | **皮蛋蛋吸手手俱乐部** | [#1](https://osu.ppy.sh/community/matches/100017943) |
+| **涩涩不队** | **6** | 0 | bikabika | [#1](https://osu.ppy.sh/community/matches/100018611) |
+| **可爱的hyahya酱上线啦！！** | **6** | 2 | MyAngel Koishi | [#1](https://osu.ppy.sh/community/matches/100018611) |
 
 Sunday, April 24, 2022:
 
@@ -453,6 +456,12 @@ Sunday, April 10, 2022:
 5. **Reschedules may only be requested by a team captain.**
    - **Do not ask for reschedule unless it is absolutely needed. The host reserves the right to decline any reschedule requests.**
 6. Captains are responsible for their teams' availability. The current team size exists to ensure every team can provide at least three players for each match. If teams cannot provide three players for a match, the match will be considered forfeited.
+
+## Notes
+
+[^rs-summary-seed]: Seed: the top 8 advance to the next round.
+[^rs-summary-bd]: Beatmap difference.
+[^rs-summary-bu]: Buchholz score.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"

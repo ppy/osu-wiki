@@ -120,7 +120,7 @@ Pour résoudre ce problème, assurez-vous que vous avez sélectionné le périph
 
 **Vous devrez partitionner l'appareil à partir de zéro.**
 
-Veuillez suivre [ce guide](https://staging.tails.boum.org/doc/first_steps/reset/windows.fr.html) pour savoir comment procéder.
+Veuillez suivre [ce guide](https://tails.boum.org/doc/reset/windows/index.en.html) pour savoir comment procéder.
 
 ### J'ai reformaté le périphérique osu!go et il apparaît maintenant dans la gestion des disques
 
