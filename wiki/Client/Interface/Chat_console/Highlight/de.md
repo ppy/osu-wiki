@@ -9,7 +9,7 @@ tags:
 
 # Highlight
 
-Ein Highlight (häufig abgekürzt mit HL, manchmal Erwähnung oder Ping genannt) ist eine Möglichkeit, um jemanden auf den Chat aufmerksam zu machen, wenn dieser online ist. Standardmäßig wird ein Highlight ausgelöst, wenn der Benutzername eines Spielers im Chat ausgeschrieben wird. Die Liste der Wörter, die hervorgehoben werden, können in den [Chat-Optionen von osu!](/wiki/Client/Options#in-game-chat) angepasst werden.
+Ein **Highlight** (häufig abgekürzt mit **HL**, manchmal **Erwähnung** oder **Ping** genannt) ist eine Möglichkeit, um jemanden auf den Chat aufmerksam zu machen, wenn dieser online ist. Standardmäßig wird ein Highlight ausgelöst, wenn der Benutzername eines Spielers im Chat ausgeschrieben wird. Die Liste der Wörter, die hervorgehoben werden, können in den [Chat-Optionen von osu!](/wiki/Client/Options#in-game-chat) angepasst werden.
 
 Es ist möglich, Highlights von bestimmten Spielern zu ignorieren, indem ihr Benutzername zur [Ignorierliste](/wiki/Client/Options/Ignore_list) mit einem angehängten `@h` dahinter hinzugefügt wird.
 
