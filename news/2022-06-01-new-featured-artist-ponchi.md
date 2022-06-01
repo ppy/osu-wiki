@@ -42,7 +42,7 @@ Or try [this slower set](https://osu.ppy.sh/beatmapsets/1742463) hosted by [-Aqu
 
 ### Anemone
 
-If that first map wasn't fast enough, maybe [this 256 BPM map](https://osu.ppy.sh/beatmapsets/1753715) hosted by [Strategas](https://osu.ppy.sh/users/2971837) will satisfy you.
+If that first map wasn't fast enough, maybe [this 256-BPM map](https://osu.ppy.sh/beatmapsets/1753715) hosted by [Strategas](https://osu.ppy.sh/users/2971837) will satisfy you.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/271/Songs/Ponchi%20feat.%20haxchi%20-%20Anemone.mp3" type="audio/mpeg">
@@ -50,9 +50,9 @@ If that first map wasn't fast enough, maybe [this 256 BPM map](https://osu.ppy.s
 
 ---
 
-[**Ponchi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/271) has even more music to latch onto, each with a pre-timed beatmap template to help you out.
+[**Ponchi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/271) has even more music to latch on to, each with a pre-timed beatmap template to help you out.
 
-In case you missed it, we're now running Featured Artist-themed playlists in osu!(lazer). The top 3 players in each ruleset's playlist at the end of the month will receive a sparkly new profile badge! Read all the details [here](https://osu.ppy.sh/home/news/2022-05-28-new-featured-artist-rameses-b#featured-artists-in-osu!(lazer)).
+In case you missed it, we're now running Featured Artist–themed playlists in osu!(lazer). The top 3 players in each ruleset's playlist at the end of the month will receive a sparkly new profile badge! Read all the details [here](https://osu.ppy.sh/home/news/2022-05-28-new-featured-artist-rameses-b#featured-artists-in-osu!(lazer)).
 
 If you need more music (and/or more circles), the [@osugame Twitter](https://twitter.com/osugame) has you covered. Keep your eyes peeled for another artist dropping this Saturday!
 
