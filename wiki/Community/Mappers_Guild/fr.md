@@ -2,6 +2,8 @@
 tags:
   - Mapper's Guild
   - MG
+outdated_translation: true
+outdated_since: 3cf46b29330f1d208f1b5390649747054db8a5a4
 ---
 
 # La Mappers' Guild
