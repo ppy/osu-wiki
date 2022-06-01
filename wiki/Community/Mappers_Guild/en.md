@@ -56,7 +56,7 @@ Members of the Mappers' Guild may also participate in the creation of showcase b
 
 ### Beatmapping Contests
 
-The Mappers' Guild is also used to manage beatmapping contests. Since 2020, all iterations of the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) have been hosted, screened, and judged using systems provided by the Mappers' Guild. Any users can host contests through the Mappers' Guild for increased accessibility to osu!'s mapping community.
+The Mappers' Guild is also used to manage beatmapping contests. Since January 2020, all iterations of the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) have been hosted, screened, and judged using systems provided by the Mappers' Guild. Any users can host contests through the Mappers' Guild for increased accessibility to osu!'s mapping community.
 
 ## History
 
