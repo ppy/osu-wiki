@@ -339,6 +339,10 @@ Bevorzuge: Beatmap Nominators können deine Beatmap nominieren.
 
 Artikel sollten einfache deutsche Grammatik verwenden.
 
+### Auslassungszeichen
+
+Hochkommata für die Auslassung von Buchstaben (z. B. geht's anstatt geht es oder versuch') dürfen nicht verwendet werden.
+
 ### Zahlen
 
 *Für die Zahlenformatierung, siehe [Wikipedias Schreibweise von Zahlen](https://de.wikipedia.org/wiki/Wikipedia:Schreibweise_von_Zahlen)*
