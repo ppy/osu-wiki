@@ -20,7 +20,7 @@ Perbedaan utama antara akun pribadi dan akun bot terdapat pada batas jumlah peng
 - Akun pribadi dapat mengirim 10 pesan per 5 detik
 - Akun bot dapat mengirim 300 pesan per 60 detik
 
-Batas jumlah pengiriman ini hanya berlaku untuk pesan pribadi, `#multiplayer`, dan `#spectator`. Akun bot tidak diperbolehkan mengirim pesan di *channel* lain, begitu pula dengan mengirimkan pesan pribadi tanpa seizin pengguna.
+Batas jumlah pengiriman ini hanya berlaku untuk pesan pribadi, `#multiplayer`, dan `#spectator`. Akun bot tidak diperbolehkan mengirim pesan di kanal lain, begitu pula dengan mengirimkan pesan pribadi tanpa seizin pengguna.
 
 ## Mendaftarkan akun bot
 
@@ -34,7 +34,7 @@ Sebelum mengirim pengajuan, tim dukungan mengharuskan bot tersebut memnuhi krite
 - Bot bersifat sepenuhnya *open-source* dan memiliki dokumentasi publik lengkap
 - Bot digunakan oleh setidaknya 50 pengguna berbeda setiap bulannya
 - Bot mematuhi batasan pengiriman pesan yang dimiliki akun pribadi
-- Bot tidak mengirim pesan apa pun di *channel* publik
+- Bot tidak mengirim pesan apa pun di kanal publik
 - Bot tidak mengirim pesan pribadi tanpa seizin pengguna
 - Bot digunakan demi kepentingan dan keuntungan komunitas osu!
 
