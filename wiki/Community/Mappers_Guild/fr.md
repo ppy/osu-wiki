@@ -56,7 +56,7 @@ Les membres de la Mappers' Guild peuvent également participer à la création d
 
 ### Concours de Beatmapping
 
-La Mappers' Guild gère également des concours de beatmapping. Depuis janvier 2020, toutes les itérations du [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) ont été hébergés, screenés et jugés en utilisant  les systèmes fournies pour la Mappers' Guild. Tous les utilisateurs peuvent héberger des concours au travers de la Mappers' Guild pour augmenter l’accessibilité de la communauté de mapping osu!.
+La Mappers' Guild gère également des concours de beatmapping. Depuis janvier 2020, toutes les itérations du [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) ont été hébergées, screenées et jugées en utilisant les systèmes fournis par la Mappers' Guild. Tous les utilisateurs peuvent héberger des concours au travers de la Mappers' Guild pour améliorer l’accessibilité de la communauté de mapping d'osu!.
 
 ## Histoire
 
