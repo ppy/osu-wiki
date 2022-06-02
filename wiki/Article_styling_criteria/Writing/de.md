@@ -353,13 +353,25 @@ Artikel sollten einfache deutsche Grammatik verwenden.
 
 Geviertstriche (`—`) müssen mit einem Leerzeichen davor und dahinter verwendet werden. Diese Regel trifft nicht auf [Blockzitate](#blockzitate) zu.
 
-### Blockzitate
+### Zitate
 
 Verweis auf [Wikipedias Artikel zum Format für Zitate](https://de.wikipedia.org/wiki/Wikipedia:Zitate#Beispiele).
 
 Füge abschließende Satzzeichen nur dann in die Anführungszeichen ein, wenn sie im Originaltext vorhanden waren und setze sie andernfalls nach dem schließenden Anführungszeichen. In den meisten Fällen bedeutet dies, dass Punkt und Komma genauso behandelt werden wie Fragezeichen: Sie stehen innerhalb der Anführungszeichen, wenn sie sich nur auf das zitierte Material beziehen, und außerhalb, wenn sie sich auf den gesamten Satz beziehen.
 
 Im weiteren Sinne sollten [Betonungen](/wiki/Article_styling_criteria/Formatting#betonung), [Links](/wiki/Article_styling_criteria/Formatting#links) und Klammern denselben Regeln bezogen auf die Zeichensetzung folgen (also, ob sie einen ganzen Satz oder nur einen Teil davon miteinbeziehen).
+
+### Blockzitate
+
+Wenn Text von jemandem zitiert wird, sollte die zitierte Person nach dem [Blockzitat](/wiki/Article_styling_criteria/Formatting#blockzitate) mit einem Geviertstrich (`—`) und einem Leerzeichen angegeben werden. Sofern das Originalzitat nicht aus dem Englischen stammt, spezifiziere die Sprache in Klammern.
+
+```markdown
+> bitte habt Spaß am Spiel
+
+— rrtyui (aus dem {Sprache} übersetzt)
+```
+
+Im Allgemeinen sollte die Quelle des Zitats darüber spezifiziert werden. Siehe die [obere Sektion](#zitate) für ein Beispiel. Beim Zitieren eines schriftlichen Artikels oder anderweitig, und nicht unbedingt eine spezifische Person, muss der Autor nicht unter dem Blockzitat angegeben werden.
 
 ## Aussprache
 

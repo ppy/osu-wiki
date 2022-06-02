@@ -860,12 +860,12 @@ Ein Turnier darf nicht von einem Team an unerfahrenen und unzuverlässigen Mitar
 
 ## Blockzitate
 
-Blockzitate sind auf das Zitieren von Texten einer anderen Person beschränkt. Sie dürfen nicht dazu benutzt werden, um anderen Text zu formatieren. Der Name der zitierten Person, der nach dem Zitat folgt, muss mit einem vorangestellten Geviertstrich (`—`) wie folgt geschrieben werden:
+Blockzitate sind darauf beschränkt, [jemanden oder etwas zu zitieren](/wiki/Article_styling_criteria/Writing#blockzitate). Sie dürfen nicht zur Formatierung von Text benutzt werden.
 
 ```markdown
 > bitte habt Spaß am Spiel
 
-—rrtyui
+— rrtyui
 ```
 
 ## Thematische Trennungen
