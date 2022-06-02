@@ -9,7 +9,7 @@ tags:
 
 # Akun bot
 
-**Akun bot** merupakan sebuah akun osu! khusus yang dijalankan oleh layanan otomatis dan bukan orang sungguhan. Jika dilihat di situs web, akun-akun ini memiliki lencana berlabel putih dan bertuliskan `BOT` dan hanya bagian `me!` yang terlihat di profil mereka. Akun bot paling sering digunakan untuk meng-*host* "bot obrolan" yang menawarkan berbagai fungsi kepada komunitas melalui *channel* ruangan [multiplayer](/wiki/Gameplay/Multiplayer) atau pesan pribadi.
+**Akun bot** merupakan sebuah akun osu! khusus yang dijalankan secara otomatis, bukan dijalankan oleh orang sungguhan. Jika dilihat di situs web, akun-akun ini memiliki lencana berlabel putih dan bertuliskan `BOT` dan hanya bagian `me!` yang terlihat di profil mereka. Akun bot paling sering digunakan untuk meng-*host* "bot obrolan" yang menawarkan berbagai fungsi kepada komunitas melalui kanal lobi [multiplayer](/wiki/Gameplay/Multiplayer) atau pesan pribadi.
 
 Akun bot hanya dapat dibuat melalui [proses pengajuan](#mendaftarkan-akun-bot). Upaya membuat akun bot dengan mendaftarkan akun osu! seperti biasa akan dianggap sebagai memiliki banyak akun dan merupakan pelanggaran terhadap [peraturan komunitas](/wiki/Rules#peraturan-komunitas).
 
@@ -40,9 +40,9 @@ Sebelum mengirim pengajuan, tim dukungan mengharuskan bot tersebut memnuhi krite
 
 ### Mengajukan permintaan
 
-Jika bot kamu memenuhi kriteria yang tertera di atas, kamu dapat melakukan pengajuan pembuatan akun bot untuk bot tersebut.
+Jika bot kamu memenuhi kriteria yang tertera di atas, kamu dapat melakukan pengajuan pembuatan akun bot.
 
-Silakan mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan judul `Bot Account Request`. Email ini harus dikirim dari alamat email yang tersambung dengan akun osu! kamu.
+Silakan kirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan judul `Bot Account Request`. Email ini harus dikirim dari alamat email yang tersambung dengan akun osu! kamu.
 
 Isi email tersebut harus meliputi hal-hal berikut:
 
