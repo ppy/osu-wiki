@@ -520,6 +520,8 @@ Vorformatierter Text (auch bekannt als Codeblöcke) muss mit drei Akuten umrande
 
 ## Links
 
+*Siehe auch: [Fußnoten](#fußnoten)*
+
 Es gibt zwei Arten von Links: Inline und als Verweis. Inline hat zwei Stile.
 
 Das folgende ist ein Beispiel mit beiden Inline-Stilen:
@@ -805,6 +807,55 @@ Das folgende ist ein Beispiel, wie eine Tabelle aussehen sollte:
 | Ryūta | 3 - 4 | **Yuzu** | 5.1 Sterne |
 | **Taikonator** | 7 - 0 | Tama | 13.37 Sterne |
 | Maria | Kein ausgetragenes Spiel | Mocha |  |
+```
+
+## Fußnoten
+
+Fußnoten sind kurze Notizen am Ende einer Seite. Sie werden zum Zitieren von Quellen oder dem Bereitstellen von Hintergrundinformationen verwendet, die ansonsten den Lesefluss des Artikels beeinträchtigen würden. Fußnoten dürfen formatierten Text und Links enthalten.
+
+Im osu!-Wiki werden Fußnoten mit einer speziellen Syntax (`[^identifier]`) implementiert. Fußnoten können jede Kennung haben, werden aber automatisch als hochgestellte Zahlen mit steigendem Wert in der Reihenfolge ihres ersten Erscheinens erstellt. Die Fußnoten selbst müssen in einem separaten Abschnitt mit dem Überschriftenlevel 2 am Ende des Artikels platziert werden. Abhängig von Inhalt muss die Überschrift `Referenzen`, `Anmerkungen` oder `Anmerkungen und Referenzen` sein.
+
+Verweise auf Fußnoten werden direkt nach den Wörtern oder Sätzen platziert, die sie erklären, ohne Leerzeichen dazwischen. Diese Verweise müssen nach der Interpunktion gesetzt werden, mit Ausnahme von Gedankenstrichen und Klammern, sofern sie sich auf den Inhalt darin beziehen.<!-- Translated from https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_and_footnotes --><!--As a side note, this rule is fine for German, though I'm not sure about other languages and I feel like this should be more part of `Writing` than `Formatting`.-->
+
+Beispiele der korrekten Benutzung:
+
+```markdown
+Das osu!-wiki ist ein Projekt, das das alte FAQ-System ersetzen sollte.[^wiki-faq] Es wurde nach dem Rhythmusspiel osu![^osu] und der größten offenen Online-Enzyklopädie Wikipedia benannt. Von Anfang an hatte es geschickte Übersetzer[^wiki-tl] und Redakteure angezogen.
+
+## Referenzen
+
+[^wiki-faq]: https://osu.ppy.sh/community/forums/topics/68525
+[^wiki-tl]: https://osu.ppy.sh/community/forums/posts/1177500
+[^osu]: https://osu.ppy.sh/community/forums/posts/1178153
+```
+
+### Zitate
+
+Zitate oder Referenzen werden benutzt, um eine Informationsquelle zu identifizieren. Zitate in Fußnoten sollten gegenüber Inline-Links bevorzugt werden.
+
+Beispiel:
+
+```markdown
+Die erste Version der osu!api wurde am 2. Juli 2013 zur Verfügung gestellt.[^api-first-usage] Es wurde von den Nutzern gelobt.[^api-praise]
+
+## Referenzen
+
+[^api-first-usage]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
+```
+
+### Anmerkungen
+
+Fußnoten dürfen verwendet werden, um Erklärungen oder Randbemerkungen zu hinterlegen, die nicht im Text untergebracht werden können, ohne die Lesbarkeit des Artikels zu verschlechtern, oder die weniger bedeutend als der Artikel selbst sind. Solche Fußnoten dürfen eine Freiformtext benutzen.
+
+Beispiel:
+
+```markdown
+Ein Turnier darf nicht von einem Team an unerfahrenen und unzuverlässigen Mitarbeitern organisiert und betrieben werden.[^staff]
+
+## Anmerkungen
+
+[^staff]: Ein *unerfahrener* Mitarbeiter ist grob definiert als jemand, der osu! weniger als eine Stunde insgesamt gespielt hat.
 ```
 
 ## Blockzitate
