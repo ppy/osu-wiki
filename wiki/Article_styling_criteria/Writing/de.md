@@ -126,7 +126,7 @@ Registered-Trade-Mark-Symbole dürfen nicht hinter der Marke stehen.
 
 Die Formate in [Wikipedia:Datumskonventionen](https://de.wikipedia.org/wiki/Wikipedia:Datumskonventionen) sind alles akzeptierte Formate für Daten. Datenformate sollten konsistent innerhalb eines Artikels sein.
 
-Das Datenformat `YYYY-MM-DD` sollte nur in Tabellen benutzt werden.
+In Tabellen sollte nur das Datenformat `TT.MM.JJJJ` verwendet werden. Für Datenbereiche in Tabellen gilt das Format `TT.MM.JJJJ bis TT.MM.JJJJ`.
 
 ### Zeitformatierung
 
