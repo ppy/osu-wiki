@@ -23,7 +23,9 @@ Sustained behaviour in conflict with these expectations is grounds for dismissal
   - **Falling below the 90 day requirements with more than 60 days worth of nominations will result in an activity warning.** 
   - When warned for activity, minimum activity requirements for your respective game mode(s) must be met over the course of one month. 
   - Failing to meet the required minimum when being warned for it prior may result in removal from the Beatmap Nominators.
-- **You cannot exceed 75 unique nominations over any 90 day period.** Those exceeding this amount will first be warned and then removed if they do not manage their activity accordingly.
+- Beatmap Nominators are expected to stay below a maximum number of nominations over any 90-day period, with each mode having its own nomination cap. Exceeding this amount will lead to a warning, followed by a removal if they fail to manage their activity accordingly.
+  - osu!, osu!catch, osu!mania: 75 unique nominations.
+  - osu!taiko: 100 unique nominations.
 
 ### Requirements
 

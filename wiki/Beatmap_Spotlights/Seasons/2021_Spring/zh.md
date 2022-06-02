@@ -14,15 +14,15 @@ tags:
 | 阶段 | 时间 |
 | :-- | :-- |
 | 赛季开始 | 2021 年 4 月 29 日 |
-| 时移多人游戏大厅：图池 A | 2021 年 5 月 3 日 - 5 月 10 日 |
-| 时移多人游戏大厅：图池 B | 2021 年 5 月 10 - 5 月 7 日 |
-| 时移多人游戏大厅：图池 C | 2021 年 5 月 17 - 5 月 24 日 |
-| 时移多人游戏大厅：图池 D | 2021 年 5 月 24 日 - 5 月 31 日 |
+| 时移多人游戏大厅：歌单 A | 2021 年 5 月 3 日 - 5 月 10 日 |
+| 时移多人游戏大厅：歌单 B | 2021 年 5 月 10 日 - 5 月 7 日 |
+| 时移多人游戏大厅：歌单 C | 2021 年 5 月 17 日 - 5 月 24 日 |
+| 时移多人游戏大厅：歌单 D | 2021 年 5 月 24 日 - 5 月 31 日 |
 | 中场休息 | 2021 年 5 月 31 日 -  6 月 7 日 |
-| 时移多人游戏大厅：图池 A | 2021 年 6 月 7 日 - 6 月 14 日 |
-| 时移多人游戏大厅：图池 B | 2021 年 6 月 14 日 - 6 月 21 日 |
-| 时移多人游戏大厅：图池 C | 2021 年 6 月 21 日 -  6 月 28 日 |
-| 时移多人游戏大厅：图池 D | 2021 年 6 月 28 日 - 7 月 5 日 |
+| 时移多人游戏大厅：歌单 A | 2021 年 6 月 7 日 - 6 月 14 日 |
+| 时移多人游戏大厅：歌单 B | 2021 年 6 月 14 日 - 6 月 21 日 |
+| 时移多人游戏大厅：歌单 C | 2021 年 6 月 21 日 -  6 月 28 日 |
+| 时移多人游戏大厅：歌单 D | 2021 年 6 月 28 日 - 7 月 5 日 |
 | 赛季结算 | 2021 年 7 月 5 日 |
 
 ## 每周多人游戏大厅
@@ -31,21 +31,21 @@ tags:
 
 1. 赛季每周将会打开一个时移多人游戏大厅，每大厅在整个开放期间都可参加。
    - 将有一周的中场休息时间，之后重复休息之前的时间表。
-2. 每个时移多人游戏大厅都包含一个预定义的图池。
-   - 每个图池都是赛季图池中的一个子图池。
-   - 每个图池内所包含的 Hard，Insane 和 Expert 难度均匀分布。
-   - 每个图池与每周分配的字母相对应。因此，每个图池在一个赛季中都会被重复一次次。
-3. 在时移大厅中，每个人都可以争夺特定房间的排行榜。
-   - 房间排行榜基于 Ranked 谱面分数系统。因此，只有最佳成绩会被计入排行榜当中，排行榜分数为房间图池分数的总和。
-   - 图池中所有谱面均计入排行榜。高星谱面不会增加更多的分数。
+2. 每个时移多人游戏大厅会提供一个提前准备好的歌单。
+   - 每个歌单都是该赛季挑选的所有谱面中的一个子集。
+   - 每个歌单内所包含的 Hard，Insane 和 Expert 难度均匀分布。
+   - 每个歌单与每周分配的字母相对应。因此，每个歌单在该赛季中都会被重复一次。
+3. 在时移大厅中，每个人都可以争夺特定大厅的排行榜。
+   - 大厅排行榜基于 Ranked 谱面分数系统。因此，只有最佳成绩会被计入排行榜当中，排行榜分数为大厅所有谱面分数的总和。
+   - 歌单中所有谱面均计入排行榜。游玩高星谱面不会获得额外的分数。
    - 所有谱面分数均基于 osu!(lazer) 的分数系统。
-4. 时移大厅关闭后，房间内所有参与者的周 Ranked 谱面总分将添加到月赛排行榜当中。
+4. 时移大厅关闭后，大厅内所有玩家的周 Ranked 谱面总分将添加到赛季排行榜当中。
 
-## 图池
+## 歌单
 
 ### osu!
 
-#### 图池 A
+#### 歌单 A
 
 - [Hana - Kuukirikigaku Shoujo to Shounen no Uta (Luscent) \[JeZag & Cyndere's Collab Hard\]](https://osu.ppy.sh/beatmapsets/1164291#osu/2744107)
 - [Yorushika - Spring Thief (Moecho) \[Scent of Spring, Taste of Wind, Scattering of Cherry Blossoms\]](https://osu.ppy.sh/beatmapsets/1348249#osu/2791894)
@@ -53,7 +53,7 @@ tags:
 - [Cranky - Libera me (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/1085726#osu/2270319)
 - [Rigel Theatre - Lurie (DeviousPanda) \[A Story Through Music\]](https://osu.ppy.sh/beatmapsets/909302#osu/1897497)
 
-#### 图池 B
+#### 歌单 B
 
 - [Masahiro "Godspeed" Aoki - Blaze (Niva) \[Hard\]](https://osu.ppy.sh/beatmapsets/1323877#osu/2756022)
 - [Polyphia - G.O.A.T. (Mir) \[Yukiyo's Insane\]](https://osu.ppy.sh/beatmapsets/1187509#osu/2810141)
@@ -61,7 +61,7 @@ tags:
 - [Hana - Gekka Jasmine (2014ver.) (PinkHeart) \[Jasmine\]](https://osu.ppy.sh/beatmapsets/408745#osu/887502)
 - [THE ORAL CIGARETTES - Slowly but surely I go on (help) \[Expert\]](https://osu.ppy.sh/beatmapsets/1212436#osu/2718073)
 
-#### 图池 C
+#### 歌单 C
 
 - [3L - Amoritachite Kami To Miyu (TicClick) \[Hard\]](https://osu.ppy.sh/beatmapsets/198034#osu/469800)
 - [kors k - Love Is Eternity (PandaHero) \[Another\]](https://osu.ppy.sh/beatmapsets/836980#osu/1752575)
@@ -69,7 +69,7 @@ tags:
 - [Rohi - Kanata ni Mau wa Sakura no Shirabe (NatsumeRin) \[RLQuillab Insane\]](https://osu.ppy.sh/beatmapsets/93555#osu/267773)
 - [Venetian Snares - My Half (fergas) \[Downfall\]](https://osu.ppy.sh/beatmapsets/1286665#osu/2671403)
 
-#### 图池 D
+#### 歌单 D
 
 - [Mizuki Nana - PHANTOM MINDS (Lasse) \[Hard\]](https://osu.ppy.sh/beatmapsets/1301407#osu/2699267)
 - [Natsushiro Takaaki - Near feat. Hatsune Miku (\[Hatsune Miku\]) \[Time Machine\]](https://osu.ppy.sh/beatmapsets/1284534#osu/2667326)
@@ -79,7 +79,7 @@ tags:
 
 ### osu!taiko
 
-#### 图池 A
+#### 歌单 A
 
 - [Ryu\* - We're so Happy (Spy) \[m1ng's Inner Oni\]](https://osu.ppy.sh/beatmapsets/120838#taiko/314179)
 - [SECONDWALL - Light (Volta) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1318825#taiko/2732076)
@@ -87,7 +87,7 @@ tags:
 - [Ono Hideyuki - sola (Mapper 31) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/131347#taiko/330868)
 - [Otogibara Era, Warabeda Meiji - 1+1 de Q.E.D.!! (taiko\_ryuki) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1107475#taiko/2318105)
 
-#### 图池 B
+#### 歌单 B
 
 - [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek) \[TK'S Muzukashii\]](https://osu.ppy.sh/beatmapsets/139525#taiko/361158)
 - [EastNewSound - Hana wa Gensou no Hate Ni (\_Gezo\_) \[Oni\]](https://osu.ppy.sh/beatmapsets/290314#taiko/654058)
@@ -95,7 +95,7 @@ tags:
 - [pm04034 - Nonspeed (Axer) \[inner oni\]](https://osu.ppy.sh/beatmapsets/1134649#taiko/2387792)
 - [BlackY - Nobodyknows Eden (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/768440#taiko/1722532)
 
-#### 图池 C
+#### 歌单 C
 
 - [Amon Amarth - Shield Wall (frukoyurdakul) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1327059#taiko/2750895)
 - [Chroma - tiny tales continue (ensan71714) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/785389#taiko/1648625)
@@ -103,7 +103,7 @@ tags:
 - [Nakiri Ayame - Deep Indigo (\[Zeth\]) \[Oni\]](https://osu.ppy.sh/beatmapsets/1194116#taiko/2494752)
 - [Zekk - Ashes (Faputa) \[Activation\]](https://osu.ppy.sh/beatmapsets/1144916#taiko/2390371)
 
-#### 图池 D
+#### 歌单 D
 
 - [Silentroom - Nhelv (Nifty) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/928849#taiko/1947270)
 - [t+pazolite - seedy try (Stingy) \[oni\]](https://osu.ppy.sh/beatmapsets/680385#taiko/1438644)
@@ -113,7 +113,7 @@ tags:
 
 ### osu!catch
 
-#### 图池 A
+#### 歌单 A
 
 - [siqlo - Purple Hyacinth feat. Norico (Rocma) \[Platter\]](https://osu.ppy.sh/beatmapsets/1245826#fruits/2589589)
 - [Daniel Olsen, Jonathan Eng - Wild Hearts Never Die (feat. Linnea Olsson) (ZiRoX) \[Platter\]](https://osu.ppy.sh/beatmapsets/1330448#fruits/2756540)
@@ -121,7 +121,7 @@ tags:
 - [Amuro vs. Killer - Mei (Camellia's "Yomigae" Remix) (Spectator) \[Rain\]](https://osu.ppy.sh/beatmapsets/1246989#fruits/2653218)
 - [IAHN - Melody of Heaven (Original Mix) (JBHyperion) \[Team Russian Federation's Overdose\]](https://osu.ppy.sh/beatmapsets/1025255#fruits/2144404)
 
-#### 图池 B
+#### 歌单 B
 
 - [Kalafina - believe (CLSW) \[Platter\]](https://osu.ppy.sh/beatmapsets/316647#fruits/705528)
 - [Tsukasa - One Way Love (Dapuluous) \[Love\]](https://osu.ppy.sh/beatmapsets/1290396#fruits/2678699)
@@ -129,7 +129,7 @@ tags:
 - [Creo - Challenger (Rocma) \[Challenge\]](https://osu.ppy.sh/beatmapsets/966240#fruits/2022498)
 - [ZUTOMAYO - Humanoid (Jemzuu) \[Liyac's Overdose\]](https://osu.ppy.sh/beatmapsets/1052572#fruits/2552702)
 
-#### 图池 C
+#### 歌单 C
 
 - [Zekk - SUMMER (Spectator) \[Platter\]](https://osu.ppy.sh/beatmapsets/1393068#fruits/2894330)
 - [Sakuzyo - Magical Musical Master (Rocma) \[Nelly's Rain\]](https://osu.ppy.sh/beatmapsets/1097927#fruits/2315442)
@@ -137,7 +137,7 @@ tags:
 - [siqlo - Me & U (Jemzuu) \[Rain\]](https://osu.ppy.sh/beatmapsets/1225300#fruits/2554078)
 - [Synthion - Aurora (wonjae) \[Polaris\]](https://osu.ppy.sh/beatmapsets/1290796#fruits/2679394)
 
-#### 图池 D
+#### 歌单 D
 
 - [Feryquitous feat. Sennzai - Rugie (Jemzuu) \[Platter\]](https://osu.ppy.sh/beatmapsets/1338217#fruits/2772123)
 - [Masayoshi Minoshima feat. Ayakura Mei - Lionheart (Secre) \[Heart of Lions\]](https://osu.ppy.sh/beatmapsets/1142369#fruits/2385749)
@@ -147,7 +147,7 @@ tags:
 
 ### osu!mania
 
-#### 图池 A
+#### 歌单 A
 
 - [Billie Eilish - bury a friend (Cut Ver.) (Monheim) \[false awakening\]](https://osu.ppy.sh/beatmapsets/1039475#mania/2172838)
 - [EVERGLOW - DUN DUN (Garalulu) \[PENGDOLL'S HYPER\]](https://osu.ppy.sh/beatmapsets/1217089#mania/2532342)
@@ -155,7 +155,7 @@ tags:
 - [The Black Dahlia Murder - Deathmask Divine (Davvy) \[April & Tim's Necromance\]](https://osu.ppy.sh/beatmapsets/1363029#mania/2819895)
 - [John Wasson - Caravan (Evening) \[drown\]](https://osu.ppy.sh/beatmapsets/1086739#mania/2272532)
 
-#### 图池 B
+#### 歌单 B
 
 - [DIVERSA - i use raw expectation to unlock placebo. the placebo is the next thing i do. (Parachor) \[.\_//- [Advanced]\]](https://osu.ppy.sh/beatmapsets/610265#mania/1288556)
 - [cillia - FIRST (juankristal) \[MX\]](https://osu.ppy.sh/beatmapsets/512408#mania/1088936)
@@ -163,7 +163,7 @@ tags:
 - [Silentroom - Shuu no Hazama (Cut Ver.) (Monheim) \[Insane\]](https://osu.ppy.sh/beatmapsets/1321003#mania/2736533)
 - [Digitalism - Falling (Mipha-) \[Descent\]](https://osu.ppy.sh/beatmapsets/1259322#mania/2617879)
 
-#### 图池 C
+#### 歌单 C
 
 - [DAOKO x Yonezu Kenshi - Uchiage Hanabi (Mat) \[Incandescent\]](https://osu.ppy.sh/beatmapsets/672250#mania/1421082)
 - [Exivious - One's Glow (Davvy) \[Essence\]](https://osu.ppy.sh/beatmapsets/1336470#mania/2768715)
@@ -171,7 +171,7 @@ tags:
 - [DJ SHARPNEL - Touch the angel (pporse) \[K-ON!!\]](https://osu.ppy.sh/beatmapsets/304422#mania/681992)
 - [Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches) (Hydria) \[Aural Annihilation\]](https://osu.ppy.sh/beatmapsets/1034114#mania/2162156)
 
-#### 图池 D
+#### 歌单 D
 
 - [Rush - YYZ (Cut Ver.) (Pope Gadget) \[ilikexd's MX\]](https://osu.ppy.sh/beatmapsets/1285555#mania/2669198)
 - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/860089#mania/2007200)

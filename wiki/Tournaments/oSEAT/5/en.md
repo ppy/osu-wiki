@@ -92,18 +92,14 @@ Listed below are the players who managed to qualify into the Preliminary groups 
 | F | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | ![][flag_SG] [RePeaTT](https://osu.ppy.sh/users/11132323) | ![][flag_SG] [marcellasne\_](https://osu.ppy.sh/users/6622650) | ![][flag_PH] [Swish0s](https://osu.ppy.sh/users/10971042) |
 | G | ![][flag_MY] [Mumei Nanashi](https://osu.ppy.sh/users/5414124) | ![][flag_MY] [Ltwoed](https://osu.ppy.sh/users/13670830) | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) |
 | H | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) | ![][flag_SG] [sinn](https://osu.ppy.sh/users/4262229) |
-| I | ![][flag_US] (![][flag_PH]) [\_Kolin](https://osu.ppy.sh/users/7249644)¹ | ![][flag_MY] [Agagak](https://osu.ppy.sh/users/3645490) | ![][flag_SG] [Inquisitives](https://osu.ppy.sh/users/10722794) | ![][flag_SG] [OppaiSuki](https://osu.ppy.sh/users/1285403) |
+| I | ![][flag_US] (![][flag_PH]) [\_Kolin](https://osu.ppy.sh/users/7249644)[^flag-note-1] | ![][flag_MY] [Agagak](https://osu.ppy.sh/users/3645490) | ![][flag_SG] [Inquisitives](https://osu.ppy.sh/users/10722794) | ![][flag_SG] [OppaiSuki](https://osu.ppy.sh/users/1285403) |
 | J | ![][flag_VN] [\[sin\]](https://osu.ppy.sh/users/11021073) | ![][flag_PH] [aurora on osu](https://osu.ppy.sh/users/12352050) | ![][flag_MY] [Floth](https://osu.ppy.sh/users/11134301) | ![][flag_MY] [LITFAM123](https://osu.ppy.sh/users/13584478) |
 | K | ![][flag_ID] [Tazkiz](https://osu.ppy.sh/users/3738010) | ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462) | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) | ![][flag_SG] [JokThree](https://osu.ppy.sh/users/7713152) |
 | L | ![][flag_PH] [2 and eight](https://osu.ppy.sh/users/8923608) | ![][flag_ID] [DeathAdderz](https://osu.ppy.sh/users/7457788) | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_MY] [\_Rel\_](https://osu.ppy.sh/users/11622287) |
 | M | ![][flag_TH] [Yorocchi](https://osu.ppy.sh/users/5286218) | ![][flag_SG] [Grantorio](https://osu.ppy.sh/users/5623529) | ![][flag_VN] [Phoeni\_](https://osu.ppy.sh/users/14953642) | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) |
-| N | ![][flag_PH] [NathanSS](https://osu.ppy.sh/users/8500628) | ![][flag_ID] [DeZpair](https://osu.ppy.sh/users/7518843) | ![][flag_PH] [ChaeY\_Milk](https://osu.ppy.sh/users/10383440) | ![][flag_JP] (![][flag_PH]) [ZHKPN](https://osu.ppy.sh/users/13042221)² |
+| N | ![][flag_PH] [NathanSS](https://osu.ppy.sh/users/8500628) | ![][flag_ID] [DeZpair](https://osu.ppy.sh/users/7518843) | ![][flag_PH] [ChaeY\_Milk](https://osu.ppy.sh/users/10383440) | ![][flag_JP] (![][flag_PH]) [ZHKPN](https://osu.ppy.sh/users/13042221)[^flag-note-2] |
 | O | ![][flag_ID] [-TwiHD](https://osu.ppy.sh/users/5470299) | ![][flag_MY] [Houshou Marine](https://osu.ppy.sh/users/6402211) | ![][flag_SG] [D3rpyB01](https://osu.ppy.sh/users/11772019) | ![][flag_SG] [Shleepy](https://osu.ppy.sh/users/8486823) |
 | P | ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979) | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | ![][flag_SG] [kirkirs](https://osu.ppy.sh/users/9902622) | ![][flag_SG] [hollowknees](https://osu.ppy.sh/users/15195364) |
-
-¹ *Despite having the ![][flag_US] American flag on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Philippine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
-
-² *Despite having the ![][flag_JP] Japanese flag on their profile, [ZHKPN](https://osu.ppy.sh/users/13042221) is eligible to participate in the tournament as they are a citizen of ![][flag_PH] The Philippines living abroad.*
 
 ## Podium
 
@@ -934,6 +930,11 @@ Sunday, 6 December 2021:
 6. In case of a tiebreaker, each player will discreetly ban 1 of the 3 remaining available beatmaps from the mappool. This is done by sending an in-game PM with your ban to the match referee. The one beatmap that ends up not being banned by both players will be played as the tiebreaker.
    - If both players ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
+
+## Notes
+
+[^flag-note-1]: Despite having the ![][flag_US] American flag on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Philippine passport](https://en.wikipedia.org/wiki/Philippine_passport).
+[^flag-note-2]: Despite having the ![][flag_JP] Japanese flag on their profile, [ZHKPN](https://osu.ppy.sh/users/13042221) is eligible to participate in the tournament as they are a citizen of ![][flag_PH] The Philippines living abroad.
 
 [flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"

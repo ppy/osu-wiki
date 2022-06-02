@@ -4,7 +4,7 @@ tags:
   - modding V2
   - MV2
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: 5f24e4b2df25bd38f386bd2cd48e541ebc2e1095
 ---
 

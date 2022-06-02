@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: f49638dd8e8f6f5cdb494797a380997cc18ee4ce
 tags:
   - pp committee

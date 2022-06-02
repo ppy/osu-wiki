@@ -1,6 +1,6 @@
 ---
 layout: main_page
-outdated: true
+outdated_translation: true
 outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 ---
 

@@ -348,9 +348,9 @@ Cette section concerne le tchat, les spectateurs, le multi, et osu!direct.
 | :-- | :-- | :-- | :-- |
 | `Nouveau messages du chat en bas de l'écran` | Affiche le message de tchat le plus récent en bas de l'écran. Le message qui s'affiche provient du channel que vous regardez actuellement. | Case à cocher | `Désactivé` |
 | `Rétracter le chat pendant les parties` | Si le tchat est ouvert pendant les pauses ou les menus du jeu, le client le cache automatiquement lorsque le jeu reprend. | Case à cocher | `Activé` |
-| `Notifier si mon nom est mentionné` | Lorsque quelqu'un mentionne votre nom d'utilisateur dans le tchat, une notification apparaît. | Case à cocher | `Activé` |
+| `Notifier si mon nom est mentionné` | Lorsque quelqu'un [mentionne](/wiki/Client/Interface/Chat_console/Highlight) votre nom d'utilisateur dans le tchat, une notification apparaît. | Case à cocher | `Activé` |
 | `Notifier à l'arrivée de nouveaux messages` | Affiche une notification, lorsque de nouveaux messages de tchat arrivent. | Case à cocher | `Activé` |
-| `Jouer un son si mon nom est mentionné` | Lorsque quelqu'un mentionne votre nom d'utilisateur dans le tchat, un son est émis. | Case à cocher | `Activé` |
+| `Jouer un son si mon nom est mentionné` | Lorsque quelqu'un [mentionne](/wiki/Client/Interface/Chat_console/Highlight) votre nom d'utilisateur dans le tchat, un son est émis. | Case à cocher | `Activé` |
 | `Permettre aux joueurs de voir ma ville` | Partage l'emplacement de votre ville dans votre carte d'utilisateur (notez que votre pays est déjà partagé). | Case à cocher | `Désactivé` |
 | `Liste de mes spectateurs pendant les parties` | Affiche une liste des spectateurs actuels à gauche de l'écran pendant le jeu. | Case à cocher | `Activé` |
 | `Envoi automatique de liens vers les beatmaps aux spectateurs` | Envoie la beatmap en cours de lecture au canal `#spectator` lorsque vous avez des spectateurs. | Case à cocher | `Activé` |
@@ -377,7 +377,7 @@ Cette section concerne le tchat, les spectateurs, le multi, et osu!direct.
 | `Conserver une copie des messages privés` | Les messages privés seront enregistrés dans le dossier `osu!/Logs`. | Case à cocher | `Désactivé` |
 | `Autoriser uniquement les messages privés de mes amis` | En activant cette option, les messages privés seront réservés aux amis. | Case à cocher | `Désactivé` |
 | `Utilisateurs à ignorer (séparer avec des espaces) :` | Les mots que vous mettez ici seront ignorés. | Texte | *(vide)* |
-| `Mots à notification (séparer avec des espaces) :` | Les mots que vous placez ici seront mis en évidence dans le tchat. | Texte | *(vide)* |
+| `Mots à notification (séparer avec des espaces) :` | Les mots que vous placez ici seront mis en [évidence dans le tchat](/wiki/Client/Interface/Chat_console/Highlight). | Texte | *(vide)* |
 
 ## Maintenance
 
