@@ -351,7 +351,7 @@ Artikel sollten einfache deutsche Grammatik verwenden.
 
 ### Geviertstrich
 
-Geviertstriche (`—`) müssen mit einem Leerzeichen davor und dahinter verwendet werden. Diese Regel trifft nicht auf [Blockzitate](#blockzitate) zu.
+Geviertstriche (`—`) müssen mit einem Leerzeichen davor und dahinter verwendet werden. In [Blockzitaten](#blockzitate) haben Geviertstriche nur ein Leerzeichen auf ihrer rechten Seite. Bindestriche (`-`) dürfen nicht an Stelle von Geviertstrichen verwendet werden.
 
 ### Zitate
 
