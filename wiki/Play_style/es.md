@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # Estilos de Juego
@@ -67,10 +67,8 @@ Si la pantalla táctil lo admite, se puede usar un lápiz sobre ella, volviéndo
 
 ### Otros estilos
 
-- **Trackpad de un portátil/laptop**: Aunque parece una buena opción en la teoría, muchos jugadores prefieren no usar el trackpad del ordenador portátil, ya que añade mucha dificultad al control del cursor.
-La mayoría de los jugadores solo usan el trackpad para navegar los menús del juego.
-- **Joystick**: Una forma creativa de controlar el cursor es utilizar un Joystick para mover el cursor y utilizar el gatillo o botones incluidos en él o un teclado para *hacer clic*.
-A no ser que el jugador ya domine de antemano el uso del Joystick, mover el cursor con él requerirá mucho más tiempo de aprendizaje que el resto de periféricos mencionados anteriormente.
+- **Trackpad de un portátil/laptop**: Aunque parece una buena opción en la teoría, muchos jugadores prefieren no usar el trackpad del ordenador portátil, ya que añade mucha dificultad al control del cursor. La mayoría de los jugadores solo usan el trackpad para navegar los menús del juego.
+- **Joystick**: Una forma creativa de controlar el cursor es utilizar un Joystick para mover el cursor y utilizar el gatillo o botones incluidos en él o un teclado para *hacer clic*. A no ser que el jugador ya domine de antemano el uso del Joystick, mover el cursor con él requerirá mucho más tiempo de aprendizaje que el resto de periféricos mencionados anteriormente.
 - **Placas metálicas**: Una manera muy especial de reemplazar un teclado, introducida por el jugador ![][flag_US] [geckogates](https://osu.ppy.sh/users/geckogates), que requiere cierto conocimiento de electrónica para preparar: se usan unas placas metálicas conectadas al circuito del teclado para usarlas en lugar de las teclas.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko

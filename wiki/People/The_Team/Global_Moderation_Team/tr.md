@@ -108,7 +108,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Kantonca, Çince | Sohbet moderasyonu |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Korece, Japonca | Sohbet moderasyonu |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Mapping/modding topluluk moderasyonu |
-| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Arapça, Malay dili | Sohbet moderasyonu |
+| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Malay dili | Sohbet moderasyonu |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | İspanyolca | Sohbet moderasyonu |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Almanca | Forum moderasyonu |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korece | Sohbet moderasyonu |
@@ -134,7 +134,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 
 | Kanal | Alt forum | Moderatörler |
 | :-- | :-- | :-- |
-| `#arabic` |  | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) |
+| `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) |
