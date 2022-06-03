@@ -30,7 +30,7 @@ Important to understand before using:
 ### Rules
 
 - **No two hit objects can be placed on the same tick.** This includes hit circles and the durations of sliders and spinners. osu!mania difficulties are exempt from this.
-- **No two inputs can be less than 20 milliseconds apart.** osu!mania and osu!catch difficulties are exempt from this.
+- **No two key presses can be less than 20 milliseconds apart.** osu!mania and osu!catch difficulties are exempt from this.
 - **There must not be any obscene imagery in the [background](/wiki/Beatmap/Background)/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. See [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations) for more detailed rules.
 - **Difficulties that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz (i.e. 3 flashes per second) and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
 - **There must not be any unused files or 0-byte files in the beatmap's folder.** 0-byte files prevent other files in a beatmap's folder from properly uploading. Automatically generated `thumbs.db` files are the only exceptions.
@@ -107,7 +107,7 @@ Important to understand before using:
 - **Commas, `vs.`, `feat.`, `CV:` and any other symbols linking or designating artists must include a trailing space.** Excluding commas, a leading space is also required if the marker is preceded by a word.
 - **Any form of `vs.`, `VS`, etc. must be written as `vs.` when used as an indicator for collaboration between two or more artists.** Alternative casing may be used to match the rest of the field.
 - **Any form of `feat.`, `feat`, `ft.`, etc. must be written as `feat.` when used as an indicator for an artist featured in the song.** Alternative casing may be used to match the rest of the field.
-- **When a fictional character is credited as the singer of a song, their credit is to be formatted in a `Character (CV: Voice Actor)` or `Character (VO: Voice Actor)` format.** For live action, credit the voice actor only.
+- **When a fictional character is credited as the singer of a song, their credit is to be formatted in a `Character (CV: Voice Actor)` or `Character (VO: Voice Actor)`[^character-voice-actor] format.** For live action, credit the voice actor only.
 - **If a song is used in a television program, web series, or direct-to-video series, such as an opening/ending/insert song, use a `(TV Size)` marker at the end of the current title.** If there is an existing TV size marker in the title, replace it with `(TV Size)`.
 - **If a song title contains short or game version markers, the markers must be standardised to `(Short Ver.)` and `(Game Ver.)` respectively.**
 - **Unofficial cut versions of songs must add a `(Cut Ver.)` marker at the end of the current title.** If a length marker is already in the title of the track, `(Cut Ver.)` would replace it. This is to distinguish unofficial cuts of a song from full length versions. Songs that are shortened in ways that nearly match their official versions, and songs that are a full loop of a looping track will not be considered cut.
@@ -145,7 +145,7 @@ Important to understand before using:
 
 - **If the creator of the beatmap has remixed or covered the song, they are free to name it appropriately to signal that this song is a special version.** In this case the original songs should still be clearly indicated in the title or tags in order for players to be able to search for the original songs.
 - **In the case of compilations or remixes, the original song title(s) and artist(s) should be included in tags.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
-- **Any metadata that contains ambiguous or hard to write unicode characters should add easily searchable variations or romanisations of these words to the beatmap's tags.**
+- **Any metadata that contains ambiguous or hard-to-write unicode characters should be accompanied by easily searchable variations or romanisations of these words in the beatmap's tags.**
 - **If the source of the song is available in both unicode and romanised formats, the option not used in the source field should be added to tags.**
 - **Song [genre and language](/wiki/Beatmap/Genre_and_language) should be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
 - **Tags should be added for related artists, alternate names for the artist, title, or source, contractions in any part of the metadata with the apostrophe removed, and whatever else may aid a player in finding the beatmap.**
@@ -298,4 +298,5 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ## Notes
 
+[^character-voice-actor]: `CV` (Character Voice) is used when song is sung in character by the character's voice actor. `VO` (Voice Over) is used when a song is sung in character by someone other than the character's voice actor.
 [^maximum-dimensions]: Backgrounds which are also used as storyboard images may follow [the storyboard images rule for maximum dimensions](/wiki/Ranking_Criteria#rules.7) instead.
