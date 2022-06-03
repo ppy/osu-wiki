@@ -229,8 +229,8 @@ This category contains explicit allowance statements of concepts and rules that 
 - **The following are requirements for background images:**
   - **Minimum width:** 160px
   - **Minimum height:** 120px
-  - **Maximum width:** 2560px
-  - **Maximum height:** 1440px
+  - **Maximum width:** 2560px[^maximum-dimensions]
+  - **Maximum height:** 1440px[^maximum-dimensions]
   - **Maximum file size:** 2.5MB
 - **A video's dimensions must not exceed a width of 1280 and a height of 720 pixels.** Additionally, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
 - **A video must be encoded in H.264.**
@@ -294,3 +294,7 @@ This category contains explicit allowance statements of concepts and rules that 
   - **Refrain from having multiple sprites active while not rendered.** Active sprites will still process commands regardless of whether they are visible or not. Should this be the case for longer periods of time, instantiate new sprites instead, for when visibility is regained.
   - **When using many commands of the same type on a sprite, try leaving at least 16 ms between their start times.** 60 commands per second is often more than enough for any sprite to make smooth transitions on an average setup. This is for the sake of reducing file size and loading times.
   - **Fade out sprites activated from triggers after usage.** Triggers will activate from their first possible command and stay active until the end of the difficulty, which is why fading these out when done is preferable.
+
+## Notes
+
+[^maximum-dimensions]:Backgrounds which are also used as storyboard images may follow [the storyboard images rule for maximum dimensions](/wiki/Ranking_Criteria#rules.7) instead.
