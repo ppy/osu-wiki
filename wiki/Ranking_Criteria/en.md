@@ -298,4 +298,4 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ## Notes
 
-[^maximum-dimensions]:Backgrounds which are also used as storyboard images may follow [the storyboard images rule for maximum dimensions](/wiki/Ranking_Criteria#rules.7) instead.
+[^maximum-dimensions]: Backgrounds which are also used as storyboard images may follow [the storyboard images rule for maximum dimensions](/wiki/Ranking_Criteria#rules.7) instead.
