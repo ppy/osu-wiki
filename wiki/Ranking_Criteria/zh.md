@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 7b5392b2431adcb81b085063ca0375ce3c992f7b
+---
+
 # Ranking Criteria
 
 *查看每个游戏模式具体的标准，请参阅 [osu!](osu!)，[osu!taiko](osu!taiko)，[osu!catch](osu!catch) 和 [osu!mania](osu!mania)。*
