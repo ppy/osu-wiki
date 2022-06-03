@@ -367,7 +367,7 @@ Im weiteren Sinne sollten [Betonungen](/wiki/Article_styling_criteria/Formatting
 
 ### Blockzitate
 
-Wenn Text von jemandem zitiert wird, sollte die zitierte Person nach dem [Blockzitat](/wiki/Article_styling_criteria/Formatting#blockzitate) mit einem Geviertstrich (`—`) und einem Leerzeichen angegeben werden. Sofern das Originalzitat nicht aus dem Englischen stammt, spezifiziere die Sprache in Klammern.
+Wenn Text von jemandem zitiert wird, sollte die zitierte Person nach dem [Blockzitat](/wiki/Article_styling_criteria/Formatting#blockzitate) mit einem Geviertstrich (`—`) und einem Leerzeichen angegeben werden. Sofern das Originalzitat nicht aus dem Deutschen stammt, spezifiziere die Sprache in Klammern.
 
 ```markdown
 > bitte habt Spaß am Spiel
