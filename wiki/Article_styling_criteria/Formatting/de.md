@@ -77,7 +77,7 @@ Sofern dieses Tag zu einem Artikel hinzugefügt wird, sollten [Kommentare](#komm
 
 ### Nicht mehr aktuelle Übersetzungen
 
-Übersetzte Artikel, die nicht mehr aktuell sind, müssen das Tag `outdated_translation` verwenden, sobald die englische Version aktualisiert wird, außer es handelt um kleinere Anpassungen des Wortlauts, der Grammatik und dergleichen, die nicht die Bedeutung des Artikels beeinflussen.
+Übersetzte Artikel, die nicht mehr aktuell sind, müssen das Tag `outdated_translation` verwenden, sobald die englische Version aktualisiert wird, außer es handelt sich um kleinere Anpassungen des Wortlauts, der Grammatik und dergleichen, die nicht die Bedeutung des Artikels beeinflussen.
 
 ```yaml
 outdated_translation: true
@@ -820,7 +820,7 @@ Verweise auf Fußnoten werden direkt nach den Wörtern oder Sätzen platziert, d
 Beispiele der korrekten Benutzung:
 
 ```markdown
-Das osu!-wiki ist ein Projekt, das das alte FAQ-System ersetzen sollte.[^wiki-faq] Es wurde nach dem Rhythmusspiel osu![^osu] und der größten offenen Online-Enzyklopädie Wikipedia benannt. Von Anfang an hatte es geschickte Übersetzer[^wiki-tl] und Redakteure angezogen.
+Das osu!-Wiki ist ein Projekt, das das alte FAQ-System ersetzen sollte.[^wiki-faq] Es wurde nach dem Rhythmusspiel osu![^osu] und der größten offenen Online-Enzyklopädie Wikipedia benannt. Von Anfang an hatte es geschickte Übersetzer[^wiki-tl] und Redakteure angezogen.
 
 ## Referenzen
 
@@ -846,7 +846,7 @@ Die erste Version der osu!api wurde am 2. Juli 2013 zur Verfügung gestellt.[^ap
 
 ### Anmerkungen
 
-Fußnoten dürfen verwendet werden, um Erklärungen oder Randbemerkungen zu hinterlegen, die nicht im Text untergebracht werden können, ohne die Lesbarkeit des Artikels zu verschlechtern, oder die weniger bedeutend als der Artikel selbst sind. Solche Fußnoten dürfen eine Freiformtext benutzen.
+Fußnoten dürfen verwendet werden, um Erklärungen oder Randbemerkungen zu hinterlegen, die nicht im Text untergebracht werden können, ohne die Lesbarkeit des Artikels zu verschlechtern, oder die weniger bedeutend als der Artikel selbst sind. Solche Fußnoten dürfen einen Freiformtext benutzen.
 
 Beispiel:
 

@@ -375,7 +375,7 @@ Wenn Text von jemandem zitiert wird, sollte die zitierte Person nach dem [Blockz
 — rrtyui (aus dem {Sprache} übersetzt)
 ```
 
-Im Allgemeinen sollte die Quelle des Zitats darüber spezifiziert werden. Siehe die [obere Sektion](#zitate) für ein Beispiel. Beim Zitieren eines schriftlichen Artikels oder anderweitig, und nicht unbedingt eine spezifische Person, muss der Autor nicht unter dem Blockzitat angegeben werden.
+Im Allgemeinen sollte die Quelle des Zitats über diesem spezifiziert werden. Siehe die [obere Sektion](#zitate) für ein Beispiel. Beim Zitieren eines schriftlichen Artikels oder anderweitig, und nicht unbedingt eine spezifische Person, muss der Autor nicht unter dem Blockzitat angegeben werden.
 
 ## Aussprache
 
