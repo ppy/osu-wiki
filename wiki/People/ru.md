@@ -2,7 +2,7 @@
 
 Заглавная статья о различных пользователях и группах.
 
-- [Выдающиеся члены сообщества](Community_Contributors)
+- [Выдающиеся участники сообщества](Community_Contributors)
 - [Команда osu!](The_Team)
 - [Комитет по очкам производительности](Performance_Points_Committee)
 - [Комитет по турнирам](Tournament_Committee)
