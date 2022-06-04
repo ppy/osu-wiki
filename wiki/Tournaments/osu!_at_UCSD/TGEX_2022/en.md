@@ -214,7 +214,7 @@ TGEX 2022 was run by various osu! community members at UCSD or visiting for the 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [-ether-](https://osu.ppy.sh/users/6131258) ![][flag_US] | -1 | **0** | ![][flag_US] **[Kenny](https://osu.ppy.sh/users/1225459)** | *Forfeit* |
+| [-ether-](https://osu.ppy.sh/users/6131258) ![][flag_US] | -1 | **0** | ![][flag_US] **[Kenny](https://osu.ppy.sh/users/1225459)** | *forfeit* |
 
 ### Round 4 and Losers Round 5–6
 
@@ -276,7 +276,7 @@ TGEX 2022 was run by various osu! community members at UCSD or visiting for the 
 | --: | :-: | :-: | :-- | :-- |
 | [freddiiieeee](https://osu.ppy.sh/users/7112839) ![][flag_US] | 0 | **4** | ![][flag_US] **[leeeroy](https://osu.ppy.sh/users/12620812)** | [#1](https://osu.ppy.sh/community/matches/101033421) |
 | [jms8719](https://osu.ppy.sh/users/2042565) ![][flag_US] | 3 | **4** | ![][flag_US] **[Vysion](https://osu.ppy.sh/users/11594132)** | [#1](https://osu.ppy.sh/community/matches/101033430) |
-| [SeaAE](https://osu.ppy.sh/users/12354364) ![][flag_US] | -1 | **0** | ![][flag_US] **[jazzberry](https://osu.ppy.sh/users/11055678)** | *Forfeit* |
+| [SeaAE](https://osu.ppy.sh/users/12354364) ![][flag_US] | -1 | **0** | ![][flag_US] **[jazzberry](https://osu.ppy.sh/users/11055678)** | *forfeit* |
 | **[dyndenial](https://osu.ppy.sh/users/16779673)** ![][flag_US] | **4** | 0 | ![][flag_US] [firenoo](https://osu.ppy.sh/users/10815041) | [#1](https://osu.ppy.sh/community/matches/101033452) |
 
 ### Round 1
