@@ -30,7 +30,7 @@ Play through any of these awesome maps:
 - [Loved osu!mania map](https://osu.ppy.sh/beatmapsets/517221) hosted by [qodtjr](https://osu.ppy.sh/users/3021168)
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/272/Songs/Hino%20Isuka%20-%20Dreamin%2527%20attraction!!%20(Extended).mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/272/Songs/Hino%20Isuka%20-%20Dreamin'%20attraction!!%20(Extended).mp3" type="audio/mpeg">
 </audio>
 
 ### \#be_fortunate
