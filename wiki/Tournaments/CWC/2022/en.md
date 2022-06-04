@@ -50,6 +50,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1562118)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/CWC22)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/87) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRetD8MoopEqecAdBgPUlpXsbnqnu0posV0qh9Lxo130lScWtEx1Qe2uxdyIVx-HqtXdtEXD6Rtjs_V/pubhtml)
 
@@ -66,7 +67,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_CL] | **Chile** | **[lineqtxz](https://osu.ppy.sh/users/989542)**, [eldnl](https://osu.ppy.sh/users/285756), [Aryssiel](https://osu.ppy.sh/users/2389481), [Lechu FAQ 35P](https://osu.ppy.sh/users/2872000), [Pekorrat](https://osu.ppy.sh/users/1250096), [Stark](https://osu.ppy.sh/users/1565036) |
 | ![][flag_CN] | **China** | **[Dusk](https://osu.ppy.sh/users/533210)**, [Callionet](https://osu.ppy.sh/users/3072921), [Coevir](https://osu.ppy.sh/users/3171965), [Crystal](https://osu.ppy.sh/users/1646397), [KagamineRin02](https://osu.ppy.sh/users/518503), [Kitakami](https://osu.ppy.sh/users/6347308) |
 | ![][flag_CO] | **Colombia** | **[Hojaldre](https://osu.ppy.sh/users/2573707)**, [Deley-](https://osu.ppy.sh/users/8291465), [God Gosu](https://osu.ppy.sh/users/7971842), [Juansy-](https://osu.ppy.sh/users/12588215), [Narnia](https://osu.ppy.sh/users/3600162), [HelpMePleasee](https://osu.ppy.sh/users/10835397) |
-| ![][flag_FI] | **Finland** | **[Nikolai](https://osu.ppy.sh/users/5302804)**, [Awsumi](https://osu.ppy.sh/users/4174308), [Bot\_Burger](https://osu.ppy.sh/users/6109660), [HuoltoMies](https://osu.ppy.sh/users/4278969), [JonZku](https://osu.ppy.sh/users/12740132), [Kurtsi](https://osu.ppy.sh/users/4222176) |
+| ![][flag_FI] | **Finland** | **[Nikolai](https://osu.ppy.sh/users/5302804)**, [Awsumi](https://osu.ppy.sh/users/4174308), [Bot\_Burger](https://osu.ppy.sh/users/6109660), [Mitenvoi](https://osu.ppy.sh/users/4278969), [JonZku](https://osu.ppy.sh/users/12740132), [Kurtsi](https://osu.ppy.sh/users/4222176) |
 | ![][flag_FR] | **France** | **[Holloh](https://osu.ppy.sh/users/7612994)**, [Ttobas](https://osu.ppy.sh/users/2084568), [Natsuko](https://osu.ppy.sh/users/8266817), [Boros](https://osu.ppy.sh/users/5490623), [Electr0o](https://osu.ppy.sh/users/9484428), [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | ![][flag_DE] | **Germany** | **[NoteKuroi](https://osu.ppy.sh/users/186642)**, [Marvmallow](https://osu.ppy.sh/users/8403032), [Vinci007](https://osu.ppy.sh/users/5030297), [Inryuka](https://osu.ppy.sh/users/11635773), [-Nirfu-](https://osu.ppy.sh/users/7332050), [Ginoshi](https://osu.ppy.sh/users/5398106) |
 | ![][flag_ID] | **Indonesia** | **[Chroneko](https://osu.ppy.sh/users/5472877)**, [Dika312](https://osu.ppy.sh/users/741613), [Netamaru](https://osu.ppy.sh/users/1830361), [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), [Urabe Mikoto](https://osu.ppy.sh/users/1272422), [LeWind](https://osu.ppy.sh/users/9718235) |
@@ -89,41 +90,69 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_CH] | **Switzerland** | **[ItsJ0el](https://osu.ppy.sh/users/5586377)**, [KiraKuroto](https://osu.ppy.sh/users/229191), [MC2BP](https://osu.ppy.sh/users/11296097), [xXMysteryXx](https://osu.ppy.sh/users/11475426) |
 | ![][flag_TW] | **Taiwan** | **[Beepu](https://osu.ppy.sh/users/4958376)**, [ZX123456](https://osu.ppy.sh/users/489271), [Sanami](https://osu.ppy.sh/users/1629471), [-Anya-](https://osu.ppy.sh/users/2455926), [Happiness Fish](https://osu.ppy.sh/users/4586766), [Extricate](https://osu.ppy.sh/users/4787989) |
 | ![][flag_TH] | **Thailand** | **[Azuria](https://osu.ppy.sh/users/16102533)**, [Mirimz](https://osu.ppy.sh/users/25792227), [Social Distance](https://osu.ppy.sh/users/17385454), [harlemshake555](https://osu.ppy.sh/users/7355319), [-TANAKITO-](https://osu.ppy.sh/users/6037121), [Char0n](https://osu.ppy.sh/users/17838855) |
-| ![][flag_TR] | **Turkey** | **[Zeus-](https://osu.ppy.sh/users/5464437)**, [1Haruki](https://osu.ppy.sh/users/11152537), [Fl4ndre Scarlet](https://osu.ppy.sh/users/4146243), [Mansek](https://osu.ppy.sh/users/10445862), [Sjndex\_](https://osu.ppy.sh/users/17130789), [SW4Guy](https://osu.ppy.sh/users/14318796) |
+| ![][flag_TR] | **Turkey** | **[Zeus-](https://osu.ppy.sh/users/5464437)**, [1Haruki](https://osu.ppy.sh/users/11152537), [Fl4ndre Scarlet](https://osu.ppy.sh/users/4146243), [Mansek](https://osu.ppy.sh/users/10445862), [lorem ipsum](https://osu.ppy.sh/users/17130789), [shimu](https://osu.ppy.sh/users/14318796) |
 | ![][flag_UA] | **Ukraine** | **[\[-Nyaruko-\]](https://osu.ppy.sh/users/13712671)**, [Shadowbolts1](https://osu.ppy.sh/users/13962882), [Violet Feets](https://osu.ppy.sh/users/15558360), [bernkastel feet](https://osu.ppy.sh/users/13681464) |
 | ![][flag_GB] | **United Kingdom** | **[Withered Lotus](https://osu.ppy.sh/users/3546931)**, [Matt\_H](https://osu.ppy.sh/users/4067115), [Stats-Kun](https://osu.ppy.sh/users/8611935), [Zoggoth](https://osu.ppy.sh/users/2799946), [Litlas](https://osu.ppy.sh/users/5126518), [Tomato](https://osu.ppy.sh/users/9239206) |
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983) |
 | ![][flag_VN] | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)**, [Stardust Prism](https://osu.ppy.sh/users/8525921), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-Linglan Lily-](https://osu.ppy.sh/users/8738261), [Marota](https://osu.ppy.sh/users/10278890), [NamSPro](https://osu.ppy.sh/users/11387006) |
 
-## Match schedule: Round of 32
+## Match schedule: Round of 16
 
-### Saturday, May 28, 2022
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_IL] | Israel | May 28 (Sat) 10:00 UTC | May 28 (Sat) 18:00 UTC+8 | May 28 (Sat) 13:00 UTC+3 |
-| France | ![][flag_FR] | ![][flag_TH] | Thailand | May 28 (Sat) 12:00 UTC | May 28 (Sat) 14:00 UTC+2 | May 28 (Sat) 19:00 UTC+7 |
-| Italy | ![][flag_IT] | ![][flag_NL] | Netherlands | May 28 (Sat) 13:00 UTC | May 28 (Sat) 15:00 UTC+2 | May 28 (Sat) 15:00 UTC+2 |
-| Singapore | ![][flag_SG] | ![][flag_AR] | Argentina | May 28 (Sat) 14:00 UTC | May 28 (Sat) 22:00 UTC+8 | May 28 (Sat) 11:00 UTC-3 |
-| Belgium | ![][flag_BE] | ![][flag_PL] | Poland | May 28 (Sat) 15:00 UTC | May 28 (Sat) 17:00 UTC+2 | May 28 (Sat) 17:00 UTC+2 |
-| Mexico | ![][flag_MX] | ![][flag_SE] | Sweden | May 28 (Sat) 19:00 UTC | May 28 (Sat) 13:00 UTC-6 | May 28 (Sat) 21:00 UTC+2 |
-| Canada | ![][flag_CA] | ![][flag_GB] | United Kingdom | May 28 (Sat) 20:00 UTC | May 28 (Sat) 15:00 UTC-5 | May 28 (Sat) 21:00 UTC+1 |
-
-### Sunday, May 29, 2022
+### Saturday, June 4, 2022
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Brazil | ![][flag_BR] | ![][flag_JP] | Japan | May 29 (Sun) 01:00 UTC | May 28 (Sat) 22:00 UTC-3 | May 29 (Sun) 10:00 UTC+9 |
-| Indonesia | ![][flag_ID] | ![][flag_MY] | Malaysia | May 29 (Sun) 07:00 UTC | May 29 (Sun) 14:00 UTC+7 | May 29 (Sun) 15:00 UTC+8 |
-| Australia | ![][flag_AU] | ![][flag_VN] | Vietnam | May 29 (Sun) 08:00 UTC | May 29 (Sun) 18:00 UTC+10 | May 29 (Sun) 15:00 UTC+7 |
-| Taiwan | ![][flag_TW] | ![][flag_TR] | Turkey | May 29 (Sun) 10:00 UTC | May 29 (Sun) 18:00 UTC+8 | May 29 (Sun) 13:00 UTC+3 |
-| South Korea | ![][flag_KR] | ![][flag_PT] | Portugal | May 29 (Sun) 12:00 UTC | May 29 (Sun) 21:00 UTC+9 | May 29 (Sun) 13:00 UTC+1 |
-| Germany | ![][flag_DE] | ![][flag_FI] | Finland | May 29 (Sun) 13:00 UTC | May 29 (Sun) 15:00 UTC+2 | May 29 (Sun) 16:00 UTC+3 |
-| Russian Federation | ![][flag_RU] | ![][flag_NO] | Norway | May 29 (Sun) 15:00 UTC | May 29 (Sun) 18:00 UTC+3 | May 29 (Sun) 17:00 UTC+2 |
-| Chile | ![][flag_CL] | ![][flag_CO] | Colombia | May 29 (Sun) 18:00 UTC | May 29 (Sun) 15:00 UTC-3 | May 29 (Sun) 13:00 UTC-5 |
-| United States | ![][flag_US] | ![][flag_UA] | Ukraine | May 29 (Sun) 18:00 UTC | May 29 (Sun) 13:00 UTC-5 | May 29 (Sun) 21:00 UTC+3 |
+| China | ![][flag_CN] | ![][flag_BR] | Brazil | Jun 4 (Sat) 03:00 UTC | Jun 4 (Sat) 11:00 UTC+8 | Jun 4 (Sat) 00:00 UTC-3 |
+| Ukraine | ![][flag_UA] | ![][flag_BE] | Belgium | Jun 4 (Sat) 12:00 UTC | Jun 4 (Sat) 15:00 UTC+3 | Jun 4 (Sat) 14:00 UTC+2 |
+| Portugal | ![][flag_PT] | ![][flag_FI] | Finland | Jun 4 (Sat) 13:00 UTC | Jun 4 (Sat) 14:00 UTC+1 | Jun 4 (Sat) 16:00 UTC+3 |
+| Malaysia | ![][flag_MY] | ![][flag_AR] | Argentina | Jun 4 (Sat) 14:00 UTC | Jun 4 (Sat) 22:00 UTC+8 | Jun 4 (Sat) 11:00 UTC-3 |
+| France | ![][flag_FR] | ![][flag_IT] | Italy | Jun 4 (Sat) 15:00 UTC | Jun 4 (Sat) 17:00 UTC+2 | Jun 4 (Sat) 17:00 UTC+2 |
+| Canada | ![][flag_CA] | ![][flag_RU] | Russian Federation | Jun 4 (Sat) 18:30 UTC | Jun 4 (Sat) 13:30 UTC-5 | Jun 4 (Sat) 21:30 UTC+3 |
+
+### Sunday, June 5, 2022
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Taiwan | ![][flag_TW] | ![][flag_MX] | Mexico | Jun 5 (Sun) 04:00 UTC | Jun 5 (Sun) 12:00 UTC+8 | Jun 4 (Sat) 22:00 UTC-6 |
+| South Korea | ![][flag_KR] | ![][flag_DE] | Germany | Jun 5 (Sun) 10:00 UTC | Jun 5 (Sun) 19:00 UTC+9 | Jun 5 (Sun) 12:00 UTC+2 |
+| Thailand | ![][flag_TH] | ![][flag_NL] | Netherlands | Jun 5 (Sun) 13:00 UTC | Jun 5 (Sun) 20:00 UTC+7 | Jun 5 (Sun) 15:00 UTC+2 |
+| Israel | ![][flag_IL] | ![][flag_JP] | Japan | Jun 5 (Sun) 13:30 UTC | Jun 5 (Sun) 16:30 UTC+3 | Jun 5 (Sun) 22:30 UTC+9 |
+| Chile | ![][flag_CL] | ![][flag_AU] | Australia | Jun 5 (Sun) 14:00 UTC | Jun 5 (Sun) 10:00 UTC-4 | Jun 6 (Mon) 00:00 UTC+10 |
+| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | Jun 5 (Sun) 14:30 UTC | Jun 5 (Sun) 21:30 UTC+7 | Jun 5 (Sun) 22:30 UTC+8 |
+| Colombia | ![][flag_CO] | ![][flag_VN] | Vietnam | Jun 5 (Sun) 15:00 UTC | Jun 5 (Sun) 10:00 UTC-5 | Jun 5 (Sun) 22:00 UTC+7 |
+| United States | ![][flag_US] | ![][flag_PL] | Poland | Jun 5 (Sun) 17:00 UTC | Jun 5 (Sun) 12:00 UTC-5 | Jun 5 (Sun) 19:00 UTC+2 |
+| Turkey | ![][flag_TR] | ![][flag_SE] | Sweden | Jun 5 (Sun) 18:00 UTC | Jun 5 (Sun) 21:00 UTC+3 | Jun 5 (Sun) 20:00 UTC+2 |
+| United Kingdom | ![][flag_GB] | ![][flag_NO] | Norway | Jun 5 (Sun) 18:00 UTC | Jun 5 (Sun) 19:00 UTC+1 | Jun 5 (Sun) 20:00 UTC+2 |
 
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here (104 MB)](https://drive.google.com/uc?id=1ek2HFZvYTDLiEGR-S3xJwwNmyeyL5Sju)**
+
+- NoMod
+  1. [Nhato - Cosmica (Nosuri) \[Future\]](https://osu.ppy.sh/beatmapsets/1774456#fruits/3633387)
+  2. [Seiryu - Time to Air (Ascendance) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1774324#fruits/3632962)
+  3. [KNOWER - Overtime (Mir) \[Ecstasy\]](https://osu.ppy.sh/beatmapsets/1170697#fruits/2442178)
+  4. [solfa feat. Chata - Miracle infinity (toara) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1607495#fruits/3282605)
+- Hidden
+  1. [Roce - Jishu (-Rustyy) \[Relentless\]](https://osu.ppy.sh/beatmapsets/1774484#fruits/3633464)
+  2. [Origami Angel - The Title Track (Jemzuu) \[Crowley's Overdose\]](https://osu.ppy.sh/beatmapsets/1503591#fruits/3404571)
+  3. [xi - ANiMA (Kalindraz) \[Oberum Primus\]](https://osu.ppy.sh/beatmapsets/441271#fruits/949234)
+- Hard Rock
+  1. [REOL - Konoyo Loading... (-Ken) \[Ken & AFB's Virtual Reality\]](https://osu.ppy.sh/beatmapsets/1774326#fruits/3632965)
+  2. [Yu\_Asahina - eighth-slave (Bunnrei) \[over-dose\]](https://osu.ppy.sh/beatmapsets/1774353#fruits/3633055)
+  3. [Jun Kuroda - Cybernetics (Altai) \[Heatwave's Insane\]](https://osu.ppy.sh/beatmapsets/1325579#fruits/2859329)
+- Double Time
+  1. [2ToneDisco x Cosmicosmo - Shoelaces (feat. Puniden) (autofanboy) \[Knots\]](https://osu.ppy.sh/beatmapsets/1774474#fruits/3633434)
+  2. [Kobaryo - Cross The Finish Line \[feat. Nanahira\] (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/1774337#fruits/3632989)
+  3. [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmapsets/127712#fruits/323769)
+  4. [Parov Stelar - Catgroove (Blue Dragon) \[Kuron's Insane\]](https://osu.ppy.sh/beatmapsets/144955#fruits/630739)
+- Mixed Mod
+  1. [Mili - Summoning 101 (JierYagtama) \[Jier & Mniam's Ritual\]](https://osu.ppy.sh/beatmapsets/1774772#fruits/3634242)
+  2. [Dirty Androids - Egret and Willow (X Light) \[nika's Dove and Olive Extra\]](https://osu.ppy.sh/beatmapsets/1159124#fruits/2448956)
+- Tiebreaker
+  1. **[USAO - Extra Mode (Deif) \[Greaper & Deif's Another Episode\]](https://osu.ppy.sh/beatmapsets/1774332#fruits/3632973)**
 
 ### Round of 32
 
@@ -170,9 +199,39 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ## Match results
 
+### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1TXBAh_aZ7I-gVQ7nMNMl2KXOjr7sZGK5nS97dg1xf3Y/view?rm=minimal).
+
+Saturday, May 28, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ![][flag_CN] | **5** | 0 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/100983046) |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/100984192) |
+| **Singapore** ![][flag_SG] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/100988735) |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/100999540) |
+
+Sunday, May 29, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** ![][flag_BR] | **5** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/101006356) |
+| **Chile** ![][flag_CL] | **5** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/101007435) |
+| Belgium ![][flag_BE] | 2 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/101016819) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/101018119) |
+| **Italy** ![][flag_IT] | **5** | 1 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/101019335) |
+| **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/101019418) |
+| **Australia** ![][flag_AU] | **5** | 1 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/101019454) |
+| **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/101019336) |
+| **Russian Federation** ![][flag_RU] | **5** | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/101022550) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/101024434) |
+| **Germany** ![][flag_DE] | **5** | 4 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/101025686) |
+| **Mexico** ![][flag_MX] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/101026998) |
+
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8/edit?rm=minimal).
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8/view?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/10rAEhiJH9smCfqYEfFVvk3pDm6VLR3tYhJNOB01LNJo/view?rm=minimal).
 
 | Seed | Country | MAX% sum |
 | :-: | :-- | :-- |

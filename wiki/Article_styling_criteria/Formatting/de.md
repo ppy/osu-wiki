@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b3aea796883d81f817472253da2f002b7a4c6996
+---
+
 # Formatierung
 
 *Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*
@@ -15,7 +20,7 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `cs.md` | Tschechisch | Česky |
 | `da.md` | Dänisch | Dansk |
 | `de.md` | Deutsch | Deutsch |
-| `gr.md` | Griechisch | Ελληνικά |
+| `el.md` | Griechisch | Ελληνικά |
 | `es.md` | Spanisch | Español |
 | `fi.md` | Finnisch | Suomi |
 | `fr.md` | Französisch | Français |

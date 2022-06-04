@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu! Alumni
@@ -129,7 +129,7 @@ Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se
 | ![][flag_US] [machol30](https://osu.ppy.sh/users/5772) | BAT |
 | ![][flag_US] [Mafiamaster](https://osu.ppy.sh/users/17695) | BAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
-| ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT | 
+| ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |

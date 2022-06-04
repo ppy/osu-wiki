@@ -2,7 +2,7 @@
 tags:
   - history
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: c8de1467998926e1b6ff9d4dc05d380640f90827
 ---
 
