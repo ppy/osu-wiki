@@ -108,7 +108,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai ta
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Kanton, Mandarin | Moderasi chat |
 | ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369) | Korea, Jepang | Moderasi chat |
 | ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Moderasi komunitas mapping/modding |
-| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Arab, Malaysia | Moderasi chat |
+| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Malaysia | Moderasi chat |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Spanyol | Moderasi chat |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Jerman | Moderasi forum |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korea | Moderasi chat |
@@ -134,7 +134,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai ta
 
 | Kanal | Subforum | Moderator |
 | :-- | :-- | :-- |
-| `#arabic` |  | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) |
+| `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) |

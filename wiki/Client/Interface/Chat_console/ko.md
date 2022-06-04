@@ -13,7 +13,7 @@ osu!의 대부분의 화면에서 `F8` 혹은 오른쪽 아래의 `Show Chat` �
 | **옅은 노랑** | 서포터가 아닌 유저 |
 | **노랑** | [osu! 서포터](/wiki/osu!supporter) |
 | **빨강** | [GMT](/wiki/People/The_Team/Global_Moderation_Team) 혹은 [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) 유저 |
-| **녹색** | 당신이 "호출" 하도록 지정한 키워드를 포함한 줄. 당신을 호출한 메시지의 내용은 `#highlight` 채널에도 나타납니다. |
+| **녹색** | 당신이 ["호출"](Highlight) 하도록 지정한 키워드를 포함한 줄. 당신을 호출한 메시지의 내용은 `#highlight` 채널에도 나타납니다. |
 | **파랑** | 비공개 메시지 |
 | **청록** | 오스를 만든 [peppy](https://osu.ppy.sh/users/2)! |
 | **분홍** | [BanchoBot](/wiki/BanchoBot) |
@@ -80,7 +80,7 @@ osu!의 대부분의 화면에서 `F9` 혹은 오른쪽 아래의 `Online Users`
 | `/bb` | 반초에게 rank `[숫자]` 같은 메시지를 보냅니다. | `/bb rank 1` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [유저]` | 특정 유저와 채팅할 수 있는 탭이 열립니다. | `/chat Amigo` | (Amigo 탭이 열립니다) |
 | `/clear` | 현재 채팅 버퍼를 지웁니다. | `/clear` | (현재 탭에 있는 모든 내용이 지워집니다.) |
-| `/ignore [유저][@chp]` | 특정 유저에게서 오는 모든 메시지를 무시합니다. @ 뒤에 c, h, 혹은 p를 추가하는 것으로 각각 채팅, 하이라이트, 혹은 PM에서의 메시지를 무시할 수 있습니다. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (채팅 콘솔 설정: Amigo가 작성한 텍스트를 무시하고 \[c\], Amigo가 호출하는 것을 무시하고 \[h\], Amigo가 보내는 비공개 메시지를 무시합니다 \[p\]) |
+| `/ignore [유저][@chp]` | 특정 유저에게서 오는 모든 메시지를 무시합니다. @ 뒤에 c, h, 혹은 p를 추가하는 것으로 각각 채팅, [하이라이트](Highlight), 혹은 PM에서의 메시지를 무시할 수 있습니다. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (채팅 콘솔 설정: Amigo가 작성한 텍스트를 무시하고 \[c\], Amigo가 호출하는 것을 무시하고 \[h\], Amigo가 보내는 비공개 메시지를 무시합니다 \[p\]) |
 | `/j [채널]` or `/join [채널]` | 특정 채널에 들어갑니다. | `/join #lobby` | (#lobby 탭이 열립니다) |
 | `/p` or `/part` | 현재 채널에서 나갑니다. | `/part` | n/a |
 | `/unignore [유저]` | 특정 유저의 메세지를 무시하는 것을 중지합니다. | `/unignore Amigo` | You may now hear Amigo. (Amigo가 작성한 메세지를 다시 채팅 콘솔에서 볼 수 있습니다.) |

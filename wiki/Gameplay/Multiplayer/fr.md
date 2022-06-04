@@ -1,6 +1,6 @@
 ---
 needs_cleanup: true
-outdated: true
+outdated_translation: true
 outdated_since: a8c8745209c11807318f090c1916347900d138de
 ---
 
