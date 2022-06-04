@@ -58,12 +58,15 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: set up and run yamllint on .yaml and .md files
+      - name: set up CI dependencies
         run: |
           pip install -r scripts/requirements.txt
+
+      - name: run yamllint on .yaml and .md files
+        run: |
           python scripts/ci/run_yamllint.py --config .yamllint.yaml
 
-      - name: set up and run broken wikilink checker
+      - name: find broken wikilinks
         shell: bash
         env:
           PULL_REQUEST_TAG: 'SKIP_WIKILINK_CHECK'
@@ -72,8 +75,6 @@ jobs:
             echo "::notice::Broken wikilink check suppressed ($PULL_REQUEST_TAG tag found in the pull request)"
             exit 0
           fi
-
-          pip install osu-wiki-tools
 
           ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "wiki/**/*.md" "news/*.md" )
           find-broken-wikilinks --target $ARTICLES
