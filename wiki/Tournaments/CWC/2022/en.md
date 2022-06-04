@@ -102,6 +102,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
+| China | ![][flag_CN] | ![][flag_BR] | Brazil | Jun 4 (Sat) 03:00 UTC | Jun 4 (Sat) 11:00 UTC+8 | Jun 4 (Sat) 00:00 UTC-3 |
 | Ukraine | ![][flag_UA] | ![][flag_BE] | Belgium | Jun 4 (Sat) 12:00 UTC | Jun 4 (Sat) 15:00 UTC+3 | Jun 4 (Sat) 14:00 UTC+2 |
 | Portugal | ![][flag_PT] | ![][flag_FI] | Finland | Jun 4 (Sat) 13:00 UTC | Jun 4 (Sat) 14:00 UTC+1 | Jun 4 (Sat) 16:00 UTC+3 |
 | Malaysia | ![][flag_MY] | ![][flag_AR] | Argentina | Jun 4 (Sat) 14:00 UTC | Jun 4 (Sat) 22:00 UTC+8 | Jun 4 (Sat) 11:00 UTC-3 |
@@ -114,11 +115,10 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Taiwan | ![][flag_TW] | ![][flag_MX] | Mexico | Jun 5 (Sun) 04:00 UTC | Jun 5 (Sun) 12:00 UTC+8 | Jun 4 (Sat) 22:00 UTC-6 |
 | South Korea | ![][flag_KR] | ![][flag_DE] | Germany | Jun 5 (Sun) 10:00 UTC | Jun 5 (Sun) 19:00 UTC+9 | Jun 5 (Sun) 12:00 UTC+2 |
-| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | Jun 5 (Sun) 11:00 UTC | Jun 5 (Sun) 18:00 UTC+7 | Jun 5 (Sun) 19:00 UTC+8 |
 | Thailand | ![][flag_TH] | ![][flag_NL] | Netherlands | Jun 5 (Sun) 13:00 UTC | Jun 5 (Sun) 20:00 UTC+7 | Jun 5 (Sun) 15:00 UTC+2 |
 | Israel | ![][flag_IL] | ![][flag_JP] | Japan | Jun 5 (Sun) 13:30 UTC | Jun 5 (Sun) 16:30 UTC+3 | Jun 5 (Sun) 22:30 UTC+9 |
-| China | ![][flag_CN] | ![][flag_BR] | Brazil | Jun 5 (Sun) 14:00 UTC | Jun 5 (Sun) 22:00 UTC+8 | Jun 5 (Sun) 11:00 UTC-3 |
 | Chile | ![][flag_CL] | ![][flag_AU] | Australia | Jun 5 (Sun) 14:00 UTC | Jun 5 (Sun) 10:00 UTC-4 | Jun 6 (Mon) 00:00 UTC+10 |
+| Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | Jun 5 (Sun) 14:30 UTC | Jun 5 (Sun) 21:30 UTC+7 | Jun 5 (Sun) 22:30 UTC+8 |
 | Colombia | ![][flag_CO] | ![][flag_VN] | Vietnam | Jun 5 (Sun) 15:00 UTC | Jun 5 (Sun) 10:00 UTC-5 | Jun 5 (Sun) 22:00 UTC+7 |
 | United States | ![][flag_US] | ![][flag_PL] | Poland | Jun 5 (Sun) 17:00 UTC | Jun 5 (Sun) 12:00 UTC-5 | Jun 5 (Sun) 19:00 UTC+2 |
 | Turkey | ![][flag_TR] | ![][flag_SE] | Sweden | Jun 5 (Sun) 18:00 UTC | Jun 5 (Sun) 21:00 UTC+3 | Jun 5 (Sun) 20:00 UTC+2 |
