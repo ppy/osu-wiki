@@ -50,7 +50,6 @@ The osu!taiko Featured Artist Cup #1 was run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1520800)
 - [Discord server](https://discord.gg/jMsVqwPVrD)
 - [Results sheet](https://docs.google.com/spreadsheets/d/1v8B409syFzzAfgoxXKx6ptitrtNPYDa09Avkt8PeXLI/edit?usp=sharing)
-- [Results announcement VOD](https://www.twitch.tv/videos/1434459833)
 
 ## Podium
 
@@ -68,7 +67,7 @@ This competition has come to an end and resulted in the following podium:
 
 - **Contestants will submit ONE difficulty of any licensed song they choose from the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists).**
 - **Your map must be an osu!taiko map.**
-- **All submissions must be rankable.** No beatmap submitted must be intentionally unrankable. Mistakes happen and points will be deducted for them, but this is a regular mapping contest, not aspire. (You're allowed to ignore spread rules for the sake of this contest.)
+- **All submissions must be rankable.** No beatmap submitted must be intentionally unrankable. Mistakes happen and points will be deducted for them, but this is a regular mapping contest, not Aspire. (You're allowed to ignore spread rules for the sake of this contest.)
 - **Maps must NOT be uploaded/shared with others before judging and results are announced.** Sharing your entry publicly by any means before the results are announced will get your entry disqualified, no questions asked.
 - **Submissions will not be accepted after the deadlines.** No exceptions.
 
@@ -82,7 +81,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Notes
 
-[^prizes-ranked]: ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) and ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) will mod and push the winning entry to Ranked if the winner chooses to, and **if they get the necessary difficulties to form a rankable spread if needed**.
+[^prizes-ranked]: ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) and ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) will mod and push the winning entry to Ranked if the winner chooses to, and **if they get the necessary difficulties to form a rankable spread when needed**.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
