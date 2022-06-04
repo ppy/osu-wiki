@@ -447,7 +447,7 @@ Notes:
 Notes:
 
 - Plays when the match is starting.
-- This is also the chat highlight sound.
+- This is also the [chat highlight](/wiki/Client/Interface/Chat_console/Highlight) sound.
 
 ### Metronome
 

@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # Contribuidores da Comunidade

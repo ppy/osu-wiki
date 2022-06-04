@@ -9,7 +9,7 @@ tags:
   - 工作人员
   - osu! 团队
   - osu!团队
-outdated: true
+outdated_translation: true
 outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 ---
 
