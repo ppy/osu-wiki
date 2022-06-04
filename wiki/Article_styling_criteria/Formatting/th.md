@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 342b4e51378689a89b13feb101c2a657f5f1ac3c
 ---
 
@@ -22,7 +22,7 @@ outdated_since: 342b4e51378689a89b13feb101c2a657f5f1ac3c
 | `cs.md` | เช็ก | Česky |
 | `da.md` | เดนมาร์ก | Dansk |
 | `de.md` | เยอรมัน | Deutsch |
-| `gr.md` | กรีก | Ελληνικά |
+| `el.md` | กรีก | Ελληνικά |
 | `es.md` | สเปน | Español |
 | `fi.md` | ฟินแลนด์ | Suomi |
 | `fr.md` | ฝรั่งเศส | Français |

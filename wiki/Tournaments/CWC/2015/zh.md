@@ -2,7 +2,7 @@
 tags:
   - CWC 2015
   - CWC2015
-outdated: true
+outdated_translation: true
 ---
 
 # osu! Catch the Beat World Cup 2015

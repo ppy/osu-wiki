@@ -2,7 +2,7 @@
 tags:
   - OWC 2019
   - OWC2019
-outdated: true
+outdated_translation: true
 ---
 
 # osu! 2019 Dünya Kupası

@@ -3,7 +3,7 @@ tags:
   - AGTS 2019
   - AGTS
   - GTS
-outdated: true
+outdated_translation: true
 outdated_since: 3b4dd8cfaab05c9468820a1547b39b47b22a8fd2
 ---
 

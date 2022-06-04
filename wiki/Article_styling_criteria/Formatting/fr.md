@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: b3aea796883d81f817472253da2f002b7a4c6996
 ---
 
@@ -21,7 +21,7 @@ Vous trouverez ci-dessous la liste des langues correctement prises en charge par
 | `cs.md` | Tchèque | Česky |
 | `da.md` | Danois | Dansk |
 | `de.md` | Allemand | Deutsch |
-| `gr.md` | Grec | Ελληνικά |
+| `el.md` | Grec | Ελληνικά |
 | `es.md` | Espagnol | Español |
 | `fi.md` | Finlandais | Suomi |
 | `fr.md` | Français | Français |
