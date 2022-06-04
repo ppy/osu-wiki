@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 7d0ae0be44e8664bf61cad4514a79f573f226a6a
 tags:
   - support

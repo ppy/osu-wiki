@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Paczki
 
 *Główny artykuł: [Beatmapy](/wiki/Beatmap)*

@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 17ba49c633b089fe88acb7d5d32ac0460e5d65fe
 ---
 

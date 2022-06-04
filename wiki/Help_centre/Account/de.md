@@ -216,11 +216,23 @@ Das bedeutet aber nicht, dass du einen neuen Account erstellen kannst! Mehrere A
 
 ### Kann ich meinen Account löschen?
 
-*Für mehr Informationen über die Löschung von Accounts, siehe: [deine Rechte und Kontrolle](/wiki/Legal/Privacy#your-rights-and-control)<!--TODO: change link as soon as German article is available-->.*
+*Für mehr Informationen über die Löschung von Accounts, siehe: [osu!-Datenschutzrichtlinie § Deine Rechte und Kontrolle](/wiki/Legal/Privacy#your-rights-and-control)<!--TODO: change link as soon as German article is available-->.*
 
 *Vorsicht: Accounts zu löschen ist dauerhaft und kann daher nicht rückgängig gemacht werden!*
 
 Ja, jeder Nutzer kann die Löschung seines Accounts durch das Senden einer E-Mail an [privacy@ppy.sh](mailto:privacy@ppy.sh) beantragen. Beachte, dass die Löschung **endgültig** ist. Das heißt, dass sie nicht aufgehoben werden kann. Einen Account zu löschen bedeutet nicht, dass du einen neuen Account erstellen kannst, da der Besitz mehrerer Accounts gegen die [Regeln](/wiki/Rules#community-regeln) verstößt. Du wirst also nicht mehr in der Lage sein, die Online-Funktionen von osu! nutzen zu können.
+
+### Ich möchte nicht mehr weiterspielen, aber ich möchte nicht, dass mein Account gelöscht wird!
+
+Jeder Benutzer kann die **Sperrung** seines Accounts durch das Senden einer E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) beantragen. Das Passwort des Accounts wird dann zufällig eingetippt und die E-Mail-Adresse ausgeblendet, wodurch der Nutzer aus seinem Account ausgesperrt wird. Es gibt eine einwöchige Wartezeit nachdem ein Account auf diese Weise gesperrt wurde, bevor der Nutzer die Freischaltung anfordern kann, um Missbrauch zu verhindern.
+
+Ein gesperrter Account wird öffentlich sichtbar bleiben, ohne dass auf dem Profil verfügbare Informationen geändert werden.
+
+Um den Account wieder zu entsperren, sende eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) und bringe die Absicht zum Ausdruck, deinen Account freizuschalten. Hierbei sollte dieselbe E-Mail-Adresse genutzt werden, die für den ursprünglichen Antrag auf Accountsperrung verwendet wurde.
+
+*Diese Funktionalität darf nicht missbraucht werden.* Das Sperren eines Accounts sollte einer der letzten Auswege für Spieler sein, die osu! nicht für immer verlassen möchten, aber eine Auszeit von osu! aus einem legitimen Grund **brauchen**.
+
+Du kannst dich selbst aus deinem Account aussperren, indem du die E-Mail und das Passwort zu zufälligen Wörtern oder Zeichen änderst, an die du dich niemals erinnern wirst, und dich danach ausloggst. Das ist im Wesentlichen der gleiche Prozess wie bei der Sperrung. Sobald du bereit bist, wieder zurück in die Community zu kommen, sende eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) mit der Beantragung einer Passwortrücksetzung. Versichere dich, dass du die zuvor benutzte E-Mail für deinen Account verwendest.
 
 ### Kann ich auf einem Computer spielen, den ein anderer osu!-Spieler vorher benutzt hat?
 
@@ -228,12 +240,12 @@ Ja, jeder Nutzer kann die Löschung seines Accounts durch das Senden einer E-Mai
 
 **Solange du auf deinem eigenen Account spielst**, kannst du osu! überall spielen!
 
-Solltest du in einem öffentlichen Ort spielen, achte auf die Sicherheit deines Accounts. Geteilte Computer sind oft Ziele von Angriffen mit Schadsoftware.
+Solltest du an einem öffentlichen Ort spielen, achte auf die Sicherheit deines Accounts. Geteilte Computer sind oft Ziele von Angriffen mit Schadsoftware.
 
-### Kann ich eine Liste aller Maps bekommen, die ich gespielt oder heruntergeladen habe?
+### Kann ich eine Liste aller Beatmaps bekommen, die ich gespielt oder heruntergeladen habe?
 
-**Du kannst über die Webseite alle Maps einsehen, die du gespielt hast.**
+**Du kannst über die Webseite alle Beatmaps einsehen, die du gespielt hast.**
 
-**Wenn du ein aktives Supporter-Tag besitzt**, kannst du alle Maps sehen, auf denen du einen Score erzielt hast. Dazu musst du auf die [beatmap-auflistung](https://osu.ppy.sh/beatmapsets) gehen, auf `Mehr Suchoptionen` klicken und dann den Filter `Gespielt` aktivieren. Alternativ kannst du auch [die gefilterte Liste an Beatmaps](https://osu.ppy.sh/beatmapsets?played=played) direkt abrufen.
+**Wenn du ein aktives Supporter-Tag besitzt**, kannst du alle Beatmaps sehen, auf denen du einen Score erzielt hast. Dazu musst du auf die [beatmap-auflistung](https://osu.ppy.sh/beatmapsets) gehen, auf `Mehr Suchoptionen` klicken und dann den Filter `Gespielt` aktivieren. Alternativ kannst du auch [die gefilterte Liste an Beatmaps](https://osu.ppy.sh/beatmapsets?played=played) direkt abrufen.
 
 Leider speichern wir nicht, welche Beatmaps ein Spieler heruntergeladen hat. Das heißt, es ist unmöglich davon eine Auflistung zu erhalten. Das nächste, wie du an das rankommen würdest, wäre die Benutzung des zuvor erwähnten Filters, um zumindest an die vorher gespielten Beatmaps zu gelangen.

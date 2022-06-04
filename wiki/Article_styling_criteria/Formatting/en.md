@@ -16,7 +16,7 @@ Listed below are the properly-supported locales for the wiki:
 | `cs.md` | Czech | Česky |
 | `da.md` | Danish | Dansk |
 | `de.md` | German | Deutsch |
-| `gr.md` | Greek | Ελληνικά |
+| `el.md` | Greek | Ελληνικά |
 | `es.md` | Spanish | Español |
 | `fi.md` | Finnish | Suomi |
 | `fr.md` | French | Français |
@@ -63,13 +63,27 @@ When adding this tag to an article, [comments](#comments) should also be added t
 
 *Note: Avoid translating English articles with this tag. If the English article has this tag, the translation must also have this tag.*
 
-Translated articles that are outdated must use the `outdated` tag when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. This tag must be written as shown below:
+English articles may become outdated when the content they contain is misleading or no longer relevant. These should receive an `outdated` tag, which must be written as shown below:
 
 ```yaml
 outdated: true
 ```
 
 When adding this tag to an article, [comments](#comments) should also be added to explain what needs to be updated to remove the tag.
+
+### Outdated translations
+
+Translated articles that are outdated must use the `outdated_translation` tag when the English variant is updated, except for minor wording, grammar changes, and the like, that do not affect the meaning of the article.
+
+```yaml
+outdated_translation: true
+```
+
+When outdating translations, they must also receive an `outdated_since` tag that points to the first commit where the English version is updated.
+
+```yaml
+outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
+```
 
 ### Tagging articles
 
@@ -505,6 +519,8 @@ Preformatted text (also known as code blocks) must be fenced using three grave m
 
 ## Links
 
+*See also: [Footnotes](#footnotes)*
+
 There are two types of links: inline and reference. Inline has two styles.
 
 The following is an example of both inline styles:
@@ -792,9 +808,58 @@ The following is an example of what a table should look like:
 | Maria | No Contest | Mocha |  |
 ```
 
+## Footnotes
+
+Footnotes are short notes located at the end of the page. They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article. Footnotes may contain text formatting and links.
+
+In the osu! wiki, footnotes are implemented using special syntax (`[^identifier]`). Footnotes can use any identifier, but they will automatically be rendered as superscripts with increasing numbers in order of their first appearance. The footnotes themselves must be placed in a separate second-level heading at the end of the article. Depending on the content, the heading used may be `References`, `Notes`, or `Notes and references`.
+
+Footnote references are placed directly after the words, phrases, or sentences they explain, with no space in between. These references must be placed after punctuation, except for parentheses, when they pertain to the contents inside, and dashes.<!-- Taken from https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_and_footnotes -->
+
+Correct usage examples:
+
+```markdown
+The osu! wiki is a project that was meant to replace the old FAQ system.[^wiki-faq] It was named after the rhythm game osu![^osu] and the largest open online encyclopedia, Wikipedia. From the very start, it had attracted skillful translators[^wiki-tl] and editors.
+
+## References
+
+[^wiki-faq]: https://osu.ppy.sh/community/forums/topics/68525
+[^wiki-tl]: https://osu.ppy.sh/community/forums/posts/1177500
+[^osu]: https://osu.ppy.sh/community/forums/posts/1178153
+```
+
+### Citations
+
+Citations, or references, are used to identify a source of information. Citations via footnotes should be preferred over inline links.
+
+Example:
+
+```markdown
+The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from users.[^api-praise]
+
+## References
+
+[^api-first-usage]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
+```
+
+### Notes
+
+Footnotes may be used for storing explanations or tangential remarks which cannot be inlined without worsening the article's readability, or are less significant than the article itself. Such footnotes may use free-form text.
+
+Example:
+
+```markdown
+A tournament must not be organised and run by an inexperienced team of unaccomplished and irreputable staff.[^staff]
+
+## Notes
+
+[^staff]: An *inexperienced* staff member is loosely defined as someone who has been playing osu! for less than an hour in total.
+```
+
 ## Blockquotes
 
-The blockquote is limited to quoting text from someone. It must not be used to format text otherwise. The name of the quoted person that follows the quote must be prepended by an em dash (`—`) as follows:
+The blockquote is limited to [quoting someone or something](/wiki/Article_styling_criteria/Writing#block-quotation). It must not be used to format text otherwise.
 
 ```markdown
 > plz enjoy game

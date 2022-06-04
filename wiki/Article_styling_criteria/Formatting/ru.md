@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b3aea796883d81f817472253da2f002b7a4c6996
+---
+
 # Оформление статей
 
 *См. также: [Содержание статей](/wiki/Article_styling_criteria/Writing)*
@@ -17,7 +22,7 @@
 | `cs.md` | Чешский | Česky |
 | `da.md` | Датский | Dansk |
 | `de.md` | Немецкий | Deutsch |
-| `gr.md` | Греческий | Ελληνικά |
+| `el.md` | Греческий | Ελληνικά |
 | `es.md` | Испанский | Español |
 | `fi.md` | Финский | Suomi |
 | `fr.md` | Французский | Français |

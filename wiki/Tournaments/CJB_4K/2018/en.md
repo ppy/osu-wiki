@@ -19,7 +19,7 @@ tags:
 | Live drawings | 2018-07-14 (20:30 UTC+08) |
 | Round of 16 | 2018-07-21/2018-07-22 |
 | Quarterfinals | 2018-07-28/2018-07-29 |
-| Semifinals | 2018-08-04/2018-8-05 |
+| Semifinals | 2018-08-04/2018-08-05 |
 | Finals week 1 | 2018-08-11 |
 | Finals week 2 | 2018-08-13/2018-08-14 |
 
