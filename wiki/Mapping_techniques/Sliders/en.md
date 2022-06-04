@@ -2,6 +2,8 @@
 outdated: true
 ---
 
+<!-- Outdated these articles because they were created a very long time ago, contain some deprecated/wrong info, and are generally misleading in context of more modern mapping -clayton -->
+
 <!-- TODO: Needs to be rewritten, the article does not match with other articles (writing style, formatting).
 Also check if the article matches with ASC. See #5729 for more informations -->
 

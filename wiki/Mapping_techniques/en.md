@@ -2,6 +2,8 @@
 outdated: true
 ---
 
+<!-- Outdated these articles because they were created a very long time ago, contain some deprecated/wrong info, and are generally misleading in context of more modern mapping -clayton -->
+
 # Mapping techniques
 
 Mapping techniques are methods of hit object placements/patterns that are widely used by known beatmappers in their maps.
