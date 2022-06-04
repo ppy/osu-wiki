@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 3fe983b3a55970aed91a0bcdca028253d918ae5d
 tags:
   - зачисление
@@ -26,3 +26,4 @@ tags:
 - [2019](2019)
 - [2020](2020)
 - [2021](2021)
+- [2022](2022)

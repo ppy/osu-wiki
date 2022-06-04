@@ -10,7 +10,7 @@ tags:
   - masalah
   - permasalahan
   - kehilangan
-outdated: true
+outdated_translation: true
 outdated_since: 737ea7fc657bed12687ef10e79bb9ae8f444c465
 ---
 

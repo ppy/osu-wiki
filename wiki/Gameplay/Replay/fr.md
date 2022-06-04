@@ -3,6 +3,8 @@ needs_cleanup: true
 outdated: true
 ---
 
+<!-- there are small differences with EN that should be fixed. compare line numbers with EN to find those differences easily. -->
+
 <!-- TODO: this is riddled with old client information and probably needs to be rewritten anyway. -->
 
 # Replay

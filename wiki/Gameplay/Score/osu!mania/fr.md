@@ -1,22 +1,17 @@
----
-outdated: true
-outdated_since: c78e8f94260067c49d36a55deaaf7f40cb796b39
----
-
 # Système de notation d'osu!mania
 
-*Voir aussi : [Système de jugement d'osu!mania](/wiki/Gameplay/Judgement/osu!mania)*
+*Voir également : [Système de jugement d'osu!mania](/wiki/Gameplay/Judgement/osu!mania)*
 
 Dans osu!mania, chaque beatmap possède le même score total maximum de 1 million (1,000,000)
 
-Ce score est séparé en deux parties, le score de base (base score) et le score bonus (bonus score)
+Ce score est séparé en deux parties, le score de base (base score) et le score bonus (bonus score), chacun contribuant à 50% du score total.
 
 - Le score de base est basé sur le jugement de la note.
   - Un 300 rainbow vaut légèrement plus qu'un 300.
 - Le score bonus est basé sur le jugement de la note et d'un multiplicateur variable.
   - Le multiplicateur augmente avec un 300 rainbow ou 300, tandis qu'il diminue avec un 200 ou moins.
   - Plus le jugement est favorable, plus le multiplicateur augmente ou moins la punition est sévère.
-    - Le multiplicateur est borné supérieurement
+    - Il y a une limite supérieure pour le multiplicateur.
 
 Le score accordé par chaque note est calculé à l'aide de la formule suivante :
 
@@ -33,7 +28,7 @@ MaxScore = 1 000 000
 ModMultiplier = Le multiplicateur de score des mods sélectionnés (diminution de difficulté et/ou nK)
 ModDivider = Le réducteur de punition des mods sélectionnés (augmentation de difficulté)
 
-Jugement   HitValue  HitBonusValue  HitBonus  HitPunishment
+Jugement  HitValue  HitBonusValue  HitBonus  HitPunishment
    MAX       320          32            2
    300       300          32            1
    200       200          16                        8
