@@ -177,7 +177,7 @@ TGEX 2022 was run by various osu! community members at UCSD or visiting for the 
 - Tiebreaker
   1. **[Uchu Conbini - Compass (Sing) [Space]](https://osu.ppy.sh/beatmapsets/1349881#osu/2794869)**
 
-### Seeding
+### Seeding round
 
 - NoMod
   1. [KINEMA106 - Juusou (Mordred) [Yogurtt's Extra]](https://osu.ppy.sh/beatmapsets/1301393#osu/2709081)
