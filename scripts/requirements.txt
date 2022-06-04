@@ -1,1 +1,2 @@
 yamllint==1.26.3
+osu-wiki-tools==0.0.2
