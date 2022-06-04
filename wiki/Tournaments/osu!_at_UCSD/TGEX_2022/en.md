@@ -33,7 +33,7 @@ Aside from the osu! event, TGEX hosted tournaments for many other games, panels 
 
 ## Tournament format
 
-The tournament hosted at TGEX 2022 was a 1v1 double-elimination tournament with a seeding round before the bracket. More details and rules can be found in the ["Info & Rules" tab of the main spreadsheet](https://docs.google.com/spreadsheets/d/1eckyCyhWb1Y2bNuopxzE-C-XSJ4Qil0t5utQykW3vTA/edit#gid=1843073213).
+The tournament hosted at TGEX 2022 was a 1v1 double-elimination osu! tournament with a seeding round before the bracket. More details and rules can be found in the ["Info & Rules" tab of the main spreadsheet](https://docs.google.com/spreadsheets/d/1eckyCyhWb1Y2bNuopxzE-C-XSJ4Qil0t5utQykW3vTA/edit#gid=1843073213).
 
 ## Organisation
 
