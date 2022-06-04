@@ -3,7 +3,7 @@ tags:
   - BN
   - BNG
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: deb9ce772b8229d869cc469cb7d39c007e3e55c9
 ---
 
@@ -162,9 +162,11 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | Chino |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
+| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesio |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | Coreano |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Chino |
+| ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
 | ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Chino |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Coreano |
@@ -192,6 +194,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | Español |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Francés |
+| ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | Coreano |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Alemán |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chino |

@@ -1,6 +1,6 @@
 ---
 legal: true
-outdated: true
+outdated_translation: true
 ---
 
 # นโยบายลิขสิทธิ์ของ osu!

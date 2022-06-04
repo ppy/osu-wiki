@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 700437a67e7944ce70e934e9e7f2e451ef0b947a
 tags:
   - captain

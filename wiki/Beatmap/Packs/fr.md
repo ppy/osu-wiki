@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmap packs
 
 <!-- TODO : nouveaux types de packs, nouveaux miroirs -->

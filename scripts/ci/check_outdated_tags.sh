@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MASK='---\n(.*\n)*?((outdated: |outdated_since: ).+\n)(.*\n)*?---'
+MASK='---\n(.*\n)*?outdated_(since|translation): .+\n(.*\n)*?---'
 PULL_REQUEST_TAG='SKIP_OUTDATED_CHECK'
 
 FIRST_COMMIT_HASH=$1
@@ -20,10 +20,10 @@ function print_error () {
   printf "\nIf your changes DON'T NEED to be added to the translations, add $( echo_red $PULL_REQUEST_TAG ) anywhere in the description of your pull request.\n"
   printf "Otherwise, add the following to each article's front matter (https://osu.ppy.sh/wiki/en/Article_styling_criteria/Formatting#front-matter):\n\n"
   echo_green "---"
-  echo_green "outdated: true"
   if [[ -n "$2" ]]; then
     echo_green "outdated_since: $2"
   fi
+  echo_green "outdated_translation: true"
   echo_green "---"
 }
 
@@ -38,7 +38,7 @@ fi
 
 # obtain directories of the modified en.md files, then list translations in them which:
 # - are not modified in the PR (assuming that the author took care of them)
-# - don't have the outdated/outdated_since markers
+# - don't have the outdated_since or outdated_translation markers
 MISSED_TRANSLATIONS=$( echo "$ORIGINAL_ARTICLES" | tr \\n \\0 | xargs -0 dirname | sort -u | {
   while read DIRECTORY; do
     for ARTICLE_NAME in "$DIRECTORY"/*.md; do
