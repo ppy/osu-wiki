@@ -13,7 +13,7 @@ tags:
 
 !["Welcome to TGEX" pixel art banner from the main spreadsheet](img/spreadsheet-pixel-art.png)
 
-**Triton Gaming Expo 2022** (***TGEX 2022***) was an osu! BYOC LAN event hosted by [osu! at UCSD](/wiki/Community/Organisations/osu!_at_UCSD) in collaboration with *Triton Gaming*. It shared a name with its parent event, a gaming convention spanning many more games and activities. This event and tournament was osu! at UCSD's fourth appearance at TGEX.
+**Triton Gaming Expo 2022** (***TGEX 2022***) was an osu! BYOC LAN event hosted by [osu! at UCSD](/wiki/Community/Organisations/osu!_at_UCSD) in collaboration with *Triton Gaming*. It shared its name with its parent event, a gaming convention spanning many more games and activities. This event and tournament was osu! at UCSD's fourth appearance at TGEX.
 
 ## TGEX
 
@@ -31,9 +31,9 @@ Aside from the osu! event, TGEX hosted tournaments for many other games, panels 
 - [osu! at UCSD Discord server](https://discord.gg/DqBVmv5Knx)
 - [Triton Gaming Discord server](https://discord.gg/tritongaming)
 
-## Format
+## Tournament format
 
-TGEX 2022 was a 1-on-1 double-elimination tournament with a seeding round before the bracket. More details and rules can be found in the ["Info & Rules" tab of the main spreadsheet](https://docs.google.com/spreadsheets/d/1eckyCyhWb1Y2bNuopxzE-C-XSJ4Qil0t5utQykW3vTA/edit#gid=1843073213).
+The tournament hosted at TGEX 2022 was a 1v1 double-elimination tournament with a seeding round before the bracket. More details and rules can be found in the ["Info & Rules" tab of the main spreadsheet](https://docs.google.com/spreadsheets/d/1eckyCyhWb1Y2bNuopxzE-C-XSJ4Qil0t5utQykW3vTA/edit#gid=1843073213).
 
 ## Organisation
 
@@ -295,7 +295,7 @@ TGEX 2022 was run by various osu! community members at UCSD or visiting for the 
 
 ### Seeding
 
-Seeding was done online the day prior to the LAN. Every participant played every map in the seeding pool, and they were seeded by their average placement. Details can be found in the [seeding results spreadsheet](https://docs.google.com/spreadsheets/d/1WZbENIjcmtDUcwqj-heN7MfDbsBZ8znvfprOP-Sve0g/edit).
+The seeding was done online the day prior to the LAN. Every participant played every map in the seeding mappool, and they were seeded by their average placement. Details can be found in the [seeding results spreadsheet](https://docs.google.com/spreadsheets/d/1WZbENIjcmtDUcwqj-heN7MfDbsBZ8znvfprOP-Sve0g/edit).
 
 | Player | Average rank |
 | :-- | --: |
