@@ -59,5 +59,5 @@ Do you dislike timing beatmaps? Do you stay awake at night wondering when peppy 
 
 That's all we have for this week, but there's more music on the horizon! Stalk the [@osugame Twitter](https://twitter.com/osugame) for the details and we'll see you next Wednesday.
 
-
 —pishifat
+
