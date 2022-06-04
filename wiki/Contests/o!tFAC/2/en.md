@@ -78,7 +78,7 @@ The osu!taiko Featured Artist Cup: 2nd Edition is run by various community membe
 
 ## Notes
 
-[^prizes-ranked]: 2 Beatmap Nominators from the contest staff team (either ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851), ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976), or ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)) will mod and push the map to Ranked if the mapper wants to, and **if they get the necessary diffs to form a rankable spread when needed.**
+[^prizes-ranked]: 2 Beatmap Nominators from the contest's organisation team (either ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851), ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976), or ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)) will mod and push the map to Ranked if the mapper wants to, and **if they get the necessary diffs to form a rankable spread when needed.**
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
