@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Mapping techniques
 
 Mapping techniques are methods of hit object placements/patterns that are widely used by known beatmappers in their maps.

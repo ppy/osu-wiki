@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Réaliser de bons sliders
 
 Cet article est un mode d'emploi pour réaliser de bons sliders.

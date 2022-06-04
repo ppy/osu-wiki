@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 <!-- TODO: Needs to be rewritten, the article does not match with other articles (writing style, formatting).
 Also check if the article matches with ASC. See #5729 for more informations -->
 
