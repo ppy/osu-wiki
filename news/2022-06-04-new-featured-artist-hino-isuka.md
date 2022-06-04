@@ -12,7 +12,7 @@ Ever since his beginnings in 2013, **Hino Isuka** has aimed to perfect his style
 
 **12** of his ultra-dense tracks have made their way to our humble circle clicking game too! Check them all out from [**Hino Isuka**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/272).
 
-It should be no surprise that **Hino Isuka**'s style lends flawlessly to the highest degree of map difficulty. Check out how different players fare with this 8 star beatmap of [Hino Isuka - Dreamin' attraction!!](https://osu.ppy.sh/beatmapsets/450340#osu/966202), then skim through the rest of what we have in store:
+It should be no surprise that **Hino Isuka**'s style lends flawlessly to the highest degree of map difficulty. Check out how different players fare with this 8-star beatmap of [Hino Isuka - Dreamin' attraction!!](https://osu.ppy.sh/beatmapsets/450340#osu/966202), then skim through the rest of what we have in store:
 
 <div align="center">
     <video width="100%" controls>
@@ -60,4 +60,3 @@ Do you dislike timing beatmaps? Do you stay awake at night wondering when peppy 
 That's all we have for this week, but there's more music on the horizon! Stalk the [@osugame Twitter](https://twitter.com/osugame) for the details and we'll see you next Wednesday.
 
 —pishifat
-
