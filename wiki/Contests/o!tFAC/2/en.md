@@ -52,25 +52,24 @@ The osu!taiko Featured Artist Cup: 2nd Edition is run by various community membe
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1588200)
 - [Discord server](https://discord.gg/jMsVqwPVrD)
-- [Mappers' Guild Contest Listing](https://mappersguild.com/contests/listing?contest=6297b03e101a99029ea1b06b)
-
+- [Mappers' Guild contest listing](https://mappersguild.com/contests/listing?contest=6297b03e101a99029ea1b06b)
 
 ## Ruleset
 
 ### Contest rules
 
 - **Contestants will submit a mapset of any licensed song they choose from [this list](https://bns.are-la.me/2XSGmvB.txt) of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).**
-- **Songs must not exceed 4:30 minutes of length.** There will a bit of leeway in cases where the song is really close to the 4:30 mark.
+- **Songs must not exceed a length of 4:30.** There will a bit of leeway in cases where the song is really close to the 4:30 mark.
 - **The map must be an osu!taiko map.**
 - **The mapset must include TWO difficulties: the top difficulty + a Muzukashii difficulty.** Any entry that is missing a difficulty will be disqualified.
-- **All submissions must be rankable.** No beatmap submitted must be intentionally unrankable. Mistakes happen and points will be deducted for them, but this is a regular mapping contest, not Aspire. (You're allowed to ignore spread rules for the sake of this contest.)
+- **All submissions must be rankable.** No beatmap submitted must be intentionally unrankable. Mistakes happen and points will be deducted for them, but this is a regular mapping contest, not Aspire. (You are allowed to ignore spread rules for the sake of this contest.)
 - **Maps must NOT be uploaded/shared with others before judging and results are announced.** Sharing your entry publicly by any means before the results are announced will get your entry disqualified, no questions asked.
 - **Submissions will not be accepted after the deadlines.** No exceptions.
 
 ### Judging criteria
 
 - **Judge's Impression (5 Points):** Points will be assigned based on what the judge thinks about your map.
-- **Ranking Criteria (5 Points):** Points will be assigned based on how well the map abides by the Ranking Criteria.
+- **Ranking Criteria (5 Points):** Points will be assigned based on how well the map abides by the ranking criteria.
 - **Structure (10 Points):** Points will be assigned based on how well the map is internally designed (consistency, concept introduction, etc.).
 - **Relevance (10 Points):** Points will be assigned based on how well the map represents the song and how well it plays.
 - **Creativity (10 Points):** Points will be assigned based on how the submission uses creative and fitting elements to make itself stand out.
@@ -78,7 +77,7 @@ The osu!taiko Featured Artist Cup: 2nd Edition is run by various community membe
 
 ## Notes
 
-[^prizes-ranked]: 2 Beatmap Nominators from the contest's organisation team (either ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851), ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976), or ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)) will mod and push the map to Ranked if the mapper wants to, and **if they get the necessary diffs to form a rankable spread when needed.**
+[^prizes-ranked]: 2 Beatmap Nominators from the contest's organisation team (either ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851), ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976), or ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)) will mod and push the map to Ranked if the mapper wants to, and **if they get the necessary difficulties to form a rankable spread when needed.**
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"

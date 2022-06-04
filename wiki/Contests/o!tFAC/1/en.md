@@ -67,7 +67,7 @@ This competition has come to an end and resulted in the following podium:
 
 - **Contestants will submit ONE difficulty of any licensed song they choose from the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists).**
 - **Your map must be an osu!taiko map.**
-- **All submissions must be rankable.** No beatmap submitted must be intentionally unrankable. Mistakes happen and points will be deducted for them, but this is a regular mapping contest, not Aspire. (You're allowed to ignore spread rules for the sake of this contest.)
+- **All submissions must be rankable.** No beatmap submitted must be intentionally unrankable. Mistakes happen and points will be deducted for them, but this is a regular mapping contest, not Aspire. (You are allowed to ignore spread rules for the sake of this contest.)
 - **Maps must NOT be uploaded/shared with others before judging and results are announced.** Sharing your entry publicly by any means before the results are announced will get your entry disqualified, no questions asked.
 - **Submissions will not be accepted after the deadlines.** No exceptions.
 
