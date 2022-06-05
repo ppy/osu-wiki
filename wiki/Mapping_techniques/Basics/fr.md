@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Techniques de mapping basique
 
 ## Flow de battement commun

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Techniques de mapping pour les spinners
 
 ## Effets supplémentaires

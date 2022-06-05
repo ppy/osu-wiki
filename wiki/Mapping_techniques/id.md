@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Teknik-teknik mapping
 
 Teknik-teknik mapping merupakan metode peletakan atau pembentukan pola hit object yang biasa digunakan oleh para mapper pada map-map mereka.

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Techniques de mapping pour les jumps
 
 *Voir [Techniques de mapping/Basique](/wiki/Mapping_techniques/Basics#jumps) pour une description des jumps.*
