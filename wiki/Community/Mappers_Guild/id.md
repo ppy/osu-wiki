@@ -60,7 +60,7 @@ Anggota-anggota Mappers' Guild tertentu terkadang diberikan kesempatan untuk mem
 
 ### Kontes Beatmapping
 
-Mappers' Guild juga digunakan untuk mengelola kontes beatmapping. Sejak Januari 2020, semua perulangan dari [Kontes Beatmapping Bulanan](/wiki/Contests/Monthly_Beatmapping_Contest) telah di-host, disaring, dan dinilai menggunakan sistem yang disediakan oleh Mappers' Guild. Setiap pengguna dapat menge-host kontes melalui Mappers' Guild untuk meningkatkan aksesibilitas ke komunitas mapping osu!.
+Mappers' Guild juga berfungsi selaku sarana kontes beatmapping. Sejak Januari 2020, seluruh iterasi [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) telah diselenggarakan, dijurikan, dan dinilai dengan sistem yang ditentukan oleh Mappers' Guild. Di samping itu, siapapun dapat menyelenggarakan kontesnya tersendiri melalui Mappers' Guild untuk meningkatkan aksesibilitas ke komunitas mapping.
 
 ## Sejarah
 
