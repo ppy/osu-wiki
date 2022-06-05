@@ -359,9 +359,9 @@ Geviertstriche (`—`) müssen mit einem Leerzeichen davor und dahinter verwende
 
 ### Zitate
 
-Verweis auf [Wikipedias Artikel zum Format für Zitate](https://de.wikipedia.org/wiki/Wikipedia:Zitate#Beispiele).
+Übersetzt aus dem englischen [Wikipedia Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside):
 
-Füge abschließende Satzzeichen nur dann in die Anführungszeichen ein, wenn sie im Originaltext vorhanden waren und setze sie andernfalls nach dem schließenden Anführungszeichen. In den meisten Fällen bedeutet dies, dass Punkt und Komma genauso behandelt werden wie Fragezeichen: Sie stehen innerhalb der Anführungszeichen, wenn sie sich nur auf das zitierte Material beziehen, und außerhalb, wenn sie sich auf den gesamten Satz beziehen.
+> Füge abschließende Satzzeichen nur dann in die Anführungszeichen ein, wenn sie im Originaltext vorhanden waren und setze sie andernfalls nach dem schließenden Anführungszeichen. In den meisten Fällen bedeutet dies, dass Punkt und Komma genauso behandelt werden wie Fragezeichen: Sie stehen innerhalb der Anführungszeichen, wenn sie sich nur auf das zitierte Material beziehen, und außerhalb, wenn sie sich auf den gesamten Satz beziehen.
 
 Im weiteren Sinne sollten [Betonungen](/wiki/Article_styling_criteria/Formatting#betonung), [Links](/wiki/Article_styling_criteria/Formatting#links) und Klammern denselben Regeln bezogen auf die Zeichensetzung folgen (also, ob sie einen ganzen Satz oder nur einen Teil davon miteinbeziehen).
 
