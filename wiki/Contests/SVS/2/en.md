@@ -8,7 +8,7 @@ tags:
 
 # Slider Velocity Showdown: Round 2
 
-![SVS banner](../img/banner.png)
+![SVS banner](/wiki/Contests/SVS/img/banner.png)
 
 The **Slider Velocity Showdown: Round 2** (***SVS2***) was the second iteration of the osu!taiko mapping contest with a focus on creativity and innovation. This contest was open to anyone who wanted to flex their creative muscles, whether they have never placed an inherited point in their life or if they have been mapping for years.
 
