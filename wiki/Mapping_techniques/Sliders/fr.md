@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Techniques de mapping pour les sliders
 
 *Voir aussi : [Réaliser de bons sliders](/wiki/Mapping_techniques/Making_good_sliders)*

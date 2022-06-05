@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Techniques de mapping inclassable
 
 **Dans des situations normales, l'utilisation de ces techniques rendra automatiquement votre beatmap impossible à classer !**
