@@ -252,7 +252,7 @@ Saturday, June 4, 2022
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **6** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/101169653) |
-| Ukraine ![][flag_UA] | -1 | **0** | ![][flag_BE] **Belgium** | *WBD* |
+| Ukraine ![][flag_UA] | -1 | **0** | ![][flag_BE] **Belgium** | *win by default* |
 | Portugal ![][flag_PT] | 1 | **6** | ![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/101180356) |
 | Malaysia ![][flag_MY] | 0 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/101181777) |
 | **France** ![][flag_FR] | **6** | 5 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/101183457) |
