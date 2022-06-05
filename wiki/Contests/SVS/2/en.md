@@ -62,12 +62,12 @@ This competition has come to an end and resulted in the following podium:
 
 ### Contest rules
 
-- **The contest will consist of one round where contestants will map any song of their choosing.** The chosen song must not breach the osu! [song content rules](/wiki/Rules/Song_Content_Rules); if you wouldn't upload it to your profile, then don't use it here. Anything that violates the osu! rules will be disqualified.
+- **The contest will consist of one round where contestants will map any song of their choosing.** The chosen song must not breach the osu! [song content rules](/wiki/Rules/Song_Content_Rules); if you would not upload it to your profile, then do not use it here. Anything that violates the osu! rules will be disqualified.
 - **Each contestant is limited to a single difficulty of any level.**
 - **Your map must be an osu!taiko map.**
 - **Every entry should utilise only timing points (BPM changes) and inherited points (slider velocities).** The maps do not need to be rankable; in fact, it is to give up on any chance of making a rankable map. If it helps, think of this like Aspire, but incredibly simplified. All entries that include storyboarding, hitsounding, and skinning will be disqualified. You may use sliders and spinners. Fringe entries will be dealt with on a case-by-case basis.
 - **Maps must not be uploaded before results are announced.** This includes maps that were created with no intention of being entered in this contest. Anybody who shares their map in any way before the announcement post is up will be disqualified from the contest.
-- **Submissions must be submitted via `.osz` format.** Sending in `.osu` files only is not allowed. If you don't know how to export a `.osz` file, please follow [this guide](/wiki/Client/File_formats). All `.osu` files submitted will be disqualified if a `.osz` file is not sent afterwards.
+- **Submissions must be submitted via `.osz` format.** Sending in `.osu` files only is not allowed. If you do not know how to export a `.osz` file, please follow [this guide](/wiki/Client/File_formats). All `.osu` files submitted will be disqualified if a `.osz` file is not sent afterwards.
 - **Submissions will not be accepted after the submission deadline.** No exceptions. Only the most recent entry will be considered.
 - **In order to participate, you must join the [Discord server](https://discord.gg/8WbX3XdmTs) for the contest and register as a participant.** This is purely for administrative purposes in order to keep track of who is who and make the contest run smoothly.
 - **Songs must be under 5 minutes in length.** Judging requires maps to be played multiple times. This is in order to respect the time of the judges.
