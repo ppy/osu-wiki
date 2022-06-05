@@ -131,11 +131,13 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_IE] [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一部分意大利语 |
 | ![][flag_BR] [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 |
+| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | 荷兰语 |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 日语，粤语，汉语 |
 | ![][flag_US] [meiqth](https://osu.ppy.sh/users/12565402) |  |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 汉语 |
 | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |  |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | 俄语 |
+| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | 葡萄牙语 |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一部分法语 |
 
 #### osu!catch
@@ -163,6 +165,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | 印度尼西亚语 |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | 韩语 |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | 汉语 |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
@@ -205,11 +208,11 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | :-- | :-- |
 | ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | 芬兰语，一部分瑞典语 |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | 日语 |
-| ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | 韩语 |
+| ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | 日语 |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
 | ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | 芬兰语 |
 | ![][flag_ID] [Surono](https://osu.ppy.sh/users/3611370) | 印度尼西亚语 |
-| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | 葡萄牙语 |
+| ![][flag_PL] [yurishe](https://osu.ppy.sh/users/14890963) | 波兰语 |
 
 #### osu!catch
 
@@ -223,7 +226,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | :-- | :-- |
 | ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | 汉语 |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | 汉语 |
-| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
+| ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | 西班牙语 |
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | 马来语 |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | 印度尼西亚语 |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
@@ -248,6 +251,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_DK]: /wiki/shared/flag/DK.gif "丹麦"
+[flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"
 [flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
 [flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
 [flag_FR]: /wiki/shared/flag/FR.gif "法国"
@@ -266,6 +270,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
 [flag_NO]: /wiki/shared/flag/NO.gif "挪威"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
+[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
 [flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
 [flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
 [flag_TH]: /wiki/shared/flag/TH.gif "泰国"
