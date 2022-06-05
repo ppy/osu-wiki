@@ -51,6 +51,18 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 - [Iyowa feat. KAFU - Kyu-kurarin (0ugi) \[Anxiety\]](https://osu.ppy.sh/beatmapsets/1591460#osu/3250375), suggested by [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - [Yousei Teikoku - Zetsu (Mazzerin) \[Mazzerin's Extreme\]](https://osu.ppy.sh/beatmapsets/1262446#osu/2929651), suggested by [Omgforz](https://osu.ppy.sh/users/578943)
 
+#### Playlist B
+
+- [Annabel - little voice (Niva) \[Niva's Hard\]](https://osu.ppy.sh/beatmapsets/1619033#osu/3343181), suggested by [Nowaie](https://osu.ppy.sh/users/5428909)
+- [Silver Forest - Kero (9) destiny (Bloxi) \[Hard\]](https://osu.ppy.sh/beatmapsets/1670776#osu/3423825), suggested by [DeviousPanda](https://osu.ppy.sh/users/4966334)
+- [Aimer - Kataomoi (Moecho) \[Darlin', Aishiteru.\]](https://osu.ppy.sh/beatmapsets/1058659#osu/2217225), suggested by [Zelq](https://osu.ppy.sh/users/8953955)
+- [xi - Parousia (Niva) \[Eschatology\]](https://osu.ppy.sh/beatmapsets/1672934#osu/3417286), suggested by [Lefafel](https://osu.ppy.sh/users/2295850)
+- [KOAN Sound x Culprate x Reso x Asa - Cascade (Arbane) \[Within The Rapids\]](https://osu.ppy.sh/beatmapsets/1464050#osu/3007225), suggested by [Nowaie](https://osu.ppy.sh/users/5428909)
+- [Shibayan feat. 3L - Getsurei 11.3 no Candle Magic (RLC) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/795140#osu/1669949), suggested by [Omgforz](https://osu.ppy.sh/users/578943)
+- [Pegboard Nerds - Heartbit (feat. Tia Simone) (Altai) \[pulse.exe\]](https://osu.ppy.sh/beatmapsets/1557716#osu/3182052), suggested by [Riot](https://osu.ppy.sh/users/4256461)
+- [BEMANI Sound Team "Nekomata Master" - The last of world music (Heilia) \[Extra\]](https://osu.ppy.sh/beatmapsets/1060239#osu/2219980), suggested by [Zelq](https://osu.ppy.sh/users/8953955)
+- [Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix (Yusomi) \[Yusomi's ULTRA\]](https://osu.ppy.sh/beatmapsets/1197597#osu/2880023), suggested by [Omgforz](https://osu.ppy.sh/users/578943)
+
 ### osu!taiko (led by [Hivie](https://osu.ppy.sh/users/14102976))
 
 #### Playlist A (high speed)
@@ -64,6 +76,18 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 - [dev - memories (WTHBRO) \[nostalgia\]](https://osu.ppy.sh/beatmapsets/1526077#taiko/3122207), suggested by [\[Zeth\]](https://osu.ppy.sh/users/9912966)
 - [UNDEAD CORPORATION - Flowering Night Fever Guitar Inst-hen (Greenshell) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1506936#taiko/3217017), suggested by [Axer](https://osu.ppy.sh/users/7299864)
 - [Kobaryo - Cartoon Candy (Hivie) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1496486#taiko/3067850), suggested by [Axer](https://osu.ppy.sh/users/7299864)
+
+#### Playlist B
+
+- [Hakushi Hasegawa - Scary Point (woosungko) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1715489#taiko/3505281), suggested by [\[Zeth\]](https://osu.ppy.sh/users/9912966)
+- [ZUN remixed by LeaF - Resurrection Spell (TKS) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/643492#taiko/1416126), suggested by [uone](https://osu.ppy.sh/users/5321719)
+- [Camellia - overcomplexification (Dusk-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1484214#taiko/3089870), suggested by [uone](https://osu.ppy.sh/users/5321719)
+- [Slax - Sugar Loli (ler1211) \[Oni\]](https://osu.ppy.sh/beatmapsets/1634301#taiko/3335629), suggested by [uone](https://osu.ppy.sh/users/5321719)
+- [DHMPR x SPORIA - Tsukasa (CallMeLyra) \[Oni\]](https://osu.ppy.sh/beatmapsets/1668744#taiko/3413636), suggested by [Hivie](https://osu.ppy.sh/users/14102976)
+- [Camellia - Looking for Edge of Ground (Genjuro) \[Beyond the Horizon\]](https://osu.ppy.sh/beatmapsets/1678197#taiko/3428627), suggested by [\[Zeth\]](https://osu.ppy.sh/users/9912966)
+- [uraboroshi - Retrospective Arabesque (paz08) \[Retrospective Oni\]](https://osu.ppy.sh/beatmapsets/1469387#taiko/3016782), suggested by [Axer](https://osu.ppy.sh/users/7299864)
+- [LeaF - Ka (Eyenine) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1530955#taiko/3211235), suggested by [Nifty](https://osu.ppy.sh/users/4956097)
+- [NIWASHI - Sapphire On Fire (Axer) \[Axer's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1698611#taiko/3471382), suggested by [\[Zeth\]](https://osu.ppy.sh/users/9912966)
 
 ### osu!catch (led by [SadEgg](https://osu.ppy.sh/users/10278243))
 
@@ -79,6 +103,18 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 - [Horie Yui - The World's End (Bastian and Greaper) \[Bastian & Greaper's Finale\]](https://osu.ppy.sh/beatmapsets/1134081#fruits/2368389), suggested by [wonjae](https://osu.ppy.sh/users/5032045)
 - [Rish feat. Choko - Punai Punai Taisou (Kukkai) \[271 271\]](https://osu.ppy.sh/beatmapsets/1560368#fruits/3186972), suggested by [x\_angelkawaii\_x](https://osu.ppy.sh/users/566276)
 
+#### Playlist B
+
+- [t+pazolite - Never Let me Go (Unlucky\_w) \[Platter\]](https://osu.ppy.sh/beatmapsets/1393508#fruits/2878615), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
+- [DJ TOTTO feat. \*spiLa\* - illumina (Xetopia) \[Platter\]](https://osu.ppy.sh/beatmapsets/880513#fruits/2594189), suggested by [wonjae](https://osu.ppy.sh/users/5032045)
+- [VANTAGE - Count What You Have Now (wonjae) \[Mogul Moves\]](https://osu.ppy.sh/beatmapsets/1176960#fruits/2454654), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
+- [Hyuji feat. LIQU@. - Mermaid girl (Tropical Remix) (Spectator) \[Spec's EXHAUST\]](https://osu.ppy.sh/beatmapsets/1244353#fruits/2591952), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
+- [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Len) \[Fast's Rain\]](https://osu.ppy.sh/beatmapsets/139525#fruits/517720), suggested by [wonjae](https://osu.ppy.sh/users/5032045)
+- [Minato Aqua - Shiroi Yuki no Princess wa (Secre) \[Snow White Tenshi\]](https://osu.ppy.sh/beatmapsets/1375156#fruits/2842588), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
+- [Sakuzyo - Fracture Ray (GiGas) \[Meteor Shower\]](https://osu.ppy.sh/beatmapsets/1007778#fruits/2109222), suggested by [wonjae](https://osu.ppy.sh/users/5032045)
+- [Selphius - Los! Los! Los! (Crowley) \[Crowley's Overdose\]](https://osu.ppy.sh/beatmapsets/1018035#fruits/2131166), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
+- [yozuca\* - LOVING TRIP (-Luminate) \[Delightful\]](https://osu.ppy.sh/beatmapsets/1080025#fruits/2259596), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
+
 ### osu!mania (led by [Crumpey](https://osu.ppy.sh/users/3518705))
 
 #### Playlist A (high speed)
@@ -92,3 +128,15 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 - [Hypernite Industries - Speedcore 300 (nowsmart) \[Extra\]](https://osu.ppy.sh/beatmapsets/228853#mania/532796), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
 - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru (Evening) \[Till November Night (reprise)\]](https://osu.ppy.sh/beatmapsets/1647221#mania/3362200), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
 - [Frums - VIS::CRACKED (\[Crz\]Crysarlene) \[Mipha vs. Crys's Oblivion\]](https://osu.ppy.sh/beatmapsets/1561114#mania/3188294), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
+
+#### Playlist B
+
+- [MaxNRG - Hide Away My Heart (FAMoss) \[\[4K\] FAMoss' Hard\]](https://osu.ppy.sh/beatmapsets/668691#mania/1932787), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
+- [MuryokuP - Frozen World (pwhk) \[\[8K\] Hyper\]](https://osu.ppy.sh/beatmapsets/693381#mania/1467150), suggested by [lenpai](https://osu.ppy.sh/users/5314573)
+- [C-Show - On the FM (Sandalphon) \[4K Shaking!!\]](https://osu.ppy.sh/beatmapsets/531090#mania/1125596), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
+- [PokeSky - Into Space (PokeSky) \[\[4K\] Odyssey\]](https://osu.ppy.sh/beatmapsets/1359629#mania/2813453), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
+- [Teminite & MDK - Space Invaders (Roasted Chicken) \[\[4K\] Battle of the Seven Galaxies\]](https://osu.ppy.sh/beatmapsets/1152802#mania/2496360), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
+- [xi - Double Helix (Roasted Chicken) \[\[4K\] Intertwined Fate\]](https://osu.ppy.sh/beatmapsets/1604725#mania/3276905), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
+- [fishbowl feat. Yukichikasaku/men - Shinkai (Rio1-) \[\[7K\] Ocean\]](https://osu.ppy.sh/beatmapsets/1722448#mania/3520304), suggested by [lenpai](https://osu.ppy.sh/users/5314573)
+- [F-777 - Airborne Robots (Curiossity) \[\[4K\] AIRBORNE\]](https://osu.ppy.sh/beatmapsets/473736#mania/1403050), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
+- [t+pazolite - Shiny Kung-fu Revival (Critical\_Star) \[\[4K\] CS' Master\]](https://osu.ppy.sh/beatmapsets/1128753#mania/2358149), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
