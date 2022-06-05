@@ -251,11 +251,21 @@ The **osb! Storyboarding Contest** is a storyboarding contest where participatin
 
 ### osu!taiko Featured Artist Cup
 
-The **osu!taiko Featured Artist Cup #1** is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists.
+The **osu!taiko Featured Artist Cup** is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists. The contest sometimes has specific limitations/gimmicks in order to put the contestants' skills to the test.
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/o!tFAC/1) | ![][flag_KR] [woosungko](https://osu.ppy.sh/users/14184157) | ![][flag_TH] [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
+| [#2](/wiki/Contests/o!tFAC/2) | *TBD* | *TBD* | *TBD* | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
+
+### Slider Velocity Showdown
+
+The **Slider Velocity Showdown** is an osu!taiko mapping contest with a focus on creativity and innovation. This contest is open to anyone who wants to flex their creative muscles, whether they have never placed an inherited point in their life or if they have been mapping for years.
+
+| Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](/wiki/Contests/SVS/1) | ![][flag_NL] [Cookie_Tree](https://osu.ppy.sh/users/502722) | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) | ![][flag_JP] [Grape_Tea](https://osu.ppy.sh/users/9540073) | [#1](https://osu.ppy.sh/community/forums/topics/1361851) |
+| [#2](/wiki/Contests/SVS/2) | ![][flag_TW] [katacheh](https://osu.ppy.sh/users/6651672) | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | ![][flag_PH] [Fynbi](https://osu.ppy.sh/users/2164993) | [#1](https://osu.ppy.sh/community/forums/topics/1493798) |
 
 ### Pending Cup
 
