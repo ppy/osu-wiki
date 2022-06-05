@@ -251,7 +251,7 @@ The **osb! Storyboarding Contest** is a storyboarding contest where participatin
 
 ### osu!taiko Featured Artist Cup
 
-The **osu!taiko Featured Artist Cup** is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists. The contest can sometimes have specific limitations/gimmicks in order to put the contestants' skills to the test.
+The **osu!taiko Featured Artist Cup** is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists. The contest sometimes has specific limitations/gimmicks in order to put the contestants' skills to the test.
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
@@ -260,7 +260,7 @@ The **osu!taiko Featured Artist Cup** is an osu!taiko mapping contest where cont
 
 ### Slider Velocity Showdown
 
-The **Slider Velocity Showdown** is the osu!taiko mapping contest with a focus on creativity and innovation. This contest is open to anyone who wanted to flex their creative muscles, whether they have never placed an inherited point in their life or if they have been mapping for years.
+The **Slider Velocity Showdown** is an osu!taiko mapping contest with a focus on creativity and innovation. This contest is open to anyone who wants to flex their creative muscles, whether they have never placed an inherited point in their life or if they have been mapping for years.
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
