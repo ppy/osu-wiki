@@ -168,7 +168,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
   1. [Ponkichi - PPBQ (F D Flourite) \[Be Quiet... (CWC Edit.)\]](https://osu.ppy.sh/beatmapsets/1779471#fruits/3644354)
   2. [kors k - SigSig (AJT) \[Dream\]](https://osu.ppy.sh/beatmapsets/1615650#fruits/3298591)
 - Tiebreaker
-  1. [Culprate & Zenji - Ghostmachine (Mniam) \[Collab Phantom\]](https://osu.ppy.sh/beatmapsets/1779478#fruits/3644369)
+  1. **[Culprate & Zenji - Ghostmachine (Mniam) \[Collab Phantom\]](https://osu.ppy.sh/beatmapsets/1779478#fruits/3644369)**
 
 ### Round of 16
 
