@@ -12,7 +12,7 @@ tags:
 
 ## Programme
 
-| Événement | Temps |
+| Événement | Date |
 | :-- | :-- |
 | Début de la saison | 22 mai 2022 |
 | Playlist lobby : Playlist A | 22 mai - 5 juin 2022 |
@@ -35,7 +35,7 @@ Pour le moment, les participants doivent télécharger et installer [osu!(lazer)
 3. Au sein d'un lobby, tout le monde est en compétition pour un classement spécifique à la salle.
    - Seuls les meilleurs scores sur chaque beatmap au sein de la playlist seront additionnés pour créer un classement hebdomadaire pour chaque joueur.
    - Chaque beatmap d'une playlist compte de manière égale pour le score du classement.
-   - Le score individuel d'une beatmap est basé sur le système de score du client osu! (lazer).
+   - Le score individuel d'une beatmap est basé sur le système de score du client osu!(lazer).
 4. Une fois qu'une playlist d'un lobby est terminée, le score hebdomadaire de chaque participant de la salle est ajouté au classement saisonnier.
 
 ## Playlists
