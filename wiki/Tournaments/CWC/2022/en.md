@@ -241,8 +241,6 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
   1. [WOODKID - Iron (Ascendance) \[Requiescat in Pace\]](https://osu.ppy.sh/beatmapsets/1763686#fruits/3609911)
   2. [Tatsh - Lunatic Tears... (Tatsh Remix) (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/1460718#fruits/3001358)
 
-
-
 ## Match results
 
 ### Round of 16
