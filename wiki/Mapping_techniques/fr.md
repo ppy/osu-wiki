@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Techniques de mapping
 
 Les **techniques de mapping** sont des méthodes de placements/patterns qui sont largement utilisés par les mappers connus dans leurs beatmaps.

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Formations sur le mapping
 
 ## Créatif

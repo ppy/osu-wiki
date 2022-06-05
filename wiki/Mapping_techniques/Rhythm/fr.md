@@ -1,4 +1,8 @@
-# Techniques de mapping sur le rythme 
+---
+outdated: true
+---
+
+# Techniques de mapping sur le rythme
 
 ## Espacement
 
