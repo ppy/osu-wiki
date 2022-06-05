@@ -30,7 +30,7 @@ The Slider Velocity Showdown was run by various community members.
 | Host | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097), ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_JP] [komasy](https://osu.ppy.sh/users/1980256) |
 | Designer | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) |
 | Judge | ![][flag_US] [Alchyr](https://osu.ppy.sh/users/4993032), ![][flag_GR] [Genjuro](https://osu.ppy.sh/users/3196091), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401), ![][flag_TW] [katacheh](https://osu.ppy.sh/users/6651672), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857), ![][flag_DE] [xMrtn-](https://osu.ppy.sh/users/866297) |
-| Translators | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) (Spanish translation), ![][flag_JP] [komasy](https://osu.ppy.sh/users/1980256) (Japanese translation) |
+| Translator | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) (Spanish translation), ![][flag_JP] [komasy](https://osu.ppy.sh/users/1980256) (Japanese translation) |
 
 ## Prizes
 
