@@ -40,7 +40,7 @@ Es gibt eine spürbare Verzögerung zwischen dem Tippen auf der Tastatur, dem Be
 
 - Prüfe, ob es bei allen Eingabegeräten passiert oder bei einem spezifischen Gerät.
 - Wenn du inoffizielle Treiber benutzt, versuche zu den offiziellen zu wechseln.
-- Sorge dafür, dass osu! exklusiv im Vollbildmodus läuft. Der randlose oder Fenstermodus können bis zu ein Frame an Verzögerung hinzufügen.
+- Sorge dafür, dass osu! im exklusiven Vollbildmodus läuft. Der randlose oder Fenstermodus können bis zu einem Frame an Verzögerung hinzufügen.
 
 ### Kontrollverlust
 
