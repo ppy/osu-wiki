@@ -1,3 +1,8 @@
+---
+outdated_since: 477f1b0f08330263736802a08436d6d8990d2ea7
+outdated_translation: true
+---
+
 # .osu (文件格式)
 
 **`.osu`** 是一种人类可读的，包含谱面信息的文件格式。

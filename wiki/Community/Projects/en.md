@@ -80,10 +80,6 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - [Wii Tatacon to USB Converter](https://osu.ppy.sh/community/forums/topics/258400)—A low cost Wii Tatacon to USB dongle to reduce input latency.
   - [GitHub](https://github.com/mon/TataconUSB) | [Website](https://mon.im/tatacon/)
 
-<!-- #### osu!catch -->
-
-<!-- #### osu!mania -->
-
 ### Live streaming
 
 - gosumemory—Cross-platform memory reader for osu!
@@ -117,10 +113,6 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - [osu! Slider End Silencer](https://osu.ppy.sh/community/forums/topics/634268)—A tool that inserts inherited points to silence slider tails.
   - [GitHub](https://github.com/kdai11830/sliderend-silencer)
 - [osu! Stacking tool](https://osu.ppy.sh/community/forums/topics/561477)—Stack hit circles and slider heads on top one another.
-
-<!-- #### osu!taiko -->
-
-<!-- #### osu!catch -->
 
 #### osu!mania
 
