@@ -58,7 +58,7 @@ Während des Spielens kann die Bildrate nicht mithalten, was dazu führt, dass s
 - Versuche, das FPS-Limit zu ändern und schaue, ob es etwas hilft.
 - Sorge dafür, dass osu! im exklusiven Vollbildmodus (nicht im randlosen Modus) läuft. Das wird die Leistung immer verbessern.
 - Stelle sicher, dass du den [Spielmodus](https://www.giga.de/downloads/windows-10/tipps/windows-10-game-mode-was-ist-das/) aktiviert hast. Er erlaubt Windows die Bereitstellung dedizierter Kerne und Ressourcen für osu!.
-- Öffne den Task-Manager und ordne die Liste (unter Details) nach CPU. Schaue nach hohen CPU-Auslastungen, sobald Spikes auftreten, zum Beispiel durch einen Viren- oder Malware-Scanner im Hintergrund. Du kannst osu! im Fenstermodus laufen lassen oder den Task-Manager auf einem zweiten Bildschirm platzieren, um das zu diagnostizieren, während du selbst spielst oder eine Beatmap mit der Mod Auto ausführst.
+- Öffne den Task-Manager und ordne die Liste (unter Details) nach CPU. Schaue nach hohen CPU-Auslastungen während Perioden mit niedriger Bildrate, zum Beispiel durch einen Viren- oder Malware-Scanner im Hintergrund. Du kannst osu! im Fenstermodus laufen lassen oder den Task-Manager auf einem zweiten Bildschirm platzieren, um das zu diagnostizieren, während du selbst spielst oder eine Beatmap mit der Mod Auto ausführst.
 
 ## FPS-Limits
 
