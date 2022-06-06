@@ -1986,8 +1986,8 @@
 "contributing_code_of_conduct":     "Rules/Contributor_Code_of_Conduct"
 "contributor_code_of_conduct":      "Rules/Contributor_Code_of_Conduct"
 
-"mapping_techniques/sliders":       "Gameplay/Hit_object/Slider"
-"mapping_techniques/spinners":      "Gameplay/Hit_object/Spinner"
+"mapping_techniques/sliders":       "Beatmapping/Mapping_techniques/Sliders"
+"mapping_techniques/spinners":      "Beatmapping/Mapping_techniques/Spinners"
 
 "beatmap_editor/timing":            "Beatmapping/Timing"
 "client/beatmap_editor/timing":     "Beatmapping/Timing"
