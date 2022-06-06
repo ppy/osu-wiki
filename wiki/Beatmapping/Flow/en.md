@@ -21,7 +21,7 @@ While movement preferences vary from one person to another, there are a few idea
 
 ### Smooth movement
 
-Series of hit objects that require smooth movement, without sharp, abrupt turns, or fast changes of pace, can be considered comfortable to play. In such patterns, the player's cursor may follow a smooth curve throughout. These curves are usually characterised by circular or semicircular segments (so-called *oval* or *circular flow*) going either clockwise or anticlockwise. Beatmaps often switch the direction of the circular flow at regular intervals,[^circular-flow] where the transitions can often accompanied by "neutral" patterns to ease the transition to the next pattern.
+Series of hit objects that require smooth movement, without sharp, abrupt turns, or fast changes of pace, can be considered comfortable to play. In such patterns, the player's cursor may follow a smooth curve throughout. These curves are usually characterised by circular or semicircular segments (so-called *oval* or *circular flow*) going either clockwise or anticlockwise. Beatmaps often switch the direction of the circular flow at regular intervals,[^circular-flow] where the transitions are often accompanied by "neutral" patterns to ease the transition to the next pattern.
 
 Linear movement may also be considered another form of smooth flow, albeit less common, since it does not enforce any specific cursor trajectory type.
 
