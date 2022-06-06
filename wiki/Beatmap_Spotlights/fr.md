@@ -12,7 +12,7 @@ tags:
 
 ![Logo du Beatmap Spotlights](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-Le **Beatmap Spotlights** (ou simplement *Spotlights*, anciennement *Ranking Charts*.) est un programme récurrent de recommandation et de mise en avant des [beatmaps](/wiki/Beatmap) pour leur design et leur gameplay excellents et uniques. Il est accompagné d'une [ligue saisonnière](#saisons-spotlights), où les joueurs s'affrontent sur ces beatmaps pour gagner des [badges](#rewards).
+Le **Beatmap Spotlights** (ou simplement *Spotlights*, anciennement *Ranking Charts*.) est un programme récurrent de recommandation et de mise en avant des [beatmaps](/wiki/Beatmap) pour leur design et leur gameplay excellents et uniques. Il est accompagné d'une [ligue saisonnière](#saisons-spotlights), où les joueurs s'affrontent sur ces beatmaps pour gagner des [badges](#récompenses).
 
 La saison actuelle est celle du printemps 2022.
 
