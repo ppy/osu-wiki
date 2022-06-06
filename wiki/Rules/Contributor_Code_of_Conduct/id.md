@@ -77,14 +77,8 @@ Pengelola komunitas akan mengikuti Pedoman Dampak Komunitas berikut dalam menent
 
 ## Atribusi
 
-Kode Etik ini diadaptasi dari [Contributor Covenant][homepage], tersedia di [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
+Kode Etik ini diadaptasi dari [Contributor Covenant](https://www.contributor-covenant.org), tersedia di <https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>.
 
-Pedoman Dampak Komunitas terinsipirasi dari [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+Pedoman Dampak Komunitas terinsipirasi dari [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
-Untuk jawaban atas pertanyaan umum tentang kode etik ini, lihat FAQ di [https://www.contributor-covenant.org/faq][FAQ]. Terjemahan tersedia di [https://www.contributor-covenant.org/translations][translations].
-
-[homepage]: https://www.contributor-covenant.org
-[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+Untuk jawaban atas pertanyaan umum tentang kode etik ini, lihat FAQ di <https://www.contributor-covenant.org/faq>. Terjemahan tersedia di <https://www.contributor-covenant.org/translations>.
