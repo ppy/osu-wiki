@@ -23,7 +23,9 @@ Un comportement durable en contradiction avec ces attentes est un motif d'exclus
   - **Le fait de passer sous la barre des 90 jours avec plus de 60 jours de nominations entraînera un avertissement d'activité.** 
   - Lorsque vous êtes averti pour votre activité, les exigences minimales d'activité pour votre ou vos modes de jeu respectifs doivent être remplies au cours d'un mois.
   - Le fait de ne pas respecter le minimum requis alors que l'on a déjà reçu un avertissement à ce sujet peut entraîner l'exclusion des Beatmap Nominators.
-- **Vous ne pouvez pas dépasser 75 nominations uniques sur une période de 90 jours.** Ceux qui dépassent ce montant seront d'abord avertis, puis exclus s'ils ne gèrent pas leur activité en conséquence.
+- Les Beatmap Nominators doivent rester en dessous d'un nombre maximum de nominations dans une période de 90 jours, avec pour chaque mode de jeu sa propre limite de nominations. Dépasser cette limite entraînera un avertissement, puis une exclusion s'ils n'arrivent pas à gérer leur activité en conséquence.
+  - osu!, osu!catch et osu!mania : 75 nominations uniques.
+  - osu!taiko : 100 nominations uniques.
 
 ### Exigences
 

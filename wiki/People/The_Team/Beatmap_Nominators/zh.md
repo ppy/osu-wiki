@@ -161,9 +161,11 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | 汉语 |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
+| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | 印度尼西亚语 |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | 韩语 |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | 汉语 |
+| ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | 韩语 |
 | ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | 汉语 |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | 韩语 |
@@ -191,6 +193,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | 西班牙语 |
 | ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | 法语 |
+| ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | 韩语 |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | 德语 |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 汉语 |
@@ -220,12 +223,11 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | :-- | :-- |
 | ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | 汉语 |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | 汉语 |
-| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | 印度尼西亚语 |
 | ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | 马来语 |
-| ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | 印度尼西亚语 |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
+| ![][flag_ID] [Syrion-](https://osu.ppy.sh/users/15380643) | 印度尼西亚语 |
 
 ## 历史
 

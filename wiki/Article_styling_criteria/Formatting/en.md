@@ -16,7 +16,7 @@ Listed below are the properly-supported locales for the wiki:
 | `cs.md` | Czech | Česky |
 | `da.md` | Danish | Dansk |
 | `de.md` | German | Deutsch |
-| `gr.md` | Greek | Ελληνικά |
+| `el.md` | Greek | Ελληνικά |
 | `es.md` | Spanish | Español |
 | `fi.md` | Finnish | Suomi |
 | `fr.md` | French | Français |
@@ -63,13 +63,27 @@ When adding this tag to an article, [comments](#comments) should also be added t
 
 *Note: Avoid translating English articles with this tag. If the English article has this tag, the translation must also have this tag.*
 
-Translated articles that are outdated must use the `outdated` tag when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. This tag must be written as shown below:
+English articles may become outdated when the content they contain is misleading or no longer relevant. These should receive an `outdated` tag, which must be written as shown below:
 
 ```yaml
 outdated: true
 ```
 
 When adding this tag to an article, [comments](#comments) should also be added to explain what needs to be updated to remove the tag.
+
+### Outdated translations
+
+Translated articles that are outdated must use the `outdated_translation` tag when the English variant is updated, except for minor wording, grammar changes, and the like, that do not affect the meaning of the article.
+
+```yaml
+outdated_translation: true
+```
+
+When outdating translations, they must also receive an `outdated_since` tag that points to the first commit where the English version is updated.
+
+```yaml
+outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
+```
 
 ### Tagging articles
 
@@ -845,7 +859,7 @@ A tournament must not be organised and run by an inexperienced team of unaccompl
 
 ## Blockquotes
 
-The blockquote is limited to quoting text from someone. It must not be used to format text otherwise. The name of the quoted person that follows the quote must be prepended by an em dash (`—`) as follows:
+The blockquote is limited to [quoting someone or something](/wiki/Article_styling_criteria/Writing#block-quotation). It must not be used to format text otherwise.
 
 ```markdown
 > plz enjoy game
