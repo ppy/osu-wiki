@@ -22,7 +22,7 @@ Die eigentliche Audiospur der Beatmap spult im Takt zurück oder fällt aus. Gru
 - Prüfe, ob es auf allen verfügbaren Audiogeräten passiert. Wenn du einen USB-Kopfhörer benutzt, versuche stattdessen eine Verbindung über den analogen Ausgang deines PCs.
 - Prüfe, ob es hilft, den `Audio compatibility mode` in den Einstellungen zu aktivieren.
 
-### Spike frame<!--not sure on translation, maybe stottern or Leistungseinbußen?-->
+### Spike-Frame
 
 Während des Spielens hält alles lange genug an, sodass das Spielerlebnis beeinträchtigt wird. Das kann mehr als einmal auftreten, nach dem Zufallsprinzip oder in gleichmäßigen Abständen. Beim Diagnostizieren oder Melden kann Folgendes helfen:
 
