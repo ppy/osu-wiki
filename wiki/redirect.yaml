@@ -253,7 +253,6 @@
 "passed":                      "Gameplay/Pass"
 "passing":                     "Gameplay/Pass"
 "peppy":                       "People/peppy"
-"resnap":                      "Resnap"
 "restricted_mode":             "Help_Centre/Account_Restrictions"
 "restricted":                  "Help_Centre/Account_Restrictions"
 "sample_set":                  "Beatmapping/Sampleset"
@@ -2019,3 +2018,5 @@
 
 "grid_snap":                        "Beatmapping/Grid_snapping"
 "grid_snapping":                    "Beatmapping/Grid_snapping"
+
+"resnap":                           "Client/Beatmap_editor/Resnap"
