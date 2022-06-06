@@ -77,15 +77,9 @@
 
 ## 来源
 
-本行为标准改编自[参与者公约][homepage]，可在此查阅：[https://www.contributor-covenant.org/zh-cn/version/2/0/code_of_conduct.html][v2.0]
+本行为标准改编自[参与者公约](https://www.contributor-covenant.org)，可在此查阅：<https://www.contributor-covenant.org/zh-cn/version/2/0/code_of_conduct.html>
 
-指导方针借鉴自[Mozilla纪检分级][Mozilla CoC]。
+指导方针借鉴自[Mozilla纪检分级](https://github.com/mozilla/diversity)。
 
-此行为标准常见问题请洽：[https://www.contributor-covenant.org/faq][FAQ]。
-另有诸译本：[https://www.contributor-covenant.org/translations][translations]。
-
-[homepage]: https://www.contributor-covenant.org
-[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+此行为标准常见问题请洽：<https://www.contributor-covenant.org/faq>。
+另有诸译本：<https://www.contributor-covenant.org/translations>。
