@@ -146,7 +146,6 @@
 "accuracy":                    "Gameplay/Accuracy"
 "aspire":                      "Contests/Aspire"
 "authentic":                   "Beatmap/Authentic"
-"beat_spacing":                "Mapping_Techniques/Time-distance_equality"
 "beatmapid":                   "Beatmap#identification"
 "beatmap_id":                  "Beatmap#identification"
 "beatmapset":                  "Beatmap"
@@ -212,7 +211,6 @@
 "激":                          "Gameplay/Judgement/Geki"
 "grade":                       "Gameplay/Grade"
 "grades":                      "Gameplay/Grade"
-"grid_snap":                   "Grid_snapping"
 "guest_difficulty":            "Beatmap/Guest_difficulty"
 "gd":                          "Beatmap/Guest_difficulty"
 "health":                      "Gameplay/Health"
@@ -1460,23 +1458,31 @@
 "beatmapping/approach_rate":        "Beatmap/Approach_rate"
 "cs":                               "Beatmap/Circle_size"
 "circle_size":                      "Beatmap/Circle_size"
+"beatmapping/circle_size":          "Beatmap/Circle_size"
 "countdown":                        "Beatmap/Countdown"
+"beatmapping/countdown":            "Beatmap/Countdown"
 "drain_time":                       "Beatmap/Drain_time"
+"gameplay/drain_time":              "Beatmap/Drain_time"
 "hp":                               "Beatmap/HP_drain_rate"
 "hp_drain":                         "Beatmap/HP_drain_rate"
 "hp_drain_rate":                    "Beatmap/HP_drain_rate"
 "drain_rate":                       "Beatmap/HP_drain_rate"
+"beatmapping/hp_drain_rate":        "Beatmap/HP_drain_rate"
 "od":                               "Beatmap/Overall_difficulty"
 "overall_difficulty":               "Beatmap/Overall_difficulty"
 "beatmapping/overall_difficulty":   "Beatmap/Overall_difficulty"
 "play_time":                        "Beatmap/Play_time"
+"gameplay/play_time":               "Beatmap/Play_time"
 "difficulty_stars":                 "Beatmap/Star_rating"
 "difficulty_star":                  "Beatmap/Star_rating"
+"beatmapping/star_rating":          "Beatmap/Star_rating"
 "compilation":                      "Beatmap/Song_compilation"
 "song_compilation":                 "Beatmap/Song_compilation"
+"beatmapping/song_compilation":     "Beatmap/Song_compilation"
 "beatmap/history_of_loved":         "History_of_osu!/History_of_Loved"
 
 "active_object":                    "Beatmapping/Active_object"
+"glossary/active_object":           "Beatmapping/Active_object"
 
 "bss":                              "Beatmapping/Beatmap_submission"
 "beatmap_submission_system":        "Beatmapping/Beatmap_submission"
@@ -1486,6 +1492,7 @@
 "lead_in":                          "Beatmapping/Lead-in"
 "lead-in_time":                     "Beatmapping/Lead-in"
 "lead_in_time":                     "Beatmapping/Lead-in"
+"glossary/lead-in":                 "Beatmapping/Lead-in"
 
 "mapping_technique":                "Beatmapping/Mapping_techniques"
 "map_techs":                        "Beatmapping/Mapping_techniques"
@@ -1494,6 +1501,7 @@
 "maptech":                          "Beatmapping/Mapping_techniques"
 "mapping_techniques":               "Beatmapping/Mapping_techniques"
 "antiflow":                         "Beatmapping/Mapping_techniques/Antiflow"
+"beatmapping/antiflow":             "Beatmapping/Mapping_techniques/Antiflow"
 
 "basic":                            "Beatmapping/Mapping_techniques/Basics"
 "basics":                           "Beatmapping/Mapping_techniques/Basics"
@@ -1516,6 +1524,7 @@
 "mapping_techniques/basic":         "Beatmapping/Mapping_techniques/Basics"
 "mapping_techniques/basics":        "Beatmapping/Mapping_techniques/Basics"
 "blanket":                          "Beatmapping/Mapping_techniques/Blanket"
+"mapping_techniques/blanket":       "Beatmapping/Mapping_techniques/Blanket"
 
 "formations":                       "Beatmapping/Mapping_techniques/Formations"
 "formation":                        "Beatmapping/Mapping_techniques/Formations"
@@ -1573,6 +1582,7 @@
 "zig_zag_slider":                   "Beatmapping/Mapping_techniques/Formations#zig-zag-sliders"
 
 "mapping_techniques/jump":          "Beatmapping/Mapping_techniques/Jumps"
+"mapping_techniques/jumps":         "Beatmapping/Mapping_techniques/Jumps"
 "jump":                             "Beatmapping/Mapping_techniques/Jumps"
 "jumps":                            "Beatmapping/Mapping_techniques/Jumps"
 "jump_maptech":                     "Beatmapping/Mapping_techniques/Jumps"
@@ -1741,13 +1751,16 @@
 "mapping_techniques/stack":         "Beatmapping/Mapping_techniques/Stack"
 
 "tde":                              "Beatmapping/Mapping_techniques/Time-distance_equality"
+"beat_spacing":                     "Beatmapping/Mapping_Techniques/Time-distance_equality"
 "time-distance_equality":           "Beatmapping/Mapping_techniques/Time-distance_equality"
+"mapping_techniques/time-distance_equality": "Beatmapping/Mapping_techniques/Time-distance_equality"
 
 "unrankable":                       "Beatmapping/Mapping_techniques/Unrankable"
 "mapping_techniques/unrankable":    "Beatmapping/Mapping_techniques/Unrankable"
 
 "changelog":                        "Changelog"
 "changelogs":                       "Changelog"
+"glossary/changelog":               "Changelog"
 
 "recalc":                           "Client/Beatmap_editor/Recalculate_slider_lengths"
 
@@ -1918,6 +1931,8 @@
 "beatmapping/slider_ticks":         "Gameplay/Hit_object/Slider/Slider_tick"
 "beatmapping/slidertick":           "Gameplay/Hit_object/Slider/Slider_tick"
 "beatmapping/sliderticks":          "Gameplay/Hit_object/Slider/Slider_tick"
+"slider_tick_rate":                 "Gameplay/Hit_object/Slider/Slider_tick_rate"
+"beatmapping/slider_tick_rate":     "Gameplay/Hit_object/Slider/Slider_tick_rate"
 "slider_anchor":                    "Gameplay/Hit_object/Slider_anchor"
 "hit_object/slider_anchor":         "Gameplay/Hit_object/Slider_anchor"
 "sliderbody":                       "Gameplay/Hit_object/Sliderbody"
@@ -1966,11 +1981,22 @@
 "april_fools":                      "History_of_osu!/April_Fools"
 "osu!coin":                         "History_of_osu!/April_Fools/osu!coin"
 
-"History_of_Loved":                 "History_of_osu!/History_of_Loved"
+"history_of_loved":                 "History_of_osu!/History_of_Loved"
 
-"Mapping_and_Modding_Timeline":     "History_of_osu!/Mapping_and_Modding_Timeline"
+"mapping_and_modding_timeline":     "History_of_osu!/Mapping_and_Modding_Timeline"
 
-"Staff_Log":                        "People/The_Team/Staff_Log"
+"staff_log":                        "People/The_Team/Staff_Log"
+"staff_log":                        "People/The_Team/Staff_Log"
+"staff_log/2014":                   "People/The_Team/Staff_Log/2014"
+"staff_log/2015":                   "People/The_Team/Staff_Log/2015"
+"staff_log/2016":                   "People/The_Team/Staff_Log/2016"
+"staff_log/2017":                   "People/The_Team/Staff_Log/2017"
+"staff_log/2018":                   "People/The_Team/Staff_Log/2018"
+"staff_log/2019":                   "People/The_Team/Staff_Log/2019"
+"staff_log/2020":                   "People/The_Team/Staff_Log/2020"
+"staff_log/2021":                   "People/The_Team/Staff_Log/2021"
+"staff_log/2022":                   "People/The_Team/Staff_Log/2022"
+"people/staff_log":                 "People/The_Team/Staff_Log"
 "people/staff_log":                 "People/The_Team/Staff_Log"
 "people/staff_log/2014":            "People/The_Team/Staff_Log/2014"
 "people/staff_log/2015":            "People/The_Team/Staff_Log/2015"
@@ -1990,3 +2016,6 @@
 
 "beatmap_editor/timing":            "Beatmapping/Timing"
 "client/beatmap_editor/timing":     "Beatmapping/Timing"
+
+"grid_snap":                        "Beatmapping/Grid_snapping"
+"grid_snapping":                    "Beatmapping/Grid_snapping"
