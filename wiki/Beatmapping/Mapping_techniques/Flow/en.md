@@ -31,7 +31,7 @@ Another form of natural movement is repetition. Patterns with similar repeated m
 
 ### Visual implications
 
-To further make a beatmap look and feel more natural, mappers may use sliders with different shapes that reinforce suggested direction of movement. Since sliders bodies do not need to be followed perfectly, because the cursor only needs to reach the [slider ticks](/wiki/Beatmapping/Slider_tick), they may be adjusted and bent in lots of ways without affecting the movement required to clear them. This allows slidershapes to complement an existing movement trajectory, or help the player pick up a new movement trajectory.
+To further make a beatmap look and feel more natural, mappers may use sliders with different shapes that reinforce suggested direction of movement. Since slider bodies do not need to be followed perfectly, because the cursor only needs to reach the [slider ticks](/wiki/Beatmapping/Slider_tick), they may be adjusted and bent in lots of ways without affecting the movement required to clear them. This allows slider shapes to complement an existing movement trajectory, or help the player pick up a new movement trajectory.
 
 ## Application
 
