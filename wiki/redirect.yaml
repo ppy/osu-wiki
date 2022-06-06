@@ -1918,7 +1918,6 @@
 "beatmapping/slider_ticks":         "Gameplay/Hit_object/Slider/Slider_tick"
 "beatmapping/slidertick":           "Gameplay/Hit_object/Slider/Slider_tick"
 "beatmapping/sliderticks":          "Gameplay/Hit_object/Slider/Slider_tick"
-"slider_tick_rate":                 "Gameplay/Hit_object/Slider/Slider_tick_rate"
 "slider_anchor":                    "Gameplay/Hit_object/Slider_anchor"
 "hit_object/slider_anchor":         "Gameplay/Hit_object/Slider_anchor"
 "sliderbody":                       "Gameplay/Hit_object/Sliderbody"
