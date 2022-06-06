@@ -11,7 +11,7 @@ tags:
 
 <!-- TODO: this applies to osu!catch as well, the article needs expansion: https://github.com/ppy/osu-wiki/pull/7407#pullrequestreview-988657741 -->
 
-Flow is considered a **subjective** and often opinionated matter due to how different mappers and players design or perceive movement. Some aspects of flow may impact gameplay in different degrees depending on [input device](/wiki/Gameplay/Input_device), such as [graphics tablet](/wiki/Gameplay/Input_device/Graphics_tablet) or [mouse](/wiki/Gameplay/Input_device/Mouse), or the player's acquired skill or experience.
+Flow is considered a **subjective** and often opinionated matter due to how different mappers and players design or perceive movement. Some aspects of flow may impact gameplay to different degrees depending on the player's [input device](/wiki/Gameplay/Input_device), such as [graphics tablet](/wiki/Gameplay/Input_device/Graphics_tablet) or [mouse](/wiki/Gameplay/Input_device/Mouse), or the player's acquired skill or experience.
 
 The opposite of flow is called [antiflow](/wiki/Beatmapping/Antiflow), which conversely involves unintuitive or unnatural movement patterns.
 
@@ -31,7 +31,7 @@ Another form of natural movement is repetition. Patterns with similar repeated m
 
 ### Visual implications
 
-To further make a beatmap look and feel more natural, mappers may use [streams](/wiki/Beatmap/Pattern/Stream) or sliders with curves that reinforce suggested direction of movement. Since sliders bodies do not need to be followed perfectly, because the cursor only needs to reach the [slider ticks](/wiki/Beatmapping/Slider_tick), they may be adjusted and bent in lots of ways without affecting the movement required to clear them. This fact may be used both in favour of an already present movement trajectory, or to help the player pick up a new movement type.
+To further make a beatmap look and feel more natural, mappers may use sliders with different shapes that reinforce suggested direction of movement. Since sliders bodies do not need to be followed perfectly, because the cursor only needs to reach the [slider ticks](/wiki/Beatmapping/Slider_tick), they may be adjusted and bent in lots of ways without affecting the movement required to clear them. This allows slidershapes to complement an existing movement trajectory, or help the player pick up a new movement trajectory.
 
 ## Application
 
