@@ -32,7 +32,7 @@ Während des Spielens hält alles lange genug an, sodass das Spielerlebnis beein
 - Prüfe, ob es immer noch direkt nach einem Neustart des PCs auftritt.
 - Versuche, alle Programme zu schließen, die Overlays im Spiel zeigen (Discord, Steam, NVIDIA Shadowplay etc.).
 - Stelle sicher, dass du den [Spielmodus](https://www.giga.de/downloads/windows-10/tipps/windows-10-game-mode-was-ist-das/) aktiviert hast. Er erlaubt Windows die Bereitstellung dedizierter Kerne und Ressourcen für osu!.
-- Öffne den Task-Manager und ordne die Liste (unter Details) nach CPU. Schaue nach hohen CPU-Auslastungen, sobald spikes<!--translate--> auftreten, zum Beispiel durch einen Viren- oder Malware-Scanner im Hintergrund. Du kannst osu! im Fenstermodus laufen lassen oder den Task-Manager auf einem zweiten Bildschirm platzieren, um das zu diagnostizieren, während du selbst spielst oder eine Beatmap mit der Mod Auto ausführst.
+- Öffne den Task-Manager und ordne die Liste (unter Details) nach CPU. Schaue nach hohen CPU-Auslastungen, sobald Spikes auftreten, zum Beispiel durch einen Viren- oder Malware-Scanner im Hintergrund. Du kannst osu! im Fenstermodus laufen lassen oder den Task-Manager auf einem zweiten Bildschirm platzieren, um das zu diagnostizieren, während du selbst spielst oder eine Beatmap mit der Mod Auto ausführst.
 
 ### Eingabeverzögerung
 
@@ -58,7 +58,7 @@ Während des Spielens kann die Bildrate nicht mithalten, was dazu führt, dass s
 - Versuche, das FPS-Limit zu ändern und schaue, ob es etwas hilft.
 - Sorge dafür, dass osu! im exklusiven Vollbildmodus (nicht im randlosen Modus) läuft. Das wird die Leistung immer verbessern.
 - Stelle sicher, dass du den [Spielmodus](https://www.giga.de/downloads/windows-10/tipps/windows-10-game-mode-was-ist-das/) aktiviert hast. Er erlaubt Windows die Bereitstellung dedizierter Kerne und Ressourcen für osu!.
-- Öffne den Task-Manager und ordne die Liste (unter Details) nach CPU. Schaue nach hohen CPU-Auslastungen, sobald spikes<!--translate--> auftreten, zum Beispiel durch einen Viren- oder Malware-Scanner im Hintergrund. Du kannst osu! im Fenstermodus laufen lassen oder den Task-Manager auf einem zweiten Bildschirm platzieren, um das zu diagnostizieren, während du selbst spielst oder eine Beatmap mit der Mod Auto ausführst.
+- Öffne den Task-Manager und ordne die Liste (unter Details) nach CPU. Schaue nach hohen CPU-Auslastungen, sobald Spikes auftreten, zum Beispiel durch einen Viren- oder Malware-Scanner im Hintergrund. Du kannst osu! im Fenstermodus laufen lassen oder den Task-Manager auf einem zweiten Bildschirm platzieren, um das zu diagnostizieren, während du selbst spielst oder eine Beatmap mit der Mod Auto ausführst.
 
 ## FPS-Limits
 
@@ -72,7 +72,7 @@ Allgemein wird das nicht für Bildschirme mit 60 Hz empfohlen. Es kann bei Wiede
 
 ### Power Saving
 
-Dieses FPS-Limit zielt darauf ab, Strom zu sparen und gleichzeitig ein gleichmäßiges Spielerlebnis zu bieten. Es läuft mit 2-facher Bildwiederholungsrate und versucht, ein einheitliches Frame Pacing<!--Bildtaktung?--> beizubehalten.
+Dieses FPS-Limit zielt darauf ab, Strom zu sparen und gleichzeitig ein gleichmäßiges Spielerlebnis zu bieten. Es läuft mit 2-facher Bildwiederholungsrate und versucht, ein einheitliches Frame-Pacing beizubehalten.
 
 Empfohlen für ältere PCs oder zum Schonen eines Laptop-Akkus.
 
@@ -80,7 +80,7 @@ Empfohlen für ältere PCs oder zum Schonen eines Laptop-Akkus.
 
 Dieses FPS-Limit versucht, die 8-fache Bildwiederholungsrate beizubehalten, mit einem Maximum von 960 FPS. Das ist unser empfohlenes FPS-Limit für Nutzer, die ihre CPU/GPU nicht bis zur vollen Auslastung ausreizen wollen, aber dennoch ein hohes Leistungsniveau mit daraus resultierender niedriger Eingabeverzögerung beibehalten wollen.
 
-Es kann gegenüber `Unbegrenzt` bevorzugt werden, um die Anzahl der gerenderten Frames zu reduzieren, was wiederum den Overhead durch die [Garbage Collection](https://de.wikipedia.org/wiki/Garbage_Collection) reduziert (dies kann in Spike Frames resultieren<!--translate-->).
+Es kann gegenüber `Unbegrenzt` bevorzugt werden, um die Anzahl der gerenderten Frames zu reduzieren, was wiederum den Overhead durch die [Garbage Collection](https://de.wikipedia.org/wiki/Garbage_Collection) reduziert (dies kann in Spike-Frames resultieren).
 
 ### Unbegrenzt
 
