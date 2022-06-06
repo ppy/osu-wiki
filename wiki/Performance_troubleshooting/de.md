@@ -24,7 +24,7 @@ Die eigentliche Audiospur der Beatmap spult im Takt zurück oder fällt aus. Gru
 
 ### Spike frame<!--not sure on translation, maybe stottern or Leistungseinbußen?-->
 
-Während des Spielens hält alles lange genug an, wodurch das Spielerlebnis beeinträchtigt wird. Das kann mehr als einmal auftreten, nach dem Zufallsprinzip oder in gleichmäßigen Abständen. Beim Diagnostizieren oder Melden kann Folgendes helfen:
+Während des Spielens hält alles lange genug an, sodass das Spielerlebnis beeinträchtigt wird. Das kann mehr als einmal auftreten, nach dem Zufallsprinzip oder in gleichmäßigen Abständen. Beim Diagnostizieren oder Melden kann Folgendes helfen:
 
 - Zähle, wie viele Male es während einer durchschnittlichen Spielsession passiert.
 - Prüfe, ob es immer passiert.
@@ -92,7 +92,7 @@ Auch wenn das nach der besten Option aussieht (und es tatsächlich sein kann, so
 - Wenn du deine CPU und GPU bis an die Grenze belastest, besteht die Gefahr, dass sie gedrosselt werden, was die Gesamtleistung verringert.
 - GPUs sind allgemein nicht dazu gedacht, mehr als 1000 Frames pro Sekunde zu rendern. D. h., dass es zu unerwartetem Verhalten kommen kann, einschließlich einer geringeren Leistung oder höherer Latenzzeit als sonst zu erreichen wäre.
 
-Nichts desto trotz, wenn die Wärmeentwicklung und eine mögliche Überlastung der Hardware kein Problem darstellen, ist `Unbegrenzt` möglicherweise die Option, die dir die stabilsten Frame-Times<!--translate?--> bietet.
+Nichts desto trotz, wenn die Wärmeentwicklung und eine mögliche Überlastung der Hardware kein Problem darstellen, ist `Unbegrenzt` möglicherweise die Option, die dir die stabilsten Frame-Times bietet.
 
 ### Custom
 
