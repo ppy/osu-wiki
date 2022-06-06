@@ -27,8 +27,8 @@ outdated_since: 3bec7abe5a3da2952e6324d55a29431f9240e8a0
 | ![Spun Out](/wiki/shared/mods/SO.png) | Spun Out (SO) | ![][osu!]: 0.90x | 转盘会自动完成。 |
 | ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.00x (不计入成绩) | 观看完美的回放。 |
 | ![Cinema](/wiki/shared/mods/CM.png) | Cinema (CM) | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.00x (不计入成绩) | 观看视频 和/或 Storyboard。 |
-| ![4K](/wiki/shared/mods/4K.png) | xK (xK) | ![][osu!mania]: 0.66x ~ 1.00x (详见 [下面的表格](#xk-mod-score-multipliers)) | 使用选择的按键数。 |
-| ![Co-Op](/wiki/shared/mods/CP.png) | Co-Op (COOP) | ![][osu!mania]: 0.70x ~ 1.00x (详见 [下面的表格](#xk-mod-with-co-op-score-multipliers)) | 使用两个游戏区。 |
+| ![4K](/wiki/shared/mods/4K.png) | xK (xK) | ![][osu!mania]: 0.66x ~ 1.00x (详见 [下面的表格](#xk-分数加成)) | 使用选择的按键数。 |
+| ![Co-Op](/wiki/shared/mods/CP.png) | Co-Op (COOP) | ![][osu!mania]: 0.70x ~ 1.00x (详见 [下面的表格](#xk-和-co-op-分数加成)) | 使用两个游戏区。 |
 | ![Random](/wiki/shared/mods/RD.png) | Random (RD) | ![][osu!mania]: 1.00x | 随机排列音符的位置。 |
 
 ## xK 分数加成
