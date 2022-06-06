@@ -1501,6 +1501,7 @@
 "mapping_techniques":               "Beatmapping/Mapping_techniques"
 "antiflow":                         "Beatmapping/Mapping_techniques/Antiflow"
 "beatmapping/antiflow":             "Beatmapping/Mapping_techniques/Antiflow"
+"flow":                             "Beatmapping/Mapping_techniques/Flow"
 
 "basic":                            "Beatmapping/Mapping_techniques/Basics"
 "basics":                           "Beatmapping/Mapping_techniques/Basics"
