@@ -1757,6 +1757,9 @@
 "unrankable":                       "Beatmapping/Mapping_techniques/Unrankable"
 "mapping_techniques/unrankable":    "Beatmapping/Mapping_techniques/Unrankable"
 
+"trigger_distance":                 "Beatmapping/Trigger_distance"
+"glossary/trigger_distance":        "Beatmapping/Trigger_distance"
+
 "changelog":                        "Changelog"
 "changelogs":                       "Changelog"
 "glossary/changelog":               "Changelog"
