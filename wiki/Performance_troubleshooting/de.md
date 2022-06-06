@@ -1,8 +1,8 @@
 # Fehlerbehebung bei Leistungsproblemen in osu!
 
-osu! gibt sein Bestes, mit normalen Standardeinstellungen zu laufen und warnt dich proaktiv, wenn du etwas tust/ausführst, das die Leistung deines Spiels verringern würde.
+osu! gibt sein Bestes, mit vernünftigen Standardeinstellungen zu laufen und warnt dich proaktiv, wenn du etwas tust/ausführst, das die Leistung deines Spiels verringern würde.
 
-Aufgrund des Umfangs der Hardware, auf der osu! läuft, ist es leider sehr schwer, für jeden Nutzer die optimale Leistung zu bieten. Diese Seite soll dir dabei helfen, Leistungsprobleme selbst zu erkennen, aber auch spezifische Begriffe aufzuzeigen, die du lernen kannst (und Tests, die du durchführen kannst), damit wir dir helfen können, wenn du dich um Unterstützung bemühst.
+Aufgrund des Umfangs der Hardware, auf der osu! läuft, ist es leider sehr schwer, für jeden Nutzer die optimale Leistung zu bieten. Diese Seite soll dir dabei helfen, Leistungsprobleme selbst zu erkennen, aber auch spezifische Begriffe aufzeigen, die du lernen kannst (und Tests, die du durchführen kannst), damit wir dir helfen können, wenn du dich um Unterstützung bemühst.
 
 ## Zu überprüfende Dinge
 
@@ -31,12 +31,12 @@ Während des Spielens hält alles lange genug an, wodurch das Spielerlebnis beei
 - Prüfe, wie oft es passiert und ob es in einem konstanten Intervall ist.
 - Prüfe, ob es immer noch direkt nach einem Neustart des PCs auftritt.
 - Versuche, alle Programme zu schließen, die Overlays im Spiel zeigen (Discord, Steam, NVIDIA Shadowplay etc.).
-- Stelle sicher, dass du den [Spielmodus](https://www.giga.de/downloads/windows-10/tipps/windows-10-game-mode-was-ist-das/) aktiviert hast. Es erlaubt Windows die Bereitstellung entsprechender Cores und Ressourcen für osu!.
+- Stelle sicher, dass du den [Spielmodus](https://www.giga.de/downloads/windows-10/tipps/windows-10-game-mode-was-ist-das/) aktiviert hast. Er erlaubt Windows die Bereitstellung dedizierter Kerne und Ressourcen für osu!.
 - Öffne den Task-Manager und ordne die Liste (unter Details) nach CPU. Schaue nach hohen CPU-Auslastungen, sobald spikes<!--translate--> auftreten, zum Beispiel durch einen Viren- oder Malware-Scanner im Hintergrund. Du kannst osu! im Fenstermodus laufen lassen oder den Task-Manager auf einem zweiten Bildschirm platzieren, um das zu diagnostizieren, während du selbst spielst oder eine Beatmap mit der Mod Auto ausführst.
 
 ### Eingabeverzögerung
 
-Es gibt eine spürbare Verzögerung zwischen dem Tippen auf der Tastatur, dem Bewegen der Maus oder des Tablet-Stifts und eine daraus resultierende Aktion auf dem Bildschirm. Beim Diagnostizieren oder Melden kann Folgendes helfen:
+Es gibt eine spürbare Verzögerung zwischen dem Tippen auf der Tastatur, dem Bewegen der Maus oder des Tablet-Stifts und einer daraus resultierenden Aktion auf dem Bildschirm. Beim Diagnostizieren oder Melden kann Folgendes helfen:
 
 - Prüfe, ob es bei allen Eingabegeräten passiert oder bei einem spezifischen Gerät.
 - Wenn du inoffizielle Treiber benutzt, versuche zu den offiziellen zu wechseln.
@@ -56,19 +56,19 @@ Während des Spielens kann die Bildrate nicht mithalten, was dazu führt, dass s
 - Versuche, alle Programme zu schließen, die Overlays im Spiel zeigen (Discord, Steam, NVIDIA Shadowplay etc.).
 - Stelle sicher, dass bei deinen Anzeigetreibern kein VSync erzwungen wird (es sollte auf "Aus" oder "Anwendungspräferenz" gestellt sein).
 - Versuche, das FPS-Limit zu ändern und schaue, ob es etwas hilft.
-- Sorge dafür, dass osu! exklusiv im Vollbildmodus (nicht im randlosen Modus) läuft. Das wird die Leistung immer verbessern.
-- Stelle sicher, dass du den [Spielmodus](https://www.giga.de/downloads/windows-10/tipps/windows-10-game-mode-was-ist-das/) aktiviert hast. Es erlaubt Windows die Bereitstellung entsprechender Cores und Ressourcen für osu!.
+- Sorge dafür, dass osu! im exklusiven Vollbildmodus (nicht im randlosen Modus) läuft. Das wird die Leistung immer verbessern.
+- Stelle sicher, dass du den [Spielmodus](https://www.giga.de/downloads/windows-10/tipps/windows-10-game-mode-was-ist-das/) aktiviert hast. Er erlaubt Windows die Bereitstellung dedizierter Kerne und Ressourcen für osu!.
 - Öffne den Task-Manager und ordne die Liste (unter Details) nach CPU. Schaue nach hohen CPU-Auslastungen, sobald spikes<!--translate--> auftreten, zum Beispiel durch einen Viren- oder Malware-Scanner im Hintergrund. Du kannst osu! im Fenstermodus laufen lassen oder den Task-Manager auf einem zweiten Bildschirm platzieren, um das zu diagnostizieren, während du selbst spielst oder eine Beatmap mit der Mod Auto ausführst.
 
 ## FPS-Limits
 
-osu! bietet mehrere Auswahlmöglichkeiten von FPS-Limits an. Jede davon hat seine Vor- und Nachteile. Bedenke, dass osu! die Bildwiederholungsrate in Menüs unabhängig dieser Einstellung limitiert, um die CPU-Auslastung zu schonen.
+osu! bietet mehrere Auswahlmöglichkeiten von FPS-Limits an. Jede davon hat seine Vor- und Nachteile. Bedenke, dass osu! die Bildwiederholungsrate in Menüs unabhängig von dieser Einstellung limitiert, um die CPU-Auslastung zu schonen.
 
 ### VSync
 
 Dieses FPS-Limit verlässt sich auf einen vom Treiber bereitgestellten vertikalen Synchronisierungsmechanismus. Es garantiert, dass Screen Tearing nicht auftritt, aber fügt 1 bis 2 Frames an Latenzzeit aufgrund der Zwischenspeicherung von Bildern vor dem Anzeigen hinzu.
 
-Allgemein wird das nicht für Bildschirm mit 60 Hz empfohlen. Es kann bei Wiederholungsraten ab 120 Hz nützlich sein, aber mit GSync- und FreeSync-Bildschirmen ist die Anforderung aufgehoben, VSync zur Verhinderung von Screen Tearing zu benutzen.
+Allgemein wird das nicht für Bildschirme mit 60 Hz empfohlen. Es kann bei Wiederholungsraten ab 120 Hz nützlich sein, aber mit GSync- und FreeSync-Bildschirmen ist die Anforderung aufgehoben, VSync zur Verhinderung von Screen Tearing zu benutzen.
 
 ### Power Saving
 
@@ -92,7 +92,7 @@ Auch wenn das nach der besten Option aussieht (und es tatsächlich sein kann, so
 - Wenn du deine CPU und GPU bis an die Grenze belastest, besteht die Gefahr, dass sie gedrosselt werden, was die Gesamtleistung verringert.
 - GPUs sind allgemein nicht dazu gedacht, mehr als 1000 Frames pro Sekunde zu rendern. D. h., dass es zu unerwartetem Verhalten kommen kann, einschließlich einer geringeren Leistung oder höherer Latenzzeit als sonst zu erreichen wäre.
 
-Selbst wenn die Wärmeentwicklung und eine mögliche Überlastung der Hardware kein Problem darstellen, ist `Unbegrenzt` möglicherweise die Option, die dir die stabilsten Frame-Times<!--translate?--> bietet.
+Nichts desto trotz, wenn die Wärmeentwicklung und eine mögliche Überlastung der Hardware kein Problem darstellen, ist `Unbegrenzt` möglicherweise die Option, die dir die stabilsten Frame-Times<!--translate?--> bietet.
 
 ### Custom
 
@@ -109,5 +109,5 @@ Um die benutzerdefinierte maximale Bildwiederholungsrate von osu! zu ändern, mu
 3. Öffne die Datei `osu!.<deinPCNutzername>.cfg` mit Notepad oder einem Texteditor deiner Wahl.
 4. Finde die Zeile `FrameSync = <Wert>` und ändere den Wert auf `Custom`.
 5. Finde die Zeile `CustomFrameLimit = <Wert>` und ändere den Wert nach deinen Wünschen.
-6. Speichere die Konfigurationsdatei (wenn du osu! nach nicht im zweiten Schritt geschlossen hast, tue dies bitte vor dem Speichern).
+6. Speichere die Konfigurationsdatei (wenn du osu! noch nicht im zweiten Schritt geschlossen hast, tue dies bitte vor dem Speichern).
 7. Öffne das Spiel erneut.
