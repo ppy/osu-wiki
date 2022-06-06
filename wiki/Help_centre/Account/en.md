@@ -208,11 +208,23 @@ This doesn't mean you can make a new account to do the same thing, either! Havin
 
 ### Can I delete my account?
 
-*For more information on account deletion, see: [your rights and controls](/wiki/Legal/Privacy#your-rights-and-control).*
+*For more information on account deletion, see: [osu! privacy policy § Your rights and control](/wiki/Legal/Privacy#your-rights-and-control).*
 
 *Caution: Account deletion is permanent, and therefore cannot be undone!*
 
 Yes, any user can request for their account to be deleted by sending an email to [privacy@ppy.sh](mailto:privacy@ppy.sh). Keep in mind that deleting your account is **final**, meaning that it cannot be reversed or undone. Deleting your account does not mean you can create a new account, as having multiple accounts is against the [rules](/wiki/Rules#community-rules). This means you will no longer be able to use any of osu!'s online features.
+
+### I no longer want to keep playing, but I don't want my account to be deleted!
+
+Any user can request their account to be **locked** by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh). The account's associated password will then be scrambled and its email address blanked out, locking the user out of their account. There is a one-week cooldown after an account is locked in this manner before the user can request it unlocked in order to prevent abuse.
+
+A locked account will remain publicly visible with no changes to information available on its profile.
+
+To unlock the account again, send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh), from the same email address used in the original account lock request, expressing your intent to unlock it.
+
+*This feature is not to be abused.* Locking an account should be one of the last resorts for those players that don't want to leave osu! forever, but **need** dedicated time away from osu! for a legitimate reason.
+
+You may lock yourself out of your account by changing your email and password to random words or letters you will never remember and logging out. This is essentially the same process as locking. Once you are ready to come back into the community, send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) requesting a password reset. Make sure you use the email address previously used by your account.
 
 ### Can I play on a computer that another osu! user has used before?
 

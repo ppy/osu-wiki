@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 17fb11cfdf1bc72ce3f85c62bed260d9870c1cc8
 tags:
   - NAT
@@ -51,7 +51,6 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Değerlendirme, moderasyon |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Değerlendirme |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Çince | Değerlendirme |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça | Değerlendirme, yapısal, moderasyon, haberleşme |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Yapısal, haberleşme |
 | ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Değerlendirme |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Yapısal |
@@ -83,6 +82,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Çince | Değerlendirme |
+| ![][flag_VN] [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamca | Değerlendirme |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Endonezce | Değerlendirme, haberleşme |
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | İspanyolca, Portekizce, Galiçyaca, İtalyanca, Japonca | Değerlendirme |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Değerlendirme |
@@ -100,3 +100,4 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 [flag_PL]: /wiki/shared/flag/PL.gif "Polonya"
 [flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
 [flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

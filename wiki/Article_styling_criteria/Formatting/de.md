@@ -15,7 +15,7 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `cs.md` | Tschechisch | Česky |
 | `da.md` | Dänisch | Dansk |
 | `de.md` | Deutsch | Deutsch |
-| `gr.md` | Griechisch | Ελληνικά |
+| `el.md` | Griechisch | Ελληνικά |
 | `es.md` | Spanisch | Español |
 | `fi.md` | Finnisch | Suomi |
 | `fr.md` | Französisch | Français |
@@ -62,13 +62,27 @@ Sofern dieses Tag zu einem Artikel hinzugefügt wird, sollten [Kommentare](#komm
 
 *Tipp: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Wenn der englische Artikel diesen Tag trägt, dann muss die Übersetzung das ebenfalls.*
 
-Übersetzte Artikel, die nicht mehr aktuell sind, müssen das Tag `outdated` tragen, sobald die englische Variante aktualisiert wird. Englische Artikel dürfen auch mit "nicht mehr aktuell" gekennzeichnet werden, falls der Inhalt falsch, nicht eindeutig oder nicht mehr relevant ist. Das Tag muss folgendermaßen eingefügt werden:
+Englische Artikel können veraltet sein, wenn ihr Inhalt falsch, nicht eindeutig oder nicht mehr relevant ist. Diese Artikel sollten mit dem Tag `outdated` gekennzeichnet werden, welches folgendermaßen geschrieben werden muss:
 
 ```yaml
 outdated: true
 ```
 
 Sofern dieses Tag zu einem Artikel hinzugefügt wird, sollten [Kommentare](#kommentare) eingefügt werden, die erklären, was bei diesem Artikel überarbeitet werden muss.
+
+### Nicht mehr aktuelle Übersetzungen
+
+Übersetzte Artikel, die nicht mehr aktuell sind, müssen das Tag `outdated_translation` verwenden, sobald die englische Version aktualisiert wird, außer es handelt sich um kleinere Anpassungen des Wortlauts, der Grammatik und dergleichen, die nicht die Bedeutung des Artikels beeinflussen.
+
+```yaml
+outdated_translation: true
+```
+
+Wenn Übersetzungen als veraltet gekennzeichnet werden, müssen sie ebenfalls das Tag `outdated_since` erhalten, welches auf den ersten Commit verweist, bei dem die englische Version aktualisiert wurde.
+
+```yaml
+outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
+```
 
 ### Artikel mit Tags versehen
 
@@ -501,6 +515,8 @@ Vorformatierter Text (auch bekannt als Codeblöcke) muss mit drei Akuten umrande
 
 ## Links
 
+*Siehe auch: [Fußnoten](#fußnoten)*
+
 Es gibt zwei Arten von Links: Inline und als Verweis. Inline hat zwei Stile.
 
 Das folgende ist ein Beispiel mit beiden Inline-Stilen:
@@ -788,14 +804,63 @@ Das folgende ist ein Beispiel, wie eine Tabelle aussehen sollte:
 | Maria | Kein ausgetragenes Spiel | Mocha |  |
 ```
 
+## Fußnoten
+
+Fußnoten sind kurze Notizen am Ende einer Seite. Sie werden zum Zitieren von Quellen oder dem Bereitstellen von Hintergrundinformationen verwendet, die ansonsten den Lesefluss des Artikels beeinträchtigen würden. Fußnoten dürfen formatierten Text und Links enthalten.
+
+Im osu!-Wiki werden Fußnoten mit einer speziellen Syntax (`[^identifier]`) implementiert. Fußnoten können jede Kennung haben, werden aber automatisch als hochgestellte Zahlen mit steigendem Wert in der Reihenfolge ihres ersten Erscheinens erstellt. Die Fußnoten selbst müssen in einem separaten Abschnitt mit dem Überschriftenlevel 2 am Ende des Artikels platziert werden. Abhängig von Inhalt muss die Überschrift `Referenzen`, `Anmerkungen` oder `Anmerkungen und Referenzen` sein.
+
+Verweise auf Fußnoten werden direkt nach den Wörtern oder Sätzen platziert, die sie erklären, ohne Leerzeichen dazwischen. Diese Verweise müssen nach der Interpunktion gesetzt werden, mit Ausnahme von Gedankenstrichen und Klammern, sofern sie sich auf den Inhalt darin beziehen.<!-- Translated from https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_and_footnotes -->
+
+Beispiele der korrekten Benutzung:
+
+```markdown
+Das osu!-Wiki ist ein Projekt, das das alte FAQ-System ersetzen sollte.[^wiki-faq] Es wurde nach dem Rhythmusspiel osu![^osu] und der größten offenen Online-Enzyklopädie Wikipedia benannt. Von Anfang an hatte es geschickte Übersetzer[^wiki-tl] und Redakteure angezogen.
+
+## Referenzen
+
+[^wiki-faq]: https://osu.ppy.sh/community/forums/topics/68525
+[^wiki-tl]: https://osu.ppy.sh/community/forums/posts/1177500
+[^osu]: https://osu.ppy.sh/community/forums/posts/1178153
+```
+
+### Zitate
+
+Zitate oder Referenzen werden benutzt, um eine Informationsquelle zu identifizieren. Zitate in Fußnoten sollten gegenüber Inline-Links bevorzugt werden.
+
+Beispiel:
+
+```markdown
+Die erste Version der osu!api wurde am 2. Juli 2013 zur Verfügung gestellt.[^api-first-usage] Es wurde von den Nutzern gelobt.[^api-praise]
+
+## Referenzen
+
+[^api-first-usage]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
+```
+
+### Anmerkungen
+
+Fußnoten dürfen verwendet werden, um Erklärungen oder Randbemerkungen zu hinterlegen, die nicht im Text untergebracht werden können, ohne die Lesbarkeit des Artikels zu verschlechtern, oder die weniger bedeutend als der Artikel selbst sind. Solche Fußnoten dürfen einen Freiformtext benutzen.
+
+Beispiel:
+
+```markdown
+Ein Turnier darf nicht von einem Team an unerfahrenen und unzuverlässigen Mitarbeitern organisiert und betrieben werden.[^staff]
+
+## Anmerkungen
+
+[^staff]: Ein *unerfahrener* Mitarbeiter ist grob definiert als jemand, der osu! weniger als eine Stunde insgesamt gespielt hat.
+```
+
 ## Blockzitate
 
-Blockzitate sind auf das Zitieren von Texten einer anderen Person beschränkt. Sie dürfen nicht dazu benutzt werden, um anderen Text zu formatieren. Der Name der zitierten Person, der nach dem Zitat folgt, muss mit einem vorangestellten Geviertstrich (`—`) wie folgt geschrieben werden:
+Blockzitate sind darauf beschränkt, [jemanden oder etwas zu zitieren](/wiki/Article_styling_criteria/Writing#blockzitate). Sie dürfen nicht zur Formatierung von Text benutzt werden.
 
 ```markdown
 > bitte habt Spaß am Spiel
 
-—rrtyui
+— rrtyui
 ```
 
 ## Thematische Trennungen

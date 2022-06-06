@@ -83,9 +83,9 @@ Il s'agit d'une liste d'options dans le fichier `osu!.<votre nom de compte PC>.c
 | `EditorStacking` | 0 ou 1 | Empilage des notes |
 | `Ticker` | 0 ou 1 | Nouveaux messages de chat en bas de l'écran |
 | `AutoChatHide` | 0 ou 1 | Rétracter le chat pendant les parties |
-| `ChatHighlightName` | 0 ou 1 | Notifier si mon nom est mentionné |
+| `ChatHighlightName` | 0 ou 1 | Notifier si mon nom est [mentionné](/wiki/Client/Interface/Chat_console/Highlight) |
 | `ChatMessageNotification` | 0 ou 1 | Notifier à l'arrivée de nouveaux messages |
-| `ChatAudibleHighlight` | 0 ou 1 | Jouer un son si mon nom est mentionné |
+| `ChatAudibleHighlight` | 0 ou 1 | Jouer un son si mon nom est [mentionné](/wiki/Client/Interface/Chat_console/Highlight) |
 | `DisplayCityLocation` | 0 ou 1 | Permettre aux joueurs de voir ma ville |
 | `ShowSpectators` | 0 ou 1 | Liste de mes spectateurs pendant les parties |
 | `AutoSendNowPlaying` | 0 ou 1 | Envoi automatique de liens vers les beatmaps aux spectateurs |
@@ -102,7 +102,7 @@ Il s'agit d'une liste d'options dans le fichier `osu!.<votre nom de compte PC>.c
 | `LogPrivateMessages` | 0 ou 1 | Conserver une copie des messages privés |
 | `BlockNonFriendPM` | 0 ou 1 | Autoriser uniquement les messages privés de mes amis |
 | `IgnoreList` | Liste de chaînes de caractères séparées par des espaces | Utilisateurs à ignorer (séparer avec des espaces) : |
-| `HighlightWords` | Liste de chaînes de caractères séparées par des espaces | Mots à notification (séparer avec des espaces) : |
+| `HighlightWords` | Liste de chaînes de caractères séparées par des espaces | Mots à [notification](/wiki/Client/Interface/Chat_console/Highlight) (séparer avec des espaces) : |
 
 ### Raccourcis claviers
 

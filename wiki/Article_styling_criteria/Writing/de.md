@@ -121,7 +121,7 @@ Registered-Trade-Mark-Symbole dürfen nicht hinter der Marke stehen.
 
 Die Formate in [Wikipedia:Datumskonventionen](https://de.wikipedia.org/wiki/Wikipedia:Datumskonventionen) sind alles akzeptierte Formate für Daten. Datenformate sollten konsistent innerhalb eines Artikels sein.
 
-Das Datenformat `YYYY-MM-DD` sollte nur in Tabellen benutzt werden.
+In Tabellen sollte nur das Datenformat `TT.MM.JJJJ` verwendet werden. Für Datenbereiche in Tabellen gilt das Format `TT.MM.JJJJ bis TT.MM.JJJJ`.
 
 ### Zeitformatierung
 
@@ -334,6 +334,10 @@ Bevorzuge: Beatmap Nominators können deine Beatmap nominieren.
 
 Artikel sollten einfache deutsche Grammatik verwenden.
 
+### Auslassungszeichen
+
+Hochkommata für die Auslassung von Buchstaben (z. B. geht's anstatt geht es oder versuch') dürfen nicht verwendet werden.
+
 ### Zahlen
 
 *Für die Zahlenformatierung, siehe [Wikipedias Schreibweise von Zahlen](https://de.wikipedia.org/wiki/Wikipedia:Schreibweise_von_Zahlen)*
@@ -346,15 +350,27 @@ Artikel sollten einfache deutsche Grammatik verwenden.
 
 ### Geviertstrich
 
-Geviertstriche (`—`) müssen mit einem Leerzeichen davor und dahinter verwendet werden. Diese Regel trifft nicht auf [Blockzitate](#blockzitate) zu.
+Geviertstriche (`—`) müssen mit einem Leerzeichen davor und dahinter verwendet werden. In [Blockzitaten](#blockzitate) haben Geviertstriche nur ein Leerzeichen auf ihrer rechten Seite. Bindestriche (`-`) dürfen nicht an Stelle von Geviertstrichen verwendet werden.
+
+### Zitate
+
+Übersetzt aus dem englischen [Wikipedia Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside):
+
+> Füge abschließende Satzzeichen nur dann in die Anführungszeichen ein, wenn sie im Originaltext vorhanden waren und setze sie andernfalls nach dem schließenden Anführungszeichen. In den meisten Fällen bedeutet dies, dass Punkt und Komma genauso behandelt werden wie Fragezeichen: Sie stehen innerhalb der Anführungszeichen, wenn sie sich nur auf das zitierte Material beziehen, und außerhalb, wenn sie sich auf den gesamten Satz beziehen.
+
+Im weiteren Sinne sollten [Betonungen](/wiki/Article_styling_criteria/Formatting#betonung), [Links](/wiki/Article_styling_criteria/Formatting#links) und Klammern denselben Regeln bezogen auf die Zeichensetzung folgen (also, ob sie einen ganzen Satz oder nur einen Teil davon miteinbeziehen).
 
 ### Blockzitate
 
-Verweis auf [Wikipedias Artikel zum Format für Zitate](https://de.wikipedia.org/wiki/Wikipedia:Zitate#Beispiele).
+Wenn Text von jemandem zitiert wird, sollte die zitierte Person nach dem [Blockzitat](/wiki/Article_styling_criteria/Formatting#blockzitate) mit einem Geviertstrich (`—`) und einem Leerzeichen angegeben werden. Sofern das Originalzitat nicht aus dem Deutschen stammt, spezifiziere die Sprache in Klammern.
 
-Füge abschließende Satzzeichen nur dann in die Anführungszeichen ein, wenn sie im Originaltext vorhanden waren und setze sie andernfalls nach dem schließenden Anführungszeichen. In den meisten Fällen bedeutet dies, dass Punkt und Komma genauso behandelt werden wie Fragezeichen: Sie stehen innerhalb der Anführungszeichen, wenn sie sich nur auf das zitierte Material beziehen, und außerhalb, wenn sie sich auf den gesamten Satz beziehen.
+```markdown
+> bitte habt Spaß am Spiel
 
-Im weiteren Sinne sollten [Betonungen](/wiki/Article_styling_criteria/Formatting#betonung), [Links](/wiki/Article_styling_criteria/Formatting#links) und Klammern denselben Regeln bezogen auf die Zeichensetzung folgen (also, ob sie einen ganzen Satz oder nur einen Teil davon miteinbeziehen).
+— rrtyui (aus dem {Sprache} übersetzt)
+```
+
+Im Allgemeinen sollte die Quelle des Zitats über diesem spezifiziert werden. Siehe die [obere Sektion](#zitate) für ein Beispiel. Beim Zitieren eines schriftlichen Artikels oder anderweitig, und nicht unbedingt einer spezifischen Person, muss der Autor nicht unter dem Blockzitat angegeben werden.
 
 ## Aussprache
 
