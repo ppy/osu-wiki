@@ -22,7 +22,7 @@ Notez que dans la version stable d'osu!, les fenêtres de timing dans osu! et os
 
 Par exemple, la fenêtre de timing d'un Great dans osu!taiko à OD 5 est de ±34,5 ms, au lieu des ±35 ms que donne le tableau. Dans osu!mania, la fenêtre de hit d'un MAX est de ±16,5 ms, et non de ±16 ms comme le suggère le tableau.
 
-Les fenêtres de timing pour les jugements peuvent être visualisées en passant la souris sur les [informations sur la beatmap dans l'écran de sélection des beatmaps](/wiki/Client/Interface#beatmap-information), qui afficheront toujours les valeurs correctes.
+Les fenêtres de timing pour les jugements peuvent être visualisées en passant la souris sur les [informations sur la beatmap dans l'écran de sélection des beatmaps](/wiki/Client/Interface#informations-sur-la-beatmap), qui afficheront toujours les valeurs correctes.
 
 ### osu!
 

@@ -29,8 +29,8 @@ no_native_review: true
 | ![릴렉스](/wiki/shared/mods/RL.png) | 릴렉스 (RL) | • ![][osu!] ![][osu!taiko] ![][osu!catch]: 0.00x | • ![][osu!]: `클릭하거나 두드리기 위해 고생한 손가락에게 잠시 휴식을 주세요. ** 랭크되지 않습니다 **` • ![][osu!taiko]: `안심하세요! 불쑥불쑥 나타나는 스피너, 드럼롤, 캇에 신경쓸 필요가 없습니다. ** 랭크되지 않습니다 **` • ![][osu!catch]: `마우스로 캐쳐를 움직입니다. ** 랭크되지 않습니다 **` |
 | ![오토 파일럿](/wiki/shared/mods/AP.png) | 오토 파일럿 (AP) | • ![][osu!]: 0.00x | • ![][osu!]: `커서가 자동으로 움직입니다. 박자에 맞춰 클릭만 하세요. ** 랭크되지 않습니다 **` |
 | ![스펀 아웃](/wiki/shared/mods/SO.png) | 스펀 아웃 (SO) | • ![][osu!]: 0.90x | • ![][osu!]: `스피너가 자동으로 돌아갑니다.` |
-| ![4K (*x*K)](/wiki/shared/mods/4K.png) | 4K (*x*K) | 0.66x–1.00x (see [chart below](#xk-mod-score-multipliers)) |  |
-| ![협동](/wiki/shared/mods/CP.png) | 협동 (CP) | 0.70x–1.00x (see [chart below](#xk-mod-with-co-op-score-multipliers)) | • ![][osu!mania]: `키의 수가 두 배가 됩니다. 재미도 두 배!` |
+| ![4K (*x*K)](/wiki/shared/mods/4K.png) | 4K (*x*K) | 0.66x–1.00x (see [chart below](#xk-모드-점수-배수)) |  |
+| ![협동](/wiki/shared/mods/CP.png) | 협동 (CP) | 0.70x–1.00x (see [chart below](#xk와-협동-모드를-같이-활성화-했을-때의-점수-배수)) | • ![][osu!mania]: `키의 수가 두 배가 됩니다. 재미도 두 배!` |
 | ![미러](/wiki/shared/mods/MR.png) | 미러 (MR) | • ![][osu!mania]: 1.00x |  |
 | ![랜덤](/wiki/shared/mods/RD.png) | 랜덤 (RD) | • ![][osu!mania]: 0.00x | • ![][osu!mania]: `노트가 마구 섞입니다!` |
 | ![오토](/wiki/shared/mods/AT.png) | 오토 (AT) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `자동으로 연주되는 완벽한 플레이를 감상하세요.` |
