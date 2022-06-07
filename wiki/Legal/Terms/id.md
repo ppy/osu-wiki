@@ -8,7 +8,7 @@ Terakhir diperbarui pada 17 November 2020. [Lihat riwayatnya disini](https://git
 
 **ppy Pty Ltd** menawarkan layanan kepada Anda, yang dikondisikan berdasarkan penerimaan Anda, tanpa modifikasi apa pun terhadap syarat, ketentuan, dan pemberitahuan berikut.
 
-Dengan mengunjungi dan/atau menggunakan layanan yang ditawarkan oleh situs ini ([https://osu.ppy.sh](https://osu.ppy.sh/home)), klien gim osu! (seperti yang dijumpai di [https://osu.ppy.sh/home/download](https://osu.ppy.sh/home/download)) atau layanan afiliasi apa pun, Anda mengakui secara penuh kepatuhan Anda terhadap syarat dan ketentuan yang tercantum di sini.
+Dengan mengunjungi dan/atau menggunakan layanan yang ditawarkan oleh situs ini (<https://osu.ppy.sh>), klien gim osu! (seperti yang dijumpai di <https://osu.ppy.sh/home/download>) atau layanan afiliasi apa pun, Anda mengakui secara penuh kepatuhan Anda terhadap syarat dan ketentuan yang tercantum di sini.
 
 Sebagai syarat dalam penggunaan situs web ini, Anda menjamin bahwa Anda tidak akan menggunakan situs web ini atau konten apa pun yang diperoleh dari situs web ini untuk tujuan apa pun yang melanggar hukum atau dilarang oleh persyaratan ini.
 
