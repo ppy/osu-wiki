@@ -246,18 +246,18 @@ Le **osu! Beatmapping World Championship** est un concours de mapping par équip
 
 ### osu!taiko Featured Artist Cup
 
-La **osu!taiko Featured Artist Cup** est un concours de mapping osu!taiko où l'ont demande simplement aux concurrents de mapper une musique d'un artiste plébiscité d'osu!. Le concours a quelques fois des limitations/particularitées spécifiques afin de tester le niveau des concurrents.
+La **osu!taiko Featured Artist Cup** est un concours de mapping osu!taiko où il est demandé simplement aux concurrents de mapper une musique d'un Featured Artist d'osu!. Le concours a quelques fois des limitations/particularités spécifiques afin de tester le niveau des concurrents.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/o!tFAC/1) | ![][flag_KR] [woosungko](https://osu.ppy.sh/users/14184157) | ![][flag_TH] [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
-| [#2](/wiki/Contests/o!tFAC/2) | *TBD* | *TBD* | *TBD* | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
+| [#2](/wiki/Contests/o!tFAC/2) | *À déterminer* | *À déterminer* | *À déterminer* | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
 
 ### Slider Velocity Showdown
 
-Le **Slider Velocity Showdown** est un concours de mapping osu!taiko avec un focus sur la créativitée et l'innovation. Ce concours est ouvert à toute personne voulant faire travailler leurs muscles créatifs, qu'ils n'aient jamais touchés de point d'héritage ou qu'ils map depuis des années. 
+Le **Slider Velocity Showdown** est un concours de mapping osu!taiko avec un focus sur la créativité et l'innovation. Ce concours est ouvert à toute personne voulant faire travailler leurs muscles créatifs, qu'ils n'aient jamais touchés de point d'héritage ou qu'ils mappent depuis des années. 
 
-| Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/SVS/1) | ![][flag_NL] [Cookie_Tree](https://osu.ppy.sh/users/502722) | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) | ![][flag_JP] [Grape_Tea](https://osu.ppy.sh/users/9540073) | [#1](https://osu.ppy.sh/community/forums/topics/1361851) |
 | [#2](/wiki/Contests/SVS/2) | ![][flag_TW] [katacheh](https://osu.ppy.sh/users/6651672) | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | ![][flag_PH] [Fynbi](https://osu.ppy.sh/users/2164993) | [#1](https://osu.ppy.sh/community/forums/topics/1493798) |
