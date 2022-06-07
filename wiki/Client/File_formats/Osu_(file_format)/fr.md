@@ -1,8 +1,3 @@
----
-outdated_since: 477f1b0f08330263736802a08436d6d8990d2ea7
-outdated_translation: true
----
-
 # .osu (format de fichier)
 
 Les fichiers **`.osu`** sont des formats de fichiers lisibles par l'homme contenant des informations sur une beatmap.
@@ -283,7 +278,7 @@ Si le slider `length` est supérieure à la courbe définie, le slider s'allonge
 - Pour les courbes de bézier, de catmull et linéaires, elle se poursuit en ligne droite à partir de l'extrémité de la courbe.
 - Pour les courbes en cercle parfait, il poursuit l'arc de cercle.
 
-*Remarque : La `longueur` du slider peut être utilisée pour déterminer le temps qu'il faut pour terminer le slider. Le paramètre `length / (SliderMultiplier*100)*beatLength` indique le nombre de millisecondes nécessaires pour effectuer un glissement du slider (en supposant que `beatLength` a été ajusté pour les points de synchronisation hérités).*
+*Remarque : La `longueur` du slider peut être utilisée pour déterminer le temps qu'il faut pour terminer le slider. Le paramètre `length / (SliderMultiplier * 100 * SV) * beatLength` indique le nombre de millisecondes nécessaires pour effectuer un glissement du slider (où `SV` est le multiplicateur de vélocité des sliders ou *slider velocity* en anglais donné par le point de synchronisation hérité effectif, ou `1` s'il n'y en a pas).*
 
 #### Hitsounds des sliders
 
