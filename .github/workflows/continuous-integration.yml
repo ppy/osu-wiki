@@ -42,7 +42,7 @@ jobs:
       - name: inspect binary file sizes
         shell: bash
         run: bash scripts/ci/inspect_binary_file_sizes.sh ${{ github.sha }} ${{ github.sha }}
-      - name: setup node
+      - name: set up node
         uses: actions/setup-node@v3
         with:
           node-version: '16'
@@ -53,14 +53,17 @@ jobs:
       - name: run remark on changed files
         run: bash scripts/ci/run_remark.sh ${{ github.sha }} ${{ github.sha }}
 
-      - name: setup Python
+      - name: set up Python
         uses: actions/setup-python@v2
         with:
           python-version: "3.x"
 
-      - name: setup and run yamllint on .yaml and .md files
+      - name: set up CI dependencies
         run: |
           pip install -r scripts/requirements.txt
+
+      - name: run yamllint on .yaml and .md files
+        run: |
           python scripts/ci/run_yamllint.py --config .yamllint.yaml
 
       - name: find broken wikilinks
@@ -74,7 +77,7 @@ jobs:
           fi
 
           ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "wiki/**/*.md" "news/*.md" )
-          python scripts/ci/find_broken_wikilinks.py --target $ARTICLES
+          find-broken-wikilinks --target $ARTICLES
 
       - name: check if translations are marked as outdated
         shell: bash

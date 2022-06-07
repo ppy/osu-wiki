@@ -8,7 +8,7 @@ Dernière mise à jour : 8 mars 2021. [Voir l'historique](https://github.com/ppy
 
 **ppy Pty Ltd** vous offre un service, qui est conditionné par votre acceptation, sans aucune modification, des termes, conditions et avis suivants.
 
-En visitant et/ou en utilisant les services offerts par ce site ([https://osu.ppy.sh](https://osu.ppy.sh/home)), le client de jeu osu! (tel qu'il se trouve sur [https://osu.ppy.sh/home/download](https://osu.ppy.sh/home/download)) ou tout autre service affilié (ci-après dénommé "**osu!**"), vous reconnaissez que vous vous conformez entièrement aux conditions générales énumérées ici.
+En visitant et/ou en utilisant les services offerts par ce site (<https://osu.ppy.sh>), le client de jeu osu! (tel qu'il se trouve sur <https://osu.ppy.sh/home/download>) ou tout autre service affilié (ci-après dénommé "**osu!**"), vous reconnaissez que vous vous conformez entièrement aux conditions générales énumérées ici.
 
 En tant que condition d'utilisation de ce site web, vous garantissez que vous n'utiliserez pas ce site web, ou tout contenu obtenu à partir de ce site web, à des fins illégales ou interdites par ces conditions.
 

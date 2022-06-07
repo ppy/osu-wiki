@@ -77,14 +77,8 @@ Les dirigeant·e·s de la communauté suivront ces directives d’application su
 
 ## Attributions
 
-Ce code de conduite est adapté du [Contributor Covenant][homepage], disponible à [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
+Ce code de conduite est adapté du [Contributor Covenant](https://www.contributor-covenant.org), disponible à <https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>.
 
-Les Directives d’application ont été inspirées par le [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+Les Directives d’application ont été inspirées par le [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
-Pour obtenir des réponses aux questions courantes sur ce code de conduite, consultez la FAQ à [https://www.contributor-covenant.org/faq][FAQ]. Les traductions sont disponibles sur [https://www.contributor-covenant.org/translations][translations].
-
-[homepage]: https://www.contributor-covenant.org
-[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+Pour obtenir des réponses aux questions courantes sur ce code de conduite, consultez la FAQ à <https://www.contributor-covenant.org/faq>. Les traductions sont disponibles sur <https://www.contributor-covenant.org/translations>.

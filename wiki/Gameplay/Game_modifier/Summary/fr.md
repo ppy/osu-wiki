@@ -21,7 +21,7 @@
 | ![Autopilot](/wiki/shared/mods/AP.png) | Auto Pilot (AP) | • ![][osu!]: 0.00x | • ![][osu!]: `Le mouvement du curseur est automatique, contentez-vous de suivre le rythme. ** LE SCORE RÉALISÉ NE SERA PAS COMPTABILISÉ **` |
 | ![Spun Out](/wiki/shared/mods/SO.png) | Spun Out (SO) | • ![][osu!]: 0.90x | • ![][osu!]: `Les spinners seront effectués automatiquement.` |
 | ![4K (*x*K)](/wiki/shared/mods/4K.png) | 4K (*x*K) | 0.66x–1.00x (voir [tableau ci-dessous](#multiplicateurs-de-score-pour-le-mod-xk)) |  |
-| ![Co-op](/wiki/shared/mods/CP.png) | Co-op (CP) | 0.70x–1.00x (voir [tableau ci-dessous](#multiplicateurs-de-score-avec-le-mod-*x*k-en-co-op)) | • ![][osu!mania]: ``Deux fois plus de touches pour deux fois plus de fun !` |
+| ![Co-op](/wiki/shared/mods/CP.png) | Co-op (CP) | 0.70x–1.00x (voir [tableau ci-dessous](#multiplicateurs-de-score-avec-le-mod-xk-en-co-op)) | • ![][osu!mania]: `Deux fois plus de touches pour deux fois plus de fun !` |
 | ![Mirror](/wiki/shared/mods/MR.png) | Mirror (MR) | • ![][osu!mania]: 1.00x |  |
 | ![Random](/wiki/shared/mods/RD.png) | Random (RD) | • ![][osu!mania]: 0.00x | • ![][osu!mania]: `Mettez un peu d'aléatoire pour pimenter votre partie.` |
 | ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Regardez l'ordinateur réaliser un score parfait` |
