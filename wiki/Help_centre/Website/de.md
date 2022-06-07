@@ -29,7 +29,7 @@ Diese Sektion befasst sich mit Problemen auf der osu!-Webseite.
 
 **In der überwiegenden Mehrheit der Fälle liegt das an einer hohen Zahl an Tickets, die zur gleichen Zeit in unser System eingehen.**
 
-Du kannst immer eine einzelne Antwort auf dein aktuell offenes Ticket senden, um den Status deines Tickets anzufragen, aber stelle sicher, dass du dies nicht mehr als zwei- oder dreimal pro Woche machst. Ebenfalls kannst du uns auf Twitter unter [@osusupport](https://twitter.com/osusupport) kontaktieren, um nach deinem Ticket zu fragen.
+Du kannst immer eine einzelne Antwort auf dein aktuell offenes Ticket senden, um den Status deines Tickets anzufragen, aber stelle sicher, dass du dies nicht mehr als ein- oder zweimal pro Woche machst. Ebenfalls kannst du uns auf Twitter unter [@osusupport](https://twitter.com/osusupport) kontaktieren, um nach deinem Ticket zu fragen.
 
 In seltenen Umständen können Support-Tickets von <!--a-->chronisch straffälligen Nutzern absichtlich ignoriert werden, jedoch wird sich das [Support-Team](/wiki/People/The_Team/Account_support_team) vorher **immer** bei dir melden, wenn sie nicht mehr länger antworten werden. Falls du noch keine Benachrichtigung wie diese erhalten hast, brauchst du dir keine Sorgen machen!
 
@@ -71,7 +71,7 @@ Gehe zu deinen [Account-Einstellungen](https://osu.ppy.sh/home/account/edit) und
 
 **Keine Angst, unsere Support-Mitarbeiter werden dir helfen.**
 
-Falls dich ein Benutzer immer noch auf andere Weise belästigt, seine Freunde oder andere benutzt, um deine Blockierung zu umgehen, sende uns bitte eine E-Mail an [support@ppy.sh](mailto:support@ppy.sh).
+Falls dich ein Benutzer immer noch auf andere Weise belästigt, seine Freunde oder andere Personen benutzt, um deine Blockierung zu umgehen, sende uns bitte eine E-Mail an [support@ppy.sh](mailto:support@ppy.sh).
 
 Sorge dafür, dass jeder Chatverlauf oder andere Beweise in der E-Mail enthalten sind und unsere Support-Mitarbeiter werden sich um deinen Fall kümmern und die Angelegenheit für dich regeln.
 
@@ -97,7 +97,7 @@ Solltest du zu irgendeinem Zeitpunkt Zweifel haben, ob etwas angemessen für ein
 
 Wenn du Probleme hast, dich über den Spiel-Client zu verbinden, überprüfe bitte die Einstellungen der Firewall und der Antivirensoftware, um sicherzugehen, dass osu! nicht blockiert wird.
 
-Falls du jemals das Passwort verlierst oder nicht auf deinen Account zugreifen kannst, ist deine Registrierungs-E-Mail unsere erste Anlaufstelle für uns.
+Falls du jemals das Passwort verlierst oder nicht auf deinen Account zugreifen kannst, ist deine Registrierungs-E-Mail unsere erste Anlaufstelle für dich.
 
 ### Warum sind die Statistiken in meinem Nutzerprofil falsch?
 
