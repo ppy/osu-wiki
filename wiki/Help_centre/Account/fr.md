@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: ef784b9104fbcc3a66f3bf503d97147aa7b26345
 tags:
   - profile
   - issue
@@ -219,11 +217,23 @@ Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour fair
 
 ### Puis-je supprimer mon compte ?
 
-*Pour plus d'informations sur la suppression des comptes, voir : [Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).*
+*Pour plus d'informations sur la suppression des comptes, voir : [Politique de confidentialité d'osu! § Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).*
 
 *Attention : La suppression d'un compte est permanente, et ne peut donc pas être annulée !*
 
 Oui, tout utilisateur peut demander la suppression de son compte en envoyant un courriel à [privacy@ppy.sh](mailto:privacy@ppy.sh). Gardez à l'esprit que la suppression de votre compte est **définitive**, ce qui signifie qu'elle ne peut pas être annulée. La suppression de votre compte ne signifie pas que vous pouvez créer un nouveau compte, car le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires). Cela signifie que vous ne pourrez plus utiliser aucune des fonctionnalités en ligne d'osu!. 
+
+### Je ne veux plus continuer à jouer, mais je ne veux pas que mon compte soit supprimé !
+
+Tout utilisateur peut demander que son compte soit **verrouillé** en envoyant un email à [accounts@ppy.sh](mailto:accounts@ppy.sh). Le mot de passe associé au compte sera alors changé et l'email sera effacée, ce qui verrouillera le compte de l'utilisateur. Afin d'éviter les abus, un délai d'une semaine est prévu après le verrouillage d'un compte avant que l'utilisateur puisse demander son déblocage.
+
+Un compte verrouillé restera publiquement visible et les informations disponibles sur son profil ne seront pas modifiées.
+
+Pour débloquer à nouveau le compte, envoyez un email à [accounts@ppy.sh](mailto:accounts@ppy.sh), à partir du même email que celle utilisée lors de la demande initiale de verrouillage du compte, en exprimant votre intention de le débloquer.
+
+*Il ne faut pas abuser de cette fonction.* Le verrouillage d'un compte devrait être l'un des derniers recours pour les joueurs qui ne veulent pas quitter osu! pour toujours, mais qui ont **besoin** d'un temps dédié loin d'osu! pour une raison légitime.
+
+Vous pouvez verrouiller votre compte vous-même en changeant votre email et votre mot de passe par des mots ou des lettres aléatoires dont vous ne vous souviendrez jamais et en vous déconnectant. Il s'agit essentiellement du même processus que le verrouillage. Lorsque vous êtes prêt à revenir dans la communauté, envoyez un email à [accounts@ppy.sh](mailto:accounts@ppy.sh) pour demander la réinitialisation de votre mot de passe. Veillez à utiliser l'email précédemment utilisée par votre compte.
 
 ### Puis-je jouer sur un ordinateur qu'un autre utilisateur d'osu! a déjà utilisé ?
 
