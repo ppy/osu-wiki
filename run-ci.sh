@@ -27,7 +27,7 @@ printf -- "\n--- Run yamllint ---\n\n"
 "$python" scripts/ci/run_yamllint.py --config .yamllint.yaml
 
 printf -- "\n--- Broken wikilink check ---\n\n"
-"$python" scripts/ci/find_broken_wikilinks.py --target ${ARTICLES}
+find-broken-wikilinks --target ${ARTICLES}
 
 printf -- "\n--- Outdated tag check ---\n\n"
 bash scripts/ci/check_outdated_tags.sh ${FIRST_COMMIT_HASH}
