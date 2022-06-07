@@ -248,7 +248,7 @@ Le **osu! Beatmapping World Championship** est un concours de mapping par équip
 
 La **osu!taiko Featured Artist Cup** est un concours de mapping osu!taiko où l'ont demande simplement aux concurrents de mapper une musique d'un artiste plébiscité d'osu!. Le concours a quelques fois des limitations/particularitées spécifiques afin de tester le niveau des concurrents.
 
-| Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/o!tFAC/1) | ![][flag_KR] [woosungko](https://osu.ppy.sh/users/14184157) | ![][flag_TH] [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
 | [#2](/wiki/Contests/o!tFAC/2) | *TBD* | *TBD* | *TBD* | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
