@@ -133,11 +133,13 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ![][flag_IE] [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 |
 | ![][flag_BR] [Ideal](https://osu.ppy.sh/users/3869519) | 포르투갈어 |
+| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | 네덜란드어 |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 일본어, 광둥어, 중국어 |
 | ![][flag_US] [meiqth](https://osu.ppy.sh/users/12565402) |  |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 중국어 |
 | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |  |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | 러시아어 |
+| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | 포르투갈어 |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | 독일어, 일부 프랑스어 |
 
 #### osu!catch
@@ -165,6 +167,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | 인도네시아어 |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | 한국어 |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | 중국어 |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
@@ -207,11 +210,11 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | :-- | :-- |
 | ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | 핀란드어, 일부 스웨덴어 |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | 일본어 |
-| ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | 한국어 |
+| ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | 일본어 |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
 | ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | 핀란드어 |
 | ![][flag_ID] [Surono](https://osu.ppy.sh/users/3611370) | 인도네시아어 |
-| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | 포르투갈어 |
+| ![][flag_PL] [yurishe](https://osu.ppy.sh/users/14890963) | 폴란드어 |
 
 #### osu!catch
 
@@ -259,6 +262,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 [flag_NL]: /wiki/shared/flag/NL.gif "네덜란드"
 [flag_NO]: /wiki/shared/flag/NO.gif "노르웨이"
 [flag_PH]: /wiki/shared/flag/PH.gif "필리핀"
+[flag_PL]: /wiki/shared/flag/PL.gif "폴란드"
 [flag_RU]: /wiki/shared/flag/RU.gif "러시아"
 [flag_SG]: /wiki/shared/flag/SG.gif "싱가포르"
 [flag_TH]: /wiki/shared/flag/TH.gif "태국"

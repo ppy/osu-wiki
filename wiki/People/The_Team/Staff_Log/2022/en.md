@@ -43,7 +43,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-01-09: Removed [Nifty](https://osu.ppy.sh/users/4956097) from **BN**
 - 2022-01-09: Removed [Luscent](https://osu.ppy.sh/users/2688581) from **BN**
 - 2022-01-09: Removed [Shmiklak](https://osu.ppy.sh/users/5504231) from **BN**
-- 2022-01-10: Removed [Okoratu](https://osu.ppy.sh/users/1623405) from **BN** 
+- 2022-01-10: Removed [Okoratu](https://osu.ppy.sh/users/1623405) from **BN**
 - 2022-01-13: Removed [Cheri](https://osu.ppy.sh/users/5226970) from **BN**
 - 2022-01-17: Removed [Hoshikuz](https://osu.ppy.sh/users/9892196) from **BN**
 - 2022-01-23: Removed [Phob](https://osu.ppy.sh/users/6069462) from **BN**
@@ -75,7 +75,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-02-23: Moved [Ryuusei Aika](https://osu.ppy.sh/users/7777875) from **Probationary BN** to **BN**
 - 2022-02-28: Moved [deta5859](https://osu.ppy.sh/users/15275662) from **Probationary BN** to **BN**
 
-#### Removals 
+#### Removals
 
 - 2022-02-01: Removed [GIGACHAD](https://osu.ppy.sh/users/11081858) from **BN**
 - 2022-02-02: Removed [Kawawa](https://osu.ppy.sh/users/4647754) from **BN**
@@ -148,7 +148,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-03-31: Removed [AirinCat](https://osu.ppy.sh/users/11119539) from **BN**
 - 2022-03-31: Removed [Paran](https://osu.ppy.sh/users/13340203) from **Probationary BN**
 
-## April 
+## April
 
 - 2022-04-02: Added [NexusQI](https://osu.ppy.sh/users/13822800) to **NAT**
 - 2022-04-02: Added [Firika](https://osu.ppy.sh/users/9590557) to **NAT**
@@ -205,7 +205,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-04-21: Removed [Akito](https://osu.ppy.sh/users/5716327) from **BN**
 - 2022-04-24: Removed [Logic Agent](https://osu.ppy.sh/users/6341262) from **BN**
 
-## May 
+## May
 
 - 2022-05-01: Added [Akasha-](https://osu.ppy.sh/users/2596306) to **NAT**
 - 2022-05-06: Removed [hypercyte](https://osu.ppy.sh/users/9155377) from **Project Loved Team**
@@ -255,6 +255,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-24: Moved [Mokobe](https://osu.ppy.sh/users/10374819) from **Probationary BN** to **BN**
 - 2022-05-26: Moved [Amiichii](https://osu.ppy.sh/users/9228569) from **Probationary BN** to **BN**
 - 2022-05-28: Moved [Drum-Hitnormal](https://osu.ppy.sh/users/748722) from **Probationary BN** to **BN**
+- 2022-05-30: Moved [Crisper](https://osu.ppy.sh/users/16482505) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -263,4 +264,26 @@ Abbreviations for user groups are used throughout this log:
 - 2022-05-14: Removed [Karen](https://osu.ppy.sh/users/3143784) from **Probationary BN**
 - 2022-05-24: Removed [Petal](https://osu.ppy.sh/users/7354729) from **BN**
 
-<!-- updated as of May 28, 2022 with the Drum-hitnormal's move from the Prob. BN to full BN -->
+## June
+
+- 2022-06-01: Added [Venix](https://osu.ppy.sh/users/5999631) to **Project Loved Team**
+- 2022-06-01: Added [ChillierPear](https://osu.ppy.sh/users/9501251) to **Project Loved Team**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2022-06-01: Added [KuroKuroKuro](https://osu.ppy.sh/users/11931563) to **Probationary BN**
+- 2022-06-01: Added [ikin5050](https://osu.ppy.sh/users/4007649) to **BN**
+- 2022-06-02: Added [yurishe](https://osu.ppy.sh/users/14890963) to **Probationary BN**
+- 2022-06-05: Added [Antalf](https://osu.ppy.sh/users/8793773) to **Probationary BN**
+
+#### Moves
+
+- 2022-06-01: Moved [Toofu](https://osu.ppy.sh/users/11004271) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2022-06-01: Removed [Konpaku Sariel](https://osu.ppy.sh/users/533502) from **Probationary BN**
+
+<!-- updated as of June 6, 2022 with the Antalf's addition Prob. BN -->
