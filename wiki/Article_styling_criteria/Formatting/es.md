@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: b3aea796883d81f817472253da2f002b7a4c6996
 ---
 
@@ -21,7 +21,7 @@ El listado siguiente son las configuraciones locales soportadas para la wiki:
 | `cs.md` | Checo | Česky |
 | `da.md` | Danés | Dansk |
 | `de.md` | Alemán | Deutsch |
-| `gr.md` | Griego | Ελληνικά |
+| `el.md` | Griego | Ελληνικά |
 | `es.md` | Español | Español |
 | `fi.md` | Finlandés | Suomi |
 | `fr.md` | Francés | Français |

@@ -2,7 +2,7 @@
 tags:
   - BN
   - BNG
-outdated: true
+outdated_translation: true
 outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 ---
 
@@ -133,11 +133,13 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_IE] [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Arapça, Fransızca, biraz İtalyanca |
 | ![][flag_BR] [Ideal](https://osu.ppy.sh/users/3869519) | Portekizce |
+| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Flemenkçe |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonca, Kantonca, Çince |
 | ![][flag_US] [meiqth](https://osu.ppy.sh/users/12565402) |  |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Çince |
 | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |  |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | Rusça |
+| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | Portekizce |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Almanca, biraz Fransızca |
 
 #### osu!catch
@@ -165,6 +167,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Endonezce |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | Korece |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Çince |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
@@ -207,11 +210,11 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Fince, biraz İsveççe |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Japonca |
-| ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Korece |
+| ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | Japonca |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
 | ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | Fince |
 | ![][flag_ID] [Surono](https://osu.ppy.sh/users/3611370) | Endonezce |
-| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | Portekizce |
+| ![][flag_PL] [yurishe](https://osu.ppy.sh/users/14890963) | Lehçe |
 
 #### osu!catch
 
@@ -225,7 +228,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | Çince |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Çince |
-| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
+| ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | İspanyolca |
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malay dili |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Endonezce |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Endonezce |
@@ -248,6 +251,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 [flag_CN]: /wiki/shared/flag/CN.gif "Çin"
 [flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
 [flag_DK]: /wiki/shared/flag/DK.gif "Danimarka"
+[flag_DO]: /wiki/shared/flag/DO.gif "Dominik Cumhuriyeti"
 [flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandiya"
 [flag_FR]: /wiki/shared/flag/FR.gif "Fransa"
@@ -266,6 +270,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 [flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norveç"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinler"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonya"
 [flag_RU]: /wiki/shared/flag/RU.gif "Rusya Federasyonu"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tayland"

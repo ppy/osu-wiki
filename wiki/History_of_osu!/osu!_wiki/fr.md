@@ -1,5 +1,5 @@
 ---
-outdated: true # À jour par rapport à `en.md`
+outdated: true
 ---
 
 # L'histoire de l'osu! wiki

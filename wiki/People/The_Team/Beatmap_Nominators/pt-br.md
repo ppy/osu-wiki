@@ -2,7 +2,7 @@
 tags:
   - BN
   - BNG
-outdated: true
+outdated_translation: true
 outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 ---
 
@@ -133,11 +133,13 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_IE] [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, Francês, um pouco de Italiano |
 | ![][flag_BR] [Ideal](https://osu.ppy.sh/users/3869519) | Português |
+| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Holandês |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonês, Cantonês, Chinês |
 | ![][flag_US] [meiqth](https://osu.ppy.sh/users/12565402) |  |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinês |
 | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |  |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | Russo |
+| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | Português |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Alemão, um pouco de Francês |
 
 #### osu!catch
@@ -165,6 +167,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonésio |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | Coreano |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Chinês |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
@@ -207,11 +210,11 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finlandês, um pouco de Sueco |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Japonês |
-| ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Coreano |
+| ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | Japonês |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
 | ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | Finlandês |
 | ![][flag_ID] [Surono](https://osu.ppy.sh/users/3611370) | Indonésio |
-| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | Português |
+| ![][flag_PL] [yurishe](https://osu.ppy.sh/users/14890963) | Polonês |
 
 #### osu!catch
 
@@ -225,7 +228,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | Chinês |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chinês |
-| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
+| ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | Espanhol |
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malaio |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonésio |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonésio |
@@ -248,6 +251,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
 [flag_DK]: /wiki/shared/flag/DK.gif "Dinamarca"
+[flag_DO]: /wiki/shared/flag/DO.gif "República Dominicana"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlândia"
 [flag_FR]: /wiki/shared/flag/FR.gif "França"
@@ -266,6 +270,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
 [flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Federação Russa"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tailândia"
