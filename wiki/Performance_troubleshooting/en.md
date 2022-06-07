@@ -7,7 +7,7 @@ Unfortunately, due to the scope of hardware which osu! runs on, it's very hard t
 ## Things to check
 
 - Are you using a skin? If so, try switching to the default and see if things improve. Some skins can be crafted in a way which can cause performance issues on some or all systems.
-- Is your frame limiter set to "unlimited"? Set it to "optimal" and see if it helps. See [its section below](#unlimited) for more information on why "unlimited" is usually not the best choice.
+- Is your frame limiter set to `Unlimited`? Set it to `Optimal` and see if it helps. See [its section below](#unlimited) for more information on why `Unlimited` is usually not the best choice.
 - Are you running windowed? Switch to fullscreen.
 - Have you updated your drivers (especially GPU)? Try doing so and see if things improve. Alternatively, if you recently updated them, try rolling back.
 
@@ -20,7 +20,7 @@ It is quite difficult to provide support when every kind of issue is grouped und
 The actual audio track of the beatmap rewinds in time, or glitches out. Basically, when the game lags, you can hear it in the audio. When diagnosing or reporting, it may help to:
 
 - Check whether it happens on all available audio devices. If you're using a USB headset, try connecting via analog output on your PC instead.
-- Check whether turning on "Audio compatibility mode" in settings helps.
+- Check whether turning on `Audio compatibility mode` in settings helps.
 
 ### Spike frame
 
@@ -46,7 +46,7 @@ There is a noticeable delay between tapping on the keyboard or moving your mouse
 
 During gameplay, one or more input devices stop responding. Everything on screen moves correctly but it’s not possible to play properly until control returns. When diagnosing or reporting, it may help to:
 
-- Press Ctrl-F11 to see the frame time display graph. Check whether there is a lot of white on the graph when this occurs (this means another app or driver on your system is using too much CPU time, delaying input).
+- Press `Ctrl` + `F11` to see the frame time display graph. Check whether there is a lot of white on the graph when this occurs (this means another app or driver on your system is using too much CPU time, delaying input).
 
 ### Low frame rate
 
@@ -54,7 +54,7 @@ During gameplay, the frame rate is unable to keep up, resulting in jittery and a
 
 - Check whether it still happens straight after a PC restart.
 - Try closing any application which shows overlays on the game (Discord, Steam, NVIDIA Shadowplay etc.).
-- Make sure you're not forcing vsync on at your display drivers (it should be set to "off" or "application preference").
+- Make sure you're not forcing VSync on at your display drivers (it should be set to "off" or "application preference").
 - Try changing frame limiter and see if it improves the situation.
 - Make sure you are running osu! in exclusive (not borderless) fullscreen mode. This will always improve performance.
 - Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows windows to provide dedicated cores and resources to osu!.
@@ -80,7 +80,7 @@ Recommended for older PCs or for conserving battery on a laptop.
 
 This frame limiter attempts to keep a frame rate 8x your refresh rate, with a maximum of 960 FPS. This is our recommended frame limiter for users who don’t want to run their CPU/GPU to extremities, while maintaining high levels of performance resulting in low input latency.
 
-Can be preferred to unlimited in order to reduce the number of frames rendered, in turn leading to less potential for [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) overhead (which can result in spike frames).
+Can be preferred to `Unlimited` in order to reduce the number of frames rendered, in turn leading to less potential for [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) overhead (which can result in spike frames).
 
 ### Unlimited
 
@@ -92,7 +92,7 @@ While this may seem like the best option (and indeed can be, if your hardware ca
 - By pushing your CPU and GPU to the limit, there’s a chance they will throttle, lowering your overall performance.
 - GPUs generally aren’t meant to render 1000+ frames per second, so unexpected behaviour may occur, including lower performance or higher latency than otherwise attainable.
 
-Even so, if heat generation and potentially overworking your hardware is not considered an issue, unlimited may be the option that provides you the most stable frame times.
+Even so, if heat generation and potentially overworking your hardware is not considered an issue, `Unlimited` may be the option that provides you the most stable frame times.
 
 ### Custom
 

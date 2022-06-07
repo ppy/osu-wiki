@@ -280,7 +280,7 @@ If the slider's `length` is longer than the defined curve, the slider will exten
 - For bézier, catmull, and linear curves, it continues in a straight line from the end of the curve.
 - For perfect circle curves, it continues the circular arc.
 
-*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier*100)*beatLength` tells how many milliseconds it takes to complete one slide of the slider (assuming `beatLength` has been adjusted for inherited timing points).*
+*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100 * SV) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (where `SV` is the slider velocity multiplier given by the effective inherited timing point, or `1` if there is none).*
 
 #### Slider hitsounds
 
