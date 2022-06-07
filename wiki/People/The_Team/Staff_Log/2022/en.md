@@ -269,6 +269,8 @@ Abbreviations for user groups are used throughout this log:
 - 2022-06-01: Added [Venix](https://osu.ppy.sh/users/5999631) to **Project Loved Team**
 - 2022-06-01: Added [ChillierPear](https://osu.ppy.sh/users/9501251) to **Project Loved Team**
 
+### Beatmap Nominators
+
 #### Additions
 
 - 2022-06-01: Added [KuroKuroKuro](https://osu.ppy.sh/users/11931563) to **Probationary BN**
@@ -284,4 +286,4 @@ Abbreviations for user groups are used throughout this log:
 
 - 2022-06-01: Removed [Konpaku Sariel](https://osu.ppy.sh/users/533502) from **Probationary BN**
 
-<!-- updated as of May 28, 2022 with the Drum-hitnormal's move from the Prob. BN to full BN -->
+<!-- updated as of June 6, 2022 with the Antalf's addition Prob. BN -->
