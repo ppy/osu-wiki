@@ -576,7 +576,7 @@ The ruleset is mainly based on [osu!mania 4K World Cup 2021](/wiki/Tournaments/M
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_QA]:/wiki/shared/flag/QA.gif "Qatar"
+[flag_QA]: /wiki/shared/flag/QA.gif "Qatar"
 [flag_SA]: /wiki/shared/flag/SA.gif "Saudi Arabia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"

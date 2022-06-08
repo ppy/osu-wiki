@@ -9,7 +9,7 @@ Les signalements accidentels sont ignorés. Les utilisateurs qui envoient délib
 | Nature de l'infraction | Point de contact |
 | :-- | :-- |
 | Arnaques ou phishing par message privé | Signalez l'utilisateur |
-| Messages privés offensants/inappropriés | **Aucun** : [ignorez l'utilisateur](/wiki/Client/Interface/Chat_console#commands-list). Pour un effet permanent, utilisez la liste d'utilisateurs à ignorer du jeu située dans les [options](/wiki/Client/Options) ou bloquez l'utilisateur en utilisant le bouton situé sur sa page utilisateur. |
+| Messages privés offensants/inappropriés | **Aucun** : [ignorez l'utilisateur](/wiki/Client/Interface/Chat_console#liste-des-commandes). Pour un effet permanent, utilisez la liste d'utilisateurs à ignorer du jeu située dans les [options](/wiki/Client/Options) ou bloquez l'utilisateur en utilisant le bouton situé sur sa page utilisateur. |
 | Conduite inappropriée d'un [BN](/wiki/People/The_Team/Beatmap_Nominators) | La [NAT](/wiki/People/The_Team/Nomination_Assessment_Team), via le site web [NAT/BN Management](https://bn.mappersguild.com/reports) |
 | Conduite inappropriée d'un membre de la [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) ou de la [GMT](/wiki/People/The_Team/Global_Moderation_Team) | L'[Équipe de support aux comptes](/wiki/People/The_Team/Account_support_team) à l'adresse [support@ppy.sh](mailto:support@ppy.sh) |
 | Abus sexuel ou mauvais comportement extrême | Voir [Signaler un abus](/wiki/Reporting_bad_behaviour/Abuse) |
