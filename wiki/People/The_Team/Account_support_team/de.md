@@ -28,7 +28,7 @@ Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du kein
   - Entfernung von Beatmaps;
   - Entfernung von Forumsbeiträgen und Kommentaren.
 - Fälle von Fehlverhalten, die du [gestehen möchtest](/wiki/Reporting_bad_behaviour/Handling_foul_play#was-kann-ich-tun,-wenn-ich-die-regeln-gebrochen-habe?).
-- [Verlust des Zugriffs auf die E-Mail](/wiki/Help_centre/Installation_and_registration#wo-registriere-ich-mich-für-osu!?), die mit deinem osu!-Account verbunden ist oder, wenn dein Account gestohlen wurde.
+- [Verlust des Zugriffs auf die E-Mail](/wiki/Help_centre/Account#anmeldung), die mit deinem osu!-Account verbunden ist oder, wenn dein Account gestohlen wurde.
 - [Rücksetzungen des Benutzernamens und Rechtschreibfehlerkorrekturen](/wiki/Help_centre/Account#namensänderungen).
 - [Registrierungen von Bot-Accounts](/wiki/Bot_account).
 
@@ -39,7 +39,7 @@ Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du kein
 - Bedenken über das Fehlverhalten eines Moderators.
 - Bedenken über einen Moderator, der die [Richtlinien für Mitwirkende](/wiki/Contributor_Code_of_Conduct) bricht.
 - [Probleme beim Kauf](/wiki/Help_centre/Account#supporter) einer Bestellung vom [osu!store](https://osu.ppy.sh/store/listing).
-- Technische Probleme, die nicht im [Hilfe-Forum](https://osu.ppy.sh/community/forums/5) gelöst werden konnten, wie z. B. [Verbindungsprobleme](/wiki/Help_centre/Client#online-features).
+- Technische Probleme, die nicht im [Hilfe-Forum](https://osu.ppy.sh/community/forums/5) gelöst werden konnten, wie z. B. [Verbindungsprobleme](/wiki/Help_centre/Client#online-funktionen).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
