@@ -19,7 +19,7 @@ Selain kedua nama di atas, segala sesuatu yang kamu kirim ke [abuse@ppy.sh](mail
 
 Harap ikuti instruksi yang sesuai dengan lokasi tindak pelecehan yang kamu alami di bawah ini.
 
-### Dalam *in-game chat*
+### Dalam in-game chat
 
 Segera blokir pengguna tersebut dengan mengklik kanan *username* mereka dan memilih `Abaikan Pengguna`.
 

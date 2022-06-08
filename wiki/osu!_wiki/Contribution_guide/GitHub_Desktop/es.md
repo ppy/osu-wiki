@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
 no_native_review: true
 ---
 
@@ -76,7 +78,7 @@ Mientras que la ramificación es técnicamente opcional, es [altamente recomenda
 
 3. Lo mejor es separar cada acción "grande" como un 'commit' aparte.
 
-Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#-pippi) ha agregado una imagen, ha modificado el archivo `en.md` para agregar un título y un link a la imagen y ha marcado las traducciones como desactualizadas. De esto podemos hacer dos 'commits', una para los cambios que afectan al archivo `en.md` y otra para marcar las traducciones como desactualizadas.
+Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#pippi) ha agregado una imagen, ha modificado el archivo `en.md` para agregar un título y un link a la imagen y ha marcado las traducciones como desactualizadas. De esto podemos hacer dos 'commits', una para los cambios que afectan al archivo `en.md` y otra para marcar las traducciones como desactualizadas.
 
 4. Selecciona los archivos que vayas a añadir al 'commit'.
 

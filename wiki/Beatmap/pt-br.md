@@ -47,7 +47,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Um beatmap enviado pertence a uma das seguintes categorias, que podem mudar ao longo do tempo:
 
-- [Cemitério](Category#cemitério-enterrados)
+- [Cemitério](Category#cemitério-(enterrados))
 - [Em progresso / Pendente](Category#pendente)
 - [Qualificado](Category#qualificados)
 - [Ranqueado](Category#ranqueados)
@@ -101,7 +101,7 @@ O top 500 em cada dificuldade tem [replays](/wiki/Gameplay/Replay), que podem se
 
 Desde seus primeiros dias, a comunidade teve várias formas de exibir mapas excelentes e únicos. Uma das primeiras formas documentadas foram *charts* mensais e sazonais consistindo de um pequeno conjunto de *beatmaps* ranqueados, em que jogadores do topo da tabela de classificação exibiam pontuações totais entre os mapas e seriam premiados com [osu!supporter](/wiki/osu!supporter).
 
-O sistema de *chart* mais tarde evoluiu no projeto [Beatmap Spotlights](/wiki/Beatmap_Spotlights), que agora opera em condições similares, mas ocorre nas *playlists* do osu!lazer.
+O sistema de *chart* mais tarde evoluiu no projeto [Beatmap Spotlights](/wiki/Beatmap_Spotlights), que agora opera em condições similares, mas ocorre nas *playlists* do osu!(lazer).
 
 ### Concursos de beatmap
 

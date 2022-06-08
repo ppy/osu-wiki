@@ -16,6 +16,7 @@ IRC ist ein Protokoll auf Anwendungsebene, das das Chatten mit anderen Benutzern
 
 - Server: `irc.ppy.sh`
 - Port: `6667`
+- SSL: ausgeschaltet
 - Benutzername: dein osu! Benutzername. Ersetze Leerzeichen durch Unterstriche (z. B. wird `beppy master 1000` zu `beppy_master_1000`)
 - Passwort: das Passwort der [IRC-Authentifizierungsseite](https://osu.ppy.sh/p/irc)
 
@@ -82,4 +83,4 @@ Benutzer, die über den osu!-Client oder die Website verbunden sind, haben kein 
 
 ### Jemand sendet Nachrichten, aber er ist nicht in der Liste der Channel-Benutzer!
 
-Er verwendet entweder die [Web-Version des Chats](https://osu.ppy.sh/community/chat) oder ist via [osu!lazer](https://github.com/ppy/osu) verbunden.
+Er verwendet entweder die [Web-Version des Chats](https://osu.ppy.sh/community/chat) oder ist via [osu!(lazer)](https://github.com/ppy/osu) verbunden.

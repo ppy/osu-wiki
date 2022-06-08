@@ -42,7 +42,7 @@ While branching is technically optional, it is [highly recommended for a couple 
 
 1. In the folder you cloned the repo into, navigate to the file you want to edit. The articles are organised by the folder names being the article names and the `.md` files being the locales.
 2. Once you find the correct file, open it using your favourite text editor.
-3. You can now make your changes. When making changes, follow the [Article Styling Criteria](/wiki/Article_styling_criteria) as closely as you can.
+3. You can now make your changes. Take a moment to also go through the [self-check](/wiki/osu!_wiki/Contribution_guide#self-check).
 4. Continue to [Committing and pushing](#committing-and-pushing).
 
 ### Moving existing files
@@ -87,4 +87,4 @@ For example, as pictured above, [pippi](/wiki/Mascots#pippi) had added an image 
 
   ![](img/github-desktop-push.jpg)
 
-9. Continue to [Finishing](/wiki/osu!_wiki/Contribution_guide#finishing) for the last piece of information regarding your pull request and changes.
+9. Continue to [Review](/wiki/osu!_wiki/Contribution_guide#review) for the last piece of information regarding your pull request and changes.

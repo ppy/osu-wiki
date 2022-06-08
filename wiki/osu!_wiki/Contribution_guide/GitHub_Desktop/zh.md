@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
+---
+
 # GitHub 桌面客户端
 
 *主页面：[osu! wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide)。*

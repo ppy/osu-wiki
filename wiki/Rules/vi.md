@@ -1,6 +1,6 @@
 ---
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
 ---
 
@@ -68,6 +68,6 @@ Một vài vi phạm có lượng thời gian phạt tối thiểu (thường l�
 
 Nếu sau vài lần vi phạm mà bạn vẫn tiếp tục phá vỡ luật lệ, tài khoản của bạn có thể bị giới hạn vĩnh viễn và không thể thay đổi.
 
-Tài khoản giới hạn không thể chơi trực tuyến, ghi điểm, chat với người chơi khác và bị "cấm" tương tác với cộng đồng dưới mọi hình thức. Bị giới hạn do vi phạm nội quy cộng đồng chỉ có thể được gỡ bằng việc viết mail xin gỡ ban gửi nhân viên hỗ trợ sau 3 tháng ([kèm thêm một vài điều kiện khác](/wiki/Help_centre/Account_restrictions#Lý-do-hạn-chế-thường-gặp-và-thời-gian-chờ)).
+Tài khoản giới hạn không thể chơi trực tuyến, ghi điểm, chat với người chơi khác và bị "cấm" tương tác với cộng đồng dưới mọi hình thức. Bị giới hạn do vi phạm nội quy cộng đồng chỉ có thể được gỡ bằng việc viết mail xin gỡ ban gửi nhân viên hỗ trợ sau 3 tháng ([kèm thêm một vài điều kiện khác](/wiki/Help_centre/Account_restrictions#lý-do-hạn-chế-thường-gặp-và-thời-gian-chờ)).
 
 Vi phạm nghiêm trọng vượt quá tầm xử lý của nội quy và được liệt vào vấn đề pháp lý theo như luật Quốc tế chung sẽ dẫn đến việc tài khoản bị xoá bỏ ngay lập tức. Điều này áp dụng dành riêng cho các nội dung phản cảm hoặc ghê tởm, như truyền bá ấn phẩm khiêu dâm trẻ em hoặc các nội dung bạo hành tương tự.

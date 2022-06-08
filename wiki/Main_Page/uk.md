@@ -1,6 +1,6 @@
 ---
 layout: main_page
-outdated: true
+outdated_translation: true
 outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
@@ -60,14 +60,14 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 [Турніри](/wiki/Tournaments) • [Створення скінів](/wiki/Skinning) • [Проекти](/wiki/Community/Projects) • [Гайди](/wiki/Guides) • [osu!dev Discord сервер](/wiki/Community/osu!dev_Discord_server) • [Як ви можете допомогти](/wiki/Community/How_you_can_help!) • [Глосарій](/wiki/Glossary)
 
+Організатори: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Люди
+# [Люди](/wiki/People)
 
 [Команда osu!](/wiki/People/The_Team): [Розробники](/wiki/People/The_Team/Developers) • [Команда глобальних модераторів](/wiki/People/The_Team/Global_Moderation_Team) • [Команда допомоги](/wiki/People/The_Team/Support_Team) • [Команда оцінки номінацій](/wiki/People/The_Team/Nomination_Assessment_Team) • [Номінатори карт](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Команда проекту Loved](/wiki/People/The_Team/Project_Loved_Team)
-
-Організатори: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Видатні учасники суспільства](/wiki/People/Community_Contributors) • [Учасники з унікальними титулами](/wiki/People/Users_with_unique_titles)
 

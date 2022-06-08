@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 3fe983b3a55970aed91a0bcdca028253d918ae5d
 no_native_review: true
 tags:
   - GMT
@@ -87,6 +89,7 @@ tags:
 | ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572) | Немски | Модериране обществото на създатели/редактори |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Руски | Модериране на чат |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Японски | Модериране на чат |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Руски | Модериране на чат |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Руски | Модериране на чат |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Финландски | Модериране на чат |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Португалски, Испански | Модериране на чат, Управление на турнири |
@@ -95,7 +98,6 @@ tags:
 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Кантонски, Китайски | Управление на турнири |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Португалски | Модериране обществото на създатели/редактори |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! разработчик |
-| ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | Руски | Модериране на чат |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Филипински | Модериране на чат, Модериране на форум, Техническа поддръжка |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Френски | Модериране на чат |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Модериране обществото на създатели/редактори |
@@ -104,8 +106,8 @@ tags:
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Португалски, Испански | Модериране на чат |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Немски | Модериране обществото на създатели/редактори |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Немски, Сръбски | Модериране на чат, Модериране обществото на създатели/редактори |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Официално представяне на екип |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Филипински | Модериране на чат |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Официално представяне на екип |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Немски | Управление на турнири |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Френски, малко Испански | Модериране на чат, Модериране на форум, Модериране обществото на създатели/редактори |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Португалски | Модериране на чат |
@@ -157,7 +159,7 @@ tags:
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
-| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
 | `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484), ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) |
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |

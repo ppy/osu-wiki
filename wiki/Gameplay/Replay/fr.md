@@ -3,6 +3,8 @@ needs_cleanup: true
 outdated: true
 ---
 
+<!-- there are small differences with EN that should be fixed. compare line numbers with EN to find those differences easily. -->
+
 <!-- TODO: this is riddled with old client information and probably needs to be rewritten anyway. -->
 
 # Replay
@@ -18,7 +20,7 @@ Pour relancer un replay depuis le début, restez appuyé sur un des boutons par 
 L'écran devrait s'assombrir et un son sera joué lorsque le replay sera relancé.
 Relâcher trop tôt ne permettra pas au relancement de s'effectuer.
 
-Il est toujours possible d'accéder à la [console de chat](/wiki/Client/Interface/Chat_console) (`F8`)/[console de chat étendue](/wiki/Client/Interface/Chat_console#la-console-de-chat-étendue) (`F9`) .
+Il est toujours possible d'accéder à la [console de tchat](/wiki/Client/Interface/Chat_console) (`F8`)/[console de tchat étendue](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue) (`F9`) .
 Appuyez sur `Tab` pour cacher/afficher le classement actuellement sélectionné.
 Appuyez sur `H` pour cacher/afficher les éléments du replays exceptés les mods utilisés et la notice **UNRANKED** si la partie est jouée par [Auto](/wiki/Game_modifier/Auto).
 
@@ -28,11 +30,11 @@ Un replay avec le mod [Cinema](/wiki/Game_modifier/Cinema) va :
 - Désactiver l'accès au gameplay,
 - Cacher tous les éléments de skin du mode de jeu,
 - Activer l'image/la vidéo d'arrière-plan,
-- Uniquement jouer le storyboard en cas de réussite de la map,
+- Uniquement jouer le storyboard en cas de réussite de la beatmap,
 - Mettre l'assombrissement de l'arrière-plan à 0%
-- Jouer les hitsounds au même moment où les notes de la map seraient complétées.
+- Jouer les hitsounds au même moment où les notes de la beatmap seraient complétées.
 
-Pour passer l'intro/l'outro de la map, appuyez sur la barre `Espace` .
+Pour passer l'intro/l'outro de la beatmap, appuyez sur la barre `Espace` .
 
 ### Discussion
 
@@ -57,13 +59,13 @@ Pour filtrer les commentaires par difficulté, activez `Difficulty (#)`.
 Pour filtrer les commentaires par toutes les difficultés, activez `Song (#)`.
 Quand vous regardez un replay du `classement global`, activez `Player (#)` pour montrer les commentaires du joueur lui-même.
 
-Les commentaires du créateur de la map seront placés au-dessus des commentaires défilants avec un texte bleu-clair et une animation jump-out/jump-in.
+Les commentaires du créateur de la beatmap seront placés au-dessus des commentaires défilants avec un texte bleu-clair et une animation jump-out/jump-in.
 Selon la résolution du jeu, ces commentaires peuvent être cachés par la notice **UNRANKED** quand vous regardez un replay d'Auto.
 Pour retirer la notice **UNRANKED** , regardez un replay du `classement global`, ou un replay local du `classement local` sans le mod Auto.
 
 Quand vous regardez un replay du classement global, les commentaires du joueur seront montrés en bas de l'écran et ne seront montrés que sur ce replay uniquement.
 
-Par défaut, sans tag osu!supporter actif, la couleur des commentaires dépendra de la couleur affichée dans le chat (les comptes sans osu!supporter sont affichés en blanc) mis à part le créateur de la map (commentaires en bleu-clair).
+Par défaut, sans tag osu!supporter actif, la couleur des commentaires dépendra de la couleur affichée dans le tchat (les comptes sans osu!supporter sont affichés en blanc) mis à part le créateur de la beatmap (commentaires en bleu-clair).
 
 ### Collections
 
@@ -128,7 +130,7 @@ Supprimer le fichier `.osg` n'a pas d'effet (il s'agit du reste du replay en spe
 Supprimer le fichier `.osr` vous fera perdre le replay *pour toujours* (puisque les données du replay ne sont plus présentes).
 Par ailleurs, supprimer le fichier `scores.db` (qui contient tous les scores locaux et les chemins vers les replays cryptés) *vous fera perdre tous les scores locaux et replays (non exportés) pour toujours*.
 
-Pour établir un pseudo sur des scores locaux en étant hors ligne (compte *Guest*), défilez vers le bas sur l'écran de résultat pour accéder aux résultats en ligne après avoir terminé une map et tapez le pseudo choisi dans la boîte de texte *Guest player name*.
+Pour établir un pseudo sur des scores locaux en étant hors ligne (compte *Guest*), défilez vers le bas sur l'écran de résultat pour accéder aux résultats en ligne après avoir terminé une beatmap et tapez le pseudo choisi dans la boîte de texte *Guest player name*.
 Sur cet écran, une alternative à la touche d'exportation `F2` est d'activer le bouton `Save replay to Replays folder` situé sur la partie supérieure droite.
 
 Retournez sur l'écran de sélection de beatmap et les changements seront mis à jour pour ce replay (Si aucun nom n'a été donné, il sera vide).
@@ -137,7 +139,7 @@ Retournez sur l'écran de sélection de beatmap et les changements seront mis à
 
 ![](img/Replay_failed.jpg "Sur la gauche se trouve un écran de Game Over normal, sur la gauche se trouve l'écran de Game Over sur un replay")
 
-Pour accéder à cet écran, échouez la map en vidant entière la barre de vie, ou ne dépassez pas + de 50% de la barre de vie avant la fin de map en osu!taiko.
+Pour accéder à cet écran, échouez la beatmap en vidant entière la barre de vie, ou ne dépassez pas + de 50% de la barre de vie avant la fin de beatmap en osu!taiko.
 
 Sur l'écran de Game Over, appuyez sur la touche `F1` pour voir un replay de la partie perdue et appuyez sur la touche `F2` pour en sauvegarder un replay.
 Le replay se termine lorsque l'écran s'assombrit, avec le osu!logo au milieu et remplace l'écran de Game Over.
@@ -165,13 +167,13 @@ Les éléments du Multi ne seront pas sauvegardés comme montré sur la comparai
 
 ### Spectateur
 
-Le mode spectateur requiert l'accès à la [Console de chat étendue](/wiki/Client/Interface/Chat_console#extended-chat-console), vous devez donc vous connecter à Bancho pour observer un joueur.
+Le mode spectateur requiert l'accès à la [Console de tchat étendue](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue), vous devez donc vous connecter à Bancho pour observer un joueur.
 
-Après cela, appuyez sur `F9` pour accéder à la console de chat étendue et choisissez le jouer à observer.
+Après cela, appuyez sur `F9` pour accéder à la console de tchat étendue et choisissez le jouer à observer.
 Vous devez avoir la **même** difficulté/beatmap que le joueur, ou un message d'avertissement apparaîtra en bas à droite pour vous dire que vous ne possédez pas la beatmap, vous ne pouvez donc pas obtenir le replay.
 Si vous possédez la beatmap, le replay en mode spectateur commencera.
 
-Un onglet `#spectator` s'ouvrira dans la console de chat (pour les spectateurs et le joueur) pour discuter de la partie du joueur.
+Un onglet `#spectator` s'ouvrira dans la console de tchat (pour les spectateurs et le joueur) pour discuter de la partie du joueur.
 
 Notez que selon les paramètres du joueur, la liste des pseudos des spectateurs apparaîtra en blanc sur l'écran du joueur dans le coin supérieur gauche.
 
@@ -209,7 +211,7 @@ Notez que la notice **UNRANKED** ne peut pas être retirée.
 
 #### Partie fictive
 
-Lorsque vous cliquez sur le bouton `Voir le skin dans une partie fictive` dans le `Options`, Auto va **aléatoirement choisir une difficulté/beatmap** du **mode de jeu actuellement sélectionné (choisi sur l'écran de sélection de beatmap en Solo)** à un **moment aléatoire de la map**.
+Lorsque vous cliquez sur le bouton `Voir le skin dans une partie fictive` dans le `Options`, Auto va **aléatoirement choisir une difficulté/beatmap** du **mode de jeu actuellement sélectionné (choisi sur l'écran de sélection de beatmap en Solo)** à un **moment aléatoire de la beatmap**.
 
 Dans ce type de replay, Auto manquera de temps en temps les objets pour montrer à quoi ressemble les éléments du skin.
 Si le bouton `Voir le skin dans une partie fictive` n'a pas été appuyé de nouveau pour changer de difficulté/beatmap et que celle-ci se termine, l'écran de résultats de cette partie apparaîtra et la `barre d'Options` sera fermée.
@@ -242,7 +244,7 @@ Les pauses ne seront pas comptées dans les données du replay; seul le gameplay
 
 ### Spectateur
 
-Bien qu'il soit possible d'exporter un replay en mode spectateur, c'est une mauvaise idée si vous avez rejoint en plein milieu ou à la fin de la map.
+Bien qu'il soit possible d'exporter un replay en mode spectateur, c'est une mauvaise idée si vous avez rejoint en plein milieu ou à la fin de la beatmap.
 
 Le replay exporté ne contiendra que les données de la partie à partir du moment où vous avez commencé à observer le joueur.
 
@@ -262,8 +264,8 @@ Notez que c'est actuellement le seul moyen de sauvegarder un replay qui continue
 
 ![](img/Replay_preview_result.jpg "Exemple d'écran de résultat d'une partie fictive")
 
-Selon le moment aléatoire choisi par Auto, il pourrait commencer à la fin de la map sans le moindre objet, menant directement à l'écran de résultat avec 0 score, 0 combo, un rang D et 100% de précision
+Selon le moment aléatoire choisi par Auto, il pourrait commencer à la fin de la beatmap sans le moindre objet, menant directement à l'écran de résultat avec 0 score, 0 combo, un rang D et 100% de précision
 Lorsque vous regardez le replay, la perte de vie fonctionnera comme d'habitude, pas de mouvement de curseur, et pas de miss (d'où les 100% de précision) jusqu'au moment où Auto a commencé à jouer après avoir appuyé sur `Voir le skin dans une partie fictive`, les objets commenceront à fonctionner
 
-Puisqu'Auto ne peut pas échouer une map, une barre de vie vide n'a pas d'effet sur Auto.
+Puisqu'Auto ne peut pas échouer une beatmap, une barre de vie vide n'a pas d'effet sur Auto.
 Cependant, en osu!taiko, si Auto ne peut pas remplir la barre de vie à au moins 50%, le replay sera bloqué dans une *boucle infinie*.

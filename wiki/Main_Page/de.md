@@ -68,13 +68,13 @@ Ranking ist der Prozess eine Beatmap auf einer Rangliste darzustellen und die Be
 
 # Regeln und Jura
 
-Lese über die Prozeduren und Kontrollen, die osu! und seine Community schützen; von Musiklizensierung und Medienrichtlinien bis hin zu Chat- und Forumregeln.
+Lese über die Prozeduren und Kontrollen, die osu! und seine Community schützen; von Musiklizenzierung und Medienrichtlinien bis hin zu Chat- und Forumregeln.
 
 [Regeln](/wiki/Rules) • [Verhaltenskodex für Mitwirkende](/wiki/Contributor_Code_of_Conduct) • [Verhaltenskodex für das Modding und Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 Medienregulierungen: [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Content_Usage_Guidelines) • [Expliziter Inhalt](/wiki/Rules/Explicit_Content) • [Regeln für Songinhalte](/wiki/Rules/Song_Content_Rules) • [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_Content_Considerations)
 
-[Rechtliche Seiten](/wiki/Legal): [Allgemeine Geschäftsbedingungen](/wiki/Legal/Terms) • [Datenschutz](/wiki/Legal/Privacy) • [Urheberrecht (DMCA)](/wiki/Legal/Copyright) • [Musiklizensierung](/wiki/Legal/Music_licensing)
+[Rechtliche Seiten](/wiki/Legal): [Allgemeine Geschäftsbedingungen](/wiki/Legal/Terms) • [Datenschutz](/wiki/Legal/Privacy) • [Urheberrecht (DMCA)](/wiki/Legal/Copyright) • [Musiklizenzierung](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -100,18 +100,18 @@ Eine aktive Community sind eines der Dinge, die osu! voranbringen. Entdecke die 
 
 [Projekte](/wiki/Community/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu! Community Meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+Organisationen: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Personen
+# [Personen](/wiki/People)
 
 osu! würde nicht ohne die Hilfe von vielen Menschen existieren, die in der Entwicklung, Wartung und im Community-Management tätig sind. Ihrer Mühen, Zeit und Hingabe ist es zu verdanken, dass das Spiel weiterentwickelt wird.
 
 [Das Team](/wiki/People/The_Team): [Entwickler](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
-Organisationen: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
-
-[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Benutzer mit besonderen Titeln](/wiki/People/Users_with_unique_titles)
+[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Benutzer mit besonderen Titeln](/wiki/People/Users_with_unique_titles) • [Turnierkomitee](/wiki/People/Tournament_Committee) • [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -14,14 +14,14 @@ La **Catch French Cup 3** (***CFC 3***) était un tournoi osu!catch français en
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2018-08-15/2018-09-02 |
-| Tirage au sort en direct | 2018-09-01 (19:00 UTC) |
-| Phase de poules | 2018-09-08/2018-09-16 |
-| 16èmes de finale | 2018-09-22/2018-09-25 |
-| Quarts-de-finale | 2018-09-29/2018-09-30 |
-| Demi-finales | 2018-10-06/2018-10-07 |
-| Finales | 2018-10-13 |
-| Grandes Finales | 2018-10-20 |
+| Phase d'inscription | 15/08/2018 - 02/09/2018 |
+| Tirage au sort en direct | 01/09/2018 (19:00 UTC) |
+| Phase de poules | 08/09/2018 - 16/09/2018 |
+| 16èmes de finale | 22/09/2018 - 25/09/2018 |
+| Quarts-de-finale | 29/09/2018 - 30/09/2018 |
+| Demi-finales | 06/10/2018 - 07/10/2018 |
+| Finales | 13/10/2018 |
+| Grandes Finales | 20/10/2018 |
 
 ## Récompenses
 
@@ -41,7 +41,7 @@ La Catch French Cup 3 était gérée par différents membres de la communauté.
 | Poste | Membre(s) |
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Sélectionneur de map | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
+| Sélectionneur de beatmap | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
 | Arbitre | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734) |
 | Streamer | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Commentateur | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913), ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/138728) |
@@ -89,7 +89,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
 
-## Liste des maps
+## Liste des beatmaps
 
 ### Grandes Finales
 

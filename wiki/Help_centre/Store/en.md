@@ -36,7 +36,7 @@ If you have any further issues, please feel free to submit a ticket to [support@
 
 Please contact [store@ppy.sh](mailto:store@ppy.sh) for further inquiries.
 
-#### Checking the LEDs for corosion
+#### Checking the LEDs for corrosion
 
 **Rubbing the base of the LED connectors with a small square of aluminium foil will remove most of the residue caused from corrosion.**
 
@@ -113,7 +113,7 @@ To fix this, ensure you have the osu!go device selected, right-click on the RAW 
 
 **You will need to partition the device from scratch.**
 
-Please follow [this guide](https://staging.tails.boum.org/doc/first_steps/reset/windows.en.html) for details on how to do that.
+Please follow [this guide](https://tails.boum.org/doc/reset/windows/index.en.html) for details on how to do that.
 
 ### I've reformatted the osu!go device and it now shows up in Disk Management
 

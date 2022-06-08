@@ -1,6 +1,11 @@
+---
+outdated_translation: true
+outdated_since: 6450b01c1dbc60bcfecdd85bce52a0bfc44b4e99
+---
+
 # Daftar pengguna dengan gelar khusus
 
-Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [gugus pengguna (*user group*)](/wiki/People/The_Team#gugus-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen-momen unik yang telah mereka torehkan.
+Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [gugus pengguna (*user group*)](/wiki/People/The_Team#gugus-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen unik yang mereka torehkan.
 
 ## Juara bertahan World Cup
 
@@ -17,10 +22,11 @@ Berikut merupakan para pemenang [OWC 2021](/wiki/Tournaments/OWC/2021) yang saat
 - ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211)
 - ![][flag_US] [Utami](https://osu.ppy.sh/users/7512553)
 
-Berikut merupakan para pemenang [TWC 2021](/wiki/Tournaments/TWC/2021) yang saat ini menyandang gelar **osu!taiko Champion**:
+Berikut merupakan para pemenang [TWC 2022](/wiki/Tournaments/TWC/2022) yang saat ini menyandang gelar **osu!taiko Champion**:
 
 - ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501)
 - ![][flag_JP] [Grape\_Tea](https://osu.ppy.sh/users/9540073)
+- ![][flag_JP] [nameless\_ll](https://osu.ppy.sh/users/11199742)
 - ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950)
 - ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
@@ -43,9 +49,16 @@ Berikut merupakan para pemenang [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) yan
 - ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019)
 - ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363)
 
+Berikut merupakan para pemenang [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) yang saat ini menyandang gelar **osu!mania 7K Champion**:
+
+- ![][flag_KR] [0133](https://osu.ppy.sh/users/12346181)
+- ![][flag_KR] [dressurf](https://osu.ppy.sh/users/758406)
+- ![][flag_KR] [Estonians](https://osu.ppy.sh/users/7014697)
+- ![][flag_KR] [yz1155](https://osu.ppy.sh/users/2071008)
+
 ## Mantan juara World Cup
 
-Sejak November 2021, para pemenang turnamen-turnamen World Cup yang telah lalu turut dianugerahkan dengan gelar **Former osu!/osu!taiko/osu!catch/osu!mania Champion**. Untuk para pemain yang telah memenangkan lebih dari satu World Cup, mereka akan menyandang gelar yang sesuai dengan turnamen World Cup terakhir yang mereka menangkan.
+Sejak November 2021, para pemenang turnamen World Cup yang telah lalu turut dianugerahkan dengan gelar **Former osu!/osu!taiko/osu!catch/osu!mania Champion**. Untuk para pemain yang telah memenangkan lebih dari satu World Cup, mereka akan menyandang gelar yang sesuai dengan turnamen World Cup terakhir yang mereka menangkan.
 
 Berikut merupakan para mantan pemenang osu! World Cup yang menyandang gelar **Former osu! Champion**:
 
@@ -77,6 +90,7 @@ Berikut merupakan para mantan pemenang osu!taiko World Cup yang menyandang gelar
 | [TWC 2018](/wiki/Tournaments/TWC/2018) | Former osu!taiko Champion: 2018 | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767), ![][flag_JP] [zkane2](https://osu.ppy.sh/users/6359835) |
 | [TWC 2019](/wiki/Tournaments/TWC/2019) | Former osu!taiko Champion: 2019 | ![][flag_JP] [isobe](https://osu.ppy.sh/users/8047347), ![][flag_JP] [v2fax](https://osu.ppy.sh/users/7739269) |
 | [TWC 2020](/wiki/Tournaments/TWC/2020) | Former osu!taiko Champion: 2020 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401), ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196) |
+| [TWC 2021](/wiki/Tournaments/TWC/2021) | Former osu!taiko Champion: 2021 | *N/A* |
 
 Berikut merupakan para mantan pemenang osu!catch World Cup yang menyandang gelar **Former osu!catch Champion**:
 
@@ -105,13 +119,13 @@ Berikut merupakan para mantan pemenang osu!mania World Cup yang menyandang gelar
 | [MWC 4K 2017](/wiki/Tournaments/MWC/2017_4K) | Former osu!mania 4K Champion: 2017 | ![][flag_KR] [cheetose](https://osu.ppy.sh/users/3817144), ![][flag_KR] [Cobo-](https://osu.ppy.sh/users/1482965) |
 | [MWC 7K 2018](/wiki/Tournaments/MWC/2018_7K) | Former osu!mania 7K Champion: 2018 | ![][flag_KR] [ideu-](https://osu.ppy.sh/users/137227), ![][flag_KR] [Kim\_GodSSI](https://osu.ppy.sh/users/2218047) |
 | [MWC 4K 2018](/wiki/Tournaments/MWC/2018_4K) | Former osu!mania 4K Champion: 2018 | ![][flag_KR] [\[ Special \]](https://osu.ppy.sh/users/8283444), ![][flag_KR] [SnowScent](https://osu.ppy.sh/users/7945868) |
-| [MWC 7K 2019](/wiki/Tournaments/MWC/2019_7K) | Former osu!mania 7K Champion: 2019 | ![][flag_KR] [Estonians](https://osu.ppy.sh/users/7014697), ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972), ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) |
+| [MWC 7K 2019](/wiki/Tournaments/MWC/2019_7K) | Former osu!mania 7K Champion: 2019 | ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972), ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) |
 | [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) | Former osu!mania 4K Champion: 2019 | ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839), ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649), ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923), ![][flag_KR] [Transcendence](https://osu.ppy.sh/users/903155), ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728), ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) |
-| [MWC 4K 2019](/wiki/Tournaments/MWC/2020_4K) | Former osu!mania 4K Champion: 2019 | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824), ![][flag_BR] [Punnies](https://osu.ppy.sh/users/8700468) |
+| [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) | Former osu!mania 4K Champion: 2019 | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824), ![][flag_BR] [Punnies](https://osu.ppy.sh/users/8700468) |
 
-## Pemenang kontes-kontes mapping resmi
+## Pemenang kontes mapping resmi
 
-osu! pada umumnya menganugerahkan para pemenang kontes-kontes mapping yang berstatus resmi (*official mapping contests*) dengan gelar **Elite Mapper**.
+osu! pada umumnya menganugerahkan para pemenang kontes mapping yang berstatus resmi (*official mapping contests*) dengan gelar **Elite Mapper**.
 
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
 - ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309)
@@ -134,7 +148,7 @@ osu! pada umumnya menganugerahkan para pemenang kontes-kontes mapping yang berst
 - ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)
 - ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023)
 - ![][flag_AU] [m980](https://osu.ppy.sh/users/3288)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)¹
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)[^mao-note]
 - ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993)
 - ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
 - ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
@@ -151,25 +165,27 @@ osu! pada umumnya menganugerahkan para pemenang kontes-kontes mapping yang berst
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
-¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam meraih gelar Elite Mapper pada dua kontes mapping yang berbeda, yakni [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
-
 ## Elite Nominator
 
 Sejak tahun 2020, setiap tahunnya osu! menganugerahkan gelar **Elite Nominator** kepada para anggota [Beatmap Nominator (BN)](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) yang dinilai telah memberikan kontribusi yang lebih selama setahun ke belakang. Adapun gelar Elite Nominator tersebut akan hilang apabila pengguna yang bersangkutan dikeluarkan dan/atau mengundurkan diri dari BN atau NAT.
 
-- ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
-- ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)¹
-- ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)¹
-- ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)¹
-- ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
+- ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229)
+- ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065)
+- ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
+- ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581)
+- ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196)
+- ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379)
+- ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637)
+- ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453)
+- ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059)
+- ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
 
-¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), dan ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) saat ini menyandang gelar **Elite Nominator II** atas keberhasilan mereka masing-masing dalam mempertahankan status Elite Nominator yang mereka miliki selama dua tahun berturut-turut.
-
-## Pemenang kontes-kontes mapping Aspire
+## Pemenang kontes mapping Aspire
 
 osu! menganugerahkan gelar **Elite Mapper: Aspirant** kepada para pemenang kontes-kontes mapping Aspire.
 
-- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)¹
+- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)[^charles445-note]
 - ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
 - ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619)
@@ -178,16 +194,12 @@ osu! menganugerahkan gelar **Elite Mapper: Aspirant** kepada para pemenang konte
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) saat ini menyandang gelar **Elite Mapper II: Aspirant** atas keberhasilannya dalam menjuarai [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) dan [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) secara bersamaan.
-
-## Pemenang kontes-kontes osu!remix
+## Pemenang kontes osu!remix
 
 osu! menganugerahkan gelar **osu!mixer** kepada para pemenang kontes-kontes osu!remix.
 
-- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
+- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)[^billiummoto-note]
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
-
-¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) saat ini menyandang gelar **osu!mixer II** atas keberhasilannya dalam menjuarai dua kontes osu!remix yang berbeda, yakni [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) dan [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 
 ## Juara bertahan kontes osu!trivium Quiz
 
@@ -221,6 +233,7 @@ osu! menganugerahkan gelar **Featured Artist** kepada para [Featured Artist](/wi
 | ![][flag_RO] [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ![][flag_MY] [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
+| ![][flag_KR] [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
 | ![][flag_JP] [Namirin](https://osu.ppy.sh/users/2264828) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
@@ -232,7 +245,7 @@ osu! menganugerahkan gelar **Featured Artist** kepada para [Featured Artist](/wi
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 
-## Pemenang kontes-kontes desain maskot
+## Pemenang kontes desain maskot
 
 Dari waktu ke waktu, osu! telah beberapa kali mengadakan kontes desain maskot yang terbuka bagi seluruh ilustrator yang tertarik untuk mendesain atau merombak tampilan maskot-maskot yang ada. osu! menganugerahkan gelar **osu!artist** kepada para ilustrator yang karyanya berhasil terpilih sebagai pemenang.
 
@@ -262,7 +275,7 @@ osu! menganugerahkan gelar **Elite Storyboarder** kepada para pembuat storyboard
 
 ## Terkait dengan permainan
 
-Para pengguna berikut memperoleh gelarnya masing-masing atas keberhasilan mereka dalam mencatat rekor-rekor yang luar biasa atau menyelesaikan tantangan-tantangan tertentu yang terkait dengan permainan.
+Para pengguna berikut memperoleh gelarnya masing-masing atas keberhasilan mereka dalam mencatat rekor yang luar biasa atau menyelesaikan tantangan tertentu yang terkait dengan permainan.
 
 | Pengguna | Gelar | Pencapaian |
 | :-- | :-- | :-- |
@@ -284,6 +297,7 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas kontribusi mereka y
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organizer |
 | ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
+| ![][flag_DE] [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organizer |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
@@ -293,7 +307,6 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas kontribusi mereka y
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
-| ![][flag_DE] [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade |
 
 ## Lainnya
 
@@ -308,6 +321,12 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas berbagai alasan yan
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 
+## Catatan
+
+[^mao-note]: ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam meraih gelar Elite Mapper pada dua kontes mapping yang berbeda, yakni [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
+[^charles445-note]: ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) saat ini menyandang gelar **Elite Mapper II: Aspirant** atas keberhasilannya dalam menjuarai [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) dan [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) secara bersamaan.
+[^billiummoto-note]: ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) saat ini menyandang gelar **osu!mixer II** atas keberhasilannya dalam menjuarai dua kontes osu!remix yang berbeda, yakni [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) dan [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
+
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
@@ -321,6 +340,7 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas berbagai alasan yan
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
 [flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
+[flag_GR]: /wiki/shared/flag/GR.gif "Yunani"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HM]: /wiki/shared/flag/HM.gif "Pulau Heard dan Kepulauan McDonald"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
@@ -339,5 +359,6 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas berbagai alasan yan
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
 [flag_SH]: /wiki/shared/flag/SH.gif "Saint Helena"
+[flag_TN]: /wiki/shared/flag/TU.gif "Tunisia"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

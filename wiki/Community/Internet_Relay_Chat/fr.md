@@ -8,7 +8,7 @@ Le **Internet Relay Chat** (**IRC**) est un protocole de couche d'application ut
 
 *Remarque : ce serveur ne fournit qu'une implémentation partielle du protocole IRC. Certaines fonctionnalités non basiques de votre client IRC (par exemple [HexChat](https://hexchat.github.io/)) peuvent ne pas fonctionner correctement, ou ne pas fonctionner du tout.*
 
-*osu!Bancho* (parfois abrégé en *Bancho*) offre une passerelle pour l'accès à l'IRC (chat en jeu). Vous pouvez utiliser n'importe quel client IRC moderne pour vous y connecter (voir la liste des clients les plus populaires ci-dessous).
+*osu!Bancho* (parfois abrégé en *Bancho*) offre une passerelle pour l'accès à l'IRC (tchat en jeu). Vous pouvez utiliser n'importe quel client IRC moderne pour vous y connecter (voir la liste des clients les plus populaires ci-dessous).
 
 ## Connexion
 
@@ -16,6 +16,7 @@ Ouvrez les paramètres de votre client IRC et remplissez les valeurs (vous devre
 
 - Serveur : `irc.ppy.sh`
 - Port : `6667`
+- SSL : désactivé
 - Nom d'utilisateur : votre nom d'utilisateur osu!. Remplacez les espaces par des traits de soulignement (ex, `beppy master 1000` devient `beppy_master_1000`)
 - Mot de passe : le mot de passe de la page [authentification IRC](https://osu.ppy.sh/p/irc)
 
@@ -31,7 +32,7 @@ Ouvrez les paramètres de votre client IRC et remplissez les valeurs (vous devre
 | `/ignore <username>` | Ignorer un utilisateur (commencer à masquer ses messages) |
 | `/away <message>` | Laisse un message à toutes les personnes qui tentent de vous contacter |
 | `/away` | Efface le message d'absence |
-| `/query <username>` | Ouvre un chat avec le nom d'utilisateur (remplacez les espaces par des caractères de soulignement). |
+| `/query <username>` | Ouvre un tchat avec le nom d'utilisateur (remplacez les espaces par des caractères de soulignement). |
 
 ## Désactivation des messages JOIN/PART/QUIT
 
@@ -45,7 +46,7 @@ Par défaut, de nombreux clients IRC vous informent lorsqu'un utilisateur rejoin
 | [Weechat](https://weechat.org/) | Écrivez `/filter add joinquit * irc_join,irc_part,irc_quit *` |
 | [KVIrc](https://www.kvirc.net/) | (Référez vous à [the KVIrc wiki page](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
 | [mIRC](https://www.mirc.com/) | Allez dans les options de mIRC (`Tools` -> `Options`, ou `Alt` + `O`), sélectionnez `IRC`, cliquez sur le bouton `Events...` et sélectionnez `Hide` pour les messages d'arrivé et de départ. |
-| [Quassel IRC](https://quassel-irc.org/) | Faites un clic droit dans le chat et choisissez Joins/Parts/Quits dans le menu "Hide Events". |
+| [Quassel IRC](https://quassel-irc.org/) | Faites un clic droit dans le tchat et choisissez Joins/Parts/Quits dans le menu "Hide Events". |
 | [XChat](http://xchat.org/) | Écrivez `/set irc_conf_mode 1` |
 
 ## FAQ
@@ -73,13 +74,13 @@ Tapez les premières lettres du nom d'utilisateur, puis utilisez le touche `Tab`
 
 ### Pourquoi certains noms d'utilisateur sont préfixés par des signes différents ?
 
-La norme IRC a un concept de modes de canal, ou des ensembles d'actions que chaque utilisateur peut effectuer. Dans osu!Bancho, deux modes sont utilisés pour des groupes spéciaux d'utilisateurs du chat :
+La norme IRC a un concept de modes de canal, ou des ensembles d'actions que chaque utilisateur peut effectuer. Dans osu!Bancho, deux modes sont utilisés pour des groupes spéciaux d'utilisateurs du tchat :
 
 - `+`, ou "statut vocal" : l'utilisateur est connecté via un client IRC externe
-- `@`, ou "statut d'opérateur de chat" : l'utilisateur est un modérateur de chat, ([GMT](/wiki/People/The_Team/Global_Moderation_Team) ou [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
+- `@`, ou "statut d'opérateur de tchat" : l'utilisateur est un modérateur de tchat, ([GMT](/wiki/People/The_Team/Global_Moderation_Team) ou [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
 
 Les utilisateurs connectés via le client osu! ou le site web n'ont pas de préfixe.
 
 ### Quelqu'un envoie des messages, mais il n'est pas dans la liste des utilisateurs du canal !
 
-Ils sont soit en train d'utiliser [la version internet du chat](https://osu.ppy.sh/community/chat), soit connectés via [osu!lazer](https://github.com/ppy/osu).
+Ils sont soit en train d'utiliser [la version internet du tchat](https://osu.ppy.sh/community/chat), soit connectés via [osu!(lazer)](https://github.com/ppy/osu).

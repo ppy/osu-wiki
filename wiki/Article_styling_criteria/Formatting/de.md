@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 47aa245123d41ef6421aaec3ecddaef4b312ae70
----
-
 # Formatierung
 
 *Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*
@@ -20,7 +15,7 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `cs.md` | Tschechisch | Česky |
 | `da.md` | Dänisch | Dansk |
 | `de.md` | Deutsch | Deutsch |
-| `gr.md` | Griechisch | Ελληνικά |
+| `el.md` | Griechisch | Ελληνικά |
 | `es.md` | Spanisch | Español |
 | `fi.md` | Finnisch | Suomi |
 | `fr.md` | Französisch | Français |
@@ -45,19 +40,7 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `zh.md` | Chinesisch (Vereinfacht) | 简体中文 |
 | `zh-tw.md` | Traditionelles Chinesisch (Taiwan) | 繁體中文（台灣） |
 
-*Hinweis: Die Webseite wird für einen Artikel die ausgewählte Sprache des Lesers wählen. Sollte der Artikel in dieser Sprache nicht verfügbar sein, wird die englische Version angezeigt.*
-
-### Inhaltsparität
-
-Übersetzungen müssen den gleichen Inhalt wie der englische Artikel enthalten, sodass sie die gleiche Nachricht überbringen, unabhängig von Grammatik und Syntax. Jede Änderung der Bedeutungen in den Übersetzungen muss mit einer entsprechenden Änderung des englischen Artikels folgen.
-
-Es gibt einige Ausnahmen, in denen sich der Inhalt unterscheiden darf:
-
-- Artikel, die ursprünglich in einer anderen Sprache als Englisch geschrieben wurden (in diesem Fall sollte Englisch als Übersetzung dienen)
-- Erklärungen von englischen Begriffen, die gebräuchlich in der osu!-Community sind
-- Externe Links
-- Tags
-- Subcommunity-spezifische Erklärungen
+*Tipp: Die Webseite wird für einen Artikel die ausgewählte Sprache des Lesers wählen. Sollte der Artikel in dieser Sprache nicht verfügbar sein, wird die englische Version angezeigt.*
 
 ## Titelsektion
 
@@ -67,7 +50,7 @@ Metainformationen müssen sich ganz am Anfang der Datei befinden. Sie sind in [Y
 
 *Tipp: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Ebenso sollte dieses Tag hinzugefügt werden, wenn die Übersetzung selbst aufgeräumt werden muss.*
 
-Das `needs_cleanup`-Tag darf bei Artikeln, die überarbeitet werden müssen oder Formatierungshilfe benötigen, hinzugefügt werden. Es ist auch akzeptabel, ein Issue auf GitHub für diesen Zweck zu öffnen. Benutze dieses Tag wie folgt:
+Das Tag `needs_cleanup` darf bei Artikeln, die überarbeitet werden müssen oder Formatierungshilfe benötigen, hinzugefügt werden. Es ist auch akzeptabel, ein Issue auf GitHub für diesen Zweck zu öffnen. Benutze dieses Tag wie folgt:
 
 ```yaml
 needs_cleanup: true
@@ -79,7 +62,7 @@ Sofern dieses Tag zu einem Artikel hinzugefügt wird, sollten [Kommentare](#komm
 
 *Tipp: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Wenn der englische Artikel diesen Tag trägt, dann muss die Übersetzung das ebenfalls.*
 
-Übersetzte Artikel, die nicht mehr aktuell sind, müssen das `outdated`-Tag tragen, sobald die englische Variante aktualisiert wird. Englische Artikel dürfen auch mit "nicht mehr aktuell" gekennzeichnet werden, falls der Inhalt falsch, nicht eindeutig oder nicht mehr relevant ist. Das Tag muss folgendermaßen eingefügt werden:
+Englische Artikel können veraltet sein, wenn ihr Inhalt falsch, nicht eindeutig oder nicht mehr relevant ist. Diese Artikel sollten mit dem Tag `outdated` gekennzeichnet werden, welches folgendermaßen geschrieben werden muss:
 
 ```yaml
 outdated: true
@@ -87,9 +70,23 @@ outdated: true
 
 Sofern dieses Tag zu einem Artikel hinzugefügt wird, sollten [Kommentare](#kommentare) eingefügt werden, die erklären, was bei diesem Artikel überarbeitet werden muss.
 
+### Nicht mehr aktuelle Übersetzungen
+
+Übersetzte Artikel, die nicht mehr aktuell sind, müssen das Tag `outdated_translation` verwenden, sobald die englische Version aktualisiert wird, außer es handelt sich um kleinere Anpassungen des Wortlauts, der Grammatik und dergleichen, die nicht die Bedeutung des Artikels beeinflussen.
+
+```yaml
+outdated_translation: true
+```
+
+Wenn Übersetzungen als veraltet gekennzeichnet werden, müssen sie ebenfalls das Tag `outdated_since` erhalten, welches auf den ersten Commit verweist, bei dem die englische Version aktualisiert wurde.
+
+```yaml
+outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
+```
+
 ### Artikel mit Tags versehen
 
-Tags helfen der Suchmaschine der Webseite relevantere Artikel anzuzeigen. Tags sollten in derselben Sprache, wie der Artikel geschrieben sein und zusätzlich noch die originalen Tags. Außerdem sollten sie nach Möglichkeit immer Kleinschreibung verwenden.
+Tags helfen der Suchmaschine der Webseite relevantere Artikel anzuzeigen. Die Liste an Tags sollte in derselben Sprache wie der Artikel geschrieben sein und zusätzlich die ursprünglichen Tags beinhalten. Außerdem sollten sie nach Möglichkeit immer Kleinschreibung verwenden.
 
 Ein Artikel über "Beatmap-Diskussion" könnte beispielsweise diese Tags enthalten:
 
@@ -98,7 +95,7 @@ tags:
   - beatmap discussions
   - modding V2
   - MV2
-  - beatmap-diskussionen
+  - Beatmap-Diskussionen
 ```
 
 ### Übersetzungen ohne Überprüfungen
@@ -121,7 +118,7 @@ Artikeltitel sollten dem Ordnernamen entsprechen, in welchem sie sich befinden (
 
 ---
 
-Wettbewerbsartikel sind eine Ausnahme. Der Ordner muss Abkürzungen, Akronyme oder Initialwörter verwenden. Der Titel des Artikels muss den vollen Namen des Wettbewerbs enthalten.
+Wettbewerbs- und Turnierartikel sind eine Ausnahme. Der Ordner muss Abkürzungen, Akronyme oder Initialen verwenden. Der Titel des Artikels muss den vollen Namen des Wettbewerbs oder Turniers enthalten.
 
 ## Ordner- und Dateistrukturen
 
@@ -145,7 +142,7 @@ Der Dateiname für einen Artikel kann in der Spalte `Dateiname` der Tabelle in [
 
 ### Indexartikel
 
-Ein Indexartikel muss erstellt werden, wenn der Ordner nur dazu gedacht ist, andere Artikel zu beinhalten. Indexartikel müssen eine Liste an den enthaltenen Artikeln haben. Sie können auch weitere Informationen enthalten, z. B. einen Hauptabsatz oder eine Beschreibung der verlinkten Artikel.
+Ein Indexartikel muss erstellt werden, wenn der Ordner nur dazu gedacht ist, andere Artikel zu beinhalten. Indexartikel müssen eine Liste an den enthaltenen Artikeln haben. Sie können auch weitere Informationen enthalten, z. B. einen Hauptabsatz oder eine Beschreibung der verlinkten Artikel.
 
 ### Artikel für die Begriffsabgrenzung
 
@@ -179,7 +176,7 @@ HTML-Kommentare<!-- TODO explain HTML comments --> sollten benutzt werden, um To
 
 ### Zeilenende-Sequenz
 
-*Vorsicht: Markdown-Dateien mit `CRLF` (carriage return and line feed) via GitHub hochzuladen, wird dazu führen, dass diese Dateien `CRLF` benutzen. Um das zu verhindern, setze das Zeilenende auf `LF` (line feed) vor dem Hochladen.*
+*Vorsicht: Markdown-Dateien mit `CRLF` (carriage return and line feed) via GitHub hochzuladen, wird dazu führen, dass diese Dateien `CRLF` benutzen. Um das zu verhindern, setze die Zeilenende-Sequenz auf `LF` (line feed) vor dem Hochladen.*
 
 Markdown-Dateien müssen mit der Zeilenende-Sequenz `LF` eingereicht werden.
 
@@ -212,7 +209,7 @@ Die Kopfnote *Hauptseite* verweist den Leser zum Hauptartikel eines Themas. Wenn
 ```markdown
 *Hauptseite: {Artikel}*
 
-*Hauptseiten: {Artikel} und {Artikel}*
+*Hauptseite: {Artikel} und {Artikel}*
 ```
 
 ### Siehe auch
@@ -227,12 +224,12 @@ Kopfnoten mit *Siehe auch* empfehlen dem Leser andere interessante Artikel oder 
 
 ### Für siehe
 
-Kopfnoten *Für siehe* sind den *Siehe auch*-Kopfnoten ähnlich, aber im Allgemeinen beschreibender und direkter. Diese Kopfnoten dürfen mehrere Links enthalten, falls erforderlich. Sie müssen wie folgt geschrieben werden:
+Kopfnoten *Für siehe* sind den Kopfnoten *Siehe auch* ähnlich, aber im Allgemeinen beschreibender und direkter. Diese Kopfnoten dürfen mehrere Links enthalten, falls erforderlich. Sie müssen wie folgt geschrieben werden:
 
 ```markdown
-*Für {Beschreibung}, siehe: {Artikel}`*
+*Für {Beschreibung}, siehe: {Artikel}*
 
-*Für {Beschreibung}, siehe: {Artikel} und {Artikel}`*
+*Für {Beschreibung}, siehe: {Artikel} und {Artikel}*
 ```
 
 ### Nicht zu verwechseln mit
@@ -257,7 +254,7 @@ Kopfnoten mit *Für andere Bedeutungen* sind den Kopfnoten mit *Nicht zu verwech
 
 *Nicht zu verwechseln mit [Kopfnote](#kopfnote).*
 
-Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werden, allerdings muss dafür ein neuer Paragraph angefangen werden, der Kursivschrift nutzt. Hinweise dürfen Fettschrift enthalten, sofern angemessen, aber dies sollte auf ein Minimum begrenzt werden. Hinweise müssen als ganze Sätze geschrieben werden. Damit müssen diese, nicht wie die meisten [Kopfnoten](#kopfnoten), einen Punkt (`.`) oder ein Ausrufezeichen (`!`) verwenden. Alles in einem Paragraphen eines Hinweises muss kursiv sein. Diese Kopfnoten müssen wie folgt formatiert werden:
+Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werden, allerdings muss dafür ein neuer Paragraf angefangen werden, der Kursivschrift nutzt. Hinweise dürfen Fettschrift enthalten, sofern angemessen, aber dies sollte auf ein Minimum begrenzt werden. Hinweise müssen als ganze Sätze geschrieben werden. Damit müssen Hinweise, nicht wie die meisten [Kopfnoten](#kopfnote), einen Punkt (`.`) oder ein Ausrufezeichen (`!`) verwenden. Alles in einem Paragrafen eines Hinweises muss kursiv sein. Diese Kopfnoten müssen wie folgt formatiert werden:
 
 ```markdown
 *Tipp: {Tipp}.*
@@ -274,6 +271,17 @@ Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werde
 - `Vorsicht` sollte genutzt werden, um den Leser vor unbeabsichtigten Konsequenzen zu warnen.
 - `Warnung` sollte genutzt werden, um den Leser zu warnen, dass gegebenenfalls Maßnahmen gegen ihn ergriffen werden.
 
+## Gestapelte Hinweise und Kopfnoten
+
+Mehrere Hinweise und Kopfnoten dürfen gestapelt werden, sofern notwendig. Dabei müssen sie ohne eine Leerzeile und mit einem nachfolgenden Backslash gestapelt werden:
+
+```markdown
+*Warnung: {Warnung}.*\
+*Siehe auch: {Artikel}*
+```
+
+In vielen Fällen kann es sinnvoller sein, fremde Hinweise oder Kopfnoten in den Text eines Absatzes einzubetten, anstatt viele von ihnen zu stapeln.
+
 ## Betonung
 
 ### Fettschrift
@@ -286,11 +294,39 @@ Hauptparagraphen dürfen die erste Nennung des Titels in einem Artikel in fett m
 
 Kursivschrift muss ein einzelnes Sternchen benutzen (`*`).
 
-Namen von Videospielen sollten in Kursivschrift stehen. osu!—das Spiel—ist davon ausgenommen.
-
-Das erste Vorkommen einer Abkürzung, eines Akronyms oder eines Initialworts darf kursiv sein.
+Das erste Vorkommen einer Abkürzung, eines Akronyms oder eines Initials darf kursiv sein.
 
 Kursivschrift darf auch benutzt werden, um die Lesbarkeit zu verbessern oder um Dinge hervorzuheben.
+
+Namen von Videospielen sollten in Kursivschrift stehen. osu! — das Spiel — ist davon ausgenommen.
+
+Beispielsweise bei der Nennung von Songtiteln im Format `{Künstler} - {Titel}`, ist der gesamte Teil ein Verweis auf das Werk und sollte deshalb kursiv sein:
+
+```markdown
+*cYsmix - triangles* ist einer der drei Titelsongs, die beim Starten des Spiel-Clients gehört werden können.
+```
+
+Künstlernamen sind ansonsten grundsätzlich nicht in Kursivschrift. Das bedeutet, dass bei Freiformverweisen nur der Titel kursiv gesetzt sein sollte, da der Künstlername nicht Teil des Werks ist:
+
+```markdown
+*Blue Zenith* von xi ist ein berüchtigter Song in der osu!-Community, da ein Top-Spieler einen bekannten Score auf einer bestimmten Beatmap erreicht hat.
+```
+
+### Hervorhebung und Links
+
+Verlinkter Text erscheint in einer anderen Farbe, wodurch dieser bereits betont wird. Daher benötigt verlinkter Text keine weitere Hervorhebung:
+
+```markdown
+[Camellia - OOPARTS](https://cametek.bandcamp.com/track/parts) ist ein Beispiel eines Songs, der offiziell spezifisch für osu! kreiert wurde (auch bekannt als *osu! original*), da dieser speziell für den osu! World Cup 2020 Tie-Break in Auftrag gegeben wurde.
+```
+
+Das wird jedoch nicht angewendet, wenn das verlinkte Werk nicht der einzige Teil des Links ist:
+
+```markdown
+[Die Beatmap von Voltaeyx zu *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) erlangte im Jahr 2018 aufgrund ihrer einzigartigen überlappenden Slider-Patterns beträchtliche Popularität.
+```
+
+Die oben angegebene Art der Konstruktion sollte nur selten verwendet werden und darf nicht an Stellen mit vielen Links benutzt werden, wie z. B. Tabellen oder Listen.
 
 ## Überschriften
 
@@ -392,7 +428,7 @@ Aufzählungslisten gemeinsam mit nummerierten Listen sollte nur selten benutzt w
 ```markdown
 1. Lade einen Skin aus den Foren herunter.
 2. Lade die Skindatei in osu!.
-   - Wenn die Datei eine `.zip` ist, entpacke sie erst und verschiebe den Inhalt in den `Skins/`-Ordner (in deinem osu!-Installationsordner).
+   - Wenn die Datei eine `.zip` ist, entpacke sie erst und verschiebe den Inhalt in den Ordner `Skins/` (in deinem osu!-Installationsordner).
    - Wenn die Datei eine `.osk` ist, öffne sie auf deinem Desktop oder verschiebe sie per Drag-and-drop in den Spiel-Client.
 3. Öffne osu!, falls es nicht offen ist, und wähle einen Skin in den Optionen.
    - Das kann bereits passiert sein, falls du die `.osk`-Datei geöffnet oder sie per Drag-and-drop in den Spiel-Client verschoben hast.
@@ -411,7 +447,7 @@ Das Mark-up für Code ist ein Akut (`` ` ``). Um Akute in Code zu platzieren, nu
 
 *Hinweis: Wenn der Buchstabe selbst (und nicht die Tastaturtaste) gemeint ist, nutze stattdessen Anführungszeichen.*
 
-Bei der Darstellung von Tastaturtasten müssen Großbuchstaben für einzelne Buchstaben und "Title case" für Modifikatoren verwendet werden. Benutze des Plus-Symbol (`+`) (ohne Code), um Tastaturkürzel darzustellen. (Beispiel unten gezeigt.)
+Bei der Darstellung von Tastaturtasten müssen Großbuchstaben für einzelne Buchstaben und "Title case" für Modifikationen verwendet werden. Benutze des Plus-Symbol (`+`) (ohne Code), um Tastaturkürzel darzustellen. (Beispiel unten gezeigt.)
 
 ```markdown
 pippi wird mit einem kleinen "p" wie peppy geschrieben.
@@ -419,14 +455,14 @@ pippi wird mit einem kleinen "p" wie peppy geschrieben.
 Drücke `Strg` + `O`, um den Dialog zu öffnen.
 ```
 
-Wenn ein Leerzeichen oder die Leertaste repräsentiert werden soll, benutze `` `Leerzeichen` ``.
+Wenn ein Leerzeichen oder die Leertaste repräsentiert werden soll, benutze `` `Leertaste` ``.
 
 ### Button- oder Menütext
 
 Beim Kopieren von Text aus einem Menü oder Button muss der Text so eingefügt werden, wie er angezeigt wird. (Beispiel unten gezeigt.)
 
 ```markdown
-Der `osu!direct`-Button ist im Hauptmenü auf der rechten Seite sichtbar, sofern du ein aktives osu!supporter-Tag hast.
+Der Button `osu!direct` ist im Hauptmenü auf der rechten Seite sichtbar, sofern du ein aktives osu!supporter-Tag hast.
 ```
 
 ### Ordner- und Verzeichnisnamen
@@ -450,7 +486,7 @@ Bis jetzt machen die Befehle `Name` und `Author` in der Skinkonfigurationsdatei 
 Beim Kopieren von Dateinamen sollte die Schreibweise so sein, wie sie angezeigt wird. Sofern anwendbar, wird Kleinschreibung empfohlen. (Beispiele unten gezeigt.)
 
 ```markdown
-Um osu! zu spielen, mache einen Doppelklick auf das `osu!.exe`-Symbol.
+Um osu! zu spielen, mache einen Doppelklick auf das Symbol `osu!.exe`.
 ```
 
 ### Dateierweiterungen
@@ -479,12 +515,14 @@ Vorformatierter Text (auch bekannt als Codeblöcke) muss mit drei Akuten umrande
 
 ## Links
 
+*Siehe auch: [Fußnoten](#fußnoten)*
+
 Es gibt zwei Arten von Links: Inline und als Verweis. Inline hat zwei Stile.
 
 Das folgende ist ein Beispiel mit beiden Inline-Stilen:
 
 ```markdown
-[Spielmodifikator](/wiki/Game_modifier)
+[Spielmodifikation](/wiki/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -492,7 +530,7 @@ Das folgende ist ein Beispiel mit beiden Inline-Stilen:
 Das folgende ist ein Beispiel des Verweis-Stils:
 
 ```markdown
-[Spielmodifikator][game mods link]
+[Spielmodifikation][game mods link]
 
 [game mods link]: /wiki/Game_modifier
 ```
@@ -544,12 +582,12 @@ Wiki-Links, die zu einem Unterartikel zeigen, sollten den Namen des übergeordne
 
 ##### Links zu Abschnitten
 
-*Hinweis: Den Überschriftenleveln 4 und 5 wird keine Kennung zugewiesen. D. h., dass nicht direkt auf sie verwiesen werden kann.*
+*Hinweis: Den Überschriftenleveln 4 und 5 wird keine Kennung zugewiesen. D. h., dass nicht direkt auf sie verwiesen werden kann.*
 
 Wiki-Links, die zu einem Abschnitt eines Artikels zeigen, dürfen das Paragraphenzeichen (`§`) benutzen. Siehe folgendes Beispiel:
 
 ```markdown
-*Für Regeln über das Timing, siehe: [Ranking-Criteria § Timing](/wiki/Ranking_Criteria#timing)*
+*Für Regeln über das Timing, siehe: [Ranking-Kriterien § Timing](/wiki/Ranking_Criteria#timing)*
 ```
 
 #### Andere osu!-Links
@@ -560,7 +598,7 @@ Die URL aus der Adressleiste deines Webbrowsers sollte so kopiert werden, wie si
 
 Alle Benutzernamen müssen bei ihrer ersten Nennung verlinkt werden. Andere Nennungen sind optional, müssen aber im ganzen Artikel für alle Benutzernamen konsistent sein. Wenn es schwierig ist, die Benutzer-ID zu bestimmen, darf hier die Verlinkung übersprungen werden.
 
-Wenn zu anderen Benutzerprofilen verlinkt wird, muss die Benutzer-ID verwendet werden. Benutze die neue Webseite (`https://osu.ppy.sh/users/{username})`), um an die Benutzer-ID zu gelangen.
+Wenn zu anderen Benutzerprofilen verlinkt wird, muss die Benutzer-ID verwendet werden. Benutze die neue Webseite (`https://osu.ppy.sh/users/{Benutzername})`), um an die Benutzer-ID zu gelangen.
 
 Der Linktext des Benutzerlinks sollte den aktuellen Namen des Benutzers verwenden.
 
@@ -598,7 +636,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
 
 *Hinweis: Mit externen Links sind Links gemeint, die außerhalb der Domäne `https://osu.ppy.sh/` liegen.*
 
-Das Protokoll `https` muss benutzt werden, es sei denn, die Seite unterstützt dies nicht. Externe Links müssen eine klaren und direkten Link zu einer seriösen Quelle sein. Die URL aus der Adressleiste deines Webbrowsers sollte so kopiert werden, wie sie bei der Verlinkung auf externe Seiten verwendet wird.
+Das Protokoll `https` muss benutzt werden, es sei denn, die Seite unterstützt dies nicht. Externe Links müssen einen klaren und direkten Link zu einer seriösen Quelle sein. Die URL aus der Adressleiste deines Webbrowsers sollte so kopiert werden, wie sie bei der Verlinkung auf externe Seiten verwendet wird.
 
 Es gibt keine visuellen Unterschiede zwischen externen und osu!-internen Links. Deshalb sollte der Name der Webseite im Linktext enthalten sein. Siehe das folgende Beispiel:
 
@@ -654,11 +692,11 @@ Wenn ein Bild aktualisiert wird, dann muss entweder der Bildname verändert oder
 
 ### Formate und Qualität
 
-Bilder sollten das Format JPG bei einer Qualität von 8 (80 oder 80 %, abhängig vom Programm) verwenden. Wenn das Bild (teilweise) transparent ist oder lesbaren Text enthält, dann muss stattdessen das Format PNG benutzt werden. Wenn das Bild eine Animation enthält, kann das GIF eingesetzt werden; jedoch sollte dies nur sparsam verwendet werden, da diese länger zum Laden benötigen und auch größer als die [maximale Dateigröße](#dateigröße) sein können.
+Bilder sollten das Format JPG bei einer Qualität von 8 (80 oder 80 %, abhängig vom Programm) verwenden. Wenn das Bild (teilweise) transparent ist oder lesbaren Text enthält, dann muss stattdessen das Format PNG benutzt werden. Wenn das Bild eine Animation enthält, kann das GIF eingesetzt werden; jedoch sollte dies nur sparsam verwendet werden, da diese länger zum Laden benötigen und auch größer als die [maximale Dateigröße](#dateigröße) sein können.
 
 ### Dateigröße
 
-Bilder müssen weniger als 1 MB groß sein, ansonsten werden sie nicht geladen. Eine Herunterskalierung und die Benutzung von JPG bei 80 % reicht dafür meistens aus.
+Bilder müssen weniger als 1 MB groß sein, ansonsten werden sie nicht geladen. Eine Herunterskalierung und die Benutzung von JPG bei 80 % reicht dafür meistens aus.
 
 Alle Bilder sollten so weit wie möglich optimiert werden. Benutze [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive), um JPG-Bilder zu komprimieren. Benutze bitte den folgenden Befehl für jpeg-archive:
 
@@ -736,7 +774,7 @@ Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreib
 ![](/wiki/shared/flag/xx.gif)
 ```
 
-Wobei `xx` der [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) zwei-Buchstaben Ländercode für die Flagge ist.
+Wobei `xx` der [ISO 3166-2](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste) zwei-Buchstaben Ländercode für die Flagge ist.
 
 Der volle Ländername sollte in den Titeltext eingefügt werden. Der Ländercode im alternativen Text ist optional, aber muss bei allen Flaggen im Artikel angewendet werden.
 
@@ -766,9 +804,64 @@ Das folgende ist ein Beispiel, wie eine Tabelle aussehen sollte:
 | Maria | Kein ausgetragenes Spiel | Mocha |  |
 ```
 
+## Fußnoten
+
+Fußnoten sind kurze Notizen am Ende einer Seite. Sie werden zum Zitieren von Quellen oder dem Bereitstellen von Hintergrundinformationen verwendet, die ansonsten den Lesefluss des Artikels beeinträchtigen würden. Fußnoten dürfen formatierten Text und Links enthalten.
+
+Im osu!-Wiki werden Fußnoten mit einer speziellen Syntax (`[^identifier]`) implementiert. Fußnoten können jede Kennung haben, werden aber automatisch als hochgestellte Zahlen mit steigendem Wert in der Reihenfolge ihres ersten Erscheinens erstellt. Die Fußnoten selbst müssen in einem separaten Abschnitt mit dem Überschriftenlevel 2 am Ende des Artikels platziert werden. Abhängig von Inhalt muss die Überschrift `Referenzen`, `Anmerkungen` oder `Anmerkungen und Referenzen` sein.
+
+Verweise auf Fußnoten werden direkt nach den Wörtern oder Sätzen platziert, die sie erklären, ohne Leerzeichen dazwischen. Diese Verweise müssen nach der Interpunktion gesetzt werden, mit Ausnahme von Gedankenstrichen und Klammern, sofern sie sich auf den Inhalt darin beziehen.<!-- Translated from https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_and_footnotes -->
+
+Beispiele der korrekten Benutzung:
+
+```markdown
+Das osu!-Wiki ist ein Projekt, das das alte FAQ-System ersetzen sollte.[^wiki-faq] Es wurde nach dem Rhythmusspiel osu![^osu] und der größten offenen Online-Enzyklopädie Wikipedia benannt. Von Anfang an hatte es geschickte Übersetzer[^wiki-tl] und Redakteure angezogen.
+
+## Referenzen
+
+[^wiki-faq]: https://osu.ppy.sh/community/forums/topics/68525
+[^wiki-tl]: https://osu.ppy.sh/community/forums/posts/1177500
+[^osu]: https://osu.ppy.sh/community/forums/posts/1178153
+```
+
+### Zitate
+
+Zitate oder Referenzen werden benutzt, um eine Informationsquelle zu identifizieren. Zitate in Fußnoten sollten gegenüber Inline-Links bevorzugt werden.
+
+Beispiel:
+
+```markdown
+Die erste Version der osu!api wurde am 2. Juli 2013 zur Verfügung gestellt.[^api-first-usage] Es wurde von den Nutzern gelobt.[^api-praise]
+
+## Referenzen
+
+[^api-first-usage]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
+```
+
+### Anmerkungen
+
+Fußnoten dürfen verwendet werden, um Erklärungen oder Randbemerkungen zu hinterlegen, die nicht im Text untergebracht werden können, ohne die Lesbarkeit des Artikels zu verschlechtern, oder die weniger bedeutend als der Artikel selbst sind. Solche Fußnoten dürfen einen Freiformtext benutzen.
+
+Beispiel:
+
+```markdown
+Ein Turnier darf nicht von einem Team an unerfahrenen und unzuverlässigen Mitarbeitern organisiert und betrieben werden.[^staff]
+
+## Anmerkungen
+
+[^staff]: Ein *unerfahrener* Mitarbeiter ist grob definiert als jemand, der osu! weniger als eine Stunde insgesamt gespielt hat.
+```
+
 ## Blockzitate
 
-Blockzitate sind auf das Zitieren von Texten von anderen beschränkt. Sie dürfen nicht dazu benutzt werden, um anderen Text zu formatieren.
+Blockzitate sind darauf beschränkt, [jemanden oder etwas zu zitieren](/wiki/Article_styling_criteria/Writing#blockzitate). Sie dürfen nicht zur Formatierung von Text benutzt werden.
+
+```markdown
+> bitte habt Spaß am Spiel
+
+— rrtyui
+```
 
 ## Thematische Trennungen
 

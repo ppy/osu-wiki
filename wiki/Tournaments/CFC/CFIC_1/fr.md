@@ -14,13 +14,13 @@ La **Catch French Intermediate Cup** (***CFIC***) était un tournoi 1v1 françai
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2019-01-20/2019-02-17 |
-| Live Drawings | 2019-02-23 (19:00 UTC+1) |
-| Phase de poules | 2019-03-01/2019-03-03 |
-| Quarts-de-finale | 2019-03-09/2019-03-10 |
-| Demi-finales | 2019-03-16/2019-03-18 |
-| Finales | 2019-03-23/2019-03-24 |
-| Grandes Finales | 2019-03-31 |
+| Phase d'inscription | 20/01/2019 - 17/02/2019 |
+| Live Drawings | 23/02/2019 (19:00 UTC+1) |
+| Phase de poules | 01/03/2019 - 03/03/2019 |
+| Quarts-de-finale | 09/03/2019 - 10/03/2019 |
+| Demi-finales | 16/03/2019 - 18/03/2019 |
+| Finales | 23/03/2019 - 24/03/2019 |
+| Grandes Finales | 31/03/2019 |
 
 ## Récompenses
 
@@ -37,7 +37,7 @@ La Catch French Intermediate Cup était gérée par différents membres de la co
 | Poste | Membre(s) |
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263) |
-| Sélectionneur de map | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Sélectionneur de beatmap | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
 | Arbitres | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734) |
 | Streamers | ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Commentateurs | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
@@ -81,7 +81,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
-## Liste des maps
+## Liste des beatmaps
 
 ### Grandes Finales
 

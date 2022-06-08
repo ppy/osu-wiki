@@ -1,6 +1,6 @@
 ---
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: c7f544369a2aada51f6d62a7725382afb03a6373
 ---
 
@@ -126,6 +126,11 @@ Mapsets av låtar som härstammar från andra rytmspel lånar ofta spelets svår
 - ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) VIVID / VVD
 
+#### SOUND VOLTEX EXCEED GEAR
+
+- ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
+
 ### Arcaea
 
 - ![](/wiki/shared/diff/normal-o.png?20211215) Past
@@ -170,6 +175,7 @@ Mapsets av låtar som härstammar från andra rytmspel lånar ofta spelets svår
 #### Cytus
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) Chaos
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Glitch / Crash
 
 #### Deemo
 
@@ -196,3 +202,4 @@ Följande svårighetsgradnamn är vanliga alternativ och tillägg till svårighe
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: i en standard Easy-Normal-Hard-Insane-Expert- spridning är det en svårighetsgrad mellan Hard och Insane.
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra: kan användas som ersättning för Expert.
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: kan användas för att representera en beatmap svårare än Expert.
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: kan användas för att representera en beatmap svårare än Overdose.

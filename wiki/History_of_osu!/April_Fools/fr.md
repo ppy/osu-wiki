@@ -68,9 +68,9 @@ Le 1er avril 2012, l'ensemble du site web d'osu! avait 50 % de chances que le mo
 
 ### Bad Apple Ranking Chart
 
-Le "Bad Apple Ranking Chart" était un tableau de classement basé sur une variété de beatmaps qui mettait en vedette la chanson "Bad Apple !!" dans le cadre de la blague du poisson d'avril de 2012 d'osu!. Annoncé par le biais d'un [newspost](https://osu.ppy.sh/community/forums/posts/1431905) le 1er avril 2012, le tableau de classement fonctionnait en fait comme un véritable tableau à l'époque et affichait les 40 meilleurs joueurs ayant obtenu le meilleur [score classé](/wiki/Gameplay/Score/Ranked_score) dans l'une des sélections des beatmaps "Bad Apple !!" [[20,21,22]][r]. Un extrait du newspost mentionné est présent ci-dessous :
+Le "Bad Apple Ranking Chart" était un tableau de classement basé sur une variété de beatmaps qui mettait en vedette la musique "Bad Apple !!" dans le cadre de la blague du poisson d'avril de 2012 d'osu!. Annoncé par le biais d'un [newspost](https://osu.ppy.sh/community/forums/posts/1431905) le 1er avril 2012, le tableau de classement fonctionnait en fait comme un véritable tableau à l'époque et affichait les 40 meilleurs joueurs ayant obtenu le meilleur [score classé](/wiki/Gameplay/Score/Ranked_score) dans l'une des sélections des beatmaps "Bad Apple !!" [[20,21,22]][r]. Un extrait du newspost mentionné est présent ci-dessous :
 
-> Nous avons décidé de dédier cette charte à la meilleure chanson et vidéo jamais créée, Bad Apple !!. Vous pouvez trouver le super tableau ici.
+> Nous avons décidé de dédier cette charte à la meilleure musique et vidéo jamais créée, Bad Apple !!. Vous pouvez trouver le super tableau ici.
 
 > Comme il s'agit d'un tableau aux proportions épiques, nous devions améliorer notre prix cette fois-ci ! Les gagnants recevront un poster de Lily White et une image dessinée à la main de Reimu. (Une imprimante est nécessaire pour recevoir ces prix)
 
@@ -93,7 +93,7 @@ Les beatmaps inclus dans le tableau de classement sont énumérés ci-dessous :
 - [Kommisar - Bad Apple!! (Chiptune Ver.) (Sushi)](https://osu.ppy.sh/beatmapsets/28222)
 - [Kalafina - Bad MagiApple (Makar8000)](https://osu.ppy.sh/beatmapsets/32003)
 
-Le clip de "Bad Apple!!" était une sorte de blague à l'époque, les remixes de la chanson combinés à d'autres tournures ironiques étant monnaie courante dans les beatmaps de l'époque, d'où son apparition en tant que poisson d'avril.
+Le clip de "Bad Apple!!" était une sorte de blague à l'époque, les remixes de la musique combinés à d'autres tournures ironiques étant monnaie courante dans les beatmaps de l'époque, d'où son apparition en tant que poisson d'avril.
 
 ---
 
@@ -101,7 +101,7 @@ Le clip de "Bad Apple!!" était une sorte de blague à l'époque, les remixes de
 
 ### BanchoBot devient une tsundere
 
-Le 1er avril 2013, [BanchoBot](/wiki/BanchoBot) a été transformé en [tsundere](https://fr.wikipedia.org/wiki/Tsundere). En ce jour de poisson d'avril, chaque fois qu'un utilisateur donnait une commande à BanchoBot ou l'invitait à parler dans un chat public, ses messages de chat étaient remplacés par des réponses stéréotypées d'une tsundere avec un intérêt romantique [[24,25,26,27,28,29]][r].
+Le 1er avril 2013, [BanchoBot](/wiki/BanchoBot) a été transformé en [tsundere](https://fr.wikipedia.org/wiki/Tsundere). En ce jour de poisson d'avril, chaque fois qu'un utilisateur donnait une commande à BanchoBot ou l'invitait à parler dans un tchat public, ses messages de tchat étaient remplacés par des réponses stéréotypées d'une tsundere avec un intérêt romantique [[24,25,26,27,28,29]][r].
 
 ![](img/2013-regular-banchobot.jpg "Interactions avec BanchoBot en 2013")
 
@@ -171,7 +171,7 @@ Dans le cadre de la poignée de blagues du poisson d'avril 2016, le [osu! cookie
 
 ## 2017
 
-Comme annoncé dans un [tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de osu!lazer.
+Comme annoncé dans un [Tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de la version lazer du client d'osu!.
 
 ---
 
@@ -195,7 +195,7 @@ Pour le poisson d'avril 2019, il y avait environ 1 chance sur 20 d'entendre l'ef
 
 ### MillhioreF rejoint les Featured Artists
 
-[MillhioreF](https://osu.ppy.sh/users/941094), un modérateur, développeur et joueur du mod [Easy](/wiki/Game_modifier/Easy) de longue date d'osu! - a été annoncé dans [un newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) comme ayant "rejoint" la liste des [Featured Artists](/wiki/Featured_Artists) en tant que "Millhiore Firianno Biscotti" le 1er avril 2020 avec une sélection de cinq chansons pour commencer [[71]][r] :
+[MillhioreF](https://osu.ppy.sh/users/941094), un modérateur, développeur et joueur du mod [Easy](/wiki/Game_modifier/Easy) de longue date d'osu! - a été annoncé dans [un newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) comme ayant "rejoint" la liste des [Featured Artists](/wiki/Featured_Artists) en tant que "Millhiore Firianno Biscotti" le 1er avril 2020 avec une sélection de cinq musiques pour commencer [[71]][r] :
 
 - Waltz o' the Irish
 - The Waltzing Irishman
@@ -287,7 +287,7 @@ Le poisson d'avril 2021 a recyclé la même blague que les deux années précéd
 64. [Reddit post (r/osugame) [u/AdriaLOL] - "haha, nice april fools peppy XD"](https://www.reddit.com/r/osugame/comments/88qlwk/haha_nice_april_fools_peppy_xd/)
 65. [osu! forum thread (General Discussion) [Aochie] - "The osu! logo is moving?"](https://osu.ppy.sh/community/forums/topics/724377)
 66. [osu! forum thread (Resolved Issues [Jreen] - "[resolved] Osu! Logo Sideways?"](https://osu.ppy.sh/community/forums/topics/724094)
-67. [osu! wiki article - "History of osu! 2018"](/wiki/History_of_osu!/2018#april)
+67. [osu! wiki article - "History of osu! 2018"](/wiki/History_of_osu!/2018#avril)
 68. [Reddit post (r/osugame) [u/jivko500] - "The April Fools joke in osu"](https://www.reddit.com/r/osugame/comments/b83pnl/the_april_fools_joke_in_osu/)
 69. [Reddit post (r/osugame) [u/anoymaly2152] - "Bless you, Pippi."](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/)
 70. [osu! forum thread (Off-Topic) [Brainage] - "No April Fools in the changelog?"](https://osu.ppy.sh/community/forums/topics/888939)

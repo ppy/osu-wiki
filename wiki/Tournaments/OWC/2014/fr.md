@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu! World Cup 2014
@@ -496,8 +496,8 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 2. Les joueurs ont la possibilité de s'échauffer sur un maximum de 2 beatmaps de leur choix avant le début de la partie. Les beatmaps à contenu douteux sont strictement interdites.
 3. Les capitaines disposent chacun de deux droits de veto à utiliser sur les beatmaps de leur choix de la phase en cours. Ces beatmaps ne peuvent ainsi être choisies par les deux équipes au cours du match.
    1. Les droits de veto doivent être tous utilisés.
-   2. Les capitaines exécuteront la commande `!roll` dans le chat pour déterminer qui des deux utilisera ses droits de veto en premier. L'autre capitaine ne peut bannir une beatmap déjà bannie et devra choisir parmi les beatmaps restantes.
-4. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande `!roll` dans le chat ; le plus grand nombre l'emporte.
+   2. Les capitaines exécuteront la commande `!roll` dans le tchat pour déterminer qui des deux utilisera ses droits de veto en premier. L'autre capitaine ne peut bannir une beatmap déjà bannie et devra choisir parmi les beatmaps restantes.
+4. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande `!roll` dans le tchat ; le plus grand nombre l'emporte.
    1. Les capitaines peuvent choisir autant de beatmaps de toutes les catégories qu'ils le souhaitent.
    2. En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker devra être joué.
 5. Les résultats seront publiés sur le wiki et sur le site officiel Statistics (cf. rubrique « Liens importants »).
@@ -507,7 +507,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 1. Chaque phase se verra attribuer des beatmaps uniques.
 2. Les beatmaps seront réparties en 5 catégories : NoMod, [HardRock](/wiki/Game_modifier/Hard_Rock), [Hidden](/wiki/Game_modifier/Hidden), [DoubleTime](/wiki/Game_modifier/Double_Time) et FreeMod.
 3. Durant chaque phase, 19 beatmaps, dont un tiebreaker, seront mises à la disposition des joueurs.
-4. Aucun mod n'est autorisé pour les maps de la catégorie NoMod.
+4. Aucun mod n'est autorisé pour les beatmaps de la catégorie NoMod.
 5. Les beatmaps des catégories Hidden, HardRock et DoubleTime doivent être jouées avec le mod approprié.
 6. Les beatmaps de la catégorie FreeMod ainsi que le tiebreaker doivent être jouées avec l'option FreeMod activée. Chaque joueur peut alors sélectionner à sa guise le ou les mods de son choix entre Hidden, HardRock et Flashlight, ou ne pas en sélectionner s'il le désire.
    1. Pour cette catégorie, au moins deux joueurs de chaque équipe doivent activer au minimum un mod (cette condition ne s'applique pas pour le tiebreaker).

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: d096c4bd0f75cef054e5e8c08a5f49905f5f097e
 ---
 
 # Как да стана бийтмап номинатор

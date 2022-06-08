@@ -19,6 +19,8 @@ tags:
   - piranti
   - nama pengguna
   - penghapusan
+outdated_translation: true
+outdated_since: 56ef96e783e017921593b286c0d744de40c16168
 ---
 
 # Akun
@@ -39,9 +41,9 @@ Apabila kamu belum menerima supporter tag yang kamu pesan setelah 24 jam, harap 
 
 Pastikan kamu melampirkan bukti-bukti pembayaran yang terkait (semisal ID transaksi PayPal atau resi digital Xsolla) dalam email yang hendak kamu kirim - bukti-bukti pembayaran ini akan sangat membantu kami dalam menangani masalahmu!
 
-## Pembatasan akun (*account restriction*)
+## Pembatasan akun (account restriction)
 
-### Apa yang dimaksud dengan pembatasan akun (*account restriction*) dan “akun yang di-restrict”?
+### Apa yang dimaksud dengan pembatasan akun (account restriction) dan “akun yang di-restrict”?
 
 **Pembatasan akun (*account restriction*) merupakan salah satu bentuk hukuman yang utamanya dijatuhkan kepada para pengguna yang telah melakukan pelanggaran berat terhadap peraturan yang berlaku. Para pengguna yang akunnya di-*restrict* hanya dapat berinteraksi dengan sangat terbatas dengan pengguna-pengguna lainnya, di mana mereka tidak dapat mengobrol, bermain *multiplayer*, ataupun mencetak skor secara *online*.**
 
@@ -61,7 +63,7 @@ Seorang pengguna dapat dikenakan larangan turnamen jika pengguna secara sengaja 
 
 Secara umum, larangan turnamen memiliki durasi dari 3 bulan hingga lebih dari setahun. Bahkan larangan dapat bersifat permanen. Meskipun demikian, semua larangan turnamen bersifat **final** dan tidak dapat diajukan banding seperti pembatasan akun.
 
-## Proses *login*
+## Proses login
 
 ### Saya tidak ingat nama pengguna dan kata sandi milik saya!
 
@@ -98,7 +100,7 @@ Terdapat beberapa hal yang dapat kamu coba untuk menyelesaikan masalah ini:
 
 Apabila kamu melupakan kata sandimu, kamu dapat mengatur kata sandi baru pada [laman pemulihan kata sandi berikut](https://osu.ppy.sh/home/password-reset).
 
-#### Apakah kamu sedang berada di dalam suatu *proxy server* atau jaringan VPN?
+#### Apakah kamu sedang berada di dalam suatu proxy server atau jaringan VPN?
 
 **Cobalah untuk keluar dari *proxy server* atau jaringan VPN yang sedang kamu gunakan.**
 
@@ -112,7 +114,7 @@ Untuk mengetahui cara mendapatkan berkas `network.log` yang dimaksud, harap liha
 
 Kamu juga dapat meminta bantuan kepada pihak penyedia layanan internet (*Internet Service Provider*/ISP) yang kamu gunakan. Terkadang, beberapa ISP tidak dapat terhubung dengan osu! karena sistem pengantaran paket jaringan (*routing*) mereka yang sedang bermasalah.
 
-### Saya mendapatkan pesan dari situs web osu! yang memperingatkan bahwa saya telah terlalu banyak melakukan percobaan *login* yang tidak valid!
+### Saya mendapatkan pesan dari situs web osu! yang memperingatkan bahwa saya telah terlalu banyak melakukan percobaan login yang tidak valid!
 
 **Jangan panik. Hal ini merupakan tindakan preventif yang kami ambil untuk menghindari hal-hal yang tidak diinginkan. Cobalah untuk *login* kembali setelah 10-20 menit.**
 

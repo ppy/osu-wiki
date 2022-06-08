@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 17fb11cfdf1bc72ce3f85c62bed260d9870c1cc8
 tags:
   - NAT
 ---
@@ -24,7 +26,7 @@ NAT bertanggung jawab atas berbagai tugas terkait mapping yang dapat dipisahkan 
 
 Seorang anggota NAT dapat terlibat dengan tugas apapun sesuai dengan subkategori yang mereka pilih, terlepas dari tanggung jawab utama mereka yang sudah tercantum diatas. Misalnya, jika seorang anggota NAT memprioritaskan subkategori struktural, mereka tidak bertanggung jawab atas semua tugas dalam subkategori tersebut dan mereka masih dapat membantu tugas dari subkategori lain.
 
-Selain kemampuan moderasi, NAT juga memiliki kemampuan untuk [nominasi](/wiki/Beatmap_ranking_procedure#nominasi), [kualifikasi](/wiki/Beatmap_ranking_procedure#kualifikasi), dan [menyetel ulang nominasi](/wiki/Beatmap_ranking_procedure#pengulangan-nominasi) di beatmap. Di area ini mereka dianggap sama dengan [full BN](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominator), dan semua aturan dan ekspektasi BN selain aktivitas berlaku untuk anggota NAT. Anggota NAT tidak diharapkan untuk menominasikan map secara teratur seperti BN karena memiliki tanggung jawab tambahan di komunitas mapping dan modding osu!.
+Selain kemampuan moderasi, NAT juga memiliki kemampuan untuk [nominasi](/wiki/Beatmap_ranking_procedure#nominasi), [kualifikasi](/wiki/Beatmap_ranking_procedure#kualifikasi), dan [menyetel ulang nominasi](/wiki/Beatmap_ranking_procedure#penganuliran-nominasi-(nomination-reset)) di beatmap. Di area ini mereka dianggap sama dengan [full BN](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominator), dan semua aturan dan ekspektasi BN selain aktivitas berlaku untuk anggota NAT. Anggota NAT tidak diharapkan untuk menominasikan map secara teratur seperti BN karena memiliki tanggung jawab tambahan di komunitas mapping dan modding osu!.
 
 Anggota NAT yang berkontribusi terutama pada subkategori evaluasi juga bertanggung jawab untuk melakukan modding setidaknya 3 beatmap per bulan. Hal ini dapat menjamin bahwa NAT selalu diperbarui berdasarkan komunitas modding saat mengevaluasi Beatmap Nominator. Anggota yang gagal memenuhi persyaratan aktivitas modding akan diberi peringatan. Jika aktivitas mereka tidak meningkat dalam sebulan ke depan, mereka akan dikeluarkan dari NAT. Anggota NAT yang mengerjakan proyek yang berhubungan dengan mapping mungkin dibebaskan dari persyaratan modding berdasarkan kasus per kasus.
 
@@ -47,12 +49,13 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluasi, moderasi |
-| ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  | Evaluasi |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Mandarin | Evaluasi |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengal, sedikit Arab | Evaluasi, struktural, moderasi, komunikasi |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Mandarin | Evaluasi |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Struktural, komunikasi |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluasi, struktural, komunikasi |
+| ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluasi |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Struktural |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluasi |
+| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Jerman, Serbia | Evaluasi |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluasi |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanyol, Prancis | Evaluasi |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Belanda | Evaluasi |
@@ -72,25 +75,29 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanyol, Jerman | Evaluasi, moderasi |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Belanda | Evaluasi, struktural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korea | Evaluasi, komunikasi |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | Evaluasi |
 
 ### osu!mania
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluasi |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arab, Prancis | Evaluasi |
+| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Mandarin | Evaluasi |
+| ![][flag_VN] [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnam | Evaluasi |
+| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesia | Evaluasi, komunikasi |
+| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanyol, Portugis, Galisia, Italia, Jepang | Evaluasi |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluasi |
 
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Aljazair"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

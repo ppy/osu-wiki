@@ -1,10 +1,12 @@
 ---
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
 ---
 
 # Restrições de conta
+
+*Artigo principal: [Central de ajuda](/wiki/Help_centre)*
 
 Uma restrição é um intervalo forçado da comunidade imposto em contas que demonstram comportamentos anormais, suspeitos, ou que quebram regras.
 

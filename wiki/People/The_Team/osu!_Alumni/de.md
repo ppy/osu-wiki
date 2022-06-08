@@ -86,12 +86,13 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | BAT, Chat-Moderator, QAT |
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Verwaltung von Wettbewerben |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Verwaltung von Turnieren |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | BAT, Chat-Moderator |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ![][flag_US] [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | QAT |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | NAT |
 | ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) | BAT, Chat-Moderator, GMT, QAT |
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
@@ -103,7 +104,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_US] [James2250](https://osu.ppy.sh/users/16978) | GMT |
 | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Verwaltung von Wettbewerben |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Verwaltung von Turnieren |
 | ![][flag_MX] [Kai](https://osu.ppy.sh/users/4537) | BAT |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, osu!media-Erstellung |
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
@@ -145,7 +146,6 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | QAT, NAT |
 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, osu!dev |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | NAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
 | ![][flag_KR] [minyeob](https://osu.ppy.sh/users/9207) | BAT |
@@ -163,6 +163,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | QAT, NAT |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ![][flag_CN] [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
@@ -177,7 +178,6 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ![][flag_MY] [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
 | ![][flag_US] [Protastic101](https://osu.ppy.sh/users/6712747) | QAT |
-| ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Chat-Moderator, GMT |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ![][flag_US] [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
@@ -188,6 +188,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_CO] [Sakura](https://osu.ppy.sh/users/289422) | BAT, GMT |
 | ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | BAT |
+| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | NAT |
 | ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ![][flag_MD] [senaya](https://osu.ppy.sh/users/304103) | Chat-Moderator |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
@@ -198,6 +199,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ![][flag_US] [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | NAT |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | QAT, NAT |
 | ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
@@ -219,11 +221,12 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
+| ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Chat-Moderator, GMT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Chat-Moderator |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, Support-Team |
 | ![][flag_PH] [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, Verwaltung von Wettbewerben |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, Verwaltung von Turnieren |
 | ![][flag_KR] [Where](https://osu.ppy.sh/users/549172) | GMT |
 | ![][flag_US] [whymeman](https://osu.ppy.sh/users/51994) | GMT |
 | ![][flag_ID] [Winshley](https://osu.ppy.sh/users/864895) | Chat-Moderator |
@@ -256,6 +259,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 [flag_CO]: /wiki/shared/flag/CO.gif "Kolumbien"
 [flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
 [flag_DO]: /wiki/shared/flag/DO.gif "Dominikanische Republik"
+[flag_DZ]: /wiki/shared/flag/DZ.gif "Algerien"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanien"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finnland"
 [flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"

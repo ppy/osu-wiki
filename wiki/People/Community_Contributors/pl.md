@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 no_native_review: true
 ---
 
@@ -104,11 +104,11 @@ W porównaniu do [Alumni osu!](/wiki/People/The_Team/osu!_Alumni), czyli byłych
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | Znaczący wkład w sędziowanie wielu turniejów społeczności. |
 | ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | Znaczący wkład w komentowanie meczów, pisanie sprawozdań z ważnych wydarzeń. |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Autor niezliczonych poprawek do osu! (w tym PP, przerobienie silnika graficznego, algorytm oceniania trudności beatmap, i wiele więcej). |
-| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Znaczący wkład w osu!lazer. |
-| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Znaczący wkład w osu!lazer (ponad 90 pull requestów i setki commitów). |
-| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Znaczący wkład w osu!lazer. |
-| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Znaczący wkład w zorganizowanie grupy tłumaczącej osu!, wiki osu! i osu!lazer na język chiński. |
-| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Znaczący wkład w osu!lazer, stworzenie licznych narzędzi dla osu!. |
+| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Znaczący wkład w osu!(lazer). |
+| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Znaczący wkład w osu!(lazer) (ponad 90 pull requestów i setki commitów). |
+| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Znaczący wkład w osu!(lazer). |
+| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Znaczący wkład w zorganizowanie grupy tłumaczącej osu!, wiki osu! i osu!(lazer) na język chiński. |
+| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Znaczący wkład w osu!(lazer), stworzenie licznych narzędzi dla osu!. |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Stworzenie aplikacji PerformancePlus i osu!chan. |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Znaczący wkład w produkcję i publikację projektu Scorewatch. |
 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Znaczący wkład w produkcję i publikację projektu Scorewatch. |
@@ -145,7 +145,7 @@ W porównaniu do [Alumni osu!](/wiki/People/The_Team/osu!_Alumni), czyli byłych
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Znaczący wkład w program kształcenia nowych twórców beatmap. |
 | ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | Znaczący wkład w program kształcenia nowych twórców beatmap. |
 | ![][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Znaczący wkład w program kształcenia nowych twórców beatmap. |
-| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Znaczący wkład w osu!lazer. |
+| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Znaczący wkład w osu!(lazer). |
 
 ## 2020
 

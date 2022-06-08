@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # Masalah umum yang dialami kontributor osu! wiki

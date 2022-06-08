@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu!mania 4K World Cup 2017
@@ -38,7 +38,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | Poste | Membre |
 | :-- | :-- |
 | Direction | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Sélecteurs de maps | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |
+| Sélecteurs de beatmaps | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |
 | Commentateurs | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statisticiens | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -112,7 +112,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | ![][flag_SG] | **Singapour** | **[Evening](https://osu.ppy.sh/users/2193881)**, [OrienST8](https://osu.ppy.sh/users/4574597), [DotZeix](https://osu.ppy.sh/users/4363028), [Lindyes](https://osu.ppy.sh/users/7462804), [saikooppai](https://osu.ppy.sh/users/7288030), [Ezo](https://osu.ppy.sh/users/2095061) |
 | ![][flag_KR] | **Corée du Sud** | **[jakads](https://osu.ppy.sh/users/259972)**, [cheetose](https://osu.ppy.sh/users/3817144), [Cobo-](https://osu.ppy.sh/users/1482965), [SuddenDeath](https://osu.ppy.sh/users/6699923), [blueBloody](https://osu.ppy.sh/users/8046839) |
 | ![][flag_ES] | **Espagne** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [Asesingta](https://osu.ppy.sh/users/5037769), [ran-](https://osu.ppy.sh/users/5442427), [Userbacker](https://osu.ppy.sh/users/1872307), [Hydragyrum](https://osu.ppy.sh/users/6440453), [HotSaucezZ](https://osu.ppy.sh/users/7408290) |
-| ![][flag_Se] | **Suède** | **[-Saoeri-](https://osu.ppy.sh/users/6702799)**, [Couil](https://osu.ppy.sh/users/6872025), [\[ Vento \]](https://osu.ppy.sh/users/1612580), [Xytox](https://osu.ppy.sh/users/2229274), [Craty](https://osu.ppy.sh/users/3918056), [Dez](https://osu.ppy.sh/users/2860775) |
+| ![][flag_SE] | **Suède** | **[-Saoeri-](https://osu.ppy.sh/users/6702799)**, [Couil](https://osu.ppy.sh/users/6872025), [\[ Vento \]](https://osu.ppy.sh/users/1612580), [Xytox](https://osu.ppy.sh/users/2229274), [Craty](https://osu.ppy.sh/users/3918056), [Dez](https://osu.ppy.sh/users/2860775) |
 | ![][flag_CH] | **Suisse** | **[Gamer97](https://osu.ppy.sh/users/4952941)**, [Akayro](https://osu.ppy.sh/users/2573716), [AkayroFanGirl](https://osu.ppy.sh/users/3974114), [basti78](https://osu.ppy.sh/users/28222) |
 | ![][flag_TW] | **Taïwan** | **[y85782122](https://osu.ppy.sh/users/2287176)**, [jimmymeow159357](https://osu.ppy.sh/users/3733696), [luckygino](https://osu.ppy.sh/users/1967808), [ecafree2](https://osu.ppy.sh/users/1984442), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [MimF7_tw](https://osu.ppy.sh/users/4135993) |
 | ![][flag_TH] | **Thaïlande** | **[LostCool](https://osu.ppy.sh/users/766374)**, [Fumi](https://osu.ppy.sh/users/8288049), [shuniki](https://osu.ppy.sh/users/4942174), [4ksrub](https://osu.ppy.sh/users/2838908), [-[DaNieL_TH]-](https://osu.ppy.sh/users/6456531), [floodlord](https://osu.ppy.sh/users/2772110) |
@@ -126,7 +126,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Demi-finales
 
-**[Téléchargez le pack de maps ici ! (90 MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar)**
+**[Téléchargez le pack de beatmaps ici ! (90 MB)](http://www.mediafire.com/file/7mxtjr3r9k4bi54/MWC4K_2017_Semifinals.rar)**
 
 - FreeMod
   1. [9mm Parabellum Bullet - Punishment (Valedict) \[Retribution\]](https://osu.ppy.sh/beatmapsets/532682#mania/1128678)
@@ -148,7 +148,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Quarts de finale
 
-**[Téléchargez le pack de maps ici ! (88 MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar)**
+**[Téléchargez le pack de beatmaps ici ! (88 MB)](http://www.mediafire.com/file/7baxea9hafezhob/MWC4K_2017_Quarterfinals.rar)**
 
 - FreeMod
   1. [BABYMETAL - Road of Resistance (hi19hi19) \[Uprising\]](https://osu.ppy.sh/beatmapsets/649356#mania/1375744)
@@ -169,7 +169,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Huitièmes de finale
 
-**[Téléchargez le pack de maps ici ! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar)**
+**[Téléchargez le pack de beatmaps ici ! (65 MB)](http://www.mediafire.com/file/z7pmbh632dy178j/MWC4K_2017_Round_of_16.rar)**
 
 - FreeMod
   1. [hyi - you can recover (Valedict) \[restoration\]](https://osu.ppy.sh/beatmapsets/566156#mania/1199287)
@@ -190,7 +190,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Phases de poules
 
-**[Téléchargez le pack de maps ici ! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar)**
+**[Téléchargez le pack de beatmaps ici ! (89 MB)](http://www.mediafire.com/file/cjk4f8ilwc2s7uv/MWC4K_2017_Group_Stage.rar)**
 
 - Freemod
   1. [Lifetheory - Daisy (Tidek) \[Life (Insane)\]](https://osu.ppy.sh/beatmapsets/323163#mania/718401)
@@ -302,17 +302,17 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 1. Le osu!mania 4K World Cup est un tournoi de osu!mania entre pays, joué sur le mode de jeu osu!mania sur des beatmaps 4 touches.
    - Même si cette compétition est prévue pour se jouer en 3 contre 3, cela peut changer en fonction du nombre d'inscriptions.
 2. Le mécanisme de score utilisé est le Score V2.
-3. Les beatmaps pour chaque round seront annoncées par le sélecteur de maps en avance le dimanche avant que les matchs commencent. Seules ces maps seront utilisées pendant leurs matchs respectifs.
+3. Les beatmaps pour chaque round seront annoncées par le sélecteur de beatmaps en avance le dimanche avant que les matchs commencent. Seules ces beatmaps seront utilisées pendant leurs matchs respectifs.
    - La mappool de la phase de groupe sera annoncée après le tirage au sort du tableau.
-   - Une map sera dite tiebreaker. Elle sera jouée uniquement en cas d'égalité.
+   - Une beatmap sera dite tiebreaker. Elle sera jouée uniquement en cas d'égalité.
 4. Les dates et horaires des matchs seront fixés par les organisateurs du tournoi (voir plus bas).
 5. Si aucun membre du staff ou si aucun arbitre n'est disponible, le match sera reporté à une date ultérieure.
 6. Les scores des joueurs qui échouent ne seront pas ajoutés au score de l'équipe.
-   - Revivre et survivre pendant une map n'est pas considéré comme un échec.
-7. Utiliser les paramètres visuels pour modifier l'opacité de l'arrière-plan, ou désactiver les éléments de la map comme les storyboards ou les skins est autorisé.
+   - Revivre et survivre pendant une beatmap n'est pas considéré comme un échec.
+7. Utiliser les paramètres visuels pour modifier l'opacité de l'arrière-plan, ou désactiver les éléments de la beatmap comme les storyboards ou les skins est autorisé.
 8. Si une beatmap se termine sur une égalité, la partie sera nullifiée.
-9. Si un joueur se déconnecte, il sera considéré comme ayant échoué la map.
-   - Les déconnexions dans les 30 secondes qui suivent le début de la map peuvent être rejouées. C'est l'arbitre qui en jugera. La beatmap jouée peut être interrompue en cours de jeu pour cela.
+9. Si un joueur se déconnecte, il sera considéré comme ayant échoué la beatmap.
+   - Les déconnexions dans les 30 secondes qui suivent le début de la beatmap peuvent être rejouées. C'est l'arbitre qui en jugera. La beatmap jouée peut être interrompue en cours de jeu pour cela.
 10. Les beatmaps ne peuvent pas être réutilisées dans le même match sauf si la partie avait été nullifiée.
 11. Si moins de joueurs que le minimum requis se présentent, le match peut être reporté jusqu'à 10 minutes.
 12. Échanger les joueurs pendant un match est autorisé sans limitations.
@@ -321,12 +321,12 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 15. Si un joueur se déconnecte entre deux beatmaps et que l'équipe ne peut pas l'échanger, le match peut être délayé de 10 minutes au maximum.
 16. Tous les joueurs et arbitres doivent être traités avec respect. Les directives des arbitres et des organisateurs du tournoi sont à suivre. Les décisions marquées comme finales ne sont pas faites pour être discutées.
 17. Il est strictement interdit de perturber le match que ce soit par l'anti-jeu, la sélection de beatmaps d'échauffement innapropriées (voir plus bas), en insultant et provocant les autres joueurs ou arbitres, délayant le match ou tout autre comportement inapproprié.
-18. Les salles de discussion multijoueur sont soumises aux [règles de la communauté osu!](/wiki/Rules). Toutes les règles du chat s'appliquent donc aussi.
-    - Ne pas respecter les règles du chat résultera en un silence. Les joueurs sous silence ne peuvent pas participer aux matchs multijoueurs et doivent être échangés le temps du silence.
+18. Les salles de discussion multijoueur sont soumises aux [règles de la communauté osu!](/wiki/Rules). Toutes les règles du tchat s'appliquent donc aussi.
+    - Ne pas respecter les règles du tchat résultera en un silence. Les joueurs sous silence ne peuvent pas participer aux matchs multijoueurs et doivent être échangés le temps du silence.
 19. Dans les phases de groupe, une « Victoire par défaut » sera considérée comme une victoire de 4 à 0, avec un ratio de différence de score de +1,0.
 20. Les incidents inattendus sont gérés par les organisateurs du tournoi. Les arbitres peuvent accorder plus de tolérance suivant les circonstances. Les arbitres feront leurs propres décisions.
 21. Une infraction au règlement du tournoi peut résulter en :
-    - l'exclusion de certains joueurs pour une map
+    - l'exclusion de certains joueurs pour une beatmap
     - l'exclusion de certains joueurs pour un match entier
     - la déclaration du match comme perdu par défaut
     - la disqualification de l'intégralité du tournoi
@@ -346,7 +346,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 3. Toutes les équipes formées avec succès seront publiées après la phase d'inscription.
 4. Seules les 32 équipes potentiellement plus fortes participeront. La force potentielle d'une équipe est déterminée par les statistiques en ligne de tous les candidats valides.
    - Si le nombre de pays enregistrés est sous 32, ce nombre peut être réduit à 24, 20 ou 16. Le but étant de pouvoir laisser le plus de pays que possible participer !
-5. Les sélecteurs de maps ne peuvent pas participer en tant que joueur dans ce tournoi.
+5. Les sélecteurs de beatmaps ne peuvent pas participer en tant que joueur dans ce tournoi.
 
 ### Déroulement des phases tournoi
 
@@ -357,8 +357,8 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 3. Le classement de chaque groupe est déterminé en triant les résultats des performances de chaque équipe avec la priorité suivante :
    - Le plus de matchs gagnés.
-   - Le plus grand `{(nombre de maps gagnées) - (nombre de maps perdues)}`.
-   - Le plus de maps gagnées.
+   - Le plus grand `{(nombre de beatmaps gagnées) - (nombre de beatmaps perdues)}`.
+   - Le plus de beatmaps gagnées.
    - A un plus grand `∑{(différence totale de score) / (score maximum)}`.
    - Vainqueur de la revanche.
 
@@ -378,10 +378,10 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
    | Finales - Semaine 2 | P, Q |
 
 7. **Conditions de victoire :**
-   - Dans les phases de poules, vous devez remporter 4 beatmaps pour gagner un match. (meilleurs sur 7 maps)
-   - Dans les huitièmes et quarts de finale, vous devez remporter 5 beatmaps pour gagner un match. (meilleurs sur 9 maps)
-   - Dans les demi-finales et finales : semaine 1, vous devez remporter 6 beatmaps pour gagner un match. (meilleurs sur 11 maps)
-   - Pour les finales : semaine 2, vous devez remporter 7 beatmaps pour gagner un match. (meilleurs sur 13 maps)
+   - Dans les phases de poules, vous devez remporter 4 beatmaps pour gagner un match. (meilleurs sur 7 beatmaps)
+   - Dans les huitièmes et quarts de finale, vous devez remporter 5 beatmaps pour gagner un match. (meilleurs sur 9 beatmaps)
+   - Dans les demi-finales et finales : semaine 1, vous devez remporter 6 beatmaps pour gagner un match. (meilleurs sur 11 beatmaps)
+   - Pour les finales : semaine 2, vous devez remporter 7 beatmaps pour gagner un match. (meilleurs sur 13 beatmaps)
 
 ### Instructions du match
 
@@ -390,12 +390,12 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
    - L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue, et l'équipe mentionnée en second doit être l'équipe rouge.
 2. Les joueurs peuvent sélectionner jusqu'à deux beatmaps d'échauffement. Les beatmaps avec un contenu discutable sont interdites. Toutes les beatmaps doivent être des beatmaps osu!mania 4 touches.
 3. Chaque capitaine peut bannir **une beatmap** sélectionnable. Ces beatmaps ne pourront être choisies par aucune équipe pendant l'intégralité du match.
-4. La sélection des beatmaps sera alternée entre chaque capitaine, qui choisira alors une beatmap de la liste des maps disponibles.
+4. La sélection des beatmaps sera alternée entre chaque capitaine, qui choisira alors une beatmap de la liste des beatmaps disponibles.
 5. Chaque capitaine doit utiliser `!roll` une fois dans `#multiplayer`.
    - Le gagnant du `!roll` commence par choisir la première beatmap du match.
    - Le perdant du `!roll` banni une beatmap, suivi par le gagnant du `!roll`.
-6. Les capitaines peuvent choisir librement les maps du tableau.
-   - En cas d'égalité, la map de tiebreaker doit être jouée.
+6. Les capitaines peuvent choisir librement les beatmaps du tableau.
+   - En cas d'égalité, la beatmap de tiebreaker doit être jouée.
 7. Les résultats des phases de poules seront publiés via le feuille de calcul des statistiques.
 
 ### Instructions pour les mappools
@@ -405,8 +405,8 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 2. La taille de chaque mappool varie suivant la phase actuelle.
    - La mappool des phases de poules a 13 beatmaps au total.
    - Les mappools des huitièmes de finale et des quarts de finale contiennent 14 beatmaps au total.
-   - La mappool des demi-finales est constituée de 15 maps au total.
-   - La mappool des finales contient 16 maps au total.
+   - La mappool des demi-finales est constituée de 15 beatmaps au total.
+   - La mappool des finales contient 16 beatmaps au total.
 3. Chaque mappool a un tiebreaker.
 4. Toutes les beatmaps seront jouées sous les conditions du Freemod.
    - Les mods autorisés sont [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) et [Flashlight](/wiki/Game_modifier/Flashlight).

@@ -1,5 +1,7 @@
 ---
 needs_cleanup: true
+outdated_translation: true
+outdated_since: a8c8745209c11807318f090c1916347900d138de
 ---
 
 <!-- TODO: needs a thorough review for writing style and organisation, this is one of the more awkward articles on the site -->
@@ -8,7 +10,7 @@ needs_cleanup: true
 
 Le Multi (aussi connu en tant que *Multijoueur*) a été introduit le 3 Juin 2008 sous la version b335 d'osu!, et s'agit d'un mode de jeu dans lequel jusqu'à 16 joueurs peuvent s'affronter sur une beatmap choisie par l'hôte.
 
-L'[osu!academy](/wiki/Community/Video_series/osu!academy) a couvert ce sujet dans  l'[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ainsi que celui des [panneaux des joueurs en ligne](/wiki/Client/Interface/Chat_console#la-console-de-chat-étendue).
+L'[osu!academy](/wiki/Community/Video_series/osu!academy) a couvert ce sujet dans  l'[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ainsi que celui des [panneaux des joueurs en ligne](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue).
 
 ## Comment y entrer
 
@@ -81,7 +83,7 @@ Vous pouvez également demander une invitation à un joueur présent dans la sal
 
 ---
 
-Les trois boutons au-dessus de la console de chat sont des commandes que vous pouvez utiliser dans le lobby:
+Les trois boutons au-dessus de la console de tchat sont des commandes que vous pouvez utiliser dans le lobby:
 
 | Titre | Description |
 | :-: | :-- |
@@ -89,7 +91,7 @@ Les trois boutons au-dessus de la console de chat sont des commandes que vous po
 | `Créer une salle` | **Créer une nouvelle salle dans le lobby** |
 | `Salle au hasard` | Se rendre dans une **salle disponible** *aléatoirement* choisie selon la **différence de classement**. |
 
-La [console de chat](/wiki/Client/Interface/Chat_console) sera disponible en bas de l'écran et affichera le canal `#lobby` par défaut.
+La [console de tchat](/wiki/Client/Interface/Chat_console) sera disponible en bas de l'écran et affichera le canal `#lobby` par défaut.
 
 ## Nouvelle salle
 
@@ -107,15 +109,13 @@ Cliquez sur  `1. Start Game` pour **créer la salle en tant qu'hôte** avec la *
 
 <!-- One/Two image here? Subsections of the images later like what was done in Interface of the old osu! wiki for Song Selection? -->
 
-![](img/Multi_roomhost.jpg "Exemple d'une salle en tant qu'hôte")
-
 ![](img/Multi_roomplayer.jpg "Exemple d'une salle en tant que joueur \(avec l'option "Mods libres" activée\)")
 
 La partie haute montre le nom de l'écran à gauche, votre statut dans la salle (soit hôte soit joueur), vos informations sur le mode de jeu en cours au milieu et un bouton pause pour mettre en pause la musique (si vous avez la beatmap) à droite.
 
 ---
 
-La partie du bas montre [la console de chat](/wiki/Client/Interface/Chat_console).
+La partie du bas montre [la console de tchat](/wiki/Client/Interface/Chat_console).
 Un nouvel onglet appelé `#multiplayer` sera ouvert, avec [BanchoBot](/wiki/BanchoBot) qui fournira un lien vers l'historique des matchs.
 Le lien est `https://osu.ppy.sh/community/matches/x` (remplacez "x" avec le nombre généré par Bancho pour cette salle).
 
@@ -140,8 +140,8 @@ Il y a quatre états importants à retenir:
 
 | Couleur (État) | Description |
 | :-- | :-- |
-| **Rouge (n'a pas la map)** | **Le joueur n'a pas la beatmap**. Un `[n'a pas la map]` apparaîtra après le pseudo du joueur jusqu'à ce qu'il ait téléchargé et extrait la map (ce qui mettra l'état du joueur en Blanc). Tous les joueurs auront cet état ou l'état Blanc (Pas prêt) lorsque l'hôte aura changé de beatmap. Si le lancement de la partie est forcé, le joueur n'ayant pas la beatmap ne sera pas affecté. |
-| **Blanc (Pas prêt)** | **Le joueur a la beatmap mais n'a pas encore cliqué sur le bouton "Je suis prêt !"**. Dans cet état, il est possible de changer les mods avec lesquels le joueur va jouer. Tous les joueurs auront cet état ou l'état Rouge (n'a pas la map) lorsque l'hôte aura changé de beatmap. Si le lancement de la partie est forcé, le joueur ayant la map devra la jouer qu'il soit prêt ou non. |
+| **Rouge (n'a pas la beatmap)** | **Le joueur n'a pas la beatmap**. Un `[n'a pas la beatmap]` apparaîtra après le pseudo du joueur jusqu'à ce qu'il ait téléchargé et extrait la beatmap (ce qui mettra l'état du joueur en Blanc). Tous les joueurs auront cet état ou l'état Blanc (Pas prêt) lorsque l'hôte aura changé de beatmap. Si le lancement de la partie est forcé, le joueur n'ayant pas la beatmap ne sera pas affecté. |
+| **Blanc (Pas prêt)** | **Le joueur a la beatmap mais n'a pas encore cliqué sur le bouton "Je suis prêt !"**. Dans cet état, il est possible de changer les mods avec lesquels le joueur va jouer. Tous les joueurs auront cet état ou l'état Rouge (n'a pas la beatmap) lorsque l'hôte aura changé de beatmap. Si le lancement de la partie est forcé, le joueur ayant la beatmap devra la jouer qu'il soit prêt ou non. |
 | **Vert (Prêt)** | **Le joueur est prêt**. Les mods ne peuvent plus être changés dans cet état. Le joueur peut cliquer sur le bouton "Je ne suis pas prêt" pour revenir à l'état Blanc. Pour un hôte, il n'est généralement pas possible d'appuyer sur "Je ne suis pas prêt" puisque celui-ci se transforme en "Démarrer la partie" à moins qu'il n'y ait pas d'autre joueur prêt. |
 | **Bleu clair (en jeu)** | **Le joueur est en partie**. Un `[en jeu]` sera affiché après le pseudo du joueur jusqu'à ce que le match se termine. |
 
@@ -157,9 +157,9 @@ L'hôte peut changer le nom ou créer/changer le mot de passe de la salle en cli
 
 #### Beatmap
 
-![](img/Multi_host_song_change.jpg "Lorsque l'hôte est en train de changer de map, ce texte sera temporairement affiché.")
+![](img/Multi_host_song_change.jpg "Lorsque l'hôte est en train de changer de beatmap, ce texte sera temporairement affiché.")
 
-![](img/Multi_SS.jpg "Exemple de ce que l'hôte voit en sélectionnant une map.")
+![](img/Multi_SS.jpg "Exemple de ce que l'hôte voit en sélectionnant une beatmap.")
 
 La partie du milieu est la partie Beatmap.
 
@@ -177,8 +177,6 @@ Quelques informations seront affichées dans le cas où le joueur ne possède pa
 | **Impossible de mettre à jour la beatmap** | [L'hôte joue probablement une version modifiée.](https://osu.ppy.sh/community/forums/topics/135726 "ppy's reply on a bug report.") |
 
 #### Mods
-
-![](img/Multi_mods_host.jpg "Options de mods \(osu! standard\) de l'hôte")
 
 ![](img/Multi_mods_player.jpg "Options de mods \(osu! standard\) d'un joueur \(avec l'option "Mods libres" activée\)")
 
@@ -241,7 +239,7 @@ Voici la liste des différents effets du bouton bleu:
 
 ### Historique des matchs
 
-**Note**: Le lien fourni par BanchoBot dans la première ligne de l'onglet `#multiplayer` dans la console de chat (accessible en cliquant sur le mot `here`) redirigera le joueur vers l'historique des matchs sur le navigateur par défaut.
+**Note**: Le lien fourni par BanchoBot dans la première ligne de l'onglet `#multiplayer` dans la console de tchat (accessible en cliquant sur le mot `here`) redirigera le joueur vers l'historique des matchs sur le navigateur par défaut.
 
 ![](img/multi-mh.jpg "Exemple d'un historique des matchs.")
 
@@ -309,7 +307,7 @@ Un joueur ayant quitté ou échoué sera placé en bas du classement des joueurs
 | **Danger/Violette-Rouge** | **Le joueur a *moins* de la moitié de sa vie**. Le rouge devient plus clair si la vie du joueur se rapproche de zéro et vire au bleu si la vie passe au dessus de la moitié de la barre de vie. |
 | **Échoué/Grise** | **Le joueur n'a plus de vie** mais il peut continuer à jouer. Dans le cas où [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death)/[Perfect (PF)](/wiki/Game_modifier/Perfect) n'est pas utilisé, remplir entièrement la barre de vie ramène le joueur à la vie et repasse au statut "Normal". Notez que le score n'est pas ajouté au score de l'équipe tant que le joueur est dans ce statut. |
 | **Tag/Verte** | Disponible uniquement en *Tag Coop et Tag Team Vs*. **Cette couleur reste la même durant tout le match et ne change pas selon la barre de vie**. Une flèche pointe le joueur actuellement en train de jouer avec une petite lueur blanche. |
-| **Skipped/Blanche** | **Le joueur demande à passer l'introduction de la map si celle-ci en a une**. Les joueurs ayant appuyé sur le bouton `Skip` en bas à droite de l'écran auront une petite rectangle jaune avec écrit "Skipped" en blanc en bas à droite de leur pseudo. **Tous les joueurs doivent demander à passer l'introduction pour que celle-ci soit passée**. |
+| **Skipped/Blanche** | **Le joueur demande à passer l'introduction de la beatmap si celle-ci en a une**. Les joueurs ayant appuyé sur le bouton `Skip` en bas à droite de l'écran auront une petite rectangle jaune avec écrit "Skipped" en blanc en bas à droite de leur pseudo. **Tous les joueurs doivent demander à passer l'introduction pour que celle-ci soit passée**. |
 | **Quit/Dépend** | **Le joueur a quitté le match**. Il y a deux possibilités d'obtenir ce statut: (1) Appuyer sur `Echap` deux fois ou (2) se déconnecter de Bancho. La couleur du pseudo du joueur passera du blanc au rouge, avec un `[Quit]` écrit près du pseudo. La couleur de la boîte dépend de la vie qu'avait le joueur avant de quitter la partie. |
 
 ### Head to Head
@@ -330,7 +328,7 @@ A la fin du match, la photo de profil du joueur ayant atteint la première place
 Le rang obtenu est maintenant placé derrière le résultat.
 Le résultat des autres joueurs peut être observé en cliquant sur leurs boîtes respectives.
 
-Chaque joueur reçoit dans l'onglet privé `#userlog` du chat le rang qu'il a obtenu au classement de chaque partie.
+Chaque joueur reçoit dans l'onglet privé `#userlog` du tchat le rang qu'il a obtenu au classement de chaque partie.
 
 ### Team Vs
 
@@ -383,7 +381,7 @@ Dans ce mode, le placement des joueurs allant de haut en bas est important car i
 Une flèche verte montre quel joueur est actuellement en train de jouer le combo de la beatmap.
 Le pseudo du joueur est affiché en bas à droite de l'écran.
 Il y aura des flèches d'avertissements prévenant le joueur qu'il doit jouer et le combo est en couleur jusqu'à ce que le combo se finisse
-Le joueur peut changer la couleur de son combo avant de commencer une map dans **Couleur**
+Le joueur peut changer la couleur de son combo avant de commencer une beatmap dans **Couleur**
 
 **Tous les joueurs doivent jouer les spinners**. Ne pas jouer/réussir le spinner brisera le combo actuel.
 

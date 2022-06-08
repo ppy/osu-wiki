@@ -14,7 +14,7 @@ Pengelola melakukan tinjauan akhir *pull request* dan menggabungkannya. Jika kam
 
 ## Detail teknis
 
-### *Issue Tracker*
+### Issue Tracker
 
 [*Issue tracker*](https://github.com/ppy/osu-wiki/issues) osu! wiki berisi ide dan permintaan untuk kemungkinan perbaikan, baik untuk artikel itu sendiri maupun bagian situs web yang terkait dengan wiki. Bukalah sebuah *issue* jika kamu memiliki permintaan fitur, atau jika kamu menemukan kesalahan pada salah satu halaman. Harap diperhatikan bahwa **ini hanya terbatas pada osu! wiki**—jika kamu memerlukan bantuan dengan proyek resmi lain yang terkait dengan osu!, gunakan *issue tracker* mereka sendiri:
 
@@ -22,7 +22,7 @@ Pengelola melakukan tinjauan akhir *pull request* dan menggabungkannya. Jika kam
 - [Situs web osu!](https://github.com/ppy/osu-web/)
 - [osu!(stable)](https://github.com/ppy/osu-stable-issues)
 
-#### Label *issue*
+#### Label issue
 
 Di GitHub, pull request dan *issue* dapat ditandai dan diklasifikasikan dengan menggunakan [label](https://github.com/ppy/osu-wiki/labels), yang menunjukkan aspek berbeda dari pull request atau *issue*. Label bersifat informasional, ditetapkan oleh pengelola wiki, dan biasanya cukup jelas. Meskipun tidak memerlukan tindakan dari sudut pandang pengguna, label merah berfungsi sebagai pengingat atau ajakan bertindak untuk pengelola lainnya:
 
@@ -41,7 +41,7 @@ Menurut [[RC]], ini dilarang.
 
 Saat menambahkan pengalihan untuk artikel baru atau yang sudah ada, ingatlah bahwa pengalihan harus ringkas dan dirancang untuk penggunaan sebenarnya.
 
-### *CI check*
+### CI check
 
 Repositori osu! wiki menggunakan [*continuous integration*](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) untuk secara otomatis memeriksa berbagai kesalahan umum dalam *pull request* yang masuk. Daftar pemeriksaan dikonfigurasi dalam berkas [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
 
@@ -76,7 +76,7 @@ Wiki bergantung pada masukan dari komunitas osu!. Kamu dapat membantu pengelola 
 
 *Untuk daftar terjemahan dan kelengkapannya, lihat: [status osu-wiki](https://clayton.cc/osu-wiki-status/en)*
 
-osu! wiki dibaca oleh orang-orang dari seluruh dunia. Untuk membantu komunitas lokal kamu dan menarik pemain, *mapper*, *modder*, dan pengembang baru yang luar biasa ke dalam game, Kamu dapat menerjemahkan artikel bahasa Inggris, atau memperbarui terjemahan yang ada yang tertinggal. Periksa [daftar bahasa](/wiki/Article_styling_criteria/Formatting#locales) yang didukung oleh osu! wiki, dan pastikan terjemahanmu mengikuti prinsip [paritas konten](/wiki/Article_styling_criteria/Formatting#content-parity). Jika kamu seorang pembicara yang fasih dan penulis berpengalaman, ambil topik utama seperti artikel tentang [aturan](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) atau [kriteria ranking](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). Jika kamu baru memulai karir menulis kamu, pilih artikel kecil untuk menerima bantuan dan bimbingan dari pengulas dan penutur bahasa asli.
+osu! wiki dibaca oleh orang-orang dari seluruh dunia. Untuk membantu komunitas lokal kamu dan menarik pemain, *mapper*, *modder*, dan pengembang baru yang luar biasa ke dalam game, Kamu dapat menerjemahkan artikel bahasa Inggris, atau memperbarui terjemahan yang ada yang tertinggal. Periksa [daftar bahasa](/wiki/Article_styling_criteria/Formatting#locales) yang didukung oleh osu! wiki, dan pastikan terjemahanmu mengikuti prinsip [paritas konten](/wiki/Article_styling_criteria/Writing#content-parity). Jika kamu seorang pembicara yang fasih dan penulis berpengalaman, ambil topik utama seperti artikel tentang [aturan](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) atau [kriteria ranking](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). Jika kamu baru memulai karir menulis kamu, pilih artikel kecil untuk menerima bantuan dan bimbingan dari pengulas dan penutur bahasa asli.
 
 Terjemahan dapat digabungkan tanpa ulasan dari penutur bahasa asli jika sudah lebih dari dua minggu sejak tanggal pembuatannya.
 

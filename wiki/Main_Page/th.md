@@ -1,6 +1,6 @@
 ---
 layout: main_page
-outdated: true
+outdated_translation: true
 outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
@@ -60,14 +60,14 @@ outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 
 [ทัวร์นาเมนต์](/wiki/Tournaments) • [การทำสกิน](/wiki/Skinning) • [โปรเจคต่าง ๆ](/wiki/Community/Projects) • [ไกด์](/wiki/Guides) • [เซิร์ฟเวอร์ดิสคอร์ด osu!dev](/wiki/Community/osu!dev_Discord_server) • [คุณช่วยเราได้อย่างไร](/wiki/Community/How_you_can_help!) • [คำศัพท์](/wiki/Glossary)
 
+องค์กร: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# ผู้คนต่าง ๆ
+# [ผู้คนต่าง ๆ](/wiki/People)
 
 [ทีมงาน](/wiki/People/The_Team): [ผู้พัฒนา](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [ทีมช่วยเหลือ](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [ทีมงาน Project Loved](/wiki/People/The_Team/Project_Loved_Team)
-
-องค์กร: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [ผู้ที่มีส่วนร่วมในชุมชน](/wiki/People/Community_Contributors) • [ผู้คนที่มี Titles แตกต่าง](/wiki/People/Users_with_unique_titles)
 

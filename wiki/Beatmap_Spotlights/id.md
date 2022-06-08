@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: c5ff61dc391a6c6db310c8fcde0620fa6a8fe358
 tags:
   - charts
   - Ranking Charts
@@ -14,7 +16,7 @@ tags:
 
 **Program Beatmap Spotlights saat ini masih berjalan dalam tahapan uji coba dan masih terdapat berbagai fitur yang belum sepenuhnya diimplementasikan.** Seluk-beluk dari sistem ini seperti penghargaan, papan peringkat musiman, dan fitur-fitur permainan lainnya masih bersifat tentatif dan dapat berubah kapan saja.
 
-Musim saat ini adalah Musim Dingin 2021.
+Musim saat ini adalah Musim Dingin 2022.
 
 ## Organisasi
 
@@ -34,29 +36,27 @@ Setiap rilis Beatmap Spotlights disusun oleh tim kurator khusus dan dipilih seca
 
 - ![][flag_FI] **[Nowaie](https://osu.ppy.sh/users/5428909)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
 - ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943)
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
-- ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### Kurator osu!taiko
 
-- ![][flag_DE] **[OnosakiHito](https://osu.ppy.sh/users/290128)**
-- ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
+- ![][flag_TN] **[Hivie](https://osu.ppy.sh/users/14102976)**
 - ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864)
-- ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
-- ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+- ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)
 - ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
+- ![][flag_MY] [[Zeth]](https://osu.ppy.sh/users/9912966)
 
 ### Kurator osu!catch
 
 - ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
-- ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276)
+- ![][flag_KR] [x_angelkawaii_x](https://osu.ppy.sh/users/566276)
 - ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
 - ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
@@ -116,14 +116,14 @@ Hadiah akan dibagikan kepada timeshift lobby mingguan, mapper dari beatmap yang 
 
 | Lencana | Tingkat Pencapaian | Peringkat |
 | :-: | :-- | :-- |
-| ![](img/badges/winter_2021/osu/ri_1.png) ![](img/badges/winter_2021/osu/ri_2.png) | Rhythm Incarnate | Terbaik dari yang terbaik |
-| ![](img/badges/winter_2021/osu/diamond_1.png) ![](img/badges/winter_2021/osu/diamond_2.png) | Diamond | Top 3% |
-| ![](img/badges/winter_2021/osu/platinum_1.png) ![](img/badges/winter_2021/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/winter_2021/osu/gold_1.png) ![](img/badges/winter_2021/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/winter_2021/osu/silver_1.png) ![](img/badges/winter_2021/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/winter_2021/osu/bronze_1.png) ![](img/badges/winter_2021/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/winter_2021/osu/copper_1.png) ![](img/badges/winter_2021/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/winter_2021/osu/iron_1.png) ![](img/badges/winter_2021/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/winter_2022/osu/ri_1.png) ![](img/badges/winter_2022/osu/ri_2.png) | Rhythm Incarnate | Terbaik dari yang terbaik |
+| ![](img/badges/winter_2022/osu/diamond_1.png) ![](img/badges/winter_2022/osu/diamond_2.png) | Diamond | Top 3% |
+| ![](img/badges/winter_2022/osu/platinum_1.png) ![](img/badges/winter_2022/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/winter_2022/osu/gold_1.png) ![](img/badges/winter_2022/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/winter_2022/osu/silver_1.png) ![](img/badges/winter_2022/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/winter_2022/osu/bronze_1.png) ![](img/badges/winter_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/winter_2022/osu/copper_1.png) ![](img/badges/winter_2022/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/winter_2022/osu/iron_1.png) ![](img/badges/winter_2022/osu/iron_2.png) | Iron | 95% – 100% |
 
 Tingkatan ambang batas pada Rhythm Incarnate dipilih secara manual berdasarkan jumlah peserta musim dan ukuran umum tingkatan lainnya, meskipun itu adalah angka absolut yang berkisar antara top 2 dan top 50 dalam banyak kasus.
 
@@ -184,13 +184,10 @@ Pada Agustus 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) meng
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_DO]: /wiki/shared/flag/DO.gif "Republik Dominika"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
-[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungaria"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
 [flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"

@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu!supporter
@@ -36,8 +36,6 @@ outdated: true
 ### Подсчёт стоимости
 
 [Используйте этот конвертер валют](http://www.oanda.com/currency/converter/) или [поищите в гугле](https://www.google.com), чтобы проверить цену в своей стране. Цена в долларах США.
-
-![Пример](img/selecting-duration.jpg "Пример")
 
 | Месяцы | Стоимость в долларах США |
 | :-: | :-- |

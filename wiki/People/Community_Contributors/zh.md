@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 no_native_review: true
 ---
 
@@ -104,11 +104,11 @@ no_native_review: true
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | 在许多社区比赛中担任裁判，贡献突出 |
 | ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | 在直播竞赛，解说，以及事件报道和摘要的撰写方面均表现突出 |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | 在 osu! 数不胜数的改进过程的改进中处于主干地位，包括 pp，图形引擎改写，评分系统等许多方面！ |
-| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | 对 osu!lazer 计划的杰出贡献 |
-| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | 对 osu!lazer 计划的杰出贡献（90 多个 PR 以及上百次 commits） |
-| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | 对 osu!lazer 计划的杰出贡献 |
-| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | 组织了 osu!，osu! wiki，和 osu!lazer 的中文化计划，并做出了突出贡献 |
-| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | 对 osu!lazer 计划做出了杰出贡献，并创造了许多媒体工具 |
+| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | 对 osu!(lazer) 计划的杰出贡献 |
+| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | 对 osu!(lazer) 计划的杰出贡献（90 多个 PR 以及上百次 commits） |
+| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | 对 osu!(lazer) 计划的杰出贡献 |
+| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | 组织了 osu!，osu! wiki，和 osu!(lazer) 的中文化计划，并做出了突出贡献 |
+| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | 对 osu!(lazer) 计划做出了杰出贡献，并创造了许多媒体工具 |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | PerformancePlus 和 osu!chan 的创造者 |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | 对 Scorewatch 计划的杰出贡献 |
 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | 对 Scorewatch 计划的杰出贡献 |
@@ -145,7 +145,7 @@ no_native_review: true
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | 对社区指导计划的杰出贡献 |
 | ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | 对社区指导计划的杰出贡献 |
 | ![][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | 对社区指导计划的杰出贡献 |
-| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | 对 osu!lazer 计划的杰出贡献 |
+| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | 对 osu!(lazer) 计划的杰出贡献 |
 
 ## 2020
 

@@ -3,7 +3,7 @@ tags:
   - AGTS 2019
   - AGTS
   - GTS
-outdated: true
+outdated_translation: true
 ---
 
 # Advanced Global Taiko Showdown 2019
@@ -16,14 +16,14 @@ Der **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) war ein länderbas
 
 | Event | Zeitpunkt |
 | --: | :-- |
-| Registrierungsphase | 2019-07-07/2019-07-21 |
-| Live-Ziehung | 2019-08-04 (15:00 UTC) |
-| Qualifizierung | 2019-08-10/2019-08-11 |
-| Gruppenphase | 2019-08-17/2019-08-18 |
-| Viertelfinale | 2019-08-24/2019-08-25 |
-| Halbfinale | 2019-08-31/2019-09-01 |
-| Finale | 2019-09-07/2019-09-08 |
-| Hauptfinale | 2019-09-14 |
+| Registrierungsphase | 07.07.2019 bis 21.07.2019 |
+| Live-Ziehung | 04.08.2019 (15:00 UTC) |
+| Qualifizierung | 10.08.2019 bis 11.08.2019 |
+| Gruppenphase | 17.08.2019 bis 18.08.2019 |
+| Viertelfinale | 24.08.2019 bis 25.08.2019 |
+| Halbfinale | 31.08.2019 bis 01.09.2019 |
+| Finale | 07.09.2019 bis 08.09.2019 |
+| Hauptfinale | 14.09.2019 |
 
 ## Preise
 
@@ -283,30 +283,30 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 
 ### Hauptfinale
 
-| Samstag, 2019-09-14 |  |  |  |  |
+| Samstag, 14.09.2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **7** | 1 | ![][flag_CA] Kanada | [#1](https://osu.ppy.sh/community/matches/54839968) |
 
 ### Finale
 
-| Samstag, 2019-09-07 |  |  |  |  |
+| Samstag, 07.09.2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **7** | 1 | ![][flag_RU] Russland A | [#1](https://osu.ppy.sh/community/matches/54674122) |
 
-| Sonntag, 2019-09-08 |  |  |  |  |
+| Sonntag, 08.09.2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Südkorea ![][flag_KR] | 4 | **7** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/community/matches/54691282) |
 | Russland A ![][flag_RU] | 2 | **7** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/community/matches/54706574) |
 
 ### Halbfinale
 
-| Samstag, 2019-08-31 |  |  |  |  |
+| Samstag, 31.08.2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesien A ![][flag_ID] | 4 | **7** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/54504410) |
 | **Russland A** ![][flag_RU] | **7** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/54507108) |
 | Argentinien ![][flag_AR] | 4 | **7** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/community/matches/54515229) |
 
-| Sonntag, 2019-09-01 |  |  |  |  |
+| Sonntag, 01.09.2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Taiwan ![][flag_TW] | 1 | **7** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Niederlande ![][flag_NL] | 6 | **7** | ![][flag_KR] **Südkorea** | [#1](https://osu.ppy.sh/community/matches/54530786) |
@@ -314,7 +314,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 
 ### Viertelfinale
 
-| Samstag, 2019-08-24 |  |  |  |  |
+| Samstag, 24.08.2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Argentinien ![][flag_AR] | 5 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/54305260) |
 | Deutschland A ![][flag_DE] | 0 | **6** | ![][flag_ID] **Indonesien A** | [#1](https://osu.ppy.sh/community/matches/54317268) |
@@ -323,7 +323,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 | Kanada ![][flag_CA] | 4 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/54318662) |
 | Polen ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonesien A** | [#1](https://osu.ppy.sh/community/matches/54320532) | **Kanada** ![][flag_CA] | **6** | 1 | ![][flag_RU] Russland B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
-| Sonntag, 2019-08-25 |  |  |  |  |
+| Sonntag, 25.08.2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Südkorea ![][flag_KR] | 3 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/54334906) |
 | Niederlande ![][flag_NL] | 2 | **6** | ![][flag_RU] **Russland A** | [#1](https://osu.ppy.sh/community/matches/54346880) |
@@ -333,7 +333,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 
 ### Gruppenphase
 
-| Group | Samstag, 2019-08-17 |  |  |  |  |
+| Group | Samstag, 17.08.2019 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C4 | Mexiko ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/54132793) |
 | D6 | Vereinigte Staaten B ![][flag_US] | 1 | **5** | ![][flag_US] **Vereinigte Staaten A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
@@ -350,7 +350,7 @@ Dieses Turnier endete mit folgenden Ergebnissen:
 | B5 | Chile ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentinien** | [#1](https://osu.ppy.sh/community/matches/54153575) |
 | C3 | **Kanada** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] Königreich Großbritannien/Portugal | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
-| Group | Sonntag, 2019-08-18 |  |  |  |  |
+| Group | Sonntag, 18.08.2019 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F6 | Indonesien A ![][flag_ID] | 3 | **5** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/community/matches/54159212) |
 | B2 | Chile ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/54160233) |

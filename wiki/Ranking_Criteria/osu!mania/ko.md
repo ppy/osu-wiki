@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 17ba49c633b089fe88acb7d5d32ac0460e5d65fe
+---
+
 # osu!mania ranking criteria
 
 **osu!mania Ranking Criteria**는 osu!mania 난이도를 만드는 데 적용되는 규칙과 가이드라인입니다. osu!mania 난이도를 랭크시키기 위해서 나열된 정해진 기준에 따라야 합니다. **어떤 상황이더라도 규칙을 따라야 하지만**, 예외적인 상황에서 가이드라인을 어길 수 있습니다. 이러한 예외적인 경우는 반드시 가이드라인을 어긴 이유와 왜 그렇게 하지 않으면 창작물의 퀄리티가 떨어지는지에 대해 자세한 설명이 뒷받침되어야 합니다.

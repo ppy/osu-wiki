@@ -14,14 +14,14 @@ La **Catch French Beginner 5** (***CFB5***) était un tournoi 1v1 français déb
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2020-12-26/2021-01-10 |
-| Live drawings | 2021-01-10 (22:00 UTC+2) |
-| Qualifications | 2021-01-16/2021-01-17 |
-| Huitièmes de finale | 2021-01-23/2021-01-24 |
-| Quarts-de-finale | 2021-01-30/2021-01-31 |
-| Demi-finales | 2021-02-06/2021-02-07 |
-| Finales | 2021-02-13/2021-02-13 |
-| Grandes Finales | 2021-02-20/2021-02-21 |
+| Phase d'inscription | 26/12/2020 - 10/01/2021 |
+| Live drawings | 10/01/2021 (22:00 UTC+2) |
+| Qualifications | 16/01/2021 - 17/01/2021 |
+| Huitièmes de finale | 23/01/2021 - 24/01/2021 |
+| Quarts-de-finale | 30/01/2021 - 31/01/2021 |
+| Demi-finales | 06/02/2021 - 07/02/2021 |
+| Finales | 13/02/2021 - 13/02/2021 |
+| Grandes Finales | 20/02/2021 - 21/02/2021 |
 
 ## Récompenses
 
@@ -305,7 +305,7 @@ Samedi, 23 Janvier 2021:
 | **Shamookie** ![][flag_FR] | **4** | 0 | ![][flag_FR] iron-wish | [#1](https://osu.ppy.sh/community/matches/74054310) |
 | **Redjiii** ![][flag_FR] | **4** | 0 | ![][flag_FR] JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/74040385) |
 | **MitsukeZ** ![][flag_FR] | **4** | 2 | ![][flag_FR] caillrot | [#1](https://osu.ppy.sh/community/matches/74057644) |
-| **Beltheor** ![][flag_FR] | **4** | 1 | ![][flag_Fr] Okawashi | [#1](https://osu.ppy.sh/community/matches/74060895) |
+| **Beltheor** ![][flag_FR] | **4** | 1 | ![][flag_FR] Okawashi | [#1](https://osu.ppy.sh/community/matches/74060895) |
 | **Jibsz** ![][flag_FR] | **4** | 0 | ![][flag_FR] AceEpmo | [#1](https://osu.ppy.sh/community/matches/74074646) |
 
 Dimanche, 24 Janvier 2021:
@@ -319,7 +319,7 @@ Dimanche, 24 Janvier 2021:
 ### Qualifications
 
 - Des résultats plus détaillés sont disponibles sur la [fiche statistique](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)
-- Le rang moyen était déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
+- Le rang moyen était déterminé par : somme des positions du joueur sur chaque beatmap divisée par le nombre de beatmaps composant le mappool des qualifications.
 - Seuls les 3 premiers participants ont été classés comme tête de série, car l'un des participants a été disqualifié parce qu'il ne répondait pas aux critères de la phase de sélection des fonctionnaires du staff osu!
 
 | Seed | Joueur | Rang moyen |
@@ -350,14 +350,14 @@ Dimanche, 24 Janvier 2021:
 2. La restriction de rang s'applique au maximum à **#2,500** sur le mode de jeu osu!catch.
 3. Un retard de plus de 10 minutes à un match entraînera une victoire par défaut pour l'autre joueur.
 4. Un langage correct est exigé, de la part des participants comme du staff.
-5. Les joueurs banniront à chaque match **deux maps** chacun pour un total de **quatre maps** bannies.
-6. Les scores fail comptent, même si le joueur est mort à la fin de la map.
+5. Les joueurs banniront à chaque match **deux beatmaps** chacun pour un total de **quatre beatmaps** bannies.
+6. Les scores fail comptent, même si le joueur est mort à la fin de la beatmap.
 7. Les joueurs lanceront un `!roll` au début du match pour déterminer l'ordre des choix.
 8. Même lors d'un tournoi, osu! reste un jeu, soyez amicaux et fair play.
 9. Ce tournoi sera en double-élimination, ce qui signifie qu'il y aura un loser's bracket.
 10. N'importe quel joueur francophone peut participer au tournoi.
 11. Les joueurs auront deux bans par match.
-12. Les joueurs ne pourront pas ban plus d'une map dans un mod.
+12. Les joueurs ne pourront pas ban plus d'une beatmap dans un mod.
 13. Le Hidden est autorisé en HardRock et DoubleTime.
 14. Le Tiebreaker est joué en FreeMod.
 

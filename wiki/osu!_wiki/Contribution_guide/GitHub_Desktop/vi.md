@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
 no_native_review: true
 ---
 
@@ -75,7 +77,7 @@ Tuy việc phân nhánh không bắt buộc, nhưng nó [được khuyến ngh�
 2. Mặc định GitHub Desktop sẽ tích chọn mọi thay đổi của bạn.
 3. Tốt nhất là hãy tách mỗi hành động "lớn" của bạn làm một commit.
 
-Ví dụ, như ở hình trên, [pippi](/wiki/Mascots#-pippi) đã thêm một tệp hình ảnh, chỉnh sửa tệp `en.md` để thêm tiêu đề và đường dẫn tới hình ảnh đó, và đánh dấu bản dịch lỗi thời. Ở trường hợp này, chúng ta nên tạo 2 commit, một cái về việc thay đổi tệp `en.md`, và một cái là đánh dấu bản dịch bị lỗi thời.
+Ví dụ, như ở hình trên, [pippi](/wiki/Mascots#pippi) đã thêm một tệp hình ảnh, chỉnh sửa tệp `en.md` để thêm tiêu đề và đường dẫn tới hình ảnh đó, và đánh dấu bản dịch lỗi thời. Ở trường hợp này, chúng ta nên tạo 2 commit, một cái về việc thay đổi tệp `en.md`, và một cái là đánh dấu bản dịch bị lỗi thời.
 
 4. Chọn các tệp mà bạn định commit.
 5. Điền tổng thể về commit của bạn. Phần này bị giới hạn 72 ký tự và **phải được viết bằng tiếng Anh**.

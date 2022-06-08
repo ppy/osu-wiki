@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6bc1537ef8d5ee9c08602c13108e15ce6f1ab524
+---
+
 # osu!supporter
 
 *Siteden osu!supporter sayfasına gitmek için, bakınız: [oyunu destekle](https://osu.ppy.sh/home/support)*
@@ -16,8 +21,6 @@ osu!supporter elde etmek için, giriş yapın (ya da [kayıt olun](/wiki/Registr
 
 ### Süreyi seçmek
 
-![osu!supporter satın almak](img/selecting-duration.jpg?1 "osu!supporter için kullanıcıyı ve süreyi seçmek")
-
 Kaydırıcının üzerinde bulunan kullanıcı kartı osu!supporter aldığınız kullanıcıyı gösterir. Varsayılan olarak, bu sizin kullanıcı kartınız olmalı. Bir arkadaşınıza hediye etmek için, arkadaşınızın kullanıcı ismini (Kullanıcı ID'sini değil) kullanıcı kartının altındaki gri kutuya girin. Bu yapıldıktan sonra, kullanıcı kartı girilen kullanıcı isminin hesabıyla değiştirilecektir. Buradan sonra, hediye etmek istediğiniz osu!supporter süresini seçebilirsiniz. Ancak, birden fazla kişiye gönderilen hediyelerde bir promosyon yapılmamaktadır.
 
 Bu ekrandan tek seferde sadece bir kişiye osu!supporter hediye edebilirsiniz. Başka bir kullanıcıya hediye etmek için, [osu!supporter mağaza sayfasına](https://osu.ppy.sh/store/products/supporter-tag) geri gidip başka bir kullanıcıyı eklemek için gereken adımları tekrarlamalısınız.
@@ -25,8 +28,6 @@ Bu ekrandan tek seferde sadece bir kişiye osu!supporter hediye edebilirsiniz. B
 ### Ödeme yapmak
 
 İşiniz bittiği zaman, `Sepete Ekle` tuşuna basarak osu!store mağaza sepetinize ekleyin.
-
-![osu!store mağaza sepeti](img/shopping-cart.jpg?1 "içinde flyte için osu!supporter bulunan bir osu!store mağaza sepeti")
 
 Satın alımı yapmak için hazır olduğunuz zaman, [mağaza sepetinize](https://osu.ppy.sh/store/cart) gidin ve `Ödeme` tuşuna basın. Ardından adımları takip ederek ödemenizi gerçekleştirin.
 
@@ -39,9 +40,9 @@ Satın alımı yapmak için hazır olduğunuz zaman, [mağaza sepetinize](https:
 
 ### Kullanıcı sayfası ve kullanıcı kartı
 
-![osu!supporter'lı kullanıcı sayfası](img/userpage.jpg?1 "osu!supporter'lı kullanıcı sayfası")
+![osu!supporter'lı kullanıcı sayfası](img/userpage.png?1 "osu!supporter'lı kullanıcı sayfası")
 
-![osu!supporter'lı kullanıcı kartı](img/usercard.png?1 "osu!supporter'lı kullanıcı kartı")
+![osu!supporter'lı kullanıcı kartı](img/usercard.png?2 "osu!supporter'lı kullanıcı kartı")
 
 osu!web'te, osu!supporter rozeti avatarınızın yanında ve kullanıcı kartınızda ülkenizin bayrağının yanında yer alır.
 

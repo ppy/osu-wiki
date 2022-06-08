@@ -1,5 +1,5 @@
 ---
-needs_cleanup: true
+needs_cleanup: true # À jour par rapport à `en.md`
 ---
 
 <!-- TODO: some outdated info and this could be simplified a lot. it's a pretty long read for what you get -->
@@ -72,7 +72,7 @@ Pour regarder si le BPM est correct ou non, allez directement vers le milieu ou 
 
 Une musique est constituée de stanzas (parties répétitives). Cette répétition suit le même motif dans une certaine période de temps (comme par exemple "PataPataPataPon", "DonDonDonKat", "SnareSnareSnareCymbal", "TapTapTapClap" ou "Hallelujah"). Ceci est plus compréhensible en utilisant un [métronome](https://webmetronome.com). Si vous voulez, vous pouvez lire [l'article à propos des mesures](https://en.wikipedia.org/wiki/Time_signature) ou aller faire un tour sur [le post d'Alace](https://osu.ppy.sh/community/forums/topics/20998).
 
-Nous avons donc besoin de trouver à quel moment démarrer le métronome, c'est à dire trouver un temps fort appelé downbeat ([plus d'informations ici](https://fr.wikipedia.org/wiki/Temps_(musique)). Il est en général assez simple à trouver ; au moment des downbeats, l'intensité de la musique et des paroles augmente, et vous pouvez quelque fois entendre des hitsounds de fin. Si le downbeat est situé au même endroit que la ligne rouge dans votre map, alors tout est bon. Si non, vous devez le corriger en changeant l'offset de la musique. Allez sur le bon endroit dans la musique (mettez le diviseur de mesure dans le coin en haut à droite sur 1/2 ou 1/4 si nécessaire), puis appuyez sur F6 pour aller dans l'onglet Timing. Sélectionnez votre offset rouge (il y a un point rouge juste à côté) et appuyez sur le bouton "Use current time" sur la gauche. Ensuite, en utilisant la même technique, déplacez-le jusqu'au tout premier downbeat de la musique, car cela affecte les pulsations du logo d'osu! dans le menu principal et les objets durant les kiai times. 
+Nous avons donc besoin de trouver à quel moment démarrer le métronome, c'est à dire trouver un temps fort appelé downbeat ([plus d'informations ici](https://fr.wikipedia.org/wiki/Temps_(musique)). Il est en général assez simple à trouver ; au moment des downbeats, l'intensité de la musique et des paroles augmente, et vous pouvez quelque fois entendre des hitsounds de fin. Si le downbeat est situé au même endroit que la ligne rouge dans votre beatmap, alors tout est bon. Si non, vous devez le corriger en changeant l'offset de la musique. Allez sur le bon endroit dans la musique (mettez le diviseur de mesure dans le coin en haut à droite sur 1/2 ou 1/4 si nécessaire), puis appuyez sur F6 pour aller dans l'onglet Timing. Sélectionnez votre offset rouge (il y a un point rouge juste à côté) et appuyez sur le bouton "Use current time" sur la gauche. Ensuite, en utilisant la même technique, déplacez-le jusqu'au tout premier downbeat de la musique, car cela affecte les pulsations du logo d'osu! dans le menu principal et les objets durant les kiai times. 
 
 Il ne nous reste maintenant que la mesure à configurer, c’est à dire tout simplement le nombre de battements forts dans la musique. Quand elle est bien configurée, le premier battement du métronome va toujours coïncider avec un battement fort, et si ce n'est pas le cas, allez dans le menu du Timing et changez le paramètre "Time signature".
 
@@ -86,7 +86,7 @@ Dans la section Time signature, nous avons
 
 La phase de test est le moment où nous allons mettre les vraies notes dans la beatmap, comme si on écrivait des symboles musicaux sur une partition musicale. Appuyez sur `F1` ou sur le bouton "Compose" dans l'éditeur et posez quelques notes pour que vous puissiez ensuite les toucher simplement.
 
-Les notes ne devraient pas apparaître immédiatement dans les premières secondes de la map. Donnez-vous un peu de temps pour vous habituer au rythme de la musique et commencez avec quelques sliders ;
+Les notes ne devraient pas apparaître immédiatement dans les premières secondes de la beatmap. Donnez-vous un peu de temps pour vous habituer au rythme de la musique et commencez avec quelques sliders ;
 Mettez les notes sur les lignes blanches (diviseur de mesure sur 1/1 ; "temps fort"), et uniquement sur les lignes blanches (n'utilisez pas encore le 1/2 ou le 1/4).
 
 Après le mapping, nous allons utiliser le mode Test (vous pouvez le lancer en appuyant sur F5), qui possède un système de feedback assez pratique : il nous montre la différence de temps entre le moment où une note apparaît dans l'éditeur et le moment où l'on clique dessus. Si vous n'avez pas de problème d'audition, de rythme, de réaction, de précision ou de carte son (ou de paranoïa), vous pouvez continuer. Sinon, ne testez pas le timing vous-même. Demandez plutôt à quelqu'un d'autre de le faire à votre place. Vous pouvez demander cela dans le canal \#mapping du tchat.
@@ -146,7 +146,7 @@ Ces étapes doivent être répétées jusqu’à la fin de la musique. Au final,
 
 L'algorithme pour les accélérations/décélérations du timing est légèrement différent :
 
-1. Trouvez un endroit où le tempo de la musique change. Créez un nouvel offset (si possible, sur une ligne blanche). Ensuite, zoomez l’échelle de la chronologie de la map (Alt + molette de la souris ou appuyez sur le bouton "+" juste à côté de la chronologie) ;
+1. Trouvez un endroit où le tempo de la musique change. Créez un nouvel offset (si possible, sur une ligne blanche). Ensuite, zoomez l’échelle de la chronologie de la beatmap (Alt + molette de la souris ou appuyez sur le bouton "+" juste à côté de la chronologie) ;
 2. Posez une note deux temps après le changement et appliquez-lui un hitsound (par exemple, un hitsound finish du [sampleset](/wiki/Beatmap_Editor/Compose) soft)). Baissez la vitesse de lecture de la musique et écoutez-la quelques fois. Appuyez sur Maj et bougez minutieusement la note vers l'avant ou vers l'arrière dans la chronologie, puis réécoutez-là. Répétez cette étape jusqu'à ce que vous trouviez la meilleure position où la note est synchronisée avec la musique ;
 3. Sélectionnez la note et double-cliquez dessus, tout en faisant en sorte de ne pas décaler la note par accident après que vous l'ayez cliquée. Créez un nouvel offset juste dessus ;
 4. Augmentez/Réduisez le BPM de l'offset juste avant, regardez la différence entre le tick juste avant le nouvel offset et l'offset lui-même. Votre but est d'enlever cette différence en changeant le BPM de la première section, pour que le début de la nouvelle section soit placé exactement lors d'un tick de l'ancien offset.
@@ -180,7 +180,7 @@ Au bout du compte, vous devriez retenir ces quelques conseils importants :
 Vous devriez seulement aider d'autres personnes au niveau du timing si :
 
 - Vous avez une bonne expérience en timing.
-- La beatmap possède de grosses erreurs de timing (la musique est à 175 BPM mais la map est à 170 BPM).
+- La beatmap possède de grosses erreurs de timing (la musique est à 175 BPM mais la beatmap est à 170 BPM).
 - Vous savez ce que vous faites. Ne vous dépêchez pas d'aller aider des gens pour du multitiming, à part si vous êtes réellement sûr que vous allez arriver à maintenir et corriger (si nécessaire) le résultat donné par le mapper durant tout le processus de classement, et que le résultat que vous allez donner va être correct ou au moins plus précis.
 
 C'est tout ce que vous devriez vraiment savoir à propos du timing. Même si ce guide est écrit pour réduire la quantité de beatmaps mal timées, il n'est sûrement pas parfait. N'hésitez pas à demander autour de vous si vous avez des problèmes, puisque le timing n'est absolument pas un sujet simple à maîtriser.

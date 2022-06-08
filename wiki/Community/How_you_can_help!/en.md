@@ -18,33 +18,41 @@ In order to keep the official community hubs safe, osu! has a dedicated moderati
 
 Fortunately, it is still easy for you to help keep everything safe here. The following are just a few of the many ways you can help:
 
-- Follow your favourite channels in the [osu! in-game chat](/wiki/Client/Interface/Chat_console), or on the forums.
+- Follow your favourite channels in the [osu! in-game chat](/wiki/Client/Interface/Chat_console), or participate on the forums.
 - If you see something happening that you think is inappropriate or disturbing in any way, use [the `!report` command](/wiki/Reporting_bad_behaviour) in the in-game chat to notify the moderators of it.
 
 ## Help other community members
 
 If you encounter someone who has an issue with the game, lend them a hand! Whether it is a driver issue, a beatmap question, or gameplay question, if you can answer it, you can help the person in solving their problem.
 
-The following outline just a few of the ways you can help out others:
+<!-- TODO: add ways to help outside of forums -->
 
-- Choose a forum that sparks your interest:
+The following outlines how you can get started helping others on the forum:
+
+- Choose a forum that sparks your interest, e.g.:
   - [Help](https://osu.ppy.sh/community/forums/5)
   - [Mapping Discussion](https://osu.ppy.sh/community/forums/56)
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
+  - [Skinning](https://osu.ppy.sh/community/forums/15)
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
-- Mark the forum as read using the link at bottom.
-- Follow any new threads, reading each one and helping-out when you can; you can use the unread icons to make sure you keep up.
+- Read trough the forums pinned posts to learn the subforum-specific rules and any useful info that may be there.
+- Use the `Mark forum as read` button on the top.
+- Follow any new threads, reading each one and help out when you can—you can use the unread icons to make sure you keep up.
 - Read the [available guides](/wiki/Guides) to polish-up your osu! knowledge. If the guides in there don't satisfy you, then you can try contributing to them!
 
 ## Help check/mod beatmaps!
 
-osu! has a dedicated team of reviewers to check if the [beatmaps](/wiki/Beatmap) are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector:
+osu! has a dedicated team of reviewers, the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), to check if submitted [beatmaps](/wiki/Beatmap) are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector:
 
 - Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) listing for any artists or songs you like and/or want to contribute to.
 - Play beatmaps in the [*Pending* or *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-and-pending) stages and leave feedback in the beatmap's discussion page.
 - Read the [Modding Guide](/wiki/Modding) and the [Ranking Criteria](/wiki/Ranking_Criteria) to know the basics of technical modding and what makes a beatmap rankable.
-- Join the `#mapping` and `#modreqs` on the in-game chat and either join-in on the conversation or just follow along.
+- Join the `#mapping` and `#modreqs` channels in the in-game chat and either join in on the conversation or just follow along.
 - If you have the time and dedication, make a [Modding Queue](https://osu.ppy.sh/community/forums/60) to give beatmap creators a place to request you for mods.
+
+## Give feedback on player progress or skins!
+
+Everyone loves to improve and requires feedback for this. Often users will ask for feedback on their gameplay progress in the [Gameplay & Rankings forum](https://osu.ppy.sh/community/forums/13) and others eagerly await feedback on their latest skin creation in the [Work In Progress Skins forum](https://osu.ppy.sh/community/forums/119).
 
 ## Help or join user-run community projects
 
@@ -56,14 +64,15 @@ Below are just a few of the ways you can contribute:
 - Check out what's going on in the [Development](https://osu.ppy.sh/community/forums/2) forum; this is where most serious projects happen.
   - Join the [osu!dev Discord](https://discord.gg/ppy)! Even just following along and staying up-to-date with osu! development and projects is a good way to stay informed.
 - Join a [beatmap project](https://osu.ppy.sh/community/forums/53) and learn how fun collaborating with others can be!
-- Start your own project! Whether it's bringing back dancing pippi, or just making something cool for osu!, anything is accepted!
+- Start your own project or join someone elses! Whether it's bringing back dancing pippi, or just making something cool for osu!, anything is accepted!
+  - Check out a [list of popular projects](/wiki/Community/Projects).
 
 ## Contribute to the future of osu!
 
-Started in 2017, the osu!lazer project is the current focus of [the osu! team](/wiki/People/The_Team), along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
+Started in 2017, the osu!(lazer) project is the current focus of [the osu! team](/wiki/People/The_Team), along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
 
-- Helping with the [osu!lazer](https://github.com/ppy/osu) project. There is so much to implement on the new version of osu!, and you can help make it happen!
-- Make the [new website](https://github.com/ppy/osu-web) even better.
+- Helping with the [osu!(lazer)](https://github.com/ppy/osu) project. There is so much to implement on the new version of osu!, and you can help make it happen!
+- Make the [website](https://github.com/ppy/osu-web) even better.
 
 ## Avoid being negative! Make people happy!
 

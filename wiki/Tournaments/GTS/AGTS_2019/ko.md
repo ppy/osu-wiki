@@ -3,7 +3,7 @@ tags:
   - AGTS 2019
   - AGTS
   - GTS
-outdated: true
+outdated_translation: true
 ---
 
 # Advanced Global Taiko Showdown 2019
@@ -486,34 +486,34 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
    - 팀원 교체에 대한 제한은 없습니다.
    - 연결 끊김에 대한 규칙은 일반 대전과 동일합니다.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "아르헨티나"
+[flag_AT]: /wiki/shared/flag/AT.gif "오스트리아"
+[flag_AU]: /wiki/shared/flag/AU.gif "오스트레일리아"
+[flag_BR]: /wiki/shared/flag/BR.gif "브라질"
+[flag_CA]: /wiki/shared/flag/CA.gif "캐나다"
+[flag_CL]: /wiki/shared/flag/CL.gif "칠레"
+[flag_CN]: /wiki/shared/flag/CN.gif "중국"
+[flag_DE]: /wiki/shared/flag/DE.gif "독일"
+[flag_DK]: /wiki/shared/flag/DK.gif "덴마크"
+[flag_EC]: /wiki/shared/flag/EC.gif "에콰도르"
+[flag_ES]: /wiki/shared/flag/ES.gif "스페인"
+[flag_FR]: /wiki/shared/flag/FR.gif "프랑스"
+[flag_GB]: /wiki/shared/flag/GB.gif "영국"
+[flag_HK]: /wiki/shared/flag/HK.gif "홍콩"
+[flag_ID]: /wiki/shared/flag/ID.gif "인도네시아"
+[flag_JP]: /wiki/shared/flag/JP.gif "일본"
+[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
+[flag_MX]: /wiki/shared/flag/MX.gif "멕시코"
+[flag_MY]: /wiki/shared/flag/MY.gif "말레이시아"
+[flag_NL]: /wiki/shared/flag/NL.gif "네덜란드"
+[flag_NO]: /wiki/shared/flag/NO.gif "노르웨이"
+[flag_PH]: /wiki/shared/flag/PH.gif "필리핀"
+[flag_PL]: /wiki/shared/flag/PL.gif "폴란드"
+[flag_PT]: /wiki/shared/flag/PT.gif "포르투갈"
+[flag_RU]: /wiki/shared/flag/RU.gif "러시아"
+[flag_SE]: /wiki/shared/flag/SE.gif "스웨덴"
+[flag_SG]: /wiki/shared/flag/SG.gif "싱가포르"
+[flag_TH]: /wiki/shared/flag/TH.gif "태국"
+[flag_TW]: /wiki/shared/flag/TW.gif "대만"
+[flag_US]: /wiki/shared/flag/US.gif "미국"
+[flag_VE]: /wiki/shared/flag/VE.gif "베네수엘라"

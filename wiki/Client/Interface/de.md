@@ -1,203 +1,325 @@
----
-outdated: true
----
+# Benutzeroberfläche
 
-# Interface (Deutsch)
+Dieser Artikel erklärt alles, was du über die Benutzung des Spiel-Clients von osu! wissen musst. Hier findest du Informationen über die Songauswahl, die Rangliste sowie den Ergebnisbildschirm. Beim Starten des Spiel-Clients siehst du den folgenden Bildschirm:
 
-![](img/intro-screen.jpg "Einführungsbildschirm")
+![](img/intro-screen-DE.jpg "Einführungsbildschirm")
 
 ## Hauptmenü
 
-![](img/main-menu.jpg "Hauptmenü")
+![](img/main-menu-DE.jpg "Hauptmenü")
 
-Das \[1\] osu! Logo pulsiert nach dem [BPM](/wiki/Beatmapping/Beats_per_minute) des Liedes, das gerade im Hauptmenü spielt. Wenn kein Lied abgespielt wird, pulsiert es in einer langsamen Rate. Die Tastenkombination steht in der Klammer
-
-- \[2\] Klicke auf Play (P) oder auf dem Logo, um zum 2. Einführungsbildschirm zu gelangen.
-- \[3\] Klicke auf Edit (E), um zur Songauswahl für den [Editor](/wiki/Client/Beatmap_editor) zu kommen.
-- \[4\] Klicke auf Options (O), um zu den Einstellungen zu gelangen.
-- \[5\] Klicke auf Exit (Esc), um osu! zu beenden.
-- \[6\] Ein zufälliger, nützlicher Tipp wird unterhalb des Menüs angezeigt.
-- \[7\] In der unteren linken Ecke ist ein Link zur osu! Webseite.
-- \[8\] Verbindungsergebnisse zum Bancho !
-- \[9\] In der unteren rechten Ecke sind die Steuerelemente für den [Chat](/wiki/Community/Internet_Relay_Chat) (F8&F9).
-- \[10\] Oben rechts ist die osu! Jukebox, welches Lieder in zufälliger Reihenfolge abspielt.
-- \[11\] Oben mittig wird angezeigt, wie viele Maps man hat, wie lange osu! Schon läuft und die Uhrzeit.
-- \[12\] Oben links ist dein User-Panel, klick darauf, um dir die Benutzereinstellungen anzeigen zu lassen.
-
-### Benutzereinstellungen
-
-![](img/user-options.jpg "Benutzereinstellungen")
-
-Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugang zu ihren Benutzereinstellungen. Sie haben währenddessen keinen Zugang zum Chat. Um ein Element auszuwählen, können sie auch einfach die dazugehörige Zahl betätigen.
-
-1. **View Profile**: Öffnet ihre Profilseite in ihrem Browser.
-2. **Change Active User**: Öffnet den Account-Setup-Box, welches ihnen erlaubt sich einzuloggen, auszuloggen und sich mit einen neuen Account zu registrieren.
-3. **Change Avatar**: Öffnet eine Seite im Browser, um den Avatar zu bearbeiten.
-4. **Close** : Schließt das Fenster.
-
-## Spielmenü
-
-![](img/play-menu.jpg "Spielmenü")
-
-- Klick auf Play (P), um alleine zu spielen.
-- Klick auf Multi (M), um mit anderen zu spielen. Sie gelangen dann zum Multiplayer-Bereich.
-- Klick auf Back, um wieder zurück zum Hauptmenü zu gelangen.
-
-### Multiplayer-Lobby
-
-*Vollständige Erklärung: [Multiplayer](/wiki/Gameplay/Multiplayer)*
-
-![](img/multi-lobby.jpg)
-
-![](img/multi-room.jpg)
-
-### Songauswahl
-
-![](img/song-selection.jpg "Songauswahl")
-
-Note: Sie können den jeweiligen Modus im Song-Auswahl durch das dazugehörige transparente Bild erkennen.
-
-![](/wiki/shared/mode/osu.png) ist [osu!](/wiki/Game_mode/osu!), ![](/wiki/shared/mode/taiko.png) ist [osu!taiko](/wiki/Game_mode/osu!taiko), ![](/wiki/shared/mode/catch.png) ist [osu!catch](/wiki/Game_mode/osu!catch) und ![](/wiki/shared/mode/mania.png) ist [osu!mania](/wiki/Game_mode/osu!mania)
-
-Da auf diesem Bildschirm zu viele Elemente sind und es sonst zu unübersichtlich wird, konzentrieren wir uns für jetzt auf einem bestimmten Teil des Bildschirmes. Wir beginnen oben von links nach rechts und arbeiten uns langsam nach unten.
-
-![](img/metadata-comparison.jpg)
-
-Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche im osu! Jukebox abgespielt wurde. Die BPM-Anzeige zeigt den größten und niedrigsten Wert der Beatmap an. "Objekte" gibt die vollständige Anzahl von [Hit Objekten](/wiki/Hit_object) in den Beatmap wieder. Ein ![](/wiki/shared/icon/heart.gif)Herz Symbol an der oberen linken Ecke kennzeichnet die Beatmap als Ranked, während ein ![](/wiki/shared/icon/flame.gif)Flamen Symbol die Beatmap als Approved kennzeichnet. Der Unicode-Titel wird benutzt, wenn in den Einstellungen die Option ["Metadaten in Originalsprache anzeigen"](/wiki/Client/Options) aktiviert ist und wenn auch Unicodes im Titel/Artist der Beatmap vorhanden sind.
-
-- Style: {Quelle} ({Artist}) - {Titel} \[{Schwierigkeitsstufe}\]
-
-![](img/beatmap-filters.jpg)
-
-Klick auf eines der Tabs, **um deine Songliste nach gewissen Kriterien zu sortieren.**
-
-| Gruppe | Sortierung |
-| :-- | :-- |
-| Nach Künstler | Nach Künstler |
-| Nach BPM | Nach BPM |
-| Nach Ersteller | Nach Ersteller |
-| Nach Importdatum | Nach Importdatum |
-| Nach Schwierigkeit | Nach Schwierigkeit |
-| Nach Länge | Nach Länge |
-| Nach Modus | Nach erreichtem Rang |
-| Nach erreichtem Rang | Nach Titel |
-| Nach Titel |
-| Sammlungen |
-| Favoriten |
-| Meine Maps |
-| Ranked-Status |
-| Zuletzt gespielt |
-
-![](img/search-bar.jpg)
-
-Tippen sie an einer beliebigen Stelle in der Songauswahl etwas ein und das Eingegebene wird an dieser Stelle erscheinen (die [Chat Konsole](/wiki/Client/Interface/Chat_console) muss geschlossen sein, ansonsten wird die Eingabe als Chattext erfasst). Zur selben Zeit werden nur die **Beatmaps gelistet, dessen Informationen** (Songkünstler, Songname, Mapper, Namen der Schwierigkeitsstufen, Tags) **mit dem Eingegebenen übereinstimmen.**
+- \[1\] Der [osu!-Cookie](/wiki/Client/Interface/Cookie). Beim Anklicken wird das Hauptmenü geöffnet. Er pulsiert abhängig von den [BPM](/wiki/Beatmapping/Beats_per_minute) der Musik und Balken erstrecken sich um den Cookie, die das Audiospektrum visualisieren. Wenn kein Song spielt, pulsiert der Cookie mit langsamen 60 BPM.
+- \[2\] Klicke auf `Play` (oder drücke `P`), um osu! entweder für dich selbst oder mit anderen zu spielen.
+- \[3\] Klicke auf `Edit` (oder drücke `E`), um eine [Beatmap](/wiki/Beatmap) zu editieren.
+- \[4\] Klicke auf `Options` (oder drücke `O`), um die [Optionsleiste](/wiki/Client/Options) zu öffnen.
+- \[5\] Klicke auf `Exit` (oder drücke `Esc`), um das Spiel zu verlassen.
+- \[6\] Ein zufälliger, nützlicher Tipp.
+- \[7\] Das [ppy](https://ppy.sh/)-Logo zusammen mit den Urheberrechtsinformationen. Beim Anklicken wird man zur [osu!-Webseite](https://osu.ppy.sh/home) weitergeleitet.
+- \[8\] Sobald Verbindungsprobleme mit dem [Bancho-Server](/wiki/Bancho_(server)) auftreten, wird hier ein gebrochenes Kettenglied angezeigt.
+- \[9\] Der [Chat](/wiki/Client/Interface/Chat_console) und zur linken Seite der Button für das erweiterte Chat-Fenster, welches alle aktuellen Online-Nutzer auflistet. Diese sind auch über `F8` bzw. `F9` entsprechend umschaltbar.
+- \[10\] Die Jukebox. Im Hauptmenü spielt sie Musik in zufälliger Reihenfolge. Siehe weiter unten für mehr Informationen über die Buttons in diesem Menü.
+- \[11\] Die Anzahl der verfügbaren [Beatmap-Schwierigkeitsgrade](/wiki/Beatmap/Difficulty) (trotz dessen, was hier steht), wie lange du schon spielst, und deine Systemuhr.
+- \[12\] Dein Profil. Beim Anklicken werden die [Benutzereinstellungen](#benutzereinstellungen) angezeigt.
 
 ---
 
-![](img/leaderboards.jpg "Online Rangtabelle")
+Die Jukebox hat die folgenden Buttons:
+
+| Button | Beschreibung |
+| :-: | :-- |
+| ![](img/jukebox/previous-track.jpg "Previous track") | Vorheriger Song |
+| ![](img/jukebox/play.jpg "Play") | Song abspielen |
+| ![](img/jukebox/pause.jpg "Pause") | Pause |
+| ![](img/jukebox/stop.jpg "Stop the music!") | Stoppe und setze den aktuellen Song auf den Anfang zurück. |
+| ![](img/jukebox/next-track.jpg "Next track") | Nächster Song |
+| ![](img/jukebox/view-song-info.jpg "View song info") | Schalte zwischen dem dauerhaften Anzeigen der Information des aktuellen Songs und dem Ausblenden nach einiger Zeit hin und her. |
+| ![](img/jukebox/jump-to-window.jpg "Jump To window") | Springe zu einem bestimmten Song. Du kannst nach Songs suchen oder nach Sammlungen filtern. |
+
+Die Jukebox kann auch über [Tastenkürzel](/wiki/Client/Keyboard_shortcuts#jukebox) bedient werden.
+
+### Benutzereinstellungen
+
+![](img/user-options-DE.jpg "Benutzereinstellungen")
+
+Greife auf diesen Dialog durch das Klicken deines Profils in der linken oberen Ecke im Hauptmenü zu. Du kannst jedes Element auch durch das Drücken der entsprechenden Nummer auswählen:
+
+- `1. Profil anzeigen`: Siehe deine Profilseite auf der Webseite an.
+- `2. Ausloggen`: Logge dich aus deinem Account aus. Nach dem Ausloggen wird dich das Spiel auffordern, dich wieder einzuloggen.
+- `3. Avatar ändern`: Öffne die [Seite zum Editieren des Avatars](https://osu.ppy.sh/home/account/edit#avatar) auf der Webseite.
+- `4. Schließen`: Schließe diesen Dialog.
+
+## Spielmenü
+
+![](img/play-menu-DE.jpg "Spielmenü")
+
+Nach dem Drücken von `Play` im Hauptmenü kannst du zwischen 3 Optionen auswählen:
+
+- Klicke auf `Solo` (oder drücke `P`), um für dich selbst zu spielen. Das führt dich weiter zur [Songauswahl](#songauswahl).
+- Klicke auf `Multi` (oder drücke `M`), um mit anderen Leuten zu spielen. Du wirst zur [Mehrspieler](/wiki/Gameplay/Multiplayer)-Lobby weitergeleitet.
+- Klicke auf `Back`, um zum Hauptmenü zurückzugelangen.
+
+### Mehrspieler-Lobby
+
+*Hauptseite: [Mehrspieler](/wiki/Gameplay/Multiplayer)*
+
+![](img/multi-lobby-DE.jpg "Mehrspieler-Lobby")
+
+Die Mehrspieler-Lobby erlaubt dir sowohl mit als auch gegen andere Spieler zu spielen.
+
+### Songauswahl
+
+![](img/song-selection-DE.jpg "Songauswahl")
+
+Das Symbol für den aktuell ausgewählten [Spielmodus](/wiki/Game_mode) kann in den Optionen unten links, über `Mode`, eingesehen werden. Das Symbol für den Modus ist auch leicht in der Mitte des Bildschirms sichtbar. Das sind die 4, die du sehen wirst:
+
+- ![](/wiki/shared/mode/osu.png) ist [osu!](/wiki/Game_mode/osu!)
+- ![](/wiki/shared/mode/taiko.png) ist [osu!taiko](/wiki/Game_mode/osu!taiko)
+- ![](/wiki/shared/mode/catch.png) ist [osu!catch](/wiki/Game_mode/osu!catch)
+- ![](/wiki/shared/mode/mania.png) ist [osu!mania](/wiki/Game_mode/osu!mania)
+
+Da es auf diesem Bildschirm zu viele Elemente gibt und es sonst zu unübersichtlich ist, werden im Folgenden einzelne Teile des Bildschirms in Unterabschnitten behandelt, beginnend von oben nach unten und von links nach rechts.
+
+### Beatmap-Informationen
+
+![](img/metadata-comparison-DE.jpg)
+
+Dieser Bereich zeigt **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche in der Jukebox abgespielt wird. Das Symbol oben links zeigt die [Beatmap-Kategorie](/wiki/Beatmap/Category) an, wobei diese Beatmap [gerankt](/wiki/Beatmap/Category#ranked) ist.
+
+Der Songtitel wird normalerweise in romanisierter Sprache angezeigt (unteres Bild), aber wenn du `Metadaten in Originalsprache` in den [Optionen](/wiki/Client/Options) auswählst, dann wird der Titel in Unicode dargestellt (oberes Bild). Der Schwierigkeitsstufenname der Beatmap wird zwischen eckigen Klammern (`[]`) angezeigt. Der Ersteller, der die Beatmap kreiert hat, wird unter dem Titel angezeigt und hier sind außerdem noch weitere Informationen zu sehen. Von links nach rechts bedeuten die Werte Folgendes:
+
+- **Dauer**: Die Gesamtlänge der Beatmap, von Anfang bis Ende, die Pausen mit eingeschlossen. Nicht zu verwechseln mit der [Drain-Zeit](/wiki/Gameplay/Drain_time).
+- **BPM**: *Beats Pro Minute*, das Tempo des Songs. Wenn hier zwei BPM sowie ein BPM in Klammern angezeigt wird, dann bedeutet das, dass sich die BPM während des Songs ändern. Es werden die langsamsten und die schnellsten BPM gezeigt und der Wert in den Klammern ist der häufigste BPM-Wert in der Beatmap.
+- **Objekte**: Die Gesamtanzahl an [Hit-Objekten](/wiki/Hit_object) in der Beatmap.
+- **Circles**: Die Gesamtanzahl der [Hit-Circles](/wiki/Hit_object/Hit_circle) (osu! und osu!taiko), [Früchte](/wiki/Hit_object/Fruit) (osu!catch) oder reguläre Noten (osu!mania) in der Beatmap.
+- **Slider**: Die Gesamtanzahl der [Slider](/wiki/Hit_object/Slider) (osu!), Trommelschläge (osu!taiko), [Juice-Streams](/wiki/Hit_object/Juice_stream) (osu!catch) oder Hold-Notes (osu!mania) in der Beatmap.
+- **Spinner**: Die Gesamtanzahl der [Spinner](/wiki/Hit_object/Spinner) (osu!), Dendens (osu!taiko) oder [Banana-Shower](/wiki/Hit_object/Banana) (osu!catch) in der Beatmap.
+- **OD**: Die [allgemeine Schwierigkeit](/wiki/Beatmapping/Overall_difficulty) von der Beatmap.
+- **HP**: Die [HP Drain-Rate](/wiki/Beatmapping/HP_drain_rate). Siehe den Artikel über [Gesundheit](/wiki/Gameplay/Health) für mehr Details.
+- **Star Rating**: Die [Sternebewertung](/wiki/Beatmapping/Star_rating) der Beatmap. Die Menge an Sternen ist auch leicht erkennbar im Beatmap-Karussell.
+
+### Gruppe und Sortierung
+
+![](img/beatmap-filters-DE.jpg)
+
+Klicke auf einen der Tabs, **um deine Songliste nach gewissen Kriterien zu sortieren**.
+
+#### Gruppe
+
+Diese Optionen organisieren Beatmaps nach mehreren erweiterbaren Gruppen:
+
+| Gruppierung | Beschreibung |
+| :-: | :-- |
+| `Ohne Gruppierung` | Beatmaps werden nicht gruppiert, aber dennoch in der Reihenfolge des ausgewählten Sortiermodus sortiert. |
+| `Nach Schwierigkeit` | Beatmaps werden nach ihrer Sternebewertung gruppiert, wobei die Sternebewertung zu einer Ganzzahl abgerundet wird. |
+| `Nach Künstler` | Beatmaps werden nach dem ersten Buchstaben im Künstlernamen gruppiert. |
+| `Zuletzt gespielt` | Beatmaps werden danach gruppiert, wann du sie zuletzt gespielt hast. |
+| `Sammlungen` | Das wird die von dir erstellten Sammlungen anzeigen. *Beachte, dass dies Beatmaps verstecken wird, die nicht in einer Sammlung enthalten sind!* |
+| `Nach BPM` | Beatmaps werden nach ihrer BPM in Vielfachen von 60 gruppiert. |
+| `Nach Ersteller` | Beatmaps werden nach dem ersten Buchstaben des Beatmap-Erstellers gruppiert. |
+| `Nach Importdatum` | Beatmaps werden danach gruppiert, wann sie hinzugefügt wurden, von heute bis vor 5+ Monaten. |
+| `Nach Länge` | Beatmaps werden nach ihrer Länge gruppiert: 1 Minute oder weniger, 2 Minuten oder weniger, 3, 4, 5, 10 und 10 Minuten oder mehr. |
+| `Nach Modus` | Beatmaps werden nach ihrem Spielmodus gruppiert. |
+| `Nach erreichtem Rang` | Beatmaps werden nach dem auf ihnen höchsten erreichten [Rang](/wiki/Gameplay/Grade) gruppiert. |
+| `Nach Titel` | Beatmaps werden nach dem ersten Buchstaben im Titel gruppiert. |
+| `Favoriten` | Nur Beatmaps, die du online favorisiert hast, werden angezeigt. |
+| `Meine Maps` | Nur Beatmaps, die du erstellt hast (d. h. dessen Ersteller mit deinem Profilnamen übereinstimmt), werden angezeigt. |
+| `Ranked-Status` | Beatmaps werden nach ihrem Status gruppiert: ranked, pending, not submitted, unknown oder loved. |
+
+Die ersten 5 Gruppierungen sind in den Tabs unter Gruppe und Sortierung verfügbar.
+
+#### Sortierung
+
+Sortiere Beatmaps in einer bestimmten Reihenfolge.
+
+| Sortierkriterium | Beschreibung |
+| :-: | :-- |
+| `Nach Künstler` | Beatmaps werden alphabetisch nach dem Künstler sortiert. |
+| `Nach BPM` | Beatmaps werden von der niedrigsten zur höchsten BPM sortiert. Für Beatmaps mit sich verändernden BPM wird der größte Wert verwendet. |
+| `Nach Ersteller` | Beatmaps werden alphabetisch nach dem Ersteller sortiert. |
+| `Nach Importdatum` | Beatmaps werden danach sortiert, wann sie zuletzt hinzugefügt wurden, von der Ältesten zur Neuesten. |
+| `Nach Schwierigkeit` | Beatmaps werden nach ihrer Sternebewertung sortiert, von der Leichtesten zur Schwersten. *Beachte, dass dadurch die Schwierigkeitsgrade einer Beatmap aufgeteilt werden!* |
+| `Nach Länge` | Beatmaps werden nach ihrer Länge sortiert, von der Kürzesten zur Längsten. |
+| `Nach erreichtem Rang` | Beatmaps werden nach dem auf ihnen höchsten erreichten Rang sortiert, vom Schlechtesten zum Besten. |
+| `Nach Titel` | Beatmaps werden alphabetisch nach dem Songtitel sortiert. |
+
+### Suche
+
+![](img/search-bar-DE.jpg)
+
+*Tipp: Du kannst die Chatkonsole oder die Optionsleiste nicht offen haben, wenn du nach etwas suchen möchtest. Ansonsten wird alles, was du tippst, als Text für den Chat oder als Suchanfrage in den Optionen interpretiert.*
+
+Nur Beatmaps, die den Kriterien deiner Suche entsprechen, werden angezeigt. Standardmäßig wird jede Suche mit den Künstlern, den Titeln, den Erstellern sowie den Tags der Beatmaps abgeglichen.
+
+Zusätzlich zum Durchschauen dieser Kategorien kannst du auch Filter benutzen, um andere Metadaten zu durchsuchen. Das funktioniert über die Verbindung der unterstützten Filter mit einem Wert (z. B. `ar=9`).
+
+Unterstützte Filter:
+
+| Filter | Beschreibung |
+| :-: | :-- |
+| `artist` | Name des Künstlers |
+| `creator` | Name des Beatmap-Erstellers |
+| `title` | Songtitel |
+| `difficulty` | Name des Schwierigkeitsgrads der Beatmap |
+| `ar` | [Approach-Rate](/wiki/Beatmapping/Approach_rate) |
+| `cs` | [Circle-Size](/wiki/Beatmapping/Circle_size) |
+| `od` | [Allgemeine Schwierigkeit](/wiki/Beatmapping/Overall_difficulty) |
+| `hp` | [HP Drain-Rate](/wiki/Beatmapping/HP_drain_rate) |
+| `key`, `keys` | Anzahl der Keys (nur osu!mania und konvertierte Beatmaps) |
+| `star`, `stars` | [Sternebewertung](/wiki/Beatmapping/Star_rating) |
+| `bpm` | Beats pro Minute |
+| `length` | Länge in Sekunden |
+| `drain` | [Drain-Zeit](/wiki/Gameplay/Drain_time) in Sekunden |
+| `mode` | Spielmodus. Das kann `osu`, `taiko`, `catch` oder `mania` sein sowie `o`/`t`/`c`/`m` in Kurzform. |
+| `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. |
+| `played` | Die Zeit in Tagen, seit wann zuletzt gespielt wurde |
+| `unplayed` | Zeigt nur ungespielte Beatmaps an. Dabei muss ein Vergleich mit einem leeren Wert verwendet werden (z. B. `unplayed=`). Der Vergleich selbst wird ignoriert. |
+| `speed` | Gespeicherte Scrollgeschwindigkeit in osu!mania. Immer 0 für ungespielte Beatmaps oder wenn die Option [`osu!mania-Scrollgeschwindigkeit für jede Beatmap merken`](/wiki/Client/Options#gameplay) ausgeschaltet ist. |
+
+Unterstützte Vergleiche:
+
+| Vergleich | Beschreibung |
+| :-: | :-- |
+| `=` oder `==` | Gleich |
+| `!=` | Nicht gleich |
+| `<` | Weniger als |
+| `>` | Größer als |
+| `<=` | Weniger als oder gleich |
+| `>=` | Größer als oder gleich |
+
+Du kannst auch eine Schwierigkeitsstufen- oder Beatmap-ID in deine Suche eingeben, um ein einzelnes Ergebnis zu bekommen.
+
+### Rangliste
+
+![](img/leaderboards-DE.jpg)
 
 Eine Vielzahl von Dingen wird in diesem Bereich angezeigt:
 
-- Wenn "Not submitted" angezeigt wird, dann handelt es sich um eine Beatmap, welches noch nicht durch den Beatmap Submission System auf die osu! Seite hochgeladen wurde.
-- Wenn "Update to latest version" erscheint, klick auf die Box, um die Beatmap mit der neusten Version auf der osu! Seite zu aktualisieren.
-  - **Hinweis:** Vorherige Versionen können nicht wiederhergestellt werden. Wenn sie die Beatmap aus irgendeinem Grund beibehalten wollen, erstellen sie entweder eine Sicherung oder updaten ihre Beatmap nicht.
-- Wenn "Latest pending version" erscheint, bedeutet es, dass die Beatmap auf der aktuellsten Version von der osu! Seite ist, aber noch nicht ranked ist.
-- Wenn "Kein Rekord vorhanden" erscheint, bedeutet es, dass sie noch keinen Score auf dieser Schwierigkeitsstufe im ausgewählten Modus erzielt haben.
-  - Hinweis: Dein Scores, die du im Multiplayer gemacht hast, werden nicht lokal gespeichert.
+- Wenn `Not submitted` angezeigt wird, dann handelt es sich um eine Beatmap, welche noch nicht über das [Beatmap Submission System](/wiki/Submission) auf die osu!-Webseite hochgeladen oder vom Ersteller gelöscht wurde.
+- `Update to latest version` erscheint, wenn eine neue Version der Beatmap zur Verfügung steht. Klicke auf die Box, um die Beatmap zu aktualisieren.
+  - *Hinweis: Sobald du eine Beatmap aktualisiert, werden alle dazugehörigen lokalen Scores gelöscht. Replays für lokale Scores können mit einem Rechtsklick darauf exportiert werden.*
+- Wenn `Latest pending version` erscheint, bedeutet das, dass die Beatmap auf die osu!-Webseite hochgeladen wurde, aber noch nicht gerankt ist.
+- Wenn Replays für die Beatmap in der Ansichtseinstellung existieren, dann werden diese anstatt einer Box angezeigt, die den Status gerankt/gespielt der Beatmap angibt. Das wird im oberen Bild gezeigt.
+  - Unter den öffentlichen Ranglisten (z. B. Global, Friends, usw.) wird dein höchster Score unten dargestellt sowie dein Rang auf der Rangliste.
+- Wenn `Kein Rekord vorhanden` erscheint, bedeutet es, dass noch keine Replays für die aktuelle Ansichtseinstellung vorhanden sind (das ist meistens in der lokalen Ansichtseinstellung zu sehen, wenn du gerade eine Beatmap heruntergeladen oder editiert hast).
 
-**Ranking Tabelle:**
+Dies sind die Ansichtseinstellungen:
 
-| Name | Verwendung |
-| :-- | :-- |
-| Lokale Rangliste | Zeigt die lokale Rangliste an. Scores aus dem Multiplayer werden nicht gespeichert. Mit das Drücken der "F2" Taste lässt sich eine verpackte Version des Replays erstellen. Kann möglicherweise in bestimmten Fällen nicht funktionieren. |
-| Nationale Rangliste | **osu!supporter erforderlich!** Zeigt ihren Rang in der nationalen Rangliste an (z. B. Deutschland). |
-| Globale Rangliste | Zeigt die globale Rangliste an. Hier werden die Top 50 Spieler der Map angezeigt, zusammen mit deren Ergebnisanzeige und einem vorhandenen Replay. Durch das Ansehen deren Replays wird es beim Spieler auf dessen Profilseite bei "Historical#Replays Watched History" mit aufgelistet. |
-| Globale Rangliste (Aktive Mods) | **osu!supporter erforderlich!** Zeigt die globale Rangliste mit Spielern, die den selben aktiven Mod/Mods verwendet haben, an. |
-| Freundesrangliste | **osu!supporter erforderlich!** Zeigt eine Rangliste mit allen ihren Freunden an. Funktioniert jedoch nicht bei [BanchoBot](/wiki/BanchoBot) und einer leeren Freundesliste. |
+- Lokale Rangliste
+- Nationale Rangliste\*
+- Globale Rangliste
+- Globale Rangliste (Aktive Mods)\*
+- Freundesrangliste\*
 
-Klicke auf das Sprechblasen-Icon, um zum **Schnellzugang zu dieser Map im Web** im Songauswahl zu gelangen:
+\*Benötigt [osu!supporter](/wiki/osu!supporter).
 
-- Drücke 1 oder auf die Fläche *Beatmap-Übersicht/Rekorde* und ihr Standard-Browser wird die Beatmap-Übersicht/Rekorde der aufgewählten Beatmap öffnen.
-- Drücke 2 oder auf die Fläche ''Beatmap-Thema" und ihr Standard-Browser wird den Thread zur ausgewählten Beatmap öffnen.
-- Drücke 3 oder auf die Fläche ''Schnellantwort" und ihr Standard-Browser wird die Seite zum Thread der ausgewählten Beatmap öffnen, wo sie direkt eine Post verfassen können.
-- Drücke 4, auf die Fläche *Abbrechen* oder auf die Taste Esc, um zur Songauswahl zurückzukehren.
+Klicke auf das Sprechblasensymbol, um einen **Schnellzugang zu dieser Beatmap im Web** für die ausgewählte Beatmap zu erhalten:
 
-Solange sie im **Schnellzugang zu dieser Map im Web** sind, können sie nicht den Chat und die erweiterte Chat Konsole benutzen.
+- Drücke `1` oder klicke auf die Fläche `Beatmap-Übersicht/Rekorde`, um die Beatmapseite für den ausgewählten Schwierigkeitsgrad in deinem Browser zu sehen.
+- Drücke `2` oder klicke auf die Fläche `Beatmap-Thema`, um die [Modding](/wiki/Modding)-Seite der Beatmap einzusehen.
+- Drücke `3` oder `Esc` oder klicke auf die Fläche `Abbrechen`, um zur Songauswahl zurückzukehren.
 
-![](img/beatmap-cards.jpg "Beatmap Songliste")
+### Beatmap-Karussell
 
-Die **Songliste zeigt alle Beatmaps an, die Sie heruntergeladen haben**. Die Farbe der Kästen kann sich je nachdem unterscheiden:
+![](img/beatmap-cards.jpg)
 
-- Rot: Diese Beatmap hat nur eine Schwierigkeitsstufe.
-- Rosa: Diese Beatmap wurde bis jetzt noch nicht gespielt (auch bei Beatmaps mit mehr als einer Schwierigkeitsstufe).
-- Orange: Diese Beatmap wurde mal gespielt (auch bei Beatmaps mit mehr als einer Schwierigkeitsstufe).
-- Weiß: Diese Beatmap ist gerade ausgewählt.
+Das Beatmap-Karussell zeigt alle verfügbaren Beatmaps an. Unterschiedliche Beatmaps können unterschiedlich farbige Boxen haben:
 
-Sie können sich durch die Songliste entweder mit \[1\] dem Mausrad, \[2\] der Pfeiltaste nach oben und unten, \[3\] durchs Halten der linken Maustaste oder \[4\] durchs Drücken der rechten Maustaste (auch bekannt als absolutes Scrollen) bewegen. Klicken Sie auf einen Kasten, um die Beatmap auszuwählen und um sich die Informationen dazu auf der oberen, linken Bereich, den High Score, den Rang, den Sie mit Ihrem High Score erzielt haben und weitere Dinge anzeigen zu lassen. \[1\] Klicken Sie ein weiteres Mal auf das Kästchen, \[2\] drücken Sie die Eingabetaste oder \[3\] auf das osu! Logo in der unteren, linken Ecke, um die Beatmap zu spielen.
+| Farbe der Box | Beschreibung |
+| :-: | :-- |
+| **Pink** | Diese Beatmap wurde bis jetzt noch nicht gespielt. |
+| **Orange** | Mindestens ein Schwierigkeitsgrad der Beatmap wurde abgeschlossen. |
+| **Hellblau** | Andere Schwierigkeitsgrade in derselben Beatmap, die angezeigt werden, sobald eine Beatmap erweitert wurde. |
+| **Weiß** | Aktuell ausgewählte Beatmap. |
 
-![](img/gameplay-toolbox.jpg "Auflistung aller verfügbaren Spielmodi")
+Du kannst durch die Beatmapliste mit dem Mausrad navigieren, in dem du die Maus ziehst, während du die linke Maustaste gedrückt hältst oder die rechte Maustaste drückst (bekannt als absolutes Scrollen), was die Scrollbar zu der Y-Position deiner Maus setzt. Eine weitere Möglichkeit, durch die Beatmapliste zu manövrieren, sind die Pfeiltasten nach oben und unten. Klicke auf eine Beatmap, um sie auszuwählen. Dann klicke sie nochmal, drücke `Enter` oder auf den osu!-Cookie in der unteren rechten Ecke, um die Beatmap zu spielen.
 
-Diese Sektion wird auch als Werkzeugbox bezeichnet. Wir uns in der Reihenfolge von links nach rechts durcharbeiten.
+### Gameplay-Toolbox
 
-Drücken Sie die "ESC"-Taste oder auf "Back", um zum Hauptmenü zurückzukehren.
+![](img/game-mode-selector-DE.jpg "Auflistung aller verfügbaren Spielmodi")
 
-Klicken Se auf "Mode", um **ein Liste mit allen verfügbaren Spielmodi in osu! anzeigen zu lassen**. Klicken Sie auf den gewünschten Modus und osu! wird zum entsprechenden Modusstyle wechseln und die dazugehörige Rangliste anpassen. Alternativ können Sie auch STRG und 1 (![](/wiki/shared/mode/osu.png)[osu!](/wiki/Game_mode/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_mode/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[osu!catch](/wiki/Game_mode/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_mode/osu!mania)) drücken, um schnell zum Modus zu wechseln.
+![](img/gameplay-toolbox-DE.jpg)
 
-![](img/game-modifiers.jpg "Spielmodifizierer")
+Diese Sektion wird auch als Werkzeugbox bezeichnet. Wir werden uns in der Reihenfolge von links nach rechts durcharbeiten.
 
-Klicken Sie auf "Mods" oder drücken Sie die F1 Taste, um in die **[Modauswahl](/wiki/Game_modifier)** zu gelangen.
+Drücke `ESC` oder auf den Button `Zurück`, um zum Hauptmenü zurückzukehren.
 
-In diesem Bereich können Sie sich alle für Ihren ausgewählten Modus verfügbaren Modifikationen (kurz "Mods") anzeigen lassen. Einige Mods erleichtern und andere erschweren das Gameplay, was sich auf dem Punktemultiplikator auswirken kann. Es gibt widerrum Mods, die weder die Beatmap erleichtern oder erschweren. [Relax](/wiki/Game_modifier/Relax), [Auto Pilot](/wiki/Game_modifier/Autopilot), [SuddenDeath](/wiki/Game_modifier/Sudden_Death) und noch paar weitere würden unter dieser Kategorie fallen. Bewegen Sie Ihren Cursor über den Mod, um sich die Beschreibung dazu anzeigen zu lassen. Klicken Sie auf den Mod, um ihn zu aktivieren oder um ihn zu deaktivieren. Der Punktemultiplikator zeigt den aktuellen Wert mit allen aktiven Mods an. Klicken Sie auf "Mods zurücksetzen" oder auf die 1, um alle aktivieren Mods aufeinmal zu deaktivieren. Klicken Sie auf "Schließen", auf die 2 oder auf die ESC-Taste, um zurück zur Songauswahl zu gelangen.
+Klicke auf den Button `Mode`, um eine Liste der verfügbaren Spielmodi in osu! anzuzeigen. Alternativ kannst du auch `Strg` und `1` (osu!), `2` (osu!taiko), `3` (osu!catch) oder `4` (osu!mania) drücken, um den Spielmodus zu ändern. Beim Wechseln zu einem anderen Modus wird auch die [Rangliste](/wiki/Ranking) ausgetauscht, was durch die Veränderung des angezeigten Rangs ersichtlich ist.
 
-Während Sie in der Auswahl von Modifikationen sind, können Sie den Chat und den erweiterten Chat nicht verwenden.
+![](img/game-modifiers-DE.jpg "Spielmodifikationen")
 
-Klicken Sie auf "Random Map" oder die F2-Taste, damit Ihr Spiel **zufällig eine Beatmap aus Ihrer derzeitig, angezeigten Beatmapliste auswählt.**
+Klicke auf den Button `Mods` oder drücke `F1`, um in die **[Modauswahl](/wiki/Game_modifier)** zu gelangen.
 
-![](img/beatmap-options.jpg "Mögliche Optionen für eine Beatmap")
+In diesem Bereich kannst du Modifikationen (kurz "Mods") zum Spielverlauf hinzufügen. Einige Mods verringern die Schwierigkeit und verwenden einen Multiplikator, der den von dir erreichten Punktestand verringert. Dagegen steigern manche Mods die Schwierigkeit, aber verwenden einen Multiplikator, der den von dir erreichten Punktestand erhöht. Außerdem beeinflussen manche Mods den Spielverlauf auf eine andere Weise. [Relax](/wiki/Game_modifier/Relax) und [Auto Pilot](/wiki/Game_modifier/Autopilot) fallen unter diesen Kategorie.
 
-Klicken Sie auf "Beatmap Options", drücken Sie die F3 Taste oder mit Rechtsklick auf die Beatmap, um sich **die möglichen Kommandos der ausgewählten Beatmap** anzeigen zu lassen.
+Bewege deinen Cursor über das Modsymbol, um dir die Beschreibung dazu anzeigen zu lassen. Klicke auf das Modsymbol, um die Mod zu aktivieren oder zu deaktivieren. Einige Mods, wie z. B. Double Time, haben mehrere Variationen — klicke nochmals auf die Mod, um durch die Variationen durchzuwechseln. Der Punktemultiplikator zeigt den kombinierten Effekt an, den alle selektierten Mods auf deinen Punktestand haben werden. Klicke auf `Mods zurücksetzen` oder drücke `1`, um alle aktuell ausgewählten Mods zu deaktivieren. Klicke auf `Schließen`, drücke `2` oder `ESC`, um zurück zur Songauswahl zu gelangen.
 
-- Drücke Sie die 1 oder auf "Sammlungen verwalten", um die ausgewählte Schwierigkeitsstufe oder die ganze Beatmap zu einer Sammlung hinzuzufügen. Sie können sich Ihre Liste an Sammlungen, wie schon oben genannt, anzeigen lassen.
-- Drücke Sie die 2 oder auf "Löschen...", um entweder die ausgewählte Schwierigkeitsstufe oder die ganze Beatmap von Ihrer Festplatte zu löschen. Sie werden sicherheitshalber ein weiteres Mal gefragt, ob Sie sich sicher sind die Beatmap zu löschen.
-- Drücke Sie die 3 oder auf "Aus Ungespielt entfernen", um die ungespielte Beatmap als "Gespielt" zu markieren.
-- Drücke Sie die 4 oder auf "Alle lokalen Rekorde löschen", um alle lokalen Rekorde, die Sie auf der Beatmap erlangt haben und sich noch in Ihrem Verzeichnis befinden, zu löschen.
-- Drücke Sie die 5 oder auf "Bearbeiten", um die ausgewählte Beatmap im Editor zu öffnen.
-- Drücke Sie die 6 oder auf "Abbrechen", um zurück zur Songauswahl zu gelangen.
+Klicke auf den Button `Random` oder drücke `F2`, damit das Spiel **zufällig durch alle Beatmaps blättert und eine davon auswählt.**
 
-Während Sie sich in der Auswahl der Beatmap Optionen befinden, können Sie nicht den Chat oder den erweiterten Chat verwenden.
+*Tipp: Du kannst `Shift` und den Button `Random` oder `F2` drücken, um zu der vorher gewählten Beatmap zurückzukehren.*
 
-## Rankingtabelle
+![](img/beatmap-options-DE.jpg "Mögliche Optionen für eine Beatmap")
 
-### Rangtabelle
+Klicke auf `Beatmap Options`, drücke `F3` oder mit Rechtsklick auf die Beatmap, um **die möglichen Optionen für die ausgewählte Beatmap** zu öffnen.
 
-In diesem Bereich wird Ihren Rang, den Sie nach erfolgreichen Abschluss der Beatmap erlangt haben, angezeigt. Um zur Online Score Führungstabelle zu gelangen, scrollen Sie einfach hinunter.
+- Drücke `1` oder klicke auf `Sammlungen verwalten`, um den Sammlungsmanager zu öffnen — hier kannst du bereits existierende Sammlungen verwalten sowie ausgewählte Schwierigkeitsgrade oder die gesamte Beatmap zu einer Sammlung hinzufügen oder entfernen.
+- Drücke `2` oder klicke auf `Löschen...`, um \[1\] den aktuell ausgewählten Schwierigkeitsgrad, \[2\] die aktuell ausgewählte Beatmap oder \[3\] **alle sichtbaren Beatmaps** zu löschen.
+  - Beachte, dass gelöschte Beatmaps in den Papierkorb verschoben werden.
+- Drücke `3` oder klicke auf `Aus Ungespielt entfernen`, um die ungespielte Beatmap als gespielt zu markieren (d. h., dass sich die Boxfarbe von pink zu orange verändert).
+- Drücke `4` oder klicke auf `Alle lokalen Rekorde löschen`, um alle lokalen Rekorde zu löschen, die du auf der Beatmap erlangt hast.
+- Drücke `5` oder klicke auf `Bearbeiten`, um die ausgewählte Beatmap im osu!-Editor zu öffnen.
+- Drücke `6` oder klicke auf `Abbrechen`, um zurück zur Songauswahl zu gelangen.
 
-**Hinweis:** Das Aussehen des Ranges kann je nachdem, welchen Skin Sie benutzen, variieren.
+Klicke auf **dein Benutzerprofil**, um das Menu für die **Benutzereinstellungen** zu öffnen.
 
-### Online Score Führungstabelle
+Klicke auf den **[osu!-Cookie](/wiki/Client/Interface/Cookie)**, um **die ausgewählte Beatmap zu starten**.
 
-Note: The back transparent leitmotif is based on what mode you played in.
+## Ergebnisanzeige
 
-![](/wiki/shared/mode/osu.png)"osu!" is [osu!](/wiki/Game_mode/osu!), ![](/wiki/shared/mode/taiko.png)"Drum" is [osu!taiko](/wiki/Game_mode/osu!taiko), ![](/wiki/shared/mode/catch.png)"Apple" is [osu!catch](/wiki/Game_mode/osu!catch) and ![](/wiki/shared/mode/mania.png)"Piano" is [osu!mania](/wiki/Game_mode/osu!mania)
+![](img/results-osu.jpg "Genauigkeit in osu!")
 
-![](img/extended-results-screen.jpg "osu! Online Score")
+In diesem Bereich wird dein Rang angezeigt, den du nach einem erfolgreichen Abschluss der Beatmap erlangt hast. Du kannst auf deine Online-Ergebnisse durch Herunterscrollen oder durch Drücken des offensichtlichen Buttons zugreifen.
 
-Dies ist Ihre Online Führungstabelle. Ihre lokale Rangliste listet wie gewöhnlich Ihren Score sowie Ihren Namen auf.
+Weiter unten sind die Ergebnisanzeigen aus den anderen Spielmodi.
 
-1. Sie können hier Ihren Namen ändern, der im lokalen Ranking angezeigt werden wird.
-2. Ihr Player-Panel. Zeigt Ihren pp, pp Rang, gesamter Score, Accuracy, sowie den Mode an, den Sie gespielt haben. Ihr Levelbalken wird auch je nach Score steigern.
-3. Your options regarding the Beatmap.
-   1. Export Replay as .osr: Export Ihren Replay als .osr Datei, den Sie ohne Weiteres wo hinaufladen können.
-   2. Online Favourite: Fügt die Beatmap zu Ihren Online Favoriten hinzu. Ihre Favoriten werden auf Ihrem Profil unter Beatmaps->Favourite Beatmaps aufgelistet.
-4. Selbsterklärend. Wird im Offline-Modus nicht erscheinen.
-   1. Map Rank: Zeigt Ihren derzeitigen Rank auf der Map an.
-   2. Overall: Zeigt Ihren derzeitigen Rank im Score Ranking an.
-   3. Accuracy: Zeigt den Durchschnittswert Ihrer Accuracy aus allen Beatmaps an. Wird nur dann neu berechnet, wenn Sie Ihren alten Score überboten haben sollten.
-   4. Ranked Score: Ihr Ranked Score. Bei einer Approved Beatmap wird die Punkteanzahl nicht zum Score Ranking dazu gezählt.
-   5. Total Score: Gesamter Score. Stetig am steigen, selbst wenn Sie bei einer fehlschlagen sollten bzw. Ihren alten Score nicht überboten haben. Beeinflusst den Levelbalken.
-   6. To Next Rank: Zeigt an, wie viele Punkte Ihnen bis zum nächsten Rang noch fehlen.
-5. Das selbe wie bei 4., ist jedoch für den monatlichen [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts) reserviert.
-6. Achievement freigeschalten. Jeder Achievement, den Sie freischalten, wird hier unten angezeigt. Eine vollständige Liste an freischaltbaren Achievement können Sie [hier](/wiki/Medals) finden.
-7. Beatmap Song sowie dessen Anzahl an Plays und dessen Passrate.
-8. Beatmap Rating. Entscheiden Sie nach persönlichen Ermessen.
-9. Zur Songauswahl zurückkehren.
+![](img/results-taiko.jpg "Genauigkeit in osu!taiko")
+
+![](img/results-mania.jpg "Genauigkeit in osu!mania")
+
+![](img/results-catch.jpg "Genauigkeit in osu!catch")
+
+### Erweiterte Ergebnisanzeige
+
+![](img/extended-results-screen-DE.jpg "Ein Beispiel eines osu!-Scores")
+
+Dies ist deine Online-Rangliste. Du kannst durch Herunterscrollen von der Ergebnisanzeige aus darauf zugreifen. Deine lokale Rangliste listet wie gewöhnlich deinen Score sowie deinen Namen auf.
+
+- \[1\] Dein Benutzerprofil. Dort werden deine [Performance-Punkte (pp)](/wiki/Performance_points), der globale Rang, der gesamte Punktestand, die allgemeine [Genauigkeit](/wiki/Gameplay/Accuracy) und der Levelbalken angezeigt.
+- \[2\] `Save replay to Replays folder`: Du kannst dir das Replay später anschauen, indem du es entweder über die lokale Rangliste öffnest oder in das Verzeichnis `Replays` wechselst und dort mit einem Doppelklick ausführst.
+- \[3\] `Add as online favourite`: Füge die Beatmap zu deiner Favoritenliste hinzu, die auf deiner osu!-Profilseite in der Sektion `Beatmaps` zu finden ist.
+- \[4\] Lokale Rangliste: Alle deine Resultate werden auf deinem Computer gespeichert. Navigiere zur [Songauswahl](#songauswahl) und wähle `Lokale Rangliste` von dem Dropdown-Menü über dem Scoreboard aus, um diese einzusehen.
+- \[5\] Sektion `Beatmap Ranking`. Nur für Beatmaps mit Online-Ranglisten ([qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [loved](/wiki/Beatmap/Category#loved)) verfügbar. Du musst außerdem online sein, um diese Sektion sehen zu können. Siehe unten für mehr Details.<!-- TODO: See if links here have to be adjusted as soon as the Category article is available -->
+- \[6\] Sektion `Overall Ranking`. Das ist nur verfügbar für Beatmaps mit Online-Ranglisten. Du musst außerdem online sein, um diese Sektion sehen zu können. Siehe unten für mehr Details.
+- \[7\] Informationen über die Beatmap mit der Spielanzahl und der Erfolgsrate.
+- \[8\] Bewertung der Beatmap. Bewerte nach deinem Ermessen, ob du die Beatmap mochtest oder nicht. Lasse es am besten bleiben, wenn du dich nicht entscheiden kannst.
+- \[9\] Klicke hier, um zur Songauswahl zurückzukehren.
+
+---
+
+Die Kategorien in der Ranglistenanzeige sind wie folgt:
+
+| Kategorie | Beatmap Ranking | Overall Ranking |
+| :-: | :-- | :-- |
+| `Overall` | Deine Position auf der Rangliste der Beatmap. Beachte, dass Scores mit [Mods](/wiki/Game_modifier) auch auf dieser Rangliste auftauchen. | Dein [globaler Rang](/wiki/Ranking#performance-points-ranking) gegen jeden in der Welt.<!-- TODO: Fix link as soon as article is available --> |
+| [`Accuracy`](/wiki/Gameplay/Accuracy) | Wie akkurat du die Beatmap gespielt hast. Dies zählt nur, wenn der alte Punktestand überboten wird. | Ein gewichteter Durchschnitt der Genauigkeit deiner besten Scores. |
+| `Max Combo` | Die höchste Combo, die du auf der Beatmap gespielt hast. | Die höchste Combo, die du jemals über alle Beatmaps gesehen erreicht hast. |
+| [`Ranked Score`](/wiki/Gameplay/Score/Ranked_score) | Dein [bestes Ergebnis](/wiki/Gameplay/Score/Ranked_score) auf der Beatmap. | Die Anzahl der Punkte von allen gerankten Beatmaps, die du jemals gespielt hast, wobei jede Beatmap genau einmal gezählt wird. |
+| [`Total Score`](/wiki/Gameplay/Score/Total_score) | Das wird nicht berücksichtigt, da es deine Position in der Online-Rangliste nicht beeinflusst. | Das gleiche wie beim gerankten Score, aber es werden alle verfügbaren Beatmaps auf der osu!-Webseite miteinbezogen, also auch gescheiterte Beatmaps oder Beatmaps, bei denen der alte Punktestand nicht überboten wurde. Das wird auf dein [Level](/wiki/Gameplay/Score/Total_score#level) angerechnet.<!-- TODO: Check link as soon as article is available --> |
+| [`Performance`](/wiki/Performance_points) | Die Menge an [ungewichteten PP](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played?), die du für den Score erreichen würdest. | Deine gesamte Menge an Performance-Punkten und wie viele PP der eingereichte Score wert war.<!-- TODO: Check link as soon as article is available --> |
+
+### Medaillen
+
+*Hauptseite: [Medaillen](/wiki/Medals)*
+
+![](img/medal-unlock.jpg "Eine Medaille freischalten")
+
+Manchmal, wenn bestimmte Bedingungen zutreffen, erhältst du eine Medaille.

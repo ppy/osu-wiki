@@ -42,7 +42,7 @@ Bien que les branches soient techniquement facultatives, elles sont [fortement r
 
 1. Dans le dossier dans lequel vous avez cloné le dépôt, naviguez jusqu'au fichier que vous voulez modifier. Les articles sont organisés par les noms de dossiers qui sont les noms d'articles et les fichiers `.md` qui sont les locales.
 2. Une fois que vous avez trouvé le bon fichier, ouvrez-le en utilisant votre éditeur de texte préféré.
-3. Vous pouvez maintenant apporter vos modifications. Lorsque vous apportez des modifications, suivez les [Critères de mise en forme des articles](/wiki/Article_styling_criteria) aussi fidèlement que possible.
+3. Vous pouvez maintenant apporter vos modifications. Prenez un moment pour passer également en revue le [self-check](/wiki/osu!_wiki/Contribution_guide#self-check) aussi fidèlement que possible.
 4. Continuer vers [Commits et pushs](#commits-et-pushs).
 
 ### Déplacement de fichiers existants
@@ -71,7 +71,7 @@ Bien que les branches soient techniquement facultatives, elles sont [fortement r
 2. Par défaut, GitHub Desktop sélectionne automatiquement toutes vos modifications.
 3. Il est préférable de séparer chaque "grosse" action en un seul commit.
 
-Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#-pippi) a ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien vers l'image, et marqué les traductions comme obsolètes. A partir de cela, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier `en.md`, et un pour marquer les traductions comme obsolètes.
+Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) a ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien vers l'image, et marqué les traductions comme obsolètes. A partir de cela, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier `en.md`, et un pour marquer les traductions comme obsolètes.
 
 4. Sélectionnez les fichiers qui vont être placés dans le commit.
 5. Entrez le résumé du commit. Il est limité à 72 caractères et **doit être en anglais**.
@@ -87,4 +87,4 @@ Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#-pippi) a ajouté 
 
   ![](img/github-desktop-push.jpg)
 
-9. Continuez vers [Finition](/wiki/osu!_wiki/Contribution_guide#finitions) pour le dernier élément d'information concernant votre pull request et les changements.
+9. Continuez vers [Review](/wiki/osu!_wiki/Contribution_guide#review) pour le dernier élément d'information concernant votre pull request et les changements.

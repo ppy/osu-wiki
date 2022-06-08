@@ -22,7 +22,7 @@ Pour contrebalancer les nouveaux mods de février, les mods [Relax](/wiki/Game_m
 
 ## Avril
 
-Sans blague, Bancho a été lancé en avril, et avec lui les panneaux d'utilisateurs du [Chat Étendu](/wiki/Client/Interface/Chat_console#la-console-de-chat-étendue). Les utilisateurs pouvaient maintenant voir ce que les autres utilisateurs faisaient dans leurs panneaux d'utilisateur, et pouvaient également interagir avec eux en cliquant pour les observer. Le système d'envoi de rapports d'erreurs automatique a été ajouté, la compatibilité xfire a été implémentée, et le menu principal et l'interface de l'éditeur ont reçu un relooking (avec les nouvelles icônes par [LuigiHann](https://osu.ppy.sh/users/1079)). L'interface de la console de chat a vu l'ajout du bouton `Afficher le chat`, l'onglet `tab completion`, et les alertes de mentions de pseudos. L'écran des scores montrait maintenant le nombre de points requis pour atteindre le prochain rang.
+Sans blague, Bancho a été lancé en avril, et avec lui les panneaux d'utilisateurs du [Tchat étendu](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue). Les utilisateurs pouvaient maintenant voir ce que les autres utilisateurs faisaient dans leurs panneaux d'utilisateur, et pouvaient également interagir avec eux en cliquant pour les observer. Le système d'envoi de rapports d'erreurs automatique a été ajouté, la compatibilité xfire a été implémentée, et le menu principal et l'interface de l'éditeur ont reçu un relooking (avec les nouvelles icônes par [LuigiHann](https://osu.ppy.sh/users/1079)). L'interface de la console de tchat a vu l'ajout du bouton `Afficher le tchat`, l'onglet `tab completion`, et les alertes de [mentions de pseudos](/wiki/Client/Interface/Chat_console/Highlight). L'écran des scores montrait maintenant le nombre de points requis pour atteindre le prochain rang.
 
 ## Mai
 
@@ -32,19 +32,19 @@ Le mode [osu!taiko](/wiki/Game_mode/osu!taiko) *(Taiko)* a vu le jour ce mois-ci
 
 ## Juin
 
-Une étape importante de l'histoire d'osu! a été atteinte avec l'ajout du [multijoueur](/wiki/Gameplay/Multiplayer). Les possibilités de skinning ont été agrandies pour à la fois le coté graphique et sonore. Enfin, le chat multi-canal a été rendu possible pour la première fois.
+Une étape importante de l'histoire d'osu! a été atteinte avec l'ajout du [multijoueur](/wiki/Gameplay/Multiplayer). Les possibilités de skinning ont été agrandies pour à la fois le coté graphique et sonore. Enfin, le tchat multi-canal a été rendu possible pour la première fois.
 
 ## Juillet
 
-L'éditeur, le multijoueur, le storyboarding, les graphismes, et la console de chat ont tous reçu de nombreuses améliorations ce mois-ci. L'écran d'options a maintenant un nouveau modèle, et la [configuration des touches](/wiki/Client/Options/Keyboard_bindings) a été introduite.
+L'éditeur, le multijoueur, le storyboarding, les graphismes, et la console de tchat ont tous reçu de nombreuses améliorations ce mois-ci. L'écran d'options a maintenant un nouveau modèle, et la [configuration des touches](/wiki/Client/Options/Keyboard_bindings) a été introduite.
 
 ## Août
 
 Continuant sur la tendance de juillet, un joueur aura du mal à trouver un aspect d'osu! qui n'a pas été amélioré ou optimisé durant ce mois. Parmi tous ces nouveaux ajouts, les tags ont été ajoutés aux beatmaps, et le support pour plusieurs écrans a été implémenté à un niveau expérimental. Une nouvelle méthode pour reprendre après une pause a été construite pour empêcher les joueurs d'abuser de la fonction de pause (qui demandait aux joueurs d'aligner leur curseur à l'endroit où il se situait avant la pause pour continuer).
 
-Les records personnels en ligne ont été ajoutés au menu de sélection de musiques, remplissant une demande de longue date, qui demandait une optimisation assez conséquente de la base de données. Des améliorations graphiques ont été ajoutées à l'écran de résultat, et des éléments variés du skin par défaut ont été réalisés dans le but de les rendre plus propres et nets qu'avant. L'affichage du score des sliders ticks (10/30) a été ajouté. Des améliorations ont été vues dans la préparation des matchs multijoueurs, rendant possible le transfert du contrôle de la salle. De nombreuses nouvelles [commandes de chat](/wiki/Client/Interface/Chat_console#la-liste-des-commandes) ont été ajoutées pour les utilisateurs.
+Les records personnels en ligne ont été ajoutés au menu de sélection de musiques, remplissant une demande de longue date, qui demandait une optimisation assez conséquente de la base de données. Des améliorations graphiques ont été ajoutées à l'écran de résultat, et des éléments variés du skin par défaut ont été réalisés dans le but de les rendre plus propres et nets qu'avant. L'affichage du score des sliders ticks (10/30) a été ajouté. Des améliorations ont été vues dans la préparation des matchs multijoueurs, rendant possible le transfert du contrôle de la salle. De nombreuses nouvelles [commandes de tchat](/wiki/Client/Interface/Chat_console#la-liste-des-commandes) ont été ajoutées pour les utilisateurs.
 
-Un nouveau statut classé a été ajouté, "![](img/fire.gif) [Approuvée](/wiki/Beatmap/Category#approuvée)" pour les maps de grande qualités, mais qui excédaient les critères de classement de longueur, difficulté, ou autres d'une manière ou d'une autre. Les maps dans ce statut ne s'ajoutent pas aux scores du joueur, mais possèdent des classements, et se comportent comme une map ![](img/heart.gif) [Classée](/wiki/Beatmap/Category#classée).
+Un nouveau statut classé a été ajouté, "![](img/fire.gif) [Approuvée](/wiki/Beatmap/Category#approuvée)" pour les beatmaps de grande qualités, mais qui excédaient les critères de classement de longueur, difficulté, ou autres d'une manière ou d'une autre. Les beatmaps dans ce statut ne s'ajoutent pas aux scores du joueur, mais possèdent des classements, et se comportent comme une beatmap ![](img/heart.gif) [Classée](/wiki/Beatmap/Category#classée).
 
 ## Septembre
 
@@ -60,7 +60,7 @@ Des progrès ont été réalisés sur l'implémentation d'OpenGL et le nouveau m
 
 ![](img/fruit_ryuuta.png "L'attrapeur de Catch the Beat")
 
-Novembre a vu l'introduction d'un tout nouveau mode de jeu, Catch the Beat. Le support d'OpenGL a démarré, permettant donc à osu! de tourner sur la majorité des systèmes. D'autres nouvelles fonctionnalités incluent le support de la liste d'amis en jeu, de canaux de chat privés, un nouveau tutoriel pour l'[offset wizard](/wiki/Client/Options/Offset_Wizard) et osu!direct (une plateforme en jeu pour télécharger des beatmaps).
+Novembre a vu l'introduction d'un tout nouveau mode de jeu, Catch the Beat. Le support d'OpenGL a démarré, permettant donc à osu! de tourner sur la majorité des systèmes. D'autres nouvelles fonctionnalités incluent le support de la liste d'amis en jeu, de canaux de tchat privés, un nouveau tutoriel pour l'[offset wizard](/wiki/Client/Options/Offset_Wizard) et osu!direct (une plateforme en jeu pour télécharger des beatmaps).
 
 Suite aux plaintes de personnes ayant un grand nombre de beatmaps sur le temps de chargement d'osu!, peppy a passé de nombreux jours à optimiser tout ce qui était possible, résultant en une amélioration presque impossible à mesurer sur une échelle (au moins supérieure à 9000). Les chargements de plus d'une minute ont été réduits à quelques millisecondes.
 
@@ -68,7 +68,7 @@ Suite aux plaintes de personnes ayant un grand nombre de beatmaps sur le temps d
 
 Le dernier mois de 2008 a eu beaucoup en stock pour le développement d'osu!. Au deuxième Noël d'osu!, la première version de l'éditeur de storyboards a été implémentée, rendant le storyboarding beaucoup plus accessible aux utilisateurs. Un deuxième mode de jeu multijoueur a été ajouté : "Tag Play". C'était un mode coopératif dans lequel les joueurs jouaient chacun leur tour sur une beatmap. Un autre ajout au multijoueur était la "Victoire sur accuracy". MSN et Yahoo ont été intégrés, et les utilisateurs pouvaient entièrement personnaliser leurs touches de jeu et les mots à notifications.
 
-Les miniatures et prévisualisations audios ont été ajoutées a la liste de beatmaps en ligne, rendant la recherche de maps que vous voudriez jouer plus simple.
+Les miniatures et prévisualisations audios ont été ajoutées a la liste de beatmaps en ligne, rendant la recherche de beatmaps que vous voudriez jouer plus simple.
 
 Un autre changement remarquable était que les [scores en Catch the Beat ont été supprimés](https://osu.ppy.sh/community/forums/topics/7996) pendant ce mois. Depuis, le multiplicateur des mods a été changé en Catch the Beat aussi.
 

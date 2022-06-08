@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: bb4dac3fcde3b8fdc28a3d2bae7b9d1d60062144
+---
+
 # Project Loved
 
 **Project Loved** adalah platform/wadah pemungutan suara yang mempromosikan beatmap ke kategori [Loved](/wiki/Beatmap/Category#loved). Program ini dijalankan oleh [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
@@ -48,7 +53,8 @@ Project Loved tidak memiliki aturan khusus yang menentukan beatmap-beatmap apa s
 
 Penyelenggaraan dan perencanaan Project Loved seluruhnya dilangsungkan pada *channel* `#osu-loved` yang ada di dalam [server Discord osu!dev](https://discord.gg/ppy). Project Loved juga memiliki *channel* `#project-loved` di [server Discord Komunitas osu!](https://discord.gg/0Vxo9AsejDkGlk3H) yang terbuka bagi siapapun yang ingin mengirimkan pertanyaan, saran, ataupun kritik.
 
-Di samping server-server di atas, komunitas osu!taiko dan osu!mania juga memiliki server-server Discord-nya tersendiri yang dikhususkan untuk Project Loved sebagai berikut:
+Di samping server-server di atas, komunitas osu!taiko, osu!catch dan osu!mania juga memiliki server-server Discord-nya tersendiri yang dikhususkan untuk Project Loved sebagai berikut:
 
 - [Server Discord Project Loved osu!taiko](https://discord.com/invite/GhfjtZ6)
+- [Server Discord Project Loved osu!catch](https://discord.gg/phgtyS4UCh)
 - [Server Discord Project Loved osu!mania](https://discord.gg/Ededv7m)

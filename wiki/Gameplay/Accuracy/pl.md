@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # Precyzja
@@ -47,7 +47,7 @@ W trybie osu!catch wszystkie obiekty mają taką samą wartość oprócz bananó
 
 ![Precyzja = (50 \* liczba 50 + 100 \* liczba 100 + 200 \* liczba 200 + 300 \* liczba 300 + 300 \* liczba MAX) / 300(liczba 0 + liczba 50 + liczba 100 + liczba 200 + liczba 300 + liczba MAX)](img/accuracy_mania.png "Wzór na precyzję dla osu!mania")
 
-Wzór na precyzję w trybie osu!mania jest podobny do wzoru w trybie [osu!](#-osu!).
+Wzór na precyzję w trybie osu!mania jest podobny do wzoru w trybie [osu!](#osu!).
 
 ## Wykres wyniku
 

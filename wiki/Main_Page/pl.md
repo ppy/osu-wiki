@@ -1,7 +1,7 @@
 ---
 layout: main_page
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
@@ -61,14 +61,14 @@ Komponenty: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Podzielnik beatu](/w
 
 [Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Community/Projects) • [Poradniki](/wiki/Guides) • [Serwer Discord osu!dev](/wiki/Community/osu!dev_Discord_server) • [Jak możesz pomóc?](/wiki/Community/How_you_can_help!) • [Słownik](/wiki/Glossary)
 
+Organizacje: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Użytkownicy
+# [Użytkownicy](/wiki/People)
 
 [Zespół](/wiki/People/The_Team): [Programiści](/wiki/People/The_Team/Developers) • [Moderatorzy globalni](/wiki/People/The_Team/Global_Moderation_Team) • [Pomoc techniczna](/wiki/People/The_Team/Support_Team) • [Zespół zapewniania jakości](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominatorzy beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [Alumni osu!](/wiki/People/The_Team/osu!_Alumni) • [Zespół Project Loved](/wiki/People/The_Team/Project_Loved_Team)
-
-Organizacje: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Zasłużeni dla społeczności](/wiki/People/Community_Contributors) • [Utytułowani użytkownicy](/wiki/People/Users_with_unique_titles)
 

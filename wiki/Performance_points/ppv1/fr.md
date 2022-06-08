@@ -1,41 +1,42 @@
----
-outdated: true
----
-
 # ppv1
 
-La **première version des performance points** (abrégée en **ppv1**) était un ancien système de classement des joueurs au niveau mondial et national de tous les modes de jeu de osu!. Il remplaça l'ancien système de classement par score total et fut abandonné au profit des [ppv2](/wiki/Performance_points).
+Le premier score de performance (abrégé en **ppv1**) est un ancien système de classement des joueurs au niveau mondial dans tous les modes d'osu!. Il a remplacé l'ancien système de *classement par le score total* et a été abandonné en raison de la mise en œuvre du [ppv2](/wiki/Performance_points/ppv2).
 
-## Historique
+## Histoire
 
-Les ppv1 ont été lancés en avril 2012, initialement mentionnés dans les profils des joueurs sous le nom « ??? » pendant la phase de test, puis finalement renommés « pp » (pour « performance points » mais également et de manière officieuse en référence à ) le 17 avril 2012. Ce système a cohabité avec le précédent classement par score total pour finalement devenir l'unique système en place le 24 juillet 2012 lors de la diffusion de la mise à jour 20120722-24 de osu! ([référence](https://osu.ppy.sh/community/forums/posts/1687719)).
+Le ppv1 a été lancé en avril 2012 et initialement mentionné dans les profils des joueurs sous le nom de ``???`` pendant une phase de test. Après avoir finalement été renommé en **pp** (points de performance) le 17 avril 2012. Ce système existait avec le système de classement précédent (*classement par score total*) et est finalement devenu le système unique en place le 24 juillet 2012 lors de la sortie de la version [20120722-24](https://osu.ppy.sh/community/forums/posts/1687719 "20120722-24") du client osu!.
 
-Ce système se mettait à jour initialement par intervalles réguliers, généralement toutes les 24 heures, pour finalement fonctionner en temps réel le 16 août 2012.
+Ce système a d'abord été mis à jour à intervalles réguliers (généralement toutes les 24 heures) avant d'être finalement maintenu en temps réel le 16 août 2012.
 
-Il fut abandonné et remplacé par [ppv2](/wiki/Performance_points) le 27 janvier 2014 à la suite de critiques lancées par les joueurs sur l'opacité de l'algorithme et la favorisation des difficultés Hard jouées avec des mods au détriment des difficultés Insane. Il a également permis à peppy de déporter le travail de maintien et mise à jour du système de classement à et ainsi soulager sa charge de travail.
+Le ppv1 a été abandonné et remplacé par le **ppv2** le 27 janvier 2014. Les raisons de ce changement étaient les critiques des joueurs :
+
+- Opacité manquante de l'algorithme
+- Promotion des difficultés `Hard` avec des mods
+- Faible valeur des difficultés Insane
+
+Il a également permis à peppy de se séparer de la tâche de maintien et de mise à jour du système de classement et d'alléger ainsi sa charge de travail.
 
 ## Algorithme
 
-Les calculs impliqués n'étaient pas connus publiquement, néanmoins quelques indications sur le fonctionnement du système ont été divulguées :
+Les calculs impliqués ne sont pas connus du public, mais certaines indications sur le fonctionnement interne du système ont été divulguées :
 
-- Met en relief le skill et ne peut pas être farmé,
-- Le score par map est évalué par rapport à la difficulté de la map, en se basant sur des statistiques qui ne sont pas disponibles au public,
-- Le nombre de points remportés diminue naturellement avec le temps (ainsi, un joueur inactif pendant un an pourra perdre jusqu’à la moitié de ses points),
-- Pas de pénalités attribuées pour les mauvais scores, seulement des récompenses pour les bons scores,
-- Toutes les maps *ranked* et *approved* sont prises en compte dans les calculs,
-- Le pourcentage de précision est pris en considération,
-- Les multiplicateurs des mods sont différents de ceux annoncés dans le jeu et se veulent plus justes,
-- Pour les modes de jeu autres que osu!, les difficultés spécifiques aux modes sont favorisées,
-- Si un score n'est pas placé dans le top 500 d'une map, il n'est pas compté.
+- Le ppv1 met en avant le niveau des joueurs et ne peut être farmé.
+- Le score est évalué en fonction de la difficulté de la beatmap, sur la base de statistiques qui n'étaient pas accessibles au public.
+- Le nombre de points possibles à obtenir diminue naturellement avec le temps (ainsi, les joueurs inactifs peuvent perdre jusqu'à la moitié de leurs points en un an).
+- Pas de pénalités pour les mauvais scores ; uniquement des récompenses pour les bons scores.
+- Toutes les beatmaps *classées* et *approuvées* sont prises en compte dans les calculs.
+- La précision du joueur est prise en compte.
+- Les multiplicateurs des mods sont différents de ceux annoncés dans le jeu.
+- Les difficultés propres à chaque mode sont privilégiées.
+- Si un score n'est pas placé dans les 500 premiers d'une beatmap, il ne sera pas comptabilisé.
 
-## Grimper dans le classement
+## Monter dans le classement
 
-Votre classement est principalement lié à vos performances sur des maps individuelles. La manière la plus facile de l'améliorer est d'améliorer votre classement sur des maps difficiles.
+Le classement est principalement lié aux performances sur des beatmaps individuelles, ce qui conduit de nombreux joueurs à se concentrer uniquement sur la maîtrise de difficultés uniques. Le ppv1 a encouragé un thème commun de pratiques parmi les joueurs :
 
-- Jouez mieux, classez-vous mieux sur les beatmaps,
-- Faites en sorte d'obtenir quelques très bons scores plutôt que des milliers de scores médiocres,
-- Améliorez votre précision. Même un seul petit pourcent peut faire toute la différence !
-- Classez-vous sur les maps les plus populaires, où il est plus dur de s'y faire une place,
-- Jouez à des maps difficiles,
-- Améliorez vos anciens records,
-- Obtenez le grade SS.
+- Jouer mieux et obtenir de meilleures notes sur les beatmaps.
+- Améliorer la précision ; même un petit pourcentage peut faire la différence.
+- Obtenir un classement sur les beatmaps les plus populaires, où il est plus difficile d'obtenir une place.
+- Jouer des beatmaps difficiles.
+- Améliorer les anciens scores.
+- Obtenir des scores SS.

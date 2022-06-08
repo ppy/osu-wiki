@@ -14,10 +14,10 @@ La **osu! Mapping World Cup #1** (***oMWC #1***) est un concours de mapping d'os
 
 | Event | Horodatage |
 | --: | :-- |
-| Candidatures d'ambassadeurs d'équipe | 11/12/2018/27/12/2018 |
-| Assemblage des équipes | 27/12/2018/11/01/2019 |
-| Phase de mapping | 12/01/2019/09/02/2019 |
-| Phase de jugement | 09/02/2019/09/03/2019 |
+| Candidatures d'ambassadeurs d'équipe | 11/12/2018 - 27/12/2018 |
+| Assemblage des équipes | 27/12/2018 - 11/01/2019 |
+| Phase de mapping | 12/01/2019 - 09/02/2019 |
+| Phase de jugement | 09/02/2019 - 09/03/2019 |
 | Résultats finaux | 16/03/2019 (21:00 UTC+0) |
 
 ## Prix
@@ -91,9 +91,9 @@ La osu! Mapping World Cup est gérée par différents membres de la communauté.
 
 ### Règlement du concours
 
-1. **Les [critères de classement d'osu!](/wiki/Ranking_Criteria/osu!) et les [critères de classement généraux](/wiki/Ranking_Criteria) sont en vigueur pour ce concours.** - Le prix du concours comprend le classement des entrées des équipes gagnantes, qui seront les 3 chansons envoyées par l'équipe de mappeurs, nous ne pouvons pas faire cela si vous ne respectez pas les critères de classement. Toutes les difficultés nécessaires pour remplir les exigences des critères de classement seront fournies par l'équipe organisatrice.
+1. **Les [critères de classement d'osu!](/wiki/Ranking_Criteria/osu!) et les [critères de classement généraux](/wiki/Ranking_Criteria) sont en vigueur pour ce concours.** - Le prix du concours comprend le classement des entrées des équipes gagnantes, qui seront les 3 musiques envoyées par l'équipe de mappeurs, nous ne pouvons pas faire cela si vous ne respectez pas les critères de classement. Toutes les difficultés nécessaires pour remplir les exigences des critères de classement seront fournies par l'équipe organisatrice.
 2. **4-7 membres par équipe requis** - Le concept principal du concours est de montrer les possibilités de mapping de chaque pays. Cela signifie que la collaboration sera un concept nécessaire entre les membres de l'équipe.
-3. **Au moins 2 mappeurs devront collaborer PAR MUSIQUE & chaque mappeur devra mapper au moins 10% du TOTAL DRAIN TIME pour les 3 chansons combinées.** - L'objectif principal de ce concours est de tester chaque pays dans sa capacité à mapper et à collaborer en utilisant une variété de genres de musiques différents. La manière dont vous organiserez le drain time au-delà du seuil requis est entièrement à votre discrétion.
+3. **Au moins 2 mappeurs devront collaborer PAR MUSIQUE & chaque mappeur devra mapper au moins 10% du TOTAL DRAIN TIME pour les 3 musiques combinées.** - L'objectif principal de ce concours est de tester chaque pays dans sa capacité à mapper et à collaborer en utilisant une variété de genres de musiques différents. La manière dont vous organiserez le drain time au-delà du seuil requis est entièrement à votre discrétion.
 4. **Il est strictement interdit de copier le travail d'autres personnes.** - L'objectif du concours est de tester les capacités de chaque pays dans son ensemble. Par conséquent, en copiant le travail des autres, vous ne montrez pas honnêtement ce dont votre pays est capable. Si nous, ou les juges, découvrons qu'un travail a été copié, votre équipe entière sera disqualifiée.
 5. **Il est strictement interdit de partager ou de demander une aide extérieure pour votre beatmap avant la fin du délai fixé.** - Cela entraînera automatiquement la disqualification de votre équipe.
 6. **Les soumissions ne seront pas acceptées après la date limite.** - Tout le monde disposera du même temps pour mapper. Il serait donc injuste que quelqu'un ait eu plus de temps que les autres, c'est pourquoi toute beatmap soumise après la date limite sera disqualifiée.
@@ -105,15 +105,15 @@ La osu! Mapping World Cup est gérée par différents membres de la communauté.
 
 1. **Comment fonctionne ce concours ?**
 
-   Vous aurez pour tâche de travailler sur 3 musiques différentes, chacune appartenant à 3 genres musicaux différents. Vous et votre équipe devez travailler sur les trois chansons en tant que difficulté de collaboration. Chacun d'entre vous devra mapper au moins 10 % du total drain time des trois musiques combinées. Lorsque votre équipe aura fini de mapper, votre ambassadeur d'équipe enverra son entrée sous forme de MP à Imakuri ou Pachiru (sur le forum ou sur Discord). Vos participations seront ensuite jugées, et les résultats seront annoncés lors d'un livestream Twitch après la phase de jugement.
+   Vous aurez pour tâche de travailler sur 3 musiques différentes, chacune appartenant à 3 genres musicaux différents. Vous et votre équipe devez travailler sur les trois musiques en tant que difficulté de collaboration. Chacun d'entre vous devra mapper au moins 10 % du total drain time des trois musiques combinées. Lorsque votre équipe aura fini de mapper, votre ambassadeur d'équipe enverra son entrée sous forme de MP à Imakuri ou Pachiru (sur le forum ou sur Discord). Vos participations seront ensuite jugées, et les résultats seront annoncés lors d'un livestream Twitch après la phase de jugement.
 
 2. **Quelles seront les musiques ?**
 
    Les musiques seront révélées le 12 janvier sur le serveur Discord.
 
-3. **“Au moins 2 mappeurs devront collaborer PAR MUSIQUE & chaque mappeur devra mapper au moins 10% du TOTAL DRAIN TIME pour les 3 chansons combinées.” - Cela signifie-t-il que je dois mapper les 3 chansons ?**
+3. **“Au moins 2 mappeurs devront collaborer PAR MUSIQUE & chaque mappeur devra mapper au moins 10% du TOTAL DRAIN TIME pour les 3 musiques combinées.” - Cela signifie-t-il que je dois mapper les 3 musiques ?**
 
-   Non, en tant que participant, vous avez la liberté de choisir la musique à laquelle vous souhaitez participer ou mapper le plus. Il vous est demandé de mapper au moins 10 % du TOTAL drain time des trois musique, ce qui signifie que vous devez mapper 10 % du total drain time des trois chansons combinées. Par exemple, si les trois musiques combinées représentent 10 minutes de drain time (et non de durée), vous devrez mapper au moins 60 secondes de drain time réparties sur une musique ou sur les trois musiques si vous le souhaitez. De plus, 2 mappeurs sont requis PAR MUSIQUE au strict minimum, ceci afin de s'assurer que la partie collaboration du concours est toujours conservée.
+   Non, en tant que participant, vous avez la liberté de choisir la musique à laquelle vous souhaitez participer ou mapper le plus. Il vous est demandé de mapper au moins 10 % du TOTAL drain time des trois musique, ce qui signifie que vous devez mapper 10 % du total drain time des trois musiques combinées. Par exemple, si les trois musiques combinées représentent 10 minutes de drain time (et non de durée), vous devrez mapper au moins 60 secondes de drain time réparties sur une musique ou sur les trois musiques si vous le souhaitez. De plus, 2 mappeurs sont requis PAR MUSIQUE au strict minimum, ceci afin de s'assurer que la partie collaboration du concours est toujours conservée.
 
 4. **Qu'est-ce qu'un "ambassadeur d'équipe"?**
 

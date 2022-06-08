@@ -18,4 +18,33 @@ Luckily, if you're not willing to get too involved with the technicalities of Gi
 
 ## Standards and Requirements
 
-The [Article Styling Criteria (ASC)](https://github.com/ppy/osu-wiki/tree/master/wiki/Article_styling_criteria) is a set of standards that **must** be adhered to for all new and edited articles going forward. Among these are rules regarding project structure, usage of Markdown, formatting, diction and grammar. The ASC is fairly verbose, so please refer to it if you have any specific questions or concerns before asking other contributors of the osu! wiki.
+The [Article Styling Criteria (ASC)](https://github.com/ppy/osu-wiki/tree/master/wiki/Article_styling_criteria) is a set of standards that must be adhered to for all new and edited articles going forward. Among these are rules regarding project structure, usage of Markdown, formatting, diction and grammar. Please refer to it if you have any specific questions or concerns.
+
+The ASC is fairly verbose and encompasses many minute details, that are not necessary to memorise in order to take the first step of contributing to the osu! wiki. Have a look at the [contribution guide](https://github.com/ppy/osu-wiki/tree/master/wiki/osu!_wiki/Contribution_guide), and other contributors will also be happy to answer your questions in the `#osu-wiki` channel of the [osu!dev Discord server](https://discord.gg/ppy).
+
+## Testing
+
+All pull requests are automatically run through a series of continuous integration checks (CI) in order to catch various common errors.
+
+For people familiar with the command line, these CI checks can also be run locally.
+
+### Requirements
+
+- [Python](https://www.python.org/) 3.x
+- [Node.js](https://nodejs.org/) 16+ (installing via [nvm](https://github.com/nvm-sh/nvm) is recommended)
+
+### Setup
+
+```sh
+python3 -m venv ./.venv
+.venv/bin/pip3 install -r scripts/requirements.txt
+npm install
+```
+
+### Running
+
+Using `git add`, stage or commit files you want to have checked, then run from the repository root on your feature branch:
+
+```sh
+bash run-ci.sh
+```

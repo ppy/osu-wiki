@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: a48ff7d42b4d090b85aca611c6cd1fda3e163d5d
 no_native_review: true
 tags:
   - GMT
@@ -75,12 +77,12 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | 聊天室管理、圖譜管理 |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 粵語、中文、日語 | 聊天室管理、圖譜管理 |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | 俄語 | 聊天室管理、圖譜管理 |
+| ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | 俄語 | 聊天室管理 |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 俄語 | 聊天室管理 |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | 芬蘭語 | 聊天室管理 |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 德語 | 論壇管理、圖譜管理 |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | 中文 | 聊天室管理 |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! 開發 |
-| ![][flag_RU] [mrrrk](https://osu.ppy.sh/users/9936528) | 俄語 | 聊天室管理 |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 荷蘭語 | 聊天室管理、論壇管理 |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律賓語 | 聊天室管理、論壇管理、技術支援 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 法語 | 聊天室管理 |
@@ -88,8 +90,8 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | 法語 | 聊天室管理 |
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | 葡萄牙語 | 聊天室管理 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德語 | 論壇管理 |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方團隊帳號 |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 菲律賓語 | 聊天室管理 |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方團隊帳號 |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 德語 | 賽事管理 |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | 法語、一點西班牙語 | 聊天室管理、論壇管理 |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | 葡萄牙語 | 聊天室管理 |
@@ -141,7 +143,7 @@ GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以�
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) |
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
-| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
 | `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484), ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) |
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |

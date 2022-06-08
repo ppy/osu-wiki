@@ -1,7 +1,7 @@
 ---
 layout: main_page
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: 1f00c369d836e214e9e2b5a3dc8ea21ff3392217
 ---
 
@@ -61,14 +61,14 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 [토너먼트](/wiki/Tournaments) • [스킨](/wiki/Skinning) • [프로젝트](/wiki/Community/Projects) • [가이드](/wiki/Guides) • [osu!dev 디스코드 서버](/wiki/Community/osu!dev_Discord_server) • [도움을 줄 수 있는 방법](/wiki/Community/How_you_can_help!) • [용어 사전](/wiki/Glossary)
 
+동호회: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# 사람들
+# [사람들](/wiki/People)
 
 [The Team](/wiki/People/The_Team): [Developers](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
-
-동호회: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [커뮤니티 기여자](/wiki/People/Community_Contributors) • [칭호를 가진 유저](/wiki/People/Users_with_unique_titles)
 

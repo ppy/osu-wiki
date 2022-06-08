@@ -20,7 +20,7 @@ Jedes Projekt wird in seinem dafür vorgesehenen Kanal diskutiert:
 
 | Projekt | Kanal |
 | :-- | :-- |
-| [osu!lazer](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [osu!](/wiki/Game_mode/osu!) [Star Rating](/wiki/Beatmapping/Star_rating) und [Performance-Punkte](/wiki/Performance_points) | `#difficulty-osu` |
@@ -30,7 +30,7 @@ Jedes Projekt wird in seinem dafür vorgesehenen Kanal diskutiert:
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu!-Wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
 | [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
-| [Offizielle Wettbewerbsunterstützung](/wiki/Tournaments/Official_support) | `#tournaments` |
+| [Offizielle Turnierunterstützung](/wiki/Tournaments/Official_support) | `#tournaments` |
 | [osu! Community Meetings](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
 | [Modding](/wiki/Modding) Diskussionen und [NAT Meetings](/wiki/Modding/NAT_meetings) | `#modding` |
 | [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

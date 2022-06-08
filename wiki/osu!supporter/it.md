@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu!supporter
@@ -35,8 +35,6 @@ Nota bene: le donazioni servono per sostenere tutti i costi di osu! nel compless
 ### Costo
 
 [Usa questo convertitore di valute](http://www.oanda.com/currency/converter/) oppure [ask Google](https://www.google.com.my/#q=usd+exchange+rate) per verificare il costo nel tuo stato. Il costo dell'osu!supporter è nel dollaro statunitense ("USD$ dollar").
-
-![](img/selecting-duration.jpg)
 
 | Mesi | Costo {USD$} (sconto sul prezzo) |
 | :-: | :-- |

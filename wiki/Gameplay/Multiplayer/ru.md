@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: a8c8745209c11807318f090c1916347900d138de
+---
+
 # Мульти
 
 Мульти (сокращение от *мультиплеер*) был добавлен в публичную версию osu! b335 и является игровым режимом для онлайн игры с другими игроками, число которых может доходить до 16 человек.
@@ -94,10 +99,6 @@
 
 ## Настройка игры
 
-<!-- One/Two image here? Subsections of the images later like what was done in Interface of the old osu! wiki for Song Selection? -->
-
-![](img/Multi_roomhost.jpg "Пример комнаты от лица хоста")
-
 ![](img/Multi_roomplayer.jpg "Пример комнаты от лица игрока (со свободными модами)")
 
 Наверху экрана отображается ваша роль в комнате (хост или обыкновенный игрок), ваш ранг и кнопка паузы.
@@ -156,8 +157,6 @@
 | Cannot update the beatmap | Скорее всего, у хоста [модифицированная версия карты.](https://osu.ppy.sh/community/forums/topics/135726 "ppy's reply on a bug report.") |
 
 #### Моды
-
-![](img/Multi_mods_host.jpg "Настройки модов \(osu!\) у хоста")
 
 ![](img/Multi_mods_player.jpg "Настройки модов \(osu!\) у игрока \(при свободных модах\)")
 

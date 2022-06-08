@@ -1,10 +1,25 @@
 # Writing
 
-*For the formatting standards, see: [Article style criteria/Formatting](../Formatting)*
-
+*For the formatting standards, see: [Article style criteria/Formatting](../Formatting)*\
 *Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
 
+This article concerns writing standards for all English articles. The writing standards for translations can be found in the translations of this page.
+
+<!-- For translations, use "This article concerns writing standards for {language}. Refer to the English version of this page for the writing standards of English articles." instead. -->
+
 All English articles must use plain English.
+
+## Content parity
+
+Translations are subject to strict content parity with their English article, in the sense that they must have the same message, regardless of grammar and syntax. Any changes to the translations' meanings must be accompanied by equivalent changes to the English article.
+
+There are some cases where the content is allowed to differ:
+
+- Articles originally written in a language other than English (in this case, English should act as the translation)
+- Translations and explanations of English words that are common terms in the osu! community
+- External links
+- Tags
+- Information specific to a subcommunity or a certain language (such as translations of this article)
 
 ## Language register
 
@@ -325,7 +340,7 @@ The serial comma, also known as the Oxford or Harvard comma, must be used.
 
 Em dashes (`—`) must be used without spaces around them. Hyphens must not be used in their place.
 
-### Logical quotations
+### Logical quotation
 
 Refer to [Wikipedia's Manual of Style for logical quotations](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside).
 
@@ -334,6 +349,18 @@ From Wikipedia's Manual of Style:
 > Include terminal punctuation within the quotation marks only if it was present in the original material, and otherwise place it after the closing quotation mark. For the most part, this means treating periods and commas in the same way as question marks: keep them inside the quotation marks if they apply only to the quoted material and outside if they apply to the whole sentence.
 
 By extension, [emphasis](/wiki/Article_styling_criteria/Formatting#emphasising), [links](/wiki/Article_styling_criteria/Formatting#links), and parentheses should follow the same rules regarding punctuation (i.e. whether they enclose a whole sentence or only part of one).
+
+### Block quotation
+
+When quoting text from someone, specify the person being quoted after the [blockquote](/wiki/Article_styling_criteria/Formatting#blockquotes) with an em dash (`—`). If the original quote is from a non-English source, specify it in parentheses.
+
+```markdown
+> plz enjoy game
+
+—rrtyui (translated from {language})
+```
+
+In general, the source of the quote should be specified above it. See the [above section](#logical-quotation) for an example. When quoting a written article or otherwise, and not necessarily a specific person, the writer does not need to be specified below the blockquote.
 
 ## Pronunciation
 

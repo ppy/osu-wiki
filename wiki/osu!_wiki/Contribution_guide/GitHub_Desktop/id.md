@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
+---
+
 # GitHub Desktop
 
 *Artikel ini merupakan lanjutan dari [laman utama sebelumnya](/wiki/osu!_wiki/Contribution_guide)* dengan asumsi kamu akan menggunakan [Github Desktop](https://desktop.github.com). **Kamu tetap dapat menggunakan aplikasi Git yang lain sesuai dengan kehendakmu.** Meskipun kamu bekerja secara lokal, kamu masih perlu mengakses GitHub untuk membuat pull request agar perubahan kamu dapat terjadi dan bisa diakses semua orang.
@@ -71,7 +76,7 @@ Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](htt
 2. Secara bawaan, GitHub Desktop akan secara otomatis memilih semua perubahan yang kamu lakukan.
 3. Untuk commit "besar", lebih baik dipisahkan menjadi commit tersendiri.
 
-Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#-pippi) telah menambahkan file gambar, mengubah file `en.md` untuk menambahkan judul dan tautan ke gambar, dan menandai terjemahan lainnya sebagai versi lama. Dari sini, kita telah memiliki dua commit, satu untuk perubahan yang mempengaruhi file `en.md` dan satu lagi untuk menandai terjemahan lainnya sebagai versi lama.
+Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#pippi) telah menambahkan file gambar, mengubah file `en.md` untuk menambahkan judul dan tautan ke gambar, dan menandai terjemahan lainnya sebagai versi lama. Dari sini, kita telah memiliki dua commit, satu untuk perubahan yang mempengaruhi file `en.md` dan satu lagi untuk menandai terjemahan lainnya sebagai versi lama.
 
 4. Pilih file yang akan dicommit.
 5. Masukkan ringkasan commit. Ada batas 72 karakter dan harus diketik **dalam Bahasa Inggris**.

@@ -1,13 +1,22 @@
----
-outdated: true
-outdated_since: a30458a6fd0ee0828435bf8e7d00751806149b65
----
-
 # Schrift
 
 *Für die Formatierungsstandards, siehe: [Artikelgestaltungskriterien/Formatierung](../Formatting)*
 
+Dieser Artikel betrifft die Schriftstandards für Deutsch. Verweise auf die englische Version dieser Seite für die Schriftstandards für englische Artikel.
+
 Alle deutschen Artikel müssen Standarddeutsch verwenden.
+
+## Inhaltsparität
+
+Übersetzungen müssen den gleichen Inhalt wie der englische Artikel enthalten, sodass sie die gleiche Nachricht überbringen, unabhängig von Grammatik und Syntax. Jede Änderung der Bedeutungen in den Übersetzungen muss mit einer entsprechenden Änderung des englischen Artikels folgen.
+
+Es gibt einige Ausnahmen, in denen sich der Inhalt unterscheiden darf:
+
+- Artikel, die ursprünglich in einer anderen Sprache als Englisch geschrieben wurden (in diesem Fall sollte Englisch als Übersetzung dienen)
+- Erklärungen von englischen Begriffen, die gebräuchlich in der osu!-Community sind
+- Externe Links
+- Tags
+- Spezifische Informationen für eine Subcommunity oder eine Sprache (wie z. B. Übersetzungen dieses Artikels)
 
 ## Sprachregister
 
@@ -21,9 +30,9 @@ Alle Regeln der Artikelgestaltungskriterien müssen für beide Register befolgt 
 
 ## Großschreibung
 
-### Spielmodifikatoren
+### Spielmodifikationen
 
-Spielmodifikatoren müssen das Wort `Mod` nach dem Modnamen haben, um Mehrdeutigkeit zu vermeiden. Diese müssen wie folgt geschrieben werden (Buchstabenform und -abstand muss übereinstimmen):
+Spielmodifikationen müssen das Wort `Mod` nach dem Modnamen haben, um Mehrdeutigkeit zu vermeiden. Diese müssen wie folgt geschrieben werden (Buchstabenform und -abstand muss übereinstimmen):
 
 - `Easy` oder `EZ`
 - `No Fail` oder `NF`
@@ -53,7 +62,7 @@ Spielmodifikatoren müssen das Wort `Mod` nach dem Modnamen haben, um Mehrdeutig
 
 ---
 
-Diese Spielmodifikatoren werden nicht mehr von osu! verwendet. Aber sofern gebraucht, müssen diese wie folgt geschrieben werden (Buchstabenform und -abstand muss übereinstimmen):
+Diese Spielmodifikationen werden nicht mehr von osu! verwendet. Aber sofern gebraucht, müssen diese wie folgt geschrieben werden (Buchstabenform und -abstand muss übereinstimmen):
 
 - `Fade Out`
 - `No Video`
@@ -62,7 +71,7 @@ Diese Spielmodifikatoren werden nicht mehr von osu! verwendet. Aber sofern gebra
 
 ---
 
-Wenn Spielmodifikatoren in Wettbewerbsartikeln genannt werden, dann müssen diese Binnenmajuskeln verwenden (entferne das Leerzeichen und behalte die Buchstabenform wie oben beschrieben).
+Wenn Spielmodifikationen in Turnierartikeln genannt werden, dann müssen diese Binnenmajuskeln verwenden (entferne das Leerzeichen und behalte die Buchstabenform bei wie oben beschrieben).
 
 ### Spielelemente
 
@@ -77,7 +86,7 @@ Im osu!-Spielmodus bestehen Beatmaps aus drei unterschiedlichen Spielelementen: 
 Sprachnamen werden großgeschrieben, außer sie deklarieren einen Channel im osu!-Chat. In diesem Fall sollte das englische Wort in Kleinschreibung verwendet werden. Das Folgende ist ein Beispiel:
 
 ```markdown
-Der `#spanish`-Chat ist für alle, die Spanisch sprechen.
+Der Chat `#spanish` ist für alle, die Spanisch sprechen.
 ```
 
 ### Eigennamen
@@ -112,7 +121,7 @@ Registered-Trade-Mark-Symbole dürfen nicht hinter der Marke stehen.
 
 Die Formate in [Wikipedia:Datumskonventionen](https://de.wikipedia.org/wiki/Wikipedia:Datumskonventionen) sind alles akzeptierte Formate für Daten. Datenformate sollten konsistent innerhalb eines Artikels sein.
 
-Das Datenformat `YYYY-MM-DD` sollte nur in Tabellen benutzt werden.
+In Tabellen sollte nur das Datenformat `TT.MM.JJJJ` verwendet werden. Für Datenbereiche in Tabellen gilt das Format `TT.MM.JJJJ bis TT.MM.JJJJ`.
 
 ### Zeitformatierung
 
@@ -140,11 +149,11 @@ Gute Beispiele:
 11:30 UTC-4
 ```
 
-`UTC` (ohne eine Abweichung) ist implizit `UTC+0`. Beides kann verwendet werden, aber die Benutzung muss konsistent bleiben. UTC mit einer expliziten Null-Abweichung muss ein Plus-Symbol enthalten (`+`).
+`UTC` (ohne eine Abweichung) ist implizit `UTC+0`. Beides kann verwendet werden, aber die Benutzung muss konsistent bleiben. UTC mit einer expliziten Null-Abweichung muss ein Plus-Symbol (`+`) enthalten.
 
 ### Daten- und Zeitformatierung
 
-Wenn Zeit- und Datenangaben gemeinsam verwendet werden, dann muss das Datum zuerst notiert werden, gefolgt von der Zeit. Die Zeit muss in Klammern gesetzt werden (`(` und `)`).
+Wenn Zeit- und Datenangaben gemeinsam verwendet werden, dann muss das Datum zuerst notiert werden, gefolgt von der Zeit. Die Zeit muss in Klammern (`(` und `)`) gesetzt werden.
 
 Schlechte Beispiele:
 
@@ -195,7 +204,7 @@ Benutzertitel, die `osu!` als Teil des Titels enthalten, müssen großgeschriebe
 
 Für alle anderen Begriffe muss osu! als einzelnes Nomen behandelt werden. Das bedeutet, es wird ein Bindestrich zwischen osu! und dem Namen, welcher modifiziert wird, gesetzt. Beispiele sind:
 
-- `osu!-Wettbewerbe`
+- `osu!-Turniere`
 - `osu!-Community`
 - `osu!-Chat`
 - `osu!-Client`
@@ -213,7 +222,7 @@ Diese Wörter müssen wie folgt geschrieben werden (Buchstabenform und -abstand 
 
 - `Approach-Circle`
 - `Spielmodus` (oder `Modus`)
-- `Spielmod` (oder `Mod`)
+- `Spielmodifikation` (oder `Mod`)
 - `Hit-Burst`
 - `Hit-Circle`
 - `Hitsound`
@@ -230,7 +239,7 @@ Manche Wörter haben Varianten. Ihre bevorzugte Schreibweise ist wie folgt:
 - `erstellt` anstatt `beatmapped` oder `mapped`.
 - `BN` oder `Beatmap Nominators`, wenn auf die *Beatmap Nominators* verwiesen wird.
 
-### Wettbewerbsartikel
+### Turnierartikel
 
 Diese Worte müssen wie folgt verwendet werden (der Abstand muss übereinstimmen):
 
@@ -238,15 +247,59 @@ Diese Worte müssen wie folgt verwendet werden (der Abstand muss übereinstimmen
 - `FreeMods`, `FreeMod` oder `FM`
 - `Tiebreaker`
 
-## Abkürzungen, Akronyme und Initialwörter
+### Übersetzungen für häufige Begriffe
 
-Abkürzungen, Akronyme und Initialwörter müssen bei ihrem ersten Auftreten vollständig ausgeschrieben werden. Nachfolgende Vorkommen sind optional, aber werden nur ausgeschrieben, sofern erforderlich. Das Folgende ist ein Beispiel:
+Dieser Abschnitt listet häufig verwendete Begriffe und ihre entsprechenden Übersetzungen auf. Beim Übersetzen von Artikeln sollte darauf geachtet werden, möglichst die hier aufgelisteten Übersetzungen zu verwenden. Ausnahmen können gemacht werden, wenn die ursprüngliche Bedeutung durch die Übersetzung verloren geht.
+
+#### Gameplay
+
+| Englisch | Deutsch |
+| :-: | :-- |
+| `game modifier (mod)` | `Spielmodifikation (Mod)` |
+| `gameplay` | `Spielverlauf` |
+| `multiplier` | `Multiplikator` |
+| `beatmap difficulty` | `Schwierigkeitsgrad/-stufe der Beatmap` |
+| `beatmap category` | `Beatmap-Kategorie` |
+| `playcount` | `Spielanzahl` |
+| `ranked` | `ranked` oder `gerankt` |
+| `qualified` | `qualified` oder `qualifiziert` |
+| `loved` | `loved` oder `geliebt` |
+| `approved` | `approved` oder `bestätigt` |
+| `overall difficulty` | `Allgemeine Schwierigkeit` |
+| `medal` | `Medaille` |
+
+#### Benutzeroberfläche
+
+| Englisch | Deutsch |
+| :-: | :-- |
+| `release stream` | `Updatequelle` |
+| `song select` | `Songauswahl` |
+| `button` | `Button/Schaltfläche` |
+| `results screen` | `Ergebnisanzeige (oder -bildschirm)` |
+| `collection` | `Sammlung` |
+| `beatmap carousel` | `Beatmap-Karussell` |
+| `offset wizard` | `Offset-Assistent` |
+| `play area` (Tablet) | `Bereich zum Spielen` |
+| `keyboard shortcuts` | `Tastenkürzel` |
+| `keyboard bindings` | `Tastenbelegung` |
+
+#### Community
+
+| Englisch | Deutsch |
+| :-: | :-- |
+| `Modding` | `Modding` (Verb lautet `gemoddet`) |
+| `tournament` | `Turnier` |
+| `contest` | `Wettbewerb` |
+
+## Abkürzungen, Akronyme und Initialen
+
+Abkürzungen, Akronyme und Initialen müssen bei ihrem ersten Auftreten vollständig ausgeschrieben werden. Nachfolgende Vorkommen sind optional, aber werden nur ausgeschrieben, sofern erforderlich. Das Folgende ist ein Beispiel:
 
 ```markdown
 Die NC (Nightcore) Mod ist ähnlich zur DT (Double Time) Mod, da beide die Geschwindigkeit der Musik um 50% erhöhen. Allerdings ändert NC die Tonhöhe der Musik und fügt ein Klatschen zum Beat hinzu.
 ```
 
-Abkürzungen, Akronyme und Initialwörter müssen großgeschrieben werden, allerdings gibt es Ausnahmen. Die folgenden sind Beispiele:
+Abkürzungen, Akronyme und Initialen müssen großgeschrieben werden, allerdings gibt es Ausnahmen. Die Folgenden sind Beispiele:
 
 - `CS` für `Circle Size`
 - `AR` für `Approach Rate`
@@ -255,19 +308,23 @@ Abkürzungen, Akronyme und Initialwörter müssen großgeschrieben werden, aller
 
 ---
 
-Abkürzungen, Akronyme und Initialwörter sollten nicht in der Pluralform benutzt werden. Im Folgenden ein Beispiel:
+Übersetze `e.g.` mit "z. B." und `i.e.` mit "also" oder "d. h.".
+
+---
+
+Abkürzungen, Akronyme und Initialen sollten nicht in der Pluralform benutzt werden. Im Folgenden ein Beispiel:
 
 ```markdown
 Vermeide: BNs können deine Beatmap nominieren.
 
-Bevorzuge: Beatmap Nominators können deine Beatmap nomieren.
+Bevorzuge: Beatmap Nominators können deine Beatmap nominieren.
 ```
 
 ## Perspektive
 
 `Spieler`, `Benutzer`, `Skinner`, `Storyboarder` und `Ersteller` sollten benutzt werden, wenn der Leser oder eine andere Person angesprochen wird. `es`, `sein` und `ihm` darf benutzt werden, wenn benötigt.
 
-`du` und `dein` sollte vermieden werden. `Ich` darf nicht vorkommen. `wir`, `er` oder `sein` und `sie` oder `ihr` darf ebenfalls nicht vorkommen.
+`du` und `dein` sollte vermieden werden. `Ich` darf nicht vorkommen. `wir`, `er` oder `sein` und `sie` oder `ihr` darf ebenfalls nicht vorkommen (siehe weiter oben für andere Begriffe).
 
 ---
 
@@ -276,6 +333,10 @@ Bevorzuge: Beatmap Nominators können deine Beatmap nomieren.
 ## Grammatik und Syntax
 
 Artikel sollten einfache deutsche Grammatik verwenden.
+
+### Auslassungszeichen
+
+Hochkommata für die Auslassung von Buchstaben (z. B. geht's anstatt geht es oder versuch') dürfen nicht verwendet werden.
 
 ### Zahlen
 
@@ -286,6 +347,30 @@ Artikel sollten einfache deutsche Grammatik verwenden.
 ### Semikolon
 
 [Artikel mit informellen Registern](#sprachregister) sollten Semikolons (`;`) nicht verwenden.
+
+### Geviertstrich
+
+Geviertstriche (`—`) müssen mit einem Leerzeichen davor und dahinter verwendet werden. In [Blockzitaten](#blockzitate) haben Geviertstriche nur ein Leerzeichen auf ihrer rechten Seite. Bindestriche (`-`) dürfen nicht an Stelle von Geviertstrichen verwendet werden.
+
+### Zitate
+
+Übersetzt aus dem englischen [Wikipedia Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside):
+
+> Füge abschließende Satzzeichen nur dann in die Anführungszeichen ein, wenn sie im Originaltext vorhanden waren und setze sie andernfalls nach dem schließenden Anführungszeichen. In den meisten Fällen bedeutet dies, dass Punkt und Komma genauso behandelt werden wie Fragezeichen: Sie stehen innerhalb der Anführungszeichen, wenn sie sich nur auf das zitierte Material beziehen, und außerhalb, wenn sie sich auf den gesamten Satz beziehen.
+
+Im weiteren Sinne sollten [Betonungen](/wiki/Article_styling_criteria/Formatting#betonung), [Links](/wiki/Article_styling_criteria/Formatting#links) und Klammern denselben Regeln bezogen auf die Zeichensetzung folgen (also, ob sie einen ganzen Satz oder nur einen Teil davon miteinbeziehen).
+
+### Blockzitate
+
+Wenn Text von jemandem zitiert wird, sollte die zitierte Person nach dem [Blockzitat](/wiki/Article_styling_criteria/Formatting#blockzitate) mit einem Geviertstrich (`—`) und einem Leerzeichen angegeben werden. Sofern das Originalzitat nicht aus dem Deutschen stammt, spezifiziere die Sprache in Klammern.
+
+```markdown
+> bitte habt Spaß am Spiel
+
+— rrtyui (aus dem {Sprache} übersetzt)
+```
+
+Im Allgemeinen sollte die Quelle des Zitats über diesem spezifiziert werden. Siehe die [obere Sektion](#zitate) für ein Beispiel. Beim Zitieren eines schriftlichen Artikels oder anderweitig, und nicht unbedingt einer spezifischen Person, muss der Autor nicht unter dem Blockzitat angegeben werden.
 
 ## Aussprache
 

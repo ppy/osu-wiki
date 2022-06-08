@@ -32,11 +32,11 @@ osu! 위키 항목은 [GitHub][osu_wiki]에 저장되므로, 기여를 하기 �
 
 - **전달 방식**: osu! wiki 문서는 필요한 경우가 아니라면 반드시 중립적인 표현을 사용해야 합니다.
 - **스타일 및 문법**: 문서는 명확하고, 이해하기 쉽고, 독자들이 읽기 쉽도록 작성이 되어야 합니다. 일관성을 유지하고 지나치게 복잡하거나 갑작스러운 문장은 피해야 합니다. 그리고 [Google 문서](https://docs.google.com)와 같이 맞춤법 검사기가 내장된 편집 프로그램을 이용하여 오타와 문법, 구문 오류를 확인하여 수정해 주세요.
-- **[동일한 정보](/wiki/Article_styling_criteria/Formatting#content-parity)**: 번역된 결과물은 반드시 원본 문서와 같은 정보를 가지고 있어야 합니다 (구두법, 단어 선택, 형식의 차이는 존재함). 만약 원본 문서가 불완전 혹은 부정확하거나, 정보가 오래되었다면, 번역 내용을 수정하기보다는 [이슈를 열거나](https://github.com/ppy/osu-wiki/issues/new) 추가적인 Pull Request를 통해 내용을 수정하세요.
+- **[동일한 정보](/wiki/Article_styling_criteria/Writing#content-parity)**: 번역된 결과물은 반드시 원본 문서와 같은 정보를 가지고 있어야 합니다 (구두법, 단어 선택, 형식의 차이는 존재함). 만약 원본 문서가 불완전 혹은 부정확하거나, 정보가 오래되었다면, 번역 내용을 수정하기보다는 [이슈를 열거나](https://github.com/ppy/osu-wiki/issues/new) 추가적인 Pull Request를 통해 내용을 수정하세요.
 - **구조 및 형식**: [jbt의 Markdown Editor](https://jbt.github.io/markdown-editor/) 같은 것들을 이용하여 작성한 내용이 원하는 형태로 정확하게 나오는지 미리 확인하세요.
 - **모든 이미지와 텍스트가 아닌 파일**은 반드시 [1MB 미만](/wiki/Article_styling_criteria/Formatting#file-size)이어야 합니다. 자료로 사용되는 **스크린샷**은 기본 스킨 및 [정해진 세팅](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay)을 사용해야 하며, 1280x720 해상도를 넘어서는 안됩니다.
 
-전체적인 규칙은 [문서 스타일 기준](/wiki/Article_styling_criteria)에서 확인할 수 있습니다.
+구체적인 작성 및 서식 표준은 [문서 스타일 기준](/wiki/Article_styling_criteria)에서 확인할 수 있습니다. 한 번에 모두 읽는 것은 권장하지 않습니다. 어떠한 식으로든 수정해야 할 내용이 있다면 리뷰어가 지적을 할 것입니다.
 
 ## Pull Request
 

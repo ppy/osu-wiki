@@ -21,7 +21,7 @@ The osu! wiki articles are stored on [GitHub][osu_wiki]. To contribute, do the f
 
   - If you've made a fork some time ago, sync it according to [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 
-2. Read [Best practices § Making changes](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-changes) and perform necessary edits. While you are free to use any application of your choice, the osu! wiki has detailed instructions on two workflows:
+2. Read [Best practices § Making changes](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits) and perform necessary edits. While you are free to use any application of your choice, the osu! wiki has detailed instructions on two workflows:
 
   - [GitHub web-based editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (online, no installation required).
   - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (offline, offers more control).
@@ -32,11 +32,11 @@ When you are done editing, take some time to proofread your work. Go through the
 
 - **Tone of delivery**: the osu! wiki articles, with rare exceptions, must be written using a neutral register.
 - **Style and grammar**: the articles should be clear, understandable, and require no significant mental effort from the reader. Be consistent and avoid overcomplicated or abrupt sentences. Use editors with built-in spell checkers, such as [Google Docs](https://docs.google.com), to expose typos and grammatical or syntax errors.
-- **[Content parity](/wiki/Article_styling_criteria/Formatting#content-parity)**: translations must contain the same information as the original articles (differences in punctuation, wording, or formatting are obviously expected). Instead of changing the contents of the translation, [open an issue](https://github.com/ppy/osu-wiki/issues/new) or an extra pull request for the original if you feel it is incomplete, inaccurate, or outdated.
+- **[Content parity](/wiki/Article_styling_criteria/Writing#content-parity)**: translations must contain the same information as the original articles (differences in punctuation, wording, or formatting are obviously expected). Instead of changing the contents of the translation, [open an issue](https://github.com/ppy/osu-wiki/issues/new) or an extra pull request for the original if you feel it is incomplete, inaccurate, or outdated.
 - **Structure and formatting**: preview your article with a tool such as [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) to make sure it looks exactly how you wanted it to be.<!-- TODO(TicClick): we really need an article on markup features specific to the osu! wiki-->
 - **All images and other non-text files** must be [under 1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Screenshots** need to use the default osu! skin and [specific settings](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay), including the maximum dimensions of 1280×720.
 
-For a complete list of rules, read the [article styling criteria](/wiki/Article_styling_criteria).
+For more specific writing and formatting standards, refer to the [article styling criteria](/wiki/Article_styling_criteria). It's not recommended to read it all at once—a reviewer will likely point out if something needs to be corrected either way.
 
 ## Pull request
 

@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 9b7428d718587f9fea31c773261ec4b724b52ac2
 layout: main_page
 no_native_review: true
 ---
@@ -101,16 +103,16 @@ no_native_review: true
 
 [Проекти](/wiki/Community/Projects): [Представени автори](/wiki/Featured_Artists) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+Организатори: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# Хора
+# [Хора](/wiki/People)
 
 osu! нямаше да съществува без всички потребители помагащи с разработка, поддръжка и управление на общност: техните усилия, време и решения поддържащи играта жива и просперираща.
 
 [Екип](/wiki/People/The_Team): [Разработчици](/wiki/People/The_Team/Developers) • [Глобален модераторси екип](/wiki/People/The_Team/Global_Moderation_Team) • [Екип поддръжка](/wiki/People/The_Team/Support_Team) • [Екип оценяващ номинатори](/wiki/People/The_Team/Nomination_Assessment_Team) • [Бийтмап номинатори](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Екип на проект обичани](/wiki/People/The_Team/Project_Loved_Team)
-
-Организатори: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 [Сътрудници на общност](/wiki/People/Community_Contributors) • [Потребители със специални титли](/wiki/People/Users_with_unique_titles)
 

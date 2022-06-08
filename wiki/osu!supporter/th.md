@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu!supporter
@@ -33,8 +33,6 @@ outdated: true
 ## เรื่องของธุรกิจ และการเงิน
 
 ### ราคา
-
-![ตัวอย่าง](img/selecting-duration.jpg?1 "ตัวอย่าง")
 
 | จำนวนเดือน | ราคา (ดอลลาร์สหรัฐ)(ในวงเล็บคือส่วนลด) |
 | :-: | :-- |

@@ -27,7 +27,7 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 
 *Page principale : [Modding](/wiki/Modding)*
 
-- [Comment faire modder votre map](Getting_Your_Map_Modded)
+- [Comment faire modder votre beatmap](Getting_Your_Map_Modded)
 - [Guide de modding d'osu!mania](osu!mania_modding_guide)
 
 ## Playing

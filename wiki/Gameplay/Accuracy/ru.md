@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
 ---
 
@@ -46,7 +46,7 @@ outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Формула расчёта точности для osu!mania")
 
-В osu!mania точность рассчитывается аналогично [osu!](#-osu!).
+В osu!mania точность рассчитывается аналогично [osu!](#osu!).
 
 ## График производительности
 

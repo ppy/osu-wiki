@@ -16,9 +16,9 @@ L'organisation et les discussions de la guilde peuvent être trouvées dans le s
 
 *Pour obtenir les informations les plus récentes sur le système utilisé par la Mappers' Guild, consultez la [section FAQ de son site web](https://mappersguild.com/faq).*
 
-Les mappeurs avec 3 maps classées ou plus peuvent rejoindre la guilde à tout moment via le [site web de la Mappers' Guild](https://mappersguild.com/) en authentifiant leur compte osu!. N'importe qui est libre d'observer les activités de mapping et les quêtes sur le site web.
+Les mappeurs avec 3 beatmaps classées ou plus peuvent rejoindre la guilde à tout moment via le [site web de la Mappers' Guild](https://mappersguild.com/) en authentifiant leur compte osu!. N'importe qui est libre d'observer les activités de mapping et les quêtes sur le site web.
 
-Les mappeurs peuvent obtenir des récompenses en participant au classement des maps des Artistes Associés qui sont liés à la Mappers' Guild. Cela se concentre principalement sur la création de beatmaps, mais des récompenses sont aussi fournies aux utilisateurs qui ont contribué au [modding](/wiki/Modding), à la création des [storyboards](/wiki/Storyboard), ou encore en complétant des quêtes dans la guilde.
+Les mappeurs peuvent obtenir des récompenses en participant au classement des beatmaps des Artistes Associés qui sont liés à la Mappers' Guild. Cela se concentre principalement sur la création de beatmaps, mais des récompenses sont aussi fournies aux utilisateurs qui ont contribué au [modding](/wiki/Modding), à la création des [storyboards](/wiki/Storyboard), ou encore en complétant des quêtes dans la guilde.
 
 ### Parties
 
@@ -28,7 +28,7 @@ Les quêtes spéciales requièrent un plus haut rang dans la guilde pour y parti
 
 ### Quêtes
 
-Les **quêtes** récompensent les mappeurs pour avoir suivi certaines exigences pendant la création de leurs maps d'Artistes Associés. Le plus souvent, les quêtes impliquent qu'un certain nombre de beatmaps pour un Artiste Associé soit crée, cependant les quêtes impliquent aussi quelques petits gadgets.
+Les **quêtes** récompensent les mappeurs pour avoir suivi certaines exigences pendant la création de leurs beatmaps d'Artistes Associés. Le plus souvent, les quêtes impliquent qu'un certain nombre de beatmaps pour un Artiste Associé soit crée, cependant les quêtes impliquent aussi quelques petits gadgets.
 
 Chaque quête a ses propres spécifications en termes de taille de groupe et de rang, de prix d'acceptation et de date limite. Tous les membres d'une partie doivent payer le prix indiqué pour accepter la quête. Les prix sont souvent assez élevés pour les quêtes fantaisistes ou en solo.
 
@@ -53,6 +53,10 @@ Les tâches de création d'une difficulté rapportent plus de points à un utili
 *Article principale : [Vitrine des beatmaps des Artistes Associés](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps)*
 
 Les membres de la Mappers' Guild peuvent également participer à la création de beatmaps de présentation pour les annonces futures des Artistes Associés. Dès l'annonce de l'artiste correspondant, ces beatmaps sont mis en évidence dans le [newspost](https://osu.ppy.sh/home/news) et sont souvent promus sur le [@osugame Twitter](https://twitter.com/osugame) également.
+
+### Concours de Beatmapping
+
+La Mappers' Guild gère également des concours de beatmapping. Depuis janvier 2020, toutes les itérations du [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) ont été hébergées, screenées et jugées en utilisant les systèmes fournis par la Mappers' Guild. Tous les utilisateurs peuvent héberger des concours au travers de la Mappers' Guild pour améliorer l’accessibilité de la communauté de mapping d'osu!.
 
 ## Histoire
 

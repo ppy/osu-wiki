@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
+---
+
 # osu! wiki 贡献指南
 
 感谢你有兴趣让 osu! wiki 变得更好！这篇文章逐步介绍了贡献过程。如果你熟悉 GitHub，则可以按照平常的特性分支工作流程提出更改并跳到[自检](#自检)部分。
@@ -32,7 +37,7 @@ osu! wiki 的文章都保存在 [Github][osu_wiki] 上。想要为 wiki 贡献�
 
 - **注意遣词**：编写 osu! wiki 文章时，除了特殊情况必须使用中性语气。
 - **风格与语法**：文章应该清晰、易于理解，并且不需要读者付出大量的脑力劳动。保持一致，避免过于复杂或突然的句子。使用带有内置拼写检查器的编辑器，例如 [Google 文档](https://docs.google.com)，以检查拼写错误和语法错误。
-- **[内容对等](/wiki/Article_styling_criteria/Formatting#content-parity)**：翻译必须包含与原始文章相同的信息（标点符号、措辞或格式的差异显然是允许的）。如果你认为原文的内容未完成、不准确或已过时，与其更改翻译的内容，你可以选择[提出一个 issues](https://github.com/ppy/osu-wiki/issues/new) 或者为原文章创一个新的拉取请求。
+- **[内容对等](/wiki/Article_styling_criteria/Writing#content-parity)**：翻译必须包含与原始文章相同的信息（标点符号、措辞或格式的差异显然是允许的）。如果你认为原文的内容未完成、不准确或已过时，与其更改翻译的内容，你可以选择[提出一个 issues](https://github.com/ppy/osu-wiki/issues/new) 或者为原文章创一个新的拉取请求。
 - **结构与格式**：使用诸如 [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) 的工具来预览你的文章，以确保他看起来像你想要的样子。
 - **所有图像和其他非文本文件**必须[小于 1MB](/wiki/Article_styling_criteria/Formatting#file-size)。**截图**需要使用默认 osu! 皮肤和[特定设置](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay)，同时，最大分辨率 1280×720。
 

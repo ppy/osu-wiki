@@ -1,6 +1,6 @@
 ---
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
 ---
 
@@ -101,7 +101,7 @@ Vào lúc này, bạn có hai lựa chọn:
 
     ![](img/new-pull-request.png)
 
-11. Xem [Review (Đánh giá)](#review-đánh-giá) và [Merge (Hợp nhất)](#merge-hợp-nhất) bên dưới.
+11. Xem [Review (Đánh giá)](#review-(đánh-giá)) và [Merge (Hợp nhất)](#merge-(hợp-nhất)) bên dưới.
 
 ### Review (Đánh giá)
 

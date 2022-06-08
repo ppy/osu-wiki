@@ -72,6 +72,7 @@ Les règles et directives générales s'appliquent à tous les types de difficul
   - serait déraisonnable de jouer avec une précision totale.
   - serait représenté efficacement par un snap cohérent et prévisible.
   - provoquerait un pic de difficulté inapproprié.
+- **Les long notes doivent-être maintenues pendant au moins 1/12 de temps.** Les temps de relâchement plus rapides ne permettent pas de jouer avec une précision totale.
 - **Évitez d'utiliser des hitsounds échantillonnés par le storyboard avec un volume similaire à celui des hitsounds sur les notes.** Étant donné que les hitsounds du storyboard peuvent submerger et déformer le retour audio des objets de la beatmap, il est préférable de placer les hitsounds sur une note du tableau. Cependant, les échantillons storyboardés peuvent être utilisés lorsque les keysounds sont extraits directement d'une musique et lorsque les difficultés faibles ont trop peu de notes pour supporter les hitsounds nécessaires.
 - **N'utilisez pas les keysounds sans le soutien de hitnormal.** Si les hitsounds s'intègrent parfaitement à la musique, le feedback pour la frappe des notes est minime. Cependant, lorsque des keysounds extraits directement d'une musique sont utilisés pour remplacer l'audio d'une musique, ils n'ont pas besoin du support de hitnormal.
 - **Évitez d'utiliser le même son pour plusieurs notes d'un chord.** Le feedback est alors plus fort que nécessaire. Cela s'applique également aux hitsounds actifs et aux hitsounds du storyboard utilisés au même moment.

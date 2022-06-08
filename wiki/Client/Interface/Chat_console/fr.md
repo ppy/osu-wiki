@@ -1,100 +1,107 @@
-# La console de chat
+# La console de tchat
 
-Vous pouvez afficher la console de chat sur la plupart des écrans d'osu! en appuyant sur `F8` ou sur `Show Chat` en bas à droite de l'écran.
+Vous pouvez afficher la console de tchat d'osu! sur la plupart des écrans en appuyant sur `F8` ou sur `Show Chat` en bas à droite de l'écran.
 
-![Chat Console](img/Chatconsole1.png "Chat Console")
+![La console de tchat](img/Chatconsole1.png "La console de tchat")
 
-- Les onglets sont les canaux que vous avez ouverts. Cliquez tout simplement sur un canal pour le rejoindre. Pour voir la liste des canaux disponibles cliquez sur le `+`.
-- La couleurs des pseudos ont plusieurs significations.
+- Les onglets répertorient les canaux actuellement disponibles. Il suffit de cliquer sur un onglet pour accéder à ce canal. Cliquez sur le bouton "+" jaune pour afficher une liste de nouveaux canaux à rejoindre.
+- Les couleurs des noms d'utilisateur ont des significations différentes.
 
-| Couleur | Qui? |
+| Couleur | Qui ? |
 | :-- | :-- |
 | **Blanc** | Vous |
-| **Jaune** | Les autres utilisateurs |
+| **Jaune pâle** | Les autres utilisateurs |
 | **Jaune** | [osu!supporter](/wiki/osu!supporter) |
-| **Rouge** | BAT or GMT |
-| **Vert** | Une ligne contenant votre pseudo ou un mot que vous avez rajouté à votre list d'"highlight". Une copie de cette ligne apparaîtra aussi dans un channel dédié à cela, `#highlight`. |
+| **Rouge** | Un membre de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) ou de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) |
+| **Vert** | La ligne contient votre nom ou certains mots-clés que vous avez ajoutés pour déclencher une [mise en évidence](Highlight). Une copie du message apparaîtra également dans un canal dédié, `#highlight`, qui contient toutes ces lignes. |
 | **Bleu** | Un message privé |
-| **Bleu** | [peppy](https://osu.ppy.sh/users/2), le créateur d'osu! |
+| **Cyan** | [peppy](https://osu.ppy.sh/users/2), le créateur d'osu! |
 | **Rose** | [BanchoBot](/wiki/BanchoBot) |
 
-- Cliquez sur `Show Ticker` pour afficher le dernier message lorsque la console de chat n'est pas ouverte.
-- Cliquez sur `Auto-Hide` pour cacher automatiquement la console de chat pendant les phases de jeu (Sauf pendant l'intro, l'outro et les pauses).
-- Cliquez sur `Hide Chat` ou de nouveau sur F8 pour cacher le chat.
+- Cliquez sur la case `Show Ticker` pour afficher le dernier message lorsque la console de tchat n'est pas ouverte.
+- Cliquez sur la case `Auto-Hide` pour cacher automatiquement la console de tchat pendant le gameplay (Sauf pendant l'intro, l'outro et les pauses).
+- Cliquez sur la case `Hide Chat` ou de nouveau sur `F8` pour cacher la console de tchat.
 
-## La console de chat étendue
+## La console de tchat étendue
 
-*L'[osu!academy](/wiki/Community/Video_series/osu!academy) à déjà abordé ce sujet ici : [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) (en anglais)*
+*L'[osu!academy](/wiki/Community/Video_series/osu!academy) à déjà abordé ce sujet ici : [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ainsi que le [multijoueur](/wiki/Gameplay/Multiplayer) (en anglais).*
 
-Sur la plupart des écrans du jeu vous pouvez cliquer sur `F9` ou sur `Online Users` pour afficher la console de chat étendue. en plus de la console de chat, le chat étendue affiche les utilisateurs connectés.
+Sur la plupart des écrans, vous pouvez appuyer sur `F9` ou cliquer sur `Online Users` pour afficher la console de tchat étendue. En plus de la console de tchat, le tchat étendu superpose une liste de panneaux dans les deux tiers restants de l'écran, affichant des informations sur les utilisateurs actuellement connectés à osu!.
 
-![Extended chat console](img/Chat_Console-Extended.png "Extended chat console")
+![La console de tchat étendue](img/Chat_Console-Extended.png "La console de tchat étendue")
 
-Chaque utilisateur connecté a un panneau qui lui est dédié. Par défaut, il affiche des informations générales (pseudo, rang, précision, le nombre de parties jouées et l'avatar de l'utilisateur). Quand le curseur est placé sur un panneau, des informations différentes sont affichées (pseudo, rang, avatar, l'heure locale, location de l'utilisateur et ce qu'il est en train de faire).
+Chaque utilisateur connecté a un panneau qui lui est dédié. Par défaut, il affiche des informations générales (nom, score total, rang, précision, nombre de parties et photo de profil de l'utilisateur, le cas échéant). Lorsque le curseur de la souris est placé dessus, il affiche un ensemble différent d'informations (nom, rang, photo de profil le cas échéant, heure locale, fuseau horaire, localisation par pays et, si l'utilisateur l'autorise, par ville, et ce qu'il fait).
 
-- "Lock Panels" bloque l'actualisation de la liste des utilisateurs.
-- Cliquez sur un onglet pour trier les utilisateurs par nom, rang, location ou heure locale.
-- Cliquez sur "World Map" pour afficher une carte du monde avec la localisation (globale) des utilisateurs connectés.
-- Pour faire défiler la liste, vous pouvez cliquer sur le rectangle blanc et le faire descendre, ou utiliser la molette de la souris.
+- La case "Friends only" limite l'affichage à vos amis.
+- La case "Lock Panels" empêche les panneaux de se déplacer, y compris pour les nouveaux utilisateurs.
+- Cliquez sur un onglet pour trier les panneaux d'utilisateurs en fonction de cet attribut.
+- Cliquez sur la carte du monde pour afficher une carte qui montre où se trouve tout le monde.
+- Vous pouvez cliquer et glisser sur la boîte blanche pour faire défiler, vous pouvez également utiliser la molette de la souris.
+- Les utilisateurs qui n'ont pas de statistiques dans leur panneau sont connectés au tchat en utilisant leur client IRC.
 
 La couleur du panneau correspond à un des dix statuts:
 
-| Panel colour | Description |
+| Couleur du panneau | Description |
 | :-- | :-- |
-| ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | Bleu foncé - Aucun des autres statuts |
-| ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | Gris - L'utilisateur joue une map. |
-| ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | Bleu clair/violet - L'utilisateur regarde un joueur jouer une map ou un replay. |
-| ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap") | Rouge - L'utilisateur édite une de ses maps. |
-| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap") | Vert - L'utilisateur édite une map de quelqu'un d'autre. |
-| ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap") | Violet - L'utilisateur test une map depuis l'éditeur. |
-| ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap") | Turquoise - L'utilisateur est en train de mettre une map en ligne. |
-| ![Player in Mulitplayer](img/Chat_Console-Multiplayer.png "Player in Mulitplayer") | Marron - L'utilisateur est en multijoueur mais ne joue pas. |
-| ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | Jaune - L'utilisateur joue en multijoueur. |
-| ![Player is Afk](img/Chat_Console-Afk.png "Player is Afk") | Noir - L'utisateur ne fait rien depuis plusieurs minutes |
-| ![Player is connected via IRC](img/Chat_Console-IRC.png "Player is connected via IRC") | Bleu foncé - Player is not ingame, but logged in from an IRC client or stats are not available. |
+| ![Le joueur est inactif](img/Chat_Console-Idle.png "Le joueur est inactif") | Bleu foncé - Le joueur est actuellement inactif ou ne fait rien ou ne fait que chatter. |
+| ![Le joueur joue](img/Chat_Console-Playing.png "Le joueur joue") | Gris - joue une beatmap en solo. |
+| ![Le joueur regarde](img/Chat_Console-Watching.png "Le joueur regarde") | Bleu clair - Regarde un replay ou observe quelqu'un. |
+| ![Le joueur modifie une beatmap](img/Chat_Console-Editing.png "Le joueur modifie une beatmap") | Rouge - Édite sa propre beatmap |
+| ![Le joueur teste une beatmap](img/Chat_Console-Testing.png "Le joueur teste une beatmap") | Violet - Test d'une beatmap, qu'il s'agisse de sa beatmap ou non. |
+| ![Le joueur soumet une beatmap](img/Chat_Console-Submitting.png "Le joueur soumet une beatmap") | Turquoise - Soumet (soit en téléchargeant, soit en mettant à jour) une beatmap qu'ils ont réalisé. |
+| ![Le joueur mod une beatmap](img/Chat_Console-Modding.png "Le joueur mod une beatmap") | Vert - Mod ou édite une beatmap de quelqu'un d'autre. |
+| ![Le joueur joue en multijoueur](img/Chat_Console-Multiplayer.png "Le joueur joue en multijoueur") | Marron - L'utilisateur est en mode multijoueur, mais ne joue pas. |
+| ![Le joueur joue en multijoueur](img/Chat_Console-Multiplaying.png "Le joueur joue en multijoueur") | Jaune - Joue actuellement en mode multijoueur. |
+| ![Le joueur est Afk](img/Chat_Console-Afk.png "Le joueur est Afk") | Noir - Inactif (away from keyboard) (afk). |
+| ![Le joueur est connecté via IRC](img/Chat_Console-IRC.png "Le joueur est connecté via IRC") | Bleu foncé sans contenu - Le joueur n'a pas le jeu ouvert, mais s'est connecté à un client IRC ou les statistiques ne sont pas disponibles. |
 
-Cliquez sur un utilisateur pour affichier des options d'utilisateur Les options sont.
+En cliquant sur n'importe quel panneau utilisateur, un écran d'options apparaît.
 
-![User panel options](img/Chat_Console-Userpaneloptions.jpg "User panel options")
+![Options du panneau de l'utilisateur](img/Chat_Console-Userpaneloptions.jpg "Options du panneau de l'utilisateur")
 
-1. `Start Spectating`: Vous permet de regarder un utilisateur jouer en temps réel, et si l'utilisateur est déjà en train de regarder quelqu'un jouer, alors vous regarderez celui-ci jouer
-2. `View Profile`: Ouvre le profil de l'utilisateur
-3. `Start Chat`: Ouvre un chat privé avec l'utilisateur
-4. `Add as Friend`: Ajouter l'utilisateur à vos amis
-5. `Close`: Ferme les options d'utilisateur
+Appuyez sur le numéro ou cliquez sur la barre pour l'activer :
 
-## La liste des commandes
+1. `Observer le joueur` : Si l'utilisateur joue une beatmap et que vous l'avez, vous pouvez l'observer pendant qu'il joue. Votre nom figurera dans sa liste de spectateurs.
+2. `Consulter le profil` : Ouvre la page web du profil du joueur dans votre navigateur.
+3. `Discuter` : Ouvre un onglet de tchat privé avec l'utilisateur.
+4. `Inviter à rejoindre la salle` : (Si vous êtes dans une salle multijoueur) Demande à l'utilisateur de venir dans votre salle.
+5. `Ajouter (retirer) de la liste d'amis` : Ajoute (supprime) l'utilisateur à votre liste d'amis.
+6. `Signaler l'utilisateur` : Signaler l'utilisateur pour un mauvais comportement. Ne doit jamais être utilisé, sauf indication contraire. Vous pouvez signaler un utilisateur dans le jeu pour un certain nombre de choses, mais aussi sur le web, comme les forums.
+7. `Ignorer l'utilisateur` : Toute entrée de tchat par l'utilisateur n'apparaîtra pas dans votre console de tchat.
+8. `Fermer` : Ferme le panneau.
+
+## Liste des commandes
 
 ### /help
 
-| COMMANDE | Effect | Example | Réponse de BanchoBot |
+| Commande | Effet | Exemple | Réponse de BanchoBot |
 | :-- | :-- | :-- | :-- |
-| `/addfriend [user]` | Ajouter ou supprimer `[user]` de votre liste d'amis. | `/addfriend Amigo` | Vous êtes maintenant ami avec Carlito. |
-| `/delfriend [user]` | Remove `[user]` from your friends list. | `/delfriend Amigo` | You are no longer friends with Amigo. |
-| `/away [message]` | Défini un message d'absence à envoyer aux utilisateurs vous écrivant. Laissez le champ vide pour annuler. | `/away I am John Smith.` | Défini un message d'absence à envoyer aux utilisateurs vous écrivant. Laissez le champ vide pour annuler. Vous avez été marqué en tant qu'absent: Who's that boy? Quand quelqu'un vous enverra un message tel que : Do you know ppy ? La réponse automatique "Who's that boy?" lui sera envoyée |
-| `/bb` | Envoyer un message à BanchoBot | `/bb rank 1` | BanchoBot: Demmon is in France |
-| `/chat [user]` | Ouvrir un nouvel onglet de discussion avec l'utilisateur spécifié. | `/chat Amigo` | (Un chat privé avec Carlito s'ouvre) |
-| `/clear` | Vider le contenu de l'onglet actuellement ouvert. | `/clear` | (Le chat est vide) |
-| `/ignore [user][@chp]` | Ignorer tous les messages de l'utilisateur spécifié. En ajoutant un @ puis les lettres, c, h,et/ou, vous pouvez ignorer l'utilisateur dans le chat, les highlights, ou les messages privés. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} |
-| `/j [channel]` ou `/join [channel]` | Rejoindre le canal spécifié | /join #lobby | (#lobby s'ouvre) |
-| `/p` ou `/part` | Quitte le channel actuel. | `/part` | n/a |
-| `/unignore [user]` | Arrêter d'ignorer cet utilisateur pour cette session. | `/unignore Amigo` | Vous pouvez maintenant voir les messages de Carlito. |
-| `/me [action]` | Effectuer une action à la troisième personne. | `/me is singing` | \* Carlito is singing |
-| `/msg [user] [msg]` | Envoyer un message privé à `[user]`. | `/msg Carlito Wanna be amigo` | (Dans l'onglet Carlito) Charles445: Wanna be amigo? |
-| `/np` | Afficher dans le chat la musique que vous écoutez ou jouez actuellement. | `/np` | (Si vous jouez) \* John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#autres-modes-de-jeu) \~[Relax/Autopilot](/wiki/Game_modifier#divers)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulté-augmentée) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulté-réduite)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) (Si vous ne faites rien, la commande se base sur la musique que vous écoutez) \* John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756#osu/22538) (If spectating or Autoplay) \* John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#autres-modes-de-jeu) \~[Relax/Autopilot](/wiki/Game_modifier#divers)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulté-augmentée) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulté-réduite)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) [Autoplay](/wiki/Game_modifier/Auto) |
-| `/reply` or `/r` | Répondre au dernier message privé reçu. | `/r Carlito! Carlito!` | (Dans l'onglet Carlito) \[Message précédent\] Charles445: Wanna be amigo? Carlito: Carlito! Carlito! |
-| `/savelog` | Enregistrer une copie de la conversation actuelle dans un fichier texte. | `/savelog` | (Un dossier nommé Chaté sera crée et contiendra les sauvegardes de vos conversations)) |
-| `/watch [user]` | Commencer à regarder `[user]`. | `/watch Amigo` | Started spectating Carlito. |
-| `/nopm` | Activer/désactiver l'options « Autoriser uniquement les messages privés des amis ». | `/nopm` | (Le message apparaîtra sur votre écran) |
-| `/invite [user]` | Invites `[user]` to the multiplayer room along with the link. | `/invite Nathanael` | \* Nathanael has been invited to the game |
+| `/addfriend [user]` | Ajoute ou supprime `[user]` de votre liste d'amis. | `/addfriend Amigo` | You are now friends with Amigo. |
+| `/delfriend [user]` | Supprime `[user]` de votre liste d'amis. | `/delfriend Amigo` | You are no longer friends with Amigo. |
+| `/away [message]` | Défini un message d'absence à envoyer aux utilisateurs vous envoyant un message privé. Laissez le champ vide pour annuler. | `/away Je suis John Smith.` | You have been marked as being away: I am John Smith. Quand Amigo /msg John Où es-tu~ ? BanchoBot : Je suis John Smith. |
+| `/bb` | Envoie un message à Bancho pour qu'il exécute une commande telle que `!stats [user]` | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/chat [user]` | Ouvre un nouvel onglet de tchat avec l'utilisateur spécifié. | `/tchat Amigo` | (L'onglet Amigo est ouvert) |
+| `/clear` | Efface le contenu du tchat actuel. | `/clear` | (Efface pratiquement tout ce qui se trouve dans l'onglet actuel) |
+| `/ignore [user][@chp]` | Ignore tous les messages de l'utilisateur spécifié pour cette session. En ajoutant un @ suivi des lettres, c, h, et/ou p, vous pouvez les ignorer respectivement dans le tchat, les [highlights](Highlight), ou les PMs. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Votre console de tchat est réglée sur : ignore any text written by Amigo \[c\], any possible text highlighting you by Amigo \[h\] any Private Message sent to you by Amigo \[p\]) |
+| `/j [channel]` ou `/join [channel]` | Rejoint le salon spécifié | `/join #lobby` | (L'onglet #lobby est ouvert) |
+| `/p` ou `/part` | Quitte le salon actuel. | `/part` | n/a |
+| `/unignore [user]` | Arrête d'ignorer cet utilisateur pour cette session. | `/unignore Amigo` | You may now hear Amigo. (Votre console de tchat permettra d'accéder à tout commentaire fait par Amigo.) |
+| `/me [action]` | Effectue une action à la troisième personne. | `/me est à la maison` | *John est à la maison |
+| `/msg [user] [msg]` | Envoie un message privé à `[user]`. | `/msg Amigo Je suis malade à la maison.` | (Dans l'onglet d'Amigo) John: Je suis malade à la maison. |
+| `/np` | Imprime dans le tchat la musique en cours d'écoute ou en cours de jeu. | `/np` | (Si vous jouez) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) |
+| `/reply` ou `/r` | Répondre au dernier message privé reçu. | `/r Connais tu un bon médecin ?` | (Dans l'onglet d'Amigo) \[Commentaires précédents\] John: Je suis malade à la maison. Amigo: Vraiment ? John: Connais tu un bon médecin ? |
+| `/savelog` | Enregistre l'onglet de tchat actuel dans un fichier texte. | `/savelog` | (Un dossier appelé "Chat" sera créé dans le répertoire d'osu! qui contiendra toutes les sauvegardes des futurs onglets de tchat.) |
+| `/watch [user]` | Commence à observer `[user]`. | `/watch Amigo` | * Started spectating Amigo. (Quand Amigo joue une beatmap que vous possédez, vous observez son jeu. \[après une mise en mémoire tampon\] avec votre nom sur la gauche de l'écran d'Amigo) |
+| `/nopm` | Active/Désactive pour autoriser les messages privés de tout le monde ou des amis seulement. | `/nopm` | (A une bannière pop-up apparaîtra au centre, indiquant que vous autorisez les messages privés à tout le monde/aux amis uniquement.) |
+| `/invite [user]` | Invite `[user]` à la salle multijoueur avec le lien. | `/invite Nathanael` | * Nathanael has been invited to the game |
 
 ### /keys
 
-| Keyboard keys | Effect |
+| Touches du clavier | Effect |
 | :-- | :-- |
 | `Page Up` / `Page Down` | Faire défiler la conversation. Vous pouvez aussi utiliser la molette de la souris. |
-| `Tab` | Compléter automatiquement le pseudo en cours de saisie. |
-| `F8` | Basculer le chat. |
-| `F9` | Basculer la liste des utilisateurs connectés. |
+| `Tab` | Compléter automatiquement le nom d'utilisateur en cours de saisie. |
+| `F8` | Agrandit/Réduit la console de tchat. |
+| `F9` | Agrandit/Réduit la console de tchat étendue. |
 | `Ctrl` + `C` / `V` | Copier/coller |
 | `Alt` + `0` - `9` | Basculer vers l'onglet respectif. |

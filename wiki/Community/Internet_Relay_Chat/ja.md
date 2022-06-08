@@ -16,6 +16,7 @@ IRCクライアントの設定を開き、値を入力してください。（�
 
 - サーバー: `irc.ppy.sh`
 - ポート: `6667`
+- SSL: 無効
 - ユーザー名: osu!のユーザ名。スペースをアンダースコアに置き換えてください（例: `beppy master 1000` は `beppy_master_1000` になります）
 - パスワード: [IRC Authentication](https://osu.ppy.sh/p/irc)ページのパスワード
 
@@ -82,4 +83,4 @@ osu!クライアントやウェブサイトで接続しているユーザーに�
 
 ### 誰かがメッセージを送信していますが、チャンネルユーザーのリストにはありません。
 
-[ウェブ版チャット](https://osu.ppy.sh/community/chat)を使っているか、[osu!lazer](https://github.com/ppy/osu)で接続しています。
+[ウェブ版チャット](https://osu.ppy.sh/community/chat)を使っているか、[osu!(lazer)](https://github.com/ppy/osu)で接続しています。

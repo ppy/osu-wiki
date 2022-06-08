@@ -103,18 +103,18 @@ no_native_review: true
 
 [專案](/wiki/Community/Projects): [精選藝術家](/wiki/Featured_Artists) • [osu! 社群會議](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
+組織：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+
 </div>
 <div class="wiki-main-page-panel">
 
-# 成員
+# [成員](/wiki/People)
 
 有了許多玩家協助開發、維護、及社群管理，osu! 才得以實現，他們的努力、時間及貢獻使遊戲能夠成長茁壯。
     
 [團隊](/wiki/People/The_Team)：[開發團隊](/wiki/People/The_Team/Developers) • [管理團隊 (Global Moderation Team)](/wiki/People/The_Team/Global_Moderation_Team) • [支援團隊](/wiki/People/The_Team/Support_Team) • [提名評估團隊 (Nomination Assessment Team)](/wiki/People/The_Team/Nomination_Assessment_Team) • [圖譜提名者](/wiki/People/The_Team/Beatmap_Nominators) • [osu! 名人堂](/wiki/People/The_Team/osu!_Alumni) • [Project Loved 團隊](/wiki/People/The_Team/Project_Loved_Team)
 
-組織：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
-
-[社群貢獻者](/wiki/People/Community_Contributors) • [有專屬頭銜的玩家](/wiki/People/Users_with_unique_titles)
+[社群貢獻者](/wiki/People/Community_Contributors) • [有專屬頭銜的玩家](/wiki/People/Users_with_unique_titles)• [錦標賽委員會](/wiki/People/Tournament_Committee) • [表現分數 (PP) 委員會](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">

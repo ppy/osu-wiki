@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu!supporter
@@ -35,8 +35,6 @@ In het kort: Donaties worden gebruikt om osu! draaiend te houden.
 ### Prijzen
 
 [Gebruik deze valuta converter](http://www.oanda.com/currency/converter/) of [vraag Google](https://www.google.com.my/#q=usd+exchange+rate) om de prijs in omgerekend naar euro te zien. De prijzen zijn in "USD$ dollar".
-
-![Een voorbeeld van Supporter kopen](img/selecting-duration.jpg?1 "Een voorbeeld van Supporter kopen")
 
 | Maanden | Kosten {USD$} (ten opzicht van totaal) |
 | :-: | :-- |

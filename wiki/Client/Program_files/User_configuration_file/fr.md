@@ -83,9 +83,9 @@ Il s'agit d'une liste d'options dans le fichier `osu!.<votre nom de compte PC>.c
 | `EditorStacking` | 0 ou 1 | Empilage des notes |
 | `Ticker` | 0 ou 1 | Nouveaux messages de chat en bas de l'écran |
 | `AutoChatHide` | 0 ou 1 | Rétracter le chat pendant les parties |
-| `ChatHighlightName` | 0 ou 1 | Notifier si mon nom est mentionné |
+| `ChatHighlightName` | 0 ou 1 | Notifier si mon nom est [mentionné](/wiki/Client/Interface/Chat_console/Highlight) |
 | `ChatMessageNotification` | 0 ou 1 | Notifier à l'arrivée de nouveaux messages |
-| `ChatAudibleHighlight` | 0 ou 1 | Jouer un son si mon nom est mentionné |
+| `ChatAudibleHighlight` | 0 ou 1 | Jouer un son si mon nom est [mentionné](/wiki/Client/Interface/Chat_console/Highlight) |
 | `DisplayCityLocation` | 0 ou 1 | Permettre aux joueurs de voir ma ville |
 | `ShowSpectators` | 0 ou 1 | Liste de mes spectateurs pendant les parties |
 | `AutoSendNowPlaying` | 0 ou 1 | Envoi automatique de liens vers les beatmaps aux spectateurs |
@@ -102,7 +102,7 @@ Il s'agit d'une liste d'options dans le fichier `osu!.<votre nom de compte PC>.c
 | `LogPrivateMessages` | 0 ou 1 | Conserver une copie des messages privés |
 | `BlockNonFriendPM` | 0 ou 1 | Autoriser uniquement les messages privés de mes amis |
 | `IgnoreList` | Liste de chaînes de caractères séparées par des espaces | Utilisateurs à ignorer (séparer avec des espaces) : |
-| `HighlightWords` | Liste de chaînes de caractères séparées par des espaces | Mots à notification (séparer avec des espaces) : |
+| `HighlightWords` | Liste de chaînes de caractères séparées par des espaces | Mots à [notification](/wiki/Client/Interface/Chat_console/Highlight) (séparer avec des espaces) : |
 
 ### Raccourcis claviers
 
@@ -205,15 +205,15 @@ Vous trouverez d'autres options de mise en page osu!mania dans le fichier [skin.
 | `EditorBeatDivisor` | Entier | Dernier beat snap divisor utilisé |
 | `DistanceSpacing` | Décimale | Dernier multiplicateur distance snap utilisé |
 | `DistanceSpacingEnabled` | 0 ou 1 | Si distance snap est activé ou non |
-| `NotifySubmittedThread` | 0 ou 1 | Vérifie automatiquement l'option `Recevoir une notification par e-mail en cas de réponse` lors de la soumission d'une map via BSS. |
-| `LoadSubmittedThread` | 0 ou 1 | Vérifie automatiquement l'option `Chargement dans le navigateur après soumission` lors de la soumission d'une carte via BSS. |
+| `NotifySubmittedThread` | 0 ou 1 | Vérifie automatiquement l'option `Recevoir une notification par e-mail en cas de réponse` lors de la soumission d'une beatmap via BSS. |
+| `LoadSubmittedThread` | 0 ou 1 | Vérifie automatiquement l'option `Chargement dans le navigateur après soumission` lors de la soumission d'une beatmap via BSS. |
 
 ### Menu principal
 
 | Option | Type de valeur | Description |
 | :-- | :-- | :-- |
 | `FrameTimeDisplay` | 0 ou 1 | Si frame time est activé ou non |
-| `PermanentSongInfo` | 0 ou 1 | Si l'information de la chanson en cours de lecture est affichée en permanence ou non. |
+| `PermanentSongInfo` | 0 ou 1 | Si l'information de la musique en cours de lecture est affichée en permanence ou non. |
 
 ### Multijoueur
 

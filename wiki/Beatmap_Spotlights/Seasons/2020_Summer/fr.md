@@ -12,7 +12,7 @@ tags:
 
 ## Programme
 
-| Événement | Temps |
+| Événement | Date |
 | :-- | :-- |
 | Début de la saison | 6 juillet 2020 |
 | Lobby temporaire : Playlist A | 10 juillet - 12 juillet 2020 |
@@ -29,7 +29,7 @@ tags:
 
 ## Lobbies multijoueurs hebdomadaires
 
-Pour l'instant, les participants doivent télécharger et installer [osu!lazer](https://github.com/ppy/osu/releases) pour rejoindre les lobbies multijoueurs hebdomadaires.
+Pour l'instant, les participants doivent télécharger et installer [osu!(lazer)](https://github.com/ppy/osu/releases) pour rejoindre les lobbies multijoueurs hebdomadaires.
 
 1. Tous les vendredis d'une saison, un seul lobby temporaire multijoueur est ouvert. Tout le monde peut y participer pendant 3 jours.
    - Au cours des deux dernières semaines d'une saison, un lobby temporaire multijoueur y sera ouvert pour chacune des deux playlists.
@@ -40,7 +40,7 @@ Pour l'instant, les participants doivent télécharger et installer [osu!lazer](
 3. Au sein d'un lobby temporaire, tout le monde est en compétition pour un classement spécifique à la salle.
    - Les classements des salles sont basés sur le système de score classé. Par conséquent, seuls les meilleurs résultats de chaque beatmap de la playlist sont additionnés pour créer un classement hebdomadaire pour chaque utilisateur.
    - Chaque beatmap d'une playlist compte également pour le score du classement. Les difficultés plus difficiles ne donnent pas plus de points.
-   - Le score individuel d'une beatmap est basé sur le système de notation d'osu!lazer.
+   - Le score individuel d'une beatmap est basé sur le système de notation d'osu!(lazer).
 4. Le score total hebdomadaire visible dans le lobby temporaire est appelé "score hebdomadaire".
 5. Une fois qu'un lobby temporaire est terminé, le score hebdomadaire de chaque participant de la salle est ajouté au classement saisonnier.
 

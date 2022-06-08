@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # Colaboradores da Comunidade
@@ -103,11 +103,11 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | Precença fenomenal como árbitro em dezenas de torneios de comunidade |
 | ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | Performance fenomenal em casting, comentário, recapitulações baseadas em eventos |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | A mente brilhante por trás de incontáveis melhorias para o osu!, desde pp, uma reformulação do engine gráfico, star rating, e mais! |
-| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Contribuição fenomenal para o projeto do osu!lazer |
-| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Contribuição fenomenal para o projeto do osu!lazer com 90+ pullreqs e centenas de commits |
-| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Contribuição fenomenal para o projeto do osu!lazer |
-| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Contribuição fenomenal e organização para o projeto de localização em Chinês para o osu!, osu! wiki, e osu!lazer |
-| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Contribuição fenomenal para o projeto do osu!lazer e criação de várias ferramentas de mídia |
+| ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Contribuição fenomenal para o projeto do osu!(lazer) |
+| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Contribuição fenomenal para o projeto do osu!(lazer) com 90+ pullreqs e centenas de commits |
+| ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Contribuição fenomenal para o projeto do osu!(lazer) |
+| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Contribuição fenomenal e organização para o projeto de localização em Chinês para o osu!, osu! wiki, e osu!(lazer) |
+| ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Contribuição fenomenal para o projeto do osu!(lazer) e criação de várias ferramentas de mídia |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Criador de PerformancePlus e osu!chan |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Esforço fenomenal na produção e publicação do projeto Scorewatch |
 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Esforço fenomenal na produção e publicação do projeto Scorewatch |
@@ -144,7 +144,7 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | Contribuição fenomenal para o Community Mentorship Program |
 | ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) | Contribuição fenomenal para o Community Mentorship Program |
 | ![][flag_FI] [J1NX1337](https://osu.ppy.sh/users/3971179) | Contribuição fenomenal para o Community Mentorship Program |
-| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Contribuição fenomenal para o projeto do osu!lazer |
+| ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706) | Contribuição fenomenal para o projeto do osu!(lazer) |
 
 ## 2020
 
