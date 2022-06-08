@@ -830,7 +830,7 @@ La première version de l'osu!api a été mise à disposition le 2 juillet 2013[
 [^api-praise]: [osu!api bêta ouverte](https://osu.ppy.sh/community/forums/posts/2662247)
 ```
 
-### Informations générales
+### Notes
 
 Les notes de bas de page peuvent être utilisées pour stocker des explications ou des remarques tangentielles qui ne peuvent pas être intégrées sans nuire à la lisibilité de l'article, ou qui sont moins importantes que l'article lui-même. Ces notes de bas de page peuvent utiliser du texte libre.
 
@@ -839,7 +839,7 @@ Example:
 ```markdown
 Un tournoi ne doit pas être organisé et dirigé par une équipe inexpérimentée composée de personnel non accompli et irréprochable [^staff].
 
-## References
+## Notes
 
 [^staff]: Un staff *inexpérimenté* est vaguement défini comme quelqu'un qui joue à osu! depuis moins d'une heure au total.
 ```
