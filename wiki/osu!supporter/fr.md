@@ -68,12 +68,12 @@ Obtenir osu!supporter donne la possibilité de changer de nom d'utilisateur grat
 osu!direct est l'outil de recherche et de téléchargement de beatmaps en jeu disponible pour les supporters. On peut y accéder depuis le menu principal en cliquant sur le label vertical `osu!direct` sur le côté droit de l'écran. En plus d'une liste intégrée de beatmaps, osu!direct fournit d'autres moyens d'obtenir de nouvelles beatmaps sans quitter le jeu :
 
 - Les liens de beatmaps dans le tchat qui mènent vers la page de la beatmap sur le site web d'osu! démarrent directement le téléchargement en jeu.
-- Téléchargements automatiques en jouant dans un lobby [multijoueur](/wiki/Gameplay/Multiplayer) ou en [observant](/wiki/Gameplay/Spectating) un autre joueur comme [paramètre](/wiki/Client/Options#integrations).
-- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs comme [paramètre](/wiki/Client/Options#integrations).
+- Téléchargements automatiques en jouant dans un lobby [multijoueur](/wiki/Gameplay/Multiplayer) ou en [observant](/wiki/Gameplay/Spectating) un autre joueur comme [paramètre](/wiki/Client/Options#intégrations).
+- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs comme [paramètre](/wiki/Client/Options#intégrations).
 
 ### Classements avancés
 
-Les supporters ont accès à plusieurs outils spécifiques aux [classements](/wiki/Beatmap#leaderboards) d'une beatmap, disponibles à la fois en jeu et sur le site web : 
+Les supporters ont accès à plusieurs outils spécifiques aux [classements](/wiki/Beatmap#classement) d'une beatmap, disponibles à la fois en jeu et sur le site web : 
 
 - Les classements globaux pour toutes les combinaisons de [modificateurs de jeu](/wiki/Game_modifier).
 - Le classement par pays des joueurs portant le même drapeau.
@@ -85,7 +85,7 @@ osu! propose aux supporters des limites plus souples sur diverses fonctionnalit�
 
 | Valeur | Limite normale | Limite osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmaps en attente](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(beatmaps classées, 2)` | `8 + min(beatmaps classées, 4)` |
+| [Beatmaps en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) | `4 + min(beatmaps classées, 2)` | `8 + min(beatmaps classées, 4)` |
 | Beatmap favorites en ligne | 100 | 1000 |
 | Nombre d'amis | 250 | 500 |
 
@@ -102,7 +102,7 @@ Après avoir obtenu osu!supporter, certains éléments visuels et sonores de l'i
 | `welcome.wav` | Le sample "welcome to osu!" qui est joué au démarrage du jeu |
 | `seeya.wav` | Le sample "see ya next time" qui est joué quand le jeu se ferme |
 
-Pour plus de détails, voir [Skinning de l'interface § Menu principal](/wiki/Skinning/Interface#menu-principal) et [Skinning des sons § Menu principal](/wiki/Skinning/Sounds#menu-menu-principal).
+Pour plus de détails, voir [Skinning de l'interface § Menu principal](/wiki/Skinning/Interface#menu-principal) et [Skinning des sons § Menu principal](/wiki/Skinning/Sounds#menu-principal).
 
 ### Recherche étendue
 
