@@ -1,6 +1,11 @@
+---
+outdated_translation: true
+outdated_since: 2e7ca4cf876739862918998b75070e461ad7891c
+---
+
 # Storyboard scripting
 
-![Sebuah contoh scripting di .osb.](img/SBS_Base.jpg "Sebuah contoh scripting di .osb.")
+![Sebuah contoh scripting di .osb.](img/osb-example.png "Sebuah contoh scripting di .osb.")
 
 Selain dengan menggunakan [editor storyboard bawaan](/wiki/Client/Beatmap_editor/Design) yang tersedia, [storyboard](/wiki/Storyboard) suatu beatmap juga dapat dibuat dengan menggunakan editor-editor teks yang umum dijumpai seperti Notepad, [Notepad++](http://www.notepad-plus-plus.org/), atau [Visual Studio Code](https://code.visualstudio.com/). Metode pembuatan storyboard ini dikenal dengan istilah "**Storyboarding by Scripting**" (SBS) atau *storyboard scripting*, yang memungkinkan para pembuat storyboard untuk dapat mengatur segala komponen yang ada pada storyboard mereka secara detail hingga ke satuan *pixel* dan milidetik.
 

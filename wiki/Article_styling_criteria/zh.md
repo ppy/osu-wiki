@@ -1,5 +1,5 @@
 ---
-outdated: true  # the original article has been UPDATED and split into two, Formatting and Writing, in #3734
+outdated_translation: true  # the original article has been UPDATED and split into two, Formatting and Writing, in #3734
 ---
 
 # 文章风格规范

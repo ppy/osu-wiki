@@ -19,11 +19,7 @@ tags:
   - Gerät
   - Benutzername
   - Löschung
-outdated: true
-outdated_since: 56ef96e783e017921593b286c0d744de40c16168
 ---
-
-<!--TODO: change link as soon as German article is available (line 223)-->
 
 # Account
 
@@ -61,9 +57,7 @@ Siehe *[Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions)* 
 
 Turniersperren sind, wie der Name beschreibt, ein Verbot der Teilnahme an allen offiziell unterstützten Turnieren.
 
-Ein Benutzer kann eine Turniersperre für einen Bruch der osu!-Communityregeln während eines Turnierspiels bekommen, abhängig von dem Schweregrad des Verstoßes. Beispiele für solches Fehlverhalten sind unter anderem das Erlangen eines unfairen Vorteils in offiziell unterstützten Turnieren, jemanden beleidigen, der an einem Turnier teilnimmt, oder die absichtliche Störung des Turnierablaufs.
-
-Die meisten Turniersperren haben eine festgelegte Dauer, variierend von 3 Monaten bis zu einem Jahr und mehr. Einige Sperren können dauerhaft sein. Unabhängig von der Dauer der Sperre sind alle Turniersperren **final** und können nicht angefochtet werden, wie es bei Einschränkungen der Fall ist.
+Siehe den Artikel [Turniersperren](/wiki/Help_centre/Tournament_bans) für mehr Informationen zu diesem Thema.
 
 ## Anmeldung
 
@@ -130,7 +124,7 @@ Nach maximal ein paar Stunden wird der Status für die meisten Leute gelöscht u
 
 Wenn du dich an die mit deinem Account verknüpfte E-Mail-Adresse erinnerst, versuche den E-Mail-Abschnitt auf der Seite der [Account-Einstellungen](https://osu.ppy.sh/home/account/edit) zu besuchen, um deine E-Mail-Adresse zu ändern. Fülle alle notwendigen Felder aus und klicke auf `ändern`, sobald du fertig bist.
 
-Solltest du das Passwort deines Accounts verloren haben und keine E-Mail zur Passwortwiederherstellung erhalten, oder du kannst dich wirklich nicht an deine verwendete E-Mail-Adresse erinnern, dann kontaktiere uns bitte via [accounts@ppy.sh](mailto:accounts@ppy.sh). Jede Information, die du über deinen Account hast (dein Benutzernamen; jede Bildschirmaufnahme, die dich eingelogt im Spiel-Client zeigt; vergangene Transkationen über den Shop oder Zahlungen für Supporter, usw.) werden hilfreich sein!
+Solltest du das Passwort deines Accounts verloren haben und keine E-Mail zur Passwortwiederherstellung erhalten, oder du kannst dich wirklich nicht an deine verwendete E-Mail-Adresse erinnern, dann kontaktiere uns bitte via [accounts@ppy.sh](mailto:accounts@ppy.sh). Jede Information, die du über deinen Account hast (deinen Benutzernamen; jede Bildschirmaufnahme, die dich eingeloggt im Spiel-Client zeigt; vergangene Transaktionen über den Shop oder Zahlungen für Supporter, usw.) werden hilfreich sein!
 
 Zuletzt sind wir uns bewusst, dass einige Dienstleister keine automatisierten E-Mails von uns akzeptieren. Wenn du irgendeinen von diesen Anbietern nutzt, kontaktiere uns via E-Mail und wir werden deine E-Mail-Adresse für dich ändern:
 
@@ -152,7 +146,7 @@ Wenn du zu irgendeinem Zeitpunkt ein [Supporter-Tag](https://osu.ppy.sh/home/sup
 
 Zu jedem späteren Zeitpunkt kannst du dir eine [Namensänderung](https://osu.ppy.sh/store/products/32) kaufen, um deinen Benutzernamen deinem Wunsch nach zu ändern. Jedoch wird jede Änderung schrittweise teurer - die zweite kostet $8 USD, die dritte $16 USD, und so weiter, bis zu einer Höhe von $100 USD. Wir machen das, um Leute daran zu hindern, das System zu missbrauchen und ihren Namen in kurzen Abständen zu ändern.
 
-Bitte beachte, dass Nutzernamen sich an unsere [Communityregeln](/wiki/Rules#community-regeln) in der Weise halten müssen, dass sich andere Nutzer nicht angegriffen fühlen dürfen, sowie, dass kein übermäßig provokantes oder hetzerisches Verhalten vorkommt. Des Weiteren sind Nutzernamen, die den Namen von Personen des öffentlichen Lebens ähneln (zum Beispiel Prominente, Politiker, etc.), nicht erlaubt und werden zwingend geändert, sobald wir davon Kenntnis nehmen.
+Bitte beachte, dass Nutzernamen sich an unsere [Community-Regeln](/wiki/Rules#community-regeln) in der Weise halten müssen, dass sich andere Nutzer nicht angegriffen fühlen dürfen, sowie, dass kein übermäßig provokantes oder hetzerisches Verhalten vorkommt. Des Weiteren sind Nutzernamen, die den Namen von Personen des öffentlichen Lebens ähneln (zum Beispiel Prominente, Politiker, etc.), nicht erlaubt und werden zwingend geändert, sobald wir davon Kenntnis nehmen.
 
 Enthält dein Nutzername nur geringfügige Grammatik-/Rechtschreibfehler, dann kannst du eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) senden und nach einer kostenlosen Namensänderung fragen, um diese Probleme zu lösen. Wir werden kein Geld für diese Namensänderung verlangen, aber du **MUSST** diese via der Support-E-Mail durchführen. Bedenke, dass wir das nur einige begrenzte Male machen, also sei dir sicher, dass du die Änderung wirklich möchtest!
 
@@ -172,7 +166,7 @@ Wir erlauben kostenlose Zurücksetzungen für den direkten vorherigen Namen eine
 
 Änderungen zu anderen vorherigen Namen müssen via [dem Shop gekauft werden](https://osu.ppy.sh/store/products/32).
 
-Benutzernamenrücksetzungen sind auf eine pro Jahr limitiert, also bitte erwäge deine Entscheidung gründlich bevor du anfragst!
+Rücksetzungen von Benutzernamen sind auf eine pro Jahr limitiert, erwäge also bitte deine Entscheidung gründlich bevor du anfragst!
 
 ### Mein Benutzername wurde zurückgesetzt!
 
@@ -222,24 +216,36 @@ Das bedeutet aber nicht, dass du einen neuen Account erstellen kannst! Mehrere A
 
 ### Kann ich meinen Account löschen?
 
-*Für mehr Informationen über die Löschung von Accounts, siehe: [deine Rechte und Kontrolle](/wiki/Legal/Privacy#your-rights-and-control).*
+*Für mehr Informationen über die Löschung von Accounts, siehe: [osu!-Datenschutzrichtlinie § Deine Rechte und Kontrolle](/wiki/Legal/Privacy#your-rights-and-control)<!--TODO: change link as soon as German article is available-->.*
 
 *Vorsicht: Accounts zu löschen ist dauerhaft und kann daher nicht rückgängig gemacht werden!*
 
 Ja, jeder Nutzer kann die Löschung seines Accounts durch das Senden einer E-Mail an [privacy@ppy.sh](mailto:privacy@ppy.sh) beantragen. Beachte, dass die Löschung **endgültig** ist. Das heißt, dass sie nicht aufgehoben werden kann. Einen Account zu löschen bedeutet nicht, dass du einen neuen Account erstellen kannst, da der Besitz mehrerer Accounts gegen die [Regeln](/wiki/Rules#community-regeln) verstößt. Du wirst also nicht mehr in der Lage sein, die Online-Funktionen von osu! nutzen zu können.
 
+### Ich möchte nicht mehr weiterspielen, aber ich möchte nicht, dass mein Account gelöscht wird!
+
+Jeder Benutzer kann die **Sperrung** seines Accounts durch das Senden einer E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) beantragen. Das Passwort des Accounts wird dann zufällig eingetippt und die E-Mail-Adresse ausgeblendet, wodurch der Nutzer aus seinem Account ausgesperrt wird. Es gibt eine einwöchige Wartezeit nachdem ein Account auf diese Weise gesperrt wurde, bevor der Nutzer die Freischaltung anfordern kann, um Missbrauch zu verhindern.
+
+Ein gesperrter Account wird öffentlich sichtbar bleiben, ohne dass auf dem Profil verfügbare Informationen geändert werden.
+
+Um den Account wieder zu entsperren, sende eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) und bringe die Absicht zum Ausdruck, deinen Account freizuschalten. Hierbei sollte dieselbe E-Mail-Adresse genutzt werden, die für den ursprünglichen Antrag auf Accountsperrung verwendet wurde.
+
+*Diese Funktionalität darf nicht missbraucht werden.* Das Sperren eines Accounts sollte einer der letzten Auswege für Spieler sein, die osu! nicht für immer verlassen möchten, aber eine Auszeit von osu! aus einem legitimen Grund **brauchen**.
+
+Du kannst dich selbst aus deinem Account aussperren, indem du die E-Mail und das Passwort zu zufälligen Wörtern oder Zeichen änderst, an die du dich niemals erinnern wirst, und dich danach ausloggst. Das ist im Wesentlichen der gleiche Prozess wie bei der Sperrung. Sobald du bereit bist, wieder zurück in die Community zu kommen, sende eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) mit der Beantragung einer Passwortrücksetzung. Versichere dich, dass du die zuvor benutzte E-Mail für deinen Account verwendest.
+
 ### Kann ich auf einem Computer spielen, den ein anderer osu!-Spieler vorher benutzt hat?
 
 **Ja, absolut. Damit sind auch geteilte PCs wie Internetcafés oder PC Bangs gemeint.**
 
-**So lange du auf deinem eigenem Account spielst**, kannst du osu! überall spielen!
+**Solange du auf deinem eigenen Account spielst**, kannst du osu! überall spielen!
 
-Solltest du in einem öffentlichen Ort spielen, achte auf die Sicherheit deines Accounts. Geteilte Computer sind oft Ziele von Angriffen mit Schadsoftware.
+Solltest du an einem öffentlichen Ort spielen, achte auf die Sicherheit deines Accounts. Geteilte Computer sind oft Ziele von Angriffen mit Schadsoftware.
 
-### Kann ich eine Liste aller Maps bekommen, die ich gespielt oder heruntergeladen habe?
+### Kann ich eine Liste aller Beatmaps bekommen, die ich gespielt oder heruntergeladen habe?
 
-**Du kannst über die Webseite alle Maps einsehen, die du gespielt hast.**
+**Du kannst über die Webseite alle Beatmaps einsehen, die du gespielt hast.**
 
-**Wenn du ein aktives Supporter-Tag besitzt**, kannst du alle Maps sehen, auf denen du einen Score erzielt hast. Dazu musst du auf die [beatmap-auflistung](https://osu.ppy.sh/beatmapsets) gehen, auf `Mehr Suchoptionen` klicken und dann den Filter `Gespielt` aktivieren. Alternativ kannst du auch [die gefilterte Liste an Beatmaps](https://osu.ppy.sh/beatmapsets?played=played) direkt abrufen.
+**Wenn du ein aktives Supporter-Tag besitzt**, kannst du alle Beatmaps sehen, auf denen du einen Score erzielt hast. Dazu musst du auf die [beatmap-auflistung](https://osu.ppy.sh/beatmapsets) gehen, auf `Mehr Suchoptionen` klicken und dann den Filter `Gespielt` aktivieren. Alternativ kannst du auch [die gefilterte Liste an Beatmaps](https://osu.ppy.sh/beatmapsets?played=played) direkt abrufen.
 
-Leider speichern wir nicht, welche Beatmaps ein Spieler heruntergeladen hat. Das heißt, es ist unmöglich davon eine Auflistung zu erhalten. Das nächste, wie du an das rankommen würdest, wäre die Benutzung des zuvor erwähnten Filters, um zumindest an die vorher gespielten Maps zu gelangen.
+Leider speichern wir nicht, welche Beatmaps ein Spieler heruntergeladen hat. Das heißt, es ist unmöglich davon eine Auflistung zu erhalten. Das nächste, wie du an das rankommen würdest, wäre die Benutzung des zuvor erwähnten Filters, um zumindest an die vorher gespielten Beatmaps zu gelangen.

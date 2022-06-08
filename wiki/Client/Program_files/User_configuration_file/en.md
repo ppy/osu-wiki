@@ -83,9 +83,9 @@ This is a list of options in the `osu!.<your PC account name>.cfg` file. A lot o
 | `EditorStacking` | 0 or 1 | Stacking |
 | `Ticker` | 0 or 1 | Chat ticker |
 | `AutoChatHide` | 0 or 1 | Automatically hide chat during gameplay |
-| `ChatHighlightName` | 0 or 1 | Show a notification pop-up when someone says your name |
+| `ChatHighlightName` | 0 or 1 | Show a notification pop-up when someone [says your name](/wiki/Client/Interface/Chat_console/Highlight) |
 | `ChatMessageNotification` | 0 or 1 | Show chat message notifications |
-| `ChatAudibleHighlight` | 0 or 1 | Play a sound when someone says your name |
+| `ChatAudibleHighlight` | 0 or 1 | Play a sound when someone [says your name](/wiki/Client/Interface/Chat_console/Highlight) |
 | `DisplayCityLocation` | 0 or 1 | Share your city location with others |
 | `ShowSpectators` | 0 or 1 | Show spectators |
 | `AutoSendNowPlaying` | 0 or 1 | Automatically link beatmaps to spectators |
@@ -102,7 +102,7 @@ This is a list of options in the `osu!.<your PC account name>.cfg` file. A lot o
 | `LogPrivateMessages` | 0 or 1 | Log private messages |
 | `BlockNonFriendPM` | 0 or 1 | Block private messages from non-friends |
 | `IgnoreList` | Space-separated list of strings | Chat ignore list |
-| `HighlightWords` | Space-separated list of strings | Chat highlight words |
+| `HighlightWords` | Space-separated list of strings | Chat [highlight](/wiki/Client/Interface/Chat_console/Highlight) words |
 
 ### Key binds
 

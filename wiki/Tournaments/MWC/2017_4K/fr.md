@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu!mania 4K World Cup 2017
@@ -321,8 +321,8 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 15. Si un joueur se déconnecte entre deux beatmaps et que l'équipe ne peut pas l'échanger, le match peut être délayé de 10 minutes au maximum.
 16. Tous les joueurs et arbitres doivent être traités avec respect. Les directives des arbitres et des organisateurs du tournoi sont à suivre. Les décisions marquées comme finales ne sont pas faites pour être discutées.
 17. Il est strictement interdit de perturber le match que ce soit par l'anti-jeu, la sélection de beatmaps d'échauffement innapropriées (voir plus bas), en insultant et provocant les autres joueurs ou arbitres, délayant le match ou tout autre comportement inapproprié.
-18. Les salles de discussion multijoueur sont soumises aux [règles de la communauté osu!](/wiki/Rules). Toutes les règles du chat s'appliquent donc aussi.
-    - Ne pas respecter les règles du chat résultera en un silence. Les joueurs sous silence ne peuvent pas participer aux matchs multijoueurs et doivent être échangés le temps du silence.
+18. Les salles de discussion multijoueur sont soumises aux [règles de la communauté osu!](/wiki/Rules). Toutes les règles du tchat s'appliquent donc aussi.
+    - Ne pas respecter les règles du tchat résultera en un silence. Les joueurs sous silence ne peuvent pas participer aux matchs multijoueurs et doivent être échangés le temps du silence.
 19. Dans les phases de groupe, une « Victoire par défaut » sera considérée comme une victoire de 4 à 0, avec un ratio de différence de score de +1,0.
 20. Les incidents inattendus sont gérés par les organisateurs du tournoi. Les arbitres peuvent accorder plus de tolérance suivant les circonstances. Les arbitres feront leurs propres décisions.
 21. Une infraction au règlement du tournoi peut résulter en :

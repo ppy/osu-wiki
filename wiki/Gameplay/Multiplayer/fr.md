@@ -1,6 +1,6 @@
 ---
 needs_cleanup: true
-outdated: true
+outdated_translation: true
 outdated_since: a8c8745209c11807318f090c1916347900d138de
 ---
 
@@ -10,7 +10,7 @@ outdated_since: a8c8745209c11807318f090c1916347900d138de
 
 Le Multi (aussi connu en tant que *Multijoueur*) a été introduit le 3 Juin 2008 sous la version b335 d'osu!, et s'agit d'un mode de jeu dans lequel jusqu'à 16 joueurs peuvent s'affronter sur une beatmap choisie par l'hôte.
 
-L'[osu!academy](/wiki/Community/Video_series/osu!academy) a couvert ce sujet dans  l'[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ainsi que celui des [panneaux des joueurs en ligne](/wiki/Client/Interface/Chat_console#la-console-de-chat-étendue).
+L'[osu!academy](/wiki/Community/Video_series/osu!academy) a couvert ce sujet dans  l'[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ainsi que celui des [panneaux des joueurs en ligne](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue).
 
 ## Comment y entrer
 
@@ -83,7 +83,7 @@ Vous pouvez également demander une invitation à un joueur présent dans la sal
 
 ---
 
-Les trois boutons au-dessus de la console de chat sont des commandes que vous pouvez utiliser dans le lobby:
+Les trois boutons au-dessus de la console de tchat sont des commandes que vous pouvez utiliser dans le lobby:
 
 | Titre | Description |
 | :-: | :-- |
@@ -91,7 +91,7 @@ Les trois boutons au-dessus de la console de chat sont des commandes que vous po
 | `Créer une salle` | **Créer une nouvelle salle dans le lobby** |
 | `Salle au hasard` | Se rendre dans une **salle disponible** *aléatoirement* choisie selon la **différence de classement**. |
 
-La [console de chat](/wiki/Client/Interface/Chat_console) sera disponible en bas de l'écran et affichera le canal `#lobby` par défaut.
+La [console de tchat](/wiki/Client/Interface/Chat_console) sera disponible en bas de l'écran et affichera le canal `#lobby` par défaut.
 
 ## Nouvelle salle
 
@@ -109,15 +109,13 @@ Cliquez sur  `1. Start Game` pour **créer la salle en tant qu'hôte** avec la *
 
 <!-- One/Two image here? Subsections of the images later like what was done in Interface of the old osu! wiki for Song Selection? -->
 
-![](img/Multi_roomhost.jpg "Exemple d'une salle en tant qu'hôte")
-
 ![](img/Multi_roomplayer.jpg "Exemple d'une salle en tant que joueur \(avec l'option "Mods libres" activée\)")
 
 La partie haute montre le nom de l'écran à gauche, votre statut dans la salle (soit hôte soit joueur), vos informations sur le mode de jeu en cours au milieu et un bouton pause pour mettre en pause la musique (si vous avez la beatmap) à droite.
 
 ---
 
-La partie du bas montre [la console de chat](/wiki/Client/Interface/Chat_console).
+La partie du bas montre [la console de tchat](/wiki/Client/Interface/Chat_console).
 Un nouvel onglet appelé `#multiplayer` sera ouvert, avec [BanchoBot](/wiki/BanchoBot) qui fournira un lien vers l'historique des matchs.
 Le lien est `https://osu.ppy.sh/community/matches/x` (remplacez "x" avec le nombre généré par Bancho pour cette salle).
 
@@ -180,8 +178,6 @@ Quelques informations seront affichées dans le cas où le joueur ne possède pa
 
 #### Mods
 
-![](img/Multi_mods_host.jpg "Options de mods \(osu! standard\) de l'hôte")
-
 ![](img/Multi_mods_player.jpg "Options de mods \(osu! standard\) d'un joueur \(avec l'option "Mods libres" activée\)")
 
 La partie en bas à gauche est dédiée aux mods.
@@ -243,7 +239,7 @@ Voici la liste des différents effets du bouton bleu:
 
 ### Historique des matchs
 
-**Note**: Le lien fourni par BanchoBot dans la première ligne de l'onglet `#multiplayer` dans la console de chat (accessible en cliquant sur le mot `here`) redirigera le joueur vers l'historique des matchs sur le navigateur par défaut.
+**Note**: Le lien fourni par BanchoBot dans la première ligne de l'onglet `#multiplayer` dans la console de tchat (accessible en cliquant sur le mot `here`) redirigera le joueur vers l'historique des matchs sur le navigateur par défaut.
 
 ![](img/multi-mh.jpg "Exemple d'un historique des matchs.")
 
@@ -332,7 +328,7 @@ A la fin du match, la photo de profil du joueur ayant atteint la première place
 Le rang obtenu est maintenant placé derrière le résultat.
 Le résultat des autres joueurs peut être observé en cliquant sur leurs boîtes respectives.
 
-Chaque joueur reçoit dans l'onglet privé `#userlog` du chat le rang qu'il a obtenu au classement de chaque partie.
+Chaque joueur reçoit dans l'onglet privé `#userlog` du tchat le rang qu'il a obtenu au classement de chaque partie.
 
 ### Team Vs
 

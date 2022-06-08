@@ -20,8 +20,6 @@ tags:
   - drapeau
   - nom d'utilisateur
   - suppression
-outdated: true
-outdated_since: 56ef96e783e017921593b286c0d744de40c16168
 ---
 
 # Compte
@@ -52,17 +50,15 @@ Si votre compte a été restreint, vous saurez probablement pourquoi après une 
 
 Dans les situations où nous sommes absolument sûrs qu'un acte répréhensible a eu lieu, nous vous demanderons d'attendre une période de **trois mois** à partir de la date de votre dernière infraction avant de considérer un appel de votre part pour vous laisser revenir sur le jeu.
 
-Consultez la page *[restrictions du compte](/wiki/Help_centre/Account_restrictions)* pour plus d'informations sur les restrictions des comptes et des procédures d'appels.
+Consultez la page *[Restrictions de compte](/wiki/Help_centre/Account_restrictions)* pour plus d'informations sur les restrictions de compte et des procédures d'appel.
 
-## Bans des tournois
+## Bannissement des tournois
 
-### Qu'est-ce qu'un ban des tournois ?
+### Qu'est-ce qu'un bannissement des tournois ?
 
-Un ban des tournois est, comme son nom l'indique, une interdiction de participer à tous les tournois officiels.
+Un bannissement des tournois est, comme son nom l'indique, une interdiction de participer à tous les tournois officiels.
 
-Un utilisateur peut recevoir un ban des tournois pour avoir délibérément enfreint les règles de la communauté d'osu! pendant un tournoi, selon la gravité de l'infraction. Parmi les exemples de mauvais comportement, citons la tentative d'obtenir un avantage déloyal dans un tournoi officiel par quelque moyen que ce soit, le fait d'être injurieux envers toute personne participant à un tournoi ou de perturber délibérément le déroulement d'un tournoi.
-
-La plupart des bans des tournois ont une durée déterminée, allant de 3 mois à un an ou plus. Certains bannissements peuvent être permanents. Quelle que soit la durée du ban, tous les bans des tournois sont **irrévocables** et ne peuvent faire l'objet d'un appel comme les restrictions.
+Voir l'article [Bannissement des tournois](/wiki/Help_centre/Tournament_bans) pour plus d'informations sur le sujet.
 
 ## Connexion
 
@@ -221,11 +217,23 @@ Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour fair
 
 ### Puis-je supprimer mon compte ?
 
-*Pour plus d'informations sur la suppression des comptes, voir : [Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).*
+*Pour plus d'informations sur la suppression des comptes, voir : [Politique de confidentialité d'osu! § Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).*
 
 *Attention : La suppression d'un compte est permanente, et ne peut donc pas être annulée !*
 
 Oui, tout utilisateur peut demander la suppression de son compte en envoyant un courriel à [privacy@ppy.sh](mailto:privacy@ppy.sh). Gardez à l'esprit que la suppression de votre compte est **définitive**, ce qui signifie qu'elle ne peut pas être annulée. La suppression de votre compte ne signifie pas que vous pouvez créer un nouveau compte, car le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires). Cela signifie que vous ne pourrez plus utiliser aucune des fonctionnalités en ligne d'osu!. 
+
+### Je ne veux plus continuer à jouer, mais je ne veux pas que mon compte soit supprimé !
+
+Tout utilisateur peut demander que son compte soit **verrouillé** en envoyant un email à [accounts@ppy.sh](mailto:accounts@ppy.sh). Le mot de passe associé au compte sera alors changé et l'email sera effacée, ce qui verrouillera le compte de l'utilisateur. Afin d'éviter les abus, un délai d'une semaine est prévu après le verrouillage d'un compte avant que l'utilisateur puisse demander son déblocage.
+
+Un compte verrouillé restera publiquement visible et les informations disponibles sur son profil ne seront pas modifiées.
+
+Pour débloquer à nouveau le compte, envoyez un email à [accounts@ppy.sh](mailto:accounts@ppy.sh), à partir du même email que celle utilisée lors de la demande initiale de verrouillage du compte, en exprimant votre intention de le débloquer.
+
+*Il ne faut pas abuser de cette fonction.* Le verrouillage d'un compte devrait être l'un des derniers recours pour les joueurs qui ne veulent pas quitter osu! pour toujours, mais qui ont **besoin** d'un temps dédié loin d'osu! pour une raison légitime.
+
+Vous pouvez verrouiller votre compte vous-même en changeant votre email et votre mot de passe par des mots ou des lettres aléatoires dont vous ne vous souviendrez jamais et en vous déconnectant. Il s'agit essentiellement du même processus que le verrouillage. Lorsque vous êtes prêt à revenir dans la communauté, envoyez un email à [accounts@ppy.sh](mailto:accounts@ppy.sh) pour demander la réinitialisation de votre mot de passe. Veillez à utiliser l'email précédemment utilisée par votre compte.
 
 ### Puis-je jouer sur un ordinateur qu'un autre utilisateur d'osu! a déjà utilisé ?
 

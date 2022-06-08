@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 - NoMod (*to be played in order*)
-  1. [Minibosses - Castlevania (m980) \[owc Finals\]](https://www.mediafire.com/file/twuti02311dk6ip/Minibosses+-+Castlevania.osz/file)
+  1. [Minibosses - Castlevania (m980) \[OWC Final\]](https://osu.ppy.sh/beatmapsets/1738985#osu/3562703)
   2. [Various Artists - osu! Stream Compilation (Natteke) \[EXE\]](https://osu.ppy.sh/beatmapsets/25403#osu/86044)
   3. [Shiki mixed by Djsmalls - Air (MegaManEXE) \[Best map ever created\]](https://osu.ppy.sh/beatmapsets/13008#osu/48386)
   4. [Nico Nico Douga - U.N. Owen Was Her? (Reikin) \[Ronald Mix\]](https://osu.ppy.sh/beatmapsets/1785#osu/21010)

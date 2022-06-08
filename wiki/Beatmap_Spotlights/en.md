@@ -9,11 +9,19 @@ tags:
 
 ![Beatmap Spotlights logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-The **Beatmap Spotlights** (also known as *Spotlights* or *Ranking Charts*) is a recurring curation program for recommending and highlighting [beatmaps](/wiki/Beatmap) for their excellent and unique design and gameplay. It is accompanied by a [seasonal league](#spotlights-seasons) that yields awards for all participating players.
+The **Beatmap Spotlights** (or just *Spotlights*, formerly *Ranking Charts*) is a recurring curation program for recommending and highlighting [beatmaps](/wiki/Beatmap) for their excellent and unique gameplay and design. It is accompanied by a [seasonal league](#spotlights-seasons), where players compete on said maps for [badge prizes](#rewards).
 
-**The current iteration of this program is still under development and many features are still pending implementation.** Specifics of this system, such as rewards, seasonal rankings or gameplay features, can change anytime.
+The current season is the Spring 2022 season.
 
-The current season is the Winter 2022 season.
+## Participation
+
+To participate in the Beatmap Spotlights, download the latest version of the lazer client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
+
+After installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar, or filter by them from the top-right corner.
+
+If there are no open lobbies, wait for the next season. The break between seasons usually lasts a few weeks, and new seasons are announced on the [front page](https://osu.ppy.sh/home).
+
+![Beatmap Spotlights playlist lobby](img/spotlights-lobby.png)
 
 ## Organisation
 
@@ -52,26 +60,24 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 ### osu!catch curators
 
 - ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
+- ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164)
 - ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
-- ![][flag_KR] [x_angelkawaii_x](https://osu.ppy.sh/users/566276)
-- ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
 - ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### osu!mania curators
 
-- ![][flag_GB] **[Hydria](https://osu.ppy.sh/users/808176)**
+- ![][flag_AU] **[Crumpey](https://osu.ppy.sh/users/3518705)**
+- ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773)
 - ![][flag_KR] [Aruel](https://osu.ppy.sh/users/3984370)
-- ![][flag_CA] [BringoBrango](https://osu.ppy.sh/users/10274043)
-- ![][flag_AU] [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
-- ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768)
 - ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
-- ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184)
+- ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176)
 - ![][flag_MY] [Kibitz](https://osu.ppy.sh/users/7418493)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
+- ![][flag_US] [Protastic101](https://osu.ppy.sh/users/6712747)
 
 ## Spotlights seasons
 
-*Main page: [Seasons](Seasons)*
+*For the list of Spotlights seasons, see: [Seasons](Seasons)*
 
 The Beatmap Spotlights project is currently organised in pre-defined seasons. Each season consists of a pool of curated beatmaps and a competitive seasonal league for the whole community.
 
@@ -80,51 +86,44 @@ The Beatmap Spotlights project is currently organised in pre-defined seasons. Ea
    - Each playlist consists of 2 Hard, 3 Insane, and 4 Expert difficulties.
    - For the first 6 weeks, each playlist will last for 2 weeks.
    - For the last 3 weeks, each playlist will last for 1 week instead.
-2. Seasons are fully prepared before they start.
-   - Every curated beatmap is selected and locked in before a season starts.
-   - Once a season begins, the whole schedule will be released.
-3. Each season will include a themed playlist of some kind of gimmick.
-4. The next season will start a few weeks after the conclusion of the current one.
+2. The schedule for each season is announced at the start of the season.
+3. Each season's first playlist will be a themed playlist of some kind of gimmick.
+4. At the end of each season, a player vote for the Beatmap of the Season will open along with the conclusion news post. Its results will be announced at the start of the next season.
+5. The next season will start a few weeks after the conclusion of the current one.
 
 ### Seasonal leaderboard
 
-*This feature is pending implementation. Parts of it are to be added as the season goes on. Because of that, this section can change anytime.*
-
 The seasonal leaderboard sums up the weekly ranked score results of every participant. Based on the seasonal leaderboard, every participant is assigned to a league bracket reflecting their relative placement within the leaderboard.
 
-1. Seasonal leaderboard score is a weighed sum of all weekly ranked scores attained in the timeshift lobbies.
+1. Seasonal leaderboard score is a weighted sum of all weekly ranked scores attained in the playlist lobbies.
 2. Participants can only possess one weekly ranked score per playlist.
-   - Replaying a playlist at another week will make only the best weekly ranked score count, overwriting the worse one.
-3. Participants will not be told their exact seasonal leaderboard placing or score. They will be assigned to league brackets instead.
-   - Only the top 50 of the seasonal leaderboard will have their exact placing visible.
-   - The bracket is assigned based on the placement within the leaderboard. Participants will be assigned the highest bracket they are eligible for.
-4. The assigned bracket will be revealed once the 2nd week of a season has concluded.
+   - Replaying a playlist at another week will make **only the best weekly ranked score** count, overwriting the worse one.
+3. Leaderboard will be updated after each playlist conclusion. 
+   - The participants will not be told their exact seasonal score, they will be assigned to league brackets instead.
+   - The leaderboard will be relased in the [osu! community discord](https://discord.gg/0Vxo9AsejDkGlk3H), in the `#osu-spotlights` channel as well as in the lobby chat of next playlist.
 
 ### Rewards
 
-*Parts of these rewards are pending implementation. They are to be added as the season goes on. Because of that, this section can change anytime.*
+Rewards are distributed to playlist lobby winners, creators of Beatmap of the Season picks, and every participant present on the seasonal leaderboard.
 
-Rewards are distributed to weekly timeshift lobby winners, creators of curated beatmaps and every participant present on the seasonal leaderboard.
+The top 10 players of each playlist lobby will receive **1 week of osu!supporter**.
 
-1. The top 10 of each weekly timeshift lobby will be awarded with 1 week of osu! supporter tags.
-2. During the season, every participant is assigned to a league bracket, which is reflected by a unique profile badge on their profile that lasts for the duration of the season.
-   - The badge will be updated every week after the 2nd week of a season.
-   - The best players of a season may be able to keep their profile badge permanently. Details about that are yet to be decided.
-3. At the end of each season, the best beatmap creator, as decided by the curators, will be awarded with 1 month of supporter tag.
-4. At the end of each season, a new unlockable medal will be added. Players need to complete every beatmap of this season once to obtain it.
+After the conclusion of each season, votes are opened for the *Beatmap of the Season*, where players and curators each get to pick a winning map for each game mode, totalling 8. The winning entries are announced at start of the next season, and their creators will receive **3 months of osu!supporter**.
 
-| Badges | Bracket Tier | Placement |
+During the season, every participant receives a temporary **badge** which reflects their current placement on the seasonal leaderboard, as described by the table below. These are updated after the conclusion of each playlist. Players who hold a Rhythm Incarnate badge by the end of the season will **keep it permanently**.
+
+| Badges | Bracket tier | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/winter_2022/osu/ri_1.png) ![](img/badges/winter_2022/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
-| ![](img/badges/winter_2022/osu/diamond_1.png) ![](img/badges/winter_2022/osu/diamond_2.png) | Diamond | Top 3% |
-| ![](img/badges/winter_2022/osu/platinum_1.png) ![](img/badges/winter_2022/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/winter_2022/osu/gold_1.png) ![](img/badges/winter_2022/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/winter_2022/osu/silver_1.png) ![](img/badges/winter_2022/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/winter_2022/osu/bronze_1.png) ![](img/badges/winter_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/winter_2022/osu/copper_1.png) ![](img/badges/winter_2022/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/winter_2022/osu/iron_1.png) ![](img/badges/winter_2022/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/spring_2022/osu/ri_1.png) ![](img/badges/spring_2022/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
+| ![](img/badges/spring_2022/osu/diamond_1.png) ![](img/badges/spring_2022/osu/diamond_2.png) | Diamond | Top 3% |
+| ![](img/badges/spring_2022/osu/platinum_1.png) ![](img/badges/spring_2022/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/spring_2022/osu/gold_1.png) ![](img/badges/spring_2022/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/spring_2022/osu/silver_1.png) ![](img/badges/spring_2022/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/spring_2022/osu/bronze_1.png) ![](img/badges/spring_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/spring_2022/osu/copper_1.png) ![](img/badges/spring_2022/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/spring_2022/osu/iron_1.png) ![](img/badges/spring_2022/osu/iron_2.png) | Iron | 95% – 100% |
 
-The Rhythm Incarnate tier threshold is picked manually based on season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
+The Rhythm Incarnate tier threshold is picked manually based on the season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
 
 This table only shows one of four badge versions. Each game mode has its own badge version.
 
@@ -136,9 +135,9 @@ The curation system involves the process of curators selecting the beatmaps bein
    - Curators need to agree on each individual difficulty in an open discussion.
    - Respective game mode leaders lock in decisions and solidify the selection after conclusive discussions.
    - The selection process itself varies between game modes and adjusts around the needs of the respective members.
-2. Beatmaps are selected based on their uniqueness and excellence. Each selected beatmap should be a leading example of content quality in gameplay, design and aesthetics.
-3. Curated beatmaps serve as recommendations to the entire osu! community.
-4. To fulfill the duty of recommending excellent beatmaps to the whole community, curated beatmaps should cover a specific spread of Hard, Insane and Expert difficulties.
+2. Beatmaps are selected based on their uniqueness and excellence. Each selected beatmap should be a leading example of content quality in gameplay, design, and aesthetics.
+3. Curated beatmaps serve as recommendations to the entire osu! community, and are marked with a unique *Spotlights* tag.
+4. To fulfill the duty of recommending excellent beatmaps to the whole community, curated beatmaps should cover a specific spread of Hard, Insane, and Expert difficulties.
    - 6 curated beatmaps should be within the Hard difficulty tier.
    - 9 curated beatmaps should be within the Insane difficulty tier.
    - 12 curated beatmaps should be within the Expert difficulty tier.
@@ -163,9 +162,11 @@ The current implementation of the Beatmap Spotlights is highly experimental and 
 
 ### Becoming a curator
 
-Anyone can apply to become a curator by filling this [application form](https://spotlights.team/app). Applications open up between the seasons and are closed during an ongoing season.
+In most of cases, new Curators are suggested by the respective game mode team to fit a certain niche. Such suggestions are evaluated by the project managers, team leaders, and Curators themselves.
 
-All applicants are reviewed by project management and team leaders and assessed based on their proficiency as a player, mapper, modder and tournament mappool selector for their respective game mode. Applicants do not need to be proficient in all of these things to be selected, but having a broad skill set certainly helps. The roster of curators is based on a healthy mix and match of various skill levels, experiences and proficiencies. The number of curators is being purposefully kept small and limited at the moment as the project develops.
+In addition, there may be application cycles for certain game modes announced for certain seasons.
+
+All applicants are reviewed by project management and team leaders, and assessed based on their proficiency as a player, mapper, modder, and tournament mappool selector for their respective game mode. Applicants do not need to be proficient in all of these things to be selected, but having a broad skill set certainly helps. The roster of curators is based on a healthy mix and match of various skill levels, experiences, and proficiencies. The number of curators is being purposefully kept small and limited at the moment as the project develops.
 
 ## History
 
@@ -179,7 +180,7 @@ Renamed to [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introduc
 
 In August 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) stepped down from leading the project. At the end of November 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) also resigned, and ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) took over the project along with ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
 
-After the conclusion of the Spring 2021 season, the project went on hiatus, which lasted until September 2021 when efforts of revival emerged, with ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) stepping down from his management role, and ![][flag_TN][Hivie](https://osu.ppy.sh/users/14102976) joining instead. In February 2022, the project resumed operating after some structural and team changes.
+After the conclusion of the Spring 2021 season, the project went on hiatus, which lasted until September 2021 when efforts of revival emerged, with ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) stepping down from his management role, and ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) joining instead. In February 2022, the project resumed operating after some structural and team changes.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
@@ -196,6 +197,7 @@ After the conclusion of the Spring 2021 season, the project went on hiatus, whic
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
