@@ -846,7 +846,7 @@ Un tournoi ne doit pas être organisé et dirigé par une équipe inexpériment�
 
 ## Citations en bloc
 
-Les citations en bloc sont limitées à la citation du texte d'une personne. Elles ne doivent pas être utilisées pour formater le texte. Le nom de la personne citée qui suit la citation doit être précédé d'un tiret (`-`) comme suit :
+La citation est limitée à [citer quelqu'un ou quelque chose](/wiki/Article_styling_criteria/Writing#block-quotation). Elle ne doit pas être utilisée pour formater le texte autrement.
 
 ```markdown
 > profitez du jeu
