@@ -12,7 +12,7 @@ tags:
 
 ![Logo du Beatmap Spotlights](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-Le **Beatmap Spotlights** (ou simplement *Spotlights*, anciennement *Ranking Charts*.) est un programme récurrent de recommandation et de mise en avant des [beatmaps](/wiki/Beatmap) pour leur design et leur gameplay excellents et uniques. Il est accompagné d'une [ligue saisonnière](#saisons-spotlights), où les joueurs s'affrontent sur ces beatmaps pour gagner des [badges](#récompenses).
+Le **Beatmap Spotlights** (ou simplement *Spotlights*, anciennement *Ranking Charts*) est un programme récurrent de recommandation et de mise en avant des [beatmaps](/wiki/Beatmap) pour leur design et leur gameplay excellents et uniques. Il est accompagné d'une [ligue saisonnière](#saisons-spotlights), où les joueurs s'affrontent sur ces beatmaps pour gagner des [badges](#récompenses).
 
 La saison actuelle est celle du printemps 2022.
 
@@ -117,7 +117,7 @@ Pendant la saison, chaque participant reçoit un **badge** temporaire qui reflè
 
 | Badges | Palier de bracket | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/spring_2022/osu/ri_1.png) ![](img/badges/spring_2022/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
+| ![](img/badges/spring_2022/osu/ri_1.png) ![](img/badges/spring_2022/osu/ri_2.png) | Rhythm Incarnate | Les meilleurs des meilleurs |
 | ![](img/badges/spring_2022/osu/diamond_1.png) ![](img/badges/spring_2022/osu/diamond_2.png) | Diamond | Top 3% |
 | ![](img/badges/spring_2022/osu/platinum_1.png) ![](img/badges/spring_2022/osu/platinum_2.png) | Platinum | 3% – 10% |
 | ![](img/badges/spring_2022/osu/gold_1.png) ![](img/badges/spring_2022/osu/gold_2.png) | Gold | 10% – 25% |
