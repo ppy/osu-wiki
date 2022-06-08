@@ -115,7 +115,9 @@ Por favor tome en cuenta que enviar un correo a esta dirección solo garantiza u
 | Multicuenta | Permanente (multis) | La cuenta principal se dejará sin restricciones, probablemente silenciada. |
 | Multicuenteo excesivo | 3 meses | Aplican términos de apelación, 1 año de veto en torneos |
 | Compartir cuenta | 3 meses | Aplican términos de apelación, 1 año de veto en torneos, y retroceso parcial |
-| Trampas | 3 meses | Aplican términos de apelación, 1 año de veto en torneos, y retroceso completo |
+| Infracciones subsecuentes (multicuenteo, compartir cuenta, conducta en la comunidad) | 6 meses | Aplican términos de apelación, retroceso (hasta donde sea apropiado), 1 año de veto en torneos por infracción |
+| Trampas | 6 meses | Aplican términos de apelación, 1 año de veto en torneos, y retroceso completo |
 | Mala conducta excesiva | Puede variar | Aplican términos de apelación. TdE dependerá en el historial. |
 | Trampas/Compartir en un torneo | 6 meses | Aplican términos de apelación, retroceso apropiado, veto permanente en torneos |
-| Infracciones subsecuentes | 6 meses | Aplican términos de apelación, retroceso apropiado, 1 año de veto en torneos por infracción |
+| Infracciones subsecuentes (trampas) | 12 a 24 meses | Aplican términos de apelación, retroceso apropiado, 1 año de veto en torneos por infracción |
+| Conducta aborrecible o severamente abusiva | Indefinida | Muchas veces permanente sin oportunidad de apelar |
