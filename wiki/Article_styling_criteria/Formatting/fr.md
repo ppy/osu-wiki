@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: b3aea796883d81f817472253da2f002b7a4c6996
----
-
 # Mise en forme
 
 *Pour les normes de rédaction, voir : [Critères de mise en forme d'article/Rédaction](../Writing)*\
@@ -508,6 +503,8 @@ Le texte préformaté (également connu sous le nom de blocs de code) doit être
 
 ## Liens
 
+*Voir également : [Notes de bas de page](#notes-de-bas-de-page)*
+
 Il existe deux types de liens : en ligne et de référence. Les liens en ligne ont deux styles.
 
 Voici un exemple des deux styles en ligne :
@@ -796,6 +793,54 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 | Ryūta | 3 - 4 | **Yuzu** | 5.1 stars |
 | **Taikonator** | 7 - 0 | Tama | 13.37 stars |
 | Maria | Pas de concours | Mocha |  |
+```
+## Notes de bas de page
+
+Les notes de bas de page sont de courtes notes situées à la fin de la page. Elles sont utilisées pour citer des sources ou fournir des informations d'arrière-plan qui, autrement, perturberaient le contenu l'article. Les notes de bas de page peuvent contenir du texte mis en forme et des liens.
+
+Dans le osu! wiki, les notes de bas de page sont implémentées en utilisant une syntaxe spéciale (`[^identifier]`). Les notes de bas de page peuvent utiliser n'importe quel identifiant, mais elles seront automatiquement rendues en exposant avec des numéros croissants dans l'ordre de leur première apparition. Les notes de bas de page elles-mêmes doivent être placées dans une rubrique de second niveau à la fin de l'article, appelée `Références`.
+
+Les notes de bas de page sont placées directement après les mots, expressions ou phrases qu'elles expliquent, sans espace entre elles. Ces références doivent être placées après la ponctuation, à l'exception des parenthèses, lorsqu'elles se rapportent au contenu, et des tirets.
+
+Exemples d'utilisation correcte :
+
+```markdown
+Le osu! wiki est un projet destiné à remplacer l'ancien système de FAQ[^wiki-faq]. Il a été nommé d'après le jeu de rythme osu![^osu] et la plus grande encyclopédie en ligne ouverte, Wikipédia. Dès le début, il a attiré des traducteurs[^wiki-tl] et des rédacteurs compétents.
+
+## Références
+
+[^wiki-faq]: https://osu.ppy.sh/community/forums/topics/68525
+[^wiki-tl]: https://osu.ppy.sh/community/forums/posts/1177500
+[^osu]: https://osu.ppy.sh/community/forums/posts/1178153
+```
+
+### Citations
+
+Les citations, ou références, sont utilisées pour identifier une source d'information. Les citations par le biais de notes de bas de page doivent être préférées aux liens en ligne.
+
+Exemple :
+
+```markdown
+La première version de l'osu!api a été mise à disposition le 2 juillet 2013[^api-first-usage] Elle avait été saluée par la critique des utilisateurs[^api-praise].
+
+## Références
+
+[^api-first-usage]: [osu!api bêta ouverte](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [osu!api bêta ouverte](https://osu.ppy.sh/community/forums/posts/2662247)
+```
+
+### Informations générales
+
+Les notes de bas de page peuvent être utilisées pour stocker des explications ou des remarques tangentielles qui ne peuvent pas être intégrées sans nuire à la lisibilité de l'article, ou qui sont moins importantes que l'article lui-même. Ces notes de bas de page peuvent utiliser du texte libre.
+
+Example:
+
+```markdown
+Un tournoi ne doit pas être organisé et dirigé par une équipe inexpérimentée composée de personnel non accompli et irréprochable [^staff].
+
+## References
+
+[^staff]: Un staff *inexpérimenté* est vaguement défini comme quelqu'un qui joue à osu! depuis moins d'une heure au total.
 ```
 
 ## Citations en bloc
