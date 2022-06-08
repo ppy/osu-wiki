@@ -10,7 +10,7 @@ A large portion of the donations we receive are used to reinvest in [music licen
 
 Failing that, osu! has adopted the following policy concerning copyright infringement in accordance with the Digital Millennium Copyright Act, 17 U.S.C. 512.
 
-The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office ([https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)). osu! takes copyright and other intellectual property rights very seriously.
+The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office (<https://www.copyright.gov/dmca-directory/>). osu! takes copyright and other intellectual property rights very seriously.
 
 It is osu!'s policy to:
 

@@ -10,7 +10,7 @@ Elde ettiğimiz bağışların büyük bir bölümü [müzik lisanslama](/wiki/L
 
 Bunun olmaması halinde, osu!, telif hakkı ihlali halinde Digital Millennium Copyright Act, 17 U.S.C. 512 uyarınca aşağıdaki politikayı benimsemiştir.
 
-osu!'nun Hak İddia Edilen İhlal Bildirimini Alacak Atanmış Temsilcisi ("Atanmış Temsilci") bu belgenin sonunda mevcuttur, ve Amerika Birleşik Devletleri Telif Hakları Bürosu'nda erişilebilir halde bulunmaktadır ([https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)). osu!, telif hakkı ve diğer fikir mülkiyeti haklarını oldukça ciddiye almaktadır.
+osu!'nun Hak İddia Edilen İhlal Bildirimini Alacak Atanmış Temsilcisi ("Atanmış Temsilci") bu belgenin sonunda mevcuttur, ve Amerika Birleşik Devletleri Telif Hakları Bürosu'nda erişilebilir halde bulunmaktadır (<https://www.copyright.gov/dmca-directory/>). osu!, telif hakkı ve diğer fikir mülkiyeti haklarını oldukça ciddiye almaktadır.
 
 osu!'nun politikaları şunlardır:
 
