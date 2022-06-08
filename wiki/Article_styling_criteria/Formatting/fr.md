@@ -794,6 +794,7 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 | **Taikonator** | 7 - 0 | Tama | 13.37 stars |
 | Maria | Pas de concours | Mocha |  |
 ```
+
 ## Notes de bas de page
 
 Les notes de bas de page sont de courtes notes situées à la fin de la page. Elles sont utilisées pour citer des sources ou fournir des informations d'arrière-plan qui, autrement, perturberaient le contenu l'article. Les notes de bas de page peuvent contenir du texte mis en forme et des liens.
