@@ -68,7 +68,7 @@ Los siguientes son grupos de usuarios compuestos por miembros de la comunidad qu
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Organizador de torneos, streamer de la Copa Mundial y anfitrión de la osu! Coffee Hour |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Desarrollador de osu!, proveedor de osz2 y p2p backend |
 | ![][flag_US] Jim | Diseñador original del sitio, proveedor de alojamiento en la era temprana. [Brave New Games](http://www.bravegamer.com/) |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Administrador y organizador de la Copa Mundial | 
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Administrador y organizador de la Copa Mundial |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organizador y administrador de la Copa Mundial, líder de QAT, administrador comunitario |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Diseñador de skins épicas, contribuciones a la skin predeterminada y al conjunto de íconos predeterminados. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Tutor de modeo y mapeo de escenas |
