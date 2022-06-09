@@ -20,7 +20,7 @@ Um zwischen den Modi zu wechseln, klicke den Button `Mode` unten in der Songausw
 
 *Hauptseite: [osu!](osu!)*
 
-*osu!* ist der Standardmodus, bei dem Spieler zum Beat der Musik Kreise klicken, Slider halten und Spinner drehen müssen. Es basiert auf dem originalen Rhythmusspiel *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* von [iNiS](https://en.wikipedia.org/wiki/INiS). osu! hat sein eigenes Maskottchen namens [pippi](/wiki/Mascots#pippi), einem pink/schwarzhaarigem Mädchen.
+*osu!* ist der Standardmodus, bei dem Spieler zum Beat der Musik Kreise klicken, Slider halten und Spinner drehen müssen. Er basiert auf dem originalen Rhythmusspiel *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* von [iNiS](https://en.wikipedia.org/wiki/INiS). osu! hat sein eigenes Maskottchen namens [pippi](/wiki/Mascots#pippi), einem pink/schwarzhaarigen Mädchen.
 
 ![Gameplay von osu!](/wiki/shared/osu-gameplay.jpg "osu!-Gameplay")
 
@@ -28,7 +28,7 @@ Um zwischen den Modi zu wechseln, klicke den Button `Mode` unten in der Songausw
 
 *Hauptseite: [osu!taiko](osu!taiko)*
 
-*osu!taiko* simuliert das Spielen einer echten Trommel, bei der Spieler eine Tastatur oder Schlagzeug nutzen, um verschiedenfarbige Kreise auf einem einzigen Förderband zu treffen. Es basiert auf der Spielreihe *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)*, die von [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) produziert wurde. Das Maskottchen von osu!taiko ist [Mocha](/wiki/Mascots#mocha), ein grünhaariges Mädchen in einem Kimono, das Trommelstöcke hält.
+*osu!taiko* simuliert das Spielen einer echten Trommel, bei der Spieler eine Tastatur oder Trommel nutzen, um verschiedenfarbige Kreise auf einem einzigen Förderband zu treffen. Er basiert auf der Spielreihe *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)*, die von [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) produziert wurde. Das Maskottchen von osu!taiko ist [Mocha](/wiki/Mascots#mocha), ein grünhaariges Mädchen in einem Kimono, das Trommelstöcke hält.
 
 ![Gameplay von osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taiko-Gameplay")
 
@@ -44,7 +44,7 @@ In *osu!catch* fallen Früchte verschiedener Sorten vom oberen Bildschirmrand he
 
 *Hauptseite: [osu!mania](osu!mania)*
 
-*osu!mania* ist ein vertikal scrollender Rhythmusspielmodus (VSRG), der als Klavier-Simulator konzipiert wurde. Er wurde vor allem von [woc2006](https://osu.ppy.sh/users/1105845) [vorgestellt sowie implementiert](https://osu.ppy.sh/community/forums/topics/100751) und basiert auf einer Reihe Förderband-artiger Rhythmusspiele (nämlich [Dance Dance Revolution](https://de.wikipedia.org/wiki/Dance_Dance_Revolution) und [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Das Maskottchen von osu!mania sind die Zwillinge [Mani und Mari](/wiki/Mascots#mani-&-mari), die beide violettes und hellviolettes Haar haben.
+*osu!mania* ist ein vertikal scrollender Rhythmusspielmodus (VSRG), der als Klavier-Simulator konzipiert wurde. Er wurde vor allem von [woc2006](https://osu.ppy.sh/users/1105845) [vorgestellt sowie implementiert](https://osu.ppy.sh/community/forums/topics/100751) und basiert auf einer Reihe Förderband-artiger Rhythmusspiele (nämlich [Dance Dance Revolution](https://de.wikipedia.org/wiki/Dance_Dance_Revolution) und [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Die Maskottchen von osu!mania sind die Zwillinge [Mani und Mari](/wiki/Mascots#mani-&-mari), die beide violettes und hellviolettes Haar haben.
 
 ![Gameplay von osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania-Gameplay")
 
