@@ -81,7 +81,7 @@ In [Turnierspielen](/wiki/Tournaments) bezieht sich **NoMod** (***NM***) darauf,
 
 #### FreeMod
 
-In [Turnierspielen](/wiki/Tournaments) bezieht sich **FreeMod** (***FM***) darauf, dass die Mods oder Modkombinationen freigewählt werden können. Einige Turniere sehen ebenfalls Regeln vor, die zusätzliche Kriterien bestimmen, wie z. B. welche Mods erlaubt sind und in welchen Kombinationen oder ob es erlaubt ist, keine Mods zu haben, wenn FreeMod festgelegt ist.
+In [Turnierspielen](/wiki/Tournaments) bezieht sich **FreeMod** (***FM***) darauf, dass die Mods oder Modkombinationen freigewählt werden können. Einige Turniere sehen ebenfalls Regeln vor, die zusätzliche Kriterien bestimmen, wie z. B. welche Mods erlaubt sind und in welchen Kombinationen oder ob es erlaubt ist, keine Mods zu nutzen, wenn FreeMod festgelegt ist.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
