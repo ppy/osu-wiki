@@ -40,7 +40,7 @@ Las personas nombradas a continuación son el núcleo del **equipo de osu!**, y 
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Administrador general, asistente en torneos |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Especie en peligro |
 
-En adición de lo anterior, el [equipo de soporte de cuentas](https://osu.ppy.sh/wiki/en/People/The_Team/Account_support_team) está para ayudar.
+En adición de lo anterior, el [equipo de soporte de cuentas](/wiki/en/People/The_Team/Account_support_team) está para ayudar.
 
 ## Grupos de usuarios
 
