@@ -12,7 +12,7 @@ tags:
 
 ## Programme
 
-| Événement | Temps |
+| Événement | Date |
 | :-- | :-- |
 | Début de la saison | 29 avril 2021 |
 | Lobby temporaire : Playlist A | 3 mai - 10 mai 2021 |

@@ -26,7 +26,7 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
   - beatmapin kaldırılması;
   - forum gönderisinin ve yorumun kaldırılması.
 - [İtiraf etmek istediğiniz](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?) olumsuz davranışlar.
-- osu! hesabınızla ilişkili [e-postanıza olan erişimi kaybetmeniz](/wiki/Help_centre/Installation_and_registration#sign-in), veya hesabınızın çalınması.
+- osu! hesabınızla ilişkili [e-postanıza olan erişimi kaybetmeniz](/wiki/Help_centre/Account#sign-in), veya hesabınızın çalınması.
 - Kullanıcı adı [geri çevirme veya ufak yazım düzeltmeleri](/wiki/Help_centre/Account#name-changes).
 - [Bot hesabı başvuruları](/wiki/Bot_account).
 

@@ -29,8 +29,8 @@ no_native_review: true
 | ![Relax](/wiki/shared/mods/RL.png) | Relax (RL) | • ![][o!s] ![][o!t] ![][o!c]: 0.00x | • ![][o!s]: `自動點擊。讓你發燙的手指休息一下吧。 ** 分數不列入排名 **` • ![][o!t]: `放輕鬆！你不會再被來無影去無蹤的轉盤、連打搞得頭昏腦脹了。 ** 分數不列入排名 **` • ![][o!c]: `用滑鼠來控制小人移動。 ** 分數不列入排名 **` |
 | ![Autopilot](/wiki/shared/mods/AP.png) | Auto Pilot (AP) | • ![][o!s]: 0.00x | • ![][o!s]: `自動移動鼠標 - 跟著節奏點擊就好。 ** 分數不列入排名 **` |
 | ![Spun Out](/wiki/shared/mods/SO.png) | Spun Out (SO) | • ![][o!s]: 0.90x | • ![][o!s]: `自動完成轉盤。` |
-| ![4K (*x*K)](/wiki/shared/mods/4K.png) | 4K (*x*K) | 0.66x–1.00x (see [chart below](#xk-mod-score-multipliers)) |  |
-| ![Co-op](/wiki/shared/mods/CP.png) | Co-op (CP) | 0.70x–1.00x (see [chart below](#xk-mod-with-co-op-score-multipliers)) | • ![][o!m]: `鍵數加倍、歡樂加倍！` |
+| ![4K (*x*K)](/wiki/shared/mods/4K.png) | 4K (*x*K) | 0.66x–1.00x (see [chart below](#xk-mod-的分數加成)) |  |
+| ![Co-op](/wiki/shared/mods/CP.png) | Co-op (CP) | 0.70x–1.00x (see [chart below](#xk-mod-加上-co-op-的分數加成)) | • ![][o!m]: `鍵數加倍、歡樂加倍！` |
 | ![Mirror](/wiki/shared/mods/MR.png) | Mirror (MR) | • ![][o!m]: 1.00x |  |
 | ![Random](/wiki/shared/mods/RD.png) | Random (RD) | • ![][o!m]: 0.00x | • ![][o!m]: `音符隨機排列。` |
 | ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `看看精采絕倫的自動表演。` |
