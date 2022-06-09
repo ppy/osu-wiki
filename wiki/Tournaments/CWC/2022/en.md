@@ -102,43 +102,39 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Russian Federation | ![][flag_RU] | ![][flag_JP] | Japan | Jun 11 (Sat) 10:00 UTC | Jun 11 (Sat) 13:00 UTC+3 | Jun 11 (Sat) 19:00 UTC+9 | ² |
-| Taiwan | ![][flag_TW] | ![][flag_AR] | Argentina | Jun 11 (Sat) 13:00 UTC | Jun 11 (Sat) 21:00 UTC+8 | Jun 11 (Sat) 10:00 UTC-3 | ² |
-| Italy | ![][flag_IT] | ![][flag_BE] | Belgium | Jun 11 (Sat) 14:00 UTC | Jun 11 (Sat) 16:00 UTC+2 | Jun 11 (Sat) 16:00 UTC+2 | ² |
-| Australia | ![][flag_AU] | ![][flag_FI] | Finland | Jun 11 (Sat) 14:30 UTC | Jun 12 (Sun) 00:30 UTC+10 | Jun 11 (Sat) 17:30 UTC+3 | ² |
-| Poland | ![][flag_PL] | ![][flag_NL] | Netherlands | Jun 11 (Sat) 15:00 UTC | Jun 11 (Sat) 17:00 UTC+2 | Jun 11 (Sat) 17:00 UTC+2 | ² |
-| Brazil | ![][flag_BR] | ![][flag_NO] | Norway | Jun 11 (Sat) 16:00 UTC | Jun 11 (Sat) 13:00 UTC-3 | Jun 11 (Sat) 18:00 UTC+2 | ² |
-| Russian Federation | ![][flag_RU] | ![][flag_PL] | Poland | Jun 11 (Sat) 17:00 UTC | Jun 11 (Sat) 20:00 UTC+3 | Jun 11 (Sat) 19:00 UTC+2 | ³ |
-| Belgium | ![][flag_BE] | ![][flag_NO] | Norway | Jun 11 (Sat) 17:30 UTC | Jun 11 (Sat) 19:30 UTC+2 | Jun 11 (Sat) 19:30 UTC+2 | ³ |
-| Belgium | ![][flag_BE] | ![][flag_BR] | Brazil | Jun 11 (Sat) 18:30 UTC | Jun 11 (Sat) 20:30 UTC+2 | Jun 11 (Sat) 15:30 UTC-3 | ³ |
+| Russian Federation | ![][flag_RU] | ![][flag_JP] | Japan | Jun 11 (Sat) 10:00 UTC | Jun 11 (Sat) 13:00 UTC+3 | Jun 11 (Sat) 19:00 UTC+9 | [^losers-bracket] |
+| Taiwan | ![][flag_TW] | ![][flag_AR] | Argentina | Jun 11 (Sat) 13:00 UTC | Jun 11 (Sat) 21:00 UTC+8 | Jun 11 (Sat) 10:00 UTC-3 | [^losers-bracket] |
+| Italy | ![][flag_IT] | ![][flag_BE] | Belgium | Jun 11 (Sat) 14:00 UTC | Jun 11 (Sat) 16:00 UTC+2 | Jun 11 (Sat) 16:00 UTC+2 | [^losers-bracket] |
+| Australia | ![][flag_AU] | ![][flag_FI] | Finland | Jun 11 (Sat) 14:30 UTC | Jun 12 (Sun) 00:30 UTC+10 | Jun 11 (Sat) 17:30 UTC+3 | [^losers-bracket] |
+| Poland | ![][flag_PL] | ![][flag_NL] | Netherlands | Jun 11 (Sat) 15:00 UTC | Jun 11 (Sat) 17:00 UTC+2 | Jun 11 (Sat) 17:00 UTC+2 | [^losers-bracket] |
+| Brazil | ![][flag_BR] | ![][flag_NO] | Norway | Jun 11 (Sat) 16:00 UTC | Jun 11 (Sat) 13:00 UTC-3 | Jun 11 (Sat) 18:00 UTC+2 | [^losers-bracket] |
+| Russian Federation | ![][flag_RU] | ![][flag_PL] | Poland | Jun 11 (Sat) 17:00 UTC | Jun 11 (Sat) 20:00 UTC+3 | Jun 11 (Sat) 19:00 UTC+2 | [^potential-match] |
+| Belgium | ![][flag_BE] | ![][flag_NO] | Norway | Jun 11 (Sat) 17:30 UTC | Jun 11 (Sat) 19:30 UTC+2 | Jun 11 (Sat) 19:30 UTC+2 | [^potential-match] |
+| Belgium | ![][flag_BE] | ![][flag_BR] | Brazil | Jun 11 (Sat) 18:30 UTC | Jun 11 (Sat) 20:30 UTC+2 | Jun 11 (Sat) 15:30 UTC-3 | [^potential-match] |
 
 ### Sunday, June 12, 2022
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_MX] | Mexico | Jun 12 (Sun) 03:00 UTC | Jun 12 (Sun) 12:00 UTC+9 | Jun 11 (Sat) 22:00 UTC-5 | ¹ |
-| Germany | ![][flag_DE] | ![][flag_VN] | Vietnam | Jun 12 (Sun) 09:00 UTC | Jun 12 (Sun) 11:00 UTC+2 | Jun 12 (Sun) 16:00 UTC+7 | ² |
-| Singapore | ![][flag_SG] | ![][flag_SE] | Sweden | Jun 12 (Sun) 11:00 UTC | Jun 12 (Sun) 19:00 UTC+8 | Jun 12 (Sun) 13:00 UTC+2 | ² |
-| Taiwan | ![][flag_TW] | ![][flag_DE] | Germany | Jun 12 (Sun) 11:00 UTC | Jun 12 (Sun) 19:00 UTC+8 | Jun 12 (Sun) 13:00 UTC+2 | ³ |
-| Taiwan | ![][flag_TW] | ![][flag_VN] | Vietnam | Jun 12 (Sun) 11:00 UTC | Jun 12 (Sun) 19:00 UTC+8 | Jun 12 (Sun) 18:00 UTC+7 | ³ |
-| Japan | ![][flag_JP] | ![][flag_PL] | Poland | Jun 12 (Sun) 11:00 UTC | Jun 12 (Sun) 20:00 UTC+9 | Jun 12 (Sun) 13:00 UTC+2 | ³ |
-| Japan | ![][flag_JP] | ![][flag_NL] | Netherlands | Jun 12 (Sun) 11:00 UTC | Jun 12 (Sun) 20:00 UTC+9 | Jun 12 (Sun) 13:00 UTC+2 | ³ |
-| Australia | ![][flag_AU] | ![][flag_SG] | Singapore | Jun 12 (Sun) 13:00 UTC | Jun 12 (Sun) 23:00 UTC+10 | Jun 12 (Sun) 21:00 UTC+8 | ³ |
-| Australia | ![][flag_AU] | ![][flag_SE] | Sweden | Jun 12 (Sun) 13:00 UTC | Jun 12 (Sun) 23:00 UTC+10 | Jun 12 (Sun) 15:00 UTC+2 | ³ |
-| Finland | ![][flag_FI] | ![][flag_SG] | Singapore | Jun 12 (Sun) 13:00 UTC | Jun 12 (Sun) 16:00 UTC+3 | Jun 12 (Sun) 21:00 UTC+8 | ³ |
-| Finland | ![][flag_FI] | ![][flag_SE] | Sweden | Jun 12 (Sun) 13:00 UTC | Jun 12 (Sun) 16:00 UTC+3 | Jun 12 (Sun) 15:00 UTC+2 | ³ |
-| China | ![][flag_CN] | ![][flag_FR] | France | Jun 12 (Sun) 13:00 UTC | Jun 12 (Sun) 21:00 UTC+8 | Jun 12 (Sun) 15:00 UTC+2 | ¹ |
-| Argentina | ![][flag_AR] | ![][flag_DE] | Germany | Jun 12 (Sun) 16:00 UTC | Jun 12 (Sun) 13:00 UTC-3 | Jun 12 (Sun) 18:00 UTC+2 | ³ |
-| Argentina | ![][flag_AR] | ![][flag_VN] | Vietnam | Jun 12 (Sun) 16:00 UTC | Jun 12 (Sun) 13:00 UTC-3 | Jun 12 (Sun) 23:00 UTC+7 | ³ |
-| Russian Federation | ![][flag_RU] | ![][flag_NL] | Netherlands | Jun 12 (Sun) 16:00 UTC | Jun 12 (Sun) 19:00 UTC+3 | Jun 12 (Sun) 18:00 UTC+2 | ³ |
-| Indonesia | ![][flag_ID] | ![][flag_CL] | Chile | Jun 12 (Sun) 16:00 UTC | Jun 12 (Sun) 23:00 UTC+7 | Jun 12 (Sun) 12:00 UTC-4 | ¹ |
-| Italy | ![][flag_IT] | ![][flag_BR] | Brazil | Jun 12 (Sun) 17:00 UTC | Jun 12 (Sun) 19:00 UTC+2 | Jun 12 (Sun) 14:00 UTC-3 | ³ |
-| Italy | ![][flag_IT] | ![][flag_NO] | Norway | Jun 12 (Sun) 17:00 UTC | Jun 12 (Sun) 19:00 UTC+2 | Jun 12 (Sun) 19:00 UTC+2 | ³ |
-| United States | ![][flag_US] | ![][flag_CA] | Canada | Jun 12 (Sun) 19:00 UTC | Jun 12 (Sun) 14:00 UTC-5 | Jun 12 (Sun) 14:00 UTC-5 | ¹ |
-
-¹ Winners bracket match\
-² Losers bracket match\
-³ Potential match - final matchup depends on the results of ²
+| South Korea | ![][flag_KR] | ![][flag_MX] | Mexico | Jun 12 (Sun) 03:00 UTC | Jun 12 (Sun) 12:00 UTC+9 | Jun 11 (Sat) 22:00 UTC-5 | [^winners-bracket] |
+| Germany | ![][flag_DE] | ![][flag_VN] | Vietnam | Jun 12 (Sun) 09:00 UTC | Jun 12 (Sun) 11:00 UTC+2 | Jun 12 (Sun) 16:00 UTC+7 | [^losers-bracket] |
+| Singapore | ![][flag_SG] | ![][flag_SE] | Sweden | Jun 12 (Sun) 11:00 UTC | Jun 12 (Sun) 19:00 UTC+8 | Jun 12 (Sun) 13:00 UTC+2 | [^losers-bracket] |
+| Taiwan | ![][flag_TW] | ![][flag_DE] | Germany | Jun 12 (Sun) 11:00 UTC | Jun 12 (Sun) 19:00 UTC+8 | Jun 12 (Sun) 13:00 UTC+2 | [^potential-match] |
+| Taiwan | ![][flag_TW] | ![][flag_VN] | Vietnam | Jun 12 (Sun) 11:00 UTC | Jun 12 (Sun) 19:00 UTC+8 | Jun 12 (Sun) 18:00 UTC+7 | [^potential-match] |
+| Japan | ![][flag_JP] | ![][flag_PL] | Poland | Jun 12 (Sun) 11:00 UTC | Jun 12 (Sun) 20:00 UTC+9 | Jun 12 (Sun) 13:00 UTC+2 | [^potential-match] |
+| Japan | ![][flag_JP] | ![][flag_NL] | Netherlands | Jun 12 (Sun) 11:00 UTC | Jun 12 (Sun) 20:00 UTC+9 | Jun 12 (Sun) 13:00 UTC+2 | [^potential-match] |
+| Australia | ![][flag_AU] | ![][flag_SG] | Singapore | Jun 12 (Sun) 13:00 UTC | Jun 12 (Sun) 23:00 UTC+10 | Jun 12 (Sun) 21:00 UTC+8 | [^potential-match] |
+| Australia | ![][flag_AU] | ![][flag_SE] | Sweden | Jun 12 (Sun) 13:00 UTC | Jun 12 (Sun) 23:00 UTC+10 | Jun 12 (Sun) 15:00 UTC+2 | [^potential-match] |
+| Finland | ![][flag_FI] | ![][flag_SG] | Singapore | Jun 12 (Sun) 13:00 UTC | Jun 12 (Sun) 16:00 UTC+3 | Jun 12 (Sun) 21:00 UTC+8 | [^potential-match] |
+| Finland | ![][flag_FI] | ![][flag_SE] | Sweden | Jun 12 (Sun) 13:00 UTC | Jun 12 (Sun) 16:00 UTC+3 | Jun 12 (Sun) 15:00 UTC+2 | [^potential-match] |
+| China | ![][flag_CN] | ![][flag_FR] | France | Jun 12 (Sun) 13:00 UTC | Jun 12 (Sun) 21:00 UTC+8 | Jun 12 (Sun) 15:00 UTC+2 | [^winners-bracket] |
+| Argentina | ![][flag_AR] | ![][flag_DE] | Germany | Jun 12 (Sun) 16:00 UTC | Jun 12 (Sun) 13:00 UTC-3 | Jun 12 (Sun) 18:00 UTC+2 | [^potential-match] |
+| Argentina | ![][flag_AR] | ![][flag_VN] | Vietnam | Jun 12 (Sun) 16:00 UTC | Jun 12 (Sun) 13:00 UTC-3 | Jun 12 (Sun) 23:00 UTC+7 | [^potential-match] |
+| Russian Federation | ![][flag_RU] | ![][flag_NL] | Netherlands | Jun 12 (Sun) 16:00 UTC | Jun 12 (Sun) 19:00 UTC+3 | Jun 12 (Sun) 18:00 UTC+2 | [^potential-match] |
+| Indonesia | ![][flag_ID] | ![][flag_CL] | Chile | Jun 12 (Sun) 16:00 UTC | Jun 12 (Sun) 23:00 UTC+7 | Jun 12 (Sun) 12:00 UTC-4 | [^winners-bracket] |
+| Italy | ![][flag_IT] | ![][flag_BR] | Brazil | Jun 12 (Sun) 17:00 UTC | Jun 12 (Sun) 19:00 UTC+2 | Jun 12 (Sun) 14:00 UTC-3 | [^potential-match] |
+| Italy | ![][flag_IT] | ![][flag_NO] | Norway | Jun 12 (Sun) 17:00 UTC | Jun 12 (Sun) 19:00 UTC+2 | Jun 12 (Sun) 19:00 UTC+2 | [^potential-match] |
+| United States | ![][flag_US] | ![][flag_CA] | Canada | Jun 12 (Sun) 19:00 UTC | Jun 12 (Sun) 14:00 UTC-5 | Jun 12 (Sun) 14:00 UTC-5 | [^winners-bracket] |
 
 ## Mappools
 
@@ -486,6 +482,13 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC+0** of the week they are to be played at.
    - **Do not ask for a reschedule unless it is absolutely needed. The Tournament Management reserves the right to deny any rescheduling request.**
 6. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
+
+
+## Notes
+
+[^winners-bracket]: Winners bracket match
+[^losers-bracket]: Losers bracket match
+[^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket matches
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
