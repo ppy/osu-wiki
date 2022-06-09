@@ -483,7 +483,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - **Do not ask for a reschedule unless it is absolutely needed. The Tournament Management reserves the right to deny any rescheduling request.**
 6. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
 
-
 ## Notes
 
 [^winners-bracket]: Winners bracket match
