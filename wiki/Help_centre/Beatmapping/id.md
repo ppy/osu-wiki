@@ -45,8 +45,6 @@ Apabila langkah-langkah di atas tidak menyelesaikan masalahmu, harap baca [laman
 
 **Jumlah beatmap Pending/WIP yang dapat kamu miliki dalam satu waktu tergantung pada jumlah beatmap Ranked yang kamu miliki. Untuk informasi selengkapnya, kunjungi [osu!supporter § Increased limits](/wiki/osu!supporter#increased-limits).**
 
-Secara *default*, kamu memiliki 4 slot beatmap Pending/WIP yang akan bertambah per beatmap Ranked yang kamu miliki (hingga maksimal 2 slot tambahan). Apabila kamu memiliki osu!supporter, kamu memiliki 8 slot beatmap Pending/WIP yang akan bertambah per beatmap Ranked yang kamu miliki (hingga maksimal 4 slot tambahan).
-
 ## Apakah saya dapat menghapus beatmap milik saya?
 
 **Bisa, namun kamu harus ingat bahwa tim kami tidak menerima permintaan penghapusan beatmap secara manual.**
