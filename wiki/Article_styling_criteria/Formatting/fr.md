@@ -797,7 +797,7 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 
 ## Notes de bas de page
 
-Les notes de bas de page sont de courtes notes situées à la fin de la page. Elles sont utilisées pour citer des sources ou fournir des informations d'arrière-plan qui, autrement, perturberaient le contenu l'article. Les notes de bas de page peuvent contenir du texte mis en forme et des liens.
+Les notes de bas de page sont de courtes notes situées à la fin de la page. Elles sont utilisées pour citer des sources ou fournir des informations d'arrière-plan qui, autrement, perturberaient le contenu de l'article. Les notes de bas de page peuvent contenir du texte mis en forme et des liens.
 
 Dans le osu! wiki, les notes de bas de page sont implémentées en utilisant une syntaxe spéciale (`[^identifier]`). Les notes de bas de page peuvent utiliser n'importe quel identifiant, mais elles seront automatiquement rendues en exposant avec des numéros croissants dans l'ordre de leur première apparition. Les notes de bas de page elles-mêmes doivent être placées dans un titre de second niveau distinct à la fin de l'article. Selon le contenu, le titre utilisé peut être "Références", "Notes" ou "Notes et références".
 
@@ -834,7 +834,7 @@ La première version de l'osu!api a été mise à disposition le 2 juillet 2013[
 
 Les notes de bas de page peuvent être utilisées pour stocker des explications ou des remarques tangentielles qui ne peuvent pas être intégrées sans nuire à la lisibilité de l'article, ou qui sont moins importantes que l'article lui-même. Ces notes de bas de page peuvent utiliser du texte libre.
 
-Example:
+Exemple : 
 
 ```markdown
 Un tournoi ne doit pas être organisé et dirigé par une équipe inexpérimentée composée de personnel non accompli et irréprochable [^staff].
