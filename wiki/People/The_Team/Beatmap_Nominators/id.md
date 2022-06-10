@@ -10,7 +10,6 @@ tags:
 
 **Beatmap Nominator** (***BN***) merupakan kelompok pengguna (*usergroup*) yang bertanggung jawab untuk [menominasikan beatmap](/wiki/Beatmap_ranking_procedure). Para anggota Beatmap Nominator dapat dikenali melalui nama pengguna mereka yang berwarna ungu pada laman forum dan [diskusi beatmap](/wiki/Beatmap_discussion).
 
-
 ## Peran dan tanggung jawab
 
 Para anggota Beatmap Nominator bertanggung jawab untuk mengecek kelayakan [beatmap yang berstatus Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) melalui proses [modding](/wiki/Modding). Mereka juga merupakan tempat bertanya bagi para mapper yang membutuhkan arahan seputar segala hal yang berhubungan dengan mapping atau modding. Masing-masing Beatmap Nominator dapat menempatkan [veto](Beatmap_Veto) pada beatmap yang telah dinominasikan sebelumnya apabila mereka merasa bahwa beatmap tersebut memiliki masalah di luar Ranking Criteria yang harus diperbaiki.
