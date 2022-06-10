@@ -8,7 +8,7 @@ tags:
 
 *Lihat juga: [Peraturan Beatmap Nominator](Rules), [Ekspektasi bagi Beatmap Nominator](Expectations), [Informasi umum seputar Beatmap Nominator](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-**Beatmap Nominator** (***BN***) merupakan kelompok pengguna (*usergroup*) yang bertanggung jawab untuk [menominasikan beatmap](/wiki/Beatmap_ranking_procedure). Para anggota Beatmap Nominator dapat dikenali melalui nama pengguna mereka yang berwarna ungu pada laman forum dan [diskusi beatmap](/wiki/Beatmap_discussion).
+**Beatmap Nominator** (***BN***) merupakan kelompok pengguna (*user group*) yang bertanggung jawab untuk [menominasikan beatmap](/wiki/Beatmap_ranking_procedure). Para anggota Beatmap Nominator dapat dikenali melalui nama pengguna mereka yang berwarna ungu pada laman forum dan [diskusi beatmap](/wiki/Beatmap_discussion).
 
 ## Peran dan tanggung jawab
 
