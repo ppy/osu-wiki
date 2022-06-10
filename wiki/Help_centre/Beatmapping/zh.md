@@ -43,7 +43,7 @@ tags:
 
 ## 我是osu!supporter，但我没有10个谱面槽位！
 
-**你拥有的可用谱面槽位取决于你的 ranked 谱面数量。For details, see [osu!supporter § 提高限额](/wiki/osu!supporter#提高限额)。**<!-- FIXME: replace the last sentence with actual translation -->
+**你拥有的可用谱面槽位取决于你的 ranked 谱面数量。参见：[osu!supporter § 提高限额](/wiki/osu!supporter#提高限额)。
 
 ## 如何删除我的谱面？
 

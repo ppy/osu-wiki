@@ -45,7 +45,7 @@ tags:
 
 ## 我是 osu! 贊助者，但是我沒有 20 個待辦欄位！
 
-**可用欄位數將依據你擁有的 Ranked 圖譜決定。For details, see [osu!supporter § Increased limits](/wiki/osu!supporter#increased-limits)。**<!-- FIXME: replace the last sentence with actual translation -->
+**可用欄位數將依據你擁有的 Ranked 圖譜決定。參見：[osu!supporter § Increased limits](/wiki/osu!supporter#increased-limits)。
 
 ## 我要怎麼刪除我的圖譜？
 
