@@ -218,7 +218,7 @@ tags:
 
 ### 我可以删除我的账号吗？
 
-*关于删除帐号的更多消息，参见：[您的权利和控制](/wiki/Legal/Privacy#your-rights-and-control)*
+*关于删除帐号的更多消息，参见：[您的权利和控制](/wiki/Legal/Privacy#您的权利和控制)*
 
 *注意：帐户删除是永久性的，因此无法撤消！*
 

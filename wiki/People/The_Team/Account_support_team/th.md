@@ -26,7 +26,7 @@
   - การลบบีทแมป
   - การลบโพสต์ฟอรัมและคอมเมนต์
 - การทำผิดกฎที่คุณ[ต้องการสารภาพ](/wiki/Reporting_bad_behaviour/Handling_foul_play#ฉันจะอุทธรณ์การแบนได้อย่างไร)
-- [การสูญเสียในการเข้าถึงอีเมล](/wiki/Help_centre/Installation_and_registration#sign-in)ที่ผูกกับบัญชีของคุณ หรือหากบัญชีของคุณถูกขโมย
+- [การสูญเสียในการเข้าถึงอีเมล](/wiki/Help_centre/Account#sign-in)ที่ผูกกับบัญชีของคุณ หรือหากบัญชีของคุณถูกขโมย
 - [การย้อนกลับและการแก้ไขชื่อบัญชีเล็กน้อย](/wiki/Help_centre/Account#name-changes)
 - [การลงทะเบียนบัญชีสำหรับ bot](/wiki/Bot_account)
 

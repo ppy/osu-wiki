@@ -6,7 +6,7 @@ no_native_review: true
 
 Artículos de **Desambiguación** en la [wiki de osu!](/wiki/Main_Page) remarca términos ambiguos y explica sus posibles significados.
 
-Un artículo regular, si tiene un titulo similar, tiene que usar la [nota "Para otros usos"](/wiki/Article_styling_criteria/Formatting#for-other-uses) con un link a la página de desambiguación.
+Un artículo regular, si tiene un titulo similar, tiene que usar la [nota "Para otros usos"](/wiki/Article_styling_criteria/Formatting#para-otros-usos) con un link a la página de desambiguación.
 
 ## Lista de articulos de desambiguación
 
