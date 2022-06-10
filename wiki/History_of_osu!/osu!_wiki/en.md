@@ -15,7 +15,7 @@
 | 2016-02-22 | The osu! wiki now has 8 admins (Ukami and Galkan). |
 | 2016-04-01 | One more admin joined the osu! wiki (Nathanael). |
 | 2016-08-30 | The osu! wiki running on MediaWiki is being deprecated in favour of the GitHub repository version. The current osu! wiki will stay until the GitHub version is ready to be deployed with all the pages and images ported. |
-| 2017-06 | The osu! wiki running on MediaWiki is officially deprecated. The link now points to the new osu-web interface using the osu! wiki resources made in the GitHub repository. [A temporary backup of the osu! wiki without the MediaWiki functionality can be found here.](https://osu.ppy.sh/old-wiki/Main_Page) |
+| 2017-06 | The osu! wiki running on MediaWiki is officially deprecated. The link now points to the new osu-web interface using the osu! wiki resources made in the GitHub repository. [A temporary backup of the osu! wiki without the MediaWiki functionality can be found here.](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page) |
 
 ## GitHub repository (2016 - present)
 
