@@ -15,9 +15,9 @@ Cet article a été mis à jour le 9 janvier 2022. Pour toute question ou clarif
 
 Les tournois bénéficiant d'un support officiel ont accès à :
 
-- Un [processus de filtrage](#tournament-screening) dédié pour empêcher les utilisateurs ayant commis de graves infractions à l'intégrité (tricherie, création de plusieurs comptes, bannissement des tournois) de jouer.
-- [Des badges de profil](#profile-badges) pour les gagnants de la première place.
-- Prise en compte éventuelle d'une [bannière publicitaire du menu principal](#requesting-main-menu-banner-support) pendant les matchs importants.
+- Un [processus de filtrage](#screening-du-tournoi) dédié pour empêcher les utilisateurs ayant commis de graves infractions à l'intégrité (tricherie, création de plusieurs comptes, bannissement des tournois) de jouer.
+- [Des badges de profil](#badges-de-profil) pour les gagnants de la première place.
+- Prise en compte éventuelle d'une [bannière publicitaire du menu principal](#demande-de-support-pour-la-bannière-du-menu-principal) pendant les matchs importants.
 
 ## Éligibilité
 
@@ -26,7 +26,7 @@ Les tournois gérés par la communauté qui respectent les critères stricts sui
 - La série de tournois ne doit pas se dérouler plus de quatre fois par an.
 - Le tournoi doit se dérouler au minimum sous la forme de huitièmes de finale à double élimination, **OU**, avoir au moins 64 joueurs (ou 16 équipes) participants. Des échelles et des formats plus importants sont autorisés.
 - Le tournoi est organisé et géré par une *équipe expérimentée composée de membres de staff accomplis et réputés*,[^experience] **OU**, le tournoi *a été organisé au moins une fois auparavant sans recevoir de récompenses*.
-- Les membres du staff ne doivent en aucun cas participer eux-mêmes au tournoi, et les joueurs ne peuvent pas non plus assister ultérieurement en tant que staff. Pour notre définition du terme "staff", veuillez consulter la [FAQ](#what-is-considered-staff).
+- Les membres du staff ne doivent en aucun cas participer eux-mêmes au tournoi, et les joueurs ne peuvent pas non plus assister ultérieurement en tant que staff. Pour notre définition du terme "staff", veuillez consulter la [FAQ](#ce-qui-est-considéré-staff).
 - Le fil de discussion du forum pour le tournoi **DOIT** contenir un lien clairement visible dans une police de taille normale vers le [formulaire de rapport de tournoi](https://pif.ephemeral.ink/tournament-reports) comme tout dernier contenu du message original.
   - `https://pif.ephemeral.ink/tournament-reports`
   - Ce formulaire de rapport est supervisé par le [Comité des tournois](/wiki/People/Tournament_Committee). Nous encourageons tous les utilisateurs, qu'ils soient joueurs ou membres du staff, à utiliser ce formulaire si nécessaire.
@@ -35,7 +35,7 @@ Les tournois gérés par la communauté qui respectent les critères stricts sui
 
 Pour commencer, la demande de support **doit être faite bien avant le début du tournoi**. Il n'y a pas de délai spécifique pour cela, mais nous recommandons au moins deux à trois semaines avant le début du tournoi pour tenir compte des retards dans le processus de screening.
 
-Si votre tournoi répond aux [critères d'éligibilité](#eligibility), vous pouvez faire une demande de support en envoyant un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh) avec les informations suivantes :
+Si votre tournoi répond aux [critères d'éligibilité](#éligibilité), vous pouvez faire une demande de support en envoyant un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh) avec les informations suivantes :
 
 - Une brève description de votre tournoi, y compris les dates, les modes de jeu et toute autre caractéristique appropriée.
 - Tous les liens vers :
@@ -44,8 +44,8 @@ Si votre tournoi répond aux [critères d'éligibilité](#eligibility), vous pou
   - Serveurs Discord publics ou tout autre salon de discussion hors site utilisé pour l'événement.
   - Itérations précédentes de la même série de tournois (uniquement le cas échéant).
 - Des listes séparées pour :
-  - Le staff et les assistants impliqués dans le déroulement du tournoi (voir [FAQ](#what-is-considered-staff)).
-  - Les utilisateurs qui se sont inscrits pour participer au tournoi (voir [screening du tournoi](#tournament-screening)).
+  - Le staff et les assistants impliqués dans le déroulement du tournoi (voir [FAQ](#ce-qui-est-considéré-staff)).
+  - Les utilisateurs qui se sont inscrits pour participer au tournoi (voir [screening du tournoi](#screening-du-tournoi)).
 
 Une fois que nous aurons reçu votre demande, l'équipe de support aux comptes vous renverra une liste des utilisateurs qui ne sont pas autorisés à participer aux tournois. Veuillez prévoir un délai suffisant pour obtenir une réponse. Nous ferons de notre mieux pour traiter toutes les demandes dans un délai d'une semaine, mais il arrive que la charge de travail soit très élevée, ce qui rend la chose impossible.
 
@@ -66,7 +66,7 @@ En outre, tout matériel promotionnel ou tout service associé à un tournoi bé
 
 **Le tournoi doit également respecter les pratiques suivantes pendant toute la durée du tournoi :**
 
-- Tous les joueurs inscrits doivent être contrôlés par l'équipe de support aux comptes avant le début du tournoi.[^play-commence] Voir [screening du tournoi](#tournament-screening) pour plus de détails.
+- Tous les joueurs inscrits doivent être contrôlés par l'équipe de support aux comptes avant le début du tournoi.[^play-commence] Voir [screening du tournoi](#screening-du-tournoi) pour plus de détails.
 - Si un utilisateur répond aux critères d'inscription (s'il y en a), le tournoi ne doit pas empêcher ceux qui passent le screening de participer sans que de nombreuses preuves soient présentées publiquement contre eux et sans l'approbation de l'équipe de support aux comptes.
   - Il s'agit notamment d'empêcher de jouer les utilisateurs qui sont suspectés de "sandbag" leur performance. Si un organisateur a des raisons valables de penser que la présence de tels joueurs affecte l'intégrité compétitive de son tournoi, il peut soumettre le problème au [Comité des tournois](/wiki/People/Tournament_Committee) pour un examen au cas par cas en utilisant le [formulaire de report de tournoi](https://pif.ephemeral.ink/tournament-reports).
 - Un arbitre dédié doit être présent lors de chaque match. Les joueurs ne peuvent pas s'auto-arbitrer.
@@ -75,14 +75,14 @@ En outre, tout matériel promotionnel ou tout service associé à un tournoi bé
 Une fois le tournoi terminé, les organisateurs du tournoi devront envoyer les éléments suivants à l'équipe de support aux comptes :
 
 - Une liste des destinataires des badges applicables (c'est-à-dire les gagnants de votre tournoi).
-- Un badge conçu de manière appropriée ([voir ci-dessous](#profile-badges)).
+- Un badge conçu de manière appropriée ([voir ci-dessous](#badges-de-profil)).
 - Un lien vers le catalogue accessible au public de l'historique des matchs de votre tournoi.
 
 ### Staff
 
 Les organisateurs de tournois doivent veiller à ce que leurs tournois se déroulent sans heurts et avec le moins de perturbations possible.
 
-Les utilisateurs sous le coup d'un ban des tournois actif sont censés révéler leur statut de ban de tournoi à tout tournoi supporté officiellement auquel ils ont l'intention de participer. Ils peuvent être engagés en tant qu'[assistants](#what-is-considered-staff) à la discrétion de l'hôte, mais nous encourageons une réflexion approfondie sur de tels choix car ces individus ont déjà enfreint les règles une fois (ou plus). Ils ne peuvent pas agir en tant que [staff](#what-is-considered-staff) À MOINS que l'hôte ne demande une exemption pour eux lorsqu'il envoie sa demande initiale de support. L'équipe de support aux comptes évaluera ensuite ces demandes au cas par cas en tenant compte de l'historique de l'utilisateur.
+Les utilisateurs sous le coup d'un ban des tournois actif sont censés révéler leur statut de ban de tournoi à tout tournoi supporté officiellement auquel ils ont l'intention de participer. Ils peuvent être engagés en tant qu'[assistants](#ce-qui-est-considéré-staff) à la discrétion de l'hôte, mais nous encourageons une réflexion approfondie sur de tels choix car ces individus ont déjà enfreint les règles une fois (ou plus). Ils ne peuvent pas agir en tant que [staff](#ce-qui-est-considéré-staff) À MOINS que l'hôte ne demande une exemption pour eux lorsqu'il envoie sa demande initiale de support. L'équipe de support aux comptes évaluera ensuite ces demandes au cas par cas en tenant compte de l'historique de l'utilisateur.
 
 ### Joueurs
 
@@ -143,7 +143,7 @@ Dans des cas exceptionnellement rares, un tournoi peut se voir accorder le privi
 
 Les tournois communautaires de longue durée peuvent bénéficier d'une bannière dans le menu principal du jeu. C'est à l'équipe d'osu! de décider si votre tournoi peut recevoir une publicité en jeu, car il y a de nombreux facteurs à prendre en compte. Les conditions minimales pour demander une publicité en jeu sont les suivantes :
 
-- Votre tournoi répond aux [critères d'admissibilité pour les tournois applicables](#eligibility).
+- Votre tournoi répond aux [critères d'admissibilité pour les tournois applicables](#éligibilité).
 - Le tournoi a été organisé avec succès pour *au moins* deux itérations avec remise de badges dans le passé.
 - Les livestreams de votre tournoi actuel ont une audience moyenne raisonnable pour tous les modes de jeu qui y sont présentés. Les modes les plus populaires (tels que osu!) devront avoir une moyenne d'audience plus élevée pour être qualifiés.
 - Votre tournoi touche à sa fin (par exemple, votre tournoi est en quart de finale ou plus et il a commencé en 32e de finale).

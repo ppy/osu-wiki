@@ -227,6 +227,14 @@ Le **osu!trivium Quiz** est un concours de questions où les joueurs s'affronten
 
 Les *concours non officiels* sont des concours organisés par les membres de la communauté.
 
+### osb! Storyboarding Contest
+
+Le **osb! Storyboarding Contest** est un concours de storyboarding où les storyboarders participants s'affrontent pour créer le meilleur storyboard. Ce concours est organisé par osu! storyboarder banquet, la communauté de storyboarding.
+
+| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](/wiki/Contests/osb!_Storyboarding_Contest/1) | ![][flag_CA] [TheDuckMask](https://osu.ppy.sh/users/7405768) | ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) | [#1](https://osu.ppy.sh/community/forums/topics/897075?n=1) |
+
 ### osu! Beatmapping World Championship
 
 Le **osu! Beatmapping World Championship** est un concours de mapping par équipe dans lequel les équipes participantes, composées de mappeurs d'un même pays, d'une même région, voire d'un même continent (dans une certaine mesure), s'affrontent sur plusieurs musiques et étapes de mapping. Le concours est connu pour n'utiliser que des musiques disponibles dans la bibliothèque [Featured Artist](/wiki/Featured_Artists) pendant son déroulement.
@@ -236,13 +244,23 @@ Le **osu! Beatmapping World Championship** est un concours de mapping par équip
 | [#1 (2019)](/wiki/Contests/oBWC/1) | ![][flag_FR] France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), et ![][flag_CH] [Xenok](https://osu.ppy.sh/users/3256600)) | ![][flag_SE] Suède ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), et [Zer0-](https://osu.ppy.sh/users/4260033)) | ![][flag_HK] Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), et [Starfy](https://osu.ppy.sh/users/2045914)) | [#1](https://www.youtube.com/watch?v=_booyIRa5v8) |
 | [#2 (2020)](/wiki/Contests/oBWC/2) | ![][flag_GB] Royaume-Uni ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), et [Yusomi](https://osu.ppy.sh/users/4174940)) | ![][flag_AR] Argentine ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), et [Megafan](https://osu.ppy.sh/users/6632605)) | ![][flag_BR] Brésil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), et [Trynna](https://osu.ppy.sh/users/2652951)) | [#1](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
 
-### osb! Storyboarding Contest
+### osu!taiko Featured Artist Cup
 
-Le **osb! Storyboarding Contest** est un concours de storyboarding où les storyboarders participants s'affrontent pour créer le meilleur storyboard. Ce concours est organisé par osu! storyboarder banquet, la communauté de storyboarding.
+La **osu!taiko Featured Artist Cup** est un concours de mapping osu!taiko où il est demandé simplement aux concurrents de mapper une musique d'un Featured Artist d'osu!. Le concours a quelques fois des limitations/particularités spécifiques afin de tester le niveau des concurrents.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
-| [#1](/wiki/Contests/osb!_Storyboarding_Contest/1) | ![][flag_CA] [TheDuckMask](https://osu.ppy.sh/users/7405768) | ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) | [#1](https://osu.ppy.sh/community/forums/topics/897075?n=1) |
+| [#1](/wiki/Contests/o!tFAC/1) | ![][flag_KR] [woosungko](https://osu.ppy.sh/users/14184157) | ![][flag_TH] [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
+| [#2](/wiki/Contests/o!tFAC/2) | *À déterminer* | *À déterminer* | *À déterminer* | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
+
+### Slider Velocity Showdown
+
+Le **Slider Velocity Showdown** est un concours de mapping osu!taiko avec un focus sur la créativité et l'innovation. Ce concours est ouvert à toute personne voulant faire travailler leurs muscles créatifs, qu'ils n'aient jamais touchés de point d'héritage ou qu'ils mappent depuis des années. 
+
+| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](/wiki/Contests/SVS/1) | ![][flag_NL] [Cookie_Tree](https://osu.ppy.sh/users/502722) | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) | ![][flag_JP] [Grape_Tea](https://osu.ppy.sh/users/9540073) | [#1](https://osu.ppy.sh/community/forums/topics/1361851) |
+| [#2](/wiki/Contests/SVS/2) | ![][flag_TW] [katacheh](https://osu.ppy.sh/users/6651672) | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | ![][flag_PH] [Fynbi](https://osu.ppy.sh/users/2164993) | [#1](https://osu.ppy.sh/community/forums/topics/1493798) |
 
 ### Pending Cup
 
@@ -384,7 +402,7 @@ La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mai
 [SCrown]: /wiki/shared/crown-silver.png "Seconde place"
 [BCrown]: /wiki/shared/crown-bronze.png "Troisième place"
 
-[flag_AE]: /wiki/shared/flag/AE.gif "Émirats Arabes Unis"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australie"
@@ -393,39 +411,39 @@ La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mai
 [flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
 [flag_BY]: /wiki/shared/flag/BY.gif "Biélorussie"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Chine"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "République tchèque"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
-[flag_EE]: /wiki/shared/flag/EE.gif "Estonie"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag_AE]: /wiki/shared/flag/AE.gif "Émirats Arabes Unis"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonie"
+[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italie"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japon"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_SV]: /wiki/shared/flag/SV.gif "Le Salvador"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lituanie"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
 [flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
 [flag_PA]: /wiki/shared/flag/PA.gif "Panama"
 [flag_PE]: /wiki/shared/flag/PE.gif "Pérou"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "République tchèque"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbie"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
-[flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

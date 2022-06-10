@@ -11,7 +11,7 @@ Grande parte das doações que recebemos é usada para reinvestir no [licenciame
 
 Falhando nisso, osu! adotou a seguinte política com relação à violação de direitos autorais, de acordo com o Digital Millennium Copyright Act, 17 U.S.C. 512.
 
-As informações de contato do Agente Designado de osu! Para Receber Notificação de Infração Reivindicada ("Agente Designado") estão listadas no final desta política e estão arquivadas no Escritório de Direitos Autorais dos Estados Unidos ([https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)). osu! leva muito a sério os direitos autorais e outros direitos de propriedade intelectual.
+As informações de contato do Agente Designado de osu! Para Receber Notificação de Infração Reivindicada ("Agente Designado") estão listadas no final desta política e estão arquivadas no Escritório de Direitos Autorais dos Estados Unidos (<https://www.copyright.gov/dmca-directory/>). osu! leva muito a sério os direitos autorais e outros direitos de propriedade intelectual.
 
 É política do osu!:
 

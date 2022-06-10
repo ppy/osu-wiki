@@ -2,8 +2,6 @@
 tags:
   - Mapper's Guild
   - MG
-outdated_translation: true
-outdated_since: 3cf46b29330f1d208f1b5390649747054db8a5a4
 ---
 
 # La Mappers' Guild
@@ -55,6 +53,10 @@ Les tâches de création d'une difficulté rapportent plus de points à un utili
 *Article principale : [Vitrine des beatmaps des Artistes Associés](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps)*
 
 Les membres de la Mappers' Guild peuvent également participer à la création de beatmaps de présentation pour les annonces futures des Artistes Associés. Dès l'annonce de l'artiste correspondant, ces beatmaps sont mis en évidence dans le [newspost](https://osu.ppy.sh/home/news) et sont souvent promus sur le [@osugame Twitter](https://twitter.com/osugame) également.
+
+### Concours de Beatmapping
+
+La Mappers' Guild gère également des concours de beatmapping. Depuis janvier 2020, toutes les itérations du [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) ont été hébergées, screenées et jugées en utilisant les systèmes fournis par la Mappers' Guild. Tous les utilisateurs peuvent héberger des concours au travers de la Mappers' Guild pour améliorer l’accessibilité de la communauté de mapping d'osu!.
 
 ## Histoire
 
