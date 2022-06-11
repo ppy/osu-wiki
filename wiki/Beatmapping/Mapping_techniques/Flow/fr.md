@@ -28,7 +28,7 @@ Le mouvement linéaire peut également être considéré comme une autre forme d
 
 ### Répétition
 
-La répétition est une autre forme de mouvement naturel. Les patterns comportant des mouvements répétés similaires qui ne diffèrent que légèrement, tels que les [sauts](/wiki/Beatmap/Pattern/Jump) back-and-forth ou une série de slider pairs, sont confortables à jouer car les mouvements suivants suivent des chemins déjà familiers, ce qui les rend faciles à prévoir. Les patterns répétés peuvent devenir de plus en plus confortables tout au long d'une beatmap pour la même raison.
+La répétition est une autre forme de mouvement naturel. Les patterns comportant des mouvements répétés similaires qui ne diffèrent que légèrement, tels que les [jumps](/wiki/Beatmap/Pattern/Jump) aller-retour ou une série de slider pairs, sont confortables à jouer car la succession de mouvement suis un chemin familiers, ce qui les rend faciles à prévoir. Les patterns répétés peuvent devenir de plus en plus confortables tout au long d'une beatmap pour la même raison.
 
 ### Implications visuelles
 
@@ -42,7 +42,7 @@ Par exemple, le flow régulier peut être opposé à un mouvement non naturel po
 
 En raison de la subjectivité du flow et de la quantité de modèles possibles de mouvements du slider, il n'existe pas de consensus clair sur la meilleure façon d'utiliser le flow dans le beatmapping.
 
-## See also
+## Voir également
 
 - [Analyzing Flow in Beatmaps](https://osu.ppy.sh/community/forums/topics/86329), un guide par ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
 - [Mapping Analysis #1 - Flow](https://osu.ppy.sh/home/news/2013-09-15-mapping-analysis-1-flow), un new post par ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005)
@@ -50,7 +50,7 @@ En raison de la subjectivité du flow et de la quantité de modèles possibles d
 
 ## Notes
 
-[^circular-flow]: Pour les joueurs utilisant une souris, un mouvement circulaire appliqué dans la même direction pendant trop longtemps est considéré comme trop répétitif et inconfortable en raison de la dérive de la souris.
+[^circular-flow]: Pour les joueurs utilisant une souris, un mouvement circulaire appliqué dans la même direction pendant trop longtemps est considéré comme trop répétitif et inconfortable en raison de la dérive de la souris (également appelé mouse drift en anglais).
 
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
