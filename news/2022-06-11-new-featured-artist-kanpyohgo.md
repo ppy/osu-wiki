@@ -10,11 +10,11 @@ date: 2022-06-11 13:00:00 +0000
 
 A professional in both hardware and sound engineering, **Kanpyohgo** (a.k.a. *Kanpyo*) is one of the few people whose love for waveforms includes both audio and electric circuitry.
 
-Avid circle clickers may recognize **Kanpyohgo** from the stream-jump focused beatmap [Unmei no Dark Side -Rolling Gothic mix-](https://osu.ppy.sh/beatmapsets/514980), having amassed over a thousand favourites and approaching 2 million plays since reaching ranked!
+Avid circle clickers may recognize **Kanpyohgo** from the stream jump–focused beatmap [Unmei no Dark Side -Rolling Gothic mix-](https://osu.ppy.sh/beatmapsets/514980), having amassed over a thousand favourites and approaching 2 million plays since reaching ranked!
 
 **7** reinvented *Touhou* songs just like the one above are now ready for mapping from [**Kanpyohgo**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/274)!
 
-If you're somehow unaware of the hype behind **Kanpyohgo** and his song *Unmei no Dark Side*, do yourself a favour and witness this Hidden vs. Hardrock comparison video. After you're hooked, check out everything else too:
+If you're somehow unaware of the hype behind **Kanpyohgo** and his song *Unmei no Dark Side*, do yourself a favour and witness this Hidden vs. Hard Rock comparison video. After you're hooked, check out everything else too:
 
 <div align="center">
     <video width="100%" controls>
