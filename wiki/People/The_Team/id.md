@@ -51,7 +51,7 @@ osu! memiliki berbagai kelompok pengguna (*user group*) yang tersusun atas para 
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Mengevaluasi kinerja Beatmap Nominator |
 | [osu! Alumni](osu!_Alumni) | Para pendahulu yang telah banyak berjasa pada masanya |
 | [Project Loved Team](Project_Loved_Team) | Mengukuhkan beatmap yang dicintai oleh komunitas |
-| [Support Team](Support_Team) | Melayani berbagai pertanyaan dan permintaan yang diajukan pada sub-forum Help dan Feature Request |
+| [Support Team](Support_Team) | Memberikan bantuan pada sub-forum Help dan Feature Request |
 
 ## Anggota tim inti osu! yang kini sudah tidak lagi aktif
 
