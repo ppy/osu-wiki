@@ -837,7 +837,7 @@ Les notes de bas de page peuvent être utilisées pour stocker des explications 
 Exemple : 
 
 ```markdown
-Un tournoi ne doit pas être organisé et dirigé par une équipe inexpérimentée composée de personnel non accompli et irréprochable [^staff].
+Un tournoi ne doit pas être organisé et dirigé par une équipe inexpérimentée composée de staff non accompli et sans réputation [^staff].
 
 ## Notes
 
