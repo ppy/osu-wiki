@@ -14,7 +14,7 @@ Le **flow** est un concept de mapping qui décrit les schémas de mouvement natu
 
 Le flow est considéré comme un sujet **subjectif** et souvent controversé en raison de la façon dont les différents mappeurs et joueurs conçoivent ou perçoivent le mouvement. Certains aspects du flow peuvent avoir un impact sur la jouabilité à différents degrés selon le [périphérique d'entrée](/wiki/Gameplay/Input_device) du joueur, tel que la [tablette graphique](/wiki/Gameplay/Input_device/Graphics_tablet) ou la [souris](/wiki/Gameplay/Input_device/Mouse), ou les compétences ou l'expérience acquises par le joueur.
 
-L'opposé du flow est appelé [antiflow](/wiki/Beatmapping/Antiflow), qui implique à l'inverse des schémas de mouvement non intuitifs ou non naturels.
+L'opposé du flow est appelé [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow), qui implique à l'inverse des schémas de mouvement non intuitifs ou non naturels.
 
 ## Principaux éléments
 
@@ -32,7 +32,7 @@ La répétition est une autre forme de mouvement naturel. Les patterns comportan
 
 ### Implications visuelles
 
-Pour donner à une beatmap un aspect plus naturel, les mappeurs peuvent utiliser des sliders de formes différentes qui renforcent la direction suggérée du mouvement. Puisque les slider bodies n'ont pas besoin d'être suivis parfaitement, parce que le curseur doit seulement atteindre les [slider ticks](/wiki/Beatmapping/Slider_tick), ils peuvent être ajustés et pliés de nombreuses façons sans affecter le mouvement nécessaire pour les franchir. Cela permet aux formes de sliders de compléter une trajectoire de mouvement existante, ou d'aider le joueur à choisir une nouvelle trajectoire de mouvement.
+Pour donner à une beatmap un aspect plus naturel, les mappeurs peuvent utiliser des sliders de formes différentes qui renforcent la direction suggérée du mouvement. Puisque les slider bodies n'ont pas besoin d'être suivis parfaitement, parce que le curseur doit seulement atteindre les [slider ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick), ils peuvent être ajustés et pliés de nombreuses façons sans affecter le mouvement nécessaire pour les franchir. Cela permet aux formes de sliders de compléter une trajectoire de mouvement existante, ou d'aider le joueur à choisir une nouvelle trajectoire de mouvement.
 
 ## Application
 
