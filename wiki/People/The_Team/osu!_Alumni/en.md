@@ -4,6 +4,8 @@ The **osu! Alumni** are those known for their contributions who have since moved
 
 The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the members.
 
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
 | Name | Past roles |
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |

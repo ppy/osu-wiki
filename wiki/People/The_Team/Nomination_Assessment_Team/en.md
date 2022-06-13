@@ -44,6 +44,8 @@ The NAT keep tabs on potential NAT candidates over long periods of time, and occ
 
 The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members. In addition to areas mentioned below, all NAT members take part in [reviewing audio and visual content included in beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
 ### osu!
 
 | Name | Additional languages | Primary responsibilities |

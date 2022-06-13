@@ -40,6 +40,8 @@ The [Beatmap Nominators](https://osu.ppy.sh/groups/28) and [Beatmap Nominators (
 
 The tables listed below indicate the game mode(s) in which each Beatmap Nominator is formally qualified to nominate. *Note: All Beatmap Nominators speak English in addition to the language(s) listed below unless noted otherwise.*
 
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
 ### Full Beatmap Nominators
 
 #### osu!
