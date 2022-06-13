@@ -1,6 +1,6 @@
 # Guía de Contribución de la osu! wiki
 
-¡Gracias por tu interés en hacer la osu! wiki mejor! Este artículo cubre el proceso de contribución paso a paso. Si ya tienes experiencia usando GitHub, puedes omitir esta guía y seguir el flujo de trabajo normal de feature-branch para proponer cambios y salta a la sección de [Autocomprobación](#Autocomprobación).
+¡Gracias por tu interés en hacer la osu! wiki mejor! Este artículo cubre el proceso de contribución paso a paso. Si ya tienes experiencia usando GitHub, puedes omitir esta guía y seguir el flujo de trabajo normal de feature-branch para proponer cambios y salta a la sección de [Autocomprobación](#autocomprobación).
 
 No esperamos que los nuevos contribuidores estén familiarizados con GitHub o [Git](https://git-scm.com/), debido a que son herramientas mayormente enfocadas para desarrolladores. No te preocupes si haces algo mal tu primera vez, un [administrador de la wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers) te guiará en la dirección correcta, o lo arreglará por ti.
 
@@ -8,7 +8,7 @@ Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, si
 
 ## Áreas de interés
 
-Si realmente quieres ayudar y no sabes por dónde comenzar, mira el [Mantenimiento de osu! wiki § Rutinas](/wiki/osu!_wiki/Maintenance#routines) para una lista de tareas que necesitan ser realizadas de manera regular, y maneras de ayudar a otros editores de la wiki, mira la [hoja de referencia](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) de Adam Pritchard's.
+Si realmente quieres ayudar y no sabes por dónde comenzar, mira el [Mantenimiento de osu! wiki § Rutinas](/wiki/osu!_wiki/Maintenance#rutinas) para una lista de tareas que necesitan ser realizadas de manera regular, y maneras de ayudar a otros editores de la wiki, mira la [hoja de referencia](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) de Adam Pritchard's.
 
 ## Editando la wiki
 
@@ -34,7 +34,7 @@ Cuando termines de editar, toma tu tiempo para corregir tu trabajo. Sigue el lis
 - **Estilo y gramática**: los artículos tienen que ser claros, entendibles, y que no requieran de un esfuerzo mental significativo para el lector. Se consistente y evita oraciones complicadas o abruptas. Usa editores con correctores ortográficos incorporados, tales como [Google Docs](https://docs.google.com), para exponer errores tipográficos, gramaticales o de sintaxis.
 - **[Paridad de Contenido](/wiki/Article_styling_criteria/Writing#content-parity)**: traducciones deberán contener la misma información que el artículo original (obviamente se esperan diferencias en la puntuación, la redacción o el formato). En lugar de cambiar el contenido de la traducción, puedes [abrir un problema (`open a issue`)](https://github.com/ppy/osu-wiki/issues/new) o una `Pull Request` adicional a la original si piensas que está incompleto, inexacto o desactualizado.
 - **Estructura y formato**: obtén una vista previa con herramientas como [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) para que te asegures de que sea mire exactamente como querías que fuera.
-- **Todas las imágenes y otros archivos que no sean de texto** deberán ser de un tamaño [menor a 1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Capturas de pantalla** deberán usar la apariencia predeterminada de osu! y [configuraciones específicas](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay), incluyendo la resolución máxima de 1280×720.
+- **Todas las imágenes y otros archivos que no sean de texto** deberán ser de un tamaño [menor a 1 megabyte](/wiki/Article_styling_criteria/Formatting#tamaños-de-archivo). **Capturas de pantalla** deberán usar la apariencia predeterminada de osu! y [configuraciones específicas](/wiki/Article_styling_criteria/Formatting#capturas-de-pantalla-del-gameplay), incluyendo la resolución máxima de 1280×720.
 
 Para estándares de escritura y formato más específicos, consulte los [criterios de estilo](/wiki/Article_styling_criteria). No se recomienda leerlo todo de una vez; un revisor probablemente señalará si es necesario corregir algo de cualquier manera. 
 
@@ -57,7 +57,7 @@ Si nadie ha mirado tu `Pull request` después de un par de días, intente lo sig
 - Para obtener ayuda con la traducción, mira algunas `Pull request` que fueron unidas (`Merged`) en tu idioma y contacta a sus revisores y/o autores ([ejemplo de consulta GitHub](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BES%5D)).
 - ¡Pide a tus amigos un vistazo rápido!
 
-En adición al procedimiento manual de revisión, el repositorio de la osu! wiki tiene [un conjunto de comprobaciones automatizadas](/wiki/osu!_wiki/Maintenance#ci-checks), que se aseguran que tus cambios cumplan el estilo común de la wiki y son libres de errores de formato. Para mirar su estado, abre la pestaña `Actions` de tu pull request y sigue los mensajes de diagnóstico debajo de los errores, si hay alguno.
+En adición al procedimiento manual de revisión, el repositorio de la osu! wiki tiene [un conjunto de comprobaciones automatizadas](/wiki/osu!_wiki/Maintenance#integración-continua-(ci-checks)), que se aseguran que tus cambios cumplan el estilo común de la wiki y son libres de errores de formato. Para mirar su estado, abre la pestaña `Actions` de tu pull request y sigue los mensajes de diagnóstico debajo de los errores, si hay alguno.
 
 ## Uniendo
 

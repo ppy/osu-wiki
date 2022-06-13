@@ -51,7 +51,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesio |
 | ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | Italiano |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
-| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Ruso |
+| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusian, ruso |
 | ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | Coreano |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | Italiano |
@@ -132,11 +132,13 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_IE] [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano |
 | ![][flag_BR] [Ideal](https://osu.ppy.sh/users/3869519) | Portugués |
+| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Holandés |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonés, cantonés, chino |
 | ![][flag_US] [meiqth](https://osu.ppy.sh/users/12565402) |  |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chino |
 | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |  |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | Ruso |
+| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | Portugués |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Alemán, algo de francés |
 
 #### osu!catch
@@ -164,6 +166,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesio |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | Coreano |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Chino |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
@@ -192,7 +195,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
 | ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | Español |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | Español |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukrainian |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Francés |
 | ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | Coreano |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
@@ -206,11 +209,11 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | :-- | :-- |
 | ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finlandés, algo de sueco |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Japonés |
-| ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | Coreano |
+| ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | Japonés |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
 | ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | Finlandés |
 | ![][flag_ID] [Surono](https://osu.ppy.sh/users/3611370) | Indonesio |
-| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | Portugués |
+| ![][flag_PL] [yurishe](https://osu.ppy.sh/users/14890963) | Polaco |
 
 #### osu!catch
 
@@ -258,6 +261,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
 [flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tailandia"

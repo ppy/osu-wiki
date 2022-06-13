@@ -242,7 +242,7 @@ Necesitaras que el elemento `cursormiddle.png` se encuentre presente en tu skin.
 
 ### Eliminé un elemento, pero sigue ahí. ¿Cómo puedo removerlo?
 
-Si deseas remover un elemento, deberás utilizar una imagen transparente en el elemento que deseas remover. Entonces, [recarga tu skin](#¿Cómo-puedo-recargar-mi-skin-en-osu!?).
+Si deseas remover un elemento, deberás utilizar una imagen transparente en el elemento que deseas remover. Entonces, [recarga tu skin](#¿cómo-puedo-recargar-mi-skin-en-osu!?).
 
 #### ¿Cómo puedo eliminar la iluminación después de pulsar un objeto?
 
@@ -273,7 +273,7 @@ Deberás contar con [osu!supporter](/wiki/osu!supporter) para poder mirar la ima
 
 ### ¿Qué hace el @2x?
 
-*Pagina principal: [Imágenes-HD](#Imágenes-HD)*
+*Pagina principal: [Imágenes-HD](#imágenes-hd)*
 
 ### ¡Mis tambores de taiko están en la posición incorrecta!
 

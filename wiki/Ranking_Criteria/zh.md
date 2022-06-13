@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 7b5392b2431adcb81b085063ca0375ce3c992f7b
+---
+
 # Ranking Criteria
 
 *查看每个游戏模式具体的标准，请参阅 [osu!](osu!)，[osu!taiko](osu!taiko)，[osu!catch](osu!catch) 和 [osu!mania](osu!mania)。*
@@ -34,7 +39,7 @@
 - **包含快速、重复的闪烁图像，或视频、故事板内含有对比度、颜色、亮度的快速变化内容的谱面，必须开启光敏性癫痫警告。** 如果警告会影响谱面游玩，则必须在歌曲前增加足够的开场空白时间。3 HZ（即：1秒闪烁3次） 以下的闪烁图像一般无须担心。如果有疑问，请开启警告并在摸图时讨论是否有必要开启它。
 - **谱面文件夹中不能有未使用文件或 0 字节的文件。** 0 字节的文件会影响文件夹中其他文件的正常上传。仅自动生成的 `thumbs.db` 文件除外。
 - **[休息时间](/wiki/Beatmap/Break)必须按照[谱面编辑器](/wiki/Client/Beatmap_editor)的限制插入。**
-- **[谱面难度设定](/wiki/Client/Beatmap_editor/Song_Setup#difficulty)的各项参数必须保证能直接在[谱面编辑器](/wiki/Client/Beatmap_editor)内编辑复现。**
+- **[谱面难度设定](/wiki/Client/Beatmap_editor/Song_Setup#谱面难度设定(difficulty))的各项参数必须保证能直接在[谱面编辑器](/wiki/Client/Beatmap_editor)内编辑复现。**
 - **如果相同游戏模式下的难度包含相同的休息时间或相同的故事板，则它们的`休息段使用黑边填充背景`设定必须一致，**
 - **如果谱面包含剧透内容，则必须在谱面描述中标注剧透警告。**
 
@@ -174,19 +179,19 @@
 
 ### 规定
 
-- **必须使用[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)来准确地表述歌曲的拍子记号。** 如果错误的拍子记号持续超过一个小节，则必须在下一个强拍添加非继承时间点重置拍子记号。由于编辑器不支持 #/4 拍子记号，可以重置节拍器或编辑 `.osu` 文件。对于其他不支持的时间记号，参见[范例图表](/wiki/shared/timing/Timing_signature_reference_chart.png)或者查阅[八分拍歌曲测定](/wiki/Guides/Timing_Songs_With_8-Signatures)获取更多信息。
+- **必须使用[非继承时间点](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)来准确地表述歌曲的拍子记号。** 如果错误的拍子记号持续超过一个小节，则必须在下一个强拍添加非继承时间点重置拍子记号。由于编辑器不支持 #/4 拍子记号，可以重置节拍器或编辑 `.osu` 文件。对于其他不支持的时间记号，参见[范例图表](/wiki/shared/timing/Timing_signature_reference_chart.png)或者查阅[八分拍歌曲测定](/wiki/Guides/Timing_Songs_With_8-Signatures)获取更多信息。
 - **谱面必须测定出精准的时间轴。** 这意味着 [BPM](/wiki/Beatmapping/Beats_per_minute) 和[偏移量](/wiki/Beatmapping/Offset)需要完全贴合歌曲。无规律的变奏歌曲也许不可能完美地测定，那么则应在不影响谱面游玩的情况下尽量精确测定。如果打算采用休息段或者转盘覆盖变奏段，则这个段落的复杂节奏测定可以忽略掉。
-- **[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)在谱面的每个难度中必须相同。** 每个时间点必须在每个难度中有相同的 [BPM](/wiki/Beatmapping/Beats_per_minute) 和[偏移量](/wiki/Beatmapping/Offset)。
-- **任何难度都不能有额外，无用的[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)存在。** 这可能会影响主菜单脉冲特效、[NightCore](/wiki/Game_modifier/Nightcore) 附加音效，或者由于毫秒舍入误差而导致谱面的时间轴偏移。若以下情况则可以使用非继承时间点：
+- **[非继承时间点](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)在谱面的每个难度中必须相同。** 每个时间点必须在每个难度中有相同的 [BPM](/wiki/Beatmapping/Beats_per_minute) 和[偏移量](/wiki/Beatmapping/Offset)。
+- **任何难度都不能有额外，无用的[非继承时间点](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)存在。** 这可能会影响主菜单脉冲特效、[NightCore](/wiki/Game_modifier/Nightcore) 附加音效，或者由于毫秒舍入误差而导致谱面的时间轴偏移。若以下情况则可以使用非继承时间点：
   - 使 NightCore Mod 的节拍和歌曲段落的开头对齐。
   - 在节拍分割器（beat snap divisors）内无法细分（如 1/11）的歌曲段落使用。
-- **不能把两个[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)或两个[继承时间点](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)放置在同一时间上。** 将两个时间点彼此重叠会导致滑条速度错误，或音效音量错误等。
-- **[继承时间点](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)不能放在第一个[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)之前。** 如果没有任何要继承的设置，继承时间点将无法正常工作。如果要在现有的第一个非继承时间点之前修改音效音量或滑条速度，则必须将其前移一个完整的小节，以便继承时间点正常工作。
-- **谱面的第一个[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)不能用于开启 [kiai 时间](/wiki/Gameplay/Kiai_time)。** 这样做将导致 Kiai 在出现之前闪烁。此时必须使用与第一个[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)重叠的[继承时间点](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)来使用 Kiai。
+- **不能把两个[非继承时间点](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)或两个[继承时间点](/wiki/Client/Beatmap_editor/Timing#继承时间点（绿线）)放置在同一时间上。** 将两个时间点彼此重叠会导致滑条速度错误，或音效音量错误等。
+- **[继承时间点](/wiki/Client/Beatmap_editor/Timing#继承时间点（绿线）)不能放在第一个[非继承时间点](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)之前。** 如果没有任何要继承的设置，继承时间点将无法正常工作。如果要在现有的第一个非继承时间点之前修改音效音量或滑条速度，则必须将其前移一个完整的小节，以便继承时间点正常工作。
+- **谱面的第一个[非继承时间点](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)不能用于开启 [kiai 时间](/wiki/Gameplay/Kiai_time)。** 这样做将导致 Kiai 在出现之前闪烁。此时必须使用与第一个[非继承时间点](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)重叠的[继承时间点](/wiki/Client/Beatmap_editor/Timing#继承时间点（绿线）)来使用 Kiai。
 - **与节拍细分对齐的物件误差必须小于 2 毫秒。** [AiMod](/wiki/Client/Beatmap_editor/AiMod) 会报告这些错误。有时，它也会错报一些物件，如滑条折返和滑条尾。此时需要手动判别或使用其他工具协助。如果物件使用了游戏不支持的节拍细分（如 1/11），那么这段物件可以：
   - 不对齐任何游戏提供的节拍细分，仅对齐歌曲实际的节拍细分。
   - 通过暂时改变 [BPM](/wiki/Beatmapping/Beats_per_minute) 来对齐。
-- **即使[非继承时间点](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point)变化，遵循前一个时间点节奏细分的物件末尾也需要完美贴合后一个时间点的节奏细分。** 对于转盘和 osu!mania 长音符，可以通过拖动物件的尾部使其对齐时间轴来实现。对于滑条，这可以通过修改滑条速度的方法，或直接编辑 `.osu` 文件来实现。
+- **即使[非继承时间点](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)变化，遵循前一个时间点节奏细分的物件末尾也需要完美贴合后一个时间点的节奏细分。** 对于转盘和 osu!mania 长音符，可以通过拖动物件的尾部使其对齐时间轴来实现。对于滑条，这可以通过修改滑条速度的方法，或直接编辑 `.osu` 文件来实现。
 
 ## 音频
 
