@@ -54,6 +54,8 @@ Generally, the team will observe people for several weeks or months to make sure
 
 The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all of the team members. In addition to areas mentioned below, all GMT members take part in [reviewing visual and aural content included in beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
 | Name | Additional languages | Area of focus |
 | :-- | :-- | :-- |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | German | Chat moderation |
