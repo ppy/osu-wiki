@@ -1,4 +1,5 @@
-separator: "、"
+outdated_translation: true # missing languages.be and languages.uk
+separator: 、
 alumni:
   roles:
     academy: osu!academy創設者
