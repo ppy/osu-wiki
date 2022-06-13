@@ -249,6 +249,7 @@ tags:
 [flag_CN]: /wiki/shared/flag/CN.gif "Китай"
 [flag_DE]: /wiki/shared/flag/DE.gif "Германия"
 [flag_DK]: /wiki/shared/flag/DK.gif "Дания"
+[flag_DO]: /wiki/shared/flag/DO.gif "Доминиканская Республика"
 [flag_ES]: /wiki/shared/flag/ES.gif "Испания"
 [flag_FI]: /wiki/shared/flag/FI.gif "Финляндия"
 [flag_FR]: /wiki/shared/flag/FR.gif "Франция"

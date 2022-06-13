@@ -42,7 +42,7 @@ tags:
 - Жалобы на поведение модератора.
 - Жалобы на модератора, не соблюдающего [Кодекс поведения волонтёра](/wiki/Contributor_Code_of_Conduct).
 - [Проблемы с оплатой](/wiki/Help_centre/Account#саппортер) заказов из [osu!store](https://osu.ppy.sh/store/listing).
-- Технические проблемы, которые не удалось или нельзя решить через [форум техподдержки](https://osu.ppy.sh/community/forums/5), например, [проблемы с подключением](/wiki/Help_centre/Client#онлайн).
+- Технические проблемы, которые не удалось или нельзя решить через [форум техподдержки](https://osu.ppy.sh/community/forums/5), например, [проблемы с подключением](/wiki/Help_centre/Client#online).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
