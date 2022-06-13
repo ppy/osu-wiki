@@ -50,7 +50,7 @@ Abschnitte: [Zusammenstellung](/wiki/Client/Beatmap_editor/Compose) • [Design]
 
 Komponenten: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Taktteiler](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menü](/wiki/Client/Beatmap_editor/Menu) • [SB-Belastung](/wiki/Client/Beatmap_editor/SB_Load) • [Zeitleisten](/wiki/Client/Beatmap_editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Mapping-Techniken](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
+[Beatmapping](/wiki/Beatmapping) • [Mapping-Techniken](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#erstellen-eines-storyboards) • [Skinning](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
