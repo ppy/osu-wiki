@@ -52,7 +52,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Endonezce |
 | ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | İtalyanca |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
-| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Rusça |
+| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusian, Rusça |
 | ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | Korece |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | İtalyanca |
@@ -196,7 +196,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
 | ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | İspanyolca |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | İspanyolca |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukrainian |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Fransızca |
 | ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | Korece |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
