@@ -89,8 +89,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluation |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
-<!-- last update: 2022-05-01 with the addition of Akasha- to the osu!mania NAT-->
-
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
