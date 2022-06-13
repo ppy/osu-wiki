@@ -238,8 +238,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 - 自2014年8月22日起，他们不再属于核心管理人员。在游戏、聊天室、论坛中，他们也不再拥有聊天管理权限和红色用户名。
 - 自2015年2月1日起，团队更名为谱面审核小组 (BNG)，随后调整为我们现在所熟知的谱面审核成员 (BN)。
 
-<!--- updated to March 8, 2022 @ 1742 with the Maxus' move into Full BN---> 
-
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
