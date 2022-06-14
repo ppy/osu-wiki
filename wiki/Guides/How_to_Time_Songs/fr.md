@@ -1,9 +1,3 @@
----
-needs_cleanup: true # À jour par rapport à `en.md`
----
-
-<!-- TODO: some outdated info and this could be simplified a lot. it's a pretty long read for what you get -->
-
 # Comment régler le timing d'une musique
 
 ![Menu Timing](/wiki/shared/timing/Timing_base.jpg "Menu Timing")
@@ -16,9 +10,9 @@ Vous êtes aussi supposé savoir ce qu'est le [BPM](/wiki/Beatmapping/Beats_per_
 
 ## Préparer le fichier .mp3
 
-Si vous allez travailler sur une beatmap et que vous comptez la rendre classée (ou approuvée), il est nécessaire pour le fichier audio d'avoir un bitrate entre 128 et 192kbps. (Ceci est pour s'assurer que les musiques sont d'une qualité audio acceptable et ne prennent pas trop de place sur les serveurs ou sur votre disque dur). Vous pouvez voir le bitrate d'un fichier audio en faisant un clic droit sur votre fichier et en sélectionnant Propriétés, puis la fenêtre Détails. Si vous ne savez pas comment réduire le bitrate (d'habitude jusqu'à 192kbps), il existe le [guide de l'édition audio](/wiki/Guides/Audio_Editing) ainsi qu'[une leçon de la part de notre propre professeur](https://www.youtube.com/watch?v=muu3HkG38kk). Vous pouvez demander à vos amis ou dans le tchat comment faire. Si rien de cela ne fonctionne, cherchez/demandez sur les [forums](https://osu.ppy.sh/community/forums/56) ou trouvez par vous-même comment faire.
+Si vous allez travailler sur une beatmap et que vous comptez la rendre classée (ou approuvée), il est nécessaire pour le fichier audio d'avoir un bitrate entre 128 et 192kbps. (Ceci est pour s'assurer que les musiques sont d'une qualité audio acceptable et ne prennent pas trop de place sur les serveurs ou sur votre disque dur). Vous pouvez voir le bitrate d'un fichier audio en faisant un clic droit sur votre fichier et en sélectionnant Propriétés, puis la fenêtre Détails. Si vous ne savez pas comment réduire le bitrate (d'habitude jusqu'à 192kbps), il existe le [guide de l'édition audio](/wiki/Guides/Audio_Editing) ainsi [qu'une leçon de la part de notre propre professeur](https://www.youtube.com/watch?v=muu3HkG38kk). Vous pouvez demander à vos amis ou dans le tchat comment faire. Si rien de cela ne fonctionne, cherchez/demandez sur les [forums](https://osu.ppy.sh/community/forums/56) ou trouvez par vous-même comment faire.
 
-Les préparations du fichier peuvent varier de simples coupures de certaines parties de la musique jusqu’à l'ajout/la suppression d'effets sonores. Il est mieux de faire tout ceci **avant de régler le timing votre musique**, car **n'importe quel** changement audio, ré-encodage inclus, va *changer le timing*.
+Les préparations du fichier peuvent varier de simples coupures de certaines parties de la musique jusqu’à l'ajout/la suppression d'effets sonores. Il est mieux de faire tout ceci **avant de régler le timing de votre musique**, car **n'importe quel** changement audio, ré-encodage inclus, va *changer le timing*.
 
 ## Timing Simple (une ligne rouge)
 
@@ -40,7 +34,7 @@ Voici le plan :
 
 ### BPM et offset
 
-Au moment de chercher ces deux choses, nous allons nous concentrer sur les bruits de fond, c'est à dire l'instrument qui est utilisé pour créer le rythme (la batterie, généralement). Vous pouvez les trouver intuitivement - par exemple, vous pouvez secouer une bouteille remplie, taper vos doigts sur la table (comme si vous jouiez du piano), secouer votre tête, ou n'importe quel mouvement rythmique (frapper votre ventre comme sur un bongo, faire des claquettes, siffler, etc). Quelques fois, la musique ne possède pas ou peu d'instruments ([exemple](https://osu.ppy.sh/beatmapsets/8894)). Si cela arrive, vous pouvez suivre les paroles.
+Au moment de chercher ces deux choses, nous allons nous concentrer sur les bruits de fond, c'est à dire l'instrument qui est utilisé pour créer le rythme (la batterie, généralement). Vous pouvez les trouver intuitivement - par exemple, vous pouvez secouer une bouteille remplie, taper vos doigts sur la table (comme si vous jouiez du piano), secouer votre tête, ou n'importe quel mouvement rythmique (frapper votre ventre comme sur un bongo, faire des claquettes, siffler, etc). Quelques fois, la musique ne possède pas ou peu d'instruments ([par exemple ici](https://osu.ppy.sh/beatmapsets/8894)). Si cela arrive, vous pouvez suivre les paroles.
 
 Jouez la musique depuis le début et écoutez-la en boucle jusqu’à ce que vous arriviez à clairement entendre et comprendre le rythme de la musique. À ce moment-là, arrêtez la musique, revenez un peu en arrière, réécoutez la musique et appuyez sur la touche `T` le plus constamment possible (Vous pouvez aussi appuyer sur le bouton en haut à droite qui dit "Tapez ici !", mais le faire au clavier va généralement vous donner des résultats plus précis). Les paramètres (BPM et Offset) vont changer à chaque fois que vous tapez, mais ne vous inquiétez pas, vous y repasserez plus tard. Passez 30 secondes sur cette étape, une minute au grand maximum.
 
@@ -66,7 +60,7 @@ Maintenant que l'offset est correct, vous pouvez ajuster le BPM. Déterminer l'o
   - Réduisez la vitesse de la musique (75% ou 50% si c'est requis) si vous rencontrez des difficultés.
 - Réécoutez la musique est regardez les battements du métronome.
 
-Pour regarder si le BPM est correct ou non, allez directement vers le milieu ou la fin de la musique, là où la différence entre le tempo de la musique et celui du métronome est accumulée et est facilement audible. Souvent, le BPM va être un nombre entier (pas de valeurs décimales) donc essayez d'ajuster le BPM jusqu'au nombre entier le plus proche pour voir si cela fonctionne dans votre cas. Après cela, vous pouvez essayer de faire des ajustements plus précis comme 101.200 au lieu de 101BPM, voir éventuellement 101.238, pour nommer quelques exemples. Avant de laisser le BPM avec des valeurs dans les centièmes (.01) ou dizaines (.1), enlevez les décimales ou arrondissez les puis réécoutez le métronome. Si la différence est insignifiante ou si vous la trouvez plus précise (regardez le milieu et la fin encore une fois), vous pouvez le garder et considérer le problème comme réglé. Attention : Toutes les musiques électroniques n'ont pas de BPM complètement plat, en dépit d'à quel point elle peuvent sembler banales. Enlever les décimales peut résulter en une erreur de BPM, dans ce cas-là.
+Pour regarder si le BPM est correct ou non, allez directement vers le milieu ou la fin de la musique, là où la différence entre le tempo de la musique et celui du métronome est accumulée est facilement audible. Souvent, le BPM va être un nombre entier (pas de valeurs décimales) donc essayez d'ajuster le BPM jusqu'au nombre entier le plus proche pour voir si cela fonctionne dans votre cas. Après cela, vous pouvez essayer de faire des ajustements plus précis comme 101.200 au lieu de 101BPM, voir éventuellement 101.238, pour nommer quelques exemples. Avant de laisser le BPM avec des valeurs dans les centièmes (.01) ou dizaines (.1), enlevez les décimales ou arrondissez les puis réécoutez le métronome. Si la différence est insignifiante ou si vous la trouvez plus précise (regardez le milieu et la fin encore une fois), vous pouvez le garder et considérer le problème comme réglé. Attention : Toutes les musiques électroniques n'ont pas de BPM complètement plat, en dépit de quel point elle peuvent sembler banales. Enlever les décimales peut résulter en une erreur de BPM, dans ce cas-là.
 
 ### Trouver la mesure de la musique
 
@@ -84,7 +78,7 @@ Dans la section Time signature, nous avons
 
 ### Phase de test
 
-La phase de test est le moment où nous allons mettre les vraies notes dans la beatmap, comme si on écrivait des symboles musicaux sur une partition musicale. Appuyez sur `F1` ou sur le bouton "Compose" dans l'éditeur et posez quelques notes pour que vous puissiez ensuite les toucher simplement.
+La phase de test est le moment où nous allons mettre les vraies notes dans la beatmap, comme si on écrivait des symboles musicaux sur une partition musicale. Appuyez sur `F1` ou sur l'onglet "Compose" dans l'éditeur et posez quelques notes pour que vous puissiez ensuite les toucher simplement.
 
 Les notes ne devraient pas apparaître immédiatement dans les premières secondes de la beatmap. Donnez-vous un peu de temps pour vous habituer au rythme de la musique et commencez avec quelques sliders ;
 Mettez les notes sur les lignes blanches (diviseur de mesure sur 1/1 ; "temps fort"), et uniquement sur les lignes blanches (n'utilisez pas encore le 1/2 ou le 1/4).
@@ -99,13 +93,13 @@ Posez donc les notes, appuyez sur F5 pour rentrer dans le mode Test et touchez l
 
 ![L'écran de test](img/Editor_TestMode.jpg "Le mode Test")
 
-Pendant que vous testez la beatmap (il faut que vous ayez toujours des 300), regardez le côté gauche de la fenêtre de test. Il y a une ligne qui ressemble à quelque chose comme ceci : **Mistimed Hits: 69% (avec 25ms de retard).** \[Voir image\]
+Pendant que vous testez la beatmap (il faut que vous ayez toujours des 300), regardez le côté gauche de la fenêtre de test. Il y a une ligne qui ressemble à quelque chose comme ceci : **Mistimed Hits: 69% (ave 25ms early).** \[Voir image\]
 
 - La première partie de cette ligne est le pourcentage de hits imprécis.
   - Essayez de garder cette valeur en dessous de 5%.
     - Les 100/50 que vous obtenez font monter ce pourcentage tandis que les 300 le font baisser. Les miss ne changent rien (le jeu supposera que vous n'essayez pas de tester la note).
 - La deuxième partie est la différence moyenne entre le timing de la beatmap et les hits du joueur.
-  - D'avance/De retard veut dire que vous cliquez trop tôt/trop tard par rapport au timing de la beatmap à quelques millisecondes.
+  - En avance/En retard veut dire que vous cliquez trop tôt/trop tard par rapport au timing de la beatmap à quelques millisecondes.
     - Essayez de garder cette valeur le plus bas possible (maximum 3-5ms).
   - Après avoir testé la beatmap, corrigez le timing absolu là où vous avez des erreurs.
     - Pour un timing trop lent/trop rapide, baissez/augmentez l'offset par le nombre spécifié (dans cet exemple, augmenter de 25ms).
@@ -128,7 +122,7 @@ Si tout a été fait correctement, vous devriez maintenant avoir une beatmap cor
 
 Il y a quelques situations où une seule ligne rouge n'est juste pas assez (quelques exemple pourraient être [Bad Apple](https://osu.ppy.sh/beatmapsets/64780), [A par DJ Amuro](https://osu.ppy.sh/beatmapsets/20841) ou [Ikasama Life Game par kemu](https://osu.ppy.sh/beatmapsets/183240)). Ces situations peuvent apparaître dans du hardrock, du métal, n'importe quelle musique à la guitare, des concerts, des performances en direct, des musiques avec des accélérations/décélérations/pauses audibles ([Pluto de Black∞Hole](https://osu.ppy.sh/beatmapsets/147406)) et ainsi de suite. Même en utilisant un métronome, certaines parties d'une musique (souvent au paroxysme ou à la fin) finissent par se décaler par rapport au rythme d'avant. Le tempo de la musique monte/descend d'un cran soudainement, le chanteur commence à chanter frénétiquement et finit par se décaler, et les instruments commencent à jouer acoustiquement. Dans ce scénario, décaler ou changer la première ligne rouge pour s'adapter au nouveau tempo ne va pas aider.
 
-Vous pouvez demander de l'aide pour cela, mais il n'y a que très peu de personnes qui *savent* comment identifier et travailler avec du multitiming. De plus, personne ne va vous aider si vous ne mettez pas de réels efforts dans vos beatmaps ou si ils ne pensent pas que vous valez leur temps. Vous pouvez le faire vous-même si vous avez beaucoup d'expérience et/ou une très bonne précision, et que vous êtes capable de toucher les notes correctement. Ceci est vital, car vous allez avoir besoin de faire beaucoup de tests, et des parties mal timées vont être frustrantes pour le joueur.
+Vous pouvez demander de l'aide pour cela, mais il n'y a que très peu de personnes qui *savent* comment identifier et travailler avec du multitiming. De plus, personne ne va vous aider si vous ne mettez pas de réels efforts dans vos beatmaps ou si ils ne pensent pas que vous valez leur temps. Vous pouvez le faire vous-même si vous avez beaucoup d'expérience et/ou une très bonne précision, et que vous êtes capable de frapper les notes correctement. Ceci est vital, car vous allez avoir besoin de faire beaucoup de tests, et des parties mal timées vont être frustrantes pour le joueur.
 
 ### Qu'est-ce que je dois faire ?
 
@@ -147,12 +141,12 @@ Ces étapes doivent être répétées jusqu’à la fin de la musique. Au final,
 L'algorithme pour les accélérations/décélérations du timing est légèrement différent :
 
 1. Trouvez un endroit où le tempo de la musique change. Créez un nouvel offset (si possible, sur une ligne blanche). Ensuite, zoomez l’échelle de la chronologie de la beatmap (Alt + molette de la souris ou appuyez sur le bouton "+" juste à côté de la chronologie) ;
-2. Posez une note deux temps après le changement et appliquez-lui un hitsound (par exemple, un hitsound finish du [sampleset](/wiki/Beatmap_Editor/Compose) soft)). Baissez la vitesse de lecture de la musique et écoutez-la quelques fois. Appuyez sur Maj et bougez minutieusement la note vers l'avant ou vers l'arrière dans la chronologie, puis réécoutez-là. Répétez cette étape jusqu'à ce que vous trouviez la meilleure position où la note est synchronisée avec la musique ;
+2. Posez une note deux temps après le changement et appliquez-lui un hitsound (par exemple, un hitsound finish du [sampleset](/wiki/Beatmap_Editor/Compose) soft). Baissez la vitesse de lecture de la musique et écoutez-la quelques fois. Appuyez sur Maj et bougez minutieusement la note vers l'avant ou vers l'arrière dans la chronologie, puis réécoutez-là. Répétez cette étape jusqu'à ce que vous trouviez la meilleure position où la note est synchronisée avec la musique ;
 3. Sélectionnez la note et double-cliquez dessus, tout en faisant en sorte de ne pas décaler la note par accident après que vous l'ayez cliquée. Créez un nouvel offset juste dessus ;
 4. Augmentez/Réduisez le BPM de l'offset juste avant, regardez la différence entre le tick juste avant le nouvel offset et l'offset lui-même. Votre but est d'enlever cette différence en changeant le BPM de la première section, pour que le début de la nouvelle section soit placé exactement lors d'un tick de l'ancien offset.
 5. Quand vous avez fini cela, retournez à l'étape 2.
 
-Répétez ceci jusqu’à ce que le BPM soit synchronisé avec le ralentissement/l'accélération. Après cela, vous devez redécaler toutes les notes et refaire les tests pour du debugging. Même si vous devrez probablement décaler tous les points après chaque changement, ne vous inquiétez pas : seulement quelques uns d'entre eux vont réellement changer, le reste va seulement être décalé et posé sur les ticks de la section précédente.
+Répétez ceci jusqu’à ce que le BPM soit synchronisé avec le ralentissement/l'accélération. Après cela, vous devez de nouveau décaler toutes les notes et refaire les tests pour du debugging. Même si vous devrez probablement décaler tous les points après chaque changement, ne vous inquiétez pas : seulement quelques uns d'entre eux vont réellement changer, le reste va seulement être décalé et posé sur les ticks de la section précédente.
 
 ### Améliorer le résultat
 
@@ -168,7 +162,7 @@ Au bout du compte, vous devriez retenir ces quelques conseils importants :
 - **Gardez toujours un œil sur les résultats des tests.**
 - **Appuyez vous aussi sur vos autre sens, n'utilisez pas que vos oreilles.** Parfois, la même partie d'une musique peut-être perçue différemment. Essayez de vous concentrer sur les résultats des tests, pas seulement sur votre audition.
 - **Les hit errors de moins de 3 ms, ne veulent rien dire et peuvent être ignorés.** Vous devriez commencer à les prendre en compte quand ils commencent à monter vers 5-6 millisecondes ou plus.
-- **Have a break. Have a Kit-Kat. (Faites des pauses.)** Conseil du docteur.
+- **Have a break. Have a Kit-Kat. (Faites des pauses).** Conseil du docteur.
 - **Ne testez pas le timing en jouant des streams ou des jumps ; les résultats peuvent être inconsistants même si vous êtes fort au jeu.** Utilisez plutôt des patterns simples pour vérifier le timing.
 - En revanche, faites aussi en sorte de le tester **sur la beatmap finale** et pas seulement sur une seule série de notes copiées-collées. 
 - **Il est toujours mieux de corriger et de régler plus précisément le BPM/l'Offset que de suivre la mesure de la musique.** Cela veut dire que vous pouvez rajouter de nouvelles sections quand vous le voulez, mais faites-le seulement quand c'est requis. Si la ligne n'est pas sur un temps fort, alors réinitialisez le métronome dès que possible, tout en ajoutant une nouvelle section là ou le prochain temps fort devrait être. Si il y a un nouvel offset plus qu'une fois tous les deux temps, il peut être négligé.
