@@ -594,3 +594,4 @@ Guildの設立当初は応募制のクローズドな応募による運営がさ
 [flag_TN]: /wiki/shared/flag/TN.gif "チュニジア"
 [flag_TR]: /wiki/shared/flag/TR.gif "トルコ"
 [flag_US]: /wiki/shared/flag/US.gif "アメリカ合衆国"
+[flag_VN]: /wiki/shared/flag/VN.gif "ベトナム"

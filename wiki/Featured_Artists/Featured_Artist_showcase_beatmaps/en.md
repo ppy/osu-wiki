@@ -589,3 +589,4 @@ Starting from [MYUKKE.'s Featured Artist announcement](https://osu.ppy.sh/home/n
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
