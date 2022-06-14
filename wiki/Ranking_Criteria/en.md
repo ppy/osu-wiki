@@ -199,8 +199,8 @@ This category contains explicit allowance statements of concepts and rules that 
   - **...have an average bit rate no lower than 128 kbps**, if such a source exists. Otherwise, use the highest quality available.
   - **...not be encoded upwards from a lower bitrate.**
 - **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
-- **Beatmaps must be [hitsounded](/wiki/Beatmapping/Hitsound).** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.
-  - **osu!mania beatmaps do not require [hitsound additions](/wiki/Beatmapping/Hitsound#normal-vs-addition).** This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to use hitsound additions to improve the feel of your beatmaps.
+- **Beatmaps must be [hitsounded](/wiki/Beatmapping/Hitsound).** Hit normals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.[^normal-vs-addition]
+  - **osu!mania beatmaps do not require hitsound additions[^normal-vs-addition].** This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to use hitsound additions to improve the feel of your beatmaps.
 - **All clicked parts of objects must have at least one hitsound which both...**
   - **...has a clear impact, whose peak is delayed no more than 5 milliseconds.** `normal-hitfinish.wav` from the default skin is exempt from this.
   - **...uses the `.wav` or `.ogg` file format.** `.mp3` should not be used here as it is inherently delayed.
@@ -300,3 +300,4 @@ This category contains explicit allowance statements of concepts and rules that 
 
 [^character-voice-actor]: `CV` (Character Voice) is used when song is sung in character by the character's voice actor. `VO` (Voice Over) is used when a song is sung in character by someone other than the character's voice actor.
 [^maximum-dimensions]: Backgrounds which are also used as storyboard images may follow [the storyboard images rule for maximum dimensions](/wiki/Ranking_Criteria#rules.7) instead.
+[^normal-vs-addition]: [Hitsounds](/wiki/Beatmapping/Hitsound) consist of an always-present *hit normal* sample, and any combination of whistle, finish, or clap sample *additions*.
