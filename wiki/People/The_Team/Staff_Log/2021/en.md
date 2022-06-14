@@ -590,5 +590,3 @@ Abbreviations for user groups are used throughout this log:
 - 2021-12-19: Removed [Chatie](https://osu.ppy.sh/users/6524765) from **BN**
 - 2021-12-29: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
 - 2021-12-31: Removed [Morrighan](https://osu.ppy.sh/users/12042090) from **BN**
-
-<!--- last updated 02-18-2022 @ 1000 with the full list of staff changes from December. ---> 

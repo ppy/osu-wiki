@@ -40,11 +40,9 @@ Si ce n'est pas le cas, changez-le manuellement pour chaque difficulté de votre
 
 Si vous rencontrez toujours des problèmes ou si vous souhaitez plus d'informations à ce sujet, consultez la page [Problèmes avec le BSS](/wiki/Guides/BSS_Issues).
 
-## Je suis un osu!supporter mais je n'ai pas 10 emplacements en attente !
+## Je suis un osu!supporter mais je n'ai pas 20 emplacements en attente !
 
-**Le nombre d'emplacements disponibles dépend du nombre de beatmaps classées que vous avez.**
-
-Par défaut, chaque utilisateur dispose de 4 emplacements en attente. Un emplacement est ajouté pour chaque beatmap classée que l'utilisateur possède (jusqu'à 2). En tant que supporter, vous disposez d'un total de 8 emplacements en attente. Un emplacement est ajouté pour chaque beatmap classée que l'utilisateur possède (jusqu'à 4).
+**Le nombre d'emplacements disponibles dépend du nombre de beatmaps classées que vous avez. Pour plus de détails, voir [osu!supporter § Limites plus souples](/wiki/osu!supporter#limites-plus-souples).**
 
 ## Comment puis-je supprimer ma beatmap ?
 

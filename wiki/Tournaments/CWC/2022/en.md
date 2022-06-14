@@ -124,6 +124,35 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here (144 MB)](https://drive.google.com/uc?id=17LYea7HNSBgsMfHBc9t5D9Fc5ODOHYaN)**
+
+- NoMod
+  1. [goreshit - broken promises/scattered dreams (Rocma) \[team south korea's overdose\]](https://osu.ppy.sh/beatmapsets/1265151#fruits/2629359)
+  2. [DJ Noriken vs. MASAKI - QiXiN MAdN3ss 2153 (Jemzuu) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/1784525#fruits/3654761)
+  3. [Culprate - Beast (Vorso Remix) (Mir) \[Hunted\]](https://osu.ppy.sh/beatmapsets/1552826#fruits/3172759)
+  4. [nameless - Toumei Elegy (Sotarks) \[Boundless Tragedy\]](https://osu.ppy.sh/beatmapsets/723730#fruits/1527884)
+- Hidden
+  1. [Rigel Theatre - Rinn Ding Dong (Cut Ver.) (F D Flourite) \[Ri Di Do\]](https://osu.ppy.sh/beatmapsets/1784443#fruits/3654622)
+  2. [Igorrr - Cheval (JierYagtama) \[Chivalry\]](https://osu.ppy.sh/beatmapsets/1784726#fruits/3655311)
+  3. [L.E.D.-G - SOUND OF GIALLARHORN (Flask) \[Ready for Takeoff\]](https://osu.ppy.sh/beatmapsets/1543402#fruits/3154808)
+- Hard Rock
+  1. [t+pazolite & Camellia feat. Nanahira - Boku no Yume, Mecha Kuso Mugen Waki (Verti) \[MECHA MECHA MECHA\]](https://osu.ppy.sh/beatmapsets/1784454#fruits/3654640)
+  2. [HiTECH NINJA - Dolphika (Nosuri) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1784557#fruits/3654830)
+  3. [MY FIRST STORY - Smash Out!! (FCL) \[Extreme\]](https://osu.ppy.sh/beatmapsets/478289#fruits/1090928)
+- Double Time
+  1. [Lovejoy - Sex Sells (Crowley) \[loved yet lonely\]](https://osu.ppy.sh/beatmapsets/1467467#fruits/3013531)
+  2. [Ardolf - Chromatic (autofanboy) \[Dynamicity\]](https://osu.ppy.sh/beatmapsets/1784544#fruits/3654803)
+  3. [Shikata Akiko - Katayoku no Tori (IceKalt) \[Rio & Ice's Insane\]](https://osu.ppy.sh/beatmapsets/622500#fruits/1361543)
+  4. [amazarashi - Sayonara Gokko (Kalibe) \[farewell\]](https://osu.ppy.sh/beatmapsets/932454#fruits/1946856)
+- Mixed Mod
+  1. [Monster Siren - MSR / Tooyama Akitaka - Fading Sky (Yumeno Himiko) \[From Darkness (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/1784493#fruits/3654710)
+  2. [Plum - Mad Piano Party (-Ken) \[Etude\]](https://osu.ppy.sh/beatmapsets/1784465#fruits/3654658)
+  3. [Carpool Tunnel - Afterlight (\_Epreus) \[Expert\]](https://osu.ppy.sh/beatmapsets/1001546#fruits/2096611)
+- Tiebreaker
+  1. **[LeaF - Evanescent (extended ver.) (Bunnrei) \[Rei & Ascendance's Abstraction\]](https://osu.ppy.sh/beatmapsets/1784479#fruits/3654684)**
+
 ### Quarterfinals
 
 **[Download the mappack here (138 MB)](https://drive.google.com/uc?id=1Fs2JRMaPBv0nYPvA6bC1qf6jSw68N50g)**
