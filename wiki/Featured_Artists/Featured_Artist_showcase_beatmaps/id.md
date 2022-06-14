@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 938a92ccb57bc1eded24435ebc5eaad7ffd1ae73
+---
+
 # Kumpulan beatmap showcase Featured Artist
 
 Anggota dari [Mappers' Guild](/wiki/Community/Mappers_Guild) mungkin sering membuat "beatmap showcase" eksklusif dengan menggunakan lagu yang belum dirilis dan materi lain dari [Featured Artist](/wiki/Featured_Artists) osu!. Setelah Featured Artist diumumkan, beatmap-beatmap yang tertera di sini akan disorot ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di [Twitter @osugame](https://twitter.com/osugame).
