@@ -41,11 +41,9 @@ Apabila ternyata isi kolom tersebut tidak sesuai, tulis nama penggunamu di sana 
 
 Apabila langkah-langkah di atas tidak menyelesaikan masalahmu, harap baca [laman Panduan mengatasi masalah-masalah BSS berikut](/wiki/Guides/BSS_Issues) dengan seksama.
 
-## Saya memiliki osu!supporter yang aktif, namun saya tidak dapat mengunggah hingga 10 beatmap Pending/WIP sebagaimana yang dijanjikan!
+## Saya memiliki osu!supporter yang aktif, namun saya tidak dapat mengunggah hingga 20 beatmap Pending/WIP sebagaimana yang dijanjikan!
 
-**Jumlah beatmap Pending/WIP yang dapat kamu miliki dalam satu waktu tergantung pada jumlah beatmap Ranked yang kamu miliki.**
-
-Secara *default*, kamu memiliki 4 slot beatmap Pending/WIP yang akan bertambah per beatmap Ranked yang kamu miliki (hingga maksimal 2 slot tambahan). Apabila kamu memiliki osu!supporter, kamu memiliki 8 slot beatmap Pending/WIP yang akan bertambah per beatmap Ranked yang kamu miliki (hingga maksimal 4 slot tambahan).
+**Jumlah beatmap Pending/WIP yang dapat kamu miliki dalam satu waktu tergantung pada jumlah beatmap Ranked yang kamu miliki. Untuk informasi selengkapnya, kunjungi [osu!supporter § Increased limits](/wiki/osu!supporter#increased-limits).**
 
 ## Apakah saya dapat menghapus beatmap milik saya?
 
