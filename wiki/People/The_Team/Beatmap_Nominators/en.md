@@ -40,6 +40,8 @@ The [Beatmap Nominators](https://osu.ppy.sh/groups/28) and [Beatmap Nominators (
 
 The tables listed below indicate the game mode(s) in which each Beatmap Nominator is formally qualified to nominate. *Note: All Beatmap Nominators speak English in addition to the language(s) listed below unless noted otherwise.*
 
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
 ### Full Beatmap Nominators
 
 #### osu!
@@ -237,8 +239,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 - The Beatmap Nominators were previously called the [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (BAT).
 - On the 22nd of August, 2014, the BAT were no longer considered a part of the staff team. This revoked their chat moderation ability in-game and their red name in-game and on the forums.
 - On the 1st of February, 2015, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nomination Group*, later adjusted to the Beatmap Nominators that we know today.
-
-<!--- updated as of June 5, 2022 with the addition of Antalf into the mania Probationary BN ---> 
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"

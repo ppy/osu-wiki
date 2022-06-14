@@ -131,8 +131,6 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Chat-Moderation |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Türkisch, Deutsch | Chat-Moderation |
 
-<!-- last update: 2021-11-06 15:51 removed ztrot -->
-
 ### Gruppiert anhand der moderierten Sprachen
 
 | Channel | Subforum | Moderatoren |

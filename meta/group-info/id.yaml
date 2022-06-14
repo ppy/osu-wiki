@@ -30,6 +30,7 @@ nat:
 languages:
   partial: sedikit <language>
   ar: Arab
+  be: Belarus
   bg: Bulgaria
   bn: Bengal
   ca: Katalan
@@ -40,16 +41,16 @@ languages:
   et: Estonia
   fi: Finlandia
   fil: Tagalog
-  fr: Prancis
+  fr: Perancis
   gl: Galisia
   hr: Kroasia
   hu: Hungaria
   id: Indonesia
   it: Italia
   ja: Jepang
-  lt: Lituania
+  lt: Lithuania
   ko: Korea
-  ms: Malaysia
+  ms: Malay
   nl: Belanda
   no: Norwegia
   pl: Polandia
@@ -61,6 +62,7 @@ languages:
   te: Telugu
   th: Thai
   tr: Turki
+  uk: Ukraina
   ur: Urdu
   vi: Vietnam
   yue: Kanton
