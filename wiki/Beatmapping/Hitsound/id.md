@@ -1,4 +1,6 @@
 ---
+outdated_since: 5bc5d7cd3430c1ff8eab1fe292a3c05277417620
+outdated_translation: true
 stub: true
 tags:
   - hit sounds
@@ -11,7 +13,7 @@ tags:
 
 **Hitsound** merupakan efek suara yang diputar ketika pemain berinteraksi dengan suatu *[hit object](/wiki/Hit_object)*. Hitsound pada umumnya digunakan sebagai suatu bentuk umpan balik bagi para pemain untuk dapat menilai [akurasi](/wiki/Gameplay/Accuracy) mereka dalam mengenai *hit object* yang bersangkutan.
 
-Hitsound tersusun atas sampel utama yang disebut "hit normal" dan sampel-sampel tambahan berupa whistle, finish, atau clap yang dapat dikombinasikan. Setiap sampel yang ada merupakan bagian dari suatu set sampel ("*sampleset*") yang masing-masing memiliki karakteristiknya tersendiri, yakni `Normal`,` Soft`, dan `Drum`.
+Hitsound tersusun atas sampel utama yang disebut "hitnormal" dan sampel-sampel tambahan berupa whistle, finish, atau clap yang dapat dikombinasikan. Setiap sampel yang ada merupakan bagian dari suatu set sampel ("*sampleset*") yang masing-masing memiliki karakteristiknya tersendiri, yakni `Normal`,` Soft`, dan `Drum`.
 
 Para beatmapper dapat mengganti sampel-sampel *default* milik osu! dengan sampel-sampel lainnya dengan meletakkan sampel-sampel tersebut di dalam folder [beatmap](/wiki/Beatmap) yang bersangkutan. [Skin](/wiki/Skinning) pemain juga dapat mengganti hitsound *default* untuk seluruh beatmap yang ada. Penjelasan lebih lanjut seputar sampel hitsound dapat ditemukan pada artikel [skinning hitsound](/wiki/Skinning/Sounds#hitsounds).
 
