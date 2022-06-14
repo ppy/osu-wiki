@@ -12,7 +12,7 @@ Das Gremium wurde als Reaktion auf die schnell wachsende Community-Turnierszene 
 
 ## Wie kann ich dazu beitragen?
 
-Du kannst dem Turnierkomitee helfen, indem du weiterhin exzellente Turniere veranstaltest! Wenn du Probleme oder Bedenken im Bezug auf irgendwelche Aspekte eines Community-Turniers hast, ermutigen wir dich, uns darauf aufmerksam zu machen mittels des Meldeformulars für Turniere.
+Du kannst dem Turnierkomitee helfen, indem du weiterhin exzellente Turniere veranstaltest! Wenn du Probleme oder Bedenken im Bezug auf irgendwelche Aspekte eines Community-Turniers hast, ermutigen wir dich, uns mittels des Meldeformulars für Turniere darauf aufmerksam zu machen.
 
 Diejenigen, die an einer Mitarbeit im Turnierkomitee interessiert sind, können ihr Interesse bei uns bekunden, indem sie uns eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh) senden. Es wird erwartet, dass erfolgreiche Kandidaten eine umfangreiche Erfahrung in der Turnierszene haben, entweder als Spieler oder als Mitarbeiter.
 
