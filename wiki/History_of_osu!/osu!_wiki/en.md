@@ -1,3 +1,9 @@
+---
+needs_cleanup: true
+---
+
+<!--Check writing style and dates. Also, the documentation for the years 2018 to 2021 is missing-->
+
 # History of the osu! wiki
 
 ## MediaWiki (2011 - 2017)
