@@ -589,3 +589,4 @@ Comme la Guilde elle-même fonctionnait sur une entrée fermée, basée sur les 
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turquie"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
