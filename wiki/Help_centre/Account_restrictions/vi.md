@@ -40,7 +40,7 @@ Có một vài lý do khiến một tài khoản bị hạn chế.
 
 Nếu việc hạn chế tài khoản của bạn là chính đáng, chúng tôi yêu cầu bạn phải chờ một khoảng thời gian trước khi xin khiếu nại. Cái này được gọi là *thời gian chờ*, và khoảng thời gian này thay đổi tuỳ vào lỗi bạn vi phạm.
 
-## Tôi có thể làm gì khi đang chờ để khiếu nại? {#activities}
+## Tôi có thể làm gì khi đang chờ để khiếu nại? {#while-on-cooldown}
 
 - **Tiếp tục tận hưởng game!** Khi tài khoản của bạn bị hạn chế, và bạn đang trong thời gian chờ, bạn vẫn có thể tiếp tục chơi game (miễn là ở tài khoản chính!). Điểm bạn ghi được khi bị hạn chế cũng sẽ được ghi nhận khi bạn được gỡ hạn chế (trừ khi bạn bị rollback).
 - **Giữ thái độ tốt.** Chúng tôi hiểu rằng việc bị hạn chế có thể gây khó chịu, nhưng hãy coi như đây là một cơ hội cho bạn tạm nghỉ, rời xa cộng đồng. Hãy tránh tương tác với cộng đồng trong một vài ngày (bất kể qua Discord, mạng xã hội, hay bất cứ hình thức liên lạc nào khác) để hối cải về hành động bạn đã làm khiến cho tài khoản bị hạn chế.

@@ -36,7 +36,7 @@ Gegen Turniersperren können egal ob temporär oder permanent **keine Beschwerde
 
 In seltenen Situationen kann das [Account-Support-Team](/wiki/People/The_Team/Account_support_team) einzelne Fälle nach ihrem Ermessen bewerten und entsprechende Strafen entfernen oder erneut anwenden, um sicherzustellen, dass sie mit ähnlichen Fällen in der Vergangenheit übereinstimmen.
 
-## Was kann ich tun, während ich von Turnieren gesperrt bin? {#activities}
+## Was kann ich tun, während ich von Turnieren gesperrt bin? {#while-banned}
 
 Du darfst weiter in Turnieren von der Community spielen, die keine offizielle Unterstützung anfordern oder eine Überprüfung benötigen, was im Ermessen der Veranstalter dieser Events liegt.
 

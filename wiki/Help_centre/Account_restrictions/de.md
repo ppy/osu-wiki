@@ -40,7 +40,7 @@ Es gibt mehrere Gründe, warum dein Account eingeschränkt werden kann.
 
 Wir bitten Spieler von zu Recht eingeschränkten Accounts einige Zeit zu warten, bevor sie ihre Beschwerde einreichen. Das wird als *Auszeit* bezeichnet und die Dauer variiert abhängig von den gemachten Verstößen.
 
-## Was mache ich während der Auszeit vor dem Einreichen einer Beschwerde? {#activities}
+## Was mache ich während der Auszeit vor dem Einreichen einer Beschwerde? {#while-on-cooldown}
 
 - **Habe Spaß am Spiel!** Während dein Account eingeschränkt ist und du eine Auszeit hast, kannst du immer noch das Spiel spielen (solange du auf deinem originalen Account spielst!). Die Scores, die du erreichst, werden eingereicht und bleiben dir erhalten nachdem die Einschränkung aufgehoben wurde, sofern dein Account nicht zurückgesetzt wird.
 - **Behalte gutes Verhalten bei.** Wir verstehen, dass ein eingeschränkter Account frustrierend sein kann, aber siehe es als Chance, um etwas Auszeit zu nehmen - weg von der Community. Versuche Interaktionen mit der Community für zumindest ein paar Tage zu vermeiden (egal, ob es über Discord, Social Media oder andere Formen von Kontakten ist), um die Aktionen zu reflektieren, die gegebenenfalls zu einer Einschränkung deines Accounts geführt haben.

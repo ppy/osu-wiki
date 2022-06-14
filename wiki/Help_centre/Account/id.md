@@ -218,7 +218,7 @@ Kami tengah mempertimbangkan untuk membuka layanan pemutihan skor (*score reset*
 
 Hal ini bukan berarti kamu dibenarkan untuk membuat akun baru! Sebagaimana yang tertera pada laman [Peraturan](/wiki/Rules#peraturan-komunitas), masing-masing pemain hanya diperkenankan untuk memiliki satu akun tanpa terkecuali.
 
-### Apakah saya dapat menghapus akun saya? {#account-removal}
+### Apakah saya dapat menghapus akun saya? {#account-deletion}
 
 *Untuk informasi lebih lanjut mengenai penghapusan akun, lihat: [Hak dan kendali Anda](/wiki/Legal/Privacy#hak-dan-kendali-anda).*
 

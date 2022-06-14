@@ -36,7 +36,7 @@ Qu'il soit temporaire ou permanent, **il n'est pas possible de faire appel conce
 
 Dans des cas particuliers, [l'Équipe de support aux comptes](/wiki/People/The_Team/Account_support_team) peut étudier des cas individuels à leur discrétion et retirer ou réappliquer des sanctions appropriées pour être sûr que cela reste cohérent avec les situations passées.
 
-## Que puis-je faire en cas de bannissement des tournois ? {#activities}
+## Que puis-je faire en cas de bannissement des tournois ? {#while-banned}
 
 Vous pouvez continuer à jouer dans les tournois communautaires qui n'ont pas de support officiel ou de screening à la discrétion des organisateurs de ce genre d'événements.
 

@@ -44,7 +44,7 @@ Hay varias razones por las cuáles una cuenta puede ser restringida.
 
 Si una cuenta ha sido restringida legítimamente, le pediremos al usuario que espere antes de enviar una apelación. Esto es referido como *tiempo de espera o cooldown*, y su duración varía dependiendo de las infracciones que hayan tomado lugar.
 
-## ¿Qué puedo hacer mientras el tiempo de espera está vigente?  {#activities}
+## ¿Qué puedo hacer mientras el tiempo de espera está vigente?  {#while-on-cooldown}
 
 - **¡Sigue disfrutando el juego!** Mientras tu cuenta está restringida y en cooldown, eres mas que bienvenido a seguir jugando el juego (¡mientras que juegues en tu cuenta original!). Las puntuaciones que consigas mientras estás restringido serán subidas, a no ser que la cuenta sea retrocedida, ellas seguirán después de que la restricción sea levantada.
 - **Mantén un buen comportamiento.** Entendemos que ser restringido puede ser frustrante, pero tómalo como una oportunidad de tomar un descanso, lejos de la comunidad. Intenta evitar interactuar con la comunidad por lo menos unos cuantos días (ya sea vía Discord, redes sociales, u otras formas de contacto) para respirar y reflexionar las razones por las que su cuenta pudo ser restringida.

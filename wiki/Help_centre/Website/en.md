@@ -20,7 +20,7 @@ This section is dedicated to issues with the osu! website.
 
 ## Common issues {#common-issues}
 
-### I have not received a reply to my support ticket and it's been over 2 weeks! {#no-reply}
+### I have not received a reply to my support ticket and it's been over 2 weeks! {#support-no-reply}
 
 **The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
 
@@ -34,7 +34,7 @@ In rare circumstances, support tickets from chronically offending users may be d
 
 In the event that another user is harassing you via private messages either on the forums or via the game client itself, there are a few steps that you can take yourself to filter out their messages.
 
-#### Blocking a user from contacting you in-game {#ignore-user-ingame}
+#### Blocking a user from contacting you in-game {#ignore-user-in-game}
 
 **To block a user from sending you messages in-game, simply add them to your ignore list.**
 
@@ -46,7 +46,7 @@ You'll no longer see public chat messages from any users on that list, or receiv
 
 If you wish to ignore highlights, private messages, or public messages, you can simply append respectively `@h`, `@p`, `@c` to their username. `The_Gatekeeper@c` will ignore the user's messages in public channels. It is possible to combine those: `The_Gatekeeper@ph` will ignore highlights and private messages, but leave public messages visible.
 
-#### Blocking all non-friends from sending private messages in-game {#ignore-strangers-ingame}
+#### Blocking all non-friends from sending private messages in-game {#ignore-strangers-in-game}
 
 If you wish to prevent anyone not on your friends list from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
 

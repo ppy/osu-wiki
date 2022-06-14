@@ -18,9 +18,9 @@ tags:
 
 Having trouble with a product from the osu!store? Check if there's an available solution to your problem!
 
-## osu!keyboard {#osu-keyboard}
+## osu!keyboard {#osu!keyboard}
 
-### How do I configure the osu!keyboard? {#osu-keyboard-setup}
+### How do I configure the osu!keyboard? {#osu!keyboard-setup}
 
 **You can use the osu!keyboard configuration utility, available from [puush](https://puu.sh/l6urN/4b6bc800f2.zip).**
 
@@ -30,13 +30,13 @@ The rest should be self-explanatory.
 
 If you have any further issues, please feel free to submit a ticket to [support@ppy.sh](mailto:support@ppy.sh) detailing your problem.
 
-### The LEDs on my osu! nono keyboard aren't working! {#osu-keyboard-leds}
+### The LEDs on my osu! nono keyboard aren't working! {#osu!keyboard-leds}
 
 **This can be due to a few reasons - corrosion between the LEDs and the mainboard, or in certain circumstances with earlier models, faulty LEDs.**
 
 Please contact [store@ppy.sh](mailto:store@ppy.sh) for further inquiries.
 
-#### Checking the LEDs for corrosion {#osu-keyboard-corrosion}
+#### Checking the LEDs for corrosion {#osu!keyboard-corrosion}
 
 **Rubbing the base of the LED connectors with a small square of aluminium foil will remove most of the residue caused from corrosion.**
 
@@ -81,9 +81,9 @@ If your tablet unit is functioning properly, placing the pen near the tablet wil
 
 Please contact [store@ppy.sh](mailto:store@ppy.sh) for further inquiries.
 
-## osu!go {#osu-go}
+## osu!go {#osu!go}
 
-### My computer doesn't recognise the osu!go when I plug it in! {#osu-go-not-recognized}
+### My computer doesn't recognise the osu!go when I plug it in! {#osu!go-not-recognised}
 
 **This is a known issue with one of the very first shipments of the osu!go USB sticks, and comes down to the device not being formatted in a manner that works with all PCs.**
 
@@ -91,7 +91,7 @@ Despite how complex this may sound, it's actually very easy to fix.
 
 First off, [download the package containing the osu!go default files](https://assets.ppy.sh/store/utilities/osu!go.zip) and save it somewhere on your computer.
 
-#### Formatting the osu!go under Windows {#osu-go-format}
+#### Formatting the osu!go under Windows {#osu!go-format}
 
 **Follow these steps to prepare your osu!go device under Windows:**
 
@@ -99,7 +99,7 @@ First off, [download the package containing the osu!go default files](https://as
 2. **While in the Disk Management view, make sure to follow these instructions *VERY* closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
 3. Check to see what state your computer recognises the device as being in.
 
-### The osu!go device is present, but in a "RAW" state {#osu-go-raw}
+### The osu!go device is present, but in a "RAW" state {#osu!go-raw}
 
 **This will appear like this in the Disk Management dialog:**
 
@@ -109,18 +109,18 @@ To fix this, ensure you have the osu!go device selected, right-click on the RAW 
 
 `exFAT` will work with more devices, but is slightly slower.
 
-### The osu!go device doesn't show up in Disk Management at all {#osu-go-partition}
+### The osu!go device doesn't show up in Disk Management at all {#osu!go-partition}
 
 **You will need to partition the device from scratch.**
 
 Please follow [this guide](https://tails.boum.org/doc/reset/windows/index.en.html) for details on how to do that.
 
-### I've reformatted the osu!go device and it now shows up in Disk Management {#osu-go-clean}
+### I've reformatted the osu!go device and it now shows up in Disk Management {#osu!go-clean}
 
 **You're almost done!**
 
 Unzip the archive we asked you to download earlier (osu!go.zip) into the osu!go drive and you're done!
 
-### None of this worked! {#osu-go-unknown-cause}
+### None of this worked! {#osu!go-unknown-cause}
 
 If you encounter any issues with this process, please send an email to [store@ppy.sh](mailto:store@ppy.sh) and we'd be happy to help you out.

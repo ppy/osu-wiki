@@ -40,7 +40,7 @@ There are several reasons why an account might be restricted.
 
 If an account has been found to be rightfully restricted, we will ask that the user waits for some time before sending their appeal. This is referred to as a *cooldown*, and its duration varies depending on the offences that have taken place.
 
-## What do I do while on cooldown before appealing? {#activities}
+## What do I do while on cooldown before appealing? {#while-on-cooldown}
 
 - **Keep enjoying the game!** While your account is restricted and you are on cooldown, you are more than welcome to continue playing the game (as long as you play on your original account!). The scores you achieve while restricted will be submitted, and unless your account is rolled back, they will remain after you become unrestricted.
 - **Maintain good behaviour.** We understand that being restricted can be frustrating, but think of it as a chance to take some time off, away from the community. Try to avoid interacting with the community for at least a few days (whether it be via Discord, social media, or other forms of contact) to cool down and reflect on the actions that may have contributed to your account being restricted.

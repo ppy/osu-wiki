@@ -45,7 +45,7 @@ Ada beberapa alasan umum yang dapat menyebabkan akun seseorang di-*restrict*.
 
 Apabila kamu terbukti melakukan sesuatu yang dapat menyebabkan akunmu di-*restrict*, kami akan memintamu untuk menunggu beberapa saat sebelum kamu dapat mengajukan banding lebih lanjut. Rentang waktu ini sendiri dinamakan *cooldown*, yang durasinya bervariasi tergantung pada seberapa berat pelanggaran yang kamu lakukan.
 
-## Apa-apa saja yang dapat saya lakukan sambil menunggu waktu pengajuan banding saya? {#activities}
+## Apa-apa saja yang dapat saya lakukan sambil menunggu waktu pengajuan banding saya? {#while-on-cooldown}
 
 - **Tetap bermain!** Selama akunmu di-*restrict*, kamu diperkenan untuk tetap bermain seperti biasa (selama kamu hanya menggunakan akun aslimu!). Skor-skor yang kamu torehkan ketika kamu di-*restrict* akan tetap tercatat secara *online*, dan kecuali tim kami memutuskan untuk menghapus (me-*rollback*) seluruh skor yang kamu miliki, skor-skor tersebut akan tetap ada setelah *restriction* akunmu dicabut.
 - **Tetaplah berperilaku baik.** Kami paham bahwa *restriction* yang kamu terima dapat membuat kamu frustasi. Meskipun demikian, anggaplah ini sebagai kesempatan bagimu untuk dapat berintrospeksi diri. Cobalah untuk menghindari interaksi dengan komunitas osu! selama setidaknya beberapa hari (baik itu melalui Discord, media sosial, ataupun yang lainnya) dan merenungkan tindakan-tindakan apa saja yang menyebabkan akunmu di-*restrict*.

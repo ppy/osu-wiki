@@ -36,7 +36,7 @@ Whether temporary or permanent, **tournament bans cannot be appealed**.
 
 In rare situations, the [account support team](/wiki/People/The_Team/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
 
-## What can I do while tournament-banned? {#activities}
+## What can I do while tournament-banned? {#while-banned}
 
 You may continue to play in community tournaments that do not request official support or require screening at the discretion of the individuals organising such events.
 

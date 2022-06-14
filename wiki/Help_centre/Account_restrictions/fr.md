@@ -40,7 +40,7 @@ Il existe plusieurs raisons pour qu'un compte puisse être restreint.
 
 Si un compte a été restreint à juste titre, nous demanderons à l'utilisateur d'attendre un moment avant d'envoyer son appel. Cela s'appelle un *cooldown*, et sa durée varie selon les infractions qui ont été commises.
 
-## Que dois-je faire durant le cooldown ? {#activities}
+## Que dois-je faire durant le cooldown ? {#while-on-cooldown}
 
 - **Continuez à jouer !** Tant que votre compte est restreint et que vous avez un cooldown, vous êtes plus que bienvenu pour continuer à jouer (tant que vous jouez sur votre compte principal !). Les scores que vous réalisez pendant votre restriction seront bien pris en compte, et à moins que vos scores soient partiellement ou totalement supprimés, ils resteront lorsque la restriction sera levée.
 - **Maintenez un bon comportement.** Nous comprenons qu'être restreint peut être frustrant, mais voyez-le comme une chance de vous reposer, loin de la communauté. Essayez d'éviter d'intéragir avec la communauté pour au moins quelques jours (que ce soit par Discord, des réseaux sociaux, ou autres formes de contact) pour vous calmer et réfléchir aux actions qui peuvent avoir contribué à la restriction de votre compte.

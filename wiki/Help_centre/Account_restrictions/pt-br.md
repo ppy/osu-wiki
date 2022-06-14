@@ -46,7 +46,7 @@ Há diversas razões do porque uma conta possa ser restrita.
 
 Se uma conta for legitimamente confirmada como restrita, nós iremos pedir para que o usuário espere por um tempo antes de enviar um recurso. Isso é referido como um *cooldown*, e sua duração varia dependendo das ofensas que ocorreram.
 
-## O que faço enquanto espero o cooldown antes de enviar um recurso? {#activities}
+## O que faço enquanto espero o cooldown antes de enviar um recurso? {#while-on-cooldown}
 
 - **Continue curtindo o jogo!** Enquanto sua conta está restrita e você está em cooldown, você é mais do que bem-vindo a continuar jogando o jogo (desde que você jogue na sua conta original!). As pontuações que você conseguir enquanto restrito irão ser submetidas, e a não ser que sua conta seja revertida, elas irão continuar depois que você for desrestrito.
 - **Sustente um bom comportamento.** Nós entendemos que uma restrição pode ser frustrante, mas pense nisso como se fosse uma chance para dar um tempo, longe da comunidade. Tente evitar interagir com a comunidade por pelo menos alguns dias (seja via Discord, mídia social, ou outras formas de contato) para manter uma cabeça fria e refletir nas ações que talvez possam ter contribuído para sua conta ser restrita.

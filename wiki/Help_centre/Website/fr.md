@@ -24,7 +24,7 @@ Cette section est consacrée aux problèmes liés au site web d'osu!
 
 ## Problèmes courants {#common-issues}
 
-### Je n'ai pas reçu de réponse à mon ticket d'assistance et cela fait plus de 2 semaines ! {#no-reply}
+### Je n'ai pas reçu de réponse à mon ticket d'assistance et cela fait plus de 2 semaines ! {#support-no-reply}
 
 **Dans la plupart des cas, cela est dû à un nombre élevé de tickets entrant dans notre système en même temps.**
 
@@ -38,7 +38,7 @@ Dans de rares cas, les tickets d'assistance d'utilisateurs en infraction chroniq
 
 Si un autre utilisateur vous harcèle par le biais de messages privés, que ce soit sur les forums ou via le client de jeu lui-même, il existe quelques mesures que vous pouvez prendre vous-même pour filtrer ses messages.
 
-#### Empêcher un utilisateur de vous contacter dans le jeu {#ignore-user-ingame}
+#### Empêcher un utilisateur de vous contacter dans le jeu {#ignore-user-in-game}
 
 **Pour empêcher un utilisateur de vous envoyer des messages dans le jeu, il suffit de l'ajouter à votre liste d'ignorés.**
 
@@ -50,7 +50,7 @@ Vous ne verrez plus les messages de tchat publics des utilisateurs de cette list
 
 Si vous souhaitez ignorer les highlights les messages privés, ou les messages publics, vous pouvez simplement ajouter respectivement `@h`, `@p`, `@c` à leur nom d'utilisateur. `The_Gatekeeper@c` ignorera les messages de l'utilisateur dans les canaux publics. Il est possible de les combiner : `The_Gatekeeper@ph` ignorera les highlights et les messages privés, mais laissera les messages publics visibles.
 
-#### Bloquer l'envoi de messages privés dans le jeu à tous les non-amis {#ignore-strangers-ingame}
+#### Bloquer l'envoi de messages privés dans le jeu à tous les non-amis {#ignore-strangers-in-game}
 
 Si vous souhaitez empêcher toute personne ne figurant pas sur votre liste d'amis de vous envoyer des messages privés, suivez les étapes suivantes. **Remarque : les modérateurs ne sont pas concernés par cette fonctionnalité et peuvent toujours vous envoyer des MP. Si vous pensez qu'un modérateur vous harcèle malgré tout, vous devez contacter [notre équipe d'assistance](mailto:support@ppy.sh).**
 

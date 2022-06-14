@@ -45,7 +45,7 @@ Hesabınızın kısıtlanmasına yok açabilecek birtakım neden var.
 
 Eğer bir hesap haklı yere kısıtlanmışsa, kullanıcının itirazını göndermeden önce bir süre beklemesini isteyeceğiz. Buna *bekleme süresi* denir, ve süresi suçun türüne bağlı olarak değişir.
 
-## İtirazımı göndermeden önce bekleme süresinde ne yapacağım? {#activities}
+## İtirazımı göndermeden önce bekleme süresinde ne yapacağım? {#while-on-cooldown}
 
 - **Oyunun tadını çıkartmaya devam edin!** Hesabınız kısıtlıyken ve siz de bekleme süresindeyken, oyunu oynamaya devam edebilirsiniz (orijinal hesabınızda oynadığınız sürece!). Kısıtlıyken else ettiğiniz skorlar gönderilecektir, ve hesabınız geri çekilmediği sürece, kısıtlamanız kalktığında aynen kalacaktır.
 - **İyi davranışınızı sürdürün.** Kısıtlı olmanın ne kadar can sıkıcı olduğunu anlıyoruz, ama bunu topluluktan uzakta biraz zaman geçirmek için bir şans olarak düşünün. Hesabınızın kısıtlanmasına ve bekleme süresine girmesine sebep olmuş olabilecek nedenleri düşünmek için en azından birkaç günlüğüne toplulukla etkileşimden kaçınmaya çalışın (gerek Discord, gerek sosyal medya, gerek başka iletişim yolları olsun).

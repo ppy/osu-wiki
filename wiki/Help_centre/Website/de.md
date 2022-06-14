@@ -25,7 +25,7 @@ Diese Sektion befasst sich mit Problemen auf der osu!-Webseite.
 
 ## Häufige Probleme {#common-issues}
 
-### Ich habe keine Antwort auf mein Support-Ticket erhalten und es sind schon über 2 Wochen vergangen! {#no-reply}
+### Ich habe keine Antwort auf mein Support-Ticket erhalten und es sind schon über 2 Wochen vergangen! {#support-no-reply}
 
 **In der überwiegenden Mehrheit der Fälle liegt das an einer hohen Zahl an Tickets, die zur gleichen Zeit in unser System eingehen.**
 
@@ -39,7 +39,7 @@ In seltenen Umständen können Support-Tickets von chronisch straffälligen Nutz
 
 Im Falle, dass ein anderer Benutzer dich per privaten Nachrichten in den Foren oder im Spiel-Client belästigt, gibt es einige Schritte, die du unternehmen kannst, um seine Nachrichten herauszufiltern.
 
-#### Einen Nutzer daran hindern, dich im Spiel zu kontaktieren {#ignore-user-ingame}
+#### Einen Nutzer daran hindern, dich im Spiel zu kontaktieren {#ignore-user-in-game}
 
 **Um einen Benutzer zu blockieren, dir Nachrichten im Spiel zu senden, füge ihn einfach zu deiner Ignorierliste hinzu.**
 
@@ -51,7 +51,7 @@ Du wirst keine öffentlichen Chat-Nachrichten mehr von Benutzern auf dieser List
 
 Wenn du Erwähnungen sowie private oder öffentliche Nachrichten ignorieren möchtest, kannst du einfach `@h`, `@p` und `@c` entsprechend an ihren Nutzernamen anhängen. `Der_Gatekeeper@c` wird alle Nachrichten des Nutzers in öffentlichen Kanälen nicht beachten. Es ist möglich, diese zu kombinieren: `Der_Gatekeeper@ph` wird Erwähnungen und private Nachrichten ignorieren, aber lässt öffentliche Nachrichten sichtbar.
 
-#### Blockieren des Versendens privater Nachrichten im Spiel für alle Nicht-Freunde {#ignore-strangers-ingame}
+#### Blockieren des Versendens privater Nachrichten im Spiel für alle Nicht-Freunde {#ignore-strangers-in-game}
 
 Wenn du jemanden, der nicht auf deiner Freundesliste steht, daran hindern möchtest, dir private Nachrichten zu schicken, dann gehe wie folgt vor. **Bitte bedenke: Moderatoren sind von dieser Funktionalität nicht beeinflusst und können dir immer private Nachrichten senden. Wenn du das Gefühl hast, dass dich ein Moderator trotz dieser Tatsache belästigt, solltest du [unser Support-Team](mailto:support@ppy.sh) kontaktieren.**
 

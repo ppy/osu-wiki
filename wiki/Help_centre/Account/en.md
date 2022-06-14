@@ -206,7 +206,7 @@ We are considering extra 'score reset' purchases from the osu!store for the trul
 
 This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is against the [rules](/wiki/Rules#community-rules), and we will disable any such accounts that are brought to our attention.
 
-### Can I delete my account? {#account-removal}
+### Can I delete my account? {#account-deletion}
 
 *For more information on account deletion, see: [osu! privacy policy § Your rights and control](/wiki/Legal/Privacy#your-rights-and-control).*
 

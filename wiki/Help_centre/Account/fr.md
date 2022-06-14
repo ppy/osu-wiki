@@ -215,7 +215,7 @@ Nous envisageons des achats supplémentaires de 'remise à zéro du score' dans 
 
 Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour faire la même chose ! Le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires) et nous désactiverons tous les comptes de ce type qui nous seront signalés.
 
-### Puis-je supprimer mon compte ? {#account-removal}
+### Puis-je supprimer mon compte ? {#account-deletion}
 
 *Pour plus d'informations sur la suppression des comptes, voir : [Politique de confidentialité d'osu! § Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).*
 
