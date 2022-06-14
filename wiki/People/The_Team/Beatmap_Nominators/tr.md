@@ -66,6 +66,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
 | ![][flag_BE] [Enneya](https://osu.ppy.sh/users/10959501) | Flemenkçe |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukrainian |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_FI] [finnish bn](https://osu.ppy.sh/users/11077540) | Fince |
 | ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | Norveççe |
@@ -90,6 +91,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | Danca |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Rusça |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
+| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Çince |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Fransızca |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | İtalyanca |
@@ -153,6 +155,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | Flemenkçe |
 | ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Flemenkçe |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
+| ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530) | Lehçe |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Yunanca |
 | ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_CA] [Ymiir](https://osu.ppy.sh/users/3922569) |  |
@@ -167,6 +170,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Endonezce |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malay dili |
 | ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | Korece |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Çince |
@@ -196,12 +200,10 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
 | ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | İspanyolca |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | İspanyolca |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukrainian |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Fransızca |
 | ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | Korece |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Almanca |
-| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Çince |
 | ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691) | Çince |
 
 #### osu!taiko
@@ -220,6 +222,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ![][flag_TH] [rew0825](https://osu.ppy.sh/users/2488026) | Tay dili |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | İspanyolca |
 
 #### osu!mania
@@ -229,8 +232,8 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | Çince |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Çince |
 | ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | İspanyolca |
-| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Malay dili |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Endonezce |
+| ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230) | Kantonca |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Endonezce |
 | ![][flag_ID] [Syrion-](https://osu.ppy.sh/users/15380643) | Endonezce |
 
