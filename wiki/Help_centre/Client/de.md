@@ -257,7 +257,7 @@ Prüfe in der Songauswahl, in der linken, oberen Ecke des Bildschirms, auf etwai
 
 ![](img/correct-map-status-DE.png "So sollte es aussehen")
 
-Das Spielen mit der `globalen Rangliste` und nicht mit der lokalen Rangliste kann helfen, das für jede einzelne Beatmap zu verhindern. Wenn eine große Anzahl deiner Beatmaps, oder alle, fehlende/inkorrekte Status haben, versuche, die Neuerstellung der Beatmap-Datenbank zu erzwingen. Wie man das ungefährlich machen kann, erfährst du in der Sektion "[Einige meiner Beatmaps fehlen!](#einige-meiner-beatmaps-fehlen!)". Nachdem du dies getan hast, kann es eine Weile dauern, bis alle Beatmaps wieder ihren richtigen Status haben.
+Das Spielen mit der `globalen Rangliste` und nicht mit der lokalen Rangliste kann helfen, das für jede einzelne Beatmap zu verhindern. Wenn eine große Anzahl deiner Beatmaps, oder alle, fehlende/inkorrekte Status haben, versuche, die Neuerstellung der Beatmap-Datenbank zu erzwingen. Wie man das ungefährlich machen kann, erfährst du in der Sektion "[Einige meiner Beatmaps fehlen!](#missing-beatmaps)". Nachdem du dies getan hast, kann es eine Weile dauern, bis alle Beatmaps wieder ihren richtigen Status haben.
 
 #### Sind die Server zur Einreichung von Scores in Betrieb? {#no-submission-servers}
 
@@ -300,7 +300,7 @@ Das Aktivieren von VSync sowie das Spielen im Fenster- oder randlosen Modus wird
 
 Spätere NVidia-Grafikkarten haben eine globale Option im NVidia Control Panel, um die globale Bildwiederholrate auf die Einstellung "Fast" zu setzen, welche dieses Problem ebenfalls lösen wird.
 
-## Online-Funktionen {#online}
+## Online-Funktionen {#online-features}
 
 ### Ich kann mich gar nicht einloggen oder mit dem Spiel verbinden! {#cannot-sign-in}
 

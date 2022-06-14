@@ -249,7 +249,7 @@ In the song select menu, check in the top left of the screen for any small icons
 
 ![](img/correct-map-status.png "This is what it should look like")
 
-Playing with the `global leaderboard` selected, rather than the local leaderboard, can help prevent this on a map by map basis. If a large number of your beatmaps, or all of them, are missing/have incorrect statuses, try forcing your beatmap database file to be recreated. You can find out how to safely do this above in the "[Some of my beatmaps are missing!](#some-of-my-beatmaps-are-missing!)" section. After doing this, it may take some time for all of your maps to regain the correct status.
+Playing with the `global leaderboard` selected, rather than the local leaderboard, can help prevent this on a map by map basis. If a large number of your beatmaps, or all of them, are missing/have incorrect statuses, try forcing your beatmap database file to be recreated. You can find out how to safely do this above in the "[Some of my beatmaps are missing!](#missing-beatmaps)" section. After doing this, it may take some time for all of your maps to regain the correct status.
 
 #### Are the score submission servers up? {#no-submission-servers}
 

@@ -107,7 +107,7 @@ Certains fournisseurs de VPN et serveurs proxy ne fonctionnent tout simplement p
 
 **Nous aurons besoin d'un fichier `network.log` de votre part pour comprendre ce qui se passe si aucune des solutions ci-dessus ne fonctionne.**
 
-Pour savoir comment obtenir un fichier `network.log`, voir [Centre d'aide § Fichiers log](/wiki/Help_centre#fichiers-log).
+Pour savoir comment obtenir un fichier `network.log`, voir [Centre d'aide § Fichiers log](/wiki/Help_centre#log-files).
 
 Dans de rares cas, vous devrez peut-être contacter votre fournisseur d'accès internet (FAI) pour vous renseigner sur ces problèmes. Certains fournisseurs d'accès ont toujours eu des problèmes de connexion à osu!, généralement en raison d'un mauvais routage.
 

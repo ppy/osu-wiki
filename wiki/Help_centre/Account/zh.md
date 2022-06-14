@@ -108,7 +108,7 @@ tags:
 
 **我们需要你提供一份 `network.log` 文件来弄清楚为什么上方的方案都不能解决你的问题。**
 
-对于获取 `network.log` 文件的说明，请参见 [日志文件](/wiki/Help_centre#日志文件)。
+对于获取 `network.log` 文件的说明，请参见 [日志文件](/wiki/Help_centre#log-files)。
 
 在极少数情况下，您可能需要联系您的 Internet 服务提供商（ISP）来询问这些问题。某些 ISP 过去曾在连接到 osu! 时遇到问题，通常是由于路由不佳。
 

@@ -255,7 +255,7 @@ Dans le menu de sélection des beatmaps, vérifiez la présence de petites icôn
 
 ![](img/correct-map-status-FR.png "Voici à quoi cela devrait ressembler")
 
-Jouer avec le `Classement général` sélectionné, plutôt qu'avec le classement local, peut aider à empêcher cela. Si un grand nombre de vos beatmaps, ou toutes vos beatmaps, n'ont pas de statut ou ont des statuts incorrects, essayez de forcer la recréation de votre fichier de base de données de beatmaps. Vous pouvez découvrir comment le faire en toute sécurité dans la section "[Certaines de mes beatmaps ont disparu !](#certaines-de-mes-beatmaps-ont-disparu-!)". Après avoir effectué cette opération, il se peut que cela prenne un certain temps pour que toutes vos beatmaps retrouvent leur statut correct.
+Jouer avec le `Classement général` sélectionné, plutôt qu'avec le classement local, peut aider à empêcher cela. Si un grand nombre de vos beatmaps, ou toutes vos beatmaps, n'ont pas de statut ou ont des statuts incorrects, essayez de forcer la recréation de votre fichier de base de données de beatmaps. Vous pouvez découvrir comment le faire en toute sécurité dans la section "[Certaines de mes beatmaps ont disparu !](#missing-beatmaps)". Après avoir effectué cette opération, il se peut que cela prenne un certain temps pour que toutes vos beatmaps retrouvent leur statut correct.
 
 #### Les serveurs de soumission des scores sont-ils opérationnels ? {#no-submission-servers}
 
@@ -298,7 +298,7 @@ Activer VSync ou jouer en mode fenêtré ou sans bordure créera malheureusement
 
 Les cartes graphiques NVIDIA plus récentes ont une option globale dans le panneau de configuration NVIDIA pour régler le taux de rafraîchissement global sur un paramètre appelé 'Rapide', qui résoudra également ce problème.
 
-## Fonctions en ligne {#online}
+## Fonctions en ligne {#online-features}
 
 ### Je ne peux pas me connecter à mon compte ou au jeu ! {#cannot-sign-in}
 

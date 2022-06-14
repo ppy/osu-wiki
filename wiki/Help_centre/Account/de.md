@@ -106,7 +106,7 @@ Einige VPN-Anbieter und Proxy-Server erlauben die Arbeit mit osu! aus unerfindli
 
 **Wir benötigen die Datei `network.log` von dir, um herauszufinden, was schiefläuft, falls keine der obigen Lösungen funktionieren.**
 
-Für Informationen, wie du die Datei `network.log` an uns senden kannst, siehe [Hilfecenter § Log-Dateien](/wiki/Help_centre#log-dateien).
+Für Informationen, wie du die Datei `network.log` an uns senden kannst, siehe [Hilfecenter § Log-Dateien](/wiki/Help_centre#log-files).
 
 In seltenen Fällen musst du dich aufgrund dieser Probleme gegebenenfalls bei deinem Internetdienstanbieter (ISP) erkundigen. Bestimmte ISPs hatten in der Vergangenheit immer wieder Probleme beim Verbinden mit osu!, in der Regel durch schlechtes Routing.
 
