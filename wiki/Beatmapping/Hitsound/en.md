@@ -1,6 +1,12 @@
 ---
 stub: true
 tags:
+  - hit normal
+  - hitnormal
+  - hit sound addition
+  - hit sound additions
+  - hitsound addition
+  - hitsound additions
   - hit sounds
   - hitsounds
 ---
