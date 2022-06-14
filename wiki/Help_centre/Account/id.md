@@ -110,7 +110,7 @@ Sepengetahuan kami, terdapat beberapa penyedia jasa layanan *proxy server* dan j
 
 **Harap kirimi kami berkas `network.log` milikmu agar kami dapat membantumu lebih lanjut.**
 
-Untuk mengetahui cara mendapatkan berkas `network.log` yang dimaksud, harap lihat [Berkas-berkas log](/wiki/Help_centre#berkas-berkas-log).
+Untuk mengetahui cara mendapatkan berkas `network.log` yang dimaksud, harap lihat [Berkas-berkas log](/wiki/Help_centre#log-files).
 
 Kamu juga dapat meminta bantuan kepada pihak penyedia layanan internet (*Internet Service Provider*/ISP) yang kamu gunakan. Terkadang, beberapa ISP tidak dapat terhubung dengan osu! karena sistem pengantaran paket jaringan (*routing*) mereka yang sedang bermasalah.
 
