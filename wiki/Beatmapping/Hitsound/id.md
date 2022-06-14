@@ -1,4 +1,6 @@
 ---
+outdated_since: 5bc5d7cd3430c1ff8eab1fe292a3c05277417620
+outdated_translation: true
 stub: true
 tags:
   - hit sounds
