@@ -49,6 +49,6 @@ Meskipun demikian, terlepas dari apakah turnamen tersebut resmi atau tidak, kami
 | Berperilaku yang tidak sepantasnya dalam turnamen yang didukung secara resmi | 1-2 tahun |  |
 | Akun yang baru dipulihkan dari status *restriction* | 1-2 tahun | Dapat berlaku lebih apabila dirasa perlu oleh account support team kami |
 | Menggunakan lebih dari satu akun (*multi-accounting*) atau saling berbagi akun (*account sharing*) dalam turnamen yang didukung secara resmi | Permanen | Akan diiringi dengan hukuman tambahan berupa *restriction* |
-| Menggunakan program ataupun sarana ilegal dalam turnamen yang didukung secara resmi | Permanen | Akan diiringi dengan hukuman tambahan berupa *restriction*|
+| Menggunakan program ataupun sarana ilegal dalam turnamen yang didukung secara resmi | Permanen | Akan diiringi dengan hukuman tambahan berupa *restriction* |
 | Menyalahgunakan informasi tertentu yang bersifat rahasia/pribadi untuk mendapatkan keuntungan atau menguntungkan pihak tertentu secara sepihak | Permanen | Dapat diiringi dengan hukuman tambahan berupa *restriction* |
 | Melakukan tindak pelecehan serius terhadap penyelenggara/panitia/peserta turnamen lainnya | Permanen | Dapat diiringi dengan hukuman tambahan berupa *restriction* |
