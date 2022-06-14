@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 938a92ccb57bc1eded24435ebc5eaad7ffd1ae73
----
-
 # Kumpulan beatmap showcase Featured Artist
 
 Anggota dari [Mappers' Guild](/wiki/Community/Mappers_Guild) mungkin sering membuat "beatmap showcase" eksklusif dengan menggunakan lagu yang belum dirilis dan materi lain dari [Featured Artist](/wiki/Featured_Artists) osu!. Setelah Featured Artist diumumkan, beatmap-beatmap yang tertera di sini akan disorot ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di [Twitter @osugame](https://twitter.com/osugame).
@@ -522,6 +517,28 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 
 - **[Ardolf](https://osu.ppy.sh/home/news/2022-05-04-new-featured-artist-ardolf)** (2022-05-04)
   - (![][osu!]) [Ardolf - Varcolac](https://osu.ppy.sh/beatmapsets/1750904#osu/3582059) diurus oleh ![][flag_TR] [Nymphe](https://osu.ppy.sh/users/10507407)
+- **[Tenchio](https://osu.ppy.sh/home/news/2022-05-11-new-featured-artist-tenchio)** (2022-05-11)
+  - (![][osu!mania]) [Tenchio - skeleton (Lettuce ver.)](https://osu.ppy.sh/beatmapsets/1749371#mania/3578641) diurus oleh ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608)
+- **[JOYLESS](https://osu.ppy.sh/home/news/2022-05-18-new-featured-artist-joyless)** (2022-05-18)
+  - (![][osu!]) [JOYLESS - Bristol](https://osu.ppy.sh/beatmapsets/1728251#osu/3531783) diurus oleh ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836)
+  - (![][osu!]) [JOYLESS - Dream](https://osu.ppy.sh/beatmapsets/1729551#osu/3534705) diurus oleh ![][flag_GB] [Shii](https://osu.ppy.sh/users/9186316)
+  - (![][osu!]) [Joyless - Back to Start](https://osu.ppy.sh/beatmapsets/1738503#osu/3553332) diurus oleh ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
+- **[Origami Angel](https://osu.ppy.sh/home/news/2022-05-25-new-featured-artist-origami-angel)** (2022-05-25)
+  - (![][osu!]) [Origami Angel - 24 Hr Drive-Thru](https://osu.ppy.sh/beatmapsets/1724847#osu/3525078) diurus oleh ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!]) [Origami Angel - Escape Rope](https://osu.ppy.sh/beatmapsets/1757733#osu/3602276) diurus oleh ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865)
+  - (![][osu!catch]) [Origami Angel - The Title Track](https://osu.ppy.sh/beatmapsets/1503591#fruits/3404572) diurus oleh ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+
+### Juni
+
+- **[Ponchi](https://osu.ppy.sh/home/news/2022-06-01-new-featured-artist-ponchi)** (2022-06-01)
+  - (![][osu!]) [Ponchi feat. haxchi - Mousou <3 Chuu!!](https://osu.ppy.sh/beatmapsets/1726676#osu/3528814) diurus oleh ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117)
+  - (![][osu!]) [Ponchi feat. haxchi - Correct Hearts](https://osu.ppy.sh/beatmapsets/1742463#osu/3562084) diurus oleh ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
+  - (![][osu!]) [Ponchi feat. haxchi - Anemone](https://osu.ppy.sh/beatmapsets/1753715#osu/3600798) diurus oleh ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+- **[SAMString](https://osu.ppy.sh/home/news/2022-06-08-new-featured-artist-samstring)** (2022-06-08)
+  - (![][osu!]) [SAMString - Sakura's Fall](https://osu.ppy.sh/beatmapsets/1449832#osu/2980857) diurus oleh ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
+  - (![][osu!]) [SAMString - Shifting Clouds](https://osu.ppy.sh/beatmapsets/1654451#osu/3376932) diurus oleh ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311)
+- **[Kanpyohgo](https://osu.ppy.sh/home/news/2022-06-11-new-featured-artist-kanpyohgo)** (2022-06-11)
+  - (![][osu!]) [Kanpyohgo - Tozaseshi Kumo no Kayoiji -Stormy Extended-](https://osu.ppy.sh/beatmapsets/1783062#osu/3651636) diurus oleh ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899)
 
 ## Sejarah
 

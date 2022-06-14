@@ -528,7 +528,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Origami Angel - Escape Rope](https://osu.ppy.sh/beatmapsets/1757733#osu/3602276) hosted by ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865)
   - (![][osu!catch]) [Origami Angel - The Title Track](https://osu.ppy.sh/beatmapsets/1503591#fruits/3404572) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 
-  ### June
+### June
 
 - **[Ponchi](https://osu.ppy.sh/home/news/2022-06-01-new-featured-artist-ponchi)** (2022-06-01)
   - (![][osu!]) [Ponchi feat. haxchi - Mousou <3 Chuu!!](https://osu.ppy.sh/beatmapsets/1726676#osu/3528814) hosted by ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117)
