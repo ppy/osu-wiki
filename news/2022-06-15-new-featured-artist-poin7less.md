@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: :Poin7less"
-date: 2022-06-15 13:00:00 +0000
+date: 2022-06-15 10:00:00 +0000
 ---
 
 **:Poin7less**'s chiptune-inspired tracks burst into our Featured Artist library!
