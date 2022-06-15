@@ -8,7 +8,7 @@ tags:
 
 # Highlight
 
-**Highlight** (biasanya disingkat **HL**, kadang-kadang disebut **mention** atau **ping**) adalah cara untuk menarik perhatian seseorang ke chat jika mereka sedang online. Secara default, highlight dipicu ketika nama pengguna pemain ditulis dalam chat. Daftar kata yang disorot dapat disesuaikan di [pilihan chat dalam game](/wiki/Client/Options#chat-dalam-game).
+**Highlight** (biasanya disingkat **HL**, kadang-kadang disebut **mention** atau **ping**) adalah cara untuk menarik perhatian seseorang ke chat jika mereka sedang online. Secara default, highlight dipicu ketika nama pengguna pemain ditulis dalam chat. Daftar kata yang disorot dapat disesuaikan di [pilihan chat dalam game](/wiki/Client/Options#in-game-chat).
 
 Anda dapat mengabaikan sorotan dari pengguna tertentu dengan menambahkan nama penggunanya ke [daftar pengabaian](/wiki/Client/Options/Ignore_list) dengan `@h` ditambahkan ke nama pengguna tersebut.
 
