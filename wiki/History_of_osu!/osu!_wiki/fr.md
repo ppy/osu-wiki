@@ -1,5 +1,7 @@
 ---
 outdated: true
+outdated_since: 61e7055811faacbe22d49ae7ce01b563aad4817d
+outdated_translation: true
 ---
 
 # L'histoire de l'osu! wiki

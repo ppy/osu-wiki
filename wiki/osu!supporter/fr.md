@@ -85,7 +85,7 @@ osu! propose aux supporters des limites plus souples sur diverses fonctionnalit�
 
 | Valeur | Limite normale | Limite osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmaps en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) | `4 + min(beatmaps classées, 2)` | `8 + min(beatmaps classées, 4)` |
+| [Beatmaps en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) | `2 + min(beatmaps classées, 6)`, jusqu'à **8**[^pending-beatmaps-ref] | `8 + min(beatmaps classées, 12)`, jusqu'à **20**[^pending-beatmaps-ref] |
 | Beatmap favorites en ligne | 100 | 1000 |
 | Nombre d'amis | 250 | 500 |
 
@@ -150,3 +150,7 @@ Une fois la transaction terminée, un nouvel événement apparaîtra dans la sec
 - `{nom_d'utilisateur} a reçu le osu!supporter en cadeau !` dans le cas où le tag a été offert.
 
 En outre, le donateur et le bénéficiaire recevront tous deux des notifications par e-mail mentionnant l'achat.
+
+## Références
+
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)

@@ -4,6 +4,8 @@ The **osu! Alumni** are those known for their contributions who have since moved
 
 The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the members.
 
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
 | Name | Past roles |
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
@@ -246,8 +248,6 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | osu!academy Founder, GMT |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
-
-<!-- last update: 2022-05-13 with the removal of QHideaki13 from the list (Moved to GMT)-->
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"

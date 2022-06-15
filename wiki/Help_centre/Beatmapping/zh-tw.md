@@ -43,11 +43,9 @@ tags:
 
 如果您仍有問題，或需要更多資訊，請參閱 [BSS 疑難排解](/wiki/Guides/BSS_Issues)。
 
-## 我是 osu! 贊助者，但是我沒有 10 個待辦欄位！
+## 我是 osu! 贊助者，但是我沒有 20 個待辦欄位！
 
-**可用欄位數將依據你擁有的 Ranked 圖譜決定。**
-
-預設情況下。每位玩家有 4 個待辦 (pending) 欄位，每擁有一張 Ranked 圖譜，便會增加 1 個欄位，上限為 2 個。成為贊助者的玩家將擁有 8 個欄位，每擁有一張 Ranked 圖譜，便會增加 1 個欄位，上限為 4 個。
+**可用欄位數將依據你擁有的 Ranked 圖譜決定。參見：[osu!supporter § Increased limits](/wiki/osu!supporter#increased-limits)。
 
 ## 我要怎麼刪除我的圖譜？
 
