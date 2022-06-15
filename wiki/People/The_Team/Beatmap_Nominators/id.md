@@ -231,9 +231,10 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Mandarin |
 | ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | Spanyol |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesia |
-| ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230) | Kanton |
+| ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230) | Mandarin, Kanton |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesia |
 | ![][flag_ID] [Syrion-](https://osu.ppy.sh/users/15380643) | Indonesia |
+| ![][flag_TW] [Touru0711](https://osu.ppy.sh/users/8625854) | Mandarin |
 
 ## Sejarah
 
