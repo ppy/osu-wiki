@@ -233,9 +233,9 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chinese |
 | ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | Spanish |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesian |
-| ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230) | Cantonese |
+| ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230) | Chinese, Cantonese |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
-| ![][flag_ID] [Syrion-](https://osu.ppy.sh/users/15380643) | Indonesian |
+| ![][flag_TW] [Touru0711](https://osu.ppy.sh/users/8625854) | Chinese |
 
 ## History
 

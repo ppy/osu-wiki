@@ -280,6 +280,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-06-08: Added [rew0825](https://osu.ppy.sh/users/2488026) to **Probationary BN**
 - 2022-06-07: Added [Mniam](https://osu.ppy.sh/users/6050530) to **BN**
 - 2022-06-09: Added [Irone OSU](https://osu.ppy.sh/users/10678230) to **Probationary BN**
+- 2022-06-14: Added [Touru07111](https://osu.ppy.sh/users/8625854) to **Probationary BN**
 
 #### Moves
 
@@ -292,4 +293,4 @@ Abbreviations for user groups are used throughout this log:
 
 - 2022-06-01: Removed [Konpaku Sariel](https://osu.ppy.sh/users/533502) from **Probationary BN**
 
-<!-- updated as of June 14, 2022 @ 2050 UTC-->
+<!-- updated as of June 14, 2022 @ 2223 UTC-->
