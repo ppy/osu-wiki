@@ -338,6 +338,7 @@ Lorsque vous citez le texte de quelqu'un, précisez la personne citée après la
 
 ```markdown
 > svp profitez du jeu
+
 —rrtyui (traduit de {langue})
 ```
 
