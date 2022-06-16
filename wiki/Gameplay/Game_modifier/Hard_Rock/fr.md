@@ -67,7 +67,7 @@ Notez que la méthode de calcul est différente dans [ScoreV2](/wiki/Game_modifi
 ## Le saviez-vous ?
 
 - Le mod Hard Rock tire son nom de la difficulté la plus difficile du jeu "[Elite Beat Agents](/wiki/iNiS_games)" de la [Nintendo DS](https://fr.wikipedia.org/wiki/Nintendo_DS)."
-- Le mod Hard Rock annulera le mod [Easy](/wiki/Game_modifier/Easy). Et vice-versa.
+- Le mod Hard Rock annulera le mod [Easy](/wiki/Game_modifier/Easy) et vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
