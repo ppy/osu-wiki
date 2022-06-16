@@ -44,6 +44,8 @@ The NAT keep tabs on potential NAT candidates over long periods of time, and occ
 
 The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members. In addition to areas mentioned below, all NAT members take part in [reviewing audio and visual content included in beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
 ### osu!
 
 | Name | Additional languages | Primary responsibilities |
@@ -86,8 +88,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation, communication |
 | ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluation |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
-
-<!-- last update: 2022-05-01 with the addition of Akasha- to the osu!mania NAT-->
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"

@@ -12,7 +12,7 @@ tags:
 
 ## 角色与职责
 
-BN 主要负责给[待定 (Pending) 谱面](/wiki/Beatmap/Category#work-in-progress-and-pending)[提供修改意见（摸）(Mod)](/wiki/Modding) 并将其推至上架周期的工作。同时，BN 也需要根据他人发出的与作图和摸图相关的请求提供相对应的建议。如果 BN 认为被提名 (Nominated) 谱面含有不直接违反谱面上架标准 (RC) 但必须修改的问题时，可以[否决 (Veto) 谱面](Beatmap_Veto)。
+BN 主要负责给[待定 (Pending) 谱面](/wiki/Beatmap/Category#work-in-progress-和-pending)[提供修改意见（摸）(Mod)](/wiki/Modding) 并将其推至上架周期的工作。同时，BN 也需要根据他人发出的与作图和摸图相关的请求提供相对应的建议。如果 BN 认为被提名 (Nominated) 谱面含有不直接违反谱面上架标准 (RC) 但必须修改的问题时，可以[否决 (Veto) 谱面](Beatmap_Veto)。
 
 除此之外，所有 BN 都应发扬[对 BN 的期望](Expectations)这篇文章所阐述的精神：不拘泥于现状，努力提升自己；将工作重心放在各种各样的谱师或谱面上，为更大的社区服务。
 
@@ -50,7 +50,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | 印度尼西亚语 |
 | ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | 意大利语 |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
-| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | 俄语 |
+| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusian，俄语 |
 | ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | 韩语 |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | 意大利语 |
@@ -131,11 +131,13 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_IE] [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一部分意大利语 |
 | ![][flag_BR] [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 |
+| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | 荷兰语 |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 日语，粤语，汉语 |
 | ![][flag_US] [meiqth](https://osu.ppy.sh/users/12565402) |  |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 汉语 |
 | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |  |
 | ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | 俄语 |
+| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | 葡萄牙语 |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一部分法语 |
 
 #### osu!catch
@@ -163,6 +165,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | 印度尼西亚语 |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | 韩语 |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | 汉语 |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
@@ -191,7 +194,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
 | ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | 西班牙语 |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | 西班牙语 |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukrainian |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | 法语 |
 | ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | 韩语 |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
@@ -205,11 +208,11 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | :-- | :-- |
 | ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | 芬兰语，一部分瑞典语 |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | 日语 |
-| ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502) | 韩语 |
+| ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | 日语 |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
 | ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | 芬兰语 |
 | ![][flag_ID] [Surono](https://osu.ppy.sh/users/3611370) | 印度尼西亚语 |
-| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | 葡萄牙语 |
+| ![][flag_PL] [yurishe](https://osu.ppy.sh/users/14890963) | 波兰语 |
 
 #### osu!catch
 
@@ -223,7 +226,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | :-- | :-- |
 | ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | 汉语 |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | 汉语 |
-| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
+| ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | 西班牙语 |
 | ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | 马来语 |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | 印度尼西亚语 |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
@@ -234,8 +237,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 - BN 的前身叫做[谱面评估团队 (BAT)](/wiki/Modding/Beatmap_Appreciation_Team)。
 - 自2014年8月22日起，他们不再属于核心管理人员。在游戏、聊天室、论坛中，他们也不再拥有聊天管理权限和红色用户名。
 - 自2015年2月1日起，团队更名为谱面审核小组 (BNG)，随后调整为我们现在所熟知的谱面审核成员 (BN)。
-
-<!--- updated to March 8, 2022 @ 1742 with the Maxus' move into Full BN---> 
 
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
@@ -248,6 +249,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_DK]: /wiki/shared/flag/DK.gif "丹麦"
+[flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"
 [flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
 [flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
 [flag_FR]: /wiki/shared/flag/FR.gif "法国"
@@ -266,6 +268,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
 [flag_NO]: /wiki/shared/flag/NO.gif "挪威"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
+[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
 [flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
 [flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
 [flag_TH]: /wiki/shared/flag/TH.gif "泰国"

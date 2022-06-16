@@ -1,3 +1,4 @@
+# For help translating this file, see https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-info.
 separator: ", "
 alumni:
   roles:
@@ -30,6 +31,7 @@ nat:
 languages:
   partial: some <language>
   ar: Arabic
+  be: Belarusian
   bg: Bulgarian
   bn: Bengali
   ca: Catalan
@@ -61,6 +63,7 @@ languages:
   te: Telugu
   th: Thai
   tr: Turkish
+  uk: Ukrainian
   ur: Urdu
   vi: Vietnamese
   yue: Cantonese

@@ -8,7 +8,7 @@ legal: true
 
 **ppy 私人有限公司（ppy Pty Ltd）** 向您提供服务，此种服务以您对以下条款、条件和通知不做任何更改的同意为条件。
 
-通过访问和（或）使用此网站（[https://osu.ppy.sh](https://osu.ppy.sh/home)）、osu! 游戏客户端（可在此找到：[https://osu.ppy.sh/home/download](https://osu.ppy.sh/home/download)）提供的服务或任何附属服务（以下以“**osu!**”表示），您同意您需要完全遵守以下列出的使用条款。
+通过访问和（或）使用此网站（<https://osu.ppy.sh>）、osu! 游戏客户端（可在此找到：<https://osu.ppy.sh/home/download>）提供的服务或任何附属服务（以下以“**osu!**”表示），您同意您需要完全遵守以下列出的使用条款。
 
 作为您使用此网站的条件之一，您保证您将不会将此网站或从此网站中获得的任何内容以任何目的用于非法的或者本条款禁止的用途。
 

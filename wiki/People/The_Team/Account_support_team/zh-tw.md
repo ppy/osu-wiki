@@ -30,8 +30,8 @@ no_native_review: true
   - 圖譜遭移除；
   - 論壇帖子或留言遭移除。
 - 你想[承認](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?)的不良行為。
-- [無法存取](/wiki/Help_centre/Installation_and_registration#要怎麼下載-osu!？)你的 osu! 帳號綁定的電子郵件信箱，或帳號被盜用。
-- [復原使用者名稱或修正拼寫錯誤](/wiki/Help_centre/Account#用户名更改)。
+- [無法存取](/wiki/Help_centre/Account#sign-in)你的 osu! 帳號綁定的電子郵件信箱，或帳號被盜用。
+- [復原使用者名稱或修正拼寫錯誤](/wiki/Help_centre/Account#name-changes)。
 - [機器人帳號註冊](/wiki/Bot_account)。
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
@@ -41,7 +41,7 @@ no_native_review: true
 - 對於管理員不當行為的疑慮。
 - 對於管理員觸犯了[貢獻者行為準則](/wiki/Contributor_Code_of_Conduct)的疑慮。
 - [osu!store](https://osu.ppy.sh/store/listing) 的[付款問題](/wiki/Help_centre/Account#supporter)。
-- 無法或尚未在[幫助論壇](https://osu.ppy.sh/community/forums/5)獲得解決的技術性問題，例如[連線異常](/wiki/Help_centre#online-features)。
+- 無法或尚未在[幫助論壇](https://osu.ppy.sh/community/forums/5)獲得解決的技術性問題，例如[連線異常](/wiki/Help_centre/Client#online-features)。
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
