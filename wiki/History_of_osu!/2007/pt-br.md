@@ -94,7 +94,7 @@ Uma nova classificação SS foi adicionada ao sistema, sustituindo a classifica�
 
 ![](img/2007-11_03.jpg "Testing IRC usage")
 
-O [Sistema de Envio de Beatmap](/wiki/Submission) (BSS) se tornou público, permitindo usuários para facilmente enviar e compartilhar suas criações. Foi introduzido o estado de mapas [Pendente](/wiki/Beatmap/Category#work-in-progress-and-pending) e [Ranqueado](/wiki/Beatmap/Category#ranked) para ajudar a organizar rapidamente a coleção crescente de beatmaps enviados por usuários. Chat dentro do jogo foi adicionado como um cliente [IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) criado a partir do zero e conectado com um servidor IRC padrão (sem o [Bancho](/wiki/Bancho_(server)); chat estendido foi visível; avatares e status básicos foram exibidos dentro do jogo usando uma comunicação baseado em http; controle de áudio foram também adicionados ao menu principal, que tocava uma música aleatória ao iniciar; [replays](/wiki/Gameplay/Replay) podem ser vistos por ambos as classificações locais e online. Jogadores podem expectar outros jogadores (dados de espectadores eram enviados via IRC).
+O [Sistema de Envio de Beatmap](/wiki/Submission) (BSS) se tornou público, permitindo usuários para facilmente enviar e compartilhar suas criações. Foi introduzido o estado de mapas [Pendente](/wiki/Beatmap/Category#pendente) e [Ranqueado](/wiki/Beatmap/Category#ranqueados) para ajudar a organizar rapidamente a coleção crescente de beatmaps enviados por usuários. Chat dentro do jogo foi adicionado como um cliente [IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) criado a partir do zero e conectado com um servidor IRC padrão (sem o [Bancho](/wiki/Bancho_(server)); chat estendido foi visível; avatares e status básicos foram exibidos dentro do jogo usando uma comunicação baseado em http; controle de áudio foram também adicionados ao menu principal, que tocava uma música aleatória ao iniciar; [replays](/wiki/Gameplay/Replay) podem ser vistos por ambos as classificações locais e online. Jogadores podem expectar outros jogadores (dados de espectadores eram enviados via IRC).
 
 ## Dezembro
 
@@ -107,4 +107,4 @@ Músicas podem ser editadas por arrastar elas para a janela do osu!; dicas de fe
 1. [post do peppy sobre o início do osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
 2. [post no fórum do pUpdater (também conhecido como osume)](https://osu.ppy.sh/community/forums/topics/4?n=1)
 
-[r]: #references
+[r]: #referências
