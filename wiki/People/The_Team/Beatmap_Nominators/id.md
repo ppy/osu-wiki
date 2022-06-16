@@ -238,8 +238,6 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 - Pada tanggal 22 Agustus 2014, BAT tidak lagi menjadi bagian dari tim staf. Seiring dengan perubahan ini, kemampuan moderasi dan warna pengguna khusus yang mereka miliki di dalam permainan dan forum ikut dicabut.
 - Pada tanggal 1 Januari 2015, nama *Beatmap Appreciation Team* diubah menjadi *Beatmap Nomination Group* yang kemudian menjelma menjadi Beatmap Nominator sebagaimana yang kita kenal saat ini.
 
-<!--- updated as of June 5, 2022 with the addition of Antalf into the mania Probationary BN ---> 
-
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

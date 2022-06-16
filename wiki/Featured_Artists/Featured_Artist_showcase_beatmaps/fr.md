@@ -517,6 +517,28 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
 
 - **[Ardolf](https://osu.ppy.sh/home/news/2022-05-04-new-featured-artist-ardolf)** (04/05/2022)
   - (![][osu!]) [Ardolf - Varcolac](https://osu.ppy.sh/beatmapsets/1750904#osu/3582059) organisé par ![][flag_TR] [Nymphe](https://osu.ppy.sh/users/10507407)
+- **[Tenchio](https://osu.ppy.sh/home/news/2022-05-11-new-featured-artist-tenchio)** (11/05/2022)
+  - (![][osu!mania]) [Tenchio - skeleton (Lettuce ver.)](https://osu.ppy.sh/beatmapsets/1749371#mania/3578641) organisé par ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608)
+- **[JOYLESS](https://osu.ppy.sh/home/news/2022-05-18-new-featured-artist-joyless)** (18/05/2022)
+  - (![][osu!]) [JOYLESS - Bristol](https://osu.ppy.sh/beatmapsets/1728251#osu/3531783) organisé par ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836)
+  - (![][osu!]) [JOYLESS - Dream](https://osu.ppy.sh/beatmapsets/1729551#osu/3534705) organisé par ![][flag_GB] [Shii](https://osu.ppy.sh/users/9186316)
+  - (![][osu!]) [Joyless - Back to Start](https://osu.ppy.sh/beatmapsets/1738503#osu/3553332) organisé par ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
+- **[Origami Angel](https://osu.ppy.sh/home/news/2022-05-25-new-featured-artist-origami-angel)** (25/05/2022)
+  - (![][osu!]) [Origami Angel - 24 Hr Drive-Thru](https://osu.ppy.sh/beatmapsets/1724847#osu/3525078) organisé par ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!]) [Origami Angel - Escape Rope](https://osu.ppy.sh/beatmapsets/1757733#osu/3602276) organisé par ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865)
+  - (![][osu!catch]) [Origami Angel - The Title Track](https://osu.ppy.sh/beatmapsets/1503591#fruits/3404572) organisé par ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+
+### Juin
+
+- **[Ponchi](https://osu.ppy.sh/home/news/2022-06-01-new-featured-artist-ponchi)** (01/06/2022)
+  - (![][osu!]) [Ponchi feat. haxchi - Mousou <3 Chuu!!](https://osu.ppy.sh/beatmapsets/1726676#osu/3528814) organisé par ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117)
+  - (![][osu!]) [Ponchi feat. haxchi - Correct Hearts](https://osu.ppy.sh/beatmapsets/1742463#osu/3562084) organisé par ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
+  - (![][osu!]) [Ponchi feat. haxchi - Anemone](https://osu.ppy.sh/beatmapsets/1753715#osu/3600798) organisé par ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+- **[SAMString](https://osu.ppy.sh/home/news/2022-06-08-new-featured-artist-samstring)** (08/06/2022)
+  - (![][osu!]) [SAMString - Sakura's Fall](https://osu.ppy.sh/beatmapsets/1449832#osu/2980857) organisé par ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
+  - (![][osu!]) [SAMString - Shifting Clouds](https://osu.ppy.sh/beatmapsets/1654451#osu/3376932) organisé par ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311)
+- **[Kanpyohgo](https://osu.ppy.sh/home/news/2022-06-11-new-featured-artist-kanpyohgo)** (11/06/2022)
+  - (![][osu!]) [Kanpyohgo - Tozaseshi Kumo no Kayoiji -Stormy Extended-](https://osu.ppy.sh/beatmapsets/1783062#osu/3651636) organisé par ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899)
 
 ## Histoire
 
@@ -567,3 +589,4 @@ Comme la Guilde elle-même fonctionnait sur une entrée fermée, basée sur les 
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turquie"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

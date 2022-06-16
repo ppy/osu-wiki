@@ -21,6 +21,8 @@ tags:
   - 设备
   - 用户名
   - 删除
+outdated_translation: true
+outdated_since: ef784b9104fbcc3a66f3bf503d97147aa7b26345
 ---
 
 # 帐号
