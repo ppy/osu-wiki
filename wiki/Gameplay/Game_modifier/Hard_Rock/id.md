@@ -27,19 +27,19 @@ tags:
 
 ## Deskripsi
 
-Mod **Hard Rock** adalah sebuah [game modifier](/wiki/Game_modifier) yang bertujuan untuk meningkatkan tingkat kesulitan pada sebagian besar aspek dari sebuah [beatmap](/wiki/Beatmap). Modifier ini meningkatkan [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) sebesar 30%, [approach rate (AR)](/wiki/Beatmapping/Approach_rate) sebesar 40%, [health drain (HP)](/wiki/Beatmapping/Health_drain) sebesar 40% dan [overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) sebesar 40%, meskipun detailnya bervariasi untuk setiap mode permainan.
+**Hard Rock** merupakan [mod](/wiki/Game_modifier) yang berfungsi untuk meningkatkan tingkat kesulitan suatu [beatmap](/wiki/Beatmap). Mod ini akan memperkecil ukuran [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) senilai 30% serta meningkatkan [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [health drain (HP)](/wiki/Beatmapping/Health_drain), dan [*overall difficulty* (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) yang aktif senilai 40%, dengan nilai yang berbeda-beda untuk setiap mode permainan.
 
 ### osu!
 
-Pada [osu!](/wiki/Game_mode/osu!), (bersamaan dengan peningkatan pengaturan kesulitan) mod Hard Rock membalikkan beatmap pada sumbu X-nya (seperti yang ditunjukkan di bawah).Hal ini terkadang dapat membuat [pola](/wiki/Beatmap/Pattern) tertentu terasa tidak alami, yang dapat meningkatkan kesulitan.
+Pada mode [osu!](/wiki/Game_mode/osu!), di samping membuat suatu beatmap menjadi lebih sulit, mod Hard Rock juga akan mencerminkan seluruh objek yang ada beatmap terhadap sumbu-X (sebagaimana yang dicontohkan di bawah ini). Hal ini terkadang dapat membuat [pola](/wiki/Beatmap/Pattern) tertentu terasa tidak alami dan lebih sulit untuk dimainkan.
 
-Selain itu, jika pemain telah menghafal atau terbiasa dengan gerakan dan pola beatmap, beralih ke mod Hard Rock dapat menghilangkan hafalan tersebut dan menyebabkan semacam kesulitan buatan.
+Di samping itu, apabila seorang pemain telah menghafal atau membiasakan diri dengan gerakan dan pola yang ada pada suatu beatmap, beralih ke mod Hard Rock dapat menghilangkan hafalan tersebut dan menimbulkan kesulitannya tersendiri.
 
-![Tampilan permainan HR](img/HR-comparison-osu.jpg "Perbandingan permainan biasa (kiri) dengan permainan dengan mod Hard Rock diaktifkan (kanan) pada mode osu!")
+![Tampilan permainan HR](img/HR-comparison-osu.jpg "Perbandingan antara permainan biasa (kiri) dan permainan dengan mod Hard Rock yang diaktifkan (kanan) pada mode osu!")
 
 ### osu!taiko
 
-Pada [osu!taiko](/wiki/Game_mode/osu!taiko), mod Hard Rock meningkatkan [slider velocity](/wiki/Hit_object/Slider_velocity) serta [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty).Mod ini dianggap secara luas sebagai mod yang paling umum digunakan pada osu!taiko karena mod ini adalah satu-satunya mod peningkat kesulitan yang tidak membutuhkan penghafalan atau mengetuk dengan sangat cepat pada tingkat kesulitan yang lebih tinggi.
+Pada [osu!taiko](/wiki/Game_mode/osu!taiko), mod Hard Rock akan meningkatkan [*slider velocity*](/wiki/Hit_object/Slider_velocity) serta [*overall difficulty* (OD)](/wiki/Beatmapping/Overall_difficulty). Secara umum, mod ini merupakan mod yang paling sering digunakan pada osu!taiko karena mod ini adalah satu-satunya mod peningkat kesulitan yang tidak membutuhkan pemain untuk menghafal ataupun mengenai objek yang ada dengan sangat cepat.
 
 Ketukan yang dibutuhkan untuk menyelesaikan denden telah ditingkatkan karena peningkatan OD. Oleh karena itu, skor maksimum yang bisa dicapai untuk suatu tingkat kesulitan pada osu!taiko dengan mod Hard Rock lebih besar daripada mod [Hidden](/wiki/Game_modifier/Hidden).
 
@@ -47,26 +47,26 @@ Namun, efek ini seringnya tidak signifikan karena setiap hit dalam denden member
 
 ### osu!catch
 
-Pada osu!catch, mod Hard Rock memiliki beberapa efek. Selain membuat karakter pemain dan buah-buahan menjadi lebih kecil dan meningkatkan kecepatan jatuhnya, mod ini bisa mengakibatkan fruit biasa bergeser sedikit ke kiri atau kanan dari posisi awal mereka di layar. Perubahan ini mengharuskan pemain untuk bergerak lebih banyak dan lebih sering menggunakan hyperdash,yang juga dapat meningkatkan kesulitan.
+Pada mode osu!catch, mod Hard Rock akan berpengaruh terhadap beberapa hal. Di samping membuat *catcher* dan buah yang ada menjadi lebih kecil dan lebih cepat jatuh, mod ini dapat mengakibatkan buah-buah tertentu untuk tergeser sedikit ke kiri atau kanan dari posisi mereka seharusnya. Perubahan ini seringkali menuntut pemain untuk lebih aktif bergerak dan menggunakan *hyperdash*, yang secara tidak langsung juga akan meningkatkan kesulitan yang ada.
 
-Dikarenakan kenaikan tingkat kesulitan yang lebih besar dibandingkan dengan [mode permainan](/wiki/Game_mode) lainnya, mod Hard Rock bernilai 1.12x pengali skor dibandingan dengan 1.06x pengali skor pada semua mode permainan lainnya.
+Karena mod Hard Rock pada mode osu!catch jauh lebih memengaruhi tingkat kesulitan suatu beatmap dibanding mod Hard Rock pada [mode permainan](/wiki/Game_mode) lainnya, mod Hard Rock pada mode osu!catch memiliki pengali skor yang lebih besar (1.12x) dibanding dengan mode permainan lainnya (1.06x).
 
-![Tampilan permainan HR catch](img/HR-comparison-catch.jpg "Perbandingan permainan biasa (kiri) dengan permainan dengan mod Hard Rock diaktifkan (kanan) di osu!catch")
+![Tampilan permainan HR catch](img/HR-comparison-catch.jpg "Perbandingan antara permainan biasa (kiri) dan permainan dengan mod Hard Rock yang diaktifkan (kanan) pada mode osu!catch")
 
 ### osu!mania
 
-*Catatan: Menggunakan mod ini pada osu!mania akan menghasilkan unranked play.*
+*Catatan: Menggunakan mod ini pada mode osu!mania akan menghasilkan unranked play.*
 
-PDalam [osu!mania](/wiki/Game_mode/osu!mania), HP drain meningkat sebanyak 40% sementara timing window menjadi lebih ketat sebanyak 29%. Meskipun nilai AR ditampilkan meningkat, hal itu tidak mempengaruhi permainan.
+Pada mode [osu!mania](/wiki/Game_mode/osu!mania), Hard Rock akan meningkatkan nilai HP drain sebesar 40% dan menjadikan *timing window* yang ada 29% lebih ketat. Meskipun nilai AR juga akan ditampilkan meningkat, hal ini tidak akan mempengaruhi permainan.
 
-Untuk menghitung timing window setelah HR diterapkan, [timing window awal](/wiki/Beatmapping/Overall_difficulty) dibagi dengan 1.4. Timing window Rainbow 300 (MAX) tetap tanpa mempedulikan OD, sehingga jendela waktu MAX dengan HR akan selalu ±11,43ms.
+Untuk menghitung *timing window* setelah HR diterapkan, [*timing window* awal](/wiki/Beatmapping/Overall_difficulty) dibagi dengan 1.4. *Timing window* Rainbow 300 (MAX) tetap tanpa mempedulikan OD, sehingga jendela waktu MAX dengan HR akan selalu ±11,43ms.
 
 Perlu diketahui bahwa metode penghitungannya berbeda pada [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 ## Trivia
 
-- Mod Hard Rock dinamai berdasarkan tingkat kesulitan tersulit dari game [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS), "[Elite Beat Agents](/wiki/iNiS_games)"
-- Mod Hard Rock akan mematikan mod [Easy](/wiki/Game_modifier/Easy) dan sebaliknya.
+- Nama mod Hard Rock diambil dari nama tingkat kesulitan tertinggi yang ada permainan "[Elite Beat Agents](/wiki/iNiS_games)" yang dirilis pada konsol [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS),
+- Penggunaan mod Hard Rock akan menonaktifkan mod [Easy](/wiki/Game_modifier/Easy) dan sebaliknya.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
