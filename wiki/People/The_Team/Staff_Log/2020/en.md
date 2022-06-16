@@ -540,5 +540,3 @@ Abbreviations for user groups are used throughout this log:
 - 2020-12-28: Removed [Dapuluous](https://osu.ppy.sh/users/8140944) from **BN**
 - 2020-12-29: Removed [Xinely](https://osu.ppy.sh/users/1521445) from **BN**
 - 2020-12-30: Removed [Myxo](https://osu.ppy.sh/users/2202645) from **BN**
-
-<!-- last update: 2021-01-01 02:00 UTC removed myxo from bn -->

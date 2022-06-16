@@ -26,7 +26,7 @@ Vous devriez contacter cette équipe pour les sujets concernant votre compte qui
   - Les suppressions de beatmaps;
   - Les suppressions de posts sur le forum et commentaires.
 - De la mauvaise conduite que vous [souhaitez avouer](/wiki/Reporting_bad_behaviour/Handling_foul_play#que-puis-je-faire-si-j'ai-enfreint-les-règles-?).
-- [Perte d'accès à l'email](/wiki/Help_centre/Installation_and_registration#inscription) attaché à votre compte osu!, ou lorsque votre compte a été volé.
+- [Perte d'accès à l'email](/wiki/Help_centre/Account#connexion) attaché à votre compte osu!, ou lorsque votre compte a été volé.
 - [Rétablissement d'anciens pseudos et corrections de fautes mineures dans votre pseudo](/wiki/Help_centre/Account#changements-de-nom).
 - [Inscriptions de comptes bot](/wiki/Bot_account).
 

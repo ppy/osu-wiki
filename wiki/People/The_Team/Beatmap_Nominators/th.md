@@ -52,7 +52,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | อินโดนีเซีย |
 | ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | อิตาลี |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
-| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | รัสเซีย |
+| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusian, รัสเซีย |
 | ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | เกาหลี |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | อิตาลี |
@@ -196,7 +196,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
 | ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | สเปน |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | สเปน |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukrainian |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | ฝรั่งเศส |
 | ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | เกาหลี |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |

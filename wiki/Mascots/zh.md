@@ -46,7 +46,7 @@ Mocha 是 osu!taiko 游戏模式的官方吉祥物。她最初由 [Crowie](https
 
 > 他是应援团中的热血头儿，有一颗善良的心，总是为周围陷入困难与窘境的人们加油打劲！
 
-一本木龍太（Ryūta Ippongi）曾是 osu!catch 模式中的接水果小人，于 2008 年加入 osu!，但于 2014 年被 [Yuzu](#-yuzu) 替代。他的艺术形象由 [iNiS 公司](https://en.wikipedia.org/wiki/INiS) 设计，并曾作为老版官方网页的一部分。他也曾在 [病娇模拟器](https://yanderesimulator.com) 中作为 NPC 出现。
+一本木龍太（Ryūta Ippongi）曾是 osu!catch 模式中的接水果小人，于 2008 年加入 osu!，但于 2014 年被 [Yuzu](#yuzu) 替代。他的艺术形象由 [iNiS 公司](https://en.wikipedia.org/wiki/INiS) 设计，并曾作为老版官方网页的一部分。他也曾在 [病娇模拟器](https://yanderesimulator.com) 中作为 NPC 出现。
 
 龙太也曾出现在 [LuigiHann](https://osu.ppy.sh/users/1079) 设计的皮肤 [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357) 中。
 

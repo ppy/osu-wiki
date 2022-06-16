@@ -50,7 +50,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | 印度尼西亚语 |
 | ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | 意大利语 |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
-| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | 俄语 |
+| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusian，俄语 |
 | ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | 韩语 |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | 意大利语 |
@@ -194,7 +194,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
 | ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | 西班牙语 |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | 西班牙语 |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) |  |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukrainian |
 | ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | 法语 |
 | ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | 韩语 |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
@@ -237,8 +237,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 - BN 的前身叫做[谱面评估团队 (BAT)](/wiki/Modding/Beatmap_Appreciation_Team)。
 - 自2014年8月22日起，他们不再属于核心管理人员。在游戏、聊天室、论坛中，他们也不再拥有聊天管理权限和红色用户名。
 - 自2015年2月1日起，团队更名为谱面审核小组 (BNG)，随后调整为我们现在所熟知的谱面审核成员 (BN)。
-
-<!--- updated to March 8, 2022 @ 1742 with the Maxus' move into Full BN---> 
 
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
