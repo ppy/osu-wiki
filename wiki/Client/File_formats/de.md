@@ -40,6 +40,6 @@ Um ein Beatmap-Archiv zu produzieren:
 Um ein Skin-Archiv zu erstellen:
 
 - Versichere dich, dass dein Skin alles hat, was du exportieren möchtest. Du kannst das prüfen, indem du den Button `Skinordner öffnen` in den osu!-Einstellungen drückst.
-- Klicke auf `Skin auswählen` in den Einstellungen.
+- Klicke in den Einstellungen auf `Skin auswählen`.
 - Wähle den Skin, den du exportieren möchtest, und klicke auf `Als .osk exportieren`.
 - Das Archiv `.osk` wird im Ordner `Exports` innerhalb deines osu!-Installationsordners platziert.
