@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # História do osu! 2007
 
 O seguinte é um dos maiores eventos da história do osu! desde o começo. Agradecimento especial para o [Sinistro](https://osu.ppy.sh/users/5530) por ajudar a reunir o conteúdo de 2007/2008.
