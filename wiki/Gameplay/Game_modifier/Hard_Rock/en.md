@@ -66,7 +66,7 @@ Note that the calculation method is different in [ScoreV2](/wiki/Game_modifier/S
 ## Trivia
 
 - The Hard Rock mod is named after the hardest difficulty of the [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS) game "[Elite Beat Agents](/wiki/iNiS_games)"
-- The Hard Rock mod will cancel out the [Easy](/wiki/Game_modifier/Easy) mod. And vice-versa.
+- The Hard Rock mod will cancel out the [Easy](/wiki/Game_modifier/Easy) mod and vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
