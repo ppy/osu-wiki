@@ -35,11 +35,9 @@ If it isn't, manually change it for every difficulty in your beatmap, reload the
 
 If you are still having issues or want more information on this, have a read through the [BSS issues page](/wiki/Guides/BSS_Issues).
 
-## I am an osu!supporter, but I don't have 10 pending slots!
+## I am an osu!supporter, but I don't have 20 pending slots!
 
-**The number of slots available depends on the number of ranked maps you have.**
-
-By default, every user has 4 pending slots. One slot is added for every ranked beatmap the user owns (up to 2). Being a supporter grants you a total of 8 pending slots. One slot is added for every ranked beatmap the user owns (up to 4).
+**The number of slots available depends on the number of ranked maps you have. For details, see [osu!supporter § Increased limits](/wiki/osu!supporter#increased-limits).**
 
 ## How can I delete my beatmap?
 
