@@ -8,7 +8,7 @@ O seguinte é um dos maiores eventos da história do osu! desde o começo. Agrad
 
 O osu! começa como uma prova de seu conceito nomeado "ouentest"[[1]][r]. A primeira versão foi lançada em 1 de julho, 2007 para um grupo pequeno de amigos próximos do [peppy](https://osu.ppy.sh/users/2) onde se destacava um [editor de beatmap](/wiki/Client/Beatmap_editor) e um modo de bem básico.
 
-O editor poderia somente fazer [beatmaps](/wiki/Beatmap) *muito* simples, sem as funções de seeking ou [snapping](/wiki/Beatmapping/Snapping) disponíveis e sem sliders nem spinners, somente círculos e contador de pontuação básico. O primeiro lançamento demorou aproximadamente 16 horas de programação e foi feito em uma *única noite*. O `pUpdater` foi introduzido (posteriormente conhecido como `osume`)[[2]][r] com a função de atualizar para a última versão.<!-- "pUpdater" and "osume" need article stubs to link to -->
+O editor poderia somente fazer [beatmaps](/wiki/Beatmap) *muito* simples, sem as funções de seeking ou [snapping](/wiki/Beatmapping/Snapping) disponíveis e sem sliders nem spinners, somente círculos e contador de pontuação básico. O primeiro lançamento demorou aproximadamente 16 horas de programação e foi feito em uma *única noite*. O `pUpdater` foi introduzido (posteriormente conhecido como `osume`)[[2]][r] com a função de atualizar para a última versão.
 
 ![](img/2007-07_01.jpg "Song Selection")
 
