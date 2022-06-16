@@ -105,6 +105,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | France | ![][flag_FR] | ![][flag_DE] | Germany | Jun 18 (Sat) 15:00 UTC | Jun 18 (Sat) 17:00 UTC+2 | Jun 18 (Sat) 17:00 UTC+2 | [^losers-bracket] |
 | Mexico | ![][flag_MX] | ![][flag_IT] | Italy | Jun 18 (Sat) 17:00 UTC | Jun 18 (Sat) 12:00 UTC-5 | Jun 18 (Sat) 19:00 UTC+2 | [^losers-bracket] |
 | Chile | ![][flag_CL] | ![][flag_RU] | Russian Federation | Jun 18 (Sat) 19:00 UTC | Jun 18 (Sat) 15:00 UTC-4 | Jun 18 (Sat) 22:00 UTC+3 | [^losers-bracket] |
+| Chile | ![][flag_CL] | ![][flag_FR] | France | Jun 18 (Sat) 20:30 UTC | Jun 18 (Sat) 16:30 UTC-4 | Jun 18 (Sat) 22:30 UTC+2 | [^potential-match] |
 | Canada | ![][flag_CA] | ![][flag_AU] | Australia | Jun 18 (Sat) 23:00 UTC | Jun 18 (Sat) 18:00 UTC-5 | Jun 19 (Sun) 09:00 UTC+10 | [^losers-bracket] |
 
 ### Sunday, June 19, 2022
@@ -119,7 +120,6 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | Jun 19 (Sun) 16:00 UTC | Jun 19 (Sun) 19:00 UTC+3 | Jun 19 (Sun) 18:00 UTC+2 | [^potential-match] |
 | Canada | ![][flag_CA] | ![][flag_MX] | Mexico | Jun 19 (Sun) 18:00 UTC | Jun 19 (Sun) 13:00 UTC-5 | Jun 19 (Sun) 13:00 UTC-5 | [^potential-match] |
 | Canada | ![][flag_CA] | ![][flag_IT] | Italy | Jun 19 (Sun) 19:00 UTC | Jun 19 (Sun) 14:00 UTC-5 | Jun 19 (Sun) 21:00 UTC+2 | [^potential-match] |
-| Chile | ![][flag_CL] | ![][flag_FR] | France | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 16:00 UTC-4 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
 | Chile | ![][flag_CL] | ![][flag_DE] | Germany | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 16:00 UTC-4 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
 
 ## Mappools
