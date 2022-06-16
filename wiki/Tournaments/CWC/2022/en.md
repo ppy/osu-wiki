@@ -122,12 +122,6 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | Chile | ![][flag_CL] | ![][flag_FR] | France | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 16:00 UTC-4 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
 | Chile | ![][flag_CL] | ![][flag_DE] | Germany | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 16:00 UTC-4 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
 
-## Notes
-
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket matches
-
 ## Mappools
 
 ### Semifinals
