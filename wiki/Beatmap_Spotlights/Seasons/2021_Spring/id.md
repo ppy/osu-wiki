@@ -27,7 +27,7 @@ tags:
 
 Untuk saat ini, bergabung dengan lobi multiplayer mingguan mengharuskan peserta untuk mengunduh dan menginstal [osu!(lazer)](https://github.com/ppy/osu/releases).
 
-1. Setiap minggu pada satu musim, satu timeshift multiplayer lobby dibuka. Semua orang dapat berpartisipasi selama minggu tersebut. <!--It doesn't say that it's every Friday in the original en article (this comment will be removed after review)-->
+1. Setiap minggu pada satu musim, satu timeshift multiplayer lobby dibuka. Semua orang dapat berpartisipasi selama minggu tersebut.
    - Jeda akan diadakan selama seminggu, setelah itu lobi untuk setiap daftar putar akan dibuka kembali setiap minggu.
 2. Setiap timeshift multiplayer lobby menyediakan daftar putar beatmap yang telah ditentukan sebelumnya.
    - Setiap daftar putar adalah bagian dari seluruh daftar beatmap yang dipilih untuk musim ini.
