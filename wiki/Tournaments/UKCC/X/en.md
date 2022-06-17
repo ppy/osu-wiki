@@ -43,7 +43,7 @@ The UK Community Cup X was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1227275?n=1)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1227275)
 - [Discord](https://discord.gg/EtsU7Cw)
 - [Livestream](https://twitch.tv/osuukcc)
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJmIYW6dGfDgL4djEZfAIMQcDgfV-mskmc/edit?usp=sharing)
