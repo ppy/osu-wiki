@@ -122,7 +122,7 @@ Images used in news articles must be in JPG format at quality 9 (90) to quality 
 
 #### File size
 
-Images must be under 2 megabytes or they will fail to load.
+Images must be under 1 megabyte or they will fail to load.
 
 All images must be optimised as much as possible. Use [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) to compress JPEG images. For consistency, use the following command for jpeg-archive:
 
