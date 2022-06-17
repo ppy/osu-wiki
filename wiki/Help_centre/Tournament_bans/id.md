@@ -6,7 +6,7 @@ Larangan turnamen (*tournament ban*) merupakan bentuk hukuman yang membatasi hak
 
 Larangan turnamen seringkali tidak dijatuhkan sebagai suatu hukuman yang terpisah. Meskipun demikian, pada umumnya, para pemain yang baru saja terbebas dari hukuman *[restriction](/wiki/Help_centre/Account_restrictions)* baru akan kembali dapat mengikuti turnamen setelah mereka berperilaku baik selama minimal satu tahun.
 
-Berhubung turnamen merupakan hal yang serius, seluruh hukuman larangan turnamen yang kami jatuhkan akan ditegakkan secara tegas tanpa dapat dinegosiasikan lebih lanjut.
+Berhubung turnamen merupakan hal yang serius, seluruh hukuman larangan turnamen yang dijatuhkan akan ditegakkan secara tegas tanpa dapat dinegosiasikan lebih lanjut.
 
 ## Hal-hal apa saja yang dapat membuat seseorang dijatuhi larangan turnamen secara sementara?
 
