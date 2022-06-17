@@ -8,7 +8,7 @@ tags:
 
 ![UKCCX banner](img/banner.jpg)
 
-The **UK Community Cup X** (***UKCC X***) was a British 1v1 swiss osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the tenth instalment of the UK Community Cup series and the series' first experimental competition.
+The **UK Community Cup X** (***UKCC X***) was a British 1v1 [Swiss](https://en.wikipedia.org/wiki/Swiss-system_tournament) osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the tenth instalment of the UK Community Cup series and the series' first experimental competition.
 
 ## Tournament schedule
 
@@ -524,7 +524,7 @@ Top 10 qualification results:
 
 ## Ruleset
 
-- This tournament is a 1v1 swiss British osu! tournament.
+- This tournament is a 1v1 [Swiss](https://en.wikipedia.org/wiki/Swiss-system_tournament) British osu! tournament.
 - The structure of the tournament will be:
   - One qualification round where 32 players progress
   - Swiss bracket
