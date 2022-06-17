@@ -1,30 +1,35 @@
----
-needs_cleanup: true
----
-
 # Score
 
 *For other uses, see [Score (disambiguation)](/wiki/Disambiguation/Score).*\
-*For [game mode](/wiki/Game_mode)-specific scoring algorithms, see: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania).*
 
 A player's performance on a map is given in terms of score after a successful completion of the map.
 Most of the time, combo plays a major part in the scoring system since it serves as a multiplier of the score.
 
-## ScoreV2
+## ScoreV1
 
-Before ScoreV2, each game modes has their own scoring system in place:
+ScoreV1 is the colloquial name for the original, default scoring algorithm in osu!.
+While it is commonly referred to by a single name, the algorithm deviates quite a lot depending on the active [game mode](/wiki/Game_mode):
 
 - osu! and osu!catch use a strictly combo-based score multiplier,
-- osu!taiko roughly follows the *Taiko no Tatsujin* scoring system with a small constant score affected with combo bonus, and
-- osu!mania is the only game mode with a score limiter, which is capped at 1,000,000 (1 million) score at 1.00x score modifier.
+- osu!taiko roughly follows the *Taiko no Tatsujin* scoring system with a small constant score affected with combo bonus,
+- osu!mania is the only game mode with a ScoreV1 limit, which is set at 1,000,000 (1 million) score at 1.00x score modifier.
 
-While the issue only arise on *very long and combo-intensive* beatmap, if the player managed to exceed a combo of ~6,500 onwards, the player's score will begin to count *backwards*.
-This is a known flaw with the 32-bit signed integer where (in computing) the max integer is **2,147,483,647**.
+For detailed descriptions of how ScoreV1 works in each [game mode](/wiki/Game_mode), see:
 
-This is where ScoreV2 comes in.
+- [ScoreV1/osu!](osu!)
+- [ScoreV1/osu!taiko](osu!taiko)
+- [ScoreV1/osu!catch](osu!catch)
+- [ScoreV1/osu!mania](osu!mania)
 
-ScoreV2 attempts to standardise all the game modes' scoring system to 1,000,000 (1 million) score at 1.00x score modifier with extra score gains from spinner's bonus for osu!, drumrolls for osu!taiko, and bananas as usual for osu!catch.
-Each of the hit objects are now part of the 1 million score and scaled accordingly rather than their own scoring values and bonus formulae.
+## ScoreV2
 
-ScoreV2 can be tested in [Multi](/wiki/Gameplay/Multiplayer) mode as one of the Match Setup's Win Condition.
-As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), the ScoreV2 system can be tested in *Solo* mode using the **UNRANKED** [ScoreV2](/wiki/Game_modifier/ScoreV2) game modifier.
+ScoreV2 is a new iteration of the scoring system.
+The main idea behind it is standardisation of all the game modes' scoring systems, such that a perfect score is awarded 1,000,000 (1 million) score at 1.00x score modifier, with additional score gains on top of that from spinner bonuses for osu!, drumrolls for osu!taiko, and bananas as for osu!catch.
+This implies a departure from the original scoring values of each individual hit object, and a change to a system that is more centred around proportions and scaling to the 1 million cap.
+
+Aside from improved standardisation, ScoreV2 is also a workaround for an [integer overflow](https://en.wikipedia.org/wiki/Integer_overflow) issue that can arise on long and combo-intensive maps.
+Because the total score is stored as a 32-bit integer and ScoreV1 is a theoretically-unlimited scoring system, exceeding the maximum representable 32-bit integer score value of 2,147,483,647 points would cause the score counter to wrap around to negative values.
+This can be seen in practice on some maps, which cannot be played without ScoreV2 enabled.
+
+ScoreV2 can be used in [multiplayer](/wiki/Gameplay/Multiplayer) mode as one of the Win Conditions in Match Setup.
+As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), the ScoreV2 system can also be in solo play, using the unranked [ScoreV2](/wiki/Game_modifier/ScoreV2) game modifier.
