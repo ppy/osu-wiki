@@ -110,7 +110,7 @@ Example:
 
 #### Covers
 
-News articles should have a block image after the preview paragraph for use as a **cover** (sometimes called *banner*). The game client and website automatically use the first image in an article as a cover on the front page, news listing, and news article view.
+News articles should have a [block image](/wiki/Article_styling_criteria/Formatting#display) after the preview paragraph for use as a **cover** (sometimes called *banner*). The game client and website automatically use the first image in an article as a cover on the front page, news listing, and news article view.
 
 Cover images should have a minimum width of 900 and minimum height of 200 for their base size. An `@2x` version with each dimension doubled should be provided if the source image is large enough to support it.<!-- TODO: there should be a more general place to explain how and why @2x images can be used, this isn't enough info and it's not only for cover images. -->
 
