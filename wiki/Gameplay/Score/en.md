@@ -32,4 +32,4 @@ Because the total score is stored as a 32-bit integer and ScoreV1 is a theoretic
 This can be seen in practice on some maps, which cannot be played without ScoreV2 enabled.
 
 ScoreV2 can be used in [multiplayer](/wiki/Gameplay/Multiplayer) mode as one of the Win Conditions in Match Setup.
-As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), the ScoreV2 system can also be in solo play, using the unranked [ScoreV2](/wiki/Game_modifier/ScoreV2) game modifier.
+As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), the ScoreV2 system can also be used in solo play by selecting the unranked [ScoreV2](/wiki/Game_modifier/ScoreV2) game modifier.
