@@ -2,11 +2,11 @@
 
 *For other uses, see [Score (disambiguation)](/wiki/Disambiguation/Score).*
 
-How much score a player is awarded after successful completion of a [beatmap](/wiki/Beatmap) is determined by what [judgments](/wiki/Gameplay/Judgement) the player received for each [hit object](/wiki/Gameplay/Hit_object). The scoring system is split into two major versions currently in use, and into different scoring algorithms for each [game mode](/wiki/Game_mode).
+How much score a player is awarded after successful completion of a [beatmap](/wiki/Beatmap) is determined by what [judgments](/wiki/Gameplay/Judgement) the player received for each [hit object](/wiki/Gameplay/Hit_object). The scoring system is split into two major versions currently in use.
 
 ## ScoreV1
 
-ScoreV1 is the colloquial name for the original, default scoring system in osu!.
+ScoreV1 is the colloquial name for the original, default scoring system in osu!. While commonly referred to by a single name, the algorithm itself deviates quite a lot depending on the active [game mode](/wiki/Game_mode):
 
 - osu! and osu!catch use a strictly combo-based score multiplier applied on score values for each hit object
 - osu!taiko roughly follows the *Taiko no Tatsujin* scoring system with a small constant score affected with combo bonus
