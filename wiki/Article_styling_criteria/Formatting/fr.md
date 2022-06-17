@@ -846,7 +846,7 @@ Un tournoi ne doit pas être organisé et dirigé par une équipe inexpériment�
 
 ## Citations en bloc
 
-La citation est limitée à [citer quelqu'un ou quelque chose](/wiki/Article_styling_criteria/Writing#block-quotation). Elle ne doit pas être utilisée pour formater le texte autrement.
+La citation est limitée à [citer quelqu'un ou quelque chose](/wiki/Article_styling_criteria/Writing#bloc-de-citation). Elle ne doit pas être utilisée pour formater le texte autrement.
 
 ```markdown
 > profitez du jeu
