@@ -19,6 +19,8 @@ The [Support Team group page](https://osu.ppy.sh/groups/22) lists all of the tea
 
 *Note: All Support Team members speak English in addition to the language(s) listed below unless noted otherwise.*
 
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |

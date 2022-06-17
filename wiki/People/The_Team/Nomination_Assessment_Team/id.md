@@ -57,7 +57,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluasi |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Jerman, Serbia | Evaluasi |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluasi |
-| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanyol, Prancis | Evaluasi |
+| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanyol, Perancis | Evaluasi |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Belanda | Evaluasi |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polandia | Evaluasi |
 
@@ -89,7 +89,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
