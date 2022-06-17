@@ -108,6 +108,14 @@ Example:
 
 ``/wiki/shared/news/2017-08-17-news-article-standards/banner.jpg``
 
+#### Covers
+
+News articles should have a block image after the preview paragraph for use as a **cover** (sometimes called *banner*). The game client and website automatically use the first image in an article as a cover on the front page, news listing, and news article view.
+
+Cover images should have a minimum width of 900 and minimum height of 200 for their base size. An `@2x` verison with each dimension doubled should be provided if the source image is large enough to support it.<!-- TODO: there should be a more general place to explain how and why @2x images can be used, this isn't enough info and it's not only for cover images. -->
+
+Cover images appearing in multiple news articles are commonly put in the `/wiki/shared/news/banners` directory.
+
 #### Formats and quality
 
 Images used in news articles must be in JPG format at quality 9 (90) to quality 10 (100). PNG use is acceptable in instances where the file size is small, or quality cannot afford to be compromised.
