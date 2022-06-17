@@ -752,6 +752,7 @@
 "ranked_score":                "Gameplay/Score/Ranked_score"
 "level":                       "Gameplay/Score/Total_score#level"
 
+"gameplay/score/scorev1":      "Gameplay/Score#scoreV1"
 "gameplay/score/osu!"          "Gameplay/Score/ScoreV1/osu!"
 "gameplay/score/osu!taiko"     "Gameplay/Score/ScoreV1/osu!taiko"
 "gameplay/score/osu!catch"     "Gameplay/Score/ScoreV1/osu!catch"
