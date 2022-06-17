@@ -153,8 +153,8 @@ If you satisfy the above criteria, you may make a request for main-menu banner s
 
 - The submitted file must be a **PNG**.
 - Width must be no larger than **1000px**. Using smaller widths is fine.
-- Height must always be **180px**. Smaller values are NOT fine.
-- All banner images will be treated as `2x`, meaning that they will be exported at 50% scale by us into a `1x` image. Design your images appropriately to ensure things are legible at half size. Users will see either image depending on their chosen client resolution.
+- Height must always be **180px**. Other values are NOT fine.
+- All banner images will be treated as `2x`, meaning that they will be exported at 50% scale into a `1x` image. Design your images appropriately to ensure things are legible at half size. Users will see either image depending on their chosen client resolution.
 - It must clearly display the logo, motif, AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - It must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 - It must not include any sort of sponsorship or promote anything besides the tournament.
