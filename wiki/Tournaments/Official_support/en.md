@@ -161,9 +161,7 @@ If you satisfy the above criteria, you may make a request for main-menu banner s
 - It must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 - It must not include any sort of sponsorship or promote anything besides the tournament.
 
-You may find the following template helpful:
-
-![](https://assets.ppy.sh/media/mainmenu_template.png)
+[Download a template image for main menu banners here.](https://assets.ppy.sh/media/mainmenu_template.png)
 
 Please consult the following examples of acceptable banner designs:
 
