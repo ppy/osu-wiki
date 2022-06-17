@@ -13,7 +13,7 @@ tags:
 
 Flow is considered a **subjective** and often opinionated matter due to how different mappers and players design or perceive movement. Some aspects of flow may impact gameplay to different degrees depending on the player's [input device](/wiki/Gameplay/Input_device), such as [graphics tablet](/wiki/Gameplay/Input_device/Graphics_tablet) or [mouse](/wiki/Gameplay/Input_device/Mouse), or the player's acquired skill or experience.
 
-The opposite of flow is called [antiflow](/wiki/Beatmapping/Antiflow), which conversely involves unintuitive or unnatural movement patterns.
+The opposite of flow is called [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow), which conversely involves unintuitive or unnatural movement patterns.
 
 ## Key components
 
@@ -31,7 +31,7 @@ Another form of natural movement is repetition. Patterns with similar repeated m
 
 ### Visual implications
 
-To further make a beatmap look and feel more natural, mappers may use sliders with different shapes that reinforce suggested direction of movement. Since slider bodies do not need to be followed perfectly, because the cursor only needs to reach the [slider ticks](/wiki/Beatmapping/Slider_tick), they may be adjusted and bent in lots of ways without affecting the movement required to clear them. This allows slider shapes to complement an existing movement trajectory, or help the player pick up a new movement trajectory.
+To further make a beatmap look and feel more natural, mappers may use sliders with different shapes that reinforce suggested direction of movement. Since slider bodies do not need to be followed perfectly, because the cursor only needs to reach the [slider ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick), they may be adjusted and bent in lots of ways without affecting the movement required to clear them. This allows slider shapes to complement an existing movement trajectory, or help the player pick up a new movement trajectory.
 
 ## Application
 

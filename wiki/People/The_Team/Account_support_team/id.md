@@ -26,7 +26,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
   - penghapusan beatmap;
   - penghapusan postingan dan komentar di forum.
 - Perilaku buruk yang [ingin kamu akui](/wiki/Reporting_bad_behaviour/Handling_foul_play#bagaimana-cara-saya-mengajukan-sebuah-pelepasan-status-banned?).
-- [Kehilangan akses ke email](/wiki/Help_centre/Installation_and_registration#sign-in) yang terhubung dengan akun osu! kamu, atau saat akun kamu dicuri.
+- [Kehilangan akses ke email](/wiki/Help_centre/Account#proses-login) yang terhubung dengan akun osu! kamu, atau saat akun kamu dicuri.
 - [Mengembalikan nama pengguna menjadi yang sebelumnya dan sedikit koreksi ejaan pada nama pengguna](/wiki/Help_centre/Account#penggantian-nama-pengguna).
 - [Pendaftaran akun bot](/wiki/Bot_account).
 
@@ -37,7 +37,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 - Kekhawatiran terhadap perilaku buruk dari seorang moderator.
 - Kekhawatiran terhadap seorang moderator yang melanggar [Kode Etik Kontributor](/wiki/Contributor_Code_of_Conduct).
 - [Masalah pembayaran](/wiki/Help_centre/Account#supporter) terhadap pesanan dari [osu!store](https://osu.ppy.sh/store/listing).
-- Masalah teknis yang tidak dapat atau belum diselesaikan di [forum Help](https://osu.ppy.sh/community/forums/5), termasuk [masalah konektivitas](/wiki/Help_centre/Client#fitur-fitur-*online*).
+- Masalah teknis yang tidak dapat atau belum diselesaikan di [forum Help](https://osu.ppy.sh/community/forums/5), termasuk [masalah konektivitas](/wiki/Help_centre/Client#fitur-fitur-online).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

@@ -31,6 +31,6 @@ Die Spiele werden folgendermaßen bezeichnet:
 
 ![](img/Elite-Beat-Agents.jpg "Verpackung für Elite Beat Agents")
 
-***[Elite Beat Agents](https://de.wikipedia.org/wiki/Elite_Beat_Agents)*** ist eine westliche Forstsetzung von *Osu! Tatakae! Ouendan!*, die in 2006 veröffentlicht wurde. Einige der Charaktere waren als osu!-Maskottchen in offiziellen Kunstwerken und Skins vorhanden.
+***[Elite Beat Agents](https://de.wikipedia.org/wiki/Elite_Beat_Agents)*** ist eine westliche Fortsetzung von *Osu! Tatakae! Ouendan!*, die in 2006 veröffentlicht wurde. Einige der Charaktere waren als osu!-Maskottchen in offiziellen Kunstwerken und Skins vorhanden.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australien"

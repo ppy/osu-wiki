@@ -43,9 +43,7 @@ tags:
 
 ## 我是osu!supporter，但我没有10个谱面槽位！
 
-**你拥有的可用谱面槽位取决于你的 ranked 谱面数量**
-
-每个玩家初始拥有 4 个 pending 槽位。每拥有一张 ranked 谱面，将会额外增加 1 个槽位，最多通过此方法获得 2 个槽位。成为 supporter 可以获得额外 4 个槽位，而他们通过 ranked 谱面可获得的槽位将变为 4 个。
+**你拥有的可用谱面槽位取决于你的 ranked 谱面数量。参见：[osu!supporter § 提高限额](/wiki/osu!supporter#提高限额)。
 
 ## 如何删除我的谱面？
 
