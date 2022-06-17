@@ -799,14 +799,14 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 
 Les notes de bas de page sont de courtes notes situées à la fin de la page. Elles sont utilisées pour citer des sources ou fournir des informations d'arrière-plan qui, autrement, perturberaient le contenu de l'article. Les notes de bas de page peuvent contenir du texte mis en forme et des liens.
 
-Dans l'osu! wiki, les notes de bas de page sont implémentées en utilisant une syntaxe spéciale (`[^identifier]`). Les notes de bas de page peuvent utiliser n'importe quel identifiant, mais elles seront automatiquement rendues en exposant avec des numéros croissants dans l'ordre de leur première apparition. Les notes de bas de page elles-mêmes doivent être placées dans un titre de second niveau distinct à la fin de l'article. Selon le contenu, le titre utilisé peut être "Références", "Notes" ou "Notes et références".
+Dans l'osu! wiki, les notes de bas de page sont implémentées en utilisant une syntaxe spéciale (`[^identifiant]`). Les notes de bas de page peuvent utiliser n'importe quel identifiant, mais elles seront automatiquement rendues en exposant avec des numéros croissants dans l'ordre de leur première apparition. Les notes de bas de page elles-mêmes doivent être placées dans un titre de second niveau distinct à la fin de l'article. Selon le contenu, le titre utilisé peut être "Références", "Notes" ou "Notes et références".
 
 Les notes de bas de page sont placées directement après les mots, expressions ou phrases qu'elles expliquent, sans espace entre elles. Ces références doivent être placées après la ponctuation, à l'exception des parenthèses, lorsqu'elles se rapportent au contenu, et des tirets.
 
 Exemples d'utilisation correcte :
 
 ```markdown
-L'osu! wiki est un projet destiné à remplacer l'ancien système de FAQ[^wiki-faq]. Il a été nommé d'après le jeu de rythme osu![^osu] et la plus grande encyclopédie en ligne ouverte, Wikipédia. Dès le début, il a attiré des traducteurs[^wiki-tl] et des rédacteurs compétents.
+L'osu! wiki est un projet destiné à remplacer l'ancien système de FAQ.[^wiki-faq] Il a été nommé d'après le jeu de rythme osu![^osu] et la plus grande encyclopédie en ligne ouverte, Wikipédia. Dès le début, il a attiré des traducteurs[^wiki-tl] et des rédacteurs compétents.
 
 ## Références
 
@@ -822,7 +822,7 @@ Les citations, ou références, sont utilisées pour identifier une source d'inf
 Exemple :
 
 ```markdown
-La première version de l'osu!api a été mise à disposition le 2 juillet 2013[^api-first-usage] Elle avait été saluée par la critique des utilisateurs[^api-praise].
+La première version de l'osu!api a été mise à disposition le 2 juillet 2013[^api-first-usage] Elle avait été saluée par la critique des utilisateurs.[^api-praise]
 
 ## Références
 
@@ -837,7 +837,7 @@ Les notes de bas de page peuvent être utilisées pour stocker des explications 
 Exemple : 
 
 ```markdown
-Un tournoi ne doit pas être organisé et dirigé par une équipe inexpérimentée composée de staff non accompli et sans réputation [^staff].
+Un tournoi ne doit pas être organisé et dirigé par une équipe inexpérimentée composée de staff non accompli et sans réputation.[^staff]
 
 ## Notes
 
