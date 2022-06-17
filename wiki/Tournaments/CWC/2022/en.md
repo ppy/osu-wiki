@@ -105,24 +105,53 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | France | ![][flag_FR] | ![][flag_DE] | Germany | Jun 18 (Sat) 15:00 UTC | Jun 18 (Sat) 17:00 UTC+2 | Jun 18 (Sat) 17:00 UTC+2 | [^losers-bracket] |
 | Mexico | ![][flag_MX] | ![][flag_IT] | Italy | Jun 18 (Sat) 17:00 UTC | Jun 18 (Sat) 12:00 UTC-5 | Jun 18 (Sat) 19:00 UTC+2 | [^losers-bracket] |
 | Chile | ![][flag_CL] | ![][flag_RU] | Russian Federation | Jun 18 (Sat) 19:00 UTC | Jun 18 (Sat) 15:00 UTC-4 | Jun 18 (Sat) 22:00 UTC+3 | [^losers-bracket] |
+| Canada | ![][flag_CA] | ![][flag_AU] | Australia | Jun 18 (Sat) 23:00 UTC | Jun 18 (Sat) 18:00 UTC-5 | Jun 19 (Sun) 09:00 UTC+10 | [^losers-bracket] |
 
 ### Sunday, June 19, 2022
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_AU] | Australia | Jun 19 (Sun) 02:00 UTC | Jun 18 (Sat) 21:00 UTC-5 | Jun 19 (Sun) 12:00 UTC+10 | [^losers-bracket] |
 | Australia | ![][flag_AU] | ![][flag_MX] | Mexico | Jun 19 (Sun) 04:00 UTC | Jun 19 (Sun) 14:00 UTC+10 | Jun 18 (Sat) 23:00 UTC-5 | [^potential-match] |
-| China | ![][flag_CN] | ![][flag_ID] | Indonesia | Jun 19 (Sun) 10:00 UTC | Jun 19 (Sun) 18:00 UTC+8 | Jun 19 (Sun) 17:00 UTC+7 | [^winners-bracket] |
+| China | ![][flag_CN] | ![][flag_ID] | Indonesia | Jun 19 (Sun) 07:00 UTC | Jun 19 (Sun) 15:00 UTC+8 | Jun 19 (Sun) 14:00 UTC+7 | [^winners-bracket] |
 | Australia | ![][flag_AU] | ![][flag_IT] | Italy | Jun 19 (Sun) 12:00 UTC | Jun 19 (Sun) 22:00 UTC+10 | Jun 19 (Sun) 14:00 UTC+2 | [^potential-match] |
 | South Korea | ![][flag_KR] | ![][flag_US] | United States | Jun 19 (Sun) 14:00 UTC | Jun 19 (Sun) 23:00 UTC+9 | Jun 19 (Sun) 09:00 UTC-5 | [^winners-bracket] |
+| Russian Federation | ![][flag_RU] | ![][flag_FR] | France | Jun 19 (Sun) 16:00 UTC | Jun 19 (Sun) 19:00 UTC+3 | Jun 19 (Sun) 18:00 UTC+2 | [^potential-match] |
+| Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | Jun 19 (Sun) 16:00 UTC | Jun 19 (Sun) 19:00 UTC+3 | Jun 19 (Sun) 18:00 UTC+2 | [^potential-match] |
 | Canada | ![][flag_CA] | ![][flag_MX] | Mexico | Jun 19 (Sun) 18:00 UTC | Jun 19 (Sun) 13:00 UTC-5 | Jun 19 (Sun) 13:00 UTC-5 | [^potential-match] |
-| Canada | ![][flag_CA] | ![][flag_IT] | Italy | Jun 19 (Sun) 18:00 UTC | Jun 19 (Sun) 13:00 UTC-5 | Jun 19 (Sun) 20:00 UTC+2 | [^potential-match] |
+| Canada | ![][flag_CA] | ![][flag_IT] | Italy | Jun 19 (Sun) 19:00 UTC | Jun 19 (Sun) 14:00 UTC-5 | Jun 19 (Sun) 21:00 UTC+2 | [^potential-match] |
 | Chile | ![][flag_CL] | ![][flag_FR] | France | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 16:00 UTC-4 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
 | Chile | ![][flag_CL] | ![][flag_DE] | Germany | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 16:00 UTC-4 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
-| Russian Federation | ![][flag_RU] | ![][flag_FR] | France | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 23:00 UTC+3 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
-| Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 23:00 UTC+3 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here (144 MB)](https://drive.google.com/uc?id=17LYea7HNSBgsMfHBc9t5D9Fc5ODOHYaN)**
+
+- NoMod
+  1. [goreshit - broken promises/scattered dreams (Rocma) \[team south korea's overdose\]](https://osu.ppy.sh/beatmapsets/1265151#fruits/2629359)
+  2. [DJ Noriken vs. MASAKI - QiXiN MAdN3ss 2153 (Jemzuu) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/1784525#fruits/3654761)
+  3. [Culprate - Beast (Vorso Remix) (Mir) \[Hunted\]](https://osu.ppy.sh/beatmapsets/1552826#fruits/3172759)
+  4. [nameless - Toumei Elegy (Sotarks) \[Boundless Tragedy\]](https://osu.ppy.sh/beatmapsets/723730#fruits/1527884)
+- Hidden
+  1. [Rigel Theatre - Rinn Ding Dong (Cut Ver.) (F D Flourite) \[Ri Di Do\]](https://osu.ppy.sh/beatmapsets/1784443#fruits/3654622)
+  2. [Igorrr - Cheval (JierYagtama) \[Chivalry\]](https://osu.ppy.sh/beatmapsets/1784726#fruits/3655311)
+  3. [L.E.D.-G - SOUND OF GIALLARHORN (Flask) \[Ready for Takeoff\]](https://osu.ppy.sh/beatmapsets/1543402#fruits/3154808)
+- Hard Rock
+  1. [t+pazolite & Camellia feat. Nanahira - Boku no Yume, Mecha Kuso Mugen Waki (Verti) \[MECHA MECHA MECHA\]](https://osu.ppy.sh/beatmapsets/1784454#fruits/3654640)
+  2. [HiTECH NINJA - Dolphika (Nosuri) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1784557#fruits/3654830)
+  3. [MY FIRST STORY - Smash Out!! (FCL) \[Extreme\]](https://osu.ppy.sh/beatmapsets/478289#fruits/1090928)
+- Double Time
+  1. [Lovejoy - Sex Sells (Crowley) \[loved yet lonely\]](https://osu.ppy.sh/beatmapsets/1467467#fruits/3013531)
+  2. [Ardolf - Chromatic (autofanboy) \[Dynamicity\]](https://osu.ppy.sh/beatmapsets/1784544#fruits/3654803)
+  3. [Shikata Akiko - Katayoku no Tori (IceKalt) \[Rio & Ice's Insane\]](https://osu.ppy.sh/beatmapsets/622500#fruits/1361543)
+  4. [amazarashi - Sayonara Gokko (Kalibe) \[farewell\]](https://osu.ppy.sh/beatmapsets/932454#fruits/1946856)
+- Mixed Mod
+  1. [Monster Siren - MSR / Tooyama Akitaka - Fading Sky (Yumeno Himiko) \[From Darkness (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/1784493#fruits/3654710)
+  2. [Plum - Mad Piano Party (-Ken) \[Etude\]](https://osu.ppy.sh/beatmapsets/1784465#fruits/3654658)
+  3. [Carpool Tunnel - Afterlight (\_Epreus) \[Expert\]](https://osu.ppy.sh/beatmapsets/1001546#fruits/2096611)
+- Tiebreaker
+  1. **[LeaF - Evanescent (extended ver.) (Bunnrei) \[Rei & Ascendance's Abstraction\]](https://osu.ppy.sh/beatmapsets/1784479#fruits/3654684)**
 
 ### Quarterfinals
 

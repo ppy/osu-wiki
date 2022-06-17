@@ -1,4 +1,3 @@
-outdated_translation: true # missing languages.be and languages.uk
 separator: ", "
 alumni:
   roles:
@@ -32,6 +31,7 @@ languages:
   partial: etwas <language>
   ar: Arabisch
   bg: Bulgarisch
+  be: Belarussisch
   bn: Bengalisch
   ca: Katalanisch
   da: Dänisch
@@ -63,6 +63,7 @@ languages:
   th: Thailändisch
   tr: Türkisch
   ur: Urdu
+  uk: Ukrainisch
   vi: Vietnamesisch
   yue: Kantonesisch
   zh: Chinesisch
