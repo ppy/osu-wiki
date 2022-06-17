@@ -227,7 +227,7 @@ Sunday, 11 April 2021:
 
 | Players | Score | Outcome |
 | --: | :-: | :-- |
-| ![][flag_GB] Kingling | 4 |  |
+| ![][flag_GB] **Kingling** | **4** |  |
 | ![][flag_GB] Voss | 0 |  |
 | ![][flag_GB] Kerantina | 0 | *Kerantina was eliminated* |
 
@@ -329,7 +329,7 @@ Sunday, 14 March 2021:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **LilyFlower** ![][flag_PH] | **4** | **4** | ![][flag_IE] **Ophiz** | [#1](https://osu.ppy.sh/community/matches/78070911) |  |
 | **Jemzsee** ![][flag_GB] | **6** | 2 | ![][flag_GB] Rinnu | [#1](https://osu.ppy.sh/community/matches/78072127) |  |
-| Kerantina ![][flag_GB] | 2 | 0 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/78067602) | *Defex was eliminated* |
+| **Kerantina** ![][flag_GB] | **2** | 0 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/78067602) | *Defex was eliminated* |
 | **Kingling** ![][flag_GB] | **7** | 1 | ![][flag_GB] Zyphox | [#1](https://osu.ppy.sh/community/matches/78063802) |  |
 | **Chemistry** ![][flag_GB] | **4** | **4** | ![][flag_GB] **Mahmood** | [#1](https://osu.ppy.sh/community/matches/78055764) |  |
 | **Voss** ![][flag_GB] | **0** | -1 | ![][flag_GB] idealnettles | *forfeit* | *idealnettles was eliminated* |
