@@ -258,6 +258,6 @@ Notez que c'est actuellement le seul moyen de sauvegarder un replay qui continue
 ![](img/Replay_preview_result.jpg "Exemple d'écran de résultat d'une partie fictive")
 
 En fonction de l'intervalle de temps aléatoire sélectionné, il peut commencer à la *fin de la musique* sans aucun objet, ce qui conduit directement à l'écran des résultats avec 0 score, 0 combo, 0x hit bursts, une note D, aucun graphique de performance et une précision de 100,00%.
-En regardant le replay, le drain de santé fonctionnera comme d'habitude, pas de mouvement du curseur, et *pas de miss* (donc 100.00% de précision) jusqu'au moment où le temps de `Preview Gameplay` a été réglé sur run, où les hit bursts commenceront à fonctionner.
+En regardant le replay, le drain de santé fonctionnera comme d'habitude, pas de mouvement du curseur, et *pas de miss* (donc 100,00% de précision) jusqu'au moment où le temps de `Preview Gameplay` a été réglé sur run, où les hit bursts commenceront à fonctionner.
 
 Comme Auto ne peut pas échouer, une barre de santé vide n'a aucun effet sur Auto. Cependant, pour osu!taiko, si Auto ne peut pas remplir la barre de santé à 50% ou plus, le replay sera bloqué dans une *boucle infinie*.
