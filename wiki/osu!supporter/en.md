@@ -85,7 +85,7 @@ osu! offers more relaxed limits on various online features to supporters:
 
 | Value | Regular limit | osu!supporter limit |
 | :-- | :-: | :-: |
-| [Pending beatmaps](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(ranked beatmaps, 2)` | `8 + min(ranked beatmaps, 4)` |
+| [Pending beatmaps](/wiki/Beatmap/Category#work-in-progress-and-pending) | `2 + min(ranked beatmaps, 6)`, up to **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, up to **20**[^pending-beatmaps-ref] |
 | Online beatmap favourites | 100 | 1000 |
 | Friend count | 250 | 500 |
 
@@ -150,3 +150,7 @@ After the transaction is completed, there will be a new event in the `Recent Act
 - `{username} has received the gift of osu!supporter!` in case the tag was gifted.
 
 Additionally, both the giver and the recipient will receive e-mail notifications mentioning the purchase.
+
+## References
+
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)

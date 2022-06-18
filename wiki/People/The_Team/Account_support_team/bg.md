@@ -30,7 +30,7 @@ no_native_review: true
   - изтрит бийтмап;
   - изтрит коментар или публикация от форум.
 - Случаи на лошо поведение за които [желаете да признаете](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?).
-- [Загубен достъп до имейла](/wiki/Help_centre/Installation_and_registration#sign-in) свързан към osu! профил, или при откраднат профил.
+- [Загубен достъп до имейла](/wiki/Help_centre/Account#sign-in) свързан към osu! профил, или при откраднат профил.
 - [Правописни корекции и връщане](/wiki/Help_centre/Account#name-changes) на променено потребителско име.
 - [Регистриране на бот профил](/wiki/Bot_account).
 

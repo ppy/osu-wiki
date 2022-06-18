@@ -85,8 +85,6 @@ NAT държи потенциалните NAT членове в списъка �
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Арабски, Френски | Оценка |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Оценка |
 
-<!-- last update: 2021-11-06 04:00 added Capu and radar to osu!taiko, removed Agatsu and Kibbleru from osu! -->
-
 [flag_BE]: /wiki/shared/flag/BE.gif "Белгия"
 [flag_CL]: /wiki/shared/flag/CL.gif "Чили"
 [flag_DE]: /wiki/shared/flag/DE.gif "Германия"

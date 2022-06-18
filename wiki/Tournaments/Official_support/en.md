@@ -152,11 +152,14 @@ Long-running community tournaments may qualify for in-game main-menu banner supp
 If you satisfy the above criteria, you may make a request for main-menu banner support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). The banner image must adhere to the following standards:
 
 - The submitted file must be a **PNG**.
-- The dimensions must be **1500x256px**.
-  - All banner images will be treated as `2x`, meaning that they will be exported at 50% scale by us into a `1x` image. Design your images appropriately to ensure things are legible at half size.
+- Width must be no larger than **1000px**. Using smaller widths is fine.
+- Height must always be **180px**. Other values are NOT fine.
+- All banner images will be treated as `2x`, meaning that they will be exported at 50% scale into a `1x` image. Design your images appropriately to ensure things are legible at half size. Users will see either image depending on their chosen client resolution.
 - It must clearly display the logo, motif, AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - It must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 - It must not include any sort of sponsorship or promote anything besides the tournament.
+
+[Download a template image for main menu banners here.](https://assets.ppy.sh/media/mainmenu_template.png)
 
 Please consult the following examples of acceptable banner designs:
 

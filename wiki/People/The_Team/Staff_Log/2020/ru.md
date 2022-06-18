@@ -450,5 +450,3 @@
 - 2020-10-20: Исключение [Roger](https://osu.ppy.sh/users/1538223) из **BN**
 - 2020-10-21: Исключение [tasuke912](https://osu.ppy.sh/users/2774767) из **BN**
 - 2020-10-21: Исключение [Muse Dash](https://osu.ppy.sh/users/13695676) из **BN**
-
-<!-- last update: 2020-10-22 21 UTC added krisom to probationary bn -->

@@ -76,7 +76,7 @@ osu!direct 是供支持者使用的游戏内谱面搜索和下载引擎。可以
 
 ### 额外排行榜
 
-支持者们可以在游戏或网页中访问若干个特殊的谱面[排行榜](/wiki/Beatmap#leaderboards)：
+支持者们可以在游戏或网页中访问若干个特殊的谱面[排行榜](/wiki/Beatmap#排行榜)：
 
 - 按 [Mod](/wiki/Game_modifier) 组合筛选的全球排行榜
 - 国内/区内排行榜
@@ -88,7 +88,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 
 | 功能 | 普通玩家限额 | 支持者限额 |
 | :-- | :-: | :-: |
-| [Pending 谱面](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(Ranked 谱面, 2)` | `8 + min(Ranked 谱面, 4)` |
+| [Pending 谱面](/wiki/Beatmap/Category#work-in-progress-和-pending) | `2 + min(Ranked 谱面, 6)`最多 **8** 个[^pending-beatmaps-ref] | `8 + min(Ranked 谱面, 12)`最多 **20** 个[^pending-beatmaps-ref] |
 | 在线收藏的谱面 | 100 | 1000 |
 | 好友数量 | 250 | 500 |
 
@@ -153,3 +153,7 @@ osu! 支持者标签可以赠送给其他玩家，在玩家名片下的灰色方
 - 如果被赠送了支持者标签：`{用户名} 收到了匿名玩家赠送的 osu! 支持者标签！`
 
 此外，收发双方都会收到一封关于购买标签的电子邮件。
+
+## 参考
+
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
