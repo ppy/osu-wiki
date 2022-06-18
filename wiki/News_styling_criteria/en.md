@@ -20,7 +20,7 @@ What this register entails depends on the focus and tone of your article, but it
 
 ## Writing standards
 
-All news articles must be written with a few key concepts in mind—conciseness, audience, and presentation.
+All news articles must be written with a few key concepts in mind — conciseness, audience, and presentation.
 
 ### Conciseness
 
@@ -30,7 +30,7 @@ Provide links to in-depth resources instead of referencing them directly in-text
 
 ### Audience
 
-osu!'s chief audience is mainly teenagers and young adults, though we are an all-ages community. Consider the attention span of said demographic—conciseness ties in very closely to this.
+osu!'s chief audience is mainly teenagers and young adults, though we are an all-ages community. Consider the attention span of said demographic — conciseness ties in very closely to this.
 
 Consider well what you write within your article and whether it would interest the community at large enough to warrant including it.
 

@@ -159,7 +159,7 @@ becomes
 
 `_M,0,1000,,320,240,320,240`
 
-Please note the blank space in the endtime field—this is **required**.
+Please note the blank space in the endtime field — this is **required**.
 
 ***shorthand3***: This notation can be used when the start and end values of the event are the same.
 
