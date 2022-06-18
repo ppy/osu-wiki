@@ -19,7 +19,7 @@
 - A hit circle is judged as a 300, 100, or 50 depending on how accurate the player's timing is when clicking on it.
   The time intervals used to determine the concrete result for a hit circle are called *hit windows*, and are influenced by the beatmap's [overall difficulty](/wiki/Beatmap/Overall_difficulty#osu!).
 - A hit circle is judged as missed when:
-  - The circle before the start of the 50 hit window and does not trigger [notelock](/wiki/Gameplay/Judgement/Notelock).
+  - The circle is hit before the start of the 50 hit window and does not trigger [notelock](/wiki/Gameplay/Judgement/Notelock).
   - The circle is hit after the end of the 50 hit window, or not hit at all.
 
 ### Sliders
