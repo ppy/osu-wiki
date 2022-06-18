@@ -14,10 +14,10 @@ ScoreV1 is the colloquial name for the original, default scoring system in osu!.
 
 For detailed descriptions of how ScoreV1 works in each game mode, see:
 
-- [ScoreV1/osu!](osu!)
-- [ScoreV1/osu!taiko](osu!taiko)
-- [ScoreV1/osu!catch](osu!catch)
-- [ScoreV1/osu!mania](osu!mania)
+- [osu!](ScoreV1/osu!)
+- [osu!taiko](ScoreV1/osu!taiko)
+- [osu!catch](ScoreV1/osu!catch)
+- [osu!mania](ScoreV1/osu!mania)
 
 ## ScoreV2
 
