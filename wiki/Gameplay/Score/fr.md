@@ -1,3 +1,8 @@
+---
+outdated_since: 434116137cc02ba495d7201f9a2dc1dd74056f13
+outdated_translation: true
+---
+
 # Score
 
 *Pour d'autres utilisations, voir [Score (désambiguïsation)](/wiki/Disambiguation/Score).*\
