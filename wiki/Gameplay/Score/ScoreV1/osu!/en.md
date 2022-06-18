@@ -7,7 +7,7 @@ However, the total score is a simple sum of points awarded for each individual o
 
 The rules for scoring each individual object type are outlined in the sections below.
 
-### Hit circles
+## Hit circles
 
 Each hit circle is assigned a numerical point value using the formula below:
 
@@ -15,12 +15,12 @@ Each hit circle is assigned a numerical point value using the formula below:
 
 where:
 
-* The *hit value* is the numerical value of the hit circle judgement (50, 100, or 300).
-* The *combo multiplier* is equal to (combo before this hit - 1) or 0, whichever is higher.
-* The *difficulty multiplier* is a value specific to the beatmap being played. The exact formula to compute it is given in the next subsection.
-* The *mod multiplier* is the total multiplier of the set of active mods.
+- The *hit value* is the numerical value of the hit circle judgement (50, 100, or 300).
+- The *combo multiplier* is equal to (combo before this hit - 1) or 0, whichever is higher.
+- The *difficulty multiplier* is a value specific to the beatmap being played. The exact formula to compute it is given in the next subsection.
+- The *mod multiplier* is the total multiplier of the set of active mods.
 
-#### Difficulty multiplier
+### Difficulty multiplier
 
 The **difficulty multiplier** is equal to an older version of star rating for the beatmap being played. It can be calculated via the following formula:
 
@@ -28,7 +28,7 @@ The **difficulty multiplier** is equal to an older version of star rating for th
 
 Note that game modifiers (like Hard Rock or Easy, which change circle size, for instance) do not affect the difficulty multiplier, as the original values of the variables are always used in the formula above regardless of which mods are enabled.
 
-### Sliders
+## Sliders
 
 Each slider as a whole produces a 50, 100, or 300 judgement, based on the proportion of slider ticks hit. This judgement is converted to a score value using the same method that hit circles use.
 
@@ -39,7 +39,7 @@ Additionally, elements of the slider grant score in an independent fashion:
 
 The point values above are not affected by any bonuses or multipliers.
 
-### Spinners
+## Spinners
 
 Each spinner as a whole produces a 50, 100, or 300 judgement, based on the ratio of rotations performed to rotations required to complete the spinner. This judgement is converted to a score value using the same method that hit circles use.
 
