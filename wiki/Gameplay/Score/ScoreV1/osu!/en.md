@@ -11,7 +11,7 @@ The rules for scoring each individual object type are outlined in the sections b
 
 Each hit circle is assigned a numerical point value using the formula below:
 
-`Score = Hit value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)`
+`Score = Hit value * (1 + (Combo multiplier * Difficulty multiplier * Mod multiplier / 25))`
 
 where:
 
