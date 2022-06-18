@@ -47,7 +47,7 @@ However, this effect is insignificant in most cases because each hit in a denden
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), the Hard Rock mod has several effects. In addition to making the player character and fruits smaller and increasing how fast they fall, this mod can cause ordinary fruits to veer slightly to the left or right of where they were placed on the screen. This change requires players to make more chaotic movements and to use hyperdashes more frequently, which can also increase difficulty.
+In [osu!catch](/wiki/Game_mode/osu!catch), the Hard Rock mod has several effects. In addition to making the catcher and fruits smaller and increasing how fast they fall, this mod can cause ordinary fruits to veer slightly to the left or right from their normal position. This change requires players to make more chaotic movements and to use hyperdashes more frequently, which can also increase difficulty.
 
 Due to this much larger spike in difficulty compared to other [game modes](/wiki/Game_mode), the Hard Rock mod is worth 1.12x multiplier as opposed to 1.06x on all other game modes.
 
