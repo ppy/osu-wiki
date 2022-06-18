@@ -30,12 +30,12 @@ Note that game modifiers (like Hard Rock or Easy, which change circle size, for 
 
 ## Sliders
 
-Each slider as a whole produces a 50, 100, or 300 judgement, based on the proportion of slider parts (namely, the slider head, slider end, slider ticks, and slider repeats) hit. This judgement is converted to a score value using the same method that hit circles use.
+Each slider as a whole produces a 50, 100, or 300 judgement, based on the proportion of slider parts (namely, the slider head, slider tail, slider ticks, and slider repeats) hit. This judgement is converted to a score value using the same method that hit circles use.
 
 Additionally, elements of the slider grant score in an independent fashion:
 
 - Each slider tick hit grants 10 points.
-- Each slider repeat or slider end hit grants 30 points.
+- Each slider repeat or slider tail hit grants 30 points.
 
 The point values above are not affected by any bonuses or multipliers.
 
