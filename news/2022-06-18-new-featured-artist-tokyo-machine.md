@@ -12,7 +12,7 @@ One of EDM's most distinct creators, **Tokyo Machine** raises the bar with an ex
 
 Start mapping any of these **9** mind-blowing tunes from [**Tokyo Machine**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/276). That's a command, by the way.
 
-**Tokyo Machine** has been loved on osu! since the day he was introduced — almost literally. Witness this play of [OKAY](https://osu.ppy.sh/beatmapsets/508998), one of the first maps to enter the Loved category), then poke through the rest of these epic songs:
+**Tokyo Machine** has been loved on osu! since the day he was introduced — almost literally. Witness this play of [OKAY](https://osu.ppy.sh/beatmapsets/508998), one of the first maps to enter the Loved category, then poke through the rest of these epic songs:
 
 <div align="center">
     <video width="100%" controls>
