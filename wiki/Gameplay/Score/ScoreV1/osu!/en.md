@@ -2,8 +2,7 @@
 
 *See also: [osu! judgement system](/wiki/Gameplay/Judgement/osu!)*
 
-In **ScoreV1**, each of the object types in osu! is scored slightly differently.
-However, the total score is a simple sum of points awarded for each individual object in the beatmap.
+In **ScoreV1**, each of the object types in osu! is scored slightly differently. However, the total score is a simple sum of points awarded for each individual object in the beatmap.
 
 The rules for scoring each individual object type are outlined in the sections below.
 
