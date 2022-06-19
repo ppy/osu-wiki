@@ -12,8 +12,7 @@ Cela prend habituellement quelques jours avant que l'équipe prête attention à
 
 ## Rôle et tâches
 
-*Page principale : [Centre d'aide](/wiki/Help_centre)*
-
+*Page principale : [Centre d'aide](/wiki/Help_centre)*\
 *Voir également : [Restriction de comptes](/wiki/Help_centre/Account_restrictions)*
 
 Vous devriez contacter cette équipe pour les sujets concernant votre compte qui sont hors de votre contrôle. Veuillez fournir le plus de détails possible sur votre problème et envoyer un mail à l'adresse associée à votre problème.

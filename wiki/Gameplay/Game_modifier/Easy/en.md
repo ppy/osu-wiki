@@ -11,8 +11,7 @@ tags:
 
 ![EZ mod icon](/wiki/shared/mods/EZ.png "Easy (EZ) mod icon")
 
-*For other uses, see [Easy (disambiguation)](/wiki/Disambiguation/Easy).*
-
+*For other uses, see [Easy (disambiguation)](/wiki/Disambiguation/Easy).*\
 *For the full list of all mods, see: [Game modifier](/wiki/Game_modifier)*
 
 ## About

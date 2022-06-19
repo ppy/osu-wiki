@@ -19,8 +19,7 @@ tags:
 
 # osu!store et marchandises
 
-*Page principale : [Centre d'aide](/wiki/Help_centre)*
-
+*Page principale : [Centre d'aide](/wiki/Help_centre)*\
 *Note : Ces produits ne sont plus disponibles à la vente dans la boutique osu!store.*
 
 Vous avez un problème avec un produit du osu!store ? Vérifiez s'il existe une solution à votre problème !

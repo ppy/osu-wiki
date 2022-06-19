@@ -338,8 +338,7 @@ Headings must not exceed a heading level of 5 and must not be used to style or f
 
 ### Titles
 
-*See also: [Article naming](#article-naming)*
-
+*See also: [Article naming](#article-naming)*\
 *Caution: Titles are parsed as plain text; they must not be escaped.*
 
 The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Titles must not contain formatting, links, or images.
