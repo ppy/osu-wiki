@@ -24,12 +24,12 @@
 
 ### Sliders
 
-Sliders consist of parts such as the slider head, slider tail, slider ticks, and slider repeats. The slider as a whole is judged based on how many parts of the slider the player has hit.
+Sliders consist of parts such as the slider head, slider tail, slider ticks, and slider repeats. The slider as a whole is judged based on how many parts of the slider the player has hit, as outlined below:
 
-- A 300 is given if the player successfully hits all slider parts.
-- A 100 is given if the player hits at least half of them.
-- A 50 is given if the player manages to hit at least one of the parts.
-- A miss is given if the player does not successfully hit any of the slider parts.
+- 300: The player successfully hit all slider parts.
+- 100: The player hit at least half of the slider parts.
+- 50: The player managed to hit at least one of the parts.
+- Miss: The player did not successfully hit any of the slider parts.
 - If [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) is active, the accuracy of hitting the slider head is additionally accounted for when judging the entire slider:
   - Getting a 300 for a slider requires getting a 300 judgement for the slider head.
   - Getting a 100 for a slider requires getting a 100 judgement or better for the slider head.
@@ -42,12 +42,12 @@ The slider parts also have additional influence on the current [combo](/wiki/Gam
 
 ### Spinners
 
-Each spinner has a set number of spins required to complete it. This number depends on the [overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) of the beatmap.
+Each spinner has a set number of spins required to complete it. This number depends on the [overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) of the beatmap. The criteria for judging the spinner as a whole are as follows:
 
-- A 300 is given if the player completes the number of spins required for completion, or more.
-- A 100 is given if the player completes one spin less than the required number.
-- A 50 is given if the player completes at least 25% of the required spins.
-- If the player fails to meet the minimum of 25% of spins required, the spinner is judged as a miss.
+- 300: The player completed the number of spins required for completion, or more.
+- 100: The player completed one spin less than the required number.
+- 50: The player completed at least 25% of the required spins.
+- Miss: The player failed to meet the minimum of 25% of spins required.
 
 For some very short spinners, the number of spins required is actually calculated to be 0, and thus the spinner always automatically completes itself with a 300.
 
