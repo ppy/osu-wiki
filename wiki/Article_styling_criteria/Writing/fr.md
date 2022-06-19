@@ -334,7 +334,7 @@ Par extension, les [mises en valeur](/wiki/Article_styling_criteria/Formatting#m
 
 ### Bloc de citation
 
-Lorsque vous citez le texte de quelqu'un, précisez la personne citée après la [citation en bloc](/wiki/Article_styling_criteria/Formatting#citations-en-bloc) avec un tiret (`-`). Si la citation originale provient d'une source non anglophone, précisez-la entre parenthèses.
+Lorsque vous citez le texte de quelqu'un, précisez la personne citée après la [citation en bloc](/wiki/Article_styling_criteria/Formatting#citations-en-bloc) avec un tiret (`—`). Si la citation originale provient d'une source non anglophone, précisez-la entre parenthèses.
 
 ```markdown
 > svp profitez du jeu
