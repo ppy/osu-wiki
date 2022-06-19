@@ -71,7 +71,7 @@ Si cela ne fonctionne pas pour vous (ou si vous n'avez pas accès à l'adresse e
 Les informations à inclure dans cet e-mail seraient par exemple :
 
 - L'adresse e-mail avec laquelle vous avez créé le compte, ou toute autre adresse e-mail à laquelle le compte a été associé.
-- Tout reçu pour l'achat d'un osu!supporter ou d'autres articles du osu!store.
+- Tout reçu pour l'achat d'un osu!supporter ou d'autres articles de l'osu!store.
 - La dernière date à laquelle vous avez souvenir d'avoir pu accéder à votre compte normalement.
 - Toute autre information d'identification qui, selon vous, pourrait être utile (à l'exception des scores ou des replays, qui ne nous aident pas beaucoup !)
 

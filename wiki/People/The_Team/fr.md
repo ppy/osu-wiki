@@ -81,7 +81,7 @@ Les groupes d'utilisateurs suivants sont constitués de membres de la communaut�
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | osu! et développeur pp |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Gouvernant général, Organisateur et administrateur de la World Cup, responsable du wiki |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Développeur d'osu!, développeur du mode osu!mania |
-| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Gérant du [osu!store](https://osu.ppy.sh/store/listing) |
+| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Gérant de l'[osu!store](https://osu.ppy.sh/store/listing) |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professeur de la [osu!academy](/wiki/Community/Video_series/osu!academy), concepteur de médias et de personnages |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"

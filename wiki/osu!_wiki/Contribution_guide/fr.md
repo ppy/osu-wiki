@@ -8,13 +8,13 @@ Si vous avez besoin d'astuces ou de conseils à n'importe quelle étape, n'hési
 
 ## Domaines d'intérêt
 
-Si vous voulez aider, mais ne savez pas par où commencer, consultez [Maintenance du osu! wiki § Routines](/wiki/osu!_wiki/Maintenance#routines) pour obtenir une liste des tâches qui doivent être effectuées régulièrement, et pour savoir comment aider les autres éditeurs du wiki. Pour vous familiariser avec le langage de formatage utilisé sur le wiki, consultez la [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) d'Adam Pritchard.
+Si vous voulez aider, mais ne savez pas par où commencer, consultez [Maintenance de l'osu! wiki § Routines](/wiki/osu!_wiki/Maintenance#routines) pour obtenir une liste des tâches qui doivent être effectuées régulièrement, et pour savoir comment aider les autres éditeurs du wiki. Pour vous familiariser avec le langage de formatage utilisé sur le wiki, consultez la [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) d'Adam Pritchard.
 
 ## Modifier le wiki
 
 *Pour un processus de contribution généralisé, voir [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)*
 
-Les articles du osu! wiki sont stockés sur [GitHub][osu_wiki]. Pour contribuer, procédez comme suit :
+Les articles de l'osu! wiki sont stockés sur [GitHub][osu_wiki]. Pour contribuer, procédez comme suit :
 
 0. [Créez](https://github.com/signup) un compte GitHub.
 1. Ouvrez le dépôt [`ppy/osu-wiki`][osu_wiki] et cliquez sur `Fork` dans le coin supérieur droit pour faire une copie contrôlée du wiki. Pour revenir à votre fork, allez sur [`ppy/osu-wiki`][osu_wiki] et cliquez à nouveau sur `Fork`.
@@ -42,7 +42,7 @@ Pour des normes de rédaction et de formatage plus spécifiques, veuillez vous r
 
 Une fois que les modifications ont été vérifiées, validées et push vers votre fork, vous devez les proposer aux maintainers du wiki en ouvrant une pull request :
 
-1. Dans **votre fork** du osu! wiki, trouvez la liste déroulante avec d'écrit `master↓`, et sélectionnez la branche avec vos changements.
+1. Dans **votre fork** de l'osu! wiki, trouvez la liste déroulante avec d'écrit `master↓`, et sélectionnez la branche avec vos changements.
 2. Cliquez sur le bouton `Contribute↓` et sélectionnez `Open pull request`.
 3. Remplissez les détails selon les [Bonnes pratiques § Ouvrir une pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#ouvrir-une-pull-request) et cliquez sur `Create pull request`.
 
@@ -53,7 +53,7 @@ Toutes les modifications apportées au osu! wiki sont modérées. Pendant cette 
 Si personne ne s'est manifesté après quelques jours, essayez ce qui suit :
 
 - Assurez-vous d'avoir résolu toutes les suggestions - les gens peuvent attendre vos réponses.
-- Demandez aux autres rédacteurs du osu! wiki sur le [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server) (canal `#osu-wiki`) ou dans les commentaires de GitHub.
+- Demandez aux autres rédacteurs de l'osu! wiki sur le [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server) (canal `#osu-wiki`) ou dans les commentaires de GitHub.
 - Pour obtenir de l'aide pour la traduction, consultez quelques pull requests fusionnées pour votre langue et contactez leurs réviseurs et/ou auteurs ([exemple de requête GitHub](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BFR%5D+)).
 - Demandez à vos amis d'y jeter un coup d'œil !
 

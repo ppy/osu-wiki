@@ -14,7 +14,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 
 | Utilisateur | Contributions |
 | :-- | :-- |
-| ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | Développement et maintenance du [osu!record service](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` en fichier vidéo). |
+| ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | Développement et maintenance de l'[osu!record service](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` en fichier vidéo). |
 | ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | Hébergement et maintenance de l'un des plus anciens [sites miroirs de beatmaps](https://osu.yas-online.net/) d'osu!. |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Nombre incalculable de contributions graphiques au client et à tout le reste. |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Conception des [Médailles](/wiki/Medals) |
