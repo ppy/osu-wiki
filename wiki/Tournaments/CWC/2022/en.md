@@ -96,31 +96,24 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983) |
 | ![][flag_VN] | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)**, [Stardust Prism](https://osu.ppy.sh/users/8525921), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-Linglan Lily-](https://osu.ppy.sh/users/8738261), [Marota](https://osu.ppy.sh/users/10278890), [NamSPro](https://osu.ppy.sh/users/11387006) |
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Saturday, June 18, 2022
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| France | ![][flag_FR] | ![][flag_DE] | Germany | Jun 18 (Sat) 15:00 UTC | Jun 18 (Sat) 17:00 UTC+2 | Jun 18 (Sat) 17:00 UTC+2 | [^losers-bracket] |
-| Mexico | ![][flag_MX] | ![][flag_IT] | Italy | Jun 18 (Sat) 17:00 UTC | Jun 18 (Sat) 12:00 UTC-5 | Jun 18 (Sat) 19:00 UTC+2 | [^losers-bracket] |
-| Chile | ![][flag_CL] | ![][flag_RU] | Russian Federation | Jun 18 (Sat) 19:00 UTC | Jun 18 (Sat) 15:00 UTC-4 | Jun 18 (Sat) 22:00 UTC+3 | [^losers-bracket] |
-| Chile | ![][flag_CL] | ![][flag_FR] | France | Jun 18 (Sat) 20:30 UTC | Jun 18 (Sat) 16:30 UTC-4 | Jun 18 (Sat) 22:30 UTC+2 | [^potential-match] |
-| Canada | ![][flag_CA] | ![][flag_AU] | Australia | Jun 18 (Sat) 23:00 UTC | Jun 18 (Sat) 18:00 UTC-5 | Jun 19 (Sun) 09:00 UTC+10 | [^losers-bracket] |
-
-### Sunday, June 19, 2022
+### Saturday, June 25, 2022
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_MX] | Mexico | Jun 19 (Sun) 04:00 UTC | Jun 19 (Sun) 14:00 UTC+10 | Jun 18 (Sat) 23:00 UTC-5 | [^potential-match] |
-| China | ![][flag_CN] | ![][flag_ID] | Indonesia | Jun 19 (Sun) 07:00 UTC | Jun 19 (Sun) 15:00 UTC+8 | Jun 19 (Sun) 14:00 UTC+7 | [^winners-bracket] |
-| Australia | ![][flag_AU] | ![][flag_IT] | Italy | Jun 19 (Sun) 12:00 UTC | Jun 19 (Sun) 22:00 UTC+10 | Jun 19 (Sun) 14:00 UTC+2 | [^potential-match] |
-| South Korea | ![][flag_KR] | ![][flag_US] | United States | Jun 19 (Sun) 14:00 UTC | Jun 19 (Sun) 23:00 UTC+9 | Jun 19 (Sun) 09:00 UTC-5 | [^winners-bracket] |
-| Russian Federation | ![][flag_RU] | ![][flag_FR] | France | Jun 19 (Sun) 16:00 UTC | Jun 19 (Sun) 19:00 UTC+3 | Jun 19 (Sun) 18:00 UTC+2 | [^potential-match] |
-| Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | Jun 19 (Sun) 16:00 UTC | Jun 19 (Sun) 19:00 UTC+3 | Jun 19 (Sun) 18:00 UTC+2 | [^potential-match] |
-| Canada | ![][flag_CA] | ![][flag_MX] | Mexico | Jun 19 (Sun) 18:00 UTC | Jun 19 (Sun) 13:00 UTC-5 | Jun 19 (Sun) 13:00 UTC-5 | [^potential-match] |
-| Canada | ![][flag_CA] | ![][flag_IT] | Italy | Jun 19 (Sun) 19:00 UTC | Jun 19 (Sun) 14:00 UTC-5 | Jun 19 (Sun) 21:00 UTC+2 | [^potential-match] |
-| Chile | ![][flag_CL] | ![][flag_DE] | Germany | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 16:00 UTC-4 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
+| Indonesia | ![][flag_ID] | ![][flag_CA] | Canada | Jun 25 (Sat) 14:00 UTC | Jun 25 (Sat) 21:00 UTC+7 | Jun 25 (Sat) 09:00 UTC-5 | [^losers-bracket] |
+
+### Sunday, June 26, 2022
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| China | ![][flag_CN] | ![][flag_KR] | South Korea | Jun 26 (Sun) 12:00 UTC | Jun 26 (Sun) 20:00 UTC+8 | Jun 26 (Sun) 21:00 UTC+9 | [^winners-bracket] |
+| France | ![][flag_FR] | ![][flag_ID] | Indonesia | Jun 26 (Sun) 12:30 UTC | Jun 26 (Sun) 14:30 UTC+2 | Jun 26 (Sun) 19:30 UTC+7 | [^potential-match] |
+| France | ![][flag_FR] | ![][flag_CA] | Canada | Jun 26 (Sun) 12:30 UTC | Jun 26 (Sun) 14:30 UTC+2 | Jun 26 (Sun) 07:30 UTC-5 | [^potential-match] |
+| United States | ![][flag_US] | ![][flag_FR] | France | Jun 26 (Sun) 14:00 UTC | Jun 26 (Sun) 09:00 UTC-5 | Jun 26 (Sun) 16:00 UTC+2 | [^losers-bracket] |
+| United States | ![][flag_US] | ![][flag_ID] | Indonesia | Jun 26 (Sun) 15:30 UTC | Jun 26 (Sun) 10:30 UTC-5 | Jun 26 (Sun) 22:30 UTC+7 | [^potential-match] |
+| United States | ![][flag_US] | ![][flag_CA] | Canada | Jun 26 (Sun) 15:30 UTC | Jun 26 (Sun) 10:30 UTC-5 | Jun 26 (Sun) 10:30 UTC-5 | [^potential-match] |
 
 ## Mappools
 
@@ -253,6 +246,26 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
   2. [Tatsh - Lunatic Tears... (Tatsh Remix) (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/1460718#fruits/3001358)
 
 ## Match results
+
+### Semifinals
+
+Saturday, June 18, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **France** ![][flag_FR] | **7** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/101572162) |
+| Mexico ![][flag_MX] | 2 | **7** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/101575255) |
+| **Chile** ![][flag_CL] | **7** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/101578500) |
+| Chile ![][flag_CL] | 6 | **7** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/101580710) |
+| **Canada** ![][flag_CA] | **7** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/101584101) |
+
+Sunday, June 19, 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ![][flag_CN] | **7** | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/101592281) |
+| **South Korea** ![][flag_KR] | **7** | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/101600086) |
+| **Canada** ![][flag_CA] | **7** | 6 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/101607690) |
 
 ### Quarterfinals
 
