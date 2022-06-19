@@ -17,7 +17,7 @@ tags:
 
 When hovering over a badge, a tooltip is shown with more details about why the badge was awarded. Badges can also be linked to other web pages for more context, but none currently use this feature.
 
-## For tournament seeding
+## Tournament seeding
 
 *Main page: [Badge-weighted seeding](/wiki/Tournaments/Badge-weighted_seeding)*
 
