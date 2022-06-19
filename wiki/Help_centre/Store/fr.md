@@ -27,7 +27,7 @@ Vous avez un problème avec un produit du osu!store ? Vérifiez s'il existe une 
 
 ## osu!keyboard
 
-### Comment puis-je configurer le osu!keyboard ?
+### Comment puis-je configurer l'osu!keyboard ?
 
 **Vous pouvez utiliser l'utilitaire de configuration du osu!keyboard, disponible sur [ce lien](https://puu.sh/l6urN/4b6bc800f2.zip).**
 

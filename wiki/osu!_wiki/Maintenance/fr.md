@@ -56,7 +56,7 @@ Si vous avez besoin d'aide pour décrypter les erreurs de vérification des CI, 
 
 ### Développement
 
-Le osu! wiki est intégré au site web d'osu!, ce qui signifie que toutes les demandes de fonctionnalités techniques doivent être [faites et suivies](https://github.com/ppy/osu-web/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aarea%3Awiki) dans le dépôt `ppy/osu-web`. Pour informer les autres contributeurs de votre demande, assurez-vous d'envoyer un lien de l'issue dans le salon Discord `#osu-wiki`, ou le suivi des issues du osu! wiki.
+L'osu! wiki est intégré au site web d'osu!, ce qui signifie que toutes les demandes de fonctionnalités techniques doivent être [faites et suivies](https://github.com/ppy/osu-web/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aarea%3Awiki) dans le dépôt `ppy/osu-web`. Pour informer les autres contributeurs de votre demande, assurez-vous d'envoyer un lien de l'issue dans le salon Discord `#osu-wiki`, ou le suivi des issues du osu! wiki.
 
 ### Outils
 
@@ -76,7 +76,7 @@ Le wiki repose sur les contributions de la communauté d'osu!. Vous pouvez aider
 
 *Pour une liste des traductions à faire, voir : [osu-wiki status](https://clayton.cc/osu-wiki-status/en)*
 
-Le osu! wiki est lu par des gens du monde entier. Pour aider votre communauté locale et attirer de nouveaux joueurs, mappeurs, moddeurs et développeurs géniaux dans le jeu, vous pouvez traduire les articles anglais ou mettre à jour les traductions existantes qui ont pris du retard. Consultez la [liste des langues](/wiki/Article_styling_criteria/Formatting#locales) prises en charge par le osu! wiki et assurez-vous que votre traduction respecte le principe de [parité de contenu](/wiki/Article_styling_criteria/Writing#parité-de-contenu). Si vous êtes un utilisateur courant et un rédacteur expérimenté, prenez en charge des sujets clés tels que des articles sur les [règles](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) ou les [critères de classement](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). Si vous débutez votre carrière de rédacteur, choisissez un petit article pour recevoir l'aide et les conseils de réviseurs natifs.
+L'osu! wiki est lu par des gens du monde entier. Pour aider votre communauté locale et attirer de nouveaux joueurs, mappeurs, moddeurs et développeurs géniaux dans le jeu, vous pouvez traduire les articles anglais ou mettre à jour les traductions existantes qui ont pris du retard. Consultez la [liste des langues](/wiki/Article_styling_criteria/Formatting#locales) prises en charge par l'osu! wiki et assurez-vous que votre traduction respecte le principe de [parité de contenu](/wiki/Article_styling_criteria/Writing#parité-de-contenu). Si vous êtes un utilisateur courant et un rédacteur expérimenté, prenez en charge des sujets clés tels que des articles sur les [règles](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) ou les [critères de classement](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). Si vous débutez votre carrière de rédacteur, choisissez un petit article pour recevoir l'aide et les conseils de réviseurs natifs.
 
 Une traduction peut être fusionnée sans native review s'il s'est écoulé plus de deux semaines depuis sa date de création.
 

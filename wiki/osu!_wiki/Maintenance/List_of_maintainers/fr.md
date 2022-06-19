@@ -35,7 +35,7 @@ Curateurs, rédacteurs et approbateurs de tous les [news posts](https://osu.ppy.
 
 ## Anciens maintainers
 
-Cette liste comprend les maintainers de la configuration MediaWiki, que le osu! wiki [avait](/wiki/History_of_osu!/osu!_wiki) :
+Cette liste comprend les maintainers de la configuration MediaWiki, que l'osu! wiki [avait](/wiki/History_of_osu!/osu!_wiki) :
 
 - ![][flag_RU] [\[Dellirium\]](https://osu.ppy.sh/users/519032)
 - ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)

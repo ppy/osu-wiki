@@ -2,7 +2,7 @@
 
 L'**osu! wiki** est une base de données de connaissances open-source écrite et maintenue par des [contributeurs volontaires](https://github.com/ppy/osu-wiki/graphs/contributors). Il contient un large éventail d'informations sur des sujets liés à osu!, à sa communauté et à des activités et concepts connexes. Le wiki sert de source officielle d'information et est considéré comme une documentation de l'histoire d'osu!.
 
-Toutes les discussions qui concernent le wiki en général, son développement et les changements d'articles, ont lieu dans le salon de discussion `#osu-wiki` du serveur [osu!dev](/wiki/Community/osu!dev_Discord_server). Pour savoir comment vous pouvez aider le osu! wiki, consultez les articles suivants :
+Toutes les discussions qui concernent le wiki en général, son développement et les changements d'articles, ont lieu dans le salon de discussion `#osu-wiki` du serveur [osu!dev](/wiki/Community/osu!dev_Discord_server). Pour savoir comment vous pouvez aider l'osu! wiki, consultez les articles suivants :
 
 - [Guide de contribution](/wiki/osu!_wiki/Contribution_guide)
 - [Maintenance](/wiki/osu!_wiki/Maintenance)
@@ -23,7 +23,7 @@ Des traductions en différentes langues sont disponibles pour certains articles.
 
 ## Modèle
 
-Le osu! wiki est construit autour du concept d'accessibilité : les modifications et les traductions sont encouragées et peuvent être effectuées par toute personne capable et compétente. Les données des articles sont stockées dans un [dépôt GitHub](https://github.com/ppy/osu-wiki) et mises à jour par les contributeurs grâce à l'[utilisation des pull requests](/wiki/osu!_wiki/Contribution_guide), qui sont ensuite examinées et fusionnées par les [maintainers du wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
+L'osu! wiki est construit autour du concept d'accessibilité : les modifications et les traductions sont encouragées et peuvent être effectuées par toute personne capable et compétente. Les données des articles sont stockées dans un [dépôt GitHub](https://github.com/ppy/osu-wiki) et mises à jour par les contributeurs grâce à l'[utilisation des pull requests](/wiki/osu!_wiki/Contribution_guide), qui sont ensuite examinées et fusionnées par les [maintainers du wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
 
 Les articles sont formatés à l'aide de [Markdown à la sauce GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). En outre, le moteur du site web met en œuvre des fonctionnalités personnalisées cruciales pour le wiki dans son ensemble, telles que les redirections, la première page ou les améliorations de formatage.
 

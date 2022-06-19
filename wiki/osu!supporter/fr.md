@@ -40,7 +40,7 @@ Les noms d'utilisateurs des supporters actifs apparaissent en jaune clair dans l
 
 ### Section de profil éditable
 
-Les supporters reçoivent une nouvelle section de profil intitulée `moi !`, souvent appelée page utilisateur. La page utilisateur sert en tant qu'espace personnel éditable, où le texte est formaté en utilisant le [BBCode](/wiki/BBCode). Cette fonctionnalité est permanente et reste éditable même après que le osu!supporter ait expiré.
+Les supporters reçoivent une nouvelle section de profil intitulée `moi !`, souvent appelée page utilisateur. La page utilisateur sert en tant qu'espace personnel éditable, où le texte est formaté en utilisant le [BBCode](/wiki/BBCode). Cette fonctionnalité est permanente et reste éditable même après que l'osu!supporter ait expiré.
 
 La section `moi !` est un bon endroit pour :
 
@@ -147,7 +147,7 @@ Une fois la transaction terminée, un nouvel événement apparaîtra dans la sec
 
 - `{nom_d'utilisateur} a choisi de soutenir osu! - merci pour votre générosité !` si c'est la première fois que l'utilisateur reçoit un osu!supporter.
 - `{nom_d'utilisateur} a de nouveau choisi de soutenir osu! - merci pour votre générosité !` si l'utilisateur a déjà été un osu!supporter auparavant.
-- `{nom_d'utilisateur} a reçu le osu!supporter en cadeau !` dans le cas où le tag a été offert.
+- `{nom_d'utilisateur} a reçu l'osu!supporter en cadeau !` dans le cas où le tag a été offert.
 
 En outre, le donateur et le bénéficiaire recevront tous deux des notifications par e-mail mentionnant l'achat.
 

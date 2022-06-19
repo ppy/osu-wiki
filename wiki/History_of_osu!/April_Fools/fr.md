@@ -165,7 +165,7 @@ Le 1er avril 2016, de nombreux joueurs d'osu! ont eu la surprise de découvrir q
 
 ### Rotation du osu! cookie sur le site web
 
-Dans le cadre de la poignée de blagues du poisson d'avril 2016, le [osu! cookie](/wiki/Brand_identity_guidelines) du site web d'osu! tournait occasionnellement de 180 degrés dans le sens des aiguilles d'une montre, puis repartait rapidement à la verticale de 180 degrés dans la même direction [[58,59,60,61]][r].
+Dans le cadre de la poignée de blagues du poisson d'avril 2016, l'[osu! cookie](/wiki/Brand_identity_guidelines) du site web d'osu! tournait occasionnellement de 180 degrés dans le sens des aiguilles d'une montre, puis repartait rapidement à la verticale de 180 degrés dans la même direction [[58,59,60,61]][r].
 
 ---
 
