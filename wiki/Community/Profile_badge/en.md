@@ -8,8 +8,7 @@ tags:
 
 # Profile badge
 
-*Not to be confused with [group](/wiki/Community/Group) badges, which also appear on user profiles.*
-
+*Not to be confused with [group](/wiki/Community/Group) badges, which also appear on user profiles.*\
 *For rules regarding usage as tournament prizing, see: [Official tournament support § Profile Badges](/wiki/Tournaments/Official_support#profile-badges)*
 
 ![Screenshot of HappyStick's badges on the website](img/HappyStick.png "Profile badges display under the avatar and username on the website.")
