@@ -198,7 +198,7 @@ Les concours osu!remix attribuent le titre **osu!mixer** comme premier prix.
 
 ## Gagnants actuels du concours osu!trivium Quiz
 
-Les [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) décernent à l'équipe ou à la personne gagnante le titre de **osu!trivium Champion**, qui dure un an. Voici les détenteurs du titre pour 2021 :
+Les [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) décernent à l'équipe ou à la personne gagnante le titre d'**osu!trivium Champion**, qui dure un an. Voici les détenteurs du titre pour 2021 :
 
 - ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
 - ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621)
@@ -320,7 +320,7 @@ Ces utilisateurs ont reçu leurs titres respectifs pour des raisons diverses.
 
 [^mao-note]: ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) a reçu le titre de **Elite Mapper II** pour avoir réussi à obtenir le titre d'Elite Mapper par deux moyens différents : La victoire au concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) et le dépassement du seuil de 6 points dans le nouveau système [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
 [^charles445-note]: ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) a reçu le titre **Elite Mapper II : Aspirant** pour avoir remporté le [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) et le [Monthly Beatmapping Contest : Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
-[^billiummoto-note]: ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) a reçu le titre **osu!mixer II** pour avoir remporté le [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) et le concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
+[^billiummoto-note]: ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) a reçu le titre **osu!mixer II** pour avoir remporté l'[osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) et le concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australie"

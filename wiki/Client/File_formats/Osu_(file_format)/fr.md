@@ -343,7 +343,7 @@ Les objets du mode osu!taiko n'utilisent que le `time` pour déterminer comment 
 
 ### osu!catch
 
-Le terrain de jeu de osu!catch n'utilise que l'axe des x, donc `y` n'est pas pertinent. Les courbes de slider peuvent utiliser l'espace vertical pour obtenir une accélération horizontale lorsqu'elles sont aplaties en un champ de jeu unidimensionnel.
+Le terrain de jeu d'osu!catch n'utilise que l'axe des x, donc `y` n'est pas pertinent. Les courbes de slider peuvent utiliser l'espace vertical pour obtenir une accélération horizontale lorsqu'elles sont aplaties en un champ de jeu unidimensionnel.
 
 - Les cercles deviennent des fruits.
 - Les sliders deviennent des juice streams, avec des fruits sur chaque bord.
