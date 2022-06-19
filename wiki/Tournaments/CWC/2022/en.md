@@ -109,11 +109,11 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | China | ![][flag_CN] | ![][flag_KR] | South Korea | Jun 26 (Sun) 12:00 UTC | Jun 26 (Sun) 20:00 UTC+8 | Jun 26 (Sun) 21:00 UTC+9 | [^winners-bracket] |
-| France | ![][flag_FR] | ![][flag_ID] | Indonesia | Jun 26 (Sun) 12:30 UTC | Jun 26 (Sun) 14:30 UTC+2 | Jun 26 (Sun) 19:30 UTC+7 | [^potential-match] |
-| France | ![][flag_FR] | ![][flag_CA] | Canada | Jun 26 (Sun) 12:30 UTC | Jun 26 (Sun) 14:30 UTC+2 | Jun 26 (Sun) 07:30 UTC-5 | [^potential-match] |
 | United States | ![][flag_US] | ![][flag_FR] | France | Jun 26 (Sun) 14:00 UTC | Jun 26 (Sun) 09:00 UTC-5 | Jun 26 (Sun) 16:00 UTC+2 | [^losers-bracket] |
 | United States | ![][flag_US] | ![][flag_ID] | Indonesia | Jun 26 (Sun) 15:30 UTC | Jun 26 (Sun) 10:30 UTC-5 | Jun 26 (Sun) 22:30 UTC+7 | [^potential-match] |
 | United States | ![][flag_US] | ![][flag_CA] | Canada | Jun 26 (Sun) 15:30 UTC | Jun 26 (Sun) 10:30 UTC-5 | Jun 26 (Sun) 10:30 UTC-5 | [^potential-match] |
+| France | ![][flag_FR] | ![][flag_ID] | Indonesia | Jun 26 (Sun) 15:30 UTC | Jun 26 (Sun) 17:30 UTC+2 | Jun 26 (Sun) 22:30 UTC+7 | [^potential-match] |
+| France | ![][flag_FR] | ![][flag_CA] | Canada | Jun 26 (Sun) 17:00 UTC | Jun 26 (Sun) 19:00 UTC+2 | Jun 26 (Sun) 12:00 UTC-5 | [^potential-match] |
 
 ## Mappools
 
