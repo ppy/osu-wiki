@@ -44,9 +44,9 @@ The slider parts also have additional influence on the current [combo](/wiki/Gam
 
 Each spinner has a set number of spins required to complete it. This number depends on the [overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) of the beatmap. The criteria for judging the spinner as a whole are as follows:
 
-- 300: The player completed the number of spins required for completion, or more.
-- 100: The player completed one spin less than the required number.
-- 50: The player completed at least 25% of the required spins.
+- 300: The player successfully performed the number of spins required for completion, or more.
+- 100: The player performed one spin less than the required number.
+- 50: The player performed at least 25% of the required spins.
 - Miss: The player failed to meet the minimum of 25% of spins required.
 
 For some very short spinners, the number of spins required is actually calculated to be 0, and thus the spinner always automatically completes itself with a 300.
