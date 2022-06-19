@@ -13,7 +13,7 @@ tags:
 
 ![Screenshot of HappyStick's badges on the website](img/HappyStick.png "Profile badges display under the avatar and username on the website.")
 
-**Profile badges** (commonly referred to as just *badges*) are small graphics on user profile pages awarded for various achievements. They are most commonly given as [tournament](/wiki/Tournaments) and [contest](/wiki/Contests) prizes, but have other uses, such as for [community contributors](/wiki/People/Community_Contributors), [Beatmap Spotlights](/wiki/Beatmap_Spotlights#rewards), and continued [group](/wiki/Community/Group) membership.
+**Profile badges** (commonly referred to as just *badges*) are small graphics on user profile pages awarded for various achievements. They are most commonly given as [tournament](/wiki/Tournaments) and [contest](/wiki/Contests) prizes, but have other uses, such as rewards for [community contributors](/wiki/People/Community_Contributors), [Beatmap Spotlights](/wiki/Beatmap_Spotlights#rewards), and continued [group](/wiki/Community/Group) membership.
 
 When hovering over a badge, a tooltip is shown with more details about why the badge was awarded.
 
