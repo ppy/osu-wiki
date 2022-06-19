@@ -24,8 +24,7 @@
 
 ### Sliders
 
-Sliders consist of parts such as the slider head, slider tail, slider ticks, and slider repeats.
-The slider as a whole is judged based on how many parts of the slider the player has hit.
+Sliders consist of parts such as the slider head, slider tail, slider ticks, and slider repeats. The slider as a whole is judged based on how many parts of the slider the player has hit.
 
 - A 300 is given if the player successfully hits all slider parts.
 - A 100 is given if the player hits at least half of them.
@@ -43,8 +42,7 @@ The slider parts also have additional influence on the current [combo](/wiki/Gam
 
 ### Spinners
 
-Each spinner has a set number of spins required to complete it.
-This number depends on the [overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) of the beatmap.
+Each spinner has a set number of spins required to complete it. This number depends on the [overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) of the beatmap.
 
 - A 300 is given if the player completes the number of spins required for completion, or more.
 - A 100 is given if the player completes one spin less than the required number.
@@ -55,8 +53,6 @@ For some very short spinners, the number of spins required is actually calculate
 
 #### History
 
-The spinner judging algorithm has been significantly changed in the [20190510.2 Cutting Edge release](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.2).
-Prior to the change, non-miss judgements were significantly harder to achieve, as the difference between a 50 and a 100, as well as between a 100 and a 300, was equal to a half of a spin.
-Some beatmaps would even feature spinners that could never be judged with a 300, as they were too short to complete fully.
+The spinner judging algorithm has been significantly changed in the [20190510.2 Cutting Edge release](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.2). Prior to the change, non-miss judgements were significantly harder to achieve, as the difference between a 50 and a 100, as well as between a 100 and a 300, was equal to a half of a spin. Some beatmaps would even feature spinners that could never be judged with a 300, as they were too short to complete fully.
 
 Replays set prior to May 10, 2019 will use this old spinner scoring method rather than the one currently in effect.
