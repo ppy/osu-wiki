@@ -1,23 +1,23 @@
 # osu! tournament client
 
-Le **osu! tournament client** est le client officiel qui superpose à [osu!tourney](/wiki/osu!tourney) des scènes et des informations supplémentaires relatives à un tournoi osu! lors d'une diffusion en direct.
+L'**osu! tournament client** est le client officiel qui superpose à [osu!tourney](/wiki/osu!tourney) des scènes et des informations supplémentaires relatives à un tournoi osu! lors d'une diffusion en direct.
 
 Les utilisateurs rencontrant des problèmes avec le client peuvent [créer un issue sur GitHub](https://github.com/ppy/osu/issues) ou envoyer un courriel à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Configuration
 
-Pour lancer le osu! tournament client, vous devez spécifier un argument de lancement à l'exécutable osu!(lazer). Pour ce faire, créez un nouveau raccourci sur le bureau et définissez son emplacement à `%LOCALAPPDATA%/osulazer/osu !.exe --tournament`. Ce raccourci spécifique lancera osu!(lazer) en mode client de tournoi.
+Pour lancer l'osu! tournament client, vous devez spécifier un argument de lancement à l'exécutable osu!(lazer). Pour ce faire, créez un nouveau raccourci sur le bureau et définissez son emplacement à `%LOCALAPPDATA%/osulazer/osu !.exe --tournament`. Ce raccourci spécifique lancera osu!(lazer) en mode client de tournoi.
 
-Puisque le osu! tournament client n'est qu'une superposition pour osu!tourney, il faudra le configurer aussi. Réglez la sortie dans osu!tourney sur `Cutting Edge (Experimental)` et créez un fichier vide appelé `ipc.txt` dans le dossier d'installation de osu!tourney. Après cela, suivez le [guide d'installation de osu!tourney](/wiki/osu!tourney/Setup).
+Puisque l'osu! tournament client n'est qu'une superposition pour osu!tourney, il faudra le configurer aussi. Réglez la sortie dans osu!tourney sur `Cutting Edge (Experimental)` et créez un fichier vide appelé `ipc.txt` dans le dossier d'installation d'osu!tourney. Après cela, suivez le [guide d'installation d'osu!tourney](/wiki/osu!tourney/Setup).
 
-Ouvrez le osu! tournament client et vous verrez cet écran de configuration :
+Ouvrez l'osu! tournament client et vous verrez cet écran de configuration :
 
-![Écran de configuration de osu! tournament client](img/setup-screen.png)
+![Écran de configuration d'osu! tournament client](img/setup-screen.png)
 
 - Assurez-vous que la `Source IPC actuelle` correspond à l'emplacement de l'instance osu!tourney que vous allez utiliser.
 - Connectez-vous à osu!(lazer) en cliquant sur `Change Login`.
 - Définissez le ruleset approprié à l'aide du menu déroulant.
-- Changez la hauteur pour qu'elle corresponde à `Height`, définie dans le fichier `tournament.cfg` de osu!tourney.
+- Changez la hauteur pour qu'elle corresponde à `Height`, définie dans le fichier `tournament.cfg` d'osu!tourney.
 
 ## Gestion des tournois
 

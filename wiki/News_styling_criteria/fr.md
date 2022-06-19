@@ -77,7 +77,7 @@ date: 2017-08-17 03:00:00 +0000
 
 ### Markdown
 
-Le osu! wiki utilise une implémentation partielle de GFM (GitHub Flavored Markdown) avec les exceptions suivantes :
+L'osu! wiki utilise une implémentation partielle de GFM (GitHub Flavored Markdown) avec les exceptions suivantes :
 
 #### Titres
 
@@ -93,7 +93,7 @@ Les caractères gras sont réservés à la mise en évidence d'objets ou de phra
 
 #### Italiques
 
-L'italique est utilisé de manière peu courante pour accentuer des phrases ou des déclarations intéressantes dans le registre conversationnel. Il peut également être utilisé pour désigner les noms d'autres œuvres créatives, comme le *osu! Coffee Hour* ou le *Aspire Beatmapping Contests*.
+L'italique est utilisé de manière peu courante pour accentuer des phrases ou des déclarations intéressantes dans le registre conversationnel. Il peut également être utilisé pour désigner les noms d'autres œuvres créatives, comme l'*osu! Coffee Hour* ou le *Aspire Beatmapping Contests*.
 
 #### Barre horizontale
 

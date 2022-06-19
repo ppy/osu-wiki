@@ -22,7 +22,7 @@ outdated: true
 - osu!performance—Classement des joueurs selon d'osu!.
   - [GitHub](https://github.com/ppy/osu-performance)
 - osu!stream—Un style différent d'osu! pour iPod Touch, iPhone et iPad.
-  - [Site web](https://osustream.com) | [Page sur le osu! wiki](/wiki/osu!stream)
+  - [Site web](https://osustream.com) | [Page sur l'osu! wiki](/wiki/osu!stream)
 - osu!web—La partie d'osu! qui fait face au navigateur.
   - [GitHub](https://github.com/ppy/osu-web) | [Site web](https://osu.ppy.sh/home)
 - [osu!wiki](https://osu.ppy.sh/community/forums/topics/68479)—Maisons d'information sur osu!.
@@ -117,7 +117,7 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 - [lua-mania](https://osu.ppy.sh/community/forums/topics/465914)—Convertit les beatmaps des modes osu!, osu!taiko et osu!catch en beatmaps du mode osu!mania.
   - [GitHub](https://github.com/semyon422/lua-mania)
 - [Mania Hit Sounding Tools](https://osu.ppy.sh/community/forums/topics/488175)—Plusieurs outils pour les hitsounds des difficultés des beatmaps osu!mania :
-  1. Magic Copy—Un outil qui copie les hitsounds d'une difficulté à une autre et fonctionne avec les hitsounds par défaut et personnalisés. Concept original de [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832).
+  1. Magic Copy—Un outil qui copie les hitsounds d'une difficulté à une autre et fonctionne avec les hitsounds par défaut et personnalisés. Concept original d'[osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832).
   2. Hit Object to Storyboard—Permet de copier des hitsounds et de les coller dans le storyboard.
   3. Note Density calculator—Liste la distribution des keys dans les difficultés d'osu!mania.
   4. Hitsound Detective—Vérifie la présence de hitsounds inutilisés dans d'autres difficultés (en fonction de la difficulté sélectionnée).
@@ -134,7 +134,7 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 ### Storyboarding
 
 - [osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597)—Outil permettant de modifier le texte d'une storyboard.
-- [SGL Tool](https://osu.ppy.sh/community/forums/topics/118733)—Langage de programmation spécifiquement pour générer du code de storyboard. Successeur de [osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597).
+- [SGL Tool](https://osu.ppy.sh/community/forums/topics/118733)—Langage de programmation spécifiquement pour générer du code de storyboard. Successeur d'[osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597).
   - [GitHub](https://github.com/Qwby/osu-sgl)
 - [Taiko Mod Generator](https://osu.ppy.sh/community/forums/topics/605656)—Modifie le storyboard d'osu!taiko pour vous permettre de faire des choses intéressantes avec les Dons et les Kats.
   - [GitHub](https://github.com/Chiyozel/TaikoStoryboardGen)
