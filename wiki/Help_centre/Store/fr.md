@@ -22,13 +22,13 @@ tags:
 *Page principale : [Centre d'aide](/wiki/Help_centre)*\
 *Note : Ces produits ne sont plus disponibles à la vente dans la boutique osu!store.*
 
-Vous avez un problème avec un produit du osu!store ? Vérifiez s'il existe une solution à votre problème !
+Vous avez un problème avec un produit de l'osu!store ? Vérifiez s'il existe une solution à votre problème !
 
 ## osu!keyboard
 
-### Comment puis-je configurer le osu!keyboard ?
+### Comment puis-je configurer l'osu!keyboard ?
 
-**Vous pouvez utiliser l'utilitaire de configuration du osu!keyboard, disponible sur [ce lien](https://puu.sh/l6urN/4b6bc800f2.zip).**
+**Vous pouvez utiliser l'utilitaire de configuration de l'osu!keyboard, disponible sur [ce lien](https://puu.sh/l6urN/4b6bc800f2.zip).**
 
 Il suffit de l'extraire à n'importe quel endroit de votre ordinateur et d'exécuter l'exécutable !
 

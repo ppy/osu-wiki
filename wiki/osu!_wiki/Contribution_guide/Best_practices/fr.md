@@ -6,7 +6,7 @@ Cette page couvre certaines des tâches auxquelles vous pouvez être confronté 
 
 *Pour plus d'informations sur Git et GitHub, voir [la documentation GitHub](https://docs.github.com)*
 
-**Git** est un système de contrôle de version qui permet de gérer les modifications apportées aux fichiers. Les données et l'historique des modifications du osu! wiki sont stockés dans un dépôt Git. **GitHub** est une plateforme de développement qui fournit une interface web pour les dépôts Git et offre un ensemble d'outils pour la gestion de projets.
+**Git** est un système de contrôle de version qui permet de gérer les modifications apportées aux fichiers. Les données et l'historique des modifications de l'osu! wiki sont stockés dans un dépôt Git. **GitHub** est une plateforme de développement qui fournit une interface web pour les dépôts Git et offre un ensemble d'outils pour la gestion de projets.
 
 ## Synchronisation d'un fork
 
@@ -24,7 +24,7 @@ Votre branche est maintenant à jour avec le dépôt d'origine.
 
 Cette solution fonctionne bien dans la plupart des cas, bien que la fonction elle-même ait des capacités limitées. Par exemple, elle ne vous permet pas d'écraser les changements non désirés sur la branche, car elle ne fusionne que l'upstream `master`.
 
-Si vous avez rencontré des problèmes lors de l'utilisation de l'outil GitHub ou si vous souhaitez écraser le contenu de votre branche, vous pouvez utiliser le workflow écrit par les contributeurs du osu! wiki.
+Si vous avez rencontré des problèmes lors de l'utilisation de l'outil GitHub ou si vous souhaitez écraser le contenu de votre branche, vous pouvez utiliser le workflow écrit par les contributeurs de l'osu! wiki.
 
 1. Ouvrez **votre fork** et allez dans l'onglet `Actions`.
 2. Dans `Workflows`, cherchez `Sync from osu! upstream`.
@@ -48,7 +48,7 @@ Si vous avez rencontré des problèmes lors de l'utilisation de l'outil GitHub o
 
 *Voir aussi : [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
 
-Dans votre fork du osu! wiki, vous êtes libre d'apporter des modifications et de les sauvegarder. **Les commits** sont des "points de sauvegarde" individuels du dépôt. **Les branches** sont des espaces de travail, qui vous permettent de basculer entre plusieurs versions du dépôt. Pour faciliter votre travail et garder l'historique du wiki propre et sans bruit, suivez ces directives :
+Dans votre fork de l'osu! wiki, vous êtes libre d'apporter des modifications et de les sauvegarder. **Les commits** sont des "points de sauvegarde" individuels du dépôt. **Les branches** sont des espaces de travail, qui vous permettent de basculer entre plusieurs versions du dépôt. Pour faciliter votre travail et garder l'historique du wiki propre et sans bruit, suivez ces directives :
 
 - [Synchroniser la branche `master`](#synchronisation-d'un-fork).
 - Commencez toujours le travail en créant une nouvelle branche de `master`, et ne gardez que vos modifications dedans. Donnez-lui un nom significatif, comme `update-staff-log-FR`.

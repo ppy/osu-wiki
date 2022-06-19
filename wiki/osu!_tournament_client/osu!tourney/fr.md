@@ -12,5 +12,5 @@ Les utilisateurs qui rencontrent des **problèmes** avec le client peuvent lire 
 - [Configuration d'osu!tourney](Setup)
 - [Dépannage](Troubleshooting)
 - [Skinning d'osu!tourney](Skinning)
-- [Utilisation de osu!tourney en multijoueur](Multiplayer_usage)
-- [Utilisation des spectateurs de osu!tourney](Spectator_usage)
+- [Utilisation d'osu!tourney en multijoueur](Multiplayer_usage)
+- [Utilisation des spectateurs d'osu!tourney](Spectator_usage)
