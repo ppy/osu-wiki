@@ -851,7 +851,7 @@ La citation est limitée à [citer quelqu'un ou quelque chose](/wiki/Article_sty
 ```markdown
 > profitez du jeu
 
--rrtyui
+—rrtyui
 ```
 
 ## Ruptures thématiques
