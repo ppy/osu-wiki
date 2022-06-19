@@ -46,7 +46,7 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 
 # [Редактор карт](/wiki/Client/Beatmap_editor)
 
-Все карты в osu! созданы благодаря бурной фантазии стремительно развивающегося сообщества. Всегда хотели поделиться любимой музыкой с другими, но не знали как? Познакомьтесь со встроенным игровым редактором и его возможностями.
+Все карты в osu! созданы благодаря бурной фантазии стремительно развивающегося сообщества. Всегда хотели поделиться любимой музыкой с другими, но не знаете как? Познакомьтесь со встроенным игровым редактором и его возможностями.
 
 Разделы: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_Setup)
 
@@ -70,7 +70,7 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 
 # Правила и правовые документы
 
-Прочитайте о процедурах и правилах, которые обеспечивают безопасность osu! и его сообщества, начиная с лицензирования музыки и рекомендаций по работе со СМИ и заканчивая правилами чата и форума.
+Прочитайте о процедурах и правилах, которые обеспечивают безопасность osu! и его сообщества, начиная с лицензирования музыки и рекомендаций для медиа и заканчивая правилами чата и форума.
 
 [Правила](/wiki/Rules) • [Нормы поведения](/wiki/Contributor_Code_of_Conduct) • [Кодекс поведения при моддинге и маппинге](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
@@ -96,7 +96,7 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 
 # Сообщество и проекты
 
-Социальное взаимодействие — одна из самых сильных сторон osu!, вдохновляющая игроков по всему миру. Изучите мероприятия и конкурсы, наладьте контакт с другими людьми или помогите организовать очередной масштабный ивент!
+Социальное взаимодействие — одна из самых сильных сторон osu!, вдохновляющая игроков по всему миру. Изучите программы и конкурсы, наладьте контакт с другими людьми или помогите организовать очередное масштабное событие!
 
 [Турниры](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Конкурсы](/wiki/Contests) • [Программа менторства](/wiki/Community/Community_Mentorship_Program)
 
@@ -113,7 +113,7 @@ osu! бы не было без многих пользователей, учас
 
 [Команда osu!](/wiki/People/The_Team): [Разработчики](/wiki/People/The_Team/Developers) • [Команда глобальной модерации](/wiki/People/The_Team/Global_Moderation_Team) • [Команда поддержки](/wiki/People/The_Team/Support_Team) • [Команда оценки номинаций](/wiki/People/The_Team/Nomination_Assessment_Team) • [Номинаторы карт](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Команда проекта Loved](/wiki/People/The_Team/Project_Loved_Team)
 
-[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Комитет по проведению турниров](/wiki/People/Tournament_Committee) • [Комитет по начислению баллов за эффективность](/wiki/People/Performance_Points_Committee)
+[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Комитет по проведению турниров](/wiki/People/Tournament_Committee) • [Комитет PP](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -129,7 +129,7 @@ osu! бы не было без многих пользователей, учас
 
 # Вики и мета-статьи
 
-osu! wiki, как и почти всё, связанное с игрой, написана и поддерживается добровольцами. Если вы хотите выдвинуть идею, сообщить о проблеме, или даже написать собственную статью, загляните в [репозиторий osu-wiki](https://github.com/ppy/osu-wiki) на GitHub.
+osu! wiki, как и почти всё, связанное с игрой, написана и поддерживается добровольцами. Если вы хотите предложить идею, сообщить о проблеме, или даже написать собственную статью, загляните в [репозиторий osu-wiki](https://github.com/ppy/osu-wiki) на GitHub.
 
 [История osu!](/wiki/History_of_osu!) • [История osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [История развития моддинга и маппинга](/wiki/Mapping_and_Modding_Timeline) • [Первоапрельские шутки](/wiki/History_of_osu!/April_Fools)
 
