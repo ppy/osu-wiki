@@ -30,7 +30,7 @@ seed = global_rank ^ (0.9937 ^ (badge_count ^ 2))
 
 This function satisfies properties that are important to the purpose of BWS:
 
-- A player's seed increases in larger increments as they attain more badges, or in other words, each badge is worth more than the last.[^hippo-cup-bws] Note that in the formula above, this is only true until around 2 to 6 badges (depending on `global_rank`), at which there is an inflection point, and then the effect becomes the opposite.
+- A player's seed decreases in larger increments as they attain more badges, or in other words, each badge is worth more than the last.[^hippo-cup-bws] Note that in the formula above, this is only true until around 2 to 6 badges (depending on `global_rank`), at which there is an inflection point, and then the effect becomes the opposite.
 - BWS seeds are always less than or equal to `global_rank`. They are equal if the player has no badges.
 - BWS seeds have the same range as `global_rank`.
 
