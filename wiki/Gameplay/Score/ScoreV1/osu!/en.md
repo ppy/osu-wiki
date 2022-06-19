@@ -16,7 +16,7 @@ where:
 
 - The *hit value* is the numerical value of the hit circle judgement (50, 100, or 300).
 - The *combo multiplier* is equal to (combo before this hit - 1) or 0, whichever is higher.
-- The *difficulty multiplier* is a value specific to the beatmap being played. The exact formula to compute it is given in the next subsection.
+- The *difficulty multiplier* is a value specific to the beatmap being played. See the [below section](#difficulty-multiplier) for the exact formula to compute it.
 - The *mod multiplier* is the total multiplier of the set of active mods.
 
 ### Difficulty multiplier
@@ -29,22 +29,18 @@ Note that game modifiers (like Hard Rock or Easy, which change circle size, for 
 
 ## Sliders
 
-Each slider as a whole produces a 50, 100, or 300 judgement, based on the proportion of slider parts (namely, the slider head, slider tail, slider ticks, and slider repeats) hit. This judgement is converted to a score value using the same method that hit circles use.
+Each slider as a whole produces a 50, 100, or 300 judgement, based on the proportion of slider parts hit (namely, the slider head, slider tail, slider ticks, and slider repeats). This judgement is converted to a score value using the same method that hit circles use.
 
-Additionally, elements of the slider grant score in an independent fashion:
+Additionally, elements of the slider grant score in an independent fashion, unaffected by any bonuses or multipliers:
 
 - Each slider tick hit grants 10 points.
 - Each slider repeat or slider tail hit grants 30 points.
-
-The point values above are not affected by any bonuses or multipliers.
 
 ## Spinners
 
 Each spinner as a whole produces a 50, 100, or 300 judgement, based on the ratio of rotations performed to rotations required to complete the spinner. This judgement is converted to a score value using the same method that hit circles use.
 
-Additionally, the spinner grants bonus points:
+The spinner also grants additional bonus points, unaffected by any other bonuses or multipliers:
 
 - Each full spin before the spinner is completed grants 100 points.
 - After the spinner is completed, full spins grant an additional 1,000 points, for a total of 1,100 points altogether per spin.
-
-The point values above are not affected by any bonuses or multipliers.
