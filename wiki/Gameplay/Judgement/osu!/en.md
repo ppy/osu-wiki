@@ -50,7 +50,7 @@ Each spinner has a set number of spins required to complete it. This number depe
 
 For some very short spinners, the number of spins required is actually calculated to be 0, and thus the spinner always automatically completes itself with a 300.
 
-#### History
+## History
 
 The spinner judging algorithm has been significantly changed in the [20190510.2 Cutting Edge release](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.2). Prior to the change, non-miss judgements were significantly harder to achieve, as the difference between a 50 and a 100, as well as between a 100 and a 300, was equal to a half of a spin. Some beatmaps would even feature spinners that could never be judged with a 300, as they were too short to complete fully.
 
