@@ -23,8 +23,8 @@ The original and most common method used to compute players' seeds in BWS is the
 seed = global_rank ^ (0.9937 ^ (badge_count ^ 2))
 ```
 
-- `badge_count` (>= 0): Amount of badges on the player's profile that were earned as prizes for previous tournaments of the same [game mode](/wiki/Game_mode)
-- `global_rank` (>= 1): Player's [performance points rank](/wiki/Ranking#performance-points-ranking) on the global leaderboard corresponding to the tournament's [game mode](/wiki/Game_mode)
+- `badge_count` (≥ 0): Amount of badges on the player's profile that were earned as prizes for previous tournaments of the same [game mode](/wiki/Game_mode)
+- `global_rank` (≥ 1): Player's [performance points rank](/wiki/Ranking#performance-points-ranking) on the global leaderboard corresponding to the tournament's [game mode](/wiki/Game_mode)
 
 This function satisfies properties that are important to the purpose of BWS:
 
