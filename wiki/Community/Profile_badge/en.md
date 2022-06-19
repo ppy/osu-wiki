@@ -21,7 +21,7 @@ When hovering over a badge, a tooltip is shown with more details about why the b
 
 *Main page: [Badge-weighted seeding](/wiki/Tournaments/Badge-weighted_seeding)*
 
-In the [game client](/wiki/Client) and on the website, badges are purely decorative. However, due to [tournament](/wiki/Tournaments) prize badges showcasing players' performance, some tournaments have adopted seeding methods that factor in the amount of badges players have, commonly known as [badge-weighted seeding](/wiki/Tournaments/Badge-weighted_seeding) (BWS).
+In the [game client](/wiki/Client) and on the website, badges are purely decorative. However, due to [tournament](/wiki/Tournaments) prize badges showcasing players' performance, some tournaments have adopted [seeding](https://en.wikipedia.org/wiki/Seed_(sports)) methods that factor in the amount of badges players have, commonly known as [badge-weighted seeding](/wiki/Tournaments/Badge-weighted_seeding) (BWS).
 
 ## Old website
 
@@ -29,7 +29,7 @@ In the [game client](/wiki/Client) and on the website, badges are purely decorat
 
 Rather than stacking horizontally in a container spanning the whole page, the old website stacked badges vertically between a user's username and country flag.
 
-A side-effect of this layout scheme was that the default, non-expanded height of [userpages](/wiki/osu!supporter#editable-profile-section) could be extended by means of earning more badges. While unintended, it became a running gag in the tournament community.<!-- More example userpages beyond Toy would be nice, else "running gag" doesn't have a source. -clayton --> ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) showcased this in [a popular Tweet](https://twitter.com/droombs/status/1036050610687074304), showing off his record for most badges won at the time of posting.<!-- I couldn't find a definitive source for this but I'm fairly certain that was part of the joke. Toy was the first to reach 10 badges about a year before this, and he was tied with DigitalHypno at 20 a few months later. Please add a source as a reference if you can find one! -clayton -->
+A side effect of this layout scheme was that the default, non-expanded height of [userpages](/wiki/osu!supporter#editable-profile-section) could be extended by means of earning more badges. While unintended, it became a running gag in the tournament community.<!-- More example userpages beyond Toy would be nice, else "running gag" doesn't have a source. -clayton --> ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) showcased this in [a popular Tweet](https://twitter.com/droombs/status/1036050610687074304), showing off his record for most badges won at the time of posting.<!-- I couldn't find a definitive source for this but I'm fairly certain that was part of the joke. Toy was the first to reach 10 badges about a year before this, and he was tied with DigitalHypno at 20 a few months later. Please add a source as a reference if you can find one! -clayton -->
 
 ## Trivia
 
