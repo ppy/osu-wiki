@@ -1,9 +1,11 @@
 ---
 tags:
+  - badge weighting system
   - BWS
   - rank restricted
   - rank restriction
   - rank-restricted
+  - tournament seed
   - tournament seeding
 ---
 
