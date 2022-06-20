@@ -453,7 +453,7 @@ Friday, 21 August 2020:
 2. This tournament uses a qualifier into a double-elimination bracket and single-player format. There are no teams here.
 3. To participate you **must** join the Discord for the duration of the tournament.
 4. Every stage lasts one weekend.
-5. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the organizer's discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine—harrasment is not.
+5. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the organizer's discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine — harrasment is not.
 6. Any other rules changes or unexpected occurrences will be announced on the Discord server.
 7. Since this is a badged tournament, you will only be able to participate after having passed a screening-test for any current or previous suspicious activity from osu!staff. This means that if you've been banned within the last year you will be unable to participate in the tournament.
 

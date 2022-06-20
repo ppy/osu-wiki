@@ -1,12 +1,12 @@
-# Maintenance du osu! wiki
+# Maintenance de l'osu! wiki
 
 *Voir également : [Guide de contribution au osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
 
-Cet article décrit les aspects techniques ou administratifs du osu! wiki. Il couvre également les procédures de maintenance, qui sont nécessaires pour le maintenir à jour - peut-être pourriez-vous [aider avec l'une d'entre elles](#routines). Pour toutes les discussions relatives au wiki, utilisez le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+Cet article décrit les aspects techniques ou administratifs de l'osu! wiki. Il couvre également les procédures de maintenance, qui sont nécessaires pour le maintenir à jour - peut-être pourriez-vous [aider avec l'une d'entre elles](#routines). Pour toutes les discussions relatives au wiki, utilisez le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 
 ## Administrateurs
 
-*Page principale : [Liste des maintainers du osu! wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers)*
+*Page principale : [Liste des maintainers de l'osu! wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers)*
 
 Les administrateurs sont des personnes ayant un [accès collaborateur](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) au [dépôt `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), où tous les articles et les news sont stockés. Ils peuvent trier et étiqueter les problèmes, gérer les pull requests et prendre des décisions concernant le présent et l'avenir du wiki.
 
@@ -16,7 +16,7 @@ Les maintainers effectuent la review finale des pull requests et les fusionnent.
 
 ### Suivi des problèmes
 
-Le [suivi des issues](https://github.com/ppy/osu-wiki/issues) du osu! wiki contient des idées et des demandes d'améliorations possibles, tant pour les articles eux-mêmes que pour les parties du site liées au wiki. Ouvrez un problème si vous avez une demande de fonctionnalité, ou si vous avez trouvé une erreur sur l'une des pages. Veuillez noter que **cette procédure est uniquement limitée au osu! wiki - si vous avez besoin d'aide pour d'autres projets officiels liés à osu!, utilisez leur propre suivi des issues :
+Le [suivi des issues](https://github.com/ppy/osu-wiki/issues) de l'osu! wiki contient des idées et des demandes d'améliorations possibles, tant pour les articles eux-mêmes que pour les parties du site liées au wiki. Ouvrez un problème si vous avez une demande de fonctionnalité, ou si vous avez trouvé une erreur sur l'une des pages. Veuillez noter que **cette procédure est uniquement limitée au osu! wiki - si vous avez besoin d'aide pour d'autres projets officiels liés à osu!, utilisez leur propre suivi des issues :
 
 - [osu!(lazer)](https://github.com/ppy/osu)
 - [Le site web d'osu!](https://github.com/ppy/osu-web/)
@@ -33,7 +33,7 @@ Sur GitHub, les pull requests et les issues peuvent être tagués et classés à
 
 ### Liens et redirections
 
-La plupart des articles du osu! wiki ont des liens alternatifs, qui sont configurés à l'aide du fichier [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml). Les redirections sont destinées à être utilisées en dehors du osu! wiki, par exemple, sur les forums ou dans le [tchat](/wiki/Client/Interface/Chat_console), où elles peuvent être rapidement transformées en référence en ligne :
+La plupart des articles de l'osu! wiki ont des liens alternatifs, qui sont configurés à l'aide du fichier [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml). Les redirections sont destinées à être utilisées en dehors de l'osu! wiki, par exemple, sur les forums ou dans le [tchat](/wiki/Client/Interface/Chat_console), où elles peuvent être rapidement transformées en référence en ligne :
 
 ```
 Selon les [[RC]], ceci est interdit.
@@ -45,7 +45,7 @@ Lorsque vous ajoutez des redirections pour un article nouveau ou existant, garde
 
 Le dépôt osu! wiki utilise une [continuous integration](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) pour vérifier automatiquement les pull requests entrantes afin de détecter diverses erreurs courantes. La liste des vérifications est configurée dans le fichier [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml). 
 
-Le fichier [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) liste tous les plugins utilisés par le CI, dont certains ont été écrits par les maintainers du osu! wiki.
+Le fichier [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) liste tous les plugins utilisés par le CI, dont certains ont été écrits par les maintainers de l'osu! wiki.
 
 Les vérifications du CI sont exécutées automatiquement sur chaque commit d'un contributeur récurrent. Pour que leurs pull requests soient fusionnées, les contributeurs doivent corriger les erreurs signalées par le CI. Pour voir le [statut des vérifications](img/ci-status.png), procédez comme suit :
 
@@ -56,7 +56,7 @@ Si vous avez besoin d'aide pour décrypter les erreurs de vérification des CI, 
 
 ### Développement
 
-Le osu! wiki est intégré au site web d'osu!, ce qui signifie que toutes les demandes de fonctionnalités techniques doivent être [faites et suivies](https://github.com/ppy/osu-web/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aarea%3Awiki) dans le dépôt `ppy/osu-web`. Pour informer les autres contributeurs de votre demande, assurez-vous d'envoyer un lien de l'issue dans le salon Discord `#osu-wiki`, ou le suivi des issues du osu! wiki.
+L'osu! wiki est intégré au site web d'osu!, ce qui signifie que toutes les demandes de fonctionnalités techniques doivent être [faites et suivies](https://github.com/ppy/osu-web/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Aarea%3Awiki) dans le dépôt `ppy/osu-web`. Pour informer les autres contributeurs de votre demande, assurez-vous d'envoyer un lien de l'issue dans le salon Discord `#osu-wiki`, ou le suivi des issues de l'osu! wiki.
 
 ### Outils
 
@@ -76,7 +76,7 @@ Le wiki repose sur les contributions de la communauté d'osu!. Vous pouvez aider
 
 *Pour une liste des traductions à faire, voir : [osu-wiki status](https://clayton.cc/osu-wiki-status/en)*
 
-Le osu! wiki est lu par des gens du monde entier. Pour aider votre communauté locale et attirer de nouveaux joueurs, mappeurs, moddeurs et développeurs géniaux dans le jeu, vous pouvez traduire les articles anglais ou mettre à jour les traductions existantes qui ont pris du retard. Consultez la [liste des langues](/wiki/Article_styling_criteria/Formatting#locales) prises en charge par le osu! wiki et assurez-vous que votre traduction respecte le principe de [parité de contenu](/wiki/Article_styling_criteria/Writing#parité-de-contenu). Si vous êtes un utilisateur courant et un rédacteur expérimenté, prenez en charge des sujets clés tels que des articles sur les [règles](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) ou les [critères de classement](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). Si vous débutez votre carrière de rédacteur, choisissez un petit article pour recevoir l'aide et les conseils de réviseurs natifs.
+L'osu! wiki est lu par des gens du monde entier. Pour aider votre communauté locale et attirer de nouveaux joueurs, mappeurs, moddeurs et développeurs géniaux dans le jeu, vous pouvez traduire les articles anglais ou mettre à jour les traductions existantes qui ont pris du retard. Consultez la [liste des langues](/wiki/Article_styling_criteria/Formatting#locales) prises en charge par l'osu! wiki et assurez-vous que votre traduction respecte le principe de [parité de contenu](/wiki/Article_styling_criteria/Writing#parité-de-contenu). Si vous êtes un utilisateur courant et un rédacteur expérimenté, prenez en charge des sujets clés tels que des articles sur les [règles](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) ou les [critères de classement](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). Si vous débutez votre carrière de rédacteur, choisissez un petit article pour recevoir l'aide et les conseils de réviseurs natifs.
 
 Une traduction peut être fusionnée sans native review s'il s'est écoulé plus de deux semaines depuis sa date de création.
 
@@ -84,7 +84,7 @@ Une traduction peut être fusionnée sans native review s'il s'est écoulé plus
 
 *Pour l'étendue possible du travail, voir : [Liste des stubs existants (anglais)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
 
-Certains articles du osu! wiki sont incomplets et manquent d'informations. Ces articles sont marqués comme des *stubs*, ce qui signifie qu'ils sont suffisamment importants pour exister en tant que pages individuelles, mais qu'ils seront complétés plus tard. Si vous êtes familier avec le sujet de l'article, contribuez-y et partagez vos connaissances.
+Certains articles de l'osu! wiki sont incomplets et manquent d'informations. Ces articles sont marqués comme des *stubs*, ce qui signifie qu'ils sont suffisamment importants pour exister en tant que pages individuelles, mais qu'ils seront complétés plus tard. Si vous êtes familier avec le sujet de l'article, contribuez-y et partagez vos connaissances.
 
 ### Inter-connexion
 
@@ -98,4 +98,4 @@ osu! est un environnement en constante évolution : la communauté crée de nouv
 
 *Pour l'étendue possible du travail, voir : [Liste des TODO non suivis (anglais)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
 
-Les articles existants ont également besoin d'être entretenus. Si vous avez trouvé une erreur factuelle, ou s'il manque des détails, ou si vous voulez simplement réécrire/étendre l'article en fonction de la réalité, avancez et faites du osu! wiki un meilleur endroit. Si le changement que vous envisagez est assez important ou significatif, assurez-vous de le soumettre à la discussion dans le canal `#osu-wiki`, ou [créer un suivi de problèmes](https://github.com/ppy/osu-wiki/issues/new).
+Les articles existants ont également besoin d'être entretenus. Si vous avez trouvé une erreur factuelle, ou s'il manque des détails, ou si vous voulez simplement réécrire/étendre l'article en fonction de la réalité, avancez et faites de l'osu! wiki un meilleur endroit. Si le changement que vous envisagez est assez important ou significatif, assurez-vous de le soumettre à la discussion dans le canal `#osu-wiki`, ou [créer un suivi de problèmes](https://github.com/ppy/osu-wiki/issues/new).

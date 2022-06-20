@@ -38,8 +38,8 @@ In the event that another user is harassing you via private messages either on t
 
 **To block a user from sending you messages in-game, simply add them to your ignore list.**
 
-1. Click the Options menu button in-game
-2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
+1. Click the `Options` menu button in-game
+2. Type `ignore` to filter the options listing to the `Chat Ignore List` section.
 3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called *The Gatekeeper* becomes *The\_Gatekeeper* for example).
 
 You'll no longer see public chat messages from any users on that list, or receive private messages from them.
@@ -51,7 +51,7 @@ If you wish to ignore highlights, private messages, or public messages, you can 
 If you wish to prevent anyone not on your friends list from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
 
 1. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
-2. Type "block" to filter the options listing to the "In-game Chat" section.
+2. Type `block` to filter the options listing to the `In-game Chat` section.
 3. Click on the setting that appears to enable it.
 
 Users who are not on your friends list can no longer contact you.
@@ -72,9 +72,9 @@ Make sure to include any chat logs or other evidence in the email, and our suppo
 
 ### What are these "Me!" pages that I see on other player's profiles?
 
-**Me! pages, or userpages, are special profile elements that all players with a [supporter tag](https://osu.ppy.sh/home/support) get access to. They can contain whatever you like - pictures of your achievements, your beatmaps, basically anything you wish!**
+**Me! pages, or userpages, are special profile elements that all players with a [supporter tag](https://osu.ppy.sh/home/support) get access to. They can contain whatever you like — pictures of your achievements, your beatmaps, basically anything you wish!**
 
-Players with a [supporter tag](https://osu.ppy.sh/home/support) are given the privilege of editing their very own page for display on their profile for the world to see. Me! pages may contain anything you like - so long as it follows the [community rules](/wiki/Rules)!
+Players with a [supporter tag](https://osu.ppy.sh/home/support) are given the privilege of editing their very own page for display on their profile for the world to see. Me! pages may contain anything you like, so long as it follows the [community rules](/wiki/Rules)!
 
 Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out, your Me! page will **remain visible** and you will still be able to edit its contents.
 

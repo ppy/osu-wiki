@@ -98,8 +98,8 @@ The Springtime osu!mania Free-for-all Tournament 6 will offer a $250 minimum cas
 - After the qualification round, the remaining players will be divided into 4 different groups based on their qualification seeds. Each group will have a different set of protocols to follow.
   - **1st-16th seeds**: The top 16 seeds of the qualification stage will advance directly into Group Stage of the tournament. They do not need to participate in any matches during Playoff Stage.
   - **17th-32nd seeds**: Players within this group will participate in one match during Playoff Stage. Their opponent will be a player from the 97th-128th seed group. Players who win their matches in this stage will advance to Group Stage.
-  - **33rd-96th seeds**: Players within this group will participate in one match during Playoff Stage. Their opponent will be a player in the 33rd to 96th seed group—more specifically, `(129 - the player's seed)`. Players who win their match in this stage will advance to Group Stage.
-  - **97th-128th seeds**: Players within this group will participate in **two matches** during Playoff Stage. Their first opponent will be a player in the 97th-128th seed group—more specifically, `(225 - the player's seed)`. If the player wins their first match, their second opponent will be a player in the 17th-32nd seed group. Players who win both of their matches in this stage will advance to Group Stage.
+  - **33rd-96th seeds**: Players within this group will participate in one match during Playoff Stage. Their opponent will be a player in the 33rd to 96th seed group — more specifically, `(129 - the player's seed)`. Players who win their match in this stage will advance to Group Stage.
+  - **97th-128th seeds**: Players within this group will participate in **two matches** during Playoff Stage. Their first opponent will be a player in the 97th-128th seed group — more specifically, `(225 - the player's seed)`. If the player wins their first match, their second opponent will be a player in the 17th-32nd seed group. Players who win both of their matches in this stage will advance to Group Stage.
 
 #### Group stage
 

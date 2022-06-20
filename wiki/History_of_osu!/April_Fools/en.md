@@ -189,7 +189,7 @@ For the April Fools' day of 2019, there was approximately a 1 in 20 chance of he
 
 ### MillhioreF joins the Featured Artists
 
-[MillhioreF](https://osu.ppy.sh/users/941094)—a long-time osu! moderator, developer and [Easy mod](/wiki/Game_modifier/Easy) player—was announced in [a newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) to have "joined" the list of [Featured Artists](/wiki/Featured_Artists) as "Millhiore Firianno Biscotti" on 1 April 2020 with a selection of five songs to boot [[71]][r]:
+[MillhioreF](https://osu.ppy.sh/users/941094) — a long-time osu! moderator, developer and [Easy mod](/wiki/Game_modifier/Easy) player — was announced in [a newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) to have "joined" the list of [Featured Artists](/wiki/Featured_Artists) as "Millhiore Firianno Biscotti" on 1 April 2020 with a selection of five songs to boot [[71]][r]:
 
 - Waltz o' the Irish
 - The Waltzing Irishman
@@ -197,7 +197,7 @@ For the April Fools' day of 2019, there was approximately a 1 in 20 chance of he
 - A Waltz From The Geographical Region Known as Ireland but Also as Éire
 - There's Gold Beneath Your Waltzing Rainbow (feat. Mismagius)
 
-["MillhioreF - Waltz o' the Irish (MillhioreF)"](https://osu.ppy.sh/beatmapsets/73348#osu/326585)—a long-running joke beatmap within the community—was also [Loved](/wiki/Beatmap/Category#loved) on 31 March 2020 as part of this joke.
+["MillhioreF - Waltz o' the Irish (MillhioreF)"](https://osu.ppy.sh/beatmapsets/73348#osu/326585) — a long-running joke beatmap within the community — was also [Loved](/wiki/Beatmap/Category#loved) on 31 March 2020 as part of this joke.
 
 ### Sneezing girl sound effect
 

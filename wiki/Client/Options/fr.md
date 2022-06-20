@@ -92,8 +92,7 @@ Cette section concerne l'apparence de votre client, les sections de l'interface 
 
 ---
 
-*Remarque : lorsque le client n'est pas la fenêtre active, la limite de FPS est automatiquement abaissée à 30 fps.*
-
+*Remarque : lorsque le client n'est pas la fenêtre active, la limite de FPS est automatiquement abaissée à 30 fps.*\
 *Attention aux utilisateurs d'ordinateurs portables : l'utilisation de `Illimité (en jeu)` peut provoquer une surchauffe de votre ordinateur portable !*
 
 Si vous ouvrez la liste déroulante pour `Images par seconde :`, vous serez présenté avec ces options :
