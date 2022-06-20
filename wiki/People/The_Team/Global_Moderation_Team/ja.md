@@ -91,7 +91,7 @@ tags:
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | ポルトガル語 | Mapping/modding コミュニティ モデレーション |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu!開発者 |
 | ![][flag_VN] [My Angel Chino](https://osu.ppy.sh/users/20547597) | ベトナム語 | チャットモデレーション |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | フィリピン語 | チャットモデレーション、フォーラムモデレーション、テクニカルサポート |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | フィリピノ語 | チャットモデレーション、フォーラムモデレーション、テクニカルサポート |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | フランス語 | チャットモデレーション |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Mapping/modding コミュニティ モデレーション |
 | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | インドネシア語 | チャットモデレーション |
@@ -99,7 +99,7 @@ tags:
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | ポルトガル語、スペイン語 | チャットモデレーション |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | ドイツ語 | Mapping/modding コミュニティ モデレーション |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | ドイツ語、セルビア語 | チャットモデレーション、mapping/modding コミュニティ モデレーション |
-| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | フィリピン語 | チャットモデレーション |
+| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | フィリピノ語 | チャットモデレーション |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | オフィシャルチームプレゼンス |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | ドイツ語 | トーナメント運営 |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | フランス語、部分的なスペイン語 | チャットモデレーション |
@@ -120,8 +120,8 @@ tags:
 | ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) | インドネシア語、部分的なベトナム語 | チャットモデレーション |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | 中国語 | チャットモデレーション |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | ロシア語 | チャットモデレーション、wiki管理者 |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | 韓国語、日本語、フィリピン語 | チャットモデレーション |
-| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | フィリピン語 | チャットモデレーション |
+| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | 韓国語、日本語、フィリピノ語 | チャットモデレーション |
+| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | フィリピノ語 | チャットモデレーション |
 | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) | タイ語 | チャットモデレーション |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | スペイン語 | テクニカルサポート |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | ポーランド語 | チャットモデレーション |

@@ -75,7 +75,7 @@ tags:
 | ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Китайский, частично французский |
 | ![][flag_SG] [Kotoha](https://osu.ppy.sh/users/7823498) |  |
-| ![][flag_HK] [Kyle Y](https://osu.ppy.sh/users/3565813) | Китайский, кантонский диалект |
+| ![][flag_HK] [Kyle Y](https://osu.ppy.sh/users/3565813) | Китайский, кантонский |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Немецкий |
 | ![][flag_KR] [Len](https://osu.ppy.sh/users/1686145) | Корейский |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
@@ -95,7 +95,7 @@ tags:
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Русский |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Китайский |
-| ![][flag_HK] [Saggin](https://osu.ppy.sh/users/12464107) | Китайский, кантонский диалект, частично японский |
+| ![][flag_HK] [Saggin](https://osu.ppy.sh/users/12464107) | Китайский, кантонский, частично японский |
 | ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | Французский |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Русский |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
@@ -118,10 +118,10 @@ tags:
 | Имя | Языки |
 | :-- | :-- |
 | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | Испанский |
-| ![][flag_HK] [BlackBN](https://osu.ppy.sh/users/6291741) | Китайский, кантонский диалект |
+| ![][flag_HK] [BlackBN](https://osu.ppy.sh/users/6291741) | Китайский, кантонский |
 | ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
 | ![][flag_JP] [Chromoxx](https://osu.ppy.sh/users/1881639) | Японский |
-| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Китайский, кантонский диалект |
+| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Китайский, кантонский |
 | ![][flag_BR] [D0UG](https://osu.ppy.sh/users/13806900) | Португальский |
 | ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | Испанский |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Вьетнамский |
@@ -132,7 +132,7 @@ tags:
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Арабский, французский, частично итальянский |
 | ![][flag_BR] [Ideal](https://osu.ppy.sh/users/3869519) | Португальский |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Нидерландский |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Японский, кантонский диалект, китайский |
+| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Японский, кантонский, китайский |
 | ![][flag_US] [meiqth](https://osu.ppy.sh/users/12565402) |  |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Китайский |
 | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |  |
@@ -146,7 +146,7 @@ tags:
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Тайский |
 | ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | Корейский |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Кантонский диалект |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Кантонский |
 | ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
 | ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | Нидерландский |
 | ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Нидерландский |
@@ -227,7 +227,7 @@ tags:
 | ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | Китайский |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Китайский |
 | ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | Испанский |
-| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Малайзийский |
+| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Малайский |
 | ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Индонезийский |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Индонезийский |
 | ![][flag_ID] [Syrion-](https://osu.ppy.sh/users/15380643) | Индонезийский |
