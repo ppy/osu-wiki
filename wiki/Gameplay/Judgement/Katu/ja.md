@@ -6,8 +6,7 @@ tags:
 
 # 喝
 
-*次も参照してください: [激](/wiki/Gameplay/Judgement/Geki)*
-
+*次も参照してください: [激](/wiki/Gameplay/Judgement/Geki)*\
 *osu!taikoのかつと混同しないようにしてください。*
 
 喝、*Katsu*、もしくは*Beat!*とは、[コンボ](/wiki/Beatmapping/Combo)が全てのノーツに対して可能な限り高い[精度](/wiki/Gameplay/Accuracy)で完了した場合の[判定](/wiki/Gameplay/Judgement)用語です。ただし、コンボに50点やミスが含まれていると喝にはなりません。

@@ -420,9 +420,9 @@ Monday, 11 January 2021:
 - Average rank was determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 - Here are the seeding criteria for Qualifiers:
   - Top 4 will be declared as Top seed and automatically advance to the Knockout Stage without needing to compete in the Post-Qualifiers
-  - Seed #5 - Seed #8 will be declared as High seed and will have to compete against Low seeded participants in the Post-Qualifiers
-  - Seed #9 - Seed #24 will be declared as Middle seed and will have to compete against other Middle seeded participants in the Post-Qualifiers
-  - Seed #25 - Seed #32 will be declared as Low seed and will have to compete against other Low seed and some High seeded participants in the Post-Qualifiers
+  - Seed #5–Seed #8 will be declared as High seed and will have to compete against Low seeded participants in the Post-Qualifiers
+  - Seed #9–Seed #24 will be declared as Middle seed and will have to compete against other Middle seeded participants in the Post-Qualifiers
+  - Seed #25–Seed #32 will be declared as Low seed and will have to compete against other Low seed and some High seeded participants in the Post-Qualifiers
   - Seed #33 and below will be eliminated and out of this tournament
 
 | Seed | Player | Average rank |

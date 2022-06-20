@@ -48,7 +48,7 @@ Le mod Flashlight est considéré par beaucoup comme le mod le plus difficile d'
 
 Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), la position de la zone visible est fixée à la zone de hit. Et de la même manière que dans osu!, la zone visible rétrécit au fur et à mesure que le combo augmente : elle rétrécit lorsque le combo est multiplié par 100 et 200, mais revient à sa taille initiale si le combo est interrompu.
 
-![Gameplay avec le mod FL dans osu!taiko](img/FL-taiko.jpg "Gameplay de osu!taiko avec le mod Flashlight activé")
+![Gameplay avec le mod FL dans osu!taiko](img/FL-taiko.jpg "Gameplay d'osu!taiko avec le mod Flashlight activé")
 
 Lorsqu'il est associé au mod Hidden, la zone visible de Flashlight devient un point discutable car les notes sont techniquement "invisibles" du fait qu'elles s'effacent complètement lorsqu'elles atteignent la zone visible. Cela nécessite également une mémorisation complète de la beatmap.
 
@@ -56,7 +56,7 @@ Lorsqu'il est associé au mod Hidden, la zone visible de Flashlight devient un p
 
 Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), le comportement du mod Flashlight est le même que dans osu!, à l'exception du fait que la zone visible suit l'attrapeur au lieu du curseur. Et en raison de la nature du mode osu!catch, la zone visible est nettement plus grande que dans les modes osu! et osu!taiko.
 
-![Gameplay avec le mod FL dans osu!catch](img/FL-catch.jpg "Gameplay de osu!catch avec le mod Flashlight activé")
+![Gameplay avec le mod FL dans osu!catch](img/FL-catch.jpg "Gameplay d'osu!catch avec le mod Flashlight activé")
 
 Lorsqu'il est associé au mod Hidden, les fruits sont momentanément visibles si l'attrapeur se trouve *directement sous* les fruits. C'est-à-dire jusqu'à ce que le joueur atteigne 100x le combo, auquel cas les fruits deviennent complètement invisibles au moment où ils atteignent la zone visible. Tout comme les modes osu! et osu!taiko, cela nécessite également une mémorisation complète de la beatmap.
 
@@ -64,7 +64,7 @@ Lorsqu'il est associé au mod Hidden, les fruits sont momentanément visibles si
 
 Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), la zone visible est limitée à une barre horizontale relativement fine au centre du playfield, tandis que tout le reste est obstrué. En ce sens, le mod Flashlight peut être considéré comme la combinaison des mods Hidden et [Fade In](/wiki/Game_modifier/Fade_In). (C'est-à-dire sans les changements de taille de la zone visible).
 
-![Gameplay avec le mod FL dans osu!mania](img/FL-mania.jpg "Gameplay de osu!mania avec le mod Flashlight activé")
+![Gameplay avec le mod FL dans osu!mania](img/FL-mania.jpg "Gameplay d'osu!mania avec le mod Flashlight activé")
 
 ## Le saviez-vous ?
 

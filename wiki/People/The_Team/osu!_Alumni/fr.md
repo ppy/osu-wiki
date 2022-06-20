@@ -106,7 +106,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Gestion des tournois |
 | ![][flag_MX] [Kai](https://osu.ppy.sh/users/4537) | BAT |
-| ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, créateur de osu!media |
+| ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, créateur d'osu!media |
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
 | ![][flag_MX] [Kenezz](https://osu.ppy.sh/users/167050) | BAT |
 | ![][flag_TH] [Kharl](https://osu.ppy.sh/users/452) | BAT |

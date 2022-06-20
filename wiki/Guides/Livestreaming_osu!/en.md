@@ -18,7 +18,7 @@ A dialog will open for you to enter your stream's information. You can fill the 
 
 ---
 
-After editing your stream's information, click the `Done` button. Now click on the `Preferences` button on the left, then `Channel`. Look for the `Primary Stream key` field and click `Copy`. **Do not share this key—it allows for streaming on your behalf**. For now, paste the copied stream key in a notepad.
+After editing your stream's information, click the `Done` button. Now click on the `Preferences` button on the left, then `Channel`. Look for the `Primary Stream key` field and click `Copy`. **Do not share this key — it allows for streaming on your behalf**. For now, paste the copied stream key in a notepad.
 
 ![](img/stream-key.png "Getting the stream key")
 
@@ -46,7 +46,7 @@ After this, OBS Studio will auto-configure itself to find the best settings for 
 
 The last thing you will need to start streaming is a scene containing the osu! window. To create one, right-click on the `Scenes` box from OBS Studio's main window and select `Add` to be prompted with a scene creation window. Name it "osu!", and click `OK` to continue.
 
-Now OBS Studio needs a source to capture osu!. First, open osu!, then—in OBS Studio—right-click on the `Sources` box and select `Add` -> `Game Capture`. This will open the source selection dialog. You can name the source as "osu!", but it can be whatever you want, then click `OK`. Select `Capture specific window` from the `Mode` dropdown then select `[osu!.exe]: osu!` from the `Window` list.
+Now OBS Studio needs a source to capture osu!. First, open osu!, then — in OBS Studio — right-click on the `Sources` box and select `Add` -> `Game Capture`. This will open the source selection dialog. You can name the source as "osu!", but it can be whatever you want, then click `OK`. Select `Capture specific window` from the `Mode` dropdown then select `[osu!.exe]: osu!` from the `Window` list.
 
 ![](img/game-capture.png "Capturing the osu! window in OBS Studio")
 

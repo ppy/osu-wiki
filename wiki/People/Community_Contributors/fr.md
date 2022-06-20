@@ -14,7 +14,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 
 | Utilisateur | Contributions |
 | :-- | :-- |
-| ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | Développement et maintenance du [osu!record service](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` en fichier vidéo). |
+| ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | Développement et maintenance de l'[osu!record service](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` en fichier vidéo). |
 | ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | Hébergement et maintenance de l'un des plus anciens [sites miroirs de beatmaps](https://osu.yas-online.net/) d'osu!. |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Nombre incalculable de contributions graphiques au client et à tout le reste. |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Conception des [Médailles](/wiki/Medals) |
@@ -22,7 +22,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Performances exceptionnelles dans les tests de correction de bugs et de fonctionnalités ainsi que dans le codage de nombreux utilitaires pour les mappeurs et les moddeurs. |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organisation de plusieurs grands tournois officiels (dont l'OWC). |
 | ![][flag_US] [Blazevoir](https://osu.ppy.sh/users/120265) | Antécédents fous en matière de modération (l'équivalent d'environ 6 membres du staff) et modération presque à elle seule du canal `#osu` pendant les heures de pointe (9k+ utilisateurs). |
-| ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Développement et maintenance de [osu!stats](https://osustats.ppy.sh/) et d'un certain nombre d'utilitaires utiles pour le beatmapping, le modding et le jeu en général. |
+| ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) | Développement et maintenance d'[osu!stats](https://osustats.ppy.sh/) et d'un certain nombre d'utilitaires utiles pour le beatmapping, le modding et le jeu en général. |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Performances exceptionnelles dans les tests de correction de bugs et de fonctionnalités et dans le traitement des demandes d'assistance des utilisateurs. |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | Plus de 3 ans de travail silencieux à s'occuper inlassablement du [beatmap packing](https://osu.ppy.sh/beatmaps/packs) et plusieurs années de gestion des beatmap charts. |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Des années et des années de service, y compris la conception du skin original, l'avancement du [storyboarding](/wiki/Storyboard) en tant qu'art et motivation. |
@@ -38,7 +38,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 | :-- | :-- |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Contribution exceptionnelle à l'osu! wiki |
 | ![][flag_MY] [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Contribution exceptionnelle à l'osu! wiki |
-| ![][flag_DE] [givenameplz](https://osu.ppy.sh/users/947499) | Développement de osu!Rank & osu!Post |
+| ![][flag_DE] [givenameplz](https://osu.ppy.sh/users/947499) | Développement d'osu!Rank & osu!Post |
 
 ## 2016
 

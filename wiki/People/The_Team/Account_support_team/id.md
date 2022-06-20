@@ -12,8 +12,7 @@ Biasanya dibutuhkan waktu beberapa hari bagi Support Team untuk mendapatkan emai
 
 ## Peran dan tugas
 
-*Artikel utama: [Pusat Bantuan](/wiki/Help_centre)*
-
+*Artikel utama: [Pusat Bantuan](/wiki/Help_centre)*\
 *Lihat juga: [Akun yang di-restrict](/wiki/Help_centre/Account_restrictions)*
 
 Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang berada di luar kendali kamu. Perlu diingat untuk menjelaskan sedetail mungkin tentang masalah kamu dan kirim email tersebut melalui email yang terhubung dengan akun osu! kamu.

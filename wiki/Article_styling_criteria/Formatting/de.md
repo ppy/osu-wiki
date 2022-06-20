@@ -338,8 +338,7 @@ Alle Überschriften müssen "Sentence case" benutzen.
 
 ### Titel
 
-*Siehe auch: [Artikelbenennung](#artikelbenennung)*
-
+*Siehe auch: [Artikelbenennung](#artikelbenennung)*\
 *Vorsicht: Titel werden als Klartext verarbeitet, sie dürfen nicht escaped werden.*
 
 Die erste Überschrift muss in allen Artikeln das Level 1 haben, da es der Artikeltitel ist. Alle Überschriften danach müssen [Abschnittstitel](#abschnitte) sein. Titel dürfen keine Formatierung, Links oder Bilder enthalten.

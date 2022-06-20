@@ -66,7 +66,7 @@ Pour déplacer le curseur, les joueurs utilisant un écran tactile touchent l'é
 
 Lorsqu'un joueur avec un écran tactile touche l'écran, son appareil déplace simultanément le curseur vers ce point et envoie une entrée de souris. Ainsi, pour toucher, suivre les sliders et faire tourner les spinners, les joueurs avec un écran tactile ne toucheront les objets que lorsqu'ils voudront qu'ils le soient.
 
-Ce style de jeu peut ressembler à celui de [osu!stream](/wiki/osu!stream) en raison de l'action de toucher directement l'écran plutôt que de déplacer un curseur.
+Ce style de jeu peut ressembler à celui d'[osu!stream](/wiki/osu!stream) en raison de l'action de toucher directement l'écran plutôt que de déplacer un curseur.
 
 *Remarque : Le compteur de clics indique l'entrée tactile comme `M1`.*
 

@@ -22,6 +22,6 @@ Les archives de l'histoire d'osu!, toutes dans le wiki.
 
 ---
 
-A noter que le osu!wiki a un peu de son histoire détaillée éparpillée à travers les pages.
+A noter que l'osu!wiki a un peu de son histoire détaillée éparpillée à travers les pages.
 
 - [osu! wiki](/wiki/History_of_osu!/osu!_wiki)

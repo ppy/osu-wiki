@@ -583,7 +583,7 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 ### Match rules
 
 - Before the start of the match, both players are given a single ban on a map from the mappool. Maps banned cannot be picked. For mod parts of the pool, both mod picks cannot be banned. (You can only ban 1 HD, 1 HR, etc.)
-- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - this can be any submitted map, as long as it's playable (no centipede-tier maps). This does not count towards match score.
+- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice — this can be any submitted map, as long as it's playable (no centipede-tier maps). This does not count towards match score.
 - The game mode will be set to Team Vs.
 - The referee is not to participate in the match.
 - After the end of the match, the referee will post the title of the match and a link to the MP history of that lobby and the final match score.

@@ -59,7 +59,7 @@ Once osu!supporter expires, the cover will remain, but cannot be changed.
 
 ### One free username change
 
-*Note: Minor name changes may be requested from the account support team for free—see [Help centre/Account § Can I change my account's username?](/wiki/Help_centre/Account#name-changes).*
+*Note: Minor name changes may be requested from the account support team for free — see [Help centre/Account § Can I change my account's username?](/wiki/Help_centre/Account#name-changes).*
 
 Getting osu!supporter comes with the ability to change usernames for free for the first time, under [usual conditions](/wiki/Help_centre/Account#name-changes).
 
