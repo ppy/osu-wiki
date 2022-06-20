@@ -96,31 +96,24 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983) |
 | ![][flag_VN] | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)**, [Stardust Prism](https://osu.ppy.sh/users/8525921), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-Linglan Lily-](https://osu.ppy.sh/users/8738261), [Marota](https://osu.ppy.sh/users/10278890), [NamSPro](https://osu.ppy.sh/users/11387006) |
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Saturday, June 18, 2022
+### Saturday, 25 June 2022
 
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| France | ![][flag_FR] | ![][flag_DE] | Germany | Jun 18 (Sat) 15:00 UTC | Jun 18 (Sat) 17:00 UTC+2 | Jun 18 (Sat) 17:00 UTC+2 | [^losers-bracket] |
-| Mexico | ![][flag_MX] | ![][flag_IT] | Italy | Jun 18 (Sat) 17:00 UTC | Jun 18 (Sat) 12:00 UTC-5 | Jun 18 (Sat) 19:00 UTC+2 | [^losers-bracket] |
-| Chile | ![][flag_CL] | ![][flag_RU] | Russian Federation | Jun 18 (Sat) 19:00 UTC | Jun 18 (Sat) 15:00 UTC-4 | Jun 18 (Sat) 22:00 UTC+3 | [^losers-bracket] |
-| Chile | ![][flag_CL] | ![][flag_FR] | France | Jun 18 (Sat) 20:30 UTC | Jun 18 (Sat) 16:30 UTC-4 | Jun 18 (Sat) 22:30 UTC+2 | [^potential-match] |
-| Canada | ![][flag_CA] | ![][flag_AU] | Australia | Jun 18 (Sat) 23:00 UTC | Jun 18 (Sat) 18:00 UTC-5 | Jun 19 (Sun) 09:00 UTC+10 | [^losers-bracket] |
+| Team A | Team B | Match time | Local time A | Local time B |  |
+| --: | :-- | :-- | :-- | :-- | :-: |
+| Indonesia ![][flag_ID] | ![][flag_CA] Canada | 25 Jun (Sat) 14:00 UTC | 25 Jun (Sat) 21:00 UTC+7 | 25 Jun (Sat) 09:00 UTC-5 | [^losers-bracket] |
 
-### Sunday, June 19, 2022
+### Sunday, 26 June 2022
 
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_MX] | Mexico | Jun 19 (Sun) 04:00 UTC | Jun 19 (Sun) 14:00 UTC+10 | Jun 18 (Sat) 23:00 UTC-5 | [^potential-match] |
-| China | ![][flag_CN] | ![][flag_ID] | Indonesia | Jun 19 (Sun) 07:00 UTC | Jun 19 (Sun) 15:00 UTC+8 | Jun 19 (Sun) 14:00 UTC+7 | [^winners-bracket] |
-| Australia | ![][flag_AU] | ![][flag_IT] | Italy | Jun 19 (Sun) 12:00 UTC | Jun 19 (Sun) 22:00 UTC+10 | Jun 19 (Sun) 14:00 UTC+2 | [^potential-match] |
-| South Korea | ![][flag_KR] | ![][flag_US] | United States | Jun 19 (Sun) 14:00 UTC | Jun 19 (Sun) 23:00 UTC+9 | Jun 19 (Sun) 09:00 UTC-5 | [^winners-bracket] |
-| Russian Federation | ![][flag_RU] | ![][flag_FR] | France | Jun 19 (Sun) 16:00 UTC | Jun 19 (Sun) 19:00 UTC+3 | Jun 19 (Sun) 18:00 UTC+2 | [^potential-match] |
-| Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | Jun 19 (Sun) 16:00 UTC | Jun 19 (Sun) 19:00 UTC+3 | Jun 19 (Sun) 18:00 UTC+2 | [^potential-match] |
-| Canada | ![][flag_CA] | ![][flag_MX] | Mexico | Jun 19 (Sun) 18:00 UTC | Jun 19 (Sun) 13:00 UTC-5 | Jun 19 (Sun) 13:00 UTC-5 | [^potential-match] |
-| Canada | ![][flag_CA] | ![][flag_IT] | Italy | Jun 19 (Sun) 19:00 UTC | Jun 19 (Sun) 14:00 UTC-5 | Jun 19 (Sun) 21:00 UTC+2 | [^potential-match] |
-| Chile | ![][flag_CL] | ![][flag_DE] | Germany | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 16:00 UTC-4 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
+| Team A | Team B | Match time | Local time A | Local time B |  |
+| --: | :-- | :-- | :-- | :-- | :-: |
+| China ![][flag_CN] | ![][flag_KR] South Korea | 26 Jun (Sun) 12:00 UTC | 26 Jun (Sun) 20:00 UTC+8 | 26 Jun (Sun) 21:00 UTC+9 | [^winners-bracket] |
+| United States ![][flag_US] | ![][flag_FR] France | 26 Jun (Sun) 14:00 UTC | 26 Jun (Sun) 09:00 UTC-5 | 26 Jun (Sun) 16:00 UTC+2 | [^losers-bracket] |
+| United States ![][flag_US] | ![][flag_ID] Indonesia | 26 Jun (Sun) 15:30 UTC | 26 Jun (Sun) 10:30 UTC-5 | 26 Jun (Sun) 22:30 UTC+7 | [^potential-match] |
+| United States ![][flag_US] | ![][flag_CA] Canada | 26 Jun (Sun) 15:30 UTC | 26 Jun (Sun) 10:30 UTC-5 | 26 Jun (Sun) 10:30 UTC-5 | [^potential-match] |
+| France ![][flag_FR] | ![][flag_ID] Indonesia | 26 Jun (Sun) 15:30 UTC | 26 Jun (Sun) 17:30 UTC+2 | 26 Jun (Sun) 22:30 UTC+7 | [^potential-match] |
+| France ![][flag_FR] | ![][flag_CA] Canada | 26 Jun (Sun) 17:00 UTC | 26 Jun (Sun) 19:00 UTC+2 | 26 Jun (Sun) 12:00 UTC-5 | [^potential-match] |
 
 ## Mappools
 
@@ -254,11 +247,31 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ## Match results
 
+### Semifinals
+
+Saturday, 18 June 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **France** ![][flag_FR] | **7** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/101572162) |
+| Mexico ![][flag_MX] | 2 | **7** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/101575255) |
+| **Chile** ![][flag_CL] | **7** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/101578500) |
+| Chile ![][flag_CL] | 6 | **7** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/101580710) |
+| **Canada** ![][flag_CA] | **7** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/101584101) |
+
+Sunday, 19 June 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ![][flag_CN] | **7** | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/101592281) |
+| **South Korea** ![][flag_KR] | **7** | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/101600086) |
+| **Canada** ![][flag_CA] | **7** | 6 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/101607690) |
+
 ### Quarterfinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/18lk9qlRMAdu3I0o2eRNTGmwkE7hLkDKQ_49EcwUEwaE/view?rm=minimal).
 
-Saturday, June 11, 2022
+Saturday, 11 June 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -270,7 +283,7 @@ Saturday, June 11, 2022
 | **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/101380647) |
 | **Russian Federation** ![][flag_RU] | **6** | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/101382298) |
 
-Sunday, June 12, 2022
+Sunday, 12 June 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -288,7 +301,7 @@ Sunday, June 12, 2022
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1bH8pqehvCR6XrpHaCK9Bg40XimzhLVjvmdHi7Il3TbQ/view?rm=minimal).
 
-Saturday, June 4, 2022
+Saturday, 4 June 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -299,7 +312,7 @@ Saturday, June 4, 2022
 | **France** ![][flag_FR] | **6** | 5 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/101183457) |
 | **Canada** ![][flag_CA] | **6** | 5 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/101189382) |
 
-Sunday, June 5, 2022
+Sunday, 5 June 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -318,7 +331,7 @@ Sunday, June 5, 2022
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1TXBAh_aZ7I-gVQ7nMNMl2KXOjr7sZGK5nS97dg1xf3Y/view?rm=minimal).
 
-Saturday, May 28, 2022
+Saturday, 28 May 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -327,7 +340,7 @@ Saturday, May 28, 2022
 | **Singapore** ![][flag_SG] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/100988735) |
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/100999540) |
 
-Sunday, May 29, 2022
+Sunday, 29 May 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -460,7 +473,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 5. The mappool **must** be played in the following order: NM1, NM2, NM3, HD1, HD2, HR1, HR2, DT1, DT2.
 6. Each team must have 3 players for each map. They can be exchanged freely after each map is concluded.
 7. A team's final score for a map is considered as the highest combined team score for that map (i.e. the sum of each individual player's score). Only the highest score out of the two runs will be used for seeding.
-8. The seeding method used for Qualifiers will be %MAX—the highest combined team score for each map will receive 100% of the points, and every other team will be awarded a percentage of that top score.
+8. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points, and every other team will be awarded a percentage of that top score.
    - The exact formula that will be used for all teams (and for each map) is `Final Score = Team Score / MAX(Map Score)`, where:
      - `Final Score` is the percentage awarded to the current team
      - `Team Score` is the score the current team achieved on the current map
@@ -518,7 +531,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament staff. Each team is free to choose a time slot in which they want to play.
-   - **A team that doesn't pick a time slot by Wednesday, May 18 23:59 UTC will be considered disqualified.**
+   - **A team that doesn't pick a time slot by Wednesday, 18 May 23:59 UTC will be considered disqualified.**
 3. All Bracket Stages will be held between Saturday 0:00 and Sunday 23:59 UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage. Tournament Management will try to create the schedule to respect the participants' time zones.
    - In the Semifinals and subsequent stages, team captains may inform Tournament Management if they expect a specific time slot to be unavailable in the following week. Schedule updates will be granted to the best of Management's abilities.
