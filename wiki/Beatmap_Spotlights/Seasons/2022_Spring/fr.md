@@ -78,7 +78,6 @@ Pour le moment, les participants doivent télécharger et installer [osu!(lazer)
 - [rejection - Aimai Attitude (feat. Nakamura Sanso) (Regou) \[Girlish Extra ft. Regou\]](https://osu.ppy.sh/beatmapsets/1601852#osu/3271290), suggéré par [ChillierPear](https://osu.ppy.sh/users/9501251)
 - [tokiwa - Kotodama Refrain (katagiri Bootleg) (Halgoh) \[Halgoh's Extreme\]](https://osu.ppy.sh/beatmapsets/1605822#osu/3371047), suggéré par [Omgforz](https://osu.ppy.sh/users/578943)
 
-
 ### osu!taiko (mené par [Hivie](https://osu.ppy.sh/users/14102976))
 
 #### Playlist A (grande vitesse)
