@@ -71,7 +71,7 @@ Si cela ne fonctionne pas pour vous (ou si vous n'avez pas accès à l'adresse e
 Les informations à inclure dans cet e-mail seraient par exemple :
 
 - L'adresse e-mail avec laquelle vous avez créé le compte, ou toute autre adresse e-mail à laquelle le compte a été associé.
-- Tout reçu pour l'achat d'un osu!supporter ou d'autres articles du osu!store.
+- Tout reçu pour l'achat d'un osu!supporter ou d'autres articles de l'osu!store.
 - La dernière date à laquelle vous avez souvenir d'avoir pu accéder à votre compte normalement.
 - Toute autre information d'identification qui, selon vous, pourrait être utile (à l'exception des scores ou des replays, qui ne nous aident pas beaucoup !)
 
@@ -217,8 +217,7 @@ Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour fair
 
 ### Puis-je supprimer mon compte ?
 
-*Pour plus d'informations sur la suppression des comptes, voir : [Politique de confidentialité d'osu! § Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).*
-
+*Pour plus d'informations sur la suppression des comptes, voir : [Politique de confidentialité d'osu! § Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).*\
 *Attention : La suppression d'un compte est permanente, et ne peut donc pas être annulée !*
 
 Oui, tout utilisateur peut demander la suppression de son compte en envoyant un courriel à [privacy@ppy.sh](mailto:privacy@ppy.sh). Gardez à l'esprit que la suppression de votre compte est **définitive**, ce qui signifie qu'elle ne peut pas être annulée. La suppression de votre compte ne signifie pas que vous pouvez créer un nouveau compte, car le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires). Cela signifie que vous ne pourrez plus utiliser aucune des fonctionnalités en ligne d'osu!. 
