@@ -554,10 +554,10 @@ Top 10 qualification results:
 ### Qualifiers
 
 - Players will play each map in the Qualifiers mappool once.
-- There will be 3 NoMod, 2 Hidden, 2 Hard Rock and 2 Double Time maps.
-- The top 32 scores will progress into the Swiss bracket.
+- There will be 3 NoMod, 2 Hidden, 2 Hard Rock, and 2 Double Time maps.
+- The players with the top 32 scores will progress into the Swiss bracket.
 
-### Swiss
+### Swiss bracket
 
 - Since Swiss bracketing is a natural seeding system, matchups will be drawn between **top 16 and bottom 16 players randomly** to begin.
 - Two matches will happen every weekend for each player, one on Saturday and one on Sunday—therefore, **two matchups will be drawn per weekend** for each player.
@@ -571,7 +571,7 @@ Top 10 qualification results:
 ### Banning
 
 - Each player will have **one** ban.
-- Players have **2 minutes** to ban a map. Failure to ban a map within this time limit results in a lost ban.
+- Players have **two minutes** to ban a map. Failure to ban a map within this time limit results in a lost ban.
 - There are no restrictions on bans and picks. Players are free to ban/pick any map regardless of mod.
 
 ### Warmups
@@ -581,13 +581,13 @@ Top 10 qualification results:
 ### Picking
 
 - Players have **90 seconds** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing player.
-- **Failed scores will count, and every map will be played with the No Fail mod enabled**
-- Each player picks **four times**. Once 8 maps have been picked and played, the match ends.
-- There are **no tiebreakers.**
+- **Failed scores will count, and every map will be played with the No Fail mod enabled.**
+- Each player picks **four times**. Once eight maps have been picked and played, the match ends.
+- There are **no tiebreakers**.
 
 ### Health system
 
-- Each player who qualifies into Swiss will **begin with 8,000,000 HP**, which carries through matches.
+- Each player who qualifies into the Swiss bracket will **begin with 8,000,000 HP**, which carries throughout matches.
 - During a match, the **losing player of each map pick** will **lose HP equal to the score difference** between the two players.
 - If a player's HP reaches 0, they are **immediately eliminated from the tournament**, and if their match is still in progress it ends immediately.
 
@@ -604,7 +604,7 @@ Top 10 qualification results:
 
 - A player receives a bye when an opponent is eliminated from the tournament before the scheduled match can take place.
 - If a player forfeits a match, both players will receive a bye for that match.
-- For each bye a player receives, once all scheduled matches for a round are completed, the player will receive an HP deduction of 90% of the average HP lost by players with similar aggregate match scores (+/- 1) from that round.
+- For each bye a player receives, once all scheduled matches for a round are completed, the player will receive an HP deduction of 90% of the average HP lost by players with similar aggregate match scores (±1) from that round.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
