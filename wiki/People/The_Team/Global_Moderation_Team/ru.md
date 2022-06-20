@@ -64,10 +64,10 @@ tags:
 | ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | Венгерский | Модерация чата |
 | ![][flag_CH] [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Русский | Модерация чата |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Модерация форума |
-| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | Турниры |
+| ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) |  | Организация турниров |
 | ![][flag_MY] [bibitaru](https://osu.ppy.sh/users/4482419) | Китайский, малайзийский | Модерация чата |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Модерация чата |
-| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Шведский, испанский | Модерация чата, турниры |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Шведский, испанский | Модерация чата, организация турниров |
 | ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |  | Модерация чата |
 | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) | Корейский, японский | Модерация чата |
 | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991) | Турецкий | Модерация чата |
@@ -89,10 +89,10 @@ tags:
 | ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Русский | Модерация чата |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Русский | Модерация чата |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Финский | Модерация чата |
-| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Португальский, испанский | Модерация чата, турниры |
+| ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Португальский, испанский | Модерация чата, организация турниров |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Немецкий | Модерация маппинг-сообщества |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Китайский | Модерация чата |
-| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Кантонский диалект, китайский | Турниры |
+| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | Кантонский диалект, китайский | Организация турниров |
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Португальский | Модерация маппинг-сообщества |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Разработка osu! |
 | ![][flag_VN] [My Angel Chino](https://osu.ppy.sh/users/20547597) | Вьетнамский | Модерация чата |
@@ -106,7 +106,7 @@ tags:
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Немецкий, сербский | Модерация чата, модерация маппинг-сообщества |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Филиппинский | Модерация чата |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Официальное представление команды |
-| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Немецкий | Турниры |
+| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Немецкий | Организация турниров |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Французский, частично испанский | Модерация чата |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Португальский | Модерация чата |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Кантонский диалект, китайский | Модерация чата |
