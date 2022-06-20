@@ -29,4 +29,5 @@ nat:
     structural: structure
 languages:
   partial: un peu de <language>
+  partial_vowel_prefix: un peu d'<language> # This key is specific to FR
   fil: philippin
