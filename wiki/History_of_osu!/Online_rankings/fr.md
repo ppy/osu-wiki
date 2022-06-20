@@ -24,25 +24,25 @@ De nombreux joueurs ont occupé la première place dans chaque mode de jeu selon
 
 *Page principale : [osu!](osu!)*
 
-En date du 19 juillet 2021, sur le [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) le joueur #1 est ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902/osu).
+En date du 19 juillet 2021, sur l'[osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) le joueur #1 est ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
 *Page principale : [osu!taiko](osu!taiko)*
 
-En date du 3 juin 2021, sur le [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) le joueur #1 est ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695/taiko).
+En date du 3 juin 2021, sur l'[osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) le joueur #1 est ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695/taiko).
 
 ## ![][osu!catch] osu!catch
 
 *Page principale : [osu!catch](osu!catch)*
 
-En date du 7 juin 2021, sur le [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance), le joueur #1 est ![][flag_KR] [CTB Rushia1](https://osu.ppy.sh/users/4158549/fruits).
+En date du 7 juin 2021, sur l'[osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance), le joueur #1 est ![][flag_KR] [CTB Rushia1](https://osu.ppy.sh/users/4158549/fruits).
 
 ## ![][osu!mania] osu!mania
 
 *Page principale : [osu!mania](osu!mania)*
 
-En date du 3 juin 2021, sur le [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) le joueur #1 est ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972/mania).
+En date du 3 juin 2021, sur l'[osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) le joueur #1 est ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

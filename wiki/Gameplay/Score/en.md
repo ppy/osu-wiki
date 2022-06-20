@@ -1,30 +1,28 @@
----
-needs_cleanup: true
----
-
 # Score
 
-*For other uses, see [Score (disambiguation)](/wiki/Disambiguation/Score).*\
-*For [game mode](/wiki/Game_mode)-specific scoring algorithms, see: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania).*
+*For other uses, see [Score (disambiguation)](/wiki/Disambiguation/Score).*
 
-A player's performance on a map is given in terms of score after a successful completion of the map.
-Most of the time, combo plays a major part in the scoring system since it serves as a multiplier of the score.
+How much score a player is awarded after successful completion of a [beatmap](/wiki/Beatmap) is determined by what [judgments](/wiki/Gameplay/Judgement) the player received for each [hit object](/wiki/Gameplay/Hit_object). The scoring system is split into two major versions currently in use.
+
+## ScoreV1
+
+ScoreV1 is the colloquial name for the original, default scoring system in osu!. While commonly referred to by a single name, the algorithm itself deviates quite a lot depending on the active [game mode](/wiki/Game_mode):
+
+- osu! and osu!catch use a strictly combo-based score multiplier applied on score values for each hit object
+- osu!taiko roughly follows the *Taiko no Tatsujin* scoring system with a small constant score affected with combo bonus
+- osu!mania is the only game mode with a score limit (under ScoreV1), which is set at 1,000,000 points with a 1.00x [score multiplier](/wiki/Gameplay/Game_modifier/Score_multiplier).
+
+For detailed descriptions of how ScoreV1 works in each game mode, see:
+
+- [osu!](ScoreV1/osu!)
+- [osu!taiko](ScoreV1/osu!taiko)
+- [osu!catch](ScoreV1/osu!catch)
+- [osu!mania](ScoreV1/osu!mania)
 
 ## ScoreV2
 
-Before ScoreV2, each game modes has their own scoring system in place:
+ScoreV2 is a new iteration of the scoring system. The main idea behind it is standardisation of all the game modes' scoring systems, such that a perfect score is awarded 1,000,000 points at 1.00x score modifier, with additional score gains on top of that from spinner bonuses for osu!, drumrolls for osu!taiko, and bananas for osu!catch. This implies a departure from the original scoring values of each hit object, and a change to a system that is more centred around proportions and scaling to the 1 million cap.
 
-- osu! and osu!catch use a strictly combo-based score multiplier,
-- osu!taiko roughly follows the *Taiko no Tatsujin* scoring system with a small constant score affected with combo bonus, and
-- osu!mania is the only game mode with a score limiter, which is capped at 1,000,000 (1 million) score at 1.00x score modifier.
+Aside from improved standardisation, ScoreV2 is also a workaround for an [integer overflow](https://en.wikipedia.org/wiki/Integer_overflow) issue that can arise on long and combo-intensive maps. Because the total score is stored as a 32-bit integer and ScoreV1 can theoretically give an unlimited amount of score, exceeding the maximum representable 32-bit integer score value of 2,147,483,647 points would cause the score counter to wrap around to negative values (which is visually seen as the score proceeding to count backwards). In practice, ScoreV2 is automatically enabled for scores set on long beatmaps that would otherwise have a maximum score above the 32-bit integer limit.
 
-While the issue only arise on *very long and combo-intensive* beatmap, if the player managed to exceed a combo of ~6,500 onwards, the player's score will begin to count *backwards*.
-This is a known flaw with the 32-bit signed integer where (in computing) the max integer is **2,147,483,647**.
-
-This is where ScoreV2 comes in.
-
-ScoreV2 attempts to standardise all the game modes' scoring system to 1,000,000 (1 million) score at 1.00x score modifier with extra score gains from spinner's bonus for osu!, drumrolls for osu!taiko, and bananas as usual for osu!catch.
-Each of the hit objects are now part of the 1 million score and scaled accordingly rather than their own scoring values and bonus formulae.
-
-ScoreV2 can be tested in [Multi](/wiki/Gameplay/Multiplayer) mode as one of the Match Setup's Win Condition.
-As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), the ScoreV2 system can be tested in *Solo* mode using the **UNRANKED** [ScoreV2](/wiki/Game_modifier/ScoreV2) game modifier.
+ScoreV2 is not enabled by default in gameplay; in solo play, it can be enabled through the unranked [ScoreV2](/wiki/Game_modifier/ScoreV2) game modifier, and in [multiplayer](/wiki/Gameplay/Multiplayer), ScoreV2 can be set as a win condition during match setup.
