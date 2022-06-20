@@ -57,7 +57,7 @@ tags:
 
 - [Annabel - little voice (Niva) \[Niva's Hard\]](https://osu.ppy.sh/beatmapsets/1619033#osu/3343181)，由 [Nowaie](https://osu.ppy.sh/users/5428909) 推荐
 - [Silver Forest - Kero (9) destiny (Bloxi) \[Hard\]](https://osu.ppy.sh/beatmapsets/1670776#osu/3423825)，由 [DeviousPanda](https://osu.ppy.sh/users/4966334) 推荐
-- [Aimer - Kataomoi (Moecho) \[Darlin'，Aishiteru.\]](https://osu.ppy.sh/beatmapsets/1058659#osu/2217225)，由 [Zelq](https://osu.ppy.sh/users/8953955) 推荐
+- [Aimer - Kataomoi (Moecho) \[Darlin', Aishiteru.\]](https://osu.ppy.sh/beatmapsets/1058659#osu/2217225)，由 [Zelq](https://osu.ppy.sh/users/8953955) 推荐
 - [xi - Parousia (Niva) \[Eschatology\]](https://osu.ppy.sh/beatmapsets/1672934#osu/3417286)，由 [Lefafel](https://osu.ppy.sh/users/2295850) 推荐
 - [KOAN Sound x Culprate x Reso x Asa - Cascade (Arbane) \[Within The Rapids\]](https://osu.ppy.sh/beatmapsets/1464050#osu/3007225)，由 [Nowaie](https://osu.ppy.sh/users/5428909) 推荐
 - [Shibayan feat. 3L - Getsurei 11.3 no Candle Magic (RLC) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/795140#osu/1669949)，由 [Omgforz](https://osu.ppy.sh/users/578943) 推荐
@@ -162,7 +162,7 @@ tags:
 - [Umeboshi Chazuke - Bison Charge (\_Asha) \[Insane\]](https://osu.ppy.sh/beatmapsets/838465#mania/1785223)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
 - [Five Hammer - fffff op.2 (biemote) \[bie's Insane\]](https://osu.ppy.sh/beatmapsets/1452883#mania/2987140)，由 [lenpai](https://osu.ppy.sh/users/5314573) 推荐
 - [Frums - Star of the COME ON!! (Kawawa) \[INSANE!!\]](https://osu.ppy.sh/beatmapsets/1305627#mania/2706983)，由 [lenpai](https://osu.ppy.sh/users/5314573) 推荐
-- [Camellia - \* Erm，could it be a Spatiotemporal ShockWAVE Syndrome...? (Dubstek) \[YABAI\]](https://osu.ppy.sh/beatmapsets/1477789#mania/3031881)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
+- [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? (Dubstek) \[YABAI\]](https://osu.ppy.sh/beatmapsets/1477789#mania/3031881)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
 - [Hypernite Industries - Speedcore 300 (nowsmart) \[Extra\]](https://osu.ppy.sh/beatmapsets/228853#mania/532796)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
 - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru (Evening) \[Till November Night (reprise)\]](https://osu.ppy.sh/beatmapsets/1647221#mania/3362200)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
 - [Frums - VIS::CRACKED (\[Crz\]Crysarlene) \[Mipha vs. Crys's Oblivion\]](https://osu.ppy.sh/beatmapsets/1561114#mania/3188294)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
