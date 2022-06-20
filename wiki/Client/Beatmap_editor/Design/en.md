@@ -12,11 +12,11 @@ It would be favourable to do crash courses out of every commands using random im
 2. Access your map through the editor and go to the "Design" screen.
 3. Find the correct tick on the timeline above where you want your storyboard element to appear, then click on "Sprite Library" and select your picture. Make sure your element doesn't surpass 800x600 px. That is the maximum threshold.
 4. Now select the command of what you want your element to do (Move, Scale, Fade, Rotate or Colour) and press the "+" at "Keyframe Control" to place a point for the command at the current time you are on. "-" on "Keyframe Control" removes the point again, and the arrows buttons let you jump between more points in the same command for the same SB element.
-5. Now find the timing point at which you want the command to end (at a later time) so you will have 2 points for it and the corresponding colour line between those points. Green - Move ; Red - Scale ; Pink - Fade ; Yellow - Rotate ; Light Pink - Colour
+5. Now find the timing point at which you want the command to end (at a later time) so you will have 2 points for it and the corresponding colour line between those points. Green for Move, red for Scale, pink for Fade, yellow for Rotate, and light pink for Colour.
 6. At the command points you can change the factors of the function by holding your left mouse button and moving your cursor up (increasing factor) or down (decreasing factor)
 7. Repeat Step 3-6 for other elements. To remove, use `Delete` or Edit -> Delete from top menu.
 
-**Note:** If you have a sharp eye; Up-tick - Start of that transformation; Down-tick - End of said transformation. A full tick on coloured transformation line means a switch in transformation (e.g. move up -> move down).
+**Note:** If you have a sharp eye, up-tick means start of a transformation, and down-tick means end of a transformation. A full tick on a coloured transformation line means a switch in transformation (e.g. move up -> move down).
 
 ## Features
 

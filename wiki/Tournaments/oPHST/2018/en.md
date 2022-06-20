@@ -1151,11 +1151,11 @@ Detailed results for this round are found via [this link](https://docs.google.co
 #### Match format
 
 - Players will alternate picks until a match winner is determined. This will be in a Best-of-X series with the formats listed as follows:
-  - osu! Round of 32/osu!catch Round of 16/osu!mania Group Stage - Best-of-7 (First to 4)
-  - osu! Round of 16/osu!catch and osu!mania Quarterfinals - Best-of-9 (First to 5)
-  - osu! Quarterfinals/osu!catch and osu!mania Semifinals - Best-of-11 (First to 6)
-  - osu! Semifinals/osu!catch and osu!mania Finals Week 1 - Best-of-13 (First to 7)
-  - osu! Finals/osu!catch and osu!mania Finals Week 2 - Best-of-13 (First to 7)
+  - osu! Round of 32/osu!catch Round of 16/osu!mania Group Stage: Best-of-7 (First to 4)
+  - osu! Round of 16/osu!catch and osu!mania Quarterfinals: Best-of-9 (First to 5)
+  - osu! Quarterfinals/osu!catch and osu!mania Semifinals: Best-of-11 (First to 6)
+  - osu! Semifinals/osu!catch and osu!mania Finals Week 1: Best-of-13 (First to 7)
+  - osu! Finals/osu!catch and osu!mania Finals Week 2: Best-of-13 (First to 7)
 - For osu!, the players are **prohibited from consecutively picking maps from the same mod bracket on their turn to pick**.
 - If it so happens that the scores of the two players on a pick are tied, the pick will be nullified. The player who picked the nullified beatmap will be permitted to do a re-pick (of another beatmap), or a replay of the nullified beatmap.
 - In case the players are tied at match point, for example, a 3-3 on a Best-of-7 match, the players the proceed to play the Tiebreaker chart of the pool.
