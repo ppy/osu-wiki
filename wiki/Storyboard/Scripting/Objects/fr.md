@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: aecdfe5275d693cac9f3d610277e56531f81c58c
+outdated_since: 0207b2367ce3ff6588d63523a71c835655185aed
 ---
 
 # Objets d'un storyboard
