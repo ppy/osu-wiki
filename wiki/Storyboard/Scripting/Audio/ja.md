@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: aecdfe5275d693cac9f3d610277e56531f81c58c
+outdated_since: 3edcc9733800c0e9221a2032eede25009608e79d
 ---
 
 # 音について
