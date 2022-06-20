@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: aecdfe5275d693cac9f3d610277e56531f81c58c
+---
+
 # Échantillons audio d'un storyboard
 
 **Les fichiers audio** (WAV, MP3 et OGG) peuvent être joués à des moments précis. Ils sont comme des déclarations d'objets, et non des commandes, et ne peuvent donc pas être utilisés dans des loops ou des triggers. Cependant, vous pouvez les placer sur n'importe laquelle des quatre couches (bien qu'il n'y ait pas de concept de "chevauchement" - tous les sons seront mélangés), vous pouvez alors faire en sorte que les sons ne se jouent que si le joueur est dans l'état Pass ou Fail.

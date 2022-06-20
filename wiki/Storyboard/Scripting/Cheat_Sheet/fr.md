@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: aecdfe5275d693cac9f3d610277e56531f81c58c
+---
+
 # Aide-mémoire sur le scénario d'un storyboard
 
 Post original : [*[Official Specifications] Storyboarding by Scripting* par : Echo](https://osu.ppy.sh/community/forums/topics/1869)

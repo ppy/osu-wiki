@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: aecdfe5275d693cac9f3d610277e56531f81c58c
+---
+
 # Objets d'un storyboard
 
 ![Appel de l'objet SB/sprite](img/SBS_Sprite.jpg "Appel de l'objet SB/sprite")

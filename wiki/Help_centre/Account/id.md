@@ -220,8 +220,7 @@ Hal ini bukan berarti kamu dibenarkan untuk membuat akun baru! Sebagaimana yang 
 
 ### Apakah saya dapat menghapus akun saya?
 
-*Untuk informasi lebih lanjut mengenai penghapusan akun, lihat: [Hak dan kendali Anda](/wiki/Legal/Privacy#hak-dan-kendali-anda).*
-
+*Untuk informasi lebih lanjut mengenai penghapusan akun, lihat: [Hak dan kendali Anda](/wiki/Legal/Privacy#hak-dan-kendali-anda).*\
 *Perhatian: Akun yang sudah terhapus tidak dapat dikembalikan!*
 
 Ya, kamu dapat menghapus akunmu dengan menghubungi kami melalui alamat email [privacy@ppy.sh](mailto:privacy@ppy.sh). Harap diingat bahwa akun yang telah dihapus **tidak dapat dikembalikan dengan alasan apapun**. Di samping itu, setelah akunmu dihapus, kamu tidak dibenarkan untuk membuat akun baru karena masing-masing pemain hanya diperkenankan untuk memiliki satu akun tanpa terkecuali sesuai dengan [peraturan yang berlaku](/wiki/Rules#peraturan-komunitas).

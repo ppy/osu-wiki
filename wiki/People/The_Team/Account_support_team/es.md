@@ -18,8 +18,7 @@ Usualmente toma algunos días para que el soporte llegue al correo electrónico.
 
 ## Roles y tareas
 
-*Artículo principal: [Centro de ayuda](/wiki/Help_centre)*
-
+*Artículo principal: [Centro de ayuda](/wiki/Help_centre)*\
 *Ver también: [Restricciones de la cuenta](/wiki/Help_centre/Account_restrictions)*
 
 Debe contactar con este equipo para tratar temas relacionados con la cuenta que están fuera de su control. Por favor, recuerda proporcionar el mayor contexto posible sobre tu tema y envía un correo electrónico desde la dirección asociada a tu cuenta osu!

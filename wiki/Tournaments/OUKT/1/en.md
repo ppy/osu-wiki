@@ -266,7 +266,7 @@ Saturday, 7 December 2013
 - The tournaments shall have a map pool for each phase of the tournament. The next map pool in the tournament shall be announced following the end of the preceding round until the Finals. (no more matches)
 - Each map pool will have 6-8 no mod picks, 2 mod picks and 1 tiebreaker. The mod brackets shall be Hidden/Double Time/Hard Rock. Two maps for each.
 - Each player may only pick 1 map from each mod pool to try and encourage variety in the match. For example: P1 picks a HD map, he cant pick from the HD pool again. P2 may however pick a HD map.
-- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice - this can be any ranked/approved map. This does not count towards match score.
+- Before the official start of the match using the map pools, each player may pick 1 warm up map of their choice — this can be any ranked/approved map. This does not count towards match score.
 - If one of the players fails to show, they will be given 10 minutes. They will then drop 1 game. If they fail to show within 20, they forfeit the match. If neither show, the match shall be postponed to make way for other matches that are ready to be played.
 - If a player disconnects from the game, a regame will be offered. Ragequitters/quits will forfeit that map. This is relating to genuine internet disconnects/cuts/failures.
 - RO32/RO16 will be best of 5. Quarterfinals, Semifinals will be best of 7. Finals will be best of 9.
