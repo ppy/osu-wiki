@@ -46,7 +46,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
-| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
+| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Philippin |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonésien |
 | ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | Italien |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
@@ -125,11 +125,11 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ![][flag_BR] [D0UG](https://osu.ppy.sh/users/13806900) | Portugais |
 | ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | Espagnol |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamien |
-| ![][flag_GB] [Dusk-](https://osu.ppy.sh/users/6092181) | Ourdou, un peu de arabe |
+| ![][flag_GB] [Dusk-](https://osu.ppy.sh/users/6092181) | Ourdou, un peu d'arabe |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Espagnol |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Allemand |
 | ![][flag_IE] [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
-| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Arabe, français, un peu de italien |
+| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Arabe, français, un peu d'italien |
 | ![][flag_BR] [Ideal](https://osu.ppy.sh/users/3869519) | Portugais |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Néerlandais |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonais, cantonais, chinois |
@@ -175,7 +175,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_CN] [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinois |
 | ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Coréen |
-| ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
+| ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Philippin |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coréen |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Néerlandais |
 | ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | Espagnol |

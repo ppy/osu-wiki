@@ -96,7 +96,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | Portugais | Modération de la communauté modding/mapping |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Développement d'osu! |
 | ![][flag_VN] [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamien | Modération du tchat |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Modération du tchat, modération du forum, support technique |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippin | Modération du tchat, modération du forum, support technique |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Français | Modération du tchat |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  | Modération de la communauté modding/mapping |
 | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | Indonésien | Modération du tchat |
@@ -104,7 +104,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_BR] [Nukrid](https://osu.ppy.sh/users/2307484) | Portugais, espagnol | Modération du tchat |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand | Modération de la communauté modding/mapping |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, serbe | Modération du tchat, modération de la communauté modding/mapping |
-| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Modération du tchat |
+| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modération du tchat |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Présence officielle de l'équipe |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Allemand | Gestion des tournois |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Français, un peu de espagnol | Modération du tchat |
@@ -125,8 +125,8 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) | Indonésien, un peu de vietnamien | Modération du tchat |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chinois | Modération du tchat |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Russe | Modération du tchat, administration du wiki |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Coréen, japonais, filipino | Modération du tchat |
-| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Modération du tchat |
+| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Coréen, japonais, philippin | Modération du tchat |
+| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Philippin | Modération du tchat |
 | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) | Thaï | Modération du tchat |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Espagnol | Support technique |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | Polonais | Modération du tchat |
