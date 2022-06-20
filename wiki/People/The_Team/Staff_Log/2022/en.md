@@ -299,4 +299,4 @@ Abbreviations for user groups are used throughout this log:
 - 2022-06-18: Removed [Cris-](https://osu.ppy.sh/users/6175280) from **Probationary BN**
 - 2022-06-18: Removed [Dored](https://osu.ppy.sh/users/10284894) from **BN**
 
-<!-- updated as of June 18, 2022 @ 2248 UTC-->
+<!-- updated as of June 19, 2022 @ 2248 UTC-->
