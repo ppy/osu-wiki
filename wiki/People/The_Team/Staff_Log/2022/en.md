@@ -288,9 +288,15 @@ Abbreviations for user groups are used throughout this log:
 - 2022-06-08: Moved [neonat](https://osu.ppy.sh/users/1561995) from **Probationary BN** to **BN**
 - 2022-06-09: Moved [Esutarosa](https://osu.ppy.sh/users/12024753) from **Probationary BN** to **BN**
 - 2022-06-12: Moved [Critical_Star](https://osu.ppy.sh/users/3793196) from **Probationary BN** to **BN**
+- 2022-06-15: Moved [Antti](https://osu.ppy.sh/users/13281473) from **Probationary BN** to **BN**
+- 2022-06-15: Moved [Gabdu09](https://osu.ppy.sh/users/8852605) from **Probationary BN** to **BN**
+- 2022-06-18: Moved [FAMoss](https://osu.ppy.sh/users/7707789) from **Probationary BN** to **BN**
+- 2022-06-18: Moved [_Rokii](https://osu.ppy.sh/users/12770065) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2022-06-01: Removed [Konpaku Sariel](https://osu.ppy.sh/users/533502) from **Probationary BN**
+- 2022-06-18: Removed [Cris-](https://osu.ppy.sh/users/6175280) from **Probationary BN**
+- 2022-06-18: Removed [Dored](https://osu.ppy.sh/users/10284894) from **BN**
 
-<!-- updated as of June 14, 2022 @ 2223 UTC-->
+<!-- updated as of June 18, 2022 @ 2248 UTC-->

@@ -61,7 +61,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Chinese |
 | ![][flag_KR] [Cellina](https://osu.ppy.sh/users/2490770) | Korean |
 | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) | Portuguese |
-| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | Chinese |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
@@ -73,6 +72,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) | Chinese |
 | ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | Russian |
 | ![][flag_DE] [FuJu](https://osu.ppy.sh/users/10773882) | German |
+| ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | French |
 | ![][flag_FR] [Gweon Sua](https://osu.ppy.sh/users/13466351) | French |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian |
 | ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
@@ -121,6 +121,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
+| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finnish, some Swedish |
 | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | Spanish |
 | ![][flag_HK] [BlackBN](https://osu.ppy.sh/users/6291741) | Chinese, Cantonese |
 | ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
@@ -167,6 +168,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | Chinese |
+| ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | Chinese |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesian |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
@@ -176,6 +178,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Chinese |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korean |
+| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesian |
 | ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Chinese |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korean |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
@@ -198,9 +201,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
-| ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | Spanish |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | Spanish |
-| ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | French |
 | ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | Korean |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | German |
@@ -210,7 +211,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finnish, some Swedish |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Japanese |
 | ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | Japanese |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
@@ -229,10 +229,8 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | Chinese |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chinese |
 | ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | Spanish |
-| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesian |
 | ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230) | Chinese, Cantonese |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_ID] [Syrion-](https://osu.ppy.sh/users/15380643) | Indonesian |
