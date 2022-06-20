@@ -100,22 +100,51 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Saturday, 25 June 2022
 
-| Team A | Team B | Match time | Local time A | Local time B |  |
-| --: | :-- | :-- | :-- | :-- | :-: |
-| Indonesia ![][flag_ID] | ![][flag_CA] Canada | 25 Jun (Sat) 14:00 UTC | 25 Jun (Sat) 21:00 UTC+7 | 25 Jun (Sat) 09:00 UTC-5 | [^losers-bracket] |
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| Indonesia ![][flag_ID] | ![][flag_CA] Canada | [Jun 25 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220625T163000&p1=1440&p2=108&p3=188) | [^losers-bracket] |
 
 ### Sunday, 26 June 2022
 
-| Team A | Team B | Match time | Local time A | Local time B |  |
-| --: | :-- | :-- | :-- | :-- | :-: |
-| China ![][flag_CN] | ![][flag_KR] South Korea | 26 Jun (Sun) 12:00 UTC | 26 Jun (Sun) 20:00 UTC+8 | 26 Jun (Sun) 21:00 UTC+9 | [^winners-bracket] |
-| United States ![][flag_US] | ![][flag_FR] France | 26 Jun (Sun) 14:00 UTC | 26 Jun (Sun) 09:00 UTC-5 | 26 Jun (Sun) 16:00 UTC+2 | [^losers-bracket] |
-| United States ![][flag_US] | ![][flag_ID] Indonesia | 26 Jun (Sun) 15:30 UTC | 26 Jun (Sun) 10:30 UTC-5 | 26 Jun (Sun) 22:30 UTC+7 | [^potential-match] |
-| United States ![][flag_US] | ![][flag_CA] Canada | 26 Jun (Sun) 15:30 UTC | 26 Jun (Sun) 10:30 UTC-5 | 26 Jun (Sun) 10:30 UTC-5 | [^potential-match] |
-| France ![][flag_FR] | ![][flag_ID] Indonesia | 26 Jun (Sun) 15:30 UTC | 26 Jun (Sun) 17:30 UTC+2 | 26 Jun (Sun) 22:30 UTC+7 | [^potential-match] |
-| France ![][flag_FR] | ![][flag_CA] Canada | 26 Jun (Sun) 17:00 UTC | 26 Jun (Sun) 19:00 UTC+2 | 26 Jun (Sun) 12:00 UTC-5 | [^potential-match] |
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| China ![][flag_CN] | ![][flag_KR] South Korea | [Jun 26 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T120000&p1=1440&p2=33&p3=235) | [^winners-bracket] |
+| United States ![][flag_US] | ![][flag_FR] France | [Jun 26 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T140000&p1=1440&p2=263&p3=195) | [^losers-bracket] |
+| United States ![][flag_US] | ![][flag_ID] Indonesia | [Jun 26 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T153000&p1=1440&p2=263&p3=108) | [^potential-match] |
+| United States ![][flag_US] | ![][flag_CA] Canada | [Jun 26 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T153000&p1=1440&p2=263&p3=188) | [^potential-match] |
+| France ![][flag_FR] | ![][flag_ID] Indonesia | [Jun 26 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T153000&p1=1440&p2=195&p3=108) | [^potential-match] |
+| France ![][flag_FR] | ![][flag_CA] Canada | [Jun 26 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T170000&p1=1440&p2=195&p3=188) | [^potential-match] |
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here (119 MB)](https://drive.google.com/uc?id=1SCOM1YXo_Khgq7hPlpaD9PlUfBOIMVZ6)**
+
+- NoMod
+  1. [orangentle - Hopes and Dreams "A newer new home." (Bunnrei) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1789525#fruits/3666749)
+  2. [Tonari no Niwa wa Aoi (NIWASHI + Aoi) - Xb10r (Greaper) \[EXCEED\]](https://osu.ppy.sh/beatmapsets/1789437#fruits/3666577)
+  3. [Imy - Countdown (jonathanlfj) \[Genesis\]](https://osu.ppy.sh/beatmapsets/1246683#fruits/2591255)
+  4. [virkato - Waltz No. 17 in G minor, "Waltz of the Big dogs" (Kaifin) \[melloe & Kaifin's Kaiden\]](https://osu.ppy.sh/beatmapsets/727186#fruits/1535180)
+- Hidden
+  1. [xi - Parousia (Deif) \[Last Judgment (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/1789435#fruits/3666568)
+  2. [7\_7 - 724pp (Bunnrei) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1789526#fruits/3666751)
+  3. [Cranky - Bestrafung (Icekalt) \[Folter\]](https://osu.ppy.sh/beatmapsets/1633283#fruits/3333793)
+- Hard Rock
+  1. [meganeko - Feral (osu! edit) (Greaper) \[Astronomical\]](https://osu.ppy.sh/beatmapsets/1349805#fruits/2794697)
+  2. [Jamie Christopherson - The Stains of Time (Maniac Agenda Mix) (Verti) \[AND IT WILL COME\]](https://osu.ppy.sh/beatmapsets/1789441#fruits/3666582)
+  3. [OSTER project - Violet Rose (Down) \[Extra (#4)\]](https://osu.ppy.sh/beatmapsets/1178488#fruits/2457696)
+- Double Time
+  1. [KINEMA106 - Shinchoku Doudeshou (Sanyi) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1789449#fruits/3666593)
+  2. [Frums - Wavetapper (wwwww) \[PASTTHEDESIREFORUNDERSTANDING\]](https://osu.ppy.sh/beatmapsets/1789465#fruits/3666622)
+  3. [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#fruits/318975)
+  4. [capsule - RGB (\_xyliac) \[Eternal\]](https://osu.ppy.sh/beatmapsets/1418131#fruits/2921856)
+- Mixed Mod
+  1. [HyuN feat. Syepias - CROSS SOUL (Souvenir) \[DESPAIR (CWC VER.)\]](https://osu.ppy.sh/beatmapsets/1789582#fruits/3666842)
+  2. [BEMANI Sound Team "setup" - Ypsilon (F D Flourite) \[400\]](https://osu.ppy.sh/beatmapsets/1789455#fruits/3666602)
+  3. [Aether Realm - Swampwitch (iamtickrate) \[Wrath of the Witch\]](https://osu.ppy.sh/beatmapsets/1556131#fruits/3178933)
+- Tiebreaker
+  1. **[ToYou & DJ Raisei - ADHD (Jemzuu) \[Rustyy & Jemzuu's Hyperactivity\]](https://osu.ppy.sh/beatmapsets/1789527#fruits/3666753)**
 
 ### Semifinals
 
@@ -248,6 +277,8 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 ## Match results
 
 ### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1hT_pDocqxzhq3yiKGylWTeNKvDiBig4Zb_J99Z84e7Q/edit?rm=minimal).
 
 Saturday, 18 June 2022:
 
