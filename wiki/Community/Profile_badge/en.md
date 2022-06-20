@@ -23,7 +23,7 @@ When hovering over a badge, a tooltip is shown with more details about why the b
 
 In the [game client](/wiki/Client) and on the website, badges are purely decorative. However, due to [tournament](/wiki/Tournaments) prize badges showcasing players' performance, some tournaments have adopted [seeding](https://en.wikipedia.org/wiki/Seed_(sports)) methods that factor in the amount of badges players have, commonly known as [badge-weighted seeding](/wiki/Tournaments/Badge-weighted_seeding) (BWS).
 
-## Old website
+## History
 
 ![Screenshot of Uan's badges on the old website](img/Uan.png "On the old website, profile badges stacked under the username and title.")
 
