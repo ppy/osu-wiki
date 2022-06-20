@@ -100,20 +100,20 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Saturday, 25 June 2022
 
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Indonesia | ![][flag_ID] | ![][flag_CA] | Canada | 25 Jun (Sat) 14:00 UTC | 25 Jun (Sat) 21:00 UTC+7 | 25 Jun (Sat) 09:00 UTC-5 | [^losers-bracket] |
+| Team A | Team B | Match time | Local time A | Local time B |  |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| Indonesia ![][flag_ID] | ![][flag_CA] Canada | 25 Jun (Sat) 14:00 UTC | 25 Jun (Sat) 21:00 UTC+7 | 25 Jun (Sat) 09:00 UTC-5 | [^losers-bracket] |
 
 ### Sunday, 26 June 2022
 
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_KR] | South Korea | 26 Jun (Sun) 12:00 UTC | 26 Jun (Sun) 20:00 UTC+8 | 26 Jun (Sun) 21:00 UTC+9 | [^winners-bracket] |
-| United States | ![][flag_US] | ![][flag_FR] | France | 26 Jun (Sun) 14:00 UTC | 26 Jun (Sun) 09:00 UTC-5 | 26 Jun (Sun) 16:00 UTC+2 | [^losers-bracket] |
-| United States | ![][flag_US] | ![][flag_ID] | Indonesia | 26 Jun (Sun) 15:30 UTC | 26 Jun (Sun) 10:30 UTC-5 | 26 Jun (Sun) 22:30 UTC+7 | [^potential-match] |
-| United States | ![][flag_US] | ![][flag_CA] | Canada | 26 Jun (Sun) 15:30 UTC | 26 Jun (Sun) 10:30 UTC-5 | 26 Jun (Sun) 10:30 UTC-5 | [^potential-match] |
-| France | ![][flag_FR] | ![][flag_ID] | Indonesia | 26 Jun (Sun) 15:30 UTC | 26 Jun (Sun) 17:30 UTC+2 | 26 Jun (Sun) 22:30 UTC+7 | [^potential-match] |
-| France | ![][flag_FR] | ![][flag_CA] | Canada | 26 Jun (Sun) 17:00 UTC | 26 Jun (Sun) 19:00 UTC+2 | 26 Jun (Sun) 12:00 UTC-5 | [^potential-match] |
+| Team A | Team B | Match time | Local time A | Local time B |  |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| China ![][flag_CN] | ![][flag_KR] South Korea | 26 Jun (Sun) 12:00 UTC | 26 Jun (Sun) 20:00 UTC+8 | 26 Jun (Sun) 21:00 UTC+9 | [^winners-bracket] |
+| United States ![][flag_US] | ![][flag_FR] France | 26 Jun (Sun) 14:00 UTC | 26 Jun (Sun) 09:00 UTC-5 | 26 Jun (Sun) 16:00 UTC+2 | [^losers-bracket] |
+| United States ![][flag_US] | ![][flag_ID] Indonesia | 26 Jun (Sun) 15:30 UTC | 26 Jun (Sun) 10:30 UTC-5 | 26 Jun (Sun) 22:30 UTC+7 | [^potential-match] |
+| United States ![][flag_US] | ![][flag_CA] Canada | 26 Jun (Sun) 15:30 UTC | 26 Jun (Sun) 10:30 UTC-5 | 26 Jun (Sun) 10:30 UTC-5 | [^potential-match] |
+| France ![][flag_FR] | ![][flag_ID] Indonesia | 26 Jun (Sun) 15:30 UTC | 26 Jun (Sun) 17:30 UTC+2 | 26 Jun (Sun) 22:30 UTC+7 | [^potential-match] |
+| France ![][flag_FR] | ![][flag_CA] Canada | 26 Jun (Sun) 17:00 UTC | 26 Jun (Sun) 19:00 UTC+2 | 26 Jun (Sun) 12:00 UTC-5 | [^potential-match] |
 
 ## Mappools
 
