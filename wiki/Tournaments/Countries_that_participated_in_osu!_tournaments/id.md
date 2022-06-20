@@ -2,8 +2,7 @@
 
 Artikel ini berisikan catatan keikutsertaan berbagai negara dalam turnamen-turnamen [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), dan [osu!mania](/wiki/Game_mode/osu!mania) resmi yang telah diselenggarakan sejauh ini. Di samping itu, artikel ini juga mendata negara-negara mana saja yang pernah mencapai posisi 3 besar dalam sejarah keikutsertaan mereka pada turnamen-turnamen resmi tersebut.
 
-*Catatan: Turnamen-turnamen resmi yang memperbolehkan tim-tim yang bukan merupakan perwakilan suatu negara untuk ikut bertanding tidak diikutsertakan dalam tabel-tabel di bawah ini.*
-
+*Catatan: Turnamen-turnamen resmi yang memperbolehkan tim-tim yang bukan merupakan perwakilan suatu negara untuk ikut bertanding tidak diikutsertakan dalam tabel-tabel di bawah ini.*\
 *Catatan: Tim-tim yang mewakili lebih dari satu negara (semisal Argentina-Kolombia) tidak diikutsertakan dalam tabel-tabel di bawah ini.*
 
 ## Tabel medali

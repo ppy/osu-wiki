@@ -12,8 +12,7 @@ tags:
 
 # osu!store and merchandise
 
-*Main page: [Help centre](/wiki/Help_centre)*
-
+*Main page: [Help centre](/wiki/Help_centre)*\
 *Note: These products are no longer available for purchase from the osu!store.*
 
 Having trouble with a product from the osu!store? Check if there's an available solution to your problem!
