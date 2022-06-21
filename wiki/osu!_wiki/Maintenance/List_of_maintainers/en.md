@@ -4,7 +4,7 @@ The maintainers regularly look after the [issue tracker](https://github.com/ppy/
 
 If you need help with making a contribution or want a review on your pull request, send a message in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) and a maintainer or another contributor will reply back (all maintainers know English).
 
-## The wiki team
+## Wiki maintainers
 
 <!-- internal reference: https://github.com/orgs/ppy/teams/wiki/members -->
 
@@ -25,7 +25,7 @@ If you need help with making a contribution or want a review on your pull reques
 | ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **Active** | Finnish, Swedish |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | Inactive | Spanish |
 
-## The news team
+## News maintainers
 
 Curators, editors, and approvers of all [news posts](https://osu.ppy.sh/home/news) that appear on the website.
 
