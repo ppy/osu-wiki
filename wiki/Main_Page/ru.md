@@ -5,7 +5,7 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 ---
 
 <div class="wiki-main-page__blurb">
-Добро пожаловать на osu! wiki, обширную и свободную базу знаний по бесплатной ритм-игре osu!.
+Добро пожаловать в osu! wiki, обширную и общедоступную базу знаний по бесплатной ритм-игре osu!
 </div>
 
 <div class="wiki-main-page__panels">
@@ -24,7 +24,7 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 
 # Игровой клиент
 
-Будучи проводником в мир ритма, такта и вспышек, osu! может предложить вам много чего интересного. Познакомьтесь с игрой поближе - начиная с ее различных настроек и возможностей кастомизации и заканчивая техническими деталями и форматами файлов, которые в ней используются.
+osu! — это ваш проводник в мир ритма, музыки и ярких красок. Узнайте игру получше — от множества настроек и возможностей оформления до технических деталей и форматов файлов.
 
 [Интерфейс](/wiki/Client/Interface) • [Настройки](/wiki/Client/Options) • [Визуальные настройки](/wiki/Client/Interface/Visual_settings) • [Горячие клавиши](/wiki/Client/Keyboard_shortcuts) • [Файл конфигурации](/wiki/Client/Program_files/User_configuration_file) • [Программные файлы](/wiki/Client/Program_files)
 
@@ -46,7 +46,7 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 
 # [Редактор карт](/wiki/Client/Beatmap_editor)
 
-Все карты в osu! созданы благодаря бурной фантазии стремительно развивающегося сообщества. Всегда хотели поделиться любимой музыкой с другими, но не знаете как? Познакомьтесь со встроенным игровым редактором и его возможностями.
+Все карты в osu! созданы благодаря бурной фантазии стремительно развивающегося сообщества. Вы всегда хотели поделиться любимой музыкой с другими, но не знали как? Познакомьтесь со встроенным игровым редактором и его возможностями.
 
 Разделы: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_Setup)
 
@@ -96,7 +96,7 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 
 # Сообщество и проекты
 
-Социальное взаимодействие — одна из самых сильных сторон osu!, вдохновляющая игроков по всему миру. Изучите программы и конкурсы, наладьте контакт с другими людьми или помогите организовать очередное масштабное событие!
+Социальное взаимодействие — одна из самых сильных сторон osu!, вдохновляющая игроков по всему миру. Изучите программы и конкурсы, наладьте контакт с другими людьми или помогите организовать новое масштабное событие!
 
 [Турниры](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Конкурсы](/wiki/Contests) • [Программа менторства](/wiki/Community/Community_Mentorship_Program)
 
@@ -113,7 +113,7 @@ osu! бы не было без многих пользователей, учас
 
 [Команда osu!](/wiki/People/The_Team): [Разработчики](/wiki/People/The_Team/Developers) • [Команда глобальной модерации](/wiki/People/The_Team/Global_Moderation_Team) • [Команда поддержки](/wiki/People/The_Team/Support_Team) • [Команда оценки номинаций](/wiki/People/The_Team/Nomination_Assessment_Team) • [Номинаторы карт](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Команда проекта Loved](/wiki/People/The_Team/Project_Loved_Team)
 
-[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Комитет по проведению турниров](/wiki/People/Tournament_Committee) • [Комитет PP](/wiki/People/Performance_Points_Committee)
+[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Комитет по турнирам](/wiki/People/Tournament_Committee) • [Комитет PP](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -122,7 +122,7 @@ osu! бы не было без многих пользователей, учас
 
 О том, как работать с osu! или поучаствовать в разработке.
 
-[API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Рекомендации по фирменному стилю](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!dev](/wiki/Community/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!dev](/wiki/Community/osu!dev_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
