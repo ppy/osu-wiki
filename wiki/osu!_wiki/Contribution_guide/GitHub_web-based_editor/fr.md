@@ -7,7 +7,7 @@
 
 ## Navigation
 
-*Note : Pour travailler avec le osu! wiki, **[forker le dépôt `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#modifier-le-wiki).***
+*Note : Pour travailler avec l'osu! wiki, **[forker le dépôt `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#modifier-le-wiki).***
 
 Pour ouvrir l'osu! wiki dans l'éditeur, remplacez `github.com` dans l'URL de votre dépôt fork par `github.dev`. Alternativement, ouvrez votre fork sur GitHub et appuyez sur `.` (point).
 

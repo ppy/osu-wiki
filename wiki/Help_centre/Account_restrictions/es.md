@@ -4,7 +4,7 @@ outdated_translation: true
 no_native_review: true
 ---
 
-# Restricciones de la cuenta
+# Restricciones de la cuenta 
 
 Una restricción es un tiempo fuera en la comunidad forzada a cuentas que exihiben comportamiento anormal, sospechoso o que rompe las reglas.
 
@@ -19,7 +19,7 @@ Las siguientes funciones están desactivadas para las cuentas restringidas
 - actualizar detalles del perfil
 - compras en la tienda
 
-## ¡Mi cuenta ha sido restringida! ¿Qué puedo hacer?
+## ¡Mi cuenta ha sido restringida! ¿Qué puedo hacer?  {#what}
 
 Si tu cuenta ha sido restringida, no entre en pánico. Por favor sigue los siguientes pasos
 
@@ -33,7 +33,7 @@ Si tu cuenta original no está restringida, puedes iniciar sesión con ella y se
 
 Si recientemente tu apelación fue aceptada y eres restringido después de jugar otra vez, no entres en pánico! Los sistemas automáticos pueden haber marcado incorrectamente, pero será levantada otra vez dentro de 24 horas. Siéntete libre de enviarnos un correo electrónico o enviarnos un tuit para llamar nuestra atención y que su restricción sea levantada más rápido!
 
-## ¿Porqué estoy restringido?
+## ¿Porqué estoy restringido?  {#why}
 
 Hay varias razones por las cuáles una cuenta puede ser restringida.
 
@@ -44,7 +44,7 @@ Hay varias razones por las cuáles una cuenta puede ser restringida.
 
 Si una cuenta ha sido restringida legítimamente, le pediremos al usuario que espere antes de enviar una apelación. Esto es referido como *tiempo de espera o cooldown*, y su duración varía dependiendo de las infracciones que hayan tomado lugar.
 
-## ¿Qué puedo hacer mientras el tiempo de espera está vigente?
+## ¿Qué puedo hacer mientras el tiempo de espera está vigente?  {#while-on-cooldown}
 
 - **¡Sigue disfrutando el juego!** Mientras tu cuenta está restringida y en cooldown, eres mas que bienvenido a seguir jugando el juego (¡mientras que juegues en tu cuenta original!). Las puntuaciones que consigas mientras estás restringido serán subidas, a no ser que la cuenta sea retrocedida, ellas seguirán después de que la restricción sea levantada.
 - **Mantén un buen comportamiento.** Entendemos que ser restringido puede ser frustrante, pero tómalo como una oportunidad de tomar un descanso, lejos de la comunidad. Intenta evitar interactuar con la comunidad por lo menos unos cuantos días (ya sea vía Discord, redes sociales, u otras formas de contacto) para respirar y reflexionar las razones por las que su cuenta pudo ser restringida.
@@ -52,7 +52,7 @@ Si una cuenta ha sido restringida legítimamente, le pediremos al usuario que es
 - **Seguir las instrucciones del equipo de soporte.** El tiempo de espera de tres meses puede ser una oportunidad para descansar y reflexionar sobre sus acciones. Si intentas enviar una apelación antes de que el tiempo de espera haya terminado, sus correos serán ignorados. Si no está seguro de cuando termina el tiempo de espera, cuando se le permitirá apelar, o en cuál de sus cuentas debería de jugar (y apelar), es bienvenido de contactarnos por correo para preguntar.
 - **No dudes en contactarnos si tiene alguna pregunta.** Mientras no intente salvarse del castigo, felizmente contestaremos cualquier pregunta que tenga sobre la restricción de su cuenta!
 
-## Mi tiempo de espera ha terminado. ¿Cómo puedo apelar?
+## Mi tiempo de espera ha terminado. ¿Cómo puedo apelar?  {#appeal}
 
 Puedes apelar enviando un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh) incluyendo el nombre de su cuenta. Asegúrese de enviar el correo desde la dirección de correo asociada a su cuenta. Después de que envíe su apelación, espere una respuesta en un plazo de una semana. Si no has recibido una para ese entonces, por favor contáctenos vía correo o twitter - hay una posibilidad de que no lo hayamos recibido
 
@@ -63,7 +63,7 @@ Mientras apelas, esperamos que cubras los siguientes puntos:
 - **Cómo conseguiste los medios para hacerlo.** Esto aplica principalmente al hacer trampas - queremos saber dónde conseguiste la herramienta que usaste, cómo la encontraste, y si sigue o no presente en su computador.
 - **Porqué deberíamos permitirte regresar.** La mayor parte del tiempo, esto se enlaza con el segundo punto. Solo queremos asegurarnos de que no romperás las reglas de nuevo! Por favor entienda que entre mas infracciones haya en el historial de su cuenta, más esperaremos esta sección de la apelación
 
-## ¿Y si mi apelación es aceptada?
+## ¿Y si mi apelación es aceptada?  {#appeal-granted}
 
 Sí decidimos dejarte regresar, requeriremos que aceptes algunos términos antes de levantar la restricción de tu cuenta.
 
@@ -82,7 +82,7 @@ Algunos jugadores pueden ser restringidos otra vez una vez que empiezan a jugar 
 
 Algunas infracciones pueden llevar a que tu cuenta sea retrocedida al levantarse la restricción. Esto se hace para eliminar puntuaciones ilegítimas **en todos los modos**, así como medallas desbloqueadas y insignias de perfil. **Conteo de jugadas y el tiempo de juego no será modificado.**
 
-## ¡Mi apelación fue denegada!
+## ¡Mi apelación fue denegada!  {#appeal-denied}
 
 Hay algunas razones por las cual una apelación puede ser denegada.
 
@@ -92,7 +92,7 @@ Hay algunas razones por las cual una apelación puede ser denegada.
 - **Seguiste infringiendo las reglas mientras estabas restringido.** No hay ninguna razón para levantar la restricción de alguien que continúa rompiendo las reglas incluso después de haber sido restringido. Si continúas infringiendo las reglas, el tiempo de espera para tu cuenta será reiniciado a tu última infracción. En caso de infracciones extremas o continuo, tu apelación puede ser permanentemente denegada.
 - **Tu historial es muy severo.** En casos de infractores extremos, o jugadores que son restringidos otra vez después de que su restricción haya sido levantada en una apelación exitosa, podemos simplemente declarar que tu historial es muy severo como para regresar al juego en ese momento. Si esto aplica para ti, te recomendamos esperar **un largo tiempo** antes de apelar otra vez, y asegurarte que no rompiste las reglas en ese tiempo.
 
-## Mis correos están siendo ignorados / No creo que mi apelación fue manejada justamente
+## Mis correos están siendo ignorados / No creo que mi apelación fue manejada justamente {#appeal-review}
 
 En el caso en el que sientas que tus correos no están siendo leídos, por favor envíenos un correo completo a [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) que contenga la siguiente información:
 
@@ -107,7 +107,7 @@ Por favor tome en cuenta que enviar un correo a esta dirección solo garantiza u
 
 **Solo responderemos a solicitudes para revisión de apelaciones/investigaciones vía correos enviados a [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Por favor no intente contactar a los miembros del equipo de soporte (o miembros del equipo de voluntarios) vía Twitter, Discord, o cualquier otra plataforma para evitar esta política - ellos no pueden ayudarte.
 
-## Razones comunes de restricción y tiempos de espera
+## Razones comunes de restricción y tiempos de espera  {#reasons}
 
 | Razón de restricción | Duración del TdE | Notas de apelación |
 | :-- | :-- | :-- |

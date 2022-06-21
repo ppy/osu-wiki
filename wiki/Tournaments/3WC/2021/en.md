@@ -372,7 +372,7 @@ Sunday, 11 April 2021:
    - The qualifiers mappool will be ten beatmaps (4NM/2HD/2HR/2DT) and will be played twice. The best combined team run will be used for seeding, and teams are allowed to skip beatmaps in the second run where they believe they already have a good run on.
 6. Grand Finals will have a bracket reset if the team coming from the losers bracket wins the first match.
 7. Match schedules and mappools will be released on the Monday before those matches should be played, and schedules will be written in UTC+0.
-8. As per standard tournament guidelines, staff—other than streamers and commentators—are not allowed to play.
+8. As per standard tournament guidelines, staff — other than streamers and commentators — are not allowed to play.
 
 ### Tournament registrations
 

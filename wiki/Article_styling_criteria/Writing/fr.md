@@ -1,3 +1,8 @@
+---
+outdated_since: ddfa577c07f4d4383a4f11b09c9d4c0966bbc923
+outdated_translation: true
+---
+
 # Rédaction
 
 *Pour les normes de mise en forme, voir : [Critères de mise en forme d'article/Mise en forme](../Formatting)*\
@@ -334,7 +339,7 @@ Par extension, les [mises en valeur](/wiki/Article_styling_criteria/Formatting#m
 
 ### Bloc de citation
 
-Lorsque vous citez le texte de quelqu'un, précisez la personne citée après la [citation en bloc](/wiki/Article_styling_criteria/Formatting#citations-en-bloc) avec un tiret (`-`). Si la citation originale provient d'une source non anglophone, précisez-la entre parenthèses.
+Lorsque vous citez le texte de quelqu'un, précisez la personne citée après la [citation en bloc](/wiki/Article_styling_criteria/Formatting#citations-en-bloc) avec un tiret long (`—`). Si la citation originale provient d'une source non anglophone, précisez-la entre parenthèses.
 
 ```markdown
 > svp profitez du jeu

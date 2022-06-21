@@ -66,6 +66,6 @@ Některé trestné činy mají minimální trvání (obvykle 42 hodin nebo více
 
 Pokud po několika porušeních budete nadále porušovat pravidla, váš účet může být [trvale a neodvolatelně omezen](/wiki/Help_centre/Account_restrictions).
 
-Omezené účty nemohou hrát online, nahrávat skóre, chatovat s ostatními uživateli a jsou pro všechny účely „banned“ z interakcí s komunitou. Omezení pro porušení pravidel komunity lze odstranit pouze na základě odvolání k personálu podpory po uplynutí 3 měsíců ([mohou platit další podmínky](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
+Omezené účty nemohou hrát online, nahrávat skóre, chatovat s ostatními uživateli a jsou pro všechny účely „banned“ z interakcí s komunitou. Omezení pro porušení pravidel komunity lze odstranit pouze na základě odvolání k personálu podpory po uplynutí 3 měsíců ([mohou platit další podmínky](/wiki/Help_centre/Account_restrictions#reasons)).
 
 Závažné přestupky, které výrazně překračují rámec našich pravidel a spadají do jurisdikce nezákonného obsahu podle mezinárodního obecného práva, budou mít za následek okamžité ukončení účtu. To se týká téměř výhradně extrémně názorných nebo jinak ohavných trestných činů, jako je distribuce dětské pornografie nebo jiného zneužívání.

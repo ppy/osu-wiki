@@ -71,7 +71,7 @@ Le 22/11/2012 :
 - Ajout du bouton `Quick Join` en ([Multi](/wiki/Gameplay/Multiplayer)).
 - Les paramètres des spoilers amusants étaient disponibles lors d'un replay/spectateur d'un joueur.
 
-La localisation de [osu! localisation project v2](https://osu.ppy.sh/community/forums/topics/104342) a été ajoutée. Vous pouvez trouver la localisation à la page [Options](/wiki/Client/Options) dans l'onglet `Graphiques` sous `Langues`.
+La localisation d'[osu! localisation project v2](https://osu.ppy.sh/community/forums/topics/104342) a été ajoutée. Vous pouvez trouver la localisation à la page [Options](/wiki/Client/Options) dans l'onglet `Graphiques` sous `Langues`.
 
 Un bouton `Quick Join` a été ajouté au lobby du Multi. Il vous permet de rejoindre une salle au hasard en fonction de la beatmap que vous avez lorsqu'il est pressé. Puisque vous êtes "forcé" d'entrer dans une salle aléatoire, il ne serait pas surprenant que la beatmap en question soit dans le paramètre de difficulté que vous ne voulez pas (difficulté Insane habituellement ou difficulté que vous ne pouvez pas bien gérer). À moins que vous ne trouviez gênant de chercher vous-même une salle manuellement, vous pouvez l'utiliser comme option à la place.
 
