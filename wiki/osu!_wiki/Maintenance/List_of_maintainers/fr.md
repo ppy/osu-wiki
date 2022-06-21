@@ -1,3 +1,8 @@
+---
+outdated_since: 7094ac9d70205bc7bd12621dd83e3d1738962809
+outdated_translation: true
+---
+
 # Liste des maintainers de l'osu! wiki
 
 Les maintainers jettent régulièrement un œil au [suivi des issues](https://github.com/ppy/osu-wiki/issues) et examinent les pull requests des contributeurs. Contrairement aux autres contributeurs, ils peuvent modifier les pull requests et les merge dans la branche `master` du dépôt, rendant ainsi les changements publics.
