@@ -163,7 +163,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Coldrod](https://osu.ppy.sh/users/9065991), ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
-| `#vietnamese` |  | ![][flag_VN] [My Angel Chino](https://osu.ppy.sh/users/733998), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) |
+| `#vietnamese` |  | ![][flag_VN] [My Angel Chino](https://osu.ppy.sh/users/20547597), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991) |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
 [flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"

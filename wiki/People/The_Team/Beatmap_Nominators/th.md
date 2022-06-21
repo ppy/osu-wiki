@@ -61,17 +61,18 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | จีน |
 | ![][flag_KR] [Cellina](https://osu.ppy.sh/users/2490770) | เกาหลี |
 | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) | โปรตุเกส |
-| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | จีน |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | สเปน |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
 | ![][flag_BE] [Enneya](https://osu.ppy.sh/users/10959501) | ดัตช์ |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | ยูเครน |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_FI] [finnish bn](https://osu.ppy.sh/users/11077540) | ฟินแลนด์ |
 | ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | นอร์เวย์ |
 | ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) | จีน |
 | ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | รัสเซีย |
 | ![][flag_DE] [FuJu](https://osu.ppy.sh/users/10773882) | เยอรมัน |
+| ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | ฝรั่งเศส |
 | ![][flag_FR] [Gweon Sua](https://osu.ppy.sh/users/13466351) | ฝรั่งเศส |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | อินโดนีเซีย |
 | ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
@@ -90,6 +91,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | เดนมาร์ก |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | รัสเซีย |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
+| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | จีน |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | ฝรั่งเศส |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | อิตาลี |
@@ -119,6 +121,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
+| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | ฟินแลนด์, สวีเดน บ้าง |
 | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | สเปน |
 | ![][flag_HK] [BlackBN](https://osu.ppy.sh/users/6291741) | จีน, กวางตุ้ง |
 | ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
@@ -153,6 +156,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | ดัตช์ |
 | ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | ดัตช์ |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
+| ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530) | โปแลนด์ |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | กรีก |
 | ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_CA] [Ymiir](https://osu.ppy.sh/users/3922569) |  |
@@ -164,14 +168,17 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | :-- | :-- |
 | ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | จีน |
+| ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | จีน |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | อินโดนีเซีย |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | มาเลย์ |
 | ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | เกาหลี |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | จีน |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | เกาหลี |
+| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | อินโดนีเซีย |
 | ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | จีน |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | เกาหลี |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
@@ -194,21 +201,16 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
-| ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | สเปน |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | สเปน |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | ยูเครน |
-| ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | ฝรั่งเศส |
 | ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | เกาหลี |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | เยอรมัน |
-| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | จีน |
 | ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691) | จีน |
 
 #### osu!taiko
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | ฟินแลนด์, สวีเดน บ้าง |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | ญี่ปุ่น |
 | ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | ญี่ปุ่น |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
@@ -220,19 +222,19 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
+| ![][flag_TH] [rew0825](https://osu.ppy.sh/users/2488026) | ไทย |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | สเปน |
 
 #### osu!mania
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | จีน |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | จีน |
 | ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | สเปน |
-| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | มาเลย์ |
-| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | อินโดนีเซีย |
+| ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230) | จีน, กวางตุ้ง |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | อินโดนีเซีย |
 | ![][flag_ID] [Syrion-](https://osu.ppy.sh/users/15380643) | อินโดนีเซีย |
+| ![][flag_TW] [Touru0711](https://osu.ppy.sh/users/8625854) | จีน |
 
 ## ประวัติ
 
