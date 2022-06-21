@@ -62,9 +62,9 @@ tags:
 
 ### 一次免费的改名
 
-*注意：对用户名的微小变动可向账号管理团队请求免费修改，请参见：[帮助中心/账号 § 我可以修改用户名么？](/wiki/Help_centre/Account#用户名更改)*
+*注意：对用户名的微小变动可向账号管理团队请求免费修改，请参见：[帮助中心/账号 § 我可以修改用户名么？](/wiki/Help_centre/Account#name-changes)*
 
-在[通常情况](/wiki/Help_centre/Account#用户名更改)下，首次获得支持者标签后可以免费获得一次改名机会。
+在[通常情况](/wiki/Help_centre/Account#name-changes)下，首次获得支持者标签后可以免费获得一次改名机会。
 
 ### osu!direct
 

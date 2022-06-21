@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3edcc9733800c0e9221a2032eede25009608e79d
+---
+
 # Storyboard Audio
 
 **Audio Dateien** (WAV, MP3, und OGG) können abgespielt werden. Es ist wie beim Deklarieren von Objekten, keine Kommandos, sie werden also in Triggern oder Schleifen benutzt. Sie können die Audio Datei auf irgendeine der vier Ebenen legen, wodurch es Ihnen möglich ist, dass zum Beispiel nur im Pass oder Fail Status die Audio Datei abgespielt wird.
