@@ -86,7 +86,7 @@ La [página del grupo del Equipo de Moderacion Global](https://osu.ppy.sh/groups
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | Japonés | Moderación del chat |
 | ![][flag_RU] [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Ruso | Moderación del chat |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Ruso | Moderación del chat |
-| ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandés | Moderación del chat |
+| ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finés | Moderación del chat |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugués, español | Moderación del chat, torneos |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Alemán | Moderación de la comunidad de mapping/modding |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Chino | Moderación del chat |

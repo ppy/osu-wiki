@@ -90,7 +90,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | 러시아어 | 채팅 관리, 위키 관리 |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | 한국어, 일본어, 필리핀어 | 채팅 관리 |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | 필리핀어 | 채팅 관리 |
-| ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) | 타이어 | 채팅 관리 |
+| ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) | 태국어 | 채팅 관리 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 스페인어 | 기술 지원 |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | 폴란드어 | 채팅 관리 |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | 폴란드어 | 채팅 관리 |

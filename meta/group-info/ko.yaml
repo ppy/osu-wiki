@@ -1,6 +1,3 @@
-outdated_since: dca16aabefecc2b5ab512b49881308b8ac0077b8
-outdated_translation: true # missing languages.be and languages.uk
-
 separator: ", "
 alumni:
   roles:
@@ -32,39 +29,3 @@ nat:
     structural: 구조
 languages:
   partial: 일부 <language>
-  ar: 아랍어
-  bg: 불가리아어
-  bn: 뱅골어
-  ca: 카탈로니아어
-  da: 덴마크어
-  de: 독일어
-  el: 그리스어
-  es: 스페인어
-  et: 에스토니아어
-  fi: 핀란드어
-  fil: 필리핀어
-  fr: 프랑스어
-  gl: 갈리시아어
-  hr: 크로아티아어
-  hu: 헝가리어
-  id: 인도네시아어
-  it: 이탈리아어
-  ja: 일본어
-  ko: 한국어
-  lt: 리투아니아어
-  ms: 말레이어
-  nl: 네덜란드어
-  no: 노르웨이어
-  pl: 폴란드어
-  pt: 포르투갈어
-  ro: 루마니아어
-  ru: 러시아어
-  sr: 세르비아어
-  sv: 스웨덴어
-  te: 텔루구어
-  th: 타이어
-  tr: 터키어
-  ur: 우르두어
-  vi: 베트남어
-  yue: 광둥어
-  zh: 중국어
