@@ -298,7 +298,7 @@ The first occurrence of an abbreviation, acronym, or initialism may be italicise
 
 Italics may also be used to provide emphasis or help with readability.
 
-Names of work or video games should be italicised. osu!—the game—is exempt from this.
+Names of work or video games should be italicised. osu! — the game — is exempt from this.
 
 As an example, when referring to songs in the format of `{artist} - {title}`, the whole part is a reference to the work and should therefore be italicised:
 

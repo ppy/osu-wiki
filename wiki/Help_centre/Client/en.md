@@ -179,9 +179,9 @@ There are a few reasons why this can happen. Read on below!
 
 These are, unfortunately, gone.
 
-The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
+The scores you have submitted online are still there, however — simply redownload any song that you have played before, and your score will reappear.
 
-Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in-game or via [the beatmap listing page](https://osu.ppy.sh/beatmapsets?played=played&s=ranked) to find any maps that you have set scores on in the past.
+Handy tip: if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in-game or via [the beatmap listing page](https://osu.ppy.sh/beatmapsets?played=played&s=ranked) to find any maps that you have set scores on in the past.
 
 #### Are you set to the correct game mode?
 
@@ -357,7 +357,7 @@ Check the [osu! server status page](https://status.ppy.sh/ "osu! server status")
 
 **This can also happen if you are using a shared internet connection, a proxy, or VPN.**
 
-Try using another proxy or VPN provider - if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Try using another proxy or VPN provider — if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
 
@@ -407,7 +407,7 @@ You may also wish to try removing some of the peripherals attached via USB to yo
 
 ### It's still happening!
 
-If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto:accounts@ppy.sh) with more information on the issue - including your computer's technical specifications, model (where appropriate), and any other information you think may help us discern the cause of your problem.
+If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto:accounts@ppy.sh) with more information on the issue — including your computer's technical specifications, model (where appropriate), and any other information you think may help us discern the cause of your problem.
 
 ### I can't hold more than a few keys at once while playing osu!mania
 

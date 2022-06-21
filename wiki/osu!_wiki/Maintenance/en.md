@@ -2,7 +2,7 @@
 
 *See also: [osu! wiki contribution guide](/wiki/osu!_wiki/Contribution_guide)*
 
-This article describes technical or administrative aspects of the osu! wiki. It also covers maintenance procedures, which are required to keep it fresh—perhaps you may [help with one of them](#routines). For all discussions related to the wiki, use the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
+This article describes technical or administrative aspects of the osu! wiki. It also covers maintenance procedures, which are required to keep it fresh — perhaps you may [help with one of them](#routines). For all discussions related to the wiki, use the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
 
 ## Administrators
 
@@ -16,7 +16,7 @@ Maintainers perform the final review of pull requests and merge them. If you hav
 
 ### Issue tracker
 
-The osu! wiki's [issue tracker](https://github.com/ppy/osu-wiki/issues) contains ideas and requests for possible improvements, both for the articles themselves and wiki-related parts of the website. Open an issue if you have a feature request, or if you found a mistake on one of the pages. Please note that **this is only limited to the osu! wiki**—if you need assistance with other official projects related to osu!, use their own issue trackers:
+The osu! wiki's [issue tracker](https://github.com/ppy/osu-wiki/issues) contains ideas and requests for possible improvements, both for the articles themselves and wiki-related parts of the website. Open an issue if you have a feature request, or if you found a mistake on one of the pages. Please note that **this is only limited to the osu! wiki** — if you need assistance with other official projects related to osu!, use their own issue trackers:
 
 - [osu!(lazer)](https://github.com/ppy/osu)
 - [The osu! website](https://github.com/ppy/osu-web/)

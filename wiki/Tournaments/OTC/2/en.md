@@ -435,7 +435,7 @@ Monday, 16 April 2018:
 
 ### Referee match procedure
 
-1. Create the lobby 5 - 10 minutes before match time. Name the lobby "OTC: (Team 1) vs. (Team 2)", then set it to ScoreV2 and Team VS.
+1. Create the lobby 5–10 minutes before match time. Name the lobby "OTC: (Team 1) vs. (Team 2)", then set it to ScoreV2 and Team VS.
    - Group Stage will be played as BO7.
    - Round of 16 will be played as BO9.
    - Quarterfinals will be played as BO9.

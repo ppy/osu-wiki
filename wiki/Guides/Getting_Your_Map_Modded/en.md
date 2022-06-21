@@ -12,7 +12,7 @@ Before looking for mods, you must first understand the different types of mod re
 
 ## Modding queues
 
-Posting your beatmap in modding queues is the most effective and most widely used way of finding people to mod your beatmaps. Modding queues are threads posted in the [Modding Queues forum](https://osu.ppy.sh/community/forums/60) which allow the creator of the thread to find beatmaps to mod, and for others to easily find modders to mod their beatmaps. Using the forum to find mods is straightforward and effective—just follow the steps below to get started:
+Posting your beatmap in modding queues is the most effective and most widely used way of finding people to mod your beatmaps. Modding queues are threads posted in the [Modding Queues forum](https://osu.ppy.sh/community/forums/60) which allow the creator of the thread to find beatmaps to mod, and for others to easily find modders to mod their beatmaps. Using the forum to find mods is straightforward and effective — just follow the steps below to get started:
 
 1. Go to the [Modding Queues forum](https://osu.ppy.sh/community/forums/60).
 2. Browse through the list of queues, and find one that accepts beatmaps from the game mode which you have mapped for. Make sure it is marked as "open" in the title or opening post.

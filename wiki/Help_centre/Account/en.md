@@ -47,7 +47,7 @@ Refer to *[Account Restrictions](/wiki/Help_centre/Account_restrictions)* for mo
 
 ### What is a tournament ban?
 
-Tournament bans are as the name describes - a ban from participation in all officially supported tournaments.
+Tournament bans are as the name describes — a ban from participation in all officially supported tournaments.
 
 Refer to the [Tournament bans](/wiki/Help_centre/Tournament_bans) article for more information on the topic.
 
@@ -76,7 +76,7 @@ If this does not work for you, please send us a support ticket immediately to [a
 
 Emailing from your registration address is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
 
-Please do not include replay or score data in your ticket - we cannot use this to verify your ownership of the account.
+Please do not include replay or score data in your ticket — we cannot use this to verify your ownership of the account.
 
 ### What is this 'Bancho authentication error' I keep receiving?
 
@@ -136,7 +136,7 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 
 If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be able to change your username **once** for free. This username change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32) page.
 
-At any point thereafter, you may purchase a [username change](https://osu.ppy.sh/store/products/32) to change your username to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
+At any point thereafter, you may purchase a [username change](https://osu.ppy.sh/store/products/32) to change your username to whatever you wish. However, each change will become progressively more expensive — the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
 
 Please note that usernames must abide by our [community rules](/wiki/Rules#community-rules) in that they must not be broadly offensive to other users, overly provocative or otherwise inflammatory in any way. In addition, usernames that impersonate or assume the identity of major public figures (such as celebrities, politicians, etc.) are not allowed and will be forcefully reverted once we find out about them.
 
