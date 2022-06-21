@@ -28,9 +28,9 @@ tags:
 
 Vous trouverez ici tout ce qui concerne votre compte osu!. Lisez ce qui ce trouve en dessous afin de savoir s'il existe une solution appropriée à votre problème.
 
-## Supporter
+## Supporter {#supporter}
 
-### J'ai payé pour un tag de supporter, mais je ne l'ai toujours pas reçu !
+### J'ai payé pour un tag de supporter, mais je ne l'ai toujours pas reçu ! {#missing-supporter}
 
 **En fonction du service de paiement que vous avez utilisé (PayPal ou Xsolla), il peut y avoir un léger retard dans le traitement de votre paiement avant qu'il ne nous parvienne.**
 
@@ -40,9 +40,9 @@ Si cela fait plus de 24 heures et que vous n'avez toujours pas votre tag de supp
 
 Veillez à inclure tous les reçus que vous avez pu avoir au cours du processus (identifiants de transaction PayPal, reçus Xsolla, etc.) - ils nous aident beaucoup à retrouver ce qui est arrivé à votre paiement !
 
-## Restriction
+## Restriction {#restriction}
 
-### Qu'est-ce que le mode "restreint", exactement ?
+### Qu'est-ce que le mode "restreint", exactement ? {#what-is-restriction}
 
 **Une personne dont le compte est restreint est empêchée, de manière temporaire ou permanente, d'interagir avec la communauté de manière significative, y compris de discuter, de participer aux activités multijoueur et d'avoir ses scores sur les classements.**
 
@@ -52,17 +52,17 @@ Dans les situations où nous sommes absolument sûrs qu'un acte répréhensible 
 
 Consultez la page *[Restrictions de compte](/wiki/Help_centre/Account_restrictions)* pour plus d'informations sur les restrictions de compte et des procédures d'appel.
 
-## Bannissement des tournois
+## Bannissement des tournois {#tournament-bans}
 
-### Qu'est-ce qu'un bannissement des tournois ?
+### Qu'est-ce qu'un bannissement des tournois ? {#what-is-tournament-ban}
 
 Un bannissement des tournois est, comme son nom l'indique, une interdiction de participer à tous les tournois officiels.
 
 Voir l'article [Bannissement des tournois](/wiki/Help_centre/Tournament_bans) pour plus d'informations sur le sujet.
 
-## Connexion
+## Connexion {#sign-in}
 
-### J'ai oublié mon nom d'utilisateur et mon mot de passe !
+### J'ai oublié mon nom d'utilisateur et mon mot de passe ! {#lost-access}
 
 **Veuillez utiliser [la page de récupération du mot de passe](https://osu.ppy.sh/home/password-reset) pour récupérer automatiquement votre compte, à condition que vous ayez toujours accès à l'adresse e-mail que vous avez utilisé pour vous inscrire.**
 
@@ -71,11 +71,11 @@ Si cela ne fonctionne pas pour vous (ou si vous n'avez pas accès à l'adresse e
 Les informations à inclure dans cet e-mail seraient par exemple :
 
 - L'adresse e-mail avec laquelle vous avez créé le compte, ou toute autre adresse e-mail à laquelle le compte a été associé.
-- Tout reçu pour l'achat d'un osu!supporter ou d'autres articles du osu!store.
+- Tout reçu pour l'achat d'un osu!supporter ou d'autres articles de l'osu!store.
 - La dernière date à laquelle vous avez souvenir d'avoir pu accéder à votre compte normalement.
 - Toute autre information d'identification qui, selon vous, pourrait être utile (à l'exception des scores ou des replays, qui ne nous aident pas beaucoup !)
 
-### Mon compte a été volé !
+### Mon compte a été volé ! {#account-theft}
 
 **Essayez d'utiliser [la page de récupération du mot de passe](https://osu.ppy.sh/home/password-reset) pour vérifier si l'adresse e-mail de votre compte est toujours valide.**
 
@@ -87,31 +87,31 @@ L'envoi d'un courriel à partir de l'adresse avec laquelle vous avez créé votr
 
 N'incluez pas les données de replays ou de scores dans votre email - nous ne pouvons pas les utiliser pour vérifier que vous êtes le propriétaire du compte.
 
-### Qu'est-ce que cette 'erreur d'authentification Bancho' que je n'arrête pas de recevoir ?
+### Qu'est-ce que cette 'erreur d'authentification Bancho' que je n'arrête pas de recevoir ? {#authentication-error}
 
 **Cela se produit généralement lorsqu'il y a des problèmes de réseau entre vous et nos serveurs.**
 
 Il y a plusieurs choses que vous pouvez essayer pour résoudre ce problème :
 
-#### Avez-vous saisi votre mot de passe correctement ?
+#### Avez-vous saisi votre mot de passe correctement ? {#authentication-wrong-password}
 
 Si vous avez oublié votre mot de passe, vous pouvez utiliser la [page de récupération du mot de passe](https://osu.ppy.sh/home/password-reset) pour récupérer l'accès à votre compte.
 
-#### Utilisez-vous des serveurs proxy ou des VPN ?
+#### Utilisez-vous des serveurs proxy ou des VPN ? {#authentication-vpn}
 
 **Si vous les désactivez avant de tenter de vous reconnecter, votre problème sera probablement résolu.**
 
 Certains fournisseurs de VPN et serveurs proxy ne fonctionnent tout simplement pas avec osu! pour une raison quelconque.
 
-### J'ai toujours l'erreur !
+### J'ai toujours l'erreur ! {#authentication-unknown-cause}
 
 **Nous aurons besoin d'un fichier `network.log` de votre part pour comprendre ce qui se passe si aucune des solutions ci-dessus ne fonctionne.**
 
-Pour savoir comment obtenir un fichier `network.log`, voir [Centre d'aide § Fichiers log](/wiki/Help_centre#fichiers-log).
+Pour savoir comment obtenir un fichier `network.log`, voir [Centre d'aide § Fichiers log](/wiki/Help_centre#log-files).
 
 Dans de rares cas, vous devrez peut-être contacter votre fournisseur d'accès internet (FAI) pour vous renseigner sur ces problèmes. Certains fournisseurs d'accès ont toujours eu des problèmes de connexion à osu!, généralement en raison d'un mauvais routage.
 
-### Le site web me dit que j'ai essayé de me connecter trop de fois !
+### Le site web me dit que j'ai essayé de me connecter trop de fois ! {#sign-in-throttling}
 
 **Il s'agit d'une mesure de protection temporaire après des échecs répétés d'accès à votre compte. Essayez de vous reconnecter après 10 à 20 minutes.**
 
@@ -119,7 +119,7 @@ Si cela vous arrive, attendez simplement un peu et essayez de vous connecter un 
 
 Deux heures, au maximum, suffiront pour effacer le statut de la plupart des personnes et leur permettre de se reconnecter.
 
-### Je ne reçois pas d'e-mails d'osu!/J'ai oublié mon adresse e-mail !
+### Je ne reçois pas d'e-mails d'osu!/J'ai oublié mon adresse e-mail ! {#email-issues}
 
 **Il se peut qu'il y ait un problème avec l'adresse e-mail actuelle de votre compte.**
 
@@ -137,9 +137,9 @@ Enfin, nous sommes conscients que certains fournisseurs n'acceptent pas les e-ma
 - `sbcglobal.net`
 - `t-online.de`
 
-## Changements de nom
+## Changements de nom {#name-changes}
 
-### Puis-je changer le nom d'utilisateur de mon compte ?
+### Puis-je changer le nom d'utilisateur de mon compte ? {#change-username}
 
 **Oui, absolument !**
 
@@ -151,7 +151,7 @@ Veuillez noter que les noms d'utilisateur doivent respecter les [règles de la c
 
 Si vous ne recherchez que des modifications mineures en matière de capitalisation ou de grammaire/orthographe, vous pouvez envoyer un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) pour demander un changement de nom gratuit afin de corriger ces problèmes. Nous ne vous facturerons pas pour ce type de changement de nom, mais vous **DEVEZ** le faire par le biais d'un e-mail au support. Gardez à l'esprit que nous n'effectuerons cette opération qu'un nombre limité de fois, alors assurez-vous que vous le souhaitez vraiment !
 
-### Puis-je prendre le nom d'utilisateur d'un autre joueur ?
+### Puis-je prendre le nom d'utilisateur d'un autre joueur ? {#take-existing-username}
 
 **Oui, mais seulement dans certaines circonstances.**
 
@@ -159,7 +159,7 @@ Si un joueur ne s'est pas connecté depuis au moins 6 mois et n'a pas joué, son
 
 Si ce joueur a joué au moins une partie parmi tous les modes de jeu, une [fonction non linéaire](https://www.desmos.com/calculator/b89siyv9j8) est utilisée pour calculer combien de temps supplémentaire est ajouté à ces 6 mois. Cela permet d'éviter que des personnes volent les noms d'utilisateur de joueurs actifs ou qui ont arrêté récemment.
 
-### Est-il possible de changer mon nom ou de revenir à mon ancien nom d'utilisateur ?
+### Est-il possible de changer mon nom ou de revenir à mon ancien nom d'utilisateur ? {#revert-username}
 
 **Oui, mais seulement dans certaines circonstances.**
 
@@ -169,7 +169,7 @@ Le retour à tout autre nom d'utilisateur antérieur doit être [acheté via le 
 
 Les rétablissements de nom d'utilisateur sont limités à un par an, alors réfléchissez bien avant de faire votre demande !
 
-### Mon nom d'utilisateur a été modifié/réinitialisé !
+### Mon nom d'utilisateur a été modifié/réinitialisé ! {#why-username-reverted}
 
 **Nous ne forçons l'annulation des noms d'utilisateur que pour les noms d'utilisateur que nous jugeons inappropriés ou abusifs.**
 
@@ -177,15 +177,15 @@ Si vous constatez que votre récent changement de nom a été annulé, c'est peu
 
 Si le changement a été effectué avec le changement gratuit qui accompagne un tag de supporter, nous ne pouvons pas proposer de le changer à nouveau.
 
-### Puis-je supprimer mes anciens noms d'utilisateur/effacer l'historique des noms d'utilisateur ?
+### Puis-je supprimer mes anciens noms d'utilisateur/effacer l'historique des noms d'utilisateur ? {#hide-username-history}
 
 **Dans certaines circonstances.**
 
 Votre profil affichera tous vos précédents noms d'utilisateur, mais nous ne supprimons que de manière sélective ceux qui peuvent poser problème pour vous. Si l'un de vos anciens noms d'utilisateur porte atteinte à votre vie privée (par exemple, s'il contient votre nom légal) ou peut mener à une atteinte à votre vie privée (via d'autres sites web), veuillez nous contacter via l'adresse [accounts@ppy.sh](mailto:accounts@ppy.sh) pour demander sa suppression.
 
-## Autres problèmes
+## Autres problèmes {#other}
 
-### Le drapeau/pays sur le profil de mon compte est faux !
+### Le drapeau/pays sur le profil de mon compte est faux ! {#wrong-flag}
 
 **Malheureusement, nous ne pouvons pas changer cela pour vous.**
 
@@ -195,7 +195,7 @@ Dans le passé, nous offrions la possibilité aux utilisateurs de changer le pay
 
 Comprenez que nous ne pouvons en aucun cas ajuster cette opération, quelles que soient les personnes dont vous avez entendu parler ou que vous connaissez qui l'ont déjà fait.
 
-### Puis-je créer plus d'un compte ?
+### Puis-je créer plus d'un compte ? {#no-multiaccounting}
 
 **Malheureusement, vous ne pouvez pas.**
 
@@ -207,7 +207,7 @@ Sur osu!, nous sommes très opposés à ce que les utilisateurs aient plusieurs 
 
 Si vous avez actuellement plus d'un compte, veuillez nous contacter à l'adresse [accounts@ppy.sh](mailto:accounts@ppy.sh) pour mettre les choses au point.
 
-### Est-il possible de recommencer à zéro ou de faire effacer les statistiques de mon compte ?
+### Est-il possible de recommencer à zéro ou de faire effacer les statistiques de mon compte ? {#statistics-reset}
 
 **Pas pour le moment.**
 
@@ -215,15 +215,14 @@ Nous envisageons des achats supplémentaires de 'remise à zéro du score' dans 
 
 Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour faire la même chose ! Le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires) et nous désactiverons tous les comptes de ce type qui nous seront signalés.
 
-### Puis-je supprimer mon compte ?
+### Puis-je supprimer mon compte ? {#account-deletion}
 
-*Pour plus d'informations sur la suppression des comptes, voir : [Politique de confidentialité d'osu! § Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).*
-
+*Pour plus d'informations sur la suppression des comptes, voir : [Politique de confidentialité d'osu! § Vos droits et votre contrôle](/wiki/Legal/Privacy#vos-droits-et-votre-contrôle).*\
 *Attention : La suppression d'un compte est permanente, et ne peut donc pas être annulée !*
 
 Oui, tout utilisateur peut demander la suppression de son compte en envoyant un courriel à [privacy@ppy.sh](mailto:privacy@ppy.sh). Gardez à l'esprit que la suppression de votre compte est **définitive**, ce qui signifie qu'elle ne peut pas être annulée. La suppression de votre compte ne signifie pas que vous pouvez créer un nouveau compte, car le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires). Cela signifie que vous ne pourrez plus utiliser aucune des fonctionnalités en ligne d'osu!. 
 
-### Je ne veux plus continuer à jouer, mais je ne veux pas que mon compte soit supprimé !
+### Je ne veux plus continuer à jouer, mais je ne veux pas que mon compte soit supprimé ! {#account-lock}
 
 Tout utilisateur peut demander que son compte soit **verrouillé** en envoyant un email à [accounts@ppy.sh](mailto:accounts@ppy.sh). Le mot de passe associé au compte sera alors changé et l'email sera effacée, ce qui verrouillera le compte de l'utilisateur. Afin d'éviter les abus, un délai d'une semaine est prévu après le verrouillage d'un compte avant que l'utilisateur puisse demander son déblocage.
 
@@ -235,7 +234,7 @@ Pour débloquer à nouveau le compte, envoyez un email à [accounts@ppy.sh](mail
 
 Vous pouvez verrouiller votre compte vous-même en changeant votre email et votre mot de passe par des mots ou des lettres aléatoires dont vous ne vous souviendrez jamais et en vous déconnectant. Il s'agit essentiellement du même processus que le verrouillage. Lorsque vous êtes prêt à revenir dans la communauté, envoyez un email à [accounts@ppy.sh](mailto:accounts@ppy.sh) pour demander la réinitialisation de votre mot de passe. Veillez à utiliser l'email précédemment utilisée par votre compte.
 
-### Puis-je jouer sur un ordinateur qu'un autre utilisateur d'osu! a déjà utilisé ?
+### Puis-je jouer sur un ordinateur qu'un autre utilisateur d'osu! a déjà utilisé ? {#shared-pc}
 
 **Oui, absolument. Cela inclut les PC partagés comme les cybercafés ou les PC portables.**
 
@@ -243,7 +242,7 @@ Vous pouvez verrouiller votre compte vous-même en changeant votre email et votr
 
 Si vous jouez depuis un lieu public, veillez à surveiller de près la sécurité de votre compte. Les ordinateurs partagés sont souvent des cibles de choix pour les logiciels malveillants.
 
-### Puis-je obtenir une liste de toutes les beatmaps que j'ai jouées ou téléchargées ?
+### Puis-je obtenir une liste de toutes les beatmaps que j'ai jouées ou téléchargées ? {#all-played-beatmaps}
 
 **Vous pouvez voir toutes les beatmaps que vous avez jouées sur le site web.**
 

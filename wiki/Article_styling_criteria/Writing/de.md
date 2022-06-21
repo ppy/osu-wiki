@@ -1,3 +1,8 @@
+---
+outdated_since: ddfa577c07f4d4383a4f11b09c9d4c0966bbc923
+outdated_translation: true
+---
+
 # Schrift
 
 *Für die Formatierungsstandards, siehe: [Artikelgestaltungskriterien/Formatierung](../Formatting)*

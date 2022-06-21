@@ -359,7 +359,7 @@ En raison de la difficulté d'obtenir une licence pour cette dernière.
 
 Rendez-vous dans la section "Store" du jeu ou appuyez sur le bouton "Download more songs..." dans la section "Play".
 
-### Quelle est la musique thème de osu!stream ?
+### Quelle est la musique thème d'osu!stream ?
 
 [nekodex - osu!stream theme (1.48)](https://soundcloud.com/nekodex/osu-stream-theme).
 On l'entend généralement dans le menu principal et sur l'écran du tutoriel.

@@ -11,47 +11,47 @@ tags:
 
 *Untuk rekam jejak anggota yang dipromosikan ke dan dipensiunkan dari jajaran staf osu! seiring waktu, harap lihat: [Staff Log](/wiki/Staff_Log)*
 
-Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** yang memiliki tanggung jawab utama untuk menjadikan osu! istimewa bagi semua.
+Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** yang bertanggung jawab secara langsung untuk menjadikan osu! permainan yang istimewa bagi semua.
 
-| Nama | Peran <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
+| Nama | Peran |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Pemimpin proyek** |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Penasihat bidang *mapping* dan *modding* |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Penasihat bidang mapping dan modding |
 | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | Pengurus dan penyelenggara World Cup |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Penasihat bidang pengembangan dan moderasi komunitas |
 | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Pengurus dan penyelenggara World Cup |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Koordinator umum, pengelola Featured Artist Project dan proyek-proyek komunitas lainnya, penjangkau Featured Artist |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Pengelola komunitas dan proyek, koordinator program Featured Artist |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin tim desain, pemerhati Creative Cloud |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Penasihat bidang *mapping* dan *modding* |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Penasihat bidang mapping dan modding |
 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) | Pengurus dan penyelenggara World Cup |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Pengembang situs web osu! (osu!web) |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Pengasuh umum, penasihat bidang moderasi komunitas |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Pengembang situs web osu! (osu!web), [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
-| ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang situs web osu! |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Penasihat bidang *mapping* dan *modding* |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Penasihat bidang *mapping* dan *modding*, pengelola Mappers' Guild, penjangkau Featured Artist |
+| ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang situs web osu! (osu!web) |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Penasihat bidang mapping dan modding |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Penasihat bidang mapping dan modding, pengelola Mappers' Guild, koordinator program Featured Artist |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Pengasuh umum, pemelihara osu!wiki |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Pengasuh umum |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, pecinta osu!mania, penumpas *bug* |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, penasihat bidang pengembangan komunitas, penjangkau Featured Artist |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, penasihat bidang pengembangan komunitas, koordinator program Featured Artist |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Pengasuh umum, penyelenggara turnamen |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
-Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_support_team) (*account support team*) yang bergerak secara terpisah untuk membantu menangani berbagai permasalahan yang bersifat pribadi.
+Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_support_team) (*account support team*) yang bergerak secara terpisah untuk menangani berbagai permasalahan yang bersifat pribadi.
 
-## Gugus pengguna
+## Kelompok pengguna
 
-Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggota-anggota komunitas terpilih beserta dengan tanggung jawab dan kontribusinya masing-masing terhadap ekosistem osu!. Pada umumnya, anggota gugus-gugus pengguna di bawah ini dapat dikenali dari warna khusus pada forum, warna khusus pada kanal obrolan, serta gelar dan/atau lencana khusus yang disematkan kepada masing-masing anggota.
+osu! memiliki berbagai kelompok pengguna (*user group*) yang tersusun atas para anggota komunitas terpilih dengan tanggung jawab dan fungsinya masing-masing. Pada umumnya, anggota kelompok pengguna tertentu dapat dikenali dari warna khusus pada forum dan kanal obrolan serta gelar dan/atau lencana khusus yang mereka miliki.
 
 | Nama | Deskripsi |
 | :-- | :-- |
-| [Beatmap Nominator](Beatmap_Nominators) | Menjaga standar kualitas beatmap dan mendorong beatmap-beatmap yang dianggap layak ke dalam kategori Qualified |
-| [Developer](Developers) | Membuat osu! senantiasa tampil menawan melalui implementasi berbagai fitur canggih dan penumpasan berbagai macam *bug* |
+| [Beatmap Nominator](Beatmap_Nominators) | Menjaga standar kualitas beatmap dan mendorong beatmap yang dianggap layak ke dalam kategori Qualified |
+| [Developer](Developers) | Membuat osu! tampil menawan dengan mewujudkan berbagai fitur baru dan memastikan osu! bebas dari *bug* |
 | [Global Moderation Team](Global_Moderation_Team) | Mengawasi forum dan kanal obrolan |
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Mengevaluasi kinerja Beatmap Nominator |
 | [osu! Alumni](osu!_Alumni) | Para pendahulu yang telah banyak berjasa pada masanya |
-| [Project Loved Team](Project_Loved_Team) | Mengukuhkan beatmap-beatmap yang dicintai oleh komunitas |
-| [Support Team](Support_Team) | Menjawab berbagai pertanyaan yang terlontar pada sub-forum Help dan Feature Request |
+| [Project Loved Team](Project_Loved_Team) | Mengukuhkan beatmap yang dicintai oleh komunitas |
+| [Support Team](Support_Team) | Memberikan bantuan pada sub-forum Help dan Feature Request |
 
 ## Anggota tim inti osu! yang kini sudah tidak lagi aktif
 
@@ -61,21 +61,21 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggo
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Penata audio, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Pengurus dan penyelenggara World Cup |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Pengasuh umum, manajer komunitas |
-| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, perekayasa layanan IRC yang terintegrasi dengan *in-game chat*, pengasuh umum situs. [Blog](http://blog.echo.sh/) |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, perancang sistem IRC yang terintegrasi dengan *in-game chat*, pengasuh umum situs. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Pembawa acara osu! Coffee Hour, penyiar World Cup, penyelenggara turnamen |
-| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, perekayasa infrastruktur *backend* sistem osz2 dan p2p |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, perancang infrastruktur *backend* sistem osz2 dan p2p |
 | ![][flag_US] Jim | Perancang situs dan penyedia layanan *hosting* pada awal mula berdirinya osu!. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Pengurus dan penyelenggara World Cup |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Pengurus dan penyelenggara World Cup, pemimpin QAT, manajer komunitas |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Perancang skin ulung, kontributor utama skin *default* dan set ikon bawaan osu! pada masanya. [DeviantArt](https://luigihann.deviantart.com/) |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Penasihat bidang *mapping* dan *modding* |
-| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, perekayasa algoritma mm slider |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Penasihat bidang mapping dan modding |
+| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, perancang algoritma mm slider |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Pengembang osu! iPhone |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Pengembang osu!, pengelola Mappers' Guild |
 | ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Perancang forum |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, sosok yang luar biasa menawan |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Pemimpin tim desain dan perancang konsep awal pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
-| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas pada masanya, kontributor utama proyek *meeting minutes* dan artikel FAQ |
+| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas pada masanya, kontributor utama panel diskusi Meeting Minutes dan artikel FAQ |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang osu! dan sistem *performance point* (pp) |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Pengembang osu! dan mode osu!mania |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, pengurus dan penyelenggara World Cup, pemelihara osu!wiki |

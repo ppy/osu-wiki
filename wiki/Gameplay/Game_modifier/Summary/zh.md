@@ -5,8 +5,7 @@ outdated_since: 3bec7abe5a3da2952e6324d55a29431f9240e8a0
 
 # 摘要
 
-*主页面：[Game Modifiers](/wiki/Game_modifier)*
-
+*主页面：[Game Modifiers](/wiki/Game_modifier)*\
 *注意：所有的 Mods 在 osu!mania 模式不会增加分数加成。*
 
 | Mod | 名称（缩写） | 分数加成 | 效果 |

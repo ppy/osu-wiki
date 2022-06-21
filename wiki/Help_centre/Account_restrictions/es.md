@@ -4,7 +4,7 @@ outdated_translation: true
 no_native_review: true
 ---
 
-# Restricciones de la cuenta
+# Restricciones de la cuenta 
 
 Una restricción es un tiempo fuera en la comunidad forzada a cuentas que exihiben comportamiento anormal, sospechoso o que rompe las reglas.
 

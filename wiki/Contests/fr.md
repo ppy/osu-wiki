@@ -178,7 +178,7 @@ Le **Fan Art Contest** est un concours de dessin dans lequel les artistes partic
 
 ### osu! Beatmap Blueprints Contest
 
-Le *osu! Beatmap Blueprints Contest* est un concours unique organisé pour commémorer le lancement de [Beatmap Blueprints](https://osu.ppy.sh/store/products/9) dans l'[osu!store](https://osu.ppy.sh/store/listing). Dans ce concours, les utilisateurs participants se sont affrontés pour créer le meilleur plan d'une beatmap sur n'importe quel support visuel en utilisant toutes les ressources fournies dans le pack de marchandises Beatmap Blueprints.
+L'*osu! Beatmap Blueprints Contest* est un concours unique organisé pour commémorer le lancement de [Beatmap Blueprints](https://osu.ppy.sh/store/products/9) dans l'[osu!store](https://osu.ppy.sh/store/listing). Dans ce concours, les utilisateurs participants se sont affrontés pour créer le meilleur plan d'une beatmap sur n'importe quel support visuel en utilisant toutes les ressources fournies dans le pack de marchandises Beatmap Blueprints.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
@@ -216,7 +216,7 @@ Le **Skinning Contest** est un concours de skinning dans lequel les créateurs a
 
 ### osu!trivium Quiz
 
-Le **osu!trivium Quiz** est un concours de questions où les joueurs s'affrontent pour répondre à des questions difficiles sur osu!.
+L'**osu!trivium Quiz** est un concours de questions où les joueurs s'affrontent pour répondre à des questions difficiles sur osu!.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
@@ -229,7 +229,7 @@ Les *concours non officiels* sont des concours organisés par les membres de la 
 
 ### osb! Storyboarding Contest
 
-Le **osb! Storyboarding Contest** est un concours de storyboarding où les storyboarders participants s'affrontent pour créer le meilleur storyboard. Ce concours est organisé par osu! storyboarder banquet, la communauté de storyboarding.
+L'**osb! Storyboarding Contest** est un concours de storyboarding où les storyboarders participants s'affrontent pour créer le meilleur storyboard. Ce concours est organisé par osu! storyboarder banquet, la communauté de storyboarding.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
@@ -237,7 +237,7 @@ Le **osb! Storyboarding Contest** est un concours de storyboarding où les story
 
 ### osu! Beatmapping World Championship
 
-Le **osu! Beatmapping World Championship** est un concours de mapping par équipe dans lequel les équipes participantes, composées de mappeurs d'un même pays, d'une même région, voire d'un même continent (dans une certaine mesure), s'affrontent sur plusieurs musiques et étapes de mapping. Le concours est connu pour n'utiliser que des musiques disponibles dans la bibliothèque [Featured Artist](/wiki/Featured_Artists) pendant son déroulement.
+L'**osu! Beatmapping World Championship** est un concours de mapping par équipe dans lequel les équipes participantes, composées de mappeurs d'un même pays, d'une même région, voire d'un même continent (dans une certaine mesure), s'affrontent sur plusieurs musiques et étapes de mapping. Le concours est connu pour n'utiliser que des musiques disponibles dans la bibliothèque [Featured Artist](/wiki/Featured_Artists) pendant son déroulement.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |

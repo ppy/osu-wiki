@@ -33,7 +33,7 @@ Lors d'une partie avec le mod Target Practice activé, les joueurs se voient pr�
 
 Ce mod est surtout utilisé pour le plaisir, mais il peut aussi être utilisé pour s'entraîner à maintenir un tempo constant.
 
-![Gameplay du mod TP](img/TP-gameplay.jpg "Gameplay de osu! avec le mod Target Practice activé")
+![Gameplay du mod TP](img/TP-gameplay.jpg "Gameplay d'osu! avec le mod Target Practice activé")
 
 ## Le saviez-vous ?
 

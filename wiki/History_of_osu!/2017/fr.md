@@ -33,7 +33,7 @@ Liens :
 
 ## Avril
 
-Le Monthly Beatmapping Contest \#13 s'est conclu avec [RyoKazuka](https://osu.ppy.sh/users/6258586) à la première place. Aspire 2017 : Stage One s'est conclu par la première place de [ProfessionalBox](https://osu.ppy.sh/users/3250792). Les votes pour le concours de fanart printanier ont été ouverts. Le 100ème(?) numéro du osu!weekly est sorti. La osu!taiko World Cup 2017 s'est conclue par la victoire du Japon face à Taïwan. Avant que le mois d'avril se termine, le concours de fanart printanier a permis à [Evaine](https://osu.ppy.sh/users/7295733) de prendre la première place.
+Le Monthly Beatmapping Contest \#13 s'est conclu avec [RyoKazuka](https://osu.ppy.sh/users/6258586) à la première place. Aspire 2017 : Stage One s'est conclu par la première place de [ProfessionalBox](https://osu.ppy.sh/users/3250792). Les votes pour le concours de fanart printanier ont été ouverts. Le 100ème(?) numéro de l'osu!weekly est sorti. La osu!taiko World Cup 2017 s'est conclue par la victoire du Japon face à Taïwan. Avant que le mois d'avril se termine, le concours de fanart printanier a permis à [Evaine](https://osu.ppy.sh/users/7295733) de prendre la première place.
 
 Liens :
 
@@ -57,7 +57,7 @@ Liens :
 
 ## Juin
 
-L'équipe d'osu! participera à l'Anime Expo pour les 10 prochaines années d'osu!. Le 15 juin 2017, le menu principal/playfield a été remplacé par 4 nouvelles images génériques. Les images de playfield changent quand on change de musique. La possibilité d'activer ou de désactiver les seasonal backgrounds toute l'année, ou de temps en temps a été rajoutée dans les [Options](/wiki/Client/Options). Pendant le mois, dans le Discord osu!dev, il y a eu des discussions autour de la mort du osu!weekly. À partir de ce moment-là, chaque post officiel et communautaire sera posté quand il sera prêt, plutôt que de le faire chaque semaine. Le Mocha in Summer Fanart Contest a commencé.
+L'équipe d'osu! participera à l'Anime Expo pour les 10 prochaines années d'osu!. Le 15 juin 2017, le menu principal/playfield a été remplacé par 4 nouvelles images génériques. Les images de playfield changent quand on change de musique. La possibilité d'activer ou de désactiver les seasonal backgrounds toute l'année, ou de temps en temps a été rajoutée dans les [Options](/wiki/Client/Options). Pendant le mois, dans le Discord osu!dev, il y a eu des discussions autour de la mort de l'osu!weekly. À partir de ce moment-là, chaque post officiel et communautaire sera posté quand il sera prêt, plutôt que de le faire chaque semaine. Le Mocha in Summer Fanart Contest a commencé.
 
 Liens :
 
