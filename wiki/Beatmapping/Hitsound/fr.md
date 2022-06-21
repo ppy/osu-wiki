@@ -1,4 +1,6 @@
 ---
+outdated_since: 5bc5d7cd3430c1ff8eab1fe292a3c05277417620
+outdated_translation: true
 stub: true
 tags:
   - hit sounds
@@ -37,4 +39,4 @@ Un keysound est un échantillon de hitsound qui est extrêmement similaire à la
 
 Contrairement aux autres [modes de jeu](/wiki/Game_mode), les hitsounds du mode [osu!taiko](/wiki/Game_mode/osu!taiko) affectent directement la jouabilité de leurs beatmaps. Les Kats se distinguent des Dons à l'aide de whistle et de claps, et les grandes notes se distinguent des notes normales à l'aide de finishers.
 
-Les échantillons par défaut de osu!taiko sont uniques au mode, et les mappeurs ne les remplacent généralement pas.
+Les échantillons par défaut d'osu!taiko sont uniques au mode, et les mappeurs ne les remplacent généralement pas.

@@ -1,6 +1,12 @@
 ---
 stub: true
 tags:
+  - hit normal
+  - hitnormal
+  - hit sound addition
+  - hit sound additions
+  - hitsound addition
+  - hitsound additions
   - hit sounds
   - hitsounds
 ---
@@ -13,7 +19,7 @@ tags:
 
 **Hitsounds** are the sounds that osu! plays in response to user input when interacting with [hit objects](/wiki/Hit_object). Hitsounds are typically used to give auditory feedback to the player to help them judge their [accuracy](/wiki/Gameplay/Accuracy) in relation to the song.
 
-Hitsound feedback consists of a default sample called a "hit normal", and any combination of whistle, finish, or clap sample additions. Each sample has one of three "sample sets" that change its style: `Normal`, `Soft`, or `Drum`.
+Hitsound feedback consists of a default sample called a *hitnormal*, and any combination of whistle, finish, or clap sample *additions*. Each sample is part of one of three *sample sets* that denote different styles: `Normal`, `Soft`, or `Drum`.
 
 Beatmappers can replace any default sound samples with custom samples using a [beatmap](/wiki/Beatmap)'s folder. A player's [skin](/wiki/Skinning) can also replace default hitsounds on all beatmaps. Details on hitsound samples can be found in the [hitsound skinning](/wiki/Skinning/Sounds#hitsounds) article.
 

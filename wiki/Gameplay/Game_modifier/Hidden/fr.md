@@ -42,7 +42,7 @@ Dans le mode [osu!](/wiki/Game_mode/osu!), le mod Hidden élimine les cercles d'
 
 Bien qu'il faille noter que le mod Hidden est considéré comme le mod d'augmentation de la difficulté le plus facile parmi les meilleurs joueurs en raison de la cohérence du moment où les objets apparaissent et disparaissent. En raison de cette cohérence, il est tout à fait possible d'apprendre à toucher les objets en se basant uniquement sur le moment où ils disparaissent.
 
-![Gameplay du mod HD dans osu!](img/HD-osu.jpg "Gameplay de osu! avec le mod Hidden activé")
+![Gameplay du mod HD dans osu!](img/HD-osu.jpg "Gameplay d'osu! avec le mod Hidden activé")
 
 ### osu!taiko
 
@@ -52,15 +52,15 @@ Sur les beatmaps présentant une difficulté générale élevée, le mod Hidden 
 
 Contrairement à osu!, le mod Hidden est généralement considéré comme beaucoup plus difficile à lire ou à "s'habituer", car il oblige le joueur à mémoriser la couleur suivante.
 
-![Gameplay du mod HD dans osu!taiko](img/HD-taiko.jpg "Gameplay de osu!taiko avec le mod Hidden activé")
+![Gameplay du mod HD dans osu!taiko](img/HD-taiko.jpg "Gameplay d'osu!taiko avec le mod Hidden activé")
 
 ### osu!catch
 
 Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), le mod Hidden fait disparaître les fruits à la moitié de l'écran.
 
-Les effets sur la difficulté de osu!catch concernant l'utilisation du mod Hidden varient d'une beatmap à l'autre, mais il est généralement considéré que les beatmaps avec un [approach rate (AR)](/wiki/Beatmapping/Approach_rate) de 9 ou plus n'ont qu'une augmentation de difficulté très faible.
+Les effets sur la difficulté d'osu!catch concernant l'utilisation du mod Hidden varient d'une beatmap à l'autre, mais il est généralement considéré que les beatmaps avec un [approach rate (AR)](/wiki/Beatmapping/Approach_rate) de 9 ou plus n'ont qu'une augmentation de difficulté très faible.
 
-![Gameplay du mod HD dans osu!catch](img/HD-catch.jpg "Gameplay de osu!catch avec le mod Hidden activé")
+![Gameplay du mod HD dans osu!catch](img/HD-catch.jpg "Gameplay d'osu!catch avec le mod Hidden activé")
 
 ### osu!mania
 

@@ -46,6 +46,7 @@ Un tag osu!supporter actif ajoutera un bouton `Colour` qui permet de mettre de l
 ![](img/Replay_discussion_comment.jpg "Faire un commentaire")
 
 Cliquez sur `Click to add a comment at the current time!` pour commenter sur la difficulté/beatmap actuelle.
+
 Le replay sera mis sur pause, assombri, avec le logo d'osu! en avant-plan au centre jusqu'à ce que le commentaire soit terminé (appuyez sur `Entrée`) ou annulé (appuyez sur `Echap`).
 
 ![](img/Replay_discussion_example.jpg "Exemple de défilement de commentaires")

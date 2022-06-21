@@ -163,9 +163,9 @@ Cependant, même si les développeurs officiels d'osu! n'ont pas eu l'intention 
 
 Le 1er avril 2016, de nombreux joueurs d'osu! ont eu la surprise de découvrir qu'ils avaient soudainement et inexplicablement reçu un tag [osu!supporter](https://osu.ppy.sh/home/support) alors qu'ils n'en avaient jamais acheté ni reçu en cadeau. Le tag de supporter qui a été donné aux joueurs était entièrement fonctionnel et agissait comme un tag de supporter ordinaire ; cependant, le changement a été annulé le jour suivant [[51,52,53,54,55,56,57]][r].
 
-### Rotation du osu! cookie sur le site web
+### Rotation de l'osu! cookie sur le site web
 
-Dans le cadre de la poignée de blagues du poisson d'avril 2016, le [osu! cookie](/wiki/Brand_identity_guidelines) du site web d'osu! tournait occasionnellement de 180 degrés dans le sens des aiguilles d'une montre, puis repartait rapidement à la verticale de 180 degrés dans la même direction [[58,59,60,61]][r].
+Dans le cadre de la poignée de blagues du poisson d'avril 2016, l'[osu! cookie](/wiki/Brand_identity_guidelines) du site web d'osu! tournait occasionnellement de 180 degrés dans le sens des aiguilles d'une montre, puis repartait rapidement à la verticale de 180 degrés dans la même direction [[58,59,60,61]][r].
 
 ---
 
@@ -177,7 +177,7 @@ Comme annoncé dans un [Tweet de peppy](https://twitter.com/ppy/status/848021525
 
 ## 2018
 
-### Rotation du osu! cookie
+### Rotation de l'osu! cookie
 
 Le 1er avril 2018, l'[osu! cookie](/wiki/Brand_identity_guidelines) de l'écran du menu principal tournait lentement dans le sens des aiguilles d'une montre au fur et à mesure que le temps passait, et le cookie de l'écran de sélection des beatmaps tournait lentement dans le sens inverse des aiguilles d'une montre. En passant la souris sur ces cookies, vous les agrandissez comme d'habitude, mais vous les faites tourner plus vite [[62,63,64,65,66,67]][r].
 

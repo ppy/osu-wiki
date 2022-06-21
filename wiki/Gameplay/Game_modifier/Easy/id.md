@@ -11,8 +11,7 @@ tags:
 
 ![Ikon mod EZ](/wiki/shared/mods/EZ.png "Ikon mod Easy (EZ)")
 
-*Untuk penggunaan lainnya, lihat artikel [Easy (disambiguasi)](/wiki/Disambiguation/Easy).*
-
+*Untuk penggunaan lainnya, lihat artikel [Easy (disambiguasi)](/wiki/Disambiguation/Easy).*\
 *Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*
 
 ## Tentang

@@ -97,8 +97,7 @@ Ta sekcja jest poświęcona wyglądowi klienta gry i jego wydajności.
 
 ---
 
-*Ważne: Jeżeli klient gry nie jest aktualnie aktywnym oknem, zostanie nałożone ograniczenie 30fps.*
-
+*Ważne: Jeżeli klient gry nie jest aktualnie aktywnym oknem, zostanie nałożone ograniczenie 30fps.*\
 *Ostrzeżenie dla użytkowników laptopów: wybranie ustawienia limitu klatek `Bez limitu (podczas gry)` może przegrzać twoje urządzenie!*
 
 Jeżeli rozwiniesz listę dla `Limit klatek`, zobaczysz następujące opcje:

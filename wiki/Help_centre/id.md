@@ -18,7 +18,7 @@ outdated_since: 737ea7fc657bed12687ef10e79bb9ae8f444c465
 
 Apakah kamu mengalami suatu masalah? Kami siap untuk membantumu! Pada *sidebar* yang tertera pada sisi kiri layar, kamu dapat melihat daftar masalah-masalah yang umum dihadapi beserta solusinya. Apabila masalahmu tidak tertera pada artikel ini atau semakin menjadi-jadi seiring waktunya, harap hubungi kami melalui email pada alamat [support@ppy.sh](mailto:support@ppy.sh). Di samping itu, kamu juga dapat meminta bantuan kepada para pengguna lainnya melalui [sub-forum Help](https://osu.ppy.sh/community/forums/5).
 
-## Jenis permasalahan
+## Jenis permasalahan {#sections}
 
 Harap pilih jenis permasalahan yang paling menggambarkan masalah yang kamu hadapi dari daftar di bawah ini agar kami dapat membantumu lebih lanjut.
 
@@ -31,9 +31,9 @@ Harap pilih jenis permasalahan yang paling menggambarkan masalah yang kamu hadap
 | [osu!store](/wiki/Help_centre/Store) | osu!go, osu!keyboard, osu!tablet, berbagai piranti dan cinderamata resmi lainnya |
 | [Situs web](/wiki/Help_centre/Website) | Pemblokiran pengguna, layanan dukungan, tampilan situs web |
 
-## Bantu kami memahami masalahmu
+## Bantu kami memahami masalahmu {#diagnostics}
 
-### Berkas-berkas log
+### Berkas-berkas log {#log-files}
 
 **Berkas-berkas log (*log files*) merupakan sekumpulan teks yang berisikan segala rekam jejak aktivitas yang terjadi di dalam klien permainan dari waktu ke waktu. Kami dapat menggunakan berkas-berkas ini untuk mengidentifikasi masalah yang kamu hadapi.**
 
@@ -50,7 +50,7 @@ Apabila anggota layanan dukungan kami memintamu untuk memberikan berkas-berkas l
 7. Pada jendela yang terbuka, tuju direktori `Logs`.
 8. Cari berkas-berkas log yang diminta oleh anggota layanan dukungan kami dan lampirkan berkas-berkas tersebut pada tiket layanan dukungan (*support ticket*) atau utas forum yang terkait.
 
-### Event Viewer
+### Event Viewer {#event-viewer}
 
 **Event Viewer merupakan program bawaan Windows yang merekam segala sesuatu yang terjadi ketika suatu program mengalami *crash*. Rekaman-rekaman ini tersimpan dalam berkas-berkas *crash log* yang dapat kami gunakan untuk mengidentifikasi masalah yang kamu hadapi.**
 
@@ -67,7 +67,7 @@ Apabila anggota layanan dukungan kami memintamu untuk memberikan berkas-berkas *
 7. Tuju tab `Details` dan bentangkan `System` dan `Event Data` sebagaimana yang diminta oleh anggota layanan dukungan kami.
 8. Lampirkan data-data tersebut pada tiket layanan dukungan (*support ticket*) atau utas forum yang terkait.
 
-### Frame Time Graph
+### Frame Time Graph {#frame-time-graph}
 
 **Frame Time Graph merupakan fitur osu! yang memungkinkan kami untuk memperoleh data lebih lanjut seputar masalah-masalah performa yang kamu hadapi.**
 

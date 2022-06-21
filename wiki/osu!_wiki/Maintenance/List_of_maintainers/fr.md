@@ -1,4 +1,9 @@
-# Liste des maintainers du osu! wiki
+---
+outdated_since: 7094ac9d70205bc7bd12621dd83e3d1738962809
+outdated_translation: true
+---
+
+# Liste des maintainers de l'osu! wiki
 
 Les maintainers jettent régulièrement un œil au [suivi des issues](https://github.com/ppy/osu-wiki/issues) et examinent les pull requests des contributeurs. Contrairement aux autres contributeurs, ils peuvent modifier les pull requests et les merge dans la branche `master` du dépôt, rendant ainsi les changements publics.
 
@@ -35,7 +40,7 @@ Curateurs, rédacteurs et approbateurs de tous les [news posts](https://osu.ppy.
 
 ## Anciens maintainers
 
-Cette liste comprend les maintainers de la configuration MediaWiki, que le osu! wiki [avait](/wiki/History_of_osu!/osu!_wiki) :
+Cette liste comprend les maintainers de la configuration MediaWiki, que l'osu! wiki [avait](/wiki/History_of_osu!/osu!_wiki) :
 
 - ![][flag_RU] [\[Dellirium\]](https://osu.ppy.sh/users/519032)
 - ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)
