@@ -244,7 +244,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Créateur de la osu!academy, GMT |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Créateur de l'osu!academy, GMT |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
