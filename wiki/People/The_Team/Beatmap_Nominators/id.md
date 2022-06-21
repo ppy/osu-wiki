@@ -59,17 +59,18 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Tionghoa |
 | ![][flag_KR] [Cellina](https://osu.ppy.sh/users/2490770) | Korea |
 | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) | Portugis |
-| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | Tionghoa |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanyol |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
 | ![][flag_BE] [Enneya](https://osu.ppy.sh/users/10959501) | Belanda |
+| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukraina |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_FI] [finnish bn](https://osu.ppy.sh/users/11077540) | Suomi |
 | ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | Norwegia |
 | ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) | Tionghoa |
 | ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | Rusia |
 | ![][flag_DE] [FuJu](https://osu.ppy.sh/users/10773882) | Jerman |
+| ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Perancis |
 | ![][flag_FR] [Gweon Sua](https://osu.ppy.sh/users/13466351) | Perancis |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesia |
 | ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
@@ -88,6 +89,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | Dansk |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Rusia |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
+| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Tionghoa |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Perancis |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Italia |
@@ -117,6 +119,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
+| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Suomi, sedikit Swedia |
 | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | Spanyol |
 | ![][flag_HK] [BlackBN](https://osu.ppy.sh/users/6291741) | Tionghoa, Kanton |
 | ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
@@ -151,6 +154,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | Belanda |
 | ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Belanda |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
+| ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530) | Polski |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Yunani |
 | ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_CA] [Ymiir](https://osu.ppy.sh/users/3922569) |  |
@@ -162,14 +166,17 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | :-- | :-- |
 | ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | Tionghoa |
+| ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | Tionghoa |
 | ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesia |
 | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Melayu |
 | ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | Korea |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Tionghoa |
 | ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korea |
+| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesia |
 | ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | Tionghoa |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korea |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
@@ -192,21 +199,16 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
-| ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | Spanyol |
 | ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | Spanyol |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukraina |
-| ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | Perancis |
 | ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | Korea |
 | ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Jerman |
-| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Tionghoa |
 | ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691) | Tionghoa |
 
 #### osu!taiko
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Suomi, sedikit Swedia |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Jepang |
 | ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | Jepang |
 | ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
@@ -218,19 +220,19 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
+| ![][flag_TH] [rew0825](https://osu.ppy.sh/users/2488026) | Thai |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Spanyol |
 
 #### osu!mania
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | Tionghoa |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Tionghoa |
 | ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | Spanyol |
-| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | Melayu |
-| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesia |
+| ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230) | Tionghoa, Kanton |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesia |
 | ![][flag_ID] [Syrion-](https://osu.ppy.sh/users/15380643) | Indonesia |
+| ![][flag_TW] [Touru0711](https://osu.ppy.sh/users/8625854) | Tionghoa |
 
 ## Sejarah
 
