@@ -171,7 +171,7 @@ It's always good to see people make impressive plays on such maps as memory/high
 
 *"I really love Nanahira. Like, a lot. Like, a whole lot. You have no idea ..."*
 
-Nanahira and her fans have always been with so much tension, full of energy, and massive \*kawaii-ness\*. But what if it went too far?!
+Nanahira and her fans have always been with so much tension, full of energy, and massive *kawaii-ness*. But what if it went too far?!
 
 Katacheh, who must be a serious fan of Nanahira has made a "Nanathon" that blasts a collection of Nanahira music for 3 hours.
 
@@ -193,7 +193,7 @@ The osu!catch Loved candidates were chosen by [Kasumi-sama](https://osu.ppy.sh/u
 
 First of all, happy pride month everyone! LGBTIQ+ rights are human rights. Second of all, here's a map made for last year's pride month!
 
-*I wanna be a girl* is an absolute *monolith* of a collab, featuring a whopping \*21\* mappers that all identify or question themselves as queer. This map does not have any sort of abstract quirks and is mostly stylized in a meta-esque manner, but the song is a lot of fun if you ask me. And despite the fact that the map does not have anything truly special within its fruits, it's really well made!
+*I wanna be a girl* is an absolute *monolith* of a collab, featuring a whopping *21* mappers that all identify or question themselves as queer. This map does not have any sort of abstract quirks and is mostly stylized in a meta-esque manner, but the song is a lot of fun if you ask me. And despite the fact that the map does not have anything truly special within its fruits, it's really well made!
 
 It has five difficulties, so there is something to play for everyone. Feel like the Overdose is not that tough for you? Go slap some *Double Time* on it and see if the issue persists.
 
