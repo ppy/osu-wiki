@@ -8,7 +8,7 @@ Project Loved is here to kickstart the summer with a fresh batch of maps for you
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-To those who're still unfamiliar with what we do, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved Captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll, or you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh).
+To those who're still unfamiliar with what we do, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved Captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll, or you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh).
 
 As always, we would like to thank everyone for your participation in the May votes. If you would like to view the results from the previous round, you may do so by clicking the following links:
 
@@ -124,7 +124,7 @@ The osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/
 
 On the outside, *Turn the Lights Off* might look like an average map, but that thought will change as soon as you play the map.
 
-*Turn the Lights Off* features a wonderful storyboard by \[profile\]Foxeru\[/profile\] emphasizing the state of the song while also hinting the gimmick of the map. When Tally Hall sings about turning the lights off, the lights of your playing field will actually be turned off! The storyboard will tell you what to play until the lights will be turned back on :). I'd highly recommend everyone to play this map for themselves since it's quite an experience with the storyboard turned on if I say so myself!
+*Turn the Lights Off* features a wonderful storyboard by [Foxeru](https://osu.ppy.sh/users/7479684) emphasizing the state of the song while also hinting the gimmick of the map. When Tally Hall sings about turning the lights off, the lights of your playing field will actually be turned off! The storyboard will tell you what to play until the lights will be turned back on :). I'd highly recommend everyone to play this map for themselves since it's quite an experience with the storyboard turned on if I say so myself!
 
 [![](/wiki/shared/news/2022-06-23-project-loved-june-2022/1273664.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -157,7 +157,7 @@ Sadly, the Old Extra difficulties won't be entering Loved due to their patternin
 198 BPM, 1:52 | 6.26★\
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-Call it a déjà vu of sorts but once again we feature a dariacore song, this time *leroy - theyfriend* by \[profile\]Genjuro\[/profile\] as one of the highest-quality maps in terms of reading challenges.
+Call it a déjà vu of sorts but once again we feature a dariacore song, this time *leroy - theyfriend* by [Genjuro](https://osu.ppy.sh/users/3196091) as one of the highest-quality maps in terms of reading challenges.
 
 This catchy song has multiple difficult patterns that are both hard to hit and to read due to Genjuro's extreme usage of SV, with both 1/6 and 1/8 patterns being quite common throughout the song, and with both very slow overlapping notes and very fast ninja notes, requiring a lot of practice and memorization in order to master.
 
@@ -323,7 +323,7 @@ Epic finales and bombastic execution has been a continuous trend of major osu!ma
 
 After a few months away from the osu!mania Loved section, Jakads returns to the Loved nominations with his chart of *Scattered Pancakes*!
 
-You may have seen this chart featured in a video where Jakads somehow \[achieves a 100.00% SS](https://www.youtube.com/watch?v=P7gLQothN8U) on his own chart [strike\]after some retries\[/strike\]. This is a clean technical chart with many variations in deceptively tricky patterning. Don't be fooled by the star rating ⁠— this chart can be quite hard as it is sitting at 240 BPM.
+You may have seen this chart featured in a video where Jakads somehow [achieves a 100.00% SS](https://www.youtube.com/watch?v=P7gLQothN8U) on his own chart ~~after some retries~~. This is a clean technical chart with many variations in deceptively tricky patterning. Don't be fooled by the star rating⁠— this chart can be quite hard as it is sitting at 240 BPM.
 
 Despite the above, the chart manages to feel straightforward at the same time. There's no real gimmick in this one (except maybe that last burst, sheesh), but expect to drop many misses if you're not careful. The chart gets harder as it progresses, so there isn't much time to catch a break and regain stamina.
 
@@ -357,7 +357,7 @@ If you are *My Man* (or *My Woman*, it doesn't really matter), give some love to
 
 From [everyone working on Project Loved](https://loved.sh/team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. So don't forget to hydrate and vote on your favorite beatmaps in order for that to happen!
 
-More info about Project Loved can be found on its [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy) if you have any questions, concerns, or are interested in helping out.
+More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy) if you have any questions, concerns, or are interested in helping out.
 
 See you next month!
 
