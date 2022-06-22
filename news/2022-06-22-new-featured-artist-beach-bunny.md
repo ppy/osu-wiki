@@ -8,7 +8,7 @@ Bouncing onto the osu! shores is **Beach Bunny**, our newest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/277/header.jpg)
 
-A bedroom solo project transformed into a multi-million stream punk rock unit, **Beach Bunny** brings emotional indie tunes to the mainstream. And when we say "the mainstream", we obviously mean to the ears of our niche circle clicking community.
+A bedroom solo project that transformed into a punk rock unit racking up millions of plays, **Beach Bunny** brings emotional indie tunes to the mainstream. And when we say "the mainstream", we obviously mean to the ears of our niche circle clicking community.
 
 [**Beach Bunny**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/277) has a solid **5** tracks spread across their discography, including *Prom Queen* — a tune that zoomer osu! TikTok-ers are guaranteed to recognize.
 
