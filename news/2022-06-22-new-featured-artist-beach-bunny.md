@@ -48,7 +48,7 @@ Try playing [the first ranked **Beach Bunny** map](https://osu.ppy.sh/beatmapset
 
 ---
 
-When you're ready to into the editor with any of these songs, pick up an ultra convenient map template from [**Beach Bunny**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/277).
+When you're ready to hop into the editor with any of these songs, pick up an ultra convenient map template from [**Beach Bunny**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/277).
 
 And that's all for **Beach Bunny**! Completely shifting gears, our next Featured Artist is a VOCALOID savant. Be prepared for that announcement on Saturday, keep an eye on the [@osugame Twitter](https://twitter.com/osugame) because we say so, and we'll see you then!
 
