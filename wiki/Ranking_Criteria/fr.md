@@ -117,7 +117,7 @@ Il est important de noter avant de les utiliser :
 - **Les caractères unicode spéciaux doivent être filtrés vers leur équivalent standard le plus proche ou supprimés des champs romanisés dans un fichier `.osu`.** `★ ☆ ⚝ ✪` et les caractères similaires sont remplacés par un astérisque (`*`). Les autres caractères spéciaux doivent être romanisés ou supprimés au cas par cas.
 - **Si la musique d'une beatmap est composée de deux ou plusieurs musiques, indiquez clairement les titres des musiques avec un symbole de séparation entre elles ou utilisez un titre descriptif de son contenu.** Si le titre devient trop long, un titre descriptif doit être utilisé à la place.
 - **Si un symbole est utilisé pour regrouper des parties d'un titre, un espace doit être utilisé avant et après le groupe, mais pas directement avant ou après les symboles à l'intérieur des groupes.**
-- **Si le média applicable au champ source contient des sous-séries, l'étiquette la plus précise doit être utilisée comme source.** Si une musique a plusieurs sous-séries applicables, la source principale du média peut être utilisée à la place.
+- **Si le média applicable au champ source contient des sous-séries, le label le plus précis doit être utilisé comme source.** Si une musique a plusieurs sous-séries applicables, la source principale du média peut être utilisée à la place.
 
 #### Romanisation
 
