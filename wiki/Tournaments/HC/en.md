@@ -58,6 +58,56 @@ Harumachi Cup Ω was only able to be done by the hard work of everyone below.
 
 | ![flag_KR] [Piper](https://osu.ppy.sh/users/10592853) | ![flag_US] [Venpris](https://osu.ppy.sh/users/8861593) | ![flag_SG] [qstronaut](https://osu.ppy.sh/users/10958852) | ![flag_BG] [hlanden](https://osu.ppy.sh/users/4934554) | ![flag_US] [ArmaniDilbo](https://osu.ppy.sh/users/11955716) | ![flag_US] [WhirI](https://osu.ppy.sh/users/13593866) | ![flag_DK] [Marco Polo](https://osu.ppy.sh/users/10650901) | ![flag_RU] [Verneo](https://osu.ppy.sh/users/6842477) | ![flag_SK] [PeteX](https://osu.ppy.sh/users/1285945) | ![flag_US] [bazingasdead](https://osu.ppy.sh/users/14139392) | ![flag_HU] [gecseboti](https://osu.ppy.sh/users/15213139) | ![flag_FR] [Sukiye](https://osu.ppy.sh/users/3674590) | ![flag_SG] [_gt](https://osu.ppy.sh/users/8301957) | ![flag_US] [ZephyrCo](https://osu.ppy.sh/users/7516954) | ![flag_US] [Gabey](https://osu.ppy.sh/users/12904237) | ![flag_DE] [SgtCataclyst](https://osu.ppy.sh/users/7947626) | ![flag_GB] [Matt4132](https://osu.ppy.sh/users/11706972) | ![flag_AU] [Cereal](https://osu.ppy.sh/users/6541627) | ![flag_US] [Flameztear](https://osu.ppy.sh/users/13207763) | ![flag_DE] [Finney](https://osu.ppy.sh/users/11393702) | ![flag_US] [KoiFishu](https://osu.ppy.sh/users/4539930) | ![flag_NO] [Frodo55](https://osu.ppy.sh/users/14398471) | ![flag_FR] [-Wum-](https://osu.ppy.sh/users/11170841) | ![flag_AT] [z9a](https://osu.ppy.sh/users/13057699) | ![flag_ES] [M A N O L O](https://osu.ppy.sh/users/12296128) | ![flag_SA] [-Peachii](https://osu.ppy.sh/users/9683186) | ![flag_DE] [TobisawaMisaki](https://osu.ppy.sh/users/11393715) | ![flag_TR] [LyeRR](https://osu.ppy.sh/users/13068741) | ![flag_SK] [TenIdiotZTelky](https://osu.ppy.sh/users/10069181) | ![flag_HK] [Legitted](https://osu.ppy.sh/users/12387359) | ![flag_PL] [Tutka](https://osu.ppy.sh/users/8170022) | ![flag_PT] [NaturalFoda](https://osu.ppy.sh/users/16509171) | ![flag_US] [Luqkay](https://osu.ppy.sh/users/16538717) | ![flag_DE] [xeroa](https://osu.ppy.sh/users/17159280) | ![flag_US] [elite975](https://osu.ppy.sh/users/15475797) | ![flag_GB] [axopti](https://osu.ppy.sh/users/11955275) | ![flag_CL] [suntan](https://osu.ppy.sh/users/19998548) | ![flag_US] [-Risu](https://osu.ppy.sh/users/7047218) | ![flag_TH] [namirin1](https://osu.ppy.sh/users/10249166) | ![flag_MY] [Lunasa](https://osu.ppy.sh/users/16436446) | ![flag_CL] [Shuedo](https://osu.ppy.sh/users/15775763) | ![flag_US] [Cocoamallows](https://osu.ppy.sh/users/9436126) | ![flag_CA] [McNonal](https://osu.ppy.sh/users/10395167) | ![flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | ![flag_FR] [TotorPotate 2](https://osu.ppy.sh/users/10325072) | ![flag_NL] [ShiRonium](https://osu.ppy.sh/users/13956957) | ![flag_US] [XD piranha](https://osu.ppy.sh/users/13182910) | ![flag_AT] [Kitsumiya](https://osu.ppy.sh/users/18153252) | ![flag_VN] [-Miizu-](https://osu.ppy.sh/users/11028972) | ![flag_PL] [xMatrix382](https://osu.ppy.sh/users/12047601) | ![flag_US] [glyph on osu](https://osu.ppy.sh/users/11612720) | ![flag_ID] [DeathHydra](https://osu.ppy.sh/users/7457788) | ![flag_SI] [Sirek](https://osu.ppy.sh/users/14666725) | ![flag_US] [crypto](https://osu.ppy.sh/users/10248601) | <!-- Start with AlexandreAstier tomorrow-->
 
+<!--- ## Seeding Results TODO: Add seeding once qualifiers finishes
+
+|  |  |  |  |  |  |  |   |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 1.  | 2.   | 3.  | 4.  | 5.  | 6.  | 7.  | 8.  |
+| 9.  | 10.  | 11.  | 12.  | 13.  | 14.  | 15.  | 16.  |
+| 17.  | 18.  | 19.  | 20.  | 21.  | 22.  | 23.  | 24.  |
+| 25.  | 26.  | 27.  | 28.  | 29.  | 30.  | 31.  | 32.  |
+| 33.  | 34.  | 35.  | 36.  | 37.  | 38.  | 39.  | 40.  |
+| 41.  | 42.  | 43.  | 44.  | 45.  | 46.  | 47.  | 48.  |
+| 49.  | 50.  | 51.  | 52.  | 53.  | 54.  | 55.  | 56.  |
+| 57.  | 58.  | 59.  | 60.  | 61.  | 62.  | 63.  | 64.  | --->
+
+<!-- TODO: Add 1vs1 round information
+
+### Round of 16
+
+| Player 1 | Player 2 |
+| :-- | :-- |
+| 1.  | 16.  |
+| 2.  | 15.  |
+| 3.  | 14.   |
+| 4.  | 13.   |
+| 5.   | 12.   |
+| 6.   | 11.   |
+| 7.   | 10.   |
+| 8.   | 9.   |
+
+### Quarterfinals
+
+| Player 1 | Player 2 |
+| :-- | :-- |
+| 1.  | 5.  |
+| 2.  | 6.  |
+| 3.  | 7.  |
+| 4.  | 8.  |
+
+### Semifinals
+
+| Player 1  | Player 2  |
+| :-- | :-- |
+| 1.  | 3.  |
+| 2.  | 4.  |
+
+### Grandfinals
+
+| Player 1  | Player 2  |
+| :-- | :-- |
+| 1.  | 2.  |
+
 <!--- **TODO: Add when tournament ends**
 
 ## Podium
@@ -175,18 +225,18 @@ This tournament is **strictly** for those between the ranks of **999 - Infinity*
 1. Seeding will take place during the Qualifiers and the Group Heat stages.
 2. During the Qualifiers Stage there will be multiple lobbies open for sign-ups. Please make sure to sign up for a time that best fits your schedule.
 3. The Qualifiers Stage is used to help get rid of those who don't show up and to get the participation count to the nice number of 64.
-4. There will be no warmups for the Qualifiers and Group Heats stages, remember this is a harumachi clover tournament, they are only 40 seconds at most.
-5. Seeding will be gathered by taking the highest score is recorded and used in comparison to other scores from the players.
-6. For the Qualifiers and Group Heats stage, **the mappool will be played through twice**.
-7. Players will be allowed to ask for a brief break at the end of the first run-through of the mappool.
+4. There will be no warmups for the Qualifiers and Group Heats stages, remember this is a harumachi clover tournament, the maps are only 40 seconds at most.
+5. Seeding will be gathered by taking the highest score recorded and used in comparison to the scores of the other players.
 
 ### Lobby specifics
 
 1. A private match will be created for the matches. The players will be invited for the asscociated match around 15 minutes before the match time. Make sure to have PMs enabled to everyone not just on your friends list as the invite does **not** bypass this setting. If you are unable to make it to the match due to this issue, your position in the tournament is **not** guaranteed.
 2. During the 1v1 Bracket, each player will `!roll`, the winner of the roll **picks who will pick the first map**. Tournament staff would like to preface, if you win the `!roll`, this does **not** mean you pick the first map, this means you pick whether you pick the first map or your opponent does. Choose wisely!
-3. There are **no** bans.
-4. There are **no** warmups. Be prepared.
-5. 1v1 Bracket only: In case of a tie, the tiebreaker will be played.
+3. For the Qualifiers and Group Heats stage, **the mappool will be played through twice**.
+4. Players will be allowed to ask for a brief break at the end of the first run-through of the mappool.
+5. There are **no** bans.
+6. There are **no** warmups. Be prepared.
+7. 1v1 Bracket only: In case of a tie, the tiebreaker will be played.
    - Otherwise, see: [Number 6 of General Rulset](#ruleset).
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
