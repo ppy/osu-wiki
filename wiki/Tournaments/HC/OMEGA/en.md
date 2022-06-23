@@ -6,7 +6,7 @@ tags:
 
 # Harumachi Cup Ω
 
-![HCΩ logo](img/HC/omega/../../../logo.jpg)
+![HCΩ logo](img/logo.jpg)
 
 The **Harumachi Cup Ω** (**HCΩ**) was a worldwide single-elimination osu!standard tournament hosted by ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680). The tournament was completely comprised of the song "Harumachi Clover" in various remixes done by individuals in the osu! community and through osu!'s **Featured Artist** (**FA**) program. This is the third instalment of the **Harumachi Cup** series.
 
@@ -213,7 +213,7 @@ This tournament is **strictly** for those between the ranks of **999 - Infinity*
 
 1. For more specifics for what maps were played see: [Mappools](#mappools)
 2. There will be a variety of *Harumachi Clover* maps to choose from in each stage of the tournament.
-   - Note: 1v1 Bracket stage **does not** allow bans. See: [1v1 Bracket](#tournament-staging)
+   - Note: 1v1 Bracket stage **does not** allow bans. See: [Number 4 in tournament staging](#tournament-staging)
 3. Each stage will have the number of maps and mods as seen below:
    - Qualifiers/Groups: 1NM, 1HD, 1HR, 1DT, 1FM
    - RO16/QuarterFinal: 2NM, 1HD, 1HR, 1DT, 1FM, 1TB
