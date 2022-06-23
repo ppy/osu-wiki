@@ -6,9 +6,9 @@ tags:
 
 # Harumachi Cup Ω
 
-![HCΩ logo](img/../1/logo.jpg)
+![HCΩ logo](img/HC/omega/../../../logo.jpg)
 
-The **Harumachi Cup Ω** (**HCΩ**) was a worldwide single-elimination osu!standard tournament hosted by ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680). The tournament was completely comprised of the song "Harumachi Clover" in various remixes done by individuals in the osu! community and through osu!'s **Featured Artist** (**FA**) program.
+The **Harumachi Cup Ω** (**HCΩ**) was a worldwide single-elimination osu!standard tournament hosted by ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680). The tournament was completely comprised of the song "Harumachi Clover" in various remixes done by individuals in the osu! community and through osu!'s **Featured Artist** (**FA**) program. This is the third instalment of the **Harumachi Cup** series.
 
 ## Tournament schedule
 
@@ -39,11 +39,13 @@ Harumachi Cup Ω was only able to be done by the hard work of everyone below.
 | Position | Member(s) |
 | :-- | :-- |
 | Organizer | ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![flag_GB] [Hubz](https://osu.ppy.sh/users/10379965), ![flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Guest Mappers | ![flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763), ![flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![flag_TR] [Orkay](https://osu.ppy.sh/users/9321674) |
+| Guest Mapper | ![flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763), ![flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![flag_TR] [Orkay](https://osu.ppy.sh/users/9321674) |
 | Streamer | ![flag_GB] [Hubz](https://osu.ppy.sh/users/10379965) |
 | Commentator | ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![flag_GB] [Teezel](https://osu.ppy.sh/users/7528639) |
+| Designer | ![flag_GB] [Hubz](https://osu.ppy.sh/users/10379965) |
 | Outreach/Consultant | ![flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
 | Referee | ![flag_US] [Blushing](https://osu.ppy.sh/users/5927823), ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![flag_ZA] [KaedeSnowyyy](https://osu.ppy.sh/users/18323026), ![flag_EE] [megahello](https://osu.ppy.sh/users/11155994), ![flag_VN] [My Angel Chino](https://osu.ppy.sh/users/20547597)
+| Statistician | ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |
 
 ## Links
 
@@ -99,7 +101,7 @@ Harumachi Cup Ω has come to an end and resulted in the following:
 
 ### General
 
-1. This tournament is broken up into 3 divisions of player versus player (this is discussed more in [stages](#stage)), with a single-elimination bracket.
+1. This tournament is broken up into 3 divisions of player versus player (this is discussed more in the [tournament staging](#tournament-staging) section), with a single-elimination bracket.
 2. The scoring system used will be **ScoreV2**.
 3. This tournament is an **osu!standard** tournament.
 4. Match scheduling is decided by the organizers. Players may feel free to ask for a reschedule if the given schedule conflicts with the player. If a reschedule is approved, it may not be streamed or recorded due to staff availability.
@@ -186,36 +188,6 @@ This tournament is **strictly** for those between the ranks of **999 - Infinity*
 4. There are **no** warmups. Be prepared.
 5. 1v1 Bracket only: In case of a tie, the tiebreaker will be played.
    - Otherwise, see: [Number 6 of General Rulset](#ruleset).
-
-## History
-
-Their was two reditions of **Harumachi Cup** before **Harumachi Cup Ω** dubbed: *Harumachi Clover Cup* and *Harumachi Cup 2*, respectively. Just like **Harumachi Cup Ω** the previous tournaments by the same namesake only included beatmaps that were mapped to the song, "Harumachi Clover".
-
-### Harumachi Clover Cup
-
-Harumachi Clover Cup started its endeavor in the tournament world on April 27, 2020 with the [discussion post](https://osu.ppy.sh/community/forums/topics/1059462?n=1) being created the same day. Unlike **HCΩ** this tournament was not available for all ranks but only those who were in the range of 50,000 - 100,000.
-
-#### Mappool
-
-Download the mappool used [here](https://docs.google.com/spreadsheets/d/1_2-KYWb0YHIZO2qy_OureRzfiIKpf91aWt5r9aFUIRY/edit?usp=sharing)!
-
-#### Winner
-
-| ![flag_CN] [Kotoki1337](https://osu.ppy.sh/users/6403393) |
-| :-: | :-- |
-
-### Harumachi Cup 2
-
-**Harumachi Cup 2** (**HC2**) began on May 21, 2021 and with the announcement of the second rendition, so was the style of the tournament. **HC2** would feature not the same 1v1 style that was used in the predecessor, no, **HC2** would do a two-round *battle-royale* style tournament consisting of 144 players, all ranging from low-rank of 10,000 to high-rank of 250,000. 2 rounds, 12 lobbies per round, with each winner of each lobby moving on to the next round. The finals, to determine who won, would be played in a best-of-three. For more information on the tournament see the [discussion post](https://osu.ppy.sh/community/forums/topics/1329279?n=1).
-
-#### Mappool
-
-Download the mappool used [here](https://drive.google.com/file/d/1IXTEdfsnl42gUNyzubKewB5tFEJlMXwN/view)!
-
-#### Winner
-
-![flag_HK] [- PPanDoRaA -](https://osu.ppy.sh/users/10625776) |
-| :-: | :-- |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
