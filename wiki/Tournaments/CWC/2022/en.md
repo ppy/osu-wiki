@@ -96,7 +96,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983) |
 | ![][flag_VN] | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)**, [Stardust Prism](https://osu.ppy.sh/users/8525921), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-Linglan Lily-](https://osu.ppy.sh/users/8738261), [Marota](https://osu.ppy.sh/users/10278890), [NamSPro](https://osu.ppy.sh/users/11387006) |
 
-## Match schedule: Finals
+ ## Match schedule: Finals
 
 ### Saturday, 25 June 2022
 
@@ -113,7 +113,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | United States ![][flag_US] | ![][flag_ID] Indonesia | [Jun 26 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T153000&p1=1440&p2=263&p3=108) | [^potential-match] |
 | United States ![][flag_US] | ![][flag_CA] Canada | [Jun 26 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T153000&p1=1440&p2=263&p3=188) | [^potential-match] |
 | France ![][flag_FR] | ![][flag_ID] Indonesia | [Jun 26 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T153000&p1=1440&p2=195&p3=108) | [^potential-match] |
-| France ![][flag_FR] | ![][flag_CA] Canada | [Jun 26 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T170000&p1=1440&p2=195&p3=188) | [^potential-match] |
+| France ![][flag_FR] | ![][flag_CA] Canada | [Jun 26 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T180000&p1=1440&p2=195&p3=188) | [^potential-match] |
 
 ## Mappools
 
