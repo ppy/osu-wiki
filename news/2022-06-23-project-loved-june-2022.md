@@ -124,7 +124,6 @@ The osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/
 
 On the outside, *Turn the Lights Off* might look like an average map, but that thought will change as soon as you play the map.
 
-*Turn the Lights Off* features a wonderful storyboard by \[profile=7479684\]Foxeru\[/profile\] emphasizing the state of the song while also hinting the gimmick of the map. When Tally Hall sings about turning the lights off, the lights of your playing field will actually be turned off! The storyboard will tell you what to play until the lights will be turned back on :). I'd highly recommend everyone to play this map for themselves since it's quite an experience with the storyboard turned on if I say so myself!
 *Turn the Lights Off* features a wonderful storyboard by [Foxeru](https://osu.ppy.sh/users/7479684) emphasizing the state of the song while also hinting the gimmick of the map. When Tally Hall sings about turning the lights off, the lights of your playing field will actually be turned off! The storyboard will tell you what to play until the lights will be turned back on :). I'd highly recommend everyone to play this map for themselves since it's quite an experience with the storyboard turned on if I say so myself!
 
 [![](/wiki/shared/news/2022-06-23-project-loved-june-2022/1273664.jpg)](https://osu.ppy.sh/community/forums/topics/1599024)
