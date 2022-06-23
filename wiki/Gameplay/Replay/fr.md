@@ -220,7 +220,7 @@ Les replays sur le serveur sont réservés au top 50 sur le `Classement généra
 Ce replay sera sauvegardé sur le serveur.
 Il peut être exporté, téléchargé ou regardé directement sur demande.
 
-Lorsque vous regardez un replay depuis le classement (excluant les replays exporté), le nombre affiché à côté dans le compteur de "Replays regardés par les autres" sur le profil du joueur du replay augmentera de 1.
+Lorsque vous regardez un replay depuis le classement (excluant les replays exportés), le nombre affiché à côté dans le compteur de "Replays regardés par les autres" sur le profil du joueur du replay augmentera de 1.
 Si un nouveau record global du top 50 a été ajouté, le replay du précédent détenteur de la position \#50 sera supprimé côté serveur.
 
 Pour regarder un replay serveur, un compte osu! doit être connecté à Bancho.
