@@ -111,8 +111,8 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | China ![][flag_CN] | ![][flag_KR] South Korea | [Jun 26 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T120000&p1=1440&p2=33&p3=235) | [^winners-bracket] |
 | United States ![][flag_US] | ![][flag_FR] France | [Jun 26 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T140000&p1=1440&p2=263&p3=195) | [^losers-bracket] |
 | United States ![][flag_US] | ![][flag_ID] Indonesia | [Jun 26 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T153000&p1=1440&p2=263&p3=108) | [^potential-match] |
-| United States ![][flag_US] | ![][flag_CA] Canada | [Jun 26 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T153000&p1=1440&p2=263&p3=188) | [^potential-match] |
 | France ![][flag_FR] | ![][flag_ID] Indonesia | [Jun 26 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T153000&p1=1440&p2=195&p3=108) | [^potential-match] |
+| United States ![][flag_US] | ![][flag_CA] Canada | [Jun 26 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T180000&p1=1440&p2=263&p3=188) | [^potential-match] |
 | France ![][flag_FR] | ![][flag_CA] Canada | [Jun 26 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220626T180000&p1=1440&p2=195&p3=188) | [^potential-match] |
 
 ## Mappools
