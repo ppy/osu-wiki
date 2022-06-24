@@ -8,7 +8,7 @@ tags:
 
 ![HCΩ logo](img/logo.jpg)
 
-The **Harumachi Cup Ω** (**HCΩ**) is a worldwide single-elimination osu!standard tournament hosted by ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680). The tournament is completely comprised of the song "Harumachi Clover" in various remixes done by individuals in the osu! community and through osu!'s **Featured Artist** (**FA**) program. This is the third instalment of the **Harumachi Cup** series.
+The **Harumachi Cup Ω** (**HCΩ**) is a worldwide single-elimination osu!standard tournament hosted by ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680). The tournament is completely comprised of the song *Harumachi Clover* in various remixes done by individuals in the osu! community and through osu!'s **Featured Artist** (**FA**) program. This is the third instalment of the **Harumachi Cup** series.
 
 ## Tournament schedule
 
