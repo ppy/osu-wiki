@@ -46,7 +46,7 @@ osu! имеет четыре **режима игры** с различными �
 
 *osu!mania* режим ритм-игры с вертикальной прокруткой (VSRG), разработанный как симулятор пианино. Режим в основном был [представлен и реализован](https://osu.ppy.sh/community/forums/topics/100751) игроком [woc2006](https://osu.ppy.sh/users/1105845), и основан на разнообразных ритм-играх конвейерного типа (а именно [Dance Dance Revolution](https://ru.wikipedia.org/wiki/Dance_Dance_Revolution) и [Beatmania](https://ru.wikipedia.org/wiki/Beatmania)). Маскоты osu!mania - близнецы [Mani и Mari](/wiki/Mascots#mani-&-mari), как с фиолетовыми, так и со светло-фиолетовыми волосами.
 
-![Геймплей osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania gameplay")
+![Геймплей osu!mania](/wiki/shared/mania-gameplay.jpg "геймплей osu!mania")
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
