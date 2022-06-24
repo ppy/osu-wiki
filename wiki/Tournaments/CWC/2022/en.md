@@ -40,8 +40,9 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114), ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_CA] [wwwww](https://osu.ppy.sh/users/8434466), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
+| Mappool selector | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114), ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_CA] [wwwww](https://osu.ppy.sh/users/8434466), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| Mappool quality assurance | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Sanyi](https://osu.ppy.sh/users/7496029) |
 | Commentator | ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Elux](https://osu.ppy.sh/users/12004983), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_US] [Lumenite-](https://osu.ppy.sh/users/6256027), ![][flag_AU] [Maitoo](https://osu.ppy.sh/users/16899553), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941), ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_BE] [\[ Quinten \]](https://osu.ppy.sh/users/6283136) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -102,7 +103,8 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| Indonesia ![][flag_ID] | ![][flag_CA] Canada | [Jun 25 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220625T163000&p1=1440&p2=108&p3=188) | [^losers-bracket] |
+| Team Hong Kong ![][flag_HK] | ![][flag_PH] Team Philippines | [Jun 25 (Sat) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220625T070000&p1=1440&p2=102&p3=145) | [^showmatch] |
+| Indonesia ![][flag_ID] | ![][flag_CA] Canada | [Jun 25 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220625T163000&p1=1440&p2=102&p3=145) | [^losers-bracket] |
 
 ### Sunday, 26 June 2022
 
@@ -577,6 +579,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket matches
+[^showmatch]: Showmatch - exhibition match between two notable teams from previous years that did not form a team for 2022
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
