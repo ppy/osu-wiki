@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: NILFRUITS"
-date: 2022-06-22 10:00:00 +0000
+date: 2022-06-25 10:00:00 +0000
 ---
 
 **NILFRUITS** is here to return VOCALOID to the forefront of osu!.
