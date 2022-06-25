@@ -15,7 +15,7 @@
 | 22/02/2016 | L'osu! wiki a maintenant 8 administrateurs (Ukami et Galkan). |
 | 01/04/2016 | Un autre administrateur a rejoint l'osu! wiki (Nathanael). |
 | 30/08/2016 | L'osu! wiki fonctionnant sur MediaWiki a été déprécié en faveur de la version fonctionnant sur le repository GitHub. Le wiki actuel d'osu! va rester jusqu'à ce que la version GitHub soit prête à être déployée avec toutes les pages, ainsi que les images portées. |
-| 06/2017 | L'osu! wiki fonctionnant sur MediaWiki est officiellement déprécié. Le lien pointe maintenant vers la nouvelle interface osu-web utilisant les ressources de l'osu! wiki faites à partir du repository GitHub. [Une backup temporaire de l'osu! wiki sans les fonctionnalités de MediaWiki peut-être trouvée ici.](https://osu.ppy.sh/old-wiki/Main_Page) |
+| 06/2017 | L'osu! wiki fonctionnant sur MediaWiki est officiellement déprécié. Le lien pointe maintenant vers la nouvelle interface osu-web utilisant les ressources de l'osu! wiki faites à partir du repository GitHub. [Une backup temporaire de l'osu! wiki sans les fonctionnalités de MediaWiki peut-être trouvée ici.](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page) |
 
 ## Repository GitHub (2016 - maintenant)
 
@@ -29,7 +29,7 @@
 | 22/05/2017 | [Les archives osu!news sont maintenant stockées sur l'osu! wiki (sous format texte uniquement)](https://github.com/ppy/osu-wiki/pull/252). |
 | 30/05/2017 | [La redirection de page est finalement implémentée dans l'osu! wiki.](https://github.com/ppy/osu-web/pull/1144) |
 | 06/2017 | TPGPL est promu avec des accès en écriture sur le repository osu-wiki. La fonction de recherche pour l'osu! wiki est implémentée. |
-| 07/02/2018 | [La prise en charge de mots clés d'articles a été implémentée](https://github.com/ppy/osu-web/pull/2331) pour permettre de meilleurs résultats de recherche pour les articles de wiki. |
+| 07/02/2018 | [La prise en charge de mots clés d'articles a été implémentée](https://github.com/ppy/osu-web/pull/2331) pour permettre de meilleurs résultats de recherche pour les articles du wiki. |
 | De 2018 à 2021 | *Aucune documentation* |
 | 12/05/2021 | Première implémentation des [infoboxes](https://github.com/ppy/osu-web/pull/7546) qui peuvent ajouter des informations supplémentaires aux articles. |
 | 01/06/2021 | [Une implémentation de base](https://github.com/ppy/osu/pull/12950) de l'osu! wiki sur osu!(lazer) a été ajoutée (seulement en anglais). |
