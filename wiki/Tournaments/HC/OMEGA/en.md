@@ -8,7 +8,7 @@ tags:
 
 ![HCΩ logo](img/logo.jpg)
 
-The **Harumachi Cup Ω** (**HCΩ**) is a worldwide single-elimination osu!standard tournament hosted by ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680). The tournament is completely comprised of the song *Harumachi Clover* in various remixes done by individuals in the osu! community and through osu!'s **Featured Artist** (**FA**) program. This is the third instalment of the **Harumachi Cup** series.
+The **Harumachi Cup Ω** (***HCΩ***) is a worldwide single-elimination osu! tournament hosted by ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680). The tournament is completely comprised of the song *Harumachi Clover* in various remixes done by individuals in the osu! community and through osu!'s Featured Artist program. This is the third instalment of the Harumachi Cup series.
 
 ## Tournament schedule
 
@@ -28,18 +28,18 @@ The **Harumachi Cup Ω** (**HCΩ**) is a worldwide single-elimination osu!standa
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3 month of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3 months of osu!supporter |
 
 ## Organisation
 
-Harumachi Cup Ω is only able to be done because of the hard work of everyone below.
+Harumachi Cup Ω is run by various community members.
 
 <!---TODO: Add FA after tourney completion-->
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![flag_GB] [Hubz](https://osu.ppy.sh/users/10379965), ![flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Guest Mapper | ![flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763), ![flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![flag_TR] [Orkay](https://osu.ppy.sh/users/9321674) |
+| Organiser | ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![flag_GB] [Hubz](https://osu.ppy.sh/users/10379965), ![flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
+| Guest mapper | ![flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763), ![flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![flag_TR] [Orkay](https://osu.ppy.sh/users/9321674) |
 | Streamer | ![flag_GB] [Hubz](https://osu.ppy.sh/users/10379965) |
 | Commentator | ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![flag_GB] [Teezel](https://osu.ppy.sh/users/7528639) |
 | Designer | ![flag_GB] [Hubz](https://osu.ppy.sh/users/10379965) |
@@ -169,7 +169,7 @@ This tournament is **strictly** for those between the ranks of **999 - Infinity*
 1. Sign-up through the [website](https://harumachi.chromb.uk/home)
 2. **Must** be in the [discord](https://discord.com/invite/eHBQX8pc5v)
 
-### Tournament Staging
+### Tournament staging
 
 1. There are 5 total stages to this tournament: Qualifers, Group Stage, Quarterfinals, Semifinals, and the Grandfinal.
 2. Qualifiers Stage Only:
