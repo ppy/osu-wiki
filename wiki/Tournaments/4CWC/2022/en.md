@@ -9,7 +9,7 @@ tags:
 
 ![4CWC 2022 banner](img/banner.png)
 
-The **4 Digit Catch World Cup** (***4CWC 2022***) is a country-based osu!catch tournament hosted by ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464), ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384) and ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). It is the second iteration of the 4 Digit Catch World Cup.
+The **4 Digit Catch World Cup** (***4CWC 2022***) is a country-based osu!catch tournament hosted by ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464), ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384), and ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). It is the second iteration of the 4 Digit Catch World Cup.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **4 Digit Catch World Cup** (***4CWC 2022***) is a country-based osu!catch t
 | --: | :-- |
 | Registration phase | 2022-06-25/2022-07-10 (20:00 UTC) |
 | Screening phase | 2022-07-11/2022-07-17 |
-| Team submission phase | 2022-07-18/2022-07-23 | | 2022-07-18/2022-07-23 |
+| Team submission phase | 2022-07-18/2022-07-23 |
 | Qualifiers | 2022-07-30/2022-07-31 |
 | Round of 32 | 2022-08-06/2022-08-07 |
 | Round of 16 | 2022-08-13/2022-08-14 |
