@@ -299,8 +299,6 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Finals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/18lk9qlRMAdu3I0o2eRNTGmwkE7hLkDKQ_49EcwUEwaE/view?rm=minimal).
-
 Saturday, 25 June 2022:
 
 | Team A |  |  | Team B | Match link |
