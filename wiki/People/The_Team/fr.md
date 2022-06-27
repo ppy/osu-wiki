@@ -64,7 +64,7 @@ Les groupes d'utilisateurs suivants sont constitués de membres de la communaut�
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Organisateur et administrateur de la World Cup |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Gouvernant général, Responsable de la communauté |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Développeur d'osu!, fournisseur de l'intégration IRC pour le tchat en jeu, mainteneur du site. [Blog](http://blog.echo.sh/) |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Hôte de osu! Coffee Hour, Streamer de la World Cup, Organisateur de tournoi |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Hôte d'osu! Coffee Hour, Streamer de la World Cup, Organisateur de tournoi |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Développeur d'osu!, fournisseur d'osz2 et de backend p2p |
 | ![][flag_US] Jim | Concepteur original du site, fournisseur d'hébergement à ses débuts. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Organisateur et administrateur de la World Cup |
@@ -81,7 +81,7 @@ Les groupes d'utilisateurs suivants sont constitués de membres de la communaut�
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | osu! et développeur pp |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Gouvernant général, Organisateur et administrateur de la World Cup, responsable du wiki |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Développeur d'osu!, développeur du mode osu!mania |
-| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Gérant du [osu!store](https://osu.ppy.sh/store/listing) |
+| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Gérant de l'[osu!store](https://osu.ppy.sh/store/listing) |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professeur de la [osu!academy](/wiki/Community/Video_series/osu!academy), concepteur de médias et de personnages |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"

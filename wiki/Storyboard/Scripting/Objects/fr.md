@@ -1,8 +1,13 @@
+---
+outdated_translation: true
+outdated_since: 3edcc9733800c0e9221a2032eede25009608e79d
+---
+
 # Objets d'un storyboard
 
 ![Appel de l'objet SB/sprite](img/SBS_Sprite.jpg "Appel de l'objet SB/sprite")
 
-*Pour les objets de [osu!](/wiki/Game_mode/osu!) et de [Beatmapping](/wiki/Beatmapping), voir : [Objets](/wiki/Hit_object)*
+*Pour les objets d'[osu!](/wiki/Game_mode/osu!) et de [Beatmapping](/wiki/Beatmapping), voir : [Objets](/wiki/Hit_object)*
 
 Dans le [storyboarding](/wiki/Storyboard), les **objets** sont des sprites ou des animations qui apparaissent à l'écran et constituent le storyboard. Les instances d'audio spécifiques au SB peuvent également être considérées comme des objets ; cependant, pour plus de clarté, elles ont [leur propre section dans ce guide](/wiki/Storyboard/Scripting/Audio).
 

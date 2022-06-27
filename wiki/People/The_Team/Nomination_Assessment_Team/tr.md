@@ -58,7 +58,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Almanca, Sırpça | Değerlendirme |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Değerlendirme |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | İspanyolca, Fransızca | Değerlendirme |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Flemenkçe | Değerlendirme |
+| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Felemenkçe | Değerlendirme |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Lehçe | Değerlendirme |
 
 ### osu!taiko
@@ -74,7 +74,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Değerlendirme, moderasyon |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Flemenkçe | Değerlendirme, yapısal |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Felemenkçe | Değerlendirme, yapısal |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | Değerlendirme |
 
 ### osu!mania
