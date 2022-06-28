@@ -87,7 +87,7 @@ The 4 Digit Catch World Cup is run by various community members.
 5. Each team is allowed 1 or 2 bans per match. Banned maps are removed from the mappool for the duration of the match and not allowed to be picked. A team is not allowed to ban 2 maps from the same mod pool.
 6. Teams have 2 minutes to select a map; if they fail to choose in the allotted time, the map choice will be random.
 7. For Mixed Mod (MM) picks, teams need 1 player with HR, 1 player with HD and 1 player with NM. Hidden is allowed for the HR player.
-8. Each team will receive a "tactical timeout" of two minutes, which can be used at any time during their team’s pick, once per match. The tactical timeout is optional and is not required to be used.
+8. Each team will receive a "tactical timeout" of two minutes, which can be used at any time during their team's pick, once per match. The tactical timeout is optional and is not required to be used.
 9. Once the map choice is locked in, players will have 2 minutes to ready up. The referee will start the match when all players are ready. When the 2-minute timer ends, all players should be ready. If one team does not have enough players to play the map, the other team will receive a win by default on the map. Losing by default twice will cause a loss by default for the whole match.
 10. In the case of a disconnection, common sense will be applied: if proof exists of the disconnected player's score, it will be added to their team's total score; if it is at all ambiguous, the other team will get the point; if the disconnection occurred in the first few seconds, the map will be replayed.
 
