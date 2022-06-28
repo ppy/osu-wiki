@@ -8,7 +8,7 @@ tags:
 
 # osu!supporter
 
-**osu!supporter** (atau ***tag osu!supporter***) merupakan gelar sementara yang diberikan kepada para pemain yang telah secara sukarela memberikan donasinya kepada osu! untuk dapat terus tumbuh dan berkembang. Para supporter akan dapat menikmati berbagai kelebihan yang bersifat kosmetik dan teknis, yang sebagian besar hanya akan tersedia pada saat osu!supporter sedang aktif. Seluruh fitur tambahan ini tidak memberikan keuntungan apa pun dalam hal permainan, performa, atau skor.
+**osu!supporter** (atau ***tag osu!supporter***) merupakan gelar sementara yang diberikan kepada para pemain yang telah secara sukarela memberikan donasinya kepada osu! untuk dapat terus tumbuh dan berkembang. Para supporter akan dapat menikmati berbagai kelebihan yang bersifat kosmetik dan teknis, yang sebagian besar hanya akan tersedia pada saat tag osu!supporter sedang aktif. Seluruh fitur tambahan ini tidak memberikan keuntungan apa pun dalam hal permainan, performa, atau skor.
 
 Tag osu!supporter dapat diperoleh melalui [laman toko osu!supporter](https://osu.ppy.sh/store/products/supporter-tag).
 
@@ -53,7 +53,7 @@ Kolom `saya!` ini dapat digunakan untuk berbagai keperluan, antara lain:
 Para supporter akan dapat membuat tampilan laman pengguna mereka lebih personal dengan menerapkan gambar sampul profil khusus sebagai berikut:
 
 - Klik ikon pensil yang terletak pada pojok kanan bawah sampul profil.
-- Pilih gambar sampul yang kamu kehendaki dari pilihan yang tersedia, atau unggah gambar sampulmu sendiri (ukuran yang disarankan adalah 2400x640).
+- Pilih gambar sampul yang dikehendaki dari pilihan yang tersedia, atau unggah gambar sampulmu sendiri (ukuran yang disarankan adalah 2400x640).
 
 Setelah masa berlaku osu!supporter berakhir, gambar sampul ini akan tetap tertera pada laman profil yang bersangkutan meskipun tidak akan lagi dapat diubah.
 
@@ -65,7 +65,7 @@ Para supporter yang belum pernah mengganti nama penggunanya akan dapat mengganti
 
 ### osu!direct
 
-osu!direct merupakan fitur pencarian dan penguduhan beatmap kilat yang hanya tersedia bagi para supporter. Fitur ini dapat diakses melalui tombol `osu!direct` yang tertera pada sisi kanan layar menu utama. Di samping akses langsung menuju daftar beatmap, osu!direct juga menyediakan berbagai cara lainnya untuk dapat memperoleh beatmap tanpa harus meninggalkan permainan sebagai berikut:
+osu!direct merupakan fitur pencarian dan penguduhan beatmap kilat yang khusus tersedia bagi para supporter. Fitur ini dapat diakses melalui tombol `osu!direct` yang tertera pada sisi kanan layar menu utama. Di samping akses langsung menuju daftar beatmap, osu!direct juga menyediakan berbagai cara lainnya untuk dapat memperoleh beatmap tanpa harus meninggalkan permainan sebagai berikut:
 
 - Tautan beatmap pada *chat*, yang akan menampilkan dialog unduhan dalam permainan
 - Pengunduhan beatmap otomatis dalam lobi [multiplayer](/wiki/Gameplay/Multiplayer) atau mode [spectate](/wiki/Gameplay/Spectating), yang dapat [dinonaktifkan kapanpun](/wiki/Client/Options#integration)
