@@ -3,6 +3,7 @@
     "name": "osu-wiki",
     "description": "home of the osu! wiki",
     "repository": "github:ppy/osu-wiki",
+    "type": "module",
     "dependencies": {
         "remark-cli": "10.0.1",
         "remark-frontmatter": "4.0.1",
