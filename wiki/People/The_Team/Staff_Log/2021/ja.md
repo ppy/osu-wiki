@@ -277,5 +277,3 @@ outdated_since: 3fe983b3a55970aed91a0bcdca028253d918ae5d
 
 - 2021-06-02: [Teky](https://osu.ppy.sh/users/10520912)を**BN**から削除
 - 2021-06-02: [Hobbes2](https://osu.ppy.sh/users/8157492)を**BN**から削除
-
-<!-- last update: 2021-05-17 16:00 UTC removed maridius from bn -->

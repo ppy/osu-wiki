@@ -21,7 +21,7 @@ tags:
 
 Laman ini akan membahas berbagai permasalahan dan pertanyaan yang sering diutarakan seputar proses pembuatan beatmap (*beatmapping*) dan penggunaan Beatmap Editor secara garis besar.
 
-## Bagaimana caranya agar saya dapat mengunggah/memperbarui beatmap milik saya?
+## Bagaimana caranya agar saya dapat mengunggah/memperbarui beatmap milik saya? {#upload-beatmap}
 
 **Kamu dapat mengunggah/memperbarui beatmap milikmu melalui editor.**
 
@@ -31,7 +31,7 @@ Apabila proses pengunggahan yang ada berlangsung tanpa masalah, kamu akan dapat 
 
 Masing-masing pengguna hanya dapat memiliki beatmap yang berstatus Pending/WIP hingga jumlah tertentu dalam suatu waktunya. Suatu beatmap Pending/WIP yang telah terabaikan/tidak diperbarui selama satu bulan (28 hari) akan secara otomatis terkubur di dalam [Beatmap Graveyard](/wiki/Beatmap/Category#graveyard). Apabila kamu ingin memindahkan beatmap milikmu yang sudah terkubur di Graveyard kembali ke Pending/WIP, perbarui beatmap tersebut melalui editor.
 
-## Saya mendapatkan pesan dari editor yang memperingatkan bahwa beatmap yang hendak saya unggah bukan milik saya ("The beatmap you are trying to submit isn't yours!")!
+## Saya mendapatkan pesan dari editor yang memperingatkan bahwa beatmap yang hendak saya unggah bukan milik saya ("The beatmap you are trying to submit isn't yours!")! {#wrong-author}
 
 **Hal ini dapat terjadi apabila kolom nama pembuat beatmap pada berkas beatmap yang terkait tidak terisi dengan benar.**
 
@@ -41,11 +41,11 @@ Apabila ternyata isi kolom tersebut tidak sesuai, tulis nama penggunamu di sana 
 
 Apabila langkah-langkah di atas tidak menyelesaikan masalahmu, harap baca [laman Panduan mengatasi masalah-masalah BSS berikut](/wiki/Guides/BSS_Issues) dengan seksama.
 
-## Saya memiliki osu!supporter yang aktif, namun saya tidak dapat mengunggah hingga 20 beatmap Pending/WIP sebagaimana yang dijanjikan!
+## Saya memiliki osu!supporter yang aktif, namun saya tidak dapat mengunggah hingga 20 beatmap Pending/WIP sebagaimana yang dijanjikan! {#upload-slots}
 
 **Jumlah beatmap Pending/WIP yang dapat kamu miliki dalam satu waktu tergantung pada jumlah beatmap Ranked yang kamu miliki. Untuk informasi selengkapnya, kunjungi [osu!supporter § Increased limits](/wiki/osu!supporter#increased-limits).**
 
-## Apakah saya dapat menghapus beatmap milik saya?
+## Apakah saya dapat menghapus beatmap milik saya? {#delete-beatmap}
 
 **Bisa, namun kamu harus ingat bahwa tim kami tidak menerima permintaan penghapusan beatmap secara manual.**
 

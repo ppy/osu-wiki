@@ -16,8 +16,7 @@ no_native_review: true
 
 ## 角色與職責
 
-*主頁面：[幫助中心](/wiki/Help_centre)*
-
+*主頁面：[幫助中心](/wiki/Help_centre)*\
 *另見：[帳號限制](/wiki/Help_centre/Account_restrictions)*
 
 當你遇到你無法控制的帳號問題時，請聯繫本團隊。記得使用你的 osu! 帳號綁定的電子郵件信箱發送信件，並盡可能地提供關於你的問題的詳細資訊。

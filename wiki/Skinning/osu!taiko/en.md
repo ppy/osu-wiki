@@ -365,7 +365,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - Position varies by skin version:
-  - v1 - v2.0: (29,266) (and (86,266) when mirrored)
+  - v1–v2.0: (29,266) (and (86,266) when mirrored)
   - v2.1+: (0,216) (and (90,216) when mirrored)
 
 ---
@@ -383,7 +383,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - Position varies by skin version:
-  - v1 - v2.0: (85,253) ((13,253) when mirrored)
+  - v1–v2.0: (85,253) ((13,253) when mirrored)
   - v2.1+: (90,216) (and (0,216) when mirrored)
 
 ---
@@ -403,7 +403,7 @@ Notes:
 - This element will get stretched to fit screen width.
 - This element is the normal state of the scrolling bar.
 - Position varies by skin version:
-  - v1.0 - v2.0: (181,216)
+  - v1.0–v2.0: (181,216)
   - v2.1+: (0,216)
 
 ---
@@ -424,7 +424,7 @@ Notes:
 - This element is the kiai state of the scrolling bar.
 - This element overlays `taiko-bar-right`.
 - Position varies by skin version:
-  - v1.0 - v2.0: (181,216)
+  - v1.0–v2.0: (181,216)
   - v2.1+: (0,216)
 
 ## Drumrolls
