@@ -66,15 +66,15 @@ Pour regarder si le BPM est correct ou non, allez directement vers le milieu ou 
 
 Une musique est constituée de stanzas (parties répétitives). Cette répétition suit le même motif dans une certaine période de temps (comme par exemple "PataPataPataPon", "DonDonDonKat", "SnareSnareSnareCymbal", "TapTapTapClap" ou "Hallelujah"). Ceci est plus compréhensible en utilisant un [métronome](https://webmetronome.com). Si vous voulez, vous pouvez lire [l'article à propos des mesures](https://en.wikipedia.org/wiki/Time_signature) ou aller faire un tour sur [le post d'Alace](https://osu.ppy.sh/community/forums/topics/20998).
 
-Nous avons donc besoin de trouver à quel moment démarrer le métronome, c'est à dire trouver un temps fort appelé downbeat ([plus d'informations ici](https://fr.wikipedia.org/wiki/Temps_(musique)). Il est en général assez simple à trouver ; au moment des downbeats, l'intensité de la musique et des paroles augmente, et vous pouvez quelque fois entendre des hitsounds de fin. Si le downbeat est situé au même endroit que la ligne rouge dans votre beatmap, alors tout est bon. Si non, vous devez le corriger en changeant l'offset de la musique. Allez sur le bon endroit dans la musique (mettez le diviseur de mesure dans le coin en haut à droite sur 1/2 ou 1/4 si nécessaire), puis appuyez sur F6 pour aller dans l'onglet Timing. Sélectionnez votre offset rouge (il y a un point rouge juste à côté) et appuyez sur le bouton "Use current time" sur la gauche. Ensuite, en utilisant la même technique, déplacez-le jusqu'au tout premier downbeat de la musique, car cela affecte les pulsations du logo d'osu! dans le menu principal et les objets durant les kiai times. 
+Nous avons donc besoin de trouver à quel moment démarrer le métronome, c'est à dire trouver un temps fort appelé downbeat ([plus d'informations ici](https://fr.wikipedia.org/wiki/Temps_(musique)). Il est en général assez simple à trouver ; au moment des downbeats, l'intensité de la musique et des paroles augmente, et vous pouvez quelque fois entendre des hitsounds de fin. Si le downbeat est situé au même endroit que la ligne rouge dans votre beatmap, alors tout est bon. Si non, vous devez le corriger en changeant l'offset de la musique. Allez sur le bon endroit dans la musique (mettez le diviseur de mesure dans le coin en haut à droite sur 1/2 ou 1/4 si nécessaire), puis appuyez sur F6 pour aller dans l'onglet Timing. Sélectionnez votre offset rouge (il y a un point rouge juste à côté) et appuyez sur le bouton "Use current time" sur la gauche. Ensuite, en utilisant la même technique, déplacez-le jusqu'au tout premier downbeat de la musique, car cela affecte les pulsations du logo d'osu! dans le menu principal et les objets durant les kiai times.
 
 Il ne nous reste maintenant que la mesure à configurer, c’est à dire tout simplement le nombre de battements forts dans la musique. Quand elle est bien configurée, le premier battement du métronome va toujours coïncider avec un battement fort, et si ce n'est pas le cas, allez dans le menu du Timing et changez le paramètre "Time signature".
 
-Dans la section Time signature, nous avons 
+Dans la section Time signature, nous avons
 
 - **4/4** aussi appelée mesure à quatre temps (un fort trois faibles). La plupart des musique utilisent cette mesure.
 - **3/4,** aussi appelée mesure à trois temps (un fort deux faibles).  Cette mesure est aussi appelée tempo de valse.
-- **\#/4** (ou \# est n'importe quel nombre entier), qui est un "timing exotique". Ce type de timing est *extrêmement spécifique* et est très peu utilisé. N'essayez pas cette option à part si vous avez eu une bonne éducation musicale et que vous pouvez être sûr que la musique le requiert. 
+- **\#/4** (ou \# est n'importe quel nombre entier), qui est un "timing exotique". Ce type de timing est *extrêmement spécifique* et est très peu utilisé. N'essayez pas cette option à part si vous avez eu une bonne éducation musicale et que vous pouvez être sûr que la musique le requiert.
 
 ### Phase de test
 
@@ -85,7 +85,7 @@ Mettez les notes sur les lignes blanches (diviseur de mesure sur 1/1 ; "temps fo
 
 Après le mapping, nous allons utiliser le mode Test (vous pouvez le lancer en appuyant sur F5), qui possède un système de feedback assez pratique : il nous montre la différence de temps entre le moment où une note apparaît dans l'éditeur et le moment où l'on clique dessus. Si vous n'avez pas de problème d'audition, de rythme, de réaction, de précision ou de carte son (ou de paranoïa), vous pouvez continuer. Sinon, ne testez pas le timing vous-même. Demandez plutôt à quelqu'un d'autre de le faire à votre place. Vous pouvez demander cela dans le canal \#mapping du tchat.
 
-Posez donc les notes, appuyez sur F5 pour rentrer dans le mode Test et touchez les notes que vous venez de placer le plus précisément possible. Quelques indices : 
+Posez donc les notes, appuyez sur F5 pour rentrer dans le mode Test et touchez les notes que vous venez de placer le plus précisément possible. Quelques indices :
 
 - Si vous obtenez autre chose que des 300, *surtout* durant les premières notes, arrêtez le test immédiatement et ajustez-le ou continuez pour voir si il y a d'autres erreurs.
 - Les résultats deviennent de moins en moins précis au fur et à mesure que vous jouez. C'est pour ça que de temps en temps (20 ~ 30 secondes), il vaut mieux arrêter le test (appuyez sur F2) et de repartir du même endroit après avoir pris une pause ;
@@ -109,10 +109,10 @@ N'oubliez pas d'activer la casse "Move already placed notes when changing the of
 Il y a plusieurs choses à retenir à propos de la phase de test. Premièrement, faites en sorte que le premier battement du métronome et le début de la musique soient toujours synchronisés sans délai visible (l'offset est correct). Ensuite, regardez le BPM. Pour le BPM, toutes les notes devraient être synchronisées avec la musique après l'intro. Faites quelques tests, mais soyez sûr de toujours regarder ces trois parties :
 
 1. Les notes juste après l'offset (le début de la musique).
-2. Quelque part vers le milieu de la musique (pour les musiques longues). 
+2. Quelque part vers le milieu de la musique (pour les musiques longues).
 3. Vers la fin, quand le rythme de la musique est encore audible.
 
-À la fin de votre test, regardez les résultats. Si les notes possèdent de grosses erreurs de timing (25ms trop tôt/trop tard, par exemple) et que les erreurs continuent à grossir au fil de la musique, augmentez/réduisez le BPM. Changez la valeur graduellement par dixièmes, puis par centièmes, ainsi de suite (gardez le paramètre original au cas-où). Éventuellement, après plusieurs essais, le décalage va devenir tellement petit qu'il peut être négligé sans causer de problèmes. (Le pourcentage de hits mal timés devrait être à moins de 5%, le timing ne devrait pas être plus de ~5ms en avance/en retard).  
+À la fin de votre test, regardez les résultats. Si les notes possèdent de grosses erreurs de timing (25ms trop tôt/trop tard, par exemple) et que les erreurs continuent à grossir au fil de la musique, augmentez/réduisez le BPM. Changez la valeur graduellement par dixièmes, puis par centièmes, ainsi de suite (gardez le paramètre original au cas-où). Éventuellement, après plusieurs essais, le décalage va devenir tellement petit qu'il peut être négligé sans causer de problèmes. (Le pourcentage de hits mal timés devrait être à moins de 5%, le timing ne devrait pas être plus de ~5ms en avance/en retard).
 
 Si tout a été fait correctement, vous devriez maintenant avoir une beatmap correctement timée. Il est nécessaire de revérifier le timing avec d'autres personnes pour avoir leur avis, surtout si vous n'êtes pas sûr. Apprenez de vos erreurs, et soyez assez audacieux pour demander.
 
@@ -126,7 +126,7 @@ Vous pouvez demander de l'aide pour cela, mais il n'y a que très peu de personn
 
 ### Qu'est-ce que je dois faire ?
 
-Pour commencer, écoutez et trouvez tous les endroits où le rythme de la musique change (l'usage d'un métronome est optionnel), reflétez correctement ce changement de rythme dans l'éditeur, puis ajoutez de nouvelles sections non héritées, où le BPM et l'offset sont appropriés pour cette section. Pour faire cela, nous allons utiliser le plan suivant : 
+Pour commencer, écoutez et trouvez tous les endroits où le rythme de la musique change (l'usage d'un métronome est optionnel), reflétez correctement ce changement de rythme dans l'éditeur, puis ajoutez de nouvelles sections non héritées, où le BPM et l'offset sont appropriés pour cette section. Pour faire cela, nous allons utiliser le plan suivant :
 
 1. Vérifiez que les paramètres (BPM et offset) du point actuel apparaissent bien sur la chronologie ;
 2. Lorsque vous testez votre beatmap, gardez un œil sur le hit error. Quand il commence à changer, arrêtez vous ;
@@ -136,7 +136,7 @@ Pour commencer, écoutez et trouvez tous les endroits où le rythme de la musiqu
 4. Après avoir fait n'importe quel changement de timing, vous devez décaler les notes selon le nouveau timing pour le tester à nouveau. Vous pouvez faire cela depuis le menu du haut : Timing → Repositionner les éléments de la section actuelle. Ensuite, vous devez manuellement vérifier toutes les notes, et faire quelques tests pour trouver des éventuelles erreurs de timing/placement ;
 5. Testez votre beatmap encore une fois pour s'assurer que le timing est correct. S'il y a un problème, répétez toutes les étapes.
 
-Ces étapes doivent être répétées jusqu’à la fin de la musique. Au final, on devrait se retrouver avec la chronologie de la musique, avec toutes les barres rouges affichées. En fonction de la musique, il peut y avoir beaucoup, BEAUCOUP de barres (en revanche, "plus de barres" ne veut pas forcément dire "meilleur timing"). Si tout est correct, alors le timing actuel est assez décent pour le mapping/le classement. Vous pouvez (vous devriez !) demander à d'autres personnes de vérifier votre timing. 
+Ces étapes doivent être répétées jusqu’à la fin de la musique. Au final, on devrait se retrouver avec la chronologie de la musique, avec toutes les barres rouges affichées. En fonction de la musique, il peut y avoir beaucoup, BEAUCOUP de barres (en revanche, "plus de barres" ne veut pas forcément dire "meilleur timing"). Si tout est correct, alors le timing actuel est assez décent pour le mapping/le classement. Vous pouvez (vous devriez !) demander à d'autres personnes de vérifier votre timing.
 
 L'algorithme pour les accélérations/décélérations du timing est légèrement différent :
 
@@ -152,19 +152,19 @@ Répétez ceci jusqu’à ce que le BPM soit synchronisé avec le ralentissement
 
 Si vous voulez un timing très précis, alors ce n'est pas encore fini. Vous devez enlever les offsets en trop. Pour faire cela, on peut placer des notes tout au long de la beatmap (vous pouvez créer un pattern simple, puis le copier, faites attention à ce que deux notes ne se superposent pas et sont bien placées) et commencer à jouer. Chaque erreur et inconsistance va demander une réparation, alors réparez-les d'une manière appropriée, basée sur votre avis, ou sur le retour des hits, ou sur votre expérience dans le timing, si vous en avez.
 
-Ce processus est fastidieux. Régler le timing d'une beatmap qui contient du multitiming peut prendre des *heures*, selon le nombre de changements. Aussi, vous allez devoir tester la même partie de la musique plusieurs fois juste pour être sûr que ce n'est pas juste vous, tester une moitié de la musique en une seule fois ou revenir sans cesse entre les deux ou trois même partie. Oui, c'est totalement normal de faire ceci ; essayer d'annuler le hit error ou de le rendre le plus proche possible de 0, préférablement moins de 3-5 millisecondes. Aussi intimidant que cela puisse paraître, vous ne devriez jamais vous décourager. Apprenez de vos erreurs. 
+Ce processus est fastidieux. Régler le timing d'une beatmap qui contient du multitiming peut prendre des *heures*, selon le nombre de changements. Aussi, vous allez devoir tester la même partie de la musique plusieurs fois juste pour être sûr que ce n'est pas juste vous, tester une moitié de la musique en une seule fois ou revenir sans cesse entre les deux ou trois même partie. Oui, c'est totalement normal de faire ceci ; essayer d'annuler le hit error ou de le rendre le plus proche possible de 0, préférablement moins de 3-5 millisecondes. Aussi intimidant que cela puisse paraître, vous ne devriez jamais vous décourager. Apprenez de vos erreurs.
 
 Au bout du compte, vous devriez retenir ces quelques conseils importants :
 
 - **Sauvegardez toujours votre ancien timing avant de faire n'importe quel changement.**
-  - Utilisez des marques-pages, copiez le fichier .osu dans un bloc-notes, ou écrivez le BPM/Offset sur une feuille de papier, au cas où les changements que vous faites sont encore pire. 
+  - Utilisez des marques-pages, copiez le fichier .osu dans un bloc-notes, ou écrivez le BPM/Offset sur une feuille de papier, au cas où les changements que vous faites sont encore pire.
 - **Pensez à resnap les notes après un changement de timing.**
 - **Gardez toujours un œil sur les résultats des tests.**
 - **Appuyez vous aussi sur vos autre sens, n'utilisez pas que vos oreilles.** Parfois, la même partie d'une musique peut-être perçue différemment. Essayez de vous concentrer sur les résultats des tests, pas seulement sur votre audition.
 - **Les hit errors de moins de 3 ms, ne veulent rien dire et peuvent être ignorés.** Vous devriez commencer à les prendre en compte quand ils commencent à monter vers 5-6 millisecondes ou plus.
 - **Have a break. Have a Kit-Kat. (Faites des pauses.)** Conseil du docteur.
 - **Ne testez pas le timing en jouant des streams ou des jumps ; les résultats peuvent être inconsistants même si vous êtes fort au jeu.** Utilisez plutôt des patterns simples pour vérifier le timing.
-- En revanche, faites aussi en sorte de le tester **sur la beatmap finale** et pas seulement sur une seule série de notes copiées-collées. 
+- En revanche, faites aussi en sorte de le tester **sur la beatmap finale** et pas seulement sur une seule série de notes copiées-collées.
 - **Il est toujours mieux de corriger et de régler plus précisément le BPM/l'Offset que de suivre la mesure de la musique.** Cela veut dire que vous pouvez rajouter de nouvelles sections quand vous le voulez, mais faites-le seulement quand c'est requis. Si la ligne n'est pas sur un temps fort, alors réinitialisez le métronome dès que possible, tout en ajoutant une nouvelle section là ou le prochain temps fort devrait être. Si il y a un nouvel offset plus qu'une fois tous les deux temps, il peut être négligé.
 - **Ne faites pas trop de nouvelles sections.** Il est mieux de faire le test plusieurs fois, puis regardez si la nouvelle section est vraiment nécessaire.
 - Au lieu de faire des nouvelles sections (à part si il y a vraiment un décalage), il est parfois mieux d'essayer de changer le BPM de la section en cours ; en revanche, il est nécessaire de vérifier si le début de la section reste timé correctement.
