@@ -614,10 +614,10 @@ This competition has come to an end and resulted in the following podium:
 6. Participants in the lobby will `!roll`. The picks are then done in descending order of the `!roll` scores.
 7. Participants will play 8 maps, each of them picking twice in the same order.
 8. After each map, the players are awarded points depending on their lobby ranking on the map:
-   - 1st place - 4 points
-   - 2nd place - 2 points
-   - 3rd place - 1 points
-   - 4th place - 0 points
+   - 1st place: 4 points
+   - 2nd place: 2 points
+   - 3rd place: 1 points
+   - 4th place: 0 points
 9. Only the 2 players with the most points will advance to the next stage. In case of a point tie, the Tiebreaker will be played in 1v1 between the advancing players.
 10. If any participants experienced a disconnection in the middle of play from Bancho, the player from the match will be awarded no points for the pick. The players are then given 5 minutes after the disconnection to contact their referee via osu! or Discord before being counted a loss.
 

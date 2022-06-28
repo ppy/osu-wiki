@@ -29,7 +29,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - Staff members must not participate in the tournament themselves at any point, and players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
-  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users—players and staff alike—to make use of this form where necessary.
+  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary.
 
 ## Requesting Support
 
@@ -137,7 +137,7 @@ Please consult the following examples of approved badge designs:
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly uncommon, but should be accounted for.
 
-In exceptionally rare cases, a tournament may be granted the privilege of awarding badges to its top three finalists. A tournament that has received this distinction is recognised for attaining the highest level of production quality and organisation possible—this is given exclusively at the discretion of the osu! team. Hosts will be contacted directly if applicable.
+In exceptionally rare cases, a tournament may be granted the privilege of awarding badges to its top three finalists. A tournament that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. Hosts will be contacted directly if applicable.
 
 ### Requesting main-menu banner support
 
@@ -167,7 +167,7 @@ Please consult the following examples of acceptable banner designs:
 
 ![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
 
-Please do not submit a main menu banner with your original request—you will be asked and pointed to this section if you are authorised to make use of one.
+Please do not submit a main menu banner with your original request — you will be asked and pointed to this section if you are authorised to make use of one.
 
 ## Frequently Asked Questions
 
@@ -179,7 +179,7 @@ For all of these reasons (and more), we ask that profile badge prizes are only a
 
 ### What is considered "staff" as far as tournament management goes? {#what-is-considered-staff}
 
-If a user has access to information that could conceivably influence the outcome of the tournament/contest, they are considered staff. To clarify, we consider organisers, referees, mappool selectors, mappool playtesters, custom mappers, judges, or any other form of managerial position directly involved in the maintenance and operation of the tournament/contest to be a part of its staff. This list is not exhaustive—if you have any doubts, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+If a user has access to information that could conceivably influence the outcome of the tournament/contest, they are considered staff. To clarify, we consider organisers, referees, mappool selectors, mappool playtesters, custom mappers, judges, or any other form of managerial position directly involved in the maintenance and operation of the tournament/contest to be a part of its staff. This list is not exhaustive — if you have any doubts, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 Commentators, streamers, and graphic designers are designated as **helpers**, and may participate in tournaments/contests freely so long as they are not directly involved in any organisational aspect of the tournament/contest.
 

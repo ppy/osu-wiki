@@ -298,7 +298,7 @@ The first occurrence of an abbreviation, acronym, or initialism may be italicise
 
 Italics may also be used to provide emphasis or help with readability.
 
-Names of work or video games should be italicised. osu!—the game—is exempt from this.
+Names of work or video games should be italicised. osu! — the game — is exempt from this.
 
 As an example, when referring to songs in the format of `{artist} - {title}`, the whole part is a reference to the work and should therefore be italicised:
 
@@ -338,8 +338,7 @@ Headings must not exceed a heading level of 5 and must not be used to style or f
 
 ### Titles
 
-*See also: [Article naming](#article-naming)*
-
+*See also: [Article naming](#article-naming)*\
 *Caution: Titles are parsed as plain text; they must not be escaped.*
 
 The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Titles must not contain formatting, links, or images.

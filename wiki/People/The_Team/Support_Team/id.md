@@ -24,7 +24,7 @@ Halaman daftar [Support Team](https://osu.ppy.sh/groups/22).
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Tagalog |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedia, Spanyol |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Jerman |

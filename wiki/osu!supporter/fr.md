@@ -59,9 +59,9 @@ Une fois que le tag osu!supporter aura expiré, cette bannière restera mais ne 
 
 ### Un changement de pseudo gratuit
 
-*Remarque : Des changements de pseudo mineurs peuvent-être demandés directement à l'équipe de support gratuitement, voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#changements-de-nom).*
+*Remarque : Des changements de pseudo mineurs peuvent-être demandés directement à l'équipe de support gratuitement, voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#name-changes).*
 
-Obtenir osu!supporter donne la possibilité de changer de nom d'utilisateur gratuitement la première fois en respectant les [conditions habituelles](/wiki/Help_centre/Account#changements-de-nom).
+Obtenir osu!supporter donne la possibilité de changer de nom d'utilisateur gratuitement la première fois en respectant les [conditions habituelles](/wiki/Help_centre/Account#name-changes).
 
 ### osu!direct
 

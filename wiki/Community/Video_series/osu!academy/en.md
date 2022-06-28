@@ -39,7 +39,7 @@ The main series of osu!academy serves as a general introduction to the broad wor
 | 19 | [Reporting Misbehaving Players](https://www.youtube.com/watch?v=ZoBAZCl9wXY) | [ztrot](https://osu.ppy.sh/users/6347) explains how to report users, who break the community rules, in-game and on the website. |
 | 20 | [Video Encoding](https://www.youtube.com/watch?v=exyuI9lv_OI) | [ztrot](https://osu.ppy.sh/users/6347) explains how to change the bitrate of your beatmap's video file to meet the ranking criteria. |
 | 21 | [Basic Live Streaming Guide](https://www.youtube.com/watch?v=59Tm9LvYk3Q) | [ztrot](https://osu.ppy.sh/users/6347) presents how to use OBS to livestream osu! on Twitch. |
-| 22 | [Supporter and osu!direct](https://www.youtube.com/watch?v=ec0pLh4U8eY) | [ztrot](https://osu.ppy.sh/users/6347) presents the benefits of becoming an osu!supporter, including osu!direct—an overlay that allows downloading beatmaps in-game. |
+| 22 | [Supporter and osu!direct](https://www.youtube.com/watch?v=ec0pLh4U8eY) | [ztrot](https://osu.ppy.sh/users/6347) presents the benefits of becoming an osu!supporter, including osu!direct — an overlay that allows downloading beatmaps in-game. |
 | 23 | [Community Modding](https://www.youtube.com/watch?v=MxlB__wjt9A) | [ztrot](https://osu.ppy.sh/users/6347) and [Shiro](https://osu.ppy.sh/users/113005) explain the concept of community modding, a team-based modding effort. |
 | 24 | [Streaming Improvement (Gameplay)](https://www.youtube.com/watch?v=pq33jvMitRk) | [ztrot](https://osu.ppy.sh/users/6347) and [Kyonko Hizara](https://osu.ppy.sh/users/444868) present tips on how to improve your streaming ability in the osu! mode. |
 | 25 | *Video removed* | *N/A* |

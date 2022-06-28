@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 7094ac9d70205bc7bd12621dd83e3d1738962809
+outdated_translation: true
 ---
 
 # osu! wiki 維護者列表

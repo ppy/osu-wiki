@@ -1,3 +1,8 @@
+---
+outdated_since: 7094ac9d70205bc7bd12621dd83e3d1738962809
+outdated_translation: true
+---
+
 # Lista de administradores de la osu! wiki
 
 Los administradores regularmente utilizan el [localizador de problemas](https://github.com/ppy/osu-wiki/issues) y revisan las "pull request" de otros contribuidores. Contrario a otros contribuidores, ellos pueden editar las "pull request" y unirlas a la rama `master` del repositorio, haciendo los cambios públicos.

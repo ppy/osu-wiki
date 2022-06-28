@@ -7,8 +7,7 @@ no_native_review: true
 
 # Katu
 
-*Lihat juga: [Geki](/wiki/Gameplay/Judgement/Geki)*
-
+*Lihat juga: [Geki](/wiki/Gameplay/Judgement/Geki)*\
 *”Katu” yang dibahas pada artikel ini memiliki konteks yang berbeda dengan “Katu” yang ada pada mode permainan osu!taiko.*
 
 **Katu (激)**, *Katsu*, atau *Beat!*, merupakan sebuah indikator dalam [judgement](/wiki/Gameplay/Judgement) yang akan muncul setiap kali seorang pemain berhasil mengenai seluruh objek yang ada dalam suatu rangkaian combo dengan [akurasi](/wiki/Gameplay/Accuracy) yang baik namun tidak sempurna. Meskipun demikian, Katu tidak akan muncul apabila dalam suatu rangkaian combo terdapat 50 atau *miss* dari pemain.
