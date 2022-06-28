@@ -5,9 +5,8 @@ tags:
   - osu! team
   - staff
   - team
+  - team osu!
 no_native_review: true
-outdated_translation: true
-outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 ---
 
 # El Equipo
@@ -22,7 +21,7 @@ Las personas nombradas a continuación son el núcleo del **equipo de osu!**, y 
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Tutor de modeo y mapeo de escenas |
 | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | Organizador y administrador de la Copa Mundial |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderador y tutor de la comunidad |
-| ![][flag_GB] [ChillierPear](https://osu.ppy.sh/users/9501251) | Organizador y administrador de la Copa Mundial |
+| ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251) | Organizador y administrador de la Copa Mundial |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Encargado del proyecto y la comunidad, divulgador de artistas destacados |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Líder de diseño, supervisor de Creative Cloud interno |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Tutor de modeo y mapeo de escenas |
@@ -40,7 +39,7 @@ Las personas nombradas a continuación son el núcleo del **equipo de osu!**, y 
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Administrador general, asistente en torneos |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Especie en peligro |
 
-En adición de lo anterior, el [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team) está para ayudar.
+En adición de lo anterior, el [equipo de soporte de cuentas](Account_support_team) está para ayudar.
 
 ## Grupos de usuarios
 
@@ -72,7 +71,7 @@ Los siguientes son grupos de usuarios compuestos por miembros de la comunidad qu
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organizador y administrador de la Copa Mundial, líder de QAT, administrador comunitario |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Diseñador de skins épicas, contribuciones a la skin predeterminada y al conjunto de íconos predeterminados. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Tutor de modeo y mapeo de escenas |
-| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Desarrollador de osu!, creador de deslizadores mm |
+| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Desarrollador de osu!, creador de deslizadores mm |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Desarrollador de osu! para iPhone |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Desarrollador de osu!, organizador del gremio de mapeo |
 | ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Diseñador del foro |
