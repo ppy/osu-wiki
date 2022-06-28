@@ -106,7 +106,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Gestion des tournois |
 | ![][flag_MX] [Kai](https://osu.ppy.sh/users/4537) | BAT |
-| ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, créateur de osu!media |
+| ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, créateur d'osu!media |
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
 | ![][flag_MX] [Kenezz](https://osu.ppy.sh/users/167050) | BAT |
 | ![][flag_TH] [Kharl](https://osu.ppy.sh/users/452) | BAT |
@@ -244,7 +244,7 @@ La page [osu! Alumni group page](https://osu.ppy.sh/groups/16) donne la liste de
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Créateur de la osu!academy, GMT |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Créateur de l'osu!academy, GMT |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"

@@ -7,30 +7,30 @@ tags:
   - missing
   - 帮助
   - 问题
-outdated_translation: true
-outdated_since: 737ea7fc657bed12687ef10e79bb9ae8f444c465
 ---
 
 # 帮助中心
 
 需要帮助？我们可以帮忙！在左侧边栏中查看常见问题的一些解决方案。如果你的问题未列出，或者你还有问题，可以发送邮件至[support@ppy.sh](mailto:support@ppy.sh)。或者可以考虑在[帮助论坛](https://osu.ppy.sh/community/forums/5)发帖，在那里会有人帮助你。
 
-## 文章
+## 文章 {#sections}
 
 选择与您的问题最匹配的文章，以找到适合该问题的解决方案。
 
 | 小节 | 主要内容 |
 | :-- | :-- |
-| [帐号](/wiki/Help_centre/Account) | osu!support，账号限制，登入，名字更改，个人资料 |
+| [帐号](/wiki/Help_centre/Account) | osu!支持者标签，登入与找回，名字更改，个人资料 |
+| [账号限制](/wiki/Help_centre/Account_restrictions) | 限制相关：概述，申诉流程，常见原因和冷静期 |
 | [作图与编辑器](/wiki/Help_centre/Beatmapping) | 谱面维护，谱面所有权，谱面槽位 |
 | [客户端](/wiki/Help_centre/Client) | 漏洞和崩溃，游玩问题，网络连接，性能问题 |
 | [安装与注册](/wiki/Help_centre/Installation_and_registration) | 下载游戏，注册帐号 |
 | [商店](/wiki/Help_centre/Store) | 周边产品如 osu!go, osu!keyboard, osu!tablet |
+| [禁赛](/wiki/Help_centre/Tournament_bans) | 禁赛相关：概述，常见原因和冷静期 |
 | [网站](/wiki/Help_centre/Website) | 屏蔽用户，获得支持，网站外观 |
 
-## 让我们帮助你
+## 让我们帮助你 {#diagnostics}
 
-### 日志文件
+### 日志文件 {#log-files}
 
 **日志文件是游戏客户端在任何时间点执行操作的详细记录。 我们可以用它来帮助确定是什么导致了你的问题。**
 
@@ -45,7 +45,7 @@ outdated_since: 737ea7fc657bed12687ef10e79bb9ae8f444c465
 7. 在打开的文件夹中找到`Logs`目录。
 8. 选择所需的日志文件（支持代表会告诉你是哪个），并将其添加到你的支持请求或论坛帖子中。
 
-### 事件查看器
+### 事件查看器 {#event-viewer}
 
 **事件查看器是Windows自带的系统工具，它可以提供osu!未提供的崩溃日志。这些崩溃日志可以帮助确定是什么导致了你的问题。**
 
@@ -62,7 +62,7 @@ outdated_since: 737ea7fc657bed12687ef10e79bb9ae8f444c465
 7. 点击`详细信息`栏，通过点击展开`System`和`Event Data`。
 8. 复制其中的文本并将其粘贴至你的支持请求或论坛帖子中。
 
-### 帧时间视图
+### 帧时间视图 {#frame-time-graph}
 
 **帧时间视图是osu!的一个功能，可以帮助我们收集更多影响体验的性能题信息**
 

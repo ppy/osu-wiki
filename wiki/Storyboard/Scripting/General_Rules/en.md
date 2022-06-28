@@ -26,8 +26,8 @@
 
 **Editor coordinates:**
 
-- Screen; x: 0 - 640, y: 0 - 480
-- Playarea; x: 60 - 570, y: 55 - 440
+- Screen; x: 0–640, y: 0–480
+- Playarea; x: 60–570, y: 55–440
 
 ### Layers
 
@@ -88,7 +88,7 @@ States after last playtime, if the map had no breaks
 - Time in SB is not dependent upon timing of the beatmap itself (e.g., how many measures there are or beats per minute). Therefore, it is recommended that the beatmap be reasonably well-timed before storyboarding, as it will be harder to adjust these times later.
 - Time is not constrained to the length of the song; it is possible to have negative values for events before the song starts (an intro), and for values that extend beyond the last playable section or even the end of the MP3/OGG (an outro).
 - When loaded, the map will start from the earliest event specified or from time 0, whichever is earlier.
-  - In the former case, the Skip button will be displayed to the user. Clicking it or pressing the Spacebar will skip to time 0. The game reverts to normal pre-map skip behaviour (e.g., press skip again to go straight to the countdown - unlike EBA, restarting the map takes you all the way back to the start, not to time 0).
+  - In the former case, the Skip button will be displayed to the user. Clicking it or pressing the Spacebar will skip to time 0. The game reverts to normal pre-map skip behaviour (e.g., press skip again to go straight to the countdown — unlike EBA, restarting the map takes you all the way back to the start, not to time 0).
 - The game will transition to the score results screen as soon as the last event occurs, or the user clicks the Skip button or presses the spacebar.
   - This includes events that are on **BOTH** the Pass/Fail layers, even though only one will be displayed.
     - Example: If your Fail storyboard ends at time 20000 and your Pass storyboard ends at time 25000, the game will wait until time 25000 even if the player is in the Fail State (all objects will disappear). Therefore, it's best to ensure that both Pass and Fail ending variants take the same amount of time to complete.

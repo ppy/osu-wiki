@@ -16,7 +16,7 @@ Notes :
 
 - Pour avoir plusieurs combobursts, utilisez : `comboburst-{n}.png`.
   - L'une des images du jeu apparaîtra lorsqu'une étape du combo sera atteinte.
-- Pour la v2.2-, ce sont les combobursts de osu! et osu!catch.
+- Pour la v2.2-, ce sont les combobursts d'osu! et osu!catch.
 - Pour la v2.3+, ce sont les combobursts d'osu!
 - Ceci peut être désactivé dans les [options](/wiki/Client/Options).
 - Elle doit être orientée vers la droite.

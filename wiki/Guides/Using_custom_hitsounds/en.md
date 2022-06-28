@@ -61,7 +61,7 @@ In order to ensure that different-numbered hitsounds or hitsound groups play cor
 
 ![](img/using-multiple-hitsound-sets.png "Changing to a second custom hitsound group")
 
-When the sampleset of an inherited timing point is set to `S:C2` as in the image above, all default hitsounds and hitsound additions will be replaced by appropriately named custom hitsounds, such as `soft-hitclap2.wav` where present. These will continue to take effect until an inherited timing point with a different sampleset is encountered—in this image at `02:00:723`, when the sampleset switches back to `S:C1`.
+When the sampleset of an inherited timing point is set to `S:C2` as in the image above, all default hitsounds and hitsound additions will be replaced by appropriately named custom hitsounds, such as `soft-hitclap2.wav` where present. These will continue to take effect until an inherited timing point with a different sampleset is encountered — in this image at `02:00:723`, when the sampleset switches back to `S:C1`.
 
 ## External sources
 

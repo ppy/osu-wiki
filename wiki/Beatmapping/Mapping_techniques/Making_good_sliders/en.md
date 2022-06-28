@@ -81,11 +81,11 @@ Courtesy of mm201.
 The number of control points you want depends on the angle covered by your arc:
 
 - 0 degrees: 2 points.
-- 0 degrees - 20 degrees: 3 points.
-- 20 degrees - 170 degrees: 4 points.
-- 170 degrees - 200 degrees: 5 points.
-- 200 degrees - 300 degrees: 6 points.
-- 300 degrees - 350 degrees: 7 points.
+- 0–20 degrees: 3 points.
+- 20–170 degrees: 4 points.
+- 170–200 degrees: 5 points.
+- 200–300 degrees: 6 points.
+- 300–350 degrees: 7 points.
 
 None of this is really exact, just a general idea.
 Similar to waves, the further the control point is from the start/end in order, the further away from the curve it goes.

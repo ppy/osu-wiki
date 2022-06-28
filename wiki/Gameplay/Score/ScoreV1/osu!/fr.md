@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9808129dbb76e6901c616fbad561dccb292b60f3
+---
+
 # Système de notation d'osu!
 
 *Voir également : [Système de jugement d'osu!](/wiki/Gameplay/Judgement/osu!)*

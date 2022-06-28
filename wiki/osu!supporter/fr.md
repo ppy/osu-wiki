@@ -8,7 +8,7 @@ tags:
 
 # osu!supporter
 
-**osu!supporter** (ou le ***tag osu!supporter***) est un titre temporaire donné aux joueurs qui soutiennent osu! en faisant un don monétaire volontaire afin d'aider le jeu à prospérer. Les supporters reçoivent une poignée de bénéfices cosmétiques et techniques, la plupart d'entre eux sont actifs uniquement lorsque le titre est présent. Les fonctionnalités supplémentaires du osu!supporter ne donnent aucun avantage en matière de gameplay, de performance ou de score, et ne le feront jamais.
+**osu!supporter** (ou le ***tag osu!supporter***) est un titre temporaire donné aux joueurs qui soutiennent osu! en faisant un don monétaire volontaire afin d'aider le jeu à prospérer. Les supporters reçoivent une poignée de bénéfices cosmétiques et techniques, la plupart d'entre eux sont actifs uniquement lorsque le titre est présent. Les fonctionnalités supplémentaires de l'osu!supporter ne donnent aucun avantage en matière de gameplay, de performance ou de score, et ne le feront jamais.
 
 Le tag osu!supporter peut être obtenu depuis [la page de magasin osu!supporter](https://osu.ppy.sh/store/products/supporter-tag).
 
@@ -24,7 +24,7 @@ Le tag osu!supporter peut être obtenu depuis [la page de magasin osu!supporter]
 ![](img/usercard.png?2 "Carte utilisateur avec un badge osu!supporter")
 :::
 
-Les supporters obtiennent un badge orné de cœurs. Il peut être trouvé à côté du nom de l'utilisateur sur le site web. Le nombre de cœurs dépend de la durée du osu!supporter que l'utilisateur a acquis ou reçu au total. 
+Les supporters obtiennent un badge orné de cœurs. Il peut être trouvé à côté du nom de l'utilisateur sur le site web. Le nombre de cœurs dépend de la durée de l'osu!supporter que l'utilisateur a acquis ou reçu au total. 
 
 - Moins d'1 an : 1 cœur
 - De 1 à 5 ans : 2 cœurs
@@ -40,7 +40,7 @@ Les noms d'utilisateurs des supporters actifs apparaissent en jaune clair dans l
 
 ### Section de profil éditable
 
-Les supporters reçoivent une nouvelle section de profil intitulée `moi !`, souvent appelée page utilisateur. La page utilisateur sert en tant qu'espace personnel éditable, où le texte est formaté en utilisant le [BBCode](/wiki/BBCode). Cette fonctionnalité est permanente et reste éditable même après que le osu!supporter ait expiré.
+Les supporters reçoivent une nouvelle section de profil intitulée `moi !`, souvent appelée page utilisateur. La page utilisateur sert en tant qu'espace personnel éditable, où le texte est formaté en utilisant le [BBCode](/wiki/BBCode). Cette fonctionnalité est permanente et reste éditable même après que l'osu!supporter ait expiré.
 
 La section `moi !` est un bon endroit pour :
 
@@ -59,9 +59,9 @@ Une fois que le tag osu!supporter aura expiré, cette bannière restera mais ne 
 
 ### Un changement de pseudo gratuit
 
-*Remarque : Des changements de pseudo mineurs peuvent-être demandés directement à l'équipe de support gratuitement, voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#changements-de-nom).*
+*Remarque : Des changements de pseudo mineurs peuvent-être demandés directement à l'équipe de support gratuitement, voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#name-changes).*
 
-Obtenir osu!supporter donne la possibilité de changer de nom d'utilisateur gratuitement la première fois en respectant les [conditions habituelles](/wiki/Help_centre/Account#changements-de-nom).
+Obtenir osu!supporter donne la possibilité de changer de nom d'utilisateur gratuitement la première fois en respectant les [conditions habituelles](/wiki/Help_centre/Account#name-changes).
 
 ### osu!direct
 
@@ -85,7 +85,7 @@ osu! propose aux supporters des limites plus souples sur diverses fonctionnalit�
 
 | Valeur | Limite normale | Limite osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmaps en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) | `4 + min(beatmaps classées, 2)` | `8 + min(beatmaps classées, 4)` |
+| [Beatmaps en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) | `2 + min(beatmaps classées, 6)`, jusqu'à **8**[^pending-beatmaps-ref] | `8 + min(beatmaps classées, 12)`, jusqu'à **20**[^pending-beatmaps-ref] |
 | Beatmap favorites en ligne | 100 | 1000 |
 | Nombre d'amis | 250 | 500 |
 
@@ -122,7 +122,7 @@ Les supporters peuvent accéder au mode multijoueur à partir des versions en ac
 ### Durée restante
 
 ::: Infobox
-![](img/status.jpg?1 "Statistiques d'achat du osu!supporter")
+![](img/status.jpg?1 "Statistiques d'achat de l'osu!supporter")
 :::
 
 La durée restante d'osu!supporter, ainsi que le montant total des contributions, des achats de tags et des cadeaux, sont disponibles en haut de la [page de promotion d'osu!supporter](https://osu.ppy.sh/home/support).
@@ -130,7 +130,7 @@ La durée restante d'osu!supporter, ainsi que le montant total des contributions
 ### Obtenir osu!supporter
 
 ::: Infobox
-![](img/store-product.jpg?2 "Bannière du produit osu!supporter du osu!store")
+![](img/store-product.jpg?2 "Bannière du produit osu!supporter de l'osu!store")
 :::
 
 Pour obtenir osu!supporter, visitez la [page de la boutique osu!supporter](https://osu.ppy.sh/store/products/supporter-tag) et ajustez la durée de l'abonnement à l'aide du curseur, ou des boutons avec le nombre de mois en dessous. Tous les prix sont en dollars américains (USD) et ne comprennent pas les frais éventuels du système de paiement.
@@ -147,6 +147,10 @@ Une fois la transaction terminée, un nouvel événement apparaîtra dans la sec
 
 - `{nom_d'utilisateur} a choisi de soutenir osu! - merci pour votre générosité !` si c'est la première fois que l'utilisateur reçoit un osu!supporter.
 - `{nom_d'utilisateur} a de nouveau choisi de soutenir osu! - merci pour votre générosité !` si l'utilisateur a déjà été un osu!supporter auparavant.
-- `{nom_d'utilisateur} a reçu le osu!supporter en cadeau !` dans le cas où le tag a été offert.
+- `{nom_d'utilisateur} a reçu l'osu!supporter en cadeau !` dans le cas où le tag a été offert.
 
 En outre, le donateur et le bénéficiaire recevront tous deux des notifications par e-mail mentionnant l'achat.
+
+## Références
+
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)

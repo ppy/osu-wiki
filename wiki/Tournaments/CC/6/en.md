@@ -490,7 +490,7 @@ Wednesday, 24 April 2019:
   - If a player wants to reschedule their match with an opponent, they must talk to their opponent and provide proof before Friday, 23:59 UTC, before matches are due to start.
 - Warm-ups are allowed from the Round of 32 onwards and are optional should a player request one. (Note: the warm up should not be from the mappool the players are due to play and must have a drain time of 5 mins or less.)
 - After warm-ups (should there be any), both players will `!roll` to decide who bans/picks first. Loser of the roll bans first and winner of the roll picks first.
-- From the Round of 32 - Quarterfinals: each player is allowed one ban per match. From the Semifinals onwards players are allowed two bans (Tiebreaker is not bannable).
+- From the Round of 32 to Quarterfinals: each player is allowed one ban per match. From the Semifinals onwards players are allowed two bans (Tiebreaker is not bannable).
 - In case of a tie, no point is awarded to either player, and the map is considered used. If all maps are used, the mappool selection resets (excluding banned maps), and the match continues as normal.
 - If a player disconnects during the match in which the outcome would have been different. A rematch can be offered under the Referee’s discretion.
 - For FreeMod picks, players must select a choice of HD, HR, EZ, FL or a combination of these mods.
