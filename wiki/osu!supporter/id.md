@@ -110,7 +110,7 @@ Untuk informasi lebih lanjut, lihat [Skinning/Interface § Main menu](/wiki/Skin
 ![](img/beatmap-search.png "Laman pencarian beatmap pada situs web osu!, dengan opsi pencarian yang hanya tersedia bagi para supporter")
 :::
 
-Para supporter akan memperoleh akses ke berbagai opsi [pencarian beatmap](https://osu.ppy.sh/beatmapsets) tertentu sebagai berikut:
+Para supporter akan memperoleh akses ke berbagai opsi [pencarian beatmap](https://osu.ppy.sh/beatmapsets) lanjutan sebagai berikut:
 
 - Beatmap yang telah (atau belum) dimainkan
 - Beatmap dengan torehan [peringkat](/wiki/Gameplay/Grade) tertentu
