@@ -73,7 +73,7 @@ osu!direct merupakan fitur pencarian dan penguduhan beatmap kilat yang khusus te
 
 ### Papan peringkat tambahan
 
-Para supporter akan dapat mengakses berbagai [papan peringkat](/wiki/Beatmap#leaderboards) khusus pada masing-masing beatmap, baik di dalam permainan maupun melalui situs web osu!, sebagai berikut:
+Para supporter akan dapat mengakses berbagai [papan peringkat](/wiki/Beatmap#papan-peringkat) khusus pada masing-masing beatmap, baik di dalam permainan maupun melalui situs web osu!, sebagai berikut:
 
 - Papan peringkat global untuk kombinasi [mod permainan](/wiki/Game_modifier) tertentu yang dikehendaki
 - Papan peringkat negara yang mencakup negara pemilik supporter
@@ -85,7 +85,7 @@ Para supporter akan dapat menikmati berbagai fitur online yang osu! tawarkan sec
 
 | Fitur | Batas normal | Batas bagi pemilik osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmap Pending](/wiki/Beatmap/Category#work-in-progress-and-pending) | `2 + min(jumlah beatmap Ranked, 6)`, hingga **8**[^pending-beatmaps-ref] | `8 + min(jumlah beatmap Ranked, 12)`, hingga **20**[^pending-beatmaps-ref] |
+| [Beatmap Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) | `2 + min(jumlah beatmap Ranked, 6)`, hingga **8**[^pending-beatmaps-ref] | `8 + min(jumlah beatmap Ranked, 12)`, hingga **20**[^pending-beatmaps-ref] |
 | Beatmap favorit | 100 | 1000 |
 | Teman | 250 | 500 |
 
