@@ -17,11 +17,11 @@ Tag osu!supporter dapat diperoleh melalui [laman toko osu!supporter](https://osu
 ### Lencana hati
 
 ::: Infobox
-![](img/userpage.png?1 "Laman profil pemilik osu!supporter")
+![](img/userpage.png?1 "Laman profil milik pengguna dengan osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard.png?2 "Kartu pengguna pemilik osu!supporter")
+![](img/usercard.png?2 "Kartu pengguna milik pengguna dengan osu!supporter")
 :::
 
 Para supporter akan mendapatkan lencana khusus berbentuk hati di samping nama pengguna mereka, di mana jumlah hati yang muncul akan sebanding dengan lamanya mereka telah menjadi osu!supporter sebagai berikut<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
@@ -36,7 +36,7 @@ Para supporter akan mendapatkan lencana khusus berbentuk hati di samping nama pe
 ![](img/chat.png "Warna pengguna pemilik osu!supporter di dalam *chat*")
 :::
 
-Pada saat pemilik supporter mengobrol di *[chat](/wiki/Client/Interface/Chat_console)*, nama pengguna mereka akan terlihat berwarna kuning cerah di mata para pengguna lainnya.
+Pada saat seorang pengguna dengan osu!supporter mengobrol di *[chat](/wiki/Client/Interface/Chat_console)*, nama pengguna mereka akan terlihat berwarna kuning cerah di mata para pengguna lainnya.
 
 ### Kolom pengguna pribadi
 
@@ -83,7 +83,7 @@ Para supporter akan dapat mengakses berbagai [papan peringkat](/wiki/Beatmap#pap
 
 Para supporter akan dapat menikmati berbagai fitur online yang osu! tawarkan secara lebih bebas sebagai berikut:
 
-| Fitur | Batas normal | Batas bagi pemilik osu!supporter |
+| Fitur | Batas normal | Batas bagi pengguna dengan osu!supporter |
 | :-- | :-: | :-: |
 | [Beatmap Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) | `2 + min(jumlah beatmap Ranked, 6)`, hingga **8**[^pending-beatmaps-ref] | `8 + min(jumlah beatmap Ranked, 12)`, hingga **20**[^pending-beatmaps-ref] |
 | Beatmap favorit | 100 | 1000 |
