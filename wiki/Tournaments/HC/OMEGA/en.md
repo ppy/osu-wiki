@@ -34,8 +34,6 @@ The **Harumachi Cup Ω** (***HCΩ***) is a worldwide single-elimination osu! tou
 
 Harumachi Cup Ω is run by various community members.
 
-<!---TODO: Add FA after tourney completion-->
-
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![flag_GB] [Hubz](https://osu.ppy.sh/users/10379965), ![flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
@@ -46,6 +44,7 @@ Harumachi Cup Ω is run by various community members.
 | Outreach/Consultant | ![flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
 | Referee | ![flag_US] [Blushing](https://osu.ppy.sh/users/5927823), ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![flag_ZA] [KaedeSnowyyy](https://osu.ppy.sh/users/18323026), ![flag_EE] [megahello](https://osu.ppy.sh/users/11155994), ![flag_VN] [My Angel Chino](https://osu.ppy.sh/users/20547597)
 | Statistician | ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |
+| Wiki editor | ![flag_US] [Blushing](https://osu.ppy.sh/users/5927823) |
 
 ## Links
 
@@ -84,29 +83,31 @@ A list of all the participants before seeding can be found [here](https://docs.g
 3. This tournament is an **osu!** tournament.
 4. Match scheduling is decided by the organisers. Players may feel free to ask for a reschedule if the given schedule conflicts with the player. If a reschedule is approved, it may not be streamed or recorded due to staff availability.
 5. If there is no referee available, the match may be postponed.
-6. If both players tie on a map, the map will be replayed again, if the players tie once again, the map will be nullified, and th eplayer who picked the map will be able to pick a new one: in the case that there is no map other than the one already played, there will be a brief break and the map will be replayed, once more.
+6. If both players tie on a map, the map will be replayed again, if the players tie once again, the map will be nullified, and the player who picked the map will be able to pick a new one: in the case that there is no map other than the one already played, there will be a brief break and the map will be replayed, once more.
 7. If a player disconnects from the game, the opposite player will get a point, this is nullified if a player disconnects within **30 seconds** of the map beginning, in which the map will be restarted. Any deliberate abuse of this rule will be penalised and is up to the tournament's staff.
-8. Players have **10 minutes** to show up to their scheduled match. If the opponent failed to show up, the player who showed up automatically advances forward. If both players failed to show up, the player with the higher seed will advance. Referee's will ping the two players 15 minutes before their scheduled match time through osu! private message and on the discord.
-9. The tournament staff reserve the right to disqualify any player who exhibits harmful or unbecoming behavior.
-10. Any other rule change(s) or unexpected occurrences will be announced in the discord. Please pay attention.
+8. Players have **10 minutes** to show up to their scheduled match. A referee will ping the two players 15 minutes before their scheduled match time through osu! private message and through discord.
+9. If the opponent fails to show up, the player who does show up automatically advances.
+   - If both players fail to show up, the player with the higher seed will advance.
+10. The tournament staff reserve the right to disqualify any player who exhibits harmful or unbecoming behaviour.
+11. Any other rule change(s) or unexpected occurrences will be announced in the discord. Please pay attention.
 
 ### Registration
 
 This tournament is **strictly** for those between the ranks of **999 - Infinity** (after BWS is calculated). If the players meet this primary condition, they will also need to:
 
 1. Sign-up through the [website](https://harumachi.chromb.uk/home)
-2. **Must** be in the [discord](https://discord.com/invite/eHBQX8pc5v)
+2. All players **must** be in the [discord](https://discord.com/invite/eHBQX8pc5v)
 
 ### Tournament staging
 
-- There are 5 total stages to this tournament: Qualifers, Group heats, Quarterfinals, Semifinals, and the Grand Finals.
+- There are 5 total stages to this tournament: Qualifiers, Group heats, Quarterfinals, Semifinals, and the Grand Final.
 
 #### Qualifiers
 
 - This stage consists of multiple lobbies over the week and will contain up to 15 players per lobby.
 - Seeding will take place after the final lobby of the Qualifiers stage is complete.
 - **The top 64-seeded players will qualify**.
-- Players are seeded by their **total** score across all five qualifer maps.
+- Players are seeded by their **total** score across all five qualifier maps.
 - The mappool will be played through twice, but only the **highest score** is recorded for seeding purposes
 - No warmups for the qualifiers stage.
 
@@ -134,7 +135,7 @@ This tournament is **strictly** for those between the ranks of **999 - Infinity*
 - Group stage: No best of. Play with the intent to get the highest score.
 - 1v1 bracket:
   - Round of 16 and Quarterfinals: Best of 7.
-  - Semi Finals: Best of 9.
+  - Semifinals: Best of 9.
   - Grand Finals: Best of 11.
 
 ### Scheduling
@@ -142,18 +143,17 @@ This tournament is **strictly** for those between the ranks of **999 - Infinity*
 1. The schedule for the tournament is listed under [tournament scheduling](#tournament-schedule), please use the time in-between to practice the mappool(s).
 2. Matches are allowed to overlap if referees are available.
 3. For 1v1 Bracket:
-   - If both players can come up with a better time than what we the organisers has scheduled before, please inform the organisers as soon as possible so they can make adjustments as needed.
-4. Rescheduling is allowed but please give ample time to for tournament staff to figure out the logistics of the change as just because you told tournament staff, does **not** mean it is accepted.
+   - If both players can come up with a better time than what is scheduled, please inform the organisers as soon as possible so they can make adjustments.
 
 ### Mappools
 
-1. For more specifics for what maps were played see: [Mappools](#mappools)
+1. For more specifics on what maps were played see: [Mappools](#mappools)
 2. There will be a variety of *Harumachi Clover* maps to choose from in each stage of the tournament.
    - Note: 1v1 bracket stage **does not** allow bans. See: [Number 4](#tournament-staging)
 3. Each stage will have the number of maps and mods as seen below:
    - Qualifiers/Groups: 1 NM, 1 HD, 1 HR, 1 DT, 1 FM
-   - RO16/Quarterfinal: 2 NM, 1 HD, 1 HR, 1 DT, 1 FM, 1 TB
-   - Semifinal: 2 NM, 1 HD, 1 HR, 2 DT, 2 FM, 1 TB
+   - RO16/Quarterfinals: 2 NM, 1 HD, 1 HR, 1 DT, 1 FM, 1 TB
+   - Semifinals: 2 NM, 1 HD, 1 HR, 2 DT, 2 FM, 1 TB
    - Grand Finals: 2 NM, 2 HD, 2 HR, 2 DT, 2 FM, 1 TB
 
 ### Seeding specifics
@@ -166,8 +166,8 @@ This tournament is **strictly** for those between the ranks of **999 - Infinity*
 
 ### Lobby specifics
 
-1. A private match will be created for the matches. The players will be invited for the asscociated match around 15 minutes before the match time. Make sure to have PMs enabled to everyone not just on your friends list as the invite does **not** bypass this setting. If you are unable to make it to the match due to this issue, your position in the tournament is **not** guaranteed.
-2. During the 1v1 Bracket, each player will `!roll`, the winner of the roll **picks who will pick the first map**. Tournament staff would like to preface, if you win the `!roll`, this does **not** mean you pick the first map, this means you pick whether you pick the first map or your opponent does. Choose wisely!
+1. A private match will be created for the matches. The players will be invited to the asscociated match around 15 minutes before the match time. Make sure to have PMs enabled for everyone not just on your friend's list as the invite does **not** bypass this setting. If you are unable to make it to the match due to this issue, your position in the tournament is **not** guaranteed.
+2. During the 1v1 Bracket, each player will `!roll`, the winner of the roll **picks who will pick the first map**. Tournament staff would like to preface, that if you win the `!roll`, this does **not** mean you pick the first map, this means you pick whether you pick the first map or your opponent does. Choose wisely!
 3. For the Qualifiers and Group Heats stage, **the mappool will be played through twice**.
 4. Players will be allowed to ask for a brief break at the end of the first run-through of the mappool.
 5. There are **no** bans.
