@@ -103,9 +103,9 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| China ![][flag_CN] | ![][flag_US] United States | [Jul 3 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220703T030000&p1=1440&p2=33&p3=263) | [^losers-bracket] |
-| South Korea ![][flag_KR] | ![][flag_CN] China | [Jul 3 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220703T100000&p1=1440&p2=235&p3=33) | [^potential-match] |
-| South Korea ![][flag_KR] | ![][flag_US] United States | [Jul 3 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220703T130000&p1=1440&p2=235&p3=263) | [^potential-match] |
+| China ![][flag_CN] | ![][flag_US] United States | [Jul 3 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220703T120000&p1=1440&p2=33&p3=263) | [^losers-bracket] |
+| South Korea ![][flag_KR] | ![][flag_CN] China | [Jul 3 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220703T133000&p1=1440&p2=235&p3=33) | [^potential-match] |
+| South Korea ![][flag_KR] | ![][flag_US] United States | [Jul 3 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220703T133000&p1=1440&p2=235&p3=263) | [^potential-match] |
 
 ## Mappools
 
@@ -299,6 +299,8 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1VWBCL3vYoMv2IyvCrzEBFHprikHDhSv7YfQiotE0TyE?rm=minimal).
+
 Saturday, 25 June 2022:
 
 | Team A |  |  | Team B | Match link |
@@ -315,7 +317,7 @@ Sunday, 26 June 2022:
 
 ### Semifinals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1hT_pDocqxzhq3yiKGylWTeNKvDiBig4Zb_J99Z84e7Q/edit?rm=minimal).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1hT_pDocqxzhq3yiKGylWTeNKvDiBig4Zb_J99Z84e7Q?rm=minimal).
 
 Saturday, 18 June 2022:
 
@@ -337,7 +339,7 @@ Sunday, 19 June 2022:
 
 ### Quarterfinals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/18lk9qlRMAdu3I0o2eRNTGmwkE7hLkDKQ_49EcwUEwaE/view?rm=minimal).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/18lk9qlRMAdu3I0o2eRNTGmwkE7hLkDKQ_49EcwUEwaE?rm=minimal).
 
 Saturday, 11 June 2022:
 
@@ -367,7 +369,7 @@ Sunday, 12 June 2022:
 
 ### Round of 16
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1bH8pqehvCR6XrpHaCK9Bg40XimzhLVjvmdHi7Il3TbQ/view?rm=minimal).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1bH8pqehvCR6XrpHaCK9Bg40XimzhLVjvmdHi7Il3TbQ?rm=minimal).
 
 Saturday, 4 June 2022:
 
@@ -397,7 +399,7 @@ Sunday, 5 June 2022:
 
 ### Round of 32
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1TXBAh_aZ7I-gVQ7nMNMl2KXOjr7sZGK5nS97dg1xf3Y/view?rm=minimal).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1TXBAh_aZ7I-gVQ7nMNMl2KXOjr7sZGK5nS97dg1xf3Y?rm=minimal).
 
 Saturday, 28 May 2022:
 
@@ -427,7 +429,7 @@ Sunday, 29 May 2022:
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8/view?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/10rAEhiJH9smCfqYEfFVvk3pDm6VLR3tYhJNOB01LNJo/view?rm=minimal).
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/10rAEhiJH9smCfqYEfFVvk3pDm6VLR3tYhJNOB01LNJo?rm=minimal).
 
 | Seed | Country | MAX% sum |
 | :-: | :-- | :-- |
