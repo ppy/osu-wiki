@@ -49,7 +49,7 @@ Auf der Benutzerprofilseite wird ein Button `Melden` erscheinen, wenn du auf die
 
 Dieser Weg ist genauso effektiv beim Melden wie die Profilseite zu nutzen. Die Meldungen gehen an denselben Endpunkt.
 
-In den Beatmapseiten kannst du einen Spieler durch das Klicken des Button `Melden` auf der rechten Seite des Scores melden.
+In den Beatmapseiten kannst du einen Spieler durch das Klicken des Buttons `Melden` auf der rechten Seite des Scores melden.
 
 ### Chat im Spiel
 
