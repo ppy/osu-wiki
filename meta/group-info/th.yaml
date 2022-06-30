@@ -1,6 +1,3 @@
-outdated_since: dca16aabefecc2b5ab512b49881308b8ac0077b8
-outdated_translation: true # missing languages.be and languages.uk
-
 separator: ", "
 alumni:
   roles:
@@ -32,39 +29,3 @@ nat:
     structural: โครงสร้าง
 languages:
   partial: <language> บ้าง
-  ar: อาหรับ
-  bg: บัลแกเรีย
-  bn: เบงกาลี
-  ca: คาตาลัน
-  da: เดนมาร์ก
-  de: เยอรมัน
-  el: กรีก
-  es: สเปน
-  et: เอสโตเนีย
-  fi: ฟินแลนด์
-  fil: ฟิลิปปินส์
-  fr: ฝรั่งเศส
-  gl: กาลิเซีย
-  hr: โครเอเชีย
-  hu: ฮังการี
-  id: อินโดนีเซีย
-  it: อิตาลี
-  ja: ญี่ปุ่น
-  ko: เกาหลี
-  lt: ลิทัวเนีย
-  ms: มาเลย์
-  nl: ดัตช์
-  no: นอร์เวย์
-  pl: โปแลนด์
-  pt: โปรตุเกส
-  ro: โรมาเนีย
-  ru: รัสเซีย
-  sr: เซอร์เบีย
-  sv: สวีเดน
-  te: เตลูกู
-  th: ไทย
-  tr: ตุรกี
-  ur: อูรดู
-  vi: เวียดนาม
-  yue: กวางตุ้ง
-  zh: จีน

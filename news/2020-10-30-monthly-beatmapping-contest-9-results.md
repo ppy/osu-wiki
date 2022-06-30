@@ -16,13 +16,13 @@ A team of experienced mappers narrowed down **29** entries down to the top **7**
 
 | Rank | Beatmap | Judging | Musical representation (70) | Creativity (70) | Gameplay (70) | Theme (140) | Total |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [PUP - See You At Your Funeral](https://osu.ppy.sh/beatmapsets/1289138#osu/2676185) by [xbopost](https://osu.ppy.sh/users/6842421) | [see details](https://mappersguild.com/contestresults?submission=5f7b7449efce810a0c00e709) | 49 | 50 | 43 | 102 | **244** |
-| \#2 | [PUP - Kids](https://osu.ppy.sh/beatmapsets/1289102#osu/2676108) by [UndeadCapulet](https://osu.ppy.sh/users/2523533) | [see details](https://mappersguild.com/contestresults?submission=5f7b744aefce810a0c00e71d) | 37 | 35 | 44 | 88 | **204** |
-| \#3 | [PUP - Bare Hands](https://osu.ppy.sh/beatmapsets/1289057#osu/2676009) by [Acylica](https://osu.ppy.sh/users/1943309) | [see details](https://mappersguild.com/contestresults?submission=5f7b7449efce810a0c00e70f) | 41 | 45 | 41 | 66 | **193** |
-| \#4 | [PUP - Kids](https://osu.ppy.sh/beatmapsets/1289032#osu/2675963) by [Arkisol](https://osu.ppy.sh/users/9331411) | [see details](https://mappersguild.com/contestresults?submission=5f7b744aefce810a0c00e724) | 45 | 44 | 42 | 60 | **191** |
-| \#5 | [PUP - Bare Hands](https://osu.ppy.sh/beatmapsets/1289476#osu/2676807) by [schoolboy](https://osu.ppy.sh/users/8722791) | [see details](https://mappersguild.com/contestresults?submission=5f7b744aefce810a0c00e722) | 45 | 40 | 44 | 62 | **191** |
-| \#6 | [PUP - Bare Hands](https://osu.ppy.sh/beatmapsets/1289230#osu/2676351) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contestresults?submission=5f7b7448efce810a0c00e6ed) | 41 | 35 | 42 | 72 | **190** |
-| \#7 | [PUP - Bare Hands](https://osu.ppy.sh/beatmapsets/1289060#osu/2676013) by [Niva](https://osu.ppy.sh/users/197805) | [see details](https://mappersguild.com/contestresults?submission=5f7b7449efce810a0c00e70d) | 40 | 37 | 38 | 60 | **175** |
+| \#1 | [PUP - See You At Your Funeral](https://osu.ppy.sh/beatmapsets/1289138#osu/2676185) by [xbopost](https://osu.ppy.sh/users/6842421) | [see details](https://mappersguild.com/contests/results?submission=5f7b7449efce810a0c00e709) | 49 | 50 | 43 | 102 | **244** |
+| \#2 | [PUP - Kids](https://osu.ppy.sh/beatmapsets/1289102#osu/2676108) by [UndeadCapulet](https://osu.ppy.sh/users/2523533) | [see details](https://mappersguild.com/contests/results?submission=5f7b744aefce810a0c00e71d) | 37 | 35 | 44 | 88 | **204** |
+| \#3 | [PUP - Bare Hands](https://osu.ppy.sh/beatmapsets/1289057#osu/2676009) by [Acylica](https://osu.ppy.sh/users/1943309) | [see details](https://mappersguild.com/contests/results?submission=5f7b7449efce810a0c00e70f) | 41 | 45 | 41 | 66 | **193** |
+| \#4 | [PUP - Kids](https://osu.ppy.sh/beatmapsets/1289032#osu/2675963) by [Arkisol](https://osu.ppy.sh/users/9331411) | [see details](https://mappersguild.com/contests/results?submission=5f7b744aefce810a0c00e724) | 45 | 44 | 42 | 60 | **191** |
+| \#5 | [PUP - Bare Hands](https://osu.ppy.sh/beatmapsets/1289476#osu/2676807) by [schoolboy](https://osu.ppy.sh/users/8722791) | [see details](https://mappersguild.com/contests/results?submission=5f7b744aefce810a0c00e722) | 45 | 40 | 44 | 62 | **191** |
+| \#6 | [PUP - Bare Hands](https://osu.ppy.sh/beatmapsets/1289230#osu/2676351) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contests/results?submission=5f7b7448efce810a0c00e6ed) | 41 | 35 | 42 | 72 | **190** |
+| \#7 | [PUP - Bare Hands](https://osu.ppy.sh/beatmapsets/1289060#osu/2676013) by [Niva](https://osu.ppy.sh/users/197805) | [see details](https://mappersguild.com/contests/results?submission=5f7b7449efce810a0c00e70d) | 40 | 37 | 38 | 60 | **175** |
 
 To avoid what was essentially a 5-way tie for 2nd place, "theme" scores from all judges are doubled and final scoring is based on raw totals. The category was initially scored out of 10. Modifying this category was deemed most appropriate because it is the focus of the contest.
 

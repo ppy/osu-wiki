@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated_since: 1834ccd496bf810403e12761b11dbf6ed360f82e
+outdated_translation: true
 ---
 
 <!-- Do not add any empty lines inside this div. -->
