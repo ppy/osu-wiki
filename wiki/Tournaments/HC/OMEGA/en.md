@@ -48,14 +48,14 @@ Harumachi Cup Ω is run by various community members.
 
 ## Links
 
-- [Discord](https://discord.com/invite/eHBQX8pc5v)
+- [Discord server](https://discord.com/invite/eHBQX8pc5v)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1587551?n=1)
-- [Livestream link](https://twitch.tv/chr0mb)
+- [Livestream channel](https://twitch.tv/chr0mb)
 - [Website](https://harumachi.chromb.uk/)
 
 ## Participants
 
-A list of all the participants before seeding can be found [here](https://docs.google.com/spreadsheets/d/1kvtbMT6g3_FaHT5qM0E72tt31YeGmn-BepkmOohXY-U/edit#gid=759770838)!
+A list of all participants before seeding can be found [here](https://docs.google.com/spreadsheets/d/1kvtbMT6g3_FaHT5qM0E72tt31YeGmn-BepkmOohXY-U/edit#gid=759770838).
 
 ## Mappools
 
@@ -78,102 +78,104 @@ A list of all the participants before seeding can be found [here](https://docs.g
 
 ### General
 
-1. This tournament is broken up into 3 divisions of player versus player (this is discussed more in the [tournament staging](#tournament-staging) section), with a single-elimination bracket.
+1. This tournament is broken up into 3 divisions of player versus player (see the [Tournament staging](#tournament-staging) section below), with a single-elimination bracket.
 2. The scoring system used will be **ScoreV2**.
 3. This tournament is an **osu!** tournament.
-4. Match scheduling is decided by the organisers. Players may feel free to ask for a reschedule if the given schedule conflicts with the player. If a reschedule is approved, it may not be streamed or recorded due to staff availability.
+4. Match scheduling is decided by the organisers. Players may feel free to ask for a reschedule if the given schedule conflicts with the player. If a reschedule is approved, it might not be streamed or recorded due to staff availability.
 5. If there is no referee available, the match may be postponed.
-6. If both players tie on a map, the map will be replayed again, if the players tie once again, the map will be nullified, and the player who picked the map will be able to pick a new one: in the case that there is no map other than the one already played, there will be a brief break and the map will be replayed, once more.
-7. If a player disconnects from the game, the opposite player will get a point, this is nullified if a player disconnects within **30 seconds** of the map beginning, in which the map will be restarted. Any deliberate abuse of this rule will be penalised and is up to the tournament's staff.
-8. Players have **10 minutes** to show up to their scheduled match. A referee will ping the two players 15 minutes before their scheduled match time through osu! private message and through discord.
+6. If both players tie on a map, the map will be replayed again; if the players tie once again, the map will be nullified, and the player who picked the map will be able to pick a new one. In the case there is no other map than the one already played, there will be a brief break and the map will be replayed once more.
+7. If a player disconnects from the game, the opposite player will get a point. This is nullified if a player disconnects within **30 seconds** after beginning the map, in which case the map will be restarted. Any deliberate abuse of this rule will be penalised at the tournament staff's discretion.
+8. Players have **10 minutes** to show up to their scheduled match. A referee will ping the two players 15 minutes before their scheduled match time via osu! private message and Discord.
 9. If the opponent fails to show up, the player who does show up automatically advances.
    - If both players fail to show up, the player with the higher seed will advance.
-10. The tournament staff reserve the right to disqualify any player who exhibits harmful or unbecoming behaviour.
-11. Any other rule change(s) or unexpected occurrences will be announced in the discord. Please pay attention.
+10. The tournament staff reserves the right to disqualify any player who exhibits harmful or unbecoming behaviour.
+11. Any other rule changes or unexpected occurrences will be announced in the Discord server. Please pay attention.
 
 ### Registration
 
-This tournament is **strictly** for those between the ranks of **999 - Infinity** (after BWS is calculated). If the players meet this primary condition, they will also need to:
+This tournament is **strictly** for those between the ranks of **999 and infinity** exclusive (after BWS calculation). If the players meet this primary condition, they will also need to:
 
-1. Sign-up through the [website](https://harumachi.chromb.uk/home)
-2. All players **must** be in the [discord](https://discord.com/invite/eHBQX8pc5v)
+1. Sign up through the [website](https://harumachi.chromb.uk/home)
+2. All players **must** be in the [Discord server](https://discord.com/invite/eHBQX8pc5v)
 
 ### Tournament staging
 
-- There are 5 total stages to this tournament: Qualifiers, Group heats, Quarterfinals, Semifinals, and the Grand Final.
+There are 3 divisions in this tournament: Qualifiers, Group heats, and a single-elimination bracket. The bracket includes the Quarterfinals, Semifinals, and Grand Finals, totalling 5 tournament stages.
 
 #### Qualifiers
 
 - This stage consists of multiple lobbies over the week and will contain up to 15 players per lobby.
-- Seeding will take place after the final lobby of the Qualifiers stage is complete.
-- **The top 64-seeded players will qualify**.
+- Seeding will take place after the final lobby of the Qualifiers is complete.
+- **Players who seeded in the top 64 will qualify.**
 - Players are seeded by their **total** score across all five qualifier maps.
-- The mappool will be played through twice, but only the **highest score** is recorded for seeding purposes
-- No warmups for the qualifiers stage.
+- The mappool will be played through twice, but only the **highest score** is recorded for seeding purposes.
+- There are no warmups for the Qualifiers.
 
 #### Group heats
 
-- Similar format as qualifiers.
+- Similar format as Qualifiers.
 - Qualified players are seeded into one of eight groups.
-- Multiple lobbies will be available due to timezone conflicts. **Please let tournament staff know if there is a conflict.**
+- Multiple lobbies will be available due to time zone conflicts. **Please let tournament staff know if there is a conflict.**
 - The mappool will consist of 5 maps.
-- The mappool will be played through twice, with the player's **highest score** being recorded.
-- The **top 2 players from each group advance to the 1v1 bracket**.
-- No warmups for the Group Heats.
+- The mappool will be played through twice, with the player's **highest score** being recorded for seeding.
+- **The top 2 players from each group will advance to the 1v1 bracket.**
+- There are no warmups for the Group heats.
 
 #### Bracket
 
 - Classic 1v1 format.
-- Rounds are seeded based on positions from the group stage.
+- Rounds are seeded based on positions from the Group heats.
 - No bans.
-- Roll to pick.
-- Winner of each round proceeds to the next round.
+- `!roll` to pick.
+- The winner of each round proceeds to the next round.
 
 #### Best-of format
 
-- Qualifier stage: No best of. Play with the intent to get the highest score.
-- Group stage: No best of. Play with the intent to get the highest score.
-- 1v1 bracket:
-  - Round of 16 and Quarterfinals: Best of 7.
-  - Semifinals: Best of 9.
-  - Grand Finals: Best of 11.
+| Stage | Format |
+| :-- | :-- |
+| Qualifiers / Group heats | No best-of format. Play with the intent to get the highest score. |
+| Round of 16 / Quarterfinals | Best-of-7 |
+| Semifinals | Best-of-9 |
+| Grand Finals | Best-of-11 |
 
 ### Scheduling
 
-1. The schedule for the tournament is listed under [tournament scheduling](#tournament-schedule), please use the time in-between to practice the mappool(s).
+1. The schedule for the tournament is listed under the [Tournament schedule](#tournament-schedule) section. Please use the time in between to practise the mappools.
 2. Matches are allowed to overlap if referees are available.
-3. For 1v1 Bracket:
+3. For the 1v1 bracket:
    - If both players can come up with a better time than what is scheduled, please inform the organisers as soon as possible so they can make adjustments.
 
 ### Mappools
 
-1. For more specifics on what maps were played see: [Mappools](#mappools)
+1. See the [Mappools](#mappools) section for more specifics on what maps will be played.
 2. There will be a variety of *Harumachi Clover* maps to choose from in each stage of the tournament.
-   - Note: 1v1 bracket stage **does not** allow bans. See: [Number 4](#tournament-staging)
+   - Note that bans **are not** allowed in the [1v1 bracket](#bracket).
 3. Each stage will have the number of maps and mods as seen below:
-   - Qualifiers/Groups: 1 NM, 1 HD, 1 HR, 1 DT, 1 FM
-   - RO16/Quarterfinals: 2 NM, 1 HD, 1 HR, 1 DT, 1 FM, 1 TB
-   - Semifinals: 2 NM, 1 HD, 1 HR, 2 DT, 2 FM, 1 TB
-   - Grand Finals: 2 NM, 2 HD, 2 HR, 2 DT, 2 FM, 1 TB
+
+| Stage | Map counts |
+| :-- | :-- |
+| Qualifiers / Groups | 1 NM, 1 HD, 1 HR, 1 DT, 1 FM |
+| Round of 16 / Quarterfinals | 2 NM, 1 HD, 1 HR, 1 DT, 1 FM, 1 TB |
+| Semifinals | 2 NM, 1 HD, 1 HR, 2 DT, 2 FM, 1 TB |
+| Grand Finals | 2 NM, 2 HD, 2 HR, 2 DT, 2 FM, 1 TB |
 
 ### Seeding specifics
 
-1. Seeding will take place during the Qualifiers and the Group Heat stages.
-2. During the Qualifiers Stage there will be multiple lobbies open for sign-ups. Please make sure to sign up for a time that best fits your schedule.
-3. The Qualifiers Stage is used to help get rid of those who don't show up and to get the participation count to the nice number of 64.
-4. There will be no warmups for the Qualifiers and Group Heats stages, remember this is a *Harumachi Clover* tournament, the maps are only 40 seconds at most.
-5. Seeding will be gathered by taking the highest score recorded and used in comparison to the scores of the other players.
+1. Seeding will take place during the Qualifiers and the Group heats.
+2. During the Qualifiers there will be multiple lobbies open for sign-ups. Please make sure to sign up for a time that best fits your schedule.
+3. The Qualifiers are used to help eliminate people who do not show up and to get the participation count to the nice number of 64.
+4. There will be no warmups for the Qualifiers and Group heats. Remember that since this is a *Harumachi Clover* tournament, the maps are only 40 seconds at most.
+5. Seeding will be calculated by taking the highest score recorded and comparing them of the other players.
 
 ### Lobby specifics
 
-1. A private match will be created for the matches. The players will be invited to the asscociated match around 15 minutes before the match time. Make sure to have PMs enabled for everyone not just on your friend's list as the invite does **not** bypass this setting. If you are unable to make it to the match due to this issue, your position in the tournament is **not** guaranteed.
-2. During the 1v1 Bracket, each player will `!roll`, the winner of the roll **picks who will pick the first map**. Tournament staff would like to preface, that if you win the `!roll`, this does **not** mean you pick the first map, this means you pick whether you pick the first map or your opponent does. Choose wisely!
-3. For the Qualifiers and Group Heats stage, **the mappool will be played through twice**.
+1. A private match will be created for the matches. The players will be invited to the associated match around 15 minutes before the match time. Make sure to have PMs enabled for everyone, not just for those on your friends list, as the invite does **not** bypass this setting. If you are unable to make it to the match due to this issue, your position in the tournament is **not** guaranteed.
+2. During the 1v1 bracket, each player will `!roll`, and the winner of the roll **picks who will pick the first map**. To reiterate, if you win the `!roll`, this does **not** mean you pick the first map, this means you pick whether you pick the first map or your opponent does. Choose wisely!
+3. For the Qualifiers and Group heats, **the mappool will be played through twice**.
 4. Players will be allowed to ask for a brief break at the end of the first run-through of the mappool.
 5. There are **no** bans.
 6. There are **no** warmups. Be prepared.
-7. 1v1 Bracket only: In case of a tie, the tiebreaker will be played.
-   - Otherwise, see: [Number 6](#ruleset).
+7. 1v1 bracket only: in case of a tie, the tiebreaker will be played. See [rule 6 of the general rules](#general) for more details.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
