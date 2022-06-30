@@ -64,15 +64,15 @@ A list of all participants before seeding can be found [here](https://docs.googl
 **[Download the mappack here! (14MB)](https://drive.google.com/file/d/1nPtasOkuwmdRPwL9kIcoTiX28MLygtXW/view)**
 
 - NoMod
-  - [Hanasaki Yui(CV：Ｍ・Ａ・Ｏ) - Harumachi Clover (ezek) [Fiery's Extra]](https://osu.ppy.sh/beatmapsets/652412#osu/1396152)
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (ezek) [Fiery's Extra]](https://osu.ppy.sh/beatmapsets/652412#osu/1396152)
 - Hidden
-  - [Hanasaki Yui(CV：Ｍ・Ａ・Ｏ) - Harumachi Clover (Uber) [pishi's Extra]](https://osu.ppy.sh/beatmapsets/594207#osu/1257217)
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Uber) [pishi's Extra]](https://osu.ppy.sh/beatmapsets/594207#osu/1257217)
 - HardRock
-  - [Hanasaki Yui(CV：Ｍ・Ａ・Ｏ) - Harumachi Clover (Naotoshi) [ktgster's Cloverdose]](https://osu.ppy.sh/beatmapsets/591987#osu/1253252)
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Naotoshi) [ktgster's Cloverdose]](https://osu.ppy.sh/beatmapsets/591987#osu/1253252)
 - DoubleTime
-  - [Hanasaki Yui(CV：Ｍ・Ａ・Ｏ) - Harumachi Clover (Hanasaka Yui) [Insane]](https://osu.ppy.sh/beatmapsets/933554#osu/1948943)
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Hanasaka Yui) [Insane]](https://osu.ppy.sh/beatmapsets/933554#osu/1948943)
 - FreeMod
-  - [Hanasaki Yui(CV：Ｍ・Ａ・Ｏ) - Harumachi Clover (Reillia) [VINXIS' Insane]](https://osu.ppy.sh/beatmapsets/567163#osu/1201369)
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Reillia) [VINXIS' Insane]](https://osu.ppy.sh/beatmapsets/567163#osu/1201369)
 
 ## Ruleset
 
