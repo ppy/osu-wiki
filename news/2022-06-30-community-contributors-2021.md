@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Community Contributors 2021"
-date: 2022-06-30 10:00:00 +0000
+title: "Community Contributors: 2021"
+date: 2022-06-30 11:00:00 +0000
 ---
 
 The osu! community continues on due to the tireless efforts of a mere handful of remarkable individuals. Today, we celebrate their contributions with our highest honour: the badge of a Community Contributor.
@@ -34,7 +34,7 @@ Tirelessly striving to fix bugs and bridge the differences between computing pla
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/stanr.jpg)](https://osu.ppy.sh/users/7217455)
 
-A mainstay presence in the performance points development community, StanR has been at the forefront of making meaningful changes to osu!'s key performance algorithms for a considerable length of time at this point, contributing new changes of his own and vetting those made by others. While this may not sound like much at first glance, his contributions represent hundreds of hours of work and manifest themselves in scoring becoming more fair and fun for everyone.
+A mainstay presence in the performance points development community, StanR has been at the forefront of making meaningful changes to osu!'s key performance algorithms for a considerable length of time at this point, contributing new changes of his own and vetting those made by others. While this may not sound like much at first glance, his contributions represent hundreds of hours of work and have manifested in scoring becoming fairer and more fun for everyone.
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/apo11o.jpg)](https://osu.ppy.sh/users/9558549)
 
@@ -42,15 +42,15 @@ While some Beatmap Nominators mod only maps, Apo11o has gone a step beyond and t
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/mbmasher.jpg)](https://osu.ppy.sh/users/4498616)
 
-Taking it upon himself to bring light into the (quite literal) darkness, MBmasher turned his attention upon the scoring particulars of the Flashlight mod and found them terribly lacking. So, he charted ground none before him had dared to tread, and wrote an almost entirely new algorithm from the bottom up. Before him, Flashlight was a funny novelty mod with a fairly static score multiplier, and after him, it is appropriately acknowledged in code as the nuanced and difficult playstyle that it truly is.
+Taking it upon himself to bring light into the (quite literal) darkness, MBmasher turned his attention upon the scoring particulars of the Flashlight mod and found them terribly lacking. So, he boldly charted ground none before him had dared to tread, and wrote an almost entirely new algorithm from the bottom up. Before him, Flashlight was a funny novelty mod with a fairly static score multiplier, and after him, it is appropriately acknowledged in code as the nuanced and difficult playstyle that it truly is.
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/walavouchey.jpg)](https://osu.ppy.sh/users/5773079)
 
-Ever present in the osu-wiki scene, Walavouchey is a relatively recent face who all but skyrocketed into prestige with his fastidious attention to detail as an editor and writer both. The path of a wikifriend is a long and arduous one, fraught with sprawling pull requests and sometimes unimaginably arduous tasks involving rewriting, reformatting and restructuring lengthy articles and important explanations, and it is in all of this that Walavouchey has simply excelled without question.
+Ever present in the osu-wiki scene, Walavouchey is a relatively recent face who all but skyrocketed into prestige with his fastidious attention to detail as an editor and writer both. The path of a wikifriend is a long and arduous one, fraught with sprawling pull requests and sometimes unimaginably arduous tasks involving rewriting, reformatting, and restructuring lengthy articles and important explanations, and it is in all of this that Walavouchey has simply excelled without question.
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/niva.jpg)](https://osu.ppy.sh/users/197805)
 
-With a storied history of contribution to osu! via the Mappers' Guild as a fourth-level (the maximum) member and an Mappers' Choice Awards 2020 recipient, it wouldn't be unusual to think that only the mapping scene receives the bulk of Niva's attention between his Global Moderator responsibilities and everything else.
+With a storied history of contribution to osu! via the Mappers' Guild as a fourth level (maximum) member and an Mappers' Choice Awards 2020 recipient, it wouldn't be unusual to think that only the mapping scene receives the bulk of Niva's attention between his Global Moderator responsibilities and everything else.
 
 It turns out that contentment with that alone was not on the cards, and so Niva delved deep into the arcane arts of maintaining the osu!wiki, rising today to claim his true place as a recognized wikifriend. His efforts on this front are chiefly centred around - you guessed it - mapping and tournament related articles, making hundreds of changes to promote various other community projects and keep things informative for everyone.
 
@@ -62,7 +62,7 @@ As if this were not enough on its own, he is never far from hand in any macOS-re
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/huu.jpg)](https://osu.ppy.sh/users/6044237)
 
-Entrusted with the wardenship of Project Loved by its previous maintainers, huu was saddled with no small task, and has simply excelled admirably in his time heading the project. From organizing mappers, writers and captains alike, huu delved right into the thick of things and helped ensure that the legacy of Project Loved was set to continue in the present day, and it is a sure thing to say that it would not be anywhere near as successful as it presently is without his dedication and attention.
+Entrusted with the wardenship of Project Loved by its previous maintainers, huu was saddled with no small task, and has simply excelled admirably in his time heading the project. From organizing mappers, writers, and captains alike, huu has delved right into the thick of things and helped ensure that the legacy of Project Loved was set to continue in the present day, and it is a sure thing to say that it would not be anywhere near as successful as it presently is without his dedication and attention.
 
 Though he has since left the project to move on to other interests elsewhere, we are deeply grateful for his contributions, and are proud to welcome him to the list.
 
@@ -88,7 +88,7 @@ A forefront designer, caster and organizer in the osu! community tournament scen
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/cavoeboy.jpg)](https://osu.ppy.sh/users/7361815)
 
-The host and organizer for the largest osu! convention/LAN/gathering in the world, cavoeboy’s contributions have been integral towards building a sense of worldwide community in osu!. Attended by creator, developer, mapper and player alike, cavoe's osu! event (COE) represents a monumental amount of effort and work that often goes chronically underappreciated, with professional firms on massively larger budgets struggling to organize events to the quality and expectations that COE reaches on the regular.
+The host and organizer for the largest osu! convention/LAN/gathering in the world, cavoeboy’s contributions have been integral towards building a sense of worldwide community in osu!. Attended by creator, developer, mapper, and player alike, cavoe's osu! event (COE) represents a monumental amount of effort and work that often goes chronically underappreciated, with professional firms on massively larger budgets struggling to organize events to the quality and expectations that COE reaches on the regular.
 
 Not content with only this, cavoeboy has been involved in an entire swathe of major osu! tournaments such as Corsace (both Corsace Open and Corsace Closed) and Organized Test Tournament, making it very clear that being a cornerstone for awesome experiences in the community is more or less his way of life.
 
@@ -96,6 +96,6 @@ Not content with only this, cavoeboy has been involved in an entire swathe of ma
 
 Times remain trying around much of the world in these past few years, which only makes us all the more grateful for those who continue to carry the osu! community upon their shoulders. We continue to grow in both size and scope as a community, and with more major developments flickering into life as the months pass, it is almost certain that we will soon be approaching a new era in osu!'s 15-year history.
 
-To everyone who helps make the osu! community more awesome, we thank you from the bottom of our hearts, and we look forward to sharing and honouring your accolades some day soon.
+To everyone who helps make the osu! community more awesome, we thank you from the bottom of our hearts, and we look forward to sharing and honouring your accolades someday soon.
 
 —the osu!team
