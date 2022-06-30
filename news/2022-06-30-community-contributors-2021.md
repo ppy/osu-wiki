@@ -80,7 +80,7 @@ It is said that this singular utility is responsible for the birth of an entirel
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/leoflt.jpg)](https://osu.ppy.sh/users/3668779)
 
-A constant presence in the tournament scene for many years and recently brought aboard as part of the official osu! World Cup management crew, LeoFLT's tireless efforts largely speak for themselves. From handling programming and statistics-related tasks, to spreadsheets, website designs and much more, his proven technical prowess is only the tip of the iceberg.
+A constant presence in the tournament scene for many years and recently brought aboard as part of the official osu! World Cup management crew, LeoFLT's tireless efforts largely speak for themselves. From solving a variety of problems with the power of programming, to wrangling statistics with spreadsheets, creating website designs and much more, his proven technical prowess is only the tip of an especially monumental iceberg that sits square in the heart of the tournament scene.
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/chillierpear.jpg)](https://osu.ppy.sh/users/9501251)
 
