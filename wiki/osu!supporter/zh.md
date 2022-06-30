@@ -78,7 +78,7 @@ osu!direct 是供支持者使用的游戏内谱面搜索和下载引擎。可以
 
 支持者们可以在游戏或网页中访问若干个特殊的谱面[排行榜](/wiki/Beatmap#排行榜)：
 
-- 按 [Mod](/wiki/Game_modifier) 组合筛选的全球排行榜
+- 按 [Mod](/wiki/Gameplay/Game_modifier) 组合筛选的全球排行榜
 - 国内/区内排行榜
 - 以及一个可以和朋友们竞争的好友排行榜
 

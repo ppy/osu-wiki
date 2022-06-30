@@ -75,7 +75,7 @@ osu!direct is the in-game beatmap search and download engine available to suppor
 
 Supporters have access to several beatmap-specific [leaderboards](/wiki/Beatmap#leaderboards) available both in-game and on the website:
 
-- Global rankings for every combination of [game modifiers](/wiki/Game_modifier)
+- Global rankings for every combination of [game modifiers](/wiki/Gameplay/Game_modifier)
 - Country-specific rankings of players bearing the same flag
 - Friend rankings that show a player's position on a map compared to their friends
 

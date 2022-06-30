@@ -24,7 +24,7 @@ Le tag osu!supporter peut être obtenu depuis [la page de magasin osu!supporter]
 ![](img/usercard.png?2 "Carte utilisateur avec un badge osu!supporter")
 :::
 
-Les supporters obtiennent un badge orné de cœurs. Il peut être trouvé à côté du nom de l'utilisateur sur le site web. Le nombre de cœurs dépend de la durée de l'osu!supporter que l'utilisateur a acquis ou reçu au total. 
+Les supporters obtiennent un badge orné de cœurs. Il peut être trouvé à côté du nom de l'utilisateur sur le site web. Le nombre de cœurs dépend de la durée de l'osu!supporter que l'utilisateur a acquis ou reçu au total.
 
 - Moins d'1 an : 1 cœur
 - De 1 à 5 ans : 2 cœurs
@@ -53,7 +53,7 @@ La section `moi !` est un bon endroit pour :
 Les supporters peuvent customiser davantage leur profil en ajoutant une bannière :
 
 - Appuyez sur l'icône en forme de crayon dans le coin en bas à droite de la bannière.
-- Sélectionnez une nouvelle bannière à partir d'options prédéfinies, ou en mettant en ligne votre propre image (ses dimensions doivent être de 2400x640). 
+- Sélectionnez une nouvelle bannière à partir d'options prédéfinies, ou en mettant en ligne votre propre image (ses dimensions doivent être de 2400x640).
 
 Une fois que le tag osu!supporter aura expiré, cette bannière restera mais ne pourra plus être modifiée.
 
@@ -73,9 +73,9 @@ osu!direct est l'outil de recherche et de téléchargement de beatmaps en jeu di
 
 ### Classements avancés
 
-Les supporters ont accès à plusieurs outils spécifiques aux [classements](/wiki/Beatmap#classement) d'une beatmap, disponibles à la fois en jeu et sur le site web : 
+Les supporters ont accès à plusieurs outils spécifiques aux [classements](/wiki/Beatmap#classement) d'une beatmap, disponibles à la fois en jeu et sur le site web :
 
-- Les classements globaux pour toutes les combinaisons de [modificateurs de jeu](/wiki/Game_modifier).
+- Les classements globaux pour toutes les combinaisons de [modificateurs de jeu](/wiki/Gameplay/Game_modifier).
 - Le classement par pays des joueurs portant le même drapeau.
 - Le classement des amis qui montre la position d'un joueur sur une beatmap par rapport à ses amis.
 

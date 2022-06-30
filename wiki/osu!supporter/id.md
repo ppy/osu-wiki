@@ -75,7 +75,7 @@ osu!direct merupakan fitur pencarian dan penguduhan beatmap kilat yang khusus te
 
 Para supporter akan dapat mengakses berbagai [papan peringkat](/wiki/Beatmap#papan-peringkat) khusus pada masing-masing beatmap, baik di dalam permainan maupun melalui situs web osu!, sebagai berikut:
 
-- Papan peringkat global untuk kombinasi [mod permainan](/wiki/Game_modifier) tertentu yang dikehendaki
+- Papan peringkat global untuk kombinasi [mod permainan](/wiki/Gameplay/Game_modifier) tertentu yang dikehendaki
 - Papan peringkat negara dengan bendera yang sama
 - Papan peringkat teman yang membandingkan skor yang diraih dengan skor para pengguna lain yang ditambahkan sebagai teman
 
