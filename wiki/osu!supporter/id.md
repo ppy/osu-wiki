@@ -153,4 +153,4 @@ Di samping itu, baik penerima maupun pengirim osu!supporter akan menerima notifi
 
 ## Referensi
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)

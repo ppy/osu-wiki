@@ -159,4 +159,4 @@ osu!direct — это инструмент для поиска и скачива
 
 ## Примечания
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)

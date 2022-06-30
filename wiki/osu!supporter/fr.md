@@ -153,4 +153,4 @@ En outre, le donateur et le bénéficiaire recevront tous deux des notifications
 
 ## Références
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)

@@ -156,4 +156,4 @@ osu! 支持者标签可以赠送给其他玩家，在玩家名片下的灰色方
 
 ## 参考
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)
