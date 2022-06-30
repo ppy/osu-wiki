@@ -30,11 +30,11 @@ A regular contributor to ongoing development efforts in osu!(lazer), frenzibyte 
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/susko3.jpg)](https://osu.ppy.sh/users/18945305)
 
-Tirelessly striving to fix bugs and bridge the differences between computing platforms, Susko3's efforts in lazer development have proven instrumental in pushing the project forward in recent times. Their expertise in both lazer's underlying development framework and other libraries (such as SDL) has proven integral to ongoing projects, and we are tremendously thankful for their dedication and support.
+Tirelessly striving to fix bugs and bridge the differences between computing platforms, Susko3's efforts in lazer development have proven instrumental in pushing the project forward in recent times. Their expertise in both osu!(lazer)'s underlying development framework and other libraries (such as SDL) has proven integral to ongoing projects, and we are tremendously thankful for their dedication and support.
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/stanr.jpg)](https://osu.ppy.sh/users/7217455)
 
-A mainstay presence in the performance points development community, StanR has been at the forefront of making meaningful changes to osu!'s key performance algorithms for a considerable length of time at this point, contributing new changes of his own and vetting those made by others. While this may not sound like much at first glance, his contributions represent hundreds of hours of work and have manifested in scoring becoming fairer and more fun for everyone.
+A mainstay presence in the performance points development community, StanR has been at the forefront of making meaningful changes to osu!'s key performance algorithms for a considerable length of time at this point, contributing new changes of his own and vetting those made by others. His contributions represent hundreds of hours of work and have manifested in scoring becoming fairer and more fun for everyone.
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/apo11o.jpg)](https://osu.ppy.sh/users/9558549)
 
@@ -46,7 +46,7 @@ Taking it upon himself to bring light into the (quite literal) darkness, MBmashe
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/walavouchey.jpg)](https://osu.ppy.sh/users/5773079)
 
-Ever present in the osu! wiki scene, Walavouchey is a relatively recent face who all but skyrocketed into prestige with his fastidious attention to detail as an editor and writer both. The path of a wikifriend is a long and arduous one, fraught with sprawling pull requests and sometimes unimaginably arduous tasks involving rewriting, reformatting, and restructuring lengthy articles and important explanations, and it is in all of this that Walavouchey has simply excelled without question.
+Ever present in the osu! wiki scene, Walavouchey is a relatively recent face who all but skyrocketed into prestige with his fastidious attention to detail as an editor and writer both. The path of a wikifriend is a long and arduous one, fraught with sprawling pull requests and sometimes unimaginably arduous tasks involving rewriting, reformatting, and restructuring lengthy articles and important explanations, and it is in all of this that Walavouchey has simply excelled without question. If you've ever read a news post in the past year and a bit, Walavouchey has probably edited it at some point or another.
 
 [![](/wiki/shared/news/2022-06-30-community-contributors-2021/niva.jpg)](https://osu.ppy.sh/users/197805)
 
