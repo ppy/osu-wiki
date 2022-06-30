@@ -8,7 +8,7 @@ tags:
 
 ![HCΩ logo](img/banner.jpg)
 
-The **Harumachi Cup Ω** (***HCΩ***) is a worldwide single-elimination osu! tournament hosted by ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680). The tournament is completely comprised of the song *Harumachi Clover* in various remixes done by individuals in the osu! community and through osu!'s Featured Artist program. This is the third instalment of the Harumachi Cup series.
+The **Harumachi Cup Ω** (***HCΩ***) is a worldwide single-elimination osu! tournament hosted by ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680). The tournament is completely comprised of the song *Harumachi Clover* in various remixes done by individuals in the osu! community and through osu!'s Featured Artist program. This is the third instalment of the Harumachi Cup series.
 
 ## Tournament schedule
 
@@ -36,15 +36,15 @@ Harumachi Cup Ω is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![flag_GB] [Hubz](https://osu.ppy.sh/users/10379965), ![flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Guest mapper | ![flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763), ![flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![flag_TR] [Orkay](https://osu.ppy.sh/users/9321674) |
-| Streamer | ![flag_GB] [Hubz](https://osu.ppy.sh/users/10379965) |
-| Commentator | ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![flag_GB] [Teezel](https://osu.ppy.sh/users/7528639) |
-| Designer | ![flag_GB] [Hubz](https://osu.ppy.sh/users/10379965) |
-| Outreach/Consultant | ![flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Referee | ![flag_US] [Blushing](https://osu.ppy.sh/users/5927823), ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![flag_ZA] [KaedeSnowyyy](https://osu.ppy.sh/users/18323026), ![flag_EE] [megahello](https://osu.ppy.sh/users/11155994), ![flag_VN] [My Angel Chino](https://osu.ppy.sh/users/20547597)
-| Statistician | ![flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |
-| Wiki editor | ![flag_US] [Blushing](https://osu.ppy.sh/users/5927823) |
+| Organiser | ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![][flag_GB] [Hubz](https://osu.ppy.sh/users/10379965), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
+| Guest mapper | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_TR] [Orkay](https://osu.ppy.sh/users/9321674) |
+| Streamer | ![][flag_GB] [Hubz](https://osu.ppy.sh/users/10379965) |
+| Commentator | ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639) |
+| Designer | ![][flag_GB] [Hubz](https://osu.ppy.sh/users/10379965) |
+| Outreach/Consultant | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
+| Referee | ![][flag_US] [Blushing](https://osu.ppy.sh/users/5927823), ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![][flag_ZA] [KaedeSnowyyy](https://osu.ppy.sh/users/18323026), ![][flag_EE] [megahello](https://osu.ppy.sh/users/11155994), ![][flag_VN] [My Angel Chino](https://osu.ppy.sh/users/20547597) |
+| Statistician | ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |
+| Wiki editor | ![][flag_US] [Blushing](https://osu.ppy.sh/users/5927823) |
 
 ## Links
 
@@ -177,61 +177,10 @@ There are 3 divisions in this tournament: Qualifiers, Group heats, and a single-
 6. There are **no** warmups. Be prepared.
 7. 1v1 bracket only: in case of a tie, the tiebreaker will be played. See [rule 6 of the general rules](#general) for more details.
 
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_CY]: /wiki/shared/flag/CY.gif "Cyprus"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
-[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HR]: /wiki/shared/flag/HR.gif "Croatia"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
-[flag_IN]: /wiki/shared/flag/IN.gif "India"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_KH]: /wiki/shared/flag/KH.gif "Cambodia"
-[flag_KR]: /wiki/shared/flag/KR.gif "Korea"
-[flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
-[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SA]: /wiki/shared/flag/SA.gif "Saudi Arabia"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_SI]: /wiki/shared/flag/SI.gif "Slovenia"
-[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
 [flag_ZA]: /wiki/shared/flag/ZA.gif "South Africa"
