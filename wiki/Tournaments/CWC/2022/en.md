@@ -103,7 +103,7 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| All-stars Red | All-stars Blue | [Jul 3 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220703T120000&p1=1440) | [^showmatch] |
+| All-stars Red | All-stars Blue | [Jul 2 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220702T120000&p1=1440) | [^showmatch] |
 
 ### Sunday, 3 July 2022
 
