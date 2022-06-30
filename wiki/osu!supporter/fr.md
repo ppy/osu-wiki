@@ -69,7 +69,7 @@ osu!direct est l'outil de recherche et de téléchargement de beatmaps en jeu di
 
 - Les liens de beatmaps dans le tchat qui mènent vers la page de la beatmap sur le site web d'osu! démarrent directement le téléchargement en jeu.
 - Téléchargements automatiques en jouant dans un lobby [multijoueur](/wiki/Gameplay/Multiplayer) ou en [observant](/wiki/Gameplay/Spectating) un autre joueur comme [paramètre](/wiki/Client/Options#intégrations).
-- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs comme [paramètre](/wiki/Client/Options#intégrations).
+- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs comme [paramètre](/wiki/Client/Options#notifications-et-vie-privée).
 
 ### Classements avancés
 

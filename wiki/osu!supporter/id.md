@@ -69,7 +69,7 @@ osu!direct merupakan fitur pencarian dan penguduhan beatmap kilat yang khusus te
 
 - Tautan beatmap pada *chat*, yang akan menampilkan dialog unduhan dalam permainan
 - Pengunduhan beatmap otomatis dalam lobi [multiplayer](/wiki/Gameplay/Multiplayer) atau mode [spectate](/wiki/Gameplay/Spectating), yang dapat [dinonaktifkan kapan pun](/wiki/Client/Options#integration)
-- Penautan beatmap yang sedang dimainkan secara otomatis pada kanal `#spectator`, yang dapat [dinonaktifkan kapan pun](/wiki/Client/Options#integration)
+- Penautan beatmap yang sedang dimainkan secara otomatis pada kanal `#spectator`, yang dapat [dinonaktifkan kapan pun](/wiki/Client/Options#alerts-and-privacy)
 
 ### Papan peringkat tambahan
 

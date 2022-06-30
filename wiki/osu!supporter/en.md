@@ -69,7 +69,7 @@ osu!direct is the in-game beatmap search and download engine available to suppor
 
 - Beatmap links in chat, which point to beatmaps on the osu! website, now trigger the download prompt in-game
 - Automatic beatmap downloads while playing in a [multiplayer](/wiki/Gameplay/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
-- Automatic linking of currently played beatmaps in the `#spectator` chat tab for spectators, as an [opt-out setting](/wiki/Client/Options#online)
+- Automatic linking of currently played beatmaps in the `#spectator` chat tab for spectators, as an [opt-out setting](/wiki/Client/Options#alerts-and-privacy)
 
 ### Extended leaderboards
 
