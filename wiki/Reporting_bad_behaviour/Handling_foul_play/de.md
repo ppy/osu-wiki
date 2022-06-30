@@ -5,7 +5,7 @@
 Ein Benutzer wird eingeschränkt, wenn er eine der folgenden Dinge macht:
 
 - Wiederkehrendes Fehlverhalten, unabhängig davon, wie viele Verstöße er begangen hat.
-- Eine Strafe umgehen, durch das Erstellen eines neuen Accounts.
+- Durch das Erstellen eines neuen Accounts eine Strafe umgehen.
 - Seinen Account mit anderen Benutzern teilen.
 - Multi-Accounting.
 - Hacking oder Cheating (siehe unten).
