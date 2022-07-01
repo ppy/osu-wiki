@@ -99,6 +99,12 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ## Match schedule: Grand Finals
 
+### Saturday, 2 July 2022
+
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| All-stars Red | All-stars Blue | [Jul 2 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220702T150000&p1=1440) | [^showmatch] |
+
 ### Sunday, 3 July 2022
 
 | Team A | Team B | Match time |  |
@@ -127,12 +133,12 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
   2. [Se-U-Ra - The Endless for Traveler (JBHyperion) \[Adversity (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/1794190#fruits/3677172)
   3. [Silent Siren - Soukai Rock (eLy) \[Dash!!\]](https://osu.ppy.sh/beatmapsets/422994#fruits/914220)
 - Double Time
-  1. [Minose Inori - TRUST IN ETERNITY (F D Flourite) \[ETERNITY\]](https://osu.ppy.sh/beatmapsets/1794217#fruits/3677237)
+  1. [Minose Inori - TRUST IN ETERNITY (F D Flourite) \[ETERNITY\]](https://osu.ppy.sh/beatmapsets/1794217#fruits/3677251)
   2. [MYUKKE. - FULi AUTO BUSTER (FULi Ver) (Bunnrei) \[FULi OVER DOSER (FULi Ver)\]](https://osu.ppy.sh/beatmapsets/1794213#fruits/3677232)
   3. [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Cappuchino\]](https://osu.ppy.sh/beatmapsets/1547564#fruits/3162593)
   4. [Lockyn - Vapor (Blacky Design) \[Shining\]](https://osu.ppy.sh/beatmapsets/1203398#fruits/2505928)
 - Mixed Mod
-  1. [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? (Ascendance) \[\* Ascenzuu's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1794202#fruits/3677206)
+  1. [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? (Ascendance) \[\* Ascenzuu's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1794202#fruits/3682229)
   2. [P-MODEL - LAB=01 (-Ken) \[Ken & Flourite's Mix\]](https://osu.ppy.sh/beatmapsets/1794200#fruits/3677204)
   3. [TEMPLIME - Neon Light (feat. TOTO HOSHIMIYA) (Mentai) \[Together Alone, Intoxicated by the Night\]](https://osu.ppy.sh/beatmapsets/1292247#fruits/2681970)
 - Tiebreaker
@@ -615,6 +621,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^losers-bracket]: Losers bracket
 [^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket match
+[^showmatch]: Showmatch - Two teams made up of All-star players face each other 
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
