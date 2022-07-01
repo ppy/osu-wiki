@@ -1,11 +1,6 @@
----
-outdated_since: 7094ac9d70205bc7bd12621dd83e3d1738962809
-outdated_translation: true
----
-
 # Daftar pengelola osu! wiki
 
-Pengelola secara teratur mengurus [*issue tracker*](https://github.com/ppy/osu-wiki/issues) dan meninjau ulang *pull request*  yang dibuat oleh kontributor. Pengelola memiliki akses khusus yaitu, mereka dapat mengedit *pull request* dan menggabungkannya ke dalam *branch* `master` repositori, membuat perubahan pada osu! wiki langsung menjadi publik.
+Pengelola secara teratur mengurus [*issue tracker*](https://github.com/ppy/osu-wiki/issues) dan meninjau ulang *pull request* yang dibuat oleh kontributor. Pengelola memiliki akses khusus yaitu, mereka dapat mengedit *pull request* dan menggabungkannya ke dalam *branch* `master` repositori, yang menjadikan perubahan tersebut langsung menjadi publik.
 
 Jika kamu memerlukan bantuan untuk memberikan kontribusi atau ingin *pull request* kamu ditinjau ulang, kamu dapat mengirim pesan di channel `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) dan pengelola atau kontributor lain akan merespon pesan tersebut (semua pengelola dapat berbahasa Inggris).
 
@@ -13,14 +8,15 @@ Jika kamu memerlukan bantuan untuk memberikan kontribusi atau ingin *pull reques
 
 | Profil osu! | Profil GitHub | Status | Bahasa tambahan |
 | :-- | :-- | :-- | :-- |
-| ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Tidak aktif | - |
+| ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | **Aktif** |  |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Aktif** | - |
-| ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | **Aktif** | - |
+| ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Tidak aktif |  |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Tidak aktif | Spanyol |
 | ![][flag_DE] [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | Tidak aktif | Jerman |
-| ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Tidak aktif | - |
+| ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Tidak aktif |  |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Tidak aktif | Jerman |
 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Aktif** | Jepang |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | Tidak aktif |  |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | [Repflez](https://github.com/Repflez) | Tidak aktif | Spanyol |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Tidak aktif | Prancis |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Aktif** | Rusia |
@@ -40,7 +36,7 @@ Kurator, editor, dan pemberi persetujuan dari semua [postingan berita](https://o
 
 ## Pengelola sebelumnya
 
-Daftar ini mencakup pengelola instansi MediaWiki, [dimana osu! wiki pernah berada](/wiki/History_of_osu!/osu!_wiki):
+Daftar ini mencakup pengelola instansi MediaWiki, [di mana osu! wiki pernah berada](/wiki/History_of_osu!/osu!_wiki):
 
 - ![][flag_RU] [\[Dellirium\]](https://osu.ppy.sh/users/519032)
 - ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)
