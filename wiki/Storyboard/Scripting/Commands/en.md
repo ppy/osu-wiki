@@ -17,6 +17,7 @@ where:
 The valid values for easing are:
 
 | Value | Description |
+| :-: | :-- |
 | 0 | Linear: no easing |
 | 1 | Easing Out: the changes happen fast at first, but then slow down toward the end |
 | 2 | Easing In: the changes happen slowly at first, but then speed up toward the end |
