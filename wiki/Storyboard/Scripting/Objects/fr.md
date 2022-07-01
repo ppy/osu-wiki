@@ -30,7 +30,7 @@ Où :
   - origin = Bas-Droit, x = 640, y = 480
     *et ainsi de suite.*
 
-Layer peut prendre ces valeurs:
+Les valeurs valides pour le layer sont:
 
 | Valeur | Layer |
 | :-: | :-- |
@@ -39,7 +39,7 @@ Layer peut prendre ces valeurs:
 | 2 | Pass |
 | 3 | Premier plan |
 
-Origin peut prendre ces valeus:
+Les valeurs valides pour l'origin sont:
 
 | Valeur | Origin |
 | :-: | :-- |

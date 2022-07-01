@@ -37,7 +37,7 @@ _event, [...]
 
 L'ordre Z (d'arrière en avant) est déterminé par l'ordre dans lequel les fichiers apparaissent dans le fichier .osu. Le premier événement du storyboard sera derrière tous les autres, c'est-à-dire que si l'événement du storyboard 'A' est au-dessus de l'événement du storyboard 'B', 'B' sera au-dessus de 'A'.
 
-| Valeur | Couche |
+| Valeur | Layer |
 | :-: | :-- |
 | 0 | Arrière-plan |
 | 1 | Fail |
@@ -46,7 +46,7 @@ L'ordre Z (d'arrière en avant) est déterminé par l'ordre dans lequel les fich
 
 *Remarque : l'arrière-plan et le premier plan sont toujours visibles.*
 
-| Valeur | Origine |
+| Valeur | Origin |
 | :-: | :-- |
 | 0 | Haut-Gauche |
 | 1 | Centre |

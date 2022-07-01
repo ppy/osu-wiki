@@ -16,7 +16,7 @@ Où :
 
 Les valeurs valides pour le easing sont :
 
-| Value | Description |
+| Valeur | Description |
 | :-: | :-- |
 | 0 | Linéaire : pas d'easing |
 | 1 | Easing Out: les changements sont rapides au début, mais ralentissent vers la fin |
