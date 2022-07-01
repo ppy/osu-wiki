@@ -1,6 +1,9 @@
 ---
 tags:
   - badges
+  - profile badges
+  - user badge
+  - user badges
   - badges de profil
   - badge d'utilisateur
   - badges d'utilisateur
