@@ -22,21 +22,7 @@ Pour appeler une instance d'un sprite (une image fixe) ou une animation, utilise
 Où :
 
 - `(layer)` est la **[couche](/wiki/Storyboard/Scripting/General_Rules) sur laquelle l'objet apparaît.** Les valeurs valides sont :
-  - 0 - Arrière-plan
-  - 1 - Fail
-  - 2 - Pass
-  - 3 - Premier plan
 - `(origin)` est l'endroit de **l'image où osu! doit considérer que l'origine de l'image (coordonnée) se trouve.** Cela affecte les valeurs (x) et (y), ainsi que plusieurs autres comportements spécifiques à la commande. Par exemple, si vous choisissez (origin) = Haut-Gauche, les valeurs (x) et (y) détermineront l'emplacement du coin supérieur gauche de l'image à l'écran. Les valeurs valides sont (notez l'orthographe "Centre" et non "Center") :
-- 0 - Haut-Gauche
-- 1 - Centre
-- 2 - Centre-Gauche
-- 3 - Haut-Droite
-- 4 - Bas-Centre
-- 5 - Haut-Centre
-- 6 - Personnalisé (même effet que Haut-Gauche, mais ne doit pas être utilisé)
-- 7 - Centre-Droite
-- 8 - Bas-Gauche
-- 9 - Bas-Droit
 - `(filepath)` est, en termes simples, le **nom de l'image que vous voulez.** Mais ce n'est pas toujours aussi simple :
   - Si vous avez un sous-dossier dans votre dossier Song, vous devez également l'inclure.
     - Exemple : "backgrounds/sky.jpg" si vous avez un sous-dossier appelé "backgrounds" contenant une image appelée "sky.jpg". Commencez à énumérer les répertoires uniquement à partir du dossier des musiques, où se trouve le fichier .osu ou .osb (c'est-à-dire un chemin de fichier relatif). Il ne doit pas contenir quelque chose comme "C:".
@@ -48,6 +34,30 @@ Où :
   - origin = Centre, x = 320, y = 240
   - origin = Bas-Droit, x = 640, y = 480
     *et ainsi de suite.*
+
+Layer peut prendre ces valeurs:
+
+| Valeur | Layer |
+| :-: | :-- |
+| 0 | Arrière-plan |
+| 1 | Fail |
+| 2 | Pass |
+| 3 | Premier plan |
+
+Origin peut prendre ces valeus:
+
+| Valeur | Origin |
+| :-: | :-- |
+| 0 | Haut-Gauche |
+| 1 | Centre |
+| 2 | Centre-Gauche |
+| 3 | Haut-Droit |
+| 4 | Bas-Centre |
+| 5 | Haut-Centre |
+| 6 | Personnalisé (même effet que Haut-Gauche, mais ne doit pas être utilisé) |
+| 7 | Centre-Droit |
+| 8 | Bas-Gauche |
+| 9 | Bas-Droit |
 
 **Pour les animations uniquement**
 
