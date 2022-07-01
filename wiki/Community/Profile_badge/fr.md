@@ -32,12 +32,12 @@ Dans le [client](/wiki/Client) et sur le site web, les badges sont simplement d�
 
 Plutôt que de s'empiler horizontalement dans un conteneur couvrant toute la page, l'ancien site empilait les badges verticalement entre le nom d'utilisateur et le drapeau du pays de l'utilisateur.
 
-Un effet secondaire de cette méthode de mise en page était que la hauteur par défaut, non étendue, des pages des utilisateurs pouvait être augmentée en gagnant plus de badges. Bien qu'involontaire, cette méthode est devenue une blague récurrente dans la communauté des tournois.<!-- More example userpages beyond Toy would be nice, else "running gag" doesn't have a source. -clayton --> ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a montré cela dans [un Tweet populaire](https://twitter.com/droombs/status/1036050610687074304), exposant son record du plus grand nombre de badges gagnés au moment de la publication de l'article.
+Un effet secondaire de cette méthode de mise en page était que la hauteur par défaut, non étendue, des pages des utilisateurs pouvait être augmentée en gagnant plus de badges. Bien qu'involontaire, cette méthode est devenue une blague récurrente dans la communauté des tournois. ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a montré cela dans [un Tweet populaire](https://twitter.com/droombs/status/1036050610687074304), exposant son record du plus grand nombre de badges gagnés au moment de la publication de l'article.
 
 ## Informations supplémentaires
 
-::: Boite à info
-![](https://assets.ppy.sh/profile-badges/tagwinner.png "Badge de première place du tournoi Tag")
+::: Infobox
+![](https://assets.ppy.sh/profile-badges/tagwinner.png "Badge de première place du Tag Tournament")
 :::
 
 - Les deux premiers badges ont été attribués à ![][flag_PL] [niedzwiedz1124](https://osu.ppy.sh/users/9610) et à ![][flag_PL] [White Wolf](https://osu.ppy.sh/users/39828) le 6 septembre 2009, pour avoir [gagné *le Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).
