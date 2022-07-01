@@ -24,6 +24,15 @@ Où :
 - `<filepath>` est le même concept que pour les sprites, mais fait référence au fichier .wav, .mp3 ou .ogg.
 - `<volume>` est un nombre compris entre 1 et 100 pour indiquer l'intensité sonore relative du son (laisser off pour 100 par défaut)
 
+Les valeurs valides pour les couches sont:
+
+| Valeur | Couche |
+| :-: | :-- |
+| 0 | Arrière-plan |
+| 1 | Fail |
+| 2 | Pass |
+| 3 | Premier plan |
+
 ## Exemple
 
 Par exemple, pour jouer un (courte !) fichier musicale lorsque le joueur obtient une bonne fin sur la beatmap (par exemple, fin dans l'état Pass), puis jouer un effet sonore d'explosion dans le cadre de la scène :
