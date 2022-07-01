@@ -40,7 +40,7 @@ Un effet secondaire de cette méthode de mise en page était que la hauteur par 
 ![](https://assets.ppy.sh/profile-badges/tagwinner.png "Badge de première place du Tag Tournament")
 :::
 
-- Les deux premiers badges ont été attribués à ![][flag_PL] [niedzwiedz1124](https://osu.ppy.sh/users/9610) et à ![][flag_PL] [White Wolf](https://osu.ppy.sh/users/39828) le 6 septembre 2009, pour avoir [gagné *le Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).
+- Les deux premiers badges ont été attribués à ![][flag_PL] [niedzwiedz1124](https://osu.ppy.sh/users/9610) et à ![][flag_PL] [White Wolf](https://osu.ppy.sh/users/39828) le 6 septembre 2009, pour avoir [gagné le *Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).
 - Les badges peuvent renvoyer à d'autres pages web pour plus de contexte, mais aucun n'utilise actuellement cette fonctionnalité.
 
 [flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
