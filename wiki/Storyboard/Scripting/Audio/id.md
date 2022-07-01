@@ -1,6 +1,6 @@
 # Sampel audio storyboard
 
-**Berkas-berkas audio** (WAV, MP3, dan OGG) dapat diputar pada waktu yang ditentukan. Berkas tersebut digunakan seperti deklarasi objek, bukan perintah, sehingga berkas tersebut tidak dapat digunakan pada *loop* dan *trigger*. Namun, kamu dapat meletakkan objek tersebut di *layer* manapun (meskipun audio tersebut tidak akan saling menimpa satu sama lain-audio tersebut akan dicampur), sehingga kamu dapat membuat audio tersebut hanya diputar ketika pemain dalam kondisi *Pass* atau *Fail*.
+**Berkas audio** (WAV, MP3, dan OGG) dapat diputar pada waktu tertentu melalui kode storyboard. Pada osu!, berkas audio berlaku layaknya sebuah objek (bukan perintah) dan tidak dapat digunakan dengan sintaks *loop* dan *trigger*. Meskipun demikian, kamu dapat menempatkan berkas audio milikmu pada *layer* manapun (meskipun mereka tidak akan saling menimpa satu sama lain) sehingga kamu dapat mengatur berkas audio tertentu agar hanya terdengar pada saat pemain berada dalam kondisi *Pass* atau *Fail*.
 
 ## Penggunaan
 
@@ -13,7 +13,7 @@ di mana:
 - `<time>` merupakan waktu di mana audio tersebut mulai diputar.
 - `<layer_num>` merupakan angka yang merepresentasikan *layer* di mana audio tersebut akan diputar. Nilai yang dapat digunakan tertera di bawah ini.
 - `<filepath>` merupakan lokasi berkas audio yang dituliskan sama seperti `<filepath>` pada *sprite*, di mana berkas yang diterima hanya berformat .wav, .mp3, atau .ogg.
-- `<volume>` merupakan angka yang berjarak dari 1 hingga 100 yang mengindikasikan volume suara audio (pasang nilai 100 jika ingin menggunakan nilai *default*)
+- `<volume>` merupakan angka dalam rentang 1 sampai 100 yang mengindikasikan volume suara audio yang diputar (gunakan nilai 100 apabila kamu ingin menggunakan volume *default*)
 
 Nilai yang dapat digunakan untuk *layer* adalah sebagai berikut:
 
@@ -26,11 +26,11 @@ Nilai yang dapat digunakan untuk *layer* adalah sebagai berikut:
 
 ## Contoh
 
-Sebagai contoh, kamu ingin memutar sebuah musik pendek ketika pemain dapat menyelesaikan beatmap dalam kondisi *Pass*, dan sesudah musik itu diputar, suara ledakan akan diputar sebagai bagian dari adegan:
+Sebagai contoh, apabila kamu ingin memutar lagu tertentu ketika pemain berhasil menyelesaikan beatmap milikmu dalam kondisi *Pass* yang disertai dengan efek suara ledakan beberapa saat setelahnya, kode yang harus kamu inputkan kurang lebihnya adalah sebagai berikut:
 
 ```
 Sample,163520,2,"Audio\Best End.mp3",80
 Sample,167201,2,"Audio\sfx\EndG-SmallExplosion.wav",100
 ```
 
-Perlu diperhatikan volume musik pada contoh di atas dimainkan lebih pelan untuk membuat efek suara ledakan lebih mencolok, dan *layer* kedua objek tersebut bernilai 2 (Pass).
+Harap diperhatikan bahwa pada contoh di atas, volume lagu yang bersangkutan sengaja dipelankan untuk membuat efek suara ledakan lebih mencolok dan kedua sampel audio tersebut ditempatkan pada *layer* 2 (Pass).
