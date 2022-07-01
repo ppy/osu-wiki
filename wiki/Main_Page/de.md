@@ -72,7 +72,7 @@ Lese über die Prozeduren und Kontrollen, die osu! und seine Community schützen
 
 [Regeln](/wiki/Rules) • [Verhaltenskodex für Mitwirkende](/wiki/Contributor_Code_of_Conduct) • [Verhaltenskodex für das Modding und Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
-Medienregulierungen: [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Content_Usage_Guidelines) • [Expliziter Inhalt](/wiki/Rules/Explicit_Content) • [Regeln für Songinhalte](/wiki/Rules/Song_Content_Rules) • [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_Content_Considerations)
+Medienregulierungen: [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Content_Usage_Guidelines) • [Verfahren zur Abstimmung über den Inhalt](/wiki/Rules/Content_Voting_Process) • [Expliziter Inhalt](/wiki/Rules/Explicit_Content) • [Regeln für Songinhalte](/wiki/Rules/Song_Content_Rules) • [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_Content_Considerations)
 
 [Rechtliche Seiten](/wiki/Legal): [Allgemeine Geschäftsbedingungen](/wiki/Legal/Terms) • [Datenschutz](/wiki/Legal/Privacy) • [Urheberrecht (DMCA)](/wiki/Legal/Copyright) • [Musiklizenzierung](/wiki/Legal/Music_licensing)
 

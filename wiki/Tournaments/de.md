@@ -477,6 +477,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
+#### 4 Digit Catch World Cup
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [4 Digit Catch World Cup 2022](4CWC/2022) | 30.07.2022 | 11.09.2022 | *noch offen* | *noch offen* | *noch offen* |
+
 #### Catch French Beginner
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |

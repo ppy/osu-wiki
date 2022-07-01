@@ -3,8 +3,9 @@
     "name": "osu-wiki",
     "description": "home of the osu! wiki",
     "repository": "github:ppy/osu-wiki",
+    "type": "module",
     "dependencies": {
-        "remark-cli": "10.0.1",
+        "remark-cli": "11.0.0",
         "remark-frontmatter": "4.0.1",
         "remark-gfm": "3.0.1",
         "remark-lint-final-newline": "2.1.1",
