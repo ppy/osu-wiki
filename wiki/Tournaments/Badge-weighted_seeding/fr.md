@@ -11,22 +11,27 @@ tags:
 
 # Badge-weighted seeding
 
-**Badge-weighted seeding** (***BWS***) est un [seeding](https://en.wikipedia.org/wiki/Seed_(sports)) de [tournois](/wiki/Tournaments) et un système de restrictions qui prend en compte tous les [Badges de Profil](/wiki/Community/Profile_badge) de chaque joueur pour qu'ils comptent autant que leur [rang global](/wiki/Ranking#performance-points-ranking). Conçu à l'origine par ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), L'objectif de ce système était de "répartir plus précisément les joueurs et d'appliquer les restrictions de rang en fonction des badges de tournoi des joueurs",[^hippo-cup-bws] par rapport à la méthode de classement plus standard qui utilise directement le classement global des joueurs.
+Le **Badge-weighted seeding** (***BWS***) est un [seeding](https://en.wikipedia.org/wiki/Seed_(sports)) de [tournois](/wiki/Tournaments) et un système de restrictions qui prend en compte tous les [Badges de Profil](/wiki/Community/Profile_badge) de chaque joueur pour qu'ils comptent autant que leur [rang global](/wiki/Ranking#performance-points-ranking). Conçu à l'origine par ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), l'objectif de ce système était de "répartir plus précisément les joueurs et d'appliquer les restrictions de rang en fonction des badges de tournoi des joueurs",[^hippo-cup-bws] par rapport à la méthode de classement plus standard qui utilise directement le classement global des joueurs.
 
-Le principe de la BWS est que les joueurs se voient attribuer un meilleur classement s'ils ont gagné des badges pour avoir participé à des tournois dans le passé. De cette façon, les joueurs ne resteront pas indéfiniment au même rang s'ils sont performants en tournois, par rapport à d'autres joueurs de même rang.[^digitalhypno-discord-1][^digitalhypno-discord-2] Dans un ensemble de tournois qui utilisent tous la BWS, on s'attend à ce que les joueurs qui commencent à des rangs similaires tendent vers des têtes de série BWS qui reflètent mieux leur probabilité de gagner des matchs contre des joueurs de même rang.[^digitalhypno-discord-3][^digitalhypno-discord-4]
+
+Le principe du BWS est que les joueurs se voient attribuer un meilleur classement s'ils ont gagné des badges pour avoir participé à des tournois dans le passé. De cette façon, les joueurs ne resteront pas indéfiniment au même rang s'ils sont performants en tournois, par rapport à d'autres joueurs de même rang.[^digitalhypno-discord-1][^digitalhypno-discord-2] Dans un ensemble de tournois qui utilisent tous le BWS, on s'attend à ce que les joueurs qui commencent à des rangs similaires tendent vers des têtes de série BWS qui reflètent mieux leur probabilité de gagner des matchs contre des joueurs de même rang.[^digitalhypno-discord-3][^digitalhypno-discord-4]
+
 
 Le BWS a été utilisé pour la première fois en fin 2018 pour la [Hippo Cup 2](https://osu.ppy.sh/community/forums/topics/848153). Depuis, cela a été utilisé de nombreuses fois dans des [tournois communautaires](/wiki/Tournaments#community), et constitue l'une des principales méthodes de classement actuellement utilisées, avec les classements globaux et les tours de qualification.
 
 ## Technique
 
-La méthode originale et la plus courante pour calculer les seeds des joueurs dans la BWS est la fonction de décroissance bornée suivante :
+La méthode originale et la plus courante pour calculer les seeds des joueurs avec le BWS est la fonction de décroissance bornée suivante :
+
 
 ```
 seed = global_rank ^ (0.9937 ^ (badge_count ^ 2))
 ```
 
-- `badge_count` (≥ 0): Nombre de badges sur le profil du joueur qui ont été gagnés en tant que prix pour des tournois précédents du même [Modes de jeu](/wiki/Game_mode)
-- `global_rank` (≥ 1): [Classement des points de performance](/wiki/Ranking#performance-points-ranking) du joueur sur le classement global correspondant au [Modes de jeu](/wiki/Game_mode) du tournois.
+- `badge_count` (≥ 0): Nombre de badges sur le profil du joueur qui ont été gagnés en tant que prix pour des tournois précédents du même [modes de jeu](/wiki/Game_mode)
+
+- `global_rank` (≥ 1): [Classement des points de performance](/wiki/Ranking#performance-points-ranking) du joueur sur le classement global correspondant au même [modes de jeu](/wiki/Game_mode) du tournois.
+
 
 Cette fonction satisfait des propriétés importantes pour le BWS :
 
@@ -34,14 +39,17 @@ Cette fonction satisfait des propriétés importantes pour le BWS :
 - Les seed du BWS sont toujours inférieures ou égales aux `global_rank`. Ils sont égaux si le joueur n'a pas de badges.
 - Les seeds du BWS ont la même portée que le `global_rank`.
 
-Certains tournois varient leur mise en œuvre de la BWS en utilisant une fonction différente,[^brtt-bws] mais toutes partagent les mêmes propriétés décrites ci-dessus.
+Certains tournois varient leur mise en œuvre du BWS en utilisant une fonction différente,[^brtt-bws] mais toutes partagent les mêmes propriétés décrites ci-dessus.
+
 
 ## Inconvénients potentiels
 
 
-- Les BWS ne peuvent être mises à jour que lorsque les joueurs reçoivent des badges, et les badges ne sont généralement attribués qu'en tant que prix de première place à la fin des tournois. Ainsi, le processus d'établissement des joueurs dans des seeds leur correspondant peut être très lent.
+- Les BWS ne peuvent être mises à jour que lorsque les joueurs reçoivent des badges, et les badges ne sont généralement attribués qu'en tant que prix de première place à la fin des tournois. Ainsi, le processus d'établissement des joueurs dans des seeds réprentatives de leur niveau peut être très lent.
+
 - Les badges attribués dans le cadre de tournois limités en termes de rangs continuent d'affecter les seeds de BWS des joueurs, même lorsque leurs rangs sont sortis de ces fourchettes de rangs.[^badge-appeals] En général, on peut considérer comme un inconvénient le fait que tous les badges soient traités de la même manière, malgré les nombreux facteurs différents entre les tournois qui font que les badges sont plus ou moins difficiles à gagner.
-  - Certaines versions plus expérimentales de la BWS comportent des mécanismes permettant de résoudre ce problème.[^oet-bws]
+  - Certaines versions plus expérimentales du BWS comportent des mécanismes permettant de résoudre ce problème.[^oet-bws]
+
 - Un travail supplémentaire est requis de la part du personnel du tournoi pour déterminer quels badges sont pertinents pour le tournoi et calculer le BWS.
 
 ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) a déclaré que le BWS n'est "idéalement pas une solution permanente au problème", et préconise plutôt qu'une échelle de matchmaking (ou similaire) soit supportée par le [client](/wiki/Client).[^digitalhypno-discord-5]
