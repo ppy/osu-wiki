@@ -8,11 +8,11 @@ tags:
 
 Each month, new **Featured Artist playlists** are published in [osu!(lazer)](https://github.com/ppy/osu/releases) highlighting [Featured Artist](/wiki/Featured_Artists) content across all [game modes](/wiki/Game_mode). The playlists avoid a strict format, so playlist parameters, beatmap selections, and prize criteria vary each month.
 
-!["Featured Artist playlist lobby"](img/playlist.png "osu!(lazer) Featured Artist playlist lobby")
+!["Featured Artist playlist lobby"](img/playlist.jpg "osu!(lazer) Featured Artist playlist lobby")
 
 Access the playlists via the **play** menu on osu!(lazer) and filtering by **Featured Artists** in the top right corner.
 
-!["Featured Artist playlist listing"](img/playlist-listing.png)
+!["Featured Artist playlist listing"](img/playlist-listing.jpg)
 
 ## Prizes
 
