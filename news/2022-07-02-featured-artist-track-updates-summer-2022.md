@@ -142,7 +142,7 @@ While not a World Cup tiebreaker, [Valley of Voices](https://osu.ppy.sh/beatmaps
 **Lundy** is criminally underrated, blessing osu! with a whole bundle of highly varied tracks that check every box a rhythm game player could ask for.
 
 - **Lundy - 09_20_2003**
-- **Lundy - axelnaught ~l'execution de la reine~**
+- **Lundy - axelnaught \~l'execution de la reine\~**
 - **Lundy - Casanova**
 - **Lundy - distort for instant release**
 - **Lundy - from.BETA**
@@ -151,7 +151,7 @@ While not a World Cup tiebreaker, [Valley of Voices](https://osu.ppy.sh/beatmaps
 - **Lundy - Septima**
 - **Lundy - Ultimapprox**
 
-### Lundy - axelnaught ~l'execution de la reine~
+### Lundy - axelnaught \~l'execution de la reine\~
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/203/Songs/Lundy%20-%20axelnaught%20~l%27execution%20de%20la%20reine~.mp3" type="audio/mpeg">
