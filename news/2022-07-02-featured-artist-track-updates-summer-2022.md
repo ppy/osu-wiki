@@ -157,6 +157,8 @@ While not a World Cup tiebreaker, [Valley of Voices](https://osu.ppy.sh/beatmaps
     <source src="https://assets.ppy.sh/artists/203/Songs/Lundy%20-%20axelnaught%20~l%27execution%20de%20la%20reine~.mp3" type="audio/mpeg">
 </audio>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### Lundy - not to pop your bubble...
 
 <audio controls>
