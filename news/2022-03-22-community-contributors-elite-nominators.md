@@ -112,7 +112,7 @@ A dedicated Beatmap Nominator since 2018, [**\_Stan**](https://osu.ppy.sh/users/
 
 Without a doubt, \_Stan is a major force in the 7K scene, and things would be very different without him!
 
-[![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/Murumoo.jpg)](https://osu.ppy.sh/users/1653229)
+[![](/wiki/shared/news/2022-03-22-community-contributors-elite-nominators/Murumoo.jpg)](https://osu.ppy.sh/users/8001433)
 
 Since the beginning of his nominating career, Murumoo has already proven himself to be one of the most proficient nominators, pushing and delving into a large variety of maps that require considerable time, effort and skill to tackle. Not only that, he has nominated numerous well-received charts, including one of the most popular of the year in *xi-ANiMA*, which went on to achieve rank #2 in the Mapper’s Favourite 2021, as well as *t+pazolite – Tempestissimo* that achieved rank #5 in the Community’s Choice 2021. 
 
