@@ -57,8 +57,8 @@ Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelaussch
 | [osu!catch World Cup 2018](CWC/2018) | 09.06.2018 | 15.07.2018 | ![][flag_CN] China | ![][flag_US] Vereinigte Staaten | ![][flag_CL] Chile |
 | [osu!catch World Cup 2019](CWC/2019) | 29.06.2019 | 04.08.2019 | ![][flag_KR] Südkorea | ![][flag_CN] China | ![][flag_CL] Chile |
 | [osu!catch World Cup 2020](CWC/2020) | 09.05.2020 | 14.06.2020 | ![][flag_KR] Südkorea | ![][flag_CN] China | ![][flag_US] Vereinigte Staaten |
-| [osu!catch World Cup 2021](CWC/2021) | 01.05.2021 | 06.06.2021 | ![][flag_KR] Südkorea | ![][flag_HK] Hong Kong | ![][flag_US] United States |
-| [osu!catch World Cup 2022](CWC/2022) | 21.05.2022 | 03.07.2022 | *noch offen* | *noch offen*  | *noch offen* |
+| [osu!catch World Cup 2021](CWC/2021) | 01.05.2021 | 06.06.2021 | ![][flag_KR] Südkorea | ![][flag_HK] Hong Kong | ![][flag_US] Vereinigte Staaten |
+| [osu!catch World Cup 2022](CWC/2022) | 21.05.2022 | 03.07.2022 | ![][flag_KR] Südkorea | ![][flag_US] Vereinigte Staaten | ![][flag_CN] China |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -476,6 +476,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Vaf's Autumn Fiesta](VAF/1) | 15.05.2021 | 11.07.2021 | ![][flag_JP] [yu-k1\_](https://osu.ppy.sh/users/16347853) | ![][flag_HK] [J a c k y](https://osu.ppy.sh/users/8011704) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
+
+#### 4 Digit Catch World Cup
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [4 Digit Catch World Cup 2022](4CWC/2022) | 30.07.2022 | 11.09.2022 | *noch offen* | *noch offen* | *noch offen* |
 
 #### Catch French Beginner
 

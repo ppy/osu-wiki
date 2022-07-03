@@ -1,3 +1,9 @@
+---
+outdated_translation: true
+---
+
+<!--Adjust content to English article and review grammar-->
+
 # osu!mania Mapping Guide
 
 Dieser Guide wurde von erstellt. Bei diesem Guide hat er sich ein wenig an Hanyuu's Mapping Guide (Englisch!) orientiert.

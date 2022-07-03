@@ -16,6 +16,8 @@ Dialling industrial-fused breakcore up to the maximum, we're certain that we're 
 
 Check out a sample of what's available below:
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### there are no angels here.
 
 <audio controls>
