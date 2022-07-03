@@ -616,12 +616,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - **Do not ask for a reschedule unless it is absolutely needed. The Tournament Management reserves the right to deny any rescheduling request.**
 6. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
 
-## Notes
-
-[^losers-bracket]: Losers bracket
-[^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket match
-[^showmatch]: Showmatch - Two teams made up of All-star players face each other 
-
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
