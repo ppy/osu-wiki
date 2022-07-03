@@ -1,6 +1,6 @@
 # Pedoman identitas merek
 
-Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian standar yang mengatur ketentuan penggunaan logo dan cookie osu! pada berbagai proyek yang terkait dengan osu!. Seluruh aset yang tertera di bawah ini dapat digunakan tanpa  membutuhkan persetujuan dari pihak osu! terlebih dahulu.
+Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian standar yang mengatur ketentuan penggunaan logo dan cookie osu! pada berbagai proyek yang terkait dengan osu!. Seluruh aset yang tertera di bawah ini dapat digunakan tanpa membutuhkan persetujuan dari pihak osu! terlebih dahulu.
 
 [Perangkat desain osu! dapat diunduh melalui tautan berikut.](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing) Harap diperhatikan bahwa perangkat desain tersebut mengandung beberapa aset yang sudah tidak lagi digunakan. Di samping itu, berhubung PDF yang disertakan juga telah usang, mohon gunakan laman ini sebagai referensi utama.
 
@@ -56,7 +56,7 @@ Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! c
 - **Jangan** menambahkan efek yang terlalu mewah atau berlebihan pada cookie.
 - **Jangan** menambahkan elemen tambahan di dalam cookie.
 - **Jangan** menambahkan garis luar (*outline*) pada cookie. Gunakan warna cookie yang berbeda.
-- **Jangan** pernah berpikir untuk mengubah elemen cookie manapun. Ayolah. Logo resmi kami sama sekali tidak terlihat seperti itu. Alih-alih membuat cookie yang diakui secara resmi, kamu hanya menempatkan teks di dalam lingkaran.
+- **Jangan** pernah berpikir untuk mengubah elemen cookie manapun. Ayolah. Logo resmi kami bahkan sama sekali tidak terlihat seperti itu. Alih-alih membuat cookie baruu yang diakui secara resmi, kamu hanya menempatkan teks di dalam lingkaran.
 
 ### Batasan penggunaan cookie warna penuh
 
