@@ -21,7 +21,7 @@ Jika kamu memerlukan bantuan untuk memberikan kontribusi atau ingin *pull reques
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Nonaktif | Perancis |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Aktif** | Rusia |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | Nonaktif | Polandia |
-| ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **Aktif** | Finlandia, Swedia |
+| ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | Nonaktif | Finlandia, Swedia |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | Nonaktif | Spanyol |
 
 ## Tim berita
