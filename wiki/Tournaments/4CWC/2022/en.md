@@ -9,7 +9,7 @@ tags:
 
 ![4CWC 2022 banner](img/banner.png)
 
-The **4 Digit Catch World Cup** (***4CWC 2022***) is a country-based osu!catch tournament hosted by ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464), ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384), and ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). It is the second iteration of the 4 Digit Catch World Cup.
+The **4 Digit Catch World Cup 2022** (***4CWC 2022***) is a country-based osu!catch tournament hosted by ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464), ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384), and ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). It is the second iteration of the 4 Digit Catch World Cup.
 
 ## Tournament schedule
 
@@ -30,30 +30,30 @@ The **4 Digit Catch World Cup** (***4CWC 2022***) is a country-based osu!catch t
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner |
 
 ## Organisation
 
-The 4 Digit Catch World Cup is run by various community members.
+The 4 Digit Catch World Cup 2022 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464), ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
 | Mappool selector | ![][flag_SG] [[Eun]](https://osu.ppy.sh/users/3788536), ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_SG] [lovemathboy](https://osu.ppy.sh/users/4220829), ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464), ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530), ![][flag_TH] [Social Distance](https://osu.ppy.sh/users/17385454), ![][flag_CL] [Stark](https://osu.ppy.sh/users/1565036), ![][flag_RU] [Xetopia](https://osu.ppy.sh/users/6689101) |
-| Mappool tester | ![][flag_KR] [[Amazing]](https://osu.ppy.sh/users/1391036), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267), ![][flag_ES] [Alepe](https://osu.ppy.sh/users/15273403), ![][flag_FR] [Bebar](https://osu.ppy.sh/users/12584928), ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_DE] [Daihmuddah](https://osu.ppy.sh/users/1619007), ![][flag_CL] [Des9](https://osu.ppy.sh/users/5404711), ![][flag_FR] [h-e-c-a123](https://osu.ppy.sh/users/3163012), ![][flag_PL] [hrohoroko](https://osu.ppy.sh/users/14121250), ![][flag_PH] [Kyonkichi](https://osu.ppy.sh/users/7585544), ![][flag_IL] [LiL L1ghtMare](https://osu.ppy.sh/users/16782179), ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161), ![][flag_FR] [Natsuko](https://osu.ppy.sh/users/8266817), ![][flag_ID] [Reid Hezzel](https://osu.ppy.sh/users/5604201), ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243), ![][flag_KR] [-Zellen](https://osu.ppy.sh/users/17405762) |
-| Custom mapper | ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530), ![][flag_FR] [Natsuko](https://osu.ppy.sh/users/8266817), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_RU] [Terton](https://osu.ppy.sh/users/6955523), ![][flag_RU] [Xetopia](https://osu.ppy.sh/users/6689101) |
-| Streamer | ![][flag_FR] [Jielefe](https://osu.ppy.sh/users/15334170), ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464), ![][flag_LU] [Melodies](https://osu.ppy.sh/users/7787785), ![][flag_RU] [Rainbowtaves](https://osu.ppy.sh/users/10079847), ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
-| Commentator | ![][flag_AU] [KannaKamuiii](https://osu.ppy.sh/users/11435502), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_AU] [Maitoo](https://osu.ppy.sh/users/16899553), ![][flag_LU] [Melodies](https://osu.ppy.sh/users/7787785), ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
-| Referee | ![][flag_PH] [-Pekora-](https://osu.ppy.sh/users/17959882), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267), ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_RU] [cosilgam](https://osu.ppy.sh/users/15960747), ![][flag_FR] [h-e-c-a123](https://osu.ppy.sh/users/3163012), ![][flag_PL] [hrohoroko](https://osu.ppy.sh/users/14121250), ![][flag_FR] [Jielefe](https://osu.ppy.sh/users/15334170), ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469), ![][flag_BR] [Konohana Lucia](https://osu.ppy.sh/users/8642224), ![][flag_PH] [Kyonkichi](https://osu.ppy.sh/users/7585544), ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464), ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243), ![][flag_TH] [Social Distance](https://osu.ppy.sh/users/17385454) |
+| Mappool tester | ![flag_AU] [-NOBLE-](https://osu.ppy.sh/users/8363648), ![][flag_KR] [[Amazing]](https://osu.ppy.sh/users/1391036), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267), ![][flag_ES] [Alepe](https://osu.ppy.sh/users/15273403), ![][flag_FR] [Bebar](https://osu.ppy.sh/users/12584928), ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_DE] [Daihmuddah](https://osu.ppy.sh/users/1619007), ![][flag_CL] [Des9](https://osu.ppy.sh/users/5404711), ![][flag_FR] [h-e-c-a123](https://osu.ppy.sh/users/3163012), ![][flag_PL] [hrohoroko](https://osu.ppy.sh/users/14121250), ![][flag_PH] [Kyonkichi](https://osu.ppy.sh/users/7585544), ![][flag_IL] [LiL L1ghtMare](https://osu.ppy.sh/users/16782179), ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161), ![][flag_FR] [Natsuko](https://osu.ppy.sh/users/8266817), ![][flag_ID] [Reid Hezzel](https://osu.ppy.sh/users/5604201), ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243), ![][flag_KR] [-Zellen](https://osu.ppy.sh/users/17405762) |
+| Custom mapper | ![flag_PH] [-Rustyy](https://osu.ppy.sh/users/16355636), ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530), ![][flag_FR] [Natsuko](https://osu.ppy.sh/users/8266817), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164),![flag_US] [Secre](https://osu.ppy.sh/users/2306637), ![flag_KR] [Spectator](https://osu.ppy.sh/users/702598), ![][flag_RU] [Terton](https://osu.ppy.sh/users/6955523), ![][flag_RU] [Xetopia](https://osu.ppy.sh/users/6689101) |
+| Streamer | ![flag_AU] [-NOBLE-](https://osu.ppy.sh/users/8363648), ![][flag_FR] [Jielefe](https://osu.ppy.sh/users/15334170), ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464), ![][flag_LU] [Melodies](https://osu.ppy.sh/users/7787785), ![][flag_RU] [Rainbowtaves](https://osu.ppy.sh/users/10079847), ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![flag_AU] [wangwangg](https://osu.ppy.sh/users/6416920) |
+| Commentator | ![flag_AU] [-NOBLE-](https://osu.ppy.sh/users/8363648), ![][flag_AU] [CoolEVT](https://osu.ppy.sh/users/3252653), ![][flag_AU] [KannaKamuiii](https://osu.ppy.sh/users/11435502), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_AU] [Maitoo](https://osu.ppy.sh/users/16899553), ![][flag_LU] [Melodies](https://osu.ppy.sh/users/7787785), ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
+| Referee | ![flag_AU] [-NOBLE-](https://osu.ppy.sh/users/8363648), ![][flag_PH] [-Pekora-](https://osu.ppy.sh/users/17959882), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267), ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_RU] [cosilgam](https://osu.ppy.sh/users/15960747), ![][flag_FR] [h-e-c-a123](https://osu.ppy.sh/users/3163012), ![][flag_PL] [hrohoroko](https://osu.ppy.sh/users/14121250), ![][flag_FR] [Jielefe](https://osu.ppy.sh/users/15334170), ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469), ![][flag_BR] [Konohana Lucia](https://osu.ppy.sh/users/8642224), ![][flag_PH] [Kyonkichi](https://osu.ppy.sh/users/7585544), ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464), ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243), ![][flag_TH] [Social Distance](https://osu.ppy.sh/users/17385454) |
 | Designer | ![][flag_RU] [Arhella](https://osu.ppy.sh/users/4411044), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
 | Spreadsheet manager | ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464) |
 | Wiki editor | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1y43_5q2AuPPAexVSDKfHS5RB7s2Lk2O2LwMM2JUwbLg/edit?usp=sharing)**
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1Yd3iHhU1ABF0MOxUFR9FJAeMcXtGBZkBuC_N7dX4bfc/edit?usp=sharing)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1600070)
 - [Discord server](https://discord.gg/JcJ7w9x6B6)
 - [Challonge bracket](https://challonge.com/4cwc_2022)
@@ -100,7 +100,6 @@ The 4 Digit Catch World Cup is run by various community members.
 5. In the event of any disconnects, the player(s) who disconnect will be allowed to replay the map after the run by themselves.
 6. You will have 3 players in the lobby from your team at a time. You may switch players in and out during the match however you like.
 7. Qualifier scores will be hidden until all teams have played, in order to prevent seed manipulation.
-8. Qualifier scores will be hidden until all players have played, in order to prevent seed manipulation, which means that the player placing 32nd will play against the player placing 1st, etc.
 
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
@@ -119,3 +118,4 @@ The 4 Digit Catch World Cup is run by various community members.
 [flag_LU]: /wiki/shared/flag/LU.gif "Luxembourg"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
