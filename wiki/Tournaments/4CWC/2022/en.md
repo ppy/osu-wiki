@@ -5,7 +5,7 @@ tags:
   - 4CWC 2022
 ---
 
-# 4 Digit Catch World Cup
+# 4 Digit Catch World Cup 2022
 
 ![4CWC 2022 banner](img/banner.png)
 
