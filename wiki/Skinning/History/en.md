@@ -347,13 +347,13 @@ Notes:
 
 `sliderendcircleoverlay-{n}.png`
 
-![](img/sliderstartcircleoverlay.png)
+![](img/sliderendcircleoverlay.png)
 
 *For full details, see [sliderendcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
 
 Notes:
 
-- Animation name: `sliderstartcircleoverlay-{n}.png`
+- Animation name: `sliderendcircleoverlay-{n}.png`
 - Animation rate: 2 FPS (4 FPS max).
   - This rate is affected by the half time and double time/nightcore the game modifiers.
 
