@@ -16,7 +16,7 @@
 
 ### Cercles :
 
-- Un cercle peut prednre les valeurs 300, 100, ou 50 selon la précision du timing du joueur lorsqu'il clique dessus. Les intervalles de temps utilisés pour déterminer le résultat concret d'un cercle sont appelés *fenêtres de succès*, et sont influencés par l'[overall difficulty](/wiki/Beatmap/Overall_difficulty#osu!) de la beatmap.
+- Un cercle peut prendre les valeurs 300, 100, ou 50 selon la précision du timing du joueur lorsqu'il clique dessus. Les intervalles de temps utilisés pour déterminer le résultat concret d'un cercle sont appelés *fenêtres de succès*, et sont influencés par l'[overall difficulty](/wiki/Beatmap/Overall_difficulty#osu!) de la beatmap.
 - Un cercle est considéré comme raté quand:
   - Le cercle est touché avant le début de la fenêtre de succès du 50 et ne déclenche pas un [notelock](/wiki/Gameplay/Judgement/Notelock).
   - Le cercle n'est pas touché et la fenêtre de succès du 50 est passée.
