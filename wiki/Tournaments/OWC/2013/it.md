@@ -134,12 +134,3 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
 3. All Knock-Out Stages will be held on either Saturday or Sunday (refer to Tournament Schedule).
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3. Nov for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
-
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EE]: /wiki/shared/flag/EE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_US]: /wiki/shared/flag/US.gif

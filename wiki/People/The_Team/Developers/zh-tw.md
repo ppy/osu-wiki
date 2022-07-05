@@ -92,19 +92,3 @@ osu! 的開發工作由 osu! 的製作者 ::{ flag="AU" }:: **[peppy](https://os
 | ::{ flag="NO" }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 遊戲客戶端開發者 |
 | ::{ flag="US" }:: [RBRat3](https://osu.ppy.sh/users/307202) | 設計師 |
 | ::{ flag="DE" }:: [Tom94](https://osu.ppy.sh/users/1857058) | 遊戲客戶端開發者 |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[flag___]: /wiki/shared/flag/__.gif

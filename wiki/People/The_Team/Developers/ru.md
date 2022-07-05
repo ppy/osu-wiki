@@ -95,19 +95,3 @@ tags:
 | ::{ flag="NO" }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Разработчик игры |
 | ::{ flag="US" }:: [RBRat3](https://osu.ppy.sh/users/307202) | Дизайнер |
 | ::{ flag="DE" }:: [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик игры |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[flag___]: /wiki/shared/flag/__.gif

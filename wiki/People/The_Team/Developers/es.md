@@ -53,12 +53,3 @@ El esfuerzo de desarrollo de osu! está liderado por ::{ flag="AU" }:: **[peppy]
 ### Cuentas bot
 
 - ::{ flag="__" }:: [osu!team](https://osu.ppy.sh/users/4341397)
-
-
-
-
-
-
-
-
-[flag___]: /wiki/shared/flag/__.gif

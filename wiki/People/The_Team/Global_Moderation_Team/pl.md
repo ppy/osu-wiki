@@ -158,37 +158,3 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ::{ flag="TR" }:: [Coldrod](https://osu.ppy.sh/users/9065991), ::{ flag="TR" }:: [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#ukrainian` |  | ::{ flag="RU" }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  | ::{ flag="VN" }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag="ID" }:: [Sies](https://osu.ppy.sh/users/6491991) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[flag___]: /wiki/shared/flag/__.gif

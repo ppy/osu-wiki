@@ -1221,12 +1221,3 @@ Detailed results for this round are found via [this link](https://docs.google.co
 ### Disconnection clauses
 
 - It has been observed that computing percentages from the drain time is not practical, hence a definite clause was laid out.
-
-
-
-
-
-
-
-
-[flag___]: /wiki/shared/flag/__.gif

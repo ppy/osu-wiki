@@ -493,17 +493,3 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 2. 十六強 和 八強階段 為 9 戰 5 勝制，獲得 5 勝方可勝出。
 3. 四強階段 為 11 戰 6 勝制，獲得 6 勝方可勝出。
 4. 決賽 和 總決賽 為 13 戰 7 勝制，獲得 7 勝方可勝出。
-
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif

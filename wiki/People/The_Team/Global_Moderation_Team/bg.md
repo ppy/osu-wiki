@@ -172,36 +172,3 @@ tags:
 | `#vietnamese` |  |  |
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[flag___]: /wiki/shared/flag/__.gif

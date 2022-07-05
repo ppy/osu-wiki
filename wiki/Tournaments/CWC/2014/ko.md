@@ -419,37 +419,3 @@ outdated_translation: true
 3. 16강전부터는 토요일/일요일에 경기가 진행됩니다.
 4. 경기 일정은 운영 위원들이 정합니다. 경기 일정은 경기 전주의 일요일(예시로 조별예선의 경우 5월 4일)에 발표됩니다. 운영위원은 각 선수의 시간대를 고려하여 일정을 준비 할 것입니다.
 5. 주장은 팀원들의 참가여부에 대해 책임이 있습니다. 각 팀이 최대 6명의 선수를 뽑을 수 있게 하는 것은 경기 당일 적어도 3명의 선수를 준비 할 수 있도록 하기 위함입니다. 만약 3명 이상의 선수가 모이지 않을 경우 기권처리가 됩니다.
-
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BO]: /wiki/shared/flag/BO.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EE]: /wiki/shared/flag/EE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HR]: /wiki/shared/flag/HR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_UY]: /wiki/shared/flag/UY.gif

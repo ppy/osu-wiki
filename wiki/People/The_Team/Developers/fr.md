@@ -91,19 +91,3 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont abandonné les effor
 | ::{ flag="NO" }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Développeur du client |
 | ::{ flag="US" }:: [RBRat3](https://osu.ppy.sh/users/307202) | Designer |
 | ::{ flag="DE" }:: [Tom94](https://osu.ppy.sh/users/1857058) | Développeur du client |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[flag___]: /wiki/shared/flag/__.gif

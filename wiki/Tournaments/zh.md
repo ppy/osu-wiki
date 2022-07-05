@@ -342,39 +342,3 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 [GCrown]: /wiki/shared/crown-gold.png "冠军"
 [SCrown]: /wiki/shared/crown-silver.png "亚军"
 [BCrown]: /wiki/shared/crown-bronze.png "季军"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[flag___]: /wiki/shared/flag/__.gif

@@ -91,19 +91,3 @@ Berikut ini adalah para mantan developer yang kini sudah tidak lagi aktif mengem
 | ::{ flag="NO" }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Pengembang klien permainan |
 | ::{ flag="US" }:: [RBRat3](https://osu.ppy.sh/users/307202) | Desainer |
 | ::{ flag="DE" }:: [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang klien permainan |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[flag___]: /wiki/shared/flag/__.gif

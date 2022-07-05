@@ -1329,13 +1329,3 @@ Detailed results for this round are found via [this link](https://docs.google.co
 ### Updates and concerns
 
 - Most of the major updates regarding the tournament will be posted on the discussion thread. All concerns and questions regarding the tournament may be posted on the thread, or via the osu!Philippines Facebook Group.
-
-
-
-
-
-
-
-
-
-[flag___]: /wiki/shared/flag/__.gif

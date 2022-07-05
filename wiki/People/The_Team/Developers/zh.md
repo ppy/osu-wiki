@@ -57,12 +57,3 @@ osu! 的开发工作由 osu! 的创始人 ::{ flag="AU" }:: **[peppy](https://os
 ### 机器人账户
 
 - ::{ flag="__" }:: [osu!team](https://osu.ppy.sh/users/4341397)
-
-
-
-
-
-
-
-
-[flag___]: /wiki/shared/flag/__.gif
