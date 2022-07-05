@@ -18,7 +18,7 @@ Accédez aux playlists via le menu **play** sur osu!(lazer) et en filtrant par *
 
 ## Prix
 
-Les leaders de chaque playlist de Featured Artist sont récompensés par des badges de profil spécifiques au mode. Les critères exacts pour les leaders varient selon la liste de lecture.
+Les meilleurs joueurs de chaque playlist de Featured Artist sont récompensés par des badges de profil spécifiques au mode. Les critères exacts pour les meilleurs joueurs varient selon la liste de lecture.
 
 ![badge de profile d'Artistes Associés'](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) ![badge de profile d'Artistes Associés'](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) ![badge de profile d'Artistes Associés'](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) ![badge de profile d'Artistes Associés'](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png)
 
