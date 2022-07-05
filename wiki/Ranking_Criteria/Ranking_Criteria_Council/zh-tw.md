@@ -1,5 +1,6 @@
 ---
 no_native_review: true
+outdated: true
 ---
 
 # Ranking Criteria Council (審核標準委員會)
