@@ -14,17 +14,17 @@ To kick things off, some of the original Mappers' Guild team have been hard at w
 
 Check them out:
 
-[![](/wiki/shared/news/2019-05-31-new-featured-artist-james-landino/reaction.jpg)](https://osu.ppy.sh/s/972816)
+[![](/wiki/shared/news/2019-05-31-new-featured-artist-james-landino/reaction.jpg)](https://osu.ppy.sh/beatmapsets/972816)
 
-[**Reaction feat. Slyleaf**](https://osu.ppy.sh/s/972816) by [pishifat](https://osu.ppy.sh/users/3178418) featuring [Milan-](https://osu.ppy.sh/users/1052994)
+[**Reaction feat. Slyleaf**](https://osu.ppy.sh/beatmapsets/972816) by [pishifat](https://osu.ppy.sh/users/3178418) featuring [Milan-](https://osu.ppy.sh/users/1052994)
 
-[![](/wiki/shared/news/2019-05-31-new-featured-artist-james-landino/birdsong.jpg)](https://osu.ppy.sh/s/972810)
+[![](/wiki/shared/news/2019-05-31-new-featured-artist-james-landino/birdsong.jpg)](https://osu.ppy.sh/beatmapsets/972810)
 
-[**Birdsong**](https://osu.ppy.sh/s/972810) by [Mao](https://osu.ppy.sh/users/2204515)
+[**Birdsong**](https://osu.ppy.sh/beatmapsets/972810) by [Mao](https://osu.ppy.sh/users/2204515)
 
-[![](/wiki/shared/news/2019-05-31-new-featured-artist-james-landino/hideandseek.jpg)](https://osu.ppy.sh/s/972932)
+[![](/wiki/shared/news/2019-05-31-new-featured-artist-james-landino/hideandseek.jpg)](https://osu.ppy.sh/beatmapsets/972932)
 
-[**Hide And Seek**](https://osu.ppy.sh/s/972932) by [Mirash](https://osu.ppy.sh/users/2841009) featuring [RLC](https://osu.ppy.sh/users/1047883)
+[**Hide And Seek**](https://osu.ppy.sh/beatmapsets/972932) by [Mirash](https://osu.ppy.sh/users/2841009) featuring [RLC](https://osu.ppy.sh/users/1047883)
 
 But don't take this to mean that all the new tracks have already been mapped - there's still **three** more left for the intrepid to conquer, with quests for a full pack likely soon to come for those esteemed members of the [Mappers' Guild](https://mappersguild.com/). Interested in joining? Check out the link and find out how to join - there's a ton of benefits, and anyone can become a member if they meet the requirements!
 
