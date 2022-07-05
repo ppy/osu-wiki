@@ -765,17 +765,13 @@ Flaggensymbole neben Links zu Benutzern müssen vom Linktext getrennt sein. Sieh
 
 ### Flaggensymbole
 
-*Für eine Liste der Flaggensymbole, siehe: [Issue \#328](https://github.com/ppy/osu-wiki/issues/328)*
-
-Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreibweise) und enden in `.gif`. Benutze beim Inline-Hinzufügen eines Symbols dieses Format:
+Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreibweise). Benutze beim Inline-Hinzufügen eines Symbols dieses Format:
 
 ```markdown
-![](/wiki/shared/flag/xx.gif)
+::{ flag="xx" }::
 ```
 
 Wobei `xx` der [ISO 3166-2](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste) zwei-Buchstaben Ländercode für die Flagge ist.
-
-Der volle Ländername sollte in den Titeltext eingefügt werden. Der Ländercode im alternativen Text ist optional, aber muss bei allen Flaggen im Artikel angewendet werden.
 
 ## Tabellen
 

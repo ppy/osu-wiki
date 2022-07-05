@@ -769,17 +769,13 @@ Flag icons next to user links must be separate from the link text. See the follo
 
 ### Flag icons
 
-*For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328)*
-
-The flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
+The flag icons use the two letter code (in all capital letters). When adding a flag inline, use this format:
 
 ```markdown
-![](/wiki/shared/flag/xx.gif)
+::{ flag="xx" }::
 ```
 
 Where `xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
-
-The full country name should be added in the title text. The country code in the alternate text is optional, but must be applied to all flag icons in the article.
 
 ## Tables
 
