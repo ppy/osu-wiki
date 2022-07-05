@@ -792,11 +792,3 @@ Monday, 23 August 2021:
    - Players who choose to play a FreeMod pick with EZ will be compensated with a `x1.5` score multiplier bonus.
    - Playing a FreeMod pick without any mods applied is not allowed.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
-
-
-
-
-
-
- 
- 
