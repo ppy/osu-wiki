@@ -1,9 +1,6 @@
 name: osu-wiki continuous integration
 
 on:
-  push:
-    branches:
-      - master
   pull_request:
     branches:
       - master
@@ -42,25 +39,28 @@ jobs:
       - name: inspect binary file sizes
         shell: bash
         run: bash scripts/ci/inspect_binary_file_sizes.sh ${{ github.sha }} ${{ github.sha }}
-      - name: set up node
+
+      - name: set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          cache: npm
+          node-version: 16
 
       - name: install remark
-        run: npm install
+        run: npm ci
 
       - name: run remark on changed files
-        run: bash scripts/ci/run_remark.sh ${{ github.sha }} ${{ github.sha }}
+        run: bash scripts/ci/run_remark.sh ${{ github.sha }}
 
       - name: set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.x"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+          python-version: 3.x
 
       - name: set up CI dependencies
-        run: |
-          pip install -r scripts/requirements.txt
+        run: pip install -r scripts/requirements.txt
 
       - name: run yamllint on .yaml and .md files
         run: |
