@@ -48,7 +48,7 @@ jobs:
         run: npm install
 
       - name: run remark on changed files
-        run: bash scripts/ci/run_remark.sh ${{ github.sha }} ${{ github.sha }}
+        run: bash scripts/ci/run_remark.sh --github-action ${{ github.sha }}
 
       - name: set up Python
         uses: actions/setup-python@v2

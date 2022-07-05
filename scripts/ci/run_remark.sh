@@ -1,19 +1,33 @@
-#!/bin/bash
+#!/bin/sh
 
-FIRST_COMMIT_HASH=$1
-LAST_COMMIT_HASH=$2
+set -e
+set -u
 
 # https://en.wikipedia.org/wiki/ANSI_escape_code#3-bit_and_4-bit
-function echo_grey () { printf "\e[0;90m$1\e[m\n"; }
+NOTICE_PREFIX="\033[0;90mNotice:\033[m "
+REPORTER=vfile-reporter-position
 
-# xargs is ran with -d '\n' to properly handle single and double quotes
-# stdout is discarded (remark prints files being checked there)
-git diff --diff-filter=d --name-only ${FIRST_COMMIT_HASH}^ ${LAST_COMMIT_HASH} '*.md' | tr \\n \\0 | xargs -0 npx remark -qf --no-stdout --silently-ignore --report=vfile-reporter-position --color
+if test "${1:-}" = --github-action; then
+  NOTICE_PREFIX=::notice::
+  REPORTER=vfile-reporter-github-action
+  shift
+fi
+
+if test $# -lt 1 -o $# -gt 2; then
+  echo "Usage: $0 [--github-action] <first-commit> [last-commit]" >&2
+  exit 1
+fi
+
+FIRST_COMMIT_HASH="$1"
+LAST_COMMIT_HASH="${2:-"$FIRST_COMMIT_HASH"}"
+
+git diff --diff-filter=d --name-only --no-renames -z "$FIRST_COMMIT_HASH"^ "$LAST_COMMIT_HASH" -- '*.md' | \
+  xargs -0 npx remark -qf --color --no-stdout --report="$REPORTER" --silently-ignore
 
 EXIT=$?
 
-if [[ ${EXIT} -eq 0 ]]; then
-  printf "$( echo_grey 'Notice:' ) No errors detected.\n"
+if test $EXIT -eq 0; then
+  echo "${NOTICE_PREFIX}No errors detected." >&2
 fi
 
-exit ${EXIT}
+exit $EXIT
