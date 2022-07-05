@@ -7,6 +7,11 @@ tags:
   - rank-restricted
   - tournament seed
   - tournament seeding
+  - système de pondération des badges
+  - restriction de rang
+  - rang restreint
+  - seed de tournoi
+  - seeding de tournoi
 ---
 
 # Badge-weighted seeding
