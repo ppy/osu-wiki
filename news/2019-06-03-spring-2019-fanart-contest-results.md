@@ -111,5 +111,3 @@ We'd like to offer a huge thank you to all the artists who chose to participate 
 From all of us here at the osu!team, we hope you enjoy(ed) your Spring this year, and look forward to the next! We'll be back with another seasonal Fan Art contest later on in the year.
 
 —Ephemeral
-
-

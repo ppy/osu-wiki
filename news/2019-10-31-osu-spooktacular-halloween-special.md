@@ -143,4 +143,3 @@ We'll be back later in November to kick things off for the Winter Fan Art contes
 Until then, stay spooky and have fun!
 
 —Ephemeral
-

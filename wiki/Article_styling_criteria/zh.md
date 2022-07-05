@@ -599,9 +599,9 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 **赋值风格：**
 
 ```markdown
-![][flag_AU]
+::{ flag="AU" }::
 
-[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
+
 ```
 
 如果图片仅被引用一次，则必须使用前者。而后者必须把变量赋值放在文章的结尾处。

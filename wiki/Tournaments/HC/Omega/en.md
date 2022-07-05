@@ -8,7 +8,7 @@ tags:
 
 ![HCΩ logo](img/banner.jpg)
 
-The **Harumachi Cup Ω** (***HCΩ***) is a worldwide single-elimination osu! tournament hosted by ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680). The tournament is completely comprised of the song *Harumachi Clover* in various remixes done by individuals in the osu! community and through osu!'s Featured Artist program. This is the third instalment of the Harumachi Cup series.
+The **Harumachi Cup Ω** (***HCΩ***) is a worldwide single-elimination osu! tournament hosted by ::{ flag="GB" }:: [chromb](https://osu.ppy.sh/users/10238680). The tournament is completely comprised of the song *Harumachi Clover* in various remixes done by individuals in the osu! community and through osu!'s Featured Artist program. This is the third instalment of the Harumachi Cup series.
 
 ## Tournament schedule
 
@@ -36,15 +36,15 @@ Harumachi Cup Ω is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![][flag_GB] [Hubz](https://osu.ppy.sh/users/10379965), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Guest mapper | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_TR] [Orkay](https://osu.ppy.sh/users/9321674) |
-| Streamer | ![][flag_GB] [Hubz](https://osu.ppy.sh/users/10379965) |
-| Commentator | ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639) |
-| Designer | ![][flag_GB] [Hubz](https://osu.ppy.sh/users/10379965) |
-| Outreach/Consultant | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Referee | ![][flag_US] [Blushing](https://osu.ppy.sh/users/5927823), ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680), ![][flag_ZA] [KaedeSnowyyy](https://osu.ppy.sh/users/18323026), ![][flag_EE] [megahello](https://osu.ppy.sh/users/11155994), ![][flag_VN] [My Angel Chino](https://osu.ppy.sh/users/20547597) |
-| Statistician | ![][flag_GB] [chromb](https://osu.ppy.sh/users/10238680) |
-| Wiki editor | ![][flag_US] [Blushing](https://osu.ppy.sh/users/5927823) |
+| Organiser | ::{ flag="GB" }:: [chromb](https://osu.ppy.sh/users/10238680), ::{ flag="GB" }:: [Hubz](https://osu.ppy.sh/users/10379965), ::{ flag="GB" }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
+| Guest mapper | ::{ flag="US" }:: [Nao Tomori](https://osu.ppy.sh/users/5364763), ::{ flag="FR" }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag="TR" }:: [Orkay](https://osu.ppy.sh/users/9321674) |
+| Streamer | ::{ flag="GB" }:: [Hubz](https://osu.ppy.sh/users/10379965) |
+| Commentator | ::{ flag="GB" }:: [chromb](https://osu.ppy.sh/users/10238680), ::{ flag="GB" }:: [Teezel](https://osu.ppy.sh/users/7528639) |
+| Designer | ::{ flag="GB" }:: [Hubz](https://osu.ppy.sh/users/10379965) |
+| Outreach/Consultant | ::{ flag="GB" }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
+| Referee | ::{ flag="US" }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag="GB" }:: [chromb](https://osu.ppy.sh/users/10238680), ::{ flag="ZA" }:: [KaedeSnowyyy](https://osu.ppy.sh/users/18323026), ::{ flag="EE" }:: [megahello](https://osu.ppy.sh/users/11155994), ::{ flag="VN" }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) |
+| Statistician | ::{ flag="GB" }:: [chromb](https://osu.ppy.sh/users/10238680) |
+| Wiki editor | ::{ flag="US" }:: [Blushing](https://osu.ppy.sh/users/5927823) |
 
 ## Links
 
@@ -176,11 +176,3 @@ There are 3 divisions in this tournament: Qualifiers, Group heats, and a single-
 5. There are **no** bans.
 6. There are **no** warmups. Be prepared.
 7. 1v1 bracket only: in case of a tie, the tiebreaker will be played. See [rule 6 of the general rules](#general) for more details.
-
-[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
-[flag_ZA]: /wiki/shared/flag/ZA.gif "South Africa"

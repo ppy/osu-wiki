@@ -760,7 +760,7 @@ Bilder dürfen nicht Teil eines Linktextes sein.
 Flaggensymbole neben Links zu Benutzern müssen vom Linktext getrennt sein. Siehe folgendes Beispiel:
 
 ```markdown
-![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+::{ flag="AU" }:: [peppy](https://osu.ppy.sh/users/2)
 ```
 
 ### Flaggensymbole

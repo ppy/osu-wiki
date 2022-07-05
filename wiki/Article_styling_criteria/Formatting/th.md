@@ -621,9 +621,9 @@ https://osu.ppy.sh/beatmapsets/{ID ของ บีทแมพ}
 **รูปแบบการใช้การอ้างอิง:**
 
 ```markdown
-![][flag_AU]
+::{ flag="AU" }::
 
-[flag_AU]: /wiki/shared/flag/AU.gif "ออสเตรเลีย"
+
 ```
 
 รูปภาพควรใช้รูปแบบการเชื่อมโยงแบบอินไลน์ การอ้างอิงไปยังลิงก์อ้างอิงจะต้องอยู่ที่ด้านล่างของบทความ
@@ -733,7 +733,7 @@ jpeg-recompress -am smallfry <input> <output>
 ไอคอนธงข้างลิงก์ผู้ใช้ต้องแยกจากข้อความลิงก์ ตามตัวอย่างต่อไปนี้:
 
 ```markdown
-![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+::{ flag="AU" }:: [peppy](https://osu.ppy.sh/users/2)
 ```
 
 ### ไอคอนธง

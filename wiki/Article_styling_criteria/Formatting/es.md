@@ -753,7 +753,7 @@ Las imágenes no deberán ser parte del texto en un enlace.
 Los iconos de bandera junto al usuario deberán estar separados del texto del enlace. Véase el siguiente ejemplo:
 
 ```markdown
-![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+::{ flag="AU" }:: [peppy](https://osu.ppy.sh/users/2)
 ```
 
 ### Iconos de banderas

@@ -77,5 +77,3 @@ Keep your eyes and ears peeled for more details on upcoming releases — and res
 We'll let you figure out what those might be!
 
 —Ephemeral
-
-

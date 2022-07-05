@@ -53,4 +53,3 @@ Congratulations to Twitter user @WitherStar321 who had the solution for our phon
 We'll be back next week with another absurdly talented artist in the wings, so stay tuned to the [@osugame Twitter](https://twitter.com/osugame) for more pre-release hints and all that jazz. No, that's not a hint.
 
 —Ephemeral
-

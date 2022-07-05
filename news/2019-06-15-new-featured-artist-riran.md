@@ -57,5 +57,3 @@ As an extra note, you may see a few more releases from us over the coming weeks 
 Keep your eyes and ears peeled!
 
 —Ephemeral
-
-

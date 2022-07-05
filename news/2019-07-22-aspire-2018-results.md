@@ -71,5 +71,3 @@ Someone new and brave with a myriad of fresh ideas has stepped up to the plate a
 More details on this will be forthcoming as things develop. Keep your eyes and ears peeled!
 
 —Ephemeral
-
-

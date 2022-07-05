@@ -751,7 +751,7 @@ Les images ne doivent pas faire partie du texte d'un lien.
 Les icônes de drapeau situées à côté des liens utilisateur doivent être séparées du texte du lien. Voir l'exemple suivant :
 
 ```markdown
-![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+::{ flag="AU" }:: [peppy](https://osu.ppy.sh/users/2)
 ```
 
 ### Icônes de drapeaux

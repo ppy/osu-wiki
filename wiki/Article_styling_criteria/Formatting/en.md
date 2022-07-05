@@ -764,7 +764,7 @@ Images must not be part of a link text.
 Flag icons next to user links must be separate from the link text. See the following example:
 
 ```markdown
-![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+::{ flag="AU" }:: [peppy](https://osu.ppy.sh/users/2)
 ```
 
 ### Flag icons
