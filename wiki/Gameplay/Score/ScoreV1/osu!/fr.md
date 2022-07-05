@@ -2,7 +2,7 @@
 
 *Voir aussi: [système de jugement de osu!](/wiki/Gameplay/Judgement/osu!)*
 
-En **ScoreV1**, chacun des types d'objets d'osu! est noté de manière légèrement différente. Cependant, le score total est une simple somme de points attribués pour chaque objet individuel dans le beatmap.
+En **ScoreV1**, chacun des types d'objets d'osu! est noté de manière légèrement différente. Cependant, le score total est une simple somme des points attribués pour chaque objet individuel dans la beatmap.
 
 Les règles de notation de chaque type d'objet individuel sont décrites dans les sections ci-dessous.
 
@@ -21,15 +21,15 @@ où:
 
 ### Multiplicateur de difficulté
 
-Le **multiplicateur de difficulté** correspond à une ancienne version du star rating pour le beatmap en cours de lecture. Il peut être calculé à l'aide de la formule suivante:
+Le **multiplicateur de difficulté** correspond à une ancienne version du star rating pour la beatmap en cours de lecture. Il peut être calculé à l'aide de la formule suivante :
 
 `Difficulty multiplier = Round((HP Drain + Circle Size + Overall Difficulty + Clamp(Hit object count / Drain time in seconds * 8, 0, 16)) / 38 * 5)`
 
-Notez que les mods (comme Hard Rock ou Easy, qui change la taille des cercles par exemple) n'affectent pas le multiplicateur de difficulté, car les valeurs originales des variables sont toujours utilisées dans la formule ci-dessus, quels que soient les mods activés.
+Notez que les modes (comme Hard Rock ou Easy, qui changent la taille des cercles par exemple) n'affectent pas le multiplicateur de difficulté, car les valeurs originales des variables sont toujours utilisées dans la formule ci-dessus, quels que soient les modes activés.
 
 ## Sliders
 
-Chaque slider dans son ensemble produit un jugement de 50, 100 ou 300, basé sur la proportion de parties de slider touchées (à savoir, le début du slider, la fin du slider, les tics du slider et les répétitions du slider). Ce jugement est converti en une valeur de score en utilisant la même méthode que celle utilisée pour les cercles.
+Chaque slider dans son ensemble produit un jugement de 50, 100 ou 300, basé sur la proportion de parties de slider touchées (à savoir le début du slider, la fin du slider, les tics du slider et les répétitions du slider). Ce jugement est converti en une valeur de score en utilisant la même méthode que celle utilisée pour les cercles.
 
 De plus, les éléments du slider accordent des points de manière indépendante, sans être affectés par des bonus ou des multiplicateurs :
 

@@ -23,13 +23,13 @@
 
 ### Sliders
 
-Les sliders sont composés de plusieurs parties : la début du slider, la fin du slider, les ticks du slider et les répétitions du slider. Le slider dans son ensemble est jugé en fonction du nombre de parties du slider que le joueur a touché, comme indiqué ci-dessous :
+Les sliders sont composés de plusieurs parties : la début du slider, la fin du slider, les ticks du slider et les répétitions du slider. Le slider dans son ensemble est jugé en fonction du nombre de ses parties que le joueur a touché, comme indiqué ci-dessous :
 
 - 300: Le joueur a réussi à toucher toutes les parties du slider.
 - 100: Le joueur a au moins touché la moitié des parties du slider.
 - 50: Le joueur a réussi à toucher au moins une des parties du slider.
 - Miss: Le joueur n'a touché aucune des parties du slider.
-- Si le [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) est actif, la précision à laquel le joueur touche le début du slider est également prise en compte dans le jugement de l'ensemble du slider:
+- Si le [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) est actif, la précision avec laquelle le joueur touche le début du slider est également prise en compte dans le jugement de l'ensemble du slider:
   - Obtenir un 300 sur un slider nécessite d'obtenir un jugement de 300 sur le début du slider.
   - Obtenir un 100 sur un slider nécessite d'obtenir un jugement de 100 ou mieux sur le début de slider.
 
@@ -41,7 +41,7 @@ Les parties du slider ont également une influence supplémentaire sur le [combo
 
 ### Spinners
 
-Chaque spinner a un nombre déterminé de tours nécessaires pour le compléter. Ce nombre dépent de l[overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) de la beatmap. Les critères de jugement pour une spinner dans son ensemble sont les suivants:
+Chaque spinner a un nombre déterminé de tours nécessaires pour le compléter. Ce nombre dépend de l[overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) de la beatmap. Les critères de jugement pour un spinner dans son ensemble sont les suivants:
 
 - 300: Le joueur a réussi à effectuer le nombre de tours requis pour la complétion, ou plus.
 - 100: Le joueur a effectué un tour de moins que le nombre requis.
@@ -52,6 +52,6 @@ Pour certains spinners très courts, le nombre de rotations nécessaires est en 
 
 ## Histoire
 
-L'algorithme de jugement du spinner a été modifié de manière significative dans le [20190510.2 Cutting Edge release](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.2). Avant ce changement, il était beaucoup plus difficile d'obtenir des jugements sans erreur, car la différence entre un 50 et un 100, ainsi qu'entre un 100 et un 300, était égale à la moitié d'un tour. Certains beatmaps comportaient même des spinners qui ne pouvaient jamais être jugés avec un 300, car ils étaient trop courts pour être complétés entièrement.
+L'algorithme de jugement du spinner a été modifié de manière significative dans le [20190510.2 Cutting Edge release](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.2). Avant ce changement, il était beaucoup plus difficile d'obtenir des jugements sans erreur, car la différence entre un 50 et un 100, ainsi qu'entre un 100 et un 300, était égale à la moitié d'un tour. Certaines beatmaps comportaient même des spinners qui ne pouvaient jamais être jugés avec un 300, car ils étaient trop courts pour être complétés entièrement.
 
 Les replays effectuées avant le 10 mai 2019 utiliseront cette ancienne méthode de notation des spinners plutôt que celle actuellement utilisé.
