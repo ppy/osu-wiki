@@ -321,7 +321,7 @@ Notes:
 
 ![](img/hitcircleoverlay.png)
 
-_For full details, see [hitcircleoverlay.png](https://osu.ppy.sh/wiki/Skinning/osu%21#hit-circles)._
+_For full details, see [hitcircleoverlay.png](/wiki/Skinning/osu%21#hit-circles)._
 
 Notes:
 
@@ -335,7 +335,7 @@ Notes:
 
 ![](img/sliderstartcircleoverlay.png)
 
-_For full details, see [sliderstartcircleoverlay.png](https://osu.ppy.sh/wiki/Skinning/osu%21#hit-circles)._
+_For full details, see [sliderstartcircleoverlay.png](/wiki/Skinning/osu%21#hit-circles)._
 
 Notes:
 
@@ -349,7 +349,7 @@ Notes:
 
 ![](img/sliderstartcircleoverlay.png)
 
-_For full details, see [sliderendcircleoverlay.png](https://osu.ppy.sh/wiki/Skinning/osu%21#hit-circles)._
+_For full details, see [sliderendcircleoverlay.png](/wiki/Skinning/osu%21#hit-circles)._
 
 Notes:
 

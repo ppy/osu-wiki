@@ -243,7 +243,7 @@ Notes:
   - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
 - Also used for `sliderstartcircleoverlay` and/or `sliderendcircleoverlay` if not skinned.
 - Should be a circle.
-- This element was animatable in the past. For full details, see [skinning history](https://osu.ppy.sh/wiki/Skinning/History).
+- This element was animatable in the past. For full details, see [skinning history](/wiki/Skinning/History).
 
 ---
 
@@ -329,7 +329,7 @@ Notes:
 - Overrides the `hitcircle.png` image for the start of the slider.
 - `sliderstartcircle.png` is required for this to work.
 - Should be a circle.
-- This element was animatable in the past. For full details, see [skinning history](https://osu.ppy.sh/wiki/Skinning/History).
+- This element was animatable in the past. For full details, see [skinning history](/wiki/Skinning/History).
 
 ---
 
@@ -364,7 +364,7 @@ Notes:
 - Overrides the `hitcircle.png` image for the start of the slider.
 - `sliderendcircle.png` is required for this to work.
 - Should be a circle.
-- This element was animatable in the past. For full details, see [skinning history](https://osu.ppy.sh/wiki/Skinning/History).
+- This element was animatable in the past. For full details, see [skinning history](/wiki/Skinning/History).
 
 ---
 
