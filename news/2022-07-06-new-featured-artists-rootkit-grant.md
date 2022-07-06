@@ -6,7 +6,7 @@ date: 2022-07-06 10:00:00 +0000
 
 Two flagship members of the [**Monstercat**](https://osu.ppy.sh/beatmaps/artists/255) repertoire sail into our Featured Artist collection!
 
-![](/wiki/shared/news/2022-07-06-new-featured-artists-rootkit-grant/rootkit-grant-banner.png)
+![](/wiki/shared/news/2022-07-06-new-featured-artists-rootkit-grant/rootkit-grant-banner.jpg)
 
 **Rootkit** and **Grant** are both masters of their crafts. While **Rootkit** has a drum & bass throughline connecting all of his diverse tunes, **Grant** explores a number of electronic designs. Of course, both of their styles have already proven themselves to be perfect fits for the osu! community, through beatmaps like [Rootkit - Against The Sun (feat. Anna Yvette)](https://osu.ppy.sh/beatmapsets/340263) or [Grant - Starship](https://osu.ppy.sh/beatmapsets/609900)!
 
