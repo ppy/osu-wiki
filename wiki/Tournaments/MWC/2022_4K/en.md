@@ -121,7 +121,7 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The Qualifier pool contains 8 maps, all of which will use [FreeMod](/wiki/Gameplay/Game_modifier#freemod) rules.
+2. The Qualifier pool contains 8 maps, all of which will use [FreeMod](/wiki/Game_modifier#freemod) rules.
 3. Teams will have to play the mappool twice at a designated time. Their best combined score will be used for seeding.
 4. The mappool will be played in the order listed above.
 5. Each team must have 3 players for each map. They can be exchanged freely after a map is concluded.
@@ -164,7 +164,7 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 ### Mappool instructions
 
 1. There will be one mappool for each stage.
-2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](wiki/Gameplay/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
    - Round of 32: 13 beatmaps
