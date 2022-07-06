@@ -50,7 +50,7 @@ Too busy to play through some maps on your own? See how these songs translate to
 
 As soon as you're ready to start mapping (also known as *right now*), sort through [**Rootkit**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/280) and [**Grant**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/281)! This two-for-one deal won't come by often!
 
-In case you missed our [Tracks Updates news post](), we've also launched a new round of [**Featured Artist playlists**](/wiki/Featured_Artists/Featured_Artist_playlists)! Check those out in osu!(lazer) if you're at all curious about the long-term future of osu! (and maybe check out the [@osugame Twitter](https://twitter.com/osugame) if you're curious about the short term).
+In case you missed our [Featured Artist Track Updates newspost](https://osu.ppy.sh/home/news/2022-07-02-featured-artist-track-updates-summer-2022), we've also launched a new round of [**Featured Artist playlists**](/wiki/Featured_Artists/Featured_Artist_playlists)! Check those out in osu!(lazer) if you're at all curious about the long-term future of osu! (and maybe check out the [@osugame Twitter](https://twitter.com/osugame) if you're curious about the short term).
 
 We'll see you on Saturday for another artist announcement!
 
