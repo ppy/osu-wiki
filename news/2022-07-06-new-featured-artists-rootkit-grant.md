@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Featured Artist: Rootkit & Grant"
+title: "New Featured Artists: Rootkit & Grant"
 date: 2022-07-06 10:00:00 +0000
 ---
 
@@ -12,7 +12,7 @@ Two flagship members of the [**Monstercat**](https://osu.ppy.sh/beatmaps/artists
 
 We're working with *a lot* of artists through **Monstercat**, some of which have bigger tracklists than others. Because both of these lists are on the slimmer side, we've decided to pair them together in this announcement!
 
-That said, check out [**Rootkit**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/280) and [**Grant**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/281) for **6** new song additions!
+That said, check out [**Rootkit**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/280) and [**Grant**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/281) for a total of **6** new song additions!
 
 Too busy to play through some maps on your own? See how these songs translate to mapping through this quick video, then check out the other previews below:
 
@@ -25,25 +25,25 @@ Too busy to play through some maps on your own? See how these songs translate to
 ### Rootkit - Against The Sun (feat. Anna Yvette)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/280/Against%20The%20Sun%2FRootkit%20-%20Against%20The%20Sun%20(feat.%20Anna%20Yvette).mp3" type="audio/mpeg">
 </audio>
 
 ### Grant - Starship
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/281/Starship%2FGrant%20-%20Starship.mp3" type="audio/mpeg">
 </audio>
 
 ### Rootkit - Do It
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/280/Do%20It%2FRootkit%20-%20Do%20It.mp3" type="audio/mpeg">
 </audio>
 
 ### Grant - Weapon (feat. Baum)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/281/Weapon/Grant%20-%20Weapon%20(feat.%20Baum).mp3" type="audio/mpeg">
 </audio>
 
 ---
