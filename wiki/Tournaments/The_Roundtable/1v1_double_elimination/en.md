@@ -15,8 +15,8 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place")| 3rd place profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place")| 2nd place profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3rd place profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2nd place profile badge |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") |  1st place profile badge |
 
 ## Participants
