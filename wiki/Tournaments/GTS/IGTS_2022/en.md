@@ -126,11 +126,11 @@ Both teams were formed by a vote held in the IGTS Discord server. Participants w
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Player |
+| Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] **[Seren58](https://osu.ppy.sh/users/15252950)** |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **[ekumea1123](https://osu.ppy.sh/users/9119501)** |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_JP] **[uone](https://osu.ppy.sh/users/5321719)** |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] **Japan A** (**[PetitRabbit](https://osu.ppy.sh/users/16716194)**, [KleCru\_Ranma](https://osu.ppy.sh/users/15868630), [kumakki](https://osu.ppy.sh/users/11680013), [MODE\_SP](https://osu.ppy.sh/users/15010333), [WhiteSakata](https://osu.ppy.sh/users/15400295)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_HK] **Hong Kong** (**[YonGin](https://osu.ppy.sh/users/7109317)**, [autofanboy](https://osu.ppy.sh/users/636114), [boeing747](https://osu.ppy.sh/users/5975021), [Tsuwagi](https://osu.ppy.sh/users/9313951)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] **United States B** (**[Vitamim](https://osu.ppy.sh/users/16700987)**, [Cm0nsters](https://osu.ppy.sh/users/10951981), [LuriCookie](https://osu.ppy.sh/users/9517612), [Morivv](https://osu.ppy.sh/users/14961676), [Nyahnny](https://osu.ppy.sh/users/16807933)) |
 
 ## Mappools
 
