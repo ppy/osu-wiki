@@ -34,7 +34,7 @@ For more details on these changes, please refer to the **[osu!mania 4K World Cup
 
 ## Prizes
 
-The osu!mania 4K World Cup offers a $2,000 cash prize pool and limited edition merch!
+The osu!mania 4K World Cup offers a minimum $2,000 cash prize pool and limited edition merch!
 Cash prize is subject to increase pending **[donations and support via Open Collective](https://opencollective.com/osu-tournaments/events/osu-mania-world-cup-4k-6c77ec5b8)**!
 
 - **1st:** 48% of the prize pool, single-run merch, profile badge, **osu!mania 4K Champion** user title for one year
