@@ -57,7 +57,7 @@ The Intermediate Global Taiko Showdown 2022 was run by various community members
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1525704)
-- [Discord server]
+- Discord server
   - [GTS server](https://discord.gg/3mGC3HB)
   - [IGTS server](https://discord.gg/a6PzzFz)
 - [GTS website](https://gtsosu.com/igts/home)
@@ -75,7 +75,7 @@ The Intermediate Global Taiko Showdown 2022 was run by various community members
 | ![][flag_AR] | **Argentina B** | **[Santi199](https://osu.ppy.sh/users/9346502)**, [Alan Reaven](https://osu.ppy.sh/users/5422789), [hivstex](https://osu.ppy.sh/users/14597896), [VIolE\_](https://osu.ppy.sh/users/19213988) |
 | ![][flag_BE] | **Belgium** | **[autolsfanboy](https://osu.ppy.sh/users/10742890)**, [Xenosi](https://osu.ppy.sh/users/6157735) |
 | ![][flag_BR] | **Brazil** | **[gabrielmuniz](https://osu.ppy.sh/users/4598907)**, [Mixtrik](https://osu.ppy.sh/users/7902567) |
-| ![][flag_CA] | **Canada** | **[dots\_](https://osu.ppy.sh/users/15429414)**, [Aidrestan](https://osu.ppy.sh/users/11928691), [DimplesRMe](https://osu.ppy.sh/users/13348268), [Imacow46](https://osu.ppy.sh/users/4366403), [Phoenixien](https://osu.ppy.sh/users/13254473)
+| ![][flag_CA] | **Canada** | **[dots\_](https://osu.ppy.sh/users/15429414)**, [Aidrestan](https://osu.ppy.sh/users/11928691), [DimplesRMe](https://osu.ppy.sh/users/13348268), [Imacow46](https://osu.ppy.sh/users/4366403), [Phoenixien](https://osu.ppy.sh/users/13254473) |
 | ![][flag_CL] | **Chile** | **[Xeroblic](https://osu.ppy.sh/users/8004633)**, [\[ w q l f \]](https://osu.ppy.sh/users/11966019), [Mr Benya kun](https://osu.ppy.sh/users/17429506) |
 | ![][flag_CN] | **China** | **[154s8a6](https://osu.ppy.sh/users/7562543)**, [imzk](https://osu.ppy.sh/users/2526837), [lolol727](https://osu.ppy.sh/users/15030466), [shenglinnn](https://osu.ppy.sh/users/10286018) |
 | ![][flag_CO] | **Colombia** | **[Carlosflow](https://osu.ppy.sh/users/11940767)**, [Alidrio73](https://osu.ppy.sh/users/23292800), [JhonDarkness](https://osu.ppy.sh/users/9116107), [ParraCharlie](https://osu.ppy.sh/users/18425848) |
@@ -611,7 +611,6 @@ Detailed statistics for this round can be found [here](https://gtsosu.com/igts/s
    - The same rules as normal matches apply regarding disconnections.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
