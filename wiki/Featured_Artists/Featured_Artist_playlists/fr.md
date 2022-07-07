@@ -20,17 +20,20 @@ Accédez aux playlists via le menu **play** sur osu!(lazer) et en filtrant par *
 
 ## Prix
 
-Les meilleurs joueurs de chaque playlist d'Artiste Associé sont récompensés par des badges de profil spécifiques au mode. Les critères exacts pour les meilleurs joueurs varient selon la liste de lecture.
+Les meilleurs joueurs de chaque playlist d'Artiste Associé sont récompensés par des badges de profil spécifiques au mode. Les critères exacts pour les meilleurs joueurs varient selon la playlist.
 
 
-![badge de profile d'Artistes Associés'](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) ![badge de profile d'Artistes Associés'](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) ![badge de profile d'Artistes Associés'](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) ![badge de profile d'Artistes Associés'](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png)
+
+![badge de profile d'Artistes Associés](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) ![badge de profile d'Artistes Associés](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) ![badge de profile d'Artistes Associés](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) ![badge de profile d'Artistes Associés](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png)
+
 
 ## Anciennes playlists
 
 ### Juin 2022
 
 - 8 beatmaps
-- [Hidden (HD)](/wiki/Game_modifier/Hidden) mode requis
+- [Hidden (HD)](/wiki/Game_modifier/Hidden) mod requis
+
 
 - [No Fail (NF)](/wiki/Game_modifier/No_Fail) et [Mirror (MR)](/wiki/Game_modifier/Mirror) modes libres
 
