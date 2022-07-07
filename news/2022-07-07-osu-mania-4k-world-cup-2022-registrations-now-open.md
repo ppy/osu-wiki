@@ -8,7 +8,7 @@ With the yearly osu!catch World Cup concluded, we hope you all saved some room f
 
 ![](/wiki/shared/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open/mwc4k-2022-banner.jpg)
 
-Each instalment brings something new to the table, and this year we are proud to announce that after receiving hundreds of requests, we are giving the community more ways to contribute to and support the osu! World Cups. Starting with the osu!mania 4K World Cup 2022, we are implementing an **[Open Collective page](https://opencollective.com/osu-tournaments/events/osu-mania-world-cup-4k-6c77ec5b)** to allow for community donations which will directly increase the prize pool for the top 3 teams!
+Each instalment brings something new to the table, and this year we are proud to announce that after receiving hundreds of requests, we are giving the community more ways to contribute to and support the osu! World Cups. Starting with the osu!mania 4K World Cup 2022, we are utilising an **[Open Collective page](https://opencollective.com/osu-tournaments/events/osu-mania-world-cup-4k-6c77ec5b)** to allow for community donations which will directly increase the prize pool for the top 3 teams!
 
 If you're unfamiliar with Open Collective, it is a platform that allows us to coordinate the finances of the World Cups in a transparent way, and also allows users to help support the tournament in greater amounts outside of purchasing profile banners or subscribing to the osu!live Twitch channel. You can do any one (or all) of these things if you want, they'll all still go towards the tournament!
 
@@ -35,7 +35,7 @@ For more details on these changes, please refer to the **[osu!mania 4K World Cup
 ## Prizes
 
 The osu!mania 4K World Cup offers a minimum $2,000 cash prize pool and limited edition merch!
-The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/contribute/prize-pool-osu-mania-4k-world-cup-2022-42998)**!
+The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-world-cup-4k-6c77ec5b)**!
 
 - **1st:** 48% of the prize pool, single-run merch, profile badge, **osu!mania 4K Champion** user title for one year
 - **2nd:** 32% of the prize pool, single-run merch, profile badge
