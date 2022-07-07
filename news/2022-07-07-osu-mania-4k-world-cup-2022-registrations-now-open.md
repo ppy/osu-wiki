@@ -6,7 +6,7 @@ date: 2022-07-07 10:00:00 +0000
 
 With the yearly osu!catch World Cup concluded, we hope you all saved some room for rice and noodles as the main course! The osu!mania 4K World Cup 2022 is now here!
 
-![](/wiki/shared/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open/mwc4k-2022-banner@2x.jpg)
+![](/wiki/shared/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open/mwc4k-2022-banner.jpg)
 
 Each instalment brings something new to the table, and this year we are proud to announce that after receiving hundreds of requests, we are giving the community more ways to contribute to and support the osu! World Cups. Starting with the osu!mania 4K World Cup 2022, we are implementing an **[Open Collective page](https://opencollective.com/osu-tournaments/events/osu-mania-world-cup-4k-6c77ec5b)** to allow for community donations which will directly increase the prize pool for the top 3 teams!
 
