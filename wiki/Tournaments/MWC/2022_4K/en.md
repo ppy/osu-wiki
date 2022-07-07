@@ -29,7 +29,7 @@ The **osu!mania 4K World Cup 2022** (***MWC 4K 2022***) is an upcoming country-b
 ## Prizes
 
 The osu!mania 4K World Cup 2022 offers a minimum $2,000 cash prize pool and limited edition merch.
-Cash prize is subject to increase pending **[donations and support via Open Collective](https://opencollective.com/osu-tournaments/events/osu-mania-world-cup-4k-6c77ec5b)**!
+The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/contribute/prize-pool-osu-mania-4k-world-cup-2022-42998)**!
 
 | Placing | Prizes |
 | :-: | :-- |
