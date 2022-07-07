@@ -454,7 +454,7 @@ Sunday, 3 April 2022:
 | Malaysia ![][flag_MY] | 0 | **5** | ![][flag_JP] **Japan A** | [#1](https://osu.ppy.sh/community/matches/99373232) |
 | **Germany A** ![][flag_DE] | **5** | 4 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/99375458) |
 | Portugal ![][flag_PT] | 0 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/99376661) |
-| **China** ![][flag_CN] | **0** | -1 | ![][flag_Pl] Poland | *win by default* |
+| **China** ![][flag_CN] | **0** | -1 | ![][flag_PL] Poland | *win by default* |
 | Vietnam A ![][flag_VN] | 0 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/99377879) |
 | **France** ![][flag_FR] | **5** | 3 | ![][flag_DE] Germany B | [#1](https://osu.ppy.sh/community/matches/99379417) |
 | United Kingdom B ![][flag_GB] | 0 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/99381265) |
