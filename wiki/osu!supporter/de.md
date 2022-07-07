@@ -90,7 +90,7 @@ osu! bietet eine Lockerung der Grenzwerte für verschiedene Online-Features für
 | Online-Beatmap-Favoriten | 100 | 1000 |
 | Anzahl der Freunde | 250 | 500 |
 
-Des Weiteren wird Inhabern von osu!supporter weniger strenge Download-Beschränkungen gewährt.
+Des Weiteren werden Besitzern von osu!supporter weniger strenge Download-Beschränkungen gewährt.
 
 ### Extra skinnbare Elemente
 
