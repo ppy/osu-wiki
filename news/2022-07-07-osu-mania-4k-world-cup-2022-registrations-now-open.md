@@ -8,7 +8,13 @@ With the yearly osu!catch World Cup concluded, we hope you all saved some room f
 
 ![](/wiki/shared/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open/mwc4k-2022-banner@2x.jpg)
 
-Each instalment brings something new to the table. This year we are proud to announce that after receiving hundreds of requests, we are giving the community more ways to contribute to and support the osu! World Cups. Starting with the osu!mania 4K World Cup 2022, we are implementing an **[opencollective page](https://opencollective.com/osu-tournaments)** to allow for community donations which will directly increase the prize pool for the top 3 teams!
+Each instalment brings something new to the table, and this year we are proud to announce that after receiving hundreds of requests, we are giving the community more ways to contribute to and support the osu! World Cups. Starting with the osu!mania 4K World Cup 2022, we are implementing an **[Open Collective page](https://opencollective.com/osu-tournaments)** to allow for community donations which will directly increase the prize pool for the top 3 teams!
+
+If you're unfamiliar with Open Collective, it is a platform that allows us to coordinate the finances of the World Cups in a transparent way, and also allows users to help support the tournament in greater amounts outside of purchasing profile banners or subscribing to the osu!live Twitch channel. You can do any one (or all) of these things if you want, they'll all still go towards the tournament!
+
+You can donate directly to the prize pool of the upcoming World Cup of your choosing in a lump sum with or without an Open Collective account, and you can even leave a little message of support that will be displayed beneath your contribution, if you like.
+
+*Please note that any "tips" made during the payment process go to Open Collective and not to us!*
 
 For more details on these changes, please refer to the **[osu!mania 4K World Cup 2022 wiki article](/wiki/Tournaments/MWC/2022_4K)**. You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1606949?n=1)** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
