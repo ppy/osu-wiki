@@ -40,8 +40,6 @@ tags:
 - [1v1 double elimination tournament wiki article](1v1_double_elimination)
 - [Livestream](https://twitch.tv/btmc)
 
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
