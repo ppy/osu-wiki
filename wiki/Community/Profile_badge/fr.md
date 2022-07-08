@@ -12,11 +12,11 @@ tags:
 # Badge de profil
 
 *À ne pas confondre avec les badges de groupe, qui apparaissent aussi sur le profil de l'utilisateur.*\
-*Pour les règles concernant l'utilisation de badges en guise de récompenses de tournois, voir : [Support officiel aux tournois § Badges de profil](/wiki/Tournaments/Official_support#profile-badges)*
+*Pour les règles concernant l'utilisation de badges en guise de récompenses de tournois, voir : [Support officiel aux tournois § Badges de profil](/wiki/Tournaments/Official_support#badges-de-profil)*
 
 ![Capture d'écran des badges de HappyStick sur le site web](img/HappyStick.png "Les badges de profil s'affichent sous l'avatar et le nom d'utilisateur sur le site web.")
 
-Les **badges de profil** (communément appelés *badges*) sont de petits éléments graphiques sur les pages de profil de l'utilisateur attribués pour diverses réalisations. Ils sont souvent donnés sous forme de récompenses de [tournois](/wiki/Tournaments) et [concours](/wiki/Contests), mais ont d'autres utilisations, comme des récompenses pour des [Contributeurs de la communauté](/wiki/People/Community_Contributors), les [Beatmap Spotlights](/wiki/Beatmap_Spotlights#rewards), et une adhésion prolongée à un groupe.
+Les **badges de profil** (communément appelés *badges*) sont de petits éléments graphiques sur les pages de profil de l'utilisateur attribués pour diverses réalisations. Ils sont souvent donnés sous forme de récompenses de [tournois](/wiki/Tournaments) et [concours](/wiki/Contests), mais ont d'autres utilisations, comme des récompenses pour des [Contributeurs de la communauté](/wiki/People/Community_Contributors), les [Beatmap Spotlights](/wiki/Beatmap_Spotlights#récompenses), et une adhésion prolongée à un groupe.
 
 En passant la souris sur un badge, une info-bulle s'affiche avec plus de détails sur la raison pour laquelle le badge a été attribué.
 
