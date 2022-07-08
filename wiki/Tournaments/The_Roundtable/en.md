@@ -36,9 +36,3 @@ tags:
 ## Links
 
 - [Livestream](https://twitch.tv/btmc)
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
