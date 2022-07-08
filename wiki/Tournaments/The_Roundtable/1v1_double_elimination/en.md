@@ -56,7 +56,7 @@ The matches will proceed as follows:
 
 - Two players will join a multiplayer room with supervision from an on-site tournament organizer.
 - When both players are in the room and ready, the match will start.
-- When the match starts, both users will do a `!roll` to determine who picks first and bans second.
+- When the match stats, both users will `!roll` to determine the pick and ban order. The roll winner will choose either the pick order or the ban order, and roll loser will choose the remaining order. Bans will be done in ABBA order.
 - Each player bans a Tiebreaker with an on-site tournament organizer, and the remaining Tiebreaker is selected. If both players ban the same Tiebreaker, the tournament organizer will `!roll 2` to select the Tiebreaker.
 - Following the first map, the loser of the previous map will pick the next map until one player reaches the required amount of points to win the match.
 - If both players are at match point, the Tiebreaker will be played.
