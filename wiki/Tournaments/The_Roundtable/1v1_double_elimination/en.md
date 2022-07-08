@@ -23,28 +23,27 @@ tags:
 
 | User |
 | :-- |
-| ![][flag_AU] [sakamata1](https://osu.ppy.sh/users/7562902) |
-| ![][flag_US] [Kariyu](https://osu.ppy.sh/users/4733121) |
-| ![][flag_CA] [RyuK](https://osu.ppy.sh/users/6304246) |
-| ![][flag_US] [Trail Mix](https://osu.ppy.sh/users/3328742) |
-| ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) |
-| ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
-| ![][flag_US] [Utami](https://osu.ppy.sh/users/7512553) |
-| ![][flag_US] [Gurbzy](https://osu.ppy.sh/users/12970596) |
-| ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) |
-| ![][flag_US] [headstack](https://osu.ppy.sh/users/10322186) |
-| ![][flag_US] [Mlaw](https://osu.ppy.sh/users/3126596) |
-| ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603) |
-| ![][flag_US] [Sytho](https://osu.ppy.sh/users/4175698) |
-| ![][flag_US] [KoaLeahq](https://osu.ppy.sh/users/4321876) |
-| ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
-| ![][flag_CA] [Rupertion](https://osu.ppy.sh/users/5774823) |
+| ::{ flag=AU }:: [sakamata1](https://osu.ppy.sh/users/7562902) |
+| ::{ flag=US }:: [Kariyu](https://osu.ppy.sh/users/4733121) |
+| ::{ flag=CA }:: [RyuK](https://osu.ppy.sh/users/6304246) |
+| ::{ flag=US }:: [Trail Mix](https://osu.ppy.sh/users/3328742) |
+| ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) |
+| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553) |
+| ::{ flag=US }:: [Gurbzy](https://osu.ppy.sh/users/12970596) |
+| ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445) |
+| ::{ flag=US }:: [headstack](https://osu.ppy.sh/users/10322186) |
+| ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596) |
+| ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603) |
+| ::{ flag=US }:: [Sytho](https://osu.ppy.sh/users/4175698) |
+| ::{ flag=US }:: [KoaLeahq](https://osu.ppy.sh/users/4321876) |
+| ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) |
+| ::{ flag=CA }:: [Rupertion](https://osu.ppy.sh/users/5774823) |
 
 ## Ruleset
 
 ### General rules
 
-- This tournament is an in-person 1v1 double-elimination osu! tournament consisting of 16 players.
 - Beatmap scoring will be based on Score V2.
 - Round of 16 and Quarterfinals will be played as BO9 with 1 ban per player.
 - Semifinals and Finals will be played as BO11 with 2 bans per player.
@@ -60,7 +59,3 @@ The matches will proceed as follows:
 - Each player bans a Tiebreaker with an on-site tournament organizer, and the remaining Tiebreaker is selected. If both players ban the same Tiebreaker, the tournament organizer will `!roll 2` to select the Tiebreaker.
 - Following the first map, the loser of the previous map will pick the next map until one player reaches the required amount of points to win the match.
 - If both players are at match point, the Tiebreaker will be played.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

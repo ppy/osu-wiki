@@ -9,7 +9,7 @@ tags:
 
 ![The Roundtable banner](/wiki/shared/news/2022-07-08-the-roundtable/roundtable_banner.png)
 
-**The Roundtable** is a 16 player in-person invitational event featuring various tournaments throughout its 3 day duration. The event is hosted in Los Angeles by ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691).
+**The Roundtable** is a 16 player in-person invitational event featuring various tournaments throughout its 3 day duration. The event is hosted in Los Angeles by ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691).
 
 ## Tournaments
 
@@ -26,12 +26,12 @@ tags:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_US] [BTMC](https://osu.ppy.sh/users/6177263) |
-| Project Manager, Referee | ![][flag_US] [Kroytz](https://osu.ppy.sh/users/2339768), ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |
-| Production | ![][flag_RU] [Deadrote](https://osu.ppy.sh/users/9995116), ![][flag_GB] [Jame](https://osu.ppy.sh/users/14091007), Albert Chang |
-| Designer | ![][flag_US] [Flezlin](https://osu.ppy.sh/users/3696423), ![][flag_US] [joiechii](https://osu.ppy.sh/users/9995116) |
-| Map Pooler | ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_US] [D I O](https://osu.ppy.sh/users/3958619), ![][flag_FR] [PLAYOSUDROID](https://osu.ppy.sh/users/8642284), ![][flag_US] [fum0](https://osu.ppy.sh/users/3715823) ![][flag_FR] [Ekoro](https://osu.ppy.sh/users/284905) |
-| Map Pool Playtester | ![][flag_PH] [BronyPH](https://osu.ppy.sh/users/1492995) |
+| Host | ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/6177263) |
+| Project Manager, Referee | ::{ flag=US }:: [Kroytz](https://osu.ppy.sh/users/2339768), ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |
+| Production | ::{ flag=RU }:: [Deadrote](https://osu.ppy.sh/users/9995116), ::{ flag=GB }:: [Jame](https://osu.ppy.sh/users/14091007), Albert Chang |
+| Designer | ::{ flag=US }:: [Flezlin](https://osu.ppy.sh/users/3696423), ::{ flag=US }:: [joiechii](https://osu.ppy.sh/users/9995116) |
+| Map Pooler | ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=FR }:: [PLAYOSUDROID](https://osu.ppy.sh/users/8642284), ::{ flag=US }:: [fum0](https://osu.ppy.sh/users/3715823) ::{ flag=FR }:: [Ekoro](https://osu.ppy.sh/users/284905) |
+| Map Pool Playtester | ::{ flag=PH }:: [BronyPH](https://osu.ppy.sh/users/1492995) |
 
 ## Links
 
