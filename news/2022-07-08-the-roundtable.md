@@ -51,7 +51,7 @@ So who's coming to this thing anyways?
 
 **15** of North America's strongest competitors have been invited, including former and current [OWC](/wiki/Tournaments/OWC) champions.
 
-Take a peak at everything at the full list below, including a special teaser reveal for osu!'s rank 1 player:
+Take a peek at everything at the full list below, including a special teaser reveal for osu!'s rank 1 player:
 
 ![](/wiki/shared/news/2022-07-08-the-roundtable/roundtable_players.jpg)
 
