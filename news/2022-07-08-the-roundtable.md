@@ -58,15 +58,15 @@ Take a peak at everything at the full list below, including a special teaser rev
 Oh, and [mrekk](https://osu.ppy.sh/users/7562902)'s here too.
 
 <div align="center">
-    <iframe width="95%" height="400" src="LINK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="95%" height="400" src="https://www.youtube.com/embed/gv0E-ToXzXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
 
 Want to see how [**The Roundtable**](/wiki/Tournaments/The_Roundtable) turns out? Every tournament and a bunch of small bonus events will be streamed on [BTMC](https://osu.ppy.sh/users/3171691)'s [Twitch channel](https://twitch.tv/BTMC)!
 
-The event features commentary from various content creators (and special guests who we'll reveal on stream!).
+The event features commentary from various content creators (and special guests who we'll reveal throughout the weekend!).
 
-Hope to see you there!
+Hope to see you in the stream!
 
 —pishifat, Kroytz
