@@ -8,7 +8,7 @@ date: 2022-07-08 10:00:00 +0000
 
 ![](/wiki/shared/news/2022-07-08-the-roundtable/roundtable_banner.png)
 
-While LAN events are nothing new to the osu! scene, [**The Roundtable**](/wiki/Tournaments/The_Roundtable) takes a different approach.
+While LAN events are nothing new to the osu! scene, [**The Roundtable**](/wiki/Tournaments/The_Roundtable) pushes boundaries with an incredibly stacked roster of players!
 
 This **3 day** event from July 8-10 features **3 different tournaments**, all streamed from [BTMC](https://osu.ppy.sh/users/3171691)'s [Twitch channel](https://twitch.tv/BTMC) with comfy couch commentary and personal interactions with everyone involved!
 

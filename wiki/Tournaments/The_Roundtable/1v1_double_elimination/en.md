@@ -21,24 +21,22 @@ tags:
 
 ## Participants
 
-| User |
-| :-- |
-| ::{ flag=AU }:: [sakamata1](https://osu.ppy.sh/users/7562902) |
-| ::{ flag=US }:: [Kariyu](https://osu.ppy.sh/users/4733121) |
-| ::{ flag=CA }:: [RyuK](https://osu.ppy.sh/users/6304246) |
-| ::{ flag=US }:: [Trail Mix](https://osu.ppy.sh/users/3328742) |
-| ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) |
-| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
-| ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553) |
-| ::{ flag=US }:: [Gurbzy](https://osu.ppy.sh/users/12970596) |
-| ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445) |
-| ::{ flag=US }:: [headstack](https://osu.ppy.sh/users/10322186) |
-| ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596) |
-| ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603) |
-| ::{ flag=US }:: [Sytho](https://osu.ppy.sh/users/4175698) |
-| ::{ flag=US }:: [KoaLeahq](https://osu.ppy.sh/users/4321876) |
-| ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) |
-| ::{ flag=CA }:: [Rupertion](https://osu.ppy.sh/users/5774823) |
+- ::{ flag=AU }:: [sakamata1](https://osu.ppy.sh/users/7562902)
+- ::{ flag=US }:: [Kariyu](https://osu.ppy.sh/users/4733121)
+- ::{ flag=CA }:: [RyuK](https://osu.ppy.sh/users/6304246)
+- ::{ flag=US }:: [Trail Mix](https://osu.ppy.sh/users/3328742)
+- ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650)
+- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
+- ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553)
+- ::{ flag=US }:: [Gurbzy](https://osu.ppy.sh/users/12970596)
+- ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445)
+- ::{ flag=US }:: [headstack](https://osu.ppy.sh/users/10322186)
+- ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596)
+- ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603)
+- ::{ flag=US }:: [Sytho](https://osu.ppy.sh/users/4175698)
+- ::{ flag=US }:: [KoaLeahq](https://osu.ppy.sh/users/4321876)
+- ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313)
+- ::{ flag=CA }:: [Rupertion](https://osu.ppy.sh/users/5774823)
 
 ## Ruleset
 
