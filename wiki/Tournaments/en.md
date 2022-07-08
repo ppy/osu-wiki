@@ -58,7 +58,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!catch World Cup 2019](CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_CL] Chile |
 | [osu!catch World Cup 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_US] United States |
 | [osu!catch World Cup 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ![][flag_KR] South Korea | ![][flag_HK] Hong Kong | ![][flag_US] United States |
-| [osu!catch World Cup 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | *TBD* | *TBD*  | *TBD* |
+| [osu!catch World Cup 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ![][flag_KR] South Korea | ![][flag_US] United States | ![][flag_CN] China |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -476,6 +476,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Vaf's Autumn Fiesta](VAF/1) | 2021-05-15 | 2021-07-11 | ![][flag_JP] [yu-k1\_](https://osu.ppy.sh/users/16347853) | ![][flag_HK] [J a c k y](https://osu.ppy.sh/users/8011704) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
+
+#### 4 Digit Catch World Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [4 Digit Catch World Cup 2022](4CWC/2022) | 2022-07-30 | 2022-09-11 | *TBD* | *TBD* | *TBD* |
 
 #### Catch French Beginner
 

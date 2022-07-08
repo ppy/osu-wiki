@@ -18,14 +18,14 @@ Here's how it turned out:
 
 | Rank | Beatmap | Judging | Musical representation (60) | Creativity (60) | Gameplay (60) | Limitation (30) | Total |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439466) by [Innovation](https://osu.ppy.sh/users/6304412) | [see details](https://mappersguild.com/contestresults?submission=606268ab6a56d154dccc5617) | 49 | 44 | 49 | 25 | **167** |
-| \#2 | [*Traveler \~stand aloof\~*](https://osu.ppy.sh/beatmapsets/1439562) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contestresults?submission=606268aa6a56d154dccc560b) | 44 | 45 | 41 | 24 | **154** |
-| \#3 | [*Melusia*](https://osu.ppy.sh/beatmapsets/1439439) by [Oriental](https://osu.ppy.sh/users/16142512) | [see details](https://mappersguild.com/contestresults?submission=606268a46a56d154dccc55e5) | 49 | 44 | 45 | 15 | **153** |
-| \#4 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439570) by [Acylica](https://osu.ppy.sh/users/1943309) | [see details](https://mappersguild.com/contestresults?submission=606268a96a56d154dccc5602) | 40 | 37 | 45 | 21 | **143** |
-| \#5 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439354) by [Sylas](https://osu.ppy.sh/users/3906405) | [see details](https://mappersguild.com/contestresults?submission=606268a46a56d154dccc55e3) | 42 | 41 | 39 | 12 | **134** |
-| \#6 | [*Traveler \~stand aloof\~*](https://osu.ppy.sh/beatmapsets/1439417) by [Elayue](https://osu.ppy.sh/users/6400861) | [see details](https://mappersguild.com/contestresults?submission=606268ae6a56d154dccc5633) | 35 | 33 | 42 | 18 | **128** |
-| \#7 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439453) by [- Frontier -](https://osu.ppy.sh/users/4314710) | [see details](https://mappersguild.com/contestresults?submission=606268a76a56d154dccc55f3) | 41 | 30 | 39 | 10 | **120** |
-| \#8 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439349) by [Flake](https://osu.ppy.sh/users/7627157) | [see details](https://mappersguild.com/contestresults?submission=606268af6a56d154dccc563e) | 37 | 36 | 33 | 13 | **119** |
+| \#1 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439466) by [Innovation](https://osu.ppy.sh/users/6304412) | [see details](https://mappersguild.com/contests/results?submission=606268ab6a56d154dccc5617) | 49 | 44 | 49 | 25 | **167** |
+| \#2 | [*Traveler \~stand aloof\~*](https://osu.ppy.sh/beatmapsets/1439562) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contests/results?submission=606268aa6a56d154dccc560b) | 44 | 45 | 41 | 24 | **154** |
+| \#3 | [*Melusia*](https://osu.ppy.sh/beatmapsets/1439439) by [Oriental](https://osu.ppy.sh/users/16142512) | [see details](https://mappersguild.com/contests/results?submission=606268a46a56d154dccc55e5) | 49 | 44 | 45 | 15 | **153** |
+| \#4 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439570) by [Acylica](https://osu.ppy.sh/users/1943309) | [see details](https://mappersguild.com/contests/results?submission=606268a96a56d154dccc5602) | 40 | 37 | 45 | 21 | **143** |
+| \#5 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439354) by [Sylas](https://osu.ppy.sh/users/3906405) | [see details](https://mappersguild.com/contests/results?submission=606268a46a56d154dccc55e3) | 42 | 41 | 39 | 12 | **134** |
+| \#6 | [*Traveler \~stand aloof\~*](https://osu.ppy.sh/beatmapsets/1439417) by [Elayue](https://osu.ppy.sh/users/6400861) | [see details](https://mappersguild.com/contests/results?submission=606268ae6a56d154dccc5633) | 35 | 33 | 42 | 18 | **128** |
+| \#7 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439453) by [- Frontier -](https://osu.ppy.sh/users/4314710) | [see details](https://mappersguild.com/contests/results?submission=606268a76a56d154dccc55f3) | 41 | 30 | 39 | 10 | **120** |
+| \#8 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439349) by [Flake](https://osu.ppy.sh/users/7627157) | [see details](https://mappersguild.com/contests/results?submission=606268af6a56d154dccc563e) | 37 | 36 | 33 | 13 | **119** |
 
 ### Winner
 
@@ -61,11 +61,11 @@ Here's the top 5 osu!taiko submissions:
 
 | Rank | Beatmap | Judging | Musical representation (80) | Creativity (80) | Gameplay (80) | Limitation (40) | Total |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439782) by [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | [see details](https://mappersguild.com/contestresults?submission=6062691e6a56d154dccc564b) | 66 | 60 | 62 | 36 | **224** |
-| \#2 | [*Melusia*](https://osu.ppy.sh/beatmapsets/1439869) by [Nifty](https://osu.ppy.sh/users/4956097) | [see details](https://mappersguild.com/contestresults?submission=606269236a56d154dccc5674) | 65 | 53 | 65 | 33 | **216** |
-| \#3 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1440121) by [3san](https://osu.ppy.sh/users/8050850) | [see details](https://mappersguild.com/contestresults?submission=6062691e6a56d154dccc5646) | 61 | 60 | 57 | 34 | **212** |
-| \#4 | [*Melusia*](https://osu.ppy.sh/beatmapsets/1440236) by [realy0_](https://osu.ppy.sh/users/8863359) | [see details](https://mappersguild.com/contestresults?submission=6062691f6a56d154dccc5658) | 59 | 60 | 56 | 32 | **207** |
-| \#5 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1440030) by [tasuke912](https://osu.ppy.sh/users/2774767) | [see details](https://mappersguild.com/contestresults?submission=606269226a56d154dccc566f) | 57 | 51 | 55 | 33 | **196** |
+| \#1 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1439782) by [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | [see details](https://mappersguild.com/contests/results?submission=6062691e6a56d154dccc564b) | 66 | 60 | 62 | 36 | **224** |
+| \#2 | [*Melusia*](https://osu.ppy.sh/beatmapsets/1439869) by [Nifty](https://osu.ppy.sh/users/4956097) | [see details](https://mappersguild.com/contests/results?submission=606269236a56d154dccc5674) | 65 | 53 | 65 | 33 | **216** |
+| \#3 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1440121) by [3san](https://osu.ppy.sh/users/8050850) | [see details](https://mappersguild.com/contests/results?submission=6062691e6a56d154dccc5646) | 61 | 60 | 57 | 34 | **212** |
+| \#4 | [*Melusia*](https://osu.ppy.sh/beatmapsets/1440236) by [realy0_](https://osu.ppy.sh/users/8863359) | [see details](https://mappersguild.com/contests/results?submission=6062691f6a56d154dccc5658) | 59 | 60 | 56 | 32 | **207** |
+| \#5 | [*Empuxa*](https://osu.ppy.sh/beatmapsets/1440030) by [tasuke912](https://osu.ppy.sh/users/2774767) | [see details](https://mappersguild.com/contests/results?submission=606269226a56d154dccc566f) | 57 | 51 | 55 | 33 | **196** |
 
 ### Winner
 
