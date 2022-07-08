@@ -17,7 +17,7 @@ This **3 day** event from July 8-10 features **3 different tournaments**, all st
 | Event | Timestamp |
 | --: | :-- |
 | [16 player battle royale](/wiki/Tournaments/The_Roundtable/16_player_battle_royale) | 2022-07-06 (21:00 UTC +0) |
-| [2v2 team tandem tournament](/wiki/Tournaments/The_Roundtable/2v2_tandem_tournament) | 2022-07-07 (18:00 UTC +0) |
+| [2v2 team tandem tournament](/wiki/Tournaments/The_Roundtable/2v2_team_tandem_tournament) | 2022-07-07 (18:00 UTC +0) |
 | [1v1 double elimination tournament](/wiki/Tournaments/The_Roundtable/1v1_double_elimination) | 2022-07-07 (22:00 UTC +0) |
 | [1v1 double elimination tournament](/wiki/Tournaments/The_Roundtable/1v1_double_elimination) (top 8) | 2022-07-08 (17:30 UTC +0) |
 
@@ -31,7 +31,7 @@ Once both groups have been narrowed down to a single player, the finalists will 
 
 ### 2v2 team tandem tournament
 
-The event's second day launches with an unorthodox [**2v2 team tandem tournament**](/wiki/Tournaments/The_Roundtable/2v2_tandem_tournament).
+The event's second day launches with an unorthodox [**2v2 team tandem tournament**](/wiki/Tournaments/The_Roundtable/2v2_team_tandem_tournament).
 
 Honestly speaking, this is more about having fun than competition. "Tandem" in this context means there will be **two players clicking circles on one setup** — one aiming and the other tapping!
 
@@ -51,7 +51,7 @@ So who's coming to this thing anyways?
 
 **15** of North America's strongest competitors have been invited, including former and current [OWC](/wiki/Tournaments/OWC) champions.
 
-Take a peek at everything at the full list below, including a special teaser reveal for osu!'s rank 1 player:
+Take a peak at everything at the full list below, including a special teaser reveal for osu!'s rank 1 player:
 
 ![](/wiki/shared/news/2022-07-08-the-roundtable/roundtable_players.jpg)
 
