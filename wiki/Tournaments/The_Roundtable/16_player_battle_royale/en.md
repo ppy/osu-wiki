@@ -1,6 +1,6 @@
 ---
 tags:
-  - The Round table
+  - TRT
 ---
 
 # The Roundtable 16 player battle royale

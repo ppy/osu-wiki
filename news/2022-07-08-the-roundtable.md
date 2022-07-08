@@ -15,11 +15,11 @@ This **3 day** event from July 8-10 features **3 different tournaments**, all st
 ## Schedule
 
 | Event | Timestamp |
-| --: | :-- |
-| [16 player battle royale](/wiki/Tournaments/The_Roundtable/16_player_battle_royale) | 2022-07-08 (21:00 UTC +0) |
-| [2v2 team tandem tournament](/wiki/Tournaments/The_Roundtable/2v2_team_tandem_tournament) | 2022-07-09 (18:00 UTC +0) |
-| [1v1 double elimination tournament](/wiki/Tournaments/The_Roundtable/1v1_double_elimination) | 2022-07-09 (22:00 UTC +0) |
-| [1v1 double elimination tournament](/wiki/Tournaments/The_Roundtable/1v1_double_elimination) (top 8) | 2022-07-10 (17:30 UTC +0) |
+| :-- | :-- |
+| [16 player battle royale](/wiki/Tournaments/The_Roundtable/16_player_battle_royale) | 2022-07-08 (21:00 UTC) |
+| [2v2 team tandem tournament](/wiki/Tournaments/The_Roundtable/2v2_team_tandem_tournament) | 2022-07-09 (18:00 UTC) |
+| [1v1 double elimination tournament](/wiki/Tournaments/The_Roundtable/1v1_double_elimination) | 2022-07-09 (22:00 UTC) |
+| [1v1 double elimination tournament](/wiki/Tournaments/The_Roundtable/1v1_double_elimination) (top 8) | 2022-07-10 (17:30 UTC) |
 
 ### 16 player battle royale
 
@@ -35,7 +35,7 @@ The event's second day launches with an unorthodox [**2v2 team tandem tournament
 
 Honestly speaking, this is more about having fun than competition. "Tandem" in this context means there will be **two players clicking circles on one setup** — one aiming and the other tapping!
 
-Players will form four groups of four and face off in a single elimination tournament -- until the last group remains as the victor.
+Players will form four groups of four and face off in a single elimination tournament — until the last group remains as the victor.
 
 ### 1v1 double elminiation tournament
 
@@ -43,7 +43,7 @@ The main event of **The Roundtable** is a high stakes [**1v1 double elimination 
 
 This tournament will last two days: The first day of matches will determine the Top 8 players, while the second day is reserved for illustrating the talents of the best players at **The Roundtable.**
 
-This classic 1v1 has the largest set of prizes, so expect to see players perform - in person - at the highest caliber.
+This classic 1v1 has the largest set of prizes, so expect to see players perform — in person — at the highest caliber.
 
 ## Players
 

@@ -14,7 +14,7 @@ tags:
 ## Tournaments
 
 | Event | Timestamp |
-| --: | :-- |
+| :-- | :-- |
 | [16 player battle royale](16_player_battle_royale) | 2022-07-08 (21:00 UTC +0) |
 | [2v2 team tandem tournament](2v2_team_tandem_tournament) | 2022-07-09 (18:00 UTC +0) |
 | [1v1 double elimination tournament](1v1_double_elimination) | 2022-07-09 (22:00 UTC +0) |
@@ -35,9 +35,6 @@ tags:
 
 ## Links
 
-- [16 player battle royale wiki article](16_player_battle_royale)
-- [2v2 team tandem tournament wiki article](2v2_team_tandem_tournament)
-- [1v1 double elimination tournament wiki article](1v1_double_elimination)
 - [Livestream](https://twitch.tv/btmc)
 
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
