@@ -31,7 +31,7 @@ seed = global_rank ^ (0.9937 ^ (badge_count ^ 2))
 ```
 
 - `badge_count` (≥ 0): Nombre de badges sur le profil du joueur qui ont été gagnés en tant que prix pour des tournois précédents du même [modes de jeu](/wiki/Game_mode)
-- `global_rank` (≥ 1): [Classement des points de performance](/wiki/Ranking#classement-des-points-de-performance) du joueur sur le classement global correspondant au même [modes de jeu](/wiki/Game_mode) du tournoi.
+- `global_rank` (≥ 1): [Classement des points de performance](/wiki/Ranking#classement-des-points-de-performance) du joueur sur le classement global correspondant au même [modes de jeu](/wiki/Game_mode) du tournoi
 
 Cette fonction satisfait des propriétés importantes pour le BWS :
 
