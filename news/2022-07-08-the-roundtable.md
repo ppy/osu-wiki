@@ -16,10 +16,10 @@ This **3 day** event from July 8-10 features **3 different tournaments**, all st
 
 | Event | Timestamp |
 | --: | :-- |
-| [16 player battle royale](/wiki/Tournaments/The_Roundtable/16_player_battle_royale) | 2022-07-06 (21:00 UTC +0) |
-| [2v2 team tandem tournament](/wiki/Tournaments/The_Roundtable/2v2_team_tandem_tournament) | 2022-07-07 (18:00 UTC +0) |
-| [1v1 double elimination tournament](/wiki/Tournaments/The_Roundtable/1v1_double_elimination) | 2022-07-07 (22:00 UTC +0) |
-| [1v1 double elimination tournament](/wiki/Tournaments/The_Roundtable/1v1_double_elimination) (top 8) | 2022-07-08 (17:30 UTC +0) |
+| [16 player battle royale](/wiki/Tournaments/The_Roundtable/16_player_battle_royale) | 2022-07-08 (21:00 UTC +0) |
+| [2v2 team tandem tournament](/wiki/Tournaments/The_Roundtable/2v2_team_tandem_tournament) | 2022-07-09 (18:00 UTC +0) |
+| [1v1 double elimination tournament](/wiki/Tournaments/The_Roundtable/1v1_double_elimination) | 2022-07-09 (22:00 UTC +0) |
+| [1v1 double elimination tournament](/wiki/Tournaments/The_Roundtable/1v1_double_elimination) (top 8) | 2022-07-10 (17:30 UTC +0) |
 
 ### 16 player battle royale
 
