@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2022 banner](img/mwc4k2022_banner.jpg)
 
-The **osu!mania 4K World Cup 2022** (***MWC 4K 2022***) is an upcoming country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth instalment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2022** (***MWC 4K 2022***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -53,6 +53,8 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 ## Links
 
+- **[Register here](https://osu.ppy.sh/community/tournaments/34)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1606949)
 - [Livestream](https://www.twitch.tv/osulive)
 
 ## Ruleset
