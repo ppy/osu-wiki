@@ -37,7 +37,7 @@ Honestly speaking, this is more about having fun than competition. "Tandem" in t
 
 Players will form four groups of four and face off in a single elimination tournament — until the last group remains as the victor.
 
-### 1v1 double elminiation tournament
+### 1v1 double elimination tournament
 
 The main event of **The Roundtable** is a high stakes [**1v1 double elimination tournament!**](/wiki/Tournaments/The_Roundtable/1v1_double_elimination).
 
