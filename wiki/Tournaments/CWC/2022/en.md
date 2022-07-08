@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2022 logo](img/cwc2022_banner.jpg)
 
-The **osu!catch World Cup 2022** (***CWC 2022***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eleventh instalment of the osu!catch World Cup.
+The **osu!catch World Cup 2022** (***CWC 2022***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eleventh instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu!catch World Cup 2022** (***CWC 2022***) is a country-based osu!catch t
 
 ## Prizes
 
-The osu!catch World Cup 2022 offers a $2,000 cash prize pool and limited edition merch.
+The osu!catch World Cup 2022 offered a $2,000 cash prize pool and limited edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -34,9 +34,11 @@ The osu!catch World Cup 2022 offers a $2,000 cash prize pool and limited edition
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/cwc2022_badge_1st.jpg "CWC 2022 winner badge") ![](img/cwc2022_badge_2nd.jpg "CWC 2022 2nd place badge") ![](img/cwc2022_badge_3rd.jpg "CWC 2022 3rd place badge")
+
 ## Organisation
 
-The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and various community members.
+The osu!catch World Cup 2022 was run by the [osu! team](/wiki/People/The_Team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -97,15 +99,9 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983) |
 | ![][flag_VN] | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)**, [Stardust Prism](https://osu.ppy.sh/users/8525921), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-Linglan Lily-](https://osu.ppy.sh/users/8738261), [Marota](https://osu.ppy.sh/users/10278890), [NamSPro](https://osu.ppy.sh/users/11387006) |
 
-## Match schedule: Grand Finals
+## Podium
 
-### Sunday, 3 July 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| China ![][flag_CN] | ![][flag_US] United States | [Jul 3 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220703T120000&p1=1440&p2=33&p3=263) | [^losers-bracket] |
-| South Korea ![][flag_KR] | ![][flag_CN] China | [Jul 3 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220703T133000&p1=1440&p2=235&p3=33) | [^potential-match] |
-| South Korea ![][flag_KR] | ![][flag_US] United States | [Jul 3 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220703T133000&p1=1440&p2=235&p3=263) | [^potential-match] |
+![](img/cwc2022_podium.jpg "CWC 2022 podium")
 
 ## Mappools
 
@@ -127,12 +123,12 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
   2. [Se-U-Ra - The Endless for Traveler (JBHyperion) \[Adversity (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/1794190#fruits/3677172)
   3. [Silent Siren - Soukai Rock (eLy) \[Dash!!\]](https://osu.ppy.sh/beatmapsets/422994#fruits/914220)
 - Double Time
-  1. [Minose Inori - TRUST IN ETERNITY (F D Flourite) \[ETERNITY\]](https://osu.ppy.sh/beatmapsets/1794217#fruits/3677237)
+  1. [Minose Inori - TRUST IN ETERNITY (F D Flourite) \[ETERNITY\]](https://osu.ppy.sh/beatmapsets/1794217#fruits/3677251)
   2. [MYUKKE. - FULi AUTO BUSTER (FULi Ver) (Bunnrei) \[FULi OVER DOSER (FULi Ver)\]](https://osu.ppy.sh/beatmapsets/1794213#fruits/3677232)
   3. [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Cappuchino\]](https://osu.ppy.sh/beatmapsets/1547564#fruits/3162593)
   4. [Lockyn - Vapor (Blacky Design) \[Shining\]](https://osu.ppy.sh/beatmapsets/1203398#fruits/2505928)
 - Mixed Mod
-  1. [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? (Ascendance) \[\* Ascenzuu's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1794202#fruits/3677206)
+  1. [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? (Ascendance) \[\* Ascenzuu's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1794202#fruits/3682229)
   2. [P-MODEL - LAB=01 (-Ken) \[Ken & Flourite's Mix\]](https://osu.ppy.sh/beatmapsets/1794200#fruits/3677204)
   3. [TEMPLIME - Neon Light (feat. TOTO HOSHIMIYA) (Mentai) \[Together Alone, Intoxicated by the Night\]](https://osu.ppy.sh/beatmapsets/1292247#fruits/2681970)
 - Tiebreaker
@@ -296,6 +292,15 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
   2. [Tatsh - Lunatic Tears... (Tatsh Remix) (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/1460718#fruits/3001358)
 
 ## Match results
+
+### Grand Finals
+
+Sunday, 3 July 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 2 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/101973535) |
+| **South Korea** ![][flag_KR] | **7** | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/101975304) |
 
 ### Finals
 
@@ -610,11 +615,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC+0** of the week they are to be played at.
    - **Do not ask for a reschedule unless it is absolutely needed. The Tournament Management reserves the right to deny any rescheduling request.**
 6. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
-
-## Notes
-
-[^losers-bracket]: Losers bracket
-[^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket match
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
