@@ -44,7 +44,8 @@ tags:
 
 - This tournament is a 2v2 single-elimination team tandem osu! tournament consisting of 4 teams of 4 players (2 players per osu! instance).
 - Beatmap scoring will be based on Score V2.
-- All matches will be played as BO9.
+- All matches will be played as BO9 with 1 ban per team.
+- No match will be played for 3rd place.
 
 ### Match rules
 
@@ -52,7 +53,7 @@ The matches will proceed as follows:
 
 - Two teams will join a multiplayer room with supervision from an on-site tournament organizer.
 - When both teams are in the room and ready, the match will start.
-- When the match starts, both teams will do a `!roll` to determine who picks first.
+- When the match starts, both teams will do a `!roll` to determine who picks first and bans second.
 - Following the first map, the losing team of the previous map will pick the next map until one team reaches the required amount of points to win the match.
 - If both teams are at match point, the Tiebreaker will be played.
 

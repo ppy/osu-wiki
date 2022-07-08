@@ -54,7 +54,8 @@ The battle royale will proceed as follows:
 ### 1v1 rules
 
 - When both players are in the room and ready, the match will start.
-- When the match starts, both teams will do a `!roll` to determine who picks and bans first.
+- When the match starts, both teams will do a `!roll` to determine who picks first and bans second.
+- Each player bans a Tiebreaker with an on-site tournament organizer, and the remaining Tiebreaker is selected. If both players ban the same Tiebreaker, the tournament organizer will `!roll 2` to select the Tiebreaker.
 - Following the first map, the losing team of the previous map will pick the next map until one team reaches the required amount of points to win the match.
 - If both teams are at match point, the Tiebreaker will be played.
 

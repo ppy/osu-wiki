@@ -46,11 +46,9 @@ tags:
 
 - This tournament is an in-person 1v1 double-elimination osu! tournament consisting of 16 players.
 - Beatmap scoring will be based on Score V2.
-- Round of 16 will be played as BOx.
-- Quarterfinals will be played as BOx.
-- Semifinals will be played as BOx.
-- Finals will be played as BOx.
-- Grand finals will be played as BOx.
+- Round of 16 and Quarterfinals will be played as BO9 with 1 ban per player.
+- Semifinals and Finals will be played as BO11 with 2 bans per player.
+- Grand finals will be played as BO13 with 2 bans per player.
 
 ### Match rules
 
@@ -58,7 +56,8 @@ The matches will proceed as follows:
 
 - Two players will join a multiplayer room with supervision from an on-site tournament organizer.
 - When both players are in the room and ready, the match will start.
-- When the match starts, both users will do a `!roll` to determine who picks and bans first.
+- When the match starts, both users will do a `!roll` to determine who picks first and bans second.
+- Each player bans a Tiebreaker with an on-site tournament organizer, and the remaining Tiebreaker is selected. If both players ban the same Tiebreaker, the tournament organizer will `!roll 2` to select the Tiebreaker.
 - Following the first map, the loser of the previous map will pick the next map until one player reaches the required amount of points to win the match.
 - If both players are at match point, the Tiebreaker will be played.
 
