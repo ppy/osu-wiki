@@ -10,7 +10,7 @@ Are you ready for the challenge that is **aran**, our latest Featured Artist?
 
 For many years, the foundational, genre-defying tunes of **aran** laid claim to one of the greatest challenges osu! has ever known in [rustbell](https://osu.ppy.sh/users/227717)'s much beloved set for [Graces of Heaven](https://osu.ppy.sh/beatmapsets/147910), which shook the beatmapping world to its core back in 2016. Beyond that, fans of *beatmania IIDX*, *jubeat* and *SOUND VOLTEX* are likely already familiar with the aural glory that encompasses his creations.
 
-Ever since, **aran**'s work has woven itself into the musical and cultural heart of osu! across a variety of remixes and original tracks, and it is now our absolute delight to announce today that **20** new tracks from him are now enshrined in our Featured Artist library forever more.
+Ever since, **aran**'s work has woven itself into the musical and cultural heart of osu! across a variety of remixes and original tracks, and it is now our absolute delight to announce today that **20** new tracks from him are now enshrined in our Featured Artist library forevermore.
 
 Check out what all the hype is about with this play from [RyuK](https://osu.ppy.sh/users/6304246) during a behind-the-scenes glimpse from [the Roundtable](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable), osu!'s first in-person invitational tournament:
 
@@ -54,7 +54,7 @@ Check out [this osu!mania set](https://osu.ppy.sh/beatmapsets/884508) (excellent
 
 ---
 
-All of the above and so, so much more is available right now over at [**aran**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/282), pre-timed and awaiting your creative touch. Will your beatmapping creation become the next big thing? Only time will tell, and only you can make it happen in the first place, so get in to that listing, then out into the wide world of modding and mapping!
+All of the above and so, so much more is available right now over at [**aran**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/282), pre-timed and awaiting your creative touch. Will your beatmapping creation become the next big thing? Only time will tell, and only you can make it happen in the first place, so get into that listing, then out into the wide world of modding and mapping!
 
 You know the drill by now after nearly 300 Featured Artists (or at least we hope you do), so check back next week on Wednesday for another awesome addition to our leviathan line-up of copiously capable creators. That's a lot of adjectives, but they're worth it. We promise.
 
