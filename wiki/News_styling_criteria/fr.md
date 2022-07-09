@@ -110,7 +110,7 @@ Exemple :
 
 #### Couvertures
 
-Les articles de news doivent comporter un [bloc d'images](/wiki/Article_styling_criteria/Formatting#display) après le paragraphe de prévisualisation pour servir de **couverture** (parfois appelée *bannière*). Le client et le site web utilisent automatiquement la première image d'un article comme couverture sur la page d'accueil, la liste des actualités et l'affichage des articles.
+Les articles de news doivent comporter un [bloc d'images](/wiki/Article_styling_criteria/Formatting#rendu) après le paragraphe de prévisualisation pour servir de **couverture** (parfois appelée *bannière*). Le client et le site web utilisent automatiquement la première image d'un article comme couverture sur la page d'accueil, la liste des actualités et l'affichage des articles.
 
 Les images de couverture doivent avoir une largeur minimale de 900 et une hauteur minimale de 200 pour leur taille de base. Une version `@2x` avec chaque dimension doublée doit être fournie si l'image source est suffisamment grande pour le supporter.
 
