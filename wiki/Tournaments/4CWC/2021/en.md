@@ -15,7 +15,7 @@ The **4 Digit Catch World Cup 2021** (***4CWC 2021***) was a country-based osu!c
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-08-09/2022-08-30 (17:00 UTC) |
+| Registration phase | 2021-08-09/2021-08-30 (17:00 UTC) |
 | Screening phase | 2021-08-30/2021-09-18 |
 | Team submission phase | 2021-09-18/2021-09-25 |
 | Qualifiers | 2021-10-02/2021-10-03 |
