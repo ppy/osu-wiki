@@ -30,7 +30,7 @@ Check out [this famous Loved set](https://osu.ppy.sh/beatmapsets/147910) by [rus
 
 ### aran & lapix - KALACAKLA
 
-Check out [this Loved set](https://osu.ppy.sh/beatmapsets/706771) by [Ambrew](https://osu.ppy.sh/users/7803396)!
+Check out [this Loved set](https://osu.ppy.sh/beatmapsets/706771) by [Ambrew](https://osu.ppy.sh/users/7803396), and [this collaborative set](https://osu.ppy.sh/beatmapsets/1773829) hosted by [elicz1](https://osu.ppy.sh/users/8039342) of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/282/Songs/aran%20%26%20lapix%20-%20KALACAKLA.mp3" type="audio/mpeg">
