@@ -7,11 +7,11 @@ alumni:
   roles:
     academy: ιδρυτής osu!academy
     admin: διαχείριση
-    chat: kουβέντα sυνομιλίας
-    dev: osu! προγραμματιστής
-    media: osu!media δημιουργία
-    support: Ομάδα Τεχνικής Υποστήριξης
-    tournaments: Διαχείριση Τουρνουά
+    chat: μεσολαβητής chat
+    dev: προγραμματιστής osu!
+    media: δημιουργία osu!media
+    support: ομάδα τεχνικής υποστήριξης
+    tournaments: διαχείριση τουρνουά
 gmt:
   all_mods: κάθε μεσολαβητής
   areas:
@@ -19,17 +19,17 @@ gmt:
     chat: μεσολαβητής chat
     forum: μεσολαβητής forum
     team: επίσημος ομάδα παρουσία
-    dev: osu! προγραμματιστής
+    dev: προγραμματιστής osu!
     player: υποστήριξη παίκτη
     support: τεχνική υποστήριξη
     tournaments: διαχείριση τουρνουά
     wiki: Διαχείριση Wiki
-    mapping: κοινότητα χάρτη/τροποποίησης μετρίαση
+    mapping: κοινότητα χάρτη/τροποποίησης μεσολαβητής
 nat:
   areas:
     communication: επικοινωνία
     evaluation: διατίμηση
-    moderation: μετρίαση
+    moderation: μεσολαβητής
     structural: οικοδομικός
 languages:
   partial: λιγο <language>
