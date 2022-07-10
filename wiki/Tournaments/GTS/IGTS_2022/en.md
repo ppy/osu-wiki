@@ -29,9 +29,9 @@ The **Intermediate Global Taiko Showdown 2022** (***IGTS 2022***) was a worldwid
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, first place team banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Second place team banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Third place team banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner |
 
 ![](img/badge.jpg "IGTS 2022 winner badge")
 
@@ -326,7 +326,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### All Stars
 
-Sunday, 8 May 2022
+Sunday, 8 May 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -334,7 +334,7 @@ Sunday, 8 May 2022
 
 ### Grand Finals
 
-Saturday, 7 May 2022
+Saturday, 7 May 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
