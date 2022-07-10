@@ -11,16 +11,11 @@ La forme d'une déclaration d'échantillon audio est la suivante :
 Où :
 
 - `<time>` est le moment auquel le son doit commencer à être joué.
-
-- `<layer_num>` est une valeur *numérique* correspondant à la couche sur laquelle vous voulez que le son soit :
-  - 0 - Arrière-plan
-  - 1 - Fail
-  - 2 - Pass
-  - 3 - Premier plan
+- `<layer_num>` est une valeur *numérique* correspondant à la couche sur laquelle vous voulez que le son soit. Les valeurs valides sont énumérées ci-dessous.
 - `<filepath>` est le même concept que pour les sprites, mais fait référence au fichier .wav, .mp3 ou .ogg.
 - `<volume>` est un nombre compris entre 1 et 100 pour indiquer l'intensité sonore relative du son (laisser off pour 100 par défaut)
 
-Les valeurs valides pour les couches sont:
+Les valeurs valides pour les couches sont :
 
 | Valeur | Couche |
 | :-: | :-- |
@@ -32,7 +27,6 @@ Les valeurs valides pour les couches sont:
 ## Exemple
 
 Par exemple, pour jouer un fichier musical (court !) lorsque le joueur obtient une bonne fin sur la beatmap (par exemple, fin dans l'état Pass), puis jouer un effet sonore d'explosion dans le cadre de la scène :
-
 
 ```
 Sample,163520,2,"Audio\Best End.mp3",80

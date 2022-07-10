@@ -16,8 +16,8 @@ Pour appeler une instance d'un sprite (une image fixe) ou une animation, utilise
 
 Où :
 
-- `(layer)` est la **[couche](/wiki/Storyboard/Scripting/General_Rules) sur laquelle l'objet apparaît.** Les valeurs valides sont :
-- `(origin)` est l'endroit de **l'image où osu! doit considérer que l'origine de l'image (coordonnée) se trouve.** Cela affecte les valeurs (x) et (y), ainsi que plusieurs autres comportements spécifiques à la commande. Par exemple, si vous choisissez (origin) = Haut-Gauche, les valeurs (x) et (y) détermineront l'emplacement du coin supérieur gauche de l'image à l'écran. Les valeurs valides sont (notez l'orthographe "Centre" et non "Center") :
+- `(layer)` est la **[couche](/wiki/Storyboard/Scripting/General_Rules) sur laquelle l'objet apparaît.** Les valeurs valides sont énumérées ci-dessous.
+- `(origin)` est l'endroit de **l'image où osu! doit considérer que l'origine de l'image (coordonnée) se trouve.** Cela affecte les valeurs (x) et (y), ainsi que plusieurs autres comportements spécifiques à la commande. Par exemple, si vous choisissez (origin) = Haut-Gauche, les valeurs (x) et (y) détermineront l'emplacement du coin supérieur gauche de l'image à l'écran. Les valeurs valides sont énumérées ci-dessous (notez l'orthographe "Centre" et non "Center"). 
 - `(filepath)` est, en termes simples, le **nom de l'image que vous voulez.** Mais ce n'est pas toujours aussi simple :
   - Si vous avez un sous-dossier dans votre dossier Song, vous devez également l'inclure.
     - Exemple : "backgrounds/sky.jpg" si vous avez un sous-dossier appelé "backgrounds" contenant une image appelée "sky.jpg". Commencez à énumérer les répertoires uniquement à partir du dossier des musiques, où se trouve le fichier .osu ou .osb (c'est-à-dire un chemin de fichier relatif). Il ne doit pas contenir quelque chose comme "C:".
@@ -30,18 +30,18 @@ Où :
   - origin = Bas-Droit, x = 640, y = 480
     *et ainsi de suite.*
 
-Les valeurs valides pour le layer sont:
+Les valeurs valides pour les couches sont :
 
-| Valeur | Layer |
+| Valeur | Couche |
 | :-: | :-- |
 | 0 | Arrière-plan |
 | 1 | Fail |
 | 2 | Pass |
 | 3 | Premier plan |
 
-Les valeurs valides pour l'origin sont:
+Les valeurs valides pour l'origine sont:
 
-| Valeur | Origin |
+| Valeur | Origine |
 | :-: | :-- |
 | 0 | Haut-Gauche |
 | 1 | Centre |

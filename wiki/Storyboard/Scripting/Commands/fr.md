@@ -10,11 +10,11 @@ Où :
 
 - `_` peut être un espace au lieu d'un trait de soulignement.
 - `(event)` est une lettre/paire de lettres, correspondant à l'une des commandes ci-dessous.
-- `(easing)` indique si la commande doit "accélérer". Voir [Easing Functions Cheat Sheet](http://easings.net). Les valeurs valides sont :
+- `(easing)` indique si la commande doit "accélérer". Voir [Easing Functions Cheat Sheet](http://easings.net). Les valeurs valides sont énumérées ci-dessous.
 - `(starttime)` et `(endtime)` sont les heures de début et de fin de la commande, respectivement en millisecondes (ms).
 - `(params...)` varier entre des valeurs spécifiques pour `(event)`. Il s'agit généralement des valeurs que les variables doivent prendre.
 
-Les valeurs valides pour le easing sont :
+Les valeurs valides pour l'assouplissement sont :
 
 | Valeur | Description |
 | :-: | :-- |

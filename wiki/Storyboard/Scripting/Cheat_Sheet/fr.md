@@ -37,7 +37,7 @@ _event, [...]
 
 L'ordre Z (d'arrière en avant) est déterminé par l'ordre dans lequel les fichiers apparaissent dans le fichier .osu. Le premier événement du storyboard sera derrière tous les autres, c'est-à-dire que si l'événement du storyboard 'A' est au-dessus de l'événement du storyboard 'B', 'B' sera au-dessus de 'A'.
 
-| Valeur | Layer |
+| Valeur | Couche |
 | :-: | :-- |
 | 0 | Arrière-plan |
 | 1 | Fail |
@@ -46,7 +46,7 @@ L'ordre Z (d'arrière en avant) est déterminé par l'ordre dans lequel les fich
 
 *Remarque : l'arrière-plan et le premier plan sont toujours visibles.*
 
-| Valeur | Origin |
+| Valeur | Origine |
 | :-: | :-- |
 | 0 | Haut-Gauche |
 | 1 | Centre |
@@ -67,7 +67,7 @@ Toutes les rotations et les changements de taille (y compris l'échelle vectorie
 
 Pour chacun des types d'événements ci-dessous, la ou les valeurs initiales de cet événement prendront la première affectation donnée à cet événement.
 
-| Event type | Description |
+| Type d'événement | Description |
 | :-: | :-- |
 | F | fondu |
 | M | déplacement |
@@ -79,7 +79,7 @@ Pour chacun des types d'événements ci-dessous, la ou les valeurs initiales de 
 | T | Boucle déclenchée par un événement |
 | P | Paramètres |
 
-| Easing | Description |
+| Assouplissement | Description |
 | :-: | :-- |
 | 0 | aucun |
 | 1 | commencer vite et ralentir |
