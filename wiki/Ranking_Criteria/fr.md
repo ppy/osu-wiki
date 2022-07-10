@@ -107,7 +107,7 @@ Il est important de noter avant de les utiliser :
 - **Les virgules, `vs.`, `feat.`, `CV:` et tout autre symbole reliant ou désignant des artistes doivent inclure un espace à la fin.** À l'exception des virgules, un espace avant est également requis si le marqueur est précédé d'un mot.
 - **Toute forme de `vs.`, `VS`, etc. doit être écrite comme `vs.` lorsqu'elle est utilisée comme indicateur de collaboration entre deux ou plusieurs artistes.** Une appellation alternative peut être utilisée pour s'harmoniser avec le reste du champ.
 - **Toute forme de `feat.`, `feat`, `ft.`, etc. doit être écrite comme `feat.` lorsqu'elle est utilisée comme indicateur d'un artiste figurant dans la musique.** Une appellation alternative peut être utilisée pour s'harmoniser avec le reste du champ.
-- **Lorsqu'un personnage fictif est crédité en tant que chanteur d'une musique, son crédit doit être formaté en tant que `Character (CV: Voice Actor)` ou `Character (VO: Voice Actor)`[^personnage-voix-acteur].** Pour les films en direct, ne créditez que la voix de l'acteur.
+- **Lorsqu'un personnage fictif est crédité en tant que chanteur d'une musique, son crédit doit être formaté en tant que `Character (CV: Voice Actor)` ou `Character (VO: Voice Actor)`[^character-voice-actor].** Pour les films en direct, ne créditez que la voix de l'acteur.
 - **Si une musique est utilisée dans un programme de télévision, une série web ou une série en vidéo directe, comme une musique d'ouverture/fin/insertion, utilisez un marqueur `(TV Size)` à la fin du titre actuel.** S'il y a un marqueur TV Size existant dans le titre, remplacez-le par `(TV Size)`.
 - **Si un titre de musique contient des marqueurs de version courte ou de version de jeu, les marqueurs doivent être normalisés en `(Short Ver.)` et `(Game Ver.)` respectivement.**
 - **Les versions coupées non officielles des musiques doivent ajouter un marqueur `(Cut Ver.)` à la fin du titre.** Si un marqueur de longueur figure déjà dans le titre du morceau, `(Cut Ver.)` le remplacera. Cela permet de distinguer les coupures non officielles d'une musique des versions complètes. Les musiques qui sont raccourcies d'une manière qui correspond presque à leur version officielle, et les musiques qui sont une boucle complète d'une piste en boucle ne seront pas considérées comme coupées.
@@ -126,6 +126,9 @@ Il est important de noter avant de les utiliser :
 - **Lorsqu'une musique utilise des mots répétés dans le titre ou dans le nom de l'artiste, dont l'un est en unicode et l'autre en romanisation de base, le champ romanisé doit utiliser uniquement la romanisation fournie et supprimer le mot en double.**
 - **Les trémas doivent être romanisés en équivalents de deux lettres : `ü` en `ue`, `ö` en `oe`, `ä` en `ae` et `ß` en `ss`.**
 - **Les musiques dont les métadonnées sont en russe/cyrillique doivent être romanisées en utilisant la méthode du [système BGN/PCGN](https://fr.wikipedia.org/wiki/Romanisation_BGN/PCGN) dans les champs romanisés.** Il en va de même pour le champ Source si le mappeur préfère une source romanisée.
+  - Е et е doivent être romanisés en `ye` s'ils sont seuls ou après `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. Dans les autres cas, il doit être romanisé en `e`.
+  - `ё` doit être romanisé en `yo`, cependant, utilisez `o` si le caractère vient après `ж`, `ч`, `ш`, ou `щ``.
+  - Ignorez toutes les autres règles contenues dans le fichier fourni, car elles ne sont pas pertinentes ou ne sont d'aucune utilité dans le jeu. Pour la plupart des autres personnages, reportez-vous à la [première page de ce document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807920/ROMANIZATION_OF_RUSSIAN.pdf).
 - **Les musiques dont les métadonnées sont en japonais doivent utiliser la méthode de [romanisation Hepburn modifiée](https://fr.wikipedia.org/wiki/M%C3%A9thode_Hepburn#Tableau_de_transcription_des_syllabaires) dans les champs romanisés.** Vous trouverez de plus amples informations sur [les tables de romanisation approfondies](https://www.loc.gov/catdir/cpso/romanization/japanese.pdf). Il en va de même pour le champ Source si une source romanisée est préférée par le mappeur. En tant que champ non-unicode, les voyelles longues telles que `おう` et `うう` doivent être romanisées en `ou` et `uu` pour éviter les macrons.
 - **Les musiques comportant des métadonnées en chinois doivent être romanisées en fonction des tons et des dialectes du chinois auxquels elles appartiennent.** Chaque caractère chinois doit être romanisé comme un mot en majuscule et séparé par un espace, à l'exception des noms d'artistes. Dans tous les cas, tous les signes diacritiques doivent être omis :
   - Les métadonnées en mandarin doivent être romanisées en utilisant le système Hanyu Pinyin.
@@ -196,8 +199,8 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
   - **...avoir un débit moyen non inférieur à 128 kbps**, si une telle source existe. Sinon, utilisez la plus haute qualité disponible.
   - **...ne pas être encodé trop haut à partir d'un débit binaire inférieur.**
 - **Une beatmap ne peut contenir qu'un seul fichier d'une musique utilisé par toutes les difficultés.** Les fichiers de musique multiples dans une seule beatmap ne sont pas pris en charge et entraînent un comportement inattendu avec les temps de prévisualisation, les métadonnées, etc.
-**Une beatmap doit posséder des [hitsounds](/wiki/Beatmapping/Hitsound).** Les Hitnormals donnent un retour au joueur, et les ajouts (whistles, claps et finishes) accentuent les parties les plus importantes de la musique.
-  - **Les beatmaps d'osu!mania ne nécessitent pas l'ajout d'hitsound.** Cela permet de faciliter l'approche des mappeurs osu!mania de différentes origines. Il est toujours fortement recommandé d'ajouter des hitsounds afin d'améliorer la sensation de vos beatmaps.
+- **Une beatmap doit posséder des [hitsounds](/wiki/Beatmapping/Hitsound).** Les Hitnormals donnent un retour au joueur, et les ajouts (whistles, claps et finishes) accentuent les parties les plus importantes de la musique.[^normal-vs-addition]
+  - **Les beatmaps d'osu!mania ne nécessitent pas l'ajout d'hitsound.**[^normal-vs-addition] Cela permet de faciliter l'approche des mappeurs osu!mania de différentes origines. Il est toujours fortement recommandé d'utiliser des hitsound additions afin d'améliorer la sensation de vos beatmaps.
 - **Toutes les parties cliquées des objets doivent avoir au moins un hitsound qui à la fois...**
   - **...a un impact clair, dont le pic n'est pas retardé de plus de 5 millisecondes.** `normal-hitfinish.wav` du skin par défaut en est exempté.
   - **...utilise le format de fichier `.wav` ou `.ogg`.** Le `.mp3` ne doit pas être utilisé ici car il est retardé.
@@ -227,8 +230,8 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
 - **Les exigences relatives aux images d'arrière-plan sont les suivantes :**
   - **Largeur minimale :** 160px
   - **Hauteur minimale :** 120px
-  - **Largeur maximale :** 2560px[^dimensions-maximales]
-  - **Hauteur maximale :** 1440px[^dimensions-maximales]
+  - **Largeur maximale :** 2560px[^maximum-dimensions]
+  - **Hauteur maximale :** 1440px[^maximum-dimensions]
   - **Taille maximale du fichier :** 2.5MB
 - **Les dimensions d'une vidéo ne doivent pas dépasser une largeur de 1280 et une hauteur de 720 pixels.** En outre, il faut éviter de convertir une vidéo de faible résolution en une résolution plus élevée. Cela permet de s'assurer que les fichiers vidéo ne deviennent pas excessivement volumineux ou gourmands en ressources.
 - **Une vidéo doit être encodée en H.264.**
@@ -295,5 +298,6 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
 
 ## Notes
 
-[^personnage-voix-acteur]: CV (Character Voice) est utilisé lorsque la musique est chantée dans le personnage par l'acteur de la voix du personnage. `VO` (Voice Over) est utilisé quand une musique est chantée dans le personnage par quelqu'un d'autre que l'acteur de la voix du personnage.
-[^dimensions-maximales]: Les arrière-plans qui sont également utilisés comme images de storyboard peuvent suivre [la règle des images de storyboard pour les dimensions maximales](/wiki/Ranking_Criteria#règles.7) à la place.
+[^character-voice-actor]: CV (Character Voice) est utilisé lorsque la musique est chantée dans le personnage par l'acteur de la voix du personnage. `VO` (Voice Over) est utilisé quand une musique est chantée dans le personnage par quelqu'un d'autre que l'acteur de la voix du personnage.
+[^maximum-dimensions]: Les arrière-plans qui sont également utilisés comme images de storyboard peuvent suivre [la règle des images de storyboard pour les dimensions maximales](/wiki/Ranking_Criteria#règles.7) à la place.
+[^normal-vs-addition]: Les [Hitsounds](/wiki/Beatmapping/Hitsound) sont constitués d'un échantillon *normal* toujours présent, et de n'importe quelle combinaison d'échantillons *additions* de whistle, de finish ou de clap.
