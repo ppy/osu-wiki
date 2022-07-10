@@ -2,25 +2,25 @@
 tags:
   - FA
   - FA playlist
-  - Artistes Associés
-  - playlist d'Artistes Associés
+  - Featured Artist
+  - Playlist des Featured Artists
 ---
 
-# Playlists d'Artistes Associés
+# Playlists des Featured Artists
 
-Tous les mois, de nouvelles **playlists d'Artistes Associés** sont publiées sur [osu!(lazer)](https://github.com/ppy/osu/releases) mettant en valeur les créations d'[Artistes Associés](/wiki/Featured_Artists) dans tous les [modes de jeu](/wiki/Game_mode). Les playlists ne sont pas soumises à un format strict, ainsi, les paramètres, les sélections de beatmaps et les critères d'attribution des prix varient chaque mois.
+Tous les mois, de nouvelles **playlists des Featured Artist** sont publiées sur [osu!(lazer)](https://github.com/ppy/osu/releases) mettant en valeur les créations des [Featured Artist](/wiki/Featured_Artists) dans tous les [modes de jeu](/wiki/Game_mode). Les playlists ne sont pas soumises à un format strict, ainsi, les paramètres, les sélections des beatmaps et les critères d'attribution des prix varient chaque mois.
 
-!["Lobby de playlist d'Artistes Associés"](img/playlist.jpg "Lobby de playlist d'Artistes Associés sur osu!(lazer)")
+!["Lobby de playlist des Featured Artists"](img/playlist.jpg "Lobby de playlist des Featured Artists sur osu!(lazer)")
 
-Accédez aux playlists via le menu **play** sur osu!(lazer) et en filtrant par **Artistes Associés** dans le coin supérieur droit.
+Accédez aux playlists via le menu **play** sur osu!(lazer) et en filtrant par **Featured Artist** dans le coin supérieur droit.
 
-!["Liste de playlist d'Artistes Associés"](img/playlist-listing.jpg)
+!["Liste de playlist des Featured Artist"](img/playlist-listing.jpg)
 
 ## Prix
 
-Les meilleurs joueurs de chaque playlist d'Artiste Associé sont récompensés par des badges de profil spécifiques au mode. Les critères exacts pour les meilleurs joueurs varient selon la playlist.
+Les meilleurs joueurs de chaque playlist des Featured Artist sont récompensés par des badges de profil spécifiques au mode. Les critères exacts pour les meilleurs joueurs varient selon la playlist.
 
-![badge de profile d'Artistes Associés](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) ![badge de profile d'Artistes Associés](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) ![badge de profile d'Artistes Associés](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) ![badge de profile d'Artistes Associés](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png)
+![Badge de profile d'un Featured Artist](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) ![Badge de profile d'un Featured Artist](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) ![Badge de profile d'un Featured Artist](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) ![Badge de profile d'un Featured Artist](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png)
 
 ## Anciennes playlists
 
