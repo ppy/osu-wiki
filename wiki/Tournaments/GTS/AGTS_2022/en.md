@@ -464,23 +464,22 @@ Detailed statistics for this round can be found [here](https://gtsosu.com/agts/s
 
 ### Restrictions and registrations
 
-1. In order to participate, players need to be in the rank range of #4,500 – #11,000.
-2. Players are not allowed to rank up further than #4,000 during the tournament. Passing this limit will result in disqualification.
+1. In order to participate, players need to be in the rank range of #500 – #1,500.
+2. Players are not allowed to rank up further than #400 during the tournament. Passing this limit will result in disqualification.
 3. Players must join the Discord server of the tournament to actually be counted as a player.
 4. Players sign up individually. When their registration is accepted, they will get a player role with their respective country.
 5. osu! staff can refuse players from participating in the tournament if their skill is deemed much higher than the targeted rank range.
-6. If there are 35 or more unique countries able to participate after screening, only **1 team per country** will be allowed. In that case, if there are more than 5 players signed up for a country, they will have to decide among themselves who will partake in the tournament. If they cannot elect the players, they will be chosen by ranking to form the new team.
-7. If there are less than 35 unique countries, 2 teams for a country may be allowed under certain conditions:
-   - There are **7 or more players** signed up for a country.
+6. Making 2 teams for a country is acceptable under following conditions:
+   - There are **7 or more players** signed up for respective country.
    - Each team has to have **at least 3 players**.
-8. Teams are otherwise assembled in the following way:
+7. Following the previous rule, teams are otherwise assembled in the following way:
    - If there are 5 players or less signed up for a country, those players will form the team representing their country.
    - In case there are more than 10 players signed up for a country, players will decide among themselves who will partake in the tournament. If they cannot decide, the top 10 players by ranking will be chosen to form the 2 teams.
    - If there are 6 players, players will have to decide on the 5 players who will partake in the tournament. If they cannot decide, the top 5 players by ranking will be chosen to form the team.
    - If there are 7 to 10 players (after keeping the best-ranked ones) signed up for a country, the players from that country will have a few days to decide how to split themselves between the 2 teams. It is recommended to come to an agreement as fast as possible and decide on a captain to aid in scheduling.
    - In case the players cannot come to an agreement, they will put in 2 teams with at least 3 members in each in order of global ranking.
    - If the players cannot agree or find a captain, the highest-ranked player will be chosen.
-9. It is recommended to come to an agreement as fast as possible to then decide on the captain and be able to schedule and prepare matches rapidly.
+8. It is recommended to come to an agreement as fast as possible to then decide on the captain and be able to schedule and prepare matches rapidly.
    - The players will decide on the captain of their team.
    - If players cannot agree or find a captain, the highest-ranked player will be chosen by default.
    - The captain is going to be the one to reschedule a match if needed and will ensure that all the team members are present for the matches.
@@ -489,7 +488,7 @@ Detailed statistics for this round can be found [here](https://gtsosu.com/agts/s
 
 1. There are seven stages in the tournament: the Qualifiers, the Group stage, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
 2. Teams will be seeded with the average of their ranks on each map during the Qualifiers round in 4 seeds: Top seed, High seed, Low seed, and Unseeded.
-3. Teams will be drawn in **8 groups of 4 teams** during live drawings which will happen on Sunday, 20 March 2022 (18:00 UTC).
+3. Teams will be drawn in **8 groups of 4 teams** during live drawings which will happen on Sunday, 29 May 2022 (18:00 UTC).
 4. In the Group stage, all the teams from each group will face each other. The **best 2 teams** advance from their groups.
 5. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    1. Most matches won.
@@ -518,7 +517,7 @@ Detailed statistics for this round can be found [here](https://gtsosu.com/agts/s
 
 1. There will be one mappool for each stage.
 2. The loser's bracket will play on the same pool as the winner's bracket of the same weekend.
-3. The Qualifier pool will be different from all other rounds, as it will have a format of 2 NoMod maps, 1 Hidden map, 1 HardRock map, 1 DoubleTime map, and 1 FreeMod map.
+3. The Qualifier pool will be different from all other rounds, as it will have a format of 3 NoMod maps, 2 Hidden maps, 2 HardRock maps, 1 DoubleTime map, and 1 FreeMod map.
 4. Each mappool consists of 6 sections: **NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker**.
 5. The total maps per stage will be listed as follows:
    - The Group stage mappool will consist of 14 maps.
@@ -527,8 +526,9 @@ Detailed statistics for this round can be found [here](https://gtsosu.com/agts/s
 6. All stages will have 2 Hidden, HardRock, and DoubleTime maps, and 3 FreeMod maps.
 7. The FreeMod pool is played with FreeMod activated. Every player may pick a combination of Hidden and HardRock, but at least one player from each team must have at least one mod activated.
 8. Players cannot pick the same mod combination as their team member.
-9. The tiebreaker is played under FreeMod conditions, but it is not necessary to have a mod activated.
-10. The mappool for each stage will be showcased a week beforehand.
+9. The size of the NoMod bracket will be 4 maps in Group Stage, 5 maps in Round of 16, and 6 maps for the rest of the stages.
+10. The tiebreaker is played under FreeMod conditions, but it is not necessary to have a mod activated.
+11. The mappool for each stage will be showcased a week beforehand.
 
 ### Scheduling instructions
 
@@ -546,7 +546,7 @@ Detailed statistics for this round can be found [here](https://gtsosu.com/agts/s
 4. There is no penalty for not joining the room instantly at match time as long as it is within the postponed time.
 5. If neither of both teams have the minimum required players after 10 minutes, it will count as a loss for both teams in Group stage. In the double-elimination bracket, the highest-seeded team will advance.
 6. The match will be played with Team VS and Score v2, and the name of the room must be: `AGTS 2022: ({Team Red}) vs ({Team Blue})`.
-7. Each team is allowed one warmup but it must be **below 3 minutes**, and must be sent to the referee and streamer of the match one hour prior to the match's start time. Otherwise, the team will have no warmups.
+7. Each team is allowed one warmup but it must be **below 3 minutes**, and must be sent to the GTS website up to one hour prior to the match's start time. Teams will be allowed to send warmups starting from the first day new schedule has been released. Otherwise, the team will have no warmups.
 8. Submitting a warmup less than one hour prior to the match will result in no warmup.
 9. Each captain has to ban **one beatmap** from the pool (apart from tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
 10. The captain of each team will roll with the `!roll` command in the chat.
@@ -562,17 +562,3 @@ Detailed statistics for this round can be found [here](https://gtsosu.com/agts/s
 20. Failed players' scores do get added to the team score.
 21. If the beatmap ends in a draw, the game will be nullified and the map will be replayed.
 22. In case of a tie in points (example: 4-4 in BO9) the tiebreaker is selected.
-
-### All Stars rules
-
-1. All Stars is a fun event taking place on the same weekend as the Grand Finals! It will showcase the best players of the tournament playing against each other in a special match.
-2. 12 players will participate in this event. They will be decided by a vote.
-3. If there are more than 2 players from a country in the top 12 most voted players, only the 2 best will partake in All Stars.
-4. The top 2 players will be captains of each team. Their teammates will be decided by the ranking of the next 6 players. The topmost voted player will play with players with an odd number and the second most voted player with players with an even number.
-5. The mappool will be made by a special team of mappoolers.
-6. The event will be a 4 vs 4 match with the following rules:
-   - Best-of-15 format (first to 8 points).
-   - All the maps are played under FreeMod rules, meaning players are free to pick any of the following mods or a combination of them: NoMod, Hidden, HardRock.
-   - No bans.
-   - Map selection is the same as a normal match.
-   - The same rules as normal matches apply regarding disconnections.
