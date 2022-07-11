@@ -55,7 +55,7 @@ The Advanced Global Taiko Showdown 2021 was run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1299094)
 - [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com)
+- [AGTS 2021 website](https://gtsosu.com/2021/agts/home)
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
