@@ -1,3 +1,8 @@
+---
+outdated_since: 46a9f7c7d79fde8fd96098a16ac1203efd156ad1
+outdated_translation: true
+---
+
 # Kontributor Komunitas
 
 ![](/wiki/shared/contributor.jpg "Lencana kontributor")
