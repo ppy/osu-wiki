@@ -333,6 +333,14 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [TAG2 Tournament 2019](T2T/2019) | 2019-02-15 | 2019-05-19 | Thank You | osu! schmosu! | yoo whats goodie eh |
 
+#### The Roundtable
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [16 player battle royale](The_Roundtable/16_player_battle_royale) | 2022-07-08 | 2022-07-08 | [mrekk](https://osu.ppy.sh/users/7562902) | [im_a_fancy_lad](https://osu.ppy.sh/users/4908650) | [Utami](https://osu.ppy.sh/users/7512553) & [RyuK](https://osu.ppy.sh/users/6304246) |
+| [2v2 team tandem tournament](The_Roundtable/2v2_team_tandem_tournament) | 2022-07-09 | 2022-07-09 | No Stamina | Plasma Gunners | Eggward |
+| [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 2022-07-09 | 2022-07-10 | [Utami](https://osu.ppy.sh/users/7512553) | [mrekk](https://osu.ppy.sh/users/7562902) | [im_a_fancy_lad](https://osu.ppy.sh/users/4908650) |
+
 #### UK Community Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
