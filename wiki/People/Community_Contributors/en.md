@@ -6,6 +6,8 @@ The **Community Contributors** are the people who have taken it upon themselves 
 
 Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which are previous members of various osu! teams that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
 
+<!-- The "Contributions" column of recent years comes from text in the linked news posts. Don't use the text on the badge itself, and don't edit any wording (besides links, etc.) -clayton -->
+
 ## 2013
 
 ### August
