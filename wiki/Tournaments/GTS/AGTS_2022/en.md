@@ -114,13 +114,7 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 
 ## Podium
 
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: **Japan A** (**[PetitRabbit](https://osu.ppy.sh/users/16716194)**, [KleCru\_Ranma](https://osu.ppy.sh/users/15868630), [kumakki](https://osu.ppy.sh/users/11680013), [MODE\_SP](https://osu.ppy.sh/users/15010333), [WhiteSakata](https://osu.ppy.sh/users/15400295)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=HK }:: **Hong Kong** (**[YonGin](https://osu.ppy.sh/users/7109317)**, [autofanboy](https://osu.ppy.sh/users/636114), [boeing747](https://osu.ppy.sh/users/5975021), [Tsuwagi](https://osu.ppy.sh/users/9313951)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: **United States B** (**[Vitamim](https://osu.ppy.sh/users/16700987)**, [Cm0nsters](https://osu.ppy.sh/users/10951981), [LuriCookie](https://osu.ppy.sh/users/9517612), [Morivv](https://osu.ppy.sh/users/14961676), [Nyahnny](https://osu.ppy.sh/users/16807933)) |
+![](img/podium.jpg "TWC 2022 podium")
 
 ## Mappools
 
