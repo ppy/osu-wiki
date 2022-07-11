@@ -187,3 +187,26 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Outstanding contribution to the osu! skinning and moderation scene |
 | ::{ flag=US }:: [I Must Decrease](https://osu.ppy.sh/users/2773526) | Outstanding contribution to scoring maintenance and development |
 | ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) | Outstanding contribution to the World Cups and community tournament scene |
+
+## 2022
+
+### June
+
+*For the news post, see: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+| User | Contributions |
+| :-- | :-- |
+| ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) |  Outstanding contribution to the osu! community tournament scene |
+| ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) |  Outstanding contribution to the development of osu!(lazer) |
+| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) |  Outstanding contribution to the development of osu!(lazer) |
+| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) |  Outstanding contribution to performance points development |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  Outstanding contribution to performance points development |
+| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) |  Outstanding contribution to performance points development |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |  Outstanding contribution to the osu! wiki (wikifriend) |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |  Outstanding contribution to the osu! wiki (wikifriend) |
+| ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) |  Outstanding contribution to macOS technical support |
+| ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) |  Outstanding leadership and contribution to Project Loved |
+| ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) |  Outstanding contribution to the mapping and modding scene (Mapping Tools) |
+| ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) |  Outstanding contribution to the mapping and modding scene (Manage Beatmap) |
+| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |  Outstanding contribution to the osu! community tournament scene |
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |  Outstanding contribution to the osu! community tournament scene |
+| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) |  Outstanding contribution to the osu! community IRL events (COE) & the tournament scene |
