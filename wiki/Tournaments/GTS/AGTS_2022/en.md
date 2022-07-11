@@ -53,7 +53,7 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1525704)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1567504)
 - [GTS Discord server](https://discord.gg/3mGC3HB)
 - [AGTS website](https://gtsosu.com/agts/home)
 - Livestream
