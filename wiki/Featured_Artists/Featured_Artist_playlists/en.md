@@ -1,7 +1,6 @@
 ---
 tags:
   - FA
-  - FA playlist
 ---
 
 # Featured Artist playlists

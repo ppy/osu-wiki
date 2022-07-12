@@ -1,9 +1,6 @@
 ---
 tags:
   - FA
-  - FA playlist
-  - Featured Artist
-  - Playlist des Featured Artists
 ---
 
 # Playlists des Featured Artists
