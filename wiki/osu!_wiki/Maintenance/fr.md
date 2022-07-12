@@ -62,13 +62,13 @@ L'osu! wiki est intégré au site web d'osu!, ce qui signifie que toutes les dem
 
 Certaines fonctionnalités ne sont pas directement liées au site web d'osu!, mais peuvent être utiles pour contribuer ou faire le ménage. Dans ce cas, elles sont implémentées par des personnes capables de le faire et ne sont **pas** ajoutées au site web directement :
 
-- [osu-wiki status](https://clayton.cc/osu-wiki-status/en) : liste des articles par langue, et la catégorie de maintenance qu'ils requièrent (traduction, mise à jour). Voir [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) pour les demandes de fonctionnalités.
+- [osu-wiki status](https://clayton.cc/osu-wiki-status/fr) : liste des articles par langue, et la catégorie de maintenance qu'ils requièrent (traduction, mise à jour). Voir [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) pour les demandes de fonctionnalités.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin) : un utilitaire Node.js pour les vérifications et les modifications automatisées (liens cassés, mises à jour des groupes d'utilisateurs, remplacement de textes à l'échelle du wiki, etc.)
 - [flag-wiki-osu](https://megaapplepi.github.io/flag-wiki-osu) : ajoute automatiquement les références aux drapeaux mentionnés dans un article. Voir [ppy/osu-wiki#328](https://github.com/ppy/osu-wiki/issues/328) pour les demandes de fonctionnalités.
 
 ## Routines
 
-*Remarque : le site [osu-wiki status](https://clayton.cc/osu-wiki-status/en) présente une liste de tous les articles nécessitant une maintenance, classés par catégorie.*
+*Remarque : le site [osu-wiki status](https://clayton.cc/osu-wiki-status/fr) présente une liste de tous les articles nécessitant une maintenance, classés par catégorie.*
 
 Le wiki repose sur les contributions de la communauté d'osu!. Vous pouvez aider les maintainers et les autres contributeurs en faisant votre part. Pour savoir comment faire, lisez le [guide de contribution](/wiki/osu!_wiki/Contribution_guide). Si vous êtes bloqué, demandez de l'aide sur le salon `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 

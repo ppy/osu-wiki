@@ -24,7 +24,7 @@ Le tag osu!supporter peut être obtenu depuis [la page de magasin osu!supporter]
 ![](img/usercard.png?2 "Carte utilisateur avec un badge osu!supporter")
 :::
 
-Les supporters obtiennent un badge orné de cœurs. Il peut être trouvé à côté du nom de l'utilisateur sur le site web. Le nombre de cœurs dépend de la durée de l'osu!supporter que l'utilisateur a acquis ou reçu au total. 
+Les supporters obtiennent un badge orné de cœurs. Il peut être trouvé à côté du nom de l'utilisateur sur le site web. Le nombre de cœurs dépend de la durée de l'osu!supporter que l'utilisateur a acquis ou reçu au total.
 
 - Moins d'1 an : 1 cœur
 - De 1 à 5 ans : 2 cœurs
@@ -53,15 +53,15 @@ La section `moi !` est un bon endroit pour :
 Les supporters peuvent customiser davantage leur profil en ajoutant une bannière :
 
 - Appuyez sur l'icône en forme de crayon dans le coin en bas à droite de la bannière.
-- Sélectionnez une nouvelle bannière à partir d'options prédéfinies, ou en mettant en ligne votre propre image (ses dimensions doivent être de 2400x640). 
+- Sélectionnez une nouvelle bannière à partir d'options prédéfinies, ou en mettant en ligne votre propre image (ses dimensions doivent être de 2400x640).
 
 Une fois que le tag osu!supporter aura expiré, cette bannière restera mais ne pourra plus être modifiée.
 
 ### Un changement de pseudo gratuit
 
-*Remarque : Des changements de pseudo mineurs peuvent-être demandés directement à l'équipe de support gratuitement, voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#changements-de-nom).*
+*Remarque : Des changements de pseudo mineurs peuvent-être demandés directement à l'équipe de support gratuitement, voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#name-changes).*
 
-Obtenir osu!supporter donne la possibilité de changer de nom d'utilisateur gratuitement la première fois en respectant les [conditions habituelles](/wiki/Help_centre/Account#changements-de-nom).
+Obtenir osu!supporter donne la possibilité de changer de nom d'utilisateur gratuitement la première fois en respectant les [conditions habituelles](/wiki/Help_centre/Account#name-changes).
 
 ### osu!direct
 
@@ -69,13 +69,13 @@ osu!direct est l'outil de recherche et de téléchargement de beatmaps en jeu di
 
 - Les liens de beatmaps dans le tchat qui mènent vers la page de la beatmap sur le site web d'osu! démarrent directement le téléchargement en jeu.
 - Téléchargements automatiques en jouant dans un lobby [multijoueur](/wiki/Gameplay/Multiplayer) ou en [observant](/wiki/Gameplay/Spectating) un autre joueur comme [paramètre](/wiki/Client/Options#intégrations).
-- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs comme [paramètre](/wiki/Client/Options#intégrations).
+- Lien automatique des beatmaps actuellement jouées dans l'onglet de tchat `#spectator` pour les spectateurs comme [paramètre](/wiki/Client/Options#notifications-et-vie-privée).
 
 ### Classements avancés
 
-Les supporters ont accès à plusieurs outils spécifiques aux [classements](/wiki/Beatmap#classement) d'une beatmap, disponibles à la fois en jeu et sur le site web : 
+Les supporters ont accès à plusieurs outils spécifiques aux [classements](/wiki/Beatmap#classement) d'une beatmap, disponibles à la fois en jeu et sur le site web :
 
-- Les classements globaux pour toutes les combinaisons de [modificateurs de jeu](/wiki/Game_modifier).
+- Les classements globaux pour toutes les combinaisons de [modificateurs de jeu](/wiki/Gameplay/Game_modifier).
 - Le classement par pays des joueurs portant le même drapeau.
 - Le classement des amis qui montre la position d'un joueur sur une beatmap par rapport à ses amis.
 
@@ -153,4 +153,4 @@ En outre, le donateur et le bénéficiaire recevront tous deux des notifications
 
 ## Références
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)

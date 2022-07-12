@@ -59,7 +59,7 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Alemán, serbio | Evaluación |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluación |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Español, francés | Evaluación |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Holandés | Evaluación |
+| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Neerlandés | Evaluación |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polaco | Evaluación |
 
 ### osu!taiko
@@ -75,7 +75,7 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | Evaluación, moderación |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandés | Evaluación, estructural |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Neerlandés | Evaluación, estructural |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | Evaluación |
 
 ### osu!mania

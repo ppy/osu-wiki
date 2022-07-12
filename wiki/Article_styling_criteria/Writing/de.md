@@ -348,9 +348,9 @@ Hochkommata für die Auslassung von Buchstaben (z. B. geht's anstatt geht es ode
 
 [Artikel mit informellen Registern](#sprachregister) sollten Semikolons (`;`) nicht verwenden.
 
-### Geviertstrich
+### Gedankenstriche
 
-Geviertstriche (`—`) müssen mit einem Leerzeichen davor und dahinter verwendet werden. In [Blockzitaten](#blockzitate) haben Geviertstriche nur ein Leerzeichen auf ihrer rechten Seite. Bindestriche (`-`) dürfen nicht an Stelle von Geviertstrichen verwendet werden.
+Verweis auf [einen Artikel zur Verwendung von Gedankenstrichen von texterclub](https://www.texterclub.de/rechtschreibung-gedankenstrich/). Bei der Interpunktion eines Satzes müssen Geviertstriche mit einem Leerzeichen davor und dahinter (" — ") benutzt werden, keine Halbgeviertstriche mit Leerzeichen (" – "). Bindestriche ("-") dürfen nicht an Stelle von Geviertstrichen verwendet werden.
 
 ### Zitate
 

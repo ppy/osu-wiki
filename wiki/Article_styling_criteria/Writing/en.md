@@ -336,9 +336,9 @@ Contractions must not be used.
 
 The serial comma, also known as the Oxford or Harvard comma, must be used.
 
-### Em dash
+### Dashes
 
-Em dashes (`—`) must be used without spaces around them. Hyphens must not be used in their place.
+Refer to [Wikipedia's Manual of Style for dash usage](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Dashes). When punctuating a sentence however, use em dashes with spaces around them (" — "), not spaced en dashes (" – "). Hyphens ("-") must not be used in place of dashes.
 
 ### Logical quotation
 

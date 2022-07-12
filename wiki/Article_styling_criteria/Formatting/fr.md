@@ -1,3 +1,8 @@
+---
+outdated_since: f5cbe6d8793eeb5aeec9376259b23bdbdbc1e84b
+outdated_translation: true
+---
+
 # Mise en forme
 
 *Pour les normes de rédaction, voir : [Critères de mise en forme d'article/Rédaction](../Writing)*\
@@ -326,8 +331,7 @@ Les rubriques ne doivent pas dépasser un niveau d'en-tête de 5 et ne doivent p
 
 ### Titres
 
-*Voir aussi : [Désignation de l'article](#désignation-de-l'article)*
-
+*Voir aussi : [Désignation de l'article](#désignation-de-l'article)*\
 *Attention : Les titres sont analysés en tant que texte brut ; ils ne doivent pas être espacés.*
 
 Le premier titre de tous les articles doit être un titre de niveau 1, c'est-à-dire le titre de l'article. Tous les titres suivants doivent être des [titres de section](#sections). Les titres ne doivent pas contenir de formatage, de liens ou d'images.
