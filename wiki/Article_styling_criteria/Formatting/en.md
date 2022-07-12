@@ -351,6 +351,10 @@ Section headings must use levels 2 to 5. The section heading proceeding the [tit
 
 Section headings must not skip a heading level (i.e. do not go from a level 2 heading to a level 4 heading) and must not contain formatting or links.
 
+Every section has a unique *identifier* that can be used to create a direct link to that part of the page. The default identifier for a section is a [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) transformation of its text, but it can also be [set manually](#custom-identifiers).
+
+Translations must not modify section identifiers. [Custom identifiers](#custom-identifiers) will most likely need to be used to achieve parity with English articles.
+
 *Notice: On the website, heading levels 4 and 5 will not appear in the table of contents.*
 
 ### Custom identifiers
