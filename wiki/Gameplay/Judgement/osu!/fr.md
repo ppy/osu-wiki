@@ -41,7 +41,7 @@ Les parties du slider ont également une influence supplémentaire sur le [combo
 
 ### Spinners
 
-Chaque spinner a un nombre déterminé de tours nécessaires pour le compléter. Ce nombre dépend de [l'overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) de la beatmap. Les critères de jugement pour un spinner dans son ensemble sont les suivants :
+Chaque spinner a un nombre déterminé de tours nécessaires pour le compléter. Ce nombre dépend de [l'overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-et-spinners) de la beatmap. Les critères de jugement pour un spinner dans son ensemble sont les suivants :
 
 - 300 : Le joueur a réussi à effectuer le nombre de tours requis pour la complétion, ou plus.
 - 100 : Le joueur a effectué un tour de moins que le nombre requis.
