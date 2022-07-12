@@ -70,13 +70,13 @@ osu!direct ist das Such- und Downloadmodul für Beatmaps im Spiel, welches nur f
 
 - Beatmap-Links im Chat, die auf Beatmaps auf der osu!-Webseite zeigen, lösen jetzt im Spiel eine Aufforderung zum Herunterladen aus
 - Automatisches Herunterladen von Beatmaps während des Spielens in einer [Mehrspieler](/wiki/Gameplay/Multiplayer)-Lobby oder beim [Zuschauen](/wiki/Gameplay/Spectating) eines anderen Spielers, als eine [Opt-out-Einstellung](/wiki/Client/Options#integration)
-- Automatische Verlinkung von aktuell gespielten Beatmaps für Zuschauer im Chat-Tab `#spectator`, als eine [Opt-out-Einstellung](/wiki/Client/Options#online)
+- Automatische Verlinkung von aktuell gespielten Beatmaps für Zuschauer im Chat-Tab `#spectator`, als eine [Opt-out-Einstellung](/wiki/Client/Options#alerts-and-privacy)
 
 ### Erweiterte Ranglisten
 
 Unterstützer haben Zugriff auf mehrere beatmapspezifische [Ranglisten](/wiki/Beatmap#leaderboards), die sowohl im Spiel als auch auf der Webseite verfügbar sind:
 
-- Globale Ranglisten für jede Kombination an [Spielmodifikationen](/wiki/Game_modifier)
+- Globale Ranglisten für jede Kombination an [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
 - Länderspezifische Ranglisten von Spielern, die die gleiche Flagge tragen
 - Freundesranglisten, die die Position eines Spielers auf einer Beatmap verglichen mit seinen Freunden zeigen
 
