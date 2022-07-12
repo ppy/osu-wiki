@@ -1,3 +1,8 @@
+---
+outdated_since: f5cbe6d8793eeb5aeec9376259b23bdbdbc1e84b
+outdated_translation: true
+---
+
 # Formatierung
 
 *Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*

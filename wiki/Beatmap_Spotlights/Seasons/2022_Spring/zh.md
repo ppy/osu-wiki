@@ -14,34 +14,34 @@ tags:
 | 阶段 | 时间 |
 | :-- | :-- |
 | 赛季开始 | 2022 年 5 月 22 日 |
-| 歌单模式大厅：歌单 A | 2022 年 5 月 22 日 - 6 月 5 日 |
-| 歌单模式大厅：歌单 B | 2022 年 6 月 5 日 - 6 月 19 日 |
-| 歌单模式大厅：歌单 C | 2022 年 6 月 19 日 - 7 月 3 日 |
-| 歌单模式大厅：歌单 A | 2022 年 7 月 3 日 - 7 月 10 日 |
-| 歌单模式大厅：歌单 B | 2022 年 7 月 10 日 - 7 月 17 日 |
-| 歌单模式大厅：歌单 C | 2022 年 7 月 17 日 - 7 月 24 日 |
+| 课题模式大厅：课题 A | 2022 年 5 月 22 日 - 6 月 5 日 |
+| 课题模式大厅：课题 B | 2022 年 6 月 5 日 - 6 月 19 日 |
+| 课题模式大厅：课题 C | 2022 年 6 月 19 日 - 7 月 3 日 |
+| 课题模式大厅：课题 A | 2022 年 7 月 3 日 - 7 月 10 日 |
+| 课题模式大厅：课题 B | 2022 年 7 月 10 日 - 7 月 17 日 |
+| 课题模式大厅：课题 C | 2022 年 7 月 17 日 - 7 月 24 日 |
 | 赛季结算 | 2022 年 7 月 24 日 |
 
 ## 每周多人游戏大厅
 
 目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](https://github.com/ppy/osu/releases)。
 
-1. 赛季每 2 周将开放一个歌单模式大厅，每大厅在整个开放期间都可参加。
-   - 在第一轮歌单结束后，每周将重新开放一个歌单。
-2. 每个大厅会提供一个提前准备好的歌单。
-   - 每个歌单内所包含的 Hard，Insane 和 Expert 难度均匀分布。
-   - 每个歌单与每两周分配的字母相对应。每个歌单会在下个周期复刻一次。
-3. 在歌单模式大厅中，每个人都可以争夺特定大厅的排行榜。
+1. 赛季每 2 周将开放一个课题模式大厅，每大厅在整个开放期间都可参加。
+   - 在第一轮课题结束后，每周将重新开放一个课题。
+2. 每个大厅会提供一个提前准备好的课题。
+   - 每个课题内所包含的 Hard，Insane 和 Expert 难度均匀分布。
+   - 每个课题与每两周分配的字母相对应。每个课题会在下个周期复刻一次。
+3. 在课题模式大厅中，每个人都可以争夺特定大厅的排行榜。
    - 只有最佳成绩会被计入排行榜当中，排行榜分数为大厅所有谱面分数的总和。
-   - 歌单中所有谱面均计入排行榜。
+   - 课题中所有谱面均计入排行榜。
    - 所有谱面分数均基于 osu!(lazer) 的分数系统。
-4. 歌单模式大厅关闭后，大厅内所有玩家的周 Ranked 谱面总分将添加到赛季排行榜当中。
+4. 课题模式大厅关闭后，大厅内所有玩家的周 Ranked 谱面总分将添加到赛季排行榜当中。
 
-## 歌单
+## 课题
 
 ### osu!（由 [Nowaie](https://osu.ppy.sh/users/5428909) 领导）
 
-#### 歌单 A（高速）
+#### 课题 A（高速）
 
 - [Otsukisama Koukyoukyoku - ultima Thule (Kyle Y) \[Ky's Hard\]](https://osu.ppy.sh/beatmapsets/1507229#osu/3204358)，由 [Nowaie](https://osu.ppy.sh/users/5428909) 推荐
 - [Aitsuki Nakuru & Kabocha - Lilith (Akito) \[Hard\]](https://osu.ppy.sh/beatmapsets/1344501#osu/2985707)，由 [ChillierPear](https://osu.ppy.sh/users/9501251) 推荐
@@ -53,7 +53,7 @@ tags:
 - [Iyowa feat. KAFU - Kyu-kurarin (0ugi) \[Anxiety\]](https://osu.ppy.sh/beatmapsets/1591460#osu/3250375)，由 [DeviousPanda](https://osu.ppy.sh/users/4966334) 推荐
 - [Yousei Teikoku - Zetsu (Mazzerin) \[Mazzerin's Extreme\]](https://osu.ppy.sh/beatmapsets/1262446#osu/2929651)，由 [Omgforz](https://osu.ppy.sh/users/578943) 推荐
 
-#### 歌单 B
+#### 课题 B
 
 - [Annabel - little voice (Niva) \[Niva's Hard\]](https://osu.ppy.sh/beatmapsets/1619033#osu/3343181)，由 [Nowaie](https://osu.ppy.sh/users/5428909) 推荐
 - [Silver Forest - Kero (9) destiny (Bloxi) \[Hard\]](https://osu.ppy.sh/beatmapsets/1670776#osu/3423825)，由 [DeviousPanda](https://osu.ppy.sh/users/4966334) 推荐
@@ -79,7 +79,7 @@ tags:
 
 ### osu!taiko（由 [Hivie](https://osu.ppy.sh/users/14102976) 领导）
 
-#### 歌单 A（高速）
+#### 课题 A（高速）
 
 - [7\_7 - Mousou Chikan Express (Cychloryn) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1581561#taiko/3238786)，由 [Hivie](https://osu.ppy.sh/users/14102976) 推荐
 - [Remo Prototype (CV: Hanamori Yumiri) - Sendan Life (katagiri Bootleg) (iceOC) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1118054#taiko/2564741)，由 [Axer](https://osu.ppy.sh/users/7299864) 推荐
@@ -91,7 +91,7 @@ tags:
 - [UNDEAD CORPORATION - Flowering Night Fever Guitar Inst-hen (Greenshell) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1506936#taiko/3217017)，由 [Axer](https://osu.ppy.sh/users/7299864) 推荐
 - [Kobaryo - Cartoon Candy (Hivie) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1496486#taiko/3067850)，由 [Axer](https://osu.ppy.sh/users/7299864) 推荐
 
-#### 歌单 B
+#### 课题 B
 
 - [Hakushi Hasegawa - Scary Point (woosungko) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1715489#taiko/3505281)，由 [\[Zeth\]](https://osu.ppy.sh/users/9912966) 推荐
 - [ZUN remixed by LeaF - Resurrection Spell (TKS) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/643492#taiko/1416126)，由 [uone](https://osu.ppy.sh/users/5321719) 推荐
@@ -117,7 +117,7 @@ tags:
 
 ### osu!catch（由 [SadEgg](https://osu.ppy.sh/users/10278243) 领导）
 
-#### 歌单 A（高速）
+#### 课题 A（高速）
 
 - [Umeboshi Chazuke - Bison Charge (Benita) \[Benita's Platter\]](https://osu.ppy.sh/beatmapsets/1368447#fruits/2845509)，由 [x\_angelkawaii\_x](https://osu.ppy.sh/users/566276) 推荐
 - [TUYU - Anoyo-iki no Bus ni Notte Saraba. (Souvenir) \[Platter\]](https://osu.ppy.sh/beatmapsets/1583701#fruits/3236139)，由 [SadEgg](https://osu.ppy.sh/users/10278243) 推荐
@@ -129,7 +129,7 @@ tags:
 - [Horie Yui - The World's End (Bastian and Greaper) \[Bastian & Greaper's Finale\]](https://osu.ppy.sh/beatmapsets/1134081#fruits/2368389)，由 [wonjae](https://osu.ppy.sh/users/5032045) 推荐
 - [Rish feat. Choko - Punai Punai Taisou (Kukkai) \[271 271\]](https://osu.ppy.sh/beatmapsets/1560368#fruits/3186972)，由 [x\_angelkawaii\_x](https://osu.ppy.sh/users/566276) 推荐
 
-#### 歌单 B
+#### 课题 B
 
 - [t+pazolite - Never Let me Go (Unlucky\_w) \[Platter\]](https://osu.ppy.sh/beatmapsets/1393508#fruits/2878615)，由 [SadEgg](https://osu.ppy.sh/users/10278243) 推荐
 - [DJ TOTTO feat. \*spiLa\* - illumina (Xetopia) \[Platter\]](https://osu.ppy.sh/beatmapsets/880513#fruits/2594189)，由 [wonjae](https://osu.ppy.sh/users/5032045) 推荐
@@ -155,7 +155,7 @@ tags:
 
 ### osu!mania（由 [Crumpey](https://osu.ppy.sh/users/3518705) 领导）
 
-#### 歌单 A（高速）
+#### 课题 A（高速）
 
 - [DJ TOTTO - Crystalia (Critical_Star) \[CS' Hyper\]](https://osu.ppy.sh/beatmapsets/782749#mania/1643587)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
 - [katagiri - HIVEMIND (DannyPX) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1665442#mania/3411830)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
@@ -167,7 +167,7 @@ tags:
 - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru (Evening) \[Till November Night (reprise)\]](https://osu.ppy.sh/beatmapsets/1647221#mania/3362200)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
 - [Frums - VIS::CRACKED (\[Crz\]Crysarlene) \[Mipha vs. Crys's Oblivion\]](https://osu.ppy.sh/beatmapsets/1561114#mania/3188294)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
 
-#### 歌单 B
+#### 课题 B
 
 - [MaxNRG - Hide Away My Heart (FAMoss) \[\[4K\] FAMoss' Hard\]](https://osu.ppy.sh/beatmapsets/668691#mania/1932787)，由 [Crumpey](https://osu.ppy.sh/users/3518705) 推荐
 - [MuryokuP - Frozen World (pwhk) \[\[8K\] Hyper\]](https://osu.ppy.sh/beatmapsets/693381#mania/1467150)，由 [lenpai](https://osu.ppy.sh/users/5314573) 推荐
