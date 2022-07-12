@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 3edcc9733800c0e9221a2032eede25009608e79d
----
-
 # Commandes de script d'un storyboard
 
 Chaque [déclaration d'objet](/wiki/Storyboard/Scripting/Objects) est suivie d'une ou plusieurs **commandes**. Celles-ci indiquent à l'objet de faire quelque chose, appelé **événement**, comme se déplacer ou changer de couleur. On peut considérer que chaque commande affecte une variable (ou un ensemble de variables) pour cet objet. Une fois la commande terminée, l'objet conserve ces valeurs jusqu'à ce qu'une autre commande les modifie. Les objets pour lesquels aucun type particulier de commande n'est utilisé utiliseront la valeur par défaut pour cette variable.
@@ -15,44 +10,49 @@ Où :
 
 - `_` peut être un espace au lieu d'un trait de soulignement.
 - `(event)` est une lettre/paire de lettres, correspondant à l'une des commandes ci-dessous.
-- `(easing)` indique si la commande doit "accélérer". Voir [Easing Functions Cheat Sheet](http://easings.net). Les valeurs valides sont :
-  - 0 - Linéaire : pas d'assouplissement
-  - 1 - Easing Out : les changements sont rapides au début, mais ralentissent vers la fin.
-  - 2 - Easing In : les changements se produisent lentement au début, mais s'accélèrent vers la fin.
-  - 3 - Quad In
-  - 4 - Quad Out
-  - 5 - Quad In/Out
-  - 6 - Cubic In
-  - 7 - Cubic Out
-  - 8 - Cubic In/Out
-  - 9 - Quart In
-  - 10 - Quart Out
-  - 11 - Quart In/Out
-  - 12 - Quint In
-  - 13 - Quint Out
-  - 14 - Quint In/Out
-  - 15 - Sine In
-  - 16 - Sine Out
-  - 17 - Sine In/Out
-  - 18 - Expo In
-  - 19 - Expo Out
-  - 20 - Expo In/Out
-  - 21 - Circ In
-  - 22 - Circ Out
-  - 23 - Circ In/Out
-  - 24 - Elastic In
-  - 25 - Elastic Out
-  - 26 - ElasticHalf Out
-  - 27 - ElasticQuarter Out
-  - 28 - Elastic In/Out
-  - 29 - Back In
-  - 30 - Back Out
-  - 31 - Back In/Out
-  - 32 - Bounce In
-  - 33 - Bounce Out
-  - 34 - Bounce In/Out
+- `(easing)` indique si la commande doit "accélérer". Voir [Easing Functions Cheat Sheet](http://easings.net). Les valeurs valides sont énumérées ci-dessous.
 - `(starttime)` et `(endtime)` sont les heures de début et de fin de la commande, respectivement en millisecondes (ms).
 - `(params...)` varier entre des valeurs spécifiques pour `(event)`. Il s'agit généralement des valeurs que les variables doivent prendre.
+
+Les valeurs valides pour l'assouplissement sont :
+
+| Valeur | Description |
+| :-: | :-- |
+| 0 | Linéaire : pas d'assouplissement |
+| 1 | Easing Out : les changements sont rapides au début, mais ralentissent vers la fin |
+| 2 | Easing In : les changements se produisent lentement au début, mais s'accélèrent vers la fin |
+| 3 | Quad In |
+| 4 | Quad Out |
+| 5 | Quad In/Out |
+| 6 | Cubic In |
+| 7 | Cubic Out |
+| 8 | Cubic In/Out |
+| 9 | Quart In |
+| 10 | Quart Out |
+| 11 | Quart In/Out |
+| 12 | Quint In |
+| 13 | Quint Out |
+| 14 | Quint In/Out |
+| 15 | Sine In |
+| 16 | Sine Out |
+| 17 | Sine In/Out |
+| 18 | Expo In |
+| 19 | Expo Out |
+| 20 | Expo In/Out |
+| 21 | Circ In |
+| 22 | Circ Out |
+| 23 | Circ In/Out |
+| 24 | Elastic In |
+| 25 | Elastic Out |
+| 26 | ElasticHalf Out |
+| 27 | ElasticQuarter Out |
+| 28 | Elastic In/Out |
+| 29 | Back In |
+| 30 | Back Out |
+| 31 | Back In/Out |
+| 32 | Bounce In |
+| 33 | Bounce Out |
+| 34 | Bounce In/Out |
 
 Dans certains cas particuliers, divers [shorthands](/wiki/Storyboard/Scripting/Shorthand) peuvent être utilisés.
 
