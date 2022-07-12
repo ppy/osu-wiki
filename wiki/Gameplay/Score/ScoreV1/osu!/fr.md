@@ -14,14 +14,14 @@ Chaque cercle se voit attribuer une valeur numérique en points selon la formule
 
 Où :
 
-- La *hit value* est la valeur numérique d'un jugement d'un cercle (50, 100, or 300).
+- Le *hit value* est la valeur numérique d'un jugement d'un cercle (50, 100, or 300).
 - Le *combo multiplier* est égal au (combo avant la frappe - 1) ou 0, selon la valeur la plus élevée.
-- Le *difficulty multiplier* est une valeur spécifique de la beatmap en cours de lecture. Voir la [section ci-dessous](#multiplicateur-de-difficulté) pour la formule exacte pour le calculer.
+- Le *difficulty multiplier* est une valeur spécifique de la beatmap en cours. Voir la [section ci-dessous](#multiplicateur-de-difficulté) pour la formule exacte pour le calculer.
 - Le *mod multiplier* est le multiplicateur total de l'ensemble des mods actifs.
 
 ### Multiplicateur de difficulté
 
-Le **multiplicateur de difficulté** correspond à une ancienne version du star rating pour la beatmap en cours de lecture. Il peut être calculé à l'aide de la formule suivante :
+Le **multiplicateur de difficulté** correspond à une ancienne version du star rating pour la beatmap en cours. Il peut être calculé à l'aide de la formule suivante :
 
 `Difficulty multiplier = Round((HP Drain + Circle Size + Overall Difficulty + Clamp(Hit object count / Drain time in seconds * 8, 0, 16)) / 38 * 5)`
 
