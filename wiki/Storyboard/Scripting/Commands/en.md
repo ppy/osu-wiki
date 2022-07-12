@@ -57,6 +57,7 @@ The valid values for easing are:
 In some special cases, various [shorthands](/wiki/Storyboard/Scripting/Shorthand) can be used.
 
 An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F).
+
 ![Setting a(n) sprite/object with their commands to do (Event).](img/SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
 
 ## Basic commands
