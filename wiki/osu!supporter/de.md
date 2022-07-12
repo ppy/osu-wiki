@@ -22,7 +22,7 @@ Das osu!supporter-Tag kann über die [osu!supporter-Seite des Stores](https://os
 :::
 
 ::: Infobox
-![](img/usercard-DE.png?2 "Benutzerkarte mit osu!supporter")
+![](img/usercard-DE.png "Benutzerkarte mit osu!supporter")
 :::
 
 Unterstützer bekommen ein Abzeichen mit Herzen darauf, das auf der Webseite normalerweise neben ihrem Benutzernamen angezeigt wird. Die Anzahl der Herzen hängt ab von der Dauer von osu!supporter, die der Nutzer insgesamt erworben oder erhalten hat<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
@@ -123,7 +123,7 @@ Unterstützer können auf der Early-Access-Updatequelle "cutting edge" auf den M
 ## Verbleibende Dauer
 
 ::: Infobox
-![](img/status-DE.jpg?1 "osu!supporter-Kaufstatistik")
+![](img/status-DE.jpg "osu!supporter-Kaufstatistik")
 :::
 
 Die restliche osu!supporter-Dauer sowie die Gesamtzahl an Beiträgen, Tag-Käufen und Geschenken ist oben auf der [osu!supporter-Promo-Seite](https://osu.ppy.sh/home/support) verfügbar.
