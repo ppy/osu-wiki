@@ -46,7 +46,6 @@ Un tag osu!supporter actif ajoutera un bouton `Colour` qui permet de mettre de l
 ![](img/Replay_discussion_comment.jpg "Faire un commentaire")
 
 Cliquez sur `Click to add a comment at the current time!` pour commenter sur la difficulté/beatmap actuelle.
-
 Le replay sera mis sur pause, assombri, avec le logo d'osu! en avant-plan au centre jusqu'à ce que le commentaire soit terminé (appuyez sur `Entrée`) ou annulé (appuyez sur `Echap`).
 
 ![](img/Replay_discussion_example.jpg "Exemple de défilement de commentaires")
@@ -242,7 +241,7 @@ Bien qu'il soit possible d'exporter un replay en mode spectateur, c'est une mauv
 
 Le replay exporté ne contiendra que les données de la partie à partir du moment où vous avez commencé à observer le joueur.
 
-Durant tout le temps avant cela, le curseur sera placé à l'endroit où il était au moment où vous avez rejoint et ne bougera pas. La barre de vie se videra comme d'habitude (selon le mode de jeu) 
+Durant tout le temps avant cela, le curseur sera placé à l'endroit où il était au moment où vous avez rejoint et ne bougera pas. La barre de vie se videra comme d'habitude (selon le mode de jeu).
 
 Une barre de vie vide ne fera pas échouer le replay.
 
@@ -261,4 +260,5 @@ Notez que c'est actuellement le seul moyen de sauvegarder un replay qui continue
 En fonction de l'intervalle de temps aléatoire sélectionné, il peut commencer à la *fin de la musique* sans aucun objet, ce qui conduit directement à l'écran des résultats avec 0 score, 0 combo, 0x hit bursts, une note D, aucun graphique de performance et une précision de 100,00%.
 En regardant le replay, le drain de santé fonctionnera comme d'habitude, pas de mouvement du curseur, et *pas de miss* (donc 100,00% de précision) jusqu'au moment où le temps de `Preview Gameplay` a été réglé sur run, où les hit bursts commenceront à fonctionner.
 
-Comme Auto ne peut pas échouer, une barre de santé vide n'a aucun effet sur Auto. Cependant, pour osu!taiko, si Auto ne peut pas remplir la barre de santé à 50% ou plus, le replay sera bloqué dans une *boucle infinie*.
+Comme Auto ne peut pas échouer, une barre de santé vide n'a aucun effet sur Auto.
+Cependant, pour osu!taiko, si Auto ne peut pas remplir la barre de santé à 50% ou plus, le replay sera bloqué dans une *boucle infinie*.
