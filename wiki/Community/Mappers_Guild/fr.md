@@ -62,7 +62,7 @@ La Mappers' Guild gère également des concours de beatmapping. Depuis janvier 2
 
 La Mappers' Guild a été lancée avec un groupe de moins de 10 joueurs vers fin 2017. Compte tenu des informations qui leur ont été fournis sur un nouvel Artiste Associé, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), ils étaient chargés de créer six beatmaps pour accompagner [la publication](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) sur l'artiste.
 
-Pour promouvoir d'anciens Featured Artists, le groupe recrutait de nouveaux membres et classa 8 beatmaps de différents artistes. Ces beatmaps furent publier dans un [post](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) accompagné d'un pack de [beatmaps téléchargeable](/wiki/Beatmap/Packs).
+Pour promouvoir d'anciens Featured Artists, le groupe recrutait de nouveaux membres et classa 8 beatmaps de différents artistes. Ces beatmaps furent publiées dans un [post](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) accompagné d'un pack de [beatmaps téléchargeable](/wiki/Beatmap/Packs).
 
 Dans la continuité de ces deux packs de beatmaps, la Mappers' Guild a continuellement agrandi son nombre de membres tout en publiant des packs pour les nouvelles annonces des Featured Artists, comme [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), ou encore [HyuN](https://osu.ppy.sh/beatmaps/artists/33), accompagné d'autres packs pour les musiques d'anciens Featured Artists.
 
@@ -70,7 +70,7 @@ Dans la continuité de ces deux packs de beatmaps, la Mappers' Guild a continuel
 
 Alors que le plan initial de la Mappers' Guild était d'avoir des éléments MMO tels que des quêtes, cela s'est avéré peu pratique à gérer tout en gérant manuellement les date limites pour le nombre limité de participants à la guilde. ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) et ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) commencèrent donc le développement d'un site web pour automatiser la Mappers' Guild vers la fin de l'année 2018, permettant une gestion plus adéquate des récompenses et du système de quête/groupes.
 
-Le [site web de la Mappers' Guild](https://mappersguild.com/) fut lancer le 1er Mars 2019 et c'est ici que tout ce qui concerne la Mappers' Guild est actuellement contrôlé. Depuis son ouverture au public, la guilde a atteint un nombre de membres supérieur à 500 et a publié des [articles de mise à jour](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) pour garder le reste de la communauté d'osu! à jour sur le contenu de mapping des Featured Artists.
+Le [site web de la Mappers' Guild](https://mappersguild.com/) est sorti le 1er Mars 2019 et c'est ici que tout ce qui concerne la Mappers' Guild est actuellement contrôlé. Depuis son ouverture au public, la guilde a atteint un nombre de membres supérieur à 500 et a publié des [articles de mise à jour](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) pour garder le reste de la communauté d'osu! à jour sur le contenu de mapping des Featured Artists.
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_US]: /wiki/shared/flag/US.gif "États-Unis"
