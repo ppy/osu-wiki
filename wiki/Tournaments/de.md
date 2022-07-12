@@ -1,3 +1,8 @@
+---
+outdated_since: 51dee80f97242f58303d6569311a1e93da10380e
+outdated_translation: true
+---
+
 # Turniere
 
 Dieser Bereich ist für osu!-Turniere bestimmt. Turniere haben ihr eigenes Forum, das man [über diesen Link](https://osu.ppy.sh/community/forums/55) finden kann.
@@ -425,7 +430,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Katacheh Global Taiko Showdown 2019](GTS/KGTS_2019) | 28.09.2019 | 13.10.2019 | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
 | [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 02.11.2019 | 02.02.2020 | Asien (Global), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) (Asien), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) (Europa), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) (Nordamerika), ! [][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) (Ozeanien/SEA), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) (Südamerika) | Europa (Global), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) (Asien), ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) (Europa), ! [][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) (Nordamerika), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) (Ozeanien/SEA), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) (Südamerika) | Nordamerika (Global), ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Asien), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) (Europa), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) (Nordamerika), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) (Ozeanien/SEA), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) (Südamerika) |
 | [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 05.30.2020 | 18.07.2020 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) |
-| [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 06.06.2020 | 19.07.2020 | ![][flag_US] Unites States A | ![][flag_JP] Japan A | ![][flag_SG] Singapore |
+| [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 06.06.2020 | 19.07.2020 | ![][flag_US] Vereinigte Staaten A | ![][flag_JP] Japan A | ![][flag_SG] Singapur |
 | [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 12.09.2020 | 01.11.2020 | ![][flag_SG] Singapur | ![][flag_CN] China A | ![][flag_JP] Japan A |
 | [Beginners Global Taiko Showdown 2020](GTS/BGTS_2020) | 05.12.2020 | 07.02.2021 | ![][flag_HK] Hong Kong | ![][flag_CA] Canada | ![][flag_RO] Romania |
 | [Continental Global Taiko Showdown 2021](GTS/CGTS_2021) | 06.02.2021 | 17.04.2021 | Asien | Europa | Nordamerika |
@@ -434,6 +439,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Intermediate Global Taiko Showdown 2021](GTS/IGTS_2021) | 24.07.2021 | 05.09.2021 | ![][flag_US] Vereinigte Staaten | ![][flag_CN] China | ![][flag_SG] Singapur |
 | [Expert Global Taiko Showdown 2021](GTS/EGTS_2021) | 02.10.2021 | 28.11.2021 | ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
 | [Squad Global Taiko Showdown 2021](GTS/SGTS_2021) | 08.01.2022 | 20.02.2022 | おまかせ | Ham | 皇-SUMERAGI- |
+| [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 26.03.2022 | 08.05.2022 | ![][flag_JP] Japan A | ![][flag_HK] Hong Kong | ![][flag_US] Vereinigte Staaten B |
 
 #### North & South American Taiko Tournament
 

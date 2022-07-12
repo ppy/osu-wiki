@@ -29,8 +29,7 @@ jobs:
           git config --local gc.auto 0
 
           # set up sparse checkout
-          git sparse-checkout init
-          git sparse-checkout set '**/*.md' '**/.remark*' '**/*.json' '**/*.yaml' 'scripts' 'wiki/**/*'
+          git sparse-checkout set --no-cone '**/*.md' '**/.remark*' '**/*.json' '**/*.yaml' 'scripts' 'wiki/**/*'
 
           # fetch the merge commit ref
           git -c protocol.version=2 fetch --no-tags --prune --progress --depth=2 origin +${GITHUB_SHA}:refs/remotes/origin/${BRANCH}
