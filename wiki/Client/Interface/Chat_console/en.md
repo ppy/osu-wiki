@@ -47,7 +47,7 @@ Each user signed in to osu! has a user panel displayed in Extended Chat. By defa
 | ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | Grey - Playing a beatmap in solo. |
 | ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | Light Blue - Watching a replay or spectating someone. |
 | ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap") | Red - Editing their own beatmap. |
-| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap") | Purple - Test playing a beatmap whether it's their beatmap or not. |
+| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap") | Purple - Test playing a beatmap in the editor. |
 | ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap") | Turquoise - Submitting (either uploading or updating) the beatmap that they have made. |
 | ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap") | Green - Modding or editing someone else's beatmap. |
 | ![Player in Multiplayer](img/Chat_Console-Multiplayer.png "Player in Multiplayer") | Brown - User is in multiplayer, but not playing. |
