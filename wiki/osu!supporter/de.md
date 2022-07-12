@@ -47,7 +47,7 @@ Die `ich!`-Seite könnte ein guter Platz sein für:
 
 - Banner, Kollaborationen und Infographiken, um das Profil aufzuhübschen
 - Einige Absätze oder Einträge, die Einblicke in das Leben des Spielers gewähren
-- Ein Schaufenster der beliebtesten Beatmaps, Mapper oder alles andere, das als Wichtig erachtet wird
+- Ein Schaufenster der beliebtesten Beatmaps, Mapper oder alles andere, das als wichtig erachtet wird
 
 ### Profilbanner
 
@@ -134,7 +134,7 @@ Die restliche osu!supporter-Dauer sowie die Gesamtzahl an Beiträgen, Tag-Käufe
 ![](img/store-product.jpg?2 "osu!supporter-Produktbanner aus dem osu!store")
 :::
 
-Um osu!supporter zu kaufen, besuche die [osu!supporter-Shop-Seite](https://osu.ppy.sh/store/products/supporter-tag) und passe die Dauer des Supporter-Tags mit Hilfe des Schiebereglers oder den Buttons mit der darunter befindlichen Anzahl an Monaten an. Alle Preise sind in United States Dollar (USD) und enthalten mögliche Gebühren für das Bezahlungssystem nicht.
+Um osu!supporter zu kaufen, besuche die [osu!supporter-Shop-Seite](https://osu.ppy.sh/store/products/supporter-tag) und passe die Dauer des Supporter-Tags mit Hilfe des Schiebereglers oder den Buttons mit der darunter befindlichen Anzahl an Monaten an. Alle Preise sind in United States Dollar (USD) angegeben und enthalten keine möglichen Gebühren für das Bezahlungssystem.
 
 Klicke danach auf `Zum Warenkorb hinzufügen`, um das Supporter-Tag in den osu!store-Einkaufswagen zu legen. Gehe zum Abschluss des Kaufs zum [Einkaufswagen](https://osu.ppy.sh/store/cart) und klicke `Zur Kasse`, dann folge den Anweisungen auf dem Bildschirm.
 
