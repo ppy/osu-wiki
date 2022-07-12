@@ -4,7 +4,6 @@ tags:
   - supporter
   - supporter tag
   - osu!supporter tag
-  - 支持者
   - 支持者标签
   - 撒泼特
 ---
