@@ -25,7 +25,7 @@ Das osu!supporter-Tag kann über die [osu!supporter-Seite des Stores](https://os
 ![](img/usercard-DE.png "Benutzerkarte mit osu!supporter")
 :::
 
-Unterstützer bekommen ein Abzeichen mit Herzen darauf, das auf der Webseite normalerweise neben ihrem Benutzernamen angezeigt wird. Die Anzahl der Herzen hängt ab von der Dauer von osu!supporter, die der Nutzer insgesamt erworben oder erhalten hat<!-- source: https://github.com/ppy/osu-web/blob/ac227d6abbd48630ebbf428c4e3372f388004ee5/app/Models/User.php#L1733-L1750 -->:
+Unterstützer bekommen ein Abzeichen mit Herzen darauf, das auf der Webseite normalerweise neben ihrem Benutzernamen angezeigt wird. Die Anzahl der Herzen hängt ab von der Dauer von osu!supporter, die der Nutzer insgesamt erworben oder erhalten hat:
 
 - Weniger als 1 Jahr: 1 Herz
 - Zwischen 1 und 5 Jahre: 2 Herzen
