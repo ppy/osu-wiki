@@ -2,7 +2,7 @@
 
 Die **Ranking-Kriterien für osu!mania** sind Regeln und Richtlinien, welche für die Gestaltung von osu!mania-spezifischen Schwierigkeitsstufen verwendet werden. Um eine osu!mania-spezifische Schwierigkeitsstufe zu ranken, ist es verpflichtend, dass die Gestaltung sich an die aufgelisteten Kriterien hält. Während **alle Regeln in jedem Fall befolgt werden müssen**, so können Richtlinien unter besonderen Umständen ignoriert werden. Diese besonderen Umstände müssen durch eine ausführliche Erklärung begründet werden, warum diese Richtlinie missachtet wurde und warum die generelle Qualität der Gestaltung gestört wird, wenn diese Richtlinie nicht ignoriert wird.
 
-Regelvorschläge sowie Anregungen werden im [Diskussionsforum für die Ranking-Kriterien](/wiki/Ranking_Criteria/Difficulty_naming) besprochen. Jegliche Regel, die eine Diskussion und den Genehmigungsprozess der Community durchlaufen ist, wird hier aufgeführt, da sie in den jeweiligen Diskussionsfäden akzeptiert wurde.
+Regelvorschläge sowie Anregungen werden im [Diskussionsforum für die Ranking-Kriterien](https://osu.ppy.sh/community/forums/87) besprochen. Jegliche Regel, die eine Diskussion und den Genehmigungsprozess der Community durchlaufen ist, wird hier aufgeführt, da sie in den jeweiligen Diskussionsfäden akzeptiert wurde.
 
 ## Glossar
 
