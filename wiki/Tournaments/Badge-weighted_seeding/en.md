@@ -11,7 +11,7 @@ tags:
 
 # Badge-weighted seeding
 
-**Badge-weighted seeding** (***BWS***) is a [tournament](/wiki/Tournaments) [seeding](https://en.wikipedia.org/wiki/Seed_(sports)) and restriction system that factors in each player's [profile badge](/wiki/Community/Profile_badge) count as well as their [global rank](/wiki/Ranking#performance-points-ranking). Originally designed by ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), the goal of the system was to "more accurately seed players and enforce rank restrictions based on \[a\] player's tournament badges",[^hippo-cup-bws] compared to the more standard seeding method of using players' global ranks directly.
+**Badge-weighted seeding** (***BWS***) is a [tournament](/wiki/Tournaments) [seeding](https://en.wikipedia.org/wiki/Seed_(sports)) and restriction system that factors in each player's [profile badge](/wiki/Community/Profile_badge) count as well as their [global rank](/wiki/Ranking#performance-points-ranking). Originally designed by ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), the goal of the system was to "more accurately seed players and enforce rank restrictions based on \[a\] player's tournament badges",[^hippo-cup-bws] compared to the more standard seeding method of using players' global ranks directly.
 
 The principle of BWS is that players are assigned a better seed if they have earned badges for playing tournaments in the past. This way, players cannot indefinitely stay at the same seed relative to other similarly ranked players if they perform well.[^digitalhypno-discord-1][^digitalhypno-discord-2] In a set of tournaments that all use BWS, players that start at similar ranks are expected to tend toward BWS seeds that better reflect their likelihood to win matches against similarly seeded players.[^digitalhypno-discord-3][^digitalhypno-discord-4]
 
@@ -45,19 +45,16 @@ Some tournaments vary their implementation of BWS by using a different seed func
   - Some more experimental versions of BWS include mechanisms to address this.[^oet-bws]
 - Extra work is required from tournament staff to determine which badges are relevant to the tournament and compute BWS.
 
-![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) has stated that BWS is "ideally not a permanent solution to the problem", and advocates instead for a matchmaking ladder (or similar) to be supported by the [game client](/wiki/Client).[^digitalhypno-discord-5]
+::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) has stated that BWS is "ideally not a permanent solution to the problem", and advocates instead for a matchmaking ladder (or similar) to be supported by the [game client](/wiki/Client).[^digitalhypno-discord-5]
 
 ## References
 
-[^badge-appeals]: ["Badge Appeals" forum post](https://osu.ppy.sh/community/forums/topics/1066357) by ![][flag_US] [Kron05](https://osu.ppy.sh/users/10505107)
-[^brtt-bws]: "BWS" section of [*Baku's Random Team Tournament #3* forum post](https://osu.ppy.sh/community/forums/topics/973512) by ![][flag_DE] [Bakugo-](https://osu.ppy.sh/users/4990127)
-[^digitalhypno-discord-1]: [Discord message (1)](https://discord.com/channels/841454370888351784/843627338839490560/987908575215120414) from ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) in the [*osu! University* server](https://discord.gg/QubdHdnBVg)
-[^digitalhypno-discord-2]: [Discord message (2)](https://discord.com/channels/841454370888351784/843627338839490560/987908667833737227) from ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) in the [*osu! University* server](https://discord.gg/QubdHdnBVg)
-[^digitalhypno-discord-3]: [Discord message (3)](https://discord.com/channels/841454370888351784/843627338839490560/987909537124204584) from ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) in the [*osu! University* server](https://discord.gg/QubdHdnBVg)
-[^digitalhypno-discord-4]: [Discord message (4)](https://discord.com/channels/841454370888351784/843627338839490560/987909775851388948) from ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) in the [*osu! University* server](https://discord.gg/QubdHdnBVg)
-[^digitalhypno-discord-5]: [Discord message (5)](https://discord.com/channels/841454370888351784/843627338839490560/987910347371458591) from ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) in the [*osu! University* server](https://discord.gg/QubdHdnBVg)
-[^hippo-cup-bws]: "What is BWS" section of [*Hippo Cup 2* forum post](https://osu.ppy.sh/community/forums/topics/848153) by ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189)
+[^badge-appeals]: ["Badge Appeals" forum post](https://osu.ppy.sh/community/forums/topics/1066357) by ::{ flag=US }:: [Kron05](https://osu.ppy.sh/users/10505107)
+[^brtt-bws]: "BWS" section of [*Baku's Random Team Tournament #3* forum post](https://osu.ppy.sh/community/forums/topics/973512) by ::{ flag=DE }:: [Bakugo-](https://osu.ppy.sh/users/4990127)
+[^digitalhypno-discord-1]: [Discord message (1)](https://discord.com/channels/841454370888351784/843627338839490560/987908575215120414) from ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) in the [*osu! University* server](https://discord.gg/QubdHdnBVg)
+[^digitalhypno-discord-2]: [Discord message (2)](https://discord.com/channels/841454370888351784/843627338839490560/987908667833737227) from ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) in the [*osu! University* server](https://discord.gg/QubdHdnBVg)
+[^digitalhypno-discord-3]: [Discord message (3)](https://discord.com/channels/841454370888351784/843627338839490560/987909537124204584) from ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) in the [*osu! University* server](https://discord.gg/QubdHdnBVg)
+[^digitalhypno-discord-4]: [Discord message (4)](https://discord.com/channels/841454370888351784/843627338839490560/987909775851388948) from ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) in the [*osu! University* server](https://discord.gg/QubdHdnBVg)
+[^digitalhypno-discord-5]: [Discord message (5)](https://discord.com/channels/841454370888351784/843627338839490560/987910347371458591) from ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) in the [*osu! University* server](https://discord.gg/QubdHdnBVg)
+[^hippo-cup-bws]: "What is BWS" section of [*Hippo Cup 2* forum post](https://osu.ppy.sh/community/forums/topics/848153) by ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
 [^oet-bws]: [osu! European Tournament 2021 § BWS format](/wiki/Tournaments/o!ET/2021#bws-format)
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
