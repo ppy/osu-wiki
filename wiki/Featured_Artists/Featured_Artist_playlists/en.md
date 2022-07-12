@@ -24,13 +24,13 @@ Leaders of each Featured Artist playlist are rewarded with mode-specific profile
 ### June 2022
 
 - 8 beatmaps
-- [Hidden (HD)](/wiki/Game_modifier/Hidden) mod required
-- [No Fail (NF)](/wiki/Game_modifier/No_Fail) and [Mirror (MR)](/wiki/Game_modifier/Mirror) freemod options
+- [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden) mod required
+- [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) and [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror) freemod options
 - Prizes rewarded to top 3 players in each playlist
 
 ### July 2022
 
 - 5 beatmaps
 - 15 allowed attempts across all playlist items
-- [Hidden (HD)](/wiki/Game_modifier/Hidden), [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock), [No Fail (NF)](/wiki/Game_modifier/No_Fail) and [Mirror (MR)](/wiki/Game_modifier/Mirror) freemod options
+- [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock), [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) and [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror) freemod options
 - Prizes rewarded to top 0.5% of players in each playlist

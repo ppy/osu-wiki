@@ -24,13 +24,13 @@ Les meilleurs joueurs de chaque playlist des Featured Artist sont récompensés 
 ### Juin 2022
 
 - 8 beatmaps
-- Mod [Hidden (HD)](/wiki/Game_modifier/Hidden) requis
-- Options des mods [No Fail (NF)](/wiki/Game_modifier/No_Fail) et [Mirror (MR)](/wiki/Game_modifier/Mirror) libres
+- Mod [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden) requis
+- Options des mods [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) et [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror) libres
 - Des prix ont été remis aux 3 meilleurs joueurs de chaque playlist.
 
 ### Juillet 2022
 
 - 5 beatmaps
 - 15 tentatives autorisées pour chaque beatmap de la playlist
-- Options des mods [Hidden (HD)](/wiki/Game_modifier/Hidden), [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock), [No Fail (NF)](/wiki/Game_modifier/No_Fail) et [Mirror (MR)](/wiki/Game_modifier/Mirror) libres
+- Options des mods [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock), [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) et [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror) libres
 - Des prix ont été attribués aux 0,5% de joueurs les plus performants dans chaque playlist.
