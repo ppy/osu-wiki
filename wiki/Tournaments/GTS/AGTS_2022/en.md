@@ -114,7 +114,7 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 
 ## Podium
 
-![](img/podium.jpg "TWC 2022 podium")
+![](img/podium.jpg "AGTS 2022 podium")
 
 ## Mappools
 
@@ -122,7 +122,7 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 
 **[Download the mappack here! (81 MB)](https://mega.nz/file/ADFT1CrC#XTXN7nMEhtnpZDkoay_QLS87aT47PF_agKi6ljH9EIg)**
 
-- No Mod
+- NoMod
   1. [Amebre Kizami - ABSOLUTE ENGAZER (nananass) \[Oni+\]](https://osu.ppy.sh/beatmapsets/1768837#taiko/3623029)
   2. [Noah - Fall into oblivion (Ak1o) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1373417#taiko/3689152)
   3. [DJ Mass MAD Izm\* - naughty girl@Queen's Palace (roufou) \[naughty mapper@Grand Finals\]](https://osu.ppy.sh/beatmapsets/1799287#taiko/3688518)
@@ -132,13 +132,13 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 - Hidden
   1. [BEMANI Sound Team "U1 overground" - Parvati (roufou) \[Modern Mapping\]](https://osu.ppy.sh/beatmapsets/1799286#taiko/3688516)
   2. [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Gamelan4) \[Decay\]](https://osu.ppy.sh/beatmapsets/1799067#taiko/3688115)
-- Hard Rock
+- HardRock
   1. [Rainbowdragoneyes - The Rift (Mew104) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/445365#taiko/1489206)
   2. [ReoNa - Nai Nai Nightcore (KMYK\_) \[Sayonara\]](https://osu.ppy.sh/beatmapsets/1554041#taiko/3175010)
-- Double Time
+- DoubleTime
   1. [JOYRYDE - ON FIRE (vrnl) \[no 1/8\]](https://osu.ppy.sh/beatmapsets/1277258#taiko/2653648)
   2. [Aimer - ONE AND LAST (WTHBRO) \[Farewell\]](https://osu.ppy.sh/beatmapsets/1743804#taiko/3565088)
-- Free Mod
+- FreeMod
   1. [katagiri - #2wise4u (Yuemiao) \[#1nn3r0n1 (AGTS edit)\]](https://osu.ppy.sh/beatmapsets/1733136#taiko/3685958)
   2. [kamome sano - Ganymede kamome mix (Ak1o) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1799562#taiko/3689154)
   3. [Cansol - 1,2,3,4! (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1658671#taiko/3385691)
@@ -149,7 +149,7 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 
 **[Download the mappack here! (76 MB)](https://mega.nz/file/GbZkzLiL#NBTFlkQqzpT6N-Qf4B79PkFBlat95vLlhyEpo_oFZFo)**
 
-- No Mod
+- NoMod
   1. [tobato - Digital(ooooooop) Tattoo (7\_7) \[Taiko(oooooooo)\]](https://osu.ppy.sh/beatmapsets/921770#taiko/1924891)
   2. [I love you orchestra - Tenshin - Trigger ver. (woosungko) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1310945#taiko/2717368)
   3. [Terminal 11 - Sparkle Downer (Xay) \[Sparkle Doni\]](https://osu.ppy.sh/beatmapsets/1128293#taiko/2357293)
@@ -159,13 +159,13 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 - Hidden
   1. [Jun Kuroda - Cybernetics (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1757585#taiko/3596914)
   2. [Collapsed Plug - Acceleration Insanity (Miyoi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1716645#taiko/3528897)
-- Hard Rock
+- HardRock
   1. [siromaru + cranky - Conflict (Lyawi) \[Zetera's Inner Oni\]](https://osu.ppy.sh/beatmapsets/810875#taiko/1701155)
   2. [USAO, Camellia - Mobius (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1794632#taiko/3678426)
-- Double Time
+- DoubleTime
   1. [23.exe - YY (cdh) \[Sunshine\]](https://osu.ppy.sh/beatmapsets/1794158#taiko/3677103)
   2. [ginkiha x Hommarju x t+pazolite - CROSSING DELTA (Faputa) \[ONI\]](https://osu.ppy.sh/beatmapsets/1067200#taiko/2236448)
-- Free Mod
+- FreeMod
   1. [Tenchio - skeleton (Lettuce ver.) (skolodojko) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1709635#taiko/3493439)
   2. [DWMw - Shirayama Hime no Kami (Zetera) \[Royal Judgement\]](https://osu.ppy.sh/beatmapsets/1433788#taiko/2950655)
   3. [Cyte - Honey's Whip (Mew) \[Defragmentation\]](https://osu.ppy.sh/beatmapsets/1476477#taiko/3029543)
@@ -176,7 +176,7 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 
 **[Download the mappack here! (78 MB)](https://mega.nz/file/zUpRHIwR#JBzY4kaOH7lTikfbRcXwf0ghhE3aULygrHteaRiRWUc)**
 
-- No Mod
+- NoMod
   1. [DJ Genki VS Higedriver feat. NU-KO - Hardcore de ikou! (N a N a) \[Nacore\]](https://osu.ppy.sh/beatmapsets/1789170#taiko/3665999)
   2. [Kobaryo - Chocolate Lily (ikin5050) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1586357#taiko/3273295)
   3. [wotoha - Lonerism (Cut Ver.) (tasuke912) \[Aloneness\]](https://osu.ppy.sh/beatmapsets/1739910#taiko/3556860)
@@ -186,13 +186,13 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 - Hidden
   1. [Tsumiki x Miyashita Yuu - CERCA/ESOTERICA (nananass) \[Oni\]](https://osu.ppy.sh/beatmapsets/1756062#taiko/3593676)
   2. [schnozz - they asked me how we got here, i told them "sir, this is an arby's" (KawaiiBass) \[...\]](https://osu.ppy.sh/beatmapsets/1755187#taiko/3591827)
-- Hard Rock
+- HardRock
   1. [EmoCosine - Cutter (Boaz) \[arc's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1734692#taiko/3553342)
   2. [seatrus - Stargaze Station (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1781965#taiko/3649198)
-- Double Time
+- DoubleTime
   1. [ARM - Water Lily (tasuke912) \[_Rise's Oni\]](https://osu.ppy.sh/beatmapsets/1590156#taiko/3272419)
   2. [Araki & nqrse - Taiyoukei Disco (un-plugged) \[Collab Oni\]](https://osu.ppy.sh/beatmapsets/668047#taiko/1415748)
-- Free Mod
+- FreeMod
   1. [Koiwai Kotori, Saito Yuka, Ito Miku, Kahara Yu, Machico - Do the IDOL!! \~Dangai Zeppeki Chupacabra\~ (komasy) \[Chupacabra!!\]](https://osu.ppy.sh/beatmapsets/1180900#taiko/2462315)
   2. [Snail's House - Zenith (tama11) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1789214#taiko/3666101)
   3. [tachyon - faster than light (ler1211) \[3.0x10^8\]](https://osu.ppy.sh/beatmapsets/1748152#taiko/3575755)
@@ -203,7 +203,7 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 
 **[Download the mappack here! (91 MB)](https://mega.nz/file/OGx3hLKA#_Dys144AvqEHubzd-em1hEo938VPSjyoVBAXuBKDLzs)**
 
-- No Mod
+- NoMod
   1. [katagiri - Buta Musou (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1698956#taiko/3471470)
   2. [BEMANI Sound Team "HuMeR" feat. Fernweh - Sakazuki (paz08) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1716821#taiko/3508306)
   3. [EMILIA (CV: Rie Takahashi) - Stay Alive - TEKINA Remix (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/836071#taiko/1750935)
@@ -212,13 +212,13 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 - Hidden
   1. [Golden City Factory - Stirring an Autumn Moon ~ Mooned Insect (Ak1o) \[Midnight Oni\]](https://osu.ppy.sh/beatmapsets/1784547#taiko/3654807)
   2. [Kairiki Bear feat. Meika Mikoto - Unhell(Sped Up ver.) (KTYN) \[Shameful life\]](https://osu.ppy.sh/beatmapsets/1584601#taiko/3236820)
-- Hard Rock
+- HardRock
   1. [Laur - L'Ultima Cena (Necromancy-) \[Inner Oni (GTS edit)\]](https://osu.ppy.sh/beatmapsets/1784536#taiko/3654790)
   2. [Renard - The Club (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1665894#taiko/3401153)
-- Double Time
+- DoubleTime
   1. [ROTTENGRAFFTY - "70cm Shihou no Madobe" (Miyoi) \[Oni\]](https://osu.ppy.sh/beatmapsets/1749607#taiko/3579310)
   2. [loos - Koi Yomi Zakura (Full size) (N a N a) \[GTS edit.\]](https://osu.ppy.sh/beatmapsets/1488323#taiko/3654765)
-- Free Mod
+- FreeMod
   1. [ARForest - Hidden Ending (Fynbi) \[True Ending (GTS edit)\]](https://osu.ppy.sh/beatmapsets/1341980#taiko/3653945)
   2. [Mitsukiyo - Rolling Beat (\[Zeth\]) \[Recursion\]](https://osu.ppy.sh/beatmapsets/1751055#taiko/3582379)
   3. [MYUKKE. - AKKERA-COUNTRY-BOY (Antti) \[COLORFUL-INNER-ONI\]](https://osu.ppy.sh/beatmapsets/1584690#taiko/3236997)
@@ -229,7 +229,7 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 
 **[Download the mappack here! (97 MB)](https://mega.nz/file/iQ5WTIhC#BuExWIBzRFzDc7AmHXO_SxLhlHWdfIkGeLE93rUBS7M)**
 
-- No Mod
+- NoMod
   1. [Dainippon Vocaloid Teikoku - SupiriCATS(FAIZ BOOTLEG) (7\_7) \[Meow\]](https://osu.ppy.sh/beatmapsets/1176310#taiko/2453493)
   2. [Amehurashi - complex syndrome (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1716806#taiko/3508278)
   3. [Avans - All In (Megafan) \[pog sheesh based\]](https://osu.ppy.sh/beatmapsets/1778768#taiko/3642958)
@@ -238,13 +238,13 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 - Hidden
   1. [penoreri - Sulfur (N a N a) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1779423#taiko/3644223)
   2. [technoplanet - Boys O'Clock (tama11) \[Oni\]](https://osu.ppy.sh/beatmapsets/1779419#taiko/3644219)
-- Hard Rock
+- HardRock
   1. [pm04034 - Teclitas Locas (juanilp4evr) \[pianitox\]](https://osu.ppy.sh/beatmapsets/1254210#taiko/2606452)
   2. [xi - Titania (\_Vex) \[HiroK's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1350545#taiko/2953551)
-- Double Time
+- DoubleTime
   1. [Celldweller - The Best It's Gonna Get (Zetera) \[My Perfect World\]](https://osu.ppy.sh/beatmapsets/1779180#taiko/3643747)
   2. [BAND-MAID - Blooming (Servatory) \[Volta's Oni\]](https://osu.ppy.sh/beatmapsets/1752310#taiko/3591840)
-- Free Mod
+- FreeMod
   1. [THE ROOF - cry about it (tama11) \[Derealization\]](https://osu.ppy.sh/beatmapsets/1679103#taiko/3430434)
   2. [+TEK - Blinded (Ak1o) \[Oni GTS\]](https://osu.ppy.sh/beatmapsets/1779422#taiko/3644222)
   3. [Lolica Tonica - Luv Charm (KIKYO MONDAI Remix) (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/984189#taiko/2059345)
@@ -255,7 +255,7 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 
 **[Download the mappack here! (73 MB)](https://mega.nz/file/uUQGSQpK#1ELmgS6eRrHPzto44A0S6AHcPs2XGOzSFIcC726W9us)**
 
-- No Mod
+- NoMod
   1. [DECO\*27 - Dilemma feat. Hatsune Miku (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1723776#taiko/3522924)
   2. [Kayuki - shingoku baku sakura (Ak1o) \[Oni\]](https://osu.ppy.sh/beatmapsets/1774275#taiko/3632845)
   3. [City Niigata - Ebicha no Shashinki (N a N a) \[Oni\]](https://osu.ppy.sh/beatmapsets/1774297#taiko/3632899)
@@ -263,13 +263,13 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 - Hidden
   1. [miComet - Animal (Maimaing) \[Business Friend\]](https://osu.ppy.sh/beatmapsets/1684699#taiko/3442203)
   2. [CK - Arca refleT (N a N a) \[Oni(GTS ver.)\]](https://osu.ppy.sh/beatmapsets/1774290#taiko/3632880)
-- Hard Rock
+- HardRock
   1. [Power Of Nature - BabeL \~Next Story\~ (uone) \[Oni\]](https://osu.ppy.sh/beatmapsets/699595#taiko/1481393)
   2. [tricot - Mitete (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1686901#taiko/3448035)
-- Double Time
+- DoubleTime
   1. [inabakumori - Post Shelter (Gamelan4) \[Correspondence\]](https://osu.ppy.sh/beatmapsets/1774374#taiko/3633093)
   2. [TJ Davis - Super Sonic Racing (Hivie) \[Lite Oni\]](https://osu.ppy.sh/beatmapsets/1599585#taiko/3306373)
-- Free Mod
+- FreeMod
   1. [sky\_delta vs Street - Load of the Ciel (Rokkea) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/340527#taiko/877854)
   2. [litmus\* as Ester - Krave (Extended Ver.) (davidminh0111) \[arc's Oni\]](https://osu.ppy.sh/beatmapsets/1656354#taiko/3380893)
   3. [Srav3R - Murasaki (Mew) \[Purple Promise\]](https://osu.ppy.sh/beatmapsets/1774117#taiko/3632561)
@@ -280,19 +280,19 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 
 **[Download the mappack here! (44 MB)](https://mega.nz/file/mQQWTDgZ#6C9mdiY9IpgKJrzrJaHG6kvORqAJsov_ES0Zbhl3bRw)**
 
-- No Mod
+- NoMod
   1. [PassCode - PROJECTION (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1577468#taiko/3221029)
   2. [pm04034 - sn4pside (Alchyr) \[inner?\]](https://osu.ppy.sh/beatmapsets/1755737#taiko/3592927)
   3. [MEMODEMO - SMACK 'em (Mew) \[Bonus Stage!\]](https://osu.ppy.sh/beatmapsets/1769450#taiko/3622154)
 - Hidden
   1. [Feryquitous - I can avoid it.#owo (\_DUSK\_) \[#inner oni\]](https://osu.ppy.sh/beatmapsets/1363824#taiko/2821419)
   2. [cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll (BlackBN) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1594775#taiko/3344097)
-- Hard Rock
+- HardRock
   1. [void - Caelumize (Zetera) \[Astral Oni\]](https://osu.ppy.sh/beatmapsets/995374#taiko/2082223)
   2. [An - LittleGameStar (Eyenine) \[InnerOni\]](https://osu.ppy.sh/beatmapsets/1180657#taiko/2461856)
-- Double Time
+- DoubleTime
   1. [PinocchioP x Hihumi - SAKURA TATTOO (KaEDe1106) \[Oni\]](https://osu.ppy.sh/beatmapsets/1603930#taiko/3275456)
-- Free Mod
+- FreeMod
   1. [HiTECH NINJA - Medusa (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1768803#taiko/3620815)
 
 ## Match results
@@ -519,17 +519,17 @@ Detailed statistics for this round can be found [here](https://gtsosu.com/agts/s
 
 1. There will be one mappool for each stage.
 2. The loser's bracket will play on the same pool as the winner's bracket of the same weekend.
-3. The Qualifier pool will be different from all other rounds, as it will have a format of 3 No Mod maps, 2 Hidden maps, 2 Hard Rock maps, 1 Double Time map, and 1 Free Mod map.
-4. Each mappool consists of 6 sections: **No Mod, Hidden, Hard Rock, Double Time, Free Mod, and Tiebreaker**.
+3. The Qualifier pool will be different from all other rounds, as it will have a format of 3 NoMod maps, 2 Hidden maps, 2 HardRock maps, 1 DoubleTime map, and 1 FreeMod map.
+4. Each mappool consists of 6 sections: **NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker**.
 5. The total maps per stage will be listed as follows:
    - The Group stage mappool will consist of 14 maps.
    - The Round of 16 and Quarterfinals mappools will consist of 15 maps.
    - The Semifinals, Finals and Grand Finals mappools will consist of 16 maps.
-6. All stages will have 2 Hidden, Hard Rock, and Double Time maps, and 3 Free Mod maps.
-7. The Free Mod pool is played with Free Mod activated. Every player may pick a combination of Hidden and Hard Rock, but at least one player from each team must have at least one mod activated.
+6. All stages will have 2 Hidden, HardRock, and DoubleTime maps, and 3 FreeMod maps.
+7. The FreeMod pool is played with FreeMod activated. Every player may pick a combination of Hidden and HardRock, but at least one player from each team must have at least one mod activated.
 8. Players cannot pick the same mod combination as their team member.
-9. The size of the No Mod bracket will be 4 maps in Group Stage, 5 maps in Round of 16, and 6 maps for the rest of the stages.
-10. The tiebreaker is played under Free Mod conditions, but it is not necessary to have a mod activated.
+9. The size of the NoMod bracket will be 4 maps in Group Stage, 5 maps in Round of 16, and 6 maps for the rest of the stages.
+10. The tiebreaker is played under FreeMod conditions, but it is not necessary to have a mod activated.
 11. The mappool for each stage will be showcased a week beforehand.
 
 ### Scheduling instructions
