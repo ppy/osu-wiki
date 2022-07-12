@@ -11,7 +11,7 @@ La forme d'une déclaration d'échantillon audio est la suivante :
 Où :
 
 - `<time>` est le moment auquel le son doit commencer à être joué.
-- `<layer_num>` est une valeur *numérique* correspondant à la couche sur laquelle vous voulez que le son soit. Les valeurs valides sont énumérées ci-dessous.
+- `<layer_num>` est une valeur *numérique* correspondant à la couche sur laquelle vous voulez que le son ce trouve. Les valeurs valides sont énumérées ci-dessous.
 - `<filepath>` est le même concept que pour les sprites, mais fait référence au fichier .wav, .mp3 ou .ogg.
 - `<volume>` est un nombre compris entre 1 et 100 pour indiquer l'intensité sonore relative du son (laisser off pour 100 par défaut)
 

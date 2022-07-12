@@ -18,9 +18,9 @@ Les valeurs valides pour l'assouplissement sont :
 
 | Valeur | Description |
 | :-: | :-- |
-| 0 | Linéaire : pas d'easing |
-| 1 | Easing Out: les changements sont rapides au début, mais ralentissent vers la fin |
-| 2 | Easing In: les changements se produisent lentement au début, mais s'accélèrent vers la fin |
+| 0 | Linéaire : pas d'assouplissement |
+| 1 | Easing Out : les changements sont rapides au début, mais ralentissent vers la fin |
+| 2 | Easing In : les changements se produisent lentement au début, mais s'accélèrent vers la fin |
 | 3 | Quad In |
 | 4 | Quad Out |
 | 5 | Quad In/Out |
