@@ -22,7 +22,7 @@ Regelvorschläge sowie Anregungen werden im [Diskussionsforum für die Ranking-K
 - **Spalte (Column)**: Vertikale Linien auf dem Spielfeld, auf dem die Noten platziert werden. Der Editor benutzt `0|1|2|3|4|5|6|7|8|9` für Zeitstempel-Bezeichnungen.
 - **Tastenmodi (Key Mode)**: Die Anzahl der Spalten in einer Schwierigkeitsstufe.
 - **Keysounding**: Hitsounding an jeweiliger Stelle mit Hilfe von Samples, welche sehr ähnlich oder direkt vom Song stammen.
-- **Slider-Geschwindigkeit**: Die Geschwindigkeit mit der sich die Noten/Taktstriche auf dem Spielfeld bewegen. Die Basisgeschwindigkeit (1,0x) basiert auf der Scroll-Geschwindigkeit des Spielers. Zusätzliche Änderungen können durch vererbte (grüne) Zeitpunkte vorgenommen werden. 
+- **Slider-Geschwindigkeit**: Die Geschwindigkeit mit der sich die Noten/Taktstriche auf dem Spielfeld bewegen. Die Basisgeschwindigkeit (1,0x) basiert auf der Scroll-Geschwindigkeit des Spielers. Zusätzliche Änderungen können durch vererbte (grüne) Zeitpunkte vorgenommen werden.
 - **Langzeitige Änderungen der Slider-Geschwindigkeit**: Ein Geschwindigkeitswechsel, welcher länger als 4 Takte dauert.
 - **Musikalische Phrase**: Eine eigenständige Einheit des musikalischen Metrums, die normalerweise 4 Takte lang ist.
 - **Kurzzeitige Änderungen der Slider-Geschwindigkeit**: Ein Geschwindigkeitswechsel, welcher kürzer als 1/2 von einem Beat dauert.
@@ -69,9 +69,9 @@ Allgemeine Regeln und Richtlinien gelten für jede osu!mania-Schwierigkeit. Rhyt
 ### Richtlinien
 
 - **Jede Note sollte mit einem in der Musik vorkommenden Klang verbunden sein.** Dies sollte ein eindeutiger Klang sein, jedoch kann es auch ein kontinuierlicher Klang mit ununterscheidbarem Anfang oder Ende darstellen. Ausnahmen zugunsten der Vereinfachung sollten vorgenommen werden, wenn man der Musik genau folgt...
-  -  und es unangemessen wäre mit voller Genauigkeit zu spielen.
-  -  und die Musik mit einem konsistenten, vorhersehbaren Snap genau wiedergegeben werden kann.
-  -  und es eine unpassende Schwierigkeitssteigerung verursacht.
+  - und es unangemessen wäre mit voller Genauigkeit zu spielen.
+  - und die Musik mit einem konsistenten, vorhersehbaren Snap genau wiedergegeben werden kann.
+  - und es eine unpassende Schwierigkeitssteigerung verursacht.
 - **Lange Noten sollten mindestens 1/12 eines Beats gehalten werden.** Schnellere Release-Zeiten sind für das Spielen mit voller Genauigkeit unzumutbar.
 - **Vermeide die Verwendung von im Storyboard gesampelte Hitsounds mit ähnlicher Lautstärke wie die Hitsounds auf den Noten.** Da Storyboard-Hitsounds das Audio-Feedback von Objekten in der Beatmap überlagern und verzerren könnten, sollte die Platzierung von Hitsounds auf einer Note in der Beatmap Vorrang haben. Storyboard-Samples können jedoch verwendet werden, wenn Keysounds direkt aus einem Song extrahiert werden und bei einfachen Schwierigkeiten zu wenige Noten vorhanden sind, um notwendige Hitsounds zu unterstützen.
 - **Verwende keine Keysounds ohne Hitnormal-Unterstützung.** Wenn Hitsounds perfekt mit dem Song harmonieren, ist das Feedback beim Drücken von Noten minimal. Wenn jedoch direkt aus einem Song extrahierte Keysounds als Ersatz für das Audio eines Songs verwendet werden, benötigen sie keine Hitnormal-Unterstützung.
