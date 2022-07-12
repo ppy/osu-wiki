@@ -1,6 +1,6 @@
 # Global Taiko Showdown
 
-Index pagina voor de Global Taiko Showdown toernooien
+Index pagina voor de Global Taiko Showdown toernooien.
 
 ## Advanced Global Taiko Showdown
 

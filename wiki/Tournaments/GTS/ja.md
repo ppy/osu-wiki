@@ -1,6 +1,6 @@
 # Global Taiko Showdown
 
-Global Taiko Showdownシリーズの一覧。
+Global Taiko Showdown シリーズの一覧。
 
 ## Advanced Global Taiko Showdown
 

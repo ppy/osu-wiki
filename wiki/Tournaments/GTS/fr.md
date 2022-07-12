@@ -1,6 +1,6 @@
 # Global Taiko Showdown
 
-Page d'index pour toute la série Global Taiko Showdown.
+Page index de la série Global Taiko Showdown.
 
 ## Advanced Global Taiko Showdown
 
