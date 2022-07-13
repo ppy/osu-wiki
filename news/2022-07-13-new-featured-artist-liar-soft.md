@@ -64,7 +64,7 @@ Lift your mood with [this upbeat osu! map](https://osu.ppy.sh/beatmapsets/388619
 
 ### Rita - Tonitrus
 
-If you've played through recent [Beatmap Spotlights](/wiki/Beatmap_Spotlights), you're already well versed with [this osu! map](https://osu.ppy.sh/beatmapsets/926756) hosted by [Frakturehawkens](https://osu.ppy.sh/users/7458583)!
+If you've played through the recent [Beatmap Spotlights](/wiki/Beatmap_Spotlights), you're likely already well versed with [this osu! map](https://osu.ppy.sh/beatmapsets/926756) hosted by [Frakturehawkens](https://osu.ppy.sh/users/7458583)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/283/Songs/Rita%20-%20Tonitrus.mp3" type="audio/mpeg">
@@ -74,12 +74,12 @@ If you've played through recent [Beatmap Spotlights](/wiki/Beatmap_Spotlights), 
 
 These songs are only the tip of the iceberg. Visit [**Liar-soft**'s full Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/283) for the entire library of songs, including more tunes sung by *Rita* and a couple other vocalists!
 
-And that covers everything for today's artist announcement! Keep track of the [@osugame Twitter](https://twitter.com/osugame) for the next one, and we'll sign with the following important advice:
+And that covers everything for today's artist announcement! Keep track of the [@osugame Twitter](https://twitter.com/osugame) for the next one, and we'll sign off with the following important advice:
 
 ```
 0,328,0,6,0,B|48:323|61:274|61:274|45:207|45:207|63:169|103:169|103:169|249:199|249:199|215:214|205:254,1,450.000017166138,6|6,1:1|2:1,0:0:0:0:
 ```
 
-Have fun mapping.
+Have fun mapping!
 
 —pishifat
