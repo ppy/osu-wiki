@@ -1,6 +1,6 @@
 # Global Taiko Showdown
 
-GTS 목록
+Global Taiko Showdown 시리즈의 목차 페이지입니다
 
 ## Advanced Global Taiko Showdown
 
