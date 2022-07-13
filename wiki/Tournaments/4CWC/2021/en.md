@@ -23,7 +23,7 @@ The **4 Digit Catch World Cup 2021** (***4CWC 2021***) was a country-based osu!c
 | Round of 16 | 2021-10-16/2021-10-17 |
 | Quarterfinals | 2021-10-23/2021-10-25 |
 | Semifinals | 2021-10-30/2021-10-31 |
-| Finals | 2022-11-06/2021-11-07 |
+| Finals | 2021-11-06/2021-11-07 |
 | Grand Finals | 2021-11-13/2021-11-14 |
 
 ## Prizes
@@ -36,7 +36,7 @@ The **4 Digit Catch World Cup 2021** (***4CWC 2021***) was a country-based osu!c
 
 ## Organisation
 
-The 4 Digit Catch World Cup 2021 is run by various community members.
+The 4 Digit Catch World Cup 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -148,11 +148,11 @@ This competition has come to an end and resulted in the following podium:
 
 - Nomod
   1. [SECONDWALL - Natsu no Owari (Roxy Migurdia) \[Summer Memories\]](https://osu.ppy.sh/beatmapsets/1491803#fruits/3057895)
-  2. [Function Phantom - Euclid (Ascendance) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/729321)
+  2. [Function Phantom - Euclid (Ascendance) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/729321#fruits/1546703)
   3. [toby fox - Death by Glamour (Kyptoric) \[The Show Must Go On\]](https://osu.ppy.sh/beatmapsets/1355710#fruits/2805840)
   4. [Mio Yamazaki - Noise (English ver.) (Akitoshi) \[Expert\]](https://osu.ppy.sh/beatmapsets/702892#fruits/1490581)
   5. [P*Light - Storm Buster (Asphyxia) \[yf's Expert\]](https://osu.ppy.sh/beatmapsets/454843#fruits/1137415)
-  6. [TOMOSUKE - Macuilxochitl (Sprosive) \[Extreme\]]
+  6. [TOMOSUKE - Macuilxochitl (Sprosive) \[Extreme\]](https://osu.ppy.sh/beatmapsets/40371#fruits/128132)
 - Hidden
   1. [cosMo@BousouP - Oceanus (Du5t) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/1463973#fruits/3039347)
   2. [Eyemedia - Holy Knight (Enjuxx) \[Rain\]](https://osu.ppy.sh/beatmapsets/1594490#fruits/3256830)
@@ -172,9 +172,9 @@ This competition has come to an end and resulted in the following podium:
   1. [MYUKKE. - The 89's Momentum (Spectator) \[Rain\]](https://osu.ppy.sh/beatmapsets/1340492#fruits/2777149)
   2. [Sakuzyo - Magical Musical Master (Rocma) \[Nelly's Rain\]](https://osu.ppy.sh/beatmapsets/1097927#fruits/2315442)
   3. [GigaP - LUVORATORRRRRY! ver Reol feat. nqrse (Ryuusei Aika) \[xidorn's Insane\]](https://osu.ppy.sh/beatmapsets/1296266#fruits/2759282)
-  4. [Zeami feat. Ayane - Senpuu no Mai (CS ver.) (epidopodus) \[Niber's Insane\]](https://osu.ppy.sh/beatmapsets/19013)
+  4. [Zeami feat. Ayane - Senpuu no Mai (CS ver.) (epidopodus) \[Niber's Insane\]](https://osu.ppy.sh/beatmapsets/19013#fruits/67217)
 - Tiebreaker
-  1. [Meramipop - Secret Desire - Dyes Remix - (-Luminate) \[Collab\]](https://osu.ppy.sh/beatmapsets/826663)
+  1. [Meramipop - Secret Desire - Dyes Remix - (-Luminate) \[Collab\]](https://osu.ppy.sh/beatmapsets/826663#fruits/1732355)
 
 ### Semifinals
 
@@ -225,7 +225,7 @@ This competition has come to an end and resulted in the following podium:
   1. [FOMARE - Grey (rew0825) \[Rain\]](https://osu.ppy.sh/beatmapsets/1522175#fruits/3115097)
   2. [Mili - String Theocracy (JierYagtama) \[Rain\]](https://osu.ppy.sh/beatmapsets/1287323#fruits/3230732)
   3. [TUYU - Rock na Kimi to wa Owakare da (Seros) \[too's Insane\]](https://osu.ppy.sh/beatmapsets/1158494#fruits/2711135)
-  4. [Mili - Utopiosphere (DJ Lucky) \[Insane\]](https://osu.ppy.sh/beatmapsets/920337)
+  4. [Mili - Utopiosphere (DJ Lucky) \[Insane\]](https://osu.ppy.sh/beatmapsets/920337#fruits/1922035)
 - HardRock
   1. [Morimori Atsushi - PUPA (Spectator) \[Platter\]](https://osu.ppy.sh/beatmapsets/660618#fruits/2682070)
   2. [UNDEAD CORPORATION - Everything will freeze (Daletto) \[Rew's Salad\]](https://osu.ppy.sh/beatmapsets/1293905#fruits/2696377)
@@ -250,7 +250,7 @@ This competition has come to an end and resulted in the following podium:
 
 - Nomod
   1. [Hanatan - Yuragi (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/602506#fruits/1272606)
-  2. [Laur - Vindication (Nelly) \[AFB's Future\]](https://osu.ppy.sh/beatmapsets/1350712)
+  2. [Laur - Vindication (Nelly) \[AFB's Future\]](https://osu.ppy.sh/beatmapsets/1350712#fruits/2807068)
   3. [NeLiME - CODE NAME : ZERO (ursa) \[Rain\]](https://osu.ppy.sh/beatmapsets/148238#fruits/374232)
   4. [TUYU - Doro no Bunzai de Watashi dake no Taisetsu o Ubaouda nante (Keqing) \[AmaSAI's Insane\]](https://osu.ppy.sh/beatmapsets/1242733#fruits/2601641)
   5. [ARForest - Aoba (Niva) \[Viola\]](https://osu.ppy.sh/beatmapsets/1131726#fruits/2363943)
@@ -286,7 +286,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [SEREBRO - Mi Mi Mi (Sped Up Ver.) (Imai Lisa) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/1016210#fruits/2163004)
   2. [dora - Vtyurilas' (Imai Lisa) \[Platter\]](https://osu.ppy.sh/beatmapsets/1249522#fruits/2598047)
-  3. [S3RL - Candy (feat. Sara) (Nuvolina) \[Nuvolina & Anto's Insane\]](https://osu.ppy.sh/beatmapsets/829956#osu/1742403)
+  3. [S3RL - Candy (feat. Sara) (Nuvolina) \[Nuvolina & Anto's Insane\]](https://osu.ppy.sh/beatmapsets/829956#fruits/1742403)
 - HardRock
   1. [HyuN feat. JeeE - Fallen Angel (autofanboy) \[Salad\]](https://osu.ppy.sh/beatmapsets/1141049#fruits/2621372)
   2. [Morimori Atsushi - Toono Gensou Monogatari ([-Kukkai-]) (MRM REMIX) \[Salad\]](https://osu.ppy.sh/beatmapsets/1474955#fruits/3041214)
@@ -357,7 +357,7 @@ Friday, 29 October 2021:
 
 | Bracket | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | Germany ::{ flag=RU }:: | 4 | **6** | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/93146315) |
+| Upper | Germany ::{ flag=RU }:: | 4 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/93146315) |
 
 Saturday, 30 October 2021:
 
@@ -365,7 +365,7 @@ Saturday, 30 October 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | Philippines ::{ flag=PH }:: | 0 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/93203260) |
 | Lower | **Thailand** ::{ flag=TH }:: | **6** | 2 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/93185183) |
-| Lower | Russian Federation ::{ flag=RU }:: | 5 | **6** | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/93203076) |
+| Lower | Russian Federation ::{ flag=RU }:: | 5 | **6** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/93203076) |
 | Lower | **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=MA }:: Morocco | [#1](https://osu.ppy.sh/community/matches/93206907) |
 | Lower | **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/93214745) |
 
@@ -387,21 +387,21 @@ Saturday, 23 October 2021:
 | Upper | Russian Federation ::{ flag=RU }:: | 3 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/92824923) |
 | Upper | **Philippines** ::{ flag=PH }:: | **6** | 4 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/92826258) |
 | Lower | Chile ::{ flag=CL }:: | 5 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/92800092) |
-| Lower | Malaysia ::{ flag=MY }:: | **6** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/92809122) |
-| Lower | France ::{ flag=FR }:: | **6** | 0 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/92822021) |
+| Lower | **Malaysia** ::{ flag=MY }:: | **6** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/92809122) |
+| Lower | **France** ::{ flag=FR }:: | **6** | 0 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/92822021) |
 | Lower | **Poland** ::{ flag=PL }:: | **6** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/92827243) |
 | Lower | **Singapore** ::{ flag=SG }:: | **6** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/92827510) |
 | Lower | **United States** ::{ flag=US }:: | **6** | 1 | ::{ flag=BL }:: Brazil | [#1](https://osu.ppy.sh/community/matches/92837057) |
 | Lower | Europe ::{ flag=EU }:: | 5 | **6** | ::{ flag=MA }:: **Morocco** | [#1](https://osu.ppy.sh/community/matches/92844399) |
-| Lower | Mexico ::{ flag=MX }:: | **6** | 0 | ::{ flag=RO }:: **Romania** | *win by default* |
+| Lower | **Mexico** ::{ flag=MX }:: | **6** | 0 | ::{ flag=RO }:: Romania | *win by default* |
 
 Sunday, 24 October 2021:
 
 | Bracket | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Mexico ::{ flag=MX }:: | **6** | 2 | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/92865202) |
+| Lower | **Mexico** ::{ flag=MX }:: | **6** | 2 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/92865202) |
 | Lower | United States ::{ flag=US }:: | 0 | **6** | ::{ flag=AU }:: **Australia** | *win by default* |
-| Lower | Singapore ::{ flag=SG }:: | **6** | 1 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/92883881) |
+| Lower | **Singapore** ::{ flag=SG }:: | **6** | 1 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/92883881) |
 | Lower | **Morocco** ::{ flag=MA }:: | **6** | 3 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/92886098) |
 
 ### Round of 16
@@ -412,9 +412,9 @@ Saturday, 16 October 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **Russian Federation** ::{ flag=RU }:: | **5** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/92481365) |
 | Upper | **Taiwan** ::{ flag=TW }:: | **5** | 3 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/92484301) |
-| Lower | **Vietnam** ::{ flag=VN }:: | 0 | **5** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/92481395) |
+| Lower | Vietnam ::{ flag=VN }:: | 0 | **5** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/92481395) |
 | Lower | **Romania** ::{ flag=RO }:: | **5** | 2 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/92481458) |
-| Lower | **Algeria** ::{ flag=DZ }:: | 0 | **5** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/92489194) |
+| Lower | Algeria ::{ flag=DZ }:: | 0 | **5** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/92489194) |
 | Lower | Portugal ::{ flag=PT }:: | 0 | **5** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/92494433) |
 | Lower | Israel ::{ flag=IL }:: | 0 | **5** | ::{ flag=MA }:: **Morocco** | [#1](https://osu.ppy.sh/community/matches/92498068) |
 
@@ -423,7 +423,7 @@ Sunday, 17 October 2021:
 | Bracket | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **Philippines** ::{ flag=PH }:: | **5** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/92522327) |
-| Upper | United States ::{ flag=US }:: | 3 | **5** | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/92527826) |
+| Upper | United States ::{ flag=US }:: | 3 | **5** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/92527826) |
 | Upper | **Thailand** ::{ flag=TH }:: | **5** | 2 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/92529013) |
 | Upper | **Germany** ::{ flag=DE }:: | **5** | 1 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/92536229) |
 | Upper | **Indonesia** ::{ flag=ID }:: | **5** | 1 | ::{ flag=AU }:: Poland | [#1](https://osu.ppy.sh/community/matches/92542396) |
@@ -517,7 +517,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 - Round of 32 and Round of 16
   - Best of 9, 1 ban
 - Quarterfinals and Semifinals
-  - Best of 11, 2 ban
+  - Best of 11, 2 bans
 - Finals and Grand Finals
   - Best of 13, 2 bans
 
