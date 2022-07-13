@@ -43,13 +43,13 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_US] [Orca-](https://osu.ppy.sh/users/7958845), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479) |
-| Mappool helper | ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064), ![][flag_SG] [aeoliancarp](https://osu.ppy.sh/users/1027529), ![][flag_PH] [arccat](https://osu.ppy.sh/users/4848294), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065), ![][flag_DK] [Jole](https://osu.ppy.sh/users/2883132), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [lemonguy](https://osu.ppy.sh/users/4693052), ![][flag_US] [Matthia](https://osu.ppy.sh/users/19804607), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_TH] [MyZterioN-](https://osu.ppy.sh/users/8521723), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_KR] [Transcendence](https://osu.ppy.sh/users/903155) |
-| SV mapper/consultant | ![][flag_CN] [AlexDunk](https://osu.ppy.sh/users/9194799), ![][flag_PH] [arccat](https://osu.ppy.sh/users/4848294), ![][flag_FR] [BlackyDay](https://osu.ppy.sh/users/5724831), ![][flag_US] [Ciel](https://osu.ppy.sh/users/1455309), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065), ![][flag_GB] [H1Pur](https://osu.ppy.sh/users/15756120), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972), ![][flag_PH] [notapplicable](https://osu.ppy.sh/users/7170536), ![][flag_US] [NovaSagittarii](https://osu.ppy.sh/users/11664177), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387) |
+| Manager | ::{ flag="CA" }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag="US" }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag="BR" }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
+| Mappool selector | ::{ flag="US" }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag="US" }:: [Orca-](https://osu.ppy.sh/users/7958845), ::{ flag="FR" }:: [Paturages](https://osu.ppy.sh/users/1375479) |
+| Mappool helper | ::{ flag="SG" }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag="SG" }:: [aeoliancarp](https://osu.ppy.sh/users/1027529), ::{ flag="PH" }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag="CA" }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag="DK" }:: [Jole](https://osu.ppy.sh/users/2883132), ::{ flag="AR" }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag="US" }:: [lemonguy](https://osu.ppy.sh/users/4693052), ::{ flag="US" }:: [Matthia](https://osu.ppy.sh/users/19804607), ::{ flag="ID" }:: [Mipha-](https://osu.ppy.sh/users/5767941), ::{ flag="TH" }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag="GB" }:: [Pope Gadget](https://osu.ppy.sh/users/2288341), ::{ flag="SG" }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag="US" }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag="KR" }:: [Transcendence](https://osu.ppy.sh/users/903155) |
+| SV mapper/consultant | ::{ flag="CN" }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag="PH" }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag="FR" }:: [BlackyDay](https://osu.ppy.sh/users/5724831), ::{ flag="US" }:: [Ciel](https://osu.ppy.sh/users/1455309), ::{ flag="NL" }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag="CA" }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag="GB" }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag="BR" }:: [Halo-](https://osu.ppy.sh/users/7572142), ::{ flag="KR" }:: [Jakads](https://osu.ppy.sh/users/259972), ::{ flag="PH" }:: [notapplicable](https://osu.ppy.sh/users/7170536), ::{ flag="US" }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag="SG" }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag="TH" }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag="PL" }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag="CL" }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag="HK" }:: [zero2snow](https://osu.ppy.sh/users/7751516) |
+| Referee | ::{ flag="NL" }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag="AU" }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag="BR" }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag="IN" }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag="US" }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag="GB" }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag="US" }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Commentator | *To be announced* |
-| Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
+| Statistician | ::{ flag="FI" }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
 
@@ -190,25 +190,3 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
    - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC+0** of the week they are to be played at.
    - **Do not ask for a reschedule unless it is absolutely needed. The Tournament Management reserves the right to deny any rescheduling request at their discretion.**
 6. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IN]: /wiki/shared/flag/IN.gif "India"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
