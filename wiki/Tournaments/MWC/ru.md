@@ -13,3 +13,6 @@
 - [osu!mania 4K World Cup 2019](2019_4K)
 - [osu!mania 7K World Cup 2019](2019_7K)
 - [osu!mania 4K World Cup 2020](2020_4K)
+- [osu!mania 4K World Cup 2021](2021_4K)
+- [osu!mania 7K World Cup 2022](2022_7K)
+- [osu!mania 4K World Cup 2022](2022_4K)
