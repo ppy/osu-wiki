@@ -29,10 +29,10 @@ Check everything out:
 Run through any of these maps:
 
 - [Loved osu! map](https://osu.ppy.sh/beatmapsets/686649) hosted by [rrtyui](https://osu.ppy.sh/users/352328)
-- [Multi-million play osu! map](https://osu.ppy.sh/beatmapsets/580215) hosted by [Delis](https://osu.ppy.sh/users/1603923)
+- [Multi-million-play osu! map](https://osu.ppy.sh/beatmapsets/580215) hosted by [Delis](https://osu.ppy.sh/users/1603923)
 - [Old-school 2010 osu! map](https://osu.ppy.sh/beatmapsets/18977) hosted by [Selee](https://osu.ppy.sh/users/261529)
 - [osu!catch map](https://osu.ppy.sh/beatmapsets/812855) hosted by [Sinnoh](https://osu.ppy.sh/users/4236057)
-- [12 difficulty mega osu! set](https://osu.ppy.sh/beatmapsets/1673436) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302)
+- [12-difficulty mega osu! set](https://osu.ppy.sh/beatmapsets/1673436) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302)
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
@@ -40,7 +40,7 @@ Run through any of these maps:
 
 ### Miyazawa Yuana - Dreht sich!
 
-Play [this 10 year old mapset](https://osu.ppy.sh/beatmapsets/51705) hosted by [congaan](https://osu.ppy.sh/users/940961)!
+Play [this 10-year-old mapset](https://osu.ppy.sh/beatmapsets/51705) hosted by [congaan](https://osu.ppy.sh/users/940961)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
@@ -64,7 +64,7 @@ Lift your mood with [this upbeat osu! map](https://osu.ppy.sh/beatmapsets/388619
 
 ### Rita - Tonitrus
 
-If you've played through recent [Beatmap Spotlights](/wiki/Beatmap_Spotlights), you're already well-versed with [this osu! map](https://osu.ppy.sh/beatmapsets/926756) hosted by [Frakturehawkens](https://osu.ppy.sh/users/7458583)!
+If you've played through recent [Beatmap Spotlights](/wiki/Beatmap_Spotlights), you're already well versed with [this osu! map](https://osu.ppy.sh/beatmapsets/926756) hosted by [Frakturehawkens](https://osu.ppy.sh/users/7458583)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
@@ -76,7 +76,9 @@ These songs are only the tip of the iceberg. Visit [**Liar-soft**'s full Feature
 
 And that covers everything for today's artist announcement! Keep track of the [@osugame Twitter](https://twitter.com/osugame) for the next one, and we'll sign with the following important advice:
 
-`0,328,0,6,0,B|48:323|61:274|61:274|45:207|45:207|63:169|103:169|103:169|249:199|249:199|215:214|205:254,1,450.000017166138,6|6,1:1|2:1,0:0:0:0:`
+```
+0,328,0,6,0,B|48:323|61:274|61:274|45:207|45:207|63:169|103:169|103:169|249:199|249:199|215:214|205:254,1,450.000017166138,6|6,1:1|2:1,0:0:0:0:
+```
 
 Have fun mapping.
 
