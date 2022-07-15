@@ -17,3 +17,4 @@ Index page for all of the Global Taiko Showdown series.
 - [Intermediate Global Taiko Showdown 2021](IGTS_2021)
 - [Expert Global Taiko Showdown 2021](EGTS_2021)
 - [Squad Global Taiko Showdown 2021](SGTS_2021)
+- [Intermediate Global Taiko Showdown 2022](IGTS_2022)

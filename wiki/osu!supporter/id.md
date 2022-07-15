@@ -1,7 +1,5 @@
 ---
 tags:
-  - support
-  - supporter
   - supporter tag
   - osu!supporter tag
 ---
