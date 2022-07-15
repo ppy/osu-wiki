@@ -9,8 +9,7 @@ tags:
 
 ![Skinning Contest #3 banner](img/banner.jpg)
 
-<!-- TODO: Add Name -->
-The **Skinning Contest #3: MISSING_NAME** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz), one of the largest skinning communities on osu!. It is the third official osu! skinning contest.
+The **Skinning Contest #3: Chromatic Alteration** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz), one of the largest skinning communities on osu!. It is the third official osu! skinning contest.
 
 ## Contest schedule
 
