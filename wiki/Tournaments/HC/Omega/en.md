@@ -107,7 +107,7 @@ A list of all participants before seeding can be found [here](https://docs.googl
 **[Download the mappack here! (23 MB)](https://drive.google.com/file/d/1cuC1OhIdxnYTXYIXtW682fFxakWhnoSB/view)**
 
 - NoMod
-  - [Will Stetson - Harumachi Clover (Swing Arrangement) <Dictate Edit> (Sotarks) [Oh no!]](https://osu.ppy.sh/beatmapsets/842412#osu/1764213)
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) \<Dictate Edit\> (Sotarks) [Oh no!]](https://osu.ppy.sh/beatmapsets/842412#osu/1764213)
   - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Fiery's Extreme]](https://osu.ppy.sh/beatmapsets/859783#osu/1893461)
 - Hidden
   - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover -blooming mix- (Naotoshi) [Spring Breeze]](https://osu.ppy.sh/beatmapsets/627085#osu/1321495)
