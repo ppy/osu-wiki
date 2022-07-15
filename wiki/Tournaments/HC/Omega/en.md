@@ -8,7 +8,7 @@ tags:
 
 ![HCΩ logo](img/banner.jpg)
 
-The **Harumachi Cup Ω** (***HCΩ***) is a worldwide single-elimination osu! tournament hosted by ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680). The tournament is completely comprised of the song *Harumachi Clover* in various remixes done by individuals in the osu! community and through osu!'s Featured Artist program. This is the third instalment of the Harumachi Cup series.
+The **Harumachi Cup Ω** (***HCΩ***) is a worldwide single-elimination osu! tournament hosted by ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680). The tournament is completely comprised of the song *Harumachi Clover* in various remixes done by individuals in the osu! community and through osu!'s Featured Artist program. It is the third instalment of the Harumachi Cup series.
 
 ## Tournament schedule
 
@@ -74,7 +74,7 @@ A list of all participants before seeding can be found [here](https://docs.googl
 
 ### Qualifiers
 
-**[Download the mappack here! (14MB)](https://drive.google.com/file/d/1nPtasOkuwmdRPwL9kIcoTiX28MLygtXW/view)**
+**[Download the mappack here! (14 MB)](https://drive.google.com/file/d/1nPtasOkuwmdRPwL9kIcoTiX28MLygtXW/view)**
 
 - NoMod
   - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (ezek) [Fiery's Extra]](https://osu.ppy.sh/beatmapsets/652412#osu/1396152)
@@ -89,7 +89,7 @@ A list of all participants before seeding can be found [here](https://docs.googl
 
 ### Group heats
 
-**[Download the mappack here! (13MB)](https://drive.google.com/file/d/1rJlui9yYFaFiG2wZFNPb2-kgUKljjNpU/view)**
+**[Download the mappack here! (13 MB)](https://drive.google.com/file/d/1rJlui9yYFaFiG2wZFNPb2-kgUKljjNpU/view)**
 
 - NoMod
   - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover -GOLDENWOLF METAL MIX- (Nao Tomori) [Wolf's Extra Stage]](https://osu.ppy.sh/beatmapsets/675685#osu/1429346)
@@ -104,7 +104,7 @@ A list of all participants before seeding can be found [here](https://docs.googl
 
 ### Round of 16
 
-**[Download the mappack here! (23MB)](https://drive.google.com/file/d/1cuC1OhIdxnYTXYIXtW682fFxakWhnoSB/view)**
+**[Download the mappack here! (23 MB)](https://drive.google.com/file/d/1cuC1OhIdxnYTXYIXtW682fFxakWhnoSB/view)**
 
 - NoMod
   - [Will Stetson - Harumachi Clover (Swing Arrangement) <Dictate Edit> (Sotarks) [Oh no!]](https://osu.ppy.sh/beatmapsets/842412#osu/1764213)
