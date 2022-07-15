@@ -472,7 +472,7 @@ Detailed statistics for this round can be found [here](https://gtsosu.com/agts/s
 4. Players sign up individually. When their registration is accepted, they will get a player role with their respective country.
 5. osu! staff can refuse players from participating in the tournament if their skill is deemed much higher than the targeted rank range.
 6. Making 2 teams for a country is acceptable under following conditions:
-   - There are **7 or more players** signed up for respective country.
+   - There are **7 or more players** signed up for the country.
    - Each team has to have **at least 3 players**.
 7. Following the previous rule, teams are otherwise assembled in the following way:
    - If there are 5 players or less signed up for a country, those players will form the team representing their country.
