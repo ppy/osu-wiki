@@ -1,6 +1,6 @@
 # Global Taiko Showdown
 
-全球太鼓锦标赛系列目录
+全球太鼓系列锦标赛目录
 
 ## Advanced Global Taiko Showdown
 
