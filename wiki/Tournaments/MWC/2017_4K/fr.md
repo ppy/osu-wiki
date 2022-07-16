@@ -5,7 +5,6 @@ tags:
   - MWC2017
   - MWC4K 2017
 ---
-
 # osu!mania 4K World Cup 2017
 
 ![osu!mania 4K World Cup 2017](img/logo.jpg)
@@ -34,6 +33,7 @@ Dans chaque coupe du monde, les joueurs qui réussissent à obtenir une place su
 | ![Gold Crown](/wiki/shared/crown-gold.png "1re place") | 150 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil, et le titre « osu!mania Champion » pendant un an |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2e place") | 80 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3e place") | 40 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil |
+![](img/badge.jpg "MWC 4K 2017 winner badge") ![](img/badge2.jpg "MWC 4K 2017 2nd place badge") ![](img/badge3.jpg "MWC 4K 2017 3rd place badge")
 
 ## Organisation
 
@@ -124,7 +124,25 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | ![][flag_US] | **États-Unis** | **[Zyph](https://osu.ppy.sh/users/1600432)**, [EtienneXC](https://osu.ppy.sh/users/5610085), [TheToaphster](https://osu.ppy.sh/users/7616811), [Chrubble](https://osu.ppy.sh/users/2594280), [stupud man](https://osu.ppy.sh/users/2141612), [xElectroGH](https://osu.ppy.sh/users/3251373) |
 | ![][flag_VE] | **Venezuela** | **[Cyssel](https://osu.ppy.sh/users/6394478)**, [Satoruu](https://osu.ppy.sh/users/2243452), [Shinsekai-](https://osu.ppy.sh/users/2140739), [Marunne](https://osu.ppy.sh/users/8841450), [Prancer](https://osu.ppy.sh/users/1821350), [\[-Gearfrik-\]](https://osu.ppy.sh/users/8198818) |
 
+
+## Groupes
+
+| Groupe | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_BR] Brésil | ![][flag_PL] Polande | ![][flag_PH] Philippines | ![][flag_VE] Venezuela |
+| **B** | ![][flag_GB] Royaume-Uni | ![][flag_MY] Malaisie | ![][flag_HK] Hong Kong | ![][flag_NO] Norvège |
+| **C** | ![][flag_CN] Chine | ![][flag_FR] France | ![][flag_AU] Australie | ![][flag_TW] Taiwan |
+| **D** | ![][flag_US] États-Unis | ![][flag_AR] Argentine | ![][flag_MX] Mexique | ![][flag_DE] Allemagne |
+| **E** | ![][flag_KR] South Korea | ![][flag_SE] Sweden | ![][flag_RU] Russian Federation | ![][flag_FI] Finland |
+| **F** | ![][flag_ID] Indonesie | ![][flag_IT] Italie | ![][flag_ES] Espagne | ![][flag_NZ] Nouvelle-Zélande |
+| **G** | ![][flag_JP] Japon | ![][flag_CA] Canada | ![][flag_CH] Suisse | ![][flag_NL] Pays-Bas |
+| **H** | ![][flag_CL] Chili | ![][flag_TH] Thaïlande | ![][flag_SG] Singapour | ![][flag_BE] Belgique |
+
 ![Double Elimination bracket](img/bracket.jpg)
+
+## Podium
+
+![](img/podium.jpg "MWC 4K 2017 podium")
 
 ## Mappools
 
