@@ -441,6 +441,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Squad Global Taiko Showdown 2021](GTS/SGTS_2021) | 08.01.2022 | 20.02.2022 | おまかせ | Ham | 皇-SUMERAGI- |
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 26.03.2022 | 08.05.2022 | ![][flag_JP] Japan A | ![][flag_HK] Hong Kong | ![][flag_US] Vereinigte Staaten B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 28.05.2022 | 10.07.2022 | ![][flag_MY] Malaysia | ![][flag_CN] China A | ![][flag_KR] Südkorea |
+| [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 2022-08-13 | 2022-10-09 | - | - | - |
 
 #### North & South American Taiko Tournament
 
