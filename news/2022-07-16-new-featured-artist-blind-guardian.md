@@ -50,7 +50,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1672400)
 
 ---
 
-If you want to contribute to a new phase of osu! mapping, visit [**Blind Guardian**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/284) and create the next biggest stream marathon. [\[Karcher\]](https://osu.ppy.sh/users/11443437) is waiting for you.
+If you want to contribute to the next generation of stream mapping, visit [**Blind Guardian**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/284). [\[Karcher\]](https://osu.ppy.sh/users/11443437) is waiting for you.
 
 The [@osugame Twitter](https://twitter.com/osugame) may also be waiting for you, assuming you have a desire to find out about new Featured Artists as soon as they drop. Look forward to our next addition on Wednesday!
 
