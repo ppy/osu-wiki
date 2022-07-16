@@ -10,11 +10,11 @@ date: 2022-07-16 10:00:00 +0000
 
 Older than ~99.9% of osu! players, **Blind Guardian** is a German metal unit that's been blasting beats since as far back as 1984. For those out of the loop, this band laid the groundwork for the power metal genre throughout their nearly 40-year lifespan, properly establishing their status as a metal legend.
 
-And through an insane turn of events, this legendary band is now officially part of osu!.
+And through an insane turn of events, this legendary band is now officially a part of osu!.
 
 Discover **11** power metal fables from [**Blind Guardian**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/284)!
 
-Stream-focused mapping has been a rising trend lately, and **Blind Guardian** has been a major contributor! Watch how [\[Karcher\]](https://osu.ppy.sh/users/11443437) (who recently full combo'd [Yomi yori](https://osu.ppy.sh/beatmapsets/461744)!) applies his consistency skillset to [A Voice In The Dark](https://osu.ppy.sh/beatmapsets/1672400) as the beatmap's only HDHR FC:
+Stream-focused mapping has been a rising trend lately, and **Blind Guardian** has been a major contributor! Watch how [\[Karcher\]](https://osu.ppy.sh/users/11443437) (who has recently full combo'd [Yomi yori](https://osu.ppy.sh/beatmapsets/461744)!) applies his consistency skillset to [A Voice In The Dark](https://osu.ppy.sh/beatmapsets/1672400) as the beatmap's only HDHR FC:
 
 <div align="center">
     <video width="100%" controls>
