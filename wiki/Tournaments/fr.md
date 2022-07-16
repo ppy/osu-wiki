@@ -22,8 +22,13 @@ La coupe du monde d'osu! est un tournoi à double élimination par équipe de 4 
 | [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 13/10/2017 | 17/12/2017 | ![][flag_PL] Pologne | ![][flag_US] États-Unis d'Amérique | ![][flag_GB] Royaume-Uni |
 | [osu! World Cup 2018](/wiki/Tournaments/OWC/2018) | 10/11/2018 | 16/12/2018 | ![][flag_US] États-Unis d'Amérique | ![][flag_GB] Royaume-Uni | ![][flag_DE] Allemagne |
 | [osu! World Cup 2019](/wiki/Tournaments/OWC/2019) | 09/11/2019 | 22/12/2019 | ![][flag_US] États-Unis d'Amérique | ![][flag_KR] Corée du Sud | ![][flag_GB] Royaume-Uni |
+<<<<<<< Updated upstream
 | [osu! World Cup 2020](OWC/2020) | 24/10/2020 | 06/12/2020 | ![][flag_US] États-Unis d'Amérique | ![][flag_DE] Allemagne | ![][flag_CA] Canada |
 | [osu! World Cup 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ![][flag_US] États-Unis d'Amérique | ![][flag_DE] Allemagne | ![][flag_KR] Corée du Sud |
+=======
+| [osu! World Cup 2020](/wiki/Tournaments/OWC/2020) | 24/10/2020 | 06/12/2020 | ![][flag_US] États-Unis d'Amérique | ![][flag_DE] Allemagne | ![][flag_CA] Canada |
+| [osu! World Cup 2021](/wiki/Tournaments/OWC/2021) | 09/10/2021 | 28/11/2021 | ![][flag_US] États-Unis d'Amérique | ![][flag_DE] Allemagne | ![][flag_KR] Corée du Sud |
+>>>>>>> Stashed changes
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -38,9 +43,15 @@ La coupe du monde d'osu! est un tournoi à double élimination par équipe de 4 
 | [osu!taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 07/02/2017 | 16/04/2017 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_HK] Hong Kong |
 | [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 07/04/2018 | 13/05/2018 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_CA] Canada |
 | [osu!taiko World Cup 2019](/wiki/Tournaments/TWC/2019) | 20/04/2019 | 26/05/2019 | ![][flag_JP] Japon | ![][flag_TW] Taiwan | ![][flag_KR] Corée du Sud |
+<<<<<<< Updated upstream
 | [osu!catch World Cup 2020](CWC/2020) | 09/05/2020 | 14/06/2020 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_US] États-Unis d'Amérique |
 | [osu!taiko World Cup 2021](TWC/2021) | 2021-03-06 | 2021-04-11 | ![][flag_JP] Japon | ![][flag_KR] Corée du Sud | ![][flag_BR] Brézil |
 | [osu!taiko World Cup 2022](TWC/2022) | 2022-03-12 | 2022-04-24 | ![][flag_JP] Japon | ![][flag_KR] Corée du Sud | ![][flag_ID] Indonésie |
+=======
+| [osu!catch World Cup 2020](/wiki/Tournaments/CWC/2020) | 09/05/2020 | 14/06/2020 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_US] États-Unis d'Amérique |
+| [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021) | 06/03/2021 | 11/04/2021 | ![][flag_JP] Japon | ![][flag_KR] Corée du Sud | ![][flag_BR] Brézil |
+| [osu!taiko World Cup 2022](/wiki/Tournaments/TWC/2022) | 12/03/2022 | 24/04/2022 | ![][flag_JP] Japon | ![][flag_KR] Corée du Sud | ![][flag_ID] Indonésie |
+>>>>>>> Stashed changes
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -54,9 +65,15 @@ La coupe du monde d'osu! est un tournoi à double élimination par équipe de 4 
 | [osu!catch World Cup 2017](/wiki/Tournaments/CWC/2017) | 03/05/2017 | 09/07/2017 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_ID] Indonésie |
 | [osu!catch World Cup 2018](/wiki/Tournaments/CWC/2018) | 09/06/2018 | 15/07/2018 | ![][flag_CN] Chine | ![][flag_US] États-Unis d'Amérique | ![][flag_CL] Chili |
 | [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019) | 29/06/2019 | 04/08/2019 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_CL] Chili |
+<<<<<<< Updated upstream
 | [osu!catch World Cup 2020](CWC/2020) | 09/05/2020 | 14/06/2020 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_US] États-Unis d'Amérique |
 | [osu!catch World Cup 2021](CWC/2021) | 2021-05-01 | 2021-06-06 | ![][flag_KR] Corée du Sud | ![][flag_HK] Hong Kong | ![][flag_US] États-Unis d'Amérique |
 | [osu!catch World Cup 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ![][flag_KR] Corée du Sud | ![][flag_US] États-Unis d'Amérique | ![][flag_CN] Chine |
+=======
+| [osu!catch World Cup 2020](/wiki/Tournaments/CWC/2020) | 09/05/2020 | 14/06/2020 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_US] États-Unis d'Amérique |
+| [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021) | 01/05/2021 | 06/06/2021 | ![][flag_KR] Corée du Sud | ![][flag_HK] Hong Kong | ![][flag_US] États-Unis d'Amérique |
+| [osu!catch World Cup 2022](/wiki/Tournaments/CWC/2022) | 21/05/2022 | 03/07/2022 | ![][flag_KR] Corée du Sud | ![][flag_US] États-Unis d'Amérique | ![][flag_CN] Chine |
+>>>>>>> Stashed changes
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -73,9 +90,15 @@ La coupe du monde d'osu! est un tournoi à double élimination par équipe de 4 
 | [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 01/09/2018 | 07/10/2018 | 4K | ![][flag_KR] Corée du Sud | ![][flag_US] États-Unis d'Amérique | ![][flag_BR] Brésil |
 | [osu!mania 7K World Cup 2019](/wiki/Tournaments/MWC/2019_7K) | 09/02/2019 | 17/03/2019 | 7K | ![][flag_KR] Corée du Sud | ![][flag_PH] Philippines | ![][flag_CN] Chine |
 | [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K) | 21/09/2019 | 27/10/2019 | 4K | ![][flag_KR] Corée du Sud | ![][flag_BR] Brésil | ![][flag_US] États-Unis d'Amérique |
+<<<<<<< Updated upstream
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 15/08/2020 | 20/09/2020 | 4K | ![][flag_BR] Brésil | ![][flag_JP] Japon | ![][flag_KR] Corée du Sud |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 2021-07-31 | 2021-09-19 | ![][flag_BR] Brésil | ![][flag_US] États-Unis d'Amérique | ![][flag_MY] Malaysia |
 | [osu!mania 7K World Cup 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_MY] Malaisie |
+=======
+| [osu!mania 4K World Cup 2020](/wiki/Tournaments/MWC/2020_4K) | 15/08/2020 | 20/09/2020 | 4K | ![][flag_BR] Brésil | ![][flag_JP] Japon | ![][flag_KR] Corée du Sud |
+| [osu!mania 4K World Cup 2021](/wiki/Tournaments/MWC/2021_4K) | 31/07/2021 | 19/09/2021 | ![][flag_BR] Brésil | ![][flag_US] États-Unis d'Amérique | ![][flag_MY] Malaysia |
+| [osu!mania 7K World Cup 2022](/wiki/Tournaments/MWC/2022_7K) | 16/12/2021 | 20/02/2022 | ![][flag_KR] Corée du Sud | ![][flag_CN] Chine | ![][flag_MY] Malaisie |
+>>>>>>> Stashed changes
 
 ## Tournois communautaires
 
@@ -84,6 +107,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 ### ![](/wiki/shared/mode/osu.png) osu!
 
 #### 112's Tournaments
+<<<<<<< Updated upstream
 
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -103,12 +127,29 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ![][flag_TW] Taiwan | ![][flag_PL] Polande | ![][flag_US] États-Unis d'Amérique |
 
 #### Rapid Monthly osu! Tournament Invitationals
+=======
+>>>>>>> Stashed changes
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [RMoT #2](/wiki/Tournaments/RMoTI/2) | 06/05/2017 | 14/05/2017 | ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) | ![][flag_PL] [MaIson](https://osu.ppy.sh/users/6047395) |
-| [RMoT #5](/wiki/Tournaments/RMoTI/5) | 12/05/2018 | 27/05/2018 | ![][flag_FR] [Prosdokies](https://osu.ppy.sh/users/3852436) | ![][flag_RU] [Well Halen](https://osu.ppy.sh/users/8660244) | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403) |
+| 112's Winter Tournament 2018 | 15/01/2018 | 25/02/2018 | Sucuk | Bezelyeli Heyronii | What's your Nem |
+| 112's Summer Tournament 2018 | 03/06/2018 | 12/08/2018 | FT RakotGaming | osu! meme team | Alemin Hızlı Delikanlıları |
+| 112's Winter Tournament 2019 | 09/12/2018 | 02/02/2019 | Beceriksizler 2.0 | Kumsal Lazanyası | Subscribe To Pewdiepie |
+| [112's Summer Tournament 2019](112/Summer_2019) | 05/06/2019 | 22/08/2019 | egemen ve aimless | KaFein | Kwk Yelleri |
+| [112's Corona Tournament](112/Corona_2020) | 31/03/2020 | 30/05/2020 | ali vefa fanclub | NEŞESİNE YAŞAM | SARS-CoV-3 |
+| [112's Summer Tournament 2020](112/Summer_2020) | 30/06/2020 | 27/09/2020 | ![][flag_TR] [Raikouhou](https://osu.ppy.sh/users/8007528) | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | ![][flag_TR] [Mikatsu](https://osu.ppy.sh/users/6612642) |
 
+<<<<<<< Updated upstream
+=======
+#### 3 Digit World Cup
+
+| Nom | Début | EFinnd | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 3 Digit World Cup | 15/03/2019 | 26/05/2019 | ![][flag_KR] Corée du Sud | ![][flag_RU] Russie | ![][flag_US] États-Unis d'Amérique |
+| 3 Digit World Cup 2020 | 16/03/2020 | 31/05/2020 | ![][flag_US] États-Unis d'Amérique | ![][flag_BR] Brézil | ![][flag_TW] Taiwan |
+| [3 Digit World Cup 2021](3WC/2021) | 24/02/2021 | 09/05/2021 | ![][flag_TW] Taiwan | ![][flag_PL] Polande | ![][flag_US] États-Unis d'Amérique |
+
+>>>>>>> Stashed changes
 #### Aus/NZ osu!standard Tournament
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
@@ -122,6 +163,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | [Aus/NZ osu!standard Tournament 6 - Summer](/wiki/Tournaments/ANZT/2019_Summer) | 11/01/2019 | 10/03/2019 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
 
 #### CES League osu! Tournament
+<<<<<<< Updated upstream
 
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -226,12 +268,110 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | [osu! South East Asia Tournament 5](oSEAT/5) | 2021-11-21 | 2022-02-02 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_PH] [NathanRammu2044](https://osu.ppy.sh/users/8472976) | ![][flag_ID] [Tebi](https://osu.ppy.sh/users/5407620) |
 
 #### SS Tournament
+=======
+>>>>>>> Stashed changes
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| SS Tournament Summer 2017 | 23/07/2017 | 24/09/2017 | Content is hot | Yaong's kawaii sisters~ | Majiyabakune |
-| [SS Tournament 2018](/wiki/Tournaments/SST/2018) | 27/01/2018 | 18/03/2018 | Content is Hot | Sleeping Accommodation | Floating up |
+| CES League osu! Tournament | 12/02/2019 | 19/01/2020 | ;w; | kirundy | TeamNomIn1v1Xd |
+| [CES League osu! Tournament 2](CES/CES2) | 01/05/2020 | 16/08/2020 | Woopak | MissClick324 | Thymue |
 
+
+#### Coffee Hispanic
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Coffee Hispanic Tournament](CH/CHT_1) | 17/01/2020 | 17/02/2020 | United States | Noveno Gaston | hallo y caspi |
+| [Coffee Hispanic Showdown](CH/CHS_1) | 06/08/2020 | 13/09/2020 | yotambien | carlos | catJAM |
+| [Coffee Hispanic: Mocha](CH/CHM_1) | 10/08/2021 | 10/10/2021 | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) | ![][flag_CL] [Intercambing](https://osu.ppy.sh/users/2546001) | ![][flag_ES] [A N T O N I O](https://osu.ppy.sh/users/12760743) |
+
+#### Corgi Cup
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Corgi Cup: June 2016](CC/1) | 02/06/2016 | 19/06/2016 | ![][flag_GB] [rafalbrew](https://osu.ppy.sh/users/3872602) | ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226) | ![][flag_US]  [zelda101](https://osu.ppy.sh/users/4502238) |
+| [Corgi Cup: September 2016](CC/2) | 05/08/2016 | 11/09/2016 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) | ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026) |
+| [Corgi Cup III: April 2017](CC/3) | 03/03/2017 | 30/04/2017 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
+| [Corgi Cup IV: September 2017](CC/4) | 18/08/2017 | 29/10/2017 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
+| [Corgi Cup V](CC/5) | 05/03/2018 | 13/05/2018 | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
+| [Corgi Cup VI](CC/6) | 09/03/2019 | 26/05/2019 | ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262) | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) |
+
+#### Game_Osu Tourney
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| #Game_Osu Tourney Summer Edition | 25/08/2018 | 25/08/2018 | ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144) | ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) |
+| #Game_Osu Tourney Autumn Edition | 19/10/2018 | 04/11/2018 | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
+| [Game_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 16/03/2019 | 06/05/2019 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
+
+#### Great Singapore Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Great Singapore Tournament](GST/1) | 18/06/2019 | 04/08/2019 | Tom and Jerry | Broken Family | Ranked Score |
+| [Great Singapore Tournament 2](GST/2) | 29/11/2019 | 19/01/2020 | tamade | Mahathir bin Moh | Tom and Jerry |
+
+#### Hidden Only Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Hidden Only Tournament](HOT/1) | 15/05/2020 | 04/07/2020 | :rooGya: | Pocket Galaxy | Phrygian Friends |
+
+#### Indonesian Draft Cup
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Indonesian Draft Cup 2020](IDC/2020) | 29/08/2020 | 03/10/2020 | Brazil | Pondokers | awan fanclub 2 |
+
+#### Mirai. Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Mirai. Summer Tournament 2017 | 30/06/2017 | 07/09/2018 | Decay II | AcC iS eVeRyThInG | Wygramy To Kappa |
+| Mirai. osu! Winter Festival 2017/2018 | 05/10/2017 | 24/02/2018 | :thonking: | Decay II | FX\_POWER |
+| Mirai. Idol Tournament 2019 | 01/04/2019 | 21/05/2019 | Drift% | MAC901 | Traitorpulse |
+| [Mirai. Tournament 2020](Mirai/2020) | 06/04/2020 | 23/06/2020 | Norank MaMa <3 U | Uprankers | Salted\_Fish |
+
+#### nik's Tournaments
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [nik's Winter Tour 2019](/wiki/Tournaments/NT/NWT_2019) | 19/01/2019 | 10/03/2019 | ![][flag_US] [Fish-](https://osu.ppy.sh/users/3318654) | ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047) | ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
+| [nik's Spring/Summer Tour 2019](/wiki/Tournaments/NT/NSST_2019) | 27/04/2019 | 29/06/2019 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) (Tier 1), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) (Tier 2) | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (Tier 1), ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) (Tier 2) | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) (Tier 2), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) (Tier 2) |
+
+#### Non-Professional Cup
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Non-Professional Cup 2](NPC/2) | 30/05/2020 | 12/07/2020 | WeHatePP | Alek & Friends | OSBT Sqaud |
+
+#### Old Map Fantasy
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Old Map Fantasy World Cup](OMF/WC) | 14/08/2021 | 03/10/2021 | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_PL] Poland |
+
+#### osu! Asia Oceania Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Asia Oceania Tournament](o!AOT/1) | 26/07/2019 | 22/09/2019 | 進撃のバブルティー | 黃建智 | 과로사 |
+| [osu! Asia Oceania Tournament 2](o!AOT/2) | 03/07/2020 | 16/08/2020 | Floating up | PUPU | :peepolaughpoint: |
+
+#### osu! Battle Archive Malaysia
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Battle Archive Malaysia](o!BAM/1) | 10/08/2021 | 17/10/2021 | 5 digit btw | nomicstreamers | Communist LSD enjoyers |
+
+#### osu! European Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu! European Tournament | 07/04/2018 | 27/05/2018 | a | Dumb and Dumber | MinolaureMVP |
+| [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 10/02/2019 | 30/03/2019 | Sruba(Top), Makeshift Winners(Mid), not even european(Low) | Almost Allies(Top), singletap is braindead(Mid), Yes (Yes)(Low) | nh9mju0(Top), Phoenix Emperors(Mid), Polish Musketeers(Low) |
+
+<<<<<<< Updated upstream
 #### TAG2 Tournament
 
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
@@ -245,6 +385,31 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | [16 player battle royale](The_Roundtable/16_player_battle_royale) | 2022-07-08 | 2022-07-08 | [mrekk](https://osu.ppy.sh/users/7562902) | [im_a_fancy_lad](https://osu.ppy.sh/users/4908650) | [Utami](https://osu.ppy.sh/users/7512553) & [RyuK](https://osu.ppy.sh/users/6304246) |
 | [2v2 team tandem tournament](The_Roundtable/2v2_team_tandem_tournament) | 2022-07-09 | 2022-07-09 | No Stamina | Plasma Gunners | Eggward |
 | [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 2022-07-09 | 2022-07-10 | [Utami](https://osu.ppy.sh/users/7512553) | [mrekk](https://osu.ppy.sh/users/7562902) | [im_a_fancy_lad](https://osu.ppy.sh/users/4908650) |
+=======
+#### osu! Indonesia Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 03/02/2020 | 12/04/2020 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
+| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 04/01/2021 | 28/03/2021 | ![][flag_ID] [rho](https://osu.ppy.sh/users/1629553) | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) |
+| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 15/02/2022 | 03/04/2022 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+
+#### osu! Singapore-Indonesia-Malaysia Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Singapore-Indonesia-Malaysia Tournament](OSIM/1) | 2020-03-21 | 2020-05-17 | somaymalaycapcay | adventure timers | we will 操你妈 |
+
+#### osu! South East Asia Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553) | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | ![][flag_SG] [Elegant Loli](https://osu.ppy.sh/users/3010281) |
+| [osu! South East Asia Tournament 2](oSEAT/2) | 2018-11-30 | 2019-01-27 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
+| [osu! South East Asia Tournament 3](oSEAT/3) | 2019-12-14 | 2020-02-16 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) |
+| [osu! South East Asia Tournament 4](oSEAT/4) | 2020-11-07 | 2021-01-31 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) |
+| [osu! South East Asia Tournament 5](oSEAT/5) | 2021-11-21 | 2022-02-02 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_PH] [NathanRammu2044](https://osu.ppy.sh/users/8472976) | ![][flag_ID] [Tebi](https://osu.ppy.sh/users/5407620) |
+>>>>>>> Stashed changes
 
 #### osu! Tag Team Multiplayer Tournament
 
@@ -252,14 +417,8 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Tag Team Multiplayer Tournament](/wiki/Tournaments/oTTMT/1) | 12/06/2009 | 06/09/2009 | Animalz D: | Lubimy Ponczgi! | MINMIrox |
 
-#### osu! TV Size Tournament
-
-| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| osu! TV Size Tournament 2017 | 04/03/2017 | 15/04/2017 | European Dream | MudHorse | !^ |
-| [osu! TV Size Tournament 2018](/wiki/Tournaments/otst!/2018) | 17/02/2018 | 15/04/2018 | Rubber Conquest | Floating up | black dogleg |
-| [osu! TV Size Tournament 2019](/wiki/Tournaments/otst!/2019) | 02/03/2019 | 13/04/2019 | Floating up | Rubber Conquest | #arsecrackers |
-
+<<<<<<< Updated upstream
+=======
 #### osu! Technical Championship
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
@@ -268,50 +427,219 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | [osu! Technical Championship #2](/wiki/Tournaments/OTC/2) | 14/04/2018 | 27/05/2018 | Rubber Conquest | Floating up | Latex Intolerance |
 | [osu! Technical Championship #3](/wiki/Tournaments/OTC/3) | 12/01/2019 | 02/03/2019 | ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890) |
 
+>>>>>>> Stashed changes
+#### osu! TV Size Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu! TV Size Tournament 2017 | 04/03/2017 | 15/04/2017 | European Dream | MudHorse | !^ |
+| [osu! TV Size Tournament 2018](/wiki/Tournaments/otst!/2018) | 17/02/2018 | 15/04/2018 | Rubber Conquest | Floating up | black dogleg |
+| [osu! TV Size Tournament 2019](/wiki/Tournaments/otst!/2019) | 02/03/2019 | 13/04/2019 | Floating up | Rubber Conquest | #arsecrackers |
+
+<<<<<<< Updated upstream
+#### osu! Technical Championship
+=======
+
+#### osu! UK Tournament
+>>>>>>> Stashed changes
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [UK osu!standard tournament!](OUKT/1) | 2013-11-11 | 2014-01-11 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193) | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
+| [UK osu!standard tournament 2](OUKT/2) | 2014-03-15 | 2014-04-20 | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
+| [osu! UK Tournament 3](OUKT/3) | 2014-06-28 | 2014-08-10 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [jesus1412](https://osu.ppy.sh/users/230116) | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
+| [osu! UK Tournament 4](OUKT/4) | 2015-01-10 | 2015-08-21 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | N/A |
+| [osu! UK Tournament 5](OUKT/5) | 2015-09-12 | 2016-04-23 | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [Kakiage](https://osu.ppy.sh/users/3104031) |
+
+
+#### osu! Vintage Map Tourney!
+
+| Name | Start | End | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Vintage Map Tourney!](OVMT/1) | 2016-09-01 | 2016-10-03 | ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226) | ![][flag_US] [Catgirl](https://osu.ppy.sh/users/2771995) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| [osu! Vintage Map Tourney 2! Electric Boogaloo!](OVMT/2) | 2017-06-21 | 2017-09-01 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | ![][flag_TW] [Rucker](https://osu.ppy.sh/users/147515) | ![][flag_SI] [krom1](https://osu.ppy.sh/users/4643145) |
+
+<<<<<<< Updated upstream
 #### osu! South East Asia Tournament
+=======
+
+#### osu! Z-Tournament
+
+| Name | Start | End | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Z-Tournament 2018](OZT/2018) | 2018-04-23 | 2018-07-15 | Floating Rubber | LatexIntolerance | goose is a furry |
+
+#### PERAK osu! Tournament
+
+| Name | Start | End | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [PERAK osu! Tournament](POT/1) | 2021-01-17 | 2021-04-04 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| [PERAK osu! Tournament 2022](POT/2022) | 2022-02-21 | 2022-04-24 | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) |
+
+#### Rapid Monthly osu! Tournament Invitationals
+>>>>>>> Stashed changes
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| osu! South East Asia Tournament | 07/12/2017 | 04/02/2018 | ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553) | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | ![][flag_SG] [Elegant Loli](https://osu.ppy.sh/users/3010281) |
-| [osu! South East Asia Tournament 2](/wiki/Tournaments/oSEAT/2) | 30/11/2018 | 27/01/2019 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
-| [osu! South East Asia Tournament 3](/wiki/Tournaments/oSEAT/3) | 14/12/2019 | 16/02/2020 | *TBD* | *TBD* | *TBD* |
+| [RMoT #2](/wiki/Tournaments/RMoTI/2) | 06/05/2017 | 14/05/2017 | ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640) | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575) | ![][flag_PL] [MaIson](https://osu.ppy.sh/users/6047395) |
+| [RMoT #5](/wiki/Tournaments/RMoTI/5) | 12/05/2018 | 27/05/2018 | ![][flag_FR] [Prosdokies](https://osu.ppy.sh/users/3852436) | ![][flag_RU] [Well Halen](https://osu.ppy.sh/users/8660244) | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403) |
 
+#### ROI PRO Tournament
+
+<<<<<<< Updated upstream
 #### osu! European Tournament
+=======
+| Name | Start | End | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [ROI PRO Tournament](RPT/1) | 2020-04-06 | 2020-05-18 | ToedLover | Baqua | xHirayuki |
+
+#### Royal Danish osu!Cup
+
+| Name | Start | End | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Royal Danish osu!Cup 2014](RDOC/2014) | 2014-01-16 | 2014-02-23 | ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963) | ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611) | ![][flag_DK] [Broniel](https://osu.ppy.sh/users/3175330) |
+| [Royal Danish osu!Cup 2016](RDOC/2016) | 2016-01-09 | 2016-02-17 | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715) | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) |
+| [Royal Danish osu!Cup 2017](RDOC/2017) | 2017-02-03 | 2017-04-09 | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
+| [Royal Danish osu!Cup 2018](RDOC/2018) | 2018-09-15 | 2018-10-28 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
+| [Royal Danish osu!Cup 2019](RDOC/2019) | 2020-02-22 | 2020-04-05 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) |
+| [Royal Danish osu!Cup 2020](RDOC/2020) | 2020-07-01 | 2020-09-27 | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [Pablohh](https://osu.ppy.sh/users/10092099) | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) |
+
+#### SS Tournament
+>>>>>>> Stashed changes
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| osu! European Tournament | 07/04/2018 | 27/05/2018 | a | Dumb and Dumber | MinolaureMVP |
-| [osu! European Tournament 2](/wiki/Tournaments/o!ET/2) | 10/02/2019 | 30/03/2019 | Sruba(Top), Makeshift Winners(Mid), not even european(Low) | Almost Allies(Top), singletap is braindead(Mid), Yes (Yes)(Low) | nh9mju0(Top), Phoenix Emperors(Mid), Polish Musketeers(Low) |
+| SS Tournament Summer 2017 | 23/07/2017 | 24/09/2017 | Content is hot | Yaong's kawaii sisters~ | Majiyabakune |
+| [SS Tournament 2018](/wiki/Tournaments/SST/2018) | 27/01/2018 | 18/03/2018 | Content is Hot | Sleeping Accommodation | Floating up |
 
+<<<<<<< Updated upstream
 #### Game_Osu Tourney
+=======
+#### TAG2 Tournament
+>>>>>>> Stashed changes
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| #Game_Osu Tourney Summer Edition | 25/08/2018 | 25/08/2018 | ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144) | ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) |
-| #Game_Osu Tourney Autumn Edition | 19/10/2018 | 04/11/2018 | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
-| [Game_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 16/03/2019 | 06/05/2019 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
+| [TAG2 Tournament 2019](T2T/2019) | 2019-02-15 | 2019-05-19 | Thank You | osu! schmosu! | yoo whats goodie eh |
 
+<<<<<<< Updated upstream
 #### nik's Tournaments
+=======
+#### The Roundtable
+>>>>>>> Stashed changes
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [nik's Winter Tour 2019](/wiki/Tournaments/NT/NWT_2019) | 19/01/2019 | 10/03/2019 | ![][flag_US] [Fish-](https://osu.ppy.sh/users/3318654) | ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047) | ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
-| [nik's Spring/Summer Tour 2019](/wiki/Tournaments/NT/NSST_2019) | 27/04/2019 | 29/06/2019 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) (Tier 1), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) (Tier 2) | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (Tier 1), ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) (Tier 2) | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) (Tier 2), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) (Tier 2) |
+| [16 player battle royale](The_Roundtable/16_player_battle_royale) | 2022-07-08 | 2022-07-08 | [mrekk](https://osu.ppy.sh/users/7562902) | [im_a_fancy_lad](https://osu.ppy.sh/users/4908650) | [Utami](https://osu.ppy.sh/users/7512553) & [RyuK](https://osu.ppy.sh/users/6304246) |
+| [2v2 team tandem tournament](The_Roundtable/2v2_team_tandem_tournament) | 2022-07-09 | 2022-07-09 | No Stamina | Plasma Gunners | Eggward |
+| [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 2022-07-09 | 2022-07-10 | [Utami](https://osu.ppy.sh/users/7512553) | [mrekk](https://osu.ppy.sh/users/7562902) | [im_a_fancy_lad](https://osu.ppy.sh/users/4908650) |
 
-#### osu! Asia Oceania Tournament
+#### UK Community Cup
+
+| Name | Start | End | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [UK Community Cup](UKCC/1) | 2016-06-18 | 2016-08-07 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| [UK Community Cup 2](UKCC/2) | 2017-01-14 | 2017-03-05 | benis | Spare Fish | We'll think of something |
+| [UK Community Cup 3](UKCC/3) | 2017-06-01 | 2017-08-20 | ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
+| [UK Community Cup 4](UKCC/4) | 2018-01-27 | 2018-03-11 | One Thrust Men | Sorry Bubble | Nomod since 2014 |
+| [UK Community Cup 5](UKCC/5) | 2018-06-23 | 2018-08-19 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| [UK Community Cup 6](UKCC/6) | 2019-02-23 | 2019-04-07 | Question Mark | 10man? | Boom! Tetris for Benbow! |
+| [UK Community Cup 7](UKCC/7) | 2019-09-07 | 2019-10-27 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373) | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |
+| [UK Community Cup 8](UKCC/8) | 2020-03-28 | 2020-05-17 | 10man? | will is minecart | Gaurdians of Valhalla |
+| [UK Community Cup 9](UKCC/9) | 2020-08-29 | 2020-10-11 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
+| [UK Community Cup X](UKCC/X) | 2021-02-06 | 2021-04-12 | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) | ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761) | ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484) |
+| [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
+| [UK Community Cup 11](UKCC/11) | 2022-01-23 | 2022-04-03 | Luciano Fan Club | denial piano | The |
+
+#### Ulat Bulu Cup
+
+| Name | Start | End | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu! Choked People Tournament #2 | 2018-10-26 | 2018-12-02 | Team 3G | Team 1E | WARKOP SAHABAT KUMIS |
+| Ulat Bulu Cup 2019 | 2019-07-26 | 2019-08-31 | Jidank Hamil | Susu Vanilla Cimory | Budak Cygames |
+| [Ulat Bulu Cup 2020](UCUP/2020) | 2020-06-02 | 2020-07-12 | awan fanclub | Press 3 Fs to pay respects | terserah |
+| [Ulat Cup 2021](UCUP/2021) | 2021-09-13 | 2021-10-31 | Rushia | Surtr S3 | L9 Hamster |
+
+#### Yaz's Summer Cup
+
+| Name | Start | End | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Yaz's Summer Cup 2017](YSC/2017) | 2017-07-21 | 2017-09-30 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | ![][flag_KR] [Cookiezi](https://osu.ppy.sh/users/124493) |
+| [Yaz's Summer Cup 2018](YSC/2018) | 2018-06-16 | 2018-08-12 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_KR] [Yaong](https://osu.ppy.sh/users/1883865) | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| [Yaz's Summer Cup 2019](YSC/2019) | 2019-07-06 | 2019-08-25 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_US] [thaibuy](https://osu.ppy.sh/users/4250296) | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) |
+| [Yaz's Summer Cup 2021](YSC/2021) | 2021-06-25 | 2021-08-22 | ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902) | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+
+#### Yuri Cup
+
+| Name | Start | End | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Yuri Cup](YC/1) | 2020-02-22 | 2020-04-05 | Corim's Bad Dream | a la verga | Rtzero x Rtzer0 |
+
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
+
+#### 3 Digit Taiko World Cup
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! Asia Oceania Tournament](/wiki/Tournaments/o!AOT/1) | 26/07/2019 | 22/09/2019 | 進撃のバブルティー | 黃建智 | 과로사 |
+| [3 Digit Taiko World Cup](3TWC/1) | 2021-01-09 | 2021-02-21 | ![][flag_CN] China | ![][flag_KR] South Korea | ![][flag_MY] Malaysia |
 
 #### Asian-Oceanian Taiko Showdown
 
+<<<<<<< Updated upstream
+#### osu! Asia Oceania Tournament
+=======
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Indonesian Taiko Showdown](/wiki/Tournaments/AOTS/IDTS_1) | 06/05/2017 | 11/06/2017 | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
-| [Asian Taiko Showdown 2018](/wiki/Tournaments/AOTS/ATS_2018) | 02/06/2018 | 08/07/2018 | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022) |
-| [Asian-Oceanian Taiko Showdown](/wiki/Tournaments/AOTS/AOTS_1) | 09/08/2019 | 15/09/2019 | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819) | ![][flag_HK] [MTDex](https://osu.ppy.sh/users/9468283) |
+| [Indonesian Taiko Showdown](AOTS/IDTS_1) | 2017-05-06 | 2017-06-11 | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
+| [Asian Taiko Showdown 2018](AOTS/ATS_2018) | 2018-06-02 | 2018-07-08 | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022) |
+| [Asian-Oceanian Taiko Showdown](AOTS/AOTS_1) | 2019-08-09 | 2019-09-15 | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819) | ![][flag_HK] [MTDex](https://osu.ppy.sh/users/9468283) |
 
+#### Taiko Last Man Standing
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Taiko World Cup: Last Man Standing | 2014-05-10 | 2014-06-15 | ![][flag_JP] Japan | ![][flag_CL] Chile | ![][flag_TW] Taiwan A |
+| Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ![][flag_TW] Taiwan A | ![][flag_FR] France | ![][flag_JP] Japan A |
+| Taiko World Cup: Last Man Standing - Single Player Edition | 2016-10-10 | 2016-01-11 | ![][flag_JP] [abeno](https://osu.ppy.sh/users/6565148) | ![][flag_TW] [S a n d](https://osu.ppy.sh/users/676578) | ![][flag_CA] [Fudgyking](https://osu.ppy.sh/users/3802922) |
+| Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ![][flag_JP] Japan A | ![][flag_TW] Taiwan A | ![][flag_JP] Japan D |
+| Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](https://osu.ppy.sh/users/6170507) | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
+| [Taiko LMS: Shift Cup](T_LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
+| [Taiko LMS: Shift Cup 2](T_LMS/Shift_2) | 2020-04-25 | 2020-05-31 | Where is JDrago1-13? | abibibubibui | EuroGamers -Jaye |
+
+#### Taiko Suiji Cup
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Taiko Suiji Cup](TSC/1) | 2018-09-01 | 2018-10-07 | jakpat | i like grosses baguettes | BabySnakes is Dumb |
+| [Taiko Suiji Cup 2020](TSC/2020) | 2020-02-22 | 2020-04-04 | The Shitmissers ft. zkane2 | #TeamTrees | Worldwide Bongo |
+| [Taiko Suiji Cup Winter 2020](TSC/2020_Winter) | 2020-11-21 | 2020-12-26 | AAAAAAAAAAAA United Co.™ | E | Yet Unnamed Suiji Team |
+
+#### Ausu!Taiko Tournament
+>>>>>>> Stashed changes
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Ausu!Taiko Tournament 2019](ATT/2019) | 2019-07-13 | 2019-08-11 | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
+| [Ausu!Taiko Tournament 2020](ATT/2020) | 2020-05-09 | 2020-06-07 | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| [Ausu!Taiko Tournament 2021](ATT/2021) | 2021-04-24 | 2021-05-23 | ![][flag_ID] [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) |
+
+<<<<<<< Updated upstream
+#### Asian-Oceanian Taiko Showdown
+=======
+#### Beginners' Taiko Tournament
+>>>>>>> Stashed changes
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Beginners' Taiko Tournament | 2017-02-15 | 2017-04-26 | ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) | ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252) | ![][flag_CL] [Furioso](https://osu.ppy.sh/users/8588666) |
+| Beginners' Taiko Tournament Season 2 | 2017-05-04 | 2017-06-25 | Team Yiff | Midnight Demons | Ghostly Kangies |
+| Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) | ![][flag_PT] [Just2Gud](https://osu.ppy.sh/users/4430263) | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
+| [Beginners' Taiko Tournament 4](BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| [Beginners' Taiko Tournament 5](BTT/5) | 2020-01-25 | 2020-03-15 | ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252) | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) |
+| [Beginners' Taiko Tournament 6](BTT/6) | 2021-02-06 | 2021-04-04 | ![][flag_US] [-Schwarts](https://osu.ppy.sh/users/4673649) | ![][flag_CA] [Garfield\_osu](https://osu.ppy.sh/users/9743947) | ![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889) |
+
+<<<<<<< Updated upstream
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 #### 3 Digit Taiko World Cup
@@ -371,18 +699,31 @@ Tournois/Compétitions non officiels organisés par la communauté.
 #### Vaf's Autumn Fiesta
 
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+#### Vaf's Autumn Fiesta
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Vaf's Autumn Fiesta](VAF/1) | 2021-05-15 | 2021-07-11 | ![][flag_JP] [yu-k1\_](https://osu.ppy.sh/users/16347853) | ![][flag_HK] [J a c k y](https://osu.ppy.sh/users/8011704) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
 
 #### European Taiko Tournament
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [European Taiko Tournament 2018](EUTT/2018) | 2018-11-03 | 2018-12-09 | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) |
 
 #### Taiko Wars
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Taiko Wars](TW/1) | 2018-10-29 | 2018-12-02 | Land of Foda-se 2: Electric Boogaloo | cu | Iceland |
 
@@ -400,7 +741,11 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 #### Global Taiko Showdown
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![[Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Intermediate Global Taiko Showdown 2018](GTS/IGTS_2018) | 2018-08-04 | 2018-09-16 | ![][flag_MY] Malaysia | ![][flag_NL] Netherlands | ![][flag_US] United States |
 | [Intermediate Global Taiko Showdown 2019](GTS/IGTS_2019) | 2019-06-08 | 2019-07-14 | ![][flag_HK] Hong Kong | ![][flag_US] United States A | ![][flag_CL] Chile |
@@ -421,7 +766,11 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 #### North & South American Taiko Tournament
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [North American Taiko Tournament 2018](NSATT/NATT_2018) | 2018-07-28 | 2018-09-01 | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) |
 | [North & South American Taiko Tournament 2019](NSATT/NSATT_2019) | 2019-06-22 | 2019-07-28 | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_BR] [eae](https://osu.ppy.sh/users/4050738) |
@@ -468,7 +817,11 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 #### 4 Digit Catch World Cup
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [4 Digit Catch World Cup 2021](4CWC/2021) | 2021-10-02 | 2021-11-14 | ::{ flag=ID }:: Indonesia | ::{ flag=DE }:: Germany | ::{ flag=SE }:: Sweden |
 | [4 Digit Catch World Cup 2022](4CWC/2022) | 2022-07-30 | 2022-09-11 | *TBD* | *TBD* | *TBD* |
@@ -485,7 +838,11 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 #### Catch French Beginner
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | CTB Beginner | 2018-06-30 | 2018-07-01 | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) | ![][flag_FR] [FlameHaze](https://osu.ppy.sh/users/870066) | ![][flag_FR] [-Yuuki\_Tsubaki-](https://osu.ppy.sh/users/11408639) |
 | Catch French Beginner #2 | 2018-11-17 | 2018-12-15 | ![][flag_FR] [Leherketa](https://osu.ppy.sh/users/1702715) | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694) | ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898) |
@@ -506,20 +863,32 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 #### Indonesia Convert Cup
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Indonesia Convert Cup 2020](ICC/2020) | 2020-09-13 | 2020-11-08 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | [Indonesia Convert Cup 2021](ICC/2021) | 2021-08-16 | 2021-10-11 | ![][flag_ID] [Dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
 
 #### osu! Cup Master
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Cup Master 3: osu!catch edition](OCM/3) | 2019-12-14 | 2020-03-15 | Acelga | idk lol | KRNS |
 
 #### osu!catch CIS Open Tournament
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!catch CIS Open Tournament 2022](COT/2022) | 2022-01-29 | 2022-03-12 | ![][flag_RU] [Memoriola](https://osu.ppy.sh/users/6856387) | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384) |
 
@@ -539,7 +908,11 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 #### 4 Digit osu!mania World Cup
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 4 Digit osu!mania World Cup | 2019-06-03 | 2019-07-27 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
@@ -568,14 +941,22 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 #### Chinese osu!mania 4K Tournament
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Chinese osu!mania 4K Tournament 2017](CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ![][flag_TW] [- Choma -](https://osu.ppy.sh/users/4469570) | ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ![][flag_CN] [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
 | [Chinese osu!mania 4K Tournament 2018](CMT_4K/2018) | 2018-09-10 | 2018-11-25 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159) |
 
 #### Cemara Mania Cup
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Cemara Mania Cup \#1 (2020)](CMC/2020) | 2020-10-06 | 2020-12-20 | **Neppu-Neppu** (![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869)) | **Leviathan** (![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623)) | **UwU Team** (![][flag_ID] [juww](https://osu.ppy.sh/users/11019862), ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808)) |
 
@@ -593,6 +974,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | [osu!mania LN Tournament](/wiki/Tournaments/o!mLN/1) | 23/03/2019 | 04/05/2019 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) |
 
 #### GB Cup
+<<<<<<< Updated upstream
 
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -703,6 +1085,118 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | osu!mania Philippines Summer Tournament 2017 | 06/05/2017 | 25/06/2017 | ![][flag_PH] [Niro-](https://osu.ppy.sh/users/6443899)(osu!mania 4K), ![][flag_PH] [Dadots](https://osu.ppy.sh/users/3525251)(osu!mania 7K) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800)(osu!mania 4K), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512)(osu!mania 7K) | ![][flag_PH] [Jsee](https://osu.ppy.sh/users/6573652)(osu!mania 4K), ![][flag_PH] [SanniSanni](https://osu.ppy.sh/users/3036686)(osu!mania 7K) |
 | [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) | 14/04/2018 | 17/06/2018 | ![][flag_CA] [Dunois](https://osu.ppy.sh/users/4581715)(osu!), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103)(osu!catch), ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439)(osu!mania 4K), ![][flag_PH] [cieloday05](https://osu.ppy.sh/users/2722489)(osu!mania 7K) | ![][flag_PH] [-Marika](https://osu.ppy.sh/users/2199427)(osu!), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935)(osu!catch), ![][flag_PH] [exodia3000](https://osu.ppy.sh/users/10500797)(osu!mania 4K), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(osu!mania 7K) | ![][flag_PH] [Varsagus](https://osu.ppy.sh/users/3885723)(osu!), ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(osu!), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(osu!catch), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(osu!mania 4K), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936)(osu!mania 7K) |
 
+=======
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 2022-04-09 | 2022-05-15 | 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | GBC最强阵容9个Miyes |
+
+#### Mania Beginner's Showdown
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Mania Beginner's Showdown](MBS/1) | 2019-06-15 | 2019-08-04 | ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413) (High division), ![][flag_TH] [osu\_player420](https://osu.ppy.sh/users/13018880) (Low division) | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) (High division), ![][flag_PH] [Wakeupat5](https://osu.ppy.sh/users/13311553) (Low division) | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) (High division), ![][flag_VE] [\_Vanslight\_](https://osu.ppy.sh/users/6031119) (Low division) |
+| [Mania Beginner's Showdown 2](MBS/2) | 2020-05-09 | 2020-06-05 | ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120) (High division), ![][flag_MY] [Anamneses](https://osu.ppy.sh/users/16299729) (Low division) | ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479) (High division), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) (Low division) | ![][flag_SG] [loli\_seale](https://osu.ppy.sh/users/5069913) (High division), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) (Low division) |
+
+#### Mengxin Cup
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Novice Mania Cup 3rd](MXB/3) | 2019-04-05 | 2019-06-16 | ![][flag_CN] [A M D](https://osu.ppy.sh/users/5321112) | ![][flag_CN] [shizehao](https://osu.ppy.sh/users/4928674) | ![][flag_CN] [Yutto007](https://osu.ppy.sh/users/10269172) |
+
+#### Mistrzostwa Polski (Polish Championship)
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Mistrzostwa Polski w 4K 2019](MP/2019_4K) | 2019-05-13 | 2019-08-04 | ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) | ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/2235750) |
+| [Mistrzostwa Polski w 7K 2019](MP/2019_7K) | 2019-10-09 | 2019-12-22 | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537) | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) | ![][flag_PL] [-Karen-chan-](https://osu.ppy.sh/users/1333495) |
+| [Mistrzostwa Polski w 7K 2020](MP/2020_7K) | 2020-10-12 | 2020-12-20 | ![][flag_PL] [paprotkaaaaa](https://osu.ppy.sh/users/6034749) | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537) | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/2235750) |
+
+#### osu!mania Chinese National Cup
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania 4K Chinese National Cup 2019](MCNC/2019) | 2019-06-19 | 2019-08-12 | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
+| [osu!mania 4K Chinese National Cup 2020](MCNC/2020) | 2020-04-27 | 2020-06-28 | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) | ![][flag_CN] [Kakuko](https://osu.ppy.sh/users/10413362) | ![][flag_CN] [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
+| [osu!mania 4K Chinese National Cup 2021](MCNC/2021) | 2021-04-05 | 2021-06-06 | ![][flag_CN] [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) | ![][flag_CN] [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
+| [osu!mania 7K Chinese National Cup 2022](MCNC/7K2022) | 2022-01-21 | 2022-03-06 | ![][flag_CN] [LiangIaiajan](https://osu.ppy.sh/users/5144698) | ![][flag_CN] [4kGameBye](https://osu.ppy.sh/users/89545) | ![][flag_CN] [U1d](https://osu.ppy.sh/users/10125072) |
+
+#### osu!mania Asian's Champions
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania Asian's Champions 2019](o!mAC/2019) | 2019-09-28 | 2019-11-10 | ![][flag_KR] [\[ R o a d \]](https://osu.ppy.sh/users/6535926) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+
+#### osu!mania Flashlight 4K Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania Flashlight 4K Tournament](FL4T/1) | 2021-02-06 | 2021-03-21 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) | ![][flag_PH] [- l e j -](https://osu.ppy.sh/users/6413944) |
+
+#### osu!mania Indonesia Cup
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania 4K Indonesia Cup 2019](OMIC/2019_4K) | 2019-05-26 | 2019-08-25 | ![][flag_ID] [Kevin-sama](https://osu.ppy.sh/users/6991664) | ![][flag_ID] [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | ![][flag_ID] [ChocoCoki-](https://osu.ppy.sh/users/3565870) |
+
+#### osu!mania LN Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania LN Tournament](o!mLN/1) | 2019-03-23 | 2019-05-04 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) |
+| [osu!mania LN Tournament 2](o!mLN/2) | 2020-06-13 | 2020-08-02 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_TH] [MyZterioN-](https://osu.ppy.sh/users/8521723) | ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923) |
+
+#### osu!mania South East Asia Champion 2020
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania South East Asia Champion 2020](SEAC/2020) | 2020-12-26 | 2021-02-14 | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ![][flag_VN] [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) | ![][flag_VN] [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
+
+#### Score Attack Showdown
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Score Attack Showdown](SAS/1) | 2020-10-26 | 2020-11-28 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) |
+
+#### Speed of Light
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Speed of Light Mania Tournament](SOL/2019) | 2019-11-23 | 2020-01-26 | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) | ![][flag_BR] [**andreymc**](https://osu.ppy.sh/users/5691061) | ![][flag_MY] [**cheewee10**](https://osu.ppy.sh/users/4477497) |
+| [Speed of Light 2: Lucha Libre Edition](SOL/2020) | 2020-11-14 | 2021-01-24 | regular team | World's Fastest Gamers | BOTTOM GEAR |
+
+#### Springtime osu!mania Free-for-all Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Springtime osu!mania Free-for-all Tournament | 2016-02-19 | 2016-05-01 | ![][flag_KR] [Cobo-](https://osu.ppy.sh/users/1482965) | ![][flag_CL] [Urusai](https://osu.ppy.sh/users/469808) | ![][flag_FR] [bumpinho](https://osu.ppy.sh/users/1594604) |
+| Springtime osu!mania Free-for-all Tournament 2 | 2017-02-18 | 2017-04-30 | ![][flag_KR] [cheetose](https://osu.ppy.sh/users/3817144) | ![][flag_KR] [Cobo-](https://osu.ppy.sh/users/1482965) | ![][flag_VN] [Asrielly](https://osu.ppy.sh/users/2656302) |
+| [Springtime osu!mania Free-for-all Tournament 3](SOFT/3) | 2018-02-17 | 2018-04-29 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | ![][flag_JP] [inteliser](https://osu.ppy.sh/users/1824775) | ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
+
+#### The Heptakey osu!mania Cup
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [The Heptakey osu!mania Cup #1](THOM_CUP/1) | 2018-04-16 | 2018-07-15 | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852) | ![][flag_IT] [Yomiel](https://osu.ppy.sh/users/3461860) | ![][flag_CL] [Skalim](https://osu.ppy.sh/users/2225008) |
+
+#### Touhou Project Mania Cup
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Touhou Project Mania Cup 1st](TMC/1st) | 2020-09-14 | 2020-12-06 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
+
+
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) ![](/wiki/shared/mode/taiko.png) Multi-modes
+
+#### osu!Philippines Summer Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu!mania Philippines 4K Summer Tournament 2016 | 23/04/2016 | 28/05/2016 | ![][flag_PH] [Tokiiwa](https://osu.ppy.sh/users/4029511) | ![][flag_PH] [Muttsulinii](https://osu.ppy.sh/users/4345491) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800) |
+| osu!mania Philippines Summer Tournament 2017 | 06/05/2017 | 25/06/2017 | ![][flag_PH] [Niro-](https://osu.ppy.sh/users/6443899)(osu!mania 4K), ![][flag_PH] [Dadots](https://osu.ppy.sh/users/3525251)(osu!mania 7K) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800)(osu!mania 4K), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512)(osu!mania 7K) | ![][flag_PH] [Jsee](https://osu.ppy.sh/users/6573652)(osu!mania 4K), ![][flag_PH] [SanniSanni](https://osu.ppy.sh/users/3036686)(osu!mania 7K) |
+| [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) | 14/04/2018 | 17/06/2018 | ![][flag_CA] [Dunois](https://osu.ppy.sh/users/4581715)(osu!), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103)(osu!catch), ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439)(osu!mania 4K), ![][flag_PH] [cieloday05](https://osu.ppy.sh/users/2722489)(osu!mania 7K) | ![][flag_PH] [-Marika](https://osu.ppy.sh/users/2199427)(osu!), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935)(osu!catch), ![][flag_PH] [exodia3000](https://osu.ppy.sh/users/10500797)(osu!mania 4K), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(osu!mania 7K) | ![][flag_PH] [Varsagus](https://osu.ppy.sh/users/3885723)(osu!), ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(osu!), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(osu!catch), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(osu!mania 4K), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936)(osu!mania 7K) |
+
+>>>>>>> Stashed changes
 #### DeltaMax's Tournaments
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
@@ -719,7 +1213,11 @@ Tournois/Compétitions non officiels organisés par la communauté.
 
 #### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
+<<<<<<< Updated upstream
 | Nom | Début | Fin | ![Couronne d'or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+=======
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
+>>>>>>> Stashed changes
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | osu!mania Philippines 4K Summer Tournament 2016 | 2016-04-23 | 2016-05-28 | ![][flag_PH] [Tokiiwa](https://osu.ppy.sh/users/4029511) | ![][flag_PH] [Muttsulinii](https://osu.ppy.sh/users/4345491) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800) |
 | osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](https://osu.ppy.sh/users/6443899) (osu!mania 4K), ![][flag_PH] [Dadots](https://osu.ppy.sh/users/3525251) (osu!mania 7K) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800) (osu!mania 4K), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512) (osu!mania 7K) | ![][flag_PH] [Jsee](https://osu.ppy.sh/users/6573652) (osu!mania 4K), ![][flag_PH] [SanniSanni](https://osu.ppy.sh/users/3036686) (osu!mania 7K) |
