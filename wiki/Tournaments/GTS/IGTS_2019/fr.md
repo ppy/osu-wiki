@@ -33,7 +33,11 @@ L'**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) était un tourno
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | bannière d'équipe exclusive |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | bannière d'équipe exclusive |
 
+<<<<<<< Updated upstream
 ![](img/badge.png "IGTS 2019 winner badge")
+=======
+![](img/badge.png, "Badge des gagnants de l'IGTS 2019")
+>>>>>>> Stashed changes
 
 ## Organisation
 
@@ -78,7 +82,7 @@ L'Intermediate Global Taiko Showdown 2019 était organisé par différents membr
 | ![][flag_EC] | **Équateur** | **[-Anmi-](https://osu.ppy.sh/users/7857559)**, [Etsu](https://osu.ppy.sh/users/3442319), [Mik3gam3r7919](https://osu.ppy.sh/users/10570577) |
 | ![][flag_US] | **États Unis A** | **[Swovine](https://osu.ppy.sh/users/6666316)**, [Cychloryn](https://osu.ppy.sh/users/6921736), [Stan GFriend](https://osu.ppy.sh/users/1773605), [InsaneToe](https://osu.ppy.sh/users/6389252), [kb131313](https://osu.ppy.sh/users/11229259) |
 | ![][flag_US] | **États Unis B** | **[Binsu](https://osu.ppy.sh/users/6236911)**, [Slav Man](https://osu.ppy.sh/users/11612235), [White Axl](https://osu.ppy.sh/users/12334307), [Tsred](https://osu.ppy.sh/users/2737667), [Carlohman1](https://osu.ppy.sh/users/12212290) |
-| ![][flag_FI] | **Finlande** | **[\[Otto\]](https://osu.ppy.sh/users/5049430)**, [Zoel](https://osu.ppy.sh/users/7289244), [SSieni](https://osu.ppy.sh/users/2402008), [Wanderful](https://osu.ppy.sh/users/3386674), [Kuromiyaa](https://osu.ppy.sh/users/12811744) |
+| ![][flag_FI] | **Finlandee** | **[\[Otto\]](https://osu.ppy.sh/users/5049430)**, [Zoel](https://osu.ppy.sh/users/7289244), [SSieni](https://osu.ppy.sh/users/2402008), [Wanderful](https://osu.ppy.sh/users/3386674), [Kuromiyaa](https://osu.ppy.sh/users/12811744) |
 | ![][flag_FR] | **France A** | **[Ladylag](https://osu.ppy.sh/users/2812098)**, [Kaho-Hinata](https://osu.ppy.sh/users/8903888), [Musclor](https://osu.ppy.sh/users/9637676), [Mimir](https://osu.ppy.sh/users/7382734), [Ladybug](https://osu.ppy.sh/users/4833654) |
 | ![][flag_FR] | **France B** | **[Lyseria-Miku](https://osu.ppy.sh/users/8972795)**, [kamaboko117](https://osu.ppy.sh/users/9508031), [Heartswimm](https://osu.ppy.sh/users/10936319), [Panda\_0ne](https://osu.ppy.sh/users/11216472) |
 | ![][flag_GR] | **Grèce** | **[- VayKay -](https://osu.ppy.sh/users/2559954)**, [KagamineAmy](https://osu.ppy.sh/users/8744228) |
@@ -102,7 +106,7 @@ L'Intermediate Global Taiko Showdown 2019 était organisé par différents membr
 
 | Groupe | Top Seed | High Seed | Low Seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_TW] Taïwan | ![][flag_ID] Indonésie A | ![][flag_DE] Allemagne | ![][flag_FI] Finlande |
+| **A** | ![][flag_TW] Taïwan | ![][flag_ID] Indonésie A | ![][flag_DE] Allemagne | ![][flag_FI] Finlandee |
 | **B** | ![][flag_PL] Pologne A | ![][flag_PH] Philippines | ![][flag_CH] Suisse | ![][flag_GR] Grèce |
 | **C** | ![][flag_JP] Japon | ![][flag_AU] Australie | ![][flag_EC] Équateur | ![][flag_FR] France B |
 | **D** | ![][flag_KR] Corée du Sud | ![][flag_FR] France A | ![][flag_NL] Pays-Bas | ![][flag_SG] Singapour |
@@ -327,7 +331,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
   2. [Buta-Otome - Mamanaranai (Karee Pan) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/722051#taiko/1524527)
 - DoubleTime
   1. [BLACKPINK - AS IF IT'S YOUR LAST (QEpicAce) \[Blackener's Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980788#taiko/2052592)
-  2. [Team "Hanayamata" - Hana wa Odore ya Irohaniho (kjwkjw) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/215845#taiko/506832)
+  2. [Équipe "Hanayamata" - Hana wa Odore ya Irohaniho (kjwkjw) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/215845#taiko/506832)
 - FreeMod
   1. [GigaP feat. kradness - Senbonzakura (Soldsaga KunG) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/186878#taiko/453439)
   2. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (eiri-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/773330#taiko/1625589)
@@ -337,33 +341,43 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 ## Résultats des matches
 
-### Grande finale
+### Grande Finale
 
-| Samedi, 13/07/2019 |  |  |  |  |
+Samedi, 13 Juillet 2019:
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| États-Unis A ![][flag_US] | 5 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53299127) |
-| **Hong Kong** ![][flag_HK] | **7** | 4 | ![][flag_US] États-Unis A | [#1](https://osu.ppy.sh/community/matches/53300693) |
+| États-Unis d'Amérique A ![][flag_US] | 5 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53299127) |
+| **Hong Kong** ![][flag_HK] | **7** | 4 | ![][flag_US] États-Unis d'Amérique A | [#1](https://osu.ppy.sh/community/matches/53300693) |
 
-### Finales
+### Finale
 
-| Samedi, 06/07/2019 |  |  |  |  |
+Samedi, 6 Juillet 2019:
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **7** | 2 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/53143747) |
-| **États-Unis A** ![][flag_US] | **7** | 3 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/53159685) |
+| **États-Unis d'Amérique A** ![][flag_US] | **7** | 3 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/53159685) |
 
-| Dimanche, 07/07/2019 |  |  |  |  |
+Dimanche, 7 Juillet 2019:
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | Chili ![][flag_CL] | 1 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53162196) |
 
-### Demi-finales
+### Semi-finale
 
-| Samedi, 29/06/2019 |  |  |  |  |
+Samedi, 29 Juin 2019:
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| **États-Unis A** ![][flag_US] | **7** | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/52977372) |
+| **États-Unis d'Amérique A** ![][flag_US] | **7** | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/52977372) |
 | **Chili** ![][flag_CL] | **7** | 5 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/52987753) |
 | **Hong Kong** ![][flag_HK] | **7** | 1 | ![][flag_AR] Argentine | [#1](https://osu.ppy.sh/community/matches/52987594) |
 
-| Dimanche, 30/06/2019 |  |  |  |  |
+Dimanche, 30 Juin 2019:
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **France A** ![][flag_FR] | **7** | 6 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/53005399) |
 | Philippines ![][flag_PH] | 6 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53005654) |
@@ -371,98 +385,112 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 ### Quarts de finale
 
-| Samedi, 22/06/2019 |  |  |  |  |
+Samedi, 22 Juin 2019:
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| Indonésie A ![][flag_ID] | 0 | **6** | ![][flag_US] **États-Unis A** | -win by default- |
+| Indonésie A ![][flag_ID] | 0 | **6** | ![][flag_US] **États-Unis d'Amérique A** | *win by default* |
 | France A ![][flag_FR] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/52814381) |
 | **Chine** ![][flag_CN] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/52818020) |
 | **Chili** ![][flag_CL] | **6** | 1 | ![][flag_SG] Singapour | [#1](https://osu.ppy.sh/community/matches/52820880) |
 | Taiwan ![][flag_TW] | 0 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/52820731) |
 
-| Dimanche, 23/06/2019 |  |  |  |  |
+Dimanche, 23 Juin 2019:
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | Indonésie A ![][flag_ID] | 2 | **6** | ![][flag_JP] **Japon** | [#1](https://osu.ppy.sh/community/matches/52845363) |
 | Singapour ![][flag_SG] | 5 | **6** | ![][flag_AR] **Argentine** | [#1](https://osu.ppy.sh/community/matches/52848092) |
 | **France A** ![][flag_FR] | **6** | 3 | ![][flag_MX] Mexique | [#1](https://osu.ppy.sh/community/matches/52850794) |
 
-### Huitièmes de finale
+### Round of 16
 
-| Samedi, 15/06/2019 |  |  |  |  |
+Samedi, 15 Juin 2019:
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Chine** ![][flag_CN] | **6** | 1 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/52630781) |
-| Taïwan ![][flag_TW] | 3 | **6** | ![][flag_PL] **Pologne B** | [#1](https://osu.ppy.sh/community/matches/52636109) |
+| Taiwan ![][flag_TW] | 3 | **6** | ![][flag_PL] **Polande B** | [#1](https://osu.ppy.sh/community/matches/52636109) |
 | **Indonésie A** ![][flag_ID] | **6** | 3 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/52637520) |
-| **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/community/matches/52637498) |
+| **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_BR] Brézil | [#1](https://osu.ppy.sh/community/matches/52637498) |
 | Mexique ![][flag_MX] | 1 | **6** | ![][flag_SG] **Singapour** | [#1](https://osu.ppy.sh/community/matches/52641017) |
 | Argentine ![][flag_AR] | 3 | **6** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/52644303) |
-| Pologne A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52647239) |
-| **États Unis A** ![][flag_US] | **6** | 0 | ![][flag_EC] Équateur | [#1](https://www.twitch.tv/videos/439630298) |
+| Polande A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52647239) |
+| **États-Unis d'Amérique A** ![][flag_US] | **6** | 0 | ![][flag_EC] Équateur | [#1](https://www.twitch.tv/videos/439630298) |
 
-| Dimanche, 16/06/2019 |  |  |  |  |
+Dimanche, 16 Juin 2019:
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **6** | 2 | ![][flag_EC] Équateur | [#1](https://osu.ppy.sh/community/matches/52657012) |
-| Japon ![][flag_JP] | 2 | **6** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/52661179) |
-| Pologne A ![][flag_PL] | 1 | **6** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52673843) |
-| **Argentine** ![][flag_AR] | **6** | 4 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/community/matches/52676942) |
+| Japon ![][flag_JP] | 2 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/52661179) |
+| Polande A ![][flag_PL] | 1 | **6** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52673843) |
+| **Argentine** ![][flag_AR] | **6** | 4 | ![][flag_BR] Brézil | [#1](https://osu.ppy.sh/community/matches/52676942) |
 
-| Samedi, 22/06/2019 |  |  |  |  |
+Samedi, 22 Juin 2019:
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| **Taïwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Pologne B | [#1](https://osu.ppy.sh/community/matches/52815977) |
-| **Japon** ![][flag_JP] | **6** | 0 | ![][flag_PL] Pologne B | -win by default- |
+| **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Polande B | [#1](https://osu.ppy.sh/community/matches/52815977) |
+| **Japon** ![][flag_JP] | **6** | 0 | ![][flag_PL] Polande B | *win by default* |
 
-### Phase de groupe
+### Group stage
 
-| Groupe | Samedi, 08/06/2019 |  |  |  |  |
+Samedi, 8 Juin 2019:
+
+| Group | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F3 | **États Unis A** ![][flag_US] | **5** | 0 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/52446671) |
-| G5 | Pérou ![][flag_PE] | 0 | **5** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52446788) |
-| C6 | Équateur ![][flag_EC] | 0 | **5** | ![][flag_JP] **Japon** | -win by default- |
-| G4 | **Indonésie B** ![][flag_ID] | **5** | 4 | ![][flag_PE] Pérou | [#1](https://osu.ppy.sh/community/matches/52447584) |
-| G6 | Indonésie B ![][flag_ID] | 1 | **5** | ![][flag_BR] **Brésil** | [#1](https://osu.ppy.sh/community/matches/52476732 ) |
+| F3 | **États-Unis d'Amérique A** ![][flag_US] | **5** | 0 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/52446671) |
+| G5 | Perou ![][flag_PE] | 0 | **5** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52446788) |
+| C6 | Équateur ![][flag_EC] | 0 | **5** | ![][flag_JP] **Japon** | *win by default* |
+| G4 | **Indonésie B** ![][flag_ID] | **5** | 4 | ![][flag_PE] Perou | [#1](https://osu.ppy.sh/community/matches/52447584) |
+| G6 | Indonésie B ![][flag_ID] | 1 | **5** | ![][flag_BR] **Brézil** | [#1](https://osu.ppy.sh/community/matches/52476732 ) |
 | D2 | Singapour ![][flag_SG] | 2 | **5** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/52453695) |
-| A3 | Taïwan ![][flag_TW] | 2 | **5** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/52457632) |
-| B3 | Pologne A ![][flag_PL] | 0 | **5** | ![][flag_PH] **Philippines** | -win by default- |
-| A2 | Finlande ![][flag_FI] | 1 | **5** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/52453686) |
+| A3 | Taiwan ![][flag_TW] | 2 | **5** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/52457632) |
+| B3 | Polande A ![][flag_PL] | 0 | **5** | ![][flag_PH] **Philippines** | *win by default* |
+| A2 | Finlande ![][flag_FI] | 1 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/52453686) |
 | C5 | France B ![][flag_FR] | 0 | **5** | ![][flag_AU] **Australie** | [#1](https://osu.ppy.sh/community/matches/52453715) |
 | B1 | **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_CH] Suisse | [#1](https://osu.ppy.sh/community/matches/52454819) |
-| D3 | South Korea ![][flag_KR] | 0 | **5** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/52454997) |
+| D3 | Corée du Sud ![][flag_KR] | 0 | **5** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/52454997) |
 | C2 | France B ![][flag_FR] | 0 | **5** | ![][flag_JP] **Japon** | [#1](https://osu.ppy.sh/community/matches/52455708) |
-| H2 | Irlande ![][flag_IE] | 0 | **5** | ![][flag_HK] **Hong Kong** | -win by default- |
+| H2 | Irlande ![][flag_IE] | 0 | **5** | ![][flag_HK] **Hong Kong** | *win by default* |
 | A1 | **Indonésie A** ![][flag_ID] | **5** | 1 | ![][flag_DE] Allemagne | [#1](https://osu.ppy.sh/community/matches/52454774) |
-| H3 | Hong Kong ![][flag_HK] | 3 | **5** | ![][flag_PL] **Pologne B** | [#1](https://osu.ppy.sh/community/matches/52457430) |
+| H3 | Hong Kong ![][flag_HK] | 3 | **5** | ![][flag_PL] **Polande B** | [#1](https://osu.ppy.sh/community/matches/52457430) |
 | D1 | **France A** ![][flag_FR] | **5** | 2 | ![][flag_NL] Pays-Bas | [#1](https://osu.ppy.sh/community/matches/52459107) |
-| B2 | Grèce ![][flag_GR] | 0 | **5** | ![][flag_PL] **Pologne A** | [#1](https://osu.ppy.sh/community/matches/52460776) |
-| H1 | **Pologne B** ![][flag_PL] | **5** | 0 | ![][flag_CO] Colombie | -win by default- |
+| B2 | Grèce ![][flag_GR] | 0 | **5** | ![][flag_PL] **Polande A** | [#1](https://osu.ppy.sh/community/matches/52460776) |
+| H1 | **Polande B** ![][flag_PL] | **5** | 0 | ![][flag_CO] Colombie | *win by default* |
 | E4 | **Argentine** ![][flag_AR] | **5** | 4 | ![][flag_GB] Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/52492419) |
-| F2 | Danemark ![][flag_DK] | 0 | **5** | ![][flag_US] **États Unis A** | [#1](https://osu.ppy.sh/community/matches/52468990) |
+| F2 | Danemark ![][flag_DK] | 0 | **5** | ![][flag_US] **États-Unis d'Amérique A** | [#1](https://osu.ppy.sh/community/matches/52468990) |
 | E1 | Mexique ![][flag_MX] | 0 | **5** | ![][flag_AR] **Argentine** | [#1](https://osu.ppy.sh/community/matches/52501005) |
-| E3 | États Unis B ![][flag_US] | 2 | **5** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52460665) |
-| E6 | **Argentine** ![][flag_AR] | **5** | 1 | ![][flag_US] États Unis B | [#1](https://osu.ppy.sh/community/matches/52498726) |
+| E3 | États-Unis d'Amérique B ![][flag_US] | 2 | **5** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52460665) |
+| E6 | **Argentine** ![][flag_AR] | **5** | 1 | ![][flag_US] États-Unis d'Amérique B | [#1](https://osu.ppy.sh/community/matches/52498726) |
 
-| Groupe | Dimanche, 09/06/2019 |  |  |  |  |
+Dimanche, 9 Juin 2019:
+
+| Group | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F6 | Canada ![][flag_CA] | 3 | **5** | ![][flag_US] **États Unis A** | [#1](https://osu.ppy.sh/community/matches/52474938) |
-| G3 | Brésil ![][flag_BR] | 2 | **5** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52475794) |
+| F6 | Canada ![][flag_CA] | 3 | **5** | ![][flag_US] **États-Unis d'Amérique A** | [#1](https://osu.ppy.sh/community/matches/52474938) |
+| G3 | Brézil ![][flag_BR] | 2 | **5** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52475794) |
 | C1 | Australie ![][flag_AU] | 4 | **5** | ![][flag_EC] **Équateur** | [#1](https://osu.ppy.sh/community/matches/52474929) |
-| G2 | Pérou ![][flag_PE] | 0 | **5** | ![][flag_BR] **Brésil** | [#1](https://osu.ppy.sh/community/matches/52474822) |
+| G2 | Perou ![][flag_PE] | 0 | **5** | ![][flag_BR] **Brézil** | [#1](https://osu.ppy.sh/community/matches/52474822) |
 | F1 | **Chine** ![][flag_CN] | **5** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/52477719) |
-| H6 | Colombie ![][flag_CO] | 0 | **5** | ![][flag_HK] **Hong Kong** | -win by default- |
+| H6 | Colombie ![][flag_CO] | 0 | **5** | ![][flag_HK] **Hong Kong** | *win by default* |
 | G1 | **Chili** ![][flag_CL] | **5** | 0 | ![][flag_ID] Indonésie B | [#1](https://osu.ppy.sh/community/matches/52478417) |
 | C3 | **Japon** ![][flag_JP] | **5** | 3 | ![][flag_AU] Australie | [#1](https://osu.ppy.sh/community/matches/52481439) |
 | D4 | Pays-Bas ![][flag_NL] | 1 | **5** | ![][flag_SG] **Singapour** | [#1](https://osu.ppy.sh/community/matches/52482358) |
 | D5 | **Singapour** ![][flag_SG] | **5** | 1 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/52485481) |
-| A6 | Allemagne ![][flag_DE] | 0 | **5** | ![][flag_TW] **Taïwan** | [#1](http://osu.ppy.sh/community/matches/52484172) |
+| A6 | Allemagne ![][flag_DE] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](http://osu.ppy.sh/community/matches/52484172) |
 | F5 | Danemark ![][flag_DK] | 3 | **5** | ![][flag_CN] **Chine** | [#1](https://osu.ppy.sh/community/matches/52484212) |
 | A5 | Finlande ![][flag_FI] | 3 | **5** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/52485543) |
-| D6 | Pays-Bas ![][flag_NL] | 4 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/52456119) |
+| D6 | Pays-Bas ![][flag_NL] | 4 | **5** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/52456119) |
 | B5 | Grèce ![][flag_GR] | 0 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/52486785) |
 | B4 | Suisse ![][flag_CH] | 0 | **5** | ![][flag_GR] Grèce | [#1](https://osu.ppy.sh/community/matches/52488184) |
 | A4 | Allemagne ![][flag_DE] | 2 | **5** | ![][flag_FI] **Finlande** | [#1](https://osu.ppy.sh/community/matches/52489442) |
-| B6 | Suisse ![][flag_CH] | 1 | **5** | ![][flag_PL] **Pologne A** | [#1](https://osu.ppy.sh/community/matches/52490955) |
-| H5 | Irlande ![][flag_IE] | 1 | **5** | ![][flag_PL] **Pologne B** | [#1](https://osu.ppy.sh/community/matches/52488517) |
+| B6 | Suisse ![][flag_CH] | 1 | **5** | ![][flag_PL] **Polande A** | [#1](https://osu.ppy.sh/community/matches/52490955) |
+| H5 | Irlande ![][flag_IE] | 1 | **5** | ![][flag_PL] **Polande B** | [#1](https://osu.ppy.sh/community/matches/52488517) |
 | C4 | **Équateur** ![][flag_EC] | **5** | 1 | ![][flag_FR] France B | [#1](https://osu.ppy.sh/community/matches/52494321) |
-| H4 | Colombie ![][flag_CO] | 0 | **5** | ![][flag_IE] **Irlande** | -win by default- |
-| E2 | **Royaume-Uni** ![][flag_GB] | **5** | 4 | ![][flag_US] États Unis B | [#1](https://osu.ppy.sh/community/matches/52496157) |
+| H4 | Colombie ![][flag_CO] | 0 | **5** | ![][flag_IE] **Irlande** | *win by default* |
+| E2 | **Royaume-Uni** ![][flag_GB] | **5** | 4 | ![][flag_US] États-Unis d'Amérique B | [#1](https://osu.ppy.sh/community/matches/52496157) |
 | F4 | Canada ![][flag_CA] | 4 | **5** | ![][flag_DK] **Danemark** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | Royaume-Uni ![][flag_GB] | 1 | **5** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52489459) |
 
@@ -547,7 +575,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 2. Si aucun arbitre ou membre du staff est disponible à l'horaire du match alors celui-ci sera reporté.
 3. S'il y a moins que le nombre minimum de joueurs nécessaire pour effectuer un match à l'heure prévue alors le match peut être retardé au maximum de 10 minutes.
 4. Si les deux équipes n'ont pas assez de joueurs à la fin des 10 minutes, cela comptera comme une défaite pour les deux équipes pendant la phase de groupe. Dans la phase éliminatoire, c'est l'équipe avec le plus haut seed qui sera déclarée victorieuse.
-5. Le match sera joué en TeamVs et ScoreV2 et le nom de la salle doit être : "IGTS 2019: (Team Red) vs (Team Blue)".
+5. Le match sera joué en ÉquipeVs et ScoreV2 et le nom de la salle doit être : "IGTS 2019: (Équipe Red) vs (Équipe Blue)".
 6. Chaque équipe a droit à un warm up. Celui-ci doit durer moins de 4 minutes. Il est autorisé d'inviter tous les joueurs dans la salle pour les warm ups.
 7. Chaque capitaine doit bannir **une beatmap** prise dans le pool (sauf le Tiebreaker). Ces beatmaps ne pourront plus être pick par aucune équipe pendant tout le match.
 8. Le capitaine de chaque équipe va faire un jet de dés en tapant la commande `!roll` dans le tchat.
@@ -588,7 +616,7 @@ Le All-star est un évènement pour le fun qui a lieu le même weekend que la gr
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
 [flag_EC]: /wiki/shared/flag/EC.gif "Équateur"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlandee"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
