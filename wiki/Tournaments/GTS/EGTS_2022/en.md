@@ -54,11 +54,13 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Links
 
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1612291)
 - [Discord server](https://discord.gg/3mGC3HB)
 - [EGTS website](https://gtsosu.com/egts/home)
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
+- [EGTS 2022 trailer](https://youtu.be/9RtCEP0e9H8)
 
 ## Participants
 
