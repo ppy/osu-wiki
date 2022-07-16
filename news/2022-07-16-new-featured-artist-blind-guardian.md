@@ -4,7 +4,7 @@ title: "New Featured Artist: Blind Guardian"
 date: 2022-07-16 10:00:00 +0000
 ---
 
-**Blind Guardian** proudly defends our Featured Artist library.
+**Blind Guardian** stands vigil between you and our Featured Artist library, what will you do? Listen to some new sick metal tunes, of course!
 
 ![](https://assets.ppy.sh/artists/284/header.jpg)
 
@@ -27,25 +27,25 @@ Stream-focused mapping has been a rising trend lately, and **Blind Guardian** ha
 Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1672400) hosted by [nebuwua](https://osu.ppy.sh/users/14729352) or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/617257) hosted by [frukoyurdakul](https://osu.ppy.sh/users/7612550)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/284/At%20the%20Edge%20of%20Time%2FBlind%20Guardian%20-%20A%20Voice%20In%20The%20Dark.mp3" type="audio/mpeg">
 </audio>
 
 ### Mirror Mirror
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/284/Nightfall%20in%20Middle-Earth%2FBlind%20Guardian%20-%20Mirror%20Mirror.mp3" type="audio/mpeg">
 </audio>
 
 ### Curse My Name
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/284/At%20the%20Edge%20of%20Time%2FBlind%20Guardian%20-%20Curse%20My%20Name.mp3" type="audio/mpeg">
 </audio>
 
 ### Wheel of Time
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/284/At%20the%20Edge%20of%20Time%2FBlind%20Guardian%20-%20Wheel%20Of%20Time.mp3" type="audio/mpeg">
 </audio>
 
 ---
