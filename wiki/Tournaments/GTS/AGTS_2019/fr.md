@@ -3,7 +3,6 @@ tags:
   - AGTS 2019
   - AGTS
   - GTS
-outdated_translation: true
 ---
 
 # Advanced Global Taiko Showdown 2019
