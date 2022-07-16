@@ -1,5 +1,9 @@
 ---
-outdated_translation: true
+tags:
+  - MWC 2017
+  - MWC 4K 2017
+  - MWC2017
+  - MWC4K 2017
 ---
 
 # osu!mania 4K World Cup 2017
