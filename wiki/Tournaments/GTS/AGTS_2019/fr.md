@@ -32,7 +32,7 @@ L'**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) est un tournoi par p
 | ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | Une bannière d'équipe exclusive |
 | ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | Une bannière d'équipe exclusive |
 
-![Badge des gagnants de l'AGTS 2019](img/badge.png)
+![](img/badge.png "Badge du vainqueur de l'AGTS 2019")
 
 ## Organisation
 
@@ -111,9 +111,9 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 | Classement | Pays |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] Japon |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] Canada |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] Russie A |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_JP] Japon |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2nde place") | ![][flag_CA] Canada |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_RU] Russie A |
 
 ## Liste des beatmaps
 
