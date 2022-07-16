@@ -75,7 +75,7 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 1. This tournament is a **1v1 double-elimination tournament**.
 2. Players will first go through Qualifiers, then continuing to the double-elimination bracket.
 3. The scoring system used will be **Score V2**.
-4. Any players are allowed to sign up since there are no rank limits applied.
+4. Any player is allowed to sign up due to no rank limit.
 5. Any members of staff **apart from organisers, mappool selectors, and referees** are allowed to play.
 6. Players and staff members must have read this ruleset entirely.
 7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all staff members as well.
@@ -129,11 +129,11 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 1. A private lobby will be created 10 minutes before a referee starts the match. Both players will be invited into the room before match time.
 2. If no staff or referee is available, the match will be postponed.
-3. If one of the player's coming late, the maximum time the match can be postponed is **10 minutes**.
+3. If one of the players is late, the maximum time the match can be postponed is **10 minutes**.
 4. There is no penalty for not joining the room instantly at match time as long as it is within the postponed time.
 5. If neither of the players are in the lobby after 10 minutes, the highest seeded player will advance.
 6. The match will be played with Head to Head and Score v2, and the name of the room must be: `EGTS 2022: ({Player Red}) vs ({Player Blue})`.
-7. Each player is allowed one warmup but it must be **below 3 minutes**, and must be sent to the GTS website up to one hour prior to the match's start time. Otherwise, the player will have no warmups.
+7. Each player is allowed one warmup map, but it must be **below 3 minutes in length**, and must be sent to the [GTS website](https://gtsosu.com/egts/home) up to one hour prior to the match's start time. Otherwise, the player will have no warmup.
 8. Submitting a warmup less than one hour prior to the match will result in no warmup.
 9. Warmups may not be offensive or NSFW (not safe for work).
 10. Each player has to ban **one beatmap** from the pool (apart from tiebreaker). These beatmaps are not allowed to be picked by any player in the entire match.
