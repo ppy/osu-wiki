@@ -426,7 +426,7 @@ Sunday, 17 October 2021:
 | Upper | United States ::{ flag=US }:: | 3 | **5** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/92527826) |
 | Upper | **Thailand** ::{ flag=TH }:: | **5** | 2 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/92529013) |
 | Upper | **Germany** ::{ flag=DE }:: | **5** | 1 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/92536229) |
-| Upper | **Indonesia** ::{ flag=ID }:: | **5** | 1 | ::{ flag=AU }:: Poland | [#1](https://osu.ppy.sh/community/matches/92542396) |
+| Upper | **Indonesia** ::{ flag=ID }:: | **5** | 1 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/92542396) |
 | Upper | **Sweden** ::{ flag=SE }:: | **5** | 1 | ::{ flag=EU }:: Europe | [#1](https://osu.ppy.sh/community/matches/92544884) |
 | Loser | Japan ::{ flag=JP }:: | 4 | **5** | ::{ flag=BE }:: **Belgium** | [#1](https://osu.ppy.sh/community/matches/92544884) |
 | Loser | Ukraine ::{ flag=UA }:: | 3 | **5** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/92544867) |
