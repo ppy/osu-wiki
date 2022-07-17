@@ -45,6 +45,7 @@ The Skinning Contest #3 is run by various community members.
 | ::{ flag="TR" }:: [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning, newspost writer |
 
 ## Links
+
 - **[Contest Page](https://osu.ppy.sh/community/contests/148)**
 - [Announcement newspost](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement)
 - [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1612258)
