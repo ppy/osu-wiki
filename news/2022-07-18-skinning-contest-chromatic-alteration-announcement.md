@@ -4,42 +4,42 @@ title: "Skinning Contest: Chromatic Alteration"
 date: 2022-07-18 12:00:00 +0000
 ---
 
-The Skinning Contest is once again back for the third time. Get your favourite shade of sunglasses and join us for the details!
+The Skinning Contest is back again for the third time — grab your design tools and join us for the details!
 
 ![](/wiki/shared/news/2022-07-18-skinning-contest-chromatic-alteration-announcement/banner.jpg)
 
-You know what they say: third time is the charm! For the third edition of Skinning Contest, hosted by one of the largest skinning communities, [skinship](https://skinship.xyz/), we are here to invite all skinning enthusiasts to compete against one another and show off their talents. For those unfamiliar with what this is all about, check out the [wiki index page](/wiki/Contests/Skinning_Contest) for previous iterations.
+You know what they say — third time’s the charm! We are once again inviting all skinning enthusiasts to compete with each other and show off their talent for this iteration of the skinning contest. For those unfamiliar with what this is all about, check out the [wiki index page](/wiki/Contests/Skinning_Contest) for previous iterations.
 
-Sliding out of last edition's Tides of Winter and its breezing nature, we have decided to table themes for another time and give our contestants a more spacious design environment. However, in an effort to keep the competition up and running, we will be introducing a challenge for you: **Chromatic Alteration**! You may find the details down below.
+Straight out of the blizzard that was Tides of Winter, we've decided to forgo a theme for this iteration. However, in an effort to keep the competition up and running, we will be introducing a challenge for you: **Chromatic Alteration** - the details of which can be found down below.
 
 ## Challenge: Chromatic Alteration
 
-In place of a particular theme, this edition of Skinning Contest features a limitation:
+To make things more interesting, this iteration of the Skinning Contest features a challenge in the form of a limitation:
 
-**The colour palettes of all skin submissions must be limited to the visible spectrum of the following colour vision deficiency types**:
+**The colour palettes of all skin submissions must be limited to the visible spectrum of the following types of colour vision deficiencies**:
 
 - **Protanopia**
 - **Deuteranopia**
 - **Tritanopia**
 
-Bear in mind that your skin must feature **only one** of these colour spectra. Additionally, major portion of your skin must consist of colours other than black and white, even though all three palettes contain them.
+Bear in mind that your skin must feature **only one** of these colour spectra. Additionally, while shades of grey are contained in these palettes, your skin must not be primarily monochrome.
+
+![](/wiki/shared/news/2022-07-18-skinning-contest-chromatic-alteration-announcement/palettes.png)
+
+Shown above are the spectra and example colour palettes for the three colour vision deficiencies mentioned prior in relation to normal colour vision. These spectra are based on normal colour vision at full saturation and brightness.
 
 ## Changes
 
-As per the feedback we've received from you, we've decided to make a couple of adjustments and improvements to this edition of the contest:
+As per the feedback we've received from you, we've decided to make a couple of adjustments and improvements to the rules:
 
-- **Submissions must not be created as a part of, or involved in a paid commission of any sort**. We encourage contestants to keep their monetary transactions out of the boundaries of the contest in order to ensure a fair and square competitive environment. 
+- **Submissions must not be created as a part of, or involved in a paid commission of any sort**. We encourage contestants to keep their monetary transactions out of the boundaries of the contest in order to ensure a fair and square competitive environment.
 - The cover image appended to your submission must be at least **1280x720 (16:9)**. These will be used on the contest page representing your submission.
-
-All of the changes above can be viewed in detail in the [Rules](#rules) section below. Make sure to have a read!
 
 ## Participation
 
-As always, you are required to create a new skin from scratch in order to participate. There's no point in hosting a competition amongst aged skins after all! 
+As always, you are required to create a new skin from scratch in order to participate — there's no point in hosting a competition amongst aged skins after all!
 
-You must create a forum thread to accompany the skin for it to be a valid submission. Advertising your skin, though, is completely up to you! Said forum thread must be located under the [Skinning WIP subforum](https://osu.ppy.sh/community/forums/119).
-
-Lastly, don't forget to leave a post under the [submission thread](https://osu.ppy.sh/community/forums/topics/1612259), otherwise you won't make it to the contest!
+Valid skin submissions must include a link to their forum thread in their [submission post](https://osu.ppy.sh/community/forums/topics/1612259). Said forum thread must be located in the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119).
 
 Since all entries will have their respective forum threads publicly available, contestants and their submissions will not be anonymized. In fact, we encourage you to show off your work as much as you want!
 
@@ -47,7 +47,7 @@ Since all entries will have their respective forum threads publicly available, c
 
 After the submission phase is over, the entries will be made available for community voting.
 
-The results of the community voting will determine the winner of the contest. The entry with the most votes wins!
+The results of the community voting will determine the winner of the contest.
 
 ## Schedule
 
@@ -73,13 +73,13 @@ The results of the community voting will determine the winner of the contest. Th
 - Submissions must be new creations, only skins posted within the submission period will be accepted.
 - Each submission must be accompanied by a forum thread in order to participate in the contest.
 - Submissions must be made in time. Latecomers will not be accepted.
-- Submissions must not be created as a part of, or involved in a paid commission of any sort
+- Submissions must not be created as a part of, or be involved in a paid commission of any sort.
 - Submissions must be created individually. Teams/collaborations are not allowed.
 - Submissions must be in line with the given challenge: ["Chromatic Alteration"](#challenge-chromatic-alteration).
 - The file size for your .osk submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page. This image must be at least 1280x720.
 
-**Failure to comply with the contest rules may lead to disqualification, or, in severe cases, exclusion from future contests**.
+**Failure to comply with the contest rules may lead to disqualification, or, in severe cases, exclusion from future contests.**
 
 ## Prizes
 
@@ -93,7 +93,7 @@ Now that all the rules are out of the way, let's unveil the prizes that will be 
 
 ---
 
-If you do have any questions, or don't know where to start, feel free to drop a post under the [discussion thread](https://osu.ppy.sh/community/forums/topics/1612258), check out the [skinning tutorial](https://skinship.xyz/tutorial/introduction) or ask away on our [Discord server](https://discord.skinship.xyz)!
+If you have any questions, or don't know where to start, feel free to drop a post under the [discussion thread](https://osu.ppy.sh/community/forums/topics/1612258), check out the [skinning tutorial](https://skinship.xyz/tutorial/introduction) or ask away on our [Discord server](https://discord.skinship.xyz)!
 
 Good luck!
 
