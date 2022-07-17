@@ -39,7 +39,7 @@ As per the feedback we've received from you, we've decided to make a couple of a
 
 As always, you are required to create a new skin from scratch in order to participate — there's no point in hosting a competition amongst aged skins after all!
 
-Valid skin submissions must include a link to their forum thread in their [submission post](https://osu.ppy.sh/community/forums/topics/1612259). Said forum thread must be located in the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119).
+Valid skin submissions must include a link to their forum thread in their [submission post](https://osu.ppy.sh/community/forums/topics/1612259). Said forum thread must be located in the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119) subforum.
 
 Since all entries will have their respective forum threads publicly available, contestants and their submissions will not be anonymized. In fact, we encourage you to show off your work as much as you want!
 
