@@ -42,11 +42,11 @@ The 4 Digit Catch World Cup 2021 was run by various community members.
 | :-- | :-- |
 | Host | ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464), ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) |
 | Mappool selector | ::{ flag=CA }:: [Henrick](https://osu.ppy.sh/users/8840982), ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384), ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829), ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464), ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) |
-| Mappool tester | ::{ flag=RU }:: [_Insomnia](https://osu.ppy.sh/users/8928855), ::{ flag=FR }:: [_Manyura](https://osu.ppy.sh/users/8335913), ::{ flag=KR }:: [[Amazing]](https://osu.ppy.sh/users/1391036), ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754), ::{ flag=PL }:: [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) |
+| Mappool tester | ::{ flag=RU }:: [_Insomnia](https://osu.ppy.sh/users/8928855), ::{ flag=FR }:: [Orhah](https://osu.ppy.sh/users/8335913), ::{ flag=KR }:: [[Amazing]](https://osu.ppy.sh/users/1391036), ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754), ::{ flag=PL }:: [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) |
 | Custom mapper | ::{ flag=NO }:: [Benita](https://osu.ppy.sh/users/4023183), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |
-| Streamer | ::{ flag=US }:: [dogshit player](https://osu.ppy.sh/users/10491951), ::{ flag=CA }:: [FrozenTea](https://osu.ppy.sh/users/12125431), ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464), ::{ flag=LU }:: [Melodies](https://osu.ppy.sh/users/7787785), ::{ flag=FR }:: [Shamookie simp](https://osu.ppy.sh/users/12441210) |
+| Streamer | ::{ flag=US }:: [dogshit player](https://osu.ppy.sh/users/10491951), ::{ flag=CA }:: [FrozenTea](https://osu.ppy.sh/users/12125431), ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464), ::{ flag=LU }:: [Melodies](https://osu.ppy.sh/users/7787785), ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210) |
 | Commentator | ::{ flag=BE }:: [\[ Quinten \]](https://osu.ppy.sh/users/6283136), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=AU }:: [CoolEVT](https://osu.ppy.sh/users/3252653), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=CA }:: [FrozenTea](https://osu.ppy.sh/users/12125431), ::{ flag=IL }:: [gal1](https://osu.ppy.sh/users/9424481), ::{ flag=AU }:: [KannaKamuiii](https://osu.ppy.sh/users/11435502), ::{ flag=LU }:: [Melodies](https://osu.ppy.sh/users/7787785), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) |
-| Referee | ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522), ::{ flag=RU }:: [cosilgam](https://osu.ppy.sh/users/15960747), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=BR }:: [Konohana Lucia](https://osu.ppy.sh/users/8642224), ::{ flag=PH }:: [Kyonkichi](https://osu.ppy.sh/users/7585544), ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990), ::{ flag=LV }:: [Sangenshoku](https://osu.ppy.sh/users/16343023), ::{ flag=TH }:: [Social Distance](https://osu.ppy.sh/users/17385454), ::{ flag=UB }:: [Tomato](https://osu.ppy.sh/users/9239206) |
+| Referee | ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522), ::{ flag=RU }:: [cosilgam](https://osu.ppy.sh/users/15960747), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=BR }:: [Konohana Lucia](https://osu.ppy.sh/users/8642224), ::{ flag=PH }:: [Kyonkichi](https://osu.ppy.sh/users/7585544), ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990), ::{ flag=LV }:: [Sangenshoku](https://osu.ppy.sh/users/16343023), ::{ flag=TH }:: [Social Distance](https://osu.ppy.sh/users/17385454), ::{ flag=GB }:: [Tomato](https://osu.ppy.sh/users/9239206) |
 | Designer | ::{ flag=UA }:: [\[ Kartohan \]](https://osu.ppy.sh/users/2957378), ::{ flag=AU }:: [CoolEVT](https://osu.ppy.sh/users/3252653), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
 | Spreadsheet manager | ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464) |
 | Wiki editor | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) |
@@ -66,7 +66,7 @@ The 4 Digit Catch World Cup 2021 was run by various community members.
 | ::{ flag=DZ }:: | **Algeria** | **[Demon-kira](https://osu.ppy.sh/users/20232838)**, [Abdera7mane](https://osu.ppy.sh/users/20083587), [Rifze](https://osu.ppy.sh/users/10428222) |
 | ::{ flag=AU }:: | **Australia** | **[-NOBLE-](https://osu.ppy.sh/users/8363648)**, [Yubeki](https://osu.ppy.sh/users/7331416), [KannaKamuiii](https://osu.ppy.sh/users/11435502), [Tanome](https://osu.ppy.sh/users/15017397), [Thinkpitz](https://osu.ppy.sh/users/14430872), [Maitoo](https://osu.ppy.sh/users/16899553) |
 | ::{ flag=BE }:: | **Belgium** | **[-[Smoked]-](https://osu.ppy.sh/users/8731044)**, [Dabo](https://osu.ppy.sh/users/9507660), [Nura](https://osu.ppy.sh/users/9898151), [\[ Ajia \]](https://osu.ppy.sh/users/17578266), [Spok](https://osu.ppy.sh/users/9738202) |
-| ::{ flag=BR }:: | **Brasil** | **[Silent Chord](https://osu.ppy.sh/users/11382428)**, [Sakinuto](https://osu.ppy.sh/users/10669592), [Flauta](https://osu.ppy.sh/users/2708093), [CosmicDreamerXD](https://osu.ppy.sh/users/17154677), [Nekobad](https://osu.ppy.sh/users/18090305), [xxluizxx47](https://osu.ppy.sh/users/4687701) |
+| ::{ flag=BR }:: | **Brazil** | **[Silent Chord](https://osu.ppy.sh/users/11382428)**, [Sakinuto](https://osu.ppy.sh/users/10669592), [Flauta](https://osu.ppy.sh/users/2708093), [CosmicDreamerXD](https://osu.ppy.sh/users/17154677), [Nekobad](https://osu.ppy.sh/users/18090305), [xxluizxx47](https://osu.ppy.sh/users/4687701) |
 | ::{ flag=CA }:: | **Canada** | **[SandwichMaster](https://osu.ppy.sh/users/7345342)**, [Malikil](https://osu.ppy.sh/users/3208718), [Zyoulou](https://osu.ppy.sh/users/8668722), [Kevaca](https://osu.ppy.sh/users/12528295), [ItsMellloww](https://osu.ppy.sh/users/17277815), [Astralyse](https://osu.ppy.sh/users/19616193) |
 | ::{ flag=CL }:: | **Chile** | **[Jeongyeon-](https://osu.ppy.sh/users/13956591)**, [SoyUnCirculo](https://osu.ppy.sh/users/9870318), [jaimeywea](https://osu.ppy.sh/users/8299277), [MankekeOpeh](https://osu.ppy.sh/users/8112589), [-Suru-](https://osu.ppy.sh/users/16932505) |
 | ::{ flag=CN }:: | **China** | **[No Meaningful](https://osu.ppy.sh/users/253015)**, [YIMIER](https://osu.ppy.sh/users/11774124), [\[Kaffu Chile\]](https://osu.ppy.sh/users/10681880), [ShigeLuna](https://osu.ppy.sh/users/10959112) |
@@ -82,7 +82,7 @@ The 4 Digit Catch World Cup 2021 was run by various community members.
 | ::{ flag=MA }:: | **Morocco** | **[Evaous](https://osu.ppy.sh/users/6700893)**, [BassDead](https://osu.ppy.sh/users/8989185), [OSUjanaiKATSURAda](https://osu.ppy.sh/users/2154499) |
 | ::{ flag=NL }:: | **Netherlands** | **[Fyunix](https://osu.ppy.sh/users/2503365)**, [jackylam5](https://osu.ppy.sh/users/1540807), [[ Christan ]](https://osu.ppy.sh/users/8170778), [DeNummer1](https://osu.ppy.sh/users/13851447) |
 | ::{ flag=PH }:: | **Philippines** | **[Lawrence Angelo](https://osu.ppy.sh/users/10373568)**, [Laqure](https://osu.ppy.sh/users/1642435), [MaMaiPonc](https://osu.ppy.sh/users/4169363), [Loreal](https://osu.ppy.sh/users/9362231), [Kuroiden](https://osu.ppy.sh/users/16855004) |
-| ::{ flag=PL }:: | **Poland** | **[-ExGon-](https://osu.ppy.sh/users/7552274)**, [Na_lax](https://osu.ppy.sh/users/16071686), [Ichijou](https://osu.ppy.sh/users/11933276), [hrohoroko](https://osu.ppy.sh/users/14121250), [Kasperatu](https://osu.ppy.sh/users/9380604), [Kasperatu](https://osu.ppy.sh/users/9380604), [404usernotfound](https://osu.ppy.sh/users/5274209) |
+| ::{ flag=PL }:: | **Poland** | **[-ExGon-](https://osu.ppy.sh/users/7552274)**, [Na_lax](https://osu.ppy.sh/users/16071686), [Ichijou](https://osu.ppy.sh/users/11933276), [hrohoroko](https://osu.ppy.sh/users/14121250), [Kasperatu](https://osu.ppy.sh/users/9380604), [404usernotfound](https://osu.ppy.sh/users/5274209) |
 | ::{ flag=PT }:: | **Portugal** | **[Zcey](https://osu.ppy.sh/users/23114439)**, [GoncS](https://osu.ppy.sh/users/19423459), [domanizz](https://osu.ppy.sh/users/23754472) |
 | ::{ flag=RO }:: | **Romania** | **[Australia](https://osu.ppy.sh/users/16196079)**, [DCega](https://osu.ppy.sh/users/16223132), [Ahrinity](https://osu.ppy.sh/users/11587229), [salam4life](https://osu.ppy.sh/users/11161490) |
 | ::{ flag=RU }:: | **Russian Federation** | **[ThankYou](https://osu.ppy.sh/users/4571241)**, [dark rainbow](https://osu.ppy.sh/users/10557830), [yuinn](https://osu.ppy.sh/users/11239593), [aabii](https://osu.ppy.sh/users/17808018), [vinnikoish](https://osu.ppy.sh/users/14509580), [Mazuki](https://osu.ppy.sh/users/15208771) |
@@ -93,7 +93,7 @@ The 4 Digit Catch World Cup 2021 was run by various community members.
 | ::{ flag=TH }:: | **Thailand** | **[EzyS](https://osu.ppy.sh/users/16271283)**, [N3Marry](https://osu.ppy.sh/users/13222425), [OOYCHAI](https://osu.ppy.sh/users/15289954), [shokoha](https://osu.ppy.sh/users/14134289), [harlemshake555](https://osu.ppy.sh/users/7355319), [-TANAKITO-](https://osu.ppy.sh/users/6037121) |
 | ::{ flag=UA }:: | **Ukraine** | **[Remolution](https://osu.ppy.sh/users/11426511)**, [Shadowbolts1](https://osu.ppy.sh/users/13962882), [NamakemonsteR](https://osu.ppy.sh/users/17314832), [Marfuri](https://osu.ppy.sh/users/9114190), [Vanzz](https://osu.ppy.sh/users/15792058) |
 | ::{ flag=GB }:: | **United Kingdom** | **[arwab](https://osu.ppy.sh/users/16496103)**, [Icy](https://osu.ppy.sh/users/8205964), [GD Lapis](https://osu.ppy.sh/users/9845758), [Grimzy on 60hz](https://osu.ppy.sh/users/17951681), [Komm](https://osu.ppy.sh/users/7671790), [Greninja](https://osu.ppy.sh/users/8579186) |
-| ::{ flag=US }:: | **United Stated** | **[Digitalfear117](https://osu.ppy.sh/users/6715645)**, [yaityboi](https://osu.ppy.sh/users/2194368), [Rukairi](https://osu.ppy.sh/users/6642597) |
+| ::{ flag=US }:: | **United States** | **[Digitalfear117](https://osu.ppy.sh/users/6715645)**, [yaityboi](https://osu.ppy.sh/users/2194368), [Rukairi](https://osu.ppy.sh/users/6642597) |
 | ::{ flag=VN }:: | **Vietnam** | **[Luminarie](https://osu.ppy.sh/users/16275769)**, [vmnothere](https://osu.ppy.sh/users/21347411), [Chipperonio](https://osu.ppy.sh/users/13141032), [Swyrin](https://osu.ppy.sh/users/13101472) |
 
 ## Podium
@@ -357,7 +357,7 @@ Friday, 29 October 2021:
 
 | Bracket | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | Germany ::{ flag=RU }:: | 4 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/93146315) |
+| Upper | Germany ::{ flag=DE }:: | 4 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/93146315) |
 
 Saturday, 30 October 2021:
 
@@ -382,8 +382,8 @@ Saturday, 23 October 2021:
 
 | Bracket | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **Indonesia** ::{ flag=RU }:: | **6** | 3 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/92824642) |
-| Upper | **Germany** ::{ flag=RU }:: | **6** | 0 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/92826204) |
+| Upper | **Indonesia** ::{ flag=ID }:: | **6** | 3 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/92824642) |
+| Upper | **Germany** ::{ flag=DE }:: | **6** | 0 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/92826204) |
 | Upper | Russian Federation ::{ flag=RU }:: | 3 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/92824923) |
 | Upper | **Philippines** ::{ flag=PH }:: | **6** | 4 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/92826258) |
 | Lower | Chile ::{ flag=CL }:: | 5 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/92800092) |
@@ -391,7 +391,7 @@ Saturday, 23 October 2021:
 | Lower | **France** ::{ flag=FR }:: | **6** | 0 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/92822021) |
 | Lower | **Poland** ::{ flag=PL }:: | **6** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/92827243) |
 | Lower | **Singapore** ::{ flag=SG }:: | **6** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/92827510) |
-| Lower | **United States** ::{ flag=US }:: | **6** | 1 | ::{ flag=BL }:: Brazil | [#1](https://osu.ppy.sh/community/matches/92837057) |
+| Lower | **United States** ::{ flag=US }:: | **6** | 1 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/92837057) |
 | Lower | Europe ::{ flag=EU }:: | 5 | **6** | ::{ flag=MA }:: **Morocco** | [#1](https://osu.ppy.sh/community/matches/92844399) |
 | Lower | **Mexico** ::{ flag=MX }:: | **6** | 0 | ::{ flag=RO }:: Romania | *win by default* |
 
@@ -412,7 +412,7 @@ Saturday, 16 October 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **Russian Federation** ::{ flag=RU }:: | **5** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/92481365) |
 | Upper | **Taiwan** ::{ flag=TW }:: | **5** | 3 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/92484301) |
-| Lower | Vietnam ::{ flag=VN }:: | 0 | **5** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/92481395) |
+| Lower | Vietnam ::{ flag=VN }:: | 0 | **5** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/92481395) |
 | Lower | **Romania** ::{ flag=RO }:: | **5** | 2 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/92481458) |
 | Lower | Algeria ::{ flag=DZ }:: | 0 | **5** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/92489194) |
 | Lower | Portugal ::{ flag=PT }:: | 0 | **5** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/92494433) |
@@ -426,9 +426,9 @@ Sunday, 17 October 2021:
 | Upper | United States ::{ flag=US }:: | 3 | **5** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/92527826) |
 | Upper | **Thailand** ::{ flag=TH }:: | **5** | 2 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/92529013) |
 | Upper | **Germany** ::{ flag=DE }:: | **5** | 1 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/92536229) |
-| Upper | **Indonesia** ::{ flag=ID }:: | **5** | 1 | ::{ flag=AU }:: Poland | [#1](https://osu.ppy.sh/community/matches/92542396) |
+| Upper | **Indonesia** ::{ flag=ID }:: | **5** | 1 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/92542396) |
 | Upper | **Sweden** ::{ flag=SE }:: | **5** | 1 | ::{ flag=EU }:: Europe | [#1](https://osu.ppy.sh/community/matches/92544884) |
-| Loser | Japan ::{ flag=JP }:: | 4 | **5** | ::{ flag=BE }:: **Belgium** | [#1](https://osu.ppy.sh/community/matches/92544884) |
+| Loser | Japan ::{ flag=JP }:: | 4 | **5** | ::{ flag=BE }:: **Belgium** | [#1](https://osu.ppy.sh/community/matches/92539984) |
 | Loser | Ukraine ::{ flag=UA }:: | 3 | **5** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/92544867) |
 | Loser | United Kingdom ::{ flag=GB }:: | 2 | **5** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/92547433) |
 
@@ -447,7 +447,7 @@ Saturday, 9 October 2021:
 | **Sweden** ::{ flag=SE }:: | **5** | 0 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/92145117) |
 | **Germany** ::{ flag=DE }:: | **5** | 0 | ::{ flag=DZ }:: Algeria | [#1](https://osu.ppy.sh/community/matches/92151546) |
 | **United States** ::{ flag=US }:: | **5** | 2 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/92154940) |
-| **Brasil** ::{ flag=BR }:: | 1 | **5** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/92155103) |
+| **Brazil** ::{ flag=BR }:: | 1 | **5** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/92155103) |
 | **Mexico** ::{ flag=MX }:: | **5** | 2 | ::{ flag=MA }:: Morocco | [#1](https://osu.ppy.sh/community/matches/92166066) |
 
 Sunday, 10 October 2021:
@@ -479,7 +479,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #11 | ::{ flag=SG }:: Singapore | 98 |
 | #12 | ::{ flag=EU }:: Europe | 103 |
 | #13 | ::{ flag=FR }:: France | 103 |
-| #14 | ::{ flag=BR }:: Brasil | 107 |
+| #14 | ::{ flag=BR }:: Brazil | 107 |
 | #15 | ::{ flag=MX }:: Mexico | 109 |
 | #16 | ::{ flag=AU }:: Australia | 118 |
 | #17 | ::{ flag=NL }:: Netherlands | 127 |
