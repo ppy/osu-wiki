@@ -12,7 +12,7 @@ You know what they say — third time’s the charm! We are once again inviting 
 
 Straight out of the blizzard that was Tides of Winter, we've decided to forgo a theme for this iteration. However, in an effort to keep the competition up and running, we will be introducing a challenge for you: **Chromatic Alteration** - the details of which can be found down below.
 
-## Challenge: Chromatic Alteration
+## Challenge: Chromatic Alteration {#challenge}
 
 To make things more interesting, this iteration of the Skinning Contest features a challenge in the form of a limitation:
 
@@ -75,7 +75,7 @@ The results of the community voting will determine the winner of the contest.
 - Submissions must be made in time. Latecomers will not be accepted.
 - Submissions must not be created as a part of, or be involved in a paid commission of any sort.
 - Submissions must be created individually. Teams/collaborations are not allowed.
-- Submissions must be in line with the given challenge: ["Chromatic Alteration"](#challenge-chromatic-alteration).
+- Submissions must be in line with the given challenge: ["Chromatic Alteration"](#challenge).
 - The file size for your .osk submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page. This image must be at least 1280x720.
 
