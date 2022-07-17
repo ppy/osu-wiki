@@ -53,12 +53,14 @@ Submissions to this contest include:
 | ? | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | ![][flag_NL] [Apichu](https://osu.ppy.sh/users/14967853) |
 | 三角形.tar.gz | ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623), ![][flag_ID] [ScubDomino](https://osu.ppy.sh/users/8972308), ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | ![][flag_RU] [Tommy Phelps](https://osu.ppy.sh/users/10974581), ![][flag_DZ] [VenerableNyanta](https://osu.ppy.sh/users/12243368) |
 | Hot Fizz Slider | ![][flag_RU] [Frakturehawkens](https://osu.ppy.sh/users/7458583), ![][flag_RU] [KomachiBaka](https://osu.ppy.sh/users/6155320), ![][flag_RU] [Miraui](https://osu.ppy.sh/users/11174970) | ![][flag_RU] [AYE1337](https://osu.ppy.sh/users/9131844), ![][flag_RU] [WWWWWWWWWWWWWW](https://osu.ppy.sh/users/5108681) |
-| Team Slykola | ![][flag_MY] [Slyk](https://osu.ppy.sh/users/7798305), ![][flag_MY] [Shocola](https://osu.ppy.sh/users/6781232) | ![][flag_MY] [Slyk](https://osu.ppy.sh/users/7798305), ![][flag_MY] [Shocola](https://osu.ppy.sh/users/6781232) |
 | Touch Fish | ![][flag_CN] [Flower](https://osu.ppy.sh/users/1033017), ![][flag_CN] [antigen](https://osu.ppy.sh/users/10507557) | ![][flag_CN] [Flower](https://osu.ppy.sh/users/1033017), ![][flag_CN] [antigen](https://osu.ppy.sh/users/10507557) |
 | Global Clan Osu | ![][flag_IT] [Shiraya Sayuki](https://osu.ppy.sh/users/19077461), ![][flag_HU] [Nytrocide_](https://osu.ppy.sh/users/11327918), ![][flag_SG] [Flowziee](https://osu.ppy.sh/users/9205650) | ![][flag_IT] [Shiraya Sayuki](https://osu.ppy.sh/users/19077461), ![][flag_HU] [Nytrocide_](https://osu.ppy.sh/users/11327918), ![][flag_SG] [Flowziee](https://osu.ppy.sh/users/9205650) |
 | :shugasm: | ![][flag_RU] [Alvearia](https://osu.ppy.sh/users/6248691), ![][flag_RU] [Astrolis](https://osu.ppy.sh/users/12357714), ![][flag_PH] [kieg](https://osu.ppy.sh/users/8640970), ![][flag_US] [Nostril](https://osu.ppy.sh/users/11479122), ![][flag_US] [Vermasium](https://osu.ppy.sh/users/11106442) | ![][flag_US] [Nostril](https://osu.ppy.sh/users/11479122) |
 | Invincible Tornado Strike | ![][flag_CN] [AuroraE](https://osu.ppy.sh/users/16158742), ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691), ![][flag_CN] [Atlust](https://osu.ppy.sh/users/4086593) | ![][flag_CN] [[Crz]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [Calvaria](https://osu.ppy.sh/users/12381096) |
 | ); DROP TABLE users; -- | ![][flag_CA] [kevlu8](https://osu.ppy.sh/users/19849836), ![][flag_CA] [wdotmathree](https://osu.ppy.sh/users/28425671) | ![][flag_CA] [kevlu8](https://osu.ppy.sh/users/19849836) |
+| Goofy ahh Meysters | ![][flag_MY] [Slyk](https://osu.ppy.sh/users/7798305), ![][flag_MY] [Shocola](https://osu.ppy.sh/users/6781232) | ![][flag_MY] [Slyk](https://osu.ppy.sh/users/7798305), ![][flag_MY] [Shocola](https://osu.ppy.sh/users/6781232) |
+| :venix: | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_PL] [hanabyte](https://osu.ppy.sh/users/8617799), ![][flag_PL] [vergil chair](https://osu.ppy.sh/users/8331132) | ![][flag_PL] [Peter](https://osu.ppy.sh/users/8623835), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) |
+| South American Mappers | ![][flag_MX] [funny](https://osu.ppy.sh/users/8473573), ![][flag_ES] [Elinor](https://osu.ppy.sh/users/5419324), ![][flag_SG] [hehe](https://osu.ppy.sh/users/2123087), ![][flag_CL] [Kyutei](https://osu.ppy.sh/users/13421842) | ![][flag_ES] [Elinor](https://osu.ppy.sh/users/5419324), ![][flag_SG] [hehe](https://osu.ppy.sh/users/2123087) |
 
 ## Prizes
 
@@ -156,6 +158,7 @@ Players are also eligible for prizes if they participate in the lazer playlists:
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_KZ]: /wiki/shared/flag/KZ.gif "Kasachstan"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
