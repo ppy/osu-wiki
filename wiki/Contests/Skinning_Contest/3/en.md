@@ -69,12 +69,24 @@ The Skinning Contest #3 is run by various community members.
   - Pause and Fail Menu
   - Main Menu is optional, but highly encouraged
 - Submissions must be new creations, only skins posted within the submission period will be accepted.
-<!-- TODO: this rule needs better wording, just a "placeholder" for now -->
-- Submissions can not be commissioned or made as a commission for someone.
 - Each submission must be accompanied by a forum thread in order to participate in the contest.
 - Submissions must be made in time. Latecomers will not be accepted.
+- Submissions must not be created as a part of, or be involved in a paid commission of any sort.
 - Submissions must be created individually. Teams/collaborations are not allowed.
-<!-- TODO: add challenge to wiki article, maybe it should get its own dedicated section -->
-- Submissions must be in line with the given challenge.
+- Submissions must be in line with the given challenge: ["Chromatic Alteration"](#challenge-chromatic-alteration).
 - The file size for your .osk submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page. This image must be at least 1280x720.
+
+## Challenge: Chromatic Alteration
+
+**The colour palettes of all skin submissions must be limited to the visible spectrum of the following types of colour vision deficiencies**:
+
+- **Protanopia**
+- **Deuteranopia**
+- **Tritanopia**
+
+Bear in mind that your skin must feature **only one** of these colour spectra. Additionally, while shades of grey are contained in these palettes, your skin must not be primarily monochrome.
+
+![](img/palettes.png)
+
+Shown above are the spectra and example colour palettes for the three colour vision deficiencies mentioned prior in relation to normal colour vision. These spectra are based on normal colour vision at full saturation and brightness.
