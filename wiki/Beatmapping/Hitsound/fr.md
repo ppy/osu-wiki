@@ -1,8 +1,12 @@
 ---
-outdated_since: 5bc5d7cd3430c1ff8eab1fe292a3c05277417620
-outdated_translation: true
 stub: true
 tags:
+  - hit normal
+  - hitnormal
+  - hit sound addition
+  - hit sound additions
+  - hitsound addition
+  - hitsound additions
   - hit sounds
   - hitsounds
 ---
@@ -13,9 +17,9 @@ tags:
 
 Les **hitsounds** sont les sons qu'osu! joue en réponse aux frappes de l'utilisateur lorsqu'il interagit avec les [objets](/wiki/Hit_object). Les hitsounds sont généralement utilisés pour donner un retour auditif au joueur afin de l'aider à évaluer sa [précision](/wiki/Gameplay/Accuracy) par rapport à la beatmap.
 
-Le feedback hitsound se compose d'un échantillon par défaut appelé "normal hit", et de n'importe quelle combinaison d'ajouts d'échantillons de whistle, de finish ou de clap. Chaque échantillon a un des trois "ensembles d'échantillons" qui changent son style : `Normal`, `Soft`, ou `Drum`.
+Le feedback hitsound se compose d'un échantillon par défaut appelé *hitnormal*, et de n'importe quelle combinaison *additions* d'échantillons de whistle, de finish ou de clap. Chaque échantillon fait partie d'un des trois *ensembles d'échantillons* qui dénotent des styles différents : `Normal`, `Soft`, ou `Drum`.
 
-Les mappers peuvent remplacer tous les échantillons sonores par défaut par des échantillons personnalisés en utilisant le dossier d'une [beatmap](/wiki/Beatmap). Le [skin](/wiki/Skinning) d'un joueur peut également remplacer les hitsounds par défaut sur toutes les beatmaps. Vous trouverez des détails sur les échantillons des hitsounds dans l'article [hitsound skinning](/wiki/Skinning/Sounds#hitsounds).
+Les mappeurs peuvent remplacer tous les échantillons sonores par défaut par des échantillons personnalisés en utilisant le dossier d'une [beatmap](/wiki/Beatmap). Le [skin](/wiki/Skinning) d'un joueur peut également remplacer les hitsounds par défaut sur toutes les beatmaps. Vous trouverez des détails sur les échantillons des hitsounds dans l'article [hitsound skinning](/wiki/Skinning/Sounds#hitsounds).
 
 Les [spinners](/wiki/Hit_object/Spinner) et les [sliders](/wiki/Hit_object/Slider) ont des hitsounds supplémentaires : `spinner`, `bonus spinner`, `slider slide` et `slider tick`.
 
@@ -39,4 +43,4 @@ Un keysound est un échantillon de hitsound qui est extrêmement similaire à la
 
 Contrairement aux autres [modes de jeu](/wiki/Game_mode), les hitsounds du mode [osu!taiko](/wiki/Game_mode/osu!taiko) affectent directement la jouabilité de leurs beatmaps. Les Kats se distinguent des Dons à l'aide de whistle et de claps, et les grandes notes se distinguent des notes normales à l'aide de finishers.
 
-Les échantillons par défaut de osu!taiko sont uniques au mode, et les mappeurs ne les remplacent généralement pas.
+Les échantillons par défaut d'osu!taiko sont uniques au mode, et les mappeurs ne les remplacent généralement pas.

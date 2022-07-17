@@ -22,7 +22,7 @@ Yuzu ist das Maskottchen von osu!catch, das am 22.06.2014 hinzukam. Er wurde am 
 
 ### ![osu!mania Icon](/wiki/shared/mode/mania.png) Mani & Mari
 
-*Für weitere Informationen siehe: : [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)*
+*Für weitere Informationen siehe: [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)*
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 

@@ -1,3 +1,8 @@
+---
+outdated_since: ff25a4c614f8c08a68d9bccde792d804e68e1e48
+outdated_translation: true
+---
+
 # Critères de style des news
 
 *Pour les articles du wiki, voir : [Critères de mise en forme des articles](/wiki/Article_styling_criteria)*
@@ -72,7 +77,7 @@ date: 2017-08-17 03:00:00 +0000
 
 ### Markdown
 
-Le osu! wiki utilise une implémentation partielle de GFM (GitHub Flavored Markdown) avec les exceptions suivantes :
+L'osu! wiki utilise une implémentation partielle de GFM (GitHub Flavored Markdown) avec les exceptions suivantes :
 
 #### Titres
 
@@ -88,7 +93,7 @@ Les caractères gras sont réservés à la mise en évidence d'objets ou de phra
 
 #### Italiques
 
-L'italique est utilisé de manière peu courante pour accentuer des phrases ou des déclarations intéressantes dans le registre conversationnel. Il peut également être utilisé pour désigner les noms d'autres œuvres créatives, comme le *osu! Coffee Hour* ou le *Aspire Beatmapping Contests*.
+L'italique est utilisé de manière peu courante pour accentuer des phrases ou des déclarations intéressantes dans le registre conversationnel. Il peut également être utilisé pour désigner les noms d'autres œuvres créatives, comme l'*osu! Coffee Hour* ou le *Aspire Beatmapping Contests*.
 
 #### Barre horizontale
 

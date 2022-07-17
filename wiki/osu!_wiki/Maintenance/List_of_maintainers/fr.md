@@ -1,4 +1,9 @@
-# Liste des maintainers du osu! wiki
+---
+outdated_since: 7094ac9d70205bc7bd12621dd83e3d1738962809
+outdated_translation: true
+---
+
+# Liste des maintainers de l'osu! wiki
 
 Les maintainers jettent régulièrement un œil au [suivi des issues](https://github.com/ppy/osu-wiki/issues) et examinent les pull requests des contributeurs. Contrairement aux autres contributeurs, ils peuvent modifier les pull requests et les merge dans la branche `master` du dépôt, rendant ainsi les changements publics.
 
@@ -20,7 +25,7 @@ Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une rev
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Inactif | Français |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Actif** | Russe |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | **Actif** | Polonais |
-| ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **Actif** | Finlandais, Suédois |
+| ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | Inactif | Finlandais, Suédois |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | Inactif | Espagnol |
 
 ## L'équipe de rédaction
@@ -35,7 +40,7 @@ Curateurs, rédacteurs et approbateurs de tous les [news posts](https://osu.ppy.
 
 ## Anciens maintainers
 
-Cette liste comprend les maintainers de la configuration MediaWiki, que le osu! wiki [avait](/wiki/History_of_osu!/osu!_wiki) :
+Cette liste comprend les maintainers de la configuration MediaWiki, que l'osu! wiki [avait](/wiki/History_of_osu!/osu!_wiki) :
 
 - ![][flag_RU] [\[Dellirium\]](https://osu.ppy.sh/users/519032)
 - ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)

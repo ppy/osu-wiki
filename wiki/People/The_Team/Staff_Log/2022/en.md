@@ -277,13 +277,26 @@ Abbreviations for user groups are used throughout this log:
 - 2022-06-01: Added [ikin5050](https://osu.ppy.sh/users/4007649) to **BN**
 - 2022-06-02: Added [yurishe](https://osu.ppy.sh/users/14890963) to **Probationary BN**
 - 2022-06-05: Added [Antalf](https://osu.ppy.sh/users/8793773) to **Probationary BN**
+- 2022-06-05: Added [rew0825](https://osu.ppy.sh/users/2488026) to **Probationary BN**
+- 2022-06-05: Added [Mniam](https://osu.ppy.sh/users/6050530) to **BN**
+- 2022-06-09: Added [Irone OSU](https://osu.ppy.sh/users/10678230) to **Probationary BN**
+- 2022-06-14: Added [Touru07111](https://osu.ppy.sh/users/8625854) to **Probationary BN**
 
 #### Moves
 
 - 2022-06-01: Moved [Toofu](https://osu.ppy.sh/users/11004271) from **Probationary BN** to **BN**
+- 2022-06-05: Moved [neonat](https://osu.ppy.sh/users/1561995) from **Probationary BN** to **BN**
+- 2022-06-10: Moved [Esutarosa](https://osu.ppy.sh/users/12024753) from **Probationary BN** to **BN**
+- 2022-06-12: Moved [Critical_Star](https://osu.ppy.sh/users/3793196) from **Probationary BN** to **BN**
+- 2022-06-15: Moved [Antti](https://osu.ppy.sh/users/13281473) from **Probationary BN** to **BN**
+- 2022-06-15: Moved [Gabdu09](https://osu.ppy.sh/users/8852605) from **Probationary BN** to **BN**
+- 2022-06-18: Moved [_Rokii](https://osu.ppy.sh/users/12770065) from **Probationary BN** to **BN**
+- 2022-06-18: Moved [FAMoss](https://osu.ppy.sh/users/7707789) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2022-06-01: Removed [Konpaku Sariel](https://osu.ppy.sh/users/533502) from **Probationary BN**
+- 2022-06-18: Removed [Cris-](https://osu.ppy.sh/users/6175280) from **Probationary BN**
+- 2022-06-18: Removed [Dored](https://osu.ppy.sh/users/10284894) from **BN**
 
-<!-- updated as of June 6, 2022 with the Antalf's addition Prob. BN -->
+<!-- updated as of June 20, 2022 @ 01:34 UTC, removed Dored from BN -->

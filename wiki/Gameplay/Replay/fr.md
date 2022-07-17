@@ -51,7 +51,7 @@ Un compte osu! avec un tag osu!supporter actif ajoutera un bouton `Colour` qui p
 ![](img/Replay_discussion_comment.jpg "Faire un commentaire")
 
 Cliquez sur `Click to add a comment at the current time!` pour commenter sur la difficulté/beatmap actuelle.
-Le replay sera mis sur pause, assombri, avec le osu!logo en avant-plan au centre jusqu'à ce que le commentaire soit terminé (appuyez sur `Entrée`) ou annulé (appuyez sur `Echap`).
+Le replay sera mis sur pause, assombri, avec l'osu!logo en avant-plan au centre jusqu'à ce que le commentaire soit terminé (appuyez sur `Entrée`) ou annulé (appuyez sur `Echap`).
 
 ![](img/Replay_discussion_example.jpg "Exemple de défilement de commentaires")
 
@@ -142,7 +142,7 @@ Retournez sur l'écran de sélection de beatmap et les changements seront mis à
 Pour accéder à cet écran, échouez la beatmap en vidant entière la barre de vie, ou ne dépassez pas + de 50% de la barre de vie avant la fin de beatmap en osu!taiko.
 
 Sur l'écran de Game Over, appuyez sur la touche `F1` pour voir un replay de la partie perdue et appuyez sur la touche `F2` pour en sauvegarder un replay.
-Le replay se termine lorsque l'écran s'assombrit, avec le osu!logo au milieu et remplace l'écran de Game Over.
+Le replay se termine lorsque l'écran s'assombrit, avec l'osu!logo au milieu et remplace l'écran de Game Over.
 
 Puisqu'il ne s'agit pas d'un écran de Game Over normal, le seul moyen de retourner sur l'écran de sélection de beatmap est d'appuyer sur la touche `Echap`.
 Essayer de redémarrer la beatmap pour le relancer directement dans cet état n'est pas possible.

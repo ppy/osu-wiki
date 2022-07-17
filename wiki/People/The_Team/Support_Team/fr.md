@@ -25,7 +25,7 @@ La [page de groupe de la Support Team](https://osu.ppy.sh/groups/22) énumère t
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippin |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Suédois, Espagnol |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Suédois, espagnol |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Allemand |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Espagnol |
