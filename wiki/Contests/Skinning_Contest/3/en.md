@@ -15,8 +15,8 @@ The **Skinning Contest #3: Chromatic Alteration** is a free-for-all osu! skinnin
 
 | Event | Timestamp |
 | --: | :-- |
-| Announcement | 2022-07-15 |
-| Submission phase | 2022-07-15/2022-08-19 |
+| Announcement | 2022-07-18 |
+| Submission phase | 2022-07-18/2022-08-22 |
 | Voting phase | 2 week long, date TBD |
 | Results | TBD |
 
