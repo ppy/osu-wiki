@@ -1,8 +1,8 @@
-# Vitrine des beatmaps des Artistes Associés
+# Vitrine des beatmaps des Featured Artists
 
-Les membres de la [Mappers' Guild](/wiki/Community/Mappers_Guild) peuvent occasionnellement créer des beatmaps exclusives en utilisant les musiques et autres éléments des [Artistes Associés](/wiki/Featured_Artists) inédits d'osu!. Dès l'annonce de l'artiste correspondant, ces beatmaps sont mises en évidence dans les [newspost](https://osu.ppy.sh/home/news) et sont souvent promues sur le [compte Twitter @osugame](https://twitter.com/osugame).
+Les membres de la [Mappers' Guild](/wiki/Community/Mappers_Guild) peuvent occasionnellement créer des beatmaps exclusives en utilisant les musiques et autres éléments des [Featured Artists](/wiki/Featured_Artists) inédits d'osu!. Dès l'annonce de l'artiste correspondant, ces beatmaps sont mises en évidence dans les [newspost](https://osu.ppy.sh/home/news) et sont souvent promues sur le [compte Twitter @osugame](https://twitter.com/osugame).
 
-Pour participer à la création des beatmaps d'Artistes Associés, un membre de la Mappers' Guild doit soit accepter une [quête mystère à durée limitée](/wiki/Community/Mappers_Guild#quêtes), soit être directement invité par ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), soit avoir son paramètre `FA showcase mapper` activé dans le [site web de la Mappers' Guild](https://mappersguild.com/).
+Pour participer à la création des beatmaps des Featured Artists, un membre de la Mappers' Guild doit soit accepter une [quête mystère à durée limitée](/wiki/Community/Mappers_Guild#quêtes), soit être directement invité par ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), soit avoir son paramètre `FA showcase mapper` activé dans le [site web de la Mappers' Guild](https://mappersguild.com/).
 
 Cet article répertorie toutes les beatmaps vitrines qui ont été créées par les membres de la Mappers' Guild au fil du temps.
 
@@ -542,11 +542,11 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
 
 ## Histoire
 
-Dès sa création, la Mappers' Guild s'est fixée comme objectif principal de "créer des packs de beatmaps promotionnels pour les Artistes Associés à venir". Cela s'est reflété dans le tout premier projet majeur de la Guilde, dans lequel les membres de la Guilde ont préparé et classé six beatmaps des [musiques MOtOLOiD sous licence](https://osu.ppy.sh/beatmaps/artists/19) bien avant [l'annonce de l'artiste correspondant](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
+Dès sa création, la Mappers' Guild s'est fixée comme objectif principal de "créer des packs de beatmaps promotionnels pour les Featured Artists à venir". Cela s'est reflété dans le tout premier projet majeur de la Guilde, dans lequel les membres de la Guilde ont préparé et classé six beatmaps des [musiques MOtOLOiD sous licence](https://osu.ppy.sh/beatmaps/artists/19) bien avant [l'annonce de l'artiste correspondant](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
-Comme la Guilde elle-même fonctionnait sur une entrée fermée, basée sur les candidatures à ses débuts, l'accès aux contenus des Artistes Associés à venir était souvent réservé à une poignée de mappeurs qui étaient majoritairement du mode de jeu [osu!](/wiki/Game_mode/osu!)]. Cependant, lorsque la Guilde a commencé à passer à un système d'entrée ouvert et automatisé [début 2019](/wiki/Mapping_and_Modding_Timeline#mars.5), de plus en plus de mappeurs ont été attirés par la création de beatmaps vitrines pour les futurs Artistes Associés, quel que soit leur mode de jeu.
+Comme la Guilde elle-même fonctionnait sur une entrée fermée, basée sur les candidatures à ses débuts, l'accès aux contenus des Featured Artists à venir était souvent réservé à une poignée de mappeurs qui étaient majoritairement du mode de jeu [osu!](/wiki/Game_mode/osu!)]. Cependant, lorsque la Guilde a commencé à passer à un système d'entrée ouvert et automatisé [début 2019](/wiki/Mapping_and_Modding_Timeline#mars.5), de plus en plus de mappeurs ont été attirés par la création de beatmaps vitrines pour les futurs Featured Artists, quel que soit leur mode de jeu.
 
-À partir de l'annonce de l'Artiste Associé [MYUKKE.](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) en décembre 2020, les nouvelles annonces d'Artistes Associés ont parfois commencé à présenter de courtes vidéos d'avant-première, souvent accompagnées d'une beatmap en guise de titre principal.
+À partir de l'annonce de l'Artiste Associé [MYUKKE.](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) en décembre 2020, les nouvelles annonces des Featured Artists ont parfois commencé à présenter de courtes vidéos d'avant-première, souvent accompagnées d'une beatmap en guise de titre principal.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
