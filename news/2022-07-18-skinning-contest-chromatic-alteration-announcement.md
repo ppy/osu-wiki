@@ -12,7 +12,7 @@ You know what they say — third time's the charm! We are once again inviting al
 
 Straight out of the blizzard that was Tides of Winter, we've decided to forgo a theme for this iteration. However, in an effort to keep the competition up and running, we will be introducing a challenge for you: **Chromatic Alteration** — the details of which can be found down below.
 
-## Challenge: Chromatic Alteration {#challenge}
+## Challenge: Chromatic Alteration
 
 To make things more interesting, this iteration of the Skinning Contest features a challenge in the form of a limitation:
 
@@ -22,7 +22,7 @@ To make things more interesting, this iteration of the Skinning Contest features
 - **Deuteranopia**
 - **Tritanopia**
 
-Bear in mind that your skin must feature **only one** of these colour spectra. Additionally, while shades of grey are contained in these palettes, your skin must not be primarily greyscale.
+Bear in mind that your skin must feature **only one** of these colour spectra. Additionally, while shades of grey are contained in these palettes, your skin must not be primarily grayscale.
 
 ![](/wiki/shared/news/2022-07-18-skinning-contest-chromatic-alteration-announcement/palettes.png)
 
@@ -75,7 +75,7 @@ The voting will stay open for 14 days. Once that passes, the top 3 entries will 
 - Submissions must be made in time. Latecomers will not be accepted.
 - Submissions must not be created as a part of, or be involved in a paid commission of any sort.
 - Submissions must be created individually. Teams/collaborations are not allowed.
-- Submissions must be in line with the given challenge: ["Chromatic Alteration"](#challenge).
+- Submissions must be in line with the given challenge: ["Chromatic Alteration"](#challenge:-chromatic-alteration).
 - The file size for your .osk submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page. This image must be at least 1280x720.
 
