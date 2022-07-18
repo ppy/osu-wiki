@@ -86,7 +86,7 @@ The Skinning Contest #3 is run by various community members.
 - **Deuteranopia**
 - **Tritanopia**
 
-Bear in mind that your skin must feature **only one** of these colour spectra. Additionally, while shades of grey are contained in these palettes, your skin must not be primarily monochrome.
+Bear in mind that your skin must feature **only one** of these colour spectra. Additionally, while shades of grey are contained in these palettes, your skin must not be primarily greyscale.
 
 ![](img/palettes.png)
 
