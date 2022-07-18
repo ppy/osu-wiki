@@ -8,9 +8,9 @@ The Skinning Contest is back again for the third time — grab your design tools
 
 ![](/wiki/shared/news/2022-07-18-skinning-contest-chromatic-alteration-announcement/banner.jpg)
 
-You know what they say — third time’s the charm! We are once again inviting all skinning enthusiasts to compete with each other and show off their talent for this iteration of the skinning contest. For those unfamiliar with what this is all about, check out the [wiki index page](/wiki/Contests/Skinning_Contest) for previous iterations.
+You know what they say — third time's the charm! We are once again inviting all skinning enthusiasts to compete with each other and show off their talent for this iteration of the Skinning Contest. For those unfamiliar with what this is all about, check out the [wiki index page](/wiki/Contests/Skinning_Contest) for previous iterations.
 
-Straight out of the blizzard that was Tides of Winter, we've decided to forgo a theme for this iteration. However, in an effort to keep the competition up and running, we will be introducing a challenge for you: **Chromatic Alteration** - the details of which can be found down below.
+Straight out of the blizzard that was Tides of Winter, we've decided to forgo a theme for this iteration. However, in an effort to keep the competition up and running, we will be introducing a challenge for you: **Chromatic Alteration** — the details of which can be found down below.
 
 ## Challenge: Chromatic Alteration {#challenge}
 
@@ -41,7 +41,7 @@ As always, you are required to create a new skin from scratch in order to partic
 
 Valid skin submissions must include a link to their forum thread in their [submission post](https://osu.ppy.sh/community/forums/topics/1612259). Said forum thread must be located in the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119) subforum.
 
-Since all entries will have their respective forum threads publicly available, contestants and their submissions will not be anonymized. In fact, we encourage you to show off your work as much as you want!
+Since all entries will have their respective forum threads publicly available, contestants and their submissions will not be anonymised. In fact, we encourage you to show off your work as much as you want!
 
 ## Voting
 
@@ -51,8 +51,8 @@ The results of the community voting will determine the winner of the contest.
 
 ## Schedule
 
-- Submission phase: **5** weeks starting from the release of this newspost
-- Voting phase: **2** weeks starting from a separate newspost
+- Submission phase: **5** weeks starting from the release of this news post
+- Voting phase: **2** weeks starting from a separate news post
 
 ## Rules
 
@@ -70,7 +70,7 @@ The results of the community voting will determine the winner of the contest.
   - Mod Icons
   - Pause and Fail Menu
   - Main Menu is optional, but highly encouraged
-- Submissions must be new creations, only skins posted within the submission period will be accepted.
+- Submissions must be new creations — only skins posted within the submission period will be accepted.
 - Each submission must be accompanied by a forum thread in order to participate in the contest.
 - Submissions must be made in time. Latecomers will not be accepted.
 - Submissions must not be created as a part of, or be involved in a paid commission of any sort.
