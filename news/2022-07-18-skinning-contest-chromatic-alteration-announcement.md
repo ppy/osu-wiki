@@ -22,7 +22,7 @@ To make things more interesting, this iteration of the Skinning Contest features
 - **Deuteranopia**
 - **Tritanopia**
 
-Bear in mind that your skin must feature **only one** of these colour spectra. Additionally, while shades of grey are contained in these palettes, your skin must not be primarily greyscale.
+Bear in mind that your skin must feature **only one** of these colour spectra. Additionally, while shades of grey are contained in these palettes, your skin must not be primarily grayscale.
 
 ![](/wiki/shared/news/2022-07-18-skinning-contest-chromatic-alteration-announcement/palettes.png)
 
