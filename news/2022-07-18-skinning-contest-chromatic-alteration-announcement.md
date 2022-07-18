@@ -12,7 +12,7 @@ You know what they say — third time's the charm! We are once again inviting al
 
 Straight out of the blizzard that was Tides of Winter, we've decided to forgo a theme for this iteration. However, in an effort to keep the competition up and running, we will be introducing a challenge for you: **Chromatic Alteration** — the details of which can be found down below.
 
-## Challenge: Chromatic Alteration {#challenge}
+## Challenge: Chromatic Alteration
 
 To make things more interesting, this iteration of the Skinning Contest features a challenge in the form of a limitation:
 
