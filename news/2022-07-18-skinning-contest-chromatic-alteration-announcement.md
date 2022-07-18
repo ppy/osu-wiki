@@ -75,7 +75,7 @@ The voting will stay open for 14 days. Once that passes, the top 3 entries will 
 - Submissions must be made in time. Latecomers will not be accepted.
 - Submissions must not be created as a part of, or be involved in a paid commission of any sort.
 - Submissions must be created individually. Teams/collaborations are not allowed.
-- Submissions must be in line with the given challenge: ["Chromatic Alteration"](#challenge).
+- Submissions must be in line with the given challenge: ["Chromatic Alteration"](#challenge:-chromatic-alteration).
 - The file size for your .osk submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page. This image must be at least 1280x720.
 
