@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skinning Contest: Chromatic Alteration"
-date: 2022-07-18 12:00:00 +0000
+date: 2022-07-18 09:30:00 +0000
 ---
 
 The Skinning Contest is back again for the third time — grab your design tools and join us for the details!
