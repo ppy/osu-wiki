@@ -4,7 +4,6 @@ tags:
   - supporter
   - supporter tag
   - osu!supporter tag
-  - 支持者
   - 支持者标签
   - 撒泼特
 ---
@@ -72,13 +71,13 @@ osu!direct 是供支持者使用的游戏内谱面搜索和下载引擎。可以
 
 - 如果聊天窗口中的谱面链接指向 osu! 网页的谱面，可以直接在游戏内弹出下载提示
 - 可以在[多人游戏](/wiki/Gameplay/Multiplayer)房间或[旁观](/wiki/Gameplay/Spectating)中使用的自动谱面下载器。这是一个游戏内[可选设置](/wiki/Client/Options#integration)
-- 在被旁观时，可自动向 `#spectator` 聊天窗口发送当前谱面链接，这也是一个游戏内[可选设置](/wiki/Client/Options#online)
+- 在被旁观时，可自动向 `#spectator` 聊天窗口发送当前谱面链接，这也是一个游戏内[可选设置](/wiki/Client/Options#alerts-and-privacy)
 
 ### 额外排行榜
 
 支持者们可以在游戏或网页中访问若干个特殊的谱面[排行榜](/wiki/Beatmap#排行榜)：
 
-- 按 [Mod](/wiki/Game_modifier) 组合筛选的全球排行榜
+- 按 [Mod](/wiki/Gameplay/Game_modifier) 组合筛选的全球排行榜
 - 国内/区内排行榜
 - 以及一个可以和朋友们竞争的好友排行榜
 
@@ -156,4 +155,4 @@ osu! 支持者标签可以赠送给其他玩家，在玩家名片下的灰色方
 
 ## 参考
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)

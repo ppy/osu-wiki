@@ -5,7 +5,7 @@
 Ein Benutzer wird eingeschränkt, wenn er eine der folgenden Dinge macht:
 
 - Wiederkehrendes Fehlverhalten, unabhängig davon, wie viele Verstöße er begangen hat.
-- Eine Strafe umgehen, durch das Erstellen eines neuen Accounts.
+- Durch das Erstellen eines neuen Accounts eine Strafe umgehen.
 - Seinen Account mit anderen Benutzern teilen.
 - Multi-Accounting.
 - Hacking oder Cheating (siehe unten).
@@ -47,9 +47,9 @@ Auf der Benutzerprofilseite wird ein Button `Melden` erscheinen, wenn du auf die
 
 ### Beatmapseite
 
-Dieser Weg ist genauso effektiv beim Melden wie die Profilseite zu nutzen. Die Meldungen gehen an den selben Endpunkt.
+Dieser Weg ist genauso effektiv beim Melden wie die Profilseite zu nutzen. Die Meldungen gehen an denselben Endpunkt.
 
-In den Beatmapseiten kannst du einen Spieler durch das Klicken des Button `Melden` auf der rechten Seite des Scores melden.
+In den Beatmapseiten kannst du einen Spieler durch das Klicken des Buttons `Melden` auf der rechten Seite des Scores melden.
 
 ### Chat im Spiel
 

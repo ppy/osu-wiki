@@ -1,7 +1,5 @@
 ---
 tags:
-  - support
-  - supporter
   - supporter tag
   - osu!supporter tag
   - саппорт
@@ -75,13 +73,13 @@ osu!direct — это инструмент для поиска и скачива
 
 - Скачивание карт по ссылкам в чате, которые ведут на официальный сайт osu!;
 - Автоматическое скачивание карт в [мультиплеере](/wiki/Gameplay/Multiplayer) и при [наблюдении за другим игроком](/wiki/Gameplay/Spectating) (последнее можно [отключить в настройках](/wiki/Client/Options#integration));
-- Автоматическая отправка текущей карты в `#spectator` на радость зрителям (можно [отключить в настройках](/wiki/Client/Options#online)).
+- Автоматическая отправка текущей карты в `#spectator` на радость зрителям (можно [отключить в настройках](/wiki/Client/Options#alerts-and-privacy)).
 
 ### Таблицы рекордов
 
 Саппортерам доступны дополнительные [таблицы рекордов](/wiki/Beatmap#таблицы-рекордов) для каждой карты, как в игре, так и на сайте:
 
-- Глобальная таблица рекордов для разных комбинаций [игровых модификаторов](/wiki/Game_modifier);
+- Глобальная таблица рекордов для разных комбинаций [игровых модификаторов](/wiki/Gameplay/Game_modifier);
 - Таблица рекордов в рамках одной страны (участвуют игроки с одним и тем же флагом);
 - Таблица рекордов среди друзей.
 
@@ -159,4 +157,4 @@ osu!direct — это инструмент для поиска и скачива
 
 ## Примечания
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)

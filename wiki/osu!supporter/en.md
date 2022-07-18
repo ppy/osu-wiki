@@ -1,7 +1,5 @@
 ---
 tags:
-  - support
-  - supporter
   - supporter tag
   - osu!supporter tag
 ---
@@ -69,13 +67,13 @@ osu!direct is the in-game beatmap search and download engine available to suppor
 
 - Beatmap links in chat, which point to beatmaps on the osu! website, now trigger the download prompt in-game
 - Automatic beatmap downloads while playing in a [multiplayer](/wiki/Gameplay/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
-- Automatic linking of currently played beatmaps in the `#spectator` chat tab for spectators, as an [opt-out setting](/wiki/Client/Options#online)
+- Automatic linking of currently played beatmaps in the `#spectator` chat tab for spectators, as an [opt-out setting](/wiki/Client/Options#alerts-and-privacy)
 
 ### Extended leaderboards
 
 Supporters have access to several beatmap-specific [leaderboards](/wiki/Beatmap#leaderboards) available both in-game and on the website:
 
-- Global rankings for every combination of [game modifiers](/wiki/Game_modifier)
+- Global rankings for every combination of [game modifiers](/wiki/Gameplay/Game_modifier)
 - Country-specific rankings of players bearing the same flag
 - Friend rankings that show a player's position on a map compared to their friends
 
@@ -153,4 +151,4 @@ Additionally, both the giver and the recipient will receive e-mail notifications
 
 ## References
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)
