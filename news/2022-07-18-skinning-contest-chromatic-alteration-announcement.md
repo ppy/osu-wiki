@@ -45,9 +45,9 @@ Since all entries will have their respective forum threads publicly available, c
 
 ## Voting
 
-After the submission phase is over, the entries will be made available for community voting.
+After the submission phase is over in roughly 35 days time (from the date of posting this article), the entries will be made available for community voting. Make sure to get involved when the time comes!
 
-The results of the community voting will determine the winner of the contest.
+The voting will stay open for 14 days. Once that passes, the top 3 entries will become eligible for prizes as described below.
 
 ## Schedule
 
