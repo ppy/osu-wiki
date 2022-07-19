@@ -6,7 +6,7 @@ date: 2022-07-21 00:00:00 +0000
 
 A monumental first for osu! in the Philippines, an osu!booth will be open at [CONQuest PH 2022](https://conquestph.com), held at the SMX Convention Centre, Pasay City, Philippines.
 
-The first ever LAN event, the **Quickfire Showdown**, will be hosted at the booth! 
+The first ever Filipino LAN event, the **Quickfire Showdown**, will be hosted at the booth! 
 
 ![Quickfire Showdown Banner](/wiki/shared/news/2022-07-21-osu-philippines-conquest-ph-2022/quickfire_showdown_banner.png) 
 
@@ -24,14 +24,14 @@ Additionally, as a CONQuest PH 2022 exclusive, there will be a track from one of
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge + osu!merch + 3 months of osu!supporter |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, 3 months of osu!supporter |
 | Runner-up | osu!merch |
 
 ### July 24, 2022 (Day 2)
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge + osu!merch + 3 months of osu!supporter |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, 3 months of osu!supporter |
 | Runner-up | osu!merch |
 
 ## Schedules
@@ -58,10 +58,10 @@ Additionally, as a CONQuest PH 2022 exclusive, there will be a track from one of
 
 ## Booth Activties
 
-Aside from the tournament, other activities will also be held at the booth, such as a player hub for fellow community members to meet up. A free play area with devices running osu!lazer will also be open for those both new and familiar with osu! to try out osu!lazer. osu!lazer will be preloaded with tracks from the [featured artists](https://osu.ppy.sh/beatmaps/artists). 
+Aside from the tournament, other activities will also be held at the booth, such as a player hub for fellow community members to meet up. A free play area with devices running osu!lazer will also be open for those both new and familiar with osu! to try out. osu!lazer will be preloaded with tracks from the [featured artists](https://osu.ppy.sh/beatmaps/artists). 
 
-For our international audience or those who couldn't attend the convention, you can stay in the loop by watching the stream at [osu! Philippines Twitch Channel](https://twitch.tv/osuliveph).
+For our international audience or those who couldn't attend the convention, you can stay in the loop by watching the stream at the [osu! Philippines Twitch channel](https://twitch.tv/osuliveph).
 
-See you in-stream and in-person!
+See you on-stream and in-person!
 
 —topecnz
