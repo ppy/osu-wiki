@@ -58,7 +58,7 @@ Additionally, as a CONQuest PH 2022 exclusive, there will be a track from one of
 
 ## Booth Activties
 
-Aside from the tournament, other activities will also be held at the booth, such as a player hub for fellow community members to meet up. A free play area with devices running osu!lazer will also be open for those both new and familiar with osu! to try out osu!lazer. osu!lazer will be preloaded with tracks from [featured artists](https://osu.ppy.sh/beatmaps/artists). 
+Aside from the tournament, other activities will also be held at the booth, such as a player hub for fellow community members to meet up. A free play area with devices running osu!lazer will also be open for those both new and familiar with osu! to try out osu!lazer. osu!lazer will be preloaded with tracks from the [featured artists](https://osu.ppy.sh/beatmaps/artists). 
 
 For our international audience or those who couldn't attend the convention, you can stay in the loop by watching the stream at [osu! Philippines Twitch Channel](https://twitch.tv/osuliveph).
 
