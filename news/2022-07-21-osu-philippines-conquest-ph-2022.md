@@ -2,7 +2,7 @@
 layout: post
 title: "osu! Philippines: CONQuest PH 2022"
 date: 2022-07-21 00:00:00 +0000
-----
+---
 
 A monumental first for osu! in the Philippines, an osu!booth will be open at [CONQuest PH 2022](https://conquestph.com), held at the SMX Convention Centre, Pasay City, Philippines.
 
