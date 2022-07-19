@@ -37,7 +37,7 @@ osu!を始めるための重要なガイドです。何か問題が発生した�
 
 # ゲームプレイ
 
-円をクリックしたり、ドラムを叩いたり、果物をキャッチしたり、ピアノを演奏するプレイ方法やメカニズム、マルチプレイなどについてのガイドです。
+円をクリックしたり、ドラムを叩いたり、果物をキャッチしたり、ピアノを演奏するモードのプレイ方法やメカニズム、マルチプレイなどについてのガイドです。
 
 [ゲームモード](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
@@ -48,7 +48,7 @@ osu!を始めるための重要なガイドです。何か問題が発生した�
 
 # [ビートマップエディター](/wiki/Client/Beatmap_editor)
 
-osu!のビートマップはすべて、ユーザーの手によって作られています。osu!の内臓エディターについてのガイドです。
+osu!のビートマップはすべて、ユーザーの手によって作られています。これは、osu!の内蔵エディターについてのガイドです。
 
 セクション: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_Setup)
 
@@ -98,9 +98,9 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 
 # コミュニティとプロジェクト
 
-イベントは、世界中のosu!プレイヤーを熱狂させる主なものの1つです。トーナメントやコンテストを探検し、次の大きなイベントの企画を手伝ってください。
+イベントは、世界中のosu!プレイヤーを熱狂させる主なものの1つです。トーナメントやコンテストに参加したり、次のイベントの企画を手伝ってください。
 
-[トーナメント](/wiki/Tournaments) • [ビートマップスポットライト](/wiki/Beatmap_Spotlights) • [コンテスト](/wiki/Contests) • [コミュニティメンターシッププログラム](/wiki/Community/Community_Mentorship_Program)
+[トーナメント](/wiki/Tournaments) • [ビートマップスポットライト](/wiki/Beatmap_Spotlights) • [コンテスト](/wiki/Contests) • [コミュニティ メンターシップ プログラム](/wiki/Community/Community_Mentorship_Program)
 
 [プロジェクト](/wiki/Community/Projects): [注目のアーティスト](/wiki/Featured_Artists) • [osu!コミュニティミーティング](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
@@ -113,7 +113,7 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 
 osu!は、開発、メンテナンス、コミュニティ管理に協力する多くのユーザーなしでは成り立ちませんでした。
 
-[チーム](/wiki/People/The_Team): [開発者](/wiki/People/The_Team/Developers) • [Global Moderation Team(GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [サポートチーム](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team(NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators(BN)](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
+[チーム](/wiki/People/The_Team): [開発者](/wiki/People/The_Team/Developers) • [グローバル モデレーション チーム(GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [サポートチーム](/wiki/People/The_Team/Support_Team) • [ノミネーション アシスタント チーム(NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [ビートマップ ノミネーター(BN)](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved](/wiki/People/The_Team/Project_Loved_Team)
 
 [コミュニティへの貢献](/wiki/People/Community_Contributors) • [ユニークなタイトルを持つユーザー](/wiki/People/Users_with_unique_titles) • [トーナメント委員会](/wiki/People/Tournament_Committee) • [パフォーマンスポイント委員会](/wiki/People/Performance_Points_Committee)
 
@@ -122,20 +122,20 @@ osu!は、開発、メンテナンス、コミュニティ管理に協力する�
 
 # 開発者向け
 
-他のアプリケーションやサイトを通してosu!と交流する。
+他のアプリケーションやサイトを通してosu!と交流しましょう。
 
 [API](/wiki/osu!api) • [Bot account](/wiki/Bot_account) • [ブランド アイデンティティ ガイドライン](/wiki/Brand_identity_guidelines) • [osu!devディスコードサーバー](/wiki/Community/osu!dev_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Wikiについて
+# wikiについて
 
 ここにあるほとんどのwikiは、ボランティアによって執筆・翻訳されています。改善を提案したり、問題を報告したり、独自の記事を書いたりすることもできます。
 
 [osu!の歴史](/wiki/History_of_osu!) • [osu! wikiの歴史](/wiki/History_of_osu!/osu!_wiki) • [MappingとModdingの変更履歴](/wiki/Mapping_and_Modding_Timeline) • [エイプリルフール](/wiki/History_of_osu!/April_Fools)
 
-[サイトマップ](/wiki/Sitemap) • [貢献ガイド](/wiki/osu!_wiki/Contribution_guide) • [記事のスタイリング基準](/wiki/Article_styling_criteria) • [ニュースのンスタイリング基準](/wiki/News_styling_criteria)
+[サイトマップ](/wiki/Sitemap) • [貢献ガイド](/wiki/osu!_wiki/Contribution_guide) • [記事のスタイリング基準](/wiki/Article_styling_criteria) • [ニュースのスタイリング基準](/wiki/News_styling_criteria)
 
 </div>
 </div>
