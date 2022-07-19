@@ -25,14 +25,14 @@ Additionally, as a CONQuest PH 2022 exclusive, there will be a track from one of
 | Placing | Prizes |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, 3 months of osu!supporter |
-| Runner-up | osu!merch |
+| ![Silver Crown](/wiki/shared/crown-silver.png "Runner-up") | osu!merch |
 
 ### July 24, 2022 (Day 2)
 
 | Placing | Prizes |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, 3 months of osu!supporter |
-| Runner-up | osu!merch |
+| ![Silver Crown](/wiki/shared/crown-silver.png "Runner-up") | osu!merch |
 
 ## Schedules
 
