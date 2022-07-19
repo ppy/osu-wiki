@@ -14,7 +14,6 @@ Panel mode osu!mania dibentuk pada tanggal 22 April 2022 sebagai bentuk respon d
 
 Panel mode osu!taiko dibentuk pada tanggal 1 Mei 2022 sebagai bentuk respon dari hasil survei di atas, dengan [rencana-rencana untuk perubahan besar terhadap algoritma star rating](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
 
-
 ## Anggota
 
 ### osu!
