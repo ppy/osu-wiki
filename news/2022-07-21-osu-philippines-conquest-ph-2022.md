@@ -63,3 +63,5 @@ Aside from the tournament, other activities will also be held at the booth, such
 For our international audience or those who couldn't attend the convention, you can stay in the loop by watching the stream at [osu! Philippines Twitch Channel](https://twitch.tv/osuliveph).
 
 See you in-stream and in-person!
+
+—topecnz
