@@ -39,7 +39,7 @@ Additionally, as a CONQuest PH 2022 exclusive, there will be a track from one of
 ### July 23, 2022 (Day 1)
 
 | Event | Timestamp |
-| :-- | :-- |
+| :-: | :-- |
 | Registration phase | 10:00 - 13:00 UTC+8 |
 | Round of 16 | 13:00 - 15:00 UTC+8 |
 | Quarterfinals | 15:00 - 16:00 UTC+8 |
@@ -49,7 +49,7 @@ Additionally, as a CONQuest PH 2022 exclusive, there will be a track from one of
 ### July 24, 2022 (Day 2)
 
 | Event | Timestamp |
-| :-- | :-- |
+| :-: | :-- |
 | Registration phase | 10:00 - 13:00 UTC+8 |
 | Round of 16 | 13:00 - 15:00 UTC+8 |
 | Quarterfinals | 15:00 - 16:00 UTC+8 |
