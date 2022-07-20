@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: "sound design of osu!lazer"
@@ -14,11 +15,11 @@ He then later went on to create several official songs throughout the years that
 
 When peppy decided to start from the ground up with osu!lazer in 2016 (after trying to make osu!lazer within the stable client and figuring out such a thing would not be feasible), he wanted to not only make the game look good, but also feel good. And for that he needed an audio designer, and with nekodex already having done several amazing works for osu!, peppy approached nekodex. That meant nekodex had to design every single click, shuffle, scroll, hover. The only issue was, nekodex had no UI effects design experience AT ALL, and let me tell you, sound design in music production versus UI effects is a whole different ball game. Nekodex himself described the difference like this:
 
-*“The main difference, in my opinion, is the time scale you have to think in - for instance, with music I'd be thinking of what emotions I'm trying to convey and how to do that, maybe tied with tension and release over multiple minutes. With sound effects I'm thinking about how to create feedback that 'feels' correct in sounds that are, at most, seconds long (with most being sub-second).”*
+_“The main difference, in my opinion, is the time scale you have to think in - for instance, with music I'd be thinking of what emotions I'm trying to convey and how to do that, maybe tied with tension and release over multiple minutes. With sound effects I'm thinking about how to create feedback that 'feels' correct in sounds that are, at most, seconds long (with most being sub-second).”_
 
 The creative process behind creating effects is vastly different from music creation, so I asked him to explain the thought process in general and go in detail for some specific sounds we found most satisfying (and hopefully you will too!)
 When we asked him how he came up with the ideas for UI effects he said he tries to visualize it and just go off of that, but sometimes he has to ask himself a series of questions in order to narrow down how to proceed ⎯ 
-*“...Do I want the effect to sound organic or synthetic? If synthetic, I reach for a synth as a starting point. Organic? Reach for some samples that have characteristics I'm after in the sound.”*
+_“...Do I want the effect to sound organic or synthetic? If synthetic, I reach for a synth as a starting point. Organic? Reach for some samples that have characteristics I'm after in the sound.”_
 One of the sounds we found most satisfying is the slider bar used all throughout the game, have a listen below!
 
 ![](wiki\shared\news\2022-08-01-osumonthly-1\sounds\osu.Game.Resources_Samples_UI_notch-tick.wav)
@@ -30,7 +31,7 @@ Another sound that we found particularly satisfying is the difficulty selection 
   
 ![](wiki\shared\news\2022-08-01-osumonthly-1\sounds\osu.Game.Resources_Samples_SongSelect_select-difficulty.wav)
 
-This one was pretty simple according to him ⎯ *...it was just a woodblock sample with a bunch of processing to make it sound more (tonally) balanced and snappier. I had tried a bunch of different ideas for difficulty selection, but turns out sometimes simple is best.*
+This one was pretty simple according to him ⎯ _...it was just a woodblock sample with a bunch of processing to make it sound more (tonally) balanced and snappier. I had tried a bunch of different ideas for difficulty selection, but turns out sometimes simple is best._
 And I agree, simple really is best!
 Here’s a bit of trivia for you all, can you spot what these sounds are being for? Let me know below!
 
