@@ -32,8 +32,9 @@ Another sound that we found particularly satisfying is the difficulty selection 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sSFtWgHRZpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This one was pretty simple according to him ⎯ *...it was just a woodblock sample with a bunch of processing to make it sound more (tonally) balanced and snappier. I had tried a bunch of different ideas for difficulty selection, but turns out sometimes simple is best.*
+
 And I agree, simple really is best!
-Here’s a bit of trivia for you all, can you spot what these sounds are being for? Let me know below!
+Here’s a bit of trivia for you all, can you spot what these sounds are being for? Comment down below!
 
 <br>
 <audio controls>
@@ -51,4 +52,4 @@ Here’s a bit of trivia for you all, can you spot what these sounds are being f
 
 ---
 
-If you want to give osu!lazer a try and listen in to all the different sounds, you can download the game for free here! osu!lazer is actively being worked on by peppy and many other individuals who contribute their time and knowledge over on Github, so if you have any suggestions or want to help yourself feel free to browse around and even partake in development! 
+If you want to give osu!lazer a try and listen in to all the different sounds, you can download the game for free [here](https://github.com/ppy/osu/releases)! osu!lazer is actively being worked on by peppy and many other individuals who contribute their time and knowledge over on Github, so if you have any suggestions or want to help yourself feel free to browse around the Github and even partake in development! 
