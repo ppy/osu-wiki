@@ -6,7 +6,7 @@ date: 2022-07-31 00:00:00 +0000
 
 Sound design is often overlooked by people whenever they use… pretty much __anything__. Sound design is an integral part to how for example, a person experiences opening a can of Coca-Cola or how a car engine sounds, both in real life and in video games. It can make or break a product, so that’s why when creating osu!lazer, peppy had to put his trust into someone he knew really well to make his vision come to life. That’s where nekodex came in.
 
-Jamie Taylor is a full-stack engineer born in Australia, he joined the osu!team as a web developer in 2015 after peppy asked him if he was interested in helping rebuild the osu! website. He has been with the team ever since, working on various osu! related things such as the review system for beatmap modding, the chat system etc., but today he describes himself as a hybrid audio designer/developer and does not involve himself as much in the web side of things. Today we will look at his alias, *nekodex*, how he developed as an artist and became the nekodex he is today and focus on the work he’s done with osu!, more specifically, osu!lazer’s sound design.
+Jamie Taylor is a full-stack engineer born in Australia, he joined the osu!team as a web developer in 2015 after peppy asked him if he was interested in helping rebuild the osu! website. He has been with the team ever since, working on various osu! related things such as the review system for beatmap modding, the chat system etc., but today he describes himself as a hybrid audio designer/developer and does not involve himself as much in the web side of things. Today we will look at his alias, __nekodex__, how he developed as an artist and became the nekodex he is today and focus on the work he’s done with osu!, more specifically, osu!lazer’s sound design.
 
 Nekodex as an alias came to be in 2012, as Jamie had musical background while growing up, played with early music software, learned from YouTube tutorials and eventually started messing around in DAW’s (digital audio workstations) until music came out. As he was getting serious with music production peppy was preparing osu!stream (an iOS spinoff of osu that was created in 2010) for the public view, which required original music for the game. As peppy and nekodex are IRL friends and peppy knew about his music he got the chance to create some themes and tracks for osu!stream and later on got some of his own songs mapped for osu!stream as well.
 He then later went on to create several official songs throughout the years that we all know and love, such as
@@ -18,7 +18,7 @@ When peppy decided to start from the ground up with osu!lazer in 2016 (after try
 
 The creative process behind creating effects is vastly different from music creation, so I asked him to explain the thought process in general and go in detail for some specific sounds we found most satisfying (and hopefully you will too!)
 When we asked him how he came up with the ideas for UI effects he said he tries to visualize it and just go off of that, but sometimes he has to ask himself a series of questions in order to narrow down how to proceed ⎯ 
-*“[...] Do I want the effect to sound organic or synthetic? If synthetic, I reach for a synth as a starting point. Organic? Reach for some samples that have characteristics I'm after in the sound.”*
+*“...Do I want the effect to sound organic or synthetic? If synthetic, I reach for a synth as a starting point. Organic? Reach for some samples that have characteristics I'm after in the sound.”*
 One of the sounds we found most satisfying is the slider bar used all throughout the game, have a listen below!
 
 ![](wiki\shared\news\2022-08-01-osumonthly-1\sounds\osu.Game.Resources_Samples_UI_notch-tick.wav)
@@ -30,9 +30,9 @@ Another sound that we found particularly satisfying is the difficulty selection 
   
 ![](wiki\shared\news\2022-08-01-osumonthly-1\sounds\osu.Game.Resources_Samples_SongSelect_select-difficulty.wav)
 
-This one was pretty simple according to him ⎯ *[...] it was just a woodblock sample with a bunch of processing to make it sound more (tonally) balanced and snappier. I had tried a bunch of different ideas for difficulty selection, but turns out sometimes simple is best.*
+This one was pretty simple according to him ⎯ *...it was just a woodblock sample with a bunch of processing to make it sound more (tonally) balanced and snappier. I had tried a bunch of different ideas for difficulty selection, but turns out sometimes simple is best.*
 And I agree, simple really is best!
-Here’s a bit of trivia for you all, can you spot what these sounds are being for? Let us know below!
+Here’s a bit of trivia for you all, can you spot what these sounds are being for? Let me know below!
 
 ---
 <br>
@@ -51,6 +51,6 @@ Here’s a bit of trivia for you all, can you spot what these sounds are being f
 
 ---
 
-If you want to give osu!lazer a try and listen in to all the different sounds, you can download the game for free here! osu!lazer is actively being worked on by peppy and many other individuals who contribute their time and knowledge over on Github, so if you have any suggestions or want to help yourself feel free to browse around and submit your requests! 
+If you want to give osu!lazer a try and listen in to all the different sounds, you can download the game for free here! osu!lazer is actively being worked on by peppy and many other individuals who contribute their time and knowledge over on Github, so if you have any suggestions or want to help yourself feel free to browse around and even partake in development! 
 
 ---
