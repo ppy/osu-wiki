@@ -2,6 +2,7 @@
 layout: post
 title: "sound design of osu!lazer"
 date: 2022-07-31 00:00:00 +0000
+needs_cleanup: true
 ---
 
 Sound design is often overlooked by people whenever they use… pretty much **anything**. Sound design is an integral part to how for example, a person experiences opening a can of Coca-Cola or how a car engine sounds, both in real life and in video games. It can make or break a product, so that’s why when creating osu!lazer, peppy had to put his trust into someone he knew really well to make his vision come to life. That’s where nekodex came in.
