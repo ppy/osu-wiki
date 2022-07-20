@@ -17,7 +17,7 @@ tags:
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->,
 
-где `r` — радиус, измеренный в osu!пикселях, а `CS` — значение параметра.
+где `r` — радиус, измеренный в [osu!пикселях](/wiki/osu!pixel), а `CS` — значение параметра.
 
 ## osu!taiko
 

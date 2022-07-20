@@ -16,7 +16,7 @@ Di osu!, circle size mengubah ukuran dari hit circle dan slider, dengan nilai ya
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
-Di mana `r` adalah radius ukur dalam satuan osu!pixels, dan `CS` adalah nilai dari circle size.
+Di mana `r` adalah radius ukur dalam satuan [osu!pixels](/wiki/osu!pixel), dan `CS` adalah nilai dari circle size.
 
 ## osu!taiko
 

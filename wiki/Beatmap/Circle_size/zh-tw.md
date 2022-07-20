@@ -17,7 +17,7 @@ tags:
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
-`r` 為半徑，以osu!pixel為單位。`CS` 為圓圈大小的值。
+`r` 為半徑，以[osu!pixel](/wiki/osu!pixel)為單位。`CS` 為圓圈大小的值。
 
 ## osu!taiko
 
