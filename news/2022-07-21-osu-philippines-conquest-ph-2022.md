@@ -4,7 +4,7 @@ title: "osu! Philippines: CONQuest PH 2022"
 date: 2022-07-21 00:00:00 +0000
 ---
 
-A monumental first for osu! in the Philippines, an osu!booth will be open at [CONQuest PH 2022](https://conquestph.com), held at the SMX Convention Centre, Pasay City, Philippines.
+A monumental first for osu! community in the Philippines, an (unofficial) osu! community run space will be open at [CONQuest PH 2022](https://conquestph.com), held at the SMX Convention Centre, Pasay City, Philippines.
 
 The first ever Filipino LAN event, the **Quickfire Showdown**, will be hosted at the booth! 
 
@@ -58,9 +58,9 @@ Additionally, as a CONQuest PH 2022 exclusive, there will be a track from one of
 
 ## Booth Activties
 
-Aside from the tournament, other activities will also be held at the booth, such as a player hub for fellow community members to meet up. A free play area with devices running osu!lazer will also be open for those both new and familiar with osu! to try out. osu!lazer will be preloaded with tracks from the [featured artists](https://osu.ppy.sh/beatmaps/artists). 
+Aside from the tournament, other activities will also be held at the booth, such as a player hub for fellow community members to meet up. A free play area with devices running osu!(lazer) will also be open for those both new and familiar with osu! to try out. 
 
-For our international audience or those who couldn't attend the convention, you can stay in the loop by watching the stream at the [osu! Philippines Twitch channel](https://twitch.tv/osuliveph).
+For those who can't attend the convention but are interested in following along, you can stay in the loop by watching live-streamed content at the [osu! Philippines Twitch channel](https://twitch.tv/osuliveph).
 
 See you on-stream and in-person!
 
