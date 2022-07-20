@@ -16,7 +16,7 @@ Dans le mode osu!, le circle size modifie la taille des cercles et des sliders, 
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
-Où `r` est le rayon mesuré en osu!pixels, et `CS` est la valeur du circle size.
+Où `r` est le rayon mesuré en [osu!pixels](/wiki/osu!pixel), et `CS` est la valeur du circle size.
 
 ## osu!taiko
 
