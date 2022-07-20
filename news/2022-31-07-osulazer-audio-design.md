@@ -24,12 +24,14 @@ One of the sounds we found most satisfying is the slider bar used all throughout
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F1e8EOTYYrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 Nekodex describes this sound as tactile and clicky and he wanted it to be satisfying to play with, and for that he needed the sound to be short and sharp. He used one of the hover sounds as the starting point to get the initial ‘shape’ for the sounds, which he tends to do quite frequently; he will use a sound that he already made in the past as a layer in new sounds because it helps him make the sound feel cohesive, even if he can’t consciously recognize the sound being used. After that he processes the sound in a DAW by layering a bunch of synths on top of each other, which sounds straightforward but takes a lot of iterations to get the effect to sound just right. After he got a few candidate sounds he pondered on how to make the slider fun to use, and he came up with the idea of pitching shifting the effect as he drags the slider in order to give it an ‘elastic-like feel’. 
 
 Once all the changes are made he then codes up the iteration in lazer and gives it a try himself, as a sort of pre-production test so he can see how interacting with the slider bar feels and whether the pitch shifting effect worked. A few back-and-forth’s and voila, we’ve got the sound that’s in lazer right now!
 Another sound that we found particularly satisfying is the difficulty selection sound in the songs menu, the feedback is so tactile and it even sounds like two hollow wooden balls being hit by each other, it’s just so amazing!
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sSFtWgHRZpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 This one was pretty simple according to him ⎯ *...it was just a woodblock sample with a bunch of processing to make it sound more (tonally) balanced and snappier. I had tried a bunch of different ideas for difficulty selection, but turns out sometimes simple is best.*
 
