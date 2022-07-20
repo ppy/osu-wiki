@@ -1,6 +1,6 @@
 # サイレンス
 
-**サイレンス**はユーザーのコミュニティ手段を制限することを表す用語です。サイレンスは[Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)(GMT)と[Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)(NAT)が行うことができ、[コミュニティルール](/wiki/Rules)に従わないユーザーのみ行われます。
+**サイレンス**はユーザーのコミュニケーション手段を制限することを表す用語です。サイレンスは[Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)(GMT)と[Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)(NAT)が行うことができ、[コミュニティルール](/wiki/Rules)に従わないユーザーのみ行われます。
 
 ## 制限の内容
 
