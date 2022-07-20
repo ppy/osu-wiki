@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "sound design of osu!lazer"
@@ -48,5 +47,7 @@ Here’s a bit of trivia for you all, can you spot what these sounds are being f
     <source src="wiki\shared\news\2022-08-01-osumonthly-1\trivia_sounds\you-checked-the-code-pogw-3.wav" type="audio/mpeg">
 </audio>
 <br></br>
+
+---
 
 If you want to give osu!lazer a try and listen in to all the different sounds, you can download the game for free here! osu!lazer is actively being worked on by peppy and many other individuals who contribute their time and knowledge over on Github, so if you have any suggestions or want to help yourself feel free to browse around and even partake in development! 
