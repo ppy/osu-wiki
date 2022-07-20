@@ -89,9 +89,9 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 
 [ヘルプセンター](/wiki/Help_centre) • [パフォーマンスのトラブルシューティング](/wiki/Performance_troubleshooting) • [アカウントサポートチーム](/wiki/People/The_Team/Account_support_team) • [ヘルプフォーラム](https://osu.ppy.sh/forum/5)
 
-アカウントの制限: [サイレンス](/wiki/Silence) • [アカウントの制限](/wiki/Help_centre/Account_restrictions)
+アカウントの状態: [サイレンス](/wiki/Silence) • [アカウントの制限](/wiki/Help_centre/Account_restrictions)
 
-あなたが可能なこと: [osu!を手伝う](/wiki/Community/How_you_can_help!) • [不適切な言動を報告する](/wiki/Reporting_bad_behaviour) • [他ユーザーにいじめられている](/wiki/Reporting_bad_behaviour/Abuse) • [不正行為の報告](/wiki/Reporting_bad_behaviour/Handling_foul_play)
+あなたが可能なこと: [osu!を手伝う](/wiki/Community/How_you_can_help!) • [不適切な言動を報告する](/wiki/Reporting_bad_behaviour) • [他ユーザーに嫌がらせを受けた場合](/wiki/Reporting_bad_behaviour/Abuse) • [不正行為の報告](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
 </div>
 <div class="wiki-main-page-panel">
