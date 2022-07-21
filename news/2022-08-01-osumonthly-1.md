@@ -75,7 +75,6 @@ Please stay tuned about the next article, and we're moving on the next section!
 
 [*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open) 
 
-
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 #### At the beginning of July, the recent eleventh iteration of osu!catch World Cup has been concluded.
 
