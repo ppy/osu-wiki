@@ -13,11 +13,7 @@ It has been a long time since the last osu!weekly was released and luckily, we h
 
 6 years passed in which the community didn't have a regular post. Today, we're coming in with ***osu!monthly***, a bigger format.
 
-![](/wiki/shared/news/2022-08-01-osumonthly-1/banner-july.png)
-
 ## Word of the editors :
-
-It's been years since **osu!weekly's** release has been paused, 6 years since the community didn't have a regular post. Today, we're coming in with **__osu!monthly__**, a bigger format.
 
 We think we did a good job gathering information for **July**, but we started on the 17 July, so we had only two weeks to write, review and commit this article.
 
