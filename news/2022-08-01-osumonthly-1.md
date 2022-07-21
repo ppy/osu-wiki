@@ -222,4 +222,4 @@ While waiting for the next article, we want to thank in advance all of the commu
 It's a real honor for us to write for you, the community. Thanks for reading, and see you soon for the next article, in September! ❤️
 
 ---
-➥ *[Soetch](https://osu.ppy.sh/users/15970028), [Blushing](https://osu.ppy.sh/users/5927823), [wowcake](https://osu.ppy.sh/users/16121851), [0x84f](https://osu.ppy.sh/users/7944724)  & [Hubz](https://osu.ppy.sh/users/10379965) for this AMAZING banner!*
+—[Soetch](https://osu.ppy.sh/users/15970028), [Blushing](https://osu.ppy.sh/users/5927823), [wowcake](https://osu.ppy.sh/users/16121851), [0x84f](https://osu.ppy.sh/users/7944724) & [Hubz](https://osu.ppy.sh/users/10379965) for this AMAZING banner!
