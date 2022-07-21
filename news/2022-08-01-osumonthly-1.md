@@ -13,7 +13,7 @@ This is the new community's news post : osu!monthly (a new one, again)!
 
 It's been years since **osu!weekly's** release has been paused, 6 years since the community didn't have a regular post. Today, we're coming in with **__osu!monthly__**, a bigger format.
 
-We think we did a good job gathering information for **July**, but we started the 07/17, so we had only two week to write, review and commit this article. 
+We think we did a good job gathering information for **July**, but we started on the 17 July, so we had only two weeks to write, review and commit this article.
 
 It'll never be the same as osu!weekly, but we're working hard to propose a frequent format, please be kind with us, new writers! We're highly receptive to it, so feedback is highly appreciated!
 
