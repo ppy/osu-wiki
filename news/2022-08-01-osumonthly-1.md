@@ -19,7 +19,8 @@ It has been a long time since the last osu!weekly was released and luckily, we h
 Keeping the news post somewhat simple until the team can establish a foundation that is worked on through community feedback, suggestions, and what you, the readers, would like to see more of. The team decided to keep July's edition on the lighter end of the content to make sure the news post has a solid foundation to what *we* hope will gather interest and pose more involvement for the news post and the community.
 
 
-It'll never be the same as osu!weekly, but we're working hard to propose a frequent format, please be kind with us, new writers! We're highly receptive to it, so feedback is highly appreciated!
+It'll never be the same as osu!weekly, but we're working hard to propose a frequent format, please be kind to us, new writers! We're highly receptive to it, so feedback is highly appreciated!
+
 
 ➥ *[Soetch](https://osu.ppy.sh/users/15970028), [Blushing](https://osu.ppy.sh/users/5927823), [wowcake](https://osu.ppy.sh/users/16121851) & [0x84f](https://osu.ppy.sh/users/7944724)*
 
