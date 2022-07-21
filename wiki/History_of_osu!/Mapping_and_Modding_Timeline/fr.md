@@ -51,7 +51,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Mars
 
-- **04/03/2009 :** ![] [flag_US] [Ivalset](https://osu.ppy.sh/users/827) a lancé la première [Délégation des pouvoirs de décision en matière d'approbation des beatmap ; escouade de soumission](/wiki/Modding/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad) (*BADASS*). 
+- **04/03/2009 :** ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) a lancé la première [Délégation des pouvoirs de décision en matière d'approbation des beatmap ; escouade de soumission](/wiki/Modding/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad) (*BADASS*). 
   - Ce changement a été lancé parce que les BAT précédentes ont été ajoutées sur la base d'un vote informel du canal `#bat` sur l'[IRC](/wiki/Community/Internet_Relay_Chat) d'osu! qui n'était pas visible par suffisamment d'utilisateurs.
 
 ### Novembre
@@ -427,7 +427,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Août
 
-- **05/08/2019 :** ![] [flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) a publié l'outil [Mapset Verifier](/wiki/Community/Projects#modding), qui automatise une partie importante des processus de vérification des beatmaps pour les Beatmap Nominators.
+- **05/08/2019 :** ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) a publié l'outil [Mapset Verifier](/wiki/Community/Projects#modding), qui automatise une partie importante des processus de vérification des beatmaps pour les Beatmap Nominators.
 - **06/08/2019 :** Les Beatmap Nominators ont pu participer à l'évaluation des demandes des BN.
   - Les contributions des BN sont visibles pour les NAT lorsqu'il s'agit de parvenir à un consensus, bien qu'elles soient rarement utilisées pour influencer un vote.
   - La NAT utilise souvent la contribution des BN pour aider à déterminer les futurs membres du NAT.
