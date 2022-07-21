@@ -12,7 +12,7 @@ Never heard of the [**Mappers' Guild**](/wiki/Community/Mappers_Guild)?
 
 The guild is a way for mappers to earn rewards for mapping songs from osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists). In the last 5 years, the **Mappers' Guild** expanded to [its own website](https://mappersguild.com) and includes plenty of extra mapping-related opportunities!
 
-This article covers the biggest changes to the **Mappers' Guild** since [our last homepage update](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild). The topics are unrelated to each other, so feel free to skip around:
+This article covers the biggest changes to the **Mappers' Guild** since [our last home page update](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild). The topics are unrelated to each other, so feel free to skip around:
 
 - [New beatmap packs and medals](#new-beatmap-packs-and-medals)
 - [Creating pre-release beatmaps for upcoming Featured Artists](#pre-release-beatmaps-for-upcoming-featured-artists)
@@ -71,9 +71,9 @@ Want your own maps showcased on the [@osugame Twitter](https://twitter.com/osuga
 
 ### Showcase beatmap requirements
 
-The objective of [Featured Artist showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) is to create hype up artist announcements and provide players a way to engage with these news posts.
+The objective of [Featured Artist showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) is to create hype for artist announcements and provide players a way to engage with these news posts.
 
-That said, there's a few things you should know before diving head-first into this:
+That said, there's a few things you should know before diving head first into this:
 
 - **Upcoming Featured Artists are treated as sensitive information.** Participation involves knowing details of upcoming Featured Artists, so you'll be trusted with confidentiality. If you break that trust, things happen. Bad things.
 - **Showcase beatmaps have deadlines.** You'll be expected to create and rank beatmaps by a specified date, so if you're not comfortable working with deadlines, this might not be for you.
@@ -83,7 +83,7 @@ The next round of Featured Artist showcase beatmaps will be coordinated *very so
 
 ## Mapping contest tools
 
-How do you create a mapping contest? How do you anonymize beatmap submissions? How do you judge mapping contests without stone-age spreadsheets? Where does anyone even *find* mapping contests?
+How do you create a mapping contest? How do you anonymize beatmap submissions? How do you judge mapping contests without stone age spreadsheets? Where does anyone even *find* mapping contests?
 
 Mapping contests have always faced systemic problems. The [**Mappers' Guild** contest listing](https://mappersguild.com/contests/listing) aims to solve them.
 
@@ -106,10 +106,10 @@ Honestly speaking, this system is much more useful for **contest creators**. If 
 
 This system also offers [**Mappers' Guild** points](/wiki/Community/Mappers_Guild#rewards) for beatmaps that **exclusively** use Featured Artist content:
 
-- Hosting contest: 10 points
+- Hosting a contest: 10 points
 - Submitting a valid entry: 5 points
-- Screening contest: 1 point
-- Judging contest: 1 point
+- Screening a contest: 1 point
+- Judging a contest: 1 point
 
 Words suck. Explore the [**Mappers' Guild** contest listing](https://mappersguild.com/contests/listing) for yourself and see if you're interested in long-overdue mapping contest organization!
 
@@ -125,7 +125,7 @@ This sounds like nonsense to anyone who's not familiar with the **Mappers' Guild
 
 ## Major contributors
 
-The guild has been *extremely active* since [our last homepage update](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild). **750+** new **Mappers' Guild** beatmaps have been ranked and **160+ Mappers' Guild** quests have been completed.
+The guild has been *extremely active* since [our last home page update](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild). **750+** new **Mappers' Guild** beatmaps have been ranked and **160+ Mappers' Guild** quests have been completed.
 
 There's absolutely no way we could highlight every beatmap/quest, but we *can* shout out some of the **Mappers' Guild**'s top contributors. Each of these users contributed 5 or more ranked beatmaps since November 2020:
 
@@ -165,7 +165,7 @@ There's absolutely no way we could highlight every beatmap/quest, but we *can* s
 | [Heaxys](https://osu.ppy.sh/users/5671417) | osu!taiko | 5 | 9 |
 | [ItsWinter](https://osu.ppy.sh/users/6381153) | osu! | 6 | 7 |
 
-Thanks to everyone here (and everyone else who's done *anything* in the guild) for hard carrying osu!'s steady supply of Featured Artist content.
+Thanks to everyone here (and everyone else who's done *anything* in the guild) for hard-carrying osu!'s steady supply of Featured Artist content.
 
 It's crazy to think the **Mappers' Guild** has been around for nearly 5 years AND somehow hasn't been sent to the hall of retired-osu!-community-projects.
 
