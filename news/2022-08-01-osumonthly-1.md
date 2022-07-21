@@ -65,15 +65,11 @@ Anyway, The Roundtable has now ended, and hopefully this towering experience ret
 
 Thanks again to [BTMC](https://osu.ppy.sh/users/3171691) and his staff for this insane event! 
 
-### ![](/wiki/shared/mode/mania.png) osu!mania
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-#### In August, the osu!mania top players will brawl in the osu!mania World Cup 2022!
+As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, osu!taiko takes it upon itself to rival even that of *The Roundtable* with their very own annual entry of **[Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)**!
 
-As it is starting the **6th of August**, we can't actually talk about it more, but we are excited to say that the next osu!monthly is going to have a **big article** about it, and maybe an **interview of the winner**!
-
-Please stay tuned about the next article, and we're moving on the next section!
-
-[*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open) 
+As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsus, and if we even dare-say, taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -89,11 +85,16 @@ With the recent change of swapping from Group Stages to Qualifiers format, most 
 
 There's still plenty of tournaments running though even after the conclusion of CWC! The digit tournaments, 4 Digit Catch World Cup 2022 and 3 Digit Catch World Cup 2022, are up and running and a second iteration of Catch French Dual Cup 2 currently in the registered phase. There's nothing to talk about these tournaments yet but maybe with the new osu!monthly release we can fully recap what was going on with conclusions and stuff!
 
-### ![](/wiki/shared/mode/taiko.png) osu!taiko
+### ![](/wiki/shared/mode/mania.png) osu!mania
 
-As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, osu!taiko takes it upon itself to rival even that of *The Roundtable* with their very own annual entry of **[Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)**!
+#### In August, the osu!mania top players will brawl in the osu!mania World Cup 2022!
 
-As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsus, and if we even dare-say, taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
+As it is starting the **6th of August**, we can't actually talk about it more, but we are excited to say that the next osu!monthly is going to have a **big article** about it, and maybe an **interview of the winner**!
+
+Please stay tuned about the next article, and we're moving on the next section!
+
+[*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open) 
+
 
 ---
 
@@ -164,7 +165,26 @@ Another new feature that some of you might not know of, or just haven't gotten a
 - For the month's top score, we got [[Karcher]](https://osu.ppy.sh/users/11443437) achieving an insane Full Combo on [*Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo*](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991)!
   
   [➥ Find the article here!](#as-if-the-impossible-could-not-be-done-only-once-but-twice)
+
+### ![](/wiki/shared/mode/taiko.png) osu!taiko 
+- The Expert Global Taiko Showdown 2022 is hitting on the stage! This is the way Taiko players can overtake [The Roundtable](#if-you-ask-us-what-is-the-big-event-of-july-itd-be-the-roundtable) in terms of epic shows!
   
+  [➥ Find the article here!](#as-if-we-could-allow-for-osu-to-take-all-the-glory-in-its-showcasing-of-top-players-and-their-performances-taiko-takes-it-upon-themself-to-rival-even-that-of-the-roundtable-with-their-very-own-annual-entry-of-expert-global-taiko-showdown-2022)
+
+### ![](/wiki/shared/mode/catch.png) osu!catch
+- The Catch World Cup 2022 has ended on pretty amazing performances ! Is South Korea dominating two modes at the same time?
+  
+  [➥ Find the article here!](#at-the-beginning-of-july-the-recent-eleventh-iteration-of-osucatch-world-cup-has-been-concluded)
+
+
+
+- The score of the month, according to us, is the [YesMyDarkness’](https://osu.ppy.sh/users/4158549/fruits) HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy.sh/beatmapsets/521900#fruits/1108507)! Somebody screeeeeeeeeeeeeeeeeam!
+  
+  [➥ Find the article here!](#everybody-scream-even-with-being-the-number-one-osucatch-player-in-the-world-a-play-such-as-yesmydarkness-is-no-small-feat)
+
+- With all greatness comes great scores! This month, we have [shinchikuhome’s](https://osu.ppy.sh/users/3174184) DT play on [Apollo](https://osu.ppy.sh/beatmapsets/1739877#taiko/3558252)! **411 BPM!** That's for you, speed enjoyers!
+  
+  [➥ Find the article here!](#whew-if-you-thought-the-pick-for-osu-was-crazy-wait-till-you-watch-shinchikuhomes-dt-play-on-apollo)
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 - The osu!mania World Cup 2022 is the road to the greatness for the Mania top players! They will brawl again in this great arena! Who's gonna take the crown?
@@ -181,27 +201,6 @@ Another new feature that some of you might not know of, or just haven't gotten a
 BPM changes throughout the map. [GS] Myuka has done a rampage on the Camellia’s - MI11I0N PP]!
 
   [➥ Find the article here!](#wow-just-completely-shocked-at-this-performance-by-gsmyuka-on-camellias---mi11i0n-pp)
-
-### ![](/wiki/shared/mode/catch.png) osu!catch
-- The Catch World Cup 2022 has ended on pretty amazing performances ! Is South Korea dominating two modes at the same time?
-  
-  [➥ Find the article here!](#at-the-beginning-of-july-the-recent-eleventh-iteration-of-osucatch-world-cup-has-been-concluded)
-
-
-
-- The score of the month, according to us, is the [YesMyDarkness’](https://osu.ppy.sh/users/4158549/fruits) HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy.sh/beatmapsets/521900#fruits/1108507)! Somebody screeeeeeeeeeeeeeeeeam!
-  
-  [➥ Find the article here!](#everybody-scream-even-with-being-the-number-one-osucatch-player-in-the-world-a-play-such-as-yesmydarkness-is-no-small-feat)
-
-### ![](/wiki/shared/mode/taiko.png) osu!taiko 
-- The Expert Global Taiko Showdown 2022 is hitting on the stage! This is the way Taiko players can overtake [The Roundtable](#if-you-ask-us-what-is-the-big-event-of-july-itd-be-the-roundtable) in terms of epic shows!
-  
-  [➥ Find the article here!](#as-if-we-could-allow-for-osu-to-take-all-the-glory-in-its-showcasing-of-top-players-and-their-performances-taiko-takes-it-upon-themself-to-rival-even-that-of-the-roundtable-with-their-very-own-annual-entry-of-expert-global-taiko-showdown-2022)
-
-
-- With all greatness comes great scores! This month, we have [shinchikuhome’s](https://osu.ppy.sh/users/3174184) DT play on [Apollo](https://osu.ppy.sh/beatmapsets/1739877#taiko/3558252)! **411 BPM!** That's for you, speed enjoyers!
-  
-  [➥ Find the article here!](#whew-if-you-thought-the-pick-for-osu-was-crazy-wait-till-you-watch-shinchikuhomes-dt-play-on-apollo)
 
 ## Month's Community Quiz
 A monthly question or puzzle for you!
