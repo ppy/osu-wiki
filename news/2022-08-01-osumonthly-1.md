@@ -46,6 +46,7 @@ Here are the latest updates, events and even more!
 <br>
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/roundtable/RTable_title.png)
+
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/roundtable/RTable_players.jpg)
 
 With the players showcased above, we have [BTMC](https://osu.ppy.sh/users/3171691) and [Happystick](https://osu.ppy.sh/users/256802) commentating, a genius roster who make sense for this first **IRL osu! invitational**! 
