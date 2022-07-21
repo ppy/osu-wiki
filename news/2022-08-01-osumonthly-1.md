@@ -9,7 +9,7 @@ This is the new community's news post : osu!monthly (a new one, again)!
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/banner-july.png)
 
-## Word of the editors
+## Word of the editors :
 
 It's been years since **osu!weekly's** release has been paused, 6 years since the community didn't have a regular post. Today, we're coming in with **__osu!monthly__**, a bigger format.
 
