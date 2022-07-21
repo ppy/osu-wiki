@@ -55,7 +55,7 @@ As if it wasn't enough, [mrekk](https://osu.ppy.sh/users/7562902) was there too!
 
 With that many great players, such as [mrekk](https://osu.ppy.sh/users/7562902), [Utami](https://osu.ppy.sh/users/7512553), [RyuK](https://osu.ppy.sh/users/6304246) and many others, this tournament was incredible! The competition's spirit was mixed with the entertaining cast and gimmicks of [BTMC](https://osu.ppy.sh/users/3171691) and the result was epic!
 
-In terms of epic, we were served with the finals : [mrekk](https://osu.ppy.sh/users/7562902) vs [Utami](https://osu.ppy.sh/users/7512553)! Despite mrekk's defeat against Utami, his performances were impressive, along with Utami's. His first rank on the leaderboard is indeed his throne.
+In terms of epic, we were served with the finals: [mrekk](https://osu.ppy.sh/users/7562902) vs [Utami](https://osu.ppy.sh/users/7512553)! Despite mrekk's defeat against Utami, his performances were impressive, along with Utami's. His first rank on the leaderboard is indeed his throne.
 
 A best-of from this match was made on the BTMC channel, with exclusive interviews of the players, by BTMC (what a surprise, ahah) and Happystick, the casters of this amazing show! You can find it [here](https://www.youtube.com/watch?v=Y7LqBZL)!
 
