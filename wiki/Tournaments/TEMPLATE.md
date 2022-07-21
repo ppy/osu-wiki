@@ -127,9 +127,9 @@ Day, date: <!-- e.g. Saturday, 17 June 2018: -->
 <!-- For solo tournaments, replace table header with: | Player 1 |  |  | Player 2 | Match link | -->
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **WINNER** ![][flag] | **SCORE** | SCORE | ![][flag] LOSER | [#1](MatchLink) |
-| LOSER ![][flag] | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ![][flag] **WINNER** | *win by default* |
-| TEAM_A ![][flag] | 0 | 0 | ![][flag] TEAM_B | *nullified* |
+| **WINNER** ::{ flag=CODE }:: | **SCORE** | SCORE | ::{ flag=CODE }:: LOSER | [#1](MatchLink) |
+| LOSER ::{ flag=CODE }:: | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ::{ flag=CODE }:: **WINNER** | *win by default* |
+| TEAM_A ::{ flag=CODE }:: | 0 | 0 | ::{ flag=CODE }:: TEAM_B | *nullified* |
 
 ## Ruleset
 
@@ -147,6 +147,5 @@ example header structure:
  -->
 
 <!--
-Add flag references here.
-Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
+See https://github.com/ppy/osu-wiki/blob/master/meta/flag-references/en.md for all flag codes and their corresponding countries.
  -->
