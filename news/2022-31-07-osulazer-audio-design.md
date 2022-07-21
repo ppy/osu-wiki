@@ -65,4 +65,4 @@ Here’s a bit of trivia for you all, can you spot what these sounds are being f
 
 ---
 
-If you want to give osu!lazer a try and listen in to all the different sounds, you can download the game for free [here](https://github.com/ppy/osu/releases)! osu!lazer is actively being worked on by peppy and many other individuals who contribute their time and knowledge over on Github, so if you have any suggestions or want to help yourself feel free to browse around the Github and even partake in development! 
+If you want to give osu!lazer a try and listen in to all the different sounds, you can download the game for free [here](https://github.com/ppy/osu/releases)! osu!lazer is actively being worked on by peppy and many other individuals who contribute their time and knowledge over on Github, so if you have any suggestions or want to help yourself feel free to browse around the Github and even partake in development [here](https://discord.gg/ppy)! 
