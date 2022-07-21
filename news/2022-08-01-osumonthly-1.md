@@ -41,7 +41,8 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 Here are the latest updates, events and even more!
 
 ### ![](/wiki/shared/mode/osu.png) osu! 
-#### If you ask us what is the big event of July, it'd be the **Roundtable**!
+
+#### If you ask us what is the big event of July, it'd be the Roundtable!
 <br>
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/roundtable/RTable_title.png)
