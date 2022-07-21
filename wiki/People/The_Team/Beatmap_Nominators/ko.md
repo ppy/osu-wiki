@@ -227,7 +227,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
-| ::{flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | 프랑스어 |
+| ::{ flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | 프랑스어 |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | 태국어 |
 
 ## 역사

@@ -222,7 +222,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ::{flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | Francês |
+| ::{ flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | Francês |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | Tailandês |
 
 #### osu!mania

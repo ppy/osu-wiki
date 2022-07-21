@@ -220,7 +220,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | 法语 |
+| ::{ flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | 法语 |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | 泰语 |
 
 #### osu!mania

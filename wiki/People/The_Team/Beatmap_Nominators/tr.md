@@ -222,7 +222,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ::{flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | Fransızca |
+| ::{ flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | Fransızca |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | Tayca |
 
 #### osu!mania

@@ -222,7 +222,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | French |
+| ::{ flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | French |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | Thai |
 
 #### osu!mania

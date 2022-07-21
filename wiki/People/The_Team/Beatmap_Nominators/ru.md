@@ -220,7 +220,7 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ::{flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | Французский |
+| ::{ flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | Французский |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | Тайский |
 
 #### osu!mania

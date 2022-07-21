@@ -220,7 +220,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
-| ::{flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | Français |
+| ::{ flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | Français |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | Thaï |
 
 #### osu!mania

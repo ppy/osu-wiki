@@ -222,7 +222,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ::{flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | ฝรั่งเศส |
+| ::{ flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | ฝรั่งเศส |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | ไทย |
 
 #### osu!mania

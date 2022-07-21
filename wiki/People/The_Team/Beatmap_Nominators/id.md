@@ -220,7 +220,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ::{flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | Perancis |
+| ::{ flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | Perancis |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | Thai |
 
 #### osu!mania

@@ -226,7 +226,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | Francés |
+| ::{ flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | Francés |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | Tailandés |
 
 ## Historia
