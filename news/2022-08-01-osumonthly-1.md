@@ -86,7 +86,8 @@ With the recent change of swapping from Group Stages to Qualifiers format, most 
 There's still plenty of tournaments running though even after the conclusion of CWC! The digit tournaments, 4 Digit Catch World Cup 2022 and 3 Digit Catch World Cup 2022, are up and running and a second iteration of Catch French Dual Cup 2 currently in the registered phase. There's nothing to talk about these tournaments yet but maybe with the new osu!monthly release we can fully recap what was going on with conclusions and stuff!
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
- #### As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, Taiko takes it upon themself to rival even that of *The Roundtable* with their very own annual entry of **[Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)**! 
+
+As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, osu!taiko takes it upon itself to rival even that of *The Roundtable* with their very own annual entry of **[Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)**!
 
 As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsus, and if we even dare-say, taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
 
