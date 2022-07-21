@@ -1,8 +1,3 @@
----
-outdated_since: 7094ac9d70205bc7bd12621dd83e3d1738962809
-outdated_translation: true
----
-
 # Liste des maintainers de l'osu! wiki
 
 Les maintainers jettent régulièrement un œil au [suivi des issues](https://github.com/ppy/osu-wiki/issues) et examinent les pull requests des contributeurs. Contrairement aux autres contributeurs, ils peuvent modifier les pull requests et les merge dans la branche `master` du dépôt, rendant ainsi les changements publics.
@@ -13,18 +8,19 @@ Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une rev
 
 | Profil osu! | Profil GitHub | Statut | Langues supplémentaires |
 | :-- | :-- | :-- | :-- |
-| ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Inactif | - |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Actif** | - |
-| ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | **Actif** | - |
+| ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | **Actif** |  |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Actif** |  |
+| ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inactif |  |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inactif | Espagnol |
 | ![][flag_DE] [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | Inactif | Allemand |
-| ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Inactif | - |
+| ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Inactif |  |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Inactif | Allemand |
 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Actif** | Japonais |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | Inactif |  |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | [Repflez](https://github.com/Repflez) | Inactif | Espagnol |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Inactif | Français |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Actif** | Russe |
-| ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | **Actif** | Polonais |
+| ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | Inactif | Polonais |
 | ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | Inactif | Finlandais, Suédois |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | Inactif | Espagnol |
 

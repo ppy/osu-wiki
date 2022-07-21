@@ -20,33 +20,24 @@ Le panel du mode osu!taiko a été formé le 1er mai 2022 en réponse au même s
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
-| ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
-| ![][flag_HU] [emu1337](https://osu.ppy.sh/users/2185987) | [emu1337](https://github.com/emu1337) |
-| ![][flag_AU] [MBmasher](https://osu.ppy.sh/users/4498616) | [MBmasher](https://github.com/MBmasher) |
-| ![][flag_RU] [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
+| ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987) | [emu1337](https://github.com/emu1337) |
+| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | [MBmasher](https://github.com/MBmasher) |
+| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
 
 ### osu!taiko
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
-| ![][flag_AU] [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) |
-| ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | [mangomizer](https://github.com/mangomizer) |
-| ![][flag_MY] [vun](https://osu.ppy.sh/users/6932501) | [vunyunt](https://github.com/vunyunt) |
+| ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [mangomizer](https://github.com/mangomizer) |
+| ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | [vunyunt](https://github.com/vunyunt) |
 
 ### osu!mania
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
-| ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) | [abraker95](https://github.com/abraker95) |
-| ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881) | [Eve-ning](https://github.com/Eve-ning) |
-| ![][flag_AU] [molneya](https://osu.ppy.sh/users/8945180) | [molneya](https://github.com/molneya) |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | [Kominaru](https://github.com/Kominaru) |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hongrie"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+| ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) | [abraker95](https://github.com/abraker95) |
+| ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) | [Eve-ning](https://github.com/Eve-ning) |
+| ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180) | [molneya](https://github.com/molneya) |
+| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | [Kominaru](https://github.com/Kominaru) |
