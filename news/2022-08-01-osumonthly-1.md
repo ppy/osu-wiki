@@ -94,7 +94,8 @@ As the name implies, the showdown is to take place between those whose dreams co
 ---
 
 ## Top scores of the Month!
-### ![](/wiki/shared/mode/osu.png) osu! 
+
+### ![](/wiki/shared/mode/osu.png) osu!
 #### As if the impossible could not be done only once, but twice!? 
 [[Karcher]](https://osu.ppy.sh/users/11443437) is an absolute madman! Achieving an insane Full Combo on [*Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo*](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991) to ever hit the ranked section. For just over 8 minutes of gameplay at a staggering 220 BPM it is no small feat, and thus, should be showed off for osu!’s monthly pick! 
 
