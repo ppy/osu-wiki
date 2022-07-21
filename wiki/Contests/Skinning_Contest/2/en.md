@@ -36,14 +36,14 @@ The Skinning Contest #2 is run by various community members.
 
 | User | Responsibility |
 | :-- | :-- |
-| ![][flag_DE] [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning, graphic design |
-| ![][flag_RO] [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
-| ![][flag_NL] [Roan](https://osu.ppy.sh/users/8214639) | Contest planning, internal tool development |
-| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
-| ![][flag_GB] [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
-| ![][flag_NL] [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
-| ![][flag_PL] [watterino](https://osu.ppy.sh/users/3512261) | Video editor |
-| ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning, newspost writer |
+| ::{ flag=DE }:: [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning, graphic design |
+| ::{ flag=RO }:: [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Contest planning, internal tool development |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
+| ::{ flag=GB }:: [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
+| ::{ flag=NL }:: [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
+| ::{ flag=PL }:: [watterino](https://osu.ppy.sh/users/3512261) | Video editor |
+| ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning, newspost writer |
 
 ## Links
 
@@ -60,23 +60,23 @@ The Skinning Contest #2 is run by various community members.
 
 | Skinner | Entry |
 | :-- | :-- |
-| ![][flag_PL] [Redo_](https://osu.ppy.sh/users/7122165) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) |
-| ![][flag_VN] [TKieen](https://osu.ppy.sh/users/12561202) | [105°C Chocolate](https://osu.ppy.sh/community/forums/topics/1496067) |
-| ![][flag_BY] [thetasigma](https://osu.ppy.sh/users/6234482) | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) |
-| ![][flag_VN] [koomo](https://osu.ppy.sh/users/2168518) | [CACTUS'](https://osu.ppy.sh/community/forums/topics/1481190) |
-| ![][flag_PH] [BPChingu](https://osu.ppy.sh/users/4236855) | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) |
-| ![][flag_FR] [Ootsu](https://osu.ppy.sh/users/9634575) | [HotChocolate](https://osu.ppy.sh/community/forums/topics/1484895) |
-| ![][flag_PH] [Inflique](https://osu.ppy.sh/users/13865585) | [Inflique's Snow Machine](https://osu.ppy.sh/community/forums/topics/1498697) |
-| ![][flag_ID] [ArchieA7](https://osu.ppy.sh/users/7087699) | [Musim Dingin](https://osu.ppy.sh/community/forums/topics/1480386) |
-| ![][flag_BR] [JoSanInk](https://osu.ppy.sh/users/10848682) | [N-ice](https://osu.ppy.sh/community/forums/topics/1497539) |
-| ![][flag_JP] [too](https://osu.ppy.sh/users/12196931) | [Shirokuma シロクマ](https://osu.ppy.sh/community/forums/topics/1476743) |
-| ![][flag_ID] [Akshiro](https://osu.ppy.sh/users/10557490) | [Snow](https://osu.ppy.sh/community/forums/topics/1494794) |
-| ![][flag_FR] [Corne2Plum3](https://osu.ppy.sh/users/15646039) | [Snowy Circles](https://osu.ppy.sh/community/forums/topics/1498442) |
-| ![][flag_ID] [nayuu](https://osu.ppy.sh/users/12561379) | [snowyy](https://osu.ppy.sh/community/forums/topics/1498720) |
-| ![][flag_MX] [ZiskyST](https://osu.ppy.sh/users/11844975) | [The Lost Winter](https://osu.ppy.sh/community/forums/topics/1494537) |
-| ![][flag_US] [Icysandwich](https://osu.ppy.sh/users/10961544) | [Tides of osu!](https://osu.ppy.sh/community/forums/topics/1498620) |
-| ![][flag_CA] [RUDEKA](https://osu.ppy.sh/users/13015586) | [TOWN](https://osu.ppy.sh/community/forums/topics/1484572) |
-| ![][flag_MY] [HIDOKOMORI123](https://osu.ppy.sh/users/14216890) | [WINTERMACHI](https://osu.ppy.sh/community/forums/topics/1491283) |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) |
+| ::{ flag=VN }:: [TKieen](https://osu.ppy.sh/users/12561202) | [105°C Chocolate](https://osu.ppy.sh/community/forums/topics/1496067) |
+| ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) |
+| ::{ flag=VN }:: [koomo](https://osu.ppy.sh/users/2168518) | [CACTUS'](https://osu.ppy.sh/community/forums/topics/1481190) |
+| ::{ flag=PH }:: [BPChingu](https://osu.ppy.sh/users/4236855) | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) |
+| ::{ flag=FR }:: [Ootsu](https://osu.ppy.sh/users/9634575) | [HotChocolate](https://osu.ppy.sh/community/forums/topics/1484895) |
+| ::{ flag=PH }:: [Inflique](https://osu.ppy.sh/users/13865585) | [Inflique's Snow Machine](https://osu.ppy.sh/community/forums/topics/1498697) |
+| ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | [Musim Dingin](https://osu.ppy.sh/community/forums/topics/1480386) |
+| ::{ flag=BR }:: [JoSanInk](https://osu.ppy.sh/users/10848682) | [N-ice](https://osu.ppy.sh/community/forums/topics/1497539) |
+| ::{ flag=JP }:: [too](https://osu.ppy.sh/users/12196931) | [Shirokuma シロクマ](https://osu.ppy.sh/community/forums/topics/1476743) |
+| ::{ flag=ID }:: [Akshiro](https://osu.ppy.sh/users/10557490) | [Snow](https://osu.ppy.sh/community/forums/topics/1494794) |
+| ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | [Snowy Circles](https://osu.ppy.sh/community/forums/topics/1498442) |
+| ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379) | [snowyy](https://osu.ppy.sh/community/forums/topics/1498720) |
+| ::{ flag=MX }:: [ZiskyST](https://osu.ppy.sh/users/11844975) | [The Lost Winter](https://osu.ppy.sh/community/forums/topics/1494537) |
+| ::{ flag=US }:: [Icysandwich](https://osu.ppy.sh/users/10961544) | [Tides of osu!](https://osu.ppy.sh/community/forums/topics/1498620) |
+| ::{ flag=CA }:: [RUDEKA](https://osu.ppy.sh/users/13015586) | [TOWN](https://osu.ppy.sh/community/forums/topics/1484572) |
+| ::{ flag=MY }:: [HIDOKOMORI123](https://osu.ppy.sh/users/14216890) | [WINTERMACHI](https://osu.ppy.sh/community/forums/topics/1491283) |
 
 ## Podium
 

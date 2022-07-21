@@ -36,16 +36,16 @@ The osb! Storyboarding Contest #1 was run by osu! storyboarder banquet staff.
 
 | User | Responsibility |
 | :-- | :-- |
-| ![][flag_CA] [Sidetail](https://osu.ppy.sh/users/2036217) | Host, administrator |
-| ![][flag_VN] [Hokichi](https://osu.ppy.sh/users/6607303) | Co-host, graphic designer, judge |
-| ![][flag_GB] [WildOne94](https://osu.ppy.sh/users/3482692) | Staff member, judge |
-| ![][flag_AU] [Coppertine](https://osu.ppy.sh/users/7279762) | Staff member, judge |
-| ![][flag_DE] [Darky1](https://osu.ppy.sh/users/3372928) | Staff member, judge |
-| ![][flag_CA] [Marblelemons](https://osu.ppy.sh/users/8286416) | Staff member, judge |
-| ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) | Judge |
-| ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023) | Judge |
-| ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) | Judge |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Logo designer |
+| ::{ flag=CA }:: [Sidetail](https://osu.ppy.sh/users/2036217) | Host, administrator |
+| ::{ flag=VN }:: [Hokichi](https://osu.ppy.sh/users/6607303) | Co-host, graphic designer, judge |
+| ::{ flag=GB }:: [WildOne94](https://osu.ppy.sh/users/3482692) | Staff member, judge |
+| ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762) | Staff member, judge |
+| ::{ flag=DE }:: [Darky1](https://osu.ppy.sh/users/3372928) | Staff member, judge |
+| ::{ flag=CA }:: [Marblelemons](https://osu.ppy.sh/users/8286416) | Staff member, judge |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Judge |
+| ::{ flag=ID }:: [LordRaika](https://osu.ppy.sh/users/3265023) | Judge |
+| ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410) | Judge |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Logo designer |
 
 ## Links
 
@@ -56,9 +56,9 @@ The osb! Storyboarding Contest #1 was run by osu! storyboarder banquet staff.
 
 | Storyboarder | Entry | Showcase video |
 | :-- | :-- | :-- |
-| ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) | [puru - Grimheart (Original Mix & Cut Ver.) \[RED FOX\]](https://drive.google.com/uc?id=1dIBPlOdB00Mu-To8SdAwgGsi9OUSQ1JT) | [#1](https://www.youtube.com/watch?v=F4QL4B4Qgso) |
-| ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) | [Itou Kanako - COSMIC LOOPER (TV Size) \[MAINE COON\]](https://drive.google.com/uc?id=12i-RTXTOM60P1MfBx_QGBMwmB5qOWXbz) | [#1](https://www.youtube.com/watch?v=ucRjWfP6ZSA) |
-| ![][flag_CA] [TheDuckMask](https://osu.ppy.sh/users/7405768) | [AVTechNO!xTreow - DYE/Re:flection+ \[SHIBA INU\]](https://drive.google.com/uc?id=1y51gyjGgrrIQJlxkjxNoGRwFu285KaeH) | [#1](https://www.youtube.com/watch?v=dFfXZfOJQPs) |
+| ::{ flag=CA }:: [Gaia](https://osu.ppy.sh/users/2683648) | [puru - Grimheart (Original Mix & Cut Ver.) \[RED FOX\]](https://drive.google.com/uc?id=1dIBPlOdB00Mu-To8SdAwgGsi9OUSQ1JT) | [#1](https://www.youtube.com/watch?v=F4QL4B4Qgso) |
+| ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | [Itou Kanako - COSMIC LOOPER (TV Size) \[MAINE COON\]](https://drive.google.com/uc?id=12i-RTXTOM60P1MfBx_QGBMwmB5qOWXbz) | [#1](https://www.youtube.com/watch?v=ucRjWfP6ZSA) |
+| ::{ flag=CA }:: [TheDuckMask](https://osu.ppy.sh/users/7405768) | [AVTechNO!xTreow - DYE/Re:flection+ \[SHIBA INU\]](https://drive.google.com/uc?id=1y51gyjGgrrIQJlxkjxNoGRwFu285KaeH) | [#1](https://www.youtube.com/watch?v=dFfXZfOJQPs) |
 
 ## Podium
 
@@ -66,9 +66,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Participant |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [TheDuckMask](https://osu.ppy.sh/users/7405768) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: [TheDuckMask](https://osu.ppy.sh/users/7405768) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CA }:: [Gaia](https://osu.ppy.sh/users/2683648) |
 
 ## Ruleset
 

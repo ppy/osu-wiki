@@ -27,10 +27,10 @@ The Slider Velocity Showdown was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097), ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_JP] [komasy](https://osu.ppy.sh/users/1980256) |
-| Designer | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) |
-| Judge | ![][flag_US] [Alchyr](https://osu.ppy.sh/users/4993032), ![][flag_GR] [Genjuro](https://osu.ppy.sh/users/3196091), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401), ![][flag_TW] [katacheh](https://osu.ppy.sh/users/6651672), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857), ![][flag_DE] [xMrtn-](https://osu.ppy.sh/users/866297) |
-| Translator | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) (Spanish), ![][flag_JP] [komasy](https://osu.ppy.sh/users/1980256) (Japanese) |
+| Host | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) |
+| Designer | ::{ flag=AR }:: [Atreevete](https://osu.ppy.sh/users/2615199) |
+| Judge | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=TW }:: [katacheh](https://osu.ppy.sh/users/6651672), ::{ flag=DE }:: [Mew](https://osu.ppy.sh/users/2345156), ::{ flag=BR }:: [Ppus](https://osu.ppy.sh/users/5918857), ::{ flag=DE }:: [xMrtn-](https://osu.ppy.sh/users/866297) |
+| Translator | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) (Spanish), ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) (Japanese) |
 
 ## Prizes
 
@@ -52,9 +52,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_NL] [Cookie_Tree](https://osu.ppy.sh/users/502722) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_JP] [Grape_Tea](https://osu.ppy.sh/users/9540073) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) |
 
 ## Ruleset
 

@@ -41,11 +41,11 @@ The Taiko World Cup 2012 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401) |
-| Mappool selector | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
-| Referee | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733), ![][flag_TW] [Numbers 596108](https://osu.ppy.sh/users/194653), ![][flag_FR] [Odaril](https://osu.ppy.sh/users/113005) |
-| Scheduler | ![][flag_US] [anongos](https://osu.ppy.sh/users/7135) |
-| Streamer | ![][flag_HK] [Kirisaki\_Hayashi](https://osu.ppy.sh/users/857986), ![][flag_HK] [matthewhln](https://osu.ppy.sh/users/291487) |
+| Manager | ::{ flag=KR }:: [lepidopodus](https://osu.ppy.sh/users/194807), ::{ flag=HK }:: [wmfchris](https://osu.ppy.sh/users/7401) |
+| Mappool selector | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) |
+| Referee | ::{ flag=PE }:: [Gonzvlo](https://osu.ppy.sh/users/237733), ::{ flag=TW }:: [Numbers 596108](https://osu.ppy.sh/users/194653), ::{ flag=FR }:: [Odaril](https://osu.ppy.sh/users/113005) |
+| Scheduler | ::{ flag=US }:: [anongos](https://osu.ppy.sh/users/7135) |
+| Streamer | ::{ flag=HK }:: [Kirisaki\_Hayashi](https://osu.ppy.sh/users/857986), ::{ flag=HK }:: [matthewhln](https://osu.ppy.sh/users/291487) |
 
 ## Links
 
@@ -59,39 +59,39 @@ The Taiko World Cup 2012 was run by various community members.
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AT] | **Austria** | **[M A R I O](https://osu.ppy.sh/users/594424)**, [Hawkii](https://osu.ppy.sh/users/709719), [Necro Neko](https://osu.ppy.sh/users/697203), [TheNutritiousGuy](https://osu.ppy.sh/users/626907) |
-| ![][flag_BR] | **Brazil** | **[fabriciorby](https://osu.ppy.sh/users/209664)**, [\[Luanny PhNyx\]](https://osu.ppy.sh/users/802909), [Hyguys](https://osu.ppy.sh/users/362851), [JhowM](https://osu.ppy.sh/users/599290) |
-| ![][flag_CA] | **Canada** | **[xcherry](https://osu.ppy.sh/users/684730)**, [Crystalloid](https://osu.ppy.sh/users/699741), [orangespanky](https://osu.ppy.sh/users/125142), [Super\_Banana](https://osu.ppy.sh/users/459886) |
-| ![][flag_CL] | **Chile** | **[Kurisuchianu](https://osu.ppy.sh/users/194345)**, [Letz\_shake](https://osu.ppy.sh/users/593579), [Touche](https://osu.ppy.sh/users/744220), [Verdisphena](https://osu.ppy.sh/users/378377) |
-| ![][flag_CN] | **China** | **[HM495](https://osu.ppy.sh/users/810813)**, [baka\_baka\_Koishi](https://osu.ppy.sh/users/915103), [narcissu2012](https://osu.ppy.sh/users/819937), [small-qiang](https://osu.ppy.sh/users/619179) |
-| ![][flag_FR] | **France** | **[Nashmun](https://osu.ppy.sh/users/49031)**, [Dagonpater](https://osu.ppy.sh/users/205257), [Didou](https://osu.ppy.sh/users/594822), [Omegaflo](https://osu.ppy.sh/users/83291) |
-| ![][flag_DE] | **Germany A** | **[OnosakiHito](https://osu.ppy.sh/users/290128)**, [DarkDunskin](https://osu.ppy.sh/users/98985), [LittleMagic](https://osu.ppy.sh/users/105380), [RockeDon](https://osu.ppy.sh/users/624957) |
-| ![][flag_DE] | **Germany B** | **[Locher](https://osu.ppy.sh/users/587835)**, [Brokenarrow](https://osu.ppy.sh/users/384034), [Slih](https://osu.ppy.sh/users/606738), [Xayphon](https://osu.ppy.sh/users/961417) |
-| ![][flag_HK] | **Hong Kong A** | **[aabc271](https://osu.ppy.sh/users/155707)**, [KanaRin](https://osu.ppy.sh/users/310747), [kanpakyin](https://osu.ppy.sh/users/394326), [XeBi320](https://osu.ppy.sh/users/342622) |
-| ![][flag_HK] | **Hong Kong B** | **[7odoa](https://osu.ppy.sh/users/643394)**, [jiujiu123](https://osu.ppy.sh/users/728511), [rturuurud](https://osu.ppy.sh/users/520016), [sakurasuzaku](https://osu.ppy.sh/users/192704) |
-| ![][flag_IT] ![][flag_NL] | **Italy-Netherlands** | **[NeoRainier](https://osu.ppy.sh/users/326049)**, [happy30](https://osu.ppy.sh/users/27767), [Jak64](https://osu.ppy.sh/users/29029), [Pheon](https://osu.ppy.sh/users/292295) |
-| ![][flag_JP] | **Japan A** | **[pota-row](https://osu.ppy.sh/users/858415)**, [asuke916](https://osu.ppy.sh/users/863073), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [TTTL](https://osu.ppy.sh/users/164583) |
-| ![][flag_JP] | **Japan B** | **[asgardv](https://osu.ppy.sh/users/752078)**, [Lye](https://osu.ppy.sh/users/508616), [shifon\[0312\]](https://osu.ppy.sh/users/295488), [tamutamu](https://osu.ppy.sh/users/364497) |
-| ![][flag_MO] | **Macau** | **[L y n n i e](https://osu.ppy.sh/users/189880)**, [\_\_\_\_\_\_\_\_yL](https://osu.ppy.sh/users/761205), [benisakura](https://osu.ppy.sh/users/384986), [tuidaololi](https://osu.ppy.sh/users/359750) |
-| ![][flag_MY] | **Malaysia** | **[HeatKai](https://osu.ppy.sh/users/332555)**, [Taiko\_Maniac1811](https://osu.ppy.sh/users/595764), [mekadon](https://osu.ppy.sh/users/157835), [x3Jerry](https://osu.ppy.sh/users/605973) |
-| ![][flag_PH] | **Philippines** | **[AngelusMist](https://osu.ppy.sh/users/640612)**, [\[Zero\_One\]](https://osu.ppy.sh/users/347574), [blacksymbian](https://osu.ppy.sh/users/53956), [Zekira](https://osu.ppy.sh/users/36749) |
-| ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [1miko1](https://osu.ppy.sh/users/95690), [DarkStoorM](https://osu.ppy.sh/users/174347), [flyleaf95](https://osu.ppy.sh/users/375174) |
-| ![][flag_KR] | **South Korea A** | **[Remilia-Scarlet](https://osu.ppy.sh/users/602783)**, [KDS](https://osu.ppy.sh/users/257977), [Mapper 31](https://osu.ppy.sh/users/156215), [Riboflavin](https://osu.ppy.sh/users/575159) |
-| ![][flag_KR] | **South Korea B** | **[\[Shalon\]](https://osu.ppy.sh/users/317802)**, [EkiBen](https://osu.ppy.sh/users/344783), [iketa](https://osu.ppy.sh/users/571504), [OFC\_youngdow](https://osu.ppy.sh/users/1312550) |
-| ![][flag_ES] | **Spain** | **[CARRI](https://osu.ppy.sh/users/854536)**, [charly kempachi](https://osu.ppy.sh/users/280115), [MYRKUL](https://osu.ppy.sh/users/255933) |
-| ![][flag_TW] | **Taiwan A** | **[doraewon1](https://osu.ppy.sh/users/358675)**, [ISHIDAMITSUNARI](https://osu.ppy.sh/users/242910), [mliencheng](https://osu.ppy.sh/users/586659), [zx\_baka\_0502442](https://osu.ppy.sh/users/457766) |
-| ![][flag_TW] | **Taiwan B** | **[jih7491](https://osu.ppy.sh/users/259446)**, [610522](https://osu.ppy.sh/users/965771), [kg2161012](https://osu.ppy.sh/users/468393), [Tomoka Rin](https://osu.ppy.sh/users/125308) |
-| ![][flag_US] | **United States A** | **[MMzz](https://osu.ppy.sh/users/128993)**, [OzzyOzrock](https://osu.ppy.sh/users/465153), [Sander-Don](https://osu.ppy.sh/users/284307) |
-| ![][flag_US] | **United States B** | **[Makar8000](https://osu.ppy.sh/users/686389)**, [Backfire](https://osu.ppy.sh/users/263110), [KYOUI](https://osu.ppy.sh/users/460978), [Love](https://osu.ppy.sh/users/467487) |
+| ::{ flag=AT }:: | **Austria** | **[M A R I O](https://osu.ppy.sh/users/594424)**, [Hawkii](https://osu.ppy.sh/users/709719), [Necro Neko](https://osu.ppy.sh/users/697203), [TheNutritiousGuy](https://osu.ppy.sh/users/626907) |
+| ::{ flag=BR }:: | **Brazil** | **[fabriciorby](https://osu.ppy.sh/users/209664)**, [\[Luanny PhNyx\]](https://osu.ppy.sh/users/802909), [Hyguys](https://osu.ppy.sh/users/362851), [JhowM](https://osu.ppy.sh/users/599290) |
+| ::{ flag=CA }:: | **Canada** | **[xcherry](https://osu.ppy.sh/users/684730)**, [Crystalloid](https://osu.ppy.sh/users/699741), [orangespanky](https://osu.ppy.sh/users/125142), [Super\_Banana](https://osu.ppy.sh/users/459886) |
+| ::{ flag=CL }:: | **Chile** | **[Kurisuchianu](https://osu.ppy.sh/users/194345)**, [Letz\_shake](https://osu.ppy.sh/users/593579), [Touche](https://osu.ppy.sh/users/744220), [Verdisphena](https://osu.ppy.sh/users/378377) |
+| ::{ flag=CN }:: | **China** | **[HM495](https://osu.ppy.sh/users/810813)**, [baka\_baka\_Koishi](https://osu.ppy.sh/users/915103), [narcissu2012](https://osu.ppy.sh/users/819937), [small-qiang](https://osu.ppy.sh/users/619179) |
+| ::{ flag=FR }:: | **France** | **[Nashmun](https://osu.ppy.sh/users/49031)**, [Dagonpater](https://osu.ppy.sh/users/205257), [Didou](https://osu.ppy.sh/users/594822), [Omegaflo](https://osu.ppy.sh/users/83291) |
+| ::{ flag=DE }:: | **Germany A** | **[OnosakiHito](https://osu.ppy.sh/users/290128)**, [DarkDunskin](https://osu.ppy.sh/users/98985), [LittleMagic](https://osu.ppy.sh/users/105380), [RockeDon](https://osu.ppy.sh/users/624957) |
+| ::{ flag=DE }:: | **Germany B** | **[Locher](https://osu.ppy.sh/users/587835)**, [Brokenarrow](https://osu.ppy.sh/users/384034), [Slih](https://osu.ppy.sh/users/606738), [Xayphon](https://osu.ppy.sh/users/961417) |
+| ::{ flag=HK }:: | **Hong Kong A** | **[aabc271](https://osu.ppy.sh/users/155707)**, [KanaRin](https://osu.ppy.sh/users/310747), [kanpakyin](https://osu.ppy.sh/users/394326), [XeBi320](https://osu.ppy.sh/users/342622) |
+| ::{ flag=HK }:: | **Hong Kong B** | **[7odoa](https://osu.ppy.sh/users/643394)**, [jiujiu123](https://osu.ppy.sh/users/728511), [rturuurud](https://osu.ppy.sh/users/520016), [sakurasuzaku](https://osu.ppy.sh/users/192704) |
+| ::{ flag=IT }:: ::{ flag=NL }:: | **Italy-Netherlands** | **[NeoRainier](https://osu.ppy.sh/users/326049)**, [happy30](https://osu.ppy.sh/users/27767), [Jak64](https://osu.ppy.sh/users/29029), [Pheon](https://osu.ppy.sh/users/292295) |
+| ::{ flag=JP }:: | **Japan A** | **[pota-row](https://osu.ppy.sh/users/858415)**, [asuke916](https://osu.ppy.sh/users/863073), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [TTTL](https://osu.ppy.sh/users/164583) |
+| ::{ flag=JP }:: | **Japan B** | **[asgardv](https://osu.ppy.sh/users/752078)**, [Lye](https://osu.ppy.sh/users/508616), [shifon\[0312\]](https://osu.ppy.sh/users/295488), [tamutamu](https://osu.ppy.sh/users/364497) |
+| ::{ flag=MO }:: | **Macau** | **[L y n n i e](https://osu.ppy.sh/users/189880)**, [\_\_\_\_\_\_\_\_yL](https://osu.ppy.sh/users/761205), [benisakura](https://osu.ppy.sh/users/384986), [tuidaololi](https://osu.ppy.sh/users/359750) |
+| ::{ flag=MY }:: | **Malaysia** | **[HeatKai](https://osu.ppy.sh/users/332555)**, [Taiko\_Maniac1811](https://osu.ppy.sh/users/595764), [mekadon](https://osu.ppy.sh/users/157835), [x3Jerry](https://osu.ppy.sh/users/605973) |
+| ::{ flag=PH }:: | **Philippines** | **[AngelusMist](https://osu.ppy.sh/users/640612)**, [\[Zero\_One\]](https://osu.ppy.sh/users/347574), [blacksymbian](https://osu.ppy.sh/users/53956), [Zekira](https://osu.ppy.sh/users/36749) |
+| ::{ flag=PL }:: | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [1miko1](https://osu.ppy.sh/users/95690), [DarkStoorM](https://osu.ppy.sh/users/174347), [flyleaf95](https://osu.ppy.sh/users/375174) |
+| ::{ flag=KR }:: | **South Korea A** | **[Remilia-Scarlet](https://osu.ppy.sh/users/602783)**, [KDS](https://osu.ppy.sh/users/257977), [Mapper 31](https://osu.ppy.sh/users/156215), [Riboflavin](https://osu.ppy.sh/users/575159) |
+| ::{ flag=KR }:: | **South Korea B** | **[\[Shalon\]](https://osu.ppy.sh/users/317802)**, [EkiBen](https://osu.ppy.sh/users/344783), [iketa](https://osu.ppy.sh/users/571504), [OFC\_youngdow](https://osu.ppy.sh/users/1312550) |
+| ::{ flag=ES }:: | **Spain** | **[CARRI](https://osu.ppy.sh/users/854536)**, [charly kempachi](https://osu.ppy.sh/users/280115), [MYRKUL](https://osu.ppy.sh/users/255933) |
+| ::{ flag=TW }:: | **Taiwan A** | **[doraewon1](https://osu.ppy.sh/users/358675)**, [ISHIDAMITSUNARI](https://osu.ppy.sh/users/242910), [mliencheng](https://osu.ppy.sh/users/586659), [zx\_baka\_0502442](https://osu.ppy.sh/users/457766) |
+| ::{ flag=TW }:: | **Taiwan B** | **[jih7491](https://osu.ppy.sh/users/259446)**, [610522](https://osu.ppy.sh/users/965771), [kg2161012](https://osu.ppy.sh/users/468393), [Tomoka Rin](https://osu.ppy.sh/users/125308) |
+| ::{ flag=US }:: | **United States A** | **[MMzz](https://osu.ppy.sh/users/128993)**, [OzzyOzrock](https://osu.ppy.sh/users/465153), [Sander-Don](https://osu.ppy.sh/users/284307) |
+| ::{ flag=US }:: | **United States B** | **[Makar8000](https://osu.ppy.sh/users/686389)**, [Backfire](https://osu.ppy.sh/users/263110), [KYOUI](https://osu.ppy.sh/users/460978), [Love](https://osu.ppy.sh/users/467487) |
 
 ## Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| ![][flag_MO] Macau | ![][flag_CA] Canada | ![][flag_CL] Chile | ![][flag_AT] Austria | ![][flag_BR] Brazil | ![][flag_CN] China |
-| ![][flag_DE] Germany B | ![][flag_HK] Hong Kong B | ![][flag_FR] France | ![][flag_IT] ![][flag_NL] Italy-Netherlands | ![][flag_DE] Germany A | ![][flag_MY] Malaysia |
-| ![][flag_HK] Hong Kong A | ![][flag_JP] Japan B | ![][flag_PH] Philippines | ![][flag_KR] Korea A | ![][flag_JP] Japan A | ![][flag_KR] Korea B |
-| ![][flag_PL] Poland | ![][flag_TW] Taiwan A | ![][flag_US] United States B | ![][flag_ES] Spain | ![][flag_TW] Taiwan B | ![][flag_US] United States A |
+| ::{ flag=MO }:: Macau | ::{ flag=CA }:: Canada | ::{ flag=CL }:: Chile | ::{ flag=AT }:: Austria | ::{ flag=BR }:: Brazil | ::{ flag=CN }:: China |
+| ::{ flag=DE }:: Germany B | ::{ flag=HK }:: Hong Kong B | ::{ flag=FR }:: France | ::{ flag=IT }:: ::{ flag=NL }:: Italy-Netherlands | ::{ flag=DE }:: Germany A | ::{ flag=MY }:: Malaysia |
+| ::{ flag=HK }:: Hong Kong A | ::{ flag=JP }:: Japan B | ::{ flag=PH }:: Philippines | ::{ flag=KR }:: Korea A | ::{ flag=JP }:: Japan A | ::{ flag=KR }:: Korea B |
+| ::{ flag=PL }:: Poland | ::{ flag=TW }:: Taiwan A | ::{ flag=US }:: United States B | ::{ flag=ES }:: Spain | ::{ flag=TW }:: Taiwan B | ::{ flag=US }:: United States A |
 
 ![](img/bracket.jpg "TWC 2012 bracket")
 
@@ -313,13 +313,13 @@ Saturday, 31 March 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Japan B** ![][flag_JP] | **5** | 4 | ![][flag_FR] France |  |
+| **Japan B** ::{ flag=JP }:: | **5** | 4 | ::{ flag=FR }:: France |  |
 
 Sunday, 1 April 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Hong Kong A ![][flag_HK] | 2 | **5** | ![][flag_JP] **Japan A** |  |
+| Hong Kong A ::{ flag=HK }:: | 2 | **5** | ::{ flag=JP }:: **Japan A** |  |
 
 ### Round 4
 
@@ -327,8 +327,8 @@ Saturday, 24 March 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Japan B ![][flag_JP] | 1 | **5** | ![][flag_HK] **Hong Kong A** |  |
-| **Japan A** ![][flag_JP] | **5** | 0 | ![][flag_FR] France |  |
+| Japan B ::{ flag=JP }:: | 1 | **5** | ::{ flag=HK }:: **Hong Kong A** |  |
+| **Japan A** ::{ flag=JP }:: | **5** | 0 | ::{ flag=FR }:: France |  |
 
 ### Round 3
 
@@ -336,15 +336,15 @@ Saturday, 17 March 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Germany B ![][flag_DE] | 1 | **4** | ![][flag_FR] **France** |  |
-| **Japan A** ![][flag_JP] | **4** | 1 | ![][flag_TW] Taiwan A |  |
+| Germany B ::{ flag=DE }:: | 1 | **4** | ::{ flag=FR }:: **France** |  |
+| **Japan A** ::{ flag=JP }:: | **4** | 1 | ::{ flag=TW }:: Taiwan A |  |
 
 Sunday, 18 March 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Hong Kong A** ![][flag_HK] | **4** | 2 | ![][flag_US] United States A |  |
-| Korea A ![][flag_KR] | 1 | **4** | ![][flag_JP] **Japan B** |  |
+| **Hong Kong A** ::{ flag=HK }:: | **4** | 2 | ::{ flag=US }:: United States A |  |
+| Korea A ::{ flag=KR }:: | 1 | **4** | ::{ flag=JP }:: **Japan B** |  |
 
 ### Round 2
 
@@ -352,19 +352,19 @@ Saturday, 10 March 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Korea A** ![][flag_KR] | **4** | 1 | ![][flag_CN] China |  |
-| Taiwan B ![][flag_TW] | 0 | **4** | ![][flag_FR] **France** |  |
-| Philippines ![][flag_PH] | 0 | **4** | ![][flag_HK] **Hong Kong A** | *win by default* |
-| Italy-Netherlands ![][flag_IT] ![][flag_NL] | 2 | **4** | ![][flag_US] **United States A** |  |
+| **Korea A** ::{ flag=KR }:: | **4** | 1 | ::{ flag=CN }:: China |  |
+| Taiwan B ::{ flag=TW }:: | 0 | **4** | ::{ flag=FR }:: **France** |  |
+| Philippines ::{ flag=PH }:: | 0 | **4** | ::{ flag=HK }:: **Hong Kong A** | *win by default* |
+| Italy-Netherlands ::{ flag=IT }:: ::{ flag=NL }:: | 2 | **4** | ::{ flag=US }:: **United States A** |  |
 
 Sunday, 11 March 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Japan A** ![][flag_JP] | **4** | 1 | ![][flag_KR] Korea B |  |
-| **Taiwan A** ![][flag_TW] | **4** | 1 | ![][flag_US] United States B |  |
-| Germany A ![][flag_DE] | 0 | **4** | ![][flag_JP] **Japan B** |  |
-| **Germany B** ![][flag_DE] | **4** | 0 | ![][flag_ES] Spain |  |
+| **Japan A** ::{ flag=JP }:: | **4** | 1 | ::{ flag=KR }:: Korea B |  |
+| **Taiwan A** ::{ flag=TW }:: | **4** | 1 | ::{ flag=US }:: United States B |  |
+| Germany A ::{ flag=DE }:: | 0 | **4** | ::{ flag=JP }:: **Japan B** |  |
+| **Germany B** ::{ flag=DE }:: | **4** | 0 | ::{ flag=ES }:: Spain |  |
 
 ### Round 1-4
 
@@ -372,21 +372,21 @@ Saturday, 3 March 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Hong Kong B ![][flag_HK] | 0 | **3** | ![][flag_TW] **Taiwan A** |  |
-| **Germany B** ![][flag_DE] | **3** | 0 | ![][flag_PL] Poland |  |
-| **Japan A** ![][flag_JP] | **3** | 0 | ![][flag_TW] Taiwan B |  |
-| Chile ![][flag_CL] | 0 | **3** | ![][flag_PH] **Philippines** |  |
-| **France** ![][flag_FR] | **3** | 1 | ![][flag_US] United States B |  |
+| Hong Kong B ::{ flag=HK }:: | 0 | **3** | ::{ flag=TW }:: **Taiwan A** |  |
+| **Germany B** ::{ flag=DE }:: | **3** | 0 | ::{ flag=PL }:: Poland |  |
+| **Japan A** ::{ flag=JP }:: | **3** | 0 | ::{ flag=TW }:: Taiwan B |  |
+| Chile ::{ flag=CL }:: | 0 | **3** | ::{ flag=PH }:: **Philippines** |  |
+| **France** ::{ flag=FR }:: | **3** | 1 | ::{ flag=US }:: United States B |  |
 
 Sunday, 4 March 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Malaysia ![][flag_MY] | 0 | **3** | ![][flag_US] **United States A** |  |
-| China ![][flag_CN] | 1 | **3** | ![][flag_KR] **Korea B** |  |
-| Canada ![][flag_CA] | 0 | **3** | ![][flag_JP] **Japan B** |  |
-| Austria ![][flag_AT] | 0 | **3** | ![][flag_KR] **Korea A** |  |
-| Italy-Netherlands ![][flag_IT] ![][flag_NL] | 0 | **3** | ![][flag_ES] **Spain** |  |
+| Malaysia ::{ flag=MY }:: | 0 | **3** | ::{ flag=US }:: **United States A** |  |
+| China ::{ flag=CN }:: | 1 | **3** | ::{ flag=KR }:: **Korea B** |  |
+| Canada ::{ flag=CA }:: | 0 | **3** | ::{ flag=JP }:: **Japan B** |  |
+| Austria ::{ flag=AT }:: | 0 | **3** | ::{ flag=KR }:: **Korea A** |  |
+| Italy-Netherlands ::{ flag=IT }:: ::{ flag=NL }:: | 0 | **3** | ::{ flag=ES }:: **Spain** |  |
 
 ### Round 1-3
 
@@ -394,19 +394,19 @@ Saturday, 25 February 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Macau ![][flag_MO] | 0 | **3** | ![][flag_HK] **Hong Kong A** |  |
-| Italy-Netherlands ![][flag_IT] ![][flag_NL] | 1 | **3** | ![][flag_KR] **Korea A** |  |
-| **Germany A** ![][flag_DE] | **3** | 1 | ![][flag_TW] Taiwan B |  |
-| **France** ![][flag_FR] | **3** | 0 | ![][flag_PH] Philippines |  |
+| Macau ::{ flag=MO }:: | 0 | **3** | ::{ flag=HK }:: **Hong Kong A** |  |
+| Italy-Netherlands ::{ flag=IT }:: ::{ flag=NL }:: | 1 | **3** | ::{ flag=KR }:: **Korea A** |  |
+| **Germany A** ::{ flag=DE }:: | **3** | 1 | ::{ flag=TW }:: Taiwan B |  |
+| **France** ::{ flag=FR }:: | **3** | 0 | ::{ flag=PH }:: Philippines |  |
 
 Sunday, 26 February 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **United States B** ![][flag_US] | **3** | 1 | ![][flag_CL] Chile |  |
-| **United States A** ![][flag_US] | **3** | 0 | ![][flag_CN] China |  |
-| **Spain** ![][flag_ES] | **3** | 2 | ![][flag_AT] Austria |  |
-| Brazil ![][flag_BR] | 0 | **3** | ![][flag_JP] **Japan A** | *win by default* |
+| **United States B** ::{ flag=US }:: | **3** | 1 | ::{ flag=CL }:: Chile |  |
+| **United States A** ::{ flag=US }:: | **3** | 0 | ::{ flag=CN }:: China |  |
+| **Spain** ::{ flag=ES }:: | **3** | 2 | ::{ flag=AT }:: Austria |  |
+| Brazil ::{ flag=BR }:: | 0 | **3** | ::{ flag=JP }:: **Japan A** | *win by default* |
 
 ### Round 1-2
 
@@ -414,19 +414,19 @@ Saturday, 18 February 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Germany B ![][flag_DE] | 2 | **3** | ![][flag_HK] **Hong Kong A** |  |
-| **Macau** ![][flag_MO] | **3** | 2 | ![][flag_PL] Poland |  |
-| Germany A ![][flag_DE] | 1 | **3** | ![][flag_JP] **Japan A** |  |
-| **Korea A** ![][flag_KR] | **3** | 0 | ![][flag_ES] Spain |  |
+| Germany B ::{ flag=DE }:: | 2 | **3** | ::{ flag=HK }:: **Hong Kong A** |  |
+| **Macau** ::{ flag=MO }:: | **3** | 2 | ::{ flag=PL }:: Poland |  |
+| Germany A ::{ flag=DE }:: | 1 | **3** | ::{ flag=JP }:: **Japan A** |  |
+| **Korea A** ::{ flag=KR }:: | **3** | 0 | ::{ flag=ES }:: Spain |  |
 
 Sunday, 19 February 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Taiwan A** ![][flag_TW] | **3** | 0 | ![][flag_CA] Canada |  |
-| Malaysia ![][flag_MY] | 1 | **3** | ![][flag_KR] **Korea B** |  |
-| **Philippines** ![][flag_PH] | **3** | 0 | ![][flag_US] United States B |  |
-| Hong Kong B ![][flag_HK] | 0 | **3** | ![][flag_JP] **Japan B** |  |
+| **Taiwan A** ::{ flag=TW }:: | **3** | 0 | ::{ flag=CA }:: Canada |  |
+| Malaysia ::{ flag=MY }:: | 1 | **3** | ::{ flag=KR }:: **Korea B** |  |
+| **Philippines** ::{ flag=PH }:: | **3** | 0 | ::{ flag=US }:: United States B |  |
+| Hong Kong B ::{ flag=HK }:: | 0 | **3** | ::{ flag=JP }:: **Japan B** |  |
 
 ### Round 1-1
 
@@ -434,20 +434,20 @@ Saturday, 11 February 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **China** ![][flag_CN] | **3** | 0 | ![][flag_MY] Malaysia |  |
-| Macau ![][flag_MO] | 0 | **3** | ![][flag_DE] **Germany B** | *win by default* |
-| **Hong Kong A** ![][flag_HK] | **3** | 0 | ![][flag_PL] Poland |  |
-| Austria ![][flag_AT] | 0 | **3** | ![][flag_IT] ![][flag_NL] **Italy-Netherlands** |  |
-| **France** ![][flag_FR] | **3** | 0 | ![][flag_CL] Chile |  |
-| Brazil ![][flag_BR] | 0 | **3** | ![][flag_DE] **Germany A** |  |
-| Korea B ![][flag_KR] | 0 | **3** | ![][flag_US] **United States A** |  |
+| **China** ::{ flag=CN }:: | **3** | 0 | ::{ flag=MY }:: Malaysia |  |
+| Macau ::{ flag=MO }:: | 0 | **3** | ::{ flag=DE }:: **Germany B** | *win by default* |
+| **Hong Kong A** ::{ flag=HK }:: | **3** | 0 | ::{ flag=PL }:: Poland |  |
+| Austria ::{ flag=AT }:: | 0 | **3** | ::{ flag=IT }:: ::{ flag=NL }:: **Italy-Netherlands** |  |
+| **France** ::{ flag=FR }:: | **3** | 0 | ::{ flag=CL }:: Chile |  |
+| Brazil ::{ flag=BR }:: | 0 | **3** | ::{ flag=DE }:: **Germany A** |  |
+| Korea B ::{ flag=KR }:: | 0 | **3** | ::{ flag=US }:: **United States A** |  |
 
 Sunday, 12 February 2012:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Canada ![][flag_CA] | 1 | **3** | ![][flag_HK] **Hong Kong B** |  |
-| **Taiwan A** ![][flag_TW] | **3** | 0 | ![][flag_JP] Japan B |  |
+| Canada ::{ flag=CA }:: | 1 | **3** | ::{ flag=HK }:: **Hong Kong B** |  |
+| **Taiwan A** ::{ flag=TW }:: | **3** | 0 | ::{ flag=JP }:: Japan B |  |
 
 ## Ruleset
 

@@ -7,7 +7,7 @@ tags:
 
 ![o!BAM banner](img/banner.png) 
 
-The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimination 2v2 osu! tournament hosted by ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292) and ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976). It was the first instalment of the osu! Battle Archive Malaysia.
+The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimination 2v2 osu! tournament hosted by ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) and ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976). It was the first instalment of the osu! Battle Archive Malaysia.
 
 ## Tournament schedule
 
@@ -37,16 +37,16 @@ The osu! Battle Archive Malaysia was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) |
-| Administrator | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |
-| Mappool selector | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |
-| Streamer | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [Koyaiba](https://osu.ppy.sh/users/7062729) |
-| Commentator | ![][flag_MY] [MyAngelFable](https://osu.ppy.sh/users/11234664), ![][flag_MY] [Malaidan](https://osu.ppy.sh/users/14279913), ![][flag_MY] [fancyyy](https://osu.ppy.sh/users/12616268), ![][flag_MY] [sealw4ll](https://osu.ppy.sh/users/12289818), ![][flag_MY] [Banner](https://osu.ppy.sh/users/14290988), ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926), ![][flag_MY] [IHateAutoNicks](https://osu.ppy.sh/users/10758397), ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612) |
-| Referee | ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706), ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846), ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777), ![][flag_MY] [Wen4ng3L](https://osu.ppy.sh/users/9288833), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926) |
-| Graphic designer | ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594) |
-| Spreadsheet manager | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) |
-| Statistician | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Khoo Hao Yit](https://osu.ppy.sh/users/9534110) |
-| Wiki editor | ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594) |
+| Organiser | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292), ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976) |
+| Administrator | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=SG }:: [Ayucchi](https://osu.ppy.sh/users/7823498) |
+| Mappool selector | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292), ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976), ::{ flag=SG }:: [Ayucchi](https://osu.ppy.sh/users/7823498) |
+| Streamer | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=MY }:: [Koyaiba](https://osu.ppy.sh/users/7062729) |
+| Commentator | ::{ flag=MY }:: [MyAngelFable](https://osu.ppy.sh/users/11234664), ::{ flag=MY }:: [Malaidan](https://osu.ppy.sh/users/14279913), ::{ flag=MY }:: [fancyyy](https://osu.ppy.sh/users/12616268), ::{ flag=MY }:: [sealw4ll](https://osu.ppy.sh/users/12289818), ::{ flag=MY }:: [Banner](https://osu.ppy.sh/users/14290988), ::{ flag=MY }:: [MinaMyoui](https://osu.ppy.sh/users/6996926), ::{ flag=MY }:: [IHateAutoNicks](https://osu.ppy.sh/users/10758397), ::{ flag=MY }:: [Chiyuu](https://osu.ppy.sh/users/8226107), ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612) |
+| Referee | ::{ flag=MY }:: [Xyrelyx](https://osu.ppy.sh/users/3765632), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=MY }:: [Vexine](https://osu.ppy.sh/users/4042706), ::{ flag=FR }:: [Taevas](https://osu.ppy.sh/users/7276846), ::{ flag=MY }:: [DaNoobSlayaar](https://osu.ppy.sh/users/8688777), ::{ flag=MY }:: [Wen4ng3L](https://osu.ppy.sh/users/9288833), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=MY }:: [MinaMyoui](https://osu.ppy.sh/users/6996926) |
+| Graphic designer | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
+| Spreadsheet manager | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976) |
+| Statistician | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Khoo Hao Yit](https://osu.ppy.sh/users/9534110) |
+| Wiki editor | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
 
 ## Links
 
@@ -61,63 +61,63 @@ The osu! Battle Archive Malaysia was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **nomicstreamers** | ![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)**, ![][flag_MY] [ShaneLiang](https://osu.ppy.sh/users/6716499) |
-| **:seemsgood:** | ![][flag_MY] **[malaidan](https://osu.ppy.sh/users/14279913)**, ![][flag_MY] [haruchi](https://osu.ppy.sh/users/4845266) |
-| **1v2** | ![][flag_MY] **[Kumaxione](https://osu.ppy.sh/users/2582531)**, ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) |
-| **Cokoroi** | ![][flag_MY] **[Beckon](https://osu.ppy.sh/users/5114388)**, ![][flag_MY] [Low Sens Player](https://osu.ppy.sh/users/8892909) |
-| **KEMOMIMI EDM SKWAD** | ![][flag_MY] **[MeeSahKey](https://osu.ppy.sh/users/12353050)**, ![][flag_MY] [Eiya](https://osu.ppy.sh/users/9888771) |
-| **Like Father Like Son** | ![][flag_MY] **[Lucy_LuQ](https://osu.ppy.sh/users/14319338)**, ![][flag_MY] [Hachune Miku](https://osu.ppy.sh/users/10584780) |
-| **:okniceperson:** | ![][flag_MY] **[milo Penguin](https://osu.ppy.sh/users/10702232)**, ![][flag_MY] [Maopo](https://osu.ppy.sh/users/15293336) |
-| **pufferfishes** | ![][flag_MY] **[Watson Amelia](https://osu.ppy.sh/users/12674638)**, ![][flag_MY] [Mano Aloe](https://osu.ppy.sh/users/5429513) |
-| **Rocket League Players** | ![][flag_MY] **[GKen](https://osu.ppy.sh/users/12633052)**, ![][flag_MY] [LavenderEclipse](https://osu.ppy.sh/users/13510754) |
-| **Top 10 Anime Plot Twist** | ![][flag_MY] **[My Angel Petra](https://osu.ppy.sh/users/8691555)**, ![][flag_MY] [xArief](https://osu.ppy.sh/users/12694468) |
-| **hidden sucks** | ![][flag_MY] **[zorrospg](https://osu.ppy.sh/users/18042234)**, ![][flag_MY] [727 not funny](https://osu.ppy.sh/users/14844663) |
-| **"5 digit btw"** | ![][flag_MY] **[Zeph2003](https://osu.ppy.sh/users/10343292)**, ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) |
-| **Communist LSD enjoyers** | ![][flag_MY] **[TequilaWolf](https://osu.ppy.sh/users/3633477)**, ![][flag_MY] [seabee](https://osu.ppy.sh/users/13472074) |
-| **洪家派贸易有限公司 (Hongjiapai Trading Co., Ltd)** | ![][flag_MY] **[Ayumu Uehara](https://osu.ppy.sh/users/13626098)**, ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) |
-| **stwopid** | ![][flag_MY] **[Ltwoed](https://osu.ppy.sh/users/13670830)**, ![][flag_MY] [Cupid2](https://osu.ppy.sh/users/8189611) |
-| **Hutao Enjoyers** | ![][flag_MY] **[CookieDASH](https://osu.ppy.sh/users/8249895)**, ![][flag_MY] [Chibi Maruko](https://osu.ppy.sh/users/5585377) |
-| **Ahmad** | ![][flag_MY] **[domiyyyy](https://osu.ppy.sh/users/12126638)**, ![][flag_MY] [maharun](https://osu.ppy.sh/users/7537273) |
-| **cutest malaysia couple** | ![][flag_MY] **[Chiyuu](https://osu.ppy.sh/users/8226107)**, ![][flag_MY] [Zygody](https://osu.ppy.sh/users/3677251) |
-| **Horny 14s** | ![][flag_MY] **[Snowy5441](https://osu.ppy.sh/users/13865320)**, ![][flag_MY] [AsianEnd](https://osu.ppy.sh/users/17010088) |
-| **I was forced to play this** | ![][flag_MY] **[[Winter]](https://osu.ppy.sh/users/7373182)**, ![][flag_MY] [Fancyyy](https://osu.ppy.sh/users/12616268) |
-| **早上好中国现在我有冰激淋我很喜欢冰激淋 (Good Morning China I Have Ice Cream Now I Love Ice Cream)** | ![][flag_MY] **[sealw4ll](https://osu.ppy.sh/users/12289818)**, ![][flag_MY] [MinaMyoui](https://osu.ppy.sh/users/6996926) |
-| **The Alieppie Supremacy** | ![][flag_MY] **[Aleppie](https://osu.ppy.sh/users/766445)**, ![][flag_MY] [Alippie](https://osu.ppy.sh/users/13173302) |
-| **low combo SS** | ![][flag_MY] **[vernonlim](https://osu.ppy.sh/users/10167542)**, ![][flag_MY] [cloud_chaser02](https://osu.ppy.sh/users/7673764) |
-| **Mio Supremacy** | ![][flag_MY] **[Judicious](https://osu.ppy.sh/users/8087710)**, ![][flag_MY] [Changed](https://osu.ppy.sh/users/8009988) |
-| **safe spot** | ![][flag_MY] **[Addam](https://osu.ppy.sh/users/11716599)**, ![][flag_MY] [Kiddthehaz](https://osu.ppy.sh/users/10838547) |
-| **chunchunmaru** | ![][flag_MY] **[MyAngelFable](https://osu.ppy.sh/users/11234664)**, ![][flag_MY] [\_Rel\_](https://osu.ppy.sh/users/11622287) |
-| **play4fun** | ![][flag_MY] **[kurakura](https://osu.ppy.sh/users/15542056)**, ![][flag_MY] [afiqXD](https://osu.ppy.sh/users/15230343) |
-| **TUYU Enjoyers** | ![][flag_MY] **[Racers03](https://osu.ppy.sh/users/11621976)**, ![][flag_MY] [Yaro](https://osu.ppy.sh/users/9196013) |
-| **The Maid of Orléans** | ![][flag_MY] **[SuiseiMyWife](https://osu.ppy.sh/users/9773374)**, ![][flag_MY] [seoster](https://osu.ppy.sh/users/12841949) |
-| **Amamiya Kokoro** | ![][flag_MY] **[Floth](https://osu.ppy.sh/users/11134301)**, ![][flag_MY] [riwoto](https://osu.ppy.sh/users/18112324) |
-| **123ganggang** | ![][flag_MY] **[hilo123](https://osu.ppy.sh/users/9938586)**, ![][flag_MY] [Harga-](https://osu.ppy.sh/users/4903850) |
-| **ChuahKABOOM** | ![][flag_MY] **[Welon](https://osu.ppy.sh/users/6574787)**, ![][flag_MY] [messupsystem](https://osu.ppy.sh/users/8678004) |
-| **The Martin n willy show** | ![][flag_MY] **[Its not Marvin](https://osu.ppy.sh/users/13600612)**, ![][flag_MY] [Hanami-](https://osu.ppy.sh/users/8703188) |
-| **nasi goreng** | ![][flag_MY] **[HatsuneMiku02](https://osu.ppy.sh/users/14959895)**, ![][flag_MY] [RaphtaliaR](https://osu.ppy.sh/users/4318886) |
-| **5Digitbutn00b** | ![][flag_MY] **[lil scarce](https://osu.ppy.sh/users/11299087)**, ![][flag_MY] [D4rK4C1D](https://osu.ppy.sh/users/19727967) |
-| **Brown Switch Gaming** | ![][flag_MY] **[LITFAM123](https://osu.ppy.sh/users/13584478)**, ![][flag_MY] [Chiew](https://osu.ppy.sh/users/11378724) |
-| **IDoubleTapJumpMaps** | ![][flag_MY] **[GodKnows](https://osu.ppy.sh/users/11058193)**, ![][flag_MY] [IHateAutoNicks](https://osu.ppy.sh/users/10758397) |
-| **Ascendants** | ![][flag_MY] **[Inugami Korone](https://osu.ppy.sh/users/4474918)**, ![][flag_MY] [Mumei Nanashi](https://osu.ppy.sh/users/5414124/osu) |
-| **ur mom** | ![][flag_MY] **[Houshou Marine](https://osu.ppy.sh/users/6402211)**, ![][flag_MY] [Banner](https://osu.ppy.sh/users/14290988) |
-| **"oh no"** | ![][flag_MY] **[RushiaFanGirl](https://osu.ppy.sh/users/11918602)**, ![][flag_MY] [Illuxz](https://osu.ppy.sh/users/11916798) |
-| **雪花飘飘北风啸啸 (Snowflakes Fluttering North Wind Howling)** | ![][flag_MY] **[JKLiew02](https://osu.ppy.sh/users/17434745)**, ![][flag_MY] [Iyouka](https://osu.ppy.sh/users/7138499) |
-| **Chicken Sandwich** | ![][flag_MY] **[fernsfurn](https://osu.ppy.sh/users/14831389)**, ![][flag_MY] [Fuurin_Desu](https://osu.ppy.sh/users/18173411) |
-| **LOLI ANNIHILATOR** | ![][flag_MY] **[xanotic](https://osu.ppy.sh/users/18097295)**, ![][flag_MY] [[MY]ISPROGILER](https://osu.ppy.sh/users/10911621) |
-| **poggers9000** | ![][flag_MY] **[Hinnoa](https://osu.ppy.sh/users/11001723)**, ![][flag_MY] [Havvik](https://osu.ppy.sh/users/9868585) |
-| **Sheep** | ![][flag_MY] **[FaithInOsu](https://osu.ppy.sh/users/10178187)**, ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706) |
-| **i just cooked cheese** | ![][flag_MY] **[RyzenPP](https://osu.ppy.sh/users/16391241)**, ![][flag_MY] [NAVolkan](https://osu.ppy.sh/users/14981515) |
-| **Chicken Mutton** | ![][flag_MY] **[Inequality](https://osu.ppy.sh/users/8455034)**, ![][flag_MY] [Hiqal](https://osu.ppy.sh/users/13892584) |
-| **Penguin Enjoyers** | ![][flag_MY] **[wantoon](https://osu.ppy.sh/users/16042959)**, ![][flag_MY] [CXC1](https://osu.ppy.sh/users/12004902) |
-| **e** | ![][flag_MY] **[Eximious](https://osu.ppy.sh/users/19872191)**, ![][flag_MY] [_GRiD](https://osu.ppy.sh/users/20743023) |
-| **pen el grande** | ![][flag_MY] **[Zervail](https://osu.ppy.sh/users/13047340)**, ![][flag_MY] [DARKWEBXD](https://osu.ppy.sh/users/13060849) |
-| **amriourmommy** | ![][flag_MY] **[\[Fubuki\]](https://osu.ppy.sh/users/14411486)**, ![][flag_MY] [GideonTan](https://osu.ppy.sh/users/17426621) |
-| **Monkeybsns** | ![][flag_MY] **[ClawViper](https://osu.ppy.sh/users/2681361)**, ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134) |
-| **aidanyunusfanclub** | ![][flag_MY] **[pootisman1547](https://osu.ppy.sh/users/6611419)**, ![][flag_MY] [PenguinMann](https://osu.ppy.sh/users/18897374) |
-| **HD Sairyō** | ![][flag_MY] **[Benzi_LZK](https://osu.ppy.sh/users/12017783)**, ![][flag_MY] [Wish_](https://osu.ppy.sh/users/14300067) |
-| **wodehek** | ![][flag_MY] **[-Aozora](https://osu.ppy.sh/users/9720319)**, ![][flag_MY] [jon_yy](https://osu.ppy.sh/users/17402630) |
-| **Moist Shades** | ![][flag_MY] **[Aasheda_](https://osu.ppy.sh/users/7614055)**, ![][flag_MY] [ManzMalaya](https://osu.ppy.sh/users/3999924) |
-| **Amogus** | ![][flag_MY] **[Kayoris](https://osu.ppy.sh/users/11882627)**, ![][flag_MY] [Dxboy](https://osu.ppy.sh/users/14351567) |
+| **nomicstreamers** | ::{ flag=MY }:: **[DuoX](https://osu.ppy.sh/users/9560694)**, ::{ flag=MY }:: [ShaneLiang](https://osu.ppy.sh/users/6716499) |
+| **:seemsgood:** | ::{ flag=MY }:: **[malaidan](https://osu.ppy.sh/users/14279913)**, ::{ flag=MY }:: [haruchi](https://osu.ppy.sh/users/4845266) |
+| **1v2** | ::{ flag=MY }:: **[Kumaxione](https://osu.ppy.sh/users/2582531)**, ::{ flag=MY }:: [wuhua](https://osu.ppy.sh/users/2932510) |
+| **Cokoroi** | ::{ flag=MY }:: **[Beckon](https://osu.ppy.sh/users/5114388)**, ::{ flag=MY }:: [Low Sens Player](https://osu.ppy.sh/users/8892909) |
+| **KEMOMIMI EDM SKWAD** | ::{ flag=MY }:: **[MeeSahKey](https://osu.ppy.sh/users/12353050)**, ::{ flag=MY }:: [Eiya](https://osu.ppy.sh/users/9888771) |
+| **Like Father Like Son** | ::{ flag=MY }:: **[Lucy_LuQ](https://osu.ppy.sh/users/14319338)**, ::{ flag=MY }:: [Hachune Miku](https://osu.ppy.sh/users/10584780) |
+| **:okniceperson:** | ::{ flag=MY }:: **[milo Penguin](https://osu.ppy.sh/users/10702232)**, ::{ flag=MY }:: [Maopo](https://osu.ppy.sh/users/15293336) |
+| **pufferfishes** | ::{ flag=MY }:: **[Watson Amelia](https://osu.ppy.sh/users/12674638)**, ::{ flag=MY }:: [Mano Aloe](https://osu.ppy.sh/users/5429513) |
+| **Rocket League Players** | ::{ flag=MY }:: **[GKen](https://osu.ppy.sh/users/12633052)**, ::{ flag=MY }:: [LavenderEclipse](https://osu.ppy.sh/users/13510754) |
+| **Top 10 Anime Plot Twist** | ::{ flag=MY }:: **[My Angel Petra](https://osu.ppy.sh/users/8691555)**, ::{ flag=MY }:: [xArief](https://osu.ppy.sh/users/12694468) |
+| **hidden sucks** | ::{ flag=MY }:: **[zorrospg](https://osu.ppy.sh/users/18042234)**, ::{ flag=MY }:: [727 not funny](https://osu.ppy.sh/users/14844663) |
+| **"5 digit btw"** | ::{ flag=MY }:: **[Zeph2003](https://osu.ppy.sh/users/10343292)**, ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/3995630) |
+| **Communist LSD enjoyers** | ::{ flag=MY }:: **[TequilaWolf](https://osu.ppy.sh/users/3633477)**, ::{ flag=MY }:: [seabee](https://osu.ppy.sh/users/13472074) |
+| **洪家派贸易有限公司 (Hongjiapai Trading Co., Ltd)** | ::{ flag=MY }:: **[Ayumu Uehara](https://osu.ppy.sh/users/13626098)**, ::{ flag=MY }:: [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) |
+| **stwopid** | ::{ flag=MY }:: **[Ltwoed](https://osu.ppy.sh/users/13670830)**, ::{ flag=MY }:: [Cupid2](https://osu.ppy.sh/users/8189611) |
+| **Hutao Enjoyers** | ::{ flag=MY }:: **[CookieDASH](https://osu.ppy.sh/users/8249895)**, ::{ flag=MY }:: [Chibi Maruko](https://osu.ppy.sh/users/5585377) |
+| **Ahmad** | ::{ flag=MY }:: **[domiyyyy](https://osu.ppy.sh/users/12126638)**, ::{ flag=MY }:: [maharun](https://osu.ppy.sh/users/7537273) |
+| **cutest malaysia couple** | ::{ flag=MY }:: **[Chiyuu](https://osu.ppy.sh/users/8226107)**, ::{ flag=MY }:: [Zygody](https://osu.ppy.sh/users/3677251) |
+| **Horny 14s** | ::{ flag=MY }:: **[Snowy5441](https://osu.ppy.sh/users/13865320)**, ::{ flag=MY }:: [AsianEnd](https://osu.ppy.sh/users/17010088) |
+| **I was forced to play this** | ::{ flag=MY }:: **[[Winter]](https://osu.ppy.sh/users/7373182)**, ::{ flag=MY }:: [Fancyyy](https://osu.ppy.sh/users/12616268) |
+| **早上好中国现在我有冰激淋我很喜欢冰激淋 (Good Morning China I Have Ice Cream Now I Love Ice Cream)** | ::{ flag=MY }:: **[sealw4ll](https://osu.ppy.sh/users/12289818)**, ::{ flag=MY }:: [MinaMyoui](https://osu.ppy.sh/users/6996926) |
+| **The Alieppie Supremacy** | ::{ flag=MY }:: **[Aleppie](https://osu.ppy.sh/users/766445)**, ::{ flag=MY }:: [Alippie](https://osu.ppy.sh/users/13173302) |
+| **low combo SS** | ::{ flag=MY }:: **[vernonlim](https://osu.ppy.sh/users/10167542)**, ::{ flag=MY }:: [cloud_chaser02](https://osu.ppy.sh/users/7673764) |
+| **Mio Supremacy** | ::{ flag=MY }:: **[Judicious](https://osu.ppy.sh/users/8087710)**, ::{ flag=MY }:: [Changed](https://osu.ppy.sh/users/8009988) |
+| **safe spot** | ::{ flag=MY }:: **[Addam](https://osu.ppy.sh/users/11716599)**, ::{ flag=MY }:: [Kiddthehaz](https://osu.ppy.sh/users/10838547) |
+| **chunchunmaru** | ::{ flag=MY }:: **[MyAngelFable](https://osu.ppy.sh/users/11234664)**, ::{ flag=MY }:: [\_Rel\_](https://osu.ppy.sh/users/11622287) |
+| **play4fun** | ::{ flag=MY }:: **[kurakura](https://osu.ppy.sh/users/15542056)**, ::{ flag=MY }:: [afiqXD](https://osu.ppy.sh/users/15230343) |
+| **TUYU Enjoyers** | ::{ flag=MY }:: **[Racers03](https://osu.ppy.sh/users/11621976)**, ::{ flag=MY }:: [Yaro](https://osu.ppy.sh/users/9196013) |
+| **The Maid of Orléans** | ::{ flag=MY }:: **[SuiseiMyWife](https://osu.ppy.sh/users/9773374)**, ::{ flag=MY }:: [seoster](https://osu.ppy.sh/users/12841949) |
+| **Amamiya Kokoro** | ::{ flag=MY }:: **[Floth](https://osu.ppy.sh/users/11134301)**, ::{ flag=MY }:: [riwoto](https://osu.ppy.sh/users/18112324) |
+| **123ganggang** | ::{ flag=MY }:: **[hilo123](https://osu.ppy.sh/users/9938586)**, ::{ flag=MY }:: [Harga-](https://osu.ppy.sh/users/4903850) |
+| **ChuahKABOOM** | ::{ flag=MY }:: **[Welon](https://osu.ppy.sh/users/6574787)**, ::{ flag=MY }:: [messupsystem](https://osu.ppy.sh/users/8678004) |
+| **The Martin n willy show** | ::{ flag=MY }:: **[Its not Marvin](https://osu.ppy.sh/users/13600612)**, ::{ flag=MY }:: [Hanami-](https://osu.ppy.sh/users/8703188) |
+| **nasi goreng** | ::{ flag=MY }:: **[HatsuneMiku02](https://osu.ppy.sh/users/14959895)**, ::{ flag=MY }:: [RaphtaliaR](https://osu.ppy.sh/users/4318886) |
+| **5Digitbutn00b** | ::{ flag=MY }:: **[lil scarce](https://osu.ppy.sh/users/11299087)**, ::{ flag=MY }:: [D4rK4C1D](https://osu.ppy.sh/users/19727967) |
+| **Brown Switch Gaming** | ::{ flag=MY }:: **[LITFAM123](https://osu.ppy.sh/users/13584478)**, ::{ flag=MY }:: [Chiew](https://osu.ppy.sh/users/11378724) |
+| **IDoubleTapJumpMaps** | ::{ flag=MY }:: **[GodKnows](https://osu.ppy.sh/users/11058193)**, ::{ flag=MY }:: [IHateAutoNicks](https://osu.ppy.sh/users/10758397) |
+| **Ascendants** | ::{ flag=MY }:: **[Inugami Korone](https://osu.ppy.sh/users/4474918)**, ::{ flag=MY }:: [Mumei Nanashi](https://osu.ppy.sh/users/5414124/osu) |
+| **ur mom** | ::{ flag=MY }:: **[Houshou Marine](https://osu.ppy.sh/users/6402211)**, ::{ flag=MY }:: [Banner](https://osu.ppy.sh/users/14290988) |
+| **"oh no"** | ::{ flag=MY }:: **[RushiaFanGirl](https://osu.ppy.sh/users/11918602)**, ::{ flag=MY }:: [Illuxz](https://osu.ppy.sh/users/11916798) |
+| **雪花飘飘北风啸啸 (Snowflakes Fluttering North Wind Howling)** | ::{ flag=MY }:: **[JKLiew02](https://osu.ppy.sh/users/17434745)**, ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499) |
+| **Chicken Sandwich** | ::{ flag=MY }:: **[fernsfurn](https://osu.ppy.sh/users/14831389)**, ::{ flag=MY }:: [Fuurin_Desu](https://osu.ppy.sh/users/18173411) |
+| **LOLI ANNIHILATOR** | ::{ flag=MY }:: **[xanotic](https://osu.ppy.sh/users/18097295)**, ::{ flag=MY }:: [[MY]ISPROGILER](https://osu.ppy.sh/users/10911621) |
+| **poggers9000** | ::{ flag=MY }:: **[Hinnoa](https://osu.ppy.sh/users/11001723)**, ::{ flag=MY }:: [Havvik](https://osu.ppy.sh/users/9868585) |
+| **Sheep** | ::{ flag=MY }:: **[FaithInOsu](https://osu.ppy.sh/users/10178187)**, ::{ flag=MY }:: [Vexine](https://osu.ppy.sh/users/4042706) |
+| **i just cooked cheese** | ::{ flag=MY }:: **[RyzenPP](https://osu.ppy.sh/users/16391241)**, ::{ flag=MY }:: [NAVolkan](https://osu.ppy.sh/users/14981515) |
+| **Chicken Mutton** | ::{ flag=MY }:: **[Inequality](https://osu.ppy.sh/users/8455034)**, ::{ flag=MY }:: [Hiqal](https://osu.ppy.sh/users/13892584) |
+| **Penguin Enjoyers** | ::{ flag=MY }:: **[wantoon](https://osu.ppy.sh/users/16042959)**, ::{ flag=MY }:: [CXC1](https://osu.ppy.sh/users/12004902) |
+| **e** | ::{ flag=MY }:: **[Eximious](https://osu.ppy.sh/users/19872191)**, ::{ flag=MY }:: [_GRiD](https://osu.ppy.sh/users/20743023) |
+| **pen el grande** | ::{ flag=MY }:: **[Zervail](https://osu.ppy.sh/users/13047340)**, ::{ flag=MY }:: [DARKWEBXD](https://osu.ppy.sh/users/13060849) |
+| **amriourmommy** | ::{ flag=MY }:: **[\[Fubuki\]](https://osu.ppy.sh/users/14411486)**, ::{ flag=MY }:: [GideonTan](https://osu.ppy.sh/users/17426621) |
+| **Monkeybsns** | ::{ flag=MY }:: **[ClawViper](https://osu.ppy.sh/users/2681361)**, ::{ flag=MY }:: [Jeffrey](https://osu.ppy.sh/users/4777134) |
+| **aidanyunusfanclub** | ::{ flag=MY }:: **[pootisman1547](https://osu.ppy.sh/users/6611419)**, ::{ flag=MY }:: [PenguinMann](https://osu.ppy.sh/users/18897374) |
+| **HD Sairyō** | ::{ flag=MY }:: **[Benzi_LZK](https://osu.ppy.sh/users/12017783)**, ::{ flag=MY }:: [Wish_](https://osu.ppy.sh/users/14300067) |
+| **wodehek** | ::{ flag=MY }:: **[-Aozora](https://osu.ppy.sh/users/9720319)**, ::{ flag=MY }:: [jon_yy](https://osu.ppy.sh/users/17402630) |
+| **Moist Shades** | ::{ flag=MY }:: **[Aasheda_](https://osu.ppy.sh/users/7614055)**, ::{ flag=MY }:: [ManzMalaya](https://osu.ppy.sh/users/3999924) |
+| **Amogus** | ::{ flag=MY }:: **[Kayoris](https://osu.ppy.sh/users/11882627)**, ::{ flag=MY }:: [Dxboy](https://osu.ppy.sh/users/14351567) |
 
 ## Podium
 
@@ -125,9 +125,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **5 digit btw** (![][flag_MY] **[Zeph2003](https://osu.ppy.sh/users/10343292)**, ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **nomicstreamers** (![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)**, ![][flag_MY] [ShaneLiang](https://osu.ppy.sh/users/6716499)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Communist LSD enjoyers** (![][flag_MY] **[TequilaWolf](https://osu.ppy.sh/users/3633477)**, ![][flag_MY] [seabee](https://osu.ppy.sh/users/13472074)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **5 digit btw** (::{ flag=MY }:: **[Zeph2003](https://osu.ppy.sh/users/10343292)**, ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/3995630)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **nomicstreamers** (::{ flag=MY }:: **[DuoX](https://osu.ppy.sh/users/9560694)**, ::{ flag=MY }:: [ShaneLiang](https://osu.ppy.sh/users/6716499)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Communist LSD enjoyers** (::{ flag=MY }:: **[TequilaWolf](https://osu.ppy.sh/users/3633477)**, ::{ flag=MY }:: [seabee](https://osu.ppy.sh/users/13472074)) |
 
 ## Mappools
 
@@ -528,7 +528,7 @@ Wednesday, 15 September 2021:
 ### General Rules
 
 1. osu! Battle Archive Malaysia uses a double-elimination bracket and is a 2v2 osu! tournament.
-2. Only players with the country flag of ![][flag_MY] Malaysia may participate.
+2. Only players with the country flag of ::{ flag=MY }:: Malaysia may participate.
 3. Teams can only have 2 players. This means no substitution.
 4. The score system used will be **Score V2**.
 5. There is no solo rank range. A team rank range using the Badge Weighting System (BWS) is used instead with the following formula: `rank^(0.9937^(badges^2))`.

@@ -8,7 +8,7 @@ tags:
 
 ![CIC 2021 banner](img/banner.jpg)
 
-The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament was open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It was the ninth iteration of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ::{ flag=ID }:: [Eum](https://osu.ppy.sh/users/16552751). The tournament was open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It was the ninth iteration of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -38,14 +38,14 @@ CIC 2021 was run by various Indonesian osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751) |
-| Mappool selector | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
-| Streamer | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) |
-| Commentator | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869),  ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Shiviaren](https://osu.ppy.sh/users/3429259) |
-| Referee | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [Asqed](https://osu.ppy.sh/users/6525565), ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) |
-| Graphic designer | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
-| Spreadsheet manager | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
-| Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Eum](https://osu.ppy.sh/users/16552751) |
+| Mappool selector | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
+| Streamer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) |
+| Commentator | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869),  ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Shiviaren](https://osu.ppy.sh/users/3429259) |
+| Referee | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Koimeji](https://osu.ppy.sh/users/4137039), ::{ flag=ID }:: [Asqed](https://osu.ppy.sh/users/6525565), ::{ flag=ID }:: [moncar321](https://osu.ppy.sh/users/1400073) |
+| Graphic designer | ::{ flag=ID }:: [mina-](https://osu.ppy.sh/users/4670692), ::{ flag=ID }:: [Avoya](https://osu.ppy.sh/users/3136817) |
+| Spreadsheet manager | ::{ flag=ID }:: [Kazuyo](https://osu.ppy.sh/users/5604201) |
+| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
@@ -61,14 +61,14 @@ Listed below are players who qualified into the Group stage (along with their re
 
 | Group | Seed A | Seed B | Seed C | Seed D |
 | :-- | :-- | :-- | :-- | :-- |
-| A | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) |
-| B | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | ![][flag_ID] [Nekuro](https://osu.ppy.sh/users/3222638) | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) |
-| C | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | ![][flag_ID] [Pyrozen](https://osu.ppy.sh/users/3031177) | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | ![][flag_ID] [Kinora](https://osu.ppy.sh/users/20571283) |
-| D | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/9153772) |
-| E | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [Xtream1500](https://osu.ppy.sh/users/20740438) |
-| F | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) |
-| G | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) |
-| H | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) |
+| A | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | ::{ flag=ID }:: [Latina-](https://osu.ppy.sh/users/15015592) | ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788) | ::{ flag=ID }:: [Konami-kun](https://osu.ppy.sh/users/15931741) |
+| B | ::{ flag=ID }:: [LeWind](https://osu.ppy.sh/users/9718235) | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | ::{ flag=ID }:: [XxepandevanxX](https://osu.ppy.sh/users/13194580) | ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469) |
+| C | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | ::{ flag=ID }:: [Pyrozen](https://osu.ppy.sh/users/3031177) | ::{ flag=ID }:: [Riria Rakira](https://osu.ppy.sh/users/6310025) | ::{ flag=ID }:: [Kinora](https://osu.ppy.sh/users/20571283) |
+| D | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087) | ::{ flag=ID }:: [MrGulla](https://osu.ppy.sh/users/4540721) | ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772) |
+| E | ::{ flag=ID }:: [dedotikea](https://osu.ppy.sh/users/8805157) | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) | ::{ flag=ID }:: [BitDust](https://osu.ppy.sh/users/9573836) | ::{ flag=ID }:: [Xtream1500](https://osu.ppy.sh/users/20740438) |
+| F | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [by-ad](https://osu.ppy.sh/users/7439939) | ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307) | ::{ flag=ID }:: [Holicia](https://osu.ppy.sh/users/3212755) |
+| G | ::{ flag=ID }:: [Funtastic](https://osu.ppy.sh/users/3555626) | ::{ flag=ID }:: [mina-](https://osu.ppy.sh/users/4670692) | ::{ flag=ID }:: [ilhamuharam](https://osu.ppy.sh/users/7657968) | ::{ flag=ID }:: [ARTPHONEY](https://osu.ppy.sh/users/2128050) |
+| H | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | ::{ flag=ID }:: [Zylin](https://osu.ppy.sh/users/6692990) | ::{ flag=ID }:: [Neori\_gaming](https://osu.ppy.sh/users/10772518) |
 
 ## Podium
 
@@ -216,19 +216,19 @@ Friday, 30 July 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **7** | 1 | ![][flag_ID] [Nekuro](https://osu.ppy.sh/users/3222638) | [#1](https://osu.ppy.sh/community/matches/88329783) |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | [#1](https://osu.ppy.sh/community/matches/88329783) |
 
 Saturday, 31 July 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Nekuro](https://osu.ppy.sh/users/3222638) ![][flag_ID] | 2 | **7** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148)** | [#1](https://osu.ppy.sh/community/matches/88392375) |
+| Lower | [Nekuro](https://osu.ppy.sh/users/3222638) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[CamXDanna](https://osu.ppy.sh/users/3243148)** | [#1](https://osu.ppy.sh/community/matches/88392375) |
 
 Sunday, 1 August 2021, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **7** | 0 | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | [#1](https://osu.ppy.sh/community/matches/88449380) |
+| Grand Final | **[dika312](https://osu.ppy.sh/users/741613)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | [#1](https://osu.ppy.sh/community/matches/88449380) |
 
 ### Semifinals
 
@@ -236,21 +236,21 @@ Friday, 23 July 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Pyrozen](https://osu.ppy.sh/users/3031177) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | *win by default* |
-| Upper | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638)** | [#1](https://osu.ppy.sh/community/matches/87920148) |
+| Upper | [Pyrozen](https://osu.ppy.sh/users/3031177) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[dika312](https://osu.ppy.sh/users/741613)** | *win by default* |
+| Upper | [Suikami](https://osu.ppy.sh/users/1929336) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[Nekuro](https://osu.ppy.sh/users/3222638)** | [#1](https://osu.ppy.sh/community/matches/87920148) |
 
 Saturday, 24 July 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Pyrozen](https://osu.ppy.sh/users/3031177) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148)** | *win by default* |
-| Lower | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 2 | **6** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/87979007) |
+| Lower | [Pyrozen](https://osu.ppy.sh/users/3031177) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[CamXDanna](https://osu.ppy.sh/users/3243148)** | *win by default* |
+| Lower | [Suikami](https://osu.ppy.sh/users/1929336) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/87979007) |
 
 Sunday, 25 July 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[CamXDanna](https://osu.ppy.sh/users/3243148)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/88031955) |
+| Lower | **[CamXDanna](https://osu.ppy.sh/users/3243148)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/88031955) |
 
 ### Quarterfinals
 
@@ -258,26 +258,26 @@ Friday, 16 July 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Suikami](https://osu.ppy.sh/users/1929336)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939) | [#1](https://osu.ppy.sh/community/matches/87490047) |
-| Upper | **[Pyrozen](https://osu.ppy.sh/users/3031177)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | [#1](https://osu.ppy.sh/community/matches/87483233) |
-| Upper | [BitDust](https://osu.ppy.sh/users/9573836) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638)** | [#1](https://osu.ppy.sh/community/matches/87492466) |
-| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | [#1](https://osu.ppy.sh/community/matches/87485885) |
+| Upper | **[Suikami](https://osu.ppy.sh/users/1929336)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [by-ad](https://osu.ppy.sh/users/7439939) | [#1](https://osu.ppy.sh/community/matches/87490047) |
+| Upper | **[Pyrozen](https://osu.ppy.sh/users/3031177)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | [#1](https://osu.ppy.sh/community/matches/87483233) |
+| Upper | [BitDust](https://osu.ppy.sh/users/9573836) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Nekuro](https://osu.ppy.sh/users/3222638)** | [#1](https://osu.ppy.sh/community/matches/87492466) |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087) | [#1](https://osu.ppy.sh/community/matches/87485885) |
 
 Saturday, 17 July 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [BitDust](https://osu.ppy.sh/users/9573836) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/87546745) |
-| Lower | [Galaxi](https://osu.ppy.sh/users/2552435) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148)** | [#1](https://osu.ppy.sh/community/matches/87548787) |
-| Lower | [by-ad](https://osu.ppy.sh/users/7439939) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877)** | [#1](https://osu.ppy.sh/community/matches/87550793) |
-| Lower | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | [#1](https://osu.ppy.sh/community/matches/87553091) |
+| Lower | [BitDust](https://osu.ppy.sh/users/9573836) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/87546745) |
+| Lower | [Galaxi](https://osu.ppy.sh/users/2552435) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[CamXDanna](https://osu.ppy.sh/users/3243148)** | [#1](https://osu.ppy.sh/community/matches/87548787) |
+| Lower | [by-ad](https://osu.ppy.sh/users/7439939) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[Chroneko](https://osu.ppy.sh/users/5472877)** | [#1](https://osu.ppy.sh/community/matches/87550793) |
+| Lower | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | [#1](https://osu.ppy.sh/community/matches/87553091) |
 
 Sunday, 18 July 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/87612630) |
-| Lower | [Sololiquy](https://osu.ppy.sh/users/4350087) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148)** | [#1](https://osu.ppy.sh/community/matches/87615032) |
+| Lower | **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/87612630) |
+| Lower | [Sololiquy](https://osu.ppy.sh/users/4350087) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[CamXDanna](https://osu.ppy.sh/users/3243148)** | [#1](https://osu.ppy.sh/community/matches/87615032) |
 
 ### Round of 16
 
@@ -285,28 +285,28 @@ Friday, 9 July 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | [#1](https://osu.ppy.sh/community/matches/87058272) |
-| Upper | **[Galaxi](https://osu.ppy.sh/users/2552435)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/87055481) |
-| Upper | **[Pyrozen](https://osu.ppy.sh/users/3031177)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/87053060) |
+| Upper | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944) | [#1](https://osu.ppy.sh/community/matches/87058272) |
+| Upper | **[Galaxi](https://osu.ppy.sh/users/2552435)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/87055481) |
+| Upper | **[Pyrozen](https://osu.ppy.sh/users/3031177)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/87053060) |
 
 Saturday, 10 July 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | [#1](https://osu.ppy.sh/community/matches/87110808) |
-| Upper | **[Suikami](https://osu.ppy.sh/users/1929336)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | [#1](https://osu.ppy.sh/community/matches/87114367) |
-| Upper | **[by-ad](https://osu.ppy.sh/users/7439939)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/87116623) |
-| Upper | [mina-](https://osu.ppy.sh/users/4670692) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[BitDust](https://osu.ppy.sh/users/9573836)** | [#1](https://osu.ppy.sh/community/matches/87120194) |
-| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/87122424) |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | [#1](https://osu.ppy.sh/community/matches/87110808) |
+| Upper | **[Suikami](https://osu.ppy.sh/users/1929336)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Funtastic](https://osu.ppy.sh/users/3555626) | [#1](https://osu.ppy.sh/community/matches/87114367) |
+| Upper | **[by-ad](https://osu.ppy.sh/users/7439939)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/87116623) |
+| Upper | [mina-](https://osu.ppy.sh/users/4670692) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[BitDust](https://osu.ppy.sh/users/9573836)** | [#1](https://osu.ppy.sh/community/matches/87120194) |
+| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Holicia](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/87122424) |
 
 Sunday, 11 July 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | [#1](https://osu.ppy.sh/community/matches/87172954) |
-| Lower | **[CamXDanna](https://osu.ppy.sh/users/3243148)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | [#1](https://osu.ppy.sh/community/matches/87177296) |
-| Lower | **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/87169209) |
-| Lower | **[Dapuluous](https://osu.ppy.sh/users/8140944)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/87174852) |
+| Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [mina-](https://osu.ppy.sh/users/4670692) | [#1](https://osu.ppy.sh/community/matches/87172954) |
+| Lower | **[CamXDanna](https://osu.ppy.sh/users/3243148)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Funtastic](https://osu.ppy.sh/users/3555626) | [#1](https://osu.ppy.sh/community/matches/87177296) |
+| Lower | **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Holicia](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/87169209) |
+| Lower | **[Dapuluous](https://osu.ppy.sh/users/8140944)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/87174852) |
 
 ### Group stage
 
@@ -314,29 +314,29 @@ Friday, 2 July 2021:
 
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
-| **A** | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877) (13 pts)** | ![][flag_ID] **[Latina-](https://osu.ppy.sh/users/15015592) (9 pts[^tb-winner])** | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) (1 pt) | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) (9 pts[^tb-loser]) | [#1](https://osu.ppy.sh/community/matches/86649900) |
+| **A** | ::{ flag=ID }:: **[Chroneko](https://osu.ppy.sh/users/5472877) (13 pts)** | ::{ flag=ID }:: **[Latina-](https://osu.ppy.sh/users/15015592) (9 pts[^tb-winner])** | ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788) (1 pt) | ::{ flag=ID }:: [Konami-kun](https://osu.ppy.sh/users/15931741) (9 pts[^tb-loser]) | [#1](https://osu.ppy.sh/community/matches/86649900) |
 
 Saturday, 3 July 2021:
 
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
-| **C** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148) (10 pts)** | ![][flag_ID] **[Pyrozen](https://osu.ppy.sh/users/3031177) (14 pts)** | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) (8 pts) | ![][flag_ID] [Kinora](https://osu.ppy.sh/users/20571283) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86711638) |
-| **D** | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435) (9 pts)** | ![][flag_ID] **[Sololiquy](https://osu.ppy.sh/users/4350087) (14 pts)** | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) (6 pts) | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/86713789) (4 pts) | [#1](https://osu.ppy.sh/community/matches/86713789) |
+| **C** | ::{ flag=ID }:: **[CamXDanna](https://osu.ppy.sh/users/3243148) (10 pts)** | ::{ flag=ID }:: **[Pyrozen](https://osu.ppy.sh/users/3031177) (14 pts)** | ::{ flag=ID }:: [Riria Rakira](https://osu.ppy.sh/users/6310025) (8 pts) | ::{ flag=ID }:: [Kinora](https://osu.ppy.sh/users/20571283) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86711638) |
+| **D** | ::{ flag=ID }:: **[Galaxi](https://osu.ppy.sh/users/2552435) (9 pts)** | ::{ flag=ID }:: **[Sololiquy](https://osu.ppy.sh/users/4350087) (14 pts)** | ::{ flag=ID }:: [MrGulla](https://osu.ppy.sh/users/4540721) (6 pts) | ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/86713789) (4 pts) | [#1](https://osu.ppy.sh/community/matches/86713789) |
 
 Sunday, 4 July 2021:
 
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
-| **E** | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) (9 pts) | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336) (12 pts)** | ![][flag_ID] **[BitDust](https://osu.ppy.sh/users/9573836) (11 pts)** | ![][flag_ID] [Xtream1500](https://osu.ppy.sh/users/20740438) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86716701) |
-| **F** | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) (8 pts) | ![][flag_ID] **[by-ad](https://osu.ppy.sh/users/7439939) (10 pts[^tb-winner])** | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (4 pts) | ![][flag_ID] **[Holicia](https://osu.ppy.sh/users/3212755) (10 pts[^tb-loser])** | [#1](https://osu.ppy.sh/community/matches/86766389) |
-| **G** | ![][flag_ID] **[Funtastic](https://osu.ppy.sh/users/3555626) (11 pts)** | ![][flag_ID] **[mina-](https://osu.ppy.sh/users/4670692) (13 pts)** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) (3 pts) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) (5 pts) | [#1](https://osu.ppy.sh/community/matches/86767997) |
-| **H** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613) (16 pts)** | ![][flag_ID] **[Dapuluous](https://osu.ppy.sh/users/8140944) (9 pts[^tb-winner])** | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) (0 pts) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) (9 pts[^tb-loser]) | [#1](https://osu.ppy.sh/community/matches/86770044) |
+| **E** | ::{ flag=ID }:: [dedotikea](https://osu.ppy.sh/users/8805157) (9 pts) | ::{ flag=ID }:: **[Suikami](https://osu.ppy.sh/users/1929336) (12 pts)** | ::{ flag=ID }:: **[BitDust](https://osu.ppy.sh/users/9573836) (11 pts)** | ::{ flag=ID }:: [Xtream1500](https://osu.ppy.sh/users/20740438) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86716701) |
+| **F** | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) (8 pts) | ::{ flag=ID }:: **[by-ad](https://osu.ppy.sh/users/7439939) (10 pts[^tb-winner])** | ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307) (4 pts) | ::{ flag=ID }:: **[Holicia](https://osu.ppy.sh/users/3212755) (10 pts[^tb-loser])** | [#1](https://osu.ppy.sh/community/matches/86766389) |
+| **G** | ::{ flag=ID }:: **[Funtastic](https://osu.ppy.sh/users/3555626) (11 pts)** | ::{ flag=ID }:: **[mina-](https://osu.ppy.sh/users/4670692) (13 pts)** | ::{ flag=ID }:: [ilhamuharam](https://osu.ppy.sh/users/7657968) (3 pts) | ::{ flag=ID }:: [ARTPHONEY](https://osu.ppy.sh/users/2128050) (5 pts) | [#1](https://osu.ppy.sh/community/matches/86767997) |
+| **H** | ::{ flag=ID }:: **[dika312](https://osu.ppy.sh/users/741613) (16 pts)** | ::{ flag=ID }:: **[Dapuluous](https://osu.ppy.sh/users/8140944) (9 pts[^tb-winner])** | ::{ flag=ID }:: [Zylin](https://osu.ppy.sh/users/6692990) (0 pts) | ::{ flag=ID }:: [Neori\_gaming](https://osu.ppy.sh/users/10772518) (9 pts[^tb-loser]) | [#1](https://osu.ppy.sh/community/matches/86770044) |
 
 Monday, 5 July 2021:
 
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
-| **B** | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) (10 pts[^tb-loser]) | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638) (15 pts)** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580) (10 pts[^tb-winner])** | ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86758000) |
+| **B** | ::{ flag=ID }:: [LeWind](https://osu.ppy.sh/users/9718235) (10 pts[^tb-loser]) | ::{ flag=ID }:: **[Nekuro](https://osu.ppy.sh/users/3222638) (15 pts)** | ::{ flag=ID }:: **[XxepandevanxX](https://osu.ppy.sh/users/13194580) (10 pts[^tb-winner])** | ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86758000) |
 
 ## Ruleset
 

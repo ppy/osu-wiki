@@ -16,10 +16,10 @@ Dieses Bundle enthält vier Standardsongs, die in einer frischen osu!stream-Inst
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| nekodex - Liquid Future | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![7/10](img/dif7.png "7/10") |
-| tieff & Natteke - Endless Tower | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![2/10](img/dif2.png "2/10") |
-| tieff & Natteke - Sunrise | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![4/10](img/dif4.png "4/10") |
-| SkyMarshall - Hitchhikers | ![][flag_MX] [Gens](https://osu.ppy.sh/users/23062) | ![3/10](img/dif3.png "3/10") |
+| nekodex - Liquid Future | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | ![7/10](img/dif7.png "7/10") |
+| tieff & Natteke - Endless Tower | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | ![2/10](img/dif2.png "2/10") |
+| tieff & Natteke - Sunrise | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | ![4/10](img/dif4.png "4/10") |
+| SkyMarshall - Hitchhikers | ::{ flag=MX }:: [Gens](https://osu.ppy.sh/users/23062) | ![3/10](img/dif3.png "3/10") |
 
 Siehe auch:
 
@@ -38,8 +38,8 @@ Dieses Songpaket enthält zwei Songs von haru☆ und Garbled Waves.
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| haru☆ - March Handyman | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | ![4/10](img/dif4.png "4/10") |
-| Garbled Waves - Apatisk | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![6/10](img/dif6.png "6/10") |
+| haru☆ - March Handyman | ::{ flag=FR }:: [Sushi](https://osu.ppy.sh/users/43108) | ![4/10](img/dif4.png "4/10") |
+| Garbled Waves - Apatisk | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | ![6/10](img/dif6.png "6/10") |
 
 Siehe auch:
 
@@ -54,7 +54,7 @@ Dieses Songpaket enthält den Song *Want You Gone* von Jonathan Coulton (unter d
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| Aperture Science - Want You Gone | ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
+| Aperture Science - Want You Gone | ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
 
 Siehe auch:
 
@@ -68,8 +68,8 @@ Dieses Songpaket enthält zwei Songs von Bomb Boy und daniwellP.
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| Bomb Boy - Ignition, Set, GO! | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![8/10](img/dif8.png "8/10") |
-| daniwellP - Nekomimi Switch | Team STREAM (![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) und ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269)) | ![7/10](img/dif7.png "7/10") |
+| Bomb Boy - Ignition, Set, GO! | ::{ flag=GB }:: [D33d](https://osu.ppy.sh/users/791387) | ![8/10](img/dif8.png "8/10") |
+| daniwellP - Nekomimi Switch | Team STREAM (::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) und ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269)) | ![7/10](img/dif7.png "7/10") |
 
 Siehe auch:
 
@@ -84,10 +84,10 @@ Dieses Songpaket enthält vier Songs des außergewöhnlichen Rave-Musikers Crank
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| Cranky - 1970 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | ![4/10](img/dif4.png "4/10") |
-| Cranky - Crocus | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | ![4/10](img/dif4.png "4/10") |
-| Cranky - Into the Unknown | ![][flag_AU] [Samah](https://osu.ppy.sh/users/343490) | ![8/10](img/dif8.png "8/10") |
-| Cranky - Dee Dee Cee | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![9/10](img/dif9.png "9/10") |
+| Cranky - 1970 | ::{ flag=RU }:: [IceBeam](https://osu.ppy.sh/users/208440) | ![4/10](img/dif4.png "4/10") |
+| Cranky - Crocus | ::{ flag=SE }:: [Xgor](https://osu.ppy.sh/users/98661) | ![4/10](img/dif4.png "4/10") |
+| Cranky - Into the Unknown | ::{ flag=AU }:: [Samah](https://osu.ppy.sh/users/343490) | ![8/10](img/dif8.png "8/10") |
+| Cranky - Dee Dee Cee | ::{ flag=GB }:: [D33d](https://osu.ppy.sh/users/791387) | ![9/10](img/dif9.png "9/10") |
 
 Siehe auch:
 
@@ -102,10 +102,10 @@ Dieses Songpaket enthält vier Songs der amerikanischen Rockband OK Go.
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| OK Go - All Is Not Lost | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![5/10](img/dif5.png "5/10") |
-| OK Go - End Love | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![3/10](img/dif3.png "3/10") |
-| OK Go - This Too Shall Pass | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | ![7/10](img/dif7.png "7/10") |
-| OK Go - WTF | Team STREAM (![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) und ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)) | ![6/10](img/dif6.png "6/10") |
+| OK Go - All Is Not Lost | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | ![5/10](img/dif5.png "5/10") |
+| OK Go - End Love | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | ![3/10](img/dif3.png "3/10") |
+| OK Go - This Too Shall Pass | ::{ flag=AU }:: [m980](https://osu.ppy.sh/users/3288) | ![7/10](img/dif7.png "7/10") |
+| OK Go - WTF | Team STREAM (::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) und ::{ flag=AU }:: [Lilac](https://osu.ppy.sh/users/58197)) | ![6/10](img/dif6.png "6/10") |
 
 Siehe auch:
 
@@ -119,10 +119,10 @@ Dieses Songpaket enthält vier Songs, die von dem unabhängigen Plattenlabel Tsu
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| Koizumi UNDERGROUND - Get Back! | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![7/10](img/dif7.png "7/10") |
-| samplingmasters Koizumi - With Me | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![4/10](img/dif4.png "4/10") |
-| samplingmasters Koizumi - Love is a Danger Zone | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![6/10](img/dif6.png "6/10") |
-| samplingmasters Koizumi - Infinity Loop | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![7/10](img/dif7.png "7/10") |
+| Koizumi UNDERGROUND - Get Back! | ::{ flag=GB }:: [D33d](https://osu.ppy.sh/users/791387) | ![7/10](img/dif7.png "7/10") |
+| samplingmasters Koizumi - With Me | ::{ flag=GB }:: [D33d](https://osu.ppy.sh/users/791387) | ![4/10](img/dif4.png "4/10") |
+| samplingmasters Koizumi - Love is a Danger Zone | ::{ flag=GB }:: [D33d](https://osu.ppy.sh/users/791387) | ![6/10](img/dif6.png "6/10") |
+| samplingmasters Koizumi - Infinity Loop | ::{ flag=GB }:: [D33d](https://osu.ppy.sh/users/791387) | ![7/10](img/dif7.png "7/10") |
 
 Siehe auch:
 
@@ -136,10 +136,10 @@ Dieses Songpaket enthält vier elektronisch orientierte Songs von verschiedenen 
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| Kenneth Nilsen - Space Music | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![6/10](img/dif6.png "6/10") |
-| Kenneth Nilsen - Woohoo! | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | ![8/10](img/dif8.png "8/10") |
-| NIGHTkilla - Fracture | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![7/10](img/dif7.png "7/10") |
-| SkyMarshall - It's True | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![8/10](img/dif8.png "8/10") |
+| Kenneth Nilsen - Space Music | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | ![6/10](img/dif6.png "6/10") |
+| Kenneth Nilsen - Woohoo! | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | ![8/10](img/dif8.png "8/10") |
+| NIGHTkilla - Fracture | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | ![7/10](img/dif7.png "7/10") |
+| SkyMarshall - It's True | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | ![8/10](img/dif8.png "8/10") |
 
 Siehe auch:
 
@@ -155,10 +155,10 @@ Dieses Songpaket enthält vier Songs, die von dem Internet-Musikkollektiv Odysse
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| Odyssey - Wings of Burning Love | ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
-| Odyssey - Cherry Blossoms (2010 Mix) | ![][flag_GB] [Mashley](https://osu.ppy.sh/users/41481) | ![5/10](img/dif5.png "5/10") |
-| Mortimer - Rive | ![][flag_US] [ouranhshc](https://osu.ppy.sh/users/139493) | ![5/10](img/dif5.png "5/10") |
-| Travis Stebbins - Magnetic Love | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![3/10](img/dif3.png "3/10") |
+| Odyssey - Wings of Burning Love | ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
+| Odyssey - Cherry Blossoms (2010 Mix) | ::{ flag=GB }:: [Mashley](https://osu.ppy.sh/users/41481) | ![5/10](img/dif5.png "5/10") |
+| Mortimer - Rive | ::{ flag=US }:: [ouranhshc](https://osu.ppy.sh/users/139493) | ![5/10](img/dif5.png "5/10") |
+| Travis Stebbins - Magnetic Love | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | ![3/10](img/dif3.png "3/10") |
 
 Siehe auch:
 
@@ -172,10 +172,10 @@ Dieses Songpaket enthält vier Songs von SoulEye, die alle in dem Hit-Plattforms
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| Souleye - Positive Force | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![5/10](img/dif5.png "5/10") |
-| Souleye - Pressure Cooker | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | ![6/10](img/dif6.png "6/10") |
-| Souleye - Potential for Anything | ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
-| Souleye - Passion for Exploring | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![3/10](img/dif3.png "3/10") |
+| Souleye - Positive Force | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | ![5/10](img/dif5.png "5/10") |
+| Souleye - Pressure Cooker | ::{ flag=SE }:: [Xgor](https://osu.ppy.sh/users/98661) | ![6/10](img/dif6.png "6/10") |
+| Souleye - Potential for Anything | ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
+| Souleye - Passion for Exploring | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | ![3/10](img/dif3.png "3/10") |
 
 Siehe auch:
 
@@ -189,10 +189,10 @@ Dieses Songpaket enthält vier Songs des bekannten BMS-Musikproduzenten SHIKI.
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| SHIKI - Lapis | Team STREAM (![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) und ![][flag_FR] [Kurai](https://osu.ppy.sh/users/98661)) | ![5/10](img/dif5.png "5/10") |
-| SHIKI - Pure Ruby | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | ![9/10](img/dif9.png "9/10") |
-| SHIKI - BABYLON | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | ![8/10](img/dif8.png "8/10") |
-| SHIKI - Jade Star | ![][flag_KR] [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | ![7/10](img/dif7.png "7/10") |
+| SHIKI - Lapis | Team STREAM (::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) und ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/98661)) | ![5/10](img/dif5.png "5/10") |
+| SHIKI - Pure Ruby | ::{ flag=US }:: [Lybydose](https://osu.ppy.sh/users/64501) | ![9/10](img/dif9.png "9/10") |
+| SHIKI - BABYLON | ::{ flag=SE }:: [Xgor](https://osu.ppy.sh/users/98661) | ![8/10](img/dif8.png "8/10") |
+| SHIKI - Jade Star | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | ![7/10](img/dif7.png "7/10") |
 
 Siehe auch:
 
@@ -209,9 +209,9 @@ Ursprünglich war dieses Songpaket im Hauptspiel mit einer Preisangabe von USD$1
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
 | Amane - Eternal Fullmoon | *unbekannt* | *unbekannt* |
-| Amane - Snow, White, Echo | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | *unbekannt* |
-| sou1 - The Maid's Blood and the Pocket Watch | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) | *unbekannt* |
-| Lix - Phantom Ensemble -Ark Trance mix- | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | *unbekannt* |
+| Amane - Snow, White, Echo | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | *unbekannt* |
+| sou1 - The Maid's Blood and the Pocket Watch | ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993) | *unbekannt* |
+| Lix - Phantom Ensemble -Ark Trance mix- | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | *unbekannt* |
 
 Siehe auch:
 
@@ -230,9 +230,9 @@ Ursprünglich war dieses Songpaket im Hauptspiel mit einer Preisangabe von USD$1
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
 | Lix - Electro Magnetic Pulse | *unbekannt* | *unbekannt* |
-| haru☆ - Septette for the Dead Princess | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | *unbekannt* |
-| Amane - BOOZEHOUND (DJ mix) | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | *unbekannt* |
-| Amane - Being Proof | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | *unbekannt* |
+| haru☆ - Septette for the Dead Princess | ::{ flag=US }:: [Lybydose](https://osu.ppy.sh/users/64501) | *unbekannt* |
+| Amane - BOOZEHOUND (DJ mix) | ::{ flag=FR }:: [Sushi](https://osu.ppy.sh/users/43108) | *unbekannt* |
+| Amane - Being Proof | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | *unbekannt* |
 
 Siehe auch:
 

@@ -98,19 +98,19 @@ That concludes all the matches for this weekend! Good luck to all the remaining 
 
 | Team A |  |  | Team B | Match Time (UTC) |
 | --: | --: | :-- | :-- | :-: |
-| China | ![][flag_CN] | ![][flag_PH] | Philippines | **10:00 UTC** |
-| Australia | ![][flag_AU] | ![][flag_DE] | Germany | **11:00 UTC** |
-| Indonesia | ![][flag_ID] | ![][flag_JP] | Japan | **12:00 UTC** |
+| China | ::{ flag=CN }:: | ::{ flag=PH }:: | Philippines | **10:00 UTC** |
+| Australia | ::{ flag=AU }:: | ::{ flag=DE }:: | Germany | **11:00 UTC** |
+| Indonesia | ::{ flag=ID }:: | ::{ flag=JP }:: | Japan | **12:00 UTC** |
 
 ### Sunday, 25. February 2018
 
 | Team A |  |  | Team B | Match Time (UTC) |
 | --: | --: | :-- | :-- | :-: |
-| South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **2:00 UTC** |
-| Singapore | ![][flag_SG] | ![][flag_CL] | Chile | **3:00 UTC** |
-| United States | ![][flag_US] | ![][flag_MY] | Malaysia | **4:00 UTC** |
-| Italy | ![][flag_IT] | ![][flag_AR] | Argentina | **18:00 UTC** |
-| Canada | ![][flag_CA] | ![][flag_FR] | France | **19:00 UTC** |
+| South Korea | ::{ flag=KR }:: | ::{ flag=BR }:: | Brazil | **2:00 UTC** |
+| Singapore | ::{ flag=SG }:: | ::{ flag=CL }:: | Chile | **3:00 UTC** |
+| United States | ::{ flag=US }:: | ::{ flag=MY }:: | Malaysia | **4:00 UTC** |
+| Italy | ::{ flag=IT }:: | ::{ flag=AR }:: | Argentina | **18:00 UTC** |
+| Canada | ::{ flag=CA }:: | ::{ flag=FR }:: | France | **19:00 UTC** |
 
 **The first match of the Quarterfinals Stage will take place Saturday 10:00 UTC, 24th of February.** Team China will be facing off Team Philippines in the Winner's Bracket, so be sure to catch these two powerhouses duke it out on stream over on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
 

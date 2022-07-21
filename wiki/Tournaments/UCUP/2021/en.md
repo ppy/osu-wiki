@@ -10,7 +10,7 @@ tags:
 
 ![Ulat Cup 2021 logo](img/logo.jpg)
 
-The **Ulat Cup 2021** (***UCUP 2021***) was a double-elimination 2v2 osu! tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548). The tournament was open to all teams of two with an ![][flag_ID] Indonesian player as their captain regardless of rank. Despite the change in format from its previous iterations, the tournament was formally regarded as the fourth instalment of the Ulat Bulu Cup tournament series.
+The **Ulat Cup 2021** (***UCUP 2021***) was a double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548). The tournament was open to all teams of two with an ::{ flag=ID }:: Indonesian player as their captain regardless of rank. Despite the change in format from its previous iterations, the tournament was formally regarded as the fourth instalment of the Ulat Bulu Cup tournament series.
 
 ## Tournament schedule
 
@@ -42,15 +42,15 @@ UCUP 2021 was run by various osu! community members predominantly hailing from I
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
-| Supervisor | ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302) |
-| Mappool selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966) |
-| Streamer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_CA] [PuffedKirby](https://osu.ppy.sh/users/19165524) |
-| Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220) |
-| Referee | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [YaeMyMommy](https://osu.ppy.sh/users/17278897), ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581), ![][flag_ID] [Deorum](https://osu.ppy.sh/users/5933031), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919), ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [Yovifikri](https://osu.ppy.sh/users/3416659), ![][flag_CA] [I-Flame](https://osu.ppy.sh/users/11257542), ![][flag_CA] [wolfflow11](https://osu.ppy.sh/users/14491879), ![][flag_HK] [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ![][flag_SG] [Fuwub](https://osu.ppy.sh/users/14238097) |
-| Graphic designer | ![][flag_ID] [sho](https://osu.ppy.sh/users/6625422) |
-| Spreadsheet manager | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302) |
-| Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548) |
+| Supervisor | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174), ::{ flag=ID }:: [honeymint](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302) |
+| Mappool selector | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) |
+| Streamer | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Alice Pi](https://osu.ppy.sh/users/8787324), ::{ flag=CA }:: [PuffedKirby](https://osu.ppy.sh/users/19165524) |
+| Commentator | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Remuru](https://osu.ppy.sh/users/3654220) |
+| Referee | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=ID }:: [Xicyte](https://osu.ppy.sh/users/10212581), ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031), ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=ID }:: [Bunan-](https://osu.ppy.sh/users/2763354), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Yovifikri](https://osu.ppy.sh/users/3416659), ::{ flag=CA }:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=CA }:: [wolfflow11](https://osu.ppy.sh/users/14491879), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=SG }:: [Fuwub](https://osu.ppy.sh/users/14238097) |
+| Graphic designer | ::{ flag=ID }:: [sho](https://osu.ppy.sh/users/6625422) |
+| Spreadsheet manager | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302) |
+| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
@@ -66,38 +66,38 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 | Seed No. | Team Name | Player 1 (Captain) | Player 2 | Avg. Map Rank |
 | :-: | :-- | :-- | :-- | :-- |
-| 1 | Rushia | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_AU] [sakamata1](https://osu.ppy.sh/users/7562902) | 3.8 |
-| 2 | L9 Hamster | ![][flag_ID] [rHO](https://osu.ppy.sh/users/1629553) | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 3.9 |
-| 3 | CrezzMyMommy | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) | 4.8 |
-| 4 | Surtr S3 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | ![][flag_PL] [maliszewski](https://osu.ppy.sh/users/12408961) | 5.0 |
-| 5 | \|l\|l\|l\| | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | ![][flag_SG] [Tebi](https://osu.ppy.sh/users/5407620) | 6.0 |
-| 6 | :IofiPanic: | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | ![][flag_TW] [Shiina Noriko](https://osu.ppy.sh/users/1285637) | 8.3 |
-| 7 | Spacediver | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | 9.1 |
-| 8 | :hinamizada: | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) | 9.7 |
-| 9 | LewaToprak | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | ![][flag_AT] [Farmist](https://osu.ppy.sh/users/11470408) | 10.3 |
-| 10 | oogey rrrratt | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 11.7 |
-| 11 | Venception | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | ![][flag_US] [Venpris](https://osu.ppy.sh/users/8861593) | 11.8 |
-| 12 | i love tateyama | ![][flag_ID] [akebono](https://osu.ppy.sh/users/1815316) | ![][flag_US] [-Arko](https://osu.ppy.sh/users/8802914) | 11.9 |
-| 13 | having fun | ![][flag_ID] [D E L O N](https://osu.ppy.sh/users/11983229/) | ![][flag_IL] [MrPotato](https://osu.ppy.sh/users/2787415) | 12.8 |
-| 14 | nama tim | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | 14.8 |
-| 15 | momoteaStans | ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545) | ![][flag_US] [NekomataOkayu](https://osu.ppy.sh/users/9474976) | 15.9 |
-| 16 | yo | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | ![][flag_US] [xpliq](https://osu.ppy.sh/users/8699529) | 16.5 |
-| 17 | whatdoiputhere | ![][flag_ID] [Zoneeox](https://osu.ppy.sh/users/6596134) | ![][flag_ID] [Tazkiz](https://osu.ppy.sh/users/3738010) | 17.2 |
-| 18 | yoinkysploinky | ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206) | ![][flag_MY] [Zygody](https://osu.ppy.sh/users/3677251) | 18.8 |
-| 19 | dmk | ![][flag_ID] [DeZpair](https://osu.ppy.sh/users/7518843) | ![][flag_ID] [Castlefrost](https://osu.ppy.sh/users/11736996) | 19.2 |
-| 20 | osu winx club | ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604) | ![][flag_PH] [elki](https://osu.ppy.sh/users/8136525) | 19.9 |
-| 21 | skor buruk | ![][flag_ID] [StayMusical](https://osu.ppy.sh/users/12688176) | ![][flag_PH] [Jariru Tabirizu](https://osu.ppy.sh/users/8218190) | 20.6 |
-| 22 | Miko Bloom | ![][flag_ID] [Grandidierite](https://osu.ppy.sh/users/11976077) | ![][flag_GB] [TheUltimateBlah](https://osu.ppy.sh/users/12204079) | 24.3 |
-| 23 | taketake\_gif | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) | ![][flag_ID] [Picko](https://osu.ppy.sh/users/10459494) | 24.9 |
-| 24 | Shiroyami | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | ![][flag_ID] [Fazurey](https://osu.ppy.sh/users/6548973) | 25.0 |
-| 25 | :markus: | ![][flag_ID] [RealViolence](https://osu.ppy.sh/users/5638585) | ![][flag_ID] [121Brian121](https://osu.ppy.sh/users/6192975) | 25.9 |
-| 26 | idk any | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213) | 26.0 |
-| 27 | Pegmatite | ![][flag_ID] [Ceress](https://osu.ppy.sh/users/11062015) | ![][flag_ID] [rzkadi](https://osu.ppy.sh/users/2057576) | 27.5 |
-| 28 | Le Skillcapped | ![][flag_ID] [Shiiori](https://osu.ppy.sh/users/13799103) | ![][flag_ID] [nolae](https://osu.ppy.sh/users/8688737) | 27.6 |
-| 29 | kotori | ![][flag_ID] [Egao](https://osu.ppy.sh/users/12419257) | ![][flag_ID] [Hazui](https://osu.ppy.sh/users/9919208) | 28.5 |
-| 30 | marcus fancam | ![][flag_ID] [Celine](https://osu.ppy.sh/users/3545579) | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | 28.6 |
-| 31 | dead rats | ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284) | ![][flag_ID] [LaksPlayz](https://osu.ppy.sh/users/9519657) | 30.3 |
-| 32 | Rokok Lisan | ![][flag_ID] [hikimaruy](https://osu.ppy.sh/users/9510067) | ![][flag_ID] [Cudi](https://osu.ppy.sh/users/9974314) | 30.5 |
+| 1 | Rushia | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=AU }:: [sakamata1](https://osu.ppy.sh/users/7562902) | 3.8 |
+| 2 | L9 Hamster | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | 3.9 |
+| 3 | CrezzMyMommy | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) | ::{ flag=PH }:: [Rammu](https://osu.ppy.sh/users/10652837) | 4.8 |
+| 4 | Surtr S3 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | 5.0 |
+| 5 | \|l\|l\|l\| | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=SG }:: [Tebi](https://osu.ppy.sh/users/5407620) | 6.0 |
+| 6 | :IofiPanic: | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) | ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637) | 8.3 |
+| 7 | Spacediver | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) | 9.1 |
+| 8 | :hinamizada: | ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809) | ::{ flag=PE }:: [Arnold24x24](https://osu.ppy.sh/users/2291265) | 9.7 |
+| 9 | LewaToprak | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | ::{ flag=AT }:: [Farmist](https://osu.ppy.sh/users/11470408) | 10.3 |
+| 10 | oogey rrrratt | ::{ flag=ID }:: [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) | 11.7 |
+| 11 | Venception | ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) | ::{ flag=US }:: [Venpris](https://osu.ppy.sh/users/8861593) | 11.8 |
+| 12 | i love tateyama | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) | ::{ flag=US }:: [-Arko](https://osu.ppy.sh/users/8802914) | 11.9 |
+| 13 | having fun | ::{ flag=ID }:: [D E L O N](https://osu.ppy.sh/users/11983229/) | ::{ flag=IL }:: [MrPotato](https://osu.ppy.sh/users/2787415) | 12.8 |
+| 14 | nama tim | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) | ::{ flag=SG }:: [GSBlank](https://osu.ppy.sh/users/2312106) | 14.8 |
+| 15 | momoteaStans | ::{ flag=ID }:: [Kirinagi](https://osu.ppy.sh/users/5937545) | ::{ flag=US }:: [NekomataOkayu](https://osu.ppy.sh/users/9474976) | 15.9 |
+| 16 | yo | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | ::{ flag=US }:: [xpliq](https://osu.ppy.sh/users/8699529) | 16.5 |
+| 17 | whatdoiputhere | ::{ flag=ID }:: [Zoneeox](https://osu.ppy.sh/users/6596134) | ::{ flag=ID }:: [Tazkiz](https://osu.ppy.sh/users/3738010) | 17.2 |
+| 18 | yoinkysploinky | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) | ::{ flag=MY }:: [Zygody](https://osu.ppy.sh/users/3677251) | 18.8 |
+| 19 | dmk | ::{ flag=ID }:: [DeZpair](https://osu.ppy.sh/users/7518843) | ::{ flag=ID }:: [Castlefrost](https://osu.ppy.sh/users/11736996) | 19.2 |
+| 20 | osu winx club | ::{ flag=ID }:: [fry](https://osu.ppy.sh/users/4917604) | ::{ flag=PH }:: [elki](https://osu.ppy.sh/users/8136525) | 19.9 |
+| 21 | skor buruk | ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176) | ::{ flag=PH }:: [Jariru Tabirizu](https://osu.ppy.sh/users/8218190) | 20.6 |
+| 22 | Miko Bloom | ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) | ::{ flag=GB }:: [TheUltimateBlah](https://osu.ppy.sh/users/12204079) | 24.3 |
+| 23 | taketake\_gif | ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405) | ::{ flag=ID }:: [Picko](https://osu.ppy.sh/users/10459494) | 24.9 |
+| 24 | Shiroyami | ::{ flag=ID }:: [LoidKun](https://osu.ppy.sh/users/6437601) | ::{ flag=ID }:: [Fazurey](https://osu.ppy.sh/users/6548973) | 25.0 |
+| 25 | :markus: | ::{ flag=ID }:: [RealViolence](https://osu.ppy.sh/users/5638585) | ::{ flag=ID }:: [121Brian121](https://osu.ppy.sh/users/6192975) | 25.9 |
+| 26 | idk any | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) | ::{ flag=TH }:: [Deppyforce](https://osu.ppy.sh/users/5286213) | 26.0 |
+| 27 | Pegmatite | ::{ flag=ID }:: [Ceress](https://osu.ppy.sh/users/11062015) | ::{ flag=ID }:: [rzkadi](https://osu.ppy.sh/users/2057576) | 27.5 |
+| 28 | Le Skillcapped | ::{ flag=ID }:: [Shiiori](https://osu.ppy.sh/users/13799103) | ::{ flag=ID }:: [nolae](https://osu.ppy.sh/users/8688737) | 27.6 |
+| 29 | kotori | ::{ flag=ID }:: [Egao](https://osu.ppy.sh/users/12419257) | ::{ flag=ID }:: [Hazui](https://osu.ppy.sh/users/9919208) | 28.5 |
+| 30 | marcus fancam | ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/3545579) | ::{ flag=KR }:: [Heilia](https://osu.ppy.sh/users/9823042) | 28.6 |
+| 31 | dead rats | ::{ flag=ID }:: [FishStar](https://osu.ppy.sh/users/12563284) | ::{ flag=ID }:: [LaksPlayz](https://osu.ppy.sh/users/9519657) | 30.3 |
+| 32 | Rokok Lisan | ::{ flag=ID }:: [hikimaruy](https://osu.ppy.sh/users/9510067) | ::{ flag=ID }:: [Cudi](https://osu.ppy.sh/users/9974314) | 30.5 |
 
 ## Podium
 
@@ -105,9 +105,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Rushia** (![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222), ![][flag_AU] [sakamata1](https://osu.ppy.sh/users/7562902)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Surtr S3** (![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635), ![][flag_PL] [maliszewski](https://osu.ppy.sh/users/12408961)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **L9 Hamster** (![][flag_ID] [rHO](https://osu.ppy.sh/users/1629553), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Rushia** (::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222), ::{ flag=AU }:: [sakamata1](https://osu.ppy.sh/users/7562902)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Surtr S3** (::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635), ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **L9 Hamster** (::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553), ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008)) |
 
 ## Mappools
 
@@ -493,7 +493,7 @@ Sunday, 26 September 2021:
 ### Tournament registration
 
 1. All players who are interested in participating in the tournament are required to register as teams of two.
-   - In order to be eligible to play in the tournament, a team has to be captained by an ![][flag_ID] Indonesian player.
+   - In order to be eligible to play in the tournament, a team has to be captained by an ::{ flag=ID }:: Indonesian player.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the Tournament Management.
 3. The list of players and teams who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.

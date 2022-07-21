@@ -9,7 +9,7 @@ tags:
 
 > Uniting the mass diversity, NOW EXPANDED!
 
-The **Asian-Oceanian Taiko Showdown** (***AOTS***) was a 1v1 Asian and Oceanian double-elimination osu!taiko tournament hosted by ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third instalment of the Asian-Oceanian Taiko Showdown, and an extension from the Asia region to Asia and Oceania.
+The **Asian-Oceanian Taiko Showdown** (***AOTS***) was a 1v1 Asian and Oceanian double-elimination osu!taiko tournament hosted by ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078) and ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third instalment of the Asian-Oceanian Taiko Showdown, and an extension from the Asia region to Asia and Oceania.
 
 ## Tournament schedule
 
@@ -40,14 +40,14 @@ The Asian-Oceanian Taiko Showdown was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Mappool selector | ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401), ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822) |
-| Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| Streamer | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
-| Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |
-| Designer | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
-| Statistician | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Mappool selector | ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=US }:: [jyake](https://osu.ppy.sh/users/9099822) |
+| Referee | ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=AU }:: [ill onion](https://osu.ppy.sh/users/8306102), ::{ flag=RU }:: [Starger](https://osu.ppy.sh/users/3398715), ::{ flag=MY }:: [Stupid Idiot](https://osu.ppy.sh/users/8355574), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
+| Streamer | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) |
+| Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
+| Designer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867) |
+| Statistician | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -61,22 +61,22 @@ The Asian-Oceanian Taiko Showdown was run by various community members.
 
 | Seed | Players |
 | :-- | :-- |
-| Top | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_HK] [MTDex](https://osu.ppy.sh/users/9468283), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164), ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223), ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536), ![][flag_RU] [Naninub](https://osu.ppy.sh/users/8188876), ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) |
-| Mid | ![][flag_JP] [Xin Leviathan](https://osu.ppy.sh/users/9575624), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819), ![][flag_KR] [Tsuki\_yura](https://osu.ppy.sh/users/9262355), ![][flag_RU] [pavlukivan](https://osu.ppy.sh/users/8321579), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208) |
-| Low | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_RU] [JW-Dash](https://osu.ppy.sh/users/5285786), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666), ![][flag_ID] [Viewland](https://osu.ppy.sh/users/6250135), ![][flag_SG] [Kekneko](https://osu.ppy.sh/users/8414979), ![][flag_AU] [Olympyss](https://osu.ppy.sh/users/10654844) |
+| Top | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120), ::{ flag=HK }:: [MTDex](https://osu.ppy.sh/users/9468283), ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=KR }:: [Laby](https://osu.ppy.sh/users/9085164), ::{ flag=ID }:: [Roger](https://osu.ppy.sh/users/1538223), ::{ flag=TW }:: [TS\_LewisLuo](https://osu.ppy.sh/users/4337536), ::{ flag=RU }:: [Naninub](https://osu.ppy.sh/users/8188876), ::{ flag=ID }:: [ayomikasa](https://osu.ppy.sh/users/4866957) |
+| Mid | ::{ flag=JP }:: [Xin Leviathan](https://osu.ppy.sh/users/9575624), ::{ flag=KR }:: [BamgoeSN](https://osu.ppy.sh/users/1152851), ::{ flag=RU }:: [Dayzeek](https://osu.ppy.sh/users/5009970), ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819), ::{ flag=KR }:: [Tsuki\_yura](https://osu.ppy.sh/users/9262355), ::{ flag=RU }:: [pavlukivan](https://osu.ppy.sh/users/8321579), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=RU }:: [Nozdormu](https://osu.ppy.sh/users/7169208) |
+| Low | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183), ::{ flag=RU }:: [JW-Dash](https://osu.ppy.sh/users/5285786), ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666), ::{ flag=ID }:: [Viewland](https://osu.ppy.sh/users/6250135), ::{ flag=SG }:: [Kekneko](https://osu.ppy.sh/users/8414979), ::{ flag=AU }:: [Olympyss](https://osu.ppy.sh/users/10654844) |
 
 ## Groups
 
 | Group | Top seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- |
-| **A** | ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ![][flag_JP] [Xin Leviathan](https://osu.ppy.sh/users/9575624) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
-| **B** | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) | ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819) | ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183) |
-| **C** | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970) | ![][flag_RU] [JW-Dash](https://osu.ppy.sh/users/5285786) |
-| **D** | ![][flag_RU] [Naninub](https://osu.ppy.sh/users/8188876) | ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
-| **E** | ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164) | ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851) | ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666) |
-| **F** | ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831) | ![][flag_RU] [pavlukivan](https://osu.ppy.sh/users/8321579) | ![][flag_ID] [Viewland](https://osu.ppy.sh/users/6250135) |
-| **G** | ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | ![][flag_KR] [Tsuki\_yura](https://osu.ppy.sh/users/9262355) | ![][flag_SG] [Kekneko](https://osu.ppy.sh/users/8414979) |
-| **H** | ![][flag_HK] [MTDex](https://osu.ppy.sh/users/9468283) | ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) | ![][flag_AU] [Olympyss](https://osu.ppy.sh/users/10654844) |
+| **A** | ::{ flag=TW }:: [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ::{ flag=JP }:: [Xin Leviathan](https://osu.ppy.sh/users/9575624) | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) |
+| **B** | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) | ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) |
+| **C** | ::{ flag=ID }:: [ayomikasa](https://osu.ppy.sh/users/4866957) | ::{ flag=RU }:: [Dayzeek](https://osu.ppy.sh/users/5009970) | ::{ flag=RU }:: [JW-Dash](https://osu.ppy.sh/users/5285786) |
+| **D** | ::{ flag=RU }:: [Naninub](https://osu.ppy.sh/users/8188876) | ::{ flag=RU }:: [Nozdormu](https://osu.ppy.sh/users/7169208) | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
+| **E** | ::{ flag=KR }:: [Laby](https://osu.ppy.sh/users/9085164) | ::{ flag=KR }:: [BamgoeSN](https://osu.ppy.sh/users/1152851) | ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666) |
+| **F** | ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831) | ::{ flag=RU }:: [pavlukivan](https://osu.ppy.sh/users/8321579) | ::{ flag=ID }:: [Viewland](https://osu.ppy.sh/users/6250135) |
+| **G** | ::{ flag=ID }:: [Roger](https://osu.ppy.sh/users/1538223) | ::{ flag=KR }:: [Tsuki\_yura](https://osu.ppy.sh/users/9262355) | ::{ flag=SG }:: [Kekneko](https://osu.ppy.sh/users/8414979) |
+| **H** | ::{ flag=HK }:: [MTDex](https://osu.ppy.sh/users/9468283) | ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172) | ::{ flag=AU }:: [Olympyss](https://osu.ppy.sh/users/10654844) |
 
 ## Podium
 
@@ -84,9 +84,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_HK] [MTDex](https://osu.ppy.sh/users/9468283) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=HK }:: [MTDex](https://osu.ppy.sh/users/9468283) |
 
 ## Mappools
 
@@ -256,14 +256,14 @@ Saturday, 14 September 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Smallwu** ![][flag_TW] | **7** | 2 | ![][flag_HK] MTDex | [#1](https://osu.ppy.sh/community/matches/54840722) |
+| **Smallwu** ::{ flag=TW }:: | **7** | 2 | ::{ flag=HK }:: MTDex | [#1](https://osu.ppy.sh/community/matches/54840722) |
 
 Sunday, 15 September 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Saikoro ![][flag_JP] | 1 | **7** | ![][flag_TW] **Smallwu** | [#1](https://osu.ppy.sh/community/matches/54866050) |
-| **Smallwu** ![][flag_TW] | **7** | 2 | ![][flag_JP] Saikoro | [#1](https://osu.ppy.sh/community/matches/54867371) |
+| Saikoro ::{ flag=JP }:: | 1 | **7** | ::{ flag=TW }:: **Smallwu** | [#1](https://osu.ppy.sh/community/matches/54866050) |
+| **Smallwu** ::{ flag=TW }:: | **7** | 2 | ::{ flag=JP }:: Saikoro | [#1](https://osu.ppy.sh/community/matches/54867371) |
 
 ### Finals
 
@@ -271,15 +271,15 @@ Saturday, 7 September 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Roger ![][flag_ID] | 0 | **7** | ![][flag_HK] **MTDex** | *win by default* |
-| **Noko\_BSF** ![][flag_JP] | **7** | 3 | ![][flag_KR] Tsuki\_yura | [#1](https://osu.ppy.sh/community/matches/54667936) |
+| Roger ::{ flag=ID }:: | 0 | **7** | ::{ flag=HK }:: **MTDex** | *win by default* |
+| **Noko\_BSF** ::{ flag=JP }:: | **7** | 3 | ::{ flag=KR }:: Tsuki\_yura | [#1](https://osu.ppy.sh/community/matches/54667936) |
 
 Sunday, 8 September 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **MTDex** ![][flag_HK] | **7** | 4 | ![][flag_JP] Noko\_BSF | [#1](https://osu.ppy.sh/community/matches/54698287) |
-| **Saikoro** ![][flag_JP] | **7** | 4 | ![][flag_TW] Smallwu | [#1](https://osu.ppy.sh/community/matches/54700566) |
+| **MTDex** ::{ flag=HK }:: | **7** | 4 | ::{ flag=JP }:: Noko\_BSF | [#1](https://osu.ppy.sh/community/matches/54698287) |
+| **Saikoro** ::{ flag=JP }:: | **7** | 4 | ::{ flag=TW }:: Smallwu | [#1](https://osu.ppy.sh/community/matches/54700566) |
 
 ### Semifinals
 
@@ -287,18 +287,18 @@ Saturday, 31 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ayomikasa ![][flag_ID] | 3 | **6** | ![][flag_KR] **Tsuki\_yura** | [#1](https://osu.ppy.sh/community/matches/54494916) |
-| Briesmas ![][flag_JP] | 1 | **6** | ![][flag_TW] **TS\_LewisLuo** | [#1](https://osu.ppy.sh/community/matches/54498388) |
-| BamgoeSN ![][flag_KR] | 0 | **6** | ![][flag_RU] **Nozdormu** | *win by default* |
-| **Saikoro** ![][flag_JP] | **6** | 0 | ![][flag_ID] Roger | *win by default* |
-| Nozdormu ![][flag_RU] | 4 | **6** | ![][flag_KR] **Tsuki\_yura** | [#1](https://osu.ppy.sh/community/matches/54498388) |
+| ayomikasa ::{ flag=ID }:: | 3 | **6** | ::{ flag=KR }:: **Tsuki\_yura** | [#1](https://osu.ppy.sh/community/matches/54494916) |
+| Briesmas ::{ flag=JP }:: | 1 | **6** | ::{ flag=TW }:: **TS\_LewisLuo** | [#1](https://osu.ppy.sh/community/matches/54498388) |
+| BamgoeSN ::{ flag=KR }:: | 0 | **6** | ::{ flag=RU }:: **Nozdormu** | *win by default* |
+| **Saikoro** ::{ flag=JP }:: | **6** | 0 | ::{ flag=ID }:: Roger | *win by default* |
+| Nozdormu ::{ flag=RU }:: | 4 | **6** | ::{ flag=KR }:: **Tsuki\_yura** | [#1](https://osu.ppy.sh/community/matches/54498388) |
 
 Sunday, 1 September 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Dayzeek ![][flag_RU] | 1 | **6** | ![][flag_HK] **MTDex** | [#1](https://osu.ppy.sh/community/matches/54508129) |
-| **Smallwu** ![][flag_TW] | **6** | 2 | ![][flag_JP] Noko\_BSF | [#1](https://osu.ppy.sh/community/matches/54531477) |
+| Dayzeek ::{ flag=RU }:: | 1 | **6** | ::{ flag=HK }:: **MTDex** | [#1](https://osu.ppy.sh/community/matches/54508129) |
+| **Smallwu** ::{ flag=TW }:: | **6** | 2 | ::{ flag=JP }:: Noko\_BSF | [#1](https://osu.ppy.sh/community/matches/54531477) |
 
 ### Quarterfinals
 
@@ -306,24 +306,24 @@ Saturday, 24 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| BamgoeSN ![][flag_KR] | 2 | **5** | ![][flag_ID] **Roger** | [#1](https://osu.ppy.sh/community/matches/54312543) |
-| **Smallwu** ![][flag_TW] | **5** | 0 | ![][flag_RU] Dayzeek | [#1](https://osu.ppy.sh/community/matches/54314621) |
-| Laby ![][flag_KR] | 4 | **5** | ![][flag_KR] **Tsuki\_yura** | [#1](https://osu.ppy.sh/community/matches/54317388) |
-| **TS\_LewisLuo** ![][flag_TW] | **5** | 2 | ![][flag_RU] Naninub | [#1](https://osu.ppy.sh/community/matches/54320473) |
+| BamgoeSN ::{ flag=KR }:: | 2 | **5** | ::{ flag=ID }:: **Roger** | [#1](https://osu.ppy.sh/community/matches/54312543) |
+| **Smallwu** ::{ flag=TW }:: | **5** | 0 | ::{ flag=RU }:: Dayzeek | [#1](https://osu.ppy.sh/community/matches/54314621) |
+| Laby ::{ flag=KR }:: | 4 | **5** | ::{ flag=KR }:: **Tsuki\_yura** | [#1](https://osu.ppy.sh/community/matches/54317388) |
+| **TS\_LewisLuo** ::{ flag=TW }:: | **5** | 2 | ::{ flag=RU }:: Naninub | [#1](https://osu.ppy.sh/community/matches/54320473) |
 
 Sunday, 25 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| pavlukivan ![][flag_RU] | 1 | **5** | ![][flag_HK] **MTDex** | [#1](https://osu.ppy.sh/community/matches/54342639) |
-| **Noko\_BSF** ![][flag_JP] | **5** | 0 | ![][flag_JP] Briesmas | [#1](https://osu.ppy.sh/community/matches/54345544) |
-| **Saikoro** ![][flag_JP] | **5** | 2 | ![][flag_ID] ayomikasa | [#1](https://osu.ppy.sh/community/matches/54346824) |
+| pavlukivan ::{ flag=RU }:: | 1 | **5** | ::{ flag=HK }:: **MTDex** | [#1](https://osu.ppy.sh/community/matches/54342639) |
+| **Noko\_BSF** ::{ flag=JP }:: | **5** | 0 | ::{ flag=JP }:: Briesmas | [#1](https://osu.ppy.sh/community/matches/54345544) |
+| **Saikoro** ::{ flag=JP }:: | **5** | 2 | ::{ flag=ID }:: ayomikasa | [#1](https://osu.ppy.sh/community/matches/54346824) |
 
 Monday, 26 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Xin Leviathan ![][flag_JP] | 4 | **5** | ![][flag_RU] **Nozdormu** | [#1](https://osu.ppy.sh/community/matches/54352375) |
+| Xin Leviathan ::{ flag=JP }:: | 4 | **5** | ::{ flag=RU }:: **Nozdormu** | [#1](https://osu.ppy.sh/community/matches/54352375) |
 
 ### Round of 16
 
@@ -331,19 +331,19 @@ Saturday, 17 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Tsuki\_yura ![][flag_KR] | 2 | **5** | ![][flag_JP] **Briesmas** | [#1](https://osu.ppy.sh/community/matches/54139118) |
-| Laby ![][flag_KR] | 3 | **5** | ![][flag_JP] **Noko\_BSF** | [#1](https://osu.ppy.sh/community/matches/54142546) |
-| **Roger** ![][flag_ID] | **5** | 1 | ![][flag_HK] MTDex | [#1](https://osu.ppy.sh/community/matches/54145225) |
-| **Dayzeek** ![][flag_RU] | **5** | 2 | ![][flag_RU] Nozdormu | [#1](https://osu.ppy.sh/community/matches/54147814) |
+| Tsuki\_yura ::{ flag=KR }:: | 2 | **5** | ::{ flag=JP }:: **Briesmas** | [#1](https://osu.ppy.sh/community/matches/54139118) |
+| Laby ::{ flag=KR }:: | 3 | **5** | ::{ flag=JP }:: **Noko\_BSF** | [#1](https://osu.ppy.sh/community/matches/54142546) |
+| **Roger** ::{ flag=ID }:: | **5** | 1 | ::{ flag=HK }:: MTDex | [#1](https://osu.ppy.sh/community/matches/54145225) |
+| **Dayzeek** ::{ flag=RU }:: | **5** | 2 | ::{ flag=RU }:: Nozdormu | [#1](https://osu.ppy.sh/community/matches/54147814) |
 
 Sunday, 18 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **ayomikasa** ![][flag_ID] | **5** | 3 | ![][flag_RU] Naninub | [#1](https://osu.ppy.sh/community/matches/54166064) |
-| TS\_LewisLuo ![][flag_TW] | 3 | **5** | ![][flag_JP] **Saikoro** | [#1](https://osu.ppy.sh/community/matches/54167946) |
-| **BamgoeSN** ![][flag_KR] | **5** | 0 | ![][flag_RU] pavlukivan | *win by default* |
-| Xin Leviathan ![][flag_JP] | 4 | **5** | ![][flag_TW] **Smallwu** | [#1](https://osu.ppy.sh/community/matches/54195884) |
+| **ayomikasa** ::{ flag=ID }:: | **5** | 3 | ::{ flag=RU }:: Naninub | [#1](https://osu.ppy.sh/community/matches/54166064) |
+| TS\_LewisLuo ::{ flag=TW }:: | 3 | **5** | ::{ flag=JP }:: **Saikoro** | [#1](https://osu.ppy.sh/community/matches/54167946) |
+| **BamgoeSN** ::{ flag=KR }:: | **5** | 0 | ::{ flag=RU }:: pavlukivan | *win by default* |
+| Xin Leviathan ::{ flag=JP }:: | 4 | **5** | ::{ flag=TW }:: **Smallwu** | [#1](https://osu.ppy.sh/community/matches/54195884) |
 
 ### Group stage
 
@@ -351,45 +351,45 @@ Friday, 9 August 2019:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| B | **Saikoro** ![][flag_JP] | **4** | 0 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/53944103) |
-| B | **Smallwu** ![][flag_TW] | **4** | 3 | ![][flag_JP] Saikoro | [#1](https://osu.ppy.sh/community/matches/53945214) |
+| B | **Saikoro** ::{ flag=JP }:: | **4** | 0 | ::{ flag=AU }:: Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/53944103) |
+| B | **Smallwu** ::{ flag=TW }:: | **4** | 3 | ::{ flag=JP }:: Saikoro | [#1](https://osu.ppy.sh/community/matches/53945214) |
 
 Saturday, 10 August 2019:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F | **Noko\_BSF** ![][flag_JP] | **4** | 3 | ![][flag_ID] Viewland | [#1](https://osu.ppy.sh/community/matches/53951899) |
-| A | **TS\_LewisLuo** ![][flag_TW] | **4** | 2 | ![][flag_JP] Xin Leviathan | [#1](https://osu.ppy.sh/community/matches/53965199) |
-| G | **Tsuki\_yura** ![][flag_KR] | **4** | 0 | ![][flag_SG] Kekneko | [#1](https://osu.ppy.sh/community/matches/53965236) |
-| B | **Smallwu** ![][flag_TW] | **4** | 0 | ![][flag_AU] Tsubasa2 | *win by default* |
-| H | Briesmas ![][flag_JP] | 0 | **4** | ![][flag_HK] **MTDex** | *win by default* |
-| C | **ayomikasa** ![][flag_ID] | **4** | 3 | ![][flag_RU] Dayzeek | [#1](https://osu.ppy.sh/community/matches/53967790) |
-| E | **BamgoeSN** ![][flag_KR] | **4** | 2 | ![][flag_MY] Minisora | [#1](https://osu.ppy.sh/community/matches/53967600) |
-| C | **Dayzeek** ![][flag_RU] | **4** | 0 | ![][flag_RU] JW-Dash | [#1](https://osu.ppy.sh/community/matches/53970092) |
-| D | Nozdormu ![][flag_RU] | 1 | **4** | ![][flag_RU] **Naninub** | [#1](https://osu.ppy.sh/community/matches/53970092) |
-| D | **Nozdormu** ![][flag_RU] | **4** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/53972230) |
-| D | **Naninub** ![][flag_RU] | **4** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/53973675) |
+| F | **Noko\_BSF** ::{ flag=JP }:: | **4** | 3 | ::{ flag=ID }:: Viewland | [#1](https://osu.ppy.sh/community/matches/53951899) |
+| A | **TS\_LewisLuo** ::{ flag=TW }:: | **4** | 2 | ::{ flag=JP }:: Xin Leviathan | [#1](https://osu.ppy.sh/community/matches/53965199) |
+| G | **Tsuki\_yura** ::{ flag=KR }:: | **4** | 0 | ::{ flag=SG }:: Kekneko | [#1](https://osu.ppy.sh/community/matches/53965236) |
+| B | **Smallwu** ::{ flag=TW }:: | **4** | 0 | ::{ flag=AU }:: Tsubasa2 | *win by default* |
+| H | Briesmas ::{ flag=JP }:: | 0 | **4** | ::{ flag=HK }:: **MTDex** | *win by default* |
+| C | **ayomikasa** ::{ flag=ID }:: | **4** | 3 | ::{ flag=RU }:: Dayzeek | [#1](https://osu.ppy.sh/community/matches/53967790) |
+| E | **BamgoeSN** ::{ flag=KR }:: | **4** | 2 | ::{ flag=MY }:: Minisora | [#1](https://osu.ppy.sh/community/matches/53967600) |
+| C | **Dayzeek** ::{ flag=RU }:: | **4** | 0 | ::{ flag=RU }:: JW-Dash | [#1](https://osu.ppy.sh/community/matches/53970092) |
+| D | Nozdormu ::{ flag=RU }:: | 1 | **4** | ::{ flag=RU }:: **Naninub** | [#1](https://osu.ppy.sh/community/matches/53970092) |
+| D | **Nozdormu** ::{ flag=RU }:: | **4** | 1 | ::{ flag=MY }:: Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/53972230) |
+| D | **Naninub** ::{ flag=RU }:: | **4** | 1 | ::{ flag=MY }:: Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/53973675) |
 
 Sunday, 11 August 2019:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| A | **Xin Leviathan** ![][flag_JP] | **4** | 2 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/53989955) |
-| G | **Roger** ![][flag_ID] | **4** | 0 | ![][flag_SG] Kekneko | *win by default* |
-| A | **TS_LewisLuo** ![][flag_TW] | **4** | 2 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/53992994) |
-| H | **Briesmas** ![][flag_JP] | **4** | 0 | ![][flag_AU] Olympyss | [#1](https://osu.ppy.sh/community/matches/53993782) |
-| G | **Roger** ![][flag_ID] | **4** | 0 | ![][flag_KR] Tsuki\_yura | [#1](https://osu.ppy.sh/community/matches/53994594) |
-| E | **ayomikasa** ![][flag_ID] | **4** | 0 | ![][flag_RU] JW-Dash | [#1](https://osu.ppy.sh/community/matches/53994547) |
-| H | **MTDex** ![][flag_HK] | **4** | 0 | ![][flag_AU] Olympyss | [#1](https://osu.ppy.sh/community/matches/53994600) |
-| F | **pavlukivan** ![][flag_RU] | **4** | 0 | ![][flag_ID] Viewland | [#1](https://osu.ppy.sh/community/matches/53995118) |
-| F | **Noko\_BSF** ![][flag_JP] | **4** | 1 | ![][flag_RU] pavlukivan | [#1](https://osu.ppy.sh/community/matches/53997519) |
+| A | **Xin Leviathan** ::{ flag=JP }:: | **4** | 2 | ::{ flag=AU }:: Beat43210 | [#1](https://osu.ppy.sh/community/matches/53989955) |
+| G | **Roger** ::{ flag=ID }:: | **4** | 0 | ::{ flag=SG }:: Kekneko | *win by default* |
+| A | **TS_LewisLuo** ::{ flag=TW }:: | **4** | 2 | ::{ flag=AU }:: Beat43210 | [#1](https://osu.ppy.sh/community/matches/53992994) |
+| H | **Briesmas** ::{ flag=JP }:: | **4** | 0 | ::{ flag=AU }:: Olympyss | [#1](https://osu.ppy.sh/community/matches/53993782) |
+| G | **Roger** ::{ flag=ID }:: | **4** | 0 | ::{ flag=KR }:: Tsuki\_yura | [#1](https://osu.ppy.sh/community/matches/53994594) |
+| E | **ayomikasa** ::{ flag=ID }:: | **4** | 0 | ::{ flag=RU }:: JW-Dash | [#1](https://osu.ppy.sh/community/matches/53994547) |
+| H | **MTDex** ::{ flag=HK }:: | **4** | 0 | ::{ flag=AU }:: Olympyss | [#1](https://osu.ppy.sh/community/matches/53994600) |
+| F | **pavlukivan** ::{ flag=RU }:: | **4** | 0 | ::{ flag=ID }:: Viewland | [#1](https://osu.ppy.sh/community/matches/53995118) |
+| F | **Noko\_BSF** ::{ flag=JP }:: | **4** | 1 | ::{ flag=RU }:: pavlukivan | [#1](https://osu.ppy.sh/community/matches/53997519) |
 
 Monday, 12 August 2019:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| E | **Laby** ![][flag_KR] | **4** | 0 | ![][flag_MY] Minisora | [#1](https://osu.ppy.sh/community/matches/54020603) |
-| E | BamgoeSN ![][flag_KR] | 1 | **4** | ![][flag_FR] **Laby** | [#1](https://osu.ppy.sh/community/matches/54022655) |
+| E | **Laby** ::{ flag=KR }:: | **4** | 0 | ::{ flag=MY }:: Minisora | [#1](https://osu.ppy.sh/community/matches/54020603) |
+| E | BamgoeSN ::{ flag=KR }:: | 1 | **4** | ::{ flag=FR }:: **Laby** | [#1](https://osu.ppy.sh/community/matches/54022655) |
 
 ## Ruleset
 

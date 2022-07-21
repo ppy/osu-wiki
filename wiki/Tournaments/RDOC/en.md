@@ -15,4 +15,4 @@ The following users have been blacklisted from RDOC tournaments at some point.
 
 | User | Reason(s) | Punishment date | Release date |
 | :-: | :-: | :-: | :-: |
-| ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589) | Verbal abuse, no-showing | 2020-09-26 | 2021-09-26 |
+| ::{ flag=DK }:: [Contaminate](https://osu.ppy.sh/users/4694589) | Verbal abuse, no-showing | 2020-09-26 | 2021-09-26 |

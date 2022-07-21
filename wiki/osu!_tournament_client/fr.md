@@ -44,7 +44,7 @@ Pour les drapeaux personnalisés, les fichiers `.jpg` et `.png` sont acceptés. 
 
 Ce drapeau de l'Australie est un exemple de drapeau utilisant les spécifications correctes :
 
-![][flag_AU]
+::{ flag=AU }::
 
 Les drapeaux doivent être placés dans`<your-tournament>/Flags`. Les drapeaux peuvent ensuite être référencés dans l'éditeur d'équipe par leur nom de fichier sans l'extension de fichier.
 

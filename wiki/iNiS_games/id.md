@@ -18,7 +18,7 @@ tags:
 
 *Lihat juga: [osu! (disambiguasi)](/wiki/Disambiguation/osu!)*
 
-Nama "osu!" serta [mode permainan osu! itu sendiri](/wiki/Game_mode) berasal dari rangkaian *rhythm game* yang dikembangkan oleh **[iNiS](https://en.wikipedia.org/wiki/INiS)** untuk [Nintendo DS](https://id.wikipedia.org/wiki/Nintendo_DS) pada awal tahun 2000-an. Pada awal berdirinya osu!, ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) mengembangkan osu! sebagai suatu simulator dan editor level untuk permainan-permainan iNiS. Berhubung para anggota komunitas osu! di kala itu pada umumnya juga merupakan penggemar permainan-permainan yang sama, desain [beatmap-beatmap](/wiki/Beatmap) yang ada pada saat itu juga sangat dipengaruhi oleh level-level yang dibuat oleh iNiS.
+Nama "osu!" serta [mode permainan osu! itu sendiri](/wiki/Game_mode) berasal dari rangkaian *rhythm game* yang dikembangkan oleh **[iNiS](https://en.wikipedia.org/wiki/INiS)** untuk [Nintendo DS](https://id.wikipedia.org/wiki/Nintendo_DS) pada awal tahun 2000-an. Pada awal berdirinya osu!, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) mengembangkan osu! sebagai suatu simulator dan editor level untuk permainan-permainan iNiS. Berhubung para anggota komunitas osu! di kala itu pada umumnya juga merupakan penggemar permainan-permainan yang sama, desain [beatmap-beatmap](/wiki/Beatmap) yang ada pada saat itu juga sangat dipengaruhi oleh level-level yang dibuat oleh iNiS.
 
 Permainan-permainan iNis ini antara lain meliputi:
 

@@ -38,13 +38,13 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083) |
-| Mappool selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_BR] [Sillyfangirl](https://osu.ppy.sh/users/2288363), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) |
-| Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Empty\_Lotus](https://osu.ppy.sh/users/1212951), ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156) |
-| Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Empty\_Lotus](https://osu.ppy.sh/users/1212951) |
-| Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681), ![][flag_CN] [fazioli txt](https://osu.ppy.sh/users/9598315), ![][flag_CN] [-Se Tsu Nya-](https://osu.ppy.sh/users/6073139) |
-| Referee | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363) |
-| Statistician | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
+| Manager | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=NZ }:: [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ::{ flag=NZ }:: [Worms](https://osu.ppy.sh/users/1963937), ::{ flag=US }:: [dblade](https://osu.ppy.sh/users/4272841), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083) |
+| Mappool selector | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=NZ }:: [Worms](https://osu.ppy.sh/users/1963937), ::{ flag=BR }:: [Sillyfangirl](https://osu.ppy.sh/users/2288363), ::{ flag=MX }:: [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ::{ flag=US }:: [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ::{ flag=MX }:: [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) |
+| Streamer | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=NZ }:: [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [Empty\_Lotus](https://osu.ppy.sh/users/1212951), ::{ flag=CN }:: [Ayase Eli](https://osu.ppy.sh/users/6764156) |
+| Commentator | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=NZ }:: [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [Empty\_Lotus](https://osu.ppy.sh/users/1212951) |
+| Designer | ::{ flag=CN }:: [Dr\_Tissues](https://osu.ppy.sh/users/5106681), ::{ flag=CN }:: [fazioli txt](https://osu.ppy.sh/users/9598315), ::{ flag=CN }:: [-Se Tsu Nya-](https://osu.ppy.sh/users/6073139) |
+| Referee | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=NZ }:: [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363) |
+| Statistician | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
 
 ## Links
 
@@ -57,30 +57,30 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
 | Seed | Player |
 | :-: | :-- |
-| #1 | ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501) |
-| #2 | ![][flag_CN] [- xiaoluoli -](https://osu.ppy.sh/users/950281) |
-| #3 | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) |
-| #4 | ![][flag_TW] [AradORiOn\_MMM](https://osu.ppy.sh/users/7960927) |
-| #5 | ![][flag_CN] [Kakuko](https://osu.ppy.sh/users/10413362) |
-| #6 | ![][flag_TW] [AW ZERO](https://osu.ppy.sh/users/4415146) |
-| #7 | ![][flag_TW] [Sakaki](https://osu.ppy.sh/users/2656856) |
-| #8 | ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273) |
-| #9 | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
-| #10 | ![][flag_CN] [\[Crz\]HDRoop_7](https://osu.ppy.sh/users/6336721) |
-| #11 | ![][flag_CN] [Lo\_liFish2000](https://osu.ppy.sh/users/8828244) |
-| #12 | ![][flag_CN] [snowkyou](https://osu.ppy.sh/users/12513448) |
-| #13 | ![][flag_CN] [Namida KL](https://osu.ppy.sh/users/6889190) |
-| #14 | ![][flag_CN] [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
-| #15 | ![][flag_CN] [LFWY](https://osu.ppy.sh/users/8611484) |
-| #16 | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
-| #17 | ![][flag_CN] [ying huo](https://osu.ppy.sh/users/9077996) |
-| #18 | ![][flag_CN] [ImmortalphoeniX](https://osu.ppy.sh/users/7080633) |
-| #19 | ![][flag_CN] [Pureforever](https://osu.ppy.sh/users/11943671) |
-| #20 | ![][flag_CN] [\[RT\]Mrqianmo](https://osu.ppy.sh/users/10333067) |
-| #21 | ![][flag_CN] [\[Crz\]Serika](https://osu.ppy.sh/users/6701729) |
-| #22 | ![][flag_CN] [tyrcs](https://osu.ppy.sh/users/13026904) |
-| #23 | ![][flag_CN] [Ecivon](https://osu.ppy.sh/users/9430102) |
-| #24 | ![][flag_CN] [Stink God](https://osu.ppy.sh/users/7381269) |
+| #1 | ::{ flag=CN }:: [Tamaki Iroha](https://osu.ppy.sh/users/11238501) |
+| #2 | ::{ flag=CN }:: [- xiaoluoli -](https://osu.ppy.sh/users/950281) |
+| #3 | ::{ flag=HK }:: [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) |
+| #4 | ::{ flag=TW }:: [AradORiOn\_MMM](https://osu.ppy.sh/users/7960927) |
+| #5 | ::{ flag=CN }:: [Kakuko](https://osu.ppy.sh/users/10413362) |
+| #6 | ::{ flag=TW }:: [AW ZERO](https://osu.ppy.sh/users/4415146) |
+| #7 | ::{ flag=TW }:: [Sakaki](https://osu.ppy.sh/users/2656856) |
+| #8 | ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273) |
+| #9 | ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
+| #10 | ::{ flag=CN }:: [\[Crz\]HDRoop_7](https://osu.ppy.sh/users/6336721) |
+| #11 | ::{ flag=CN }:: [Lo\_liFish2000](https://osu.ppy.sh/users/8828244) |
+| #12 | ::{ flag=CN }:: [snowkyou](https://osu.ppy.sh/users/12513448) |
+| #13 | ::{ flag=CN }:: [Namida KL](https://osu.ppy.sh/users/6889190) |
+| #14 | ::{ flag=CN }:: [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
+| #15 | ::{ flag=CN }:: [LFWY](https://osu.ppy.sh/users/8611484) |
+| #16 | ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
+| #17 | ::{ flag=CN }:: [ying huo](https://osu.ppy.sh/users/9077996) |
+| #18 | ::{ flag=CN }:: [ImmortalphoeniX](https://osu.ppy.sh/users/7080633) |
+| #19 | ::{ flag=CN }:: [Pureforever](https://osu.ppy.sh/users/11943671) |
+| #20 | ::{ flag=CN }:: [\[RT\]Mrqianmo](https://osu.ppy.sh/users/10333067) |
+| #21 | ::{ flag=CN }:: [\[Crz\]Serika](https://osu.ppy.sh/users/6701729) |
+| #22 | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) |
+| #23 | ::{ flag=CN }:: [Ecivon](https://osu.ppy.sh/users/9430102) |
+| #24 | ::{ flag=CN }:: [Stink God](https://osu.ppy.sh/users/7381269) |
 
 ## Groups
 
@@ -98,9 +98,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=HK }:: [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
 
 ## Mappools
 

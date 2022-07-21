@@ -41,11 +41,11 @@ The osu!mania 4K World Cup 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
-| Mappool selector | ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
-| Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) |
+| Mappool selector | ::{ flag=US }:: [Dergo](https://osu.ppy.sh/users/7439226), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Referee | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Commentator | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=AU }:: [Lusty Platypus](https://osu.ppy.sh/users/2956184), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=ID }:: [-Rem-](https://osu.ppy.sh/users/5767941), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Statistician | ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
@@ -58,51 +58,51 @@ The osu!mania 4K World Cup 2019 was run by various community members.
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AR] | **Argentina** | **[jLuyalb](https://osu.ppy.sh/users/7093698)**, [aluuu](https://osu.ppy.sh/users/4585260), [BossPlays](https://osu.ppy.sh/users/7341471), [Carlos Menem](https://osu.ppy.sh/users/9817140), [repoz](https://osu.ppy.sh/users/6719880), [Spktr](https://osu.ppy.sh/users/9856089) |
-| ![][flag_AU] | **Australia** | **[PotassiumF](https://osu.ppy.sh/users/4247722)**, [anim girl](https://osu.ppy.sh/users/6378800), [anim gril](https://osu.ppy.sh/users/9527845), [ExVeemon](https://osu.ppy.sh/users/1249224), [Lusty Platypus](https://osu.ppy.sh/users/2956184), [Water is anim](https://osu.ppy.sh/users/8222416) |
-| ![][flag_BR] | **Brazil** | **[Lothus](https://osu.ppy.sh/users/9530019)**, [andreymc](https://osu.ppy.sh/users/5691061), [FelipeLink](https://osu.ppy.sh/users/4917435), [Kyut](https://osu.ppy.sh/users/9328824), [SillyFangirl](https://osu.ppy.sh/users/2288363), [UrsoManso](https://osu.ppy.sh/users/4569601) |
-| ![][flag_CA] | **Canada** | **[Piggy](https://osu.ppy.sh/users/5390121)**, [arpia97](https://osu.ppy.sh/users/6363008), [Genuine](https://osu.ppy.sh/users/5235597), [Kiyora](https://osu.ppy.sh/users/9675053), [NunotabaShinobu](https://osu.ppy.sh/users/10809497), [Stability](https://osu.ppy.sh/users/6701738) |
-| ![][flag_CL] | **Chile** | **[Sebaex](https://osu.ppy.sh/users/4686036)**, [Arkener](https://osu.ppy.sh/users/4116072), [Skalim](https://osu.ppy.sh/users/2225008), [tortutrigo](https://osu.ppy.sh/users/7465662), [Xan-](https://osu.ppy.sh/users/5919873), [Yusei5](https://osu.ppy.sh/users/8270984) |
-| ![][flag_CN] | **China** | **[\[Crz\]Satori](https://osu.ppy.sh/users/7082178)**, [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), [4kGameBye](https://osu.ppy.sh/users/89545), [DawnX](https://osu.ppy.sh/users/8534840) |
-| ![][flag_DK] | **Denmark** | **[Nibbe](https://osu.ppy.sh/users/5001658)**, [Crowii](https://osu.ppy.sh/users/3795152), [Jole](https://osu.ppy.sh/users/2883132) |
-| ![][flag_FI] | **Finland** | **[Daughter-](https://osu.ppy.sh/users/8370443)**, [KotiMamma](https://osu.ppy.sh/users/5671827), [Madkurre](https://osu.ppy.sh/users/7111892), [princesswell](https://osu.ppy.sh/users/4789005), [Strachy](https://osu.ppy.sh/users/9663200), [TheTrueXfish](https://osu.ppy.sh/users/12545346) |
-| ![][flag_FR] | **France** | **[Azubeur](https://osu.ppy.sh/users/1594604)**, [AntoAa](https://osu.ppy.sh/users/3897919), [Cunu](https://osu.ppy.sh/users/7190228), [Elementaires](https://osu.ppy.sh/users/2284328), [PatouZ](https://osu.ppy.sh/users/7306522), [pimoux](https://osu.ppy.sh/users/6183047) |
-| ![][flag_DE] | **Germany** | **[Malox](https://osu.ppy.sh/users/4516252)**, [-Dom-](https://osu.ppy.sh/users/5587671), [ElectroYan](https://osu.ppy.sh/users/3357640), [LastExceed](https://osu.ppy.sh/users/6232245), [Niko\_Plays](https://osu.ppy.sh/users/9409456), [tyro901](https://osu.ppy.sh/users/9764403) |
-| ![][flag_HK] | **Hong Kong** | **[Mooncha](https://osu.ppy.sh/users/5417362)**, [Ricizus](https://osu.ppy.sh/users/10395139), [Sn7\_1163](https://osu.ppy.sh/users/10353103), [Yana Feiya](https://osu.ppy.sh/users/7802517) |
-| ![][flag_ID] | **Indonesia** | **[-Rem-](https://osu.ppy.sh/users/5767941)**, [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224), [Exyph](https://osu.ppy.sh/users/10364342), [LordBoker-](https://osu.ppy.sh/users/3497139), [LuxAzure](https://osu.ppy.sh/users/6045757), [Reyi](https://osu.ppy.sh/users/13385865) |
-| ![][flag_IT] | **Italy** | **[\[Crz\]Cribob](https://osu.ppy.sh/users/8485394)**, [-extradoge-](https://osu.ppy.sh/users/9135468), [Kiraz](https://osu.ppy.sh/users/3807675), [Mura7797](https://osu.ppy.sh/users/3244389), [Nixo](https://osu.ppy.sh/users/6380163), [Saibel](https://osu.ppy.sh/users/2727928) |
-| ![][flag_JP] | **Japan** | **[jhleetgirl](https://osu.ppy.sh/users/10745260)**, [\[ misa \]](https://osu.ppy.sh/users/10011429), [\[Fairy\]Phy](https://osu.ppy.sh/users/4777360), [AMDuskia1996](https://osu.ppy.sh/users/10242062), [CrewK](https://osu.ppy.sh/users/11488604), [nyanmi-1828](https://osu.ppy.sh/users/6866480) |
-| ![][flag_MY] | **Malaysia** | **[Minisora](https://osu.ppy.sh/users/9627666)**, [\[MY\] Zylat](https://osu.ppy.sh/users/4836079), [Blethz](https://osu.ppy.sh/users/11918602), [Expired112](https://osu.ppy.sh/users/8782656), [kaname-san92](https://osu.ppy.sh/users/764535), [watarakisah](https://osu.ppy.sh/users/6237337) |
-| ![][flag_MX] | **Mexico** | **[Kaisteria](https://osu.ppy.sh/users/6507028)**, [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), [-Hellscythe-](https://osu.ppy.sh/users/7837147), [Manudekno](https://osu.ppy.sh/users/12472105), [Plutes](https://osu.ppy.sh/users/11188249) |
-| ![][flag_NL] | **Netherlands** | **[2fast4you98](https://osu.ppy.sh/users/5183940)**, [Bakuretsue](https://osu.ppy.sh/users/10960533), [Freek](https://osu.ppy.sh/users/9630674), [Hya](https://osu.ppy.sh/users/11636983), [NightNarumi](https://osu.ppy.sh/users/4381142), [samuelhklumpers](https://osu.ppy.sh/users/10945523) |
-| ![][flag_NO] | **Norway** | **[Bizarrely\_F4st](https://osu.ppy.sh/users/7676585)**, [giraray](https://osu.ppy.sh/users/11187151), [Jesen](https://osu.ppy.sh/users/9000473), [KarlF](https://osu.ppy.sh/users/3494742), [MartZOZ](https://osu.ppy.sh/users/9219513), [Zekronz](https://osu.ppy.sh/users/7220725) |
-| ![][flag_PE] | **Peru** | **[DaZeRo5](https://osu.ppy.sh/users/6114633)**, [adriancaba](https://osu.ppy.sh/users/11543837), [Ales GD](https://osu.ppy.sh/users/11930795), [Bereta](https://osu.ppy.sh/users/11410598), [zcristhianlx](https://osu.ppy.sh/users/9744385) |
-| ![][flag_PH] | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)**, [- Kura -](https://osu.ppy.sh/users/11420405), [arge-](https://osu.ppy.sh/users/9919550), [bojii](https://osu.ppy.sh/users/10083439), [Cielo Day](https://osu.ppy.sh/users/2722489), [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)**, [\_underjoy](https://osu.ppy.sh/users/2235750), [DaDarkDragon](https://osu.ppy.sh/users/8902097), [Hudonom](https://osu.ppy.sh/users/1654221), [SitekX](https://osu.ppy.sh/users/3840946), [Triksu](https://osu.ppy.sh/users/7233032) |
-| ![][flag_RU] | **Russian Federation** | **[YaLTeR](https://osu.ppy.sh/users/3910006)**, [AngeloLagusa](https://osu.ppy.sh/users/9074986), [c1e4r](https://osu.ppy.sh/users/8693182), [fegasaren0133](https://osu.ppy.sh/users/8035172), [Legend27](https://osu.ppy.sh/users/6283029), [Lerck](https://osu.ppy.sh/users/10450696) |
-| ![][flag_SG] | **Singapore** | **[ByeForNow](https://osu.ppy.sh/users/7199159)**, [jacketsniffer](https://osu.ppy.sh/users/7462804), [Jozzeh](https://osu.ppy.sh/users/9730535), [Polytetral](https://osu.ppy.sh/users/8612061), [Raveille](https://osu.ppy.sh/users/1388767), [-Yue-](https://osu.ppy.sh/users/9362562) |
-| ![][flag_KR] | **South Korea** | **[wonder5193](https://osu.ppy.sh/users/8474029)**, [blueBloody](https://osu.ppy.sh/users/8046839), [HIKANARI](https://osu.ppy.sh/users/4698728), [Kalkai](https://osu.ppy.sh/users/10790649), [Nausicaa](https://osu.ppy.sh/users/903155), [SuddenDeath](https://osu.ppy.sh/users/6699923) |
-| ![][flag_ES] | **Spain** | **[GreenSoul](https://osu.ppy.sh/users/8497100)**, [ElGuiller456](https://osu.ppy.sh/users/11309476), [Komirin](https://osu.ppy.sh/users/4725379) |
-| ![][flag_SE] | **Sweden** | **[Sadcat](https://osu.ppy.sh/users/4123399)**, [Akox-](https://osu.ppy.sh/users/7277169), [Vortex-](https://osu.ppy.sh/users/4999669), [Yoshiori](https://osu.ppy.sh/users/5045509) |
-| ![][flag_CH] | **Switzerland** | **[Gamer97](https://osu.ppy.sh/users/4952941)**, [Adyrem](https://osu.ppy.sh/users/8642966), [doere\_](https://osu.ppy.sh/users/8372292), [Tupidix](https://osu.ppy.sh/users/8655604) |
-| ![][flag_TW] | **Taiwan** | **[opl95173](https://osu.ppy.sh/users/7227070)**, [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), [2zi](https://osu.ppy.sh/users/10137329), [AradORiOn\_MMM](https://osu.ppy.sh/users/7960927), [AW ZERO](https://osu.ppy.sh/users/4415146), [luckygino](https://osu.ppy.sh/users/1967808) |
-| ![][flag_TH] | **Thailand** | **[MyZterioN-](https://osu.ppy.sh/users/8521723)**, [basicmaime](https://osu.ppy.sh/users/6537441), [BossMadWolf](https://osu.ppy.sh/users/2772110), [HowToPlayLN](https://osu.ppy.sh/users/10879600), [Nyarlahothep](https://osu.ppy.sh/users/2281110), [RuleBlazing](https://osu.ppy.sh/users/7312402) |
-| ![][flag_GB] | **United Kingdom** | **[PikachuNick](https://osu.ppy.sh/users/4168230)**, [Amascite](https://osu.ppy.sh/users/3359035), [itsjakey](https://osu.ppy.sh/users/3617889), [Pope Gadget](https://osu.ppy.sh/users/2288341), [SoFast](https://osu.ppy.sh/users/6504254), [xSnaggles](https://osu.ppy.sh/users/3799946) |
-| ![][flag_US] | **United States** | **[-Electro-](https://osu.ppy.sh/users/3251373)**, [\[Crz\]sel](https://osu.ppy.sh/users/9452257), [Gekido-](https://osu.ppy.sh/users/4693052), [Halogen-](https://osu.ppy.sh/users/169992), [Soir\_Dee](https://osu.ppy.sh/users/12028216), [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
-| ![][flag_VE] | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)**, [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [Cyssel](https://osu.ppy.sh/users/6394478), [Doryoku](https://osu.ppy.sh/users/5639725), [Edvo](https://osu.ppy.sh/users/8301758) |
+| ::{ flag=AR }:: | **Argentina** | **[jLuyalb](https://osu.ppy.sh/users/7093698)**, [aluuu](https://osu.ppy.sh/users/4585260), [BossPlays](https://osu.ppy.sh/users/7341471), [Carlos Menem](https://osu.ppy.sh/users/9817140), [repoz](https://osu.ppy.sh/users/6719880), [Spktr](https://osu.ppy.sh/users/9856089) |
+| ::{ flag=AU }:: | **Australia** | **[PotassiumF](https://osu.ppy.sh/users/4247722)**, [anim girl](https://osu.ppy.sh/users/6378800), [anim gril](https://osu.ppy.sh/users/9527845), [ExVeemon](https://osu.ppy.sh/users/1249224), [Lusty Platypus](https://osu.ppy.sh/users/2956184), [Water is anim](https://osu.ppy.sh/users/8222416) |
+| ::{ flag=BR }:: | **Brazil** | **[Lothus](https://osu.ppy.sh/users/9530019)**, [andreymc](https://osu.ppy.sh/users/5691061), [FelipeLink](https://osu.ppy.sh/users/4917435), [Kyut](https://osu.ppy.sh/users/9328824), [SillyFangirl](https://osu.ppy.sh/users/2288363), [UrsoManso](https://osu.ppy.sh/users/4569601) |
+| ::{ flag=CA }:: | **Canada** | **[Piggy](https://osu.ppy.sh/users/5390121)**, [arpia97](https://osu.ppy.sh/users/6363008), [Genuine](https://osu.ppy.sh/users/5235597), [Kiyora](https://osu.ppy.sh/users/9675053), [NunotabaShinobu](https://osu.ppy.sh/users/10809497), [Stability](https://osu.ppy.sh/users/6701738) |
+| ::{ flag=CL }:: | **Chile** | **[Sebaex](https://osu.ppy.sh/users/4686036)**, [Arkener](https://osu.ppy.sh/users/4116072), [Skalim](https://osu.ppy.sh/users/2225008), [tortutrigo](https://osu.ppy.sh/users/7465662), [Xan-](https://osu.ppy.sh/users/5919873), [Yusei5](https://osu.ppy.sh/users/8270984) |
+| ::{ flag=CN }:: | **China** | **[\[Crz\]Satori](https://osu.ppy.sh/users/7082178)**, [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), [4kGameBye](https://osu.ppy.sh/users/89545), [DawnX](https://osu.ppy.sh/users/8534840) |
+| ::{ flag=DK }:: | **Denmark** | **[Nibbe](https://osu.ppy.sh/users/5001658)**, [Crowii](https://osu.ppy.sh/users/3795152), [Jole](https://osu.ppy.sh/users/2883132) |
+| ::{ flag=FI }:: | **Finland** | **[Daughter-](https://osu.ppy.sh/users/8370443)**, [KotiMamma](https://osu.ppy.sh/users/5671827), [Madkurre](https://osu.ppy.sh/users/7111892), [princesswell](https://osu.ppy.sh/users/4789005), [Strachy](https://osu.ppy.sh/users/9663200), [TheTrueXfish](https://osu.ppy.sh/users/12545346) |
+| ::{ flag=FR }:: | **France** | **[Azubeur](https://osu.ppy.sh/users/1594604)**, [AntoAa](https://osu.ppy.sh/users/3897919), [Cunu](https://osu.ppy.sh/users/7190228), [Elementaires](https://osu.ppy.sh/users/2284328), [PatouZ](https://osu.ppy.sh/users/7306522), [pimoux](https://osu.ppy.sh/users/6183047) |
+| ::{ flag=DE }:: | **Germany** | **[Malox](https://osu.ppy.sh/users/4516252)**, [-Dom-](https://osu.ppy.sh/users/5587671), [ElectroYan](https://osu.ppy.sh/users/3357640), [LastExceed](https://osu.ppy.sh/users/6232245), [Niko\_Plays](https://osu.ppy.sh/users/9409456), [tyro901](https://osu.ppy.sh/users/9764403) |
+| ::{ flag=HK }:: | **Hong Kong** | **[Mooncha](https://osu.ppy.sh/users/5417362)**, [Ricizus](https://osu.ppy.sh/users/10395139), [Sn7\_1163](https://osu.ppy.sh/users/10353103), [Yana Feiya](https://osu.ppy.sh/users/7802517) |
+| ::{ flag=ID }:: | **Indonesia** | **[-Rem-](https://osu.ppy.sh/users/5767941)**, [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224), [Exyph](https://osu.ppy.sh/users/10364342), [LordBoker-](https://osu.ppy.sh/users/3497139), [LuxAzure](https://osu.ppy.sh/users/6045757), [Reyi](https://osu.ppy.sh/users/13385865) |
+| ::{ flag=IT }:: | **Italy** | **[\[Crz\]Cribob](https://osu.ppy.sh/users/8485394)**, [-extradoge-](https://osu.ppy.sh/users/9135468), [Kiraz](https://osu.ppy.sh/users/3807675), [Mura7797](https://osu.ppy.sh/users/3244389), [Nixo](https://osu.ppy.sh/users/6380163), [Saibel](https://osu.ppy.sh/users/2727928) |
+| ::{ flag=JP }:: | **Japan** | **[jhleetgirl](https://osu.ppy.sh/users/10745260)**, [\[ misa \]](https://osu.ppy.sh/users/10011429), [\[Fairy\]Phy](https://osu.ppy.sh/users/4777360), [AMDuskia1996](https://osu.ppy.sh/users/10242062), [CrewK](https://osu.ppy.sh/users/11488604), [nyanmi-1828](https://osu.ppy.sh/users/6866480) |
+| ::{ flag=MY }:: | **Malaysia** | **[Minisora](https://osu.ppy.sh/users/9627666)**, [\[MY\] Zylat](https://osu.ppy.sh/users/4836079), [Blethz](https://osu.ppy.sh/users/11918602), [Expired112](https://osu.ppy.sh/users/8782656), [kaname-san92](https://osu.ppy.sh/users/764535), [watarakisah](https://osu.ppy.sh/users/6237337) |
+| ::{ flag=MX }:: | **Mexico** | **[Kaisteria](https://osu.ppy.sh/users/6507028)**, [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), [-Hellscythe-](https://osu.ppy.sh/users/7837147), [Manudekno](https://osu.ppy.sh/users/12472105), [Plutes](https://osu.ppy.sh/users/11188249) |
+| ::{ flag=NL }:: | **Netherlands** | **[2fast4you98](https://osu.ppy.sh/users/5183940)**, [Bakuretsue](https://osu.ppy.sh/users/10960533), [Freek](https://osu.ppy.sh/users/9630674), [Hya](https://osu.ppy.sh/users/11636983), [NightNarumi](https://osu.ppy.sh/users/4381142), [samuelhklumpers](https://osu.ppy.sh/users/10945523) |
+| ::{ flag=NO }:: | **Norway** | **[Bizarrely\_F4st](https://osu.ppy.sh/users/7676585)**, [giraray](https://osu.ppy.sh/users/11187151), [Jesen](https://osu.ppy.sh/users/9000473), [KarlF](https://osu.ppy.sh/users/3494742), [MartZOZ](https://osu.ppy.sh/users/9219513), [Zekronz](https://osu.ppy.sh/users/7220725) |
+| ::{ flag=PE }:: | **Peru** | **[DaZeRo5](https://osu.ppy.sh/users/6114633)**, [adriancaba](https://osu.ppy.sh/users/11543837), [Ales GD](https://osu.ppy.sh/users/11930795), [Bereta](https://osu.ppy.sh/users/11410598), [zcristhianlx](https://osu.ppy.sh/users/9744385) |
+| ::{ flag=PH }:: | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)**, [- Kura -](https://osu.ppy.sh/users/11420405), [arge-](https://osu.ppy.sh/users/9919550), [bojii](https://osu.ppy.sh/users/10083439), [Cielo Day](https://osu.ppy.sh/users/2722489), [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
+| ::{ flag=PL }:: | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)**, [\_underjoy](https://osu.ppy.sh/users/2235750), [DaDarkDragon](https://osu.ppy.sh/users/8902097), [Hudonom](https://osu.ppy.sh/users/1654221), [SitekX](https://osu.ppy.sh/users/3840946), [Triksu](https://osu.ppy.sh/users/7233032) |
+| ::{ flag=RU }:: | **Russian Federation** | **[YaLTeR](https://osu.ppy.sh/users/3910006)**, [AngeloLagusa](https://osu.ppy.sh/users/9074986), [c1e4r](https://osu.ppy.sh/users/8693182), [fegasaren0133](https://osu.ppy.sh/users/8035172), [Legend27](https://osu.ppy.sh/users/6283029), [Lerck](https://osu.ppy.sh/users/10450696) |
+| ::{ flag=SG }:: | **Singapore** | **[ByeForNow](https://osu.ppy.sh/users/7199159)**, [jacketsniffer](https://osu.ppy.sh/users/7462804), [Jozzeh](https://osu.ppy.sh/users/9730535), [Polytetral](https://osu.ppy.sh/users/8612061), [Raveille](https://osu.ppy.sh/users/1388767), [-Yue-](https://osu.ppy.sh/users/9362562) |
+| ::{ flag=KR }:: | **South Korea** | **[wonder5193](https://osu.ppy.sh/users/8474029)**, [blueBloody](https://osu.ppy.sh/users/8046839), [HIKANARI](https://osu.ppy.sh/users/4698728), [Kalkai](https://osu.ppy.sh/users/10790649), [Nausicaa](https://osu.ppy.sh/users/903155), [SuddenDeath](https://osu.ppy.sh/users/6699923) |
+| ::{ flag=ES }:: | **Spain** | **[GreenSoul](https://osu.ppy.sh/users/8497100)**, [ElGuiller456](https://osu.ppy.sh/users/11309476), [Komirin](https://osu.ppy.sh/users/4725379) |
+| ::{ flag=SE }:: | **Sweden** | **[Sadcat](https://osu.ppy.sh/users/4123399)**, [Akox-](https://osu.ppy.sh/users/7277169), [Vortex-](https://osu.ppy.sh/users/4999669), [Yoshiori](https://osu.ppy.sh/users/5045509) |
+| ::{ flag=CH }:: | **Switzerland** | **[Gamer97](https://osu.ppy.sh/users/4952941)**, [Adyrem](https://osu.ppy.sh/users/8642966), [doere\_](https://osu.ppy.sh/users/8372292), [Tupidix](https://osu.ppy.sh/users/8655604) |
+| ::{ flag=TW }:: | **Taiwan** | **[opl95173](https://osu.ppy.sh/users/7227070)**, [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), [2zi](https://osu.ppy.sh/users/10137329), [AradORiOn\_MMM](https://osu.ppy.sh/users/7960927), [AW ZERO](https://osu.ppy.sh/users/4415146), [luckygino](https://osu.ppy.sh/users/1967808) |
+| ::{ flag=TH }:: | **Thailand** | **[MyZterioN-](https://osu.ppy.sh/users/8521723)**, [basicmaime](https://osu.ppy.sh/users/6537441), [BossMadWolf](https://osu.ppy.sh/users/2772110), [HowToPlayLN](https://osu.ppy.sh/users/10879600), [Nyarlahothep](https://osu.ppy.sh/users/2281110), [RuleBlazing](https://osu.ppy.sh/users/7312402) |
+| ::{ flag=GB }:: | **United Kingdom** | **[PikachuNick](https://osu.ppy.sh/users/4168230)**, [Amascite](https://osu.ppy.sh/users/3359035), [itsjakey](https://osu.ppy.sh/users/3617889), [Pope Gadget](https://osu.ppy.sh/users/2288341), [SoFast](https://osu.ppy.sh/users/6504254), [xSnaggles](https://osu.ppy.sh/users/3799946) |
+| ::{ flag=US }:: | **United States** | **[-Electro-](https://osu.ppy.sh/users/3251373)**, [\[Crz\]sel](https://osu.ppy.sh/users/9452257), [Gekido-](https://osu.ppy.sh/users/4693052), [Halogen-](https://osu.ppy.sh/users/169992), [Soir\_Dee](https://osu.ppy.sh/users/12028216), [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| ::{ flag=VE }:: | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)**, [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [Cyssel](https://osu.ppy.sh/users/6394478), [Doryoku](https://osu.ppy.sh/users/5639725), [Edvo](https://osu.ppy.sh/users/8301758) |
 
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_US] United States | ![][flag_CN] China | ![][flag_CA] Canada | ![][flag_PE] Peru |
-| **B** | ![][flag_GB] United Kingdom | ![][flag_ID] Indonesia | ![][flag_MY] Malaysia | ![][flag_CH] Switzerland |
-| **C** | ![][flag_PH] Philippines | ![][flag_AR] Argentina | ![][flag_DE] Germany | ![][flag_HK] Hong Kong |
-| **D** | ![][flag_KR] South Korea | ![][flag_IT] Italy | ![][flag_SE] Sweden | ![][flag_DK] Denmark |
-| **E** | ![][flag_TH] Thailand | ![][flag_PL] Poland | ![][flag_NL] Netherlands | ![][flag_ES] Spain |
-| **F** | ![][flag_BR] Brazil | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_FI] Finland |
-| **G** | ![][flag_AU] Australia | ![][flag_JP] Japan | ![][flag_RU] Russian Federation | ![][flag_VE] Venezuela |
-| **H** | ![][flag_FR] France | ![][flag_SG] Singapore | ![][flag_MX] Mexico | ![][flag_NO] Norway |
+| **A** | ::{ flag=US }:: United States | ::{ flag=CN }:: China | ::{ flag=CA }:: Canada | ::{ flag=PE }:: Peru |
+| **B** | ::{ flag=GB }:: United Kingdom | ::{ flag=ID }:: Indonesia | ::{ flag=MY }:: Malaysia | ::{ flag=CH }:: Switzerland |
+| **C** | ::{ flag=PH }:: Philippines | ::{ flag=AR }:: Argentina | ::{ flag=DE }:: Germany | ::{ flag=HK }:: Hong Kong |
+| **D** | ::{ flag=KR }:: South Korea | ::{ flag=IT }:: Italy | ::{ flag=SE }:: Sweden | ::{ flag=DK }:: Denmark |
+| **E** | ::{ flag=TH }:: Thailand | ::{ flag=PL }:: Poland | ::{ flag=NL }:: Netherlands | ::{ flag=ES }:: Spain |
+| **F** | ::{ flag=BR }:: Brazil | ::{ flag=CL }:: Chile | ::{ flag=TW }:: Taiwan | ::{ flag=FI }:: Finland |
+| **G** | ::{ flag=AU }:: Australia | ::{ flag=JP }:: Japan | ::{ flag=RU }:: Russian Federation | ::{ flag=VE }:: Venezuela |
+| **H** | ::{ flag=FR }:: France | ::{ flag=SG }:: Singapore | ::{ flag=MX }:: Mexico | ::{ flag=NO }:: Norway |
 
 ## Podium
 
@@ -222,14 +222,14 @@ Saturday, 26 October 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Brazil** ![][flag_BR] | **7** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/55810169) |
+| **Brazil** ::{ flag=BR }:: | **7** | 1 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/55810169) |
 
 Saturday, 27 October 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| South Korea ![][flag_KR] | 5 | **7** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/55838067) |
-| Brazil ![][flag_BR] | 6 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/55839916) |
+| South Korea ::{ flag=KR }:: | 5 | **7** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/55838067) |
+| Brazil ::{ flag=BR }:: | 6 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/55839916) |
 
 ### Finals week 1
 
@@ -237,15 +237,15 @@ Saturday, 19 October 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Thailand ![][flag_TH] | 5 | **7** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/55660708) |
-| Philippines ![][flag_PH] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/55663695) |
+| Thailand ::{ flag=TH }:: | 5 | **7** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/55660708) |
+| Philippines ::{ flag=PH }:: | 4 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/55663695) |
 
 Sunday, 20 October 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Brazil ![][flag_BR] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/55680596) |
-| Japan ![][flag_JP] | 1 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/55682554) |
+| Brazil ::{ flag=BR }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/55680596) |
+| Japan ::{ flag=JP }:: | 1 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/55682554) |
 
 ### Semifinals
 
@@ -253,24 +253,24 @@ Friday, 11 October 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **United Kingdom** ![][flag_GB] | **7** | 1 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/55482041) |
+| **United Kingdom** ::{ flag=GB }:: | **7** | 1 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/55482041) |
 
 Saturday, 12 October 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Singapore ![][flag_SG] | 2 | **7** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/55506987) |
-| **Brazil** ![][flag_BR] | **7** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/55508916) |
+| Singapore ::{ flag=SG }:: | 2 | **7** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/55506987) |
+| **Brazil** ::{ flag=BR }:: | **7** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/55508916) |
 
 Sunday, 13 October 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **United States** ![][flag_US] | **0** | -1 | ![][flag_CN] China | *win by default* |
-| **Japan** ![][flag_JP] | **7** | 4 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/55532167) |
-| **South Korea** ![][flag_KR] | **7** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/55533576) |
-| France ![][flag_FR] | 6 | **7** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/55534882) |
-| United Kingdom ![][flag_GB] | 3 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/55541172) |
+| **United States** ::{ flag=US }:: | **0** | -1 | ::{ flag=CN }:: China | *win by default* |
+| **Japan** ::{ flag=JP }:: | **7** | 4 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/55532167) |
+| **South Korea** ::{ flag=KR }:: | **7** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/55533576) |
+| France ::{ flag=FR }:: | 6 | **7** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/55534882) |
+| United Kingdom ::{ flag=GB }:: | 3 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/55541172) |
 
 ### Quarterfinals
 
@@ -278,19 +278,19 @@ Saturday, 5 October 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Thailand** ![][flag_TH] | **6** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/55339583) |
-| **France** ![][flag_FR] | **6** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/55342309) |
+| **Thailand** ::{ flag=TH }:: | **6** | 2 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/55339583) |
+| **France** ::{ flag=FR }:: | **6** | 0 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/55342309) |
 
 Sunday, 6 October 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| United States ![][flag_US] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/55357590) |
-| Chile ![][flag_CL] | 2 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/55358879) |
-| Indonesia ![][flag_ID] | 1 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/55365647) |
-| Japan ![][flag_JP] | 1 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/55367399) |
-| **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/55369452) |
-| **Italy** ![][flag_IT] | **6** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/55371660) |
+| United States ::{ flag=US }:: | 3 | **6** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/55357590) |
+| Chile ::{ flag=CL }:: | 2 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/55358879) |
+| Indonesia ::{ flag=ID }:: | 1 | **6** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/55365647) |
+| Japan ::{ flag=JP }:: | 1 | **6** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/55367399) |
+| **Philippines** ::{ flag=PH }:: | **6** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/55369452) |
+| **Italy** ::{ flag=IT }:: | **6** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/55371660) |
 
 ### Round of 16
 
@@ -298,19 +298,19 @@ Saturday, 28 September 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Thailand** ![][flag_TH] | **6** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/55169227) |
-| **United Kingdom** ![][flag_GB] | **6** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/55172180) |
-| **United States** ![][flag_US] | **6** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/55175426) |
+| **Thailand** ::{ flag=TH }:: | **6** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/55169227) |
+| **United Kingdom** ::{ flag=GB }:: | **6** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/55172180) |
+| **United States** ::{ flag=US }:: | **6** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/55175426) |
 
 Sunday, 29 September 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Brazil** ![][flag_BR] | **6** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/55188975) |
-| Indonesia ![][flag_ID] | 3 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/55197898) |
-| Poland ![][flag_PL] | 3 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/55199722) |
-| Chile ![][flag_CL] | 0 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/55201602) |
-| China ![][flag_CN] | 1 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/55201667) |
+| **Brazil** ::{ flag=BR }:: | **6** | 0 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/55188975) |
+| Indonesia ::{ flag=ID }:: | 3 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/55197898) |
+| Poland ::{ flag=PL }:: | 3 | **6** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/55199722) |
+| Chile ::{ flag=CL }:: | 0 | **6** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/55201602) |
+| China ::{ flag=CN }:: | 1 | **6** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/55201667) |
 
 ### Group stage
 
@@ -318,59 +318,59 @@ Saturday, 21 September 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/54999166) |
-| **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/54999137) |
-| **Australia** ![][flag_AU] | **5** | 4 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/54999135) |
-| **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/55000690) |
-| Australia ![][flag_AU] | 2 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/55000695) |
-| **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/55002319) |
-| **Italy** ![][flag_IT] | **5** | 0 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/55002245) |
-| **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/55002249) |
-| **Indonesia** ![][flag_ID] | **5** | 3 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/55002276) |
-| **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/55002326) |
-| **Italy** ![][flag_IT] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/55004057) |
-| **Indonesia** ![][flag_ID] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/55004070) |
-| **Thailand** ![][flag_TH] | **5** | 1 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/55004010) |
-| **Sweden** ![][flag_SE] | **5** | 0 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/55008220) |
-| **Russian Federation** ![][flag_RU] | **0** | -1 | ![][flag_VE] Venezuela | *win by default* |
-| **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/55010312) |
-| **Chile** ![][flag_CL] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/55010214) |
-| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/55012372) |
-| **France** ![][flag_FR] | **5** | 0 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/55012288) |
-| **United States** ![][flag_US] | **5** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/55014606) |
-| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/55014430) |
-| **United States** ![][flag_US] | **5** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/55016437) |
-| **Mexico** ![][flag_MX] | **5** | 0 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/55016493) |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/54999166) |
+| **Taiwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/54999137) |
+| **Australia** ::{ flag=AU }:: | **5** | 4 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/54999135) |
+| **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/55000690) |
+| Australia ::{ flag=AU }:: | 2 | **5** | ::{ flag=RU }:: **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/55000695) |
+| **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/55002319) |
+| **Italy** ::{ flag=IT }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/55002245) |
+| **Thailand** ::{ flag=TH }:: | **5** | 0 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/55002249) |
+| **Indonesia** ::{ flag=ID }:: | **5** | 3 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/55002276) |
+| **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/55002326) |
+| **Italy** ::{ flag=IT }:: | **5** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/55004057) |
+| **Indonesia** ::{ flag=ID }:: | **5** | 0 | ::{ flag=CH }:: Switzerland | [#1](https://osu.ppy.sh/community/matches/55004070) |
+| **Thailand** ::{ flag=TH }:: | **5** | 1 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/55004010) |
+| **Sweden** ::{ flag=SE }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/55008220) |
+| **Russian Federation** ::{ flag=RU }:: | **0** | -1 | ::{ flag=VE }:: Venezuela | *win by default* |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=CH }:: Switzerland | [#1](https://osu.ppy.sh/community/matches/55010312) |
+| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/55010214) |
+| **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/55012372) |
+| **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/55012288) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/55014606) |
+| **Brazil** ::{ flag=BR }:: | **5** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/55014430) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/55016437) |
+| **Mexico** ::{ flag=MX }:: | **5** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/55016493) |
 
 Sunday, 22 September 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **China** ![][flag_CN] | **5** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/55022217) |
-| **Chile** ![][flag_CL] | **5** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/55022251) |
-| **Japan** ![][flag_JP] | **0** | -1 | ![][flag_VE] Venezuela | *win by default* |
-| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/55023239) |
-| **Australia** ![][flag_AU] | **0** | -1 | ![][flag_VE] Venezuela | *win by default* |
-| **Singapore** ![][flag_SG] | **5** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/55023226) |
-| **China** ![][flag_CN] | **5** | 3 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/55025205) |
-| **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/55031845) |
-| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/55031818) |
-| **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/55031821) |
-| **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/55031841) |
-| **Japan** ![][flag_JP] | **5** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/55031829) |
-| **Germany** ![][flag_DE] | **5** | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/55033327) |
-| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/55033278) |
-| **Malaysia** ![][flag_MY] | **5** | 2 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/55033329) |
-| **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/55033362) |
-| **United States** ![][flag_US] | **5** | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/55034886) |
-| **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/55034909) |
-| **Argentina** ![][flag_AR] | **5** | 3 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/55034933) |
-| France ![][flag_FR] | 3 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/55034905) |
-| **Poland** ![][flag_PL] | **5** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/55034955) |
-| **Poland** ![][flag_PL] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/55036564) |
-| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/55036615) |
-| **France** ![][flag_FR] | **5** | 0 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/55036705) |
-| **Argentina** ![][flag_AR] | **5** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/55036623) |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/55022217) |
+| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/55022251) |
+| **Japan** ::{ flag=JP }:: | **0** | -1 | ::{ flag=VE }:: Venezuela | *win by default* |
+| **Brazil** ::{ flag=BR }:: | **5** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/55023239) |
+| **Australia** ::{ flag=AU }:: | **0** | -1 | ::{ flag=VE }:: Venezuela | *win by default* |
+| **Singapore** ::{ flag=SG }:: | **5** | 3 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/55023226) |
+| **China** ::{ flag=CN }:: | **5** | 3 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/55025205) |
+| **Philippines** ::{ flag=PH }:: | **5** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/55031845) |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/55031818) |
+| **Thailand** ::{ flag=TH }:: | **5** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/55031821) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/55031841) |
+| **Japan** ::{ flag=JP }:: | **5** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/55031829) |
+| **Germany** ::{ flag=DE }:: | **5** | 4 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/55033327) |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/55033278) |
+| **Malaysia** ::{ flag=MY }:: | **5** | 2 | ::{ flag=CH }:: Switzerland | [#1](https://osu.ppy.sh/community/matches/55033329) |
+| **Netherlands** ::{ flag=NL }:: | **5** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/55033362) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/55034886) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/55034909) |
+| **Argentina** ::{ flag=AR }:: | **5** | 3 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/55034933) |
+| France ::{ flag=FR }:: | 3 | **5** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/55034905) |
+| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/55034955) |
+| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/55036564) |
+| **Brazil** ::{ flag=BR }:: | **5** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/55036615) |
+| **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/55036705) |
+| **Argentina** ::{ flag=AR }:: | **5** | 0 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/55036623) |
 
 ## Ruleset
 

@@ -8,7 +8,7 @@ tags:
 
 ![OIT 2022 logo](img/logo.jpg)
 
-The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Arca 9](https://osu.ppy.sh/users/14042319) and ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966). The tournament was open to all players from Indonesia with 4,000 pp or above in the osu! game mode to their name. It was the twelfth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Arca 9](https://osu.ppy.sh/users/14042319) and ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966). The tournament was open to all players from Indonesia with 4,000 pp or above in the osu! game mode to their name. It was the twelfth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -40,16 +40,16 @@ The osu! Indonesia Tournament #12 (2022) was run by various osu! community membe
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_ID] [Arca 9](https://osu.ppy.sh/users/14042319), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966) |
-| Co-host | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Millie](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) |
-| Mappool selector | ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Millie](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
-| Playtester | ![][flag_ID] [Pancoz](https://osu.ppy.sh/users/13156137), ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_ID] [\[-Yukari-\]](https://osu.ppy.sh/users/8780223), ![][flag_ID] [Zoneeox](https://osu.ppy.sh/users/6596134), ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837), ![][flag_AU] [Enumi](https://osu.ppy.sh/users/10625283) |
-| Streamer | ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [Millie](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Rumah](https://osu.ppy.sh/users/12086495), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_HK] [ShadeCegLgMn](https://osu.ppy.sh/users/12086495) |
-| Commentator | ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Millie](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677), ![][flag_ID] [Deorum](https://osu.ppy.sh/users/5933031), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [My Angel Eimi](https://osu.ppy.sh/users/3793938), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545) |
-| Referee | ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [-Foxee-](https://osu.ppy.sh/users/14989473), ![][flag_ID] [lucidators](https://osu.ppy.sh/users/10154981), ![][flag_ID] [YaeMyMommy](https://osu.ppy.sh/users/17278897), ![][flag_ID] [Aerotracker](https://osu.ppy.sh/users/24396418), ![][flag_ID] [NotDens](https://osu.ppy.sh/users/17311355), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [Tazkiz](https://osu.ppy.sh/users/3738010), ![][flag_PH] [-Pekora-](https://osu.ppy.sh/users/17959882), ![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_HK] [Smato](https://osu.ppy.sh/users/5616307) |
-| Graphic designer | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Felter](https://osu.ppy.sh/users/5865319/) |
-| Spreadsheet manager | ![][flag_ID] [Arca 9](https://osu.ppy.sh/users/14042319) |
-| Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: [Arca 9](https://osu.ppy.sh/users/14042319), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) |
+| Co-host | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Senritsu](https://osu.ppy.sh/users/1165368), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174) |
+| Mappool selector | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
+| Playtester | ::{ flag=ID }:: [Pancoz](https://osu.ppy.sh/users/13156137), ::{ flag=ID }:: [honeymint](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [MasterfulNote5](https://osu.ppy.sh/users/7247988), ::{ flag=ID }:: [\[-Yukari-\]](https://osu.ppy.sh/users/8780223), ::{ flag=ID }:: [Zoneeox](https://osu.ppy.sh/users/6596134), ::{ flag=PH }:: [Rammu](https://osu.ppy.sh/users/10652837), ::{ flag=AU }:: [Enumi](https://osu.ppy.sh/users/10625283) |
+| Streamer | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495), ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12086495) |
+| Commentator | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031), ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=ID }:: [My Angel Eimi](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Remuru](https://osu.ppy.sh/users/3654220), ::{ flag=ID }:: [Kirinagi](https://osu.ppy.sh/users/5937545) |
+| Referee | ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [-Foxee-](https://osu.ppy.sh/users/14989473), ::{ flag=ID }:: [lucidators](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=ID }:: [Aerotracker](https://osu.ppy.sh/users/24396418), ::{ flag=ID }:: [NotDens](https://osu.ppy.sh/users/17311355), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Tazkiz](https://osu.ppy.sh/users/3738010), ::{ flag=PH }:: [-Pekora-](https://osu.ppy.sh/users/17959882), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=HK }:: [Smato](https://osu.ppy.sh/users/5616307) |
+| Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319/) |
+| Spreadsheet manager | ::{ flag=ID }:: [Arca 9](https://osu.ppy.sh/users/14042319) |
+| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
@@ -65,38 +65,38 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 | Seed No. | Player | Z-Sum |
 | :-- | :-- | :-- |
-| 1 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 9.44 |
-| 2 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | 9.33 |
-| 3 | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | 9.30 |
-| 4 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | 9.19 |
-| 5 | ![][flag_ID] [rHO](https://osu.ppy.sh/users/1629553) | 9.15 |
-| 6 | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | 9.02 |
-| 7 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | 8.80 |
-| 8 | ![][flag_ID] [MineFrostID](https://osu.ppy.sh/users/12159899) | 8.46 |
-| 9 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | 8.36 |
-| 10 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | 8.05 |
-| 11 | ![][flag_ID] [D E L O N](https://osu.ppy.sh/users/11983229) | 7.84 |
-| 12 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | 7.79 |
-| 13 | ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467) | 7.77 |
-| 14 | ![][flag_ID] [BlankTap](https://osu.ppy.sh/users/10137131) | 7.55 |
-| 15 | ![][flag_ID] [StayMusical](https://osu.ppy.sh/users/12688176) | 7.29 |
-| 16 | ![][flag_ID] [Herbayse](https://osu.ppy.sh/users/4924094) | 7.00 |
-| 17 | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | 6.83 |
-| 18 | ![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) | 6.77 |
-| 19 | ![][flag_ID] [Egao](https://osu.ppy.sh/users/12419257) | 6.75 |
-| 20 | ![][flag_ID] [Frixell](https://osu.ppy.sh/users/15601286) | 6.47 |
-| 21 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | 6.42 |
-| 22 | ![][flag_ID] [AnzewVix](https://osu.ppy.sh/users/8621203) | 6.36 |
-| 23 | ![][flag_ID] [Cudi](https://osu.ppy.sh/users/9974314) | 6.28 |
-| 24 | ![][flag_ID] [Naikaze](https://osu.ppy.sh/users/984132) | 6.21 |
-| 25 | ![][flag_ID] [SDKO](https://osu.ppy.sh/users/4858555) | 6.12 |
-| 26 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | 6.10 |
-| 27 | ![][flag_ID] [Takagi-chan](https://osu.ppy.sh/users/11379592) | 6.05 |
-| 28 | ![][flag_ID] [malvon](https://osu.ppy.sh/users/11113661) | 5.92 |
-| 29 | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | 5.76 |
-| 30 | ![][flag_ID] [-TwiHD](https://osu.ppy.sh/users/5470299) | 5.32 |
-| 31 | ![][flag_ID] [Dika312](https://osu.ppy.sh/users/741613) | 5.30 |
-| 32 | ![][flag_ID] [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | 4.89 |
+| 1 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 9.44 |
+| 2 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | 9.33 |
+| 3 | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | 9.30 |
+| 4 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 9.19 |
+| 5 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | 9.15 |
+| 6 | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) | 9.02 |
+| 7 | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) | 8.80 |
+| 8 | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | 8.46 |
+| 9 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | 8.36 |
+| 10 | ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) | 8.05 |
+| 11 | ::{ flag=ID }:: [D E L O N](https://osu.ppy.sh/users/11983229) | 7.84 |
+| 12 | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | 7.79 |
+| 13 | ::{ flag=ID }:: [-Kiichirou-](https://osu.ppy.sh/users/5791467) | 7.77 |
+| 14 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 7.55 |
+| 15 | ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176) | 7.29 |
+| 16 | ::{ flag=ID }:: [Herbayse](https://osu.ppy.sh/users/4924094) | 7.00 |
+| 17 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 6.83 |
+| 18 | ::{ flag=ID }:: [cfood](https://osu.ppy.sh/users/8626190) | 6.77 |
+| 19 | ::{ flag=ID }:: [Egao](https://osu.ppy.sh/users/12419257) | 6.75 |
+| 20 | ::{ flag=ID }:: [Frixell](https://osu.ppy.sh/users/15601286) | 6.47 |
+| 21 | ::{ flag=ID }:: [Bunan-](https://osu.ppy.sh/users/2763354) | 6.42 |
+| 22 | ::{ flag=ID }:: [AnzewVix](https://osu.ppy.sh/users/8621203) | 6.36 |
+| 23 | ::{ flag=ID }:: [Cudi](https://osu.ppy.sh/users/9974314) | 6.28 |
+| 24 | ::{ flag=ID }:: [Naikaze](https://osu.ppy.sh/users/984132) | 6.21 |
+| 25 | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | 6.12 |
+| 26 | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) | 6.10 |
+| 27 | ::{ flag=ID }:: [Takagi-chan](https://osu.ppy.sh/users/11379592) | 6.05 |
+| 28 | ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) | 5.92 |
+| 29 | ::{ flag=ID }:: [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | 5.76 |
+| 30 | ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299) | 5.32 |
+| 31 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | 5.30 |
+| 32 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | 4.89 |
 
 ## Podium
 
@@ -303,13 +303,13 @@ Friday. 1 April 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ![][flag_ID] | 2 | **7** | ![][flag_ID] **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
+| Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
 
 Saturday, 2 April 2022, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **7** | 4 | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/99335582) |
+| Grand Final | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/99335582) |
 
 ### Finals (week 1)
 
@@ -317,20 +317,20 @@ Saturday, 26 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Crezz](https://osu.ppy.sh/users/7108275) ![][flag_ID] | 5 | **7** | ![][flag_ID] **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/99117520) |
+| Lower | [Crezz](https://osu.ppy.sh/users/7108275) ::{ flag=ID }:: | 5 | **7** | ::{ flag=ID }:: **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/99117520) |
 
 Sunday, 27 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Fuma](https://osu.ppy.sh/users/1501956) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99154662) |
-| Upper | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ![][flag_ID] | 0 | **7** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/99152654) |
+| Lower | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99154662) |
+| Upper | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 0 | **7** | ::{ flag=ID }:: **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/99152654) |
 
 Monday, 28 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [MineFrostID](https://osu.ppy.sh/users/12159899) ![][flag_ID] | 5 | **7** | ![][flag_ID] **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99157419) |
+| Lower | [MineFrostID](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 5 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99157419) |
 
 ### Semifinals
 
@@ -338,24 +338,24 @@ Friday, 18 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Rexeez](https://osu.ppy.sh/users/1987591) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/98853253) |
-| Lower | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | *win by default* |
+| Lower | [Rexeez](https://osu.ppy.sh/users/1987591) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/98853253) |
+| Lower | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) | *win by default* |
 
 Saturday, 19 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/98881603) |
-| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | [#1](https://osu.ppy.sh/community/matches/98883041) |
-| Lower | [rHO](https://osu.ppy.sh/users/1629553) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[D E L O N](https://osu.ppy.sh/users/11983229)** | *win by default* |
+| Lower | **[deeto](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/98881603) |
+| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) | [#1](https://osu.ppy.sh/community/matches/98883041) |
+| Lower | [rHO](https://osu.ppy.sh/users/1629553) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[D E L O N](https://osu.ppy.sh/users/11983229)** | *win by default* |
 
 Sunday, 20 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/98926983) |
-| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/98890786) |
-| Lower | [D E L O N](https://osu.ppy.sh/users/11983229) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/98930552) |
+| Lower | **[deeto](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/98926983) |
+| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/98890786) |
+| Lower | [D E L O N](https://osu.ppy.sh/users/11983229) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/98930552) |
 
 ### Quarterfinals
 
@@ -363,32 +363,32 @@ Friday, 11 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[D E L O N](https://osu.ppy.sh/users/11983229)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/98616981) |
-| Lower | **[Venta](https://osu.ppy.sh/users/11320627)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/98618243) |
-| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [MineFrostID](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/98618247) |
-| Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Egao](https://osu.ppy.sh/users/12419257) | [#1](https://osu.ppy.sh/community/matches/98618239) |
-| Lower | **[BlankTap](https://osu.ppy.sh/users/10137131)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Naikaze](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/98621818) |
-| Upper | [deeto](https://osu.ppy.sh/users/10069909) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/98656251) |
+| Lower | **[D E L O N](https://osu.ppy.sh/users/11983229)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/98616981) |
+| Lower | **[Venta](https://osu.ppy.sh/users/11320627)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/98618243) |
+| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/98618247) |
+| Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Egao](https://osu.ppy.sh/users/12419257) | [#1](https://osu.ppy.sh/community/matches/98618239) |
+| Lower | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Naikaze](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/98621818) |
+| Upper | [deeto](https://osu.ppy.sh/users/10069909) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/98656251) |
 
 Saturday, 12 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Herbayse](https://osu.ppy.sh/users/4924094)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [Takagi-chan](https://osu.ppy.sh/users/11379592) | [#1](https://osu.ppy.sh/community/matches/98651724) |
-| Lower | **[StayMusical](https://osu.ppy.sh/users/12688176)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/98649380) |
-| Lower | [cfood](https://osu.ppy.sh/users/8626190) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | [#1](https://osu.ppy.sh/community/matches/98654038) |
-| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/98656061) |
-| Lower | **[-Kiichirou-](https://osu.ppy.sh/users/5791467)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/98661088) |
+| Lower | **[Herbayse](https://osu.ppy.sh/users/4924094)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [Takagi-chan](https://osu.ppy.sh/users/11379592) | [#1](https://osu.ppy.sh/community/matches/98651724) |
+| Lower | **[StayMusical](https://osu.ppy.sh/users/12688176)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/98649380) |
+| Lower | [cfood](https://osu.ppy.sh/users/8626190) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Daffy](https://osu.ppy.sh/users/5968633)** | [#1](https://osu.ppy.sh/community/matches/98654038) |
+| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/98656061) |
+| Lower | **[-Kiichirou-](https://osu.ppy.sh/users/5791467)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/98661088) |
 
 Monday, 13 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Venta](https://osu.ppy.sh/users/11320627)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [StayMusical](https://osu.ppy.sh/users/12688176) | [#1](https://osu.ppy.sh/community/matches/98696946) |
-| Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Herbayse](https://osu.ppy.sh/users/4924094) | [#1](https://osu.ppy.sh/community/matches/98696938) |
-| Lower | **[D E L O N](https://osu.ppy.sh/users/11983229)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/98700817) |
-| Lower | **[Daffy](https://osu.ppy.sh/users/5968633)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467) | [#1](https://osu.ppy.sh/community/matches/98701565) |
-| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [rHO](https://osu.ppy.sh/users/1629553) | [#1](https://osu.ppy.sh/community/matches/98703486) |
+| Lower | **[Venta](https://osu.ppy.sh/users/11320627)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176) | [#1](https://osu.ppy.sh/community/matches/98696946) |
+| Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Herbayse](https://osu.ppy.sh/users/4924094) | [#1](https://osu.ppy.sh/community/matches/98696938) |
+| Lower | **[D E L O N](https://osu.ppy.sh/users/11983229)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/98700817) |
+| Lower | **[Daffy](https://osu.ppy.sh/users/5968633)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [-Kiichirou-](https://osu.ppy.sh/users/5791467) | [#1](https://osu.ppy.sh/community/matches/98701565) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | [#1](https://osu.ppy.sh/community/matches/98703486) |
 
 ### Round of 16
 
@@ -396,32 +396,32 @@ Friday, 4 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Dika312](https://osu.ppy.sh/users/741613) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[cfood](https://osu.ppy.sh/users/8626190)** | [#1](https://osu.ppy.sh/community/matches/98419910) |
-| Lower | [SDKO](https://osu.ppy.sh/users/98389081) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[Naikaze](https://osu.ppy.sh/users/984132)** | [#1](https://osu.ppy.sh/community/matches/98389081) |
-| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Herbayse](https://osu.ppy.sh/users/4924094) | [#1](https://osu.ppy.sh/community/matches/98390343) |
-| Lower | [malvon](https://osu.ppy.sh/users/11113661) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[Bunan-](https://osu.ppy.sh/users/2763354)** | [#1](https://osu.ppy.sh/community/matches/98389781) |
+| Lower | [Dika312](https://osu.ppy.sh/users/741613) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[cfood](https://osu.ppy.sh/users/8626190)** | [#1](https://osu.ppy.sh/community/matches/98419910) |
+| Lower | [SDKO](https://osu.ppy.sh/users/98389081) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[Naikaze](https://osu.ppy.sh/users/984132)** | [#1](https://osu.ppy.sh/community/matches/98389081) |
+| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Herbayse](https://osu.ppy.sh/users/4924094) | [#1](https://osu.ppy.sh/community/matches/98390343) |
+| Lower | [malvon](https://osu.ppy.sh/users/11113661) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Bunan-](https://osu.ppy.sh/users/2763354)** | [#1](https://osu.ppy.sh/community/matches/98389781) |
 
 Saturday, 5 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Vinno](https://osu.ppy.sh/users/10717635) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/98429527) |
-| Lower | **[Takagi-chan](https://osu.ppy.sh/users/11379592)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [AnzewVix](https://osu.ppy.sh/users/8621203) | [#1](https://osu.ppy.sh/community/matches/98426307) |
-| Lower | [-TwiHD](https://osu.ppy.sh/users/5470299) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[Egao](https://osu.ppy.sh/users/12419257)** | [#1](https://osu.ppy.sh/community/matches/98391100) |
-| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [StayMusical](https://osu.ppy.sh/users/12688176) | [#1](https://osu.ppy.sh/community/matches/98422598) |
-| Lower | [XenoitesBadPog](https://osu.ppy.sh/users/11461426) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Caruma](https://osu.ppy.sh/users/13187450)** | [#1](https://osu.ppy.sh/community/matches/98391758) |
-| Upper | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/98421050) |
-| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [D E L O N](https://osu.ppy.sh/users/11983229) | [#1](https://osu.ppy.sh/community/matches/98426261) |
-| Lower | **[Suikami](https://osu.ppy.sh/users/1929336)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Cudi](https://osu.ppy.sh/users/9974314) | [#1](https://osu.ppy.sh/community/matches/98427868) |
-| Upper | **[rHO](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/98429545) |
+| Upper | [Vinno](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/98429527) |
+| Lower | **[Takagi-chan](https://osu.ppy.sh/users/11379592)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [AnzewVix](https://osu.ppy.sh/users/8621203) | [#1](https://osu.ppy.sh/community/matches/98426307) |
+| Lower | [-TwiHD](https://osu.ppy.sh/users/5470299) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Egao](https://osu.ppy.sh/users/12419257)** | [#1](https://osu.ppy.sh/community/matches/98391100) |
+| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176) | [#1](https://osu.ppy.sh/community/matches/98422598) |
+| Lower | [XenoitesBadPog](https://osu.ppy.sh/users/11461426) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Caruma](https://osu.ppy.sh/users/13187450)** | [#1](https://osu.ppy.sh/community/matches/98391758) |
+| Upper | **[deeto](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/98421050) |
+| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [D E L O N](https://osu.ppy.sh/users/11983229) | [#1](https://osu.ppy.sh/community/matches/98426261) |
+| Lower | **[Suikami](https://osu.ppy.sh/users/1929336)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Cudi](https://osu.ppy.sh/users/9974314) | [#1](https://osu.ppy.sh/community/matches/98427868) |
+| Upper | **[rHO](https://osu.ppy.sh/users/1629553)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/98429545) |
 
 Sunday, 6 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Misaki - Rhythm](https://osu.ppy.sh/users/7128826)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Frixell](https://osu.ppy.sh/users/15601286) | [#1](https://osu.ppy.sh/community/matches/98465509) |
-| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | [#1](https://osu.ppy.sh/community/matches/98467917) |
-| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467) | [#1](https://osu.ppy.sh/community/matches/98472969) |
+| Lower | **[Misaki - Rhythm](https://osu.ppy.sh/users/7128826)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Frixell](https://osu.ppy.sh/users/15601286) | [#1](https://osu.ppy.sh/community/matches/98465509) |
+| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) | [#1](https://osu.ppy.sh/community/matches/98467917) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [-Kiichirou-](https://osu.ppy.sh/users/5791467) | [#1](https://osu.ppy.sh/community/matches/98472969) |
 
 ### Round of 32
 
@@ -429,32 +429,32 @@ Friday, 25 February 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Daffy](https://osu.ppy.sh/users/5968633)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/98160921) |
-| Upper | **[rHO](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [malvon](https://osu.ppy.sh/users/11113661) | [#1](https://osu.ppy.sh/community/matches/98159933) |
-| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/98156902) |
-| Upper | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [-TwiHD](https://osu.ppy.sh/users/5470299) | [#1](https://osu.ppy.sh/community/matches/98161293) |
-| Upper | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Naikaze](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/98157943) |
+| Upper | **[Daffy](https://osu.ppy.sh/users/5968633)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/98160921) |
+| Upper | **[rHO](https://osu.ppy.sh/users/1629553)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) | [#1](https://osu.ppy.sh/community/matches/98159933) |
+| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/98156902) |
+| Upper | **[deeto](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299) | [#1](https://osu.ppy.sh/community/matches/98161293) |
+| Upper | **[Vinno](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Naikaze](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/98157943) |
 
 Saturday, 26 February 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/98204495) |
-| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | [#1](https://osu.ppy.sh/community/matches/98192806) |
-| Upper | **[-Kiichirou-](https://osu.ppy.sh/users/5791467)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Frixell](https://osu.ppy.sh/users/15601286) | [#1](https://osu.ppy.sh/community/matches/98204488) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/98204495) |
+| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | [#1](https://osu.ppy.sh/community/matches/98192806) |
+| Upper | **[-Kiichirou-](https://osu.ppy.sh/users/5791467)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Frixell](https://osu.ppy.sh/users/15601286) | [#1](https://osu.ppy.sh/community/matches/98204488) |
 
 Sunday, 27 February 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Herbayse](https://osu.ppy.sh/users/4924094)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/98236400) |
-| Upper | **[D E L O N](https://osu.ppy.sh/users/11983229)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [AnzewVix](https://osu.ppy.sh/users/8621203) | [#1](https://osu.ppy.sh/community/matches/98235469) |
-| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [SDKO](https://osu.ppy.sh/users/4858555) | [#1](https://osu.ppy.sh/community/matches/98239999) |
-| Upper | **[BlankTap](https://osu.ppy.sh/users/10137131)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Egao](https://osu.ppy.sh/users/12419257) | [#1](https://osu.ppy.sh/community/matches/98240104) |
-| Upper | **[StayMusical](https://osu.ppy.sh/users/12688176)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) | [#1](https://osu.ppy.sh/community/matches/98234343) |
-| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Takagi-chan](https://osu.ppy.sh/users/11379592) | [#1](https://osu.ppy.sh/community/matches/98239050) |
-| Upper | **[Venta](https://osu.ppy.sh/users/11320627)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Cudi](https://osu.ppy.sh/users/9974314) | [#1](https://osu.ppy.sh/community/matches/98239102) |
-| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/98238805) |
+| Upper | **[Herbayse](https://osu.ppy.sh/users/4924094)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/98236400) |
+| Upper | **[D E L O N](https://osu.ppy.sh/users/11983229)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [AnzewVix](https://osu.ppy.sh/users/8621203) | [#1](https://osu.ppy.sh/community/matches/98235469) |
+| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | [#1](https://osu.ppy.sh/community/matches/98239999) |
+| Upper | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Egao](https://osu.ppy.sh/users/12419257) | [#1](https://osu.ppy.sh/community/matches/98240104) |
+| Upper | **[StayMusical](https://osu.ppy.sh/users/12688176)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [cfood](https://osu.ppy.sh/users/8626190) | [#1](https://osu.ppy.sh/community/matches/98234343) |
+| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Takagi-chan](https://osu.ppy.sh/users/11379592) | [#1](https://osu.ppy.sh/community/matches/98239050) |
+| Upper | **[Venta](https://osu.ppy.sh/users/11320627)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Cudi](https://osu.ppy.sh/users/9974314) | [#1](https://osu.ppy.sh/community/matches/98239102) |
+| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/98238805) |
 
 ## Ruleset
 
@@ -481,7 +481,7 @@ Sunday, 27 February 2022:
 
 1. All interested players are required to register into the tournament individually.
    - In order to be eligible to play in the tournament, a player must:
-     - Have the  ![][flag_ID] Indonesian flag displayed on their profile, ***and***
+     - Have the  ::{ flag=ID }:: Indonesian flag displayed on their profile, ***and***
      - Be in possession of at least 4,000 pp in the osu! game mode at the time of registration.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.

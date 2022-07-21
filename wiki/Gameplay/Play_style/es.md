@@ -21,7 +21,7 @@ En pantalla, los clics con el botón izquierdo y derecho se muestran como `M1` y
 
 Un jugador puede utilizar un segundo ratón, de modo que use uno de ellos para hacer clic y otro para mover el cursor por la pantalla.
 
-Se consideraba un estilo de juego *ridículo* hasta que ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) empezó a obtener grandes puntuaciones usando este estilo de juego en mapas como [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823).
+Se consideraba un estilo de juego *ridículo* hasta que ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) empezó a obtener grandes puntuaciones usando este estilo de juego en mapas como [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823).
 
 Es común que los jugadores que juegan con dos ratones dejen fijado a la mesa el ratón que van a usar para hacer clic.
 
@@ -69,7 +69,7 @@ Si la pantalla táctil lo admite, se puede usar un lápiz sobre ella, volviéndo
 
 - **Trackpad de un portátil/laptop**: Aunque parece una buena opción en la teoría, muchos jugadores prefieren no usar el trackpad del ordenador portátil, ya que añade mucha dificultad al control del cursor. La mayoría de los jugadores solo usan el trackpad para navegar los menús del juego.
 - **Joystick**: Una forma creativa de controlar el cursor es utilizar un Joystick para mover el cursor y utilizar el gatillo o botones incluidos en él o un teclado para *hacer clic*. A no ser que el jugador ya domine de antemano el uso del Joystick, mover el cursor con él requerirá mucho más tiempo de aprendizaje que el resto de periféricos mencionados anteriormente.
-- **Placas metálicas**: Una manera muy especial de reemplazar un teclado, introducida por el jugador ![][flag_US] [geckogates](https://osu.ppy.sh/users/geckogates), que requiere cierto conocimiento de electrónica para preparar: se usan unas placas metálicas conectadas al circuito del teclado para usarlas en lugar de las teclas.
+- **Placas metálicas**: Una manera muy especial de reemplazar un teclado, introducida por el jugador ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/geckogates), que requiere cierto conocimiento de electrónica para preparar: se usan unas placas metálicas conectadas al circuito del teclado para usarlas en lugar de las teclas.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
 

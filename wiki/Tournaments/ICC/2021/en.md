@@ -8,7 +8,7 @@ tags:
 
 ![ICC 2021 banner](img/banner.jpg)
 
-The **Indonesia Convert Cup 2021** (***ICC 2021***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) and ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422), where all mappools were exclusively made of converted osu! beatmaps. The tournament was open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It was the second iteration of the Indonesia Convert Cup.
+The **Indonesia Convert Cup 2021** (***ICC 2021***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) and ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), where all mappools were exclusively made of converted osu! beatmaps. The tournament was open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It was the second iteration of the Indonesia Convert Cup.
 
 ## Tournament schedule
 
@@ -38,14 +38,14 @@ ICC 2021 was run by various osu! community members predominantly hailing from In
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
-| Co-host | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751) |
-| Mappool selector | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
-| Streamer | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Commentator | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) |
-| Referee | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_TH] [Azuria](https://osu.ppy.sh/users/16102533) |
-| Graphic designer | ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
-| Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
+| Co-host | ::{ flag=ID }:: [Kazuyo](https://osu.ppy.sh/users/5604201), ::{ flag=ID }:: [Eum](https://osu.ppy.sh/users/16552751) |
+| Mappool selector | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
+| Streamer | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=TW }:: [XzCraftP](https://osu.ppy.sh/users/1593180) |
+| Commentator | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Eum](https://osu.ppy.sh/users/16552751), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122), ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) |
+| Referee | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [Koimeji](https://osu.ppy.sh/users/4137039), ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) |
+| Graphic designer | ::{ flag=ID }:: [Avoya](https://osu.ppy.sh/users/3136817) |
+| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
@@ -61,14 +61,14 @@ Listed below are the players who were admitted into the Group stage along with t
 
 | Group | High Seed | Mid Seed | Low Seed A | Low Seed B |
 | :-- | :-- | :-- | :-- | :-- |
-| A | ![][flag_ID] [Nekuro](https://osu.ppy.sh/users/3222638) | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) | *N/A* |
-| B | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/9153772) | *N/A* |
-| C | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | ![][flag_ID] [Keisuu](https://osu.ppy.sh/users/3856673) | ![][flag_ID] [\[-BlackShadow-\]](https://osu.ppy.sh/users/18156034) | *N/A* |
-| D | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) | *N/A* |
-| E | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | *N/A* |
-| F | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [athayaa](https://osu.ppy.sh/users/11477302) | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) |
-| G | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [troke](https://osu.ppy.sh/users/3133671) | ![][flag_ID] [Kinora](https://osu.ppy.sh/users/20571283) |
-| H | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | ![][flag_ID] [Ruu](https://osu.ppy.sh/users/3212755) | ![][flag_ID] [Francesca](https://osu.ppy.sh/users/8995235) | ![][flag_ID] [OrdinaryDaffa](https://osu.ppy.sh/users/8404301) |
+| A | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | ::{ flag=ID }:: [dedotikea](https://osu.ppy.sh/users/8805157) | ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) | *N/A* |
+| B | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788) | ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772) | *N/A* |
+| C | ::{ flag=ID }:: [XxepandevanxX](https://osu.ppy.sh/users/13194580) | ::{ flag=ID }:: [Keisuu](https://osu.ppy.sh/users/3856673) | ::{ flag=ID }:: [\[-BlackShadow-\]](https://osu.ppy.sh/users/18156034) | *N/A* |
+| D | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) | ::{ flag=ID }:: [Ilhamuharam](https://osu.ppy.sh/users/7657968) | ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469) | *N/A* |
+| E | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | ::{ flag=ID }:: [Konami-kun](https://osu.ppy.sh/users/15931741) | ::{ flag=ID }:: [Latina-](https://osu.ppy.sh/users/15015592) | *N/A* |
+| F | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [athayaa](https://osu.ppy.sh/users/11477302) | ::{ flag=ID }:: [moncar321](https://osu.ppy.sh/users/1400073) |
+| G | ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087) | ::{ flag=ID }:: [BitDust](https://osu.ppy.sh/users/9573836) | ::{ flag=ID }:: [troke](https://osu.ppy.sh/users/3133671) | ::{ flag=ID }:: [Kinora](https://osu.ppy.sh/users/20571283) |
+| H | ::{ flag=ID }:: [LeWind](https://osu.ppy.sh/users/9718235) | ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755) | ::{ flag=ID }:: [Francesca](https://osu.ppy.sh/users/8995235) | ::{ flag=ID }:: [OrdinaryDaffa](https://osu.ppy.sh/users/8404301) |
 
 ## Podium
 
@@ -212,19 +212,19 @@ Friday, 8 October 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Netamaru](https://osu.ppy.sh/users/3222638) ![][flag_ID] | 6 | **7** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | [#1](https://osu.ppy.sh/community/matches/92082907) |
+| Upper | [Netamaru](https://osu.ppy.sh/users/3222638) ::{ flag=ID }:: | 6 | **7** | ::{ flag=ID }:: **[dika312](https://osu.ppy.sh/users/741613)** | [#1](https://osu.ppy.sh/community/matches/92082907) |
 
 Saturday, 9 October 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Netamaru](https://osu.ppy.sh/users/3222638)** ![][flag_ID] | **7** | 4 | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) | [#1](https://osu.ppy.sh/community/matches/92145372) |
+| Lower | **[Netamaru](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) | [#1](https://osu.ppy.sh/community/matches/92145372) |
 
 Sunday, 10 October 2021, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **7** | 4 | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/3222638) | [#1](https://osu.ppy.sh/community/matches/92195490) |
+| Grand Final | **[dika312](https://osu.ppy.sh/users/741613)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/3222638) | [#1](https://osu.ppy.sh/community/matches/92195490) |
 
 ### Semifinals
 
@@ -232,21 +232,21 @@ Friday, 1 October 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Nekuro](https://osu.ppy.sh/users/3222638) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361)** | [#1](https://osu.ppy.sh/community/matches/91741318) |
-| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) | [#1](https://osu.ppy.sh/community/matches/91745392) |
+| Upper | [Nekuro](https://osu.ppy.sh/users/3222638) ::{ flag=ID }:: | 1 | **6** | ::{ flag=ID }:: **[Netamaru](https://osu.ppy.sh/users/1830361)** | [#1](https://osu.ppy.sh/community/matches/91741318) |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) | [#1](https://osu.ppy.sh/community/matches/91745392) |
 
 Saturday, 2 October 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Nekuro](https://osu.ppy.sh/users/3222638) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[Keisuu](https://osu.ppy.sh/users/3856673)** | [#1](https://osu.ppy.sh/community/matches/91798609) |
-| Lower | **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [Ruu](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/91804828) |
+| Lower | [Nekuro](https://osu.ppy.sh/users/3222638) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Keisuu](https://osu.ppy.sh/users/3856673)** | [#1](https://osu.ppy.sh/community/matches/91798609) |
+| Lower | **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/91804828) |
 
 Sunday, 3 October 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Keisuu](https://osu.ppy.sh/users/3856673) ![][flag_ID] | 2 | **6** | ![][flag_ID] **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221)** | [#1](https://osu.ppy.sh/community/matches/91860910) |
+| Lower | [Keisuu](https://osu.ppy.sh/users/3856673) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221)** | [#1](https://osu.ppy.sh/community/matches/91860910) |
 
 ### Quarterfinals
 
@@ -254,31 +254,31 @@ Friday, 24 September 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Sololiquy](https://osu.ppy.sh/users/4350087) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221)** | [#1](https://osu.ppy.sh/community/matches/91399776) |
-| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | [#1](https://osu.ppy.sh/community/matches/91394509) |
-| Upper | [Ruu](https://osu.ppy.sh/users/3212755) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361)** | [#1](https://osu.ppy.sh/community/matches/91396522) |
+| Upper | [Sololiquy](https://osu.ppy.sh/users/4350087) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221)** | [#1](https://osu.ppy.sh/community/matches/91399776) |
+| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | [#1](https://osu.ppy.sh/community/matches/91394509) |
+| Upper | [Ruu](https://osu.ppy.sh/users/3212755) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Netamaru](https://osu.ppy.sh/users/1830361)** | [#1](https://osu.ppy.sh/community/matches/91396522) |
 
 Saturday, 25 September 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Keisuu](https://osu.ppy.sh/users/3856673) | [#1](https://osu.ppy.sh/community/matches/91450519) |
-| Lower | **[Ruu](https://osu.ppy.sh/users/3212755)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | [#1](https://osu.ppy.sh/community/matches/91459819) |
-| Lower | [Sololiquy](https://osu.ppy.sh/users/4350087) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | [#1](https://osu.ppy.sh/community/matches/91448402) |
-| Lower | [CamXDanna](https://osu.ppy.sh/users/3243148) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/91456664) |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Keisuu](https://osu.ppy.sh/users/3856673) | [#1](https://osu.ppy.sh/community/matches/91450519) |
+| Lower | **[Ruu](https://osu.ppy.sh/users/3212755)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [dedotikea](https://osu.ppy.sh/users/8805157) | [#1](https://osu.ppy.sh/community/matches/91459819) |
+| Lower | [Sololiquy](https://osu.ppy.sh/users/4350087) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[LeWind](https://osu.ppy.sh/users/9718235)** | [#1](https://osu.ppy.sh/community/matches/91448402) |
+| Lower | [CamXDanna](https://osu.ppy.sh/users/3243148) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/91456664) |
 
 Sunday, 26 September 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Keisuu](https://osu.ppy.sh/users/3856673)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | [#1](https://osu.ppy.sh/community/matches/91509582) |
-| Lower | [XxepandevanxX](https://osu.ppy.sh/users/13194580) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Ruu](https://osu.ppy.sh/users/3212755)** | [#1](https://osu.ppy.sh/community/matches/91448402) |
+| Lower | **[Keisuu](https://osu.ppy.sh/users/3856673)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [BitDust](https://osu.ppy.sh/users/9573836) | [#1](https://osu.ppy.sh/community/matches/91509582) |
+| Lower | [XxepandevanxX](https://osu.ppy.sh/users/13194580) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[Ruu](https://osu.ppy.sh/users/3212755)** | [#1](https://osu.ppy.sh/community/matches/91448402) |
 
 Monday, 26 September 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Keisuu](https://osu.ppy.sh/users/3856673)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/91525881) |
+| Lower | **[Keisuu](https://osu.ppy.sh/users/3856673)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/91525881) |
 
 ### Round of 16
 
@@ -286,28 +286,28 @@ Friday, 17 September 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Ruu](https://osu.ppy.sh/users/3212755)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | [#1](https://osu.ppy.sh/community/matches/91042813) |
-| Upper | **[Keisuu](https://osu.ppy.sh/users/3856673)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | [#1](https://osu.ppy.sh/community/matches/91037387) |
-| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [athayaa](https://osu.ppy.sh/users/11477302) | [#1](https://osu.ppy.sh/community/matches/91044569) |
+| Upper | **[Ruu](https://osu.ppy.sh/users/3212755)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [BitDust](https://osu.ppy.sh/users/9573836) | [#1](https://osu.ppy.sh/community/matches/91042813) |
+| Upper | **[Keisuu](https://osu.ppy.sh/users/3856673)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [dedotikea](https://osu.ppy.sh/users/8805157) | [#1](https://osu.ppy.sh/community/matches/91037387) |
+| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [athayaa](https://osu.ppy.sh/users/11477302) | [#1](https://osu.ppy.sh/community/matches/91044569) |
 
 Saturday, 18 September 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Ilhamuharam](https://osu.ppy.sh/users/7657968) | [#1](https://osu.ppy.sh/community/matches/91037547) |
-| Upper | **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/91107817) |
-| Upper | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/9153772) | [#1](https://osu.ppy.sh/community/matches/91104776) |
-| Upper | **[CamXDanna](https://osu.ppy.sh/users/3243148)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/91097712) |
-| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | *win by default* |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Ilhamuharam](https://osu.ppy.sh/users/7657968) | [#1](https://osu.ppy.sh/community/matches/91037547) |
+| Upper | **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/91107817) |
+| Upper | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772) | [#1](https://osu.ppy.sh/community/matches/91104776) |
+| Upper | **[CamXDanna](https://osu.ppy.sh/users/3243148)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/91097712) |
+| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [LeWind](https://osu.ppy.sh/users/9718235) | *win by default* |
 
 Sunday, 19 September 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Ilhamuharam](https://osu.ppy.sh/users/7657968) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[dedotikea](https://osu.ppy.sh/users/8805157)** | [#1](https://osu.ppy.sh/community/matches/91159535) |
-| Lower | **[LeWind](https://osu.ppy.sh/users/9718235)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/91152595) |
-| Lower | [Mixuri](https://osu.ppy.sh/users/9153772) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/91162634) |
-| Lower | **[BitDust](https://osu.ppy.sh/users/9573836)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [athayaa](https://osu.ppy.sh/users/11477302) | [#1](https://osu.ppy.sh/community/matches/91155995) |
+| Lower | [Ilhamuharam](https://osu.ppy.sh/users/7657968) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[dedotikea](https://osu.ppy.sh/users/8805157)** | [#1](https://osu.ppy.sh/community/matches/91159535) |
+| Lower | **[LeWind](https://osu.ppy.sh/users/9718235)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/91152595) |
+| Lower | [Mixuri](https://osu.ppy.sh/users/9153772) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/91162634) |
+| Lower | **[BitDust](https://osu.ppy.sh/users/9573836)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [athayaa](https://osu.ppy.sh/users/11477302) | [#1](https://osu.ppy.sh/community/matches/91155995) |
 
 ### Group stage
 
@@ -315,24 +315,24 @@ Friday, 10 September 2021:
 
 | Group |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-- |
-| **A** | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638) (11 pts)** | ![][flag_ID] **[dedotikea](https://osu.ppy.sh/users/8805157) (10 pts)** | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) (6 pts) | [#1](https://osu.ppy.sh/community/matches/90669261) |
-| **B** | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361) (12 pts)** | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) (7 pts) | ![][flag_ID] **[Mixuri](https://osu.ppy.sh/users/9153772) (8 pts)** | [#1](https://osu.ppy.sh/community/matches/90671758) |
+| **A** | ::{ flag=ID }:: **[Nekuro](https://osu.ppy.sh/users/3222638) (11 pts)** | ::{ flag=ID }:: **[dedotikea](https://osu.ppy.sh/users/8805157) (10 pts)** | ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) (6 pts) | [#1](https://osu.ppy.sh/community/matches/90669261) |
+| **B** | ::{ flag=ID }:: **[Netamaru](https://osu.ppy.sh/users/1830361) (12 pts)** | ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788) (7 pts) | ::{ flag=ID }:: **[Mixuri](https://osu.ppy.sh/users/9153772) (8 pts)** | [#1](https://osu.ppy.sh/community/matches/90671758) |
 
 Saturday, 11 September 2021:
 
 | Group |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-- |
-| **C** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580) (8 pts)** | ![][flag_ID] **[Keisuu](https://osu.ppy.sh/users/3856673) (10 pts)** | ![][flag_ID] [\[-BlackShadow-\]](https://osu.ppy.sh/users/18156034) (6 pts) | [#1](https://osu.ppy.sh/community/matches/90788088) |
-| **D** | ![][flag_ID] **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221) (12 pts)** | ![][flag_ID] **[Ilhamuharam](https://osu.ppy.sh/users/7657968) (8 pts)** | ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) (7 pts) | [#1](https://osu.ppy.sh/community/matches/90733194) |
-| **E** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148) (11 pts)** | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) (6 pts) | ![][flag_ID] **[Latina-](https://osu.ppy.sh/users/15015592) (7 pts)** | [#1](https://osu.ppy.sh/community/matches/90736348) |
+| **C** | ::{ flag=ID }:: **[XxepandevanxX](https://osu.ppy.sh/users/13194580) (8 pts)** | ::{ flag=ID }:: **[Keisuu](https://osu.ppy.sh/users/3856673) (10 pts)** | ::{ flag=ID }:: [\[-BlackShadow-\]](https://osu.ppy.sh/users/18156034) (6 pts) | [#1](https://osu.ppy.sh/community/matches/90788088) |
+| **D** | ::{ flag=ID }:: **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221) (12 pts)** | ::{ flag=ID }:: **[Ilhamuharam](https://osu.ppy.sh/users/7657968) (8 pts)** | ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469) (7 pts) | [#1](https://osu.ppy.sh/community/matches/90733194) |
+| **E** | ::{ flag=ID }:: **[CamXDanna](https://osu.ppy.sh/users/3243148) (11 pts)** | ::{ flag=ID }:: [Konami-kun](https://osu.ppy.sh/users/15931741) (6 pts) | ::{ flag=ID }:: **[Latina-](https://osu.ppy.sh/users/15015592) (7 pts)** | [#1](https://osu.ppy.sh/community/matches/90736348) |
 
 Sunday, 12 September 2021:
 
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
-| **F** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613) (15 pts)** | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) (8 pts) | ![][flag_ID] **[athayaa](https://osu.ppy.sh/users/11477302) (9 pts)** | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) (1 pt) | [#1](https://osu.ppy.sh/community/matches/90794859) |
-| **G** | ![][flag_ID] **[Sololiquy](https://osu.ppy.sh/users/4350087) (13 pts)** | ![][flag_ID] **[BitDust](https://osu.ppy.sh/users/9573836) (11 pts)** | ![][flag_ID] [troke](https://osu.ppy.sh/users/3133671) (0 pts) | ![][flag_ID] [Kinora](https://osu.ppy.sh/users/20571283) (8 pts) | [#1](https://osu.ppy.sh/community/matches/90797826) |
-| **H** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (7 pts)** | ![][flag_ID] **[Ruu](https://osu.ppy.sh/users/3212755) (11 pts)** | ![][flag_ID] [Francesca](https://osu.ppy.sh/users/8995235) (0 pts) | ![][flag_ID] [OrdinaryDaffa](https://osu.ppy.sh/users/8404301) (6 pts) | [#1](https://osu.ppy.sh/community/matches/90799873) |
+| **F** | ::{ flag=ID }:: **[dika312](https://osu.ppy.sh/users/741613) (15 pts)** | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) (8 pts) | ::{ flag=ID }:: **[athayaa](https://osu.ppy.sh/users/11477302) (9 pts)** | ::{ flag=ID }:: [moncar321](https://osu.ppy.sh/users/1400073) (1 pt) | [#1](https://osu.ppy.sh/community/matches/90794859) |
+| **G** | ::{ flag=ID }:: **[Sololiquy](https://osu.ppy.sh/users/4350087) (13 pts)** | ::{ flag=ID }:: **[BitDust](https://osu.ppy.sh/users/9573836) (11 pts)** | ::{ flag=ID }:: [troke](https://osu.ppy.sh/users/3133671) (0 pts) | ::{ flag=ID }:: [Kinora](https://osu.ppy.sh/users/20571283) (8 pts) | [#1](https://osu.ppy.sh/community/matches/90797826) |
+| **H** | ::{ flag=ID }:: **[LeWind](https://osu.ppy.sh/users/9718235) (7 pts)** | ::{ flag=ID }:: **[Ruu](https://osu.ppy.sh/users/3212755) (11 pts)** | ::{ flag=ID }:: [Francesca](https://osu.ppy.sh/users/8995235) (0 pts) | ::{ flag=ID }:: [OrdinaryDaffa](https://osu.ppy.sh/users/8404301) (6 pts) | [#1](https://osu.ppy.sh/community/matches/90799873) |
 
 ## Ruleset
 

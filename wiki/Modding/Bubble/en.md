@@ -21,7 +21,7 @@ In the modern [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure), the 
 
 *See also: [Mapping and modding timeline](/wiki/Mapping_and_Modding_Timeline)*
 
-Bubbles were introduced by ![][flag_AU] [peppy](/wiki/People/peppy) on October 29, 2007, for "beatmaps that are being considered for ranked play (pending further moderator's feedback)". Setting a beatmap thread's icon to a bubble was a way for BAT members to indicate that the beatmap was of good quality and had followed the [ranking criteria](/wiki/Ranking_Criteria)<!-- internal reference: https://osu.ppy.sh/community/forums/topics/619 -->.
+Bubbles were introduced by ::{ flag=AU }:: [peppy](/wiki/People/peppy) on October 29, 2007, for "beatmaps that are being considered for ranked play (pending further moderator's feedback)". Setting a beatmap thread's icon to a bubble was a way for BAT members to indicate that the beatmap was of good quality and had followed the [ranking criteria](/wiki/Ranking_Criteria)<!-- internal reference: https://osu.ppy.sh/community/forums/topics/619 -->.
 
 On October 3, 2010, the MAT received the permissions to use the bubble icon, alongside the BAT<!-- internal reference: https://osu.ppy.sh/community/forums/topics/38403 -->. This essentially deprecated the [proto-bubbles](/wiki/Modding/Proto-bubble), and both teams had been primarily using regular bubbles since.
 

@@ -20,26 +20,26 @@ outdated_since: 7664f3dcbe92ee0f5768b8a6fbfaa3a592237025
 
 | 排名 | 国家 | 冠军 | 亚军 | 季军 |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] 韩国 | 7 | 1 | 2 |
-| 2 | ![][flag_JP] 日本 | 6 | 4 | 2 |
-| 3 | ![][flag_TW] 台湾 | 3 | 5 | 1 |
-| 4 | ![][flag_US] 美国 | 3 |  |  |
-| 5 | ![][flag_CN] 中国 | 1 | 3 | 1 |
-| 6 | ![][flag_CL] 智利 | 1 |  |  |
-| 7 | ![][flag_HK] 香港 |  | 3 | 1 |
-| 8 | ![][flag_DE] 德国 |  | 1 | 2 |
-| 8 | ![][flag_PL] 波兰 |  | 1 | 2 |
-| 9 | ![][flag_NL] 荷兰 |  | 1 |  |
-| 9 | ![][flag_PH] 菲律宾 |  | 1 |  |
-| 9 | ![][flag_TH] 泰国 |  | 1 |  |
-| 10 | ![][flag_MY] 马来西亚 |  |  | 3 |
-| 11 | ![][flag_FR] 法国 |  |  | 2 |
-| 12 | ![][flag_AR] 阿根廷 |  |  | 1 |
-| 12 | ![][flag_BR] 巴西 |  |  | 1 |
-| 12 | ![][flag_CA] 加拿大 |  |  | 1 |
-| 12 | ![][flag_CO] 哥伦比亚 |  |  | 1 |
-| 12 | ![][flag_SE] 瑞典 |  |  | 1 |
-| 12 | ![][flag_GB] 英国 |  |  | 1 |
+| 1 | ::{ flag=KR }:: 韩国 | 7 | 1 | 2 |
+| 2 | ::{ flag=JP }:: 日本 | 6 | 4 | 2 |
+| 3 | ::{ flag=TW }:: 台湾 | 3 | 5 | 1 |
+| 4 | ::{ flag=US }:: 美国 | 3 |  |  |
+| 5 | ::{ flag=CN }:: 中国 | 1 | 3 | 1 |
+| 6 | ::{ flag=CL }:: 智利 | 1 |  |  |
+| 7 | ::{ flag=HK }:: 香港 |  | 3 | 1 |
+| 8 | ::{ flag=DE }:: 德国 |  | 1 | 2 |
+| 8 | ::{ flag=PL }:: 波兰 |  | 1 | 2 |
+| 9 | ::{ flag=NL }:: 荷兰 |  | 1 |  |
+| 9 | ::{ flag=PH }:: 菲律宾 |  | 1 |  |
+| 9 | ::{ flag=TH }:: 泰国 |  | 1 |  |
+| 10 | ::{ flag=MY }:: 马来西亚 |  |  | 3 |
+| 11 | ::{ flag=FR }:: 法国 |  |  | 2 |
+| 12 | ::{ flag=AR }:: 阿根廷 |  |  | 1 |
+| 12 | ::{ flag=BR }:: 巴西 |  |  | 1 |
+| 12 | ::{ flag=CA }:: 加拿大 |  |  | 1 |
+| 12 | ::{ flag=CO }:: 哥伦比亚 |  |  | 1 |
+| 12 | ::{ flag=SE }:: 瑞典 |  |  | 1 |
+| 12 | ::{ flag=GB }:: 英国 |  |  | 1 |
 
 ## 单个模式
 
@@ -49,67 +49,67 @@ outdated_since: 7664f3dcbe92ee0f5768b8a6fbfaa3a592237025
 
 | 排名 | 国家 | 冠军 | 亚军 | 季军 |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] 韩国 | 3 |  | 2 |
-| 2 | ![][flag_US] 美国 | 2 |  |  |
-| 3 | ![][flag_JP] 日本 | 1 | 2 |  |
-| 4 | ![][flag_TW] 台湾 | 1 | 1 | 1 |
-| 5 | ![][flag_CN] 中国 |  | 2 |  |
-| 6 | ![][flag_PL] 波兰 |  | 1 | 2 |
-| 7 | ![][flag_NL] 荷兰 |  | 1 |  |
-| 8 | ![][flag_BR] 巴西 |  |  | 1 |
-| 8 | ![][flag_DE] 德国 |  |  | 1 |
+| 1 | ::{ flag=KR }:: 韩国 | 3 |  | 2 |
+| 2 | ::{ flag=US }:: 美国 | 2 |  |  |
+| 3 | ::{ flag=JP }:: 日本 | 1 | 2 |  |
+| 4 | ::{ flag=TW }:: 台湾 | 1 | 1 | 1 |
+| 5 | ::{ flag=CN }:: 中国 |  | 2 |  |
+| 6 | ::{ flag=PL }:: 波兰 |  | 1 | 2 |
+| 7 | ::{ flag=NL }:: 荷兰 |  | 1 |  |
+| 8 | ::{ flag=BR }:: 巴西 |  |  | 1 |
+| 8 | ::{ flag=DE }:: 德国 |  |  | 1 |
 
 #### 出勤率
 
 | 国家 | #1 | #2 | #3 | 2013 | 2014 | 2015 | 2016 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| ![][flag_AR] 阿根廷 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_AU] 澳大利亚 | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_AT] 奥地利 | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_BE] 比利时 | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
-| ![][flag_BR] 巴西 | ![][true] | ![][true] (3rd) | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_BG] 保加利亚 | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
-| ![][flag_CA] 加拿大 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_CL] 智利 | ![][true] (4th) | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] |
-| ![][flag_CN] 中国 | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] (2nd) | ![][true] (2nd) |
-| ![][flag_DK] 丹麦 | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] |
-| ![][flag_DO] 多米尼加 | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_EE] 爱沙尼亚 | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
-| ![][flag_FI] 芬兰 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_FR] 法国 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_DE] 德国 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] (3rd) | ![][true] | ![][true] |
-| ![][flag_GR] 希腊 | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
-| ![][flag_HK] 香港 | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_HU] 匈牙利 | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_ID] 印度尼西亚 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] |
-| ![][flag_IL] 以色列 | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_IT] 意大利 | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_JP] 日本 | ![][true] | ![][true] (2nd) | ![][true] (2nd) | ![][true] | ![][true] (1st) | ![][true] | ![][false] |
-| ![][flag_LV] 拉脱维亚 | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_LT] 立陶宛 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] |
-| ![][flag_MO] 澳门 | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_MY] 马来西亚 | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] |
-| ![][flag_MX] 墨西哥 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NL] 荷兰 | ![][true] (2nd) | ![][true] | ![][true] (4th) | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NZ] 新西兰 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NO] 挪威 | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_PH] 菲律宾 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_PL] 波兰 | ![][true] | ![][true] | ![][true] | ![][true] (3rd) | ![][true] (2nd) | ![][true] (3rd) | ![][true] |
-| ![][flag_PT] 葡萄牙 | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] |
-| ![][flag_RU] 俄罗斯 | ![][true] | ![][true] (4th) | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_SG] 新加坡 | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_KR] 韩国 | ![][true] (3rd) | ![][true] (1st) | ![][true] (1st) | ![][true] (1st) | ![][true] (4th) | ![][true] (4th) | ![][true] (3rd) |
-| ![][flag_ES] 西班牙 | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ![][flag_SE] 瑞典 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_TW] 台湾 | ![][true] (1st) | ![][true] | ![][true] (3rd) | ![][true] (2nd) | ![][true] | ![][true] | ![][true] |
-| ![][flag_TH] 泰国 | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] |
-| ![][flag_TR] 土耳其 | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_UA] 乌克兰 | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_GB] 英国 | ![][true] | ![][false] | ![][true] | ![][true] (4th) | ![][true] | ![][true] | ![][true] (4th) |
-| ![][flag_US] 美国 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] (1st) | ![][true] (1st) |
-| ![][flag_UY] 乌拉圭 | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_VE] 委内瑞拉 | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
-| ![][flag_VN] 越南 | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=AR }:: 阿根廷 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=AU }:: 澳大利亚 | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=AT }:: 奥地利 | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=BE }:: 比利时 | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=BR }:: 巴西 | ![][true] | ![][true] (3rd) | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=BG }:: 保加利亚 | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=CA }:: 加拿大 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=CL }:: 智利 | ![][true] (4th) | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] |
+| ::{ flag=CN }:: 中国 | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] (2nd) | ![][true] (2nd) |
+| ::{ flag=DK }:: 丹麦 | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] |
+| ::{ flag=DO }:: 多米尼加 | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=EE }:: 爱沙尼亚 | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=FI }:: 芬兰 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=FR }:: 法国 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=DE }:: 德国 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] (3rd) | ![][true] | ![][true] |
+| ::{ flag=GR }:: 希腊 | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=HK }:: 香港 | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=HU }:: 匈牙利 | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=ID }:: 印度尼西亚 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] |
+| ::{ flag=IL }:: 以色列 | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ::{ flag=IT }:: 意大利 | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=JP }:: 日本 | ![][true] | ![][true] (2nd) | ![][true] (2nd) | ![][true] | ![][true] (1st) | ![][true] | ![][false] |
+| ::{ flag=LV }:: 拉脱维亚 | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=LT }:: 立陶宛 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=MO }:: 澳门 | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=MY }:: 马来西亚 | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=MX }:: 墨西哥 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=NL }:: 荷兰 | ![][true] (2nd) | ![][true] | ![][true] (4th) | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=NZ }:: 新西兰 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=NO }:: 挪威 | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=PH }:: 菲律宾 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=PL }:: 波兰 | ![][true] | ![][true] | ![][true] | ![][true] (3rd) | ![][true] (2nd) | ![][true] (3rd) | ![][true] |
+| ::{ flag=PT }:: 葡萄牙 | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=RU }:: 俄罗斯 | ![][true] | ![][true] (4th) | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=SG }:: 新加坡 | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=KR }:: 韩国 | ![][true] (3rd) | ![][true] (1st) | ![][true] (1st) | ![][true] (1st) | ![][true] (4th) | ![][true] (4th) | ![][true] (3rd) |
+| ::{ flag=ES }:: 西班牙 | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ::{ flag=SE }:: 瑞典 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=TW }:: 台湾 | ![][true] (1st) | ![][true] | ![][true] (3rd) | ![][true] (2nd) | ![][true] | ![][true] | ![][true] |
+| ::{ flag=TH }:: 泰国 | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=TR }:: 土耳其 | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=UA }:: 乌克兰 | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=GB }:: 英国 | ![][true] | ![][false] | ![][true] | ![][true] (4th) | ![][true] | ![][true] | ![][true] (4th) |
+| ::{ flag=US }:: 美国 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] (1st) | ![][true] (1st) |
+| ::{ flag=UY }:: 乌拉圭 | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=VE }:: 委内瑞拉 | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=VN }:: 越南 | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | 队伍总数 | 28 | 32 | 32 | 32 | 32 | 32 | 32 |
 
 ### osu!taiko
@@ -118,51 +118,51 @@ outdated_since: 7664f3dcbe92ee0f5768b8a6fbfaa3a592237025
 
 | 排名 | 国家 | 冠军 | 亚军 | 季军 |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_JP] 日本 | 5 | 1 | 2 |
-| 2 | ![][flag_TW] 台湾 | 2 | 3 |  |
-| 3 | ![][flag_HK] 香港 |  | 3 | 1 |
-| 4 | ![][flag_FR] 法国 |  |  | 2 |
-| 5 | ![][flag_CA] 加拿大 |  |  | 1 |
-| 5 | ![][flag_CN] 中国 |  |  | 1 |
+| 1 | ::{ flag=JP }:: 日本 | 5 | 1 | 2 |
+| 2 | ::{ flag=TW }:: 台湾 | 2 | 3 |  |
+| 3 | ::{ flag=HK }:: 香港 |  | 3 | 1 |
+| 4 | ::{ flag=FR }:: 法国 |  |  | 2 |
+| 5 | ::{ flag=CA }:: 加拿大 |  |  | 1 |
+| 5 | ::{ flag=CN }:: 中国 |  |  | 1 |
 
 #### 出勤率
 
 | 国家 | 2011 | 2012 | \#3 | 2014 | 2015 | 2016 | 2017 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| ![][flag_AR] 阿根廷 | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_AU] 澳大利亚 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_AT] 奥地利 | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_BR] 巴西 | ![][true] ½ | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_CA] 加拿大 | ![][false] | ![][true] | ![][true] 4th ×2 | ![][true] | ![][true] | ![][true] 3rd | ![][true] 4th |
-| ![][flag_CL] 智利 | ![][true] ½ | ![][true] | ![][true] ×2 | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_CN] 中国 | ![][true] 3rd | ![][true] | ![][true] ×2 | ![][true] 4th | ![][true] | ![][true] | ![][true] |
-| ![][flag_DK] 丹麦 | ![][false] | ![][false] | ![][true] ½ | ![][false] | ![][true] | ![][false] | ![][false] |
-| ![][flag_SV] 萨尔瓦多 | ![][false] | ![][false] | ![][true] ½ | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_FI] 芬兰 | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] |
-| ![][flag_FR] 法国 | ![][true] | ![][true] 4th | ![][true] | ![][true] 3rd | ![][true] 3rd | ![][true] | ![][true] |
-| ![][flag_DE] 德国 | ![][true] ×2 | ![][true] ×2 | ![][true] ×2 | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_HK] 香港 | ![][true] | ![][true] 2nd ×2 | ![][true] 2nd ×2 | ![][true] 2nd | ![][true] 4th | ![][true] | ![][true] 3rd |
-| ![][flag_HU] 匈牙利 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] |
-| ![][flag_ID] 印度尼西亚 | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_IT] 意大利 | ![][true] ½ | ![][true] ½ | ![][true] ½ | ![][false] | ![][true] | ![][true] | ![][false] |
-| ![][flag_JP] 日本 | ![][true] 2nd | ![][true] 1st 3rd ×2 | ![][true] 3rd ×2 | ![][true] 1st | ![][true] 1st | ![][true] 1st | ![][true] 1st |
-| ![][flag_MO] 澳门 | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_MY] 马来西亚 | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_NL] 荷兰 | ![][true] ½ | ![][true] ½ | ![][true] ½ | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_NO] 挪威 | ![][false] | ![][false] | ![][true] ½ | ![][false] | ![][true] | ![][false] | ![][true] |
-| ![][flag_PH] 菲律宾 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] |
-| ![][flag_PL] 波兰 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_RU] 俄罗斯 | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_SG] 新加坡 | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
-| ![][flag_KR] 韩国 | ![][true] ×2 | ![][true] ×2 | ![][true] | ![][true] | ![][true] | ![][true] 4th | ![][true] |
-| ![][flag_ES] 西班牙 | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_SE] 瑞典 | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_TW] 台湾 | ![][true] 1st | ![][true] ×2 | ![][true] 1st ×2 | ![][false] | ![][true] 2nd | ![][true] 2nd | ![][true] 2nd |
-| ![][flag_TH] 泰国 | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_UA] 乌克兰 | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_GB] 英国 | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_US] 美国 | ![][true] 4th | ![][true] ×2 | ![][true] ×2 | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_VE] 委内瑞拉 | ![][false] | ![][false] | ![][true] ½ | ![][false] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=AR }:: 阿根廷 | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=AU }:: 澳大利亚 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=AT }:: 奥地利 | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=BR }:: 巴西 | ![][true] ½ | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=CA }:: 加拿大 | ![][false] | ![][true] | ![][true] 4th ×2 | ![][true] | ![][true] | ![][true] 3rd | ![][true] 4th |
+| ::{ flag=CL }:: 智利 | ![][true] ½ | ![][true] | ![][true] ×2 | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=CN }:: 中国 | ![][true] 3rd | ![][true] | ![][true] ×2 | ![][true] 4th | ![][true] | ![][true] | ![][true] |
+| ::{ flag=DK }:: 丹麦 | ![][false] | ![][false] | ![][true] ½ | ![][false] | ![][true] | ![][false] | ![][false] |
+| ::{ flag=SV }:: 萨尔瓦多 | ![][false] | ![][false] | ![][true] ½ | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=FI }:: 芬兰 | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] |
+| ::{ flag=FR }:: 法国 | ![][true] | ![][true] 4th | ![][true] | ![][true] 3rd | ![][true] 3rd | ![][true] | ![][true] |
+| ::{ flag=DE }:: 德国 | ![][true] ×2 | ![][true] ×2 | ![][true] ×2 | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=HK }:: 香港 | ![][true] | ![][true] 2nd ×2 | ![][true] 2nd ×2 | ![][true] 2nd | ![][true] 4th | ![][true] | ![][true] 3rd |
+| ::{ flag=HU }:: 匈牙利 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] |
+| ::{ flag=ID }:: 印度尼西亚 | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=IT }:: 意大利 | ![][true] ½ | ![][true] ½ | ![][true] ½ | ![][false] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=JP }:: 日本 | ![][true] 2nd | ![][true] 1st 3rd ×2 | ![][true] 3rd ×2 | ![][true] 1st | ![][true] 1st | ![][true] 1st | ![][true] 1st |
+| ::{ flag=MO }:: 澳门 | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=MY }:: 马来西亚 | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=NL }:: 荷兰 | ![][true] ½ | ![][true] ½ | ![][true] ½ | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=NO }:: 挪威 | ![][false] | ![][false] | ![][true] ½ | ![][false] | ![][true] | ![][false] | ![][true] |
+| ::{ flag=PH }:: 菲律宾 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=PL }:: 波兰 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=RU }:: 俄罗斯 | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=SG }:: 新加坡 | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=KR }:: 韩国 | ![][true] ×2 | ![][true] ×2 | ![][true] | ![][true] | ![][true] | ![][true] 4th | ![][true] |
+| ::{ flag=ES }:: 西班牙 | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=SE }:: 瑞典 | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=TW }:: 台湾 | ![][true] 1st | ![][true] ×2 | ![][true] 1st ×2 | ![][false] | ![][true] 2nd | ![][true] 2nd | ![][true] 2nd |
+| ::{ flag=TH }:: 泰国 | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=UA }:: 乌克兰 | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=GB }:: 英国 | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=US }:: 美国 | ![][true] 4th | ![][true] ×2 | ![][true] ×2 | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=VE }:: 委内瑞拉 | ![][false] | ![][false] | ![][true] ½ | ![][false] | ![][false] | ![][true] | ![][true] |
 | 队伍总数 | 17 | 24 | 32 | 20 | 24 | 24 | 24 |
 
 ### osu!catch
@@ -171,63 +171,63 @@ outdated_since: 7664f3dcbe92ee0f5768b8a6fbfaa3a592237025
 
 | 排名 | 国家 | 冠军 | 亚军 | 季军 |
 | :-: | :-: | :-: | :-: | :-: |
-| 1 | ![][flag_KR] 韩国 | 2 |  |  |
-| 2 | ![][flag_CN] 中国 | 1 | 1 |  |
-| 3 | ![][flag_CL] 智利 | 1 |  |  |
-| 4 | ![][flag_DE] 德国 |  | 1 | 2 |
-| 5 | ![][flag_ID] 印度尼西亚 |  | 1 |  |
-| 5 | ![][flag_TW] 台湾 |  | 1 |  |
-| 6 | ![][flag_AR] 阿根廷 |  |  | 1 |
-| 6 | ![][flag_CO] 哥伦比亚 |  |  | 1 |
-| 6 | ![][flag_SE] 瑞典 |  |  | 1 |
+| 1 | ::{ flag=KR }:: 韩国 | 2 |  |  |
+| 2 | ::{ flag=CN }:: 中国 | 1 | 1 |  |
+| 3 | ::{ flag=CL }:: 智利 | 1 |  |  |
+| 4 | ::{ flag=DE }:: 德国 |  | 1 | 2 |
+| 5 | ::{ flag=ID }:: 印度尼西亚 |  | 1 |  |
+| 5 | ::{ flag=TW }:: 台湾 |  | 1 |  |
+| 6 | ::{ flag=AR }:: 阿根廷 |  |  | 1 |
+| 6 | ::{ flag=CO }:: 哥伦比亚 |  |  | 1 |
+| 6 | ::{ flag=SE }:: 瑞典 |  |  | 1 |
 
 #### 出勤率
 
 | 国家 | 2013 | 2014 | 2015 | 2016 |
 | :-- | :-- | :-- | :-- | :-- |
-| ![][flag_AR] 阿根廷 | ![][true] 3rd ½ | ![][true] | ![][true] | ![][true] |
-| ![][flag_AU] 澳大利亚 | ![][false] | ![][false] | ![][true] | ![][true] |
-| ![][flag_AT] 奥地利 | ![][true] | ![][true] | ![][true] | ![][false] |
-| ![][flag_BE] 比利时 | ![][false] | ![][false] | ![][true] | ![][true] |
-| ![][flag_BO] 玻利维亚 | ![][false] | ![][true] | ![][false] | ![][false] |
-| ![][flag_BR] 巴西 | ![][false] | ![][false] | ![][true] | ![][true] |
-| ![][flag_CA] 加拿大 | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_CL] 智利 | ![][true] 1st ×2 | ![][false] | ![][true] 4th | ![][true] |
-| ![][flag_CN] 中国 | ![][true] | ![][true] | ![][true] 2nd | ![][true] 1st |
-| ![][flag_CO] 哥伦比亚 | ![][true] 3rd ½ | ![][false] | ![][false] | ![][false] |
-| ![][flag_CR] 哥斯达黎加 | ![][true] | ![][false] | ![][false] | ![][false] |
-| ![][flag_HR] 克罗地亚 | ![][false] | ![][true] | ![][false] | ![][false] |
-| ![][flag_CZ] 捷克 | ![][true] ½ | ![][false] | ![][false] | ![][false] |
-| ![][flag_DK] 丹麦 | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_EE] 爱沙尼亚 | ![][false] | ![][true] | ![][false] | ![][false] |
-| ![][flag_FI] 芬兰 | ![][true] 4th | ![][true] | ![][true] | ![][true] |
-| ![][flag_FR] 法国 | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_DE] 德国 | ![][true] ×2 | ![][true] 2nd | ![][true] 3rd | ![][true] 3rd |
-| ![][flag_HK] 香港 | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_HU] 匈牙利 | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_ID] 印度尼西亚 | ![][true] ×2 | ![][true] | ![][true] | ![][true] 2nd |
-| ![][flag_IT] 意大利 | ![][true] ×2 | ![][false] | ![][true] | ![][true] |
-| ![][flag_JP] 日本 | ![][true] | ![][true] 4th | ![][true] | ![][true] |
-| ![][flag_MY] 马来西亚 | ![][true] ×2 | ![][true] | ![][true] | ![][true] |
-| ![][flag_MX] 墨西哥 | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NL] 荷兰 | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_NZ] 新西兰 | ![][false] | ![][true] | ![][false] | ![][true] |
-| ![][flag_NO] 挪威 | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_PE] 秘鲁 | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_PH] 菲律宾 | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_PL] 波兰 | ![][true] ½ | ![][true] | ![][true] | ![][true] |
-| ![][flag_RU] 俄罗斯 | ![][true] ½ | ![][false] | ![][true] | ![][true] |
-| ![][flag_SG] 新加坡 | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_KR] 韩国 | ![][true] | ![][true] 1st | ![][true] 1st | ![][true] 4th |
-| ![][flag_ES] 西班牙 | ![][true] | ![][true] | ![][true] | ![][false] |
-| ![][flag_SE] 瑞典 | ![][false] | ![][true] 3rd | ![][true] | ![][true] |
-| ![][flag_TW] 台湾 | ![][true] 2nd ×2 | ![][true] | ![][true] | ![][true] |
-| ![][flag_TH] 泰国 | ![][true] | ![][true] | ![][true] | ![][false] |
-| ![][flag_UA] 乌克兰 | ![][true] ½ | ![][false] | ![][false] | ![][false] |
-| ![][flag_GB] 英国 | ![][false] | ![][true] | ![][true] | ![][true] |
-| ![][flag_US] 美国 | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_UY] 乌拉圭 | ![][false] | ![][true] | ![][false] | ![][false] |
-| ![][flag_VE] 委内瑞拉 | ![][false] | ![][false] | ![][false] | ![][true] |
+| ::{ flag=AR }:: 阿根廷 | ![][true] 3rd ½ | ![][true] | ![][true] | ![][true] |
+| ::{ flag=AU }:: 澳大利亚 | ![][false] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=AT }:: 奥地利 | ![][true] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=BE }:: 比利时 | ![][false] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=BO }:: 玻利维亚 | ![][false] | ![][true] | ![][false] | ![][false] |
+| ::{ flag=BR }:: 巴西 | ![][false] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=CA }:: 加拿大 | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=CL }:: 智利 | ![][true] 1st ×2 | ![][false] | ![][true] 4th | ![][true] |
+| ::{ flag=CN }:: 中国 | ![][true] | ![][true] | ![][true] 2nd | ![][true] 1st |
+| ::{ flag=CO }:: 哥伦比亚 | ![][true] 3rd ½ | ![][false] | ![][false] | ![][false] |
+| ::{ flag=CR }:: 哥斯达黎加 | ![][true] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=HR }:: 克罗地亚 | ![][false] | ![][true] | ![][false] | ![][false] |
+| ::{ flag=CZ }:: 捷克 | ![][true] ½ | ![][false] | ![][false] | ![][false] |
+| ::{ flag=DK }:: 丹麦 | ![][false] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=EE }:: 爱沙尼亚 | ![][false] | ![][true] | ![][false] | ![][false] |
+| ::{ flag=FI }:: 芬兰 | ![][true] 4th | ![][true] | ![][true] | ![][true] |
+| ::{ flag=FR }:: 法国 | ![][true] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=DE }:: 德国 | ![][true] ×2 | ![][true] 2nd | ![][true] 3rd | ![][true] 3rd |
+| ::{ flag=HK }:: 香港 | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=HU }:: 匈牙利 | ![][true] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=ID }:: 印度尼西亚 | ![][true] ×2 | ![][true] | ![][true] | ![][true] 2nd |
+| ::{ flag=IT }:: 意大利 | ![][true] ×2 | ![][false] | ![][true] | ![][true] |
+| ::{ flag=JP }:: 日本 | ![][true] | ![][true] 4th | ![][true] | ![][true] |
+| ::{ flag=MY }:: 马来西亚 | ![][true] ×2 | ![][true] | ![][true] | ![][true] |
+| ::{ flag=MX }:: 墨西哥 | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=NL }:: 荷兰 | ![][false] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=NZ }:: 新西兰 | ![][false] | ![][true] | ![][false] | ![][true] |
+| ::{ flag=NO }:: 挪威 | ![][false] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=PE }:: 秘鲁 | ![][true] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=PH }:: 菲律宾 | ![][true] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=PL }:: 波兰 | ![][true] ½ | ![][true] | ![][true] | ![][true] |
+| ::{ flag=RU }:: 俄罗斯 | ![][true] ½ | ![][false] | ![][true] | ![][true] |
+| ::{ flag=SG }:: 新加坡 | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=KR }:: 韩国 | ![][true] | ![][true] 1st | ![][true] 1st | ![][true] 4th |
+| ::{ flag=ES }:: 西班牙 | ![][true] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=SE }:: 瑞典 | ![][false] | ![][true] 3rd | ![][true] | ![][true] |
+| ::{ flag=TW }:: 台湾 | ![][true] 2nd ×2 | ![][true] | ![][true] | ![][true] |
+| ::{ flag=TH }:: 泰国 | ![][true] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=UA }:: 乌克兰 | ![][true] ½ | ![][false] | ![][false] | ![][false] |
+| ::{ flag=GB }:: 英国 | ![][false] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=US }:: 美国 | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=UY }:: 乌拉圭 | ![][false] | ![][true] | ![][false] | ![][false] |
+| ::{ flag=VE }:: 委内瑞拉 | ![][false] | ![][false] | ![][false] | ![][true] |
 | 队伍总数 | 32 | 28 | 32 | 32 |
 
 ### osu!mania
@@ -236,60 +236,60 @@ outdated_since: 7664f3dcbe92ee0f5768b8a6fbfaa3a592237025
 
 | 排名 | 国家 | 冠军 | 亚军 | 季军 |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] 韩国 | 3 | 1 |  |
-| 2 | ![][flag_US] 美国 | 1 |  | 1 |
-| 3 | ![][flag_CN] 中国 | 1 |  |  |
-| 4 | ![][flag_BR] 巴西 |  | 1 |  |
-| 4 | ![][flag_JP] 日本 |  | 1 |  |
-| 4 | ![][flag_PH] 菲律宾 |  | 1 |  |
-| 4 | ![][flag_TH] 泰国 |  | 1 |  |
-| 5 | ![][flag_MY] 马来西亚 |  |  | 3 |
-| 6 | ![][flag_GB] 英国 |  |  | 1 |
+| 1 | ::{ flag=KR }:: 韩国 | 3 | 1 |  |
+| 2 | ::{ flag=US }:: 美国 | 1 |  | 1 |
+| 3 | ::{ flag=CN }:: 中国 | 1 |  |  |
+| 4 | ::{ flag=BR }:: 巴西 |  | 1 |  |
+| 4 | ::{ flag=JP }:: 日本 |  | 1 |  |
+| 4 | ::{ flag=PH }:: 菲律宾 |  | 1 |  |
+| 4 | ::{ flag=TH }:: 泰国 |  | 1 |  |
+| 5 | ::{ flag=MY }:: 马来西亚 |  |  | 3 |
+| 6 | ::{ flag=GB }:: 英国 |  |  | 1 |
 
 #### 出勤率
 
 | 国家 | 2014 4K | 2014 7K | 2015 4K | 2016 7K | 2016 4K | 2017 7K |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| ![][flag_AR] 阿根廷 | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_AU] 澳大利亚 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_BE] 比利时 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
-| ![][flag_BR] 巴西 | ![][false] | ![][false] | ![][true] 4th | ![][true] | ![][true] 2nd | ![][true] |
-| ![][flag_CA] 加拿大 | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
-| ![][flag_CL] 智利 | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_CN] 中国 | ![][false] | ![][true] | ![][true] | ![][true] 1st | ![][false] | ![][true] |
-| ![][flag_CZ] 捷克 | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_DK] 丹麦 | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] |
-| ![][flag_FI] 芬兰 | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] |
-| ![][flag_FR] 法国 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_DE] 德国 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] |
-| ![][flag_HK] 香港 | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] |
-| ![][flag_ID] 印度尼西亚 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_IL] 以色列 | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
-| ![][flag_IT] 意大利 | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
-| ![][flag_JP] 日本 | ![][true] | ![][true] 4th | ![][true] 2nd | ![][true] 4th | ![][true] 4th | ![][false] |
-| ![][flag_LT] 立陶宛 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
-| ![][flag_MO] 澳门 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
-| ![][flag_MY] 马来西亚 | ![][true] 3rd | ![][true] 3rd | ![][true] | ![][true] 3rd | ![][true] | ![][true] |
-| ![][flag_MX] 墨西哥 | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] |
-| ![][flag_NL] 荷兰 | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] |
-| ![][flag_NZ] 新西兰 | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] |
-| ![][flag_NO] 挪威 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] |
-| ![][flag_PE] 秘鲁 | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
-| ![][flag_PH] 菲律宾 | ![][true] 2nd | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_PL] 波兰 | ![][true] 4th | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_PT] 葡萄牙 | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ![][flag_RU] 俄罗斯 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_SG] 新加坡 | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_KR] 韩国 | ![][true] 1st | ![][true] 1st | ![][true] | ![][true] 2nd | ![][true] 1st | ![][true] |
-| ![][flag_ES] 西班牙 | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
-| ![][flag_SE] 瑞典 | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
-| ![][flag_CH] 瑞士 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
-| ![][flag_TW] 台湾 | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] |
-| ![][flag_TH] 泰国 | ![][false] | ![][true] 2nd | ![][true] | ![][false] | ![][true] | ![][true] |
-| ![][flag_GB] 英国 | ![][true] | ![][true] | ![][true] 3rd | ![][true] | ![][true] | ![][true] |
-| ![][flag_US] 美国 | ![][true] | ![][true] | ![][true] 1st | ![][true] | ![][true] 3rd | ![][true] |
-| ![][flag_VE] 委内瑞拉 | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
-| ![][flag_VN] 越南 | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=AR }:: 阿根廷 | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=AU }:: 澳大利亚 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=BE }:: 比利时 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=BR }:: 巴西 | ![][false] | ![][false] | ![][true] 4th | ![][true] | ![][true] 2nd | ![][true] |
+| ::{ flag=CA }:: 加拿大 | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=CL }:: 智利 | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=CN }:: 中国 | ![][false] | ![][true] | ![][true] | ![][true] 1st | ![][false] | ![][true] |
+| ::{ flag=CZ }:: 捷克 | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=DK }:: 丹麦 | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=FI }:: 芬兰 | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=FR }:: 法国 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=DE }:: 德国 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=HK }:: 香港 | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=ID }:: 印度尼西亚 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=IL }:: 以色列 | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=IT }:: 意大利 | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=JP }:: 日本 | ![][true] | ![][true] 4th | ![][true] 2nd | ![][true] 4th | ![][true] 4th | ![][false] |
+| ::{ flag=LT }:: 立陶宛 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=MO }:: 澳门 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=MY }:: 马来西亚 | ![][true] 3rd | ![][true] 3rd | ![][true] | ![][true] 3rd | ![][true] | ![][true] |
+| ::{ flag=MX }:: 墨西哥 | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=NL }:: 荷兰 | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=NZ }:: 新西兰 | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=NO }:: 挪威 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=PE }:: 秘鲁 | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=PH }:: 菲律宾 | ![][true] 2nd | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=PL }:: 波兰 | ![][true] 4th | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=PT }:: 葡萄牙 | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=RU }:: 俄罗斯 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=SG }:: 新加坡 | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=KR }:: 韩国 | ![][true] 1st | ![][true] 1st | ![][true] | ![][true] 2nd | ![][true] 1st | ![][true] |
+| ::{ flag=ES }:: 西班牙 | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=SE }:: 瑞典 | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
+| ::{ flag=CH }:: 瑞士 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
+| ::{ flag=TW }:: 台湾 | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] |
+| ::{ flag=TH }:: 泰国 | ![][false] | ![][true] 2nd | ![][true] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=GB }:: 英国 | ![][true] | ![][true] | ![][true] 3rd | ![][true] | ![][true] | ![][true] |
+| ::{ flag=US }:: 美国 | ![][true] | ![][true] | ![][true] 1st | ![][true] | ![][true] 3rd | ![][true] |
+| ::{ flag=VE }:: 委内瑞拉 | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=VN }:: 越南 | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
 | 队伍总数 | 19 | 19 | 32 | 20 | 32 | 16 |
 
 ## Notes

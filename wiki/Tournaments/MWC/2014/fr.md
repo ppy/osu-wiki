@@ -33,11 +33,11 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 
 | Job | Person(s) |
 | :-- | :-- |
-| Direction | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
-| Séléction des beatmaps | ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) // ![][flag_CL] [Agka](https://osu.ppy.sh/users/64811) |
-| Retransmission des matchs | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Commentaires | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) // ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_IT] [Roxas](https://osu.ppy.sh/users/1041833) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) // ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
-| Statistiques | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| Direction | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) // ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) // ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) |
+| Séléction des beatmaps | ::{ flag=RU }:: [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) // ::{ flag=CL }:: [Agka](https://osu.ppy.sh/users/64811) |
+| Retransmission des matchs | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) // ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) // ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
+| Commentaires | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) // ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078) // ::{ flag=IT }:: [Roxas](https://osu.ppy.sh/users/1041833) // ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) // ::{ flag=RU }:: [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
+| Statistiques | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links
 

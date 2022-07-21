@@ -11,7 +11,7 @@ outdated_translation: true
 
 El **osu! Taiko World Cup 2015** (***TWC 2015***) es un torneo mundial organizado por los **Administradores del Torneo** ([Tournament Management](https://osu.ppy.sh/groups/26) ), ésta es su 5ta edición, la cual inicia el 12 de enero y finaliza el 15 de marzo del año en curso.
 
-El país campeón del torneo anterior es ![][flag_JP] **Japón**.
+El país campeón del torneo anterior es ::{ flag=JP }:: **Japón**.
 
 ## Agenda del Torneo
 
@@ -38,11 +38,11 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
 
 | Job | Person |
 | :-- | :-- |
-| Administradores del Torneo | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
-| Seleccionador de Beatmaps | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
-| Conductores (Video Stream) | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Comentaristas | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Estadistico | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| Administradores del Torneo | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) // ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) // ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) |
+| Seleccionador de Beatmaps | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| Conductores (Video Stream) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) // ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) // ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
+| Comentaristas | ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078) // ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
+| Estadistico | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links
 

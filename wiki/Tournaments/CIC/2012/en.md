@@ -6,7 +6,7 @@ tags:
 
 # Catch the Beat Indonesia Cup 2012
 
-The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) was an Indonesian 1v1 osu!catch tournament hosted by ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508). It was the first instalment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) was an Indonesian 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Varri Naufalb](https://osu.ppy.sh/users/1174508). It was the first instalment of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -34,9 +34,9 @@ The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch co
 
 | Position | Member(s) |
 | :-- | :-- |
-| Staff | ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508), ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [awell](https://osu.ppy.sh/users/341298), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925), ![][flag_ID] [AeroRange](https://osu.ppy.sh/users/405659), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) |
-| Mappool selector | ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925) |
-| Sponsor | ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925), ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508) |
+| Staff | ::{ flag=ID }:: [Varri Naufalb](https://osu.ppy.sh/users/1174508), ::{ flag=ID }:: [-Newbie-](https://osu.ppy.sh/users/434914), ::{ flag=ID }:: [awell](https://osu.ppy.sh/users/341298), ::{ flag=ID }:: [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ::{ flag=ID }:: [chibidanil](https://osu.ppy.sh/users/840925), ::{ flag=ID }:: [AeroRange](https://osu.ppy.sh/users/405659), ::{ flag=ID }:: [urs4chan](https://osu.ppy.sh/users/321063) |
+| Mappool selector | ::{ flag=ID }:: [-Newbie-](https://osu.ppy.sh/users/434914), ::{ flag=ID }:: [chibidanil](https://osu.ppy.sh/users/840925) |
+| Sponsor | ::{ flag=ID }:: [chibidanil](https://osu.ppy.sh/users/840925), ::{ flag=ID }:: [Varri Naufalb](https://osu.ppy.sh/users/1174508) |
 
 ## Links
 
@@ -46,22 +46,22 @@ The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch co
 
 | Group |  |  |
 | :-: | :-- | :-- |
-| **A** | ![][flag_ID] [swtboy](https://osu.ppy.sh/users/557944) | ![][flag_ID] [dOen9](https://osu.ppy.sh/users/1114648) |
-| **B** | ![][flag_ID] [Sheratan](https://osu.ppy.sh/users/960553) | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) |
-| **C** | ![][flag_ID] [Arashi354](https://osu.ppy.sh/users/897082) | ![][flag_ID] [moon\[light\]](https://osu.ppy.sh/users/478598) |
-| **D** | ![][flag_ID] [Sumatran](https://osu.ppy.sh/users/414409) | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) |
-| **E** | ![][flag_ID] Intel21 | ![][flag_ID] akukadal2 |
-| **F** | ![][flag_ID] [shinyurihara](https://osu.ppy.sh/users/546580) | ![][flag_ID] [Lady Vamps](https://osu.ppy.sh/users/611642) |
-| **G** | ![][flag_ID] [Dielz7](https://osu.ppy.sh/users/769195) | ![][flag_ID] [Axelvega](https://osu.ppy.sh/users/456202) |
-| **H** | ![][flag_ID] [Hakeru Prismriver](https://osu.ppy.sh/users/345422) | ![][flag_ID] [Yumi14](https://osu.ppy.sh/users/844165) |
-| **I** | ![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) | ![][flag_ID] [AeroRange](https://osu.ppy.sh/users/405659) |
-| **J** | ![][flag_ID] [YuiKannon](https://osu.ppy.sh/users/1124510) | ![][flag_ID] [-AbsoluteZero-](https://osu.ppy.sh/users/1374785) |
-| **K** | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) | ![][flag_ID] [alvissmarchen](https://osu.ppy.sh/users/550774) |
-| **L** | ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) | ![][flag_ID] [KateCisu](https://osu.ppy.sh/users/754762) |
-| **M** | ![][flag_ID] [paitehoens](https://osu.ppy.sh/users/553993) | ![][flag_ID] [rezaantoni](https://osu.ppy.sh/users/1093954) |
-| **N** | ![][flag_ID] [selova](https://osu.ppy.sh/users/767546) | ![][flag_ID] [GenesisRogue](https://osu.ppy.sh/users/919004) |
-| **O** | ![][flag_ID] [-\[Akazu\]-](https://osu.ppy.sh/users/1339388) | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) |
-| **P** | ![][flag_ID] [lufi10](https://osu.ppy.sh/users/314318) | ![][flag_ID] [Kenan Sisidi](https://osu.ppy.sh/users/518643) |
+| **A** | ::{ flag=ID }:: [swtboy](https://osu.ppy.sh/users/557944) | ::{ flag=ID }:: [dOen9](https://osu.ppy.sh/users/1114648) |
+| **B** | ::{ flag=ID }:: [Sheratan](https://osu.ppy.sh/users/960553) | ::{ flag=ID }:: [pacmanmania](https://osu.ppy.sh/users/942688) |
+| **C** | ::{ flag=ID }:: [Arashi354](https://osu.ppy.sh/users/897082) | ::{ flag=ID }:: [moon\[light\]](https://osu.ppy.sh/users/478598) |
+| **D** | ::{ flag=ID }:: [Sumatran](https://osu.ppy.sh/users/414409) | ::{ flag=ID }:: [nirvashzero](https://osu.ppy.sh/users/1254373) |
+| **E** | ::{ flag=ID }:: Intel21 | ::{ flag=ID }:: akukadal2 |
+| **F** | ::{ flag=ID }:: [shinyurihara](https://osu.ppy.sh/users/546580) | ::{ flag=ID }:: [Lady Vamps](https://osu.ppy.sh/users/611642) |
+| **G** | ::{ flag=ID }:: [Dielz7](https://osu.ppy.sh/users/769195) | ::{ flag=ID }:: [Axelvega](https://osu.ppy.sh/users/456202) |
+| **H** | ::{ flag=ID }:: [Hakeru Prismriver](https://osu.ppy.sh/users/345422) | ::{ flag=ID }:: [Yumi14](https://osu.ppy.sh/users/844165) |
+| **I** | ::{ flag=ID }:: [Drexel13](https://osu.ppy.sh/users/1140567) | ::{ flag=ID }:: [AeroRange](https://osu.ppy.sh/users/405659) |
+| **J** | ::{ flag=ID }:: [YuiKannon](https://osu.ppy.sh/users/1124510) | ::{ flag=ID }:: [-AbsoluteZero-](https://osu.ppy.sh/users/1374785) |
+| **K** | ::{ flag=ID }:: [r3yn41d0](https://osu.ppy.sh/users/500032) | ::{ flag=ID }:: [alvissmarchen](https://osu.ppy.sh/users/550774) |
+| **L** | ::{ flag=ID }:: [urs4chan](https://osu.ppy.sh/users/321063) | ::{ flag=ID }:: [KateCisu](https://osu.ppy.sh/users/754762) |
+| **M** | ::{ flag=ID }:: [paitehoens](https://osu.ppy.sh/users/553993) | ::{ flag=ID }:: [rezaantoni](https://osu.ppy.sh/users/1093954) |
+| **N** | ::{ flag=ID }:: [selova](https://osu.ppy.sh/users/767546) | ::{ flag=ID }:: [GenesisRogue](https://osu.ppy.sh/users/919004) |
+| **O** | ::{ flag=ID }:: [-\[Akazu\]-](https://osu.ppy.sh/users/1339388) | ::{ flag=ID }:: [Rey-volution](https://osu.ppy.sh/users/883990) |
+| **P** | ::{ flag=ID }:: [lufi10](https://osu.ppy.sh/users/314318) | ::{ flag=ID }:: [Kenan Sisidi](https://osu.ppy.sh/users/518643) |
 
 ## Podium
 
@@ -69,10 +69,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] Intel21 |
-| *4th place* | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [Rey-volution](https://osu.ppy.sh/users/883990) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [nirvashzero](https://osu.ppy.sh/users/1254373) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: Intel21 |
+| *4th place* | ::{ flag=ID }:: [r3yn41d0](https://osu.ppy.sh/users/500032) |
 
 ## Mappools
 
@@ -182,8 +182,8 @@ Saturday, 28 July 2012:
 
 | Match type | Player 1 |  |  |  Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| Championship | [nirvashzero](https://osu.ppy.sh/users/1254373) ![][flag_ID] | 0 | **3** | ![][flag_ID] **[Rey-volution](https://osu.ppy.sh/users/883990)** |
-| Consolation | **Intel21** ![][flag_ID] | **3** | 0 | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
+| Championship | [nirvashzero](https://osu.ppy.sh/users/1254373) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[Rey-volution](https://osu.ppy.sh/users/883990)** |
+| Consolation | **Intel21** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [r3yn41d0](https://osu.ppy.sh/users/500032) |
 
 ### Semifinals
 
@@ -191,11 +191,11 @@ Thursday, 12 July 2012:
 
 | Group | Player 1 |  |  |  Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| A | **[Rey-volution](https://osu.ppy.sh/users/883990)** ![][flag_ID] | **3** | 0 | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
+| A | **[Rey-volution](https://osu.ppy.sh/users/883990)** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [r3yn41d0](https://osu.ppy.sh/users/500032) |
 
 | Group | Walkouts |
 | :-: | --: |
-| A | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) |
+| A | ::{ flag=ID }:: [nirvashzero](https://osu.ppy.sh/users/1254373) |
 
 ### Quarterfinals
 
@@ -203,10 +203,10 @@ Friday, 29 June 2012:
 
 | Group | Player 1 |  |  |  Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| A | [pacmanmania](https://osu.ppy.sh/users/942688) ![][flag_ID] | 0 | **3** | ![][flag_ID] **[nirvashzero](https://osu.ppy.sh/users/1254373)** |
-| B | [Yumi14](https://osu.ppy.sh/users/844165) ![][flag_ID] | 0 | **3** | ![][flag_ID] **Intel21** |
-| C | [Drexel13](https://osu.ppy.sh/users/1140567) ![][flag_ID] | 2 | **3** | ![][flag_ID] **[r3yn41d0](https://osu.ppy.sh/users/500032)** |
-| D | [paitehoens](https://osu.ppy.sh/users/553993) ![][flag_ID] | 1 | **3** | ![][flag_ID] **[Rey-volution](https://osu.ppy.sh/users/883990)** |
+| A | [pacmanmania](https://osu.ppy.sh/users/942688) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[nirvashzero](https://osu.ppy.sh/users/1254373)** |
+| B | [Yumi14](https://osu.ppy.sh/users/844165) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **Intel21** |
+| C | [Drexel13](https://osu.ppy.sh/users/1140567) ::{ flag=ID }:: | 2 | **3** | ::{ flag=ID }:: **[r3yn41d0](https://osu.ppy.sh/users/500032)** |
+| D | [paitehoens](https://osu.ppy.sh/users/553993) ::{ flag=ID }:: | 1 | **3** | ::{ flag=ID }:: **[Rey-volution](https://osu.ppy.sh/users/883990)** |
 
 ### Second round
 
@@ -214,17 +214,17 @@ Saturday, 09 June 2012:
 
 | Group | Player 1 |  |  |  Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| B | [Arashi354](https://osu.ppy.sh/users/897082) ![][flag_ID] | 0 | **3** | ![][flag_ID] **[nirvashzero](https://osu.ppy.sh/users/1254373)** |
-| C | **Intel21** ![][flag_ID] | **3** | 0 | ![][flag_ID] [Lady Vamps](https://osu.ppy.sh/users/611642) |
-| E | **[Drexel13](https://osu.ppy.sh/users/1140567)** ![][flag_ID] | **3** | 1 | ![][flag_ID] [YuiKannon](https://osu.ppy.sh/users/1124510) |
+| B | [Arashi354](https://osu.ppy.sh/users/897082) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[nirvashzero](https://osu.ppy.sh/users/1254373)** |
+| C | **Intel21** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [Lady Vamps](https://osu.ppy.sh/users/611642) |
+| E | **[Drexel13](https://osu.ppy.sh/users/1140567)** ::{ flag=ID }:: | **3** | 1 | ::{ flag=ID }:: [YuiKannon](https://osu.ppy.sh/users/1124510) |
 
 | Group | Walkouts |
 | :-: | --: |
-| A | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) |
-| D | ![][flag_ID] [Yumi14](https://osu.ppy.sh/users/844165) |
-| F | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
-| G | ![][flag_ID] [paitehoens](https://osu.ppy.sh/users/553993) |
-| H | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) |
+| A | ::{ flag=ID }:: [pacmanmania](https://osu.ppy.sh/users/942688) |
+| D | ::{ flag=ID }:: [Yumi14](https://osu.ppy.sh/users/844165) |
+| F | ::{ flag=ID }:: [r3yn41d0](https://osu.ppy.sh/users/500032) |
+| G | ::{ flag=ID }:: [paitehoens](https://osu.ppy.sh/users/553993) |
+| H | ::{ flag=ID }:: [Rey-volution](https://osu.ppy.sh/users/883990) |
 
 ### First round
 
@@ -232,35 +232,35 @@ Sunday, 29 April 2012:
 
 | Group | Player 1 |  |  |  Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| I | **[Drexel13](https://osu.ppy.sh/users/1140567)** ![][flag_ID] | **3** | 2 | ![][flag_ID] [AeroRange](https://osu.ppy.sh/users/405659) |
-| L | **[urs4chan](https://osu.ppy.sh/users/321063)** ![][flag_ID] | **3** | 2 | ![][flag_ID] [KateCisu](https://osu.ppy.sh/users/754762) |
-| C | **[Arashi354](https://osu.ppy.sh/users/897082)** ![][flag_ID] | **3** | 0 | ![][flag_ID] [moon\[light\]](https://osu.ppy.sh/users/478598) |
+| I | **[Drexel13](https://osu.ppy.sh/users/1140567)** ::{ flag=ID }:: | **3** | 2 | ::{ flag=ID }:: [AeroRange](https://osu.ppy.sh/users/405659) |
+| L | **[urs4chan](https://osu.ppy.sh/users/321063)** ::{ flag=ID }:: | **3** | 2 | ::{ flag=ID }:: [KateCisu](https://osu.ppy.sh/users/754762) |
+| C | **[Arashi354](https://osu.ppy.sh/users/897082)** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [moon\[light\]](https://osu.ppy.sh/users/478598) |
 
 Saturday, 05 May 2012:
 
 | Group | Player 1 |  |  |  Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| E | **Intel21** ![][flag_ID] | **3** | 2 | ![][flag_ID] akukadal2 |
-| F | [shinyurihara](https://osu.ppy.sh/users/546580) ![][flag_ID] | 0 | **3** | ![][flag_ID] **[Lady Vamps](https://osu.ppy.sh/users/611642)** |
+| E | **Intel21** ::{ flag=ID }:: | **3** | 2 | ::{ flag=ID }:: akukadal2 |
+| F | [shinyurihara](https://osu.ppy.sh/users/546580) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[Lady Vamps](https://osu.ppy.sh/users/611642)** |
 
 Thursday, 10 May 2012:
 
 | Group | Player 1 |  |  |  Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| D | [Sumatran](https://osu.ppy.sh/users/414409) ![][flag_ID] | 1 | **3** | ![][flag_ID] **[nirvashzero](https://osu.ppy.sh/users/1254373)** |
-| M | **[paitehoens](https://osu.ppy.sh/users/553993)** ![][flag_ID] | **3** | 0 | ![][flag_ID] [rezaantoni](https://osu.ppy.sh/users/1093954) |
-| O | **[-\[Akazu\]-](https://osu.ppy.sh/users/1339388)** ![][flag_ID] | **3** | 1 | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) |
+| D | [Sumatran](https://osu.ppy.sh/users/414409) ::{ flag=ID }:: | 1 | **3** | ::{ flag=ID }:: **[nirvashzero](https://osu.ppy.sh/users/1254373)** |
+| M | **[paitehoens](https://osu.ppy.sh/users/553993)** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [rezaantoni](https://osu.ppy.sh/users/1093954) |
+| O | **[-\[Akazu\]-](https://osu.ppy.sh/users/1339388)** ::{ flag=ID }:: | **3** | 1 | ::{ flag=ID }:: [Rey-volution](https://osu.ppy.sh/users/883990) |
 
 | Group | Walkouts |
 | :-: | --: |
-| A | ![][flag_ID] [dOen9](https://osu.ppy.sh/users/1114648) |
-| B | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) |
-| G | ![][flag_ID] [Axelvega](https://osu.ppy.sh/users/456202) |
-| H | ![][flag_ID] [Yumi14](https://osu.ppy.sh/users/844165) |
-| J | ![][flag_ID] [YuiKannon](https://osu.ppy.sh/users/1124510) |
-| K | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
-| N | ![][flag_ID] [GenesisRogue](https://osu.ppy.sh/users/919004) |
-| P | ![][flag_ID] [Kenan Sisidi](https://osu.ppy.sh/users/518643) |
+| A | ::{ flag=ID }:: [dOen9](https://osu.ppy.sh/users/1114648) |
+| B | ::{ flag=ID }:: [pacmanmania](https://osu.ppy.sh/users/942688) |
+| G | ::{ flag=ID }:: [Axelvega](https://osu.ppy.sh/users/456202) |
+| H | ::{ flag=ID }:: [Yumi14](https://osu.ppy.sh/users/844165) |
+| J | ::{ flag=ID }:: [YuiKannon](https://osu.ppy.sh/users/1124510) |
+| K | ::{ flag=ID }:: [r3yn41d0](https://osu.ppy.sh/users/500032) |
+| N | ::{ flag=ID }:: [GenesisRogue](https://osu.ppy.sh/users/919004) |
+| P | ::{ flag=ID }:: [Kenan Sisidi](https://osu.ppy.sh/users/518643) |
 
 ## Ruleset
 

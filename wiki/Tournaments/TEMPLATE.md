@@ -51,7 +51,7 @@ The {TITLE} is run by various community members.
 | Designer |  |
 | Referee |  |
 | Statistician |  |
-<!-- | Example | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) | -->
+<!-- | Example | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [BanchoBot](https://osu.ppy.sh/users/3) | -->
 
 
 ## Links
@@ -66,7 +66,7 @@ The {TITLE} is run by various community members.
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AU] | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
+| ::{ flag=AU }:: | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
 |  |  |  |
 
 <!-- for 1v1 tournaments -->

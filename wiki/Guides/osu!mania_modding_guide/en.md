@@ -7,7 +7,7 @@
 - more proofreading in general
 -->
 
-*Original author: ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717).*
+*Original author: ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717).*
 
 This guide will go through how to mod a [beatmap](/wiki/Beatmap) in [osu!mania](/wiki/Game_mode/osu!mania). [Modding](/wiki/Modding) is a relatively simple process, and with enough practice, it can lead you to becoming a [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). So let's start!
 

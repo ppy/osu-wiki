@@ -34,9 +34,9 @@ The osu!taiko Featured Artist Cup: 2nd Edition is run by various community membe
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) |
-| Designer | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| Judge | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851), ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097), ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
+| Host | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| Designer | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
+| Judge | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
 
 ## Prizes
 
@@ -77,4 +77,4 @@ The osu!taiko Featured Artist Cup: 2nd Edition is run by various community membe
 
 ## Notes
 
-[^prizes-ranked]: 2 Beatmap Nominators from the contest's organisation team (either ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851), ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976), or ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)) will mod and push the map to Ranked if the mapper wants to, and **if they get the necessary difficulties to form a rankable spread when needed.**
+[^prizes-ranked]: 2 Beatmap Nominators from the contest's organisation team (either ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), or ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)) will mod and push the map to Ranked if the mapper wants to, and **if they get the necessary difficulties to form a rankable spread when needed.**

@@ -62,4 +62,4 @@ no_native_review: true
 ## 小细节
 
 - `BOT` 用户组标识代表账号的主用户组为 `Chat Bots`（用户组 #29），该用户组的成员并未公开列出。
-- 一些个人账号属于该用户组，是由于号主不想使用机器人账号，或未申请独立的机器人账号，例如 ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) 和 ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)。该模式现已不再支持，机器人账号必须使用给定的专用账号。
+- 一些个人账号属于该用户组，是由于号主不想使用机器人账号，或未申请独立的机器人账号，例如 ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) 和 ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)。该模式现已不再支持，机器人账号必须使用给定的专用账号。

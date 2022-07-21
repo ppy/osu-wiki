@@ -57,4 +57,4 @@ Isi email tersebut harus meliputi hal-hal berikut:
 ## Trivia
 
 - Lencana `BOT` ditampilkan pada akun dengan grup utama `Chat Bots` (group #29). Daftar grup ini tidak dipublikasikan secara umum.
-- Ada beberapa akun pribadi yang berada dalam grup *chat bots* karena pemiliknya tidak mau atau meminta untuk tidak dibuatkan akun bot terpisah seperti ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) dan ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Permintaan khusus seperti ini tidak lagi ditawarkan dan bot baru yang memasuki grup *chat bots* akan selalu diberikan akun eksklusif.
+- Ada beberapa akun pribadi yang berada dalam grup *chat bots* karena pemiliknya tidak mau atau meminta untuk tidak dibuatkan akun bot terpisah seperti ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) dan ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). Permintaan khusus seperti ini tidak lagi ditawarkan dan bot baru yang memasuki grup *chat bots* akan selalu diberikan akun eksklusif.

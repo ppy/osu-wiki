@@ -8,7 +8,7 @@ tags:
 
 ![KCC2021 banner](img/banner.png)
 
-The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping contest for users from ![][flag_KR] South Korea. It was the first instalment of the Korean Charting Contest.
+The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping contest for users from ::{ flag=KR }:: South Korea. It was the first instalment of the Korean Charting Contest.
 
 ## Contest schedule
 
@@ -33,10 +33,10 @@ The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping con
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) |
-| Manager | ![][flag_KR] [Oni Suika](https://osu.ppy.sh/users/4848023) |
-| Designer | ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| Judge | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/6392061), ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783), ![][flag_GT] [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_KR] [Pengdoll](https://osu.ppy.sh/users/6392061) |
+| Organiser | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) |
+| Manager | ::{ flag=KR }:: [Oni Suika](https://osu.ppy.sh/users/4848023) |
+| Designer | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
+| Judge | ::{ flag=PL }:: [_underjoy](https://osu.ppy.sh/users/6392061), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=GT }:: [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754), ::{ flag=KR }:: [Pengdoll](https://osu.ppy.sh/users/6392061) |
 
 ## Links
 
@@ -70,16 +70,16 @@ The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping con
 
 | Place | Mapper |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [11Bit](https://osu.ppy.sh/users/14804526) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [Sherie](https://osu.ppy.sh/users/9113475) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: [11Bit](https://osu.ppy.sh/users/14804526) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: [Sherie](https://osu.ppy.sh/users/9113475) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CA }:: [arpia97](https://osu.ppy.sh/users/6363008) |
 
 ## Ruleset
 
 ### Contest rules
 
 - This contest is for the osu!mania mode only.
-- Only Koreans can participate in this contest. If your profile flag does not show that you are in ![][flag_KR] South Korea for reasons such as foreign residence, you can still participate as long as you are able to verify that you are Korean.
+- Only Koreans can participate in this contest. If your profile flag does not show that you are in ::{ flag=KR }:: South Korea for reasons such as foreign residence, you can still participate as long as you are able to verify that you are Korean.
 - You should pick a song that you want to map when you register (one song for Instrumental / Vocal each). You can map one of those two songs after the voting ends.
 - The osu! client must be able to load and read your submission.
 - Submissions must be in the `.osz` format.

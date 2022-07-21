@@ -37,11 +37,11 @@ In addition to the osu! tournament documented here, the SoCal Fall Festival will
 
 There are five organizers for the osu! section of the SoCal Fall Festival:
 
-- ![][flag_US] **[Kahli](https://osu.ppy.sh/users/8926244)** (Kahli#3822)
-- ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) (DigitalHypno#6473)
-- ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901) (LLEENN#0001)
-- ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) (naranjasagged#8308)
-- ![][flag_US] [Scientia Fe](https://osu.ppy.sh/users/7872968) (Scientia#3691)
+- ::{ flag=US }:: **[Kahli](https://osu.ppy.sh/users/8926244)** (Kahli#3822)
+- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) (DigitalHypno#6473)
+- ::{ flag=ID }:: [LLEENN](https://osu.ppy.sh/users/2427901) (LLEENN#0001)
+- ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) (naranjasagged#8308)
+- ::{ flag=US }:: [Scientia Fe](https://osu.ppy.sh/users/7872968) (Scientia#3691)
 
 ## Links
 

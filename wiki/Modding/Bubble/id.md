@@ -21,7 +21,7 @@ Pada [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) modern, ekuival
 
 *Lihat juga: [Sejarah mapping dan modding](/wiki/Mapping_and_Modding_Timeline)*
 
-Bubble pada awalnya diperkenalkan oleh ![][flag_AU] peppy pada 29 Oktober 2007 untuk menandai "beatmap-beatmap yang dianggap sudah layak untuk di-rank (walaupun masih perlu untuk dikaji lebih lanjut oleh para moderator lainnya)". Memberikan ikon bubble pada utas beatmap adalah cara anggota BAT untuk menunjukkan bahwa beatmap memiliki kualitas yang baik dan telah mengikuti [ranking criteria](/wiki/Ranking_Criteria).
+Bubble pada awalnya diperkenalkan oleh ::{ flag=AU }:: peppy pada 29 Oktober 2007 untuk menandai "beatmap-beatmap yang dianggap sudah layak untuk di-rank (walaupun masih perlu untuk dikaji lebih lanjut oleh para moderator lainnya)". Memberikan ikon bubble pada utas beatmap adalah cara anggota BAT untuk menunjukkan bahwa beatmap memiliki kualitas yang baik dan telah mengikuti [ranking criteria](/wiki/Ranking_Criteria).
 
 Pada 3 Oktober 2010, MAT mendapatkan izin untuk menggunakan ikon bubble bersama BAT<!-- internal reference: https://osu.ppy.sh/community/forums/topics/38403 -->. Hal ini menyebabkan [proto-bubbles](/wiki/Modding/Proto-bubble) menjadi usang dan kedua tim telah menggunakan bubble sejak itu.
 

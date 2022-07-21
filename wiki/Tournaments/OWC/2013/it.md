@@ -6,7 +6,7 @@ outdated_translation: true
 
 ![OWC 2013 logo](img/logo.jpg)
 
-L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.sh/groups/26). dura dal 15th Ottobre 2013 fino al 8th Dicembre 2013. L'anno scorso il vincitore è stato: ![][flag_KR] **Korea**. AL momento, il torneo è in fase **Registrazione**.
+L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.sh/groups/26). dura dal 15th Ottobre 2013 fino al 8th Dicembre 2013. L'anno scorso il vincitore è stato: ::{ flag=KR }:: **Korea**. AL momento, il torneo è in fase **Registrazione**.
 
 ## Tabella giorni
 
@@ -26,15 +26,15 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
 
 ## Organizzazione
 
-**Gestione torneo:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/Loctav), ![][flag_US] [dkun](https://osu.ppy.sh/users/dkun), ![][flag_DE] [p3n](https://osu.ppy.sh/users/p3n)
+**Gestione torneo:** ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/Loctav), ::{ flag=US }:: [dkun](https://osu.ppy.sh/users/dkun), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/p3n)
 
 **Riferimenti:** [Tournament Management usergroup](https://osu.ppy.sh/groups/26)
 
-**Scelta delle beatmap:** ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/Darksonic), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/Wishy)
+**Scelta delle beatmap:** ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/Darksonic), ::{ flag=AR }:: [Wishy](https://osu.ppy.sh/users/Wishy)
 
-**Diretta trasmessa da:** ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/Nyquill), ![][flag_AU] [kingking9](https://osu.ppy.sh/users/kingking9), ![][flag_US] [Love](https://osu.ppy.sh/users/Love), ![][flag_EE] [ShinseinaTenshi](https://osu.ppy.sh/users/ShinseinaTenshi)
+**Diretta trasmessa da:** ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/Nyquill), ::{ flag=AU }:: [kingking9](https://osu.ppy.sh/users/kingking9), ::{ flag=US }:: [Love](https://osu.ppy.sh/users/Love), ::{ flag=EE }:: [ShinseinaTenshi](https://osu.ppy.sh/users/ShinseinaTenshi)
 
-**Commentatori:** ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/Mr_Color), ![][flag_US] [dkun](https://osu.ppy.sh/users/dkun), ![][flag_US] [Agnes](https://osu.ppy.sh/users/Agnes)
+**Commentatori:** ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/Mr_Color), ::{ flag=US }:: [dkun](https://osu.ppy.sh/users/dkun), ::{ flag=US }:: [Agnes](https://osu.ppy.sh/users/Agnes)
 
 ## Links
 

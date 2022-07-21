@@ -25,7 +25,7 @@ tags:
 
 ## Prizes
 
-Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329).
+Prizes for this tournament are sponsored by ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -37,12 +37,12 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 | Position | Member(s) |
 | :-: | :-- |
-| Organizer | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
-| Manager | ![][flag_CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| Mappool selector | ![][flag_CN] [Tofu1222](https://osu.ppy.sh/users/6089608), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
-| Streaming judgement | ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Commentator | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [644520858](https://osu.ppy.sh/users/5507069), ![][flag_CN] [wuhuanmin](https://osu.ppy.sh/users/935322) , ![][flag_CN] [704661982](https://osu.ppy.sh/users/7080633) |
-| Wiki editor | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Organizer | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256) |
+| Manager | ::{ flag=CN }:: [SSV Normandy](https://osu.ppy.sh/users/6475977) |
+| Mappool selector | ::{ flag=CN }:: [Tofu1222](https://osu.ppy.sh/users/6089608), ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329) |
+| Streaming judgement | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Commentator | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [644520858](https://osu.ppy.sh/users/5507069), ::{ flag=CN }:: [wuhuanmin](https://osu.ppy.sh/users/935322) , ::{ flag=CN }:: [704661982](https://osu.ppy.sh/users/7080633) |
+| Wiki editor | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
@@ -170,70 +170,70 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 | No. | Monday, 2018-08-13 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 29 | Skyshifter ![][flag_CN] | 2 | **7** | ![][flag_CN] **Toki 0w0** |  |
+| 29 | Skyshifter ::{ flag=CN }:: | 2 | **7** | ::{ flag=CN }:: **Toki 0w0** |  |
 
 | No. | Tuesday, 2018-08-14 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 30 | Crystal ![][flag_CN] | 4 | **7** | ![][flag_CN] **Toki 0w0** |  |
-| 31 | Toki 0w0 ![][flag_CN] | 5 | **7** | ![][flag_CN] **Crystal** |  |
+| 30 | Crystal ::{ flag=CN }:: | 4 | **7** | ::{ flag=CN }:: **Toki 0w0** |  |
+| 31 | Toki 0w0 ::{ flag=CN }:: | 5 | **7** | ::{ flag=CN }:: **Crystal** |  |
 
 ### Finals week 1
 
 | No. | Saturday, 2018-08-11 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 25 | **Toki 0w0** ![][flag_CN] | **6** | 3 | ![][flag_CN] xyxyxy091 |  |
-| 26 | Zhou_Kai ![][flag_TW] | 5 | **6** | ![][flag_CN] **IA daisuki** |  |
-| 28 | Skyshifter ![][flag_CN] | 3 | **6** | ![][flag_CN] **Crystal** |  |
-| 27 | **Toki 0w0** ![][flag_CN] | **6** | 0 | ![][flag_CN] IA daisuki |  |
+| 25 | **Toki 0w0** ::{ flag=CN }:: | **6** | 3 | ::{ flag=CN }:: xyxyxy091 |  |
+| 26 | Zhou_Kai ::{ flag=TW }:: | 5 | **6** | ::{ flag=CN }:: **IA daisuki** |  |
+| 28 | Skyshifter ::{ flag=CN }:: | 3 | **6** | ::{ flag=CN }:: **Crystal** |  |
+| 27 | **Toki 0w0** ::{ flag=CN }:: | **6** | 0 | ::{ flag=CN }:: IA daisuki |  |
 
 ### Semifinals
 
 | No. | Saturday, 2018-08-04 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 20 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] crazybrother | *win by default* |
-| 23 | **Skyshifter** ![][flag_CN] | **6** | 3 | ![][flag_CN] Toki 0w0 |  |
-| 24 | **Crystal** ![][flag_CN] | **6** | 2 | ![][flag_TW] Zhou_Kai |  |
-| 19 | nickawm ![][flag_CN] | 0 | **1** | ![][flag_CN] **tuziel** | *win by default* |
+| 20 | **xyxyxy091** ::{ flag=CN }:: | **1** | 0 | ::{ flag=CN }:: crazybrother | *win by default* |
+| 23 | **Skyshifter** ::{ flag=CN }:: | **6** | 3 | ::{ flag=CN }:: Toki 0w0 |  |
+| 24 | **Crystal** ::{ flag=CN }:: | **6** | 2 | ::{ flag=TW }:: Zhou_Kai |  |
+| 19 | nickawm ::{ flag=CN }:: | 0 | **1** | ::{ flag=CN }:: **tuziel** | *win by default* |
 
 | No. | Sunday, 2018-08-05 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 18 | **IA daisuki** ![][flag_CN] | **1** | 0 | ![][flag_CN] FDchuxin | *win by default* |
-| 21 | **IA daisuki** ![][flag_CN] | **6** | 0 | ![][flag_CN] williammak |  |
-| 22 | **xyxyxy091** ![][flag_CN] | **6** | 2 | ![][flag_CN] tuziel |  |
+| 18 | **IA daisuki** ::{ flag=CN }:: | **1** | 0 | ::{ flag=CN }:: FDchuxin | *win by default* |
+| 21 | **IA daisuki** ::{ flag=CN }:: | **6** | 0 | ::{ flag=CN }:: williammak |  |
+| 22 | **xyxyxy091** ::{ flag=CN }:: | **6** | 2 | ::{ flag=CN }:: tuziel |  |
 
 ### Quarterfinals
 
 | No. | Saturday, 2018-07-28 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 11 | **FDchuxin** ![][flag_CN] | **1** | 0 | ![][flag_CN] macronj | *win by default* |
-| 9 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] tc582461 | *win by default* |
-| 12 | **williammak** ![][flag_CN] | **5** | 1 | ![][flag_CN] Shindou Ayane |  |
-| 16 | **Zhou_Kai** ![][flag_TW] | **5** | 1 | ![][flag_CN] crazybrother |  |
-| 15 | nickawm ![][flag_CN] | 0 | **5** | ![][flag_CN] **Crystal** |  |
+| 11 | **FDchuxin** ::{ flag=CN }:: | **1** | 0 | ::{ flag=CN }:: macronj | *win by default* |
+| 9 | **xyxyxy091** ::{ flag=CN }:: | **1** | 0 | ::{ flag=CN }:: tc582461 | *win by default* |
+| 12 | **williammak** ::{ flag=CN }:: | **5** | 1 | ::{ flag=CN }:: Shindou Ayane |  |
+| 16 | **Zhou_Kai** ::{ flag=TW }:: | **5** | 1 | ::{ flag=CN }:: crazybrother |  |
+| 15 | nickawm ::{ flag=CN }:: | 0 | **5** | ::{ flag=CN }:: **Crystal** |  |
 
 | No. | Sunday, 2018-07-29 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 13 | Jazzsoldiers ![][flag_CN] | 0 | **1** | ![][flag_CN] **Skyshifter** | *win by default* |
-| 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou |  |
-| 14 | IA daisuki ![][flag_CN] | 0 | **5** | ![][flag_CN] **Toki 0w0** |  |
+| 13 | Jazzsoldiers ::{ flag=CN }:: | 0 | **1** | ::{ flag=CN }:: **Skyshifter** | *win by default* |
+| 10 | **tuziel** ::{ flag=CN }:: | **5** | 0 | ::{ flag=CN }:: Snowkyou |  |
+| 14 | IA daisuki ::{ flag=CN }:: | 0 | **5** | ::{ flag=CN }:: **Toki 0w0** |  |
 
-*Note: ![][flag_CN] Jazzsoldiers gave up tournament for some reasons.*
+*Note: ::{ flag=CN }:: Jazzsoldiers gave up tournament for some reasons.*
 
 ### Round of 16
 
 | No. | Saturday, 2018-07-21 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 5 | FDchuxin ![][flag_CN] | 0 | **1** | ![][flag_CN] **nickawm** | *win by default* |
-| 1 | xyxyxy091 ![][flag_CN] | 0 | **5** | ![][flag_CN] **Jazzsoldiers** |  |
-| 2 | **Skyshifter** ![][flag_CN] | **5** | 1 | ![][flag_CN] tc582461 |  |
-| 6 | macronj ![][flag_CN] | 1 | **5** | ![][flag_CN] **Crystal** |  |
+| 5 | FDchuxin ::{ flag=CN }:: | 0 | **1** | ::{ flag=CN }:: **nickawm** | *win by default* |
+| 1 | xyxyxy091 ::{ flag=CN }:: | 0 | **5** | ::{ flag=CN }:: **Jazzsoldiers** |  |
+| 2 | **Skyshifter** ::{ flag=CN }:: | **5** | 1 | ::{ flag=CN }:: tc582461 |  |
+| 6 | macronj ::{ flag=CN }:: | 1 | **5** | ::{ flag=CN }:: **Crystal** |  |
 
 | No. | Sunday, 2018-07-22 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 4 | tuziel ![][flag_CN] | 2 | **5** | ![][flag_CN] **Toki 0w0** |  |
-| 3 | Snowkyou ![][flag_CN] | 0 | **5** | ![][flag_CN] **IA daisuki** |  |
-| 7 | **Zhou_Kai** ![][flag_TW] | **5** | 0 | ![][flag_CN] Shindou Ayane |  |
-| 8 | **crazybrother** ![][flag_CN] | **5** | 0 | ![][flag_CN] williammak |  |
+| 4 | tuziel ::{ flag=CN }:: | 2 | **5** | ::{ flag=CN }:: **Toki 0w0** |  |
+| 3 | Snowkyou ::{ flag=CN }:: | 0 | **5** | ::{ flag=CN }:: **IA daisuki** |  |
+| 7 | **Zhou_Kai** ::{ flag=TW }:: | **5** | 0 | ::{ flag=CN }:: Shindou Ayane |  |
+| 8 | **crazybrother** ::{ flag=CN }:: | **5** | 0 | ::{ flag=CN }:: williammak |  |
 
 ## Ruleset
 

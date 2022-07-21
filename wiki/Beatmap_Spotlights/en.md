@@ -29,9 +29,9 @@ The Beatmap Spotlights project is run by various community members across all ga
 
 | Role | Members |
 | :-- | :-- |
-| Project lead | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) |
-| Project manager | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) |
-| Website manager | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
+| Project lead | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
+| Project manager | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| Website manager | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227) |
 
 ## Curators
 
@@ -39,41 +39,41 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 ### osu! curators
 
-- ![][flag_FI] **[Nowaie](https://osu.ppy.sh/users/5428909)**
-- ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)
-- ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
-- ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943)
-- ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
-- ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
+- ::{ flag=FI }:: **[Nowaie](https://osu.ppy.sh/users/5428909)**
+- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
+- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850)
+- ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943)
+- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
+- ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### osu!taiko curators
 
-- ![][flag_TN] **[Hivie](https://osu.ppy.sh/users/14102976)**
-- ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864)
-- ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)
-- ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
-- ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
-- ![][flag_MY] [[Zeth]](https://osu.ppy.sh/users/9912966)
+- ::{ flag=TN }:: **[Hivie](https://osu.ppy.sh/users/14102976)**
+- ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864)
+- ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
+- ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
 
 ### osu!catch curators
 
-- ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
-- ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164)
-- ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
-- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
+- ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
+- ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### osu!mania curators
 
-- ![][flag_AU] **[Crumpey](https://osu.ppy.sh/users/3518705)**
-- ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773)
-- ![][flag_KR] [Aruel](https://osu.ppy.sh/users/3984370)
-- ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
-- ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176)
-- ![][flag_MY] [Kibitz](https://osu.ppy.sh/users/7418493)
-- ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
-- ![][flag_US] [Protastic101](https://osu.ppy.sh/users/6712747)
+- ::{ flag=AU }:: **[Crumpey](https://osu.ppy.sh/users/3518705)**
+- ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)
+- ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370)
+- ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600)
+- ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176)
+- ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493)
+- ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
+- ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747)
 
 ## Spotlights seasons
 
@@ -170,14 +170,14 @@ All applicants are reviewed by project management and team leaders, and assessed
 
 ## History
 
-Originally named "Ranking Charts" and initiated in November 2009 by ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) and ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), the project aimed to highlight the best beatmaps of a month by letting the [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) and the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) nominate and vote for the most suitable candidates.
+Originally named "Ranking Charts" and initiated in November 2009 by ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) and ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), the project aimed to highlight the best beatmaps of a month by letting the [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) and the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) nominate and vote for the most suitable candidates.
 
 The project underwent several changes and additions, such as [themed Ranking Charts](https://osu.ppy.sh/rankings/osu/charts?spotlight=26), [mod restricted Ranking Charts](https://osu.ppy.sh/rankings/osu/charts?spotlight=19) or [seasonal leaderboards](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart). Originally, the winners of the Ranking Charts were awarded with osu! Supporter Tags. Later, rewards for mappers or seasonal leaderboard winners have been added.
 
-The project lead has changed several times in its history. ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) took over the project lead in May 2012, followed up by ![][flag_US] [DeathXShinigami](https://osu.ppy.sh/users/49516) and ![][flag_US] [Makar](https://osu.ppy.sh/users/686389). ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) and ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) took over the project in December 2013. In March 2015 the project changed from its original design of nominate and vote into having renown [community members single-handedly select a roster of beatmap](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season) sets they recommend. In September 2016, the [selection system has been mostly reverted](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) and put the [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) in charge of selecting the most noteworthy beatmaps.
+The project lead has changed several times in its history. ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) took over the project lead in May 2012, followed up by ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) and ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389). ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) and ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) took over the project in December 2013. In March 2015 the project changed from its original design of nominate and vote into having renown [community members single-handedly select a roster of beatmap](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season) sets they recommend. In September 2016, the [selection system has been mostly reverted](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) and put the [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) in charge of selecting the most noteworthy beatmaps.
 
-Renamed to [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) in March 2017, the system itself stayed mostly consistent while adding additional rewards like medals and enhancing the presentation of the Beatmap Spotlights furtherly. During an internal overhaul of the Quality Assurance Team, the responsibility for the project has been reassigned to ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) and re-implemented a community-based selection team. In November 2018, the frequency of the Spotlights have been changed to a [seasonal release cycle](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In March 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) rejoined the project lead together with Kurokami, both reworking it into a new shape and assembling a new team of osu! curators.
+Renamed to [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) in March 2017, the system itself stayed mostly consistent while adding additional rewards like medals and enhancing the presentation of the Beatmap Spotlights furtherly. During an internal overhaul of the Quality Assurance Team, the responsibility for the project has been reassigned to ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) and re-implemented a community-based selection team. In November 2018, the frequency of the Spotlights have been changed to a [seasonal release cycle](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In March 2020, ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) rejoined the project lead together with Kurokami, both reworking it into a new shape and assembling a new team of osu! curators.
 
-In August 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) stepped down from leading the project. At the end of November 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) also resigned, and ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) took over the project along with ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
+In August 2020, ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) stepped down from leading the project. At the end of November 2020, ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) also resigned, and ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) took over the project along with ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418).
 
-After the conclusion of the Spring 2021 season, the project went on hiatus, which lasted until September 2021 when efforts of revival emerged, with ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) stepping down from his management role, and ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) joining instead. In February 2022, the project resumed operating after some structural and team changes.
+After the conclusion of the Spring 2021 season, the project went on hiatus, which lasted until September 2021 when efforts of revival emerged, with ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) stepping down from his management role, and ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) joining instead. In February 2022, the project resumed operating after some structural and team changes.

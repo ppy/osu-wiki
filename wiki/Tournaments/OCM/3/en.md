@@ -8,7 +8,7 @@ tags:
 
 ![OCM3 logo](img/logo.png)
 
-The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team based osu!catch tournament hosted by ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102) and ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156). It is the third instalment of the osu! Cup Master.
+The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team based osu!catch tournament hosted by ::{ flag=PA }:: [Jafett](https://osu.ppy.sh/users/2317102) and ::{ flag=MX }:: [daxeroz](https://osu.ppy.sh/users/1170156). It is the third instalment of the osu! Cup Master.
 
 ## Tournament schedule
 
@@ -38,13 +38,13 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 
 | Position | Member(s) |
 | :-: | :-- |
-| Host | ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102), ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
-| Manager | ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255) |
-| Mappool selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_MX] [firu](https://osu.ppy.sh/users/10516547) , ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542) |
-| Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_CL] [lechuguin](https://osu.ppy.sh/users/2872000), ![][flag_LU] [Gae](https://osu.ppy.sh/users/7787785), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) |
-| Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_CL] [Danilo](https://osu.ppy.sh/users/1350613), ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255), ![][flag_UY] [Neimex23](https://osu.ppy.sh/users/7293703), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555/osu), ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102) |
-| Designer | ![][flag_MX] [ShadowMerry](https://osu.ppy.sh/users/3104864) |
-| Streamer | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_LU] [Gae](https://osu.ppy.sh/users/7787785) |
+| Host | ::{ flag=PA }:: [Jafett](https://osu.ppy.sh/users/2317102), ::{ flag=MX }:: [daxeroz](https://osu.ppy.sh/users/1170156) |
+| Manager | ::{ flag=CL }:: [Metak](https://osu.ppy.sh/users/2861255) |
+| Mappool selector | ::{ flag=MX }:: [daxeroz](https://osu.ppy.sh/users/1170156), ::{ flag=MX }:: [firu](https://osu.ppy.sh/users/10516547) , ::{ flag=CL }:: [lineqtxz](https://osu.ppy.sh/users/989542) |
+| Commentator | ::{ flag=PE }:: [-Boltic-](https://osu.ppy.sh/users/5297904), ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166), ::{ flag=CL }:: [lechuguin](https://osu.ppy.sh/users/2872000), ::{ flag=LU }:: [Gae](https://osu.ppy.sh/users/7787785), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) |
+| Referee | ::{ flag=CL }:: [Hinoshi](https://osu.ppy.sh/users/9200197), ::{ flag=PE }:: [-Boltic-](https://osu.ppy.sh/users/5297904), ::{ flag=CL }:: [Danilo](https://osu.ppy.sh/users/1350613), ::{ flag=CL }:: [Metak](https://osu.ppy.sh/users/2861255), ::{ flag=UY }:: [Neimex23](https://osu.ppy.sh/users/7293703), ::{ flag=GB }:: [StartAndSelect](https://osu.ppy.sh/users/8720555/osu), ::{ flag=PA }:: [Jafett](https://osu.ppy.sh/users/2317102) |
+| Designer | ::{ flag=MX }:: [ShadowMerry](https://osu.ppy.sh/users/3104864) |
+| Streamer | ::{ flag=MX }:: [daxeroz](https://osu.ppy.sh/users/1170156), ::{ flag=LU }:: [Gae](https://osu.ppy.sh/users/7787785) |
 
 ## Links
 
@@ -57,22 +57,22 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 
 |  | Team | Members |
 | :-: | :-: | :-- |
-| ![](img/teams/acelga.png) | Acelga | ![][flag_CL] [eldnl](https://osu.ppy.sh/users/285756), ![][flag_CL] [Aryssiel](https://osu.ppy.sh/users/2389481), ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
-| ![](img/teams/mybloodtrailsoplica.png) | My blood trail soplica | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462), ![][flag_PL] [Mniam](https://osu.ppy.sh/users/6050530), ![][flag_PL] [Verti](https://osu.ppy.sh/users/10674528) |
-| ![](img/teams/loschoripondios.png) | Los Choripondios | ![][flag_CL] [alluya69](https://osu.ppy.sh/users/2212951), ![][flag_CL] [-Kotaru-](https://osu.ppy.sh/users/9131357), ![][flag_CL] [-Naroh](https://osu.ppy.sh/users/9087831) |
-| ![](img/teams/115.png) | 115 | ![][flag_ES] [Dogma](https://osu.ppy.sh/users/4175333), ![][flag_DE] [bro gamer NR1](https://osu.ppy.sh/users/9573527), ![][flag_JP] [noob desu](https://osu.ppy.sh/users/4808804), ![][flag_US] [ChewyTarTar](https://osu.ppy.sh/users/13978275/fruits) |
-| ![](img/teams/bjirrsquad.png) | Bjirr Squad | ![][flag_ID] [Chiya--](https://osu.ppy.sh/users/7934854), ![][flag_ID] [ZYX_GAME](https://osu.ppy.sh/users/3770612), ![][flag_ID] [Zephirine](https://osu.ppy.sh/users/9629190) |
-| ![](img/teams/iaffi.png) | Iaffi | ![][flag_CL] [Lyna Paulina](https://osu.ppy.sh/users/10434422), ![][flag_HN] [- AnGel](https://osu.ppy.sh/users/12931440), ![][flag_HN] [[-Cris-]](https://osu.ppy.sh/users/14599677) |
-| ![](img/teams/wwwww.png) | wwwww | ![][flag_AR] [-Story-](https://osu.ppy.sh/users/8172283), ![][flag_AU] [Beerus](https://osu.ppy.sh/users/5529199), ![][flag_GB] [Matt_H](https://osu.ppy.sh/users/4067115) |
-| ![](img/teams/krns.png) | KNRS | ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Shyeart](https://osu.ppy.sh/users/2022144), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
-| ![](img/teams/futalovers.png) | Futa Lovers | ![][flag_BR] [BeyondArea](https://osu.ppy.sh/users/8642224), ![][flag_BR] [S a y u n](https://osu.ppy.sh/users/3770603), ![][flag_BR] [Endou-](https://osu.ppy.sh/users/10792711), ![][flag_BR] [Hanik](https://osu.ppy.sh/users/4533507) |
-| ![](img/teams/smukur.png) | Smukur es colombiano | ![][flag_CO] [Titan-](https://osu.ppy.sh/users/7855767), ![][flag_CO] [Zyonii](https://osu.ppy.sh/users/9519851), ![][flag_MX] [Cxlucha](https://osu.ppy.sh/users/5063961), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) |
-| ![](img/teams/izayoi.png) | IZAYOI XXX is the captain | ![][flag_TW] [Timewasdeapsea](https://osu.ppy.sh/users/8682905), ![][flag_TW] [IZAYOI XXX](https://osu.ppy.sh/users/3538446), ![][flag_TW] [Psc_IceRain](https://osu.ppy.sh/users/3359485), ![][flag_TW] [qq11123334](https://osu.ppy.sh/users/11807319) |
-| ![](img/teams/qtdoku.png) | QT DOKU | ![][flag_JP] [LieLoom](https://osu.ppy.sh/users/4892798), ![][flag_HK] [Novoids](https://osu.ppy.sh/users/5163523), ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235), ![][flag_RU] [Kitsunlvy](https://osu.ppy.sh/users/7055384) |
-| ![](img/teams/idk2.png) | idk lol | ![][flag_US] [Depths](https://osu.ppy.sh/users/3935174), ![][flag_HK] [AutoLs](https://osu.ppy.sh/users/9155988), ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637), ![][flag_US] [diao](https://osu.ppy.sh/users/500696) |
-| ![](img/teams/araganes.png) | Araganes | ![][flag_CO] [Deley-](https://osu.ppy.sh/users/8291465), ![][flag_CO] [Juansy-](https://osu.ppy.sh/users/12588215), ![][flag_VE] [Hisashi Shimoro](https://osu.ppy.sh/users/6736420) |
-| ![](img/teams/obama.png) | Obama's Bizarre adventures | ![][flag_PL] [AmaZ](https://osu.ppy.sh/users/6097002), ![][flag_PL] [Jakkubon](https://osu.ppy.sh/users/3396013), ![][flag_TW] [Sanami](https://osu.ppy.sh/users/1629471), ![][flag_FI] [forgottentaco](https://osu.ppy.sh/users/6109660) |
-| ![](img/teams/retired.png) | Retired players comeback | ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_PL] [Kosmit](https://osu.ppy.sh/users/1749173), ![][flag_PL] [Krzysiek](https://osu.ppy.sh/users/294277), ![][flag_PL] [schizosvenia](https://osu.ppy.sh/users/4600126) |
+| ![](img/teams/acelga.png) | Acelga | ::{ flag=CL }:: [eldnl](https://osu.ppy.sh/users/285756), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481), ::{ flag=CL }:: [NachoL](https://osu.ppy.sh/users/1250096) |
+| ![](img/teams/mybloodtrailsoplica.png) | My blood trail soplica | ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462), ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530), ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) |
+| ![](img/teams/loschoripondios.png) | Los Choripondios | ::{ flag=CL }:: [alluya69](https://osu.ppy.sh/users/2212951), ::{ flag=CL }:: [-Kotaru-](https://osu.ppy.sh/users/9131357), ::{ flag=CL }:: [-Naroh](https://osu.ppy.sh/users/9087831) |
+| ![](img/teams/115.png) | 115 | ::{ flag=ES }:: [Dogma](https://osu.ppy.sh/users/4175333), ::{ flag=DE }:: [bro gamer NR1](https://osu.ppy.sh/users/9573527), ::{ flag=JP }:: [noob desu](https://osu.ppy.sh/users/4808804), ::{ flag=US }:: [ChewyTarTar](https://osu.ppy.sh/users/13978275/fruits) |
+| ![](img/teams/bjirrsquad.png) | Bjirr Squad | ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854), ::{ flag=ID }:: [ZYX_GAME](https://osu.ppy.sh/users/3770612), ::{ flag=ID }:: [Zephirine](https://osu.ppy.sh/users/9629190) |
+| ![](img/teams/iaffi.png) | Iaffi | ::{ flag=CL }:: [Lyna Paulina](https://osu.ppy.sh/users/10434422), ::{ flag=HN }:: [- AnGel](https://osu.ppy.sh/users/12931440), ::{ flag=HN }:: [[-Cris-]](https://osu.ppy.sh/users/14599677) |
+| ![](img/teams/wwwww.png) | wwwww | ::{ flag=AR }:: [-Story-](https://osu.ppy.sh/users/8172283), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=GB }:: [Matt_H](https://osu.ppy.sh/users/4067115) |
+| ![](img/teams/krns.png) | KNRS | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Shyeart](https://osu.ppy.sh/users/2022144), ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166) |
+| ![](img/teams/futalovers.png) | Futa Lovers | ::{ flag=BR }:: [BeyondArea](https://osu.ppy.sh/users/8642224), ::{ flag=BR }:: [S a y u n](https://osu.ppy.sh/users/3770603), ::{ flag=BR }:: [Endou-](https://osu.ppy.sh/users/10792711), ::{ flag=BR }:: [Hanik](https://osu.ppy.sh/users/4533507) |
+| ![](img/teams/smukur.png) | Smukur es colombiano | ::{ flag=CO }:: [Titan-](https://osu.ppy.sh/users/7855767), ::{ flag=CO }:: [Zyonii](https://osu.ppy.sh/users/9519851), ::{ flag=MX }:: [Cxlucha](https://osu.ppy.sh/users/5063961), ::{ flag=PE }:: [-Boltic-](https://osu.ppy.sh/users/5297904) |
+| ![](img/teams/izayoi.png) | IZAYOI XXX is the captain | ::{ flag=TW }:: [Timewasdeapsea](https://osu.ppy.sh/users/8682905), ::{ flag=TW }:: [IZAYOI XXX](https://osu.ppy.sh/users/3538446), ::{ flag=TW }:: [Psc_IceRain](https://osu.ppy.sh/users/3359485), ::{ flag=TW }:: [qq11123334](https://osu.ppy.sh/users/11807319) |
+| ![](img/teams/qtdoku.png) | QT DOKU | ::{ flag=JP }:: [LieLoom](https://osu.ppy.sh/users/4892798), ::{ flag=HK }:: [Novoids](https://osu.ppy.sh/users/5163523), ::{ flag=ID }:: [LeWind](https://osu.ppy.sh/users/9718235), ::{ flag=RU }:: [Kitsunlvy](https://osu.ppy.sh/users/7055384) |
+| ![](img/teams/idk2.png) | idk lol | ::{ flag=US }:: [Depths](https://osu.ppy.sh/users/3935174), ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [diao](https://osu.ppy.sh/users/500696) |
+| ![](img/teams/araganes.png) | Araganes | ::{ flag=CO }:: [Deley-](https://osu.ppy.sh/users/8291465), ::{ flag=CO }:: [Juansy-](https://osu.ppy.sh/users/12588215), ::{ flag=VE }:: [Hisashi Shimoro](https://osu.ppy.sh/users/6736420) |
+| ![](img/teams/obama.png) | Obama's Bizarre adventures | ::{ flag=PL }:: [AmaZ](https://osu.ppy.sh/users/6097002), ::{ flag=PL }:: [Jakkubon](https://osu.ppy.sh/users/3396013), ::{ flag=TW }:: [Sanami](https://osu.ppy.sh/users/1629471), ::{ flag=FI }:: [forgottentaco](https://osu.ppy.sh/users/6109660) |
+| ![](img/teams/retired.png) | Retired players comeback | ::{ flag=PL }:: [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ::{ flag=PL }:: [Kosmit](https://osu.ppy.sh/users/1749173), ::{ flag=PL }:: [Krzysiek](https://osu.ppy.sh/users/294277), ::{ flag=PL }:: [schizosvenia](https://osu.ppy.sh/users/4600126) |
 
 ## Groups
 

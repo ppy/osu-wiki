@@ -39,8 +39,8 @@ The Taiko World Cup 2011 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_KR] [arien666](https://osu.ppy.sh/users/113646), ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_IL] [Noobita](https://osu.ppy.sh/users/119188), ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401) |
-| Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_HK] [matthewhln](https://osu.ppy.sh/users/291487) |
+| Manager | ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993), ::{ flag=KR }:: [arien666](https://osu.ppy.sh/users/113646), ::{ flag=KR }:: [lepidopodus](https://osu.ppy.sh/users/194807), ::{ flag=IL }:: [Noobita](https://osu.ppy.sh/users/119188), ::{ flag=HK }:: [wmfchris](https://osu.ppy.sh/users/7401) |
+| Streamer | ::{ flag=JP }:: [dvorak](https://osu.ppy.sh/users/271359), ::{ flag=HK }:: [matthewhln](https://osu.ppy.sh/users/291487) |
 
 ## Links
 
@@ -51,33 +51,33 @@ The Taiko World Cup 2011 was run by various community members.
 
 |  | Team | Members |
 | :-: | :-: | :-- |
-| ![][flag_BR] ![][flag_CL] | **Brazil-Chile** | **[Hyguys](https://osu.ppy.sh/users/362851)**, [Kurisuchianu](https://osu.ppy.sh/users/194345), [Foster Don](https://osu.ppy.sh/users/144464), [JhowM](https://osu.ppy.sh/users/599290) |
-| ![][flag_CN] | **China** | **[Yowane \_ Haku](https://osu.ppy.sh/users/255267)**, [yukey](https://osu.ppy.sh/users/81972), [sagelord](https://osu.ppy.sh/users/56200), [small-qiang](https://osu.ppy.sh/users/619179) |
-| ![][flag_FI] | **Finland** | **[XZero94](https://osu.ppy.sh/users/391366)**, [LunaticMara](https://osu.ppy.sh/users/194294), [Orkel](https://osu.ppy.sh/users/39385), [Pallero](https://osu.ppy.sh/users/7381) |
-| ![][flag_FR] | **France** | [\_Gezo\_](https://osu.ppy.sh/users/481582), [omegaflo](https://osu.ppy.sh/users/83291), [Dagonpater](https://osu.ppy.sh/users/205257), [Didou](https://osu.ppy.sh/users/594822) |
-| ![][flag_DE] | **Germany A** | **[OnosakiHito](https://osu.ppy.sh/users/290128)**, [DarkDunskin](https://osu.ppy.sh/users/98985), [RockeDon](https://osu.ppy.sh/users/624957), [Trashy](https://osu.ppy.sh/users/55191) |
-| ![][flag_DE] | **Germany B** | **[BrokenArrow1](https://osu.ppy.sh/users/384034)**, [Zeitgeist](https://osu.ppy.sh/users/227765), [Der\_Locher](https://osu.ppy.sh/users/587835), [bennius](https://osu.ppy.sh/users/3129206) |
-| ![][flag_HK] | **Hong Kong** | **[aabc271](https://osu.ppy.sh/users/155707)**, [XeBi320](https://osu.ppy.sh/users/342622), [KanaRin](https://osu.ppy.sh/users/310747), [Kanpakyin](https://osu.ppy.sh/users/394326) |
-| ![][flag_IT] ![][flag_NL] | **Italy-Netherlands** | **[NeoRainier](https://osu.ppy.sh/users/326049)**, [Pheon](https://osu.ppy.sh/users/292295), [Lokamp](https://osu.ppy.sh/users/63671), [Henkie](https://osu.ppy.sh/users/16944) |
-| ![][flag_JP] | **Japan** | **[inaba9510](https://osu.ppy.sh/users/477744)**, [TTTL](https://osu.ppy.sh/users/164583), [aruru1234](https://osu.ppy.sh/users/228812), [03123456789](https://osu.ppy.sh/users/295488) |
-| ![][flag_KR] | **Korea A** | **[KRZY](https://osu.ppy.sh/users/114017)**, [BloodyLove](https://osu.ppy.sh/users/139827), [Remilia-Scarlet](https://osu.ppy.sh/users/602783), [\[Shalon\]](https://osu.ppy.sh/users/317802) |
-| ![][flag_KR] | **Korea B** | **[samiljul](https://osu.ppy.sh/users/156215)**, [Nyan](https://osu.ppy.sh/users/36102), [kds7769](https://osu.ppy.sh/users/257977), [Kim Jin Seok](https://osu.ppy.sh/users/58034) |
-| ![][flag_MY] | **Malaysia** | **[HeatKai](https://osu.ppy.sh/users/332555)**, [mekadon](https://osu.ppy.sh/users/157835), [ffyong](https://osu.ppy.sh/users/168154), [taiko_maniac1811](https://osu.ppy.sh/users/595764) |
-| ![][flag_PL] | **Poland** | **[1miko1](https://osu.ppy.sh/users/95690)**, [rEdo](https://osu.ppy.sh/users/49329), [Acrith](https://osu.ppy.sh/users/389880), [Niko-](https://osu.ppy.sh/users/175141) |
-| ![][flag_PH] | **Philippines** | **[blacksymbian](https://osu.ppy.sh/users/53956)**, [Zekira](https://osu.ppy.sh/users/36749), [caelumangelus](https://osu.ppy.sh/users/710623), [\[Zero\_One\]](https://osu.ppy.sh/users/347574) |
-| ![][flag_TW] | **Taiwan** | **[Numbers 596108](https://osu.ppy.sh/users/194653)**, [TW-KUMA01](https://osu.ppy.sh/users/244499), [ISHIDAMITSUNARI](https://osu.ppy.sh/users/242910), [zx0502442](https://osu.ppy.sh/users/457766) |
-| ![][flag_GB] | **United Kingdom** | **[Rokodo](https://osu.ppy.sh/users/23374)**, [Sander-Don](https://osu.ppy.sh/users/284307), [MMzz](https://osu.ppy.sh/users/128993), [Nazo](https://osu.ppy.sh/users/55106) |
-| ![][flag_US] | **United States** | **[OzzyOzrock](https://osu.ppy.sh/users/465153)**, [KYOUI](https://osu.ppy.sh/users/460978), [Backfire](https://osu.ppy.sh/users/263110), [anongos](https://osu.ppy.sh/users/7135) |
+| ::{ flag=BR }:: ::{ flag=CL }:: | **Brazil-Chile** | **[Hyguys](https://osu.ppy.sh/users/362851)**, [Kurisuchianu](https://osu.ppy.sh/users/194345), [Foster Don](https://osu.ppy.sh/users/144464), [JhowM](https://osu.ppy.sh/users/599290) |
+| ::{ flag=CN }:: | **China** | **[Yowane \_ Haku](https://osu.ppy.sh/users/255267)**, [yukey](https://osu.ppy.sh/users/81972), [sagelord](https://osu.ppy.sh/users/56200), [small-qiang](https://osu.ppy.sh/users/619179) |
+| ::{ flag=FI }:: | **Finland** | **[XZero94](https://osu.ppy.sh/users/391366)**, [LunaticMara](https://osu.ppy.sh/users/194294), [Orkel](https://osu.ppy.sh/users/39385), [Pallero](https://osu.ppy.sh/users/7381) |
+| ::{ flag=FR }:: | **France** | [\_Gezo\_](https://osu.ppy.sh/users/481582), [omegaflo](https://osu.ppy.sh/users/83291), [Dagonpater](https://osu.ppy.sh/users/205257), [Didou](https://osu.ppy.sh/users/594822) |
+| ::{ flag=DE }:: | **Germany A** | **[OnosakiHito](https://osu.ppy.sh/users/290128)**, [DarkDunskin](https://osu.ppy.sh/users/98985), [RockeDon](https://osu.ppy.sh/users/624957), [Trashy](https://osu.ppy.sh/users/55191) |
+| ::{ flag=DE }:: | **Germany B** | **[BrokenArrow1](https://osu.ppy.sh/users/384034)**, [Zeitgeist](https://osu.ppy.sh/users/227765), [Der\_Locher](https://osu.ppy.sh/users/587835), [bennius](https://osu.ppy.sh/users/3129206) |
+| ::{ flag=HK }:: | **Hong Kong** | **[aabc271](https://osu.ppy.sh/users/155707)**, [XeBi320](https://osu.ppy.sh/users/342622), [KanaRin](https://osu.ppy.sh/users/310747), [Kanpakyin](https://osu.ppy.sh/users/394326) |
+| ::{ flag=IT }:: ::{ flag=NL }:: | **Italy-Netherlands** | **[NeoRainier](https://osu.ppy.sh/users/326049)**, [Pheon](https://osu.ppy.sh/users/292295), [Lokamp](https://osu.ppy.sh/users/63671), [Henkie](https://osu.ppy.sh/users/16944) |
+| ::{ flag=JP }:: | **Japan** | **[inaba9510](https://osu.ppy.sh/users/477744)**, [TTTL](https://osu.ppy.sh/users/164583), [aruru1234](https://osu.ppy.sh/users/228812), [03123456789](https://osu.ppy.sh/users/295488) |
+| ::{ flag=KR }:: | **Korea A** | **[KRZY](https://osu.ppy.sh/users/114017)**, [BloodyLove](https://osu.ppy.sh/users/139827), [Remilia-Scarlet](https://osu.ppy.sh/users/602783), [\[Shalon\]](https://osu.ppy.sh/users/317802) |
+| ::{ flag=KR }:: | **Korea B** | **[samiljul](https://osu.ppy.sh/users/156215)**, [Nyan](https://osu.ppy.sh/users/36102), [kds7769](https://osu.ppy.sh/users/257977), [Kim Jin Seok](https://osu.ppy.sh/users/58034) |
+| ::{ flag=MY }:: | **Malaysia** | **[HeatKai](https://osu.ppy.sh/users/332555)**, [mekadon](https://osu.ppy.sh/users/157835), [ffyong](https://osu.ppy.sh/users/168154), [taiko_maniac1811](https://osu.ppy.sh/users/595764) |
+| ::{ flag=PL }:: | **Poland** | **[1miko1](https://osu.ppy.sh/users/95690)**, [rEdo](https://osu.ppy.sh/users/49329), [Acrith](https://osu.ppy.sh/users/389880), [Niko-](https://osu.ppy.sh/users/175141) |
+| ::{ flag=PH }:: | **Philippines** | **[blacksymbian](https://osu.ppy.sh/users/53956)**, [Zekira](https://osu.ppy.sh/users/36749), [caelumangelus](https://osu.ppy.sh/users/710623), [\[Zero\_One\]](https://osu.ppy.sh/users/347574) |
+| ::{ flag=TW }:: | **Taiwan** | **[Numbers 596108](https://osu.ppy.sh/users/194653)**, [TW-KUMA01](https://osu.ppy.sh/users/244499), [ISHIDAMITSUNARI](https://osu.ppy.sh/users/242910), [zx0502442](https://osu.ppy.sh/users/457766) |
+| ::{ flag=GB }:: | **United Kingdom** | **[Rokodo](https://osu.ppy.sh/users/23374)**, [Sander-Don](https://osu.ppy.sh/users/284307), [MMzz](https://osu.ppy.sh/users/128993), [Nazo](https://osu.ppy.sh/users/55106) |
+| ::{ flag=US }:: | **United States** | **[OzzyOzrock](https://osu.ppy.sh/users/465153)**, [KYOUI](https://osu.ppy.sh/users/460978), [Backfire](https://osu.ppy.sh/users/263110), [anongos](https://osu.ppy.sh/users/7135) |
 
 ## Groups
 
 | Group A | Group B | Group C | Group D |
 | :-- | :-- | :-- | :-- |
-| ![][flag_CN] China | ![][flag_FR] France | ![][flag_BR] ![][flag_CL] Brazil-Chile | ![][flag_FI] Finland |
-| ![][flag_DE] Germany A | ![][flag_KR] South Korea A | ![][flag_HK] Hong Kong | ![][flag_DE] Germany B |
-| ![][flag_IT] ![][flag_NL] Italy-Netherlands | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_JP] Japan |
-| ![][flag_MY] Malaysia | ![][flag_GB] United Kingdom | ![][flag_US] United States | ![][flag_KR] South Korea B |
-| ![][flag_PH] Philippines |  |  |  |
+| ::{ flag=CN }:: China | ::{ flag=FR }:: France | ::{ flag=BR }:: ::{ flag=CL }:: Brazil-Chile | ::{ flag=FI }:: Finland |
+| ::{ flag=DE }:: Germany A | ::{ flag=KR }:: South Korea A | ::{ flag=HK }:: Hong Kong | ::{ flag=DE }:: Germany B |
+| ::{ flag=IT }:: ::{ flag=NL }:: Italy-Netherlands | ::{ flag=TW }:: Taiwan | ::{ flag=PL }:: Poland | ::{ flag=JP }:: Japan |
+| ::{ flag=MY }:: Malaysia | ::{ flag=GB }:: United Kingdom | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea B |
+| ::{ flag=PH }:: Philippines |  |  |  |
 
 ## Podium
 
@@ -227,13 +227,13 @@ Sunday, 22 May 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **China** ![][flag_CN] | **5** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/762010) |
+| **China** ::{ flag=CN }:: | **5** | 2 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/762010) |
 
 Sunday, 29 May 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Japan ![][flag_JP] | 4 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/809078) |
+| Japan ::{ flag=JP }:: | 4 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/809078) |
 
 ### Semifinals
 
@@ -241,8 +241,8 @@ Saturday, 14 May 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| China ![][flag_CN] | 1 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/714056) |
-| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_US] United States | *win by default* |
+| China ::{ flag=CN }:: | 1 | **4** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/714056) |
+| **Taiwan** ::{ flag=TW }:: | **4** | 0 | ::{ flag=US }:: United States | *win by default* |
 
 ### Quarterfinals
 
@@ -250,15 +250,15 @@ Saturday, 7 May 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_IT] ![][flag_NL] Italy-Netherlands | [#1](https://osu.ppy.sh/community/matches/669276) |
-| **China** ![][flag_CN] | **4** | 3 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/670326) |
-| South Korea B ![][flag_KR] | 0 | **4** | ![][flag_US] **United States** | *win by default* |
+| **Taiwan** ::{ flag=TW }:: | **4** | 0 | ::{ flag=IT }:: ::{ flag=NL }:: Italy-Netherlands | [#1](https://osu.ppy.sh/community/matches/669276) |
+| **China** ::{ flag=CN }:: | **4** | 3 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/670326) |
+| South Korea B ::{ flag=KR }:: | 0 | **4** | ::{ flag=US }:: **United States** | *win by default* |
 
 Sunday, 8 May 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Hong Kong ![][flag_HK] | 3 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/677605) |
+| Hong Kong ::{ flag=HK }:: | 3 | **4** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/677605) |
 
 ### Group stage week 3
 
@@ -266,27 +266,27 @@ Friday, 29 April 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Germany A** ![][flag_DE] | **3** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/620058) |
+| **Germany A** ::{ flag=DE }:: | **3** | 0 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/620058) |
 
 Saturday, 30 April 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Hong Kong** ![][flag_HK] | **3** | 0 | ![][flag_BR] ![][flag_CL] Brazil-Chile | [#1](https://osu.ppy.sh/community/matches/621893) |
-| South Korea A ![][flag_KR] | 1 | **3** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/625054) |
-| Italy-Netherlands ![][flag_IT] ![][flag_NL] | 1 | **3** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/625361) |
-| Germany B ![][flag_DE] | 0 | **3** | ![][flag_KR] **South Korea B** | [#1](https://osu.ppy.sh/community/matches/625672) |
-| **Italy-Netherlands** ![][flag_IT] ![][flag_NL] | **3** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/625361) |
-| France ![][flag_FR] | 0 | **3** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/620058) |
-| **United States** ![][flag_US] | **3** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/628633) |
+| **Hong Kong** ::{ flag=HK }:: | **3** | 0 | ::{ flag=BR }:: ::{ flag=CL }:: Brazil-Chile | [#1](https://osu.ppy.sh/community/matches/621893) |
+| South Korea A ::{ flag=KR }:: | 1 | **3** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/625054) |
+| Italy-Netherlands ::{ flag=IT }:: ::{ flag=NL }:: | 1 | **3** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/625361) |
+| Germany B ::{ flag=DE }:: | 0 | **3** | ::{ flag=KR }:: **South Korea B** | [#1](https://osu.ppy.sh/community/matches/625672) |
+| **Italy-Netherlands** ::{ flag=IT }:: ::{ flag=NL }:: | **3** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/625361) |
+| France ::{ flag=FR }:: | 0 | **3** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/620058) |
+| **United States** ::{ flag=US }:: | **3** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/628633) |
 
 Sunday, 1 May 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Malaysia ![][flag_MY] | 0 | 0 | ![][flag_PH] Philippines | *nullified* |
-| China ![][flag_CN] | 2 | **3** | ![][flag_DE] **Germany A** | [#1](https://osu.ppy.sh/community/matches/633234) |
-| **Japan** ![][flag_JP] | **3** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/633728) |
+| Malaysia ::{ flag=MY }:: | 0 | 0 | ::{ flag=PH }:: Philippines | *nullified* |
+| China ::{ flag=CN }:: | 2 | **3** | ::{ flag=DE }:: **Germany A** | [#1](https://osu.ppy.sh/community/matches/633234) |
+| **Japan** ::{ flag=JP }:: | **3** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/633728) |
 
 ### Group stage week 2
 
@@ -294,28 +294,28 @@ Friday, 22 April 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| United Kingdom ![][flag_GB] | 2 | **3** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/570806) |
-| **South Korea A** ![][flag_KR] | **3** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/571429) |
+| United Kingdom ::{ flag=GB }:: | 2 | **3** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/570806) |
+| **South Korea A** ::{ flag=KR }:: | **3** | 0 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/571429) |
 
 Saturday, 23 April 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Hong Kong** ![][flag_HK] | **3** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/574922) |
+| **Hong Kong** ::{ flag=HK }:: | **3** | 0 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/574922) |
 
 Sunday, 24 April 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **South Korea B** ![][flag_KR] | **3** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/587957) |
-| **Japan** ![][flag_JP] | **3** | 0 | ![][flag_DE] Germany B | [#1](https://osu.ppy.sh/community/matches/588494) |
+| **South Korea B** ::{ flag=KR }:: | **3** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/587957) |
+| **Japan** ::{ flag=JP }:: | **3** | 0 | ::{ flag=DE }:: Germany B | [#1](https://osu.ppy.sh/community/matches/588494) |
 
 Tuesday, 26 April 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Germany A ![][flag_DE] | 1 | **3** | ![][flag_IT] ![][flag_NL] **Italy-Netherlands** | [#1](https://osu.ppy.sh/community/matches/602804) |
-| Brazil-Chile ![][flag_BR] ![][flag_CL] | 0 | **3** | ![][flag_PL] **Poland** | *win by default* |
+| Germany A ::{ flag=DE }:: | 1 | **3** | ::{ flag=IT }:: ::{ flag=NL }:: **Italy-Netherlands** | [#1](https://osu.ppy.sh/community/matches/602804) |
+| Brazil-Chile ::{ flag=BR }:: ::{ flag=CL }:: | 0 | **3** | ::{ flag=PL }:: **Poland** | *win by default* |
 
 ### Group stage week 1
 
@@ -323,26 +323,26 @@ Friday, 15 April 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **United Kingdom** ![][flag_GB] | **3** | 1 | ![][flag_KR] South Korea A | [#1](https://osu.ppy.sh/community/matches/528963) |
+| **United Kingdom** ::{ flag=GB }:: | **3** | 1 | ::{ flag=KR }:: South Korea A | [#1](https://osu.ppy.sh/community/matches/528963) |
 
 Saturday, 16 April 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Poland ![][flag_PL] | 1 | **3** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/534263) |
-| Philippines ![][flag_PH] | 1 | **3** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/534652) |
-| Malaysia ![][flag_MY] | 0 | **3** | ![][flag_IT] ![][flag_NL] **Italy-Netherlands** | [#1](https://osu.ppy.sh/community/matches/535028) |
-| **Taiwan** ![][flag_TW] | **3** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/535848) |
-| Finland ![][flag_FI] | 0 | **3** | ![][flag_DE] **Germany B** | [#1](https://osu.ppy.sh/community/matches/537311) |
-| **United States** ![][flag_US] | **3** | 0 | ![][flag_BR] ![][flag_CL] Brazil-Chile | [#1](https://osu.ppy.sh/community/matches/538664) |
+| Poland ::{ flag=PL }:: | 1 | **3** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/534263) |
+| Philippines ::{ flag=PH }:: | 1 | **3** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/534652) |
+| Malaysia ::{ flag=MY }:: | 0 | **3** | ::{ flag=IT }:: ::{ flag=NL }:: **Italy-Netherlands** | [#1](https://osu.ppy.sh/community/matches/535028) |
+| **Taiwan** ::{ flag=TW }:: | **3** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/535848) |
+| Finland ::{ flag=FI }:: | 0 | **3** | ::{ flag=DE }:: **Germany B** | [#1](https://osu.ppy.sh/community/matches/537311) |
+| **United States** ::{ flag=US }:: | **3** | 0 | ::{ flag=BR }:: ::{ flag=CL }:: Brazil-Chile | [#1](https://osu.ppy.sh/community/matches/538664) |
 
 Sunday, 17 April 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **South Korea B** ![][flag_KR] | **3** | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/542259) |
-| **China** ![][flag_CN] | **3** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/542705) |
-| Philippines ![][flag_PH] | 0 | **3** | ![][flag_DE] **Germany A** | [#1](https://osu.ppy.sh/community/matches/543150) |
+| **South Korea B** ::{ flag=KR }:: | **3** | 0 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/542259) |
+| **China** ::{ flag=CN }:: | **3** | 0 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/542705) |
+| Philippines ::{ flag=PH }:: | 0 | **3** | ::{ flag=DE }:: **Germany A** | [#1](https://osu.ppy.sh/community/matches/543150) |
 
 ## Ruleset
 

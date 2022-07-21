@@ -9,7 +9,7 @@ outdated_translation: true
 
 ![TWC 2015 logo](img/logo.png)
 
-**osu! Taiko World Cup 2015** (***TWC 2015***) — пятый по счёту всемирный турнир по тайко, который проводят [турнир-менеджеры](https://osu.ppy.sh/groups/26). Он длится с 12 января по 15 апреля 2015 года. Победителем предыдущего турнира была ![][flag_JP] **Япония**.
+**osu! Taiko World Cup 2015** (***TWC 2015***) — пятый по счёту всемирный турнир по тайко, который проводят [турнир-менеджеры](https://osu.ppy.sh/groups/26). Он длится с 12 января по 15 апреля 2015 года. Победителем предыдущего турнира была ::{ flag=JP }:: **Япония**.
 
 ## Расписание
 
@@ -36,11 +36,11 @@ outdated_translation: true
 
 | Job | Person |
 | :-- | :-- |
-| Организаторы | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
-| Подбор карт | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
-| Стримеры | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Комментаторы | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Статистик | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| Организаторы | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) // ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) // ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) |
+| Подбор карт | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| Стримеры | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) // ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) // ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
+| Комментаторы | ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078) // ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
+| Статистик | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Участники
 
