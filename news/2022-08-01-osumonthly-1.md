@@ -38,7 +38,7 @@ Here are the latest updates, events and even more!
 
 ### ![](/wiki/shared/mode/osu.png) osu! 
 
-#### If you ask us what is the big event of July, it'd be the Roundtable!
+#### If you ask us what is the big event of July, it'd be the [Roundtable](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable)!
 <br>
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/roundtable/RTable_title.png)
@@ -63,13 +63,15 @@ Thanks again to [BTMC](https://osu.ppy.sh/users/3171691) and his staff for this 
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, osu!taiko takes it upon itself to rival even that of *The Roundtable* with their very own annual entry of **[Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)**!
+As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, osu!taiko takes it upon itself to rival even that of [*The Roundtable*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable) with their very own annual entry of **[Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)**!
 
 As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsus, and if we even dare-say, taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-*At the beginning of July, the recent eleventh iteration of osu!catch World Cup has been concluded.*
+*At the beginning of July, the recent eleventh iteration of the [osu!catch World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/CWC/2022) has been concluded.*
+
+![](/wiki/shared/news/2022-08-01-osumonthly-1/podium.png)
 
 For the fourth time in a row and a total of eight wins, South Korea are the osu!catch champions. The roster consisting of [JISAN](https://osu.ppy.sh/users/3657951), [Rells](https://osu.ppy.sh/users/7937519), [YesMyDarknesss](https://osu.ppy.sh/users/4158549), [x_angelkawaii_x](https://osu.ppy.sh/users/566276), [DreStar](https://osu.ppy.sh/users/1808057) and [Byeol](https://osu.ppy.sh/users/2754651). With second and third places placed by United States ([Secre](https://osu.ppy.sh/users/2306637), [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983)) and China ([Dusk](https://osu.ppy.sh/users/533210), [Callionet](https://osu.ppy.sh/users/3072921), [Coevir](https://osu.ppy.sh/users/3171965), [Crystal](https://osu.ppy.sh/users/1646397), [KagamineRin02](https://osu.ppy.sh/users/518503), [Kitakami](https://osu.ppy.sh/users/6347308)).
 
@@ -163,12 +165,12 @@ Another new feature that some of you might not know of, or just haven't gotten a
   [➥ Find the article here!](#as-if-the-impossible-could-not-be-done-only-once-but-twice)
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko 
-- The Expert Global Taiko Showdown 2022 is hitting on the stage! This is the way Taiko players can overtake [The Roundtable](#if-you-ask-us-what-is-the-big-event-of-july-itd-be-the-roundtable) in terms of epic shows!
+- [The Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022) is hitting on the stage! This is the way Taiko players can overtake [The Roundtable](#if-you-ask-us-what-is-the-big-event-of-july-itd-be-the-roundtable) in terms of epic shows!
   
   [➥ Find the article here!](#as-if-we-could-allow-for-osu-to-take-all-the-glory-in-its-showcasing-of-top-players-and-their-performances-taiko-takes-it-upon-themself-to-rival-even-that-of-the-roundtable-with-their-very-own-annual-entry-of-expert-global-taiko-showdown-2022)
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
-- The Catch World Cup 2022 has ended on pretty amazing performances ! Is South Korea dominating two modes at the same time?
+- The [Catch World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/CWC/2022) has ended on pretty amazing performances ! Is South Korea dominating two modes at the same time?
   
   [➥ Find the article here!](#at-the-beginning-of-july-the-recent-eleventh-iteration-of-osucatch-world-cup-has-been-concluded)
 
@@ -183,7 +185,7 @@ Another new feature that some of you might not know of, or just haven't gotten a
   [➥ Find the article here!](#whew-if-you-thought-the-pick-for-osu-was-crazy-wait-till-you-watch-shinchikuhomes-dt-play-on-apollo)
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
-- The osu!mania World Cup 2022 is the road to the greatness for the Mania top players! They will brawl again in this great arena! Who's gonna take the crown?
+- The [osu!mania World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K) is the road to the greatness for the Mania top players! They will brawl again in this great arena! Who's gonna take the crown?
   
   [➥ Find the article here!](#in-august-the-osumania-top-players-will-brawl-in-the-osumania-world-cup-2022)
 
