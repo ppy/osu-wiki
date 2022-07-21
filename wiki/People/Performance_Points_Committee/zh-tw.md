@@ -14,10 +14,10 @@ tags:
 
 ## 成員
 
-- ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549)
-- ![][flag_HU] [emu1337](https://osu.ppy.sh/users/2185987)
-- ![][flag_AU] [MBmasher](https://osu.ppy.sh/users/4498616)
-- ![][flag_RU] [StanR](https://osu.ppy.sh/users/7217455)
+- ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549)
+- ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987)
+- ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616)
+- ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455)
 
 [flag_AU]: /wiki/shared/flag/AU.gif "澳洲"
 [flag_GB]: /wiki/shared/flag/GB.gif "英國"

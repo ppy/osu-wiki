@@ -50,44 +50,44 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, moderation |
-| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
-| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinese | Evaluation |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
-| ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluation |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
-| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation |
-| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian | Evaluation |
-| ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluation |
-| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanish, French | Evaluation |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
-| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polish | Evaluation |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, moderation |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese | Evaluation |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
+| ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluation |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation |
+| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian | Evaluation |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluation |
+| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanish, French | Evaluation |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polish | Evaluation |
 
 ### osu!taiko
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | German | Evaluation |
-| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluation |
-| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  | Evaluation |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | German | Evaluation |
+| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluation |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluation |
 
 ### osu!catch
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, moderation |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation, structural |
-| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) | | Evaluation |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, moderation |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation, structural |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | | Evaluation |
 
 ### osu!mania
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese | Evaluation |
-| ![][flag_VN] [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese | Evaluation |
-| ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation, communication |
-| ![][flag_ES] [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluation |
-| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
+| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese | Evaluation |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese | Evaluation |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation, communication |
+| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluation |
+| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
