@@ -25,13 +25,11 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 
 - The tournament series must run no more than four times per year.
 - The tournament must operate on a Round of 16 double-elimination format at a minimum, **OR**, have at least 64 players (or 16 teams) participating. Larger scales and formats are permitted.
-- The tournament is organised and run by an *experienced team of accomplished and reputable staff**¹*** , **OR**, the tournament *has been run at least once before without receiving rewards*.
+- The tournament is organised and run by an *experienced team of accomplished and reputable staff*,[^experience] **OR**, the tournament *has been run at least once before without receiving rewards*.
 - Staff members must not participate in the tournament themselves at any point, and players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
-  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users—players and staff alike—to make use of this form where necessary.
-
-**¹**: An "experienced" staff member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
+  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary.
 
 ## Requesting Support
 
@@ -68,13 +66,11 @@ In addition, all promotional material or any services associated with a tourname
 
 **The tournament must also abide by the following practices throughout:**
 
-- All registrants must be screened by the account support team before play commences**²**. See [tournament screening](#tournament-screening) for more details.
+- All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
 - If a user satisfies the sign-up criteria (if any), the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - A dedicated referee must be present during every match. Players cannot "self-ref".
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear and accessible format.
-
-**²**: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.
 
 Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
 
@@ -141,7 +137,7 @@ Please consult the following examples of approved badge designs:
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly uncommon, but should be accounted for.
 
-In exceptionally rare cases, a tournament may be granted the privilege of awarding badges to its top three finalists. A tournament that has received this distinction is recognised for attaining the highest level of production quality and organisation possible—this is given exclusively at the discretion of the osu! team. Hosts will be contacted directly if applicable.
+In exceptionally rare cases, a tournament may be granted the privilege of awarding badges to its top three finalists. A tournament that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. Hosts will be contacted directly if applicable.
 
 ### Requesting main-menu banner support
 
@@ -156,11 +152,14 @@ Long-running community tournaments may qualify for in-game main-menu banner supp
 If you satisfy the above criteria, you may make a request for main-menu banner support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). The banner image must adhere to the following standards:
 
 - The submitted file must be a **PNG**.
-- The dimensions must be **1500x256px**.
-  - All banner images will be treated as `2x`, meaning that they will be exported at 50% scale by us into a `1x` image. Design your images appropriately to ensure things are legible at half size.
+- Width must be no larger than **1000px**. Using smaller widths is fine.
+- Height must always be **180px**. Other values are NOT fine.
+- All banner images will be treated as `2x`, meaning that they will be exported at 50% scale into a `1x` image. Design your images appropriately to ensure things are legible at half size. Users will see either image depending on their chosen client resolution.
 - It must clearly display the logo, motif, AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - It must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 - It must not include any sort of sponsorship or promote anything besides the tournament.
+
+[Download a template image for main menu banners here.](https://assets.ppy.sh/media/mainmenu_template.png)
 
 Please consult the following examples of acceptable banner designs:
 
@@ -168,7 +167,7 @@ Please consult the following examples of acceptable banner designs:
 
 ![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
 
-Please do not submit a main menu banner with your original request—you will be asked and pointed to this section if you are authorised to make use of one.
+Please do not submit a main menu banner with your original request — you will be asked and pointed to this section if you are authorised to make use of one.
 
 ## Frequently Asked Questions
 
@@ -180,7 +179,7 @@ For all of these reasons (and more), we ask that profile badge prizes are only a
 
 ### What is considered "staff" as far as tournament management goes? {#what-is-considered-staff}
 
-If a user has access to information that could conceivably influence the outcome of the tournament/contest, they are considered staff. To clarify, we consider organisers, referees, mappool selectors, mappool playtesters, custom mappers, judges, or any other form of managerial position directly involved in the maintenance and operation of the tournament/contest to be a part of its staff. This list is not exhaustive—if you have any doubts, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+If a user has access to information that could conceivably influence the outcome of the tournament/contest, they are considered staff. To clarify, we consider organisers, referees, mappool selectors, mappool playtesters, custom mappers, judges, or any other form of managerial position directly involved in the maintenance and operation of the tournament/contest to be a part of its staff. This list is not exhaustive — if you have any doubts, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 Commentators, streamers, and graphic designers are designated as **helpers**, and may participate in tournaments/contests freely so long as they are not directly involved in any organisational aspect of the tournament/contest.
 
@@ -207,3 +206,8 @@ Flooding the game with profile badges dilutes the prestige of the prize for ever
 For beatmap contests, yes, just follow the same rules as above. We highly recommend using [Featured Artists](https://osu.ppy.sh/beatmaps/artists) for such contests and will flagrantly give preferential treatment to those who do.
 
 For other contests, email us and ask personally. We'll try to work something out.
+
+## Notes
+
+[^experience]: An "experienced" staff member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
+[^play-commence]: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.

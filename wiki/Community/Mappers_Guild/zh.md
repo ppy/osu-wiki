@@ -3,7 +3,7 @@ tags:
   - Mapper's Guild
   - MG
   - 谱师工会
-outdated: true
+outdated_translation: true
 outdated_since: 1e0790f39673fbd138af78b285f3f06a3e9e7ca0
 ---
 

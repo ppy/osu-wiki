@@ -1,12 +1,11 @@
 ---
-outdated: true
+outdated_translation: true
 no_native_review: true
 ---
 
 # Escritura
 
-*Para los estándares de formato, ver: [Criterios para el estilo del artículo/formato](../Formatting)*
-
+*Para los estándares de formato, ver: [Criterios para el estilo del artículo/formato](../Formatting)*\
 *Aviso: Este artículo utiliza [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
 
 Todos los artículos en inglés deben usar un inglés sencillo.

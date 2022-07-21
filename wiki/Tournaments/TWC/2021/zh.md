@@ -3,7 +3,7 @@ tags:
   - TWC
   - TWC2021
   - 世界杯
-outdated: true
+outdated_translation: true
 outdated_since: fd12864fe0d9d5c4e43f09e681be0c1ad040e200
 ---
 

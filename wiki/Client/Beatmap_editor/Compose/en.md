@@ -36,7 +36,7 @@ For a newbie guide: [Beatmapping](/wiki/Beatmapping).
 
 **In layman's's term, adjusting given length of a coloured sewing thread (timing section) for an embroidery design space (measures, divided by the divisor to be called beats) on the cloth (song).**
 
-Hold `Alt` to trigger Distance Snap. The value can range from x0.1 - x2.0.
+Hold `Alt` to trigger Distance Snap. The value can range from x0.1–x2.0.
 
 #### Divisor 1/1
 

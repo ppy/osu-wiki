@@ -1,6 +1,6 @@
 ---
 needs_cleanup: true
-outdated: true
+outdated_translation: true
 outdated_since: a8c8745209c11807318f090c1916347900d138de
 ---
 
@@ -172,7 +172,7 @@ Quelques informations seront affichées dans le cas où le joueur ne possède pa
 
 | Statut de la beatmap | Effet |
 | :-- | :-- |
-| **Classée/Approuvé/En attente/Cimetière** | Le joueur sera redirigé vers **la page de la beatmap sur le navigateur par défaut** en cliquant sur la beatmap. Si le joueur dispose du **osu!direct**, elle sera **téléchargée et extraite automatiquement après le clic**. |
+| **Classée/Approuvé/En attente/Cimetière** | Le joueur sera redirigé vers **la page de la beatmap sur le navigateur par défaut** en cliquant sur la beatmap. Si le joueur dispose de l'**osu!direct**, elle sera **téléchargée et extraite automatiquement après le clic**. |
 | **Non publiée ou obsolète** | Le joueur **ne sera pas redirigé sur la page de la beatmap** après avoir cliqué. L'hôte devra fournir le lien (dans la liste des beatmaps) au joueur si le problème persiste. |
 | **Impossible de mettre à jour la beatmap** | [L'hôte joue probablement une version modifiée.](https://osu.ppy.sh/community/forums/topics/135726 "ppy's reply on a bug report.") |
 

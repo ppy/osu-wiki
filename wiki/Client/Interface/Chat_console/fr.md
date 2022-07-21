@@ -13,7 +13,7 @@ Vous pouvez afficher la console de tchat d'osu! sur la plupart des écrans en ap
 | **Jaune pâle** | Les autres utilisateurs |
 | **Jaune** | [osu!supporter](/wiki/osu!supporter) |
 | **Rouge** | Un membre de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) ou de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) |
-| **Vert** | La ligne contient votre nom ou certains mots-clés que vous avez ajoutés pour déclencher une "mise en évidence". Une copie du message apparaîtra également dans un canal dédié, `#highlight`, qui contient toutes ces lignes. |
+| **Vert** | La ligne contient votre nom ou certains mots-clés que vous avez ajoutés pour déclencher une [mise en évidence](Highlight). Une copie du message apparaîtra également dans un canal dédié, `#highlight`, qui contient toutes ces lignes. |
 | **Bleu** | Un message privé |
 | **Cyan** | [peppy](https://osu.ppy.sh/users/2), le créateur d'osu! |
 | **Rose** | [BanchoBot](/wiki/BanchoBot) |
@@ -82,7 +82,7 @@ Appuyez sur le numéro ou cliquez sur la barre pour l'activer :
 | `/bb` | Envoie un message à Bancho pour qu'il exécute une commande telle que `!stats [user]` | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [user]` | Ouvre un nouvel onglet de tchat avec l'utilisateur spécifié. | `/tchat Amigo` | (L'onglet Amigo est ouvert) |
 | `/clear` | Efface le contenu du tchat actuel. | `/clear` | (Efface pratiquement tout ce qui se trouve dans l'onglet actuel) |
-| `/ignore [user][@chp]` | Ignore tous les messages de l'utilisateur spécifié pour cette session. En ajoutant un @ suivi des lettres, c, h, et/ou p, vous pouvez les ignorer respectivement dans le tchat, les highlights, ou les PMs. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Votre console de tchat est réglée sur : ignore any text written by Amigo \[c\], any possible text highlighting you by Amigo \[h\] any Private Message sent to you by Amigo \[p\]) |
+| `/ignore [user][@chp]` | Ignore tous les messages de l'utilisateur spécifié pour cette session. En ajoutant un @ suivi des lettres, c, h, et/ou p, vous pouvez les ignorer respectivement dans le tchat, les [highlights](Highlight), ou les PMs. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Votre console de tchat est réglée sur : ignore any text written by Amigo \[c\], any possible text highlighting you by Amigo \[h\] any Private Message sent to you by Amigo \[p\]) |
 | `/j [channel]` ou `/join [channel]` | Rejoint le salon spécifié | `/join #lobby` | (L'onglet #lobby est ouvert) |
 | `/p` ou `/part` | Quitte le salon actuel. | `/part` | n/a |
 | `/unignore [user]` | Arrête d'ignorer cet utilisateur pour cette session. | `/unignore Amigo` | You may now hear Amigo. (Votre console de tchat permettra d'accéder à tout commentaire fait par Amigo.) |

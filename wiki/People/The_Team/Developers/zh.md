@@ -10,7 +10,7 @@ tags:
   - osu! 开发者
   - osu! 开发团队
   - 开发者
-outdated: true
+outdated_translation: true
 outdated_since: b5ffad1bde58fd33ff05bc06bb2843bc8707275e
 ---
 
@@ -24,45 +24,36 @@ osu! 的开发人员可以通过其粉红色的用户名和 **osu!dev** 或 **os
 
 [开发者小组页面](https://osu.ppy.sh/groups/11)列出了所有在任团队成员。
 
-osu! 的开发工作由 osu! 的创始人 ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** 所领导。
+osu! 的开发工作由 osu! 的创始人 ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)** 所领导。
 
 ### 游戏客户端开发者
 
-- ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
-- ![][flag_SK] [Domco](https://osu.ppy.sh/users/3562660)
-- ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)
-- ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
-- ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
-- ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058)
+- ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
+- ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660)
+- ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094)
+- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
+- ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
+- ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058)
 
 ### 网站及服务器开发者
 
-- ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883)
-- ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102)
-- ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776)
-- ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
-- ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)
+- ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)
+- ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
+- ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
+- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
+- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### 设计师
 
-- ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765)
-- ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202)
+- ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202)
 
 ### 社区经理
 
-- ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335)
-- ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
-- ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
+- ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335)
+- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
+- ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
 
 ### 机器人账户
 
-- ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_FR]: /wiki/shared/flag/FR.gif "法国"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_SK]: /wiki/shared/flag/SK.gif "斯洛伐克"
-[flag_US]: /wiki/shared/flag/US.gif "美国"
-[flag___]: /wiki/shared/flag/__.gif
+- ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397)

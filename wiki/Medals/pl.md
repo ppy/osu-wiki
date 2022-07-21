@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # Medale
@@ -49,7 +49,7 @@ Medale The High Ranker są przyznawane za osiągnięcie konkretnej pozycji w ran
 
 Medale Star-based są podzielone na dwie grupy: *Pass* oraz *S*.
 Medale *Pass* są przyznawane za ukończenie dowolnej beatmapy o konkretnej liczbie gwiazdek.
-Medale *S* są przyznawane za uzyskanie [pełnego combo](/wiki/Full_combo) wraz z oceną S na dowolnej beatmapie o konkretnej liczbie gwiazdek.
+Medale *S* są przyznawane za uzyskanie [pełnego combo](/wiki/Gameplay/Full_combo) wraz z oceną S na dowolnej beatmapie o konkretnej liczbie gwiazdek.
 Trudność beatmapy zostanie zaokrąglona do najbliższej pełnej liczbie gwiazdek i zostanie przyznany medal.
 Użycie modyfikacji utrudniających bądź ułatwiających rozgrywkę jest dozwolone.
 Beatmapa musi także posiadać status rankingowej bądź zatwierdzonej.

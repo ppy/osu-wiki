@@ -1,6 +1,6 @@
 ---
 stub: true
-outdated: true
+outdated_translation: true
 outdated_since: ab0388ed6eda863ef12c8c0d9ec7ab691e9bb0e1
 ---
 

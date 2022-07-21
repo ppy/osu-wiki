@@ -62,6 +62,6 @@ Alcuni reati hanno una durata minima (in genere 42 ore o più) se sono particola
 
 Se dopo diverse infrazioni continui a violare le regole, il tuo account potrebbe essere [permanentemente e irrevocabilmente ristretto](/wiki/Help_centre/Account_restrictions).
 
-Gli account ristretti non possono giocare online, inviare punteggi, chattare con altri utenti e sono a tutti gli effetti "banditi" dall'interazione con la comunità. La restrizione per la violazione delle regole della comunità può essere rimossa solo dopo aver fatto ricorso allo staff di supporto dopo il trascorrimento di 3 mesi ([si applicano più condizioni](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
+Gli account ristretti non possono giocare online, inviare punteggi, chattare con altri utenti e sono a tutti gli effetti "banditi" dall'interazione con la comunità. La restrizione per la violazione delle regole della comunità può essere rimossa solo dopo aver fatto ricorso allo staff di supporto dopo il trascorrimento di 3 mesi ([si applicano più condizioni](/wiki/Help_centre/Account_restrictions#reasons)).
 
 I reati gravi che vanno ben oltre la portata delle nostre regole e nella giurisdizione dei contenuti illegali secondo la common law internazionale comporteranno la chiusura immediata dell'account. Ciò si applica quasi esclusivamente a reati estremamente grafici o altrimenti aberranti, come la distribuzione di materiale pedopornografico o altro materiale di abuso.

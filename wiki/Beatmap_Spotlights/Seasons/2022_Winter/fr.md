@@ -12,7 +12,7 @@ tags:
 
 ## Programme
 
-| Événement | Temps |
+| Événement | Date |
 | :-- | :-- |
 | Début de la saison | 15 février 2022 |
 | Playlist lobby: Playlist A | 15 février - 1er mars 2022 |

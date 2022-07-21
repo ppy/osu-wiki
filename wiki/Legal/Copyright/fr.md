@@ -10,7 +10,7 @@ Une grande partie des dons que nous recevons sont réinvestis dans les [licences
 
 À défaut, osu! a adopté la politique suivante concernant la violation des droits d'auteur, conformément au Digital Millennium Copyright Act, 17 U.S.C. 512.
 
-Les coordonnées de l'Agent Désigné par osu! pour recevoir les notifications de violation présumée ("Agent Désigné") sont indiquées à la fin de la présente politique et sont conservées dans les dossiers du United States Copyright Office ([https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)). osu! prend très au sérieux les droits d'auteur et autres droits de propriété intellectuelle.
+Les coordonnées de l'Agent Désigné par osu! pour recevoir les notifications de violation présumée ("Agent Désigné") sont indiquées à la fin de la présente politique et sont conservées dans les dossiers du United States Copyright Office (<https://www.copyright.gov/dmca-directory/>). osu! prend très au sérieux les droits d'auteur et autres droits de propriété intellectuelle.
 
 C'est la politique d'osu! de :
 

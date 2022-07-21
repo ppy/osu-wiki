@@ -8,7 +8,7 @@ First thing, you need to select a picture. I will present this on this picture t
 
 ## Step \#2
 
-Now, select any point you want to start selecting your character. It's not that hard, simply place nodes along with your character outline. The closer placing of notes - the more precise your cut will be.
+Now, select any point you want to start selecting your character. It's not that hard, simply place nodes along with your character outline. The closer placing of notes, the more precise your cut will be.
 
 ![Tutorial Image 2](img/CCB-2.png "Tutorial Image 2")
 

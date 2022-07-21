@@ -177,18 +177,15 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 
 Saturday, May 14, 2022:
 
-| Team A |  |  | Team B | Match link |  |
+| Team A |  |  | Team B | Match link | Note |
 | --:  |--: | :-- | :-- | :-: | :-: |
-| **金戈铁马的鲜丰水果摊** | **7** | 6 | 太美丽了理塘 | [#1](https://osu.ppy.sh/community/matches/100602282) | ¹ |
+| **金戈铁马的鲜丰水果摊** | **7** | 6 | 太美丽了理塘 | [#1](https://osu.ppy.sh/community/matches/100602282) | Finals |
 
 Sunday, May 15, 2022:
 
 | Team A |  |  | Team B | Match link |  |
 | --:  |--: | :-- | :-- | :-: | :-: |
-| **GBC最强阵容9个Miyes** | **7** | 3 | 货拉拉拉不拉拉布拉多 | [#1](https://osu.ppy.sh/community/matches/100634289) | ² |
-
-¹ Finals\
-² Bronze match
+| **GBC最强阵容9个Miyes** | **7** | 3 | 货拉拉拉不拉拉布拉多 | [#1](https://osu.ppy.sh/community/matches/100634289) | Bronze match |
 
 ### Semifinals
 
@@ -222,7 +219,7 @@ Monday, May 2, 2022:
 
 ### Regular stage summary
 
-| #¹ | Team | Matches | Beatmaps | BD² | BU³ | Round 1 | Round 2 | Round 3 |
+| #[^rs-summary-seed] | Team | Matches | Beatmaps | BD[^rs-summary-bd] | BU[^rs-summary-bu] | Round 1 | Round 2 | Round 3 |
 | :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | **金戈铁马的鲜丰水果摊** | 3-0 | 18-4 | +14 | +1 | 6-1 倒霉蛋 | 6-2 hya酱 | 6-1 货拉拉 |
 | 2 | **太美丽了理塘** | 3-0 | 18-3 | +15 | -3 | 6-1 Yzh | 6-1 摩卡 | 6-1 大怨种 |
@@ -240,10 +237,6 @@ Monday, May 2, 2022:
 | 14 | bikabika | 1-2 | 7-17 | -10 | -3 | 1-6 摩卡 | 6-5 Yzh | 0-6 涩涩 |
 | 15 | Yzhhのqlll森林汪酱不会大叠 | 0-3 | 6-18 | -6 | +1 | 1-6 理塘 | 5-6 bika | 0-6 啊对对 |
 | 16 | 你没对象对不队 | 0-3 | 3-18 | -9 | -1 | 2-6 最强阵 | 1-6 MK | 0-6 啊不对 |
-
-¹ Seed: the top 8 advance to the next round\
-² Beatmap difference\
-³ Buchholz score
 
 ### Regular stage tiebreaker
 
@@ -463,6 +456,12 @@ Sunday, April 10, 2022:
 5. **Reschedules may only be requested by a team captain.**
    - **Do not ask for reschedule unless it is absolutely needed. The host reserves the right to decline any reschedule requests.**
 6. Captains are responsible for their teams' availability. The current team size exists to ensure every team can provide at least three players for each match. If teams cannot provide three players for a match, the match will be considered forfeited.
+
+## Notes
+
+[^rs-summary-seed]: Seed: the top 8 advance to the next round.
+[^rs-summary-bd]: Beatmap difference.
+[^rs-summary-bu]: Buchholz score.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"

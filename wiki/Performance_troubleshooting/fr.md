@@ -7,7 +7,7 @@ Malheureusement, en raison de l'étendue du matériel sur lequel fonctionne osu!
 ## Points à vérifier
 
 - Utilisez-vous un skin ? Si c'est le cas, essayez de revenir au skin par défaut et voyez si les choses s'améliorent. Certains skins peuvent être conçus d'une manière qui peut entraîner des problèmes de performances sur certains ou tous les systèmes.
-- Votre limiteur d'images est-il réglé sur "illimité" ? Réglez-le sur "optimal" et voyez si cela vous aide. Voir [sa section ci-dessous](#illimité) pour plus d'informations sur les raisons pour lesquelles "illimité" n'est généralement pas le meilleur choix.
+- Votre limiteur d'images est-il réglé sur `Illimité` ? Réglez-le sur `Optimal` et voyez si cela vous aide. Voir [sa section ci-dessous](#illimité) pour plus d'informations sur les raisons pour lesquelles `Illimité` n'est généralement pas le meilleur choix.
 - Vous êtes en mode fenêtré ? Passez en mode plein écran.
 - Avez-vous mis à jour vos pilotes (en particulier le GPU) ? Essayez de le faire et voyez si les choses s'améliorent. Sinon, si vous les avez récemment mis à jour, essayez de revenir en arrière.
 
@@ -20,7 +20,7 @@ Il est assez difficile de fournir une assistance lorsque tous les types de probl
 Le fichier audio des beatmaps revient en arrière ou s'interrompt. Lorsque le jeu lag, vous pouvez l'entendre dans l'audio. Lors du diagnostic ou du signalement, il peut être utile de :
 
 - Vérifier si cela se produit sur tous les périphériques audio disponibles. Si vous utilisez un casque USB, essayez plutôt de vous connecter via la sortie analogique de votre PC.
-- Vérifier si l'activation du paramètre "Mode de compatibilité audio" dans les options vous aide.
+- Vérifier si l'activation du paramètre `Mode de compatibilité audio` dans les options vous aide.
 
 ### Spike frame
 
@@ -46,7 +46,7 @@ Il y a un délai notable entre le moment où vous tapez sur le clavier ou dépla
 
 Pendant le jeu, un ou plusieurs périphériques d'entrée cessent de répondre. Tout ce qui est à l'écran bouge correctement mais il n'est pas possible de jouer correctement jusqu'à ce que le contrôle revienne. Lors du diagnostic ou du signalement, il peut être utile de :
 
-- Appuyez sur Ctrl + F11 pour voir le graphique d'affichage du temps de frame. Vérifiez s'il y a beaucoup de blanc sur le graphique lorsque cela se produit (cela signifie qu'une autre application ou un pilote sur votre système utilise trop de temps CPU, retardant ainsi la saisie).
+- Appuyez sur `Ctrl` + `F11` pour voir le graphique d'affichage du temps de frame. Vérifiez s'il y a beaucoup de blanc sur le graphique lorsque cela se produit (cela signifie qu'une autre application ou un pilote sur votre système utilise trop de temps CPU, retardant ainsi la saisie).
 
 ### Faible fréquence d'images
 
@@ -54,7 +54,7 @@ Pendant le jeu, la fréquence d'images ne peut pas suivre, ce qui entraîne des 
 
 - Vérifier si cela se produit toujours après un redémarrage du PC.
 - Essayer de fermer toute application qui affiche des overlays sur le jeu (Discord, Steam, NVIDIA Shadowplay, etc.).
-- Vous assurer que vous ne forcez pas l'activation du vsync dans vos pilotes d'affichage (elle doit être réglée sur "off" ou "préférence de l'application").
+- Vous assurer que vous ne forcez pas l'activation du VSync dans vos pilotes d'affichage (elle doit être réglée sur "off" ou "préférence de l'application").
 - Essayer de changer le limiteur d'images et voir si cela améliore la situation.
 - Vous assurer que vous exécutez osu! en mode plein écran exclusif (et non sans bordure). Cela améliorera toujours les performances.
 - Vous assurer que le [mode de jeu](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) est activé. Il permet à Windows de fournir des cœurs et des ressources dédiés à osu!
@@ -80,7 +80,7 @@ Recommandé pour les PC plus anciens ou pour économiser la batterie d'un ordina
 
 Ce limiteur d'images tente de maintenir un taux d'images 8 fois supérieure à votre taux de rafraîchissement, avec un maximum de 960 FPS. C'est le limiteur d'images que nous recommandons aux utilisateurs qui ne veulent pas pousser leur CPU/GPU à l'extrême, tout en maintenant des niveaux élevés de performance résultant d'une faible latence d'entrée.
 
-Peut être préféré à illimité afin de réduire le nombre d'images rendues, ce qui réduit le risque de surcharge du [ramasse-miettes](https://fr.wikipedia.org/wiki/Ramasse-miettes_(informatique)) (qui peut entraîner des spike frame).
+Peut être préféré à `Illimité` afin de réduire le nombre d'images rendues, ce qui réduit le risque de surcharge du [ramasse-miettes](https://fr.wikipedia.org/wiki/Ramasse-miettes_(informatique)) (qui peut entraîner des spike frame).
 
 ### Illimité
 
@@ -92,12 +92,11 @@ Bien que cela puisse sembler être la meilleure option (et cela peut l'être, si
 - En poussant votre processeur et votre processeur graphique à la limite, il y a des chances qu'ils s'emballent, ce qui réduit vos performances globales.
 - Les GPU ne sont généralement pas conçus pour restituer plus de 1 000 images par seconde. Un comportement inattendu peut donc se produire, notamment des performances inférieures ou une latence supérieure à ce qui serait possible autrement.
 
-Néanmoins, si la production de chaleur et la surcharge potentielle de votre matériel ne sont pas un problème, l'illimité peut être l'option qui vous offre les temps de frame les plus stables.
+Néanmoins, si la production de chaleur et la surcharge potentielle de votre matériel ne sont pas un problème, l'`Illimité` peut être l'option qui vous offre les temps de frame les plus stables.
 
 ### Personnalisé
 
-*Avis aux utilisateurs de Cutting Edge : si vous changez la valeur de `CustomFrameLimit` pour un nombre supérieur à 999, elle sera ramenée à 999 ; sur Stable, vous pouvez fixer la valeur au-dessus de 1000 sans problème.*
-
+*Avis aux utilisateurs de Cutting Edge : si vous changez la valeur de `CustomFrameLimit` pour un nombre supérieur à 999, elle sera ramenée à 999 ; sur Stable, vous pouvez fixer la valeur au-dessus de 1000 sans problème.*\
 *Attention : vous ne pouvez pas activer ce paramètre avec le raccourci `F7` dans le jeu, même si vous suivez les étapes ci-dessous : vous devez passer à `Personnalisée` dans les options avant de quitter le jeu pour qu'il soit disponible à la prochaine exécution d'osu!. Sinon, vous devrez à nouveau modifier manuellement le paramètre `FrameSync`.*
 
 Ce limiteur d'images tente de maintenir une fréquence d'images égale à vos préférences. Cependant, il s'agit d'un paramètre qui ne peut être modifié par défaut dans le menu du jeu.

@@ -1,6 +1,6 @@
 ---
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: c1175ba788c488eb294b1b04c55a6dee798009de
 ---
 
@@ -25,19 +25,11 @@ Lista wszystkich członków pomocy technicznej znajduje się na [stronie grupy](
 
 | Użytkownik | Języki |
 | :-- | :-- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Szwedzki, hiszpański |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Niemiecki |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Hiszpański |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Niemcy"
-[flag_ES]: /wiki/shared/flag/ES.gif "Hiszpania"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipiny"
-[flag_SE]: /wiki/shared/flag/SE.gif "Szwecja"
-[flag_US]: /wiki/shared/flag/US.gif "Stany Zjednoczone"
+| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
+| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński |
+| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Szwedzki, hiszpański |
+| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
+| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Niemiecki |
+| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Hiszpański |

@@ -14,14 +14,14 @@ Der **osu! World Cup 2015** (***OWC 2015***) war ein länderbasiertes osu!-Turni
 
 | Event | Zeitpunkt |
 | --: | :-- |
-| Registrierungsphase | 2015-10-01 bis 2015-10-18 |
-| Live-Auslosung | 2015-11-01 (14:00 UTC) |
-| Gruppenphase | 2015-11-07 bis 2015-11-08 |
-| Achtelfinale | 2015-11-15 |
-| Viertelfinale | 2015-11-21 bis 2015-11-22 |
-| Halbfinale | 2015-11-28 bis 2015-11-29 |
-| Finalwoche 1 | 2015-12-05 bis 2015-12-06 |
-| Finalwoche 2 | 2015-12-13 |
+| Registrierungsphase | 01.10.2015 bis 18.10.2015 |
+| Live-Auslosung | 01.11.2015 (14:00 UTC) |
+| Gruppenphase | 07.11.2015 bis 08.11.2015 |
+| Achtelfinale | 15.11.2015 |
+| Viertelfinale | 21.11.2015 bis 22.11.2015 |
+| Halbfinale | 28.11.2015 bis 29.11.2015 |
+| Finalwoche 1 | 05.12.2015 bis 06.12.2015 |
+| Finalwoche 2 | 13.12.2015 |
 
 ## Preise
 

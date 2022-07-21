@@ -13,7 +13,7 @@ Liens :
 
 ## Février
 
-Une nouvelle version de l'éditeur osu!mania était en cours de développement. Le skin du mode Taiko comporte désormais une barre de "métadonnées" (titre de la musique et artiste sous le terrain de jeu), le terrain de jeu du mode Taiko n'est plus transparent et s'adapte au kiai time. La FAQ originale a été remplacée par le [osu! wiki](/wiki/FAQ).
+Une nouvelle version de l'éditeur osu!mania était en cours de développement. Le skin du mode Taiko comporte désormais une barre de "métadonnées" (titre de la musique et artiste sous le terrain de jeu), le terrain de jeu du mode Taiko n'est plus transparent et s'adapte au kiai time. La FAQ originale a été remplacée par l'[osu! wiki](/wiki/FAQ).
 
 La commande `!faq` de BanchoBot est ouverte au public depuis [traduction](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdHhUUjNSa19QendtcTdYUjE2S2hnVHc#gid=24). Le légendaire [BanchoBot](/wiki/BanchoBot) a enfin un [profil](https://osu.ppy.sh/users/3) ! L'affichage des panneaux de l'utilisateur s'ajuste maintenant pour afficher quatre colonnes sur tous les modes d'écran large.
 
@@ -82,7 +82,7 @@ Trois nouvelles [Médailles](/wiki/Medals) pour osu!mania ont été publiées (4
 
 ## Juin
 
-Le [osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) a commencé. Afin de lutter contre la création de nombreux comptes, la clarté des messages lors de l'inscription a été améliorée et une infographie montrant qu'il n'est pas possible de s'inscrire à partir de téléphones/tablettes a été ajoutée afin d'empêcher les joueurs de créer d'autres comptes pour des raisons personnelles.
+L'[osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) a commencé. Afin de lutter contre la création de nombreux comptes, la clarté des messages lors de l'inscription a été améliorée et une infographie montrant qu'il n'est pas possible de s'inscrire à partir de téléphones/tablettes a été ajoutée afin d'empêcher les joueurs de créer d'autres comptes pour des raisons personnelles.
 
 En plus des mesures de sécurité, les utilisateurs peuvent choisir le mode de jeu par défaut de leur profil (comme [osu!mania](/wiki/Game_mode/osu!mania), [Taiko](/wiki/Game_mode/osu!taiko)) et le support de [last.fm](https://last.fm) pour les profils. Les profils d'utilisateurs ont maintenant un classement des performances par pays sur leur profil et un nouveau graphique de pp.
 

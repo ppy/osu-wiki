@@ -6,7 +6,7 @@ no_native_review: true
 
 ***注意: 这个文件是[通用 Ranking Criteria](/wiki/Ranking_Criteria)的扩展。***
 
-为了使 [osu!catch](/wiki/Game_mode/osu!catch) 特定模式的[谱面](/wiki/Beatmap)通过[谱面 Ranking 程序](/wiki/Beatmap_ranking_procedure)，则必须遵守 **osu!catch Ranking Criteria** 内列出的[规定和准则](/wiki/Ranking_Criteria#general-terms)。
+为了使 [osu!catch](/wiki/Game_mode/osu!catch) 特定模式的[谱面](/wiki/Beatmap)通过[谱面 Ranking 程序](/wiki/Beatmap_ranking_procedure)，则必须遵守 **osu!catch Ranking Criteria** 内列出的[规定和准则](/wiki/Ranking_Criteria#一般术语)。
 
 ## 全局
 

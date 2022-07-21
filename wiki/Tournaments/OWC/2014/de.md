@@ -14,14 +14,14 @@ Der **osu! World Cup 2014** (***OWC 2014***) war ein länderbasiertes osu!-Turni
 
 | Event | Zeitpunkt |
 | --: | :-- |
-| Registrierungsphase | 2014-10-02 bis 2014-10-26 |
-| Live-Auslosung | 2014-11-01 (14:00 UTC) |
-| Gruppenphase | 2014-11-08 bis 2014-11-09 |
-| Achtelfinale | 2014-11-16 |
-| Viertelfinale | 2014-11-22 bis 2014-11-23 |
-| Halbfinale | 2014-11-29 bis 2014-11-30 |
-| Finalwoche 1 | 2014-12-06 |
-| Finalwoche 2 | 2014-12-13 |
+| Registrierungsphase | 02.10.2014 bis 26.10.2014 |
+| Live-Auslosung | 01.11.2014 (14:00 UTC) |
+| Gruppenphase | 08.11.2014 bis 09.11.2014 |
+| Achtelfinale | 16.11.2014 |
+| Viertelfinale | 22.11.2014 bis 23.11.2014 |
+| Halbfinale | 29.11.2014 bis 30.11.2014 |
+| Finalwoche 1 | 06.12.2014 |
+| Finalwoche 2 | 13.12.2014 |
 
 ## Preise
 

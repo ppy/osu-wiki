@@ -2,7 +2,7 @@
 
 ***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_Criteria).***
 
-**Ranking criteria osu!catch** menjabarkan [aturan dan pedoman](/wiki/Ranking_Criteria#general-terms) spesifik untuk [beatmap](/wiki/Beatmap) [osu!catch](/wiki/Game_mode/osu!catch) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
+**Ranking criteria osu!catch** menjabarkan [aturan dan pedoman](/wiki/Ranking_Criteria#istilah-umum) spesifik untuk [beatmap](/wiki/Beatmap) [osu!catch](/wiki/Game_mode/osu!catch) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
 ## Keseluruhan
 

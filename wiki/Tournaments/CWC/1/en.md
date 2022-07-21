@@ -268,9 +268,7 @@ Monday, 5 December 2011:
 | Group | Team 1 |  |  | Team 2 | Match link |
 | --: | --: | :-: | :-: | :-- | :-- |
 | B | **State(s) of the Art** | **2** | 1 | Hungary CTB | [#1](https://osu.ppy.sh/community/matches/2123665) |
-| D | Chile | *N/A* | *N/A* | China | *not played¹* |
-
-¹ *As per the Tournament Management's decision ([\[1\]](https://osu.ppy.sh/community/forums/posts/1184327) [\[2\]](https://osu.ppy.sh/community/forums/posts/1206142) [\[3\]](https://osu.ppy.sh/community/forums/posts/1187916)), the Chile vs. China match was not played.*
+| D | Chile | *N/A* | *N/A* | China | *not played*[^cl-cn-skip] |
 
 ### Group stage week 4
 
@@ -473,6 +471,10 @@ Time Zone: (...)
 4. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely necessary. The Tournament Management has the right to decline the request.**
 5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least three players for each match. If a team is unable to provide three players for a match, the match will be considered forfeited.
+
+## Notes
+
+[^cl-cn-skip]: As per the Tournament Management's decision ([\[1\]](https://osu.ppy.sh/community/forums/posts/1184327) [\[2\]](https://osu.ppy.sh/community/forums/posts/1206142) [\[3\]](https://osu.ppy.sh/community/forums/posts/1187916)), the Chile vs. China match was not played.
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"

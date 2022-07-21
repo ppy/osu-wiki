@@ -1,6 +1,8 @@
 ---
 no_native_review: true
 stub: true
+outdated_since: 17d9f1a0c94989748c02e071d3f5127721db07c4
+outdated_translation: true
 ---
 
 # Кудосу

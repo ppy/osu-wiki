@@ -22,7 +22,7 @@ Untuk mengimbangi mod baru yang dirilis Februari, mod [Relax](/wiki/Game_modifie
 
 ## April
 
-Bukan lelucon, Bancho sudah selesai dan siap digunakan bulan ini, dan begitu juga panel pengguna Obrolan Lanjutan (Extended Chat) seperti yang pemain ketahui hingga hari ini. Pengguna sekarang dapat melihat apa yang dilakukan pengguna lain menggunakan panel pengguna mereka, serta berinteraksi dengan mereka dengan mengklik tonton (clicking to spectate). Sistem penyampaian kesalahan otomatis (error submission system) memulai debutnya, kompatibilitas xfire diimplementasikan, dan menu utama dan antarmuka editor menerima perombakan lain (dengan ikon baru oleh LuigiHann). Antarmuka obrolan juga tidak kalah, dengan tombol "show chat", tab completion, dan tanda sorot nama panggilan (nickname highlight alerts). Layar peringkat sekarang menunjukkan poin yang diperlukan untuk mencapai peringkat berikutnya.
+Bukan lelucon, Bancho sudah selesai dan siap digunakan bulan ini, dan begitu juga panel pengguna Obrolan Lanjutan (Extended Chat) seperti yang pemain ketahui hingga hari ini. Pengguna sekarang dapat melihat apa yang dilakukan pengguna lain menggunakan panel pengguna mereka, serta berinteraksi dengan mereka dengan mengklik tonton (clicking to spectate). Sistem penyampaian kesalahan otomatis (error submission system) memulai debutnya, kompatibilitas xfire diimplementasikan, dan menu utama dan antarmuka editor menerima perombakan lain (dengan ikon baru oleh LuigiHann). Antarmuka obrolan juga tidak kalah, dengan tombol "show chat", tab completion, dan tanda sorot nama panggilan ([nickname highlight](/wiki/Client/Interface/Chat_console/Highlight) alerts). Layar peringkat sekarang menunjukkan poin yang diperlukan untuk mencapai peringkat berikutnya.
 
 ## Mei
 

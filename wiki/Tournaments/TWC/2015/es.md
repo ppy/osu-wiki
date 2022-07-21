@@ -2,7 +2,7 @@
 tags:
   - TWC 2015
   - TWC2015
-outdated: true
+outdated_translation: true
 ---
 
 # osu! Taiko World Cup 2015

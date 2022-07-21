@@ -441,10 +441,8 @@ Sunday, 13 March 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **go wild idm** | **3** | 1 | :flag_tf: | [#1](https://osu.ppy.sh/community/matches/98702606)¹ |
+| **go wild idm** | **3** | 1 | :flag_tf: | [#1](https://osu.ppy.sh/community/matches/98702606)[^lb-note-1] |
 | **Deflated squidward 2** | **0** | -1 | Meal Deal Men | *forfeit* |
-
-¹ The match was concluded due to pedeko having to leave.
 
 Monday, 14 March 2022:
 
@@ -513,9 +511,7 @@ Thursday, 10 March 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| PopKO | 1 | **2** | **stun seed** | [#1](https://osu.ppy.sh/community/matches/98599049)¹ |
-
-¹ The match was concluded due to Claus sustaining a hand injury and no longer being able to compete.
+| PopKO | 1 | **2** | **stun seed** | [#1](https://osu.ppy.sh/community/matches/98599049)[^lb-note-2] |
 
 ### Round of 32
 
@@ -633,6 +629,11 @@ Top 10 qualification results:
 - **Failed scores will count**.
 - For FreeMod picks, one player from each team must select any combination of **Hidden or Hard Rock**.
 - Tiebreakers are FreeMod, however NoMod can be used.
+
+## Notes
+
+[^lb-note-1]: The match was concluded due to pedeko having to leave.
+[^lb-note-2]: The match was concluded due to Claus sustaining a hand injury and no longer being able to compete.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"

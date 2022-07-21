@@ -54,6 +54,10 @@ Difficulty creation tasks earn a user more points if the beatmap is associated w
 
 Members of the Mappers' Guild may also participate in the creation of showcase beatmaps for future Featured Artist announcements. Upon the announcement of the corresponding Featured Artist, these beatmaps are highlighted in the [newspost](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame) as well.
 
+### Beatmapping Contests
+
+The Mappers' Guild is also used to manage beatmapping contests. Since January 2020, all iterations of the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) have been hosted, screened, and judged using systems provided by the Mappers' Guild. Any user can host contests through the Mappers' Guild for increased accessibility to osu!'s mapping community.
+
 ## History
 
 The Mappers' Guild launched with a group of less than 10 mappers in late 2017. Given information on an upcoming Featured Artist at the time, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), they were tasked with creating six beatmaps to accompany the artist's [news post announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).

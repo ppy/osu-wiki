@@ -40,13 +40,13 @@ During the [screening](/wiki/Contests/Monthly_Beatmapping_Contest#screening) pro
 
 | Rank | Beatmap | Judging | Musical representation (50) | Creativity (50) | Gameplay (50) | Theme (50) | Total (standardized/raw) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [*FORViDDEN ENERZY*](https://osu.ppy.sh/beatmapsets/1634441) by [Aistre](https://osu.ppy.sh/users/4879380) | [see details](https://mappersguild.com/contestresults?submission=61413758c240363568f5603f) | 33 | 35 | 33 | 35 | **4.6** (**136**) |
-| \#2 | [*Faith of Eastward*](https://osu.ppy.sh/beatmapsets/1635828) by [phyr](https://osu.ppy.sh/users/13181574) | [see details](https://mappersguild.com/contestresults?submission=61413757c240363568f56019) | 33 | 34 | 37 | 32 | **3.77** (**136**) |
-| \#3 | [*Faith of Eastward*](https://osu.ppy.sh/beatmapsets/1634391) by [Mattay](https://osu.ppy.sh/users/9748303) | [see details](https://mappersguild.com/contestresults?submission=61413757c240363568f5600f) | 29 | 26 | 27 | 24 | **-0.77** (**106**) |
-| \#4 | [*Regeneraxion*](https://osu.ppy.sh/beatmapsets/1634195) by [too](https://osu.ppy.sh/users/12196931) | [see details](https://mappersguild.com/contestresults?submission=61413757c240363568f56029) | 24 | 25 | 25 | 25 | **-2.01** (**99**) |
-| \#5 | [*Regeneraxion*](https://osu.ppy.sh/beatmapsets/1634669) by [zadknus](https://osu.ppy.sh/users/12101917) | [see details](https://mappersguild.com/contestresults?submission=61413756c240363568f55ff5) | 15 | 23 | 23 | 20 | **-5.59** (**81**) |
+| \#1 | [*FORViDDEN ENERZY*](https://osu.ppy.sh/beatmapsets/1634441) by [Aistre](https://osu.ppy.sh/users/4879380) | [see details](https://mappersguild.com/contests/results?submission=61413758c240363568f5603f) | 33 | 35 | 33 | 35 | **4.6** (**136**) |
+| \#2 | [*Faith of Eastward*](https://osu.ppy.sh/beatmapsets/1635828) by [phyr](https://osu.ppy.sh/users/13181574) | [see details](https://mappersguild.com/contests/results?submission=61413757c240363568f56019) | 33 | 34 | 37 | 32 | **3.77** (**136**) |
+| \#3 | [*Faith of Eastward*](https://osu.ppy.sh/beatmapsets/1634391) by [Mattay](https://osu.ppy.sh/users/9748303) | [see details](https://mappersguild.com/contests/results?submission=61413757c240363568f5600f) | 29 | 26 | 27 | 24 | **-0.77** (**106**) |
+| \#4 | [*Regeneraxion*](https://osu.ppy.sh/beatmapsets/1634195) by [too](https://osu.ppy.sh/users/12196931) | [see details](https://mappersguild.com/contests/results?submission=61413757c240363568f56029) | 24 | 25 | 25 | 25 | **-2.01** (**99**) |
+| \#5 | [*Regeneraxion*](https://osu.ppy.sh/beatmapsets/1634669) by [zadknus](https://osu.ppy.sh/users/12101917) | [see details](https://mappersguild.com/contests/results?submission=61413756c240363568f55ff5) | 15 | 23 | 23 | 20 | **-5.59** (**81**) |
 
-See results for all submissions [here](https://mappersguild.com/contestresults?contest=614136d564baf2639dd0c06a).
+See results for all submissions [here](https://mappersguild.com/contests/results?contest=614136d564baf2639dd0c06a).
 
 ### Winners
 
@@ -70,13 +70,13 @@ Unlike osu!, osu!taiko operates without [screening](/wiki/Contests/Monthly_Beatm
 
 | Rank | Beatmap | Judging | Structure (40) | Creativity (40) | Gameplay (40) | Limitation (20) | Total (standardized/raw) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634847) by [Jaltzu](https://osu.ppy.sh/users/2597417) | [see details](https://mappersguild.com/contestresults?submission=60aff5437edff1508cf083e0) | 35 | 29 | 34 | 19 | **3.76** (**117**) |
-| \#2 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634263) by [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | [see details](https://mappersguild.com/contestresults?submission=60aff5457edff1508cf083fe) | 33 | 30 | 31 | 20 | **3.33** (**114**) |
-| \#3 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634182) by [uone](https://osu.ppy.sh/users/5321719) | [see details](https://mappersguild.com/contestresults?submission=60aff5457edff1508cf083f6) | 32 | 31 | 34 | 19 | **3.24** (**116**) |
-| \#4 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1634941) by [HiroK](https://osu.ppy.sh/users/4050738) | [see details](https://mappersguild.com/contestresults?submission=60aff5437edff1508cf083e2) | 32 | 31 | 30 | 19 | **3.01** (**112**) |
-| \#5 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634180) by [Nifty](https://osu.ppy.sh/users/4956097) | [see details](https://mappersguild.com/contestresults?submission=60aff5437edff1508cf083dc) | 31 | 31 | 32 | 18 | **2.93**  (**112**) |
+| \#1 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634847) by [Jaltzu](https://osu.ppy.sh/users/2597417) | [see details](https://mappersguild.com/contests/results?submission=60aff5437edff1508cf083e0) | 35 | 29 | 34 | 19 | **3.76** (**117**) |
+| \#2 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634263) by [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | [see details](https://mappersguild.com/contests/results?submission=60aff5457edff1508cf083fe) | 33 | 30 | 31 | 20 | **3.33** (**114**) |
+| \#3 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634182) by [uone](https://osu.ppy.sh/users/5321719) | [see details](https://mappersguild.com/contests/results?submission=60aff5457edff1508cf083f6) | 32 | 31 | 34 | 19 | **3.24** (**116**) |
+| \#4 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1634941) by [HiroK](https://osu.ppy.sh/users/4050738) | [see details](https://mappersguild.com/contests/results?submission=60aff5437edff1508cf083e2) | 32 | 31 | 30 | 19 | **3.01** (**112**) |
+| \#5 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634180) by [Nifty](https://osu.ppy.sh/users/4956097) | [see details](https://mappersguild.com/contests/results?submission=60aff5437edff1508cf083dc) | 31 | 31 | 32 | 18 | **2.93**  (**112**) |
 
-See results for all submissions [here](https://mappersguild.com/contestresults?contest=60aff4d27edff1508cf083a4).
+See results for all submissions [here](https://mappersguild.com/contests/results?contest=60aff4d27edff1508cf083a4).
 
 ### Winner
 
@@ -98,13 +98,13 @@ This contest focused on **1/1 rhythm gaps**! For those of you who aren't mappers
 
 | Rank | Beatmap | Judging | Musical representation (50) | Creativity (50) | Gameplay (50) | Theme (50) | Total (standardized/raw) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [*REDOUT*](https://osu.ppy.sh/beatmapsets/1634189) by [Jemzuu](https://osu.ppy.sh/users/7890134) | [see details](https://mappersguild.com/contestresults?submission=60e21c421f02780e58fa28f5) | 41 | 40 | 40 | 42 | **4.89** (**163**) |
-| \#2 | [*REDOUT*](https://drive.google.com/file/d/1g-ynzOkDh61AakZxNw_WgzAF0eeArF1Y/view?usp=sharing) by [Unlucky_w](https://osu.ppy.sh/users/4820793) | [see details](https://mappersguild.com/contestresults?submission=60e21c421f02780e58fa28f7) | 39 | 40 | 40 | 40 | **4.4** (**159**) |
-| \#3 | [*REDOUT*](https://osu.ppy.sh/beatmapsets/1634184) by [Secre](https://osu.ppy.sh/users/2306637) | [see details](https://mappersguild.com/contestresults?submission=60e21c421f02780e58fa28fe) | 35 | 33 | 38 | 41 | **2.61** (**147**) |
-| \#4 | [*Voice*](https://osu.ppy.sh/beatmapsets/1634222) by [rew0825](https://osu.ppy.sh/users/2488026) | [see details](https://mappersguild.com/contestresults?submission=60e21c421f02780e58fa28fc) | 38 | 31 | 35 | 40 | **2.19** (**144**) |
-| \#5 | [*REDOUT*](https://osu.ppy.sh/beatmapsets/1634262) by [Dika312](https://osu.ppy.sh/users/741613) | [see details](https://mappersguild.com/contestresults?submission=60e21c421f02780e58fa2900) | 36 | 37 | 33 | 33 | **1.87** (**139**) |
+| \#1 | [*REDOUT*](https://osu.ppy.sh/beatmapsets/1634189) by [Jemzuu](https://osu.ppy.sh/users/7890134) | [see details](https://mappersguild.com/contests/results?submission=60e21c421f02780e58fa28f5) | 41 | 40 | 40 | 42 | **4.89** (**163**) |
+| \#2 | [*REDOUT*](https://drive.google.com/file/d/1g-ynzOkDh61AakZxNw_WgzAF0eeArF1Y/view?usp=sharing) by [Unlucky_w](https://osu.ppy.sh/users/4820793) | [see details](https://mappersguild.com/contests/results?submission=60e21c421f02780e58fa28f7) | 39 | 40 | 40 | 40 | **4.4** (**159**) |
+| \#3 | [*REDOUT*](https://osu.ppy.sh/beatmapsets/1634184) by [Secre](https://osu.ppy.sh/users/2306637) | [see details](https://mappersguild.com/contests/results?submission=60e21c421f02780e58fa28fe) | 35 | 33 | 38 | 41 | **2.61** (**147**) |
+| \#4 | [*Voice*](https://osu.ppy.sh/beatmapsets/1634222) by [rew0825](https://osu.ppy.sh/users/2488026) | [see details](https://mappersguild.com/contests/results?submission=60e21c421f02780e58fa28fc) | 38 | 31 | 35 | 40 | **2.19** (**144**) |
+| \#5 | [*REDOUT*](https://osu.ppy.sh/beatmapsets/1634262) by [Dika312](https://osu.ppy.sh/users/741613) | [see details](https://mappersguild.com/contests/results?submission=60e21c421f02780e58fa2900) | 36 | 37 | 33 | 33 | **1.87** (**139**) |
 
-See results for all submissions [here](https://mappersguild.com/contestresults?contest=60e2199b535d4f3b27846da0).
+See results for all submissions [here](https://mappersguild.com/contests/results?contest=60e2199b535d4f3b27846da0).
 
 ### Winner
 
@@ -126,13 +126,13 @@ While this was restrictive, it still permitted a lot of different types of maps,
 
 | Rank | Beatmap | Judging | Musical representation (40) | Creativity (40) | Gameplay (40) | Limitation (20) | Total (standardized/raw) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634843) by [Kawawa](https://osu.ppy.sh/users/4647754) | [see details](https://mappersguild.com/contestresults?submission=60aff5557edff1508cf08408) | 31 | 32 | 30 | 16 | **4.44** (**109**) |
-| \#2 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1634244) by [lemonguy](https://osu.ppy.sh/users/4693052) | [see details](https://mappersguild.com/contestresults?submission=60aff5567edff1508cf0841b) | 33 | 29 | 31 | 18 | **4.08** (**111**) |
-| \#3 | [*The Game Changer*](https://osu.ppy.sh/beatmapsets/1634435) by [EimitMaggi999](https://osu.ppy.sh/users/10922297) | [see details](https://mappersguild.com/contestresults?submission=60aff5557edff1508cf08415) | 30 | 28 | 28 | 17 | **3.39** (**103**) |
-| \#4 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1634394) by [PianoLuigi](https://osu.ppy.sh/users/9665915) | [see details](https://mappersguild.com/contestresults?submission=60aff5557edff1508cf0840a) | 30 | 25 | 31 | 17 | **2.53** (**103**) |
-| \#5 | [*The Game Changer*](https://osu.ppy.sh/beatmapsets/1634415) by [lenpai](https://osu.ppy.sh/users/5314573) | [see details](https://mappersguild.com/contestresults?submission=60aff5577edff1508cf08439) | 29 | 28 | 26 | 16 | **2.48**  (**99**) |
+| \#1 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1634843) by [Kawawa](https://osu.ppy.sh/users/4647754) | [see details](https://mappersguild.com/contests/results?submission=60aff5557edff1508cf08408) | 31 | 32 | 30 | 16 | **4.44** (**109**) |
+| \#2 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1634244) by [lemonguy](https://osu.ppy.sh/users/4693052) | [see details](https://mappersguild.com/contests/results?submission=60aff5567edff1508cf0841b) | 33 | 29 | 31 | 18 | **4.08** (**111**) |
+| \#3 | [*The Game Changer*](https://osu.ppy.sh/beatmapsets/1634435) by [EimitMaggi999](https://osu.ppy.sh/users/10922297) | [see details](https://mappersguild.com/contests/results?submission=60aff5557edff1508cf08415) | 30 | 28 | 28 | 17 | **3.39** (**103**) |
+| \#4 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1634394) by [PianoLuigi](https://osu.ppy.sh/users/9665915) | [see details](https://mappersguild.com/contests/results?submission=60aff5557edff1508cf0840a) | 30 | 25 | 31 | 17 | **2.53** (**103**) |
+| \#5 | [*The Game Changer*](https://osu.ppy.sh/beatmapsets/1634415) by [lenpai](https://osu.ppy.sh/users/5314573) | [see details](https://mappersguild.com/contests/results?submission=60aff5577edff1508cf08439) | 29 | 28 | 26 | 16 | **2.48**  (**99**) |
 
-See results for all submissions [here](https://mappersguild.com/contestresults?contest=60aff4f97edff1508cf083a5).
+See results for all submissions [here](https://mappersguild.com/contests/results?contest=60aff4f97edff1508cf083a5).
 
 ### Winner
 

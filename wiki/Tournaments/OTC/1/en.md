@@ -551,7 +551,7 @@ Monday, 29 January 2018:
 
 ### Referee match procedure
 
-1. Create the lobby 5 - 10 minutes before match time. Name the lobby “OTC: (Player 1) vs. (Player 2)”, then set it to ScoreV2 and Head to Head.
+1. Create the lobby 5–10 minutes before match time. Name the lobby “OTC: (Player 1) vs. (Player 2)”, then set it to ScoreV2 and Head to Head.
 2. Invite the players a few minutes before match time.
 3. Once both players are in the lobby and ready, warmups will be played (5 minutes max), unless the current stage is group stage in which warmups are not allowed.
 4. After warmups are finished, both players will `roll` (`!roll` in chat). The highest rolling player will choose the first ban and pick.

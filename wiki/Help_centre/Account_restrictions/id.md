@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: b830432c4768e242ce32ad592010de960bbefdeb
 ---
 
@@ -20,7 +20,7 @@ Berikut merupakan fitur-fitur serta tindakan-tindakan yang tidak dapat dilakukan
 - penyuntingan profil
 - pembelian produk-produk osu!store
 
-## Akun saya telah di-restrict! Apa yang harus saya lakukan?
+## Akun saya telah di-restrict! Apa yang harus saya lakukan? {#what}
 
 Apabila akunmu di-*restrict*, jangan panik. Harap ikuti langkah-langkah di bawah ini:
 
@@ -34,7 +34,7 @@ Apabila akunmu di-*restrict* karena kamu memiliki lebih dari satu akun namun aku
 
 Apabila bandingmu dikabulkan namun akunmu kembali di-*restrict* sesaat setelah kamu kembali bermain, jangan panik! Hal ini kemungkinan disebabkan oleh sistem kami yang menandai akunmu sebagai akun yang mencurigakan secara tidak sengaja. Jangan ragu untuk mengontak kami via email atau Twitter agar kami dapat kembali memulihkan akunmu sesegera mungkin!
 
-## Mengapa akun saya di-restrict?
+## Mengapa akun saya di-restrict? {#why}
 
 Ada beberapa alasan umum yang dapat menyebabkan akun seseorang di-*restrict*.
 
@@ -45,7 +45,7 @@ Ada beberapa alasan umum yang dapat menyebabkan akun seseorang di-*restrict*.
 
 Apabila kamu terbukti melakukan sesuatu yang dapat menyebabkan akunmu di-*restrict*, kami akan memintamu untuk menunggu beberapa saat sebelum kamu dapat mengajukan banding lebih lanjut. Rentang waktu ini sendiri dinamakan *cooldown*, yang durasinya bervariasi tergantung pada seberapa berat pelanggaran yang kamu lakukan.
 
-## Apa-apa saja yang dapat saya lakukan sambil menunggu waktu pengajuan banding saya?
+## Apa-apa saja yang dapat saya lakukan sambil menunggu waktu pengajuan banding saya? {#while-on-cooldown}
 
 - **Tetap bermain!** Selama akunmu di-*restrict*, kamu diperkenan untuk tetap bermain seperti biasa (selama kamu hanya menggunakan akun aslimu!). Skor-skor yang kamu torehkan ketika kamu di-*restrict* akan tetap tercatat secara *online*, dan kecuali tim kami memutuskan untuk menghapus (me-*rollback*) seluruh skor yang kamu miliki, skor-skor tersebut akan tetap ada setelah *restriction* akunmu dicabut.
 - **Tetaplah berperilaku baik.** Kami paham bahwa *restriction* yang kamu terima dapat membuat kamu frustasi. Meskipun demikian, anggaplah ini sebagai kesempatan bagimu untuk dapat berintrospeksi diri. Cobalah untuk menghindari interaksi dengan komunitas osu! selama setidaknya beberapa hari (baik itu melalui Discord, media sosial, ataupun yang lainnya) dan merenungkan tindakan-tindakan apa saja yang menyebabkan akunmu di-*restrict*.
@@ -53,7 +53,7 @@ Apabila kamu terbukti melakukan sesuatu yang dapat menyebabkan akunmu di-*restri
 - **Ikuti instruksi tim layanan dukungan kami.** Masa *cooldown* selama tiga bulan yang kami berikan merupakan kesempatan bagimu untuk dapat memikirkan kembali kesalahan-kesalahan yang telah kamu lakukan. Apabila kamu mencoba untuk mengajukan banding sebelum masa *cooldown* akunmu usai, email yang kamu kirim akan diabaikan. Apabila kamu tidak yakin kapan masa *cooldown* akunmu akan berakhir, kapan kamu akan diizinkan untuk mengajukan banding, atau akun mana yang hendaknya kamu ajukan dalam banding yang kamu kirim, kamu dapat mengirimkan email kepada kami.
 - **Jangan ragu untuk menghubungi kami apabila kamu memiliki sesuatu yang ingin ditanyakan.** Selama kamu berperilaku baik dan tidak berusaha untuk mengakali *restriction* yang kamu terima, kami akan dengan senang hati menjawab apapun yang ingin kamu tanyakan seputar *restriction* akunmu!
 
-## Masa cooldown saya telah usai. Bagaimana caranya agar saya dapat mengajukan banding?
+## Masa cooldown saya telah usai. Bagaimana caranya agar saya dapat mengajukan banding? {#appeal}
 
 Kamu dapat mengajukan banding dengan cara mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan melampirkan nama pengguna akunmu. Pastikan kamu hanya mengirim pengajuan banding dari alamat email yang terkait dengan akun osu! milikmu. Setelah kamu mengajukan banding, tim kami akan menjawab banding tersebut dalam kurun waktu satu minggu. Apabila kamu belum menerima jawaban yang pasti setelah satu minggu telah terlewati, harap hubungi kami lebih lanjut melalui Twitter atau email — bisa jadi pesan bandingmu tidak sengaja luput dari pengecekan tim kami.
 
@@ -64,7 +64,7 @@ Dalam pesan banding yang kamu kirim, harap sertakan hal-hal berikut:
 - **Bagaimana kamu memperoleh sarana untuk melakukan pelanggaran-pelanggaran tersebut.** Poin ini pada umumnya berlaku untuk kasus-kasus kecurangan — kami ingin tahu program-program apa saja yang kamu gunakan, dari mana kamu mengunduhnya, dan apakah program-program tersebut masih terpasang pada komputermu.
 - **Mengapa kami perlu memulihkan akunmu kembali.** Hal ini terkait dengan poin kedua di atas, di mana kami ingin memastikan bahwa kamu benar-benar tidak akan melanggar peraturan apapun lagi ke depannya. Harap dicatat bahwa semakin berat pelanggaran yang kamu lakukan, semakin tulus pula permintaan maaf yang kami harapkan darimu.
 
-## Apa yang harus saya lakukan apabila banding saya dikabulkan?
+## Apa yang harus saya lakukan apabila banding saya dikabulkan? {#appeal-granted}
 
 Apabila kami memutuskan untuk memulihkan akunmu, kami akan memintamu untuk menyetujui ketentuan-ketentuan berikut sebelum status *restriction* akunmu dapat kami angkat.
 
@@ -83,7 +83,7 @@ Terkadang, sistem kami dapat secara tidak sengaja me-*restrict* kembali akun-aku
 
 Pada pelanggaran-pelanggaran tertentu, skor-skor yang sebelumnya pernah kamu torehkan **pada seluruh mode permainan** akan kami hapus pada saat *restriction* akunmu dicabut. Hal ini bertujuan agar skor-skor serta medali yang diperoleh secara tidak sah dapat dianulir dari profilmu. **Adapun jumlah permainan (*play count*) dan waktu bermain (*play time*) yang kamu miliki tidak akan diatur ulang.**
 
-## Banding saya ditolak!
+## Banding saya ditolak! {#appeal-denied}
 
 Ada beberapa alasan yang dapat membuat kami menolak banding yang kamu ajukan.
 
@@ -93,7 +93,7 @@ Ada beberapa alasan yang dapat membuat kami menolak banding yang kamu ajukan.
 - **Kamu tetap melanggar peraturan yang berlaku walaupun akunmu telah di-*restrict*.** Kami tidak memiliki alasan untuk mengampuni seseorang yang tetap melanggar peraturan bahkan ketika mereka telah di-*restrict*. Apabila kamu terus-menerus berperilaku buruk, masa *cooldown* akunmu akan diatur ulang sesuai dengan waktu pelanggaran terakhir yang kamu lakukan. Apabila kamu telah melakukan pelanggaran yang sangat berat atau berkelanjutan, banding yang kamu ajukan mungkin akan ditolak secara permanen.
 - **Riwayat pelanggaranmu sudah terlampau parah.** Demi kenyamanan bersama, kami berhak untuk menolak banding dari para pengguna yang langsung kembali melanggar setelah akun mereka di-*unrestrict* serta yang riwayat pelanggarannya sudah terlampau parah. Apabila kamu termasuk ke dalam golongan pengguna yang demikian, kami menyarankanmu untuk **terlebih dahulu menunggu selama beberapa waktu** sebelum kamu mengajukan banding baru.
 
-## Email-email saya tidak dibalas / Saya merasa banding yang saya ajukan tidak ditanggapi secara serius
+## Email-email saya tidak dibalas / Saya merasa banding yang saya ajukan tidak ditanggapi secara serius {#appeal-review}
 
 Apabila kamu merasa bahwa email-email yang kamu kirim tidak dibaca atau ditanggapi secara serius oleh tim kami, harap kirimi kami email pengajuan banding (*appeal review*) pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) yang berisi informasi-informasi berikut:
 
@@ -108,7 +108,7 @@ Harap dipahami bahwa dengan mengirimkan email ke alamat tersebut, vonis banding 
 
 **Kami hanya akan memproses permintaan-permintaan peninjauan banding (*appeal review*) yang dikirim melalui email pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Harap untuk tidak menghubungi para anggota account support team (atau tim-tim lainnya) yang bertugas secara pribadi terkait permintaan ini — mereka tidak memiliki wewenang untuk membantumu.
 
-## Penyebab-penyebab umum restriction dan masa cooldown-nya masing-masing
+## Penyebab-penyebab umum restriction dan masa cooldown-nya masing-masing {#reasons}
 
 | Penyebab *restriction* | Masa *cooldown* | Catatan |
 | :-- | :-- | :-- |

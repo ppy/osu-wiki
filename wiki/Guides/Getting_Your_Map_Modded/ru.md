@@ -1,6 +1,6 @@
 ---
 needs_cleanup: true  # нужно заново перевести или переформулировать сколько-то странных предложений
-outdated: true
+outdated_translation: true
 ---
 
 # Getting Your Map Modded

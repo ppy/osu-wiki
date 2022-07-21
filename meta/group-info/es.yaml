@@ -30,39 +30,3 @@ nat:
     structural: estructural
 languages:
   partial: algo de <language>
-  ar: árabe
-  bg: búlgaro
-  bn: bengalí
-  ca: catalán
-  da: danés
-  de: alemán
-  el: griego
-  es: español
-  et: estonio
-  fi: finlandés
-  fil: filipino
-  fr: francés
-  gl: gallego
-  hr: croata
-  hu: húngaro
-  id: indonesio
-  it: italiano
-  ja: japonés
-  ko: coreano
-  lt: lituano
-  ms: malayo
-  nl: holandés
-  no: noruego
-  pl: polaco
-  pt: portugués
-  ro: rumano
-  ru: ruso
-  sr: serbio
-  sv: sueco
-  te: telugu
-  th: tailandés
-  tr: turco
-  ur: urdu
-  vi: vietnamita
-  yue: cantonés
-  zh: chino

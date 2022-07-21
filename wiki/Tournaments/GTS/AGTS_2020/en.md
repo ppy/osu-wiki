@@ -601,7 +601,7 @@ Sunday, 20 September 2020:
    - If there are 5 players or less signed up for a country, those players will form the team representing their country.
    - In case there are more than 10 players signed up for a country, players will decide amnong themselves who will partake in the tournament. If they cannot decide the top 10 players, the staff will choose it sorted by ranking to form the 2 teams.
    - If there are 6 players, players will have to decide on the 5 players who will partake in the tournament. If they cannot decide the top 5 players, the staff will choose it sorted by ranking to form the team.
-   - If there are players between 7 - 10 players (after keeping the best ranked ones) signed up for a country, the players from that country will have a few days to decide how to split themselves between the 2 teams. It's recommended to come to an agreement as fast as possible to then decide on the captain and be able to schedule and prepare their matches rapidly.
+   - If there are players between 7 to 10 players (after keeping the best ranked ones) signed up for a country, the players from that country will have a few days to decide how to split themselves between the 2 teams. It's recommended to come to an agreement as fast as possible to then decide on the captain and be able to schedule and prepare their matches rapidly.
    - In case the players can't come to an agreement, they will be ranked by pp (performance point) and put in the 2 teams with at least 3 members in each of them with the best ones in a first team and the lowest in the second.
    - The players wil decide on the captain of their team.
    - If the players can't agree or name a captain, the highest ranked player will be chosen by default.
@@ -689,7 +689,7 @@ Sunday, 20 September 2020:
 5. The mappool will be made by a special team of mappoolers.
 6. The event will be a 4 vs 4 match with the following rules:
    - Best-of-15 format (First to 8 points).
-   - Mappool will consist of 20 FreeMod maps and 1 TB. All the maps can be - played with any mods combination. Some of them might be impossible to - put a mod on though!
+   - Mappool will consist of 20 FreeMod maps and 1 TB. All the maps can be played with any mod combinations. Some of them might be impossible to put a mod on though!
    - No bans.
    - Map selection is the same as a normal match.
    - Same rules as a normal match for disconnections.

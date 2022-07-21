@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 tags:
   - OMC
   - OMC5

@@ -1,19 +1,14 @@
----
-outdated: true
-outdated_since: 3c596a71cc876a14daabb7af66321a16db3885f6
----
+# Storyboard
 
-# Storyboards
+![](img/Sbpassing.png "Diese Szene wird gezeigt, wenn du in Walkie Talkie Man ein Elite Beat 300 bekommst")
+![](img/Sbfailing.png "Das wird gezeigt, wenn du verfehlt hast oder eine 50 in der vorher gespielten Combo erzielt hast")
 
-![Diese Szene wird gezeigt, wenn du Walkie Talkie Man spielst](img/Sbpassing.png "Diese Szene wird gezeigt, wenn du Walkie Talkie Man spielst")
-![Dies wird gezeigt, wenn du einen Miss, oder eine 50 in der zuvor gespielten Combo, erzielst.](img/Sbfailing.png "Dies wird gezeigt, wenn du einen Miss, oder eine 50 in der zuvor gespielten Combo, erzielst.")
+Ein **Storyboard** (SB) ist ein benutzerdefinierter, animierter Hintergrund, der eine [Beatmap](/wiki/Beatmap) begleitet und wird oft aus dekorativen Gründen und manchmal für Spielzwecke verwendet. Es kann alles beinhalten, aber in der Regel ist es eine Reihe visueller Effekte, um die Beatmap ästhetisch und ansprechend aussehen zu lassen. Die Inspiration für Storyboards entstand durch animierte Hintergründe aus dem Spiel [Osu! Tatakae! Ouendan](/wiki/Disambiguation/Ouendan). Wie die Inspiration passen sich Storyboards an die Leistung des Spielers an und zeigen verschiedene Dinge an, abhängig davon, wie gut sich der Spieler macht.
 
-Ein **Storyboard** (SB) ist ein 640x480 oder 1366x768 animierter Hintergrund einer [Beatmap](/wiki/Beatmap). Storyboarding wird als Dekoration/Verschönerung oder auch für Spielzwecke angewendet. Es kann alles beinhalten, aber in der Regel ist es eine Reihe visueller Effekte, um die Map ästhetisch und ansprechend aussehend zu lassen. Die Inspiration für ein Storyboard entstand durch animierte Hintergründe des Spiels [Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan). Man kann sie so regeln, dass verschiedene Objekte angezeigt werden. Das ist abhängig davon, wie der Spieler abgeschnitten hat. Storyboards werden als ".osb"-Dateien in den entsprechenden Song-Ordnern der Beatmap gespeichert.
-
-Desweiteren sind Storyboards oft sehr schwer zu kreieren und benötigen eine respektable Zeit und vor allem Geschick. Vorkenntnisse in Animations- und Grafikprogrammen können hier hilfreich sein.
+Storyboards werden in Beatmap-Ordnern entweder im eigenständigen Dateiformat [`.osb`](/wiki/osu!_File_Formats/Osb_(file_format)) oder als Erweiterung der Sektion `[Events]` einer [`.osu`-Datei](/wiki/osu!_File_Formats/Osu_(file_format)) gespeichert. Aus diesem Grund ist es möglich, verschiedene Storyboards für Schwierigkeitsgrade innerhalb einer [Beatmap](/wiki/Beatmap) zu erstellen.
 
 ## Erstellen eines Storyboards
 
-Den [Storyboard Editor](/wiki/Client/Beatmap_editor/Design) (SBE) findet man im Design-Tab (alternativ F2) im Beatmap Editor. Grundsätzlich bietet der SBE den Benutzern einen simplen Weg, um die Bewegung von einfachen Sprites zu kontrollieren. Allerdings wird das oftmals als schwerfällig angesehen, da diese meistens über die Grundlagen eines Storyboards hinausgehen. Falls jemand den Wunsch hat, ein Widescreen Storyboard zu erstellen, dann kann er dies tun, indem er auf den Song-Setup Dialog geht.
+*Hauptartikel: [Storyboard-Skripting](/wiki/Storyboard/Scripting)*
 
-Erfahrene Nutzer im Storyboarding benutzen oftmals den Back-End-Code, welcher stattdessen als [Storyboard Scripting](/wiki/Storyboard/Scripting) (SBS) betitelt wird, da dieser mehr Kontrolle bietet. Siehe im Artikel für mehr Details.
+Der Prozess des Erstellen eines Storyboards nennt sich *Storyboarding*, wobei die Person dahinter ein *Storyboarder* ist. Das Erstellen von Storyboards ist oft sehr schwer und benötigt viel Zeit sowie Expertise in Standardanimation und grafischer Gestaltung. osu! bietet einen [eingebauten Editor](/wiki/Client/Beatmap_editor/Design) innerhalb des [Beatmap-Editors](/wiki/Client/Beatmap_editor) an, um die Erstellung von Storyboards zu erleichtern. Jedoch wählen viele eifrige Storyboarder per [Storyboard-Skripting](/wiki/Storyboard/Scripting) direkt zu programmieren. Viele Ersteller entscheiden sich dazu, Programme in vollumfänglichen Programmiersprachen zu schreiben, die Storyboard-Skripte generieren, da komplexe und visuelle Effekte eine große Menge an Storyboard-Code benötigen.

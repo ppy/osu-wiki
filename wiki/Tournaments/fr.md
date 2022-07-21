@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # Tournois
@@ -12,7 +12,7 @@ Tournois officiels organisés par l'équipe de management de tournoi.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-La coupe du monde de osu! est un tournoi à double élimination par équipe de 4 formée par chaque pays participant. C'est un évènement international qui est tenu en général chaque année. Les communautés d'osu! autour du monde travaillent ensemble pour créer un tournoi compétitif.
+La coupe du monde d'osu! est un tournoi à double élimination par équipe de 4 formée par chaque pays participant. C'est un évènement international qui est tenu en général chaque année. Les communautés d'osu! autour du monde travaillent ensemble pour créer un tournoi compétitif.
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |

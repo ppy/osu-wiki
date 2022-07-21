@@ -10,7 +10,7 @@ This page covers some of the tasks that you may face while contributing. The app
 
 ## Syncing the fork
 
-In order to make changes to a repository located on GitHub, a potential contributor needs to obtain a controlled copy of it called a *fork*. When you create your fork of the `osu-wiki` repo, you take a snapshot of its contents at this very moment. To make a meaningful contribution, **always sync your fork** before making a set of changes—this can be done directly from GitHub:
+In order to make changes to a repository located on GitHub, a potential contributor needs to obtain a controlled copy of it called a *fork*. When you create your fork of the `osu-wiki` repo, you take a snapshot of its contents at this very moment. To make a meaningful contribution, **always sync your fork** before making a set of changes — this can be done directly from GitHub:
 
 1. Go to your fork of the `osu-wiki` repo.
 2. Select the `master` branch from the dropdown.

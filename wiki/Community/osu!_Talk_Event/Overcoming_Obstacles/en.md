@@ -5,13 +5,13 @@ tags:
 
 # osu! Talk Event: Overcoming Obstacles
 
-![osu! Talk Event banner](/wiki/shared/news/2022-05-19-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
+![osu! Talk Event: Overcoming Obstacles banner](/wiki/shared/news/2022-05-19-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
 
-The **osu! Talk Event** is an event organised by osu! University where different people hold talks about various topics. This is the first iteration of the event with the theme of "overcoming obstacles".
+The **osu! Talk Event** is an event organised by osu! University where different people held talks about various topics. This was the first iteration of the event with the theme of "overcoming obstacles".
 
-Speakers hold their talks in a Stage channel on the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server). During the event, thread channels will be opened in the `#community-meetings` channel for discussion.
+Speakers held their talks in a Stage channel on the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server). During the event, thread channels were opened in the `#community-meetings` channel for discussion.
 
-The talks are also livestreamed on [osu! University's Twitch channel](https://twitch.tv/osuuniversity) and recordings of each talk will be available in [osu! University's YouTube channel](https://www.youtube.com/c/osuuniversity).
+The talks were also livestreamed on [osu! University's Twitch channel](https://twitch.tv/osuuniversity) and recordings of each talk are available in [osu! University's YouTube channel](https://www.youtube.com/c/osuuniversity).
 
 To participate as a speaker in a future iteration of the event, or recommend someone who would be fit to give a talk, fill out the [speaker nomination form](https://forms.gle/HCD6ac8JwURGh8zx8).
 
@@ -19,7 +19,7 @@ To participate as a speaker in a future iteration of the event, or recommend som
 
 - **The event will last 3 days total**, from May 20 - 22, 2022.
 - **The speaker will use a Discord stage channel** in the [osu!dev Discord server](https://discord.gg/ppy) to give their talk.
-- **Talks will be less than 18 minutes long.** This is the maximum allowed length, not a goal to aim for—even a 3-minute talk can have massive impact.
+- **Talks will be less than 18 minutes long.** This is the maximum allowed length, not a goal to aim for — even a 3-minute talk can have massive impact.
 - The stories shared do not necessarily have to be about osu!, but because this is an osu!-related event, speakers are recommended to try connecting their story or the lesson behind it to osu! in some way.
 
 ## Links
@@ -59,12 +59,11 @@ To participate as a speaker in a future iteration of the event, or recommend som
 
 ### Sunday, May 22, 2022
 
-**[Sign up for this event on Discord to be notified when it starts](https://discord.gg/z62bbJHA?event=976725279126982656)**
+**[View the full VOD for this day of the event here](https://www.youtube.com/watch?v=TICCyoj1F1U)**
 
 | Time (UTC) | Speaker | Title | VOD |
 | :-: | :-- | :-- | :-- |
-| 18:00 | [cristi2708](https://osu.ppy.sh/users/7552300) | "A perspective on switches and tapping techinques" |  |
-| 18:30 | [PruceStrats](https://osu.ppy.sh/users/16518886) | "Overcoming adversity in daily life" |  |
-| 19:00 | [-TunaSliders-](https://osu.ppy.sh/users/15420104) | "Using ideas from osu! to view life differently" |  |
-| 19:30 | [WaifuMaterial](https://osu.ppy.sh/users/14592606) | "Overcoming social anxiety" |  |
-| 20:00 | [chiv](https://osu.ppy.sh/users/6701656) | "The problematic state of osu! tournaments" |  |
+| 18:00 | [cristi2708](https://osu.ppy.sh/users/7552300) | "A perspective on switches and tapping techinques" | [#1](https://www.youtube.com/watch?v=_KhDLQJ0-nc) |
+| 18:30 | [PruceStrats](https://osu.ppy.sh/users/16518886) | "Overcoming adversity in daily life" | [#1](https://www.youtube.com/watch?v=4iY_Rv0lobU) |
+| 19:00 | [-TunaSliders-](https://osu.ppy.sh/users/15420104) | "Using ideas from osu! to view life differently" | [#1](https://www.youtube.com/watch?v=fKXmq-udD-Q) |
+| 19:30 | [chiv](https://osu.ppy.sh/users/6701656) | "The problematic state of osu! tournaments" | [#1](https://www.youtube.com/watch?v=g7CtcSctWSI) |

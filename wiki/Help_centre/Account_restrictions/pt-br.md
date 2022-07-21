@@ -1,6 +1,6 @@
 ---
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
 ---
 
@@ -21,7 +21,7 @@ As seguintes funções são desativadas para contas restritas:
 - atualizar detalhes de perfil
 - compras na loja
 
-## Minha conta foi restrita! O que eu faço?
+## Minha conta foi restrita! O que eu faço? {#what}
 
 Se sua conta foi restrita, não entre em pânico. Por favor siga esses passos:
 
@@ -35,7 +35,7 @@ Se sua conta original não estiver restrita, você poderar logar nela e continua
 
 Se você recentemente foi concedido um recurso e sua conta se torna restrita após jogar, não entre em pânico! Sistemas automáticos podem ter falsamente dado flag em sua conta, mas você irá ser desrestrito novamente dentro de 24 horas se esse realmente for o caso. Sinta-se livre para nos enviar um email ou tweet para chamar nossa atenção e ser desrestrito mais rapidamente!
 
-## Por que eu estou restrito?
+## Por que eu estou restrito? {#why}
 
 Há diversas razões do porque uma conta possa ser restrita.
 
@@ -46,7 +46,7 @@ Há diversas razões do porque uma conta possa ser restrita.
 
 Se uma conta for legitimamente confirmada como restrita, nós iremos pedir para que o usuário espere por um tempo antes de enviar um recurso. Isso é referido como um *cooldown*, e sua duração varia dependendo das ofensas que ocorreram.
 
-## O que faço enquanto espero o cooldown antes de enviar um recurso?
+## O que faço enquanto espero o cooldown antes de enviar um recurso? {#while-on-cooldown}
 
 - **Continue curtindo o jogo!** Enquanto sua conta está restrita e você está em cooldown, você é mais do que bem-vindo a continuar jogando o jogo (desde que você jogue na sua conta original!). As pontuações que você conseguir enquanto restrito irão ser submetidas, e a não ser que sua conta seja revertida, elas irão continuar depois que você for desrestrito.
 - **Sustente um bom comportamento.** Nós entendemos que uma restrição pode ser frustrante, mas pense nisso como se fosse uma chance para dar um tempo, longe da comunidade. Tente evitar interagir com a comunidade por pelo menos alguns dias (seja via Discord, mídia social, ou outras formas de contato) para manter uma cabeça fria e refletir nas ações que talvez possam ter contribuído para sua conta ser restrita.
@@ -54,7 +54,7 @@ Se uma conta for legitimamente confirmada como restrita, nós iremos pedir para 
 - **Siga as intruções do time do suporte** O cooldown de três meses é sua chance de dar um tempo e refletir em suas ações. Se você tentar enviar um recurso antes do período de cooldown terminar, seus emails serão ignorados. Se você não tem certeza de quando seu cooldown acaba, quando você poderá mandar um recurso, ou qual de suas contas você deveria estar jogando (e mandando o recurso), você é mais do que bem-vindo a nos enviar um email para perguntar.
 - **Não hesite em entrar em contato conosco se você possuir dúvidas.** Desde que você não esteja tentando contornar uma punição, nós iremos alegremente responder qualquer dúvida que você tenha sobre a restrição de sua conta!
 
-## Meu cooldown passou. Como mando um recurso?
+## Meu cooldown passou. Como mando um recurso? {#appeal}
 
 Você pode mandar um recurso via email para [accounts@ppy.sh](mailto:accounts@ppy.sh) incluindo o nome de usuário de sua conta. Tenha certeza de enviar o recurso do endereço de email atrelado a sua conta. Após enviar o seu recurso, aguarde por uma resposta dentro de uma semana. Se você não recebeu uma até então, por favor entre em contato conosco no twitter ou por email - há uma chance que nós possamos não ter recebido-o.
 
@@ -65,7 +65,7 @@ Em seu recurso, nos esperamos que os seguinte pontos sejam cobertos:
 - **Como você obteve os meios de fazer-lo.** Isso se aplica quase que exclusivamente para trapaças - nós queremos saber aonde você obteve a ferramente que você usou, como você a encontrou, e se ela ainda continua presente em seu computador ou não.
 - **Porque devemos te aceitar de volta.** A maior parte do tempo, isso é relacionado com o segundo ponto. Nós apenas queremos ter a certeza que você não estará quebrando as regras novamente! Por favor entenda que mais violações de regras no histórico de sua conta, mais iremos querer e esperamos mais dessa sessão de seu recurso.
 
-## E se meu recurso for concedido?
+## E se meu recurso for concedido? {#appeal-granted}
 
 Se nós decidirmos em deixar você voltar, nós iremos requerer que você concorde com alguns termos antes de tirar a restrição de sua conta.
 
@@ -84,7 +84,7 @@ Alguns jogadores podem acabar sendo restritos novamente depois de começarem a j
 
 Algumas ofensas acarretarão em sua conta ser revertida após a remoção da restrição. Elas pretendem remover pontuações ilegítimas que foram submetidas em sua conta **em todos os modos**, assim como todas as medalhas de conquista destrancadas e medalhas de perfil. **O número de mapas jogados e o tempo de jogo não serão modificados.**
 
-## Meu recurso foi negado!
+## Meu recurso foi negado! {#appeal-denied}
 
 Há vários motivos do porque um recurso pode ser negado.
 
@@ -94,7 +94,7 @@ Há vários motivos do porque um recurso pode ser negado.
 - **Você continuou com ofensas enquanto restrito.** Não há nenhuma razão em remover uma restrição de alguém que continua a quebrar as regras mesmo após ser restrito. Se você realmente continuar as ofensas, o cooldown da sua conta será resetado para a sua última ofensa. Em caso de ofensas contínuas ou extremas, seu recurso pode ser permanentemente negado.
 - **O histórico da sua conta é muito severo.** Em casos de ofensores extremos, ou jogadores que tomam restrição de novo após eles serem desrestritos após um recurso bem sucedido, nos podemos simplemente declarar que seu histórico é muito severo para você se juntar novamente ao jogo no momento. Se isso se aplica a você, nós recomendamos que aguarde um **bom tempo** antes de entrar com um recurso novamente, e tendo certeza de que você não quebre nenhuma regra nesse meio tempo.
 
-## Meus emails estão sendo ignorados / Acho que a conclusão do meu recurso não foi justa
+## Meus emails estão sendo ignorados / Acho que a conclusão do meu recurso não foi justa {#appeal-review}
 
 Caso você sinta que seus emails não estejam sendo lidos ou lidados de forma apropriada pelo nossa equipe de suporte, por favor nos envie um email completo para [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) contendo as seguintes informações:
 
@@ -109,7 +109,7 @@ Por favor entenda que enviar um email para esse endereço apenas garante uma seg
 
 **Nós responderemos a solicitações de revisão de recurso/investigação apenas via emails enviados para [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Por favor não tente entrar em contato com os membros da nossa equipe (ou membros das equipes voluntárias) via Twitter, Discord, ou qualquer outra plataforma afim de contornar essa política - eles não podem te ajudar.
 
-## Razões comuns de restrição e seus cooldowns
+## Razões comuns de restrição e seus cooldowns {#reasons}
 
 | Razão de restrição | Duração de cooldown | Notas de recurso |
 | :-- | :-- | :-- |

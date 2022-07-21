@@ -74,7 +74,7 @@ Kenali berbagai prosedur hukum dan peraturan yang berlaku di osu!, mulai dari pr
 
 [Peraturan](/wiki/Rules) • [Kode Etik Contributor Covenant](/wiki/Contributor_Code_of_Conduct) • [Kode etik dalam modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
-Peraturan media: [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) • [Konten eksplisit](/wiki/Rules/Explicit_Content) • [Aturan konten musik](/wiki/Rules/Song_Content_Rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_Content_Considerations)
+Peraturan media: [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) • [Proses pengkajian konten](/wiki/Rules/Content_Voting_Process) • [Konten eksplisit](/wiki/Rules/Explicit_Content) • [Aturan konten musik](/wiki/Rules/Song_Content_Rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_Content_Considerations)
 
 [Artikel-artikel legal](/wiki/Legal): [Ketentuan layanan](/wiki/Legal/Terms) • [Privasi](/wiki/Legal/Privacy) • [Hak cipta (DMCA)](/wiki/Legal/Copyright) • [Lisensi musik](/wiki/Legal/Music_licensing)
   

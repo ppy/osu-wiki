@@ -15,7 +15,7 @@ Les fonctionnalités suivantes sont désactivées pour les comptes restreints :
 - Mettre à jour les détails du profil
 - Les achats au magasin
 
-## Mon compte a été restreint ! Que dois-je faire ?
+## Mon compte a été restreint ! Que dois-je faire ? {#what}
 
 Si votre compte a été restreint, ne paniquez pas. Veuillez suivre ces étapes :
 
@@ -29,7 +29,7 @@ Si votre compte originel n'est pas restreint, vous pouvez vous connecter dessus 
 
 Si votre appel a récemment été accordé et que votre compte se fait restreindre de nouveau après avoir joué, ne paniquez pas ! Les systèmes automatisés peuvent avoir signalé votre compte à tort, mais votre restriction sera de nouveau levée au bout de 24 heures s'il se trouve que c'est le cas. N'hésitez pas à nous envoyez un email ou un tweet pour obtenir notre attention et retirer la restriction plus rapidement !
 
-## Pourquoi suis-je restreint ?
+## Pourquoi suis-je restreint ? {#why}
 
 Il existe plusieurs raisons pour qu'un compte puisse être restreint.
 
@@ -40,7 +40,7 @@ Il existe plusieurs raisons pour qu'un compte puisse être restreint.
 
 Si un compte a été restreint à juste titre, nous demanderons à l'utilisateur d'attendre un moment avant d'envoyer son appel. Cela s'appelle un *cooldown*, et sa durée varie selon les infractions qui ont été commises.
 
-## Que dois-je faire durant le cooldown ?
+## Que dois-je faire durant le cooldown ? {#while-on-cooldown}
 
 - **Continuez à jouer !** Tant que votre compte est restreint et que vous avez un cooldown, vous êtes plus que bienvenu pour continuer à jouer (tant que vous jouez sur votre compte principal !). Les scores que vous réalisez pendant votre restriction seront bien pris en compte, et à moins que vos scores soient partiellement ou totalement supprimés, ils resteront lorsque la restriction sera levée.
 - **Maintenez un bon comportement.** Nous comprenons qu'être restreint peut être frustrant, mais voyez-le comme une chance de vous reposer, loin de la communauté. Essayez d'éviter d'intéragir avec la communauté pour au moins quelques jours (que ce soit par Discord, des réseaux sociaux, ou autres formes de contact) pour vous calmer et réfléchir aux actions qui peuvent avoir contribué à la restriction de votre compte.
@@ -48,7 +48,7 @@ Si un compte a été restreint à juste titre, nous demanderons à l'utilisateur
 - **Suivez les instructions de l'équipe du support.** Le cooldown de trois mois est une chance pour vous reposer et réfléchir à vos actions. Si vous essayez d'envoyer un appel avant que le cooldown soit terminé, vos emails seront ignorés. Si vous n'êtes pas sûr de la date d'expiration de votre délai de réflexion, de la date à laquelle vous serez autorisé à faire appel, ou du compte sur lequel vous devriez jouer (et faire appel), n'hésitez pas à nous envoyer un e-mail pour nous le demander.
 - **N'hésitez pas à nous contacter si vous avez des questions.** Tant que vous n'essayer pas d'échapper à votre sanction, nous serons toujours ravis de répondre aux questions que vous avez concernant votre restriction !
 
-## Mon cooldown est passé. Comment faire appel ?
+## Mon cooldown est passé. Comment faire appel ? {#appeal}
 
 Vous pouvez envoyer un mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) en incluant le nom d'utilisateur de votre compte. Assurez-vous d'envoyer le mail à partir de l'adresse email associée à votre compte. Après avoir envoyé l'appel, attendez-vous à une réponse au bout d'une semaine. Si vous n'avez pas reçu de réponse d'ici-là, veuillez nous contacter par Twitter ou par mail - il se peut que nous ne l'ayons pas reçu.
 
@@ -59,7 +59,7 @@ Dans votre mail, nous nous attendons aux points suivants :
 - **Par quel moyen vous l'avez fait.** Cela s'applique pour la triche - nous voulons savoir où vous avez obtenu l'outil que vous avez utilisé, comment vous l'avez trouvé, et s'il est toujours présent sur votre ordinateur ou non.
 - **Pourquoi nous devrions vous faire revenir.** La plupart du temps, ce point s'attache au second. Nous voulons nous assurer que vous ne recommencerez pas ! Comprenez que plus l'historique de votre compte contient de violations des règles, plus nous nous attendrons à ce que cette section de l'appel soit remplie.
 
-## Et si mon appel est accordé ?
+## Et si mon appel est accordé ? {#appeal-granted}
 
 Si nous décidons de vous laisser revenir, nous vous demanderons que vous acceptiez certains termes avant de lever la restriction.
 
@@ -78,7 +78,7 @@ Certains joueurs peuvent être de nouveau restreints une fois qu'ils commencent 
 
 Certaines infractions mèneront à un retour en arrière de votre compte une fois la restriction levée. Il permet de supprimer tous les scores illégitimes que vous avez réalisé sur votre compte **dans tous les modes de jeu**, ainsi que les médailles débloquées et les badges du profil. **Le temps de jeu et le nombre de parties jouées ne sera pas modifié.**
 
-## Mon appel a été rejeté !
+## Mon appel a été rejeté ! {#appeal-denied}
 
 Il y a plusieurs raisons pour lesquelles un appel peut être rejeté.
 
@@ -88,7 +88,7 @@ Il y a plusieurs raisons pour lesquelles un appel peut être rejeté.
 - **Vous avez continué à briser les règles tout en étant restreint.** Il n'y a aucune raison de lever la restriction d'une personne qui continue d'enfreindre les règles même après avoir été restreinte. Si vous continuez à commettre des infractions, le cooldown de votre compte sera réinitialisé à votre dernière infraction. Dans le cas d'infractions extrêmes ou continues, votre appel peut être rejeté de façon permanente.
 - **Votre historique est trop chargé.** Dans les cas de joueurs qui manquent aux règles de façon importante, ou de joueurs qui sont à nouveau restreints après avoir été autorisé à rejouer suite à un appel réussi, nous pourrions simplement conclure que votre historique est trop chargé pour rejoindre le jeu à l'heure actuelle. Si cela vous arrive, nous vous recommandons d'attendre **un très long moment** avant de renvoyer un appel, tout en vous assurant de ne pas enfreindre d'autres règles pendant cette période.
 
-## Que se passe-t-il si ce n'est pas la première fois que je fais appel ?
+## Que se passe-t-il si ce n'est pas la première fois que je fais appel ? {#subsequent-appeal}
 
 Dans la plupart des cas, chaque restriction sur votre compte double la durée de la restriction suivante et le cooldown qui lui est associé.
 
@@ -96,7 +96,7 @@ Par exemple, si vous êtes restreint pour avoir triché, vous revenez suite à u
 
 De plus, il devient de plus en plus difficile de revenir sur vos appels après votre première infraction, car nous devons tenir compte de vos actions passées et déterminer si le fait de lever la restriction vaut le temps et les risques encourus. Très peu de joueurs (voire aucun) reviennent avec succès dans la communauté après leur troisième restriction.
 
-## Mes mails sont ignorés/Je ne pense pas que mon appel a été traité de façon juste
+## Mes mails sont ignorés/Je ne pense pas que mon appel a été traité de façon juste {#appeal-review}
 
 Si vous pensez que vos mails ne sont pas lus ou traités correctement par notre équipe de support, veuillez nous envoyer un mail à [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) contenant les informations suivantes :
 
@@ -111,7 +111,7 @@ Veuillez comprendre que l'envoi d'un email à cette adresse ne garantit qu'un se
 
 **Nous ne répondrons aux demandes d'examen d'appel ou d'enquête que par le biais d'emails envoyées à [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** N'essayez pas de contacter les membres de l'équipe d'osu! (ou les membres des équipes de bénévoles) via Twitter, Discord ou toute autre plateforme afin de contourner cette politique - ils ne peuvent pas vous aider.
 
-## Raisons de restriction courantes et leurs cooldowns
+## Raisons de restriction courantes et leurs cooldowns {#reasons}
 
 | Raison de restriction | Durée du cooldown | Remarques |
 | :-- | :-- | :-- |

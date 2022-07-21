@@ -385,11 +385,9 @@ Sunday, 30 July 2017:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| Summer Solstice ![][flag_GB] | -1 | -1 | ![][flag_GB] Woffel | *double no-show¹* |
-| Mykaterasu ![][flag_GB] | -1 | **0** | ![][flag_GB] **Wario** | *forfeit¹* |
+| Summer Solstice ![][flag_GB] | -1 | -1 | ![][flag_GB] Woffel | *double no-show*[^lb-note-1] |
+| Mykaterasu ![][flag_GB] | -1 | **0** | ![][flag_GB] **Wario** | *forfeit*[^lb-note-1] |
 | **Kardet** ![][flag_GB] | **5** | 3 | ![][flag_GB] Dag |  |
-
-¹ Wario advances to Losers Bracket Round 4, Summer Solstice and Woffel eliminated.
 
 Wednesday, 2 August 2017:
 
@@ -613,11 +611,11 @@ Sunday, 2 July 2017:
 | **Savag3blow** ![][flag_GB] | **3** | 1 | ![][flag_GB] -Blue- |  |
 | **Zainny** ![][flag_GB] | **0** | -1 | ![][flag_GB] Chug | *forfeit* |
 | **Chugger** ![][flag_GB] | **3** | 0 | ![][flag_GB] Respirte |  |
-| **djsettle** ![][flag_GB] | **3** | 0 | ![][flag_GB] Stedoss | ¹ |
-| uee ![][flag_GB] | 2 | **3** | ![][flag_GB] **Majoreh** | ² |
+| **djsettle** ![][flag_GB] | **3** | 0 | ![][flag_GB] Stedoss | [^ro128-note-1] |
+| uee ![][flag_GB] | 2 | **3** | ![][flag_GB] **Majoreh** | [^ro128-note-2] |
 | Sapphy128 ![][flag_GB] | 0 | **3** | ![][flag_CA] **Squapple** |  |
 | **Poi Panda** ![][flag_GB] | **3** | 1 | ![][flag_GB] Pyrooo |  |
-| Desired ![][flag_GB] | -1 | -1 | ![][flag_GB] \[Josh\] | *double no-show²* |
+| Desired ![][flag_GB] | -1 | -1 | ![][flag_GB] \[Josh\] | *double no-show*[^ro128-note-2] |
 | **helix** ![][flag_GB] | **0** | -1 | ![][flag_GB] fgl2036 | *forfeit* |
 | Scootawoo ![][flag_GB] | 2 | **3** | ![][flag_GB] **Pelzio** |  |
 | Patritoic Brit ![][flag_GB] | 0 | **3** | ![][flag_GB] **Dag** |  |
@@ -628,10 +626,7 @@ Sunday, 2 July 2017:
 | Chassit ![][flag_GB] | -1 | **0** | ![][flag_GB] **Addstir** | *forfeit* |
 | Pepsi Max ![][flag_GB] | 1 | **3** | ![][flag_IE] **M a t t y** |  |
 | Falc0 ![][flag_GB] | 0 | **3** | ![][flag_GB] **dong** |  |
-| Azerith ![][flag_GB] | -1 | -1 | ![][flag_GB] Valentine | *double forfeit¹* |
-
-¹ djsettle advances to group stage, Azerith and Valentine eliminated.\
-² Majoreh advances to group stage, Desired and \[Josh\] eliminated.
+| Azerith ![][flag_GB] | -1 | -1 | ![][flag_GB] Valentine | *double forfeit*[^ro128-note-1] |
 
 Monday, 3 July 2017:
 
@@ -690,6 +685,12 @@ Monday, 3 July 2017:
 - Rematches are allowed in the event of software/hardware failure, or when a player disconnects unintentionally during a map when they could have potentially won. The final say on a rematch is at the discretion of the referee for the match.
   - As a rule of thumb, if a player has a full combo at the time of disconnection and the opponent misses or has missed, the map will likely be rematched.
 - Any other unexpected happenings are handled at the referee and hosts discretion.
+
+## Notes
+
+[^lb-note-1]: Wario advances to Losers Bracket Round 4, Summer Solstice and Woffel eliminated.
+[^ro128-note-1]: djsettle advances to group stage, Azerith and Valentine eliminated.
+[^ro128-note-2]: Majoreh advances to group stage, Desired and \[Josh\] eliminated.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"

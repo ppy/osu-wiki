@@ -1,71 +1,45 @@
----
-outdated: true
-outdated_since: fa5c5014bbc907515c84510d42e8354cb974ec37
----
-
 # osu!-Dateiformate
 
-## osu!-spezifische Dateiformate
+## Liste der Dateiformate
 
-| Dateiformat | MIME-Type | Verwendung |
+| Dateiformat | MIME-Typ | Verwendung |
 | :-- | :-- | :-- |
-| [.osz][Osz Link] | `x-osu-beatmap-archive` | Ausführbare Beatmapdatei |
-| [.osk][Osk Link] | `x-osu-skin-archive` | Ausführbare Skindatei |
-| [.osu][Osu Link] | `x-osu-beatmap` | osu!-[Beatmap](/wiki/Beatmap) |
-| [.osb][Osb Link] | `x-osu-storyboard` | osu!-[Storyboard](/wiki/Storyboard/Scripting) |
-| [.osr][Osr Link] | `x-osu-replay` | osu!-[Replay](/wiki/Gameplay/Replay) |
+| [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) | `x-osu-beatmap-archive` | osu!-Beatmap-Archiv |
+| [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) | `x-osu-skin-archive` | osu!-Skin-Archiv |
+| [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) | `x-osu-beatmap` | osu\![-Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) |
+| [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) | `x-osu-storyboard` | osu\![-Storyboard](/wiki/Storyboard/Scripting) |
+| [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) | `x-osu-replay` | osu\![-Replay](/wiki/Gameplay/Replay) |
 
-## .osz/.osk Datei erstellen
+## .osz- und .osk-Dateien erstellen
 
-.osz/.osk Datei ist eine Dateierweiterung, die extra für osu!.exe zugeschnitten ist. Wenn eine .osz Datei geöffnet wird, wird die Datei von der osu!.exe extrahiert und zum "Songs" Ordner transferiert. Die .osk Datei wird hingegen zum "Skins" Ordner transferiert. Standardmäßig werden Beatmapdateien direkt von der offiziellen Webseite im .osz Dateiformat heruntergeladen. Wie man .osz/.osk Dateien erstellt, zählt als fundamentales Wissen eines Mappers/Skinners.
+`.osz`- und `.osk`-Dateien sind Archive, die Beatmaps bzw. Skins enthalten. Ihr Inhalt wird automatisch extrahiert von osu!, wenn sie geöffnet werden:
 
-### Von einer Archivierungssoftware
+- `.osz`-Dateien werden in das Verzeichnis `Songs` extrahiert
+- `.osk`-Dateien werden in das Verzeichnis `Skins` extrahiert
 
-**Benötigte Software:**
+Wenn du weißt, wie du ein Skin- oder Beatmap-Archiv erstellst, welches von osu! erkannt wird, werden deine Werke für andere zugänglicher sein.
 
-- Dateiarchivierungsprogramm (WinRAR, 7zip)
-- osu! (für Testzwecke und dem osu!-Symbol)
+### Verwendung einer Archivierungssoftware
 
-**Prozess**
+1. Installiere ein Dateiarchivierungsprogramm, das `.zip`-Dateien erzeugen kann, wie z. B. [7-Zip](https://www.7-zip.org) oder [WinRAR](https://www.win-rar.com).
+2. Lege alle Dateien, die du archivieren möchtest, in einen separaten Ordner.
+3. Klicke mit der rechten Maustaste auf den Ordner und wähle  `Zu einem Archiv hinzufügen...` (alternativ kannst du das auch im Archivierungsprogramm selbst machen).
+4. Selektiere das Archivformat ZIP.
+5. Ändere die Dateierweiterung `.zip` zu `.osz` im Dateinamen des Archivs (`.osk`, wenn du einen Skin archivierst).
 
-1. Führe deine Dateien in einem Ordner (.mp3, .flv, .osu, SB, etc. im Ordner) zusammen. Benenne den Ordner.
-   - Für Erklärungszwecke wird der Ordner "Amigo Fiesta" genannt.
-2. Mache einen Rechts-Klick auf den Ordner und wähle die Option, um den Ordner zu archivieren (Zu Archiv hinzufügen...).
-   - Du kannst auch erst die Dateiarchivierungssoftware öffnen und dann den Ordner per Drag-and-drop in das Programm schieben.
-3. Inspiziere die Einstellungen. Setze die Archivierungsmethode auf ".zip" (nicht .7z, .rar) und nenne die Dateierweiterung in .osz manuell in der Texteingabe um.
-   - Amigo Fiesta.zip -> Amigo Fiesta.osz, Archivierungsmethode: ".zip"
-4. Starte den Archivierungsprozess. Eine .osz-Datei wird am Ende zusammen mit dem unverwechselbaren osu!-Symbol erzeugt.
-5. Räume auf und wiederhole dies für neue Kopien. Nutze die .osk-Erweiterung für das Skinning.
+Kreiere eine Kopie der Datei und öffne sie mit osu!, um das Archiv zu testen.
 
-**Bildbeispiele** (Danksagung an [MLGnoms](https://osu.ppy.sh/users/46620) [Skinning-Tutorial](https://osu.ppy.sh/community/forums/topics/51694))
+### Verwendung von osu!
 
-- [WinRAR](https://puu.sh/1MBV)
-- [7-zip](https://puu.sh/1MBW)
-  - Nutze die .osz-Erweiterung für Beatmaps.
+Um ein Beatmap-Archiv zu produzieren:
 
-### Aus dem Spiel heraus
+- Öffne eine Beatmap mit dem [Editor](/wiki/Client/Beatmap_editor).
+- Wähle `Datei` > `Paket exportieren ...` aus dem [oberen Menü](/wiki/Client/Beatmap_editor/Menu).
+- Das Archiv `.osz` wird in den Ordner `Exports` innerhalb deines osu!-Ordners platziert.
 
-**Benötigte Software:**
+Um ein Skin-Archiv zu erstellen:
 
-- osu! (und ansonsten nichts, da das Spiel selbst .osz-/.osk-Dateien erzeugen kann)
-
-**Prozess**
-
-1. Wie oben, führe deine Dateien in einem Ordner zusammen und benenne diesen.
-   - Wenn du die Beatmap vorher editiert hast, wird normalerweise alles bereits fertig zum Konvertieren nach .osz sein. Für Skins musst du die Dateien vorher kompilieren.
-2. Öffne osu!.
-3. Wenn du eine .osz machen möchtest, dann:
-   - Gehe zu "Edit" und wähle die Beatmap, die du zu .osz konvertieren möchtest.
-   - Öffne "Datei", dann "Paket exportieren ..."
-   - Die .osz wird erzeugt und im Ordner "Exports" deines osu!-Ordners platziert.
-4. Wenn du eine .osk machen möchtest, dann:
-   - Versichere dich als erstes, dass dein Skin alles hat, was dieser haben soll. Du kannst das prüfen, indem du "Skinordner öffnen" wählst, sofern du den Skin zum Konvertieren nutzt.
-   - Dann, im "Optionen"-Menü, klicke auf "Skin auswählen".
-   - Wähle den Skin, den du möchtest, im Skinselektionsmenü und klicke auf "Als .osk exportieren".
-   - Die .osk wird erzeugt und im Ordner "Exports" deines osu!-Ordners platziert.
-
-[Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
-[Osk Link]: /wiki/osu!_File_Formats/Osk_(file_format)
-[Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
-[Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)
-[Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)
+- Versichere dich, dass dein Skin alles hat, was du exportieren möchtest. Du kannst das prüfen, indem du den Button `Skinordner öffnen` in den osu!-Einstellungen drückst.
+- Klicke in den Einstellungen auf `Skin auswählen`.
+- Wähle den Skin, den du exportieren möchtest, und klicke auf `Als .osk exportieren`.
+- Das Archiv `.osk` wird im Ordner `Exports` innerhalb deines osu!-Installationsordners platziert.

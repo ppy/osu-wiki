@@ -1,5 +1,5 @@
 ---
-outdated: true  # нужно перевести с нуля
+outdated_translation: true  # нужно перевести с нуля
 ---
 
 # Дизайн

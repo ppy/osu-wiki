@@ -10,7 +10,7 @@ tags:
 
 ![Une capture d'écran du genre, de la langue et des tags sur une page de beatmap.](img/beatmap-info-FR.png "Le genre et la langue sont indiqués sur les pages des beatmap.")
 
-Les [beatmaps](/wiki/Beatmap) soumises au site web ont des champs **genre** et **langue** pour aider à catégoriser les musiques. Ils sont considérés comme faisant partie des [métadonnées](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata) d'une beatmap.
+Les [beatmaps](/wiki/Beatmap) soumises au site web ont des champs **genre** et **langue** pour aider à catégoriser les musiques. Ils sont considérés comme faisant partie des [métadonnées](/wiki/Beatmap_Editor/Song_Setup#métadonnées-des-musiques-et-des-beatmaps) d'une beatmap.
 
 Le genre et la langue n'ont pas de fonction dans le jeu, mais seront disponibles comme options de recherche dans osu!(lazer).
 

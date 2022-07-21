@@ -1,3 +1,8 @@
+---
+outdated_since: f5cbe6d8793eeb5aeec9376259b23bdbdbc1e84b
+outdated_translation: true
+---
+
 # Mise en forme
 
 *Pour les normes de rédaction, voir : [Critères de mise en forme d'article/Rédaction](../Writing)*\
@@ -16,7 +21,7 @@ Vous trouverez ci-dessous la liste des langues correctement prises en charge par
 | `cs.md` | Tchèque | Česky |
 | `da.md` | Danois | Dansk |
 | `de.md` | Allemand | Deutsch |
-| `gr.md` | Grec | Ελληνικά |
+| `el.md` | Grec | Ελληνικά |
 | `es.md` | Espagnol | Español |
 | `fi.md` | Finlandais | Suomi |
 | `fr.md` | Français | Français |
@@ -326,8 +331,7 @@ Les rubriques ne doivent pas dépasser un niveau d'en-tête de 5 et ne doivent p
 
 ### Titres
 
-*Voir aussi : [Désignation de l'article](#désignation-de-l'article)*
-
+*Voir aussi : [Désignation de l'article](#désignation-de-l'article)*\
 *Attention : Les titres sont analysés en tant que texte brut ; ils ne doivent pas être espacés.*
 
 Le premier titre de tous les articles doit être un titre de niveau 1, c'est-à-dire le titre de l'article. Tous les titres suivants doivent être des [titres de section](#sections). Les titres ne doivent pas contenir de formatage, de liens ou d'images.
@@ -502,6 +506,8 @@ Lorsque vous copiez le nom d'un canal de discussion, commencez par un dièse (`#
 Le texte préformaté (également connu sous le nom de blocs de code) doit être clôturé à l'aide de trois accent grave. Ils doivent définir l'identifiant de la langue pour la coloration syntaxique.
 
 ## Liens
+
+*Voir également : [Notes de bas de page](#notes-de-bas-de-page)*
 
 Il existe deux types de liens : en ligne et de référence. Les liens en ligne ont deux styles.
 
@@ -793,14 +799,63 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 | Maria | Pas de concours | Mocha |  |
 ```
 
+## Notes de bas de page
+
+Les notes de bas de page sont de courtes notes situées à la fin de la page. Elles sont utilisées pour citer des sources ou fournir des informations d'arrière-plan qui, autrement, perturberaient le contenu de l'article. Les notes de bas de page peuvent contenir du texte mis en forme et des liens.
+
+Dans l'osu! wiki, les notes de bas de page sont implémentées en utilisant une syntaxe spéciale (`[^identifiant]`). Les notes de bas de page peuvent utiliser n'importe quel identifiant, mais elles seront automatiquement rendues en exposant avec des numéros croissants dans l'ordre de leur première apparition. Les notes de bas de page elles-mêmes doivent être placées dans un titre de second niveau distinct à la fin de l'article. Selon le contenu, le titre utilisé peut être "Références", "Notes" ou "Notes et références".
+
+Les notes de bas de page sont placées directement après les mots, expressions ou phrases qu'elles expliquent, sans espace entre elles. Ces références doivent être placées après la ponctuation, à l'exception des parenthèses, lorsqu'elles se rapportent au contenu, et des tirets.
+
+Exemples d'utilisation correcte :
+
+```markdown
+L'osu! wiki est un projet destiné à remplacer l'ancien système de FAQ.[^wiki-faq] Il a été nommé d'après le jeu de rythme osu![^osu] et la plus grande encyclopédie en ligne ouverte, Wikipédia. Dès le début, il a attiré des traducteurs[^wiki-tl] et des rédacteurs compétents.
+
+## Références
+
+[^wiki-faq]: https://osu.ppy.sh/community/forums/topics/68525
+[^wiki-tl]: https://osu.ppy.sh/community/forums/posts/1177500
+[^osu]: https://osu.ppy.sh/community/forums/posts/1178153
+```
+
+### Citations
+
+Les citations, ou références, sont utilisées pour identifier une source d'information. Les citations par le biais de notes de bas de page doivent être préférées aux liens en ligne.
+
+Exemple :
+
+```markdown
+La première version de l'osu!api a été mise à disposition le 2 juillet 2013[^api-first-usage] Elle avait été saluée par la critique des utilisateurs.[^api-praise]
+
+## Références
+
+[^api-first-usage]: [osu!api bêta ouverte](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [osu!api bêta ouverte](https://osu.ppy.sh/community/forums/posts/2662247)
+```
+
+### Notes
+
+Les notes de bas de page peuvent être utilisées pour stocker des explications ou des remarques tangentielles qui ne peuvent pas être intégrées sans nuire à la lisibilité de l'article, ou qui sont moins importantes que l'article lui-même. Ces notes de bas de page peuvent utiliser du texte libre.
+
+Exemple : 
+
+```markdown
+Un tournoi ne doit pas être organisé et dirigé par une équipe inexpérimentée composée de staff non accompli et sans réputation.[^staff]
+
+## Notes
+
+[^staff]: Un staff *inexpérimenté* est vaguement défini comme quelqu'un qui joue à osu! depuis moins d'une heure au total.
+```
+
 ## Citations en bloc
 
-Les citations en bloc sont limitées à la citation du texte d'une personne. Elles ne doivent pas être utilisées pour formater le texte. Le nom de la personne citée qui suit la citation doit être précédé d'un tiret (`-`) comme suit :
+La citation est limitée à [citer quelqu'un ou quelque chose](/wiki/Article_styling_criteria/Writing#bloc-de-citation). Elle ne doit pas être utilisée pour formater le texte autrement.
 
 ```markdown
 > profitez du jeu
 
--rrtyui
+—rrtyui
 ```
 
 ## Ruptures thématiques

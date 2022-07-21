@@ -3,7 +3,7 @@ tags:
   - IGTS 2019
   - IGTS
   - GTS
-outdated: true
+outdated_translation: true
 ---
 
 # Intermediate Global Taiko Showdown 2019

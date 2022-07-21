@@ -1,12 +1,12 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu! World Cup 2014
 
 ![OWC 2014 logo](img/logo.png)
 
-La ***osu! World Cup 2014*** (ou **OWC 2014**, littéralement « coupe du monde de osu! ») était la cinquième édition d'une compétition internationale annuelle où les meilleurs joueurs de osu! du monde entier s'affrontent en équipe pour remporter la victoire et représenter leur pays.
+La ***osu! World Cup 2014*** (ou **OWC 2014**, littéralement « coupe du monde d'osu! ») était la cinquième édition d'une compétition internationale annuelle où les meilleurs joueurs d'osu! du monde entier s'affrontent en équipe pour remporter la victoire et représenter leur pays.
 Cette compétition est terminée et a abouti au podium suivant :
 
 | Placing | Country |
@@ -34,7 +34,7 @@ Pour chaque participant :
 
 | Placing | Prizes |
 | :-- | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Statut de supporter pendant 6 mois + un badge sur le profil + le titre de « osu!Champion » sur le profil + un objet à l'effigie de osu! |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Statut de supporter pendant 6 mois + un badge sur le profil + le titre de « osu!Champion » sur le profil + un objet à l'effigie d'osu! |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Statut de supporter pendant 3 mois |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Statut de supporter pendant 1 mois |
 
@@ -416,7 +416,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ### Organisation générale du tournoi
 
-1. L'OWC est une compétition de osu! (mode standard) en 4 contre 4 faisant s'affronter des équipes nationales.
+1. L'OWC est une compétition d'osu! (mode standard) en 4 contre 4 faisant s'affronter des équipes nationales.
 2. Les beatmaps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
    - Une beatmap, le *tiebreaker*, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
 3. Les dates et horaires des matchs seront fixés par la direction (cf. rubrique « Planification des matchs »).
@@ -448,7 +448,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
    - Les capitaines recevront un message de confirmation si leur inscription a bien été reçue. Les équipes sont alors placées dans une liste d'attente.
 4. Pour assurer la présence d'équipes sérieuses au sein de la compétition, tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés. Ainsi, la direction se réserve le droit de refuser des inscriptions si :
    - les équipes ne sont pas considérées comme étant suffisamment fortes pour participer,
-   - des participants ont violé les termes du [règlement général](/wiki/Rules) de osu! ([détails](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)).
+   - des participants ont violé les termes du [règlement général](/wiki/Rules) d'osu! ([détails](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)).
 5. 32 équipes maximum sont autorisées à participer.
 6. La liste des équipes autorisées à participer sera publiée après la période d'inscription des équipes.
    - Les capitaines recevront un message de confirmation si leur inscription a été validée ou rejetée.
@@ -523,8 +523,8 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ## Liens divers
 
-- [Liste des pays ayant participé à des compétitions de osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
-- [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/community/forums/topics/247090)
+- [Liste des pays ayant participé à des compétitions d'osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
+- [Topic de discussion sur le forum d'osu!](https://osu.ppy.sh/community/forums/topics/247090)
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"

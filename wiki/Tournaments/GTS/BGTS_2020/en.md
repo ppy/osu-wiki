@@ -859,7 +859,7 @@ Sunday, 13 December 2020:
 5. The mappool will be made by a special team of mappoolers.
 6. The event will be a 4 vs 4 match with the following rules:
    - Best-of-15 format (First to 8 points).
-   - Mappool will consist of 20 FreeMod maps and 1 TB. All the maps can be - played with any mods combination. Some of them might be impossible to - put a mod on though!
+   - Mappool will consist of 20 FreeMod maps and 1 TB. All the maps can be played with any mod combinations. Some of them might be impossible to put a mod on though!
    - No bans.
    - Map selection is the same as a normal match.
    - Same rules as a normal match for disconnections.

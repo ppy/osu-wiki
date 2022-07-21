@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # How to use the offset wizard (Bahasa Indonesia)

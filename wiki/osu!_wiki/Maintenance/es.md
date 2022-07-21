@@ -2,7 +2,7 @@
 
 *Véase también: [Guía de Contribución de la osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
 
-Este artículo describe aspectos técnicos y administrativos de la osu! wiki. También cubre los procesos de mantenimiento, los cuales son requeridos para mantenerla al día, tu puedes ayudar con [uno de ellos](#routines). Para toda discusión relacionada con la wiki, usa el canal `#osu-wiki` en el [servidor de Discord de osu!dev](/wiki/Community/osu!dev_Discord_server).
+Este artículo describe aspectos técnicos y administrativos de la osu! wiki. También cubre los procesos de mantenimiento, los cuales son requeridos para mantenerla al día, tu puedes ayudar con [uno de ellos](#rutinas). Para toda discusión relacionada con la wiki, usa el canal `#osu-wiki` en el [servidor de Discord de osu!dev](/wiki/Community/osu!dev_Discord_server).
 
 ## Administradores
 
@@ -92,7 +92,7 @@ Algunos artículos de la osu! wiki están incompletos y falta información. Dich
 
 ### Entrecruzamiento (Cross-linking)
 
-Una de las características clave de cualquier wiki es la *conectividad*, significando que los artículos refieren a páginas relacionadas, ayudando al lector a mantenerse en el flujo de la lectura. Para conectar los artículos, añade enlaces a términos mencionados donde sean importantes para una mejor comprensión del tema. Usa enlaces en secciones de artículos cuando sea necesario, y usa las [páginas de desambiguación](/wiki/Article_styling_criteria/Formatting#disambiguation-articles) para términos generales.
+Una de las características clave de cualquier wiki es la *conectividad*, significando que los artículos refieren a páginas relacionadas, ayudando al lector a mantenerse en el flujo de la lectura. Para conectar los artículos, añade enlaces a términos mencionados donde sean importantes para una mejor comprensión del tema. Usa enlaces en secciones de artículos cuando sea necesario, y usa las [páginas de desambiguación](/wiki/Article_styling_criteria/Formatting#artículos-de-desambiguación) para términos generales.
 
 ### Nuevos artículos
 

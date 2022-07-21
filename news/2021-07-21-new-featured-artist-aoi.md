@@ -36,6 +36,8 @@ Bash your keys to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1488148) h
     <source src="https://assets.ppy.sh/artists/183/Songs/Aoi%20vs.%20siqlo%20-%20Hacktivism.mp3" type="audio/mpeg">
 </audio>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### Aoi - c.s.q.n.
 
 Try out [another osu!taiko map](https://osu.ppy.sh/beatmapsets/1492454) hosted by [DakeDekaane](https://osu.ppy.sh/users/1425253)!

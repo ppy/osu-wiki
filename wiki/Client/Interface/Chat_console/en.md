@@ -15,7 +15,7 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 | **Pale** | Non-supporters |
 | **Yellow** | [osu!supporter](/wiki/osu!supporter) |
 | **Red** | [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) or [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) member |
-| **Green** | Line contains your name or certain keywords that you have added to trigger a "highlight". A copy of the message will also appear in a dedicated channel, `#highlight`, which contains all of these lines. |
+| **Green** | Line contains your name or certain keywords that you have added to trigger a [highlight](Highlight). A copy of the message will also appear in a dedicated channel, `#highlight`, which contains all of these lines. |
 | **Blue** | Private Message |
 | **Cyan** | [peppy](https://osu.ppy.sh/users/2), the creator of osu! |
 | **Pink** | [BanchoBot](/wiki/BanchoBot) |
@@ -43,11 +43,11 @@ Each user signed in to osu! has a user panel displayed in Extended Chat. By defa
 
 | Panel colour | Description |
 | :-- | :-- |
-| ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | Dark Blue - Players is currently idle or not doing anything or just chatting. |
+| ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | Dark Blue - Player is currently idle or not doing anything or just chatting. |
 | ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | Grey - Playing a beatmap in solo. |
 | ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | Light Blue - Watching a replay or spectating someone. |
 | ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap") | Red - Editing their own beatmap. |
-| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap") | Purple - Test playing a beatmap either it's their beatmap or not. |
+| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap") | Purple - Test playing a beatmap in the editor. |
 | ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap") | Turquoise - Submitting (either uploading or updating) the beatmap that they have made. |
 | ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap") | Green - Modding or editing someone else's beatmap. |
 | ![Player in Multiplayer](img/Chat_Console-Multiplayer.png "Player in Multiplayer") | Brown - User is in multiplayer, but not playing. |
@@ -82,7 +82,7 @@ Press the number or click the bar to activate:
 | `/bb` | Sends a message to Bancho to execute a command like `!stats [user]` | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [user]` | Open a new chat tab with specified user. | `/chat Amigo` | (Amigo tab is opened) |
 | `/clear` | Clears the current chat buffer. | `/clear` | (Clears basically everything on the current tab) |
-| `/ignore [user][@chp]` | Ignore all messages from specified user for this session. By adding an @ followed by the letters, c, h, and/or p, you may ignore them in chat, highlights, or PMs respectively. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Your chat console is set to: ignore any text written by Amigo \[c\], any possible text highlighting you by Amigo \[h\] any Private Message sent to you by Amigo \[p\]) |
+| `/ignore [user][@chp]` | Ignore all messages from specified user for this session. By adding an @ followed by the letters, c, h, and/or p, you may ignore them in chat, [highlights](Highlight), or PMs respectively. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Your chat console is set to: ignore any text written by Amigo \[c\], any possible text highlighting you by Amigo \[h\] any Private Message sent to you by Amigo \[p\]) |
 | `/j [channel]` or `/join [channel]` | Joins the specified channel | `/join #lobby` | (#lobby tab is opened) |
 | `/p` or `/part` | Leaves the current channel you're parting or leaving. | `/part` | n/a |
 | `/unignore [user]` | Stop ignoring this user for this session. | `/unignore Amigo` | You may now hear Amigo. (Your chat console will allow any comment made by Amigo available to your chat console) |

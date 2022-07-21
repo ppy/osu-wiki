@@ -1,12 +1,12 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu!mania 4K World Cup 2017
 
 ![osu!mania 4K World Cup 2017](img/logo.jpg)
 
-La **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) est un tournoi de osu!mania entre pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de la osu!mania World Cup.
+La **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) est un tournoi d'osu!mania entre pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de la osu!mania World Cup.
 
 ## Calendrier du tournoi
 
@@ -299,7 +299,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Règlement du tournoi
 
-1. Le osu!mania 4K World Cup est un tournoi de osu!mania entre pays, joué sur le mode de jeu osu!mania sur des beatmaps 4 touches.
+1. L'osu!mania 4K World Cup est un tournoi d'osu!mania entre pays, joué sur le mode de jeu osu!mania sur des beatmaps 4 touches.
    - Même si cette compétition est prévue pour se jouer en 3 contre 3, cela peut changer en fonction du nombre d'inscriptions.
 2. Le mécanisme de score utilisé est le Score V2.
 3. Les beatmaps pour chaque round seront annoncées par le sélecteur de beatmaps en avance le dimanche avant que les matchs commencent. Seules ces beatmaps seront utilisées pendant leurs matchs respectifs.

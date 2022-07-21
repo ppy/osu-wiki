@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b3aea796883d81f817472253da2f002b7a4c6996
+---
+
 # Formatos
 
 *Para estándares de escritura, véase: [Criterios para el estilo del artículo/Escribiendo](../Writing)*\
@@ -16,7 +21,7 @@ El listado siguiente son las configuraciones locales soportadas para la wiki:
 | `cs.md` | Checo | Česky |
 | `da.md` | Danés | Dansk |
 | `de.md` | Alemán | Deutsch |
-| `gr.md` | Griego | Ελληνικά |
+| `el.md` | Griego | Ελληνικά |
 | `es.md` | Español | Español |
 | `fi.md` | Finlandés | Suomi |
 | `fr.md` | Francés | Français |
@@ -324,8 +329,7 @@ Los encabezados no deben exceder un nivel de encabezado de 5 y no deben usarse p
 
 ### Títulos
 
-*Véase también: [Títulos de artículos](#titulos-de-articulos)*
-
+*Véase también: [Títulos de artículos](#titulos-de-articulos)*\
 *Precaución: Los títulos se interpretan como texto sin formato; no se deberán escapar.*
 
 El primer encabezado en todos los artículos deberá ser de nivel 1, siendo este, el título del artículo. Todos los encabezados siguientes deberán ser [encabezados seccionados](#secciones). Los títulos no deberán contener formato, enlaces o imágenes.

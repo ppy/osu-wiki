@@ -12,14 +12,14 @@
 
 - [BN 规章制度](/wiki/People/The_Team/Beatmap_Nominators/Rules)：5 道题目
 - [摸图和作图的行为规范](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)：1 道题目
-- [谱面上架标准 (*RC*)](/wiki/Ranking_Criteria#general)：1 道题目
-- [难度分布标准 (Spread)](/wiki/Ranking_Criteria#beatmap)：1 道题目
-- [歌曲元数据标准 (Metadata)](/wiki/Ranking_Criteria#metadata)：1 道题目
-- [歌曲时间轴标准 (Timing)](/wiki/Ranking_Criteria#timing)：1 道题目
-- [音频标准](/wiki/Ranking_Criteria#audio)：1 道题目
-- [背景图片和视频标准](/wiki/Ranking_Criteria#video-and-background)：1 道题目
-- [自定义皮肤标准](/wiki/Ranking_Criteria#skinning)：1 道题目
-- [故事板标准](/wiki/Ranking_Criteria#storyboarding)
+- [谱面上架标准 (*RC*)](/wiki/Ranking_Criteria#常规)：1 道题目
+- [难度分布标准 (Spread)](/wiki/Ranking_Criteria#谱面)：1 道题目
+- [歌曲元数据标准 (Metadata)](/wiki/Ranking_Criteria#元数据)：1 道题目
+- [歌曲时间轴标准 (Timing)](/wiki/Ranking_Criteria#时间轴测定)：1 道题目
+- [音频标准](/wiki/Ranking_Criteria#音频)：1 道题目
+- [背景图片和视频标准](/wiki/Ranking_Criteria#视频和背景图片)：1 道题目
+- [自定义皮肤标准](/wiki/Ranking_Criteria#皮肤)：1 道题目
+- [故事板标准](/wiki/Ranking_Criteria#故事板)
 - 游戏模式特殊标准：与将申请的游戏模式相关 (osu!, osu!taiko, osu!catch, osu!mania)
 
 BN 考试没有分数线，但可以大概地根据得分把申请者分为三类：分数高于 15 为良好，分数处于 12.5 到 15 分之间为一般，低于 12.5 分为较差。

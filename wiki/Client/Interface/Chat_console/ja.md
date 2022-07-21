@@ -13,7 +13,7 @@ osu!のほとんどの画面では`F8`を押すか、右下の`Show Chat`ボタ�
 | **Pale** | 非サポーター |
 | **Yellow** | [osu!サポーター](/wiki/osu!supporter) |
 | **Red** | [グローバルモデレーションチーム](/wiki/People/The_Team/Global_Moderation_Team)または[ノミネーションアセスメントチーム](/wiki/People/The_Team/Nomination_Assessment_Team )のメンバー |
-| **Green** | 行には、あなたの名前や「ハイライト」を引き起こすために付けた特定のキーワードが含まれています。メッセージのコピーは、これらの行をすべて含む専用のチャンネル、`#highlight`にも表示されます。 |
+| **Green** | 行には、あなたの名前や[「ハイライト」](Highlight)を引き起こすために付けた特定のキーワードが含まれています。メッセージのコピーは、これらの行をすべて含む専用のチャンネル、`#highlight`にも表示されます。 |
 | **Blue** | プライベートメッセージ |
 | **Cyan** | [peppy](https://osu.ppy.sh/users/2)、osu!の製作者 |
 | **Pink** | [BanchoBot](/wiki/BanchoBot) |
@@ -80,7 +80,7 @@ osu!にログインしている各ユーザーは、拡張チャットにユー�
 | `/bb` | Banchoにメッセージを送り、`!stats [user]`のようなコマンドを実行させる。 | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [user]` | 指定したユーザーとの新しいチャットタブを開く。 | `/chat Amigo` | (Amigo tab is opened) |
 | `/clear` | 現在のチャットバッファを消去します。 | `/clear` | (Clears basically everything on the current tab) |
-| `/ignore [user][@chp]` | このセッションで指定したユーザーからのメッセージをすべて無視します。@の後にc、h、pの文字をつけることで、それぞれチャット、ハイライト、PMで無視することができます。 | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Your chat console is set to: ignore any text written by Amigo \[c\], any possible text highlighting you by Amigo \[h\] any Private Message sent to you by Amigo \[p\]) |
+| `/ignore [user][@chp]` | このセッションで指定したユーザーからのメッセージをすべて無視します。@の後にc、h、pの文字をつけることで、それぞれチャット、[ハイライト](Highlight)、PMで無視することができます。 | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Your chat console is set to: ignore any text written by Amigo \[c\], any possible text highlighting you by Amigo \[h\] any Private Message sent to you by Amigo \[p\]) |
 | `/j [channel]`もしくは`/join [channel]` | 指定されたチャンネルに参加する。 | `/join #lobby` | (#lobby tab is opened) |
 | `/p`もしくは`/part` | 現在のチャンネルに別れを告げたり、去ったりします。 | `/part` | n/a |
 | `/unignore [user]` | このセッションでこのユーザーを無視するのを止めます。 | `/unignore Amigo` | You may now hear Amigo. (Your chat console will allow any comment made by Amigo available to your chat console) |

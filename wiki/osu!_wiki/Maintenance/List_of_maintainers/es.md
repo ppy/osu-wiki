@@ -1,3 +1,8 @@
+---
+outdated_since: 7094ac9d70205bc7bd12621dd83e3d1738962809
+outdated_translation: true
+---
+
 # Lista de administradores de la osu! wiki
 
 Los administradores regularmente utilizan el [localizador de problemas](https://github.com/ppy/osu-wiki/issues) y revisan las "pull request" de otros contribuidores. Contrario a otros contribuidores, ellos pueden editar las "pull request" y unirlas a la rama `master` del repositorio, haciendo los cambios públicos.
@@ -22,7 +27,7 @@ Si necesitas ayuda para realizar una contribución o necesitas una revisión en 
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Inactivo | Francés |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Activo** | Ruso |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | **Activo** | Polaco |
-| ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **Activo** | Finlandés, Sueco |
+| ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | Inactivo | Finlandés, Sueco |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | Inactivo | Español |
 
 ## El equipo de noticias

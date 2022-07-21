@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 526e49f5b89310dbe8b7cdf8144cac713aaf770a
 tags:
   - hotkey
@@ -95,10 +95,8 @@ tags:
 
 ### Mod 菜单
 
-*主页面：[Mod](/wiki/Game_modifier)*
-
-*小提示：按下快捷键来打开或关闭 Mod。您必须进入 Mod 菜单才可以使用这些快捷键。*
-
+*主页面：[Mod](/wiki/Game_modifier)*\
+*小提示：按下快捷键来打开或关闭 Mod。您必须进入 Mod 菜单才可以使用这些快捷键。*\
 *小提示：Target practice (osu!)，1K 和 2K (osu!mania)，Co-op (osu!mania)，还有 Mirror (osu!mania) 没有快捷键。*
 
 | 快捷键 | Mod |

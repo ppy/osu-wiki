@@ -314,7 +314,7 @@ Friday, 2 July 2021:
 
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
-| **A** | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877) (13 pts)** | ![][flag_ID] **[Latina-](https://osu.ppy.sh/users/15015592) (9 pts¹)** | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) (1 pt) | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) (9 pts²) | [#1](https://osu.ppy.sh/community/matches/86649900) |
+| **A** | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877) (13 pts)** | ![][flag_ID] **[Latina-](https://osu.ppy.sh/users/15015592) (9 pts[^tb-winner])** | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) (1 pt) | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) (9 pts[^tb-loser]) | [#1](https://osu.ppy.sh/community/matches/86649900) |
 
 Saturday, 3 July 2021:
 
@@ -328,19 +328,15 @@ Sunday, 4 July 2021:
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
 | **E** | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) (9 pts) | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336) (12 pts)** | ![][flag_ID] **[BitDust](https://osu.ppy.sh/users/9573836) (11 pts)** | ![][flag_ID] [Xtream1500](https://osu.ppy.sh/users/20740438) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86716701) |
-| **F** | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) (8 pts) | ![][flag_ID] **[by-ad](https://osu.ppy.sh/users/7439939) (10 pts¹)** | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (4 pts) | ![][flag_ID] **[Holicia](https://osu.ppy.sh/users/3212755) (10 pts²)** | [#1](https://osu.ppy.sh/community/matches/86766389) |
+| **F** | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) (8 pts) | ![][flag_ID] **[by-ad](https://osu.ppy.sh/users/7439939) (10 pts[^tb-winner])** | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (4 pts) | ![][flag_ID] **[Holicia](https://osu.ppy.sh/users/3212755) (10 pts[^tb-loser])** | [#1](https://osu.ppy.sh/community/matches/86766389) |
 | **G** | ![][flag_ID] **[Funtastic](https://osu.ppy.sh/users/3555626) (11 pts)** | ![][flag_ID] **[mina-](https://osu.ppy.sh/users/4670692) (13 pts)** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) (3 pts) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) (5 pts) | [#1](https://osu.ppy.sh/community/matches/86767997) |
-| **H** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613) (16 pts)** | ![][flag_ID] **[Dapuluous](https://osu.ppy.sh/users/8140944) (9 pts¹)** | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) (0 pts) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) (9 pts²) | [#1](https://osu.ppy.sh/community/matches/86770044) |
+| **H** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613) (16 pts)** | ![][flag_ID] **[Dapuluous](https://osu.ppy.sh/users/8140944) (9 pts[^tb-winner])** | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) (0 pts) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) (9 pts[^tb-loser]) | [#1](https://osu.ppy.sh/community/matches/86770044) |
 
 Monday, 5 July 2021:
 
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
-| **B** | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) (10 pts²) | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638) (15 pts)** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580) (10 pts¹)** | ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86758000) |
-
-¹ *Winner of the Tiebreaker map*
-
-² *Loser of the Tiebreaker map*
+| **B** | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) (10 pts[^tb-loser]) | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638) (15 pts)** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580) (10 pts[^tb-winner])** | ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) (0 pts) | [#1](https://osu.ppy.sh/community/matches/86758000) |
 
 ## Ruleset
 
@@ -424,5 +420,10 @@ Monday, 5 July 2021:
    - Warm-ups do not apply in the Group stage lobbies.
 4. In case of a tiebreaker, **the tiebreaker beatmap will be played without any mods enabled** (NoMod).
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
+
+## Notes
+
+[^tb-winner]: Winner of the Tiebreaker map.
+[^tb-loser]: Loser of the Tiebreaker map.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

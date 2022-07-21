@@ -2,6 +2,8 @@
 outdated: true
 ---
 
+<!-- there are small differences with EN that should be fixed. compare line numbers with EN to find those differences easily. -->
+
 # Pengundian Turnamen
 
 Layar pengundian turnamen digunakan untuk menyiarkan berbagai tim ke dalam kelompok-kelompok yang akan bersaing di babak grup untuk sebuah turnamen. Untuk saat ini hanya tersedia di klien [osu!(lazer)](https://github.com/ppy/osu/releases).

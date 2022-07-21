@@ -20,7 +20,7 @@ The **UK Community Cup 7** (***UKCC7***) was a British 1v1 double-elimination os
 | Qualifying round 2 | 2019-09-14/2019-09-15 |
 | Round of 32 | 2019-09-21/2019-09-22 |
 | Round of 16 | 2019-09-28/2019-09-29 |
-| Quarterfinals | 2019-10-5/2019-10-6 |
+| Quarterfinals | 2019-10-05/2019-10-06 |
 | Semifinals | 2019-10-12/2019-10-13 |
 | Finals | 2019-10-19/2019-10-20 |
 | Grand Finals | 2019-10-26/2019-10-27 |

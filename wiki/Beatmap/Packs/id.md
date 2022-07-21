@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Packs
 
 *Halaman utama: [Beatmaps](/wiki/Beatmap)*

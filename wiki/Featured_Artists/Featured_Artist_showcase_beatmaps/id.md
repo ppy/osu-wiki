@@ -517,6 +517,28 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
 
 - **[Ardolf](https://osu.ppy.sh/home/news/2022-05-04-new-featured-artist-ardolf)** (2022-05-04)
   - (![][osu!]) [Ardolf - Varcolac](https://osu.ppy.sh/beatmapsets/1750904#osu/3582059) diurus oleh ![][flag_TR] [Nymphe](https://osu.ppy.sh/users/10507407)
+- **[Tenchio](https://osu.ppy.sh/home/news/2022-05-11-new-featured-artist-tenchio)** (2022-05-11)
+  - (![][osu!mania]) [Tenchio - skeleton (Lettuce ver.)](https://osu.ppy.sh/beatmapsets/1749371#mania/3578641) diurus oleh ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608)
+- **[JOYLESS](https://osu.ppy.sh/home/news/2022-05-18-new-featured-artist-joyless)** (2022-05-18)
+  - (![][osu!]) [JOYLESS - Bristol](https://osu.ppy.sh/beatmapsets/1728251#osu/3531783) diurus oleh ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836)
+  - (![][osu!]) [JOYLESS - Dream](https://osu.ppy.sh/beatmapsets/1729551#osu/3534705) diurus oleh ![][flag_GB] [Shii](https://osu.ppy.sh/users/9186316)
+  - (![][osu!]) [Joyless - Back to Start](https://osu.ppy.sh/beatmapsets/1738503#osu/3553332) diurus oleh ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
+- **[Origami Angel](https://osu.ppy.sh/home/news/2022-05-25-new-featured-artist-origami-angel)** (2022-05-25)
+  - (![][osu!]) [Origami Angel - 24 Hr Drive-Thru](https://osu.ppy.sh/beatmapsets/1724847#osu/3525078) diurus oleh ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!]) [Origami Angel - Escape Rope](https://osu.ppy.sh/beatmapsets/1757733#osu/3602276) diurus oleh ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865)
+  - (![][osu!catch]) [Origami Angel - The Title Track](https://osu.ppy.sh/beatmapsets/1503591#fruits/3404572) diurus oleh ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+
+### Juni
+
+- **[Ponchi](https://osu.ppy.sh/home/news/2022-06-01-new-featured-artist-ponchi)** (2022-06-01)
+  - (![][osu!]) [Ponchi feat. haxchi - Mousou <3 Chuu!!](https://osu.ppy.sh/beatmapsets/1726676#osu/3528814) diurus oleh ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117)
+  - (![][osu!]) [Ponchi feat. haxchi - Correct Hearts](https://osu.ppy.sh/beatmapsets/1742463#osu/3562084) diurus oleh ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
+  - (![][osu!]) [Ponchi feat. haxchi - Anemone](https://osu.ppy.sh/beatmapsets/1753715#osu/3600798) diurus oleh ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)
+- **[SAMString](https://osu.ppy.sh/home/news/2022-06-08-new-featured-artist-samstring)** (2022-06-08)
+  - (![][osu!]) [SAMString - Sakura's Fall](https://osu.ppy.sh/beatmapsets/1449832#osu/2980857) diurus oleh ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
+  - (![][osu!]) [SAMString - Shifting Clouds](https://osu.ppy.sh/beatmapsets/1654451#osu/3376932) diurus oleh ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311)
+- **[Kanpyohgo](https://osu.ppy.sh/home/news/2022-06-11-new-featured-artist-kanpyohgo)** (2022-06-11)
+  - (![][osu!]) [Kanpyohgo - Tozaseshi Kumo no Kayoiji -Stormy Extended-](https://osu.ppy.sh/beatmapsets/1783062#osu/3651636) diurus oleh ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899)
 
 ## Sejarah
 
@@ -537,7 +559,7 @@ Dimulai dari [Pengumuman MYUKKE. sebagai Featured Artist](https://osu.ppy.sh/hom
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Swiss"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_CZ]: /wiki/shared/flag/CZ.gif "Republik Ceska"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
@@ -545,7 +567,7 @@ Dimulai dari [Pengumuman MYUKKE. sebagai Featured Artist](https://osu.ppy.sh/hom
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
-[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
+[flag_FR]: /wiki/shared/flag/FR.gif "Perancis"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_GR]: /wiki/shared/flag/GR.gif "Yunani"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
@@ -567,3 +589,4 @@ Dimulai dari [Pengumuman MYUKKE. sebagai Featured Artist](https://osu.ppy.sh/hom
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turki"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

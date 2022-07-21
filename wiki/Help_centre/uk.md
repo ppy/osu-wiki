@@ -1,6 +1,6 @@
 ---
 needs_cleanup: true
-outdated: true
+outdated_translation: true
 ---
 
 <!-- TODO: same deal as FAQ. this should be split up into appropriate articles and only written as guides where necessary. right now this page is only useful for people linking directly to sections of it -->

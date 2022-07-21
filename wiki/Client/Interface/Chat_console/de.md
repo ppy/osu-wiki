@@ -13,7 +13,7 @@ Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste o
 | **Bleich** | Andere Spieler |
 | **Gelb** | [osu!-Supporter](/wiki/osu!supporter) |
 | **Rot** | Mitglied des [Global Moderation Teams](/wiki/People/The_Team/Global_Moderation_Team) oder des [Nomination Assessment Teams](/wiki/People/The_Team/Nomination_Assessment_Team) |
-| **Grün** | Die Nachricht enthält entweder deinen Benutzernamen oder eines deiner "Highlightwörter". Die Nachricht wird zusätzlich im Channel `#highlight` aufgelistet. |
+| **Grün** | Die Nachricht enthält entweder deinen Benutzernamen oder eines deiner [Highlightwörter](Highlight). Die Nachricht wird zusätzlich im Channel `#highlight` aufgelistet. |
 | **Blau** | Private Nachricht |
 | **Türkis** | [peppy](https://osu.ppy.sh/users/2), der Ersteller von osu! |
 | **Pink** | [BanchoBot](/wiki/BanchoBot) |
@@ -88,7 +88,7 @@ Man kann die Leisten entweder anklicken oder die zugehörige Zahl drücken. Sie 
 | `/bb` | Sende eine Nachricht an BanchoBot, wie z. B. `rank [Zahl]` | `/bb rank 1` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [Benutzername]` | Öffnet einen privaten Chatkanal mit `[Benutzername]`. | `/chat Deimos` | \[Kanal mit Deimos wird geöffnet\] |
 | `/clear` | Alle Nachrichten vom derzeitig ausgewählten Chat Tab werden entfernt. | `/clear` |  |
-| `/ignore [Benutzername][@chp]` | Ignoriere alle Nachrichten von `[Benutzername]` bis zum nächsten Neustart. Beim Hinzufügen von `@` mit einer Kombination aus `c`, `h` und/oder `p` wird `[Benutzername]` entweder im Chat, bei Highlights oder privaten Nachrichten ignoriert. | `/ignore Deimos@chp` | BanchoBot: You will no longer hear Deimos {chat} {highlights} {PMs} \[Ignoriere alle öffentlichen (`c`), alle privaten (`p`) Nachrichten und alle Highlights (`h`) von Deimos.\] |
+| `/ignore [Benutzername][@chp]` | Ignoriere alle Nachrichten von `[Benutzername]` bis zum nächsten Neustart. Beim Hinzufügen von `@` mit einer Kombination aus `c`, `h` und/oder `p` wird `[Benutzername]` entweder im Chat, bei [Highlights](Highlight) oder privaten Nachrichten ignoriert. | `/ignore Deimos@chp` | BanchoBot: You will no longer hear Deimos {chat} {highlights} {PMs} \[Ignoriere alle öffentlichen (`c`), alle privaten (`p`) Nachrichten und alle Highlights (`h`) von Deimos.\] |
 | `/join [Channel]` oder `/j [Channel]` | Tritt einem bestimmten Channel bei. | `/join #german` | \[Tab mit #german wird geöffnet\] |
 | `/part` | Schließt den derzeitig ausgewählten Chat-Tab. | `/part` |  |
 | `/unignore [Benutzername]` | `[Benutzername]` wird nicht mehr ignoriert. | `/unignore Deimos` | You may now hear Deimos. (Die Chatkonsole zeigt nun alle zukünftigen Nachrichten von Deimos an) |

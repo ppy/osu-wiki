@@ -569,7 +569,7 @@ Sunday, 21 June 2020:
     - the Round of 64 and the Round of 32: Best-of-7 (First to 4 points)
     - the Round of 16 and the Quarterfinals: Best-of-9 (First to 5 points)
     - the Semifinals: Best-of-11 (First to 6 points)
-    - the Finals - Week 1 and Finals - Week 2: Best-of-13 (First to 7 points)
+    - the Finals week 1 and Finals week 2: Best-of-13 (First to 7 points)
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

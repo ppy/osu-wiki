@@ -83,9 +83,9 @@ Berikut ini adalah daftar opsi yang tersedia di dalam berkas `osu!.<nama akun pe
 | `EditorStacking` | 0 atau 1 | Penumpukan |
 | `Ticker` | 0 atau 1 | Tampilkan chat ticker |
 | `AutoChatHide` | 0 atau 1 | Otomatis sembunyikan chat ketika bermain |
-| `ChatHighlightName` | 0 atau 1 | Tampilkan pop-up ketika Anda di-highlight |
+| `ChatHighlightName` | 0 atau 1 | Tampilkan pop-up ketika Anda di-[highlight](/wiki/Client/Interface/Chat_console/Highlight) |
 | `ChatMessageNotification` | 0 atau 1 | Perlihatkan notifikasi pemberitahuan pesan |
-| `ChatAudibleHighlight` | 0 atau 1 | Mainkan suara ketika nama Anda disebut. |
+| `ChatAudibleHighlight` | 0 atau 1 | Mainkan suara ketika [nama Anda disebut](/wiki/Client/Interface/Chat_console/Highlight). |
 | `DisplayCityLocation` | 0 atau 1 | Tampilkan lokasi kota Anda kepada pengguna lain |
 | `ShowSpectators` | 0 atau 1 | Tampilkan daftar penonton selama permainan |
 | `AutoSendNowPlaying` | 0 atau 1 | Kirim beatmap ke kanal #spectator secara otomatis |
@@ -102,7 +102,7 @@ Berikut ini adalah daftar opsi yang tersedia di dalam berkas `osu!.<nama akun pe
 | `LogPrivateMessages` | 0 atau 1 | Simpan catatan(log) pesan pribadi secara otomatis |
 | `BlockNonFriendPM` | 0 atau 1 | Tolak pesan pribadi dari pemain selain teman Anda |
 | `IgnoreList` | Daftar teks yang dipisahkan oleh spasi | Daftar pengabaian |
-| `HighlightWords` | Daftar teks yang dipisahkan oleh spasi | Daftar kata yang disorot |
+| `HighlightWords` | Daftar teks yang dipisahkan oleh spasi | Daftar kata yang [disorot](/wiki/Client/Interface/Chat_console/Highlight) |
 
 ### Konfigurasi tombol
 

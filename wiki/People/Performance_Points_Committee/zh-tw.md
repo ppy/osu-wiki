@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: bbf3f7094b0f7d6a587bffdbdb8beb44a0ecdb69
 no_native_review: true
 tags:
@@ -14,12 +14,7 @@ tags:
 
 ## 成員
 
-- ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549)
-- ![][flag_HU] [emu1337](https://osu.ppy.sh/users/2185987)
-- ![][flag_AU] [MBmasher](https://osu.ppy.sh/users/4498616)
-- ![][flag_RU] [StanR](https://osu.ppy.sh/users/7217455)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "澳洲"
-[flag_GB]: /wiki/shared/flag/GB.gif "英國"
-[flag_HU]: /wiki/shared/flag/HU.gif "匈牙利"
-[flag_RU]: /wiki/shared/flag/RU.gif "俄羅斯"
+- ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549)
+- ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987)
+- ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616)
+- ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455)

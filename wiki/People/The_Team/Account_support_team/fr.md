@@ -12,8 +12,7 @@ Cela prend habituellement quelques jours avant que l'équipe prête attention à
 
 ## Rôle et tâches
 
-*Page principale : [Centre d'aide](/wiki/Help_centre)*
-
+*Page principale : [Centre d'aide](/wiki/Help_centre)*\
 *Voir également : [Restriction de comptes](/wiki/Help_centre/Account_restrictions)*
 
 Vous devriez contacter cette équipe pour les sujets concernant votre compte qui sont hors de votre contrôle. Veuillez fournir le plus de détails possible sur votre problème et envoyer un mail à l'adresse associée à votre problème.
@@ -26,8 +25,8 @@ Vous devriez contacter cette équipe pour les sujets concernant votre compte qui
   - Les suppressions de beatmaps;
   - Les suppressions de posts sur le forum et commentaires.
 - De la mauvaise conduite que vous [souhaitez avouer](/wiki/Reporting_bad_behaviour/Handling_foul_play#que-puis-je-faire-si-j'ai-enfreint-les-règles-?).
-- [Perte d'accès à l'email](/wiki/Help_centre/Installation_and_registration#inscription) attaché à votre compte osu!, ou lorsque votre compte a été volé.
-- [Rétablissement d'anciens pseudos et corrections de fautes mineures dans votre pseudo](/wiki/Help_centre/Account#changements-de-nom).
+- [Perte d'accès à l'email](/wiki/Help_centre/Account#sign-in) attaché à votre compte osu!, ou lorsque votre compte a été volé.
+- [Rétablissement d'anciens pseudos et corrections de fautes mineures dans votre pseudo](/wiki/Help_centre/Account#name-changes).
 - [Inscriptions de comptes bot](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
@@ -37,7 +36,7 @@ Vous devriez contacter cette équipe pour les sujets concernant votre compte qui
 - Préoccupations concernant la mauvaise conduite d'un modérateur.
 - Préoccupations concernant un modérateur brisant [le Code de conduite du contributeur](/wiki/Contributor_Code_of_Conduct).
 - [Problèmes de paiement](/wiki/Help_centre/Account#supporter) pour les commandes concernant l'[osu!store](https://osu.ppy.sh/store/listing).
-- Problèmes techniques n'ayant pas pu être résolus dans le [forum d'aide](https://osu.ppy.sh/community/forums/5), tels que les [problèmes de connectivité](/wiki/Help_centre/Client#fonctions-en-ligne).
+- Problèmes techniques n'ayant pas pu être résolus dans le [forum d'aide](https://osu.ppy.sh/community/forums/5), tels que les [problèmes de connectivité](/wiki/Help_centre/Client#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

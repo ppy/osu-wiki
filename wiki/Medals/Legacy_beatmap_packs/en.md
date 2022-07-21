@@ -126,9 +126,7 @@ Beatmaps:
 - [Rick Astley - Never Gonna Give You Up 2](https://osu.ppy.sh/beatmapsets/977)
 - [Caramell - Caramelldansen (Speedycake Remix)](https://osu.ppy.sh/beatmapsets/1018)
 - [Hatsune Miku - Ievan Polkka](https://osu.ppy.sh/beatmapsets/1287)
-- [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463)¹
-
-¹ *[Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) is an unranked beatmap. Playing this beatmap is not necessary in order to complete the pack.*
+- [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463)[^polkka-unranked]
 
 ### Volume 2
 
@@ -401,6 +399,10 @@ Beatmaps:
 ## Trivia
 
 - The beatmap [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), which was included in the Internet Pack (Volume 1), was notorious for being pushed to the [Approved](/wiki/Beatmap/Category#approved) section despite only consisting of one single spinner. Although the beatmap was [removed from the Approved beatmaps listing shortly after](https://osu.ppy.sh/community/forums/posts/149328), the remains of it stayed up on the Internet Pack (Volume 1) nevertheless.
+
+## Notes
+
+[^polkka-unranked]: [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) is an unranked beatmap. Playing this beatmap is not necessary in order to complete the pack.
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

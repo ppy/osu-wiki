@@ -267,8 +267,8 @@ All the mappools are in FreeMod. If a player wants to enable DT, NC or HT, both 
   - Round of 16: **11+1 maps** in pool, **BO9**.
   - Quarterfinals: **11+1 maps** in pool, **BO9**.
   - Semifinals: **13+1 maps** in pool, **BO11**.
-  - Finals - Week 1: **13+1 maps** in pool, **BO11**.
-  - Finals - Week 2: **15+1 maps** in pool, **BO13**.
+  - Finals week 1: **13+1 maps** in pool, **BO11**.
+  - Finals week 2: **15+1 maps** in pool, **BO13**.
 
 ### General rules
 

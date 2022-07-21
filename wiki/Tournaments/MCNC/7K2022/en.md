@@ -16,7 +16,7 @@ The **osu!mania 7K Chinese National Cup 2022** (***MCNC 7K 2022***) was a countr
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-12-6/2021-12-26 |
+| Registration phase | 2021-12-06/2021-12-26 |
 | Qualifier mappool showcase | 2022-01-16 |
 | Qualifiers | 2022-01-21/2022-01-23 |
 | Round of 16 | 2022-01-29/2022-01-30 |

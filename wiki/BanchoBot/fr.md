@@ -21,7 +21,7 @@ BanchoBot a aussi son propre [profil osu!](https://osu.ppy.sh/users/3) et son [c
 
 ## Commandes
 
-*Pour une liste des commandes du client en jeu, voir : [Console de tchat](/wiki/Client/Interface/Chat_console#la-liste-des-commandes)*
+*Pour une liste des commandes du client en jeu, voir : [Console de tchat](/wiki/Client/Interface/Chat_console#liste-des-commandes)*
 
 BanchoBot peut répondre aux commandes des joueurs par des messages spécifiques tapés dans le tchat. Toutes les commandes de BanchoBot commencent par un point d'exclamation (`!`) suivi du nom de la commande, qui n'est pas sensible à la casse (sans espace entre les deux). Ces commandes peuvent être utilisées dans les canaux de discussion et dans les messages privés avec BanchoBot.
 
@@ -135,7 +135,7 @@ Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats
 
 ```
 13:04 pippi: !faq fr:peppy
-13:04 BanchoBot: Qui ne le connaît pas ? peppy est le créateur de osu!
+13:04 BanchoBot: Qui ne le connaît pas ? peppy est le créateur d'osu!
 ```
 
 ### Report

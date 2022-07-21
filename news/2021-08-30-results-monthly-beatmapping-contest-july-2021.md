@@ -36,7 +36,7 @@ This month's contest took a different approach from our previous contests. Mappe
 
 See results for all submissions here:
 
-- [Screening](https://mappersguild.com/contestresults?contest=610861e17d776b698e58a0dd)
+- [Screening](https://mappersguild.com/contests/results?contest=610861e17d776b698e58a0dd)
 - [Judging](https://docs.google.com/spreadsheets/d/e/2PACX-1vRpgWFe4PuxIhWfaLdfHcOWd0_NehXkVcM3c-mxJBV2QAk31OztDYNpjZ4cy8Yubt9OQwj_9-_SRofm/pubhtml)
 
 ### Winner

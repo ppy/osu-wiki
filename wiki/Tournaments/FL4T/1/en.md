@@ -385,10 +385,10 @@ Sunday, 14 February 2021:
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing)
 - Average rank was determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 - All players passed the qualifiers and entered the Group Stage with following seedings:
-  - Seed #1 - Seed #8 will be named as Top seed
-  - Seed #9 - Seed #16 will be named as High seed
-  - Seed #17 - Seed #24 will be named as Low seed
-  - Seed #25 - Seed #30 will be named as Bottom seed
+  - Seed 1–8 will be named as Top seed
+  - Seed 9–16 will be named as High seed
+  - Seed 17–24 will be named as Low seed
+  - Seed 25–30 will be named as Bottom seed
 
 | Seed | Team | Average rank |
 | --: | :-- | --: |

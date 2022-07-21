@@ -1,12 +1,12 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu! World Cup 2013
 
 ![OWC 2013 logo](img/logo.jpg)
 
-La ***osu! World Cup 2013*** (ou **OWC 2013**, littéralement « coupe du monde de osu! ») était la quatrième édition d'une compétition internationale annuelle où les meilleurs joueurs de osu! du monde entier s'affrontent en équipe pour remporter la victoire et représenter leur pays.
+La ***osu! World Cup 2013*** (ou **OWC 2013**, littéralement « coupe du monde d'osu! ») était la quatrième édition d'une compétition internationale annuelle où les meilleurs joueurs d'osu! du monde entier s'affrontent en équipe pour remporter la victoire et représenter leur pays.
 Cette compétition est terminée et a abouti au podium suivant :
 
 | Placing | Country |
@@ -414,7 +414,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 
 ### Organisation générale du tournoi
 
-1. L'OWC est une compétition de osu! (mode standard) en 4 contre 4 faisant s'affronter des équipes nationales.
+1. L'OWC est une compétition d'osu! (mode standard) en 4 contre 4 faisant s'affronter des équipes nationales.
 2. Les beatmaps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
    - Une beatmap, le *tiebreaker*, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
    - Certaines beatmaps, regroupées en catégories, se verront imposer des mods : [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) et [DoubleTime](/wiki/Game_modifier/Double_Time). Une catégorie FreeMod sera également mise à la disposition des joueurs (plus de détails dans la rubrique « Beatmaps »).
@@ -510,7 +510,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 
 ## Liens importants
 
-- [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/community/forums/topics/160181/start=0)
+- [Topic de discussion sur le forum d'osu!](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
 [flag_AT]: /wiki/shared/flag/AT.gif "Autriche"

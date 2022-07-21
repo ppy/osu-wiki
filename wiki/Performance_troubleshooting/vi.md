@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 7a800e4ec3986ff1f135020a46e7c208287d0b2a
 ---
 
@@ -94,8 +94,7 @@ Tuy nhiên, nếu sự sinh nhiệt và nguy cơ làm phần cứng của bạn 
 
 ### Custom (Tuỳ chỉnh)
 
-*Lưu ý đối với người dùng bản Cutting Edge: sửa giá trị `CustomFrameLimit` thành bất cứ số nào lớn hơn 999, sẽ bị đưa về 999; ở bản Stable, bạn có thể đặt giá trị lớn hơn 1000 mà không gặp vấn đề gì.*
-
+*Lưu ý đối với người dùng bản Cutting Edge: sửa giá trị `CustomFrameLimit` thành bất cứ số nào lớn hơn 999, sẽ bị đưa về 999; ở bản Stable, bạn có thể đặt giá trị lớn hơn 1000 mà không gặp vấn đề gì.*\
 *Chú ý: bạn không thể đổi sang thiết lập này bằng phím tắt `F7` trong game, kể cả khi bạn đã làm xong các bước bên dưới: bạn cần phải đổi về `Custom` trong Cài đặt trước khi thoát game để lần tới bạn chạy osu! sẽ có lại lựa chọn này. Nếu không, bạn sẽ phải chỉnh lại `FrameSync` thủ công lần nữa.*
 
 Mức giới hạn này cố gắng giữ tần suất khung hình bằng với con số mà bạn yêu thích; tuy nhiên, đây là thiết lập mà bạn không thể thay đổi thông qua menu trong game.

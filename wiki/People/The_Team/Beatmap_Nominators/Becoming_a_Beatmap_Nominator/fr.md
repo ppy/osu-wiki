@@ -12,7 +12,7 @@ Les moddeurs souhaitant postuler chez les Beatmap Nominators doivent remplir les
 
 - Ils ont moddé activement des beatmaps pendant au moins 3 mois avant de postuler.
 - Ils ont accumulé au moins 150 ou 200 [kudosu](/wiki/Modding/Kudosu) au total, selon le mode auquel ils s'appliquent.
-- Ils fournissent 2 à 4 de leurs mods qui, selon eux, les qualifient pour faire partie des Beatmap Nominators.
+- Ils fournissent 2 à 3 de leurs mods qui, selon eux, les qualifient pour faire partie des Beatmap Nominators.
 
 ### Attentes en matière de modding
 

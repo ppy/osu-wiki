@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 5d060ae21b4df7739919dfc468c9456bb305acf6
 tags:
   - жалоба

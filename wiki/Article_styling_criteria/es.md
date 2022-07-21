@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: de80497e3887e708fa8ea709cf48cd5fa0efb49a
 no_native_review: true
 tags:

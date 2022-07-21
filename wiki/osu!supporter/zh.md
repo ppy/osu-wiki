@@ -1,12 +1,9 @@
 ---
-outdated: true
-outdated_since: 7d0ae0be44e8664bf61cad4514a79f573f226a6a
 tags:
   - support
   - supporter
   - supporter tag
   - osu!supporter tag
-  - 支持者
   - 支持者标签
   - 撒泼特
 ---
@@ -64,9 +61,9 @@ tags:
 
 ### 一次免费的改名
 
-*注意：对用户名的微小变动可向账号管理团队请求免费修改，请参见：[帮助中心/账号 § 我可以修改用户名么？](/wiki/Help_centre/Account#用户名更改)*
+*注意：对用户名的微小变动可向账号管理团队请求免费修改，请参见：[帮助中心/账号 § 我可以修改用户名么？](/wiki/Help_centre/Account#name-changes)*
 
-在[通常情况](/wiki/Help_centre/Account#用户名更改)下，首次获得支持者标签后可以免费获得一次改名机会。
+在[通常情况](/wiki/Help_centre/Account#name-changes)下，首次获得支持者标签后可以免费获得一次改名机会。
 
 ### osu!direct
 
@@ -74,13 +71,13 @@ osu!direct 是供支持者使用的游戏内谱面搜索和下载引擎。可以
 
 - 如果聊天窗口中的谱面链接指向 osu! 网页的谱面，可以直接在游戏内弹出下载提示
 - 可以在[多人游戏](/wiki/Gameplay/Multiplayer)房间或[旁观](/wiki/Gameplay/Spectating)中使用的自动谱面下载器。这是一个游戏内[可选设置](/wiki/Client/Options#integration)
-- 在被旁观时，可自动向 `#spectator` 聊天窗口发送当前谱面链接，这也是一个游戏内[可选设置](/wiki/Client/Options#online)
+- 在被旁观时，可自动向 `#spectator` 聊天窗口发送当前谱面链接，这也是一个游戏内[可选设置](/wiki/Client/Options#alerts-and-privacy)
 
 ### 额外排行榜
 
-支持者们可以在游戏或网页中访问若干个特殊的谱面[排行榜](/wiki/Beatmap#leaderboards)：
+支持者们可以在游戏或网页中访问若干个特殊的谱面[排行榜](/wiki/Beatmap#排行榜)：
 
-- 按 [Mod](/wiki/Game_modifier) 组合筛选的全球排行榜
+- 按 [Mod](/wiki/Gameplay/Game_modifier) 组合筛选的全球排行榜
 - 国内/区内排行榜
 - 以及一个可以和朋友们竞争的好友排行榜
 
@@ -90,7 +87,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 
 | 功能 | 普通玩家限额 | 支持者限额 |
 | :-- | :-: | :-: |
-| [Pending 谱面](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(Ranked 谱面, 2)` | `8 + min(Ranked 谱面, 4)` |
+| [Pending 谱面](/wiki/Beatmap/Category#work-in-progress-和-pending) | `2 + min(Ranked 谱面, 6)`最多 **8** 个[^pending-beatmaps-ref] | `8 + min(Ranked 谱面, 12)`最多 **20** 个[^pending-beatmaps-ref] |
 | 在线收藏的谱面 | 100 | 1000 |
 | 好友数量 | 250 | 500 |
 
@@ -127,7 +124,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 ## 到期时间
 
 ::: Infobox
-![](img/status.jpg?1 "还剩三个月的 osu! 支持者标签")
+![](img/status.jpg?1 "osu! 支持者标签购买统计")
 :::
 
 支持者标签的剩余时间，以及总捐赠次数，金额和赠送的礼物数量都会显示在 [osu! 支持者页面](https://osu.ppy.sh/home/support)的顶部。
@@ -155,3 +152,7 @@ osu! 支持者标签可以赠送给其他玩家，在玩家名片下的灰色方
 - 如果被赠送了支持者标签：`{用户名} 收到了匿名玩家赠送的 osu! 支持者标签！`
 
 此外，收发双方都会收到一封关于购买标签的电子邮件。
+
+## 参考
+
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)

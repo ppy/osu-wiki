@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 421d351504f7f02cbe916b63fc6120b24fce0c3a
 tags:
   - bot accounts

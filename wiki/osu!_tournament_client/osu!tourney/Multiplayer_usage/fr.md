@@ -1,4 +1,4 @@
-# Utilisation de osu!tourney en multijoueur
+# Utilisation d'osu!tourney en multijoueur
 
 ## Création de match
 

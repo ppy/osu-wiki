@@ -19,7 +19,7 @@ osu! 有數個 Twitter 帳號，分別提供不同的功能。大部分的流量
 | :-: | :-: | :-- |
 | ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | 官方新聞及公告來源。 |
 | ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | 當遊戲伺服器崩潰時，提供一點笑料。 |
-| ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) 發布的新聞、公告，及社群問卷。(並非由 [osu! 團隊](/wiki/People/The_Team#the-team)經營) |
+| ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) 發布的新聞、公告，及社群問卷。(並非由 [osu! 團隊](/wiki/People/The_Team)經營) |
 
 ## 個人
 

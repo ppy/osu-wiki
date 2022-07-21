@@ -366,9 +366,7 @@ Sunday, 17 October 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Voss ![][flag_GB] | 1 | **1** | ![][flag_GB] **Harpy** | [#1](https://osu.ppy.sh/community/matches/92549990) [#2](https://osu.ppy.sh/community/matches/92600878) ¹ |
-
-¹ Match was postponed due to tech issues, Voss was unable to complete the match after postponing.
+| Voss ![][flag_GB] | 1 | **1** | ![][flag_GB] **Harpy** | [#1](https://osu.ppy.sh/community/matches/92549990) [#2](https://osu.ppy.sh/community/matches/92600878)[^lb-note-1] |
 
 Monday, 18 October 2021:
 
@@ -479,7 +477,7 @@ Saturday, 2 October 2021:
 | **spook** ![][flag_GB] | **5** | 2 | ![][flag_GB] RndGuy | [#1](https://osu.ppy.sh/community/matches/91804343) |
 | **p4905** ![][flag_GB] | **5** | 4 | ![][flag_GB] idealnettles | [#1](https://osu.ppy.sh/community/matches/91806834) |
 | swankitydankity ![][flag_IE] | 2 | **5** | ![][flag_GB] **aeniko** | [#1](https://osu.ppy.sh/community/matches/91807575) |
-| **Plasma** ![][flag_GB] | **4** | 0 | ![][flag_GB] Kathalshame | [#1](https://osu.ppy.sh/community/matches/91806656) ¹ |
+| **Plasma** ![][flag_GB] | **4** | 0 | ![][flag_GB] Kathalshame | [#1](https://osu.ppy.sh/community/matches/91806656)[^lb-note-2] |
 | weezer ![][flag_GB] | 1 | **5** | ![][flag_GB] **Aistre** | [#1](https://osu.ppy.sh/community/matches/91810328) |
 | **Ophiz** ![][flag_IE] | **5** | 0 | ![][flag_GB] Akiba | [#1](https://osu.ppy.sh/community/matches/91816900) |
 | **pedeko** ![][flag_HK] | **0** | -1 | ![][flag_GB] Kwichi- | *forfeit* |
@@ -487,8 +485,6 @@ Saturday, 2 October 2021:
 | HonourBound ![][flag_GB] | 1 | **5** | ![][flag_GB] **Gazzzaa** | [#1](https://osu.ppy.sh/community/matches/91824821) |
 | **Defex** ![][flag_GB] | **0** | -1 | ![][flag_GB] Rinnu | *forfeit* |
 | **FuzzyL** ![][flag_GB] | **5** | 3 | ![][flag_GB] Striiker | [#1](https://osu.ppy.sh/community/matches/91831519) |
-
-¹ Kathalshame left before the last map.
 
 Sunday, 3 October 2021:
 
@@ -510,9 +506,7 @@ Sunday, 3 October 2021:
 | **Checha** ![][flag_BR] | **5** | 1 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/91871404) |
 | **Aistre** ![][flag_GB] | **5** | 3 | ![][flag_GB] Cornfield | [#1](https://osu.ppy.sh/community/matches/91874338) |
 | Zyphox ![][flag_GB] | 4 | **5** | ![][flag_GB] **Reshamen** | [#1](https://osu.ppy.sh/community/matches/91922449) |
-| FuzzyL ![][flag_GB] | 0 | **2** | ![][flag_GB] **spook** | [#1](https://osu.ppy.sh/community/matches/91881112) ¹ |
-
-¹ FuzzyL left mid-match.
+| FuzzyL ![][flag_GB] | 0 | **2** | ![][flag_GB] **spook** | [#1](https://osu.ppy.sh/community/matches/91881112)[^lb-note-3] |
 
 ### Round of 32
 
@@ -709,6 +703,12 @@ Top 10 qualification results:
 - Players have 90 seconds to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing team.
 - Failed scores will count.
 - Tiebreakers are FreeMod, however NoMod can be used.
+
+## Notes
+
+[^lb-note-1]: Match was postponed due to tech issues, Voss was unable to complete the match after postponing.
+[^lb-note-2]: Kathalshame left before the last map.
+[^lb-note-3]: FuzzyL left mid-match.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"

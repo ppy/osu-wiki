@@ -32,6 +32,8 @@ We've got **three** new tracks lined up from IAHN in his classic electronic styl
     <source src="https://assets.ppy.sh/artists/3/previews/387.mp3" type="audio/mpeg">
 </audio>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ## yuki.
 
 **Two** brand new, osu! exclusive tracks arrive with this update from yuki. [Check out his Featured Artist listing for more details and links to the beatmap files for the new tracks!](https://osu.ppy.sh/beatmaps/artists/4)

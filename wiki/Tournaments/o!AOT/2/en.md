@@ -521,7 +521,7 @@ Monday, 13 July 2020:
 
 1. osu! Asia Oceania Tournament 2 is an osu! tournament.
 2. The scoring system used will be **ScoreV2** with NoFail bracket selected.
-3. Players will assemble a team between 2 - 4 players and the match format will be a 2v2.
+3. Players will assemble a team between 2 to 4 players and the match format will be a 2v2.
 4. There will be **no rank restrictions**.
 5. Participation is restricted to players with flags from Asian or Oceanian countries.
    - Follow the [following document](https://puu.sh/FNs5a.txt) for list eligible countries.

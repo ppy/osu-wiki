@@ -12,7 +12,7 @@ tags:
 
 ## Programme
 
-| Événement | Temps |
+| Événement | Date |
 | :-- | :-- |
 | Début de la saison | 6 juillet 2020 |
 | Lobby temporaire : Playlist A | 10 juillet - 12 juillet 2020 |

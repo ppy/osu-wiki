@@ -1,6 +1,6 @@
 # Reporting bad behaviour
 
-osu! has [a team of moderators](/wiki/People/The_Team/Global_Moderation_Team) that adheres to keeping the game and its ecosystem clean and safe. If you notice rule-breaking behaviour or inappropriate content, report it using one of the methods described below. Alternatively, you may contact any of the moderators online directly if your report wasn't properly handled within a reasonable amount of time—do so only as the last resort.
+osu! has [a team of moderators](/wiki/People/The_Team/Global_Moderation_Team) that adheres to keeping the game and its ecosystem clean and safe. If you notice rule-breaking behaviour or inappropriate content, report it using one of the methods described below. Alternatively, you may contact any of the moderators online directly if your report wasn't properly handled within a reasonable amount of time — do so only as the last resort.
 
 Accidental reports are ignored. Users who deliberately send invalid reports can risk being [silenced](/wiki/Silence).
 

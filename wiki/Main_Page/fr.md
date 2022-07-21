@@ -72,7 +72,7 @@ Lisez les procédures et règlements qui assurent la sécurité d'osu! et de sa 
 
 [Règles](/wiki/Rules) • [Code de conduite Contributor Covenant](/wiki/Contributor_Code_of_Conduct) • [Code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
-Réglementation des médias : [Directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines) • [Contenu explicite](/wiki/Rules/Explicit_Content) • [Règles relatives au contenu des musiques](/wiki/Rules/Song_Content_Rules) • [Considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations)
+Réglementation des médias : [Directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines) • [Processus de vote sur le contenu](/wiki/Rules/Content_Voting_Process) • [Contenu explicite](/wiki/Rules/Explicit_Content) • [Règles relatives au contenu des musiques](/wiki/Rules/Song_Content_Rules) • [Considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations)
 
 [Mentions légales](/wiki/Legal) : [Conditions d'utilisation](/wiki/Legal/Terms) • [Politique de confidentialité](/wiki/Legal/Privacy) • [Politique de droit d'auteur](/wiki/Legal/Copyright) • [Licence musicale](/wiki/Legal/Music_licensing)
 

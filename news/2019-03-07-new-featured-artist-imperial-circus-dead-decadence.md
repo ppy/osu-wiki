@@ -22,6 +22,8 @@ But naturally, don't take our word for it! Here's a few samples of just a snippe
     <source src="https://assets.ppy.sh/artists/35/previews/854.mp3" type="audio/mpeg">
 </audio>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### Hai shita Shoujo Wa, Haiyoru Konton To Kaikousu.
 
 <audio controls>

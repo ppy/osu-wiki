@@ -20,6 +20,8 @@ Older generations of osu! players might already be well-versed with **yukitani**
     </video>
 </div>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### Amusing Reflection Rag.
 
 Check out [this new osu!taiko showcase beatmap](https://osu.ppy.sh/beatmapsets/1436446) hosted by [Reficul](https://osu.ppy.sh/users/1506011) of the Mappers' Guild!

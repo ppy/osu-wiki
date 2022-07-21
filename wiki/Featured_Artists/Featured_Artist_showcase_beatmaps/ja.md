@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
 ---
 
@@ -522,6 +522,28 @@ outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
 
 - **[Ardolf](https://osu.ppy.sh/home/news/2022-05-04-new-featured-artist-ardolf)** (2022-05-04)
   - (![][osu!]) [Ardolf - Varcolac](https://osu.ppy.sh/beatmapsets/1750904#osu/3582059) ![][flag_TR] [Nymphe](https://osu.ppy.sh/users/10507407)によってホスト
+- **[Tenchio](https://osu.ppy.sh/home/news/2022-05-11-new-featured-artist-tenchio)** (2022-05-11)
+  - (![][osu!mania]) [Tenchio - skeleton (Lettuce ver.)](https://osu.ppy.sh/beatmapsets/1749371#mania/3578641) ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608)によってホスト
+- **[JOYLESS](https://osu.ppy.sh/home/news/2022-05-18-new-featured-artist-joyless)** (2022-05-18)
+  - (![][osu!]) [JOYLESS - Bristol](https://osu.ppy.sh/beatmapsets/1728251#osu/3531783) ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836)によってホスト
+  - (![][osu!]) [JOYLESS - Dream](https://osu.ppy.sh/beatmapsets/1729551#osu/3534705) ![][flag_GB] [Shii](https://osu.ppy.sh/users/9186316)によってホスト
+  - (![][osu!]) [Joyless - Back to Start](https://osu.ppy.sh/beatmapsets/1738503#osu/3553332) ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)によってホスト
+- **[Origami Angel](https://osu.ppy.sh/home/news/2022-05-25-new-featured-artist-origami-angel)** (2022-05-25)
+  - (![][osu!]) [Origami Angel - 24 Hr Drive-Thru](https://osu.ppy.sh/beatmapsets/1724847#osu/3525078) ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302)によってホスト
+  - (![][osu!]) [Origami Angel - Escape Rope](https://osu.ppy.sh/beatmapsets/1757733#osu/3602276) ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865)によってホスト
+  - (![][osu!catch]) [Origami Angel - The Title Track](https://osu.ppy.sh/beatmapsets/1503591#fruits/3404572) ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)によってホスト
+
+### 6月
+
+- **[Ponchi](https://osu.ppy.sh/home/news/2022-06-01-new-featured-artist-ponchi)** (2022-06-01)
+  - (![][osu!]) [Ponchi feat. haxchi - Mousou <3 Chuu!!](https://osu.ppy.sh/beatmapsets/1726676#osu/3528814) ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117)によってホスト
+  - (![][osu!]) [Ponchi feat. haxchi - Correct Hearts](https://osu.ppy.sh/beatmapsets/1742463#osu/3562084) ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)によってホスト
+  - (![][osu!]) [Ponchi feat. haxchi - Anemone](https://osu.ppy.sh/beatmapsets/1753715#osu/3600798) ![][flag_LT] [Strategas](https://osu.ppy.sh/users/2971837)によってホスト
+- **[SAMString](https://osu.ppy.sh/home/news/2022-06-08-new-featured-artist-samstring)** (2022-06-08)
+  - (![][osu!]) [SAMString - Sakura's Fall](https://osu.ppy.sh/beatmapsets/1449832#osu/2980857) ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754)によってホスト
+  - (![][osu!]) [SAMString - Shifting Clouds](https://osu.ppy.sh/beatmapsets/1654451#osu/3376932) ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311)によってホスト
+- **[Kanpyohgo](https://osu.ppy.sh/home/news/2022-06-11-new-featured-artist-kanpyohgo)** (2022-06-11)
+  - (![][osu!]) [Kanpyohgo - Tozaseshi Kumo no Kayoiji -Stormy Extended-](https://osu.ppy.sh/beatmapsets/1783062#osu/3651636) ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899)によってホスト
 
 ## 歴史
 
@@ -572,3 +594,4 @@ Guildの設立当初は応募制のクローズドな応募による運営がさ
 [flag_TN]: /wiki/shared/flag/TN.gif "チュニジア"
 [flag_TR]: /wiki/shared/flag/TR.gif "トルコ"
 [flag_US]: /wiki/shared/flag/US.gif "アメリカ合衆国"
+[flag_VN]: /wiki/shared/flag/VN.gif "ベトナム"

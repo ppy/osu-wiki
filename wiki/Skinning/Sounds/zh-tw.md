@@ -451,7 +451,7 @@ no_native_review: true
 提醒:
 
 - 遊戲即將開始時播放。
-- 同時也是在聊天室被標記時的音效。
+- 同時也是在聊天室[被標](/wiki/Client/Interface/Chat_console/Highlight)記時的音效。
 
 ### 節拍器
 

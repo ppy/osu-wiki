@@ -278,7 +278,7 @@ Si le slider `length` est supérieure à la courbe définie, le slider s'allonge
 - Pour les courbes de bézier, de catmull et linéaires, elle se poursuit en ligne droite à partir de l'extrémité de la courbe.
 - Pour les courbes en cercle parfait, il poursuit l'arc de cercle.
 
-*Remarque : La `longueur` du slider peut être utilisée pour déterminer le temps qu'il faut pour terminer le slider. Le paramètre `length / (SliderMultiplier*100)*beatLength` indique le nombre de millisecondes nécessaires pour effectuer un glissement du slider (en supposant que `beatLength` a été ajusté pour les points de synchronisation hérités).*
+*Remarque : La `longueur` du slider peut être utilisée pour déterminer le temps qu'il faut pour terminer le slider. Le paramètre `length / (SliderMultiplier * 100 * SV) * beatLength` indique le nombre de millisecondes nécessaires pour effectuer un glissement du slider (où `SV` est le multiplicateur de vélocité des sliders ou *slider velocity* en anglais donné par le point de synchronisation hérité effectif, ou `1` s'il n'y en a pas).*
 
 #### Hitsounds des sliders
 
@@ -343,7 +343,7 @@ Les objets du mode osu!taiko n'utilisent que le `time` pour déterminer comment 
 
 ### osu!catch
 
-Le terrain de jeu de osu!catch n'utilise que l'axe des x, donc `y` n'est pas pertinent. Les courbes de slider peuvent utiliser l'espace vertical pour obtenir une accélération horizontale lorsqu'elles sont aplaties en un champ de jeu unidimensionnel.
+Le terrain de jeu d'osu!catch n'utilise que l'axe des x, donc `y` n'est pas pertinent. Les courbes de slider peuvent utiliser l'espace vertical pour obtenir une accélération horizontale lorsqu'elles sont aplaties en un champ de jeu unidimensionnel.
 
 - Les cercles deviennent des fruits.
 - Les sliders deviennent des juice streams, avec des fruits sur chaque bord.

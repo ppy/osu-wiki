@@ -2,7 +2,7 @@
 
 Thanks for your interest in making the osu! wiki better! This article covers the contribution process step by step. In case you are familiar with GitHub, feel free to follow the common feature-branch workflow for proposing changes and skip to the [self-check](#self-check) section.
 
-New contributors are not expected to be familiar with GitHub or [git](https://git-scm.com/), because they're tools mainly tailored towards developers. Don't worry if you don't get something right the first time—a [wiki maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) will either point you in the right direction or fix it for you.
+New contributors are not expected to be familiar with GitHub or [git](https://git-scm.com/), because they're tools mainly tailored towards developers. Don't worry if you don't get something right the first time — a [wiki maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) will either point you in the right direction or fix it for you.
 
 In case you need tips or advice during any stage, don't hesitate to ask in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
 
@@ -36,7 +36,7 @@ When you are done editing, take some time to proofread your work. Go through the
 - **Structure and formatting**: preview your article with a tool such as [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) to make sure it looks exactly how you wanted it to be.<!-- TODO(TicClick): we really need an article on markup features specific to the osu! wiki-->
 - **All images and other non-text files** must be [under 1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Screenshots** need to use the default osu! skin and [specific settings](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay), including the maximum dimensions of 1280×720.
 
-For more specific writing and formatting standards, refer to the [article styling criteria](/wiki/Article_styling_criteria). It's not recommended to read it all at once—a reviewer will likely point out if something needs to be corrected either way.
+For more specific writing and formatting standards, refer to the [article styling criteria](/wiki/Article_styling_criteria). It's not recommended to read it all at once — a reviewer will likely point out if something needs to be corrected either way.
 
 ## Pull request
 
@@ -52,7 +52,7 @@ All changes to the osu! wiki are moderated. During that stage, other collaborato
 
 If no one has checked in after a couple of days, try the following:
 
-- Make sure you have resolved all suggestions—people may be waiting on your responses.
+- Make sure you have resolved all suggestions — people may be waiting on your responses.
 - Ask other osu! wiki editors in the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) (`#osu-wiki` channel) or in the GitHub comments.
 - To get help with the translation, check a couple of merged pull requests for your language and get in touch with their reviewers and/or authors ([example GitHub query](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BID%5D)).
 - Ask your friends for a quick look!

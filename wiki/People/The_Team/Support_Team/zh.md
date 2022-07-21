@@ -2,7 +2,7 @@
 tags:
   - 支持团队
   - 客服
-outdated: true
+outdated_translation: true
 outdated_since: c1175ba788c488eb294b1b04c55a6dee798009de
 ---
 
@@ -27,19 +27,11 @@ Support Team 主要负责：
 
 | 名字 | 除英语外其他熟练语言 |
 | :-- | :-- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | 瑞典语，西班牙语 |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | 德语 |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
-[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
-[flag_US]: /wiki/shared/flag/US.gif "美国"
+| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
+| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 |
+| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | 瑞典语，西班牙语 |
+| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
+| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | 德语 |
+| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 |

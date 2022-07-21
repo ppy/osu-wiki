@@ -34,7 +34,7 @@ If you believe you were silenced unfairly, contact the [account support team](/w
 
 *Caution: Engaging in "inappropriate behaviour" in private messages is not against the rules, unless said inappropriate behaviour is being delivered to unwilling or unconsenting recipients. If reported, appropriate punishments will be placed.*
 
-- Inappropriate behaviour in public chats or forums (e.g, `#multiplayer`, beatmap discussions, comments, etc.), including—but not limited to—spamming, nonsense chat, racism, etc.
+- Inappropriate behaviour in public chats or forums (e.g, `#multiplayer`, beatmap discussions, comments, etc.), including — but not limited to — spamming, nonsense chat, racism, etc.
 - Uploading or posting inappropriate content via other means. (E.g., profile avatars, beatmap submissions, profile details, user page bio, banner, etc.).
 
 The length of a silence may vary based on the severity of the infringement. Silences can stack on top of each other, adding more time for each one. Please note that if an offence is heavy enough, or if a player is a repeat offender, it may result in [account restriction](/wiki/Help_centre/Account_restrictions) instead of a silence.

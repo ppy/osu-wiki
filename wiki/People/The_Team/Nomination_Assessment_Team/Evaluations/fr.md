@@ -24,7 +24,7 @@ L'évaluation est divisée en deux phases : *individuelle* et *groupe*.
 
 ### La phase individuelle
 
-La phase individuelle a une date limite de 7 jours après que le candidat ait envoyé sa candidature, et est remplie individuellement par chaque membre de la NAT assigné. Chaque membre de la NAT soumettra son évaluation du modding et des candidatures des candidats, afin de déterminer s'ils répondent aux [critères de base](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#basic-criteria) pour devenir BN. Pendant cette phase, ils ne discutent pas de leurs conclusions entre eux afin de se forger pleinement une opinion individuelle sur la candidature.
+La phase individuelle a une date limite de 7 jours après que le candidat ait envoyé sa candidature, et est remplie individuellement par chaque membre de la NAT assigné. Chaque membre de la NAT soumettra son évaluation du modding et des candidatures des candidats, afin de déterminer s'ils répondent aux [critères de base](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#critères-de-base) pour devenir BN. Pendant cette phase, ils ne discutent pas de leurs conclusions entre eux afin de se forger pleinement une opinion individuelle sur la candidature.
 
 Une fois que trois membres de la NAT auront soumis leurs évaluations individuelles, la demande passera automatiquement à la phase de groupe sur le site web de la NAT.
 
@@ -32,7 +32,7 @@ Une fois que trois membres de la NAT auront soumis leurs évaluations individuel
 
 La phase de groupe a une date limite de 14 jours après que le candidat ait envoyé sa demande. Au cours de la phase de groupe, les membres de la NAT peuvent lire les évaluations des autres membres et discuter davantage si nécessaire pour parvenir à un consensus final. Une fois le consensus atteint, ils publient le résultat sur le site web de la NAT et rédigent le retour d'évaluation final pour le candidat. 
 
-Dans le cas de [candidatures rejetées](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#failed-applications), la NAT déterminera également la durée du délai de l'utilisateur avant qu'il puisse postuler à nouveau. Le délai standard est de 90 jours à partir de la date de la candidature, mais la durée peut être réduite pour les candidats ayant relativement peu de problèmes à résoudre avant de devenir des Beatmap Nominators. Dans ce cas, les conditions de réduction du délai d'attente seront indiquées dans le feedback envoyé aux candidats.
+Dans le cas de [candidatures rejetées](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#demandes-rejetées), la NAT déterminera également la durée du délai de l'utilisateur avant qu'il puisse postuler à nouveau. Le délai standard est de 90 jours à partir de la date de la candidature, mais la durée peut être réduite pour les candidats ayant relativement peu de problèmes à résoudre avant de devenir des Beatmap Nominators. Dans ce cas, les conditions de réduction du délai d'attente seront indiquées dans le feedback envoyé aux candidats.
 
 Une fois que le consensus est atteint et que les commentaires sont rédigés, les membres de la NAT les examinent afin d'affiner l'exactitude et la clarté des commentaires pour le candidat. Ils envoient ensuite le feedback au candidat, après quoi l'évaluation sera archivée pour référence future. Le feedback lui-même sera envoyé par le [mappersguild bot](https://osu.ppy.sh/users/23648635) comme un message dans le tchat d'osu!.
 
@@ -40,7 +40,7 @@ Une fois que le consensus est atteint et que les commentaires sont rédigés, le
 
 Chaque BN est examiné régulièrement par les membres de la NAT.
 
-Pour les Beatmap Nominators en [probation](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators), ou qui ont reçu un avertissement d'[activité](/wiki/People/The_Team/Beatmap_Nominators/Rules#activity), leur prochaine évaluation sera programmée environ 1 mois après avoir été mis en probation ou avoir reçu leur avertissement.
+Pour les Beatmap Nominators en [probation](/wiki/People/The_Team/Beatmap_Nominators#beatmap-nominators-probatoires), ou qui ont reçu un avertissement d'[activité](/wiki/People/The_Team/Beatmap_Nominators/Rules#activité), leur prochaine évaluation sera programmée environ 1 mois après avoir été mis en probation ou avoir reçu leur avertissement.
 
 Pour les Beatmap Nominators sans avertissements récents, leurs évaluations seront programmées tous les 3 mois.
 

@@ -19,7 +19,7 @@ osu! 위키 항목은 [GitHub][osu_wiki]에 저장되므로, 기여를 하기 �
 0. Github 계정을 [생성](https://github.com/signup)합니다.
 1. [`ppy/osu-wiki`][osu_wiki] 저장소에 들어가 오른쪽 위, 구석에 있는 `Fork` 버튼을 눌러 사본을 생성합니다. 복사한 저장소로 이동하고 싶다면 [`ppy/osu-wiki`][osu_wiki] 저장소의 `Fork` 버튼을 다시 누르시면 됩니다.
 
-  - 만약 저장소를 복사한 날로부터 어느 정도 기간이 지났다면 [모범 사례 § Fork된 저장소 동기화](/wiki/osu!_wiki/Contribution_guide/Best_practices#Fork된-저장소-동기화) 문서를 따라서 동기화를 해주세요.
+  - 만약 저장소를 복사한 날로부터 어느 정도 기간이 지났다면 [모범 사례 § Fork된 저장소 동기화](/wiki/osu!_wiki/Contribution_guide/Best_practices#fork된-저장소-동기화) 문서를 따라서 동기화를 해주세요.
 
 2. [모범 사례 § 수정하기](/wiki/osu!_wiki/Contribution_guide/Best_practices#수정하기)를 읽고 편집을 진행해주세요. 원하는 프로그램을 사용하여 수정하셔도 되지만, osu! wiki에는 2가지 방법에 대해 자세하게 설명이 되어있습니다:
 
@@ -44,7 +44,7 @@ osu! 위키 항목은 [GitHub][osu_wiki]에 저장되므로, 기여를 하기 �
 
 1. osu! wiki를 복사한 **자신의 저장소**에서 `master↓` 드롭다운 메뉴를 찾아 내용을 변경한 branch를 선택하세요.
 2. `Contribute↓` 버튼을 누르고 `Open pull request`를 선택하세요.
-3. [모범 사례 § Pull Request 열기](/wiki/osu!_wiki/Contribution_guide/Best_practices#Pull-Request-열기)를 참조하여 자세한 내용을 채우고 `Create pull request`를 클릭하세요.
+3. [모범 사례 § Pull Request 열기](/wiki/osu!_wiki/Contribution_guide/Best_practices#pull-request-열기)를 참조하여 자세한 내용을 채우고 `Create pull request`를 클릭하세요.
 
 ## 리뷰
 

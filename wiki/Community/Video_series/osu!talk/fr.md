@@ -13,7 +13,7 @@ La série de podcasts est conçue de manière à ce que chacun soit libre de par
 | 1 | [Charles445](https://osu.ppy.sh/users/85000) | GMT/BN | [Lien](https://www.youtube.com/watch?v=e8lhBtcPbjw) |
 | 2 | [MMzz](https://osu.ppy.sh/users/128993) | QAT | [Lien](https://www.youtube.com/watch?v=fBBQ4bwNZcY) |
 | 3 | [Loctav](https://osu.ppy.sh/users/71366) | Responsable de la communauté et des tournois | [Lien](https://www.youtube.com/watch?v=gxZtxmUvDoQ) |
-| 4 | [dkun](https://osu.ppy.sh/users/154400) | BAT/membre retraité de osu!monthly | [Lien](https://www.youtube.com/watch?v=_nFI71fG7-c) |
+| 4 | [dkun](https://osu.ppy.sh/users/154400) | BAT/membre retraité d'osu!monthly | [Lien](https://www.youtube.com/watch?v=_nFI71fG7-c) |
 | 5 | [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner | [Lien](https://www.youtube.com/watch?v=OVjq9ko83t0) |
 | 6 | [JAKACHAN](https://osu.ppy.sh/users/718696) | Joueur osu! pro | [Lien](https://www.youtube.com/watch?v=WXFMggx94e0) |
 | 7 | [Daru](https://osu.ppy.sh/users/32480) | osu!painter | [Lien](https://www.youtube.com/watch?v=eBFaLRXmfYc) |
@@ -43,7 +43,7 @@ La série de podcasts est conçue de manière à ce que chacun soit libre de par
 | 30 | [Tasha](https://osu.ppy.sh/users/1031958) | Journaliste osu!weekly | [Lien](https://www.youtube.com/watch?v=9-TDEjfL1YQ) |
 | 31 | [drum drum](https://osu.ppy.sh/users/4435526) | GMT | [Lien](https://www.youtube.com/watch?v=Pna9rIzlZKk) |
 | 32 | [p3n](https://osu.ppy.sh/users/123703) | Responsable d'équipe, GMT | [Lien](https://www.youtube.com/watch?v=stWmOmJgmLE) |
-| 33 | [deadbeat](https://osu.ppy.sh/users/128370) | co-host de osu!talk, GMT | [Lien](https://www.youtube.com/watch?v=LwsWUi94GmM) |
+| 33 | [deadbeat](https://osu.ppy.sh/users/128370) | co-host d'osu!talk, GMT | [Lien](https://www.youtube.com/watch?v=LwsWUi94GmM) |
 | 34 | [Zak](https://osu.ppy.sh/users/1375955) | Joueur pro osu!catch | [Lien](https://www.youtube.com/watch?v=VQ7MIshcA-E) |
 | 34.5 | [- Magic Bomb -](https://osu.ppy.sh/users/3071175) | Dragon Bomb | [Lien](https://www.dropbox.com/s/zvc6jlb6zitepag/Dragon%20Bomb.mp3) |
 | 35 | [juankristal](https://osu.ppy.sh/users/443656) | Commentateur de tournois, Joueur pro osu!mania | [Lien](https://www.youtube.com/watch?v=YiVCO2U4DLo) |

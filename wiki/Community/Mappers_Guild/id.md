@@ -2,6 +2,8 @@
 tags:
   - Mapper's Guild
   - MG
+outdated_translation: true
+outdated_since: 3cf46b29330f1d208f1b5390649747054db8a5a4
 ---
 
 # Mappers' Guild
@@ -54,7 +56,11 @@ Para anggota Mappers' Guild juga dapat memperoleh poin tambahan dengan mendaftar
 
 *Artikel utama: [Kumpulan beatmap-beatmap showcase Featured Artist](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps)*
 
-Anggota-anggota Mappers' Guild tertentu terkadang diberikan kesempatan untuk membuat "beatmap-beatmap showcase" eksklusif yang diperuntukkan bagi pengumuman-pengumuman Featured Artist di masa mendatang. Setelah Featured Artist yang bersangkutan diumumkan, beatmap-beatmap tersebut akan diberikan sorotan khusus pada [postingan berita yang terkait](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di Twitter [@osugame](https://twitter.com/osugame). 
+Anggota-anggota Mappers' Guild tertentu terkadang diberikan kesempatan untuk membuat "beatmap-beatmap showcase" eksklusif yang diperuntukkan bagi pengumuman-pengumuman Featured Artist di masa mendatang. Setelah Featured Artist yang bersangkutan diumumkan, beatmap-beatmap tersebut akan diberikan sorotan khusus pada [postingan berita yang terkait](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di Twitter [@osugame](https://twitter.com/osugame).
+
+### Kontes Beatmapping
+
+Mappers' Guild juga berfungsi selaku sarana kontes beatmapping. Sejak Januari 2020, seluruh iterasi [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) telah diselenggarakan, dijurikan, dan dinilai dengan sistem yang ditentukan oleh Mappers' Guild. Di samping itu, siapapun dapat menyelenggarakan kontesnya tersendiri melalui Mappers' Guild untuk meningkatkan aksesibilitas ke komunitas mapping.
 
 ## Sejarah
 

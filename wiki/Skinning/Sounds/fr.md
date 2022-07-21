@@ -10,7 +10,7 @@
 
 Notes :
 
-- Ce son est joué lorsque le curseur passe sur le osu!cookie dans le menu principal.
+- Ce son est joué lorsque le curseur passe sur l'osu!cookie dans le menu principal.
 
 ---
 
@@ -447,7 +447,7 @@ Notes :
 Notes :
 
 - Ce son est joué lorsque le match commence.
-- Il s'agit également du son des notifications dans le tchat.
+- Il s'agit également du son des [notifications dans le tchat](/wiki/Client/Interface/Chat_console/Highlight).
 
 ### Métronome
 
