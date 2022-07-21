@@ -132,9 +132,13 @@ To start with this, we want to showcase a pretty chaotic but fancy Repel mod (fi
 </div>
 
 ---
-That said, you're maybe thinking that this Lazer section isn't long enough. Right ? Here's a section about Lazer's UI design, wrote by [0x84f](https://osu.ppy.sh/users/7944724).
+Another new feature that some of you might not know of, or just haven't gotten around to trying yet is the **skin layout editor**! First implemented in May of 2021, this is very much a work-in-progress feature, however currently you are able to edit the placement of all skin elements that appear during gameplay!
 
-
+<div align="center">
+    <video width="100%" controls>
+        <source src="https://user-images.githubusercontent.com/191335/118155608-5c5fce80-b453-11eb-88f4-e552b10ed5f1.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 ## Summary of this Article
 ### ![](/wiki/shared/mode/osu.png) osu!
