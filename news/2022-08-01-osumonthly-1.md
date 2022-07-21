@@ -66,7 +66,8 @@ Anyway, The Roundtable has now ended, and hopefully this towering experience ret
 Thanks again to [BTMC](https://osu.ppy.sh/users/3171691) and his staff for this insane event! 
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
-#### In August, the osu!mania top players will brawl in the *osu!mania World Cup 2022*!
+
+#### In August, the osu!mania top players will brawl in the osu!mania World Cup 2022!
 
 As it is starting the **6th of August**, we can't actually talk about it more, but we are excited to say that the next osu!monthly is going to have a **big article** about it, and maybe an **interview of the winner**!
 
