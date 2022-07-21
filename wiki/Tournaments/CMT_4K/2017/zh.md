@@ -429,12 +429,3 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
    - 若选手使用特殊的时区，请提前告知组委会。
    - 除时区问题以外，选手未能按时参赛的，不论提前声明与否，仍然依照缺席处理。
 6. 选手弃权的比赛不予重赛。
-
-[CN]: /wiki/shared/flag/CN.gif "中国"
-[UK]: /wiki/shared/flag/GB.gif "英国"
-[TW]: /wiki/shared/flag/TW.gif "台湾"
-[MY]: /wiki/shared/flag/MY.gif "马来西亚"
-[AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[SG]: /wiki/shared/flag/SG.gif "新加坡"
-[HK]: /wiki/shared/flag/HK.gif "香港"
-[CA]: /wiki/shared/flag/CA.gif "加拿大"

@@ -362,8 +362,3 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
    - If player is in any other time zone, please notify the Management in advance.
    - Apart from time zone reasons, the absent player(s) will be considered as forfeited, regardless of whether they have sent messages to the Management.
 5. Request of rematch from forfeited player(s) will not be accepted.
-
-[CN]: /wiki/shared/flag/CN.gif "China"
-[US]: /wiki/shared/flag/US.gif "United States"
-[AU]: /wiki/shared/flag/AU.gif "Australia"
-[SG]: /wiki/shared/flag/SG.gif "Singapore"
