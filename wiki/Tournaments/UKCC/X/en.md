@@ -44,7 +44,7 @@ The UK Community Cup X was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1227275)
-- [Discord](https://discord.gg/EtsU7Cw)
+- [Discord server](https://discord.gg/EtsU7Cw)
 - [Livestream](https://twitch.tv/osuukcc)
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJmIYW6dGfDgL4djEZfAIMQcDgfV-mskmc/edit?usp=sharing)
 
@@ -210,7 +210,7 @@ See the [Pocket Picks sheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJ
 
 ## Match results
 
-### Final Round
+### Final round
 
 Saturday, 10 April 2021:
 
@@ -305,7 +305,7 @@ Sunday, 21 March 2021:
 | **Voss** ::{ flag=GB }:: | **7** | 1 | ::{ flag=IE }:: Ophiz | [#1](https://osu.ppy.sh/community/matches/78666857) |  |
 | **Kingling** ::{ flag=GB }:: | **7** | 1 | ::{ flag=GB }:: Chemistry | [#1](https://osu.ppy.sh/community/matches/78752151) |  |
 
-::{ flag=GB }:: Malteser had a bye so did not compete this day.
+::{ flag=GB }:: Malteser had a bye, so they did not compete this day.
 
 ### Round 5
 
@@ -334,7 +334,7 @@ Sunday, 14 March 2021:
 | **Chemistry** ::{ flag=GB }:: | **4** | **4** | ::{ flag=GB }:: **Mahmood** | [#1](https://osu.ppy.sh/community/matches/78055764) |  |
 | **Voss** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: idealnettles | *forfeit* | *idealnettles was eliminated* |
 
-::{ flag=GB }:: Malteser and ::{ flag=GB }:: Doomsday had a bye so did not compete this day.
+::{ flag=GB }:: Malteser and ::{ flag=GB }:: Doomsday had a bye, so they did not compete this day.
 
 ### Round 4
 
@@ -368,7 +368,7 @@ Sunday, 7 March 2021:
 | Fwuffy ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **idealnettles** | [#1](https://osu.ppy.sh/community/matches/77466576) |  |
 | **Jemzsee** ::{ flag=GB }:: | **6** | 0 | ::{ flag=GB }:: -Deeline | [#1](https://osu.ppy.sh/community/matches/77466642) | *-Deeline was eliminated* |
 
-::{ flag=GB }:: Defex, ::{ flag=GB }:: Matt4132, and ::{ flag=GB }:: Taiga Tiger had a bye so did not compete this day.
+::{ flag=GB }:: Defex, ::{ flag=GB }:: Matt4132, and ::{ flag=GB }:: Taiga Tiger had a bye, so they did not compete this day.
 
 ### Round 3
 
@@ -392,7 +392,7 @@ Saturday, 27 February 2021:
 | SinCrone ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Matt4132** | [#1](https://osu.ppy.sh/community/matches/76833536) |  |
 | [Nathan] ::{ flag=GB }:: | 1 | **7** | ::{ flag=GB }:: **Chugger** | [#1](https://osu.ppy.sh/community/matches/76824398) |  |
 
-::{ flag=GB }:: Mahmood had a bye so did not compete this day.
+::{ flag=GB }:: Mahmood had a bye, so they did not compete this day.
 
 Sunday, 28 February 2021:
 
@@ -413,7 +413,7 @@ Sunday, 28 February 2021:
 | **Rinnu** ::{ flag=GB }:: | **7** | 1 | ::{ flag=GB }:: Fwuffy | [#1](https://osu.ppy.sh/community/matches/76914880) |  |
 | **Doomsday** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Matt4132 | [#1](https://osu.ppy.sh/community/matches/76993974) |  |
 
-::{ flag=GB }:: Malteser and ::{ flag=GB }:: -Deeline had a bye so did not compete this day.
+::{ flag=GB }:: Malteser and ::{ flag=GB }:: -Deeline had a bye, so they did not compete this day.
 
 ### Round 2
 
@@ -505,9 +505,7 @@ Sunday, 14 February 2021:
 
 ### Qualifiers
 
-See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJmIYW6dGfDgL4djEZfAIMQcDgfV-mskmc/edit#gid=1613467170) for a breakdown of the qualifier results.
-
-Top 10 qualification results:
+See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1Jj9t9Fn_WoJmIYW6dGfDgL4djEZfAIMQcDgfV-mskmc/edit#gid=1613467170) for a breakdown of the qualifier results. Below are the top 10 results of the qualifiers:
 
 | Placing | Team | Normalised score | Average score |
 | --: | :-- | :-- | :-- |
