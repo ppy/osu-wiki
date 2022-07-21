@@ -26,7 +26,7 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 ### Navigation
 - [What's up on osu!?](#whats-up-on-osu)
 - [Top Scores of the Month](#top-scores-of-the-month)
-- [New features on osu!lazer (& bonus article!)](#new-features-on-osulazer)
+- [New features on osu!lazer](#new-features-on-osulazer)
 - [Summary of this article](#summary-of-this-article)
 - [End Word](#end-word)
 
@@ -51,9 +51,9 @@ As if it wasn't enough, [mrekk](https://osu.ppy.sh/users/7562902) was there too!
 
 With that many great players, such as [mrekk](https://osu.ppy.sh/users/7562902), [Utami](https://osu.ppy.sh/users/7512553), [RyuK](https://osu.ppy.sh/users/6304246) and many others, this tournament was incredible! The competition's spirit was mixed with the entertaining cast and gimmicks of [BTMC](https://osu.ppy.sh/users/3171691) and the result was epic!
 
-In terms of epic, we were served with the finals: [mrekk](https://osu.ppy.sh/users/7562902) vs [Utami](https://osu.ppy.sh/users/7512553)! Despite mrekk's defeat against Utami, his performances were impressive, along with Utami's. His first rank on the leaderboard is indeed his throne.
+In terms of epic, we were served with the finals: [mrekk](https://osu.ppy.sh/users/7562902) vs [Utami](https://osu.ppy.sh/users/7512553)! Despite mrekk's defeat against [Utami]([Utami](https://osu.ppy.sh/users/7512553)), his performances were impressive, along with [Utami](https://osu.ppy.sh/users/7512553)'s. His first rank on the leaderboard is indeed his throne.
 
-A best-of from this match was made on the BTMC channel, with exclusive interviews of the players, by BTMC (what a surprise, ahah) and Happystick, the casters of this amazing show! You can find it [here](https://www.youtube.com/watch?v=Y7LqBZL)!
+A best-of from this match was made on the [BTMC](https://osu.ppy.sh/users/3171691) [channel](https://twitch.tv/btmc), with exclusive interviews of the players, by [BTMC](https://osu.ppy.sh/users/3171691) (what a surprise, ahah) and Happystick, the casters of this amazing show! You can find it [here](https://www.youtube.com/watch?v=Y7LqBZL)!
 
 Anyway, The Roundtable has now ended, and hopefully this towering experience returns next year!
 
@@ -71,11 +71,11 @@ As the name implies, the showdown is to take place between those whose dreams co
 
 *At the beginning of July, the recent eleventh iteration of osu!catch World Cup has been concluded.*
 
-For the fourth time in a row and a total of eight wins, South Korea are the osu!catch champions. The roster consisting of JISAN, Rells, YesMyDarknesss, x_angelkawaii_x, DreStar and Byeol. With second and third places placed by United States (Secre, Lexii, Dahcreeper, Zak, Colin, Elux) and China (Dusk, Callionet, Coevir, Crystal, KagamineRin02, Kitakami).
+For the fourth time in a row and a total of eight wins, South Korea are the osu!catch champions. The roster consisting of [JISAN](https://osu.ppy.sh/users/3657951), [Rells](https://osu.ppy.sh/users/7937519), [YesMyDarknesss](https://osu.ppy.sh/users/4158549), [x_angelkawaii_x](https://osu.ppy.sh/users/566276), [DreStar](https://osu.ppy.sh/users/1808057) and [Byeol](https://osu.ppy.sh/users/2754651). With second and third places placed by United States ([Secre](https://osu.ppy.sh/users/2306637), [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983)) and China ([Dusk](https://osu.ppy.sh/users/533210), [Callionet](https://osu.ppy.sh/users/3072921), [Coevir](https://osu.ppy.sh/users/3171965), [Crystal](https://osu.ppy.sh/users/1646397), [KagamineRin02](https://osu.ppy.sh/users/518503), [Kitakami](https://osu.ppy.sh/users/6347308)).
 
-It's not a secret that players from South Korea are so good that they could swap each other and win the entire tournament no matter what's ahead. With no qwhj1027 and Abstract- winning the previous year, some analysts had doubts that they could claim the winning title this year. Thankfully or not, that wasn't the case here at all. With 11 maps lost in this entire tournament, South Korea showed that even with not the strongest players this game could possibly meet there are plenty of players that can still impress in this mode.
+It's not a secret that players from South Korea are so good that they could swap each other and win the entire tournament no matter what's ahead. With no [qwhj1027](https://osu.ppy.sh/users/7547506) and [Abstract-](https://osu.ppy.sh/users/3097304) winning the previous year, some analysts had doubts that they could claim the winning title this year. Thankfully or not, that wasn't the case here at all. With 11 maps lost in this entire tournament, South Korea showed that even with not the strongest players this game could possibly meet there are plenty of players that can still impress in this mode.
 
-United States entered this tournament with almost the same roster with swapping Kisetsunotori to Elux being the only roster change. Although they've fallen to the losers bracket after playing a match against South Korea, United States showed their determination to achieve something worthy. In the end, they've claimed themselfes as grand finalists for the second time in this world cup.
+United States entered this tournament with almost the same roster with swapping [Kisetsunotori](https://osu.ppy.sh/users/3692648) to [Elux](https://osu.ppy.sh/users/12004983) being the only roster change. Although they've fallen to the losers bracket after playing a match against South Korea, United States showed their determination to achieve something worthy. In the end, they've claimed themselfes as grand finalists for the second time in this world cup.
 
 With the recent change of swapping from Group Stages to Qualifiers format, most of the players and viewers didn't expect to see China on a very top despite failing their previous run placing 8th-7th place. Their expectations worth it in the end as they instantly gained their glory reaching winners finals bracket without losing a single match until meeting with South Korea and untimately to United States. Even with a long year absense, China showed that even being absent for an entire year they can still make a good fight with top teams.
 
@@ -134,7 +134,7 @@ The new client has never been that **close** from releasing (there's still a lot
 
 Here are the [patch notes](https://osu.ppy.sh/home/changelog), and the showcase of **the latest mod**! 
 
-To start with this, we want to showcase a pretty chaotic but fancy Repel mod (finally a worthy opponent for badeu?)! 
+To start with this, we want to showcase a pretty chaotic but fancy Repel mod (finally a worthy opponent for [badeu](https://osu.ppy.sh/users/1473890)?)! 
 
 <div align="center">
     <video width="100%" controls>
@@ -153,7 +153,7 @@ Another new feature that some of you might not know of, or just haven't gotten a
 
 ## Summary of this Article
 ### ![](/wiki/shared/mode/osu.png) osu!
-- The Roundtable has ended on insane matches, especially the Utami vs mrekk one! 
+- The Roundtable has ended on insane matches, especially the [Utami](https://osu.ppy.sh/users/7512553) vs [mrekk](https://osu.ppy.sh/users/7562902) one! 
   
   [➥ Find the article here!](#if-you-ask-us-what-is-the-big-event-of-july-itd-be-the-roundtable)
 
@@ -189,12 +189,12 @@ Another new feature that some of you might not know of, or just haven't gotten a
 
 
 - The scores now!
-  Let's start with a 7K score : Onta_Bekasi only lost 0,02 accuracy on the surprisingly difficult *"My Man"*! A flawless performance!
+  Let's start with a 7K score : [Onta_Bekasi](https://osu.ppy.sh/users/8677684) only lost 0,02 accuracy on the surprisingly difficult *"My Man"*! A flawless performance!
 
   [➥ Find the article here!](#the-mania-k-pop-community-is-going-to-be-absolutely-ecstatic-at-this-next-showcase)
 
 - Now, an amazing 4K score! If you thought *My Man* had LNs, wait 'till you watch just over 7 minutes of almost non-stop LN action along with being bridled by intense single-note action and 
-BPM changes throughout the map. [GS] Myuka has done a rampage on the Camellia’s - MI11I0N PP]!
+BPM changes throughout the map. [[GS] Myuka](https://osu.ppy.sh/users/10072733) has done a rampage on the Camellia’s - MI11I0N PP!
 
   [➥ Find the article here!](#wow-just-completely-shocked-at-this-performance-by-gsmyuka-on-camellias---mi11i0n-pp)
 
