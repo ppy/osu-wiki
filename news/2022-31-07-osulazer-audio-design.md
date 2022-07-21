@@ -5,6 +5,8 @@ date: 2022-07-31 00:00:00 +0000
 needs_cleanup: true
 ---
 
+![osu!lazer sound design banner](wiki\shared\news\2022-07-31-lazer-sound-design\lazer-sound-design-banner.png) 
+
 Recently I've been very fascinated with the sound design of osu!lazer, so much so that I decided to deep dive it and do a write-up about it!
 
 Sound design is an integral part to how for example, a person experiences opening a can of Coca-Cola or how a car engine sounds, both in real life and in video games. So when I played osu!lazer I was interested if all the UI effects were made from scratch for lazer, and this took me down a rabbit hole. I ended up speaking with nekodex, the person behind the sound design aspect of osu!lazer and wanted to share my findings with you all. 
