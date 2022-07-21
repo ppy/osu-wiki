@@ -61,7 +61,7 @@ A best-of from this match was made on the BTMC channel, with exclusive interview
 
 Anyway, The Roundtable has now ended, and we wait impatiently the next edition, next year maybe ?
 
-[➥ *Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable) 
+[*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable)
 
 Thanks again to [BTMC](https://osu.ppy.sh/users/3171691) and his staff for this insane event! 
 
