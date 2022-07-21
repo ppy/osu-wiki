@@ -2,7 +2,6 @@
 layout: post
 title: "sound design of osu!(lazer)"
 date: 2022-07-31 00:00:00 +0000
-needs_cleanup: true
 ---
 
 ![](/wiki/shared/news/2022-07-31-lazer-sound-design/header.png)
