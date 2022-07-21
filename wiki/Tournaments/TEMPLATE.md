@@ -145,7 +145,3 @@ example header structure:
 ### Match procedure
 
  -->
-
-<!--
-See https://github.com/ppy/osu-wiki/blob/master/meta/flag-references/en.md for all flag codes and their corresponding countries.
- -->
