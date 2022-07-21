@@ -119,7 +119,7 @@ This taiko play is set at  an average of 411 BPM, yes, you read that right! **41
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 #### The mania k-pop community is going to be absolutely ecstatic at this next showcase. 
-With [Onta_Bekasi](https://osu.ppy.sh/users/8677684) not just clearing, but FCing the deceptively difficult yet soothing myriad of LNs and intricate patterns that [My Man](https://osu.ppy.sh/beatmapsets/514681#mania/1093212) so elegantly puts on display, it is of true bewilderment that [Onta_Bekasi](https://osu.ppy.sh/users/8677684) only suffers a 00.02 accuracy drop across a 3 minute map and over 5000 notes. Truly a wonderful display of skill, enjoyment of the game, and a play that is more than deserving of being showcased.
+With [Onta_Bekasi](https://osu.ppy.sh/users/8677684) not just clearing, but FCing the deceptively difficult yet soothing myriad of LNs and intricate patterns that [My Man](https://osu.ppy.sh/beatmapsets/514681#mania/1093212) so elegantly puts on display, it is of incredible skill, and no small effort, that [Onta_Bekasi](https://osu.ppy.sh/users/8677684) only suffers a 00.02 accuracy drop across a 3-minute map and over 5000 notes. Truly a wonderful display of what osu!mania can offer, enjoyment of the game, and is a play that is more than deserving of being showcased.
 
 <iframe width="100%" height="315" src="<mania 7k>https://youtu.be/embed/1RuyJ3y_ot4" frameborder="0" allowfullscreen></iframe>
 
