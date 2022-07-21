@@ -5,7 +5,7 @@ date: 2022-07-31 00:00:00 +0000
 needs_cleanup: true
 ---
 
-![](/wiki/\shared/news/2022-07-31-lazer-sound-design/header.png)
+![](/wiki/shared/news/2022-07-31-lazer-sound-design/header.png)
 
 Recently I've been very fascinated with the sound design of osu!lazer, so much so that I decided to deep dive it and do a write-up about it!
 
