@@ -22,7 +22,7 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 ---
 
 ### Navigation
-- [What's up on osu! ?](#whats-up-on-osu)
+- [What's up on osu!?](#whats-up-on-osu)
 - [Top Scores of the Month](#top-scores-of-the-month)
 - [New features on osu!lazer (& bonus article!)](#new-features-on-osulazer)
 - [Summary of this article](#summary-of-this-article)
@@ -30,7 +30,7 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 
 ---
 
-## What's up on osu! ? 
+## What's up on osu!? 
 - *Latest updates, events… and even more!*
 
 ### ![](/wiki/shared/mode/osu.png) osu! 
@@ -42,7 +42,7 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 
 With the players showcased above, we have [BTMC](https://osu.ppy.sh/users/3171691) and [Happystick](https://osu.ppy.sh/users/256802) commentating, a genius roster who make sense for this first **IRL osu! invitational**! 
 
-As if it wasn't enough, [mrekk](https://osu.ppy.sh/users/7562902) is there too! If you weren't able to follow the event, no worries! The official Roundtable's YouTube channel has the rediffusions [here](https://www.youtube.com/channel/UC6fSQd4oKBPxkBR93GucCUg/featured)!
+As if it wasn't enough, [mrekk](https://osu.ppy.sh/users/7562902) was there too! If you weren't able to follow the event, no worries! The official Roundtable's YouTube channel has the full VODs [here](https://www.youtube.com/channel/UC6fSQd4oKBPxkBR93GucCUg/featured)!
 
 With that many great players, such as [mrekk](https://osu.ppy.sh/users/7562902), [Utami](https://osu.ppy.sh/users/7512553), [RyuK](https://osu.ppy.sh/users/6304246) and many others, this tournament was incredible! The competition's spirit was mixed with the entertaining cast and gimmicks of [BTMC](https://osu.ppy.sh/users/3171691) and the result was epic!
 
@@ -107,8 +107,7 @@ With [Onta_Bekasi](https://osu.ppy.sh/users/8677684) not just clearing, but FCin
 <iframe width="100%" height="315" src="<mania 7k>https://youtu.be/embed/1RuyJ3y_ot4" frameborder="0" allowfullscreen></iframe>
 
 #### Wow. Just completely shocked at this performance by [[GS]Myuka](https://osu.ppy.sh/users/10072733) on [Camellia’s - MI11I0N PP](https://osu.ppy.sh/beatmapsets/1388481#mania/2867552). 
-If you thought *My Man* had LNs, wait til you watch just over 7 minutes of almost non-stop LN action along with being bridled by intense single-note action and 
-BPM changes throughout the map. 
+If you thought *My Man* had LNs, wait until you watch just over 7 minutes of almost non-stop LN action along with being bridled by intense single-note action and BPM changes throughout the map. 
 
 <iframe width="100%" height="315" src="<mania 4k>https://youtu.be/embed/nc_ejGtZKUM" frameborder="0" allowfullscreen></iframe>
 
@@ -122,7 +121,7 @@ Coming in with a HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy
 ## New Features on osu!lazer!
 The new client has never been that **close** from releasing (there's still a lot of work on it!), and has **new mods**, more original than never! 
 
-Here's the [patch note](https://osu.ppy.sh/home/changelog), and the showcase of **the latest mod**! 
+Here are the [patch notes](https://osu.ppy.sh/home/changelog), and the showcase of **the latest mod**! 
 
 To start with this, we want to showcase a pretty chaotic but fancy Repel mod (finally a worthy opponent for badeu?)! 
 
@@ -150,7 +149,7 @@ That said, you're maybe thinking that this Lazer section isn't long enough. Righ
   
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
-- The osu!mania World Cup 2022 is the road to the greatness for the Mania top players! They will brawl again in this great arena! Who's gonna take the crown ?
+- The osu!mania World Cup 2022 is the road to the greatness for the Mania top players! They will brawl again in this great arena! Who's gonna take the crown?
   
   [➥ Find the article here!](#in-august-the-osumania-top-players-will-brawl-in-the-osumania-world-cup-2022)
 
@@ -166,13 +165,13 @@ BPM changes throughout the map. [GS] Myuka has done a rampage on the Camellia’
   [➥ Find the article here!](#wow-just-completely-shocked-at-this-performance-by-gsmyuka-on-camellias---mi11i0n-pp)
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
-- The Catch World Cup 2022 has ended on pretty amazing performances ! Is South Korea dominating two modes at the same time ?
+- The Catch World Cup 2022 has ended on pretty amazing performances ! Is South Korea dominating two modes at the same time?
   
   [➥ Find the article here!](#at-the-beginning-of-july-the-recent-eleventh-iteration-of-osucatch-world-cup-has-been-concluded)
 
 
 
-- The score of the month, according to us, is the [YesMyDarkness’](https://osu.ppy.sh/users/4158549/fruits) HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy.sh/beatmapsets/521900#fruits/1108507)! Everybody screeeeeeeeeeeeeeeeeam!
+- The score of the month, according to us, is the [YesMyDarkness’](https://osu.ppy.sh/users/4158549/fruits) HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy.sh/beatmapsets/521900#fruits/1108507)! Somebody screeeeeeeeeeeeeeeeeam!
   
   [➥ Find the article here!](#everybody-scream-even-with-being-the-number-one-osucatch-player-in-the-world-a-play-such-as-yesmydarkness-is-no-small-feat)
 
@@ -187,7 +186,7 @@ BPM changes throughout the map. [GS] Myuka has done a rampage on the Camellia’
   [➥ Find the article here!](#whew-if-you-thought-the-pick-for-osu-was-crazy-wait-till-you-watch-shinchikuhomes-dt-play-on-apollo)
 
 ## Month's Community Quiz
-A monthly question or puzzle for you !
+A monthly question or puzzle for you!
 
 ---
 
@@ -204,7 +203,7 @@ We wanted to thank the osu!team and the contributors to [osu!lazer](https://gith
 
 If you're interested on seeing the creation processus, the backstages of osu!, please join the [osu!dev server](https://discord.gg/ppy)! (Articles from external contributors are welcome)
 
-While waiting for the next article, we thank in advance all of the ones who'll send us messages about subjects you want us to cover. If you have any feedback or thoughts about the osu!monthly, pour it all in the forum [discussion thread]()!
+While waiting for the next article, we want to thank in advance all of the community members who'll send us messages about subjects you want covered. If you have any feedback or thoughts about the osu!monthly, pour it all in the forum [discussion thread]()!
 
 It's a real honor for us to write for you, the community. Thanks for reading, and see you soon for the next article, in September! ❤️
 
