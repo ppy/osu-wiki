@@ -5,7 +5,13 @@ date: 2022-07-28
 author: Soetch, Blushing, wowcake, 0x84f
 ---
 
-This is the new community's news post : osu!monthly (a new one, again)!
+![](/wiki/shared/news/2022-08-01-osumonthly-1/banner-july.png)
+
+# Introducing osu!monthly
+
+It has been a long time since the last osu!weekly was released and luckily, we have something exciting to show you: osu!monthly! The new community news post format.
+
+6 years passed in which the community didn't have a regular post. Today, we're coming in with ***osu!monthly***, a bigger format.
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/banner-july.png)
 
@@ -13,7 +19,7 @@ This is the new community's news post : osu!monthly (a new one, again)!
 
 It's been years since **osu!weekly's** release has been paused, 6 years since the community didn't have a regular post. Today, we're coming in with **__osu!monthly__**, a bigger format.
 
-We think we did a good job gathering information for **July**, but we started the 07/17, so we had only two week to write, review and commit this article. 
+We think we did a good job gathering information for **July**, but we started on the 17 July, so we had only two weeks to write, review and commit this article.
 
 It'll never be the same as osu!weekly, but we're working hard to propose a frequent format, please be kind with us, new writers! We're highly receptive to it, so feedback is highly appreciated!
 
@@ -31,43 +37,47 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 ---
 
 ## What's up on osu!? 
-- *Latest updates, events… and even more!*
+
+Here are the latest updates, events and even more!
 
 ### ![](/wiki/shared/mode/osu.png) osu! 
-#### If you ask us what is the big event of July, it'd be the **Roundtable**!
+
+#### If you ask us what is the big event of July, it'd be the Roundtable!
 <br>
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/roundtable/RTable_title.png)
+
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/roundtable/RTable_players.jpg)
 
-With the players showcased above, we have [BTMC](https://osu.ppy.sh/users/3171691) and [Happystick](https://osu.ppy.sh/users/256802) commentating, a genius roster who make sense for this first **IRL osu! invitational**! 
+With the players showcased above, we have [BTMC](https://osu.ppy.sh/users/3171691) and [Happystick](https://osu.ppy.sh/users/256802) commentating, genius roster who make sense for this first **IRL osu! invitational**!
 
 As if it wasn't enough, [mrekk](https://osu.ppy.sh/users/7562902) was there too! If you weren't able to follow the event, no worries! The official Roundtable's YouTube channel has the full VODs [here](https://www.youtube.com/channel/UC6fSQd4oKBPxkBR93GucCUg/featured)!
 
 With that many great players, such as [mrekk](https://osu.ppy.sh/users/7562902), [Utami](https://osu.ppy.sh/users/7512553), [RyuK](https://osu.ppy.sh/users/6304246) and many others, this tournament was incredible! The competition's spirit was mixed with the entertaining cast and gimmicks of [BTMC](https://osu.ppy.sh/users/3171691) and the result was epic!
 
-In terms of epic, we were served with the finals : [mrekk](https://osu.ppy.sh/users/7562902) vs [Utami](https://osu.ppy.sh/users/7512553)! Despite mrekk's defeat against Utami, his performances were impressive, along with Utami's. His first rank on the leaderboard is indeed his throne.
+In terms of epic, we were served with the finals: [mrekk](https://osu.ppy.sh/users/7562902) vs [Utami](https://osu.ppy.sh/users/7512553)! Despite mrekk's defeat against Utami, his performances were impressive, along with Utami's. His first rank on the leaderboard is indeed his throne.
 
 A best-of from this match was made on the BTMC channel, with exclusive interviews of the players, by BTMC (what a surprise, ahah) and Happystick, the casters of this amazing show! You can find it [here](https://www.youtube.com/watch?v=Y7LqBZL)!
 
-Anyway, The Roundtable has now ended, and we wait impatiently the next edition, next year maybe ?
+Anyway, The Roundtable has now ended, and hopefully this towering experience returns next year!
 
-[➥ *Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable) 
+[*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable)
 
 Thanks again to [BTMC](https://osu.ppy.sh/users/3171691) and his staff for this insane event! 
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
-#### In August, the osu!mania top players will brawl in the *osu!mania World Cup 2022*!
+
+#### In August, the osu!mania top players will brawl in the osu!mania World Cup 2022!
 
 As it is starting the **6th of August**, we can't actually talk about it more, but we are excited to say that the next osu!monthly is going to have a **big article** about it, and maybe an **interview of the winner**!
 
 Please stay tuned about the next article, and we're moving on the next section!
 
-[➥ *Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open) 
-
+[*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open) 
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
-#### At the beginning of July, the recent eleventh iteration of osu!catch World Cup has been concluded.
+
+*At the beginning of July, the recent eleventh iteration of osu!catch World Cup has been concluded.*
 
 For the fourth time in a row and a total of eight wins, South Korea are the osu!catch champions. The roster consisting of JISAN, Rells, YesMyDarknesss, x_angelkawaii_x, DreStar and Byeol. With second and third places placed by United States (Secre, Lexii, Dahcreeper, Zak, Colin, Elux) and China (Dusk, Callionet, Coevir, Crystal, KagamineRin02, Kitakami).
 
@@ -80,16 +90,20 @@ With the recent change of swapping from Group Stages to Qualifiers format, most 
 There's still plenty of tournaments running though even after the conclusion of CWC! The digit tournaments, 4 Digit Catch World Cup 2022 and 3 Digit Catch World Cup 2022, are up and running and a second iteration of Catch French Dual Cup 2 currently in the registered phase. There's nothing to talk about these tournaments yet but maybe with the new osu!monthly release we can fully recap what was going on with conclusions and stuff!
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
- #### As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, Taiko takes it upon themself to rival even that of *The Roundtable* with their very own annual entry of **[Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)**! 
+
+As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, osu!taiko takes it upon itself to rival even that of *The Roundtable* with their very own annual entry of **[Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)**!
 
 As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsus, and if we even dare-say, taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
 
 ---
 
 ## Top scores of the Month!
-### ![](/wiki/shared/mode/osu.png) osu! 
-#### As if the impossible could not be done only once, but twice!? 
-[[Karcher]](https://osu.ppy.sh/users/11443437) is an absolute madman! Achieving an insane Full Combo on [*Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo*](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991) to ever hit the ranked section. For just over 8 minutes of gameplay at a staggering 220 BPM it is no small feat, and thus, should be showed off for osu!’s monthly pick! 
+
+### ![](/wiki/shared/mode/osu.png) osu!
+
+#### As if the impossible could not be done only once, but twice!?
+
+[\[Karcher\]](https://osu.ppy.sh/users/11443437) is an absolute madman! Achieving an insane Full Combo on [*Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo*](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991) to ever hit the ranked section. For just over 8 minutes of gameplay at a staggering 220 BPM it is no small feat, and thus, should be showed off for osu!’s monthly pick!
 
 <iframe width="100%" height="315" src="https://youtube.com/embed/HMQKYkffUjk" frameborder="0" allowfullscreen></iframe>
 
@@ -212,4 +226,4 @@ While waiting for the next article, we want to thank in advance all of the commu
 It's a real honor for us to write for you, the community. Thanks for reading, and see you soon for the next article, in September! ❤️
 
 ---
-➥ *[Soetch](https://osu.ppy.sh/users/15970028), [Blushing](https://osu.ppy.sh/users/5927823), [wowcake](https://osu.ppy.sh/users/16121851), [0x84f](https://osu.ppy.sh/users/7944724)  & [Hubz](https://osu.ppy.sh/users/10379965) for this AMAZING banner!*
+—[Soetch](https://osu.ppy.sh/users/15970028), [Blushing](https://osu.ppy.sh/users/5927823), [wowcake](https://osu.ppy.sh/users/16121851), [0x84f](https://osu.ppy.sh/users/7944724) & [Hubz](https://osu.ppy.sh/users/10379965) for this AMAZING banner!
