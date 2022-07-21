@@ -484,6 +484,3 @@ Sunday, 14 June 2020:
 1. Knockout stage will be held after the results from Group Stage have been determined.
 2. Knockout stage will adopt the double-elimination bracket. This means teams have two chance of losses before getting eliminated.
 3. Banning system is the same referring to the one in the [stage regulations section](#stage-regulations).
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

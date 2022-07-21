@@ -343,5 +343,3 @@ For participants who is not eligible to fulfill the condition above, they need t
 ## Trivia
 
 - she's purity now is ascended from Sudden Death into Last Round.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

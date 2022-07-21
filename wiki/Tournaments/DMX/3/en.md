@@ -407,26 +407,3 @@ Sunday, 25 November 2018:
 
 1. If a player were to disconnect in a non-warmup beatmap within the first 30 seconds, the beatmap will be replayed. However, this may only happen once in a match per player. Any repeated disconnects will count as a map forfeit.
 2. In the case of a tie, the beatmap will not be scored and may be picked again in the future, the picking order will remain the same. In the case of a Tiebreaker tie, the Tiebreaker will be replayed.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

@@ -192,5 +192,3 @@ Si la difficulté a beaucoup de problèmes de hitsound, **ne les signalez pas to
 - **[Critères de classement d'osu!mania](/wiki/Ranking_Criteria/osu!mania)**
 - **[Naxess' Mapset Verifier (outil de modding)](https://github.com/Naxesss/MapsetVerifier)**
 - **[Evening's SV Crash Course](https://github.com/Eve-ning/SV-Crash-Course-LaTeX/blob/master/builds/11082018.pdf)**
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"

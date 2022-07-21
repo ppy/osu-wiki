@@ -49,7 +49,3 @@ While preparing the round of March 2021, most administrative tasks for Loved tra
 ## Present day
 
 [Project Loved](/wiki/Community/Project_Loved) is the current system being used to move maps to Loved. More details and information about how to get beatmaps up for voting in Project Loved can be found in its wiki article.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

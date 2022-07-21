@@ -432,17 +432,3 @@ Monday, 12 August 2019:
 2. All stages will be held between Friday to Sunday, with UTC+7 as default timezone.
 3. Match Schedules will be released on the Sunday after current stage is finished.
 4. Reschedules are allowed by submitting a request and proof that contains agreement from both participants to reschedule, request must be submitted via reserved text-channel on AOTS' Discord Server.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

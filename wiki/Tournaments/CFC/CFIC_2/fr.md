@@ -351,8 +351,3 @@ Dimanche, 23 Février 2020:
 2. Quarts-de-finale: Best of 9 (premier à 5 points)
 3. Demi-finales: Best of 11 (premier à 6 points)
 4. **Finales et Grandes Finales**: Best of 13 (premier à 7 points)
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"

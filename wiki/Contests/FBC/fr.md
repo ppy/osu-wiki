@@ -144,14 +144,3 @@ La musique sélectionnée pour cette édition du tournoi est [Thaehan - Sunrise]
 ### Lien
 
 - [Page de présentation et résultats](https://osu.ppy.sh/community/forums/topics/754821)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
-[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

@@ -393,8 +393,3 @@ See the [Qualifiers results sheet](https://docs.google.com/spreadsheets/d/1iie_z
 2. In the lobby, the players will play through the entire mappool once, in the order given on the mappool sheet. This means you will play through the NM maps, then HD, then HR, and then DT.
 3. In the event of any disconnects, the player who disconnects will be allowed to replay the map after the run by themselves.
 4. Qualifier scores will be hidden until all players have played, in order to prevent seed manipulation, which means that the player placing 32nd will play against the player placing 1st, etc.
-
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"

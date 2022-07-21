@@ -69,12 +69,3 @@ Below is a list of links to answers to each question. Clicking on any of them wi
 ## Ruleset
 
 - You cannot ask [mangomizer](https://osu.ppy.sh/users/1893718) for information, hints, or answers.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

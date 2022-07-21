@@ -344,9 +344,3 @@ Lundi, 4 Mars 2019:
    - Le FreeMod est en "forcemod", ce qui veut dire que chaque joueur doit utiliser au moins un mod.
    - Le Tiebreaker n'est pas en "forcemod", mais vous pouvez choisir un mod.
    - Les mods éligibles pour le FreeMod et le Tiebreaker sont Easy, Flashlight, HardRock et Hidden.
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"

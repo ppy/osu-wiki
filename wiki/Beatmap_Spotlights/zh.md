@@ -183,23 +183,3 @@ tags:
 2020 年八月 ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底  ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) 和 ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
 
 在第 4 赛季（2021 春）后，项目进入停顿期。直至 2021 年 9 月，出现了复兴的倾向，![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) 卸任，而 ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) 加入管理团队，于 2022 年 2 月，在人员重组后，项目恢复了运作。
-
-[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
-[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"
-[flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
-[flag_GB]: /wiki/shared/flag/GB.gif "英国"
-[flag_HU]: /wiki/shared/flag/HU.gif "匈牙利"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
-[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
-[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
-[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
-[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
-[flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
-[flag_TH]: /wiki/shared/flag/TH.gif "泰国"
-[flag_TN]: /wiki/shared/flag/TN.gif "突尼斯"
-[flag_US]: /wiki/shared/flag/US.gif "美国"

@@ -347,11 +347,3 @@ This competition has come to an end and resulted in the following podium:
 10. In the event of a tie during a map, the map is to be replayed. Should the map need to be replayed more than twice, then the player who selected that map may select another map with the replayed map being banned for the rest of the match. Should the pool run out of eligible maps this way, any nonbanned map may be picked again, overruling the previous rule of "maps picked cannot have been picked during the match yet".
 11. Both players are allowed to restart a map at most once due to disconnects and other technical issues if the map has not proceeded for 30 seconds or longer. Same mods and roster must be used should a restart commence. Please try to fix any and all issues as much as possible prior to the match.
 12. The referees may nullify rules at their discretion if necessary, and have the final say in what occurs during the match.
-
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

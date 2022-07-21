@@ -53,6 +53,3 @@ Daftar acara-acara LAN yang telah diselenggarakan oleh osu! UCI dapat dilihat pa
 - ![][flag_US] Royce "[niseboi](https://osu.ppy.sh/users/2747929)" Sato
 - ![][flag_US] Shannon "[iShipxx](https://osu.ppy.sh/users/7546335)" Chen
 - ![][flag_US] Victor "[lalipo](https://osu.ppy.sh/users/2584801)" Stolle
-
-[flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

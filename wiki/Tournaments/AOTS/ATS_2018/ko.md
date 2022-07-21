@@ -492,17 +492,3 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 2. 16강과 8강에서는 5번 이겨야합니다.
 3. 4강에서는 6번 이겨야합니다.
 4. 결승과 최종결승에선 7번 이겨야합니다.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "오스트레일리아"
-[flag_CA]: /wiki/shared/flag/CA.gif "캐나다"
-[flag_CL]: /wiki/shared/flag/CL.gif "칠레"
-[flag_HK]: /wiki/shared/flag/HK.gif "홍콩"
-[flag_ID]: /wiki/shared/flag/ID.gif "인도네시아"
-[flag_JP]: /wiki/shared/flag/JP.gif "일본"
-[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
-[flag_MY]: /wiki/shared/flag/MY.gif "말레이시아"
-[flag_PH]: /wiki/shared/flag/PH.gif "필리핀"
-[flag_SG]: /wiki/shared/flag/SG.gif "싱가포르"
-[flag_TW]: /wiki/shared/flag/TW.gif "대만"
-[flag_US]: /wiki/shared/flag/US.gif "미국"
-[flag_VN]: /wiki/shared/flag/VN.gif "베트남"

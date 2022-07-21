@@ -68,18 +68,3 @@ A more detailed leaderboard is available on [Google Sheets](https://docs.google.
 ## Links
 
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/822857)
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

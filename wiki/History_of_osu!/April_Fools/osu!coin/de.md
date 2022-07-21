@@ -40,5 +40,3 @@ Das Update wurde generell gut angenommen von den Spielern, da es eine willkommen
 
 - osu!academy führt osu!coins vor: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
 - peppy kündigt osu!coins an: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australien"

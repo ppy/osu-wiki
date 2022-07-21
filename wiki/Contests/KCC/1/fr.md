@@ -103,8 +103,3 @@ Pour chaque difficulté admissible soumise, le jury attribuera des points en fon
 - **Cohésion (25 pts) :** La cohérence de la soumission en ce qui concerne la structure, la représentation de la musique, le flow, les hitsounds, etc., notamment entre les différentes sections.
 - **Créativité (25 pts) :** Dans quelle mesure la proposition fait preuve d'originalité et d'unicité par rapport aux autres propositions, avec un respect raisonnable de la jouabilité.
 - **Impression des juges (25 pts) :** Il s'agit de la partie de la note laissée aux préférences personnelles des juges sur la soumission.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
-[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"

@@ -370,7 +370,3 @@ Sunday, 7 May 2017:
 2. In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
 3. In Semifinals and Finals, you need to win 6 beatmaps to win a match. (Best-of-11)
 4. In the Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"

@@ -386,7 +386,3 @@ Sunday, 3 May 2020:
 2. Quarterfinals: Best of 9 (first to 5 points)
 3. Semifinals: Best of 11 (first to 6 points)
 4. **Finals and Grand Finals**: Best of 13 (first to 7 points)
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

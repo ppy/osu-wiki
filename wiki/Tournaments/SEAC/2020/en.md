@@ -538,18 +538,3 @@ Monday, 11 January 2021:
 3. the Round of 16 and Quarterfinals: Best-of-9 (First to 5 points)
 4. the Semifinals: Best-of-11 (First to 6 points)
 5. the Finals and Grand Finals: Best-of-13 (First to 7 points)
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

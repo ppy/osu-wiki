@@ -381,5 +381,3 @@ tags:
 3. Setiap peserta bebas memilih dua beatmap warm-up. Tidak diperbolehkan menggunakan beatmap dengan konten yang meragukan.
    - Peserta hanya boleh memilih satu beatmap warm-up pada babak grup.
 4. Hasil dari setiap match wajib dibagikan/dipos di topik diskusi oleh staf (wasit) menyertakan link mp dan screenshot.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

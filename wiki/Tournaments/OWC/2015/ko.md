@@ -430,37 +430,3 @@ outdated_translation: true
    1. In the stages Quarter-finals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
-
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif

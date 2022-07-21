@@ -386,5 +386,3 @@ Sunday, 29 November 2020:
 4. All maps (including the Tiebreaker) will be played with the FreeMod option enabled. Each player *may* opt to play a map with either Hidden, FadeIn, Mirror, Flashlight, or any possible combinations of the four mods.
    - Playing a map without any mods activated whatsoever is allowed, however playing a map with a mod that is not mentioned above (i.e. Random) is **not** allowed.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

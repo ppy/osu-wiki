@@ -79,13 +79,3 @@ Judging will be based on a holistic and generic scoring method. Since creativity
 - **Execution:** Does your map make sense, are the gimmicks clearly executed?
 
 There will be a total of 30 points evenly distributed among these criteria. Judges will be expected to provide substance to their judgements to keep the spirit of the contest friendly.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

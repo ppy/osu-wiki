@@ -61,6 +61,3 @@ El [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team) re
 
 - La insignia de grupo `BOT` es mostrada en cuentas con un grupo primario de `Chat Bots` (group #29). La lista grupal no es pública.
 - Algunas cuentas personales están en el grupo de Chat Bots debido a que sus dueños no querían o no solicitaron tener su cuenta separada de su servicio, por ejemplo ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) y ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Este servicio no se ofrece actualmente y los nuevos bots entrando al grupo siempre se les proporcionara una cuenta exclusiva.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"

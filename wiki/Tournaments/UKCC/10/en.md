@@ -709,21 +709,3 @@ Top 10 qualification results:
 [^lb-note-1]: Match was postponed due to tech issues, Voss was unable to complete the match after postponing.
 [^lb-note-2]: Kathalshame left before the last map.
 [^lb-note-3]: FuzzyL left mid-match.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

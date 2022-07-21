@@ -1276,16 +1276,3 @@ Sunday, 20 January 2019:
 ### Players and staff behaviour
 
 - This is very simple. Players and staff must have read this ruleset in its entirety. Any person participating in this tournament must be respectful of everyone. People will be banned and blacklisted if that is not respected. This counts for players as much as it counts for staff.
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BF]: /wiki/shared/flag/BF.gif "Burkina Faso"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

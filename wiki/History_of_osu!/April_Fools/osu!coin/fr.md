@@ -39,5 +39,3 @@ La mise à jour a été généralement bien accueillie par les joueurs, qui y on
 
 - L'osu!academy présente les osu!coins : [Introduction à osu!coins (poisson d'avril 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
 - l'annonce de peppy concernant les osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"

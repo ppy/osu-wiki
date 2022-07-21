@@ -572,8 +572,3 @@ Wednesday, 15 September 2021:
    - There is no bonus multiplier for FL.
    - Playing a FreeMod pick without any mods activated is not allowed.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

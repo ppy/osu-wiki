@@ -381,17 +381,3 @@ The following is a list of the longest consecutive days a player has held the ra
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 2014-01-27 | 2014-06-20 | 144 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-12-31 | 2016-05-12 | 133 |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2010-10-03 | 2011-01-20 | 109 |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"

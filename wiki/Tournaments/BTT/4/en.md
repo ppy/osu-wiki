@@ -445,26 +445,3 @@ Sunday, 10 March 2019:
 2. Matches are allowed to overlap if referees are available.
 3. You must complete your match at the designated time or both players are eliminated.
    - However if you and your opponent can come up with a better time than what we have schedule for you, please inform us of this. We will change your match if informed before the Thursday before the week-end of matches.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_QA]: /wiki/shared/flag/QA.gif "Qatar"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

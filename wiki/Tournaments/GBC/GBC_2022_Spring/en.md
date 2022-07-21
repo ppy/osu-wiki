@@ -462,10 +462,3 @@ Sunday, April 10, 2022:
 [^rs-summary-seed]: Seed: the top 8 advance to the next round.
 [^rs-summary-bd]: Beatmap difference.
 [^rs-summary-bu]: Buchholz score.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -540,21 +540,3 @@ Sunday, 26 September 2021:
 5. The tiebreaker will be played under FreeMod conditions, although players are not forced to pick mods.
    - The x0.7 score penalty for NoMod players does not apply in the tiebreaker. 
 6. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -27,6 +27,3 @@ See the [osu! at UCSD tournament index page](/wiki/Tournaments/osu!_at_UCSD) for
 - ![][flag_CN] Jason "[friidryce](https://osu.ppy.sh/users/8271310)" Au
 - ![][flag_US] Peter "[Potor10](https://osu.ppy.sh/users/8029687)" Liu
 - ![][flag_US] Philip "[philisophic](https://osu.ppy.sh/users/7040672)" Lin
-
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

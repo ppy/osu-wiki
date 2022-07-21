@@ -383,8 +383,3 @@ Seeding for this tournament will be as follows. This is a tournament of 64 playe
 - Each round schedule shall be released a week before the actual matches take place.
 - We are looking to complete each round on the weekends.
 - In special cases, with the agreement of both players; matches can also be played before this during the week. This is only if advance notice is given.
-
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

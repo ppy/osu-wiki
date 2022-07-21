@@ -103,17 +103,3 @@ The CES League osu! Tournament 2 is run by various community members.
    - Easy has a 2x score multiplier.
 7. NoFail is forced throughout the entire tournament.
 8. Roll winner gets to ban the first tiebreaker.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_MN]: /wiki/shared/flag/MN.gif "Mongolia"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

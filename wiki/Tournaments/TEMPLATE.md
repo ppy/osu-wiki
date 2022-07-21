@@ -150,5 +150,3 @@ example header structure:
 Add flag references here.
 Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
  -->
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"

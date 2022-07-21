@@ -330,7 +330,3 @@ Results of the main bracket can be found on the Challonge page linked above.
 | Round of 16 & Losers Bracket Rounds 3 & 4, Quarterfinals & Losers Bracket Rounds 5 & 6 | Win five maps (Best-of-9) |
 | Semi-finals & Losers Bracket Rounds 7 & 8 | Win six maps (Best-of-11) |
 | Finals - Week 1 & 2 | Win seven maps (Best-of-13) |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -185,28 +185,3 @@ Pour plus d'informations sur les résultats, voir l'[aperçu détaillé des rés
 | N/A | Team Name | N/A |
 | N/A | Bowkutoly Encore | N/A |
 | N/A | Down | N/A |
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "République tchèque"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_GG]: /wiki/shared/flag/GG.gif "Guernesey"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
-[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RS]: /wiki/shared/flag/RS.gif "Serbie"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turquie"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

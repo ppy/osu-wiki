@@ -516,17 +516,3 @@ Friday, 1 June 2018:
 2. In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
 3. In Semifinals, you need to win 6 beatmaps to win a match. (Best-of-11)
 4. In the **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

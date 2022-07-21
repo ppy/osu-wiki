@@ -68,18 +68,3 @@ Un classement plus détaillé est disponible sur [Google Sheets](https://docs.go
 ## Liens
 
 - [Sujet du concours sur le forum](https://osu.ppy.sh/community/forums/topics/822857)
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

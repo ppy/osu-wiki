@@ -385,17 +385,3 @@ Berikut ini adalah daftar hari terlama berturut-turut seorang pemain memegang pe
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 2014-01-27 | 2014-06-20 | 144 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-12-31 | 2016-05-12 | 133 |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2010-10-03 | 2011-01-20 | 109 |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
-[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
-[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
-[flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
-[flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
-[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"

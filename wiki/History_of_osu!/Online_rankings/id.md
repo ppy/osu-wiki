@@ -48,7 +48,3 @@ Mulai 3 Juni 2021, pada [peringkat *performance* osu!mania](https://osu.ppy.sh/r
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
-[flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"

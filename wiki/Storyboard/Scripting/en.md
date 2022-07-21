@@ -37,5 +37,3 @@ might be useful reference for historical topics in/around this article
 - first public sb specs https://osu.ppy.sh/community/forums/topics/1869
 - first(or close to it) video tutorial about scripting https://www.youtube.com/watch?v=UJ1YLDs-bZg
 -->
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"

@@ -389,5 +389,3 @@ Monday, 7 March 2022:
 4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

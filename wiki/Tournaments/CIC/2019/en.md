@@ -437,6 +437,3 @@ Monday, 16 September 2019:
    - Warm-ups do not apply in the Group stage lobbies.
 4. In case of a tiebreaker, **the tiebreaker beatmap will be played without any mods enabled** (NoMod).
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

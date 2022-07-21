@@ -386,23 +386,3 @@ Sunday, 15 January 2017:
    - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

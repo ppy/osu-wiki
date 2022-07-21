@@ -154,11 +154,3 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 3. Alle Double-Elimination Etappen finden entweder am Samstag oder am Sonntag statt.
 4. Die Zeiten der Partien werden vom Turnier Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Der Turnier Management bemüht sich die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
 5. Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Es müssen vom jeweiligen Team mindestens 3 Spieler anwesend sein, ansonsten zählt die Partie als aufgegeben.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australien"
-[flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spanien"
-[flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polen"
-[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"

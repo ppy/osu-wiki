@@ -100,23 +100,3 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
 5. In the event of any disconnects, the player(s) who disconnect will be allowed to replay the map after the run by themselves.
 6. You will have 3 players in the lobby from your team at a time. You may switch players in and out during the match however you like.
 7. Qualifier scores will be hidden until all teams have played, in order to prevent seed manipulation.
-
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_LU]: /wiki/shared/flag/LU.gif "Luxembourg"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"

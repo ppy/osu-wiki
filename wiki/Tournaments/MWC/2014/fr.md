@@ -138,13 +138,3 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 4. Chaque phase à élimination direct sera organisé soit le Samedi soit le Dimanche selon le mode (se référer au calendrier).
 5. La programmation sera fait par la direction du tournoi. Les programmes seront diffusés le Dimanche avant le premier match de le phase courante. (par exemple le 3 Août pour les phases de poules(4K)). Les organisateurs du tournoi essayeront de programmer les matchs en fonction des fuseaux horaires des participants.
 6. Les capitaines sont tenus responsables de la disponibilité de leur équipe à l'heure du match. Le choix par la direction de permettre à un capitaine de recruter 3 autres joueurs dans son équipe plutôt que 1 a été justement fait en ce sens pour lui permettre une gestion plus souple de la disponibilité de son équipe. Si un capitaine ne peut présenter une équipe de 2 joueurs à l'heure du match (en plus du délai maximal accordé), son équipe sera considérée comme ayant déclaré forfait.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
-[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

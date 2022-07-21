@@ -179,22 +179,3 @@ Pimpinan proyek telah berubah beberapa kali dalam sejarahnya. ![][flag_US] [Sapp
 Berganti nama menjadi [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) pada Maret 2017, sistem itu sendiri sebagian besar tetap konsisten sambil menambahkan hadiah tambahan seperti medali dan meningkatkan presentasi Beatmap Spotlights lebih lanjut. Selama perbaikan internal Quality Assurance Team, tanggung jawab untuk proyek telah dialihkan ke ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) dan mengimplementasikan kembali seleksi berbasis komunitas. Pada November 2018, frekuensi Spotlights telah diubah menjadi [siklus rilis musiman](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Pada Maret 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) bergabung kembali dengan pimpinan proyek bersama dengan Kurokami, keduanya mengerjakan ulang menjadi bentuk baru dan menyusun tim baru yaitu osu! kurator.
 
 Pada Agustus 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) mengundurkan diri sebagai pemimpin proyek Beatmap Spotlights. Pada akhir November 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) turut mengundurkan diri di mana setelahnya kepemimpinan atas proyek Beatmap Spotlights dipercayakan kepada ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) bersama dengan ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
-[flag_DO]: /wiki/shared/flag/DO.gif "Republik Dominika"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
-[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungaria"
-[flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
-[flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
-[flag_MX]: /wiki/shared/flag/MX.gif "Meksiko"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

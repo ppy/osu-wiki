@@ -634,18 +634,3 @@ Top 10 qualification results:
 
 [^lb-note-1]: The match was concluded due to pedeko having to leave.
 [^lb-note-2]: The match was concluded due to Claus sustaining a hand injury and no longer being able to compete.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_GG]: /wiki/shared/flag/GG.gif "Guernsey"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

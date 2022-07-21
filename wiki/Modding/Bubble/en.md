@@ -53,5 +53,3 @@ In both cases, the beatmap thread's icon would be set to a popped bubble (![Popp
 ## See also
 
 - *[the end of bubbles](https://www.youtube.com/watch?v=9Za-1_hxkxE)*, an episode of the [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube series
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"

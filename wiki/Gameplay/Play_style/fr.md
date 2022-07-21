@@ -171,6 +171,3 @@ Un autre inconvénient est que les beatmaps d'osu!mania ont peut-être été con
 
 - **Ensemble guitare/batterie** (5/6K) : La manette par défaut du jeu de rythme sur le thème de la guitare ([Guitar Hero](https://fr.wikipedia.org/wiki/Guitar_Hero_(série_de_jeux_vidéo)))/de la batterie ([DrumMania](https://fr.wikipedia.org/wiki/GuitarFreaks_et_DrumMania)). Les joueurs jouent sur leur guitare ou frappent la batterie ainsi que les cymbales pour entrer des commandes. Les joueurs de batterie sont désavantagés par rapport aux joueurs de guitare car ils ne peuvent saisir que deux commandes à la fois sans une pédale de frappe spéciale.
 - **Contrôleur Para Para** (5K) : Il s'agit de la manette par défaut de la série [Para Para Paradise](https://fr.wikipedia.org/wiki/Para_Para_Paradise). Les joueurs déplacent leurs bras, leurs coudes et leurs mains au-dessus des capteurs de proximité pour entrer des commandes basées sur la position des mains à travers les capteurs de proximité. L'inconvénient est la sensibilité du récepteur d'entrée et la limitation physique du joueur.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

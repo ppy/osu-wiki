@@ -379,7 +379,3 @@ Saturday, 22 March 2014
 - Each round schedule shall be released a week before the actual matches take place.
 - We are looking to complete each round on the weekends.
 - In special cases, with the agreement of both players, matches can also be played before this during the week. This is only if advance notice is given.
-
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"

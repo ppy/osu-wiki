@@ -98,8 +98,3 @@ tags:
 - **Cohesion (25 pts):** 맵이 구조, 음악 표현, 흐름에 대해 얼마나 일관성을 가지고 있는가
 - **Creativity (25 pts):** 다른 맵과 비교했을 때 플레이성 면에서 독창성과 특별함을 가지고 있는가
 - **Judge's Impression (25 pts):** 심사위원들의 개인적 선호도를 나타내는 점수
-
-[flag_CN]: /wiki/shared/flag/CN.gif "중국"
-[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
-[flag_PH]: /wiki/shared/flag/PH.gif "필리핀"
-[flag_SG]: /wiki/shared/flag/SG.gif "싱가포르"

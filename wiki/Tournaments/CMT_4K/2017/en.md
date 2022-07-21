@@ -552,12 +552,3 @@ Saturday, 2017-06-17:
    - If player is in any other time zone, please notify the Management in advance.
    - Apart from time zone reasons, the absent player(s) will be considered as forfeited, regardless of whether they have sent messages to the Management.
 5. Request of rematch from forfeited player(s) will not be accepted.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"

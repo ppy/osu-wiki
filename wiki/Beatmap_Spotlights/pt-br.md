@@ -346,22 +346,3 @@ O projeto sofreu várias mudanças e adições, tais como [Ranking Charts temát
 A liderança do projeto mudou várias vezes em sua história. ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) tomou conta da liderança do projeto em Maio de 2012, seguido de ![][flag_US] [DeathXShinigami](https://osu.ppy.sh/users/49516) e ![][flag_US] [Makar](https://osu.ppy.sh/users/686389). ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) e ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) tomaram conta do projeto em Dezembro de 2013. Em Março de 2015 o projeto mudou de seu design original de nomear e votar para ter [membros de comunidade de renome por sí sós selecionarem uma lista de beatmap](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season) sets que recomendam. Em Setembro de 2016, o [sistema de seleção foi quase totalmente revertido](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) e colocou a [Equipe de Garantia de Qualidade](/wiki/Modding/Quality_Assurance_Team) no comando de selecionar os mais notáveis beatmap sets.
 
 Renomeado para [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) em Março de 2017, o sistema em sí manteve relativamente consistente enquanto adicionou recompensas adicionais tais como distintivos e melhorando a apresentação do Beatmap Spotlights ainda mais. Durante uma revisão interna da Equipe de Garantia de Qualidade, a responsabilidade do projeto foi transferida a ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) e re-implementada a equipe de seleção baseada em membros da comunidade. Em Novembro de 2018, a frequência dos Spotlights mudaram para um [ciclo de lançamento por temporada](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Em março de 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) entrou novamente como líder de projeto junto de Kurokami, ambos refazendo o projeto em uma nova forma e reunindo uma nova equipe de curadores do osu!.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Áustria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Austrália"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
-[flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
-[flag_DO]: /wiki/shared/flag/DO.gif "República Dominicana"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlândia"
-[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungria"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japão"
-[flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
-[flag_MX]: /wiki/shared/flag/MX.gif "México"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malásia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Tailândia"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunísia"
-[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

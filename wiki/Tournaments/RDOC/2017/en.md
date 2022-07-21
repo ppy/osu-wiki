@@ -461,9 +461,3 @@ Sunday, 12 March 2017:
 2. Matches are allowed to overlap if referees are available.
 3. Players must complete their match at the designated time or both players are eliminated.
 4. However if both players can come up with a better time than what we have scheduled for them, please inform the organizers for a reschedule. Organizers will rearrange the match if they are informed before Thursday of the week the match is to be played and a referee is available.
-
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_FO]: /wiki/shared/flag/FO.gif "Faroe Islands"
-[flag_GL]: /wiki/shared/flag/GL.gif "Greenland"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

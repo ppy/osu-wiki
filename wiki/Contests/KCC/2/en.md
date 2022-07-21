@@ -98,8 +98,3 @@ For each eligible submitted difficulty, the judging panel will award points base
 - **Cohesion (25 pts):** How consistent the submission is regarding structure, music representation, flow, hitsounding, etc., especially between different sections.
 - **Creativity (25 pts):** How well the submission shows originality and uniqueness compared to the other submissions, with reasonable consideration for playability.
 - **Judges' Impression (25 pts):** This is the part of the score left to the Judges' personal preferences on the submission.
-
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

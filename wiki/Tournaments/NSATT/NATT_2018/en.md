@@ -350,10 +350,3 @@ Complete Group Stage match results can be accessed through the [statistics sheet
 14. If no staff or referee is available, the match will be postponed.
 15. Players will have up to 15 minutes after the scheduled time to show up. Failure to show up without prior notice will result in a win by default.
 16. Any modification of these rules will be announced.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

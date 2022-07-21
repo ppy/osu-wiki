@@ -491,17 +491,3 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 2. Round of 16と準々決勝において、勝つためには試合で５つのビートマップで勝利する必要があります。
 3. 準決勝において、勝つためには試合で６つのビートマップで勝利する必要があります。
 4. 決勝と最終戦において、勝つためには試合で７つのビートマップで勝利する必要があります。
-
-[flag_AU]: /wiki/shared/flag/AU.gif "オーストラリア"
-[flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
-[flag_CL]: /wiki/shared/flag/CL.gif "チリ"
-[flag_HK]: /wiki/shared/flag/HK.gif "香港"
-[flag_ID]: /wiki/shared/flag/ID.gif "インドネシア"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_KR]: /wiki/shared/flag/KR.gif "韓国"
-[flag_MY]: /wiki/shared/flag/MY.gif "マレーシア"
-[flag_PH]: /wiki/shared/flag/PH.gif "フィリピン"
-[flag_SG]: /wiki/shared/flag/SG.gif "シンガポール"
-[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
-[flag_US]: /wiki/shared/flag/US.gif "アメリカ合衆国"
-[flag_VN]: /wiki/shared/flag/VN.gif "ベトナム"

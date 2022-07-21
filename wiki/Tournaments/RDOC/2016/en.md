@@ -367,7 +367,3 @@ Sunday, 24 January 2016:
 
 1. There are different mappools for each stage of the tournament, becoming progressively harder.
 2. Tiebreakers will be played with FreeMod, but will not require a mod to be picked.
-
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_FO]: /wiki/shared/flag/FO.gif "Faroe Islands"
-[flag_GL]: /wiki/shared/flag/GL.gif "Greenland"

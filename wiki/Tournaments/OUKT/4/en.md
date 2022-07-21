@@ -517,9 +517,3 @@ Sunday, 18 January 2015:
 - Each round schedule shall be released a week before the actual matches take place.
 - We are looking to complete each round on the weekends.
 - In special cases, with the agreement of both players, matches can also be played before this during the week. This is only if advance notice is given.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

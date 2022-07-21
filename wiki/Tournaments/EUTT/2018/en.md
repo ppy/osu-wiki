@@ -394,25 +394,3 @@ Sunday, 4 November 2018:
 14. If no staff or referee is available, the match will be postponed.
 15. Players will have up to 15 minutes after the scheduled time to show up. Failure to show up without prior notice will result in a win by default.
 16. Any modification of these rules will be announced.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

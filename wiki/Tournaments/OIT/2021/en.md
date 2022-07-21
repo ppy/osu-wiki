@@ -557,6 +557,3 @@ Wednesday, 24 February 2021:
 ## Notes
 
 [^rosemary-note]: ![][flag_ID] [- Rosemary -](https://osu.ppy.sh/users/2526649) decided to withdrew from the competition entirely during the course of the Round of 32. Under the unanimous discretion of all staff members and other participating players, the ![][flag_ID] [- Rosemary -](https://osu.ppy.sh/users/2526649) vs ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) match was awarded to ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) by default and ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405), the 33rd-seeded player based on the Qualifier results, was later admitted in ![][flag_ID] [- Rosemary -](https://osu.ppy.sh/users/2526649)'s place from the start of the Lower Bracket onwards.
-
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

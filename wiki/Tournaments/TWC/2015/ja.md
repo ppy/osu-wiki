@@ -199,28 +199,3 @@ outdated_translation: true
 4. 日程は大会運営者が管理します。日程は行われているステージの最初の試合がある前の日曜日に公表されます。大会運営者は参加者のタイムゾーンを考慮して日程を作成するよう努めます。
 5. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 6. キャプテンはチームの予定の管理者です。
-
-[flag_AR]: /wiki/shared/flag/AR.gif "アルゼンチン"
-[flag_AU]: /wiki/shared/flag/AU.gif "オーストラリア"
-[flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
-[flag_CL]: /wiki/shared/flag/CL.gif "チリ"
-[flag_CN]: /wiki/shared/flag/CN.gif "中華人民共和国"
-[flag_DE]: /wiki/shared/flag/DE.gif "ドイツ"
-[flag_DK]: /wiki/shared/flag/DK.gif "デンマーク"
-[flag_ES]: /wiki/shared/flag/ES.gif "スペイン"
-[flag_FI]: /wiki/shared/flag/FI.gif "フィンランド"
-[flag_FR]: /wiki/shared/flag/FR.gif "フランス"
-[flag_HK]: /wiki/shared/flag/HK.gif "香港"
-[flag_HU]: /wiki/shared/flag/HU.gif "ハンガリー"
-[flag_ID]: /wiki/shared/flag/ID.gif "インドネシア"
-[flag_IT]: /wiki/shared/flag/IT.gif "イタリア"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_KR]: /wiki/shared/flag/KR.gif "韓国"
-[flag_NO]: /wiki/shared/flag/NO.gif "ノルウェー"
-[flag_PH]: /wiki/shared/flag/PH.gif "フィリピン"
-[flag_PL]: /wiki/shared/flag/PL.gif "ポーランド"
-[flag_SE]: /wiki/shared/flag/SE.gif "スウェーデン"
-[flag_SG]: /wiki/shared/flag/SG.gif "シンガポール"
-[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
-[flag_UA]: /wiki/shared/flag/UA.gif "ウクライナ"
-[flag_US]: /wiki/shared/flag/US.gif "アメリカ合衆国"

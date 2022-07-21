@@ -39,5 +39,3 @@ Pembaruan ini diterima dengan baik oleh pemain osu! sebagai perubahan suasana da
 
 - osu!academy memperkenalkan osu!coins: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
 - peppy mengumumkan osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"

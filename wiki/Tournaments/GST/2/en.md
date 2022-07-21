@@ -620,14 +620,3 @@ Sunday, 15 December 2019:
 2. In the Round of 16 and Quarterfinals, team needs to win 5 beatmaps to win a match. (Best-of-9)
 3. In the Semifinals and Finals, team needs to win 6 beatmaps to win a match. (Best-of-11)
 4. In the Grand Finals, team needs to win 7 beatmaps to win a match. (Best-of-13)
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

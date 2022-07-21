@@ -425,5 +425,3 @@ Monday, 5 July 2021:
 
 [^tb-winner]: Winner of the Tiebreaker map.
 [^tb-loser]: Loser of the Tiebreaker map.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

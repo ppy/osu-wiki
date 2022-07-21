@@ -325,15 +325,3 @@ Sunday, 4 November 2018:
 9. Teams will then ready up, after which the referee will enter `!mp start 15` to begin the match.
 10. Failed scores are counted, the team with the highest score wins.
 11. The Matches will be BO5 and grow bigger as teams are eliminated.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

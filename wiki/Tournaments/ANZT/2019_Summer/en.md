@@ -313,12 +313,3 @@ All individual match results can be found on the spreadsheet linked above.
 | Round of 16, Quarterfinals | Win five maps (Best-of-9) |
 | Semifinals | Win six maps (Best-of-11) |
 | Grand Finals | Win seven maps (Best-of-13) |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MV]: /wiki/shared/flag/MV.gif "Maldives"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

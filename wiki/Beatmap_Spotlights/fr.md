@@ -184,23 +184,3 @@ Renommé [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducin
 En août 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) s'est retiré de la direction du projet. Fin novembre 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) a également démissionné, et ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) a repris le projet avec ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
 
 Après la conclusion de la saison du printemps 2021, le projet est entré en hiatus, qui a duré jusqu'en septembre 2021 lorsque des efforts de relance ont émergé, avec ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) se retirant de son rôle de gestion, et ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) rejoignant à la place. En février 2022, le projet a repris ses activités après quelques changements de structure et d'équipe.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
-[flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_DO]: /wiki/shared/flag/DO.gif "République dominicaine"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hongrie"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

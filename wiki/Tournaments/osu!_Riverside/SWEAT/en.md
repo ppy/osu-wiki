@@ -440,6 +440,3 @@ This is a double-elimination tournament.
 - In stages prior to Grand Finals, players have one ban. In Grand Finals, they have two.
 - All charts will include FreeMod; no mods are required, but mods may be added if the player would like. Allowed mods are Hidden, FadeIn, Flashlight, and Mirror.
 - If all players agree, Grand Finals may use the same mappool as Finals. In that case, players will only have one ban.
-
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

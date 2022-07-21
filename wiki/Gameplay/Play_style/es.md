@@ -139,6 +139,3 @@ El estilo de los veteranos en otros juegos de ritmo similares: se usa un control
 - **Dancepad**(4/8K): El controlador por defecto de [Dance Dance Revolution](https://es.wikipedia.org/wiki/Dance_Dance_Revolution_(serie)) y [Stepmania](https://es.wikipedia.org/wiki/StepMania): Los jugadores bailan sobre un pad con flechas para registrar las notas. Es un estilo de juego bastante complicado ya que los beatmaps están diseñados para teclado y el máximo de notas a la vez en el pad son 4 y en el juego puede exigirse más que eso.
 - **Batería o guitarra**(5/6K): El controlador por defecto de ([Guitar Hero](https://es.wikipedia.org/wiki/Guitar_Hero_(serie))) o ([Drummania](https://es.wikipedia.org/wiki/GITADORA_(serie))). Los jugadores utilizan los botones de la guitarra o la batería. Los jugadores que utilicen batería tendrán la desventaja de que solo pueden utilizar dos notas a la vez sin un pedal especial.
 - **Controlador de Para Para**(5K): El controlador de [Para Para Paradise](https://es.wikipedia.org/wiki/ParaParaParadise_(serie)). Los jugadores mueven sus manos, codos y manos frente a los sensores de proximidad.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

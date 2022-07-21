@@ -440,14 +440,3 @@ Sunday, 25 April 2021:
 3. 5 points to win the match in the Round of 16.
 4. 6 points to win the match in the Quarterfinals and the Semifinals.
 5. 7 points to win the match in the Finals.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -431,5 +431,3 @@ Wednesday, 15 August 2018:
 3. Each player is free to select up to two warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Participants may only pick one warm-up beatmap in group stage.
 4. The results of each match must be posted on the Discord server by the responsible referees including MP links and screenshots.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

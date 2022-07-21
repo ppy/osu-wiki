@@ -530,11 +530,3 @@ Sunday, 19 April 2020:
 10. During the FreeMod bracket, there are several options to choose:
     - Available mods to pick are **Hidden** and **HardRock**. Mod combinations are also allowed.
     - **A minimum of 2 players within each team is required to use mod**.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

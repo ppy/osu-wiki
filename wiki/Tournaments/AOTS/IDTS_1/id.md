@@ -350,7 +350,3 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 2. Dibutuhkan 5 poin untuk memenangkan Babak 16 Besar dan Perempat Final.
 3. Dibutuhkan 6 poin untuk memenangkan Babak Semifinal dan Final.
 4. Dibutuhkan 7 poin untuk memenangkan Babak Grand Final.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipina"

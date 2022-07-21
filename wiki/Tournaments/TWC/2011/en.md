@@ -433,22 +433,3 @@ Usually you will have a match per a week, but in the 1st round you may have two 
 7. Repeat 4~6 until winner is decided.
 8. In Robin-round stage, the team wins 3 games first will win the match. In Knock-out stage, the team need to win 4 games.
 9. In final round, you have to win 5 games first.
-
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

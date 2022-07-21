@@ -629,9 +629,3 @@ The RO32 will be a Group Stage which is also seeded. This shall work as follows:
 #### Round of 16 and above
 
 The RO16 onwards will be a standard Double Elimination bracket, seeded by performances in the group stage.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

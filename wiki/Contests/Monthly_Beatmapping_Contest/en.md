@@ -166,21 +166,3 @@ MBC points of every contest participant are listed below.
 | ![][flag_CA] [Unlucky_w](https://osu.ppy.sh/users/4820793) | 1 |
 
 Prior to June 2020, community vote winners/runner-ups would receive 2 and 1 points respectively.
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

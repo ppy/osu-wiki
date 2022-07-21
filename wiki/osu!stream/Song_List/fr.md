@@ -269,18 +269,3 @@ Voir également :
 ---
 
 ![Aperçu du gameplay du mode Expert](img/Os-Demo.jpg "Aperçu du gameplay du mode Expert")
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
-[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

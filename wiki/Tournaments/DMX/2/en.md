@@ -494,24 +494,3 @@ Sunday, 22 July 2018:
 
 1. If a player were to disconnect in a non-warmup beatmap within the first 30 seconds, the beatmap will be replayed. However, this may only happen once in a match per player. Any repeated disconnects will count as a map forfeit.
 2. In the case of a tie, the beatmap will not be scored and may be picked again in the future, the picking order will remain the same. In the case of a Tiebreaker tie, the Tiebreaker will be replayed.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

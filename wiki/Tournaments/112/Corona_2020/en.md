@@ -437,11 +437,3 @@ Monday, 27 April 2020:
 3. Players may ask for a reschedule upon agreement with the opponent(s) if the current schedule does not work for them.
 4. Reschedules will only be considered if both players/teams agree to a time at least 4 hours before the first match in that particular stage.
 5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.  
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

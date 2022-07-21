@@ -158,13 +158,3 @@ outdated_translation: true
 3. All Double Elimination Stages will be held on either Saturday or Sunday.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
-
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_US]: /wiki/shared/flag/US.gif

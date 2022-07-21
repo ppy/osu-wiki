@@ -403,6 +403,3 @@ Beatmaps :
 ## Notes
 
 [^polkka-unranked]: [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) est une beatmap non classée. Il n'est pas nécessaire de jouer cette beatmap pour compléter le pack.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

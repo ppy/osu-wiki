@@ -549,24 +549,3 @@ Usually your team has one match per a week.
 7. Repeat 4\~6 until winner is decided.
 8. In Group stage, the team wins 3 games first will win the match. In Knock-out stage, the team need to win 4 games.
    - From semi-final round, you have to win 5 games first.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MO]: /wiki/shared/flag/MO.gif "Macau"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -529,10 +529,3 @@ Sunday, 27 February 2022:
 4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
    - Playing a FreeMod pick without any mods applied is not allowed.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

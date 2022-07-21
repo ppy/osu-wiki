@@ -336,5 +336,3 @@ In order to prevent multi accounting, this tournament have specific entry regula
 ## Trivia
 
 - she's purity is a map that leaves interest to some people due to the gimmick that is represented on the map during that time.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

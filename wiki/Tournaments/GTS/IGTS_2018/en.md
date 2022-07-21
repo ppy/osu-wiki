@@ -453,25 +453,3 @@ Sunday, 12 August 2018:
 1. Every stage is held **during the weekends.**
 2. Matches are allowed to overlap if referees are available.
 3. Scheduling will be handled by the Tournament Management. Schedules and mappools will be released on the Sunday before the first matches of the actual stage. The Tournament Management will try to create the schedule to respect the participant's time zone.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
-[flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

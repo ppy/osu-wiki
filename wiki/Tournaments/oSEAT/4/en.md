@@ -809,22 +809,3 @@ Sunday, 13 December 2020:
 [^heya-note]: ![][flag_ID] [ngonk](https://osu.ppy.sh/users/12030070) initially qualified for this Group Stage berth, but they decided to forfeit from the tournament during the running of the Group Stage. Under the discretion of staff members and all other affected players, ![][flag_MY] [Heya](https://osu.ppy.sh/users/11379332) was later admitted to the Group Stage in their spot.
 [^revillica-note]: ![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) initially qualified for this Group Stage berth, but they decided to forfeit from the tournament during the running of the Group Stage. Under the discretion of staff members and all other affected players, ![][flag_PH] [Revillica](https://osu.ppy.sh/users/9806095) was later admitted to the Group Stage in their spot.
 [^kolin-note]: Despite having the ![][flag_US] United States flag displayed on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_KH]: /wiki/shared/flag/KH.gif "Cambodia"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_LA]: /wiki/shared/flag/LA.gif "Lao People's Democratic Republic"
-[flag_MM]: /wiki/shared/flag/MM.gif "Myanmar"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

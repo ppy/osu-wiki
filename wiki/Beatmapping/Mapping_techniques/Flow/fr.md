@@ -51,6 +51,3 @@ En raison de la subjectivité du flow et de la quantité de modèles possibles d
 ## Notes
 
 [^circular-flow]: Pour les joueurs utilisant une souris, un mouvement circulaire appliqué dans la même direction pendant trop longtemps est considéré comme trop répétitif et inconfortable en raison de la dérive de la souris (également appelé mouse drift en anglais).
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

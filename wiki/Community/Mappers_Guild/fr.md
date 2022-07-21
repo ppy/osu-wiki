@@ -71,6 +71,3 @@ Dans la continuité de ces deux packs de beatmaps, la Mappers' Guild a continuel
 Alors que le plan initial de la Mappers' Guild était d'avoir des éléments MMO tels que des quêtes, cela s'est avéré peu pratique à gérer tout en gérant manuellement les date limites pour le nombre limité de participants à la guilde. ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) et ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) commencèrent donc le développement d'un site web pour automatiser la Mappers' Guild vers la fin de l'année 2018, permettant une gestion plus adéquate des récompenses et du système de quête/groupes.
 
 Le [site web de la Mappers' Guild](https://mappersguild.com/) fut lancer le 1er Mars 2019 et c'est ici que tout ce qui concerne la Mappers' Guild est actuellement contrôlé. Depuis son ouverture au public, la guilde a atteint un nombre de membres supérieur à 500 et a publié des [articles de mise à jour](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) pour garder le reste de la communauté d'osu! à jour sur le contenu de mapping des Artistes Associés.
-
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

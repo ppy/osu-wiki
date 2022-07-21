@@ -771,15 +771,3 @@ Sunday, 1 July 2018:
   1. If players ban different tiebreakers, the unbanned tiebreaker is played.
   2. If players ban the same tiebreaker, the referee will `!roll 2` to select a tiebreaker from the unbanned ones.
 - Tiebreakers are FreeMod, however No Mod can be used.
-
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

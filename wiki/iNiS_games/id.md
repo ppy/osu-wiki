@@ -31,5 +31,3 @@ Permainan-permainan iNis ini antara lain meliputi:
 ![](img/Elite-Beat-Agents.jpg "Desain kemasan untuk Elite Beat Agents")
 
 ***[Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents)*** merupakan sekuel dari **Osu! Tatakae! Ouendan!** yang dirilis pada tahun 2006 untuk pasar internasional. Beberapa karakter dari permainan ini pernah diangkat menjadi maskot-maskot resmi osu!, yang kenampakannya dapat dilihat pada elemen-elemen UI serta skin *default* yang digunakan pada masanya dahulu.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"

@@ -435,11 +435,3 @@ Monday, 7 March 2022:
 
 [^tb-winner]: Winner of the tiebreaker map.
 [^tb-loser]: Loser of the tiebreaker map.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"

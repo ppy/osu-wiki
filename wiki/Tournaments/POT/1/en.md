@@ -367,5 +367,3 @@ Sunday, 28 February 2021:
 4. In case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Playing the tiebreaker map with a mod in hand however is *not* mandatory as going with NoMod on the tiebreaker is also permitted.
    - Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

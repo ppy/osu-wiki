@@ -341,17 +341,3 @@ Complete Group Stage match results can be accessed through the [statistics sheet
     - If it before 30 seconds into the map, the referee will abort the map, and it will be replayed.
     - If it is after 30 seconds into the map, it is up to the discretion of the referee.
 17. Any modification of these rules will be announced.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

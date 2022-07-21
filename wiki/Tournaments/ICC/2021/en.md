@@ -408,7 +408,3 @@ Sunday, 12 September 2021:
    - Warm-ups do not apply in the Group stage lobbies.
 4. In case of a tiebreaker, **the tiebreaker beatmap will be played without any mods enabled** (NoMod).
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"

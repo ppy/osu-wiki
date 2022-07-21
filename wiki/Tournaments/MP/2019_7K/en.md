@@ -461,6 +461,3 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
-
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"

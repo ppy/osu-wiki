@@ -501,7 +501,3 @@ Both tournaments will use a standard double-elimination format for playoffs.
 2. Any sort of verbal harassment towards another in the tournament will not be tolerated. This includes referees, bystanders and any other attendees of the event.
 3. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
 4. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
-
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag___]: /wiki/shared/flag/__.gif

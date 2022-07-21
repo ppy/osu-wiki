@@ -491,11 +491,3 @@ Sunday, 23 September 2018:
 2. Matches are allowed to overlap if referees are available.
 3. Players must complete their match at the designated time or both players are eliminated.
 4. However if both players can come up with a better time than what we have scheduled for them, please inform the organizers for a reschedule. Organizers will rearrange the match if they are informed before Thursday of the week the match is to be played and a referee is available.
-
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FO]: /wiki/shared/flag/FO.gif "Faroe Islands"
-[flag_GL]: /wiki/shared/flag/GL.gif "Greenland"
-[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"

@@ -431,6 +431,3 @@ Monday, 3 August 2020:
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Group Stage lobbies.
 4. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"

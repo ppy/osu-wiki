@@ -158,27 +158,3 @@ There was only one mappool for all matches, made of beatmaps from the last four 
 5. FreeMod is forced mod, meaning every player has to use at least one mod.
 6. Tiebreaker is not forced mod but you may choose a mod.
 7. Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, Hard Rock and Hidden.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
-[flag_MA]: /wiki/shared/flag/MA.gif "Morocco"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_SI]: /wiki/shared/flag/SI.gif "Slovenia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -454,21 +454,3 @@ Sunday, 14 February 2021:
 3. Each participant will be allowed to select 1 map as a warmup. Warmups must be uploaded to the osu! servers and **cannot exceed 4 minutes** in length.
 4. Participants can choose to ban 1 map from the mappool (excluding the tiebreaker). The pick/ban order is determined by the `!roll` command. The participant with the lower roll bans first and the other one with the higher roll picks first.
 5. If both participants are tied on match point (e.g. 3-3 score in a Best-of-7), both participants will play the Tiebreaker bracket to determine the winner.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

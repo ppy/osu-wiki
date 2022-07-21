@@ -316,6 +316,3 @@ The seeding was done online the day prior to the LAN. Every participant played e
 | ![][flag_US] [Vysion](https://osu.ppy.sh/users/11594132) | 14.2 |
 | ![][flag_US] [firenoo](https://osu.ppy.sh/users/10815041) | 15.2 |
 | ![][flag_US] [atlae99](https://osu.ppy.sh/users/29787503) | 16.9 |
-
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

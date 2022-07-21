@@ -73,5 +73,3 @@ This competition has come to an end and resulted in the following podium:
 - Difficulty must be Oni or Inner Oni.
 - Source and tags must be left blank.
 - While submitting your beatmap, include the metadata in the email.
-
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"

@@ -1329,13 +1329,3 @@ Detailed results for this round are found via [this link](https://docs.google.co
 ### Updates and concerns
 
 - Most of the major updates regarding the tournament will be posted on the discussion thread. All concerns and questions regarding the tournament may be posted on the thread, or via the osu!Philippines Facebook Group.
-
-[flag_AE]: /wiki/shared/flag/AE.gif "United Arab Emirates"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag___]: /wiki/shared/flag/__.gif

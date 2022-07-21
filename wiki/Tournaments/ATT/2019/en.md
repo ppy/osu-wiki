@@ -371,11 +371,3 @@ Monday, 15 July 2019:
 2. 5 points to win the match in the Group Stage.
 3. 6 points to win the match in the Round of 16 and Quarterfinals.
 4. 7 points to win the match in Semifinals and Finals.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

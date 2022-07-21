@@ -317,13 +317,3 @@ CJB & TMT Team has the ultimate power of interpretation.
   2. Higher `Number of rounds won - numbers of round lost`.
   3. Less round losses
   4. Winner of overtime
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

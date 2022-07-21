@@ -265,9 +265,3 @@ All individual match results can be found on the Challonge page linked above.
 | Round of 16, Losers Bracket Rounds 3-6, Quarter-Finals | Win five maps (Best-of-9) |
 | Semi-Finals, Losers Bracket Rounds 7-Losers Finals, Finals Week 1 | Win six maps (Best-of-11) |
 | Finals Week 2 | Win seven maps (Best-of-13) |
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

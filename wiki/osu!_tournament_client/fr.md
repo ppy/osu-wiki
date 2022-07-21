@@ -78,5 +78,3 @@ Les fichiers vidéo doivent être placés dans le dossier `<your-tournament>/Vid
 | Win | `teamwin-red`, `teamwin-blue` |
 | Drawings | `main` |
 | Showcase | `showcase` |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"

@@ -171,6 +171,3 @@ Another drawback is that osu!mania maps may have been designed without dance gam
 
 - **Guitar/Drum set** (5/6K): The default controller for the guitar-themed ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed ([DrumMania](https://en.wikipedia.org/wiki/GuitarFreaks_and_DrumMania)) rhythm game. Players stream on their guitar or hit the drums and cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
 - **Para Para controller** (5K): This is the default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitivity of the input receiver and the player's physical limitation.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

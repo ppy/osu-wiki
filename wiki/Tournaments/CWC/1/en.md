@@ -475,28 +475,3 @@ Time Zone: (...)
 ## Notes
 
 [^cl-cn-skip]: As per the Tournament Management's decision ([\[1\]](https://osu.ppy.sh/community/forums/posts/1184327) [\[2\]](https://osu.ppy.sh/community/forums/posts/1206142) [\[3\]](https://osu.ppy.sh/community/forums/posts/1187916)), the Chile vs. China match was not played.
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

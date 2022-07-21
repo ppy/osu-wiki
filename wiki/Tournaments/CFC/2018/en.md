@@ -243,5 +243,3 @@ This competition has come to an end and resulted in the following podium:
    - FreeMod is forced mod, meaning every player has to use at least one mod.
    - Tiebreaker is not forced mod but you may choose a mod.
    - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"

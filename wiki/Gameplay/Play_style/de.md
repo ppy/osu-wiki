@@ -171,6 +171,3 @@ Noch ein Nachteil ist, dass osu!mania-Beatmaps möglicherweise ohne Rücksicht a
 
 - **Gitarren-/Schlagzeug-Set** (5/6K): Der Standardcontroller für das Gitarren-bezogene ([Guitar Hero](https://de.wikipedia.org/wiki/Guitar_Hero))/Schlagzeug-bezogene ([DrumMania](https://en.wikipedia.org/wiki/GuitarFreaks_and_DrumMania)) Rhythmusspiel. Spieler streamen auf ihrer Gitarre oder schlagen auf ihrem Schlagzeug und Zimbeln, um Befehle einzugeben. Schlagzeuger haben einen Nachteil im Vergleich zu Gitarrenspieler, weil sie ohne ein spezielles Fußpedal nur zwei Eingaben gleichzeitig machen können.
 - **Para Para Controller** (5K): Das ist der Standardcontroller für die Serie [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise). Spieler bewegen ihre Arme, Ellbogen und Hände direkt über den Abstandssensoren, um Eingaben zu machen, basierend auf der Position der Hand und des Abstandssensors. Der Nachteil ist die Sensitivität des Eingabeempfängers und die physische Limitierung des Spielers.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"

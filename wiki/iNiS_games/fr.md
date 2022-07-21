@@ -33,5 +33,3 @@ Les jeux auxquels il fait référence sont :
 ***[Elite Beat Agents](https://fr.wikipedia.org/wiki/Elite_Beat_Agents)*** est la suite occidentale de *Osu! Tatakae! Ouendan!* sortie en 2006. Certains de ses personnages étaient présents en tant que mascottes d'osu! dans les illustrations et les skins officiels.
 
 <!--TODO: Insert lots of links and sections for Ouendan games, talk about which game mechanics are old and new -->
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"

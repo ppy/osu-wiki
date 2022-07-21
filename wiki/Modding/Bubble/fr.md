@@ -53,5 +53,3 @@ Dans les deux cas, l'icône du fil de discussion de la beatmap était définie c
 ## Voir également
 
 - *[the end of bubbles](https://www.youtube.com/watch?v=9Za-1_hxkxE)*, un épisode de la série YouTube [osu!mapping](/wiki/Community/Video_series/osu!mapping)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"

@@ -51,6 +51,3 @@ See the [osu! UCI tournament index](/wiki/Tournaments/osu!_UCI) for wiki article
 - ![][flag_US] Royce "[niseboi](https://osu.ppy.sh/users/2747929)" Sato
 - ![][flag_US] Shannon "[iShipxx](https://osu.ppy.sh/users/7546335)" Chen
 - ![][flag_US] Victor "[lalipo](https://osu.ppy.sh/users/2584801)" Stolle
-
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

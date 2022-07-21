@@ -366,26 +366,3 @@ This competition has come to an end and resulted in the following podium:
 3. All Knock-Out Stages will be held on either Saturday or Sunday (refer to Tournament Schedule).
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 2nd Feb for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

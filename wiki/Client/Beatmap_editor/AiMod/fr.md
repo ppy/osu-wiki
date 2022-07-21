@@ -174,5 +174,3 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 - **S'il y a plusieurs fichiers MP3 dans le dossier beatmap, AiMod peut vous avertir de la présence de plusieurs fichiers**, Toutefois, les fichiers MP3 peuvent également être utilisés pour des effets sonores tels que des applaudissements.
 
 Il est recommandé d'utiliser d'autres programmes tels que [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases) par ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) en plus d'AiMod si vous cherchez à faire [classer](/wiki/Beatmap/Category#classée) votre beatmap. D'autres programmes sont plus à jour avec les critères de classement actuels et peuvent détecter beaucoup plus de problèmes qu'AiMod. Cependant, n'ignorez pas complètement AiMod car certaines règles des critères de classement en dépendent.
-
-[flag_SE]: /wiki/shared/flag/SE.gif "Suède"

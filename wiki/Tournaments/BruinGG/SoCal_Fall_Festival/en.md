@@ -55,6 +55,3 @@ There are five organizers for the osu! section of the SoCal Fall Festival:
 - [Gaucho Gaming](https://discord.gg/GauchoGaming)
 - [osu! UCI](https://discord.gg/qbZddFV)
 - [TAG at UCI](https://discord.gg/qKqCZXQ)
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

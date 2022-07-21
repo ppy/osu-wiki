@@ -935,21 +935,3 @@ Sunday, 6 December 2021:
 
 [^flag-note-1]: Despite having the ![][flag_US] American flag on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Philippine passport](https://en.wikipedia.org/wiki/Philippine_passport).
 [^flag-note-2]: Despite having the ![][flag_JP] Japanese flag on their profile, [ZHKPN](https://osu.ppy.sh/users/13042221) is eligible to participate in the tournament as they are a citizen of ![][flag_PH] The Philippines living abroad.
-
-[flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KH]: /wiki/shared/flag/KH.gif "Cambodia"
-[flag_LA]: /wiki/shared/flag/LA.gif "Lao People's Democratic Republic"
-[flag_MM]: /wiki/shared/flag/MM.gif "Myanmar"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

@@ -259,26 +259,3 @@ Sunday, 6 October 2019:
 16. Failed players' scores will count in this tournament.
 17. If the beatmap ends in a draw, the game will be nullified and the map will be replayed. If a second tie happens, the map will be nullified, and the team picking this map will have to pick another map.
 18. In case of a tie in points (example: 4-4 in BO9), the tiebreaker is selected.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MA]: /wiki/shared/flag/MA.gif "Morocco"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

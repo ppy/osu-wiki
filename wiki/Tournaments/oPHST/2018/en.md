@@ -1221,12 +1221,3 @@ Detailed results for this round are found via [this link](https://docs.google.co
 ### Disconnection clauses
 
 - It has been observed that computing percentages from the drain time is not practical, hence a definite clause was laid out.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag___]: /wiki/shared/flag/__.gif

@@ -376,7 +376,3 @@ Dimanche, 24 Janvier 2021:
 2. Quarts-de-finale : Best of 9 (premier à 5 points)
 3. Demi-finales : Best of 11 (premier à 6 points)
 4. **Finales et Grandes Finales** : Best of 13 (premier à 7 points)
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"

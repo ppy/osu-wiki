@@ -691,15 +691,3 @@ Monday, 3 July 2017:
 [^lb-note-1]: Wario advances to Losers Bracket Round 4, Summer Solstice and Woffel eliminated.
 [^ro128-note-1]: djsettle advances to group stage, Azerith and Valentine eliminated.
 [^ro128-note-2]: Majoreh advances to group stage, Desired and \[Josh\] eliminated.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

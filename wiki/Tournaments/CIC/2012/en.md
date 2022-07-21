@@ -290,5 +290,3 @@ Thursday, 10 May 2012:
 5. "No Video" mod is the only mod that can be used.
 6. Room creation will be handed to the participants itself including the agreement between parties.
 7. After the match is concluded, player must hand the multiplayer link to the staffs or in the respective thread.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

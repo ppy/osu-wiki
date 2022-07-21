@@ -384,28 +384,3 @@ The Qualifiers is a stage purely meant for seeding purposes. It is much better t
 2. Round of 16 and the Quarterfinals: Best-Of-9 (First to 5 points wins)
 3. Semifinals: Best-Of-11 (First to 6 points wins)
 4. Finals and Grand Finals: Best-Of-13 (First to 7 points wins)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

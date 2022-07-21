@@ -309,6 +309,3 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
    - Repeat `!roll` if two rolls are equal.
 5. Players pick maps by turns:
    - In case of a tie, the Tiebreaker map must be played.
-
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"

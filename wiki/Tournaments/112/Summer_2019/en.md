@@ -572,9 +572,3 @@ Monday, 22 July 2019:
 4. Reschedules will only be considered if both players/teams agree to a time at least 24 hours before the first match in that particular stage.
    - If players wish to change the scheduled time within 24 hours until the match, they have to seek for an available referee for the rescheduled time. **Participants cannot use this opportunity more than once.**
 5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"

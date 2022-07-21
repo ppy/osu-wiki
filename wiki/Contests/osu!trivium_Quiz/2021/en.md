@@ -74,13 +74,3 @@ Below is a list of links to answers to each question. Clicking on any of them wi
 ## Ruleset
 
 - You cannot ask [mangomizer](https://osu.ppy.sh/users/1893718) or [peppy](https://osu.ppy.sh/users/2) for information, hints, or answers.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

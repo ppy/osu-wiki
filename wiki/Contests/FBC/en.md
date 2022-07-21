@@ -143,14 +143,3 @@ The song picked for this tournament edition was [Thaehan - Sunrise](https://www.
 ### Links
 
 - [Discussion and results thread](https://osu.ppy.sh/community/forums/topics/754821)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

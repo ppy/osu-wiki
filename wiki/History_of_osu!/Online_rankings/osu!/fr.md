@@ -385,17 +385,3 @@ Voici la liste des plus longs jours consécutifs pendant lesquels un joueur a oc
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 27/01/2014 | 20/06/2014 | 144 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 31/12/2015 | 12/05/2016 | 133 |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 03/10/2010 | 20/01/2011 | 109 |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
-[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taïwan"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
-[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"

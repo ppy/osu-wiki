@@ -349,9 +349,3 @@ The final standings for the Qualifier stage can be found at the following [sprea
 1. Each stage will be held on a single weekend (including Friday). It can be held on weekdays if both players require it, but this is not recommended.
 2. The schedule is decided by the players discussing with each other. All match times must be communicated to the Tournament Management two days prior to the actual match. If not informed, the Tournament Management will decide the match time at their own discretion. The daily schedule will be released a day beforehand.
 3. If a player needs to make a temporary change after deciding the match time, rescheduling can only be considered with the consent of both players, and the scheduled time must be set to at least one day after informing the Tournament Management.
-
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_MO]: /wiki/shared/flag/MO.gif "Macau"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"

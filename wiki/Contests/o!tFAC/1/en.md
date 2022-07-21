@@ -82,11 +82,3 @@ This competition has come to an end and resulted in the following podium:
 ## Notes
 
 [^prizes-ranked]: ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) and ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) will mod and push the winning entry to Ranked if the winner chooses to, and **if they get the necessary difficulties to form a rankable spread when needed**.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -496,5 +496,3 @@ Monday, 9 March 2020:
 4. In a FreeMod pick, each player has to apply at least one mod to play the map with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
    - Playing a FreeMod pick without any mods applied is not allowed.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

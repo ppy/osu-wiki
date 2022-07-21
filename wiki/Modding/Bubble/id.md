@@ -53,5 +53,3 @@ Pada dua kasus tersebut, ikon utas beatmap tersebut akan menjadi bubble pop (![I
 ## Lihat juga
 
 - *[the end of bubbles](https://www.youtube.com/watch?v=9Za-1_hxkxE)*, sebuah episode dari seri YouTube [osu!mapping](/wiki/Community/Video_series/osu!mapping)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"

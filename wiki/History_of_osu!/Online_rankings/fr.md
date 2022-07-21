@@ -48,7 +48,3 @@ En date du 3 juin 2021, sur l'[osu!mania performance rankings](https://osu.ppy.s
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"

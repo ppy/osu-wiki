@@ -59,6 +59,3 @@ E-postanın içeriği aşağıdakileri içermelidir:
 
 - `Sohbet Botları` grubunda (grup #29) olan hesaplarda `BOT` grup rozeti bulunur. Grup listesi herkese açık değildir.
 - Bazı kişisel hesaplar sohbet botları grubundadır çünkü sahipleri sundukları hizmet için ayrı bir bot hesabı açmak istememişler ya da talep etmemişlerdir, örneğin ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) ve ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Bu tarz bir kurulum artık teklif edilmemektedir, ve gruba dahil olan yeni botlar her zaman için özel bir hesapta bulunurlar.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
-[flag_FR]: /wiki/shared/flag/FR.gif "Fransa"

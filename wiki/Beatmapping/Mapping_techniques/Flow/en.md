@@ -50,6 +50,3 @@ Due to the subjectivity of flow and the amount of possible cursor movement patte
 ## Notes
 
 [^circular-flow]: For players using a mouse, circular movement applied in the same direction for too long is viewed as both too repetitive and uncomfortable due to mouse drift<!-- TODO: link -->.
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

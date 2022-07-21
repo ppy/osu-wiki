@@ -329,8 +329,3 @@ Tonarionototoro received a bye into Round of 16, since winthermens couldn't play
 1. There are different mappools for each day of the tournament, becoming progressively harder.
 2. Tiebreakers will be played with FreeMod, but will not require a mod to be picked.
 3. The mappool will consist of both easy and hard maps, to make the tournament fun for as many people as possible.
-
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_FO]: /wiki/shared/flag/FO.gif "Faroe Islands"
-[flag_GL]: /wiki/shared/flag/GL.gif "Greenland"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
