@@ -37,7 +37,8 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 ---
 
 ## What's up on osu!? 
-- *Latest updates, events… and even more!*
+
+Here are the latest updates, events and even more!
 
 ### ![](/wiki/shared/mode/osu.png) osu! 
 #### If you ask us what is the big event of July, it'd be the **Roundtable**!
