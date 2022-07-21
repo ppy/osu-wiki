@@ -51,9 +51,11 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | 필리핀어 |
 | ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | 인도네시아어 |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | 이탈리아어 |
+| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 벨라루스어, 러시아어 |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
+| ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) |  |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | 한국어 |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | 이탈리아어 |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | |
@@ -61,22 +63,21 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=TW }:: [bossandy](https://osu.ppy.sh/users/360437) | 중국어 |
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | 한국어 |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 포르투갈어 |
+| ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | 스페인어 |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | 스페인어 |
 | ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | 네덜란드어 |
-| ::{ flag=UA }:: [Esutarosa](https://osu.ppy.sh/users/12024753) | 우크라이나어 |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=FI }:: [finnish bn](https://osu.ppy.sh/users/11077540) | 핀란드어 |
 | ::{ flag=NO }:: [Fisky](https://osu.ppy.sh/users/8352623) | 노르웨이어 |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | 중국어 |
 | ::{ flag=RU }:: [Froskya](https://osu.ppy.sh/users/4230454) | 러시아어 |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 독일어 |
-| ::{ flag=FR }:: [Gabdu09](https://osu.ppy.sh/users/8852605) | 프랑스어 |
-| ::{ flag=FR }:: [Gweon Sua](https://osu.ppy.sh/users/13466351) | 프랑스어 |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | 인도네시아어 |
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | 중국어, 일부 프랑스어 |
+| ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | 한국어 |
 | ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) |  |
 | ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | 중국어, 광둥어 |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | 독일어 |
@@ -84,17 +85,16 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=GB }:: [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | 한국어 |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | 중국어 |
+| ::{ flag=CN }:: [MeAqua tete](https://osu.ppy.sh/users/5645691) | 중국어 |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 러시아어 |
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
+| ::{ flag=SG }:: [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
 | ::{ flag=GB }:: [Mokobe](https://osu.ppy.sh/users/10374819) |  |
-| ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097) | 독일어 |
 | ::{ flag=DK }:: [Morrighan](https://osu.ppy.sh/users/12042090) | 덴마크어 |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 러시아어 |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | 중국어 |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | 프랑스어 |
-| ::{ flag=IT }:: [Nuvolina](https://osu.ppy.sh/users/10974170) | 이탈리아어 |
 | ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297) | 프랑스어 |
 | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | 러시아어 |
 | ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
@@ -102,7 +102,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | 중국어, 광둥어, 일부 일본어 |
 | ::{ flag=FR }:: [Sajinn](https://osu.ppy.sh/users/13513687) | 프랑스어 |
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | 러시아어 |
-| ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | 러시아어 |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | 프랑스어 |
 | ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | 독일어 |
@@ -113,7 +112,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) |  |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | |
 | ::{ flag=FR }:: [Xahlt](https://osu.ppy.sh/users/13466351) | 프랑스어 |
-| ::{ flag=US }:: [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | 중국어, 일본어 |
 
@@ -125,25 +123,26 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | 스페인어 |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 중국어, 광둥어 |
 | ::{ flag=MY }:: [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
-| ::{ flag=JP }:: [Chromoxx](https://osu.ppy.sh/users/1881639) | 일본어 |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 중국어, 광둥어 |
-| ::{ flag=BR }:: [D0UG](https://osu.ppy.sh/users/13806900) | 포르투갈어 |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | 스페인어 |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | 베트남어 |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 우르두어, 일부 아랍어 |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | 스페인어 |
+| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | 일본어 |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | 독일어 |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 포르투갈어 |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | 네덜란드어 |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | 일본어, 광둥어, 중국어 |
+| ::{ flag=JP }:: [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | 일본어 |
 | ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) |  |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | 중국어 |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |  |
-| ::{ flag=KZ }:: [tadahitotsu](https://osu.ppy.sh/users/11653544) | 러시아어 |
+| ::{ flag=FI }:: [pupu5](https://osu.ppy.sh/users/7140680) | 핀란드어 |
 | ::{ flag=BR }:: [Toofu](https://osu.ppy.sh/users/11004271) | 포르투갈어 |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | 독일어, 일부 프랑스어 |
+| ::{ flag=PL }:: [yurishe](https://osu.ppy.sh/users/14890963) | 폴란드어 |
 
 #### osu!catch
 
@@ -161,6 +160,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | 포르투갈어 |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | 스페인어 |
 
 #### osu!mania
 
@@ -168,9 +168,11 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | :-- | :-- |
 | ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=CN }:: [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | 중국어 |
+| ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | 중국어 |
 | ::{ flag=TW }:: [_Rokii](https://osu.ppy.sh/users/12770065) | 중국어 |
 | ::{ flag=VN }:: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
 | ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | 인도네시아어 |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | 스페인어 |
 | ::{ flag=GB }:: [Asherz007](https://osu.ppy.sh/users/9014047) |  |
 | ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196) | 말레이어 |
 | ::{ flag=US }:: [Crisper](https://osu.ppy.sh/users/16482505) |  |
@@ -183,15 +185,20 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) | 한국어 |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) |  |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | 중국어 |
+| ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | 중국어, 광둥어 |
+| ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 한국어 |
 | ::{ flag=KR }:: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | 한국어 |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | 필리핀어 |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | 한국어 |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | 네덜란드어 |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 스페인어 |
 | ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) | 인도네시아어 |
+| ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | 인도네시아어 |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | 한국어 |
 | ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) | 중국어 |
 | ::{ flag=KR }:: [Sun](https://osu.ppy.sh/users/4115819) | 한국어 |
+| ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | 인도네시아어 |
+| ::{ flag=TW }:: [Touru0711](https://osu.ppy.sh/users/8625854) | 중국어 |
 | ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | 인도네시아어 |
 
 ### Probationary BN
@@ -200,23 +207,16 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
-| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
-| ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | 스페인어 |
-| ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | 한국어 |
-| ::{ flag=SG }:: [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
-| ::{ flag=DE }:: [Myxo](https://osu.ppy.sh/users/2202645) | 독일어 |
-| ::{ flag=CN }:: [Present](https://osu.ppy.sh/users/5645691) | 중국어 |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 독일어 |
+| ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
 
 #### osu!taiko
 
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
-| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | 일본어 |
-| ::{ flag=JP }:: [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | 일본어 |
+| ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | 터키어 |
 | ::{ flag=US }:: [Pumi](https://osu.ppy.sh/users/17853754) |  |
-| ::{ flag=FI }:: [pupu5](https://osu.ppy.sh/users/7140680) | 핀란드어 |
 | ::{ flag=ID }:: [Surono](https://osu.ppy.sh/users/3611370) | 인도네시아어 |
-| ::{ flag=PL }:: [yurishe](https://osu.ppy.sh/users/14890963) | 폴란드어 |
 
 #### osu!catch
 
@@ -227,8 +227,8 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 | 닉네임 | 추가적으로 가능한 언어 |
 | :-- | :-- |
+| ::{flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | 프랑스어 |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | 태국어 |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | 스페인어 |
 
 ## 역사
 
