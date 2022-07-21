@@ -91,7 +91,7 @@ There are still plenty of tournaments running, even after the conclusion of CWC!
 
 #### In August, the osu!mania top players will brawl in the osu!mania World Cup 2022!
 
-As it is starting the **6th of August**, we can't actually talk about it more, but we are excited to say that the next osu!monthly is going to have a **big article** about it, and maybe an **interview of the winner**!
+As it is starting the on **6th of August**, we can't actually talk about it more, but we are excited to say that the next osu!monthly is going to have a **big article** about it, and maybe an **interview of the winner**!
 
 Please stay tuned about the next article, and we're moving on the next section!
 
