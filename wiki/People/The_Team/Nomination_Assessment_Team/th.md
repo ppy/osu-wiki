@@ -86,18 +86,3 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | อินโดนีเซีย | การประเมิน, การสื่อสาร |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | สเปน, โปรตุเกส, กาลิเซีย, อิตาลี, ญี่ปุ่น | การประเมิน |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | การประเมิน |
-
-[flag_AT]: /wiki/shared/flag/AT.gif "ออสเตรีย"
-[flag_BE]: /wiki/shared/flag/BE.gif "เบลเยียม"
-[flag_CL]: /wiki/shared/flag/CL.gif "ชิลี"
-[flag_CN]: /wiki/shared/flag/CN.gif "จีน"
-[flag_DE]: /wiki/shared/flag/DE.gif "เยอรมนี"
-[flag_ES]: /wiki/shared/flag/ES.gif "สเปน"
-[flag_GB]: /wiki/shared/flag/GB.gif "สหราชอาณาจักร"
-[flag_HK]: /wiki/shared/flag/HK.gif "ฮ่องกง"
-[flag_ID]: /wiki/shared/flag/ID.gif "อินโดนีเซีย"
-[flag_NL]: /wiki/shared/flag/NL.gif "เนเธอร์แลนด์"
-[flag_PL]: /wiki/shared/flag/PL.gif "โปแลนด์"
-[flag_SE]: /wiki/shared/flag/SE.gif "สวีเดน"
-[flag_US]: /wiki/shared/flag/US.gif "สหรัฐอเมริกา"
-[flag_VN]: /wiki/shared/flag/VN.gif "เวียดนาม"

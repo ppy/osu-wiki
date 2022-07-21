@@ -87,18 +87,3 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio | Evaluación, comunicación |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Español, portugués, gallego, italiano, japonés | Evaluación |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluación |
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
-[flag_ES]: /wiki/shared/flag/ES.gif "España"
-[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
-[flag_SE]: /wiki/shared/flag/SE.gif "Suecia"
-[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

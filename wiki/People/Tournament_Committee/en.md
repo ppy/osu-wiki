@@ -34,12 +34,3 @@ Those who are interested in joining the tournament committee may express their i
 ## Alumni
 
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

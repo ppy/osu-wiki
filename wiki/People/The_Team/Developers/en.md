@@ -91,19 +91,3 @@ Below listed are users, who have left the ongoing development efforts, and moved
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Game client developer |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Designer |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Game client developer |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SA]: /wiki/shared/flag/SA.gif "Saudi Arabia"
-[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag___]: /wiki/shared/flag/__.gif

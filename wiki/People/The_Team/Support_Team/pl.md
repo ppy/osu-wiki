@@ -33,11 +33,3 @@ Lista wszystkich członków pomocy technicznej znajduje się na [stronie grupy](
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Niemiecki |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Hiszpański |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Niemcy"
-[flag_ES]: /wiki/shared/flag/ES.gif "Hiszpania"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipiny"
-[flag_SE]: /wiki/shared/flag/SE.gif "Szwecja"
-[flag_US]: /wiki/shared/flag/US.gif "Stany Zjednoczone"

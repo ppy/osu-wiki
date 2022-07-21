@@ -83,22 +83,3 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | osu! geliştiricisi, osu!mania modu geliştiricisi |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) sorumlusu |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Community/Video_series/osu!academy) profesörü, medya ve karakter tasarımcısı |
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
-[flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Şili"
-[flag_CN]: /wiki/shared/flag/CN.gif "Çin"
-[flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
-[flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
-[flag_FR]: /wiki/shared/flag/FR.gif "Fransa"
-[flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
-[flag_GR]: /wiki/shared/flag/GR.gif "Yunanistan"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japonya"
-[flag_MX]: /wiki/shared/flag/MX.gif "Meksika"
-[flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norveç"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Yeni Zelanda"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipinler"
-[flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"

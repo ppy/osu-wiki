@@ -88,18 +88,3 @@ NAT самостоятельно отслеживает появление но�
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Индонезийский | Аттестация номинаторов, обратная связь |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Испанский, португальский, галисийский, итальянский, японский | Аттестация номинаторов |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Аттестация номинаторов |
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Австрия"
-[flag_BE]: /wiki/shared/flag/BE.gif "Бельгия"
-[flag_CL]: /wiki/shared/flag/CL.gif "Чили"
-[flag_CN]: /wiki/shared/flag/CN.gif "Китай"
-[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
-[flag_ES]: /wiki/shared/flag/ES.gif "Испания"
-[flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
-[flag_HK]: /wiki/shared/flag/HK.gif "Гонконг"
-[flag_ID]: /wiki/shared/flag/ID.gif "Индонезия"
-[flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
-[flag_PL]: /wiki/shared/flag/PL.gif "Польша"
-[flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
-[flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"
-[flag_VN]: /wiki/shared/flag/VN.gif "Вьетнам"

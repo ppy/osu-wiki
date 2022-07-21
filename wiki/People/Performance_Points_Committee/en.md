@@ -40,12 +40,3 @@ The osu!taiko panel was formed on 1 May 2022 in response to the same survey as a
 | ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) | [Eve-ning](https://github.com/Eve-ning) |
 | ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180) | [molneya](https://github.com/molneya) |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | [Kominaru](https://github.com/Kominaru) |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

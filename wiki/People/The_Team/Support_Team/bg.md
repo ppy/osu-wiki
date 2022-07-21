@@ -33,11 +33,3 @@ no_native_review: true
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Немски |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Испански |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
-[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
-[flag_ES]: /wiki/shared/flag/ES.gif "Испания"
-[flag_NO]: /wiki/shared/flag/NO.gif "Норвегия"
-[flag_PH]: /wiki/shared/flag/PH.gif "Филипини"
-[flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
-[flag_US]: /wiki/shared/flag/US.gif "Съединени Щати"

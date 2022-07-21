@@ -29,11 +29,3 @@ Halaman daftar [Support Team](https://osu.ppy.sh/groups/22).
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Jerman |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
-[flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

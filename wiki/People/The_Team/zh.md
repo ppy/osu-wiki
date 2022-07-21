@@ -82,20 +82,3 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | osu! 开发团队 & osu!mania 开发者 |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) 管理 |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Community/Video_series/osu!academy) 教授 & 媒体/人物 设计 |
-
-[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[flag_CL]: /wiki/shared/flag/CL.gif "智利"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
-[flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
-[flag_FR]: /wiki/shared/flag/FR.gif "法国"
-[flag_GB]: /wiki/shared/flag/GB.gif "英国"
-[flag_GR]: /wiki/shared/flag/GR.gif "希腊"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
-[flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
-[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
-[flag_US]: /wiki/shared/flag/US.gif "美国"

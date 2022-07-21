@@ -79,21 +79,3 @@ Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami ws
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Programista, twórca osu!manii |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Zarządzanie [sklepem osu!](https://osu.ppy.sh/store/listing) |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Prowadzenie [akademii osu!](/wiki/Community/Video_series/osu!academy), grafik |
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentyna"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "Chiny"
-[flag_DE]: /wiki/shared/flag/DE.gif "Niemcy"
-[flag_ES]: /wiki/shared/flag/ES.gif "Hiszpania"
-[flag_FR]: /wiki/shared/flag/FR.gif "Francja"
-[flag_GB]: /wiki/shared/flag/GB.gif "Wielka Brytania"
-[flag_GR]: /wiki/shared/flag/GR.gif "Grecja"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japonia"
-[flag_MX]: /wiki/shared/flag/MX.gif "Meksyk"
-[flag_NL]: /wiki/shared/flag/NL.gif "Holandia"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Nowa Zelandia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipiny"
-[flag_US]: /wiki/shared/flag/US.gif "Stany Zjednoczone"

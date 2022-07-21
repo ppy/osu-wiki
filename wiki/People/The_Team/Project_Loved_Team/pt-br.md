@@ -56,17 +56,3 @@ O resto da equipe ajuda com controle de qualidade, manutenção, e organização
 
 - ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) criou a equipe de capitães original em Setembro 2017 junto do sistema de [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) que posteriormente foi renomeado para o Project Loved. Até o fim de 2019, ele supervisionou e gerenciou o projeto inteiro.
 - Há um grupo de usuário do Project Loved no site com o ID de grupo 31, mas a listagem não é pública. É utilizado para permissões para moderar o [Fórum Project Loved](https://osu.ppy.sh/community/forums/120) e promover beatmaps para a categoria Loved, e os únicos membros são ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237), e ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689).
-
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
-[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japão"
-[flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lituânia"
-[flag_LV]: /wiki/shared/flag/LV.gif "Letônia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
-[flag_RU]: /wiki/shared/flag/RU.gif "Federação Russa"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

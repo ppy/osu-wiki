@@ -55,17 +55,3 @@ Reszta zespołu pomaga z kontrolą jakości, zarządzaniem i organizacją.
 
 - We wrześniu 2017 roku użytkownik ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) stworzył pierwszy zespół kapitanów wraz z systemem [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), którego nazwa została później zmieniona na Project Loved. Do późnego 2019 roku Toy nadzorował i zarządzał całym projektem.
 - Grupa zespołu Project Loved ma numer 31, ale jej strona nie jest dostępna dla wszystkich. Członkowstwo w grupie pozwala na moderowanie [forum Project Loved](https://osu.ppy.sh/community/forums/120) i nadawanie beatmapom statusu ulubionych społeczności. Jedynymi członkami tej grupy są: ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) oraz ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689).
-
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_DE]: /wiki/shared/flag/DE.gif "Niemcy"
-[flag_GB]: /wiki/shared/flag/GB.gif "Wielka Brytania"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japonia"
-[flag_KR]: /wiki/shared/flag/KR.gif "Korea Południowa"
-[flag_LT]: /wiki/shared/flag/LT.gif "Litwa"
-[flag_LV]: /wiki/shared/flag/LV.gif "Łotwa"
-[flag_NL]: /wiki/shared/flag/NL.gif "Holandia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipiny"
-[flag_RU]: /wiki/shared/flag/RU.gif "Rosja"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
-[flag_TW]: /wiki/shared/flag/TW.gif "Tajwan"
-[flag_US]: /wiki/shared/flag/US.gif "Stany Zjednoczone"

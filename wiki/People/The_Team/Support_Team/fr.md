@@ -29,11 +29,3 @@ La [page de groupe de la Support Team](https://osu.ppy.sh/groups/22) énumère t
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Allemand |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Espagnol |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

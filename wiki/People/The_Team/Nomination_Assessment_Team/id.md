@@ -86,18 +86,3 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesia | Evaluasi, komunikasi |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Spanyol, Portugis, Galisia, Italia, Jepang | Evaluasi |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluasi |
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
-[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
-[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
-[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
-[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
-[flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

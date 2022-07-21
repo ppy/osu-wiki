@@ -29,11 +29,3 @@ Eğer bir kimse bahsi geçen alt forumlarda yardıma ihtiyaç duyarsa, ilk olara
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Almanca |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | İspanyolca |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
-[flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
-[flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norveç"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipinler"
-[flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
-[flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"

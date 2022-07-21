@@ -91,19 +91,3 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont abandonné les effor
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Développeur du client |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Designer |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Développeur du client |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_BY]: /wiki/shared/flag/BY.gif "Biélorussie"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
-[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
-[flag_SA]: /wiki/shared/flag/SA.gif "Arabie Saoudite"
-[flag_SK]: /wiki/shared/flag/SK.gif "Slovaquie"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
-[flag___]: /wiki/shared/flag/__.gif

@@ -34,12 +34,3 @@ Les personnes désireuses de rejoindre le comité des tournois peuvent nous fair
 ## Alumni
 
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

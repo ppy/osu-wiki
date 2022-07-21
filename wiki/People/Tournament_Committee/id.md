@@ -34,12 +34,3 @@ Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat meng
 ## Alumni
 
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
-[flag_FR]: /wiki/shared/flag/FR.gif "Perancis"
-[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
-[flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

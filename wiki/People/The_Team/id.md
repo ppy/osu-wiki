@@ -81,22 +81,3 @@ osu! memiliki berbagai kelompok pengguna (*user group*) yang tersusun atas para 
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, pengurus dan penyelenggara World Cup, pemelihara osu!wiki |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Manajer [osu!store](https://osu.ppy.sh/store/listing) |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Guru besar [osu!academy](/wiki/Community/Video_series/osu!academy), pengendali media dan rupa karakter |
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
-[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
-[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
-[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
-[flag_GR]: /wiki/shared/flag/GR.gif "Yunani"
-[flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
-[flag_MX]: /wiki/shared/flag/MX.gif "Meksiko"
-[flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

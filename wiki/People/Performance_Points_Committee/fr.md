@@ -41,12 +41,3 @@ Le panel du mode osu!taiko a été formé le 1er mai 2022 en réponse au même s
 | ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) | [Eve-ning](https://github.com/Eve-ning) |
 | ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180) | [molneya](https://github.com/molneya) |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | [Kominaru](https://github.com/Kominaru) |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hongrie"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

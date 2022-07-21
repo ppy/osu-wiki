@@ -52,12 +52,3 @@ osu! geliştirme çalışması osu!'nun yaratıcısı ::{ flag=AU }:: **[peppy](
 ### Bot hesaplar
 
 - ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
-[flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
-[flag_FR]: /wiki/shared/flag/FR.gif "Fransa"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japonya"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norveç"
-[flag_SK]: /wiki/shared/flag/SK.gif "Slovakya"
-[flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"
-[flag___]: /wiki/shared/flag/__.gif

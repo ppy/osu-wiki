@@ -34,12 +34,3 @@
 ## Ушедшие на покой
 
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Аргентина"
-[flag_BR]: /wiki/shared/flag/BR.gif "Бразилия"
-[flag_CA]: /wiki/shared/flag/CA.gif "Канада"
-[flag_CL]: /wiki/shared/flag/CL.gif "Чили"
-[flag_FR]: /wiki/shared/flag/FR.gif "Франция"
-[flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
-[flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
-[flag_US]: /wiki/shared/flag/US.gif "США"

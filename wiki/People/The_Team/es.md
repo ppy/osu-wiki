@@ -83,22 +83,3 @@ Los siguientes son grupos de usuarios compuestos por miembros de la comunidad qu
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Desarrollador de osu!, desarrollador del modo osu!mania |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Administrador de la [osu!store](https://osu.ppy.sh/store/listing) |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Profesor de [osu!academy](/wiki/Community/Video_series/osu!academy), Diseñador de medios/personajes |
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
-[flag_ES]: /wiki/shared/flag/ES.gif "España"
-[flag_FR]: /wiki/shared/flag/FR.gif "Francia"
-[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
-[flag_GR]: /wiki/shared/flag/GR.gif "Grecia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japón"
-[flag_MX]: /wiki/shared/flag/MX.gif "México"
-[flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
-[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Nueva Zelanda"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
-[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

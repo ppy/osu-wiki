@@ -57,12 +57,3 @@ osu! 的开发工作由 osu! 的创始人 ::{ flag=AU }:: **[peppy](https://osu.
 ### 机器人账户
 
 - ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_FR]: /wiki/shared/flag/FR.gif "法国"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_SK]: /wiki/shared/flag/SK.gif "斯洛伐克"
-[flag_US]: /wiki/shared/flag/US.gif "美国"
-[flag___]: /wiki/shared/flag/__.gif

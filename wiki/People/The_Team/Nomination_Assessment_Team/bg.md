@@ -84,16 +84,3 @@ NAT държи потенциалните NAT членове в списъка �
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Оценка |
 | ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Арабски, Френски | Оценка |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Оценка |
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Белгия"
-[flag_CL]: /wiki/shared/flag/CL.gif "Чили"
-[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Алжир"
-[flag_ES]: /wiki/shared/flag/ES.gif "Испания"
-[flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
-[flag_HK]: /wiki/shared/flag/HK.gif "Хонконг"
-[flag_KR]: /wiki/shared/flag/KR.gif "Южна Кореа"
-[flag_NL]: /wiki/shared/flag/NL.gif "Холандия"
-[flag_PL]: /wiki/shared/flag/PL.gif "Полша"
-[flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
-[flag_US]: /wiki/shared/flag/US.gif "Съединени Щати"

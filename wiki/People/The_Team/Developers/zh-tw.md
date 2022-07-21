@@ -92,19 +92,3 @@ osu! 的開發工作由 osu! 的製作者 ::{ flag=AU }:: **[peppy](https://osu.
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 遊戲客戶端開發者 |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | 設計師 |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | 遊戲客戶端開發者 |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "澳洲"
-[flag_BY]: /wiki/shared/flag/BY.gif "白俄羅斯"
-[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_CN]: /wiki/shared/flag/CN.gif "中國"
-[flag_DE]: /wiki/shared/flag/DE.gif "德國"
-[flag_FR]: /wiki/shared/flag/FR.gif "法國"
-[flag_ID]: /wiki/shared/flag/ID.gif "印尼"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_PL]: /wiki/shared/flag/PL.gif "波蘭"
-[flag_RU]: /wiki/shared/flag/RU.gif "俄羅斯"
-[flag_SA]: /wiki/shared/flag/SA.gif "沙烏地阿拉伯"
-[flag_SK]: /wiki/shared/flag/SK.gif "斯洛伐克"
-[flag_US]: /wiki/shared/flag/US.gif "美國"
-[flag___]: /wiki/shared/flag/__.gif

@@ -38,12 +38,3 @@ no_native_review: true
 ## 名人堂
 
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
-
-[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
-[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_CL]: /wiki/shared/flag/CL.gif "智利"
-[flag_FR]: /wiki/shared/flag/FR.gif "法國"
-[flag_GB]: /wiki/shared/flag/GB.gif "英國"
-[flag_NL]: /wiki/shared/flag/NL.gif "荷蘭"
-[flag_US]: /wiki/shared/flag/US.gif "美國"

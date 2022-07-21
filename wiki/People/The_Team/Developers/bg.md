@@ -95,19 +95,3 @@ osu! разработчиците могат да бъдат разпознат�
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Разработчик на клиент за игра |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Дизайнер |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик на клиент за игра |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
-[flag_BY]: /wiki/shared/flag/BY.gif "Беларус"
-[flag_CA]: /wiki/shared/flag/CA.gif "Канада"
-[flag_CN]: /wiki/shared/flag/CN.gif "Китай"
-[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
-[flag_FR]: /wiki/shared/flag/FR.gif "Франция"
-[flag_ID]: /wiki/shared/flag/ID.gif "Индонезия"
-[flag_JP]: /wiki/shared/flag/JP.gif "Япония"
-[flag_NO]: /wiki/shared/flag/NO.gif "Норвегия"
-[flag_PL]: /wiki/shared/flag/PL.gif "Полша"
-[flag_RU]: /wiki/shared/flag/RU.gif "Русия"
-[flag_SA]: /wiki/shared/flag/SA.gif "Саудитска Арабия"
-[flag_SK]: /wiki/shared/flag/SK.gif "Словакия"
-[flag_US]: /wiki/shared/flag/US.gif "Съединени Щати"
-[flag___]: /wiki/shared/flag/__.gif

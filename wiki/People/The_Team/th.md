@@ -78,21 +78,3 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | ผู้พัฒนา osu!, ผู้พัฒนาโหมด osu!mania |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | ผู้จัดการ [osu!store](https://osu.ppy.sh/store/listing) |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | อาจารย์​ [osu!academy](/wiki/Community/Video_series/osu!academy), ผู้สร้างสื่อและตัวละคร |
-
-[flag_AR]: /wiki/shared/flag/AR.gif "อาร์เจนตินา"
-[flag_AU]: /wiki/shared/flag/AU.gif "ออสเตรเลีย"
-[flag_CA]: /wiki/shared/flag/CA.gif "แคนาดา"
-[flag_CL]: /wiki/shared/flag/CL.gif "ชิลี"
-[flag_CN]: /wiki/shared/flag/CN.gif "จีน"
-[flag_DE]: /wiki/shared/flag/DE.gif "เยอรมนี"
-[flag_ES]: /wiki/shared/flag/ES.gif "สเปน"
-[flag_FR]: /wiki/shared/flag/FR.gif "ฝรั่งเศส"
-[flag_GB]: /wiki/shared/flag/GB.gif "สหราชอาณาจักร"
-[flag_GR]: /wiki/shared/flag/GR.gif "กรีซ"
-[flag_JP]: /wiki/shared/flag/JP.gif "ญี่ปุ่น"
-[flag_MX]: /wiki/shared/flag/MX.gif "เม็กซิโก"
-[flag_NL]: /wiki/shared/flag/NL.gif "เนเธอร์แลนด์"
-[flag_NO]: /wiki/shared/flag/NO.gif "นอร์เวย์"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "นิวซีแลนด์"
-[flag_PH]: /wiki/shared/flag/PH.gif "ฟิลิปปินส์"
-[flag_US]: /wiki/shared/flag/US.gif "สหรัฐอเมริกา"

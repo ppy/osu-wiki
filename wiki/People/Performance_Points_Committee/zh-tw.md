@@ -18,8 +18,3 @@ tags:
 - ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987)
 - ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616)
 - ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "澳洲"
-[flag_GB]: /wiki/shared/flag/GB.gif "英國"
-[flag_HU]: /wiki/shared/flag/HU.gif "匈牙利"
-[flag_RU]: /wiki/shared/flag/RU.gif "俄羅斯"

@@ -53,12 +53,3 @@ Rozwój gry jest prowadzony przez ::{ flag=AU }:: **[peppy'ego](https://osu.ppy.
 ### Konta botów
 
 - ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Niemcy"
-[flag_FR]: /wiki/shared/flag/FR.gif "Francja"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japonia"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
-[flag_SK]: /wiki/shared/flag/SK.gif "Słowacja"
-[flag_US]: /wiki/shared/flag/US.gif "Stany Zjednoczone"
-[flag___]: /wiki/shared/flag/__.gif

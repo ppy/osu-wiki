@@ -91,19 +91,3 @@ Berikut ini adalah para mantan developer yang kini sudah tidak lagi aktif mengem
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Pengembang klien permainan |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Desainer |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang klien permainan |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
-[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
-[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
-[flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
-[flag_SA]: /wiki/shared/flag/SA.gif "Arab Saudi"
-[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
-[flag___]: /wiki/shared/flag/__.gif

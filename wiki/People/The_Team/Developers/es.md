@@ -53,12 +53,3 @@ El esfuerzo de desarrollo de osu! está liderado por ::{ flag=AU }:: **[peppy](h
 ### Cuentas bot
 
 - ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
-[flag_FR]: /wiki/shared/flag/FR.gif "Francia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japón"
-[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
-[flag_SK]: /wiki/shared/flag/SK.gif "Eslovaquia"
-[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
-[flag___]: /wiki/shared/flag/__.gif

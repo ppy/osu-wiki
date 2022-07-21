@@ -42,12 +42,3 @@ tags:
 | ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) | [Eve-ning](https://github.com/Eve-ning) |
 | ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180) | [molneya](https://github.com/molneya) |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | [Kominaru](https://github.com/Kominaru) |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
-[flag_ES]: /wiki/shared/flag/ES.gif "Испания"
-[flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
-[flag_HU]: /wiki/shared/flag/HU.gif "Венгрия"
-[flag_MY]: /wiki/shared/flag/MY.gif "Малайзия"
-[flag_RU]: /wiki/shared/flag/RU.gif "Россия"
-[flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
-[flag_US]: /wiki/shared/flag/US.gif "США"

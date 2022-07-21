@@ -34,12 +34,3 @@ Diejenigen, die an einer Mitarbeit im Turnierkomitee interessiert sind, können 
 ## Alumni
 
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentinien"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brasilien"
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"
-[flag_GB]: /wiki/shared/flag/GB.gif "Vereinigtes Königreich"
-[flag_NL]: /wiki/shared/flag/NL.gif "Niederlande"
-[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"

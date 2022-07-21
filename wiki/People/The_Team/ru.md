@@ -83,22 +83,3 @@ tags:
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Разработчик osu! и автор режима osu!mania |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Менеджер [osu!store](https://osu.ppy.sh/store/listing) |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Профессор [osu!academy](/wiki/Community/Video_series/osu!academy), дизайнер персонажей и различных медиа |
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Аргентина"
-[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
-[flag_BR]: /wiki/shared/flag/BR.gif "Бразилия"
-[flag_CA]: /wiki/shared/flag/CA.gif "Канада"
-[flag_CL]: /wiki/shared/flag/CL.gif "Чили"
-[flag_CN]: /wiki/shared/flag/CN.gif "Китай"
-[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
-[flag_ES]: /wiki/shared/flag/ES.gif "Испания"
-[flag_FR]: /wiki/shared/flag/FR.gif "Франция"
-[flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
-[flag_GR]: /wiki/shared/flag/GR.gif "Греция"
-[flag_JP]: /wiki/shared/flag/JP.gif "Япония"
-[flag_MX]: /wiki/shared/flag/MX.gif "Мексика"
-[flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
-[flag_NO]: /wiki/shared/flag/NO.gif "Норвегия"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Новая Зеландия"
-[flag_PH]: /wiki/shared/flag/PH.gif "Филиппины"
-[flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"

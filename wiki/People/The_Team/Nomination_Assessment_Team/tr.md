@@ -86,18 +86,3 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Endonezce | Değerlendirme, haberleşme |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | İspanyolca, Portekizce, Galiçyaca, İtalyanca, Japonca | Değerlendirme |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Değerlendirme |
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Avusturya"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
-[flag_CL]: /wiki/shared/flag/CL.gif "Şili"
-[flag_CN]: /wiki/shared/flag/CN.gif "Çin"
-[flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
-[flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
-[flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Endonezya"
-[flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polonya"
-[flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
-[flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

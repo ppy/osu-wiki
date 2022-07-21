@@ -80,18 +80,3 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 | 评估，沟通 |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | 西班牙语，葡萄牙语，加利西亚语，意大利语，日语 | 评估 |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 评估 |
-
-[flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
-[flag_BE]: /wiki/shared/flag/BE.gif "比利时"
-[flag_CL]: /wiki/shared/flag/CL.gif "智利"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
-[flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
-[flag_GB]: /wiki/shared/flag/GB.gif "英国"
-[flag_HK]: /wiki/shared/flag/HK.gif "香港"
-[flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
-[flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
-[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
-[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
-[flag_US]: /wiki/shared/flag/US.gif "美国"
-[flag_VN]: /wiki/shared/flag/VN.gif "越南"
