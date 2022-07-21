@@ -14,7 +14,7 @@ As an extra special addition, [BTMC](https://osu.ppy.sh/users/3171691) will be p
 
 ## Tournament
 
-The Quickfire Showdown, the main event of community run space, is an open tournament held on both days for those present at the venue. As the name implies, there will be no warmups, and the mappools will be revealed on the spot. 
+The Quickfire Showdown, the main event of the osu! community run space, is an open tournament held on both days for those present at the venue. As the name implies, there will be no warmups, and the mappools will be revealed on the spot. 
 
 Additionally, as a CONQuest PH 2022 exclusive, there will be a track from one of osu!'s featured artists, [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88)! 
 
