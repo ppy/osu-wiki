@@ -27,7 +27,8 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 ---
 
 ### Navigation
-- [What's up on osu!?](#whats-up-on-osu)
+[What's up in osu!?](#whats-up-in-osu)
+
 - [Top Scores of the Month](#top-scores-of-the-month)
 - [New features on osu!lazer](#new-features-on-osulazer)
 - [Summary of this article](#summary-of-this-article)
