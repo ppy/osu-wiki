@@ -1,0 +1,33 @@
+no_native_review: true
+
+separator: ", "
+alumni:
+  roles:
+    academy: ιδρυτής osu!academy
+    admin: διαχείριση
+    chat: μεσολαβητής chat
+    dev: προγραμματιστής osu!
+    media: δημιουργία osu!media
+    support: ομάδα τεχνικής υποστήριξης
+    tournaments: διαχείριση τουρνουά
+gmt:
+  all_mods: κάθε μεσολαβητής
+  areas:
+    beatmap: μεσολαβητής beatmap
+    chat: μεσολαβητής chat
+    forum: μεσολαβητής forum
+    team: επίσημος ομάδα παρουσία
+    dev: προγραμματιστής osu!
+    player: υποστήριξη παίκτη
+    support: τεχνική υποστήριξη
+    tournaments: διαχείριση τουρνουά
+    wiki: Διαχείριση Wiki
+    mapping: κοινότητα χάρτη/τροποποίησης μεσολαβητής
+nat:
+  areas:
+    communication: επικοινωνία
+    evaluation: διατίμηση
+    moderation: μεσολαβητής
+    structural: οικοδομικός
+languages:
+  partial: λιγο <language>
