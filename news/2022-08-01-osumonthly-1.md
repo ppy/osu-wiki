@@ -5,7 +5,13 @@ date: 2022-07-28
 author: Soetch, Blushing, wowcake, 0x84f
 ---
 
-This is the new community's news post : osu!monthly (a new one, again)!
+![](/wiki/shared/news/2022-08-01-osumonthly-1/banner-july.png)
+
+# Introducing osu!monthly
+
+It has been a long time since the last osu!weekly was released and luckily, we have something exciting to show you: osu!monthly! The new community news post format.
+
+6 years passed in which the community didn't have a regular post. Today, we're coming in with ***osu!monthly***, a bigger format.
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/banner-july.png)
 
