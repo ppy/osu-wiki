@@ -108,7 +108,7 @@ August's contest has just come to a close, with information about September's in
 
 July's contest has also released its results this past week. Congratulations to [xbopost](https://osu.ppy.sh/users/6842421) who not only won overall, but also won the screening crew's favorite, and with those points, xbopost has now achieved the second tier MBC profile badge! It's well earned as the map made excellent use of the CS 0 limitation, so be sure to check out their entry [here](https://osu.ppy.sh/beatmapsets/1244127#osu/2586241)!
 
-View the latest information regarding MBC in the [wiki article](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest).
+View the latest information regarding MBC in the [wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
 
 ### Aspire V
 

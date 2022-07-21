@@ -154,7 +154,7 @@ As mentioned, many of these results blew everyone away. Special shout-out to **T
 | ::{ flag=GB }:: **United Kingdom** | **4** | 1 | United States ::{ flag=US }:: |
 | ::{ flag=AU }:: **Australia** | **3** | 2 | Norway ::{ flag=NO }:: |
 | ::{ flag=KR }:: **South Korea** | **3** | 2 | Denmark ::{ flag=DK }:: |
-| ::{ flag=PL }:: Poland | 2 | **3** | **Russian Federation** ::{ flag=RU }:: | 
+| ::{ flag=PL }:: Poland | 2 | **3** | **Russian Federation** ::{ flag=RU }:: |
 
 #### Quarterfinals Match-ups
 
@@ -163,7 +163,7 @@ As mentioned, many of these results blew everyone away. Special shout-out to **T
 | ::{ flag=FR }:: **France** | vs. | **Argentina** ::{ flag=AR }:: |
 | ::{ flag=VN }:: **Vietnam** | vs. | **Brazil** ::{ flag=BR }:: |
 | ::{ flag=GB }:: **United Kingdom** | vs. | **Australia** ::{ flag=AU }:: |
-| ::{ flag=KR }:: **South Korea** | vs. | **Russian Federation** ::{ flag=RU }:: | 
+| ::{ flag=KR }:: **South Korea** | vs. | **Russian Federation** ::{ flag=RU }:: |
 
 ### The Big Fans Mapping Contest
 
