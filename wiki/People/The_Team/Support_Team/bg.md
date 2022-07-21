@@ -25,19 +25,11 @@ no_native_review: true
 
 | Име | Допълнителен език |
 | :-- | :-- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Филипински |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Шведски, Испански |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Немски |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Испански |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
-[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
-[flag_ES]: /wiki/shared/flag/ES.gif "Испания"
-[flag_NO]: /wiki/shared/flag/NO.gif "Норвегия"
-[flag_PH]: /wiki/shared/flag/PH.gif "Филипини"
-[flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
-[flag_US]: /wiki/shared/flag/US.gif "Съединени Щати"
+| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
+| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Филипински |
+| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Шведски, Испански |
+| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
+| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Немски |
+| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Испански |
