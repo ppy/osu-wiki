@@ -69,7 +69,7 @@ Thanks again to [BTMC](https://osu.ppy.sh/users/3171691) and his staff for this 
 
 As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, osu!taiko takes it upon itself to rival even that of [*The Roundtable*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable) with their very own annual entry of **[Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)**!
 
-As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsus, and if we even dare-say, taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
+As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsu, and quite possibly, even, Taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
