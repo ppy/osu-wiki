@@ -11,30 +11,34 @@ author: Soetch, Blushing, wowcake, 0x84f
 
 It has been a long time since the last osu!weekly was released and luckily, we have something exciting to show you: osu!monthly! The new community news post format.
 
-6 years passed in which the community didn't have a regular post. Today, we're coming in with ***osu!monthly***, a bigger format.
+6 years have passed since the last community post of this type. Today, this changes with an all-to-familiar, but larger-in-scope version, dubbed: ***osu!monthly***.
+
 
 ## Word of the editors :
 
-We think we did a good job gathering information for **July**, but we started on the 17 July, so we had only two weeks to write, review and commit this article.
+Keeping the news post somewhat simple until the team can establish a foundation that is worked on through community feedback, suggestions, and what you, the readers, would like to see more of. The team decided to keep July's edition on the lighter end of the content to make sure the news post has a solid foundation to what *we* hope will gather interest and pose more involvement for the news post and the community.
 
-It'll never be the same as osu!weekly, but we're working hard to propose a frequent format, please be kind with us, new writers! We're highly receptive to it, so feedback is highly appreciated!
 
-➥ *[Soetch](https://osu.ppy.sh/users/15970028), [Blushing](https://osu.ppy.sh/users/5927823), [wowcake](https://osu.ppy.sh/users/16121851) & [0x84f](https://osu.ppy.sh/users/7944724)*
+It'll never be the same as osu!weekly, but we're working hard to propose a frequent format, please be kind to us, new writers! We're highly receptive to it, so feedback is highly appreciated!
+
+
+➥ *[Soetch](https://osu.ppy.sh/users/15970028), [Blushing](https://osu.ppy.sh/users/5927823), [wowcake](https://osu.ppy.sh/users/16121851), and [0x84f](https://osu.ppy.sh/users/7944724)*
 
 ---
 
 ### Navigation
-- [What's up on osu!?](#whats-up-on-osu)
+[What's up in osu!?](#whats-up-in-osu)
+
 - [Top Scores of the Month](#top-scores-of-the-month)
-- [New features on osu!lazer](#new-features-on-osulazer)
+- [New features on osu!(lazer)](#new-features-on-osulazer)
 - [Summary of this article](#summary-of-this-article)
 - [End Word](#end-word)
 
 ---
 
-## What's up on osu!? 
+## What's up in osu!? 
 
-Here are the latest updates, events and even more!
+Here are the latest updates, events, and more!
 
 ### ![](/wiki/shared/mode/osu.png) osu! 
 
@@ -45,11 +49,11 @@ Here are the latest updates, events and even more!
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/roundtable/RTable_players.jpg)
 
-With the players showcased above, we have [BTMC](https://osu.ppy.sh/users/3171691) and [Happystick](https://osu.ppy.sh/users/256802) commentating, genius roster who make sense for this first **IRL osu! invitational**!
+With the players showcased above, we have [BTMC](https://osu.ppy.sh/users/3171691) and [Happystick](https://osu.ppy.sh/users/256802) commentating, a genius roster that makes sense for this first **IRL osu! invitational**!
 
 As if it wasn't enough, [mrekk](https://osu.ppy.sh/users/7562902) was there too! If you weren't able to follow the event, no worries! The official Roundtable's YouTube channel has the full VODs [here](https://www.youtube.com/channel/UC6fSQd4oKBPxkBR93GucCUg/featured)!
 
-With that many great players, such as [mrekk](https://osu.ppy.sh/users/7562902), [Utami](https://osu.ppy.sh/users/7512553), [RyuK](https://osu.ppy.sh/users/6304246) and many others, this tournament was incredible! The competition's spirit was mixed with the entertaining cast and gimmicks of [BTMC](https://osu.ppy.sh/users/3171691) and the result was epic!
+With that many great players, such as [mrekk](https://osu.ppy.sh/users/7562902), [Utami](https://osu.ppy.sh/users/7512553), [RyuK](https://osu.ppy.sh/users/6304246), and many others, this tournament was incredible! The competition's spirit was mixed with the entertaining cast and gimmicks of [BTMC](https://osu.ppy.sh/users/3171691) and the result was nothing but epic!
 
 In terms of epic, we were served with the finals: [mrekk](https://osu.ppy.sh/users/7562902) vs [Utami](https://osu.ppy.sh/users/7512553)! Despite mrekk's defeat against [Utami]([Utami](https://osu.ppy.sh/users/7512553)), his performances were impressive, along with [Utami](https://osu.ppy.sh/users/7512553)'s. His first rank on the leaderboard is indeed his throne.
 
@@ -67,7 +71,7 @@ Thanks again to [BTMC](https://osu.ppy.sh/users/3171691) and his staff for this 
 
 As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, osu!taiko takes it upon itself to rival even that of [*The Roundtable*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable) with their very own annual entry of **[Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)**!
 
-As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsus, and if we even dare-say, taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
+As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsu, and quite possibly, even, Taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -75,21 +79,21 @@ As the name implies, the showdown is to take place between those whose dreams co
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/podium.png)
 
-For the fourth time in a row and a total of eight wins, South Korea are the osu!catch champions. The roster consisting of [JISAN](https://osu.ppy.sh/users/3657951), [Rells](https://osu.ppy.sh/users/7937519), [YesMyDarknesss](https://osu.ppy.sh/users/4158549), [x_angelkawaii_x](https://osu.ppy.sh/users/566276), [DreStar](https://osu.ppy.sh/users/1808057) and [Byeol](https://osu.ppy.sh/users/2754651). With second and third places placed by United States ([Secre](https://osu.ppy.sh/users/2306637), [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983)) and China ([Dusk](https://osu.ppy.sh/users/533210), [Callionet](https://osu.ppy.sh/users/3072921), [Coevir](https://osu.ppy.sh/users/3171965), [Crystal](https://osu.ppy.sh/users/1646397), [KagamineRin02](https://osu.ppy.sh/users/518503), [Kitakami](https://osu.ppy.sh/users/6347308)).
+For the fourth time in a row and a total of eight wins, South Korea are the osu!catch champions. The roster consisted of [JISAN](https://osu.ppy.sh/users/3657951), [Rells](https://osu.ppy.sh/users/7937519), [YesMyDarknesss](https://osu.ppy.sh/users/4158549), [x_angelkawaii_x](https://osu.ppy.sh/users/566276), [DreStar](https://osu.ppy.sh/users/1808057), and [Byeol](https://osu.ppy.sh/users/2754651). With second and third places won by the United States ([Secre](https://osu.ppy.sh/users/2306637), [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983)) and China ([Dusk](https://osu.ppy.sh/users/533210), [Callionet](https://osu.ppy.sh/users/3072921), [Coevir](https://osu.ppy.sh/users/3171965), [Crystal](https://osu.ppy.sh/users/1646397), [KagamineRin02](https://osu.ppy.sh/users/518503), [Kitakami](https://osu.ppy.sh/users/6347308)), respectively.
 
-It's not a secret that players from South Korea are so good that they could swap each other and win the entire tournament no matter what's ahead. With no [qwhj1027](https://osu.ppy.sh/users/7547506) and [Abstract-](https://osu.ppy.sh/users/3097304) winning the previous year, some analysts had doubts that they could claim the winning title this year. Thankfully or not, that wasn't the case here at all. With 11 maps lost in this entire tournament, South Korea showed that even with not the strongest players this game could possibly meet there are plenty of players that can still impress in this mode.
+It is no secret that players from South Korea are so good that they could swap with each other and win the entire tournament no matter what they were faced up against. With [qwhj1027](https://osu.ppy.sh/users/7547506) and [Abstract-](https://osu.ppy.sh/users/3097304) not being in the South Korean team like the previous year, some analysts had doubts that they could claim the winning title this year. Thankfully or not, that wasn't the case here at all. With 11 maps lost in this entire tournament, South Korea showed that even without the strongest players this game could produce, there are plenty of players ready to take their shot at impressing the community and the crowd.
 
-United States entered this tournament with almost the same roster with swapping [Kisetsunotori](https://osu.ppy.sh/users/3692648) to [Elux](https://osu.ppy.sh/users/12004983) being the only roster change. Although they've fallen to the losers bracket after playing a match against South Korea, United States showed their determination to achieve something worthy. In the end, they've claimed themselfes as grand finalists for the second time in this world cup.
+The United States entered this tournament with almost the same roster with swapping [Kisetsunotori](https://osu.ppy.sh/users/3692648) to [Elux](https://osu.ppy.sh/users/12004983) being the only roster change. Although they've fallen to the losers bracket after playing a match against South Korea, the United States showed their determination to achieve something worthy. In the end, they've claimed themselves as grand finalists for the second time in this world cup.
 
-With the recent change of swapping from Group Stages to Qualifiers format, most of the players and viewers didn't expect to see China on a very top despite failing their previous run placing 8th-7th place. Their expectations worth it in the end as they instantly gained their glory reaching winners finals bracket without losing a single match until meeting with South Korea and untimately to United States. Even with a long year absense, China showed that even being absent for an entire year they can still make a good fight with top teams.
+With the recent change of swapping from Group Stages to Qualifiers format, most of the players and viewers didn't expect to see China on the top despite failing their previous run placing 7th—8th place. Their expectations were worth it in the end as they instantly gained their glory reaching the winner's finals bracket without losing a single match until clashing with South Korea and, ultimately, the United States. Even with a long year of absence, China showed that even being absent for an entire year they can still make a good fight with top teams.
 
-There's still plenty of tournaments running though even after the conclusion of CWC! The digit tournaments, [4 Digit Catch World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/4CWC/2022) and [3 Digit Catch World Cup 2022](https://osu.ppy.sh/community/forums/topics/1580097 ), are up and running and a second iteration of [Catch French Dual Cup 2](https://osu.ppy.sh/community/forums/topics/1605746) currently in the registered phase. There's nothing to talk about these tournaments yet but maybe with the new osu!monthly release we can fully recap what was going on with conclusions and stuff!
+There are still plenty of tournaments running, even after the conclusion of CWC! The digit tournaments, [4 Digit Catch World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/4CWC/2022) and [3 Digit Catch World Cup 2022](https://osu.ppy.sh/community/forums/topics/1580097 ), are up and running and the second iteration of [Catch French Dual Cup 2](https://osu.ppy.sh/community/forums/topics/1605746) is currently in the registering phase. There's nothing to talk about these tournaments just quite yet, but maybe with the new osu!monthly release we can fully recap what infamous rivalries transpire along with the conclusions, and maybe something new!
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 #### In August, the osu!mania top players will brawl in the osu!mania World Cup 2022!
 
-As it is starting the **6th of August**, we can't actually talk about it more, but we are excited to say that the next osu!monthly is going to have a **big article** about it, and maybe an **interview of the winner**!
+As it is starting the on **6th of August**, we can't actually talk about it more, but we are excited to say that the next osu!monthly is going to have a **big article** about it, and maybe an **interview of the winner**!
 
 [*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open) 
 
@@ -115,12 +119,12 @@ This taiko play is set at  an average of 411 BPM, yes, you read that right! **41
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 #### The mania k-pop community is going to be absolutely ecstatic at this next showcase. 
-With [Onta_Bekasi](https://osu.ppy.sh/users/8677684) not just clearing, but FCing the deceptively difficult yet soothing myriad of LNs and intricate patterns that [My Man](https://osu.ppy.sh/beatmapsets/514681#mania/1093212) so elegantly puts on display, it is of true bewilderment that [Onta_Bekasi](https://osu.ppy.sh/users/8677684) only suffers a 00.02 accuracy drop across a 3 minute map and over 5000 notes. Truly a wonderful display of skill, enjoyment of the game, and a play that is more than deserving of being showcased.
+With [Onta_Bekasi](https://osu.ppy.sh/users/8677684) not just clearing, but FCing the deceptively difficult yet soothing myriad of LNs and intricate patterns that [My Man](https://osu.ppy.sh/beatmapsets/514681#mania/1093212) so elegantly puts on display, it is of incredible skill, and no small effort, that [Onta_Bekasi](https://osu.ppy.sh/users/8677684) only suffers a 00.02 accuracy drop across a 3-minute map and over 5000 notes. Truly a wonderful display of what osu!mania can offer, enjoyment of the game, and is a play that is more than deserving of being showcased.
 
 <iframe width="100%" height="315" src="<mania 7k>https://youtu.be/embed/1RuyJ3y_ot4" frameborder="0" allowfullscreen></iframe>
 
 #### Wow. Just completely shocked at this performance by [[GS]Myuka](https://osu.ppy.sh/users/10072733) on [Camellia’s - MI11I0N PP](https://osu.ppy.sh/beatmapsets/1388481#mania/2867552). 
-If you thought *My Man* had LNs, wait until you watch just over 7 minutes of almost non-stop LN action along with being bridled by intense single-note action and BPM changes throughout the map. 
+If you thought *My Man* had LNs, wait until you see a map of over 7 minutes of non-stop LN gameplay, and with not just single-note rainbows and glissandos, but an interconnected web of the two. It is an impeccable display of skill, accuracy, speed, and just what osu!monthly is looking for in a showcase!
 
 <iframe width="100%" height="315" src="<mania 4k>https://youtu.be/embed/nc_ejGtZKUM" frameborder="0" allowfullscreen></iframe>
 
