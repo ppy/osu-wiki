@@ -38,7 +38,7 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 
 ## What's up in osu!? 
 
-Here are the latest updates, events and even more!
+Here are the latest updates, events, and more!
 
 ### ![](/wiki/shared/mode/osu.png) osu! 
 
