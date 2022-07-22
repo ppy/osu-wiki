@@ -39,7 +39,7 @@ Todo sobre círculos, tambores, frutas y el sintetizador: elementos clave, conce
 
 [Modos de juego](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Dificultad](/wiki/Beatmap/Difficulty) • [Objetos](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Puntuación](/wiki/Gameplay/Score) • [Repetición](/wiki/Gameplay/Replay) • [Medallas](/wiki/Medals) • [Multijugador](/wiki/Gameplay/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Dificultad](/wiki/Beatmap/Difficulty) • [Objetos](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Puntuación](/wiki/Gameplay/Score) • [Repetición](/wiki/Gameplay/Replay) • [Medallas](/wiki/Medals) • [Multijugador](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

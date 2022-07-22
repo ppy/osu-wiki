@@ -45,7 +45,7 @@ tags:
 | `Esc` | 返回或取消 |
 | `P`，`E` 或 `O` | 打开游玩菜单 |
 | 三次 `P` | 进入单人游戏 |
-| 两次 `P` 后 `M` | 进入[多人游戏](/wiki/Gameplay/Multiplayer) |
+| 两次 `P` 后 `M` | 进入[多人游戏](/wiki/Client/Interface/Multiplayer) |
 | 两次 `E` | 进入编辑器模式 |
 | `O` | 打开设置菜单 |
 | `Q` | 退出游戏 |

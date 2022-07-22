@@ -130,10 +130,10 @@ Listed below are players who qualified into the Group stage (along with their re
   3. [Ryoukoushoku Shakai - Mela! (Battle) \[Hero!\]](https://osu.ppy.sh/beatmapsets/1209920#fruits/2519013)
   4. [Se-U-Ra - Qlifact -another- (Nao Tomori) \[Expert\]](https://osu.ppy.sh/beatmapsets/1224699#fruits/2547134)
 - DoubleTime
-  1. [halca - Kokuhaku Bungee Jump (Chatie) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/1249031#fruits/2595983)
-  2. [frederic - ONLYWONDER (JBHyperion) \[Bloom\]](https://osu.ppy.sh/beatmapsets/1488552#fruits/3051572)
-  3. [sana - Senpai. (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/637706#osu/1410075)
-  4. [JUNNA - Here (rosario wknd) \[Heartache\]](https://osu.ppy.sh/beatmapsets/1577247#fruits/3220509)
+  1. [halca - Kokuhaku Bungee Jump (Spectator) \[Rain\]](https://osu.ppy.sh/beatmapsets/1249031#fruits/2595983)
+  2. [frederic - ONLYWONDER (Terton) \[dakara wonder, tender\]](https://osu.ppy.sh/beatmapsets/1488552#fruits/3051572)
+  3. [sana - Senpai. (Kyuukai) \[Lasse's Insane\]](https://osu.ppy.sh/beatmapsets/637706#osu/1410075)
+  4. [JUNNA - Here (wafer) \[Sentis\]](https://osu.ppy.sh/beatmapsets/1577247#fruits/3220509)
 - Tiebreaker
   1. **[Ka7ag5th - Galaxia (-Rustyy) \[Cosmic Destruction\]](https://osu.ppy.sh/beatmapsets/1724444#fruits/3524320)**
 

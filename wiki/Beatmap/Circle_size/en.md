@@ -16,7 +16,7 @@ In osu!, circle size changes the size of hit circles and sliders, with higher va
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
-Where `r` is the radius measured in osu!pixels, and `CS` is the circle size value.
+Where `r` is the radius measured in [osu!pixels](/wiki/osu!pixel), and `CS` is the circle size value.
 
 ## osu!taiko
 

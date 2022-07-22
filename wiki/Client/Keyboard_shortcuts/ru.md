@@ -37,7 +37,7 @@ outdated_translation: true
 - `P`: Меню игры
 - `P`, затем `P`: Соло
   - или: `E`, затем `P`, затем `P`
-- `P`, затем `M`: [Мультиплеер](/wiki/Gameplay/Multiplayer)
+- `P`, затем `M`: [Мультиплеер](/wiki/Client/Interface/Multiplayer)
   - или: `E`, затем `P`, затем `M`
 - `P`, затем `E`: Режим редактирования
 - `D`: osu!direct (только для [osu!supporter](/wiki/osu!supporter))
@@ -62,7 +62,7 @@ outdated_translation: true
 
 ## Выбор песен
 
-Заметка: Не все из них работают на экране выбора песен во время [мультиплеера](/wiki/Gameplay/Multiplayer).
+Заметка: Не все из них работают на экране выбора песен во время [мультиплеера](/wiki/Client/Interface/Multiplayer).
 
 - `Alt` + `Стрелка вверх`: Увеличить громкость
 - `Alt` + `Стрелка вниз`: Уменьшить громкость

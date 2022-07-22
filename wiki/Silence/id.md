@@ -16,7 +16,7 @@ Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan
 - Berpartisipasi dalam [laman diskusi beatmap](/wiki/Beatmap_discussion)
 - Menyunting rincian profilnya masing-masing (semisal mengganti avatar atau mengubah isi bagian "me!")
 - Mengunggah beatmap baru atau memperbarui beatmap-beatmap yang sudah ada
-- Berpartisipasi dalam [pertandingan multiplayer](/wiki/Gameplay/Multiplayer)
+- Berpartisipasi dalam [pertandingan multiplayer](/wiki/Client/Interface/Multiplayer)
 
 Di samping itu, seluruh pesan yang sebelumnya telah dikirim oleh pengguna yang bersangkutan akan ikut terhapus dari seluruh kanal *chat* dan *private message* yang aktif [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
 

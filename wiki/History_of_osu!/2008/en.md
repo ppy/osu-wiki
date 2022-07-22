@@ -32,7 +32,7 @@ The [Taiko](/wiki/Game_mode/osu!taiko) mode first saw the light of day in this m
 
 ## June
 
-A major milestone in osu! history was reached with the addition of the [Multi (multiplayer)](/wiki/Gameplay/Multiplayer) game mode. Skinning options were expanded further regarding both graphics and sounds. Lastly, multi-channel chat was possible for the first time.
+A major milestone in osu! history was reached with the addition of the [Multi (multiplayer)](/wiki/Client/Interface/Multiplayer) game mode. Skinning options were expanded further regarding both graphics and sounds. Lastly, multi-channel chat was possible for the first time.
 
 ## July
 
