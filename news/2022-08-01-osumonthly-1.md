@@ -30,7 +30,7 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 [What's up in osu!?](#whats-up-in-osu)
 
 - [Top Scores of the Month](#top-scores-of-the-month)
-- [New features on osu!lazer](#new-features-on-osulazer)
+- [New features on osu!(lazer)](#new-features-on-osulazer)
 - [Summary of this article](#summary-of-this-article)
 - [End Word](#end-word)
 
