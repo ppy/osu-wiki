@@ -55,7 +55,9 @@ In terms of epic, we were served with the finals: [mrekk](https://osu.ppy.sh/use
 
 A best-of from this match was made on the [BTMC](https://osu.ppy.sh/users/3171691) [channel](https://twitch.tv/btmc), with exclusive interviews of the players, by [BTMC](https://osu.ppy.sh/users/3171691) (what a surprise, ahah) and Happystick, the casters of this amazing show! You can find it [here](https://www.youtube.com/watch?v=Y7LqBZL)!
 
-Anyway, The Roundtable has now ended, and hopefully this towering experience returns next year!
+Anyway, The Roundtable has now ended, we can't wait until the next edition!
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Roundtable will return.<br>Thank you, everyone ❤️</p>&mdash; BTMC 🔜 CONQuestPH 🇵🇭 (@btmclive) <a href="https://twitter.com/btmclive/status/1546335465518682112?ref_src=twsrc%5Etfw">July 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable)
 
@@ -88,8 +90,6 @@ There's still plenty of tournaments running though even after the conclusion of 
 #### In August, the osu!mania top players will brawl in the osu!mania World Cup 2022!
 
 As it is starting the **6th of August**, we can't actually talk about it more, but we are excited to say that the next osu!monthly is going to have a **big article** about it, and maybe an **interview of the winner**!
-
-Please stay tuned about the next article, and we're moving on the next section!
 
 [*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open) 
 
