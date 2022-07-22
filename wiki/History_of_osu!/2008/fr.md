@@ -32,7 +32,7 @@ Le mode [osu!taiko](/wiki/Game_mode/osu!taiko) *(Taiko)* a vu le jour ce mois-ci
 
 ## Juin
 
-Une étape importante de l'histoire d'osu! a été atteinte avec l'ajout du [multijoueur](/wiki/Gameplay/Multiplayer). Les possibilités de skinning ont été agrandies pour à la fois le coté graphique et sonore. Enfin, le tchat multi-canal a été rendu possible pour la première fois.
+Une étape importante de l'histoire d'osu! a été atteinte avec l'ajout du [multijoueur](/wiki/Client/Interface/Multiplayer). Les possibilités de skinning ont été agrandies pour à la fois le coté graphique et sonore. Enfin, le tchat multi-canal a été rendu possible pour la première fois.
 
 ## Juillet
 

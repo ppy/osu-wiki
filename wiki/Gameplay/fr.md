@@ -17,7 +17,6 @@
 - [Kiai time](/wiki/Gameplay/Kiai_time)
 - [Longueur de drain](/wiki/Gameplay/Drain_time)
 - [Mind block](/wiki/Gameplay/Mind_block)
-- [Multijoueur](/wiki/Gameplay/Multiplayer)
 - [Notelock](/wiki/Gameplay/Judgement/Notelock)
 - [Pass](/wiki/Gameplay/Pass)
 - [Protection pour tablette](/wiki/Gameplay/Tablet_cover)

@@ -9,7 +9,7 @@ tags:
 
 ## Compte bot  
 
-Un **compte bot** est un type spécial de compte osu! appartenant à un service automatisé et non à une personne. Sur le site web, ils ont un badge de groupe blanc intitulé `BOT`, et seulement la section `moi!` de leur profil est visible. Les comptes bots sont principalement utilisés pour héberger des "tchat bots" qui offrent des fonctionnalités variées dans les salons [multijoueur](/wiki/Gameplay/Multiplayer) ou encore dans les messages privés.
+Un **compte bot** est un type spécial de compte osu! appartenant à un service automatisé et non à une personne. Sur le site web, ils ont un badge de groupe blanc intitulé `BOT`, et seulement la section `moi!` de leur profil est visible. Les comptes bots sont principalement utilisés pour héberger des "tchat bots" qui offrent des fonctionnalités variées dans les salons [multijoueur](/wiki/Client/Interface/Multiplayer) ou encore dans les messages privés.
 
 Les comptes bot ne peuvent être créés que via [un formulaire d'inscription](#créer-un-compte-bot). Essayer de créer un compte bot en s'inscrivant est considéré comme du multi-compte, ce qui est à l'encontre des [règles de la communauté](/wiki/Rules#règles-communautaires).
 

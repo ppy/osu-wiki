@@ -16,7 +16,7 @@
 - [ビートマップのディスカッション](/wiki/Beatmap_discussion)に参加する
 - プロフィールの詳細（プロフィール画像、me!など）を編集する
 - ビートマップを作成・更新する
-- [マルチプレイヤ－](/wiki/Gameplay/Multiplayer)ゲームに参加する
+- [マルチプレイヤ－](/wiki/Client/Interface/Multiplayer)ゲームに参加する
 
 上記に加えて、サイレンスされたユーザーの発言はすべてのパブリックチャンネルとプライベートチャンネルから削除されます[[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)。
 
