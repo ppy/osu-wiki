@@ -146,7 +146,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) was a semi-rest
 | 10 | ::{ flag=PH }:: [Inoariusu](https://osu.ppy.sh/users/8586656) |
 | 11 | ::{ flag=PH }:: [vincent4399](https://osu.ppy.sh/users/9764388) |
 | 12 | ::{ flag=AE }:: [Suravur](https://osu.ppy.sh/users/10160304) |
-| 13 | ::{ flag=__ }:: [Izayoi-san-](https://osu.ppy.sh/users/11871956) |
+| 13 | ::{ flag=XX }:: [Izayoi-san-](https://osu.ppy.sh/users/11871956) |
 | 14 | ::{ flag=PH }:: [LohaWarpe](https://osu.ppy.sh/users/8560810) |
 | 15 | ::{ flag=PH }:: [hikaruXD19](https://osu.ppy.sh/users/5417259) |
 | 16 | ::{ flag=PH }:: [Partycarft30](https://osu.ppy.sh/users/8046460) |
@@ -1080,7 +1080,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
 | 16 | **partycarft30** ::{ flag=PH }:: | **6** | 0 | ::{ flag=PH }:: Edison | 8 | *win by default* |
-| 13 | Izayoi-san ::{ flag=__ }:: | 0 | **6** | ::{ flag=AE }:: **Suravur** | 12 | *win by default* |
+| 13 | Izayoi-san ::{ flag=XX }:: | 0 | **6** | ::{ flag=AE }:: **Suravur** | 12 | *win by default* |
 | 15 | hikaruXD19 ::{ flag=PH }:: | 4 | **6** | ::{ flag=PH }:: **Inoariusu** | 10 |  |
 | 14 | LohaWarpe ::{ flag=PH }:: | 0 | **6** | ::{ flag=PH }:: **vincent4399** | 11 |  |
 | 1 | **arge-** ::{ flag=PH }:: | **6** | 0 | ::{ flag=PH }:: Andrei-- | 9 | *win by default* |
@@ -1096,7 +1096,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
 | 1 | **arge-** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: partycarft30 | 16 |  |
 | 8 | Edison ::{ flag=PH }:: | 0 | **5** | ::{ flag=PH }:: **Andrei--** | 9 | *win by default* |
-| 4 | **Ikisouu** ::{ flag=PH }:: | **5** | 0 | ::{ flag=__ }:: Izayoi-san- | 13 | *win by default* |
+| 4 | **Ikisouu** ::{ flag=PH }:: | **5** | 0 | ::{ flag=XX }:: Izayoi-san- | 13 | *win by default* |
 | 5 | **Shiyui-** ::{ flag=PH }:: | **5** | 0 | ::{ flag=AE }:: Suravur | 12 |  |
 | 2 | **Baltz** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: hikaruXD19 | 15 |  |
 | 7 | Batujitsu ::{ flag=PH }:: | **5** | 1 | ::{ flag=PH }:: Inoariusu | 10 |  |

@@ -332,7 +332,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| osu!mania Asian's Champions 2019 | 2019-09-28 | 2019-11-10 | ::{ flag=__ }:: [\[ R o a d \]](https://osu.ppy.sh/users/6535926) | ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+| osu!mania Asian's Champions 2019 | 2019-09-28 | 2019-11-10 | ::{ flag=XX }:: [\[ R o a d \]](https://osu.ppy.sh/users/6535926) | ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
 
 ## 参见
 

@@ -53,7 +53,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 | Mappool selector | ::{ flag=IE }:: [[KoKo]](https://osu.ppy.sh/users/5322953), ::{ flag=US }:: [_Breeze](https://osu.ppy.sh/users/9726582), ::{ flag=US }:: [jlin_02](https://osu.ppy.sh/users/13192092), ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459), ::{ flag=US }:: [migin](https://osu.ppy.sh/users/11118735), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) |
 | Streamer | ::{ flag=US }:: [iShipxx](https://osu.ppy.sh/users/7546335), ::{ flag=US }:: [R34pling](https://osu.ppy.sh/users/7662172) |
 | Commentator | ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459), ::{ flag=US }:: [MyAngelNeptune](https://osu.ppy.sh/users/5290308), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) |
-| Designer | ::{ flag=__ }:: Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
+| Designer | ::{ flag=XX }:: Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
 | Referee | ::{ flag=US }:: [_Breeze](https://osu.ppy.sh/users/9726582), ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=US }:: [ilalalayou](https://osu.ppy.sh/users/3144766), ::{ flag=US }:: [iShipxx](https://osu.ppy.sh/users/7546335), ::{ flag=US }:: [jlin_02](https://osu.ppy.sh/users/13192092), ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459), ::{ flag=US }:: [phamitsu](https://osu.ppy.sh/users/13045418), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) |
 
 ## Links

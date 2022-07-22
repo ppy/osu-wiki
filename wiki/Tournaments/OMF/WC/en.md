@@ -70,8 +70,8 @@ The Old Map Fantasy World Cup was run by various community members.
 | ::{ flag=CL }:: | **Chile** | **[kanocchi](https://osu.ppy.sh/users/2321050)**, [Eunha](https://osu.ppy.sh/users/7701428), [Pancho](https://osu.ppy.sh/users/11305398), [Gonzah](https://osu.ppy.sh/users/12434652), [NO37](https://osu.ppy.sh/users/4653583), [uNable](https://osu.ppy.sh/users/1958549), [Plntote](https://osu.ppy.sh/users/7559996), [kanocchi 2](https://osu.ppy.sh/users/1603962) |
 | ::{ flag=CN }:: | **China** | **[Crystal](https://osu.ppy.sh/users/1646397)**, [Garden](https://osu.ppy.sh/users/2849992), [im\_a\_burger\_fox](https://osu.ppy.sh/users/5791401), [Heatherfield](https://osu.ppy.sh/users/296087), [gxytcgxytc](https://osu.ppy.sh/users/874891), [FujiwaraNoMokou](https://osu.ppy.sh/users/685188), [Gynophobia-](https://osu.ppy.sh/users/6090175), [[Joseph Jostar]](https://osu.ppy.sh/users/3139364) |
 | ::{ flag=CO }:: | **Colombia** | **[ElMick33](https://osu.ppy.sh/users/5458323)**, [ElMick28](https://osu.ppy.sh/users/8921554), [ElMick13](https://osu.ppy.sh/users/3562488), [ElMick11](https://osu.ppy.sh/users/10510143), [Jekuru](https://osu.ppy.sh/users/11727492), [Phel](https://osu.ppy.sh/users/9367683), [Xeanex](https://osu.ppy.sh/users/6718395), [xfxsnake](https://osu.ppy.sh/users/313045) |
-| ::{ flag=__ }:: | **Countryless** | **[JackPaX](https://osu.ppy.sh/users/11226645)**, [Vinnie741](https://osu.ppy.sh/users/8509247), [Aranel](https://osu.ppy.sh/users/9562117), [MyAimBisbo](https://osu.ppy.sh/users/11893703), [Jim4s](https://osu.ppy.sh/users/9166367), [-MRB-](https://osu.ppy.sh/users/11234975), [Konipaku](https://osu.ppy.sh/users/9453134), [Alfonso](https://osu.ppy.sh/users/7522642) |
-| ::{ flag=__ }:: | **Countryless B** | **[Giyokon](https://osu.ppy.sh/users/10852632)**, [-Nande](https://osu.ppy.sh/users/7554179), [yip33](https://osu.ppy.sh/users/5728629), [-Dreamless](https://osu.ppy.sh/users/4426728), [Sirek](https://osu.ppy.sh/users/14666725), [C1a0](https://osu.ppy.sh/users/7054373) |
+| ::{ flag=XX }:: | **Countryless** | **[JackPaX](https://osu.ppy.sh/users/11226645)**, [Vinnie741](https://osu.ppy.sh/users/8509247), [Aranel](https://osu.ppy.sh/users/9562117), [MyAimBisbo](https://osu.ppy.sh/users/11893703), [Jim4s](https://osu.ppy.sh/users/9166367), [-MRB-](https://osu.ppy.sh/users/11234975), [Konipaku](https://osu.ppy.sh/users/9453134), [Alfonso](https://osu.ppy.sh/users/7522642) |
+| ::{ flag=XX }:: | **Countryless B** | **[Giyokon](https://osu.ppy.sh/users/10852632)**, [-Nande](https://osu.ppy.sh/users/7554179), [yip33](https://osu.ppy.sh/users/5728629), [-Dreamless](https://osu.ppy.sh/users/4426728), [Sirek](https://osu.ppy.sh/users/14666725), [C1a0](https://osu.ppy.sh/users/7054373) |
 | ::{ flag=CZ }:: | **Czechia** | **[Kaplan](https://osu.ppy.sh/users/1376983)**, [PoggersCZ](https://osu.ppy.sh/users/3198446), [Fadeaway](https://osu.ppy.sh/users/9523358), [CutoNaito](https://osu.ppy.sh/users/8064649), [Shutterstock](https://osu.ppy.sh/users/14362480) |
 | ::{ flag=DK }:: | **Denmark** | **[Marco PoIo](https://osu.ppy.sh/users/10650901)**, [Lothjon](https://osu.ppy.sh/users/7369323), [P3RS3X](https://osu.ppy.sh/users/9469362), [Cat Burger](https://osu.ppy.sh/users/11380904), [Drayko](https://osu.ppy.sh/users/11485703), [Polle](https://osu.ppy.sh/users/13218204), [I ingest bum 47](https://osu.ppy.sh/users/5323224) |
 | ::{ flag=EE }:: | **Estonia** | **[sev](https://osu.ppy.sh/users/4700753)**, [blourgh](https://osu.ppy.sh/users/3974292), [lamy2](https://osu.ppy.sh/users/13733307), [Slay](https://osu.ppy.sh/users/7093124), [Cowsfreedom](https://osu.ppy.sh/users/4389591), [Praw](https://osu.ppy.sh/users/4437004) |
@@ -513,7 +513,7 @@ Sunday, 5 September 2021:
 | Spain ::{ flag=ES }:: | -1 | **0** | ::{ flag=AT }:: **Austria** | *forfeit* |
 | France ::{ flag=FR }:: | 3 | **6** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/90431565) |
 | **United Kingdom** ::{ flag=GB }:: | **6** | 0 | ::{ flag=RU }:: Russian Federation B | [#1](https://osu.ppy.sh/community/matches/90433161) |
-| Countryless ::{ flag=__ }:: | 0 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/90433506) |
+| Countryless ::{ flag=XX }:: | 0 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/90433506) |
 | Russian Federation ::{ flag=RU }:: | 4 | **6** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/90433508) |
 | **Argentina** ::{ flag=AR }:: | **6** | 2 | ::{ flag=DE }:: Germany B | [#1](https://osu.ppy.sh/community/matches/90442198) |
 | **Poland B** ::{ flag=PL }:: | **6** | 5 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/90442195) |
@@ -558,7 +558,7 @@ Sunday, 29 August 2021:
 | Hungary ::{ flag=HU }:: | -1 | **5** | ::{ flag=ES }:: **Spain** |  |
 | **Russian Federation B** ::{ flag=RU }:: | **5** | 4 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/90073561) |
 | Austria B ::{ flag=AT }:: | 4 | **5** | ::{ flag=PT }:: **Portugal** | [#1](https://osu.ppy.sh/community/matches/90076404) |
-| Countryless B ::{ flag=__ }:: | -1 | **5** | ::{ flag=SK }:: **Slovakia** | [#1](https://osu.ppy.sh/community/matches/90079797) |
+| Countryless B ::{ flag=XX }:: | -1 | **5** | ::{ flag=SK }:: **Slovakia** | [#1](https://osu.ppy.sh/community/matches/90079797) |
 | United Kingdom B ::{ flag=GB }:: | 1 | **5** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/90065138) |
 | Colombia ::{ flag=CO }:: | 3 | **5** | ::{ flag=DK }:: **Denmark** | [#1](https://osu.ppy.sh/community/matches/90080188) |
 
@@ -587,7 +587,7 @@ Saturday, 28 August 2021:
 | **Canada B** ::{ flag=CA }:: | **5** | 3 | ::{ flag=DE }:: Germany B | [#1](https://osu.ppy.sh/community/matches/89620054) |
 | **United States B** ::{ flag=US }:: | **5** | -1 | ::{ flag=ES }:: Spain B | [#1](https://osu.ppy.sh/community/matches/89622660) |
 | **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/89622673) |
-| **Canada** ::{ flag=CA }:: | **5** | -1 | ::{ flag=__ }:: Countryless B |  |
+| **Canada** ::{ flag=CA }:: | **5** | -1 | ::{ flag=XX }:: Countryless B |  |
 | **Chile** ::{ flag=CL }:: | **5** | 1 | ::{ flag=AR }:: Argentina B | [#1](https://osu.ppy.sh/community/matches/89635728) |
 
 Sunday, 29 August 2021:
@@ -605,7 +605,7 @@ Sunday, 29 August 2021:
 | **Italy** ::{ flag=IT }:: | **5** | 1 | ::{ flag=UY }:: Uruguay | [#1](https://osu.ppy.sh/community/matches/89679656) |
 | **Sweden** ::{ flag=SE }:: | **5** | 1 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/89682748) |
 | **Romania** ::{ flag=RO }:: | **5** | 2 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/89683718) |
-| Countryless ::{ flag=__ }:: | 1 | **5** | ::{ flag=BR }:: **Brazil B** | [#1](https://osu.ppy.sh/community/matches/89685117) |
+| Countryless ::{ flag=XX }:: | 1 | **5** | ::{ flag=BR }:: **Brazil B** | [#1](https://osu.ppy.sh/community/matches/89685117) |
 
 Monday, 30 August 2021:
 

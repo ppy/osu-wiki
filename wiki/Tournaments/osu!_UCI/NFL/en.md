@@ -39,9 +39,9 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 | :-- | :-- |
 | Mappool selector | ::{ flag=US }:: [[Blue]](https://osu.ppy.sh/users/13192092), ::{ flag=US }:: [[Nick]](https://osu.ppy.sh/users/9726582), ::{ flag=US }:: [migin](https://osu.ppy.sh/users/11118735), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659), ::{ flag=US }:: [slushy](https://osu.ppy.sh/users/3692940), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612) |
 | Streamer | ::{ flag=US }:: [R34pling](https://osu.ppy.sh/users/7662172) |
-| Commentator | ::{ flag=__ }:: Matthew<!-- TODO what is his osu profile -->, ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659), ::{ flag=US }:: [ruruchewy](https://osu.ppy.sh/users/7112839), ::{ flag=US }:: [Sukida](https://osu.ppy.sh/users/4097867), ::{ flag=US }:: [Yattaze](https://osu.ppy.sh/users/13870255) |
+| Commentator | ::{ flag=XX }:: Matthew<!-- TODO what is his osu profile -->, ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659), ::{ flag=US }:: [ruruchewy](https://osu.ppy.sh/users/7112839), ::{ flag=US }:: [Sukida](https://osu.ppy.sh/users/4097867), ::{ flag=US }:: [Yattaze](https://osu.ppy.sh/users/13870255) |
 | Referee | ::{ flag=US }:: [[Blue]](https://osu.ppy.sh/users/13192092), ::{ flag=US }:: [[Nick]](https://osu.ppy.sh/users/9726582), ::{ flag=US }:: [ilalalayou](https://osu.ppy.sh/users/3144766), ::{ flag=US }:: [migin](https://osu.ppy.sh/users/11118735), ::{ flag=US }:: [phamitsu](https://osu.ppy.sh/users/13045418), ::{ flag=US }:: [PingusKhan](https://osu.ppy.sh/users/9648050), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) |
-| Designer | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=__ }:: Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
+| Designer | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=XX }:: Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
 
 ## Links
 
