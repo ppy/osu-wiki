@@ -147,23 +147,23 @@ As mentioned, many of these results blew everyone away. Special shout-out to **T
 
 | Team 1 |  |  | Team 2 |
 | --: | :-: | :-: | :-- |
-| ![](/wiki/shared/flag/FR.gif) **France** | **5** | 0 | Italy ![](/wiki/shared/flag/IT.gif) |
-| ![](/wiki/shared/flag/CN.gif) China | 2 | **3** | **Argentina** ![](/wiki/shared/flag/AR.gif) |
-| ![](/wiki/shared/flag/VN.gif) **Vietnam** | **3** | 2 | Canada ![](/wiki/shared/flag/CA.gif) |
-| ![](/wiki/shared/flag/SE.gif) Sweden | 2 | **3** | **Brazil** ![](/wiki/shared/flag/BR.gif) |
-| ![](/wiki/shared/flag/GB.gif) **United Kingdom** | **4** | 1 | United States ![](/wiki/shared/flag/US.gif) |
-| ![](/wiki/shared/flag/AU.gif) **Australia** | **3** | 2 | Norway ![](/wiki/shared/flag/NO.gif) |
-| ![](/wiki/shared/flag/KR.gif) **South Korea** | **3** | 2 | Denmark ![](/wiki/shared/flag/DK.gif) |
-| ![](/wiki/shared/flag/PL.gif) Poland | 2 | **3** | **Russian Federation** ![](/wiki/shared/flag/RU.gif) | 
+| ::{ flag=FR }:: **France** | **5** | 0 | Italy ::{ flag=IT }:: |
+| ::{ flag=CN }:: China | 2 | **3** | **Argentina** ::{ flag=AR }:: |
+| ::{ flag=VN }:: **Vietnam** | **3** | 2 | Canada ::{ flag=CA }:: |
+| ::{ flag=SE }:: Sweden | 2 | **3** | **Brazil** ::{ flag=BR }:: |
+| ::{ flag=GB }:: **United Kingdom** | **4** | 1 | United States ::{ flag=US }:: |
+| ::{ flag=AU }:: **Australia** | **3** | 2 | Norway ::{ flag=NO }:: |
+| ::{ flag=KR }:: **South Korea** | **3** | 2 | Denmark ::{ flag=DK }:: |
+| ::{ flag=PL }:: Poland | 2 | **3** | **Russian Federation** ::{ flag=RU }:: | 
 
 #### Quarterfinals Match-ups
 
 | Team 1 |  | Team 2 |
 | --: | :-: | :-- |
-| ![](/wiki/shared/flag/FR.gif) **France** | vs. | **Argentina** ![](/wiki/shared/flag/AR.gif) |
-| ![](/wiki/shared/flag/VN.gif) **Vietnam** | vs. | **Brazil** ![](/wiki/shared/flag/BR.gif) |
-| ![](/wiki/shared/flag/GB.gif) **United Kingdom** | vs. | **Australia** ![](/wiki/shared/flag/AU.gif) |
-| ![](/wiki/shared/flag/KR.gif) **South Korea** | vs. | **Russian Federation** ![](/wiki/shared/flag/RU.gif) | 
+| ::{ flag=FR }:: **France** | vs. | **Argentina** ::{ flag=AR }:: |
+| ::{ flag=VN }:: **Vietnam** | vs. | **Brazil** ::{ flag=BR }:: |
+| ::{ flag=GB }:: **United Kingdom** | vs. | **Australia** ::{ flag=AU }:: |
+| ::{ flag=KR }:: **South Korea** | vs. | **Russian Federation** ::{ flag=RU }:: | 
 
 ### The Big Fans Mapping Contest
 

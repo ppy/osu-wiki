@@ -128,17 +128,17 @@ The osu! Beatmapping World Championship is still underway! With each month we're
 
 | Team 1 |  |  | Team 2 |
 | --: | :-: | :-: | :-- |
-| ![](/wiki/shared/flag/FR.gif) France | 1 | **6** | **Argentina** ![](/wiki/shared/flag/AR.gif) |
-| ![](/wiki/shared/flag/VN.gif) Vietnam | 3 | **4** | **Brazil** ![](/wiki/shared/flag/BR.gif) |
-| ![](/wiki/shared/flag/GB.gif) **United Kingdom** | **7** | 0 | Australia ![](/wiki/shared/flag/AU.gif) |
-| ![](/wiki/shared/flag/KR.gif) South Korea | 3 | **4** | **Russian Federation** ![](/wiki/shared/flag/RU.gif) |
+| ::{ flag=FR }:: France | 1 | **6** | **Argentina** ::{ flag=AR }:: |
+| ::{ flag=VN }:: Vietnam | 3 | **4** | **Brazil** ::{ flag=BR }:: |
+| ::{ flag=GB }:: **United Kingdom** | **7** | 0 | Australia ::{ flag=AU }:: |
+| ::{ flag=KR }:: South Korea | 3 | **4** | **Russian Federation** ::{ flag=RU }:: |
 
 #### Semifinals Match-ups
 
 | Team 1 |  | Team 2 |
 | --: | :-: | :-- |
-| ![](/wiki/shared/flag/AR.gif) **Argentina** | vs. | **Brazil** ![](/wiki/shared/flag/BR.gif) |
-| ![](/wiki/shared/flag/GB.gif) **United Kingdom** | vs. | **Russian Federation** ![](/wiki/shared/flag/RU.gif) |
+| ::{ flag=AR }:: **Argentina** | vs. | **Brazil** ::{ flag=BR }:: |
+| ::{ flag=GB }:: **United Kingdom** | vs. | **Russian Federation** ::{ flag=RU }:: |
 
 Do you know about mapping contests going on, or being announced soon? Then please let us know! We love to share contests with the public so that more people can enjoy them together. All contests welcome, even mode and language specific ones. You can find our submission form for contests over at the main [forum post](https://osu.ppy.sh/community/forums/topics/1027590)!
 
