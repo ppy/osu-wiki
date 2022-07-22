@@ -66,7 +66,7 @@ Para supporter yang belum pernah mengganti nama penggunanya akan dapat mengganti
 osu!direct merupakan fitur pencarian dan penguduhan beatmap kilat yang khusus tersedia bagi para supporter. Fitur ini dapat diakses melalui tombol `osu!direct` yang tertera pada sisi kanan layar menu utama. Di samping akses langsung menuju daftar beatmap, osu!direct juga menyediakan berbagai cara lainnya untuk dapat memperoleh beatmap tanpa harus meninggalkan permainan, yang di antaranya adalah sebagai berikut:
 
 - Tautan beatmap pada *chat*, yang akan menampilkan dialog unduhan dalam permainan
-- Pengunduhan beatmap otomatis dalam lobi [multiplayer](/wiki/Gameplay/Multiplayer) atau mode [spectate](/wiki/Gameplay/Spectating), yang dapat [dinonaktifkan kapan pun](/wiki/Client/Options#integration)
+- Pengunduhan beatmap otomatis dalam lobi [multiplayer](/wiki/Client/Interface/Multiplayer) atau mode [spectate](/wiki/Gameplay/Spectating), yang dapat [dinonaktifkan kapan pun](/wiki/Client/Options#integration)
 - Penautan beatmap yang sedang dimainkan secara otomatis pada kanal `#spectator`, yang dapat [dinonaktifkan kapan pun](/wiki/Client/Options#alerts-and-privacy)
 
 ### Papan peringkat tambahan
