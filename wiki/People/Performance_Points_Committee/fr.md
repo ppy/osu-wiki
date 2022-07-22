@@ -2,6 +2,8 @@
 tags:
   - pp committee
   - comité des pp
+outdated_since: ead5b487acab4f9c7446891b3f88f92e152db8c1
+outdated_translation: true
 ---
 
 # Comité des points de performance
@@ -30,6 +32,7 @@ Le panel du mode osu!taiko a été formé le 1er mai 2022 en réponse au même s
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
 | ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) |
+| ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [Horiiizons](https://github.com/Horiiizons) |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [mangomizer](https://github.com/mangomizer) |
 | ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | [vunyunt](https://github.com/vunyunt) |
 
