@@ -53,9 +53,9 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 ## Links
 
-- **[Register here](https://osu.ppy.sh/community/tournaments/34)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1606949)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdAyf0i9MdFrlErRntSmUDe7XigHgCwbJl1oAdN-DC6QAp5bDlEvKMpBBEs4AsKzb6hVAzD76OCq-S/pubhtml)
 
 ## Participants
 
