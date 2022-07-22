@@ -22,7 +22,7 @@ Keeping the news post somewhat simple until the team can establish a foundation 
 It'll never be the same as osu!weekly, but we're working hard to propose a frequent format, please be kind to us, new writers! We're highly receptive to it, so feedback is highly appreciated!
 
 
-➥ *[Soetch](https://osu.ppy.sh/users/15970028), [Blushing](https://osu.ppy.sh/users/5927823), [wowcake](https://osu.ppy.sh/users/16121851) & [0x84f](https://osu.ppy.sh/users/7944724)*
+➥ *[Soetch](https://osu.ppy.sh/users/15970028), [Blushing](https://osu.ppy.sh/users/5927823), [wowcake](https://osu.ppy.sh/users/16121851), and [0x84f](https://osu.ppy.sh/users/7944724)*
 
 ---
 
