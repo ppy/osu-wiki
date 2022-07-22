@@ -3,6 +3,8 @@ tags:
   - pp committee
   - комитет по пп
   - пп комитет
+outdated_since: ead5b487acab4f9c7446891b3f88f92e152db8c1
+outdated_translation: true
 ---
 
 # Комитет по очкам производительности
