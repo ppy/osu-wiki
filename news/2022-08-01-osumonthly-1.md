@@ -124,7 +124,7 @@ With [Onta_Bekasi](https://osu.ppy.sh/users/8677684) not just clearing, but FCin
 <iframe width="100%" height="315" src="<mania 7k>https://youtu.be/embed/1RuyJ3y_ot4" frameborder="0" allowfullscreen></iframe>
 
 #### Wow. Just completely shocked at this performance by [[GS]Myuka](https://osu.ppy.sh/users/10072733) on [Camellia’s - MI11I0N PP](https://osu.ppy.sh/beatmapsets/1388481#mania/2867552). 
-If you thought *My Man* had LNs, wait until you watch just over 7 minutes of almost non-stop LN action along with being bridled by intense single-note action and BPM changes throughout the map. 
+If you thought *My Man* had LNs, wait until you see a map of over 7 minutes of non-stop LN gameplay, and with not just single-note rainbows and glissandos, but an interconnected web of the two. It is an impeccable display of skill, accuracy, speed, and just what osu!monthly is looking for in a showcase!
 
 <iframe width="100%" height="315" src="<mania 4k>https://youtu.be/embed/nc_ejGtZKUM" frameborder="0" allowfullscreen></iframe>
 
