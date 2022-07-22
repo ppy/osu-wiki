@@ -757,17 +757,7 @@ You must set these settings before taking a screenshot of the game client (setti
 
 *Notice to translators: If you are translating an article containing screenshots of the game, you may set the game client's language to the language you are translating in.*
 
-### Image links
-
-Images must not be part of a link text.
-
-Flag icons next to user links must be separate from the link text. See the following example:
-
-```markdown
-::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-```
-
-### Flag icons
+## Flag icons
 
 The flag icons use the two letter code (in all capital letters) to match a certain territory. When adding a flag inline, use this format:
 
