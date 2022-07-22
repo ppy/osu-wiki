@@ -11,7 +11,7 @@ tags:
 
 # Cuenta Bot
 
-Una **Cuenta BOT** es un tipo de cuenta especial de osu! administrada por un servicio automatizado en lugar de una persona real. En el sitio web, ellos tienen una insignia blanca etiquetada `BOT`, y solo la sección de `me!` de su perfil es visible. Las cuentas BOT son comúnmente utilizadas para organizar "Chat bots" que ofrecen varias funcionalidades a la comunidad a través de los canales lobby [multiplayer](/wiki/Gameplay/Multiplayer) o mensajes privados.
+Una **Cuenta BOT** es un tipo de cuenta especial de osu! administrada por un servicio automatizado en lugar de una persona real. En el sitio web, ellos tienen una insignia blanca etiquetada `BOT`, y solo la sección de `me!` de su perfil es visible. Las cuentas BOT son comúnmente utilizadas para organizar "Chat bots" que ofrecen varias funcionalidades a la comunidad a través de los canales lobby [multiplayer](/wiki/Client/Interface/Multiplayer) o mensajes privados.
 
 Las cuentas Bot solo pueden ser creadas a través de un [proceso de aplicación](#creando-una-cuenta-bot). El intentar crear una cuenta Bot registrándola de manera normal es considerado como multi-cuenta y va en contra de las [reglas de la comunidad](/wiki/Rules#reglas-de-la-comunidad).
 

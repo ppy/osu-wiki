@@ -9,7 +9,7 @@ tags:
 
 # Akun bot
 
-**Akun bot** merupakan sebuah akun osu! khusus yang dijalankan secara otomatis, bukan dijalankan oleh orang sungguhan. Jika dilihat di situs web, akun-akun ini memiliki lencana berlabel putih dan bertuliskan `BOT` dan hanya bagian `me!` yang terlihat di profil mereka. Akun bot paling sering digunakan untuk meng-*host* "bot obrolan" yang menawarkan berbagai fungsi kepada komunitas melalui kanal lobi [multiplayer](/wiki/Gameplay/Multiplayer) atau pesan pribadi.
+**Akun bot** merupakan sebuah akun osu! khusus yang dijalankan secara otomatis, bukan dijalankan oleh orang sungguhan. Jika dilihat di situs web, akun-akun ini memiliki lencana berlabel putih dan bertuliskan `BOT` dan hanya bagian `me!` yang terlihat di profil mereka. Akun bot paling sering digunakan untuk meng-*host* "bot obrolan" yang menawarkan berbagai fungsi kepada komunitas melalui kanal lobi [multiplayer](/wiki/Client/Interface/Multiplayer) atau pesan pribadi.
 
 Akun bot hanya dapat dibuat melalui [proses pengajuan](#mendaftarkan-akun-bot). Upaya membuat akun bot dengan mendaftarkan akun osu! seperti biasa akan dianggap sebagai memiliki banyak akun dan merupakan pelanggaran terhadap [peraturan komunitas](/wiki/Rules#peraturan-komunitas).
 
