@@ -43,7 +43,7 @@ Ces raccourcis fonctionnent partout :
 | `Esc` | Revient en arrière ou annule. |
 | `P`, `E`, ou `O` | Ouvre le menu de lecture. |
 | `P` trois fois | Entre dans le mode Solo. |
-| `P` deux fois, puis `M` | Entre dans le mode [Multi](/wiki/Gameplay/Multiplayer). |
+| `P` deux fois, puis `M` | Entre dans le mode [Multi](/wiki/Client/Interface/Multiplayer). |
 | `E` deux fois | Entre dans le mode Edit. |
 | `O` | Ouvre la barre latérale des options. |
 | `Q` | Affiche le menu de sortie |

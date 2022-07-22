@@ -39,7 +39,7 @@ osu!を始めるための重要なガイドです。何か問題が発生した�
 
 [ゲームモード](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[ビートマップ](/wiki/Beatmap) • [難易度](/wiki/Beatmap/Difficulty) • [ヒットオブジェクト](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [スコア](/wiki/Gameplay/Score) • [リプレイ](/wiki/Gameplay/Replay) • [メダル](/wiki/Medals) • [マルチプレイ](/wiki/Gameplay/Multiplayer)
+[ビートマップ](/wiki/Beatmap) • [難易度](/wiki/Beatmap/Difficulty) • [ヒットオブジェクト](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [スコア](/wiki/Gameplay/Score) • [リプレイ](/wiki/Gameplay/Replay) • [メダル](/wiki/Medals) • [マルチプレイ](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -24,7 +24,7 @@ Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste o
 
 ## Erweiterte Chatkonsole
 
-*Die [osu!academy](/wiki/Community/Video_series/osu!academy) (englisch) hat dieses Thema in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) zusammen mit dem [Mehrspielermodus](/wiki/Gameplay/Multiplayer) behandelt.*
+*Die [osu!academy](/wiki/Community/Video_series/osu!academy) (englisch) hat dieses Thema in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) zusammen mit dem [Mehrspielermodus](/wiki/Client/Interface/Multiplayer) behandelt.*
 
 Fast überall in osu! kann mit dem Betätigen der `F9`-Taste oder durch das Klicken des `Online Users`-Tabs (unten rechts) die Chatkonsole erweitert werden. Als Zusatz zu der Chatkonsole wird dann ein Fenster voller Panels von eingeloggten Nutzern eingeblendet, auf dem man auch die momentane Aktivität der Nutzer sehen kann.
 

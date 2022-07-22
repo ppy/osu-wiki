@@ -23,7 +23,7 @@ Välkommen till osu! wikin, ett projekt som innehåller ett brett utbud av osu! 
 
 # Gameplay
 
-[FAQ](/wiki/FAQ) • [Multiplayer](/wiki/Gameplay/Multiplayer) • [Spellägen](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
+[FAQ](/wiki/FAQ) • [Multiplayer](/wiki/Client/Interface/Multiplayer) • [Spellägen](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

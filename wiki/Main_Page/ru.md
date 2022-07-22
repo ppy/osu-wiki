@@ -39,7 +39,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Режимы игры](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Карта](/wiki/Beatmap) • [Сложность](/wiki/Beatmap/Difficulty) • [Игровые объекты](/wiki/Hit_object) • [Модификаторы](/wiki/Game_modifier) • [Очки](/wiki/Gameplay/Score) • [Реплей](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мультиплеер](/wiki/Gameplay/Multiplayer)
+[Карта](/wiki/Beatmap) • [Сложность](/wiki/Beatmap/Difficulty) • [Игровые объекты](/wiki/Hit_object) • [Модификаторы](/wiki/Game_modifier) • [Очки](/wiki/Gameplay/Score) • [Реплей](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мультиплеер](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
