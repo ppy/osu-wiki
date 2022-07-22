@@ -27,6 +27,7 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 ---
 
 ### Navigation
+
 [What's up in osu!?](#whats-up-in-osu)
 
 - [Top Scores of the Month](#top-scores-of-the-month)
@@ -43,6 +44,7 @@ Here are the latest updates, events, and more!
 ### ![](/wiki/shared/mode/osu.png) osu! 
 
 #### If you ask us what is the big event of July, it'd be the [Roundtable](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable)!
+
 <br>
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/roundtable/RTable_title.png)
@@ -63,7 +65,7 @@ Anyway, The Roundtable has now ended, we can't wait until the next edition!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Roundtable will return.<br>Thank you, everyone ❤️</p>&mdash; BTMC (@btmclive) <a href="https://twitter.com/btmclive/status/1546335465518682112?ref_src=twsrc%5Etfw">July 11, 2022</a></blockquote>
 
-[*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable)
+[*Find the forum article here!*](/news/2022-07-08-the-roundtable)
 
 Thanks again to [BTMC](https://osu.ppy.sh/users/3171691) and his staff for this insane event! 
 
@@ -75,7 +77,7 @@ As the name implies, the showdown is to take place between those whose dreams co
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-*At the beginning of July, the recent eleventh iteration of the [osu!catch World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/CWC/2022) has been concluded.*
+*At the beginning of July, the recent eleventh iteration of the [osu!catch World Cup 2022](/wiki/en/Tournaments/CWC/2022) has been concluded.*
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/podium.png)
 
@@ -87,7 +89,7 @@ The United States entered this tournament with almost the same roster with swapp
 
 With the recent change of swapping from Group Stages to Qualifiers format, most of the players and viewers didn't expect to see China on the top despite failing their previous run placing 7th—8th place. Their expectations were worth it in the end as they instantly gained their glory reaching the winner's finals bracket without losing a single match until clashing with South Korea and, ultimately, the United States. Even with a long year of absence, China showed that even being absent for an entire year they can still make a good fight with top teams.
 
-There are still plenty of tournaments running, even after the conclusion of CWC! The digit tournaments, [4 Digit Catch World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/4CWC/2022) and [3 Digit Catch World Cup 2022](https://osu.ppy.sh/community/forums/topics/1580097 ), are up and running and the second iteration of [Catch French Dual Cup 2](https://osu.ppy.sh/community/forums/topics/1605746) is currently in the registering phase. There's nothing to talk about these tournaments just quite yet, but maybe with the new osu!monthly release we can fully recap what infamous rivalries transpire along with the conclusions, and maybe something new!
+There are still plenty of tournaments running, even after the conclusion of CWC! The digit tournaments, [4 Digit Catch World Cup 2022](/wiki/en/Tournaments/4CWC/2022) and [3 Digit Catch World Cup 2022](https://osu.ppy.sh/community/forums/topics/1580097 ), are up and running and the second iteration of [Catch French Dual Cup 2](https://osu.ppy.sh/community/forums/topics/1605746) is currently in the registering phase. There's nothing to talk about these tournaments just quite yet, but maybe with the new osu!monthly release we can fully recap what infamous rivalries transpire along with the conclusions, and maybe something new!
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -95,7 +97,7 @@ There are still plenty of tournaments running, even after the conclusion of CWC!
 
 As it is starting the on **6th of August**, we can't actually talk about it more, but we are excited to say that the next osu!monthly is going to have a **big article** about it, and maybe an **interview of the winner**!
 
-[*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open) 
+[*Find the forum article here!*](/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open) 
 
 
 ---
@@ -111,7 +113,9 @@ As it is starting the on **6th of August**, we can't actually talk about it more
 <iframe width="100%" height="315" src="https://youtube.com/embed/HMQKYkffUjk" frameborder="0" allowfullscreen></iframe>
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
+
 #### Whew! If you thought the pick for osu! was crazy, wait 'till you watch [shinchikuhome’s](https://osu.ppy.sh/users/3174184) DT play on [Apollo](https://osu.ppy.sh/beatmapsets/1739877#taiko/3558252)! 
+
 This taiko play is set at  an average of 411 BPM, yes, you read that right! **411 BPM!**. This is truly an insane play for any speed enthusiasts and absolute taiko enjoyers. Make sure to show some love and enjoy the absolute speed demon plays shinichikuhome is known for!
 
 <iframe width="100%" height="315" src="<link>https://youtu.be/embed/hKwIKC-DvcU" frameborder="0" allowfullscreen></iframe>
@@ -119,23 +123,28 @@ This taiko play is set at  an average of 411 BPM, yes, you read that right! **41
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 #### The mania k-pop community is going to be absolutely ecstatic at this next showcase. 
+
 With [Onta_Bekasi](https://osu.ppy.sh/users/8677684) not just clearing, but FCing the deceptively difficult yet soothing myriad of LNs and intricate patterns that [My Man](https://osu.ppy.sh/beatmapsets/514681#mania/1093212) so elegantly puts on display, it is of incredible skill, and no small effort, that [Onta_Bekasi](https://osu.ppy.sh/users/8677684) only suffers a 00.02 accuracy drop across a 3-minute map and over 5000 notes. Truly a wonderful display of what osu!mania can offer, enjoyment of the game, and is a play that is more than deserving of being showcased.
 
 <iframe width="100%" height="315" src="<mania 7k>https://youtu.be/embed/1RuyJ3y_ot4" frameborder="0" allowfullscreen></iframe>
 
 #### Wow. Just completely shocked at this performance by [[GS]Myuka](https://osu.ppy.sh/users/10072733) on [Camellia’s - MI11I0N PP](https://osu.ppy.sh/beatmapsets/1388481#mania/2867552). 
+
 If you thought *My Man* had LNs, wait until you see a map of over 7 minutes of non-stop LN gameplay, and with not just single-note rainbows and glissandos, but an interconnected web of the two. It is an impeccable display of skill, accuracy, speed, and just what osu!monthly is looking for in a showcase!
 
 <iframe width="100%" height="315" src="<mania 4k>https://youtu.be/embed/nc_ejGtZKUM" frameborder="0" allowfullscreen></iframe>
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
+
 #### Somebody scream! Even with being the number one osu!catch player in the world, a play such as [YesMyDarkness’](https://osu.ppy.sh/users/4158549/fruits) is no small feat. 
+
 Coming in with a HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy.sh/beatmapsets/521900#fruits/1108507) one of the most well known artists and songs in osu! surely does do them some justice. Riddled with intense and **dash**ingly hard jumps it is a play to contend with even the hardest of maps, let alone with hidden and hardrock! 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/byyHOAopo1A" frameborder="0" allowfullscreen></iframe>
 
 ---
 ## New Features on osu!lazer!
+
 The new client has never been that **close** from releasing (there's still a lot of work on it!), and has **new mods**, more original than never! 
 
 Here are the [patch notes](https://osu.ppy.sh/home/changelog), and the showcase of **the latest mod**! 
@@ -149,6 +158,7 @@ To start with this, we want to showcase a pretty chaotic but fancy Repel mod (fi
 </div>
 
 ---
+
 Another new feature that some of you might not know of, or just haven't gotten around to trying yet is the **skin layout editor**! First implemented in May of 2021, this is very much a work-in-progress feature, however currently you are able to edit the placement of all skin elements that appear during gameplay!
 
 <div align="center">
@@ -158,7 +168,9 @@ Another new feature that some of you might not know of, or just haven't gotten a
 </div>
 
 ## Summary of this Article
+
 ### ![](/wiki/shared/mode/osu.png) osu!
+
 - The Roundtable has ended on insane matches, especially the [Utami](https://osu.ppy.sh/users/7512553) vs [mrekk](https://osu.ppy.sh/users/7562902) one! 
   
   [➥ Find the article here!](#if-you-ask-us-what-is-the-big-event-of-july-itd-be-the-roundtable)
@@ -169,11 +181,13 @@ Another new feature that some of you might not know of, or just haven't gotten a
   [➥ Find the article here!](#as-if-the-impossible-could-not-be-done-only-once-but-twice)
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko 
+
 - [The Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022) is hitting on the stage! This is the way Taiko players can overtake [The Roundtable](#if-you-ask-us-what-is-the-big-event-of-july-itd-be-the-roundtable) in terms of epic shows!
   
   [➥ Find the article here!](#as-if-we-could-allow-for-osu-to-take-all-the-glory-in-its-showcasing-of-top-players-and-their-performances-taiko-takes-it-upon-themself-to-rival-even-that-of-the-roundtable-with-their-very-own-annual-entry-of-expert-global-taiko-showdown-2022)
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
+
 - The [Catch World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/CWC/2022) has ended on pretty amazing performances ! Is South Korea dominating two modes at the same time?
   
   [➥ Find the article here!](#at-the-beginning-of-july-the-recent-eleventh-iteration-of-osucatch-world-cup-has-been-concluded)
@@ -189,6 +203,7 @@ Another new feature that some of you might not know of, or just haven't gotten a
   [➥ Find the article here!](#whew-if-you-thought-the-pick-for-osu-was-crazy-wait-till-you-watch-shinchikuhomes-dt-play-on-apollo)
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
+
 - The [osu!mania World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K) is the road to the greatness for the Mania top players! They will brawl again in this great arena! Who's gonna take the crown?
   
   [➥ Find the article here!](#in-august-the-osumania-top-players-will-brawl-in-the-osumania-world-cup-2022)
@@ -205,6 +220,7 @@ BPM changes throughout the map. [[GS] Myuka](https://osu.ppy.sh/users/10072733) 
   [➥ Find the article here!](#wow-just-completely-shocked-at-this-performance-by-gsmyuka-on-camellias---mi11i0n-pp)
 
 ## Month's Community Quiz
+
 A monthly question or puzzle for you!
 
 ---
@@ -218,6 +234,7 @@ A monthly question or puzzle for you!
 >The first person to answer it correctly will receive a month of osu!supporter, leave your answer in the comment!
 
 ## End Word
+
 We wanted to thank the osu!team and the contributors to [osu!lazer](https://github.com/ppy/osu), [osu!web](https://github.com/ppy/osu-Web) and [osu!wiki](https://github.com/ppy/osu-wiki) for their hard work on the repositories and the trust thay gave us. Huge thanks again to [Nelly](https://osu.ppy.sh/users/4741164) for the osu!catch news bulletin and to [The-Last-Cookie](https://github.com/The-Last-Cookie) for his amzing review (a lot of things to correct, right?)!
 
 If you're interested on seeing the creation processus, the backstages of osu!, please join the [osu!dev server](https://discord.gg/ppy)! (Articles from external contributors are welcome)
@@ -227,4 +244,5 @@ While waiting for the next article, we want to thank in advance all of the commu
 It's a real honor for us to write for you, the community. Thanks for reading, and see you soon for the next article, in September! ❤️
 
 ---
+
 —[Soetch](https://osu.ppy.sh/users/15970028), [Blushing](https://osu.ppy.sh/users/5927823), [wowcake](https://osu.ppy.sh/users/16121851), [0x84f](https://osu.ppy.sh/users/7944724) & [Hubz](https://osu.ppy.sh/users/10379965) for this AMAZING banner!
