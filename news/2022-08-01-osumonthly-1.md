@@ -61,7 +61,7 @@ A best-of from this match was made on the [BTMC](https://osu.ppy.sh/users/317169
 
 Anyway, The Roundtable has now ended, we can't wait until the next edition!
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Roundtable will return.<br>Thank you, everyone ❤️</p>&mdash; BTMC 🔜 CONQuestPH 🇵🇭 (@btmclive) <a href="https://twitter.com/btmclive/status/1546335465518682112?ref_src=twsrc%5Etfw">July 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Roundtable will return.<br>Thank you, everyone ❤️</p>&mdash; BTMC (@btmclive) <a href="https://twitter.com/btmclive/status/1546335465518682112?ref_src=twsrc%5Etfw">July 11, 2022</a></blockquote>
 
 [*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable)
 
