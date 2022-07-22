@@ -59,7 +59,7 @@ In terms of epic, we were served with the finals: [mrekk](https://osu.ppy.sh/use
 
 A best-of from this match was made on the [BTMC](https://osu.ppy.sh/users/3171691) [channel](https://twitch.tv/btmc), with exclusive interviews of the players, by [BTMC](https://osu.ppy.sh/users/3171691) (what a surprise, ahah) and Happystick, the casters of this amazing show! You can find it [here](https://www.youtube.com/watch?v=Y7LqBZL)!
 
-Anyway, The Roundtable has now ended, and hopefully this towering experience returns next year!
+Anyway, The Roundtable has now ended, and hopefully, this towering experience returns next year!
 
 [*Find the forum article here!*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable)
 
