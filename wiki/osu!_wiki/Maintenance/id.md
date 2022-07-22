@@ -62,13 +62,13 @@ osu! wiki terintegrasi ke dalam situs web osu!, yang berarti semua permintaan fi
 
 Beberapa fitur mungkin tidak berhubungan langsung dengan situs web osu!, tetapi mungkin berguna untuk berkontribusi atau pembenahan. Dalam kasus tersebut, fitur-fitur ini diimplementasikan oleh orang yang mampu membuat hal tersebut dan **tidak** ditambahkan ke situs web secara langsung:
 
-- [status osu-wiki](https://clayton.cc/osu-wiki-status/en): daftar artikel per bahasa, dan kategori pemeliharaan yang diperlukan (terjemahan, pembaruan, perluasan rintisan). Lihat [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) untuk permintaan fungsionalitas.
+- [status osu-wiki](https://clayton.cc/osu-wiki-status/id): daftar artikel per bahasa, dan kategori pemeliharaan yang diperlukan (terjemahan, pembaruan, perluasan rintisan). Lihat [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) untuk permintaan fungsionalitas.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin): utilitas Node.js untuk pemeriksaan dan pengeditan otomatis (tautan invalid, pembaruan grup pengguna, penggantian teks di seluruh wiki, dan hal-hal lain)
 - [flag-wiki-osu](https://megaapplepi.github.io/flag-wiki-osu): secara otomatis menambahkan referensi ke ikon bendera yang disebutkan dalam artikel. Lihat [ppy/osu-wiki#328](https://github.com/ppy/osu-wiki/issues/328) untuk permintaan fungsionalitas.
 
 ## Rutinitas
 
-*Catatan: situs web [status osu-wiki](https://clayton.cc/osu-wiki-status/en) menampilkan daftar semua artikel yang membutuhkan pemeliharaan, dikelompokkan berdasarkan kategori.*
+*Catatan: situs web [status osu-wiki](https://clayton.cc/osu-wiki-status/id) menampilkan daftar semua artikel yang membutuhkan pemeliharaan, dikelompokkan berdasarkan kategori.*
 
 Wiki bergantung pada masukan dari komunitas osu!. Kamu dapat membantu pengelola dan kontributor lain dengan melakukan apa yang kamu bisa lakukan. Untuk informasi tentang cara melakukannya, baca [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide). Jika suatu saat kamu merasa perlu bantuan, mintalah bantuan di channel `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 

@@ -178,7 +178,7 @@ A hit circle is then placed where the previous slider head was.
 
 Nominator: [Rolled](https://osu.ppy.sh/users/5243)
 
-**Tick-Hitsounds** consists of slider ticks that has been replaced with a standard hitsound (clap, whistle, finish - usually overlayed with hit-normal/soft for accurate sound).
+**Tick-Hitsounds** consists of slider ticks that has been replaced with a standard hitsound (clap, whistle, finish — usually overlayed with hit-normal/soft for accurate sound).
 These are usually used to make a hitsound seem "constant" even during a slider.
 
 ### Tricky Triple Combo

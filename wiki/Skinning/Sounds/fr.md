@@ -10,7 +10,7 @@
 
 Notes :
 
-- Ce son est joué lorsque le curseur passe sur le osu!cookie dans le menu principal.
+- Ce son est joué lorsque le curseur passe sur l'osu!cookie dans le menu principal.
 
 ---
 

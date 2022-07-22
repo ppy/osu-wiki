@@ -1281,11 +1281,11 @@ Detailed results for this round are found via [this link](https://docs.google.co
 #### Match format
 
 - Players will alternate picks until a match winner is determined. This will be in a Best-of-X series with the formats listed as follows:
-  - Match week 1 - Best-of-9 (First to 5)
-  - Match week 2 - Best-of-11 (First to 6)
-  - Match week 3 - Best-of-11 (First to 6)
-  - Match week 4 - Best-of-13 (First to 7)
-  - Match week 5 - Best-of-13 (First to 7)
+  - Match week 1: Best-of-9 (First to 5)
+  - Match week 2: Best-of-11 (First to 6)
+  - Match week 3: Best-of-11 (First to 6)
+  - Match week 4: Best-of-13 (First to 7)
+  - Match week 5: Best-of-13 (First to 7)
 - For osu!, the players are **prohibited from consecutively picking maps from the same mod bracket on their turn to pick**.
 - If it so happens that the scores of the two players on a pick are tied, the pick will be nullified. The player who picked the nullified beatmap will be permitted to do a re-pick (of another beatmap), or a replay of the nullified beatmap.
 - In case the players are tied at match point, for example, a 3-3 on a Best-of-7 match, the players will proceed to play the Tiebreaker chart of the pool.

@@ -25,7 +25,7 @@ def front_matter(fileobj: typing.TextIO, filepath: str) -> str:
         if delimiters == 2 or line.startswith("# "):
             break
         lines.append(line)
-    
+
     if delimiters == 0:
         return ""
     if delimiters == 2:

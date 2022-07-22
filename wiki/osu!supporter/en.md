@@ -1,7 +1,5 @@
 ---
 tags:
-  - support
-  - supporter
   - supporter tag
   - osu!supporter tag
 ---
@@ -59,7 +57,7 @@ Once osu!supporter expires, the cover will remain, but cannot be changed.
 
 ### One free username change
 
-*Note: Minor name changes may be requested from the account support team for free—see [Help centre/Account § Can I change my account's username?](/wiki/Help_centre/Account#name-changes).*
+*Note: Minor name changes may be requested from the account support team for free — see [Help centre/Account § Can I change my account's username?](/wiki/Help_centre/Account#name-changes).*
 
 Getting osu!supporter comes with the ability to change usernames for free for the first time, under [usual conditions](/wiki/Help_centre/Account#name-changes).
 
@@ -68,14 +66,14 @@ Getting osu!supporter comes with the ability to change usernames for free for th
 osu!direct is the in-game beatmap search and download engine available to supporters. It may be accessed from the main menu by clicking the vertical `osu!direct` label on the right side of the screen. In addition to a built-in beatmap listing, osu!direct provides other ways to obtain new beatmaps without leaving the game:
 
 - Beatmap links in chat, which point to beatmaps on the osu! website, now trigger the download prompt in-game
-- Automatic beatmap downloads while playing in a [multiplayer](/wiki/Gameplay/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
-- Automatic linking of currently played beatmaps in the `#spectator` chat tab for spectators, as an [opt-out setting](/wiki/Client/Options#online)
+- Automatic beatmap downloads while playing in a [multiplayer](/wiki/Client/Interface/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
+- Automatic linking of currently played beatmaps in the `#spectator` chat tab for spectators, as an [opt-out setting](/wiki/Client/Options#alerts-and-privacy)
 
 ### Extended leaderboards
 
 Supporters have access to several beatmap-specific [leaderboards](/wiki/Beatmap#leaderboards) available both in-game and on the website:
 
-- Global rankings for every combination of [game modifiers](/wiki/Game_modifier)
+- Global rankings for every combination of [game modifiers](/wiki/Gameplay/Game_modifier)
 - Country-specific rankings of players bearing the same flag
 - Friend rankings that show a player's position on a map compared to their friends
 
@@ -153,4 +151,4 @@ Additionally, both the giver and the recipient will receive e-mail notifications
 
 ## References
 
-[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/posts/8294132)

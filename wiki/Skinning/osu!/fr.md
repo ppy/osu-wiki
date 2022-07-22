@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: e156cad95a4d76def031e873f17acf2802c96342
+---
+
 # Skinning du mode osu!
 
 *Voir également : [Tutoriel de skinning du mode osu!](/wiki/Skinning/Guides_and_important_threads)*.
@@ -16,7 +21,7 @@ Notes :
 
 - Pour avoir plusieurs combobursts, utilisez : `comboburst-{n}.png`.
   - L'une des images du jeu apparaîtra lorsqu'une étape du combo sera atteinte.
-- Pour la v2.2-, ce sont les combobursts de osu! et osu!catch.
+- Pour la v2.2-, ce sont les combobursts d'osu! et osu!catch.
 - Pour la v2.3+, ce sont les combobursts d'osu!
 - Ceci peut être désactivé dans les [options](/wiki/Client/Options).
 - Elle doit être orientée vers la droite.

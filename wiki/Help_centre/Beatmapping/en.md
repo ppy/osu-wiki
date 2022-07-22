@@ -15,7 +15,7 @@ tags:
 
 This section is dedicated to issues with the Beatmap Editor and beatmapping in general.
 
-## How do I upload/update my map?
+## How do I upload/update my map? {#upload-beatmap}
 
 **You can do this through the in-game editor.**
 
@@ -25,7 +25,7 @@ This will make your beatmap available for others to download on the website. Upd
 
 Each user has a limited number of maps they can simultaneously upload. Leaving a map inactive for a month (28 days), by not updating it, will send it to the [Beatmap Graveyard](/wiki/Beatmap/Category#graveyard). To revive a beatmap from the graveyard back into a Pending or WIP status, update it.
 
-## The editor is telling me "The beatmap you are trying to submit isn't yours!"
+## The editor is telling me "The beatmap you are trying to submit isn't yours!" {#wrong-author}
 
 **This can happen if the creator of the beatmap is not properly set within the beatmap files.**
 
@@ -35,11 +35,11 @@ If it isn't, manually change it for every difficulty in your beatmap, reload the
 
 If you are still having issues or want more information on this, have a read through the [BSS issues page](/wiki/Guides/BSS_Issues).
 
-## I am an osu!supporter, but I don't have 20 pending slots!
+## I am an osu!supporter, but I don't have 20 pending slots! {#upload-slots}
 
 **The number of slots available depends on the number of ranked maps you have. For details, see [osu!supporter § Increased limits](/wiki/osu!supporter#increased-limits).**
 
-## How can I delete my beatmap?
+## How can I delete my beatmap? {#delete-beatmap}
 
 **The [support team](/wiki/People/The_Team/Account_support_team) does not take requests to manually delete uploaded beatmaps.**
 

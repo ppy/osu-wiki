@@ -103,7 +103,7 @@ Le classement saisonnier résume les résultats du classement hebdomadaire de ch
    - En rejouant une playlist à une autre semaine, **seulement le meilleur score hebdomadaire classé** comptera, écrasant le plus mauvais.
 3. Le classement sera mis à jour après la conclusion de chaque playlist.
    - Les participants ne seront pas informés de leur score saisonnier exact, ils seront plutôt affectés à des tranches de ligue.
-   - Le classement sera publié dans le [osu! community discord](https://discord.gg/0Vxo9AsejDkGlk3H), dans le canal `#osu-spotlights` ainsi que dans le lobby tchat de la prochaine playlist.
+   - Le classement sera publié dans l'[osu! community discord](https://discord.gg/0Vxo9AsejDkGlk3H), dans le canal `#osu-spotlights` ainsi que dans le lobby tchat de la prochaine playlist.
 
 ### Récompenses
 

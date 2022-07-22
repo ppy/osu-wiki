@@ -7,7 +7,7 @@ tags:
 
 *Pour la mise en forme de news, voir : [Critères de mise en forme de news](/wiki/News_styling_criteria)*
 
-Les critères de mise en forme d'article (ASC pour Article Styling Criteria) sont les normes de mise en forme du osu! wiki afin de garder une cohérence dans la clarté, le format et la disposition de tous les articles et ainsi les aider à avoir une bonne grammaire, une bonne orthographe et des informations correctes.
+Les critères de mise en forme d'article (ASC pour Article Styling Criteria) sont les normes de mise en forme de l'osu! wiki afin de garder une cohérence dans la clarté, le format et la disposition de tous les articles et ainsi les aider à avoir une bonne grammaire, une bonne orthographe et des informations correctes.
 
 Ces articles sont principalement des outils d'aide à la révision et représentent le consensus que les contributeurs de l'osu! wiki ont formé au fil des années. Puisque le wiki est un effort de collaboration tout au long du processus de révision, il n'est pas nécessaire de lire ou de mémoriser tous les critères à la fois. Si vous souhaitez contribuer, veuillez lire le [guide de contribution](/wiki/osu!_wiki/Contribution_guide).
 

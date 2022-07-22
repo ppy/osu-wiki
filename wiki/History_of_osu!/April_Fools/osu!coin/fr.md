@@ -23,7 +23,7 @@ Lorsque les joueurs n'avaient plus d'osu!coins, ils ne pouvaient plus jouer de b
 - 845.3€ = 1000 osu!coins
 - premier enfant à naître = une infinité d'osu!coins (l'enfant travaillera pour osu!)
 
-Le jour suivant, peppy a annulé l'implémentation de osu!coins, a ouvert un nouveau sous-domaine pour la refonte de l'osu!web et a terminé par une [remarque concernant les corrections de bugs et les améliorations mineures](https://osu.ppy.sh/comments/121803).
+Le jour suivant, peppy a annulé l'implémentation d'osu!coins, a ouvert un nouveau sous-domaine pour la refonte de l'osu!web et a terminé par une [remarque concernant les corrections de bugs et les améliorations mineures](https://osu.ppy.sh/comments/121803).
 
 ![](img/spending-osu!coin.jpg "Un exemple de joueur dépensant des l'osu!coin pour jouer une beatmap.")
 

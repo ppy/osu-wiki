@@ -72,7 +72,7 @@ date: 2017-08-17 03:00:00 +0000
 
 ### Markdown
 
-Le osu! wiki utilise une implémentation partielle de GFM (GitHub Flavored Markdown) avec les exceptions suivantes :
+L'osu! wiki utilise une implémentation partielle de GFM (GitHub Flavored Markdown) avec les exceptions suivantes :
 
 #### Titres
 
@@ -88,7 +88,7 @@ Les caractères gras sont réservés à la mise en évidence d'objets ou de phra
 
 #### Italiques
 
-L'italique est utilisé de manière peu courante pour accentuer des phrases ou des déclarations intéressantes dans le registre conversationnel. Il peut également être utilisé pour désigner les noms d'autres œuvres créatives, comme le *osu! Coffee Hour* ou le *Aspire Beatmapping Contests*.
+L'italique est utilisé de manière peu courante pour accentuer des phrases ou des déclarations intéressantes dans le registre conversationnel. Il peut également être utilisé pour désigner les noms d'autres œuvres créatives, comme l'*osu! Coffee Hour* ou le *Aspire Beatmapping Contests*.
 
 #### Barre horizontale
 
@@ -108,13 +108,21 @@ Exemple :
 
 ``/wiki/shared/news/2017-08-17-news-article-standards/banner.jpg``
 
+#### Couvertures
+
+Les articles de news doivent comporter un [bloc d'images](/wiki/Article_styling_criteria/Formatting#rendu) après le paragraphe de prévisualisation pour servir de **couverture** (parfois appelée *bannière*). Le client et le site web utilisent automatiquement la première image d'un article comme couverture sur la page d'accueil, la liste des actualités et l'affichage des articles.
+
+Les images de couverture doivent avoir une largeur minimale de 900 et une hauteur minimale de 200 pour leur taille de base. Une version `@2x` avec chaque dimension doublée doit être fournie si l'image source est suffisamment grande pour le supporter.
+
+Les images de couverture apparaissant dans plusieurs articles sont généralement placées dans le répertoire `/wiki/shared/news/banners`.
+
 #### Formats et qualité
 
 Les images utilisées dans les articles doivent être au format JPG de qualité 9 (90) à 10 (100). L'utilisation du format PNG est acceptable dans les cas où la taille du fichier est faible ou si la qualité ne peut être compromise.
 
 #### Taille du fichier
 
-Les images doivent être inférieures à 2 mégaoctets (MO), sinon elles ne se chargeront pas.
+Les images doivent être inférieures à 1 mégaoctet (MO), sinon elles ne se chargeront pas.
 
 Toutes les images doivent être optimisées autant que possible. Utilisez [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) pour compresser les images JPEG. Par souci de cohérence, utilisez la commande suivante pour jpeg-archive :
 

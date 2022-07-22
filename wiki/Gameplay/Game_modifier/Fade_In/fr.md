@@ -13,8 +13,7 @@ tags:
 
 ![Icône du mod FI](/wiki/shared/mods/FI.png "Icône du mod Fade In (FI)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*
-
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*\
 *À ne pas confondre avec les mods [Hidden](/wiki/Game_modifier/Hidden) et [Flashlight](/wiki/Game_modifier/Flashlight)*
 
 ## À propos

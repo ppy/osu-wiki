@@ -12,8 +12,7 @@ Desteğin e-postanıza göz atması genellikle birkaç gün sürer. Eğer bir ha
 
 ## Rol ve görevler
 
-*Ana başlık: [Yardım Merkezi](/wiki/Help_centre)*
-
+*Ana başlık: [Yardım Merkezi](/wiki/Help_centre)*\
 *Ayrıca bakınız: [Hesap Kısıtlamaları](/wiki/Help_centre/Account_restrictions)*
 
 Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtibata geçmelisiniz. Lütfen sorununuz hakkında olabildiğince fazla detay vermeyi unutmayın ve e-postayı osu! hesabınızla eşleşen e-posta adresinizden gönderdiğinizden emin olun.

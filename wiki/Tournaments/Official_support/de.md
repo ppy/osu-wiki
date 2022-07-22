@@ -153,11 +153,14 @@ Langjährige Turniere von der Community können sich für Banner im Hauptmenü d
 Wenn du die oben genannten Kriterien erfüllst, kannst du durch das Senden einer E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh) einen Antrag für einen Banner im Hauptmenü stellen. Das Bannerbild muss die folgenden Standards erfüllen:
 
 - Die eingereichte Datei muss im Format **PNG** sein.
-- Die Größe muss **1500 x 256 px** sein.
-  - Alle Bannerbilder werden als `2x` behandelt. Das bedeutet, dass sie von uns in 50%iger Skalierung in ein `1x` Bild exportiert werden. Gestalte deine Bilder dementsprechend, um sicherzustellen, dass bei halber Größe alles lesbar ist.
+- Die Breite darf nicht größer als **1000 px** sein. Kleinere Breiten sind in Ordnung.
+- Die Höhe muss immer **180 px** sein. Andere Werte sind NICHT zulässig.
+- Alle Bannerbilder werden als `2x` behandelt. Das bedeutet, dass sie von uns in 50%iger Skalierung in ein `1x` Bild exportiert werden. Gestalte deine Bilder dementsprechend, um sicherzustellen, dass bei halber Größe alles lesbar ist. Nutzer werden abhängig ihrer im Client gewählten Auflösung eines der beiden Bilder sehen.
 - Das Bild muss deutlich das Logo, das Motiv UND den Namen deines Turniers zeigen sowie jede Information über die aktuelle Etappe oder Sektion, die beworben wird.
 - Das Bild muss ordentlich gestaltet sein. Es wird betont, dass das Bild weitgehend transparent und visuell relativ unauffällig sein sollte.
 - Das Bild darf kein Sponsoring enthalten oder etwas anderes als das Turnier bewerben.
+
+[Lade eine Bildvorlage für Banner im Hauptmenü hier herunter.](https://assets.ppy.sh/media/mainmenu_template.png)
 
 Bitte beachte die folgenden akzeptierten Bannerdesigns:
 

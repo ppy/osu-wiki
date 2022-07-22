@@ -12,8 +12,7 @@ tags:
 
 ![Icône du mod EZ](/wiki/shared/mods/EZ.png "Icône du mod Easy (EZ)")
 
-*Pour d'autres utilisations, voir [Easy (désambiguïsation)](/wiki/Disambiguation/Easy).*
-
+*Pour d'autres utilisations, voir [Easy (désambiguïsation)](/wiki/Disambiguation/Easy).*\
 *Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*.
 
 ## À propos
@@ -70,7 +69,7 @@ Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), les effets sont les mêmes 
 ## Le saviez-vous ?
 
 - Lorsque vous regardez un replay où une vie supplémentaire est utilisée, l'animation de recharge de la santé sera ignorée et le replay continuera comme si le joueur jouait avec le mod [No Fail](/wiki/Game_modifier/No_Fail) activé.
-- En mod [Multi](/wiki/Gameplay/Multiplayer), l'effet des "vies" ne fonctionnera pas en mod [Tag Co-op ou Tag Team Vs.](/wiki/Gameplay/Multiplayer#tag-coop-/-tag-team-vs)
+- En mod [Multi](/wiki/Client/Interface/Multiplayer), l'effet des "vies" ne fonctionnera pas en mod [Tag Co-op ou Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-coop-/-tag-team-vs)
 - Le mod Easy annule le mod [Hard Rock](/wiki/Game_modifier/Hard_Rock), et vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

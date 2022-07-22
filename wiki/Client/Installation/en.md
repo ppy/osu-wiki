@@ -30,7 +30,7 @@ If you are using a 64-bit Windows 7, you may have difficulties installing osu! c
 **If game installer throws errors when attempting to install, you can try few things:**
 
 - Try reinstalling the latest version of .NET Framework. [You can find it here](https://dotnet.microsoft.com/download).
-- Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
+- Clean your PC! Scan with anti-virus software, and clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
 
 ## Adding beatmaps
 

@@ -40,9 +40,9 @@ Parmi les changements et les annonces faites autour du classement des beatmaps, 
 
 La [chaîne YouTube osu!news](https://www.youtube.com/channel/UCZKQIqv9O2tddMNUMAxWaqQ) a mis en ligne sa [première vidéo](https://www.youtube.com/watch?v=KQbudVxEjr8) au public le 8 mai 2015. La chaîne était gérée par différents membres de la communauté et visait à créer des vidéos sur les skins, les tournois, le mapping, les concours et d'autres nouvelles de la communauté [[12,13]][r].
 
-Le osu!keyboard (également connu sous le nom de "osu! 'nono' keyboard") a été ajouté à l'osu!store le 30 mai 2015, pour environ 40 $ au lancement. Annoncés initialement dans un [tweet de peppy](https://twitter.com/ppy/status/603797988742336512) le 28 mai 2015, il n'y avait que 100 claviers disponibles au lancement, et ils ressemblaient plus à un pavé numérique qu'à un clavier de taille normale [[14,15]][r].
+L'osu!keyboard (également connu sous le nom de "osu! 'nono' keyboard") a été ajouté à l'osu!store le 30 mai 2015, pour environ 40 $ au lancement. Annoncés initialement dans un [tweet de peppy](https://twitter.com/ppy/status/603797988742336512) le 28 mai 2015, il n'y avait que 100 claviers disponibles au lancement, et ils ressemblaient plus à un pavé numérique qu'à un clavier de taille normale [[14,15]][r].
 
-![](img/osu-keyboard.jpg "Le osu! keyboard tease dans un tweet de peppy")
+![](img/osu-keyboard.jpg "L'osu! keyboard tease dans un tweet de peppy")
 
 ## Juin
 

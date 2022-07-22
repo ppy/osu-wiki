@@ -1,3 +1,7 @@
+---
+outdated_translation: true
+---
+
 # Custom Sample Overrides
 
 ## Sample Format

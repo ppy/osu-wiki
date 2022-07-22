@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3edcc9733800c0e9221a2032eede25009608e79d
+---
+
 # Áudio de Storyboard
 
 **Arquivos de áudio** (WAV, MP3 e OGG) podem ser executados em pontos específicos do tempo. Eles são como declarações de objeto, não comandos, portanto, eles não são usados em *loops* ou *triggers*. No entanto, você pode colocá-los em qualquer uma das quatro camadas (embora não haja nenhum conceito de "sobreposição" — todos os sons serão misturados), para que você possa fazer com os sons sejam executados apenas se o jogador estiver no estado Pass ou Fail.

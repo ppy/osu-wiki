@@ -533,7 +533,7 @@ Sunday, 31 January 2021:
 5. Picks will alternate between team captains until a winner is decided by being the first to get the required amount of points to win that round.
 6. If both teams tie at match point, the tiebreaker map will be played, the team who wins the tiebreaker map will win the game.
 7. Matches will be played with the TeamVS mode on **Score V2**.
-8. The Red Team will occupy slots 1 - 3, and the Blue Team will occupy slots 4 - 6.
+8. The Red Team will occupy slots 1–3, and the Blue Team will occupy slots 4–6.
 9. Allowed mods in the FreeMod pool are Hidden, FadeIn, Flashlight, and Mirror. The tiebreaker map is also played under FreeMod conditions.
 10. If a player disconnects during a match, their score is counted as a failed score. However, if this disconnect happens before 30 seconds of the map is played, the referee can decide to let the teams rematch.
 11. If a team cannot gather 3 members into the match lobby by 10 minutes after the match’s scheduled start time, the opposing team will be declared a win by default. If neither team can gather 3 members into the match lobby by 10 minutes after the match’s scheduled start time, the team with the higher seed out of qualifiers will be declared a win by default.

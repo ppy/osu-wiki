@@ -1,6 +1,6 @@
 ---
+outdated_since: 51dee80f97242f58303d6569311a1e93da10380e
 outdated_translation: true
-outdated_since: ad3744762742b8a2c1c7d3d1795e060a9569a46e
 ---
 
 # Turniere
@@ -47,7 +47,7 @@ Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelaussch
 | [osu!taiko World Cup 2019](TWC/2019) | 20.04.2019 | 26.05.2019 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_KR] Südkorea |
 | [osu!taiko World Cup 2020](TWC/2020) | 07.03.2020 | 12.04.2020 | ![][flag_JP] Japan | ![][flag_KR] Südkorea | ![][flag_GB] Vereinigtes Königreich |
 | [osu!taiko World Cup 2021](TWC/2021) | 06.03.2021 | 11.04.2021 | ![][flag_JP] Japan | ![][flag_KR] Südkorea | ![][flag_BR] Brasilien |
-| [osu!taiko World Cup 2022](TWC/2022) | 12.03.2022 | 24.04.2022 | *noch offen* | *noch offen* | *noch offen* |
+| [osu!taiko World Cup 2022](TWC/2022) | 12.03.2022 | 24.04.2022 | ![][flag_JP] Japan | ![][flag_KR] Südkorea | ![][flag_ID] Indonesien |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -62,7 +62,8 @@ Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelaussch
 | [osu!catch World Cup 2018](CWC/2018) | 09.06.2018 | 15.07.2018 | ![][flag_CN] China | ![][flag_US] Vereinigte Staaten | ![][flag_CL] Chile |
 | [osu!catch World Cup 2019](CWC/2019) | 29.06.2019 | 04.08.2019 | ![][flag_KR] Südkorea | ![][flag_CN] China | ![][flag_CL] Chile |
 | [osu!catch World Cup 2020](CWC/2020) | 09.05.2020 | 14.06.2020 | ![][flag_KR] Südkorea | ![][flag_CN] China | ![][flag_US] Vereinigte Staaten |
-| [osu!catch World Cup 2021](CWC/2021) | 01.05.2021 | 06.06.2021 | ![][flag_KR] Südkorea | ![][flag_HK] Hong Kong | ![][flag_US] United States |
+| [osu!catch World Cup 2021](CWC/2021) | 01.05.2021 | 06.06.2021 | ![][flag_KR] Südkorea | ![][flag_HK] Hong Kong | ![][flag_US] Vereinigte Staaten |
+| [osu!catch World Cup 2022](CWC/2022) | 21.05.2022 | 03.07.2022 | ![][flag_KR] Südkorea | ![][flag_US] Vereinigte Staaten | ![][flag_CN] China |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -229,6 +230,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 03.02.2020 | 12.04.2020 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
 | [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 04.01.2021 | 28.03.2021 | ![][flag_ID] [rho](https://osu.ppy.sh/users/1629553) | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) |
+| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 15.02.2022 | 03.04.2022 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
 
 #### osu! Singapore-Indonesia-Malaysia Tournament
 
@@ -297,6 +299,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [PERAK osu! Tournament](POT/1) | 17.01.2021 | 04.04.2021 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| [PERAK osu! Tournament 2022](POT/2022) | 21.02.2022 | 24.04.2022 | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) |
 
 #### Rapid Monthly osu! Tournament Invitationals
 
@@ -350,7 +353,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [UK Community Cup 9](UKCC/9) | 29.08.2020 | 11.10.2020 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup X](UKCC/X) | 06.02.2021 | 12.04.2021 | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) | ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761) | ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484) |
 | [UK Community Cup 10](UKCC/10) | 11.09.2021 | 31.10.2021 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
-| [UK Community Cup 11](UKCC/11) | 23.01.2022 | 03.04.2022 | *TBD* | *TBD* | *TBD* |
+| [UK Community Cup 11](UKCC/11) | 23.01.2022 | 03.04.2022 | Luciano Fan Club | denial piano | The |
 
 #### Ulat Bulu Cup
 
@@ -427,7 +430,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Katacheh Global Taiko Showdown 2019](GTS/KGTS_2019) | 28.09.2019 | 13.10.2019 | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
 | [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 02.11.2019 | 02.02.2020 | Asien (Global), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) (Asien), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) (Europa), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) (Nordamerika), ! [][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) (Ozeanien/SEA), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) (Südamerika) | Europa (Global), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) (Asien), ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) (Europa), ! [][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) (Nordamerika), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) (Ozeanien/SEA), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) (Südamerika) | Nordamerika (Global), ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Asien), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) (Europa), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) (Nordamerika), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) (Ozeanien/SEA), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) (Südamerika) |
 | [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 05.30.2020 | 18.07.2020 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) |
-| [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 06.06.2020 | 19.07.2020 | ![][flag_US] Unites States A | ![][flag_JP] Japan A | ![][flag_SG] Singapore |
+| [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 06.06.2020 | 19.07.2020 | ![][flag_US] Vereinigte Staaten A | ![][flag_JP] Japan A | ![][flag_SG] Singapur |
 | [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 12.09.2020 | 01.11.2020 | ![][flag_SG] Singapur | ![][flag_CN] China A | ![][flag_JP] Japan A |
 | [Beginners Global Taiko Showdown 2020](GTS/BGTS_2020) | 05.12.2020 | 07.02.2021 | ![][flag_HK] Hong Kong | ![][flag_CA] Canada | ![][flag_RO] Romania |
 | [Continental Global Taiko Showdown 2021](GTS/CGTS_2021) | 06.02.2021 | 17.04.2021 | Asien | Europa | Nordamerika |
@@ -436,6 +439,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Intermediate Global Taiko Showdown 2021](GTS/IGTS_2021) | 24.07.2021 | 05.09.2021 | ![][flag_US] Vereinigte Staaten | ![][flag_CN] China | ![][flag_SG] Singapur |
 | [Expert Global Taiko Showdown 2021](GTS/EGTS_2021) | 02.10.2021 | 28.11.2021 | ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
 | [Squad Global Taiko Showdown 2021](GTS/SGTS_2021) | 08.01.2022 | 20.02.2022 | おまかせ | Ham | 皇-SUMERAGI- |
+| [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 26.03.2022 | 08.05.2022 | ![][flag_JP] Japan A | ![][flag_HK] Hong Kong | ![][flag_US] Vereinigte Staaten B |
 
 #### North & South American Taiko Tournament
 
@@ -478,6 +482,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Vaf's Autumn Fiesta](VAF/1) | 15.05.2021 | 11.07.2021 | ![][flag_JP] [yu-k1\_](https://osu.ppy.sh/users/16347853) | ![][flag_HK] [J a c k y](https://osu.ppy.sh/users/8011704) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
+
+#### 4 Digit Catch World Cup
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [4 Digit Catch World Cup 2022](4CWC/2022) | 30.07.2022 | 11.09.2022 | *noch offen* | *noch offen* | *noch offen* |
 
 #### Catch French Beginner
 
@@ -586,7 +596,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 09.04.2022 | 08.05.2022 | *noch offen* | *noch offen* | *noch offen* |
+| [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 09.04.2022 | 15.05.2022 | 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | GBC最强阵容9个Miyes |
 
 #### Mania Beginner's Showdown
 
@@ -609,13 +619,14 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Mistrzostwa Polski w 7K 2019](MP/2019_7K) | 09.10.2019 | 22.12.2019 | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537) | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) | ![][flag_PL] [-Karen-chan-](https://osu.ppy.sh/users/1333495) |
 | [Mistrzostwa Polski w 7K 2020](MP/2020_7K) | 12.10.2020 | 20.12.2020 | ![][flag_PL] [paprotkaaaaa](https://osu.ppy.sh/users/6034749) | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537) | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/2235750) |
 
-#### osu!mania 4K Chinese National Cup
+#### osu!mania Chinese National Cup
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania 4K Chinese National Cup 2019](MCNC/2019) | 19.06.2019 | 12.08.2019 | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
 | [osu!mania 4K Chinese National Cup 2020](MCNC/2020) | 27.04.2020 | 28.06.2020 | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) | ![][flag_CN] [Kakuko](https://osu.ppy.sh/users/10413362) | ![][flag_CN] [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
 | [osu!mania 4K Chinese National Cup 2021](MCNC/2021) | 05.04.2021 | 06.06.2021 | ![][flag_CN] [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) | ![][flag_CN] [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
+| [osu!mania 7K Chinese National Cup 2022](MCNC/7K2022) | 21.01.2022 | 06.03.2022 | ![][flag_CN] [LiangIaiajan](https://osu.ppy.sh/users/5144698) | ![][flag_CN] [4kGameBye](https://osu.ppy.sh/users/89545) | ![][flag_CN] [U1d](https://osu.ppy.sh/users/10125072) |
 
 #### osu!mania Asian's Champions
 

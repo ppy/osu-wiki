@@ -8,7 +8,7 @@ tags:
 
 ![Logo de l'OMC5](img/Banner.jpg)
 
-Le **osu! Fan Cafe Mapping Contest #5** (***OMC5***) est un concours de mapping organisé en Corée et auquel seuls les Coréens sont autorisés à participer. Il s'agit de la cinquième édition de l'OMC.
+L'**osu! Fan Cafe Mapping Contest #5** (***OMC5***) est un concours de mapping organisé en Corée et auquel seuls les Coréens sont autorisés à participer. Il s'agit de la cinquième édition de l'OMC.
 
 ## Calendrier du concours
 

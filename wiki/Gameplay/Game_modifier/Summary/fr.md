@@ -1,7 +1,6 @@
 # Résumé des modificateurs de jeu
 
-*Page principale : [Modificateurs de jeu](/wiki/Game_modifier)*
-
+*Page principale : [Modificateurs de jeu](/wiki/Game_modifier)*\
 *Note : Tous les mods utilisés dans osu!mania n'augmenteront jamais le multiplicateur de score.*
 
 | Mod | Nom (Abréviation) | Multiplicateur | Légende |
@@ -31,7 +30,7 @@
 
 ## Multiplicateurs de score pour le mod xK 
 
-*Attention : Ce tableau n'affecte que les beatmaps convertis de osu! à osu!mania pendant le jeu, et non les beatmaps spécifiques à osu!mania !*.
+*Attention : Ce tableau n'affecte que les beatmaps convertis d'osu! à osu!mania pendant le jeu, et non les beatmaps spécifiques à osu!mania !*.
 
 | Défaut/Modificateur | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
@@ -42,7 +41,7 @@
 
 ### Multiplicateurs de score avec le mod xK en Co-op
 
-*Remarque : Ce tableau n'affecte que les beatmaps converties de osu! à osu!mania pendant le jeu, et non les beatmaps spécifiques à osu!mania. En tant que tel, le mod Co-op ne donne aucune pénalité sur les beatmaps spécifiques à osu!mania.*
+*Remarque : Ce tableau n'affecte que les beatmaps converties d'osu! à osu!mania pendant le jeu, et non les beatmaps spécifiques à osu!mania. En tant que tel, le mod Co-op ne donne aucune pénalité sur les beatmaps spécifiques à osu!mania.*
 
 | Défaut/Modificateur | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |

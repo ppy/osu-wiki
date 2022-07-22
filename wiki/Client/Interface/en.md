@@ -55,12 +55,12 @@ Access this screen by clicking on your profile at the top left of the main menu.
 After selecting `Play` in the main menu, you can choose between three options:
 
 - Click `Solo` (or press `P`) to play on your own. This leads you to the [song selection screen](#song-select).
-- Click `Multi` (or press `M`) to play with other people. You will be directed to the [Multi](/wiki/Gameplay/Multiplayer) Lobby.
+- Click `Multi` (or press `M`) to play with other people. You will be directed to the [Multi](/wiki/Client/Interface/Multiplayer) Lobby.
 - Click `Back` to return to the main menu.
 
 ## Multiplayer lobby
 
-*Main page: [Multi](/wiki/Gameplay/Multiplayer)*
+*Main page: [Multi](/wiki/Client/Interface/Multiplayer)*
 
 ![](img/multi-lobby.jpg "Multiplayer lobby")
 
@@ -251,7 +251,7 @@ Click the `Mods` button or press `F1` to open the **[mod selection screen](/wiki
 
 In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_modifier/Relax) and [Auto Pilot](/wiki/Game_modifier/Autopilot) fall in that category.
 
-Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations—click on the mod again to cycle through them. The score multiplier value displays the combined effect all selected mods will have on your score. Click `Reset all mods` or press `1` to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the song selection screen.
+Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations — click on the mod again to cycle through them. The score multiplier value displays the combined effect all selected mods will have on your score. Click `Reset all mods` or press `1` to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the song selection screen.
 
 Click the `Random` button or press `F2` to have the game **randomly scroll through all of your beatmaps and pick one.**
 
@@ -261,7 +261,7 @@ Click the `Random` button or press `F2` to have the game **randomly scroll throu
 
 Click the `Beatmap Options` button, press `F3` or right-click your mouse while hovering over the beatmap to bring up the **beatmap options menu for options on the currently selected beatmap**.
 
-- Press `1` or click the `Manage Collections` button to bring up the collection manager—here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
+- Press `1` or click the `Manage Collections` button to bring up the collection manager — here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
 - Press `2` or click `Delete...` to delete the \[1\] currently selected difficulty, \[2\] delete the currently selected beatmap, or \[3\] delete **all VISIBLE beatmaps**.
   - Note that deleted beatmaps are moved to the Recycle Bin.
 - Press `3` or click `Remove from Unplayed` to mark an unplayed beatmap as played (that is, change its box colour from pink to orange).

@@ -101,7 +101,7 @@ Lorsqu'une telle action est nécessaire pour se conformer aux exigences légales
 
 Lorsque cette action est nécessaire pour protéger et défendre les droits ou la propriété d'osu!.
 
-Lorsqu'une telle action est nécessaire pour faire respecter les termes et conditions de service de osu!.
+Lorsqu'une telle action est nécessaire pour faire respecter les termes et conditions de service d'osu!.
 
 osu! peut utiliser des cookies dans le cadre du processus de suivi, mais les cookies ne seront pas utilisés pour vous identifier personnellement sans votre consentement préalable.
 Si l'utilisateur décide de participer au forum, avec son consentement, un cookie sera émis pour garder la trace du nom d'utilisateur et du mot de passe pour une période de 1 an.

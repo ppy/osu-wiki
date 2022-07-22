@@ -96,8 +96,7 @@ Nichts desto trotz, wenn die Wärmeentwicklung und eine mögliche Überlastung d
 
 ### Custom
 
-*Hinweis für Nutzer von Cutting Edge: Den Wert von `CustomFrameLimit` auf eine Zahl über 999 zu setzen, wird ihn auf 999 zurücksetzen. Auf Stable kannst du ohne Probleme den Wert auf über 1000 setzen.*
-
+*Hinweis für Nutzer von Cutting Edge: Den Wert von `CustomFrameLimit` auf eine Zahl über 999 zu setzen, wird ihn auf 999 zurücksetzen. Auf Stable kannst du ohne Probleme den Wert auf über 1000 setzen.*\
 *Vorsicht: Du kannst in diese Einstellung nicht mit dem Kürzel `F7` im Spiel wechseln, auch wenn du du die unteren Schritte ausführst. Du musst in den Einstellungen auf `Custom` wechseln, bevor du das Spiel verlässt, damit es beim nächsten Mal wieder verfügbar ist, wenn osu! läuft. Ansonsten musst du `FrameSync` manuell wieder ändern.*
 
 Dieses FPS-Limit versucht, eine Bildrate nahe deiner benutzerdefinierten Präferenz beizubehalten, jedoch ist das eine Einstellung, die standardmäßig nicht im Spielmenü geändert werden kann.

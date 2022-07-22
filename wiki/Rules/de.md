@@ -62,6 +62,6 @@ Gewisse Verstöße haben eine Mindestdauer zufolge (meistens 42 Stunden oder meh
 
 Solltest du nach zahlreichen Verstößen weiterhin die Regeln brechen, kann dein Account [permanent und unwiderruflich gesperrt werden](/wiki/Help_centre/Account_restrictions).
 
-Eingeschränkte Accounts können nicht online spielen, Scores erzielen, mit anderen Nutzern sprechen und sind im Großen und Ganzen von allen Interaktionen mit der Community 'gebannt'. Eingeschränkte Accounts können nur freigegeben werden, wenn nach 3 Monaten ein entsprechendes Gesuch beim Support eingereicht wird ([es können weitere Bedingungen aufgestellt werden](/wiki/Help_centre/Account_restrictions#häufige-gründe-für-einschränkungen-und-auszeiten)).
+Eingeschränkte Accounts können nicht online spielen, Scores erzielen, mit anderen Nutzern sprechen und sind im Großen und Ganzen von allen Interaktionen mit der Community 'gebannt'. Eingeschränkte Accounts können nur freigegeben werden, wenn nach 3 Monaten ein entsprechendes Gesuch beim Support eingereicht wird ([es können weitere Bedingungen aufgestellt werden](/wiki/Help_centre/Account_restrictions#reasons)).
 
 Schwere Vergehen, die den Rahmen unserer Regeln sprengen und unter die Jurisdiktion von illegalen Inhalten im Sinne der geltenden Rechtsprechung fallen, führen zur sofortigen Schließung des Accounts. Dies gilt fast ausschließlich zu extrem exzessiven oder anderen abscheulichen Darstellungen, wie unter anderem Kinderpornografie oder die Darstellung von Vergewaltigungen.

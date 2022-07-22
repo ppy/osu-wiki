@@ -16,13 +16,13 @@ The **37** total submissions were screened by a group of experineced mappers and
 
 | Rank | Beatmap | Judging | Musical representation (70) | Creativity (70) | Gameplay (70) | Limitation (35) | Raw total | Standardized total |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [Parhelia](https://osu.ppy.sh/beatmapsets/1220897#osu/2539737) by [Kalibe](https://osu.ppy.sh/users/3376777) | [see details](https://mappersguild.com/contestresults?submission=5ef783cb65cf866966d7a02a) | 47 | 47 | 51 | 27 | **172** | **1.43** |
-| \#2 | [Darkest Heights](https://osu.ppy.sh/beatmapsets/1220791#osu/2539484) by [xbopost](https://osu.ppy.sh/users/6842421) | [see details](https://mappersguild.com/contestresults?submission=5ef783c265cf866966d7a028) | 48 | 46 | 51 | 27 | **172** | **1.42** |
-| \#3 | [Darkest Heights](https://osu.ppy.sh/beatmapsets/1220874#osu/2539701) by [Sylas](https://osu.ppy.sh/users/3906405) | [see details](https://mappersguild.com/contestresults?submission=5ef783aa65cf866966d7a023) | 52 | 39 | 55 | 28 | **174** | **1.41** |
-| \#4 | [Love](https://osu.ppy.sh/beatmapsets/1220772#osu/2539454) by [K4L1](https://osu.ppy.sh/users/11334594) | [see details](https://mappersguild.com/contestresults?submission=5ef7839465cf866966d7a020) | 46 | 50 | 40 | 26 | **162** | **-0.04** |
-| \#5 | [The Style of Evermore](https://osu.ppy.sh/beatmapsets/1220860#osu/2539633) by [Altai](https://osu.ppy.sh/users/5745865) | [see details](https://mappersguild.com/contestresults?submission=5ef783a265cf866966d7a022) | 47 | 38 | 47 | 27 | **159** | **-0.33** |
-| \#6 | [Invincible](https://osu.ppy.sh/beatmapsets/1220881#osu/2539718) by [hypercyte](https://osu.ppy.sh/users/9155377) | [see details](https://mappersguild.com/contestresults?submission=5ef7837465cf866966d7a01a) | 48 | 38 | 53 | 29 | **168** | **-0.68** |
-| \#7 | [Love](https://osu.ppy.sh/beatmapsets/1220983#osu/2539927) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contestresults?submission=5ef7836a65cf866966d7a018) | 45 | 44 | 40 | 32 | **161** | **-3.22** |
+| \#1 | [Parhelia](https://osu.ppy.sh/beatmapsets/1220897#osu/2539737) by [Kalibe](https://osu.ppy.sh/users/3376777) | [see details](https://mappersguild.com/contests/results?submission=5ef783cb65cf866966d7a02a) | 47 | 47 | 51 | 27 | **172** | **1.43** |
+| \#2 | [Darkest Heights](https://osu.ppy.sh/beatmapsets/1220791#osu/2539484) by [xbopost](https://osu.ppy.sh/users/6842421) | [see details](https://mappersguild.com/contests/results?submission=5ef783c265cf866966d7a028) | 48 | 46 | 51 | 27 | **172** | **1.42** |
+| \#3 | [Darkest Heights](https://osu.ppy.sh/beatmapsets/1220874#osu/2539701) by [Sylas](https://osu.ppy.sh/users/3906405) | [see details](https://mappersguild.com/contests/results?submission=5ef783aa65cf866966d7a023) | 52 | 39 | 55 | 28 | **174** | **1.41** |
+| \#4 | [Love](https://osu.ppy.sh/beatmapsets/1220772#osu/2539454) by [K4L1](https://osu.ppy.sh/users/11334594) | [see details](https://mappersguild.com/contests/results?submission=5ef7839465cf866966d7a020) | 46 | 50 | 40 | 26 | **162** | **-0.04** |
+| \#5 | [The Style of Evermore](https://osu.ppy.sh/beatmapsets/1220860#osu/2539633) by [Altai](https://osu.ppy.sh/users/5745865) | [see details](https://mappersguild.com/contests/results?submission=5ef783a265cf866966d7a022) | 47 | 38 | 47 | 27 | **159** | **-0.33** |
+| \#6 | [Invincible](https://osu.ppy.sh/beatmapsets/1220881#osu/2539718) by [hypercyte](https://osu.ppy.sh/users/9155377) | [see details](https://mappersguild.com/contests/results?submission=5ef7837465cf866966d7a01a) | 48 | 38 | 53 | 29 | **168** | **-0.68** |
+| \#7 | [Love](https://osu.ppy.sh/beatmapsets/1220983#osu/2539927) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contests/results?submission=5ef7836a65cf866966d7a018) | 45 | 44 | 40 | 32 | **161** | **-3.22** |
 
 Scores between the top 3 entries were unreasonably close, so instead of crowning only one winner, we'll crown all 3!
 

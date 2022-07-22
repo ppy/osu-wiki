@@ -46,144 +46,158 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | 菲律宾语 |
-| ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | 印度尼西亚语 |
-| ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) | 意大利语 |
-| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
-| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusian，俄语 |
-| ![][flag_GB] [Aistre](https://osu.ppy.sh/users/4879380) |  |
-| ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | 韩语 |
-| ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | 意大利语 |
-| ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549) | |
-| ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | 韩语 |
-| ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | 汉语 |
-| ![][flag_KR] [Cellina](https://osu.ppy.sh/users/2490770) | 韩语 |
-| ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) | 葡萄牙语 |
-| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | 汉语 |
-| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
-| ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
-| ![][flag_AU] [elicz1](https://osu.ppy.sh/users/8039342) |  |
-| ![][flag_BE] [Enneya](https://osu.ppy.sh/users/10959501) | 荷兰语 |
-| ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ![][flag_FI] [finnish bn](https://osu.ppy.sh/users/11077540) | 芬兰语 |
-| ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623) | 挪威语 |
-| ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) | 汉语 |
-| ![][flag_RU] [Froskya](https://osu.ppy.sh/users/4230454) | 俄语 |
-| ![][flag_DE] [FuJu](https://osu.ppy.sh/users/10773882) | 德语 |
-| ![][flag_FR] [Gweon Sua](https://osu.ppy.sh/users/13466351) | 法语 |
-| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | 印度尼西亚语 |
-| ![][flag_AU] [Iceluin](https://osu.ppy.sh/users/3558897) |  |
-| ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | 汉语，一部分法语 |
-| ![][flag_SG] [Kotoha](https://osu.ppy.sh/users/7823498) |  |
-| ![][flag_HK] [Kyle Y](https://osu.ppy.sh/users/3565813) | 汉语，粤语 |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | 德语 |
-| ![][flag_KR] [Len](https://osu.ppy.sh/users/1686145) | 韩语 |
-| ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
-| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
-| ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | 汉语 |
-| ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
-| ![][flag_GB] [mnyui](https://osu.ppy.sh/users/14261540) |  |
-| ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819) |  |
-| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | 德语 |
-| ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | 丹麦语 |
-| ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
-| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | 法语 |
-| ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | 意大利语 |
-| ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | 法语 |
-| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | 俄语 |
-| ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
-| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 汉语 |
-| ![][flag_HK] [Saggin](https://osu.ppy.sh/users/12464107) | 汉语，粤语，一部分日语 |
-| ![][flag_FR] [Sajinn](https://osu.ppy.sh/users/13513687) | 法语 |
-| ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | 俄语 |
-| ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
-| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | 俄语 |
-| ![][flag_FR] [Sotarks](https://osu.ppy.sh/users/4452992) | 法语 |
-| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | 德语 |
-| ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | 芬兰语 |
-| ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | 泰语 |
-| ![][flag_LT] [tomatas95](https://osu.ppy.sh/users/11403815) | 立陶宛语 |
-| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
-| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
-| ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836) | |
-| ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | 法语 |
-| ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
-| ![][flag_US] [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
-| ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | 汉语，日语 |
+| ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | 菲律宾语 |
+| ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | 印度尼西亚语 |
+| ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | 意大利语 |
+| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 白俄罗斯语，俄语 |
+| ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
+| ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) |  |
+| ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | 韩语 |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | 意大利语 |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | |
+| ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | 韩语 |
+| ::{ flag=TW }:: [bossandy](https://osu.ppy.sh/users/360437) | 汉语 |
+| ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | 韩语 |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 葡萄牙语 |
+| ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | 西班牙语 |
+| ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
+| ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
+| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | 荷兰语 |
+| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
+| ::{ flag=FI }:: [finnish bn](https://osu.ppy.sh/users/11077540) | 芬兰语 |
+| ::{ flag=NO }:: [Fisky](https://osu.ppy.sh/users/8352623) | 挪威语 |
+| ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | 汉语 |
+| ::{ flag=RU }:: [Froskya](https://osu.ppy.sh/users/4230454) | 俄语 |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 德语 |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | 印度尼西亚语 |
+| ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
+| ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | 汉语，一部分法语 |
+| ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | 韩语 |
+| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) |  |
+| ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | 汉语，粤语 |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | 德语 |
+| ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | 韩语 |
+| ::{ flag=GB }:: [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
+| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | 汉语 |
+| ::{ flag=CN }:: [MeAqua tete](https://osu.ppy.sh/users/5645691) | 汉语 |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
+| ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
+| ::{ flag=SG }:: [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
+| ::{ flag=GB }:: [Mokobe](https://osu.ppy.sh/users/10374819) |  |
+| ::{ flag=DK }:: [Morrighan](https://osu.ppy.sh/users/12042090) | 丹麦语 |
+| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
+| ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
+| ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | 汉语 |
+| ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | 法语 |
+| ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297) | 法语 |
+| ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | 俄语 |
+| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 汉语 |
+| ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | 汉语，粤语，一部分日语 |
+| ::{ flag=FR }:: [Sajinn](https://osu.ppy.sh/users/13513687) | 法语 |
+| ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | 俄语 |
+| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | 俄语 |
+| ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | 法语 |
+| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | 德语 |
+| ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | 芬兰语 |
+| ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | 泰语 |
+| ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | 立陶宛语 |
+| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
+| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) |  |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | |
+| ::{ flag=FR }:: [Xahlt](https://osu.ppy.sh/users/13466351) | 法语 |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
+| ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | 汉语，日语 |
 
 #### osu!taiko
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | 西班牙语 |
-| ![][flag_HK] [BlackBN](https://osu.ppy.sh/users/6291741) | 汉语，粤语 |
-| ![][flag_MY] [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
-| ![][flag_JP] [Chromoxx](https://osu.ppy.sh/users/1881639) | 日语 |
-| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 汉语，粤语 |
-| ![][flag_BR] [D0UG](https://osu.ppy.sh/users/13806900) | 葡萄牙语 |
-| ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | 西班牙语 |
-| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | 越南语 |
-| ![][flag_GB] [Dusk-](https://osu.ppy.sh/users/6092181) | 乌尔都语，一部分阿拉伯语 |
-| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
-| ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | 德语 |
-| ![][flag_IE] [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
-| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一部分意大利语 |
-| ![][flag_BR] [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 |
-| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | 荷兰语 |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 日语，粤语，汉语 |
-| ![][flag_US] [meiqth](https://osu.ppy.sh/users/12565402) |  |
-| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 汉语 |
-| ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |  |
-| ![][flag_KZ] [tadahitotsu](https://osu.ppy.sh/users/11653544) | 俄语 |
-| ![][flag_BR] [Toofu](https://osu.ppy.sh/users/11004271) | 葡萄牙语 |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一部分法语 |
+| ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | 芬兰语，一部分瑞典语 |
+| ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | 西班牙语 |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 汉语，粤语 |
+| ::{ flag=MY }:: [CallMeLyra](https://osu.ppy.sh/users/15272997) |  |
+| ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 汉语，粤语 |
+| ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | 西班牙语 |
+| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | 越南语 |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 乌尔都语，一部分阿拉伯语 |
+| ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
+| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | 日语 |
+| ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | 德语 |
+| ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一部分意大利语 |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 |
+| ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | 荷兰语 |
+| ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | 日语，粤语，汉语 |
+| ::{ flag=JP }:: [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | 日语 |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) |  |
+| ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | 汉语 |
+| ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |  |
+| ::{ flag=FI }:: [pupu5](https://osu.ppy.sh/users/7140680) | 芬兰语 |
+| ::{ flag=BR }:: [Toofu](https://osu.ppy.sh/users/11004271) | 葡萄牙语 |
+| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一部分法语 |
+| ::{ flag=PL }:: [yurishe](https://osu.ppy.sh/users/14890963) | 波兰语 |
 
 #### osu!catch
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | 泰语 |
-| ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | 韩语 |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | 粤语 |
-| ![][flag_GB] [bigh](https://osu.ppy.sh/users/16352736) |  |
-| ![][flag_NL] [Chatie](https://osu.ppy.sh/users/6524765) | 荷兰语 |
-| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | 荷兰语 |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
-| ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | 希腊语 |
-| ![][flag_US] [Usaha](https://osu.ppy.sh/users/6443117) |  |
-| ![][flag_CA] [Ymiir](https://osu.ppy.sh/users/3922569) |  |
-| ![][flag_BR] [zerokt](https://osu.ppy.sh/users/13776127) | 葡萄牙语 |
+| ::{ flag=TH }:: [-Luminate](https://osu.ppy.sh/users/4778689) | 泰语 |
+| ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | 韩语 |
+| ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | 粤语 |
+| ::{ flag=GB }:: [bigh](https://osu.ppy.sh/users/16352736) |  |
+| ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | 荷兰语 |
+| ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | 荷兰语 |
+| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
+| ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | 波兰语 |
+| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | 希腊语 |
+| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
+| ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) |  |
+| ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | 葡萄牙语 |
+| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | 西班牙语 |
 
 #### osu!mania
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
-| ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | 汉语 |
-| ![][flag_VN] [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
-| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | 印度尼西亚语 |
-| ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |  |
-| ![][flag_US] [Crisper](https://osu.ppy.sh/users/16482505) |  |
-| ![][flag_KR] [DenYi](https://osu.ppy.sh/users/14998645) | 韩语 |
-| ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | 汉语 |
-| ![][flag_CA] [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
-| ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | 韩语 |
-| ![][flag_CN] [FLeVI](https://osu.ppy.sh/users/12519616) | 汉语 |
-| ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | 韩语 |
-| ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
-| ![][flag_CN] [gzdongsheng](https://osu.ppy.sh/users/8660315) | 汉语 |
-| ![][flag_KR] [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | 韩语 |
-| ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | 菲律宾语 |
-| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | 韩语 |
-| ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | 荷兰语 |
-| ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063) | 西班牙语 |
-| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | 印度尼西亚语 |
-| ![][flag_KR] [secXcscX](https://osu.ppy.sh/users/13543418) | 韩语 |
-| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | 汉语 |
-| ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | 韩语 |
-| ![][flag_ID] [Virtue-](https://osu.ppy.sh/users/6144772) | 印度尼西亚语 |
+| ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
+| ::{ flag=CN }:: [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | 汉语 |
+| ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | 汉语 |
+| ::{ flag=TW }:: [_Rokii](https://osu.ppy.sh/users/12770065) | 汉语 |
+| ::{ flag=VN }:: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) |  |
+| ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | 印度尼西亚语 |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | 西班牙语 |
+| ::{ flag=GB }:: [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196) | 马来语 |
+| ::{ flag=US }:: [Crisper](https://osu.ppy.sh/users/16482505) |  |
+| ::{ flag=KR }:: [DenYi](https://osu.ppy.sh/users/14998645) | 韩语 |
+| ::{ flag=TW }:: [deta5859](https://osu.ppy.sh/users/15275662) | 汉语 |
+| ::{ flag=CA }:: [Drum-Hitnormal](https://osu.ppy.sh/users/748722) |  |
+| ::{ flag=KR }:: [Dubstek](https://osu.ppy.sh/users/9555243) | 韩语 |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | 印度尼西亚语 |
+| ::{ flag=CN }:: [FLeVI](https://osu.ppy.sh/users/12519616) | 汉语 |
+| ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) | 韩语 |
+| ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) |  |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | 汉语 |
+| ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | 汉语，粤语 |
+| ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 韩语 |
+| ::{ flag=KR }:: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | 韩语 |
+| ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | 菲律宾语 |
+| ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | 韩语 |
+| ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | 荷兰语 |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 西班牙语 |
+| ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) | 印度尼西亚语 |
+| ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
+| ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | 韩语 |
+| ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) | 汉语 |
+| ::{ flag=KR }:: [Sun](https://osu.ppy.sh/users/4115819) | 韩语 |
+| ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | 印度尼西亚语 |
+| ::{ flag=TW }:: [Touru0711](https://osu.ppy.sh/users/8625854) | 汉语 |
+| ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | 印度尼西亚语 |
 
 ### 见习成员
 
@@ -191,89 +205,37 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
-| ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | 西班牙语 |
-| ![][flag_ES] [Didah](https://osu.ppy.sh/users/8030129) | 西班牙语 |
-| ![][flag_UA] [Esutarosa](https://osu.ppy.sh/users/12024753) | Ukrainian |
-| ![][flag_FR] [Gabdu09](https://osu.ppy.sh/users/8852605) | 法语 |
-| ![][flag_KR] [KeyWee](https://osu.ppy.sh/users/10476879) | 韩语 |
-| ![][flag_SG] [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
-| ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | 德语 |
-| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 汉语 |
-| ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691) | 汉语 |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 |
+| ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
 
 #### osu!taiko
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | 芬兰语，一部分瑞典语 |
-| ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | 日语 |
-| ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563) | 日语 |
-| ![][flag_US] [Pumi](https://osu.ppy.sh/users/17853754) |  |
-| ![][flag_FI] [pupu5](https://osu.ppy.sh/users/7140680) | 芬兰语 |
-| ![][flag_ID] [Surono](https://osu.ppy.sh/users/3611370) | 印度尼西亚语 |
-| ![][flag_PL] [yurishe](https://osu.ppy.sh/users/14890963) | 波兰语 |
+| ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | 土耳其语 |
+| ::{ flag=US }:: [Pumi](https://osu.ppy.sh/users/17853754) |  |
+| ::{ flag=ID }:: [Surono](https://osu.ppy.sh/users/3611370) | 印度尼西亚语 |
 
 #### osu!catch
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | 西班牙语 |
+| ::{ flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | 法语 |
+| ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | 泰语 |
 
 #### osu!mania
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | 汉语 |
-| ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | 汉语 |
-| ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | 西班牙语 |
-| ![][flag_MY] [Critical_Star](https://osu.ppy.sh/users/3793196) | 马来语 |
-| ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789) | 印度尼西亚语 |
-| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
-| ![][flag_ID] [Syrion-](https://osu.ppy.sh/users/15380643) | 印度尼西亚语 |
+| ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | 汉语 |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | 西班牙语 |
+| ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | 汉语，粤语 |
+| ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
+| ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | 印度尼西亚语 |
+| ::{ flag=TW }:: [Touru0711](https://osu.ppy.sh/users/8625854) | 汉语 |
 
 ## 历史
 
 - BN 的前身叫做[谱面评估团队 (BAT)](/wiki/Modding/Beatmap_Appreciation_Team)。
 - 自2014年8月22日起，他们不再属于核心管理人员。在游戏、聊天室、论坛中，他们也不再拥有聊天管理权限和红色用户名。
 - 自2015年2月1日起，团队更名为谱面审核小组 (BNG)，随后调整为我们现在所熟知的谱面审核成员 (BN)。
-
-[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
-[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[flag_BE]: /wiki/shared/flag/BE.gif "比利时"
-[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
-[flag_BY]: /wiki/shared/flag/BY.gif "白俄罗斯"
-[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_CL]: /wiki/shared/flag/CL.gif "智利"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
-[flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_DK]: /wiki/shared/flag/DK.gif "丹麦"
-[flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"
-[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
-[flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
-[flag_FR]: /wiki/shared/flag/FR.gif "法国"
-[flag_GB]: /wiki/shared/flag/GB.gif "英国"
-[flag_GR]: /wiki/shared/flag/GR.gif "希腊"
-[flag_HK]: /wiki/shared/flag/HK.gif "香港"
-[flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
-[flag_IE]: /wiki/shared/flag/IE.gif "爱尔兰"
-[flag_IT]: /wiki/shared/flag/IT.gif "意大利"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
-[flag_KZ]: /wiki/shared/flag/KZ.gif "哈萨克斯坦"
-[flag_LT]: /wiki/shared/flag/LT.gif "立陶宛"
-[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
-[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
-[flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
-[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
-[flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
-[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
-[flag_TH]: /wiki/shared/flag/TH.gif "泰国"
-[flag_TN]: /wiki/shared/flag/TN.gif "突尼斯"
-[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
-[flag_UA]: /wiki/shared/flag/UA.gif "乌克兰"
-[flag_US]: /wiki/shared/flag/US.gif "美国"
-[flag_VN]: /wiki/shared/flag/VN.gif "越南"

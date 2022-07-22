@@ -37,7 +37,7 @@ The **Hidden** mod is a [game modifier](/wiki/Game_modifier) that increases the 
 
 ### osu!
 
-In [osu!](/wiki/Game_mode/osu!), the Hidden mod eliminates the approach circles and causes the hit objects to fade out shortly after appearing, forcing players to more or less memorise the timing, and—to a lesser degree—the placement and slider path.
+In [osu!](/wiki/Game_mode/osu!), the Hidden mod eliminates the approach circles and causes the hit objects to fade out shortly after appearing, forcing players to more or less memorise the timing, and — to a lesser degree — the placement and slider path.
 
 Although it should be noted that the Hidden mod is considered the easiest difficulty increasing mod amongst top players due to the consistency of when hit objects appear and disappear. As a result of this consistency, it is very much possible to learn when to tap objects based on when they fade out alone.
 

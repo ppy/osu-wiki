@@ -8,7 +8,7 @@ Vous trouverez ci-dessous quelques-unes des façons dont vous pouvez aider la co
 
 [Le wiki](https://github.com/ppy/osu-wiki) est notre base de connaissances officielle qui contient tout et n'importe quoi à propos d'osu!. Et en tant que tel, le wiki est toujours à la recherche de nouveaux contributeurs pour aider à maintenir le site à jour avec de nouvelles connaissances ou traductions.
 
-Si vous êtes un nouveau venu sur le osu! wiki, vous pouvez en savoir plus à ce sujet en consultant le [guide de contribution au osu! wiki](/wiki/osu!_wiki/Contribution_guide)
+Si vous êtes un nouveau venu sur l'osu! wiki, vous pouvez en savoir plus à ce sujet en consultant le [guide de contribution au osu! wiki](/wiki/osu!_wiki/Contribution_guide)
 
 ## Aidez-nous à préserver la convivialité et la sécurité d'osu!
 

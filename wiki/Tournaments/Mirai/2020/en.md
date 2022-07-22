@@ -473,7 +473,7 @@ The ruleset for this tournament is: Scorev2, Team VS in osu! standard.
 ### Tournament rules
 
 1. The Discord server rules apply. Failure to comply will result in the disqualification of you and/or your team depending on the severity and the people involved.
-2. The rank range for this tournament is 105.000 - 45.000.
+2. The rank range for this tournament is 105.000–45.000.
 3. If during this tournament you get derank under 105.000 or overrank above 45.000 you will not be allowed to play anymore in your team until you've deranked enough to be in range again.
 4. Grieving, trolling, and other actions that may hinder a match are prohibited.
 5. Sportsmanship is encouraged. Don’t be mean towards other players.

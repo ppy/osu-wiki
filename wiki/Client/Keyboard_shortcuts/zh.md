@@ -45,7 +45,7 @@ tags:
 | `Esc` | 返回或取消 |
 | `P`，`E` 或 `O` | 打开游玩菜单 |
 | 三次 `P` | 进入单人游戏 |
-| 两次 `P` 后 `M` | 进入[多人游戏](/wiki/Gameplay/Multiplayer) |
+| 两次 `P` 后 `M` | 进入[多人游戏](/wiki/Client/Interface/Multiplayer) |
 | 两次 `E` | 进入编辑器模式 |
 | `O` | 打开设置菜单 |
 | `Q` | 退出游戏 |
@@ -95,10 +95,8 @@ tags:
 
 ### Mod 菜单
 
-*主页面：[Mod](/wiki/Game_modifier)*
-
-*小提示：按下快捷键来打开或关闭 Mod。您必须进入 Mod 菜单才可以使用这些快捷键。*
-
+*主页面：[Mod](/wiki/Game_modifier)*\
+*小提示：按下快捷键来打开或关闭 Mod。您必须进入 Mod 菜单才可以使用这些快捷键。*\
 *小提示：Target practice (osu!)，1K 和 2K (osu!mania)，Co-op (osu!mania)，还有 Mirror (osu!mania) 没有快捷键。*
 
 | 快捷键 | Mod |

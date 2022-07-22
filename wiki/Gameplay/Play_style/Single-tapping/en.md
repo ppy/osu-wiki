@@ -16,6 +16,6 @@ Despite the name, most single-tap players do not always tap with one key. Most p
 
 ## Arguments
 
-Arguments in favour of single-tapping typically mention that it is easier to keep consistent because there is—for all intents and purposes—no second finger to keep track of. And typically this is the reason (conscious or not) many newer players opt for this method.
+Arguments in favour of single-tapping typically mention that it is easier to keep consistent because there is — for all intents and purposes — no second finger to keep track of. And typically this is the reason (conscious or not) many newer players opt for this method.
 
 By the same token, many players argue that single-tapping is slower because there is a necessary delay that is needed before you can press down that same finger, while others argue that using only one finger can cause the user to get fatigued much more quickly.

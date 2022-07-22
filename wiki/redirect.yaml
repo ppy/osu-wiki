@@ -18,19 +18,19 @@
 "moddingv1":                   "Modding/Forum_modding"
 "mv1":                         "Modding/Forum_modding"
 
-"editor":                           "Beatmap_Editor"
-"aimod":                            "Beatmap_Editor/AiMod"
-"beat_snap_divisor":                "Beatmap_Editor/Beat_Snap_Divisor"
-"compose":                          "Beatmap_Editor/Compose"
-"design":                           "Beatmap_Editor/Design"
-"distance_snap":                    "Beatmap_Editor/Distance_Snap"
-"sb_load":                          "Beatmap_Editor/SB_Load"
-"storyboard_load":                  "Beatmap_Editor/SB_Load"
-"song_setup":                       "Beatmap_Editor/Song_Setup"
-"key_count":                        "Beatmap_Editor/Song_Setup#key-count-osumania-only"
-"timelines":                        "Beatmap_Editor/Timelines"
-"timeline":                         "Beatmap_Editor/Timelines"
-"timing":                           "Beatmap_Editor/Timing"
+"editor":                           "Client/Beatmap_editor"
+"aimod":                            "Client/Beatmap_editor/AiMod"
+"beat_snap_divisor":                "Client/Beatmap_editor/Beat_Snap_Divisor"
+"compose":                          "Client/Beatmap_editor/Compose"
+"design":                           "Client/Beatmap_editor/Design"
+"distance_snap":                    "Client/Beatmap_editor/Distance_snap"
+"sb_load":                          "Client/Beatmap_editor/SB_Load"
+"storyboard_load":                  "Client/Beatmap_editor/SB_Load"
+"song_setup":                       "Client/Beatmap_editor/Song_Setup"
+"key_count":                        "Client/Beatmap_editor/Song_Setup#key-count-osumania-only"
+"timelines":                        "Client/Beatmap_editor/Timelines"
+"timeline":                         "Client/Beatmap_editor/Timelines"
+"timing":                           "Client/Beatmap_editor/Timing"
 
 "mapping":                     "Beatmapping"
 
@@ -378,7 +378,7 @@
 "privacy_policy":              "Legal/Privacy"
 "music_licencing":             "Legal/Music_licensing"
 "music_licensing":             "Legal/Music_licensing"
-"legal/music_licensing":       "Legal/Music_licensing"
+"legal/music_licencing":       "Legal/Music_licensing"
 
 "mascot":                      "Mascots"
 "pippi":                       "Mascots#-pippi"
@@ -410,10 +410,10 @@
 
 "modded":                      "Modding"
 
-"multi":                       "Gameplay/Multiplayer"
-"multiplayer":                 "Gameplay/Multiplayer"
-"multi-play":                  "Gameplay/Multiplayer"
-"multiplay":                   "Gameplay/Multiplayer"
+"multi":                       "Client/Interface/Multiplayer"
+"multiplayer":                 "Client/Interface/Multiplayer"
+"multi-play":                  "Client/Interface/Multiplayer"
+"multiplay":                   "Client/Interface/Multiplayer"
 
 "replay":                      "Gameplay/Replay"
 
@@ -463,7 +463,7 @@
 
 "talk":                        "Community/Video_series/osu!talk"
 
-"tourney":                     "osu!tourney"
+"tourney":                     "osu!_tournament_client/osu!tourney"
 
 # hierarchy swapped in #6888
 "osu!tourney/osu!lazer_tournament_client":          "osu!_tournament_client"
@@ -591,9 +591,9 @@
 "nomination_assessment_team":      "People/The_Team/Nomination_Assessment_Team"
 "nat":                             "People/The_Team/Nomination_Assessment_Team"
 
-"staff_promotion/retirement_log": "Staff_Log"
-"staff_promotion_log": "Staff_Log"
-"staff_retirement_log": "Staff_Log"
+"staff_promotion/retirement_log": "People/The_Team/Staff_Log"
+"staff_promotion_log": "People/The_Team/Staff_Log"
+"staff_retirement_log": "People/The_Team/Staff_Log"
 
 "support_team":                    "People/The_Team/Support_Team"
 "support_team_redux":              "People/The_Team/Support_Team"
@@ -739,18 +739,23 @@
 "visual_content":              "Rules/Visual_Content_Considerations"
 
 "score":                       "Gameplay/Score"
-"score/osu!":                  "Gameplay/Score/osu!"
-"score/osu!taiko":             "Gameplay/Score/osu!taiko"
-"score/osu!catch":             "Gameplay/Score/osu!catch"
-"score/osu!mania":             "Gameplay/Score/osu!mania"
-"scorev1":                     "Gameplay/Score/ScoreV1"
-"score/scorev1":               "Gameplay/Score/ScoreV1"
+"score/osu!":                  "Gameplay/Score/ScoreV1/osu!"
+"score/osu!taiko":             "Gameplay/Score/ScoreV1/osu!taiko"
+"score/osu!catch":             "Gameplay/Score/ScoreV1/osu!catch"
+"score/osu!mania":             "Gameplay/Score/ScoreV1/osu!mania"
+"scorev1":                     "Gameplay/Score#scoreV1"
+"score/scorev1":               "Gameplay/Score#scoreV1"
 "scorev2":                     "Gameplay/Score#scorev2"
 "score/total_score":           "Gameplay/Score/Total_score"
 "total_score":                 "Gameplay/Score/Total_score"
 "score/ranked_score":          "Gameplay/Score/Ranked_score"
 "ranked_score":                "Gameplay/Score/Ranked_score"
 "level":                       "Gameplay/Score/Total_score#level"
+
+"gameplay/score/osu!":         "Gameplay/Score/ScoreV1/osu!"
+"gameplay/score/osu!taiko":    "Gameplay/Score/ScoreV1/osu!taiko"
+"gameplay/score/osu!catch":    "Gameplay/Score/ScoreV1/osu!catch"
+"gameplay/score/osu!mania":    "Gameplay/Score/ScoreV1/osu!mania"
 
 "hotkeys": "Client/Keyboard_shortcuts"
 "keyboard_shortcuts": "Client/Keyboard_shortcuts"
@@ -1231,11 +1236,11 @@
 
 # Terms split from the glossary
 
-"osu!_coin": "osu!coin"
-"coin": "osu!coin"
-"osu!coins": "osu!coin"
-"osu!_coins": "osu!coin"
-"coins": "osu!coin"
+"osu!_coin": "History_of_osu!/April_Fools/osu!coin"
+"coin": "History_of_osu!/April_Fools/osu!coin"
+"osu!coins": "History_of_osu!/April_Fools/osu!coin"
+"osu!_coins": "History_of_osu!/April_Fools/osu!coin"
+"coins": "History_of_osu!/April_Fools/osu!coin"
 
 "overmapping": "Beatmapping/Overmapping"
 "overmapped": "Beatmapping/Overmapping"
@@ -1761,7 +1766,6 @@
 "trigger_distance":                 "Beatmapping/Trigger_distance"
 "glossary/trigger_distance":        "Beatmapping/Trigger_distance"
 
-"changelog":                        "Changelog"
 "changelogs":                       "Changelog"
 "glossary/changelog":               "Changelog"
 
@@ -1922,7 +1926,6 @@
 "sliders":                          "Gameplay/Hit_object/Slider"
 "hit_object/slider":                "Gameplay/Hit_object/Slider"
 "slider_tick_rate":                 "Gameplay/Hit_object/Slider/Slider_tick_rate"
-"beatmapping/slider_tick_rate":     "Gameplay/Hit_object/Slider/Slider_tick_rate"
 "spinner":                          "Gameplay/Hit_object/Spinner"
 "spinners":                         "Gameplay/Hit_object/Spinner"
 "hit_object/spinner":               "Gameplay/Hit_object/Spinner"
@@ -1989,8 +1992,7 @@
 "mapping_techniques/sliders":       "Beatmapping/Mapping_techniques/Sliders"
 "mapping_techniques/spinners":      "Beatmapping/Mapping_techniques/Spinners"
 
-"beatmap_editor/timing":            "Beatmapping/Timing"
-"client/beatmap_editor/timing":     "Beatmapping/Timing"
+"beatmap_editor/timing":            "Client/Beatmap_editor/Timing"
 
 "grid_snap":                        "Beatmapping/Grid_snapping"
 "grid_snapping":                    "Beatmapping/Grid_snapping"
@@ -2029,3 +2031,7 @@
 "sliderticks":                         "Gameplay/Hit_object/Slider/Slider_tick"
 "beatmapping/slider_tick":             "Gameplay/Hit_object/Slider/Slider_tick"
 "beatmapping/slider_ticks":            "Gameplay/Hit_object/Slider/Slider_tick"
+
+# Moved Multiplayer to Client/Interface
+
+"gameplay/multiplayer":                "Client/Interface/Multiplayer"

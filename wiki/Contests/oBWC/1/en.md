@@ -121,7 +121,7 @@ The osu! Mapping World Cup is run by various community members.
 
 5. **What if my country doesn’t have a Team Ambassador?**
 
-   Ambassador applications will end on December 27th. If nobody applied to be Ambassador for your country by then, you won’t be able to participate in the contest. Make sure to let mappers in your country know of this beforehand! The country you will be allowed to participate with will be based on your profile's flag. However, for some countries like Belgium - Luxembourg - Netherlands, also known as Benelux, and Australia - New Zealand, a merge is possible to fix the lack of mappers. The merging countries have to talk the same language (besides English if it isn't their countries' official language), or have to be neighbours.
+   Ambassador applications will end on December 27th. If nobody applied to be Ambassador for your country by then, you won’t be able to participate in the contest. Make sure to let mappers in your country know of this beforehand! The country you will be allowed to participate with will be based on your profile's flag. However, for some countries like Belgium–Luxembourg–Netherlands, also known as Benelux, and Australia–New Zealand, a merge is possible to fix the lack of mappers. The merging countries have to talk the same language (besides English if it isn't their countries' official language), or have to be neighbours.
 
 6. **Can I have my own team for my country even if it already has one?**
 

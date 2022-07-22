@@ -500,10 +500,10 @@ Sunday, 11 August 2019:
 2. Every map in the qualifier mappool will have to be played once.
 3. Notify `@host` to reschedule your lobby in `#reschedule` that can be found in o!AOT's Discord server using the given format.
 4. Team placement in the qualifiers will determine seedings in group stage as follows:
-   - Seed 1 - 8 will be identified as a **top seed team.**
-   - Seed 9 - 16 will be identified as a **high seed team.**
-   - Seed 17 - 24 will be identified as a **mid seed team.**
-   - Seed 24 - 32 will be identified as a **low seed team.**
+   - Seed 1–8 will be identified as a **top seed team.**
+   - Seed 9–16 will be identified as a **high seed team.**
+   - Seed 17–24 will be identified as a **mid seed team.**
+   - Seed 24–32 will be identified as a **low seed team.**
 5. Each group in group stage consists of: 1 top seed, 1 high seed, 1 mid seed, and 1 low seed team.
 6. However, for top seed team, their group will be placed as follows:
    - Seed 1 will be placed in Group A
@@ -546,7 +546,7 @@ Sunday, 11 August 2019:
    5. If ties still happen:
       1. Have a higher `∑{(total score difference) / (maximum score)}.`
       2. Winner of the rematch.
-5. If a team forfeit in a group stage match, it will be counted as 0 - 5 loss, -5.0 score difference.
+5. If a team forfeit in a group stage match, it will be counted as a 0–5 loss and -5.0 score difference.
 6. The top 2 teams of each group will qualify to the knockout stage.
 7. The matchup for Round of 16 and forward will be displayed in the [Challonge bracket provided above.](#links)
 

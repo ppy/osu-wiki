@@ -19,7 +19,7 @@ Ta sekcja jest poświęcona twojemu kontu, ustawieniom języka i aktualizacjom.
 
 ### Logowanie
 
-Jeżeli nie zalogujesz się w kliencie gry, nakładka opcji zostanie otworzona automatycznie z prośbą o zalogowanie się. Możesz ją zignorować poprzez naciśnięcie klawisza `Esc`, naciśnięcie przycisku Wstecz czy przejście do ekranu wyboru utworu. Klient gry oznaczy cię jako „gościa” i nie będziesz w stanie przesyłać wyników, pobierać danych gry czy korzystać z [trybu wielosobowego](/wiki/Gameplay/Multiplayer).
+Jeżeli nie zalogujesz się w kliencie gry, nakładka opcji zostanie otworzona automatycznie z prośbą o zalogowanie się. Możesz ją zignorować poprzez naciśnięcie klawisza `Esc`, naciśnięcie przycisku Wstecz czy przejście do ekranu wyboru utworu. Klient gry oznaczy cię jako „gościa” i nie będziesz w stanie przesyłać wyników, pobierać danych gry czy korzystać z [trybu wielosobowego](/wiki/Client/Interface/Multiplayer).
 
 Jako gość otrzymasz następujące opcje:
 
@@ -97,8 +97,7 @@ Ta sekcja jest poświęcona wyglądowi klienta gry i jego wydajności.
 
 ---
 
-*Ważne: Jeżeli klient gry nie jest aktualnie aktywnym oknem, zostanie nałożone ograniczenie 30fps.*
-
+*Ważne: Jeżeli klient gry nie jest aktualnie aktywnym oknem, zostanie nałożone ograniczenie 30fps.*\
 *Ostrzeżenie dla użytkowników laptopów: wybranie ustawienia limitu klatek `Bez limitu (podczas gry)` może przegrzać twoje urządzenie!*
 
 Jeżeli rozwiniesz listę dla `Limit klatek`, zobaczysz następujące opcje:

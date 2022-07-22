@@ -82,7 +82,7 @@ Il existe également d'autres sources de beatmaps, qui ne sont **ni vérifiées 
 
 ### Classement
 
-Les joueurs de osu! de tous les modes utilisent les beatmaps pour [gagner des places dans le classement global](/wiki/Performance_points) et [s'affronter les un contre les autres](/wiki/Ranking). osu! a différents types de classements pour les beatmaps. Tous, excepté le premier, sont disponibles uniquement pour les [osu!supporters](/wiki/osu!supporter):
+Les joueurs d'osu! de tous les modes utilisent les beatmaps pour [gagner des places dans le classement global](/wiki/Performance_points) et [s'affronter les un contre les autres](/wiki/Ranking). osu! a différents types de classements pour les beatmaps. Tous, excepté le premier, sont disponibles uniquement pour les [osu!supporters](/wiki/osu!supporter):
 
 - Le classement global, qui prend en compte tous les scores des joueurs actifs;
 - Le classement global pour chaque combinaison de [modificateur de jeu](/wiki/Game_modifier);

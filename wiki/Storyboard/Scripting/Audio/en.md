@@ -11,13 +11,18 @@ The form of an audio sample declaration is:
 where:
 
 - `<time>` is the timestamp that the sound should start playing.
-- `<layer_num>` is a *numerical value* corresponding to the layer you want the sound to be on:
-  - 0 - Background
-  - 1 - Fail
-  - 2 - Pass
-  - 3 - Foreground
+- `<layer_num>` is a *numerical value* corresponding to the layer you want the sound to be on. The valid values are listed below.
 - `<filepath>` is the same concept as with sprites, only referring to the .wav, .mp3, or .ogg file.
 - `<volume>` is a number from 1 to 100 to indicate the relative loudness of the sound (leave off for 100 as default)
+
+The valid values for layers are:
+
+| Value | Layer |
+| :-: | :-- |
+| 0 | Background |
+| 1 | Fail |
+| 2 | Pass |
+| 3 | Foreground |
 
 ## Example
 

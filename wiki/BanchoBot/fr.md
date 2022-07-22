@@ -135,7 +135,7 @@ Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats
 
 ```
 13:04 pippi: !faq fr:peppy
-13:04 BanchoBot: Qui ne le connaît pas ? peppy est le créateur de osu!
+13:04 BanchoBot: Qui ne le connaît pas ? peppy est le créateur d'osu!
 ```
 
 ### Report

@@ -31,7 +31,7 @@ tags:
 
 ## Description
 
-The **Nightcore** mod is a [game modifier](/wiki/Game_modifier) that works in the exact same way as it's variant mod, Double Time, but also increases the pitch and adds a drum track to the background that—in 4/4 time—goes in the order of a bass drum on beats 1 and 3, clap on beats 2 and 4, and crash on beat 1 every 4 measures.
+The **Nightcore** mod is a [game modifier](/wiki/Game_modifier) that works in the exact same way as it's variant mod, Double Time, but also increases the pitch and adds a drum track to the background that — in 4/4 time — goes in the order of a bass drum on beats 1 and 3, clap on beats 2 and 4, and crash on beat 1 every 4 measures.
 
 The [score multiplier](/wiki/Game_modifier/Score_multiplier) stays the same as it would with the Double Time mod enabled, and the beatmap itself is unaffected beyond what the Double Time mod will do.
 

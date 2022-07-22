@@ -37,7 +37,7 @@ The following outlines how you can get started helping others on the forum:
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
 - Read trough the forums pinned posts to learn the subforum-specific rules and any useful info that may be there.
 - Use the `Mark forum as read` button on the top.
-- Follow any new threads, reading each one and help out when you can—you can use the unread icons to make sure you keep up.
+- Follow any new threads, reading each one and help out when you can — you can use the unread icons to make sure you keep up.
 - Read the [available guides](/wiki/Guides) to polish-up your osu! knowledge. If the guides in there don't satisfy you, then you can try contributing to them!
 
 ## Help check/mod beatmaps!

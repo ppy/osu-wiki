@@ -32,9 +32,9 @@ tags:
 
 Hast du Probleme mit dem Spiel-Client? Finde heraus, ob dein Problem unter den häufigsten Problemen unserer Nutzer aufgelistet ist.
 
-## Fehler und Abstürze
+## Fehler und Abstürze {#crash}
 
-### Ich habe meine Einstellungen geändert und jetzt kann ich osu! nicht mehr starten oder es stürzt ab!
+### Ich habe meine Einstellungen geändert und jetzt kann ich osu! nicht mehr starten oder es stürzt ab! {#incorrect-settings}
 
 **Das Zurücksetzen von osu! auf die Standardeinstellungen wird das in den meisten Fällen lösen.**
 
@@ -45,13 +45,13 @@ Folge diesen Schritten, um osu! auf seine Standardeinstellungen zurückzusetzen:
 3. Klicke auf den Button `reset settings`, wenn sich der Dialog `osu! configuration` öffnet.
 4. Falls du immer noch kein Glück hast, öffne den Dialog nochmal und klicke auf `repair osu!`.
 
-### osu! friert ein, wenn ich einen Link oder eine Mehrspieler-Beatmap anklicke!
+### osu! friert ein, wenn ich einen Link oder eine Mehrspieler-Beatmap anklicke! {#broken-links}
 
 **Stelle sicher, dass osu! nicht im Kompatibilitätsmodus läuft und dass du einen Standardwebbrowser in deinen Systemeinstellungen definiert hast.**
 
 Dieses Problem wird manchmal durch eine Interaktion mit dem Kompatibilitätsmodus ausgelöst und kann auch einfach dadurch entstehen, dass das Spiel keinen Standardbrowser zum Öffnen von Weblinks findet.
 
-#### Läuft dein Spiel im Windows-Kompatibilitätsmodus?
+#### Läuft dein Spiel im Windows-Kompatibilitätsmodus? {#windows-compatibility}
 
 Versuche die folgenden Schritte nachzugehen, um zu prüfen, ob dein Spiel im Windows-Kompatibilitätsmodus läuft:
 
@@ -62,7 +62,7 @@ Versuche die folgenden Schritte nachzugehen, um zu prüfen, ob dein Spiel im Win
 5. Wenn diese Checkbox angekreuzt ist, klicke sie noch einmal an, um die Funktionalität zu deaktivieren.
 6. Wenn dein Spiel bereits offen ist, schließe den Client und öffne das Spiel erneut.
 
-#### Hast du einen Standardwebbrowser eingestellt?
+#### Hast du einen Standardwebbrowser eingestellt? {#default-browser}
 
 **In der überwiegenden Mehrheit aller Fälle werden die meisten Windows-Installationen einen Standardwebbrowser eingestellt haben.**
 
@@ -72,7 +72,7 @@ Um dies zu prüfen, versuche die folgenden Schritte (unter Windows 8 und darübe
 2. Tippe `Standard-Apps` in die Suchleiste innerhalb des Startmenüs ein und klicke auf die Einstellung, die erscheint.
 3. Scrolle herunter zur Rubrik `Webbrowser` und stelle sicher, dass dort ein von dir installierter Browser richtig eingestellt ist.
 
-### Mein Spiel aktualisiert sich nicht richtig!
+### Mein Spiel aktualisiert sich nicht richtig! {#cannot-update}
 
 **Das ist normalerweise aufgrund von Problemen mit deinem PC, kann aber sehr selten auch durch neue Updates auftreten.**
 
@@ -84,7 +84,7 @@ Stelle sicher, dass die "Updatequelle" in den Spieloptionen auf `Stabil` gesetzt
 
 Du kannst auch versuchen, das Spiel dazu zu zwingen, ein Update durchzuführen.
 
-#### Die Updatequelle ändern
+#### Die Updatequelle ändern {#release-stream}
 
 **Das kann in den Spieleinstellungen geändert werden.**
 
@@ -93,7 +93,7 @@ Du kannst auch versuchen, das Spiel dazu zu zwingen, ein Update durchzuführen.
 3. Tippe `Updatequelle` in die Schnellsuche, um direkt zu der Einstellung zu gelangen.
 4. Stelle sicher, dass im Auswahlmenü `Stabil` steht, damit du den aktuellsten Stable-Build des Spiels erhältst.
 
-#### osu! zu einer Aktualisierung zwingen
+#### osu! zu einer Aktualisierung zwingen {#force-update}
 
 **Du kannst das Spiel über die Einstellungen zu einem Update zwingen.**
 
@@ -104,7 +104,7 @@ Du kannst auch versuchen, das Spiel dazu zu zwingen, ein Update durchzuführen.
 
 Du kannst das Spiel ebenfalls zu einem Update zwingen, indem du eine Datei `help.txt` im osu!-Installationsverzeichnis erstellst. Diese Datei muss nichts enthalten, sie muss einfach nur vorhanden sein. Beim nächsten Spielstart wird automatisch ein Update durchgeführt.
 
-### Ich bekomme einen Fehler über "Schriftarten", wenn ich versuche, das Spiel zu öffnen!
+### Ich bekomme einen Fehler über "Schriftarten", wenn ich versuche, das Spiel zu öffnen! {#no-default-fonts}
 
 **Du hast wichtige Systemschriftarten gelöscht oder verloren, die in der standardmäßigen Windows-Installation enthalten sind. Das ist wahrscheinlich nicht das einzige Problem, das du wahrnimmst!**
 
@@ -119,7 +119,7 @@ Hier ist eine Sammlung gängiger Schriftarten, die in verschiedenen Windows-Vers
 
 Siehe [dieses Thema](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers für etwas detailliertere Ratschläge und andere Optionen, die Schriftarten zurückzuerhalten.
 
-### Einige meiner Beatmaps fehlen!
+### Einige meiner Beatmaps fehlen! {#missing-beatmaps}
 
 **Stelle sicher, dass du deine Beatmaps nach nichts in der rechten, oberen Ecke deines Bildschirms gruppierst (also "Gruppe" sollte auf "Ohne Gruppierung" gesetzt sein).**
 
@@ -151,7 +151,7 @@ Um die Beatmap-Datenbank gefahrlos zu einer Neuerstellung zu zwingen, versuche d
 
 *Tipp: eine Fehlerbehebung dafür wurde in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) am 19. Mai 2021 hinzugefügt. Wenn du diesem Problem immer noch begegnest, dann [lasse uns das bitte wissen](https://github.com/ppy/osu-stable-issues/issues).*
 
-### Meine Songliste scrollt weiter!
+### Meine Songliste scrollt weiter! {#songs-list-scrolling}
 
 **Das ist normalerweise aufgrund von fehlerhaften Eingabegeräten, die mit deinem Computer verbunden sind. Versuche, alle Controller oder Joysticks abzustecken.**
 
@@ -161,7 +161,7 @@ Ebenfalls kann das durch Probleme mit dem Ziffernblock passieren, da er zum Scro
 
 Du kannst auch nach verklemmten oder beschädigten Tasten auf deinen Peripheriegeräten suchen.
 
-### Ich habe ein Beatmap-Paket heruntergeladen, aber osu! versucht immer die Datei zu "reparieren"!
+### Ich habe ein Beatmap-Paket heruntergeladen, aber osu! versucht immer die Datei zu "reparieren"! {#beatmap-pack-extraction}
 
 **Du musst das Paket in dein Songs-Verzeichnis extrahieren.**
 
@@ -169,19 +169,19 @@ Die meisten Beatmap-Pakete werden im Dateiformat `.rar` geliefert, was bedeutet,
 
 Sobald sich alle `.osz`-Dateien aus dem Archiv im Verzeichnis `Songs` befinden, wird das Drücken von `F5` in der Songauswahl den Beatmap-Cache des Spiels aktualisieren und deine neuen Songs in das Spiel laden.
 
-## Spielverlauf
+## Spielverlauf {#gameplay}
 
-### Mein Combozähler, meine Score-Anzeige oder meine Genauigkeitsanzeige fehlen!
+### Mein Combozähler, meine Score-Anzeige oder meine Genauigkeitsanzeige fehlen! {#missing-interface}
 
 **Durch das Drücken von `Shift` + `Tab` während dem Spielen schaltest du die HUD im Spiel an und wirst die Elemente wieder sehen können.**
 
 Wenn du die Tastenbelegung geändert hast, die die Rangliste ein-/ausschaltet, dann wird das nicht funktionieren. Du kannst in `Options` -> `Tastenbelegung` -> `In-Game` -> `Toggle Scoreboard` prüfen, welche Kombination eingestellt ist. Dann kannst du die Taste anstelle von `Tab` ersetzen (z. B. `Shift` + `V`).
 
-### Meine lokalen Scores fehlen!
+### Meine lokalen Scores fehlen! {#no-scores}
 
 Es gibt einige Gründe, warum das passieren kann. Lies weiter unten!
 
-#### Hast du den Spiel-Client kürzlich neu installiert?
+#### Hast du den Spiel-Client kürzlich neu installiert? {#no-scores-reinstalling}
 
 **Das Neuinstallieren des Spiel-Clients wird automatisch alle deine lokalen Scores löschen.**
 
@@ -191,7 +191,7 @@ Die Scores, die du online eingereicht hast, sind aber noch da — lade einfach j
 
 Praktischer Tipp — wenn du ein osu!supporter bist, kannst du den Filter `Ranked (Gespielt)` im osu!direct-Panel im Spiel oder via [der Beatmap-Auflistung](https://osu.ppy.sh/beatmapsets?played=played&s=ranked) benutzen, um alle Beatmaps zu finden, auf denen du in der Vergangenheit Punktestände erreicht hast.
 
-#### Hast du den richtigen Spielmodus ausgewählt?
+#### Hast du den richtigen Spielmodus ausgewählt? {#no-scores-game-mode}
 
 **Das Spielen anderer Spielmodi (osu!taiko, osu!catch oder osu!mania) wird dafür sorgen, dass die Rangliste nur Scores für den jeweiligen Modus anzeigt. Scores aus anderen Modi werden versteckt.**
 
@@ -199,19 +199,19 @@ Eine häufige Ursache für dieses Problem ist das Spielen von Beatmaps aus ander
 
 Du kannst den Spielmodus durch das Drücken des Buttons `Mode` in der linken, unteren Ecke des Bildschirms in der Songauswahl ändern, wobei du anschließend den angemessenen Modus für die Scores, die du sehen möchtest, auswählen musst.
 
-#### Hast du kürzlich eine große Anzahl an Beatmaps heruntergeladen? (also ein Beatmap-Paket oder -Bundle)
+#### Hast du kürzlich eine große Anzahl an Beatmaps heruntergeladen? (also ein Beatmap-Paket oder -Bundle) {#no-scores-many-maps}
 
 **Das Herunterladen von Scores von den Spielservern kann manchmal etwas dauern, wenn du viele neue Beatmaps auf einmal geladen hast.**
 
 Wenn du das Spiel spielst oder etwas anderes machst, kann der Client die Daten im Hintergrund nachladen.
 
-### Was ist die weiße Spur oder rauchähnliche Linie hinter meinem Cursor?
+### Was ist die weiße Spur oder rauchähnliche Linie hinter meinem Cursor? {#smoke}
 
 **Das ist ein spezielles Feature, das sich *smoke* nennt und kann benutzt werden, um aus Spaß auf dem Spielfeld zu malen. Jeder, der dir zuschaut, kann die Dinge, die du malst, ebenfalls sehen.**
 
 Die Standardtastenbelegung für diese Funktion ist `C` und wird funktionieren, solange du die Taste hältst. Du kannst dies jeder Zeit in der Sektion `osu!` im Optionsdialog `Tastenbelegung` umstellen.
 
-### Wie speichere ich mein eigenes Replay eines Scores ab, den ich gerade erreicht habe?
+### Wie speichere ich mein eigenes Replay eines Scores ab, den ich gerade erreicht habe? {#save-replay}
 
 **Betrete die Ergebnisanzeige durch das Klicken des Scores in deiner lokalen Rangliste und drücke die Taste `F2`.**
 
@@ -221,35 +221,35 @@ Außerdem speichert osu!, nach dem du einen Song erfolgreich gespielt hast, alle
 
 Bitte beachte, dass du auf diese Weise kein Replay abrufen kannst, wenn für den Score kein Replay gespeichert wurde.
 
-### osu! sagt mir, dass mein Spiel-Client zu alt ist!
+### osu! sagt mir, dass mein Spiel-Client zu alt ist! {#old-client}
 
 **Es ist Zeit für eine Aktualisierung! Sehr alten Versionen des Spiels ist es nicht erlaubt, neue Scores einzureichen, wodurch du ein Update erzwingen musst, indem du auf `Options` -> `Allgemein` -> `osu!-Updater starten` gehst.**
 
 Falls das nicht funktioniert, dann schließe osu! und starte die osu!.exe, während du die Taste `Shift` gedrückt hältst. Dadurch werden dir einige Aktualisierungs- und Reparaturmöglichkeiten aufgezeigt, von denen eine die Aktualisierung des Spiels auf die aktuelle Version ist.
 
-### Meine Scores werden nicht eingereicht!
+### Meine Scores werden nicht eingereicht! {#no-submission}
 
 Ups! Es gibt einige Gründe, warum das passieren kann. Schauen wir sie uns an:
 
-#### Warst du während dem Spielen mit dem Internet verbunden?
+#### Warst du während dem Spielen mit dem Internet verbunden? {#no-submission-no-connection}
 
 **Falls du beim Abschließen der Beatmap keinen Zugang zum Internet hattest, wird der Score nicht eingereicht.**
 
 Es kann frustrierend sein, mit einer instabilen Verbindung zu spielen, jedoch wird das Spiel sein Bestes geben, deinen Score erneut einzureichen, solange du den Client offen lässt.
 
-#### Ist osu! in deiner lokalen Firewall oder Antiviren-Software erlaubt?
+#### Ist osu! in deiner lokalen Firewall oder Antiviren-Software erlaubt? {#no-submission-firewall}
 
 **Einige Firewalls oder Antiviren-Softwares können osu! beim Zugang zum Internet blockieren, was es daran hindert, Scores einzureichen.**
 
 Prüfe die Software deiner Wahl, um sicherzugehen, dass `osu!.exe` im Installationsverzeichnis des Spiels auf das Internet zugreifen darf.
 
-#### Führst du viele Programme im Hintergrund aus?
+#### Führst du viele Programme im Hintergrund aus? {#no-submission-software}
 
 **Einige können die Fähigkeit beeinträchtigen, Scores einzureichen.**
 
 Versuche, alle zusätzlichen Programme zu schließen, bevor du osu! spielst, wenn du feststellst, dass deine Scores nicht eingereicht werden und du ansonsten keine Probleme mit der Verbindung hast.
 
-#### Sind die Status deiner Beatmaps korrekt?
+#### Sind die Status deiner Beatmaps korrekt? {#no-submission-beatmap-status}
 
 **Manchmal können die Status deiner Beatmaps durcheinander geraten, was bedeutet, dass die Scores, die du auf ihnen erreichst, nicht eingereicht werden können.**
 
@@ -257,21 +257,21 @@ Prüfe in der Songauswahl, in der linken, oberen Ecke des Bildschirms, auf etwai
 
 ![](img/correct-map-status-DE.png "So sollte es aussehen")
 
-Das Spielen mit der `globalen Rangliste` und nicht mit der lokalen Rangliste kann helfen, das für jede einzelne Beatmap zu verhindern. Wenn eine große Anzahl deiner Beatmaps, oder alle, fehlende/inkorrekte Status haben, versuche, die Neuerstellung der Beatmap-Datenbank zu erzwingen. Wie man das ungefährlich machen kann, erfährst du in der Sektion "[Einige meiner Beatmaps fehlen!](#einige-meiner-beatmaps-fehlen!)". Nachdem du dies getan hast, kann es eine Weile dauern, bis alle Beatmaps wieder ihren richtigen Status haben.
+Das Spielen mit der `globalen Rangliste` und nicht mit der lokalen Rangliste kann helfen, das für jede einzelne Beatmap zu verhindern. Wenn eine große Anzahl deiner Beatmaps, oder alle, fehlende/inkorrekte Status haben, versuche, die Neuerstellung der Beatmap-Datenbank zu erzwingen. Wie man das ungefährlich machen kann, erfährst du in der Sektion "[Einige meiner Beatmaps fehlen!](#missing-beatmaps)". Nachdem du dies getan hast, kann es eine Weile dauern, bis alle Beatmaps wieder ihren richtigen Status haben.
 
-#### Sind die Server zur Einreichung von Scores in Betrieb?
+#### Sind die Server zur Einreichung von Scores in Betrieb? {#no-submission-servers}
 
 **Die Antwort lautet fast immer ja, aber überprüfe den [osu!-Serverstatus](https://status.ppy.sh) oder das [@osustatus Twitter-Konto](https://twitter.com/osustatus), um sicherzugehen, dass alles bei uns reibungslos läuft.**
 
 Falls die Server offline sind, schließe osu! nicht, bis wir die Probleme gelöst haben und die Server wieder aktiv sind. Das Spiel wird bis zu eine Stunde lang versuchen, deinen Score erneut einzureichen, bevor es aufgibt.
 
-### Könnt Ihr einen Score, den ich erreicht habe, für mich hochladen?
+### Könnt Ihr einen Score, den ich erreicht habe, für mich hochladen? {#upload-replay}
 
 **Leider können wir keine Scores auf Anfrage hochladen.**
 
 Wenn ein Score von dir aus technischen Gründen verweigert wurde, kannst du bestenfalls darauf hoffen, deine Fähigkeiten noch einmal unter Beweis zu stellen und den Score ein weiteres Mal zu erreichen. Sorry!
 
-### Die Noten scheinen nicht synchronisiert oder aus dem Takt geraten zu sein mit der Musik!
+### Die Noten scheinen nicht synchronisiert oder aus dem Takt geraten zu sein mit der Musik! {#offsync-notes}
 
 **Das kann an einer auf deinem Computer laufenden Tonbearbeitungssoftware liegen, wie z. B. *Razer Surround Audio*. Es kann auch daran liegen, dass dein `Universales Offset` falsch eingestellt ist.**
 
@@ -288,7 +288,7 @@ Der Standardwert ist für die meisten Menschen geeignet, aber falls du findest, 
 
 Falls dies immer noch nichts hilft, kannst du versuchen, deine Soundkarten- oder Motherboard-Audiotreiber zu aktualisieren.
 
-### Mein Spiel sieht fehlerhaft aus, als ob die Grafik zerrissen wäre!
+### Mein Spiel sieht fehlerhaft aus, als ob die Grafik zerrissen wäre! {#screen-tearing}
 
 **Das entsteht durch einen Effekt namens [Screen Tearing](https://de.wikipedia.org/wiki/Screen_Tearing) und kann gelöst werden, indem die Einstellung `FPS-Limit` im Spiel auf `VSync` gesetzt wird.**
 
@@ -300,15 +300,15 @@ Das Aktivieren von VSync sowie das Spielen im Fenster- oder randlosen Modus wird
 
 Spätere NVidia-Grafikkarten haben eine globale Option im NVidia Control Panel, um die globale Bildwiederholrate auf die Einstellung "Fast" zu setzen, welche dieses Problem ebenfalls lösen wird.
 
-## Online-Funktionen
+## Online-Funktionen {#online-features}
 
-### Ich kann mich gar nicht einloggen oder mit dem Spiel verbinden!
+### Ich kann mich gar nicht einloggen oder mit dem Spiel verbinden! {#cannot-sign-in}
 
 **Stelle sicher, dass osu! ordnungsgemäß über jede Firewall und Antivirensoftware, die auf deinem Computer installiert ist, auf das Internet zugreifen kann.**
 
 Hier sind einige Möglichkeiten, Programmen zu erlauben, trotz üblicher Antivirensoftware auf das Internet zuzugreifen:
 
-#### Zulassen eines Programms durch die Windows-Firewall
+#### Zulassen eines Programms durch die Windows-Firewall {#firewall-whitelist-windows}
 
 **Auf den meisten Windows-Installationen wird Windows-Firewall die standardmäßige Firewall-Software sein.**
 
@@ -322,19 +322,19 @@ Um sicherzugehen, dass osu! auf das Internet zugreifen kann, müssen wir die Kom
 6. Falls keine der beiden vorhanden ist, klicke danach am unteren Rand des Fensters auf `Andere App zulassen...`, suche nach deinem osu!-Installationsverzeichnis und wähle `osu!.exe` aus.
 7. Stelle sicher, dass die beiden Checkboxen `Privat` und `Öffentlich` angekreuzt sind. Klicke OK, um deine Einstellungen zu speichern und es nochmal zu versuchen.
 
-#### Zulassen eines Programms durch die AVG-Firewall
+#### Zulassen eines Programms durch die AVG-Firewall {#firewall-whitelist-avg}
 
 Bitte suche für detaillierte Anweisungen den [offiziellen Wissensbasiseintrag zu diesem Thema](https://support.avg.com/SupportArticleView?l=de&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home) von AVG über die Vorgehensweise auf.
 
-#### Zulassen eines Programms durch Kaspersky Internet Security
+#### Zulassen eines Programms durch Kaspersky Internet Security {#firewall-whitelist-kaspersky}
 
 Bitte lies den [offiziellen Hilfeartikel](https://support.kaspersky.com/15163#block2) von Kaspersky über das Hinzufügen von Applikationen zur vertrauenswürdigen Zone.
 
-#### Zulassen eines Programms durch McAfee
+#### Zulassen eines Programms durch McAfee {#firewall-whitelist-mcafee}
 
 Bitte informiere dich über den [offiziellen Wissensbasiseintrag zu diesem Thema](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view) von McAfee.
 
-### Ich habe osu! zu meiner Firewall hinzugefügt, aber ich kann mich immer noch nicht mit dem Spiel verbinden!
+### Ich habe osu! zu meiner Firewall hinzugefügt, aber ich kann mich immer noch nicht mit dem Spiel verbinden! {#sign-in-unknown-cause}
 
 **Wir benötigen zusätzliche Informationen von dir, um dieses Problem zu lösen.**
 
@@ -343,7 +343,7 @@ Wenn du immer noch Probleme hast, eine Verbindung zu unseren Spielservern herzus
 - Ein Ausgabeprotokoll von Traceroute über den Befehl `tracert` für die Server `cho.ppy.sh`, `osu.ppy.sh` und `m1.ppy.sh` (siehe unten für Anweisungen)
 - Die Datei `network.log` aus dem Ordner `Logs` in deinem osu!-Installationsverzeichnis
 
-#### Ausführen von Traceroute zur Behebung von Verbindungsproblemen
+#### Ausführen von Traceroute zur Behebung von Verbindungsproblemen {#traceroute}
 
 **Eine Routenverfolgung wird uns helfen, genau zu bestimmen, wo das Problem zwischen dir und unseren Servern liegt.**
 
@@ -357,7 +357,7 @@ Wir brauchen die Ergebnisse der Routenverfolgung für die folgenden Server: `cho
 
 Zum Kopieren der Resultate des Befehls, klicke und ziehe einfach vom unteren Rand der Ausgabe bis ganz nach oben, wodurch die Informationen weiß werden. Klicke anschließend mit der rechten Maustaste, um die Informationen direkt in deine Zwischenablage zu kopieren.
 
-### Ich erhielt einen serverseitigen Fehler, als ich versucht habe, online zu spielen!
+### Ich erhielt einen serverseitigen Fehler, als ich versucht habe, online zu spielen! {#server-side-error}
 
 **Die Server könnten Probleme haben.**
 
@@ -371,15 +371,15 @@ Wenn du keine der oben genannten Möglichkeiten nutzt, dann musst du ein Support
 
 Tor oder mit Tor-Servern verbundene Netzwerke werden sich meistens nicht mit den Spielservern verbinden. Auch wenn wir die Nutzung von Tor weder verurteilen noch gutheißen, setzen wir diese Politik durch, um mögliche Bösewichte zu vermeiden, die Tor benutzen.
 
-### Ich wurde ein osu!supporter, aber mein Name im Spiel ist nicht gelb!
+### Ich wurde ein osu!supporter, aber mein Name im Spiel ist nicht gelb! {#white-username}
 
 **Du wirst dich im Spiel-Client immer mit weißem Namen sehen. Andere Nutzer hingegen werden deine herrliche Gelbfärbung sehen!**
 
 Das hilft dabei, deine Nachrichten von allen anderen zu unterscheiden. Es gibt aktuell keine Option, dies zu deaktivieren.
 
-## Leistung
+## Leistung {#performance}
 
-### Wie kann ich osu! kühler laufen lassen, wenn mein Computer überhitzt?
+### Wie kann ich osu! kühler laufen lassen, wenn mein Computer überhitzt? {#overheating}
 
 **Der einfachste Weg, ist das Ändern deiner FPS-Einstellungen.**
 
@@ -397,7 +397,7 @@ Wir empfehlen, `VSync` in Situationen zu benutzen, in denen Hitze ein Problem da
 
 Du kannst auch Ausschau nach Programmen halten, die es dir erlauben, die Geschwindigkeit deiner CPU- und GPU-Lüfter manuell zu konfigurieren.
 
-### Mein PC startet neu beim Spielen von osu!
+### Mein PC startet neu beim Spielen von osu! {#reboot-overheating}
 
 **Meistens liegt das an einem Überhitzen einer oder mehrerer Komponenten deines Computers, in der Regel deiner Grafikkarte oder CPU.**
 
@@ -405,7 +405,7 @@ Um herauszufinden, was dafür verantwortlich ist, empfehlen wir dir, eine Temper
 
 Sollte die Temperatur deiner GPU oder CPU größer als 90°C oder 194°F betragen, läuft dein Computer sehr heiß und gefährlich nahe an häufigen Schwellenwerten für die automatische Abschaltung.
 
-### Mein Computer überhitzt nicht, aber das Spiel verursacht trotzdem einen Neustart meines Computers!
+### Mein Computer überhitzt nicht, aber das Spiel verursacht trotzdem einen Neustart meines Computers! {#reboot-faulty-device}
 
 **Die üblichen Gründe für erzwungene Neustarts nach Überhitzungsproblemen sind Probleme mit der Soundkarte, gefolgt von nicht funktionierenden Peripheriegeräten, die an dein Computer angeschlossen sind.**
 
@@ -413,11 +413,11 @@ Alte Soundkartentreiber oder -software können Probleme mit osu! auslösen, aber
 
 Du kannst auch ausprobieren, einige der mit USB an dein Computer angeschlossenen Peripheriegeräte zu entfernen, insbesondere wenn sie auf irgendeine Weise mit Sound interagieren. Kopfhörer oder USB-Soundkarten können manchmal Probleme verursachen, wenn sie oder der Anschluss, an den sie angeschlossen sind, eine Fehlfunktion aufweisen.
 
-### Es passiert immer noch!
+### Es passiert immer noch! {#reboot-nothing-helps}
 
 Wenn nichts davon hilft, dann sende bitte ein Support-Ticket an [accounts@ppy.sh](mailto:accounts@ppy.sh) mit mehr Informationen über das Problem — einschließlich der technischen Spezifikationen deines Computers, das Modell (wo zutreffend) und anderer Informationen, bei denen du denkst, dass sie uns helfen könnten, die Ursache deines Problems zu erkennen.
 
-### Ich kann nicht mehr als ein paar Tasten auf einmal halten, während dem Spielen von osu!mania
+### Ich kann nicht mehr als ein paar Tasten auf einmal halten, während dem Spielen von osu!mania {#keyboard-ghosting}
 
 **Das wird durch häufige Hardwareprobleme in Tastaturen verursacht, was sich *Ghosting* nennt.**
 
@@ -431,7 +431,7 @@ Während die Ranking-Kriterien für osu!mania versuchen, die Probleme von Ghosti
 
 Die einzig wahre Lösung ist der Kauf einer Tastatur, die in diesem Fall mehr gleichzeitige Tastendrücke unterstützt. Du kannst nach einer Funktion mit dem Namen *n-key rollover* (oder *NKRO*) schauen. NKRO-Tastaturen haben zum größten Teil keine Probleme mit Ghosting, aber sind normalerweise teuer.
 
-### Mein Cursor spielt verrückt, sobald ich versuche, osu! zu spielen
+### Mein Cursor spielt verrückt, sobald ich versuche, osu! zu spielen {#crazy-cursor}
 
 **Die häufigste Ursache dafür ist, dass die Mausempfindlichkeit im Spiel zu hoch eingestellt ist.**
 
@@ -443,7 +443,7 @@ Du kannst auch die *DPI* deiner Maus anpassen, falls du eine verwendest. Höhere
 
 Wir schlagen ebenso vor, dass du sicherstellst, dass deine Peripheriegeräte sauber und frei von Schmutz oder Ablagerungen sind. Ein Haar oder ein bisschen Staub vor dem optischen Sensor einer Maus kann sehr seltsame Dinge mit der Bewegung des Cursors anstellen.
 
-#### Raw Input aktivieren
+#### Raw Input aktivieren {#raw-input}
 
 **Raw Input zwingt das Spiel dazu, eine sauberere und direktere Methode für den Zugriff auf die Informationen deiner Peripheriegeräte zu verwenden. Das erhöht allgemein die Genauigkeit der Ausgabe des Geräts.**
 
@@ -454,7 +454,7 @@ Um Raw Input zu aktivieren, folge diesen Schritten:
 3. Tippe `Raw` in die Schnellsuche, um direkt zu der Einstellung zu gelangen.
 4. Klicke auf die Einstellung `Raw Input`, um sie zu aktivieren.
 
-### Ich spiele mit einem Tablet und mein Cursor ist zu langsam!
+### Ich spiele mit einem Tablet und mein Cursor ist zu langsam! {#slow-cursor}
 
 **Du kannst dieses Problem lösen, indem du einen kleineren Tablet-Bereich für dein Gerät festlegst.**
 
@@ -466,51 +466,51 @@ Du musst den Hersteller deines Tablets fragen, um herauszufinden, wie der Tablet
 
 Alle Tablets der Marke osu! unterstützen Raw Input standardmäßig und die Empfindlichkeit kann dort leicht sowie spontan durch die Einstellung Raw Input im Spiel und den Schieberegler für die Mausempfindlichkeit angepasst werden.
 
-### Ich erlebe Lag-Spitzen oder Stottern während dem Spielen!
+### Ich erlebe Lag-Spitzen oder Stottern während dem Spielen! {#lag-spikes}
 
 **Es gibt viele Gründe, warum das Spiel inkonsistent arbeitet, von Programmen auf deinem Computer, zu veralteten Treibern oder dass einfach einige Einstellungen zu hoch sind.**
 
-#### Hast du viele Programme offen, währenddessen du osu! spielst?
+#### Hast du viele Programme offen, währenddessen du osu! spielst? {#lag-too-many-programs}
 
 **Manche Hintergrundprozesse können sich mit osu! um Ressourcen streiten und machen das Spiel sehr unangenehm zu spielen.**
 
 Versuche, einige Programme (oder alle davon) zu schließen, die nicht offen sein müssen, während du das Spiel spielst.
 
-#### Ist dein Computer sicher?
+#### Ist dein Computer sicher? {#lag-infected-pc}
 
 **Viren, Spyware, Malware oder andere unerwünschte Software können ernsthafte Leistungsprobleme sogar bei High-End-Computern hervorrufen.**
 
 Halte deinen Computer sauber sowie geschützt und du könntest eine Verbesserung bemerken. Versuche, einen Virenscan auf deinem Computer durchzuführen, um solche Probleme zu finden und zu eliminieren.
 
-#### Wie alt ist dein Computer?
+#### Wie alt ist dein Computer? {#lag-old-pc}
 
 **Sehr alte Computer, die noch ältere Intel Integrated Graphics Chipsätze verwenden, könnten nicht leistungsstark genug sein, um osu! überhaupt zu verarbeiten, sogar in den geringsten Einstellungen.**
 
 Die einzige Lösung dafür ist, deinen Computer aufzurüsten!
 
-#### Sind deine Treiber aktuell?
+#### Sind deine Treiber aktuell? {#lag-old-driver}
 
 **Alte Treiber können zu ernsthaften Leistungsproblemen führen. Stelle sicher, dass du alle deine Treiber auf dem neusten Stand hältst, wo immer möglich.**
 
 Grafikkartentreiber sind wie Soundkartentreiber besonders wichtig für osu!.
 
-#### Benutzt du einen USB-Hub, um viele USB-Geräte mit deinem Computer über ein USB-Kabel zu verbinden?
+#### Benutzt du einen USB-Hub, um viele USB-Geräte mit deinem Computer über ein USB-Kabel zu verbinden? {#lag-faulty-usb}
 
 **Das Verbinden zu vieler Geräte an einen Port per Verteiler kann Eingabeverzögerungen verursachen, was schwierig zu erkennen ist, aber dein Spiel ernsthaft aus dem Gleichgewicht bringen kann.**
 
 Eine einfache Lösung ist, zu versuchen, deinen USB-Hub kurz abzustecken. Wenn der Lag verschwindet, weißt du warum!
 
-#### Läuft osu! im Fenster- oder randlosen Modus?
+#### Läuft osu! im Fenster- oder randlosen Modus? {#lag-windowed}
 
 **Sowohl der Fenster- als auch randlose Modus sorgen für eine *deutliche* Eingabeverzögerung. Der Vollbildmodus ist optimal für die reibungsloseste Spielerfahrung.**
 
-#### Friert dein Spiel nur für einen Moment oder so ein?
+#### Friert dein Spiel nur für einen Moment oder so ein? {#lag-background-process}
 
 **Manchmal können Hintergrundprozesse oder andere Applikationen auf deinem Computer große Anfragen nach Ressourcen auf einmal senden, was deine Maschine in Schwierigkeiten bringt.**
 
 Das erledigt sich normalerweise von selbst, nachdem alles Unwesentliche vor dem Spielen von osu! geschlossen wurde. Torrenting-Software ist ein Hauptverursacher dafür, insbesondere wenn sie Speicherplatz mit dem Laufwerk teilt, auf dem osu! installiert ist.
 
-#### Wurde das Spiel kürzlich aktualisiert?
+#### Wurde das Spiel kürzlich aktualisiert? {#lag-after-update}
 
 **Nach einem Spiel-Update kann der Client manchmal ohne ersichtlichen Grund Probleme haben.**
 

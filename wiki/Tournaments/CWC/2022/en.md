@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2022 logo](img/cwc2022_banner.jpg)
 
-The **osu!catch World Cup 2022** (***CWC 2022***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the eleventh instalment of the osu!catch World Cup.
+The **osu!catch World Cup 2022** (***CWC 2022***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eleventh instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu!catch World Cup 2022** (***CWC 2022***) is a country-based osu!catch t
 
 ## Prizes
 
-The osu!catch World Cup 2022 offers a $2,000 cash prize pool and limited edition merch.
+The osu!catch World Cup 2022 offered a $2,000 cash prize pool and limited edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -34,14 +34,17 @@ The osu!catch World Cup 2022 offers a $2,000 cash prize pool and limited edition
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/cwc2022_badge_1st.jpg "CWC 2022 winner badge") ![](img/cwc2022_badge_2nd.jpg "CWC 2022 2nd place badge") ![](img/cwc2022_badge_3rd.jpg "CWC 2022 3rd place badge")
+
 ## Organisation
 
-The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and various community members.
+The osu!catch World Cup 2022 was run by the [osu! team](/wiki/People/The_Team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114), ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_CA] [wwwww](https://osu.ppy.sh/users/8434466), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| Manager | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779) |
+| Mappool selector | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114), ![][flag_JP] [ekr](https://osu.ppy.sh/users/4497706), ![][flag_CN] [F D Flourite](https://osu.ppy.sh/users/2459589), ![][flag_CA] [wwwww](https://osu.ppy.sh/users/8434466), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| Mappool quality assurance | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Sanyi](https://osu.ppy.sh/users/7496029) |
 | Commentator | ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Elux](https://osu.ppy.sh/users/12004983), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_AU] [KWYJIBO](https://osu.ppy.sh/users/7178386), ![][flag_US] [Lumenite-](https://osu.ppy.sh/users/6256027), ![][flag_AU] [Maitoo](https://osu.ppy.sh/users/16899553), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941), ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_BE] [\[ Quinten \]](https://osu.ppy.sh/users/6283136) |
 | Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -96,33 +99,69 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983) |
 | ![][flag_VN] | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)**, [Stardust Prism](https://osu.ppy.sh/users/8525921), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-Linglan Lily-](https://osu.ppy.sh/users/8738261), [Marota](https://osu.ppy.sh/users/10278890), [NamSPro](https://osu.ppy.sh/users/11387006) |
 
-## Match schedule: Semifinals
+## Podium
 
-### Saturday, June 18, 2022
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| France | ![][flag_FR] | ![][flag_DE] | Germany | Jun 18 (Sat) 15:00 UTC | Jun 18 (Sat) 17:00 UTC+2 | Jun 18 (Sat) 17:00 UTC+2 | [^losers-bracket] |
-| Mexico | ![][flag_MX] | ![][flag_IT] | Italy | Jun 18 (Sat) 17:00 UTC | Jun 18 (Sat) 12:00 UTC-5 | Jun 18 (Sat) 19:00 UTC+2 | [^losers-bracket] |
-| Chile | ![][flag_CL] | ![][flag_RU] | Russian Federation | Jun 18 (Sat) 19:00 UTC | Jun 18 (Sat) 15:00 UTC-4 | Jun 18 (Sat) 22:00 UTC+3 | [^losers-bracket] |
-
-### Sunday, June 19, 2022
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_AU] | Australia | Jun 19 (Sun) 02:00 UTC | Jun 18 (Sat) 21:00 UTC-5 | Jun 19 (Sun) 12:00 UTC+10 | [^losers-bracket] |
-| Australia | ![][flag_AU] | ![][flag_MX] | Mexico | Jun 19 (Sun) 04:00 UTC | Jun 19 (Sun) 14:00 UTC+10 | Jun 18 (Sat) 23:00 UTC-5 | [^potential-match] |
-| China | ![][flag_CN] | ![][flag_ID] | Indonesia | Jun 19 (Sun) 10:00 UTC | Jun 19 (Sun) 18:00 UTC+8 | Jun 19 (Sun) 17:00 UTC+7 | [^winners-bracket] |
-| Australia | ![][flag_AU] | ![][flag_IT] | Italy | Jun 19 (Sun) 12:00 UTC | Jun 19 (Sun) 22:00 UTC+10 | Jun 19 (Sun) 14:00 UTC+2 | [^potential-match] |
-| South Korea | ![][flag_KR] | ![][flag_US] | United States | Jun 19 (Sun) 14:00 UTC | Jun 19 (Sun) 23:00 UTC+9 | Jun 19 (Sun) 09:00 UTC-5 | [^winners-bracket] |
-| Canada | ![][flag_CA] | ![][flag_MX] | Mexico | Jun 19 (Sun) 18:00 UTC | Jun 19 (Sun) 13:00 UTC-5 | Jun 19 (Sun) 13:00 UTC-5 | [^potential-match] |
-| Canada | ![][flag_CA] | ![][flag_IT] | Italy | Jun 19 (Sun) 18:00 UTC | Jun 19 (Sun) 13:00 UTC-5 | Jun 19 (Sun) 20:00 UTC+2 | [^potential-match] |
-| Chile | ![][flag_CL] | ![][flag_FR] | France | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 16:00 UTC-4 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
-| Chile | ![][flag_CL] | ![][flag_DE] | Germany | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 16:00 UTC-4 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
-| Russian Federation | ![][flag_RU] | ![][flag_FR] | France | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 23:00 UTC+3 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
-| Russian Federation | ![][flag_RU] | ![][flag_DE] | Germany | Jun 19 (Sun) 20:00 UTC | Jun 19 (Sun) 23:00 UTC+3 | Jun 19 (Sun) 22:00 UTC+2 | [^potential-match] |
+![](img/cwc2022_podium.jpg "CWC 2022 podium")
 
 ## Mappools
+
+**[Download the mappack here (145 MB)](https://drive.google.com/uc?id=1JtHyxS-ehyNU_QUOnD565rDPoCC1za38)**
+
+### Grand Finals
+
+- NoMod
+  1. [katagiri - Angel's Salad ('Le mythe etendu' ver.) (Deif) \[Eternal Myth\]](https://osu.ppy.sh/beatmapsets/1794162#fruits/3677111)
+  2. [Kagetora. - Hikitsuneno Mai (Emiru) \[EXCEED (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/1794170#fruits/3677133)
+  3. [Shinigiwa Satellite feat. Meramipop - Tensei Redemption (Crissa) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/985141#fruits/2061194)
+  4. [tokiwa - Kotodama Refrain (katagiri Bootleg) (Ducky-) \[\[nekomimi\]\]](https://osu.ppy.sh/beatmapsets/1605822#fruits/3279045)
+- Hidden
+  1. [Ice meets t+pazolite - Wicked Ceremony (autofanboy) \[Poltergeist in Sight\]](https://osu.ppy.sh/beatmapsets/1794175#fruits/3677152)
+  2. [Memme - Chinese Restaurant (Yumeno Himiko) \[Overdose (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1794196#fruits/3677183)
+  3. [Akatsuki Records - WARNING x WARNING x WARNING (Hailie) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/755619#fruits/1593262)
+- Hard Rock
+  1. [Shadow Of Intent - The Return (Daletto) \[A living body so I can embrace and rejoice...\]](https://osu.ppy.sh/beatmapsets/1794186#fruits/3677168)
+  2. [Se-U-Ra - The Endless for Traveler (JBHyperion) \[Adversity (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/1794190#fruits/3677172)
+  3. [Silent Siren - Soukai Rock (eLy) \[Dash!!\]](https://osu.ppy.sh/beatmapsets/422994#fruits/914220)
+- Double Time
+  1. [Minose Inori - TRUST IN ETERNITY (F D Flourite) \[ETERNITY\]](https://osu.ppy.sh/beatmapsets/1794217#fruits/3677251)
+  2. [MYUKKE. - FULi AUTO BUSTER (FULi Ver) (Bunnrei) \[FULi OVER DOSER (FULi Ver)\]](https://osu.ppy.sh/beatmapsets/1794213#fruits/3677232)
+  3. [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Cappuchino\]](https://osu.ppy.sh/beatmapsets/1547564#fruits/3162593)
+  4. [Lockyn - Vapor (Blacky Design) \[Shining\]](https://osu.ppy.sh/beatmapsets/1203398#fruits/2505928)
+- Mixed Mod
+  1. [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? (Ascendance) \[\* Ascenzuu's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1794202#fruits/3682229)
+  2. [P-MODEL - LAB=01 (-Ken) \[Ken & Flourite's Mix\]](https://osu.ppy.sh/beatmapsets/1794200#fruits/3677204)
+  3. [TEMPLIME - Neon Light (feat. TOTO HOSHIMIYA) (Mentai) \[Together Alone, Intoxicated by the Night\]](https://osu.ppy.sh/beatmapsets/1292247#fruits/2681970)
+- Tiebreaker
+  1. **[D-D-Dice vs. siromaru - Catch the Glory (Bunnrei) \[Grand Collab\]](https://osu.ppy.sh/beatmapsets/1794214#fruits/3677233)**
+
+### Finals
+
+**[Download the mappack here (119 MB)](https://drive.google.com/uc?id=1SCOM1YXo_Khgq7hPlpaD9PlUfBOIMVZ6)**
+
+- NoMod
+  1. [orangentle - Hopes and Dreams "A newer new home." (Bunnrei) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1789525#fruits/3666749)
+  2. [Tonari no Niwa wa Aoi (NIWASHI + Aoi) - Xb10r (Greaper) \[EXCEED\]](https://osu.ppy.sh/beatmapsets/1789437#fruits/3666577)
+  3. [Imy - Countdown (jonathanlfj) \[Genesis\]](https://osu.ppy.sh/beatmapsets/1246683#fruits/2591255)
+  4. [virkato - Waltz No. 17 in G minor, "Waltz of the Big dogs" (Kaifin) \[melloe & Kaifin's Kaiden\]](https://osu.ppy.sh/beatmapsets/727186#fruits/1535180)
+- Hidden
+  1. [xi - Parousia (Deif) \[Last Judgment (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/1789435#fruits/3666568)
+  2. [7\_7 - 724pp (Bunnrei) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1789526#fruits/3666751)
+  3. [Cranky - Bestrafung (Icekalt) \[Folter\]](https://osu.ppy.sh/beatmapsets/1633283#fruits/3333793)
+- Hard Rock
+  1. [meganeko - Feral (osu! edit) (Greaper) \[Astronomical\]](https://osu.ppy.sh/beatmapsets/1349805#fruits/2794697)
+  2. [Jamie Christopherson - The Stains of Time (Maniac Agenda Mix) (Verti) \[AND IT WILL COME\]](https://osu.ppy.sh/beatmapsets/1789441#fruits/3666582)
+  3. [OSTER project - Violet Rose (Down) \[Extra (#4)\]](https://osu.ppy.sh/beatmapsets/1178488#fruits/2457696)
+- Double Time
+  1. [KINEMA106 - Shinchoku Doudeshou (Sanyi) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1789449#fruits/3666593)
+  2. [Frums - Wavetapper (wwwww) \[PASTTHEDESIREFORUNDERSTANDING\]](https://osu.ppy.sh/beatmapsets/1789465#fruits/3666622)
+  3. [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#fruits/318975)
+  4. [capsule - RGB (\_xyliac) \[Eternal\]](https://osu.ppy.sh/beatmapsets/1418131#fruits/2921856)
+- Mixed Mod
+  1. [HyuN feat. Syepias - CROSS SOUL (Souvenir) \[DESPAIR (CWC VER.)\]](https://osu.ppy.sh/beatmapsets/1789582#fruits/3666842)
+  2. [BEMANI Sound Team "setup" - Ypsilon (F D Flourite) \[400\]](https://osu.ppy.sh/beatmapsets/1789455#fruits/3666602)
+  3. [Aether Realm - Swampwitch (iamtickrate) \[Wrath of the Witch\]](https://osu.ppy.sh/beatmapsets/1556131#fruits/3178933)
+- Tiebreaker
+  1. **[ToYou & DJ Raisei - ADHD (Jemzuu) \[Rustyy & Jemzuu's Hyperactivity\]](https://osu.ppy.sh/beatmapsets/1789527#fruits/3666753)**
 
 ### Semifinals
 
@@ -254,11 +293,60 @@ The osu!catch World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) an
 
 ## Match results
 
+### Grand Finals
+
+Sunday, 3 July 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 2 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/101973535) |
+| **South Korea** ![][flag_KR] | **7** | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/101975304) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1VWBCL3vYoMv2IyvCrzEBFHprikHDhSv7YfQiotE0TyE?rm=minimal).
+
+Saturday, 25 June 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Indonesia** ![][flag_ID] | **7** | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/101766015) |
+
+Sunday, 26 June 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 2 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/101787479) |
+| **United States** ![][flag_US] | **7** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/101790173) |
+| **United States** ![][flag_US] | **7** | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/101792244) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1hT_pDocqxzhq3yiKGylWTeNKvDiBig4Zb_J99Z84e7Q?rm=minimal).
+
+Saturday, 18 June 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **France** ![][flag_FR] | **7** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/101572162) |
+| Mexico ![][flag_MX] | 2 | **7** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/101575255) |
+| **Chile** ![][flag_CL] | **7** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/101578500) |
+| Chile ![][flag_CL] | 6 | **7** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/101580710) |
+| **Canada** ![][flag_CA] | **7** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/101584101) |
+
+Sunday, 19 June 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ![][flag_CN] | **7** | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/101592281) |
+| **South Korea** ![][flag_KR] | **7** | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/101600086) |
+| **Canada** ![][flag_CA] | **7** | 6 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/101607690) |
+
 ### Quarterfinals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/18lk9qlRMAdu3I0o2eRNTGmwkE7hLkDKQ_49EcwUEwaE/view?rm=minimal).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/18lk9qlRMAdu3I0o2eRNTGmwkE7hLkDKQ_49EcwUEwaE?rm=minimal).
 
-Saturday, June 11, 2022
+Saturday, 11 June 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -270,7 +358,7 @@ Saturday, June 11, 2022
 | **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/101380647) |
 | **Russian Federation** ![][flag_RU] | **6** | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/101382298) |
 
-Sunday, June 12, 2022
+Sunday, 12 June 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -286,9 +374,9 @@ Sunday, June 12, 2022
 
 ### Round of 16
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1bH8pqehvCR6XrpHaCK9Bg40XimzhLVjvmdHi7Il3TbQ/view?rm=minimal).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1bH8pqehvCR6XrpHaCK9Bg40XimzhLVjvmdHi7Il3TbQ?rm=minimal).
 
-Saturday, June 4, 2022
+Saturday, 4 June 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -299,7 +387,7 @@ Saturday, June 4, 2022
 | **France** ![][flag_FR] | **6** | 5 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/101183457) |
 | **Canada** ![][flag_CA] | **6** | 5 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/101189382) |
 
-Sunday, June 5, 2022
+Sunday, 5 June 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -316,9 +404,9 @@ Sunday, June 5, 2022
 
 ### Round of 32
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1TXBAh_aZ7I-gVQ7nMNMl2KXOjr7sZGK5nS97dg1xf3Y/view?rm=minimal).
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1TXBAh_aZ7I-gVQ7nMNMl2KXOjr7sZGK5nS97dg1xf3Y?rm=minimal).
 
-Saturday, May 28, 2022
+Saturday, 28 May 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -327,7 +415,7 @@ Saturday, May 28, 2022
 | **Singapore** ![][flag_SG] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/100988735) |
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/100999540) |
 
-Sunday, May 29, 2022
+Sunday, 29 May 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -346,7 +434,7 @@ Sunday, May 29, 2022
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8/view?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/10rAEhiJH9smCfqYEfFVvk3pDm6VLR3tYhJNOB01LNJo/view?rm=minimal).
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1FrNxtdV9tnG3n6SxnnsDJaYkr5x7DixN8dvl4TH6Kx8?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/10rAEhiJH9smCfqYEfFVvk3pDm6VLR3tYhJNOB01LNJo?rm=minimal).
 
 | Seed | Country | MAX% sum |
 | :-: | :-- | :-- |
@@ -460,7 +548,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 5. The mappool **must** be played in the following order: NM1, NM2, NM3, HD1, HD2, HR1, HR2, DT1, DT2.
 6. Each team must have 3 players for each map. They can be exchanged freely after each map is concluded.
 7. A team's final score for a map is considered as the highest combined team score for that map (i.e. the sum of each individual player's score). Only the highest score out of the two runs will be used for seeding.
-8. The seeding method used for Qualifiers will be %MAX—the highest combined team score for each map will receive 100% of the points, and every other team will be awarded a percentage of that top score.
+8. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points, and every other team will be awarded a percentage of that top score.
    - The exact formula that will be used for all teams (and for each map) is `Final Score = Team Score / MAX(Map Score)`, where:
      - `Final Score` is the percentage awarded to the current team
      - `Team Score` is the score the current team achieved on the current map
@@ -518,7 +606,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament staff. Each team is free to choose a time slot in which they want to play.
-   - **A team that doesn't pick a time slot by Wednesday, May 18 23:59 UTC will be considered disqualified.**
+   - **A team that doesn't pick a time slot by Wednesday, 18 May 23:59 UTC will be considered disqualified.**
 3. All Bracket Stages will be held between Saturday 0:00 and Sunday 23:59 UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage. Tournament Management will try to create the schedule to respect the participants' time zones.
    - In the Semifinals and subsequent stages, team captains may inform Tournament Management if they expect a specific time slot to be unavailable in the following week. Schedule updates will be granted to the best of Management's abilities.
@@ -527,12 +615,6 @@ The final standings for the Qualifier stage can be found in the following [sprea
    - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC+0** of the week they are to be played at.
    - **Do not ask for a reschedule unless it is absolutely needed. The Tournament Management reserves the right to deny any rescheduling request.**
 6. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
-
-## Notes
-
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket matches
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

@@ -6,8 +6,7 @@ tags:
 
 # Katu
 
-*See also: [Geki](/wiki/Gameplay/Judgement/Geki)*
-
+*See also: [Geki](/wiki/Gameplay/Judgement/Geki)*\
 *Not to be confused with osu!taiko's Katu.*
 
 **Katu (喝)**, *Katsu*, or *Beat!*, is a [judgement](/wiki/Gameplay/Judgement) term for when a [combo](/wiki/Beatmapping/Combo) is completed without the highest possible [accuracy](/wiki/Gameplay/Accuracy) on every note. However, Katu can't be achieved if a combo contains a 50 or a miss.

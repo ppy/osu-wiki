@@ -26,7 +26,7 @@ osu!'daki pek çok ekranda `F8` tuşuna ya da sağ alttaki `Show Chat` butonuna 
 
 ## Genişletilmiş Sohbet Konsolu
 
-*[osu!academy](/wiki/Community/Video_series/osu!academy) bu sayfayı [Çok oyunculu](/wiki/Gameplay/Multiplayer) ile birlikte [Episode 6(6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) videosunda ele aldı.*
+*[osu!academy](/wiki/Community/Video_series/osu!academy) bu sayfayı [Çok oyunculu](/wiki/Client/Interface/Multiplayer) ile birlikte [Episode 6(6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) videosunda ele aldı.*
 
 osu!'daki pek çok ekranda `F9` tuşuna ya da Intro Ekranı'nın sağ altındaki `Online Users` butonuna basarak Genişletilmiş Sohbet Konsolu'na erişebilirsiniz. Genişletilmiş Sohbet, Sohbet Konsoluna ek olarak ekranın geri kalan üçte ikisini kaplayarak şu anda osu'da oturum açmış olan kullanıcılar hakkında bilgi verir!
 

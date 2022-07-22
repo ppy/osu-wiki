@@ -433,7 +433,7 @@ Depuis l'icône *Entrées* dans les *Options* comme mo,tré ci-dessus, sous la s
 
 *Explication complète: [Replay](/wiki/Gameplay/Replay)*
 
-Après avoir raté une beatmap, appuyer sur la touche `F1` relance un replay de la partie. Le replay se termine quand l'écran noircit, avec le osu!logo au milieu, plutôt que l'écran de game over. Pour revoir le replay encore une fois, maintenez la touche grave/tilde (\`/~) (peut être changé dans les Options; dans *Configurer les touches* dans **Quick Retry (hold briefly)**) out `Ctrl`+`R` pour un moment.
+Après avoir raté une beatmap, appuyer sur la touche `F1` relance un replay de la partie. Le replay se termine quand l'écran noircit, avec l'osu!logo au milieu, plutôt que l'écran de game over. Pour revoir le replay encore une fois, maintenez la touche grave/tilde (\`/~) (peut être changé dans les Options; dans *Configurer les touches* dans **Quick Retry (hold briefly)**) out `Ctrl`+`R` pour un moment.
 
 Comme ce n'est pas un écran de replay standard, utilisez `Esc` pour retourner à l'écran de sélection des musiques. Réessayer la partie est impossible dans cet état. C'est actuellement possible uniquement en solo lors de l'écran de game over. **ce replay ne sera pas sauvegardé ni exporté.** Pour enregistrer un replay de partie ratée, vous devrez utiliser un logiciel tierce puisqu'osu! ne possède pas de moyen d'exporter un replay de partie ratée.
 
@@ -441,7 +441,7 @@ Comme ce n'est pas un écran de replay standard, utilisez `Esc` pour retourner �
 
 *Liste complète: [Shortcut key reference](/wiki/Client/Keyboard_shortcuts)*
 
-Appuyer sur la touche `Insert` (pour la configuration par défaut) cachera, mettra en pause (si en partie) et rendra osu! muet dans la barre latérale de *Windows*. Trouvez le *osu!logo* dans la barre latérale *Windows*, et cliquez dessus pour retourner dans osu!, dans l'état dans lequel vous l'avez laissé. Elle est appelée la **Boss key**, et peut être modifiée dans `Configurer les touches` (dans `Options`, sous la section *Clavier*), localisée à la fin de la section *Universal*.
+Appuyer sur la touche `Insert` (pour la configuration par défaut) cachera, mettra en pause (si en partie) et rendra osu! muet dans la barre latérale de *Windows*. Trouvez l'*osu!logo* dans la barre latérale *Windows*, et cliquez dessus pour retourner dans osu!, dans l'état dans lequel vous l'avez laissé. Elle est appelée la **Boss key**, et peut être modifiée dans `Configurer les touches` (dans `Options`, sous la section *Clavier*), localisée à la fin de la section *Universal*.
 
 Un autre raccourci intéressant est `Alt`+`Enter`. Il permet d'activer/désactiver le mode plein écran `Options`, mais ne fonctionne pas durant une partie ou en multijoueur.
 
@@ -453,7 +453,7 @@ Tout le dossier `osu!`, ce qui inclut les fichiers cachés. Après avoir lancé 
 
 *Liste complète: [Game Modes under External Ports section](/wiki/Game_mode)*
 
-Le osu! actuel ne supporte pas les téléphones.
+L'osu! actuel ne supporte pas les téléphones.
 
 Cependant, il y a des portages non officiels d'osu! et un jeu officiel sur iOS qui utilise ses propres classements.
 

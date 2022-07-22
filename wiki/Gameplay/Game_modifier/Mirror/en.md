@@ -26,7 +26,7 @@ The **Mirror** mod is [game modifier](/wiki/Game_modifier) for [osu!mania](/wiki
 
 ![MR gameplay](img/MR-comparison-mania.jpg "Comparison between a regular play (left) vs. a play with the Mirror mod enabled (right) in osu!mania")
 
-The reasoning behind this is that many osu!mania beatmaps are mapped by right-hand-dominant creators, and thus many of the beatmaps patterns are made to be more comfortable to right-hand-dominant osu!mania players. Thus, many left-hand-dominant players—particularly higher-ranking ones—feel that the mirrored note placement caused by the mod allows their left-hand to be utilised more effectively.
+The reasoning behind this is that many osu!mania beatmaps are mapped by right-hand-dominant creators, and thus many of the beatmaps patterns are made to be more comfortable to right-hand-dominant osu!mania players. Thus, many left-hand-dominant players — particularly higher-ranking ones — feel that the mirrored note placement caused by the mod allows their left-hand to be utilised more effectively.
 
 ## Trivia
 

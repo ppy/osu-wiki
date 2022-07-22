@@ -37,7 +37,7 @@ osu!에는 인게임에서 사용할 수 있는 많은 단축키가 존재합니
 - `P`: 플레이 메뉴
 - `P`, `P`: 싱글플레이
   - 다른 키: `E`, `P`, `P`
-- `P`, `M`: [멀티플레이](/wiki/Gameplay/Multiplayer)
+- `P`, `M`: [멀티플레이](/wiki/Client/Interface/Multiplayer)
   - 다른 키: `E`, `P`, `M`
 - `P`, `E`: 편집 모드
 - `D`: osu!direct ([osu!supporter](/wiki/osu!supporter) 전용)
@@ -62,7 +62,7 @@ osu!에는 인게임에서 사용할 수 있는 많은 단축키가 존재합니
 
 ## 곡 선택
 
-Note: [멀티플레이](/wiki/Gameplay/Multiplayer) 곡 선택 화면에서는 일부 키가 동작하지 않습니다.
+Note: [멀티플레이](/wiki/Client/Interface/Multiplayer) 곡 선택 화면에서는 일부 키가 동작하지 않습니다.
 
 - `Alt` + `Arrow Up`: 사운드 불륨 증가
 - `Alt` + `Arrow Down`: 사운드 불륨 감소

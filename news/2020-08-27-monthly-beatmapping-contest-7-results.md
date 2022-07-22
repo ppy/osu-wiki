@@ -16,15 +16,15 @@ This month's **34** submissions were evaluated by a team of experienced mappers,
 
 | Rank | Beatmap | Judging | Musical representation (60) | Creativity (60) | Gameplay (60) | Limitation (30) | Raw total | Standardized total |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [One Good Reason](https://osu.ppy.sh/beatmapsets/1244127#osu/2586241) by [xbopost](https://osu.ppy.sh/users/6842421) | [see details](https://mappersguild.com/contestresults?submission=5f20b19f014d4d10626e7c09 ) | 53 | 49 | 53 | 28 | **183** | **8.94** |
-| \#2 | [Eon](https://osu.ppy.sh/beatmapsets/1244558#osu/2587071) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contestresults?submission=5f20b027014d4d10626e7bef) | 51 | 42 | 50 | 28 | **171** | **6.32** |
-| \#3 | [Eon](https://osu.ppy.sh/beatmapsets/1244150#osu/2586272) by [Cris-](https://osu.ppy.sh/users/6175280) | [see details](https://mappersguild.com/contestresults?submission=5f20aff2014d4d10626e7be8) | 44 | 35 | 44 | 22 | **145** | **1.24** |
-| \#4 | [Eon](https://osu.ppy.sh/beatmapsets/1244472#osu/2586922) by [Acylica](https://osu.ppy.sh/users/1943309) | [see details](https://mappersguild.com/contestresults?submission=5f20afe1014d4d10626e7be5) | 39 | 30 | 43 | 21 | **133** | **-0.40** |
-| \#5 | [Electric Eye](https://osu.ppy.sh/beatmapsets/1244129#osu/2586244) by [fowwo](https://osu.ppy.sh/users/4547551) | [see details](https://mappersguild.com/contestresults?submission=5f20afec014d4d10626e7be7) | 38 | 33 | 41 | 19 | **131** | **-1.74** |
-| \#6 | [I Believe You](https://osu.ppy.sh/beatmapsets/1244179#osu/2586329) by [Striderin](https://osu.ppy.sh/users/10193902) | [see details](https://mappersguild.com/contestresults?submission=5f20afba014d4d10626e7be0) | 39 | 27 | 42 | 20 | **128** | **-1.92** |
-| \#7 | [Humanarchy](https://osu.ppy.sh/beatmapsets/1244153#osu/2586276) by [K4L1](https://osu.ppy.sh/users/11334594) | [see details](https://mappersguild.com/contestresults?submission=5f20aff6014d4d10626e7be9) | 37 | 35 | 35 | 24 | **131** | **-1.99** |
-| \#8 | [I Believe You](https://osu.ppy.sh/beatmapsets/1245508#osu/2588949) by [Frostings](https://osu.ppy.sh/users/2652543) | [see details](https://mappersguild.com/contestresults?submission=5f20b0f8014d4d10626e7bfe) | 35 | 24 | 38 | 18 | **115** | **-4.39** |
-| \#9 | [I Believe You](https://osu.ppy.sh/beatmapsets/1244126#osu/2586240) by [Adam_S](https://osu.ppy.sh/users/11678065) | [see details](https://mappersguild.com/contestresults?submission=5f20b1a2014d4d10626e7c0a) | 32 | 25 | 36 | 15 | **108** | **-6.06** |
+| \#1 | [One Good Reason](https://osu.ppy.sh/beatmapsets/1244127#osu/2586241) by [xbopost](https://osu.ppy.sh/users/6842421) | [see details](https://mappersguild.com/contests/results?submission=5f20b19f014d4d10626e7c09 ) | 53 | 49 | 53 | 28 | **183** | **8.94** |
+| \#2 | [Eon](https://osu.ppy.sh/beatmapsets/1244558#osu/2587071) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contests/results?submission=5f20b027014d4d10626e7bef) | 51 | 42 | 50 | 28 | **171** | **6.32** |
+| \#3 | [Eon](https://osu.ppy.sh/beatmapsets/1244150#osu/2586272) by [Cris-](https://osu.ppy.sh/users/6175280) | [see details](https://mappersguild.com/contests/results?submission=5f20aff2014d4d10626e7be8) | 44 | 35 | 44 | 22 | **145** | **1.24** |
+| \#4 | [Eon](https://osu.ppy.sh/beatmapsets/1244472#osu/2586922) by [Acylica](https://osu.ppy.sh/users/1943309) | [see details](https://mappersguild.com/contests/results?submission=5f20afe1014d4d10626e7be5) | 39 | 30 | 43 | 21 | **133** | **-0.40** |
+| \#5 | [Electric Eye](https://osu.ppy.sh/beatmapsets/1244129#osu/2586244) by [fowwo](https://osu.ppy.sh/users/4547551) | [see details](https://mappersguild.com/contests/results?submission=5f20afec014d4d10626e7be7) | 38 | 33 | 41 | 19 | **131** | **-1.74** |
+| \#6 | [I Believe You](https://osu.ppy.sh/beatmapsets/1244179#osu/2586329) by [Striderin](https://osu.ppy.sh/users/10193902) | [see details](https://mappersguild.com/contests/results?submission=5f20afba014d4d10626e7be0) | 39 | 27 | 42 | 20 | **128** | **-1.92** |
+| \#7 | [Humanarchy](https://osu.ppy.sh/beatmapsets/1244153#osu/2586276) by [K4L1](https://osu.ppy.sh/users/11334594) | [see details](https://mappersguild.com/contests/results?submission=5f20aff6014d4d10626e7be9) | 37 | 35 | 35 | 24 | **131** | **-1.99** |
+| \#8 | [I Believe You](https://osu.ppy.sh/beatmapsets/1245508#osu/2588949) by [Frostings](https://osu.ppy.sh/users/2652543) | [see details](https://mappersguild.com/contests/results?submission=5f20b0f8014d4d10626e7bfe) | 35 | 24 | 38 | 18 | **115** | **-4.39** |
+| \#9 | [I Believe You](https://osu.ppy.sh/beatmapsets/1244126#osu/2586240) by [Adam_S](https://osu.ppy.sh/users/11678065) | [see details](https://mappersguild.com/contests/results?submission=5f20b1a2014d4d10626e7c0a) | 32 | 25 | 36 | 15 | **108** | **-6.06** |
 
 ### Winner
 

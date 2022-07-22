@@ -1,6 +1,3 @@
-outdated_since: dca16aabefecc2b5ab512b49881308b8ac0077b8
-outdated_translation: true # missing languages.be and languages.uk
-
 # need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
@@ -33,39 +30,3 @@ nat:
     structural: estrutural
 languages:
   partial: um pouco de <language>
-  ar: Árabe
-  bg: Búlgaro
-  bn: Bengali
-  ca: Catalão
-  da: Dinamarquês
-  de: Alemão
-  el: Grego
-  es: Espanhol
-  et: Estoniano
-  fi: Finlandês
-  fil: Filipino
-  fr: Francês
-  gl: Galego
-  hr: Croata
-  hu: Húngaro
-  id: Indonésio
-  it: Italiano
-  ja: Japonês
-  ko: Coreano
-  lt: Lituano
-  ms: Malaio
-  nl: Holandês
-  no: Norueguês
-  pl: Polonês
-  pt: Português
-  ro: Romeno
-  ru: Russo
-  sr: Sérvio
-  sv: Sueco
-  te: Telugu
-  th: Tailandês
-  tr: Turco
-  ur: Urdu
-  vi: Vietnamita
-  yue: Cantonês
-  zh: Chinês

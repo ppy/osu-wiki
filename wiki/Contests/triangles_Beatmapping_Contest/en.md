@@ -27,7 +27,7 @@ Submissions to this contest include:
 ## Links
 
 - [Contest listing](https://osu.ppy.sh/community/contests/147)
-- [Contest announcement](https://osu.ppy.sh/home/news/2022-05-26-triangles)
+- [Contest announcement](https://osu.ppy.sh/home/news/2022-05-31-triangles)
 
 ## Teams
 
@@ -38,7 +38,7 @@ Submissions to this contest include:
 | absolutno pofig | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231), ![][flag_RU] [Shime](https://osu.ppy.sh/users/11558207), ![][flag_BG] [Delette](https://osu.ppy.sh/users/7835664), ![][flag_RU] [piroshki](https://osu.ppy.sh/users/7645522) | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231), ![][flag_UA] [PantyDev](https://osu.ppy.sh/users/5420543) |
 | Memers | ![][flag_US] [Zikena11](https://osu.ppy.sh/users/22511008), ![][flag_US] [Oxluae](https://osu.ppy.sh/users/22723833) | ![][flag_US] [Zikena11](https://osu.ppy.sh/users/22511008), ![][flag_US] [Oxluae](https://osu.ppy.sh/users/22723833) |
 | cat enjoyers | ![][flag_UA] [Maiev](https://osu.ppy.sh/users/10183830), ![][flag_EE] [schoolboy](https://osu.ppy.sh/users/8722791), ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777), ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | ![][flag_SE] [Jojajim](https://osu.ppy.sh/users/2117344) |
-| Δ = b² – 4ac | ![][flag_BR] [Kalindraz](https://osu.ppy.sh/users/2313166), ![][flag_BR] [NEURONIO](https://osu.ppy.sh/users/7198334), ![][flag_BR] [Sakura Airi](https://osu.ppy.sh/users/8682057), ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | ![][flag_BR] [K4L1](https://osu.ppy.sh/users/11334594) |
+| Δ = b² – 4ac | ![][flag_BR] [Kalindraz](https://osu.ppy.sh/users/2313166), ![][flag_BR] [NEURONIO](https://osu.ppy.sh/users/7198334), ![][flag_BR] [Sakura Airi](https://osu.ppy.sh/users/8682057), ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | ![][flag_BR] [K4L1](https://osu.ppy.sh/users/11334594), ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) |
 | GokuLook Princesa | ![][flag_ES] [Nachmark](https://osu.ppy.sh/users/17584310), ![][flag_ES] [CebollaVladimir](https://osu.ppy.sh/users/15308238), ![][flag_ES] [Jaime Altozano](https://osu.ppy.sh/users/7567228), ![][flag_ES] [Yuri Enjoyer](https://osu.ppy.sh/users/6961543) | ![][flag_US] [binarie](https://osu.ppy.sh/users/15632854) |
 | Shinquot  | ![][flag_IT] [Zekk](https://osu.ppy.sh/users/9704802), ![][flag_IT] [GYGY](https://osu.ppy.sh/users/7201269), ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923), ![][flag_IT] [Shiino](https://osu.ppy.sh/users/9839375) | ![][flag_IT] [Shoenen](https://osu.ppy.sh/users/6404824) |
 | Howling Abyss | ![][flag_KR] [Down](https://osu.ppy.sh/users/4694602), ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581), ![][flag_KR] [Dailycare](https://osu.ppy.sh/users/1634445) | ![][flag_KR] [Down](https://osu.ppy.sh/users/4694602), ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581), ![][flag_KR] [Dailycare](https://osu.ppy.sh/users/1634445) |
@@ -48,6 +48,19 @@ Submissions to this contest include:
 | Crazy Thursday | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834), ![][flag_CN] [yf_bmp](https://osu.ppy.sh/users/1243669), ![][flag_CN] [TtmnZk](https://osu.ppy.sh/users/2495509), ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552), ![][flag_CN] [yf_bmp](https://osu.ppy.sh/users/1243669), ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962) |
 | Blue Raspberry ICEE | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830), ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405), ![][flag_GB] [Mokobe](https://osu.ppy.sh/users/10374819), ![][flag_US] [Plaudible](https://osu.ppy.sh/users/7149815) | ![][flag_US] [Plaudible](https://osu.ppy.sh/users/7149815), ![][flag_VN] [Hokichi](https://osu.ppy.sh/users/6607303) |
 | dreamers | ![][flag_GE] [RetroSpectors](https://osu.ppy.sh/users/29665779), ![][flag_SK] [DJMakerMusician](https://osu.ppy.sh/users/17416390) | ![][flag_SK] [DJMakerMusician](https://osu.ppy.sh/users/17416390) |
+| FOUR DIMENSIONS | ![][flag_KZ] [colicen](https://osu.ppy.sh/users/8657379), ![][flag_RU] [Jounsen](https://osu.ppy.sh/users/11665315), ![][flag_RU] [De4n](https://osu.ppy.sh/users/18012118), ![][flag_RU] [original3s](https://osu.ppy.sh/users/15022846) | ![][flag_RU] [De4n](https://osu.ppy.sh/users/18012118) |
+| TV Sizers | ![][flag_CL] [MystyCute](https://osu.ppy.sh/users/10210657), ![][flag_IL] [TheSword](https://osu.ppy.sh/users/14004374), ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280), ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050), ![][flag_CL] [[-Evil-]](https://osu.ppy.sh/users/10234313) | ![][flag_IL] [TheSword](https://osu.ppy.sh/users/14004374) |
+| ? | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | ![][flag_NL] [Apichu](https://osu.ppy.sh/users/14967853) |
+| 三角形.tar.gz | ![][flag_NO] [Fisky](https://osu.ppy.sh/users/8352623), ![][flag_ID] [ScubDomino](https://osu.ppy.sh/users/8972308), ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | ![][flag_RU] [Tommy Phelps](https://osu.ppy.sh/users/10974581), ![][flag_DZ] [VenerableNyanta](https://osu.ppy.sh/users/12243368) |
+| Hot Fizz Slider | ![][flag_RU] [Frakturehawkens](https://osu.ppy.sh/users/7458583), ![][flag_RU] [KomachiBaka](https://osu.ppy.sh/users/6155320), ![][flag_RU] [Miraui](https://osu.ppy.sh/users/11174970) | ![][flag_RU] [AYE1337](https://osu.ppy.sh/users/9131844), ![][flag_RU] [WWWWWWWWWWWWWW](https://osu.ppy.sh/users/5108681) |
+| Touch Fish | ![][flag_CN] [Flower](https://osu.ppy.sh/users/1033017), ![][flag_CN] [antigen](https://osu.ppy.sh/users/10507557) | ![][flag_CN] [Flower](https://osu.ppy.sh/users/1033017), ![][flag_CN] [antigen](https://osu.ppy.sh/users/10507557) |
+| Global Clan Osu | ![][flag_IT] [Shiraya Sayuki](https://osu.ppy.sh/users/19077461), ![][flag_HU] [Nytrocide_](https://osu.ppy.sh/users/11327918), ![][flag_SG] [Flowziee](https://osu.ppy.sh/users/9205650) | ![][flag_IT] [Shiraya Sayuki](https://osu.ppy.sh/users/19077461), ![][flag_HU] [Nytrocide_](https://osu.ppy.sh/users/11327918), ![][flag_SG] [Flowziee](https://osu.ppy.sh/users/9205650) |
+| :shugasm: | ![][flag_RU] [Alvearia](https://osu.ppy.sh/users/6248691), ![][flag_RU] [Astrolis](https://osu.ppy.sh/users/12357714), ![][flag_PH] [kieg](https://osu.ppy.sh/users/8640970), ![][flag_US] [Nostril](https://osu.ppy.sh/users/11479122), ![][flag_US] [Vermasium](https://osu.ppy.sh/users/11106442) | ![][flag_US] [Nostril](https://osu.ppy.sh/users/11479122) |
+| Invincible Tornado Strike | ![][flag_CN] [AuroraE](https://osu.ppy.sh/users/16158742), ![][flag_CN] [Present](https://osu.ppy.sh/users/5645691), ![][flag_CN] [Atlust](https://osu.ppy.sh/users/4086593) | ![][flag_CN] [[Crz]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [Calvaria](https://osu.ppy.sh/users/12381096) |
+| ); DROP TABLE users; -- | ![][flag_CA] [kevlu8](https://osu.ppy.sh/users/19849836), ![][flag_CA] [wdotmathree](https://osu.ppy.sh/users/28425671) | ![][flag_CA] [kevlu8](https://osu.ppy.sh/users/19849836) |
+| Goofy ahh Meysters | ![][flag_MY] [Slyk](https://osu.ppy.sh/users/7798305), ![][flag_MY] [Shocola](https://osu.ppy.sh/users/6781232) | ![][flag_MY] [Slyk](https://osu.ppy.sh/users/7798305), ![][flag_MY] [Shocola](https://osu.ppy.sh/users/6781232) |
+| :venix: | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_PL] [hanabyte](https://osu.ppy.sh/users/8617799), ![][flag_PL] [vergil chair](https://osu.ppy.sh/users/8331132) | ![][flag_PL] [Peter](https://osu.ppy.sh/users/8623835), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) |
+| South American Mappers | ![][flag_MX] [funny](https://osu.ppy.sh/users/8473573), ![][flag_ES] [Elinor](https://osu.ppy.sh/users/5419324), ![][flag_SG] [hehe](https://osu.ppy.sh/users/2123087), ![][flag_CL] [Kyutei](https://osu.ppy.sh/users/13421842) | ![][flag_ES] [Elinor](https://osu.ppy.sh/users/5419324), ![][flag_SG] [hehe](https://osu.ppy.sh/users/2123087) |
 
 ## Prizes
 
@@ -127,9 +140,11 @@ Players are also eligible for prizes if they participate in the lazer playlists:
 [flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
@@ -138,14 +153,20 @@ Players are also eligible for prizes if they participate in the lazer playlists:
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_KZ]: /wiki/shared/flag/KZ.gif "Kasachstan"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"

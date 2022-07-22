@@ -40,7 +40,7 @@ Tutto riguardo al cliccare cerchi, colpire tamburi, raccogliere frutta, e suonar
 
 [Modalità di gioco](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Difficoltà](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Mod](/wiki/Game_modifier) • [Punteggio](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medaglie](/wiki/Medals) • [Multi](/wiki/Gameplay/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Difficoltà](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Mod](/wiki/Game_modifier) • [Punteggio](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medaglie](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

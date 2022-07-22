@@ -1,6 +1,6 @@
 # Medali
 
-**Medali**, sebelumnya dikenal sebagai *achievement*/pencapaian, adalah lencana-lencana yang diletakkan pada profil pengguna untuk mengindikasikan target tertentu yang telah dicapai oleh pengguna. Saat ini, ada **265** medali yang dapat dibuka dalam delapan kategori yang berbeda secara keseluruhan, yaitu: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), dan [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Medali**, sebelumnya dikenal sebagai *achievement*/pencapaian, adalah lencana-lencana yang diletakkan pada profil pengguna untuk mengindikasikan target tertentu yang telah dicapai oleh pengguna. Saat ini, ada **271** medali yang dapat dibuka dalam delapan kategori yang berbeda secara keseluruhan, yaitu: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), dan [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -58,7 +58,7 @@ Meskipun Seasonal Spotlights telah dihentikan sejak awal tahun 2020 untuk digant
 
 ## Beatmap Challenge Packs
 
-**Medali Beatmap Challenge Packs**, atau dapat juga disebut [*Medali Skill Packs*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), adalah medali yang diberikan ketika pemain menyelesaikan tingkat kesulitan yang tersulit pada seluruh beatmap yang tersedia pada [Paket Beatmap Tematik](https://osu.ppy.sh/beatmaps/packs?type=theme) atau [Paket Beatmap Artis/Album](https://osu.ppy.sh/beatmaps/packs?type=artist) *tanpa menggunakan [mod pengurang kesulitan](/wiki/Gameplay/Game_modifier#pengurang-kesulitan) atau mod [spesial](/wiki/Gameplay/Game_modifier#spesial)*. Paket beatmap tersebut dibuat secara khusus untuk mengetes pemahaman pemain dalam berbagai aspek gameplay dalam level skill tertentu, contohnya [star rating](/wiki/Beatmap/Difficulty#star-rating) atau batas tingkat kesulitan tertentu.
+**Medali Beatmap Challenge Packs**, atau dapat juga disebut [*Medali Skill Packs*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs), adalah medali yang diberikan ketika pemain menyelesaikan tingkat kesulitan yang tersulit pada seluruh beatmap yang tersedia pada [Paket Beatmap Tematik](https://osu.ppy.sh/beatmaps/packs?type=theme) atau [Paket Beatmap Artis/Album](https://osu.ppy.sh/beatmaps/packs?type=artist) *tanpa menggunakan [mod pengurang kesulitan](/wiki/Gameplay/Game_modifier#pengurang-kesulitan) atau mod [spesial](/wiki/Gameplay/Game_modifier#spesial)*. Paket beatmap tersebut dibuat secara khusus untuk mengetes pemahaman pemain dalam berbagai aspek gameplay dalam level skill tertentu, contohnya [star rating](/wiki/Beatmap/Difficulty#star-rating) atau batas tingkat kesulitan tertentu.
 
 Seluruh beatmap dalam paket harus diselesaikan dengan mode permainan [osu!](/wiki/Game_mode/osu!) untuk mendapatkan badge kecuali paket tersebut memiliki spesifikasi tertentu.
 

@@ -12,7 +12,7 @@ Please note that songs with explicit content are [covered by different regulatio
 
 In the interests of keeping a game about rhythm strictly about rhythm and in accordance with [community rule](/wiki/Rules#community-rules) #3, content which is deemed excessively political by the administration is disallowed.
 
-We adhere to no one particular "end" of a political spectrum—osu! is strictly apolitical and we want people to enjoy themselves, not start feuds or squabble over politics.
+We adhere to no one particular "end" of a political spectrum — osu! is strictly apolitical and we want people to enjoy themselves, not start feuds or squabble over politics.
 
 ## What happens if my track isn't okay?
 

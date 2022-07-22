@@ -16,7 +16,7 @@ The [official release statement](https://osu.ppy.sh/home/news/2015-03-31-osucoin
 
 ![](img/earning-osu!coin.jpg "An example of player getting osu!coin for each 100x combo")
 
-When players would run out of osu!coins, they would be unable to play any beatmaps. Though they could purchase more—out of their own will—with the exchange rates:
+When players would run out of osu!coins, they would be unable to play any beatmaps. Though they could purchase more — out of their own will — with the exchange rates:
 
 - $1 USD = 1 osu!coin
 - $10 USD = 10 osu!coins

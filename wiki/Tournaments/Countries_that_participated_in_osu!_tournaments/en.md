@@ -2,8 +2,7 @@
 
 This article lists countries that have participated in official [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania) tournaments. It also provides the rankings of teams that have reached the top 3.
 
-*Note: Official tournaments which were allowing teams not representing countries are not taken into consideration.*
-
+*Note: Official tournaments which were allowing teams not representing countries are not taken into consideration.*\
 *Note: Mixed-country teams (e.g. Argentina-Columbia) are not taken into consideration.*
 
 ## Rankings

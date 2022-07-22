@@ -20,6 +20,8 @@ We've gathered **16** tracks from the boss of bass, including the song most appr
     </video>
 </div>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### nora2r - B.B.K.K.B.K.K.
 
 Play through [the mapset above](https://osu.ppy.sh/beatmapsets/1372554) by [Nozhomi](https://osu.ppy.sh/users/2716981) or this [older mapset](https://osu.ppy.sh/beatmapsets/153920) by rezoons.

@@ -45,7 +45,7 @@ If the post still isn't gone within a reasonable timeframe, please send an email
 
 Immediately block the user by right-clicking their username and selecting `Block` in the drop-down list that appears.
 
-Afterwards, contact the administrators of the server at once by looking for someone at the very top of the users list and let them know what's happened. If you can't figure out who is an administrator, look for someone with a crown next to their name - they are the server owner and are responsible for what happens within it.
+Afterwards, contact the administrators of the server at once by looking for someone at the very top of the users list and let them know what's happened. If you can't figure out who is an administrator, look for someone with a crown next to their name — they are the server owner and are responsible for what happens within it.
 
 Should this abuse continue and the administrators do nothing about it, [please notify the Discord Trust & Safety team by filing out a report](https://dis.gd/request).
 

@@ -32,7 +32,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 [Tryby gry](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmapa](/wiki/Beatmap) • [Obiekty rozgrywki](/wiki/Hit_object) • [Modyfikatory](/wiki/Game_modifier) • [Wynik](/wiki/Gameplay/Score) • [Powtórka](/wiki/Gameplay/Replay) • [Tryb wieloosobowy](/wiki/Gameplay/Multiplayer)
+[Beatmapa](/wiki/Beatmap) • [Obiekty rozgrywki](/wiki/Hit_object) • [Modyfikatory](/wiki/Game_modifier) • [Wynik](/wiki/Gameplay/Score) • [Powtórka](/wiki/Gameplay/Replay) • [Tryb wieloosobowy](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

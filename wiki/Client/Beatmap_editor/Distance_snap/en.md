@@ -32,7 +32,7 @@ There are **three ways to enable/disable Distance Snap**:
 - **Click** on the **"Distance Snap" icon at the lower-right of the screen**. It is enabled if it glows; click again to disable it.
 - Use keyboard's hotkey, `Y`, to enable/disable it.
 - **Hold** keyboard's key, `Alt`, to **temporary enable/disable** the disabled/enabled Distance Snap respectively **until you release** the key.
-  - While holding the `Alt` key, the Beat Snap Divisor slider located at the upper-right of the editor will switch to Distance Spacing slider, allowing you to set the multiplier for the distance/time variable by mousewheel or sliding it. Default is 1.0x from 0.1x - 6.0x.
+  - While holding the `Alt` key, the Beat Snap Divisor slider located at the upper-right of the editor will switch to Distance Spacing slider, allowing you to set the multiplier for the distance/time variable by mousewheel or sliding it. Default is 1.0x from 0.1x–6.0x.
 
 **Note**: A red Distance Snap icon means the circle is too far away from the playfield, hence an error. You can fix it by lowering the distance spacing multiplier or use your own judgement and other mappers' opinions.
 
