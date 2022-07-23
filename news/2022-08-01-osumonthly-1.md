@@ -187,12 +187,8 @@ Another new feature that some of you might not know of, or just haven't gotten a
   [➥ Find the article here!](#as-if-we-could-allow-for-osu-to-take-all-the-glory-in-its-showcasing-of-top-players-and-their-performances-taiko-takes-it-upon-themself-to-rival-even-that-of-the-roundtable-with-their-very-own-annual-entry-of-expert-global-taiko-showdown-2022)
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
-<<<<<<< HEAD
 
 - The [Catch World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/CWC/2022) has ended on pretty amazing performances ! Is South Korea dominating two modes at the same time?
-=======
-- The [Catch World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/CWC/2022) has ended on some pretty amazing performances! Is South Korea dominating two modes at the same time?
->>>>>>> 38ca0cf1ff48c7f9561aba5b55726be17e13e855
   
   [➥ Find the article here!](#at-the-beginning-of-july-the-recent-eleventh-iteration-of-osucatch-world-cup-has-been-concluded)
 
