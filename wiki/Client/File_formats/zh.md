@@ -2,13 +2,13 @@
 
 ## 文件格式列表
 
-| 文件格式                                          | 媒体类型 (MIME type)    | 用途                                          |
-| :------------------------------------------------ | :---------------------- | :-------------------------------------------- |
-| [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) | `x-osu-beatmap-archive` | osu! 谱面文件                                 |
-| [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) | `x-osu-skin-archive`    | osu! 皮肤文件                                 |
-| [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) | `x-osu-beatmap`         | osu! [难度](/wiki/Beatmap/Difficulty)文件     |
-| [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) | `x-osu-storyboard`      | osu! [故事板](/wiki/Storyboard/Scripting)文件 |
-| [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) | `x-osu-replay`          | osu! [回放](/wiki/Gameplay/Replay)文件        |
+| 文件格式 | 媒体类型 (MIME type) | 用途 |
+| :-- | :-- | :-- |
+| [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) | `x-osu-beatmap-archive` | osu! 谱面文件 |
+| [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) | `x-osu-skin-archive` | osu! 皮肤文件 |
+| [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) | `x-osu-beatmap` | osu! [难度](/wiki/Beatmap/Difficulty)文件 |
+| [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) | `x-osu-storyboard` | osu! [故事板](/wiki/Storyboard/Scripting)文件 |
+| [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) | `x-osu-replay` | osu! [回放](/wiki/Gameplay/Replay)文件 |
 
 ## 创建 .osz 和 .osk 文件
 
