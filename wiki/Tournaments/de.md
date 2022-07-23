@@ -1,8 +1,3 @@
----
-outdated_since: 51dee80f97242f58303d6569311a1e93da10380e
-outdated_translation: true
----
-
 # Turniere
 
 Dieser Bereich ist für osu!-Turniere bestimmt. Turniere haben ihr eigenes Forum, das man [über diesen Link](https://osu.ppy.sh/community/forums/55) finden kann.
@@ -338,6 +333,14 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [TAG2 Tournament 2019](T2T/2019) | 15.02.2019 | 19.05.2019 | Thank You | osu! schmosu! | yoo whats goodie eh |
 
+#### The Roundtable
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [16 player battle royale](The_Roundtable/16_player_battle_royale) | 08.07.2022 | 08.07.2022 | [mrekk](https://osu.ppy.sh/users/7562902) | [im_a_fancy_lad](https://osu.ppy.sh/users/4908650) | [Utami](https://osu.ppy.sh/users/7512553) & [RyuK](https://osu.ppy.sh/users/6304246) |
+| [2v2 team tandem tournament](The_Roundtable/2v2_team_tandem_tournament) | 09.07.2022 | 09.07.2022 | No Stamina | Plasma Gunners | Eggward |
+| [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 09.07.2022 | 10.07.2022 | [Utami](https://osu.ppy.sh/users/7512553) | [mrekk](https://osu.ppy.sh/users/7562902) | [im_a_fancy_lad](https://osu.ppy.sh/users/4908650) |
+
 #### UK Community Cup
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
@@ -440,6 +443,8 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Expert Global Taiko Showdown 2021](GTS/EGTS_2021) | 02.10.2021 | 28.11.2021 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501) | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) |
 | [Squad Global Taiko Showdown 2021](GTS/SGTS_2021) | 08.01.2022 | 20.02.2022 | おまかせ | Ham | 皇-SUMERAGI- |
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 26.03.2022 | 08.05.2022 | ::{ flag=JP }:: Japan A | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten B |
+| [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 28.05.2022 | 10.07.2022 | ::{ flag=MY }:: Malaysia | ::{ flag=CN }:: China A | ::{ flag=KR }:: Südkorea |
+| [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 13.08.2022 | 09.10.2022 | - | - | - |
 
 #### North & South American Taiko Tournament
 
@@ -487,6 +492,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| [4 Digit Catch World Cup 2021](4CWC/2021) | 2021-10-02 | 2021-11-14 | ::{ flag=ID }:: Indonesia | ::{ flag=DE }:: Deutschland | ::{ flag=SE }:: Schweden |
 | [4 Digit Catch World Cup 2022](4CWC/2022) | 30.07.2022 | 11.09.2022 | *noch offen* | *noch offen* | *noch offen* |
 
 #### Catch French Beginner

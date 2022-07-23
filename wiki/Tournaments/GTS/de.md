@@ -1,6 +1,6 @@
 # Global Taiko Showdown
 
-Global Taiko Showdown シリーズの一覧。
+Übersicht über die Global Taiko Showdown Turniere.
 
 ## Advanced Global Taiko Showdown
 
@@ -27,7 +27,7 @@ Global Taiko Showdown シリーズの一覧。
 - [Intermediate Global Taiko Showdown 2021](IGTS_2021)
 - [Intermediate Global Taiko Showdown 2022](IGTS_2022)
 
-## その他
+## Anderes
 
 - [Katacheh Global Taiko Showdown 2019](KGTS_2019)
 - [Beginner Global Taiko Showdown 2020](BGTS_2020)
