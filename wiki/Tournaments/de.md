@@ -333,6 +333,14 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [TAG2 Tournament 2019](T2T/2019) | 15.02.2019 | 19.05.2019 | Thank You | osu! schmosu! | yoo whats goodie eh |
 
+#### The Roundtable
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [16 player battle royale](The_Roundtable/16_player_battle_royale) | 08.07.2022 | 08.07.2022 | [mrekk](https://osu.ppy.sh/users/7562902) | [im_a_fancy_lad](https://osu.ppy.sh/users/4908650) | [Utami](https://osu.ppy.sh/users/7512553) & [RyuK](https://osu.ppy.sh/users/6304246) |
+| [2v2 team tandem tournament](The_Roundtable/2v2_team_tandem_tournament) | 09.07.2022 | 09.07.2022 | No Stamina | Plasma Gunners | Eggward |
+| [1v1 double elimination](The_Roundtable/1v1_double_elimination) | 09.07.2022 | 10.07.2022 | [Utami](https://osu.ppy.sh/users/7512553) | [mrekk](https://osu.ppy.sh/users/7562902) | [im_a_fancy_lad](https://osu.ppy.sh/users/4908650) |
+
 #### UK Community Cup
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
@@ -484,6 +492,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| [4 Digit Catch World Cup 2021](4CWC/2021) | 2021-10-02 | 2021-11-14 | ::{ flag=ID }:: Indonesia | ::{ flag=DE }:: Deutschland | ::{ flag=SE }:: Schweden |
 | [4 Digit Catch World Cup 2022](4CWC/2022) | 30.07.2022 | 11.09.2022 | *noch offen* | *noch offen* | *noch offen* |
 
 #### Catch French Beginner
