@@ -2,8 +2,6 @@
 layout: main_page
 ---
 
-<!-- Translated to Latin American Spanish, there it might be some differences with Castilian. Most possibly, it seems more like Chilean Spanish. -->
-
 <div class="wiki-main-page__blurb">
 Bienvenido a la wiki de osu!, la base de conocimientos de código abierto que contiene una amplia variedad de información relacionada con osu!, un juego de ritmo gratuito.
 </div>
@@ -87,7 +85,7 @@ Las respuestas a las preguntas más frecuentes y las soluciones a los problemas 
 
 [Centro de ayuda](/wiki/Help_centre) • [Solución de problemas de rendimiento](/wiki/Performance_troubleshooting) • [Equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team) • [Foro de ayuda](https://osu.ppy.sh/forum/5)
 
-Restrictions liées au profil: [Silencio](/wiki/Silence) • [Restricciones de la cuenta](/wiki/Help_centre/Account_restrictions)
+Restricciones de perfil: [Silencio](/wiki/Silence) • [Restricciones de la cuenta](/wiki/Help_centre/Account_restrictions)
 
 Haz tu parte: [¡Cómo puedes ayudar!](/wiki/Community/How_you_can_help!) • [Reportar mal comportamiento](/wiki/Reporting_bad_behaviour) • [Reportando Abuso](/wiki/Reporting_bad_behaviour/Abuse) • [Manejo del juego sucio](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -109,9 +107,9 @@ Organizaciones: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 # [Personas](/wiki/People)
 
-osu! no hubiera sido posible sin tantos usuarios ayudando con el dessarollo, mantenimiento, y gestión de la comunidad: sus esfuerzos, tiempo, y dedicación hacen que el juego viva y prospere.
+osu! no hubiera sido posible sin tantos usuarios ayudando con el desarollo, mantenimiento, y gestión de la comunidad: sus esfuerzos, tiempo, y dedicación hacen que el juego viva y prospere.
 
-[El Equipo](/wiki/People/The_Team): [Dessarolladores](/wiki/People/The_Team/Developers) • [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipo de Soporte](/wiki/People/The_Team/Support_Team) • [Equipo de Evaluación de Nominaciones](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipo del Proyecto Amado](/wiki/People/The_Team/Project_Loved_Team)
+[El Equipo](/wiki/People/The_Team): [Desarolladores](/wiki/People/The_Team/Developers) • [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipo de Soporte](/wiki/People/The_Team/Support_Team) • [Equipo de Evaluación de Nominaciones](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipo del Proyecto Amado](/wiki/People/The_Team/Project_Loved_Team)
 
 [Colaboradores de la comunidad](/wiki/People/Community_Contributors) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Comité de Torneo](/wiki/People/Tournament_Committee) • [Comité de Puntos de Rendimiento](/wiki/People/Performance_Points_Committee)
 
