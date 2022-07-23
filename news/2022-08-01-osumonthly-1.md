@@ -166,7 +166,7 @@ One thing you might've missed is the new fancy Repel mod added to lazer, which i
 
 ---
 
-Another new feature that some of you might not know of, or just haven't gotten around to trying yet is the **skin layout editor**! First implemented in May of 2021, this is very much a work-in-progress feature, however currently you are able to edit the placement of all skin elements that appear during gameplay!
+Another feature that's maybe not the newest, but some of you might have missed, or just haven't gotten around to trying yet is the **skin layout editor**! First implemented in May of 2021, this is still very much a work-in-progress feature, however currently you are able to edit the placement of all skin elements that appear during gameplay! Check out the showcase video from the original patch notes below:
 
 <div align="center">
     <video width="100%" controls>
