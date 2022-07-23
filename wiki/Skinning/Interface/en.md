@@ -1883,7 +1883,7 @@ Notes:
 
 Notes:
 
-- This element is used in [multi](/wiki/Gameplay/Multiplayer) only.
+- This element is used in [multi](/wiki/Client/Interface/Multiplayer) only.
 
 ## Score entry
 
@@ -2151,7 +2151,7 @@ Notes:
 Notes:
 
 - This element is used for the in-game leaderboards.
-- This element is used in [Multi](/wiki/Gameplay/Multiplayer) games when the win condition is set to Accuracy.
+- This element is used in [Multi](/wiki/Client/Interface/Multiplayer) games when the win condition is set to Accuracy.
 - Tinted white.
 
 ---

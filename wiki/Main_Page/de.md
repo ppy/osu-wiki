@@ -37,7 +37,7 @@ Alles über das Klicken von Kreisen, das Schlagen der Trommeln, das Schnappen vo
 
 [Spielmodi](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) • [Hit-Objekte](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Punktzahl](/wiki/Gameplay/Score) • [Wiederholung](/wiki/Gameplay/Replay) • [Medaillen](/wiki/Medals) • [Multi](/wiki/Gameplay/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) • [Hit-Objekte](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Punktzahl](/wiki/Gameplay/Score) • [Wiederholung](/wiki/Gameplay/Replay) • [Medaillen](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

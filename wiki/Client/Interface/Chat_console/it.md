@@ -24,7 +24,7 @@ Puoi premere `F8` o cliccare il pulsante `Show Chat` situato in basso a destra p
 
 ## Chat Console estes
 
-*La [osu!academy](/wiki/Community/Video_series/osu!academy) ha trattato questo argomento ne [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII), assieme al [Multiplayer](/wiki/Gameplay/Multiplayer).*
+*La [osu!academy](/wiki/Community/Video_series/osu!academy) ha trattato questo argomento ne [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII), assieme al [Multiplayer](/wiki/Client/Interface/Multiplayer).*
 
 Da gran parte delle schermate è possibile accedere alla chat console estesa premendo `F9` o su `Online Users`. In aggiunta alla chat console, la chat console estesa mostra nei due terzi superiori dello schermo una lista di pannelli, che mostrano informazioni riguardanti gli utenti al momento online
 

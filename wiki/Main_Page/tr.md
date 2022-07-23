@@ -32,7 +32,7 @@ osu! ile ilgili çok çeşitli bilgiler içeren bir proje olan osu! wiki'ye hoş
 
 [Oyun modları](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Vuruş objesi](/wiki/Hit_object) • [Modlar](/wiki/Game_modifier) • [Skor](/wiki/Gameplay/Score) • [Tekrar](/wiki/Gameplay/Replay) • [Çoklu](/wiki/Gameplay/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Vuruş objesi](/wiki/Hit_object) • [Modlar](/wiki/Game_modifier) • [Skor](/wiki/Gameplay/Score) • [Tekrar](/wiki/Gameplay/Replay) • [Çoklu](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
