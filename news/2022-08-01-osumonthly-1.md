@@ -146,7 +146,14 @@ Coming in with a HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy
 ## New Features on osu!lazer!
 
 The new client has never been that **close** from releasing (there's still a lot of work on it!), and has **new mods**, more original than never! 
+For the first time ever, lazer patch notes have been posted on the official osu! [YouTube channel](https://www.youtube.com/c/osugame), compiled by [pishifat](https://osu.ppy.sh/users/3178418) with further insight provided by the man himself, [peppy](https://osu.ppy.sh/users/2)!
+Check the video out:
 
+<div align="center">
+    <video width="100%" controls>
+        <source src="https://www.youtube.com/watch?v=67P4LKlAh-0" type="video/mp4" preload="none">
+    </video>
+</div>
 Here are the [patch notes](https://osu.ppy.sh/home/changelog), and the showcase of **the latest mod**! 
 
 To start with this, we want to showcase a pretty chaotic but fancy Repel mod (finally a worthy opponent for [badeu](https://osu.ppy.sh/users/1473890)?)! 
