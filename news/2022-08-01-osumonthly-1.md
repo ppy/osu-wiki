@@ -5,7 +5,7 @@ date: 2022-08-01 10:00:00 +0000
 author: Soetch, Blushing, wowcake, 0x84f
 ---
 
-![](/wiki\shared\news\banners\osu-monthly-1.jpg)
+![](/wiki/shared/news/banners/osu-monthly-1.jpg)
 
 # Introducing osu!monthly
 
