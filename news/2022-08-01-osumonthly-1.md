@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu!monthly #1
-date: 2022-07-28
+date: 2022-08-01 10:00:00 +0000
 author: Soetch, Blushing, wowcake, 0x84f
 ---
 
@@ -26,9 +26,13 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 ### Navigation
 
 - [What's up in osu!?](#whats-up-in-osu)
+  
 - [Top Scores of the Month](#top-scores-of-the-month)
+  
 - [New features on osu!(lazer)](#new-features-on-osulazer)
+  
 - [Summary of this article](#summary-of-this-article)
+  
 - [End Word](#end-word)
 
 ---
