@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: NOISZ"
-date: 2022-07-20 10:00:00 +0000
+date: 2022-07-23 10:00:00 +0000
 ---
 
 **NOISZ** expands our Featured Artist library with a whole bunch of original rhythm game compositions by artists like *Soleily*, *Nhato* and *Camellia*!
@@ -12,9 +12,9 @@ An unprecedented combo of the bullet hell genre, visual novels, and (most import
 
 As of today, **NOISZ**'s awesome soundtrack is now part of osu!.
 
-[**NOISZ**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/286)houses **11** songs (and their instrumental versions) created by this outstanding roster of musicians:
+[**NOISZ**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/286) houses **11** songs (and their instrumental versions) created by this outstanding roster of musicians:
 
-- 3M-Project
+- M-Project
 - [Camellia](https://osu.ppy.sh/beatmaps/artists/31)
 - [HyuN](https://osu.ppy.sh/beatmaps/artists/33)
 - Iris
