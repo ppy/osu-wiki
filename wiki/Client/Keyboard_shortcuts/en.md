@@ -41,7 +41,7 @@ These shortcuts work anywhere:
 | `Esc` | Go back or cancel. |
 | `P`, `E`, or `O` | Open the play menu. |
 | `P` three times | Enter Solo. |
-| `P` twice, then `M` | Enter [Multi](/wiki/Gameplay/Multiplayer). |
+| `P` twice, then `M` | Enter [Multi](/wiki/Client/Interface/Multiplayer). |
 | `E` twice | Enter edit mode. |
 | `O` | Open the options sidebar. |
 | `Q` | Display the exit prompt. |

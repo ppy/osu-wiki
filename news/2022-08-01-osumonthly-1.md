@@ -146,10 +146,17 @@ Coming in with a HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy
 ## New Features on osu!lazer!
 
 The new client has never been that **close** from releasing (there's still a lot of work on it!), and has **new mods**, more original than never! 
+For the first time ever, lazer patch notes have been posted on the official osu! [YouTube channel](https://www.youtube.com/c/osugame), compiled by [pishifat](https://osu.ppy.sh/users/3178418) with further insight provided by the man himself, [peppy](https://osu.ppy.sh/users/2)!
+Check the video out:
 
-Here are the [patch notes](https://osu.ppy.sh/home/changelog), and the showcase of **the latest mod**! 
+<div align="center">
+    <video width="100%" controls>
+        <source src="https://www.youtube.com/watch?v=67P4LKlAh-0" type="video/mp4" preload="none">
+    </video>
+</div>
+If you are interested in all previous and future patch notes, you can find them [here](https://osu.ppy.sh/home/changelog).
 
-To start with this, we want to showcase a pretty chaotic but fancy Repel mod (finally a worthy opponent for [badeu](https://osu.ppy.sh/users/1473890)?)! 
+One thing you might've missed is the new fancy Repel mod added to lazer, which is pretty chaotic but fun (finally a worthy opponent for [badeu](https://osu.ppy.sh/users/1473890)?)
 
 <div align="center">
     <video width="100%" controls>
@@ -159,7 +166,7 @@ To start with this, we want to showcase a pretty chaotic but fancy Repel mod (fi
 
 ---
 
-Another new feature that some of you might not know of, or just haven't gotten around to trying yet is the **skin layout editor**! First implemented in May of 2021, this is very much a work-in-progress feature, however currently you are able to edit the placement of all skin elements that appear during gameplay!
+Another feature that's maybe not the newest, but some of you might have missed, or just haven't gotten around to trying yet is the **skin layout editor**! First implemented in May of 2021, this is still very much a work-in-progress feature, however currently you are able to edit the placement of all skin elements that appear during gameplay! Check out the showcase video from the original patch notes below:
 
 <div align="center">
     <video width="100%" controls>

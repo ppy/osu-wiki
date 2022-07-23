@@ -55,12 +55,12 @@ Accédez à cet écran en cliquant sur votre profil en haut à gauche du menu pr
 Après avoir sélectionné `Play` dans le menu principal, vous pouvez choisir entre trois options :
 
 - Cliquez sur `Solo` (ou appuyez sur `P`) pour jouer seul. Vous accédez alors à l'[écran de sélection des beatmaps](#sélection-des-beatmaps).
-- Cliquez sur `Multi` (ou appuyez sur `M`) pour jouer avec d'autres personnes. Vous serez dirigé vers le lobby [multijoueur](/wiki/Gameplay/Multiplayer).
+- Cliquez sur `Multi` (ou appuyez sur `M`) pour jouer avec d'autres personnes. Vous serez dirigé vers le lobby [multijoueur](/wiki/Client/Interface/Multiplayer).
 - Cliquez sur `Back` pour revenir au menu principal.
 
 ## Lobby multijoueur
 
-*Page principale : [Multijoueur](/wiki/Gameplay/Multiplayer)*
+*Page principale : [Multijoueur](/wiki/Client/Interface/Multiplayer)*
 
 ![](img/multi-lobby-FR.jpg?1 "Lobby multijoueur")
 
