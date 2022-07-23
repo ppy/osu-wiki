@@ -156,7 +156,7 @@ Check the video out:
 </div>
 If you are interested in all previous and future patch notes, you can find them [here](https://osu.ppy.sh/home/changelog).
 
-To start with this, we want to showcase a pretty chaotic but fancy Repel mod (finally a worthy opponent for [badeu](https://osu.ppy.sh/users/1473890)?)! 
+One thing you might've missed is the new fancy Repel mod added to lazer, which is pretty chaotic but fun (finally a worthy opponent for [badeu](https://osu.ppy.sh/users/1473890)?)
 
 <div align="center">
     <video width="100%" controls>
