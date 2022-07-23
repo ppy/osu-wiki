@@ -13,14 +13,11 @@ It has been a long time since the last osu!weekly was released and luckily, we h
 
 6 years have passed since the last community post of this type. Today, this changes with an all-to-familiar, but larger-in-scope version, dubbed: ***osu!monthly***.
 
-
-## Word of the editors :
+## Word of the editors
 
 Keeping the news post somewhat simple until the team can establish a foundation that is worked on through community feedback, suggestions, and what you, the readers, would like to see more of. The team decided to keep July's edition on the lighter end of the content to make sure the news post has a solid foundation to what *we* hope will gather interest and pose more involvement for the news post and the community.
 
-
 It'll never be the same as osu!weekly, but we're working hard to propose a frequent format, please be kind to us, new writers! We're highly receptive to it, so feedback is highly appreciated!
-
 
 ➥ *[Soetch](https://osu.ppy.sh/users/15970028), [Blushing](https://osu.ppy.sh/users/5927823), [wowcake](https://osu.ppy.sh/users/16121851), and [0x84f](https://osu.ppy.sh/users/7944724)*
 
@@ -28,8 +25,7 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 
 ### Navigation
 
-[What's up in osu!?](#whats-up-in-osu)
-
+- [What's up in osu!?](#whats-up-in-osu)
 - [Top Scores of the Month](#top-scores-of-the-month)
 - [New features on osu!(lazer)](#new-features-on-osulazer)
 - [Summary of this article](#summary-of-this-article)
@@ -71,7 +67,7 @@ Thanks again to [BTMC](https://osu.ppy.sh/users/3171691) and his staff for this 
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, osu!taiko takes it upon itself to rival even that of [*The Roundtable*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable) with their very own annual entry of **[Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)**!
+As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, osu!taiko takes it upon itself to rival even that of [*The Roundtable*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable) with their very own annual entry of **[Expert Global Taiko Showdown 2022](/wiki/en/Tournaments/GTS/EGTS_2022)**!
 
 As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsu, and quite possibly, even, Taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
 
@@ -98,7 +94,6 @@ There are still plenty of tournaments running, even after the conclusion of CWC!
 As it is starting the on **6th of August**, we can't actually talk about it more, but we are excited to say that the next osu!monthly is going to have a **big article** about it, and maybe an **interview of the winner**!
 
 [*Find the forum article here!*](/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open) 
-
 
 ---
 
@@ -182,24 +177,21 @@ Another feature that's maybe not the newest, but some of you might have missed, 
   
   [➥ Find the article here!](#if-you-ask-us-what-is-the-big-event-of-july-itd-be-the-roundtable)
 
-
 - For the month's top score, we got [[Karcher]](https://osu.ppy.sh/users/11443437) achieving an insane Full Combo on [*Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo*](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991)!
   
   [➥ Find the article here!](#as-if-the-impossible-could-not-be-done-only-once-but-twice)
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko 
 
-- [The Expert Global Taiko Showdown 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022) is hitting on the stage! This is the way Taiko players can overtake [The Roundtable](#if-you-ask-us-what-is-the-big-event-of-july-itd-be-the-roundtable) in terms of epic shows!
+- [The Expert Global Taiko Showdown 2022](/wiki/en/Tournaments/GTS/EGTS_2022) is hitting on the stage! This is the way Taiko players can overtake [The Roundtable](#if-you-ask-us-what-is-the-big-event-of-july-itd-be-the-roundtable) in terms of epic shows!
   
   [➥ Find the article here!](#as-if-we-could-allow-for-osu-to-take-all-the-glory-in-its-showcasing-of-top-players-and-their-performances-taiko-takes-it-upon-themself-to-rival-even-that-of-the-roundtable-with-their-very-own-annual-entry-of-expert-global-taiko-showdown-2022)
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-- The [Catch World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/CWC/2022) has ended on pretty amazing performances ! Is South Korea dominating two modes at the same time?
+- The [Catch World Cup 2022](/wiki/en/Tournaments/CWC/2022) has ended on pretty amazing performances ! Is South Korea dominating two modes at the same time?
   
   [➥ Find the article here!](#at-the-beginning-of-july-the-recent-eleventh-iteration-of-osucatch-world-cup-has-been-concluded)
-
-
 
 - The score of the month, according to us, is the [YesMyDarkness’](https://osu.ppy.sh/users/4158549/fruits) HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy.sh/beatmapsets/521900#fruits/1108507)! Somebody screeeeeeeeeeeeeeeeeam!
   
@@ -211,10 +203,9 @@ Another feature that's maybe not the newest, but some of you might have missed, 
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-- The [osu!mania World Cup 2022](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K) is the road to the greatness for the Mania top players! They will brawl again in this great arena! Who's gonna take the crown?
+- The [osu!mania World Cup 2022](/wiki/en/Tournaments/MWC/2022_4K) is the road to the greatness for the Mania top players! They will brawl again in this great arena! Who's gonna take the crown?
   
   [➥ Find the article here!](#in-august-the-osumania-top-players-will-brawl-in-the-osumania-world-cup-2022)
-
 
 - The scores now!
   Let's start with a 7K score : [Onta_Bekasi](https://osu.ppy.sh/users/8677684) only lost 0,02 accuracy on the surprisingly difficult *"My Man"*! A flawless performance!
@@ -232,13 +223,13 @@ A monthly question or puzzle for you!
 
 ---
 
->Once upon a time, in the ye' old osu!, someone asked for advice from the ancestors among osu!, the post reads as follows: 
+> Once upon a time, in the ye' old osu!, someone asked for advice from the ancestors among osu!, the post reads as follows: 
 
->"Is it possible to repeat songs in osu!? I have an in-game video of KH2 with Roxas battling the Twilight Thorn (people who have played Kingdom Hearts 2 will be drooling) and the video is still halfway when the song ends! Or can someone at least tell me about a free, easy to use software which can solve my problem by repeating the song?"
+> "Is it possible to repeat songs in osu!? I have an in-game video of KH2 with Roxas battling the Twilight Thorn (people who have played Kingdom Hearts 2 will be drooling) and the video is still halfway when the song ends! Or can someone at least tell me about a free, easy to use software which can solve my problem by repeating the song?"
 
->This ancient tome is hidden behind a code, the code you seek is everywhere but no where at the same time, always in the back of your mind but only breaching the surface at the moment you see it, now… go forth, unveil the secret code, and paste the number in the link, and gain access to this ancient tome!
+> This ancient tome is hidden behind a code, the code you seek is everywhere but no where at the same time, always in the back of your mind but only breaching the surface at the moment you see it, now… go forth, unveil the secret code, and paste the number in the link, and gain access to this ancient tome!
 
->The first person to answer it correctly will receive a month of osu!supporter, leave your answer in the comment!
+> The first person to answer it correctly will receive a month of osu!supporter, leave your answer in the comment!
 
 ## End Word
 
