@@ -154,7 +154,7 @@ Check the video out:
         <source src="https://www.youtube.com/watch?v=67P4LKlAh-0" type="video/mp4" preload="none">
     </video>
 </div>
-Here are the [patch notes](https://osu.ppy.sh/home/changelog), and the showcase of **the latest mod**! 
+If you are interested in all previous and future patch notes, you can find them [here](https://osu.ppy.sh/home/changelog).
 
 To start with this, we want to showcase a pretty chaotic but fancy Repel mod (finally a worthy opponent for [badeu](https://osu.ppy.sh/users/1473890)?)! 
 
