@@ -43,7 +43,7 @@ Si la connexion à Bancho est réussie, le joueur sera dirigé vers le **lobby**
 
 ## Lobby
 
-![](img/Multi_lobby.jpg "Exemple d'un jour typique dans le lobby")
+![](img/multi-lobby.jpg "Exemple d'un jour typique dans le lobby")
 
 Le lobby affiche toutes les salles disponibles sur Bancho.
 
@@ -75,7 +75,7 @@ Chaque salle contient ses informations séparées de gauche à droite pour facil
 
 Cliquez sur une des salles pour y entrer.
 
-![](img/Multi_lobby_locked.jpg "Exemple d'une salle verrouillée")
+![](img/multi-locked-lobby.jpg "Exemple d'une salle verrouillée")
 
 **Note:** Si le symbole du mode de jeu contient un cadenas, cliquer dessus fera apparaître une boîte de texte afin d'écrire le mot de passe.
 Vous devez entrer le bon mot de passe pour accéder à une salle verrouillée.
@@ -95,7 +95,7 @@ La [console de tchat](/wiki/Client/Interface/Chat_console) sera disponible en ba
 
 ## Nouvelle salle
 
-![](img/Multi_new_game.jpg "Configuration d'une nouvelle salle")
+![](img/multi-room-creation.jpg "Configuration d'une nouvelle salle")
 
 | Titre | Description |
 | :-: | :-- |
@@ -109,7 +109,7 @@ Cliquez sur  `1. Start Game` pour **créer la salle en tant qu'hôte** avec la *
 
 <!-- One/Two image here? Subsections of the images later like what was done in Interface of the old osu! wiki for Song Selection? -->
 
-![](img/Multi_roomplayer.jpg "Exemple d'une salle en tant que joueur \(avec l'option "Mods libres" activée\)")
+![](img/multi-room.jpg "Exemple d'une salle en tant que joueur \(avec l'option "Mods libres" activée\)")
 
 La partie haute montre le nom de l'écran à gauche, votre statut dans la salle (soit hôte soit joueur), vos informations sur le mode de jeu en cours au milieu et un bouton pause pour mettre en pause la musique (si vous avez la beatmap) à droite.
 
@@ -157,16 +157,16 @@ L'hôte peut changer le nom ou créer/changer le mot de passe de la salle en cli
 
 #### Beatmap
 
-![](img/Multi_host_song_change.jpg "Lorsque l'hôte est en train de changer de beatmap, ce texte sera temporairement affiché.")
+![](img/multi-host-map-change.jpg "Lorsque l'hôte est en train de changer de beatmap, ce texte sera temporairement affiché.")
 
-![](img/Multi_SS.jpg "Exemple de ce que l'hôte voit en sélectionnant une beatmap.")
+![](img/multi-beatmap-change.jpg "Exemple de ce que l'hôte voit en sélectionnant une beatmap.")
 
 La partie du milieu est la partie Beatmap.
 
 Cette partie montre la beatmap sélectionnée par l'hôte.
 Celle-ci montre l'image, le symbole du mode de jeu, le titre, l'artiste de la musique, le créateur de la beatmap, la difficulté sélectionnée ainsi que la difficulté en étoiles de la beatmap.
 
-![](img/Multi_beatmapinfo.jpg "Informations de la beatmap affichées lorsque l'on passe la souris dessus.")
+![](img/multi-beatmap-info.jpg "Informations de la beatmap affichées lorsque l'on passe la souris dessus.")
 
 Quelques informations seront affichées dans le cas où le joueur ne possède pas la beatmap:
 
@@ -178,7 +178,7 @@ Quelques informations seront affichées dans le cas où le joueur ne possède pa
 
 #### Mods
 
-![](img/Multi_mods_player.jpg "Options de mods \(osu! standard\) d'un joueur \(avec l'option "Mods libres" activée\)")
+![](img/multi-player-free-mods.jpg "Options de mods \(osu! standard\) d'un joueur \(avec l'option "Mods libres" activée\)")
 
 La partie en bas à gauche est dédiée aux mods.
 Elle montre les [mods](/wiki/Game_modifier) utilisés pour ce match.
@@ -216,7 +216,7 @@ Il existe 4 conditions de victoire:
 
 ##### Couleur (Tag Coop/Tag Team Vs seulement)
 
-![](img/Multi_tag_colour.jpg "Couleurs disponibles pour le combo lors du tour d'un joueur")
+![](img/multi-tag-colours.jpg "Couleurs disponibles pour le combo lors du tour d'un joueur")
 
 Si le type de partie est le *Tag Coop/Tag Team Vs*, une partie **Couleur:** `(couleur du combo)` apparait et **permet au joueur de choisir une couleur de combo fixe lorsque ce sera son tour**.
 L'option `Default` utilise la couleur de combo originale de la beatmap.
@@ -314,14 +314,14 @@ Un joueur ayant quitté ou échoué sera placé en bas du classement des joueurs
 
 #### Interface
 
-![](img/Multi_HTH.jpg "Interface en Head to Head")
+![](img/multi-hth-interface.jpg "Interface en Head to Head")
 
 Le Head to Head est un type de partie dans lequel les joueurs jouent chacun pour soi pour obtenir le meilleur score de la salle.
 Il s'agit du type de partie par défaut et n'a pas de caractéristiques particuliers, il s'agit simplement d'avoir le meilleur score.
 
 #### Résultat
 
-![](img/Multi_grade.jpg "Ecran de résultat en Head to Head")
+![](img/multi-hth-results.jpg "Ecran de résultat en Head to Head")
 
 A la fin du match, la photo de profil du joueur ayant atteint la première place sera affichée dans la partie "WINNER"
 
@@ -334,7 +334,7 @@ Chaque joueur reçoit dans l'onglet privé `#userlog` du tchat le rang qu'il a o
 
 #### Interface
 
-![](img/Multi_team_vs.jpg "Interface en Team Vs")
+![](img/multi-teamvs-interface.jpg "Interface en Team Vs")
 
 Le mode Team Vs fait s'affronter deux équipes (Rouge et Bleue) selon différentes conditions de victoire choisies par l'hôte.
 Remplissez la condition du mieux que vous le pouvez pour obtenir le rang le plus élevé dans votre équipe et battre le total de l'équipe adverse.
@@ -354,7 +354,7 @@ Les membres étant dans le statut Échoué sont placés en bas du classement de 
 
 #### Résultats
 
-![](img/Multi_team_grade.jpg "Ecran de résultats en Team Vs")
+![](img/multi-teamvs-results.jpg "Ecran de résultats en Team Vs")
 
 Dans l'écran de résultat, le gagnant du match dépend du score total des équipes et est annoncé au milieu de l'écran avec la couleur de l'équipe gagnante. Le total de l'équipe bleue se trouve à gauche et le total de l'équipe rouge à droite.
 
@@ -370,9 +370,9 @@ Le rang obtenu n'est pas affiché dans l'onglet `Total` mais sera affiché sur l
 
 *Seulement disponible dans le mode osu! standard. **NON-CLASSÉ***
 
-![](img/Multi_tag_co-op.jpg "Interface en Tag Coop")
+![](img/multi-coop-interface.jpg "Interface en Tag Coop")
 
-![](img/Multi_tag_team_vs.jpg "Interface en Tag Team Vs")
+![](img/multi-tagteam-interface.jpg "Interface en Tag Team Vs")
 
 Le Tag Coop fait travailler tous les joueurs en équipe pour réussir la beatmap, chaque joueur joue un combo chacun.
 
@@ -403,9 +403,9 @@ Si vous jouez en fenêtré, notez que le curseur n'est **pas** confiné dans la 
 
 #### Résultat
 
-![](img/Multi_co-op_grade.jpg "Ecran de résultat en Tag Coop")
+![](img/multi-coop-results.jpg "Ecran de résultat en Tag Coop")
 
-![](img/Multi_tag_team_grade.jpg "Ecran de résultat en Tag Team Vs")
+![](img/multi-tagteam-results.jpg "Ecran de résultat en Tag Team Vs")
 
 Comme précisé plus haut dans l'article, le score n'est pas compté pour le score classé et les points de performance car il s'agit d'une partie *non-classée*.
 
@@ -419,7 +419,7 @@ L'écran de résultat n'apparait que si la beatmap a été réussie.
 
 ### Historique
 
-![](img/Multi_Mania_unpatched.jpg "Capture d'écran d'une version non mise à jour d'osu! quand le mode de jeu osu!mania est sorti. \(8 Octobre 2012, 08/10/2012\)")
+![](img/legacy-multi-lobby.jpg "Capture d'écran d'une version non mise à jour d'osu! quand le mode de jeu osu!mania est sorti. \(8 Octobre 2012, 08/10/2012\)")
 
 - Les salles n'autorisaient qu'un maximum de 8 joueurs.
 - Le mode de jeu osu!mania était noté `3` dans le lobby pour les joueurs qui n'avaient pas encore mis à jour leur jeu (qui active le mode osu!mania qui n'avait pas encore de support de classement).
