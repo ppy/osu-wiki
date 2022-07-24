@@ -104,19 +104,19 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
 
 ### Qualifiers
 
-- Nomod
-  - 1. [ShinRa-Bansho - Dramatic Hizakurige (Xetopia) \[Rain\]](https://osu.ppy.sh/beatmapsets/1813556#fruits/3720529)
-  - 2. [REDO - TRABMAT (Nelly) \[KOLLAB RAIH\]](https://osu.ppy.sh/beatmapsets/1813562#fruits/3720535)
-  - 3. [Nanawo Akari - One Room Sugar Life (-[Pino]-) \[Kana's Insane\]](https://osu.ppy.sh/beatmapsets/857715#fruits/1803699)
+- NoMod
+  1. [ShinRa-Bansho - Dramatic Hizakurige (Xetopia) \[Rain\]](https://osu.ppy.sh/beatmapsets/1813556#fruits/3720529)
+  2. [REDO - TRABMAT (Nelly) \[KOLLAB RAIH\]](https://osu.ppy.sh/beatmapsets/1813562#fruits/3720535)
+  3. [Nanawo Akari - One Room Sugar Life (-[Pino]-) \[Kana's Insane\]](https://osu.ppy.sh/beatmapsets/857715#fruits/1803699)
 - Hidden
-  - 1. [Synthion - Aurora (wonjae) \[Syamu's Rain\]](https://osu.ppy.sh/beatmapsets/1290796#fruits/2686307)
-  - 2. [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[Djulus' Insane\]](https://osu.ppy.sh/beatmapsets/1312079#fruits/2755563)
+  1. [Synthion - Aurora (wonjae) \[Syamu's Rain\]](https://osu.ppy.sh/beatmapsets/1290796#fruits/2686307)
+  2. [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[Djulus' Insane\]](https://osu.ppy.sh/beatmapsets/1312079#fruits/2755563)
 - HardRock
-  - 1. [Raimukun - Firmament star (Jemzuu) \[Rustyy's Platter\]](https://osu.ppy.sh/beatmapsets/1633703#fruits/3345430)
-  - 2. [nmk - sola (sjoy) \[cwR's Insane\]](https://osu.ppy.sh/beatmapsets/183267#fruits/440413)
+  1. [Raimukun - Firmament star (Jemzuu) \[Rustyy's Platter\]](https://osu.ppy.sh/beatmapsets/1633703#fruits/3345430)
+  2. [nmk - sola (sjoy) \[cwR's Insane\]](https://osu.ppy.sh/beatmapsets/183267#fruits/440413)
 - DoubleTime
-  - 1. [solfa feat. Ceui - melty love (-Luminate) \[Platter\]](https://osu.ppy.sh/beatmapsets/1617558#fruits/3310327)
-  - 2. [cosMo@BousouP - Oceanus (Broccoly) \[Irreversible's Hard\]](https://osu.ppy.sh/beatmapsets/267767#fruits/650188)
+  1. [solfa feat. Ceui - melty love (-Luminate) \[Platter\]](https://osu.ppy.sh/beatmapsets/1617558#fruits/3310327)
+  2. [cosMo@BousouP - Oceanus (Broccoly) \[Irreversible's Hard\]](https://osu.ppy.sh/beatmapsets/267767#fruits/650188)
 
 ## Ruleset
 
