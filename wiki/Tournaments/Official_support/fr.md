@@ -153,8 +153,8 @@ Si vous répondez aux critères ci-dessus, vous pouvez faire une demande de supp
 
 - Le fichier envoyé doit être un **PNG**.
 - La largeur ne doit pas être supérieure à **1000px**. Des largeurs inférieures sont acceptables.
-- La hauteur doit toujours être de **180px**. Les autres valeurs NE conviennent PAS.
-- Toutes les images de bannières seront traitées en tant que `2x`, ce qui signifie qu'elles seront exportées à une échelle de 50% dans une image `1x`. Concevez vos images de manière à ce qu'elles soient lisibles à la moitié de leur taille. Les utilisateurs verront l'une ou l'autre image en fonction de la résolution qu'ils ont choisie pour leur client.
+- La hauteur doit toujours être de **180px**. Les autres valeurs ne conviennent PAS.
+- Toutes les images de bannières seront traitées comme des `2x`, ce qui signifie qu'elles seront exportées à une échelle de 50% en une image `1x`. Concevez vos images de manière à ce qu'elles soient lisibles à la moitié de leur taille. Les utilisateurs verront l'une ou l'autre image en fonction de la résolution qu'ils ont choisie pour leur client.
 - Elle doit clairement afficher le logo, le motif ET le nom de votre tournoi, ainsi que toute information sur l'étape ou la section en cours qui fait l'objet de la publicité.
 - Il doit être conçu proprement, en mettant l'accent sur la transparence et la discrétion visuelle.
 - Il ne doit pas inclure de parrainage ni promouvoir quoi que ce soit d'autre que le tournoi.
