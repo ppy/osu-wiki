@@ -57,6 +57,7 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1600070)
 - [Discord server](https://discord.gg/JcJ7w9x6B6)
 - [Challonge bracket](https://challonge.com/4cwc_2022)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/91) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Livestream channel](https://www.twitch.tv/4cwc)
 
 |  | Country | Members |
