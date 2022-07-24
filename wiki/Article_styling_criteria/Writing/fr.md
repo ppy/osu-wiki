@@ -319,6 +319,10 @@ Les articles doivent utiliser de préférence une grammaire et une syntaxe fran�
 
 La virgule de série, également connue sous le nom de virgule d'Oxford ou de Harvard, doit être utilisée.
 
+### Tirets
+
+Voir la [page Wikipédia concernant les tirets](https://fr.wikipedia.org/wiki/Tiret).
+
 ### Citations
 
 Consultez les [conventions typographiques de Wikipédia concernant les citations](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Citation).
