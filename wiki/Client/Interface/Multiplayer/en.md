@@ -23,7 +23,7 @@ From the main menu, the main multiplayer lobby can be accessed with the followin
 
 *Notice: An active [osu!supporter](/wiki/osu!supporter) tag is required to enter the lobby while using the `Cutting Edge` build.*
 
-![](img/Multi_lobby.jpg "Example of a typical day in the main multiplayer lobby")
+![](img/multi-lobby.jpg "Example of a typical day in the main multiplayer lobby")
 
 On entering, the player is presented with all currently available matches.
 
@@ -68,7 +68,7 @@ The three buttons above the [chat console](/wiki/Client/Interface/Chat_console) 
 ## Creating a new game
 
 ::: Infobox
-![](img/Multi_new_game.jpg "Configuration screen for creating a match lobby")
+![](img/multi-room-creation.jpg "Configuration screen for creating a match lobby")
 :::
 
 <!-- TODO: update above image; there is a new `Make match history publicly viewable` button -->
@@ -85,7 +85,7 @@ Pressing the `1. Start Game` button will create the match with the currently pla
 ## Match setup
 
 ::: Infobox
-![](img/Multi_roomplayer.jpg "The match lobby viewed as a player")
+![](img/multi-room.jpg "The match lobby viewed as a player")
 :::
 
 After going into or creating a match, the match setup will be displayed. The following sections will focus on the different parts of the screen starting from top to bottom and going left to right.
@@ -130,11 +130,11 @@ The `Game Name` is the name of the lobby that is visible in match listings in-ga
 #### Beatmap
 
 ::: Infobox
-![](img/Multi_host_song_change.jpg "The beatmap card when the host is changing songs")
+![](img/multi-host-map-change.jpg "The beatmap card when the host is changing songs")
 :::
 
 ::: Infobox
-![](img/Multi_SS.jpg "The song selection screen when selecting a beatmap in multiplayer")
+![](img/multi-beatmap-change.jpg "The song selection screen when selecting a beatmap in multiplayer")
 :::
 
 The beatmap section shows the beatmap to be played in the match. Changing the beatmap using the button above it opens the song selection screen.
@@ -142,7 +142,7 @@ The beatmap section shows the beatmap to be played in the match. Changing the be
 The beatmap card will show the background image, game mode icon, title and artist of the song, creator of the beatmap, the selected [difficulty](/wiki/Beatmap/Difficulty), and the [star rating](/wiki/Beatmapping/Star_rating) for the selected beatmap.
 
 ::: Infobox
-![](img/Multi_beatmapinfo.jpg "Hovering over the beatmap card")
+![](img/multi-beatmap-info.jpg "Hovering over the beatmap card")
 :::
 
 When hovering over the beatmap, there is a popup that displays information about the beatmap. These are as follows:
@@ -169,7 +169,7 @@ If the player does not have the beatmap, one of these statuses will be shown:
 #### Mods
 
 ::: Infobox
-![](img/Multi_mods_player.jpg "The multiplayer mod selection screen, where the host has enabled Free Mods")
+![](img/multi-player-free-mods.jpg "The multiplayer mod selection screen, where the host has enabled Free Mods")
 :::
 
 This section will show the [game mods](/wiki/Game_modifier) used for this match.
@@ -192,7 +192,7 @@ There are four different ways a match can be played:
 ##### Tag Colour
 
 ::: Infobox
-![](img/Multi_tag_colour.jpg "Available colours for the player's turn combo colour")
+![](img/multi-tag-colours.jpg "Available colours for the player's turn combo colour")
 :::
 
 If the team mode was set to `Tag co-op` or `Tag-team VS`, a `Tag Colour: (combo colour)` section will be shown which allows choosing a custom colour for each player. Setting this to `Default` will use the beatmap's original combo colours.
@@ -299,7 +299,7 @@ The colour of each player on the leaderboard while playing indicates the status 
 ##### Interface
 
 ::: Infobox
-![](img/Multi_HTH.jpg "Head-to-head interface")
+![](img/multi-hth-interface.jpg "Head-to-head interface")
 :::
 
 Head-to-head is a team mode where players duke it all out in a free-for-all match for the top spot on the leaderboard. This is the default team mode and does not have any special characteristics in gameplay, other than going for the top spot.
@@ -307,7 +307,7 @@ Head-to-head is a team mode where players duke it all out in a free-for-all matc
 ##### Results
 
 ::: Infobox
-![](img/Multi_grade.jpg "Head-to-head results screen")
+![](img/multi-hth-results.jpg "Head-to-head results screen")
 :::
 
 At the end of the match, the winner's avatar is shown in a big winner's box, along with the match leaderboard to the right
@@ -321,7 +321,7 @@ Each player will receive their match result as a private message in the `#userlo
 ##### Interface
 
 ::: Infobox
-![](img/Multi_team_vs.jpg "Team VS interface")
+![](img/multi-teamvs-interface.jpg "Team VS interface")
 :::
 
 Team VS pits two teams, Blue and Red, against each other.
@@ -333,7 +333,7 @@ Changing teams can be done while in the lobby. There is no handicap for teams wi
 ##### Results {#team-vs-results-screen}
 
 ::: Infobox
-![](img/Multi_team_grade.jpg "Team VS results screen")
+![](img/multi-teamvs-results.jpg "Team VS results screen")
 :::
 
 The winning team is announced at the top of the results screen.
@@ -349,11 +349,11 @@ The panels to the sides show results for each player in different tabs. The `Tot
 *Note: This team mode is unranked and only available in osu! mode.*
 
 ::: Infobox
-![](img/Multi_tag_co-op.jpg "Tag co-op interface")
+![](img/multi-coop-interface.jpg "Tag co-op interface")
 :::
 
 ::: Infobox
-![](img/Multi_tag_team_vs.jpg "Tag-team VS interface")
+![](img/multi-tagteam-interface.jpg "Tag-team VS interface")
 :::
 
 Tag co-op makes all players in the match work together to pass the beatmap, one combo at a time. `Tag-team VS` is just `Tag co-op` but with two teams playing against each other.
@@ -373,11 +373,11 @@ Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perf
 ##### Results
 
 ::: Infobox
-![](img/Multi_co-op_grade.jpg "Tag co-op results screen")
+![](img/multi-coop-results.jpg "Tag co-op results screen")
 :::
 
 ::: Infobox
-![](img/Multi_tag_team_grade.jpg "Tag-team VS results screen")
+![](img/multi-tagteam-results.jpg "Tag-team VS results screen")
 :::
 
 No ranked score or performance points are awarded for `Tag co-op` or `Tag-team VS` matches.
@@ -391,7 +391,7 @@ The `Tag-team VS` results screen is identical to the [`Team VS`'s results screen
 ### History
 
 ::: Infobox
-![](img/Multi_Mania_unpatched.jpg "Screenshot of the main lobby when osu!mania was first released (October 8, 2012), but not yet playable in multiplayer")
+![](img/legacy-multi-lobby.jpg "Screenshot of the main lobby when osu!mania was first released (October 8, 2012), but not yet playable in multiplayer")
 :::
 
 - The initial multiplayer version was implemented on June 3, 2008 in osu! Public Release b335.
