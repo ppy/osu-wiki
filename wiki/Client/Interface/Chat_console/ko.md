@@ -24,7 +24,7 @@ osu!의 대부분의 화면에서 `F8` 혹은 오른쪽 아래의 `Show Chat` �
 
 ## 확장 채팅 콘솔
 
-*[osu!academy](/wiki/Community/Video_series/osu!academy)의 [에피소드 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII)에서 [멀티 플레이](/wiki/Gameplay/Multiplayer) 항목과 함께 이 페이지에 대해서 다루었습니다.*
+*[osu!academy](/wiki/Community/Video_series/osu!academy)의 [에피소드 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII)에서 [멀티 플레이](/wiki/Client/Interface/Multiplayer) 항목과 함께 이 페이지에 대해서 다루었습니다.*
 
 osu!의 대부분의 화면에서 `F9` 혹은 오른쪽 아래의 `Online Users` 버튼을 클릭하면 확장 채팅 콘솔로 전환할 수 있습니다. 채팅 콘솔 위쪽 나머지 공간에 현재 로그인 한 유저에 대한 정보를 표시합니다.
 

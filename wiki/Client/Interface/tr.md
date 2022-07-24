@@ -47,12 +47,12 @@ Ana menünün sol üst kısmında bulunan profilinize tıklayarak bu ekranı gö
 ![](img/play-menu.jpg "Oynama Menüsü")
 
 - Yalnız oynamak için `Solo` butonuna (`P`) tıklayın.
-- Diğer insanlarla oynamak için `Multi` butonuna (`M`) tıklayın. [Çoklu](/wiki/Gameplay/Multiplayer) Lobisine yönlendirileceksiniz (aşağıda).
+- Diğer insanlarla oynamak için `Multi` butonuna (`M`) tıklayın. [Çoklu](/wiki/Client/Interface/Multiplayer) Lobisine yönlendirileceksiniz (aşağıda).
 - Ana menüye geri dönmek için `Back` butonuna tıklayın.
 
 ## Çoklu Lobisi
 
-*Ana sayfa: [Çoklu](/wiki/Gameplay/Multiplayer)*
+*Ana sayfa: [Çoklu](/wiki/Client/Interface/Multiplayer)*
 
 ![](img/multi-lobby.jpg "Çoklu Lobisi")
 
