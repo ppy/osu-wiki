@@ -46,6 +46,6 @@ Solltest du immer noch Probleme haben oder nach mehr Informationen suchen, lies 
 
 **Das [Support-Team](/wiki/People/The_Team/Account_support_team) nimmt keine Anfragen an, um hochgeladene Beatmaps manuell zu löschen.**
 
-Du kannst deine Beatmap selbst löschen, indem du wartest, dass sie auf dem Beatmap-Friedhof verfällt, was nach einem Monat (28 Tage) ohne Aktualisierungen passieren wird.
+Du kannst deine Beatmap selbst löschen, indem du wartest, dass sie auf dem Beatmap-Friedhof landet, was nach einem Monat (28 Tage) ohne Aktualisierungen passieren wird.
 
 Sobald sich deine Beatmap auf dem Friedhof befindet, kannst du sie über die [Diskussionsseite](/wiki/Beatmap_discussion) deiner Beatmap löschen, indem du auf den Button `Löschen` klickst, der nach etwas Herunterscrollen auf der rechten Seite des Bildschirms erscheint.
