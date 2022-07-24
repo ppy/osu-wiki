@@ -1,8 +1,3 @@
----
-outdated_since: 46a9f7c7d79fde8fd96098a16ac1203efd156ad1
-outdated_translation: true
----
-
 # Contributeurs de la communauté
 
 ![](/wiki/shared/contributor.jpg "Badge Contributor")
@@ -192,3 +187,27 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Contribution exceptionnelle à la scène de skinning et de modding d'osu! |
 | ::{ flag=US }:: [I Must Decrease](https://osu.ppy.sh/users/2773526) | Contribution exceptionnelle à l'entretien et au développement des scores |
 | ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) | Contribution exceptionnelle aux World Cups et aux tournois communautaires |
+
+## 2022
+
+### Juin
+
+*Pour l'article du news, voir : [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+
+| Utilisateur | Contributions |
+| :-- | :-- |
+| ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Contribution exceptionnelle aux tournois de la communauté osu!taiko |
+| ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Contribution exceptionnelle au développement d'osu!(lazer) |
+| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Contribution exceptionnelle au développement d'osu!(lazer) et d'osu!framework |
+| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Contribution exceptionnelle au développement et à la maintenance des points de performance d'osu!|
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Contribution exceptionnelle au développement des points de performance d'osu! |
+| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Contribution exceptionnelle au développement des points de performance d'osu! et à la revitalisation du mod Flashlight |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Contribution exceptionnelle au projet wiki d'osu! |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Contribution exceptionnelle au projet wiki d'osu! |
+| ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | Contribution exceptionnelle au support technique de macOS |
+| ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) | Contribution exceptionnelle à la gestion et à l'organisation de Project Loved |
+| ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Contribution exceptionnelle au mapping d'osu! via le développement d'un utilitaire |
+| ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Contribution exceptionnelle au mapping osu!taiko via le développement d'un utilitaire |
+| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Contribution exceptionnelle à la scène des tournois osu! et aux World Cups |
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Contribution exceptionnelle à la scène des tournois osu! et aux World Cups |
+| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Contribution exceptionnelle aux évènements osu! IRL et aux tournois |
