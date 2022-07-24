@@ -73,7 +73,7 @@ The Advanced Global Taiko Showdown 2022 was run by various community members.
 | ::{ flag=CN }:: | **China A** | **[\[GB\]Edward\_Tsui](https://osu.ppy.sh/users/8609627)**, [k1ryu](https://osu.ppy.sh/users/17411618), [Michaelonl](https://osu.ppy.sh/users/12480076), [OtakusRin](https://osu.ppy.sh/users/3383404), [shoucan91](https://osu.ppy.sh/users/9383908) |
 | ::{ flag=CN }:: | **China B** | **[antigen](https://osu.ppy.sh/users/10507557)**, [betairylia](https://osu.ppy.sh/users/1558839), [Flandre sca](https://osu.ppy.sh/users/10324309), [Lubei\_01](https://osu.ppy.sh/users/11692528), [Suisei\_Suki](https://osu.ppy.sh/users/16902173) |
 | ::{ flag=CO }:: | **Colombia** | **[L1ght](https://osu.ppy.sh/users/9050875)**, [Animaxgame25](https://osu.ppy.sh/users/16898745), [Coffecito](https://osu.ppy.sh/users/18793276), [Hermite](https://osu.ppy.sh/users/7945286), [sti](https://osu.ppy.sh/users/1271807) |
-| ::{ flag=FI }:: ::{ flag=LV }:: ::{ flag=PT }:: ::{ flag=VN }:: | **::{ flag=FI }:: ::{ flag=LV }:: ::{ flag=PT }:: ::{ flag=VN }::** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [Huntey](https://osu.ppy.sh/users/14451706), [Mazzuli500](https://osu.ppy.sh/users/10648818), [Rosa](https://osu.ppy.sh/users/7385703) |
+| ::{ flag=FI }:: ::{ flag=LV }:: ::{ flag=PT }:: ::{ flag=VN }:: | **Finland/Latvia/Portugal/Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [Huntey](https://osu.ppy.sh/users/14451706), [Mazzuli500](https://osu.ppy.sh/users/10648818), [Rosa](https://osu.ppy.sh/users/7385703) |
 | ::{ flag=FR }:: | **France A** | **[Briesmas](https://osu.ppy.sh/users/2865172)**, [BigNounours](https://osu.ppy.sh/users/11632258), [Chernobog](https://osu.ppy.sh/users/3317042), [Issuko](https://osu.ppy.sh/users/11447466), [Skama](https://osu.ppy.sh/users/4367742) |
 | ::{ flag=FR }:: | **France B** | **[Gintoki8](https://osu.ppy.sh/users/2239411)**, [Acii\_](https://osu.ppy.sh/users/11253595), [ALISTAR033009](https://osu.ppy.sh/users/9819975), [Lougui](https://osu.ppy.sh/users/13766261), [omegaflo](https://osu.ppy.sh/users/83291) |
 | ::{ flag=DE }:: | **Germany** | **[Sayira](https://osu.ppy.sh/users/7253958)**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [Emre1504](https://osu.ppy.sh/users/13392709), [Tolanorle](https://osu.ppy.sh/users/7329619), [xMrtn-](https://osu.ppy.sh/users/866297) |
@@ -442,7 +442,7 @@ Sunday, 5 June 2022:
 | United States B ::{ flag=US }:: | 1 | **5** | ::{ flag=JP }:: **Japan A** | [#1](https://osu.ppy.sh/community/matches/101218267) |
 | **Netherlands** ::{ flag=NL }:: | **5** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/101219770) |
 | Brazil ::{ flag=BR }:: | 2 | **5** | ::{ flag=FI }:: ::{ flag=LV }:: ::{ flag=PT }:: ::{ flag=VN }:: **Finland/Latvia/Portugal/Vietnam** | [#1](https://osu.ppy.sh/community/matches/101219773) |
-| **Mexico** ::{ flag=MX }:: | **0** | -1 | ::{ flag=PL}:: Poland | *win by default* |
+| **Mexico** ::{ flag=MX }:: | **0** | -1 | ::{ flag=PL }:: Poland | *win by default* |
 | **France A** ::{ flag=FR }:: | **0** | -1 | ::{ flag=AR }:: ::{ flag=CR }:: Argentina/Costa Rica | *win by default* |
 | **United States A** ::{ flag=US }:: | **5** | 0 | ::{ flag=FI }:: ::{ flag=LV }:: ::{ flag=PT }:: ::{ flag=VN }:: Finland/Latvia/Portugal/Vietnam | [#1](https://osu.ppy.sh/community/matches/101222969) |
 | Chile ::{ flag=CL }:: | 2 | **5** | ::{ flag=IT }:: **Italy** | [#1](https://osu.ppy.sh/community/matches/101223669) |
