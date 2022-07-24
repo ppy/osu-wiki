@@ -149,6 +149,34 @@ I hope you're all ready for this month's gimmick map, because this is one hell o
 
 Now let's dance our way into the next pick, shall we? :)
 
+[![](/wiki/shared/news/2022-07-18-project-loved-july-2022/1586184.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+
+[momone - why did i enter the art course](https://osu.ppy.sh/beatmapsets/1586184#taiko) by [My Angel Koishi](https://osu.ppy.sh/users/8273098), [miyagishima](https://osu.ppy.sh/users/8027517), [Myckoll](https://osu.ppy.sh/users/554976), [syaron105](https://osu.ppy.sh/users/8741695) and [uranosu1030](https://osu.ppy.sh/users/9029238)\
+219 BPM, 2:32 | 5.85★, 6.18★, 6.33★, 6.85★, 7.42★\
+*description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
+
+Every time we feature a hyperpop song, it means only one thing: slider velocity changes. This time, it's with *momone - why did i enter the art course*, a beatmapset with 5 difficulties done by different people:
+
+The "mind" difficulty done by uranosu1030 is mainly an Oni/Inner Oni diff with very easy-to-hit patterns focusing solely on following the main layer of the song, making up for a very welcoming experience for players on that skill range. Beware though, since layxa's SV toned up the difficulty a bit, but most of the gimmicks are introduced slowly and intuitively.
+
+On the other hand, "montage" by miyagishima is focused on difficulty through pattern density, spiced up with a few 1/6. SV takes more of a back seat and is used only for a slight flair, so this is a perfect map for people who enjoy more plain, "fair" kind of maps without the excessive SV you see nowadays.
+
+"mistake", done by My Angel Koishi themselves, is a slight step up from the previous two diffs, as it contains both the patterning focus while also introducing more SV changes with a bit of very high SV sections.
+
+"meish" by syaron105 is what you would call an "unnecessarily high SV diff", with various sections that go quite high on SV while not giving up on difficult patterns or even streams, requiring some high SV reading skill to properly play.
+
+Finally, we have "memory" by Myckoll, which is like all the previous diffs mixed together together and elevated to its maximum potential: REALLY high SV usage, very difficult ninja note gimmicks, slowjam sections with serious density, and very unforgiving patterning that will require you to practice this for hours in order to achieve a full combo.
+
+Enjoy!
+
+[![](/wiki/shared/news/2022-07-18-project-loved-july-2022/68333.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+
+[BlackY - Euryale](https://osu.ppy.sh/beatmapsets/68333#taiko) by [glalucard](https://osu.ppy.sh/users/577406)\
+185 BPM, 1:55 | 5.72★\
+*description written by [POCARI SWEAT](https://osu.ppy.sh/users/5082685)*
+
+Here's a classic one this time. \*BlackY - Euryale\* by glalucard is a really old beatmap that came out in 2012 ─ the era of ppv1. It could be strange to see how this map made its way into the Loved voting, but every player who tried this map has praised its structure and enjoyability. It has been 10 years since the map was out and yet it gives a remarkable experience to its players. It's also an excellent example of how to map complex streams while staying true to the song. We wish you'll find enjoyment and inspiration from this respectful creation of old times.
+
 [![](/wiki/shared/news/2022-07-18-project-loved-july-2022/833150.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [7_7 - Waga Na ha Gorori](https://osu.ppy.sh/beatmapsets/833150#taiko) by [7_7](https://osu.ppy.sh/users/7491106), [hoku](https://osu.ppy.sh/users/9503098), [KKN](https://osu.ppy.sh/users/5384639) and [KTYN](https://osu.ppy.sh/users/2250574)\
@@ -202,6 +230,30 @@ Are you looking for a map that has plenty of jumps? Well, look no further, Jerma
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
 After almost exactly four years, dazzulay returns to Loved with another really cool map. Overall it is clean and plays nice, with a few unrankable patterns here and there which do not greatly impact the way it plays. It is probably not very difficult for experienced players, so trying it with mods may be encouraged. Have fun!
+
+[![](/wiki/shared/news/2022-07-18-project-loved-july-2022/394927.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+
+[Kohmi Hirose - promise](https://osu.ppy.sh/beatmapsets/394927#fruits) by [Vincs](https://osu.ppy.sh/users/2026299)\
+248 BPM, 2:00 | 6.38★\
+*description written by [Kasumi-sama](https://osu.ppy.sh/users/6177263)*
+
+This is one of the biggest past osu!catch multiplayer classics, Vincs' CS0 *promise*.
+
+With its relentless jumps, paired with one of the most outlandish CS values here, you're sure to be in for a fun ride. This is truly a map fitting for the Loved section, and its addition here has been way overdue, as I'm sure many of you will agree.
+
+It's not too hard of a map, but you can easily get caught off guard by it. Just be careful!
+
+[![](/wiki/shared/news/2022-07-18-project-loved-july-2022/662173.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+
+[Zedd - Clarity feat. Foxes (IOSYS uno DENPA Remix)](https://osu.ppy.sh/beatmapsets/662173#fruits) by [Cera-](https://osu.ppy.sh/users/1974131) and [Dika312](https://osu.ppy.sh/users/741613)\
+200 BPM, 3:33 | 5.25★, 5.92★, 6.37★\
+*description written by [Sartan](https://osu.ppy.sh/users/4100941)*
+
+Hey you, you know the drill: there is a new mapper in the Loved selection, so give a warm welcome to Cera- for their first entry! Throughout the last 4 years, *Clarity* got quite a number of plays and became a popular map among the people who like to scour the unranked section. So, here it is, due to popular request!
+
+Clarity has a total of 3 difficulties, all of which are meant for players who are at least at intermediate level. Though the map is not ridiculously hard either, the song's upbeat and high-tempo and will definitely get your heartbeat going.
+
+So, just to be clear, you're going to vote, right?!
 
 ## osu!mania
 
@@ -285,6 +337,30 @@ Hot take, but Ratatouille is the main reason why Gen Z people suffer from Paris 
 When getting into this map, do expect having to deal with a long note release fiesta. It's really fun if you can nail it, but if you lack the coordination, you're going to be in for a bad time. Maybe it's the faster bursts that might throw you off. Maybe it's the walls you'll have to face. In any case, the song and chart slaps, and just for once I'm thankful to the French for that reason.
 
 Also, [contextless spoiler.](https://twitter.com/TheFunny_mp4/status/1442537156900126726?s=20&t=iUJRw-8tDcTqpNIaUqQ2tw)
+
+[![](/wiki/shared/news/2022-07-18-project-loved-july-2022/925550.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+
+[Kana Nishino - GO FOR IT !! (Cut Ver.)](https://osu.ppy.sh/beatmapsets/925550#mania) by [Kawawa](https://osu.ppy.sh/users/4647754)\
+147 – 205.8 BPM, 2:30 | 5.67★, 6.16★, 6.64★, 7.12★, 7.60★\
+*description written by [kadoen](https://osu.ppy.sh/users/12780575)*
+
+As one of the best known mappers in 7K, Kawawa doesn't need any introduction. Back in 2020 the first entry of their "Bracket Challenge" series, *[Ichinen Nikagetsu Hatsuka](https://osu.ppy.sh/beatmapsets/895652)* was nominated and Loved — now we're bringing to you the second entry in the series, *GO FOR IT !!*.
+
+You know the drill; the map consists of consistent chordstreams throughout with very heavy bracket usage, set to an upbeat J-pop song. It clocks in at 147 BPM, and the set includes rates up to 1.4x, a staggering 206 BPM!
+
+All-in-all this is a great set to practice the tricky patterns that are brackets, adapted for multiple skill levels. Now, stretch your fingers and vote!
+
+[![](/wiki/shared/news/2022-07-18-project-loved-july-2022/665713.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+
+[Memme - Chinese Restaurant](https://osu.ppy.sh/beatmapsets/665713#mania) by [Dety](https://osu.ppy.sh/users/8716749)\
+175 BPM, 1:48 | 8.68★\
+*description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
+
+Destiny19 is one of the more controversial 7K mappers due to his absolutely unique and ruthless style. However, it seems the community enjoys it very much, and *Chinese Restaurant* has gathered a sizeable amount of plays and recognition.
+
+Being a classic O2Jam map, it's packed with high-level LN streams and shields that require high amounts of noodle prowess. The spicy and fast patterning is rather difficult to combo, especially in the chorus sections. On the other hand, Destiny's experience in charting challenging LN maps makes these patterns work well with each other and rewards everyone who's able to hit them correctly.
+
+This map is quite a challenge, so it makes us excited about the potential top scores set on it. If you want to give *Chinese Restaurant* a leaderboard and slurp some noodles, be sure to participate in the voting!
 
 [![](/wiki/shared/news/2022-07-18-project-loved-july-2022/867748.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
