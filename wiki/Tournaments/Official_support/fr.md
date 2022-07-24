@@ -3,8 +3,6 @@ tags:
   - badge
   - badges
   - badged
-outdated_since: 6913d0808f4e9fa9e5f4c9d17cd3cd9158be3d3e
-outdated_translation: true
 ---
 
 # Support officiel aux tournois
@@ -154,11 +152,14 @@ Les tournois communautaires de longue durée peuvent bénéficier d'une bannièr
 Si vous répondez aux critères ci-dessus, vous pouvez faire une demande de support de bannière de menu principal en envoyant un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh). L'image de la bannière doit respecter les normes suivantes :
 
 - Le fichier envoyé doit être un **PNG**.
-- Les dimensions doivent être de **1500x256px**.
-  - Toutes les images de bannière seront traitées comme des `2x`, ce qui signifie que nous les exporterons à une échelle de 50% en une image `1x`. Concevez vos images de manière à ce qu'elles soient lisibles à la moitié de leur taille.
+- La largeur ne doit pas être supérieure à **1000px**. Des largeurs inférieures sont acceptables.
+- La hauteur doit toujours être de **180px**. Les autres valeurs NE conviennent PAS.
+- Toutes les images de bannières seront traitées en tant que `2x`, ce qui signifie qu'elles seront exportées à une échelle de 50% dans une image `1x`. Concevez vos images de manière à ce qu'elles soient lisibles à la moitié de leur taille. Les utilisateurs verront l'une ou l'autre image en fonction de la résolution qu'ils ont choisie pour leur client.
 - Elle doit clairement afficher le logo, le motif ET le nom de votre tournoi, ainsi que toute information sur l'étape ou la section en cours qui fait l'objet de la publicité.
 - Il doit être conçu proprement, en mettant l'accent sur la transparence et la discrétion visuelle.
 - Il ne doit pas inclure de parrainage ni promouvoir quoi que ce soit d'autre que le tournoi.
+
+[Téléchargez un modèle d'image pour les bannières du menu principal ici.](https://assets.ppy.sh/media/mainmenu_template.png)
 
 Veuillez consulter les exemples suivants de conceptions de bannières acceptables :
 
