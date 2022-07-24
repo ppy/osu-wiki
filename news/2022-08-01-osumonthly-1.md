@@ -241,7 +241,7 @@ We wanted to thank the osu!team and the contributors to [osu!lazer](https://gith
 
 If you're interested on seeing the creation processus, the backstages of osu!, please join the [osu!dev server](https://discord.gg/ppy)! (Articles from external contributors are welcome)
 
-While waiting for the next article, we want to thank in advance all of the community members who'll send us messages about subjects you want covered. If you have any feedback or thoughts about the osu!monthly, pour it all in the forum [discussion thread]()!
+While waiting for the next article, we want to thank in advance all of the community members who'll send us messages about subjects you want covered. If you have any feedback or thoughts about the osu!monthly, pour it all in the forum [discussion thread](https://osu.ppy.sh/community/forums/topics/1614314)!
 
 It's a real honor for us to write for you, the community. Thanks for reading, and see you soon for the next article, in September! ❤️
 
