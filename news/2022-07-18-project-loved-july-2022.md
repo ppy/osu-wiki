@@ -4,11 +4,28 @@ title: "Project Loved: July 2022"
 date: 2022-07-18 10:00:00 +0000
 ---
 
-
+Check out the latest picks from the captains at Project Loved!
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
+For those unfamiliar, Project Loved hosts monthly votings to decide which nominated maps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). You can click on each of the map's banners in this post to go to its poll on the forums, or visit [the forum](https://osu.ppy.sh/community/forums/120) for a list of all of the polls. Polls will be open for 10 days, so make sure to cast your votes in time! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh)!
 
+Detailed results for the previous round can be found on the [poll results page of the website](https://loved.sh/statistics) or in the following forum posts:
+
+- [osu!](https://osu.ppy.sh/community/forums/posts/8694723)
+- [osu!taiko](https://osu.ppy.sh/community/forums/posts/8694722)
+- [osu!catch](https://osu.ppy.sh/community/forums/posts/8694721)
+- [osu!mania](https://osu.ppy.sh/community/forums/posts/8694720)
+
+Before getting into this month's picks, we want to give thanks to [Pachiru](https://osu.ppy.sh/users/2850983) for his effort in coordinating Project Loved throughout 2021 and 2022 — there were many rounds where this whole shebang would have ground to a halt if he hadn't been there to maintain the project, contact mappers, keep everything on-schedule, and make these announcements. He recently stopped working on Loved, but in all likelihood he'll still be a familiar face around mapping, modding, and moderation.
+
+In other news, the osu! captains of Project Loved have some important updates to share:
+
+First, they've published an **application to join the osu! captains**, available at [**this Google form**](https://docs.google.com/forms/d/e/1FAIpQLSd9jLuzv86yLEnx1MQYzdoLqMccahspgAzZSEn4n1Qsr-DLHQ/viewform). Becoming a captain never was supposed to be a closed-off process, but it may have felt this way with the lack of explicit outreach. We hope to see some more friends inspired to help out with picking osu!'s Loved candidates!
+
+Second, and also related to making osu!'s Project Loved section feel more accessible, **a [Discord server](https://discord.gg/gn58Uk5sTE) was opened** as another place to give feedback or just hang out and chat about all things osu! Loved. As a reminder, Project Loved has presence in many other Discord servers that you can find linked on [the website](https://loved.sh/more).
+
+That's all for the updates, now onto July's picks!
 
 ### Navigation
 
@@ -283,6 +300,10 @@ Vote today if you want to see *Loadstar* in the Loved section!
 
 ---
 
+From [everyone working on Project Loved](https://loved.sh/contributors), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end.
 
+More info about Project Loved can be found on its [wiki page](https://osu.ppy.sh/wiki/en/Community/Project_Loved) and [website](https://loved.sh). Stop by the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy) if you have any questions, concerns, or are interesting in helping out.
+
+See you next month!
 
 —clayton, bonkmi, and dyndenial
