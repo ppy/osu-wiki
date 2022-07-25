@@ -22,28 +22,19 @@ no_native_review: true
 
 ## 成員
 
-- ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578)
-- ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656)
-- ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263)
-- ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779)
-- ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718)
-- ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227)
-- ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)
-- ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189)
-- ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416)
-- ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265)
-- ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973)
+- ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
+- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
+- ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
+- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
+- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
+- ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
+- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
+- ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
+- ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
+- ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)
+- ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)
 
 ## 名人堂
 
-- ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393)
-
-[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
-[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_CL]: /wiki/shared/flag/CL.gif "智利"
-[flag_FR]: /wiki/shared/flag/FR.gif "法國"
-[flag_GB]: /wiki/shared/flag/GB.gif "英國"
-[flag_NL]: /wiki/shared/flag/NL.gif "荷蘭"
-[flag_US]: /wiki/shared/flag/US.gif "美國"
+- ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)

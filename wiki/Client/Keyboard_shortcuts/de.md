@@ -43,7 +43,7 @@ Diese Kürzel können überall verwendet werden:
 | `Esc` | Zurückgehen oder Aktion abbrechen. |
 | `P`, `E` oder `O` | Öffne das Spielmenü. |
 | `P` dreimal | Betrete den Einzelspielermodus. |
-| `P` zweimal, dann `M` | Betrete den [Mehrspielermodus](/wiki/Gameplay/Multiplayer). |
+| `P` zweimal, dann `M` | Betrete den [Mehrspielermodus](/wiki/Client/Interface/Multiplayer). |
 | `E` zweimal | Betrete den Editiermodus. |
 | `O` | Öffne die Optionen-Seitenleiste. |
 | `Q` | Zeigt die Aufforderung zum Verlassen an. |
@@ -64,7 +64,7 @@ Diese Kürzel können überall verwendet werden:
 
 ## Songauswahl
 
-*Tipp: Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Gameplay/Multiplayer).*
+*Tipp: Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Client/Interface/Multiplayer).*
 
 | Kürzel | Aktion |
 | :-- | :-- |

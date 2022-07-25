@@ -19,7 +19,7 @@ Liens :
 Le 08/10/2012, osu!mania a finalement été publié au public, build ([woc2006](https://osu.ppy.sh/users/1105845)) ! En plus de cela :
 
 - Des hitsounds par objet ont été ajoutés dans l'éditeur. ([mm201](https://osu.ppy.sh/users/30655))
-- La possibilité de se remettre d'un miss en [multijoueur](/wiki/Gameplay/Multiplayer) en atteignant tous les HP. (Exception faite si le mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) ou [Perfect](/wiki/Game_modifier/Perfect) sont activée).
+- La possibilité de se remettre d'un miss en [multijoueur](/wiki/Client/Interface/Multiplayer) en atteignant tous les HP. (Exception faite si le mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) ou [Perfect](/wiki/Game_modifier/Perfect) sont activée).
 - Un support du défilement pour la liste de classement en ligne dans le jeu.
 - Des corrections sur le [sélecteur de skin](/wiki/Client/Options#skin) afin de rendre le jeu plus réaliste.
 
@@ -68,7 +68,7 @@ Le 22/11/2012 :
 - Mise à jour de la localisation. Plus de langues ont été ajoutées.
 - Un clic droit sur une beatmap non courante peut permettre l'option d'affichage d'une beatmap lors de la sélection de la musique sans l'ouvrir au préalable avec un clic gauche.
 - Amélioration de DirectX.
-- Ajout du bouton `Quick Join` en ([Multi](/wiki/Gameplay/Multiplayer)).
+- Ajout du bouton `Quick Join` en ([Multi](/wiki/Client/Interface/Multiplayer)).
 - Les paramètres des spoilers amusants étaient disponibles lors d'un replay/spectateur d'un joueur.
 
 La localisation d'[osu! localisation project v2](https://osu.ppy.sh/community/forums/topics/104342) a été ajoutée. Vous pouvez trouver la localisation à la page [Options](/wiki/Client/Options) dans l'onglet `Graphiques` sous `Langues`.

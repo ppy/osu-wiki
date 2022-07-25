@@ -443,6 +443,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Expert Global Taiko Showdown 2021](GTS/EGTS_2021) | 2021-10-02 | 2021-11-28 | ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
 | [Squad Global Taiko Showdown 2021](GTS/SGTS_2021) | 2022-01-08 | 2022-02-20 | おまかせ | Ham | 皇-SUMERAGI- |
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 2022-03-26 | 2022-05-08 | ![][flag_JP] Japan A | ![][flag_HK] Hong Kong | ![][flag_US] United States B |
+| [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 2022-05-28 | 2022-07-10 | ![][flag_MY] Malaysia | ![][flag_CN] China A | ![][flag_KR] South Korea |
+| [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 2022-08-13 | 2022-10-09 | - | - | - |
 
 #### North & South American Taiko Tournament
 
