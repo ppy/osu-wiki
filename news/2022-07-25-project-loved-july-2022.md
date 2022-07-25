@@ -23,7 +23,7 @@ In other news, the osu! captains of Project Loved have some important updates to
 
 First, they've published an **application form to join the osu! captains**, available via [**Google Forms**](https://docs.google.com/forms/d/e/1FAIpQLSd9jLuzv86yLEnx1MQYzdoLqMccahspgAzZSEn4n1Qsr-DLHQ/viewform). Becoming a captain never was supposed to be a closed-off process, but it may have felt this way with the lack of explicit outreach. We hope to see some more friends inspired to help out with picking osu!'s Loved candidates!
 
-Second, and also related to making osu!'s Project Loved section feel more accessible, **a [Discord server](https://discord.gg/gn58Uk5sTE) was opened** as another place to give feedback or just hang out and chat about all things osu! Loved. As a reminder, Project Loved has presence in many other Discord servers that you can find linked on [the website](https://loved.sh/more).
+Second, and also related to making Project Loved feel more accessible, **a [Discord server](https://discord.gg/gn58Uk5sTE) was opened** as another place to give feedback or just hang out and chat about all things osu! Loved. As a reminder, Project Loved has presence in many other Discord servers that you can find linked on [the website](https://loved.sh/more).
 
 That's all for the updates, now onto July's picks!
 
