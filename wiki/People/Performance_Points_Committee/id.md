@@ -18,9 +18,6 @@ Panel mode osu!taiko dibentuk pada tanggal 1 Mei 2022 sebagai bentuk respon dari
 
 ### osu!
 
-
-### osu!
-
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
