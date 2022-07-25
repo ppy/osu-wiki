@@ -6,7 +6,7 @@
 
 *Notice: Visual settings changes are saved per beatmap but some of them will be lost after closing osu!. To set these globally (and forever) use the [options](/wiki/Client/Options) sidebar.*
 
-Alternatively, it is possible to access visual settings overlay by pausing the game. However, this method does not work in [Multi](/wiki/Gameplay/Multiplayer) matches as it will be treated as attempting to quit the match and leave the room instead.
+Alternatively, it is possible to access visual settings overlay by pausing the game. However, this method does not work in [Multi](/wiki/Client/Interface/Multiplayer) matches as it will be treated as attempting to quit the match and leave the room instead.
 
 ## Settings
 

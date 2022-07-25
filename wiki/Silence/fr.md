@@ -16,7 +16,7 @@ Les utilisateurs qui sont réduits au silence par les modérateurs ne peuvent pa
 - Participez aux [discussions sur les beatmaps](/wiki/Beatmap_discussion)
 - Modifier les détails du profil (par exemple, l'avatar, la section "moi!")
 - Envoyer et mettre à jour les beatmaps
-- Participer à des jeux [multijoueurs](/wiki/Gameplay/Multiplayer)
+- Participer à des jeux [multijoueurs](/wiki/Client/Interface/Multiplayer)
 
 En outre, tous les messages d'un utilisateur réduit au silence sont supprimés de tous les canaux de discussion et des conversations privées [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5).
 

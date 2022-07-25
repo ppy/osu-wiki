@@ -39,7 +39,7 @@ outdated_translation: true
 
 [游戏模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Hit_object) • [模组 (Mods)](/wiki/Game_modifier) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Gameplay/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Gameplay/Multiplayer)
+[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Hit_object) • [模组 (Mods)](/wiki/Game_modifier) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Gameplay/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -1884,7 +1884,7 @@ Notes :
 
 Notes :
 
-- Cet élément est utilisé uniquement en [multi](/wiki/Gameplay/Multiplayer).
+- Cet élément est utilisé uniquement en [multi](/wiki/Client/Interface/Multiplayer).
 
 ## Entrée du score
 
@@ -2152,7 +2152,7 @@ Notes :
 Notes :
 
 - Cet élément est utilisé pour les classements dans le jeu.
-- Cet élément est utilisé dans les parties [Multi](/wiki/Gameplay/Multiplayer) lorsque la condition de victoire est définie sur la précision.
+- Cet élément est utilisé dans les parties [Multi](/wiki/Client/Interface/Multiplayer) lorsque la condition de victoire est définie sur la précision.
 - Teinté en blanc.
 
 ---
