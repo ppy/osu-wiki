@@ -10,7 +10,7 @@ tags:
 
 Panel mode osu! pertama kali diperkenalkan kepada publik melalui [artikel berita *Performance Points & Star Rating Updates* pada bulan November 2021](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) sebagai bentuk tanggapan dari hasil [survei komunitas](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) yang diselenggarakan beberapa bulan sebelumnya.
 
-Panel mode osu!mania dibentuk pada tanggal 22 April 2022 sebagai bentuk respon dari hasil [survei komunitas mengenai performance points dan star rating pada mode permainan osu!taiko dan osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) yang diselenggarakan beberapa bulan sebelumnya, dan antisipasi terhadap pengembangan yang pesat. held earlier that year, as well as in anticipation of a surge in active development effort, yang dimulai dengan [perubahan algoritma perhitungan tingkat kesulitan pelepasan hold note pada osu!mania](https://github.com/ppy/osu/pull/17913).
+Panel mode osu!mania dibentuk pada tanggal 22 April 2022 sebagai bentuk respon dari hasil [survei komunitas mengenai performance points dan star rating pada mode permainan osu!taiko dan osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) yang diselenggarakan beberapa bulan sebelumnya, dan antisipasi terhadap pengembangan yang pesat, yang dimulai dengan [perubahan algoritma perhitungan tingkat kesulitan pelepasan hold note pada osu!mania](https://github.com/ppy/osu/pull/17913).
 
 Panel mode osu!taiko dibentuk pada tanggal 1 Mei 2022 sebagai bentuk respon dari hasil survei di atas, dengan [rencana-rencana untuk perubahan besar terhadap algoritma star rating](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
 
