@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changes within the Mappers' Guild
-date: 2022-07-25 20:00:00 +0000
+date: 2022-07-25 06:00:00 +0000
 ---
 
 The **Mappers' Guild** dishes out some exciting news for anyone interested in mapping contests, Featured Artists, beatmap pack medals, and a bunch more!
