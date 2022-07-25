@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changes within the Mappers' Guild
-date: 2022-07-25 10:00:00 +0000
+date: 2022-07-25 20:00:00 +0000
 ---
 
 The **Mappers' Guild** dishes out some exciting news for anyone interested in mapping contests, Featured Artists, beatmap pack medals, and a bunch more!
@@ -34,23 +34,23 @@ To ensure medals are released with a *bit* more consistency, we've scheduled **o
 
 We'll kick things off with **3** new packs — one from each category above.
 
-**Touhou theme beatmap pack**
+[**Touhou theme beatmap pack**](LINK)
 
 ![Touhou theme beatmap pack medal](LINK)
 
-**ginkiha artist beatmap pack**
+[**ginkiha artist beatmap pack**](LINK)
 
 ![ginkiha artist beatmap pack medal](LINK)
 
-**MUZZ challenge beatmap pack**
+[**MUZZ challenge beatmap pack**](LINK)
 
 ![MUZZ challenge beatmap pack medal](LINK)
 
-### Upcoming beatmap packs
+### Upcoming beatmap packs and medals
 
 "What about the rest of the packs?", you might be asking.
 
-**Future beatmap packs will be introduced throughout our new Featured Artist announcements.** Keep track of those if you're at all interested in the future of beatmap packs and medals!
+**Future beatmap packs (and some top secret hush-hush medals) will be introduced periodically starting next month.** Look forward to it!
 
 ## Pre-release beatmaps for upcoming Featured Artists
 
