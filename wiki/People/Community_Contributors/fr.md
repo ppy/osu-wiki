@@ -146,7 +146,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 
 ### Février
 
-*Pour l'article du news, voir : [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+*Pour l'article de news, voir : [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
 | Utilisateur | Contributions |
 | :-- | :-- |
@@ -176,7 +176,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 
 ### Mars
 
-*Pour l'article du news, voir : [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+*Pour l'article de news, voir : [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
 | Utilisateur | Contributions |
 | :-- | :-- |
@@ -192,22 +192,22 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 
 ### Juin
 
-*Pour l'article du news, voir : [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+*Pour l'article de news, voir : [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
 
 | Utilisateur | Contributions |
 | :-- | :-- |
 | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Contribution exceptionnelle aux tournois de la communauté osu!taiko |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Contribution exceptionnelle au développement d'osu!(lazer) |
 | ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Contribution exceptionnelle au développement d'osu!(lazer) et d'osu!framework |
-| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Contribution exceptionnelle au développement et à la maintenance des points de performance d'osu!|
+| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Contribution exceptionnelle au développement et à la maintenance des points de performance d'osu! |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Contribution exceptionnelle au développement des points de performance d'osu! |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Contribution exceptionnelle au développement des points de performance d'osu! et à la revitalisation du mod Flashlight |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Contribution exceptionnelle au projet wiki d'osu! |
-| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Contribution exceptionnelle au projet wiki d'osu! |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Contribution exceptionnelle au projet osu! wiki |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Contribution exceptionnelle au projet osu! wiki |
 | ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | Contribution exceptionnelle au support technique de macOS |
-| ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) | Contribution exceptionnelle à la gestion et à l'organisation de Project Loved |
+| ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) | Contribution exceptionnelle à la gestion et à l'organisation du Project Loved |
 | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Contribution exceptionnelle au mapping d'osu! via le développement d'un utilitaire |
 | ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Contribution exceptionnelle au mapping osu!taiko via le développement d'un utilitaire |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Contribution exceptionnelle à la scène des tournois osu! et aux World Cups |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Contribution exceptionnelle à la scène des tournois osu! et aux World Cups |
-| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Contribution exceptionnelle aux évènements osu! IRL et aux tournois |
+| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Contribution exceptionnelle aux évènements IRL d'osu! et aux tournois |
