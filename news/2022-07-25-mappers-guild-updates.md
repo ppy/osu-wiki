@@ -4,13 +4,13 @@ title: Changes within the Mappers' Guild
 date: 2022-07-25 06:00:00 +0000
 ---
 
-The **Mappers' Guild** dishes out some exciting news for anyone interested in mapping contests, Featured Artists, beatmap pack medals, and a bunch more!
+The **Mappers' Guild** is here to dish out some exciting news for anyone interested in mapping contests, Featured Artists, beatmap pack medals, and a bunch more!
 
 ![](/wiki/shared/news/banners/mappersguild.png)
 
 Never heard of the [**Mappers' Guild**](/wiki/Community/Mappers_Guild)?
 
-The guild is a way for mappers to earn rewards for mapping songs from osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists). In the last 5 years, the **Mappers' Guild** expanded to [its own website](https://mappersguild.com) and includes plenty of extra mapping-related opportunities!
+A growing hub in the mapping world, the Mappers' Guild is a way for creators to earn rewards for mapping songs from osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists). In the last 5 years, the **Mappers' Guild** expanded to [its own website](https://mappersguild.com) and includes plenty of extra mapping-related opportunities!
 
 This article covers the biggest changes to the **Mappers' Guild** since [our last home page update](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild). The topics are unrelated to each other, so feel free to skip around:
 
@@ -71,7 +71,7 @@ Want your own maps showcased on the [@osugame Twitter](https://twitter.com/osuga
 
 ### Showcase beatmap requirements
 
-The objective of [Featured Artist showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) is to create hype for artist announcements and provide players a way to engage with these news posts.
+The objective of the [Featured Artist showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) is to create hype for artist announcements and provide players a way to engage with them.
 
 That said, there's a few things you should know before diving head first into this:
 
@@ -85,7 +85,7 @@ The next round of Featured Artist showcase beatmaps will be coordinated *very so
 
 How do you create a mapping contest? How do you anonymize beatmap submissions? How do you judge mapping contests without stone age spreadsheets? Where does anyone even *find* mapping contests?
 
-Mapping contests have always faced systemic problems. The [**Mappers' Guild** contest listing](https://mappersguild.com/contests/listing) aims to solve them.
+Mapping contests have always faced systemic problems. The new [**Mappers' Guild** contest listing](https://mappersguild.com/contests/listing) aims to solve them.
 
 ![](/wiki/shared/news/2022-07-25-mappers-guild-updates/contest-listing.png)
 
