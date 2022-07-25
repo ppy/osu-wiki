@@ -210,7 +210,7 @@ The *osu! Beatmap Blueprints Contest* is a one-off contest held in commemoration
 
 ### Skinning Contest
 
-The **Skinning Contest** is a skinning contest where artistic creators from all across the community compete to create the best skin in a limited time. 
+The **Skinning Contest** is a skinning contest where artistic creators from all across the community compete to create the best skin in a limited time.
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
@@ -251,12 +251,12 @@ The **osb! Storyboarding Contest** is a storyboarding contest where participatin
 
 ### osu!taiko Featured Artist Cup
 
-The **osu!taiko Featured Artist Cup** is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists. The contest sometimes has specific limitations/gimmicks in order to put the contestants' skills to the test.
+The **osu!taiko Featured Artist Cup** is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists. The contest sometimes features specific limitations/gimmicks in order to put the contestants' skills to the test.
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/o!tFAC/1) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
-| [#2](/wiki/Contests/o!tFAC/2) | *TBD* | *TBD* | *TBD* | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
+| [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
 
 ### Slider Velocity Showdown
 
