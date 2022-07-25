@@ -251,7 +251,7 @@ La **osu!taiko Featured Artist Cup** est un concours de mapping osu!taiko où il
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/o!tFAC/1) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
-| [#2](/wiki/Contests/o!tFAC/2) | *À déterminer* | *À déterminer* | *À déterminer* | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
+| [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
 
 ### Slider Velocity Showdown
 
