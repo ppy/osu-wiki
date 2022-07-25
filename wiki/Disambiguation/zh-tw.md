@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 消歧義
 
 [osu! wiki](/wiki/Main_Page) 中的**消歧義**文章標出了易被混淆的術語並解釋其各種可能的含義。
