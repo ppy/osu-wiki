@@ -145,7 +145,7 @@ osu!のヒットオブジェクトは、各ヒットオブジェクトが時間�
       - メーターはスピナーの外側の輪郭の色が変化します。輪郭の色が完全に変わるとスピナーは終了します。
 - リーダーボードが稼動した日（2007年10月7日）にランクインしたビートマップは3つあります。
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1) これは約1時間で作られました。
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 )
+  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3)
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16)
 - 古いフォルダ名には`{BeatmapSetID} {ArtistName} - {BeatmapName}`という独自の形式があり(これは古いビートマックパックでのみ見つけることができます)、現在の形式に厳密には従っていません。
   - サイトから直接ダウンロードする場合は、現在の形式に変わります。
