@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup
 
-The **UK Community Cup** (***UKCC***) was a 1v1 double-elimination British osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) and ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379). It was the first instalment of the UK Community Cup series and the series' first 1v1 competition.
+The **UK Community Cup** (***UKCC***) was a 1v1 double-elimination British osu! tournament hosted by ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) and ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379). It was the first instalment of the UK Community Cup series and the series' first 1v1 competition.
 
 ## Tournament schedule
 
@@ -30,12 +30,12 @@ The UK Community Cup is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
-| Mappool selector | ![][flag_PL] [Wilchq](https://osu.ppy.sh/users/2021758), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379), ![][flag_MY] [Tohka Yatogami](https://osu.ppy.sh/users/6621879), ![][flag_GB] [Sobriquet](https://osu.ppy.sh/users/3891023) |
-| Streamer | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Zainny](https://osu.ppy.sh/users/4621060) |
-| Commentator | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379), ![][flag_MY] [Tohka Yatogami](https://osu.ppy.sh/users/6621879), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [MrSisterFister](https://osu.ppy.sh/users/3082695), ![][flag_GB] [Mafham](https://osu.ppy.sh/users/3660531), ![][flag_GB] [Rime](https://osu.ppy.sh/users/1397232) |
-| Designer | ![][flag_GB] [Pygmypuffy](https://osu.ppy.sh/users/6340618) |
-| Referee | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [RevRoadster](https://osu.ppy.sh/users/5139514), ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142), ![][flag_BE] [Daxxor](https://osu.ppy.sh/users/4601537), ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [minorman4](https://osu.ppy.sh/users/4837257), ![][flag_DE] [\_Easy\_](https://osu.ppy.sh/users/5948335), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_GB] [Sobriquet](https://osu.ppy.sh/users/3891023), ![][flag_LV] [Linins](https://osu.ppy.sh/users/5026351), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_GB] [Zainny](https://osu.ppy.sh/users/4621060), ![][flag_IE] [Demon](https://osu.ppy.sh/users/3991596), ![][flag_GB] [Isozaki](https://osu.ppy.sh/users/3987676), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_RS] [Sircircle](https://osu.ppy.sh/users/3794917) |
+| Host | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379) |
+| Mappool selector | ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=MY }:: [Tohka Yatogami](https://osu.ppy.sh/users/6621879), ::{ flag=GB }:: [Sobriquet](https://osu.ppy.sh/users/3891023) |
+| Streamer | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Zainny](https://osu.ppy.sh/users/4621060) |
+| Commentator | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=MY }:: [Tohka Yatogami](https://osu.ppy.sh/users/6621879), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [MrSisterFister](https://osu.ppy.sh/users/3082695), ::{ flag=GB }:: [Mafham](https://osu.ppy.sh/users/3660531), ::{ flag=GB }:: [Rime](https://osu.ppy.sh/users/1397232) |
+| Designer | ::{ flag=GB }:: [Pygmypuffy](https://osu.ppy.sh/users/6340618) |
+| Referee | ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=GB }:: [RevRoadster](https://osu.ppy.sh/users/5139514), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142), ::{ flag=BE }:: [Daxxor](https://osu.ppy.sh/users/4601537), ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [minorman4](https://osu.ppy.sh/users/4837257), ::{ flag=DE }:: [\_Easy\_](https://osu.ppy.sh/users/5948335), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=GB }:: [Sobriquet](https://osu.ppy.sh/users/3891023), ::{ flag=LV }:: [Linins](https://osu.ppy.sh/users/5026351), ::{ flag=GB }:: [-Konner-](https://osu.ppy.sh/users/6108644), ::{ flag=GB }:: [Zainny](https://osu.ppy.sh/users/4621060), ::{ flag=IE }:: [Demon](https://osu.ppy.sh/users/3991596), ::{ flag=GB }:: [Isozaki](https://osu.ppy.sh/users/3987676), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467), ::{ flag=RS }:: [Sircircle](https://osu.ppy.sh/users/3794917) |
 
 ## Links
 
@@ -49,11 +49,11 @@ The UK Community Cup is run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| 1-8 | ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373), ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [koki](https://osu.ppy.sh/users/846235), ![][flag_GB] [Desired](https://osu.ppy.sh/users/2752380), ![][flag_GB] [Woffel](https://osu.ppy.sh/users/3915122), ![][flag_GB] [Summer Solstice](https://osu.ppy.sh/users/3233710) |
-| 9-16 | ![][flag_GB] [rafalbrew](https://osu.ppy.sh/users/3872602), ![][flag_GB] [Mafham](https://osu.ppy.sh/users/3660531), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_GB] [KiTeaa](https://osu.ppy.sh/users/4361513), ![][flag_GB] [Xim](https://osu.ppy.sh/users/2083664), ![][flag_GB] [Wario](https://osu.ppy.sh/users/4361729), ![][flag_GB] [jesse1412](https://osu.ppy.sh/users/230116), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597) |
-| 17-32 | ![][flag_GB] [Josh](https://osu.ppy.sh/users/2510409), ![][flag_GB] [nsm](https://osu.ppy.sh/users/3455174), ![][flag_GB] [Rime](https://osu.ppy.sh/users/1397232), ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142), ![][flag_IE] [Aernat](https://osu.ppy.sh/users/4073754), ![][flag_GB] [Sway](https://osu.ppy.sh/users/2412218), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379), ![][flag_GB] [Kuramu](https://osu.ppy.sh/users/4159167), ![][flag_GB] [Proteus](https://osu.ppy.sh/users/4073572), ![][flag_GB] [YunoWhoItIs](https://osu.ppy.sh/users/1331455), ![][flag_GB] [The Fetish](https://osu.ppy.sh/users/4433793), ![][flag_GB] [Taiitoo](https://osu.ppy.sh/users/1144822), ![][flag_GB] [Kestler](https://osu.ppy.sh/users/4750710), ![][flag_IE] [Panda King](https://osu.ppy.sh/users/3723568), ![][flag_GB] [Praestigium](https://osu.ppy.sh/users/2673376), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263) |
-| 33-64 | ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446), ![][flag_GB] [St0nebull](https://osu.ppy.sh/users/3214055), ![][flag_GB] [BAEx](https://osu.ppy.sh/users/6576972), ![][flag_GB] [L britt](https://osu.ppy.sh/users/4107020), ![][flag_GB] [Snookie](https://osu.ppy.sh/users/1484934), ![][flag_GB] [djsettle](https://osu.ppy.sh/users/4010354), ![][flag_GB] [Shachi](https://osu.ppy.sh/users/6546933), ![][flag_GB] [RedKing](https://osu.ppy.sh/users/2754924), ![][flag_GB] [Jimbot](https://osu.ppy.sh/users/2018518), ![][flag_GB] [Doomsday is bad](https://osu.ppy.sh/users/3481378), ![][flag_GB] [will1b](https://osu.ppy.sh/users/1948781), ![][flag_GB] [Poi Panda](https://osu.ppy.sh/users/4693956), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_GB] [RndGuy](https://osu.ppy.sh/users/1201586), ![][flag_GB] [simtom](https://osu.ppy.sh/users/622481), ![][flag_GB] [TehDragonGuy](https://osu.ppy.sh/users/6177661) |
-| >64 | ![][flag_GB] [-Cephus-](https://osu.ppy.sh/users/3373206), ![][flag_GB] [TigerAW](https://osu.ppy.sh/users/3817050), ![][flag_GB] [skayweed](https://osu.ppy.sh/users/6480903), ![][flag_GB] [Seraxis](https://osu.ppy.sh/users/5068922), ![][flag_GB] [Darkdog](https://osu.ppy.sh/users/2931939), ![][flag_GB] [Toadstool](https://osu.ppy.sh/users/3741296), ![][flag_GB] [2PMarsh](https://osu.ppy.sh/users/5189370), ![][flag_GB] [Ethereal Shinoa](https://osu.ppy.sh/users/4572097), ![][flag_GB] [Tassadar](https://osu.ppy.sh/users/3135193), ![][flag_GB] [Minifrij](https://osu.ppy.sh/users/3793976), ![][flag_GB] [Sobriquet](https://osu.ppy.sh/users/3891023), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_GB] [Orenjijusu](https://osu.ppy.sh/users/5261864), ![][flag_GB] [ShadowDrake77](https://osu.ppy.sh/users/4823119), ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_GB] [Pyrooo](https://osu.ppy.sh/users/5276579), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_GB] [Alphabet](https://osu.ppy.sh/users/4879380), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [Koiishi](https://osu.ppy.sh/users/707861), ![][flag_GB] [icecream-chan](https://osu.ppy.sh/users/4776591) |
+| 1-8 | ::{ flag=GB }:: [Spare](https://osu.ppy.sh/users/2204373), ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [koki](https://osu.ppy.sh/users/846235), ::{ flag=GB }:: [Desired](https://osu.ppy.sh/users/2752380), ::{ flag=GB }:: [Woffel](https://osu.ppy.sh/users/3915122), ::{ flag=GB }:: [Summer Solstice](https://osu.ppy.sh/users/3233710) |
+| 9-16 | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602), ::{ flag=GB }:: [Mafham](https://osu.ppy.sh/users/3660531), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=GB }:: [KiTeaa](https://osu.ppy.sh/users/4361513), ::{ flag=GB }:: [Xim](https://osu.ppy.sh/users/2083664), ::{ flag=GB }:: [Wario](https://osu.ppy.sh/users/4361729), ::{ flag=GB }:: [jesse1412](https://osu.ppy.sh/users/230116), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597) |
+| 17-32 | ::{ flag=GB }:: [Josh](https://osu.ppy.sh/users/2510409), ::{ flag=GB }:: [nsm](https://osu.ppy.sh/users/3455174), ::{ flag=GB }:: [Rime](https://osu.ppy.sh/users/1397232), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142), ::{ flag=IE }:: [Aernat](https://osu.ppy.sh/users/4073754), ::{ flag=GB }:: [Sway](https://osu.ppy.sh/users/2412218), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [Kuramu](https://osu.ppy.sh/users/4159167), ::{ flag=GB }:: [Proteus](https://osu.ppy.sh/users/4073572), ::{ flag=GB }:: [YunoWhoItIs](https://osu.ppy.sh/users/1331455), ::{ flag=GB }:: [The Fetish](https://osu.ppy.sh/users/4433793), ::{ flag=GB }:: [Taiitoo](https://osu.ppy.sh/users/1144822), ::{ flag=GB }:: [Kestler](https://osu.ppy.sh/users/4750710), ::{ flag=IE }:: [Panda King](https://osu.ppy.sh/users/3723568), ::{ flag=GB }:: [Praestigium](https://osu.ppy.sh/users/2673376), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263) |
+| 33-64 | ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446), ::{ flag=GB }:: [St0nebull](https://osu.ppy.sh/users/3214055), ::{ flag=GB }:: [BAEx](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [L britt](https://osu.ppy.sh/users/4107020), ::{ flag=GB }:: [Snookie](https://osu.ppy.sh/users/1484934), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [Shachi](https://osu.ppy.sh/users/6546933), ::{ flag=GB }:: [RedKing](https://osu.ppy.sh/users/2754924), ::{ flag=GB }:: [Jimbot](https://osu.ppy.sh/users/2018518), ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378), ::{ flag=GB }:: [will1b](https://osu.ppy.sh/users/1948781), ::{ flag=GB }:: [Poi Panda](https://osu.ppy.sh/users/4693956), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=GB }:: [RndGuy](https://osu.ppy.sh/users/1201586), ::{ flag=GB }:: [simtom](https://osu.ppy.sh/users/622481), ::{ flag=GB }:: [TehDragonGuy](https://osu.ppy.sh/users/6177661) |
+| >64 | ::{ flag=GB }:: [-Cephus-](https://osu.ppy.sh/users/3373206), ::{ flag=GB }:: [TigerAW](https://osu.ppy.sh/users/3817050), ::{ flag=GB }:: [skayweed](https://osu.ppy.sh/users/6480903), ::{ flag=GB }:: [Seraxis](https://osu.ppy.sh/users/5068922), ::{ flag=GB }:: [Darkdog](https://osu.ppy.sh/users/2931939), ::{ flag=GB }:: [Toadstool](https://osu.ppy.sh/users/3741296), ::{ flag=GB }:: [2PMarsh](https://osu.ppy.sh/users/5189370), ::{ flag=GB }:: [Ethereal Shinoa](https://osu.ppy.sh/users/4572097), ::{ flag=GB }:: [Tassadar](https://osu.ppy.sh/users/3135193), ::{ flag=GB }:: [Minifrij](https://osu.ppy.sh/users/3793976), ::{ flag=GB }:: [Sobriquet](https://osu.ppy.sh/users/3891023), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467), ::{ flag=GB }:: [Orenjijusu](https://osu.ppy.sh/users/5261864), ::{ flag=GB }:: [ShadowDrake77](https://osu.ppy.sh/users/4823119), ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [Pyrooo](https://osu.ppy.sh/users/5276579), ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=GB }:: [Alphabet](https://osu.ppy.sh/users/4879380), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=GB }:: [Koiishi](https://osu.ppy.sh/users/707861), ::{ flag=GB }:: [icecream-chan](https://osu.ppy.sh/users/4776591) |
 
 ## Podium
 
@@ -61,9 +61,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Spare](https://osu.ppy.sh/users/2204373) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
 
 ## Mappools
 
@@ -299,8 +299,8 @@ Monday, 8 August 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| Spare ![][flag_GB] | 3 | **7** | ![][flag_GB] **Doomsday** |
-| Spare ![][flag_GB] | 4 | **7** | ![][flag_GB] **Doomsday** |
+| Spare ::{ flag=GB }:: | 3 | **7** | ::{ flag=GB }:: **Doomsday** |
+| Spare ::{ flag=GB }:: | 4 | **7** | ::{ flag=GB }:: **Doomsday** |
 
 ### Finals
 
@@ -310,7 +310,7 @@ Saturday, 30 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| Doomsday ![][flag_GB] | 0 | **6** | ![][flag_GB] **Spare** |
+| Doomsday ::{ flag=GB }:: | 0 | **6** | ::{ flag=GB }:: **Spare** |
 
 #### Losers Bracket Round 5
 
@@ -318,7 +318,7 @@ Saturday, 30 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Bubbleman** ![][flag_GB] | **6** | 1 | ![][flag_GB] OPJames |
+| **Bubbleman** ::{ flag=GB }:: | **6** | 1 | ::{ flag=GB }:: OPJames |
 
 #### Losers Final
 
@@ -326,7 +326,7 @@ Sunday, 31 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **6** | 5 | ![][flag_GB] Bubbleman |
+| **Doomsday** ::{ flag=GB }:: | **6** | 5 | ::{ flag=GB }:: Bubbleman |
 
 ### Semifinals
 
@@ -336,13 +336,13 @@ Friday, 22 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **5** | 0 | ![][flag_GB] Mafham |
+| **Doomsday** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Mafham |
 
 Saturday, 23 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Spare** ![][flag_GB] | **5** | 2 | ![][flag_GB] Bubbleman |
+| **Spare** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Bubbleman |
 
 #### Losers Bracket Round 3
 
@@ -350,13 +350,13 @@ Monday, 25 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **OPJames** ![][flag_GB] | **5** | 0 | ![][flag_GB] djsettle |
+| **OPJames** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: djsettle |
 
 Wednesdady, 27 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **helix** ![][flag_GB] | **5** | 0 | ![][flag_GB] Woffel |
+| **helix** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Woffel |
 
 #### Losers Bracket Round 4
 
@@ -364,8 +364,8 @@ Wednesdady, 27 July 2016:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| Mafham ![][flag_GB] | 0 | **5** | ![][flag_GB] **OPJames** |  |
-| helix ![][flag_GB] | -1 | **0** | ![][flag_GB] **Bubbleman** | *no score recorded* |
+| Mafham ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **OPJames** |  |
+| helix ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Bubbleman** | *no score recorded* |
 
 ### Quaterfinals
 
@@ -375,20 +375,20 @@ Friday, 15 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **5** | 2 | ![][flag_GB] Pelzio |
+| **Doomsday** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Pelzio |
 
 Saturday, 16 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| helix ![][flag_GB] | 1 | **5** | ![][flag_GB] **Spare** |
-| **Bubbleman** ![][flag_GB] | **5** | 2 | ![][flag_GB] The Fetish |
+| helix ::{ flag=GB }:: | 1 | **5** | ::{ flag=GB }:: **Spare** |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: The Fetish |
 
 Monday, 18 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Mafham** ![][flag_GB] | **5** | 0 | ![][flag_GB] Xim |
+| **Mafham** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Xim |
 
 #### Losers Bracket Round 1
 
@@ -396,20 +396,20 @@ Friday, 15 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **djsettle** ![][flag_GB] | **5** | 0 | ![][flag_GB] st0nebull |
+| **djsettle** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: st0nebull |
 
 Saturday, 16 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| YunoWhoItIs ![][flag_GB] | 0 | **5** | ![][flag_GB] **BAEx** |
-| rime ![][flag_GB] | 0 | **5** | ![][flag_GB] **Woffel** |
+| YunoWhoItIs ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **BAEx** |
+| rime ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **Woffel** |
 
 Sunday, 17 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **OPJames** ![][flag_GB] | **5** | 0 | ![][flag_GB] Hydria |
+| **OPJames** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Hydria |
 
 #### Losers Bracket Round 2
 
@@ -417,15 +417,15 @@ Sunday, 17 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Woffel** ![][flag_GB] | **5** | 1 | ![][flag_GB] The Fetish |
-| BAEx ![][flag_GB] | 3 | **5** | ![][flag_GB] **helix** |
+| **Woffel** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: The Fetish |
+| BAEx ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **helix** |
 
 Monday, 18 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **OPJames** ![][flag_GB] | **5** | 0 | ![][flag_GB] Xim |
-| **djsettle** ![][flag_GB] | **5** | 4 | ![][flag_GB] Pelzio |
+| **OPJames** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Xim |
+| **djsettle** ::{ flag=GB }:: | **5** | 4 | ::{ flag=GB }:: Pelzio |
 
 ### Round of 16
 
@@ -433,24 +433,24 @@ Saturday, 9 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **The Fetish** ![][flag_GB] | **4** | 2 | ![][flag_GB] rime |
-| **Spare** ![][flag_GB] | **4** | 0 | ![][flag_GB] Hydria |
-| **Mafham** ![][flag_GB] | **4** | 0 | ![][flag_GB] St0nebull |
+| **The Fetish** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: rime |
+| **Spare** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Hydria |
+| **Mafham** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: St0nebull |
 
 Sunday, 10 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **4** | 2 | ![][flag_GB] OPJames |
-| **Pelzio** ![][flag_GB] | **4** | 0 | ![][flag_GB] djsettle |
-| **Xim** ![][flag_GB] | **4** | 0 | ![][flag_GB] Woffel |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] BAEx |
+| **Doomsday** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: OPJames |
+| **Pelzio** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: djsettle |
+| **Xim** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Woffel |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: BAEx |
 
 Friday, 15 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| YunoWhoItIs ![][flag_GB] | 0 | **4** | ![][flag_GB] **helix** |
+| YunoWhoItIs ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **helix** |
 
 ### Group stage
 
@@ -458,89 +458,89 @@ Friday, 15 July 2016:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_GB] Taiitoo |  |
-| **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_GB] helix |  |
-| Pyrooo ![][flag_GB] | 2 | **4** | ![][flag_GB] **Taiitoo** |  |
-| **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_GB] Pyrooo |  |
-| **helix** ![][flag_GB] | **4** | 3 | ![][flag_GB] Taiitoo |  |
-| **helix** ![][flag_GB] | **0** | -1 | ![][flag_GB] Pyrooo | *no score recorded* |
+| **Doomsday** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Taiitoo |  |
+| **Doomsday** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: helix |  |
+| Pyrooo ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Taiitoo** |  |
+| **Doomsday** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Pyrooo |  |
+| **helix** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: Taiitoo |  |
+| **helix** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Pyrooo | *no score recorded* |
 
 #### Group B
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Mafham** ![][flag_GB] | **4** | 0 | ![][flag_GB] skayweed |
-| Woffel ![][flag_GB] | 1 | **4** | ![][flag_GB] **Mafham** |
-| Seraxis ![][flag_GB] | 0 | **4** | ![][flag_GB] **skayweed** |
-| **Woffel** ![][flag_GB] | **4** | 0 | ![][flag_GB] Seraxis |
-| **Woffel** ![][flag_GB] | **4** | 0 | ![][flag_GB] skayweed |
-| **Mafham** ![][flag_GB] | **4** | 0 | ![][flag_GB] Seraxis |
+| **Mafham** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: skayweed |
+| Woffel ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **Mafham** |
+| Seraxis ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **skayweed** |
+| **Woffel** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Seraxis |
+| **Woffel** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: skayweed |
+| **Mafham** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Seraxis |
 
 #### Group C
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| Panda King ![][flag_IE] | 0 | **4** | ![][flag_GB] **Hydria** |
-| koki ![][flag_GB] | 0 | **4** | ![][flag_GB] **Pelzio** |
-| **Pelzio** ![][flag_GB] | **4** | 1 | ![][flag_GB] Hydria |
-| **Pelzio** ![][flag_GB] | **4** | 0 | ![][flag_IE] Panda King |
-| koki ![][flag_GB] | 0 | **4** | ![][flag_IE] **Panda King** |
-| koki ![][flag_GB] | 0 | **4** | ![][flag_GB] **Hydria** |
+| Panda King ::{ flag=IE }:: | 0 | **4** | ::{ flag=GB }:: **Hydria** |
+| koki ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Pelzio** |
+| **Pelzio** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Hydria |
+| **Pelzio** ::{ flag=GB }:: | **4** | 0 | ::{ flag=IE }:: Panda King |
+| koki ::{ flag=GB }:: | 0 | **4** | ::{ flag=IE }:: **Panda King** |
+| koki ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Hydria** |
 
 #### Group D
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **YunoWhoItIs** ![][flag_GB] | **4** | 0 | ![][flag_GB] Poi Panda |
-| **YunoWhoItIs** ![][flag_GB] | **4** | 2 | ![][flag_GB] BAEx |
-| **Wario** ![][flag_GB] | **4** | 0 | ![][flag_GB] Poi Panda |
-| **BAEx** ![][flag_GB] | **4** | 0 | ![][flag_GB] Poi Panda |
-| Wario ![][flag_GB] | 1 | **4** | ![][flag_GB] **BAEx** |
-| **YunoWhoItIs** ![][flag_GB] | **4** | 2 | ![][flag_GB] Wario |
+| **YunoWhoItIs** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Poi Panda |
+| **YunoWhoItIs** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: BAEx |
+| **Wario** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Poi Panda |
+| **BAEx** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Poi Panda |
+| Wario ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **BAEx** |
+| **YunoWhoItIs** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Wario |
 
 #### Group E
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **rime** ![][flag_GB] | **4** | 1 | ![][flag_GB] TigerAW |
-| Doomsday is bad ![][flag_GB] | 2 | **4** | ![][flag_GB] **rime** |
-| Doomsday is bad ![][flag_GB] | 2 | **4** | ![][flag_GB] **TigerAW** |
-| Doomsday is bad ![][flag_GB] | 2 | **4** | ![][flag_GB] **Xim** |
-| **Xim** ![][flag_GB] | **4** | 0 | ![][flag_GB] rime |
-| **Xim** ![][flag_GB] | **4** | 1 | ![][flag_GB] TigerAW |
+| **rime** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: TigerAW |
+| Doomsday is bad ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **rime** |
+| Doomsday is bad ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **TigerAW** |
+| Doomsday is bad ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Xim** |
+| **Xim** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: rime |
+| **Xim** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: TigerAW |
 
 #### Group F
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Karthy** ![][flag_GB] | **4** | 2 | ![][flag_GB] will1b |
-| **Spare** ![][flag_GB] | **4** | 0 | ![][flag_GB] OPJames |
-| Karthy ![][flag_GB] | 1 | **4** | ![][flag_GB] **OPJames** |
-| **Spare** ![][flag_GB] | **4** | 1 | ![][flag_GB] will1b |
-| **Spare** ![][flag_GB] | **4** | 1 | ![][flag_GB] Karthy |
-| will1b ![][flag_GB] | 3 | **4** | ![][flag_GB] **OPJames** |
+| **Karthy** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: will1b |
+| **Spare** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: OPJames |
+| Karthy ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **OPJames** |
+| **Spare** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: will1b |
+| **Spare** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Karthy |
+| will1b ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **OPJames** |
 
 #### Group G
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] Orenjijusu |
-| **djsettle** ![][flag_GB] | **4** | 0 | ![][flag_IE] Aernat |
-| **djsettle** ![][flag_GB] | **4** | 2 | ![][flag_GB] Orenjijusu |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] djsettle |
-| **Aernat** ![][flag_IE] | **4** | 1 | ![][flag_GB] Orenjijusu |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_IE] Aernat |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Orenjijusu |
+| **djsettle** ::{ flag=GB }:: | **4** | 0 | ::{ flag=IE }:: Aernat |
+| **djsettle** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Orenjijusu |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: djsettle |
+| **Aernat** ::{ flag=IE }:: | **4** | 1 | ::{ flag=GB }:: Orenjijusu |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 0 | ::{ flag=IE }:: Aernat |
 
 #### Group H
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| Bahamete ![][flag_GB] | 0 | **4** | ![][flag_GB] **Keslter** |
-| **The Fetish** ![][flag_GB] | **4** | 0 | ![][flag_GB] Keslter |
-| Bahamete ![][flag_GB] | 0 | **4** | ![][flag_GB] **The Fetish** |
-| Bahamete ![][flag_GB] | 0 | **4** | ![][flag_GB] **St0nebull** |
-| Keslter ![][flag_GB] | 2 | **4** | ![][flag_GB] **St0nebull** |
-| **The Fetish** ![][flag_GB] | **4** | 0 | ![][flag_GB] St0nebull |
+| Bahamete ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Keslter** |
+| **The Fetish** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Keslter |
+| Bahamete ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **The Fetish** |
+| Bahamete ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **St0nebull** |
+| Keslter ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **St0nebull** |
+| **The Fetish** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: St0nebull |
 
 ### Round of 64
 
@@ -548,62 +548,62 @@ Tuesday, 21 June 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Orenjijusu** ![][flag_GB] | **3** | 1 | ![][flag_GB] Darkdog |
+| **Orenjijusu** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Darkdog |
 
 Friday, 24 June 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Proteus |
-| Kuramu ![][flag_GB] | 0 | **3** | ![][flag_GB] **Xim** |
-| **St0nebull** ![][flag_GB] | **3** | 1 | ![][flag_GB] icecream-chan |
+| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Proteus |
+| Kuramu ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Xim** |
+| **St0nebull** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: icecream-chan |
 
 Saturday, 25 June 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| Electovoid ![][flag_GB] | 2 | **3** | ![][flag_GB] **Taiitoo** |
-| **Doomsday is Bad** ![][flag_GB] | **3** | 0 | ![][flag_GB] Desired |
-| Jerome ![][flag_GB] | 0 | **3** | ![][flag_GB] **Mafham** |
-| **Wario** ![][flag_GB] | **3** | 2 | ![][flag_GB] RndGuy |
-| 2PMarsh ![][flag_GB] | 0 | **3** | ![][flag_GB] **skayweed** |
-| Josh ![][flag_GB] | 0 | **3** | ![][flag_GB] **Poi Panda** |
-| Sway ![][flag_GB] | 0 | **3** | ![][flag_GB] **Woffel** |
-| Alphabet ![][flag_GB] | 2 | **3** | ![][flag_GB] **Pyrooo** |
-| **will1b** ![][flag_GB] | **3** | 0 | ![][flag_GB] Minifrij |
-| Jesse1412 ![][flag_GB] | 0 | **3** | ![][flag_GB] **djsettle** |
-| TehDragonGuy ![][flag_GB] | 2 | **3** | ![][flag_GB] **Hydria** |
-| **Seraxis** ![][flag_GB] | **3** | 2 | ![][flag_GB] simtom |
+| Electovoid ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Taiitoo** |
+| **Doomsday is Bad** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Desired |
+| Jerome ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Mafham** |
+| **Wario** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: RndGuy |
+| 2PMarsh ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **skayweed** |
+| Josh ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Poi Panda** |
+| Sway ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Woffel** |
+| Alphabet ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Pyrooo** |
+| **will1b** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Minifrij |
+| Jesse1412 ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **djsettle** |
+| TehDragonGuy ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Hydria** |
+| **Seraxis** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: simtom |
 
 Sunday, 26 June 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **TigerAW** ![][flag_GB] | **3** | 0 | ![][flag_GB] Ethereal Shinoa |
-| **Bubbleman** ![][flag_GB] | **3** | 0 | ![][flag_GB] Snookie |
-| **The Fetish** ![][flag_GB] | **3** | 2 | ![][flag_GB] rafalbrew |
-| L britt ![][flag_GB] | 0 | **3** | ![][flag_IE] **Aernat** |
-| **YunoWhoItIs** ![][flag_GB] | **3** | 1 | ![][flag_GB] Summer Solstice |
-| **Bahamete** ![][flag_GB] | **3** | 0 | ![][flag_GB] RedKing |
-| nsm ![][flag_GB] | 0 | **3** | ![][flag_GB] **rime** |
-| Panda King ![][flag_IE] | 0 | **3** | ![][flag_GB] **ShadowDrake77** |
-| koiishi ![][flag_GB] | 0 | **3** | ![][flag_GB] **Keslter** |
-| Jimbot ![][flag_GB] | 0 | **3** | ![][flag_GB] **koki** |
-| Praestigium ![][flag_GB] | 1 | **3** | ![][flag_GB] **helix** |
-| **Spare** ![][flag_GB] | **3** | 1 | ![][flag_GB] mmi- |
-| **BAEx** ![][flag_GB] | **3** | 1 | ![][flag_GB] Shachi |
+| **TigerAW** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Ethereal Shinoa |
+| **Bubbleman** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Snookie |
+| **The Fetish** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: rafalbrew |
+| L britt ::{ flag=GB }:: | 0 | **3** | ::{ flag=IE }:: **Aernat** |
+| **YunoWhoItIs** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Summer Solstice |
+| **Bahamete** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: RedKing |
+| nsm ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **rime** |
+| Panda King ::{ flag=IE }:: | 0 | **3** | ::{ flag=GB }:: **ShadowDrake77** |
+| koiishi ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Keslter** |
+| Jimbot ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **koki** |
+| Praestigium ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **helix** |
+| **Spare** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: mmi- |
+| **BAEx** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Shachi |
 
 Monday, 27 June 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| dong ![][flag_GB] | 0 | **3** | ![][flag_GB] **OPJames** |
+| dong ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **OPJames** |
 
 Friday, 1 July 2016:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| KiTeaa ![][flag_GB] | 2 | **3** | ![][flag_GB] **Pelzio** |
+| KiTeaa ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Pelzio** |
 
 ## Ruleset
 
@@ -612,7 +612,7 @@ Friday, 1 July 2016:
 - This tournament is a 1v1 double-elimination British osu! tournament.
 - This tournament will consist of up to 128 players.
 - Matches will be Team Vs, with score v1 as the scoring system used.
-- To be able to participate, players must have a ![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag, otherwise the player must be able to provide proof of residency to the hosts.
+- To be able to participate, players must have a ::{ flag=GB }:: United Kingdom or ::{ flag=IE }:: Ireland flag, otherwise the player must be able to provide proof of residency to the hosts.
 - UK Staff are able to participate.
 - Your rank must be better than #25000 to play.
 
@@ -640,12 +640,3 @@ Friday, 1 July 2016:
 - Quarterfinals and Semifinals will be BO9 (first to 5).
 - Finals will be BO11 (first to 6).
 - Grand Final will be BO13 (first to 7).
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"

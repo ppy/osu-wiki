@@ -10,7 +10,7 @@ tags:
 
 ![CC2 logo](img/logo.png)
 
-The **Corgi Cup: September 2016** (***CC2***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983). It was the second instalment of the Corgi Cup.
+The **Corgi Cup: September 2016** (***CC2***) was a 1v1 single-elimination osu! tournament hosted by ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), and ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983). It was the second instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -40,12 +40,12 @@ Corgi Cup: September 2016 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
-| Mappool selector | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_PL] [Wilchq](https://osu.ppy.sh/users/2021758) |
-| Streamer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238) |
-| Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Doomsday is bad](https://osu.ppy.sh/users/3481378), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379), ![][flag_GB] [- Isozaki -](https://osu.ppy.sh/users/3987676) |
-| Designer | ![][flag_GB] [Doomsday is bad](https://osu.ppy.sh/users/3481378) |
-| Referee | ![][flag_RS] [SirCircle](https://osu.ppy.sh/users/3794917), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Minorman4](https://osu.ppy.sh/users/4837257), ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
+| Host | ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
+| Mappool selector | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758) |
+| Streamer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238) |
+| Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [- Isozaki -](https://osu.ppy.sh/users/3987676) |
+| Designer | ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378) |
+| Referee | ::{ flag=RS }:: [SirCircle](https://osu.ppy.sh/users/3794917), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Minorman4](https://osu.ppy.sh/users/4837257), ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710), ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467), ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914) |
 
 ## Links
 
@@ -57,8 +57,8 @@ Corgi Cup: September 2016 was run by various community members.
 
 | Seed | Members |
 | :-: | :-- |
-| High Seed | ![][flag_GB] [rafalbrew](https://osu.ppy.sh/users/3872602), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238), ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026), ![][flag_GB] [EphemeralFetish](https://osu.ppy.sh/users/4433793), ![][flag_GB] [Summer Solstice](https://osu.ppy.sh/users/3233710), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379), ![][flag_GB] [MagicMantwon](https://osu.ppy.sh/users/6183136), ![][flag_GB] [Doomsday is bad](https://osu.ppy.sh/users/3481378), ![][flag_DE] [Blegie](https://osu.ppy.sh/users/6063132), ![][flag_GB] [Sam](https://osu.ppy.sh/users/1453543), ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620), ![][flag_GB] [Kardet](https://osu.ppy.sh/users/1438509), ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453) |
-| Low Seed | ![][flag_GB] [Corey-Kun](https://osu.ppy.sh/users/3144932), ![][flag_GB] [djsettle](https://osu.ppy.sh/users/4010354), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Nihilese](https://osu.ppy.sh/users/808176), ![][flag_US] [MicMck101](https://osu.ppy.sh/users/5117269), ![][flag_GB] [-MoeYandere-](https://osu.ppy.sh/users/2565902), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_SE] [Lunacy](https://osu.ppy.sh/users/5337756), ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_SE] [Speedstar](https://osu.ppy.sh/users/7889048), ![][flag_FI] [LefafeI](https://osu.ppy.sh/users/2295850), ![][flag_GB] [Smiffi](https://osu.ppy.sh/users/5289196), ![][flag_GB] [georgewday](https://osu.ppy.sh/users/4244200), ![][flag_GB] [Alphabet](https://osu.ppy.sh/users/4879380), ![][flag_AU] [Subject000016](https://osu.ppy.sh/users/4879380) |
+| High Seed | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238), ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026), ::{ flag=GB }:: [EphemeralFetish](https://osu.ppy.sh/users/4433793), ::{ flag=GB }:: [Summer Solstice](https://osu.ppy.sh/users/3233710), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [MagicMantwon](https://osu.ppy.sh/users/6183136), ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378), ::{ flag=DE }:: [Blegie](https://osu.ppy.sh/users/6063132), ::{ flag=GB }:: [Sam](https://osu.ppy.sh/users/1453543), ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620), ::{ flag=GB }:: [Kardet](https://osu.ppy.sh/users/1438509), ::{ flag=LV }:: [waywern2012](https://osu.ppy.sh/users/5870453) |
+| Low Seed | ::{ flag=GB }:: [Corey-Kun](https://osu.ppy.sh/users/3144932), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Nihilese](https://osu.ppy.sh/users/808176), ::{ flag=US }:: [MicMck101](https://osu.ppy.sh/users/5117269), ::{ flag=GB }:: [-MoeYandere-](https://osu.ppy.sh/users/2565902), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467), ::{ flag=SE }:: [Lunacy](https://osu.ppy.sh/users/5337756), ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=SE }:: [Speedstar](https://osu.ppy.sh/users/7889048), ::{ flag=FI }:: [LefafeI](https://osu.ppy.sh/users/2295850), ::{ flag=GB }:: [Smiffi](https://osu.ppy.sh/users/5289196), ::{ flag=GB }:: [georgewday](https://osu.ppy.sh/users/4244200), ::{ flag=GB }:: [Alphabet](https://osu.ppy.sh/users/4879380), ::{ flag=AU }:: [Subject000016](https://osu.ppy.sh/users/4879380) |
 
 ## Podium
 
@@ -66,9 +66,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) |
 
 ## Mappools
 
@@ -204,7 +204,7 @@ Tuesday, 13 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Karthy ![][flag_GB] | 3 | **5** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/27739314) |
+| Karthy ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/27739314) |
 
 #### Third place match
 
@@ -212,7 +212,7 @@ Tuesday, 13 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| zelda101 ![][flag_US] | 0 | **4** | ![][flag_RO] **Rohulk** | [#1](https://osu.ppy.sh/community/matches/27738186) |
+| zelda101 ::{ flag=US }:: | 0 | **4** | ::{ flag=RO }:: **Rohulk** | [#1](https://osu.ppy.sh/community/matches/27738186) |
 
 ### Semifinals
 
@@ -220,8 +220,8 @@ Sunday, 11 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Karthy** ![][flag_GB] | **4** | 0 | ![][flag_US] zelda101 | [#1](https://osu.ppy.sh/community/matches/27704344) |
-| Rohulk ![][flag_RO] | 1 | **4** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/27705393) |
+| **Karthy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=US }:: zelda101 | [#1](https://osu.ppy.sh/community/matches/27704344) |
+| Rohulk ::{ flag=RO }:: | 1 | **4** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/27705393) |
 
 ### Quarterfinals
 
@@ -229,10 +229,10 @@ Sunday, 11 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| dong ![][flag_GB] | 0 | **4** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/27698420) |
-| Kardet ![][flag_GB] | 3 | **4** | ![][flag_US] **zelda101** | [#1](https://osu.ppy.sh/community/matches/27699952) |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] Pelzio | *N/A* |
-| Summer Solstice ![][flag_GB] | 0 | **1** | ![][flag_RO] **Rohulk** | *forfeit* |
+| dong ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/27698420) |
+| Kardet ::{ flag=GB }:: | 3 | **4** | ::{ flag=US }:: **zelda101** | [#1](https://osu.ppy.sh/community/matches/27699952) |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Pelzio | *N/A* |
+| Summer Solstice ::{ flag=GB }:: | 0 | **1** | ::{ flag=RO }:: **Rohulk** | *forfeit* |
 
 ### Round of 16
 
@@ -240,14 +240,14 @@ Saturday, 10 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Rafalbrew ![][flag_GB] | 2 | **4** | ![][flag_GB] **Summer Solstice** | [#1](https://osu.ppy.sh/community/matches/27668852) |
-| **Pelzio** ![][flag_GB] | **4** | 2 | ![][flag_GB] Ephemeral Fetish | [#1](https://osu.ppy.sh/community/matches/27671072) |
-| **Kardet** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sam | *forfeit* |
-| **Rohulk** ![][flag_RO] | **4** | 1 | ![][flag_GB] djsettle | [#1](https://osu.ppy.sh/community/matches/27673798) |
-| Doomsday is Bad ![][flag_GB] | 1 | **4** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/27675151) |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] Jerome | [#1](https://osu.ppy.sh/community/matches/27676468) |
-| **dong** ![][flag_GB] | **1** | 0 | ![][flag_DE] Blegie | *forfeit* |
-| Hydria ![][flag_GB] | 1 | **4** | ![][flag_US] **zelda101** | [#1](https://osu.ppy.sh/community/matches/27677492) |
+| Rafalbrew ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Summer Solstice** | [#1](https://osu.ppy.sh/community/matches/27668852) |
+| **Pelzio** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Ephemeral Fetish | [#1](https://osu.ppy.sh/community/matches/27671072) |
+| **Kardet** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Sam | *forfeit* |
+| **Rohulk** ::{ flag=RO }:: | **4** | 1 | ::{ flag=GB }:: djsettle | [#1](https://osu.ppy.sh/community/matches/27673798) |
+| Doomsday is Bad ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/27675151) |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Jerome | [#1](https://osu.ppy.sh/community/matches/27676468) |
+| **dong** ::{ flag=GB }:: | **1** | 0 | ::{ flag=DE }:: Blegie | *forfeit* |
+| Hydria ::{ flag=GB }:: | 1 | **4** | ::{ flag=US }:: **zelda101** | [#1](https://osu.ppy.sh/community/matches/27677492) |
 
 ### Round of 32
 
@@ -255,32 +255,32 @@ Saturday, 3 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| MagicMantwon ![][flag_GB] | 2 | **4** | ![][flag_GB] **Hydria** | [#1](https://osu.ppy.sh/community/matches/27520102) |
-| **Blegie** ![][flag_DE] | **4** | 0 | ![][flag_SE] Speedstar | [#1](https://osu.ppy.sh/community/matches/27542951) |
-| **dong** ![][flag_GB] | **4** | 0 | ![][flag_US] MicMck101 | [#1](https://osu.ppy.sh/community/matches/27522569) |
-| waywern2012 ![][flag_LV] | 2 | **4** | ![][flag_GB] **djsettle** | [#1](https://osu.ppy.sh/community/matches/27524911) |
-| SteffoST ![][flag_GB] | 0 | **4** | ![][flag_US] **zelda101** | [#1](https://osu.ppy.sh/community/matches/27525993) |
-| **EphemeralFetish** ![][flag_GB] | **4** | 1 | ![][flag_AU] Subject000016 | [#1](https://osu.ppy.sh/community/matches/27527282) |
-| **Jerome** ![][flag_GB] | **4** | 0 | ![][flag_GB] Scootawoo | [#1](https://osu.ppy.sh/community/matches/27528429) |
+| MagicMantwon ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Hydria** | [#1](https://osu.ppy.sh/community/matches/27520102) |
+| **Blegie** ::{ flag=DE }:: | **4** | 0 | ::{ flag=SE }:: Speedstar | [#1](https://osu.ppy.sh/community/matches/27542951) |
+| **dong** ::{ flag=GB }:: | **4** | 0 | ::{ flag=US }:: MicMck101 | [#1](https://osu.ppy.sh/community/matches/27522569) |
+| waywern2012 ::{ flag=LV }:: | 2 | **4** | ::{ flag=GB }:: **djsettle** | [#1](https://osu.ppy.sh/community/matches/27524911) |
+| SteffoST ::{ flag=GB }:: | 0 | **4** | ::{ flag=US }:: **zelda101** | [#1](https://osu.ppy.sh/community/matches/27525993) |
+| **EphemeralFetish** ::{ flag=GB }:: | **4** | 1 | ::{ flag=AU }:: Subject000016 | [#1](https://osu.ppy.sh/community/matches/27527282) |
+| **Jerome** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Scootawoo | [#1](https://osu.ppy.sh/community/matches/27528429) |
 
 Sunday, 4 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| -MoeYandere- ![][flag_GB] | 2 | **4** | ![][flag_GB] **Pelzio** | [#1](https://osu.ppy.sh/community/matches/27543909) |
-| **Kardet** ![][flag_GB] | **4** | 1 | ![][flag_GB] Smiffi | [#1](https://osu.ppy.sh/community/matches/27548482) |
-| **Sam** ![][flag_GB] | **4** | 2 | ![][flag_FI] LefafeI | [#1](https://osu.ppy.sh/community/matches/27549187) |
-| **Rafalbrew** ![][flag_GB] | **4** | 0 | ![][flag_GB] Corey-Kun | [#1](https://osu.ppy.sh/community/matches/27550285) |
-| **Rohulk** ![][flag_RO] | **4** | 0 | ![][flag_GB] Alphabet | [#1](https://osu.ppy.sh/community/matches/27551534) |
-| Bahamete ![][flag_GB] | 0 | **4** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/27553560) |
-| **Doomsday is Bad** ![][flag_GB] | **4** | 0 | ![][flag_GB] mmi- | *N/A* |
-| **Karthy** ![][flag_GB] | **1** | 0 | ![][flag_SE] Lunacy | *forfeit* |
+| -MoeYandere- ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Pelzio** | [#1](https://osu.ppy.sh/community/matches/27543909) |
+| **Kardet** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Smiffi | [#1](https://osu.ppy.sh/community/matches/27548482) |
+| **Sam** ::{ flag=GB }:: | **4** | 2 | ::{ flag=FI }:: LefafeI | [#1](https://osu.ppy.sh/community/matches/27549187) |
+| **Rafalbrew** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Corey-Kun | [#1](https://osu.ppy.sh/community/matches/27550285) |
+| **Rohulk** ::{ flag=RO }:: | **4** | 0 | ::{ flag=GB }:: Alphabet | [#1](https://osu.ppy.sh/community/matches/27551534) |
+| Bahamete ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/27553560) |
+| **Doomsday is Bad** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: mmi- | *N/A* |
+| **Karthy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=SE }:: Lunacy | *forfeit* |
 
 Monday, 5 September 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Summer Solstice** ![][flag_GB] | **4** | 0 | ![][flag_GB] georgewday | [#1](https://osu.ppy.sh/community/matches/27590135) |
+| **Summer Solstice** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: georgewday | [#1](https://osu.ppy.sh/community/matches/27590135) |
 
 ## Ruleset
 
@@ -296,14 +296,3 @@ Monday, 5 September 2016:
 - If a player disconnects during the match in which the outcome would have been different. A rematch can be offered under the Referee’s discretion.
 - Score V2 will be used.
 - Free Mod can only be played with the mod combinations: NoMod, HD, HR, or HDHR.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
-[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -8,7 +8,7 @@ tags:
 
 ![CFB4 logo](img/logo.png)
 
-The **Catch French Beginner 4** (***CFB4***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077). This was the fourth instalment of the Catch French Beginner.
+The **Catch French Beginner 4** (***CFB4***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077). This was the fourth instalment of the Catch French Beginner.
 
 ## Tournament schedule
 
@@ -33,7 +33,7 @@ The **Catch French Beginner 4** (***CFB4***) was a beginner French double-elimin
 
 ![](img/badge.jpg "CFB4 winner badge")
 
-Generous donations from ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) and ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) helped fund some of the prizes.
+Generous donations from ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688), ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) and ::{ flag=FR }:: [Pizu](https://osu.ppy.sh/users/9475990) helped fund some of the prizes.
 
 ## Organisation
 
@@ -41,15 +41,15 @@ The Catch French Beginner 4 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Co-organizer | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Mappool selector | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Referee | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Commentator | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
-| Designer | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Statistician | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| Co-organizer | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688), ::{ flag=FR }:: [Pizu](https://osu.ppy.sh/users/9475990), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Mappool selector | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688), ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| Referee | ::{ flag=FR }:: [MindLight](https://osu.ppy.sh/users/7664694), ::{ flag=FR }:: [Pizu](https://osu.ppy.sh/users/9475990), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Streamer | ::{ flag=FR }:: [Fulgu](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Libegon](https://osu.ppy.sh/users/9922381), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
+| Commentator | ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688), ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523), ::{ flag=FR }:: [Libegon](https://osu.ppy.sh/users/9922381), ::{ flag=FR }:: [MindLight](https://osu.ppy.sh/users/7664694), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| Designer | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| Statistician | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -63,19 +63,19 @@ The Catch French Beginner 4 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489), ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) |
-| High | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [AttilaPhoenix](https://osu.ppy.sh/users/8384680), ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359), ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) |
-| Low | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722), ![][flag_FR] [Dovu](https://osu.ppy.sh/users/6150413), ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) |
-| Unseeded | ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135), ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) |
+| Top | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489), ::{ flag=FR }:: [Riki no Kage](https://osu.ppy.sh/users/1549032) |
+| High | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [AttilaPhoenix](https://osu.ppy.sh/users/8384680), ::{ flag=FR }:: [-Dragolord-](https://osu.ppy.sh/users/9473359), ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172) |
+| Low | ::{ flag=FR }:: [Madeline](https://osu.ppy.sh/users/2812098), ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722), ::{ flag=FR }:: [Dovu](https://osu.ppy.sh/users/6150413), ::{ flag=FR }:: [MarsJackson](https://osu.ppy.sh/users/8479894) |
+| Unseeded | ::{ flag=FR }:: [Okupsa](https://osu.ppy.sh/users/9313135), ::{ flag=FR }:: [Athedos](https://osu.ppy.sh/users/10722269), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523), ::{ flag=FR }:: [sullymaster](https://osu.ppy.sh/users/6765259) |
 
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| A | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | ![][flag_FR] [AttilaPhoenix](https://osu.ppy.sh/users/8384680) | ![][flag_FR] [Dovu](https://osu.ppy.sh/users/6150413) | ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135) |
-| B | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) | ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) |
-| C | ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) |
-| D | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) |
+| A | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) | ::{ flag=FR }:: [AttilaPhoenix](https://osu.ppy.sh/users/8384680) | ::{ flag=FR }:: [Dovu](https://osu.ppy.sh/users/6150413) | ::{ flag=FR }:: [Okupsa](https://osu.ppy.sh/users/9313135) |
+| B | ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519) | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) | ::{ flag=FR }:: [Madeline](https://osu.ppy.sh/users/2812098) | ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523) |
+| C | ::{ flag=FR }:: [Riki no Kage](https://osu.ppy.sh/users/1549032) | ::{ flag=FR }:: [-Dragolord-](https://osu.ppy.sh/users/9473359) | ::{ flag=FR }:: [MarsJackson](https://osu.ppy.sh/users/8479894) | ::{ flag=FR }:: [Athedos](https://osu.ppy.sh/users/10722269) |
+| D | ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489) | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172) | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | ::{ flag=FR }:: [sullymaster](https://osu.ppy.sh/users/6765259) |
 
 ## Podium
 
@@ -83,9 +83,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172) |
 
 ## Mappools
 
@@ -241,7 +241,7 @@ Saturday, 30 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Remyria** ![][flag_CA] | **7** | 4 | ![][flag_FR] Hecatia15 | [#1](https://osu.ppy.sh/community/matches/62301645) |
+| **Remyria** ::{ flag=CA }:: | **7** | 4 | ::{ flag=FR }:: Hecatia15 | [#1](https://osu.ppy.sh/community/matches/62301645) |
 
 ### Finals
 
@@ -249,14 +249,14 @@ Saturday, 23 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Remyria** ![][flag_CA] | **7** | 4 | ![][flag_FR] Hecatia15 | [#1](https://osu.ppy.sh/community/matches/62013551) |
+| **Remyria** ::{ flag=CA }:: | **7** | 4 | ::{ flag=FR }:: Hecatia15 | [#1](https://osu.ppy.sh/community/matches/62013551) |
 
 Sunday, 24 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Trifano** ![][flag_FR] | **7** | 2 | ![][flag_FR] Madeline | [#1](https://osu.ppy.sh/community/matches/62051294) |
-| **Hecatia15** ![][flag_FR] | **7** | 5 | ![][flag_FR] Trifano | [#1](https://osu.ppy.sh/community/matches/62055223) |
+| **Trifano** ::{ flag=FR }:: | **7** | 2 | ::{ flag=FR }:: Madeline | [#1](https://osu.ppy.sh/community/matches/62051294) |
+| **Hecatia15** ::{ flag=FR }:: | **7** | 5 | ::{ flag=FR }:: Trifano | [#1](https://osu.ppy.sh/community/matches/62055223) |
 
 ### Semifinals
 
@@ -264,15 +264,15 @@ Saturday, 16 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Jibsz ![][flag_FR] | 2 | **6** | ![][flag_FR] **Hecatia15** | [#1](https://osu.ppy.sh/community/matches/61717562) |
-| **Remyria** ![][flag_CA] | **6** | 0 | ![][flag_FR] Madeline | [#1](https://osu.ppy.sh/community/matches/61744766) |
-| Jibsz ![][flag_FR] | 5 | **6** | ![][flag_FR] **Trifano** | [#1](https://osu.ppy.sh/community/matches/61750795) |
+| Jibsz ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **Hecatia15** | [#1](https://osu.ppy.sh/community/matches/61717562) |
+| **Remyria** ::{ flag=CA }:: | **6** | 0 | ::{ flag=FR }:: Madeline | [#1](https://osu.ppy.sh/community/matches/61744766) |
+| Jibsz ::{ flag=FR }:: | 5 | **6** | ::{ flag=FR }:: **Trifano** | [#1](https://osu.ppy.sh/community/matches/61750795) |
 
 Sunday, 17 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Madeline** ![][flag_FR] | **6** | 3 | ![][flag_FR] AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61781979) |
+| **Madeline** ::{ flag=FR }:: | **6** | 3 | ::{ flag=FR }:: AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61781979) |
 
 ### Quarterfinals
 
@@ -280,17 +280,17 @@ Saturday, 9 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Jibsz** ![][flag_FR] | **5** | 2 | ![][flag_FR] AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61425549) |
-| Riki no Kage ![][flag_FR] | -1 | **0** | ![][flag_FR] **Madeline** | *win by default* |
-| **Hecatia15** ![][flag_FR] | **5** | 4 | ![][flag_FR] -Dragolord- | [#1](https://osu.ppy.sh/community/matches/61456978) |
+| **Jibsz** ::{ flag=FR }:: | **5** | 2 | ::{ flag=FR }:: AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61425549) |
+| Riki no Kage ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **Madeline** | *win by default* |
+| **Hecatia15** ::{ flag=FR }:: | **5** | 4 | ::{ flag=FR }:: -Dragolord- | [#1](https://osu.ppy.sh/community/matches/61456978) |
 
 Sunday, 10 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Remyria** ![][flag_CA] | **5** | 1 | ![][flag_FR] Trifano | [#1](https://osu.ppy.sh/community/matches/61460974) |
-| **AttilaPhoenix** ![][flag_FR] | **5** | 2 | ![][flag_FR] -Dragolord- | [#1](https://osu.ppy.sh/community/matches/61491060) |
-| **Trifano** ![][flag_FR] | **0** | -1 | ![][flag_FR] Riki no Kage | *win by default* |
+| **Remyria** ::{ flag=CA }:: | **5** | 1 | ::{ flag=FR }:: Trifano | [#1](https://osu.ppy.sh/community/matches/61460974) |
+| **AttilaPhoenix** ::{ flag=FR }:: | **5** | 2 | ::{ flag=FR }:: -Dragolord- | [#1](https://osu.ppy.sh/community/matches/61491060) |
+| **Trifano** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Riki no Kage | *win by default* |
 
 ### Group stage
 
@@ -298,35 +298,35 @@ Saturday, 2 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Jibsz** ![][flag_FR] | **4** | 2 | ![][flag_FR] Trifano | [#1](https://osu.ppy.sh/community/matches/61141686) |
-| **-Dragolord-** ![][flag_FR] | **4** | 2 | ![][flag_FR] MarsJackson | [#1](https://osu.ppy.sh/community/matches/61165813) |
-| **Hecatia15** ![][flag_FR] | **4** | 0 | ![][flag_FR] Madeline | [#1](https://osu.ppy.sh/community/matches/61167509) |
-| Kammthaar ![][flag_FR] | 1 | **4** | ![][flag_FR] **Kaeldori** | [#1](https://osu.ppy.sh/community/matches/61168212) |
-| **Marsjackson** ![][flag_FR] | **4** | 1 | ![][flag_FR] Athedos | [#1](https://osu.ppy.sh/community/matches/61170311) |
-| Okupsa ![][flag_FR] | 0 | **4** | ![][flag_CA] **Remyria** | [#1](https://osu.ppy.sh/community/matches/61172719) |
-| **AttilaPhoenix** ![][flag_FR] | **4** | 0 | ![][flag_FR] Dovu | [#1](https://osu.ppy.sh/community/matches/61171510) |
-| **Trifano** ![][flag_FR] | **4** | 2 | ![][flag_FR] Zyoulou | [#1](https://osu.ppy.sh/community/matches/61174328) |
-| **Remyria** ![][flag_CA] | **4** | 0 | ![][flag_FR] AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61176113) |
-| **Dovu** ![][flag_FR] | **4** | 2 | ![][flag_FR] Okupsa | [#1](https://osu.ppy.sh/community/matches/61177349) |
+| **Jibsz** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: Trifano | [#1](https://osu.ppy.sh/community/matches/61141686) |
+| **-Dragolord-** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: MarsJackson | [#1](https://osu.ppy.sh/community/matches/61165813) |
+| **Hecatia15** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: Madeline | [#1](https://osu.ppy.sh/community/matches/61167509) |
+| Kammthaar ::{ flag=FR }:: | 1 | **4** | ::{ flag=FR }:: **Kaeldori** | [#1](https://osu.ppy.sh/community/matches/61168212) |
+| **Marsjackson** ::{ flag=FR }:: | **4** | 1 | ::{ flag=FR }:: Athedos | [#1](https://osu.ppy.sh/community/matches/61170311) |
+| Okupsa ::{ flag=FR }:: | 0 | **4** | ::{ flag=CA }:: **Remyria** | [#1](https://osu.ppy.sh/community/matches/61172719) |
+| **AttilaPhoenix** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: Dovu | [#1](https://osu.ppy.sh/community/matches/61171510) |
+| **Trifano** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: Zyoulou | [#1](https://osu.ppy.sh/community/matches/61174328) |
+| **Remyria** ::{ flag=CA }:: | **4** | 0 | ::{ flag=FR }:: AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61176113) |
+| **Dovu** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: Okupsa | [#1](https://osu.ppy.sh/community/matches/61177349) |
 
 Sunday, 3 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Athedos ![][flag_FR] | 1 | **4** | ![][flag_FR] **Riki no Kage** | [#1](https://osu.ppy.sh/community/matches/61180697) |
-| sullymaster ![][flag_FR] | 0 | **4** | ![][flag_FR] **Jibsz** | [#1](https://osu.ppy.sh/community/matches/61183042) |
-| Zyoulou ![][flag_FR] | 1 | **4** | ![][flag_FR] **Jibsz** | [#1](https://osu.ppy.sh/community/matches/61185441) |
-| -Dragolord- ![][flag_FR] | 2 | **4** | ![][flag_FR] **Riki no Kage** | [#1](https://osu.ppy.sh/community/matches/61202851) |
-| Kaeldori ![][flag_FR] | 0 | **4** | ![][flag_FR] **Hecatia15** | [#1](https://osu.ppy.sh/community/matches/61206729) |
-| **Madeline** ![][flag_FR] | **4** | 2 | ![][flag_FR] Kammthaar | [#1](https://osu.ppy.sh/community/matches/61207713) |
-| **-Dragolord-** ![][flag_FR] | **4** | 0 | ![][flag_FR] Athedos | [#1](https://osu.ppy.sh/community/matches/61208829) |
-| Marsjackson ![][flag_FR] | 0 | **4** | ![][flag_FR] **Riki no Kage** | [#1](https://osu.ppy.sh/community/matches/61209634) |
-| **Hecatia15** ![][flag_FR] | **4** | 0 | ![][flag_FR] Kammthaar | [#1](https://osu.ppy.sh/community/matches/61210805) |
-| Kaeldori ![][flag_FR] | 3 | **4** | ![][flag_FR] **Madeline** | [#1](https://osu.ppy.sh/community/matches/61211593) |
-| **Zyoulou** ![][flag_FR] | **4** | 0 | ![][flag_FR] sullymaster | [#1](https://osu.ppy.sh/community/matches/61213764) |
-| Okupsa ![][flag_FR] | 0 | **4** | ![][flag_FR] **AttilaPhoenix** | [#1](https://osu.ppy.sh/community/matches/61215300) |
-| Dovu ![][flag_FR] | 0 | **4** | ![][flag_CA] **Remyria** | [#1](https://osu.ppy.sh/community/matches/61215816) |
-| Sullymaster ![][flag_FR] | 1 | **4** | ![][flag_FR] **Trifano** | [#1](https://osu.ppy.sh/community/matches/61217149) |
+| Athedos ::{ flag=FR }:: | 1 | **4** | ::{ flag=FR }:: **Riki no Kage** | [#1](https://osu.ppy.sh/community/matches/61180697) |
+| sullymaster ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Jibsz** | [#1](https://osu.ppy.sh/community/matches/61183042) |
+| Zyoulou ::{ flag=FR }:: | 1 | **4** | ::{ flag=FR }:: **Jibsz** | [#1](https://osu.ppy.sh/community/matches/61185441) |
+| -Dragolord- ::{ flag=FR }:: | 2 | **4** | ::{ flag=FR }:: **Riki no Kage** | [#1](https://osu.ppy.sh/community/matches/61202851) |
+| Kaeldori ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Hecatia15** | [#1](https://osu.ppy.sh/community/matches/61206729) |
+| **Madeline** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: Kammthaar | [#1](https://osu.ppy.sh/community/matches/61207713) |
+| **-Dragolord-** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: Athedos | [#1](https://osu.ppy.sh/community/matches/61208829) |
+| Marsjackson ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Riki no Kage** | [#1](https://osu.ppy.sh/community/matches/61209634) |
+| **Hecatia15** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: Kammthaar | [#1](https://osu.ppy.sh/community/matches/61210805) |
+| Kaeldori ::{ flag=FR }:: | 3 | **4** | ::{ flag=FR }:: **Madeline** | [#1](https://osu.ppy.sh/community/matches/61211593) |
+| **Zyoulou** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: sullymaster | [#1](https://osu.ppy.sh/community/matches/61213764) |
+| Okupsa ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **AttilaPhoenix** | [#1](https://osu.ppy.sh/community/matches/61215300) |
+| Dovu ::{ flag=FR }:: | 0 | **4** | ::{ flag=CA }:: **Remyria** | [#1](https://osu.ppy.sh/community/matches/61215816) |
+| Sullymaster ::{ flag=FR }:: | 1 | **4** | ::{ flag=FR }:: **Trifano** | [#1](https://osu.ppy.sh/community/matches/61217149) |
 
 ### Qualifiers
 
@@ -335,22 +335,22 @@ Sunday, 3 May 2020:
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
-| #1 | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | 2.2 |
-| #2 | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) | 4.6 |
-| #3 | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | 4.8 |
-| #4 | ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) | 5.2 |
-| #5 | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) | 5.8 |
-| #6 | ![][flag_FR] [AttilaPhoenix](https://osu.ppy.sh/users/8384680) | 6.2 |
-| #7 | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | 7 |
-| #7 | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | 7 |
-| #9 | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) | 7.2 |
-| #10 | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | 9.4 |
-| #11 | ![][flag_FR] [Dovu](https://osu.ppy.sh/users/6150413) | 9.8 |
-| #12 | ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) | 11 |
-| #13 | ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135) | 12.2 |
-| #14 | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) | 12.6 |
-| #15 | ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) | 14.4 |
-| #16 | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) | 16 |
+| #1 | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) | 2.2 |
+| #2 | ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519) | 4.6 |
+| #3 | ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489) | 4.8 |
+| #4 | ::{ flag=FR }:: [Riki no Kage](https://osu.ppy.sh/users/1549032) | 5.2 |
+| #5 | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) | 5.8 |
+| #6 | ::{ flag=FR }:: [AttilaPhoenix](https://osu.ppy.sh/users/8384680) | 6.2 |
+| #7 | ::{ flag=FR }:: [-Dragolord-](https://osu.ppy.sh/users/9473359) | 7 |
+| #7 | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172) | 7 |
+| #9 | ::{ flag=FR }:: [Madeline](https://osu.ppy.sh/users/2812098) | 7.2 |
+| #10 | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | 9.4 |
+| #11 | ::{ flag=FR }:: [Dovu](https://osu.ppy.sh/users/6150413) | 9.8 |
+| #12 | ::{ flag=FR }:: [MarsJackson](https://osu.ppy.sh/users/8479894) | 11 |
+| #13 | ::{ flag=FR }:: [Okupsa](https://osu.ppy.sh/users/9313135) | 12.2 |
+| #14 | ::{ flag=FR }:: [Athedos](https://osu.ppy.sh/users/10722269) | 12.6 |
+| #15 | ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523) | 14.4 |
+| #16 | ::{ flag=FR }:: [sullymaster](https://osu.ppy.sh/users/6765259) | 16 |
 
 ## Ruleset
 
@@ -386,7 +386,3 @@ Sunday, 3 May 2020:
 2. Quarterfinals: Best of 9 (first to 5 points)
 3. Semifinals: Best of 11 (first to 6 points)
 4. **Finals and Grand Finals**: Best of 13 (first to 7 points)
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

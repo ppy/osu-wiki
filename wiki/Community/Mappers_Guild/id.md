@@ -72,9 +72,6 @@ Seiring waktu, Mappers' Guild terus berkembang dan melebarkan sayapnya tanpa hen
 
 ### Otomatisasi
 
-Walaupun Mappers' Guild telah memiliki sistem *quest* dan lain sebagainya sejak awal, para pengelola Mappers' Guild di kala itu sering merasa kewalahan dalam mengelola segala sesuatunya secara manual. Oleh karenanya, pada akhir tahun 2018 ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) dan ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) berinisiatif untuk membuat situs web Mappers' Guild yang memungkinkan para anggotanya untuk dapat mengorganisir *quest*/*party* dan menembus imbalan-imbalan mereka dengan lebih mudah dan teratur.
+Walaupun Mappers' Guild telah memiliki sistem *quest* dan lain sebagainya sejak awal, para pengelola Mappers' Guild di kala itu sering merasa kewalahan dalam mengelola segala sesuatunya secara manual. Oleh karenanya, pada akhir tahun 2018 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) dan ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) berinisiatif untuk membuat situs web Mappers' Guild yang memungkinkan para anggotanya untuk dapat mengorganisir *quest*/*party* dan menembus imbalan-imbalan mereka dengan lebih mudah dan teratur.
 
 Situs web Mappers' Guild diluncurkan secara resmi pada 1 Maret 2019, dan merupakan tempat di mana segala sesuatunya tentang Mappers' Guild saat ini dikendalikan. Sejak dibuka untuk umum, Mappers' Guild telah memiliki lebih dari 500 anggota dan telah rutin [menerbitkan topik-topik berita](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) seputar perkembangan konten-konten Featured Artist terkini setiap beberapa bulan sekali.
-
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
