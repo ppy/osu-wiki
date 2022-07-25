@@ -18,7 +18,6 @@
 - [Judgement](/wiki/Gameplay/Judgement)
 - [Kiai time](/wiki/Gameplay/Kiai_time)
 - [Mind block](/wiki/Gameplay/Mind_block)
-- [Multiplayer](/wiki/Gameplay/Multiplayer)
 - [Notelock](/wiki/Gameplay/Judgement/Notelock)
 - [Pass](/wiki/Gameplay/Pass)
 - [Play time](/wiki/Gameplay/Play_time)

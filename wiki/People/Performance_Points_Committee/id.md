@@ -18,7 +18,10 @@ Panel mode osu!taiko dibentuk pada tanggal 1 Mei 2022 sebagai bentuk respon dari
 
 ### osu!
 
-| Profil osu! | Profil Github |
+
+### osu!
+
+| Profil osu! | Profil GitHub |
 | :-- | :-- |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
 | ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987) | [emu1337](https://github.com/emu1337) |
@@ -27,7 +30,7 @@ Panel mode osu!taiko dibentuk pada tanggal 1 Mei 2022 sebagai bentuk respon dari
 
 ### osu!taiko
 
-| Profil osu! | Profil Github |
+| Profil osu! | Profil GitHub |
 | :-- | :-- |
 | ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [Horiiizons](https://github.com/Horiiizons) |
@@ -36,7 +39,7 @@ Panel mode osu!taiko dibentuk pada tanggal 1 Mei 2022 sebagai bentuk respon dari
 
 ### osu!mania
 
-| Profil osu! | Profil Github |
+| Profil osu! | Profil GitHub |
 | :-- | :-- |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) | [abraker95](https://github.com/abraker95) |
 | ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) | [Eve-ning](https://github.com/Eve-ning) |

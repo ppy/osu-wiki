@@ -55,12 +55,12 @@ Access this screen by clicking on your profile at the top left of the main menu.
 After selecting `Play` in the main menu, you can choose between three options:
 
 - Click `Solo` (or press `P`) to play on your own. This leads you to the [song selection screen](#song-select).
-- Click `Multi` (or press `M`) to play with other people. You will be directed to the [Multi](/wiki/Gameplay/Multiplayer) Lobby.
+- Click `Multi` (or press `M`) to play with other people. You will be directed to the [Multi](/wiki/Client/Interface/Multiplayer) Lobby.
 - Click `Back` to return to the main menu.
 
 ## Multiplayer lobby
 
-*Main page: [Multi](/wiki/Gameplay/Multiplayer)*
+*Main page: [Multi](/wiki/Client/Interface/Multiplayer)*
 
 ![](img/multi-lobby.jpg "Multiplayer lobby")
 

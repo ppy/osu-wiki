@@ -60,7 +60,7 @@ The Advanced Global Taiko Showdown 2020 was run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1126016)
 - [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com/)
+- [AGTS 2020 website](https://gtsosu.com/2020/agts/home)
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)

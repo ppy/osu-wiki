@@ -16,10 +16,6 @@ tags:
 
 ## Факты
 
-- Самая первая команда капитанов была сформирована ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) в сентябре 2017 года вместе с системой [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), которая позже была переименована в **Project Loved**. До конца 2019 года Toy курировал весь проект и руководил им.
+- Самая первая команда капитанов была сформирована ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) в сентябре 2017 года вместе с системой [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), которая позже была переименована в **Project Loved**. До конца 2019 года Toy курировал весь проект и руководил им.
 - Вплоть до 28 апреля 2021 года группа [Project Loved](https://osu.ppy.sh/groups/31) была скрытой и предназначалась только для выдачи необходимых доступов.
-  - Ранее группа состояла из ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) и ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), а все остальные члены команды были добавлены туда 16 апреля.
-
-[flag_LT]: /wiki/shared/flag/LT.gif "Литва"
-[flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
-[flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"
+  - Ранее группа состояла из ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237), ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) и ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689), а все остальные члены команды были добавлены туда 16 апреля.
