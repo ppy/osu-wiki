@@ -135,7 +135,7 @@ There's absolutely no way we could highlight every beatmap/quest, but we *can* s
 | [Hivie](https://osu.ppy.sh/users/14102976) | osu!, osu!taiko | 17 | 96 |
 | [Faputa](https://osu.ppy.sh/users/845733) | osu!mania, osu!taiko | 16 | 87 |
 | [Hinsvar](https://osu.ppy.sh/users/1249323) | osu! | 17 | 85 |
-| [Jemzuu](https://osu.ppy.sh/users/7890134) | osu!catch | 14 | 75 |
+| [Jemzuu](https://osu.ppy.sh/users/7890134) | osu!catch | 14 | 76 |
 | [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) | osu!taiko | 20 | 71 |
 | [FAMoss](https://osu.ppy.sh/users/7707789) | osu!mania | 16 | 63 |
 | [Niva](https://osu.ppy.sh/users/197805) | osu! | 12 | 47 |
@@ -143,7 +143,7 @@ There's absolutely no way we could highlight every beatmap/quest, but we *can* s
 | [Lasse](https://osu.ppy.sh/users/896613) | osu! | 7 | 42 |
 | [Nelly](https://osu.ppy.sh/users/4741164) | osu!catch | 8 | 40 |
 | [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | osu!taiko, osu! | 7 | 37 |
-| [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch | 7 | 32 |
+| [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch | 7 | 33 |
 | [ikin5050](https://osu.ppy.sh/users/4007649) | osu!taiko | 10 | 31 |
 | [-Aqua](https://osu.ppy.sh/users/7150015) | osu! | 6 | 29 |
 | [Spectator](https://osu.ppy.sh/users/702598) | osu!catch | 6 | 28 |
@@ -152,6 +152,8 @@ There's absolutely no way we could highlight every beatmap/quest, but we *can* s
 | [Deif](https://osu.ppy.sh/users/318565) | osu!catch | 5 | 25 |
 | [Jaltzu](https://osu.ppy.sh/users/2597417) | osu!taiko | 8 | 25 |
 | [Strategas](https://osu.ppy.sh/users/2971837) | osu! | 5 | 23 |
+| [DakeDekaane](https://osu.ppy.sh/users/1425253) | osu!taiko | 5 | 23 |
+| [GIGACHAD](https://osu.ppy.sh/users/11081858) | osu!catch, osu!taiko | 5 | 22 |
 | [Nao Tomori](https://osu.ppy.sh/users/5364763) | osu!, osu!taiko | 5 | 21 |
 | [Secre](https://osu.ppy.sh/users/2306637) | osu!catch | 9 | 18 |
 | [SMOKELIND](https://osu.ppy.sh/users/9327302) | osu!, osu!taiko | 10 | 17 |
