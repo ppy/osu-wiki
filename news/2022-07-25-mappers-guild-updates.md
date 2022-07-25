@@ -34,17 +34,17 @@ To ensure medals are released with a *bit* more consistency, we've scheduled **o
 
 We'll kick things off with **3** new packs — one from each category above.
 
-[**Touhou theme beatmap pack**](LINK)
+[**Touhou theme beatmap pack**](https://osu.ppy.sh/beatmaps/packs/2457)
 
-![Touhou theme beatmap pack medal](LINK)
+![Touhou theme beatmap pack medal](https://assets.ppy.sh/medals/web/all-packs-touhou@2x.png)
 
-[**ginkiha artist beatmap pack**](LINK)
+[**ginkiha artist beatmap pack**](https://osu.ppy.sh/beatmaps/packs/2458)
 
-![ginkiha artist beatmap pack medal](LINK)
+![ginkiha artist beatmap pack medal](https://assets.ppy.sh/medals/web/all-packs-ginkiha@2x.png)
 
-[**MUZZ challenge beatmap pack**](LINK)
+[**MUZZ challenge beatmap pack**](https://osu.ppy.sh/beatmaps/packs/2459)
 
-![MUZZ challenge beatmap pack medal](LINK)
+![MUZZ challenge beatmap pack medal](https://assets.ppy.sh/medals/web/all-packs-muzz@2x.png)
 
 ### Upcoming beatmap packs and medals
 
