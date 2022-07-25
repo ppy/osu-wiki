@@ -8,7 +8,7 @@ Check out the latest picks from the captains at Project Loved!
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-For those unfamiliar, Project Loved hosts monthly votings to decide which nominated maps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). You can click on each of the map's banners in this post to go to its poll on the forums, or visit [the forum](https://osu.ppy.sh/community/forums/120) for a list of all of the polls. Polls will be open for 10 days, so make sure to cast your votes in time! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh)!
+For those unfamiliar, Project Loved hosts monthly votings to decide which nominated maps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). You can click on each map's banner in this post to go to its poll on the forums, or visit [the forum](https://osu.ppy.sh/community/forums/120) for a list of all of the polls. Polls will be open for 10 days, so make sure to cast your votes in time! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh)!
 
 Detailed results for the previous round can be found on the [poll results page of the website](https://loved.sh/statistics) or in the following forum posts:
 
@@ -17,11 +17,11 @@ Detailed results for the previous round can be found on the [poll results page o
 - [osu!catch](https://osu.ppy.sh/community/forums/posts/8694721)
 - [osu!mania](https://osu.ppy.sh/community/forums/posts/8694720)
 
-Before getting into this month's picks, we want to give thanks to [Pachiru](https://osu.ppy.sh/users/2850983) for his effort in coordinating Project Loved throughout 2021 and 2022 — there were many rounds where this whole shebang would have ground to a halt if he hadn't been there to maintain the project, contact mappers, keep everything on-schedule, and make these announcements. He recently stopped working on Loved, but in all likelihood he'll still be a familiar face around mapping, modding, and moderation.
+Before getting into this month's picks, we want to give thanks to [Pachiru](https://osu.ppy.sh/users/2850983) for his effort in coordinating Project Loved throughout 2021 and 2022 — there were many rounds where this whole shebang would have ground to a halt if he hadn't been there to maintain the project, contact mappers, keep everything on schedule, and make these announcements. He recently stopped working on Loved, but in all likelihood he'll still be a familiar face around mapping, modding, and moderation.
 
 In other news, the osu! captains of Project Loved have some important updates to share:
 
-First, they've published an **application to join the osu! captains**, available at [**this Google form**](https://docs.google.com/forms/d/e/1FAIpQLSd9jLuzv86yLEnx1MQYzdoLqMccahspgAzZSEn4n1Qsr-DLHQ/viewform). Becoming a captain never was supposed to be a closed-off process, but it may have felt this way with the lack of explicit outreach. We hope to see some more friends inspired to help out with picking osu!'s Loved candidates!
+First, they've published an **application form to join the osu! captains**, available via [**Google Forms**](https://docs.google.com/forms/d/e/1FAIpQLSd9jLuzv86yLEnx1MQYzdoLqMccahspgAzZSEn4n1Qsr-DLHQ/viewform). Becoming a captain never was supposed to be a closed-off process, but it may have felt this way with the lack of explicit outreach. We hope to see some more friends inspired to help out with picking osu!'s Loved candidates!
 
 Second, and also related to making osu!'s Project Loved section feel more accessible, **a [Discord server](https://discord.gg/gn58Uk5sTE) was opened** as another place to give feedback or just hang out and chat about all things osu! Loved. As a reminder, Project Loved has presence in many other Discord servers that you can find linked on [the website](https://loved.sh/more).
 
@@ -46,9 +46,9 @@ The osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users
 200 BPM, 4:54 | 7.71★\
 *description written by [Wixonater](https://osu.ppy.sh/users/10083084)*
 
-From a new name to the Loved Category, but quite well known as a player, Nameless Player's *Gekka\*Midare Botan* hits the sweet spot of a classic aim map.
+From a new name to the Loved category, but quite well known as a player, Nameless Player's *Gekka\*Midare Botan* hits the sweet spot of a classic aim map.
 
-At 7.71\*, 200 BPM and with a 5 minute runtime, the map doesn't take punches, yet gives a consistent challenge of cross screen aim and spaced streams. The map hits all of the basics, and does it quite flawlessly; despite the high difficulty, it remains comfortable to play and visually clean throughout.
+At 7.71 stars, 200 BPM and with a 5-minute runtime, the map doesn't pull any punches, yet gives a consistent challenge of cross-screen aim and spaced streams. The map hits all of the basics, and does it quite flawlessly; despite the high difficulty, it remains comfortable to play and visually clean throughout.
 
 I hope you enjoy, and make sure to vote on the link above if you wish to see this map enter Loved!
 
@@ -60,7 +60,7 @@ I hope you enjoy, and make sure to vote on the link above if you wish to see thi
 
 If you're looking for streams, you're going to be well stocked with this one. *Stop Saying We Sound Like Dragonforce* sure sounds like that famous Power Metal band to me, and the map is exactly what you would expect!
 
-You want 200 BPM streams? You got it. This is a polished mapset that is almost nothing but streams — very spaced, winding, curvy worms for you to mash away at. There are four difficulties, ranging from 5 stars to almost 7.8 stars, so stream aficionados are well catered for here!
+You want 200 BPM streams? You got it. This is a polished mapset that is almost nothing but streams — very spaced, winding, curvy worms for you to mash away at. There are four difficulties, ranging from 5 to almost 7.8 stars, so stream aficionados are well catered for here!
 
 This is the sort of set where you don't have to worry about many big jumps or weird patterns, so you can just focus on those streams. It's easy to see why this has become so popular among players of many skill ranges. Why not have a crack at this intense map yourself? Then, once you've given your hands a good break, give us your vote by clicking the link above!
 
@@ -82,7 +82,7 @@ A classic jump map in every sense of the term. Does this tribute deserve a spot 
 165 BPM, 4:06 | 7.13★\
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-One of the OG "flow aim tech" maps, this map has stood the test of time like no other. At 165 BPM, this map will have you flying through cut streams, slider streams, triangle streams, square streams- wait, what?
+One of the OG "flow aim tech" maps, this map has stood the test of time like no other. At 165 BPM, this map will have you flying through cut streams, slider streams, triangle streams, square streams— wait, what?
 
 Trust me, it's even better than it sounds. You've never seen a 7-star tech map quite like this one.
 
@@ -116,7 +116,7 @@ One of the most exciting TV size maps you'll ever play.
 185 BPM, 3:25 | 2.29★ – 6.68★\
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-While there are many maps of the song Teo out there, this full-spread mapset hits the spot for over 680 players. Featuring six difficulties between 2 and 6.7 stars, each difficulty is filled with comfortable yet satisfying 185 BPM jumps. While that might sound like any other map out there, I recommend giving this map a go to see what the hype is all about.
+While there are many maps of the song *Teo* out there, this full-spread mapset hits the spot for over 680 players. Featuring six difficulties between 2 and 6.7 stars, each difficulty is filled with comfortable yet satisfying 185 BPM jumps. While that may sound like any other map out there, I recommend giving this map a go to see what the hype is all about.
 
 [![](/wiki/shared/news/2022-07-26-project-loved-july-2022/796307.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -124,7 +124,7 @@ While there are many maps of the song Teo out there, this full-spread mapset hit
 270 BPM, 4:10 | 7.53★\
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-Fast aim nomod players rejoice!! This map contains non-stop 270 BPM jumps with some of the most satisfying angles and hitsounds you'll see. Mind the star rating, though — 7.5 stars is nothing to scoff at.
+Fast-aim nomod players rejoice!! This map contains non-stop 270 BPM jumps with some of the most satisfying angles and hitsounds you'll see. Mind the star rating, though — 7.5 stars is nothing to scoff at.
 
 You got this, though.
 
@@ -159,13 +159,13 @@ Every time we feature a hyperpop song, it means only one thing: slider velocity 
 
 The "mind" difficulty done by uranosu1030 is mainly an Oni/Inner Oni diff with very easy-to-hit patterns focusing solely on following the main layer of the song, making up for a very welcoming experience for players on that skill range. Beware though, since layxa's SV toned up the difficulty a bit, but most of the gimmicks are introduced slowly and intuitively.
 
-On the other hand, "montage" by miyagishima is focused on difficulty through pattern density, spiced up with a few 1/6. SV takes more of a back seat and is used only for a slight flair, so this is a perfect map for people who enjoy more plain, "fair" kind of maps without the excessive SV you see nowadays.
+On the other hand, "montage" by miyagishima is focused on difficulty through pattern density, spiced up with a few 1/6 patterns. SV takes more of a back seat and is used only for a slight flair, so this is a perfect map for people who enjoy more plain, "fair" kinds of maps without the excessive SV you see nowadays.
 
-"mistake", done by My Angel Koishi themselves, is a slight step up from the previous two diffs, as it contains both the patterning focus while also introducing more SV changes with a bit of very high SV sections.
+"mistake", done by My Angel Koishi themselves, is a slight step up from the previous two diffs, as it contains both the patterning focus while also introducing more SV changes and a few sections with very high SV.
 
-"meish" by syaron105 is what you would call an "unnecessarily high SV diff", with various sections that go quite high on SV while not giving up on difficult patterns or even streams, requiring some high SV reading skill to properly play.
+"meish" by syaron105 is what you would call an "unnecessarily high-SV diff", with various sections that go quite high on SV while not giving up on difficult patterns or even streams, requiring some high-SV reading skill to properly play.
 
-Finally, we have "memory" by Myckoll, which is like all the previous diffs mixed together together and elevated to its maximum potential: REALLY high SV usage, very difficult ninja note gimmicks, slowjam sections with serious density, and very unforgiving patterning that will require you to practice this for hours in order to achieve a full combo.
+Finally, we have "memory" by Myckoll, which is like all the previous diffs mixed together together and elevated to their maximum potential: REALLY high SV usage, very difficult ninja note gimmicks, slowjam sections with serious density, and very unforgiving patterning that will require you to practice this for hours in order to achieve a full combo.
 
 Enjoy!
 
@@ -175,7 +175,9 @@ Enjoy!
 185 BPM, 1:55 | 5.72★\
 *description written by [POCARI SWEAT](https://osu.ppy.sh/users/5082685)*
 
-Here's a classic one this time. \*BlackY - Euryale\* by glalucard is a really old beatmap that came out in 2012 ─ the era of ppv1. It could be strange to see how this map made its way into the Loved voting, but every player who tried this map has praised its structure and enjoyability. It has been 10 years since the map was out and yet it gives a remarkable experience to its players. It's also an excellent example of how to map complex streams while staying true to the song. We wish you'll find enjoyment and inspiration from this respectful creation of old times.
+Here's a classic one this time. *BlackY - Euryale* by glalucard is a really old beatmap that came out in 2012 ─ the era of ppv1. It could be strange to see how this map made its way into the Loved voting, but every player who tried this map has praised its structure and enjoyability. It has been 10 years since the map was out and yet it gives a remarkable experience to its players. It's also an excellent example of how to map complex streams while staying true to the song.
+
+We wish you'll find enjoyment and inspiration from this respectable creation of old times.
 
 [![](/wiki/shared/news/2022-07-26-project-loved-july-2022/833150.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -183,7 +185,7 @@ Here's a classic one this time. \*BlackY - Euryale\* by glalucard is a really ol
 286 BPM, 1:10 | 6.43★, 7.14★, 7.46★, 7.47★, 7.73★\
 *description written by [KuroKuroKuro](https://osu.ppy.sh/users/11931563)*
 
-*Waga Na ha Gorori* is a product of many famous mappers, and it's popular with a wide range of players. Thanks to its span of difficulties, this makes for good high BPM practice. I'm sure you have all played this map at one point or another, so we hope you're happy to see this in Loved voting!
+*Waga Na ha Gorori* is a product of many famous mappers, and it's popular with a wide range of players. Thanks to its span of difficulties, this makes for good high-BPM practice. I'm sure you have all played this map at one point or another, so we hope you're happy to see this in Loved voting!
 
 [![](/wiki/shared/news/2022-07-26-project-loved-july-2022/699727.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -191,7 +193,7 @@ Here's a classic one this time. \*BlackY - Euryale\* by glalucard is a really ol
 174.6 BPM, 2:36 | 6.89★\
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-As one of Silentroom's most popular songs, we decided to feature Nhelv by 1RoHa_, a unique take on the song with a very fun to play, entry level tech map that perfectly captures the vibe of the neurofunk sections.
+As one of Silentroom's most popular songs, we decided to feature *Nhelv* by 1RoHa_, a unique take on the song with a very fun-to-play, entry-level tech map that perfectly captures the vibe of the neurofunk sections.
 
 With patterns that vary wildly from snap to snap, this might be one of the trickiest maps to full combo for people trying to get into tech maps. Not only are the patterns very difficult to hit, they also go quite high on SV, contrary to a lot of other tech maps which often are on the lower end of scrolling, making this very refreshing to play.
 
@@ -251,7 +253,7 @@ It's not too hard of a map, but you can easily get caught off guard by it. Just 
 
 Hey you, you know the drill: there is a new mapper in the Loved selection, so give a warm welcome to Cera- for their first entry! Throughout the last 4 years, *Clarity* got quite a number of plays and became a popular map among the people who like to scour the unranked section. So, here it is, due to popular request!
 
-Clarity has a total of 3 difficulties, all of which are meant for players who are at least at intermediate level. Though the map is not ridiculously hard either, the song's upbeat and high-tempo and will definitely get your heartbeat going.
+Clarity has a total of 3 difficulties, all of which are meant for players who are at least at intermediate level. Though the map is not ridiculously hard either, the song's upbeat and high tempo and will definitely get your heartbeat going.
 
 So, just to be clear, you're going to vote, right?!
 
@@ -272,9 +274,9 @@ So.
 
 This is the official way we've found to put *Galaxy Collapse* in the Loved section somehow. Please bear with us.
 
-Jokes aside, *osu!mania memories* is an absolute nostalgia trip, and nostalgia trips are something that the Loved team is particularly fond of. This is a direct follow-up to the general concept of "osu!memories": see osu!standard's [Ranked](https://osu.ppy.sh/beatmapsets/532522) and [Loved](https://osu.ppy.sh/beatmapsets/530986) interpretations, as well as the previously [Loved osu!mania collaboration](https://osu.ppy.sh/beatmapsets/535878) on it.
+Jokes aside, *osu!mania memories* is an absolute nostalgia trip, and nostalgia trips are something that the Loved team is particularly fond of. This is a direct follow-up to the general concept of "osu!memories": see the osu! mode's [Ranked](https://osu.ppy.sh/beatmapsets/532522) and [Loved](https://osu.ppy.sh/beatmapsets/530986) interpretations, as well as the previously [Loved osu!mania collaboration](https://osu.ppy.sh/beatmapsets/535878) on it.
 
-Featuring iconic songs from sets from [2012](https://osu.ppy.sh/beatmapsets/63089) right up to, of course, [the infamous aforementioned boss song](https://osu.ppy.sh/beatmapsets/400078), the map was built by an array of equally iconic contributors to the Ranked section. However, it does seem like a long compilation of songs and maps that culminate to over 6 stars in difficulty is especially difficult to rank, especially when the collaboration aspect comes into play. With collaboration between the osu!mania Beatmap Nomination team and the Project Loved team, we have determined that *osu!mania memories* was best suited for the Loved section rather than the Ranked section.
+Featuring iconic songs from [sets from 2012](https://osu.ppy.sh/beatmapsets/63089) right up to, of course, [the infamous aforementioned boss song](https://osu.ppy.sh/beatmapsets/400078), the map was built by an array of equally iconic contributors to the Ranked section. However, it does seem like a long compilation of songs and maps that culminate to over 6 stars in difficulty is especially difficult to rank, especially when the collaboration aspect comes into play. With collaboration between the osu!mania Beatmap Nomination team and the Project Loved team, we have determined that *osu!mania memories* was best suited for the Loved section rather than the Ranked section.
 
 Feel free to discuss the development of this mapset in the voting thread with your own reasoning, and also contribute to the votes; we feel it would be particularly fruitful for not only the development of the Loved section itself, but also the Ranked section, that the community utilizes its voice and tells us what they want.
 
@@ -284,11 +286,11 @@ Feel free to discuss the development of this mapset in the voting thread with yo
 160 BPM, 2:02 | 3.67★\
 *description written by [Paturages](https://osu.ppy.sh/users/1375479)*
 
-Player0 has been a recurring name in the mania storyboarding scene, with other quite intriguing Loved entries [*Lagtrain*](https://osu.ppy.sh/beatmapsets/1405100) and [*polygon*](https://osu.ppy.sh/beatmapsets/1066137). They make a banger of a return this month with lapix's *Nothing but Theory*!
+Player0 has been a recurring name in the mania storyboarding scene, with other quite intriguing Loved entries [Lagtrain](https://osu.ppy.sh/beatmapsets/1405100) and [polygon](https://osu.ppy.sh/beatmapsets/1066137). They make a banger of a return this month with lapix's *Nothing but Theory*!
 
-For "conventional" SV players, this is going to be a little bit of a departure from the usual monthly treat, but *Nothing but Theory* lends itself to be fairly playable and actually fun to learn for a storyboarded map. Plus, you might already know the song from [H1Pur's interpretation](https://osu.ppy.sh/beatmapsets/1422643) for SVSE qualifiers.
+For "conventional" SV players, this is going to be a little bit of a departure from the usual monthly treat, but *Nothing but Theory* lends itself to be fairly playable and actually fun to learn for a storyboarded map. Plus, you might already know the song from [H1Pur's interpretation](https://osu.ppy.sh/beatmapsets/1422643) for [SVSE](https://osu.ppy.sh/community/forums/topics/1313374) qualifiers.
 
-For us Loved captains, it is only from theory that we submit this set for voting: it is up to you all to make it a reality in practice by casting your vote!
+For us Loved captains, it is only from theory that we submit this set for voting: it is up to you all to make it a reality by casting your vote!
 
 [![](/wiki/shared/news/2022-07-26-project-loved-july-2022/1319421.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -308,11 +310,11 @@ We hope you enjoy this map enough to cast your vote for it!
 93 – 130.2 BPM, 1:33 | 4.42★, 4.78★, 5.14★, 5.50★, 5.86★\
 *description written by [kadoen](https://osu.ppy.sh/users/12780575)*
 
-*Tiny Litte Adiantum*, better known as the "Already Dead" instrumental, is a straightforward jack chart. The high density but low BPM combine to give an approachable experience that has contributed to its massive popularity, as clearly seen by the many thousands of plays it has accumulated.
+*Tiny Litte Adiantum*, better known as the "Already Dead" instrumental, is a straightforward jack chart. The high density and low BPM combine to give an approachable experience that has contributed to its massive popularity, as clearly seen by the many thousands of plays it has accumulated.
 
 Now we want to give the chance to those that have enjoyed the map to battle it out on some leaderboards, from the base rate (at 93 BPM) up to 1.4x (at a very respectable 130 BPM).
 
-So relax to the chill bossanova beat, hit some chords, and vote!
+So relax to the chill bossa nova beat, hit some chords, and vote!
 
 [![](/wiki/shared/news/2022-07-26-project-loved-july-2022/376703.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -320,9 +322,9 @@ So relax to the chill bossanova beat, hit some chords, and vote!
 138 – 193.2 BPM, 1:24 | 4.65★, 5.03★, 5.42★, 5.80★, 6.21★\
 *description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
 
-This one goes out to all those Greek alphabet fans out there. On a more serious note, many people (including us) would say that this chart was long overdue. Let us give yet another welcome to Shoegazer in the Loved polls with another staple chart of theirs: *Odoru Mizushubuki*!
+This one goes out to all those Greek alphabet fans out there. On a more serious note, many people (including us) would say that this chart was long overdue. Let us give yet another welcome to Shoegazer in the Loved polls with another staple chart of theirs: *Odoru Mizushibuki*!
 
-For those unaware of the map, you should expect a fun and challenging technical chart focused on periodic bursts and an emphasis on small anchors here and there. While it might seem deceptively easy on the lower rates, those seeking something more difficult are assured to find it by just trying something slightly faster. Difficulty won't scale linearly, but the fun is sure to do!
+For those unaware of the map, you should expect a fun and challenging technical chart focused on periodic bursts and an emphasis on small anchors here and there. While it might seem deceptively easy on the lower rates, those seeking something more difficult are assured to find it by just trying something slightly faster. Difficulty won't scale linearly, but the fun sure will!
 
 In any case, we really hope everyone gives it a try. I'd also encourage those who have only played on the uprated version to give a try on its original speed. *Might help you mald a little less just because you couldn't get an arbitrary 96%\~.*
 
@@ -344,11 +346,11 @@ Also, [contextless spoiler.](https://twitter.com/TheFunny_mp4/status/14425371569
 147 – 205.8 BPM, 2:30 | 5.67★, 6.16★, 6.64★, 7.12★, 7.60★\
 *description written by [kadoen](https://osu.ppy.sh/users/12780575)*
 
-As one of the best known mappers in 7K, Kawawa doesn't need any introduction. Back in 2020 the first entry of their "Bracket Challenge" series, *[Ichinen Nikagetsu Hatsuka](https://osu.ppy.sh/beatmapsets/895652)* was nominated and Loved — now we're bringing to you the second entry in the series, *GO FOR IT !!*.
+As one of the best-known mappers in 7K, Kawawa doesn't need any introduction. Back in 2020 the first entry of their "Bracket Challenge" series, [Ichinen Nikagetsu Hatsuka](https://osu.ppy.sh/beatmapsets/895652) was nominated and Loved — now we're bringing to you the second entry in the series, *GO FOR IT !!*.
 
-You know the drill; the map consists of consistent chordstreams throughout with very heavy bracket usage, set to an upbeat J-pop song. It clocks in at 147 BPM, and the set includes rates up to 1.4x, a staggering 206 BPM!
+You know the drill: the map consists of consistent chordstreams throughout with very heavy bracket usage, set to an upbeat J-pop song. It clocks in at 147 BPM, and the set includes rates up to 1.4x, a staggering 206 BPM!
 
-All-in-all this is a great set to practice the tricky patterns that are brackets, adapted for multiple skill levels. Now, stretch your fingers and vote!
+All in all this is a great set to practice the tricky patterns that are brackets, adapted for multiple skill levels. Now, stretch your fingers and vote!
 
 [![](/wiki/shared/news/2022-07-26-project-loved-july-2022/665713.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
