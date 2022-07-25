@@ -8,7 +8,7 @@ tags:
 
 ![CFB5 logo](img/logo.jpg)
 
-The **Catch French Beginner 5** (***CFB5***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Only players ranked between #2,500 and below were eligible to participate. This was the fifth instalment of the Catch French Beginner.
+The **Catch French Beginner 5** (***CFB5***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949). Only players ranked between #2,500 and below were eligible to participate. This was the fifth instalment of the Catch French Beginner.
 
 ## Tournament schedule
 
@@ -33,7 +33,7 @@ The **Catch French Beginner 5** (***CFB5***) was a beginner French double-elimin
 
 ![](img/badge.jpg "CFB5 winner badge")
 
-Generous donations from ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949), and ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) helped fund some of the prizes.
+Generous donations from ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949), and ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) helped fund some of the prizes.
 
 ## Organisation
 
@@ -41,14 +41,14 @@ The Catch French Beginner 5 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Mappool selector | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
-| Referee | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
-| Commentator | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
-| Badge designer | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Statistician | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Mappool selector | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012), ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| Referee | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Streamer | ::{ flag=FR }:: [Fulgu](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [Ttobas](https://osu.ppy.sh/users/2084568), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565) |
+| Commentator | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| Badge designer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Statistician | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -62,11 +62,11 @@ The Catch French Beginner 5 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_FR] [Enias](https://osu.ppy.sh/users/8384680), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Shamookie](https://osu.ppy.sh/users/12441210) |
-| High | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Beltheor](https://osu.ppy.sh/users/14966708), ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161) |
-| Low | ![][flag_FR] [caillrot](https://osu.ppy.sh/users/13108984), ![][flag_FR] [Okawashi](https://osu.ppy.sh/users/6636540), ![][flag_FR] [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ![][flag_FR] [AceEpmo](https://osu.ppy.sh/users/16725715) |
-| Unseeded | ![][flag_FR] [iron-wish](https://osu.ppy.sh/users/12264606), ![][flag_FR] [Nos_If](https://osu.ppy.sh/users/7365196), ![][flag_FR] [Utopsia](https://osu.ppy.sh/users/11080305), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) |
-| Eliminated | ![][flag_FR] [SverdWyrd](https://osu.ppy.sh/users/10996443), ![][flag_FR] [Hitsumo](https://osu.ppy.sh/users/3199415) |
+| Top | ::{ flag=FR }:: [Enias](https://osu.ppy.sh/users/8384680), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210) |
+| High | ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [Beltheor](https://osu.ppy.sh/users/14966708), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) |
+| Low | ::{ flag=FR }:: [caillrot](https://osu.ppy.sh/users/13108984), ::{ flag=FR }:: [Okawashi](https://osu.ppy.sh/users/6636540), ::{ flag=FR }:: [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ::{ flag=FR }:: [AceEpmo](https://osu.ppy.sh/users/16725715) |
+| Unseeded | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606), ::{ flag=FR }:: [Nos_If](https://osu.ppy.sh/users/7365196), ::{ flag=FR }:: [Utopsia](https://osu.ppy.sh/users/11080305), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523) |
+| Eliminated | ::{ flag=FR }:: [SverdWyrd](https://osu.ppy.sh/users/10996443), ::{ flag=FR }:: [Hitsumo](https://osu.ppy.sh/users/3199415) |
 
 *Note: Players were sorted by the Qualifiers results.*
 
@@ -76,9 +76,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Enias](https://osu.ppy.sh/users/8384680) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Enias](https://osu.ppy.sh/users/8384680) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) |
 
 ## Mappools
 
@@ -231,13 +231,13 @@ Saturday, 20 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| MitsukeZ ![][flag_FR] | 5 | **7** | ![][flag_FR] **redjiii** | [#1](https://osu.ppy.sh/community/matches/76235832) |
+| MitsukeZ ::{ flag=FR }:: | 5 | **7** | ::{ flag=FR }:: **redjiii** | [#1](https://osu.ppy.sh/community/matches/76235832) |
 
 Sunday, 21 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Enias** ![][flag_FR] | **7** | 6 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/76325182) |
+| **Enias** ::{ flag=FR }:: | **7** | 6 | ::{ flag=FR }:: redjiii | [#1](https://osu.ppy.sh/community/matches/76325182) |
 
 ### Finals
 
@@ -245,13 +245,13 @@ Saturday, 13 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Shamookie ![][flag_FR] | 4 | **7** | ![][flag_FR] **redjiii** | [#1](https://osu.ppy.sh/community/matches/75661608) |
+| Shamookie ::{ flag=FR }:: | 4 | **7** | ::{ flag=FR }:: **redjiii** | [#1](https://osu.ppy.sh/community/matches/75661608) |
 
 Sunday, 14 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| MitsukeZ ![][flag_FR] | 0 | **7** | ![][flag_FR] **Enias** | [#1](https://osu.ppy.sh/community/matches/75751212) |
+| MitsukeZ ::{ flag=FR }:: | 0 | **7** | ::{ flag=FR }:: **Enias** | [#1](https://osu.ppy.sh/community/matches/75751212) |
 
 ### Semifinals
 
@@ -259,17 +259,17 @@ Saturday, 6 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Enias** ![][flag_FR] | **6** | 4 | ![][flag_FR] Redjiii | [#1](https://osu.ppy.sh/community/matches/75099589) |
-| caillrot ![][flag_FR] | 4 | **6** | ![][flag_FR] **Beltheor** | [#1](https://osu.ppy.sh/community/matches/75106303) |
-| **MitsukeZ** ![][flag_FR] | **6** | 4 | ![][flag_FR] Shamookie | [#1](https://osu.ppy.sh/community/matches/75111200) |
-| **Jibsz** ![][flag_FR] | **6** | 0 | ![][flag_FR] JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/75140361) |
-| **Redjiii** ![][flag_FR] | **6** | 2 | ![][flag_FR] Jibsz | [#1](https://osu.ppy.sh/community/matches/75140361) |
+| **Enias** ::{ flag=FR }:: | **6** | 4 | ::{ flag=FR }:: Redjiii | [#1](https://osu.ppy.sh/community/matches/75099589) |
+| caillrot ::{ flag=FR }:: | 4 | **6** | ::{ flag=FR }:: **Beltheor** | [#1](https://osu.ppy.sh/community/matches/75106303) |
+| **MitsukeZ** ::{ flag=FR }:: | **6** | 4 | ::{ flag=FR }:: Shamookie | [#1](https://osu.ppy.sh/community/matches/75111200) |
+| **Jibsz** ::{ flag=FR }:: | **6** | 0 | ::{ flag=FR }:: JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/75140361) |
+| **Redjiii** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: Jibsz | [#1](https://osu.ppy.sh/community/matches/75140361) |
 
 Sunday, 7 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Shamookie** ![][flag_FR] | **6** | 3 | ![][flag_FR] Beltheor | [#1](https://osu.ppy.sh/community/matches/75191741) |
+| **Shamookie** ::{ flag=FR }:: | **6** | 3 | ::{ flag=FR }:: Beltheor | [#1](https://osu.ppy.sh/community/matches/75191741) |
 
 ### Quarterfinals
 
@@ -277,17 +277,17 @@ Saturday, 30 January 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Enias** ![][flag_FR] | **5** | 1 | ![][flag_FR] Beltheor | [#1](https://osu.ppy.sh/community/matches/74567289) |
-| Kammthaar ![][flag_FR] | 1 | **5** | ![][flag_FR] **MitsukeZ** | [#1](https://osu.ppy.sh/community/matches/74576181) |
-| **Shamookie** ![][flag_FR] | **5** | 1 | ![][flag_FR] Jibsz | [#1](https://osu.ppy.sh/community/matches/74597249) |
+| **Enias** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Beltheor | [#1](https://osu.ppy.sh/community/matches/74567289) |
+| Kammthaar ::{ flag=FR }:: | 1 | **5** | ::{ flag=FR }:: **MitsukeZ** | [#1](https://osu.ppy.sh/community/matches/74576181) |
+| **Shamookie** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Jibsz | [#1](https://osu.ppy.sh/community/matches/74597249) |
 
 Sunday, 31 January 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Beltheor** ![][flag_FR] | **5** | 0 | ![][flag_FR] iron-wish | [#1](https://osu.ppy.sh/community/matches/74656997) |
-| Kammthaar ![][flag_FR] | 0 | **5** | ![][flag_FR] **JunKoAndHiro** | [#1](https://osu.ppy.sh/community/matches/74660506) |
-| **Jibsz** ![][flag_FR] | **5** | 1 | ![][flag_FR] Utopsia | [#1](https://osu.ppy.sh/community/matches/74662642) |
+| **Beltheor** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: iron-wish | [#1](https://osu.ppy.sh/community/matches/74656997) |
+| Kammthaar ::{ flag=FR }:: | 0 | **5** | ::{ flag=FR }:: **JunKoAndHiro** | [#1](https://osu.ppy.sh/community/matches/74660506) |
+| **Jibsz** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Utopsia | [#1](https://osu.ppy.sh/community/matches/74662642) |
 
 ### Round of 16
 
@@ -295,26 +295,26 @@ Friday, 22 January 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Nos\_If ![][flag_FR] | 0 | **4** | ![][flag_FR] **Un bretzel** | [#1](https://osu.ppy.sh/community/matches/73988705) |
+| Nos\_If ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Un bretzel** | [#1](https://osu.ppy.sh/community/matches/73988705) |
 
 Saturday, 23 January 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Enias** ![][flag_FR] | **4** | 0 | ![][flag_FR] Utopsia | [#1](https://osu.ppy.sh/community/matches/74031351) |
-| **Shamookie** ![][flag_FR] | **4** | 0 | ![][flag_FR] iron-wish | [#1](https://osu.ppy.sh/community/matches/74054310) |
-| **Redjiii** ![][flag_FR] | **4** | 0 | ![][flag_FR] JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/74040385) |
-| **MitsukeZ** ![][flag_FR] | **4** | 2 | ![][flag_FR] caillrot | [#1](https://osu.ppy.sh/community/matches/74057644) |
-| **Beltheor** ![][flag_FR] | **4** | 1 | ![][flag_FR] Okawashi | [#1](https://osu.ppy.sh/community/matches/74060895) |
-| **Jibsz** ![][flag_FR] | **4** | 0 | ![][flag_FR] AceEpmo | [#1](https://osu.ppy.sh/community/matches/74074646) |
+| **Enias** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: Utopsia | [#1](https://osu.ppy.sh/community/matches/74031351) |
+| **Shamookie** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: iron-wish | [#1](https://osu.ppy.sh/community/matches/74054310) |
+| **Redjiii** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/74040385) |
+| **MitsukeZ** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: caillrot | [#1](https://osu.ppy.sh/community/matches/74057644) |
+| **Beltheor** ::{ flag=FR }:: | **4** | 1 | ::{ flag=FR }:: Okawashi | [#1](https://osu.ppy.sh/community/matches/74060895) |
+| **Jibsz** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: AceEpmo | [#1](https://osu.ppy.sh/community/matches/74074646) |
 
 Sunday, 24 January 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Nos\_If ![][flag_FR] | -1 | **0** | ![][flag_FR] **JunkoAndHiro** | *win by default* |
-| **Utopsia** ![][flag_FR] | **0** | -1 | ![][flag_FR] Okawashi | *win by default* |
-| **iron-wish** ![][flag_FR] | **4** | 2 | ![][flag_FR] AceEpmo | [#1](https://osu.ppy.sh/community/matches/74130906) |
+| Nos\_If ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **JunkoAndHiro** | *win by default* |
+| **Utopsia** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Okawashi | *win by default* |
+| **iron-wish** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: AceEpmo | [#1](https://osu.ppy.sh/community/matches/74130906) |
 
 ### Qualifiers
 
@@ -324,23 +324,23 @@ Sunday, 24 January 2021:
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
-| #1 | ![][flag_FR] [Enias](https://osu.ppy.sh/users/8384680) | 2.6 |
-| #2 | ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) | 3.8 |
-| #3 | ![][flag_FR] [Shamookie](https://osu.ppy.sh/users/12441210) | 4 |
-| #4 | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | 4.8 |
-| #5 | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) | 5.6 |
-| #6 | ![][flag_FR] [Beltheor](https://osu.ppy.sh/users/14966708) | 6.6 |
-| #7 | ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161) | 7.6 |
-| #8 | ![][flag_FR] [caillrot](https://osu.ppy.sh/users/13108984) | 8.6 |
-| #9 | ![][flag_FR] [Okawashi](https://osu.ppy.sh/users/6636540) | 10.4 |
-| #10 | ![][flag_FR] [JunKoAndHiro](https://osu.ppy.sh/users/14004732) | 11.8 |
-| #10 | ![][flag_FR] [AceEpmo](https://osu.ppy.sh/users/16725715) | 11.8 |
-| #12 | ![][flag_FR] [iron-wish](https://osu.ppy.sh/users/12264606) | 13 |
-| #13 | ![][flag_FR] [Nos\_If](https://osu.ppy.sh/users/7365196) | 13.4 |
-| #14 | ![][flag_FR] [Utopsia](https://osu.ppy.sh/users/11080305) | 14 |
-| #15 | ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) | 14.6 |
-| #16 | ![][flag_FR] [SverdWyrd](https://osu.ppy.sh/users/10996443) | 17.2 |
-| #17 | ![][flag_FR] [Hitsumo](https://osu.ppy.sh/users/3199415) | 17.8 |
+| #1 | ::{ flag=FR }:: [Enias](https://osu.ppy.sh/users/8384680) | 2.6 |
+| #2 | ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565) | 3.8 |
+| #3 | ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210) | 4 |
+| #4 | ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489) | 4.8 |
+| #5 | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) | 5.6 |
+| #6 | ::{ flag=FR }:: [Beltheor](https://osu.ppy.sh/users/14966708) | 6.6 |
+| #7 | ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) | 7.6 |
+| #8 | ::{ flag=FR }:: [caillrot](https://osu.ppy.sh/users/13108984) | 8.6 |
+| #9 | ::{ flag=FR }:: [Okawashi](https://osu.ppy.sh/users/6636540) | 10.4 |
+| #10 | ::{ flag=FR }:: [JunKoAndHiro](https://osu.ppy.sh/users/14004732) | 11.8 |
+| #10 | ::{ flag=FR }:: [AceEpmo](https://osu.ppy.sh/users/16725715) | 11.8 |
+| #12 | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606) | 13 |
+| #13 | ::{ flag=FR }:: [Nos\_If](https://osu.ppy.sh/users/7365196) | 13.4 |
+| #14 | ::{ flag=FR }:: [Utopsia](https://osu.ppy.sh/users/11080305) | 14 |
+| #15 | ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523) | 14.6 |
+| #16 | ::{ flag=FR }:: [SverdWyrd](https://osu.ppy.sh/users/10996443) | 17.2 |
+| #17 | ::{ flag=FR }:: [Hitsumo](https://osu.ppy.sh/users/3199415) | 17.8 |
 
 ## Ruleset
 
@@ -376,7 +376,3 @@ Sunday, 24 January 2021:
 2. Quarterfinals: Best of 9 (first to 5 points)
 3. Semifinals: Best of 11 (first to 6 points)
 4. **Finals and Grand Finals**: Best of 13 (first to 7 points)
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
