@@ -1,5 +1,3 @@
-<!-- TODO: strange descriptions in many places and unhelpful order if you're trying to see what this game mode is all about. -->
-
 # osu! (ゲームモード)
 
 その他の用法については、[osu! (曖昧さ回避)](/wiki/Disambiguation/osu!)を参照してください。
