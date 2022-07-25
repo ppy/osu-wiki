@@ -320,7 +320,7 @@ So relax to the chill bossanova beat, hit some chords, and vote!
 138 – 193.2 BPM, 1:24 | 4.65★, 5.03★, 5.42★, 5.80★, 6.21★\
 *description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
 
-This one goes out to all those Greek alphabet fans out there. On a more serious note, many people \[i\](including us)\[/i\] would say that this chart was long overdue. Let us give yet another welcome to Shoegazer in the Loved polls with another staple chart of theirs: *Odoru Mizushubuki*!
+This one goes out to all those Greek alphabet fans out there. On a more serious note, many people (including us) would say that this chart was long overdue. Let us give yet another welcome to Shoegazer in the Loved polls with another staple chart of theirs: *Odoru Mizushubuki*!
 
 For those unaware of the map, you should expect a fun and challenging technical chart focused on periodic bursts and an emphasis on small anchors here and there. While it might seem deceptively easy on the lower rates, those seeking something more difficult are assured to find it by just trying something slightly faster. Difficulty won't scale linearly, but the fun is sure to do!
 
