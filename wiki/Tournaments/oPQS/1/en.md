@@ -16,7 +16,7 @@ The **osu! Philippines Quickfire Showdown** (***oPQS***) was a 1v1 single-elimin
 ### 2022-07-23 (Day 1)
 
 | Event | Timestamp |
-| :-: | :-- |
+| --: | :-- |
 | Registration phase | 10:00 - 13:00 (UTC+08) |
 | Round of 16 | 13:00 - 15:00 (UTC+08) |
 | Quarterfinals | 15:00 - 16:00 (UTC+08) |
@@ -26,7 +26,7 @@ The **osu! Philippines Quickfire Showdown** (***oPQS***) was a 1v1 single-elimin
 ### 2022-07-24 (Day 2)
 
 | Event | Timestamp |
-| :-: | :-- |
+| --: | :-- |
 | Registration phase | 10:00 - 13:00 (UTC+08) |
 | Round of 16 | 13:00 - 15:00 (UTC+08) |
 | Quarterfinals | 15:00 - 16:00 (UTC+08) |
