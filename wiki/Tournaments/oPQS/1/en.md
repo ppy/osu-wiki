@@ -133,7 +133,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappool (Day 1)
 
-#### Finals
+### Finals
 
 - NoMod
   - [LEAF XCEED Music Division - Touch Me Not (samosita) [Malevolence]](https://osu.ppy.sh/beatmapsets/1811504#osu/3715687)
@@ -151,7 +151,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - [Cranky - Flugel (Net0) [CMB Collab]](https://osu.ppy.sh/beatmapsets/1280436#osu/2659781)
 
-#### Semifinals
+### Semifinals
 
 - NoMod
   - [JIN feat. LiSA - Headphone Actor (Amiya) [Tragic Love Extra]](https://osu.ppy.sh/beatmapsets/936267#osu/1955955)
@@ -169,7 +169,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - [Nanahira - Petals (Kalibe) [Flower]](https://osu.ppy.sh/beatmapsets/592381#osu/1601880)
 
-#### Quarterfinals
+### Quarterfinals
 
 - NoMod
   - [Ayane - FaV -F*** and Vanguard- (Corinn) [Happiness]](https://osu.ppy.sh/beatmapsets/494460#osu/1052871)
@@ -187,7 +187,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - [Powerless feat. Sennzai - Unrequited (PandaHero) [Collab Extra]](https://osu.ppy.sh/beatmapsets/1442147#osu/2966612)
 
-#### Round of 16
+### Round of 16
 
 - NoMod
   - [Feryquitous feat. Aitsuki Nakuru - Fake (KlaksoncakFish) [Doppelganger]](https://osu.ppy.sh/beatmapsets/1559330#osu/3185179)
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappool (Day 2)
 
-#### Finals
+### Finals
 
 - NoMod
   - [Imy - Countdown (jonathanlfj) [captin's Extra]](https://osu.ppy.sh/beatmapsets/1615696#osu/3298667)
@@ -225,7 +225,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - [Irodorimidori - Bokura no Freedom DiVE (-Mercury) [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmapsets/1667264#osu/3404280)
 
-#### Semifinals
+### Semifinals
 
 - NoMod
   - [Natsume Itsuki - Mayday (SMOKELIND) [EX]](https://osu.ppy.sh/beatmapsets/1506697#osu/3086147)
@@ -243,7 +243,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - [Yooh - Shigure (pyth0nix) [Lunar Downpour]](https://osu.ppy.sh/beatmapsets/1186689#osu/2473220)
 
-#### Quarterfinals
+### Quarterfinals
 
 - NoMod
   - [Wakeshima Kanon - the BEAST can't BE STOpped (Gelidium) [Frail]](https://osu.ppy.sh/beatmapsets/1243487#osu/2585154)
@@ -261,7 +261,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - [Rita - dorchadas (Delis) [Sharnoth]](https://osu.ppy.sh/beatmapsets/580215#osu/1279490)
 
-#### Round of 16
+### Round of 16
 
 - NoMod
   - [solfa feat. Chata - Colorful precious life (lit120) [Yozuku's Extra]](https://osu.ppy.sh/beatmapsets/1640724#osu/3348791)
@@ -281,21 +281,21 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match Results (Day 1)
 
-#### Finals
+### Finals
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | rexralph1 | 0 | 3 | Revillica | [#1](https://osu.ppy.sh/community/matches/102495355) |
 | Awper | 0 | 3 | xXCraigyxD28Xx | [#1](https://osu.ppy.sh/community/matches/102495115) |
 
-#### Semifinals
+### Semifinals
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | rexralph1 | 3 | 2 | Awper | [#1](https://osu.ppy.sh/community/matches/102494079) |
 | Revillica | 3 | 1 | xXCraigyxD28Xx | [#1](https://osu.ppy.sh/community/matches/102494726) |
 
-#### Quarterfinals
+### Quarterfinals
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -304,7 +304,7 @@ This competition has come to an end and resulted in the following podium:
 | Revillica | 2 | 0 | Leehi | [#1](https://osu.ppy.sh/community/matches/102493628) |
 | xXCraigyxD28Xx | 2 | 0 | NathanSS | [#1](https://osu.ppy.sh/community/matches/102493884) |
 
-#### Round of 16
+### Round of 16
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -319,21 +319,21 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match Results (Day 2)
 
-#### Finals
+### Finals
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | bluezenithgames | 1 | 3 | CircIes | [#1](https://osu.ppy.sh/community/matches/102521459) |
 | RnJn | 3 | 2 | OsuSeulgiDragon | [#1](https://osu.ppy.sh/community/matches/102520939) |
 
-#### Semifinals
+### Semifinals
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | bluezenithgames | 3 | 0 | RnJn | [#1](https://osu.ppy.sh/community/matches/102520721) |
 | OsuSeulgiDragon | 0 | 3 | CircIes | [#1](https://osu.ppy.sh/community/matches/102520372) |
 
-#### Quarterfinals
+### Quarterfinals
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -342,7 +342,7 @@ This competition has come to an end and resulted in the following podium:
 | OsuSeulgiDragon | 2 | 1 | Pillows | [#1](https://osu.ppy.sh/community/matches/102519735) |
 | CircIes | 2 | 0 | MerpyXD | [#1](https://osu.ppy.sh/community/matches/102519893) |
 
-#### Round of 16
+### Round of 16
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -369,4 +369,3 @@ This competition has come to an end and resulted in the following podium:
 - Freemod is allowed on Tiebreaker.
 - Majority of the mappool should contain Featured Artist songs, could be filled with other non-FA songs.
 - All mappools will be revealed on the spot.
-
