@@ -174,54 +174,6 @@ Another feature that's maybe not the newest, but some of you might have missed, 
     </video>
 </div>
 
-## Summary of this Article
-
-### ![](/wiki/shared/mode/osu.png) osu!
-
-- The Roundtable has ended on insane matches, especially the [Utami](https://osu.ppy.sh/users/7512553) vs [mrekk](https://osu.ppy.sh/users/7562902) one! 
-  
-  [➥ Find the article here!](#if-you-ask-us-what-is-the-big-event-of-july-itd-be-the-roundtable)
-
-- For the month's top score, we got [[Karcher]](https://osu.ppy.sh/users/11443437) achieving an insane Full Combo on [*Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo*](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991)!
-  
-  [➥ Find the article here!](#as-if-the-impossible-could-not-be-done-only-once-but-twice)
-
-### ![](/wiki/shared/mode/taiko.png) osu!taiko 
-
-- [The Expert Global Taiko Showdown 2022](/wiki/en/Tournaments/GTS/EGTS_2022) is hitting on the stage! This is the way Taiko players can overtake [The Roundtable](#if-you-ask-us-what-is-the-big-event-of-july-itd-be-the-roundtable) in terms of epic shows!
-  
-  [➥ Find the article here!](#as-if-we-could-allow-for-osu-to-take-all-the-glory-in-its-showcasing-of-top-players-and-their-performances-taiko-takes-it-upon-themself-to-rival-even-that-of-the-roundtable-with-their-very-own-annual-entry-of-expert-global-taiko-showdown-2022)
-
-### ![](/wiki/shared/mode/catch.png) osu!catch
-
-- The [Catch World Cup 2022](/wiki/en/Tournaments/CWC/2022) has ended on pretty amazing performances ! Is South Korea dominating two modes at the same time?
-  
-  [➥ Find the article here!](#at-the-beginning-of-july-the-recent-eleventh-iteration-of-osucatch-world-cup-has-been-concluded)
-
-- The score of the month, according to us, is the [YesMyDarkness’](https://osu.ppy.sh/users/4158549/fruits) HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy.sh/beatmapsets/521900#fruits/1108507)! Somebody screeeeeeeeeeeeeeeeeam!
-  
-  [➥ Find the article here!](#everybody-scream-even-with-being-the-number-one-osucatch-player-in-the-world-a-play-such-as-yesmydarkness-is-no-small-feat)
-
-- With all greatness comes great scores! This month, we have [shinchikuhome’s](https://osu.ppy.sh/users/3174184) DT play on [Apollo](https://osu.ppy.sh/beatmapsets/1739877#taiko/3558252)! **411 BPM!** That's for you, speed enjoyers!
-  
-  [➥ Find the article here!](#whew-if-you-thought-the-pick-for-osu-was-crazy-wait-till-you-watch-shinchikuhomes-dt-play-on-apollo)
-
-### ![](/wiki/shared/mode/mania.png) osu!mania
-
-- The [osu!mania World Cup 2022](/wiki/en/Tournaments/MWC/2022_4K) is the road to the greatness for the Mania top players! They will brawl again in this great arena! Who's gonna take the crown?
-  
-  [➥ Find the article here!](#in-august-the-osumania-top-players-will-brawl-in-the-osumania-world-cup-2022)
-
-- The scores now!
-  Let's start with a 7K score : [Onta_Bekasi](https://osu.ppy.sh/users/8677684) only lost 0,02 accuracy on the surprisingly difficult *"My Man"*! A flawless performance!
-
-  [➥ Find the article here!](#the-mania-k-pop-community-is-going-to-be-absolutely-ecstatic-at-this-next-showcase)
-
-- Now, an amazing 4K score! If you thought *My Man* had LNs, wait 'till you watch just over 7 minutes of almost non-stop LN action along with being bridled by intense single-note action and 
-BPM changes throughout the map. [[GS] Myuka](https://osu.ppy.sh/users/10072733) has done a rampage on the Camellia’s - MI11I0N PP!
-
-  [➥ Find the article here!](#wow-just-completely-shocked-at-this-performance-by-gsmyuka-on-camellias---mi11i0n-pp)
-
 ## Month's Community Quiz
 
 A monthly question or puzzle for you!
