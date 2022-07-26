@@ -62,7 +62,7 @@ Thanks again to [BTMC](https://osu.ppy.sh/users/3171691) and his staff for this 
 
 #### EGTS 2022
 
-As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, osu!taiko takes it upon itself to rival even that of [*The Roundtable*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable) with their very own annual entry of **[Expert Global Taiko Showdown 2022](/wiki/en/Tournaments/GTS/EGTS_2022)**!
+As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, members of the osu!taiko community take it upon themselves to rival even that of [*The Roundtable*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable) with their very own annual entry of **[Expert Global Taiko Showdown 2022](/wiki/en/Tournaments/GTS/EGTS_2022)**!
 
 As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsu, and quite possibly, even, Taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
 
@@ -151,7 +151,7 @@ If you thought *My Man* had LNs, wait until you see a map of over 7 minutes of n
 
 Somebody scream! Even with being the number one osu!catch player in the world, a play such as [YesMyDarkness’](https://osu.ppy.sh/users/4158549/fruits) is no small feat. 
 
-Coming in with a HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy.sh/beatmapsets/521900#fruits/1108507) one of the most well known artists and songs in osu! surely does do them some justice. Riddled with intense and **dash**ingly hard jumps it is a play to contend with even the hardest of maps, let alone with hidden and hardrock! 
+Coming in with an HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy.sh/beatmapsets/521900#fruits/1108507) one of the most well-known artists and songs in osu! surely does do them some justice. Riddled with intense and **dash**ingly hard jumps it is a play to contend with even the hardest of maps, let alone with hidden and hardrock!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/byyHOAopo1A" frameborder="0" allowfullscreen></iframe>
 
@@ -159,7 +159,8 @@ Coming in with a HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.ppy
 
 ## New Features on osu!(lazer)!
 
-The new client has never so **close** from releasing (there's still a lot of work on it!), and has **new mods**, more original than never! 
+The new client has never been so **close** to release (there's still a lot of work on it!), and has **new mods**, more original than never!
+
 For the first time ever, lazer patch notes have been posted on the official osu! [YouTube channel](https://www.youtube.com/c/osugame), compiled by [pishifat](https://osu.ppy.sh/users/3178418) with further insight provided by the man himself, [peppy](https://osu.ppy.sh/users/2)!
 Check the video out:
 
@@ -185,7 +186,7 @@ Another feature that's maybe not the newest, but some of you might have missed, 
 
 ## Month's Community Quiz
 
-A monthly question or puzzle for you!
+For those who think they have all the answers... here's a riddle from us to you!
 
 > Once upon a time, in the ye' old osu!, someone asked for advice from the ancestors among osu!, the post reads as follows: 
 
@@ -193,16 +194,16 @@ A monthly question or puzzle for you!
 
 > This ancient tome is hidden behind a code, the code you seek is everywhere but no where at the same time, always in the back of your mind but only breaching the surface at the moment you see it, now... go forth, unveil the secret code, and paste the number in the link, and gain access to this ancient tome!
 
-> The first person to answer it correctly will receive a month of osu!supporter, leave your answer in the comment!
+The first person to answer it correctly will receive a month of osu!supporter, leave your answer in the comment!
 
 ## End Word
 
-We wanted to thank the osu!team and the contributors to [osu!lazer](https://github.com/ppy/osu), [osu!web](https://github.com/ppy/osu-Web) and [osu!wiki](https://github.com/ppy/osu-wiki) for their hard work on the repositories and the trust thay gave us. Huge thanks again to [Nelly](https://osu.ppy.sh/users/4741164) for the osu!catch news bulletin, [fajar13k](https://osu.ppy.sh/users/7100002) for his contribution to the EGTS part, and to [The-Last-Cookie](https://github.com/The-Last-Cookie) for his amazing review (a lot of things to correct, right?)!
+We wanted to thank the osu!team and the contributors to [osu!lazer](https://github.com/ppy/osu), [osu!web](https://github.com/ppy/osu-Web) and [osu!wiki](https://github.com/ppy/osu-wiki) for their hard work on the repositories and the trust thay gave us. Huge thanks again to [Nelly](https://osu.ppy.sh/users/4741164) for the osu!catch news bulletin, [fajar13k](https://osu.ppy.sh/users/7100002) for his contribution to the EGTS part, and to [The_Last_Cookie](https://osu.ppy.sh/users/11587828) for his amazing review (a lot of things to correct, right?)!
 
-If you're interested on seeing the creation processus, the backstages of osu!, please join the [osu!dev server](https://discord.gg/ppy)! (Articles from external contributors are welcome)
+If you're interested in seeing the creation process, and the backstages of osu!, please join the [osu!dev server](https://discord.gg/ppy)! (Articles from external contributors are welcome)
 
 While waiting for the next article, we want to thank in advance all of the community members who'll send us messages about subjects you want covered. If you have any feedback or thoughts about the osu!monthly, pour it all in the forum [discussion thread](https://osu.ppy.sh/community/forums/topics/1614314)!
 
-It's a real honor for us to write for you, the community. Thanks for reading, and see you soon for the next article, in September! ❤️
+It's a real honour for us to write for you, the community. Thanks for reading, and see you soon for the next article, in September! ❤️
 
 —Soetch, Blushing, wowcake, 0x84f & Hubz
