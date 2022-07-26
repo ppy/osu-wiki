@@ -66,6 +66,15 @@ As if we could allow for osu! to take all the glory in its showcasing of top pla
 
 As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsu, and quite possibly, even, Taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
 
+The GTS Team's insanely talented designer ::{{ flag=PH }}:: [OsuMe65](https://osu.ppy.sh/users/852867), has also made a trailer for the tournament. 
+Please check it out and leave your thoughts about!
+
+<div align="center">
+    <video width="100%" controls>
+        <source src="https://www.youtube.com/watch?v=9RtCEP0e9H8" type="video/mp4" preload="none">
+    </video>
+</div> 
+
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
 #### osu!catch World Cup 2022 Concludes
