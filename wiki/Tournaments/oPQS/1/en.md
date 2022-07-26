@@ -162,7 +162,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Fuki - Kodomo no Youni (Nao Tomori) [Insane]](https://osu.ppy.sh/beatmapsets/1263862#osu/2626985)
 - Forcemods
   1. [Frums - Options (Nerova Riuz GX) [Option 5: Default]](https://osu.ppy.sh/beatmapsets/1049855#osu/2194138)
-  1. [Susumu Hirasawa - Amor Buffer (Real1) [KIRBY Mix]](https://osu.ppy.sh/beatmapsets/11702#osu/44526)
+  2. [Susumu Hirasawa - Amor Buffer (Real1) [KIRBY Mix]](https://osu.ppy.sh/beatmapsets/11702#osu/44526)
 - Tiebreaker
   1. **[Nanahira - Petals (Kalibe) [Flower]](https://osu.ppy.sh/beatmapsets/592381#osu/1601880)**
 
@@ -180,7 +180,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Rin - Ayakashi set 12 Another ~ Border of Life (pishifat) [Lunatic]](https://osu.ppy.sh/beatmapsets/1001360#osu/2097074)
 - Forcemods
   1. [LeaF - Kyouki Ranbu (toybot) [Cubby's Another]](https://osu.ppy.sh/beatmapsets/1312129#osu/3056025)
-  1. [solfa feat. Shimotsuki Haruka - leap in your mind (Dored) [Gust's Hyper]](https://osu.ppy.sh/beatmapsets/911281#osu/1949167)
+  2. [solfa feat. Shimotsuki Haruka - leap in your mind (Dored) [Gust's Hyper]](https://osu.ppy.sh/beatmapsets/911281#osu/1949167)
 - Tiebreaker
   1. **[Powerless feat. Sennzai - Unrequited (PandaHero) [Collab Extra]](https://osu.ppy.sh/beatmapsets/1442147#osu/2966612)**
 
@@ -198,7 +198,7 @@ This competition has come to an end and resulted in the following podium:
   1. [seatrus - MONONOKE (Realazy) [Agatsu's Hard]](https://osu.ppy.sh/beatmapsets/1280194#osu/3047818)
 - Forcemods
   1. [xi - Parousia (Niva) [Eschatology]](https://osu.ppy.sh/beatmapsets/1672934#osu/3417286)
-  1. [HANYUU MAIGO - Onomatope feat. Riria (Alvearia) [Anxiety]](https://osu.ppy.sh/beatmapsets/1799744#osu/3689590)
+  2. [HANYUU MAIGO - Onomatope feat. Riria (Alvearia) [Anxiety]](https://osu.ppy.sh/beatmapsets/1799744#osu/3689590)
 - Tiebreaker
   1. **[Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) [Nyquilfj's Extra]](https://osu.ppy.sh/beatmapsets/720294#osu/1806995)**
 
@@ -218,7 +218,7 @@ This competition has come to an end and resulted in the following podium:
   1. [455-38B - G e n g a o z o - f o o n (ktgster) [Insane]](https://osu.ppy.sh/beatmapsets/869649#osu/1939173)
 - Forcemods
   1. [Mitsukasa Ayase (CV: Sawasawa Sawa) - PERFECT GIRL (Deppyforce) [CAPTAIN FLATEARTH]](https://osu.ppy.sh/beatmapsets/1358125#osu/2810600)
-  1. [COOL&CREATE - Cirno to Mario no Perfect Sansuu Kyoushitsu (Reiji Maigo) [Extra]](https://osu.ppy.sh/beatmapsets/1563526#osu/3192828)
+  2. [COOL&CREATE - Cirno to Mario no Perfect Sansuu Kyoushitsu (Reiji Maigo) [Extra]](https://osu.ppy.sh/beatmapsets/1563526#osu/3192828)
 - Tiebreaker
   1. **[Irodorimidori - Bokura no Freedom DiVE (-Mercury) [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmapsets/1667264#osu/3404280)**
 
@@ -236,7 +236,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Sharlo - Vidro Moyou (Sharlo) [Collab]](https://osu.ppy.sh/beatmapsets/139045#osu/347171)
 - Forcemods
   1. [UNDEAD CORPORATION - Flowering Night Fever (Alheak) [pishi's Lunatic]](https://osu.ppy.sh/beatmapsets/393663#osu/895806)
-  1. [Hiroki Isogai, Ippo Yamada - Abandoned Memory (Dr. Wily Stage 1) (Dada) [DEDEDE Mix]](https://osu.ppy.sh/beatmapsets/1025118#osu/2144135)
+  2. [Hiroki Isogai, Ippo Yamada - Abandoned Memory (Dr. Wily Stage 1) (Dada) [DEDEDE Mix]](https://osu.ppy.sh/beatmapsets/1025118#osu/2144135)
 - Tiebreaker
   1. **[Yooh - Shigure (pyth0nix) [Lunar Downpour]](https://osu.ppy.sh/beatmapsets/1186689#osu/2473220)**
 
@@ -254,7 +254,7 @@ This competition has come to an end and resulted in the following podium:
   1. [t+pazolite - Party in the HOLLOWood feat. Nanahira (eiri-) [HYper]](https://osu.ppy.sh/beatmapsets/819349#osu/1717855)
 - Forcemods
   1. [Chicala Lpis - Kaefig (Saturnalize) [kwk's Extra]](https://osu.ppy.sh/beatmapsets/705769#osu/1493143)
-  1. [Becky - Less Than Three (Ricardo Autobahn Remix) (Sonnyc) [Expert]](https://osu.ppy.sh/beatmapsets/1078502#osu/2256655)
+  2. [Becky - Less Than Three (Ricardo Autobahn Remix) (Sonnyc) [Expert]](https://osu.ppy.sh/beatmapsets/1078502#osu/2256655)
 - Tiebreaker
   1. **[Rita - dorchadas (Delis) [Sharnoth]](https://osu.ppy.sh/beatmapsets/580215#osu/1279490)**
 
@@ -272,7 +272,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Street - Hestia (GYGY) [Hard]](https://osu.ppy.sh/beatmapsets/1707295#osu/3547064)
 - Forcemods
   1. [Akiyama Uni - The Grimoire of Alice (Hollow Wings) [Lunatic]](https://osu.ppy.sh/beatmapsets/123839#osu/344620)
-  1. [HyuN - Wild Card (cococolaco) [Mirash's Insane]](https://osu.ppy.sh/beatmapsets/891334#osu/1863206)
+  2. [HyuN - Wild Card (cococolaco) [Mirash's Insane]](https://osu.ppy.sh/beatmapsets/891334#osu/1863206)
 - Tiebreaker
   1. **[DJ Noriken - #The_Relentless_(Modified) (captin1) [Unstoppable]](https://osu.ppy.sh/beatmapsets/331821#osu/734927)**
 
