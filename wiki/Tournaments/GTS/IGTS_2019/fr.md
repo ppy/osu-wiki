@@ -344,7 +344,7 @@ Samedi, 13 Juillet 2019:
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| États-Unis d'Amérique A ![][flag_US] | 5 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53299127) |
+| États-Unis A ![][flag_US] | 5 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53299127) |
 | **Hong Kong** ![][flag_HK] | **7** | 4 | ![][flag_US] États-Unis d'Amérique A | [#1](https://osu.ppy.sh/community/matches/53300693) |
 
 ### Finale
