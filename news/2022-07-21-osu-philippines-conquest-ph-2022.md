@@ -18,7 +18,7 @@ The Quickfire Showdown, the main event of the osu! community run space, is an op
 
 Additionally, as a CONQuest PH 2022 exclusive, there will be a track from one of osu!'s featured artists, [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88)! 
 
-For more information about the tournament proper, refer [here](/wiki/Tournaments/oPQS/1).
+For more information about the tournament, refer to [this wiki article](/wiki/Tournaments/oPQS/1).
 
 ## Prizes
 
