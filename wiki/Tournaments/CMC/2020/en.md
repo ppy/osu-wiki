@@ -8,7 +8,7 @@ tags:
 
 ![CMC 2020 logo](img/logo.jpg)
 
-The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania 4K tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia with a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of \#4,000 or lower. It was the first instalment of the Cemara Mania Cup.
+The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania 4K tournament hosted by ::{ flag=ID }:: [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ::{ flag=ID }:: [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia with a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of \#4,000 or lower. It was the first instalment of the Cemara Mania Cup.
 
 ## Tournament schedule
 
@@ -38,17 +38,17 @@ Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) |
-| Co-host | ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653) |
-| Mappool selector | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [xChose](https://osu.ppy.sh/users/10213428), ![][flag_ID] [Kurami](https://osu.ppy.sh/users/10184990) |
-| Playtester | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [xChose](https://osu.ppy.sh/users/10213428), ![][flag_ID] [Kurami](https://osu.ppy.sh/users/10184990) |
-| Streamer | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) |
-| Commentator | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991), ![][flag_ID] [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224), ![][flag_ID] [piesachan](https://osu.ppy.sh/users/3356184), ![][flag_ID] [Hwarry](https://osu.ppy.sh/users/2318309), ![][flag_ID] [-\[ ZeroTwo \]-](https://osu.ppy.sh/users/15052487), ![][flag_ID] [RizalRhmn](https://osu.ppy.sh/users/12532297) |
-| Referee | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [xChose](https://osu.ppy.sh/users/8738085), ![][flag_ID] [Kurami](https://osu.ppy.sh/users/10184990), ![][flag_ID] [-Nana-](https://osu.ppy.sh/users/8738085), ![][flag_ID] [LyfLin](https://osu.ppy.sh/users/5198950) |
-| Graphic designer | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949), ![][flag_ID] [-Nana-](https://osu.ppy.sh/users/8738085) |
-| Spreadsheet manager | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991), ![][flag_ID] [Ririya-](https://osu.ppy.sh/users/15590443) |
-| Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
-| Sponsor | ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653), ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990), ![][flag_ID] [Grab Driver](https://osu.ppy.sh/users/6590681) |
+| Host | ::{ flag=ID }:: [-AMIYA-](https://osu.ppy.sh/users/7219949) |
+| Co-host | ::{ flag=ID }:: [LLENN-](https://osu.ppy.sh/users/7428653) |
+| Mappool selector | ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [xChose](https://osu.ppy.sh/users/10213428), ::{ flag=ID }:: [Kurami](https://osu.ppy.sh/users/10184990) |
+| Playtester | ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [xChose](https://osu.ppy.sh/users/10213428), ::{ flag=ID }:: [Kurami](https://osu.ppy.sh/users/10184990) |
+| Streamer | ::{ flag=ID }:: [-AMIYA-](https://osu.ppy.sh/users/7219949) |
+| Commentator | ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991), ::{ flag=ID }:: [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224), ::{ flag=ID }:: [piesachan](https://osu.ppy.sh/users/3356184), ::{ flag=ID }:: [Hwarry](https://osu.ppy.sh/users/2318309), ::{ flag=ID }:: [-\[ ZeroTwo \]-](https://osu.ppy.sh/users/15052487), ::{ flag=ID }:: [RizalRhmn](https://osu.ppy.sh/users/12532297) |
+| Referee | ::{ flag=ID }:: [-AMIYA-](https://osu.ppy.sh/users/7219949), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [xChose](https://osu.ppy.sh/users/8738085), ::{ flag=ID }:: [Kurami](https://osu.ppy.sh/users/10184990), ::{ flag=ID }:: [-Nana-](https://osu.ppy.sh/users/8738085), ::{ flag=ID }:: [LyfLin](https://osu.ppy.sh/users/5198950) |
+| Graphic designer | ::{ flag=ID }:: [-AMIYA-](https://osu.ppy.sh/users/7219949), ::{ flag=ID }:: [-Nana-](https://osu.ppy.sh/users/8738085) |
+| Spreadsheet manager | ::{ flag=ID }:: [-AMIYA-](https://osu.ppy.sh/users/7219949), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991), ::{ flag=ID }:: [Ririya-](https://osu.ppy.sh/users/15590443) |
+| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Sponsor | ::{ flag=ID }:: [LLENN-](https://osu.ppy.sh/users/7428653), ::{ flag=ID }:: [Haqzen](https://osu.ppy.sh/users/6616990), ::{ flag=ID }:: [Grab Driver](https://osu.ppy.sh/users/6590681) |
 
 ## Links
 
@@ -65,35 +65,35 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 | Group | Seed A | Seed B | Seed C | Seed D |
 | :-- | :-- | :-- | :-- | :-- |
-| A | ![][flag_ID] [FerdiXIA-](https://osu.ppy.sh/users/9030389) | ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623) | ![][flag_ID] [LoliCopz](https://osu.ppy.sh/users/11427185) | ![][flag_ID] [Kurami\_San](https://osu.ppy.sh/users/8867495) |
-| B | ![][flag_ID] [Bapakkao](https://osu.ppy.sh/users/14833319) | ![][flag_ID] [\[ID\]Rachel-](https://osu.ppy.sh/users/13848924) | ![][flag_ID] [N i k o L](https://osu.ppy.sh/users/12971540) | ![][flag_ID] [Xccelerator202](https://osu.ppy.sh/users/14855101) |
-| C | ![][flag_ID] [Ainer](https://osu.ppy.sh/users/13371424) | ![][flag_ID] [denzeljr](https://osu.ppy.sh/users/14335907) | ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933) | ![][flag_ID] [Shiro\_Neko](https://osu.ppy.sh/users/11065963) |
-| D | ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) | ![][flag_ID] [SanjayaIH](https://osu.ppy.sh/users/12202728) | ![][flag_ID] [Kougyokuu](https://osu.ppy.sh/users/14678051) | ![][flag_ID] [ladycello](https://osu.ppy.sh/users/15412010) |
-| E | ![][flag_ID] [Afterglowylene](https://osu.ppy.sh/users/15355691) | ![][flag_ID] [Schwvy](https://osu.ppy.sh/users/14719011) | ![][flag_ID] [juww](https://osu.ppy.sh/users/11019862) | ![][flag_ID] [Yukari\_Sama](https://osu.ppy.sh/users/6316524) |
-| F | ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122) | ![][flag_ID] [HiranoUtami](https://osu.ppy.sh/users/13942350) | ![][flag_ID] [Yuiazu-](https://osu.ppy.sh/users/12471868) | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) |
-| G | ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808) | ![][flag_ID] [AchsanLovers](https://osu.ppy.sh/users/6368737) | ![][flag_ID] [2ndlegend](https://osu.ppy.sh/users/7621604) | ![][flag_ID] [FelixSpade](https://osu.ppy.sh/users/2651304) |
-| H | ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869) | ![][flag_ID] [aghil jayadi](https://osu.ppy.sh/users/8405046) | ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990) | ![][flag_ID] [LNP-](https://osu.ppy.sh/users/4402842) |
+| A | ::{ flag=ID }:: [FerdiXIA-](https://osu.ppy.sh/users/9030389) | ::{ flag=ID }:: [ragemaster14](https://osu.ppy.sh/users/11829623) | ::{ flag=ID }:: [LoliCopz](https://osu.ppy.sh/users/11427185) | ::{ flag=ID }:: [Kurami\_San](https://osu.ppy.sh/users/8867495) |
+| B | ::{ flag=ID }:: [Bapakkao](https://osu.ppy.sh/users/14833319) | ::{ flag=ID }:: [\[ID\]Rachel-](https://osu.ppy.sh/users/13848924) | ::{ flag=ID }:: [N i k o L](https://osu.ppy.sh/users/12971540) | ::{ flag=ID }:: [Xccelerator202](https://osu.ppy.sh/users/14855101) |
+| C | ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424) | ::{ flag=ID }:: [denzeljr](https://osu.ppy.sh/users/14335907) | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) | ::{ flag=ID }:: [Shiro\_Neko](https://osu.ppy.sh/users/11065963) |
+| D | ::{ flag=ID }:: [Mirea](https://osu.ppy.sh/users/8404646) | ::{ flag=ID }:: [SanjayaIH](https://osu.ppy.sh/users/12202728) | ::{ flag=ID }:: [Kougyokuu](https://osu.ppy.sh/users/14678051) | ::{ flag=ID }:: [ladycello](https://osu.ppy.sh/users/15412010) |
+| E | ::{ flag=ID }:: [Afterglowylene](https://osu.ppy.sh/users/15355691) | ::{ flag=ID }:: [Schwvy](https://osu.ppy.sh/users/14719011) | ::{ flag=ID }:: [juww](https://osu.ppy.sh/users/11019862) | ::{ flag=ID }:: [Yukari\_Sama](https://osu.ppy.sh/users/6316524) |
+| F | ::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122) | ::{ flag=ID }:: [HiranoUtami](https://osu.ppy.sh/users/13942350) | ::{ flag=ID }:: [Yuiazu-](https://osu.ppy.sh/users/12471868) | ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) |
+| G | ::{ flag=ID }:: [Meiden](https://osu.ppy.sh/users/4334808) | ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) | ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) |
+| H | ::{ flag=ID }:: [GoGoN-](https://osu.ppy.sh/users/14274869) | ::{ flag=ID }:: [aghil jayadi](https://osu.ppy.sh/users/8405046) | ::{ flag=ID }:: [Haqzen](https://osu.ppy.sh/users/6616990) | ::{ flag=ID }:: [LNP-](https://osu.ppy.sh/users/4402842) |
 
 After the conclusion of the Group Stage, players were then teamed up into pairs of two based on their Group Stage finishing position as follows:
 
 | Team Name | Player 1 | Player 2 |
 | :-- | :-- | :-- |
-| **Anti LN Club** | ![][flag_ID] [Ainer](https://osu.ppy.sh/users/13371424) (*Group C / 3rd Place*) | ![][flag_ID] [Kurami\_San](https://osu.ppy.sh/users/8867495) (*Group A / 4th Place*) |
-| **Do'a Ibu** | ![][flag_ID] [Kougyokuu](https://osu.ppy.sh/users/14678051) (*Group D / 3rd Place*) | ![][flag_ID] [Xccelerator202](https://osu.ppy.sh/users/14855101) (*Group B / 4th Place*) |
-| **GWS** | ![][flag_ID] [Afterglowylene](https://osu.ppy.sh/users/15355691) (*Group E / 1st Place*) | ![][flag_ID] [2ndlegend](https://osu.ppy.sh/users/7621604) (*Group G / 2nd Place*) |
-| **L Hunter** | ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) (*Group D / 1st Place*) | ![][flag_ID] [Bapakkao](https://osu.ppy.sh/users/14833319) (*Group B / 2nd Place*) |
-| **Leviathan** | ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933) (*Group C / 1st Place*) | ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623) (*Group A / 2nd Place*) |
-| **Mak Lo Gamink** | ![][flag_ID] [AchsanLovers](https://osu.ppy.sh/users/6368737) (*Group G / 3rd Place*) | ![][flag_ID] [Schwvy](https://osu.ppy.sh/users/14719011) (*Group E / 4th Place*) |
-| **Neppu-Neppu** | ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122) (*Group F / 1st Place*) | ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869) (*Group H / 2nd Place*) |
-| **Pecel Lele Ujang** | ![][flag_ID] [Yuiazu-](https://osu.ppy.sh/users/12471868) (*Group F / 3rd Place*) | ![][flag_ID] [LNP-](https://osu.ppy.sh/users/4402842) (*Group H / 4th Place*) |
-| **SCP Indonesia** | ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990) (*Group H / 1st Place*) | ![][flag_ID] [HiranoUtami](https://osu.ppy.sh/users/13942350) (*Group F / 2nd Place*) |
-| **Soundtoloyo** | ![][flag_ID] [FerdiXIA-](https://osu.ppy.sh/users/9030389) (*Group A / 3rd Place*) | ![][flag_ID] [denzeljr](https://osu.ppy.sh/users/14335907) (*Group C / 4th Place*) |
-| **Sumber Rejeki** | ![][flag_ID] [Yukari\_Sama](https://osu.ppy.sh/users/6316524) (*Group E / 3rd Place*) | ![][flag_ID] [FelixSpade](https://osu.ppy.sh/users/2651304) (*Group G / 4th Place*) |
-| **Team 1** | ![][flag_ID] [LoliCopz](https://osu.ppy.sh/users/11427185) (*Group A / 1st Place*) | ![][flag_ID] [Shiro\_Neko](https://osu.ppy.sh/users/11065963) (*Group C / 2nd Place*) |
-| **Team 11** | ![][flag_ID] [N i k o L](https://osu.ppy.sh/users/12971540) (*Group B / 3rd Place*) | ![][flag_ID] [ladycello](https://osu.ppy.sh/users/15412010) (*Group D / 4th Place*) |
-| **Team 16** | ![][flag_ID] [aghil jayadi](https://osu.ppy.sh/users/8405046) (*Group H / 3rd Place*) | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) (*Group F / 4th Place*) |
-| **Team 3** | ![][flag_ID] [\[ID\]Rachel-](https://osu.ppy.sh/users/13848924) (*Group B / 1st Place*) | ![][flag_ID] [SanjayaIH](https://osu.ppy.sh/users/12202728) (*Group D / 2nd Place*) |
-| **UwU Team** | ![][flag_ID] [juww](https://osu.ppy.sh/users/11019862) (*Group E / 1st Place*) | ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808) (*Group G / 2nd Place*) |
+| **Anti LN Club** | ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424) (*Group C / 3rd Place*) | ::{ flag=ID }:: [Kurami\_San](https://osu.ppy.sh/users/8867495) (*Group A / 4th Place*) |
+| **Do'a Ibu** | ::{ flag=ID }:: [Kougyokuu](https://osu.ppy.sh/users/14678051) (*Group D / 3rd Place*) | ::{ flag=ID }:: [Xccelerator202](https://osu.ppy.sh/users/14855101) (*Group B / 4th Place*) |
+| **GWS** | ::{ flag=ID }:: [Afterglowylene](https://osu.ppy.sh/users/15355691) (*Group E / 1st Place*) | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) (*Group G / 2nd Place*) |
+| **L Hunter** | ::{ flag=ID }:: [Mirea](https://osu.ppy.sh/users/8404646) (*Group D / 1st Place*) | ::{ flag=ID }:: [Bapakkao](https://osu.ppy.sh/users/14833319) (*Group B / 2nd Place*) |
+| **Leviathan** | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) (*Group C / 1st Place*) | ::{ flag=ID }:: [ragemaster14](https://osu.ppy.sh/users/11829623) (*Group A / 2nd Place*) |
+| **Mak Lo Gamink** | ::{ flag=ID }:: [AchsanLovers](https://osu.ppy.sh/users/6368737) (*Group G / 3rd Place*) | ::{ flag=ID }:: [Schwvy](https://osu.ppy.sh/users/14719011) (*Group E / 4th Place*) |
+| **Neppu-Neppu** | ::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122) (*Group F / 1st Place*) | ::{ flag=ID }:: [GoGoN-](https://osu.ppy.sh/users/14274869) (*Group H / 2nd Place*) |
+| **Pecel Lele Ujang** | ::{ flag=ID }:: [Yuiazu-](https://osu.ppy.sh/users/12471868) (*Group F / 3rd Place*) | ::{ flag=ID }:: [LNP-](https://osu.ppy.sh/users/4402842) (*Group H / 4th Place*) |
+| **SCP Indonesia** | ::{ flag=ID }:: [Haqzen](https://osu.ppy.sh/users/6616990) (*Group H / 1st Place*) | ::{ flag=ID }:: [HiranoUtami](https://osu.ppy.sh/users/13942350) (*Group F / 2nd Place*) |
+| **Soundtoloyo** | ::{ flag=ID }:: [FerdiXIA-](https://osu.ppy.sh/users/9030389) (*Group A / 3rd Place*) | ::{ flag=ID }:: [denzeljr](https://osu.ppy.sh/users/14335907) (*Group C / 4th Place*) |
+| **Sumber Rejeki** | ::{ flag=ID }:: [Yukari\_Sama](https://osu.ppy.sh/users/6316524) (*Group E / 3rd Place*) | ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) (*Group G / 4th Place*) |
+| **Team 1** | ::{ flag=ID }:: [LoliCopz](https://osu.ppy.sh/users/11427185) (*Group A / 1st Place*) | ::{ flag=ID }:: [Shiro\_Neko](https://osu.ppy.sh/users/11065963) (*Group C / 2nd Place*) |
+| **Team 11** | ::{ flag=ID }:: [N i k o L](https://osu.ppy.sh/users/12971540) (*Group B / 3rd Place*) | ::{ flag=ID }:: [ladycello](https://osu.ppy.sh/users/15412010) (*Group D / 4th Place*) |
+| **Team 16** | ::{ flag=ID }:: [aghil jayadi](https://osu.ppy.sh/users/8405046) (*Group H / 3rd Place*) | ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) (*Group F / 4th Place*) |
+| **Team 3** | ::{ flag=ID }:: [\[ID\]Rachel-](https://osu.ppy.sh/users/13848924) (*Group B / 1st Place*) | ::{ flag=ID }:: [SanjayaIH](https://osu.ppy.sh/users/12202728) (*Group D / 2nd Place*) |
+| **UwU Team** | ::{ flag=ID }:: [juww](https://osu.ppy.sh/users/11019862) (*Group E / 1st Place*) | ::{ flag=ID }:: [Meiden](https://osu.ppy.sh/users/4334808) (*Group G / 2nd Place*) |
 
 ## Podium
 
@@ -101,10 +101,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Neppu-Neppu** (![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Leviathan** (![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933), ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **UwU Team** (![][flag_ID] [juww](https://osu.ppy.sh/users/11019862), ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808)) |
-| *4th place* | **Team 11** (![][flag_ID] [N i k o L](https://osu.ppy.sh/users/12971540), ![][flag_ID] [ladycello](https://osu.ppy.sh/users/15412010)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Neppu-Neppu** (::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122), ::{ flag=ID }:: [GoGoN-](https://osu.ppy.sh/users/14274869)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Leviathan** (::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933), ::{ flag=ID }:: [ragemaster14](https://osu.ppy.sh/users/11829623)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **UwU Team** (::{ flag=ID }:: [juww](https://osu.ppy.sh/users/11019862), ::{ flag=ID }:: [Meiden](https://osu.ppy.sh/users/4334808)) |
+| *4th place* | **Team 11** (::{ flag=ID }:: [N i k o L](https://osu.ppy.sh/users/12971540), ::{ flag=ID }:: [ladycello](https://osu.ppy.sh/users/15412010)) |
 
 ## Mappools
 
@@ -328,7 +328,7 @@ Sunday, 29 November 2020:
 ### Tournament registration
 
 1. All interested players  are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, a player must have a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of \#4000 or lower and the ![][flag_ID] Indonesian flag displayed on their profile.
+   - In order to be eligible to play in the tournament, a player must have a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of \#4000 or lower and the ::{ flag=ID }:: Indonesian flag displayed on their profile.
 2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
 3. The list of players who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
 4. Testplayers, referees, and map selectors may not participate as players in this tournament.
@@ -386,5 +386,3 @@ Sunday, 29 November 2020:
 4. All maps (including the Tiebreaker) will be played with the FreeMod option enabled. Each player *may* opt to play a map with either Hidden, FadeIn, Mirror, Flashlight, or any possible combinations of the four mods.
    - Playing a map without any mods activated whatsoever is allowed, however playing a map with a mod that is not mentioned above (i.e. Random) is **not** allowed.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

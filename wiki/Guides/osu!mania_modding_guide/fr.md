@@ -1,6 +1,6 @@
 # Guide de modding d'osu!mania
 
-*Auteur original : ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717).*
+*Auteur original : ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717).*
 
 Ce guide explique comment modifier une [beatmap](/wiki/Beatmap) dans [osu!mania](/wiki/Game_mode/osu!mania). Le [modding](/wiki/Modding) est un processus relativement simple, et avec suffisamment de pratique, il peut vous amener à devenir un [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). Alors, c'est parti !
 
@@ -192,5 +192,3 @@ Si la difficulté a beaucoup de problèmes de hitsound, **ne les signalez pas to
 - **[Critères de classement d'osu!mania](/wiki/Ranking_Criteria/osu!mania)**
 - **[Naxess' Mapset Verifier (outil de modding)](https://github.com/Naxesss/MapsetVerifier)**
 - **[Evening's SV Crash Course](https://github.com/Eve-ning/SV-Crash-Course-LaTeX/blob/master/builds/11082018.pdf)**
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"

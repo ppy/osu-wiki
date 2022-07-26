@@ -7,7 +7,7 @@ tags:
 
 ![oTTMT logo](img/logo.png)
 
-The **osu! Tag Team Multiplayer Tournament** (***oTTMT***) was a 2v2 tag team based osu! tournament hosted by ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057). It was the first instalment of the osu! Tag Team Multiplayer Tournament.
+The **osu! Tag Team Multiplayer Tournament** (***oTTMT***) was a 2v2 tag team based osu! tournament hosted by ::{ flag=SE }:: [Gabi](https://osu.ppy.sh/users/57057). It was the first instalment of the osu! Tag Team Multiplayer Tournament.
 
 ## Tournament schedule
 
@@ -27,8 +27,8 @@ The osu! Tag Team Multiplayer Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057) |
-| Referee | ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_US] [Daru](https://osu.ppy.sh/users/32480), ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328), ![][flag_US] [EEeee](https://osu.ppy.sh/users/19819) |
+| Manager | ::{ flag=SE }:: [Gabi](https://osu.ppy.sh/users/57057) |
+| Referee | ::{ flag=SE }:: [Gabi](https://osu.ppy.sh/users/57057), ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480), ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328), ::{ flag=US }:: [EEeee](https://osu.ppy.sh/users/19819) |
 
 ## Links
 
@@ -38,30 +38,30 @@ The osu! Tag Team Multiplayer Tournament was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **Does it matter?** | ![][flag_NL] **[Gopice](https://osu.ppy.sh/users/54848)**, ![][flag_NL] [livender](https://osu.ppy.sh/users/55384) |
-| **Less QQ more PEWPEW** | ![][flag_EC] **[Sir Minelli](https://osu.ppy.sh/users/39872)**, ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) |
-| **fagboat** | ![][flag_ZA] **[hawkzor](https://osu.ppy.sh/users/37529)**, ![][flag_ZA] [Lucidity](https://osu.ppy.sh/users/56904) |
-| **Mlekołaki** | ![][flag_PL] **[CrazyBanana](https://osu.ppy.sh/users/62856)**, ![][flag_PL] [skratch](https://osu.ppy.sh/users/49499) |
-| **huge cocks** | ![][flag_US] **[Rolled](https://osu.ppy.sh/users/5243)**, ![][flag_US] [foulcoon](https://osu.ppy.sh/users/19883) |
-| **Banchobag** | ![][flag_NL] **[Lesjuh](https://osu.ppy.sh/users/44308)**, ![][flag_NL] [Henkie](https://osu.ppy.sh/users/16944) |
-| **IITF** | ![][flag_RU] **[RaisTF](https://osu.ppy.sh/users/44074)**, ![][flag_PH] [WyndII](https://osu.ppy.sh/users/46538) |
-| **MINMIrox** | ![][flag_US] **[DeathxShinigami](https://osu.ppy.sh/users/49516)**, ![][flag_US] [Zatoichi](https://osu.ppy.sh/users/35199) |
-| **Mitizuma** | ![][flag_FR] **[Inozuma](https://osu.ppy.sh/users/14137)**, ![][flag_FR] [Mitano](https://osu.ppy.sh/users/63932) |
-| **Asskickers!** | ![][flag_PL] **[SteRRuM](https://osu.ppy.sh/users/42585)**, ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) |
-| **peppyfangirlsamirite** | ![][flag_DK] **[Rena-chan](https://osu.ppy.sh/users/62858)**, ![][flag_AU] [Alurn](https://osu.ppy.sh/users/28991) |
-| **two noobs** | ![][flag_CN] **[himydanny](https://osu.ppy.sh/users/19173)**, ![][flag_TW] [x2652300](https://osu.ppy.sh/users/11556) |
-| **Fumoffu** | ![][flag_DE] **[Dangaard](https://osu.ppy.sh/users/19488)**, ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) |
-| **The Craweszoymators** | ![][flag_NL] **[Celestral](https://osu.ppy.sh/users/25025)**, ![][flag_NL] [Ten](https://osu.ppy.sh/users/44484) |
-| **Lubimy Ponczgi!** | ![][flag_PL] **[Ryohan](https://osu.ppy.sh/users/16963)**, ![][flag_PL] [Lef](https://osu.ppy.sh/users/44826) |
-| **Appelmoes** | ![][flag_NL] **[Remco32](https://osu.ppy.sh/users/9199)**, ![][flag_NL] [GladiOol](https://osu.ppy.sh/users/23326) |
-| **Let's rock** | ![][flag_GB] **[Doomsday](https://osu.ppy.sh/users/18983)**, ![][flag_AT] [Hanyuu](https://osu.ppy.sh/users/73480) |
-| **Allstar** | ![][flag_TW] **[Alace](https://osu.ppy.sh/users/25993)**, ![][flag_TW] [moonstar](https://osu.ppy.sh/users/38408) |
-| **Not Ready** | ![][flag_US] **[Starrodkirby86](https://osu.ppy.sh/users/410)**, ![][flag_SE] [Real1](https://osu.ppy.sh/users/40998) |
-| **100% Failure** | ![][flag_AT] **[Leimilia](https://osu.ppy.sh/users/44079)**, ![][flag_US] [Strawberry-kun](https://osu.ppy.sh/users/27844) |
-| **Animalz D:** | ![][flag_PL] **[niedz](https://osu.ppy.sh/users/9610)**, ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) |
-| **?!** | ![][flag_US] **[Derekku](https://osu.ppy.sh/users/91341)**, ![][flag_US] [strager](https://osu.ppy.sh/users/64678) |
-| **Untitled** | ![][flag_CN] **[ignorethis](https://osu.ppy.sh/users/27343)**, ![][flag_CN] [leimiliya](https://osu.ppy.sh/users/76568) |
-| **FOE** | ![][flag_US] **[Mafiamaster](https://osu.ppy.sh/users/17695)**, ![][flag_DE] [Nharox](https://osu.ppy.sh/users/6794) |
+| **Does it matter?** | ::{ flag=NL }:: **[Gopice](https://osu.ppy.sh/users/54848)**, ::{ flag=NL }:: [livender](https://osu.ppy.sh/users/55384) |
+| **Less QQ more PEWPEW** | ::{ flag=EC }:: **[Sir Minelli](https://osu.ppy.sh/users/39872)**, ::{ flag=JP }:: [tobebuta](https://osu.ppy.sh/users/14053) |
+| **fagboat** | ::{ flag=ZA }:: **[hawkzor](https://osu.ppy.sh/users/37529)**, ::{ flag=ZA }:: [Lucidity](https://osu.ppy.sh/users/56904) |
+| **Mlekołaki** | ::{ flag=PL }:: **[CrazyBanana](https://osu.ppy.sh/users/62856)**, ::{ flag=PL }:: [skratch](https://osu.ppy.sh/users/49499) |
+| **huge cocks** | ::{ flag=US }:: **[Rolled](https://osu.ppy.sh/users/5243)**, ::{ flag=US }:: [foulcoon](https://osu.ppy.sh/users/19883) |
+| **Banchobag** | ::{ flag=NL }:: **[Lesjuh](https://osu.ppy.sh/users/44308)**, ::{ flag=NL }:: [Henkie](https://osu.ppy.sh/users/16944) |
+| **IITF** | ::{ flag=RU }:: **[RaisTF](https://osu.ppy.sh/users/44074)**, ::{ flag=PH }:: [WyndII](https://osu.ppy.sh/users/46538) |
+| **MINMIrox** | ::{ flag=US }:: **[DeathxShinigami](https://osu.ppy.sh/users/49516)**, ::{ flag=US }:: [Zatoichi](https://osu.ppy.sh/users/35199) |
+| **Mitizuma** | ::{ flag=FR }:: **[Inozuma](https://osu.ppy.sh/users/14137)**, ::{ flag=FR }:: [Mitano](https://osu.ppy.sh/users/63932) |
+| **Asskickers!** | ::{ flag=PL }:: **[SteRRuM](https://osu.ppy.sh/users/42585)**, ::{ flag=UY }:: [H1ko](https://osu.ppy.sh/users/58710) |
+| **peppyfangirlsamirite** | ::{ flag=DK }:: **[Rena-chan](https://osu.ppy.sh/users/62858)**, ::{ flag=AU }:: [Alurn](https://osu.ppy.sh/users/28991) |
+| **two noobs** | ::{ flag=CN }:: **[himydanny](https://osu.ppy.sh/users/19173)**, ::{ flag=TW }:: [x2652300](https://osu.ppy.sh/users/11556) |
+| **Fumoffu** | ::{ flag=DE }:: **[Dangaard](https://osu.ppy.sh/users/19488)**, ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) |
+| **The Craweszoymators** | ::{ flag=NL }:: **[Celestral](https://osu.ppy.sh/users/25025)**, ::{ flag=NL }:: [Ten](https://osu.ppy.sh/users/44484) |
+| **Lubimy Ponczgi!** | ::{ flag=PL }:: **[Ryohan](https://osu.ppy.sh/users/16963)**, ::{ flag=PL }:: [Lef](https://osu.ppy.sh/users/44826) |
+| **Appelmoes** | ::{ flag=NL }:: **[Remco32](https://osu.ppy.sh/users/9199)**, ::{ flag=NL }:: [GladiOol](https://osu.ppy.sh/users/23326) |
+| **Let's rock** | ::{ flag=GB }:: **[Doomsday](https://osu.ppy.sh/users/18983)**, ::{ flag=AT }:: [Hanyuu](https://osu.ppy.sh/users/73480) |
+| **Allstar** | ::{ flag=TW }:: **[Alace](https://osu.ppy.sh/users/25993)**, ::{ flag=TW }:: [moonstar](https://osu.ppy.sh/users/38408) |
+| **Not Ready** | ::{ flag=US }:: **[Starrodkirby86](https://osu.ppy.sh/users/410)**, ::{ flag=SE }:: [Real1](https://osu.ppy.sh/users/40998) |
+| **100% Failure** | ::{ flag=AT }:: **[Leimilia](https://osu.ppy.sh/users/44079)**, ::{ flag=US }:: [Strawberry-kun](https://osu.ppy.sh/users/27844) |
+| **Animalz D:** | ::{ flag=PL }:: **[niedz](https://osu.ppy.sh/users/9610)**, ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828) |
+| **?!** | ::{ flag=US }:: **[Derekku](https://osu.ppy.sh/users/91341)**, ::{ flag=US }:: [strager](https://osu.ppy.sh/users/64678) |
+| **Untitled** | ::{ flag=CN }:: **[ignorethis](https://osu.ppy.sh/users/27343)**, ::{ flag=CN }:: [leimiliya](https://osu.ppy.sh/users/76568) |
+| **FOE** | ::{ flag=US }:: **[Mafiamaster](https://osu.ppy.sh/users/17695)**, ::{ flag=DE }:: [Nharox](https://osu.ppy.sh/users/6794) |
 
 ![](img/bracket.png "oTTMT bracket")
 
@@ -71,9 +71,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Animalz D:** (![][flag_PL] **[niedz](https://osu.ppy.sh/users/9610)**, ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Lubimy Ponczgi!** (![][flag_PL] **[Ryohan](https://osu.ppy.sh/users/16963)**, ![][flag_PL] [Lef](https://osu.ppy.sh/users/44826)) |
-| ![Crown crown](/wiki/shared/crown-bronze.png "3rd place") | **MINMIrox** (![][flag_US] **[DeathxShinigami](https://osu.ppy.sh/users/49516)**, ![][flag_US] [Zatoichi](https://osu.ppy.sh/users/35199)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Animalz D:** (::{ flag=PL }:: **[niedz](https://osu.ppy.sh/users/9610)**, ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Lubimy Ponczgi!** (::{ flag=PL }:: **[Ryohan](https://osu.ppy.sh/users/16963)**, ::{ flag=PL }:: [Lef](https://osu.ppy.sh/users/44826)) |
+| ![Crown crown](/wiki/shared/crown-bronze.png "3rd place") | **MINMIrox** (::{ flag=US }:: **[DeathxShinigami](https://osu.ppy.sh/users/49516)**, ::{ flag=US }:: [Zatoichi](https://osu.ppy.sh/users/35199)) |
 
 ## Mappools
 
@@ -285,22 +285,3 @@ Mod settings for the match:
 - No Easy, Half Time, Sudden Death, Relax or Spun out mods.
 
 If both teams agree on difficulty-increasing mods, like Hidden or Flashlight, then they can be used, but only if both teams agree.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
-[flag_ZA]: /wiki/shared/flag/ZA.gif "South Africa"

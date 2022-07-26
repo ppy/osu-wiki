@@ -8,7 +8,7 @@ tags:
 
 # osu! UK Tournament 5
 
-The **osu! UK tournament 5** (***OUKT5***) was a ![][flag_GB] United Kingdom mixed elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 5th and final iteration of the **osu! UK Tournament** (***OUKT***) series, it was succeeded by the UK Community Cup (UKCC).
+The **osu! UK tournament 5** (***OUKT5***) was a ::{ flag=GB }:: United Kingdom mixed elimination 1v1 osu! tournament hosted by ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134). It is the 5th and final iteration of the **osu! UK Tournament** (***OUKT***) series, it was succeeded by the UK Community Cup (UKCC).
 
 ## Tournament schedule
 
@@ -32,13 +32,13 @@ OUKT5 was run by various community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Draw master | ![][flag_GB] [Mollerz](https://osu.ppy.sh/users/1820042) |
-| Referee | ![][flag_BE] [Ascension](https://osu.ppy.sh/users/9511483), ![][flag_GB] [Lemonosity](https://osu.ppy.sh/users/5668221), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_SG] [Histoire](https://osu.ppy.sh/users/3801463), ![][flag_GB] [Churcheell](https://osu.ppy.sh/users/2585115), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_GB] [yamikarasu](https://osu.ppy.sh/users/4422446), ![][flag_DE] [Cray](https://osu.ppy.sh/users/1350338), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
-| Streamer | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Helix](https://osu.ppy.sh/users/3322597) |
-| Mappool selector | ![][flag_AT] [Alumetorz](https://osu.ppy.sh/users/1145984), ![][flag_DE] [Jenny](https://osu.ppy.sh/users/579428) |
-| Commentators | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Soap755](https://osu.ppy.sh/users/4867721), ![][flag_GB] [Churcheell](https://osu.ppy.sh/users/2585115) |
-| Backup help | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) |
+| Host | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134) |
+| Draw master | ::{ flag=GB }:: [Mollerz](https://osu.ppy.sh/users/1820042) |
+| Referee | ::{ flag=BE }:: [Ascension](https://osu.ppy.sh/users/9511483), ::{ flag=GB }:: [Lemonosity](https://osu.ppy.sh/users/5668221), ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=SG }:: [Histoire](https://osu.ppy.sh/users/3801463), ::{ flag=GB }:: [Churcheell](https://osu.ppy.sh/users/2585115), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467), ::{ flag=GB }:: [yamikarasu](https://osu.ppy.sh/users/4422446), ::{ flag=DE }:: [Cray](https://osu.ppy.sh/users/1350338), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379) |
+| Streamer | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [Helix](https://osu.ppy.sh/users/3322597) |
+| Mappool selector | ::{ flag=AT }:: [Alumetorz](https://osu.ppy.sh/users/1145984), ::{ flag=DE }:: [Jenny](https://osu.ppy.sh/users/579428) |
+| Commentators | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Soap755](https://osu.ppy.sh/users/4867721), ::{ flag=GB }:: [Churcheell](https://osu.ppy.sh/users/2585115) |
+| Backup help | ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) |
 
 ## Links
 
@@ -53,9 +53,9 @@ OUKT5 was run by various community members
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Kakiage](https://osu.ppy.sh/users/3104031) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Kakiage](https://osu.ppy.sh/users/3104031) |
 
 ## Mappools
 
@@ -307,8 +307,8 @@ Saturday, 2 April 2016 & Saturday, 23 April 2016
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| GF1 | bahamete ![][flag_GB] | 0 | **3** | ![][flag_GB] **Doomsday** | Mid-match forfeit |
-| GF2 | Doomsday ![][flag_GB] | 0 | **6** | ![][flag_GB] **bahamete** | |
+| GF1 | bahamete ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Doomsday** | Mid-match forfeit |
+| GF2 | Doomsday ::{ flag=GB }:: | 0 | **6** | ::{ flag=GB }:: **bahamete** | |
 
 ### Losers Bracket Round 5 & Losers Bracket Final
 
@@ -316,8 +316,8 @@ Saturday, 7 November 2015 & Sunday, 8 November 2015
 
 | Bracket | Player 1 | | | Player 2 |
 | --: | --: | :-: | :-: | :-- |
-| LR5 | Cozzzy ![][flag_GB] | 0 | **5** | ![][flag_GB] **Doomsday** |
-| LBF | kakiage ![][flag_GB] | 0 | **6** | ![][flag_GB] **Doomsday** |
+| LR5 | Cozzzy ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **Doomsday** |
+| LBF | kakiage ::{ flag=GB }:: | 0 | **6** | ::{ flag=GB }:: **Doomsday** |
 
 ### Winners Bracket Final & Losers Round 4
 
@@ -325,9 +325,9 @@ Saturday, 31 October 2015 & Sunday, 1 November 2015
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| WBF | kakiage ![][flag_GB] | 2 | **6** | ![][flag_GB] **bahamete** | |
-| LR4 | **Cozzzy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Jameslike | *forfeit* |
-| LR4 | **Doomsday** ![][flag_GB] | **5** | 1 | ![][flag_GB] Bubbleman | |
+| WBF | kakiage ::{ flag=GB }:: | 2 | **6** | ::{ flag=GB }:: **bahamete** | |
+| LR4 | **Cozzzy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Jameslike | *forfeit* |
+| LR4 | **Doomsday** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Bubbleman | |
 
 ### Semifinals & Losers Bracket 3
 
@@ -335,10 +335,10 @@ Saturday, 24 October 2015 & Sunday, 25 October 2015
 
 | Bracket | Player 1 | | | Player 2 |
 | --: | --: | :-: | :-: | :-- |
-| SF | Cozzzy ![][flag_GB] | 2 | **5** | ![][flag_GB] **Kakiage** |
-| SF | **bahamete** ![][flag_GB] | **5** | 4 | ![][flag_GB] Doomsday |
-| LR3 | **Jameslike** ![][flag_GB] | **5** | 3 | ![][flag_GB] Kardet |
-| LR3 | **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_GB] Helix |
+| SF | Cozzzy ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **Kakiage** |
+| SF | **bahamete** ::{ flag=GB }:: | **5** | 4 | ::{ flag=GB }:: Doomsday |
+| LR3 | **Jameslike** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Kardet |
+| LR3 | **Bubbleman** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Helix |
 
 ### Quaterfinals & Losers Round 2
 
@@ -346,14 +346,14 @@ Saturday, 17 October 2015 & Sunday, 18 October 2015
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| QF | Volcanism ![][flag_GB] | 4 | **5** | ![][flag_GB] **Cozzzy** | |
-| QF | Run-Cat ![][flag_GB] | 4 | **5** | ![][flag_GB] **Kakiage** | |
-| QF | **bahamete** ![][flag_GB] | **5** | 0 | ![][flag_GB] ariflare | |
-| QF | **Doomsday** ![][flag_GB] | **5** | 0 | ![][flag_GB] Castiel | |
-| LR2 | Castiel ![][flag_GB] | 3 | **5** | ![][flag_GB] **Jameslike** | |
-| LR2 | ariflare ![][flag_GB] | 2 | **5** | ![][flag_GB] Kardet | |
-| LR2 | Run-Cat ![][flag_GB] | 2 | **5** | ![][flag_GB] **Bubbleman** | |
-| LR2 | Volcanism ![][flag_GB] | 0 | **1** | ![][flag_GB] **Helix** | *forfeit* |
+| QF | Volcanism ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: **Cozzzy** | |
+| QF | Run-Cat ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: **Kakiage** | |
+| QF | **bahamete** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: ariflare | |
+| QF | **Doomsday** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Castiel | |
+| LR2 | Castiel ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Jameslike** | |
+| LR2 | ariflare ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: Kardet | |
+| LR2 | Run-Cat ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **Bubbleman** | |
+| LR2 | Volcanism ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Helix** | *forfeit* |
 
 ### Round of 16 & Losers Round 1
 
@@ -361,18 +361,18 @@ Saturday, 10 October 2015 & Sunday, 11 October 2015
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| RO16 | **Volcanism** ![][flag_GB] | **4** | 2 | ![][flag_GB] DivineAscension | |
-| RO16 | Jameslike ![][flag_GB] | 0 | **1** | ![][flag_GB] **Cozzzy** | *forfeit* |
-| RO16 | Kardet ![][flag_GB] | 2 | **4** | ![][flag_GB] **Run-Cat** | |
-| RO16 | **Kakiage** ![][flag_GB] | **1** | 0 | ![][flag_GB] L britt | *forfeit* |
-| RO16 | **bahamete** ![][flag_GB] | **4** | 3 | ![][flag_GB] Bubbleman | |
-| RO16 | Sway ![][flag_GB] | 0 | **1** | ![][flag_GB] **ariflare** | *forfeit* |
-| RO16 | **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_GB] Helix | |
-| RO16 | Sniperhappy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Castiel** | *forfeit* |
-| LR1 | DivineAscension ![][flag_GB] | 0 | **4** | ![][flag_GB] Jameslike | |
-| LR1 | **Kardet** ![][flag_GB] | **1** | 0 | ![][flag_GB] L britt | *forfeit* |
-| LR1 | **Bubbleman** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sway | *forfeit* |
-| LR1 | **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Sniperhappy | *forfeit* |
+| RO16 | **Volcanism** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: DivineAscension | |
+| RO16 | Jameslike ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Cozzzy** | *forfeit* |
+| RO16 | Kardet ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Run-Cat** | |
+| RO16 | **Kakiage** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: L britt | *forfeit* |
+| RO16 | **bahamete** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: Bubbleman | |
+| RO16 | Sway ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **ariflare** | *forfeit* |
+| RO16 | **Doomsday** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Helix | |
+| RO16 | Sniperhappy ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Castiel** | *forfeit* |
+| LR1 | DivineAscension ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: Jameslike | |
+| LR1 | **Kardet** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: L britt | *forfeit* |
+| LR1 | **Bubbleman** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Sway | *forfeit* |
+| LR1 | **Helix** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Sniperhappy | *forfeit* |
 
 ### Round of 32 (Group stage)
 
@@ -382,81 +382,81 @@ Saturday, 26 September 2015 & Sunday, 27 September 2015
 
 | Bracket | Player 1 | | | Player 2 |
 | --: | --: | :-: | :-: | :-- |
-| SF1 | **Jameslike** ![][flag_GB] | **3** | 0 | ![][flag_GB] Rime |
-| SF2 | **Sam** ![][flag_GB] | **3** | 2 | ![][flag_GB] Cozzzy |
-| WBF | **Jameslike** ![][flag_GB] | **3** | 1 | ![][flag_GB] Sam |
-| LR1 | Rime ![][flag_GB] | 0 | **3** | ![][flag_GB] **Cozzzy** |
-| LR2 | Sam ![][flag_GB] | 1 | **3** | ![][flag_GB] **Cozzzy** |
+| SF1 | **Jameslike** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Rime |
+| SF2 | **Sam** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Cozzzy |
+| WBF | **Jameslike** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Sam |
+| LR1 | Rime ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Cozzzy** |
+| LR2 | Sam ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Cozzzy** |
 
 #### Group B
 
 | Bracket | Player 1 | | | Player 2 |
 | --: | --: | :-: | :-: | :-- |
-| SF1 | **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Mahiro Yasaka |
-| SF2 | R a h a r u ![][flag_GB] | 0 | **3** | ![][flag_GB] **Run-Cat** |
-| WBF | **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Run-Cat |
-| LR1 | Mahiro Yasaka ![][flag_GB] | 0 | **3** | ![][flag_GB] **R a h a r u** |
-| LR2 | **Run-Cat** ![][flag_GB] | **3** | 2 | ![][flag_GB] R a h a r u |
+| SF1 | **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Mahiro Yasaka |
+| SF2 | R a h a r u ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Run-Cat** |
+| WBF | **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Run-Cat |
+| LR1 | Mahiro Yasaka ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **R a h a r u** |
+| LR2 | **Run-Cat** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: R a h a r u |
 
 #### Group C
 
 | Bracket | Player 1 | | | Player 2 |
 | --: | --: | :-: | :-: | :-- |
-| SF1 | **bahamete** ![][flag_GB] | **3** | 1 | ![][flag_GB] Bubbleman |
-| SF2 | \[CloudSerpent\] ![][flag_GB] | 1 | **3** | ![][flag_GB] **Ascension** |
-| WBF | **bahamete** ![][flag_GB] | **3** | 0 | ![][flag_GB] Ascension |
-| LR1 | **Bubbleman** ![][flag_GB] | **3** | 1 | ![][flag_GB] \[CloudSerpent\] |
-| LR2 | Ascension ![][flag_GB] | 0 | **3** | ![][flag_GB] **Bubbleman** |
+| SF1 | **bahamete** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Bubbleman |
+| SF2 | \[CloudSerpent\] ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Ascension** |
+| WBF | **bahamete** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Ascension |
+| LR1 | **Bubbleman** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: \[CloudSerpent\] |
+| LR2 | Ascension ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Bubbleman** |
 
 #### Group D
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| SF1 | Jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Kakiage** | *forfeit* |
-| SF2 | MrSisterFister ![][flag_GB] | 2 | **3** | ![][flag_GB] **Helix** | |
-| WBF | **Kakiage** ![][flag_GB] | **3** | 2 | ![][flag_GB] Helix | |
-| LR1 | **Jesus1412** ![][flag_GB] | **3** | 1 | ![][flag_GB] MrSisterFister | |
-| LR2 | **Helix** ![][flag_GB] | **3** | 2 | ![][flag_GB] Jesus1412 | |
+| SF1 | Jesus1412 ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Kakiage** | *forfeit* |
+| SF2 | MrSisterFister ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Helix** | |
+| WBF | **Kakiage** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Helix | |
+| LR1 | **Jesus1412** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: MrSisterFister | |
+| LR2 | **Helix** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Jesus1412 | |
 
 #### Group E
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| SF1 | \[AOTN\] ![][flag_GB] | 0 | **1** | ![][flag_GB] **Sniperhappy** | *forfeit* |
-| SF2 | Bradley ![][flag_GB] | 0 | **1** | ![][flag_GB] **L britt** | *forfeit* |
-| WBF | **Sniperhappy** ![][flag_GB] | **3** | 1 | ![][flag_GB] L britt | |
-| LR1 | \[AOTN\] ![][flag_GB] | 0 | 0 | ![][flag_GB] Bradley | *both forfeit* |
-| LR2 | **L britt** ![][flag_GB] | **1** | 0 | ![][flag_GB] Bradley | *forfeit* |
+| SF1 | \[AOTN\] ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Sniperhappy** | *forfeit* |
+| SF2 | Bradley ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **L britt** | *forfeit* |
+| WBF | **Sniperhappy** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: L britt | |
+| LR1 | \[AOTN\] ::{ flag=GB }:: | 0 | 0 | ::{ flag=GB }:: Bradley | *both forfeit* |
+| LR2 | **L britt** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Bradley | *forfeit* |
 
 #### Group F
 
 | Bracket | Player 1 | | | Player 2 |
 | --: | --: | :-: | :-: | :-- |
-| SF1 | ariflare ![][flag_GB] | 0 | **3** | ![][flag_GB] **Snookie** |
-| SF2 | Blind ![][flag_GB] | 0 | **3** | ![][flag_GB] **Sway** |
-| WBF | Snookie ![][flag_GB] | 2 | **3** | ![][flag_GB] **Sway** |
-| LR1 | **ariflare** ![][flag_GB] | **3** | 0 | ![][flag_GB] Blind |
-| LR2 | Snookie ![][flag_GB] | 1 | **3** | ![][flag_GB] **ariflare** |
+| SF1 | ariflare ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Snookie** |
+| SF2 | Blind ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Sway** |
+| WBF | Snookie ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Sway** |
+| LR1 | **ariflare** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Blind |
+| LR2 | Snookie ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **ariflare** |
 
 #### Group G
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| SF1 | Rotom ![][flag_GB] | 1 | **3** | ![][flag_GB] **Volcanism** | |
-| SF2 | Moose ![][flag_GB] | 0 | **3** | ![][flag_GB] **DivineAscension** | |
-| WBF | **Volcanism** ![][flag_GB] | **3** | 1 | ![][flag_GB] DivineAscension | |
-| LR1 | Rotom ![][flag_GB] | 0 | **1** | ![][flag_GB] **Moose** | *forfeit* |
-| LR2 | **DivineAscension** ![][flag_GB] | **3** | 1 | ![][flag_GB] Moose | |
+| SF1 | Rotom ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Volcanism** | |
+| SF2 | Moose ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **DivineAscension** | |
+| WBF | **Volcanism** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: DivineAscension | |
+| LR1 | Rotom ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Moose** | *forfeit* |
+| LR2 | **DivineAscension** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Moose | |
 
 #### Group H
 
 | Bracket | Player 1 | | | Player 2 | Notes |
 | --: | --: | :-: | :-: | :-- | :-- |
-| SF1 | **Castiel** ![][flag_GB] | **1** | 0 | ![][flag_GB] Edd | *forfeit* |
-| SF2 | **Kardet** ![][flag_GB] | **3** | 1 | ![][flag_GB] Ecliptus | |
-| WBF | Castiel ![][flag_GB] | 2 | **3** | ![][flag_GB] **Kardet** | |
-| LR1 | Edd ![][flag_GB] | 0 | **1** | ![][flag_GB] **Ecliptus** | *forfeit* |
-| LR2 | **Castiel** ![][flag_GB] | **3** | 0 | ![][flag_GB] Ecliptus | |
+| SF1 | **Castiel** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Edd | *forfeit* |
+| SF2 | **Kardet** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Ecliptus | |
+| WBF | Castiel ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Kardet** | |
+| LR1 | Edd ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Ecliptus** | *forfeit* |
+| LR2 | **Castiel** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Ecliptus | |
 
 ### Round of 64
 
@@ -464,38 +464,38 @@ Saturday, 19 September 2015 & Sunday, 20 September 2015
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **3** | 2 | ![][flag_GB] Jimbot | |
-| shivo ![][flag_GB] | 0 | **3** | ![][flag_GB] **Kakiage** | |
-| Jimzzyyy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Sniperhappy** | *forfeit* |
-| 001thefish ![][flag_GB] | 0 | **3** | ![][flag_GB] **Sam** | |
-| **Bradley** ![][flag_GB] | **3** | 2 | ![][flag_GB] ShadowBea5t | |
-| Suzumiya-H ![][flag_GB] | 1 | **3** | ![][flag_GB] **Volcanism** | |
-| **Ecliptus** ![][flag_GB] | **3** | 0 | ![][flag_GB] \[ Emperor \] | |
-| **ariflare** ![][flag_GB] | **3** | 0 | ![][flag_GB] orbin nyanpasu | |
-| **\[AOTN\]** ![][flag_GB] | **1** | 0 | ![][flag_GB] Zafkiel | *forfeit* |
-| **L britt** ![][flag_GB] | **3** | 2 | ![][flag_GB] Jerome | |
-| Misti ![][flag_GB] | 2 | **3** | ![][flag_GB] **Cozzzy** | |
-| **\[CloudSerpent\]** ![][flag_GB] | **3** | 1 | ![][flag_GB] -MoeYandere- | |
-| **Moose** ![][flag_GB] | **3** | 1 | ![][flag_GB] Hype | |
-| Velocimactor ![][flag_GB] | 0 | **3** | ![][flag_GB] **Ascension** | |
-| **Run-Cat** ![][flag_GB] | **3** | 1 | ![][flag_GB] bandofponies | |
-| **Rotom** ![][flag_GB] | **3** | 2 | ![][flag_GB] lovu | |
-| **Jameslike** ![][flag_GB] | **3** | 0 | ![][flag_GB] The Fetish | |
-| **Snookie** ![][flag_GB] | **3** | 1 | ![][flag_GB] Xim | |
-| **Mahiro Yasaka** ![][flag_GB] | **1** | 0 | ![][flag_GB] Wookiezi | *forfeit* |
-| **Blind** ![][flag_GB] | **1** | 0 | ![][flag_GB] Could This Be | *forfeit* |
-| **MrSisterFister** ![][flag_GB] | **3** | 0 | ![][flag_GB] adam2keva9 | |
-| **Edd** ![][flag_GB] | **3** | 1 | ![][flag_GB] Boisty | |
-| **Helix** ![][flag_GB] | **3** | 1 | ![][flag_GB] Laplace | |
-| Dream. ![][flag_GB] | 0 | **1** | ![][flag_GB] **Jesus1412** | *forfeit* |
-| **Castiel** ![][flag_GB] | **3** | 2 | ![][flag_GB] Scootawoo | |
-| YunoWhoItIs ![][flag_GB] | 0 | **1** | ![][flag_GB] Rime | *forfeit* |
-| **Bubbleman** ![][flag_GB] | **3** | 2 | ![][flag_GB] Double Time | |
-| IEatCookies ![][flag_GB] | 2 | **3** | ![][flag_GB] **Kardet** | |
-| **R a h a r u** ![][flag_GB] | **3** | 1 | ![][flag_GB] Jeanzy | |
-| Earya ![][flag_GB] | 0 | **3** | ![][flag_GB] **DivineAscension** | |
-| **Sway** ![][flag_GB] | **3** | 0 | ![][flag_GB] -Mo- | |
-| Justify ![][flag_GB] | 0 | **3** | ![][flag_GB] **bahamete** | |
+| **Doomsday** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Jimbot | |
+| shivo ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Kakiage** | |
+| Jimzzyyy ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Sniperhappy** | *forfeit* |
+| 001thefish ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Sam** | |
+| **Bradley** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: ShadowBea5t | |
+| Suzumiya-H ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Volcanism** | |
+| **Ecliptus** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: \[ Emperor \] | |
+| **ariflare** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: orbin nyanpasu | |
+| **\[AOTN\]** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Zafkiel | *forfeit* |
+| **L britt** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Jerome | |
+| Misti ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Cozzzy** | |
+| **\[CloudSerpent\]** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: -MoeYandere- | |
+| **Moose** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Hype | |
+| Velocimactor ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Ascension** | |
+| **Run-Cat** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: bandofponies | |
+| **Rotom** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: lovu | |
+| **Jameslike** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: The Fetish | |
+| **Snookie** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Xim | |
+| **Mahiro Yasaka** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Wookiezi | *forfeit* |
+| **Blind** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Could This Be | *forfeit* |
+| **MrSisterFister** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: adam2keva9 | |
+| **Edd** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Boisty | |
+| **Helix** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Laplace | |
+| Dream. ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Jesus1412** | *forfeit* |
+| **Castiel** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Scootawoo | |
+| YunoWhoItIs ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: Rime | *forfeit* |
+| **Bubbleman** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Double Time | |
+| IEatCookies ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Kardet** | |
+| **R a h a r u** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Jeanzy | |
+| Earya ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **DivineAscension** | |
+| **Sway** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: -Mo- | |
+| Justify ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **bahamete** | |
 
 ### Round of 128
 
@@ -503,70 +503,70 @@ Saturday, 12 September 2015 & Sunday, 13 September 2015
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **3** | 1 | ![][flag_GB] OPJames | |
-| IcarusSenpai ![][flag_GB] | 0 | **3** | ![][flag_GB] **Jimbot** | |
-| **shivo** ![][flag_GB] | **3** | 0 | ![][flag_GB] Hydria | |
-| casmith789 ![][flag_GB] | 2 | **3** | ![][flag_GB] **Kakiage** | |
-| **Jimzzyyy** ![][flag_GB] | **3** | 1 | ![][flag_GB] yamikarasu | |
-| **Sniperhappy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Tune | *forfeit* |
-| -Panda- ![][flag_GB] | 0 | **3** | ![][flag_GB] **001thefish** | |
-| ItsTrydamere ![][flag_GB] | 1 | **3** | ![][flag_GB] **Sam** | |
-| **Bradley** ![][flag_GB] | **1** | 0 | ![][flag_GB] Rubix | *forfeit* |
-| **ShadowBea5t** ![][flag_GB] | **3** | 0 | ![][flag_GB] koiishi | |
-| Cheesecake ![][flag_GB] | 1 | **3** | ![][flag_GB] **Suzumiya-H** | |
-| DeviousPanda ![][flag_GB] | 0 | **1** | ![][flag_GB] **Volcanism** | *forfeit* |
-| **Ecliptus** ![][flag_GB] | **1** | 0 | ![][flag_GB] Cornfield | *forfeit* |
-| Shunix ![][flag_GB] | 0 | **1** | ![][flag_GB] **\[ Emperor \]** | *forfeit* |
-| **ariflare** ![][flag_GB] | **3** | 1 | ![][flag_GB] Syrus | |
-| **orbin nyanpasu** ![][flag_GB] | **1** | 0 | ![][flag_GB] Im not Green | *forfeit* |
-| **\[AOTN\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] Corey-Kun | |
-| dagothur13 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Zafkiel** | *forfeit* |
-| **L britt** ![][flag_GB] | **3** | 0 | ![][flag_GB] Vapor | |
-| Rolf Harris ![][flag_GB] | 1 | **3** | ![][flag_GB] **Jerome** | |
-| **Misti** ![][flag_GB] | **3** | 1 | ![][flag_GB] samlu1999 | |
-| **Cozzzy** ![][flag_GB] | **3** | 0 | ![][flag_GB] Sundayz | |
-| Darkdog ![][flag_GB] | 0 | **3** | ![][flag_GB] **\[CloudSerpent\]** | |
-| -Day ![][flag_GB] | 1 | **3** | ![][flag_GB] **-MoeYandere-** | |
-| **Moose** ![][flag_GB] | **3** | 0 | ![][flag_GB] Epicbearddarf | |
-| Zweihander- ![][flag_GB] | 1 | **3** | ![][flag_GB] **Hype** | |
-| **Velocimactor** ![][flag_GB] | **1** | 0 | ![][flag_GB] Adie | *forfeit* |
-| Netherax ![][flag_GB] | 1 | **3** | ![][flag_GB] **Ascension** | |
-| **Run-Cat** ![][flag_GB] | **3** | 0 | ![][flag_GB] Yusomi | |
-| Subsonix ![][flag_GB] | 1 | **3** | ![][flag_GB] **bandofponies** | |
-| Stormdro ![][flag_GB] | 0 | **3** | ![][flag_GB] **Rotom** | |
-| caned ![][flag_GB] | 0 | **3** | ![][flag_GB] **lovu** | |
-| **Jameslike** ![][flag_GB] | **3** | 0 | ![][flag_GB] Qualify | |
-| **The Fetish** ![][flag_GB] | **3** | 2 | ![][flag_GB] Rarest Pepe | |
-| djsettle ![][flag_GB] | 2 | **3** | ![][flag_GB] **Snookie** | |
-| - Triangle - ![][flag_GB] | 1 | **3** | ![][flag_GB] **Xim** | |
-| vidya ![][flag_GB] | 1 | **3** | ![][flag_GB] **Mahiro Yasaka** | |
-| KawaiiKupcake ![][flag_GB] | 0 | **1** | ![][flag_GB] **Wookiezi** | *forfeit* |
-| zero12555 ![][flag_GB] | 2 | **3** | ![][flag_GB] **Blind** | |
-| Taiitoo ![][flag_GB] | 1 | **3** | ![][flag_GB] **Could This Be** | |
-| **MrSisterFister** ![][flag_GB] | **3** | 1 | ![][flag_GB] Soap755 | |
-| **adam2keva9** ![][flag_GB] | **3** | 0 | ![][flag_GB] ChinesePerson | |
-| **Edd** ![][flag_GB] | **3** | 1 | ![][flag_GB] Mat | |
-| **Boisty** ![][flag_GB] | **1** | 0 | ![][flag_GB] Woffel | *forfeit* |
-| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Dminic | *forfeit* |
-| xendran ![][flag_GB] | 1 | **3** | ![][flag_GB] **Laplace** | |
-| ILykPurple ![][flag_GB] | 0 | **1** | ![][flag_GB] **Dream.** | *forfeit* |
-| Zardocbeats ![][flag_GB] | 0 | **3** | ![][flag_GB] **Jesus1412** | |
-| **Castiel** ![][flag_GB] | **3** | 2 | ![][flag_GB] Hokchris | |
-| **Scootawoo** ![][flag_GB] | **1** | 0 | ![][flag_GB] Doggywoof | *forfeit* |
-| **YunoWhoItIs** ![][flag_GB] | **3** | 1 | ![][flag_GB] Yordaan | |
-| PoisonPanda ![][flag_GB] | 0 | **3** | ![][flag_GB] **Rime** | |
-| **Bubbleman** ![][flag_GB] | **3** | 1 | ![][flag_GB] will1b | |
-| Vaidas ![][flag_GB] | 1 | **3** | ![][flag_GB] **Double Time** | |
-| Churcheell ![][flag_GB] | 2 | **3** | ![][flag_GB] **IEatCookies** | |
-| Luna-Bear ![][flag_GB] | 0 | **3** | ![][flag_GB] **Kardet** | |
-| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] regafu | *forfeit* |
-| Lord Benpai ![][flag_GB] | 0 | **3** | ![][flag_GB] **Jeanzy** | |
-| ifailedatlife ![][flag_GB] | 0 | **1** | ![][flag_GB] **Earya** | *forfeit* |
-| **DivineAscension** ![][flag_GB] | **3** | 1 | ![][flag_GB] Freezing | |
-| **Sway** ![][flag_GB] | **3** | 0 | ![][flag_GB] litejason | |
-| Kyou ![][flag_GB] | 0 | **3** | ![][flag_GB] **-Mo-** | |
-| Pidgy ![][flag_GB] | 0 | **1** | ![][flag_GB] **Justify** | *forfeit* |
-| Profound Leader ![][flag_GB] | 0 | **3** | ![][flag_GB] **bahamete** | |
+| **Doomsday** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: OPJames | |
+| IcarusSenpai ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Jimbot** | |
+| **shivo** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Hydria | |
+| casmith789 ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Kakiage** | |
+| **Jimzzyyy** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: yamikarasu | |
+| **Sniperhappy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Tune | *forfeit* |
+| -Panda- ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **001thefish** | |
+| ItsTrydamere ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Sam** | |
+| **Bradley** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Rubix | *forfeit* |
+| **ShadowBea5t** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: koiishi | |
+| Cheesecake ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Suzumiya-H** | |
+| DeviousPanda ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Volcanism** | *forfeit* |
+| **Ecliptus** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Cornfield | *forfeit* |
+| Shunix ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **\[ Emperor \]** | *forfeit* |
+| **ariflare** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Syrus | |
+| **orbin nyanpasu** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Im not Green | *forfeit* |
+| **\[AOTN\]** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Corey-Kun | |
+| dagothur13 ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Zafkiel** | *forfeit* |
+| **L britt** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Vapor | |
+| Rolf Harris ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Jerome** | |
+| **Misti** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: samlu1999 | |
+| **Cozzzy** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Sundayz | |
+| Darkdog ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **\[CloudSerpent\]** | |
+| -Day ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **-MoeYandere-** | |
+| **Moose** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Epicbearddarf | |
+| Zweihander- ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Hype** | |
+| **Velocimactor** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Adie | *forfeit* |
+| Netherax ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Ascension** | |
+| **Run-Cat** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Yusomi | |
+| Subsonix ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **bandofponies** | |
+| Stormdro ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Rotom** | |
+| caned ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **lovu** | |
+| **Jameslike** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Qualify | |
+| **The Fetish** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Rarest Pepe | |
+| djsettle ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Snookie** | |
+| - Triangle - ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Xim** | |
+| vidya ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Mahiro Yasaka** | |
+| KawaiiKupcake ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Wookiezi** | *forfeit* |
+| zero12555 ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Blind** | |
+| Taiitoo ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Could This Be** | |
+| **MrSisterFister** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Soap755 | |
+| **adam2keva9** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: ChinesePerson | |
+| **Edd** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Mat | |
+| **Boisty** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Woffel | *forfeit* |
+| **Helix** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Dminic | *forfeit* |
+| xendran ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Laplace** | |
+| ILykPurple ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Dream.** | *forfeit* |
+| Zardocbeats ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Jesus1412** | |
+| **Castiel** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Hokchris | |
+| **Scootawoo** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Doggywoof | *forfeit* |
+| **YunoWhoItIs** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Yordaan | |
+| PoisonPanda ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Rime** | |
+| **Bubbleman** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: will1b | |
+| Vaidas ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Double Time** | |
+| Churcheell ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **IEatCookies** | |
+| Luna-Bear ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Kardet** | |
+| **R a h a r u** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: regafu | *forfeit* |
+| Lord Benpai ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Jeanzy** | |
+| ifailedatlife ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Earya** | *forfeit* |
+| **DivineAscension** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Freezing | |
+| **Sway** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: litejason | |
+| Kyou ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **-Mo-** | |
+| Pidgy ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Justify** | *forfeit* |
+| Profound Leader ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **bahamete** | |
 
 ## Ruleset
 
@@ -629,9 +629,3 @@ The RO32 will be a Group Stage which is also seeded. This shall work as follows:
 #### Round of 16 and above
 
 The RO16 onwards will be a standard Double Elimination bracket, seeded by performances in the group stage.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

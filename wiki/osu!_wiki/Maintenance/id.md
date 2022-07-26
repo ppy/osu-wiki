@@ -64,7 +64,6 @@ Beberapa fitur mungkin tidak berhubungan langsung dengan situs web osu!, tetapi 
 
 - [status osu-wiki](https://clayton.cc/osu-wiki-status/id): daftar artikel per bahasa, dan kategori pemeliharaan yang diperlukan (terjemahan, pembaruan, perluasan rintisan). Lihat [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) untuk permintaan fungsionalitas.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin): utilitas Node.js untuk pemeriksaan dan pengeditan otomatis (tautan invalid, pembaruan grup pengguna, penggantian teks di seluruh wiki, dan hal-hal lain)
-- [flag-wiki-osu](https://megaapplepi.github.io/flag-wiki-osu): secara otomatis menambahkan referensi ke ikon bendera yang disebutkan dalam artikel. Lihat [ppy/osu-wiki#328](https://github.com/ppy/osu-wiki/issues/328) untuk permintaan fungsionalitas.
 
 ## Rutinitas
 
