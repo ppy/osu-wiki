@@ -54,7 +54,7 @@ Anyway, The Roundtable has now ended, we can't wait until the next edition!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Roundtable will return.<br>Thank you, everyone ❤️</p>&mdash; BTMC (@btmclive) <a href="https://twitter.com/btmclive/status/1546335465518682112?ref_src=twsrc%5Etfw">July 11, 2022</a></blockquote>
 
-[*Find the forum article here!*](/news/2022-07-08-the-roundtable)
+[*Find the news article here!*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable)
 
 Thanks again to [BTMC](https://osu.ppy.sh/users/3171691) and his staff for this insane event! 
 
@@ -92,7 +92,7 @@ In August, the osu!mania top players will brawl in the osu!mania 4K World Cup 20
 
 As it is starting the on **6th of August**, we can't actually talk about it more, but we are excited to say that the next osu!monthly is going to have a **big article** about it, and maybe an **interview of the winner**!
 
-[*Find the forum article here!*](/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open) 
+[*Find the news article here!*](https://osu.ppy.sh/home/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open) 
 
 ---
 
