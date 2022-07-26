@@ -16,7 +16,7 @@ Jamie "nekodex" Taylor is a full-stack engineer born in Australia who joined the
 
 nekodex as an alias came to be in 2012, as Jamie had a musical background while growing up, played with early music software, learned from YouTube tutorials and eventually started messing around in DAWs (digital audio workstations) until music came out. As Jamie was getting serious with music production, peppy was preparing osu!stream (an iOS spinoff of osu! that was created in 2010) for the public view, which required original music for the game.
 
-Since peppy and Jamie are real life friends and peppy knew about his music he got the chance to create some themes and tracks for osu!stream, and later on got some of his own songs mapped for osu!stream as well. He then later went on to create several official songs throughout the years that we all know and love, such as [welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu), [circles!](https://soundcloud.com/nekodex/circles) and [aureole](https://soundcloud.com/nekodex/aureole).
+Since peppy and Jamie are real life friends and peppy knew about his music, he got the chance to create some themes and tracks for osu!stream, and later on got some of his own songs mapped for it as well. He then later went on to create several official songs throughout the years that we all know and love, such as [welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu), [circles!](https://soundcloud.com/nekodex/circles) and [aureole](https://soundcloud.com/nekodex/aureole).
 
 When peppy decided to start working on a new client from the ground up in 2016 (after trying to make lazer within the stable client and figuring out such a thing would not be feasible), he wanted to not only make the game look good, but also *feel* good. That task required an audio designer, and with nekodex already having done several amazing works for osu!, peppy approached him.
 
@@ -38,7 +38,7 @@ One of the perhaps most satisfying sounds in lazer is the one for all the slider
     </video>
 </div>
 
-nekodex describes this sound as tactile & clicky and wanted the slider bar to be satisfying to play with, and for that he needed the sound to be short and sharp. One of the hover sounds was used as the starting point to get the initial "shape" for the sound, which he tends to do quite frequently — he will use a sound that was already made in the past as a layer in new sounds because it helps making the sound feel cohesive, even if the sound couldn't consciously be recognized.
+nekodex describes this sound as tactile and clicky and wanted the slider bar to be satisfying to play with, and for that he needed the sound to be short and sharp. One of the hover sounds was used as the starting point to get the initial "shape" for the sound, which he tends to do quite frequently — he will use a sound that was already made in the past as a layer in new sounds because it helps make the sound feel cohesive, even if the sound can't consciously be recognized.
 
 After that the sound is processed in a DAW by layering a bunch of synths on top of each other, which sounds straightforward but takes a lot of iterations to get it to sound just right. After creating a few candidate sounds he pondered on how to make the slider fun to use, and eventually came up with the idea of a pitch shifting effect as the slider got dragged around in order to give it an "elastic-like feel".
 
@@ -54,9 +54,9 @@ Another sound that may be particularly satisfying is the difficulty selection so
 
 This one was pretty simple according to nekodex ⎯ "...it was just a woodblock sample with a bunch of processing to make it sound more (tonally) balanced and snappier. I had tried a bunch of different ideas for difficulty selection, but turns out sometimes simple is best."
 
-The work nekodex is able to dish out considering the total lack of prior experience is amazing — every single tick, click & hover is extremely satisfying, and it makes just toying around in the various menus of lazer extremely fun as well! Next time you boot lazer up, maybe take a moment to turn the music all the way down and just play with the buttons and hear all of the amazing work nekodex did yourself!
+The work nekodex is able to dish out considering the total lack of prior experience is amazing — every single tick, click and hover is extremely satisfying, and it makes just toying around in the various menus of lazer extremely fun as well! Next time you boot lazer up, maybe take a moment to turn the music all the way down and just play with the buttons and hear all of the amazing work nekodex did yourself!
 
-Regrettably, it may have been a mistake to not showcase more of these sound effects, so let's do just that and make it a small tivia game as well! Try to recognize what these sounds are used for in the game — **the first 3 comments that have identified the below sound samples correctly will receive a month of supporter!**
+Regrettably, it may have been a mistake to not showcase more of these sound effects, so let's do just that and make it a small tivia game as well! Try to recognize what these sounds are used for in the game — **the first 3 comments to identify the below sound samples correctly will receive a month of supporter!**
 
 <audio controls>
   <source src="wiki\shared\news\2022-07-31-lazer-sound-design\trivia-1.wav" type="audio/mpeg">
@@ -72,4 +72,4 @@ Regrettably, it may have been a mistake to not showcase more of these sound effe
 
 ---
 
-How familiar are you with the sound of lazer? If you haven't tried it yet, go give osu!(lazer) a try and listen in to all the different sounds, which you can do by downloading it from [its GitHub releases page](https://github.com/ppy/osu/releases). osu!(lazer) is actively being worked on by peppy and many other individuals who contribute their time and knowledge, so if you have any suggestions or want to help yourself, feel free to browse around on GitHub or take a closer look at development in the [osu!dev Discord server](https://discord.gg/ppy)!
+How familiar are you with the sound of lazer? If you haven't tried it yet, go give osu!(lazer) a try and listen to all the different sounds, which you can do by downloading it from [its GitHub releases page](https://github.com/ppy/osu/releases). osu!(lazer) is actively being worked on by peppy and many other individuals who contribute their time and knowledge, so if you have any suggestions or want to help yourself, feel free to browse around on GitHub or take a closer look at development in the [osu!dev Discord server](https://discord.gg/ppy)!
