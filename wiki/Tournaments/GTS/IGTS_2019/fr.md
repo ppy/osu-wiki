@@ -34,7 +34,6 @@ L'**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) était un tourno
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | bannière d'équipe exclusive |
 
 ![](img/badge.png "IGTS 2019 winner badge")
-=======
 ![](img/badge.png, "Badge des gagnants de l'IGTS 2019")
 >>>>>>> Stashed changes
 
