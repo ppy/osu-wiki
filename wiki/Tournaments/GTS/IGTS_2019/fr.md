@@ -476,7 +476,7 @@ Dimanche, 9 Juin 2019:
 | C3 | **Japon** ![][flag_JP] | **5** | 3 | ![][flag_AU] Australie | [#1](https://osu.ppy.sh/community/matches/52481439) |
 | D4 | Pays-Bas ![][flag_NL] | 1 | **5** | ![][flag_SG] **Singapour** | [#1](https://osu.ppy.sh/community/matches/52482358) |
 | D5 | **Singapour** ![][flag_SG] | **5** | 1 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/52485481) |
-| A6 | Allemagne ![][flag_DE] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](http://osu.ppy.sh/community/matches/52484172) |
+| A6 | Allemagne ![][flag_DE] | 0 | **5** | ![][flag_TW] **Taïwan** | [#1](http://osu.ppy.sh/community/matches/52484172) |
 | F5 | Danemark ![][flag_DK] | 3 | **5** | ![][flag_CN] **Chine** | [#1](https://osu.ppy.sh/community/matches/52484212) |
 | A5 | Finlande ![][flag_FI] | 3 | **5** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/52485543) |
 | D6 | Pays-Bas ![][flag_NL] | 4 | **5** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/52456119) |
