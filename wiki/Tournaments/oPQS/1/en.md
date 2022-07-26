@@ -9,7 +9,7 @@ tags:
 
 ![oPQS banner](img/banner.png)
 
-The **osu! Philippines Quickfire Showdown** (***oPQS***) is a 1v1 single-elimination open tournament held on both days for those present at the venue. As the name implies, there will be no warmups, and the mappools will be revealed on the spot. The osu! Philippines Quickfire Showdown has become the first ever osu! LAN tournament in the Philippines.
+The **osu! Philippines Quickfire Showdown** (***oPQS***) was a 1v1 single-elimination open tournament held on both days for those present at the venue. As the name implies, there will be no warmups, and the mappools will be revealed on the spot. The osu! Philippines Quickfire Showdown has become the first ever osu! LAN tournament in the Philippines.
 
 ## Schedules
 
@@ -65,10 +65,10 @@ The osu! Philippines Quickfire Showdown was ran by various community members
 
 ## Links
 
-- [News Article](https://osu.ppy.sh/home/news/2022-07-21-osu-philippines-conquest-ph-2022)
+- [News article](https://osu.ppy.sh/home/news/2022-07-21-osu-philippines-conquest-ph-2022)
 - [Challonge (Day 1)](https://challonge.com/oPQS_Day1)
 - [Challonge (Day 2)](https://challonge.com/oPQS_Day2)
-- [Facebook Group](https://www.facebook.com/groups/officialosuphilippines)
+- [Facebook group](https://www.facebook.com/groups/officialosuphilippines)
 - [Livestream](https://www.twitch.tv/osuliveph)
 
 ## Participants
@@ -76,7 +76,7 @@ The osu! Philippines Quickfire Showdown was ran by various community members
 - Day 1
 
   - [-Hanamaru-](https://osu.ppy.sh/users/11348518)
-  - [[Vik]](https://osu.ppy.sh/users/5428448)
+  - [\[Vik\]](https://osu.ppy.sh/users/5428448)
   - [Buizie](https://osu.ppy.sh/users/4795670)
   - [rexralph1](https://osu.ppy.sh/users/18499824)
   - [Awper](https://osu.ppy.sh/users/7378754)
