@@ -56,7 +56,7 @@ This one was pretty simple according to nekodex ⎯ "...it was just a woodblock 
 
 The work nekodex is able to dish out considering the total lack of prior experience is amazing — every single tick, click and hover is extremely satisfying, and it makes just toying around in the various menus of lazer extremely fun as well! Next time you boot lazer up, maybe take a moment to turn the music all the way down and just play with the buttons and hear all of the amazing work nekodex did yourself!
 
-Regrettably, it may have been a mistake to not showcase more of these sound effects, so let's do just that and make it a small tivia game as well! Try to recognize what these sounds are used for in the game — **the first 3 comments to identify the below sound samples correctly will receive a month of supporter!**
+Regrettably, it may have been a mistake to not showcase more of these sound effects, so let's do just that and make it a small tivia game as well! Try to recognize what these sounds are used for in the game — **the first 3 comments to identify the below sound samples correctly will receive a month of osu!supporter!**
 
 <audio controls>
   <source src="wiki\shared\news\2022-07-31-lazer-sound-design\trivia-1.wav" type="audio/mpeg">
