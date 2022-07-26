@@ -197,7 +197,7 @@ A monthly question or puzzle for you!
 
 ## End Word
 
-We wanted to thank the osu!team and the contributors to [osu!lazer](https://github.com/ppy/osu), [osu!web](https://github.com/ppy/osu-Web) and [osu!wiki](https://github.com/ppy/osu-wiki) for their hard work on the repositories and the trust thay gave us. Huge thanks again to [Nelly](https://osu.ppy.sh/users/4741164) for the osu!catch news bulletin and to [The-Last-Cookie](https://github.com/The-Last-Cookie) for his amzing review (a lot of things to correct, right?)!
+We wanted to thank the osu!team and the contributors to [osu!lazer](https://github.com/ppy/osu), [osu!web](https://github.com/ppy/osu-Web) and [osu!wiki](https://github.com/ppy/osu-wiki) for their hard work on the repositories and the trust thay gave us. Huge thanks again to [Nelly](https://osu.ppy.sh/users/4741164) for the osu!catch news bulletin, [fajar13k](https://osu.ppy.sh/users/7100002) for his contribution to the EGTS part, and to [The-Last-Cookie](https://github.com/The-Last-Cookie) for his amazing review (a lot of things to correct, right?)!
 
 If you're interested on seeing the creation processus, the backstages of osu!, please join the [osu!dev server](https://discord.gg/ppy)! (Articles from external contributors are welcome)
 
