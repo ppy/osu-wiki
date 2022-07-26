@@ -35,7 +35,6 @@ L'**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) était un tourno
 
 ![](img/badge.png "IGTS 2019 winner badge")
 ![](img/badge.png, "Badge des gagnants de l'IGTS 2019")
->>>>>>> Stashed changes
 
 ## Organisation
 
