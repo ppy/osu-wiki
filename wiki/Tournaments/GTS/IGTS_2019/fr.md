@@ -487,7 +487,7 @@ Dimanche, 9 Juin 2019:
 | H5 | Irlande ![][flag_IE] | 1 | **5** | ![][flag_PL] **Pologne B** | [#1](https://osu.ppy.sh/community/matches/52488517) |
 | C4 | **Équateur** ![][flag_EC] | **5** | 1 | ![][flag_FR] France B | [#1](https://osu.ppy.sh/community/matches/52494321) |
 | H4 | Colombie ![][flag_CO] | 0 | **5** | ![][flag_IE] **Irlande** | *victoire par défaut* |
-| E2 | **Royaume-Uni** ![][flag_GB] | **5** | 4 | ![][flag_US] États-Unis d'Amérique B | [#1](https://osu.ppy.sh/community/matches/52496157) |
+| E2 | **Royaume-Uni** ![][flag_GB] | **5** | 4 | ![][flag_US] États-Unis B | [#1](https://osu.ppy.sh/community/matches/52496157) |
 | F4 | Canada ![][flag_CA] | 4 | **5** | ![][flag_DK] **Danemark** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | Royaume-Uni ![][flag_GB] | 1 | **5** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52489459) |
 
