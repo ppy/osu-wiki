@@ -66,7 +66,6 @@ Some features are not directly related to the osu! website, but may be useful fo
 
 - [osu-wiki status](https://clayton.cc/osu-wiki-status/en): list of articles per language, and the category of maintenance they require (translation, update, stub expansion). See [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) for functionality requests.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin): a Node.js utility for automated checks and edits (broken links, usergroup updates, wiki-wide text replacements, among other things)
-- [flag-wiki-osu](https://megaapplepi.github.io/flag-wiki-osu): automatically add references to the flags mentioned in an article. See [ppy/osu-wiki#328](https://github.com/ppy/osu-wiki/issues/328) for functionality requests.
 
 ## Routines
 

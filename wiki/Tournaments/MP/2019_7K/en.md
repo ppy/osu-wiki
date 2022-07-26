@@ -37,12 +37,12 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Mappool selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
-| Streamer | ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Commentator | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [paprotka](https://osu.ppy.sh/users/7233032), ![][flag_PL] [Shizune](https://osu.ppy.sh/users/8682644), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
-| Graphic designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
+| Host | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
+| Mappool selector | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
+| Referee | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [crafciak31](https://osu.ppy.sh/users/8426128), ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=PL }:: [Yamakazi](https://osu.ppy.sh/users/4726691) |
+| Streamer | ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [Miq](https://osu.ppy.sh/users/2424440), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
+| Commentator | ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921), ::{ flag=PL }:: [paprotka](https://osu.ppy.sh/users/7233032), ::{ flag=PL }:: [Shizune](https://osu.ppy.sh/users/8682644), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282) |
+| Graphic designer | ::{ flag=PL }:: [W D Gaster](https://osu.ppy.sh/users/1475814) |
 
 ## Links
 
@@ -54,22 +54,22 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 | Seed | Users |
 | :-- | :-- |
-| Top (#1 - #8) | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [-Karen-chan-](https://osu.ppy.sh/users/1333495), ![][flag_PL] [EWGF](https://osu.ppy.sh/users/8422748), ![][flag_PL] [Brunwald\_1410](https://osu.ppy.sh/users/1639587), ![][flag_PL] [PanzerRaymanPL](https://osu.ppy.sh/users/8352830), ![][flag_PL] [Jakub Janda](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Lorwick](https://osu.ppy.sh/users/5481019) |
-| High (#9 - #16) | ![][flag_PL] [-Maus-](https://osu.ppy.sh/users/3109917), ![][flag_PL] [Alicejoy](https://osu.ppy.sh/users/10678683), ![][flag_PL] [jasionnn](https://osu.ppy.sh/users/6886081), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654) |
-| Low (#17 - #24) | ![][flag_PL] [Doktorek626](https://osu.ppy.sh/users/2122669), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [AgregaTxD](https://osu.ppy.sh/users/5115492), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Bobini-](https://osu.ppy.sh/users/7352299), ![][flag_PL] [xROCKETx](https://osu.ppy.sh/users/7442009), ![][flag_PL] [Felix27](https://osu.ppy.sh/users/7447943) |
+| Top (#1 - #8) | ::{ flag=PL }:: [- gero -](https://osu.ppy.sh/users/5068537), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [-Karen-chan-](https://osu.ppy.sh/users/1333495), ::{ flag=PL }:: [EWGF](https://osu.ppy.sh/users/8422748), ::{ flag=PL }:: [Brunwald\_1410](https://osu.ppy.sh/users/1639587), ::{ flag=PL }:: [PanzerRaymanPL](https://osu.ppy.sh/users/8352830), ::{ flag=PL }:: [Jakub Janda](https://osu.ppy.sh/users/12393014), ::{ flag=PL }:: [Lorwick](https://osu.ppy.sh/users/5481019) |
+| High (#9 - #16) | ::{ flag=PL }:: [-Maus-](https://osu.ppy.sh/users/3109917), ::{ flag=PL }:: [Alicejoy](https://osu.ppy.sh/users/10678683), ::{ flag=PL }:: [jasionnn](https://osu.ppy.sh/users/6886081), ::{ flag=PL }:: [TheFalek](https://osu.ppy.sh/users/10214260), ::{ flag=PL }:: [Miq](https://osu.ppy.sh/users/2424440), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag=PL }:: [Justin14p](https://osu.ppy.sh/users/8461297), ::{ flag=PL }:: [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654) |
+| Low (#17 - #24) | ::{ flag=PL }:: [Doktorek626](https://osu.ppy.sh/users/2122669), ::{ flag=PL }:: [capsafangirl](https://osu.ppy.sh/users/4308015), ::{ flag=PL }:: [AgregaTxD](https://osu.ppy.sh/users/5115492), ::{ flag=PL }:: [Yamakazi](https://osu.ppy.sh/users/4726691), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=PL }:: [Bobini-](https://osu.ppy.sh/users/7352299), ::{ flag=PL }:: [xROCKETx](https://osu.ppy.sh/users/7442009), ::{ flag=PL }:: [Felix27](https://osu.ppy.sh/users/7447943) |
 
 ## Groups
 
 | Group | Top | High | Low |
 | :-: | :-- | :-- | :-- |
-| **A** | ![][flag_PL] PanzerRaymanPL | ![][flag_PL] Alicejoy | ![][flag_PL] xROCKETx |
-| **B** | ![][flag_PL] Brunwald\_1410 | ![][flag_PL] Miq | ![][flag_PL] Yamakazi |
-| **C** | ![][flag_PL] Lorwick | ![][flag_PL] -Maus- | ![][flag_PL] Doktorek626 |
-| **D** | ![][flag_PL] EWGF | ![][flag_PL] jasionnn | ![][flag_PL] AgregaTxD |
-| **E** | ![][flag_PL] -Karen-chan- | ![][flag_PL] Tidek | ![][flag_PL] Eclipse- |
-| **F** | ![][flag_PL] Kamikaze | ![][flag_PL] TheFalek | ![][flag_PL] Bobini- |
-| **G** | ![][flag_PL] - gero - | ![][flag_PL] PoweR\_LendzeR | ![][flag_PL] capsafangirl |
-| **H** | ![][flag_PL] Jakub Janda | ![][flag_PL] Justin14p | ![][flag_PL] Felix27 |
+| **A** | ::{ flag=PL }:: PanzerRaymanPL | ::{ flag=PL }:: Alicejoy | ::{ flag=PL }:: xROCKETx |
+| **B** | ::{ flag=PL }:: Brunwald\_1410 | ::{ flag=PL }:: Miq | ::{ flag=PL }:: Yamakazi |
+| **C** | ::{ flag=PL }:: Lorwick | ::{ flag=PL }:: -Maus- | ::{ flag=PL }:: Doktorek626 |
+| **D** | ::{ flag=PL }:: EWGF | ::{ flag=PL }:: jasionnn | ::{ flag=PL }:: AgregaTxD |
+| **E** | ::{ flag=PL }:: -Karen-chan- | ::{ flag=PL }:: Tidek | ::{ flag=PL }:: Eclipse- |
+| **F** | ::{ flag=PL }:: Kamikaze | ::{ flag=PL }:: TheFalek | ::{ flag=PL }:: Bobini- |
+| **G** | ::{ flag=PL }:: - gero - | ::{ flag=PL }:: PoweR\_LendzeR | ::{ flag=PL }:: capsafangirl |
+| **H** | ::{ flag=PL }:: Jakub Janda | ::{ flag=PL }:: Justin14p | ::{ flag=PL }:: Felix27 |
 
 ## Podium
 
@@ -77,9 +77,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PL] [**- gero -**](https://osu.ppy.sh/users/5068537) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [**Kamikaze**](https://osu.ppy.sh/users/2124783) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [**-Karen-chan-**](https://osu.ppy.sh/users/1333495) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: [**- gero -**](https://osu.ppy.sh/users/5068537) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: [**Kamikaze**](https://osu.ppy.sh/users/2124783) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PL }:: [**-Karen-chan-**](https://osu.ppy.sh/users/1333495) |
 
 ## Mappools
 
@@ -207,13 +207,13 @@ Friday, 20 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kamikaze** ![][flag_PL] | **7** | 5 | ![][flag_PL] -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/57116673) |
+| **Kamikaze** ::{ flag=PL }:: | **7** | 5 | ::{ flag=PL }:: -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/57116673) |
 
 Saturday, 21 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **- gero -** ![][flag_PL] | **7** | 4 | ![][flag_PL] Kamikaze | [#1](https://osu.ppy.sh/community/matches/57141582) |
+| **- gero -** ::{ flag=PL }:: | **7** | 4 | ::{ flag=PL }:: Kamikaze | [#1](https://osu.ppy.sh/community/matches/57141582) |
 
 ### Finals
 
@@ -221,15 +221,15 @@ Friday, 13 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Tidek ![][flag_PL] | 1 | **6** | ![][flag_PL] **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56937190) |
-| -Maus- ![][flag_PL] | 3 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56944803) |
+| Tidek ::{ flag=PL }:: | 1 | **6** | ::{ flag=PL }:: **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56937190) |
+| -Maus- ::{ flag=PL }:: | 3 | **6** | ::{ flag=PL }:: **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56944803) |
 
 Saturday, 14 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| capsafangirl ![][flag_PL] | 1 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56964079) |
-| **- gero -** ![][flag_PL] | **6** | 0 | ![][flag_PL] Kamikaze | *win by default* |
+| capsafangirl ::{ flag=PL }:: | 1 | **6** | ::{ flag=PL }:: **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56964079) |
+| **- gero -** ::{ flag=PL }:: | **6** | 0 | ::{ flag=PL }:: Kamikaze | *win by default* |
 
 ### Semifinals
 
@@ -237,24 +237,24 @@ Friday, 6 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **EWGF** ![][flag_PL] | **6** | 2 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56773055) |
-| -Maus- ![][flag_PL] | 1 | **6** | ![][flag_PL] **Kamikaze** | [#1](https://osu.ppy.sh/community/matches/56778270) |
+| **EWGF** ::{ flag=PL }:: | **6** | 2 | ::{ flag=PL }:: TheFalek | [#1](https://osu.ppy.sh/community/matches/56773055) |
+| -Maus- ::{ flag=PL }:: | 1 | **6** | ::{ flag=PL }:: **Kamikaze** | [#1](https://osu.ppy.sh/community/matches/56778270) |
 
 Saturday, 7 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Karen-chan-** ![][flag_PL] | **6** | 0 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56799276) |
-| Jakub Janda ![][flag_PL] | 0 | **6** | ![][flag_PL] **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56803003) |
+| **-Karen-chan-** ::{ flag=PL }:: | **6** | 0 | ::{ flag=PL }:: Alicejoy | [#1](https://osu.ppy.sh/community/matches/56799276) |
+| Jakub Janda ::{ flag=PL }:: | 0 | **6** | ::{ flag=PL }:: **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56803003) |
 
 Sunday, 8 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **PanzerRaymanPL** ![][flag_PL] | **6** | 0 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/N/A) |
-| EWGF ![][flag_PL] | 1 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56827271) |
-| PanzerRaymanPL ![][flag_PL] | 3 | **6** | ![][flag_PL] **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56828607) |
-| **- gero -** ![][flag_PL] | **6** | 1 | ![][flag_PL] Tidek | [#1](https://osu.ppy.sh/community/matches/56834937) |
+| **PanzerRaymanPL** ::{ flag=PL }:: | **6** | 0 | ::{ flag=PL }:: Yamakazi | [#1](https://osu.ppy.sh/community/matches/N/A) |
+| EWGF ::{ flag=PL }:: | 1 | **6** | ::{ flag=PL }:: **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56827271) |
+| PanzerRaymanPL ::{ flag=PL }:: | 3 | **6** | ::{ flag=PL }:: **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56828607) |
+| **- gero -** ::{ flag=PL }:: | **6** | 1 | ::{ flag=PL }:: Tidek | [#1](https://osu.ppy.sh/community/matches/56834937) |
 
 ### Quarterfinals
 
@@ -262,24 +262,24 @@ Friday, 29 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kamikaze** ![][flag_PL] | **5** | 4 | ![][flag_PL] PanzerRaymanPL | [#1](https://osu.ppy.sh/community/matches/56611479) |
+| **Kamikaze** ::{ flag=PL }:: | **5** | 4 | ::{ flag=PL }:: PanzerRaymanPL | [#1](https://osu.ppy.sh/community/matches/56611479) |
 
 Saturday, 20 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **- gero -** ![][flag_PL] | **5** | 4 | ![][flag_PL] -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/56626557) |
-| **Yamakazi** ![][flag_PL] | **5** | 1 | ![][flag_PL] Miq | [#1](https://osu.ppy.sh/community/matches/56631049) |
-| **Tidek** ![][flag_PL] | **5** | 0 | ![][flag_PL] EWGF | [#1](https://osu.ppy.sh/community/matches/56641343) |
-| Jakub Janda ![][flag_PL] | 0 | **5** | ![][flag_PL] **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56644863) |
+| **- gero -** ::{ flag=PL }:: | **5** | 4 | ::{ flag=PL }:: -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/56626557) |
+| **Yamakazi** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: Miq | [#1](https://osu.ppy.sh/community/matches/56631049) |
+| **Tidek** ::{ flag=PL }:: | **5** | 0 | ::{ flag=PL }:: EWGF | [#1](https://osu.ppy.sh/community/matches/56641343) |
+| Jakub Janda ::{ flag=PL }:: | 0 | **5** | ::{ flag=PL }:: **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56644863) |
 
 Sunday, 1 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **capsafangirl** ![][flag_PL] | **5** | 2 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56670651) |
-| AgregaTxD ![][flag_PL] | 0 | **5** | ![][flag_PL] **TheFalek** | [#1](https://osu.ppy.sh/community/matches/56665243) |
-| **Alicejoy** ![][flag_PL] | **5** | 3 | ![][flag_PL] Lorwick | [#1](https://osu.ppy.sh/community/matches/56666447) |
+| **capsafangirl** ::{ flag=PL }:: | **5** | 2 | ::{ flag=PL }:: Justin14p | [#1](https://osu.ppy.sh/community/matches/56670651) |
+| AgregaTxD ::{ flag=PL }:: | 0 | **5** | ::{ flag=PL }:: **TheFalek** | [#1](https://osu.ppy.sh/community/matches/56665243) |
+| **Alicejoy** ::{ flag=PL }:: | **5** | 3 | ::{ flag=PL }:: Lorwick | [#1](https://osu.ppy.sh/community/matches/56666447) |
 
 ### Round of 16
 
@@ -287,24 +287,24 @@ Thursday, 21 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kamikaze** ![][flag_PL] | **5** | 0 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56420253) |
-| **Jakub Janda** ![][flag_PL] | **5** | 1 | ![][flag_PL] AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56421685) |
+| **Kamikaze** ::{ flag=PL }:: | **5** | 0 | ::{ flag=PL }:: Alicejoy | [#1](https://osu.ppy.sh/community/matches/56420253) |
+| **Jakub Janda** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56421685) |
 
 Saturday, 23 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **- gero -** ![][flag_PL] | **5** | 1 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56467373) |
-| **Tidek** ![][flag_PL] | **5** | 1 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/56465847) |
-| **PanzerRaymanPL** ![][flag_PL] | **5** | 1 | ![][flag_PL] Lorwick | [#1](https://osu.ppy.sh/community/matches/56472667) |
-| Miq ![][flag_PL] | 0 | **5** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56474694) |
+| **- gero -** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: Yamakazi | [#1](https://osu.ppy.sh/community/matches/56467373) |
+| **Tidek** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: capsafangirl | [#1](https://osu.ppy.sh/community/matches/56465847) |
+| **PanzerRaymanPL** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: Lorwick | [#1](https://osu.ppy.sh/community/matches/56472667) |
+| Miq ::{ flag=PL }:: | 0 | **5** | ::{ flag=PL }:: **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56474694) |
 
 Sunday, 24 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Maus-** ![][flag_PL] | **5** | 0 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56500157) |
-| **EWGF** ![][flag_PL] | **5** | 1 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56503281) |
+| **-Maus-** ::{ flag=PL }:: | **5** | 0 | ::{ flag=PL }:: TheFalek | [#1](https://osu.ppy.sh/community/matches/56500157) |
+| **EWGF** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: Justin14p | [#1](https://osu.ppy.sh/community/matches/56503281) |
 
 ### Group stage
 
@@ -312,45 +312,45 @@ Thursday, 14 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| -Karen-chan- ![][flag_PL] | 1 | **4** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/56259779) |
+| -Karen-chan- ::{ flag=PL }:: | 1 | **4** | ::{ flag=PL }:: **Tidek** | [#1](https://osu.ppy.sh/community/matches/56259779) |
 
 Friday, 15 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Karen-chan-** ![][flag_PL] | **4** | 0 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/56283075) |
+| **-Karen-chan-** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Eclipse- | [#1](https://osu.ppy.sh/community/matches/56283075) |
 
 Saturday, 16 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **PanzerRaymanPL** ![][flag_PL] | **4** | 2 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56298736) |
-| **Brunwald_1410** ![][flag_PL] | **4** | 2 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56301272) |
-| **EWGF** ![][flag_PL] | **4** | 1 | ![][flag_PL] jasionnn | [#1](https://osu.ppy.sh/community/matches/56304660) |
-| **Kamikaze** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *win by default* |
-| **Lorwick** ![][flag_PL] | **4** | 2 | ![][flag_PL] Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56307590) |
-| Lorwick ![][flag_PL] | 2 | **4** | ![][flag_PL] **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56308924) |
-| **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] PoweR_LendzeR | [#1](https://osu.ppy.sh/community/matches/56310378) |
-| **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/56311969) |
-| **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *win by default* |
-| **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56314551) |
-| **Justin14p** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *win by default* |
+| **PanzerRaymanPL** ::{ flag=PL }:: | **4** | 2 | ::{ flag=PL }:: Alicejoy | [#1](https://osu.ppy.sh/community/matches/56298736) |
+| **Brunwald_1410** ::{ flag=PL }:: | **4** | 2 | ::{ flag=PL }:: Yamakazi | [#1](https://osu.ppy.sh/community/matches/56301272) |
+| **EWGF** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: jasionnn | [#1](https://osu.ppy.sh/community/matches/56304660) |
+| **Kamikaze** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Bobini- | *win by default* |
+| **Lorwick** ::{ flag=PL }:: | **4** | 2 | ::{ flag=PL }:: Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56307590) |
+| Lorwick ::{ flag=PL }:: | 2 | **4** | ::{ flag=PL }:: **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56308924) |
+| **- gero -** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: PoweR_LendzeR | [#1](https://osu.ppy.sh/community/matches/56310378) |
+| **- gero -** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: capsafangirl | [#1](https://osu.ppy.sh/community/matches/56311969) |
+| **Jakub Janda** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Felix27 | *win by default* |
+| **Jakub Janda** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Justin14p | [#1](https://osu.ppy.sh/community/matches/56314551) |
+| **Justin14p** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Felix27 | *win by default* |
 
 Sunday, 17 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **PanzerRaymanPL** ![][flag_PL] | **4** | 1 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56329960) |
-| **Alicejoy** ![][flag_PL] | **4** | 3 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56330729) |
-| Brunwald_1410 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Miq** | *win by default* |
-| Miq ![][flag_PL] | 3 | **4** | ![][flag_PL] **Yamakazi** | [#1](https://osu.ppy.sh/community/matches/56332431) |
-| **-Maus-** ![][flag_PL] | **4** | 1 | ![][flag_PL] Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56339116) |
-| **EWGF** ![][flag_PL] | **4** | 1 | ![][flag_PL] AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56339376) |
-| jasionnn ![][flag_PL] | 2 | **4** | ![][flag_PL] **AgregaTxD** | [#1](https://osu.ppy.sh/community/matches/56337840) |
-| **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/56335633) |
-| **Kamikaze** ![][flag_PL] | **4** | 1 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56333440) |
-| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *win by default* |
-| PoweR_LendzeR ![][flag_PL] | 0 | **4** | ![][flag_PL] **capsafangirl** | *win by default* |
+| **PanzerRaymanPL** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: xROCKETx | [#1](https://osu.ppy.sh/community/matches/56329960) |
+| **Alicejoy** ::{ flag=PL }:: | **4** | 3 | ::{ flag=PL }:: xROCKETx | [#1](https://osu.ppy.sh/community/matches/56330729) |
+| Brunwald_1410 ::{ flag=PL }:: | 0 | **4** | ::{ flag=PL }:: **Miq** | *win by default* |
+| Miq ::{ flag=PL }:: | 3 | **4** | ::{ flag=PL }:: **Yamakazi** | [#1](https://osu.ppy.sh/community/matches/56332431) |
+| **-Maus-** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56339116) |
+| **EWGF** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56339376) |
+| jasionnn ::{ flag=PL }:: | 2 | **4** | ::{ flag=PL }:: **AgregaTxD** | [#1](https://osu.ppy.sh/community/matches/56337840) |
+| **Tidek** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Eclipse- | [#1](https://osu.ppy.sh/community/matches/56335633) |
+| **Kamikaze** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: TheFalek | [#1](https://osu.ppy.sh/community/matches/56333440) |
+| **TheFalek** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Bobini- | *win by default* |
+| PoweR_LendzeR ::{ flag=PL }:: | 0 | **4** | ::{ flag=PL }:: **capsafangirl** | *win by default* |
 
 ### Qualifiers
 
@@ -461,6 +461,3 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
-
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"

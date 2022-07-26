@@ -18,7 +18,7 @@ Der Spielstil wird weithin als die schwerste Methode zum Spielen betrachtet und 
 
 Doppelmaus ist ein Spielstil, in welchem ein Spieler eine Maus in jeder Hand hat. Dabei wird eine Maus zum Tippen und die andere Maus zum Bewegen des Cursors im Spiel verwendet.
 
-Diese Spielweise wurde von den meisten Spielern als ein Scherz angesehen, bis im Mai 2013 der kanadische Spieler ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) Top-Scores auf hoch angesehenen Beatmaps wie [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) und [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) bekam, während er mit zwei Mäusen spielte.
+Diese Spielweise wurde von den meisten Spielern als ein Scherz angesehen, bis im Mai 2013 der kanadische Spieler ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) Top-Scores auf hoch angesehenen Beatmaps wie [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) und [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) bekam, während er mit zwei Mäusen spielte.
 
 *Tipp: Es ist auch üblich für Doppelmaus-Spieler die Maus, die für das Tippen benutzt wird, mit Hilfe von Klebeband an den Schreibtisch zu kleben.*
 
@@ -78,7 +78,7 @@ Touchscreen und Tastatur ist ein Spielstil, der eine Tastatur für Tasteneingabe
 
 - **Touchpad/Trackpad eines Laptops**: Diese Methode ist zwar möglich, aber die meisten Spieler möchten lieber kein Trackpad verwenden, da dies mit einer extremen Schwierigkeit verbunden ist. Konkret argumentieren Spieler, dass die Kontrolle der Cursorbewegung auf der limitierten Fläche des Laptop-Touchpads/-Trackpads schwerfällig und langsam ist und viel Reibung erzeugt. Das Trackpad wird benutzt, um den Cursor im Spiel zu steuern.
 - **Joystick**: Ein kreativer Weg, um den Cursor zu kontrollieren. Bei diesem Spielstil bewegt der Spieler einen Joystick, um den Cursor im Spiel zu bewegen und — abhängig von dem Design des Joysticks — tippt mit den Auslöser-Buttons des Joysticks oder mit den Tastaturtasten, um die Beats zu erfassen. Es wird weithin als eine Art herausfordernder Spielstil angesehen, durch die offensichtlichen Nachteile und den puren Fähigkeiten, die benötigt werden, um die Bewegung des Joysticks zu kontrollieren.
-- **Metallplatte**: Das ist eine besondere Art, die Tastatur zu tauschen, um Beats zu tippen. Die Methode wurde von ![][flag_US] [geckogates](https://osu.ppy.sh/users/geckogates) vorgestellt und benötigt einige Kabel sowie elektronisches Wissen für die Konstruktion. Der Spieler befestigt ein Kabel mit den klickenden Fingern (verbunden mit der Tastaturschaltung für `Z` und `X`) und berührt die Metallplatten, um Beats zu registrieren.
+- **Metallplatte**: Das ist eine besondere Art, die Tastatur zu tauschen, um Beats zu tippen. Die Methode wurde von ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/geckogates) vorgestellt und benötigt einige Kabel sowie elektronisches Wissen für die Konstruktion. Der Spieler befestigt ein Kabel mit den klickenden Fingern (verbunden mit der Tastaturschaltung für `Z` und `X`) und berührt die Metallplatten, um Beats zu registrieren.
 - **Gamepad**: Wie der Joystick ist diese Methode auch eine, die als sehr kreativ eingestuft wird und eine unkonventionelle Art, osu! zu spielen. Abhängig von der Marke des Controllers kann der Spieler hier ein eingebautes Trackpad, eine Steuerung/einen analogen Stick oder ein D-Pad benutzen, um den Cursor im Spiel zu steuern. Einige Spieler finden es vielleicht angenehmer, die Buttons direkt auf dem Controller zu drücken oder eine reguläre Tastatur zu verwenden, um die Beats zu tippen.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
@@ -171,6 +171,3 @@ Noch ein Nachteil ist, dass osu!mania-Beatmaps möglicherweise ohne Rücksicht a
 
 - **Gitarren-/Schlagzeug-Set** (5/6K): Der Standardcontroller für das Gitarren-bezogene ([Guitar Hero](https://de.wikipedia.org/wiki/Guitar_Hero))/Schlagzeug-bezogene ([DrumMania](https://en.wikipedia.org/wiki/GuitarFreaks_and_DrumMania)) Rhythmusspiel. Spieler streamen auf ihrer Gitarre oder schlagen auf ihrem Schlagzeug und Zimbeln, um Befehle einzugeben. Schlagzeuger haben einen Nachteil im Vergleich zu Gitarrenspieler, weil sie ohne ein spezielles Fußpedal nur zwei Eingaben gleichzeitig machen können.
 - **Para Para Controller** (5K): Das ist der Standardcontroller für die Serie [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise). Spieler bewegen ihre Arme, Ellbogen und Hände direkt über den Abstandssensoren, um Eingaben zu machen, basierend auf der Position der Hand und des Abstandssensors. Der Nachteil ist die Sensitivität des Eingabeempfängers und die physische Limitierung des Spielers.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"

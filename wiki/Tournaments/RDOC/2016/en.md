@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2016 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2016** (***RDOC 2016***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). It was the second instalment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2016** (***RDOC 2016***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). It was the second instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -37,12 +37,12 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273) |
-| Mappool selector | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812), ![][flag_DK] [-Crab-](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Flyville](https://osu.ppy.sh/users/6124808) |
-| Referee | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Kazutakee](https://osu.ppy.sh/users/2637514), ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812), ![][flag_DK] [-Crab-](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Flyville](https://osu.ppy.sh/users/6124808) |
-| Other helpers | ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963), ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629) |
-| Designer | ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812) |
-| Streamer/Commentator | ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ![][flag_DK] [Flyville](https://osu.ppy.sh/users/6124808), ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812), ![][flag_DK] [6Lu6Ci6Fer](https://osu.ppy.sh/users/7229384), ![][flag_DK] [Kazutakee](https://osu.ppy.sh/users/2637514), ![][flag_DK] [-Crab-](https://osu.ppy.sh/users/2563435), ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963), ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629) |
+| Manager | ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273) |
+| Mappool selector | ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ::{ flag=DK }:: [Tonarinototoro](https://osu.ppy.sh/users/2678812), ::{ flag=DK }:: [-Crab-](https://osu.ppy.sh/users/2563435), ::{ flag=DK }:: [Flyville](https://osu.ppy.sh/users/6124808) |
+| Referee | ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ::{ flag=DK }:: [Kazutakee](https://osu.ppy.sh/users/2637514), ::{ flag=DK }:: [Tonarinototoro](https://osu.ppy.sh/users/2678812), ::{ flag=DK }:: [-Crab-](https://osu.ppy.sh/users/2563435), ::{ flag=DK }:: [Flyville](https://osu.ppy.sh/users/6124808) |
+| Other helpers | ::{ flag=DK }:: [John Cena](https://osu.ppy.sh/users/2958963), ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629) |
+| Designer | ::{ flag=DK }:: [Tonarinototoro](https://osu.ppy.sh/users/2678812) |
+| Streamer/Commentator | ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ::{ flag=DK }:: [Flyville](https://osu.ppy.sh/users/6124808), ::{ flag=DK }:: [Tonarinototoro](https://osu.ppy.sh/users/2678812), ::{ flag=DK }:: [6Lu6Ci6Fer](https://osu.ppy.sh/users/7229384), ::{ flag=DK }:: [Kazutakee](https://osu.ppy.sh/users/2637514), ::{ flag=DK }:: [-Crab-](https://osu.ppy.sh/users/2563435), ::{ flag=DK }:: [John Cena](https://osu.ppy.sh/users/2958963), ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629) |
 
 ## Links
 
@@ -53,27 +53,27 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 
 *Note: This is an incomplete list, as all records before Round of 16 have been lost to time.*
 
-- ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653)
-- ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715)
-- ![][flag_DK] [Emub](https://osu.ppy.sh/users/4337359)
-- ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138)
-- ![][flag_DK] [KaHLK](https://osu.ppy.sh/users/2287701)
-- ![][flag_DK] [Only1Magma](https://osu.ppy.sh/users/3922957)
-- ![][flag_DK] [Kazutakee](https://osu.ppy.sh/users/2637514)
-- ![][flag_DK] [Zakdawg](https://osu.ppy.sh/users/1667126)
-- ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366)
-- ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925)
-- ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963)
-- ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611)
-- ![][flag_DK] [Gudafild](https://osu.ppy.sh/users/5358569)
-- ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629)
-- ![][flag_DK] [Kawatta](https://osu.ppy.sh/users/3731880)
-- ![][flag_DK] [TheFancyPikachu](https://osu.ppy.sh/users/1946377)
-- ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254)
-- ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469)
-- ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963)
-- ![][flag_DK] [Jobbe](https://osu.ppy.sh/users/2707230)
-- ![][flag_DK] [shoki](https://osu.ppy.sh/users/6583628)
+- ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653)
+- ::{ flag=DK }:: [Zog](https://osu.ppy.sh/users/3722715)
+- ::{ flag=DK }:: [Emub](https://osu.ppy.sh/users/4337359)
+- ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138)
+- ::{ flag=DK }:: [KaHLK](https://osu.ppy.sh/users/2287701)
+- ::{ flag=DK }:: [Only1Magma](https://osu.ppy.sh/users/3922957)
+- ::{ flag=DK }:: [Kazutakee](https://osu.ppy.sh/users/2637514)
+- ::{ flag=DK }:: [Zakdawg](https://osu.ppy.sh/users/1667126)
+- ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366)
+- ::{ flag=DK }:: [Arild](https://osu.ppy.sh/users/3089925)
+- ::{ flag=DK }:: [John Cena](https://osu.ppy.sh/users/2958963)
+- ::{ flag=DK }:: [Tropians](https://osu.ppy.sh/users/2536611)
+- ::{ flag=DK }:: [Gudafild](https://osu.ppy.sh/users/5358569)
+- ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629)
+- ::{ flag=DK }:: [Kawatta](https://osu.ppy.sh/users/3731880)
+- ::{ flag=DK }:: [TheFancyPikachu](https://osu.ppy.sh/users/1946377)
+- ::{ flag=DK }:: [Lemmen](https://osu.ppy.sh/users/6090254)
+- ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469)
+- ::{ flag=DK }:: [TimG](https://osu.ppy.sh/users/1879963)
+- ::{ flag=DK }:: [Jobbe](https://osu.ppy.sh/users/2707230)
+- ::{ flag=DK }:: [shoki](https://osu.ppy.sh/users/6583628)
 
 ## Podium
 
@@ -81,10 +81,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) |
-| *4th place* | ![][flag_DK] [Emub](https://osu.ppy.sh/users/4337359) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: [Zog](https://osu.ppy.sh/users/3722715) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138) |
+| *4th place* | ::{ flag=DK }:: [Emub](https://osu.ppy.sh/users/4337359) |
 
 ## Mappools
 
@@ -243,8 +243,8 @@ Wednesday, 17 February 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **waefwerf** ![][flag_DK] | **7** | 5 | ![][flag_DK] Zog |
-| LB | **waefwerf** ![][flag_DK] | **7** | 3 | ![][flag_DK] Crylizhy |
+| UB | **waefwerf** ::{ flag=DK }:: | **7** | 5 | ::{ flag=DK }:: Zog |
+| LB | **waefwerf** ::{ flag=DK }:: | **7** | 3 | ::{ flag=DK }:: Crylizhy |
 
 ### Finals
 
@@ -252,20 +252,20 @@ Saturday, 13 February 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Emub** ![][flag_DK] | **6** | 2 | ![][flag_DK] Only1Magma |
-| LB | KaHLK ![][flag_DK] | 0 | **6** | ![][flag_DK] **waefwerf** |
+| LB | **Emub** ::{ flag=DK }:: | **6** | 2 | ::{ flag=DK }:: Only1Magma |
+| LB | KaHLK ::{ flag=DK }:: | 0 | **6** | ::{ flag=DK }:: **waefwerf** |
 
 Sunday, 14 February 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | Emub ![][flag_DK] | 5 | **6** | ![][flag_DK] **waefwerf** |
+| LB | Emub ::{ flag=DK }:: | 5 | **6** | ::{ flag=DK }:: **waefwerf** |
 
 Wednesday, 17 February 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Zog** ![][flag_DK] | **7** | 5 | ![][flag_DK] Crylizhy |
+| UB | **Zog** ::{ flag=DK }:: | **7** | 5 | ::{ flag=DK }:: Crylizhy |
 
 ### Semifinals
 
@@ -273,19 +273,19 @@ Saturday, 6 February 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Kazutakee** ![][flag_DK] | **5** | 0 | ![][flag_DK] Arild |
-| LB | John Cena ![][flag_DK] | 3 | **5** | ![][flag_DK] **Emub** |
-| UB | Only1Magma ![][flag_DK] | 0 | **5** | ![][flag_DK] **Crylizhy** |
-| LB | -Tochi ![][flag_DK] | 0 | **4** | ![][flag_DK] **KaHLK** |
-| LB | Tropians ![][flag_DK] | 0 | **4** | ![][flag_DK] **Zakdawg** |
+| LB | **Kazutakee** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: Arild |
+| LB | John Cena ::{ flag=DK }:: | 3 | **5** | ::{ flag=DK }:: **Emub** |
+| UB | Only1Magma ::{ flag=DK }:: | 0 | **5** | ::{ flag=DK }:: **Crylizhy** |
+| LB | -Tochi ::{ flag=DK }:: | 0 | **4** | ::{ flag=DK }:: **KaHLK** |
+| LB | Tropians ::{ flag=DK }:: | 0 | **4** | ::{ flag=DK }:: **Zakdawg** |
 
 Sunday, 7 February 2016
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Zog** ![][flag_DK] | **5** | 3 | ![][flag_DK] waefwerf |
-| LB | **KaHLK** ![][flag_DK] | **5** | 4 | ![][flag_DK] Zakdawg |
-| LB | **Emub** ![][flag_DK] | **5** | 0 | ![][flag_DK] Kazutakee |
+| UB | **Zog** ::{ flag=DK }:: | **5** | 3 | ::{ flag=DK }:: waefwerf |
+| LB | **KaHLK** ::{ flag=DK }:: | **5** | 4 | ::{ flag=DK }:: Zakdawg |
+| LB | **Emub** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: Kazutakee |
 
 ### Quarterfinals
 
@@ -293,19 +293,19 @@ Saturday, 30 January 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Only1Magma** ![][flag_DK] | **4** | 2 | ![][flag_DK] Zakdawg |
-| UB | -Tochi ![][flag_DK] | 1 | **4** | ![][flag_DK] **Crylizhy** |
-| UB | John Cena ![][flag_DK] | 1 | **4** | ![][flag_DK] **Zog** |
-| UB | Arild ![][flag_DK] | 1 | **4** | ![][flag_DK] **waefwerf** |
+| UB | **Only1Magma** ::{ flag=DK }:: | **4** | 2 | ::{ flag=DK }:: Zakdawg |
+| UB | -Tochi ::{ flag=DK }:: | 1 | **4** | ::{ flag=DK }:: **Crylizhy** |
+| UB | John Cena ::{ flag=DK }:: | 1 | **4** | ::{ flag=DK }:: **Zog** |
+| UB | Arild ::{ flag=DK }:: | 1 | **4** | ::{ flag=DK }:: **waefwerf** |
 
 Sunday, 31 January 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Emub** ![][flag_DK] | **4** | 2 | ![][flag_DK] Hudda |
-| LB | **Kazutakee** ![][flag_DK] | **4** | 2 | ![][flag_DK] TheFancyPikachu |
-| LB | **Tropians** ![][flag_DK] | **4** | 0 | ![][flag_DK] Gudafild |
-| LB | Kawatta ![][flag_DK] | 0 | **4** | ![][flag_DK] **KaHLK** |
+| LB | **Emub** ::{ flag=DK }:: | **4** | 2 | ::{ flag=DK }:: Hudda |
+| LB | **Kazutakee** ::{ flag=DK }:: | **4** | 2 | ::{ flag=DK }:: TheFancyPikachu |
+| LB | **Tropians** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Gudafild |
+| LB | Kawatta ::{ flag=DK }:: | 0 | **4** | ::{ flag=DK }:: **KaHLK** |
 
 ### Round of 16
 
@@ -313,25 +313,25 @@ Saturday, 23 January 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | Hudda ![][flag_DK] | 0 | **4** | ![][flag_DK] **-Tochi** |
-| UB | TheFancyPikachu ![][flag_DK] | 0 | **4** | ![][flag_DK] **Only1Magma** |
-| UB | KaHLK ![][flag_DK] | 1 | **4** | ![][flag_DK] **Zog** |
-| UB | Tropians ![][flag_DK] | 2 | **4** | ![][flag_DK] **waefwerf** |
+| UB | Hudda ::{ flag=DK }:: | 0 | **4** | ::{ flag=DK }:: **-Tochi** |
+| UB | TheFancyPikachu ::{ flag=DK }:: | 0 | **4** | ::{ flag=DK }:: **Only1Magma** |
+| UB | KaHLK ::{ flag=DK }:: | 1 | **4** | ::{ flag=DK }:: **Zog** |
+| UB | Tropians ::{ flag=DK }:: | 2 | **4** | ::{ flag=DK }:: **waefwerf** |
 
 Sunday, 24 January 2016:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | Kazutakee ![][flag_DK] | 3 | **4** | ![][flag_DK] **Zakdawg** |
-| UB | Emub ![][flag_DK] | 3 | **4** | ![][flag_DK] **Crylizhy** |
-| UB | **Arild** ![][flag_DK] | **4** | 0 | ![][flag_DK] Gudafild |
-| UB | **John Cena** ![][flag_DK] | **4** | 1 | ![][flag_DK] Kawatta |
+| UB | Kazutakee ::{ flag=DK }:: | 3 | **4** | ::{ flag=DK }:: **Zakdawg** |
+| UB | Emub ::{ flag=DK }:: | 3 | **4** | ::{ flag=DK }:: **Crylizhy** |
+| UB | **Arild** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Gudafild |
+| UB | **John Cena** ::{ flag=DK }:: | **4** | 1 | ::{ flag=DK }:: Kawatta |
 
 ## Ruleset
 
 ### General rules
 
-1. Only users in the Kingdom of Denmark can enter. This is determined by the profile-flag on a player's userpage (Eg. a player with either of these flags is eligible to participate: ![][flag_DK], ![][flag_FO], ![][flag_GL])
+1. Only users in the Kingdom of Denmark can enter. This is determined by the profile-flag on a player's userpage (Eg. a player with either of these flags is eligible to participate: ::{ flag=DK }::, ::{ flag=FO }::, ::{ flag=GL }::)
 2. This tournament uses a double-elimination bracket and single-player format. There are no teams here.
 3. The score system used will be **Score V2**.
 4. Any other rules changes or unexpected occurrences will be announced on the forum discussion.
@@ -367,7 +367,3 @@ Sunday, 24 January 2016:
 
 1. There are different mappools for each stage of the tournament, becoming progressively harder.
 2. Tiebreakers will be played with FreeMod, but will not require a mod to be picked.
-
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_FO]: /wiki/shared/flag/FO.gif "Faroe Islands"
-[flag_GL]: /wiki/shared/flag/GL.gif "Greenland"

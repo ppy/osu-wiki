@@ -175,6 +175,4 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 - **Si `Check distance snap` está activo, AiMod no revisará la distancia entre combos.**
 - **Si hay múltiples archivos MP3 en la carpeta del beatmap, AiMod puede advertirte sobre múltiples archivos de canciones**, sin embargo, los arvchivos MP3 también pueden ser usados para efectos de sonido como los aplausos.
 
-Es recomendable usar otros programas como [Verificador de Conjuntos de Mapas](https://github.com/Naxesss/MapsetVerifier/releases) hecho por ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) en conjunto con AiMod si lo que buscas es hacer que tu beatmap esté [rankeado](/wiki/Beatmap/Category#beatmaps-rankeados). Otros programas están más actualizados con el criterio de ranking y puedem detectar muchos más problemas que AiMod. No obstante, no ignores completamente a AiMod, ya que algunas reglas en el criterio de ranking las evalúa dicho programa.
-
-[flag_SE]: /wiki/shared/flag/SE.gif "Suecia"
+Es recomendable usar otros programas como [Verificador de Conjuntos de Mapas](https://github.com/Naxesss/MapsetVerifier/releases) hecho por ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) en conjunto con AiMod si lo que buscas es hacer que tu beatmap esté [rankeado](/wiki/Beatmap/Category#beatmaps-rankeados). Otros programas están más actualizados con el criterio de ranking y puedem detectar muchos más problemas que AiMod. No obstante, no ignores completamente a AiMod, ya que algunas reglas en el criterio de ranking las evalúa dicho programa.
