@@ -483,7 +483,7 @@ Dimanche, 9 Juin 2019:
 | B5 | Grèce ![][flag_GR] | 0 | **5** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/52486785) |
 | B4 | Suisse ![][flag_CH] | 0 | **5** | ![][flag_GR] Grèce | [#1](https://osu.ppy.sh/community/matches/52488184) |
 | A4 | Allemagne ![][flag_DE] | 2 | **5** | ![][flag_FI] **Finlande** | [#1](https://osu.ppy.sh/community/matches/52489442) |
-| B6 | Suisse ![][flag_CH] | 1 | **5** | ![][flag_PL] **Polande A** | [#1](https://osu.ppy.sh/community/matches/52490955) |
+| B6 | Suisse ![][flag_CH] | 1 | **5** | ![][flag_PL] **Pologne A** | [#1](https://osu.ppy.sh/community/matches/52490955) |
 | H5 | Irlande ![][flag_IE] | 1 | **5** | ![][flag_PL] **Polande B** | [#1](https://osu.ppy.sh/community/matches/52488517) |
 | C4 | **Équateur** ![][flag_EC] | **5** | 1 | ![][flag_FR] France B | [#1](https://osu.ppy.sh/community/matches/52494321) |
 | H4 | Colombie ![][flag_CO] | 0 | **5** | ![][flag_IE] **Irlande** | *win by default* |
