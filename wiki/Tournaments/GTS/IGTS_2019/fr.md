@@ -82,7 +82,7 @@ L'Intermediate Global Taiko Showdown 2019 était organisé par différents membr
 | ![][flag_EC] | **Équateur** | **[-Anmi-](https://osu.ppy.sh/users/7857559)**, [Etsu](https://osu.ppy.sh/users/3442319), [Mik3gam3r7919](https://osu.ppy.sh/users/10570577) |
 | ![][flag_US] | **États Unis A** | **[Swovine](https://osu.ppy.sh/users/6666316)**, [Cychloryn](https://osu.ppy.sh/users/6921736), [Stan GFriend](https://osu.ppy.sh/users/1773605), [InsaneToe](https://osu.ppy.sh/users/6389252), [kb131313](https://osu.ppy.sh/users/11229259) |
 | ![][flag_US] | **États Unis B** | **[Binsu](https://osu.ppy.sh/users/6236911)**, [Slav Man](https://osu.ppy.sh/users/11612235), [White Axl](https://osu.ppy.sh/users/12334307), [Tsred](https://osu.ppy.sh/users/2737667), [Carlohman1](https://osu.ppy.sh/users/12212290) |
-| ![][flag_FI] | **Finlandee** | **[\[Otto\]](https://osu.ppy.sh/users/5049430)**, [Zoel](https://osu.ppy.sh/users/7289244), [SSieni](https://osu.ppy.sh/users/2402008), [Wanderful](https://osu.ppy.sh/users/3386674), [Kuromiyaa](https://osu.ppy.sh/users/12811744) |
+| ![][flag_FI] | **Finlande** | **[\[Otto\]](https://osu.ppy.sh/users/5049430)**, [Zoel](https://osu.ppy.sh/users/7289244), [SSieni](https://osu.ppy.sh/users/2402008), [Wanderful](https://osu.ppy.sh/users/3386674), [Kuromiyaa](https://osu.ppy.sh/users/12811744) |
 | ![][flag_FR] | **France A** | **[Ladylag](https://osu.ppy.sh/users/2812098)**, [Kaho-Hinata](https://osu.ppy.sh/users/8903888), [Musclor](https://osu.ppy.sh/users/9637676), [Mimir](https://osu.ppy.sh/users/7382734), [Ladybug](https://osu.ppy.sh/users/4833654) |
 | ![][flag_FR] | **France B** | **[Lyseria-Miku](https://osu.ppy.sh/users/8972795)**, [kamaboko117](https://osu.ppy.sh/users/9508031), [Heartswimm](https://osu.ppy.sh/users/10936319), [Panda\_0ne](https://osu.ppy.sh/users/11216472) |
 | ![][flag_GR] | **Grèce** | **[- VayKay -](https://osu.ppy.sh/users/2559954)**, [KagamineAmy](https://osu.ppy.sh/users/8744228) |
@@ -106,7 +106,7 @@ L'Intermediate Global Taiko Showdown 2019 était organisé par différents membr
 
 | Groupe | Top Seed | High Seed | Low Seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_TW] Taïwan | ![][flag_ID] Indonésie A | ![][flag_DE] Allemagne | ![][flag_FI] Finlandee |
+| **A** | ![][flag_TW] Taïwan | ![][flag_ID] Indonésie A | ![][flag_DE] Allemagne | ![][flag_FI] Finlande |
 | **B** | ![][flag_PL] Pologne A | ![][flag_PH] Philippines | ![][flag_CH] Suisse | ![][flag_GR] Grèce |
 | **C** | ![][flag_JP] Japon | ![][flag_AU] Australie | ![][flag_EC] Équateur | ![][flag_FR] France B |
 | **D** | ![][flag_KR] Corée du Sud | ![][flag_FR] France A | ![][flag_NL] Pays-Bas | ![][flag_SG] Singapour |
@@ -403,7 +403,7 @@ Dimanche, 23 Juin 2019:
 | Singapour ![][flag_SG] | 5 | **6** | ![][flag_AR] **Argentine** | [#1](https://osu.ppy.sh/community/matches/52848092) |
 | **France A** ![][flag_FR] | **6** | 3 | ![][flag_MX] Mexique | [#1](https://osu.ppy.sh/community/matches/52850794) |
 
-### Round of 16
+### Huitièmes de finale
 
 Samedi, 15 Juin 2019:
 
@@ -434,11 +434,11 @@ Samedi, 22 Juin 2019:
 | **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Polande B | [#1](https://osu.ppy.sh/community/matches/52815977) |
 | **Japon** ![][flag_JP] | **6** | 0 | ![][flag_PL] Polande B | *win by default* |
 
-### Group stage
+### Phase de groupe
 
 Samedi, 8 Juin 2019:
 
-| Group | Équipe 1 |  |  | Équipe 2 | Lien du match |
+| Groupe | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F3 | **États-Unis d'Amérique A** ![][flag_US] | **5** | 0 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/52446671) |
 | G5 | Perou ![][flag_PE] | 0 | **5** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52446788) |
@@ -467,7 +467,7 @@ Samedi, 8 Juin 2019:
 
 Dimanche, 9 Juin 2019:
 
-| Group | Équipe 1 |  |  | Équipe 2 | Lien du match |
+| Groupe | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F6 | Canada ![][flag_CA] | 3 | **5** | ![][flag_US] **États-Unis d'Amérique A** | [#1](https://osu.ppy.sh/community/matches/52474938) |
 | G3 | Brézil ![][flag_BR] | 2 | **5** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52475794) |
@@ -575,7 +575,7 @@ Dimanche, 9 Juin 2019:
 2. Si aucun arbitre ou membre du staff est disponible à l'horaire du match alors celui-ci sera reporté.
 3. S'il y a moins que le nombre minimum de joueurs nécessaire pour effectuer un match à l'heure prévue alors le match peut être retardé au maximum de 10 minutes.
 4. Si les deux équipes n'ont pas assez de joueurs à la fin des 10 minutes, cela comptera comme une défaite pour les deux équipes pendant la phase de groupe. Dans la phase éliminatoire, c'est l'équipe avec le plus haut seed qui sera déclarée victorieuse.
-5. Le match sera joué en ÉquipeVs et ScoreV2 et le nom de la salle doit être : "IGTS 2019: (Équipe Red) vs (Équipe Blue)".
+5. Le match sera joué en TeamVs et ScoreV2 et le nom de la salle doit être : "IGTS 2019: (Équipe Rouge) vs (Équipe Bleu)".
 6. Chaque équipe a droit à un warm up. Celui-ci doit durer moins de 4 minutes. Il est autorisé d'inviter tous les joueurs dans la salle pour les warm ups.
 7. Chaque capitaine doit bannir **une beatmap** prise dans le pool (sauf le Tiebreaker). Ces beatmaps ne pourront plus être pick par aucune équipe pendant tout le match.
 8. Le capitaine de chaque équipe va faire un jet de dés en tapant la commande `!roll` dans le tchat.
@@ -616,7 +616,7 @@ Le All-star est un évènement pour le fun qui a lieu le même weekend que la gr
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
 [flag_EC]: /wiki/shared/flag/EC.gif "Équateur"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlandee"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
