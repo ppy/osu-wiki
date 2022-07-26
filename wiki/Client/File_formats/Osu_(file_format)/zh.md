@@ -49,7 +49,7 @@
 
 这些设置只在[谱面编辑器](/wiki/Client/Beatmap_editor)内有效，不影响谱面的实际游玩。
 
-| Option | Value type | Description |
+| 项目 | 数据类型 | 描述 |
 | :-- | :-- | :-- |
 | `Bookmarks` | 逗号分隔的 Integer（整型）数组 | [书签（蓝线）](/wiki/Client/Beatmap_editor/Compose#bottom-(song's-timeline))的位置（毫秒） |
 | `DistanceSpacing` | Decimal（精准小数） | [间距锁定](/wiki/Client/Beatmap_editor/Distance_snap)倍率 |
@@ -59,7 +59,7 @@
 
 ## 元数据
 
-| Option | Value type | Description |
+| 项目 | 数据类型 | 描述 |
 | :-- | :-- | :-- |
 | `Title` | String（字符串） | 歌曲标题的罗马音 |
 | `TitleUnicode` | String（字符串） | 歌曲标题 |
@@ -74,7 +74,7 @@
 
 ## 难度
 
-| Option | Value type | Description |
+| 项目 | 数据类型 | 描述 |
 | :-- | :-- | :-- |
 | `HPDrainRate` | Decimal（精准小数） | HP 值（0-10） |
 | `CircleSize` | Decimal（精准小数） | CS 值（0-10） |
@@ -170,7 +170,7 @@
 
 本节的所有设置均为颜色设置。这里的颜色为用逗号分隔的 RGB 数组（0 - 255），分别代表此颜色中的红、绿、蓝分量。
 
-| Option | Description |
+| 项目 | 描述 |
 | :-- | :-- |
 | `Combo#`， `#` 处是整型数据 | 自定义的 Combo 颜色 |
 | `SliderTrackOverride` | 自定义的滑条轨道颜色 |
@@ -262,7 +262,7 @@
 - **`滑动次数`（整型）：**玩家在滑条完成前需要在滑条上滑动的次数。也可以看成折返次数 +1。
 - **`长度`（精准小数）：**滑条的视觉长度。单位是 [osu! 像素](/wiki/osupixel)。
 - **`头尾音效`（竖线分隔的整型数组）：**当按下滑条和滑条完成（包括折返）时播放的音效。第一个音效是滑条头的音效，最后的音效则是滑条尾的音效。
-- **`头尾音效组`（竖线分隔的字符串数组）：**`头尾音效`的音效组。音效组的格式为`普通音效组:附加音效组`，与之前[音效段落](#音效)的格式相同。
+- **`头尾音效组`（竖线分隔的字符串数组）：**`头尾音效`的音效组。音效组的格式为`普通音效组:附加音效组`，与之前[音效部分](#音效)的格式相同。
 
 #### 滑条曲线
 
