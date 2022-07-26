@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup 3
 
-The **UK Community Cup 3** (***UKCC3***) was a British 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the third instalment of the UK Community Cup series and the series' second 1v1 competition.
+The **UK Community Cup 3** (***UKCC3***) was a British 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379) and ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973). It was the third instalment of the UK Community Cup series and the series' second 1v1 competition.
 
 ## Tournament schedule
 
@@ -30,11 +30,11 @@ The UK Community Cup 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappool selector | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572), ![][flag_MY] [\[ -Scarlet- \]](https://osu.ppy.sh/users/2427693) |
-| Streamer | ![][flag_GB] [Zain](https://osu.ppy.sh/users/4621060), ![][flag_US] [Zelda101](https://osu.ppy.sh/users/4502238), ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142), ![][flag_GB] [Chassit](https://osu.ppy.sh/users/3799313), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [car0line96](https://osu.ppy.sh/users/9183970), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
-| Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_SE] [Kotayo](https://osu.ppy.sh/users/1730025), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379) |
-| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [minorman4](https://osu.ppy.sh/users/4837257), ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_GB] [Pobe](https://osu.ppy.sh/users/6340618), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_GB] [Sobriquet](https://osu.ppy.sh/users/3891023), ![][flag_GB] [Chassit](https://osu.ppy.sh/users/3799313), ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [ebanineo](https://osu.ppy.sh/users/7755063), ![][flag_GB] [Mashihoe](https://osu.ppy.sh/users/8400612), ![][flag_GB] [car0line96](https://osu.ppy.sh/users/9183970), ![][flag_GB] [feliciaforever](https://osu.ppy.sh/users/6177798) |
+| Manager | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Mappool selector | ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=MX }:: [Atsuro](https://osu.ppy.sh/users/2279351), ::{ flag=DE }:: [Kite](https://osu.ppy.sh/users/134572), ::{ flag=MY }:: [\[ -Scarlet- \]](https://osu.ppy.sh/users/2427693) |
+| Streamer | ::{ flag=GB }:: [Zain](https://osu.ppy.sh/users/4621060), ::{ flag=US }:: [Zelda101](https://osu.ppy.sh/users/4502238), ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142), ::{ flag=GB }:: [Chassit](https://osu.ppy.sh/users/3799313), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [car0line96](https://osu.ppy.sh/users/9183970), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
+| Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379) |
+| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=GB }:: [minorman4](https://osu.ppy.sh/users/4837257), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=GB }:: [Pobe](https://osu.ppy.sh/users/6340618), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467), ::{ flag=GB }:: [Sobriquet](https://osu.ppy.sh/users/3891023), ::{ flag=GB }:: [Chassit](https://osu.ppy.sh/users/3799313), ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=GB }:: [ebanineo](https://osu.ppy.sh/users/7755063), ::{ flag=GB }:: [Mashihoe](https://osu.ppy.sh/users/8400612), ::{ flag=GB }:: [car0line96](https://osu.ppy.sh/users/9183970), ::{ flag=GB }:: [feliciaforever](https://osu.ppy.sh/users/6177798) |
 
 ## Links
 
@@ -48,14 +48,14 @@ The UK Community Cup 3 was run by various community members.
 
 | Group | Members |
 | :-- | :-- |
-| Group A | ![][flag_GB] **[Doomsday](https://osu.ppy.sh/users/18983)**, ![][flag_GB] **[Volcanism](https://osu.ppy.sh/users/2316751)**, ![][flag_GB] [Terrible](https://osu.ppy.sh/users/5171112), ![][flag_GB] [Addstir](https://osu.ppy.sh/users/6009427) |
-| Group B | ![][flag_GB] **[OPJames](https://osu.ppy.sh/users/4117142)**, ![][flag_GB] **[Pelzio](https://osu.ppy.sh/users/4775226)**, ![][flag_GB] [djsettle](https://osu.ppy.sh/users/4010354), ![][flag_GB] [October](https://osu.ppy.sh/users/5513481) |
-| Group C | ![][flag_GB] **[Woffel](https://osu.ppy.sh/users/3915122)**, ![][flag_GB] **[Kardet](https://osu.ppy.sh/users/1438509)**, ![][flag_CA] [Squapple](https://osu.ppy.sh/users/6826036), ![][flag_GB] [Poi Panda](https://osu.ppy.sh/users/4693956) |
-| Group D | ![][flag_GB] **[helix](https://osu.ppy.sh/users/3322597)**, ![][flag_GB] **[Mykaterasu](https://osu.ppy.sh/users/4110225)**, ![][flag_GB] [Chugger](https://osu.ppy.sh/users/4491713), ![][flag_GB] [Majoreh](https://osu.ppy.sh/users/7959222) |
-| Group E | ![][flag_GB] **[Wario](https://osu.ppy.sh/users/4361729)**, ![][flag_GB] **[Cephus](https://osu.ppy.sh/users/3373206)**, ![][flag_GB] [Sam](https://osu.ppy.sh/users/1453543), ![][flag_GB] [jesse1412](https://osu.ppy.sh/users/230116) |
-| Group F | ![][flag_GB] **[Bubbleman](https://osu.ppy.sh/users/5182050)**, ![][flag_GB] **[Dag](https://osu.ppy.sh/users/4045400)**, ![][flag_GB] [L britt](https://osu.ppy.sh/users/4107020), ![][flag_GB] [Snookie](https://osu.ppy.sh/users/1484934) |
-| Group G | ![][flag_GB] **[Nega](https://osu.ppy.sh/users/3181083)**, ![][flag_IE] **[M a t t y](https://osu.ppy.sh/users/3737136)**, ![][flag_GB] [Linkle](https://osu.ppy.sh/users/3253550), ![][flag_GB] [xFluffyo](https://osu.ppy.sh/users/8397226) |
-| Group H | ![][flag_GB] **[Karthy](https://osu.ppy.sh/users/4196808)**, ![][flag_GB] **[Summer Solstice](https://osu.ppy.sh/users/3233710)**, ![][flag_GB] [RndGuy](https://osu.ppy.sh/users/1201586), ![][flag_GB] [ebanineo](https://osu.ppy.sh/users/7755063) |
+| Group A | ::{ flag=GB }:: **[Doomsday](https://osu.ppy.sh/users/18983)**, ::{ flag=GB }:: **[Volcanism](https://osu.ppy.sh/users/2316751)**, ::{ flag=GB }:: [Terrible](https://osu.ppy.sh/users/5171112), ::{ flag=GB }:: [Addstir](https://osu.ppy.sh/users/6009427) |
+| Group B | ::{ flag=GB }:: **[OPJames](https://osu.ppy.sh/users/4117142)**, ::{ flag=GB }:: **[Pelzio](https://osu.ppy.sh/users/4775226)**, ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [October](https://osu.ppy.sh/users/5513481) |
+| Group C | ::{ flag=GB }:: **[Woffel](https://osu.ppy.sh/users/3915122)**, ::{ flag=GB }:: **[Kardet](https://osu.ppy.sh/users/1438509)**, ::{ flag=CA }:: [Squapple](https://osu.ppy.sh/users/6826036), ::{ flag=GB }:: [Poi Panda](https://osu.ppy.sh/users/4693956) |
+| Group D | ::{ flag=GB }:: **[helix](https://osu.ppy.sh/users/3322597)**, ::{ flag=GB }:: **[Mykaterasu](https://osu.ppy.sh/users/4110225)**, ::{ flag=GB }:: [Chugger](https://osu.ppy.sh/users/4491713), ::{ flag=GB }:: [Majoreh](https://osu.ppy.sh/users/7959222) |
+| Group E | ::{ flag=GB }:: **[Wario](https://osu.ppy.sh/users/4361729)**, ::{ flag=GB }:: **[Cephus](https://osu.ppy.sh/users/3373206)**, ::{ flag=GB }:: [Sam](https://osu.ppy.sh/users/1453543), ::{ flag=GB }:: [jesse1412](https://osu.ppy.sh/users/230116) |
+| Group F | ::{ flag=GB }:: **[Bubbleman](https://osu.ppy.sh/users/5182050)**, ::{ flag=GB }:: **[Dag](https://osu.ppy.sh/users/4045400)**, ::{ flag=GB }:: [L britt](https://osu.ppy.sh/users/4107020), ::{ flag=GB }:: [Snookie](https://osu.ppy.sh/users/1484934) |
+| Group G | ::{ flag=GB }:: **[Nega](https://osu.ppy.sh/users/3181083)**, ::{ flag=IE }:: **[M a t t y](https://osu.ppy.sh/users/3737136)**, ::{ flag=GB }:: [Linkle](https://osu.ppy.sh/users/3253550), ::{ flag=GB }:: [xFluffyo](https://osu.ppy.sh/users/8397226) |
+| Group H | ::{ flag=GB }:: **[Karthy](https://osu.ppy.sh/users/4196808)**, ::{ flag=GB }:: **[Summer Solstice](https://osu.ppy.sh/users/3233710)**, ::{ flag=GB }:: [RndGuy](https://osu.ppy.sh/users/1201586), ::{ flag=GB }:: [ebanineo](https://osu.ppy.sh/users/7755063) |
 
 ## Podium
 
@@ -63,9 +63,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
 
 ## Mappools
 
@@ -289,8 +289,8 @@ Sunday, 10 September 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| Bubbleman ![][flag_GB] | 4 | **7** | ![][flag_GB] **OPJames** |
-| **OPJames** ![][flag_GB] | **7** | 2 | ![][flag_GB] Bubbleman |
+| Bubbleman ::{ flag=GB }:: | 4 | **7** | ::{ flag=GB }:: **OPJames** |
+| **OPJames** ::{ flag=GB }:: | **7** | 2 | ::{ flag=GB }:: Bubbleman |
 
 ### Finals
 
@@ -300,7 +300,7 @@ Saturday, 12 August 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Bubbleman** ![][flag_GB] | **7** | 6 | ![][flag_GB] OPJames |
+| **Bubbleman** ::{ flag=GB }:: | **7** | 6 | ::{ flag=GB }:: OPJames |
 
 #### Losers Bracket Round 5
 
@@ -308,7 +308,7 @@ Saturday, 12 August 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Karthy** ![][flag_GB] | **7** | 1 | ![][flag_GB] helix |
+| **Karthy** ::{ flag=GB }:: | **7** | 1 | ::{ flag=GB }:: helix |
 
 #### Losers Finals
 
@@ -316,7 +316,7 @@ Sunday, 13 August 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **OPJames** ![][flag_GB] | **7** | 2 | ![][flag_GB] Karthy |
+| **OPJames** ::{ flag=GB }:: | **7** | 2 | ::{ flag=GB }:: Karthy |
 
 ### Semifinals
 
@@ -326,8 +326,8 @@ Saturday, 5 August 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Bubbleman** ![][flag_GB] | **6** | 2 | ![][flag_GB] Doomsday |
-| **OPJames** ![][flag_GB] | **6** | 3 | ![][flag_GB] Karthy |
+| **Bubbleman** ::{ flag=GB }:: | **6** | 2 | ::{ flag=GB }:: Doomsday |
+| **OPJames** ::{ flag=GB }:: | **6** | 3 | ::{ flag=GB }:: Karthy |
 
 #### Losers Bracket Round 3
 
@@ -335,7 +335,7 @@ Saturday, 5 August 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| Kardet ![][flag_GB] | 4 | **6** | ![][flag_GB] **helix** |
+| Kardet ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **helix** |
 
 #### Losers Bracket Round 4
 
@@ -343,8 +343,8 @@ Sunday, 6 August 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| Wario ![][flag_GB] | 1 | **6** | ![][flag_GB] **Karthy** |
-| **helix** ![][flag_GB] | **6** | 4 | ![][flag_GB] Doomsday |
+| Wario ::{ flag=GB }:: | 1 | **6** | ::{ flag=GB }:: **Karthy** |
+| **helix** ::{ flag=GB }:: | **6** | 4 | ::{ flag=GB }:: Doomsday |
 
 ### Quarterfinals
 
@@ -354,15 +354,15 @@ Saturday, 29 July 2017:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **0** | -1 | ![][flag_GB] Woffel | *forfeit* |
-| Wario ![][flag_GB] | 0 | **5** | ![][flag_GB] **Doomsday** |  |
-| **OPJames** ![][flag_GB] | **5** | 1 | ![][flag_GB] Dag |  |
+| **Bubbleman** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Woffel | *forfeit* |
+| Wario ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **Doomsday** |  |
+| **OPJames** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Dag |  |
 
 Monday, 31 July 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Karthy** ![][flag_GB] | **5** | 4 | ![][flag_GB] helix |
+| **Karthy** ::{ flag=GB }:: | **5** | 4 | ::{ flag=GB }:: helix |
 
 #### Losers Bracket Round 1
 
@@ -370,14 +370,14 @@ Thursday, 27 July 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Cephus** ![][flag_GB] | **5** | 3 | ![][flag_IE] M a t t y |
+| **Cephus** ::{ flag=GB }:: | **5** | 3 | ::{ flag=IE }:: M a t t y |
 
 Saturday, 29 July 2017:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| Volcanism ![][flag_GB] | -1 | **0** | ![][flag_GB] **Summer Solstice** | *forfeit* |
-| **Kardet** ![][flag_GB] | **0** | -1 | ![][flag_GB] Pelzio | *forfeit* |
+| Volcanism ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Summer Solstice** | *forfeit* |
+| **Kardet** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Pelzio | *forfeit* |
 
 #### Losers Bracket Round 2
 
@@ -385,15 +385,15 @@ Sunday, 30 July 2017:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| Summer Solstice ![][flag_GB] | -1 | -1 | ![][flag_GB] Woffel | *double no-show*[^lb-note-1] |
-| Mykaterasu ![][flag_GB] | -1 | **0** | ![][flag_GB] **Wario** | *forfeit*[^lb-note-1] |
-| **Kardet** ![][flag_GB] | **5** | 3 | ![][flag_GB] Dag |  |
+| Summer Solstice ::{ flag=GB }:: | -1 | -1 | ::{ flag=GB }:: Woffel | *double no-show*[^lb-note-1] |
+| Mykaterasu ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Wario** | *forfeit*[^lb-note-1] |
+| **Kardet** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Dag |  |
 
 Wednesday, 2 August 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| Cephus ![][flag_GB] | 1 | **5** | ![][flag_GB] **helix** |
+| Cephus ::{ flag=GB }:: | 1 | **5** | ::{ flag=GB }:: **helix** |
 
 ### Round of 16
 
@@ -401,24 +401,24 @@ Saturday, 22 July 2017:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **Wario** ![][flag_GB] | **5** | 2 | ![][flag_GB] Kardet |  |
-| **OPJames** ![][flag_GB] | **5** | 0 | ![][flag_GB] Mykaterasu |  |
-| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_IE] M a t t y |  |
-| Nega ![][flag_GB] | -1 | **0** | ![][flag_GB] **Dag** | *forfeit* |
+| **Wario** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Kardet |  |
+| **OPJames** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Mykaterasu |  |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 0 | ::{ flag=IE }:: M a t t y |  |
+| Nega ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Dag** | *forfeit* |
 
 Sunday, 23 July 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **helix** ![][flag_GB] | **5** | 1 | ![][flag_GB] Summer Solstice |
-| **Karthy** ![][flag_GB] | **5** | 0 | ![][flag_GB] Volcanism |
-| **Woffel** ![][flag_GB] | **5** | 0 | ![][flag_GB] Cephus |
+| **helix** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Summer Solstice |
+| **Karthy** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Volcanism |
+| **Woffel** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Cephus |
 
 Monday, 24 July 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **5** | 0 | ![][flag_GB] Pelzio |
+| **Doomsday** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Pelzio |
 
 ### Group stage
 
@@ -426,89 +426,89 @@ Monday, 24 July 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_GB] Terrible |
-| Addstir ![][flag_GB] | 0 | **4** | ![][flag_GB] **Volcanism** |
-| Terrible ![][flag_GB] | 1 | **4** | ![][flag_GB] **Volcanism** |
-| **Doomsday** ![][flag_GB] | **4** | 3 | ![][flag_GB] Volcanism |
-| Addstir ![][flag_GB] | 0 | **4** | ![][flag_GB] **Terrible** |
-| **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_GB] Addstir |
+| **Doomsday** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Terrible |
+| Addstir ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Volcanism** |
+| Terrible ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **Volcanism** |
+| **Doomsday** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: Volcanism |
+| Addstir ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Terrible** |
+| **Doomsday** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Addstir |
 
 #### Group B
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **OPJames** ![][flag_GB] | **4** | 0 | ![][flag_GB] October | *forfeit* |
-| October ![][flag_GB] | 0 | **4** | ![][flag_GB] **Pelzio** | *forfeit* |
-| **OPJames** ![][flag_GB] | **4** | 1 | ![][flag_GB] Pelzio |  |
-| djsettle ![][flag_GB] | 1 | **4** | ![][flag_GB] **Pelzio** |  |
-| **djsettle** ![][flag_GB] | **4** | 0 | ![][flag_GB] October | *forfeit* |
-| **OPJames** ![][flag_GB] | **4** | 0 | ![][flag_GB] djsettle |  |
+| **OPJames** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: October | *forfeit* |
+| October ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Pelzio** | *forfeit* |
+| **OPJames** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Pelzio |  |
+| djsettle ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **Pelzio** |  |
+| **djsettle** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: October | *forfeit* |
+| **OPJames** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: djsettle |  |
 
 #### Group C
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **Woffel** ![][flag_GB] | **4** | 3 | ![][flag_GB] Squapple |  |
-| **Squapple** ![][flag_GB] | **4** | 0 | ![][flag_GB] Poi Panda |  |
-| **Woffel** ![][flag_GB] | **4** | 0 | ![][flag_GB] Poi Panda | *forfeit* |
-| **Woffel** ![][flag_GB] | **4** | 1 | ![][flag_GB] Kardet |  |
-| **Kardet** ![][flag_GB] | **4** | 3 | ![][flag_GB] Squapple |  |
-| **Kardet** ![][flag_GB] | **4** | 0 | ![][flag_GB] Poi Panda | *forfeit* |
+| **Woffel** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: Squapple |  |
+| **Squapple** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Poi Panda |  |
+| **Woffel** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Poi Panda | *forfeit* |
+| **Woffel** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Kardet |  |
+| **Kardet** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: Squapple |  |
+| **Kardet** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Poi Panda | *forfeit* |
 
 #### Group D
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **Chugger** ![][flag_GB] | **4** | 0 | ![][flag_GB] Majoreh | *forfeit* |
-| Majoreh ![][flag_GB] | 0 | **4** | ![][flag_GB] **Mykaterasu** |  |
-| Chugger ![][flag_GB] | 3 | **4** | ![][flag_GB] **helix** |  |
-| **helix** ![][flag_GB] | **4** | 2 | ![][flag_GB] Mykaterasu |  |
-| Majoreh ![][flag_GB] | 1 | **4** | ![][flag_GB] **helix** |  |
-| Chugger ![][flag_GB] | 1 | **4** | ![][flag_GB] **Mykaterasu** |  |
+| **Chugger** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Majoreh | *forfeit* |
+| Majoreh ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Mykaterasu** |  |
+| Chugger ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **helix** |  |
+| **helix** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Mykaterasu |  |
+| Majoreh ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **helix** |  |
+| Chugger ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **Mykaterasu** |  |
 
 #### Group E
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **Wario** ![][flag_GB] | **4** | 0 | ![][flag_GB] Sam |  |
-| **Wario** ![][flag_GB] | **4** | 0 | ![][flag_GB] Cephus |  |
-| **Sam** ![][flag_GB] | **4** | 0 | ![][flag_GB] jesse1412 | *forfeit* |
-| **Cephus** ![][flag_GB] | **4** | 0 | ![][flag_GB] jesse1412 | *forfeit* |
-| Sam ![][flag_GB] | 0 | **4** | ![][flag_GB] **Cephus** | *forfeit* |
-| **Wario** ![][flag_GB] | **4** | 1 | ![][flag_GB] jesse1412 |  |
+| **Wario** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Sam |  |
+| **Wario** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Cephus |  |
+| **Sam** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: jesse1412 | *forfeit* |
+| **Cephus** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: jesse1412 | *forfeit* |
+| Sam ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Cephus** | *forfeit* |
+| **Wario** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: jesse1412 |  |
 
 #### Group F
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] L britt |  |
-| **Bubbleman** ![][flag_GB] | **4** | 1 | ![][flag_GB] Dag |  |
-| Snookie ![][flag_GB] | 3 | **4** | ![][flag_GB] **L britt** |  |
-| **Dag** ![][flag_GB] | **4** | 3 | ![][flag_GB] L britt |  |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] Snookie |  |
-| Snookie ![][flag_GB] | 0 | **4** | ![][flag_GB] **Dag** | *forfeit* |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: L britt |  |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Dag |  |
+| Snookie ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **L britt** |  |
+| **Dag** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: L britt |  |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Snookie |  |
+| Snookie ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Dag** | *forfeit* |
 
 #### Group G
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| M a t t y ![][flag_IE] | 0 | **4** | ![][flag_GB] **Nega** |  |
-| **Nega** ![][flag_GB] | **4** | 0 | ![][flag_GB] Linkle |  |
-| xFluffyo ![][flag_GB] | 0 | **4** | ![][flag_GB] **Linkle** |  |
-| **M a t t y** ![][flag_IE] | **4** | 0 | ![][flag_GB] Linkle | *forfeit* |
-| **xFluffyo** ![][flag_GB] | **4** | 2 | ![][flag_IE] M a t t y |  |
-| xFluffyo ![][flag_GB] | 0 | **4** | ![][flag_GB] **Nega** |  |
+| M a t t y ::{ flag=IE }:: | 0 | **4** | ::{ flag=GB }:: **Nega** |  |
+| **Nega** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Linkle |  |
+| xFluffyo ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Linkle** |  |
+| **M a t t y** ::{ flag=IE }:: | **4** | 0 | ::{ flag=GB }:: Linkle | *forfeit* |
+| **xFluffyo** ::{ flag=GB }:: | **4** | 2 | ::{ flag=IE }:: M a t t y |  |
+| xFluffyo ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Nega** |  |
 
 #### Group H
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| ebanineo ![][flag_GB] | 0 | **4** | ![][flag_GB] **RndGuy** | *forfeit* |
-| **Karthy** ![][flag_GB] | **4** | 1 | ![][flag_GB] RndGuy |  |
-| ebanineo ![][flag_GB] | 0 | **4** | ![][flag_GB] **Summer Solstice** | *forfeit* |
-| **Karthy** ![][flag_GB] | **4** | 0 | ![][flag_GB] ebanineo | *forfeit* |
-| RndGuy ![][flag_GB] | 1 | **4** | ![][flag_GB] **Summer Solstice** |  |
-| **Karthy** ![][flag_GB] | **4** | 0 | ![][flag_GB] Summer Solstice | *forfeit* |
+| ebanineo ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **RndGuy** | *forfeit* |
+| **Karthy** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: RndGuy |  |
+| ebanineo ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Summer Solstice** | *forfeit* |
+| **Karthy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: ebanineo | *forfeit* |
+| RndGuy ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **Summer Solstice** |  |
+| **Karthy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Summer Solstice | *forfeit* |
 
 ### Round of 64
 
@@ -516,51 +516,51 @@ Thursday, 6 July 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Kardet** ![][flag_GB] | **3** | 2 | ![][flag_GB] Jerome |
+| **Kardet** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Jerome |
 
 Saturday, 8 July 2017:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| Bae- ![][flag_GB] | 2 | **3** | ![][flag_GB] **Summer Solstice** |  |
-| TopSp1n ![][flag_GB] | 0 | **3** | ![][flag_GB] **OPJames** |  |
-| **Volcanism** ![][flag_GB] | **3** | 0 | ![][flag_GB] IEatCookies |  |
-| SteffoST ![][flag_GB] | 2 | **3** | ![][flag_GB] **Woffel** |  |
-| MagicMantwon ![][flag_GB] | 0 | **3** | ![][flag_GB] **Sam** |  |
-| **Linkle** ![][flag_GB] | **0** | -1 | ![][flag_GB] \[ B E A S T \] | *forfeit* |
-| PsychoStatic ![][flag_GB] | -1 | **0** | ![][flag_GB] **Rndguy** | *forfeit* |
-| Cornfield ![][flag_GB] | 0 | **3** | ![][flag_GB] **Terrible** |  |
-| Chitxge ![][flag_GB] | 0 | **3** | ![][flag_GB] **ebanineo** |  |
-| Savag3blow ![][flag_GB] | 2 | **3** | ![][flag_GB] **Mykaterasu** |  |
-| **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] derrik |  |
-| - Akemi ![][flag_GB] | 2 | **3** | ![][flag_IE] **M a t t y** |  |
-| AlexDark69 ![][flag_GB] | 1 | **3** | ![][flag_GB] **jesse1412** |  |
+| Bae- ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Summer Solstice** |  |
+| TopSp1n ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **OPJames** |  |
+| **Volcanism** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: IEatCookies |  |
+| SteffoST ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Woffel** |  |
+| MagicMantwon ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Sam** |  |
+| **Linkle** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: \[ B E A S T \] | *forfeit* |
+| PsychoStatic ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Rndguy** | *forfeit* |
+| Cornfield ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Terrible** |  |
+| Chitxge ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **ebanineo** |  |
+| Savag3blow ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Mykaterasu** |  |
+| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: derrik |  |
+| - Akemi ::{ flag=GB }:: | 2 | **3** | ::{ flag=IE }:: **M a t t y** |  |
+| AlexDark69 ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **jesse1412** |  |
 
 Sunday, 9 July 2017:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **October** ![][flag_GB] | **3** | 0 | ![][flag_GB] Zainny |  |
-| Gazza ![][flag_GB] | -1 | **0** | ![][flag_GB] **Wario** | *forfeit* |
-| **Cephus** ![][flag_GB] | **3** | 0 | ![][flag_GB] Icecream-chan |  |
-| Proteus ![][flag_GB] | 1 | **3** | ![][flag_GB] **Pelzio** |  |
-| 001thefish ![][flag_GB] | 2 | **3** | ![][flag_GB] **Snookie** |  |
-| **Chugger** ![][flag_GB] | **0** | -1 | ![][flag_GB] Mongoose- | *forfeit* |
-| **Nega** ![][flag_GB] | **3** | 0 | ![][flag_GB] Claus |  |
-| FlowR ![][flag_GB] | -1 | **0** | ![][flag_GB] **xFluffyo** | *forfeit* |
-| Darkdog ![][flag_GB] | 0 | **3** | ![][flag_GB] **L britt** |  |
-| **Karthy** ![][flag_GB] | **3** | 1 | ![][flag_GB] Doughy |  |
-| **Bubbleman** ![][flag_GB] | **3** | 0 | ![][flag_GB] Kuramu |  |
-| **Addstir** ![][flag_GB] | **0** | -1 | ![][flag_GB] sonofgeek | *forfeit* |
-| **helix** ![][flag_GB] | **3** | 0 | ![][flag_GB] dong |  |
-| D u c k y ![][flag_GB] | 1 | **3** | ![][flag_GB] **Poi Panda** |  |
-| Alphabet ![][flag_GB] | 0 | **3** | ![][flag_GB] **Dag** |  |
+| **October** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Zainny |  |
+| Gazza ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Wario** | *forfeit* |
+| **Cephus** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Icecream-chan |  |
+| Proteus ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Pelzio** |  |
+| 001thefish ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Snookie** |  |
+| **Chugger** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Mongoose- | *forfeit* |
+| **Nega** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Claus |  |
+| FlowR ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **xFluffyo** | *forfeit* |
+| Darkdog ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **L britt** |  |
+| **Karthy** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Doughy |  |
+| **Bubbleman** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Kuramu |  |
+| **Addstir** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: sonofgeek | *forfeit* |
+| **helix** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: dong |  |
+| D u c k y ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Poi Panda** |  |
+| Alphabet ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Dag** |  |
 
 Tuesday, 11 July 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| Orenjijusu ![][flag_GB] | 0 | **3** | ![][flag_CA] Squapple |
+| Orenjijusu ::{ flag=GB }:: | 0 | **3** | ::{ flag=CA }:: Squapple |
 
 ### Round of 128
 
@@ -568,72 +568,72 @@ Saturday, 1 July 2017:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **ebanineo** ![][flag_GB] | **0** | -1 | ![][flag_GB] PEPSI MAN | *forfeit* |
-| Mbarris ![][flag_GB] | 1 | **3** | ![][flag_GB] **Summer Solstice** |  |
-| **Cornfield** ![][flag_GB] | **0** | -1 | ![][flag_GB] Revios | *forfeit* |
-| **TopSp1n** ![][flag_GB] | **3** | 1 | ![][flag_GB] Feliciaforever |  |
-| **icecream-chan** ![][flag_GB] | **0** | -1 | ![][flag_GB] Kixs Student | *forfeit* |
-| Smiffi ![][flag_GB] | -1 | **0** | ![][flag_GB] **\[ B E A S T \]** | *forfeit* |
-| Ali161102 ![][flag_GB] | 1 | **3** | ![][flag_GB] **Sam** |  |
-| Hii ![][flag_GB] | 1 | **3** | ![][flag_GB] **Snookie** |  |
-| **Linkle** ![][flag_GB] | **3** | 0 | ![][flag_GB] - Sakura |  |
-| **Kardet** ![][flag_GB] | **0** | -1 | ![][flag_GB] RojasowyPL | *forfeit* |
-| Toadstool ![][flag_GB] | 0 | **3** | ![][flag_GB] **Claus** |  |
-| **Bae-** ![][flag_GB] | **3** | 0 | ![][flag_GB] Ik-rai |  |
-| Xim ![][flag_GB] | -1 | **0** | ![][flag_GB] **Darkdog** | *forfeit* |
-| Taiitoo ![][flag_GB] | -1 | **0** | ![][flag_GB] **MagicMantwon** | *forfeit* |
-| Hi Im Adam ![][flag_GB] | 0 | **3** | ![][flag_GB] **Jerome** |  |
-| L-A-M-E-Y \[ B \] ![][flag_GB] | 0 | **3** | ![][flag_GB] **L britt** |  |
-| Giblit ![][flag_GB] | 1 | **3** | ![][flag_GB] **xFluffyo** |  |
-| MySliderBreak ![][flag_IE] | 0 | **3** | ![][flag_GB] **jesse1412** |  |
-| Nega ![][flag_GB] | **3** | 0 | ![][flag_GB] xPray |  |
-| **AlexDark69** ![][flag_GB] | **3** | 0 | ![][flag_GB] LosslessAudio |  |
-| **derrik** ![][flag_GB] | **0** | -1 | ![][flag_GB] meltz | *forfeit* |
-| Tironas ![][flag_LT] | 1 | **3** | ![][flag_GB] **Doughy** |  |
-| Electovoid ![][flag_GB] | -1 | **0** | ![][flag_GB] **- Akemi** | *forfeit* |
-| **Orenjijusu** ![][flag_GB] | **3** | 0 | ![][flag_GB] Mashihoe |  |
-| **D u c k y** ![][flag_IE] | **3** | 0 | ![][flag_GB] \_Oliver\_ |  |
+| **ebanineo** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: PEPSI MAN | *forfeit* |
+| Mbarris ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Summer Solstice** |  |
+| **Cornfield** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Revios | *forfeit* |
+| **TopSp1n** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Feliciaforever |  |
+| **icecream-chan** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Kixs Student | *forfeit* |
+| Smiffi ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **\[ B E A S T \]** | *forfeit* |
+| Ali161102 ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Sam** |  |
+| Hii ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Snookie** |  |
+| **Linkle** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: - Sakura |  |
+| **Kardet** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: RojasowyPL | *forfeit* |
+| Toadstool ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Claus** |  |
+| **Bae-** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Ik-rai |  |
+| Xim ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Darkdog** | *forfeit* |
+| Taiitoo ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **MagicMantwon** | *forfeit* |
+| Hi Im Adam ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Jerome** |  |
+| L-A-M-E-Y \[ B \] ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **L britt** |  |
+| Giblit ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **xFluffyo** |  |
+| MySliderBreak ::{ flag=IE }:: | 0 | **3** | ::{ flag=GB }:: **jesse1412** |  |
+| Nega ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: xPray |  |
+| **AlexDark69** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: LosslessAudio |  |
+| **derrik** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: meltz | *forfeit* |
+| Tironas ::{ flag=LT }:: | 1 | **3** | ::{ flag=GB }:: **Doughy** |  |
+| Electovoid ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **- Akemi** | *forfeit* |
+| **Orenjijusu** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Mashihoe |  |
+| **D u c k y** ::{ flag=IE }:: | **3** | 0 | ::{ flag=GB }:: \_Oliver\_ |  |
 
 Sunday, 2 July 2017:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **Volcanism** ![][flag_GB] | **3** | 0 | ![][flag_GB] hypercyte |  |
-| **RndGuy** ![][flag_GB] | **0** | -1 | ![][flag_GB] Darthray | *forfeit* |
-| **Proteus** ![][flag_GB] | **0** | -1 | ![][flag_GB] ShadowTheMLGPro | *forfeit* |
-| **001thefish** ![][flag_GB] | **0** | -1 | ![][flag_DE] senpaiEra | *forfeit* |
-| **sonofgeek** ![][flag_GB] | **0** | -1 | ![][flag_GB] Jimzzyyy | *forfeit* |
-| **october** ![][flag_GB] | **3** | 0 | ![][flag_GB] Waluigi |  |
-| **Cephus** ![][flag_GB] | **0** | -1 | ![][flag_GB] koiishi | *forfeit* |
-| skaytan ![][flag_GB] | 1 | **3** | ![][flag_GB] **Mykaterasu** |  |
-| **SteffoST** ![][flag_GB] | **0** | -1 | ![][flag_GB] Kayneinn | *forfeit* |
-| SHUNIX ![][flag_GB] | -1 | **0** | ![][flag_GB] **PsychoStatic** | *forfeit* |
-| **Savag3blow** ![][flag_GB] | **3** | 1 | ![][flag_GB] -Blue- |  |
-| **Zainny** ![][flag_GB] | **0** | -1 | ![][flag_GB] Chug | *forfeit* |
-| **Chugger** ![][flag_GB] | **3** | 0 | ![][flag_GB] Respirte |  |
-| **djsettle** ![][flag_GB] | **3** | 0 | ![][flag_GB] Stedoss | [^ro128-note-1] |
-| uee ![][flag_GB] | 2 | **3** | ![][flag_GB] **Majoreh** | [^ro128-note-2] |
-| Sapphy128 ![][flag_GB] | 0 | **3** | ![][flag_CA] **Squapple** |  |
-| **Poi Panda** ![][flag_GB] | **3** | 1 | ![][flag_GB] Pyrooo |  |
-| Desired ![][flag_GB] | -1 | -1 | ![][flag_GB] \[Josh\] | *double no-show*[^ro128-note-2] |
-| **helix** ![][flag_GB] | **0** | -1 | ![][flag_GB] fgl2036 | *forfeit* |
-| Scootawoo ![][flag_GB] | 2 | **3** | ![][flag_GB] **Pelzio** |  |
-| Patritoic Brit ![][flag_GB] | 0 | **3** | ![][flag_GB] **Dag** |  |
-| ImBordd ![][flag_GB] | 0 | **3** | ![][flag_GB] **IEatCookies** |  |
-| rime ![][flag_GB] | -1 | **0** | ![][flag_GB] **Chitxge** | *forfeit* |
-| **Gazza** ![][flag_GB] | **0** | -1 | ![][flag_GB] Doomsday is Bad | *forfeit* |
-| **Alphabet** ![][flag_GB] | **0** | -1 | ![][flag_GB] Jimbot | *forfeit* |
-| Chassit ![][flag_GB] | -1 | **0** | ![][flag_GB] **Addstir** | *forfeit* |
-| Pepsi Max ![][flag_GB] | 1 | **3** | ![][flag_IE] **M a t t y** |  |
-| Falc0 ![][flag_GB] | 0 | **3** | ![][flag_GB] **dong** |  |
-| Azerith ![][flag_GB] | -1 | -1 | ![][flag_GB] Valentine | *double forfeit*[^ro128-note-1] |
+| **Volcanism** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: hypercyte |  |
+| **RndGuy** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Darthray | *forfeit* |
+| **Proteus** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: ShadowTheMLGPro | *forfeit* |
+| **001thefish** ::{ flag=GB }:: | **0** | -1 | ::{ flag=DE }:: senpaiEra | *forfeit* |
+| **sonofgeek** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Jimzzyyy | *forfeit* |
+| **october** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Waluigi |  |
+| **Cephus** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: koiishi | *forfeit* |
+| skaytan ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Mykaterasu** |  |
+| **SteffoST** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Kayneinn | *forfeit* |
+| SHUNIX ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **PsychoStatic** | *forfeit* |
+| **Savag3blow** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: -Blue- |  |
+| **Zainny** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Chug | *forfeit* |
+| **Chugger** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Respirte |  |
+| **djsettle** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Stedoss | [^ro128-note-1] |
+| uee ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Majoreh** | [^ro128-note-2] |
+| Sapphy128 ::{ flag=GB }:: | 0 | **3** | ::{ flag=CA }:: **Squapple** |  |
+| **Poi Panda** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Pyrooo |  |
+| Desired ::{ flag=GB }:: | -1 | -1 | ::{ flag=GB }:: \[Josh\] | *double no-show*[^ro128-note-2] |
+| **helix** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: fgl2036 | *forfeit* |
+| Scootawoo ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Pelzio** |  |
+| Patritoic Brit ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Dag** |  |
+| ImBordd ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **IEatCookies** |  |
+| rime ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Chitxge** | *forfeit* |
+| **Gazza** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Doomsday is Bad | *forfeit* |
+| **Alphabet** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Jimbot | *forfeit* |
+| Chassit ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Addstir** | *forfeit* |
+| Pepsi Max ::{ flag=GB }:: | 1 | **3** | ::{ flag=IE }:: **M a t t y** |  |
+| Falc0 ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **dong** |  |
+| Azerith ::{ flag=GB }:: | -1 | -1 | ::{ flag=GB }:: Valentine | *double forfeit*[^ro128-note-1] |
 
 Monday, 3 July 2017:
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| mmi- ![][flag_GB] | 1 | **3** | ![][flag_GB] **Terrible** |
-| Vinibash ![][flag_GB] | 0 | **3** | ![][flag_GB] **Kuramu** |
+| mmi- ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Terrible** |
+| Vinibash ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Kuramu** |
 
 ## Ruleset
 
@@ -642,7 +642,7 @@ Monday, 3 July 2017:
 - This tournament is a 1v1 double-elimination British osu! tournament.
 - This tournament will consist of up to 128 players.
 - Matches will be Head To Head, with score v2 as the scoring system used.
-- To be able to participate, players must have a ![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag, otherwise the player must be able to provide proof of residency to the hosts.
+- To be able to participate, players must have a ::{ flag=GB }:: United Kingdom or ::{ flag=IE }:: Ireland flag, otherwise the player must be able to provide proof of residency to the hosts.
 - UK Staff are able to participate, mappool selectors are not allowed to participate.
 - The top 128 ranked players will be selected to play.
 
@@ -656,7 +656,7 @@ Monday, 3 July 2017:
 ### Rescheduling
 
 - The tournament matches will be drawn on weekends, the exact schedule to be released every Monday. Matches can however be rescheduled for any day in the week as long as there is a referee available to supervise.
-- If a reschedule is required, please agree a time with your opponents before coming to either ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) or ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) with it.
+- If a reschedule is required, please agree a time with your opponents before coming to either ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) or ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) with it.
 - A time to reschedule your match to must be agreed and staff informed before Friday, 12:00 BST, at which point the schedules will be locked. Any reschedule notices after this will be invalid.
 - If it is impossible to find a time to reschedule to that suits both players, both players should talk to the same staff member and we will attempt to sort something out.
 - Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
@@ -691,15 +691,3 @@ Monday, 3 July 2017:
 [^lb-note-1]: Wario advances to Losers Bracket Round 4, Summer Solstice and Woffel eliminated.
 [^ro128-note-1]: djsettle advances to group stage, Azerith and Valentine eliminated.
 [^ro128-note-2]: Majoreh advances to group stage, Desired and \[Josh\] eliminated.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

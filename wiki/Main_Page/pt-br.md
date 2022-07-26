@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_since: 1834ccd496bf810403e12761b11dbf6ed360f82e
-outdated_translation: true
 ---
 
 <div class="wiki-main-page__blurb">
@@ -74,7 +72,7 @@ Leia sobre os procedimentos e regulações que mantém osu! e sua comunidade seg
 
 [Regras](/wiki/Rules) • [Código de Conduta do Contribuinte](/wiki/Contributor_Code_of_Conduct) • [Código de Conduta para Moderação e Mapeamento](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
-Regulações de midia: [Diretrizes de uso de conteúdo](/wiki/Rules/Content_Usage_Guidelines) • [Conteúdo explícito](/wiki/Rules/Explicit_Content) • [Regras do conteúdo de músicas](/wiki/Rules/Song_Content_Rules) • [Considerações de conteúdo visual](/wiki/Rules/Visual_Content_Considerations)
+Regulações de midia: [Diretrizes de uso de conteúdo](/wiki/Rules/Content_Usage_Guidelines) • [Processo de votação de conteúdo](/wiki/Rules/Content_Voting_Process) • [Conteúdo explícito](/wiki/Rules/Explicit_Content) • [Regras do conteúdo de músicas](/wiki/Rules/Song_Content_Rules) • [Considerações de conteúdo visual](/wiki/Rules/Visual_Content_Considerations)
 
 [Páginas legais](/wiki/Legal): [Termos de Seviço](/wiki/Legal/Terms) • [Privacidade](/wiki/Legal/Privacy) • [Direitos Autorais (DMCA)](/wiki/Legal/Copyright) • [Licensa de músicas](/wiki/Legal/Music_licensing)
 

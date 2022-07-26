@@ -7,7 +7,7 @@ tags:
 
 ![DMX 2 logo](img/logo.png)
 
-The **DeltaMax's Taiko Oni Overlord** (***DMX 2***) was a 1v1 double elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the DeltaMax's Tournaments.
+The **DeltaMax's Taiko Oni Overlord** (***DMX 2***) was a 1v1 double elimination osu!taiko tournament hosted by ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the DeltaMax's Tournaments.
 
 ## Tournament schedule
 
@@ -36,13 +36,13 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Mappool selector | ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353) |
-| Designer | ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) |
-| Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
-| Referee | ![][flag_PL] [-Sylvari](https://osu.ppy.sh/users/3493804), ![][flag_CA] [390](https://osu.ppy.sh/users/7622460), ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [KuraresaCupcake](https://osu.ppy.sh/users/6953271), ![][flag_NZ] [Lizzielots](https://osu.ppy.sh/users/6949522), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008), ![][flag_GR] [nikolomara](https://osu.ppy.sh/users/10077264), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_CA] [xenonius](https://osu.ppy.sh/users/7426260) |
-| Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Mappool selector | ::{ flag=HK }:: [tkdLolly](https://osu.ppy.sh/users/9035344), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=CA }:: [FlamingRok](https://osu.ppy.sh/users/2015353) |
+| Designer | ::{ flag=US }:: [Swovine](https://osu.ppy.sh/users/6666316) |
+| Streamer | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=CA }:: [FlamingRok](https://osu.ppy.sh/users/2015353), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
+| Referee | ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804), ::{ flag=CA }:: [390](https://osu.ppy.sh/users/7622460), ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=AU }:: [cactusthegreat](https://osu.ppy.sh/users/5592409), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=US }:: [KuraresaCupcake](https://osu.ppy.sh/users/6953271), ::{ flag=NZ }:: [Lizzielots](https://osu.ppy.sh/users/6949522), ::{ flag=DE }:: [lukili846](https://osu.ppy.sh/users/6278008), ::{ flag=GR }:: [nikolomara](https://osu.ppy.sh/users/10077264), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=US }:: [Raoul](https://osu.ppy.sh/users/9924405), ::{ flag=FR }:: [Spartan Plume](https://osu.ppy.sh/users/2553166), ::{ flag=CA }:: [xenonius](https://osu.ppy.sh/users/7426260) |
+| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -56,23 +56,23 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684), ![][flag_MX] [xtrem3x](https://osu.ppy.sh/users/136385), ![][flag_PT] [hi im costarino](https://osu.ppy.sh/users/9209430), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621), ![][flag_BR] [Mikudayo](https://osu.ppy.sh/users/5235718), ![][flag_AT] [animexamera](https://osu.ppy.sh/users/7511357), ![][flag_FR] [Yoshi-GH](https://osu.ppy.sh/users/3317042) |
-| High | ![][flag_BR] [Lazarento](https://osu.ppy.sh/users/3224958), ![][flag_PL] [Wolfgang](https://osu.ppy.sh/users/7184324), ![][flag_GB] [Braixen-](https://osu.ppy.sh/users/8628814), ![][flag_IT] [Kith190](https://osu.ppy.sh/users/7365988), ![][flag_FR] [\_Infected\_](https://osu.ppy.sh/users/7432095), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_GB] [Ali161102](https://osu.ppy.sh/users/7582420), ![][flag_US] [Konan](https://osu.ppy.sh/users/3252800) |
-| Low | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223), ![][flag_GB] [-Ryan](https://osu.ppy.sh/users/7822081), ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_AU] [LordAverage](https://osu.ppy.sh/users/3101354), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_IT] [VenomPlus](https://osu.ppy.sh/users/7722827) |
-| Unseeded | ![][flag_BR] [Omega Ranger](https://osu.ppy.sh/users/3234628), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_CL] [ArmoredReaper](https://osu.ppy.sh/users/6276709), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597) |
+| Top | ::{ flag=BR }:: [Foxerus](https://osu.ppy.sh/users/7479684), ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385), ::{ flag=PT }:: [hi im costarino](https://osu.ppy.sh/users/9209430), ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406), ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621), ::{ flag=BR }:: [Mikudayo](https://osu.ppy.sh/users/5235718), ::{ flag=AT }:: [animexamera](https://osu.ppy.sh/users/7511357), ::{ flag=FR }:: [Yoshi-GH](https://osu.ppy.sh/users/3317042) |
+| High | ::{ flag=BR }:: [Lazarento](https://osu.ppy.sh/users/3224958), ::{ flag=PL }:: [Wolfgang](https://osu.ppy.sh/users/7184324), ::{ flag=GB }:: [Braixen-](https://osu.ppy.sh/users/8628814), ::{ flag=IT }:: [Kith190](https://osu.ppy.sh/users/7365988), ::{ flag=FR }:: [\_Infected\_](https://osu.ppy.sh/users/7432095), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=GB }:: [Ali161102](https://osu.ppy.sh/users/7582420), ::{ flag=US }:: [Konan](https://osu.ppy.sh/users/3252800) |
+| Low | ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223), ::{ flag=GB }:: [-Ryan](https://osu.ppy.sh/users/7822081), ::{ flag=AU }:: [cactusthegreat](https://osu.ppy.sh/users/5592409), ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183), ::{ flag=AU }:: [LordAverage](https://osu.ppy.sh/users/3101354), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=IT }:: [VenomPlus](https://osu.ppy.sh/users/7722827) |
+| Unseeded | ::{ flag=BR }:: [Omega Ranger](https://osu.ppy.sh/users/3234628), ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774), ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=CL }:: [ArmoredReaper](https://osu.ppy.sh/users/6276709), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597) |
 
 ## Groups
 
 | Group | Top Seed | High Seed | Low Seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_AT] [animexamera](https://osu.ppy.sh/users/7511357) | ![][flag_IT] [Kith190](https://osu.ppy.sh/users/7365988) | ![][flag_AU] [cactusthegreat](https://osu.ppy.sh/users/5592409) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
-| **B** | ![][flag_BR] [Mikudayo](https://osu.ppy.sh/users/5235718) | ![][flag_US] [Konan](https://osu.ppy.sh/users/3252800) | ![][flag_IT] [VenomPlus](https://osu.ppy.sh/users/7722827) | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) |
-| **C** | ![][flag_FR] [Yoshi-GH](https://osu.ppy.sh/users/3317042) | ![][flag_FR] [\_Infected\_](https://osu.ppy.sh/users/7432095) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) | ![][flag_BR] [Omega Ranger](https://osu.ppy.sh/users/3234628) |
-| **D** | ![][flag_PT] [hi im costarino](https://osu.ppy.sh/users/9209430) | ![][flag_PL] [Wolfgang](https://osu.ppy.sh/users/7184324) | ![][flag_GB] [-Ryan](https://osu.ppy.sh/users/7822081) | ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977) |
-| **E** | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) | ![][flag_BR] [Lazarento](https://osu.ppy.sh/users/3224958) | ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183) | ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597) |
-| **F** | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) | ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) | ![][flag_AU] [LordAverage](https://osu.ppy.sh/users/3101354) | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| **G** | ![][flag_MX] [xtrem3x](https://osu.ppy.sh/users/136385) | ![][flag_GB] [Ali161102](https://osu.ppy.sh/users/7582420) | ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223) | ![][flag_CL] [ArmoredReaper](https://osu.ppy.sh/users/6276709) |
-| **H** | ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684) | ![][flag_GB] [Braixen-](https://osu.ppy.sh/users/8628814) | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628) | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270) |
+| **A** | ::{ flag=AT }:: [animexamera](https://osu.ppy.sh/users/7511357) | ::{ flag=IT }:: [Kith190](https://osu.ppy.sh/users/7365988) | ::{ flag=AU }:: [cactusthegreat](https://osu.ppy.sh/users/5592409) | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
+| **B** | ::{ flag=BR }:: [Mikudayo](https://osu.ppy.sh/users/5235718) | ::{ flag=US }:: [Konan](https://osu.ppy.sh/users/3252800) | ::{ flag=IT }:: [VenomPlus](https://osu.ppy.sh/users/7722827) | ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910) |
+| **C** | ::{ flag=FR }:: [Yoshi-GH](https://osu.ppy.sh/users/3317042) | ::{ flag=FR }:: [\_Infected\_](https://osu.ppy.sh/users/7432095) | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) | ::{ flag=BR }:: [Omega Ranger](https://osu.ppy.sh/users/3234628) |
+| **D** | ::{ flag=PT }:: [hi im costarino](https://osu.ppy.sh/users/9209430) | ::{ flag=PL }:: [Wolfgang](https://osu.ppy.sh/users/7184324) | ::{ flag=GB }:: [-Ryan](https://osu.ppy.sh/users/7822081) | ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977) |
+| **E** | ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621) | ::{ flag=BR }:: [Lazarento](https://osu.ppy.sh/users/3224958) | ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) | ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597) |
+| **F** | ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406) | ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172) | ::{ flag=AU }:: [LordAverage](https://osu.ppy.sh/users/3101354) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| **G** | ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | ::{ flag=GB }:: [Ali161102](https://osu.ppy.sh/users/7582420) | ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223) | ::{ flag=CL }:: [ArmoredReaper](https://osu.ppy.sh/users/6276709) |
+| **H** | ::{ flag=BR }:: [Foxerus](https://osu.ppy.sh/users/7479684) | ::{ flag=GB }:: [Braixen-](https://osu.ppy.sh/users/8628814) | ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628) | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270) |
 
 ## Podium
 
@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=BR }:: [Foxerus](https://osu.ppy.sh/users/7479684) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406) |
 
 ## Mappools
 
@@ -268,7 +268,7 @@ Sunday, 26 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Foxerus** ![][flag_BR] | **7** | 2 | ![][flag_MY] cdhsausageboy | [#1](https://osu.ppy.sh/community/matches/45434676) |
+| **Foxerus** ::{ flag=BR }:: | **7** | 2 | ::{ flag=MY }:: cdhsausageboy | [#1](https://osu.ppy.sh/community/matches/45434676) |
 
 ### Finals
 
@@ -276,19 +276,19 @@ Saturday, 18 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **cdhsausageboy** ![][flag_MY] | **6** | 1 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/45176380) |
+| **cdhsausageboy** ::{ flag=MY }:: | **6** | 1 | ::{ flag=BR }:: Kyoumo | [#1](https://osu.ppy.sh/community/matches/45176380) |
 
 Sunday, 19 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Foxerus** ![][flag_BR] | **7** | 0 | ![][flag_MX] Ammy | [#1](https://osu.ppy.sh/community/matches/45232731) |
+| **Foxerus** ::{ flag=BR }:: | **7** | 0 | ::{ flag=MX }:: Ammy | [#1](https://osu.ppy.sh/community/matches/45232731) |
 
 Monday, 20 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Ammy ![][flag_MX] | 1 | **7** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/45244189) |
+| Ammy ::{ flag=MX }:: | 1 | **7** | ::{ flag=MY }:: **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/45244189) |
 
 ### Semifinals
 
@@ -296,17 +296,17 @@ Saturday, 11 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Beat43210 ![][flag_AU] | 3 | **5** | ![][flag_BR] **Kyoumo** | [#1](https://osu.ppy.sh/community/matches/44956206) |
-| hi im costarino ![][flag_PT] | 0 | **5** | ![][flag_MX] **Ammy** | *win by default* |
-| Yoshi-GH ![][flag_FR] | 1 | **6** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44985615) |
+| Beat43210 ::{ flag=AU }:: | 3 | **5** | ::{ flag=BR }:: **Kyoumo** | [#1](https://osu.ppy.sh/community/matches/44956206) |
+| hi im costarino ::{ flag=PT }:: | 0 | **5** | ::{ flag=MX }:: **Ammy** | *win by default* |
+| Yoshi-GH ::{ flag=FR }:: | 1 | **6** | ::{ flag=BR }:: **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44985615) |
 
 Sunday, 12 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Braixen- ![][flag_GB] | 0 | **5** | ![][flag_MY] **cdhsausageboy** | *win by default* |
-| Yoshi-GH ![][flag_FR] | 4 | **6** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/45008950) |
-| hi im costarino ![][flag_PT] | 0 | **5** | ![][flag_BR] **Kyoumo** | *win by default* |
+| Braixen- ::{ flag=GB }:: | 0 | **5** | ::{ flag=MY }:: **cdhsausageboy** | *win by default* |
+| Yoshi-GH ::{ flag=FR }:: | 4 | **6** | ::{ flag=MY }:: **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/45008950) |
+| hi im costarino ::{ flag=PT }:: | 0 | **5** | ::{ flag=BR }:: **Kyoumo** | *win by default* |
 
 ### Quarterfinals
 
@@ -314,19 +314,19 @@ Saturday, 4 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Briesmas ![][flag_JP] | 0 | **5** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44750865) |
-| Kith190 ![][flag_IT] | 0 | **5** | ![][flag_FR] **Yoshi-GH** | *win by default* |
-| Mikudayo ![][flag_BR] | 0 | **5** | ![][flag_PT] **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44767415) |
-| **Ammy** ![][flag_MX] | **5** | 4 | ![][flag_GB] Braixen- | [#1](https://osu.ppy.sh/community/matches/44778173) |
+| Briesmas ::{ flag=JP }:: | 0 | **5** | ::{ flag=BR }:: **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44750865) |
+| Kith190 ::{ flag=IT }:: | 0 | **5** | ::{ flag=FR }:: **Yoshi-GH** | *win by default* |
+| Mikudayo ::{ flag=BR }:: | 0 | **5** | ::{ flag=PT }:: **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44767415) |
+| **Ammy** ::{ flag=MX }:: | **5** | 4 | ::{ flag=GB }:: Braixen- | [#1](https://osu.ppy.sh/community/matches/44778173) |
 
 Sunday, 5 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Briesmas ![][flag_JP] | 0 | **5** | ![][flag_AU] **Beat43210** | *win by default* |
-| Mikudayo ![][flag_BR] | 0 | **5** | ![][flag_MY] **cdhsausageboy** | *win by default* |
-| Kith190 ![][flag_IT] | 0 | **5** | ![][flag_BR] **Kyoumo** | *win by default* |
-| **Braixen-** ![][flag_GB] | **5** | 2 | ![][flag_PL] Wolfgang | [#1](https://osu.ppy.sh/community/matches/44807249) |
+| Briesmas ::{ flag=JP }:: | 0 | **5** | ::{ flag=AU }:: **Beat43210** | *win by default* |
+| Mikudayo ::{ flag=BR }:: | 0 | **5** | ::{ flag=MY }:: **cdhsausageboy** | *win by default* |
+| Kith190 ::{ flag=IT }:: | 0 | **5** | ::{ flag=BR }:: **Kyoumo** | *win by default* |
+| **Braixen-** ::{ flag=GB }:: | **5** | 2 | ::{ flag=PL }:: Wolfgang | [#1](https://osu.ppy.sh/community/matches/44807249) |
 
 ### Round of 16
 
@@ -334,28 +334,28 @@ Friday, 27 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kith190** ![][flag_IT] | **5** | 1 | ![][flag_EC] Gamelan4 | [#1](https://osu.ppy.sh/community/matches/44547136) |
+| **Kith190** ::{ flag=IT }:: | **5** | 1 | ::{ flag=EC }:: Gamelan4 | [#1](https://osu.ppy.sh/community/matches/44547136) |
 
 Saturday, 28 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Tsubasa2 ![][flag_AU] | 0 | **5** | ![][flag_MX] **Ammy** | [#1](https://osu.ppy.sh/community/matches/44561379) |
-| Beat43210 ![][flag_AU] | 0 | **5** | ![][flag_PT] **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44561379) |
-| **Yoshi-GH** ![][flag_FR] | **5** | 3 | ![][flag_PL] Wolfgang | [#1](https://osu.ppy.sh/community/matches/44565192) |
-| Kyoumo ![][flag_BR] | 2 | **5** | ![][flag_GB] **Braixen-** | [#1](https://osu.ppy.sh/community/matches/44567121) |
-| Ali161102 ![][flag_GB] | 2 | **5** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44574494) |
+| Tsubasa2 ::{ flag=AU }:: | 0 | **5** | ::{ flag=MX }:: **Ammy** | [#1](https://osu.ppy.sh/community/matches/44561379) |
+| Beat43210 ::{ flag=AU }:: | 0 | **5** | ::{ flag=PT }:: **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44561379) |
+| **Yoshi-GH** ::{ flag=FR }:: | **5** | 3 | ::{ flag=PL }:: Wolfgang | [#1](https://osu.ppy.sh/community/matches/44565192) |
+| Kyoumo ::{ flag=BR }:: | 2 | **5** | ::{ flag=GB }:: **Braixen-** | [#1](https://osu.ppy.sh/community/matches/44567121) |
+| Ali161102 ::{ flag=GB }:: | 2 | **5** | ::{ flag=BR }:: **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44574494) |
 
 Sunday, 29 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| cdhsausageboy ![][flag_MY] | 0 | **5** | ![][flag_JP] **Briesmas** | *win by default* |
-| cactusthegreat ![][flag_AU] | 1 | **5** | ![][flag_BR] **Mikudayo** | [#1](https://osu.ppy.sh/community/matches/44583107) |
-| Tsubasa2 ![][flag_AU] | 3 | **5** | ![][flag_BR] **Kyoumo** | [#1](https://osu.ppy.sh/community/matches/44584255) |
-| cactusthegreat ![][flag_AU] | 2 | **5** | ![][flag_AU] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/44585075) |
-| **cdhsausageboy** ![][flag_MY] | **5** | 0 | ![][flag_GB] Ali161102 | *win by default* |
-| Gamelan4 ![][flag_EC] | 0 | **5** | ![][flag_PL] **Wolfgang** | [#1](https://osu.ppy.sh/community/matches/44606388) |
+| cdhsausageboy ::{ flag=MY }:: | 0 | **5** | ::{ flag=JP }:: **Briesmas** | *win by default* |
+| cactusthegreat ::{ flag=AU }:: | 1 | **5** | ::{ flag=BR }:: **Mikudayo** | [#1](https://osu.ppy.sh/community/matches/44583107) |
+| Tsubasa2 ::{ flag=AU }:: | 3 | **5** | ::{ flag=BR }:: **Kyoumo** | [#1](https://osu.ppy.sh/community/matches/44584255) |
+| cactusthegreat ::{ flag=AU }:: | 2 | **5** | ::{ flag=AU }:: **Beat43210** | [#1](https://osu.ppy.sh/community/matches/44585075) |
+| **cdhsausageboy** ::{ flag=MY }:: | **5** | 0 | ::{ flag=GB }:: Ali161102 | *win by default* |
+| Gamelan4 ::{ flag=EC }:: | 0 | **5** | ::{ flag=PL }:: **Wolfgang** | [#1](https://osu.ppy.sh/community/matches/44606388) |
 
 ### Group stage
 
@@ -363,84 +363,84 @@ Friday, 13 July 2018:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| H | **Braixen-** ![][flag_JP] | **4** | 1 | ![][flag_HK] Akali393394 | [#1](https://osu.ppy.sh/community/matches/44127791) |
-| A | **cactusthegreat** ![][flag_AU] | **4** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/44128713) |
-| B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_BR] **Mikudayo** | *win by default* |
+| H | **Braixen-** ::{ flag=JP }:: | **4** | 1 | ::{ flag=HK }:: Akali393394 | [#1](https://osu.ppy.sh/community/matches/44127791) |
+| A | **cactusthegreat** ::{ flag=AU }:: | **4** | 1 | ::{ flag=MY }:: Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/44128713) |
+| B | VenomPlus ::{ flag=IT }:: | 0 | **4** | ::{ flag=BR }:: **Mikudayo** | *win by default* |
 
 Saturday, 14 July 2018:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| B | **Gamelan4** ![][flag_EC] | **4** | 0 | ![][flag_US] Konan | *win by default* |
-| B | **Mikudayo** ![][flag_BR] | **4** | 0 | ![][flag_US] Konan | *win by default* |
-| B | Gamelan4 ![][flag_EC] | 1 | **4** | ![][flag_BR] **Mikudayo** | [#1](https://osu.ppy.sh/community/matches/44151173) |
-| C | **Beat43210** ![][flag_AU] | **4** | 0 | ![][flag_BR] Omega Ranger | [#1](https://osu.ppy.sh/community/matches/44158417) |
-| C | Beat43210 ![][flag_AU] | 2 | **4** | ![][flag_FR] **Yoshi-GH** | [#1](https://osu.ppy.sh/community/matches/44159604) |
-| C | **Yoshi-GH** ![][flag_FR] | **4** | 1 | ![][flag_FR] \_Infected\_ | [#1](https://osu.ppy.sh/community/matches/44162665) |
-| G | xtrem3x ![][flag_MX] | 2 | **4** | ![][flag_GB] **Ali161102** | [#1](https://osu.ppy.sh/community/matches/44164295) |
-| D | CaptainEChan ![][flag_US] | 0 | **4** | ![][flag_PT] **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44167032) |
-| C | Omega Ranger ![][flag_BR] | 0 | **4** | ![][flag_FR] **Yoshi-GH** | [#1](https://osu.ppy.sh/community/matches/44171557) |
-| B | VenomPlus ![][flag_IT] | 0 | **4** | ![][flag_EC] **Gamelan4** | *win by default* |
+| B | **Gamelan4** ::{ flag=EC }:: | **4** | 0 | ::{ flag=US }:: Konan | *win by default* |
+| B | **Mikudayo** ::{ flag=BR }:: | **4** | 0 | ::{ flag=US }:: Konan | *win by default* |
+| B | Gamelan4 ::{ flag=EC }:: | 1 | **4** | ::{ flag=BR }:: **Mikudayo** | [#1](https://osu.ppy.sh/community/matches/44151173) |
+| C | **Beat43210** ::{ flag=AU }:: | **4** | 0 | ::{ flag=BR }:: Omega Ranger | [#1](https://osu.ppy.sh/community/matches/44158417) |
+| C | Beat43210 ::{ flag=AU }:: | 2 | **4** | ::{ flag=FR }:: **Yoshi-GH** | [#1](https://osu.ppy.sh/community/matches/44159604) |
+| C | **Yoshi-GH** ::{ flag=FR }:: | **4** | 1 | ::{ flag=FR }:: \_Infected\_ | [#1](https://osu.ppy.sh/community/matches/44162665) |
+| G | xtrem3x ::{ flag=MX }:: | 2 | **4** | ::{ flag=GB }:: **Ali161102** | [#1](https://osu.ppy.sh/community/matches/44164295) |
+| D | CaptainEChan ::{ flag=US }:: | 0 | **4** | ::{ flag=PT }:: **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44167032) |
+| C | Omega Ranger ::{ flag=BR }:: | 0 | **4** | ::{ flag=FR }:: **Yoshi-GH** | [#1](https://osu.ppy.sh/community/matches/44171557) |
+| B | VenomPlus ::{ flag=IT }:: | 0 | **4** | ::{ flag=EC }:: **Gamelan4** | *win by default* |
 
 Sunday, 15 July 2018:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F | **Briesmas** ![][flag_JP] | **4** | 1 | ![][flag_AU] LordAverage | [#1](https://osu.ppy.sh/community/matches/44178123) |
-| E | Tsubasa2 ![][flag_AU] | 0 | **4** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/44181157) |
-| A | **cactusthegreat** ![][flag_AU] | **4** | 0 | ![][flag_AT] animexamera | *win by default* |
-| C | \_Infected\_ ![][flag_FR] | 1 | **4** | ![][flag_AU] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/44188603) |
-| G | **Ali161102** ![][flag_GB] | **4** | 1 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/44187420) |
-| G | **Kyoumo** ![][flag_BR] | **4** | 0 | ![][flag_MX] xtrem3x | *win by default* |
-| A | Bedwyr Aorta ![][flag_MY] | 3 | **4** | ![][flag_AT] **animexamera** | [#1](https://osu.ppy.sh/community/matches/44192666) |
-| C | Omega Ranger ![][flag_BR] | 0 | **4** | ![][flag_FR] **\_Infected\_** | [#1](https://osu.ppy.sh/community/matches/44194111) |
-| G | ArmoredReaper ![][flag_CL] | 0 | **4** | ![][flag_GB] **Ali161102** | [#1](https://osu.ppy.sh/community/matches/44194103) |
-| B | Konan ![][flag_US] | 0 | **4** | ![][flag_IT] **VenomPlus** | *win by default* |
-| D | **-Ryan** ![][flag_GB] | **4** | 2 | ![][flag_US] CaptainEChan | [#1](https://osu.ppy.sh/community/matches/44198404) |
+| F | **Briesmas** ::{ flag=JP }:: | **4** | 1 | ::{ flag=AU }:: LordAverage | [#1](https://osu.ppy.sh/community/matches/44178123) |
+| E | Tsubasa2 ::{ flag=AU }:: | 0 | **4** | ::{ flag=MY }:: **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/44181157) |
+| A | **cactusthegreat** ::{ flag=AU }:: | **4** | 0 | ::{ flag=AT }:: animexamera | *win by default* |
+| C | \_Infected\_ ::{ flag=FR }:: | 1 | **4** | ::{ flag=AU }:: **Beat43210** | [#1](https://osu.ppy.sh/community/matches/44188603) |
+| G | **Ali161102** ::{ flag=GB }:: | **4** | 1 | ::{ flag=BR }:: Kyoumo | [#1](https://osu.ppy.sh/community/matches/44187420) |
+| G | **Kyoumo** ::{ flag=BR }:: | **4** | 0 | ::{ flag=MX }:: xtrem3x | *win by default* |
+| A | Bedwyr Aorta ::{ flag=MY }:: | 3 | **4** | ::{ flag=AT }:: **animexamera** | [#1](https://osu.ppy.sh/community/matches/44192666) |
+| C | Omega Ranger ::{ flag=BR }:: | 0 | **4** | ::{ flag=FR }:: **\_Infected\_** | [#1](https://osu.ppy.sh/community/matches/44194111) |
+| G | ArmoredReaper ::{ flag=CL }:: | 0 | **4** | ::{ flag=GB }:: **Ali161102** | [#1](https://osu.ppy.sh/community/matches/44194103) |
+| B | Konan ::{ flag=US }:: | 0 | **4** | ::{ flag=IT }:: **VenomPlus** | *win by default* |
+| D | **-Ryan** ::{ flag=GB }:: | **4** | 2 | ::{ flag=US }:: CaptainEChan | [#1](https://osu.ppy.sh/community/matches/44198404) |
 
 Monday, 16 July 2018:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F | **Ammy** ![][flag_MX] | **4** | 3 | ![][flag_JP] Briesmas | [#1](https://osu.ppy.sh/community/matches/44205539) |
-| F | Blobby3000 ![][flag_AU] | 0 | **4** | ![][flag_JP] Briesmas | *win by default* |
-| A | **Kith190** ![][flag_IT] | **4** | 3 | ![][flag_AU] cactusthegreat | [#1](https://osu.ppy.sh/community/matches/44215001) |
-| A | Bedwyr Aorta ![][flag_MY] | 0 | **4** | ![][flag_IT] Kith190 | [#1](https://osu.ppy.sh/community/matches/44217736) |
-| A | animexamera ![][flag_AT] | 0 | **4** | ![][flag_IT] Kith190 | *win by default* |
+| F | **Ammy** ::{ flag=MX }:: | **4** | 3 | ::{ flag=JP }:: Briesmas | [#1](https://osu.ppy.sh/community/matches/44205539) |
+| F | Blobby3000 ::{ flag=AU }:: | 0 | **4** | ::{ flag=JP }:: Briesmas | *win by default* |
+| A | **Kith190** ::{ flag=IT }:: | **4** | 3 | ::{ flag=AU }:: cactusthegreat | [#1](https://osu.ppy.sh/community/matches/44215001) |
+| A | Bedwyr Aorta ::{ flag=MY }:: | 0 | **4** | ::{ flag=IT }:: Kith190 | [#1](https://osu.ppy.sh/community/matches/44217736) |
+| A | animexamera ::{ flag=AT }:: | 0 | **4** | ::{ flag=IT }:: Kith190 | *win by default* |
 
 Friday, 20 July 2018:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| G | **Kyoumo** ![][flag_BR] | **4** | 1 | ![][flag_CL] ArmoredReaper | [#1](https://osu.ppy.sh/community/matches/44342730) |
+| G | **Kyoumo** ::{ flag=BR }:: | **4** | 1 | ::{ flag=CL }:: ArmoredReaper | [#1](https://osu.ppy.sh/community/matches/44342730) |
 
 Saturday, 21 July 2018:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F | Blobby3000 ![][flag_AU] | 0 | **4** | ![][flag_MX] **Ammy** | *win by default* |
-| F | LordAverage ![][flag_AU] | 1 | **4** | ![][flag_MX] **Ammy** | [#1](https://osu.ppy.sh/community/matches/44352950) |
-| E | Rukairi ![][flag_US] | 0 | **4** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/44355239) |
-| E | **Tsubasa2** ![][flag_AU] | **4** | 0 | ![][flag_US] Rukairi | [#1](https://osu.ppy.sh/community/matches/44354055) |
-| H | **Akali393394** ![][flag_HK] | **4** | 2 | ![][flag_BR] AnonX32 | [#1](https://osu.ppy.sh/community/matches/44362016), [#2](https://osu.ppy.sh/community/matches/44362964) |
-| H | AnonX32 ![][flag_BR] | 0 | **4** | ![][flag_GB] **Braixen-** | [#1](https://osu.ppy.sh/community/matches/44363387) |
-| E | Lazarento ![][flag_BR] | 0 | **4** | ![][flag_AU] **Tsubasa2** | *win by default* |
-| G | **ArmoredReaper** ![][flag_CL] | **4** | 0 | ![][flag_MX] **xtrem3x | *win by default* |
-| D | **-Ryan** ![][flag_GB] | 0 | **4** | ![][flag_PT] **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44364942) |
-| D | **Wolfgang** ![][flag_PL] | **4** | 1 | ![][flag_GB] **-Ryan** | [#1](https://osu.ppy.sh/community/matches/44366581) |
-| H | Foxerus ![][flag_BR] | 0 | **4** | ![][flag_GB] **Braixen-** | [#1](https://osu.ppy.sh/community/matches/44368082) |
-| D | **hi im costarino** ![][flag_PT] | **4** | 1 | ![][flag_PL] Wolfgang | [#1](https://osu.ppy.sh/community/matches/44368086) |
-| E | Rukairi ![][flag_US] | 0 | **4** | ![][flag_BR] **Lazarento** | [#1](https://osu.ppy.sh/community/matches/44374741) |
-| H | AnonX32 ![][flag_BR] | 0 | **4** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44375561) |
+| F | Blobby3000 ::{ flag=AU }:: | 0 | **4** | ::{ flag=MX }:: **Ammy** | *win by default* |
+| F | LordAverage ::{ flag=AU }:: | 1 | **4** | ::{ flag=MX }:: **Ammy** | [#1](https://osu.ppy.sh/community/matches/44352950) |
+| E | Rukairi ::{ flag=US }:: | 0 | **4** | ::{ flag=MY }:: **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/44355239) |
+| E | **Tsubasa2** ::{ flag=AU }:: | **4** | 0 | ::{ flag=US }:: Rukairi | [#1](https://osu.ppy.sh/community/matches/44354055) |
+| H | **Akali393394** ::{ flag=HK }:: | **4** | 2 | ::{ flag=BR }:: AnonX32 | [#1](https://osu.ppy.sh/community/matches/44362016), [#2](https://osu.ppy.sh/community/matches/44362964) |
+| H | AnonX32 ::{ flag=BR }:: | 0 | **4** | ::{ flag=GB }:: **Braixen-** | [#1](https://osu.ppy.sh/community/matches/44363387) |
+| E | Lazarento ::{ flag=BR }:: | 0 | **4** | ::{ flag=AU }:: **Tsubasa2** | *win by default* |
+| G | **ArmoredReaper** ::{ flag=CL }:: | **4** | 0 | ::{ flag=MX }:: **xtrem3x | *win by default* |
+| D | **-Ryan** ::{ flag=GB }:: | 0 | **4** | ::{ flag=PT }:: **hi im costarino** | [#1](https://osu.ppy.sh/community/matches/44364942) |
+| D | **Wolfgang** ::{ flag=PL }:: | **4** | 1 | ::{ flag=GB }:: **-Ryan** | [#1](https://osu.ppy.sh/community/matches/44366581) |
+| H | Foxerus ::{ flag=BR }:: | 0 | **4** | ::{ flag=GB }:: **Braixen-** | [#1](https://osu.ppy.sh/community/matches/44368082) |
+| D | **hi im costarino** ::{ flag=PT }:: | **4** | 1 | ::{ flag=PL }:: Wolfgang | [#1](https://osu.ppy.sh/community/matches/44368086) |
+| E | Rukairi ::{ flag=US }:: | 0 | **4** | ::{ flag=BR }:: **Lazarento** | [#1](https://osu.ppy.sh/community/matches/44374741) |
+| H | AnonX32 ::{ flag=BR }:: | 0 | **4** | ::{ flag=BR }:: **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44375561) |
 
 Sunday, 22 July 2018:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| E | **cdhsausageboy** ![][flag_MY] | **4** | 2 | ![][flag_BR] Lazarento | [#1](https://osu.ppy.sh/community/matches/44391216), [#2](https://osu.ppy.sh/community/matches/44391842) |
-| F | LordAverage ![][flag_AU] | 0 | **4** | ![][flag_AU] **Blobby3000** | [#1](https://osu.ppy.sh/community/matches/44385177) |
-| H | Akali393394 ![][flag_HK] | 0 | **4** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44393956) |
-| D | CaptainEChan ![][flag_US] | 0 | **4** | ![][flag_PL] **Wolfgang** | [#1](https://osu.ppy.sh/community/matches/44369563) |
+| E | **cdhsausageboy** ::{ flag=MY }:: | **4** | 2 | ::{ flag=BR }:: Lazarento | [#1](https://osu.ppy.sh/community/matches/44391216), [#2](https://osu.ppy.sh/community/matches/44391842) |
+| F | LordAverage ::{ flag=AU }:: | 0 | **4** | ::{ flag=AU }:: **Blobby3000** | [#1](https://osu.ppy.sh/community/matches/44385177) |
+| H | Akali393394 ::{ flag=HK }:: | 0 | **4** | ::{ flag=BR }:: **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44393956) |
+| D | CaptainEChan ::{ flag=US }:: | 0 | **4** | ::{ flag=PL }:: **Wolfgang** | [#1](https://osu.ppy.sh/community/matches/44369563) |
 
 ## Ruleset
 
@@ -494,24 +494,3 @@ Sunday, 22 July 2018:
 
 1. If a player were to disconnect in a non-warmup beatmap within the first 30 seconds, the beatmap will be replayed. However, this may only happen once in a match per player. Any repeated disconnects will count as a map forfeit.
 2. In the case of a tie, the beatmap will not be scored and may be picked again in the future, the picking order will remain the same. In the case of a Tiebreaker tie, the Tiebreaker will be replayed.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
