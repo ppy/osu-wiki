@@ -362,13 +362,13 @@ Dimanche, 7 Juillet 2019:
 | --: | :-: | :-: | :-- | :-- |
 | Chili ![][flag_CL] | 1 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53162196) |
 
-### Semi-finale
+### Demi-finale
 
 Samedi, 29 Juin 2019:
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| **États-Unis d'Amérique A** ![][flag_US] | **7** | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/52977372) |
+| **États-Unis A** ![][flag_US] | **7** | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/52977372) |
 | **Chili** ![][flag_CL] | **7** | 5 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/52987753) |
 | **Hong Kong** ![][flag_HK] | **7** | 1 | ![][flag_AR] Argentine | [#1](https://osu.ppy.sh/community/matches/52987594) |
 
@@ -386,7 +386,7 @@ Samedi, 22 Juin 2019:
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| Indonésie A ![][flag_ID] | 0 | **6** | ![][flag_US] **États-Unis d'Amérique A** | *win by default* |
+| Indonésie A ![][flag_ID] | 0 | **6** | ![][flag_US] **États-Unis A** | *win by default* |
 | France A ![][flag_FR] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/52814381) |
 | **Chine** ![][flag_CN] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/52818020) |
 | **Chili** ![][flag_CL] | **6** | 1 | ![][flag_SG] Singapour | [#1](https://osu.ppy.sh/community/matches/52820880) |
@@ -407,29 +407,29 @@ Samedi, 15 Juin 2019:
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Chine** ![][flag_CN] | **6** | 1 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/52630781) |
-| Taiwan ![][flag_TW] | 3 | **6** | ![][flag_PL] **Polande B** | [#1](https://osu.ppy.sh/community/matches/52636109) |
+| Taïwan ![][flag_TW] | 3 | **6** | ![][flag_PL] **Pologne B** | [#1](https://osu.ppy.sh/community/matches/52636109) |
 | **Indonésie A** ![][flag_ID] | **6** | 3 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/52637520) |
-| **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_BR] Brézil | [#1](https://osu.ppy.sh/community/matches/52637498) |
+| **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/community/matches/52637498) |
 | Mexique ![][flag_MX] | 1 | **6** | ![][flag_SG] **Singapour** | [#1](https://osu.ppy.sh/community/matches/52641017) |
 | Argentine ![][flag_AR] | 3 | **6** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/52644303) |
-| Polande A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52647239) |
-| **États-Unis d'Amérique A** ![][flag_US] | **6** | 0 | ![][flag_EC] Équateur | [#1](https://www.twitch.tv/videos/439630298) |
+| Pologne A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52647239) |
+| **États-Unis A** ![][flag_US] | **6** | 0 | ![][flag_EC] Équateur | [#1](https://www.twitch.tv/videos/439630298) |
 
 Dimanche, 16 Juin 2019:
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **6** | 2 | ![][flag_EC] Équateur | [#1](https://osu.ppy.sh/community/matches/52657012) |
-| Japon ![][flag_JP] | 2 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/52661179) |
-| Polande A ![][flag_PL] | 1 | **6** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52673843) |
-| **Argentine** ![][flag_AR] | **6** | 4 | ![][flag_BR] Brézil | [#1](https://osu.ppy.sh/community/matches/52676942) |
+| Japon ![][flag_JP] | 2 | **6** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/52661179) |
+| Pologne A ![][flag_PL] | 1 | **6** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52673843) |
+| **Argentine** ![][flag_AR] | **6** | 4 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/community/matches/52676942) |
 
 Samedi, 22 Juin 2019:
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Polande B | [#1](https://osu.ppy.sh/community/matches/52815977) |
-| **Japon** ![][flag_JP] | **6** | 0 | ![][flag_PL] Polande B | *win by default* |
+| **Taïwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Pologne B | [#1](https://osu.ppy.sh/community/matches/52815977) |
+| **Japon** ![][flag_JP] | **6** | 0 | ![][flag_PL] Pologne B | *victoire par défaut* |
 
 ### Phase de groupe
 
@@ -437,41 +437,41 @@ Samedi, 8 Juin 2019:
 
 | Groupe | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F3 | **États-Unis d'Amérique A** ![][flag_US] | **5** | 0 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/52446671) |
-| G5 | Perou ![][flag_PE] | 0 | **5** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52446788) |
-| C6 | Équateur ![][flag_EC] | 0 | **5** | ![][flag_JP] **Japon** | *win by default* |
-| G4 | **Indonésie B** ![][flag_ID] | **5** | 4 | ![][flag_PE] Perou | [#1](https://osu.ppy.sh/community/matches/52447584) |
-| G6 | Indonésie B ![][flag_ID] | 1 | **5** | ![][flag_BR] **Brézil** | [#1](https://osu.ppy.sh/community/matches/52476732 ) |
+| F3 | **États-Unis A** ![][flag_US] | **5** | 0 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/52446671) |
+| G5 | Pérou ![][flag_PE] | 0 | **5** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52446788) |
+| C6 | Équateur ![][flag_EC] | 0 | **5** | ![][flag_JP] **Japon** | *victoire par défaut* |
+| G4 | **Indonésie B** ![][flag_ID] | **5** | 4 | ![][flag_PE] Pérou | [#1](https://osu.ppy.sh/community/matches/52447584) |
+| G6 | Indonésie B ![][flag_ID] | 1 | **5** | ![][flag_BR] **Brésil** | [#1](https://osu.ppy.sh/community/matches/52476732 ) |
 | D2 | Singapour ![][flag_SG] | 2 | **5** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/52453695) |
-| A3 | Taiwan ![][flag_TW] | 2 | **5** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/52457632) |
-| B3 | Polande A ![][flag_PL] | 0 | **5** | ![][flag_PH] **Philippines** | *win by default* |
-| A2 | Finlande ![][flag_FI] | 1 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/52453686) |
+| A3 | Taïwan ![][flag_TW] | 2 | **5** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/52457632) |
+| B3 | Pologne A ![][flag_PL] | 0 | **5** | ![][flag_PH] **Philippines** | *victoire par défaut* |
+| A2 | Finlande ![][flag_FI] | 1 | **5** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/52453686) |
 | C5 | France B ![][flag_FR] | 0 | **5** | ![][flag_AU] **Australie** | [#1](https://osu.ppy.sh/community/matches/52453715) |
 | B1 | **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_CH] Suisse | [#1](https://osu.ppy.sh/community/matches/52454819) |
 | D3 | Corée du Sud ![][flag_KR] | 0 | **5** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/52454997) |
 | C2 | France B ![][flag_FR] | 0 | **5** | ![][flag_JP] **Japon** | [#1](https://osu.ppy.sh/community/matches/52455708) |
-| H2 | Irlande ![][flag_IE] | 0 | **5** | ![][flag_HK] **Hong Kong** | *win by default* |
+| H2 | Irlande ![][flag_IE] | 0 | **5** | ![][flag_HK] **Hong Kong** | *victoire par défaut* |
 | A1 | **Indonésie A** ![][flag_ID] | **5** | 1 | ![][flag_DE] Allemagne | [#1](https://osu.ppy.sh/community/matches/52454774) |
-| H3 | Hong Kong ![][flag_HK] | 3 | **5** | ![][flag_PL] **Polande B** | [#1](https://osu.ppy.sh/community/matches/52457430) |
+| H3 | Hong Kong ![][flag_HK] | 3 | **5** | ![][flag_PL] **Pologne B** | [#1](https://osu.ppy.sh/community/matches/52457430) |
 | D1 | **France A** ![][flag_FR] | **5** | 2 | ![][flag_NL] Pays-Bas | [#1](https://osu.ppy.sh/community/matches/52459107) |
-| B2 | Grèce ![][flag_GR] | 0 | **5** | ![][flag_PL] **Polande A** | [#1](https://osu.ppy.sh/community/matches/52460776) |
-| H1 | **Polande B** ![][flag_PL] | **5** | 0 | ![][flag_CO] Colombie | *win by default* |
+| B2 | Grèce ![][flag_GR] | 0 | **5** | ![][flag_PL] **Pologne A** | [#1](https://osu.ppy.sh/community/matches/52460776) |
+| H1 | **Pologne B** ![][flag_PL] | **5** | 0 | ![][flag_CO] Colombie | *victoire par défaut* |
 | E4 | **Argentine** ![][flag_AR] | **5** | 4 | ![][flag_GB] Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/52492419) |
-| F2 | Danemark ![][flag_DK] | 0 | **5** | ![][flag_US] **États-Unis d'Amérique A** | [#1](https://osu.ppy.sh/community/matches/52468990) |
+| F2 | Danemark ![][flag_DK] | 0 | **5** | ![][flag_US] **États-Unis A** | [#1](https://osu.ppy.sh/community/matches/52468990) |
 | E1 | Mexique ![][flag_MX] | 0 | **5** | ![][flag_AR] **Argentine** | [#1](https://osu.ppy.sh/community/matches/52501005) |
-| E3 | États-Unis d'Amérique B ![][flag_US] | 2 | **5** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52460665) |
-| E6 | **Argentine** ![][flag_AR] | **5** | 1 | ![][flag_US] États-Unis d'Amérique B | [#1](https://osu.ppy.sh/community/matches/52498726) |
+| E3 | États-Unis B ![][flag_US] | 2 | **5** | ![][flag_MX] **Mexique** | [#1](https://osu.ppy.sh/community/matches/52460665) |
+| E6 | **Argentine** ![][flag_AR] | **5** | 1 | ![][flag_US] États-Unis B | [#1](https://osu.ppy.sh/community/matches/52498726) |
 
 Dimanche, 9 Juin 2019:
 
 | Groupe | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F6 | Canada ![][flag_CA] | 3 | **5** | ![][flag_US] **États-Unis d'Amérique A** | [#1](https://osu.ppy.sh/community/matches/52474938) |
-| G3 | Brézil ![][flag_BR] | 2 | **5** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52475794) |
+| F6 | Canada ![][flag_CA] | 3 | **5** | ![][flag_US] **États-Unis A** | [#1](https://osu.ppy.sh/community/matches/52474938) |
+| G3 | Brésil ![][flag_BR] | 2 | **5** | ![][flag_CL] **Chili** | [#1](https://osu.ppy.sh/community/matches/52475794) |
 | C1 | Australie ![][flag_AU] | 4 | **5** | ![][flag_EC] **Équateur** | [#1](https://osu.ppy.sh/community/matches/52474929) |
-| G2 | Perou ![][flag_PE] | 0 | **5** | ![][flag_BR] **Brézil** | [#1](https://osu.ppy.sh/community/matches/52474822) |
+| G2 | Pérou ![][flag_PE] | 0 | **5** | ![][flag_BR] **Brésil** | [#1](https://osu.ppy.sh/community/matches/52474822) |
 | F1 | **Chine** ![][flag_CN] | **5** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/52477719) |
-| H6 | Colombie ![][flag_CO] | 0 | **5** | ![][flag_HK] **Hong Kong** | *win by default* |
+| H6 | Colombie ![][flag_CO] | 0 | **5** | ![][flag_HK] **Hong Kong** | *victoire par défaut* |
 | G1 | **Chili** ![][flag_CL] | **5** | 0 | ![][flag_ID] Indonésie B | [#1](https://osu.ppy.sh/community/matches/52478417) |
 | C3 | **Japon** ![][flag_JP] | **5** | 3 | ![][flag_AU] Australie | [#1](https://osu.ppy.sh/community/matches/52481439) |
 | D4 | Pays-Bas ![][flag_NL] | 1 | **5** | ![][flag_SG] **Singapour** | [#1](https://osu.ppy.sh/community/matches/52482358) |
