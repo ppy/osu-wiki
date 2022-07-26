@@ -354,7 +354,7 @@ Samedi, 6 Juillet 2019:
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **7** | 2 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/53143747) |
-| **États-Unis d'Amérique A** ![][flag_US] | **7** | 3 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/53159685) |
+| **États-Unis A** ![][flag_US] | **7** | 3 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/53159685) |
 
 Dimanche, 7 Juillet 2019:
 
