@@ -43,7 +43,7 @@ Note: The schedules are applied on both days.
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | osu!merch, 4 months of osu!supporter |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | osu!merch, 2 months of osu!supporter |
 
-![](img/oPQS_Badge.png "osu! Philippines Quickfire Showdown (Day 1 and Day 2) Winner Badge")
+![](img/badge.png "osu! Philippines Quickfire Showdown (Day 1 and Day 2) Winner Badge")
 
 ## Organisation
 
