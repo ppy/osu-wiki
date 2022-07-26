@@ -33,11 +33,11 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 
 | Job | Person(s) |
 | :-- | :-- |
-| Direction | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
-| Séléction des beatmaps | ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) // ![][flag_CL] [Agka](https://osu.ppy.sh/users/64811) |
-| Retransmission des matchs | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Commentaires | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) // ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_IT] [Roxas](https://osu.ppy.sh/users/1041833) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) // ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
-| Statistiques | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| Direction | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) // ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) // ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) |
+| Séléction des beatmaps | ::{ flag=RU }:: [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) // ::{ flag=CL }:: [Agka](https://osu.ppy.sh/users/64811) |
+| Retransmission des matchs | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) // ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) // ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
+| Commentaires | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) // ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078) // ::{ flag=IT }:: [Roxas](https://osu.ppy.sh/users/1041833) // ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) // ::{ flag=RU }:: [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
+| Statistiques | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links
 
@@ -138,13 +138,3 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 4. Chaque phase à élimination direct sera organisé soit le Samedi soit le Dimanche selon le mode (se référer au calendrier).
 5. La programmation sera fait par la direction du tournoi. Les programmes seront diffusés le Dimanche avant le premier match de le phase courante. (par exemple le 3 Août pour les phases de poules(4K)). Les organisateurs du tournoi essayeront de programmer les matchs en fonction des fuseaux horaires des participants.
 6. Les capitaines sont tenus responsables de la disponibilité de leur équipe à l'heure du match. Le choix par la direction de permettre à un capitaine de recruter 3 autres joueurs dans son équipe plutôt que 1 a été justement fait en ce sens pour lui permettre une gestion plus souple de la disponibilité de son équipe. Si un capitaine ne peut présenter une équipe de 2 joueurs à l'heure du match (en plus du délai maximal accordé), son équipe sera considérée comme ayant déclaré forfait.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
-[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

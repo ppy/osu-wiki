@@ -41,40 +41,40 @@ TGEX 2022 was run by various osu! community members at UCSD or visiting for the 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Mappooler | ![][flag_US] [Ahntaea](https://osu.ppy.sh/users/4941097), ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876), ![][flag_CN] [friidryce](https://osu.ppy.sh/users/8271310), ![][flag_US] [Harrharrqi](https://osu.ppy.sh/users/2744592), ![][flag_US] [jms8720](https://osu.ppy.sh/users/2570828), ![][flag_US] [philisophic](https://osu.ppy.sh/users/7040672), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [Yattaze](https://osu.ppy.sh/users/13870255) |
-| Commentator | ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [Yattaze](https://osu.ppy.sh/users/13870255) |
-| Designer | ![][flag_US] [Potor10](https://osu.ppy.sh/users/8029687) |
-| Referee | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876), ![][flag_CN] [friidryce](https://osu.ppy.sh/users/8271310), ![][flag_US] [philisophic](https://osu.ppy.sh/users/7040672), ![][flag_US] [jms8720](https://osu.ppy.sh/users/2570828) |
+| Mappooler | ::{ flag=US }:: [Ahntaea](https://osu.ppy.sh/users/4941097), ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876), ::{ flag=CN }:: [friidryce](https://osu.ppy.sh/users/8271310), ::{ flag=US }:: [Harrharrqi](https://osu.ppy.sh/users/2744592), ::{ flag=US }:: [jms8720](https://osu.ppy.sh/users/2570828), ::{ flag=US }:: [philisophic](https://osu.ppy.sh/users/7040672), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659), ::{ flag=US }:: [Yattaze](https://osu.ppy.sh/users/13870255) |
+| Commentator | ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659), ::{ flag=US }:: [Yattaze](https://osu.ppy.sh/users/13870255) |
+| Designer | ::{ flag=US }:: [Potor10](https://osu.ppy.sh/users/8029687) |
+| Referee | ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876), ::{ flag=CN }:: [friidryce](https://osu.ppy.sh/users/8271310), ::{ flag=US }:: [philisophic](https://osu.ppy.sh/users/7040672), ::{ flag=US }:: [jms8720](https://osu.ppy.sh/users/2570828) |
 
 ## Podium and prizes
 
 | Placing | Player | Prizes |
 | :-: | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Chzaron](https://osu.ppy.sh/users/11607790) | 6 months of osu!supporter, Vulkan TKL keyboard |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) | 3 months of osu!supporter, Aorus M4 mouse |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [-ether-](https://osu.ppy.sh/users/6131258) | 1 month of osu!supporter, MSI Grabbag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [Chzaron](https://osu.ppy.sh/users/11607790) | 6 months of osu!supporter, Vulkan TKL keyboard |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459) | 3 months of osu!supporter, Aorus M4 mouse |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [-ether-](https://osu.ppy.sh/users/6131258) | 1 month of osu!supporter, MSI Grabbag |
 
 ## Participants
 
 ![Group photo of attendees in Warren College Room](img/people.jpg "Most of the attendees of TGEX 2022 stayed until after the tournament concluded")
 
-- ![][flag_US] [-ether-](https://osu.ppy.sh/users/6131258)
-- ![][flag_US] [\[KOR\] Sora](https://osu.ppy.sh/users/11985468)
-- ![][flag_US] [atlae99](https://osu.ppy.sh/users/29787503)
-- ![][flag_US] [Chzaron](https://osu.ppy.sh/users/11607790)
-- ![][flag_US] [crikhard](https://osu.ppy.sh/users/7023000)
-- ![][flag_US] [Daprin](https://osu.ppy.sh/users/10961983)
-- ![][flag_US] [dyndenial](https://osu.ppy.sh/users/16779673)
-- ![][flag_US] [firenoo](https://osu.ppy.sh/users/10815041)
-- ![][flag_US] [freddiiieeee](https://osu.ppy.sh/users/7112839)
-- ![][flag_US] [jazzberry](https://osu.ppy.sh/users/11055678)
-- ![][flag_US] [jms8719](https://osu.ppy.sh/users/2042565)
-- ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459)
-- ![][flag_US] [leeeroy](https://osu.ppy.sh/users/12620812)
-- ![][flag_US] [potato48](https://osu.ppy.sh/users/10724175)
-- ![][flag_US] [SeaAE](https://osu.ppy.sh/users/12354364)
-- ![][flag_US] [Strider](https://osu.ppy.sh/users/4553852)
-- ![][flag_US] [Vysion](https://osu.ppy.sh/users/11594132)
+- ::{ flag=US }:: [-ether-](https://osu.ppy.sh/users/6131258)
+- ::{ flag=US }:: [\[KOR\] Sora](https://osu.ppy.sh/users/11985468)
+- ::{ flag=US }:: [atlae99](https://osu.ppy.sh/users/29787503)
+- ::{ flag=US }:: [Chzaron](https://osu.ppy.sh/users/11607790)
+- ::{ flag=US }:: [crikhard](https://osu.ppy.sh/users/7023000)
+- ::{ flag=US }:: [Daprin](https://osu.ppy.sh/users/10961983)
+- ::{ flag=US }:: [dyndenial](https://osu.ppy.sh/users/16779673)
+- ::{ flag=US }:: [firenoo](https://osu.ppy.sh/users/10815041)
+- ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839)
+- ::{ flag=US }:: [jazzberry](https://osu.ppy.sh/users/11055678)
+- ::{ flag=US }:: [jms8719](https://osu.ppy.sh/users/2042565)
+- ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459)
+- ::{ flag=US }:: [leeeroy](https://osu.ppy.sh/users/12620812)
+- ::{ flag=US }:: [potato48](https://osu.ppy.sh/users/10724175)
+- ::{ flag=US }:: [SeaAE](https://osu.ppy.sh/users/12354364)
+- ::{ flag=US }:: [Strider](https://osu.ppy.sh/users/4553852)
+- ::{ flag=US }:: [Vysion](https://osu.ppy.sh/users/11594132)
 
 ## Mappools
 
@@ -200,7 +200,7 @@ TGEX 2022 was run by various osu! community members at UCSD or visiting for the 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[Chzaron](https://osu.ppy.sh/users/11607790)** ![][flag_US] | **6** | 1 | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) | [#1](https://osu.ppy.sh/community/matches/101038923) |
+| **[Chzaron](https://osu.ppy.sh/users/11607790)** ::{ flag=US }:: | **6** | 1 | ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459) | [#1](https://osu.ppy.sh/community/matches/101038923) |
 
 ### Finals
 
@@ -208,13 +208,13 @@ TGEX 2022 was run by various osu! community members at UCSD or visiting for the 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[Chzaron](https://osu.ppy.sh/users/11607790)** ![][flag_US] | **5** | 2 | ![][flag_US] [-ether-](https://osu.ppy.sh/users/6131258) | [#1](https://osu.ppy.sh/community/matches/101037695) |
+| **[Chzaron](https://osu.ppy.sh/users/11607790)** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: [-ether-](https://osu.ppy.sh/users/6131258) | [#1](https://osu.ppy.sh/community/matches/101037695) |
 
 #### Losers bracket
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [-ether-](https://osu.ppy.sh/users/6131258) ![][flag_US] | -1 | **0** | ![][flag_US] **[Kenny](https://osu.ppy.sh/users/1225459)** | *forfeit* |
+| [-ether-](https://osu.ppy.sh/users/6131258) ::{ flag=US }:: | -1 | **0** | ::{ flag=US }:: **[Kenny](https://osu.ppy.sh/users/1225459)** | *forfeit* |
 
 ### Round 4 and Losers Round 5–6
 
@@ -222,16 +222,16 @@ TGEX 2022 was run by various osu! community members at UCSD or visiting for the 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[Chzaron](https://osu.ppy.sh/users/11607790)** ![][flag_US] | **4** | 0 | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) | [#1](https://osu.ppy.sh/community/matches/101035941) |
-| [Daprin](https://osu.ppy.sh/users/10961983) ![][flag_US] | 3 | **4** | ![][flag_US] **[-ether-](https://osu.ppy.sh/users/6131258)** | [#1](https://osu.ppy.sh/community/matches/101035950) |
+| **[Chzaron](https://osu.ppy.sh/users/11607790)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459) | [#1](https://osu.ppy.sh/community/matches/101035941) |
+| [Daprin](https://osu.ppy.sh/users/10961983) ::{ flag=US }:: | 3 | **4** | ::{ flag=US }:: **[-ether-](https://osu.ppy.sh/users/6131258)** | [#1](https://osu.ppy.sh/community/matches/101035950) |
 
 #### Losers bracket
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[Daprin](https://osu.ppy.sh/users/10961983)** ![][flag_US] | **5** | 3 | ![][flag_US] [potato48](https://osu.ppy.sh/users/10724175) | [#1](https://osu.ppy.sh/community/matches/101036960) |
-| **[Kenny](https://osu.ppy.sh/users/1225459)** ![][flag_US] | **5** | 3 | ![][flag_US] [Strider](https://osu.ppy.sh/users/4553852) | [#1](https://osu.ppy.sh/community/matches/101036948) |
-| [Daprin](https://osu.ppy.sh/users/10961983) ![][flag_US] | 4 | **5** | ![][flag_US] **[Kenny](https://osu.ppy.sh/users/1225459)** | [#1](https://osu.ppy.sh/community/matches/101037708) |
+| **[Daprin](https://osu.ppy.sh/users/10961983)** ::{ flag=US }:: | **5** | 3 | ::{ flag=US }:: [potato48](https://osu.ppy.sh/users/10724175) | [#1](https://osu.ppy.sh/community/matches/101036960) |
+| **[Kenny](https://osu.ppy.sh/users/1225459)** ::{ flag=US }:: | **5** | 3 | ::{ flag=US }:: [Strider](https://osu.ppy.sh/users/4553852) | [#1](https://osu.ppy.sh/community/matches/101036948) |
+| [Daprin](https://osu.ppy.sh/users/10961983) ::{ flag=US }:: | 4 | **5** | ::{ flag=US }:: **[Kenny](https://osu.ppy.sh/users/1225459)** | [#1](https://osu.ppy.sh/community/matches/101037708) |
 
 ### Round 3 and Losers Round 3–4
 
@@ -239,21 +239,21 @@ TGEX 2022 was run by various osu! community members at UCSD or visiting for the 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[Chzaron](https://osu.ppy.sh/users/11607790)** ![][flag_US] | **4** | 0 | ![][flag_US] [potato48](https://osu.ppy.sh/users/10724175) | [#1](https://osu.ppy.sh/community/matches/101033416) |
-| [\[KOR\] Sora](https://osu.ppy.sh/users/11985468) ![][flag_US] | 1 | **4** | ![][flag_US] **[Kenny](https://osu.ppy.sh/users/1225459)** | [#1](https://osu.ppy.sh/community/matches/101033422) |
-| **[Daprin](https://osu.ppy.sh/users/10961983)** ![][flag_US] | **4** | 2 | ![][flag_US] [Strider](https://osu.ppy.sh/users/4553852) | [#1](https://osu.ppy.sh/community/matches/101033425) |
-| [crikhard](https://osu.ppy.sh/users/7023000) ![][flag_US] | 0 | **4** | ![][flag_US] **[-ether-](https://osu.ppy.sh/users/6131258)** | [#1](https://osu.ppy.sh/community/matches/101033431) |
+| **[Chzaron](https://osu.ppy.sh/users/11607790)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [potato48](https://osu.ppy.sh/users/10724175) | [#1](https://osu.ppy.sh/community/matches/101033416) |
+| [\[KOR\] Sora](https://osu.ppy.sh/users/11985468) ::{ flag=US }:: | 1 | **4** | ::{ flag=US }:: **[Kenny](https://osu.ppy.sh/users/1225459)** | [#1](https://osu.ppy.sh/community/matches/101033422) |
+| **[Daprin](https://osu.ppy.sh/users/10961983)** ::{ flag=US }:: | **4** | 2 | ::{ flag=US }:: [Strider](https://osu.ppy.sh/users/4553852) | [#1](https://osu.ppy.sh/community/matches/101033425) |
+| [crikhard](https://osu.ppy.sh/users/7023000) ::{ flag=US }:: | 0 | **4** | ::{ flag=US }:: **[-ether-](https://osu.ppy.sh/users/6131258)** | [#1](https://osu.ppy.sh/community/matches/101033431) |
 
 #### Losers bracket
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [\[KOR\] Sora](https://osu.ppy.sh/users/11985468) ![][flag_US] | 3 | **4** | ![][flag_US] **[leeeroy](https://osu.ppy.sh/users/12620812)** | [#1](https://osu.ppy.sh/community/matches/101035038) |
-| **[potato48](https://osu.ppy.sh/users/10724175)** ![][flag_US] | **4** | 0 | ![][flag_US] [Vysion](https://osu.ppy.sh/users/11594132) | [#1](https://osu.ppy.sh/community/matches/101035367) |
-| **[crikhard](https://osu.ppy.sh/users/7023000)** ![][flag_US] | **4** | 1 | ![][flag_US] [jazzberry](https://osu.ppy.sh/users/11055678) | [#1](https://osu.ppy.sh/community/matches/101034821) |
-| **[Strider](https://osu.ppy.sh/users/4553852)** ![][flag_US] | **4** | 0 | ![][flag_US] [dyndenial](https://osu.ppy.sh/users/16779673) | [#1](https://osu.ppy.sh/community/matches/101035380) |
-| [leeeroy](https://osu.ppy.sh/users/12620812) ![][flag_US] | 3 | **4** | ![][flag_US] **[potato48](https://osu.ppy.sh/users/10724175)** | [#1](https://osu.ppy.sh/community/matches/101036224) |
-| [crikhard](https://osu.ppy.sh/users/7023000) ![][flag_US] | 1 | **4** | ![][flag_US] **[Strider](https://osu.ppy.sh/users/4553852)** | [#1](https://osu.ppy.sh/community/matches/101036226) |
+| [\[KOR\] Sora](https://osu.ppy.sh/users/11985468) ::{ flag=US }:: | 3 | **4** | ::{ flag=US }:: **[leeeroy](https://osu.ppy.sh/users/12620812)** | [#1](https://osu.ppy.sh/community/matches/101035038) |
+| **[potato48](https://osu.ppy.sh/users/10724175)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [Vysion](https://osu.ppy.sh/users/11594132) | [#1](https://osu.ppy.sh/community/matches/101035367) |
+| **[crikhard](https://osu.ppy.sh/users/7023000)** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: [jazzberry](https://osu.ppy.sh/users/11055678) | [#1](https://osu.ppy.sh/community/matches/101034821) |
+| **[Strider](https://osu.ppy.sh/users/4553852)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [dyndenial](https://osu.ppy.sh/users/16779673) | [#1](https://osu.ppy.sh/community/matches/101035380) |
+| [leeeroy](https://osu.ppy.sh/users/12620812) ::{ flag=US }:: | 3 | **4** | ::{ flag=US }:: **[potato48](https://osu.ppy.sh/users/10724175)** | [#1](https://osu.ppy.sh/community/matches/101036224) |
+| [crikhard](https://osu.ppy.sh/users/7023000) ::{ flag=US }:: | 1 | **4** | ::{ flag=US }:: **[Strider](https://osu.ppy.sh/users/4553852)** | [#1](https://osu.ppy.sh/community/matches/101036226) |
 
 ### Round 2
 
@@ -261,23 +261,23 @@ TGEX 2022 was run by various osu! community members at UCSD or visiting for the 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[Chzaron](https://osu.ppy.sh/users/11607790)** ![][flag_US] | **4** | 0 | ![][flag_US] [firenoo](https://osu.ppy.sh/users/10815041) | [#1](https://osu.ppy.sh/community/matches/101031724) |
-| **[potato48](https://osu.ppy.sh/users/10724175)** ![][flag_US] | **4** | 1 | ![][flag_US] [dyndenial](https://osu.ppy.sh/users/16779673) | [#1](https://osu.ppy.sh/community/matches/101032594) |
-| **[\[KOR\] Sora](https://osu.ppy.sh/users/11985468)** ![][flag_US] | **4** | 0 | ![][flag_US] [jazzberry](https://osu.ppy.sh/users/11055678) | [#1](https://osu.ppy.sh/community/matches/101031620) |
-| **[Kenny](https://osu.ppy.sh/users/1225459)** ![][flag_US] | **4** | 0 | ![][flag_US] [SeaAE](https://osu.ppy.sh/users/12354364) | [#1](https://osu.ppy.sh/community/matches/101031633) |
-| **[Daprin](https://osu.ppy.sh/users/10961983)** ![][flag_US] | **4** | 0 | ![][flag_US] [Vysion](https://osu.ppy.sh/users/11594132) | [#1](https://osu.ppy.sh/community/matches/101031639) |
-| **[Strider](https://osu.ppy.sh/users/4553852)** ![][flag_US] | **4** | 0 | ![][flag_US] [jms8719](https://osu.ppy.sh/users/2042565) | [#1](https://osu.ppy.sh/community/matches/101031762) |
-| **[crikhard](https://osu.ppy.sh/users/7023000)** ![][flag_US] | **4** | 0 | ![][flag_US] [freddiiieeee](https://osu.ppy.sh/users/7112839) | [#1](https://osu.ppy.sh/community/matches/101031744) |
-| **[-ether-](https://osu.ppy.sh/users/6131258)** ![][flag_US] | **4** | 3 | ![][flag_US] [leeeroy](https://osu.ppy.sh/users/12620812) | [#1](https://osu.ppy.sh/community/matches/101031752) |
+| **[Chzaron](https://osu.ppy.sh/users/11607790)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [firenoo](https://osu.ppy.sh/users/10815041) | [#1](https://osu.ppy.sh/community/matches/101031724) |
+| **[potato48](https://osu.ppy.sh/users/10724175)** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: [dyndenial](https://osu.ppy.sh/users/16779673) | [#1](https://osu.ppy.sh/community/matches/101032594) |
+| **[\[KOR\] Sora](https://osu.ppy.sh/users/11985468)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [jazzberry](https://osu.ppy.sh/users/11055678) | [#1](https://osu.ppy.sh/community/matches/101031620) |
+| **[Kenny](https://osu.ppy.sh/users/1225459)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [SeaAE](https://osu.ppy.sh/users/12354364) | [#1](https://osu.ppy.sh/community/matches/101031633) |
+| **[Daprin](https://osu.ppy.sh/users/10961983)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [Vysion](https://osu.ppy.sh/users/11594132) | [#1](https://osu.ppy.sh/community/matches/101031639) |
+| **[Strider](https://osu.ppy.sh/users/4553852)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [jms8719](https://osu.ppy.sh/users/2042565) | [#1](https://osu.ppy.sh/community/matches/101031762) |
+| **[crikhard](https://osu.ppy.sh/users/7023000)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839) | [#1](https://osu.ppy.sh/community/matches/101031744) |
+| **[-ether-](https://osu.ppy.sh/users/6131258)** ::{ flag=US }:: | **4** | 3 | ::{ flag=US }:: [leeeroy](https://osu.ppy.sh/users/12620812) | [#1](https://osu.ppy.sh/community/matches/101031752) |
 
 #### Losers bracket
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [freddiiieeee](https://osu.ppy.sh/users/7112839) ![][flag_US] | 0 | **4** | ![][flag_US] **[leeeroy](https://osu.ppy.sh/users/12620812)** | [#1](https://osu.ppy.sh/community/matches/101033421) |
-| [jms8719](https://osu.ppy.sh/users/2042565) ![][flag_US] | 3 | **4** | ![][flag_US] **[Vysion](https://osu.ppy.sh/users/11594132)** | [#1](https://osu.ppy.sh/community/matches/101033430) |
-| [SeaAE](https://osu.ppy.sh/users/12354364) ![][flag_US] | -1 | **0** | ![][flag_US] **[jazzberry](https://osu.ppy.sh/users/11055678)** | *forfeit* |
-| **[dyndenial](https://osu.ppy.sh/users/16779673)** ![][flag_US] | **4** | 0 | ![][flag_US] [firenoo](https://osu.ppy.sh/users/10815041) | [#1](https://osu.ppy.sh/community/matches/101033452) |
+| [freddiiieeee](https://osu.ppy.sh/users/7112839) ::{ flag=US }:: | 0 | **4** | ::{ flag=US }:: **[leeeroy](https://osu.ppy.sh/users/12620812)** | [#1](https://osu.ppy.sh/community/matches/101033421) |
+| [jms8719](https://osu.ppy.sh/users/2042565) ::{ flag=US }:: | 3 | **4** | ::{ flag=US }:: **[Vysion](https://osu.ppy.sh/users/11594132)** | [#1](https://osu.ppy.sh/community/matches/101033430) |
+| [SeaAE](https://osu.ppy.sh/users/12354364) ::{ flag=US }:: | -1 | **0** | ::{ flag=US }:: **[jazzberry](https://osu.ppy.sh/users/11055678)** | *forfeit* |
+| **[dyndenial](https://osu.ppy.sh/users/16779673)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [firenoo](https://osu.ppy.sh/users/10815041) | [#1](https://osu.ppy.sh/community/matches/101033452) |
 
 ### Round 1
 
@@ -285,13 +285,13 @@ TGEX 2022 was run by various osu! community members at UCSD or visiting for the 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[firenoo](https://osu.ppy.sh/users/10815041)** ![][flag_US] | **4** | 0 | ![][flag_US] [atlae99](https://osu.ppy.sh/users/29787503) | [#1](https://osu.ppy.sh/community/matches/101030746) |
+| **[firenoo](https://osu.ppy.sh/users/10815041)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [atlae99](https://osu.ppy.sh/users/29787503) | [#1](https://osu.ppy.sh/community/matches/101030746) |
 
 #### Losers bracket
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[leeeroy](https://osu.ppy.sh/users/12620812)** ![][flag_US] | **4** | 0 | ![][flag_US] [atlae99](https://osu.ppy.sh/users/29787503) | [#1](https://osu.ppy.sh/community/matches/101032916) |
+| **[leeeroy](https://osu.ppy.sh/users/12620812)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [atlae99](https://osu.ppy.sh/users/29787503) | [#1](https://osu.ppy.sh/community/matches/101032916) |
 
 ### Seeding
 
@@ -299,23 +299,20 @@ The seeding was done online the day prior to the LAN. Every participant played e
 
 | Player | Average rank |
 | :-- | --: |
-| ![][flag_US] [Chzaron](https://osu.ppy.sh/users/11607790) | 3.1 |
-| ![][flag_US] [Daprin](https://osu.ppy.sh/users/10961983) | 3.6 |
-| ![][flag_US] [crikhard](https://osu.ppy.sh/users/7023000) | 4.1 |
-| ![][flag_US] [\[KOR\] Sora](https://osu.ppy.sh/users/11985468) | 4.3 |
-| ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) | 4.6 |
-| ![][flag_US] [-ether-](https://osu.ppy.sh/users/6131258) | 4.8 |
-| ![][flag_US] [Strider](https://osu.ppy.sh/users/4553852) | 8.0 |
-| ![][flag_US] [potato48](https://osu.ppy.sh/users/10724175) | 8.7 |
-| ![][flag_US] [dyndenial](https://osu.ppy.sh/users/16779673) | 8.8 |
-| ![][flag_US] [jms8719](https://osu.ppy.sh/users/2042565) | 9.5 |
-| ![][flag_US] [leeeroy](https://osu.ppy.sh/users/12620812) | 10.9 |
-| ![][flag_US] [SeaAE](https://osu.ppy.sh/users/12354364) | 11.0 |
-| ![][flag_US] [jazzberry](https://osu.ppy.sh/users/11055678) | 12.3 |
-| ![][flag_US] [freddiiieeee](https://osu.ppy.sh/users/7112839) | 13.0 |
-| ![][flag_US] [Vysion](https://osu.ppy.sh/users/11594132) | 14.2 |
-| ![][flag_US] [firenoo](https://osu.ppy.sh/users/10815041) | 15.2 |
-| ![][flag_US] [atlae99](https://osu.ppy.sh/users/29787503) | 16.9 |
-
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+| ::{ flag=US }:: [Chzaron](https://osu.ppy.sh/users/11607790) | 3.1 |
+| ::{ flag=US }:: [Daprin](https://osu.ppy.sh/users/10961983) | 3.6 |
+| ::{ flag=US }:: [crikhard](https://osu.ppy.sh/users/7023000) | 4.1 |
+| ::{ flag=US }:: [\[KOR\] Sora](https://osu.ppy.sh/users/11985468) | 4.3 |
+| ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459) | 4.6 |
+| ::{ flag=US }:: [-ether-](https://osu.ppy.sh/users/6131258) | 4.8 |
+| ::{ flag=US }:: [Strider](https://osu.ppy.sh/users/4553852) | 8.0 |
+| ::{ flag=US }:: [potato48](https://osu.ppy.sh/users/10724175) | 8.7 |
+| ::{ flag=US }:: [dyndenial](https://osu.ppy.sh/users/16779673) | 8.8 |
+| ::{ flag=US }:: [jms8719](https://osu.ppy.sh/users/2042565) | 9.5 |
+| ::{ flag=US }:: [leeeroy](https://osu.ppy.sh/users/12620812) | 10.9 |
+| ::{ flag=US }:: [SeaAE](https://osu.ppy.sh/users/12354364) | 11.0 |
+| ::{ flag=US }:: [jazzberry](https://osu.ppy.sh/users/11055678) | 12.3 |
+| ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839) | 13.0 |
+| ::{ flag=US }:: [Vysion](https://osu.ppy.sh/users/11594132) | 14.2 |
+| ::{ flag=US }:: [firenoo](https://osu.ppy.sh/users/10815041) | 15.2 |
+| ::{ flag=US }:: [atlae99](https://osu.ppy.sh/users/29787503) | 16.9 |

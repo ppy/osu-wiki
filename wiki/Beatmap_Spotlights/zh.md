@@ -31,9 +31,9 @@ tags:
 
 | 职责 | 成员 |
 | --: | :-- |
-| 项目负责人 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) |
-| 项目管理 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) |
-| 网站管理 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
+| 项目负责人 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
+| 项目管理 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| 网站管理 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227) |
 
 ## 策展
 
@@ -41,41 +41,41 @@ tags:
 
 ### osu! 策展人
 
-- ![][flag_FI] **[Nowaie](https://osu.ppy.sh/users/5428909)**
-- ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)
-- ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
-- ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943)
-- ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
-- ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
+- ::{ flag=FI }:: **[Nowaie](https://osu.ppy.sh/users/5428909)**
+- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
+- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850)
+- ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943)
+- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
+- ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### osu!taiko 策展人
 
-- ![][flag_TN] **[Hivie](https://osu.ppy.sh/users/14102976)**
-- ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864)
-- ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097)
-- ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
-- ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
-- ![][flag_MY] [[Zeth]](https://osu.ppy.sh/users/9912966)
+- ::{ flag=TN }:: **[Hivie](https://osu.ppy.sh/users/14102976)**
+- ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864)
+- ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
+- ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
 
 ### osu!catch 策展人
 
-- ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
-- ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164)
-- ![][flag_US] [radar](https://osu.ppy.sh/users/7131099)
-- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
+- ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
+- ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### osu!mania 策展人
 
-- ![][flag_AU] **[Crumpey](https://osu.ppy.sh/users/3518705)**
-- ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773)
-- ![][flag_KR] [Aruel](https://osu.ppy.sh/users/3984370)
-- ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
-- ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176)
-- ![][flag_MY] [Kibitz](https://osu.ppy.sh/users/7418493)
-- ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
-- ![][flag_US] [Protastic101](https://osu.ppy.sh/users/6712747)
+- ::{ flag=AU }:: **[Crumpey](https://osu.ppy.sh/users/3518705)**
+- ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)
+- ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370)
+- ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600)
+- ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176)
+- ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493)
+- ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
+- ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747)
 
 ## 赛季
 
@@ -172,34 +172,14 @@ tags:
 
 ## 历史
 
-该项目最初由 ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) 和 ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) 在 2009 年 11 月提出，原名 “Ranking Charts”。该项目旨在让 [BAT](/wiki/Modding/Beatmap_Appreciation_Team) 和 [MAT](/wiki/Modding/Mapping_Assistance_Team) 提名并投票选出展示为期一个月的最佳谱面。
+该项目最初由 ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) 和 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 在 2009 年 11 月提出，原名 “Ranking Charts”。该项目旨在让 [BAT](/wiki/Modding/Beatmap_Appreciation_Team) 和 [MAT](/wiki/Modding/Mapping_Assistance_Team) 提名并投票选出展示为期一个月的最佳谱面。
 
 该项目进行了多次更改和补充，例如[主题月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=26)，[Mod 月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=19)或是[赛季排行榜](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart)等等。 最初，只有月赛胜者才能获得 osu! 支持者标签。后来，添加了对谱面作者或赛季排行榜胜者的奖励。
 
-项目负责人在其历史上已经发生了数次变化。![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) 于 2012 年 5 月接任项目负责人，随后是 ![][flag_US] [DeathXShinigami](https://osu.ppy.sh/users/49516) 和 ![][flag_US] [Makar](https://osu.ppy.sh/users/686389)。![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 和 ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) 于 2013 年 12 月接任项目负责人。从 2015 年 3 月开始，该项目从最初的提名和投票转变为让[知名社区成员逐个选择他们推荐的谱面集](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)。在2016年9月，[提名系统已大体恢复](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes)，由 [QAT](/wiki/Modding/Quality_Assurance_Team) 负责选择最值得关注的谱面集。
+项目负责人在其历史上已经发生了数次变化。::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) 于 2012 年 5 月接任项目负责人，随后是 ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) 和 ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389)。::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) 于 2013 年 12 月接任项目负责人。从 2015 年 3 月开始，该项目从最初的提名和投票转变为让[知名社区成员逐个选择他们推荐的谱面集](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)。在2016年9月，[提名系统已大体恢复](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes)，由 [QAT](/wiki/Modding/Quality_Assurance_Team) 负责选择最值得关注的谱面集。
 
-在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在对 QAT 进行内部检修期间，该项目的负责人已被重新分配给了 ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) 并重新组建了一个基于社区的谱面选择团队。在 2018 年 11 月，月赛的频率被更改为[季节性](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)。2020 年 3 月，![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 随 Kurokami 重回项目负责人，将其重新设计成新的形状，并组建了新的名为 osu! 策展人的团队。
+在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在对 QAT 进行内部检修期间，该项目的负责人已被重新分配给了 ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 并重新组建了一个基于社区的谱面选择团队。在 2018 年 11 月，月赛的频率被更改为[季节性](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)。2020 年 3 月，::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 随 Kurokami 重回项目负责人，将其重新设计成新的形状，并组建了新的名为 osu! 策展人的团队。
 
-2020 年八月 ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底  ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) 和 ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
+2020 年八月 ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底  ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) 和 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
 
-在第 4 赛季（2021 春）后，项目进入停顿期。直至 2021 年 9 月，出现了复兴的倾向，![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) 卸任，而 ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) 加入管理团队，于 2022 年 2 月，在人员重组后，项目恢复了运作。
-
-[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
-[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"
-[flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
-[flag_GB]: /wiki/shared/flag/GB.gif "英国"
-[flag_HU]: /wiki/shared/flag/HU.gif "匈牙利"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
-[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
-[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
-[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
-[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
-[flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
-[flag_TH]: /wiki/shared/flag/TH.gif "泰国"
-[flag_TN]: /wiki/shared/flag/TN.gif "突尼斯"
-[flag_US]: /wiki/shared/flag/US.gif "美国"
+在第 4 赛季（2021 春）后，项目进入停顿期。直至 2021 年 9 月，出现了复兴的倾向，::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 卸任，而 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 加入管理团队，于 2022 年 2 月，在人员重组后，项目恢复了运作。

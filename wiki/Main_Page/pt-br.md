@@ -37,7 +37,7 @@ Tudo sobre clicar círculos, bater tambores, pegar frutas, e tocar o sintetizado
 
 [Modos de jogo](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Dificuldade](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Pontuação](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medalhas](/wiki/Medals) • [Multijogador](/wiki/Gameplay/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Dificuldade](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Pontuação](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medalhas](/wiki/Medals) • [Multijogador](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

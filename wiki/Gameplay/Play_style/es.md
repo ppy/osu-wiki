@@ -21,7 +21,7 @@ En pantalla, los clics con el botón izquierdo y derecho se muestran como `M1` y
 
 Un jugador puede utilizar un segundo ratón, de modo que use uno de ellos para hacer clic y otro para mover el cursor por la pantalla.
 
-Se consideraba un estilo de juego *ridículo* hasta que ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) empezó a obtener grandes puntuaciones usando este estilo de juego en mapas como [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823).
+Se consideraba un estilo de juego *ridículo* hasta que ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) empezó a obtener grandes puntuaciones usando este estilo de juego en mapas como [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823).
 
 Es común que los jugadores que juegan con dos ratones dejen fijado a la mesa el ratón que van a usar para hacer clic.
 
@@ -69,7 +69,7 @@ Si la pantalla táctil lo admite, se puede usar un lápiz sobre ella, volviéndo
 
 - **Trackpad de un portátil/laptop**: Aunque parece una buena opción en la teoría, muchos jugadores prefieren no usar el trackpad del ordenador portátil, ya que añade mucha dificultad al control del cursor. La mayoría de los jugadores solo usan el trackpad para navegar los menús del juego.
 - **Joystick**: Una forma creativa de controlar el cursor es utilizar un Joystick para mover el cursor y utilizar el gatillo o botones incluidos en él o un teclado para *hacer clic*. A no ser que el jugador ya domine de antemano el uso del Joystick, mover el cursor con él requerirá mucho más tiempo de aprendizaje que el resto de periféricos mencionados anteriormente.
-- **Placas metálicas**: Una manera muy especial de reemplazar un teclado, introducida por el jugador ![][flag_US] [geckogates](https://osu.ppy.sh/users/geckogates), que requiere cierto conocimiento de electrónica para preparar: se usan unas placas metálicas conectadas al circuito del teclado para usarlas en lugar de las teclas.
+- **Placas metálicas**: Una manera muy especial de reemplazar un teclado, introducida por el jugador ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/geckogates), que requiere cierto conocimiento de electrónica para preparar: se usan unas placas metálicas conectadas al circuito del teclado para usarlas en lugar de las teclas.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -139,6 +139,3 @@ El estilo de los veteranos en otros juegos de ritmo similares: se usa un control
 - **Dancepad**(4/8K): El controlador por defecto de [Dance Dance Revolution](https://es.wikipedia.org/wiki/Dance_Dance_Revolution_(serie)) y [Stepmania](https://es.wikipedia.org/wiki/StepMania): Los jugadores bailan sobre un pad con flechas para registrar las notas. Es un estilo de juego bastante complicado ya que los beatmaps están diseñados para teclado y el máximo de notas a la vez en el pad son 4 y en el juego puede exigirse más que eso.
 - **Batería o guitarra**(5/6K): El controlador por defecto de ([Guitar Hero](https://es.wikipedia.org/wiki/Guitar_Hero_(serie))) o ([Drummania](https://es.wikipedia.org/wiki/GITADORA_(serie))). Los jugadores utilizan los botones de la guitarra o la batería. Los jugadores que utilicen batería tendrán la desventaja de que solo pueden utilizar dos notas a la vez sin un pedal especial.
 - **Controlador de Para Para**(5K): El controlador de [Para Para Paradise](https://es.wikipedia.org/wiki/ParaParaParadise_(serie)). Los jugadores mueven sus manos, codos y manos frente a los sensores de proximidad.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

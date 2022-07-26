@@ -761,25 +761,15 @@ You must set these settings before taking a screenshot of the game client (setti
 
 Images must not be part of a link text.
 
-Flag icons next to user links must be separate from the link text. See the following example:
+## Flag icons
+
+The flag icons use the two letter code (in all capital letters) to match a certain territory. When adding a flag inline, use this format:
 
 ```markdown
-![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+::{ flag=XX }::
 ```
 
-### Flag icons
-
-*For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328)*
-
-The flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
-
-```markdown
-![](/wiki/shared/flag/xx.gif)
-```
-
-Where `xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
-
-The full country name should be added in the title text. The country code in the alternate text is optional, but must be applied to all flag icons in the article.
+Where `XX` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
 
 ## Tables
 
@@ -811,9 +801,11 @@ The following is an example of what a table should look like:
 
 Footnotes are short notes located at the end of the page. They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article. Footnotes may contain text formatting and links.
 
-In the osu! wiki, footnotes are implemented using special syntax (`[^identifier]`). Footnotes can use any identifier, but they will automatically be rendered as superscripts with increasing numbers in order of their first appearance. The footnotes themselves must be placed in a separate second-level heading at the end of the article. Depending on the content, the heading used may be `References`, `Notes`, or `Notes and references`.
+In the osu! wiki, footnotes are implemented using special syntax (`[^identifier]`). Footnotes can use any identifier, but they will automatically be rendered as superscripts with increasing numbers in order of their first appearance. Translations must not modify identifiers of footnotes.
 
 Footnote references are placed directly after the words, phrases, or sentences they explain, with no space in between. These references must be placed after punctuation, except for parentheses, when they pertain to the contents inside, and dashes.<!-- Taken from https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_and_footnotes -->
+
+The footnotes themselves must be placed in a separate second-level heading at the end of the article. Depending on the content, the heading used may be `References`, `Notes`, or `Notes and references`.
 
 Correct usage examples:
 

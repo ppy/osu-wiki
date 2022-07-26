@@ -6,7 +6,7 @@ tags:
 
 # osu! Vintage Map Tourney!
 
-The **osu! Vintage Map Tourney!** (***OVMT***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914). It was the first instalment of the osu! Vintage Map Tourney!.
+The **osu! Vintage Map Tourney!** (***OVMT***) was a 1v1 single-elimination osu! tournament hosted by ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914). It was the first instalment of the osu! Vintage Map Tourney!.
 
 ## Tournament schedule
 
@@ -33,12 +33,12 @@ The osu! Vintage Map Tourney! was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
-| Mappool selector | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
-| Streamer | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
-| Commentator | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_GB] [Postman Tap](https://osu.ppy.sh/users/5668221), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FR] [Alheak](https://osu.ppy.sh/users/3583061), ![][flag_FI] [LefafeI](https://osu.ppy.sh/users/2295850) |
-| Designer | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914) |
-| Referee | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_GB] [Postman Tap](https://osu.ppy.sh/users/5668221), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FR] [Alheak](https://osu.ppy.sh/users/3583061), ![][flag_FI] [LefafeI](https://osu.ppy.sh/users/2295850) |
+| Host | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914) |
+| Mappool selector | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914) |
+| Streamer | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914) |
+| Commentator | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [Postman Tap](https://osu.ppy.sh/users/5668221), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FR }:: [Alheak](https://osu.ppy.sh/users/3583061), ::{ flag=FI }:: [LefafeI](https://osu.ppy.sh/users/2295850) |
+| Designer | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914) |
+| Referee | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [Postman Tap](https://osu.ppy.sh/users/5668221), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FR }:: [Alheak](https://osu.ppy.sh/users/3583061), ::{ flag=FI }:: [LefafeI](https://osu.ppy.sh/users/2295850) |
 
 ## Links
 
@@ -58,9 +58,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Catgirl](https://osu.ppy.sh/users/2771995) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Catgirl](https://osu.ppy.sh/users/2771995) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
 
 ## Mappools
 
@@ -170,7 +170,7 @@ Sunday, 2 October 2016:
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| Catgirl ![][flag_US] | 1 | **4** | ![][flag_GB] **Pelzio** |
+| Catgirl ::{ flag=US }:: | 1 | **4** | ::{ flag=GB }:: **Pelzio** |
 
 #### Third place match
 
@@ -178,7 +178,7 @@ Monday, 3 October 2016:
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| 1x 100 ![][flag_CZ] | 0 | **4** | ![][flag_GB] **Doomsday** |
+| 1x 100 ::{ flag=CZ }:: | 0 | **4** | ::{ flag=GB }:: **Doomsday** |
 
 ### Semifinals
 
@@ -186,8 +186,8 @@ Sunday, 2 October 2016:
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| 1x 100 ![][flag_CZ] | 1 | **4** | ![][flag_US] **Catgirl** |
-| Doomsday ![][flag_GB] | 2 | **4** | ![][flag_GB] **Pelzio** |
+| 1x 100 ::{ flag=CZ }:: | 1 | **4** | ::{ flag=US }:: **Catgirl** |
+| Doomsday ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Pelzio** |
 
 ### Quarterfinals
 
@@ -195,20 +195,20 @@ Friday, 23 September 2016:
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **4** | 2 | ![][flag_GB] Doughy |
+| **Doomsday** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Doughy |
 
 Sunday, 25 September 2016:
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **1x 100** ![][flag_CZ] | **4** | 3 | ![][flag_GB] YunoWhoItIs |  |
-| **Pelzio** ![][flag_GB] | **1** | 0 | ![][flag_CA] - Auto - | *forfeit* |
+| **1x 100** ::{ flag=CZ }:: | **4** | 3 | ::{ flag=GB }:: YunoWhoItIs |  |
+| **Pelzio** ::{ flag=GB }:: | **1** | 0 | ::{ flag=CA }:: - Auto - | *forfeit* |
 
 Saturday, 1 October 2016:
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| Jerome ![][flag_GB] | 2 | **4** | ![][flag_US] **Catgirl** |
+| Jerome ::{ flag=GB }:: | 2 | **4** | ::{ flag=US }:: **Catgirl** |
 
 ### Round of 16
 
@@ -216,24 +216,24 @@ Saturday, 17 September 2016:
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| **YunoWhoItIs** ![][flag_GB] | **4** | 0 | ![][flag_AU] jamimc2 |
-| Bubbleman ![][flag_GB] | 0 | **4** | ![][flag_CZ] **1x 100** |
+| **YunoWhoItIs** ::{ flag=GB }:: | **4** | 0 | ::{ flag=AU }:: jamimc2 |
+| Bubbleman ::{ flag=GB }:: | 0 | **4** | ::{ flag=CZ }:: **1x 100** |
 
 Sunday, 18 September 2016:
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_FI] BitComet |  |
-| NyarkoO ![][flag_CZ] | 0 | **4** | ![][flag_US] **Catgirl** |  |
-| Doomsday Is Bad ![][flag_GB] | 0 | **4** | ![][flag_GB] **Pelzio** |  |
-| Kradfiz ![][flag_US] | 1 | **4** | ![][flag_GB] **Doughy** |  |
-| **- Auto -** ![][flag_CA] | **1** | 0 | ![][flag_GB] dong | *forfeit* |
+| **Doomsday** ::{ flag=GB }:: | **4** | 1 | ::{ flag=FI }:: BitComet |  |
+| NyarkoO ::{ flag=CZ }:: | 0 | **4** | ::{ flag=US }:: **Catgirl** |  |
+| Doomsday Is Bad ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Pelzio** |  |
+| Kradfiz ::{ flag=US }:: | 1 | **4** | ::{ flag=GB }:: **Doughy** |  |
+| **- Auto -** ::{ flag=CA }:: | **1** | 0 | ::{ flag=GB }:: dong | *forfeit* |
 
 Monday, 19 September 2016:
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **Jerome** ![][flag_GB] | **1** | 0 | ![][flag_FI] Kissatyty | *forfeit* |
+| **Jerome** ::{ flag=GB }:: | **1** | 0 | ::{ flag=FI }:: Kissatyty | *forfeit* |
 
 ### Round of 32
 
@@ -241,72 +241,72 @@ Friday, 9 September 2016:
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **4** | 2 | ![][flag_FI] Sanakirja |
-| Halfslashed ![][flag_US] | 1 | **4** | ![][flag_GB] **dong** |
+| **Doomsday** ::{ flag=GB }:: | **4** | 2 | ::{ flag=FI }:: Sanakirja |
+| Halfslashed ::{ flag=US }:: | 1 | **4** | ::{ flag=GB }:: **dong** |
 
 Saturday, 10 September 2016:
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| wufwuf ![][flag_GB] | 1 | **4** | ![][flag_GB] **jamimc2** |  |
-| Lefafel ![][flag_FI] | 3 | **4** | ![][flag_GB] **Doughy** |  |
-| Muuki ![][flag_FI] | 3 | **4** | ![][flag_GB] **Pelzio** |  |
-| Nitroz ![][flag_SE] | 0 | **1** | ![][flag_GB] **Doomsday is Bad** | *forfeit* |
-| **BitComet** ![][flag_FI] | **4** | 1 | ![][flag_US] at-cay |  |
-| **Catgirl** ![][flag_US] | **4** | 0 | ![][flag_RU] u624ka |  |
-| **Kradfiz** ![][flag_US] | **4** | 1 | ![][flag_PL] Kosmit |  |
-| **- Auto -** ![][flag_CA] | **4** | 0 | ![][flag_FI] Babo-ya |  |
+| wufwuf ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **jamimc2** |  |
+| Lefafel ::{ flag=FI }:: | 3 | **4** | ::{ flag=GB }:: **Doughy** |  |
+| Muuki ::{ flag=FI }:: | 3 | **4** | ::{ flag=GB }:: **Pelzio** |  |
+| Nitroz ::{ flag=SE }:: | 0 | **1** | ::{ flag=GB }:: **Doomsday is Bad** | *forfeit* |
+| **BitComet** ::{ flag=FI }:: | **4** | 1 | ::{ flag=US }:: at-cay |  |
+| **Catgirl** ::{ flag=US }:: | **4** | 0 | ::{ flag=RU }:: u624ka |  |
+| **Kradfiz** ::{ flag=US }:: | **4** | 1 | ::{ flag=PL }:: Kosmit |  |
+| **- Auto -** ::{ flag=CA }:: | **4** | 0 | ::{ flag=FI }:: Babo-ya |  |
 
 Sunday, 11 September 2016:
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| Sam ![][flag_GB] | 0 | **1** | ![][flag_GB] **Jerome** | *forfeit* |
-| **1x 100** ![][flag_CZ] | **1** | 0 | ![][flag_RO] MaddaFakka-sama | *forfeit* |
-| **NyarkoO** ![][flag_CZ] | **4** | 2 | ![][flag_GB] Dovahcake |  |
-| **YunoWhoItIs** ![][flag_GB] | **4** | 1 | ![][flag_US] MicMck101 |  |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] Lewd |  |
+| Sam ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Jerome** | *forfeit* |
+| **1x 100** ::{ flag=CZ }:: | **1** | 0 | ::{ flag=RO }:: MaddaFakka-sama | *forfeit* |
+| **NyarkoO** ::{ flag=CZ }:: | **4** | 2 | ::{ flag=GB }:: Dovahcake |  |
+| **YunoWhoItIs** ::{ flag=GB }:: | **4** | 1 | ::{ flag=US }:: MicMck101 |  |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Lewd |  |
 
 Tuesday, 13 September 2016:
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| Seraxis ![][flag_GB] | 2 | **4** | ![][flag_FI] **Kissatyty** |
+| Seraxis ::{ flag=GB }:: | 2 | **4** | ::{ flag=FI }:: **Kissatyty** |
 
 ### Round of 64
 
 | Player 1 | | | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| Rei yo ![][flag_DE] | 0 | **1** | ![][flag_GB] **Lewd** | *forfeit* |
-| Blegie ![][flag_DE] | 2 | **3** | ![][flag_CZ] **1x 100** |  |
-| Mirt ![][flag_AU] | 0 | **1** | ![][flag_RO] **MaddaFakka-sama** | *forfeit* |
-| dika312  ![][flag_ID] | 0 | **1** | ![][flag_GB] **YunoWhoItIs** | *forfeit* |
-| **MicMck101** ![][flag_US] | **1** | 0 | ![][flag_DE] xXMalvinXx | *forfeit* |
-| -Lolisim- ![][flag_US] | 0 | **3** | ![][flag_GB] **WufWuf** |  |
-| **jamimc2** ![][flag_AU] | **1** | 0 | ![][flag_HU] scuoa  | *forfeit* |
-| **Sam** ![][flag_GB] | **3** | 0 | ![][flag_CL] \[Burno-\] |  |
-| Zetopweaboo ![][flag_AU] | 0 | **3** | ![][flag_GB] **Jerome** |  |
-| Sexual Tentacle ![][flag_CA] | 0 | **3** | ![][flag_GB] **SEXaris** |  |
-| RealXantoo ![][flag_AT] | 0 | **3** | ![][flag_FI] **Kissatyty** |  |
-| **NyarkoO** ![][flag_CZ] | **3** | 0 | ![][flag_CA] Jakesoly |  |
-| icecream-chan ![][flag_GB] | 1 | **3** | ![][flag_GB] **Dovahcake** |  |
-| Synxx3 ![][flag_DE] | 0 | **3** | ![][flag_US] **Catgirl** |  |
-| Han106 ![][flag_US] | 0 | **3** | ![][flag_RU] **u624ka** |  |
-| TropicalX ![][flag_GB] | 0 | **3** | ![][flag_FI] **Sanakirja** |  |
-| **BitComet** ![][flag_FI] | **3** | 2 | ![][flag_GB] mjozog3 |  |
-| **at-cay** ![][flag_US] | **3** | 0 | ![][flag_GB] Dawnsday |  |
-| nahh ![][flag_GB] | 0 | **1** | ![][flag_US] **Kradfiz** | *forfeit* |
-| **Kosmit** ![][flag_PL] | **3** | 0 | ![][flag_SG] handsome |  |
-| **Lefafel** ![][flag_FI] | **3** | 2 | ![][flag_GB] Tattoos |  |
-| **Doughy** ![][flag_GB] | **3** | 1 | ![][flag_GB] NotToBlame |  |
-| M-O-P-S-I ![][flag_FI] | 1 | **3** | ![][flag_SE] **Nitroz** |  |
-| Hasert ![][flag_MY] | 0 | **3** | ![][flag_GB] **Doomsday is Bad** |  |
-| **Muuki** ![][flag_FI] | **3** | 2 | ![][flag_US] Squilly |  |
-| **Pelzio** ![][flag_GB] | **3** | 0 | ![][flag_AU] TheJimnebob |  |
-| **- Auto -** ![][flag_CA] | **3** | 0 | ![][flag_GB] Khunee |  |
-| **Babo-ya** ![][flag_FI] | **3** | 0 | ![][flag_ES] TriFerlol |  |
-| **Halfslashed** ![][flag_US] | **3** | 0 | ![][flag_PL] \[-KuleK-\] |  |
-| **dong** ![][flag_GB] | **3** | 1 | ![][flag_US] YouKittenMe |  |
+| Rei yo ::{ flag=DE }:: | 0 | **1** | ::{ flag=GB }:: **Lewd** | *forfeit* |
+| Blegie ::{ flag=DE }:: | 2 | **3** | ::{ flag=CZ }:: **1x 100** |  |
+| Mirt ::{ flag=AU }:: | 0 | **1** | ::{ flag=RO }:: **MaddaFakka-sama** | *forfeit* |
+| dika312  ::{ flag=ID }:: | 0 | **1** | ::{ flag=GB }:: **YunoWhoItIs** | *forfeit* |
+| **MicMck101** ::{ flag=US }:: | **1** | 0 | ::{ flag=DE }:: xXMalvinXx | *forfeit* |
+| -Lolisim- ::{ flag=US }:: | 0 | **3** | ::{ flag=GB }:: **WufWuf** |  |
+| **jamimc2** ::{ flag=AU }:: | **1** | 0 | ::{ flag=HU }:: scuoa  | *forfeit* |
+| **Sam** ::{ flag=GB }:: | **3** | 0 | ::{ flag=CL }:: \[Burno-\] |  |
+| Zetopweaboo ::{ flag=AU }:: | 0 | **3** | ::{ flag=GB }:: **Jerome** |  |
+| Sexual Tentacle ::{ flag=CA }:: | 0 | **3** | ::{ flag=GB }:: **SEXaris** |  |
+| RealXantoo ::{ flag=AT }:: | 0 | **3** | ::{ flag=FI }:: **Kissatyty** |  |
+| **NyarkoO** ::{ flag=CZ }:: | **3** | 0 | ::{ flag=CA }:: Jakesoly |  |
+| icecream-chan ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Dovahcake** |  |
+| Synxx3 ::{ flag=DE }:: | 0 | **3** | ::{ flag=US }:: **Catgirl** |  |
+| Han106 ::{ flag=US }:: | 0 | **3** | ::{ flag=RU }:: **u624ka** |  |
+| TropicalX ::{ flag=GB }:: | 0 | **3** | ::{ flag=FI }:: **Sanakirja** |  |
+| **BitComet** ::{ flag=FI }:: | **3** | 2 | ::{ flag=GB }:: mjozog3 |  |
+| **at-cay** ::{ flag=US }:: | **3** | 0 | ::{ flag=GB }:: Dawnsday |  |
+| nahh ::{ flag=GB }:: | 0 | **1** | ::{ flag=US }:: **Kradfiz** | *forfeit* |
+| **Kosmit** ::{ flag=PL }:: | **3** | 0 | ::{ flag=SG }:: handsome |  |
+| **Lefafel** ::{ flag=FI }:: | **3** | 2 | ::{ flag=GB }:: Tattoos |  |
+| **Doughy** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: NotToBlame |  |
+| M-O-P-S-I ::{ flag=FI }:: | 1 | **3** | ::{ flag=SE }:: **Nitroz** |  |
+| Hasert ::{ flag=MY }:: | 0 | **3** | ::{ flag=GB }:: **Doomsday is Bad** |  |
+| **Muuki** ::{ flag=FI }:: | **3** | 2 | ::{ flag=US }:: Squilly |  |
+| **Pelzio** ::{ flag=GB }:: | **3** | 0 | ::{ flag=AU }:: TheJimnebob |  |
+| **- Auto -** ::{ flag=CA }:: | **3** | 0 | ::{ flag=GB }:: Khunee |  |
+| **Babo-ya** ::{ flag=FI }:: | **3** | 0 | ::{ flag=ES }:: TriFerlol |  |
+| **Halfslashed** ::{ flag=US }:: | **3** | 0 | ::{ flag=PL }:: \[-KuleK-\] |  |
+| **dong** ::{ flag=GB }:: | **3** | 1 | ::{ flag=US }:: YouKittenMe |  |
 
 ## Ruleset
 
@@ -329,23 +329,3 @@ Tuesday, 13 September 2016:
 - Both players will be contacted by the match referee before the match starts in bancho chat. Players have until 15 minutes after the scheduled start time of the match to show up, or they automatically forfeit.
 - Players are able to play a warm-up map if they so choose. Warm-up maps should be under 5 minutes long and they must be submitted to osu.ppy.sh.
 - Each player can ban one map per match.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -24,7 +24,7 @@ Vous pouvez afficher la console de tchat d'osu! sur la plupart des écrans en ap
 
 ## La console de tchat étendue
 
-*L'[osu!academy](/wiki/Community/Video_series/osu!academy) à déjà abordé ce sujet ici : [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ainsi que le [multijoueur](/wiki/Gameplay/Multiplayer) (en anglais).*
+*L'[osu!academy](/wiki/Community/Video_series/osu!academy) à déjà abordé ce sujet ici : [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ainsi que le [multijoueur](/wiki/Client/Interface/Multiplayer) (en anglais).*
 
 Sur la plupart des écrans, vous pouvez appuyer sur `F9` ou cliquer sur `Online Users` pour afficher la console de tchat étendue. En plus de la console de tchat, le tchat étendu superpose une liste de panneaux dans les deux tiers restants de l'écran, affichant des informations sur les utilisateurs actuellement connectés à osu!.
 
