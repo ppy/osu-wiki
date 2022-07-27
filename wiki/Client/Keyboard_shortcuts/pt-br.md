@@ -44,7 +44,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `Esc` | Volte ou cancele. |
 | `P`, `E`, or `O` | Abre o menu para jogar. |
 | `P` três vezes | Entre no Solo. |
-| `P` duas vezes, depois `M` | Entre no [Multiplayer](/wiki/Gameplay/Multiplayer). |
+| `P` duas vezes, depois `M` | Entre no [Multiplayer](/wiki/Client/Interface/Multiplayer). |
 | `E` duas vezes | Entre no modo do editor. |
 | `O` | Abre a barra de canto de opções. |
 | `Q` | Mostra a confirmação para fechar o jogo. |

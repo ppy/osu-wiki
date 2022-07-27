@@ -19,7 +19,7 @@ Tautan terkait:
 Pada 2012-10-08, osu!mania akhirnya dirilis kepada publik ([woc2006](https://osu.ppy.sh/users/1105845))! Selain itu:
 
 - Hitsound per objek ditambahkan ke dalam editor. ([mm201](https://osu.ppy.sh/users/30655))
-- Menambahkan fitur pemulihan dari gagal melanjutkan dalam [multiplayer](/wiki/Gameplay/Multiplayer) dengan memenuhi kembali bar HP. (Pengecualian jika mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) atau [Perfect](/wiki/Game_modifier/Perfect) diaktifkan)
+- Menambahkan fitur pemulihan dari gagal melanjutkan dalam [multiplayer](/wiki/Client/Interface/Multiplayer) dengan memenuhi kembali bar HP. (Pengecualian jika mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) atau [Perfect](/wiki/Game_modifier/Perfect) diaktifkan)
 - Dukungan scrolling ke daftar peringkat online dalam game.
 - Perbaikan pada [pemilih skin](/wiki/Client/Options#skin) untuk membuatnya bermain lebih realistis.
 
@@ -68,7 +68,7 @@ Pada 2012-11-22:
 - Pembaruan lokalisasi. Lebih banyak bahasa ditambahkan.
 - Mengklik kanan pada beatmap tidak aktif dapat memungkinkan opsi tampilan beatmap di pemilihan lagu tanpa membukanya terlebih dahulu dengan klik kiri.
 - Peningkatan kinerja DirectX.
-- ([Multi](/wiki/Gameplay/Multiplayer)) Penambahan tombol "Quick Join".
+- ([Multi](/wiki/Client/Interface/Multiplayer)) Penambahan tombol "Quick Join".
 - Pengaturan Fun Spoiler tersedia selama menonton tayangan ulang/menyoroti pemain lain.
 
 Lokalisasi dari [proyek lokalisasi osu! v2](https://osu.ppy.sh/community/forums/topics/104342) telah ditambahkan. Anda dapat menemukan pelokalan di menu [Options](/wiki/Client/Options) di tab Graphics menunjuk "Languages".

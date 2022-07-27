@@ -6,7 +6,7 @@
 
 *Hinweis: Änderungen in den visuellen Einstellungen werden pro Beatmap gespeichert, aber manche davon gehen nach dem Schließen von osu! verloren. Um diese global zu setzen (und für immer), benutze die [Optionen](/wiki/Client/Options).*
 
-Alternativ ist es auch möglich durch das Pausieren des Spiels auf die visuellen Einstellungen zuzugreifen. Jedoch funktioniert diese Methode nicht in [Mehrspieler](/wiki/Gameplay/Multiplayer)-Spielen, da das als Versuch, das Spiel zu verlassen, interpretiert wird und stattdessen der Raum verlassen wird.
+Alternativ ist es auch möglich durch das Pausieren des Spiels auf die visuellen Einstellungen zuzugreifen. Jedoch funktioniert diese Methode nicht in [Mehrspieler](/wiki/Client/Interface/Multiplayer)-Spielen, da das als Versuch, das Spiel zu verlassen, interpretiert wird und stattdessen der Raum verlassen wird.
 
 ## Einstellungen
 

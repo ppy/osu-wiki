@@ -8,7 +8,7 @@ tags:
 
 ![Mirai2020 logo](img/logo.png)
 
-The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminination 2v2 osu! tournament hosted by ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709). It is the fourth instalment of the Mirai. Tournament.
+The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminination 2v2 osu! tournament hosted by ::{ flag=NL }:: [Mirai Subject](https://osu.ppy.sh/users/5639709). It is the fourth instalment of the Mirai. Tournament.
 
 ## Tournament schedule
 
@@ -36,13 +36,13 @@ The Mirai. Tournament 2020 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344) |
-| Mappool selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_GB] [NoSpace](https://osu.ppy.sh/users/10585285), ![][flag_GB] [SacretSword](https://osu.ppy.sh/users/9821402), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592), ![][flag_SG] [Zephyrlox](https://osu.ppy.sh/users/6436945) |
-| Streamer | ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709) |
-| Commentator | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592) |
-| Designer | ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709) |
-| Referee | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_PH] [breadman](https://osu.ppy.sh/users/5886567), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [Inteleon](https://osu.ppy.sh/users/9665028), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709), ![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_PH] [Simon Yuusuke](https://osu.ppy.sh/users/7336035), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_CA] [TheHunter1](https://osu.ppy.sh/users/6496016) |
-| Statistician | ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344) |
+| Manager | ::{ flag=PH }:: [Deadpulse](https://osu.ppy.sh/users/8575527), ::{ flag=PH }:: [kristoffer09](https://osu.ppy.sh/users/3474344) |
+| Mappool selector | ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=GB }:: [NoSpace](https://osu.ppy.sh/users/10585285), ::{ flag=GB }:: [SacretSword](https://osu.ppy.sh/users/9821402), ::{ flag=DE }:: [Windows 10 Pro](https://osu.ppy.sh/users/7486592), ::{ flag=SG }:: [Zephyrlox](https://osu.ppy.sh/users/6436945) |
+| Streamer | ::{ flag=NL }:: [Mirai Subject](https://osu.ppy.sh/users/5639709) |
+| Commentator | ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=PH }:: [kristoffer09](https://osu.ppy.sh/users/3474344), ::{ flag=TR }:: [oralekin](https://osu.ppy.sh/users/7631823), ::{ flag=DE }:: [Windows 10 Pro](https://osu.ppy.sh/users/7486592) |
+| Designer | ::{ flag=NL }:: [Mirai Subject](https://osu.ppy.sh/users/5639709) |
+| Referee | ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=PH }:: [breadman](https://osu.ppy.sh/users/5886567), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=DE }:: [Inteleon](https://osu.ppy.sh/users/9665028), ::{ flag=TR }:: [oralekin](https://osu.ppy.sh/users/7631823), ::{ flag=NL }:: [Mirai Subject](https://osu.ppy.sh/users/5639709), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=PH }:: [Simon Yuusuke](https://osu.ppy.sh/users/7336035), ::{ flag=CA }:: [Takiaz](https://osu.ppy.sh/users/11177233), ::{ flag=CA }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
+| Statistician | ::{ flag=PH }:: [kristoffer09](https://osu.ppy.sh/users/3474344) |
 
 ## Links
 
@@ -547,13 +547,3 @@ The schedule will be released 6 days in advance of the first match, usually the 
 - A reschedule will only be approved if submitted 24 hours in advance.
 - DM the team captain for the reschedule and figure out a new date and time with them
 - In the reschedule channel tag Deadpulse or Kristoffer09 with a screenshot of the conversation so they can update the schedule.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

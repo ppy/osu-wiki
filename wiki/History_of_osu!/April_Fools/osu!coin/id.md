@@ -12,7 +12,7 @@ tags:
 
 ## Rilis
 
-[Dalam pernyataan resminya](https://osu.ppy.sh/home/news/2015-03-31-osucoins), pihak osu! menjelaskan bahwa osu!coin sengaja diperkenalkan untuk membiayai pesawat jet pribadi milik ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) karena sistem monetisasi yang sebelumnya berlaku sudah tidak lagi dipandang menguntungkan. Pernyataan tersebut turut menjelaskan bahwa masing-masing pemain akan diberikan modal 10 osu!coin saat mereka pertama kali mendaftar dan 10 osu!coin tambahan setiap harinya. Di samping itu, para pemain lama juga akan mendapatkan dua osu!coin tambahan sebagai bonus. Para pemain akan dapat memperoleh osu!coin tambahan dengan mencapai [combo-combo](/wiki/Gameplay/Combo_(score_multiplier)) tertentu, di mana satu osu!coin akan diberikan per 100x combo yang didapat.
+[Dalam pernyataan resminya](https://osu.ppy.sh/home/news/2015-03-31-osucoins), pihak osu! menjelaskan bahwa osu!coin sengaja diperkenalkan untuk membiayai pesawat jet pribadi milik ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) karena sistem monetisasi yang sebelumnya berlaku sudah tidak lagi dipandang menguntungkan. Pernyataan tersebut turut menjelaskan bahwa masing-masing pemain akan diberikan modal 10 osu!coin saat mereka pertama kali mendaftar dan 10 osu!coin tambahan setiap harinya. Di samping itu, para pemain lama juga akan mendapatkan dua osu!coin tambahan sebagai bonus. Para pemain akan dapat memperoleh osu!coin tambahan dengan mencapai [combo-combo](/wiki/Gameplay/Combo_(score_multiplier)) tertentu, di mana satu osu!coin akan diberikan per 100x combo yang didapat.
 
 ![](img/earning-osu!coin.jpg "Contoh pemain yang mendapatkan osu!coin pada setiap 100x combo")
 
@@ -39,5 +39,3 @@ Pembaruan ini diterima dengan baik oleh pemain osu! sebagai perubahan suasana da
 
 - osu!academy memperkenalkan osu!coins: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
 - peppy mengumumkan osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"

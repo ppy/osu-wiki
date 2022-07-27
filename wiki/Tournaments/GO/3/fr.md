@@ -9,7 +9,7 @@ tags:
 
 ![GO 3 Logo](img/logo.png)
 
-Le **Game_Osu Tourney 3** (***GO 3***) était un tournoi international 1v1 sur osu! sponsorisé par [Logitech](https://www.logitech.com/) et organisé par ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) et ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), supporté par ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702). Il s'agit de sa troisième édition.
+Le **Game_Osu Tourney 3** (***GO 3***) était un tournoi international 1v1 sur osu! sponsorisé par [Logitech](https://www.logitech.com/) et organisé par ::{ flag=FR }:: [0xy](https://osu.ppy.sh/users/9239673) et ::{ flag=FR }:: [Kaanibaru](https://osu.ppy.sh/users/3117824), supporté par ::{ flag=FR }:: [Sardoche](https://osu.ppy.sh/users/4383702). Il s'agit de sa troisième édition.
 
 ## Dates du tournoi
 
@@ -42,18 +42,18 @@ La Game_Osu Tourney 3 était gérée par différents membres de la communauté, 
 
 | Poste | Membre(s) |
 | :-- | :-- |
-| Organisateur | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824) |
-| Administrateurs | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kynan](https://osu.ppy.sh/users/1093361), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Sélectionneur de beatmap | ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [Dj Takaa](https://osu.ppy.sh/users/9183130), ![][flag_FR] [Ayzer](https://osu.ppy.sh/users/6123512), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586), ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) |
-| Designer | ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) |
-| Streamers | ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_CA] [kymotsujason](https://osu.ppy.sh/users/2541804), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) |
-| Commentateurs | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987), ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673), ![][flag_FR] [Sardoche](https://osu.ppy.sh/users/4383702), ![][flag_FR] [Kynan](https://osu.ppy.sh/users/1093361), ![][flag_FR] [Kaanibaru](https://osu.ppy.sh/users/3117824), ![][flag_FR] [IIFirenII](https://osu.ppy.sh/users/1984236), ![][flag_FR] [Battquif](https://osu.ppy.sh/users/2389333), ![][flag_FR] [Elysion](https://osu.ppy.sh/users/106269), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_US] [BossG4m3r](https://osu.ppy.sh/users/7677585), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955) |
-| Arbitres | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Tigre de poche](https://osu.ppy.sh/users/5410201), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_PL] [P a t r i c k](https://osu.ppy.sh/users/6814521), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_US] [R-2E-054](https://osu.ppy.sh/users/3625265), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_MA] [clorox_1g](https://osu.ppy.sh/users/9702728), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_DE] [NKJ](https://osu.ppy.sh/users/9675790), ![][flag_DE] [AFKBRB](https://osu.ppy.sh/users/8449331) |
-| Statisticien | ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859) |
-| Développeurs | ![][flag_FR] [Loazo](https://osu.ppy.sh/users/3925586), ![][flag_SE] [AntoN](https://osu.ppy.sh/users/2538562), ![][flag_FR] [0xy](https://osu.ppy.sh/users/9239673) |
-| Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Organisateur | ::{ flag=FR }:: [0xy](https://osu.ppy.sh/users/9239673), ::{ flag=FR }:: [Kaanibaru](https://osu.ppy.sh/users/3117824) |
+| Administrateurs | ::{ flag=FR }:: [0xy](https://osu.ppy.sh/users/9239673), ::{ flag=FR }:: [Kaanibaru](https://osu.ppy.sh/users/3117824), ::{ flag=FR }:: [Sardoche](https://osu.ppy.sh/users/4383702), ::{ flag=FR }:: [Kynan](https://osu.ppy.sh/users/1093361), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811) |
+| Sélectionneur de beatmap | ::{ flag=FR }:: [Kaanibaru](https://osu.ppy.sh/users/3117824), ::{ flag=FR }:: [Dj Takaa](https://osu.ppy.sh/users/9183130), ::{ flag=FR }:: [Ayzer](https://osu.ppy.sh/users/6123512), ::{ flag=FR }:: [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ::{ flag=CA }:: [Septembre](https://osu.ppy.sh/users/3666816), ::{ flag=FR }:: [Loazo](https://osu.ppy.sh/users/3925586), ::{ flag=FR }:: [Halgoh](https://osu.ppy.sh/users/4109923) |
+| Designer | ::{ flag=FR }:: [0xy](https://osu.ppy.sh/users/9239673) |
+| Streamers | ::{ flag=FR }:: [Sardoche](https://osu.ppy.sh/users/4383702), ::{ flag=FR }:: [Kaanibaru](https://osu.ppy.sh/users/3117824), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=CA }:: [kymotsujason](https://osu.ppy.sh/users/2541804), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519) |
+| Commentateurs | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=FR }:: [-raizen-](https://osu.ppy.sh/users/3872987), ::{ flag=FR }:: [0xy](https://osu.ppy.sh/users/9239673), ::{ flag=FR }:: [Sardoche](https://osu.ppy.sh/users/4383702), ::{ flag=FR }:: [Kynan](https://osu.ppy.sh/users/1093361), ::{ flag=FR }:: [Kaanibaru](https://osu.ppy.sh/users/3117824), ::{ flag=FR }:: [IIFirenII](https://osu.ppy.sh/users/1984236), ::{ flag=FR }:: [Battquif](https://osu.ppy.sh/users/2389333), ::{ flag=FR }:: [Elysion](https://osu.ppy.sh/users/106269), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [BeasttrollMC](https://osu.ppy.sh/users/3171691), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=FR }:: [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ::{ flag=US }:: [BossG4m3r](https://osu.ppy.sh/users/7677585), ::{ flag=CH }:: [TheLamaHD](https://osu.ppy.sh/users/5297955) |
+| Arbitres | ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [Kebab De Poche](https://osu.ppy.sh/users/6467693), ::{ flag=FR }:: [Tigzick](https://osu.ppy.sh/users/6745742), ::{ flag=FR }:: [Tigre de poche](https://osu.ppy.sh/users/5410201), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521), ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=PL }:: [Kondi](https://osu.ppy.sh/users/7382321), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=US }:: [Raoul](https://osu.ppy.sh/users/9924405), ::{ flag=US }:: [Cindelluna](https://osu.ppy.sh/users/3039847), ::{ flag=AU }:: [Cactie](https://osu.ppy.sh/users/5592409), ::{ flag=US }:: [R-2E-054](https://osu.ppy.sh/users/3625265), ::{ flag=AU }:: [PingLaw](https://osu.ppy.sh/users/5401523), ::{ flag=RU }:: [Xassie](https://osu.ppy.sh/users/7958911), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=MA }:: [clorox_1g](https://osu.ppy.sh/users/9702728), ::{ flag=US }:: [Tuco](https://osu.ppy.sh/users/11706350), ::{ flag=DE }:: [NKJ](https://osu.ppy.sh/users/9675790), ::{ flag=DE }:: [AFKBRB](https://osu.ppy.sh/users/8449331) |
+| Statisticien | ::{ flag=AU }:: [nonamegohst](https://osu.ppy.sh/users/4384859) |
+| Développeurs | ::{ flag=FR }:: [Loazo](https://osu.ppy.sh/users/3925586), ::{ flag=SE }:: [AntoN](https://osu.ppy.sh/users/2538562), ::{ flag=FR }:: [0xy](https://osu.ppy.sh/users/9239673) |
+| Wiki | ::{ flag=ID }:: [Naruk](https://osu.ppy.sh/users/7100002) |
 
-*Un grand merci à ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581), ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_DE] [chrisny](https://osu.ppy.sh/users/3119955), ![][flag_FR] [Elysion](https://osu.ppy.sh/users/106269), ![][flag_US] [Gayzmcgee](https://osu.ppy.sh/users/1419095), ![][flag_US] [Informous](https://osu.ppy.sh/users/4734244), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [kymotsujason](https://osu.ppy.sh/users/2541804), ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), et ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568).*
+*Un grand merci à ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581), ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=DE }:: [chrisny](https://osu.ppy.sh/users/3119955), ::{ flag=FR }:: [Elysion](https://osu.ppy.sh/users/106269), ::{ flag=US }:: [Gayzmcgee](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [Informous](https://osu.ppy.sh/users/4734244), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=CA }:: [kymotsujason](https://osu.ppy.sh/users/2541804), ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), et ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568).*
 
 ## Liens
 
@@ -74,70 +74,70 @@ La Game_Osu Tourney 3 était gérée par différents membres de la communauté, 
 
 | Classement BWS | Joueur |
 | :-: | :-- |
-| #1 | ![][flag_KR] [WalkingTuna](https://osu.ppy.sh/users/9224078) |
-| #1.38 | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
-| #1.57 | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) |
-| #3.13 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) |
-| #4.09 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| #5.54 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
-| #5.74 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) |
-| #6.19 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
-| #6.91 | ![][flag_CA] [RyuK](https://osu.ppy.sh/users/6304246) |
-| #10.67 | ![][flag_DE] [Dustice](https://osu.ppy.sh/users/754565) |
-| #14.42 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) |
-| #18 | ![][flag_JP] [Varvalian](https://osu.ppy.sh/users/3345902) |
-| #20.37 | ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373) |
-| #22.17 | ![][flag_US] [lain](https://osu.ppy.sh/users/1650010) |
-| #23.83 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
-| #30.34 | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) |
-| #32 | ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691) |
-| #36.17 | ![][flag_PL] [Wakson](https://osu.ppy.sh/users/3048222) |
-| #38.08 | ![][flag_PL] [Wilchq](https://osu.ppy.sh/users/2021758) |
-| #43.93 | ![][flag_PL] [Piggey](https://osu.ppy.sh/users/4163860) |
-| #47.81 | ![][flag_PL] [MrBooM](https://osu.ppy.sh/users/1837989) |
-| #48.60 | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
-| #50.72 | ![][flag_US] [kip](https://osu.ppy.sh/users/3043603) |
-| #52.66 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
-| #53 | ![][flag_NL] [Viveliam](https://osu.ppy.sh/users/3506793) |
-| #57.69 | ![][flag_IT] [Koba](https://osu.ppy.sh/users/4448118) |
-| #61.20 | ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) |
-| #63.53 | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) |
-| #66 | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
-| #68.70 | ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262) |
-| #68.86 | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) |
-| #82 | ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609) |
-| #84 | ![][flag_PL] [Mastasz](https://osu.ppy.sh/users/1876565) |
-| #101.97 | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
-| #112.27 | ![][flag_DE] [imagaK](https://osu.ppy.sh/users/2022445) |
-| #120 | ![][flag_IT] [-Syncro](https://osu.ppy.sh/users/4338923) |
-| #125 | ![][flag_US] [Cappy](https://osu.ppy.sh/users/6668666) |
-| #145 | ![][flag_PR] [Unexpected](https://osu.ppy.sh/users/4495889) |
-| #145 | ![][flag_US] [Fangzy](https://osu.ppy.sh/users/4497691) |
-| #148.23 | ![][flag_HK] [DenierNezzar](https://osu.ppy.sh/users/126144) |
-| #156 | ![][flag_KR] [Ansol](https://osu.ppy.sh/users/7302146) |
-| #156.89 | ![][flag_GB] [TopSp1n](https://osu.ppy.sh/users/7657761) |
-| #161 | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) |
-| #166.51 | ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987) |
-| #166.57 | ![][flag_US] [he rack](https://osu.ppy.sh/users/2644828) |
-| #207.12 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
-| #220 | ![][flag_RO] [Chamosiala](https://osu.ppy.sh/users/1469892) |
-| #244 | ![][flag_RU] [Aden](https://osu.ppy.sh/users/4342841) |
-| #253 | ![][flag_NL] [Lilily](https://osu.ppy.sh/users/6502403) |
-| #253.42 | ![][flag_GR] [Riven](https://osu.ppy.sh/users/3638005) |
-| #255 | ![][flag_CA] [trev rasher](https://osu.ppy.sh/users/2694475) |
-| #289 | ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453) |
-| #308 | ![][flag_US] [Woey](https://osu.ppy.sh/users/3792472) |
-| #375.61 | ![][flag_PL] [AstroFP](https://osu.ppy.sh/users/6661913) |
-| #411.97 | ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950) |
-| #433 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
-| #494 | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) |
-| #534 | ![][flag_US] [not very smart](https://osu.ppy.sh/users/3696423) |
-| #548 | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
-| #569.62 | ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580) |
-| #700 | ![][flag_US] [Tj7223](https://osu.ppy.sh/users/10210668) |
-| #737 | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) |
-| #766 | ![][flag_MX] [Andros](https://osu.ppy.sh/users/9072586) |
-| #972.71 | ![][flag_NL] [GladiOol](https://osu.ppy.sh/users/23326) |
+| #1 | ::{ flag=KR }:: [WalkingTuna](https://osu.ppy.sh/users/9224078) |
+| #1.38 | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315) |
+| #1.57 | ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) |
+| #3.13 | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445) |
+| #4.09 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| #5.54 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
+| #5.74 | ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286) |
+| #6.19 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) |
+| #6.91 | ::{ flag=CA }:: [RyuK](https://osu.ppy.sh/users/6304246) |
+| #10.67 | ::{ flag=DE }:: [Dustice](https://osu.ppy.sh/users/754565) |
+| #14.42 | ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828) |
+| #18 | ::{ flag=JP }:: [Varvalian](https://osu.ppy.sh/users/3345902) |
+| #20.37 | ::{ flag=GB }:: [Spare](https://osu.ppy.sh/users/2204373) |
+| #22.17 | ::{ flag=US }:: [lain](https://osu.ppy.sh/users/1650010) |
+| #23.83 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
+| #30.34 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) |
+| #32 | ::{ flag=US }:: [BeasttrollMC](https://osu.ppy.sh/users/3171691) |
+| #36.17 | ::{ flag=PL }:: [Wakson](https://osu.ppy.sh/users/3048222) |
+| #38.08 | ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758) |
+| #43.93 | ::{ flag=PL }:: [Piggey](https://osu.ppy.sh/users/4163860) |
+| #47.81 | ::{ flag=PL }:: [MrBooM](https://osu.ppy.sh/users/1837989) |
+| #48.60 | ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683) |
+| #50.72 | ::{ flag=US }:: [kip](https://osu.ppy.sh/users/3043603) |
+| #52.66 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) |
+| #53 | ::{ flag=NL }:: [Viveliam](https://osu.ppy.sh/users/3506793) |
+| #57.69 | ::{ flag=IT }:: [Koba](https://osu.ppy.sh/users/4448118) |
+| #61.20 | ::{ flag=IL }:: [Xilver15](https://osu.ppy.sh/users/3099689) |
+| #63.53 | ::{ flag=FR }:: [Flaven](https://osu.ppy.sh/users/3213239) |
+| #66 | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
+| #68.70 | ::{ flag=GB }:: [-Roxas](https://osu.ppy.sh/users/1986262) |
+| #68.86 | ::{ flag=FR }:: [NerO](https://osu.ppy.sh/users/1545031) |
+| #82 | ::{ flag=SG }:: [Demonical](https://osu.ppy.sh/users/5447609) |
+| #84 | ::{ flag=PL }:: [Mastasz](https://osu.ppy.sh/users/1876565) |
+| #101.97 | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) |
+| #112.27 | ::{ flag=DE }:: [imagaK](https://osu.ppy.sh/users/2022445) |
+| #120 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) |
+| #125 | ::{ flag=US }:: [Cappy](https://osu.ppy.sh/users/6668666) |
+| #145 | ::{ flag=PR }:: [Unexpected](https://osu.ppy.sh/users/4495889) |
+| #145 | ::{ flag=US }:: [Fangzy](https://osu.ppy.sh/users/4497691) |
+| #148.23 | ::{ flag=HK }:: [DenierNezzar](https://osu.ppy.sh/users/126144) |
+| #156 | ::{ flag=KR }:: [Ansol](https://osu.ppy.sh/users/7302146) |
+| #156.89 | ::{ flag=GB }:: [TopSp1n](https://osu.ppy.sh/users/7657761) |
+| #161 | ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) |
+| #166.51 | ::{ flag=FR }:: [-raizen-](https://osu.ppy.sh/users/3872987) |
+| #166.57 | ::{ flag=US }:: [he rack](https://osu.ppy.sh/users/2644828) |
+| #207.12 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
+| #220 | ::{ flag=RO }:: [Chamosiala](https://osu.ppy.sh/users/1469892) |
+| #244 | ::{ flag=RU }:: [Aden](https://osu.ppy.sh/users/4342841) |
+| #253 | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) |
+| #253.42 | ::{ flag=GR }:: [Riven](https://osu.ppy.sh/users/3638005) |
+| #255 | ::{ flag=CA }:: [trev rasher](https://osu.ppy.sh/users/2694475) |
+| #289 | ::{ flag=LV }:: [waywern2012](https://osu.ppy.sh/users/5870453) |
+| #308 | ::{ flag=US }:: [Woey](https://osu.ppy.sh/users/3792472) |
+| #375.61 | ::{ flag=PL }:: [AstroFP](https://osu.ppy.sh/users/6661913) |
+| #411.97 | ::{ flag=SE }:: [Reedkatt](https://osu.ppy.sh/users/8335950) |
+| #433 | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) |
+| #494 | ::{ flag=PL }:: [\_demo](https://osu.ppy.sh/users/3556891) |
+| #534 | ::{ flag=US }:: [not very smart](https://osu.ppy.sh/users/3696423) |
+| #548 | ::{ flag=AU }:: [nickerdead3](https://osu.ppy.sh/users/4999984) |
+| #569.62 | ::{ flag=AU }:: [GranDSenpai](https://osu.ppy.sh/users/3997580) |
+| #700 | ::{ flag=US }:: [Tj7223](https://osu.ppy.sh/users/10210668) |
+| #737 | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/3995630) |
+| #766 | ::{ flag=MX }:: [Andros](https://osu.ppy.sh/users/9072586) |
+| #972.71 | ::{ flag=NL }:: [GladiOol](https://osu.ppy.sh/users/23326) |
 
 ## Podium
 
@@ -145,11 +145,11 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
-| *4ème place* | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
-| *5ème place* | ![][flag_HK] [DenierNezzar](https://osu.ppy.sh/users/126144) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315) |
+| *4ème place* | ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683) |
+| *5ème place* | ::{ flag=HK }:: [DenierNezzar](https://osu.ppy.sh/users/126144) |
 
 ## Liste des beatmaps
 
@@ -365,217 +365,217 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Dimanche, 28/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Bubbleman ![][flag_GB] | 5 | **7** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51375022) |
-| **Vaxei** ![][flag_US] | **7** | 4 | ![][flag_GB] Bubbleman | [#1](https://osu.ppy.sh/community/matches/51376894) |
+| Bubbleman ::{ flag=GB }:: | 5 | **7** | ::{ flag=US }:: **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51375022) |
+| **Vaxei** ::{ flag=US }:: | **7** | 4 | ::{ flag=GB }:: Bubbleman | [#1](https://osu.ppy.sh/community/matches/51376894) |
 
 ### Finales
 
 | Samedi, 27/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| DenierNezzar ![][flag_HK] | 5 | **7** | ![][flag_FR] **Musty** | [#1](https://osu.ppy.sh/community/matches/51336254) |
-| **Bubbleman** ![][flag_GB] | **7** | 6 | ![][flag_US] idke | [#1](https://osu.ppy.sh/community/matches/51340598) |
-| WubWoofWolf ![][flag_PL] | 3 | **7** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51345216) |
-| **Vaxei** ![][flag_US] | **7** | 0 | ![][flag_FR] Musty | [#1](https://osu.ppy.sh/community/matches/51347082) |
+| DenierNezzar ::{ flag=HK }:: | 5 | **7** | ::{ flag=FR }:: **Musty** | [#1](https://osu.ppy.sh/community/matches/51336254) |
+| **Bubbleman** ::{ flag=GB }:: | **7** | 6 | ::{ flag=US }:: idke | [#1](https://osu.ppy.sh/community/matches/51340598) |
+| WubWoofWolf ::{ flag=PL }:: | 3 | **7** | ::{ flag=US }:: **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51345216) |
+| **Vaxei** ::{ flag=US }:: | **7** | 0 | ::{ flag=FR }:: Musty | [#1](https://osu.ppy.sh/community/matches/51347082) |
 
 | Dimanche, 28/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| idke ![][flag_US] | 3 | **7** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51371651) |
+| idke ::{ flag=US }:: | 3 | **7** | ::{ flag=US }:: **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51371651) |
 
 | Lundi, 06/05/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| WubWoofWolf ![][flag_PL] | 0 | **7** | ![][flag_HK] **DenierNezzar** | -win by default- |
+| WubWoofWolf ::{ flag=PL }:: | 0 | **7** | ::{ flag=HK }:: **DenierNezzar** | -win by default- |
 
 ### Demi-finales
 
 | Vendredi, 19/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Koba ![][flag_IT] | 3 | **6** | ![][flag_US] **Apraxia** | [#1](https://osu.ppy.sh/community/matches/51131272) |
+| Koba ::{ flag=IT }:: | 3 | **6** | ::{ flag=US }:: **Apraxia** | [#1](https://osu.ppy.sh/community/matches/51131272) |
 
 | Samedi, 20/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **WalkingTuna** ![][flag_KR] | **6** | 5 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/51155889) |
-| **Musty** ![][flag_FR] | **6** | 2 | ![][flag_FR] NerO | [#1](https://osu.ppy.sh/community/matches/51159057) |
+| **WalkingTuna** ::{ flag=KR }:: | **6** | 5 | ::{ flag=PL }:: MrBooM | [#1](https://osu.ppy.sh/community/matches/51155889) |
+| **Musty** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: NerO | [#1](https://osu.ppy.sh/community/matches/51159057) |
 
 | Dimanche, 21/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| DigitalHypno ![][flag_US] | 0 | **6** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51170756) |
-| **idke** ![][flag_US] | **6** | 1 | ![][flag_HK] DenierNezzar | [#1](https://osu.ppy.sh/community/matches/51172579) |
-| WalkingTuna ![][flag_KR] | 0 | **6** | ![][flag_FR] **Musty** | -win by default- |
-| Apraxia ![][flag_US] | 2 | **6** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51193033) |
+| DigitalHypno ::{ flag=US }:: | 0 | **6** | ::{ flag=US }:: **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51170756) |
+| **idke** ::{ flag=US }:: | **6** | 1 | ::{ flag=HK }:: DenierNezzar | [#1](https://osu.ppy.sh/community/matches/51172579) |
+| WalkingTuna ::{ flag=KR }:: | 0 | **6** | ::{ flag=FR }:: **Musty** | -win by default- |
+| Apraxia ::{ flag=US }:: | 2 | **6** | ::{ flag=US }:: **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51193033) |
 
 | Mercredi, 24/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| WubWoofWolf ![][flag_PL] | 5 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/51261158) |
+| WubWoofWolf ::{ flag=PL }:: | 5 | **6** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/51261158) |
 
 ### Quarts-de-finale
 
 | Mardi, 11/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| WalkingTuna ![][flag_KR] | 2 | **6** | ![][flag_PL] **WubWoofWolf** | [#1](https://osu.ppy.sh/community/matches/50914466) |
+| WalkingTuna ::{ flag=KR }:: | 2 | **6** | ::{ flag=PL }:: **WubWoofWolf** | [#1](https://osu.ppy.sh/community/matches/50914466) |
 
 | Samedi, 13/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Apraxia** ![][flag_US] | **6** | 3 | ![][flag_RO] Chamosiala | [#1](https://osu.ppy.sh/community/matches/50972880) |
-| trev rasher ![][flag_CA] | 0 | **6** | ![][flag_PL] **Mastasz** | -win by default- |
-| **Doomsday** ![][flag_GB] | **6** | 0 | ![][flag_RU] Aden | -win by default- |
-| **Vaxei** ![][flag_US] | **6** | 4 | ![][flag_DE] Dustice | [#1](https://osu.ppy.sh/community/matches/50976614) |
-| **-Roxas** ![][flag_GB] | **6** | 4 | ![][flag_IL] Xilver15 | [#1](https://osu.ppy.sh/community/matches/50978684) |
-| **MrBooM** ![][flag_PL] | **6** | 0 | ![][flag_FR] ThePooN | -win by default- |
-| **RyuK** ![][flag_CA] | **6** | 0 | ![][flag_SG] Demonical | -win by default- |
+| **Apraxia** ::{ flag=US }:: | **6** | 3 | ::{ flag=RO }:: Chamosiala | [#1](https://osu.ppy.sh/community/matches/50972880) |
+| trev rasher ::{ flag=CA }:: | 0 | **6** | ::{ flag=PL }:: **Mastasz** | -win by default- |
+| **Doomsday** ::{ flag=GB }:: | **6** | 0 | ::{ flag=RU }:: Aden | -win by default- |
+| **Vaxei** ::{ flag=US }:: | **6** | 4 | ::{ flag=DE }:: Dustice | [#1](https://osu.ppy.sh/community/matches/50976614) |
+| **-Roxas** ::{ flag=GB }:: | **6** | 4 | ::{ flag=IL }:: Xilver15 | [#1](https://osu.ppy.sh/community/matches/50978684) |
+| **MrBooM** ::{ flag=PL }:: | **6** | 0 | ::{ flag=FR }:: ThePooN | -win by default- |
+| **RyuK** ::{ flag=CA }:: | **6** | 0 | ::{ flag=SG }:: Demonical | -win by default- |
 
 | Dimanche, 14/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| DigitalHypno ![][flag_US] | 2 | **6** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50997691) |
-| -raizen- ![][flag_FR] | 1 | **6** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50999328) |
-| RyuK ![][flag_CA] | 0 | **6** | ![][flag_PL] **MrBooM** | -win by default- |
-| **Vaxei** ![][flag_US] | **6** | 0 | ![][flag_GB] Doomsday | [#1](https://osu.ppy.sh/community/matches/51004005) |
-| Musty ![][flag_FR] | 0 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/51005874) |
-| **idke** ![][flag_US] | **6** | 0 | ![][flag_IT] Koba | [#1](https://osu.ppy.sh/community/matches/51007580) |
-| Mastasz ![][flag_PL] | 0 | **6** | ![][flag_US] **Apraxia** | [#1](https://osu.ppy.sh/community/matches/51007543) |
+| DigitalHypno ::{ flag=US }:: | 2 | **6** | ::{ flag=HK }:: **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50997691) |
+| -raizen- ::{ flag=FR }:: | 1 | **6** | ::{ flag=FR }:: **NerO** | [#1](https://osu.ppy.sh/community/matches/50999328) |
+| RyuK ::{ flag=CA }:: | 0 | **6** | ::{ flag=PL }:: **MrBooM** | -win by default- |
+| **Vaxei** ::{ flag=US }:: | **6** | 0 | ::{ flag=GB }:: Doomsday | [#1](https://osu.ppy.sh/community/matches/51004005) |
+| Musty ::{ flag=FR }:: | 0 | **6** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/51005874) |
+| **idke** ::{ flag=US }:: | **6** | 0 | ::{ flag=IT }:: Koba | [#1](https://osu.ppy.sh/community/matches/51007580) |
+| Mastasz ::{ flag=PL }:: | 0 | **6** | ::{ flag=US }:: **Apraxia** | [#1](https://osu.ppy.sh/community/matches/51007543) |
 
 | Lundi, 15/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| -Roxas ![][flag_GB] | 5 | **6** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/51031676) |
+| -Roxas ::{ flag=GB }:: | 5 | **6** | ::{ flag=FR }:: **NerO** | [#1](https://osu.ppy.sh/community/matches/51031676) |
 
 ### 8èmes de finale
 
 | Jeudi, 04/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Apraxia ![][flag_US] | 3 | **5** | ![][flag_FR] **Musty** | [#1](https://osu.ppy.sh/community/matches/50754987) |
+| Apraxia ::{ flag=US }:: | 3 | **5** | ::{ flag=FR }:: **Musty** | [#1](https://osu.ppy.sh/community/matches/50754987) |
 
 | Vendredi, 05/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Vaxei ![][flag_US] | 3 | **5** | ![][flag_PL] **WubWoofWolf** | [#1](https://osu.ppy.sh/community/matches/50771250) |
-| -Roxas ![][flag_GB] | 3 | **5** | ![][flag_IT] **Koba** | [#1](https://osu.ppy.sh/community/matches/50772551) |
-| fieryrage ![][flag_US] | 1 | **5** | ![][flag_NL] **Viveliam** | [#1](https://osu.ppy.sh/community/matches/50776297) |
+| Vaxei ::{ flag=US }:: | 3 | **5** | ::{ flag=PL }:: **WubWoofWolf** | [#1](https://osu.ppy.sh/community/matches/50771250) |
+| -Roxas ::{ flag=GB }:: | 3 | **5** | ::{ flag=IT }:: **Koba** | [#1](https://osu.ppy.sh/community/matches/50772551) |
+| fieryrage ::{ flag=US }:: | 1 | **5** | ::{ flag=NL }:: **Viveliam** | [#1](https://osu.ppy.sh/community/matches/50776297) |
 
 | Samedi, 06/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Varvalian** ![][flag_JP] | **5** | 0 | ![][flag_PR] Unexpected | [#1](https://osu.ppy.sh/community/matches/50786166) |
-| Ansol ![][flag_KR] | 3 | **5** | ![][flag_MY] **Rampax** | [#1](https://osu.ppy.sh/community/matches/50790357) |
-| Xilver15 ![][flag_IL] | **5** | 1 | ![][flag_ID] Skydiver | [#1](https://osu.ppy.sh/community/matches/50793614) |
-| **Jordan The Bear** ![][flag_AU] | **5** | 3 | ![][flag_PL] AstroFP | [#1](https://osu.ppy.sh/community/matches/50795260) |
-| **Dumii** ![][flag_AU] | **5** | 3 | ![][flag_ID] Rexeez | [#1](https://osu.ppy.sh/community/matches/50795407) |
-| **Dustice** ![][flag_DE] | **5** | 1 | ![][flag_GR] Riven | [#1](https://osu.ppy.sh/community/matches/50797026) |
-| **Chamosiala** ![][flag_RO] | **5** | 4 | ![][flag_SE] Reedkatt | [#1](https://osu.ppy.sh/community/matches/50799823) |
-| **WalkingTuna** | **5** | 0 | ![][flag_GB] Doomsday | [#1](https://osu.ppy.sh/community/matches/50800493) |
-| **ThePooN** ![][flag_FR] | **5** | 2 | ![][flag_PL] \_demo | [#1](https://osu.ppy.sh/community/matches/50800491) |
-| **Demonical** ![][flag_SG] | **5** | 2 | ![][flag_US] BeasttrollMC | [#1](https://osu.ppy.sh/community/matches/50802621) |
-| **Mastasz** ![][flag_PL] | **5** | 4 | ![][flag_PL] Wakson | [#1](https://osu.ppy.sh/community/matches/50800640) |
-| **Spare** ![][flag_GB] | **5** | 4 | ![][flag_NL] GladiOol | [#1](https://osu.ppy.sh/community/matches/50802573) |
-| **Rafis** ![][flag_PL] | **5** | 3 | ![][flag_US] lain | [#1](https://osu.ppy.sh/community/matches/50804752) |
-| **Aden** ![][flag_RU] | **5** | 2 | ![][flag_US] Mathyu | [#1](https://osu.ppy.sh/community/matches/50808975) |
+| **Varvalian** ::{ flag=JP }:: | **5** | 0 | ::{ flag=PR }:: Unexpected | [#1](https://osu.ppy.sh/community/matches/50786166) |
+| Ansol ::{ flag=KR }:: | 3 | **5** | ::{ flag=MY }:: **Rampax** | [#1](https://osu.ppy.sh/community/matches/50790357) |
+| Xilver15 ::{ flag=IL }:: | **5** | 1 | ::{ flag=ID }:: Skydiver | [#1](https://osu.ppy.sh/community/matches/50793614) |
+| **Jordan The Bear** ::{ flag=AU }:: | **5** | 3 | ::{ flag=PL }:: AstroFP | [#1](https://osu.ppy.sh/community/matches/50795260) |
+| **Dumii** ::{ flag=AU }:: | **5** | 3 | ::{ flag=ID }:: Rexeez | [#1](https://osu.ppy.sh/community/matches/50795407) |
+| **Dustice** ::{ flag=DE }:: | **5** | 1 | ::{ flag=GR }:: Riven | [#1](https://osu.ppy.sh/community/matches/50797026) |
+| **Chamosiala** ::{ flag=RO }:: | **5** | 4 | ::{ flag=SE }:: Reedkatt | [#1](https://osu.ppy.sh/community/matches/50799823) |
+| **WalkingTuna** | **5** | 0 | ::{ flag=GB }:: Doomsday | [#1](https://osu.ppy.sh/community/matches/50800493) |
+| **ThePooN** ::{ flag=FR }:: | **5** | 2 | ::{ flag=PL }:: \_demo | [#1](https://osu.ppy.sh/community/matches/50800491) |
+| **Demonical** ::{ flag=SG }:: | **5** | 2 | ::{ flag=US }:: BeasttrollMC | [#1](https://osu.ppy.sh/community/matches/50802621) |
+| **Mastasz** ::{ flag=PL }:: | **5** | 4 | ::{ flag=PL }:: Wakson | [#1](https://osu.ppy.sh/community/matches/50800640) |
+| **Spare** ::{ flag=GB }:: | **5** | 4 | ::{ flag=NL }:: GladiOol | [#1](https://osu.ppy.sh/community/matches/50802573) |
+| **Rafis** ::{ flag=PL }:: | **5** | 3 | ::{ flag=US }:: lain | [#1](https://osu.ppy.sh/community/matches/50804752) |
+| **Aden** ::{ flag=RU }:: | **5** | 2 | ::{ flag=US }:: Mathyu | [#1](https://osu.ppy.sh/community/matches/50808975) |
 
 | Dimanche, 07/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| RyuK ![][flag_CA] | 2 | **5** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50819331) |
-| **DigitalHypno** ![][flag_US] | **5** | 4 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/50827776) |
-| **Demonical** ![][flag_SG] | **5** | 4 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/community/matches/50827536) |
-| Jordan The Bear ![][flag_AU] | 2 | **5** | ![][flag_FR] **ThePooN** | [#1](https://osu.ppy.sh/community/matches/50829029) |
-| **Chamosiala** ![][flag_RO] | **5** | 3 | ![][flag_AU] Dumii | [#1](https://osu.ppy.sh/community/matches/50829069) |
-| **-Syncro** ![][flag_IT] | **5** | 2 | ![][flag_NL] Lilily | [#1](https://osu.ppy.sh/community/matches/50829322) |
-| **Dustice** ![][flag_DE] | **5** | 3 | ![][flag_JP] Varvalian | [#1](https://osu.ppy.sh/community/matches/50832025) |
-| -Syncro ![][flag_IT] | 1 | **5** | ![][flag_IL] **Xilver15** | [#1](https://osu.ppy.sh/community/matches/50835257) |
-| Rafis ![][flag_PL] | 2 | **5** | ![][flag_RU] **Aden** | [#1](https://osu.ppy.sh/community/matches/50835231) |
-| he rack ![][flag_US] | 0 | **5** | ![][flag_FR] **NerO** | -win by default- |
-| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_CA] trev rasher | [#1](https://osu.ppy.sh/community/matches/50838578) |
-| Viveliam ![][flag_NL] | 4 | **5** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50838354) |
-| **idke** ![][flag_US] | **5** | 0 | ![][flag_FR] -raizen- | [#1](https://osu.ppy.sh/community/matches/50839786) |
+| RyuK ::{ flag=CA }:: | 2 | **5** | ::{ flag=HK }:: **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50819331) |
+| **DigitalHypno** ::{ flag=US }:: | **5** | 4 | ::{ flag=PL }:: MrBooM | [#1](https://osu.ppy.sh/community/matches/50827776) |
+| **Demonical** ::{ flag=SG }:: | **5** | 4 | ::{ flag=MY }:: Rampax | [#1](https://osu.ppy.sh/community/matches/50827536) |
+| Jordan The Bear ::{ flag=AU }:: | 2 | **5** | ::{ flag=FR }:: **ThePooN** | [#1](https://osu.ppy.sh/community/matches/50829029) |
+| **Chamosiala** ::{ flag=RO }:: | **5** | 3 | ::{ flag=AU }:: Dumii | [#1](https://osu.ppy.sh/community/matches/50829069) |
+| **-Syncro** ::{ flag=IT }:: | **5** | 2 | ::{ flag=NL }:: Lilily | [#1](https://osu.ppy.sh/community/matches/50829322) |
+| **Dustice** ::{ flag=DE }:: | **5** | 3 | ::{ flag=JP }:: Varvalian | [#1](https://osu.ppy.sh/community/matches/50832025) |
+| -Syncro ::{ flag=IT }:: | 1 | **5** | ::{ flag=IL }:: **Xilver15** | [#1](https://osu.ppy.sh/community/matches/50835257) |
+| Rafis ::{ flag=PL }:: | 2 | **5** | ::{ flag=RU }:: **Aden** | [#1](https://osu.ppy.sh/community/matches/50835231) |
+| he rack ::{ flag=US }:: | 0 | **5** | ::{ flag=FR }:: **NerO** | -win by default- |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 0 | ::{ flag=CA }:: trev rasher | [#1](https://osu.ppy.sh/community/matches/50838578) |
+| Viveliam ::{ flag=NL }:: | 4 | **5** | ::{ flag=FR }:: **NerO** | [#1](https://osu.ppy.sh/community/matches/50838354) |
+| **idke** ::{ flag=US }:: | **5** | 0 | ::{ flag=FR }:: -raizen- | [#1](https://osu.ppy.sh/community/matches/50839786) |
 
 | Lundi, 08/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Mastasz** ![][flag_PL] | **5** | 0 | ![][flag_GB] Spare | [#1](https://osu.ppy.sh/community/matches/50854223) |
+| **Mastasz** ::{ flag=PL }:: | **5** | 0 | ::{ flag=GB }:: Spare | [#1](https://osu.ppy.sh/community/matches/50854223) |
 
 ### 16èmes de finale
 
 | Mercredi, 27/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Spare ![][flag_GB] | 4 | **5** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50567799) |
+| Spare ::{ flag=GB }:: | 4 | **5** | ::{ flag=HK }:: **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50567799) |
 
 | Vendredi, 29/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Varvalian ![][flag_JP] | 4 | **5** | ![][flag_IT] **Koba** | [#1](https://osu.ppy.sh/community/matches/50607754) |
-| not very smart ![][flag_US] | 2 | **5** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50616124) |
+| Varvalian ::{ flag=JP }:: | 4 | **5** | ::{ flag=IT }:: **Koba** | [#1](https://osu.ppy.sh/community/matches/50607754) |
+| not very smart ::{ flag=US }:: | 2 | **5** | ::{ flag=FR }:: **NerO** | [#1](https://osu.ppy.sh/community/matches/50616124) |
 
 | Samedi, 30/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_SG] Demonical | [#1](https://osu.ppy.sh/community/matches/50636598) |
-| **FlyingTuna** ![][flag_KR] | **5** | 1 | ![][flag_US] fieryrage | [#1](https://osu.ppy.sh/community/matches/50638810) |
-| **Riven** ![][flag_GR] | **5** | 0 | ![][flag_GB] TopSp1n | -win by default- |
-| Dumii ![][flag_AU] | 1 | **5** | ![][flag_PL] **MrBooM** | [#1](https://osu.ppy.sh/community/matches/50638368) |
-| Tj7223 ![][flag_US] | 0 | **5** | ![][flag_ID] **Skydiver** | -win by default- |
-| **DigitalHypno** ![][flag_US] | **5** | 3 | ![][flag_RO] Chamosiala | [#1](https://osu.ppy.sh/community/matches/50641877) |
-| waywern2012 ![][flag_LV] | 1 | **5** | ![][flag_NL] **Viveliam** | [#1](https://osu.ppy.sh/community/matches/50641450) |
-| Dustice ![][flag_DE] | 1 | **5** | ![][flag_GB] **-Roxas** | [#1](https://osu.ppy.sh/community/matches/50643326) |
-| **AstroFP** ![][flag_PL] | **5** | 2 | ![][flag_US] Fangzy | [#1](https://osu.ppy.sh/community/matches/50645122) |
-| **BeasttrollMC** ![][flag_US] | **5** | 0 | ![][flag_PL] Piggey | -win by default- |
-| **RyuK** ![][flag_CA] | **5** | 2 | ![][flag_PL] Mastasz | [#1](https://osu.ppy.sh/community/matches/50648948) |
-| **Doomsday** ![][flag_GB] | **5** | 1 | ![][flag_US] he rack | [#1](https://osu.ppy.sh/community/matches/50649378) |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 1 | ::{ flag=SG }:: Demonical | [#1](https://osu.ppy.sh/community/matches/50636598) |
+| **FlyingTuna** ::{ flag=KR }:: | **5** | 1 | ::{ flag=US }:: fieryrage | [#1](https://osu.ppy.sh/community/matches/50638810) |
+| **Riven** ::{ flag=GR }:: | **5** | 0 | ::{ flag=GB }:: TopSp1n | -win by default- |
+| Dumii ::{ flag=AU }:: | 1 | **5** | ::{ flag=PL }:: **MrBooM** | [#1](https://osu.ppy.sh/community/matches/50638368) |
+| Tj7223 ::{ flag=US }:: | 0 | **5** | ::{ flag=ID }:: **Skydiver** | -win by default- |
+| **DigitalHypno** ::{ flag=US }:: | **5** | 3 | ::{ flag=RO }:: Chamosiala | [#1](https://osu.ppy.sh/community/matches/50641877) |
+| waywern2012 ::{ flag=LV }:: | 1 | **5** | ::{ flag=NL }:: **Viveliam** | [#1](https://osu.ppy.sh/community/matches/50641450) |
+| Dustice ::{ flag=DE }:: | 1 | **5** | ::{ flag=GB }:: **-Roxas** | [#1](https://osu.ppy.sh/community/matches/50643326) |
+| **AstroFP** ::{ flag=PL }:: | **5** | 2 | ::{ flag=US }:: Fangzy | [#1](https://osu.ppy.sh/community/matches/50645122) |
+| **BeasttrollMC** ::{ flag=US }:: | **5** | 0 | ::{ flag=PL }:: Piggey | -win by default- |
+| **RyuK** ::{ flag=CA }:: | **5** | 2 | ::{ flag=PL }:: Mastasz | [#1](https://osu.ppy.sh/community/matches/50648948) |
+| **Doomsday** ::{ flag=GB }:: | **5** | 1 | ::{ flag=US }:: he rack | [#1](https://osu.ppy.sh/community/matches/50649378) |
 
 | Dimanche, 31/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Apraxia** ![][flag_US] | **5** | 4 | ![][flag_AU] Jordan The Bear | [#1](https://osu.ppy.sh/community/matches/50655862) |
-| nickerdead3 ![][flag_AU] | 4 | **5** | ![][flag_US] **Mathyu** | [#1](https://osu.ppy.sh/community/matches/50657460) |
-| **trev rasher** ![][flag_CA] | **5** | 2 | ![][flag_KR] Ansol | [#1](https://osu.ppy.sh/community/matches/50657693) |
-| **Rampax** ![][flag_MY] | **5** | 3 | ![][flag_US] Woey | [#1](https://osu.ppy.sh/community/matches/50657765) |
-| ThePooN ![][flag_FR] | 3 | **5** | ![][flag_FR] **Musty** | [#1](https://osu.ppy.sh/community/matches/50664847) |
-| **Wakson** ![][flag_PL] | **5** | 3 | ![][flag_PL] Wilchq | [#1](https://osu.ppy.sh/community/matches/50666355) |
-| Aden ![][flag_RU] | 0 | **5** | ![][flag_FR] **-raizen-** | -win by default- |
-| **Vaxei** ![][flag_US] | **5** | 2 | ![][flag_IT] -Syncro | [#1](https://osu.ppy.sh/community/matches/50669935) |
-| GranDSenpai ![][flag_AU] | 3 | **5** | ![][flag_PR] **Unexpected** | [#1](https://osu.ppy.sh/community/matches/50672427) |
-| Andros ![][flag_MX] | 0 | **5** | ![][flag_NL] **GladiOol** | [#1](https://osu.ppy.sh/community/matches/50672903) |
-| **Reedkatt** ![][flag_SE] | **5** | 1 | ![][flag_US] Cappy | [#1](https://osu.ppy.sh/community/matches/50673816) |
-| **idke** ![][flag_US] | **5** | 3 | ![][flag_PL] Rafis | [#1](https://osu.ppy.sh/community/matches/50675420) |
-| **\_demo** ![][flag_PL] | **5** | 2 | ![][flag_DE] imagaK | [#1](https://osu.ppy.sh/community/matches/50673947) |
-| **Lilily** ![][flag_NL] | **5** | 0 | ![][flag_US] Im a fancy lad | -win by default- |
-| **lain** ![][flag_US] | **5** | 2 | ![][flag_US] kablaze | [#1](https://osu.ppy.sh/community/matches/50678470) |
+| **Apraxia** ::{ flag=US }:: | **5** | 4 | ::{ flag=AU }:: Jordan The Bear | [#1](https://osu.ppy.sh/community/matches/50655862) |
+| nickerdead3 ::{ flag=AU }:: | 4 | **5** | ::{ flag=US }:: **Mathyu** | [#1](https://osu.ppy.sh/community/matches/50657460) |
+| **trev rasher** ::{ flag=CA }:: | **5** | 2 | ::{ flag=KR }:: Ansol | [#1](https://osu.ppy.sh/community/matches/50657693) |
+| **Rampax** ::{ flag=MY }:: | **5** | 3 | ::{ flag=US }:: Woey | [#1](https://osu.ppy.sh/community/matches/50657765) |
+| ThePooN ::{ flag=FR }:: | 3 | **5** | ::{ flag=FR }:: **Musty** | [#1](https://osu.ppy.sh/community/matches/50664847) |
+| **Wakson** ::{ flag=PL }:: | **5** | 3 | ::{ flag=PL }:: Wilchq | [#1](https://osu.ppy.sh/community/matches/50666355) |
+| Aden ::{ flag=RU }:: | 0 | **5** | ::{ flag=FR }:: **-raizen-** | -win by default- |
+| **Vaxei** ::{ flag=US }:: | **5** | 2 | ::{ flag=IT }:: -Syncro | [#1](https://osu.ppy.sh/community/matches/50669935) |
+| GranDSenpai ::{ flag=AU }:: | 3 | **5** | ::{ flag=PR }:: **Unexpected** | [#1](https://osu.ppy.sh/community/matches/50672427) |
+| Andros ::{ flag=MX }:: | 0 | **5** | ::{ flag=NL }:: **GladiOol** | [#1](https://osu.ppy.sh/community/matches/50672903) |
+| **Reedkatt** ::{ flag=SE }:: | **5** | 1 | ::{ flag=US }:: Cappy | [#1](https://osu.ppy.sh/community/matches/50673816) |
+| **idke** ::{ flag=US }:: | **5** | 3 | ::{ flag=PL }:: Rafis | [#1](https://osu.ppy.sh/community/matches/50675420) |
+| **\_demo** ::{ flag=PL }:: | **5** | 2 | ::{ flag=DE }:: imagaK | [#1](https://osu.ppy.sh/community/matches/50673947) |
+| **Lilily** ::{ flag=NL }:: | **5** | 0 | ::{ flag=US }:: Im a fancy lad | -win by default- |
+| **lain** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: kablaze | [#1](https://osu.ppy.sh/community/matches/50678470) |
 
 | Lundi, 01/04/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **WubWoofWolf** ![][flag_PL] | **5** | 1 | ![][flag_IL] Xilver15 | [#1](https://osu.ppy.sh/community/matches/50690504) |
+| **WubWoofWolf** ::{ flag=PL }:: | **5** | 1 | ::{ flag=IL }:: Xilver15 | [#1](https://osu.ppy.sh/community/matches/50690504) |
 
 ### 32èmes de finale
 
 | Vendredi, 22/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **ThePooN** ![][flag_FR] | **4** | 1 | ![][flag_GR] Riven | [#1](https://osu.ppy.sh/community/matches/50446144) |
+| **ThePooN** ::{ flag=FR }:: | **4** | 1 | ::{ flag=GR }:: Riven | [#1](https://osu.ppy.sh/community/matches/50446144) |
 
 | Samedi, 23/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **DigitalHypno** ![][flag_US] | **4** | 3 | ![][flag_US] Tj7223 | [#1](https://osu.ppy.sh/community/matches/50460840) |
-| **RyuK** ![][flag_CA] | **4** | 0 | ![][flag_US] not very smart | [#1](https://osu.ppy.sh/community/matches/50461471) |
-| **Dumii** ![][flag_AU] | **4** | 0 | ![][flag_NL] Lilily | [#1](https://osu.ppy.sh/community/matches/50464680) |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_AU] nickerdead3 | [#1](https://osu.ppy.sh/community/matches/50465701) |
-| **Dustice** ![][flag_DE] | **4** | 0 | ![][flag_PL] \_demo | [#1](https://osu.ppy.sh/community/matches/50465853) |
-| Piggey ![][flag_PL] | 2 | **4** | ![][flag_FR] **-raizen-** | [#1](https://osu.ppy.sh/community/matches/50466668) |
-| Viveliam ![][flag_NL] | 3 | **4** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50466844) |
-| **WubWoofWolf** ![][flag_PL] | **4** | 0 | ![][flag_SE] Reedkatt | [#1](https://osu.ppy.sh/community/matches/50468369) |
-| **WalkingTuna** ![][flag_KR] | **4** | 1 | ![][flag_MX] Andros | [#1](https://osu.ppy.sh/community/matches/50468498) |
-| **idke** ![][flag_US] | **4** | 1 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/community/matches/50468362) |
-| **Varvalian** ![][flag_JP] | **4** | 2 | ![][flag_PL] AstroFP | [#1](https://osu.ppy.sh/community/matches/50470038) |
-| kablaze ![][flag_US] | 0 | 4 | ![][flag_KR] **Ansol** | -win by default- |
-| NerO ![][flag_FR] | 3 | **4** | ![][flag_PL] **Mastasz** | [#1](https://osu.ppy.sh/community/matches/50473464) |
-| **-Roxas** ![][flag_GB] | 4 | 0 | ![][flag_DE] imagaK | [#1](https://osu.ppy.sh/community/matches/50473547) |
-| **Chamosiala** ![][flag_RO] | **4** | 3 | ![][flag_ID] Skydiver | [#1](https://osu.ppy.sh/community/matches/50474450) |
-| Mathyu ![][flag_US] | 0 | **4** | ![][flag_SG] **Demonical** | -win by default- |
-| Wilchq ![][flag_PL] | 1 | **4** | ![][flag_US] **he rack** | [#1](https://osu.ppy.sh/community/matches/50476036) |
-| BeasttrollMC ![][flag_US] | 1 | **4** | ![][flag_RU] **Aden** | [#1](https://osu.ppy.sh/community/matches/50476954) |
-| **MrBooM** ![][flag_PL] | **4** | 2 | ![][flag_US] Im a fancy lad | [#1](https://osu.ppy.sh/community/matches/50477325) |
-| **Koba** ![][flag_IT] | **4** | 0 | ![][flag_US] Fangzy | [#1](https://osu.ppy.sh/community/matches/50479031) |
-| **Xilver15** ![][flag_IL] | **4** | 2 | ![][flag_US] Cappy | [#1](https://osu.ppy.sh/community/matches/50481035) |
-| Wakson ![][flag_PL] | 2 | **4** | ![][flag_GB] **Doomsday** | [#1](https://osu.ppy.sh/community/matches/50481037) |
-| GladiOol ![][flag_NL] | 1 | **4** | ![][flag_US] **fieryrage** | [#1](https://osu.ppy.sh/community/matches/50481010) |
-| **Apraxia** ![][flag_US] | **4** | 1 | ![][flag_AU] GranDSenpai | [#1](https://osu.ppy.sh/community/matches/50484488) |
+| **DigitalHypno** ::{ flag=US }:: | **4** | 3 | ::{ flag=US }:: Tj7223 | [#1](https://osu.ppy.sh/community/matches/50460840) |
+| **RyuK** ::{ flag=CA }:: | **4** | 0 | ::{ flag=US }:: not very smart | [#1](https://osu.ppy.sh/community/matches/50461471) |
+| **Dumii** ::{ flag=AU }:: | **4** | 0 | ::{ flag=NL }:: Lilily | [#1](https://osu.ppy.sh/community/matches/50464680) |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 0 | ::{ flag=AU }:: nickerdead3 | [#1](https://osu.ppy.sh/community/matches/50465701) |
+| **Dustice** ::{ flag=DE }:: | **4** | 0 | ::{ flag=PL }:: \_demo | [#1](https://osu.ppy.sh/community/matches/50465853) |
+| Piggey ::{ flag=PL }:: | 2 | **4** | ::{ flag=FR }:: **-raizen-** | [#1](https://osu.ppy.sh/community/matches/50466668) |
+| Viveliam ::{ flag=NL }:: | 3 | **4** | ::{ flag=HK }:: **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50466844) |
+| **WubWoofWolf** ::{ flag=PL }:: | **4** | 0 | ::{ flag=SE }:: Reedkatt | [#1](https://osu.ppy.sh/community/matches/50468369) |
+| **WalkingTuna** ::{ flag=KR }:: | **4** | 1 | ::{ flag=MX }:: Andros | [#1](https://osu.ppy.sh/community/matches/50468498) |
+| **idke** ::{ flag=US }:: | **4** | 1 | ::{ flag=MY }:: Rampax | [#1](https://osu.ppy.sh/community/matches/50468362) |
+| **Varvalian** ::{ flag=JP }:: | **4** | 2 | ::{ flag=PL }:: AstroFP | [#1](https://osu.ppy.sh/community/matches/50470038) |
+| kablaze ::{ flag=US }:: | 0 | 4 | ::{ flag=KR }:: **Ansol** | -win by default- |
+| NerO ::{ flag=FR }:: | 3 | **4** | ::{ flag=PL }:: **Mastasz** | [#1](https://osu.ppy.sh/community/matches/50473464) |
+| **-Roxas** ::{ flag=GB }:: | 4 | 0 | ::{ flag=DE }:: imagaK | [#1](https://osu.ppy.sh/community/matches/50473547) |
+| **Chamosiala** ::{ flag=RO }:: | **4** | 3 | ::{ flag=ID }:: Skydiver | [#1](https://osu.ppy.sh/community/matches/50474450) |
+| Mathyu ::{ flag=US }:: | 0 | **4** | ::{ flag=SG }:: **Demonical** | -win by default- |
+| Wilchq ::{ flag=PL }:: | 1 | **4** | ::{ flag=US }:: **he rack** | [#1](https://osu.ppy.sh/community/matches/50476036) |
+| BeasttrollMC ::{ flag=US }:: | 1 | **4** | ::{ flag=RU }:: **Aden** | [#1](https://osu.ppy.sh/community/matches/50476954) |
+| **MrBooM** ::{ flag=PL }:: | **4** | 2 | ::{ flag=US }:: Im a fancy lad | [#1](https://osu.ppy.sh/community/matches/50477325) |
+| **Koba** ::{ flag=IT }:: | **4** | 0 | ::{ flag=US }:: Fangzy | [#1](https://osu.ppy.sh/community/matches/50479031) |
+| **Xilver15** ::{ flag=IL }:: | **4** | 2 | ::{ flag=US }:: Cappy | [#1](https://osu.ppy.sh/community/matches/50481035) |
+| Wakson ::{ flag=PL }:: | 2 | **4** | ::{ flag=GB }:: **Doomsday** | [#1](https://osu.ppy.sh/community/matches/50481037) |
+| GladiOol ::{ flag=NL }:: | 1 | **4** | ::{ flag=US }:: **fieryrage** | [#1](https://osu.ppy.sh/community/matches/50481010) |
+| **Apraxia** ::{ flag=US }:: | **4** | 1 | ::{ flag=AU }:: GranDSenpai | [#1](https://osu.ppy.sh/community/matches/50484488) |
 
 | Dimanche, 24/03/2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Unexpected ![][flag_PR] | 3 | **4** | ![][flag_AU] **Jordan The Bear** | [#1](https://osu.ppy.sh/community/matches/50489515) |
-| **Vaxei** ![][flag_US] | **4** | 0 | ![][flag_ID] Rexeez | [#1](https://osu.ppy.sh/community/matches/50491738) |
-| **Musty** ![][flag_FR] | **4** | 0 | ![][flag_GB] TopSp1n | [#1](https://osu.ppy.sh/community/matches/50500208) |
-| **Spare** ![][flag_GB] | **4** | 1 | ![][flag_LV] waywern2012 | [#1](https://osu.ppy.sh/community/matches/50500339) |
-| **Flaven** ![][flag_FR] | **4** | 1 | ![][flag_IT] -Syncro | [#1](https://osu.ppy.sh/community/matches/50503904) |
-| Woey ![][flag_US] | 2 | **4** | ![][flag_PL] **Rafis** | [#1](https://osu.ppy.sh/community/matches/50511189) |
-| lain ![][flag_US] | 1 | **4** | ![][flag_CA] **trev rasher** | [#1](https://osu.ppy.sh/community/matches/50512611) |
+| Unexpected ::{ flag=PR }:: | 3 | **4** | ::{ flag=AU }:: **Jordan The Bear** | [#1](https://osu.ppy.sh/community/matches/50489515) |
+| **Vaxei** ::{ flag=US }:: | **4** | 0 | ::{ flag=ID }:: Rexeez | [#1](https://osu.ppy.sh/community/matches/50491738) |
+| **Musty** ::{ flag=FR }:: | **4** | 0 | ::{ flag=GB }:: TopSp1n | [#1](https://osu.ppy.sh/community/matches/50500208) |
+| **Spare** ::{ flag=GB }:: | **4** | 1 | ::{ flag=LV }:: waywern2012 | [#1](https://osu.ppy.sh/community/matches/50500339) |
+| **Flaven** ::{ flag=FR }:: | **4** | 1 | ::{ flag=IT }:: -Syncro | [#1](https://osu.ppy.sh/community/matches/50503904) |
+| Woey ::{ flag=US }:: | 2 | **4** | ::{ flag=PL }:: **Rafis** | [#1](https://osu.ppy.sh/community/matches/50511189) |
+| lain ::{ flag=US }:: | 1 | **4** | ::{ flag=CA }:: **trev rasher** | [#1](https://osu.ppy.sh/community/matches/50512611) |
 
 ## Règlement
 
@@ -637,30 +637,3 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 2. Les comportements *toxiques* durant les matchs seront très fortement réprimandés et pourront résulter en une défaite forcée, une **expulsion du tournoi où un bannissement** des tournois futurs.
 3. Nous ne tolérerons pas une once de **tricherie ou de tentatives pour obtenir un avantage par rapport aux autres joueurs.**
 4. Veuillez noter que **seules** les chaînes Twitch suivantes sont autorisées à diffuser le tournoi: [Game\_Osu (EN)](https://www.twitch.tv/gameosu), [Game\_Osu (FR)](https://www.twitch.tv/gameosu_fr), and [Sardoche](https://www.twitch.tv/sardoche). **Nous n’autorisons pas le restream** sauf indication contraire de notre part et demanderons des **sanctions** dans le cas **d’uploads non-autorisés.** Les joueurs, eux sont autorisés à diffuser leurs matchs.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_GR]: /wiki/shared/flag/GR.gif "Grèce"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
-[flag_IL]: /wiki/shared/flag/IL.gif "Israël"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
-[flag_LV]: /wiki/shared/flag/LV.gif "Lettonie"
-[flag_MA]: /wiki/shared/flag/MA.gif "Maroc"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
-[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
-[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_PR]: /wiki/shared/flag/PR.gif "Porto Rico"
-[flag_RO]: /wiki/shared/flag/RO.gif "Roumanie"
-[flag_RU]: /wiki/shared/flag/RU.gif "Fédération de Russie"
-[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

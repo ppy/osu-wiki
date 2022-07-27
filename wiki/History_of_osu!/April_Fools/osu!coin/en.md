@@ -12,7 +12,7 @@ The **osu!coin** was a joke, in-game currency mocking other free-to-play monetis
 
 ## Release
 
-The [official release statement](https://osu.ppy.sh/home/news/2015-03-31-osucoins) explains that the osu!coin was introduced as a way to fund ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)'s private jet as the current monetisation scheme wouldn't allow him to buy it in his lifetime. The statement continues, explaining that each new player would start off with 10 osu!coins, and would be given 10 more for each passing day. Existing users would get an additional two osu!coins as an added bonus. Players could then gain more osu!coins by obtaining [combo](/wiki/Gameplay/Combo_(score_multiplier)). A single osu!coin would be obtained for every 100x combo.
+The [official release statement](https://osu.ppy.sh/home/news/2015-03-31-osucoins) explains that the osu!coin was introduced as a way to fund ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)'s private jet as the current monetisation scheme wouldn't allow him to buy it in his lifetime. The statement continues, explaining that each new player would start off with 10 osu!coins, and would be given 10 more for each passing day. Existing users would get an additional two osu!coins as an added bonus. Players could then gain more osu!coins by obtaining [combo](/wiki/Gameplay/Combo_(score_multiplier)). A single osu!coin would be obtained for every 100x combo.
 
 ![](img/earning-osu!coin.jpg "An example of player getting osu!coin for each 100x combo")
 
@@ -39,5 +39,3 @@ The update was generally well-received by players as a welcome change of pace fr
 
 - osu!academy introduces osu!coins: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
 - peppy announces osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
