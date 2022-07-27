@@ -8,36 +8,36 @@ tags:
 
 ![CFIC 3 logo](img/logo.jpg)
 
-L'**Catch French Intermediate Cup 3** (***CFIC 3***) était un tournoi osu!catch intermédiaire français à double élimination 1v1 organisé par ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) et ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949). Les joueurs français classés entre 900 et 2 999 ont pu participer. C'était la troisième édition de la Catch French Intermediate Cup et fait partie de la Catch French Cup.
+La **Catch French Intermediate Cup 3** (***CFIC 3***) était un tournoi osu!catch intermédiaire français à double élimination en 1v1 organisé par ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) et ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949). Les joueurs français classés entre 900 et 2 999 ont pu participer. C'était la troisième édition de la Catch French Intermediate Cup et fait partie de la Catch French Cup.
 
 ## Dates du tournoi
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2021-08-09/2021-08-29 |
-| Phase de screening | 2021-08-30/2021-09-10 |
-| Live du tirage au sort | 2021-09-05 (18:00 UTC+2) |
-| Qualifications | 2021-09-11/2021-09-12 |
-| Huitièmes de finale | 2021-09-18/2021-09-19 |
-| Quarts de finale | 2021-09-25/2021-09-26 |
-| Demi-finale | 2021-10-02/2021-10-03 |
-| Finale | 2021-10-09/2021-10-10 |
-| Grande Finale | 2021-10-17 |
+| Phase d'inscription | 09/08/2021 - 29/08/2021 |
+| Phase de screening | 30/08/2021 - 10/09/2021 |
+| Live du tirage au sort | 05/09/2021 (18:00 UTC+2) |
+| Qualifications | 11/09/2021 - 12/09/2021 |
+| Huitièmes de finale | 18/09/2021 - 19/09/2021 |
+| Quarts de finale | 25/09/2021 - 26/09/2021 |
+| Demi-finales | 02/10/2021 - 03/10/2021 |
+| Finales | 09/10/2021 - 10/10/2021 |
+| Grande Finale | 17/10/2021 |
 
 ## Prix
 
 | Classement | Prix |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | Badge de profil unique, 8 mois d'osu!supporter |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | Badge de profil unique, 8 mois d'osu!supporter |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 6 mois d'osu!supporter |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 4 mois d'osu!supporter |
 | *4ème place* | 2 mois d'osu!supporter |
 
-![](img/badge.jpg "Badge des gagnants du CFC3")
+![](img/badge.jpg "Badge des gagnants de la CFC3")
 
 ## Organisation
 
-La Catch French Intermediate Cup 3 était organisé par différents membres de la communauté.
+La Catch French Intermediate Cup 3 était organisée par différents membres de la communauté.
 
 | Position | Membre(s) |
 | :-- | :-- |
@@ -48,7 +48,7 @@ La Catch French Intermediate Cup 3 était organisé par différents membres de l
 | Commentateur | ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ::{ flag=FR }:: [lgor](https://osu.ppy.sh/users/10769450), ::{ flag=FR }:: [Kitsuka](https://osu.ppy.sh/users/10334943), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=FR }:: [Shamookie Simp](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [SkyBlazedPTK](https://osu.ppy.sh/users/8710703) ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
 | Designer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Statisticien | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Auteur du Wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Rédacteur du wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Liens
 
@@ -73,11 +73,11 @@ La Catch French Intermediate Cup 3 était organisé par différents membres de l
 
 ## Podium
 
-Cette compétition s'est conclue sur le podium suivant:
+Cette compétition s'est conclue sur le podium suivant :
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908) |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466) |
 
@@ -85,7 +85,7 @@ Cette compétition s'est conclue sur le podium suivant:
 
 ### Grande Finale
 
-**[Téléchargez la beatmap pack ici! (92 MB)](https://mega.nz/file/WlFwRTyJ#aeIPK5jkdbRzdAnv8oItejtaGLS2DsiEfeHi4e9KT3s)**
+**[Téléchargez le beatmap pack ici ! (92 MB)](https://mega.nz/file/WlFwRTyJ#aeIPK5jkdbRzdAnv8oItejtaGLS2DsiEfeHi4e9KT3s)**
 
 - NoMod
   1. [TERRASPEX - AMAZING BREAK (Spectator) \[CRYSTAL SPEC'S DELUGE\]](https://osu.ppy.sh/beatmapsets/727329#fruits/2404182)
@@ -112,9 +112,9 @@ Cette compétition s'est conclue sur le podium suivant:
 - Tiebreaker
   1. **[Camellia feat. Nanahira - finorza (Natsuko) \[Natsuko & Noctalium's Ultimate End\]](https://osu.ppy.sh/beatmapsets/1599030#fruits/3265778)**
 
-### Finale
+### Finales
 
-**[Téléchargez la beatmap pack ici! (110 MB)](https://mega.nz/file/Hp1zAQxK#dc3fFFUMqB-B-LwRo5YDWkJWeqKnfJM85F2yrfEJMqU)**
+**[Téléchargez le beatmap pack ici ! (110 MB)](https://mega.nz/file/Hp1zAQxK#dc3fFFUMqB-B-LwRo5YDWkJWeqKnfJM85F2yrfEJMqU)**
 
 - NoMod
   1. [ShinRa-Bansho - Tsuki ni Murakumo Hana ni Kaze ShinRa-Bansho Ver (Spectator) \[Greaper's Overdose\]](https://osu.ppy.sh/beatmapsets/1267528#fruits/2635612)
@@ -141,9 +141,9 @@ Cette compétition s'est conclue sur le podium suivant:
 - Tiebreaker
   1. **[marina - Towa yori Towa ni (-Luminate) \[Imperishable\]](https://osu.ppy.sh/beatmapsets/962747#fruits/2015842)**
 
-### Demi-finale
+### Demi-finales
 
-**[Téléchargez la beatmap pack ici! (82 MB)](https://mega.nz/file/vxswVRZC#uXZbQu_Ydpe65_3Fa60IY896obb1ZwYav_Og75kgvFI)**
+**[Téléchargez le beatmap pack ici ! (82 MB)](https://mega.nz/file/vxswVRZC#uXZbQu_Ydpe65_3Fa60IY896obb1ZwYav_Og75kgvFI)**
 
 - NoMod
   1. [ABSOLUTE CASTAWAY - Shinsou Shintouron (-Luminate) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1286508#fruits/2696508)
@@ -168,7 +168,7 @@ Cette compétition s'est conclue sur le podium suivant:
 
 ### Quarts de finale
 
-**[Téléchargez la beatmap pack ici! (98 MB)](https://mega.nz/file/HsElWKgb#BhRQffV33suyx8EX5LfjI1fQHoDXqYFHHNEZHoa1c6E)**
+**[Téléchargez le beatmap pack ici ! (98 MB)](https://mega.nz/file/HsElWKgb#BhRQffV33suyx8EX5LfjI1fQHoDXqYFHHNEZHoa1c6E)**
 
 - NoMod
   1. [Ayalis - Ai o Chikaishi Hime Kazari (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/784412#fruits/2741516)
@@ -193,7 +193,7 @@ Cette compétition s'est conclue sur le podium suivant:
 
 ### Huitièmes de finale
 
-**[Téléchargez la beatmap pack ici! (105 MB)](https://mega.nz/file/Wl9yGIaI#H97QzW9nfDFFcRmvxiWZgKLFQqeT8exABjjMDU1J1Tw)**
+**[Téléchargez le beatmap pack ici ! (105 MB)](https://mega.nz/file/Wl9yGIaI#H97QzW9nfDFFcRmvxiWZgKLFQqeT8exABjjMDU1J1Tw)**
 
 - NoMod
   1. [Mili - Ga1ahad and Scientific Witchery (Benita) \[Lacrima's Incantation\]](https://osu.ppy.sh/beatmapsets/1361768#fruits/2817663)
@@ -218,7 +218,7 @@ Cette compétition s'est conclue sur le podium suivant:
 
 ### Qualifications
 
-**[Téléchargez la beatmap pack ici! (43 MB)](https://mega.nz/file/Hw8HXAJQ#RgksI_VDHlWBo9Gozsbq2n4H78JbZ6q9BbWWn5ufJMg)**
+**[Téléchargez le beatmap pack ici ! (43 MB)](https://mega.nz/file/Hw8HXAJQ#RgksI_VDHlWBo9Gozsbq2n4H78JbZ6q9BbWWn5ufJMg)**
 
 - NoMod
   1. [Shiena Nishizawa - FUBUKI (Secre) \[Shoukaku\]](https://osu.ppy.sh/beatmapsets/1041651#fruits/2177029)
@@ -234,31 +234,31 @@ Cette compétition s'est conclue sur le podium suivant:
 
 ### Grande Finale
 
-Dimanche, 17 Octobre 2021:
+Dimanche 17 octobre 2021 :
 
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | AiNA ::{ flag=FR }:: | 3 | **7** | ::{ flag=FR }:: **Yruama** | [#1](https://osu.ppy.sh/community/matches/92544971 ) |
 | **Yruama** ::{ flag=FR }:: | **7** | 4 | ::{ flag=FR }:: AiNA | [#1](https://osu.ppy.sh/community/matches/92548424) |
 
-### Finale
+### Finales
 
-Samedi, 9 Octobre 2021:
+Samedi 9 octobre 2021 :
 
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Yruama** ::{ flag=FR }:: | **7** | 3 | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/92162893 ) |
 | **AiNA** ::{ flag=FR }:: | **7** | 1 | ::{ flag=FR }:: Cryophenix | [#1](https://osu.ppy.sh/community/matches/92148642 ) |
 
-Dimanche, 10 Octobre 2021:
+Dimanche 10 octobre 2021 :
 
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | Cryophenix ::{ flag=FR }:: | 2 | **7** | ::{ flag=FR }:: **Yruama** | [#1](https://osu.ppy.sh/community/matches/92206006) |
 
-### Demi-finale
+### Demi-finales
 
-Samedi, 2 Octobre 2021:
+Samedi 2 octobre 2021 :
 
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -266,7 +266,7 @@ Samedi, 2 Octobre 2021:
 | **Bebar** ::{ flag=FR }:: | **6** | 5 | ::{ flag=FR }:: Shamookie | [#1](https://osu.ppy.sh/community/matches/91803843) |
 | **Cryophenix** ::{ flag=FR }:: | **6** | 5 | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/91824771) |
 
-Dimanche, 3 Octobre 2021:
+Dimanche 3 octobre 2021 :
 
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -276,13 +276,13 @@ Dimanche, 3 Octobre 2021:
 
 ### Quarts de finale
 
-Mardi, 21 Septembre 2021:
+Mardi 21 septembre 2021 :
 
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | Shamookie Simp ::{ flag=FR }:: | 4 | **5** | ::{ flag=FR }:: **floflim** | [#1](https://osu.ppy.sh/community/matches/91264199) |
 
-Samedi, 25 Septembre 2021:
+Samedi 25 septembre 2021 :
 
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -294,7 +294,7 @@ Samedi, 25 Septembre 2021:
 | **Yruama** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Papy Enias | [#1](https://osu.ppy.sh/community/matches/91477795) |
 | Shamookie ::{ flag=FR }:: | 0 | **5** | ::{ flag=FR }:: **Cryophenix** | [#1](https://osu.ppy.sh/community/matches/91465967) |
 
-Dimanche, 26 Septembre 2021:
+Dimanche 26 septembre 2021 :
 
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -305,7 +305,7 @@ Dimanche, 26 Septembre 2021:
 
 ### Huitièmes de finale
 
-Samedi, 18 Septembre 2021:
+Samedi 18 septembre 2021 :
 
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -313,7 +313,7 @@ Samedi, 18 Septembre 2021:
 | **Shamookie Simp** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: NoLimitFS | [#1](https://osu.ppy.sh/community/matches/91109773) |
 | **floflim** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: caillrot | [#1](https://osu.ppy.sh/community/matches/91107241) |
 
-Dimanche, 19 Septembre 2021:
+Dimanche 19 septembre 2021 :
 
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -325,34 +325,34 @@ Dimanche, 19 Septembre 2021:
 
 ### Qualifications
 
-Les statistiques détaillées de ce tour peuvent être trouvées [ici](https://docs.google.com/spreadsheets/d/1LanifzyLFqyF4KPqB9p1Ykk4pHFVEkAGO2QVMYJ8vYc/edit), ainsi que le classement final sur lequel Joueur s'est qualifié pour l'étape suivante.
+Les statistiques détaillées de ce tour peuvent être trouvées [ici](https://docs.google.com/spreadsheets/d/1LanifzyLFqyF4KPqB9p1Ykk4pHFVEkAGO2QVMYJ8vYc/edit), ainsi que le classement final montrant quel joueur s'est qualifié pour l'étape suivante.
 
 ## Règlement
 
 ### Règles générales
 
-1. Vous devez être entre le rang #900 et #2,999 au classement général pendant la phase d'inscriptions.
+1. Vous devez être entre le rang 900 et 2 999 au classement général pendant la phase d'inscriptions.
 2. Les scores seront en **ScoreV2**.
 3. Un retard de plus de **10 minutes** à un match entrainera une victoire par défaut pour l'autre joueur.
 4. Même lors d'un tournoi, osu! reste un jeu, soyez amicaux et fair play.
-5. Catch French Intermediate Cup 3 sera en double-élimination, ce qui signifie qu'il y aura un loser's bracket.
+5. La Catch French Intermediate Cup 3 sera en double-élimination, ce qui signifie qu'il y aura un loser's bracket.
 6. N'importe quel joueur francophone peut participer au tournoi.
 
-### Règlements de match
+### Règlements des matchs
 
 1. Les joueurs lanceront un `!roll` au début du match pour déterminer l'ordre des choix : Le gagnant du roll ban en second et pick en premier, le perdant du roll ban en premier et pick en second.
 2. Les warm-up sont interdits, soyez sûr d'être bien échauffé avant de jouer votre match.
-3. En ce qui concerne les interdictions de maps, les quantités de maps qui devraient être interdites sont les suivantes :
-   - Des huitièmes de finale aux demi-finale, chaque joueur bannira 1 map par match.
-   - Lors des finale et des grande finale, chaque joueur bannira 2 maps par match.
-4. Les scores fails comptent ainsi le NoFail sera forcé pour tout le monde.
-5. Un même joueur n'a pas le droit de ban et de pick le même mod deux fois d'affilé.
+3. En ce qui concerne les bans de maps, les quantités de maps qui peuvent être ban sont les suivantes :
+   - Des huitièmes de finale aux demi-finales, chaque joueur bannira 1 map par match.
+   - Lors des finales et des grandes finales, chaque joueur bannira 2 maps par match.
+4. Les scores fail comptent. Avec cela, le mod NoFail sera forcé pour tout le monde.
+5. Un même joueur n'a pas le droit de ban et de pick le même mod deux fois d'affilée.
 6. Les joueurs seront forcés de prendre un mod sur un pick FreeMod.
 7. Le Hidden est autorisé en HardRock et DoubleTime.
 8. Le Tiebreaker est joué en NoMod ou en Hidden uniquement.
 
-### Conditions gagnantes
+### Conditions de victoire
 
-1. Huitièmes de finale et Quarts de finale: Best-of-9 (premier à 5 points)
-2. Demi-finale: Best-of-11 (premier à 6 points)
-3. **Finale and Grande Finale**: Best-of-13 (premier à 7 points)
+1. Huitièmes de finale et Quarts de finale : Best-of-9 (premier à 5 points)
+2. Demi-finales : Best-of-11 (premier à 6 points)
+3. **Finales et Grande Finale** : Best-of-13 (premier à 7 points)
