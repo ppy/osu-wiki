@@ -65,10 +65,11 @@ The Catch French Intermediate Cup 3 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428), ::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397), ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688), ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) |
-| High | ::{ flag=FR }:: [Khalemm](https://osu.ppy.sh/users/11983416), ::{ flag=FR }:: [TomyLeFaux](https://osu.ppy.sh/users/9504653), ::{ flag=FR }:: [NoLimitFS](https://osu.ppy.sh/users/10411609), ::{ flag=FR }:: [KillingSpin](https://osu.ppy.sh/users/4073302) |
-| Low | ::{ flag=FR }:: [Pizu](https://osu.ppy.sh/users/9475990), ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141), ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626), ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Unseeded | ::{ flag=FR }:: [NinjaCoktail](https://osu.ppy.sh/users/11431902), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
+| Top | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210), ::{ flag=FR }:: [Shamookie Simp](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| High | ::{ flag=FR }:: [Papy Enias](https://osu.ppy.sh/users/8384680), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466), ::{ flag=FR }:: [Bebar](https://osu.ppy.sh/users/12584928) |
+| Low | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172), ::{ flag=FR }:: [Kaudae](https://osu.ppy.sh/users/9294630), ::{ flag=FR }:: [caillrot](https://osu.ppy.sh/users/13108984), ::{ flag=FR }:: [wind in seoul](https://osu.ppy.sh/users/14803288) |
+| Unseeded | ::{ flag=FR }:: [Le Gentil](https://osu.ppy.sh/users/14716810), ::{ flag=FR }:: [NoLimitFS](https://osu.ppy.sh/users/10411609), ::{ flag=FR }:: [Kanna\_Shiro](https://osu.ppy.sh/users/12943235), ::{ flag=FR }:: [BigNounours](https://osu.ppy.sh/users/11632258) |
+| Eliminated | ::{ flag=FR }:: [ilade](https://osu.ppy.sh/users/18061899), ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
 
 ## Podium
 
