@@ -276,7 +276,7 @@ Sunday, 3 October 2021:
 
 ### Quarterfinals
 
-Tueday, 21 September 2021:
+Tuesday, 21 September 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -313,7 +313,7 @@ Saturday, 18 September 2021:
 | **Shamookie Simp** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: NoLimitFS | [#1](https://osu.ppy.sh/community/matches/91109773) |
 | **floflim** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: caillrot | [#1](https://osu.ppy.sh/community/matches/91107241) |
 
-Sunday, 23 February 2021:
+Sunday, 19 September 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -331,27 +331,28 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 ### General rules
 
-1. Participant must be within ranks #1,000 - #3,000 during registrations.
+1. Participant must be within ranks #900 - #2,999 during registrations.
 2. The Score System used will be **Score V2**.
 3. If player can't attend within the span of **10 minutes**, the other player will win by default.
-4. A proper language is required, from the participants and the staff team as well
-5. Even in a tournament scene osu! is still a game. Please respect each other, be friendly, and fair play.
-6. Catch French Intermediate Cup 2 will use double-elimination bracket, which means that there will be a loser's bracket.
-7. Any player with French flag can participate in the tournament.
+4. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
+5. Catch French Intermediate Cup 3 will use double-elimination bracket, which means that there will be a loser's bracket.
+6. Any player with French flag can participate in the tournament.
 
 ### Match regulations
 
-1. Both players will ban **2 maps each** for a total of 4 banned maps in a single match.
-2. Players will do `!roll` at the start of the match to determine the order of who picks and bann first.
-3. Players will be forced to use a mod from a FreeMod pick.
-4. Players can't ban more than one map from a mod.
-5. Players can't pick two maps from the same mod in a row.
-6. Hidden mod is combineable with HardRock and DoubleTime mod.
-7. The tiebreaker will be played under FreeMod.
+1. Players will do `!roll` at the start of the match to determine the order of who picks and bann first.
+2. Warmups are not allowed, so make sure you are well warmed up before playing against your opponent.
+3. Regarding map bans, the amount of map should be banned are as follows:
+   - From Round of 16 until Semifinals, each player will ban 1 map per match.
+   - In the Finals and Grand Finals, each player will ban 2 maps per match.
+4. Failed scores count, with that NoFail will be enforced for everyone
+5. The same player is not allowed to ban or the same mod twice in a row.
+6. Players will be forced to use a mod from a FreeMod pick.
+7. Hidden mod is combineable with HardRock and DoubleTime mod.
+8. The Tiebreaker will be played under NoMod or Hidden.
 
 ### Winning conditions
 
-1. Group Stage: Best of 7 (first to 4 points)
-2. Quarterfinals: Best of 9 (first to 5 points)
-3. Semifinals: Best of 11 (first to 6 points)
-4. **Finals and Grand Finals**: Best of 13 (first to 7 points)
+1. Round of 16 and Quarterfinals: Best-of-9 (first to 5 points)
+2. Semifinals: Best-of-11 (first to 6 points)
+3. **Finals and Grand Finals**: Best-of-13 (first to 7 points)
