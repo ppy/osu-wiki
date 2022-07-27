@@ -386,7 +386,7 @@ Samedi, 22 Juin 2019:
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| Indonésie A ![][flag_ID] | 0 | **6** | ![][flag_US] **États-Unis A** | *win by default* |
+| Indonésie A ![][flag_ID] | 0 | **6** | ![][flag_US] **États-Unis A** | *victoire par défaut* |
 | France A ![][flag_FR] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/52814381) |
 | **Chine** ![][flag_CN] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/52818020) |
 | **Chili** ![][flag_CL] | **6** | 1 | ![][flag_SG] Singapour | [#1](https://osu.ppy.sh/community/matches/52820880) |
