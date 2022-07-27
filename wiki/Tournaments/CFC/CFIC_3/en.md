@@ -231,94 +231,94 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Saturday, 21 March 2021:
+Sunday, 17 October 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fuka Pura** ::{ flag=FR }:: | **7** | 2 | ::{ flag=FR }:: Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/59441101) |
+| AiNA ::{ flag=FR }:: | 3 | **7** | ::{ flag=FR }:: **Yruama** | [#1](https://osu.ppy.sh/community/matches/92544971 ) |
+| **Yruama** ::{ flag=FR }:: | **7** | 4 | ::{ flag=FR }:: AiNA | [#1](https://osu.ppy.sh/community/matches/92548424) |
 
 ### Finals
 
-Saturday, 14 March 2021:
+Saturday, 9 October 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fuka Pura** ::{ flag=FR }:: | **7** | 1 | ::{ flag=FR }:: dracoV | [#1](https://osu.ppy.sh/community/matches/59186168) |
+| **Yruama** ::{ flag=FR }:: | **7** | 3 | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/92162893 ) |
+| **AiNA** ::{ flag=FR }:: | **7** | 1 | ::{ flag=FR }:: Cryophenix | [#1](https://osu.ppy.sh/community/matches/92148642 ) |
 
-Sunday, 15 March 2021:
+Sunday, 10 October 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Dask ::{ flag=FR }:: | 3 | **7** | ::{ flag=FR }:: **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/59219870) |
-| dracoV ::{ flag=FR }:: | 2 | **7** | ::{ flag=FR }:: **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/59223133) |
+| Cryophenix ::{ flag=FR }:: | 2 | **7** | ::{ flag=FR }:: **Yruama** | [#1](https://osu.ppy.sh/community/matches/92206006) |
 
 ### Semifinals
 
-Saturday, 7 March 2021:
+Saturday, 2 October 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fuka Pura** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Electr0o | *win by default* |
+| **Papy Enias** ::{ flag=FR }:: | **6** | 5 | ::{ flag=FR }:: Trifano | [#1](https://osu.ppy.sh/community/matches/91806838) |
+| **Bebar** ::{ flag=FR }:: | **6** | 5 | ::{ flag=FR }:: Shamookie | [#1](https://osu.ppy.sh/community/matches/91803843) |
+| **Cryophenix** ::{ flag=FR }:: | **6** | 5 | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/91824771) |
 
-Sunday, 8 March 2021:
+Sunday, 3 October 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Dask ::{ flag=FR }:: | 3 | **6** | ::{ flag=FR }:: **dracoV** | [#1](https://osu.ppy.sh/community/matches/59027737) |
-| Electr0o ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **Kaleesy Pura** | *win by default* |
-| **Dask** ::{ flag=FR }:: | **6** | 3 | ::{ flag=FR }:: Khalemm | [#1](https://osu.ppy.sh/community/matches/59029583) |
+| **AiNA** ::{ flag=FR }:: | **6** | 3 | ::{ flag=FR }:: Yruama | [#1](https://osu.ppy.sh/community/matches/91858536) |
+| **Yruama** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: Bebar | [#1](https://osu.ppy.sh/community/matches/91862769) |
+| **floflim** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: Papy Enias | [#1](https://osu.ppy.sh/community/matches/91868465) |
 
 ### Quarterfinals
 
-Saturday, 29 February 2021:
+Tueday, 21 September 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fuka Pura** ::{ flag=FR }:: | **5** | 2 | ::{ flag=FR }:: Pizu | [#1](https://osu.ppy.sh/community/matches/58813792) |
-| **Dask** ::{ flag=FR }:: | **5** | 3 | ::{ flag=FR }:: NinjaCoktail | [#1](https://osu.ppy.sh/community/matches/58816562) |
+| Shamookie Simp ::{ flag=FR }:: | 4 | **5** | ::{ flag=FR }:: **floflim** | [#1](https://osu.ppy.sh/community/matches/91264199) |
 
-Sunday, 1 March 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Electr0o** ::{ flag=FR }:: | **5** | 2 | ::{ flag=FR }:: Khalemm | [#1](https://osu.ppy.sh/community/matches/58847129) |
-| **dracoV** ::{ flag=FR }:: | **5** | 4 | ::{ flag=FR }:: Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/58847906) |
-| Pizu ::{ flag=FR }:: | 3 | **5** | ::{ flag=FR }:: **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58849487) |
-| NinjaCoktail ::{ flag=FR }:: | 1 | **5** | ::{ flag=FR }:: **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/58851059) |
-
-### Group stage
-
-Saturday, 22 February 2021:
+Saturday, 25 September 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fuka Pura** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: YANOO123 | [#1](https://osu.ppy.sh/community/matches/58638242) |
-| NoLimitFS ::{ flag=FR }:: | 1 | **4** | ::{ flag=FR }:: **dracoV** | [#1](https://osu.ppy.sh/community/matches/58639370) |
-| redjiii ::{ flag=FR }:: | 0 | 4 | ::{ flag=FR }:: **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58640834) |
-| Pizu ::{ flag=FR }:: | 2 | **4** | ::{ flag=FR }:: **dracoV** | [#1](https://osu.ppy.sh/community/matches/58640838) |
-| **YANOO123** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: KillingSpin | *win by default* |
-| redjiii ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Dask** | [#1](https://osu.ppy.sh/community/matches/58642443) |
-| Khalemm ::{ flag=FR }:: | 3 | **4** | ::{ flag=FR }:: **Dask** | [#1](https://osu.ppy.sh/community/matches/58646586) |
+| BigNounours ::{ flag=FR }:: | 1 | **5** | ::{ flag=FR }:: **Bebar** | [#1](https://osu.ppy.sh/community/matches/91454147) |
+| Le Gentil ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **wind in seoul** | *win by default* |
+| Kanna\_Shiro ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Kaudae | *win by default* |
+| **NoLimitFS** ::{ flag=FR }:: | **5** | 4 | ::{ flag=FR }:: caillrot | [#1](https://osu.ppy.sh/community/matches/91477795) |
+| **AiNA** ::{ flag=FR }:: | **5** | 3 | ::{ flag=FR }:: Trifano | [#1](https://osu.ppy.sh/community/matches/91469409) |
+| **Yruama** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Papy Enias | [#1](https://osu.ppy.sh/community/matches/91477795) |
+| Shamookie ::{ flag=FR }:: | 0 | **5** | ::{ flag=FR }:: **Cryophenix** | [#1](https://osu.ppy.sh/community/matches/91465967) |
+
+Sunday, 26 September 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Trifano** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: NoLimitFS | [#1](https://osu.ppy.sh/community/matches/91526055) |
+| **Papy Enias** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Kanna\_Shiro | *win by default* |
+| **Shamookie** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: wind in seoul | [#1](https://osu.ppy.sh/community/matches/91517924), [#2](https://osu.ppy.sh/community/matches/91519293) |
+| Shamookie Simp ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **Bebar** | *win by default* |
+
+### Round of 16
+
+Saturday, 18 September 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Papy Enias** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: wind in seoul | [#1](https://osu.ppy.sh/community/matches/91113223) |
+| **Shamookie Simp** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: NoLimitFS | [#1](https://osu.ppy.sh/community/matches/91109773) |
+| **floflim** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: caillrot | [#1](https://osu.ppy.sh/community/matches/91107241) |
 
 Sunday, 23 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Oasix ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **dracoV** | [#1](https://osu.ppy.sh/community/matches/58664569) |
-| TomyLeFaux ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **Zard** | *win by default* |
-| NinjaCoktail ::{ flag=FR }:: | 1 | **4** | ::{ flag=FR }:: **Electr0o** | [#1](https://osu.ppy.sh/community/matches/58667261) |
-| **Aequo3** ::{ flag=FR }:: | **4** | 1 | ::{ flag=FR }:: redjiii | [#1](https://osu.ppy.sh/community/matches/58668747) |
-| **Electr0o** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: TomyLeFaux | [#1](https://osu.ppy.sh/community/matches/58668672) |
-| Zard ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **NinjaCoktail** | [#1](https://osu.ppy.sh/community/matches/58669225) |
-| **NinjaCoktail** ::{ flag=FR }:: | **4** | 3 | ::{ flag=FR }:: TomyLeFaux | [#1](https://osu.ppy.sh/community/matches/58670434) |
-| KillingSpin ::{ flag=FR }:: | 2 | **4** | ::{ flag=FR }:: **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/58670414) |
-| Zard ::{ flag=FR }:: | 1 | **4** | ::{ flag=FR }:: **Electr0o** | [#1](https://osu.ppy.sh/community/matches/58671721) |
-| Aequo3 ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Dask** | [#1](https://osu.ppy.sh/community/matches/58671944) |
-| **Fuka Pura** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: KillingSpin | [#1](https://osu.ppy.sh/community/matches/58671948) |
-| **Kaleesy Pura** ::{ flag=FR }:: | **4** | 1 | ::{ flag=FR }:: YANOO123 | [#1](https://osu.ppy.sh/community/matches/58673378) |
-| Aequo3 ::{ flag=FR }:: | 3 | **4** | ::{ flag=FR }:: **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58674787) |
-| **Pizu** ::{ flag=FR }:: | **4** | 3 | ::{ flag=FR }:: Oasix | [#1](https://osu.ppy.sh/community/matches/58675943) |
-| Kaleesy Pura ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Fuka Pura** | [#1](https://osu.ppy.sh/community/matches/58676378) |
+| Bebar ::{ flag=FR }:: | 3 | **5** | ::{ flag=FR }:: **Trifano** | [#1](https://osu.ppy.sh/community/matches/91159737) |
+| **Yruama** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: Le Gentil | [#1](https://osu.ppy.sh/community/matches/91165028) |
+| **AiNA** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: BigNounours | *win by default* |
+| **Shamookie** ::{ flag=FR }:: | **5** | 3 | ::{ flag=FR }:: Kanna\_Shiro | [#1](https://osu.ppy.sh/community/matches/91171042) |
+| **Cryophenix** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Kaudae | [#1](https://osu.ppy.sh/community/matches/91158736) |
 
 ## Ruleset
 
