@@ -8,7 +8,7 @@ tags:
 
 ![CFIC 3 logo](img/logo.jpg)
 
-The **Catch French Intermediate Cup 3** (***CFIC 3***) was an intermediate French double-elimination 1v1 osu!catch tournament hosted by ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949). French players ranked between #900 and #2,999 were able to participate. This was the third instalment of the Catch French Intermediate Cup and part of the Catch French Cup series.
+The **Catch French Intermediate Cup 3** (***CFIC 3***) was an intermediate French double-elimination 1v1 osu!catch tournament hosted by ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949). French players ranked between #900 and #2,999 were able to participate. It was the third instalment of the Catch French Intermediate Cup and part of the Catch French Cup series.
 
 ## Tournament schedule
 
@@ -288,7 +288,7 @@ Saturday, 25 September 2021:
 | --: | :-: | :-: | :-- | :-- |
 | BigNounours ::{ flag=FR }:: | 1 | **5** | ::{ flag=FR }:: **Bebar** | [#1](https://osu.ppy.sh/community/matches/91454147) |
 | Le Gentil ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **wind in seoul** | *win by default* |
-| Kanna\_Shiro ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Kaudae | *win by default* |
+| **Kanna\_Shiro** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Kaudae | *win by default* |
 | **NoLimitFS** ::{ flag=FR }:: | **5** | 4 | ::{ flag=FR }:: caillrot | [#1](https://osu.ppy.sh/community/matches/91477795) |
 | **AiNA** ::{ flag=FR }:: | **5** | 3 | ::{ flag=FR }:: Trifano | [#1](https://osu.ppy.sh/community/matches/91469409) |
 | **Yruama** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Papy Enias | [#1](https://osu.ppy.sh/community/matches/91477795) |
