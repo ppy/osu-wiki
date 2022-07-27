@@ -12,8 +12,8 @@
 | :-- | :-- | :-- |
 | `[General]` | 谱面的总体信息 | `键: 值` 对 |
 | `[Editor]` | 可在谱面编辑器内显示的信息 | `键: 值` 对 |
-| `[Metadata]` | 用于识别谱面的[元数据](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) | `键:值` 对 |
-| `[Difficulty]` | 即[谱面难度设定](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) | `键:值` 对 |
+| `[Metadata]` | 用于识别谱面的[元数据](/wiki/Client/Beatmap_editor/Song_Setup#歌曲信息设定与相关信息设定(song-and-map-meta-data)) | `键:值` 对 |
+| `[Difficulty]` | 即[谱面难度设定](/wiki/Client/Beatmap_editor/Song_Setup#谱面难度设定(difficulty)) | `键:值` 对 |
 | `[Events]` | 谱面显示设定，故事板事件 | 逗号分隔的列表 |
 | `[TimingPoints]` | 时间轴设定 | 逗号分隔的列表 |
 | `[Colours]` | 连击、皮肤颜色 | `键 : 值` 对 |
@@ -51,11 +51,11 @@
 
 | 项目 | 数据类型 | 描述 |
 | :-- | :-- | :-- |
-| `Bookmarks` | 逗号分隔的 Integer（整型）数组 | [书签（蓝线）](/wiki/Client/Beatmap_editor/Compose#bottom-(song's-timeline))的位置（毫秒） |
+| `Bookmarks` | 逗号分隔的 Integer（整型）数组 | [书签（蓝线）](/wiki/Client/Beatmap_editor/Compose#书签指令)的位置（毫秒） |
 | `DistanceSpacing` | Decimal（精准小数） | [间距锁定](/wiki/Client/Beatmap_editor/Distance_snap)倍率 |
 | `BeatDivisor` | Decimal（精准小数） | [节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | `GridSize` | Integer（整型） | [网格大小](/wiki/Grid_snapping) |
-| `TimelineZoom` | Decimal（精准小数） | [物件时间轴](/wiki/Client/Beatmap_editor/Compose#top-left-(hit-objects-timeline))的缩放倍率 |
+| `TimelineZoom` | Decimal（精准小数） | [物件时间轴](/wiki/Client/Beatmap_editor/Compose#左上（物件时间轴）)的缩放倍率 |
 
 ## 元数据
 
