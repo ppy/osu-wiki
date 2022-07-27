@@ -8,7 +8,7 @@ tags:
 
 ![CFIC 3 logo](img/logo.jpg)
 
-L'**Catch French Intermediate Cup 3** (***CFIC 3***) était un tournoi français intermédiaire à double élimination 1v1 osu!catch organisé par ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) et ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949). Les joueurs français classés entre 900 et 2 999 ont pu participer. C'était la troisième édition de l'Catch French Intermediate Cup et fait partie de l'Catch French Cup.
+L'**Catch French Intermediate Cup 3** (***CFIC 3***) était un tournoi osu!catch intermédiaire français à double élimination 1v1 organisé par ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) et ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949). Les joueurs français classés entre 900 et 2 999 ont pu participer. C'était la troisième édition de la Catch French Intermediate Cup et fait partie de la Catch French Cup.
 
 ## Dates du tournoi
 
@@ -26,18 +26,18 @@ L'**Catch French Intermediate Cup 3** (***CFIC 3***) était un tournoi français
 
 ## Prix
 
-| Placing | Prix |
+| Classement | Prix |
 | :-: | :-- |
 | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | Badge de profil unique, 8 mois d'osu!supporter |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 6 mois d'osu!supporter |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 4 mois d'osu!supporter |
 | *4ème place* | 2 mois d'osu!supporter |
 
-![](img/badge.jpg "Badge des gagnants de l'CFC3")
+![](img/badge.jpg "Badge des gagnants du CFC3")
 
 ## Organisation
 
-L'Catch French Intermediate Cup 3 était organisé par différents membres.
+La Catch French Intermediate Cup 3 était organisé par différents membres de la communauté.
 
 | Position | Membre(s) |
 | :-- | :-- |
@@ -53,13 +53,13 @@ L'Catch French Intermediate Cup 3 était organisé par différents membres.
 ## Liens
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/1392589)
-- [Serveur Discord de l'CFB](https://discord.gg/PEz2enJjUr)
+- [Serveur Discord du CFB](https://discord.gg/PEz2enJjUr)
 - Livestream
   - [osufrlive](https://twitch.tv/osufrlive)
   - [osufrlive2](https://twitch.tv/osufrlive2)
   - [osufrlive3](https://twitch.tv/osufrlive3)
 - [Tableaux Challonge](https://challonge.com/35tf5wf)
-- **[Sheet de statistiques](https://docs.google.com/spreadsheets/d/1LanifzyLFqyF4KPqB9p1Ykk4pHFVEkAGO2QVMYJ8vYc/edit)**
+- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/1LanifzyLFqyF4KPqB9p1Ykk4pHFVEkAGO2QVMYJ8vYc/edit)**
 
 ## Participants
 
@@ -73,7 +73,7 @@ L'Catch French Intermediate Cup 3 était organisé par différents membres.
 
 ## Podium
 
-Cette compétition s'est terminée et a donné le podium ci-dessous:
+Cette compétition s'est conclue sur le podium suivant:
 
 | Classement | Joueur |
 | :-: | :-- |
@@ -230,7 +230,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 - DoubleTime
   1. [siromaru + cranky - conflict (Bunnrei) \[Platter\]](https://osu.ppy.sh/beatmapsets/981762#fruits/2055786)
 
-## Résultats des matches
+## Résultats des matchs
 
 ### Grande Finale
 
