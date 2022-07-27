@@ -53,7 +53,7 @@ The Catch French Intermediate Cup 3 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1392589)
-- [CFC Discord server](https://discord.gg/3DewaX8)
+- [CFC Discord server](https://discord.gg/PEz2enJjUr)
 - Livestream
   - [osufrlive](https://twitch.tv/osufrlive)
   - [osufrlive2](https://twitch.tv/osufrlive2)
@@ -76,9 +76,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466) |
 
 ## Mappools
 
