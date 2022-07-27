@@ -328,7 +328,7 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
   2. [Buta-Otome - Mamanaranai (Karee Pan) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/722051#taiko/1524527)
 - DoubleTime
   1. [BLACKPINK - AS IF IT'S YOUR LAST (QEpicAce) \[Blackener's Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980788#taiko/2052592)
-  2. [Équipe "Hanayamata" - Hana wa Odore ya Irohaniho (kjwkjw) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/215845#taiko/506832)
+  2. [Team "Hanayamata" - Hana wa Odore ya Irohaniho (kjwkjw) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/215845#taiko/506832)
 - FreeMod
   1. [GigaP feat. kradness - Senbonzakura (Soldsaga KunG) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/186878#taiko/453439)
   2. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (eiri-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/773330#taiko/1625589)
