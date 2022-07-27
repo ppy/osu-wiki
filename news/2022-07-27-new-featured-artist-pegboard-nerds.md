@@ -10,7 +10,7 @@ Welcome aboard our latest Featured Artist, **Pegboard Nerds**! Because we know y
 
 Among [Monstercat](https://osu.ppy.sh/beatmaps/artists/255)'s flagship artists, **Pegboard Nerds** is a Scandinavian duo comprised of two veteran electronic producers. While both members have been constructing tunes since the '90s, they only joined forces in 2011 and have been transforming the EDM world for the last decade.
 
-You'll come across **11** breathtaking tracks when you see [**Pegboard Nerds**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/287), all of which are pre-timed and ready for mapping!
+You'll come across **11** breathtaking tracks when you *see* [**Pegboard Nerds**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/287), all of which are pre-timed and ready for mapping!
 
 **Pegboard Nerds** has been a staple in the osu! scene since 2014 thanks to a trio of absurdly popular beatmaps by old-school mapper [Timorisu](https://osu.ppy.sh/users/2128920). Still holding strong 8 years later, the [**Pegboard Nerds** mapography](https://osu.ppy.sh/beatmapsets?q=featured_artist%3D287) only continues to grow!
 
