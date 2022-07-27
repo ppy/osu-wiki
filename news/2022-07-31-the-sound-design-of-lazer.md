@@ -12,13 +12,11 @@ Sound design relates to how any particular sound can make its listener *feel*. T
 
 osu!'s new client intends to answer that question with lots of brand new changes, including brand new sound effects to suit the brand new UI. If you are wondering where they come from or how they are made, read along for an interview with [nekodex](https://osu.ppy.sh/users/102), the person behind the sound design of osu!(lazer).
 
-Jamie "nekodex" Taylor is a full-stack engineer born in Australia who joined the osu! team as a web developer in 2015 after peppy asked if he was interested in helping rebuild the osu! website. Jamie has been with the team ever since, working on various osu!-related things, such as the review system for beatmap modding, the chat system etc., but today he describes himself as a hybrid audio designer/developer and isn't too involved in the web side of things anymore. Today we'll take a look at the origins of nekodex, how he developed as an artist and the work he's done for the audio side of osu!.
+nekodex is a full-stack engineer born in Australia who joined the osu! team as a web developer in 2015 after peppy asked if he was interested in helping rebuild the osu! website. nekodex has been with the team ever since, working on various osu!-related things, such as the review system for beatmap modding, the chat system etc., but today he describes himself as a hybrid audio designer/developer and isn't too involved in the web side of things anymore. 
 
-nekodex as an alias came to be in 2012, as Jamie had a musical background while growing up, played with early music software, learned from YouTube tutorials and eventually started messing around in DAWs (digital audio workstations) until music came out. As Jamie was getting serious with music production, peppy was preparing osu!stream (an iOS spinoff of osu! that was created in 2010) for the public view, which required original music for the game.
+His first involvement with osu! as a music producer would come in 2011 as peppy was preparing osu!stream (a spinoff of osu! for iOS) and needed original music for the game. Since peppy and nekodex are real life friends and peppy knew about his music, he got the chance to create the [main menu theme](https://soundcloud.com/nekodex/osu-stream-theme) and [a track](https://soundcloud.com/nekodex/liquid-future) for the release of osu!stream, and later on went on to create several official songs for osu!(stable) throughout the years that we all know and love, such as [welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu), [circles!](https://soundcloud.com/nekodex/circles) and [aureole](https://soundcloud.com/nekodex/aureole).
 
-Since peppy and Jamie are real life friends and peppy knew about his music, he got the chance to create some themes and tracks for osu!stream, and later on got some of his own songs mapped for it as well. He then later went on to create several official songs throughout the years that we all know and love, such as [welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu), [circles!](https://soundcloud.com/nekodex/circles) and [aureole](https://soundcloud.com/nekodex/aureole).
-
-When peppy decided to start working on a new client from the ground up in 2016 (after trying to make lazer within the stable client and figuring out such a thing would not be feasible), he wanted to not only make the game look good, but also *feel* good. That task required an audio designer, and with nekodex already having done several amazing works for osu!, peppy approached him.
+In 2021 during development of osu!(lazer) and peppy saw that the sound design was lacking compared to all of the new visuals and asked nekodex if he was willing to try and give it a facelift, at that point his primary work such as the osu! website and lazer were in a good enough spot so he decided to accept the task and committed to it fully. 
 
 That meant nekodex had to design every single click, shuffle, scroll, hover. The only issue was, nekodex had no UI sound effect design experience AT ALL, and sound design in music production versus UI sound effects is a whole different ball game. nekodex described the difference like this:
 
@@ -38,9 +36,9 @@ One of the perhaps most satisfying sounds in lazer is the one for all the slider
     </video>
 </div>
 
-nekodex describes this sound as tactile and clicky and wanted the slider bar to be satisfying to play with, and for that he needed the sound to be short and sharp. One of the hover sounds was used as the starting point to get the initial "shape" for the sound, which he tends to do quite frequently — he will use a sound that was already made in the past as a layer in new sounds because it helps make the sound feel cohesive, even if the sound can't consciously be recognized.
+> For the slider bar I envisioned something tactile and clicky, something that would be satisfying to play with. For that, the sound needed to be short and sharp. I used one of the hover sounds as a starting point to get the initial 'shape' for the sound. I tend to do that a bit - I'll use sounds I made in the past as layers in new sounds. I find that helps make the sounds feel cohesive, even if you can't conciously recognize the sound being used.
 
-After that the sound is processed in a DAW by layering a bunch of synths on top of each other, which sounds straightforward but takes a lot of iterations to get it to sound just right. After creating a few candidate sounds he pondered on how to make the slider fun to use, and eventually came up with the idea of a pitch shifting effect as the slider got dragged around in order to give it an "elastic-like feel".
+After that the sound is processed in a DAW which sounds straightforward but takes a lot of iterations to get it to sound just right. After creating a few candidate sounds he pondered on how to make the slider fun to use, and eventually came up with the idea of a pitch shifting effect as the slider got dragged around in order to give it what he describes as an "elastic-like feel".
 
 Once all the changes are made, they are then coded up in lazer and tested, as a sort of pre-production step in order to see how the interaction feels and whether the pitch shifting effect works properly. A few back-and-forths and voila, we've got the sound that's in lazer right now!
 
@@ -52,22 +50,28 @@ Another sound that may be particularly satisfying is the difficulty selection so
     </video>
 </div>
 
-This one was pretty simple according to nekodex ⎯ "...it was just a woodblock sample with a bunch of processing to make it sound more (tonally) balanced and snappier. I had tried a bunch of different ideas for difficulty selection, but turns out sometimes simple is best."
+This one was pretty simple according to nekodex:
 
-The work nekodex is able to dish out considering the total lack of prior experience is amazing — every single tick, click and hover is extremely satisfying, and it makes just toying around in the various menus of lazer extremely fun as well! Next time you boot lazer up, maybe take a moment to turn the music all the way down and just play with the buttons and hear all of the amazing work nekodex did yourself!
+>...it was just a woodblock sample with a bunch of processing to make it sound more (tonally) balanced and snappier. I had tried a bunch of different ideas for difficulty selection, but turns out sometimes simple is best.
+
+The work nekodex is able to dish out considering the total lack of prior experience is amazing — every single tick, click and hover is extremely satisfying, and it makes just toying around in the various menus of lazer extremely fun as well! Next time you boot lazer up, maybe take a moment to turn the music all the way down and just play with the buttons and hear all of the amazing work nekodex did yourself! The answers had to be cut down a bit, if you are interested in the full details check out his answers from my Q+A:
+
+[Part 1](https://gist.github.com/nekodex/97646cff6e7a35aed334a7bea3646824)
+
+[Part 2](https://gist.github.com/nekodex/ab26ab7e6af3ce3b5f0e76c0fc89850c)
 
 Regrettably, it may have been a mistake to not showcase more of these sound effects, so let's do just that and make it a small trivia game as well! Try to recognize what these sounds are used for in the game — **the first 3 comments to identify the below sound samples correctly will receive a month of osu!supporter!**
 
 <audio controls>
-  <source src="wiki\shared\news\2022-07-31-lazer-sound-design\trivia-1.wav" type="audio/mpeg">
+  <source src="/wiki/shared/news/2022-07-31-lazer-sound-design/trivia-1.wav" type="audio/mpeg">
 </audio>
 
 <audio controls>
-    <source src="wiki\shared\news\2022-07-31-lazer-sound-design\trivia-2.wav" type="audio/mpeg">
+    <source src="/wiki/shared/news/2022-07-31-lazer-sound-design/trivia-2.wav" type="audio/mpeg">
 </audio>
 
 <audio controls>
-    <source src="wiki\shared\news\2022-07-31-lazer-sound-design\trivia-3.wav" type="audio/mpeg">
+    <source src="/wiki/shared/news/2022-07-31-lazer-sound-design/trivia-3.wav" type="audio/mpeg">
 </audio>
 
 ---
