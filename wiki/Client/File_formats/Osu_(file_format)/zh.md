@@ -357,7 +357,7 @@ osu!catch 的游玩区域仅和 x 轴有关，而物件的 `y` 值则不重要�
 
 ### osu!mania
 
-与 osu!catch 类似，osu!mania 不使用物件的 `y` 值。而 `x` 则用于区分物件所处的键位。参见：[长键部分](#长键（仅 osu!mania）)。
+与 osu!catch 类似，osu!mania 不使用物件的 `y` 值。而 `x` 则用于区分物件所处的键位。参见：[长键部分](#长键（仅-osu!mania）)。
 
 - 圆圈变为普通音符。
 - osu!mania 内不使用滑条和转盘。
