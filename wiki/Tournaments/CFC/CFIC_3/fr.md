@@ -288,7 +288,7 @@ Samedi 25 septembre 2021 :
 | --: | :-: | :-: | :-- | :-- |
 | BigNounours ::{ flag=FR }:: | 1 | **5** | ::{ flag=FR }:: **Bebar** | [#1](https://osu.ppy.sh/community/matches/91454147) |
 | Le Gentil ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **wind in seoul** | *victoire par défaut* |
-| Kanna\_Shiro ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Kaudae | *victoire par défaut* |
+| **Kanna\_Shiro** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Kaudae | *victoire par défaut* |
 | **NoLimitFS** ::{ flag=FR }:: | **5** | 4 | ::{ flag=FR }:: caillrot | [#1](https://osu.ppy.sh/community/matches/91477795) |
 | **AiNA** ::{ flag=FR }:: | **5** | 3 | ::{ flag=FR }:: Trifano | [#1](https://osu.ppy.sh/community/matches/91469409) |
 | **Yruama** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Papy Enias | [#1](https://osu.ppy.sh/community/matches/91477795) |
