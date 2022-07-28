@@ -96,7 +96,7 @@ Join us over at the [osu! community Discord server](https://discord.gg/0Vxo9Asej
 
 You can find out more about the Beatmap Spotlights [on the osu! wiki](/wiki/Beatmap_Spotlights).
 
-See you soon along with the Summer Season 2022 launch!
+See you soon along with the Summer 2022 season launch!
 
 —Venix
 
