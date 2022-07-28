@@ -61,11 +61,10 @@ The Catch French Beginner 6 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210), ::{ flag=FR }:: [Shamookie Simp](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| High | ::{ flag=FR }:: [Papy Enias](https://osu.ppy.sh/users/8384680), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466), ::{ flag=FR }:: [Bebar](https://osu.ppy.sh/users/12584928) |
-| Low | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172), ::{ flag=FR }:: [Kaudae](https://osu.ppy.sh/users/9294630), ::{ flag=FR }:: [caillrot](https://osu.ppy.sh/users/13108984), ::{ flag=FR }:: [wind in seoul](https://osu.ppy.sh/users/14803288) |
-| Unseeded | ::{ flag=FR }:: [Le Gentil](https://osu.ppy.sh/users/14716810), ::{ flag=FR }:: [NoLimitFS](https://osu.ppy.sh/users/10411609), ::{ flag=FR }:: [Kanna\_Shiro](https://osu.ppy.sh/users/12943235), ::{ flag=FR }:: [BigNounours](https://osu.ppy.sh/users/11632258) |
-| Eliminated | ::{ flag=FR }:: [ilade](https://osu.ppy.sh/users/18061899), ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
+| Top | ![][flag_BE] [Kuzuyo](https://osu.ppy.sh/users/18277357), ![][flag_FR] [RexyChann](https://osu.ppy.sh/users/16965749), ![][flag_FR] [iron-wish](https://osu.ppy.sh/users/12264606), ![][flag_FR] [JunkoAndHiro](https://osu.ppy.sh/users/14004732) |
+| High | ![][flag_FR] [____________](https://osu.ppy.sh/users/6973354), ![][flag_FR] [Issuko](https://osu.ppy.sh/users/11447466), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Utopsia](https://osu.ppy.sh/users/11080305) |
+| Low | ![][flag_FR] [Gibralti](https://osu.ppy.sh/users/14824174), ![][flag_FR] [MRkayle](https://osu.ppy.sh/users/8296712), ::{flag=FR}:: [Firelex](https://osu.ppy.sh/users/13235008), ![][flag_FR] [leeiplo](https://osu.ppy.sh/users/11353650) |
+| Unseeded | ![][flag_FR] [MissFlufly](https://osu.ppy.sh/users/13979291) |
 
 ## Podium
 
