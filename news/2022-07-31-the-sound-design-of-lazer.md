@@ -16,7 +16,7 @@ nekodex is a full-stack engineer born in Australia who joined the osu! team as a
 
 His first involvement with osu! as a music producer would come in 2011 as peppy was preparing osu!stream (a spinoff of osu! for iOS) and needed original music for the game. Since peppy and nekodex are real life friends and peppy knew about his music, he got the chance to create the [main menu theme](https://soundcloud.com/nekodex/osu-stream-theme) and a track ([Liquid Future](https://soundcloud.com/nekodex/liquid-future)) for the release of osu!stream, and later on went on to create several official songs for osu!(stable) throughout the years that we all know and love, such as [welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu), [circles!](https://soundcloud.com/nekodex/circles) and [aureole](https://soundcloud.com/nekodex/aureole).
 
-In 2021 during development of osu!(lazer) and peppy saw that the sound design was lacking compared to all of the new visuals and asked nekodex if he was willing to try and give it a facelift, at that point his primary work such as the osu! website and lazer were in a good enough spot so he decided to accept the task and committed to it fully. 
+In 2021 during development of osu!(lazer), peppy saw that the sound design was lacking compared to all of the new visuals and asked nekodex if he was willing to try and give it a facelift. At that point nekodex's primary work such as the osu! website and lazer were in a good enough spot so he decided to accept the task and committed to it fully. 
 
 That meant nekodex had to design every single click, shuffle, scroll, hover. The only issue was, nekodex had no UI sound effect design experience AT ALL, and sound design in music production versus UI sound effects is a whole different ball game. nekodex described the difference like this:
 
@@ -54,7 +54,9 @@ This one was pretty simple according to nekodex:
 
 >...it was just a woodblock sample with a bunch of processing to make it sound more (tonally) balanced and snappier. I had tried a bunch of different ideas for difficulty selection, but turns out sometimes simple is best.
 
-The work nekodex is able to dish out considering the total lack of prior experience is amazing — every single tick, click and hover is extremely satisfying, and it makes just toying around in the various menus of lazer extremely fun as well! Next time you boot lazer up, maybe take a moment to turn the music all the way down and just play with the buttons and hear all of the amazing work nekodex did yourself! The answers had to be cut down a bit, if you are interested in the full details check out his answers from my Q+A:
+The work nekodex is able to dish out considering the total lack of prior experience is amazing — every single tick, click and hover is extremely satisfying, and it makes just toying around in the various menus of lazer extremely fun as well! Next time you boot lazer up, maybe take a moment to turn the music all the way down and just play with the buttons and hear all of the amazing work nekodex did yourself!
+
+The answers from the interview had to be cut down a bit for this article, but if you are interested in the full details check it all out here:
 
 [Part 1](https://gist.github.com/nekodex/97646cff6e7a35aed334a7bea3646824)
 
