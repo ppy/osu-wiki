@@ -20,7 +20,7 @@ This will be the very first time we've ever run a stream like this, so make sure
 
 ## Beatmap of the Season - Players' Pick
 
-As stated before, the *Beatmap of the Season - Players' Pick* will be a regular thing from now on, combined with the [Spotlights curators'](/wiki/Beatmap_Spotlights#curators) picks, similarly to how it ran last time in the Winter 2022 Season voting.
+As stated before, the *Beatmap of the Season - Players' Pick* will be a regular thing from now on, combined with the [Spotlights curators'](/wiki/Beatmap_Spotlights#curators) picks, similarly to how it ran last time in the Winter 2022 season voting.
 
 The results of both the curator and player picks will be announced at the launch of the Summer 2022 season of the Beatmap Spotlights, and the creators of winning entries will be awarded with **3 months of osu!supporter** each. If you'd like to make your opinions known on the best maps of the season, this is the place to do it!
 
