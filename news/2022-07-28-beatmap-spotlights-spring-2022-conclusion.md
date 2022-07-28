@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights Spring 2022 Conclusion & Players' Pick Voting"
-date: 2022-07-28 16:00:00 +0000
+date: 2022-07-28 17:00:00 +0000
 ---
 
 The Spring 2022 season of the Beatmap Spotlights has come to an end⁠ — come check out the top 50 for each game mode, and vote on your favourite beatmaps from the season! Join us on the Summer 2022 season launch livestream as well.
@@ -16,11 +16,11 @@ Livestream? Yes, you've heard right! We will be streaming the Summer 2022 Season
 
 The stream will last for around 2 hours, and will serve as an introduction to the new season including things like the season gimmick and revealing the playlist A picks, commented by some of our [curators](/wiki/Beatmap_Spotlights#curators). 
 
-This will be the very first time of it taking a place, so we hope you're excited and count on your presence!
+This will be the very first time we've ever run a stream like this, so make sure to join us for the show if you're interested!
 
 ## Beatmap of the Season - Players' Pick
 
-As stated before, the *Beatmap of the Season - Players' Pick* will be a regular thing from now on, combined with the [Spotlights curators'](/wiki/Beatmap_Spotlights#curators) one, similar to last, Winter 2022 Season voting.
+As stated before, the *Beatmap of the Season - Players' Pick* will be a regular thing from now on, combined with the [Spotlights curators'](/wiki/Beatmap_Spotlights#curators) picks, similarly to how it ran last time in the Winter 2022 Season voting.
 
 The results of both the curator and player picks will be announced at the launch of the Summer 2022 season of the Beatmap Spotlights, and the creators of winning entries will be awarded with **3 months of osu!supporter** each. If you'd like to make your opinions known on the best maps of the season, this is the place to do it!
 
@@ -92,7 +92,7 @@ The voting will remain open for **7 days** from the date of this news post, so m
 
 ---
 
-Join us over at the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself a role to keep up with Spotlights changes and announcements, or visit the [osu!dev Discord server](https://discord.gg/ppy) to help us push this project even further!
+Join us over at the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself a role to keep up with Spotlights changes and announcements, or visit the [osu!dev Discord server](https://discord.gg/ppy) to get involved and help us push this project even further beyond!
 
 You can find out more about the Beatmap Spotlights [on the osu! wiki](/wiki/Beatmap_Spotlights).
 
