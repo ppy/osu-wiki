@@ -4,23 +4,23 @@ title: "Beatmap Spotlights Spring 2022 Conclusion & Players' Pick Voting"
 date: 2022-07-28 16:00:00 +0000
 ---
 
-The Spring 2022 Season of the Beatmap Spotlights has come to an end⁠ — come check out the top 50 for each game mode, and vote on your favourite beatmaps from the season! Join us on Summer 2022 Season launch livestream as well.
+The Spring 2022 season of the Beatmap Spotlights has come to an end⁠ — come check out the top 50 for each game mode, and vote on your favourite beatmaps from the season! Join us on the Summer 2022 season launch livestream as well.
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-Continuing the trend from past seasons, Spring 2022 playlists gathered nearly **2900** players either competing for fun or jumping on a grindwagon to gain this *Rhythm Incarnate* rank. Since the last season's Players' Pick turned out gripping for both players and mappers, we will be running it again this season, read on below for that and even more exciting new stuff!
+Continuing the trend from past seasons, Spring 2022 playlists gathered nearly **2900** players either competing for fun or jumping on a grindwagon to gain this *Rhythm Incarnate* rank. Since the last season's Players' Pick turned out gripping for both players and mappers, we will be running it again this season — read on below for that and even more exciting new stuff!
 
 ## Livestream
 
-Livestream? Yes, you've heard right! We will be streaming Summer 2022 Season start over our [twitch channel](https://www.twitch.tv/osu_spotlights) at **August 7th, 16:00 UTC+0**.
+Livestream? Yes, you've heard right! We will be streaming the Summer 2022 Season start over at our [Twitch channel](https://www.twitch.tv/osu_spotlights) at **August 7th, 16:00 UTC+0**.
 
-The stream will last for around 2 hours, and will serve as an introduction to the new season including things like season gimmick and playlist A picks reveal, commented by some of our [Curators](/wiki/Beatmap_Spotlights#curators). 
+The stream will last for around 2 hours, and will serve as an introduction to the new season including things like the season gimmick and revealing the playlist A picks, commented by some of our [curators](/wiki/Beatmap_Spotlights#curators). 
 
 This will be the very first time of it taking a place, so we hope you're excited and count on your presence!
 
-## Beatmap of the Season — Players' Pick
+## Beatmap of the Season - Players' Pick
 
-As stated before, the *Beatmap of the Season* - Players' Pick will be a regular thing from now on, combined with [Spotlights Curators](/wiki/Beatmap_Spotlights#curators) one, similar to last, Winter 2022 Season voting.
+As stated before, the *Beatmap of the Season - Players' Pick* will be a regular thing from now on, combined with the [Spotlights curators'](/wiki/Beatmap_Spotlights#curators) one, similar to last, Winter 2022 Season voting.
 
 The results of both the curator and player picks will be announced at the launch of the Summer 2022 season of the Beatmap Spotlights, and the creators of winning entries will be awarded with **3 months of osu!supporter** each. If you'd like to make your opinions known on the best maps of the season, this is the place to do it!
 
@@ -31,9 +31,9 @@ Check out each respective game mode's contest and vote today:
 - [osu!catch](https://osu.ppy.sh/community/contests/151)
 - [osu!mania](https://osu.ppy.sh/community/contests/152)
 
-The voting will remain open for **7 days** from the date of this news post, so be sure to vote in time!
+The voting will remain open for **7 days** from the date of this news post, so make sure to vote in time!
 
-## Beatmap Spotlights final rankings
+## Beatmap Spotlights Spring 2022 final rankings
 
 [Click here for the full leaderboards of every game mode!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSJ96g-8FrD_rtJ3bx3TDfHw1RLg5jvasQKsf9V-c_nO1y_E08JduIsWZbqiDJ7bxyTy4CG3VYSkpcc/pubhtml#)
 
