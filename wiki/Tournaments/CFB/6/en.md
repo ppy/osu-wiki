@@ -51,14 +51,11 @@ The Catch French Beginner 6 was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1392589)
-- [CFC Discord server](https://discord.gg/PEz2enJjUr)
-- Livestream
-  - [osufrlive](https://twitch.tv/osufrlive)
-  - [osufrlive2](https://twitch.tv/osufrlive2)
-  - [osufrlive3](https://twitch.tv/osufrlive3)
-- [Challonge brackets](https://challonge.com/35tf5wf)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1LanifzyLFqyF4KPqB9p1Ykk4pHFVEkAGO2QVMYJ8vYc/edit)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1443016)
+- [CFB Discord server](https://discord.gg/YPfmnRcv6e)
+- [Livestream](https://www.twitch.tv/catchfrenchlive)
+- [Challonge brackets](https://challonge.com/CFB_6)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1bzOdY-7V3Zarksv__8NGnll3mvTQwoWwXLFugPiOAs0/edit?usp=sharing)**
 
 ## Participants
 
