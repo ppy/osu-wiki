@@ -12,7 +12,11 @@ Continuing the trend from past seasons, Spring 2022 playlists gathered nearly **
 
 ## Livestream
 
-Livestream? Yes, you've heard right! We will be streaming Summer 2022 Season start over our [twitch channel](https://www.twitch.tv/osu_spotlights) at **August 7th, 16:00 UTC+0** it will last for around 2 hours, and will serve as an introduction to the new season including things like season gimmick and playlist A picks reveal, commented by some of our [Curators](/wiki/Beatmap_Spotlights#curators). This will be the very first time of it taking a place, so we hope you're excited and count on your presence!
+Livestream? Yes, you've heard right! We will be streaming Summer 2022 Season start over our [twitch channel](https://www.twitch.tv/osu_spotlights) at **August 7th, 16:00 UTC+0**.
+
+The stream will last for around 2 hours, and will serve as an introduction to the new season including things like season gimmick and playlist A picks reveal, commented by some of our [Curators](/wiki/Beatmap_Spotlights#curators). 
+
+This will be the very first time of it taking a place, so we hope you're excited and count on your presence!
 
 ## Beatmap of the Season — Players' Pick
 
