@@ -48,7 +48,7 @@ With that many great players, such as [mrekk](https://osu.ppy.sh/users/7562902),
 
 In terms of epic, we were served with the finals: [mrekk](https://osu.ppy.sh/users/7562902) vs [Utami](https://osu.ppy.sh/users/7512553)! Despite mrekk's defeat against [Utami]([Utami](https://osu.ppy.sh/users/7512553)), his performances were impressive, along with [Utami](https://osu.ppy.sh/users/7512553)'s. His first rank on the leaderboard is indeed his throne.
 
-A best-of from this match was made on the [BTMC](https://osu.ppy.sh/users/3171691) [channel](https://twitch.tv/btmc), with exclusive interviews of the players, by [BTMC](https://osu.ppy.sh/users/3171691) (what a surprise, ahah) and Happystick, the casters of this amazing show! You can find it [here](https://www.youtube.com/watch?v=Y7LqBZL)!
+A best-of from this match was made on the [BTMC](https://osu.ppy.sh/users/3171691) [channel](https://twitch.tv/btmc), with exclusive interviews of the players, by [BTMC](https://osu.ppy.sh/users/3171691) (what a surprise, ahah), [Kroytz](https://osu.ppy.sh/users/2339768) and Happystick, the casters of this amazing show! You can find it [here](https://www.youtube.com/watch?v=Y7LqBZL)!
 
 Anyway, The Roundtable has now ended, we can't wait until the next edition!
 
