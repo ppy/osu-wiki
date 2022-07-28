@@ -38,7 +38,7 @@ The voting will remain open for **7 days** from the date of this news post, so m
 [Click here for the full leaderboards of every game mode!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSJ96g-8FrD_rtJ3bx3TDfHw1RLg5jvasQKsf9V-c_nO1y_E08JduIsWZbqiDJ7bxyTy4CG3VYSkpcc/pubhtml#)
 
 | Rank | Tier | ![][osu!] Player | Tier | ![][osu!taiko] Player | Tier | ![][osu!catch] Player | Tier | ![][osu!mania] Player |
-| :-: | :-: | :-- | :-: | :-: | :-: | :-- | :-: | :-- |
+| :-: | :-: | :-- | :-: | :-- | :-: | :-- | :-: | :-- |
 | #1 | ![][spring-2022-osu!-ri-3] | [criller](https://osu.ppy.sh/users/8116659) | ![][spring-2022-taiko-ri-3] | [uone](https://osu.ppy.sh/users/5321719) | ![][spring-2022-ctb-ri-3] | [Predominador](https://osu.ppy.sh/users/4568537) | ![][spring-2022-mania-ri-3] | [-NoName-](https://osu.ppy.sh/users/10400730) |
 | #2 | ![][spring-2022-osu!-ri-3] | [fieryrage](https://osu.ppy.sh/users/3533958) | ![][spring-2022-taiko-ri-2] | [cheese salad](https://osu.ppy.sh/users/6349821) | ![][spring-2022-ctb-ri-2] | [KevKjef](https://osu.ppy.sh/users/9114235) | ![][spring-2022-mania-ri-2] | [keyboardbeat](https://osu.ppy.sh/users/14631339) |
 | #3 | ![][spring-2022-osu!-ri-3] | [Invoker](https://osu.ppy.sh/users/5326197) | ![][spring-2022-taiko-diamond-3] | [6gicha](https://osu.ppy.sh/users/12273160) | ![][spring-2022-ctb-diamond-3] | [[ Primakien ]](https://osu.ppy.sh/users/23941998) | ![][spring-2022-mania-ri-2] | [Jinjin](https://osu.ppy.sh/users/3360737) |
