@@ -10,7 +10,7 @@ Now you will need to setup your account for livestreaming osu!. From the main pa
 
 ![](img/dashboard.png "Entering the Creator Dashboard")
 
-In the Creator Dashboard, you can configure stream information, chat moderation, and profile info, among other customizations. Most important to getting started is configuring your stream's information. From the main page of the dashboard, click on the `Stream Manager` button on the left, and then choose the `Edit Stream Info` option on the right.
+In the Creator Dashboard, you can configure stream information, chat moderation, and profile info, among other customisations. The most important thing for getting started is configuring the stream information. From the main page of the dashboard, click on the `Stream Manager` button on the left, and then choose the `Edit Stream Info` option on the right.
 
 A dialog will open for you to enter your stream's information. You can fill the fields however you want; however, the title should comprehend what the stream will be about and be inviting for people viewing the list of available streams. The category should also be set to the game you will be livestreaming, which is `osu!` in this case.
 
