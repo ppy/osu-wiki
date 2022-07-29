@@ -28,9 +28,9 @@ The **Catch French Beginner 6** (***CFB 6***) was a beginner French double-elimi
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 8 months of osu!supporter |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.jpg "CFB 6 winner badge")
 
@@ -259,7 +259,7 @@ Saturday, 4 December 2021:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Kuzuyo ::{ flag=BE }:: | -1 | **0** | ::{ flag=FR }:: **JunkoAndHiro** | *win by default* |
-| RexyChann ::{ flag=FR }:: | 1 | **6** | ::{ flag=FR }:: **iron-wish** | [#1](https://osu.ppy.sh/mp/94797662) |
+| RexyChann ::{ flag=FR }:: | 1 | **6** | ::{ flag=FR }:: **iron-wish** | [#1](https://osu.ppy.sh/community/matches/94797662) |
 | **Utopsia** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Firelex | *win by default* |
 | leeiplo ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **MRkayle** | *win by default* |
 | Mimir ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\___________** | [#1](https://osu.ppy.sh/community/matches/94812153) |

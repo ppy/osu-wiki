@@ -259,7 +259,7 @@ Samedi, 4 Decembre 2021:
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | Kuzuyo ::{ flag=BE }:: | -1 | **0** | ::{ flag=FR }:: **JunkoAndHiro** | *victoire par défaut* |
-| RexyChann ::{ flag=FR }:: | 1 | **6** | ::{ flag=FR }:: **iron-wish** | [#1](https://osu.ppy.sh/mp/94797662) |
+| RexyChann ::{ flag=FR }:: | 1 | **6** | ::{ flag=FR }:: **iron-wish** | [#1](https://osu.ppy.sh/community/matches/94797662) |
 | **Utopsia** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Firelex | *victoire par défaut* |
 | leeiplo ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **MRkayle** | *victoire par défaut* |
 | Mimir ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\___________** | [#1](https://osu.ppy.sh/community/matches/94812153) |
