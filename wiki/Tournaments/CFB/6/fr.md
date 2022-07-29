@@ -8,58 +8,56 @@ tags:
 
 ![CFB 6 logo](img/logo.jpg)
 
-The **Catch French Beginner 6** (***CFB 6***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). French players ranked between #3,500 and below were able to participate. It was the sixth instalment of the Catch French Beginner series.
+La **Catch French Beginner 6** (***CFB 6***) était un tournoi osu!catch débutant français à double élimination en 1v1 organisé par ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) et ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). Les joueurs français classés entre 3 500 et moins ont pu participer. C'était la sixième édition de la Catch French Beginner.
 
-## Tournament schedule
+## Dates du tournoi
 
-| Event | Timestamp |
+| Évènement | Dates |
 | --: | :-- |
-| Registration phase | 2021-10-17/2021-10-31 |
-| Screening phase | 2021-11-01/2021-11-07 |
-| Live drawings | 2021-11-08 (22:00 UTC+2) |
-| Qualifiers | 2021-11-13/2021-11-14 |
-| Round of 16 | 2021-11-20/2021-11-21 |
-| Quarterfinals | 2021-11-26/2021-11-28 |
-| Semifinals | 2021-12-04/2021-12-05 |
-| Finals | 2021-12-11/2021-12-12 |
-| Grand Finals | 2021-12-18/2021-12-19 |
+| Phase d'inscription | 17/10/2021 - 31/10/2021 |
+| Phase de screening | 01/11/2021 - 07/11/2021 |
+| Live du tirage au sort | 08/11/2021 (22:00 UTC+2) |
+| Qualifications | 13/11/2021 - 14/11/2021 |
+| Huitièmes de finale | 20/11/2021 - 21/11/2021 |
+| Quarts de finale | 26/11/2021 - 27/11/2021 |
+| Demi-finales | 04/12/2021 - 05/12/2021 |
+| Finales | 11/12/2021 - 12/12/2021 |
+| Grande Finale | 18/12/2021 - 19/12/2021 |
 
-## Prizes
+## Prix
 
-| Placing | Prize(s) |
+| Classement | Prix |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 8 months of osu!supporter |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | Badge de profil unique |
 
-![](img/badge.jpg "CFB 6 winner badge")
+![](img/badge.jpg "Badge des gagnants de la CFB 6")
 
 ## Organisation
 
-The Catch French Beginner 6 was run by various community members.
+La Catch French Beginner 6 était organisée par différents membres de la communauté.
 
-| Position | Member(s) |
+| Position | Membre(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949) |
-| Mappool selector | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| Referee | ::{ flag=FR }:: [bambinex](https://osu.ppy.sh/users/18818124), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=AT }:: [Mashiro Mama](https://osu.ppy.sh/users/10415976), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990), ::{ flag=FR }:: [Taevas](https://osu.ppy.sh/users/7276846) |
+| Organisateur | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949) |
+| Mapsetter | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| Arbitre | ::{ flag=FR }:: [bambinex](https://osu.ppy.sh/users/18818124), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=AT }:: [Mashiro Mama](https://osu.ppy.sh/users/10415976), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990), ::{ flag=FR }:: [Taevas](https://osu.ppy.sh/users/7276846) |
 | Streamer | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Bebar](https://osu.ppy.sh/users/12584928), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) |
-| Commentator | ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732), ::{ flag=FR }:: [Kitsuka](https://osu.ppy.sh/users/10334943), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| Commentateur | ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732), ::{ flag=FR }:: [Kitsuka](https://osu.ppy.sh/users/10334943), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
 | Designer | ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) |
-| Statistician | ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949) |
-| Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Statisticien | ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949) |
+| Rédacteur du wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
-## Links
+## Liens
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1443016)
-- [CFB Discord server](https://discord.gg/YPfmnRcv6e)
+- [Fil de discussion](https://osu.ppy.sh/community/forums/topics/1443016)
+- [Serveur Discord du CFB](https://discord.gg/YPfmnRcv6e)
 - [Livestream](https://www.twitch.tv/catchfrenchlive)
-- [Challonge brackets](https://challonge.com/CFB_6)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1bzOdY-7V3Zarksv__8NGnll3mvTQwoWwXLFugPiOAs0/edit?usp=sharing)**
+- [Tableaux Challonge](https://challonge.com/CFB_6)
+- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/1bzOdY-7V3Zarksv__8NGnll3mvTQwoWwXLFugPiOAs0/edit?usp=sharing)**
 
 ## Participants
 
-| Seed | Members |
+| Seed | Membres |
 | :-- | :-- |
 | Top | ::{ flag=BE }:: [Kuzuyo](https://osu.ppy.sh/users/18277357), ::{ flag=FR }:: [RexyChann](https://osu.ppy.sh/users/16965749), ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606), ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732) |
 | High | ::{ flag=FR }:: [\_\___________](https://osu.ppy.sh/users/6973354), ::{ flag=FR }:: [Issuko](https://osu.ppy.sh/users/11447466), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Utopsia](https://osu.ppy.sh/users/11080305) |
@@ -68,19 +66,19 @@ The Catch French Beginner 6 was run by various community members.
 
 ## Podium
 
-This competition has come to an end and resulted in the following podium:
+Cette compétition s'est conclue sur le podium suivant :
 
-| Placing | Player |
+| Classement | Joueur |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [\_\___________](https://osu.ppy.sh/users/6973354) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: [\_\___________](https://osu.ppy.sh/users/6973354) |
 
-## Mappools
+## Liste des beatmaps
 
-### Grand Finals
+### Grande Finale
 
-**[Download the mappack here! (92 MB)](https://mega.nz/file/WlFwRTyJ#aeIPK5jkdbRzdAnv8oItejtaGLS2DsiEfeHi4e9KT3s)**
+**[Téléchargez le beatmap pack ici ! (92 MB)](https://mega.nz/file/WlFwRTyJ#aeIPK5jkdbRzdAnv8oItejtaGLS2DsiEfeHi4e9KT3s)**
 
 - NoMod
   1. [TERRASPEX - AMAZING BREAK (Spectator) \[CRYSTAL SPEC'S DELUGE\]](https://osu.ppy.sh/beatmapsets/727329#fruits/2404182)
@@ -107,9 +105,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Camellia feat. Nanahira - finorza (Natsuko) \[Natsuko & Noctalium's Ultimate End\]](https://osu.ppy.sh/beatmapsets/1599030#fruits/3265778)**
 
-### Finals
+### Finales
 
-**[Download the mappack here! (110 MB)](https://mega.nz/file/Hp1zAQxK#dc3fFFUMqB-B-LwRo5YDWkJWeqKnfJM85F2yrfEJMqU)**
+**[Téléchargez le beatmap pack ici ! (110 MB)](https://mega.nz/file/Hp1zAQxK#dc3fFFUMqB-B-LwRo5YDWkJWeqKnfJM85F2yrfEJMqU)**
 
 - NoMod
   1. [ShinRa-Bansho - Tsuki ni Murakumo Hana ni Kaze ShinRa-Bansho Ver (Spectator) \[Greaper's Overdose\]](https://osu.ppy.sh/beatmapsets/1267528#fruits/2635612)
@@ -136,9 +134,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[marina - Towa yori Towa ni (-Luminate) \[Imperishable\]](https://osu.ppy.sh/beatmapsets/962747#fruits/2015842)**
 
-### Semifinals
+### Demi-finales
 
-**[Download the mappack here! (82 MB)](https://mega.nz/file/vxswVRZC#uXZbQu_Ydpe65_3Fa60IY896obb1ZwYav_Og75kgvFI)**
+**[Téléchargez le beatmap pack ici ! (82 MB)](https://mega.nz/file/vxswVRZC#uXZbQu_Ydpe65_3Fa60IY896obb1ZwYav_Og75kgvFI)**
 
 - NoMod
   1. [ABSOLUTE CASTAWAY - Shinsou Shintouron (-Luminate) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1286508#fruits/2696508)
@@ -161,9 +159,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Camellia as "Reverse of Riot" - Completeness Under Incompleteness ("true prooF" Long ver.) (Rocma) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1293903#fruits/2705426)**
 
-### Quarterfinals
+### Quarts de finale
 
-**[Download the mappack here! (98 MB)](https://mega.nz/file/HsElWKgb#BhRQffV33suyx8EX5LfjI1fQHoDXqYFHHNEZHoa1c6E)**
+**[Téléchargez le beatmap pack ici ! (98 MB)](https://mega.nz/file/HsElWKgb#BhRQffV33suyx8EX5LfjI1fQHoDXqYFHHNEZHoa1c6E)**
 
 - NoMod
   1. [Ayalis - Ai o Chikaishi Hime Kazari (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/784412#fruits/2741516)
@@ -186,9 +184,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Chata - enn (Spectator) \[The Melody of Wish, Desires\]](https://osu.ppy.sh/beatmapsets/692979#fruits/1466362)**
 
-### Round of 16
+### Huitièmes de finale
 
-**[Download the mappack here! (105 MB)](https://mega.nz/file/Wl9yGIaI#H97QzW9nfDFFcRmvxiWZgKLFQqeT8exABjjMDU1J1Tw)**
+**[Téléchargez le beatmap pack ici ! (105 MB)](https://mega.nz/file/Wl9yGIaI#H97QzW9nfDFFcRmvxiWZgKLFQqeT8exABjjMDU1J1Tw)**
 
 - NoMod
   1. [Mili - Ga1ahad and Scientific Witchery (Benita) \[Lacrima's Incantation\]](https://osu.ppy.sh/beatmapsets/1361768#fruits/2817663)
@@ -211,9 +209,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Zedd - Clarity feat. Foxes (kamome sano remix) (Ascendance) \[Ambivalence\]](https://osu.ppy.sh/beatmapsets/570924#fruits/1740665)**
 
-### Qualifiers
+### Qualifications
 
-**[Download the mappack here! (43 MB)](https://mega.nz/file/Hw8HXAJQ#RgksI_VDHlWBo9Gozsbq2n4H78JbZ6q9BbWWn5ufJMg)**
+**[Téléchargez le beatmap pack ici ! (43 MB)](https://mega.nz/file/Hw8HXAJQ#RgksI_VDHlWBo9Gozsbq2n4H78JbZ6q9BbWWn5ufJMg)**
 
 - NoMod
   1. [Shiena Nishizawa - FUBUKI (Secre) \[Shoukaku\]](https://osu.ppy.sh/beatmapsets/1041651#fruits/2177029)
@@ -225,128 +223,128 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   1. [siromaru + cranky - conflict (Bunnrei) \[Platter\]](https://osu.ppy.sh/beatmapsets/981762#fruits/2055786)
 
-## Match results
+## Résultats des matchs
 
-### Grand Finals
+### Grande Finale
 
-Saturday, 18 December 2021:
+Samedi, 18 Decembre 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **iron-wish** ::{ flag=FR }:: | **7** | 5 | ::{ flag=FR }:: \_\___________ | [#1](https://osu.ppy.sh/community/matches/95389445) |
 
-Sunday, 19 December 2021:
+Dimanche, 19 Decembre 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **JunkoAndHiro** ::{ flag=FR }:: | **7** | 5 | ::{ flag=FR }:: iron-wish | [#1](https://osu.ppy.sh/community/matches/95428119) |
 
-### Finals
+### Finales
 
-Saturday, 11 December 2021:
+Samedi, 11 Decembre 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **JunkoAndHiro** ::{ flag=FR }:: | **6** | 1 | ::{ flag=FR }:: iron-wish | [#1](https://osu.ppy.sh/community/matches/95096511) |
 
-Sunday, 12 December 2021:
+Dimanche, 12 Decembre 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **RexyChann** ::{ flag=FR }:: | **6** | 1 | ::{ flag=FR }:: Utopsia | [#1](https://osu.ppy.sh/community/matches/95149967) |
 | **\_\___________** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: RexyChann | [#1](https://osu.ppy.sh/community/matches/95152065) |
 
-### Semifinals
+### Demi-finales
 
-Saturday, 4 December 2021:
+Samedi, 4 Decembre 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| Kuzuyo ::{ flag=BE }:: | -1 | **0** | ::{ flag=FR }:: **JunkoAndHiro** | *win by default* |
+| Kuzuyo ::{ flag=BE }:: | -1 | **0** | ::{ flag=FR }:: **JunkoAndHiro** | *victoire par défaut* |
 | RexyChann ::{ flag=FR }:: | 1 | **6** | ::{ flag=FR }:: **iron-wish** | [#1](https://osu.ppy.sh/mp/94797662) |
-| **Utopsia** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Firelex | *win by default* |
-| leeiplo ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **MRkayle** | *win by default* |
+| **Utopsia** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Firelex | *victoire par défaut* |
+| leeiplo ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **MRkayle** | *victoire par défaut* |
 | Mimir ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\___________** | [#1](https://osu.ppy.sh/community/matches/94812153) |
-| **Issuko** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Gibralti | *win by default* |
+| **Issuko** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Gibralti | *victoire par défaut* |
 
-Sunday, 5 December 2021:
+Dimanche, 5 Decembre 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | Issuko ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\___________** | [#1](https://osu.ppy.sh/community/matches/94864020) |
 | MRkayle ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **Utopsia** | [#1](https://osu.ppy.sh/community/matches/94866270) |
-| Kuzuyo ::{ flag=BE } | -1 | **0** | ::{ flag=FR }:: **\_\___________** | *win by default* |
+| Kuzuyo ::{ flag=BE } | -1 | **0** | ::{ flag=FR }:: **\_\___________** | *victoire par défaut* |
 
-### Quarterfinals
+### Quarts de finale
 
-Friday, 26 November 2021:
+Vendredi, 26 Novembre 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Kuzuyo** ::{ flag=BE }:: | **5** | 2 | ::{ flag=FR }:: Utopsia | [#1](https://osu.ppy.sh/community/matches/94476333) |
-| **RexyChann** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Mimir | *win by default* |
+| **RexyChann** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Mimir | *victoire par défaut* |
 
-Saturday, 27 November 2021:
+Samedi, 27 Novembre 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | MissFlufly ::{ flag=FR }:: | 0 | **5** | ::{ flag=FR }:: **\_\___________** | [#1](https://osu.ppy.sh/community/matches/94510041) |
 | **JunkoAndHiro** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: leeiplo | [#1](https://osu.ppy.sh/community/matches/94530206) |
 
-Sunday, 28 November 2021:
+Dimanche, 28 Novembre 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **iron-wish** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: Issuko | [#1](https://osu.ppy.sh/community/matches/94566957) |
 
-### Round of 16
+### Huitièmes de finale
 
-Saturday, 20 November 2021:
+Samedi, 20 Novembre 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **JunkoAndHiro** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: MissFlufly | [#1](https://osu.ppy.sh/community/matches/94201935) |
 
-Sunday, 21 November 2021:
+Dimanche, 21 Novembre 2021:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Utopsia** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: Gibralti | [#1](https://osu.ppy.sh/community/matches/94252151) |
-| **Issuko** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Firelex | *win by default* |
+| **Issuko** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Firelex | *victoire par défaut* |
 | **Mimir** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: MRkayle | [#1](https://osu.ppy.sh/community/matches/94261867) |
-| \_\___________ ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **leeiplo** | *win by default* |
+| \_\___________ ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **leeiplo** | *victoire par défaut* |
 
-### Qualifiers
+### Qualifications
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1bzOdY-7V3Zarksv__8NGnll3mvTQwoWwXLFugPiOAs0/edit?usp=sharing) alongside the final standings on which player made it through to the next stage.
+Les statistiques détaillées de ce tour peuvent être trouvées [ici](https://docs.google.com/spreadsheets/d/1bzOdY-7V3Zarksv__8NGnll3mvTQwoWwXLFugPiOAs0/edit), ainsi que le classement final montrant quel joueur s'est qualifié pour l'étape suivante.
 
-## Ruleset
+## Règlement
 
-### General rules
+### Règles générales
 
-1. Participant must be within ranks #3,500 or below during registrations.
-2. The Score System used will be **Score V2**.
-3. If player can't attend within the span of **10 minutes**, the other player will win by default.
-4. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
-5. Catch French Beginner 6 will use double-elimination bracket, which means that there will be a loser's bracket.
-6. Any player with French flag can participate in the tournament.
+1. Vous devez être entre le rang 3 500 ou moins lors au classement général pendant la phase d'inscriptions.
+2. Les scores seront en **ScoreV2**.
+3. Un retard de plus de **10 minutes** à un match entrainera une victoire par défaut pour l'autre joueur.
+4. Même lors d'un tournoi, osu! reste un jeu, soyez amicaux et fair play.
+5. La Catch French Beginner 6 sera en double-élimination, ce qui signifie qu'il y aura un loser's bracket.
+6. N'importe quel joueur francophone peut participer au tournoi.
 
-### Match regulations
+### Règlements des matchs
 
-1. Players will do `!roll` at the start of the match to determine the order of who picks and bann first.
-2. Warmups are not allowed, so make sure you are well warmed up before playing against your opponent.
-3. Regarding map bans, the amount of map should be banned are as follows:
-   - From Round of 16 until Semifinals, each player will ban 1 map per match.
-   - In the Finals and Grand Finals, each player will ban 2 maps per match.
-4. Failed scores count, with that NoFail will be enforced for everyone
-5. The same player is not allowed to ban or the same mod twice in a row.
-6. Players will be forced to use a mod from a FreeMod pick.
-7. Hidden mod is combineable with HardRock and DoubleTime mod.
-8. The Tiebreaker will be played under NoMod or Hidden.
+1. Les joueurs lanceront un `!roll` au début du match pour déterminer l'ordre des choix : Le gagnant du roll ban en second et pick en premier, le perdant du roll ban en premier et pick en second.
+2. Les warm-up sont interdits, soyez sûr d'être bien échauffé avant de jouer votre match.
+3. En ce qui concerne les bans de maps, les quantités de maps qui peuvent être ban sont les suivantes :
+   - Des huitièmes de finale aux demi-finales, chaque joueur bannira 1 map par match.
+   - Lors des finales et des grandes finales, chaque joueur bannira 2 maps par match.
+4. Les scores fail comptent. Avec cela, le mod NoFail sera forcé pour tout le monde.
+5. Un même joueur n'a pas le droit de ban et de pick le même mod deux fois d'affilée.
+6. Les joueurs seront forcés de prendre un mod sur un pick FreeMod.
+7. Le Hidden est autorisé en HardRock et DoubleTime.
+8. Le Tiebreaker est joué en NoMod ou en Hidden uniquement.
 
-### Winning conditions
+### Conditions de victoire
 
-1. Round of 16: Best-of-7 (first to 4 points)
-2. Quarterfinals: Best-of-9 (first to 5 points)
-3. Semifinals and Finals: Best-of-11 (first to 6 points)
-4. Grand Finals: Best-of-13 (first to 7 points)
+1. Huitièmes de finale : Best-of-7 (premier à 4 points)
+2. Quarts de finale : Best-of-9 (premier à 5 points)
+3. Demi-finales : Best-of-11 (premier à 6 points)
+4. **Finales et Grande Finale** : Best-of-13 (premier à 7 points)
