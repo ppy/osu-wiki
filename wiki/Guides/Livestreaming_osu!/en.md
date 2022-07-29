@@ -34,7 +34,7 @@ When you launch OBS Studio for the first time, the auto-configuration wizard wil
 
 ![](img/configuration-wizard.png "OBS Studio's auto-configuration wizard")
 
-The next section to configure contains video settings. Choose the resolution of your screen for the `Base (Canvas) Resolution` field (should be detected automatically), and `Either 60 or 30, but prefer 60 when possible` for the `FPS` field.
+The next step is to configure some video settings. Choose the resolution of your screen for the `Base (Canvas) Resolution` field (should be detected automatically), and `Either 60 or 30, but prefer 60 when possible` for the `FPS` field.
 
 Finally, to connect the app to your Twitch channel, you will need to enter your stream information into OBS Studio. Click the `Use Stream Key` button, and enter the Primary Stream key that was copied earlier into the field. Leave other options checked as they are, and click `Next`.
 
