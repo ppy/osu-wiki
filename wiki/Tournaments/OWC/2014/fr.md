@@ -177,7 +177,7 @@ Cette compétition s'est conclue sur le podium suivant :
   2. [Memme - NEW Astronomas (Charles445) \[Extra\]](https://osu.ppy.sh/beatmapsets/87188#osu/238265)
   3. [Hatsune Miku - Dance of many (LKs) \[Dance\]](https://osu.ppy.sh/beatmapsets/45028#osu/140805)
 - Tiebreaker
-  1. **[Dark PHOENiX - The Primal Scene of Japon the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/121635#osu/311573)**
+  1. **[Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/121635#osu/311573)**
 
 ### Quarts de finale
 
@@ -532,7 +532,7 @@ Dimanche, 9 Novembre 2014:
 [flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
 [flag_DK]: /wiki/shared/flag/DK.gif "Danemark"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlandee"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
