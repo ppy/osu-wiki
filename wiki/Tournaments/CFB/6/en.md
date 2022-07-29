@@ -62,7 +62,7 @@ The Catch French Beginner 6 was run by various community members.
 | Seed | Members |
 | :-- | :-- |
 | Top | ::{ flag=BE }:: [Kuzuyo](https://osu.ppy.sh/users/18277357), ::{ flag=FR }:: [RexyChann](https://osu.ppy.sh/users/16965749), ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606), ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732) |
-| High | ::{ flag=FR }:: [\_\___________](https://osu.ppy.sh/users/6973354), ::{ flag=FR }:: [Issuko](https://osu.ppy.sh/users/11447466), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Utopsia](https://osu.ppy.sh/users/11080305) |
+| High | ::{ flag=FR }:: [\_\_\_\_\_\_\_\_\_\_\_\_](https://osu.ppy.sh/users/6973354), ::{ flag=FR }:: [Issuko](https://osu.ppy.sh/users/11447466), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Utopsia](https://osu.ppy.sh/users/11080305) |
 | Low | ::{ flag=FR }:: [Gibralti](https://osu.ppy.sh/users/14824174), ::{ flag=FR }:: [MRkayle](https://osu.ppy.sh/users/8296712), ::{ flag=FR }:: [Firelex](https://osu.ppy.sh/users/13235008), ::{ flag=FR }:: [leeiplo](https://osu.ppy.sh/users/11353650) |
 | Unseeded | ::{ flag=FR }:: [MissFlufly](https://osu.ppy.sh/users/13979291) |
 
@@ -74,7 +74,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [\_\___________](https://osu.ppy.sh/users/6973354) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [\_\_\_\_\_\_\_\_\_\_\_\_](https://osu.ppy.sh/users/6973354) |
 
 ## Mappools
 
@@ -229,7 +229,7 @@ Saturday, 18 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **iron-wish** ::{ flag=FR }:: | **7** | 5 | ::{ flag=FR }:: \_\___________ | [#1](https://osu.ppy.sh/community/matches/95389445) |
+| **iron-wish** ::{ flag=FR }:: | **7** | 5 | ::{ flag=FR }:: \_\_\_\_\_\_\_\_\_\_\_\_ | [#1](https://osu.ppy.sh/community/matches/95389445) |
 
 Sunday, 19 December 2021:
 
@@ -250,7 +250,7 @@ Sunday, 12 December 2021:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **RexyChann** ::{ flag=FR }:: | **6** | 1 | ::{ flag=FR }:: Utopsia | [#1](https://osu.ppy.sh/community/matches/95149967) |
-| **\_\___________** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: RexyChann | [#1](https://osu.ppy.sh/community/matches/95152065) |
+| **\_\_\_\_\_\_\_\_\_\_\_\_** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: RexyChann | [#1](https://osu.ppy.sh/community/matches/95152065) |
 
 ### Semifinals
 
@@ -262,16 +262,16 @@ Saturday, 4 December 2021:
 | RexyChann ::{ flag=FR }:: | 1 | **6** | ::{ flag=FR }:: **iron-wish** | [#1](https://osu.ppy.sh/community/matches/94797662) |
 | **Utopsia** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Firelex | *win by default* |
 | leeiplo ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **MRkayle** | *win by default* |
-| Mimir ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\___________** | [#1](https://osu.ppy.sh/community/matches/94812153) |
+| Mimir ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\_\_\_\_\_\_\_\_\_\_\_** | [#1](https://osu.ppy.sh/community/matches/94812153) |
 | **Issuko** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Gibralti | *win by default* |
 
 Sunday, 5 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Issuko ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\___________** | [#1](https://osu.ppy.sh/community/matches/94864020) |
+| Issuko ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\_\_\_\_\_\_\_\_\_\_\_** | [#1](https://osu.ppy.sh/community/matches/94864020) |
 | MRkayle ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **Utopsia** | [#1](https://osu.ppy.sh/community/matches/94866270) |
-| Kuzuyo ::{ flag=BE } | -1 | **0** | ::{ flag=FR }:: **\_\___________** | *win by default* |
+| Kuzuyo ::{ flag=BE } | -1 | **0** | ::{ flag=FR }:: **\_\_\_\_\_\_\_\_\_\_\_\_** | *win by default* |
 
 ### Quarterfinals
 
@@ -286,7 +286,7 @@ Saturday, 27 November 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| MissFlufly ::{ flag=FR }:: | 0 | **5** | ::{ flag=FR }:: **\_\___________** | [#1](https://osu.ppy.sh/community/matches/94510041) |
+| MissFlufly ::{ flag=FR }:: | 0 | **5** | ::{ flag=FR }:: **\_\_\_\_\_\_\_\_\_\_\_\_** | [#1](https://osu.ppy.sh/community/matches/94510041) |
 | **JunkoAndHiro** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: leeiplo | [#1](https://osu.ppy.sh/community/matches/94530206) |
 
 Sunday, 28 November 2021:
@@ -310,7 +310,7 @@ Sunday, 21 November 2021:
 | **Utopsia** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: Gibralti | [#1](https://osu.ppy.sh/community/matches/94252151) |
 | **Issuko** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Firelex | *win by default* |
 | **Mimir** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: MRkayle | [#1](https://osu.ppy.sh/community/matches/94261867) |
-| \_\___________ ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **leeiplo** | *win by default* |
+| \_\_\_\_\_\_\_\_\_\_\_\_ ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **leeiplo** | *win by default* |
 
 ### Qualifiers
 

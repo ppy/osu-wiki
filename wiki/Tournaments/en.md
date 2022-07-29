@@ -504,7 +504,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Catch French Beginner #3 | 2019-06-15 | 2019-07-20 | ::{ flag=FR }:: [MindLight](https://osu.ppy.sh/users/7664694) | ::{ flag=FR }:: [Ladylag](https://osu.ppy.sh/users/2812098) | ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519) |
 | [Catch French Beginner 4](CFB/4) | 2020-04-25 | 2020-05-30 | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172) |
 | [Catch French Beginner 5](CFB/5) | 2021-01-16 | 2021-02-21 | ::{ flag=FR }:: [Enias](https://osu.ppy.sh/users/8384680) | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) | ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) |
-| [Catch French Beginner 6](CFB/6) | 2021-11-13 | 2021-12-19 | ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732) | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606) | ::{ flag=FR }:: [\_\___________](https://osu.ppy.sh/users/6973354) |
+| [Catch French Beginner 6](CFB/6) | 2021-11-13 | 2021-12-19 | ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732) | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606) | ::{ flag=FR }:: [\_\_\_\_\_\_\_\_\_\_\_\_](https://osu.ppy.sh/users/6973354) |
 
 #### Catch French Cup
 
