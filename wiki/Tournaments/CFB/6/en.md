@@ -229,94 +229,92 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Sunday, 17 October 2021:
+Saturday, 18 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| AiNA ::{ flag=FR }:: | 3 | **7** | ::{ flag=FR }:: **Yruama** | [#1](https://osu.ppy.sh/community/matches/92544971 ) |
-| **Yruama** ::{ flag=FR }:: | **7** | 4 | ::{ flag=FR }:: AiNA | [#1](https://osu.ppy.sh/community/matches/92548424) |
+| **iron-wish** ::{ flag=FR }:: | **7** | 5 | ::{ flag=FR }:: \_\___________ | [#1](https://osu.ppy.sh/community/matches/95389445) |
+
+Sunday, 19 December 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **JunkoAndHiro** ::{ flag=FR }:: | **7** | 5 | ::{ flag=FR }:: iron-wish | [#1](https://osu.ppy.sh/community/matches/95428119) |
 
 ### Finals
 
-Saturday, 9 October 2021:
+Saturday, 11 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Yruama** ::{ flag=FR }:: | **7** | 3 | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/92162893 ) |
-| **AiNA** ::{ flag=FR }:: | **7** | 1 | ::{ flag=FR }:: Cryophenix | [#1](https://osu.ppy.sh/community/matches/92148642 ) |
+| **JunkoAndHiro** ::{ flag=FR }:: | **6** | 1 | ::{ flag=FR }:: iron-wish | [#1](https://osu.ppy.sh/community/matches/95096511) |
 
-Sunday, 10 October 2021:
+Sunday, 12 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Cryophenix ::{ flag=FR }:: | 2 | **7** | ::{ flag=FR }:: **Yruama** | [#1](https://osu.ppy.sh/community/matches/92206006) |
+| **RexyChann** ::{ flag=FR }:: | **6** | 1 | ::{ flag=FR }:: Utopsia | [#1](https://osu.ppy.sh/community/matches/95149967) |
+| **\_\___________** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: RexyChann | [#1](https://osu.ppy.sh/community/matches/95152065) |
 
 ### Semifinals
 
-Saturday, 2 October 2021:
+Saturday, 4 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Papy Enias** ::{ flag=FR }:: | **6** | 5 | ::{ flag=FR }:: Trifano | [#1](https://osu.ppy.sh/community/matches/91806838) |
-| **Bebar** ::{ flag=FR }:: | **6** | 5 | ::{ flag=FR }:: Shamookie | [#1](https://osu.ppy.sh/community/matches/91803843) |
-| **Cryophenix** ::{ flag=FR }:: | **6** | 5 | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/91824771) |
+| Kuzuyo ::{ flag=BE }:: | -1 | **0** | ::{ flag=FR }:: **JunkoAndHiro** | *win by default* |
+| RexyChann ::{ flag=FR }:: | 1 | **6** | ::{ flag=FR }:: **iron-wish** | [#1](https://osu.ppy.sh/mp/94797662) |
+| **Utopsia** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Firelex | *win by default* |
+| leeiplo ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **MRkayle** | *win by default* |
+| Mimir ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\___________** | [#1](https://osu.ppy.sh/community/matches/94812153) |
+| **Issuko** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Gibralti | *win by default* |
 
-Sunday, 3 October 2021:
+Sunday, 5 December 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **AiNA** ::{ flag=FR }:: | **6** | 3 | ::{ flag=FR }:: Yruama | [#1](https://osu.ppy.sh/community/matches/91858536) |
-| **Yruama** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: Bebar | [#1](https://osu.ppy.sh/community/matches/91862769) |
-| **floflim** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: Papy Enias | [#1](https://osu.ppy.sh/community/matches/91868465) |
+| Issuko ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\___________** | [#1](https://osu.ppy.sh/community/matches/94864020) |
+| MRkayle ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **Utopsia** | [#1](https://osu.ppy.sh/community/matches/94866270) |
+| Kuzuyo ::{ flag=BE } | -1 | **0** | ::{ flag=FR }:: **\_\___________** | *win by default* |
 
 ### Quarterfinals
 
-Tuesday, 21 September 2021:
+Friday, 26 November 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Shamookie Simp ::{ flag=FR }:: | 4 | **5** | ::{ flag=FR }:: **floflim** | [#1](https://osu.ppy.sh/community/matches/91264199) |
+| **Kuzuyo** ::{ flag=BE }:: | **5** | 2 | ::{ flag=FR }:: Utopsia | [#1](https://osu.ppy.sh/community/matches/94476333) |
+| **RexyChann** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Mimir | *win by default* |
 
-Saturday, 25 September 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| BigNounours ::{ flag=FR }:: | 1 | **5** | ::{ flag=FR }:: **Bebar** | [#1](https://osu.ppy.sh/community/matches/91454147) |
-| Le Gentil ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **wind in seoul** | *win by default* |
-| **Kanna\_Shiro** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Kaudae | *win by default* |
-| **NoLimitFS** ::{ flag=FR }:: | **5** | 4 | ::{ flag=FR }:: caillrot | [#1](https://osu.ppy.sh/community/matches/91477795) |
-| **AiNA** ::{ flag=FR }:: | **5** | 3 | ::{ flag=FR }:: Trifano | [#1](https://osu.ppy.sh/community/matches/91469409) |
-| **Yruama** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Papy Enias | [#1](https://osu.ppy.sh/community/matches/91477795) |
-| Shamookie ::{ flag=FR }:: | 0 | **5** | ::{ flag=FR }:: **Cryophenix** | [#1](https://osu.ppy.sh/community/matches/91465967) |
-
-Sunday, 26 September 2021:
+Saturday, 27 November 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Trifano** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: NoLimitFS | [#1](https://osu.ppy.sh/community/matches/91526055) |
-| **Papy Enias** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Kanna\_Shiro | *win by default* |
-| **Shamookie** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: wind in seoul | [#1](https://osu.ppy.sh/community/matches/91517924), [#2](https://osu.ppy.sh/community/matches/91519293) |
-| Shamookie Simp ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **Bebar** | *win by default* |
+| MissFlufly ::{ flag=FR }:: | 0 | **5** | ::{ flag=FR }:: **\_\___________** | [#1](https://osu.ppy.sh/community/matches/94510041) |
+| **JunkoAndHiro** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: leeiplo | [#1](https://osu.ppy.sh/community/matches/94530206) |
+
+Sunday, 28 November 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **iron-wish** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: Issuko | [#1](https://osu.ppy.sh/community/matches/94566957) |
 
 ### Round of 16
 
-Saturday, 18 September 2021:
+Saturday, 20 November 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Papy Enias** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: wind in seoul | [#1](https://osu.ppy.sh/community/matches/91113223) |
-| **Shamookie Simp** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: NoLimitFS | [#1](https://osu.ppy.sh/community/matches/91109773) |
-| **floflim** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: caillrot | [#1](https://osu.ppy.sh/community/matches/91107241) |
+| **JunkoAndHiro** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: MissFlufly | [#1](https://osu.ppy.sh/community/matches/94201935) |
 
-Sunday, 19 September 2021:
+Sunday, 21 November 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Bebar ::{ flag=FR }:: | 3 | **5** | ::{ flag=FR }:: **Trifano** | [#1](https://osu.ppy.sh/community/matches/91159737) |
-| **Yruama** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: Le Gentil | [#1](https://osu.ppy.sh/community/matches/91165028) |
-| **AiNA** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: BigNounours | *win by default* |
-| **Shamookie** ::{ flag=FR }:: | **5** | 3 | ::{ flag=FR }:: Kanna\_Shiro | [#1](https://osu.ppy.sh/community/matches/91171042) |
-| **Cryophenix** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Kaudae | [#1](https://osu.ppy.sh/community/matches/91158736) |
+| **Utopsia** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: Gibralti | [#1](https://osu.ppy.sh/community/matches/94252151) |
+| **Issuko** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Firelex | *win by default* |
+| **Mimir** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: MRkayle | [#1](https://osu.ppy.sh/community/matches/94261867) |
+| \_\___________ ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **leeiplo** | *win by default* |
 
 ### Qualifiers
 
