@@ -1,6 +1,6 @@
 ---
 tags:
-  - MWC
+  - MWC2022
   - MWC 2022
   - MWC4K 2022
   - MWC 4K 2022
