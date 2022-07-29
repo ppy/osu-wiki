@@ -56,7 +56,7 @@ If everything goes right, you should see the osu! window in the preview.
 
 ## What's next?
 
-Now, after you configure OBS Studio and your Twitch account, click `Start Streaming` in OBS Studio to make a livestream. Your stream will appear on [Twitch](https://www.twitch.tv/directory/game/osu!) and [osu! website's livestream listing](https://osu.ppy.sh/community/livestreams) in a couple of minutes. That's all you need to know to start your journey with streaming. Of course, this guide only covers the basics of livestreaming; there are many ways to go beyond and improve your livestream. So, some important points to consider:
+Now, after configuring OBS Studio and your Twitch account, click `Start Streaming` in OBS Studio to make a livestream. Your stream will appear on [Twitch](https://www.twitch.tv/directory/game/osu!) and [osu! website's livestream listing](https://osu.ppy.sh/community/livestreams) in a couple of minutes. That's all you need to know to start your journey with streaming. Of course, this guide only covers the basics of livestreaming; there are many ways to go beyond and improve your livestream. So, some important points to consider:
 
 - **Find the best streaming settings.** The automatically configured settings provided by OBS Studio might not be perfect for your device. So, check if your livestream is working fine and, if not, what needs to be improved to provide the best experience for your viewers.
 - **Build a community.** This is very challenging, as building your own community from scratch requires high levels of commitment, dedication, and time. However, it can result in the most reward for your effort.
