@@ -153,8 +153,8 @@ This skin set is not gameplay relevant.
 | pippidonclear{n}.png | - | required | - |
 | pippidonfail{n}.png | - | required | - |
 | pippidonidle{n}.png | - | required | - |
-| pippidonkiai{-n}.png | - | required | - |
-| taiko-flower-group{n}.png | combobursts in osu!taiko | optional | - |
+| pippidonkiai{n}.png | - | required | - |
+| taiko-flower-group{-n}.png | combobursts in osu!taiko | optional | - |
 
 ## osu!catch
 
