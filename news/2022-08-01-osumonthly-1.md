@@ -172,7 +172,7 @@ One thing you might've missed is the new fancy Repel mod added to lazer, which i
 
 <div align="center">
     <video width="100%" controls>
-        <source src="https://user-images.githubusercontent.com/47010459/172435116-6b09a48c-6fd6-4abb-9e5f-e96ab3565184.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/osu-monthly/2022-08/lazer-repel.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -180,7 +180,7 @@ Another feature that's maybe not the newest, but some of you might have missed, 
 
 <div align="center">
     <video width="100%" controls>
-        <source src="https://user-images.githubusercontent.com/191335/118155608-5c5fce80-b453-11eb-88f4-e552b10ed5f1.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/osu-monthly/2022-08/lazer-skin.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
