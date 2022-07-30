@@ -22,7 +22,7 @@ Don't just take our word for it though, check out the preview below to hear a sa
 
 ### Schadenfreude
 
-Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/1816239) hosted by [Realazy](https://osu.ppy.sh/users/918297)!
+Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/1816239) hosted by [Realazy](https://osu.ppy.sh/users/918297) or [this osu!catch map](https://osu.ppy.sh/beatmapsets/1698949) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/288/Schadenfreude/ZxNX%20-%20Schadenfreude.mp3" type="audio/mpeg">
