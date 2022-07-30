@@ -69,7 +69,7 @@ The entirety of this skin set is gameplay relevant.
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
-| sliderb(n).png | - | required | 118x118px |
+| sliderb(-n).png | - | required | 118x118px |
 | sliderb-nd.png | should only be used if default skin is forced and no custom sliderb is used | optional | 118x118px |
 | sliderb-spec.png | should only be used if default skin is forced and no custom sliderb is used | optional | 118x118px |
 | sliderfollowcircle(-n).png | - | required | 256x256px |
@@ -150,10 +150,10 @@ This skin set is not gameplay relevant.
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
-| pippidonclear(n).png | - | required | - |
-| pippidonfail(n).png | - | required | - |
-| pippidonidle(n).png | - | required | - |
-| pippidonkiai(n).png | - | required | - |
+| pippidonclear(-n).png | - | required | - |
+| pippidonfail(-n).png | - | required | - |
+| pippidonidle(-n).png | - | required | - |
+| pippidonkiai(-n).png | - | required | - |
 | taiko-flower-group(-n).png | combobursts in osu!taiko | optional | - |
 
 ## osu!catch
