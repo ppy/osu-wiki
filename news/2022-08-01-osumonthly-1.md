@@ -20,7 +20,7 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 
 ## Table of Contents
 
-- [What's New in osu!?](#what's-new-in-osu)
+- [What's New in osu!?](#what's-new-in-osu!?)
 - [Top Scores of the Month](#top-scores-of-the-month)
 - [New Features in osu!(lazer)](#new-features-in-osu!(lazer))
 - [Monthly Community Quiz](#monthly-community-quiz)
