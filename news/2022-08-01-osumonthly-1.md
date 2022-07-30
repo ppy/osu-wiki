@@ -18,15 +18,15 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 
 ---
 
-### Table of Contents
+## Table of Contents
 
-- [What's new in osu!?](#whats-up-in-osu)
+- [What's New in osu!?](#whats-new-in-osu)
 - [Top Scores of the Month](#top-scores-of-the-month)
-- [New features on osu!(lazer)](#new-features-on-osulazer)
-- [Summary of this article](#summary-of-this-article)
+- [New Features in osu!(lazer)](#new-features-in-osu!\(lazer\))
+- [Monthly Community Quiz](#monthly-community-quiz)
 - [End Word](#end-word)
 
-## What's new in osu!? 
+## What's New in osu!? 
 
 Here are the latest updates, events, and more!
 
@@ -105,7 +105,7 @@ As it is starting the on **6th of August**, we can't actually talk about it more
 
 ---
 
-## Top scores of the Month!
+## Top Scores of the Month
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -157,7 +157,7 @@ Coming in with an HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.pp
 
 ---
 
-## New Features on osu!(lazer)!
+## New Features in osu!(lazer)!
 
 The new client has never been so **close** to release (there's still a lot of work on it!), and has **new mods**, more original than never!
 
@@ -184,7 +184,7 @@ Another feature that's maybe not the newest, but some of you might have missed, 
     </video>
 </div>
 
-## Month's Community Quiz
+## Monthly Community Quiz
 
 For those who think they have all the answers... here's a riddle from us to you!
 
