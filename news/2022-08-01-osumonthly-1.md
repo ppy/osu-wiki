@@ -20,9 +20,9 @@ It'll never be the same as osu!weekly, but we're working hard to propose a frequ
 
 ## Table of Contents
 
-- [What's New in osu!?](#whats-new-in-osu)
+- [What's New in osu!?](#what's-new-in-osu)
 - [Top Scores of the Month](#top-scores-of-the-month)
-- [New Features in osu!(lazer)](#new-features-in-osu!\(lazer\))
+- [New Features in osu!(lazer)](#new-features-in-osu!(lazer))
 - [Monthly Community Quiz](#monthly-community-quiz)
 - [End Word](#end-word)
 
@@ -157,7 +157,7 @@ Coming in with an HD HR 4xmiss on [Kurokotei’s Galaxy Collapse](https://osu.pp
 
 ---
 
-## New Features in osu!(lazer)!
+## New Features in osu!(lazer)
 
 The new client has never been so **close** to release (there's still a lot of work on it!), and has **new mods**, more original than never!
 
