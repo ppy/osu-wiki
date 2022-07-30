@@ -62,7 +62,7 @@ Thanks again to [BTMC](https://osu.ppy.sh/users/3171691) and his staff for this 
 
 #### EGTS 2022
 
-As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, members of the osu!taiko community take it upon themselves to rival even that of [*The Roundtable*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable) with their very own annual entry of **[Expert Global Taiko Showdown 2022](/wiki/en/Tournaments/GTS/EGTS_2022)**!
+As if we could allow for osu! to take all the glory in its showcasing of top players and their performances, members of the osu!taiko community take it upon themselves to rival even that of [*The Roundtable*](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable) with their very own annual entry of **[Expert Global Taiko Showdown 2022](/wiki/Tournaments/GTS/EGTS_2022)**!
 
 As the name implies, the showdown is to take place between those whose dreams consist of taiko drumming, kiai slider velocity shenanigans, dons, katsu, and quite possibly, even, Taikonator 3000! This is a tournament that showcases those whose passion for Taiko is not just exemplary in their gameplay but in every other way. 
 
@@ -79,7 +79,7 @@ Please check it out and leave your thoughts about!
 
 #### osu!catch World Cup 2022 Concludes
 
-*At the beginning of July, the recent eleventh iteration of the [osu!catch World Cup 2022](/wiki/en/Tournaments/CWC/2022) has been concluded.*
+*At the beginning of July, the recent eleventh iteration of the [osu!catch World Cup 2022](/wiki/Tournaments/CWC/2022) was concluded.*
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/podium.png)
 
@@ -91,7 +91,7 @@ The United States entered this tournament with almost the same roster with swapp
 
 With the recent change of swapping from Group Stages to Qualifiers format, most of the players and viewers didn't expect to see China on the top despite failing their previous run placing 7th—8th place. Their expectations were worth it in the end as they instantly gained their glory reaching the winner's finals bracket without losing a single match until clashing with South Korea and, ultimately, the United States. Even with a long year of absence, China showed that even being absent for an entire year they can still make a good fight with top teams.
 
-There are still plenty of tournaments running, even after the conclusion of CWC! The digit tournaments, [4 Digit Catch World Cup 2022](/wiki/en/Tournaments/4CWC/2022) and [3 Digit Catch World Cup 2022](https://osu.ppy.sh/community/forums/topics/1580097 ), are up and running and the second iteration of [Catch French Dual Cup 2](https://osu.ppy.sh/community/forums/topics/1605746) is currently in the registering phase. There's nothing to talk about these tournaments just quite yet, but maybe with the new osu!monthly release we can fully recap what infamous rivalries transpire along with the conclusions, and maybe something new!
+There are still plenty of tournaments running, even after the conclusion of CWC! The digit tournaments, [4 Digit Catch World Cup 2022](/wiki/Tournaments/4CWC/2022) and [3 Digit Catch World Cup 2022](https://osu.ppy.sh/community/forums/topics/1580097 ), are up and running and the second iteration of [Catch French Dual Cup 2](https://osu.ppy.sh/community/forums/topics/1605746) is currently in the registering phase. There's nothing to talk about these tournaments just quite yet, but maybe with the new osu!monthly release we can fully recap what infamous rivalries transpire along with the conclusions, and maybe something new!
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
