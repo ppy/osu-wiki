@@ -2,7 +2,7 @@
 
 The following tables contain skin sets that are used in user-specific and beatmap-specific skins. When skinning gameplay elements in beatmap-specific skins, complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.
 
-Filenames containing `{-n}` or `{n}`, excluding combobursts, can be animated. For example, hitcircleoverlay{-n}.png can be skinned as a single image (hitcircleoverlay.png), or multiple images that would be animated in a loop (hitcircleoveray-0.png, hitcircleoverlay-1.png, hitcircleoverlay-2.png, etc.). Comboburst images will follow the same naming format, but instead of being animated, one will display at a time per comboburst.
+Filenames containing `{-n}` or `{n}`, excluding combobursts, can be animated. For example, hitcircleoverlay{-n}.png can be skinned as a single image (hitcircleoverlay.png), or multiple images that would be animated in a loop (hitcircleoveray-0.png, hitcircleoverlay-1.png, hitcircleoverlay-2.png, etc.). Comboburst images follow the same naming format, but instead of being animated, one image will display at a time per comboburst.
 
 [Download the skin sets template](https://assets.ppy.sh/media/wiki/BeatmapSkinTemplate.rar) for a simpler view of the tables.
 
