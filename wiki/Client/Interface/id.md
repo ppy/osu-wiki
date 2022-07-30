@@ -39,12 +39,12 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 ![](img/play-menu.jpg "Menu bermain")
 
 - Click Solo (P) untuk bermain sendiri.
-- Click Multi (M) bermain dengan orang lain. Kamu akan diarahkan ke layar [bermain bersama](/wiki/Gameplay/Multiplayer).
+- Click Multi (M) bermain dengan orang lain. Kamu akan diarahkan ke layar [bermain bersama](/wiki/Client/Interface/Multiplayer).
 - Click Back untuk kembali ke Menu Utama
 
 ### Lobi Bermain Bersama
 
-*Penjelasan lebih lanjut: [Bermain Bersama](/wiki/Gameplay/Multiplayer)*
+*Penjelasan lebih lanjut: [Bermain Bersama](/wiki/Client/Interface/Multiplayer)*
 
 ![](img/multi-lobby.jpg)
 

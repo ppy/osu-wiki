@@ -24,7 +24,7 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 
 ## Konsol Chat yang Diperluas
 
-*[osu!academy](/wiki/Community/Video_series/osu!academy) membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Multiplayer](/wiki/Gameplay/Multiplayer).*
+*[osu!academy](/wiki/Community/Video_series/osu!academy) membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Multiplayer](/wiki/Client/Interface/Multiplayer).*
 
 Kamu dapat menekan `F9` atau klik tombol `Online Users` di bagian bawah kanan layar untuk membuka Konsol Chat yang Diperluas. Selain konsol obrolan, juga menampilkan informasi berbagai macam pengguna yang sedang daring osu!
 

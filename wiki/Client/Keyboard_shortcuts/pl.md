@@ -33,7 +33,7 @@ W osu! jest wiele różnych skrótów klawiszowych, które mogą być wykorzysta
 ## Główne menu
 
 - **P**: Tryb Rozgrywki (dwukrotnie dla wyboru piosenek)
-- **P - M**: Tryb Rozgrywki ([Multiplayer](/wiki/Gameplay/Multiplayer))
+- **P - M**: Tryb Rozgrywki ([Multiplayer](/wiki/Client/Interface/Multiplayer))
 - **E**: Tryb Edycji (wybór piosenek)
 - **J**: Przejdź do (odtwarzacz)
 - **Z/X/C/V/B**: Sterowanie odtwarzaczem (styl Winamp'a)

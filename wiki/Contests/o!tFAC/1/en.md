@@ -31,9 +31,9 @@ The osu!taiko Featured Artist Cup #1 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) |
-| Designer | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| Judge | ![][flag_US] [Alchyr](https://osu.ppy.sh/users/4993032), ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097), ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
+| Host | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| Designer | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
+| Judge | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
 
 ## Prizes
 
@@ -57,9 +57,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [woosungko](https://osu.ppy.sh/users/14184157) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TH] [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) |
 
 ## Ruleset
 
@@ -81,12 +81,4 @@ This competition has come to an end and resulted in the following podium:
 
 ## Notes
 
-[^prizes-ranked]: ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) and ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) will mod and push the winning entry to Ranked if the winner chooses to, and **if they get the necessary difficulties to form a rankable spread when needed**.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[^prizes-ranked]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) will mod and push the winning entry to Ranked if the winner chooses to, and **if they get the necessary difficulties to form a rankable spread when needed**.

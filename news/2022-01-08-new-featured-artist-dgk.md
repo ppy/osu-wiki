@@ -22,6 +22,8 @@ See what the hype's all about by watching a replay of [this straight-slider-focu
     </video>
 </div>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### nx.
 
 Try [the beatmap from the video above](https://osu.ppy.sh/beatmapsets/1667057) hosted by [-Sylvari](https://osu.ppy.sh/users/3493804)!

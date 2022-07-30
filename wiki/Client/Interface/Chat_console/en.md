@@ -26,7 +26,7 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 
 ## Extended Chat Console
 
-*[osu!academy](/wiki/Community/Video_series/osu!academy) covered this page in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with [Multiplayer](/wiki/Gameplay/Multiplayer).*
+*[osu!academy](/wiki/Community/Video_series/osu!academy) covered this page in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with [Multiplayer](/wiki/Client/Interface/Multiplayer).*
 
 From most screens in osu! you can press `F9` or click the `Online Users` button at the lower right of the Intro Screen to toggle the Extended Chat Console. In addition to the Chat Console, Extended Chat overlays a list of panels in the remaining two thirds of the screen, displaying information on the users currently signed in to osu!
 
@@ -43,11 +43,11 @@ Each user signed in to osu! has a user panel displayed in Extended Chat. By defa
 
 | Panel colour | Description |
 | :-- | :-- |
-| ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | Dark Blue - Players is currently idle or not doing anything or just chatting. |
+| ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | Dark Blue - Player is currently idle or not doing anything or just chatting. |
 | ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | Grey - Playing a beatmap in solo. |
 | ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | Light Blue - Watching a replay or spectating someone. |
 | ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap") | Red - Editing their own beatmap. |
-| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap") | Purple - Test playing a beatmap either it's their beatmap or not. |
+| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap") | Purple - Test playing a beatmap in the editor. |
 | ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap") | Turquoise - Submitting (either uploading or updating) the beatmap that they have made. |
 | ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap") | Green - Modding or editing someone else's beatmap. |
 | ![Player in Multiplayer](img/Chat_Console-Multiplayer.png "Player in Multiplayer") | Brown - User is in multiplayer, but not playing. |

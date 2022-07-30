@@ -32,7 +32,7 @@ Bine ați venit la osu! wiki, un proiect care conține o gamă largă de informa
 
 [Moduri de joc](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Obiect lovit](/wiki/Hit_object) • [Moduri](/wiki/Game_modifier) • [Scor](/wiki/Gameplay/Score) • [Reluare](/wiki/Gameplay/Replay) • [Multi](/wiki/Gameplay/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Obiect lovit](/wiki/Hit_object) • [Moduri](/wiki/Game_modifier) • [Scor](/wiki/Gameplay/Score) • [Reluare](/wiki/Gameplay/Replay) • [Multi](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

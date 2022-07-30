@@ -6,7 +6,7 @@ tags:
 
 # osu!trivium Quiz 2020
 
-The **osu!trivium Quiz 2020** was a free-for-all osu! trivia quiz contest hosted by ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718). It was the first osu!trivium Quiz, the world's hardest quiz on osu!.
+The **osu!trivium Quiz 2020** was a free-for-all osu! trivia quiz contest hosted by ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718). It was the first osu!trivium Quiz, the world's hardest quiz on osu!.
 
 Teams of up to 4 people competed against each other in answering questions about the game's lore, obscure facts, and various quirky happenings in the community throughout the years.
 
@@ -34,8 +34,8 @@ The osu!trivium Quiz 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Helper | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) |
+| Host | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
+| Helper | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) |
 
 ## Links
 
@@ -50,9 +50,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team | Players |
 | :-: | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | nerd neck esoteric collection of individuals | ![][flag_US] [1103](https://osu.ppy.sh/users/7306698), ![][flag_US] [GalacticLightN](https://osu.ppy.sh/users/4772172), ![][flag_US] [Leebs](https://osu.ppy.sh/users/7636779), ![][flag_US] [headstack](https://osu.ppy.sh/users/10322186) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 21 | ![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889), ![][flag_CL] [Eunha](https://osu.ppy.sh/users/7701428), ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050), ![][flag_CL] [saumensch](https://osu.ppy.sh/users/18157510) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 5 | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [cdh](https://osu.ppy.sh/users/2403621), ![][flag_US] [icedtea](https://osu.ppy.sh/users/9631242) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | nerd neck esoteric collection of individuals | ::{ flag=US }:: [1103](https://osu.ppy.sh/users/7306698), ::{ flag=US }:: [GalacticLightN](https://osu.ppy.sh/users/4772172), ::{ flag=US }:: [Leebs](https://osu.ppy.sh/users/7636779), ::{ flag=US }:: [headstack](https://osu.ppy.sh/users/10322186) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 21 | ::{ flag=CL }:: [Barack](https://osu.ppy.sh/users/9402889), ::{ flag=CL }:: [Eunha](https://osu.ppy.sh/users/7701428), ::{ flag=CL }:: [kanocchi](https://osu.ppy.sh/users/2321050), ::{ flag=CL }:: [saumensch](https://osu.ppy.sh/users/18157510) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 5 | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=US }:: [icedtea](https://osu.ppy.sh/users/9631242) |
 
 ## Quiz answers
 
@@ -69,12 +69,3 @@ Below is a list of links to answers to each question. Clicking on any of them wi
 ## Ruleset
 
 - You cannot ask [mangomizer](https://osu.ppy.sh/users/1893718) for information, hints, or answers.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

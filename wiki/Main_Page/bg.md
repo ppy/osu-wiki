@@ -40,7 +40,7 @@ no_native_review: true
 
 [Видове игра](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Бийтмап](/wiki/Beatmap) • [Трудност](/wiki/Beatmap/Difficulty) • [Уцели обект](/wiki/Hit_object) • [Модове](/wiki/Game_modifier) • [Резултат](/wiki/Gameplay/Score) • [Повторение](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мултиплеър](/wiki/Gameplay/Multiplayer)
+[Бийтмап](/wiki/Beatmap) • [Трудност](/wiki/Beatmap/Difficulty) • [Уцели обект](/wiki/Hit_object) • [Модове](/wiki/Game_modifier) • [Резултат](/wiki/Gameplay/Score) • [Повторение](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мултиплеър](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

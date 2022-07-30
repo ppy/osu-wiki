@@ -12,7 +12,7 @@ tags:
 
 ![CCV logo](img/logo.png)
 
-The **Corgi Cup V** (***CCV***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710). It was the fifth instalment of the Corgi Cup.
+The **Corgi Cup V** (***CCV***) was a 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), and ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710). It was the fifth instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -43,12 +43,12 @@ Corgi Cup V was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappool selector | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_SE] [Kotayo](https://osu.ppy.sh/users/1730025), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| Streamer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850) |
-| Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_DE] [Irate](https://osu.ppy.sh/users/7166084), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_SE] [Kotayo](https://osu.ppy.sh/users/1730025), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
-| Designer | ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
-| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_NO] [k3v5t3r](https://osu.ppy.sh/users/8143379), ![][flag_GB] [Nitronic Techno](https://osu.ppy.sh/users/5298504), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_UY] [moondust](https://osu.ppy.sh/users/4662596), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841) |
+| Host | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Mappool selector | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| Streamer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850) |
+| Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=DE }:: [Irate](https://osu.ppy.sh/users/7166084), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025), ::{ flag=FI }:: [Mara](https://osu.ppy.sh/users/194294) |
+| Designer | ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
+| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=NO }:: [k3v5t3r](https://osu.ppy.sh/users/8143379), ::{ flag=GB }:: [Nitronic Techno](https://osu.ppy.sh/users/5298504), ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=UY }:: [moondust](https://osu.ppy.sh/users/4662596), ::{ flag=US }:: [dblade](https://osu.ppy.sh/users/4272841) |
 
 ## Links
 
@@ -61,9 +61,9 @@ Corgi Cup V was run by various community members.
 
 | Seed | Members |
 | :-: | :-- |
-| 1-8 | ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262), ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581), ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239), ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142), ![][flag_GB] [Jameslike](https://osu.ppy.sh/users/2415743) |
-| 9-16 | ![][flag_NL] [Jackylam5](https://osu.ppy.sh/users/1540807), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_US] [Hot Korean Girl](https://osu.ppy.sh/users/3976494), ![][flag_GB] [djsettle](https://osu.ppy.sh/users/4010354), ![][flag_GB] [Summer Solstice](https://osu.ppy.sh/users/3233710), ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453), ![][flag_FI] [Jerekek](https://osu.ppy.sh/users/4162662) |
-| 17-32 | ![][flag_US] [Joezapy](https://osu.ppy.sh/users/6725659), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238), ![][flag_GB] [OskaRRRitoS](https://osu.ppy.sh/users/7051163), ![][flag_CA] [kymotsujason](https://osu.ppy.sh/users/2541804), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_CA] [RAG3](https://osu.ppy.sh/users/2883798), ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446), ![][flag_SE] [Nitroz](https://osu.ppy.sh/users/5256529), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [spook](https://osu.ppy.sh/users/2232928), ![][flag_FI] [Poofie](https://osu.ppy.sh/users/3517198) |
+| 1-8 | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [SoraRoxas01](https://osu.ppy.sh/users/1986262), ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581), ::{ flag=FR }:: [Flaven](https://osu.ppy.sh/users/3213239), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142), ::{ flag=GB }:: [Jameslike](https://osu.ppy.sh/users/2415743) |
+| 9-16 | ::{ flag=NL }:: [Jackylam5](https://osu.ppy.sh/users/1540807), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=US }:: [Hot Korean Girl](https://osu.ppy.sh/users/3976494), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [Summer Solstice](https://osu.ppy.sh/users/3233710), ::{ flag=LV }:: [waywern2012](https://osu.ppy.sh/users/5870453), ::{ flag=FI }:: [Jerekek](https://osu.ppy.sh/users/4162662) |
+| 17-32 | ::{ flag=US }:: [Joezapy](https://osu.ppy.sh/users/6725659), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238), ::{ flag=GB }:: [OskaRRRitoS](https://osu.ppy.sh/users/7051163), ::{ flag=CA }:: [kymotsujason](https://osu.ppy.sh/users/2541804), ::{ flag=US }:: [Dios Dong](https://osu.ppy.sh/users/3958619), ::{ flag=FI }:: [Mara](https://osu.ppy.sh/users/194294), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=CA }:: [RAG3](https://osu.ppy.sh/users/2883798), ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446), ::{ flag=SE }:: [Nitroz](https://osu.ppy.sh/users/5256529), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=GB }:: [spook](https://osu.ppy.sh/users/2232928), ::{ flag=FI }:: [Poofie](https://osu.ppy.sh/users/3517198) |
 
 ## Podium
 
@@ -71,9 +71,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581)  |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581)  |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
 
 ## Mappools
 
@@ -254,7 +254,7 @@ Sunday, 13 May 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Karthy** ![][flag_GB] | **7** | 1 | ![][flag_NO] -GN | [#1](https://osu.ppy.sh/community/matches/42447467) |
+| **Karthy** ::{ flag=GB }:: | **7** | 1 | ::{ flag=NO }:: -GN | [#1](https://osu.ppy.sh/community/matches/42447467) |
 
 #### Losers bracket final
 
@@ -262,7 +262,7 @@ Saturday, 12 May 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| SoraRoxas01 ![][flag_GB] | 6 | **7** | ![][flag_NO] **-GN** | [#1](https://osu.ppy.sh/community/matches/42412036) |
+| SoraRoxas01 ::{ flag=GB }:: | 6 | **7** | ::{ flag=NO }:: **-GN** | [#1](https://osu.ppy.sh/community/matches/42412036) |
 
 ### Finals
 
@@ -272,7 +272,7 @@ Saturday, 5 May 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| -GN ![][flag_NO] | 4 | **6** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/42230326) |
+| -GN ::{ flag=NO }:: | 4 | **6** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/42230326) |
 
 #### Losers bracket
 
@@ -280,19 +280,19 @@ Sunday, 6 May 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| YokesPai ![][flag_NO] | 2 | **6** | ![][flag_GB] **SoraRoxas01** | [#1](https://osu.ppy.sh/community/matches/42260927) |
+| YokesPai ::{ flag=NO }:: | 2 | **6** | ::{ flag=GB }:: **SoraRoxas01** | [#1](https://osu.ppy.sh/community/matches/42260927) |
 
 Monday, 7 May 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **OPJames** ![][flag_GB] | **6** | 5 | ![][flag_FR] Flaven | [#1](https://osu.ppy.sh/community/matches/42285115) |
+| **OPJames** ::{ flag=GB }:: | **6** | 5 | ::{ flag=FR }:: Flaven | [#1](https://osu.ppy.sh/community/matches/42285115) |
 
 Tuesday, 8 May 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **SoraRoxas01** ![][flag_GB] | **6** | 2 | ![][flag_GB] OPJames | [#1](https://osu.ppy.sh/community/matches/42311651) |
+| **SoraRoxas01** ::{ flag=GB }:: | **6** | 2 | ::{ flag=GB }:: OPJames | [#1](https://osu.ppy.sh/community/matches/42311651) |
 
 ### Semifinals
 
@@ -302,13 +302,13 @@ Friday, 27 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| YokesPai ![][flag_NO] | 2 | **6** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/42004273) |
+| YokesPai ::{ flag=NO }:: | 2 | **6** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/42004273) |
 
 Monday, 30 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-GN** ![][flag_NO] | **6** | 4 | ![][flag_GB] OPJames | [#1](https://osu.ppy.sh/community/matches/42102117) |
+| **-GN** ::{ flag=NO }:: | **6** | 4 | ::{ flag=GB }:: OPJames | [#1](https://osu.ppy.sh/community/matches/42102117) |
 
 #### Losers bracket
 
@@ -316,27 +316,27 @@ Saturday, 28 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Jackylam5 ![][flag_NL] | 2 | **6** | ![][flag_GB] **SoraRoxas01** | [#1](https://osu.ppy.sh/community/matches/42042176) |
+| Jackylam5 ::{ flag=NL }:: | 2 | **6** | ::{ flag=GB }:: **SoraRoxas01** | [#1](https://osu.ppy.sh/community/matches/42042176) |
 
 Monday, 30 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Flaven** ![][flag_FR] | **6** | 3 | ![][flag_US] Hot Korean Girl | [#1](https://osu.ppy.sh/community/matches/42099145) |
-| Electovoid ![][flag_GB] | 0 | **1** | ![][flag_FI] **Jerekek** | *forfeit* |
+| **Flaven** ::{ flag=FR }:: | **6** | 3 | ::{ flag=US }:: Hot Korean Girl | [#1](https://osu.ppy.sh/community/matches/42099145) |
+| Electovoid ::{ flag=GB }:: | 0 | **1** | ::{ flag=FI }:: **Jerekek** | *forfeit* |
 
 Tuesday, 1 May 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Flaven** ![][flag_FR] | **6** | 1 | ![][flag_FI] Jerekek | [#1](https://osu.ppy.sh/community/matches/42129911) |
+| **Flaven** ::{ flag=FR }:: | **6** | 1 | ::{ flag=FI }:: Jerekek | [#1](https://osu.ppy.sh/community/matches/42129911) |
 
 Saturday, 5 May 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| helix ![][flag_GB] | 4 | **6** | ![][flag_GB] **Jameslike** | [#1](https://osu.ppy.sh/community/matches/42224901) |
-| Jameslike ![][flag_GB] | 1 | **6** | ![][flag_GB] **SoraRoxas01** | [#1](https://osu.ppy.sh/community/matches/42226994) |
+| helix ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **Jameslike** | [#1](https://osu.ppy.sh/community/matches/42224901) |
+| Jameslike ::{ flag=GB }:: | 1 | **6** | ::{ flag=GB }:: **SoraRoxas01** | [#1](https://osu.ppy.sh/community/matches/42226994) |
 
 ### Quarterfinals
 
@@ -346,20 +346,20 @@ Sunday, 22 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Flaven ![][flag_FR] | 2 | **5** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/41870443) |
-| **-GN** ![][flag_NO] | **5** | 3 | ![][flag_GB] helix | [#1](https://osu.ppy.sh/community/matches/41877395) |
+| Flaven ::{ flag=FR }:: | 2 | **5** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/41870443) |
+| **-GN** ::{ flag=NO }:: | **5** | 3 | ::{ flag=GB }:: helix | [#1](https://osu.ppy.sh/community/matches/41877395) |
 
 Monday, 23 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **YokesPai** ![][flag_NO] | **4** | 0 | ![][flag_GB] Electovoid | [#1](https://osu.ppy.sh/community/matches/41903047) *(forfeit)* |
+| **YokesPai** ::{ flag=NO }:: | **4** | 0 | ::{ flag=GB }:: Electovoid | [#1](https://osu.ppy.sh/community/matches/41903047) *(forfeit)* |
 
 Wednesday, 25 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| SoraRoxas01 ![][flag_GB] | 2 | **5** | ![][flag_GB] **OPJames** | [#1](https://osu.ppy.sh/community/matches/41954533) |
+| SoraRoxas01 ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **OPJames** | [#1](https://osu.ppy.sh/community/matches/41954533) |
 
 #### Losers bracket
 
@@ -367,28 +367,28 @@ Saturday, 21 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Rohulk** ![][flag_RO] | **5** | 1 | ![][flag_GB] OskaRRRitoS | [#1](https://osu.ppy.sh/community/matches/41840655) |
-| **Jerekek** ![][flag_FI] | **5** | 4 | ![][flag_GB] SteffoST | [#1](https://osu.ppy.sh/community/matches/41840655) |
-| zelda101 ![][flag_US] | 4 | **5** | ![][flag_LV] **waywern2012** | [#1](https://osu.ppy.sh/community/matches/41842791) |
-| **dong** ![][flag_GB] | **1** | 0 | ![][flag_GB] Summer Solstice | *forfeit* |
-| **Hot Korean Girl** ![][flag_US] | **5** | 2 | ![][flag_US] Joezapy | [#1](https://osu.ppy.sh/community/matches/41848796) |
-| Pelzio ![][flag_GB] | 1 | **5** | ![][flag_GB] **Bae-** | [#1](https://osu.ppy.sh/community/matches/41851138) |
+| **Rohulk** ::{ flag=RO }:: | **5** | 1 | ::{ flag=GB }:: OskaRRRitoS | [#1](https://osu.ppy.sh/community/matches/41840655) |
+| **Jerekek** ::{ flag=FI }:: | **5** | 4 | ::{ flag=GB }:: SteffoST | [#1](https://osu.ppy.sh/community/matches/41840655) |
+| zelda101 ::{ flag=US }:: | 4 | **5** | ::{ flag=LV }:: **waywern2012** | [#1](https://osu.ppy.sh/community/matches/41842791) |
+| **dong** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Summer Solstice | *forfeit* |
+| **Hot Korean Girl** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: Joezapy | [#1](https://osu.ppy.sh/community/matches/41848796) |
+| Pelzio ::{ flag=GB }:: | 1 | **5** | ::{ flag=GB }:: **Bae-** | [#1](https://osu.ppy.sh/community/matches/41851138) |
 
 Sunday, 22 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **jackylam5** ![][flag_NL] | **5** | 2 | ![][flag_GB] spook | [#1](https://osu.ppy.sh/community/matches/41877275) |
-| Bae- ![][flag_GB] | 1 | **5** | ![][flag_NL] **jackylam5** | [#1](https://osu.ppy.sh/community/matches/41879277) |
-| **Jerekek** ![][flag_FI] | **5** | 2 | ![][flag_LV] waywern2012 | [#1](https://osu.ppy.sh/community/matches/41881305) |
-| **Hot Korean Girl** ![][flag_US] | **5** | 1 | ![][flag_GB] dong | [#1](https://osu.ppy.sh/community/matches/41885523) |
+| **jackylam5** ::{ flag=NL }:: | **5** | 2 | ::{ flag=GB }:: spook | [#1](https://osu.ppy.sh/community/matches/41877275) |
+| Bae- ::{ flag=GB }:: | 1 | **5** | ::{ flag=NL }:: **jackylam5** | [#1](https://osu.ppy.sh/community/matches/41879277) |
+| **Jerekek** ::{ flag=FI }:: | **5** | 2 | ::{ flag=LV }:: waywern2012 | [#1](https://osu.ppy.sh/community/matches/41881305) |
+| **Hot Korean Girl** ::{ flag=US }:: | **5** | 1 | ::{ flag=GB }:: dong | [#1](https://osu.ppy.sh/community/matches/41885523) |
 
 Monday, 23 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Jameslike** ![][flag_GB] | **5** | 0 | ![][flag_GB] djsettle | [#1](https://osu.ppy.sh/community/matches/41904734) |
-| Rohulk ![][flag_RO] | 3 | **5** | ![][flag_GB] **Jameslike** | [#1](https://osu.ppy.sh/community/matches/41906482) |
+| **Jameslike** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: djsettle | [#1](https://osu.ppy.sh/community/matches/41904734) |
+| Rohulk ::{ flag=RO }:: | 3 | **5** | ::{ flag=GB }:: **Jameslike** | [#1](https://osu.ppy.sh/community/matches/41906482) |
 
 ### Round of 16
 
@@ -398,19 +398,19 @@ Monday, 9 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **OskaRRRitoS** ![][flag_GB] | **5** | 2 | ![][flag_SE] Nitroz | [#1](https://osu.ppy.sh/community/matches/41532755) |
-| **spook** ![][flag_GB] | **5** | 0 | ![][flag_GB] Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/41534612) |
+| **OskaRRRitoS** ::{ flag=GB }:: | **5** | 2 | ::{ flag=SE }:: Nitroz | [#1](https://osu.ppy.sh/community/matches/41532755) |
+| **spook** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/41534612) |
 
 Saturday, 14 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Rohulk ![][flag_RO] | 2 | **5** | ![][flag_NO] **YokesPai** | [#1](https://osu.ppy.sh/community/matches/41656837) |
-| waywern2012 ![][flag_LV] | 0 | **1** | ![][flag_GB] **helix** | *forfeit* |
-| Jameslike ![][flag_GB] | 2 | **5** | ![][flag_GB] **Electovoid** | [#1](https://osu.ppy.sh/community/matches/41659395) |
-| Jackylam5 ![][flag_NL] | 1 | **5** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/41661481) |
-| **OPJames** ![][flag_GB] | **5** | 0 | ![][flag_GB] dong | [#1](https://osu.ppy.sh/community/matches/41663699) |
-| **Flaven** ![][flag_FR] | **5** | 2 | ![][flag_GB] Pelzio | [#1](https://osu.ppy.sh/community/matches/41665659) |
+| Rohulk ::{ flag=RO }:: | 2 | **5** | ::{ flag=NO }:: **YokesPai** | [#1](https://osu.ppy.sh/community/matches/41656837) |
+| waywern2012 ::{ flag=LV }:: | 0 | **1** | ::{ flag=GB }:: **helix** | *forfeit* |
+| Jameslike ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **Electovoid** | [#1](https://osu.ppy.sh/community/matches/41659395) |
+| Jackylam5 ::{ flag=NL }:: | 1 | **5** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/41661481) |
+| **OPJames** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: dong | [#1](https://osu.ppy.sh/community/matches/41663699) |
+| **Flaven** ::{ flag=FR }:: | **5** | 2 | ::{ flag=GB }:: Pelzio | [#1](https://osu.ppy.sh/community/matches/41665659) |
 
 #### Losers bracket
 
@@ -418,24 +418,24 @@ Saturday, 14 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **SoraRoxas01** ![][flag_GB] | **5** | 2 | ![][flag_US] Hot Korean Girl | [#1](https://osu.ppy.sh/community/matches/41667268) |
+| **SoraRoxas01** ::{ flag=GB }:: | **5** | 2 | ::{ flag=US }:: Hot Korean Girl | [#1](https://osu.ppy.sh/community/matches/41667268) |
 
 Sunday, 15 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Joezapy** ![][flag_US] | **5** | 4 | ![][flag_FI] Lefafel | [#1](https://osu.ppy.sh/community/matches/41687649) |
-| Poofie ![][flag_FI] | 2 | **5** | ![][flag_GB] **Summer Solstice** | [#1](https://osu.ppy.sh/community/matches/41689404) |
-| RAG3 ![][flag_CA] | 3 | **5** | ![][flag_GB] **djsettle** | [#1](https://osu.ppy.sh/community/matches/41691141) |
-| kymotsujason ![][flag_CA] | 0 | **5** | ![][flag_GB] **Bae-** | [#1](https://osu.ppy.sh/community/matches/41692936) |
-| **SteffoST** ![][flag_GB] | **5** | 0 | ![][flag_US] Dios Dong | [#1](https://osu.ppy.sh/community/matches/41699522) |
-| **zelda101** ![][flag_US] | **5** | 0 | ![][flag_FI] Mara | [#1](https://osu.ppy.sh/community/matches/41699522) |
+| **Joezapy** ::{ flag=US }:: | **5** | 4 | ::{ flag=FI }:: Lefafel | [#1](https://osu.ppy.sh/community/matches/41687649) |
+| Poofie ::{ flag=FI }:: | 2 | **5** | ::{ flag=GB }:: **Summer Solstice** | [#1](https://osu.ppy.sh/community/matches/41689404) |
+| RAG3 ::{ flag=CA }:: | 3 | **5** | ::{ flag=GB }:: **djsettle** | [#1](https://osu.ppy.sh/community/matches/41691141) |
+| kymotsujason ::{ flag=CA }:: | 0 | **5** | ::{ flag=GB }:: **Bae-** | [#1](https://osu.ppy.sh/community/matches/41692936) |
+| **SteffoST** ::{ flag=GB }:: | **5** | 0 | ::{ flag=US }:: Dios Dong | [#1](https://osu.ppy.sh/community/matches/41699522) |
+| **zelda101** ::{ flag=US }:: | **5** | 0 | ::{ flag=FI }:: Mara | [#1](https://osu.ppy.sh/community/matches/41699522) |
 
 Tuesday, 17 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-GN** ![][flag_NO] | **5** | 2 | ![][flag_FI] Jerekek | [#1](https://osu.ppy.sh/community/matches/41741168) |
+| **-GN** ::{ flag=NO }:: | **5** | 2 | ::{ flag=FI }:: Jerekek | [#1](https://osu.ppy.sh/community/matches/41741168) |
 
 ### Round of 32
 
@@ -443,54 +443,54 @@ Friday, 30 March 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Jameslike** ![][flag_GB] | **4** | 0 | ![][flag_FI] Poofie | [#1](https://osu.ppy.sh/community/matches/41256556) |
+| **Jameslike** ::{ flag=GB }:: | **4** | 0 | ::{ flag=FI }:: Poofie | [#1](https://osu.ppy.sh/community/matches/41256556) |
 
 Saturday, 31 March 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **YokesPai** ![][flag_NO] | **4** | 0 | ![][flag_FI] Lefafel | [#1](https://osu.ppy.sh/community/matches/41285050) |
-| **waywern2012** ![][flag_LV] | **4** | 0 | ![][flag_GB] spook | [#1](https://osu.ppy.sh/community/matches/41286834) |
-| **SoraRoxas01** ![][flag_GB] | **4** | 0 | ![][flag_GB] OskaRRRitoS | [#1](https://osu.ppy.sh/community/matches/41288423) |
-| **Hot Korean Girl** ![][flag_US] | **4** | 1 | ![][flag_SE] Nitroz | [#1](https://osu.ppy.sh/community/matches/41292144) |
-| djsettle ![][flag_GB] | 3 | **4** | ![][flag_GB] **dong** | [#1](https://osu.ppy.sh/community/matches/41294167) |
-| **-GN** ![][flag_NO] | **4** | 0 | ![][flag_CA] kymotsujason | [#1](https://osu.ppy.sh/community/matches/41295548) |
+| **YokesPai** ::{ flag=NO }:: | **4** | 0 | ::{ flag=FI }:: Lefafel | [#1](https://osu.ppy.sh/community/matches/41285050) |
+| **waywern2012** ::{ flag=LV }:: | **4** | 0 | ::{ flag=GB }:: spook | [#1](https://osu.ppy.sh/community/matches/41286834) |
+| **SoraRoxas01** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: OskaRRRitoS | [#1](https://osu.ppy.sh/community/matches/41288423) |
+| **Hot Korean Girl** ::{ flag=US }:: | **4** | 1 | ::{ flag=SE }:: Nitroz | [#1](https://osu.ppy.sh/community/matches/41292144) |
+| djsettle ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **dong** | [#1](https://osu.ppy.sh/community/matches/41294167) |
+| **-GN** ::{ flag=NO }:: | **4** | 0 | ::{ flag=CA }:: kymotsujason | [#1](https://osu.ppy.sh/community/matches/41295548) |
 
 Sunday, 1 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Flaven** ![][flag_FR] | **4** | 1 | ![][flag_GB] SteffoST | [#1](https://osu.ppy.sh/community/matches/41315535) |
-| **Jerekek** ![][flag_FI] | **4** | 2 | ![][flag_GB] Bae- | [#1](https://osu.ppy.sh/community/matches/41317056) |
-| **OPJames** ![][flag_GB] | **1** | 0 | ![][flag_CA] RAG3 | *forfeit* |
-| **Karthy** ![][flag_GB] | **4** | 0 | ![][flag_FI] Mara | [#1](https://osu.ppy.sh/community/matches/41322349) |
-| **Pelzio** ![][flag_GB] | **4** | 0 | ![][flag_US] Dios Dong | [#1](https://osu.ppy.sh/community/matches/41323873) |
-| **Jackylam5** ![][flag_NL] | **4** | 3 | ![][flag_US] zelda101 | [#1](https://osu.ppy.sh/community/matches/41325574) |
+| **Flaven** ::{ flag=FR }:: | **4** | 1 | ::{ flag=GB }:: SteffoST | [#1](https://osu.ppy.sh/community/matches/41315535) |
+| **Jerekek** ::{ flag=FI }:: | **4** | 2 | ::{ flag=GB }:: Bae- | [#1](https://osu.ppy.sh/community/matches/41317056) |
+| **OPJames** ::{ flag=GB }:: | **1** | 0 | ::{ flag=CA }:: RAG3 | *forfeit* |
+| **Karthy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=FI }:: Mara | [#1](https://osu.ppy.sh/community/matches/41322349) |
+| **Pelzio** ::{ flag=GB }:: | **4** | 0 | ::{ flag=US }:: Dios Dong | [#1](https://osu.ppy.sh/community/matches/41323873) |
+| **Jackylam5** ::{ flag=NL }:: | **4** | 3 | ::{ flag=US }:: zelda101 | [#1](https://osu.ppy.sh/community/matches/41325574) |
 
 Monday, 2 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Doomsday is Bad ![][flag_GB] | 0 | **1** | ![][flag_GB] **helix** | *forfeit* |
+| Doomsday is Bad ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **helix** | *forfeit* |
 
 Wednesday, 4 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Summer Solstice ![][flag_GB] | 3 | **4** | ![][flag_GB] **Electovoid** | [#1](https://osu.ppy.sh/community/matches/41394786) |
+| Summer Solstice ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **Electovoid** | [#1](https://osu.ppy.sh/community/matches/41394786) |
 
 Thursday, 5 April 2018:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Rohulk** ![][flag_RO] | **4** | 2 | ![][flag_US] Joezapy | [#1](https://osu.ppy.sh/community/matches/41414777) |
+| **Rohulk** ::{ flag=RO }:: | **4** | 2 | ::{ flag=US }:: Joezapy | [#1](https://osu.ppy.sh/community/matches/41414777) |
 
 ## Ruleset
 
 - This is a 32 player, 1v1, head-to-head, double-elimination tournament.
 - In order to participate, you must have the "Subscriber" or "Friend" role on Doomsday's Discord (hosts, referees, and mappool selectors are ineligible to enter).
 - The top 28 scores from the qualifiers will progress into the Round of 32.
-- The Top 4 from last CorgiCup (![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) and ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597)) all have automatic qualifications into the Round of 32 should they accept their invitation.
+- The Top 4 from last CorgiCup (::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) and ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597)) all have automatic qualifications into the Round of 32 should they accept their invitation.
 - Referees will create the match and invite players 10 mins before the match is due to start.
   - If a player fails to turn up before or on the time their match is due to start, a 10 minute timer will be started. After 10 minutes, if the player has still not shown up, the other player wins.
   - If both players fail to show up, the match can be rescheduled during the times given.
@@ -507,17 +507,3 @@ Thursday, 5 April 2018:
 - Score V2 will be used.
 - For FreeMod picks, players must select a choice of HD, HR, EZ, FL or a combination of these mods.
   - Players can choose to play FreeMod picks with DT if both players agree.
-
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"

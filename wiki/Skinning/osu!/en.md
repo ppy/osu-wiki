@@ -233,19 +233,17 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
+| All | ![No][false] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
 
 Notes:
 
-- Animation name: `hitcircleoverlay-{n}.png`
-- Animation rate: 2 FPS (4 FPS max).
-  - This rate is affected by the half time and double time/nightcore the game modifiers.
 - This element fades in before getting tapped and expands when tapped or missed.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
 - This can either overlay or underlay the combo number, by default this will always overlay.
   - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
 - Also used for `sliderstartcircleoverlay` and/or `sliderendcircleoverlay` if not skinned.
 - Should be a circle.
+- This element was animatable in the past. For full details, see [skinning history](/wiki/Skinning/History).
 
 ---
 
@@ -320,13 +318,10 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
+| All | ![No][false] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
 
 Notes:
 
-- Animation name: `sliderstartcircleoverlay-{n}.png`
-- Animation rate: 2 FPS (4 FPS max).
-  - This rate is affected by the half time and double time/nightcore the game modifiers.
 - This element fades in before getting tapped and expands when tapped or missed.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
 - This can either overlay or underlay the combo number, by default this will always overlay.
@@ -334,6 +329,7 @@ Notes:
 - Overrides the `hitcircle.png` image for the start of the slider.
 - `sliderstartcircle.png` is required for this to work.
 - Should be a circle.
+- This element was animatable in the past. For full details, see [skinning history](/wiki/Skinning/History).
 
 ---
 
@@ -357,13 +353,10 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
+| All | ![No][false] (see notes) | ![Yes][true] | Normal | Centre | 118x118 (circle) 128x128 (whole file) |
 
 Notes:
 
-- Animation name: `sliderendcircleoverlay-#.png`, replace # with indexed count (start frame count at zero)
-- Animation rate: 2 FPS (4 FPS max).
-  - This rate is affected by the half time and double time/nightcore the game modifiers.
 - This element fades in before completing and expands when completed.
   - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
 - This can either overlay or underlay the combo number, by default this will always overlay.
@@ -371,6 +364,7 @@ Notes:
 - Overrides the `hitcircle.png` image for the start of the slider.
 - `sliderendcircle.png` is required for this to work.
 - Should be a circle.
+- This element was animatable in the past. For full details, see [skinning history](/wiki/Skinning/History).
 
 ---
 

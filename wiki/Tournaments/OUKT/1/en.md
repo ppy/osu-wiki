@@ -10,7 +10,7 @@ tags:
 
 ![OUKT 1 banner](img/logo.png)
 
-The **UK osu!standard tournament!** (***OUKT1***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the first iteration of the **osu! UK Tournament** (***OUKT***) series.
+The **UK osu!standard tournament!** (***OUKT1***) was a ::{ flag=GB }:: United Kingdom single elimination 1v1 osu! tournament hosted by ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134). It is the first iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament schedule
 
@@ -37,9 +37,9 @@ The OUKT1 was run by various community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Mappool selector | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) |
-| Referee | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_US] [Rinnou Kouriri](https://osu.ppy.sh/users/1518370) |
+| Organizer | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134) |
+| Mappool selector | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Starry-](https://osu.ppy.sh/users/2166199) |
+| Referee | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=US }:: [Rinnou Kouriri](https://osu.ppy.sh/users/1518370) |
 
 ## Links
 
@@ -50,18 +50,18 @@ The OUKT1 was run by various community members
 
 | Seed | Players |
 | :-- | :-- |
-| 1-8 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515), ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193), ![][flag_GB] [jesus1412](https://osu.ppy.sh/users/230116), ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199), ![][flag_GB] [Navi](https://osu.ppy.sh/users/926304), ![][flag_GB] [Cozzzy](https://osu.ppy.sh/users/2003917), ![][flag_GB] [Charleyzard](https://osu.ppy.sh/users/1062584) |
-| 9-16 | ![][flag_GB] [vidya](https://osu.ppy.sh/users/413305), ![][flag_GB] [bubby963](https://osu.ppy.sh/users/1050426), ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [\[Transcendence\]](https://osu.ppy.sh/users/2313772), ![][flag_GB] [Deathosaurus](https://osu.ppy.sh/users/1825822), ![][flag_GB] [Kardet](https://osu.ppy.sh/users/1438509), ![][flag_GB] [Slvin](https://osu.ppy.sh/users/1219567), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) |
-| 17-24 | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378), ![][flag_GB] [Snookie](https://osu.ppy.sh/users/1484934), ![][flag_GB] Nyaristoru , ![][flag_GB] [Aaruen](https://osu.ppy.sh/users/1506750), ![][flag_GB] [scouttt](https://osu.ppy.sh/users/2428292), ![][flag_GB] [Lusory](https://osu.ppy.sh/users/2101270), ![][flag_GB] [Viremon](https://osu.ppy.sh/users/827070), ![][flag_GB] [Just Miku](https://osu.ppy.sh/users/2167861) |
-| 25-32 | ![][flag_GB] [destructor966](https://osu.ppy.sh/users/2667584), ![][flag_GB] [Yoishi](https://osu.ppy.sh/users/2167556), ![][flag_GB] [Riari](https://osu.ppy.sh/users/2553016), ![][flag_GB] [3lliot](https://osu.ppy.sh/users/2685857), ![][flag_GB] [EzLyn](https://osu.ppy.sh/users/2709812), ![][flag_GB] [Tekklorn](https://osu.ppy.sh/users/2094234), ![][flag_GB] [ItzDom](https://osu.ppy.sh/users/1849257), ![][flag_GB] [Zarfots](https://osu.ppy.sh/users/2253985) |
+| 1-8 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [iLikeMudkipz](https://osu.ppy.sh/users/552515), ::{ flag=GB }:: [R a h a r u](https://osu.ppy.sh/users/785193), ::{ flag=GB }:: [jesus1412](https://osu.ppy.sh/users/230116), ::{ flag=GB }:: [Starry-](https://osu.ppy.sh/users/2166199), ::{ flag=GB }:: [Navi](https://osu.ppy.sh/users/926304), ::{ flag=GB }:: [Cozzzy](https://osu.ppy.sh/users/2003917), ::{ flag=GB }:: [Charleyzard](https://osu.ppy.sh/users/1062584) |
+| 9-16 | ::{ flag=GB }:: [vidya](https://osu.ppy.sh/users/413305), ::{ flag=GB }:: [bubby963](https://osu.ppy.sh/users/1050426), ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [\[Transcendence\]](https://osu.ppy.sh/users/2313772), ::{ flag=GB }:: [Deathosaurus](https://osu.ppy.sh/users/1825822), ::{ flag=GB }:: [Kardet](https://osu.ppy.sh/users/1438509), ::{ flag=GB }:: [Slvin](https://osu.ppy.sh/users/1219567), ::{ flag=GB }:: [Raiku](https://osu.ppy.sh/users/1525538) |
+| 17-24 | ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/3481378), ::{ flag=GB }:: [Snookie](https://osu.ppy.sh/users/1484934), ::{ flag=GB }:: Nyaristoru , ::{ flag=GB }:: [Aaruen](https://osu.ppy.sh/users/1506750), ::{ flag=GB }:: [scouttt](https://osu.ppy.sh/users/2428292), ::{ flag=GB }:: [Lusory](https://osu.ppy.sh/users/2101270), ::{ flag=GB }:: [Viremon](https://osu.ppy.sh/users/827070), ::{ flag=GB }:: [Just Miku](https://osu.ppy.sh/users/2167861) |
+| 25-32 | ::{ flag=GB }:: [destructor966](https://osu.ppy.sh/users/2667584), ::{ flag=GB }:: [Yoishi](https://osu.ppy.sh/users/2167556), ::{ flag=GB }:: [Riari](https://osu.ppy.sh/users/2553016), ::{ flag=GB }:: [3lliot](https://osu.ppy.sh/users/2685857), ::{ flag=GB }:: [EzLyn](https://osu.ppy.sh/users/2709812), ::{ flag=GB }:: [Tekklorn](https://osu.ppy.sh/users/2094234), ::{ flag=GB }:: [ItzDom](https://osu.ppy.sh/users/1849257), ::{ flag=GB }:: [Zarfots](https://osu.ppy.sh/users/2253985) |
 
 ## Podium
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [R a h a r u](https://osu.ppy.sh/users/785193) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
 
 ## Mappools
 
@@ -192,13 +192,13 @@ Saturday, 11 January 2014
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Doomsday** ![][flag_GB] | **5** | 4 | ![][flag_GB] R a h a r u |
+| **Doomsday** ::{ flag=GB }:: | **5** | 4 | ::{ flag=GB }:: R a h a r u |
 
 #### 3rd Place
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| Deathosaurus ![][flag_GB] | 1 | **5** | ![][flag_GB] **ILikeMudkipz** |
+| Deathosaurus ::{ flag=GB }:: | 1 | **5** | ::{ flag=GB }:: **ILikeMudkipz** |
 
 ### Semifinals
 
@@ -206,8 +206,8 @@ Saturday, 4 January 2014
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_GB] Deathosaurus | |
-| ILikeMudkipz ![][flag_GB] | 0 | **1** | ![][flag_GB] **R a h a r u** | *forfeit* |
+| **Doomsday** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Deathosaurus | |
+| ILikeMudkipz ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **R a h a r u** | *forfeit* |
 
 ### Quaterfinals
 
@@ -215,10 +215,10 @@ Saturday, 21 December 2013
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **4** | 2 | ![][flag_GB] vidya | |
-| **Deathosaurus** ![][flag_GB] | **3** | 1 | ![][flag_GB] Starry- | *forfeit (physical problems)* |
-| **ILikeMudkipz** ![][flag_GB] | **4** | 2 | ![][flag_GB] Viremon | |
-| **R a h a r u** ![][flag_GB] | **4** | 2 | ![][flag_GB] PortalLife | |
+| **Doomsday** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: vidya | |
+| **Deathosaurus** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Starry- | *forfeit (physical problems)* |
+| **ILikeMudkipz** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Viremon | |
+| **R a h a r u** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: PortalLife | |
 
 ### Round of 16
 
@@ -226,14 +226,14 @@ Saturday, 14 December 2013
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Raiku | |
-| destructor966 ![][flag_GB] | 0 | **3** | ![][flag_GB] **vidya** | |
-| jesus1412 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Deathosaurus** | *forfeit* |
-| **Starry-** ![][flag_GB] | **3** | 1 | ![][flag_GB] \[Transcendence\] | |
-| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] Slvin | *forfeit* |
-| Cozzzy ![][flag_GB] | 2 | **3** | ![][flag_GB] **Viremon** | |
-| **R a h a r u** ![][flag_GB] | **1** | 0 | ![][flag_GB] Nyaristoru | *forfeit* |
-| Navi ![][flag_GB] | 2 | **3** | ![][flag_GB] **PortalLife** | |
+| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Raiku | |
+| destructor966 ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **vidya** | |
+| jesus1412 ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Deathosaurus** | *forfeit* |
+| **Starry-** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: \[Transcendence\] | |
+| **ILikeMudkipz** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Slvin | *forfeit* |
+| Cozzzy ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Viremon** | |
+| **R a h a r u** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Nyaristoru | *forfeit* |
+| Navi ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **PortalLife** | |
 
 ### Round of 32
 
@@ -241,22 +241,22 @@ Saturday, 7 December 2013
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] Zarfots | |
-| **Raiku** ![][flag_GB] | **3** | 1 | ![][flag_GB] Mahiro Yasaka | |
-| Charleyzard ![][flag_GB] | 0 | **1** | ![][flag_GB] **destructor966** | *forfeit* |
-| **vidya** ![][flag_GB] | **3** | 0 | ![][flag_GB] Just miku | |
-| **jesus1412** ![][flag_GB] | **3** | 0 | ![][flag_GB] EzLyn | |
-| **Deathosaurus** ![][flag_GB] | **3** | 0 | ![][flag_GB] Aaruen | |
-| **Starry-** ![][flag_GB] | **1** | 0 | ![][flag_GB] 3lliot | *forfeit* |
-| **\[Transcendence\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] scouttt | |
-| **ILikeMudkipz** ![][flag_GB] | **1** | 0 | ![][flag_GB] ItzDom | *forfeit* |
-| **Slvin** ![][flag_GB] | **3** | 2 | ![][flag_GB] Snookie | |
-| **Cozzzy** ![][flag_GB] | **3** | 0 | ![][flag_GB] Yoishi | |
-| bubby963 ![][flag_GB] | 0 | **1** | ![][flag_GB] **Viremon** | *forfeit* |
-| **R a h a r u** ![][flag_GB] | **3** | 0 | ![][flag_GB] Tekklorn | |
-| Kardet ![][flag_GB] | 2 | **3** | ![][flag_GB] **Nyaristoru** | |
-| **Navi** ![][flag_GB] | **3** | 0 | ![][flag_GB] Riari | |
-| **PortalLife** ![][flag_GB] | **3** | 1 | ![][flag_GB] Lusory | |
+| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Zarfots | |
+| **Raiku** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Mahiro Yasaka | |
+| Charleyzard ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **destructor966** | *forfeit* |
+| **vidya** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Just miku | |
+| **jesus1412** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: EzLyn | |
+| **Deathosaurus** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Aaruen | |
+| **Starry-** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: 3lliot | *forfeit* |
+| **\[Transcendence\]** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: scouttt | |
+| **ILikeMudkipz** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: ItzDom | *forfeit* |
+| **Slvin** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Snookie | |
+| **Cozzzy** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Yoishi | |
+| bubby963 ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Viremon** | *forfeit* |
+| **R a h a r u** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Tekklorn | |
+| Kardet ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Nyaristoru** | |
+| **Navi** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Riari | |
+| **PortalLife** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Lusory | |
 
 ## Ruleset
 
@@ -289,6 +289,3 @@ Saturday, 7 December 2013
 - Each round schedule shall be released a week before the actual matches take place.
 - We are looking to complete each round on Saturday. If not possible due to availability, matches can be re arranged for Sunday.
 - In special cases, with the agreement of both players, matches can also be played before this during the week. If you have a strong reason, contact the organizer.
-
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

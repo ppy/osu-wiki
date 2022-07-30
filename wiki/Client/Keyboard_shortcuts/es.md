@@ -32,7 +32,7 @@ En osu!, hay varios atajos que pueden ser utilizados en juego y en los respectiv
 ## Menú Principal
 
 - **P**: Modo Jugar (doble click para seleccionar canción)
-- **P-M**: Modo Jugar ([Multijugador](/wiki/Gameplay/Multiplayer))
+- **P-M**: Modo Jugar ([Multijugador](/wiki/Client/Interface/Multiplayer))
 - **E**: Modo Editar (elección de canción)
 - **J**: Saltar a (pestaña)
 - **Z/X/C/V/B**: Control de la jukebox (layout de Winamp)

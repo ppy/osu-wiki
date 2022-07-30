@@ -8,7 +8,7 @@ tags:
 
 ![ATT 2019 logo](img/logo.jpg)
 
-The **Ausu!Taiko Tournament 2019** (**ATT 2019**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352). The tournament was restricted to players within the Southeast Asian countries only. It was the fifth instalment of the Ausu!Taiko Tournament.
+The **Ausu!Taiko Tournament 2019** (**ATT 2019**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352). The tournament was restricted to players within the Southeast Asian countries only. It was the fifth instalment of the Ausu!Taiko Tournament.
 
 ## Tournament schedule
 
@@ -36,12 +36,12 @@ The Ausu!Taiko Tournament 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
-| Mappool selector | ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_AU] [Fuel](https://osu.ppy.sh/users/5155081), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
-| Referee | ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_AU] [Fuel](https://osu.ppy.sh/users/5155081), ![][flag_AU] [numbermaniac](https://osu.ppy.sh/users/7764184), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_AU] [soliderror](https://osu.ppy.sh/users/10630542) |
-| Streamer | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
-| Designer | ![][flag_AU] [Likelihood](https://osu.ppy.sh/users/12998897) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) |
+| Mappool selector | ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=AU }:: [Fuel](https://osu.ppy.sh/users/5155081), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) |
+| Referee | ::{ flag=AU }:: [Cactie](https://osu.ppy.sh/users/5592409), ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992), ::{ flag=AU }:: [Fuel](https://osu.ppy.sh/users/5155081), ::{ flag=AU }:: [numbermaniac](https://osu.ppy.sh/users/7764184), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742), ::{ flag=AU }:: [soliderror](https://osu.ppy.sh/users/10630542) |
+| Streamer | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) |
+| Designer | ::{ flag=AU }:: [Likelihood](https://osu.ppy.sh/users/12998897) |
+| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -54,23 +54,23 @@ The Ausu!Taiko Tournament 2019 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647), ![][flag_AU] [acid](https://osu.ppy.sh/users/2913584), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_AU] [Aloda](https://osu.ppy.sh/users/1190127), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_ID] [steven1](https://osu.ppy.sh/users/3090416), ![][flag_SG] [Main Heroine](https://osu.ppy.sh/users/5231504), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| High | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [OPMiss](https://osu.ppy.sh/users/10812080), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125), ![][flag_ID] [reyss](https://osu.ppy.sh/users/4557440), ![][flag_ID] o\_Owata, ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_NZ] [Bwhaa](https://osu.ppy.sh/users/7960435) |
-| Mid | ![][flag_MY] [xxXBabyMetalXxx](https://osu.ppy.sh/users/10508577), ![][flag_AU] [Pyrofermot](https://osu.ppy.sh/users/10801698), ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_AU] [mhyykl](https://osu.ppy.sh/users/7012650), ![][flag_SG] [Kekneko](https://osu.ppy.sh/users/8414979), ![][flag_ID] [Viewland](https://osu.ppy.sh/users/6250135), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_AU] [Olympyss](https://osu.ppy.sh/users/10654844) |
-| Low | ![][flag_ID] [Kzl](https://osu.ppy.sh/users/7058490), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086), ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
+| Top | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647), ::{ flag=AU }:: [acid](https://osu.ppy.sh/users/2913584), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=AU }:: [Aloda](https://osu.ppy.sh/users/1190127), ::{ flag=AU }:: [Lusty Platypus](https://osu.ppy.sh/users/2956184), ::{ flag=ID }:: [steven1](https://osu.ppy.sh/users/3090416), ::{ flag=SG }:: [Main Heroine](https://osu.ppy.sh/users/5231504), ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| High | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=MY }:: [OPMiss](https://osu.ppy.sh/users/10812080), ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183), ::{ flag=SG }:: [Bobfree](https://osu.ppy.sh/users/10096125), ::{ flag=ID }:: [reyss](https://osu.ppy.sh/users/4557440), ::{ flag=ID }:: o\_Owata, ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=NZ }:: [Bwhaa](https://osu.ppy.sh/users/7960435) |
+| Mid | ::{ flag=MY }:: [xxXBabyMetalXxx](https://osu.ppy.sh/users/10508577), ::{ flag=AU }:: [Pyrofermot](https://osu.ppy.sh/users/10801698), ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ::{ flag=AU }:: [mhyykl](https://osu.ppy.sh/users/7012650), ::{ flag=SG }:: [Kekneko](https://osu.ppy.sh/users/8414979), ::{ flag=ID }:: [Viewland](https://osu.ppy.sh/users/6250135), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302), ::{ flag=AU }:: [Olympyss](https://osu.ppy.sh/users/10654844) |
+| Low | ::{ flag=ID }:: [Kzl](https://osu.ppy.sh/users/7058490), ::{ flag=NZ }:: [NutAndGo](https://osu.ppy.sh/users/7740118), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
 
 ## Groups
 
 | Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184) | ![][flag_MY] [OPMiss](https://osu.ppy.sh/users/10812080) | ![][flag_SG] [Kekneko](https://osu.ppy.sh/users/8414979) | ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118) |
-| **B** | ![][flag_ID] [steven1](https://osu.ppy.sh/users/3090416) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) | ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) | - |
-| **C** | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) | ![][flag_ID] [reyss](https://osu.ppy.sh/users/4557440) | ![][flag_AU] [mhyykl](https://osu.ppy.sh/users/7012650) | - |
-| **D** | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) | ![][flag_AU] [Olympyss](https://osu.ppy.sh/users/10654844) | ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086) |
-| **E** | ![][flag_SG] [Main Heroine](https://osu.ppy.sh/users/5231504) | ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183) | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) | ![][flag_ID] [Kzl](https://osu.ppy.sh/users/7058490) |
-| **F** | ![][flag_AU] [acid](https://osu.ppy.sh/users/2913584) | ![][flag_ID] o\_Owata | ![][flag_MY] [xxXBabyMetalXxx](https://osu.ppy.sh/users/10508577) | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
-| **G** | ![][flag_AU] [Aloda](https://osu.ppy.sh/users/1190127) | ![][flag_NZ] [Bwhaa](https://osu.ppy.sh/users/7960435) | ![][flag_ID] [Viewland](https://osu.ppy.sh/users/6250135) | - |
-| **H** | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) | ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125) | ![][flag_AU] [Pyrofermot](https://osu.ppy.sh/users/10801698) | - |
+| **A** | ::{ flag=AU }:: [Lusty Platypus](https://osu.ppy.sh/users/2956184) | ::{ flag=MY }:: [OPMiss](https://osu.ppy.sh/users/10812080) | ::{ flag=SG }:: [Kekneko](https://osu.ppy.sh/users/8414979) | ::{ flag=NZ }:: [NutAndGo](https://osu.ppy.sh/users/7740118) |
+| **B** | ::{ flag=ID }:: [steven1](https://osu.ppy.sh/users/3090416) | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) | ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) | - |
+| **C** | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647) | ::{ flag=ID }:: [reyss](https://osu.ppy.sh/users/4557440) | ::{ flag=AU }:: [mhyykl](https://osu.ppy.sh/users/7012650) | - |
+| **D** | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) | ::{ flag=AU }:: [Olympyss](https://osu.ppy.sh/users/10654844) | ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086) |
+| **E** | ::{ flag=SG }:: [Main Heroine](https://osu.ppy.sh/users/5231504) | ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) | ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) | ::{ flag=ID }:: [Kzl](https://osu.ppy.sh/users/7058490) |
+| **F** | ::{ flag=AU }:: [acid](https://osu.ppy.sh/users/2913584) | ::{ flag=ID }:: o\_Owata | ::{ flag=MY }:: [xxXBabyMetalXxx](https://osu.ppy.sh/users/10508577) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
+| **G** | ::{ flag=AU }:: [Aloda](https://osu.ppy.sh/users/1190127) | ::{ flag=NZ }:: [Bwhaa](https://osu.ppy.sh/users/7960435) | ::{ flag=ID }:: [Viewland](https://osu.ppy.sh/users/6250135) | - |
+| **H** | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) | ::{ flag=SG }:: [Bobfree](https://osu.ppy.sh/users/10096125) | ::{ flag=AU }:: [Pyrofermot](https://osu.ppy.sh/users/10801698) | - |
 
 ## Podium
 
@@ -78,9 +78,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) |
 
 ## Mappools
 
@@ -209,15 +209,15 @@ Saturday, 10 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Lusty Platypus ![][flag_AU] | 3 | **7** | ![][flag_NZ] **Sparxe** | [#1](https://osu.ppy.sh/community/matches/53971181) |
-| Beat43210 ![][flag_AU] | 1 | **7** | ![][flag_ID] **apaajaboleh10** | [#1](https://osu.ppy.sh/community/matches/53970259) |
+| Lusty Platypus ::{ flag=AU }:: | 3 | **7** | ::{ flag=NZ }:: **Sparxe** | [#1](https://osu.ppy.sh/community/matches/53971181) |
+| Beat43210 ::{ flag=AU }:: | 1 | **7** | ::{ flag=ID }:: **apaajaboleh10** | [#1](https://osu.ppy.sh/community/matches/53970259) |
 
 Sunday, 11 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Beat43210 ![][flag_AU] | 5 | **7** | ![][flag_NZ] **Sparxe** | [#1](https://osu.ppy.sh/community/matches/53995647) |
-| **apaajaboleh10** ![][flag_ID] | **7** | 4 | ![][flag_NZ] Sparxe | [#1](https://osu.ppy.sh/community/matches/53996733) |
+| Beat43210 ::{ flag=AU }:: | 5 | **7** | ::{ flag=NZ }:: **Sparxe** | [#1](https://osu.ppy.sh/community/matches/53995647) |
+| **apaajaboleh10** ::{ flag=ID }:: | **7** | 4 | ::{ flag=NZ }:: Sparxe | [#1](https://osu.ppy.sh/community/matches/53996733) |
 
 ### Semifinals
 
@@ -225,17 +225,17 @@ Saturday, 3 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Lusty Platypus** ![][flag_AU] | **0** | -1 | ![][flag_AU] Tsubasa2 | *win by default* |
-| Aloda ![][flag_AU] | 6 | **7** | ![][flag_AU] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/53801473) |
-| Sparxe ![][flag_NZ] | 3 | **7** | ![][flag_ID] **apaajaboleh10** | [#1](https://osu.ppy.sh/community/matches/53804507) |
+| **Lusty Platypus** ::{ flag=AU }:: | **0** | -1 | ::{ flag=AU }:: Tsubasa2 | *win by default* |
+| Aloda ::{ flag=AU }:: | 6 | **7** | ::{ flag=AU }:: **Beat43210** | [#1](https://osu.ppy.sh/community/matches/53801473) |
+| Sparxe ::{ flag=NZ }:: | 3 | **7** | ::{ flag=ID }:: **apaajaboleh10** | [#1](https://osu.ppy.sh/community/matches/53804507) |
 
 Sunday, 4 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Bedwyr Aorta ![][flag_MY] | 0 | **7** | ![][flag_ID] **steven1** | [#1](https://osu.ppy.sh/community/matches/53806633) |
-| Aloda ![][flag_AU] | 3 | **7** | ![][flag_AU] **Lusty Platypus** | [#1](https://osu.ppy.sh/community/matches/53825986) |
-| **Sparxe** ![][flag_NZ] | **7** | 1 | ![][flag_ID] steven1 | [#1](https://osu.ppy.sh/community/matches/53828685) |
+| Bedwyr Aorta ::{ flag=MY }:: | 0 | **7** | ::{ flag=ID }:: **steven1** | [#1](https://osu.ppy.sh/community/matches/53806633) |
+| Aloda ::{ flag=AU }:: | 3 | **7** | ::{ flag=AU }:: **Lusty Platypus** | [#1](https://osu.ppy.sh/community/matches/53825986) |
+| **Sparxe** ::{ flag=NZ }:: | **7** | 1 | ::{ flag=ID }:: steven1 | [#1](https://osu.ppy.sh/community/matches/53828685) |
 
 ### Quarterfinals
 
@@ -243,19 +243,19 @@ Saturday, 27 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Aloda** ![][flag_AU] | **6** | 5 | ![][flag_AU] acid | [#1](https://osu.ppy.sh/community/matches/53634028) |
-| **apaajaboleh** ![][flag_ID] | **6** | 2 | ![][flag_AU] Lusty Platypus | [#1](https://osu.ppy.sh/community/matches/53634459) |
-| Blobby3000 ![][flag_AU] | 2 | **6** | ![][flag_NZ] **Sparxe** | [#1](https://osu.ppy.sh/community/matches/53635547) |
-| **Beat43210** ![][flag_AU] | **6** | 3 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/53637662) |
+| **Aloda** ::{ flag=AU }:: | **6** | 5 | ::{ flag=AU }:: acid | [#1](https://osu.ppy.sh/community/matches/53634028) |
+| **apaajaboleh** ::{ flag=ID }:: | **6** | 2 | ::{ flag=AU }:: Lusty Platypus | [#1](https://osu.ppy.sh/community/matches/53634459) |
+| Blobby3000 ::{ flag=AU }:: | 2 | **6** | ::{ flag=NZ }:: **Sparxe** | [#1](https://osu.ppy.sh/community/matches/53635547) |
+| **Beat43210** ::{ flag=AU }:: | **6** | 3 | ::{ flag=MY }:: Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/53637662) |
 
 Sunday, 28 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| acid ![][flag_AU] | 1 | **6** | ![][flag_ID] **steven1** | [#1](https://osu.ppy.sh/community/matches/53658086) |
-| **Bedwyr Aorta** ![][flag_MY] | **6** | 0 | ![][flag_AU] AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/53659567) |
-| Blobby3000 ![][flag_AU] | 5 | **6** | ![][flag_AU] **Tsubasa2** | [#1](https://osu.ppy.sh/community/matches/53659572) |
-| **Lusty Platypus** ![][flag_AU] | **6** | 4 | ![][flag_MY] OPMiss | [#1](https://osu.ppy.sh/community/matches/53660549) |
+| acid ::{ flag=AU }:: | 1 | **6** | ::{ flag=ID }:: **steven1** | [#1](https://osu.ppy.sh/community/matches/53658086) |
+| **Bedwyr Aorta** ::{ flag=MY }:: | **6** | 0 | ::{ flag=AU }:: AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/53659567) |
+| Blobby3000 ::{ flag=AU }:: | 5 | **6** | ::{ flag=AU }:: **Tsubasa2** | [#1](https://osu.ppy.sh/community/matches/53659572) |
+| **Lusty Platypus** ::{ flag=AU }:: | **6** | 4 | ::{ flag=MY }:: OPMiss | [#1](https://osu.ppy.sh/community/matches/53660549) |
 
 ### Round of 16
 
@@ -263,28 +263,28 @@ Friday, 19 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **acid** ![][flag_AU] | **6** | 0 | ![][flag_AU] mhyykl | [#1](https://osu.ppy.sh/community/matches/53445393) |
+| **acid** ::{ flag=AU }:: | **6** | 0 | ::{ flag=AU }:: mhyykl | [#1](https://osu.ppy.sh/community/matches/53445393) |
 
 Saturday, 20 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Lusty Platypus** ![][flag_AU] | **0** | -1 | ![][flag_NZ] Bwhaa | *win by default* |
-| Tsubasa2 ![][flag_AU] | 2 | **6** | ![][flag_AU] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/53470760) |
-| uchuuj1n ![][flag_SG] | 0 | **6** | ![][flag_AU] **Blobby3000** | [#1](https://osu.ppy.sh/community/matches/53470949) |
-| steven1 ![][flag_ID] | 0 | **6** | ![][flag_ID] **apaajaboleh10** | [#1](https://osu.ppy.sh/community/matches/53471576) |
-| OPMiss ![][flag_MY] | 5 | **6** | ![][flag_AU] **Aloda** | [#1](https://osu.ppy.sh/community/matches/53472086) |
-| AmateurMonkeyYT ![][flag_AU] | 0 | **6** | ![][flag_NZ] **Sparxe** | [#1](https://osu.ppy.sh/community/matches/53472390) |
+| **Lusty Platypus** ::{ flag=AU }:: | **0** | -1 | ::{ flag=NZ }:: Bwhaa | *win by default* |
+| Tsubasa2 ::{ flag=AU }:: | 2 | **6** | ::{ flag=AU }:: **Beat43210** | [#1](https://osu.ppy.sh/community/matches/53470760) |
+| uchuuj1n ::{ flag=SG }:: | 0 | **6** | ::{ flag=AU }:: **Blobby3000** | [#1](https://osu.ppy.sh/community/matches/53470949) |
+| steven1 ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **apaajaboleh10** | [#1](https://osu.ppy.sh/community/matches/53471576) |
+| OPMiss ::{ flag=MY }:: | 5 | **6** | ::{ flag=AU }:: **Aloda** | [#1](https://osu.ppy.sh/community/matches/53472086) |
+| AmateurMonkeyYT ::{ flag=AU }:: | 0 | **6** | ::{ flag=NZ }:: **Sparxe** | [#1](https://osu.ppy.sh/community/matches/53472390) |
 
 Sunday, 21 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bedwyr Aorta** ![][flag_MY] | **6** | 2 | ![][flag_SG] Bobfree | [#1](https://osu.ppy.sh/community/matches/53476997) |
-| uchuuj1n ![][flag_SG] | 4 | **6** | ![][flag_AU] **AmateurMonkeyYT** | [#1](https://osu.ppy.sh/community/matches/53490515) |
-| **OPMiss** ![][flag_MY] | **0** | -1 | ![][flag_AU] mhyykl | *win by default* |
-| **Tsubasa2** ![][flag_AU] | **0** | -1 | ![][flag_SG] Bobfree | *win by default* |
-| **steven1** ![][flag_ID] | **0** | -1 | ![][flag_NZ] Bwhaa | *win by default* |
+| **Bedwyr Aorta** ::{ flag=MY }:: | **6** | 2 | ::{ flag=SG }:: Bobfree | [#1](https://osu.ppy.sh/community/matches/53476997) |
+| uchuuj1n ::{ flag=SG }:: | 4 | **6** | ::{ flag=AU }:: **AmateurMonkeyYT** | [#1](https://osu.ppy.sh/community/matches/53490515) |
+| **OPMiss** ::{ flag=MY }:: | **0** | -1 | ::{ flag=AU }:: mhyykl | *win by default* |
+| **Tsubasa2** ::{ flag=AU }:: | **0** | -1 | ::{ flag=SG }:: Bobfree | *win by default* |
+| **steven1** ::{ flag=ID }:: | **0** | -1 | ::{ flag=NZ }:: Bwhaa | *win by default* |
 
 ### Group stage
 
@@ -292,52 +292,52 @@ Saturday, 13 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **acid** ![][flag_AU] | **0** | -1 | ![][flag_ID] o\_Owata | *win by default* |
-| steven1 ![][flag_ID] | -1 | **0** | ![][flag_SG] **uchuuj1n** | *win by default* |
-| Kekneko ![][flag_SG] | -1 | **0** | ![][flag_NZ] **NutAndGo** | *win by default* |
-| Main Heroine ![][flag_SG] | -1 | **0** | ![][flag_ID] **Kzl** | *win by default* |
-| **Lusty Platypus** ![][flag_AU] | **5** | 0 | ![][flag_NZ] NutAndGo | [#1](https://osu.ppy.sh/community/matches/53303316) |
-| **acid** ![][flag_AU] | **0** | -1 | ![][flag_AU] Jordan The Bear | *win by default* |
-| o\_Owata ![][flag_ID] | 0 | 0 | ![][flag_MY] xxXBabyMetalXxx | *nullified* |
-| **AmateurMonkeyYT** ![][flag_AU] | **5** | 2 | ![][flag_ID] Kzl | [#1](https://osu.ppy.sh/community/matches/53303714) |
-| **Blobby3000** ![][flag_AU] | **5** | 0 | ![][flag_AU] Pyrofermot | [#1](https://osu.ppy.sh/community/matches/53303631) |
-| **acid** ![][flag_AU] | **0** | -1 | ![][flag_MY] xxXBabyMetalXxx | *win by default* |
-| **Lusty Platypus** ![][flag_AU] | **0** | -1 | ![][flag_SG] Kekneko | *win by default* |
-| **Bwhaa** ![][flag_NZ] | **5** | 2 | ![][flag_ID] Viewland | [#1](https://osu.ppy.sh/community/matches/53304237) |
-| o\_Owata ![][flag_ID] | 0 | 0 | ![][flag_AU] Jordan The Bear | *nullified* |
-| **Bobfree** ![][flag_SG] | **5** | 0 | ![][flag_AU] Pyrofermot | [#1](https://osu.ppy.sh/community/matches/53304252) |
-| **Blobby3000** ![][flag_AU] | **5** | 3 | ![][flag_SG] Bobfree | [#1](https://osu.ppy.sh/community/matches/53304843) |
-| **apaajaboleh10** ![][flag_ID] | **0** | -1 | ![][flag_ID] reyss | *win by default* |
-| Lusty Platypus ![][flag_AU] | 4 | **5** | ![][flag_MY] **OPMiss** | [#1](https://osu.ppy.sh/community/matches/53308276) |
-| Aloda ![][flag_AU] | 3 | **5** | ![][flag_NZ] **Bwhaa** | [#1](https://osu.ppy.sh/community/matches/53305841) |
-| **Sparxe** ![][flag_NZ] | **5** | 0 | ![][flag_AU] Olympyss | [#1](https://osu.ppy.sh/community/matches/53306251) |
-| **Aloda** ![][flag_AU] | **5** | 2 | ![][flag_ID] Viewland | [#1](https://osu.ppy.sh/community/matches/53307399) |
+| **acid** ::{ flag=AU }:: | **0** | -1 | ::{ flag=ID }:: o\_Owata | *win by default* |
+| steven1 ::{ flag=ID }:: | -1 | **0** | ::{ flag=SG }:: **uchuuj1n** | *win by default* |
+| Kekneko ::{ flag=SG }:: | -1 | **0** | ::{ flag=NZ }:: **NutAndGo** | *win by default* |
+| Main Heroine ::{ flag=SG }:: | -1 | **0** | ::{ flag=ID }:: **Kzl** | *win by default* |
+| **Lusty Platypus** ::{ flag=AU }:: | **5** | 0 | ::{ flag=NZ }:: NutAndGo | [#1](https://osu.ppy.sh/community/matches/53303316) |
+| **acid** ::{ flag=AU }:: | **0** | -1 | ::{ flag=AU }:: Jordan The Bear | *win by default* |
+| o\_Owata ::{ flag=ID }:: | 0 | 0 | ::{ flag=MY }:: xxXBabyMetalXxx | *nullified* |
+| **AmateurMonkeyYT** ::{ flag=AU }:: | **5** | 2 | ::{ flag=ID }:: Kzl | [#1](https://osu.ppy.sh/community/matches/53303714) |
+| **Blobby3000** ::{ flag=AU }:: | **5** | 0 | ::{ flag=AU }:: Pyrofermot | [#1](https://osu.ppy.sh/community/matches/53303631) |
+| **acid** ::{ flag=AU }:: | **0** | -1 | ::{ flag=MY }:: xxXBabyMetalXxx | *win by default* |
+| **Lusty Platypus** ::{ flag=AU }:: | **0** | -1 | ::{ flag=SG }:: Kekneko | *win by default* |
+| **Bwhaa** ::{ flag=NZ }:: | **5** | 2 | ::{ flag=ID }:: Viewland | [#1](https://osu.ppy.sh/community/matches/53304237) |
+| o\_Owata ::{ flag=ID }:: | 0 | 0 | ::{ flag=AU }:: Jordan The Bear | *nullified* |
+| **Bobfree** ::{ flag=SG }:: | **5** | 0 | ::{ flag=AU }:: Pyrofermot | [#1](https://osu.ppy.sh/community/matches/53304252) |
+| **Blobby3000** ::{ flag=AU }:: | **5** | 3 | ::{ flag=SG }:: Bobfree | [#1](https://osu.ppy.sh/community/matches/53304843) |
+| **apaajaboleh10** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: reyss | *win by default* |
+| Lusty Platypus ::{ flag=AU }:: | 4 | **5** | ::{ flag=MY }:: **OPMiss** | [#1](https://osu.ppy.sh/community/matches/53308276) |
+| Aloda ::{ flag=AU }:: | 3 | **5** | ::{ flag=NZ }:: **Bwhaa** | [#1](https://osu.ppy.sh/community/matches/53305841) |
+| **Sparxe** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=AU }:: Olympyss | [#1](https://osu.ppy.sh/community/matches/53306251) |
+| **Aloda** ::{ flag=AU }:: | **5** | 2 | ::{ flag=ID }:: Viewland | [#1](https://osu.ppy.sh/community/matches/53307399) |
 
 Sunday, 14 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Main Heroine ![][flag_SG] | -1 | **0** | ![][flag_AU] **Tsubasa2** | *win by default* |
-| **Beat43210** ![][flag_AU] | **0** | -1 | ![][flag_AU] Monk Gyatso | *win by default* |
-| **OPMiss** ![][flag_MY] | **5** | 0 | ![][flag_NZ] NutAndGo | [#1](https://osu.ppy.sh/community/matches/53326858) |
-| **apaajaboleh10** ![][flag_ID] | **5** | 0 | ![][flag_AU] mhyykl | [#1](https://osu.ppy.sh/community/matches/53327028) |
-| xxXBabyMetalXxx ![][flag_MY] | 0 | 0 | ![][flag_AU] Jordan The Bear | *win by default* |
-| **Beat43210** ![][flag_AU] | **5** | 0 | ![][flag_AU] Olympyss | [#1](https://osu.ppy.sh/community/matches/53327248) |
-| **Tsubasa2** ![][flag_AU] | **5** | 0 | ![][flag_ID] Kzl | [#1](https://osu.ppy.sh/community/matches/53327175) |
-| reyss ![][flag_ID] | -1 | **0** | ![][flag_AU] **mhyykl** | *win by default* |
-| Main Heroine ![][flag_SG] | -1 | **0** | ![][flag_AU] **AmateurMonkeyYT** | *win by default* |
-| **OPMiss** ![][flag_MY] | **5** | 0 | ![][flag_SG] Kekneko | [#1](https://osu.ppy.sh/community/matches/53327911) |
-| **Olympyss** ![][flag_AU] | **0** | -1 | ![][flag_AU] Monk Gyatso | *win by default* |
-| **Tsubasa2** ![][flag_AU] | **5** | 0 | ![][flag_AU] AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/53328331) |
-| **Sparxe** ![][flag_NZ] | **5** | 4 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/53330721) |
-| **Sparxe** ![][flag_NZ] | **5** | 0 | ![][flag_AU] Monk Gyatso | [#1](https://osu.ppy.sh/community/matches/53331646) |
+| Main Heroine ::{ flag=SG }:: | -1 | **0** | ::{ flag=AU }:: **Tsubasa2** | *win by default* |
+| **Beat43210** ::{ flag=AU }:: | **0** | -1 | ::{ flag=AU }:: Monk Gyatso | *win by default* |
+| **OPMiss** ::{ flag=MY }:: | **5** | 0 | ::{ flag=NZ }:: NutAndGo | [#1](https://osu.ppy.sh/community/matches/53326858) |
+| **apaajaboleh10** ::{ flag=ID }:: | **5** | 0 | ::{ flag=AU }:: mhyykl | [#1](https://osu.ppy.sh/community/matches/53327028) |
+| xxXBabyMetalXxx ::{ flag=MY }:: | 0 | 0 | ::{ flag=AU }:: Jordan The Bear | *win by default* |
+| **Beat43210** ::{ flag=AU }:: | **5** | 0 | ::{ flag=AU }:: Olympyss | [#1](https://osu.ppy.sh/community/matches/53327248) |
+| **Tsubasa2** ::{ flag=AU }:: | **5** | 0 | ::{ flag=ID }:: Kzl | [#1](https://osu.ppy.sh/community/matches/53327175) |
+| reyss ::{ flag=ID }:: | -1 | **0** | ::{ flag=AU }:: **mhyykl** | *win by default* |
+| Main Heroine ::{ flag=SG }:: | -1 | **0** | ::{ flag=AU }:: **AmateurMonkeyYT** | *win by default* |
+| **OPMiss** ::{ flag=MY }:: | **5** | 0 | ::{ flag=SG }:: Kekneko | [#1](https://osu.ppy.sh/community/matches/53327911) |
+| **Olympyss** ::{ flag=AU }:: | **0** | -1 | ::{ flag=AU }:: Monk Gyatso | *win by default* |
+| **Tsubasa2** ::{ flag=AU }:: | **5** | 0 | ::{ flag=AU }:: AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/53328331) |
+| **Sparxe** ::{ flag=NZ }:: | **5** | 4 | ::{ flag=AU }:: Beat43210 | [#1](https://osu.ppy.sh/community/matches/53330721) |
+| **Sparxe** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=AU }:: Monk Gyatso | [#1](https://osu.ppy.sh/community/matches/53331646) |
 
 Monday, 15 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| steven1 ![][flag_ID] | 3 | **5** | ![][flag_MY] **Bedwyr Aorta** | [#1](https://osu.ppy.sh/community/matches/53334230) |
-| **Bedwyr Aorta** ![][flag_MY] | **5** | 0 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/53335536) |
+| steven1 ::{ flag=ID }:: | 3 | **5** | ::{ flag=MY }:: **Bedwyr Aorta** | [#1](https://osu.ppy.sh/community/matches/53334230) |
+| **Bedwyr Aorta** ::{ flag=MY }:: | **5** | 0 | ::{ flag=SG }:: uchuuj1n | [#1](https://osu.ppy.sh/community/matches/53335536) |
 
 ## Ruleset
 
@@ -371,11 +371,3 @@ Monday, 15 July 2019:
 2. 5 points to win the match in the Group Stage.
 3. 6 points to win the match in the Round of 16 and Quarterfinals.
 4. 7 points to win the match in Semifinals and Finals.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

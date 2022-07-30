@@ -1,6 +1,6 @@
 # Medaillen
 
-**Medaillen**, auch früher bekannt als *Achievements* (zu Dt. Erfolge oder Errungenschaften), sind Embleme auf der Profilseite, welche anzeigen, dass der Benutzer ein Ziel erreicht hat. Zur Zeit können **271** Medaillen freigeschaltet werden in 8 unterschiedlichen Kategorien: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) und [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Medaillen**, auch früher bekannt als *Achievements* (zu Dt. Erfolge oder Errungenschaften), sind Embleme auf der Profilseite, welche anzeigen, dass der Benutzer ein Ziel erreicht hat. Zur Zeit können **274** Medaillen freigeschaltet werden in 8 unterschiedlichen Kategorien: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) und [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -58,7 +58,7 @@ Obwohl die saisonalen Spotlights seit Frühjahr 2020 zugunsten des [aktuellen Be
 
 ## Beatmap Challenge Packs
 
-**Beatmap Challenge Packs Medaillen**, oder alternativ auch [*Skill Packs Medaillen*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates) genannt, sind Medaillen, die beim Abschließen der höchsten Schwierigkeitsstufe auf allen Beatmaps, die in einem bestimmten [Thema-Beatmap-Paket](https://osu.ppy.sh/beatmaps/packs?type=theme) oder [Beatmap-Paket eines Künstlers/Albums](https://osu.ppy.sh/beatmaps/packs?type=artist) enthalten sind, überreicht werden (*ohne aktivierte [Mods zur Reduzierung der Schwierigkeit](/wiki/Game_modifier#einfacher) oder [spezielle](/wiki/Game_modifier#sonstige) Mods*). Diese Beatmap-Pakete werden speziell angeboten, um das Verständnis von verschiedenen Gameplay-Aspekten um ein bestimmtes Fähigkeitslevel der Spieler zu testen, also z. B. innerhalb einer bestimmten [Sternebewertung](/wiki/Beatmapping/Star_rating) oder einem Bereich von Schwierigkeitsgraden.
+**Beatmap Challenge Packs Medaillen**, oder alternativ auch [*Skill Packs Medaillen*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs) genannt, sind Medaillen, die beim Abschließen der höchsten Schwierigkeitsstufe auf allen Beatmaps, die in einem bestimmten [Thema-Beatmap-Paket](https://osu.ppy.sh/beatmaps/packs?type=theme) oder [Beatmap-Paket eines Künstlers/Albums](https://osu.ppy.sh/beatmaps/packs?type=artist) enthalten sind, überreicht werden (*ohne aktivierte [Mods zur Reduzierung der Schwierigkeit](/wiki/Game_modifier#einfacher) oder [spezielle](/wiki/Game_modifier#sonstige) Mods*). Diese Beatmap-Pakete werden speziell angeboten, um das Verständnis von verschiedenen Gameplay-Aspekten um ein bestimmtes Fähigkeitslevel der Spieler zu testen, also z. B. innerhalb einer bestimmten [Sternebewertung](/wiki/Beatmapping/Star_rating) oder einem Bereich von Schwierigkeitsgraden.
 
 Alle Beatmaps im Paket müssen im [osu!](/wiki/Game_mode/osu!)-Spielmodus abgeschlossen werden, um sich für das Abzeichen zu qualifizieren, sofern nicht anders angegeben.
 

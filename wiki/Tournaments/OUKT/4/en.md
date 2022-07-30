@@ -10,7 +10,7 @@ tags:
 
 ![OUKT 4 banner](img/banner.jpg)
 
-The **osu! UK tournament 4** (***OUKT4***) was a ![][flag_GB] United Kingdom single elimination 1v1 osu! tournament hosted by ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) and Co-Hosted by ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134). It is the 4th iteration of the **osu! UK Tournament** (***OUKT***) series.
+The **osu! UK tournament 4** (***OUKT4***) was a ::{ flag=GB }:: United Kingdom single elimination 1v1 osu! tournament hosted by ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) and Co-Hosted by ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134). It is the 4th iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament schedule
 
@@ -32,16 +32,16 @@ The OUKT4 was run by various community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137) |
-| Co-host | ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Mappool selector | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ![][flag_US] [Meltdown](https://osu.ppy.sh/users/3442100), ![][flag_NZ] [Kuki](https://osu.ppy.sh/users/3518735), ![][flag_DE] [cptnXn](https://osu.ppy.sh/users/495272) |
-| Referee | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Pazo](https://osu.ppy.sh/users/2232928) |
-| Streamer | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [SgtSitdown](https://osu.ppy.sh/users/3611886) |
-| Commentator | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Kardet](https://osu.ppy.sh/users/1438509), ![][flag_GB] [vidya](https://osu.ppy.sh/users/413305), ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134) |
-| Statistician | ![][flag_GB] [Chassit](https://osu.ppy.sh/users/3799313) |
-| Graphics designer | ![][flag_FI] [Static Noise Bird](https://osu.ppy.sh/users/826132) |
-| Video editor | ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/348137) |
-| Backup help | ![][flag_GB] [Churcheell](https://osu.ppy.sh/users/2585115), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), LordVenomania <!-- missing --> |
+| Host | ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/348137) |
+| Co-host | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134) |
+| Mappool selector | ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ::{ flag=US }:: [Meltdown](https://osu.ppy.sh/users/3442100), ::{ flag=NZ }:: [Kuki](https://osu.ppy.sh/users/3518735), ::{ flag=DE }:: [cptnXn](https://osu.ppy.sh/users/495272) |
+| Referee | ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Pazo](https://osu.ppy.sh/users/2232928) |
+| Streamer | ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [SgtSitdown](https://osu.ppy.sh/users/3611886) |
+| Commentator | ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/348137), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Kardet](https://osu.ppy.sh/users/1438509), ::{ flag=GB }:: [vidya](https://osu.ppy.sh/users/413305), ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134) |
+| Statistician | ::{ flag=GB }:: [Chassit](https://osu.ppy.sh/users/3799313) |
+| Graphics designer | ::{ flag=FI }:: [Static Noise Bird](https://osu.ppy.sh/users/826132) |
+| Video editor | ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/348137) |
+| Backup help | ::{ flag=GB }:: [Churcheell](https://osu.ppy.sh/users/2585115), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467), LordVenomania <!-- missing --> |
 
 ## Links
 
@@ -60,21 +60,21 @@ The OUKT4 was run by various community members
 
 | Seed | Players |
 | :-- | :-- |
-| 1-16 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620), ![][flag_GB] [jesus1412](https://osu.ppy.sh/users/230116), ![][flag_GB] [Could This Be](https://osu.ppy.sh/users/2313772), ![][flag_GB] [Saferon](https://osu.ppy.sh/users/1825822), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538), ![][flag_GB] [Kardet](https://osu.ppy.sh/users/1438509), ![][flag_GB] [R a h a r u](https://osu.ppy.sh/users/785193), ![][flag_GB] [Kratoslol](https://osu.ppy.sh/users/3603354), ![][flag_GB] [Gadrin](https://osu.ppy.sh/users/2245830), ![][flag_GB] [PortalLife](https://osu.ppy.sh/users/929134), ![][flag_GB] [vidya](https://osu.ppy.sh/users/413305), ![][flag_GB] [SamC](https://osu.ppy.sh/users/1453543), ![][flag_GB] [19120113121308](https://osu.ppy.sh/users/3455174), ![][flag_GB] [Navi](https://osu.ppy.sh/users/926304), ![][flag_GB] [sullyjhf](https://osu.ppy.sh/users/1994780) |
-| 17-32 | ![][flag_GB] [Slvin](https://osu.ppy.sh/users/1219567), ![][flag_GB] [Run-Cat](https://osu.ppy.sh/users/4361729), ![][flag_GB] [SoraRoxas](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199), ![][flag_GB] [Neroh](https://osu.ppy.sh/users/2257584), ![][flag_GB] [\[AOTN\]](https://osu.ppy.sh/users/3233710), ![][flag_GB] LusoryLoL <!-- missing -->, ![][flag_GB] [Ommetaphobia](https://osu.ppy.sh/users/3082695), ![][flag_GB] [Misti](https://osu.ppy.sh/users/3425197), ![][flag_GB] [Helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [Jeromelol](https://osu.ppy.sh/users/3391379), ![][flag_GB] [Edd](https://osu.ppy.sh/users/1418433), ![][flag_GB] [Rime](https://osu.ppy.sh/users/1397232), ![][flag_GB] [Im not green](https://osu.ppy.sh/users/3455623), ![][flag_GB] [DatPenguinTho](https://osu.ppy.sh/users/4087206), ![][flag_GB] [Swaayy](https://osu.ppy.sh/users/2412218) |
-| 33-48 | ![][flag_GB] [Cozzzy](https://osu.ppy.sh/users/2003917), ![][flag_GB] [Ximphia](https://osu.ppy.sh/users/2083664), ![][flag_GB] [Ascension](https://osu.ppy.sh/users/3181083), ![][flag_GB] [WeirdF](https://osu.ppy.sh/users/2070080), ![][flag_GB] [RndGuy](https://osu.ppy.sh/users/1201586), ![][flag_GB] [Pazo](https://osu.ppy.sh/users/2232928), ![][flag_GB] [YunoWhoItIs](https://osu.ppy.sh/users/1331455), ![][flag_GB] LordVenomania <!-- missing -->, ![][flag_GB] [SgtSitdown](https://osu.ppy.sh/users/3611886), ![][flag_GB] [Kakiage](https://osu.ppy.sh/users/3104031), ![][flag_GB] megalonyx <!-- missing -->, ![][flag_GB] [Vortecs](https://osu.ppy.sh/users/2715375), ![][flag_GB] Retart <!-- missing -->, ![][flag_GB] [Alanca](https://osu.ppy.sh/users/3352010), ![][flag_GB] [Mahiro Yasaka](https://osu.ppy.sh/users/3481378), ![][flag_GB] [xati](https://osu.ppy.sh/users/4005216) |
-| 49-64 | ![][flag_GB] [BandOfPonies](https://osu.ppy.sh/users/2823272), ![][flag_GB] [\[ YTY \]](https://osu.ppy.sh/users/3229140), ![][flag_GB] [Vapor](https://osu.ppy.sh/users/957822), ![][flag_GB] [litejason](https://osu.ppy.sh/users/2258232), ![][flag_GB] K E I <!-- missing -->, ![][flag_GB] [FHZR](https://osu.ppy.sh/users/3683845), ![][flag_GB] [Doggywoof](https://osu.ppy.sh/users/2833150), ![][flag_GB] [kyou](https://osu.ppy.sh/users/3269265), ![][flag_GB] [Snookie](https://osu.ppy.sh/users/1484934), ![][flag_GB] Guy-  <!-- missing -->, ![][flag_GB] [kenlei2009](https://osu.ppy.sh/users/3307351), ![][flag_GB] [djsettle](https://osu.ppy.sh/users/4010354), ![][flag_GB] [ChicagoTed7172](https://osu.ppy.sh/users/2948139), ![][flag_GB] [spirit flare](https://osu.ppy.sh/users/3442136), ![][flag_GB] -Panda- <!-- missing -->, ![][flag_GB] [EzLyn](https://osu.ppy.sh/users/2709812) |
-| 65-80 | ![][flag_GB] [dagothur13](https://osu.ppy.sh/users/4045400), ![][flag_GB] [N1nYo](https://osu.ppy.sh/users/3962610), ![][flag_GB] [Kry](https://osu.ppy.sh/users/2746200), ![][flag_GB] [Rolf Harris](https://osu.ppy.sh/users/3767425), ![][flag_GB] xendran <!-- missing -->, ![][flag_GB] [Wookiezi](https://osu.ppy.sh/users/4407567), ![][flag_GB] [Beeboy](https://osu.ppy.sh/users/2846636), ![][flag_GB] [Yixa](https://osu.ppy.sh/users/3646393), ![][flag_GB] [Ike](https://osu.ppy.sh/users/4618050), ![][flag_GB] [simtom](https://osu.ppy.sh/users/622481), ![][flag_GB] [\[ Darkdog \]](https://osu.ppy.sh/users/2931939), ![][flag_GB] [Xswordy](https://osu.ppy.sh/users/639013), ![][flag_GB] [Jimbot](https://osu.ppy.sh/users/2018518), ![][flag_GB] [Woffel](https://osu.ppy.sh/users/3915122), ![][flag_GB] [Dminic](https://osu.ppy.sh/users/3444096), ![][flag_GB] [NatashaGG](https://osu.ppy.sh/users/3604326) |
-| 81-96 | ![][flag_GB] [\[Adie\]](https://osu.ppy.sh/users/3012518), ![][flag_GB] [HabileLawk](https://osu.ppy.sh/users/3036609), ![][flag_GB] [Elephant_king](https://osu.ppy.sh/users/2812980), ![][flag_GB] [Awesomefacerox](https://osu.ppy.sh/users/3741296), ![][flag_GB] [Datso](https://osu.ppy.sh/users/2718570), ![][flag_GB] [chineseperson](https://osu.ppy.sh/users/3926391), ![][flag_GB] [FlipTheFish](https://osu.ppy.sh/users/2665746), ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142), ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_GB] [destructor966](https://osu.ppy.sh/users/2667584), ![][flag_GB] [legoboomette](https://osu.ppy.sh/users/3181907), ![][flag_GB] [Dell](https://osu.ppy.sh/users/3891036), ![][flag_GB] [cawsrun](https://osu.ppy.sh/users/3603439), ![][flag_GB] [I_am_AM](https://osu.ppy.sh/users/4128147), ![][flag_GB] [RedKing](https://osu.ppy.sh/users/2754924), ![][flag_GB] [georgewday](https://osu.ppy.sh/users/4244200) |
-| 97-112 | ![][flag_GB] [C a l l u m](https://osu.ppy.sh/users/1874680), ![][flag_GB] [Churcheell](https://osu.ppy.sh/users/2585115), ![][flag_GB] [Taiitoo](https://osu.ppy.sh/users/1144822), ![][flag_GB] [EdTheSheep](https://osu.ppy.sh/users/2612766), ![][flag_GB] Cataclysm <!-- missing -->, ![][flag_GB] [Profound Leader](https://osu.ppy.sh/users/4414604), ![][flag_GB] [Minifrij](https://osu.ppy.sh/users/3793976), ![][flag_GB] [JonnyTomo](https://osu.ppy.sh/users/2682203), ![][flag_GB] [x Hanako](https://osu.ppy.sh/users/2324063), ![][flag_GB] [Rixta](https://osu.ppy.sh/users/835286), ![][flag_GB] [HypernovaKilla](https://osu.ppy.sh/users/2643636), ![][flag_GB] KingNick <!-- missing -->, ![][flag_GB] [\[Joel\]](https://osu.ppy.sh/users/3358093), ![][flag_GB] [Ecliptus](https://osu.ppy.sh/users/3820504), ![][flag_GB] [DanZqa](https://osu.ppy.sh/users/4572097), ![][flag_GB] [Vibroxide](https://osu.ppy.sh/users/2066136) |
-| 113-124 | ![][flag_GB] [Decelvice](https://osu.ppy.sh/users/3547388), ![][flag_GB] [Tsunami Rin](https://osu.ppy.sh/users/2085715), ![][flag_GB] [Kappy](https://osu.ppy.sh/users/3637719), ![][flag_GB] [Evrae X](https://osu.ppy.sh/users/3391738), ![][flag_GB] [Justify](https://osu.ppy.sh/users/3407664), ![][flag_GB] [sargeant_pig](https://osu.ppy.sh/users/4965229), ![][flag_GB] S h o e <!-- missing -->, ![][flag_GB] slowlymore2 <!-- missing -->, ![][flag_GB] [Louis13](https://osu.ppy.sh/users/3354548), ![][flag_GB] [VirtualMuffin](https://osu.ppy.sh/users/3856263), ![][flag_GB] [Rstrs2402](https://osu.ppy.sh/users/4000641), ![][flag_GB] camas <!-- missing -->, ![][flag_GB] [Zeffeng](https://osu.ppy.sh/users/3111725), ![][flag_GB] [PoisonPanda](https://osu.ppy.sh/users/4693956), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_GB] [EricT45](https://osu.ppy.sh/users/3133935) |
+| 1-16 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620), ::{ flag=GB }:: [jesus1412](https://osu.ppy.sh/users/230116), ::{ flag=GB }:: [Could This Be](https://osu.ppy.sh/users/2313772), ::{ flag=GB }:: [Saferon](https://osu.ppy.sh/users/1825822), ::{ flag=GB }:: [Raiku](https://osu.ppy.sh/users/1525538), ::{ flag=GB }:: [Kardet](https://osu.ppy.sh/users/1438509), ::{ flag=GB }:: [R a h a r u](https://osu.ppy.sh/users/785193), ::{ flag=GB }:: [Kratoslol](https://osu.ppy.sh/users/3603354), ::{ flag=GB }:: [Gadrin](https://osu.ppy.sh/users/2245830), ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [vidya](https://osu.ppy.sh/users/413305), ::{ flag=GB }:: [SamC](https://osu.ppy.sh/users/1453543), ::{ flag=GB }:: [19120113121308](https://osu.ppy.sh/users/3455174), ::{ flag=GB }:: [Navi](https://osu.ppy.sh/users/926304), ::{ flag=GB }:: [sullyjhf](https://osu.ppy.sh/users/1994780) |
+| 17-32 | ::{ flag=GB }:: [Slvin](https://osu.ppy.sh/users/1219567), ::{ flag=GB }:: [Run-Cat](https://osu.ppy.sh/users/4361729), ::{ flag=GB }:: [SoraRoxas](https://osu.ppy.sh/users/1986262), ::{ flag=GB }:: [Starry-](https://osu.ppy.sh/users/2166199), ::{ flag=GB }:: [Neroh](https://osu.ppy.sh/users/2257584), ::{ flag=GB }:: [\[AOTN\]](https://osu.ppy.sh/users/3233710), ::{ flag=GB }:: LusoryLoL <!-- missing -->, ::{ flag=GB }:: [Ommetaphobia](https://osu.ppy.sh/users/3082695), ::{ flag=GB }:: [Misti](https://osu.ppy.sh/users/3425197), ::{ flag=GB }:: [Helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [Jeromelol](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [Edd](https://osu.ppy.sh/users/1418433), ::{ flag=GB }:: [Rime](https://osu.ppy.sh/users/1397232), ::{ flag=GB }:: [Im not green](https://osu.ppy.sh/users/3455623), ::{ flag=GB }:: [DatPenguinTho](https://osu.ppy.sh/users/4087206), ::{ flag=GB }:: [Swaayy](https://osu.ppy.sh/users/2412218) |
+| 33-48 | ::{ flag=GB }:: [Cozzzy](https://osu.ppy.sh/users/2003917), ::{ flag=GB }:: [Ximphia](https://osu.ppy.sh/users/2083664), ::{ flag=GB }:: [Ascension](https://osu.ppy.sh/users/3181083), ::{ flag=GB }:: [WeirdF](https://osu.ppy.sh/users/2070080), ::{ flag=GB }:: [RndGuy](https://osu.ppy.sh/users/1201586), ::{ flag=GB }:: [Pazo](https://osu.ppy.sh/users/2232928), ::{ flag=GB }:: [YunoWhoItIs](https://osu.ppy.sh/users/1331455), ::{ flag=GB }:: LordVenomania <!-- missing -->, ::{ flag=GB }:: [SgtSitdown](https://osu.ppy.sh/users/3611886), ::{ flag=GB }:: [Kakiage](https://osu.ppy.sh/users/3104031), ::{ flag=GB }:: megalonyx <!-- missing -->, ::{ flag=GB }:: [Vortecs](https://osu.ppy.sh/users/2715375), ::{ flag=GB }:: Retart <!-- missing -->, ::{ flag=GB }:: [Alanca](https://osu.ppy.sh/users/3352010), ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/3481378), ::{ flag=GB }:: [xati](https://osu.ppy.sh/users/4005216) |
+| 49-64 | ::{ flag=GB }:: [BandOfPonies](https://osu.ppy.sh/users/2823272), ::{ flag=GB }:: [\[ YTY \]](https://osu.ppy.sh/users/3229140), ::{ flag=GB }:: [Vapor](https://osu.ppy.sh/users/957822), ::{ flag=GB }:: [litejason](https://osu.ppy.sh/users/2258232), ::{ flag=GB }:: K E I <!-- missing -->, ::{ flag=GB }:: [FHZR](https://osu.ppy.sh/users/3683845), ::{ flag=GB }:: [Doggywoof](https://osu.ppy.sh/users/2833150), ::{ flag=GB }:: [kyou](https://osu.ppy.sh/users/3269265), ::{ flag=GB }:: [Snookie](https://osu.ppy.sh/users/1484934), ::{ flag=GB }:: Guy-  <!-- missing -->, ::{ flag=GB }:: [kenlei2009](https://osu.ppy.sh/users/3307351), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [ChicagoTed7172](https://osu.ppy.sh/users/2948139), ::{ flag=GB }:: [spirit flare](https://osu.ppy.sh/users/3442136), ::{ flag=GB }:: -Panda- <!-- missing -->, ::{ flag=GB }:: [EzLyn](https://osu.ppy.sh/users/2709812) |
+| 65-80 | ::{ flag=GB }:: [dagothur13](https://osu.ppy.sh/users/4045400), ::{ flag=GB }:: [N1nYo](https://osu.ppy.sh/users/3962610), ::{ flag=GB }:: [Kry](https://osu.ppy.sh/users/2746200), ::{ flag=GB }:: [Rolf Harris](https://osu.ppy.sh/users/3767425), ::{ flag=GB }:: xendran <!-- missing -->, ::{ flag=GB }:: [Wookiezi](https://osu.ppy.sh/users/4407567), ::{ flag=GB }:: [Beeboy](https://osu.ppy.sh/users/2846636), ::{ flag=GB }:: [Yixa](https://osu.ppy.sh/users/3646393), ::{ flag=GB }:: [Ike](https://osu.ppy.sh/users/4618050), ::{ flag=GB }:: [simtom](https://osu.ppy.sh/users/622481), ::{ flag=GB }:: [\[ Darkdog \]](https://osu.ppy.sh/users/2931939), ::{ flag=GB }:: [Xswordy](https://osu.ppy.sh/users/639013), ::{ flag=GB }:: [Jimbot](https://osu.ppy.sh/users/2018518), ::{ flag=GB }:: [Woffel](https://osu.ppy.sh/users/3915122), ::{ flag=GB }:: [Dminic](https://osu.ppy.sh/users/3444096), ::{ flag=GB }:: [NatashaGG](https://osu.ppy.sh/users/3604326) |
+| 81-96 | ::{ flag=GB }:: [\[Adie\]](https://osu.ppy.sh/users/3012518), ::{ flag=GB }:: [HabileLawk](https://osu.ppy.sh/users/3036609), ::{ flag=GB }:: [Elephant_king](https://osu.ppy.sh/users/2812980), ::{ flag=GB }:: [Awesomefacerox](https://osu.ppy.sh/users/3741296), ::{ flag=GB }:: [Datso](https://osu.ppy.sh/users/2718570), ::{ flag=GB }:: [chineseperson](https://osu.ppy.sh/users/3926391), ::{ flag=GB }:: [FlipTheFish](https://osu.ppy.sh/users/2665746), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467), ::{ flag=GB }:: [destructor966](https://osu.ppy.sh/users/2667584), ::{ flag=GB }:: [legoboomette](https://osu.ppy.sh/users/3181907), ::{ flag=GB }:: [Dell](https://osu.ppy.sh/users/3891036), ::{ flag=GB }:: [cawsrun](https://osu.ppy.sh/users/3603439), ::{ flag=GB }:: [I_am_AM](https://osu.ppy.sh/users/4128147), ::{ flag=GB }:: [RedKing](https://osu.ppy.sh/users/2754924), ::{ flag=GB }:: [georgewday](https://osu.ppy.sh/users/4244200) |
+| 97-112 | ::{ flag=GB }:: [C a l l u m](https://osu.ppy.sh/users/1874680), ::{ flag=GB }:: [Churcheell](https://osu.ppy.sh/users/2585115), ::{ flag=GB }:: [Taiitoo](https://osu.ppy.sh/users/1144822), ::{ flag=GB }:: [EdTheSheep](https://osu.ppy.sh/users/2612766), ::{ flag=GB }:: Cataclysm <!-- missing -->, ::{ flag=GB }:: [Profound Leader](https://osu.ppy.sh/users/4414604), ::{ flag=GB }:: [Minifrij](https://osu.ppy.sh/users/3793976), ::{ flag=GB }:: [JonnyTomo](https://osu.ppy.sh/users/2682203), ::{ flag=GB }:: [x Hanako](https://osu.ppy.sh/users/2324063), ::{ flag=GB }:: [Rixta](https://osu.ppy.sh/users/835286), ::{ flag=GB }:: [HypernovaKilla](https://osu.ppy.sh/users/2643636), ::{ flag=GB }:: KingNick <!-- missing -->, ::{ flag=GB }:: [\[Joel\]](https://osu.ppy.sh/users/3358093), ::{ flag=GB }:: [Ecliptus](https://osu.ppy.sh/users/3820504), ::{ flag=GB }:: [DanZqa](https://osu.ppy.sh/users/4572097), ::{ flag=GB }:: [Vibroxide](https://osu.ppy.sh/users/2066136) |
+| 113-124 | ::{ flag=GB }:: [Decelvice](https://osu.ppy.sh/users/3547388), ::{ flag=GB }:: [Tsunami Rin](https://osu.ppy.sh/users/2085715), ::{ flag=GB }:: [Kappy](https://osu.ppy.sh/users/3637719), ::{ flag=GB }:: [Evrae X](https://osu.ppy.sh/users/3391738), ::{ flag=GB }:: [Justify](https://osu.ppy.sh/users/3407664), ::{ flag=GB }:: [sargeant_pig](https://osu.ppy.sh/users/4965229), ::{ flag=GB }:: S h o e <!-- missing -->, ::{ flag=GB }:: slowlymore2 <!-- missing -->, ::{ flag=GB }:: [Louis13](https://osu.ppy.sh/users/3354548), ::{ flag=GB }:: [VirtualMuffin](https://osu.ppy.sh/users/3856263), ::{ flag=GB }:: [Rstrs2402](https://osu.ppy.sh/users/4000641), ::{ flag=GB }:: camas <!-- missing -->, ::{ flag=GB }:: [Zeffeng](https://osu.ppy.sh/users/3111725), ::{ flag=GB }:: [PoisonPanda](https://osu.ppy.sh/users/4693956), ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=GB }:: [EricT45](https://osu.ppy.sh/users/3133935) |
 
 ## Podium
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [bahamete](https://osu.ppy.sh/users/960620) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
 
 ## Mappools
 
@@ -276,7 +276,7 @@ Friday, 21 August 2015
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| Doomsday ![][flag_GB] | 0 | **6** | ![][flag_GB] **bahamete** |
+| Doomsday ::{ flag=GB }:: | 0 | **6** | ::{ flag=GB }:: **bahamete** |
 
 ### Semifinal
 
@@ -284,8 +284,8 @@ Saturday, 7 March 2015
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **1** | 0 | ![][flag_GB] vidya | *forfeit* |
-| **bahamete** ![][flag_GB] | **1** | 0 | ![][flag_GB] Raiku | *forfeit* |
+| **Doomsday** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: vidya | *forfeit* |
+| **bahamete** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Raiku | *forfeit* |
 
 ### Quaterfinal
 
@@ -293,10 +293,10 @@ Saturday, 21 Febuary 2015
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **5** | 0 | ![][flag_GB] R a h a r u | |
-| Could This Be ![][flag_GB] | 0 | **1** | ![][flag_GB] **vidya** | *forfeit* |
-| **bahamete** ![][flag_GB] | **5** | 1 | ![][flag_GB] Helix | |
-| jesus1412 ![][flag_GB] | 4 | **5** | ![][flag_GB] **Raiku** | |
+| **Doomsday** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: R a h a r u | |
+| Could This Be ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **vidya** | *forfeit* |
+| **bahamete** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Helix | |
+| jesus1412 ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: **Raiku** | |
 
 ### Round of 16
 
@@ -304,14 +304,14 @@ Saturday, 7 Febuary 2015
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **4** | 3 | ![][flag_GB] Slvin | |
-| **R a h a r u** ![][flag_GB] | **4** | 1 | ![][flag_GB] Ommetaphobia | |
-| **Could This Be** ![][flag_GB] | **4** | 3 | ![][flag_GB] SamC | |
-| RndGuy ![][flag_GB] | 3 | **4** | ![][flag_GB] **vidya** | |
-| **bahamete** ![][flag_GB] | **1** | 0 | ![][flag_GB] Navi | *forfeit* |
-| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] LusoryLoL | *forfeit* |
-| **jesus1412** ![][flag_GB] | **4** | 3 | ![][flag_GB] SoraRoxas | |
-| **Raiku** ![][flag_GB] | **4** | 0 | ![][flag_GB] \[AOTN\] | |
+| **Doomsday** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: Slvin | |
+| **R a h a r u** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Ommetaphobia | |
+| **Could This Be** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: SamC | |
+| RndGuy ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **vidya** | |
+| **bahamete** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Navi | *forfeit* |
+| **Helix** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: LusoryLoL | *forfeit* |
+| **jesus1412** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: SoraRoxas | |
+| **Raiku** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: \[AOTN\] | |
 
 ### Round of 32
 
@@ -319,22 +319,22 @@ Saturday, 31 January 2015
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_GB] Swaayy | |
-| sullyjhf ![][flag_GB] | 1 | **4** | ![][flag_GB] Slvin | |
-| **R a h a r u** ![][flag_GB] | **4** | 2 | ![][flag_GB] LordVenomania | |
-| Kratoslol ![][flag_GB] | 0 | **1** | ![][flag_GB] **Ommetaphobia** | *forfeit* |
-| **Could This Be** ![][flag_GB] | **4** | 0 | ![][flag_GB] WeirdF | |
-| **SamC** ![][flag_GB] | **4** | 2 | ![][flag_GB] Starry- | |
-| xendran ![][flag_GB] | 1 | **4** | ![][flag_GB] **RndGuy** | |
-| **vidya** ![][flag_GB] | **4** | 2 | ![][flag_GB] Vortecs | |
-| **bahamete** ![][flag_GB] | **4** | 0 | ![][flag_GB] Ximphia | |
-| **Navi** ![][flag_GB] | **4** | 1 | ![][flag_GB] Run-Cat | |
-| Guy- ![][flag_GB] | 0 | **4** | ![][flag_GB] **Helix** | |
-| Gadrin ![][flag_GB] | 0 | **1** | ![][flag_GB] **LusoryLoL** | *forfeit* |
-| **jesus1412** ![][flag_GB] | **4** | 1 | ![][flag_GB] Ascension | |
-| 19120113121308 ![][flag_GB] | 1 | **4** | ![][flag_GB] **SoraRoxas** | |
-| **Raiku** ![][flag_GB] | **4** | 2 | ![][flag_GB] Jeromelol | |
-| PortalLife ![][flag_GB] | 3 | **4** | ![][flag_GB] **\[AOTN\]** | |
+| **Doomsday** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Swaayy | |
+| sullyjhf ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: Slvin | |
+| **R a h a r u** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: LordVenomania | |
+| Kratoslol ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Ommetaphobia** | *forfeit* |
+| **Could This Be** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: WeirdF | |
+| **SamC** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Starry- | |
+| xendran ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **RndGuy** | |
+| **vidya** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Vortecs | |
+| **bahamete** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Ximphia | |
+| **Navi** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Run-Cat | |
+| Guy- ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Helix** | |
+| Gadrin ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **LusoryLoL** | *forfeit* |
+| **jesus1412** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Ascension | |
+| 19120113121308 ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **SoraRoxas** | |
+| **Raiku** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Jeromelol | |
+| PortalLife ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **\[AOTN\]** | |
 
 ### Round of 64
 
@@ -342,43 +342,43 @@ Saturday, 24 January 2015
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] dagothur13 | |
-| **Slvin** ![][flag_GB] | **1** | 0 | ![][flag_GB] xati | *forfeit* |
-| **R a h a r u** ![][flag_GB] | **3** | 2 | ![][flag_GB] Snookie | |
-| JonnyTomo ![][flag_GB] | 1 | **3** | ![][flag_GB] **LordVenomania** | |
-| **Kratoslol** ![][flag_GB] | **1** | 0 | ![][flag_GB] Ike | *forfeit* |
-| **Ommetaphobia** ![][flag_GB] | **3** | 0 | ![][flag_GB] OPJames | |
-| **Could This Be** ![][flag_GB] | **3** | 0 | ![][flag_GB] ChicagoTed7172 | |
-| Rime ![][flag_GB] | 0 | **3** | ![][flag_GB] **WeirdF** | |
-| **SamC** ![][flag_GB] | **3** | 0 | ![][flag_GB] litejason | |
-| **Starry-** ![][flag_GB] | **3** | 0 | ![][flag_GB] Awesomefacerox | |
-| camas ![][flag_GB] | 0 | **1** | ![][flag_GB] xendran | *forfeit* |
-| Edd ![][flag_GB] | 2 | **3** | ![][flag_GB] **RndGuy** | |
-| **vidya** ![][flag_GB] | **1** | 0 | ![][flag_GB] K E I | *forfeit* |
-| **sullyjhf** ![][flag_GB] | **3** | 2 | ![][flag_GB] NatashaGG | |
-| **bahamete** ![][flag_GB] | **3** | 1 | ![][flag_GB] N1nYo | |
-| DatPenguinTho ![][flag_GB] | 1 | **3** | ![][flag_GB] **Ximphia** | |
-| **Navi** ![][flag_GB] | **3** | 0 | ![][flag_GB] Dminic | |
-| VirtualMuffin ![][flag_GB] | 1 | **3** | ![][flag_GB] **Guy-** | |
-| **Gadrin** ![][flag_GB] | **3** | 2 | ![][flag_GB] Doggywoof | |
-| **jesus1412** ![][flag_GB] | **3** | 0 | ![][flag_GB] spirit flare | |
-| Im not green ![][flag_GB] | 0 | **3** | ![][flag_GB] **Ascension** | |
-| **19120113121308** ![][flag_GB] | **3** | 1 | ![][flag_GB] Vapor | |
-| **Raiku** ![][flag_GB] | **3** | 0 | ![][flag_GB] kenlei2009 | |
-| **Jeromelol** ![][flag_GB] | **3** | 0 | ![][flag_GB] Pazo | |
-| **PortalLife** ![][flag_GB] | **1** | 0 | ![][flag_GB] FHZR | *forfeit* |
-| **\[AOTN\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] chineseperson | |
+| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: dagothur13 | |
+| **Slvin** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: xati | *forfeit* |
+| **R a h a r u** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Snookie | |
+| JonnyTomo ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **LordVenomania** | |
+| **Kratoslol** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Ike | *forfeit* |
+| **Ommetaphobia** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: OPJames | |
+| **Could This Be** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: ChicagoTed7172 | |
+| Rime ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **WeirdF** | |
+| **SamC** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: litejason | |
+| **Starry-** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Awesomefacerox | |
+| camas ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: xendran | *forfeit* |
+| Edd ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **RndGuy** | |
+| **vidya** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: K E I | *forfeit* |
+| **sullyjhf** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: NatashaGG | |
+| **bahamete** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: N1nYo | |
+| DatPenguinTho ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Ximphia** | |
+| **Navi** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Dminic | |
+| VirtualMuffin ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Guy-** | |
+| **Gadrin** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Doggywoof | |
+| **jesus1412** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: spirit flare | |
+| Im not green ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Ascension** | |
+| **19120113121308** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Vapor | |
+| **Raiku** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: kenlei2009 | |
+| **Jeromelol** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Pazo | |
+| **PortalLife** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: FHZR | *forfeit* |
+| **\[AOTN\]** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: chineseperson | |
 
 Sunday, 25 January 2015
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Swaayy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Cozzzy | *forfeit* |
-| Neroh ![][flag_GB] | 0 | **3** | ![][flag_GB] **Vortecs** | |
-| **Run-Cat** ![][flag_GB] | **3** | 0 | ![][flag_GB] HabileLawk | |
-| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] YunoWhoItIs | *forfeit* |
-| **LusoryLoL** ![][flag_GB] | **1** | 0 | ![][flag_GB] Kakiage | *forfeit* |
-| **SoraRoxas** ![][flag_GB] | **3** | 0 | ![][flag_GB] Elephant_king | |
+| **Swaayy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Cozzzy | *forfeit* |
+| Neroh ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Vortecs** | |
+| **Run-Cat** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: HabileLawk | |
+| **Helix** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: YunoWhoItIs | *forfeit* |
+| **LusoryLoL** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Kakiage | *forfeit* |
+| **SoraRoxas** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Elephant_king | |
 
 ### Round of 128
 
@@ -386,100 +386,100 @@ Saturday, 10 January 2015:
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| EzLyn ![][flag_GB] | 2 | **3** | ![][flag_GB] **dagothur13** | |
-| BandOfPonies ![][flag_GB] | 0 | **3** | ![][flag_GB] **NatashaGG** | |
-| **Slvin** ![][flag_GB] | **3** | 0 | ![][flag_GB] Vibroxide | |
-| **R a h a r u** ![][flag_GB] | **3** | 0 | ![][flag_GB] Louis13 | |
-| Misti ![][flag_GB] | 0 | **1** | ![][flag_GB] **JonnyTomo** | *forfeit* |
-| **LordVenomania** ![][flag_GB] | **3** | 0 | ![][flag_GB] Scootawoo | |
-| **Kratoslol** ![][flag_GB] | **1** | 0 | ![][flag_GB] slowlymore2 | *forfeit* |
-| kyou ![][flag_GB] | 0 | **1** | ![][flag_GB] **Ike** | *forfeit* |
-| **Ommetaphobia** ![][flag_GB] | **3** | 0 | ![][flag_GB] x Hanako | |
-| SgtSitdown ![][flag_GB] | 2 | **3** | ![][flag_GB] **OPJames** | |
-| **ChicagoTed7172** ![][flag_GB] | **3** | 1 | ![][flag_GB] Rolf Harris | |
-| **Rime** ![][flag_GB] | **1** | 0 | ![][flag_GB] EdTheSheep | *forfeit* |
-| **WeirdF** ![][flag_GB] | **3** | 0 | ![][flag_GB] cawsrun | |
-| **SamC** ![][flag_GB] | **3** | 1 | ![][flag_GB] Evrae X | |
-| **Starry-** ![][flag_GB] | **1** | 0 | ![][flag_GB] \[Joel\] | *forfeit* |
-| Saferon ![][flag_GB] | 0 | **1** | ![][flag_GB] **camas** | *forfeit* |
-| **Doomsday** ![][flag_GB] | **3** | 0 | ![][flag_GB] EricT45 | |
-| djsettle ![][flag_GB] | 2 | **3** | ![][flag_GB] **xendran** | |
+| EzLyn ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **dagothur13** | |
+| BandOfPonies ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **NatashaGG** | |
+| **Slvin** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Vibroxide | |
+| **R a h a r u** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Louis13 | |
+| Misti ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **JonnyTomo** | *forfeit* |
+| **LordVenomania** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Scootawoo | |
+| **Kratoslol** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: slowlymore2 | *forfeit* |
+| kyou ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Ike** | *forfeit* |
+| **Ommetaphobia** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: x Hanako | |
+| SgtSitdown ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **OPJames** | |
+| **ChicagoTed7172** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Rolf Harris | |
+| **Rime** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: EdTheSheep | *forfeit* |
+| **WeirdF** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: cawsrun | |
+| **SamC** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Evrae X | |
+| **Starry-** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: \[Joel\] | *forfeit* |
+| Saferon ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **camas** | *forfeit* |
+| **Doomsday** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: EricT45 | |
+| djsettle ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **xendran** | |
 
 Sunday, 11 January 2015:
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Edd** ![][flag_GB] | **3** | 2 | ![][flag_GB] Cataclysm | |
-| **vidya** ![][flag_GB] | **3** | 0 | ![][flag_GB] Justify | |
-| **K E I** ![][flag_GB] | **3** | 2 | ![][flag_GB] Xswordy | |
-| **Neroh** ![][flag_GB] | **3** | 1 | ![][flag_GB] KingNick | |
-| **Vortecs** ![][flag_GB] | **1** | 0 | ![][flag_GB] Datso | *forfeit* |
-| **bahamete** ![][flag_GB] | **3** | 0 | ![][flag_GB] Hydria | |
-| -Panda- ![][flag_GB] | 2 | **3** | ![][flag_GB] **N1nYo** | |
-| **DatPenguinTho** ![][flag_GB] | **3** | 1 | ![][flag_GB] Churcheell | |
-| **Ximphia** ![][flag_GB] | **3** | 2 | ![][flag_GB] RedKing | |
-| **Navi** ![][flag_GB] | **1** | 0 | ![][flag_GB] Tsunami Rin | *forfeit* |
-| \[ YTY \] ![][flag_GB] | 0 | **1** | ![][flag_GB] Dminic | *forfeit* |
-| **Run-Cat** ![][flag_GB] | **3** | 0 | ![][flag_GB] DanZqa | |
-| Mahiro Yasaka ![][flag_GB] | 2 | **3** | ![][flag_GB] HabileLawk | |
-| Kardet ![][flag_GB] | 0 | **1** | ![][flag_GB] **VirtualMuffin** | *forfeit* |
-| **Guy-** ![][flag_GB] | **1** | 0 | ![][flag_GB] Beeboy | *forfeit* |
-| **Helix** ![][flag_GB] | **1** | 0 | ![][flag_GB] Minfrij | *forfeit* |
-| **LusoryLoL** ![][flag_GB] | **3** | 0 | ![][flag_GB] Rixta | |
-| **Gadrin** ![][flag_GB] | **3** | 2 | ![][flag_GB] S h o e | |
-| **Doggywoof** ![][flag_GB] | **3** | 1 | ![][flag_GB] simtom | |
-| **\[AOTN\]** ![][flag_GB] | **3** | 0 | ![][flag_GB] HypernovaKilla | |
-| **Kakiage** ![][flag_GB] | **3** | 1 | ![][flag_GB] FlipTheFish | |
-| **jesus1412** ![][flag_GB] | **3** | 2 | ![][flag_GB] PoisonPanda | |
-| **spirit flare** ![][flag_GB] | **1** | 0 | ![][flag_GB] Kry | *forfeit* |
+| **Edd** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Cataclysm | |
+| **vidya** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Justify | |
+| **K E I** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: Xswordy | |
+| **Neroh** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: KingNick | |
+| **Vortecs** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Datso | *forfeit* |
+| **bahamete** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Hydria | |
+| -Panda- ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **N1nYo** | |
+| **DatPenguinTho** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Churcheell | |
+| **Ximphia** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: RedKing | |
+| **Navi** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Tsunami Rin | *forfeit* |
+| \[ YTY \] ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: Dminic | *forfeit* |
+| **Run-Cat** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: DanZqa | |
+| Mahiro Yasaka ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: HabileLawk | |
+| Kardet ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **VirtualMuffin** | *forfeit* |
+| **Guy-** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Beeboy | *forfeit* |
+| **Helix** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Minfrij | *forfeit* |
+| **LusoryLoL** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Rixta | |
+| **Gadrin** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: S h o e | |
+| **Doggywoof** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: simtom | |
+| **\[AOTN\]** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: HypernovaKilla | |
+| **Kakiage** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: FlipTheFish | |
+| **jesus1412** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: PoisonPanda | |
+| **spirit flare** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Kry | *forfeit* |
 
 Wednesday, 14 January 2015:
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| Alanca ![][flag_GB] | 0 | **1** | ![][flag_GB] **Elephant_king** | *forfeit* |
-| **sullyjhf** ![][flag_GB] | **3** | 1 | ![][flag_GB] Decelvice | |
+| Alanca ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Elephant_king** | *forfeit* |
+| **sullyjhf** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Decelvice | |
 
 Thursday, 15 January 2015:
 
 | Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Snookie** ![][flag_GB] | **3** | 0 | ![][flag_GB] Yixa |
+| **Snookie** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Yixa |
 
 Friday, 16 January 2015:
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Cozzzy** ![][flag_GB] | **1** | 0 | ![][flag_GB] georgewday | *forfeit* |
-| **RndGuy** ![][flag_GB] | **1** | 0 | ![][flag_GB] Dell | *forfeit* |
+| **Cozzzy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: georgewday | *forfeit* |
+| **RndGuy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Dell | *forfeit* |
 
 Saturday, 17 January 2015:
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Im not green** ![][flag_GB] | **1** | 0 | ![][flag_GB] Taiitoo | *forfeit* |
-| **Ascension** ![][flag_GB] | **1** | 0 | ![][flag_GB] I_am_AM | *forfeit* |
-| **19120113121308** ![][flag_GB] | **3** | 0 | ![][flag_GB] Kappy | |
-| **Vapor** ![][flag_GB] | **1** | 0 | ![][flag_GB] Woffel | *forfeit* |
-| **Raiku** ![][flag_GB] | **3** | 0 | ![][flag_GB] Rstrs2402 | |
-| **Jeromelol** ![][flag_GB] | **3** | 0 | ![][flag_GB] Profound Leader | |
-| **Pazo** ![][flag_GB] | **3** | 1 | ![][flag_GB] legoboomette | |
-| **PortalLife** ![][flag_GB] | **3** | 1 | ![][flag_GB] sargeant_pig | |
-| megalonyx ![][flag_GB] | 0 | **1** | ![][flag_GB] **chineseperson** | *forfeit* |
-| **FHZR** ![][flag_GB] | **3** | 0 | ![][flag_GB] \[ Darkdog \] | |
+| **Im not green** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Taiitoo | *forfeit* |
+| **Ascension** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: I_am_AM | *forfeit* |
+| **19120113121308** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Kappy | |
+| **Vapor** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Woffel | *forfeit* |
+| **Raiku** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Rstrs2402 | |
+| **Jeromelol** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Profound Leader | |
+| **Pazo** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: legoboomette | |
+| **PortalLife** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: sargeant_pig | |
+| megalonyx ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **chineseperson** | *forfeit* |
+| **FHZR** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: \[ Darkdog \] | |
 
 Sunday, 18 January 2015:
 
 | Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **SoraRoxas** ![][flag_GB] | **3** | 0 | ![][flag_GB] Ecliptus | |
-| **Swaayy** ![][flag_GB] | **1** | 0 | ![][flag_GB] C a l l u m | *forfeit* |
-| **xati** ![][flag_GB] | **1** | 0 | ![][flag_GB] \[Adie\] | *forfeit* |
-| **Could This Be** ![][flag_GB] | **3** | 0 | ![][flag_GB] Zeffeng | |
-| **litejason** ![][flag_GB] | **1** | 0 | ![][flag_GB] Jimbot | *forfeit* |
-| Retart ![][flag_GB] | 0 | **1** | ![][flag_GB] **Awesomefacerox** | *forfeit* |
-| **YunoWhoItIs** ![][flag_GB] | **1** | 0 | ![][flag_GB] destructor966 | *forfeit* |
-| **kenlei2009** ![][flag_GB] | **1** | 0 | ![][flag_GB] Wookiezi | *forfeit* |
+| **SoraRoxas** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Ecliptus | |
+| **Swaayy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: C a l l u m | *forfeit* |
+| **xati** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: \[Adie\] | *forfeit* |
+| **Could This Be** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Zeffeng | |
+| **litejason** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Jimbot | *forfeit* |
+| Retart ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Awesomefacerox** | *forfeit* |
+| **YunoWhoItIs** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: destructor966 | *forfeit* |
+| **kenlei2009** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Wookiezi | *forfeit* |
 
 ## Ruleset
 
@@ -517,9 +517,3 @@ Sunday, 18 January 2015:
 - Each round schedule shall be released a week before the actual matches take place.
 - We are looking to complete each round on the weekends.
 - In special cases, with the agreement of both players, matches can also be played before this during the week. This is only if advance notice is given.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
