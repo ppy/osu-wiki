@@ -9,7 +9,7 @@ tags:
 
 ![UKCC5 logo](img/logo.png)
 
-The **UK Community Cup 5** (***UKCC5***) was a British 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the fifth instalment of the UK Community Cup series and the series' third 1v1 competition.
+The **UK Community Cup 5** (***UKCC5***) was a British 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972) and ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973). It was the fifth instalment of the UK Community Cup series and the series' third 1v1 competition.
 
 ## Tournament schedule
 
@@ -41,14 +41,14 @@ The UK Community Cup 5 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappool selector | ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446), ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262), ![][flag_DE] [\_Easy\_](https://osu.ppy.sh/users/5948335), ![][flag_FI] [Nyanaro](https://osu.ppy.sh/users/4157611) |
-| Mappool tester | ![][flag_GB] [Jameslike](https://osu.ppy.sh/users/2415743) |
-| Streamer | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263), ![][flag_GB] [ChriGarr](https://osu.ppy.sh/users/10111130), ![][flag_DE] [Irate](https://osu.ppy.sh/users/7166084) |
-| Commentator | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [Rojaseq](https://osu.ppy.sh/users/3027841), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [ChriGarr](https://osu.ppy.sh/users/10111130), ![][flag_GB] [xfluffyo](https://osu.ppy.sh/users/8397226), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_FI] [Nyanaro](https://osu.ppy.sh/users/4157611) |
-| Designer | ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
-| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [minorman4](https://osu.ppy.sh/users/4837257), ![][flag_NL] [Wiqued](https://osu.ppy.sh/users/10039350), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_GB] [ChriGarr](https://osu.ppy.sh/users/10111130), ![][flag_DE] [Irate](https://osu.ppy.sh/users/7166084), ![][flag_GB] [ebanineo](https://osu.ppy.sh/users/7755063), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Flaiimz](https://osu.ppy.sh/users/9172811) |
-| Statistician | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
+| Manager | ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Mappool selector | ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446), ::{ flag=GB }:: [SoraRoxas01](https://osu.ppy.sh/users/1986262), ::{ flag=DE }:: [\_Easy\_](https://osu.ppy.sh/users/5948335), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) |
+| Mappool tester | ::{ flag=GB }:: [Jameslike](https://osu.ppy.sh/users/2415743) |
+| Streamer | ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=GB }:: [ChriGarr](https://osu.ppy.sh/users/10111130), ::{ flag=DE }:: [Irate](https://osu.ppy.sh/users/7166084) |
+| Commentator | ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=GB }:: [Rojaseq](https://osu.ppy.sh/users/3027841), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [ChriGarr](https://osu.ppy.sh/users/10111130), ::{ flag=GB }:: [xfluffyo](https://osu.ppy.sh/users/8397226), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) |
+| Designer | ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
+| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [minorman4](https://osu.ppy.sh/users/4837257), ::{ flag=NL }:: [Wiqued](https://osu.ppy.sh/users/10039350), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=GB }:: [ChriGarr](https://osu.ppy.sh/users/10111130), ::{ flag=DE }:: [Irate](https://osu.ppy.sh/users/7166084), ::{ flag=GB }:: [ebanineo](https://osu.ppy.sh/users/7755063), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Flaiimz](https://osu.ppy.sh/users/9172811) |
+| Statistician | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
 
 ## Links
 
@@ -62,13 +62,13 @@ The UK Community Cup 5 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| 1-16 | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142), ![][flag_GB] [Bloo](https://osu.ppy.sh/users/6778877), ![][flag_GB] [Woffel](https://osu.ppy.sh/users/3915122), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Wario](https://osu.ppy.sh/users/4361729), ![][flag_GB] [Blubber](https://osu.ppy.sh/users/7263333), ![][flag_CA] [Squapple](https://osu.ppy.sh/users/6826036), ![][flag_GB] [Spook](https://osu.ppy.sh/users/2232928), ![][flag_GB] [Titus](https://osu.ppy.sh/users/2014867), ![][flag_GB] [Harpy](https://osu.ppy.sh/users/6761714), ![][flag_GB] [meltz](https://osu.ppy.sh/users/6741042), ![][flag_GB] [Rodney](https://osu.ppy.sh/users/7657761), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_GB] [Jimzzyyy](https://osu.ppy.sh/users/3600441) |
-| 17-32 | ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263), ![][flag_GB] [OskaRRRitoS](https://osu.ppy.sh/users/7051163), ![][flag_GB] [Kardet](https://osu.ppy.sh/users/1438509), ![][flag_GB] [Shaww](https://osu.ppy.sh/users/2704809), ![][flag_GB] [xFluffyo](https://osu.ppy.sh/users/8397226), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [Summer Solstice](https://osu.ppy.sh/users/3233710), ![][flag_GB] [rip fc](https://osu.ppy.sh/users/8671241), ![][flag_GB] [001thefish](https://osu.ppy.sh/users/4121535), ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222), ![][flag_IE] [natnat](https://osu.ppy.sh/users/4073754), ![][flag_GB] [\[- Karen -\]](https://osu.ppy.sh/users/6652874), ![][flag_GB] [Appilesh](https://osu.ppy.sh/users/6467933), ![][flag_IE] [Aseridan](https://osu.ppy.sh/users/9217468), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_GB] [KmK](https://osu.ppy.sh/users/7077554) |
-| 33-48 | ![][flag_GB] [october](https://osu.ppy.sh/users/5513481), ![][flag_GB] [Tokori](https://osu.ppy.sh/users/6371865), ![][flag_GB] [Mewe](https://osu.ppy.sh/users/8834203), ![][flag_GB] [bill nye](https://osu.ppy.sh/users/7680559), ![][flag_IE] [M a t t y](https://osu.ppy.sh/users/3737136), ![][flag_GB] [djsettle](https://osu.ppy.sh/users/4010354), ![][flag_GB] [Dag](https://osu.ppy.sh/users/4045400), ![][flag_GB] [Gerald](https://osu.ppy.sh/users/5216849), ![][flag_GB] [Pyrooo](https://osu.ppy.sh/users/5276579), ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549), ![][flag_GB] [Chemistry](https://osu.ppy.sh/users/6069540), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379), ![][flag_GB] [Cephus](https://osu.ppy.sh/users/3373206), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945) |
-| 49-64 | ![][flag_GB] [Chugger](https://osu.ppy.sh/users/4491713), ![][flag_GB] [Doughy](https://osu.ppy.sh/users/5275937), ![][flag_GB] [rendaru](https://osu.ppy.sh/users/6618659), ![][flag_GB] [Fozzy](https://osu.ppy.sh/users/9993781), ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [Zyphox](https://osu.ppy.sh/users/6589047), ![][flag_GB] [Cozzzy](https://osu.ppy.sh/users/2003917), ![][flag_GB] [Inuyama Aoi](https://osu.ppy.sh/users/6244594), ![][flag_GB] [2PMarsh](https://osu.ppy.sh/users/5189370), ![][flag_GB] [Nepraxia](https://osu.ppy.sh/users/8387939), ![][flag_GB] [Anaesthetic](https://osu.ppy.sh/users/7953111), ![][flag_GB] [Flare](https://osu.ppy.sh/users/10670430), ![][flag_GB] [Gazza](https://osu.ppy.sh/users/3648459), ![][flag_GB] [Sobriquet](https://osu.ppy.sh/users/3891023), ![][flag_PL] [YunoWasTaken](https://osu.ppy.sh/users/3036339) |
-| 65-80 | ![][flag_GB] [RndGuy](https://osu.ppy.sh/users/1201586), ![][flag_GB] [\[ -Senpai- \]](https://osu.ppy.sh/users/10085767), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_GB] -Hyper-, ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ![][flag_GB] [Teejay-san](https://osu.ppy.sh/users/9499753), ![][flag_GB] [Unrestricted](https://osu.ppy.sh/users/9553446), ![][flag_GB] [Wsk](https://osu.ppy.sh/users/9673192), ![][flag_GB] [Hii](https://osu.ppy.sh/users/5475585), ![][flag_GB] [Lusory](https://osu.ppy.sh/users/2101270), ![][flag_GB] [xomilkyox](https://osu.ppy.sh/users/7633028), ![][flag_GB] [Rojaseq](https://osu.ppy.sh/users/3027841), ![][flag_GB] [Rumon](https://osu.ppy.sh/users/4000985), ![][flag_GB] [ItzDuncan](https://osu.ppy.sh/users/9426809), ![][flag_GB] [Eg9z](https://osu.ppy.sh/users/9431679), ![][flag_GB] [moneybags](https://osu.ppy.sh/users/9645554) |
-| 81-96 | ![][flag_GB] [This Acc Sucks](https://osu.ppy.sh/users/7299249), ![][flag_GB] [JackRB](https://osu.ppy.sh/users/10007343), ![][flag_GB] [jasian](https://osu.ppy.sh/users/2258232), ![][flag_GB] [Jetzy-Chan](https://osu.ppy.sh/users/5674663), ![][flag_GB] [Jxsh](https://osu.ppy.sh/users/6582713), ![][flag_GB] [Olii](https://osu.ppy.sh/users/7683305), ![][flag_GB] [Respirte](https://osu.ppy.sh/users/9870167), ![][flag_US] [OhHeyImWills](https://osu.ppy.sh/users/10278790), ![][flag_GB] [Miszuria](https://osu.ppy.sh/users/6830581), ![][flag_GB] [Daddy Dean](https://osu.ppy.sh/users/9061365), ![][flag_GB] [PsychoStatic](https://osu.ppy.sh/users/7291594), ![][flag_GB] [Elit3](https://osu.ppy.sh/users/10086758), ![][flag_IE] [IsLegit](https://osu.ppy.sh/users/7069293), ![][flag_GB] [Mantle](https://osu.ppy.sh/users/7225966), ![][flag_GB] [Nek1i](https://osu.ppy.sh/users/6385453), ![][flag_GB] [Mashi](https://osu.ppy.sh/users/8400612) |
-| 97-111 | ![][flag_GB] [Phymiath](https://osu.ppy.sh/users/9106403), ![][flag_FR] [Ulvind](https://osu.ppy.sh/users/9665028), ![][flag_GB] [RingSystem](https://osu.ppy.sh/users/4721761), ![][flag_GB] [MilburnPennyBag](https://osu.ppy.sh/users/10585285), ![][flag_GB] [ApocalypseFPS](https://osu.ppy.sh/users/3393269), ![][flag_GB] [gamingfan12345](https://osu.ppy.sh/users/9061767), ![][flag_GB] [VirtualMuffin](https://osu.ppy.sh/users/3856263), ![][flag_IE] [Darragh](https://osu.ppy.sh/users/7719874), ![][flag_GB] [SacretSword](https://osu.ppy.sh/users/9821402), ![][flag_IE] [kaniciwah](https://osu.ppy.sh/users/9371954), ![][flag_GB] [Echaen](https://osu.ppy.sh/users/7350647), ![][flag_GB] [alextabitha](https://osu.ppy.sh/users/9044767), ![][flag_GB] [josph12](https://osu.ppy.sh/users/8584840), ![][flag_GB] [Cycrox](https://osu.ppy.sh/users/9618395), ![][flag_GB] [\_Takara](https://osu.ppy.sh/users/11599184) |
+| 1-16 | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142), ::{ flag=GB }:: [Bloo](https://osu.ppy.sh/users/6778877), ::{ flag=GB }:: [Woffel](https://osu.ppy.sh/users/3915122), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Wario](https://osu.ppy.sh/users/4361729), ::{ flag=GB }:: [Blubber](https://osu.ppy.sh/users/7263333), ::{ flag=CA }:: [Squapple](https://osu.ppy.sh/users/6826036), ::{ flag=GB }:: [Spook](https://osu.ppy.sh/users/2232928), ::{ flag=GB }:: [Titus](https://osu.ppy.sh/users/2014867), ::{ flag=GB }:: [Harpy](https://osu.ppy.sh/users/6761714), ::{ flag=GB }:: [meltz](https://osu.ppy.sh/users/6741042), ::{ flag=GB }:: [Rodney](https://osu.ppy.sh/users/7657761), ::{ flag=GB }:: [Nega](https://osu.ppy.sh/users/3181083), ::{ flag=GB }:: [Jimzzyyy](https://osu.ppy.sh/users/3600441) |
+| 17-32 | ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=GB }:: [OskaRRRitoS](https://osu.ppy.sh/users/7051163), ::{ flag=GB }:: [Kardet](https://osu.ppy.sh/users/1438509), ::{ flag=GB }:: [Shaww](https://osu.ppy.sh/users/2704809), ::{ flag=GB }:: [xFluffyo](https://osu.ppy.sh/users/8397226), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [Summer Solstice](https://osu.ppy.sh/users/3233710), ::{ flag=GB }:: [rip fc](https://osu.ppy.sh/users/8671241), ::{ flag=GB }:: [001thefish](https://osu.ppy.sh/users/4121535), ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222), ::{ flag=IE }:: [natnat](https://osu.ppy.sh/users/4073754), ::{ flag=GB }:: [\[- Karen -\]](https://osu.ppy.sh/users/6652874), ::{ flag=GB }:: [Appilesh](https://osu.ppy.sh/users/6467933), ::{ flag=IE }:: [Aseridan](https://osu.ppy.sh/users/9217468), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=GB }:: [KmK](https://osu.ppy.sh/users/7077554) |
+| 33-48 | ::{ flag=GB }:: [october](https://osu.ppy.sh/users/5513481), ::{ flag=GB }:: [Tokori](https://osu.ppy.sh/users/6371865), ::{ flag=GB }:: [Mewe](https://osu.ppy.sh/users/8834203), ::{ flag=GB }:: [bill nye](https://osu.ppy.sh/users/7680559), ::{ flag=IE }:: [M a t t y](https://osu.ppy.sh/users/3737136), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [Dag](https://osu.ppy.sh/users/4045400), ::{ flag=GB }:: [Gerald](https://osu.ppy.sh/users/5216849), ::{ flag=GB }:: [Pyrooo](https://osu.ppy.sh/users/5276579), ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549), ::{ flag=GB }:: [Chemistry](https://osu.ppy.sh/users/6069540), ::{ flag=GB }:: [Best459](https://osu.ppy.sh/users/8185366), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [Cephus](https://osu.ppy.sh/users/3373206), ::{ flag=GB }:: [Domblade](https://osu.ppy.sh/users/6701945) |
+| 49-64 | ::{ flag=GB }:: [Chugger](https://osu.ppy.sh/users/4491713), ::{ flag=GB }:: [Doughy](https://osu.ppy.sh/users/5275937), ::{ flag=GB }:: [rendaru](https://osu.ppy.sh/users/6618659), ::{ flag=GB }:: [Fozzy](https://osu.ppy.sh/users/9993781), ::{ flag=GB }:: [Defex](https://osu.ppy.sh/users/9674143), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=GB }:: [Zyphox](https://osu.ppy.sh/users/6589047), ::{ flag=GB }:: [Cozzzy](https://osu.ppy.sh/users/2003917), ::{ flag=GB }:: [Inuyama Aoi](https://osu.ppy.sh/users/6244594), ::{ flag=GB }:: [2PMarsh](https://osu.ppy.sh/users/5189370), ::{ flag=GB }:: [Nepraxia](https://osu.ppy.sh/users/8387939), ::{ flag=GB }:: [Anaesthetic](https://osu.ppy.sh/users/7953111), ::{ flag=GB }:: [Flare](https://osu.ppy.sh/users/10670430), ::{ flag=GB }:: [Gazza](https://osu.ppy.sh/users/3648459), ::{ flag=GB }:: [Sobriquet](https://osu.ppy.sh/users/3891023), ::{ flag=PL }:: [YunoWasTaken](https://osu.ppy.sh/users/3036339) |
+| 65-80 | ::{ flag=GB }:: [RndGuy](https://osu.ppy.sh/users/1201586), ::{ flag=GB }:: [\[ -Senpai- \]](https://osu.ppy.sh/users/10085767), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=GB }:: -Hyper-, ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ::{ flag=GB }:: [Teejay-san](https://osu.ppy.sh/users/9499753), ::{ flag=GB }:: [Unrestricted](https://osu.ppy.sh/users/9553446), ::{ flag=GB }:: [Wsk](https://osu.ppy.sh/users/9673192), ::{ flag=GB }:: [Hii](https://osu.ppy.sh/users/5475585), ::{ flag=GB }:: [Lusory](https://osu.ppy.sh/users/2101270), ::{ flag=GB }:: [xomilkyox](https://osu.ppy.sh/users/7633028), ::{ flag=GB }:: [Rojaseq](https://osu.ppy.sh/users/3027841), ::{ flag=GB }:: [Rumon](https://osu.ppy.sh/users/4000985), ::{ flag=GB }:: [ItzDuncan](https://osu.ppy.sh/users/9426809), ::{ flag=GB }:: [Eg9z](https://osu.ppy.sh/users/9431679), ::{ flag=GB }:: [moneybags](https://osu.ppy.sh/users/9645554) |
+| 81-96 | ::{ flag=GB }:: [This Acc Sucks](https://osu.ppy.sh/users/7299249), ::{ flag=GB }:: [JackRB](https://osu.ppy.sh/users/10007343), ::{ flag=GB }:: [jasian](https://osu.ppy.sh/users/2258232), ::{ flag=GB }:: [Jetzy-Chan](https://osu.ppy.sh/users/5674663), ::{ flag=GB }:: [Jxsh](https://osu.ppy.sh/users/6582713), ::{ flag=GB }:: [Olii](https://osu.ppy.sh/users/7683305), ::{ flag=GB }:: [Respirte](https://osu.ppy.sh/users/9870167), ::{ flag=US }:: [OhHeyImWills](https://osu.ppy.sh/users/10278790), ::{ flag=GB }:: [Miszuria](https://osu.ppy.sh/users/6830581), ::{ flag=GB }:: [Daddy Dean](https://osu.ppy.sh/users/9061365), ::{ flag=GB }:: [PsychoStatic](https://osu.ppy.sh/users/7291594), ::{ flag=GB }:: [Elit3](https://osu.ppy.sh/users/10086758), ::{ flag=IE }:: [IsLegit](https://osu.ppy.sh/users/7069293), ::{ flag=GB }:: [Mantle](https://osu.ppy.sh/users/7225966), ::{ flag=GB }:: [Nek1i](https://osu.ppy.sh/users/6385453), ::{ flag=GB }:: [Mashi](https://osu.ppy.sh/users/8400612) |
+| 97-111 | ::{ flag=GB }:: [Phymiath](https://osu.ppy.sh/users/9106403), ::{ flag=FR }:: [Ulvind](https://osu.ppy.sh/users/9665028), ::{ flag=GB }:: [RingSystem](https://osu.ppy.sh/users/4721761), ::{ flag=GB }:: [MilburnPennyBag](https://osu.ppy.sh/users/10585285), ::{ flag=GB }:: [ApocalypseFPS](https://osu.ppy.sh/users/3393269), ::{ flag=GB }:: [gamingfan12345](https://osu.ppy.sh/users/9061767), ::{ flag=GB }:: [VirtualMuffin](https://osu.ppy.sh/users/3856263), ::{ flag=IE }:: [Darragh](https://osu.ppy.sh/users/7719874), ::{ flag=GB }:: [SacretSword](https://osu.ppy.sh/users/9821402), ::{ flag=IE }:: [kaniciwah](https://osu.ppy.sh/users/9371954), ::{ flag=GB }:: [Echaen](https://osu.ppy.sh/users/7350647), ::{ flag=GB }:: [alextabitha](https://osu.ppy.sh/users/9044767), ::{ flag=GB }:: [josph12](https://osu.ppy.sh/users/8584840), ::{ flag=GB }:: [Cycrox](https://osu.ppy.sh/users/9618395), ::{ flag=GB }:: [\_Takara](https://osu.ppy.sh/users/11599184) |
 
 ## Podium
 
@@ -76,9 +76,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
 
 ## Mappools
 
@@ -318,7 +318,7 @@ Saturday, 18 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **7** | 3 | ![][flag_GB] Karthy | [#1](https://osu.ppy.sh/community/matches/45197083) |
+| **Bubbleman** ::{ flag=GB }:: | **7** | 3 | ::{ flag=GB }:: Karthy | [#1](https://osu.ppy.sh/community/matches/45197083) |
 
 ### Finals
 
@@ -328,7 +328,7 @@ Saturday, 11 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Doomsday ![][flag_GB] | 4 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/44980111) |
+| Doomsday ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/44980111) |
 
 #### Losers Bracket Round 5
 
@@ -336,7 +336,7 @@ Sunday, 12 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Bloo ![][flag_GB] | 1 | **6** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/45010511) |
+| Bloo ::{ flag=GB }:: | 1 | **6** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/45010511) |
 
 #### Losers Finals
 
@@ -344,7 +344,7 @@ Sunday, 12 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Doomsday ![][flag_GB] | 4 | **6** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/45013939) |
+| Doomsday ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/45013939) |
 
 ### Semifinals
 
@@ -354,13 +354,13 @@ Sunday, 5 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **6** | 2 | ![][flag_GB] OPJames | [#1](https://osu.ppy.sh/community/matches/44803816) |
+| **Bubbleman** ::{ flag=GB }:: | **6** | 2 | ::{ flag=GB }:: OPJames | [#1](https://osu.ppy.sh/community/matches/44803816) |
 
 Wednesday, 8 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **6** | 0 | ![][flag_GB] Bloo | [#1](https://osu.ppy.sh/community/matches/44892060) |
+| **Doomsday** ::{ flag=GB }:: | **6** | 0 | ::{ flag=GB }:: Bloo | [#1](https://osu.ppy.sh/community/matches/44892060) |
 
 #### Losers Bracket Round 3
 
@@ -368,13 +368,13 @@ Saturday, 4 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Wario ![][flag_GB] | 4 | **6** | ![][flag_GB] **Woffel** | [#1](https://osu.ppy.sh/community/matches/44769320) [#2](https://osu.ppy.sh/community/matches/44771417) |
+| Wario ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **Woffel** | [#1](https://osu.ppy.sh/community/matches/44769320) [#2](https://osu.ppy.sh/community/matches/44771417) |
 
 Sunday, 5 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Karthy** ![][flag_GB] | **6** | 1 | ![][flag_GB] Harpy | [#1](https://osu.ppy.sh/community/matches/44773498) |
+| **Karthy** ::{ flag=GB }:: | **6** | 1 | ::{ flag=GB }:: Harpy | [#1](https://osu.ppy.sh/community/matches/44773498) |
 
 #### Losers Bracket Round 4
 
@@ -382,13 +382,13 @@ Sunday, 5 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| OPJames ![][flag_GB] | 2 | **6** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/44806312) |
+| OPJames ::{ flag=GB }:: | 2 | **6** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/44806312) |
 
 Thursday, 9 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Woffel ![][flag_GB] | 3 | **6** | ![][flag_GB] **Bloo** | [#1](https://osu.ppy.sh/community/matches/44918093) |
+| Woffel ::{ flag=GB }:: | 3 | **6** | ::{ flag=GB }:: **Bloo** | [#1](https://osu.ppy.sh/community/matches/44918093) |
 
 ### Quarterfinals
 
@@ -398,20 +398,20 @@ Saturday, 28 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **5** | 3 | ![][flag_GB] Harpy | [#1](https://osu.ppy.sh/community/matches/44568140) |
+| **Doomsday** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Harpy | [#1](https://osu.ppy.sh/community/matches/44568140) |
 
 Tuesday, 31 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bloo** ![][flag_GB] | **5** | 1 | ![][flag_GB] SteffoST | [#1](https://osu.ppy.sh/community/matches/44654233) |
+| **Bloo** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: SteffoST | [#1](https://osu.ppy.sh/community/matches/44654233) |
 
 Thursday, 2 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| OskaRRRitoS ![][flag_GB] | 2 | **5** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/44711943) |
-| Squapple ![][flag_IE] | 2 | **5** | ![][flag_GB] **OPJames** | [#1](https://osu.ppy.sh/community/matches/44715302) |
+| OskaRRRitoS ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/44711943) |
+| Squapple ::{ flag=IE }:: | 2 | **5** | ::{ flag=GB }:: **OPJames** | [#1](https://osu.ppy.sh/community/matches/44715302) |
 
 #### Losers Bracket Round 1
 
@@ -419,25 +419,25 @@ Saturday, 28 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Karthy** ![][flag_GB] | **5** | 0 | ![][flag_GB] Shaww | [#1](https://osu.ppy.sh/community/matches/44567056) |
+| **Karthy** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Shaww | [#1](https://osu.ppy.sh/community/matches/44567056) |
 
 Sunday, 29 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| helix ![][flag_GB] | 2 | **5** | ![][flag_GB] **Wario** | [#1](https://osu.ppy.sh/community/matches/44600472) |
+| helix ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **Wario** | [#1](https://osu.ppy.sh/community/matches/44600472) |
 
 Monday, 30 July 2018:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| Blubber ![][flag_GB] | -1 | **0** | ![][flag_GB] **Summer Solstice** | *forfeit* |
+| Blubber ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Summer Solstice** | *forfeit* |
 
 Friday, 3 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Rodney ![][flag_GB] | 4 | **5** | ![][flag_GB] **Woffel** | [#1](https://osu.ppy.sh/community/matches/44734321) |
+| Rodney ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: **Woffel** | [#1](https://osu.ppy.sh/community/matches/44734321) |
 
 #### Losers Bracket Round 2
 
@@ -445,20 +445,20 @@ Tuesday, 31 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Karthy** ![][flag_GB] | **5** | 0 | ![][flag_GB] SteffoST | [#1](https://osu.ppy.sh/community/matches/44658209) |
+| **Karthy** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: SteffoST | [#1](https://osu.ppy.sh/community/matches/44658209) |
 
 Wednesday, 1 August 2018:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| Summer Solstice ![][flag_GB] | -1 | **0** | ![][flag_GB] **Harpy** | *forfeit* |
+| Summer Solstice ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Harpy** | *forfeit* |
 
 Friday, 3 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Woffel** ![][flag_GB] | **5** | 3 | ![][flag_GB] OskaRRRitoS | [#1](https://osu.ppy.sh/community/matches/44737141) |
-| **Wario** ![][flag_GB] | **5** | 0 | ![][flag_IE] Squapple | [#1](https://osu.ppy.sh/community/matches/44744980) |
+| **Woffel** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: OskaRRRitoS | [#1](https://osu.ppy.sh/community/matches/44737141) |
+| **Wario** ::{ flag=GB }:: | **5** | 0 | ::{ flag=IE }:: Squapple | [#1](https://osu.ppy.sh/community/matches/44744980) |
 
 ### Round of 16
 
@@ -466,29 +466,29 @@ Saturday, 21 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Wario ![][flag_GB] | 4 | **5** | ![][flag_GB] **Harpy** | [#1](https://osu.ppy.sh/community/matches/44369150) |
-| Woffel ![][flag_GB] | 1 | **5** | ![][flag_GB] **SteffoST** | [#1](https://osu.ppy.sh/community/matches/44370963) |
+| Wario ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: **Harpy** | [#1](https://osu.ppy.sh/community/matches/44369150) |
+| Woffel ::{ flag=GB }:: | 1 | **5** | ::{ flag=GB }:: **SteffoST** | [#1](https://osu.ppy.sh/community/matches/44370963) |
 
 Sunday, 22 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_GB] Shaww | [#1](https://osu.ppy.sh/community/matches/44398762) |
-| Karthy ![][flag_GB] | 3 | **5** | ![][flag_GB] **OskaRRRitoS** | [#1](https://osu.ppy.sh/community/matches/44398297) |
-| Blubber ![][flag_GB] | 3 | **5** | ![][flag_IE] **Squapple** | [#1](https://osu.ppy.sh/community/matches/44401163) |
-| **Doomsday** ![][flag_GB] | **5** | 4 | ![][flag_GB] helix | [#1](https://osu.ppy.sh/community/matches/44402979) |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Shaww | [#1](https://osu.ppy.sh/community/matches/44398762) |
+| Karthy ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **OskaRRRitoS** | [#1](https://osu.ppy.sh/community/matches/44398297) |
+| Blubber ::{ flag=GB }:: | 3 | **5** | ::{ flag=IE }:: **Squapple** | [#1](https://osu.ppy.sh/community/matches/44401163) |
+| **Doomsday** ::{ flag=GB }:: | **5** | 4 | ::{ flag=GB }:: helix | [#1](https://osu.ppy.sh/community/matches/44402979) |
 
 Tuesday, 24 July 2018:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **OPJames** ![][flag_GB] | **0** | -1 | ![][flag_GB] Summer Solstice | *forfeit* |
+| **OPJames** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Summer Solstice | *forfeit* |
 
 Wednesday, 25 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bloo** ![][flag_GB] | **5** | 3 | ![][flag_GB] Rodney | [#1](https://osu.ppy.sh/community/matches/44484405) |
+| **Bloo** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Rodney | [#1](https://osu.ppy.sh/community/matches/44484405) |
 
 ### Group Stage
 
@@ -496,89 +496,89 @@ Wednesday, 25 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Titus ![][flag_GB] | 0 | **4** | ![][flag_GB] **Summer Solstice** | *forfeit* |
-| Pyrooo ![][flag_GB] | 0 | **4** | ![][flag_GB] **Bloo** | [#1](https://osu.ppy.sh/community/matches/43997134) |
-| **Bloo** ![][flag_GB] | **4** | 2 | ![][flag_GB] Titus | [#1](https://osu.ppy.sh/community/matches/43976221) |
-| **Summer Solstice** ![][flag_GB] | **4** | 2 | ![][flag_GB] Pyrooo | [#1](https://osu.ppy.sh/community/matches/44003045) |
-| Pyrooo ![][flag_GB] | 1 | **4** | ![][flag_GB] **Titus** | [#1](https://osu.ppy.sh/community/matches/43973897) |
-| Summer Solstice ![][flag_GB] | 1 | **4** | ![][flag_GB] **Bloo** | [#1](https://osu.ppy.sh/community/matches/44032447) |
+| Titus ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Summer Solstice** | *forfeit* |
+| Pyrooo ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Bloo** | [#1](https://osu.ppy.sh/community/matches/43997134) |
+| **Bloo** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Titus | [#1](https://osu.ppy.sh/community/matches/43976221) |
+| **Summer Solstice** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Pyrooo | [#1](https://osu.ppy.sh/community/matches/44003045) |
+| Pyrooo ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **Titus** | [#1](https://osu.ppy.sh/community/matches/43973897) |
+| Summer Solstice ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **Bloo** | [#1](https://osu.ppy.sh/community/matches/44032447) |
 
 #### Group B
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Zyphox** ![][flag_GB] | **4** | 1 | ![][flag_GB] KmK | [#1](https://osu.ppy.sh/community/matches/43969612) |
-| Shaww ![][flag_GB] | 1 | **4** | ![][flag_GB] **Wario** | [#1](https://osu.ppy.sh/community/matches/43965540) |
-| **Wario** ![][flag_GB] | **4** | 1 | ![][flag_GB] Zyphox | [#1](https://osu.ppy.sh/community/matches/43995919) |
-| KmK ![][flag_GB] | 0 | **4** | ![][flag_GB] **Shaww** | [#1](https://osu.ppy.sh/community/matches/43968132) |
-| **Shaww** ![][flag_GB] | **4** | 2 | ![][flag_GB] Zyphox | [#1](https://osu.ppy.sh/community/matches/43994454) |
-| **KmK** ![][flag_GB] | **4** | 3 | ![][flag_GB] Wario | [#1](https://osu.ppy.sh/community/matches/43998239) |
+| **Zyphox** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: KmK | [#1](https://osu.ppy.sh/community/matches/43969612) |
+| Shaww ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **Wario** | [#1](https://osu.ppy.sh/community/matches/43965540) |
+| **Wario** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Zyphox | [#1](https://osu.ppy.sh/community/matches/43995919) |
+| KmK ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Shaww** | [#1](https://osu.ppy.sh/community/matches/43968132) |
+| **Shaww** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Zyphox | [#1](https://osu.ppy.sh/community/matches/43994454) |
+| **KmK** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: Wario | [#1](https://osu.ppy.sh/community/matches/43998239) |
 
 #### Group C
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Jimzzyyy ![][flag_GB] | 0 | **4** | ![][flag_GB] **Electovoid** | *forfeit* |
-| OskaRRRitoS ![][flag_GB] | 3 | **4** | ![][flag_GB] **Doomsday** | [#1](https://osu.ppy.sh/community/matches/43971346) |
-| **Doomsday** ![][flag_GB] | **4** | 0 | ![][flag_GB] Jimzzyyy | [#1](https://osu.ppy.sh/community/matches/43992917) |
-| Electovoid ![][flag_GB] | 2 | **4** | ![][flag_GB] **OskaRRRitoS** | [#1](https://osu.ppy.sh/community/matches/43973205) |
-| **OskaRRRitoS** ![][flag_GB] | **4** | 0 | ![][flag_GB] Jimzzyyy | *forfeit* |
-| Electovoid ![][flag_GB] | 1 | **4** | ![][flag_GB] **Doomsday** | [#1](https://osu.ppy.sh/community/matches/43975477) |
+| Jimzzyyy ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Electovoid** | *forfeit* |
+| OskaRRRitoS ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **Doomsday** | [#1](https://osu.ppy.sh/community/matches/43971346) |
+| **Doomsday** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Jimzzyyy | [#1](https://osu.ppy.sh/community/matches/43992917) |
+| Electovoid ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **OskaRRRitoS** | [#1](https://osu.ppy.sh/community/matches/43973205) |
+| **OskaRRRitoS** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Jimzzyyy | *forfeit* |
+| Electovoid ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **Doomsday** | [#1](https://osu.ppy.sh/community/matches/43975477) |
 
 #### Group D
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Squapple** ![][flag_IE] | **4** | 1 | ![][flag_GB] xFluffyo | [#1](https://osu.ppy.sh/community/matches/44028848) |
-| majoreh ![][flag_GB] | 2 | **4** | ![][flag_GB] **Woffel** | [#1](https://osu.ppy.sh/community/matches/43995750) |
-| **Woffel** ![][flag_GB] | **4** | 0 | ![][flag_IE] Squapple | [#1](https://osu.ppy.sh/community/matches/43974003) |
-| **xFluffyo** ![][flag_GB] | **4** | 2 | ![][flag_GB] majoreh | [#1](https://osu.ppy.sh/community/matches/44054931) |
-| majoreh ![][flag_GB] | 0 | **4** | ![][flag_IE] **Squapple** | [#1](https://osu.ppy.sh/community/matches/43975537) |
-| xFluffyo ![][flag_GB] | 2 | **4** | ![][flag_GB] **Woffel** | [#1](https://osu.ppy.sh/community/matches/43976919) |
+| **Squapple** ::{ flag=IE }:: | **4** | 1 | ::{ flag=GB }:: xFluffyo | [#1](https://osu.ppy.sh/community/matches/44028848) |
+| majoreh ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Woffel** | [#1](https://osu.ppy.sh/community/matches/43995750) |
+| **Woffel** ::{ flag=GB }:: | **4** | 0 | ::{ flag=IE }:: Squapple | [#1](https://osu.ppy.sh/community/matches/43974003) |
+| **xFluffyo** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: majoreh | [#1](https://osu.ppy.sh/community/matches/44054931) |
+| majoreh ::{ flag=GB }:: | 0 | **4** | ::{ flag=IE }:: **Squapple** | [#1](https://osu.ppy.sh/community/matches/43975537) |
+| xFluffyo ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Woffel** | [#1](https://osu.ppy.sh/community/matches/43976919) |
 
 #### Group E
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Nega ![][flag_GB] | 1 | **4** | ![][flag_GB] **helix** | [#1](https://osu.ppy.sh/community/matches/44163784) |
-| Darragh ![][flag_IE] | 1 | **4** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/44198029) |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] Nega | [#1](https://osu.ppy.sh/community/matches/44159322) |
-| **helix** ![][flag_GB] | **4** | 0 | ![][flag_IE] Darragh | [#1](https://osu.ppy.sh/community/matches/44195251) |
-| Darragh ![][flag_IE] | 0 | **4** | ![][flag_GB] **Nega** | [#1](https://osu.ppy.sh/community/matches/44134100) |
-| helix ![][flag_GB] | 0 | **4** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/44162585) |
+| Nega ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **helix** | [#1](https://osu.ppy.sh/community/matches/44163784) |
+| Darragh ::{ flag=IE }:: | 1 | **4** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/44198029) |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Nega | [#1](https://osu.ppy.sh/community/matches/44159322) |
+| **helix** ::{ flag=GB }:: | **4** | 0 | ::{ flag=IE }:: Darragh | [#1](https://osu.ppy.sh/community/matches/44195251) |
+| Darragh ::{ flag=IE }:: | 0 | **4** | ::{ flag=GB }:: **Nega** | [#1](https://osu.ppy.sh/community/matches/44134100) |
+| helix ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/44162585) |
 
 #### Group F
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Blubber** ![][flag_GB] | **4** | 2 | ![][flag_GB] djsettle | [#1](https://osu.ppy.sh/community/matches/44198029) |
-| \[- Karen -\] ![][flag_GB] | 0 | **4** | ![][flag_GB] **Rodney** | [#1](https://osu.ppy.sh/community/matches/44250920) |
-| Rodney ![][flag_GB] | 0 | **4** | ![][flag_GB] **Blubber** | *forfeit* |
-| **djsettle** ![][flag_GB] | **4** | 2 | ![][flag_GB] \[- Karen -\] | [#1](https://osu.ppy.sh/community/matches/44195058) |
-| \[- Karen -\] ![][flag_GB] | 0 | **4** | ![][flag_GB] **Blubber** | [#1](https://osu.ppy.sh/community/matches/44196736) |
-| djsettle ![][flag_GB] | 3 | **4** | ![][flag_GB] **Rodney** | [#1](https://osu.ppy.sh/community/matches/44196452) |
+| **Blubber** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: djsettle | [#1](https://osu.ppy.sh/community/matches/44198029) |
+| \[- Karen -\] ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Rodney** | [#1](https://osu.ppy.sh/community/matches/44250920) |
+| Rodney ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Blubber** | *forfeit* |
+| **djsettle** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: \[- Karen -\] | [#1](https://osu.ppy.sh/community/matches/44195058) |
+| \[- Karen -\] ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Blubber** | [#1](https://osu.ppy.sh/community/matches/44196736) |
+| djsettle ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **Rodney** | [#1](https://osu.ppy.sh/community/matches/44196452) |
 
 #### Group G
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Harpy** ![][flag_GB] | **4** | 0 | ![][flag_GB] Appilesh | [#1](https://osu.ppy.sh/community/matches/44228290) |
-| Aseridan ![][flag_IE] | 1 | **4** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/44173231) |
-| **Karthy** ![][flag_GB] | **4** | 0 | ![][flag_GB] Harpy | [#1](https://osu.ppy.sh/community/matches/44195248) |
-| **Appilesh** ![][flag_GB] | **4** | 0 | ![][flag_IE] Aseridan | *forfeit* |
-| Aseridan ![][flag_IE] | 0 | **4** | ![][flag_GB] **Harpy** | [#1](https://osu.ppy.sh/community/matches/44199813) |
-| Appilesh ![][flag_GB] | 0 | **4** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/44199875) |
+| **Harpy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Appilesh | [#1](https://osu.ppy.sh/community/matches/44228290) |
+| Aseridan ::{ flag=IE }:: | 1 | **4** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/44173231) |
+| **Karthy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Harpy | [#1](https://osu.ppy.sh/community/matches/44195248) |
+| **Appilesh** ::{ flag=GB }:: | **4** | 0 | ::{ flag=IE }:: Aseridan | *forfeit* |
+| Aseridan ::{ flag=IE }:: | 0 | **4** | ::{ flag=GB }:: **Harpy** | [#1](https://osu.ppy.sh/community/matches/44199813) |
+| Appilesh ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/44199875) |
 
 #### Group H
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Fozzy ![][flag_GB] | 2 | **4** | ![][flag_GB] **Kardet** | [#1](https://osu.ppy.sh/community/matches/44171664) |
-| SteffoST ![][flag_GB] | 0 | **4** | ![][flag_GB] **OPJames** | [#1](https://osu.ppy.sh/community/matches/44197945) |
-| **OPJames** ![][flag_GB] | **4** | 0 | ![][flag_GB] Fozzy | [#1](https://osu.ppy.sh/community/matches/44163648) |
-| Kardet ![][flag_GB] | 2 | **4** | ![][flag_GB] **SteffoST** | [#1](https://osu.ppy.sh/community/matches/44201494) |
-| **SteffoST** ![][flag_GB] | **4** | 2 | ![][flag_GB] Fozzy | [#1](https://osu.ppy.sh/community/matches/44168178) |
-| Kardet ![][flag_GB] | 1 | **4** | ![][flag_GB] **OPJames** | [#1](https://osu.ppy.sh/community/matches/44195307) |
+| Fozzy ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **Kardet** | [#1](https://osu.ppy.sh/community/matches/44171664) |
+| SteffoST ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **OPJames** | [#1](https://osu.ppy.sh/community/matches/44197945) |
+| **OPJames** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Fozzy | [#1](https://osu.ppy.sh/community/matches/44163648) |
+| Kardet ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **SteffoST** | [#1](https://osu.ppy.sh/community/matches/44201494) |
+| **SteffoST** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Fozzy | [#1](https://osu.ppy.sh/community/matches/44168178) |
+| Kardet ::{ flag=GB }:: | 1 | **4** | ::{ flag=GB }:: **OPJames** | [#1](https://osu.ppy.sh/community/matches/44195307) |
 
 ### Round of 64
 
@@ -586,53 +586,53 @@ Friday, 29 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Rodney** ![][flag_GB] | **4** | 2 | ![][flag_GB] rendaru | [#1](https://osu.ppy.sh/community/matches/43751762) |
-| Spook ![][flag_GB] | 3 | **4** | ![][flag_GB] **Zyphox** | [#1](https://osu.ppy.sh/community/matches/43756475) |
-| meltz ![][flag_GB] | 0 | **4** | ![][flag_GB] **Fozzy** | [#1](https://osu.ppy.sh/community/matches/43757985) |
+| **Rodney** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: rendaru | [#1](https://osu.ppy.sh/community/matches/43751762) |
+| Spook ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **Zyphox** | [#1](https://osu.ppy.sh/community/matches/43756475) |
+| meltz ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **Fozzy** | [#1](https://osu.ppy.sh/community/matches/43757985) |
 
 Saturday, 30 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Nega** ![][flag_GB] | **4** | 2 | ![][flag_GB] Doughy | [#1](https://osu.ppy.sh/community/matches/43776423) |
-| **KmK** ![][flag_GB] | **4** | 0 | ![][flag_GB] october | [#1](https://osu.ppy.sh/community/matches/43780764) |
-| **OPJames** ![][flag_GB] | **4** | 1 | ![][flag_GB] Pelzio | [#1](https://osu.ppy.sh/community/matches/43782293) |
-| **Shaww** ![][flag_GB] | **4** | 2 | ![][flag_GB] Malteser | [#1](https://osu.ppy.sh/community/matches/43782338) |
-| **Kardet** ![][flag_GB] | **4** | 2 | ![][flag_GB] Jerome | [#1](https://osu.ppy.sh/community/matches/43785247) |
-| Titus ![][flag_GB] | 3 | **4** | ![][flag_GB] **AlexDark69** | [#1](https://osu.ppy.sh/community/matches/43786354) |
-| **\[- Karen -\]** ![][flag_GB] | **4** | 2 | ![][flag_IE] M a t t y | [#1](https://osu.ppy.sh/community/matches/43787179) |
-| **Squapple** ![][flag_IE] | **4** | 2 | ![][flag_GB] Cozzzy | [#1](https://osu.ppy.sh/community/matches/43790250) |
-| **Bloo** ![][flag_GB] | **4** | 1 | ![][flag_GB] Flare | [#1](https://osu.ppy.sh/community/matches/43791535) |
+| **Nega** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Doughy | [#1](https://osu.ppy.sh/community/matches/43776423) |
+| **KmK** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: october | [#1](https://osu.ppy.sh/community/matches/43780764) |
+| **OPJames** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Pelzio | [#1](https://osu.ppy.sh/community/matches/43782293) |
+| **Shaww** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Malteser | [#1](https://osu.ppy.sh/community/matches/43782338) |
+| **Kardet** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Jerome | [#1](https://osu.ppy.sh/community/matches/43785247) |
+| Titus ::{ flag=GB }:: | 3 | **4** | ::{ flag=GB }:: **AlexDark69** | [#1](https://osu.ppy.sh/community/matches/43786354) |
+| **\[- Karen -\]** ::{ flag=GB }:: | **4** | 2 | ::{ flag=IE }:: M a t t y | [#1](https://osu.ppy.sh/community/matches/43787179) |
+| **Squapple** ::{ flag=IE }:: | **4** | 2 | ::{ flag=GB }:: Cozzzy | [#1](https://osu.ppy.sh/community/matches/43790250) |
+| **Bloo** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Flare | [#1](https://osu.ppy.sh/community/matches/43791535) |
 
 Sunday, 1 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Darragh** ![][flag_IE] | **0** | -1 | ![][flag_GB] Gerald | *forfeit* |
-| **Karthy** ![][flag_GB] | **4** | 0 | ![][flag_GB] RndGuy | [#1](https://osu.ppy.sh/community/matches/43803815) |
-| **majoreh** ![][flag_GB] | **4** | 1 | ![][flag_GB] Dag | [#1](https://osu.ppy.sh/community/matches/43807421) |
-| **Bubbleman** ![][flag_GB] | **4** | 0 | ![][flag_GB] Sobriquet | [#1](https://osu.ppy.sh/community/matches/43808944) |
-| **Harpy** ![][flag_GB] | **4** | 0 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/43808842) |
-| **Doomsday** ![][flag_GB] | **4** | 1 | ![][flag_GB] Nepraxia | [#1](https://osu.ppy.sh/community/matches/43810259) |
-| **Jimzzyyy** ![][flag_GB] | **4** | 1 | ![][flag_GB] Chugger | [#1](https://osu.ppy.sh/community/matches/43810040) |
-| **OskaRRRitoS** ![][flag_GB] | **4** | 0 | ![][flag_GB] JackRB | [#1](https://osu.ppy.sh/community/matches/43810142) |
-| rip fc ![][flag_GB] | -1 | **0** | ![][flag_GB] **Pyrooo** | *forfeit* |
-| **Wario** ![][flag_GB] | **0** | -1 | ![][flag_GB] Unrestricted | *forfeit* |
-| **helix** ![][flag_GB] | **4** | 0 | ![][flag_GB] Chemistry | [#1](https://osu.ppy.sh/community/matches/43813396) |
-| **Summer Solstice** ![][flag_GB] | **4** | 0 | ![][flag_GB] Apo11o | [#1](https://osu.ppy.sh/community/matches/43813033) |
-| **SteffoST** ![][flag_GB] | **4** | 0 | ![][flag_GB] Tokori | [#1](https://osu.ppy.sh/community/matches/43813422) |
-| **Blubber** ![][flag_GB] | **4** | 2 | ![][flag_GB] Inuyama Aoi | [#1](https://osu.ppy.sh/community/matches/43814039) |
-| **xFluffyo** ![][flag_GB] | **4** | 1 | ![][flag_GB] Best459 | [#1](https://osu.ppy.sh/community/matches/43814061) |
-| natnat ![][flag_IE] | 1 | **4** | ![][flag_GB] **djsettle** | [#1](https://osu.ppy.sh/community/matches/43814634) |
-| **Aseridan** ![][flag_IE] | **4** | 2 | ![][flag_GB] Mewe | [#1](https://osu.ppy.sh/community/matches/43816228) |
+| **Darragh** ::{ flag=IE }:: | **0** | -1 | ::{ flag=GB }:: Gerald | *forfeit* |
+| **Karthy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: RndGuy | [#1](https://osu.ppy.sh/community/matches/43803815) |
+| **majoreh** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Dag | [#1](https://osu.ppy.sh/community/matches/43807421) |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Sobriquet | [#1](https://osu.ppy.sh/community/matches/43808944) |
+| **Harpy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Defex | [#1](https://osu.ppy.sh/community/matches/43808842) |
+| **Doomsday** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Nepraxia | [#1](https://osu.ppy.sh/community/matches/43810259) |
+| **Jimzzyyy** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Chugger | [#1](https://osu.ppy.sh/community/matches/43810040) |
+| **OskaRRRitoS** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: JackRB | [#1](https://osu.ppy.sh/community/matches/43810142) |
+| rip fc ::{ flag=GB }:: | -1 | **0** | ::{ flag=GB }:: **Pyrooo** | *forfeit* |
+| **Wario** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Unrestricted | *forfeit* |
+| **helix** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Chemistry | [#1](https://osu.ppy.sh/community/matches/43813396) |
+| **Summer Solstice** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Apo11o | [#1](https://osu.ppy.sh/community/matches/43813033) |
+| **SteffoST** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Tokori | [#1](https://osu.ppy.sh/community/matches/43813422) |
+| **Blubber** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: Inuyama Aoi | [#1](https://osu.ppy.sh/community/matches/43814039) |
+| **xFluffyo** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Best459 | [#1](https://osu.ppy.sh/community/matches/43814061) |
+| natnat ::{ flag=IE }:: | 1 | **4** | ::{ flag=GB }:: **djsettle** | [#1](https://osu.ppy.sh/community/matches/43814634) |
+| **Aseridan** ::{ flag=IE }:: | **4** | 2 | ::{ flag=GB }:: Mewe | [#1](https://osu.ppy.sh/community/matches/43816228) |
 
 Tuesday, 3 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Electovoid** ![][flag_GB] | **4** | 3 | ![][flag_GB] Domblade | [#1](https://osu.ppy.sh/community/matches/43866590) |
-| **Woffel** ![][flag_GB] | **4** | 0 | ![][flag_GB] Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/43868296) |
-| **Appilesh** ![][flag_GB] | **4** | 0 | ![][flag_IE] IsLegit | [#1](https://osu.ppy.sh/community/matches/43869867) |
+| **Electovoid** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: Domblade | [#1](https://osu.ppy.sh/community/matches/43866590) |
+| **Woffel** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/43868296) |
+| **Appilesh** ::{ flag=GB }:: | **4** | 0 | ::{ flag=IE }:: IsLegit | [#1](https://osu.ppy.sh/community/matches/43869867) |
 
 ### Round of 128
 
@@ -640,78 +640,78 @@ Saturday, 23 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Flare** ![][flag_GB] | **0** | -1 | ![][flag_GB] -Hyper- | *forfeit* |
-| YunoWasTaken ![][flag_PL] | -1 | **0** | ![][flag_GB] **RndGuy** | *forfeit* |
-| **Cozzzy** ![][flag_GB] | **3** | 0 | ![][flag_GB] Hii | [#1](https://osu.ppy.sh/community/matches/43586413) |
-| **Chemistry** ![][flag_GB] | **0** | -1 | ![][flag_GB] Olii | *forfeit* |
-| **Zyphox** ![][flag_GB] | **0** | -1 | ![][flag_GB] Lusory | *forfeit* |
-| **Doughy** ![][flag_GB] | **3** | 0 | ![][flag_GB] Eg9z | [#1](https://osu.ppy.sh/community/matches/43590819) |
-| **Mewe** ![][flag_GB] | **3** | 0 | ![][flag_GB] Mantle | [#1](https://osu.ppy.sh/community/matches/43591345) |
-| **Kardet** ![][flag_GB] | **0** | -1 | ![][flag_GB] Cycrox | *forfeit* |
-| **SteffoST** ![][flag_GB] | **3** | 0 | ![][flag_FR] Ulvind | [#1](https://osu.ppy.sh/community/matches/43592721) |
-| **Malteser** ![][flag_GB] | **3** | 0 | ![][flag_GB] Jetzy-chan | [#1](https://osu.ppy.sh/community/matches/43594226) |
-| **Gerald** ![][flag_GB] | **0** | -1 | ![][flag_GB] Miszuria | *forfeit* |
-| Cephus ![][flag_GB] | 2 | **3** | ![][flag_GB] **JackRB** | [#1](https://osu.ppy.sh/community/matches/43596090) |
-| **KmK** ![][flag_GB] | **3** | 1 | ![][flag_GB] Phymiath | [#1](https://osu.ppy.sh/community/matches/43595842) |
-| **rendaru** ![][flag_GB] | **3** | 2 | ![][flag_GB] ItzDuncan | [#1](https://osu.ppy.sh/community/matches/43598041) |
-| **Jerome** ![][flag_GB] | **3** | 1 | ![][flag_GB] jasian | [#1](https://osu.ppy.sh/community/matches/43600004) [#2](https://osu.ppy.sh/community/matches/43600795) |
-| **Appilesh** ![][flag_GB] | **3** | 0 | ![][flag_GB] MilburnPennyBag | [#1](https://osu.ppy.sh/community/matches/43599791) |
-| **Pyrooo** ![][flag_GB] | **3** | 0 | ![][flag_GB] OhHeyImWills | [#1](https://osu.ppy.sh/community/matches/43600103) |
-| **natnat** ![][flag_IE] | **3** | 1 | ![][flag_GB] gamingfan12345 | [#1](https://osu.ppy.sh/community/matches/43601592) |
-| **Domblade** ![][flag_GB] | **3** | 0 | ![][flag_GB] This Acc Sucks | [#1](https://osu.ppy.sh/community/matches/43603232) |
-| **Aseridan** ![][flag_IE] | **3** | 0 | ![][flag_GB] RingSystem | [#1](https://osu.ppy.sh/community/matches/43602874) |
+| **Flare** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: -Hyper- | *forfeit* |
+| YunoWasTaken ::{ flag=PL }:: | -1 | **0** | ::{ flag=GB }:: **RndGuy** | *forfeit* |
+| **Cozzzy** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Hii | [#1](https://osu.ppy.sh/community/matches/43586413) |
+| **Chemistry** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Olii | *forfeit* |
+| **Zyphox** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Lusory | *forfeit* |
+| **Doughy** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Eg9z | [#1](https://osu.ppy.sh/community/matches/43590819) |
+| **Mewe** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Mantle | [#1](https://osu.ppy.sh/community/matches/43591345) |
+| **Kardet** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Cycrox | *forfeit* |
+| **SteffoST** ::{ flag=GB }:: | **3** | 0 | ::{ flag=FR }:: Ulvind | [#1](https://osu.ppy.sh/community/matches/43592721) |
+| **Malteser** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Jetzy-chan | [#1](https://osu.ppy.sh/community/matches/43594226) |
+| **Gerald** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Miszuria | *forfeit* |
+| Cephus ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **JackRB** | [#1](https://osu.ppy.sh/community/matches/43596090) |
+| **KmK** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Phymiath | [#1](https://osu.ppy.sh/community/matches/43595842) |
+| **rendaru** ::{ flag=GB }:: | **3** | 2 | ::{ flag=GB }:: ItzDuncan | [#1](https://osu.ppy.sh/community/matches/43598041) |
+| **Jerome** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: jasian | [#1](https://osu.ppy.sh/community/matches/43600004) [#2](https://osu.ppy.sh/community/matches/43600795) |
+| **Appilesh** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: MilburnPennyBag | [#1](https://osu.ppy.sh/community/matches/43599791) |
+| **Pyrooo** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: OhHeyImWills | [#1](https://osu.ppy.sh/community/matches/43600103) |
+| **natnat** ::{ flag=IE }:: | **3** | 1 | ::{ flag=GB }:: gamingfan12345 | [#1](https://osu.ppy.sh/community/matches/43601592) |
+| **Domblade** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: This Acc Sucks | [#1](https://osu.ppy.sh/community/matches/43603232) |
+| **Aseridan** ::{ flag=IE }:: | **3** | 0 | ::{ flag=GB }:: RingSystem | [#1](https://osu.ppy.sh/community/matches/43602874) |
 
 Sunday, 24 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| 001thefish ![][flag_GB] | -1 | **0** | ![][flag_IE] **Darragh** | *forfeit* |
-| **Inuyama Aoi** ![][flag_GB] | **3** | 1 | ![][flag_GB] Wsk | [#1](https://osu.ppy.sh/community/matches/43615543) |
-| **Summer Solstice** ![][flag_GB] | **3** | 0 | ![][flag_IE] kaniciwah | [#1](https://osu.ppy.sh/community/matches/43616668) |
-| **Dag** ![][flag_GB] | **3** | 0 | ![][flag_GB] Daddy Dean | [#1](https://osu.ppy.sh/community/matches/43617906) |
-| **rip fc** ![][flag_GB] | **3** | 0 | ![][flag_GB] SacretSword | [#1](https://osu.ppy.sh/community/matches/43619331) |
-| **majoreh** ![][flag_GB] | **3** | 0 | ![][flag_GB] VirtualMuffin | [#1](https://osu.ppy.sh/community/matches/43620811) |
-| **OskaRRRitoS** ![][flag_GB] | **3** | 0 | ![][flag_GB] \_Takara | [#1](https://osu.ppy.sh/community/matches/43622353) |
-| **helix** ![][flag_GB] | **3** | 0 | ![][flag_GB] Echaen | [#1](https://osu.ppy.sh/community/matches/43622494) |
-| **djsettle** ![][flag_GB] | **3** | 0 | ![][flag_GB] PsychoStatic | [#1](https://osu.ppy.sh/community/matches/43622403) |
-| **AlexDark69** ![][flag_GB] | **3** | 1 | ![][flag_GB] xomilkyox | [#1](https://osu.ppy.sh/community/matches/43623593) |
-| **xFluffyo** ![][flag_GB] | **3** | 0 | ![][flag_GB] alextabitha | [#1](https://osu.ppy.sh/community/matches/43623511) |
-| **Best459** ![][flag_GB] | **3** | 0 | ![][flag_GB] Jxsh | [#1](https://osu.ppy.sh/community/matches/43623762) |
-| **Fozzy** ![][flag_GB] | **0** | -1 | ![][flag_GB] Rumon | *forfeit* |
-| **Apo11o** ![][flag_GB] | **3** | 0 | ![][flag_GB] Respirte | [#1](https://osu.ppy.sh/community/matches/43625159) |
-| **october** ![][flag_GB] | **3** | 1 | ![][flag_GB] Mashi | [#1](https://osu.ppy.sh/community/matches/43624872) |
-| **\[- Karen -\]** ![][flag_GB] | **0** | -1 | ![][flag_GB] ApocalypseFPS | *forfeit* |
-| 2PMarsh ![][flag_GB] | 2 | **3** | ![][flag_GB] **Unrestricted** | [#1](https://osu.ppy.sh/community/matches/43628424) |
-| **Defex** ![][flag_GB] | **0** | -1 | ![][flag_GB] Rojaseq | *forfeit* |
-| **Tokori** ![][flag_GB] | **3** | 0 | ![][flag_GB] Nek1i | [#1](https://osu.ppy.sh/community/matches/43628761) |
-| **Chugger** ![][flag_GB] | **3** | 0 | ![][flag_GB] moneybags | [#1](https://osu.ppy.sh/community/matches/43628761) |
-| **M a t t y** ![][flag_IE] | **3** | 0 | ![][flag_GB] Elit3 | [#1](https://osu.ppy.sh/community/matches/43630198) |
+| 001thefish ::{ flag=GB }:: | -1 | **0** | ::{ flag=IE }:: **Darragh** | *forfeit* |
+| **Inuyama Aoi** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Wsk | [#1](https://osu.ppy.sh/community/matches/43615543) |
+| **Summer Solstice** ::{ flag=GB }:: | **3** | 0 | ::{ flag=IE }:: kaniciwah | [#1](https://osu.ppy.sh/community/matches/43616668) |
+| **Dag** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Daddy Dean | [#1](https://osu.ppy.sh/community/matches/43617906) |
+| **rip fc** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: SacretSword | [#1](https://osu.ppy.sh/community/matches/43619331) |
+| **majoreh** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: VirtualMuffin | [#1](https://osu.ppy.sh/community/matches/43620811) |
+| **OskaRRRitoS** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: \_Takara | [#1](https://osu.ppy.sh/community/matches/43622353) |
+| **helix** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Echaen | [#1](https://osu.ppy.sh/community/matches/43622494) |
+| **djsettle** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: PsychoStatic | [#1](https://osu.ppy.sh/community/matches/43622403) |
+| **AlexDark69** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: xomilkyox | [#1](https://osu.ppy.sh/community/matches/43623593) |
+| **xFluffyo** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: alextabitha | [#1](https://osu.ppy.sh/community/matches/43623511) |
+| **Best459** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Jxsh | [#1](https://osu.ppy.sh/community/matches/43623762) |
+| **Fozzy** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Rumon | *forfeit* |
+| **Apo11o** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Respirte | [#1](https://osu.ppy.sh/community/matches/43625159) |
+| **october** ::{ flag=GB }:: | **3** | 1 | ::{ flag=GB }:: Mashi | [#1](https://osu.ppy.sh/community/matches/43624872) |
+| **\[- Karen -\]** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: ApocalypseFPS | *forfeit* |
+| 2PMarsh ::{ flag=GB }:: | 2 | **3** | ::{ flag=GB }:: **Unrestricted** | [#1](https://osu.ppy.sh/community/matches/43628424) |
+| **Defex** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Rojaseq | *forfeit* |
+| **Tokori** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: Nek1i | [#1](https://osu.ppy.sh/community/matches/43628761) |
+| **Chugger** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: moneybags | [#1](https://osu.ppy.sh/community/matches/43628761) |
+| **M a t t y** ::{ flag=IE }:: | **3** | 0 | ::{ flag=GB }:: Elit3 | [#1](https://osu.ppy.sh/community/matches/43630198) |
 
 Monday, 25 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Anaesthetic ![][flag_GB] | 1 | **3** | ![][flag_GB] **Doomsday is Bad** | [#1](https://osu.ppy.sh/community/matches/43641246) |
-| Gazza ![][flag_GB] | 0 | **3** | ![][flag_GB] **Pelzio** | [#1](https://osu.ppy.sh/community/matches/43654896) |
+| Anaesthetic ::{ flag=GB }:: | 1 | **3** | ::{ flag=GB }:: **Doomsday is Bad** | [#1](https://osu.ppy.sh/community/matches/43641246) |
+| Gazza ::{ flag=GB }:: | 0 | **3** | ::{ flag=GB }:: **Pelzio** | [#1](https://osu.ppy.sh/community/matches/43654896) |
 
 Tuesday, 26 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Shaww** ![][flag_GB] | **3** | 0 | ![][flag_GB] josph12 | [#1](https://osu.ppy.sh/community/matches/43668618) |
+| **Shaww** ::{ flag=GB }:: | **3** | 0 | ::{ flag=GB }:: josph12 | [#1](https://osu.ppy.sh/community/matches/43668618) |
 
 Saturday, 30 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| bill nye ![][flag_GB] | 2 | **3** | ![][flag_IE] **IsLegit** | [#1](https://osu.ppy.sh/community/matches/43777428) |
-| **Nepraxia** ![][flag_GB] | **0** | -1 | ![][flag_GB] Teejay-san | *forfeit* |
+| bill nye ::{ flag=GB }:: | 2 | **3** | ::{ flag=IE }:: **IsLegit** | [#1](https://osu.ppy.sh/community/matches/43777428) |
+| **Nepraxia** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: Teejay-san | *forfeit* |
 
 Sunday, 1 July 2018:
 
 | Player 1 |  |  | Player 2 | Match info |
 | --: | :-: | :-: | :-- | :-- |
-| **Sobriquet** ![][flag_GB] | **0** | -1 | ![][flag_GB] \[ -Senpai- \] | *forfeit* |
+| **Sobriquet** ::{ flag=GB }:: | **0** | -1 | ::{ flag=GB }:: \[ -Senpai- \] | *forfeit* |
 
 ## Ruleset
 
@@ -721,7 +721,7 @@ Sunday, 1 July 2018:
   1. Two single elimination rounds where 32 players progress
   2. Group stage where 16 players progress
   3. Double elimination bracket
-- To be able to participate, players must have a **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag, or be able to provide proof of residency to the hosts.**
+- To be able to participate, players must have a **::{ flag=GB }:: United Kingdom or ::{ flag=IE }:: Ireland flag, or be able to provide proof of residency to the hosts.**
 - Matches will be **Head to Head** and **ScoreV2**.
 - Ranks and qualification placements are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
 - All staff (apart from the hosts, mappool selectors and referees) are allowed to participate in the tournament.
@@ -771,15 +771,3 @@ Sunday, 1 July 2018:
   1. If players ban different tiebreakers, the unbanned tiebreaker is played.
   2. If players ban the same tiebreaker, the referee will `!roll 2` to select a tiebreaker from the unbanned ones.
 - Tiebreakers are FreeMod, however No Mod can be used.
-
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

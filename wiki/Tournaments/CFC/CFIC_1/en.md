@@ -7,7 +7,7 @@ tags:
 
 ![CFIC logo](img/logo.png)
 
-The **Catch French Intermediate Cup** (***CFIC***) was an intermediate one-on-one French osu!catch tournament hosted by ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263). It was the first instalment and a new branch of the Catch French Cup.
+The **Catch French Intermediate Cup** (***CFIC***) was an intermediate one-on-one French osu!catch tournament hosted by ::{ flag=FR }:: [FayeurS 5](https://osu.ppy.sh/users/6177263). It was the first instalment and a new branch of the Catch French Cup.
 
 ## Tournament schedule
 
@@ -35,14 +35,14 @@ The Catch French Intermediate Cup was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263) |
-| Mappool selector | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
-| Referee | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734) |
-| Streamer | ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| Commentator | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
-| Designer | ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240) |
-| Statistician | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=FR }:: [FayeurS 5](https://osu.ppy.sh/users/6177263) |
+| Mappool selector | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Referee | ::{ flag=FR }:: [FayeurS 5](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734) |
+| Streamer | ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| Commentator | ::{ flag=FR }:: [FayeurS 5](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
+| Designer | ::{ flag=FR }:: [Lotchidych](https://osu.ppy.sh/users/8375240) |
+| Statistician | ::{ flag=FR }:: [FayeurS 5](https://osu.ppy.sh/users/6177263) |
+| Wiki editor | ::{ flag=ID }:: [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -56,19 +56,19 @@ The Catch French Intermediate Cup was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044), ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141), ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| High | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467), ![][flag_FR] [Rizhen-](https://osu.ppy.sh/users/6802893), ![][flag_FR] [pierreCHT](https://osu.ppy.sh/users/4508720), ![][flag_FR] [floflim](https://osu.ppy.sh/users/5954015) |
-| Low | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416), ![][flag_FR] [oasix42](https://osu.ppy.sh/users/6183012), ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450), ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) |
-| Unseeded | ![][flag_FR] [ACinfr](https://osu.ppy.sh/users/3561482), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626), ![][flag_FR] [rpp1](https://osu.ppy.sh/users/3463504) |
+| Top | ::{ flag=BE }:: [-\[Smoked\]-](https://osu.ppy.sh/users/8731044), ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
+| High | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467), ::{ flag=FR }:: [Rizhen-](https://osu.ppy.sh/users/6802893), ::{ flag=FR }:: [pierreCHT](https://osu.ppy.sh/users/4508720), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015) |
+| Low | ::{ flag=FR }:: [Khalemm](https://osu.ppy.sh/users/11983416), ::{ flag=FR }:: [oasix42](https://osu.ppy.sh/users/6183012), ::{ flag=FR }:: [Sageru](https://osu.ppy.sh/users/10769450), ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) |
+| Unseeded | ::{ flag=FR }:: [ACinfr](https://osu.ppy.sh/users/3561482), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626), ::{ flag=FR }:: [rpp1](https://osu.ppy.sh/users/3463504) |
 
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) | ![][flag_FR] [pierreCHT](https://osu.ppy.sh/users/4508720) | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) | ![][flag_FR] [ACinfr](https://osu.ppy.sh/users/3561482) |
-| **B** | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) | ![][flag_FR] [oasix42](https://osu.ppy.sh/users/6183012) | ![][flag_FR] [rpp1](https://osu.ppy.sh/users/3463504) |
-| **C** | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) | ![][flag_FR] [floflim](https://osu.ppy.sh/users/5954015) | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
-| **D** | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [Rizhen-](https://osu.ppy.sh/users/6802893) | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
+| **A** | ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141) | ::{ flag=FR }:: [pierreCHT](https://osu.ppy.sh/users/4508720) | ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) | ::{ flag=FR }:: [ACinfr](https://osu.ppy.sh/users/3561482) |
+| **B** | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) | ::{ flag=FR }:: [oasix42](https://osu.ppy.sh/users/6183012) | ::{ flag=FR }:: [rpp1](https://osu.ppy.sh/users/3463504) |
+| **C** | ::{ flag=BE }:: [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) | ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015) | ::{ flag=FR }:: [Khalemm](https://osu.ppy.sh/users/11983416) | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
+| **D** | ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640) | ::{ flag=FR }:: [Rizhen-](https://osu.ppy.sh/users/6802893) | ::{ flag=FR }:: [Sageru](https://osu.ppy.sh/users/10769450) | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) |
 
 ## Podium
 
@@ -76,9 +76,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) |
 
 ## Mappools
 
@@ -222,7 +222,7 @@ Sunday, 31 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Realmas** ![][flag_FR] | **7** | 5 | ![][flag_FR] Yruama | [#1](https://osu.ppy.sh/community/matches/50666336) |
+| **Realmas** ::{ flag=FR }:: | **7** | 5 | ::{ flag=FR }:: Yruama | [#1](https://osu.ppy.sh/community/matches/50666336) |
 
 ### Finals
 
@@ -230,14 +230,14 @@ Saturday, 23 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Yruama ![][flag_FR] | 1 | **7** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50470090) |
+| Yruama ::{ flag=FR }:: | 1 | **7** | ::{ flag=FR }:: **Realmas** | [#1](https://osu.ppy.sh/community/matches/50470090) |
 
 Sunday, 24 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Zard** ![][flag_FR] | **7** | 0 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/50473685) |
-| **Yruama** ![][flag_FR] | **7** | 2 | ![][flag_FR] Zard | [#1](https://osu.ppy.sh/community/matches/50505194) |
+| **Zard** ::{ flag=FR }:: | **7** | 0 | ::{ flag=FR }:: Khalemm | [#1](https://osu.ppy.sh/community/matches/50473685) |
+| **Yruama** ::{ flag=FR }:: | **7** | 2 | ::{ flag=FR }:: Zard | [#1](https://osu.ppy.sh/community/matches/50505194) |
 
 ### Semifinals
 
@@ -245,20 +245,20 @@ Saturday, 16 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Yruama** ![][flag_FR] | **6** | 4 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/50300973) |
-| YANOO123 ![][flag_FR] | 0 | **6** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50313411) |
+| **Yruama** ::{ flag=FR }:: | **6** | 4 | ::{ flag=FR }:: redjiii | [#1](https://osu.ppy.sh/community/matches/50300973) |
+| YANOO123 ::{ flag=FR }:: | 0 | **6** | ::{ flag=FR }:: **Realmas** | [#1](https://osu.ppy.sh/community/matches/50313411) |
 
 Sunday, 17 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| YANOO123 ![][flag_FR] | 5 | **6** | ![][flag_FR] **Zard** | [#1](https://osu.ppy.sh/community/matches/50333394) |
+| YANOO123 ::{ flag=FR }:: | 5 | **6** | ::{ flag=FR }:: **Zard** | [#1](https://osu.ppy.sh/community/matches/50333394) |
 
 Monday, 18 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| redjiii ![][flag_FR] | 2 | **6** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50361978) |
+| redjiii ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50361978) |
 
 ### Quarterfinals
 
@@ -266,17 +266,17 @@ Saturday, 9 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Aequo3 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yruama** | *win by default* |
-| **redjiii** ![][flag_FR] | **5** | 3 | ![][flag_FR] Zard | [#1](https://osu.ppy.sh/community/matches/50137587) |
-| pierreCHT ![][flag_FR] | 2 | **5** | ![][flag_FR] **YANOO123** | [#1](https://osu.ppy.sh/community/matches/50139355) |
-| Khalemm ![][flag_FR] | 3 | **5** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50141080) |
+| Aequo3 ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Yruama** | *win by default* |
+| **redjiii** ::{ flag=FR }:: | **5** | 3 | ::{ flag=FR }:: Zard | [#1](https://osu.ppy.sh/community/matches/50137587) |
+| pierreCHT ::{ flag=FR }:: | 2 | **5** | ::{ flag=FR }:: **YANOO123** | [#1](https://osu.ppy.sh/community/matches/50139355) |
+| Khalemm ::{ flag=FR }:: | 3 | **5** | ::{ flag=FR }:: **Realmas** | [#1](https://osu.ppy.sh/community/matches/50141080) |
 
 Sunday, 10 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Aequo3 ![][flag_FR] | 0 | **5** | ![][flag_FR] **Zard** | *win by default* |
-| pierreCHT ![][flag_FR] | 1 | **5** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50174435) |
+| Aequo3 ::{ flag=FR }:: | 0 | **5** | ::{ flag=FR }:: **Zard** | *win by default* |
+| pierreCHT ::{ flag=FR }:: | 1 | **5** | ::{ flag=FR }:: **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50174435) |
 
 ### Group stage
 
@@ -284,45 +284,45 @@ Friday, 1 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Aequo3** ![][flag_FR] | **4** | 3 | ![][flag_FR] pierreCHT | [#1](https://osu.ppy.sh/community/matches/49939088) |
+| **Aequo3** ::{ flag=FR }:: | **4** | 3 | ::{ flag=FR }:: pierreCHT | [#1](https://osu.ppy.sh/community/matches/49939088) |
 
 Saturday, 2 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **pierreCHT** ![][flag_FR] | **4** | 1 | ![][flag_FR] 4L-Chan 3 Porte | [#1](https://osu.ppy.sh/community/matches/49963696) |
-| ACinfr ![][flag_FR] | 3 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/49964492) |
-| **YANOO123** ![][flag_FR] | **4** | 3 | ![][flag_FR] Yruama | [#1](https://osu.ppy.sh/community/matches/49966114) |
-| **Khalemm** ![][flag_FR] | **4** | 0 | ![][flag_FR] -\[Smoked\]- | *win by default* |
-| **oasix42** ![][flag_FR] | **4** | 0 | ![][flag_FR] rpp1 | *win by default* |
-| rpp1 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yruama** | *win by default* |
-| ACinfr ![][flag_FR] | 0 | **4** | ![][flag_FR] **pierreCHT** | [#1](https://osu.ppy.sh/community/matches/49968694) |
-| floflim ![][flag_FR] | 1 | **4** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/49968275) |
-| oasix42 ![][flag_FR] | 2 | **4** | ![][flag_FR] **YANOO123** | [#1](https://osu.ppy.sh/community/matches/49968761) |
-| **redjiii** ![][flag_FR] | **4** | 0 | ![][flag_FR] -\[Smoked\]- | *win by default* |
-| Khalemm ![][flag_FR] | 3 | **4** | ![][flag_FR] **redjiii** | [#1](https://osu.ppy.sh/community/matches/49970070) |
-| rpp1 ![][flag_FR] | 0 | **4** | ![][flag_FR] **YANOO123** | *win by default* |
-| **4L-Chan 3 Porte** ![][flag_FR] | **4** | 0 | ![][flag_FR] ACinfr | [#1](https://osu.ppy.sh/community/matches/49973420) |
+| **pierreCHT** ::{ flag=FR }:: | **4** | 1 | ::{ flag=FR }:: 4L-Chan 3 Porte | [#1](https://osu.ppy.sh/community/matches/49963696) |
+| ACinfr ::{ flag=FR }:: | 3 | **4** | ::{ flag=FR }:: **Aequo3** | [#1](https://osu.ppy.sh/community/matches/49964492) |
+| **YANOO123** ::{ flag=FR }:: | **4** | 3 | ::{ flag=FR }:: Yruama | [#1](https://osu.ppy.sh/community/matches/49966114) |
+| **Khalemm** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: -\[Smoked\]- | *win by default* |
+| **oasix42** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: rpp1 | *win by default* |
+| rpp1 ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Yruama** | *win by default* |
+| ACinfr ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **pierreCHT** | [#1](https://osu.ppy.sh/community/matches/49968694) |
+| floflim ::{ flag=FR }:: | 1 | **4** | ::{ flag=FR }:: **Khalemm** | [#1](https://osu.ppy.sh/community/matches/49968275) |
+| oasix42 ::{ flag=FR }:: | 2 | **4** | ::{ flag=FR }:: **YANOO123** | [#1](https://osu.ppy.sh/community/matches/49968761) |
+| **redjiii** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: -\[Smoked\]- | *win by default* |
+| Khalemm ::{ flag=FR }:: | 3 | **4** | ::{ flag=FR }:: **redjiii** | [#1](https://osu.ppy.sh/community/matches/49970070) |
+| rpp1 ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **YANOO123** | *win by default* |
+| **4L-Chan 3 Porte** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: ACinfr | [#1](https://osu.ppy.sh/community/matches/49973420) |
 
 Sunday, 3 March 2019
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Rizhen- ![][flag_FR] | 0 | **4** | ![][flag_FR] **Sageru** | *win by default* |
-| **Realmas** ![][flag_FR] | **4** | 0 | ![][flag_FR] Rizhen- | *win by default* |
-| **Yruama** ![][flag_FR] | **4** | 0 | ![][flag_FR] oasix42 | [#1](https://osu.ppy.sh/community/matches/49997304) |
-| Sageru ![][flag_FR] | 0 | **4** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/49997414) |
-| Zard ![][flag_FR] | 1 | **4** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/49998230) |
-| **Zard** ![][flag_FR] | **4** | 0 | ![][flag_FR] Rizhen- | *win by default* |
-| **-\[Smoked\]-** ![][flag_FR] | **4** | 3 | ![][flag_FR] floflim | [#1](https://osu.ppy.sh/community/matches/50001096) |
-| **redjiii** ![][flag_FR] | **4** | 0 | ![][flag_FR] floflim | [#1](https://osu.ppy.sh/community/matches/50001709) |
-| Sageru ![][flag_FR] | 0 | **4** | ![][flag_FR] **Zard** | [#1](https://osu.ppy.sh/community/matches/50002427) |
+| Rizhen- ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Sageru** | *win by default* |
+| **Realmas** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: Rizhen- | *win by default* |
+| **Yruama** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: oasix42 | [#1](https://osu.ppy.sh/community/matches/49997304) |
+| Sageru ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Realmas** | [#1](https://osu.ppy.sh/community/matches/49997414) |
+| Zard ::{ flag=FR }:: | 1 | **4** | ::{ flag=FR }:: **Realmas** | [#1](https://osu.ppy.sh/community/matches/49998230) |
+| **Zard** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: Rizhen- | *win by default* |
+| **-\[Smoked\]-** ::{ flag=FR }:: | **4** | 3 | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/50001096) |
+| **redjiii** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/50001709) |
+| Sageru ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Zard** | [#1](https://osu.ppy.sh/community/matches/50002427) |
 
 Monday, 4 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| 4L-Chan 3 Porte ![][flag_FR] | 0 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/50018480) |
+| 4L-Chan 3 Porte ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Aequo3** | [#1](https://osu.ppy.sh/community/matches/50018480) |
 
 ## Ruleset
 
@@ -343,9 +343,3 @@ Monday, 4 March 2019:
    - FreeMod is forced mod, meaning every player has to use at least one mod.
    - Tiebreaker is not forced mod but you may choose a mod.
    - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"

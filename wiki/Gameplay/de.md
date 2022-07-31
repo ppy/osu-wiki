@@ -18,7 +18,6 @@
 - [Beurteilung](/wiki/Gameplay/Judgement)
 - [Kiai-Time](/wiki/Gameplay/Kiai_time)
 - [Denkblockade](/wiki/Gameplay/Mind_block)
-- [Mehrspieler](/wiki/Gameplay/Multiplayer)
 - [Notelock](/wiki/Gameplay/Judgement/Notelock)
 - [Pass](/wiki/Gameplay/Pass)
 - [Spielzeit](/wiki/Gameplay/Play_time)

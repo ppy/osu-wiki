@@ -29,12 +29,12 @@
 
 | 团队 | 人员 |
 | --: | :-- |
-| 比赛经理 | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329)、![][CN] [Scslag](https://osu.ppy.sh/users/6705256) |
-| 比赛监督 | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| 图池管理团队 | ![][UK] [Imperial Wolf](https://osu.ppy.sh/users/9080296)、![][TW] [Spy](https://osu.ppy.sh/users/1217122)、![][CN] [hans1999](https://osu.ppy.sh/users/6679329) |
-| 直播裁判团队 | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617)、![][CN] [Rasis](https://osu.ppy.sh/users/1209363)、![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
-| 解说团队 | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329)、![][CN] [Scslag](https://osu.ppy.sh/users/6705256)、![][CN] [Rasis](https://osu.ppy.sh/users/1209363)、![][CN] [644520858](https://osu.ppy.sh/users/5507069)、![][CN] [wuhuanmin](https://osu.ppy.sh/users/935322) |
-| Wiki 制作、维护 | ![][CN] [kj415j45](https://osu.ppy.sh/users/kj415j45)、 ![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
+| 比赛经理 | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329)、::{ flag=CN }:: [Scslag](https://osu.ppy.sh/users/6705256) |
+| 比赛监督 | ::{ flag=CN }:: [SSV Normandy](https://osu.ppy.sh/users/6475977) |
+| 图池管理团队 | ::{ flag=UK }:: [Imperial Wolf](https://osu.ppy.sh/users/9080296)、::{ flag=TW }:: [Spy](https://osu.ppy.sh/users/1217122)、::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329) |
+| 直播裁判团队 | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617)、::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363)、::{ flag=CN }:: [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
+| 解说团队 | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329)、::{ flag=CN }:: [Scslag](https://osu.ppy.sh/users/6705256)、::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363)、::{ flag=CN }:: [644520858](https://osu.ppy.sh/users/5507069)、::{ flag=CN }:: [wuhuanmin](https://osu.ppy.sh/users/935322) |
+| Wiki 制作、维护 | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/kj415j45)、 ::{ flag=CN }:: [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
 
 ## 比赛直播间
 
@@ -195,110 +195,110 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 | 日期 | 蓝队 |  | 比分 |  | 红队 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 8月5日 | \[Crz\]ScSolAr | ![][CN] | 0 : 7 | ![][TW] | - Choma - | 缺席 |
-| 8月6日 | - Choma - | ![][TW] | 7 : 0 | ![][CN] | \[Crz\]MemoryI | 缺席 |
+| 8月5日 | \[Crz\]ScSolAr | ::{ flag=CN }:: | 0 : 7 | ::{ flag=TW }:: | - Choma - | 缺席 |
+| 8月6日 | - Choma - | ::{ flag=TW }:: | 7 : 0 | ::{ flag=CN }:: | \[Crz\]MemoryI | 缺席 |
 
 ### 决赛第一周
 
 | 日期 | 蓝队 |  | 比分 |  | 红队 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 7月29日 | \[Crz\]Riri | ![][CN] | 0 : 6 | ![][TW] | - Choma - | [记录](https://osu.ppy.sh/community/matches/34872032) |
-|  | \[Crz\]MemoryI | ![][CN] | 6 : 0 | ![][CN] | \[Crz\]ScSolAr | 缺席 |
-|  | pikechu | ![][CN] | 2 : 6 | ![][MY] | Neokje | [记录](https://osu.ppy.sh/community/matches/34873568) |
-| 7月30日 | - Choma - | ![][TW] | 6 : 5 | ![][MY] | Neokje | [记录](https://osu.ppy.sh/community/matches/34893510) |
+| 7月29日 | \[Crz\]Riri | ::{ flag=CN }:: | 0 : 6 | ::{ flag=TW }:: | - Choma - | [记录](https://osu.ppy.sh/community/matches/34872032) |
+|  | \[Crz\]MemoryI | ::{ flag=CN }:: | 6 : 0 | ::{ flag=CN }:: | \[Crz\]ScSolAr | 缺席 |
+|  | pikechu | ::{ flag=CN }:: | 2 : 6 | ::{ flag=MY }:: | Neokje | [记录](https://osu.ppy.sh/community/matches/34873568) |
+| 7月30日 | - Choma - | ::{ flag=TW }:: | 6 : 5 | ::{ flag=MY }:: | Neokje | [记录](https://osu.ppy.sh/community/matches/34893510) |
 
 ### 半决赛
 
 | 日期 | 蓝队 |  | 比分 |  | 红队 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 7月22日 | NED_Q | ![][CN] | 6 : 0 | ![][AU] | \[Crz\]Yukikaze | 缺席 |
-|  | drunkenstein | ![][HK] | 0 : 6 | ![][CN] | pikechu | 缺席 |
-|  | - Choma - | ![][TW] | 6 : 0 | ![][CN] | - ZedXD - | [记录](https://osu.ppy.sh/community/matches/34703556) |
-|  | \[Crz\]Liusecy | ![][CN] | 2 : 6 | ![][CN] | Stink God | [记录](https://osu.ppy.sh/community/matches/34706159) |
-|  | \[Crz\]Riri | ![][CN] | 2 : 6 | ![][CN] | \[Crz\]MemoryI | [记录](https://osu.ppy.sh/community/matches/34771665) |
-| 7月23日 | - Choma - | ![][CA] | 6 : 0 | ![][CN] | Stink God | 缺席 |
-|  | Neokje | ![][MY] | 2 : 6 | ![][CN] | \[Crz\]ScSolAr | [记录](https://osu.ppy.sh/community/matches/34731835) |
-|  | NED_Q | ![][CN] | 0 : 6 | ![][CN] | pikechu | 缺席 |
+| 7月22日 | NED_Q | ::{ flag=CN }:: | 6 : 0 | ::{ flag=AU }:: | \[Crz\]Yukikaze | 缺席 |
+|  | drunkenstein | ::{ flag=HK }:: | 0 : 6 | ::{ flag=CN }:: | pikechu | 缺席 |
+|  | - Choma - | ::{ flag=TW }:: | 6 : 0 | ::{ flag=CN }:: | - ZedXD - | [记录](https://osu.ppy.sh/community/matches/34703556) |
+|  | \[Crz\]Liusecy | ::{ flag=CN }:: | 2 : 6 | ::{ flag=CN }:: | Stink God | [记录](https://osu.ppy.sh/community/matches/34706159) |
+|  | \[Crz\]Riri | ::{ flag=CN }:: | 2 : 6 | ::{ flag=CN }:: | \[Crz\]MemoryI | [记录](https://osu.ppy.sh/community/matches/34771665) |
+| 7月23日 | - Choma - | ::{ flag=CA }:: | 6 : 0 | ::{ flag=CN }:: | Stink God | 缺席 |
+|  | Neokje | ::{ flag=MY }:: | 2 : 6 | ::{ flag=CN }:: | \[Crz\]ScSolAr | [记录](https://osu.ppy.sh/community/matches/34731835) |
+|  | NED_Q | ::{ flag=CN }:: | 0 : 6 | ::{ flag=CN }:: | pikechu | 缺席 |
 
 ### 四分之一决赛
 
 | 日期 | 蓝队 |  | 比分 |  | 红队 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 7月15日 | drunkenstein | ![][HK] | 0 : 5 | ![][CN] | \[Crz\]Riri | [记录](https://osu.ppy.sh/community/matches/34542511) |
-|  | - ZedXD - | ![][CN] | 5 : 0 | ![][CN] | spensll | [记录](https://osu.ppy.sh/community/matches/34543141) |
-|  | wjh123 | ![][CN] | 0 : 5 | ![][CN] | Stink God | 缺席 |
-|  | NED_Q | ![][CN] | 3 : 5 | ![][CN] | \[Crz\]MemoryI | [记录](https://osu.ppy.sh/community/matches/34547424) |
-| 7月16日 | Murasame | ![][CA] | 0 : 5 | ![][AU] | \[Crz\]Yukikaze- | 缺席 |
-|  | pikechu | ![][CN] | 5 : 1 | ![][CN] | \[Crz\]Mix0130 | [记录](https://osu.ppy.sh/community/matches/34566588) |
-|  | \[Crz\]Liusecy | ![][CN] | 0 : 5 | ![][MY] | Neokje | [记录](https://osu.ppy.sh/community/matches/34570396) |
-|  | - Choma - | ![][TW] | 2 : 5 | ![][CN] | \[Crz\]ScSolAr | [记录](https://osu.ppy.sh/community/matches/34571413) |
+| 7月15日 | drunkenstein | ::{ flag=HK }:: | 0 : 5 | ::{ flag=CN }:: | \[Crz\]Riri | [记录](https://osu.ppy.sh/community/matches/34542511) |
+|  | - ZedXD - | ::{ flag=CN }:: | 5 : 0 | ::{ flag=CN }:: | spensll | [记录](https://osu.ppy.sh/community/matches/34543141) |
+|  | wjh123 | ::{ flag=CN }:: | 0 : 5 | ::{ flag=CN }:: | Stink God | 缺席 |
+|  | NED_Q | ::{ flag=CN }:: | 3 : 5 | ::{ flag=CN }:: | \[Crz\]MemoryI | [记录](https://osu.ppy.sh/community/matches/34547424) |
+| 7月16日 | Murasame | ::{ flag=CA }:: | 0 : 5 | ::{ flag=AU }:: | \[Crz\]Yukikaze- | 缺席 |
+|  | pikechu | ::{ flag=CN }:: | 5 : 1 | ::{ flag=CN }:: | \[Crz\]Mix0130 | [记录](https://osu.ppy.sh/community/matches/34566588) |
+|  | \[Crz\]Liusecy | ::{ flag=CN }:: | 0 : 5 | ::{ flag=MY }:: | Neokje | [记录](https://osu.ppy.sh/community/matches/34570396) |
+|  | - Choma - | ::{ flag=TW }:: | 2 : 5 | ::{ flag=CN }:: | \[Crz\]ScSolAr | [记录](https://osu.ppy.sh/community/matches/34571413) |
 
 ### 16强
 
 | 日期 | 蓝队 |  | 比分 |  | 红队 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
-| 7月8日 | drunkenstein | ![][HK] | 5 : 1 | ![][CN] | - ZedXD - | [记录](https://osu.ppy.sh/community/matches/34380098) |
-|  | \[Crz\]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [记录](https://osu.ppy.sh/community/matches/34380710) |
-|  | NED_Q | ![][CN] | 5 : 0 | ![][CN] | wjh123 | [记录](https://osu.ppy.sh/community/matches/34384012) |
-|  | Stink God | ![][CN] | 1 : 5 | ![][CN] | \[Crz\]MemoryI | [记录](https://osu.ppy.sh/community/matches/34385381) |
-| 7月9日 | \[Crz\]Liusecy | ![][CN] | 5 : 0 | ![][CA] | Murasame | 缺席 |
-|  | Neokje | ![][MY] | 5 : 0 | ![][AU] | \[Crz\]Yukikaze- | 缺席 |
-|  | - Choma - | ![][TW] | 5 : 0 | ![][CN] | pikechu | [记录](https://osu.ppy.sh/community/matches/34404265) |
-|  | \[Crz\]ScSolAr | ![][CN] | 5 : 0 | ![][CN] | \[Crz\]Mix0130 | [记录](https://osu.ppy.sh/community/matches/34407900) |
+| 7月8日 | drunkenstein | ::{ flag=HK }:: | 5 : 1 | ::{ flag=CN }:: | - ZedXD - | [记录](https://osu.ppy.sh/community/matches/34380098) |
+|  | \[Crz\]Riri | ::{ flag=CN }:: | 5 : 0 | ::{ flag=CN }:: | spensll | [记录](https://osu.ppy.sh/community/matches/34380710) |
+|  | NED_Q | ::{ flag=CN }:: | 5 : 0 | ::{ flag=CN }:: | wjh123 | [记录](https://osu.ppy.sh/community/matches/34384012) |
+|  | Stink God | ::{ flag=CN }:: | 1 : 5 | ::{ flag=CN }:: | \[Crz\]MemoryI | [记录](https://osu.ppy.sh/community/matches/34385381) |
+| 7月9日 | \[Crz\]Liusecy | ::{ flag=CN }:: | 5 : 0 | ::{ flag=CA }:: | Murasame | 缺席 |
+|  | Neokje | ::{ flag=MY }:: | 5 : 0 | ::{ flag=AU }:: | \[Crz\]Yukikaze- | 缺席 |
+|  | - Choma - | ::{ flag=TW }:: | 5 : 0 | ::{ flag=CN }:: | pikechu | [记录](https://osu.ppy.sh/community/matches/34404265) |
+|  | \[Crz\]ScSolAr | ::{ flag=CN }:: | 5 : 0 | ::{ flag=CN }:: | \[Crz\]Mix0130 | [记录](https://osu.ppy.sh/community/matches/34407900) |
 
 ### 小组赛
 
 | 蓝队 |  | 比分 |  | 红队 |  | 蓝队 |  | 比分 |  | 红队 |
 | --: | --: | :-: | :-- | :-- | :-: | --: | --: | :-: | :-- | :-- |
 | ***A組*** |  |  |  |  |  |  |  |  |
-| Pridra Yinda | ![][CN] | 0 : 4 | ![][MY] | \[Xiiao\]Ray |  | drunkenstein | ![][HK] | 4 : 0 | ![][CN] | Pridra Yinda |
-| Murasame | ![][CA] | 4 : 0 | ![][CN] | Pridra Yinda |  | Murasame | ![][CA] | 0 : 4 | ![][MY] | \[Xiiao\]Ray |
-| drunkenstein | ![][HK] | 4 : 0 | ![][CA] | Murasame |  | drunkenstein | ![][HK] | 4 : 0 | ![][MY] | \[Xiiao\]Ray |
+| Pridra Yinda | ::{ flag=CN }:: | 0 : 4 | ::{ flag=MY }:: | \[Xiiao\]Ray |  | drunkenstein | ::{ flag=HK }:: | 4 : 0 | ::{ flag=CN }:: | Pridra Yinda |
+| Murasame | ::{ flag=CA }:: | 4 : 0 | ::{ flag=CN }:: | Pridra Yinda |  | Murasame | ::{ flag=CA }:: | 0 : 4 | ::{ flag=MY }:: | \[Xiiao\]Ray |
+| drunkenstein | ::{ flag=HK }:: | 4 : 0 | ::{ flag=CA }:: | Murasame |  | drunkenstein | ::{ flag=HK }:: | 4 : 0 | ::{ flag=MY }:: | \[Xiiao\]Ray |
 | ***B组*** |  |  |  |  |  |  |  |  |
-| \[Crz\]Liusecy | ![][CN] | 2 : 4 | ![][CN] | - ZedXD - |  | fgdg858 | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |
-| - ZedXD - | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |  | \[Crz\]Liusecy | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |
-| - ZedXD - | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |  | \[Crz\]Liusecy | ![][CN] | 0 : 4 | ![][MY] | Chizuru Shinkai |
+| \[Crz\]Liusecy | ::{ flag=CN }:: | 2 : 4 | ::{ flag=CN }:: | - ZedXD - |  | fgdg858 | ::{ flag=CN }:: | 4 : 0 | ::{ flag=MY }:: | Chizuru Shinkai |
+| - ZedXD - | ::{ flag=CN }:: | 1 : 4 | ::{ flag=CN }:: | fgdg858 |  | \[Crz\]Liusecy | ::{ flag=CN }:: | 1 : 4 | ::{ flag=CN }:: | fgdg858 |
+| - ZedXD - | ::{ flag=CN }:: | 4 : 0 | ::{ flag=MY }:: | Chizuru Shinkai |  | \[Crz\]Liusecy | ::{ flag=CN }:: | 0 : 4 | ::{ flag=MY }:: | Chizuru Shinkai |
 | ***C组*** |  |  |  |  |  |  |  |  |
-| BDXiaoQian | ![][SG] | 0 : 4 | ![][CN] | Stink God |  | zero2snow | ![][HK] | 0 : 0 | ![][CN] | Stink God |
-| zero2snow | ![][HK] | 0 : 4 | ![][CN] | wjh123 |  | zero2snow | ![][HK] | 0 : 4 | ![][SG] | BDXiaoQian |
-| BDXiaoQian | ![][SG] | 2 : 4 | ![][CN] | wjh123 |  | wjh123 | ![][CN] | 3 : 4 | ![][CN] | Stink God |
+| BDXiaoQian | ::{ flag=SG }:: | 0 : 4 | ::{ flag=CN }:: | Stink God |  | zero2snow | ::{ flag=HK }:: | 0 : 0 | ::{ flag=CN }:: | Stink God |
+| zero2snow | ::{ flag=HK }:: | 0 : 4 | ::{ flag=CN }:: | wjh123 |  | zero2snow | ::{ flag=HK }:: | 0 : 4 | ::{ flag=SG }:: | BDXiaoQian |
+| BDXiaoQian | ::{ flag=SG }:: | 2 : 4 | ::{ flag=CN }:: | wjh123 |  | wjh123 | ::{ flag=CN }:: | 3 : 4 | ::{ flag=CN }:: | Stink God |
 | ***D组*** |  |  |  |  |  |  |  |  |
-| NED_Q | ![][CN] | 4 : 0 | ![][HK] | Opean |  | hly200 | ![][CN] | 4 : 0 | ![][HK] | Opean |
-| NED_Q | ![][CN] | 0 : 4 | ![][CN] | \[Crz\]MemoryI |  | \[Crz\]MemoryI | ![][CN] | 4 : 0 | ![][HK] | Opean |
-| hly200 | ![][CN] | 3 : 4 | ![][CN] | NED_Q |  | \[Crz\]MemoryI | ![][CN] | 0 : 4 | ![][CN] | hly200 |
+| NED_Q | ::{ flag=CN }:: | 4 : 0 | ::{ flag=HK }:: | Opean |  | hly200 | ::{ flag=CN }:: | 4 : 0 | ::{ flag=HK }:: | Opean |
+| NED_Q | ::{ flag=CN }:: | 0 : 4 | ::{ flag=CN }:: | \[Crz\]MemoryI |  | \[Crz\]MemoryI | ::{ flag=CN }:: | 4 : 0 | ::{ flag=HK }:: | Opean |
+| hly200 | ::{ flag=CN }:: | 3 : 4 | ::{ flag=CN }:: | NED_Q |  | \[Crz\]MemoryI | ::{ flag=CN }:: | 0 : 4 | ::{ flag=CN }:: | hly200 |
 | ***E组*** |  |  |  |  |  |  |  |  |
-| Neokje | ![][MY] | 4 : 0 | ![][CN] | - Xiaoluoli - |  | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
-| Neokje | ![][MY] | 4 : 0 | ![][CN] | spensll |  | qiluo | ![][CN] | 4 : 1 | ![][CN] | - Xiaoluoli - |
-| Neokje | ![][MY] | 4 : 1 | ![][CN] | qiluo |  | spensll | ![][CN] | 4 : 0 | ![][CN] | - Xiaoluoli - |
+| Neokje | ::{ flag=MY }:: | 4 : 0 | ::{ flag=CN }:: | - Xiaoluoli - |  | qiluo | ::{ flag=CN }:: | 4 : 1 | ::{ flag=CN }:: | spensll |
+| Neokje | ::{ flag=MY }:: | 4 : 0 | ::{ flag=CN }:: | spensll |  | qiluo | ::{ flag=CN }:: | 4 : 1 | ::{ flag=CN }:: | - Xiaoluoli - |
+| Neokje | ::{ flag=MY }:: | 4 : 1 | ::{ flag=CN }:: | qiluo |  | spensll | ::{ flag=CN }:: | 4 : 0 | ::{ flag=CN }:: | - Xiaoluoli - |
 | ***F组*** |  |  |  |  |  |  |  |  |
-| \[Crz\]Riri | ![][CN] | 4 : 1 | ![][AU] | \[Crz\]Yukikaze- |  | \[Crz\]Riri | ![][CN] | 4 : 0 | ![][CN] | prelude8792916 |
-| WF Night | ![][CN] | 0 : 4 | ![][AU] | \[Crz\]Yukikaze- |  | \[Crz\]Riri | ![][CN] | 4 : 0 | ![][CN] | WF Night |
-| \[Crz\]Yukikaze- | ![][AU] | 4 : 0 | ![][CN] | prelude8792916 |  | WF Night | ![][CN] | 0 : 0 | ![][CN] | prelude8792916 |
+| \[Crz\]Riri | ::{ flag=CN }:: | 4 : 1 | ::{ flag=AU }:: | \[Crz\]Yukikaze- |  | \[Crz\]Riri | ::{ flag=CN }:: | 4 : 0 | ::{ flag=CN }:: | prelude8792916 |
+| WF Night | ::{ flag=CN }:: | 0 : 4 | ::{ flag=AU }:: | \[Crz\]Yukikaze- |  | \[Crz\]Riri | ::{ flag=CN }:: | 4 : 0 | ::{ flag=CN }:: | WF Night |
+| \[Crz\]Yukikaze- | ::{ flag=AU }:: | 4 : 0 | ::{ flag=CN }:: | prelude8792916 |  | WF Night | ::{ flag=CN }:: | 0 : 0 | ::{ flag=CN }:: | prelude8792916 |
 | ***G组*** |  |  |  |  |  |  |  |  |
-| AnLs | ![][HK] | 0 : 4 | ![][TW] | - Choma - |  | Luv Letter | ![][CN] | 0 : 4 | ![][CN] | \[Crz\]Mix0130 |
-| \[Crz\]Mix0130 | ![][CN] | 4 : 0 | ![][CN] | AnLs |  | - Choma - | ![][TW] | 4 : 0 | ![][HK] | AnLs |
-| \[Crz\]Mix0130 | ![][CN] | 0 : 4 | ![][TW] | - Choma - |  | AnLs | ![][HK] | 4 : 0 | ![][CN] | Luv Letter |
+| AnLs | ::{ flag=HK }:: | 0 : 4 | ::{ flag=TW }:: | - Choma - |  | Luv Letter | ::{ flag=CN }:: | 0 : 4 | ::{ flag=CN }:: | \[Crz\]Mix0130 |
+| \[Crz\]Mix0130 | ::{ flag=CN }:: | 4 : 0 | ::{ flag=CN }:: | AnLs |  | - Choma - | ::{ flag=TW }:: | 4 : 0 | ::{ flag=HK }:: | AnLs |
+| \[Crz\]Mix0130 | ::{ flag=CN }:: | 0 : 4 | ::{ flag=TW }:: | - Choma - |  | AnLs | ::{ flag=HK }:: | 4 : 0 | ::{ flag=CN }:: | Luv Letter |
 | ***H组*** |  |  |  |  |  |  |  |  |
-| Banshasan | ![][CN] | 0 : 4 | ![][CN] | \[Crz\]ScSolAr |  | \[M1nzzZ\] | ![][CN] | 0 : 4 | ![][CN] | pikechu |
-| \[M1nzzZ\] | ![][CN] | 0 : 4 | ![][CN] | Banshasan |  | \[Crz\]ScSolAr | ![][CN] | 4 : 1 | ![][CN] | pikechu |
-| \[Crz\]ScSolAr | ![][CN] | 0 : 0 | ![][CN] | \[M1nzzZ\] |  | pikechu | ![][CN] | 4 : 1 | ![][CN] | Banshasan |
+| Banshasan | ::{ flag=CN }:: | 0 : 4 | ::{ flag=CN }:: | \[Crz\]ScSolAr |  | \[M1nzzZ\] | ::{ flag=CN }:: | 0 : 4 | ::{ flag=CN }:: | pikechu |
+| \[M1nzzZ\] | ::{ flag=CN }:: | 0 : 4 | ::{ flag=CN }:: | Banshasan |  | \[Crz\]ScSolAr | ::{ flag=CN }:: | 4 : 1 | ::{ flag=CN }:: | pikechu |
+| \[Crz\]ScSolAr | ::{ flag=CN }:: | 0 : 0 | ::{ flag=CN }:: | \[M1nzzZ\] |  | pikechu | ::{ flag=CN }:: | 4 : 1 | ::{ flag=CN }:: | Banshasan |
 
 ### 资格赛
 
 |  | ID | 分数 |  | ID | 分数 |  | ID | 分数 |
 | --: | :-- | :-: | --: | :-- | :-: | --: | :-- | :-: |
-| ![][HK] | zero2snow | 3,952,107 | ![][HK] | drunkenstein | 3,849,131 | ![][CN] | spensll | 3,724,897 |
-| ![][MY] | \[Xiiao\]Ray | 3,932,611 | ![][CN] | Stink God | 3,843,568 | ![][HK] | Opean | 3,722,732 |
-| ![][CN] | \[Crz\] Luna | 3,924,151 | ![][CN] | hly200 | 3,812,688 | ![][CN] | wjh123 | 3,714,831 |
-| ![][CN] | \[Crz\]MemoryI | 3,921,461 | ![][CN] | qiluo | 3,799,348 | ![][CN] | Pridra Yinda | 3,708,903 |
-| ![][CN] | \[Crz\]Riri | 3,917,019 | ![][CN] | - ZedXD - | 3,774,138 | ![][CN] | AnLs | 3,696,360 |
-| ![][MY] | Neokje | 3,889,365 | ![][CN] | WF Night | 3,769,391 | ![][CN] | prelude8792916 | 3,665,105 |
-| ![][MY] | fgdg858 | 3,884,687 | ![][CN] | \[Crz\]Liusecy | 3,762,477 | ![][CN] | gzdongsheng | 3,659,840 |
-| ![][CN] | \[Crz\]ScSolAr | 3,884,594 | ![][SG] | BDXiaoQian | 3,741,087 | ![][CN] | NED_Q | 3,638,679 |
-| ![][CN] | \[Crz\]Mix0130 | 3,881,972 | ![][CN] | \[M1nzzZ\] | 3,739,376 | ![][CN] | - Xiaoluoli - | 3,600,070 |
-| ![][CN] | pikechu | 3,879,190 | ![][CN] | Luv Letter | 3,737,152 | ![][CN] | Banshasan | 3,385,012 |
-| ![][TW] | - Choma - | 3,870,458 | ![][CA] | Murasame | 3,735,205 | ![][CN] | Chizuru Shinkai | 1,686,985 |
-| ![][AU] | \[Crz\]Yukikaze- | 3,853,597 |  |  |  |  |  |  |
+| ::{ flag=HK }:: | zero2snow | 3,952,107 | ::{ flag=HK }:: | drunkenstein | 3,849,131 | ::{ flag=CN }:: | spensll | 3,724,897 |
+| ::{ flag=MY }:: | \[Xiiao\]Ray | 3,932,611 | ::{ flag=CN }:: | Stink God | 3,843,568 | ::{ flag=HK }:: | Opean | 3,722,732 |
+| ::{ flag=CN }:: | \[Crz\] Luna | 3,924,151 | ::{ flag=CN }:: | hly200 | 3,812,688 | ::{ flag=CN }:: | wjh123 | 3,714,831 |
+| ::{ flag=CN }:: | \[Crz\]MemoryI | 3,921,461 | ::{ flag=CN }:: | qiluo | 3,799,348 | ::{ flag=CN }:: | Pridra Yinda | 3,708,903 |
+| ::{ flag=CN }:: | \[Crz\]Riri | 3,917,019 | ::{ flag=CN }:: | - ZedXD - | 3,774,138 | ::{ flag=CN }:: | AnLs | 3,696,360 |
+| ::{ flag=MY }:: | Neokje | 3,889,365 | ::{ flag=CN }:: | WF Night | 3,769,391 | ::{ flag=CN }:: | prelude8792916 | 3,665,105 |
+| ::{ flag=MY }:: | fgdg858 | 3,884,687 | ::{ flag=CN }:: | \[Crz\]Liusecy | 3,762,477 | ::{ flag=CN }:: | gzdongsheng | 3,659,840 |
+| ::{ flag=CN }:: | \[Crz\]ScSolAr | 3,884,594 | ::{ flag=SG }:: | BDXiaoQian | 3,741,087 | ::{ flag=CN }:: | NED_Q | 3,638,679 |
+| ::{ flag=CN }:: | \[Crz\]Mix0130 | 3,881,972 | ::{ flag=CN }:: | \[M1nzzZ\] | 3,739,376 | ::{ flag=CN }:: | - Xiaoluoli - | 3,600,070 |
+| ::{ flag=CN }:: | pikechu | 3,879,190 | ::{ flag=CN }:: | Luv Letter | 3,737,152 | ::{ flag=CN }:: | Banshasan | 3,385,012 |
+| ::{ flag=TW }:: | - Choma - | 3,870,458 | ::{ flag=CA }:: | Murasame | 3,735,205 | ::{ flag=CN }:: | Chizuru Shinkai | 1,686,985 |
+| ::{ flag=AU }:: | \[Crz\]Yukikaze- | 3,853,597 |  |  |  |  |  |  |
 
 ### 测试赛
 
@@ -429,12 +429,3 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
    - 若选手使用特殊的时区，请提前告知组委会。
    - 除时区问题以外，选手未能按时参赛的，不论提前声明与否，仍然依照缺席处理。
 6. 选手弃权的比赛不予重赛。
-
-[CN]: /wiki/shared/flag/CN.gif "中国"
-[UK]: /wiki/shared/flag/GB.gif "英国"
-[TW]: /wiki/shared/flag/TW.gif "台湾"
-[MY]: /wiki/shared/flag/MY.gif "马来西亚"
-[AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[SG]: /wiki/shared/flag/SG.gif "新加坡"
-[HK]: /wiki/shared/flag/HK.gif "香港"
-[CA]: /wiki/shared/flag/CA.gif "加拿大"

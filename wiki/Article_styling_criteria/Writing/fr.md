@@ -1,8 +1,3 @@
----
-outdated_since: ddfa577c07f4d4383a4f11b09c9d4c0966bbc923
-outdated_translation: true
----
-
 # Rédaction
 
 *Pour les normes de mise en forme, voir : [Critères de mise en forme d'article/Mise en forme](../Formatting)*\
@@ -318,6 +313,10 @@ Les articles doivent utiliser de préférence une grammaire et une syntaxe fran�
 ### Virgule en série
 
 La virgule de série, également connue sous le nom de virgule d'Oxford ou de Harvard, doit être utilisée.
+
+### Tirets
+
+Voir la [page Wikipédia concernant les tirets](https://fr.wikipedia.org/wiki/Tiret).
 
 ### Citations
 

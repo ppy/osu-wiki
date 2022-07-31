@@ -8,7 +8,7 @@ tags:
 
 ![NATT 2018 logo](img/logo.jpg)
 
-The **North American Taiko Tournament 2018** (***NATT 2018***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) and ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North American countries only. It was the third instalment of the North & South American Taiko Tournament.
+The **North American Taiko Tournament 2018** (***NATT 2018***) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035) and ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North American countries only. It was the third instalment of the North & South American Taiko Tournament.
 
 ## Tournament schedule
 
@@ -38,13 +38,13 @@ The North American Taiko Tournament 2018 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
-| Mappool selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
-| Referee | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [Dargin](https://osu.ppy.sh/users/7086439), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
-| Commentator | ![][flag_US] [Dargin](https://osu.ppy.sh/users/7086439), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
-| Designer | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
-| Statistician | ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027) |
+| Mappool selector | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) |
+| Referee | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [Dargin](https://osu.ppy.sh/users/7086439), ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416), ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) |
+| Commentator | ::{ flag=US }:: [Dargin](https://osu.ppy.sh/users/7086439), ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| Designer | ::{ flag=FI }:: [Micro](https://osu.ppy.sh/users/4801080) |
+| Statistician | ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035) |
+| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -57,23 +57,23 @@ The North American Taiko Tournament 2018 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461), ![][flag_US] [yea](https://osu.ppy.sh/users/6874332), ![][flag_US] [Shyguy](https://osu.ppy.sh/users/178038), ![][flag_US] [Catgirl](https://osu.ppy.sh/users/2771995), ![][flag_US] [\_knots](https://osu.ppy.sh/users/4407678) |
-| Middle | ![][flag_MX] [Mennock](https://osu.ppy.sh/users/854580), ![][flag_US] [Tem](https://osu.ppy.sh/users/5393042), ![][flag_US] [JarHed](https://osu.ppy.sh/users/7488794), ![][flag_US] [Alchyr](https://osu.ppy.sh/users/4993032), ![][flag_US] worst player, ![][flag_US] [closed](https://osu.ppy.sh/users/5116922), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) |
-| Low | ![][flag_CA] [ayyEve](https://osu.ppy.sh/users/5013564), ![][flag_US] [jyake\_ou](https://osu.ppy.sh/users/9099822), ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Obama Taichou](https://osu.ppy.sh/users/3220847), ![][flag_US] [Brames](https://osu.ppy.sh/users/6417190), ![][flag_US] [Voltaeyx](https://osu.ppy.sh/users/2715118), ![][flag_US] [Karoshi\_tv](https://osu.ppy.sh/users/9879536), ![][flag_MX] [GodEater7x](https://osu.ppy.sh/users/6911992) |
-| Unseeded | ![][flag_US] [Kotu776](https://osu.ppy.sh/users/8494571), ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_US] [booty](https://osu.ppy.sh/users/4605217), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_US] [-Treble](https://osu.ppy.sh/users/5750909), ![][flag_US] [dragonworm](https://osu.ppy.sh/users/11464752) |
+| Top | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897), ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416), ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461), ::{ flag=US }:: [yea](https://osu.ppy.sh/users/6874332), ::{ flag=US }:: [Shyguy](https://osu.ppy.sh/users/178038), ::{ flag=US }:: [Catgirl](https://osu.ppy.sh/users/2771995), ::{ flag=US }:: [\_knots](https://osu.ppy.sh/users/4407678) |
+| Middle | ::{ flag=MX }:: [Mennock](https://osu.ppy.sh/users/854580), ::{ flag=US }:: [Tem](https://osu.ppy.sh/users/5393042), ::{ flag=US }:: [JarHed](https://osu.ppy.sh/users/7488794), ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=US }:: worst player, ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406) |
+| Low | ::{ flag=CA }:: [ayyEve](https://osu.ppy.sh/users/5013564), ::{ flag=US }:: [jyake\_ou](https://osu.ppy.sh/users/9099822), ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [Obama Taichou](https://osu.ppy.sh/users/3220847), ::{ flag=US }:: [Brames](https://osu.ppy.sh/users/6417190), ::{ flag=US }:: [Voltaeyx](https://osu.ppy.sh/users/2715118), ::{ flag=US }:: [Karoshi\_tv](https://osu.ppy.sh/users/9879536), ::{ flag=MX }:: [GodEater7x](https://osu.ppy.sh/users/6911992) |
+| Unseeded | ::{ flag=US }:: [Kotu776](https://osu.ppy.sh/users/8494571), ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062), ::{ flag=US }:: [booty](https://osu.ppy.sh/users/4605217), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=US }:: [-Treble](https://osu.ppy.sh/users/5750909), ::{ flag=US }:: [dragonworm](https://osu.ppy.sh/users/11464752) |
 
 ## Groups
 
 | Group | Top seed | Middle seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) | ![][flag_US] [JarHed](https://osu.ppy.sh/users/7488794) | ![][flag_CA] [ayyEve](https://osu.ppy.sh/users/5013564) | ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
-| **B** | ![][flag_US] [yea](https://osu.ppy.sh/users/6874332) | ![][flag_MX] [Mennock](https://osu.ppy.sh/users/854580) | ![][flag_US] [Obama Taichou](https://osu.ppy.sh/users/3220847) | ![][flag_US] [dragonworm](https://osu.ppy.sh/users/11464752) |
-| **C** | ![][flag_US] [\_knots](https://osu.ppy.sh/users/4407678) | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) | ![][flag_US] [jyake\_ou](https://osu.ppy.sh/users/9099822) | ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934) |
-| **D** | ![][flag_US] [Catgirl](https://osu.ppy.sh/users/2771995) | ![][flag_US] worst player | ![][flag_US] [Brames](https://osu.ppy.sh/users/6417190) | ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062) |
-| **E** | ![][flag_US] [Shyguy](https://osu.ppy.sh/users/178038) | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) | ![][flag_US] [Karoshi\_tv](https://osu.ppy.sh/users/9879536) | ![][flag_US] [-Treble](https://osu.ppy.sh/users/5750909) |
-| **F** | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_US] [Tem](https://osu.ppy.sh/users/5393042) | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) | ![][flag_US] [Kotu776](https://osu.ppy.sh/users/8494571) |
-| **G** | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) | ![][flag_US] [Alchyr](https://osu.ppy.sh/users/4993032) | ![][flag_US] [Voltaeyx](https://osu.ppy.sh/users/2715118) | ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977) |
-| **H** | ![][flag_US] [Das](https://osu.ppy.sh/users/3165416) | ![][flag_US] [closed](https://osu.ppy.sh/users/5116922) | ![][flag_MX] [GodEater7x](https://osu.ppy.sh/users/6911992) | ![][flag_US] [booty](https://osu.ppy.sh/users/4605217) |
+| **A** | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=US }:: [JarHed](https://osu.ppy.sh/users/7488794) | ::{ flag=CA }:: [ayyEve](https://osu.ppy.sh/users/5013564) | ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
+| **B** | ::{ flag=US }:: [yea](https://osu.ppy.sh/users/6874332) | ::{ flag=MX }:: [Mennock](https://osu.ppy.sh/users/854580) | ::{ flag=US }:: [Obama Taichou](https://osu.ppy.sh/users/3220847) | ::{ flag=US }:: [dragonworm](https://osu.ppy.sh/users/11464752) |
+| **C** | ::{ flag=US }:: [\_knots](https://osu.ppy.sh/users/4407678) | ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406) | ::{ flag=US }:: [jyake\_ou](https://osu.ppy.sh/users/9099822) | ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934) |
+| **D** | ::{ flag=US }:: [Catgirl](https://osu.ppy.sh/users/2771995) | ::{ flag=US }:: worst player | ::{ flag=US }:: [Brames](https://osu.ppy.sh/users/6417190) | ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062) |
+| **E** | ::{ flag=US }:: [Shyguy](https://osu.ppy.sh/users/178038) | ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821) | ::{ flag=US }:: [Karoshi\_tv](https://osu.ppy.sh/users/9879536) | ::{ flag=US }:: [-Treble](https://osu.ppy.sh/users/5750909) |
+| **F** | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=US }:: [Tem](https://osu.ppy.sh/users/5393042) | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | ::{ flag=US }:: [Kotu776](https://osu.ppy.sh/users/8494571) |
+| **G** | ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461) | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032) | ::{ flag=US }:: [Voltaeyx](https://osu.ppy.sh/users/2715118) | ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977) |
+| **H** | ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416) | ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922) | ::{ flag=MX }:: [GodEater7x](https://osu.ppy.sh/users/6911992) | ::{ flag=US }:: [booty](https://osu.ppy.sh/users/4605217) |
 
 ## Podium
 
@@ -81,9 +81,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461) |
 
 ## Mappools
 
@@ -245,7 +245,7 @@ Saturday, 1 September 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **janitoreihil** ![][flag_CA] | **6** | 3 | ![][flag_CA] vladyushko | - |
+| **janitoreihil** ::{ flag=CA }:: | **6** | 3 | ::{ flag=CA }:: vladyushko | - |
 
 ### Finals
 
@@ -253,16 +253,16 @@ Saturday, 25 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Das** ![][flag_US] | **6** | 1 | ![][flag_US] Catgirl | [#1](https://osu.ppy.sh/community/matches/45411966) |
-| Tem ![][flag_US] | 0 | **6** | ![][flag_US] **Loopy542** | [#1](https://osu.ppy.sh/community/matches/45415647) |
-| **janitoreihil** ![][flag_CA] | **6** | 1 | ![][flag_CA] vladyushko | - |
+| **Das** ::{ flag=US }:: | **6** | 1 | ::{ flag=US }:: Catgirl | [#1](https://osu.ppy.sh/community/matches/45411966) |
+| Tem ::{ flag=US }:: | 0 | **6** | ::{ flag=US }:: **Loopy542** | [#1](https://osu.ppy.sh/community/matches/45415647) |
+| **janitoreihil** ::{ flag=CA }:: | **6** | 1 | ::{ flag=CA }:: vladyushko | - |
 
 Sunday, 26 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Loopy542** ![][flag_US] | **6** | 0 | ![][flag_US] Das | - |
-| **vladyushko** ![][flag_CA] | **6** | 3 | ![][flag_US] Loopy542 | - |
+| **Loopy542** ::{ flag=US }:: | **6** | 0 | ::{ flag=US }:: Das | - |
+| **vladyushko** ::{ flag=CA }:: | **6** | 3 | ::{ flag=US }:: Loopy542 | - |
 
 ### Semifinals
 
@@ -270,19 +270,19 @@ Saturday, 18 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Catgirl** ![][flag_US] | **5** | 2 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/45197263) |
-| **yea** ![][flag_US] | **5** | 1 | ![][flag_US] Brames | [#1](https://osu.ppy.sh/community/matches/45201244) |
-| Shyguy ![][flag_US] | 3 | **5** | ![][flag_US] **closed** | [#1](https://osu.ppy.sh/community/matches/45202941) |
-| **Loopy542** ![][flag_US] | **5** | 2 | ![][flag_US] jyake\_ou | [#1](https://osu.ppy.sh/community/matches/45203685) |
+| **Catgirl** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: \_knots | [#1](https://osu.ppy.sh/community/matches/45197263) |
+| **yea** ::{ flag=US }:: | **5** | 1 | ::{ flag=US }:: Brames | [#1](https://osu.ppy.sh/community/matches/45201244) |
+| Shyguy ::{ flag=US }:: | 3 | **5** | ::{ flag=US }:: **closed** | [#1](https://osu.ppy.sh/community/matches/45202941) |
+| **Loopy542** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: jyake\_ou | [#1](https://osu.ppy.sh/community/matches/45203685) |
 
 Sunday, 19 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| closed ![][flag_US] | 0 | **5** | ![][flag_US] **Loopy542** | [#1](https://osu.ppy.sh/community/matches/45230660) |
-| **Catgirl** ![][flag_US] | **5** | 3 | ![][flag_US] yea | [#1](https://osu.ppy.sh/community/matches/45232566) |
-| **vladyushko** ![][flag_CA] | **5** | 2 | ![][flag_US] Tem | [#1](https://osu.ppy.sh/community/matches/45239686) |
-| **janitoreihil** ![][flag_CA] | **5** | 1 | ![][flag_US] Das | [#1](https://osu.ppy.sh/community/matches/45236803) |
+| closed ::{ flag=US }:: | 0 | **5** | ::{ flag=US }:: **Loopy542** | [#1](https://osu.ppy.sh/community/matches/45230660) |
+| **Catgirl** ::{ flag=US }:: | **5** | 3 | ::{ flag=US }:: yea | [#1](https://osu.ppy.sh/community/matches/45232566) |
+| **vladyushko** ::{ flag=CA }:: | **5** | 2 | ::{ flag=US }:: Tem | [#1](https://osu.ppy.sh/community/matches/45239686) |
+| **janitoreihil** ::{ flag=CA }:: | **5** | 1 | ::{ flag=US }:: Das | [#1](https://osu.ppy.sh/community/matches/45236803) |
 
 ### Quarterfinals
 
@@ -290,19 +290,19 @@ Saturday, 11 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Shyguy ![][flag_US] | 2 | **5** | ![][flag_US] Das | [#1](https://osu.ppy.sh/community/matches/44983751) |
-| Tem ![][flag_US] | **5** | 3 | ![][flag_US] Catgirl | [#1](https://osu.ppy.sh/community/matches/44988957) |
-| ayyEve ![][flag_CA] | 0 | **5** | ![][flag_US] **Brames** | [#1](https://osu.ppy.sh/community/matches/44987507) |
-| **closed** ![][flag_US] | **0** | -1 | ![][flag_US] Alchyr | *win by default* |
+| Shyguy ::{ flag=US }:: | 2 | **5** | ::{ flag=US }:: Das | [#1](https://osu.ppy.sh/community/matches/44983751) |
+| Tem ::{ flag=US }:: | **5** | 3 | ::{ flag=US }:: Catgirl | [#1](https://osu.ppy.sh/community/matches/44988957) |
+| ayyEve ::{ flag=CA }:: | 0 | **5** | ::{ flag=US }:: **Brames** | [#1](https://osu.ppy.sh/community/matches/44987507) |
+| **closed** ::{ flag=US }:: | **0** | -1 | ::{ flag=US }:: Alchyr | *win by default* |
 
 Sunday, 12 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **vladyushko** ![][flag_CA] | **5** | 2 | ![][flag_US] yea | [#1](https://osu.ppy.sh/community/matches/45017827) |
-| **janitoreihil** ![][flag_CA] | **5** | 2 | ![][flag_US] Loopy542 | [#1](https://osu.ppy.sh/community/matches/45019657) |
-| **\_knots** ![][flag_US] | **5** | 0 | ![][flag_US] Obama Taichou | [#1](https://osu.ppy.sh/community/matches/45021091) |
-| **jyake\_ou** ![][flag_US] | **5** | 2 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/45022374) |
+| **vladyushko** ::{ flag=CA }:: | **5** | 2 | ::{ flag=US }:: yea | [#1](https://osu.ppy.sh/community/matches/45017827) |
+| **janitoreihil** ::{ flag=CA }:: | **5** | 2 | ::{ flag=US }:: Loopy542 | [#1](https://osu.ppy.sh/community/matches/45019657) |
+| **\_knots** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: Obama Taichou | [#1](https://osu.ppy.sh/community/matches/45021091) |
+| **jyake\_ou** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: cheese salad | [#1](https://osu.ppy.sh/community/matches/45022374) |
 
 ### Round of 16
 
@@ -310,19 +310,19 @@ Saturday, 4 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Das** ![][flag_US] | **4** | 0 | ![][flag_CA] ayyEve | [#1](https://osu.ppy.sh/community/matches/44776589) |
-| **Catgirl** ![][flag_US] | **4** | 3 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/44778291) |
-| jyake\_ou ![][flag_US] | 0 | **4** | ![][flag_US] **Tem** | [#1](https://osu.ppy.sh/community/matches/44781218) |
+| **Das** ::{ flag=US }:: | **4** | 0 | ::{ flag=CA }:: ayyEve | [#1](https://osu.ppy.sh/community/matches/44776589) |
+| **Catgirl** ::{ flag=US }:: | **4** | 3 | ::{ flag=US }:: cheese salad | [#1](https://osu.ppy.sh/community/matches/44778291) |
+| jyake\_ou ::{ flag=US }:: | 0 | **4** | ::{ flag=US }:: **Tem** | [#1](https://osu.ppy.sh/community/matches/44781218) |
 
 Sunday, 5 August 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Loopy542** ![][flag_US] | **4** | 0 | ![][flag_US] Obama Taichou | [#1](https://osu.ppy.sh/community/matches/44805389) |
-| **janitoreihil** ![][flag_CA] | **4** | 0 | ![][flag_US] \_knots | [#1](https://osu.ppy.sh/community/matches/44807439) |
-| **Shyguy** ![][flag_US] | **4** | 3 | ![][flag_US] Brames | [#1](https://osu.ppy.sh/community/matches/44808530) |
-| **yea** ![][flag_US] | **0** | -1 | ![][flag_US] Alchyr | *win by default* |
-| **vladyushko** ![][flag_CA] | **4** | 0 | ![][flag_US] closed | [#1](https://osu.ppy.sh/community/matches/44840845) |
+| **Loopy542** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: Obama Taichou | [#1](https://osu.ppy.sh/community/matches/44805389) |
+| **janitoreihil** ::{ flag=CA }:: | **4** | 0 | ::{ flag=US }:: \_knots | [#1](https://osu.ppy.sh/community/matches/44807439) |
+| **Shyguy** ::{ flag=US }:: | **4** | 3 | ::{ flag=US }:: Brames | [#1](https://osu.ppy.sh/community/matches/44808530) |
+| **yea** ::{ flag=US }:: | **0** | -1 | ::{ flag=US }:: Alchyr | *win by default* |
+| **vladyushko** ::{ flag=CA }:: | **4** | 0 | ::{ flag=US }:: closed | [#1](https://osu.ppy.sh/community/matches/44840845) |
 
 ### Group stage
 
@@ -350,10 +350,3 @@ Complete Group Stage match results can be accessed through the [statistics sheet
 14. If no staff or referee is available, the match will be postponed.
 15. Players will have up to 15 minutes after the scheduled time to show up. Failure to show up without prior notice will result in a win by default.
 16. Any modification of these rules will be announced.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

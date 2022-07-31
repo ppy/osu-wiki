@@ -32,10 +32,10 @@ tags:
 
 | 직책 | 인원 |
 | :-- | :-- |
-| 주최자 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) |
-| 매니저 | ![][flag_KR] [Oni Suika](https://osu.ppy.sh/users/4848023) |
-| 디자이너 | ![][flag_KR] [Manwon](https://osu.ppy.sh/users/4129020) |
-| 심사위원 | ![][flag_CN] [_Stan](https://osu.ppy.sh/users/1653229), ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881), ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783), ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573), ![][flag_KR] [Remuring](https://osu.ppy.sh/users/6522146) |
+| 주최자 | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) |
+| 매니저 | ::{ flag=KR }:: [Oni Suika](https://osu.ppy.sh/users/4848023) |
+| 디자이너 | ::{ flag=KR }:: [Manwon](https://osu.ppy.sh/users/4129020) |
+| 심사위원 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146) |
 
 ## 링크
 
@@ -65,9 +65,9 @@ tags:
 
 | 순위 | 매퍼 |
 | :-: | :-- |
-| ![금상](/wiki/shared/crown-gold.png "1위") | ![][flag_KR] [Rio1-](https://osu.ppy.sh/users/5604329) |
-| ![은상](/wiki/shared/crown-silver.png "2위") | ![][flag_KR] [JuHaa](https://osu.ppy.sh/users/15526127) |
-| ![동상](/wiki/shared/crown-bronze.png "3위") | ![][flag_KR] [WintMin](https://osu.ppy.sh/users/11161386) |
+| ![금상](/wiki/shared/crown-gold.png "1위") | ::{ flag=KR }:: [Rio1-](https://osu.ppy.sh/users/5604329) |
+| ![은상](/wiki/shared/crown-silver.png "2위") | ::{ flag=KR }:: [JuHaa](https://osu.ppy.sh/users/15526127) |
+| ![동상](/wiki/shared/crown-bronze.png "3위") | ::{ flag=KR }:: [WintMin](https://osu.ppy.sh/users/11161386) |
 
 ## 규칙
 
@@ -98,8 +98,3 @@ tags:
 - **Cohesion (25 pts):** 맵이 구조, 음악 표현, 흐름에 대해 얼마나 일관성을 가지고 있는가
 - **Creativity (25 pts):** 다른 맵과 비교했을 때 플레이성 면에서 독창성과 특별함을 가지고 있는가
 - **Judge's Impression (25 pts):** 심사위원들의 개인적 선호도를 나타내는 점수
-
-[flag_CN]: /wiki/shared/flag/CN.gif "중국"
-[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
-[flag_PH]: /wiki/shared/flag/PH.gif "필리핀"
-[flag_SG]: /wiki/shared/flag/SG.gif "싱가포르"

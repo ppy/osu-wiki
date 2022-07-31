@@ -12,7 +12,7 @@ tags:
 
 ![COT 2021 banner](img/banner.png)
 
-**osu!catch CIS Open Tournament 2022** (***COT2022***, ***КОТ2022***) — сольный osu!catch турнир в формате double-elimination, организованный ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) и ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241). В турнире могут принимать участие русскоговорящие игроки из стран СНГ и Прибалтики. COT22 был второй итерацией турнира osu!catch CIS Open Tournament.
+**osu!catch CIS Open Tournament 2022** (***COT2022***, ***КОТ2022***) — сольный osu!catch турнир в формате double-elimination, организованный ::{ flag=UA }:: [bernkastel feet](https://osu.ppy.sh/users/13681464) и ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241). В турнире могут принимать участие русскоговорящие игроки из стран СНГ и Прибалтики. COT22 был второй итерацией турнира osu!catch CIS Open Tournament.
 
 ## Расписание турнира
 
@@ -44,14 +44,14 @@ COT 2022 организован различными членами сообще
 
 | Должность | Член(ы) |
 | :-- | :-- |
-| Организаторы | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
-| Маппулеры | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [Xetopia](https://osu.ppy.sh/users/6689101), ![][flag_RU] [Rebbel](https://osu.ppy.sh/users/4595355), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_CL] [Pekorrat](https://osu.ppy.sh/users/1250096) |
-| Стримеры | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
-| Комментаторы | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
-| Рефери | ![][flag_RU] [_Insomnia](https://osu.ppy.sh/users/8928855), ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267), ![][flag_RU] [MRX](https://osu.ppy.sh/users/10954753), ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241) |
-| Дизайнеры | ![][flag_RU] [ThankYou](https://osu.ppy.sh/users/4571241), ![][flag_RU] [2zz](https://osu.ppy.sh/users/8201267) |
-| Редактор гугл-дока | ![][flag_UA] [bernkastel feet](https://osu.ppy.sh/users/13681464) |
-| Редактор вики | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
+| Организаторы | ::{ flag=UA }:: [bernkastel feet](https://osu.ppy.sh/users/13681464), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
+| Маппулеры | ::{ flag=UA }:: [bernkastel feet](https://osu.ppy.sh/users/13681464), ::{ flag=RU }:: [Xetopia](https://osu.ppy.sh/users/6689101), ::{ flag=RU }:: [Rebbel](https://osu.ppy.sh/users/4595355), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241), ::{ flag=RU }:: [_Insomnia](https://osu.ppy.sh/users/8928855), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
+| Стримеры | ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241), ::{ flag=UA }:: [bernkastel feet](https://osu.ppy.sh/users/13681464), ::{ flag=RU }:: [2zz](https://osu.ppy.sh/users/8201267) |
+| Комментаторы | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=RU }:: [_Insomnia](https://osu.ppy.sh/users/8928855), ::{ flag=UA }:: [bernkastel feet](https://osu.ppy.sh/users/13681464), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
+| Рефери | ::{ flag=RU }:: [_Insomnia](https://osu.ppy.sh/users/8928855), ::{ flag=UA }:: [bernkastel feet](https://osu.ppy.sh/users/13681464), ::{ flag=RU }:: [2zz](https://osu.ppy.sh/users/8201267), ::{ flag=RU }:: [MRX](https://osu.ppy.sh/users/10954753), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
+| Дизайнеры | ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241), ::{ flag=RU }:: [2zz](https://osu.ppy.sh/users/8201267) |
+| Редактор гугл-дока | ::{ flag=UA }:: [bernkastel feet](https://osu.ppy.sh/users/13681464) |
+| Редактор вики | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) |
 
 ## Ссылки
 
@@ -65,8 +65,8 @@ COT 2022 организован различными членами сообще
 
 | Сид | Участники |
 | :-: | :-- |
-| 1-8 | ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384), ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164), ![][flag_UA] [FruktoLove](https://osu.ppy.sh/users/8417087), ![][flag_RU] [Memoriola](https://osu.ppy.sh/users/6856387), ![][flag_RU] [vafara](https://osu.ppy.sh/users/18917363), ![][flag_RU] [cosilgam](https://osu.ppy.sh/users/15960747), ![][flag_RU] [dark rainbow](https://osu.ppy.sh/users/10557830), ![][flag_RU] [BocDyx](https://osu.ppy.sh/users/7926192) |
-| 9-24 | ![][flag_RU] [Kenny331](https://osu.ppy.sh/users/11534285), ![][flag_UA] [[-Nyaruko-]](https://osu.ppy.sh/users/13712671), ![][flag_LV] [Soruki](https://osu.ppy.sh/users/11762423), ![][flag_RU] [yuinn](https://osu.ppy.sh/users/11239593), ![][flag_UA] [Shadowbolts1](https://osu.ppy.sh/users/13962882), ![][flag_UA] [Violet Feets](https://osu.ppy.sh/users/15558360), ![][flag_RU] [Mazuki](https://osu.ppy.sh/users/15208771), ![][flag_RU] [mirofantasm](https://osu.ppy.sh/users/6650048), ![][flag_RU] [catch the ExGon](https://osu.ppy.sh/users/12081746), ![][flag_RU] [liquid_boba](https://osu.ppy.sh/users/11694783), ![][flag_RU] [vinnikoish](https://osu.ppy.sh/users/14509580), ![][flag_UA] [NamakemonsteR](https://osu.ppy.sh/users/17314832), ![][flag_LV] [oFKors01](https://osu.ppy.sh/users/26522965), ![][flag_RU] [yoraze](https://osu.ppy.sh/users/18240388), ![][flag_RU] [PedobeerKoroche](https://osu.ppy.sh/users/19389015), ![][flag_RU] [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) |
+| 1-8 | ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=UA }:: [FruktoLove](https://osu.ppy.sh/users/8417087), ::{ flag=RU }:: [Memoriola](https://osu.ppy.sh/users/6856387), ::{ flag=RU }:: [vafara](https://osu.ppy.sh/users/18917363), ::{ flag=RU }:: [cosilgam](https://osu.ppy.sh/users/15960747), ::{ flag=RU }:: [dark rainbow](https://osu.ppy.sh/users/10557830), ::{ flag=RU }:: [BocDyx](https://osu.ppy.sh/users/7926192) |
+| 9-24 | ::{ flag=RU }:: [Kenny331](https://osu.ppy.sh/users/11534285), ::{ flag=UA }:: [[-Nyaruko-]](https://osu.ppy.sh/users/13712671), ::{ flag=LV }:: [Soruki](https://osu.ppy.sh/users/11762423), ::{ flag=RU }:: [yuinn](https://osu.ppy.sh/users/11239593), ::{ flag=UA }:: [Shadowbolts1](https://osu.ppy.sh/users/13962882), ::{ flag=UA }:: [Violet Feets](https://osu.ppy.sh/users/15558360), ::{ flag=RU }:: [Mazuki](https://osu.ppy.sh/users/15208771), ::{ flag=RU }:: [mirofantasm](https://osu.ppy.sh/users/6650048), ::{ flag=RU }:: [catch the ExGon](https://osu.ppy.sh/users/12081746), ::{ flag=RU }:: [liquid_boba](https://osu.ppy.sh/users/11694783), ::{ flag=RU }:: [vinnikoish](https://osu.ppy.sh/users/14509580), ::{ flag=UA }:: [NamakemonsteR](https://osu.ppy.sh/users/17314832), ::{ flag=LV }:: [oFKors01](https://osu.ppy.sh/users/26522965), ::{ flag=RU }:: [yoraze](https://osu.ppy.sh/users/18240388), ::{ flag=RU }:: [PedobeerKoroche](https://osu.ppy.sh/users/19389015), ::{ flag=RU }:: [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) |
 
 Полный список участников есть в гугл-доке в разделе [Игроки](https://docs.google.com/spreadsheets/d/1iie_zXj1GbS_Sx4MyWdGOYD9raofZ46uomMbVW6wm48/edit#gid=749874175).
 
@@ -76,9 +76,9 @@ COT 2022 организован различными членами сообще
 
 | Место | Игрок |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "Первое место") | ![][flag_RU] [Memoriola](https://osu.ppy.sh/users/6856387) |
-| ![Silver crown](/wiki/shared/crown-silver.png "Второе место") | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "Третье место") | ![][flag_RU] [KitsunIvy](https://osu.ppy.sh/users/7055384) |
+| ![Gold crown](/wiki/shared/crown-gold.png "Первое место") | ::{ flag=RU }:: [Memoriola](https://osu.ppy.sh/users/6856387) |
+| ![Silver crown](/wiki/shared/crown-silver.png "Второе место") | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "Третье место") | ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) |
 
 ## Маппулы
 
@@ -257,13 +257,13 @@ COT 2022 организован различными членами сообще
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Нижняя | [KitsunIvy](https://osu.ppy.sh/users/7055384) ![][flag_RU] | 2 | **7** | ![][flag_RU] **[Nelly](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/98623588) |
+| Нижняя | [KitsunIvy](https://osu.ppy.sh/users/7055384) ::{ flag=RU }:: | 2 | **7** | ::{ flag=RU }:: **[Nelly](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/98623588) |
 
 Суббота, 12 марта 2022:
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Гранд-финал | **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **7** | 3 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98655352) |
+| Гранд-финал | **[Memoriola](https://osu.ppy.sh/users/6856387)** ::{ flag=RU }:: | **7** | 3 | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98655352) |
 
 ### Финал
 
@@ -271,15 +271,15 @@ COT 2022 организован различными членами сообще
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | [FruktoLove](https://osu.ppy.sh/users/8417087) ![][flag_UA] | 0 | **6** | ![][flag_RU] **[Kenny331](https://osu.ppy.sh/users/11534285)** | *выигран по умолчанию* |
-| Верхняя | **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **6** | 5 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98431626) |
-| Нижняя | **[KitsunIvy](https://osu.ppy.sh/users/7055384)** ![][flag_RU] | **6** | 0 | ![][flag_RU] [cosilgam](https://osu.ppy.sh/users/15960747) | [#1](https://osu.ppy.sh/community/matches/98434650) |
+| Верхняя | [FruktoLove](https://osu.ppy.sh/users/8417087) ::{ flag=UA }:: | 0 | **6** | ::{ flag=RU }:: **[Kenny331](https://osu.ppy.sh/users/11534285)** | *выигран по умолчанию* |
+| Верхняя | **[Memoriola](https://osu.ppy.sh/users/6856387)** ::{ flag=RU }:: | **6** | 5 | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/98431626) |
+| Нижняя | **[KitsunIvy](https://osu.ppy.sh/users/7055384)** ::{ flag=RU }:: | **6** | 0 | ::{ flag=RU }:: [cosilgam](https://osu.ppy.sh/users/15960747) | [#1](https://osu.ppy.sh/community/matches/98434650) |
 
 Воскресенье, 6 марта 2022:
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Нижняя | [Kenny331](https://osu.ppy.sh/users/11534285) ![][flag_RU] | 5 | **6** | ![][flag_RU] **[KitsunIvy](https://osu.ppy.sh/users/7055384)** | [#1](https://osu.ppy.sh/community/matches/98471760) |
+| Нижняя | [Kenny331](https://osu.ppy.sh/users/11534285) ::{ flag=RU }:: | 5 | **6** | ::{ flag=RU }:: **[KitsunIvy](https://osu.ppy.sh/users/7055384)** | [#1](https://osu.ppy.sh/community/matches/98471760) |
 
 ### Полуфинал
 
@@ -287,18 +287,18 @@ COT 2022 организован различными членами сообще
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | [KitsunIvy](https://osu.ppy.sh/users/7055384) ![][flag_RU] | 2 | **6** | ![][flag_RU] **[Memoriola](https://osu.ppy.sh/users/6856387)** | [#1](https://osu.ppy.sh/community/matches/98207047) |
-| Нижняя | **[cosilgam](https://osu.ppy.sh/users/15960747)** ![][flag_RU] | **6** | 0 | ![][flag_RU] [yuinn](https://osu.ppy.sh/users/11239593) | [#1](https://osu.ppy.sh/community/matches/98200762) |
-| Нижняя | **[Kenny331](https://osu.ppy.sh/users/11534285)** ![][flag_RU] | **6** | 1 | ![][flag_RU] [dark rainbow](https://osu.ppy.sh/users/10557830) | [#1](https://osu.ppy.sh/community/matches/98202559) |
-| Нижняя | [\[-Nyaruko-\]](https://osu.ppy.sh/users/13712671) ![][flag_UA] | 5 | **6** | ![][flag_RU] **[BocDyx](https://osu.ppy.sh/users/7926192)** | [#1](https://osu.ppy.sh/community/matches/98204752) |
+| Верхняя | [KitsunIvy](https://osu.ppy.sh/users/7055384) ::{ flag=RU }:: | 2 | **6** | ::{ flag=RU }:: **[Memoriola](https://osu.ppy.sh/users/6856387)** | [#1](https://osu.ppy.sh/community/matches/98207047) |
+| Нижняя | **[cosilgam](https://osu.ppy.sh/users/15960747)** ::{ flag=RU }:: | **6** | 0 | ::{ flag=RU }:: [yuinn](https://osu.ppy.sh/users/11239593) | [#1](https://osu.ppy.sh/community/matches/98200762) |
+| Нижняя | **[Kenny331](https://osu.ppy.sh/users/11534285)** ::{ flag=RU }:: | **6** | 1 | ::{ flag=RU }:: [dark rainbow](https://osu.ppy.sh/users/10557830) | [#1](https://osu.ppy.sh/community/matches/98202559) |
+| Нижняя | [\[-Nyaruko-\]](https://osu.ppy.sh/users/13712671) ::{ flag=UA }:: | 5 | **6** | ::{ flag=RU }:: **[BocDyx](https://osu.ppy.sh/users/7926192)** | [#1](https://osu.ppy.sh/community/matches/98204752) |
 
 Воскресенье, 27 февраля 2022:
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | **[Nelly](https://osu.ppy.sh/users/4741164)** ![][flag_RU] | **6** | 0 | ![][flag_UA] [FruktoLove](https://osu.ppy.sh/users/8417087) | *выигран по умолчанию* |
-| Нижняя | **[vafara](https://osu.ppy.sh/users/18917363)** ![][flag_RU] | **6** | 0 | ![][flag_LV] [Soruki](https://osu.ppy.sh/users/11762423) | [#1](https://osu.ppy.sh/community/matches/98240517) |
-| Нижняя | [vafara](https://osu.ppy.sh/users/18917363) ![][flag_RU] | 4 | **6** | ![][flag_RU] **[Kenny331](https://osu.ppy.sh/users/11762423)** | [#1](https://osu.ppy.sh/community/matches/98242204) |
+| Верхняя | **[Nelly](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **6** | 0 | ::{ flag=UA }:: [FruktoLove](https://osu.ppy.sh/users/8417087) | *выигран по умолчанию* |
+| Нижняя | **[vafara](https://osu.ppy.sh/users/18917363)** ::{ flag=RU }:: | **6** | 0 | ::{ flag=LV }:: [Soruki](https://osu.ppy.sh/users/11762423) | [#1](https://osu.ppy.sh/community/matches/98240517) |
+| Нижняя | [vafara](https://osu.ppy.sh/users/18917363) ::{ flag=RU }:: | 4 | **6** | ::{ flag=RU }:: **[Kenny331](https://osu.ppy.sh/users/11762423)** | [#1](https://osu.ppy.sh/community/matches/98242204) |
 
 ### Четвертьфинал
 
@@ -306,27 +306,27 @@ COT 2022 организован различными членами сообще
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **5** | 2 | ![][flag_RU] [vafara](https://osu.ppy.sh/users/18917363) | [#1](https://osu.ppy.sh/community/matches/97954212) |
-| Нижняя | **[Violet Feets](https://osu.ppy.sh/users/15558360)** ![][flag_UA] | **5** | 0 | ![][flag_RU] [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) | *выигран по умолчанию* |
-| Нижняя | **[BocDyx](https://osu.ppy.sh/users/7926192)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [vinnikoish](https://osu.ppy.sh/users/14509580) | *выигран по умолчанию* |
-| Нижняя | **[yuinn](https://osu.ppy.sh/users/11239593)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [liquid_boba](https://osu.ppy.sh/users/11694783) | [#1](https://osu.ppy.sh/community/matches/97947507) |
-| Нижняя | **[Soruki](https://osu.ppy.sh/users/11762423)** ![][flag_LV] | **5** | 3 | ![][flag_RU] [mirofantasm](https://osu.ppy.sh/users/6650048) | [#1](https://osu.ppy.sh/community/matches/97949231) |
-| Нижняя | **[dark rainbow](https://osu.ppy.sh/users/10557830)** ![][flag_RU] | **5** | 0 | ![][flag_UA] [NamakemonsteR](https://osu.ppy.sh/users/17314832) | [#1](https://osu.ppy.sh/community/matches/97952023) |
-| Нижняя | **[catch the ExGon](https://osu.ppy.sh/users/12081746)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [yoraze](https://osu.ppy.sh/users/18240388) | [#1](https://osu.ppy.sh/community/matches/97953952) |
-| Нижняя | **[Mazuki](https://osu.ppy.sh/users/15208771)** ![][flag_RU] | **5** | 0 | ![][flag_LV] [oFKors01](https://osu.ppy.sh/users/26522965) | *выигран по умолчанию* |
-| Нижняя | **[Shadowbolts1](https://osu.ppy.sh/users/13962882)** ![][flag_UA] | **5** | 0 | ![][flag_RU] [PedobeerKoroche](https://osu.ppy.sh/users/19389015) | *выигран по умолчанию* |
+| Верхняя | **[Memoriola](https://osu.ppy.sh/users/6856387)** ::{ flag=RU }:: | **5** | 2 | ::{ flag=RU }:: [vafara](https://osu.ppy.sh/users/18917363) | [#1](https://osu.ppy.sh/community/matches/97954212) |
+| Нижняя | **[Violet Feets](https://osu.ppy.sh/users/15558360)** ::{ flag=UA }:: | **5** | 0 | ::{ flag=RU }:: [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) | *выигран по умолчанию* |
+| Нижняя | **[BocDyx](https://osu.ppy.sh/users/7926192)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: [vinnikoish](https://osu.ppy.sh/users/14509580) | *выигран по умолчанию* |
+| Нижняя | **[yuinn](https://osu.ppy.sh/users/11239593)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: [liquid_boba](https://osu.ppy.sh/users/11694783) | [#1](https://osu.ppy.sh/community/matches/97947507) |
+| Нижняя | **[Soruki](https://osu.ppy.sh/users/11762423)** ::{ flag=LV }:: | **5** | 3 | ::{ flag=RU }:: [mirofantasm](https://osu.ppy.sh/users/6650048) | [#1](https://osu.ppy.sh/community/matches/97949231) |
+| Нижняя | **[dark rainbow](https://osu.ppy.sh/users/10557830)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=UA }:: [NamakemonsteR](https://osu.ppy.sh/users/17314832) | [#1](https://osu.ppy.sh/community/matches/97952023) |
+| Нижняя | **[catch the ExGon](https://osu.ppy.sh/users/12081746)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: [yoraze](https://osu.ppy.sh/users/18240388) | [#1](https://osu.ppy.sh/community/matches/97953952) |
+| Нижняя | **[Mazuki](https://osu.ppy.sh/users/15208771)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=LV }:: [oFKors01](https://osu.ppy.sh/users/26522965) | *выигран по умолчанию* |
+| Нижняя | **[Shadowbolts1](https://osu.ppy.sh/users/13962882)** ::{ flag=UA }:: | **5** | 0 | ::{ flag=RU }:: [PedobeerKoroche](https://osu.ppy.sh/users/19389015) | *выигран по умолчанию* |
 
 Воскресенье, 20 февраля 2022:
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | **[FruktoLove](https://osu.ppy.sh/users/8417087)** ![][flag_UA] | **5** | 0 | ![][flag_RU] [cosilgam](https://osu.ppy.sh/users/15960747) | [#1](https://osu.ppy.sh/community/matches/97991698) |
-| Верхняя | **[KitsunIvy](https://osu.ppy.sh/users/7055384)** ![][flag_RU] | **5** | 4 | ![][flag_RU] [Kenny331](https://osu.ppy.sh/users/11534285) | [#1](https://osu.ppy.sh/community/matches/97993299) |
-| Верхняя | **[Nelly](https://osu.ppy.sh/users/4741164)** ![][flag_RU] | **5** | 0 | ![][flag_UA] [\[-Nyaruko-\]](https://osu.ppy.sh/users/13712671) | *выигран по умолчанию* |
-| Нижняя | **[BocDyx](https://osu.ppy.sh/users/7926192)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [catch the ExGon](https://osu.ppy.sh/users/12081746) | [#1](https://osu.ppy.sh/community/matches/97991684) |
-| Нижняя | **[dark rainbow](https://osu.ppy.sh/users/10557830)** ![][flag_RU] | **5** | 4 | ![][flag_RU] [Mazuki](https://osu.ppy.sh/users/15208771) | [#1](https://osu.ppy.sh/community/matches/97995303) |
-| Нижняя | **[yuinn](https://osu.ppy.sh/users/11239593)** ![][flag_RU] | **5** | 1 | ![][flag_UA] [Shadowbolts1](https://osu.ppy.sh/users/13962882) | [#1](https://osu.ppy.sh/community/matches/97998932) |
-| Нижняя | **[Soruki](https://osu.ppy.sh/users/11762423)** ![][flag_RU] | **5** | 0 | ![][flag_UA] [Violet Feets](https://osu.ppy.sh/users/15558360) | *выигран по умолчанию* |
+| Верхняя | **[FruktoLove](https://osu.ppy.sh/users/8417087)** ::{ flag=UA }:: | **5** | 0 | ::{ flag=RU }:: [cosilgam](https://osu.ppy.sh/users/15960747) | [#1](https://osu.ppy.sh/community/matches/97991698) |
+| Верхняя | **[KitsunIvy](https://osu.ppy.sh/users/7055384)** ::{ flag=RU }:: | **5** | 4 | ::{ flag=RU }:: [Kenny331](https://osu.ppy.sh/users/11534285) | [#1](https://osu.ppy.sh/community/matches/97993299) |
+| Верхняя | **[Nelly](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=UA }:: [\[-Nyaruko-\]](https://osu.ppy.sh/users/13712671) | *выигран по умолчанию* |
+| Нижняя | **[BocDyx](https://osu.ppy.sh/users/7926192)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: [catch the ExGon](https://osu.ppy.sh/users/12081746) | [#1](https://osu.ppy.sh/community/matches/97991684) |
+| Нижняя | **[dark rainbow](https://osu.ppy.sh/users/10557830)** ::{ flag=RU }:: | **5** | 4 | ::{ flag=RU }:: [Mazuki](https://osu.ppy.sh/users/15208771) | [#1](https://osu.ppy.sh/community/matches/97995303) |
+| Нижняя | **[yuinn](https://osu.ppy.sh/users/11239593)** ::{ flag=RU }:: | **5** | 1 | ::{ flag=UA }:: [Shadowbolts1](https://osu.ppy.sh/users/13962882) | [#1](https://osu.ppy.sh/community/matches/97998932) |
+| Нижняя | **[Soruki](https://osu.ppy.sh/users/11762423)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=UA }:: [Violet Feets](https://osu.ppy.sh/users/15558360) | *выигран по умолчанию* |
 
 ### 1/8 финала
 
@@ -334,19 +334,19 @@ COT 2022 организован различными членами сообще
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | **[Memoriola](https://osu.ppy.sh/users/6856387)** ![][flag_RU] | **5** | 0 | ![][flag_UA] [Shadowbolts1](https://osu.ppy.sh/users/13962882) | [#1](https://osu.ppy.sh/community/matches/97691557) |
-| Верхняя | **[cosilgam](https://osu.ppy.sh/users/15960747)** ![][flag_RU] | **5** | 4 | ![][flag_LV] [Soruki](https://osu.ppy.sh/users/11762423) | [#1](https://osu.ppy.sh/community/matches/97693687) |
-| Верхняя | [BocDyx](https://osu.ppy.sh/users/7926192) ![][flag_RU] | 1 | **5** | ![][flag_RU] **[Kenny331](https://osu.ppy.sh/users/11534285)** | [#1](https://osu.ppy.sh/community/matches/97695862) |
-| Верхняя | **[vafara](https://osu.ppy.sh/users/18917363)** ![][flag_RU] | **5** | 4 | ![][flag_RU] [yuinn](https://osu.ppy.sh/users/11239593) | [#1](https://osu.ppy.sh/community/matches/97700538) |
+| Верхняя | **[Memoriola](https://osu.ppy.sh/users/6856387)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=UA }:: [Shadowbolts1](https://osu.ppy.sh/users/13962882) | [#1](https://osu.ppy.sh/community/matches/97691557) |
+| Верхняя | **[cosilgam](https://osu.ppy.sh/users/15960747)** ::{ flag=RU }:: | **5** | 4 | ::{ flag=LV }:: [Soruki](https://osu.ppy.sh/users/11762423) | [#1](https://osu.ppy.sh/community/matches/97693687) |
+| Верхняя | [BocDyx](https://osu.ppy.sh/users/7926192) ::{ flag=RU }:: | 1 | **5** | ::{ flag=RU }:: **[Kenny331](https://osu.ppy.sh/users/11534285)** | [#1](https://osu.ppy.sh/community/matches/97695862) |
+| Верхняя | **[vafara](https://osu.ppy.sh/users/18917363)** ::{ flag=RU }:: | **5** | 4 | ::{ flag=RU }:: [yuinn](https://osu.ppy.sh/users/11239593) | [#1](https://osu.ppy.sh/community/matches/97700538) |
 
 Воскресенье, 13 февраля 2022:
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | **[FruktoLove](https://osu.ppy.sh/users/8417087)** ![][flag_UA] | **5** | 0 | ![][flag_UA] [Violet Feets](https://osu.ppy.sh/users/15558360) | [#1](https://osu.ppy.sh/community/matches/97736110) |
-| Верхняя | **[KitsunIvy](https://osu.ppy.sh/users/7055384)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [catch the ExGon](https://osu.ppy.sh/users/12081746) | [#1](https://osu.ppy.sh/community/matches/97738074) |
-| Верхняя | [dark rainbow](https://osu.ppy.sh/users/10557830) ![][flag_RU] | 0 | **5** | ![][flag_UA] **[[-Nyaruko-]](https://osu.ppy.sh/users/13712671)** | [#1](https://osu.ppy.sh/community/matches/97740096) |
-| Верхняя | **[Nelly](https://osu.ppy.sh/users/4741164)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [Mazuki](https://osu.ppy.sh/users/15208771) | [#1](https://osu.ppy.sh/community/matches/97741940) |
+| Верхняя | **[FruktoLove](https://osu.ppy.sh/users/8417087)** ::{ flag=UA }:: | **5** | 0 | ::{ flag=UA }:: [Violet Feets](https://osu.ppy.sh/users/15558360) | [#1](https://osu.ppy.sh/community/matches/97736110) |
+| Верхняя | **[KitsunIvy](https://osu.ppy.sh/users/7055384)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: [catch the ExGon](https://osu.ppy.sh/users/12081746) | [#1](https://osu.ppy.sh/community/matches/97738074) |
+| Верхняя | [dark rainbow](https://osu.ppy.sh/users/10557830) ::{ flag=RU }:: | 0 | **5** | ::{ flag=UA }:: **[[-Nyaruko-]](https://osu.ppy.sh/users/13712671)** | [#1](https://osu.ppy.sh/community/matches/97740096) |
+| Верхняя | **[Nelly](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: [Mazuki](https://osu.ppy.sh/users/15208771) | [#1](https://osu.ppy.sh/community/matches/97741940) |
 
 ### Отборочный этап
 
@@ -354,19 +354,19 @@ COT 2022 организован различными членами сообще
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | **[Violet Feets](https://osu.ppy.sh/users/15558360)** ![][flag_UA] | **5** | 2 | ![][flag_RU] [vinnikoish](https://osu.ppy.sh/users/14509580) | [#1](https://osu.ppy.sh/community/matches/97417909) |
-| Верхняя | **[Kenny331](https://osu.ppy.sh/users/11534285)** ![][flag_RU] | **5** | 0 | ![][flag_RU] [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) | *выигран по умолчанию* |
-| Верхняя | [mirofantasm](https://osu.ppy.sh/users/6650048) ![][flag_RU] | 1 | **5** | ![][flag_RU] **[catch the ExGon](https://osu.ppy.sh/users/12081746)** | [#1](https://osu.ppy.sh/community/matches/97425915) |
-| Верхняя | **[[-Nyaruko-]](https://osu.ppy.sh/users/13712671)** ![][flag_UA] | **5** | 1 | ![][flag_RU] [PedobeerKoroche](https://osu.ppy.sh/users/19389015) | [#1](https://osu.ppy.sh/community/matches/97428394) |
+| Верхняя | **[Violet Feets](https://osu.ppy.sh/users/15558360)** ::{ flag=UA }:: | **5** | 2 | ::{ flag=RU }:: [vinnikoish](https://osu.ppy.sh/users/14509580) | [#1](https://osu.ppy.sh/community/matches/97417909) |
+| Верхняя | **[Kenny331](https://osu.ppy.sh/users/11534285)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: [HAWAIIPIZZA](https://osu.ppy.sh/users/17668833) | *выигран по умолчанию* |
+| Верхняя | [mirofantasm](https://osu.ppy.sh/users/6650048) ::{ flag=RU }:: | 1 | **5** | ::{ flag=RU }:: **[catch the ExGon](https://osu.ppy.sh/users/12081746)** | [#1](https://osu.ppy.sh/community/matches/97425915) |
+| Верхняя | **[[-Nyaruko-]](https://osu.ppy.sh/users/13712671)** ::{ flag=UA }:: | **5** | 1 | ::{ flag=RU }:: [PedobeerKoroche](https://osu.ppy.sh/users/19389015) | [#1](https://osu.ppy.sh/community/matches/97428394) |
 
 Воскресенье, 6 Февраля 2022:
 
 | Сетка | Игрок 1 |  |  | Игрок 2 | Ссылка на матч |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Верхняя | **[Shadowbolts1](https://osu.ppy.sh/users/13962882)** ![][flag_UA] | **5** | 3 | ![][flag_UA] [NamakemonsteR](https://osu.ppy.sh/users/17314832) | [#1](https://osu.ppy.sh/community/matches/97464444) |
-| Верхняя | **[yuinn](https://osu.ppy.sh/users/11239593)** ![][flag_RU] | **5** | 0 | ![][flag_LV] [oFKors01](https://osu.ppy.sh/users/26522965) | [#1](https://osu.ppy.sh/community/matches/97468931) |
-| Верхняя | **[Soruki](https://osu.ppy.sh/users/11762423)** ![][flag_LV] | **5** | 0 | ![][flag_RU] [yoraze](https://osu.ppy.sh/users/18240388) | [#1](https://osu.ppy.sh/community/matches/97470519) |
-| Верхняя | **[Mazuki](https://osu.ppy.sh/users/15208771)** ![][flag_RU] | **5** | 2 | ![][flag_RU] [liquid_boba](https://osu.ppy.sh/users/11694783) | [#1](https://osu.ppy.sh/community/matches/97472770) |
+| Верхняя | **[Shadowbolts1](https://osu.ppy.sh/users/13962882)** ::{ flag=UA }:: | **5** | 3 | ::{ flag=UA }:: [NamakemonsteR](https://osu.ppy.sh/users/17314832) | [#1](https://osu.ppy.sh/community/matches/97464444) |
+| Верхняя | **[yuinn](https://osu.ppy.sh/users/11239593)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=LV }:: [oFKors01](https://osu.ppy.sh/users/26522965) | [#1](https://osu.ppy.sh/community/matches/97468931) |
+| Верхняя | **[Soruki](https://osu.ppy.sh/users/11762423)** ::{ flag=LV }:: | **5** | 0 | ::{ flag=RU }:: [yoraze](https://osu.ppy.sh/users/18240388) | [#1](https://osu.ppy.sh/community/matches/97470519) |
+| Верхняя | **[Mazuki](https://osu.ppy.sh/users/15208771)** ::{ flag=RU }:: | **5** | 2 | ::{ flag=RU }:: [liquid_boba](https://osu.ppy.sh/users/11694783) | [#1](https://osu.ppy.sh/community/matches/97472770) |
 
 ### Предварительный этап
 
@@ -396,8 +396,3 @@ COT 2022 организован различными членами сообще
 2. На прохождение маппула даётся одна попытка. Маппул в лобби будет сыгран в порядке, указанном в гугл-доке: сначала вы будете играть NM карты, затем — HD, затем — HR, и наконец — DT.
 3. В случае дисконнекта рефери даст отключившемуся игроку возможность в одиночку переиграть карту после лобби.
 4. Игроки будут распределены по сетке согласно результатам квалификации: игрок, занявший 32-е место на квалификации, будет играть против игрока на 1-м месте, и т.д.
-
-[flag_RU]: /wiki/shared/flag/RU.gif "Российская Федерация"
-[flag_UA]: /wiki/shared/flag/UA.gif "Украина"
-[flag_CL]: /wiki/shared/flag/CL.gif "Чили"
-[flag_LV]: /wiki/shared/flag/LV.gif "Латвия"

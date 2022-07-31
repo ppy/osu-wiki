@@ -27,10 +27,10 @@ The Slider Velocity Showdown was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097), ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_JP] [komasy](https://osu.ppy.sh/users/1980256) |
-| Designer | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) |
-| Judge | ![][flag_US] [Alchyr](https://osu.ppy.sh/users/4993032), ![][flag_GR] [Genjuro](https://osu.ppy.sh/users/3196091), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401), ![][flag_TW] [katacheh](https://osu.ppy.sh/users/6651672), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857), ![][flag_DE] [xMrtn-](https://osu.ppy.sh/users/866297) |
-| Translator | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) (Spanish), ![][flag_JP] [komasy](https://osu.ppy.sh/users/1980256) (Japanese) |
+| Host | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) |
+| Designer | ::{ flag=AR }:: [Atreevete](https://osu.ppy.sh/users/2615199) |
+| Judge | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=TW }:: [katacheh](https://osu.ppy.sh/users/6651672), ::{ flag=DE }:: [Mew](https://osu.ppy.sh/users/2345156), ::{ flag=BR }:: [Ppus](https://osu.ppy.sh/users/5918857), ::{ flag=DE }:: [xMrtn-](https://osu.ppy.sh/users/866297) |
+| Translator | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) (Spanish), ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) (Japanese) |
 
 ## Prizes
 
@@ -52,9 +52,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_NL] [Cookie_Tree](https://osu.ppy.sh/users/502722) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_JP] [Grape_Tea](https://osu.ppy.sh/users/9540073) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) |
 
 ## Ruleset
 
@@ -79,13 +79,3 @@ Judging will be based on a holistic and generic scoring method. Since creativity
 - **Execution:** Does your map make sense, are the gimmicks clearly executed?
 
 There will be a total of 30 points evenly distributed among these criteria. Judges will be expected to provide substance to their judgements to keep the spirit of the contest friendly.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
