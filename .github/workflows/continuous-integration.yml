@@ -15,9 +15,19 @@ jobs:
     name: changed files
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 2
+      - name: checkout
+        shell: bash
+        run: |
+          # Create the repository with a different default branch name to avoid confusion with the real "master" branch of ppy/osu-wiki
+          git init -b pull-request-merge
+
+          # Fetch the PR merge commit and all history, but ignore file contents
+          git fetch --filter=blob:none \
+            'https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}.git' \
+            '${{ github.sha }}'
+
+          # Update HEAD, index, and current branch ref to the fetched commit. Reset working tree and download required files
+          git reset --hard FETCH_HEAD
 
       - name: inspect binary file sizes
         shell: bash
