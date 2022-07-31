@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 359208bc2e93ce6c2e1499e3bd1fbb57a3b9fc1c
+---
+
 # osu!taiko Ranking Criteria
 
 osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を作成する際に従わなければならないルール、ガイドラインです。Taiko譜面をRankedさせるためにはこれらのルールに従う必要があります。いかなる場合でもルールに従わなければなりませんが、ガイドラインについては例外的な状況下において無視することが出来ます。ただし、その場合は何故ガイドラインを無視しないとTaiko譜面全体の品質に影響を及ぼすのか、具体的な説明が必要となります。
