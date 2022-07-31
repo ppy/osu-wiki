@@ -200,4 +200,4 @@ While waiting for the next article, we want to thank in advance all of the commu
 
 It's a real honour for us to write for you, the community. Thanks for reading, and see you soon for the next article, in September! ❤️
 
-—Soetch, Blushing, wowcake, 0x84f & Hubz
+—Soetch, Blushing, Wowcake, 0x84f & Hubz
