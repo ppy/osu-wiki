@@ -4,7 +4,6 @@
 
 为了使 [osu!taiko](/wiki/Game_mode/osu!taiko) 特定模式的[谱面](/wiki/Beatmap)通过[谱面 Ranking 程序](/wiki/Beatmap_ranking_procedure)，则必须遵守 **osu!taiko ranking criteria** 内列出的[规定和准则](/wiki/Ranking_Criteria#一般术语)。
 
-
 ## 术语
 
 ### 难度名
