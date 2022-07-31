@@ -211,13 +211,13 @@ The final results, in a simplified form, are as follows:
 
 | Team 1 |  |  | Team 2 |
 | --: | :-: | :-: | :-- |
-| ![](/wiki/shared/flag/AR.gif) Argentina | 3 | **4** | **United Kingdom** ![](/wiki/shared/flag/GB.gif) |
+| ::{ flag=AR }:: Argentina | 3 | **4** | **United Kingdom** ::{ flag=GB }:: |
 
 #### Third Place
 
 | Team 1 |  |  | Team 2 |
 | --: | :-: | :-: | :-- |
-| ![](/wiki/shared/flag/BR.gif) **Brazil** | **4** | 3 | Russian Federation ![](/wiki/shared/flag/RU.gif) |
+| ::{ flag=BR }:: **Brazil** | **4** | 3 | Russian Federation ::{ flag=RU }:: |
 
 Congratulations to everyone!
 

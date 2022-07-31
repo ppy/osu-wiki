@@ -8,7 +8,7 @@ tags:
 
 ![NWT 2019 logo](img/logo.jpg)
 
-The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide 1v1 double-elimination osu! tournament hosted by ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264). It was the first instalment of the nik's Tournaments series.
+The **nik's Winter Tour 2019** (***NWT 2019***) was a worldwide 1v1 double-elimination osu! tournament hosted by ::{ flag=NL }:: [nikolomara](https://osu.ppy.sh/users/10077264). It was the first instalment of the nik's Tournaments series.
 
 ## Tournament schedule
 
@@ -39,15 +39,15 @@ The nik's Winter Tour 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264) |
-| Admin | ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998) |
-| Mappool selector | ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998) |
-| Referee | ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ![][flag_DE] [Arekkuso](https://osu.ppy.sh/users/9287979), ![][flag_PL] [Asasyn01](https://osu.ppy.sh/users/8013323), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_KR] [Hal\[Cyon\]](https://osu.ppy.sh/users/9740893), ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_AU] [loler123903](https://osu.ppy.sh/users/8034438), ![][flag_SE] [Melwoine](https://osu.ppy.sh/users/12091109), ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264), ![][flag_US] [Poke\_player](https://osu.ppy.sh/users/6502279), ![][flag_GB] [Snipe The Neko](https://osu.ppy.sh/users/8638531), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911) |
-| Streamer | ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840) |
-| Commentator | ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_NL] [Just Lucan](https://osu.ppy.sh/users/5007943), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383) |
-| Designer | ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847) |
-| Statistician | ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=NL }:: [nikolomara](https://osu.ppy.sh/users/10077264) |
+| Admin | ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [vita2](https://osu.ppy.sh/users/10706998) |
+| Mappool selector | ::{ flag=US }:: [dblade](https://osu.ppy.sh/users/4272841), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [vita2](https://osu.ppy.sh/users/10706998) |
+| Referee | ::{ flag=FR }:: [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ::{ flag=DE }:: [Arekkuso](https://osu.ppy.sh/users/9287979), ::{ flag=PL }:: [Asasyn01](https://osu.ppy.sh/users/8013323), ::{ flag=US }:: [Dios Dong](https://osu.ppy.sh/users/3958619), ::{ flag=KR }:: [Hal\[Cyon\]](https://osu.ppy.sh/users/9740893), ::{ flag=DE }:: [hi-def](https://osu.ppy.sh/users/10697191), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=AU }:: [loler123903](https://osu.ppy.sh/users/8034438), ::{ flag=SE }:: [Melwoine](https://osu.ppy.sh/users/12091109), ::{ flag=NL }:: [nikolomara](https://osu.ppy.sh/users/10077264), ::{ flag=US }:: [Poke\_player](https://osu.ppy.sh/users/6502279), ::{ flag=GB }:: [Snipe The Neko](https://osu.ppy.sh/users/8638531), ::{ flag=VN }:: [steve\_04\_](https://osu.ppy.sh/users/10852911), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [vita2](https://osu.ppy.sh/users/10706998), ::{ flag=DE }:: [WitchOfFrost](https://osu.ppy.sh/users/7511840), ::{ flag=RU }:: [Xassie](https://osu.ppy.sh/users/7958911) |
+| Streamer | ::{ flag=US }:: [Dios Dong](https://osu.ppy.sh/users/3958619), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=VN }:: [steve\_04\_](https://osu.ppy.sh/users/10852911), ::{ flag=DE }:: [WitchOfFrost](https://osu.ppy.sh/users/7511840) |
+| Commentator | ::{ flag=US }:: [Dios Dong](https://osu.ppy.sh/users/3958619), ::{ flag=DE }:: [hi-def](https://osu.ppy.sh/users/10697191), ::{ flag=NL }:: [Just Lucan](https://osu.ppy.sh/users/5007943), ::{ flag=DE }:: [WitchOfFrost](https://osu.ppy.sh/users/7511840), ::{ flag=US }:: [YoshiLover456](https://osu.ppy.sh/users/6843383) |
+| Designer | ::{ flag=US }:: [\_p0ke\_](https://osu.ppy.sh/users/5434711), ::{ flag=US }:: [Cindelluna](https://osu.ppy.sh/users/3039847) |
+| Statistician | ::{ flag=NL }:: [nikolomara](https://osu.ppy.sh/users/10077264) |
+| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -61,10 +61,10 @@ The nik's Winter Tour 2019 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_US] [Fish-](https://osu.ppy.sh/users/3318654), ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047), ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711), ![][flag_RU] [Liswiera](https://osu.ppy.sh/users/9356954), ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383), ![][flag_RU] [DeSconTent](https://osu.ppy.sh/users/7995027), ![][flag_TW] [\_kyuu](https://osu.ppy.sh/users/3416783) |
-| High | ![][flag_IT] [Proioxis](https://osu.ppy.sh/users/9503564), ![][flag_UA] [Zertus](https://osu.ppy.sh/users/5875469), ![][flag_KR] [pseudophilia](https://osu.ppy.sh/users/6192650), ![][flag_KR] [woobin5004](https://osu.ppy.sh/users/1755215), ![][flag_US] [San Diego](https://osu.ppy.sh/users/3993153) ,![][flag_PL] [lokser](https://osu.ppy.sh/users/4675441), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405) |
-| Low | ![][flag_US] [F1shbowl](https://osu.ppy.sh/users/10129737), ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581), ![][flag_US] [lahwraN](https://osu.ppy.sh/users/6995880), ![][flag_CA] [Xeli](https://osu.ppy.sh/users/4947796), ![][flag_AT] [Snajper](https://osu.ppy.sh/users/4211027), ![][flag_US] [themaster156](https://osu.ppy.sh/users/3845254), ![][flag_PL] [bart6003](https://osu.ppy.sh/users/2100107), ![][flag_AU] [Pictures](https://osu.ppy.sh/users/4578623) |
-| Unseeded | ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_DE] [Kawaii Kaneki](https://osu.ppy.sh/users/3344333), ![][flag_CA] [deflateddolphin](https://osu.ppy.sh/users/10184558), ![][flag_NO] [Defectum](https://osu.ppy.sh/users/8631719), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_RU] [Nentse](https://osu.ppy.sh/users/8559485), ![][flag_FI] [Roba](https://osu.ppy.sh/users/5210561), ![][flag_VN] [Mayukaki](https://osu.ppy.sh/users/1487263) |
+| Top | ::{ flag=US }:: [Fish-](https://osu.ppy.sh/users/3318654), ::{ flag=AU }:: [loveleft](https://osu.ppy.sh/users/9240047), ::{ flag=DE }:: [\[Lucky\]](https://osu.ppy.sh/users/1303685), ::{ flag=US }:: [\_p0ke\_](https://osu.ppy.sh/users/5434711), ::{ flag=RU }:: [Liswiera](https://osu.ppy.sh/users/9356954), ::{ flag=US }:: [YoshiLover456](https://osu.ppy.sh/users/6843383), ::{ flag=RU }:: [DeSconTent](https://osu.ppy.sh/users/7995027), ::{ flag=TW }:: [\_kyuu](https://osu.ppy.sh/users/3416783) |
+| High | ::{ flag=IT }:: [Proioxis](https://osu.ppy.sh/users/9503564), ::{ flag=UA }:: [Zertus](https://osu.ppy.sh/users/5875469), ::{ flag=KR }:: [pseudophilia](https://osu.ppy.sh/users/6192650), ::{ flag=KR }:: [woobin5004](https://osu.ppy.sh/users/1755215), ::{ flag=US }:: [San Diego](https://osu.ppy.sh/users/3993153) ,::{ flag=PL }:: [lokser](https://osu.ppy.sh/users/4675441), ::{ flag=DE }:: [Menty](https://osu.ppy.sh/users/3619284), ::{ flag=US }:: [Raoul](https://osu.ppy.sh/users/9924405) |
+| Low | ::{ flag=US }:: [F1shbowl](https://osu.ppy.sh/users/10129737), ::{ flag=ID }:: [Xicyte](https://osu.ppy.sh/users/10212581), ::{ flag=US }:: [lahwraN](https://osu.ppy.sh/users/6995880), ::{ flag=CA }:: [Xeli](https://osu.ppy.sh/users/4947796), ::{ flag=AT }:: [Snajper](https://osu.ppy.sh/users/4211027), ::{ flag=US }:: [themaster156](https://osu.ppy.sh/users/3845254), ::{ flag=PL }:: [bart6003](https://osu.ppy.sh/users/2100107), ::{ flag=AU }:: [Pictures](https://osu.ppy.sh/users/4578623) |
+| Unseeded | ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=DE }:: [Kawaii Kaneki](https://osu.ppy.sh/users/3344333), ::{ flag=CA }:: [deflateddolphin](https://osu.ppy.sh/users/10184558), ::{ flag=NO }:: [Defectum](https://osu.ppy.sh/users/8631719), ::{ flag=US }:: [Tuco](https://osu.ppy.sh/users/11706350), ::{ flag=RU }:: [Nentse](https://osu.ppy.sh/users/8559485), ::{ flag=FI }:: [Roba](https://osu.ppy.sh/users/5210561), ::{ flag=VN }:: [Mayukaki](https://osu.ppy.sh/users/1487263) |
 
 ## Podium
 
@@ -72,9 +72,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Fish-](https://osu.ppy.sh/users/3318654) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [Fish-](https://osu.ppy.sh/users/3318654) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: [loveleft](https://osu.ppy.sh/users/9240047) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DE }:: [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
 
 ## Mappools
 
@@ -219,25 +219,25 @@ Saturday, 2 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fish-** ![][flag_US] | **7** | 0 | ![][flag_DE] \[Lucky\] | [#1](https://osu.ppy.sh/community/matches/49975374) |
+| **Fish-** ::{ flag=US }:: | **7** | 0 | ::{ flag=DE }:: \[Lucky\] | [#1](https://osu.ppy.sh/community/matches/49975374) |
 
 Sunday, 3 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **loveleft** ![][flag_AU] | **7** | 3 | ![][flag_RU] Liswiera | [#1](https://osu.ppy.sh/community/matches/49993367) |
+| **loveleft** ::{ flag=AU }:: | **7** | 3 | ::{ flag=RU }:: Liswiera | [#1](https://osu.ppy.sh/community/matches/49993367) |
 
 Saturday, 9 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| \[Lucky\] ![][flag_DE] | 1 | **7** | ![][flag_AU] **loveleft** | [#1](https://osu.ppy.sh/community/matches/50138167) |
+| \[Lucky\] ::{ flag=DE }:: | 1 | **7** | ::{ flag=AU }:: **loveleft** | [#1](https://osu.ppy.sh/community/matches/50138167) |
 
 Sunday, 10 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fish-** ![][flag_US] | **7** | 3 | ![][flag_AU] loveleft | [#1](https://osu.ppy.sh/community/matches/50184333) |
+| **Fish-** ::{ flag=US }:: | **7** | 3 | ::{ flag=AU }:: loveleft | [#1](https://osu.ppy.sh/community/matches/50184333) |
 
 ### Semifinals
 
@@ -245,22 +245,22 @@ Saturday, 23 February 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **\[Lucky\]** ![][flag_DE] | **6** | 0 | ![][flag_AU] loveleft | *win by default* |
-| **\_kyuu** ![][flag_TW] | **6** | 2 | ![][flag_PL] lokser | [#1](https://osu.ppy.sh/community/matches/49798965) |
-| **Fish-** ![][flag_US] | **6** | 4 | ![][flag_RU] Liswiera | [#1](https://osu.ppy.sh/community/matches/49802732) |
-| **YoshiLover456** ![][flag_US] | **6** | 2 | ![][flag_PL] bart6003 | [#1](https://osu.ppy.sh/community/matches/49806211) |
+| **\[Lucky\]** ::{ flag=DE }:: | **6** | 0 | ::{ flag=AU }:: loveleft | *win by default* |
+| **\_kyuu** ::{ flag=TW }:: | **6** | 2 | ::{ flag=PL }:: lokser | [#1](https://osu.ppy.sh/community/matches/49798965) |
+| **Fish-** ::{ flag=US }:: | **6** | 4 | ::{ flag=RU }:: Liswiera | [#1](https://osu.ppy.sh/community/matches/49802732) |
+| **YoshiLover456** ::{ flag=US }:: | **6** | 2 | ::{ flag=PL }:: bart6003 | [#1](https://osu.ppy.sh/community/matches/49806211) |
 
 Sunday, 24 February 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **loveleft** ![][flag_AU] | **6** | 5 | ![][flag_TW] \_kyuu | [#1](https://osu.ppy.sh/community/matches/49823110) |
+| **loveleft** ::{ flag=AU }:: | **6** | 5 | ::{ flag=TW }:: \_kyuu | [#1](https://osu.ppy.sh/community/matches/49823110) |
 
 Saturday, 2 March 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Liswiera** ![][flag_RU] | **6** | 4 | ![][flag_US] YoshiLover456 | [#1](https://osu.ppy.sh/community/matches/49939657) |
+| **Liswiera** ::{ flag=RU }:: | **6** | 4 | ::{ flag=US }:: YoshiLover456 | [#1](https://osu.ppy.sh/community/matches/49939657) |
 
 ### Quarterfinals
 
@@ -268,23 +268,23 @@ Saturday, 16 February 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Tuco ![][flag_US] | 2 | **5** | ![][flag_DE] **Menty** | [#1](https://osu.ppy.sh/community/matches/49605900) |
-| **Fish-** ![][flag_US] | **5** | 1 | ![][flag_TW] \_kyuu | [#1](https://osu.ppy.sh/community/matches/49622148) |
-| San Diego ![][flag_US] | 0 | **5** | ![][flag_RU] **Liswiera** | [#1](https://osu.ppy.sh/community/matches/49627344) |
-| F1shbowl ![][flag_US] | 2 | **5** | ![][flag_PL] **lokser** | [#1](https://osu.ppy.sh/community/matches/49632843) |
-| **Snajper** ![][flag_AT] | **5** | 0 | ![][flag_US] \_p0ke\_ | *win by default* |
-| **\[Lucky\]** ![][flag_DE] | **5** | 3 | ![][flag_US] YoshiLover456 | [#1](https://osu.ppy.sh/community/matches/49636497) |
-| lahwraN ![][flag_US] | 4 | **5** | ![][flag_US] **Raoul** | [#1](https://osu.ppy.sh/community/matches/49639492) |
-| **loveleft** ![][flag_AU] | **5** | 1 | ![][flag_PL] bart6003 | [#1](https://osu.ppy.sh/community/matches/49644911) |
+| Tuco ::{ flag=US }:: | 2 | **5** | ::{ flag=DE }:: **Menty** | [#1](https://osu.ppy.sh/community/matches/49605900) |
+| **Fish-** ::{ flag=US }:: | **5** | 1 | ::{ flag=TW }:: \_kyuu | [#1](https://osu.ppy.sh/community/matches/49622148) |
+| San Diego ::{ flag=US }:: | 0 | **5** | ::{ flag=RU }:: **Liswiera** | [#1](https://osu.ppy.sh/community/matches/49627344) |
+| F1shbowl ::{ flag=US }:: | 2 | **5** | ::{ flag=PL }:: **lokser** | [#1](https://osu.ppy.sh/community/matches/49632843) |
+| **Snajper** ::{ flag=AT }:: | **5** | 0 | ::{ flag=US }:: \_p0ke\_ | *win by default* |
+| **\[Lucky\]** ::{ flag=DE }:: | **5** | 3 | ::{ flag=US }:: YoshiLover456 | [#1](https://osu.ppy.sh/community/matches/49636497) |
+| lahwraN ::{ flag=US }:: | 4 | **5** | ::{ flag=US }:: **Raoul** | [#1](https://osu.ppy.sh/community/matches/49639492) |
+| **loveleft** ::{ flag=AU }:: | **5** | 1 | ::{ flag=PL }:: bart6003 | [#1](https://osu.ppy.sh/community/matches/49644911) |
 
 Sunday, 17 February 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **\_kyuu** ![][flag_TW] | **5** | 2 | ![][flag_DE] Menty | [#1](https://osu.ppy.sh/community/matches/49663701) |
-| San Diego ![][flag_US] | 1 | **5** | ![][flag_PL] **lokser** | [#1](https://osu.ppy.sh/community/matches/49665235) |
-| **YoshiLover456** ![][flag_US] | **5** | 2 | ![][flag_AT] Snajper | [#1](https://osu.ppy.sh/community/matches/49665372) |
-| **bart6003** ![][flag_PL] | **5** | 2 | ![][flag_US] Raoul | [#1](https://osu.ppy.sh/community/matches/49666837) |
+| **\_kyuu** ::{ flag=TW }:: | **5** | 2 | ::{ flag=DE }:: Menty | [#1](https://osu.ppy.sh/community/matches/49663701) |
+| San Diego ::{ flag=US }:: | 1 | **5** | ::{ flag=PL }:: **lokser** | [#1](https://osu.ppy.sh/community/matches/49665235) |
+| **YoshiLover456** ::{ flag=US }:: | **5** | 2 | ::{ flag=AT }:: Snajper | [#1](https://osu.ppy.sh/community/matches/49665372) |
+| **bart6003** ::{ flag=PL }:: | **5** | 2 | ::{ flag=US }:: Raoul | [#1](https://osu.ppy.sh/community/matches/49666837) |
 
 ### Round of 16
 
@@ -292,66 +292,66 @@ Monday, 29 January 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fish-** ![][flag_US] | **4** | 0 | ![][flag_US] Raoul | *win by default* |
+| **Fish-** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: Raoul | *win by default* |
 
 Saturday, 2 February 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Tuco** ![][flag_US] | **5** | 1 | ![][flag_CA] Xeli | [#1](https://osu.ppy.sh/community/matches/49295482) |
-| **YoshiLover456** ![][flag_US] | **5** | 4 | ![][flag_US] themaster156 | [#1](https://osu.ppy.sh/community/matches/49298642) |
-| Mayukaki ![][flag_VN] | 2 | **5** | ![][flag_US] **F1shbowl** | [#1](https://osu.ppy.sh/community/matches/49300165) |
-| **Defectum** ![][flag_NO] | **5** | 4 | ![][flag_KR] woobin5004 | [#1](https://osu.ppy.sh/community/matches/49307640) |
-| **lahwraN** ![][flag_US] | **5** | 0 | ![][flag_RU] Nentse | [#1](https://osu.ppy.sh/community/matches/49314408) |
-| DeSconTent ![][flag_RU] | 0 | **5** | ![][flag_PL] **bart6003** | [#1](https://osu.ppy.sh/community/matches/49316500) |
+| **Tuco** ::{ flag=US }:: | **5** | 1 | ::{ flag=CA }:: Xeli | [#1](https://osu.ppy.sh/community/matches/49295482) |
+| **YoshiLover456** ::{ flag=US }:: | **5** | 4 | ::{ flag=US }:: themaster156 | [#1](https://osu.ppy.sh/community/matches/49298642) |
+| Mayukaki ::{ flag=VN }:: | 2 | **5** | ::{ flag=US }:: **F1shbowl** | [#1](https://osu.ppy.sh/community/matches/49300165) |
+| **Defectum** ::{ flag=NO }:: | **5** | 4 | ::{ flag=KR }:: woobin5004 | [#1](https://osu.ppy.sh/community/matches/49307640) |
+| **lahwraN** ::{ flag=US }:: | **5** | 0 | ::{ flag=RU }:: Nentse | [#1](https://osu.ppy.sh/community/matches/49314408) |
+| DeSconTent ::{ flag=RU }:: | 0 | **5** | ::{ flag=PL }:: **bart6003** | [#1](https://osu.ppy.sh/community/matches/49316500) |
 
 Sunday, 3 February 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| \_p0ke\_ ![][flag_US] | 2 | **5** | ![][flag_US] **San Diego** | [#1](https://osu.ppy.sh/community/matches/49326174) |
-| **deflateddolphin** ![][flag_CA] | **5** | 4 | ![][flag_KR] pseudophilia | [#1](https://osu.ppy.sh/community/matches/49326850) |
-| NoVaLian ![][flag_ID] | 3 | **5** | ![][flag_US] **Pictures** | [#1](https://osu.ppy.sh/community/matches/49329223) |
-| **Roba** ![][flag_FI] | **5** | 2 | ![][flag_ID] Xicyte | [#1](https://osu.ppy.sh/community/matches/49332890) |
-| **\_kyuu** ![][flag_TW] | **5** | 2 | ![][flag_IT] Proioxis | [#1](https://osu.ppy.sh/community/matches/49333832) |
-| **Liswiera** ![][flag_RU] | **5** | 2 | ![][flag_AT] Snajper | [#1](https://osu.ppy.sh/community/matches/49334899) |
-| **loveleft** ![][flag_AU] | **5** | 0 | ![][flag_DE] Menty | [#1](https://osu.ppy.sh/community/matches/49337622) |
-| **\[Lucky\]** ![][flag_DE] | **5** | 0 | ![][flag_PL] lokser | [#1](https://osu.ppy.sh/community/matches/49340098) |
+| \_p0ke\_ ::{ flag=US }:: | 2 | **5** | ::{ flag=US }:: **San Diego** | [#1](https://osu.ppy.sh/community/matches/49326174) |
+| **deflateddolphin** ::{ flag=CA }:: | **5** | 4 | ::{ flag=KR }:: pseudophilia | [#1](https://osu.ppy.sh/community/matches/49326850) |
+| NoVaLian ::{ flag=ID }:: | 3 | **5** | ::{ flag=US }:: **Pictures** | [#1](https://osu.ppy.sh/community/matches/49329223) |
+| **Roba** ::{ flag=FI }:: | **5** | 2 | ::{ flag=ID }:: Xicyte | [#1](https://osu.ppy.sh/community/matches/49332890) |
+| **\_kyuu** ::{ flag=TW }:: | **5** | 2 | ::{ flag=IT }:: Proioxis | [#1](https://osu.ppy.sh/community/matches/49333832) |
+| **Liswiera** ::{ flag=RU }:: | **5** | 2 | ::{ flag=AT }:: Snajper | [#1](https://osu.ppy.sh/community/matches/49334899) |
+| **loveleft** ::{ flag=AU }:: | **5** | 0 | ::{ flag=DE }:: Menty | [#1](https://osu.ppy.sh/community/matches/49337622) |
+| **\[Lucky\]** ::{ flag=DE }:: | **5** | 0 | ::{ flag=PL }:: lokser | [#1](https://osu.ppy.sh/community/matches/49340098) |
 
 Monday, 4 February 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Kawaii Kaneki ![][flag_DE] | 0 | **5** | ![][flag_UA] **Zertus** | *win by default* |
-| Defectum ![][flag_NO] | 5 | **4** | ![][flag_KR] **woobin5004** | *win by default* |
+| Kawaii Kaneki ::{ flag=DE }:: | 0 | **5** | ::{ flag=UA }:: **Zertus** | *win by default* |
+| Defectum ::{ flag=NO }:: | 5 | **4** | ::{ flag=KR }:: **woobin5004** | *win by default* |
 
 Friday, 8 February 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Menty** ![][flag_DE] | **5** | 2 | ![][flag_KR] woobin5004 | [#1](https://osu.ppy.sh/community/matches/49441997) |
+| **Menty** ::{ flag=DE }:: | **5** | 2 | ::{ flag=KR }:: woobin5004 | [#1](https://osu.ppy.sh/community/matches/49441997) |
 
 Saturday, 9 February 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| DeSconTent ![][flag_RU] | 3 | **5** | ![][flag_US] **Tuco** | [#1](https://osu.ppy.sh/community/matches/49446157) |
-| **\_p0ke\_** ![][flag_US] | **5** | 0 | ![][flag_UA] Zertus | [#1](https://osu.ppy.sh/community/matches/49449482) |
-| themaster156 ![][flag_US] | 0 | **5** | ![][flag_US] **F1shbowl** | [#1](https://osu.ppy.sh/community/matches/49459554) |
-| **lokser** ![][flag_PL] | **5** | 2 | ![][flag_AU] Pictures | [#1](https://osu.ppy.sh/community/matches/49464388) |
+| DeSconTent ::{ flag=RU }:: | 3 | **5** | ::{ flag=US }:: **Tuco** | [#1](https://osu.ppy.sh/community/matches/49446157) |
+| **\_p0ke\_** ::{ flag=US }:: | **5** | 0 | ::{ flag=UA }:: Zertus | [#1](https://osu.ppy.sh/community/matches/49449482) |
+| themaster156 ::{ flag=US }:: | 0 | **5** | ::{ flag=US }:: **F1shbowl** | [#1](https://osu.ppy.sh/community/matches/49459554) |
+| **lokser** ::{ flag=PL }:: | **5** | 2 | ::{ flag=AU }:: Pictures | [#1](https://osu.ppy.sh/community/matches/49464388) |
 
 Sunday, 10 February 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Snajper** ![][flag_AT] | **5** | 2 | ![][flag_FI] Roba | [#1](https://osu.ppy.sh/community/matches/49474191) |
+| **Snajper** ::{ flag=AT }:: | **5** | 2 | ::{ flag=FI }:: Roba | [#1](https://osu.ppy.sh/community/matches/49474191) |
 
 Monday, 11 February 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Raoul** ![][flag_US] | **5** | 0 | ![][flag_CA] deflateddolphin | [#1](https://osu.ppy.sh/community/matches/49504744) |
-| Proioxis ![][flag_IT] | 3 | **5** | ![][flag_US] **lahwraN** | [#1](https://osu.ppy.sh/community/matches/49505992) |
+| **Raoul** ::{ flag=US }:: | **5** | 0 | ::{ flag=CA }:: deflateddolphin | [#1](https://osu.ppy.sh/community/matches/49504744) |
+| Proioxis ::{ flag=IT }:: | 3 | **5** | ::{ flag=US }:: **lahwraN** | [#1](https://osu.ppy.sh/community/matches/49505992) |
 
 ### Round of 32
 
@@ -359,27 +359,27 @@ Saturday, 26 January 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **lokser** ![][flag_PL] | **4** | 0 | ![][flag_US] lahwraN | [#1](https://osu.ppy.sh/community/matches/49122983) |
-| **bart6003** ![][flag_PL] | **4** | 0 | ![][flag_UA] Zertus | [#1](https://osu.ppy.sh/community/matches/49123006) |
-| **\_p0ke\_** ![][flag_US] | **4** | 1 | ![][flag_US] Tuco | [#1](https://osu.ppy.sh/community/matches/49132589) |
-| **\_kyuu** ![][flag_TW] | **4** | 2 | ![][flag_ID] NoVaLian | [#1](https://osu.ppy.sh/community/matches/49136507) |
-| **loveleft** ![][flag_AU] | **4** | 0 | ![][flag_FI] Roba | [#1](https://osu.ppy.sh/community/matches/49141496) |
-| **Fish-** ![][flag_US] | **4** | 0 | ![][flag_VN] Mayukaki | [#1](https://osu.ppy.sh/community/matches/49142750) |
-| **Snajper** ![][flag_AT] | **4** | 0 | ![][flag_KR] woobin5004 | [#1](https://osu.ppy.sh/community/matches/49144094) |
-| **Liswiera** ![][flag_RU] | **4** | 1 | ![][flag_NO] Defectum | [#1](https://osu.ppy.sh/community/matches/49145618) |
+| **lokser** ::{ flag=PL }:: | **4** | 0 | ::{ flag=US }:: lahwraN | [#1](https://osu.ppy.sh/community/matches/49122983) |
+| **bart6003** ::{ flag=PL }:: | **4** | 0 | ::{ flag=UA }:: Zertus | [#1](https://osu.ppy.sh/community/matches/49123006) |
+| **\_p0ke\_** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: Tuco | [#1](https://osu.ppy.sh/community/matches/49132589) |
+| **\_kyuu** ::{ flag=TW }:: | **4** | 2 | ::{ flag=ID }:: NoVaLian | [#1](https://osu.ppy.sh/community/matches/49136507) |
+| **loveleft** ::{ flag=AU }:: | **4** | 0 | ::{ flag=FI }:: Roba | [#1](https://osu.ppy.sh/community/matches/49141496) |
+| **Fish-** ::{ flag=US }:: | **4** | 0 | ::{ flag=VN }:: Mayukaki | [#1](https://osu.ppy.sh/community/matches/49142750) |
+| **Snajper** ::{ flag=AT }:: | **4** | 0 | ::{ flag=KR }:: woobin5004 | [#1](https://osu.ppy.sh/community/matches/49144094) |
+| **Liswiera** ::{ flag=RU }:: | **4** | 1 | ::{ flag=NO }:: Defectum | [#1](https://osu.ppy.sh/community/matches/49145618) |
 
 Sunday, 27 January 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **\[Lucky\]** ![][flag_DE] | **4** | 0 | ![][flag_RU] Nentse | [#1](https://osu.ppy.sh/community/matches/49150866) |
-| **Menty** ![][flag_DE] | **4** | 0 | ![][flag_ID] Xicyte | [#1](https://osu.ppy.sh/community/matches/49150859) |
-| **YoshiLover456** ![][flag_US] | **4** | 0 | ![][flag_CA] deflateddolphin | [#1](https://osu.ppy.sh/community/matches/49160543) |
-| **San Diego** ![][flag_US] | **4** | 3 | ![][flag_CA] Xeli | [#1](https://osu.ppy.sh/community/matches/49161560) |
-| **Raoul** ![][flag_US] | **4** | 0 | ![][flag_US] F1shbowl | [#1](https://osu.ppy.sh/community/matches/49163747) |
-| pseudophilia ![][flag_KR] | 3 | **4** | ![][flag_US] **themaster156** | [#1](https://osu.ppy.sh/community/matches/49163789) |
-| **Proioxis** ![][flag_IT] | **4** | 2 | ![][flag_AU] Pictures | [#1](https://osu.ppy.sh/community/matches/49171917) |
-| **DeSconTent** ![][flag_RU] | **4** | 1 | ![][flag_DE] Kawaii Kaneki | [#1](https://osu.ppy.sh/community/matches/49181672) |
+| **\[Lucky\]** ::{ flag=DE }:: | **4** | 0 | ::{ flag=RU }:: Nentse | [#1](https://osu.ppy.sh/community/matches/49150866) |
+| **Menty** ::{ flag=DE }:: | **4** | 0 | ::{ flag=ID }:: Xicyte | [#1](https://osu.ppy.sh/community/matches/49150859) |
+| **YoshiLover456** ::{ flag=US }:: | **4** | 0 | ::{ flag=CA }:: deflateddolphin | [#1](https://osu.ppy.sh/community/matches/49160543) |
+| **San Diego** ::{ flag=US }:: | **4** | 3 | ::{ flag=CA }:: Xeli | [#1](https://osu.ppy.sh/community/matches/49161560) |
+| **Raoul** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: F1shbowl | [#1](https://osu.ppy.sh/community/matches/49163747) |
+| pseudophilia ::{ flag=KR }:: | 3 | **4** | ::{ flag=US }:: **themaster156** | [#1](https://osu.ppy.sh/community/matches/49163789) |
+| **Proioxis** ::{ flag=IT }:: | **4** | 2 | ::{ flag=AU }:: Pictures | [#1](https://osu.ppy.sh/community/matches/49171917) |
+| **DeSconTent** ::{ flag=RU }:: | **4** | 1 | ::{ flag=DE }:: Kawaii Kaneki | [#1](https://osu.ppy.sh/community/matches/49181672) |
 
 ## Ruleset
 
@@ -407,23 +407,3 @@ Sunday, 27 January 2019:
    - In Quarterfinals, participants need to win 5 beatmaps to win a match (Best-of-9) and will have to bann 2 maps per match.
    - In Semifinals, participants need to win 6 beatmaps to win a match (Best-of-11) and will have to bann 2 maps per match.
    - In the **Finals and Grand Finals**, participants need to win 7 beatmaps to win a match (Best-of-13) and will have to bann 2 maps per match.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

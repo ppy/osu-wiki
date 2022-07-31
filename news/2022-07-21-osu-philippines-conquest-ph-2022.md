@@ -18,21 +18,17 @@ The Quickfire Showdown, the main event of the osu! community run space, is an op
 
 Additionally, as a CONQuest PH 2022 exclusive, there will be a track from one of osu!'s featured artists, [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88)! 
 
+For more information about the tournament, refer to [this wiki article](/wiki/Tournaments/oPQS/1).
+
 ## Prizes
 
-### July 23, 2022 (Day 1)
+*Note: The prizes are awarded for each day of the tournament.*
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, 3 months of osu!supporter |
-| ![Silver Crown](/wiki/shared/crown-silver.png "Runner-up") | osu!merch |
-
-### July 24, 2022 (Day 2)
-
-| Placing | Prizes |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, 3 months of osu!supporter |
-| ![Silver Crown](/wiki/shared/crown-silver.png "Runner-up") | osu!merch |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, osu!merch, 14 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | osu!merch, 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | osu!merch, 2 months of osu!supporter |
 
 ## Schedules
 

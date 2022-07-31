@@ -15,11 +15,6 @@ Les **BAT Managers** (***BATm***) étaient les leaders de la [Beatmap Appreciati
 
 ### Triumvir Conglomerate
 
-Suite à la promotion de tous les membres actifs de la [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) au BAT, le 15 mai 2013, 3 nouveaux BATm ont été nommés pour chaque grande région géographique : ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) représentait l'Amérique du Nord, ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) représentait l'Europe, et ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) représentait l'Asie. Ce rapport de force à trois a été baptisé "Triumvir Conglomerate".
+Suite à la promotion de tous les membres actifs de la [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) au BAT, le 15 mai 2013, 3 nouveaux BATm ont été nommés pour chaque grande région géographique : ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) représentait l'Amérique du Nord, ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) représentait l'Europe, et ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) représentait l'Asie. Ce rapport de force à trois a été baptisé "Triumvir Conglomerate".
 
-Ces postes BATm régionaux ont été remplacés le 22 décembre 2013 par ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), et ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) jusqu'à la séparation du BAT en groupe de nomination Beatmap (puis en [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)) et en [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) le 21 août 2014.
-
-[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+Ces postes BATm régionaux ont été remplacés le 22 décembre 2013 par ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), et ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) jusqu'à la séparation du BAT en groupe de nomination Beatmap (puis en [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)) et en [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) le 21 août 2014.
