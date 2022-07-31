@@ -4,8 +4,6 @@
 
 This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!taiko](/wiki/Game_mode/osu!taiko)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
-*See also: [How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)*
-
 ## Glossary
 
 ### Difficulty names
