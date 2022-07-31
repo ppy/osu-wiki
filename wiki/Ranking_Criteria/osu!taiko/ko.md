@@ -1,8 +1,8 @@
 # osu!taiko ranking criteria
 
-**osu!taiko Ranking Criteria**는 osu!taiko 난이도를 만드는 데 적용되는 규칙과 가이드라인입니다. osu!taiko 난이도를 랭크시키기 위해서 나열된 정해진 기준에 따라야 합니다. **어떤 상황이더라도 규칙을 따라야 하지만**,  예외적인 상황에서 가이드라인을 배제할 수 있습니다. 이러한 상황에서는 왜 가이드라인을 배제하였는지, 왜 배제하지 않으면 맵의 전반적인 퀄리티가 떨어지는지에 대한 자세한 설명이 뒷받침되어야 합니다.
+***참고: 이 문서는 [일반 랭크 기준](/wiki/Ranking_Criteria)의 연장입니다.***
 
-이곳에 적힌 규칙 및 가이드라인은 [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87)에서 논의된 내용입니다. 포럼에서 새로운 내용을 제안할 수 있으며, 합의가 된다면 이곳에 내용이 추가됩니다.
+이 **osu!taiko 랭크 기준** 문서는 [osu!taiko 스탠다드](/wiki/Game_mode/osu!taiko) [비트맵](/wiki/Beatmap)이 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_Criteria#일반-용-(general-terms))을 제시합니다.
 
 ## 용어
 
