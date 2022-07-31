@@ -1,8 +1,10 @@
 # osu!mania ranking criteria
 
-The **osu!mania Ranking Criteria** are rules and guidelines that apply to the creation of osu!mania-specific difficulties. In order to get an osu!mania-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
+***Note: This article is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
 
-Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/community/forums/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
+This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!mania](/wiki/Game_mode/osu!mania)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+
+*See also: [How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)*
 
 ## Glossary
 
