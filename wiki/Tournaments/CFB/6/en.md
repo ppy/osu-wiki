@@ -8,7 +8,7 @@ tags:
 
 ![CFB 6 logo](img/logo.jpg)
 
-The **Catch French Beginner 6** (***CFB 6***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). French players ranked between #3,500 and below were able to participate. It was the sixth instalment of the Catch French Beginner series.
+The **Catch French Beginner 6** (***CFB 6***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). French players ranked below #3,500 were able to participate. It was the sixth instalment of the Catch French Beginner series.
 
 ## Tournament schedule
 
