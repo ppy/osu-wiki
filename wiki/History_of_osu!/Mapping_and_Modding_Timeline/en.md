@@ -541,7 +541,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2021-12-14:** The burai sliders rule has been loosened per this [proposal](https://osu.ppy.sh/community/forums/topics/1442020).
 - This was done to accomodate for new mapping styles by making specific criteria for each difficuly, instead of making it a general rule.
 
-**4817 beatmaps** were ranked in 2021.
+**4500 beatmaps** were ranked in 2021.
 
 ## 2022
 
