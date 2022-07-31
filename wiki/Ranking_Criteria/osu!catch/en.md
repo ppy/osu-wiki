@@ -4,8 +4,6 @@
 
 This set of **osu!catch ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!catch](/wiki/Game_mode/osu!catch)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
-*See also: [How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)*
-
 ## Overall
 
 Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
