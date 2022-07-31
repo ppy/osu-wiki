@@ -12,7 +12,7 @@ The [osu! wiki](/wiki/Main_Page) has seen a lot of reconstruction and developmen
 
 If you're knowledgeable on certain aspects of the community, whether it be gameplay, mapping, modding, hitsounding, storyboarding or trivia, or simply want to exercise your writing skills, you're more than welcome to participate! No need for Ph.D.'s — any level of contribution is appreciated!
 
-The osu! community reaches every part of the world, which means translations are necessary to keep the knowledge base useful for everyone. By a quick look in the [list of outdated articles and missing translations](https://clayton.cc/osu-wiki-status/en), the wiki only has French and Indonesian translations almost completely up to date, while every other language has fallen far short over the years. Anyone is encouraged to take part in any amount!
+The osu! community reaches every part of the world, which means translations are necessary to keep the knowledge base useful for everyone. By a quick look in the [list of outdated articles and missing translations](https://clayton.cc/osu-wiki-status), the wiki only has French and Indonesian translations almost completely up to date, while every other language has fallen far short over the years. Anyone is encouraged to take part in any amount!
 
 But where does one start? Hop into the [osu!dev Discord server](https://discord.gg/ppy) and check the [contribution guide](/wiki/osu!_wiki/Contribution_guide). The osu! wiki is stored in its entirety in a [GitHub repository](https://github.com/ppy/osu-wiki), where all contribution takes place. Don't worry if you've never used GitHub, just check the linked guide for a quick step-by-step tutorial on the basics and ask any questions in the Discord server.
 
