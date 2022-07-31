@@ -271,7 +271,7 @@ Sunday, 5 December 2021:
 | --: | :-: | :-: | :-- | :-- |
 | Issuko ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\_\_\_\_\_\_\_\_\_\_\_** | [#1](https://osu.ppy.sh/community/matches/94864020) |
 | MRkayle ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **Utopsia** | [#1](https://osu.ppy.sh/community/matches/94866270) |
-| Kuzuyo ::{ flag=BE } | -1 | **0** | ::{ flag=FR }:: **\_\_\_\_\_\_\_\_\_\_\_\_** | *win by default* |
+| Kuzuyo ::{ flag=BE }:: | -1 | **0** | ::{ flag=FR }:: **\_\_\_\_\_\_\_\_\_\_\_\_** | *win by default* |
 
 ### Quarterfinals
 
