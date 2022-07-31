@@ -48,12 +48,12 @@ no_native_review: true
 ![](img/play-menu.jpg "플레이 메뉴")
 
 - Solo(`P`)를 누르면 혼자서 플레이 할 수 있습니다.
-- Multi(`M`)를 누르면 다른 사람과 멀티 플레이를 즐길 수 있습니다. [멀티 플레이](/wiki/Gameplay/Multiplayer) 로비로 넘어갑니다.
+- Multi(`M`)를 누르면 다른 사람과 멀티 플레이를 즐길 수 있습니다. [멀티 플레이](/wiki/Client/Interface/Multiplayer) 로비로 넘어갑니다.
 - Back(`Esc`)을 누르면 메인 메뉴로 돌아갑니다.
 
 ## 멀티 플레이 로비
 
-*본문: [멀티 플레이](/wiki/Gameplay/Multiplayer)*
+*본문: [멀티 플레이](/wiki/Client/Interface/Multiplayer)*
 
 ![](img/multi-lobby.jpg "멀티 플레이 로비")
 

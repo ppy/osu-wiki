@@ -50,11 +50,11 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Mappool selector | ![][flag_IE] [[KoKo]](https://osu.ppy.sh/users/5322953), ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
-| Streamer | ![][flag_US] [iShipxx](https://osu.ppy.sh/users/7546335), ![][flag_US] [R34pling](https://osu.ppy.sh/users/7662172) |
-| Commentator | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
-| Designer | ![][flag___] Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
-| Referee | ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [iShipxx](https://osu.ppy.sh/users/7546335), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
+| Mappool selector | ::{ flag=IE }:: [[KoKo]](https://osu.ppy.sh/users/5322953), ::{ flag=US }:: [_Breeze](https://osu.ppy.sh/users/9726582), ::{ flag=US }:: [jlin_02](https://osu.ppy.sh/users/13192092), ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459), ::{ flag=US }:: [migin](https://osu.ppy.sh/users/11118735), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) |
+| Streamer | ::{ flag=US }:: [iShipxx](https://osu.ppy.sh/users/7546335), ::{ flag=US }:: [R34pling](https://osu.ppy.sh/users/7662172) |
+| Commentator | ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459), ::{ flag=US }:: [MyAngelNeptune](https://osu.ppy.sh/users/5290308), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) |
+| Designer | ::{ flag=XX }:: Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
+| Referee | ::{ flag=US }:: [_Breeze](https://osu.ppy.sh/users/9726582), ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=US }:: [ilalalayou](https://osu.ppy.sh/users/3144766), ::{ flag=US }:: [iShipxx](https://osu.ppy.sh/users/7546335), ::{ flag=US }:: [jlin_02](https://osu.ppy.sh/users/13192092), ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459), ::{ flag=US }:: [phamitsu](https://osu.ppy.sh/users/13045418), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) |
 
 ## Links
 
@@ -71,27 +71,27 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 ### osu!
 
-- ![][flag_US] [[KOR] Sora](https://osu.ppy.sh/users/11985468)
-- ![][flag_US] [Achao3](https://osu.ppy.sh/users/12325019)
-- ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876)
-- ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231)
-- ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
-- ![][flag_US] [Ikeda Chizuru](https://osu.ppy.sh/users/9288843)
-- ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313)
-- ![][flag_US] [Musket](https://osu.ppy.sh/users/6124459)
-- ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308)
-- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
-- ![][flag_US] [Sliceofpie](https://osu.ppy.sh/users/3841872)
-- ![][flag_US] [Slo](https://osu.ppy.sh/users/8839884)
-- ![][flag_US] [YungCowboy](https://osu.ppy.sh/users/8176490)
+- ::{ flag=US }:: [[KOR] Sora](https://osu.ppy.sh/users/11985468)
+- ::{ flag=US }:: [Achao3](https://osu.ppy.sh/users/12325019)
+- ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876)
+- ::{ flag=US }:: [death grips](https://osu.ppy.sh/users/4829231)
+- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
+- ::{ flag=US }:: [Ikeda Chizuru](https://osu.ppy.sh/users/9288843)
+- ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313)
+- ::{ flag=US }:: [Musket](https://osu.ppy.sh/users/6124459)
+- ::{ flag=US }:: [MyAngelNeptune](https://osu.ppy.sh/users/5290308)
+- ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
+- ::{ flag=US }:: [Sliceofpie](https://osu.ppy.sh/users/3841872)
+- ::{ flag=US }:: [Slo](https://osu.ppy.sh/users/8839884)
+- ::{ flag=US }:: [YungCowboy](https://osu.ppy.sh/users/8176490)
 
 ### osu!mania
 
-- ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614)
-- ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383)
-- ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260)
-- ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052)
-- ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760)
+- ::{ flag=US }:: [Chest Flattener](https://osu.ppy.sh/users/4292614)
+- ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383)
+- ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260)
+- ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052)
+- ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760)
 
 ## Podium
 
@@ -99,19 +99,19 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [death grips](https://osu.ppy.sh/users/4829231) |
 
-![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) also won the special *iDOLM@STER* prize.
+::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) also won the special *iDOLM@STER* prize.
 
 ### osu!mania
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) |
 
 ## Mappools
 
@@ -314,7 +314,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **fieryrage** ![][flag_US] | **6** | 1 | ![][flag_US] Mathyu | [#1](https://osu.ppy.sh/community/matches/51947819) |
+| **fieryrage** ::{ flag=US }:: | **6** | 1 | ::{ flag=US }:: Mathyu | [#1](https://osu.ppy.sh/community/matches/51947819) |
 
 #### Finals
 
@@ -322,13 +322,13 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **fieryrage** ![][flag_US] | **5** | 1 | ![][flag_US] Mathyu | [#1](https://osu.ppy.sh/community/matches/51945087) |
+| **fieryrage** ::{ flag=US }:: | **5** | 1 | ::{ flag=US }:: Mathyu | [#1](https://osu.ppy.sh/community/matches/51945087) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Mathyu** ![][flag_US] | **5** | 1 | ![][flag_US] death grips | [#1](https://osu.ppy.sh/community/matches/51947396) |
+| **Mathyu** ::{ flag=US }:: | **5** | 1 | ::{ flag=US }:: death grips | [#1](https://osu.ppy.sh/community/matches/51947396) |
 
 #### Semifinals
 
@@ -336,16 +336,16 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **fieryrage** ![][flag_US] | **4** | 1 | ![][flag_US] Musket | [#1](https://osu.ppy.sh/community/matches/51943219) |
-| death grips ![][flag_US] | 2 | **4** | ![][flag_US] **Mathyu** | [#1](https://osu.ppy.sh/community/matches/51943346) |
+| **fieryrage** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: Musket | [#1](https://osu.ppy.sh/community/matches/51943219) |
+| death grips ::{ flag=US }:: | 2 | **4** | ::{ flag=US }:: **Mathyu** | [#1](https://osu.ppy.sh/community/matches/51943346) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Musket** ![][flag_US] | **4** | 2 | ![][flag_US] YungCowboy | [#1](https://osu.ppy.sh/community/matches/51944564) |
-| **death grips** ![][flag_US] | **4** | 1 | ![][flag_US] Darin on osu | [#1](https://osu.ppy.sh/community/matches/51944566) |
-| Musket ![][flag_US] | 2 | **4** | ![][flag_US] **death grips** | [#1](https://osu.ppy.sh/community/matches/51945563) |
+| **Musket** ::{ flag=US }:: | **4** | 2 | ::{ flag=US }:: YungCowboy | [#1](https://osu.ppy.sh/community/matches/51944564) |
+| **death grips** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: Darin on osu | [#1](https://osu.ppy.sh/community/matches/51944566) |
+| Musket ::{ flag=US }:: | 2 | **4** | ::{ flag=US }:: **death grips** | [#1](https://osu.ppy.sh/community/matches/51945563) |
 
 #### Quarterfinals
 
@@ -353,21 +353,21 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **fieryrage** ![][flag_US] | **3** | 0 | ![][flag_US] pishifat | [#1](https://osu.ppy.sh/community/matches/51942496) |
-| Darin on osu ![][flag_US] | 1 | **3** | ![][flag_US] **Musket** | [#1](https://osu.ppy.sh/community/matches/51942547) |
-| **death grips** ![][flag_US] | **3** | 0 | ![][flag_US] YungCowboy | [#1](https://osu.ppy.sh/community/matches/51942801) |
-| **Mathyu** ![][flag_US] | **3** | 0 | ![][flag_US] Ikeda Chizuru | [#1](https://osu.ppy.sh/community/matches/51942604) |
+| **fieryrage** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: pishifat | [#1](https://osu.ppy.sh/community/matches/51942496) |
+| Darin on osu ::{ flag=US }:: | 1 | **3** | ::{ flag=US }:: **Musket** | [#1](https://osu.ppy.sh/community/matches/51942547) |
+| **death grips** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: YungCowboy | [#1](https://osu.ppy.sh/community/matches/51942801) |
+| **Mathyu** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Ikeda Chizuru | [#1](https://osu.ppy.sh/community/matches/51942604) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Ikeda Chizuru** ![][flag_US] | **3** | 2 | ![][flag_US] Sliceofpie | [#1](https://osu.ppy.sh/community/matches/51943277) |
-| **YungCowboy** ![][flag_US] | **3** | 0 | ![][flag_US] Slo | [#1](https://osu.ppy.sh/community/matches/51943275) |
-| **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] \[KOR\] Sora | *forfeit* |
-| **pishifat** ![][flag_US] | **3** | 1 | ![][flag_US] MyAngelNeptune | [#1](https://osu.ppy.sh/community/matches/51942892) |
-| Ikeda Chizuru ![][flag_US] | 2 | **3** | ![][flag_US] **YungCowboy** | [#1](https://osu.ppy.sh/community/matches/51943880) |
-| **Darin on osu** ![][flag_US] | **3** | 0 | ![][flag_US] pishifat | [#1](https://osu.ppy.sh/community/matches/51943344) |
+| **Ikeda Chizuru** ::{ flag=US }:: | **3** | 2 | ::{ flag=US }:: Sliceofpie | [#1](https://osu.ppy.sh/community/matches/51943277) |
+| **YungCowboy** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Slo | [#1](https://osu.ppy.sh/community/matches/51943275) |
+| **Darin on osu** ::{ flag=US }:: | **1** | 0 | ::{ flag=US }:: \[KOR\] Sora | *forfeit* |
+| **pishifat** ::{ flag=US }:: | **3** | 1 | ::{ flag=US }:: MyAngelNeptune | [#1](https://osu.ppy.sh/community/matches/51942892) |
+| Ikeda Chizuru ::{ flag=US }:: | 2 | **3** | ::{ flag=US }:: **YungCowboy** | [#1](https://osu.ppy.sh/community/matches/51943880) |
+| **Darin on osu** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: pishifat | [#1](https://osu.ppy.sh/community/matches/51943344) |
 
 #### Round of 16
 
@@ -375,37 +375,37 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **pishifat** ![][flag_US] | **3** | 1 | ![][flag_US] Sliceofpie | [#1](https://osu.ppy.sh/community/matches/51941939) |
-| **Darin on osu** ![][flag_US] | **3** | 0 | ![][flag_US] Achao3 | [#1](https://osu.ppy.sh/community/matches/51941917) |
-| **Musket** ![][flag_US] | **3** | 0 | ![][flag_US] Slo | [#1](https://osu.ppy.sh/community/matches/51941899) |
-| \[KOR\] Sora ![][flag_US] | 0 | **3** | ![][flag_US] **YungCowboy** | [#1](https://osu.ppy.sh/community/matches/51942119) |
-| **Ikeda Chizuru** ![][flag_US] | **3** | 2 | ![][flag_US] MyAngelNeptune | *played offline* |
+| **pishifat** ::{ flag=US }:: | **3** | 1 | ::{ flag=US }:: Sliceofpie | [#1](https://osu.ppy.sh/community/matches/51941939) |
+| **Darin on osu** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Achao3 | [#1](https://osu.ppy.sh/community/matches/51941917) |
+| **Musket** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Slo | [#1](https://osu.ppy.sh/community/matches/51941899) |
+| \[KOR\] Sora ::{ flag=US }:: | 0 | **3** | ::{ flag=US }:: **YungCowboy** | [#1](https://osu.ppy.sh/community/matches/51942119) |
+| **Ikeda Chizuru** ::{ flag=US }:: | **3** | 2 | ::{ flag=US }:: MyAngelNeptune | *played offline* |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Achao3 ![][flag_US] | 1 | **3** | ![][flag_US] **Slo** | [#1](https://osu.ppy.sh/community/matches/51942573) |
+| Achao3 ::{ flag=US }:: | 1 | **3** | ::{ flag=US }:: **Slo** | [#1](https://osu.ppy.sh/community/matches/51942573) |
 
 #### Seeding
 
-All of the players except ![][flag_US] Ikeda Chizuru played in a [seeding multiplayer match](https://osu.ppy.sh/community/matches/51939463). ![][flag_US] Ikeda Chizuru was having connection issues and played the pool offline instead (with supervision from a referee).
+All of the players except ::{ flag=US }:: Ikeda Chizuru played in a [seeding multiplayer match](https://osu.ppy.sh/community/matches/51939463). ::{ flag=US }:: Ikeda Chizuru was having connection issues and played the pool offline instead (with supervision from a referee).
 
 | Player | Aggregate placement |
 | :-- | :-- |
-| ![][flag_US] fieryrage | 12 |
-| ![][flag_US] death grips | 26 |
-| ![][flag_US] Mathyu | 30 |
-| ![][flag_US] Darin on osu | 34 |
-| ![][flag_US] Musket | 34 |
-| ![][flag_US] Ikeda Chizuru | 58 |
-| ![][flag_US] \[KOR\] Sora | 61 |
-| ![][flag_US] pishifat | 65 |
-| ![][flag_US] Sliceofpie | 72 |
-| ![][flag_US] YungCowboy | 77 |
-| ![][flag_US] MyAngelNeptune | 79 |
-| ![][flag_US] Slo | 80 |
-| ![][flag_US] Achao3 | 100 |
+| ::{ flag=US }:: fieryrage | 12 |
+| ::{ flag=US }:: death grips | 26 |
+| ::{ flag=US }:: Mathyu | 30 |
+| ::{ flag=US }:: Darin on osu | 34 |
+| ::{ flag=US }:: Musket | 34 |
+| ::{ flag=US }:: Ikeda Chizuru | 58 |
+| ::{ flag=US }:: \[KOR\] Sora | 61 |
+| ::{ flag=US }:: pishifat | 65 |
+| ::{ flag=US }:: Sliceofpie | 72 |
+| ::{ flag=US }:: YungCowboy | 77 |
+| ::{ flag=US }:: MyAngelNeptune | 79 |
+| ::{ flag=US }:: Slo | 80 |
+| ::{ flag=US }:: Achao3 | 100 |
 
 ### osu!mania
 
@@ -413,7 +413,7 @@ All of the players except ![][flag_US] Ikeda Chizuru played in a [seeding multip
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Crescendo PiaNo** ![][flag_US] | **6** | 2 | ![][flag_US] Trainer- | [#1](https://osu.ppy.sh/community/matches/51944062) |
+| **Crescendo PiaNo** ::{ flag=US }:: | **6** | 2 | ::{ flag=US }:: Trainer- | [#1](https://osu.ppy.sh/community/matches/51944062) |
 
 #### Semifinals
 
@@ -421,13 +421,13 @@ All of the players except ![][flag_US] Ikeda Chizuru played in a [seeding multip
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Crescendo PiaNo** ![][flag_US] | **5** | 1 | ![][flag_US] Trainer- | [#1](https://osu.ppy.sh/community/matches/51941547) |
+| **Crescendo PiaNo** ::{ flag=US }:: | **5** | 1 | ::{ flag=US }:: Trainer- | [#1](https://osu.ppy.sh/community/matches/51941547) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Trainer-** ![][flag_US] | **5** | 0 | ![][flag_US] Ouchiee | [#1](https://osu.ppy.sh/community/matches/51943569) |
+| **Trainer-** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: Ouchiee | [#1](https://osu.ppy.sh/community/matches/51943569) |
 
 #### Round 2
 
@@ -435,21 +435,21 @@ All of the players except ![][flag_US] Ikeda Chizuru played in a [seeding multip
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Crescendo PiaNo** ![][flag_US] | **4** | 0 | ![][flag_US] Ouchiee | [#1](https://osu.ppy.sh/community/matches/51940641) |
-| **Trainer-** ![][flag_US] | **4** | 3 | ![][flag_US] Ecal | [#1](https://osu.ppy.sh/community/matches/51940114) |
+| **Crescendo PiaNo** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: Ouchiee | [#1](https://osu.ppy.sh/community/matches/51940641) |
+| **Trainer-** ::{ flag=US }:: | **4** | 3 | ::{ flag=US }:: Ecal | [#1](https://osu.ppy.sh/community/matches/51940114) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Ecal** ![][flag_US] | **3** | 0 | ![][flag_US] Chest Flattener | [#1](https://osu.ppy.sh/community/matches/51941682) |
-| **Ouchiee** ![][flag_US] | **5** | 0 | ![][flag_US] Ecal | [#1](https://osu.ppy.sh/community/matches/51942291) |
+| **Ecal** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Chest Flattener | [#1](https://osu.ppy.sh/community/matches/51941682) |
+| **Ouchiee** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: Ecal | [#1](https://osu.ppy.sh/community/matches/51942291) |
 
 #### Round 1
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Ouchiee** ![][flag_US] | **3** | 0 | ![][flag_US] Chest Flattener | [#1](https://osu.ppy.sh/community/matches/51939935) |
+| **Ouchiee** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Chest Flattener | [#1](https://osu.ppy.sh/community/matches/51939935) |
 
 ## Ruleset
 
@@ -501,7 +501,3 @@ Both tournaments will use a standard double-elimination format for playoffs.
 2. Any sort of verbal harassment towards another in the tournament will not be tolerated. This includes referees, bystanders and any other attendees of the event.
 3. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
 4. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
-
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag___]: /wiki/shared/flag/__.gif

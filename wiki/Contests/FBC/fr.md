@@ -26,37 +26,37 @@ La musique sélectionnée pour ce concours était [ANTI - Koi](https://www.youtu
 
 | Place | Mappeurs |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=FR }:: [Secretpipe](https://osu.ppy.sh/users/2208964) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ::{ flag=FR }:: [rezoons](https://osu.ppy.sh/users/1893035) |
 
 ### Vainqueurs du mode osu!taiko
 
 | Place | Mappeurs |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_FR] [Aldwych](https://osu.ppy.sh/users/1416484) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ![][flag_FR] [Gezoda](https://osu.ppy.sh/users/481582) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=FR }:: [Nofool](https://osu.ppy.sh/users/672430) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ::{ flag=FR }:: [Aldwych](https://osu.ppy.sh/users/1416484) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ::{ flag=FR }:: [Gezoda](https://osu.ppy.sh/users/481582) |
 
 ### Vainqueurs du mode osu!mania
 
 | Place | Mappeurs |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_CA] [Julie](https://osu.ppy.sh/users/2420987) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_FR] [Todestrieb](https://osu.ppy.sh/users/4056690) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=CA }:: [Julie](https://osu.ppy.sh/users/2420987) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ::{ flag=FR }:: [Todestrieb](https://osu.ppy.sh/users/4056690) |
 
 ### Vainqueurs du mode osu!catch
 
 | Place | Mappeurs |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=FR }:: [rezoons](https://osu.ppy.sh/users/1893035) |
 
 ### Organisation
 
 | Rôle | Membres |
 | :-- | :-- |
-| Organisateur | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) |
-| Juges | ![][flag_PL] [Krfawy](https://osu.ppy.sh/users/1478292), ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596), ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530), ![][flag_US] [OzzyOzrock](https://osu.ppy.sh/users/465153), ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253), ![][flag_GB] [Mysticalia](https://osu.ppy.sh/users/2728676) |
+| Organisateur | ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) |
+| Juges | ::{ flag=PL }:: [Krfawy](https://osu.ppy.sh/users/1478292), ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596), ::{ flag=IT }:: [Leader](https://osu.ppy.sh/users/631530), ::{ flag=US }:: [OzzyOzrock](https://osu.ppy.sh/users/465153), ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253), ::{ flag=GB }:: [Mysticalia](https://osu.ppy.sh/users/2728676) |
 
 ### Liens
 
@@ -75,16 +75,16 @@ La musique sélectionnée pour le mode osu! et osu!catch était [Phantom Sage - 
 
 | Place | Mappeurs |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_CA] [sheela](https://osu.ppy.sh/users/1138027) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=CA }:: [sheela](https://osu.ppy.sh/users/1138027) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ::{ flag=FR }:: [Secretpipe](https://osu.ppy.sh/users/2208964) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) |
 
 ### Organisation
 
 | Rôles | Membres |
 | :-- | :-- |
-| Organisateur | ![][flag_FR] [Ovoui](https://osu.ppy.sh/users/2282098) |
-| Juges | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_DE] [Pho](https://osu.ppy.sh/users/3624692), ![][flag_AU] [sahuang](https://osu.ppy.sh/users/5318910) |
+| Organisateur | ::{ flag=FR }:: [Ovoui](https://osu.ppy.sh/users/2282098) |
+| Juges | ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689), ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692), ::{ flag=AU }:: [sahuang](https://osu.ppy.sh/users/5318910) |
 
 ### Liens
 
@@ -103,16 +103,16 @@ La musique sélectionnée pour cette édition du tournoi était [ak+q - Excelsia
 
 | Place | Mappeurs |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_FR] [Sotarks](https://osu.ppy.sh/users/4452992) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ::{ flag=FR }:: [BOUYAAA](https://osu.ppy.sh/users/405449) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964) |
 
 ### Organisation
 
 | Rôle | Membres |
 | :-- | :-- |
-| Organisateurs | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |
-| Juges | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) |
+| Organisateurs | ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983), ::{ flag=CA }:: [Gabe](https://osu.ppy.sh/users/654108) |
+| Juges | ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689), ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) |
 
 ### Lien
 
@@ -130,28 +130,17 @@ La musique sélectionnée pour cette édition du tournoi est [Thaehan - Sunrise]
 
 | Place | Mappeurs |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_CA] [celerih](https://osu.ppy.sh/users/4696296) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ![][flag_CA] [J1_](https://osu.ppy.sh/users/5918561), ![][flag_FR] [PoNo](https://osu.ppy.sh/users/4610047) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ::{ flag=CA }:: [celerih](https://osu.ppy.sh/users/4696296) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ::{ flag=CA }:: [J1_](https://osu.ppy.sh/users/5918561), ::{ flag=FR }:: [PoNo](https://osu.ppy.sh/users/4610047) |
 
 ### Organisation
 
 | Rôle | Membres |
 | :-- | :-- |
-| Organisateurs | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |
-| Juges | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492), ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812), ![][flag_US] [ailv](https://osu.ppy.sh/users/6933054), ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) |
+| Organisateurs | ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983), ::{ flag=CA }:: [Gabe](https://osu.ppy.sh/users/654108) |
+| Juges | ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492), ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812), ::{ flag=US }:: [ailv](https://osu.ppy.sh/users/6933054), ::{ flag=IT }:: [MrSergio](https://osu.ppy.sh/users/2581696) |
 
 ### Lien
 
 - [Page de présentation et résultats](https://osu.ppy.sh/community/forums/topics/754821)
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
-[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

@@ -8,7 +8,7 @@ tags:
 
 ![CFIC 2 logo](img/logo.jpg)
 
-The **Catch French Intermediate Cup 2** (***CFIC 2***) was an intermediate French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). This was the second instalment of the Catch French Intermediate Cup and part of the Catch French Cup series.
+The **Catch French Intermediate Cup 2** (***CFIC 2***) was an intermediate French double-elimination 1v1 osu!catch tournament hosted by ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). This was the second instalment of the Catch French Intermediate Cup and part of the Catch French Cup series.
 
 ## Tournament schedule
 
@@ -37,14 +37,14 @@ The Catch French Intermediate Cup 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Mappool selector | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
-| Referee | ![][flag_FR] [Apsuko](https://osu.ppy.sh/users/9313135), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Streamer | ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Commentator | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
-| Designer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
-| Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Mappool selector | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Referee | ::{ flag=FR }:: [Apsuko](https://osu.ppy.sh/users/9313135), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Streamer | ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
+| Commentator | ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| Designer | ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133) |
+| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -60,19 +60,19 @@ The Catch French Intermediate Cup 2 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428), ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397), ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) |
-| High | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416), ![][flag_FR] [TomyLeFaux](https://osu.ppy.sh/users/9504653), ![][flag_FR] [NoLimitFS](https://osu.ppy.sh/users/10411609), ![][flag_FR] [KillingSpin](https://osu.ppy.sh/users/4073302) |
-| Low | ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141), ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Unseeded | ![][flag_FR] [NinjaCoktail](https://osu.ppy.sh/users/11431902), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
+| Top | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428), ::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397), ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688), ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) |
+| High | ::{ flag=FR }:: [Khalemm](https://osu.ppy.sh/users/11983416), ::{ flag=FR }:: [TomyLeFaux](https://osu.ppy.sh/users/9504653), ::{ flag=FR }:: [NoLimitFS](https://osu.ppy.sh/users/10411609), ::{ flag=FR }:: [KillingSpin](https://osu.ppy.sh/users/4073302) |
+| Low | ::{ flag=FR }:: [Pizu](https://osu.ppy.sh/users/9475990), ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141), ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626), ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| Unseeded | ::{ flag=FR }:: [NinjaCoktail](https://osu.ppy.sh/users/11431902), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
 
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| A | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688) | ![][flag_FR] [KillingSpin](https://osu.ppy.sh/users/4073302) | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| B | ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416) | ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
-| C | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [TomyLeFaux](https://osu.ppy.sh/users/9504653) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) | ![][flag_FR] [NinjaCoktail](https://osu.ppy.sh/users/11431902) |
-| D | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [NoLimitFS](https://osu.ppy.sh/users/10411609) | ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) | ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012) |
+| A | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688) | ::{ flag=FR }:: [KillingSpin](https://osu.ppy.sh/users/4073302) | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
+| B | ::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397) | ::{ flag=FR }:: [Khalemm](https://osu.ppy.sh/users/11983416) | ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141) | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
+| C | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) | ::{ flag=FR }:: [TomyLeFaux](https://osu.ppy.sh/users/9504653) | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) | ::{ flag=FR }:: [NinjaCoktail](https://osu.ppy.sh/users/11431902) |
+| D | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) | ::{ flag=FR }:: [NoLimitFS](https://osu.ppy.sh/users/10411609) | ::{ flag=FR }:: [Pizu](https://osu.ppy.sh/users/9475990) | ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012) |
 
 ## Podium
 
@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) |
 
 ## Mappools
 
@@ -238,7 +238,7 @@ Saturday, 21 March 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fuka Pura** ![][flag_FR] | **7** | 2 | ![][flag_FR] Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/59441101) |
+| **Fuka Pura** ::{ flag=FR }:: | **7** | 2 | ::{ flag=FR }:: Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/59441101) |
 
 ### Finals
 
@@ -246,14 +246,14 @@ Saturday, 14 March 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fuka Pura** ![][flag_FR] | **7** | 1 | ![][flag_FR] dracoV | [#1](https://osu.ppy.sh/community/matches/59186168) |
+| **Fuka Pura** ::{ flag=FR }:: | **7** | 1 | ::{ flag=FR }:: dracoV | [#1](https://osu.ppy.sh/community/matches/59186168) |
 
 Sunday, 15 March 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Dask ![][flag_FR] | 3 | **7** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/59219870) |
-| dracoV ![][flag_FR] | 2 | **7** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/59223133) |
+| Dask ::{ flag=FR }:: | 3 | **7** | ::{ flag=FR }:: **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/59219870) |
+| dracoV ::{ flag=FR }:: | 2 | **7** | ::{ flag=FR }:: **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/59223133) |
 
 ### Semifinals
 
@@ -261,15 +261,15 @@ Saturday, 7 March 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fuka Pura** ![][flag_FR] | **0** | -1 | ![][flag_FR] Electr0o | *win by default* |
+| **Fuka Pura** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Electr0o | *win by default* |
 
 Sunday, 8 March 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Dask ![][flag_FR] | 3 | **6** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/59027737) |
-| Electr0o ![][flag_FR] | -1 | **0** | ![][flag_FR] **Kaleesy Pura** | *win by default* |
-| **Dask** ![][flag_FR] | **6** | 3 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/59029583) |
+| Dask ::{ flag=FR }:: | 3 | **6** | ::{ flag=FR }:: **dracoV** | [#1](https://osu.ppy.sh/community/matches/59027737) |
+| Electr0o ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **Kaleesy Pura** | *win by default* |
+| **Dask** ::{ flag=FR }:: | **6** | 3 | ::{ flag=FR }:: Khalemm | [#1](https://osu.ppy.sh/community/matches/59029583) |
 
 ### Quarterfinals
 
@@ -277,17 +277,17 @@ Saturday, 29 February 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fuka Pura** ![][flag_FR] | **5** | 2 | ![][flag_FR] Pizu | [#1](https://osu.ppy.sh/community/matches/58813792) |
-| **Dask** ![][flag_FR] | **5** | 3 | ![][flag_FR] NinjaCoktail | [#1](https://osu.ppy.sh/community/matches/58816562) |
+| **Fuka Pura** ::{ flag=FR }:: | **5** | 2 | ::{ flag=FR }:: Pizu | [#1](https://osu.ppy.sh/community/matches/58813792) |
+| **Dask** ::{ flag=FR }:: | **5** | 3 | ::{ flag=FR }:: NinjaCoktail | [#1](https://osu.ppy.sh/community/matches/58816562) |
 
 Sunday, 1 March 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Electr0o** ![][flag_FR] | **5** | 2 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/58847129) |
-| **dracoV** ![][flag_FR] | **5** | 4 | ![][flag_FR] Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/58847906) |
-| Pizu ![][flag_FR] | 3 | **5** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58849487) |
-| NinjaCoktail ![][flag_FR] | 1 | **5** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/58851059) |
+| **Electr0o** ::{ flag=FR }:: | **5** | 2 | ::{ flag=FR }:: Khalemm | [#1](https://osu.ppy.sh/community/matches/58847129) |
+| **dracoV** ::{ flag=FR }:: | **5** | 4 | ::{ flag=FR }:: Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/58847906) |
+| Pizu ::{ flag=FR }:: | 3 | **5** | ::{ flag=FR }:: **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58849487) |
+| NinjaCoktail ::{ flag=FR }:: | 1 | **5** | ::{ flag=FR }:: **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/58851059) |
 
 ### Group stage
 
@@ -295,33 +295,33 @@ Saturday, 22 February 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fuka Pura** ![][flag_FR] | **4** | 2 | ![][flag_FR] YANOO123 | [#1](https://osu.ppy.sh/community/matches/58638242) |
-| NoLimitFS ![][flag_FR] | 1 | **4** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/58639370) |
-| redjiii ![][flag_FR] | 0 | 4 | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58640834) |
-| Pizu ![][flag_FR] | 2 | **4** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/58640838) |
-| **YANOO123** ![][flag_FR] | **0** | -1 | ![][flag_FR] KillingSpin | *win by default* |
-| redjiii ![][flag_FR] | 0 | **4** | ![][flag_FR] **Dask** | [#1](https://osu.ppy.sh/community/matches/58642443) |
-| Khalemm ![][flag_FR] | 3 | **4** | ![][flag_FR] **Dask** | [#1](https://osu.ppy.sh/community/matches/58646586) |
+| **Fuka Pura** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: YANOO123 | [#1](https://osu.ppy.sh/community/matches/58638242) |
+| NoLimitFS ::{ flag=FR }:: | 1 | **4** | ::{ flag=FR }:: **dracoV** | [#1](https://osu.ppy.sh/community/matches/58639370) |
+| redjiii ::{ flag=FR }:: | 0 | 4 | ::{ flag=FR }:: **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58640834) |
+| Pizu ::{ flag=FR }:: | 2 | **4** | ::{ flag=FR }:: **dracoV** | [#1](https://osu.ppy.sh/community/matches/58640838) |
+| **YANOO123** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: KillingSpin | *win by default* |
+| redjiii ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Dask** | [#1](https://osu.ppy.sh/community/matches/58642443) |
+| Khalemm ::{ flag=FR }:: | 3 | **4** | ::{ flag=FR }:: **Dask** | [#1](https://osu.ppy.sh/community/matches/58646586) |
 
 Sunday, 23 February 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Oasix ![][flag_FR] | 0 | **4** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/58664569) |
-| TomyLeFaux ![][flag_FR] | -1 | **0** | ![][flag_FR] **Zard** | *win by default* |
-| NinjaCoktail ![][flag_FR] | 1 | **4** | ![][flag_FR] **Electr0o** | [#1](https://osu.ppy.sh/community/matches/58667261) |
-| **Aequo3** ![][flag_FR] | **4** | 1 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/58668747) |
-| **Electr0o** ![][flag_FR] | **4** | 0 | ![][flag_FR] TomyLeFaux | [#1](https://osu.ppy.sh/community/matches/58668672) |
-| Zard ![][flag_FR] | 0 | **4** | ![][flag_FR] **NinjaCoktail** | [#1](https://osu.ppy.sh/community/matches/58669225) |
-| **NinjaCoktail** ![][flag_FR] | **4** | 3 | ![][flag_FR] TomyLeFaux | [#1](https://osu.ppy.sh/community/matches/58670434) |
-| KillingSpin ![][flag_FR] | 2 | **4** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/58670414) |
-| Zard ![][flag_FR] | 1 | **4** | ![][flag_FR] **Electr0o** | [#1](https://osu.ppy.sh/community/matches/58671721) |
-| Aequo3 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Dask** | [#1](https://osu.ppy.sh/community/matches/58671944) |
-| **Fuka Pura** ![][flag_FR] | **4** | 0 | ![][flag_FR] KillingSpin | [#1](https://osu.ppy.sh/community/matches/58671948) |
-| **Kaleesy Pura** ![][flag_FR] | **4** | 1 | ![][flag_FR] YANOO123 | [#1](https://osu.ppy.sh/community/matches/58673378) |
-| Aequo3 ![][flag_FR] | 3 | **4** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58674787) |
-| **Pizu** ![][flag_FR] | **4** | 3 | ![][flag_FR] Oasix | [#1](https://osu.ppy.sh/community/matches/58675943) |
-| Kaleesy Pura ![][flag_FR] | 0 | **4** | ![][flag_FR] **Fuka Pura** | [#1](https://osu.ppy.sh/community/matches/58676378) |
+| Oasix ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **dracoV** | [#1](https://osu.ppy.sh/community/matches/58664569) |
+| TomyLeFaux ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **Zard** | *win by default* |
+| NinjaCoktail ::{ flag=FR }:: | 1 | **4** | ::{ flag=FR }:: **Electr0o** | [#1](https://osu.ppy.sh/community/matches/58667261) |
+| **Aequo3** ::{ flag=FR }:: | **4** | 1 | ::{ flag=FR }:: redjiii | [#1](https://osu.ppy.sh/community/matches/58668747) |
+| **Electr0o** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: TomyLeFaux | [#1](https://osu.ppy.sh/community/matches/58668672) |
+| Zard ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **NinjaCoktail** | [#1](https://osu.ppy.sh/community/matches/58669225) |
+| **NinjaCoktail** ::{ flag=FR }:: | **4** | 3 | ::{ flag=FR }:: TomyLeFaux | [#1](https://osu.ppy.sh/community/matches/58670434) |
+| KillingSpin ::{ flag=FR }:: | 2 | **4** | ::{ flag=FR }:: **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/58670414) |
+| Zard ::{ flag=FR }:: | 1 | **4** | ::{ flag=FR }:: **Electr0o** | [#1](https://osu.ppy.sh/community/matches/58671721) |
+| Aequo3 ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Dask** | [#1](https://osu.ppy.sh/community/matches/58671944) |
+| **Fuka Pura** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: KillingSpin | [#1](https://osu.ppy.sh/community/matches/58671948) |
+| **Kaleesy Pura** ::{ flag=FR }:: | **4** | 1 | ::{ flag=FR }:: YANOO123 | [#1](https://osu.ppy.sh/community/matches/58673378) |
+| Aequo3 ::{ flag=FR }:: | 3 | **4** | ::{ flag=FR }:: **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58674787) |
+| **Pizu** ::{ flag=FR }:: | **4** | 3 | ::{ flag=FR }:: Oasix | [#1](https://osu.ppy.sh/community/matches/58675943) |
+| Kaleesy Pura ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Fuka Pura** | [#1](https://osu.ppy.sh/community/matches/58676378) |
 
 ## Ruleset
 
@@ -351,8 +351,3 @@ Sunday, 23 February 2020:
 2. Quarterfinals: Best of 9 (first to 5 points)
 3. Semifinals: Best of 11 (first to 6 points)
 4. **Finals and Grand Finals**: Best of 13 (first to 7 points)
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"

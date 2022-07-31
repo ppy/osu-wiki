@@ -64,7 +64,6 @@ Certaines fonctionnalités ne sont pas directement liées au site web d'osu!, ma
 
 - [osu-wiki status](https://clayton.cc/osu-wiki-status/fr) : liste des articles par langue, et la catégorie de maintenance qu'ils requièrent (traduction, mise à jour). Voir [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) pour les demandes de fonctionnalités.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin) : un utilitaire Node.js pour les vérifications et les modifications automatisées (liens cassés, mises à jour des groupes d'utilisateurs, remplacement de textes à l'échelle du wiki, etc.)
-- [flag-wiki-osu](https://megaapplepi.github.io/flag-wiki-osu) : ajoute automatiquement les références aux drapeaux mentionnés dans un article. Voir [ppy/osu-wiki#328](https://github.com/ppy/osu-wiki/issues/328) pour les demandes de fonctionnalités.
 
 ## Routines
 

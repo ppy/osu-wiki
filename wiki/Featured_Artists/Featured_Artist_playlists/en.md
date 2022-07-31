@@ -1,18 +1,17 @@
 ---
 tags:
   - FA
-  - FA playlist
 ---
 
 # Featured Artist playlists
 
 Each month, new **Featured Artist playlists** are published in [osu!(lazer)](https://github.com/ppy/osu/releases) highlighting [Featured Artist](/wiki/Featured_Artists) content across all [game modes](/wiki/Game_mode). The playlists avoid a strict format, so playlist parameters, beatmap selections, and prize criteria vary each month.
 
-!["Featured Artist playlist lobby"](img/playlist.jpg "osu!(lazer) Featured Artist playlist lobby")
+![Featured Artist playlist lobby](img/playlist.jpg "osu!(lazer) Featured Artist playlist lobby")
 
 Access the playlists via the **play** menu on osu!(lazer) and filtering by **Featured Artists** in the top right corner.
 
-!["Featured Artist playlist listing"](img/playlist-listing.jpg)
+![Featured Artist playlist listing](img/playlist-listing.jpg)
 
 ## Prizes
 
@@ -25,13 +24,13 @@ Leaders of each Featured Artist playlist are rewarded with mode-specific profile
 ### June 2022
 
 - 8 beatmaps
-- [Hidden (HD)](/wiki/Game_modifier/Hidden) mod required
-- [No Fail (NF)](/wiki/Game_modifier/No_Fail) and [Mirror (MR)](/wiki/Game_modifier/Mirror) freemod options
+- [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden) mod required
+- [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) and [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror) freemod options
 - Prizes rewarded to top 3 players in each playlist
 
 ### July 2022
 
 - 5 beatmaps
 - 15 allowed attempts across all playlist items
-- [Hidden (HD)](/wiki/Game_modifier/Hidden), [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock), [No Fail (NF)](/wiki/Game_modifier/No_Fail) and [Mirror (MR)](/wiki/Game_modifier/Mirror) freemod options
+- [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock), [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) and [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror) freemod options
 - Prizes rewarded to top 0.5% of players in each playlist
