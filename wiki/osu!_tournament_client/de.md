@@ -1,6 +1,6 @@
 # osu!-Turnier-Client
 
-Der **osu!-Turnier-Client** ist der offizielle Client, der [osu!tourney](/wiki/osu!tourney) mit zusätzlichen Kulissen und Informationen ummantelt, die für ein osu!-Turnier während eines Livestreams relevant sind.
+Der **osu!-Turnier-Client** ist der offizielle Client, der [osu!tourney](/wiki/osu!tourney) mit zusätzlichen Szenen und Informationen ummantelt, die für ein osu!-Turnier während eines Livestreams relevant sind.
 
 Nutzer, die Probleme mit dem Client haben, können [auf GitHub ein Issue erstellen](https://github.com/ppy/osu/issues) oder eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh) senden.
 
@@ -34,7 +34,7 @@ In der Turnierkonfiguration können die notwendigen Assets bereitgestellt werden
 
 ## Personalisierung
 
-Der osu!-Turnier-Client kann personalisiert werden mit eigenen Flaggen, Modsymbolen und Videodateien. Diese werden in den entsprechenden Kulissen bei Bedarf angezeigt.
+Der osu!-Turnier-Client kann personalisiert werden mit eigenen Flaggen, Modsymbolen und Videodateien. Diese werden in den entsprechenden Szenen bei Bedarf angezeigt.
 
 ### Flaggen
 
@@ -56,7 +56,7 @@ Modsymbole müssen in `<dein-turnier>/Mods` platziert werden. Die Mods können d
 
 ### Videos
 
-Videos in Schleife können im Hintergrund jeder Kulisse angezeigt werden.
+Videos in Schleife können im Hintergrund jeder Szene angezeigt werden.
 
 Tipp: Der Client dekodiert Videodateien mit Softwaredekodierung, daher kann die Leistung je nach Nutzungsszenario variieren.
 
@@ -68,7 +68,7 @@ Die Dateien müssen die folgenden Vorgaben erfüllen:
 
 Die Videodateien müssen in `<dein-turnier>/Videos` platziert werden und für die korrekte Funktion sind bestimmte Namen erforderlich.
 
-| Kulisse | Datei(en) |
+| Szene | Datei(en) |
 | :-- | :-- |
 | Schedule | `schedule` |
 | TeamIntro | `teamintro` |
