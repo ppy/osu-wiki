@@ -8,7 +8,7 @@ tags:
 
 ![UCUP 2020 logo](img/logo.jpg)
 
-The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-elimination 2v2 osu! tournament hosted by ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773). The tournament was restricted to Indonesian-speaking players only. This was the third instalment of the Ulat Bulu Cup.
+The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773). The tournament was restricted to Indonesian-speaking players only. This was the third instalment of the Ulat Bulu Cup.
 
 ## Tournament schedule
 
@@ -35,14 +35,14 @@ The Ulat Bulu Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) |
-| Co-organizer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) |
-| Mappool selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) |
-| Referee | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275), ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919), ![][flag_ID] [Eg2nD](https://osu.ppy.sh/users/5365662), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Ryuujou](https://osu.ppy.sh/users/3416659), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465) |
-| Caster | ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
-| Designer | ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896) |
-| Statistician | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) |
+| Co-organizer | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174) |
+| Mappool selector | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174), ::{ flag=ID }:: [thefarrel007](https://osu.ppy.sh/users/2429128) |
+| Referee | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=ID }:: [Eg2nD](https://osu.ppy.sh/users/5365662), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302), ::{ flag=ID }:: [Ryuujou](https://osu.ppy.sh/users/3416659), ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465) |
+| Caster | ::{ flag=ID }:: [Alice Pi](https://osu.ppy.sh/users/8787324), ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| Designer | ::{ flag=ID }:: [Nexa-](https://osu.ppy.sh/users/6155896) |
+| Statistician | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174) |
+| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -55,26 +55,26 @@ The Ulat Bulu Cup 2020 was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **(; ･`д･´)** | ![][flag_ID] **[smh](https://osu.ppy.sh/users/1629553)**, ![][flag_ID] [Midwinter](https://osu.ppy.sh/users/9762056), ![][flag_ID] [Medseba](https://osu.ppy.sh/users/9000010) |
-| **A B B C** | ![][flag_ID] **[LLEENN](https://osu.ppy.sh/users/2427901)**, ![][flag_ID] [Skitzor](https://osu.ppy.sh/users/3353314), ![][flag_ID] [atsudan](https://osu.ppy.sh/users/3287169) |
-| **ABC Team** | ![][flag_ID] **[BimCradz](https://osu.ppy.sh/users/13954584)**, ![][flag_ID] [C1M](https://osu.ppy.sh/users/7115775) |
-| **AutisNgopi4Hed** | ![][flag_ID] **[Veltlion](https://osu.ppy.sh/users/10999079)**, ![][flag_ID] [Takagi-chan](https://osu.ppy.sh/users/11379592), ![][flag_ID] [KalosZen](https://osu.ppy.sh/users/11832058) |
-| **awan fanclub** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)**, ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988) |
-| **DARAWET ANJENG** | ![][flag_ID] **[PanTsuArmy](https://osu.ppy.sh/users/9083094)**, ![][flag_ID] [GtaDestroyer](https://osu.ppy.sh/users/3773461), ![][flag_ID] [Mitsuru-](https://osu.ppy.sh/users/8004635) |
-| **Eleftheria** | ![][flag_ID] **[VNtXDDD](https://osu.ppy.sh/users/11320627)**, ![][flag_ID] [Zlotz](https://osu.ppy.sh/users/11191544) |
-| **Em1ruBigDumb** | ![][flag_ID] **[Walfrid](https://osu.ppy.sh/users/6600809)**, ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_SG] [Reset-](https://osu.ppy.sh/users/3850861) |
-| **host toxic ccd** | ![][flag_ID] **[bsbsatria](https://osu.ppy.sh/users/3302610)**, ![][flag_ID] [Azaragi](https://osu.ppy.sh/users/3585384) |
-| **Hulat** | ![][flag_ID] **[fnayR](https://osu.ppy.sh/users/2800253)**, ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827) |
-| **Kowok Gamers** | ![][flag_ID] **[Fayn](https://osu.ppy.sh/users/5390495)**, ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [Rinzler](https://osu.ppy.sh/users/2133381) |
-| **Ibnoob** | ![][flag_ID] **[-Rizie](https://osu.ppy.sh/users/10423227)**, ![][flag_ID] [Freya-](https://osu.ppy.sh/users/10659385), ![][flag_ID] [Grandidierite](https://osu.ppy.sh/users/11976077) |
-| **pemain\_osu2020** | ![][flag_ID] **[RealViolence](https://osu.ppy.sh/users/5638585)**, ![][flag_ID] [Aizu-](https://osu.ppy.sh/users/7074941) |
-| **Press 3 Fs to pay respects** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)**, ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/4917604), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577) |
-| **retards united** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)**, ![][flag_ID] [Caviar-](https://osu.ppy.sh/users/10474988), ![][flag_ID] [Felter](https://osu.ppy.sh/users/5865319) |
-| **SotarksNoJutsu** | ![][flag_ID] **[Splacten](https://osu.ppy.sh/users/10018405)**, ![][flag_ID] [Blue1ST](https://osu.ppy.sh/users/11777312) |
-| **Sumippe's Simp** | ![][flag_ID] **[sumippe](https://osu.ppy.sh/users/1929336)**, ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938), ![][flag_ID] [audreych](https://osu.ppy.sh/users/9181855) |
-| **Tim Ayam** | ![][flag_ID] **[MOMO543959](https://osu.ppy.sh/users/2373484)**, ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677), ![][flag_ID] [liykun](https://osu.ppy.sh/users/9500057) |
-| **terserah** | ![][flag_ID] **[xHirayuki](https://osu.ppy.sh/users/3245206)**, ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) |
-| **WHOMEGALUL** | ![][flag_ID] **[cfood](https://osu.ppy.sh/users/8626190)**, ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633), ![][flag_ID] [LongExistence](https://osu.ppy.sh/users/2380426) |
+| **(; ･`д･´)** | ::{ flag=ID }:: **[smh](https://osu.ppy.sh/users/1629553)**, ::{ flag=ID }:: [Midwinter](https://osu.ppy.sh/users/9762056), ::{ flag=ID }:: [Medseba](https://osu.ppy.sh/users/9000010) |
+| **A B B C** | ::{ flag=ID }:: **[LLEENN](https://osu.ppy.sh/users/2427901)**, ::{ flag=ID }:: [Skitzor](https://osu.ppy.sh/users/3353314), ::{ flag=ID }:: [atsudan](https://osu.ppy.sh/users/3287169) |
+| **ABC Team** | ::{ flag=ID }:: **[BimCradz](https://osu.ppy.sh/users/13954584)**, ::{ flag=ID }:: [C1M](https://osu.ppy.sh/users/7115775) |
+| **AutisNgopi4Hed** | ::{ flag=ID }:: **[Veltlion](https://osu.ppy.sh/users/10999079)**, ::{ flag=ID }:: [Takagi-chan](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [KalosZen](https://osu.ppy.sh/users/11832058) |
+| **awan fanclub** | ::{ flag=ID }:: **[Skydiver](https://osu.ppy.sh/users/4750008)**, ::{ flag=ID }:: [MasterfulNote5](https://osu.ppy.sh/users/7247988) |
+| **DARAWET ANJENG** | ::{ flag=ID }:: **[PanTsuArmy](https://osu.ppy.sh/users/9083094)**, ::{ flag=ID }:: [GtaDestroyer](https://osu.ppy.sh/users/3773461), ::{ flag=ID }:: [Mitsuru-](https://osu.ppy.sh/users/8004635) |
+| **Eleftheria** | ::{ flag=ID }:: **[VNtXDDD](https://osu.ppy.sh/users/11320627)**, ::{ flag=ID }:: [Zlotz](https://osu.ppy.sh/users/11191544) |
+| **Em1ruBigDumb** | ::{ flag=ID }:: **[Walfrid](https://osu.ppy.sh/users/6600809)**, ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490), ::{ flag=SG }:: [Reset-](https://osu.ppy.sh/users/3850861) |
+| **host toxic ccd** | ::{ flag=ID }:: **[bsbsatria](https://osu.ppy.sh/users/3302610)**, ::{ flag=ID }:: [Azaragi](https://osu.ppy.sh/users/3585384) |
+| **Hulat** | ::{ flag=ID }:: **[fnayR](https://osu.ppy.sh/users/2800253)**, ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827) |
+| **Kowok Gamers** | ::{ flag=ID }:: **[Fayn](https://osu.ppy.sh/users/5390495)**, ::{ flag=ID }:: [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ::{ flag=ID }:: [Rinzler](https://osu.ppy.sh/users/2133381) |
+| **Ibnoob** | ::{ flag=ID }:: **[-Rizie](https://osu.ppy.sh/users/10423227)**, ::{ flag=ID }:: [Freya-](https://osu.ppy.sh/users/10659385), ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) |
+| **pemain\_osu2020** | ::{ flag=ID }:: **[RealViolence](https://osu.ppy.sh/users/5638585)**, ::{ flag=ID }:: [Aizu-](https://osu.ppy.sh/users/7074941) |
+| **Press 3 Fs to pay respects** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)**, ::{ flag=ID }:: [\[fry\]](https://osu.ppy.sh/users/4917604), ::{ flag=ID }:: [F4UZ4N](https://osu.ppy.sh/users/11070577) |
+| **retards united** | ::{ flag=ID }:: **[Lifeline](https://osu.ppy.sh/users/11367222)**, ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
+| **SotarksNoJutsu** | ::{ flag=ID }:: **[Splacten](https://osu.ppy.sh/users/10018405)**, ::{ flag=ID }:: [Blue1ST](https://osu.ppy.sh/users/11777312) |
+| **Sumippe's Simp** | ::{ flag=ID }:: **[sumippe](https://osu.ppy.sh/users/1929336)**, ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [audreych](https://osu.ppy.sh/users/9181855) |
+| **Tim Ayam** | ::{ flag=ID }:: **[MOMO543959](https://osu.ppy.sh/users/2373484)**, ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) |
+| **terserah** | ::{ flag=ID }:: **[xHirayuki](https://osu.ppy.sh/users/3245206)**, ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591), ::{ flag=ID }:: [Takaichi](https://osu.ppy.sh/users/909745) |
+| **WHOMEGALUL** | ::{ flag=ID }:: **[cfood](https://osu.ppy.sh/users/8626190)**, ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633), ::{ flag=ID }:: [LongExistence](https://osu.ppy.sh/users/2380426) |
 
 ## Groups
 
@@ -91,9 +91,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **awan fanclub** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Press 3 Fs to pay respects** (![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/4917604), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terserah** (![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **awan fanclub** (::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008), ::{ flag=ID }:: [MasterfulNote5](https://osu.ppy.sh/users/7247988)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Press 3 Fs to pay respects** (::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=ID }:: [\[fry\]](https://osu.ppy.sh/users/4917604), ::{ flag=ID }:: [F4UZ4N](https://osu.ppy.sh/users/11070577)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terserah** (::{ flag=ID }:: [xHirayuki](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591), ::{ flag=ID }:: [Takaichi](https://osu.ppy.sh/users/909745)) |
 
 ## Mappools
 
@@ -454,7 +454,7 @@ Sunday, 14 June 2020:
    - Participant's account must be **6 months old or older.**
    - Participant did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
    - Participant must fill out the provided form.
-   - Participant's flag on their profile must be ![][flag_ID] Indonesia. (Exceptions made if the player can show prove their Indonesian citizenship)
+   - Participant's flag on their profile must be ::{ flag=ID }:: Indonesia. (Exceptions made if the player can show prove their Indonesian citizenship)
    - Participant must be in the [UCUP Discord server](#links) at least during the running of the tournament.
    - The team's maximum average BWS rank is #3,000
      - Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank.
@@ -484,6 +484,3 @@ Sunday, 14 June 2020:
 1. Knockout stage will be held after the results from Group Stage have been determined.
 2. Knockout stage will adopt the double-elimination bracket. This means teams have two chance of losses before getting eliminated.
 3. Banning system is the same referring to the one in the [stage regulations section](#stage-regulations).
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

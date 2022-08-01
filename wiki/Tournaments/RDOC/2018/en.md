@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2018 logo](img/logo.jpg)
 
-The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), and ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138). It was the fourth instalment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742), ::{ flag=DK }:: [Gladand](https://osu.ppy.sh/users/8996506), and ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138). It was the fourth instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -39,14 +39,14 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
-| Mappool selector | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_IL] [Xilver](https://osu.ppy.sh/users/3099689) |
-| Referee | ![][flag_DK] [Anderzs](https://osu.ppy.sh/users/10796791), ![][flag_DK] [ArgetShurtugal](https://osu.ppy.sh/users/4401687), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_DK] [Micropose](https://osu.ppy.sh/users/11140740), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529), ![][flag_RU] [Ultraanus](https://osu.ppy.sh/users/5371851) |
-| Streamer | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380), ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
-| Commentator | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [ravioli boi2004](https://osu.ppy.sh/users/9450032), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469), ![][flag_DK] [Tona](https://osu.ppy.sh/users/2678812), ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
-| Designer | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
-| Wiki editor | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
-| Donator | ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611) |
+| Manager | ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138), ::{ flag=DK }:: [Gladand](https://osu.ppy.sh/users/8996506), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
+| Mappool selector | ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742), ::{ flag=IL }:: [Xilver](https://osu.ppy.sh/users/3099689) |
+| Referee | ::{ flag=DK }:: [Anderzs](https://osu.ppy.sh/users/10796791), ::{ flag=DK }:: [ArgetShurtugal](https://osu.ppy.sh/users/4401687), ::{ flag=DK }:: [Gladand](https://osu.ppy.sh/users/8996506), ::{ flag=DK }:: [MASQQ](https://osu.ppy.sh/users/5351497), ::{ flag=DK }:: [Micropose](https://osu.ppy.sh/users/11140740), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742), ::{ flag=DK }:: [Tenaxzity](https://osu.ppy.sh/users/7395529), ::{ flag=RU }:: [Ultraanus](https://osu.ppy.sh/users/5371851) |
+| Streamer | ::{ flag=MX }:: [Baskest](https://osu.ppy.sh/users/3963408), ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380), ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653) |
+| Commentator | ::{ flag=MX }:: [Baskest](https://osu.ppy.sh/users/3963408), ::{ flag=DK }:: [Gladand](https://osu.ppy.sh/users/8996506), ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380), ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513), ::{ flag=DK }:: [ravioli boi2004](https://osu.ppy.sh/users/9450032), ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469), ::{ flag=DK }:: [Tona](https://osu.ppy.sh/users/2678812), ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653) |
+| Designer | ::{ flag=FI }:: [Micro](https://osu.ppy.sh/users/4801080) |
+| Wiki editor | ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
+| Donator | ::{ flag=DK }:: [Tropians](https://osu.ppy.sh/users/2536611) |
 
 ## Links
 
@@ -60,23 +60,23 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_DK] [Telomere](https://osu.ppy.sh/users/6295380), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469), ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887), ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754), ![][flag_DK] [space potato](https://osu.ppy.sh/users/6545407), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) |
-| High | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653), ![][flag_DK] [Tona](https://osu.ppy.sh/users/2678812), ![][flag_DK] [Katachi](https://osu.ppy.sh/users/5778925), ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254), ![][flag_DK] [ZestorTK](https://osu.ppy.sh/users/6592417), ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589), ![][flag_DK] [RipG](https://osu.ppy.sh/users/2750839), ![][flag_DK] [StevenDANK](https://osu.ppy.sh/users/1729766) |
-| Low | ![][flag_DK] [Lucasion](https://osu.ppy.sh/users/7382672), ![][flag_DK] [Boje](https://osu.ppy.sh/users/5120773), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [_Alex](https://osu.ppy.sh/users/7882154), ![][flag_DK] [Pallerik](https://osu.ppy.sh/users/9303652), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [eLLezH](https://osu.ppy.sh/users/2143311), ![][flag_DK] [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) |
-| Bottom | ![][flag_DK] [Ghost Krillin](https://osu.ppy.sh/users/6913805), ![][flag_DK] [FeelDaTonneh](https://osu.ppy.sh/users/4348782), ![][flag_DK] [Kinety](https://osu.ppy.sh/users/5941273), ![][flag_DK] [Waven7](https://osu.ppy.sh/users/11157036), ![][flag_DK] [seb2110](https://osu.ppy.sh/users/5323224), ![][flag_DK] [Syncopate](https://osu.ppy.sh/users/7232730), ![][flag_DK] [LeDoodeNiss](https://osu.ppy.sh/users/7345263), ![][flag_DK] [sanoJ](https://osu.ppy.sh/users/5385297) |
+| Top | ::{ flag=DK }:: [Telomere](https://osu.ppy.sh/users/6295380), ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469), ::{ flag=DK }:: [raser1234](https://osu.ppy.sh/users/2527887), ::{ flag=DK }:: [Cerkie](https://osu.ppy.sh/users/2533400), ::{ flag=DK }:: [My Aim Zogs](https://osu.ppy.sh/users/3722715), ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754), ::{ flag=DK }:: [space potato](https://osu.ppy.sh/users/6545407), ::{ flag=DK }:: [Zakura](https://osu.ppy.sh/users/3053599) |
+| High | ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653), ::{ flag=DK }:: [Tona](https://osu.ppy.sh/users/2678812), ::{ flag=DK }:: [Katachi](https://osu.ppy.sh/users/5778925), ::{ flag=DK }:: [Lemmen](https://osu.ppy.sh/users/6090254), ::{ flag=DK }:: [ZestorTK](https://osu.ppy.sh/users/6592417), ::{ flag=DK }:: [Contaminate](https://osu.ppy.sh/users/4694589), ::{ flag=DK }:: [RipG](https://osu.ppy.sh/users/2750839), ::{ flag=DK }:: [StevenDANK](https://osu.ppy.sh/users/1729766) |
+| Low | ::{ flag=DK }:: [Lucasion](https://osu.ppy.sh/users/7382672), ::{ flag=DK }:: [Boje](https://osu.ppy.sh/users/5120773), ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513), ::{ flag=DK }:: [_Alex](https://osu.ppy.sh/users/7882154), ::{ flag=DK }:: [Pallerik](https://osu.ppy.sh/users/9303652), ::{ flag=DK }:: [P3RS3X](https://osu.ppy.sh/users/9469362), ::{ flag=DK }:: [eLLezH](https://osu.ppy.sh/users/2143311), ::{ flag=DK }:: [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) |
+| Bottom | ::{ flag=DK }:: [Ghost Krillin](https://osu.ppy.sh/users/6913805), ::{ flag=DK }:: [FeelDaTonneh](https://osu.ppy.sh/users/4348782), ::{ flag=DK }:: [Kinety](https://osu.ppy.sh/users/5941273), ::{ flag=DK }:: [Waven7](https://osu.ppy.sh/users/11157036), ::{ flag=DK }:: [seb2110](https://osu.ppy.sh/users/5323224), ::{ flag=DK }:: [Syncopate](https://osu.ppy.sh/users/7232730), ::{ flag=DK }:: [LeDoodeNiss](https://osu.ppy.sh/users/7345263), ::{ flag=DK }:: [sanoJ](https://osu.ppy.sh/users/5385297) |
 
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Bottom seed |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_DK] [space potato](https://osu.ppy.sh/users/6545407) | ![][flag_DK] [ZestorTK](https://osu.ppy.sh/users/6592417) | ![][flag_DK] [Boje](https://osu.ppy.sh/users/5120773) | ![][flag_DK] [seb2110](https://osu.ppy.sh/users/5323224) |
-| **B** | ![][flag_DK] [Telomere](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) | ![][flag_DK] [_Alex](https://osu.ppy.sh/users/7882154) | ![][flag_DK] [Syncopate](https://osu.ppy.sh/users/7232730) |
-| **C** | ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715) | ![][flag_DK] [StevenDANK](https://osu.ppy.sh/users/1729766) | ![][flag_DK] [Pallerik](https://osu.ppy.sh/users/9303652) | ![][flag_DK] [sanoJ](https://osu.ppy.sh/users/5385297) |
-| **D** | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) | ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589) | ![][flag_DK] [Lucasion](https://osu.ppy.sh/users/7382672) | ![][flag_DK] [FeelDaTonneh](https://osu.ppy.sh/users/4348782) |
-| **E** | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254) | ![][flag_DK] [eLLezH](https://osu.ppy.sh/users/2143311) | ![][flag_DK] [Kinety](https://osu.ppy.sh/users/5941273) |
-| **F** | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Katachi](https://osu.ppy.sh/users/5778925) | ![][flag_DK] [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) | ![][flag_DK] [Waven7](https://osu.ppy.sh/users/11157036) |
-| **G** | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) | ![][flag_DK] [RipG](https://osu.ppy.sh/users/2750839) | ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) | ![][flag_DK] [LeDoodeNiss](https://osu.ppy.sh/users/7345263) |
-| **H** | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) | ![][flag_DK] [Tona](https://osu.ppy.sh/users/2678812) | ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362) | ![][flag_DK] [Ghost Krillin](https://osu.ppy.sh/users/6913805) |
+| **A** | ::{ flag=DK }:: [space potato](https://osu.ppy.sh/users/6545407) | ::{ flag=DK }:: [ZestorTK](https://osu.ppy.sh/users/6592417) | ::{ flag=DK }:: [Boje](https://osu.ppy.sh/users/5120773) | ::{ flag=DK }:: [seb2110](https://osu.ppy.sh/users/5323224) |
+| **B** | ::{ flag=DK }:: [Telomere](https://osu.ppy.sh/users/6295380) | ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653) | ::{ flag=DK }:: [_Alex](https://osu.ppy.sh/users/7882154) | ::{ flag=DK }:: [Syncopate](https://osu.ppy.sh/users/7232730) |
+| **C** | ::{ flag=DK }:: [My Aim Zogs](https://osu.ppy.sh/users/3722715) | ::{ flag=DK }:: [StevenDANK](https://osu.ppy.sh/users/1729766) | ::{ flag=DK }:: [Pallerik](https://osu.ppy.sh/users/9303652) | ::{ flag=DK }:: [sanoJ](https://osu.ppy.sh/users/5385297) |
+| **D** | ::{ flag=DK }:: [Cerkie](https://osu.ppy.sh/users/2533400) | ::{ flag=DK }:: [Contaminate](https://osu.ppy.sh/users/4694589) | ::{ flag=DK }:: [Lucasion](https://osu.ppy.sh/users/7382672) | ::{ flag=DK }:: [FeelDaTonneh](https://osu.ppy.sh/users/4348782) |
+| **E** | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) | ::{ flag=DK }:: [Lemmen](https://osu.ppy.sh/users/6090254) | ::{ flag=DK }:: [eLLezH](https://osu.ppy.sh/users/2143311) | ::{ flag=DK }:: [Kinety](https://osu.ppy.sh/users/5941273) |
+| **F** | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) | ::{ flag=DK }:: [Katachi](https://osu.ppy.sh/users/5778925) | ::{ flag=DK }:: [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) | ::{ flag=DK }:: [Waven7](https://osu.ppy.sh/users/11157036) |
+| **G** | ::{ flag=DK }:: [raser1234](https://osu.ppy.sh/users/2527887) | ::{ flag=DK }:: [RipG](https://osu.ppy.sh/users/2750839) | ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513) | ::{ flag=DK }:: [LeDoodeNiss](https://osu.ppy.sh/users/7345263) |
+| **H** | ::{ flag=DK }:: [Zakura](https://osu.ppy.sh/users/3053599) | ::{ flag=DK }:: [Tona](https://osu.ppy.sh/users/2678812) | ::{ flag=DK }:: [P3RS3X](https://osu.ppy.sh/users/9469362) | ::{ flag=DK }:: [Ghost Krillin](https://osu.ppy.sh/users/6913805) |
 
 ## Podium
 
@@ -84,9 +84,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: [Cerkie](https://osu.ppy.sh/users/2533400) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: [raser1234](https://osu.ppy.sh/users/2527887) |
 
 ## Mappools
 
@@ -260,14 +260,14 @@ Saturday, 27 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Spork Lover** ![][flag_DK] | **7** | 4 | ![][flag_DK] raser1234 |
+| LB | **Spork Lover** ::{ flag=DK }:: | **7** | 4 | ::{ flag=DK }:: raser1234 |
 
 Sunday, 28 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Spork Lover** ![][flag_DK] | **7** | 5 | ![][flag_DK] Cerkie |
-| UB | Cerkie ![][flag_DK] | 2 | **7** | ![][flag_DK] **Spork Lover** |
+| UB | **Spork Lover** ::{ flag=DK }:: | **7** | 5 | ::{ flag=DK }:: Cerkie |
+| UB | Cerkie ::{ flag=DK }:: | 2 | **7** | ::{ flag=DK }:: **Spork Lover** |
 
 ### Finals
 
@@ -275,15 +275,15 @@ Saturday, 20 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Spork Lover** ![][flag_DK] | **6** | 3 | ![][flag_DK] Vandabe |
-| LB | Space Potato ![][flag_DK] | 0 | **6** | ![][flag_DK] **Telomere** |
+| LB | **Spork Lover** ::{ flag=DK }:: | **6** | 3 | ::{ flag=DK }:: Vandabe |
+| LB | Space Potato ::{ flag=DK }:: | 0 | **6** | ::{ flag=DK }:: **Telomere** |
 
 Sunday, 21 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Spork Lover** ![][flag_DK] | **6** | 4 | ![][flag_DK] Telomere |
-| UB | raser1234 ![][flag_DK] | 0 | **6** | ![][flag_DK] **Cerkie** |
+| LB | **Spork Lover** ::{ flag=DK }:: | **6** | 4 | ::{ flag=DK }:: Telomere |
+| UB | raser1234 ::{ flag=DK }:: | 0 | **6** | ::{ flag=DK }:: **Cerkie** |
 
 ### Semifinals
 
@@ -291,34 +291,34 @@ Wednesday, 10 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Telomere** ![][flag_DK] | **6** | 0 | ![][flag_DK] Katachi |
+| LB | **Telomere** ::{ flag=DK }:: | **6** | 0 | ::{ flag=DK }:: Katachi |
 
 Thursday, 11 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **My Aim Zogs** ![][flag_DK] | **6** | 1 | ![][flag_DK] eLLezH |
+| LB | **My Aim Zogs** ::{ flag=DK }:: | **6** | 1 | ::{ flag=DK }:: eLLezH |
 
 Friday, 12 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | Space Potato ![][flag_DK] | 1 | **6** | ![][flag_DK] **raser1234** |
+| UB | Space Potato ::{ flag=DK }:: | 1 | **6** | ::{ flag=DK }:: **raser1234** |
 
 Saturday, 13 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Cerkie** ![][flag_DK] | **6** | 2 | ![][flag_DK] Spork Lover |
-| LB | **Vandabe** ![][flag_DK] | **6** | 0 | ![][flag_DK] Pallerik |
-| LB | Zakura ![][flag_DK] | 0 | **6** | ![][flag_DK] **waefwerf** |
+| UB | **Cerkie** ::{ flag=DK }:: | **6** | 2 | ::{ flag=DK }:: Spork Lover |
+| LB | **Vandabe** ::{ flag=DK }:: | **6** | 0 | ::{ flag=DK }:: Pallerik |
+| LB | Zakura ::{ flag=DK }:: | 0 | **6** | ::{ flag=DK }:: **waefwerf** |
 
 Sunday, 14 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | My Aim Zogs ![][flag_DK] | 4 | **6** | ![][flag_DK] **Vandabe** |
-| LB | waefwerf ![][flag_DK] | 3 | **6** | ![][flag_DK] **Telomere** |
+| LB | My Aim Zogs ::{ flag=DK }:: | 4 | **6** | ::{ flag=DK }:: **Vandabe** |
+| LB | waefwerf ::{ flag=DK }:: | 3 | **6** | ::{ flag=DK }:: **Telomere** |
 
 ### Quarterfinals
 
@@ -326,24 +326,24 @@ Thursday, 4 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **waefwerf** ![][flag_DK] | **6** | 0 | ![][flag_DK] Contaminate |
+| LB | **waefwerf** ::{ flag=DK }:: | **6** | 0 | ::{ flag=DK }:: Contaminate |
 
 Saturday, 6 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | My Aim Zogs ![][flag_DK] | 0 | **6** | ![][flag_DK] **Space Potato** |
-| UB | Vandabe ![][flag_DK] | 1 | **6** | ![][flag_DK] **raser1234** |
-| UB | Zakura ![][flag_DK] | 0 | **6** | ![][flag_DK] **Spork Lover** |
+| UB | My Aim Zogs ::{ flag=DK }:: | 0 | **6** | ::{ flag=DK }:: **Space Potato** |
+| UB | Vandabe ::{ flag=DK }:: | 1 | **6** | ::{ flag=DK }:: **raser1234** |
+| UB | Zakura ::{ flag=DK }:: | 0 | **6** | ::{ flag=DK }:: **Spork Lover** |
 
 Sunday, 7 October 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Cerkie** ![][flag_DK] | **6** | 3 | ![][flag_DK] Telomere |
-| LB | Boje ![][flag_DK] | 5 | **6** | ![][flag_DK] **Pallerik** |
-| LB | **eLLezH** ![][flag_DK] | **6** | 0 | ![][flag_DK] RipG |
-| LB | **Katachi** ![][flag_DK] | **6** | 2 | ![][flag_DK] Tona |
+| UB | **Cerkie** ::{ flag=DK }:: | **6** | 3 | ::{ flag=DK }:: Telomere |
+| LB | Boje ::{ flag=DK }:: | 5 | **6** | ::{ flag=DK }:: **Pallerik** |
+| LB | **eLLezH** ::{ flag=DK }:: | **6** | 0 | ::{ flag=DK }:: RipG |
+| LB | **Katachi** ::{ flag=DK }:: | **6** | 2 | ::{ flag=DK }:: Tona |
 
 ### Round of 16
 
@@ -351,19 +351,19 @@ Saturday, 29 September 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Space Potato** ![][flag_DK] | **5** | 2 | ![][flag_DK] waefwerf |
-| UB | **My Aim Zogs** ![][flag_DK] | **5** | 0 | ![][flag_DK] Contaminate |
-| UB | **Vandabe** ![][flag_DK] | **5** | 1 | ![][flag_DK] Katachi |
-| UB | Pallerik ![][flag_DK] | 0 | **5** | ![][flag_DK] **Cerkie** |
+| UB | **Space Potato** ::{ flag=DK }:: | **5** | 2 | ::{ flag=DK }:: waefwerf |
+| UB | **My Aim Zogs** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: Contaminate |
+| UB | **Vandabe** ::{ flag=DK }:: | **5** | 1 | ::{ flag=DK }:: Katachi |
+| UB | Pallerik ::{ flag=DK }:: | 0 | **5** | ::{ flag=DK }:: **Cerkie** |
 
 Sunday, 30 September 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | Boje ![][flag_DK] | 1 | **5** | ![][flag_DK] **Telomere** |
-| UB | eLLezH ![][flag_DK] | 1 | **5** | ![][flag_DK] **Spork Lover** |
-| UB | **raser1234** ![][flag_DK] | **5** | 0 | ![][flag_DK] Tona |
-| UB | RipG ![][flag_DK] | 0 | **5** | ![][flag_DK] **Zakura** |
+| UB | Boje ::{ flag=DK }:: | 1 | **5** | ::{ flag=DK }:: **Telomere** |
+| UB | eLLezH ::{ flag=DK }:: | 1 | **5** | ::{ flag=DK }:: **Spork Lover** |
+| UB | **raser1234** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: Tona |
+| UB | RipG ::{ flag=DK }:: | 0 | **5** | ::{ flag=DK }:: **Zakura** |
 
 ### Group stage
 
@@ -371,75 +371,75 @@ Saturday, 15 September 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| A | **Boje** ![][flag_DK] | **4** | 0 | ![][flag_DK] ZestorTK |
-| A | **Space Potato** ![][flag_DK] | **4** | 0 | ![][flag_DK] ZestorTK |
-| A | **seb2110** ![][flag_DK] | **4** | 2 | ![][flag_DK] ZestorTK |
-| A | **Space Potato** ![][flag_DK] | **4** | 0 | ![][flag_DK] seb2110 |
-| A | **Boje** ![][flag_DK] | **4** | 1 | ![][flag_DK] seb2110 |
-| A | Boje ![][flag_DK] | 0 | **4** | ![][flag_DK] **Space Potato** |
-| E | **eLLezH** ![][flag_DK] | **4** | 1 | ![][flag_DK] Lemmen |
-| E | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lemmen |
-| F | \[THEDUCK\] ![][flag_DK] | 1 | **4** | ![][flag_DK] **Katachi** |
-| F | **Spork Lover** ![][flag_DK] | **4** | 0 | ![][flag_DK] Waven7 |
-| F | Katachi ![][flag_DK] | 0 | **4** | ![][flag_DK] **Spork Lover** |
-| F | **Waven7** ![][flag_DK] | **4** | 1 | ![][flag_DK] \[THEDUCK\] |
-| F | **Katachi** ![][flag_DK] | **4** | 0 | ![][flag_DK] Waven7 |
-| F | **Spork Lover** ![][flag_DK] | **4** | 0 | ![][flag_DK] \[THEDUCK\] |
+| A | **Boje** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: ZestorTK |
+| A | **Space Potato** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: ZestorTK |
+| A | **seb2110** ::{ flag=DK }:: | **4** | 2 | ::{ flag=DK }:: ZestorTK |
+| A | **Space Potato** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: seb2110 |
+| A | **Boje** ::{ flag=DK }:: | **4** | 1 | ::{ flag=DK }:: seb2110 |
+| A | Boje ::{ flag=DK }:: | 0 | **4** | ::{ flag=DK }:: **Space Potato** |
+| E | **eLLezH** ::{ flag=DK }:: | **4** | 1 | ::{ flag=DK }:: Lemmen |
+| E | **Vandabe** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Lemmen |
+| F | \[THEDUCK\] ::{ flag=DK }:: | 1 | **4** | ::{ flag=DK }:: **Katachi** |
+| F | **Spork Lover** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Waven7 |
+| F | Katachi ::{ flag=DK }:: | 0 | **4** | ::{ flag=DK }:: **Spork Lover** |
+| F | **Waven7** ::{ flag=DK }:: | **4** | 1 | ::{ flag=DK }:: \[THEDUCK\] |
+| F | **Katachi** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Waven7 |
+| F | **Spork Lover** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: \[THEDUCK\] |
 
 Sunday, 16 September 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| G | **RipG** ![][flag_DK] | **4** | 3 | ![][flag_DK] Power Supply |
-| G | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] RipG |
-| G | **RipG** ![][flag_DK] | **4** | 2 | ![][flag_DK] LeDoodeNiss |
-| G | LeDoodeNiss ![][flag_DK] | 0 | **4** | ![][flag_DK] **raser1234** |
-| G | **Power Supply** ![][flag_DK] | **4** | 0 | ![][flag_DK] LeDoodeNiss |
-| G | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] Power Supply |
-| E | **Kinety** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lemmen |
-| H | ravioli boi2004 ![][flag_DK] | 0 | **4** | ![][flag_DK] **Tona** |
-| H | **Zakura** ![][flag_DK] | **4** | 0 | ![][flag_DK] Tona |
-| H | **Tona** ![][flag_DK] | **4** | 0 | ![][flag_DK] Ghost Krillin |
-| H | **Ghost Krillin** ![][flag_DK] | **4** | 0 | ![][flag_DK] Zakura |
-| H | **ravioli boi2004** ![][flag_DK] | **4** | 0 | ![][flag_DK] Ghost Krillin |
-| H | **Zakura** ![][flag_DK] | **4** | 0 | ![][flag_DK] ravioli boi2004 |
-| B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] Syncopate |
-| B | waefwerf ![][flag_DK] | 3 | **4** | ![][flag_DK] **Telomere** |
+| G | **RipG** ::{ flag=DK }:: | **4** | 3 | ::{ flag=DK }:: Power Supply |
+| G | **raser1234** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: RipG |
+| G | **RipG** ::{ flag=DK }:: | **4** | 2 | ::{ flag=DK }:: LeDoodeNiss |
+| G | LeDoodeNiss ::{ flag=DK }:: | 0 | **4** | ::{ flag=DK }:: **raser1234** |
+| G | **Power Supply** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: LeDoodeNiss |
+| G | **raser1234** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Power Supply |
+| E | **Kinety** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Lemmen |
+| H | ravioli boi2004 ::{ flag=DK }:: | 0 | **4** | ::{ flag=DK }:: **Tona** |
+| H | **Zakura** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Tona |
+| H | **Tona** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Ghost Krillin |
+| H | **Ghost Krillin** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Zakura |
+| H | **ravioli boi2004** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Ghost Krillin |
+| H | **Zakura** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: ravioli boi2004 |
+| B | **waefwerf** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Syncopate |
+| B | waefwerf ::{ flag=DK }:: | 3 | **4** | ::{ flag=DK }:: **Telomere** |
 
 Saturday, 22 September 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
-| C | Pallerik ![][flag_DK] | 0 | **4** | ![][flag_DK] **My Aim Zogs** |
-| E | eLLezH ![][flag_DK] | 1 | **4** | ![][flag_DK] **Vandabe** |
-| D | **Cerkie** ![][flag_DK] | **4** | 0 | ![][flag_DK] Contaminate |
-| D | FeelDaTonneh ![][flag_DK] | 2 | **4** | ![][flag_DK] **Cerkie-** |
-| E | Kinety ![][flag_DK] | 2 | **4** | ![][flag_DK] **eLLezH** |
-| D | FeelDaTonneh ![][flag_DK] | 1 | **4** | ![][flag_DK] **Contaminate** |
+| B | **waefwerf** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: \_Alex |
+| C | Pallerik ::{ flag=DK }:: | 0 | **4** | ::{ flag=DK }:: **My Aim Zogs** |
+| E | eLLezH ::{ flag=DK }:: | 1 | **4** | ::{ flag=DK }:: **Vandabe** |
+| D | **Cerkie** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Contaminate |
+| D | FeelDaTonneh ::{ flag=DK }:: | 2 | **4** | ::{ flag=DK }:: **Cerkie-** |
+| E | Kinety ::{ flag=DK }:: | 2 | **4** | ::{ flag=DK }:: **eLLezH** |
+| D | FeelDaTonneh ::{ flag=DK }:: | 1 | **4** | ::{ flag=DK }:: **Contaminate** |
 
 Sunday, 23 September 2018:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| B | **Syncopate** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
-| E | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Kinety |
-| D | **Cerkie** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lucasion |
-| B | **Telomere** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
-| C | StevenDANK ![][flag_DK] | 0 | **4** | ![][flag_DK] **My Aim Zogs** |
-| B | **Telomere** ![][flag_DK] | **4** | 1 | ![][flag_DK] Syncopate |
-| C | sanoJ ![][flag_DK] | 0 | **4** | ![][flag_DK] **My Aim Zogs** |
-| C | **Pallerik** ![][flag_DK] | **4** | 3 | ![][flag_DK] StevenDANK |
-| C | **Pallerik** ![][flag_DK] | **4** | 1 | ![][flag_DK] sanoJ |
-| C | **StevenDANK** ![][flag_DK] | **4** | 0 | ![][flag_DK] sanoJ |
-| D | **Contaminate** ![][flag_DK] | **4** | 2 | ![][flag_DK] Lucasion |
-| D | **Lucasion** ![][flag_DK] | **4** | 0 | ![][flag_DK] FeelDaTonneh |
+| B | **Syncopate** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: \_Alex |
+| E | **Vandabe** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Kinety |
+| D | **Cerkie** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Lucasion |
+| B | **Telomere** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: \_Alex |
+| C | StevenDANK ::{ flag=DK }:: | 0 | **4** | ::{ flag=DK }:: **My Aim Zogs** |
+| B | **Telomere** ::{ flag=DK }:: | **4** | 1 | ::{ flag=DK }:: Syncopate |
+| C | sanoJ ::{ flag=DK }:: | 0 | **4** | ::{ flag=DK }:: **My Aim Zogs** |
+| C | **Pallerik** ::{ flag=DK }:: | **4** | 3 | ::{ flag=DK }:: StevenDANK |
+| C | **Pallerik** ::{ flag=DK }:: | **4** | 1 | ::{ flag=DK }:: sanoJ |
+| C | **StevenDANK** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: sanoJ |
+| D | **Contaminate** ::{ flag=DK }:: | **4** | 2 | ::{ flag=DK }:: Lucasion |
+| D | **Lucasion** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: FeelDaTonneh |
 
 ## Ruleset
 
 ### General rules
 
-1. Only users in the Kingdom of Denmark can enter. This is determined by the profile-flag on a player's userpage (Eg. a player with either of these flags is eligible to participate: ![][flag_DK], ![][flag_FO], ![][flag_GL])
+1. Only users in the Kingdom of Denmark can enter. This is determined by the profile-flag on a player's userpage (Eg. a player with either of these flags is eligible to participate: ::{ flag=DK }::, ::{ flag=FO }::, ::{ flag=GL }::)
 2. This tournament uses a double-elimination bracket and single-player format. There are no teams here.
 3. The score system used will be **Score V2**.
 4. To participate you **must** join the Discord for the duration of the tournament.
@@ -491,11 +491,3 @@ Sunday, 23 September 2018:
 2. Matches are allowed to overlap if referees are available.
 3. Players must complete their match at the designated time or both players are eliminated.
 4. However if both players can come up with a better time than what we have scheduled for them, please inform the organizers for a reschedule. Organizers will rearrange the match if they are informed before Thursday of the week the match is to be played and a referee is available.
-
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FO]: /wiki/shared/flag/FO.gif "Faroe Islands"
-[flag_GL]: /wiki/shared/flag/GL.gif "Greenland"
-[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"

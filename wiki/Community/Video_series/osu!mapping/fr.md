@@ -16,7 +16,7 @@ tags:
 
 *À ne pas confondre avec : [Beatmapping](/wiki/Beatmapping).*
 
-l'**osu!mapping** est une série de vidéos hebdomadaires créée par ![](/wiki/shared/flag/US.gif) **[pishifat](https://osu.ppy.sh/users/3178418)** à propos de l'écosystème du [mapping](/wiki/Beatmapping) et du [modding](/wiki/Modding). Ces vidéos peuvent être retrouvées sur [la chaîne YouTube de pishifat](https://www.youtube.com/user/Pishifat). La grande majorité de la communauté connaît ces vidéos sous le nom de "pishifat videos" ou "pishi videos".
+l'**osu!mapping** est une série de vidéos hebdomadaires créée par ::{ flag=US }:: **[pishifat](https://osu.ppy.sh/users/3178418)** à propos de l'écosystème du [mapping](/wiki/Beatmapping) et du [modding](/wiki/Modding). Ces vidéos peuvent être retrouvées sur [la chaîne YouTube de pishifat](https://www.youtube.com/user/Pishifat). La grande majorité de la communauté connaît ces vidéos sous le nom de "pishifat videos" ou "pishi videos".
 
 La série est devenue si réputée dans la communauté d'osu! qu'elle est devenue une ressource généralement recommandée aux nouveaux mappeurs. [L'équipe d'osu!](/wiki/People/The_Team) a récompensé pishifat du badge [Community Contributors](/wiki/People/Community_Contributors) pour sa "performance exemplaire dans la construction et l'éducation autour du domaine du mapping" en remerciement de ses efforts investis dans ce projet.
 

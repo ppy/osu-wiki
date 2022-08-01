@@ -8,7 +8,7 @@ tags:
 
 ![Logo IDTS](img/logo.png)
 
-**Indonesian Taiko Showdown** (***IDTS***) adalah turnamen eliminasi ganda satu-lawan-satu, mode osu!taiko regional Indonesia, yang diselenggarakan oleh ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002). Kali ini merupakan instalasi ke-1 dari turnamen Asian Taiko Showdown Taiko Showdown.
+**Indonesian Taiko Showdown** (***IDTS***) adalah turnamen eliminasi ganda satu-lawan-satu, mode osu!taiko regional Indonesia, yang diselenggarakan oleh ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002). Kali ini merupakan instalasi ke-1 dari turnamen Asian Taiko Showdown Taiko Showdown.
 
 ## Jadwal Turnamen
 
@@ -37,14 +37,14 @@ Indonesian Taiko Showdown dapat berlangsung dikarenakan berbagai anggota komunit
 
 | Posisi | Anggota |
 | :-- | :-- |
-| Penyelenggara | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206) |
-| Pemilih Map | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) |
-| Penyiar | ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Komentator | ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_ID] [ganjas62](https://osu.ppy.sh/users/934685), ![][flag_ID] [Kayano-](https://osu.ppy.sh/users/4999506), ![][flag_ID] [Wim Are](https://osu.ppy.sh/users/4505744) |
-| Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Wasit | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_ID] [LittleBird-](https://osu.ppy.sh/users/6668671), ![][flag_ID] [MRaihanZ](https://osu.ppy.sh/users/6668671), ![][flag_ID] [Etherealize](https://osu.ppy.sh/users/7850608), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_ID] [Aozora-](https://osu.ppy.sh/users/6918206) |
-| Ahli Statistik | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Penyelenggara | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=ID }:: [Aozora-](https://osu.ppy.sh/users/6918206) |
+| Pemilih Map | ::{ flag=ID }:: [Niko-nyan](https://osu.ppy.sh/users/906991) |
+| Penyiar | ::{ flag=JP }:: [SakuraFrost-](https://osu.ppy.sh/users/8147993), ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Komentator | ::{ flag=ID }:: [Guardistack-](https://osu.ppy.sh/users/1602428), ::{ flag=ID }:: [ganjas62](https://osu.ppy.sh/users/934685), ::{ flag=ID }:: [Kayano-](https://osu.ppy.sh/users/4999506), ::{ flag=ID }:: [Wim Are](https://osu.ppy.sh/users/4505744) |
+| Designer | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wasit | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=ID }:: [LittleBird-](https://osu.ppy.sh/users/6668671), ::{ flag=ID }:: [MRaihanZ](https://osu.ppy.sh/users/6668671), ::{ flag=ID }:: [Etherealize](https://osu.ppy.sh/users/7850608), ::{ flag=ID }:: [Niko-nyan](https://osu.ppy.sh/users/906991), ::{ flag=ID }:: [Aozora-](https://osu.ppy.sh/users/6918206) |
+| Ahli Statistik | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Tautan
 
@@ -57,17 +57,17 @@ Indonesian Taiko Showdown dapat berlangsung dikarenakan berbagai anggota komunit
 
 | Seed | Anggota |
 | :-- | :-- |
-| Top | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885), ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768), ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209), ![][flag_ID] [Katdon\_donKat](https://osu.ppy.sh/users/8089664), ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ![][flag_ID] [misaki\_tk](https://osu.ppy.sh/users/3866964), ![][flag_ID] [steven1](https://osu.ppy.sh/users/3090416), ![][flag_ID] [Surono](https://osu.ppy.sh/users/3611370) |
-| High | ![][flag_ID] [Koucha-](https://osu.ppy.sh/users/2537412), ![][flag_ID] [\_Destroyer\_](https://osu.ppy.sh/users/3185598), ![][flag_ID] [Plua-](https://osu.ppy.sh/users/974012), ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957), ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845), ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071), ![][flag_ID] [Wim Are](https://osu.ppy.sh/users/4505744), ![][flag_ID] [Kayano-](https://osu.ppy.sh/users/4999506) |
-| Low | ![][flag_ID] [Rendang](https://osu.ppy.sh/users/3866968), ![][flag_ID] [Kzl](https://osu.ppy.sh/users/7058490), ![][flag_ID] [Franklin\_DeJavu](https://osu.ppy.sh/users/5569341), ![][flag_ID] [sweetbravery](https://osu.ppy.sh/users/6807808), ![][flag_ID] Elisabeth-, ![][flag_ID] [\_CaKy\_](https://osu.ppy.sh/users/9828983), ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136), ![][flag_ID] [pingping2011](https://osu.ppy.sh/users/1094255) |
+| Top | ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885), ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209), ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664), ::{ flag=ID }:: [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ::{ flag=ID }:: [misaki\_tk](https://osu.ppy.sh/users/3866964), ::{ flag=ID }:: [steven1](https://osu.ppy.sh/users/3090416), ::{ flag=ID }:: [Surono](https://osu.ppy.sh/users/3611370) |
+| High | ::{ flag=ID }:: [Koucha-](https://osu.ppy.sh/users/2537412), ::{ flag=ID }:: [\_Destroyer\_](https://osu.ppy.sh/users/3185598), ::{ flag=ID }:: [Plua-](https://osu.ppy.sh/users/974012), ::{ flag=ID }:: [ayomikasa](https://osu.ppy.sh/users/4866957), ::{ flag=ID }:: [Shirai-](https://osu.ppy.sh/users/4221845), ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071), ::{ flag=ID }:: [Wim Are](https://osu.ppy.sh/users/4505744), ::{ flag=ID }:: [Kayano-](https://osu.ppy.sh/users/4999506) |
+| Low | ::{ flag=ID }:: [Rendang](https://osu.ppy.sh/users/3866968), ::{ flag=ID }:: [Kzl](https://osu.ppy.sh/users/7058490), ::{ flag=ID }:: [Franklin\_DeJavu](https://osu.ppy.sh/users/5569341), ::{ flag=ID }:: [sweetbravery](https://osu.ppy.sh/users/6807808), ::{ flag=ID }:: Elisabeth-, ::{ flag=ID }:: [\_CaKy\_](https://osu.ppy.sh/users/9828983), ::{ flag=ID }:: [Buyut](https://osu.ppy.sh/users/9608136), ::{ flag=ID }:: [pingping2011](https://osu.ppy.sh/users/1094255) |
 
 ## Grup
 
 | Grup A | Grup B | Grup C | Grup D | Grup E | Grup F | Grup G | Grup H |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| ![][flag_ID] [Surono](https://osu.ppy.sh/users/3611370) | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) | ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122) | ![][flag_ID] [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ![][flag_ID] [misaki\_tk](https://osu.ppy.sh/users/3866964) | ![][flag_ID] [steven1](https://osu.ppy.sh/users/3090416) | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) |
-| ![][flag_ID] [Wim Are](https://osu.ppy.sh/users/4505744) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Koucha-](https://osu.ppy.sh/users/2537412) | ![][flag_ID] [Plua-](https://osu.ppy.sh/users/974012) | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | ![][flag_ID] [\_Destroyer\_](https://osu.ppy.sh/users/3185598) | ![][flag_ID] [Kayano-](https://osu.ppy.sh/users/4999506) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) |
-| ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) | ![][flag_ID] [Kzl](https://osu.ppy.sh/users/7058490) | ![][flag_ID] [pingping2011](https://osu.ppy.sh/users/1094255) | ![][flag_ID] [sweetbravery](https://osu.ppy.sh/users/6807808) | ![][flag_ID] Elisabeth- | ![][flag_ID] [Rendang](https://osu.ppy.sh/users/3866968) | ![][flag_ID] [\_CaKy\_](https://osu.ppy.sh/users/9828983) | ![][flag_ID] [Franklin\_DeJavu](https://osu.ppy.sh/users/5569341) |
+| ::{ flag=ID }:: [Surono](https://osu.ppy.sh/users/3611370) | ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) | ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768) | ::{ flag=ID }:: [Lightning Wyvern](https://osu.ppy.sh/users/1533122) | ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ::{ flag=ID }:: [misaki\_tk](https://osu.ppy.sh/users/3866964) | ::{ flag=ID }:: [steven1](https://osu.ppy.sh/users/3090416) | ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885) |
+| ::{ flag=ID }:: [Wim Are](https://osu.ppy.sh/users/4505744) | ::{ flag=ID }:: [ayomikasa](https://osu.ppy.sh/users/4866957) | ::{ flag=ID }:: [Koucha-](https://osu.ppy.sh/users/2537412) | ::{ flag=ID }:: [Plua-](https://osu.ppy.sh/users/974012) | ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071) | ::{ flag=ID }:: [\_Destroyer\_](https://osu.ppy.sh/users/3185598) | ::{ flag=ID }:: [Kayano-](https://osu.ppy.sh/users/4999506) | ::{ flag=ID }:: [Shirai-](https://osu.ppy.sh/users/4221845) |
+| ::{ flag=ID }:: [Buyut](https://osu.ppy.sh/users/9608136) | ::{ flag=ID }:: [Kzl](https://osu.ppy.sh/users/7058490) | ::{ flag=ID }:: [pingping2011](https://osu.ppy.sh/users/1094255) | ::{ flag=ID }:: [sweetbravery](https://osu.ppy.sh/users/6807808) | ::{ flag=ID }:: Elisabeth- | ::{ flag=ID }:: [Rendang](https://osu.ppy.sh/users/3866968) | ::{ flag=ID }:: [\_CaKy\_](https://osu.ppy.sh/users/9828983) | ::{ flag=ID }:: [Franklin\_DeJavu](https://osu.ppy.sh/users/5569341) |
 
 ## Podium
 
@@ -75,9 +75,9 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 | Posisi | Pemain |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara satu") | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
-| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara dua") | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) |
-| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara tiga") | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara satu") | ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) |
+| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara dua") | ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885) |
+| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara tiga") | ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768) |
 
 ## Mappools
 
@@ -224,101 +224,101 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 | Minggu, 2017-06-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| XK2238 ![][flag_ID] | 6 | **7** | ![][flag_ID] **pmriva** | [#1](https://osu.ppy.sh/community/matches/33778864) |
-| pmriva ![][flag_ID] | 5 | **7** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/33785221) |
+| XK2238 ::{ flag=ID }:: | 6 | **7** | ::{ flag=ID }:: **pmriva** | [#1](https://osu.ppy.sh/community/matches/33778864) |
+| pmriva ::{ flag=ID }:: | 5 | **7** | ::{ flag=ID }:: **XK2238** | [#1](https://osu.ppy.sh/community/matches/33785221) |
 
 ### Final
 
 | Sabtu, 2017-06-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Katdon\_donKat** ![][flag_ID] | **6** | 2 | ![][flag_ID] steven1 | [#1](https://osu.ppy.sh/community/matches/33568382) |
-| pmriva ![][flag_ID] | 3 | **6** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/33600406) |
+| **Katdon\_donKat** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: steven1 | [#1](https://osu.ppy.sh/community/matches/33568382) |
+| pmriva ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **XK2238** | [#1](https://osu.ppy.sh/community/matches/33600406) |
 
 | Minggu, 2017-06-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Nishizumi ![][flag_ID] | **6** | 0 | ![][flag_ID] Shirai- | [#1](https://osu.ppy.sh/community/matches/33619870) |
-| Katdon\_donKat ![][flag_ID] | 1 | **6** | ![][flag_ID] **Nishizumi** | [#1](https://osu.ppy.sh/community/matches/33621267) |
-| **pmriva** ![][flag_ID] | **6** | 2 | ![][flag_ID] Nishizumi | [#1](https://osu.ppy.sh/community/matches/33626414) |
+| Nishizumi ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: Shirai- | [#1](https://osu.ppy.sh/community/matches/33619870) |
+| Katdon\_donKat ::{ flag=ID }:: | 1 | **6** | ::{ flag=ID }:: **Nishizumi** | [#1](https://osu.ppy.sh/community/matches/33621267) |
+| **pmriva** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: Nishizumi | [#1](https://osu.ppy.sh/community/matches/33626414) |
 
 ### Semifinal
 
 | Sabtu, 2017-05-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Lightning Wyvern** ![][flag_ID] | **6** | 3 | ![][flag_ID] Plua- | [#1](https://osu.ppy.sh/community/matches/33439416) |
-| Katdon\_donKat ![][flag_ID] | 1 | **6** | ![][flag_ID] **XK2238** | [#1](https://osu.ppy.sh/community/matches/33440128) |
-| \_Destroyer\_ ![][flag_ID] | 4 | **6** | ![][flag_ID] **misaki\_tk** | [#1](https://osu.ppy.sh/community/matches/33440300) |
-| pmriva ![][flag_ID] | **6** | 5 | ![][flag_ID] Nishizumi | [#1](https://osu.ppy.sh/community/matches/33445446) |
+| **Lightning Wyvern** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: Plua- | [#1](https://osu.ppy.sh/community/matches/33439416) |
+| Katdon\_donKat ::{ flag=ID }:: | 1 | **6** | ::{ flag=ID }:: **XK2238** | [#1](https://osu.ppy.sh/community/matches/33440128) |
+| \_Destroyer\_ ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **misaki\_tk** | [#1](https://osu.ppy.sh/community/matches/33440300) |
+| pmriva ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: Nishizumi | [#1](https://osu.ppy.sh/community/matches/33445446) |
 
 | Minggu, 2017-05-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Shirai-** ![][flag_ID] | **6** | 3 | ![][flag_ID] Kayano- | [#1](https://osu.ppy.sh/community/matches/33414275) |
-| ayomikasa ![][flag_ID] | 1 | **6** | ![][flag_ID] **steven1** | [#1](https://osu.ppy.sh/community/matches/33464233) |
-| Lightning Wyvern ![][flag_ID] | 5 | **6** | ![][flag_ID] **steven1** | [#1](https://osu.ppy.sh/community/matches/33465076) |
-| **Shirai**- ![][flag_ID] | **6** | 4 | ![][flag_ID] misaki\_tk | [#1](https://osu.ppy.sh/community/matches/33465609) |
+| **Shirai-** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: Kayano- | [#1](https://osu.ppy.sh/community/matches/33414275) |
+| ayomikasa ::{ flag=ID }:: | 1 | **6** | ::{ flag=ID }:: **steven1** | [#1](https://osu.ppy.sh/community/matches/33464233) |
+| Lightning Wyvern ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **steven1** | [#1](https://osu.ppy.sh/community/matches/33465076) |
+| **Shirai**- ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: misaki\_tk | [#1](https://osu.ppy.sh/community/matches/33465609) |
 
 ### Perempat Final
 
 | Sabtu, 2017-05-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Katdon\_donKat** ![][flag_ID] | **5** | 1 | ![][flag_ID] \_Destroyer\_ | [#1](https://osu.ppy.sh/community/matches/33286726) |
-| **steven1** ![][flag_ID] | **5** | 0 | ![][flag_ID] Buyut | -win by default- |
-| **Nishizumi** ![][flag_ID] | **5** | 0 | ![][flag_ID] Lightning Wyvern | [#1](https://osu.ppy.sh/community/matches/33289527) |
+| **Katdon\_donKat** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: \_Destroyer\_ | [#1](https://osu.ppy.sh/community/matches/33286726) |
+| **steven1** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Buyut | -win by default- |
+| **Nishizumi** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Lightning Wyvern | [#1](https://osu.ppy.sh/community/matches/33289527) |
 
 | Minggu, 2017-05-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Plua-** ![][flag_ID] | **5** | 3 | ![][flag_ID] Koucha- | [#1](https://osu.ppy.sh/community/matches/33315503) |
-| **XK2238** ![][flag_ID] | **5** | 1 | ![][flag_ID] Shirai- | [#1](https://osu.ppy.sh/community/matches/33316897) |
-| **misaki\_tk** ![][flag_ID] | **5** | 0 | ![][flag_ID] Volta | -win by default- |
-| **pmriva** ![][flag_ID] | **5** | 1 | ![][flag_ID] ayomikasa | [#1](https://osu.ppy.sh/community/matches/33317007) |
-| Wim Are ![][flag_ID] | 3 | **5** | ![][flag_ID] **Kayano-** | [#1](https://osu.ppy.sh/community/matches/33318406) |
+| **Plua-** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: Koucha- | [#1](https://osu.ppy.sh/community/matches/33315503) |
+| **XK2238** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: Shirai- | [#1](https://osu.ppy.sh/community/matches/33316897) |
+| **misaki\_tk** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Volta | -win by default- |
+| **pmriva** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: ayomikasa | [#1](https://osu.ppy.sh/community/matches/33317007) |
+| Wim Are ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **Kayano-** | [#1](https://osu.ppy.sh/community/matches/33318406) |
 
 ### 16 Besar
 
 | Sabtu, 2017-05-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Shirai-** ![][flag_ID] | **5** | 0 | ![][flag_ID] Buyut | -win by default- |
-| **Katdon\_donKat** ![][flag_ID] | **5** | 2 | ![][flag_ID] Plua- | [#1](https://osu.ppy.sh/community/matches/33132821) |
-| **Nishizumi** ![][flag_ID] | **5** | 1 | ![][flag_ID] misaki\_tk | [#1](https://osu.ppy.sh/community/matches/33134539) |
+| **Shirai-** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Buyut | -win by default- |
+| **Katdon\_donKat** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: Plua- | [#1](https://osu.ppy.sh/community/matches/33132821) |
+| **Nishizumi** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: misaki\_tk | [#1](https://osu.ppy.sh/community/matches/33134539) |
 
 | Minggu, 2017-05-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **\_Destroyer\_** ![][flag_ID] | **5** | 4 | ![][flag_ID] Koucha- | [#1](https://osu.ppy.sh/community/matches/33155803) |
-| **pmriva** ![][flag_ID] | **5** | 0 | ![][flag_ID] Wim Are | [#1](https://osu.ppy.sh/community/matches/33162779) |
-| **Lightning Wyvern** ![][flag_ID] | **5** | 0 | ![][flag_ID] Volta | -win by default- |
-| steven1 ![][flag_ID] | 0 | **5** | ![][flag_ID] **XK2238** | -win by default- |
-| **ayomikasa** ![][flag_ID] | **5** | 0 | ![][flag_ID] Kayano- | -win by default- |
+| **\_Destroyer\_** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: Koucha- | [#1](https://osu.ppy.sh/community/matches/33155803) |
+| **pmriva** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Wim Are | [#1](https://osu.ppy.sh/community/matches/33162779) |
+| **Lightning Wyvern** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Volta | -win by default- |
+| steven1 ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **XK2238** | -win by default- |
+| **ayomikasa** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Kayano- | -win by default- |
 
 ### Babak Grup
 
 | Grup | Sabtu, 2017-05-06 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| A | Surono ![][flag_ID] | 0 | **4** | ![][flag_ID] Wim Are | -win by default- |
-| D | **Lightning Wyvern** ![][flag_ID] | **4** | 0 | ![][flag_ID] sweetbravery | -win by default- |
-| H | **pmriva** ![][flag_ID] | **4** | 1 | ![][flag_ID] Franklin\_DeJavu | [#1](https://osu.ppy.sh/community/matches/32971269) |
-| B | **XK2238** ![][flag_ID] | **4** | 2 | ![][flag_ID] Kzl | [#1](https://osu.ppy.sh/community/matches/32971201) |
-| F | **\_Destroyer\_** ![][flag_ID] | **4** | 0 | ![][flag_ID] Rendang | [#1](https://osu.ppy.sh/community/matches/32972109) |
-| B | XK2238 ![][flag_ID] | 3 | **4** | ![][flag_ID] ayomikasa | [#1](https://osu.ppy.sh/community/matches/32974363) |
-| F | **misaki\_tk** ![][flag_ID] | **4** | 0 | ![][flag_ID] Rendang | [#1](https://osu.ppy.sh/community/matches/32974229) |
-| E | **Katdon\_donKat** ![][flag_ID] | **4** | 0 | ![][flag_ID] Volta | [#1](https://osu.ppy.sh/community/matches/32975857) |
-| D | **Lightning Wyvern** ![][flag_ID] | **4** | 0 | ![][flag_ID] Plua- | [#1](https://osu.ppy.sh/community/matches/32975711) |
-| F | misaki\_tk ![][flag_ID] | 1 | **4** | ![][flag_ID] **\_Destroyer\_** | [#1](https://osu.ppy.sh/community/matches/32975848) |
-| H | **Shirai-** ![][flag_ID] | **4** | 0 | ![][flag_ID] Franklin\_DeJavu | [#1](https://osu.ppy.sh/community/matches/32977134) |
-| G | **steven1** ![][flag_ID] | **4** | 2 | ![][flag_ID] Kayano- | [#1](https://osu.ppy.sh/community/matches/32977387) |
+| A | Surono ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: Wim Are | -win by default- |
+| D | **Lightning Wyvern** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: sweetbravery | -win by default- |
+| H | **pmriva** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: Franklin\_DeJavu | [#1](https://osu.ppy.sh/community/matches/32971269) |
+| B | **XK2238** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: Kzl | [#1](https://osu.ppy.sh/community/matches/32971201) |
+| F | **\_Destroyer\_** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Rendang | [#1](https://osu.ppy.sh/community/matches/32972109) |
+| B | XK2238 ::{ flag=ID }:: | 3 | **4** | ::{ flag=ID }:: ayomikasa | [#1](https://osu.ppy.sh/community/matches/32974363) |
+| F | **misaki\_tk** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Rendang | [#1](https://osu.ppy.sh/community/matches/32974229) |
+| E | **Katdon\_donKat** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Volta | [#1](https://osu.ppy.sh/community/matches/32975857) |
+| D | **Lightning Wyvern** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Plua- | [#1](https://osu.ppy.sh/community/matches/32975711) |
+| F | misaki\_tk ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **\_Destroyer\_** | [#1](https://osu.ppy.sh/community/matches/32975848) |
+| H | **Shirai-** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Franklin\_DeJavu | [#1](https://osu.ppy.sh/community/matches/32977134) |
+| G | **steven1** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: Kayano- | [#1](https://osu.ppy.sh/community/matches/32977387) |
 
 | Grup | Minggu, 2017-05-07 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| B | **ayomikasa** ![][flag_ID] | **4** | 0 | ![][flag_ID] Kzl | [#1](https://osu.ppy.sh/community/matches/32999232) |
-| E | **Katdon\_donKat** ![][flag_ID] | **4** | 0 | ![][flag_ID] Elisabeth- | -win by default- |
-| G | **steven1** ![][flag_ID] | **4** | 0 | ![][flag_ID] \_CaKy\_ | [#1](https://osu.ppy.sh/community/matches/32999034) |
-| D | **Plua-** ![][flag_ID] | **4** | 0 | ![][flag_ID] sweetbravery | -win by default- |
-| C | **Nishizumi** ![][flag_ID] | **4** | 0 | ![][flag_ID] pingping2011 | -win by default- |
-| E | **Volta** ![][flag_ID] | **4** | 0 | ![][flag_ID] Elisabeth- | -win by default- |
-| H | pmriva ![][flag_ID] | 0 | **4** | ![][flag_ID] **Shirai-** | -win by default- |
-| A | Surono ![][flag_ID] | 0 | 0 | ![][flag_ID] Buyut | -anulir- |
-| C | **Koucha-** ![][flag_ID] | **4** | 0 | ![][flag_ID] pingping2011 | -win by default- |
-| G | **Kayano-** ![][flag_ID] | **4** | 0 | ![][flag_ID] \_CaKy\_ | [#1](https://osu.ppy.sh/community/matches/33003700) |
-| A | **Wim Are** ![][flag_ID] | **4** | 0 | ![][flag_ID] Buyut | [#1](https://osu.ppy.sh/community/matches/33003681) |
-| C | **Nishizumi** ![][flag_ID] | **4** | 3 | ![][flag_ID] Koucha- | [#1](https://osu.ppy.sh/community/matches/33005364) |
+| B | **ayomikasa** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Kzl | [#1](https://osu.ppy.sh/community/matches/32999232) |
+| E | **Katdon\_donKat** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Elisabeth- | -win by default- |
+| G | **steven1** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: \_CaKy\_ | [#1](https://osu.ppy.sh/community/matches/32999034) |
+| D | **Plua-** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: sweetbravery | -win by default- |
+| C | **Nishizumi** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: pingping2011 | -win by default- |
+| E | **Volta** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Elisabeth- | -win by default- |
+| H | pmriva ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **Shirai-** | -win by default- |
+| A | Surono ::{ flag=ID }:: | 0 | 0 | ::{ flag=ID }:: Buyut | -anulir- |
+| C | **Koucha-** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: pingping2011 | -win by default- |
+| G | **Kayano-** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: \_CaKy\_ | [#1](https://osu.ppy.sh/community/matches/33003700) |
+| A | **Wim Are** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Buyut | [#1](https://osu.ppy.sh/community/matches/33003681) |
+| C | **Nishizumi** ::{ flag=ID }:: | **4** | 3 | ::{ flag=ID }:: Koucha- | [#1](https://osu.ppy.sh/community/matches/33005364) |
 
 ## Peraturan
 
@@ -350,7 +350,3 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 2. Dibutuhkan 5 poin untuk memenangkan Babak 16 Besar dan Perempat Final.
 3. Dibutuhkan 6 poin untuk memenangkan Babak Semifinal dan Final.
 4. Dibutuhkan 7 poin untuk memenangkan Babak Grand Final.
-
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipina"

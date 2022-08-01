@@ -10,9 +10,6 @@ tags:
 
 ## Tarihçe
 
-27 Aralık 2009 tarihinde, grubun oluşumuyla birlikte ilk MAT Lideri olarak ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) seçildi.
+27 Aralık 2009 tarihinde, grubun oluşumuyla birlikte ilk MAT Lideri olarak ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) seçildi.
 
-Bu pozisyon daha sonra, 26 Ağustos 2010 tarihinden itibaren, MAT'nin 23 Nisan 2013 tarihindeki feshine kadar, ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) tarafından üstlenildi.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
-[flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"
+Bu pozisyon daha sonra, 26 Ağustos 2010 tarihinden itibaren, MAT'nin 23 Nisan 2013 tarihindeki feshine kadar, ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) tarafından üstlenildi.

@@ -2,7 +2,7 @@
 
 ![ANZT 5S logo](img/logo.jpg)
 
-The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 double elimination osu! tournament hosted by ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083) and ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154). It was the fifth instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 double elimination osu! tournament hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083) and ::{ flag=AU }:: [Quite Cynical](https://osu.ppy.sh/users/3361154). It was the fifth instalment of the Aus/NZ tourneys.
 
 ## Tournament schedule
 
@@ -30,13 +30,13 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a 1v1 doub
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154) |
-| Scheduler | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Commentator | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_AU] [Noobsicle](https://osu.ppy.sh/users/3432672), ![][flag_NZ] [shortpotato](https://osu.ppy.sh/users/1266102), ![][flag_AU] [Rairiku](https://osu.ppy.sh/users/4945688), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| Streamer | ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_US] [CornLord7117](https://osu.ppy.sh/users/6699829), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| Referee | ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [RoseAntebellum](https://osu.ppy.sh/users/3944288), ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102), ![][flag_AU] [Vex](https://osu.ppy.sh/users/1151852), ![][flag_AU] [Poi Yasu](https://osu.ppy.sh/users/6733334), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135), ![][flag_AU] [Melt3dCheeze](https://osu.ppy.sh/users/634837), ![][flag_NZ] [-Akito](https://osu.ppy.sh/users/5716327), ![][flag_AU] [BranOtaku](https://osu.ppy.sh/users/6861227), ![][flag_US] [trey-](https://osu.ppy.sh/users/8784747) |
-| Mappool selector | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_US] [Axarious](https://osu.ppy.sh/users/2614511), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154) |
-| Designer | ![][flag_NZ] [-Akito](https://osu.ppy.sh/users/5716327) |
+| Manager | ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083), ::{ flag=AU }:: [Quite Cynical](https://osu.ppy.sh/users/3361154) |
+| Scheduler | ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
+| Commentator | ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AU }:: [BranOtaku](https://osu.ppy.sh/users/6861227), ::{ flag=AU }:: [Noobsicle](https://osu.ppy.sh/users/3432672), ::{ flag=NZ }:: [shortpotato](https://osu.ppy.sh/users/1266102), ::{ flag=AU }:: [Rairiku](https://osu.ppy.sh/users/4945688), ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| Streamer | ::{ flag=AU }:: [BranOtaku](https://osu.ppy.sh/users/6861227), ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837), ::{ flag=US }:: [CornLord7117](https://osu.ppy.sh/users/6699829), ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| Referee | ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083), ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [RoseAntebellum](https://osu.ppy.sh/users/3944288), ::{ flag=AU }:: [Illinon](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [Vex](https://osu.ppy.sh/users/1151852), ::{ flag=AU }:: [Poi Yasu](https://osu.ppy.sh/users/6733334), ::{ flag=AU }:: [Quite Cynical](https://osu.ppy.sh/users/3361154), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837), ::{ flag=NZ }:: [-Akito](https://osu.ppy.sh/users/5716327), ::{ flag=AU }:: [BranOtaku](https://osu.ppy.sh/users/6861227), ::{ flag=US }:: [trey-](https://osu.ppy.sh/users/8784747) |
+| Mappool selector | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044), ::{ flag=US }:: [Axarious](https://osu.ppy.sh/users/2614511), ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083), ::{ flag=AU }:: [Quite Cynical](https://osu.ppy.sh/users/3361154) |
+| Designer | ::{ flag=NZ }:: [-Akito](https://osu.ppy.sh/users/5716327) |
 
 ## Links
 
@@ -50,9 +50,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
 
 ## Mappools
 
@@ -262,25 +262,25 @@ Results of the main bracket can be found on the Challonge page linked above.
 
 | Player | Total |  | Player | Total |  | Player | Total |
 | :-- | :-: | :-- | :-- | :-: | :-- | :-- | :-: |
-| ![][flag_AU] Noobsicle | 3,739,471 |  | ![][flag_AU] Kooleyy | 2,594,783 |  | ![][flag_AU] hieepN | 1,968,412 |
-| ![][flag_AU] Lunirs | 3,457,504 |  | ![][flag_AU] Ezipie | 2,560,847 |  | ![][flag_AU] FknRhythmGames | 1,931,796 |
-| ![][flag_AU] Blobby3000 | 3,401,484 |  | ![][flag_NZ] smead | 2,503,472 |  | ![][flag_AU] kobeblue | 1,898,007 |
-| ![][flag_NZ] Mousiini | 3,307,314 |  | ![][flag_AU] Kano | 2,471,276 |  | ![][flag_AU] Prosal | 1,822,210 |
-| ![][flag_AU] Doginator | 3,268,215 |  | ![][flag_AU] Athrun | 2,405,741 |  | ![][flag_AU] Panzer911 | 1,742,809 |
-| ![][flag_AU] GranDSenpai | 3,234,433 |  | ![][flag_AU] Dumi | 2,387,565 |  | ![][flag_NZ] Feyyy | 1,716,655 |
-| ![][flag_AU] Ampharos | 3,232,387 |  | ![][flag_AU] robo50211 | 2,373,184 |  | ![][flag_AU] HolyJesus | 1,698,760 |
-| ![][flag_AU] overcomplexifii | 3,115,706 |  | ![][flag_NZ] Kurume | 2,345,589 |  | ![][flag_AU] PHzN | 1,680,255 |
-| ![][flag_AU] TheOmyNomy | 3,095,541 |  | ![][flag_AU] ibrocky | 2,313,679 |  | ![][flag_AU] owo 6821 | 1,675,811 |
-| ![][flag_AU] Rivastyx | 3,048,637 |  | ![][flag_AU] Elusive | 2,291,940 |  | ![][flag_NZ] Ayachi Meme | 1,666,351 |
-| ![][flag_AU] suffix wizard | 2,998,500 |  | ![][flag_AU] Rik0 | 2,289,206 |  | ![][flag_AU] pewdekz | 1,554,213 |
-| ![][flag_AU] Jordan The Bear | 2,919,404 |  | ![][flag_AU] killerfox123 | 2,267,533 |  | ![][flag_NZ] proftroutington | 1,523,916 |
-| ![][flag_AU] aska | 2,878,480 |  | ![][flag_AU] Illkryn | 2,258,987 |  | ![][flag_AU] Kor3ry3-Kun | 1,512,161 |
-| ![][flag_AU] Drox- | 2,783,913 |  | ![][flag_AU] Monk Gyatso | 2,231,082 |  | ![][flag_AU] yay | 1,220,883 |
-| ![][flag_AU] TTG | 2,723,686 |  | ![][flag_AU] Barhunga | 2,184,927 |  | ![][flag_AU] PudIsTrash | 720,513 |
-| ![][flag_AU] Onyaga | 2,716,867 |  | ![][flag_AU] Levidia | 2,148,252 |  | ![][flag_AU] Xinks | 708,732 |
-| ![][flag_NZ] Kukukoke | 2,711,872 |  | ![][flag_NZ] TCN | 2,129,781 |  | ![][flag_AU] BranOtaku | 583,931 |
-| ![][flag_AU] Peekamoo | 2,621,808 |  | ![][flag_AU] turretxbuddy | 2,038,525 |  | ![][flag_AU] Beat43210 | 237,618 |
-| ![][flag_NZ] Morrowind | 2,616,206 |  | ![][flag_AU] kuur0 | 2,010,812 |  | ![][flag_NZ] Particlex | 0 |
+| ::{ flag=AU }:: Noobsicle | 3,739,471 |  | ::{ flag=AU }:: Kooleyy | 2,594,783 |  | ::{ flag=AU }:: hieepN | 1,968,412 |
+| ::{ flag=AU }:: Lunirs | 3,457,504 |  | ::{ flag=AU }:: Ezipie | 2,560,847 |  | ::{ flag=AU }:: FknRhythmGames | 1,931,796 |
+| ::{ flag=AU }:: Blobby3000 | 3,401,484 |  | ::{ flag=NZ }:: smead | 2,503,472 |  | ::{ flag=AU }:: kobeblue | 1,898,007 |
+| ::{ flag=NZ }:: Mousiini | 3,307,314 |  | ::{ flag=AU }:: Kano | 2,471,276 |  | ::{ flag=AU }:: Prosal | 1,822,210 |
+| ::{ flag=AU }:: Doginator | 3,268,215 |  | ::{ flag=AU }:: Athrun | 2,405,741 |  | ::{ flag=AU }:: Panzer911 | 1,742,809 |
+| ::{ flag=AU }:: GranDSenpai | 3,234,433 |  | ::{ flag=AU }:: Dumi | 2,387,565 |  | ::{ flag=NZ }:: Feyyy | 1,716,655 |
+| ::{ flag=AU }:: Ampharos | 3,232,387 |  | ::{ flag=AU }:: robo50211 | 2,373,184 |  | ::{ flag=AU }:: HolyJesus | 1,698,760 |
+| ::{ flag=AU }:: overcomplexifii | 3,115,706 |  | ::{ flag=NZ }:: Kurume | 2,345,589 |  | ::{ flag=AU }:: PHzN | 1,680,255 |
+| ::{ flag=AU }:: TheOmyNomy | 3,095,541 |  | ::{ flag=AU }:: ibrocky | 2,313,679 |  | ::{ flag=AU }:: owo 6821 | 1,675,811 |
+| ::{ flag=AU }:: Rivastyx | 3,048,637 |  | ::{ flag=AU }:: Elusive | 2,291,940 |  | ::{ flag=NZ }:: Ayachi Meme | 1,666,351 |
+| ::{ flag=AU }:: suffix wizard | 2,998,500 |  | ::{ flag=AU }:: Rik0 | 2,289,206 |  | ::{ flag=AU }:: pewdekz | 1,554,213 |
+| ::{ flag=AU }:: Jordan The Bear | 2,919,404 |  | ::{ flag=AU }:: killerfox123 | 2,267,533 |  | ::{ flag=NZ }:: proftroutington | 1,523,916 |
+| ::{ flag=AU }:: aska | 2,878,480 |  | ::{ flag=AU }:: Illkryn | 2,258,987 |  | ::{ flag=AU }:: Kor3ry3-Kun | 1,512,161 |
+| ::{ flag=AU }:: Drox- | 2,783,913 |  | ::{ flag=AU }:: Monk Gyatso | 2,231,082 |  | ::{ flag=AU }:: yay | 1,220,883 |
+| ::{ flag=AU }:: TTG | 2,723,686 |  | ::{ flag=AU }:: Barhunga | 2,184,927 |  | ::{ flag=AU }:: PudIsTrash | 720,513 |
+| ::{ flag=AU }:: Onyaga | 2,716,867 |  | ::{ flag=AU }:: Levidia | 2,148,252 |  | ::{ flag=AU }:: Xinks | 708,732 |
+| ::{ flag=NZ }:: Kukukoke | 2,711,872 |  | ::{ flag=NZ }:: TCN | 2,129,781 |  | ::{ flag=AU }:: BranOtaku | 583,931 |
+| ::{ flag=AU }:: Peekamoo | 2,621,808 |  | ::{ flag=AU }:: turretxbuddy | 2,038,525 |  | ::{ flag=AU }:: Beat43210 | 237,618 |
+| ::{ flag=NZ }:: Morrowind | 2,616,206 |  | ::{ flag=AU }:: kuur0 | 2,010,812 |  | ::{ flag=NZ }:: Particlex | 0 |
 
 ## Ruleset
 
@@ -330,7 +330,3 @@ Results of the main bracket can be found on the Challonge page linked above.
 | Round of 16 & Losers Bracket Rounds 3 & 4, Quarterfinals & Losers Bracket Rounds 5 & 6 | Win five maps (Best-of-9) |
 | Semi-finals & Losers Bracket Rounds 7 & 8 | Win six maps (Best-of-11) |
 | Finals - Week 1 & 2 | Win seven maps (Best-of-13) |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

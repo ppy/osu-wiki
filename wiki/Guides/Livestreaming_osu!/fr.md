@@ -1,3 +1,8 @@
+---
+outdated_since: f7871c217dc440ceb77e42388dbcdda93714992d
+outdated_translation: true
+---
+
 # Streamer osu!
 
 Ce guide vous montrera comment faire du stream d'osu! sur Twitch en utilisant [OBS Studio](https://obsproject.com/). C'est relativement simple, bien que cela nécessite un ordinateur puissant capable d'exécuter et de diffuser en continu osu! en même temps.
