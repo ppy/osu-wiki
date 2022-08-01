@@ -60,6 +60,8 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/91) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Livestream channel](https://www.twitch.tv/4cwc)
 
+## Participants
+
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=MA }:: ::{ flag=KZ }:: ::{ flag=KE }:: ::{ flag=BH }:: ::{ flag=IN }:: | **Afrasia** | **[OSUjanaiKATSURAda](https://osu.ppy.sh/users/2154499)**, [RussianKot](https://osu.ppy.sh/users/10760717), [Dragonesia](https://osu.ppy.sh/users/14314269), [RotMG](https://osu.ppy.sh/users/12705051), [Hagaru](https://osu.ppy.sh/users/8200513), [Ly4nik](https://osu.ppy.sh/users/24032082) |
