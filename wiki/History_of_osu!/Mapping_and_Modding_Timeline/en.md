@@ -531,7 +531,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2021-10-12:** Former Beatmap Nominators, who resigned on good terms within the past year, can now become full members immediately upon rejoining.
 - **2021-10-13:** osu!mania beatmaps do not require hit sound additions anymore.
-  - This was done in response of a [popular request from the community](https://osu.ppy.sh/community/forums/topics/1418542) in order to allow for easier approachability to osu!mania mappers of different upbringings.
+  - This was done in response of a [popular request from the community](https://osu.ppy.sh/community/forums/topics/1418542) to increase approachability for osu!mania mappers who come from various upbringings.
 - **2021-10-18:** Spread rules for osu!mania beatmaps have been relaxed.
   - This was done upon request from the community via a [Ranking Criteria proposal](https://osu.ppy.sh/community/forums/topics/1440933) in order to make the under-utilized Ranked section more approachable to mappers.
 
@@ -574,9 +574,6 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### April
 
 - **2022-04-22:** Ranked/Loved guest difficutly maps now appear on userpages, and they have guests retroactively assigned to them, while giving NATs/GMTs the ability to assign them manually on all Ranked/Loved maps.
-- **2022-04-25:** A controversial map of [Unknown Artist - Spelunker](https://osu.ppy.sh/beatmapsets/1145452) has caused a lot of backlash from the community with its qualification.
-  - This prompted ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) to be involved with a [public poll](https://twitter.com/ppy/status/1518084079404851200?s=20&t=max9uYbaK19pXj8u7fWQ4g) questioning its rankability.
-  - This also caused a vote across all osu! BNs/NATs to determine its rankability.
 
 ### May
 
