@@ -1,0 +1,1 @@
+Asset folder : /wiki/shared/news/2022-09-01-osumonthly-2 (create it if not already exists)
