@@ -121,6 +121,51 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
   1. [solfa feat. Ceui - melty love (-Luminate) \[Platter\]](https://osu.ppy.sh/beatmapsets/1617558#fruits/3310327)
   2. [cosMo@BousouP - Oceanus (Broccoly) \[Irreversible's Hard\]](https://osu.ppy.sh/beatmapsets/267767#fruits/650188)
 
+## Match Results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1Yd3iHhU1ABF0MOxUFR9FJAeMcXtGBZkBuC_N7dX4bfc/edit#gid=429273414).
+
+| Seed | Country | Points |
+| :-: | :-- | :-- |
+| #1 | ::{ flag=MX }:: Mexico | 31 |
+| #2 | ::{ flag=US }:: United States | 43 |
+| #3 | ::{ flag=SG }:: Singapore | 50 |
+| #4 | ::{ flag=DE }:: Germany | 67 |
+| #5 | ::{ flag=JP }:: Japan | 70 |
+| #6 | ::{ flag=TH }:: Thailand | 71 |
+| #7 | ::{ flag=CL }:: Chile | 76 |
+| #8 | ::{ flag=TW }:: Taiwan | 96 |
+| #9 | ::{ flag=KR }:: South Korea | 110 |
+| #10 | ::{ flag=FR }:: France | 114 |
+| #11 | ::{ flag=MY }:: Malaysia | 114 |
+| #12 | ::{ flag=EC }:: ::{ flag=CO }:: ::{ flag=PE }:: ::{ flag=AR }:: Latam | 118 |
+| #13 | ::{ flag=PH }:: Philippines | 122 |
+| #14 | ::{ flag=NL }:: Netherland | 130 |
+| #15 | ::{ flag=RU }:: Russian Federation | 138 |
+| #16 | ::{ flag=CA }:: Canada | 142 |
+| #17 | ::{ flag=AU }:: Australia | 149 |
+| #18 | ::{ flag=MA }:: ::{ flag=KZ }:: ::{ flag=KE }:: ::{ flag=BH }:: ::{ flag=IN }:: Afrasia | 149 |
+| #19 | ::{ flag=ID }:: Indonesia | 150 |
+| #20 | ::{ flag=CN }:: China | 159 |
+| #21 | ::{ flag=HK }:: Hong Kong | 168 |
+| #22 | ::{ flag=PT }:: Portugal | 173 |
+| #23 | ::{ flag=PL }:: Poland | 178 |
+| #24 | ::{ flag=GB }:: United Kingdom | 195 |
+| #25 | ::{ flag=ES }:: Spain | 218 |
+| #26 | ::{ flag=NZ }:: New Zealand | 225 |
+| #27 | ::{ flag=EU }:: Europe | 226 |
+| #28 | ::{ flag=TR }:: Turkey | 248 |
+| #29 | ::{ flag=BR }:: Brazil | 257 |
+| #30 | ::{ flag=SE }:: Sweden | 268 |
+| #31 | ::{ flag=MO }:: Macau | 273 |
+| #32 | ::{ flag=DZ }:: Algeria | 276 |
+| #33 | ::{ flag=UA }:: Ukraine | 287 |
+| #34 | ::{ flag=VE }:: Venezuela | 288 |
+| #35 | ::{ flag=NO }:: Norway | 298 |
+| #36 | ::{ flag=VN }:: Vietnam | 317 |
+
 ## Ruleset
 
 ### Tournament rules
