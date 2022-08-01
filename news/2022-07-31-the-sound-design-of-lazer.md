@@ -30,11 +30,7 @@ For coming up with ideas for UI sound effects, he said he tries to visualize it 
 
 One of the perhaps most satisfying sounds in lazer is the one for all the slider bars used throughout the game. Have a listen with the video below:
 
-<div align="center">
-    <video width="100%" controls>
-        <source src="https://www.youtube.com/embed/F1e8EOTYYrs" type="video/mp4" preload="none">
-    </video>
-</div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/F1e8EOTYYrs" frameborder="0" allowfullscreen></iframe>
 
 > For the slider bar I envisioned something tactile and clicky, something that would be satisfying to play with. For that, the sound needed to be short and sharp. I used one of the hover sounds as a starting point to get the initial 'shape' for the sound. I tend to do that a bit - I'll use sounds I made in the past as layers in new sounds. I find that helps make the sounds feel cohesive, even if you can't conciously recognize the sound being used.
 
@@ -44,11 +40,7 @@ Once all the changes are made, they are then coded up in lazer and tested, as a 
 
 Another sound that may be particularly satisfying is the difficulty selection sound in song select. Have a listen again:
 
-<div align="center">
-    <video width="100%" controls>
-        <source src="https://www.youtube.com/embed/sSFtWgHRZpo" type="video/mp4" preload="none">
-    </video>
-</div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/sSFtWgHRZpo" frameborder="0" allowfullscreen></iframe>
 
 This one was pretty simple according to nekodex:
 
