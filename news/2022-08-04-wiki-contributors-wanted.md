@@ -8,7 +8,7 @@ Lore maestros! Technical aficionados! Information brokers! We seek any kind of k
 
 ![](/wiki/shared/news/banners/osu-wiki.jpg)
 
-The [osu! wiki](/wiki/Main_Page) has seen a lot of reconstruction and development over the years. However, while the to-do list grows larger with new ideas and things to expand on, the amount of contributors has remained very small, which has impeded any rapid progress. We are therefore looking for more people to help out!
+The [osu! wiki](/wiki/Main_Page) has seen a lot of reconstruction and development over the years. However, while the to-do list grows larger with new ideas and things to expand on, the amount of contributors has remained very small. We are therefore looking for more people to help out!
 
 If you're knowledgeable on certain aspects of the community, whether it be gameplay, mapping, modding, hitsounding, storyboarding or trivia, or simply want to exercise your writing skills, you're more than welcome to participate! No need for Ph.D.'s — any level of contribution is appreciated!
 
@@ -18,7 +18,7 @@ But where does one start? Hop into the [osu!dev Discord server](https://discord.
 
 If you have an idea for improvement, a new article or if you've found some issues, search the [issues page on GitHub](https://github.com/ppy/osu-wiki/issues) to see if someone has already thought of them, and create a [new issue](https://github.com/ppy/osu-wiki/issues/new) if not. If you want to help on an existing task, leave a comment on it to let others know that you're working on it. There is also a [status page](https://clayton.cc/osu-wiki-status/en) which lists all articles that are outdated, in need of clean-up, and article stubs that can be expanded. For more information, see the [article on maintenance of the wiki](/wiki/osu!_wiki/Maintenance#routines).
 
-If you feel like you have an idea but also don't feel like learning GitHub (understandable), just ask any active [osu! wiki maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) through osu! chat, via Discord DM, or in the `#osu-wiki` channel of the [osu!dev Discord server](https://discord.gg/ppy), and they'll make sure your idea is seen through.
+If you feel like you have an idea but don't feel like learning GitHub (understandable), you can also share it with an [osu! wiki maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) through osu! chat, via Discord DM, or in the `#osu-wiki` channel of the [osu!dev Discord server](https://discord.gg/ppy), and they'll make sure your idea is seen through.
 
 That'll be all!
 
