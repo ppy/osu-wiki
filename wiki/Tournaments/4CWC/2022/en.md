@@ -105,6 +105,28 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+- NoMod
+  1. [ITO KASHITARO - Re;MilkyWay (Dapuluous) \[Dapu & Rustyy's Collection\]](https://osu.ppy.sh/beatmapsets/1819362#fruits/3733107)
+  2. [xi - Titania (Jemzuu) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/1278046#fruits/2669849)
+  3. [Dreamcatcher - GOOD NIGHT (Natsu) \[Afternoon\]](https://osu.ppy.sh/beatmapsets/603905#fruits/1283463)
+  4. [Function Phantom - Paradox (byfar) \[J1's Insane\]](https://osu.ppy.sh/beatmapsets/824125#fruits/1756217)
+- Hidden
+  1. [DJ TOTTO feat. *spiLa* - illumina (Imai Lisa) \[Platter\]](https://osu.ppy.sh/beatmapsets/880513#fruits/2594189)
+  2. [Can't Stop Won't Stop (feat. Fresh Big Mouf) - Mighty & High (thiev) \[Extra\]](https://osu.ppy.sh/beatmapsets/770361#fruits/1952154)
+- Hard Rock
+  1. [Yuzuki - Dear You (DJ Genericname DnB Remix) (R-34) \[R-34 & M0RU's Salad (4CWC Edit.)\]](link where)
+  2. [Yuna (CV: Kanda Sayaka) - Break Beat Bark! (Cut Ver.) (-Crimson-) \[Hard\]](https://osu.ppy.sh/beatmapsets/1285419#fruits/2670654)
+- Double Time
+  1. [BLANKFIELD - Retrospective City (Nelly) \[Collab Platter\]](https://osu.ppy.sh/beatmapsets/1203586#fruits/2531997)
+  2. [petit milady - azurite (garden) \[ArThasCD's hard\]](https://osu.ppy.sh/beatmapsets/777993#fruits/1653983)
+- Mixed Mod
+  1. [trapman featuring CreeperWorks - minefield surfing (Nelly) \[Platter\]](https://osu.ppy.sh/beatmapsets/1819363#fruits/3733108)
+  2. [Nekomata Master - Byakuya Gentou (ignorethis) \[Hyper\])](https://osu.ppy.sh/beatmapsets/36849#fruits/119376)
+- Tiebreaker
+  1. [Camellia feat. Nanahira - Bassline Yatteru? w (Kukkai) \[Rain\])](https://osu.ppy.sh/beatmapsets/1643938#fruits/3356878)
+
 ### Qualifiers
 
 - NoMod
