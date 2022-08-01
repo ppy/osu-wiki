@@ -66,7 +66,7 @@ The GTS team's insanely talented designer ::{{ flag=PH }}:: [OsuMe65](https://os
 
 <div align="center">
     <video width="100%" controls>
-        <source src="https://www.youtube.com/watch?v=9RtCEP0e9H8" type="video/mp4" preload="none">
+        <source src="https://www.youtube.com/embed/9RtCEP0e9H8" type="video/mp4" preload="none">
     </video>
 </div> 
 
@@ -122,7 +122,7 @@ Whew! If you thought the pick for osu! was crazy, wait 'till you watch [shinchik
 
 This taiko play is set at an average of 411 BPM. Yes, you read that right, **411 BPM**! This is truly an insane play for any speed enthusiast and absolute taiko enjoyer. Make sure to show some love and enjoy the absolute speed demon plays shinichikuhome is known for!
 
-<iframe width="100%" height="315" src="https://youtu.be/embed/hKwIKC-DvcU" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://youtube.com/embed/hKwIKC-DvcU" frameborder="0" allowfullscreen></iframe>
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -134,7 +134,7 @@ With [Onta_Bekasi](https://osu.ppy.sh/users/8677684) not just clearing but FCing
 
 Enduring only a tiny 0.02% accuracy drop across a 3-minute long slog of over 5000 notes, Onta_Bekasi's showing is top tier stuff, and we think you'll understand why after seeing it for yourself below.
 
-<iframe width="100%" height="315" src="https://youtu.be/embed/1RuyJ3y_ot4" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://youtube.com/embed/1RuyJ3y_ot4" frameborder="0" allowfullscreen></iframe>
 
 #### Millions of long notes
 
@@ -142,7 +142,7 @@ Witness this shocking performance by [[GS]Myuka](https://osu.ppy.sh/users/100727
 
 If you thought the deluge of long notes in *My Man* was something, just wait until you see this 7 minute map of non-stop madness, featuring not only single-note rainbows and glissandos, but an interconnected web of the two. It is an impeccable display of skill, accuracy, speed, and just what osu!monthly is looking for in a showcase!
 
-<iframe width="100%" height="315" src="https://youtu.be/embed/nc_ejGtZKUM" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://youtube.com/embed/nc_ejGtZKUM" frameborder="0" allowfullscreen></iframe>
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
