@@ -116,7 +116,7 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
   1. [DJ TOTTO feat. *spiLa* - illumina (Imai Lisa) \[Platter\]](https://osu.ppy.sh/beatmapsets/880513#fruits/2594189)
   2. [Can't Stop Won't Stop (feat. Fresh Big Mouf) - Mighty & High (thiev) \[Extra\]](https://osu.ppy.sh/beatmapsets/770361#fruits/1952154)
 - Hard Rock
-  1. [Yuzuki - Dear You (DJ Genericname DnB Remix) (R-34) \[R-34 & M0RU's Salad (4CWC Edit.)\]](link where)
+  1. [Yuzuki - Dear You (DJ Genericname DnB Remix) (R-34) \[R-34 & M0RU's Salad (4CWC Edit.)\]](https://osu.ppy.sh/beatmapsets/1819634#fruits/3733788)
   2. [Yuna (CV: Kanda Sayaka) - Break Beat Bark! (Cut Ver.) (-Crimson-) \[Hard\]](https://osu.ppy.sh/beatmapsets/1285419#fruits/2670654)
 - Double Time
   1. [BLANKFIELD - Retrospective City (Nelly) \[Collab Platter\]](https://osu.ppy.sh/beatmapsets/1203586#fruits/2531997)
@@ -136,10 +136,10 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
 - Hidden
   1. [Synthion - Aurora (wonjae) \[Syamu's Rain\]](https://osu.ppy.sh/beatmapsets/1290796#fruits/2686307)
   2. [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[Djulus' Insane\]](https://osu.ppy.sh/beatmapsets/1312079#fruits/2755563)
-- HardRock
+- Hard Rock
   1. [Raimukun - Firmament star (Jemzuu) \[Rustyy's Platter\]](https://osu.ppy.sh/beatmapsets/1633703#fruits/3345430)
   2. [nmk - sola (sjoy) \[cwR's Insane\]](https://osu.ppy.sh/beatmapsets/183267#fruits/440413)
-- DoubleTime
+- Double Time
   1. [solfa feat. Ceui - melty love (-Luminate) \[Platter\]](https://osu.ppy.sh/beatmapsets/1617558#fruits/3310327)
   2. [cosMo@BousouP - Oceanus (Broccoly) \[Irreversible's Hard\]](https://osu.ppy.sh/beatmapsets/267767#fruits/650188)
 
