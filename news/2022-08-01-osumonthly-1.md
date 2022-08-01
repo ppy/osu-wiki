@@ -160,13 +160,11 @@ Before this month, notes on osu!(lazer)'s steady development has mostly been rel
 
 With the project rapidly approaching the point where it might earnestly start replacing the old client for a lot of people, there's never been a better time to dip your toes into the future of osu! and see what all the hype is about.
 
-For the first time ever, osu!(lazer) patch notes have been posted on the official osu! [YouTube channel](https://www.youtube.com/c/osugame), compiled by [pishifat](https://osu.ppy.sh/users/3178418) into video format with further insight provided by peppy.
+For the first time ever, osu!(lazer) patch notes have been posted on the official osu! [YouTube channel](https://www.youtube.com/c/osugame) in video form, compiled by [pishifat](https://osu.ppy.sh/users/3178418) with further insight and commentary provided by peppy.
 
-Check the video out:
+Check out the first of the July update videos below:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/67P4LKlAh-0" frameborder="0" allowfullscreen></iframe>
-
-If you are interested in all previous and future patch notes, you can find them [here](https://osu.ppy.sh/home/changelog) (or just click on `Home` > `Changelog` on the top-left corner of the site).
 
 One especially interesting thing about osu!(lazer) is just how much easier it is for developers to create new mods with gameplay aspects that have never been seen before, with the new chaotic experience of the Repel mod serving as an excellent example. Finally, a worthy opponent for [badeu](https://osu.ppy.sh/users/1473890).
 
@@ -183,6 +181,12 @@ Another feature that's maybe not the newest, but one that some of you might have
         <source src="https://assets.ppy.sh/media/osu-monthly/2022-08/lazer-skin.mp4" type="video/mp4" preload="none">
     </video>
 </div>
+
+And finally, check out this just-released update video from the end of July:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/6cEH13V9STE" frameborder="0" allowfullscreen></iframe>
+
+If you are interested in all previous and future patch notes, you can find them [here](https://osu.ppy.sh/home/changelog) (or just click on `Home` > `Changelog` on the top-left corner of the site).
 
 ## Monthly community quiz
 
