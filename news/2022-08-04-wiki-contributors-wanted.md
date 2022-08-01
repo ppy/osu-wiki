@@ -18,7 +18,7 @@ But where does one start? Hop into the [osu!dev Discord server](https://discord.
 
 If you have an idea for improvement, a new article or if you've found some issues, search the [issues page on GitHub](https://github.com/ppy/osu-wiki/issues) to see if someone has already thought of them, and create a [new issue](https://github.com/ppy/osu-wiki/issues/new) if not. If you want to help on an existing task, leave a comment on it to let others know that you're working on it. There is also a [status page](https://clayton.cc/osu-wiki-status/en) which lists all articles that are outdated, in need of clean-up, and article stubs that can be expanded. For more information, see the [article on maintenance of the wiki](/wiki/osu!_wiki/Maintenance#routines).
 
-If you feel like you have an idea but don't feel like learning GitHub (understandable), you can also share it with an [osu! wiki maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) through osu! chat, via Discord DM, or in the `#osu-wiki` channel of the [osu!dev Discord server](https://discord.gg/ppy), and they may make your idea come to light (or put it on the aforementioned to-do list).
+If you feel like you have an idea but also don't feel like learning GitHub (understandable), you can share it with an [osu! wiki maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) through osu! chat, via Discord DM, or in the `#osu-wiki` channel of the [osu!dev Discord server](https://discord.gg/ppy), and they may make your idea come to light (or put it on the aforementioned to-do list).
 
 We hope to start working with you soon!
 
