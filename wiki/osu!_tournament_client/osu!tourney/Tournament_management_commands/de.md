@@ -3,7 +3,7 @@
 Die folgenden Chatbefehle sind für die Fernverwaltung von Mehrspieler-Turnierräumen vorgesehen:
 
 - `!mp make <name>` - Erstellt einen Turnierraum mit dem angegebenen Namen. Maximal 4 solcher Räume können erstellt werden.
-  - Dieser Raum ist insofern besonders, da er nicht geschlossen wird, sobald alle Spieler den Raum verlassen haben und er ist passwortgeschützt vor Spielern, die ihm selbst beitreten wollen.
+  - Dieser Raum ist insofern besonders, da er nicht geschlossen wird, sobald alle Spieler den Raum verlassen haben. Außerdem ist er passwortgeschützt vor Spielern, die ihm selbst beitreten wollen.
   - Wenn der Raum nicht mehr weiter genutzt werden soll, benutzte `!mp close`, um den Raum zu schließen.
 - `!mp makeprivate <name>` - Erstellt einen privaten Turnierraum mit dem angegebenen Namen. Dieser Befehl funktioniert wie `!mp make`, aber der Spielverlauf ist nur für den Raumersteller und die Teilnehmer sichtbar.
 - `!mp name <title>` - Ändert den Raumnamen.
