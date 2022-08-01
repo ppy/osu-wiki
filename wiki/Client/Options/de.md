@@ -14,7 +14,7 @@ Dieser Abschnitt ist über deinen Account, Spracheinstellungen und Aktualisierun
 
 ### Einloggen
 
-Wenn du nicht in den Spiel-Client eingeloggt bist, wird das Optionsmenü automatisch beim Start geöffnet und du wirst aufgefordert, dich einzuloggen. Du kannst das durch das Drücken von `Esc`, das Klicken der Zurück-Taste oder durch das Navigieren zur Songauswahl ignorieren. Sofern du dich nicht einloggst, wird der Spiel-Client dich als "Guest" kennzeichnen und du wirst nicht in der Lage sein, Online-Scores abzurufen, Scores einzureichen oder [Multi](/wiki/Gameplay/Multiplayer) zu spielen.
+Wenn du nicht in den Spiel-Client eingeloggt bist, wird das Optionsmenü automatisch beim Start geöffnet und du wirst aufgefordert, dich einzuloggen. Du kannst das durch das Drücken von `Esc`, das Klicken der Zurück-Taste oder durch das Navigieren zur Songauswahl ignorieren. Sofern du dich nicht einloggst, wird der Spiel-Client dich als "Guest" kennzeichnen und du wirst nicht in der Lage sein, Online-Scores abzurufen, Scores einzureichen oder [Multi](/wiki/Client/Interface/Multiplayer) zu spielen.
 
 Wenn du ein Gast bist, stehen dir diese Optionen zur Verfügung:
 

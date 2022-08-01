@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 3edcc9733800c0e9221a2032eede25009608e79d
----
-
 # Aide-mémoire sur le scénario d'un storyboard
 
 Post original : [*[Official Specifications] Storyboarding by Scripting* par : Echo](https://osu.ppy.sh/community/forums/topics/1869)
@@ -42,27 +37,27 @@ _event, [...]
 
 L'ordre Z (d'arrière en avant) est déterminé par l'ordre dans lequel les fichiers apparaissent dans le fichier .osu. Le premier événement du storyboard sera derrière tous les autres, c'est-à-dire que si l'événement du storyboard 'A' est au-dessus de l'événement du storyboard 'B', 'B' sera au-dessus de 'A'.
 
-**layer** :
-
-- 0 - Arrière-plan
-- 1 - Fail
-- 2 - Pass
-- 3 - Premier plan
+| Valeur | Couche |
+| :-: | :-- |
+| 0 | Arrière-plan |
+| 1 | Fail |
+| 2 | Pass |
+| 3 | Premier plan |
 
 *Remarque : l'arrière-plan et le premier plan sont toujours visibles.*
 
-**origin** :
-
-- 0 - Haut-Gauche
-- 1 - Centre
-- 2 - Centre-Gauche
-- 3 - Haut-Droite
-- 4 - Bas-Centre
-- 5 - Haut-Centre
-- 6 - Personnalisé (même effet que Haut-Gauche, mais ne doit pas être utilisé)
-- 7 - Centre-Droite
-- 8 - Bas-Gauche
-- 9 - Bas-Droit
+| Valeur | Origine |
+| :-: | :-- |
+| 0 | Haut-Gauche |
+| 1 | Centre |
+| 2 | Centre-Gauche |
+| 3 | Haut-Droite |
+| 4 | Bas-Centre |
+| 5 | Haut-Centre |
+| 6 | Personnalisé (même effet que Haut-Gauche, mais ne doit pas être utilisé) |
+| 7 | Centre-Droite |
+| 8 | Bas-Gauche |
+| 9 | Bas-Droit |
 
 Toutes les rotations et les changements de taille (y compris l'échelle vectorielle) sont affectés par l'origine.
 
@@ -72,23 +67,23 @@ Toutes les rotations et les changements de taille (y compris l'échelle vectorie
 
 Pour chacun des types d'événements ci-dessous, la ou les valeurs initiales de cet événement prendront la première affectation donnée à cet événement.
 
-**event type** :
+| Type d'événement | Description |
+| :-: | :-- |
+| F | fondu |
+| M | déplacement |
+| S | échelle |
+| V | échelle vectorielle (largeur et hauteur séparément) |
+| R | rotation |
+| C | couleur |
+| L | boucle |
+| T | Boucle déclenchée par un événement |
+| P | Paramètres |
 
-- F - fondu
-- M - déplacement
-- S - échelle
-- V - échelle vectorielle (largeur et hauteur séparément)
-- R - rotation
-- C - couleur
-- L - boucle
-- T - Boucle déclenchée par un événement
-- P - Paramètres
-
-**easing** :
-
-- 0 - rien
-- 1 - commencer vite et ralentir
-- 2 - commencer lentement et accélérer
+| Assouplissement | Description |
+| :-: | :-- |
+| 0 | aucun |
+| 1 | commencer vite et ralentir |
+| 2 | commencer lentement et accélérer |
 
 **starttime, endtime** : les temps en millisecondes entre lesquels l'événement sera animé
 
@@ -138,7 +133,7 @@ Les sprites avec (255,255,255) auront leur couleur d'origine. Les sprites avec (
 
 `_P,[...],p`
 
-**p** : le paramètre d'effet à appliquer. H - retournement horizontal. V - retournement vertical. A - couleur de mélange additif (par opposition au mélange alpha)
+**p** : le paramètre d'effet à appliquer: H pour un retournement horizontal, V pour un retournement vertical, A pour un couleur de mélange additif (par opposition au mélange alpha)
 
 Il est possible d'utiliser les raccourcis ci-dessous avec les paramètres. Les paramètres appliqués ne prendront effet que pendant la durée spécifiée.
 
@@ -164,7 +159,7 @@ Devient
 
 `_M,0,1000,,320,240,320,240`
 
-Veuillez noter l'espace vide dans le champ de l'heure de fin - il s'agit de l'heure **requise**.
+Veuillez noter l'espace vide dans le champ de l'heure de fin — il s'agit de l'heure **requise**.
 
 ***shorthand3*** : Cette notation peut être utilisée lorsque les valeurs de début et de fin de l'événement sont les mêmes.
 

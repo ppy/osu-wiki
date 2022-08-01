@@ -8,7 +8,7 @@ tags:
 
 ![CFC 2018 logo](img/logo.png)
 
-The **Catch French Cup 2018** (***CFC 2018***) was a one-on-one French osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the Catch French Cup.
+The **Catch French Cup 2018** (***CFC 2018***) was a one-on-one French osu!catch tournament hosted by ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the Catch French Cup.
 
 ## Tournament schedule
 
@@ -35,13 +35,13 @@ The Catch French Cup 2018 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Mappool selector | ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994) |
-| Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [Rsuiono](https://osu.ppy.sh/users/9266902), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Streamer | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Star Sapphire](https://osu.ppy.sh/users/2953898) |
-| Commentator | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Corn-](https://osu.ppy.sh/users/4089232), ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913), ![][flag_FR] [Star Sapphire](https://osu.ppy.sh/users/2953898), ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) |
-| Designer | ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240) |
-| Wiki editor | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Manager | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Mappool selector | ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994) |
+| Referee | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [Rsuiono](https://osu.ppy.sh/users/9266902), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
+| Streamer | ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [Star Sapphire](https://osu.ppy.sh/users/2953898) |
+| Commentator | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Corn-](https://osu.ppy.sh/users/4089232), ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [Star Sapphire](https://osu.ppy.sh/users/2953898), ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) |
+| Designer | ::{ flag=FR }:: [Lotchidych](https://osu.ppy.sh/users/8375240) |
+| Wiki editor | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 
 ## Links
 
@@ -53,10 +53,10 @@ The Catch French Cup 2018 was run by various community members.
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_FR] [bastoo0](https://osu.ppy.sh/users/4864877) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [\[E\] n i g m a](https://osu.ppy.sh/users/9354778) |
-| **B** | ![][flag_FR] [Aqliva](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Kyuare](https://osu.ppy.sh/users/2705312) | ![][flag_FR] [CaptainAlexis](https://osu.ppy.sh/users/6872242) | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
-| **C** | ![][flag_FR] [Sounny](https://osu.ppy.sh/users/7326109) | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913) | ![][flag_FR] [I Sora I](https://osu.ppy.sh/users/4843750) |
-| **D** | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [RemSuckMyDuck](https://osu.ppy.sh/users/1698323) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
+| **A** | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239) | ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640) | ::{ flag=FR }:: [\[E\] n i g m a](https://osu.ppy.sh/users/9354778) |
+| **B** | ::{ flag=FR }:: [Aqliva](https://osu.ppy.sh/users/2986875) | ::{ flag=FR }:: [Kyuare](https://osu.ppy.sh/users/2705312) | ::{ flag=FR }:: [CaptainAlexis](https://osu.ppy.sh/users/6872242) | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| **C** | ::{ flag=FR }:: [Sounny](https://osu.ppy.sh/users/7326109) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) | ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913) | ::{ flag=FR }:: [I Sora I](https://osu.ppy.sh/users/4843750) |
+| **D** | ::{ flag=FR }:: [Le grand casque](https://osu.ppy.sh/users/5490623) | ::{ flag=FR }:: [RemSuckMyDuck](https://osu.ppy.sh/users/1698323) | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
 
 ## Podium
 
@@ -64,9 +64,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Le grand casque](https://osu.ppy.sh/users/5490623) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) |
 
 ## Mappools
 
@@ -243,5 +243,3 @@ This competition has come to an end and resulted in the following podium:
    - FreeMod is forced mod, meaning every player has to use at least one mod.
    - Tiebreaker is not forced mod but you may choose a mod.
    - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, HardRock and Hidden.
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"

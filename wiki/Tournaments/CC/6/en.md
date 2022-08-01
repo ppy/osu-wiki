@@ -12,7 +12,7 @@ tags:
 
 ![CCVI logo](img/logo.png)
 
-The **Corgi Cup VI** (***CCVI***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the sixth instalment of the Corgi Cup.
+The **Corgi Cup VI** (***CCVI***) was a 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), and ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973). It was the sixth instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -44,13 +44,13 @@ Corgi Cup VI was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappool selector | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203) |
-| Streamer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
-| Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [Insp1r3](https://osu.ppy.sh/users/7131254), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_SE] [Kotayo](https://osu.ppy.sh/users/1730025), ![][flag_GB] [sut_son](https://osu.ppy.sh/users/9622163) |
-| Designer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
-| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_MA] [clorox_1g](https://osu.ppy.sh/users/9702728), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
-| Statistician | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
+| Host | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Mappool selector | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203) |
+| Streamer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
+| Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=FI }:: [Mara](https://osu.ppy.sh/users/194294), ::{ flag=GB }:: [Insp1r3](https://osu.ppy.sh/users/7131254), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025), ::{ flag=GB }:: [sut_son](https://osu.ppy.sh/users/9622163) |
+| Designer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
+| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=US }:: [dblade](https://osu.ppy.sh/users/4272841), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=MA }:: [clorox_1g](https://osu.ppy.sh/users/9702728), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
+| Statistician | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
 
 ## Links
 
@@ -63,10 +63,10 @@ Corgi Cup VI was run by various community members.
 
 | Seed | Members |
 | :-: | :-- |
-| 1-8 | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581), ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262), ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238), ![][flag_GB] [OskaRRRitoS](https://osu.ppy.sh/users/7051163), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568), ![][flag_GB] [TopSp1n](https://osu.ppy.sh/users/7657761), ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) |
-| 9-16 | ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496), ![][flag_NL] [jackylam5](https://osu.ppy.sh/users/1540807), ![][flag_GB] [Summer Solstice](https://osu.ppy.sh/users/3233710), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_SE] [Nitroz](https://osu.ppy.sh/users/5256529), ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178) |
-| 17-24 | ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263), ![][flag_PT] [KingLizardYT](https://osu.ppy.sh/users/7817891), ![][flag_DE] [LwL](https://osu.ppy.sh/users/3556856), ![][flag_GB] [idealnettles](https://osu.ppy.sh/users/4010354), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484), ![][flag_GB] [Felicia](https://osu.ppy.sh/users/6177798) |
-| 25-32 | ![][flag_GB] [mmi-](https://osu.ppy.sh/users/5444914), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_FI] [Anq](https://osu.ppy.sh/users/2336656), ![][flag_FI] [Doomsdaddy](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ![][flag_FI] [Urnukka](https://osu.ppy.sh/users/4765619), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_FI] [Poofie](https://osu.ppy.sh/users/3517198) |
+| 1-8 | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581), ::{ flag=GB }:: [-Roxas](https://osu.ppy.sh/users/1986262), ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238), ::{ flag=GB }:: [OskaRRRitoS](https://osu.ppy.sh/users/7051163), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568), ::{ flag=GB }:: [TopSp1n](https://osu.ppy.sh/users/7657761), ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) |
+| 9-16 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549), ::{ flag=US }:: [Conyoh](https://osu.ppy.sh/users/4844496), ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807), ::{ flag=GB }:: [Summer Solstice](https://osu.ppy.sh/users/3233710), ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761), ::{ flag=SE }:: [Nitroz](https://osu.ppy.sh/users/5256529), ::{ flag=LV }:: [waywern2012](https://osu.ppy.sh/users/5870453), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178) |
+| 17-24 | ::{ flag=GB }:: [Domblade](https://osu.ppy.sh/users/6701945), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=PT }:: [KingLizardYT](https://osu.ppy.sh/users/7817891), ::{ flag=DE }:: [LwL](https://osu.ppy.sh/users/3556856), ::{ flag=GB }:: [idealnettles](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [Kerantina](https://osu.ppy.sh/users/7516484), ::{ flag=GB }:: [Felicia](https://osu.ppy.sh/users/6177798) |
+| 25-32 | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=FI }:: [Anq](https://osu.ppy.sh/users/2336656), ::{ flag=FI }:: [Doomsdaddy](https://osu.ppy.sh/users/5039710), ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ::{ flag=FI }:: [Urnukka](https://osu.ppy.sh/users/4765619), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=FI }:: [Poofie](https://osu.ppy.sh/users/3517198) |
 
 ## Podium
 
@@ -74,9 +74,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [-Roxas](https://osu.ppy.sh/users/1986262) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) |
 
 ## Mappools
 
@@ -261,7 +261,7 @@ Sunday, 26 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Roxas** ![][flag_GB] | **7** | 5 | ![][flag_NO] YokesPai | [#1](https://osu.ppy.sh/community/matches/52121889) |
+| **-Roxas** ::{ flag=GB }:: | **7** | 5 | ::{ flag=NO }:: YokesPai | [#1](https://osu.ppy.sh/community/matches/52121889) |
 
 #### Losers bracket final
 
@@ -269,7 +269,7 @@ Saturday, 25 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| majoreh ![][flag_GB] | 1 | **7** | ![][flag_NO] **YokesPai** | [#1](https://osu.ppy.sh/community/matches/52089273) |
+| majoreh ::{ flag=GB }:: | 1 | **7** | ::{ flag=NO }:: **YokesPai** | [#1](https://osu.ppy.sh/community/matches/52089273) |
 
 ### Finals
 
@@ -279,7 +279,7 @@ Sunday, 19 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| majoreh ![][flag_GB] | 2 | **6** | ![][flag_GB] **-Roxas** | [#1](https://osu.ppy.sh/community/matches/51939290) |
+| majoreh ::{ flag=GB }:: | 2 | **6** | ::{ flag=GB }:: **-Roxas** | [#1](https://osu.ppy.sh/community/matches/51939290) |
 
 #### Losers bracket
 
@@ -287,14 +287,14 @@ Saturday, 18 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| jackylam5 ![][flag_NL] | 1 | **6** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/51903473) |
+| jackylam5 ::{ flag=NL }:: | 1 | **6** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/51903473) |
 
 Sunday, 19 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **YokesPai** ![][flag_NO] | **6** | 0 | ![][flag_LV] waywern2012 | [#1](https://osu.ppy.sh/community/matches/51928805) |
-| **YokesPai** ![][flag_NO] | **6** | 3 | ![][flag_GB] Karthy | [#1](https://osu.ppy.sh/community/matches/51939290) |
+| **YokesPai** ::{ flag=NO }:: | **6** | 0 | ::{ flag=LV }:: waywern2012 | [#1](https://osu.ppy.sh/community/matches/51928805) |
+| **YokesPai** ::{ flag=NO }:: | **6** | 3 | ::{ flag=GB }:: Karthy | [#1](https://osu.ppy.sh/community/matches/51939290) |
 
 ### Semifinals
 
@@ -304,8 +304,8 @@ Tuesday, 14 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **majoreh** ![][flag_GB] | **6** | 5 | ![][flag_NL] jackylam5 | [#1](https://osu.ppy.sh/community/matches/51793740) |
-| **-Roxas** ![][flag_GB] | **6** | 4 | ![][flag_NO] YokesPai | [#1](https://osu.ppy.sh/community/matches/51797160) |
+| **majoreh** ::{ flag=GB }:: | **6** | 5 | ::{ flag=NL }:: jackylam5 | [#1](https://osu.ppy.sh/community/matches/51793740) |
+| **-Roxas** ::{ flag=GB }:: | **6** | 4 | ::{ flag=NO }:: YokesPai | [#1](https://osu.ppy.sh/community/matches/51797160) |
 
 #### Losers bracket
 
@@ -313,22 +313,22 @@ Friday, 10 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Nitroz** ![][flag_SE] | **6** | 4 | ![][flag_US] Conyoh | [#1](https://osu.ppy.sh/community/matches/51677445) |
-| Kingling ![][flag_GB] | 4 | **6** | ![][flag_LV] **waywern2012** | [#1](https://osu.ppy.sh/community/matches/51679392) |
+| **Nitroz** ::{ flag=SE }:: | **6** | 4 | ::{ flag=US }:: Conyoh | [#1](https://osu.ppy.sh/community/matches/51677445) |
+| Kingling ::{ flag=GB }:: | 4 | **6** | ::{ flag=LV }:: **waywern2012** | [#1](https://osu.ppy.sh/community/matches/51679392) |
 
 Saturday, 11 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| -GN ![][flag_NO] | 0 | **1** | ![][flag_GB] **OskaRRRitoS** | *forfeit* |
-| **Karthy** ![][flag_GB] | **6** | 1 | ![][flag_GB] TopSp1n | [#1](https://osu.ppy.sh/community/matches/51718152) |
+| -GN ::{ flag=NO }:: | 0 | **1** | ::{ flag=GB }:: **OskaRRRitoS** | *forfeit* |
+| **Karthy** ::{ flag=GB }:: | **6** | 1 | ::{ flag=GB }:: TopSp1n | [#1](https://osu.ppy.sh/community/matches/51718152) |
 
 Sunday, 12 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **waywern2012** ![][flag_LV] | **6** | 3 | ![][flag_GB] OskaRRRitoS | [#1](https://osu.ppy.sh/community/matches/51746327) |
-| **Karthy** ![][flag_GB] | **1** | 0 | ![][flag_SE] Nitroz | *forfeit* |
+| **waywern2012** ::{ flag=LV }:: | **6** | 3 | ::{ flag=GB }:: OskaRRRitoS | [#1](https://osu.ppy.sh/community/matches/51746327) |
+| **Karthy** ::{ flag=GB }:: | **1** | 0 | ::{ flag=SE }:: Nitroz | *forfeit* |
 
 ### Quarterfinals
 
@@ -338,15 +338,15 @@ Tuesday, 30 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Roxas** ![][flag_GB] | **5** | 0 | ![][flag_GB] TopSp1n | [#1](https://osu.ppy.sh/community/matches/51419771) |
+| **-Roxas** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: TopSp1n | [#1](https://osu.ppy.sh/community/matches/51419771) |
 
 Sunday, 5 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| OskaRRRitoS ![][flag_GB] | 3 | **5** | ![][flag_NL] **jackylam5** | [#1](https://osu.ppy.sh/community/matches/51554453) |
-| **YokesPai** ![][flag_NO] | **5** | 3 | ![][flag_US] Conyoh | [#1](https://osu.ppy.sh/community/matches/51558096) |
-| Kingling ![][flag_GB] | 1 | **5** | ![][flag_GB] **majoreh** | [#1](https://osu.ppy.sh/community/matches/51560238) |
+| OskaRRRitoS ::{ flag=GB }:: | 3 | **5** | ::{ flag=NL }:: **jackylam5** | [#1](https://osu.ppy.sh/community/matches/51554453) |
+| **YokesPai** ::{ flag=NO }:: | **5** | 3 | ::{ flag=US }:: Conyoh | [#1](https://osu.ppy.sh/community/matches/51558096) |
+| Kingling ::{ flag=GB }:: | 1 | **5** | ::{ flag=GB }:: **majoreh** | [#1](https://osu.ppy.sh/community/matches/51560238) |
 
 #### Losers bracket
 
@@ -354,28 +354,28 @@ Saturday, 4 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Doomsdaddy ![][flag_FI] | 0 | **5** | ![][flag_GB] **idealnettles** | [#1](https://osu.ppy.sh/community/matches/51518904) |
-| Summer Solstice ![][flag_GB] | 0 | **1** | ![][flag_FI] **Urnukka** | *forfeit* |
-| **waywern2012** ![][flag_LV] | **5** | 2 | ![][flag_PT] KingLizardYT | [#1](https://osu.ppy.sh/community/matches/51526620) |
-| **Karthy** ![][flag_GB] | **5** | 0 | ![][flag_GB] Electovoid | [#1](https://osu.ppy.sh/community/matches/51530524) |
-| **zelda101** ![][flag_US] | **5** | 3 | ![][flag_GB] Apo11o | [#1](https://osu.ppy.sh/community/matches/51532650) |
-| -GN ![][flag_NO] | **5** | 0 | ![][flag_GB] mmi- | [#1](https://osu.ppy.sh/community/matches/51534937) |
+| Doomsdaddy ::{ flag=FI }:: | 0 | **5** | ::{ flag=GB }:: **idealnettles** | [#1](https://osu.ppy.sh/community/matches/51518904) |
+| Summer Solstice ::{ flag=GB }:: | 0 | **1** | ::{ flag=FI }:: **Urnukka** | *forfeit* |
+| **waywern2012** ::{ flag=LV }:: | **5** | 2 | ::{ flag=PT }:: KingLizardYT | [#1](https://osu.ppy.sh/community/matches/51526620) |
+| **Karthy** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Electovoid | [#1](https://osu.ppy.sh/community/matches/51530524) |
+| **zelda101** ::{ flag=US }:: | **5** | 3 | ::{ flag=GB }:: Apo11o | [#1](https://osu.ppy.sh/community/matches/51532650) |
+| -GN ::{ flag=NO }:: | **5** | 0 | ::{ flag=GB }:: mmi- | [#1](https://osu.ppy.sh/community/matches/51534937) |
 
 Sunday, 5 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| idealnettles ![][flag_GB] | 3 | **5** | ![][flag_LV] **waywern2012** | [#1](https://osu.ppy.sh/community/matches/51556340) |
-| **Nitroz** ![][flag_SE] | **1** | 0 | ![][flag_GB] Pelzio | *forfeit* |
-| Malteser ![][flag_GB] | 0 | **5** | ![][flag_GB] **Domblade** | [#1](https://osu.ppy.sh/community/matches/51560250) |
-| **Nitroz** ![][flag_SE] | **5** | 2 | ![][flag_US] zelda101 | [#1](https://osu.ppy.sh/community/matches/51562097) |
+| idealnettles ::{ flag=GB }:: | 3 | **5** | ::{ flag=LV }:: **waywern2012** | [#1](https://osu.ppy.sh/community/matches/51556340) |
+| **Nitroz** ::{ flag=SE }:: | **1** | 0 | ::{ flag=GB }:: Pelzio | *forfeit* |
+| Malteser ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **Domblade** | [#1](https://osu.ppy.sh/community/matches/51560250) |
+| **Nitroz** ::{ flag=SE }:: | **5** | 2 | ::{ flag=US }:: zelda101 | [#1](https://osu.ppy.sh/community/matches/51562097) |
 
 Monday, 6 May 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Domblade ![][flag_GB] | 0 | **5** | ![][flag_NO] **-GN** | [#1](https://osu.ppy.sh/community/matches/51584594) |
-| **Karthy** ![][flag_GB] | **5** | 0 | ![][flag_FI] Urnukka | [#1](https://osu.ppy.sh/community/matches/51586105) |
+| Domblade ::{ flag=GB }:: | 0 | **5** | ::{ flag=NO }:: **-GN** | [#1](https://osu.ppy.sh/community/matches/51584594) |
+| **Karthy** ::{ flag=GB }:: | **5** | 0 | ::{ flag=FI }:: Urnukka | [#1](https://osu.ppy.sh/community/matches/51586105) |
 
 ### Round of 16
 
@@ -385,29 +385,29 @@ Friday, 26 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Conyoh** ![][flag_US] | **5** | 1 | ![][flag_NO] -GN | [#1](https://osu.ppy.sh/community/matches/51307895) |
+| **Conyoh** ::{ flag=US }:: | **5** | 1 | ::{ flag=NO }:: -GN | [#1](https://osu.ppy.sh/community/matches/51307895) |
 
 Saturday, 27 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **TopSp1n** ![][flag_GB] | **5** | 4 | ![][flag_LV] -waywern2012 | [#1](https://osu.ppy.sh/community/matches/51338567) |
+| **TopSp1n** ::{ flag=GB }:: | **5** | 4 | ::{ flag=LV }:: -waywern2012 | [#1](https://osu.ppy.sh/community/matches/51338567) |
 
 Sunday, 28 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **YokesPai** ![][flag_NO] | **5** | 3 | ![][flag_GB] Malteser | [#1](https://osu.ppy.sh/community/matches/51366768) |
-| **-Roxas** ![][flag_GB] | **5** | 1 | ![][flag_FI] Doomsdaddy | [#1](https://osu.ppy.sh/community/matches/51368110) |
-| Karthy ![][flag_GB] | 3 | **5** | ![][flag_GB] **Kingling** | [#1](https://osu.ppy.sh/community/matches/51369735) |
-| **OskaRRRitoS** ![][flag_GB] | **5** | 1 | ![][flag_SE] Nitroz | [#1](https://osu.ppy.sh/community/matches/51371682) |
-| zelda101 ![][flag_US] | 3 | **5** | ![][flag_NL] **jackylam5** | [#1](https://osu.ppy.sh/community/matches/51374263) |
+| **YokesPai** ::{ flag=NO }:: | **5** | 3 | ::{ flag=GB }:: Malteser | [#1](https://osu.ppy.sh/community/matches/51366768) |
+| **-Roxas** ::{ flag=GB }:: | **5** | 1 | ::{ flag=FI }:: Doomsdaddy | [#1](https://osu.ppy.sh/community/matches/51368110) |
+| Karthy ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Kingling** | [#1](https://osu.ppy.sh/community/matches/51369735) |
+| **OskaRRRitoS** ::{ flag=GB }:: | **5** | 1 | ::{ flag=SE }:: Nitroz | [#1](https://osu.ppy.sh/community/matches/51371682) |
+| zelda101 ::{ flag=US }:: | 3 | **5** | ::{ flag=NL }:: **jackylam5** | [#1](https://osu.ppy.sh/community/matches/51374263) |
 
 Tuesday, 30 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **majoreh** ![][flag_GB] | **5** | 1 | ![][flag_GB] Summer Solstice | [#1](https://osu.ppy.sh/community/matches/51419843) |
+| **majoreh** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Summer Solstice | [#1](https://osu.ppy.sh/community/matches/51419843) |
 
 #### Losers bracket
 
@@ -415,24 +415,24 @@ Friday, 26 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Bae- ![][flag_GB] | 4 | **5** | ![][flag_GB] Apo11o | [#1](https://osu.ppy.sh/community/matches/51313423) |
+| Bae- ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: Apo11o | [#1](https://osu.ppy.sh/community/matches/51313423) |
 
 Saturday, 27 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **KingLizardYT** ![][flag_PT] | **5** | 4 | ![][flag_DE] LwL | [#1](https://osu.ppy.sh/community/matches/51330754) |
-| Lefafel ![][flag_FI] | 3 | **5** | ![][flag_GB] **Pelzio** | [#1](https://osu.ppy.sh/community/matches/51332511) |
-| Anq ![][flag_FI] | 3 | **5** | ![][flag_GB] Electovoid | [#1](https://osu.ppy.sh/community/matches/51334051) |
-| Poofie ![][flag_FI] | 0 | **5** | ![][flag_GB] **idealnettles** | [#1](https://osu.ppy.sh/community/matches/51336041) |
-| Felicia ![][flag_GB] | 0 | **1** | ![][flag_FI] **Urnukka** | *forfeit* |
+| **KingLizardYT** ::{ flag=PT }:: | **5** | 4 | ::{ flag=DE }:: LwL | [#1](https://osu.ppy.sh/community/matches/51330754) |
+| Lefafel ::{ flag=FI }:: | 3 | **5** | ::{ flag=GB }:: **Pelzio** | [#1](https://osu.ppy.sh/community/matches/51332511) |
+| Anq ::{ flag=FI }:: | 3 | **5** | ::{ flag=GB }:: Electovoid | [#1](https://osu.ppy.sh/community/matches/51334051) |
+| Poofie ::{ flag=FI }:: | 0 | **5** | ::{ flag=GB }:: **idealnettles** | [#1](https://osu.ppy.sh/community/matches/51336041) |
+| Felicia ::{ flag=GB }:: | 0 | **1** | ::{ flag=FI }:: **Urnukka** | *forfeit* |
 
 Saturday, 27 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Kerantina ![][flag_GB] | 4 | **5** | ![][flag_GB] **mmi-** | [#1](https://osu.ppy.sh/community/matches/51371676) |
-| **Domblade** ![][flag_GB] | **5** | 3 | ![][flag_GB] Doomsday is bad | [#1](https://osu.ppy.sh/community/matches/51375858) |
+| Kerantina ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: **mmi-** | [#1](https://osu.ppy.sh/community/matches/51371676) |
+| **Domblade** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Doomsday is bad | [#1](https://osu.ppy.sh/community/matches/51375858) |
 
 ### Round of 32
 
@@ -440,48 +440,48 @@ Friday, 19 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **TopSp1n** ![][flag_GB] | **4** | 0 | ![][flag_FI] Lefafel | [#1](https://osu.ppy.sh/community/matches/51117617) |
+| **TopSp1n** ::{ flag=GB }:: | **4** | 0 | ::{ flag=FI }:: Lefafel | [#1](https://osu.ppy.sh/community/matches/51117617) |
 
 Saturday, 20 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Nitroz** ![][flag_SE] | **4** | 1 | ![][flag_DE] LwL | [#1](https://osu.ppy.sh/community/matches/51155997) |
-| **OskaRRRitoS** ![][flag_GB] | **4** | 0 | ![][flag_PT] KingLizardYT | [#1](https://osu.ppy.sh/community/matches/51157356) |
-| **zelda101** ![][flag_US] | **4** | 3 | ![][flag_GB] idealnettles | [#1](https://osu.ppy.sh/community/matches/51159437) |
-| **Malteser** ![][flag_GB] | **4** | 2 | ![][flag_FI] Urnukka | [#1](https://osu.ppy.sh/community/matches/51159223) |
-| **waywern2012** ![][flag_LV] | **4** | 0 | ![][flag_GB] Pelzio | [#1](https://osu.ppy.sh/community/matches/51164522) |
-| **YokesPai** ![][flag_NO] | **4** | 2 | ![][flag_GB] Felicia | [#1](https://osu.ppy.sh/community/matches/51164718) |
-| Apo11o ![][flag_GB] | 3 | **4** | ![][flag_FI] **Doomsdaddy** | [#1](https://osu.ppy.sh/community/matches/51164380) |
+| **Nitroz** ::{ flag=SE }:: | **4** | 1 | ::{ flag=DE }:: LwL | [#1](https://osu.ppy.sh/community/matches/51155997) |
+| **OskaRRRitoS** ::{ flag=GB }:: | **4** | 0 | ::{ flag=PT }:: KingLizardYT | [#1](https://osu.ppy.sh/community/matches/51157356) |
+| **zelda101** ::{ flag=US }:: | **4** | 3 | ::{ flag=GB }:: idealnettles | [#1](https://osu.ppy.sh/community/matches/51159437) |
+| **Malteser** ::{ flag=GB }:: | **4** | 2 | ::{ flag=FI }:: Urnukka | [#1](https://osu.ppy.sh/community/matches/51159223) |
+| **waywern2012** ::{ flag=LV }:: | **4** | 0 | ::{ flag=GB }:: Pelzio | [#1](https://osu.ppy.sh/community/matches/51164522) |
+| **YokesPai** ::{ flag=NO }:: | **4** | 2 | ::{ flag=GB }:: Felicia | [#1](https://osu.ppy.sh/community/matches/51164718) |
+| Apo11o ::{ flag=GB }:: | 3 | **4** | ::{ flag=FI }:: **Doomsdaddy** | [#1](https://osu.ppy.sh/community/matches/51164380) |
 
 Sunday, 21 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kingling** ![][flag_GB] | **4** | 2 | ![][flag_GB] mmi- | [#1](https://osu.ppy.sh/community/matches/51183682) |
-| **majoreh** ![][flag_GB] | **1** | 0 | ![][flag_GB] Domblade | *forfeit* |
-| **Karthy** ![][flag_GB] | **4** | 0 | ![][flag_GB] Kerantina | [#1](https://osu.ppy.sh/community/matches/51187985) |
-| **Conyoh** ![][flag_US] | **4** | 0 | ![][flag_FI] Anq | [#1](https://osu.ppy.sh/community/matches/51188053) |
-| **jackylam5** ![][flag_NL] | **4** | 1 | ![][flag_FI] Poofie | [#1](https://osu.ppy.sh/community/matches/51189656) |
-| **-Roxas** ![][flag_GB] | **4** | 1 | ![][flag_GB] Bae- | [#1](https://osu.ppy.sh/community/matches/51191306) |
+| **Kingling** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: mmi- | [#1](https://osu.ppy.sh/community/matches/51183682) |
+| **majoreh** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: Domblade | *forfeit* |
+| **Karthy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Kerantina | [#1](https://osu.ppy.sh/community/matches/51187985) |
+| **Conyoh** ::{ flag=US }:: | **4** | 0 | ::{ flag=FI }:: Anq | [#1](https://osu.ppy.sh/community/matches/51188053) |
+| **jackylam5** ::{ flag=NL }:: | **4** | 1 | ::{ flag=FI }:: Poofie | [#1](https://osu.ppy.sh/community/matches/51189656) |
+| **-Roxas** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Bae- | [#1](https://osu.ppy.sh/community/matches/51191306) |
 
 Monday, 22 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Summer Solstice** ![][flag_GB] | **4** | 0 | ![][flag_GB] Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/51217994) |
+| **Summer Solstice** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/51217994) |
 
 Wednesday, 24 April 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-GN** ![][flag_NO] | **4** | 1 | ![][flag_GB] Electovoid | [#1](https://osu.ppy.sh/community/matches/51261089) |
+| **-GN** ::{ flag=NO }:: | **4** | 1 | ::{ flag=GB }:: Electovoid | [#1](https://osu.ppy.sh/community/matches/51261089) |
 
 ## Ruleset
 
 - CorgiCup VI is a 32 player, 1v1, Double Elimination tournament, with Score V2 as the scoring system used.
 - In order to participate, you must have the "Subscriber" or the "Friend" role on Doomsday's Discord.
-- The Top 4 from last CorgiCup (![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581), ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262) and ![][flag_GB] [OPJames](https://osu.ppy.sh/users/4117142)) all have automatic qualifications into the Round of 32 should they accept their invitation.
+- The Top 4 from last CorgiCup (::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581), ::{ flag=GB }:: [-Roxas](https://osu.ppy.sh/users/1986262) and ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142)) all have automatic qualifications into the Round of 32 should they accept their invitation.
 - Should more than 28 people sign up for the tournament, qualifiers will take place.
 - The top 28 scores from the qualifiers will progress into the Round of 32.
 - Referees will create the match and invite players 10 mins before the match is due to start.
@@ -494,17 +494,3 @@ Wednesday, 24 April 2019:
 - In case of a tie, no point is awarded to either player, and the map is considered used. If all maps are used, the mappool selection resets (excluding banned maps), and the match continues as normal.
 - If a player disconnects during the match in which the outcome would have been different. A rematch can be offered under the Referee’s discretion.
 - For FreeMod picks, players must select a choice of HD, HR, EZ, FL or a combination of these mods.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
-[flag_MA]: /wiki/shared/flag/MA.gif "Morocco"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

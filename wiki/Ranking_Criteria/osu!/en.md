@@ -1,6 +1,6 @@
 # osu! ranking criteria
 
-***Note: This document is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
+***Notice: This document is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
 
 This set of **osu! ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!](/wiki/Game_mode/osu!)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 

@@ -34,14 +34,14 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Coordinator | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675) |
-| Mappool selector | ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Referee | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913), ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259) |
-| Streamer | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
-| Commentator | ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913) |
-| Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
-| Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Host | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Coordinator | ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675) |
+| Mappool selector | ::{ flag=PH }:: [Ainyan](https://osu.ppy.sh/users/3770641), ::{ flag=PH }:: [Lenfried-](https://osu.ppy.sh/users/5314573), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) |
+| Referee | ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=PH }:: [samosita](https://osu.ppy.sh/users/6090289), ::{ flag=PH }:: [ggnakacarlz](https://osu.ppy.sh/users/4075421), ::{ flag=PH }:: [SilentVoice](https://osu.ppy.sh/users/9570552), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550), ::{ flag=PH }:: [LohaWarpe](https://osu.ppy.sh/users/8560810), ::{ flag=PH }:: [Afireee](https://osu.ppy.sh/users/7919913), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259) |
+| Streamer | ::{ flag=PH }:: [aEverr](https://osu.ppy.sh/users/6027084), ::{ flag=PH }:: [Ainyan](https://osu.ppy.sh/users/3770641), ::{ flag=PH }:: [LohaWarpe](https://osu.ppy.sh/users/8560810) |
+| Commentator | ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=PH }:: [Toyohime-](https://osu.ppy.sh/users/9770359), ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [Afireee](https://osu.ppy.sh/users/7919913) |
+| Designer | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867) |
+| Statistician | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links
 
@@ -385,8 +385,3 @@ Detailed results for this round are found via [this link](https://docs.google.co
 - Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

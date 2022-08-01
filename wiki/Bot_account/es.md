@@ -11,7 +11,7 @@ tags:
 
 # Cuenta Bot
 
-Una **Cuenta BOT** es un tipo de cuenta especial de osu! administrada por un servicio automatizado en lugar de una persona real. En el sitio web, ellos tienen una insignia blanca etiquetada `BOT`, y solo la sección de `me!` de su perfil es visible. Las cuentas BOT son comúnmente utilizadas para organizar "Chat bots" que ofrecen varias funcionalidades a la comunidad a través de los canales lobby [multiplayer](/wiki/Gameplay/Multiplayer) o mensajes privados.
+Una **Cuenta BOT** es un tipo de cuenta especial de osu! administrada por un servicio automatizado en lugar de una persona real. En el sitio web, ellos tienen una insignia blanca etiquetada `BOT`, y solo la sección de `me!` de su perfil es visible. Las cuentas BOT son comúnmente utilizadas para organizar "Chat bots" que ofrecen varias funcionalidades a la comunidad a través de los canales lobby [multiplayer](/wiki/Client/Interface/Multiplayer) o mensajes privados.
 
 Las cuentas Bot solo pueden ser creadas a través de un [proceso de aplicación](#creando-una-cuenta-bot). El intentar crear una cuenta Bot registrándola de manera normal es considerado como multi-cuenta y va en contra de las [reglas de la comunidad](/wiki/Rules#reglas-de-la-comunidad).
 
@@ -60,7 +60,4 @@ El [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team) re
 ## Trivia
 
 - La insignia de grupo `BOT` es mostrada en cuentas con un grupo primario de `Chat Bots` (group #29). La lista grupal no es pública.
-- Algunas cuentas personales están en el grupo de Chat Bots debido a que sus dueños no querían o no solicitaron tener su cuenta separada de su servicio, por ejemplo ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) y ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Este servicio no se ofrece actualmente y los nuevos bots entrando al grupo siempre se les proporcionara una cuenta exclusiva.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
+- Algunas cuentas personales están en el grupo de Chat Bots debido a que sus dueños no querían o no solicitaron tener su cuenta separada de su servicio, por ejemplo ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) y ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). Este servicio no se ofrece actualmente y los nuevos bots entrando al grupo siempre se les proporcionara una cuenta exclusiva.

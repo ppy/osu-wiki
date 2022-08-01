@@ -68,7 +68,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the effects are the same as in osu!ta
 ## Trivia
 
 - When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No Fail](/wiki/Game_modifier/No_Fail) mod on.
-- In [Multi](/wiki/Gameplay/Multiplayer) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs) team mode.
+- In [Multi](/wiki/Client/Interface/Multiplayer) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) team mode.
 - The Easy mod will cancel out the [Hard Rock](/wiki/Game_modifier/Hard_Rock) mod, and vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

@@ -8,7 +8,7 @@ tags:
 
 ![CFC 3 logo](img/logo.png)
 
-La **Catch French Cup 3** (***CFC 3***) était un tournoi osu!catch français en 1v1 host par ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Ceci était la troisième édition de la Catch French Cup.
+La **Catch French Cup 3** (***CFC 3***) était un tournoi osu!catch français en 1v1 host par ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). Ceci était la troisième édition de la Catch French Cup.
 
 ## Planning du tournoi
 
@@ -40,14 +40,14 @@ La Catch French Cup 3 était gérée par différents membres de la communauté.
 
 | Poste | Membre(s) |
 | :-- | :-- |
-| Organisateur | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Sélectionneur de beatmap | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
-| Arbitre | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734) |
-| Streamer | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| Commentateur | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913), ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/138728) |
-| Designer | ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240) |
-| Statisticien | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Éditeur de wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Organisateur | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Sélectionneur de beatmap | ::{ flag=FR }:: [Emiru](https://osu.ppy.sh/users/3306180) |
+| Arbitre | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=FR }:: [\[ Mimir \]](https://osu.ppy.sh/users/7382734) |
+| Streamer | ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [Astreachan](https://osu.ppy.sh/users/2953898), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| Commentateur | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/138728) |
+| Designer | ::{ flag=FR }:: [Lotchidych](https://osu.ppy.sh/users/8375240) |
+| Statisticien | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Éditeur de wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 
 ## Liens
 
@@ -61,23 +61,23 @@ La Catch French Cup 3 était gérée par différents membres de la communauté.
 
 | Seed | Membres |
 | :-- | :-- |
-| Top | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811), ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ![][flag_FR] [Sounny](https://osu.ppy.sh/users/7326109), ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322) |
-| High | ![][flag_FR] [SkaylleexSamaFR](https://osu.ppy.sh/users/7720945), ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913), ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167), ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239), ![][flag_FR] [Mnemosyne](https://osu.ppy.sh/users/9255433), ![][flag_FR] [tutiflo](https://osu.ppy.sh/users/2024185), ![][flag_FR] [GyraFanBoy](https://osu.ppy.sh/users/8417565), ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
-| Low | ![][flag_MA] [l3ssili](https://osu.ppy.sh/users/12123746), ![][flag_FR] [CaptainAlexis](https://osu.ppy.sh/users/6872242), ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725), ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [07th Loli](https://osu.ppy.sh/users/4122996), ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141), ![][flag_FR] [ume-skills](https://osu.ppy.sh/users/1383450), ![][flag_FR] [floflim](https://osu.ppy.sh/users/5954015) |
-| Unseeded | ![][flag_FR] [Fanther](https://osu.ppy.sh/users/7415863), ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044), ![][flag_FR] [Iyorin](https://osu.ppy.sh/users/1859986), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898), ![][flag_FR] [deesse du mal](https://osu.ppy.sh/users/9177774), ![][flag_FR] [Nyton](https://osu.ppy.sh/users/9475990), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| Top | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994), ::{ flag=FR }:: [Libegon](https://osu.ppy.sh/users/9922381), ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ::{ flag=FR }:: [Sounny](https://osu.ppy.sh/users/7326109), ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322) |
+| High | ::{ flag=FR }:: [SkaylleexSamaFR](https://osu.ppy.sh/users/7720945), ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239), ::{ flag=FR }:: [Mnemosyne](https://osu.ppy.sh/users/9255433), ::{ flag=FR }:: [tutiflo](https://osu.ppy.sh/users/2024185), ::{ flag=FR }:: [GyraFanBoy](https://osu.ppy.sh/users/8417565), ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) |
+| Low | ::{ flag=MA }:: [l3ssili](https://osu.ppy.sh/users/12123746), ::{ flag=FR }:: [CaptainAlexis](https://osu.ppy.sh/users/6872242), ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725), ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184), ::{ flag=FR }:: [07th Loli](https://osu.ppy.sh/users/4122996), ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141), ::{ flag=FR }:: [ume-skills](https://osu.ppy.sh/users/1383450), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015) |
+| Unseeded | ::{ flag=FR }:: [Fanther](https://osu.ppy.sh/users/7415863), ::{ flag=BE }:: [-\[Smoked\]-](https://osu.ppy.sh/users/8731044), ::{ flag=FR }:: [Iyorin](https://osu.ppy.sh/users/1859986), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=FR }:: [Astreachan](https://osu.ppy.sh/users/2953898), ::{ flag=FR }:: [deesse du mal](https://osu.ppy.sh/users/9177774), ::{ flag=FR }:: [Nyton](https://osu.ppy.sh/users/9475990), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
 
 ## Groupes
 
 | Groupe | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [SkaylleexSamaFR](https://osu.ppy.sh/users/7720945) | ![][flag_FR] [floflim](https://osu.ppy.sh/users/5954015) | ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042) |
-| **B** | ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167) | ![][flag_FR] [07th Loli](https://osu.ppy.sh/users/4122996) | ![][flag_FR] [Nyton](https://osu.ppy.sh/users/9475990) |
-| **C** | ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322) | ![][flag_FR] [Orazeit](https://osu.ppy.sh/users/8335913) | ![][flag_FR] [ume-skills](https://osu.ppy.sh/users/1383450) | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| **D** | ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184) | ![][flag_FR] [Fanther](https://osu.ppy.sh/users/7415863) |
-| **E** | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [CaptainAlexis](https://osu.ppy.sh/users/6872242) | ![][flag_FR] [deesse du mal](https://osu.ppy.sh/users/9177774) |
-| **F** | ![][flag_FR] [Sounny](https://osu.ppy.sh/users/7326109) | ![][flag_FR] [tutiflo](https://osu.ppy.sh/users/2024185) | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [Iyorin](https://osu.ppy.sh/users/1859986) |
-| **G** | ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381) | ![][flag_FR] [GyraFanBoy](https://osu.ppy.sh/users/8417565) | ![][flag_MA] [l3ssili](https://osu.ppy.sh/users/12123746) | ![][flag_BE] [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) |
-| **H** | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Mnemosyne](https://osu.ppy.sh/users/9255433) | ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) | ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898) |
+| **A** | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | ::{ flag=FR }:: [SkaylleexSamaFR](https://osu.ppy.sh/users/7720945) | ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015) | ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042) |
+| **B** | ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) | ::{ flag=FR }:: [07th Loli](https://osu.ppy.sh/users/4122996) | ::{ flag=FR }:: [Nyton](https://osu.ppy.sh/users/9475990) |
+| **C** | ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322) | ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913) | ::{ flag=FR }:: [ume-skills](https://osu.ppy.sh/users/1383450) | ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| **D** | ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994) | ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239) | ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184) | ::{ flag=FR }:: [Fanther](https://osu.ppy.sh/users/7415863) |
+| **E** | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) | ::{ flag=FR }:: [CaptainAlexis](https://osu.ppy.sh/users/6872242) | ::{ flag=FR }:: [deesse du mal](https://osu.ppy.sh/users/9177774) |
+| **F** | ::{ flag=FR }:: [Sounny](https://osu.ppy.sh/users/7326109) | ::{ flag=FR }:: [tutiflo](https://osu.ppy.sh/users/2024185) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) | ::{ flag=FR }:: [Iyorin](https://osu.ppy.sh/users/1859986) |
+| **G** | ::{ flag=FR }:: [Libegon](https://osu.ppy.sh/users/9922381) | ::{ flag=FR }:: [GyraFanBoy](https://osu.ppy.sh/users/8417565) | ::{ flag=MA }:: [l3ssili](https://osu.ppy.sh/users/12123746) | ::{ flag=BE }:: [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) |
+| **H** | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) | ::{ flag=FR }:: [Mnemosyne](https://osu.ppy.sh/users/9255433) | ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141) | ::{ flag=FR }:: [Astreachan](https://osu.ppy.sh/users/2953898) |
 
 ## Podium
 
@@ -85,9 +85,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) |
 
 ## Liste des beatmaps
 
@@ -255,7 +255,7 @@ Samedi, 20 Octobre 2018:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/46842396) |
+| **-Ken** ::{ flag=TN }:: | **7** | 6 | ::{ flag=FR }:: Noulayfe | [#1](https://osu.ppy.sh/community/matches/46842396) |
 
 ### Finales
 
@@ -263,9 +263,9 @@ Samedi, 13 Octobre 2018:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| **-Ken** ![][flag_TN] | **7** | 3 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/46670175) |
-| **Boros** ![][flag_FR] | **7** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](https://osu.ppy.sh/community/matches/46673460) |
-| **Noulayfe** ![][flag_FR] | **7** | 4 | ![][flag_FR] Boros | [#1](https://osu.ppy.sh/community/matches/46677078) |
+| **-Ken** ::{ flag=TN }:: | **7** | 3 | ::{ flag=FR }:: Noulayfe | [#1](https://osu.ppy.sh/community/matches/46670175) |
+| **Boros** ::{ flag=FR }:: | **7** | 0 | ::{ flag=FR }:: AAAAAAAAAAAAHHH | [#1](https://osu.ppy.sh/community/matches/46673460) |
+| **Noulayfe** ::{ flag=FR }:: | **7** | 4 | ::{ flag=FR }:: Boros | [#1](https://osu.ppy.sh/community/matches/46677078) |
 
 ### Demi-finales
 
@@ -273,17 +273,17 @@ Samedi, 6 Octobre 2018:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| AAAAAAAAAAAAHHH ![][flag_FR] | 5 | **6** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/46497617) |
-| floflim ![][flag_FR] | 0 | **6** | ![][flag_FR] **Julo** | *win by default* |
-| **-Ken** ![][flag_TN] | **6** | 0 | ![][flag_FR] Electr0o | [#1](https://osu.ppy.sh/community/matches/46508723) |
-| **Boros** ![][flag_FR] | **6** | 3 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/46510801) |
+| AAAAAAAAAAAAHHH ::{ flag=FR }:: | 5 | **6** | ::{ flag=FR }:: **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/46497617) |
+| floflim ::{ flag=FR }:: | 0 | **6** | ::{ flag=FR }:: **Julo** | *win by default* |
+| **-Ken** ::{ flag=TN }:: | **6** | 0 | ::{ flag=FR }:: Electr0o | [#1](https://osu.ppy.sh/community/matches/46508723) |
+| **Boros** ::{ flag=FR }:: | **6** | 3 | ::{ flag=FR }:: Holloh | [#1](https://osu.ppy.sh/community/matches/46510801) |
 
 Dimanche, 7 Octobre 2018:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| Electr0o ![][flag_FR] | 0 | **6** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/46530564) |
-| **AAAAAAAAAAAAHHH** ![][flag_FR] | **6** | 4 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/46536947) |
+| Electr0o ::{ flag=FR }:: | 0 | **6** | ::{ flag=FR }:: **Boros** | [#1](https://osu.ppy.sh/community/matches/46530564) |
+| **AAAAAAAAAAAAHHH** ::{ flag=FR }:: | **6** | 4 | ::{ flag=FR }:: Julo | [#1](https://osu.ppy.sh/community/matches/46536947) |
 
 ### Quarts-de-finale
 
@@ -291,19 +291,19 @@ Samedi, 29 Septembre 2018:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/46322875) |
-| **Electr0o** ![][flag_FR] | **5** | 1 | ![][flag_FR] Astreachan | [#1](https://osu.ppy.sh/community/matches/46323746) |
-| **AAAAAAAAAAAAHHH** ![][flag_FR] | **5** | 3 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/46330937) |
-| Boros ![][flag_FR] | 1 | **5** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/46339295) |
+| **-Ken** ::{ flag=TN }:: | **5** | 0 | ::{ flag=FR }:: Julo | [#1](https://osu.ppy.sh/community/matches/46322875) |
+| **Electr0o** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Astreachan | [#1](https://osu.ppy.sh/community/matches/46323746) |
+| **AAAAAAAAAAAAHHH** ::{ flag=FR }:: | **5** | 3 | ::{ flag=FR }:: Holloh | [#1](https://osu.ppy.sh/community/matches/46330937) |
+| Boros ::{ flag=FR }:: | 1 | **5** | ::{ flag=FR }:: **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/46339295) |
 
 Dimanche, 30 Septembre 2018:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| **Boros** ![][flag_FR] | **5** | 1 | ![][flag_FR] Orazeit | [#1](https://osu.ppy.sh/community/matches/46357124) |
-| **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_FR] dracoV | [#1](https://osu.ppy.sh/community/matches/46358676) |
-| Astreachan ![][flag_FR] | 4 | **5** | ![][flag_FR] floflim | [#1](https://osu.ppy.sh/community/matches/46360261) |
-| **Julo** ![][flag_FR] | **5** | 0 | ![][flag_FR] Sounny | *win by default* |
+| **Boros** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Orazeit | [#1](https://osu.ppy.sh/community/matches/46357124) |
+| **Holloh** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: dracoV | [#1](https://osu.ppy.sh/community/matches/46358676) |
+| Astreachan ::{ flag=FR }:: | 4 | **5** | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/46360261) |
+| **Julo** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: Sounny | *win by default* |
 
 ### 16èmes de finale
 
@@ -311,28 +311,28 @@ Samedi, 22 Septembre 2018:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| **-Ken** ![][flag_TN] | **4** | 0 | ![][flag_FR] 07th Loli | [#1](https://osu.ppy.sh/community/matches/46150000) |
-| **Boros** ![][flag_FR] | **4** | 2 | ![][flag_FR] Sounny | [#1](https://osu.ppy.sh/community/matches/46150122) |
-| Orazeit ![][flag_FR] | 3 | **4** | ![][flag_FR] **Julo** | [#1](https://osu.ppy.sh/community/matches/46151403) |
-| -\[Smoked\]- ![][flag_FR] | 0 | **4** | ![][flag_FR] **Noulayfe** | *win by default* |
-| **Electr0o** ![][flag_FR] | **4** | 1 | ![][flag_FR] dracoV | [#1](https://osu.ppy.sh/community/matches/46153072) |
-| Libegon ![][flag_FR] | 2 | **4** | ![][flag_FR] **Astreachan** | *win by default* |
-| floflim ![][flag_FR] | 0 | **4** | ![][flag_FR] **AAAAAAAAAAAAHHH** | [#1](https://osu.ppy.sh/community/matches/46156600) |
-| Sinaeb ![][flag_CA] | 1 | **4** | ![][flag_FR] **Holloh** | [#1](https://osu.ppy.sh/community/matches/46159045) |
+| **-Ken** ::{ flag=TN }:: | **4** | 0 | ::{ flag=FR }:: 07th Loli | [#1](https://osu.ppy.sh/community/matches/46150000) |
+| **Boros** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: Sounny | [#1](https://osu.ppy.sh/community/matches/46150122) |
+| Orazeit ::{ flag=FR }:: | 3 | **4** | ::{ flag=FR }:: **Julo** | [#1](https://osu.ppy.sh/community/matches/46151403) |
+| -\[Smoked\]- ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Noulayfe** | *win by default* |
+| **Electr0o** ::{ flag=FR }:: | **4** | 1 | ::{ flag=FR }:: dracoV | [#1](https://osu.ppy.sh/community/matches/46153072) |
+| Libegon ::{ flag=FR }:: | 2 | **4** | ::{ flag=FR }:: **Astreachan** | *win by default* |
+| floflim ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **AAAAAAAAAAAAHHH** | [#1](https://osu.ppy.sh/community/matches/46156600) |
+| Sinaeb ::{ flag=CA }:: | 1 | **4** | ::{ flag=FR }:: **Holloh** | [#1](https://osu.ppy.sh/community/matches/46159045) |
 
 Dimanche, 23 Septembre 2018:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| 07th Loli ![][flag_FR] | 0 | **4** | ![][flag_FR] **Orazeit** | [#1](https://osu.ppy.sh/community/matches/46184845) |
-| **floflim** ![][flag_FR] | **4** | 1 | ![][flag_CA] Sinaeb | [#1](https://osu.ppy.sh/community/matches/46187781) |
-| **Sounny** ![][flag_FR] | **4** | 0 | ![][flag_FR] -\[Smoked\]- | *win by default* |
+| 07th Loli ::{ flag=FR }:: | 0 | **4** | ::{ flag=FR }:: **Orazeit** | [#1](https://osu.ppy.sh/community/matches/46184845) |
+| **floflim** ::{ flag=FR }:: | **4** | 1 | ::{ flag=CA }:: Sinaeb | [#1](https://osu.ppy.sh/community/matches/46187781) |
+| **Sounny** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: -\[Smoked\]- | *win by default* |
 
 Mardi, 25 Septembre 2018:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| **dracoV** ![][flag_FR] | **4** | 0 | ![][flag_FR] Libegon | *win by default* |
+| **dracoV** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: Libegon | *win by default* |
 
 ### Phase de poules
 
@@ -340,79 +340,79 @@ Samedi, 8 Septembre 2018:
 
 | Groupe | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| A | SkaylleexSamaFR ![][flag_FR] | 0 | **3** | ![][flag_FR] **floflim** | *win by default* |
-| B | Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **07th Loli** | *win by default* |
-| B | Nyton ![][flag_FR] | 0 | **3** | ![][flag_FR] **AAAAAAAAAAAAHHH** | [#1](https://osu.ppy.sh/community/matches/45795008) |
-| A | **-Ken** ![][flag_TN] | **3** | 0 | ![][flag_FR] SkaylleexSamaFR | [#1](https://osu.ppy.sh/community/matches/45795607) |
-| B | **AAAAAAAAAAAAHHH** ![][flag_FR] | **3** | 0 | ![][flag_FR] Noctalium | *win by default* |
-| D | Fanther ![][flag_FR] | 1 | **3** | ![][flag_FR] **Holloh** | [#1](https://osu.ppy.sh/community/matches/45796707) |
-| B | **07th Loli** ![][flag_FR] | **3** | 0 | ![][flag_FR] Nyton | [#1](https://osu.ppy.sh/community/matches/45796827) |
-| A | floflim ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/45797462) |
-| B | **Nyton** ![][flag_FR] | **3** | 0 | ![][flag_FR] Noctalium | *win by default* |
-| C | **Orazeit** ![][flag_FR] | **3** | 0 | ![][flag_FR] ume-skills | *win by default* |
-| D | Fanther ![][flag_FR] | 0 | **3** | ![][flag_FR] **Julo** | [#1](https://osu.ppy.sh/community/matches/45798531) |
-| B | 07th Loli ![][flag_FR] | 0 | **3** | ![][flag_FR] **AAAAAAAAAAAAHHH** | [#1](https://osu.ppy.sh/community/matches/45798951) |
-| C | **Sinaeb** ![][flag_CA] | **3** | 0 | ![][flag_FR] FulgurentKille | *win by default* |
-| C | FulgurentKille ![][flag_FR] | 0 | **3** | ![][flag_FR] **Orazeit** | *win by default* |
-| C | ume-skills ![][flag_FR] | 0 | **3** | ![][flag_CA] **Sinaeb** | *win by default* |
-| C | Sinaeb ![][flag_CA] | 0 | **3** | ![][flag_FR] **Orazeit** | [#1](https://osu.ppy.sh/community/matches/45801482) |
-| C | **ume-skills** ![][flag_FR] | **3** | 0 | ![][flag_FR] FulgurentKille | *win by default* |
-| H | **Noulayfe** ![][flag_FR] | **3** | 0 | ![][flag_FR] Mnemosyne | [#1](https://osu.ppy.sh/community/matches/45802376) |
-| E | **Electr0o** ![][flag_FR] | **3** | 0 | ![][flag_FR] CaptainAlexis | [#1](https://osu.ppy.sh/community/matches/45808697) |
+| A | SkaylleexSamaFR ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **floflim** | *win by default* |
+| B | Noctalium ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **07th Loli** | *win by default* |
+| B | Nyton ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **AAAAAAAAAAAAHHH** | [#1](https://osu.ppy.sh/community/matches/45795008) |
+| A | **-Ken** ::{ flag=TN }:: | **3** | 0 | ::{ flag=FR }:: SkaylleexSamaFR | [#1](https://osu.ppy.sh/community/matches/45795607) |
+| B | **AAAAAAAAAAAAHHH** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: Noctalium | *win by default* |
+| D | Fanther ::{ flag=FR }:: | 1 | **3** | ::{ flag=FR }:: **Holloh** | [#1](https://osu.ppy.sh/community/matches/45796707) |
+| B | **07th Loli** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: Nyton | [#1](https://osu.ppy.sh/community/matches/45796827) |
+| A | floflim ::{ flag=FR }:: | 0 | **3** | ::{ flag=TN }:: **-Ken** | [#1](https://osu.ppy.sh/community/matches/45797462) |
+| B | **Nyton** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: Noctalium | *win by default* |
+| C | **Orazeit** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: ume-skills | *win by default* |
+| D | Fanther ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Julo** | [#1](https://osu.ppy.sh/community/matches/45798531) |
+| B | 07th Loli ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **AAAAAAAAAAAAHHH** | [#1](https://osu.ppy.sh/community/matches/45798951) |
+| C | **Sinaeb** ::{ flag=CA }:: | **3** | 0 | ::{ flag=FR }:: FulgurentKille | *win by default* |
+| C | FulgurentKille ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Orazeit** | *win by default* |
+| C | ume-skills ::{ flag=FR }:: | 0 | **3** | ::{ flag=CA }:: **Sinaeb** | *win by default* |
+| C | Sinaeb ::{ flag=CA }:: | 0 | **3** | ::{ flag=FR }:: **Orazeit** | [#1](https://osu.ppy.sh/community/matches/45801482) |
+| C | **ume-skills** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: FulgurentKille | *win by default* |
+| H | **Noulayfe** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: Mnemosyne | [#1](https://osu.ppy.sh/community/matches/45802376) |
+| E | **Electr0o** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: CaptainAlexis | [#1](https://osu.ppy.sh/community/matches/45808697) |
 
 Dimanche, 9 Septembre 2018:
 
 | Groupe | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| D | **Julo** ![][flag_FR] | **3** | 1 | ![][flag_FR] \[Haku\] | [#1](https://osu.ppy.sh/community/matches/45829507) |
-| D | **Holloh** ![][flag_FR] | **3** | 2 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/45830577) |
-| D | \[Haku\] ![][flag_FR] | 0 | **3** | ![][flag_FR] **Holloh** | [#1](https://osu.ppy.sh/community/matches/45831742) |
-| H | Astreachan ![][flag_FR] | 1 | **3** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches//45831873) |
-| E | deesse du mal ![][flag_FR] | 0 | **3** | ![][flag_FR] **Boros** | *win by default* |
-| E | Boros ![][flag_FR] | 0 | **3** | ![][flag_FR] **Electr0o** | [#1](https://osu.ppy.sh/community/matches/45834648) |
-| E | **CaptainAlexis** ![][flag_FR] | **3** | 0 | ![][flag_FR] deesse du mal | *win by default* |
-| H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/45835295) |
-| E | deesse du mal ![][flag_FR] | 0 | **3** | ![][flag_FR] **Electr0o** | *win by default* |
+| D | **Julo** ::{ flag=FR }:: | **3** | 1 | ::{ flag=FR }:: \[Haku\] | [#1](https://osu.ppy.sh/community/matches/45829507) |
+| D | **Holloh** ::{ flag=FR }:: | **3** | 2 | ::{ flag=FR }:: Julo | [#1](https://osu.ppy.sh/community/matches/45830577) |
+| D | \[Haku\] ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Holloh** | [#1](https://osu.ppy.sh/community/matches/45831742) |
+| H | Astreachan ::{ flag=FR }:: | 1 | **3** | ::{ flag=FR }:: **Noulayfe** | [#1](https://osu.ppy.sh/community/matches//45831873) |
+| E | deesse du mal ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Boros** | *win by default* |
+| E | Boros ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Electr0o** | [#1](https://osu.ppy.sh/community/matches/45834648) |
+| E | **CaptainAlexis** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: deesse du mal | *win by default* |
+| H | Aequo3 ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/45835295) |
+| E | deesse du mal ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Electr0o** | *win by default* |
 
 Lundi, 10 Septembre 2018:
 
 | Groupe | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| D | \[Haku\] ![][flag_FR] | 0 | **3** | ![][flag_FR] **Fanther** | [#1](https://osu.ppy.sh/community/matches/45863085) |
-| E | CaptainAlexis ![][flag_FR] | 0 | **3** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/45864499) |
+| D | \[Haku\] ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Fanther** | [#1](https://osu.ppy.sh/community/matches/45863085) |
+| E | CaptainAlexis ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Boros** | [#1](https://osu.ppy.sh/community/matches/45864499) |
 
 Mercredi, 12 Septembre 2018:
 
 | Groupe | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F | dracoV ![][flag_FR] | 1 | **3** | ![][flag_FR] **Sounny** | [#1](https://osu.ppy.sh/community/matches/45903381) |
-| A | **floflim** ![][flag_FR] | **3** | 0 | ![][flag_FR] Chernobog | [#1](https://osu.ppy.sh/community/matches/45905966) |
+| F | dracoV ::{ flag=FR }:: | 1 | **3** | ::{ flag=FR }:: **Sounny** | [#1](https://osu.ppy.sh/community/matches/45903381) |
+| A | **floflim** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: Chernobog | [#1](https://osu.ppy.sh/community/matches/45905966) |
 
 Samedi, 15 Septembre 2018:
 
 | Groupe | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| A | Chernobog ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/45973053) |
-| F | tutiflo ![][flag_FR] | 0 | **3** | ![][flag_FR] **dracoV** | *win by default* |
-| F | Iyorin ![][flag_FR] | 1 | **3** | ![][flag_FR] **Sounny** | [#1](https://osu.ppy.sh/community/matches/45975575) |
-| F | **Sounny** ![][flag_FR] | **3** | 0 | ![][flag_FR] tutiflo | *win by default* |
-| F | **dracoV** ![][flag_FR] | **3** | 1 | ![][flag_FR] Iyorin | [#1](https://osu.ppy.sh/community/matches/45974609) |
-| F | **Iyorin** ![][flag_FR] | **3** | 0 | ![][flag_FR] tutiflo | *win by default* |
-| A | Chernobog ![][flag_FR] | 1 | **3** | ![][flag_FR] **SkaylleexSamaFR** | [#1](https://osu.ppy.sh/community/matches/45977124) |
-| G | GyraFanBoy ![][flag_FR] | 0 | 0 | ![][flag_MA] l3ssili | -nullified- |
-| G | -\[Smoked\]- ![][flag_FR] | 0 | **3** | ![][flag_FR] **Libegon** | [#1](https://osu.ppy.sh/community/matches/45978410) |
-| G | **Libegon** ![][flag_FR] | **3** | 0 | ![][flag_FR] GyraFanBoy | *win by default* |
-| G | l3ssili ![][flag_MA] | 0 | **3** | ![][flag_FR] -\[Smoked\]- | *win by default* |
-| G | **-\[Smoked\]-** ![][flag_FR] | **3** | 0 | ![][flag_FR] GyraFanBoy | *win by default* |
-| G | l3ssili ![][flag_MA] | 0 | **3** | ![][flag_FR] **Libegon** | *win by default* |
+| A | Chernobog ::{ flag=FR }:: | 0 | **3** | ::{ flag=TN }:: **-Ken** | [#1](https://osu.ppy.sh/community/matches/45973053) |
+| F | tutiflo ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **dracoV** | *win by default* |
+| F | Iyorin ::{ flag=FR }:: | 1 | **3** | ::{ flag=FR }:: **Sounny** | [#1](https://osu.ppy.sh/community/matches/45975575) |
+| F | **Sounny** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: tutiflo | *win by default* |
+| F | **dracoV** ::{ flag=FR }:: | **3** | 1 | ::{ flag=FR }:: Iyorin | [#1](https://osu.ppy.sh/community/matches/45974609) |
+| F | **Iyorin** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: tutiflo | *win by default* |
+| A | Chernobog ::{ flag=FR }:: | 1 | **3** | ::{ flag=FR }:: **SkaylleexSamaFR** | [#1](https://osu.ppy.sh/community/matches/45977124) |
+| G | GyraFanBoy ::{ flag=FR }:: | 0 | 0 | ::{ flag=MA }:: l3ssili | -nullified- |
+| G | -\[Smoked\]- ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Libegon** | [#1](https://osu.ppy.sh/community/matches/45978410) |
+| G | **Libegon** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: GyraFanBoy | *win by default* |
+| G | l3ssili ::{ flag=MA }:: | 0 | **3** | ::{ flag=FR }:: -\[Smoked\]- | *win by default* |
+| G | **-\[Smoked\]-** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: GyraFanBoy | *win by default* |
+| G | l3ssili ::{ flag=MA }:: | 0 | **3** | ::{ flag=FR }:: **Libegon** | *win by default* |
 
 Dimanche, 16 Septembre 2018:
 
 | Groupe | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| H | Mnemosyne ![][flag_FR] | 0 | **3** | ![][flag_FR] **Aequo3** | *win by default* |
-| H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Astreachan** | [#1](https://osu.ppy.sh/community/matches/46011327) |
-| H | Astreachan ![][flag_FR] | 2 | **3** | ![][flag_FR] **Mnemosyne** | [#1](https://osu.ppy.sh/community/matches/46012156) |
+| H | Mnemosyne ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Aequo3** | *win by default* |
+| H | Aequo3 ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Astreachan** | [#1](https://osu.ppy.sh/community/matches/46011327) |
+| H | Astreachan ::{ flag=FR }:: | 2 | **3** | ::{ flag=FR }:: **Mnemosyne** | [#1](https://osu.ppy.sh/community/matches/46012156) |
 
 ## Règlement
 
@@ -433,11 +433,3 @@ Dimanche, 16 Septembre 2018:
    - Le FreeMod est en "forcemod", ce qui veut dire que chaque joueur doit utiliser au moins un mod.
    - Le Tiebreaker n'est pas en "forcemod", mais vous pouvez choisir un mod.
    - Les mods éligibles pour le FreeMod et le Tiebreaker sont Easy, Flashlight, HardRock et Hidden.
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgique"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
-[flag_MA]: /wiki/shared/flag/MA.gif "Maroc"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"

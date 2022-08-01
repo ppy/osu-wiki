@@ -67,15 +67,15 @@ The **osu!Philippines Summer Tournament 2018** (***oPHST2018***) was a semi-invi
 
 | Position | Member(s) |
 | :-- | :-- |
-| Executive committee | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675)  (osu!), ![][flag_PH] [Lobsterr](https://osu.ppy.sh/users/6575915)  (osu!catch), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
-| Mappool selector (osu!) | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895), ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512) |
-| Mappool selector (osu!catch) | ![][flag_PH] [Lobsterr](https://osu.ppy.sh/users/6575915), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [MaMaiPonc](https://osu.ppy.sh/users/4169363), ![][flag_PH] [-Plus-](https://osu.ppy.sh/users/829284) |
-| Mappool selector (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) |
-| Referee | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [- Aries -](https://osu.ppy.sh/users/6639880), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_PH] [Tephtunia](https://osu.ppy.sh/users/5209045), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935) |
-| Streamer | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939) |
-| Commentator | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212), ![][flag_PH] [MaMaiPonc](https://osu.ppy.sh/users/4169363), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [Awishi](https://osu.ppy.sh/users/4290020) |
-| Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
-| Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
+| Executive committee | ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675)  (osu!), ::{ flag=PH }:: [Lobsterr](https://osu.ppy.sh/users/6575915)  (osu!catch), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
+| Mappool selector (osu!) | ::{ flag=PH }:: [Mira-san](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [konawiki](https://osu.ppy.sh/users/4003979), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512) |
+| Mappool selector (osu!catch) | ::{ flag=PH }:: [Lobsterr](https://osu.ppy.sh/users/6575915), ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865), ::{ flag=PH }:: [MaMaiPonc](https://osu.ppy.sh/users/4169363), ::{ flag=PH }:: [-Plus-](https://osu.ppy.sh/users/829284) |
+| Mappool selector (osu!mania 4K and 7K) | ::{ flag=PH }:: [Lenfried-](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [JztCallMeRon](https://osu.ppy.sh/users/2471512), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [Ainyan](https://osu.ppy.sh/users/3770641), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
+| Referee | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=PH }:: [samosita](https://osu.ppy.sh/users/6090289), ::{ flag=PH }:: [- Aries -](https://osu.ppy.sh/users/6639880), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103), ::{ flag=PH }:: [ggnakacarlz](https://osu.ppy.sh/users/4075421), ::{ flag=PH }:: [SilentVoice](https://osu.ppy.sh/users/9570552), ::{ flag=PH }:: [Deadpulse](https://osu.ppy.sh/users/8575527), ::{ flag=AU }:: [nonamegohst](https://osu.ppy.sh/users/4384859), ::{ flag=PH }:: [Tephtunia](https://osu.ppy.sh/users/5209045), ::{ flag=PH }:: [-Nicotine](https://osu.ppy.sh/users/4818935) |
+| Streamer | ::{ flag=PH }:: [aEverr](https://osu.ppy.sh/users/6027084), ::{ flag=PH }:: [Ainyan](https://osu.ppy.sh/users/3770641), ::{ flag=PH }:: [Deadpulse](https://osu.ppy.sh/users/8575527), ::{ flag=BR }:: [shadowsnoop](https://osu.ppy.sh/users/7064939) |
+| Commentator | ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [Deneb](https://osu.ppy.sh/users/2604212), ::{ flag=PH }:: [MaMaiPonc](https://osu.ppy.sh/users/4169363), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=PH }:: [Awishi](https://osu.ppy.sh/users/4290020) |
+| Designer | ::{ flag=PH }:: [Mira-san](https://osu.ppy.sh/users/4469895) |
+| Statistician | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
 
 ## Links
 
@@ -94,68 +94,68 @@ The **osu!Philippines Summer Tournament 2018** (***oPHST2018***) was a semi-invi
 
 | Seed | Player |
 | :-: | :-- |
-| 1 | ![][flag_PH] [HaruTachi-](https://osu.ppy.sh/users/6244066) |
-| 2 | ![][flag_CA] [Dunois](https://osu.ppy.sh/users/4581715) |
-| 3 | ![][flag_PH] [Varsagus](https://osu.ppy.sh/users/3885723) |
-| 4 | ![][flag_PH] [-Marika](https://osu.ppy.sh/users/2199427) |
-| 5 | ![][flag_US] [Fraye](https://osu.ppy.sh/users/5352971) |
-| 6 | ![][flag_PH] [fixedbyglue](https://osu.ppy.sh/users/8296269) |
-| 7 | ![][flag_PH] [PhasiconN](https://osu.ppy.sh/users/7183538) |
-| 8 | ![][flag_PH] [- Neon -](https://osu.ppy.sh/users/7273455) |
-| 9 | ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
-| 10 | ![][flag_PH] [Oooodriiin](https://osu.ppy.sh/users/7223737) |
-| 11 | ![][flag_PH] [Xidorn](https://osu.ppy.sh/users/7904667) |
-| 12 | ![][flag_PH] [Nezol](https://osu.ppy.sh/users/7509103) |
-| 13 | ![][flag_PH] [xX\_MusicMan\_Xx](https://osu.ppy.sh/users/5718989) |
-| 14 | ![][flag_PH] [\[Vik\]](https://osu.ppy.sh/users/5428448) |
-| 15 | ![][flag_PH] [NymphSan05](https://osu.ppy.sh/users/5340700) |
-| 16 | ![][flag_PH] [Eboryte](https://osu.ppy.sh/users/7243198) |
-| 17 | ![][flag_PH] [NepNep-](https://osu.ppy.sh/users/4800093) |
-| 18 | ![][flag_PH] [Natsume-](https://osu.ppy.sh/users/5682791) |
-| 19 | ![][flag_PH] [Marika](https://osu.ppy.sh/users/1679638) |
-| 20 | ![][flag_PH] [xchan](https://osu.ppy.sh/users/6100591) |
-| 21 | ![][flag_PH] [CharlesMoveOn](https://osu.ppy.sh/users/8670152) |
-| 22 | ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514) |
-| 23 | ![][flag_PH] [Caernarvon725](https://osu.ppy.sh/users/8208317) |
-| 24 | ![][flag_PH] [SkyLifeHope](https://osu.ppy.sh/users/7417642) |
-| 25 | ![][flag_PH] [CloudBlaze](https://osu.ppy.sh/users/5742581) |
-| 26 | ![][flag_PH] [Awishi](https://osu.ppy.sh/users/4290020) |
-| 27 | ![][flag_PH] [Scylz](https://osu.ppy.sh/users/8367043) |
-| 28 | ![][flag_PH] [\[Paradoxum\]](https://osu.ppy.sh/users/6927531) |
-| 29 | ![][flag_PH] [Aharu](https://osu.ppy.sh/users/5039816) |
-| 30 | ![][flag_PH] [Mietzu](https://osu.ppy.sh/users/7960710) |
-| 31 | ![][flag_PH] [Itsvet](https://osu.ppy.sh/users/9989784) |
-| 32 | ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913) |
+| 1 | ::{ flag=PH }:: [HaruTachi-](https://osu.ppy.sh/users/6244066) |
+| 2 | ::{ flag=CA }:: [Dunois](https://osu.ppy.sh/users/4581715) |
+| 3 | ::{ flag=PH }:: [Varsagus](https://osu.ppy.sh/users/3885723) |
+| 4 | ::{ flag=PH }:: [-Marika](https://osu.ppy.sh/users/2199427) |
+| 5 | ::{ flag=US }:: [Fraye](https://osu.ppy.sh/users/5352971) |
+| 6 | ::{ flag=PH }:: [fixedbyglue](https://osu.ppy.sh/users/8296269) |
+| 7 | ::{ flag=PH }:: [PhasiconN](https://osu.ppy.sh/users/7183538) |
+| 8 | ::{ flag=PH }:: [- Neon -](https://osu.ppy.sh/users/7273455) |
+| 9 | ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
+| 10 | ::{ flag=PH }:: [Oooodriiin](https://osu.ppy.sh/users/7223737) |
+| 11 | ::{ flag=PH }:: [Xidorn](https://osu.ppy.sh/users/7904667) |
+| 12 | ::{ flag=PH }:: [Nezol](https://osu.ppy.sh/users/7509103) |
+| 13 | ::{ flag=PH }:: [xX\_MusicMan\_Xx](https://osu.ppy.sh/users/5718989) |
+| 14 | ::{ flag=PH }:: [\[Vik\]](https://osu.ppy.sh/users/5428448) |
+| 15 | ::{ flag=PH }:: [NymphSan05](https://osu.ppy.sh/users/5340700) |
+| 16 | ::{ flag=PH }:: [Eboryte](https://osu.ppy.sh/users/7243198) |
+| 17 | ::{ flag=PH }:: [NepNep-](https://osu.ppy.sh/users/4800093) |
+| 18 | ::{ flag=PH }:: [Natsume-](https://osu.ppy.sh/users/5682791) |
+| 19 | ::{ flag=PH }:: [Marika](https://osu.ppy.sh/users/1679638) |
+| 20 | ::{ flag=PH }:: [xchan](https://osu.ppy.sh/users/6100591) |
+| 21 | ::{ flag=PH }:: [CharlesMoveOn](https://osu.ppy.sh/users/8670152) |
+| 22 | ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) |
+| 23 | ::{ flag=PH }:: [Caernarvon725](https://osu.ppy.sh/users/8208317) |
+| 24 | ::{ flag=PH }:: [SkyLifeHope](https://osu.ppy.sh/users/7417642) |
+| 25 | ::{ flag=PH }:: [CloudBlaze](https://osu.ppy.sh/users/5742581) |
+| 26 | ::{ flag=PH }:: [Awishi](https://osu.ppy.sh/users/4290020) |
+| 27 | ::{ flag=PH }:: [Scylz](https://osu.ppy.sh/users/8367043) |
+| 28 | ::{ flag=PH }:: [\[Paradoxum\]](https://osu.ppy.sh/users/6927531) |
+| 29 | ::{ flag=PH }:: [Aharu](https://osu.ppy.sh/users/5039816) |
+| 30 | ::{ flag=PH }:: [Mietzu](https://osu.ppy.sh/users/7960710) |
+| 31 | ::{ flag=PH }:: [Itsvet](https://osu.ppy.sh/users/9989784) |
+| 32 | ::{ flag=PH }:: [Afireee](https://osu.ppy.sh/users/7919913) |
 
 ### osu!catch
 
 | Seed | Player |
 | :-: | :-- |
-| 1 | ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103) |
-| 2 | ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935) |
-| 3 | ![][flag_PH] [- Kielzu -](https://osu.ppy.sh/users/6221114) |
-| 4 | ![][flag_PH] [Crowley](https://osu.ppy.sh/users/6341006) |
-| 5 | ![][flag_PH] [-MomoX](https://osu.ppy.sh/users/2150415) |
-| 6 | ![][flag_PH] [Laqure](https://osu.ppy.sh/users/1642435) |
-| 7 | ![][flag_PH] [Kuya Frex](https://osu.ppy.sh/users/8868701) |
-| 8 | ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093) |
-| 9 | ![][flag_PH] [JeirYagtama](https://osu.ppy.sh/users/7483452) |
-| 10 | ![][flag_PH] [AJamez](https://osu.ppy.sh/users/7890134) |
-| 11 | ![][flag___] [Contingent](https://osu.ppy.sh/users/11849880) |
-| 12 | ![][flag_PH] [kaarin](https://osu.ppy.sh/users/10054160) |
-| 13 | ![][flag_PH] [Weazle](https://osu.ppy.sh/users/7864598) |
-| 14 | ![][flag_PH] [oSuTroop3r](https://osu.ppy.sh/users/7661767) |
-| 15 | ![][flag_PH] [princealbert10](https://osu.ppy.sh/users/7804181) |
-| 16 | ![][flag_PH] [justin1709](https://osu.ppy.sh/users/4699130) |
+| 1 | ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) |
+| 2 | ::{ flag=PH }:: [-Nicotine](https://osu.ppy.sh/users/4818935) |
+| 3 | ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114) |
+| 4 | ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006) |
+| 5 | ::{ flag=PH }:: [-MomoX](https://osu.ppy.sh/users/2150415) |
+| 6 | ::{ flag=PH }:: [Laqure](https://osu.ppy.sh/users/1642435) |
+| 7 | ::{ flag=PH }:: [Kuya Frex](https://osu.ppy.sh/users/8868701) |
+| 8 | ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093) |
+| 9 | ::{ flag=PH }:: [JeirYagtama](https://osu.ppy.sh/users/7483452) |
+| 10 | ::{ flag=PH }:: [AJamez](https://osu.ppy.sh/users/7890134) |
+| 11 | ::{ flag=XX }:: [Contingent](https://osu.ppy.sh/users/11849880) |
+| 12 | ::{ flag=PH }:: [kaarin](https://osu.ppy.sh/users/10054160) |
+| 13 | ::{ flag=PH }:: [Weazle](https://osu.ppy.sh/users/7864598) |
+| 14 | ::{ flag=PH }:: [oSuTroop3r](https://osu.ppy.sh/users/7661767) |
+| 15 | ::{ flag=PH }:: [princealbert10](https://osu.ppy.sh/users/7804181) |
+| 16 | ::{ flag=PH }:: [justin1709](https://osu.ppy.sh/users/4699130) |
 
 ### osu!mania 4K
 
 | Seed | Players |
 | :-: | :-- |
-| Top (#1 - #4) | ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [windrush123](https://osu.ppy.sh/users/9087181), ![][flag_PH] [nyx-](https://osu.ppy.sh/users/9883834) |
-| High (#5 - #8) | ![][flag_PH] [TheArge](https://osu.ppy.sh/users/9919550), ![][flag_PH] [Mk3605](https://osu.ppy.sh/users/8416824), ![][flag_PH] [Nelvin\_27](https://osu.ppy.sh/users/2766029), ![][flag_PH] [FeveredNickel](https://osu.ppy.sh/users/7331952) |
-| Middle (#9 - #24) | ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][flag_PH] [\_Shirayukihime\_](https://osu.ppy.sh/users/875341), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_CL] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187), ![][flag___] [exodia3000](https://osu.ppy.sh/users/10500797), ![][flag_PH] [GTXCZE](https://osu.ppy.sh/users/9209185), ![][flag_PH] [Baltz](https://osu.ppy.sh/users/6083463), ![][flag_PH] [inverselina](https://osu.ppy.sh/users/6375534), ![][flag_PH] [Mentai Cosmic](https://osu.ppy.sh/users/6908508), ![][flag_PH] [\[\_blank-\]](https://osu.ppy.sh/users/10583118), ![][flag_PH] [EikiShiki60](https://osu.ppy.sh/users/11517895), ![][flag_PH] [Kaleiodo](https://osu.ppy.sh/users/4657592), ![][flag_PH] [takedown411](https://osu.ppy.sh/users/9374607), ![][flag_US] [Chez](https://osu.ppy.sh/users/4866112), ![][flag_PH] [Hezekiah-](https://osu.ppy.sh/users/6819871), ![][flag_AU] [Victoria Artois](https://osu.ppy.sh/users/8021372) |
-| Low (#25 - #32) | ![][flag_PH] [Otaku\_Gamer\_INF](https://osu.ppy.sh/users/3514479), ![][flag_PH] [Lordie09](https://osu.ppy.sh/users/10010130), ![][flag_PH] [Batujitsu](https://osu.ppy.sh/users/6402552), ![][flag_PH] [szc19](https://osu.ppy.sh/users/11444817), ![][flag_PH] [Inoariusu](https://osu.ppy.sh/users/8586656), ![][flag_PH] [lord\_waker](https://osu.ppy.sh/users/7235545), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_PH] [Altertis](https://osu.ppy.sh/users/9374657) |
+| Top (#1 - #4) | ::{ flag=PH }:: [joseee-](https://osu.ppy.sh/users/10083439), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=PH }:: [windrush123](https://osu.ppy.sh/users/9087181), ::{ flag=PH }:: [nyx-](https://osu.ppy.sh/users/9883834) |
+| High (#5 - #8) | ::{ flag=PH }:: [TheArge](https://osu.ppy.sh/users/9919550), ::{ flag=PH }:: [Mk3605](https://osu.ppy.sh/users/8416824), ::{ flag=PH }:: [Nelvin\_27](https://osu.ppy.sh/users/2766029), ::{ flag=PH }:: [FeveredNickel](https://osu.ppy.sh/users/7331952) |
+| Middle (#9 - #24) | ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760), ::{ flag=PH }:: [\_Shirayukihime\_](https://osu.ppy.sh/users/875341), ::{ flag=PH }:: [Toyohime-](https://osu.ppy.sh/users/9770359), ::{ flag=CL }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187), ::{ flag=XX }:: [exodia3000](https://osu.ppy.sh/users/10500797), ::{ flag=PH }:: [GTXCZE](https://osu.ppy.sh/users/9209185), ::{ flag=PH }:: [Baltz](https://osu.ppy.sh/users/6083463), ::{ flag=PH }:: [inverselina](https://osu.ppy.sh/users/6375534), ::{ flag=PH }:: [Mentai Cosmic](https://osu.ppy.sh/users/6908508), ::{ flag=PH }:: [\[\_blank-\]](https://osu.ppy.sh/users/10583118), ::{ flag=PH }:: [EikiShiki60](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [Kaleiodo](https://osu.ppy.sh/users/4657592), ::{ flag=PH }:: [takedown411](https://osu.ppy.sh/users/9374607), ::{ flag=US }:: [Chez](https://osu.ppy.sh/users/4866112), ::{ flag=PH }:: [Hezekiah-](https://osu.ppy.sh/users/6819871), ::{ flag=AU }:: [Victoria Artois](https://osu.ppy.sh/users/8021372) |
+| Low (#25 - #32) | ::{ flag=PH }:: [Otaku\_Gamer\_INF](https://osu.ppy.sh/users/3514479), ::{ flag=PH }:: [Lordie09](https://osu.ppy.sh/users/10010130), ::{ flag=PH }:: [Batujitsu](https://osu.ppy.sh/users/6402552), ::{ flag=PH }:: [szc19](https://osu.ppy.sh/users/11444817), ::{ flag=PH }:: [Inoariusu](https://osu.ppy.sh/users/8586656), ::{ flag=PH }:: [lord\_waker](https://osu.ppy.sh/users/7235545), ::{ flag=PH }:: [vincent4399](https://osu.ppy.sh/users/9764388), ::{ flag=PH }:: [Altertis](https://osu.ppy.sh/users/9374657) |
 
 #### Groups
 
@@ -170,10 +170,10 @@ The **osu!Philippines Summer Tournament 2018** (***oPHST2018***) was a semi-invi
 
 | Group | Top | High | Low | Bottom |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | (#3) ![][flag_PH] [cieloday05](https://osu.ppy.sh/users/2722489) | (#6) ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439) | (#9) ![][flag_PH] [FeveredNickel](https://osu.ppy.sh/users/7331952) | (#14) ![][flag_PH] [DrawdeX](https://osu.ppy.sh/users/2228215) |
-| **B** | (#2) ![][flag_PH] [- Kura -](https://osu.ppy.sh/users/11420405) | (#5) ![][flag_PH] [LackPoints](https://osu.ppy.sh/users/8748664) | (#12) ![][flag_PH] [windrush123](https://osu.ppy.sh/users/9087181) | (#13) ![][flag_US] [Chez](https://osu.ppy.sh/users/4866112) |
-| **C** | (#1) ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) | (#8) ![][flag_PH] [Tots](https://osu.ppy.sh/users/3443131) | (#11) ![][flag_PH] [\_Shirayukihime\_](https://osu.ppy.sh/users/875341) | (#15) ![][flag_PH] [- Aries -](https://osu.ppy.sh/users/6639880) |
-| **D** | (#4) ![][flag_CL] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) | (#7) ![][flag_PH] [fer789](https://osu.ppy.sh/users/8901267) | (#10) ![][flag_PH] [nyx-](https://osu.ppy.sh/users/9883834) |  |
+| **A** | (#3) ::{ flag=PH }:: [cieloday05](https://osu.ppy.sh/users/2722489) | (#6) ::{ flag=PH }:: [joseee-](https://osu.ppy.sh/users/10083439) | (#9) ::{ flag=PH }:: [FeveredNickel](https://osu.ppy.sh/users/7331952) | (#14) ::{ flag=PH }:: [DrawdeX](https://osu.ppy.sh/users/2228215) |
+| **B** | (#2) ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405) | (#5) ::{ flag=PH }:: [LackPoints](https://osu.ppy.sh/users/8748664) | (#12) ::{ flag=PH }:: [windrush123](https://osu.ppy.sh/users/9087181) | (#13) ::{ flag=US }:: [Chez](https://osu.ppy.sh/users/4866112) |
+| **C** | (#1) ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936) | (#8) ::{ flag=PH }:: [Tots](https://osu.ppy.sh/users/3443131) | (#11) ::{ flag=PH }:: [\_Shirayukihime\_](https://osu.ppy.sh/users/875341) | (#15) ::{ flag=PH }:: [- Aries -](https://osu.ppy.sh/users/6639880) |
+| **D** | (#4) ::{ flag=CL }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) | (#7) ::{ flag=PH }:: [fer789](https://osu.ppy.sh/users/8901267) | (#10) ::{ flag=PH }:: [nyx-](https://osu.ppy.sh/users/9883834) |  |
 
 The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/).
 
@@ -185,33 +185,33 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [Dunois](https://osu.ppy.sh/users/4581715) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [-Marika](https://osu.ppy.sh/users/2199427) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [Varsagus](https://osu.ppy.sh/users/3885723), ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: [Dunois](https://osu.ppy.sh/users/4581715) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [-Marika](https://osu.ppy.sh/users/2199427) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Varsagus](https://osu.ppy.sh/users/3885723), ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
 
 ### osu!catch division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [-Nicotine](https://osu.ppy.sh/users/4818935) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093) |
 
 ### osu!mania 4K division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag___] [exodia3000](https://osu.ppy.sh/users/10500797) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [joseee-](https://osu.ppy.sh/users/10083439) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=XX }:: [exodia3000](https://osu.ppy.sh/users/10500797) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CL }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
 
 ### osu!mania 7K division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [cieloday05](https://osu.ppy.sh/users/2722489) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CL] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [cieloday05](https://osu.ppy.sh/users/2722489) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CL }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
 
 ## Mappools
 
@@ -756,7 +756,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| 4 | -Marika ![][flag_PH] | 2 | **7** | ![][flag_CA] **Dunois** | 2 |
+| 4 | -Marika ::{ flag=PH }:: | 2 | **7** | ::{ flag=CA }:: **Dunois** | 2 |
 
 #### Semifinals
 
@@ -764,8 +764,8 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| 9 | TyrantsEye2014 ![][flag_PH] | 3 | **7** | ![][flag_PH] **-Marika** | 4 |
-| 2 | **Dunois** ![][flag_PH] ![][flag_CA] | **7** | 2 | ![][flag_PH] Varsagus | 3 |
+| 9 | TyrantsEye2014 ::{ flag=PH }:: | 3 | **7** | ::{ flag=PH }:: **-Marika** | 4 |
+| 2 | **Dunois** ::{ flag=PH }:: ::{ flag=CA }:: | **7** | 2 | ::{ flag=PH }:: Varsagus | 3 |
 
 #### Quarterfinals
 
@@ -773,10 +773,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| 16 | Eboryte ![][flag_PH] | 0 | **6** | ![][flag_PH] **TyrantsEye2014** | 9 |
-| 4 | **-Marika** ![][flag_PH] | **6** | 1 | ![][flag_PH] Nezol | 12 |
-| 2 | **Dunois** ![][flag_CA] | **6** | 0 | ![][flag_PH] PhasiconN | 7 |
-| 3 | **Varsagus** ![][flag_PH] | **6** | 3 | ![][flag_PH] Xidorn | 11 |
+| 16 | Eboryte ::{ flag=PH }:: | 0 | **6** | ::{ flag=PH }:: **TyrantsEye2014** | 9 |
+| 4 | **-Marika** ::{ flag=PH }:: | **6** | 1 | ::{ flag=PH }:: Nezol | 12 |
+| 2 | **Dunois** ::{ flag=CA }:: | **6** | 0 | ::{ flag=PH }:: PhasiconN | 7 |
+| 3 | **Varsagus** ::{ flag=PH }:: | **6** | 3 | ::{ flag=PH }:: Xidorn | 11 |
 
 #### Round of 16
 
@@ -784,14 +784,14 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 32 | Afireee ![][flag_PH] | 1 | **5** | ![][flag_PH] **Eboryte** | 16 |  |
-| 8 | - Neon - ![][flag_PH] | 2 | **5** | ![][flag_PH] **TyrantsEye2014** | 9 |  |
-| 4 | **-Marika** ![][flag_PH] | **5** | 0 | ![][flag_PH] xX_MusicMan_Xx | 13 |  |
-| 5 | Fraye ![][flag_US] | 0 | **5** | ![][flag_PH] **Nezol** | 12 | *win by default* |
-| 2 | **Dunois** ![][flag_CA] | **5** | 1 | ![][flag_PH] Natsume- | 18 |  |
-| 7 | **PhasiconN** ![][flag_PH] | **5** | 1 | ![][flag_PH] Oooodriiin | 10 |  |
-| 3 | **Varsagus** ![][flag_PH] | **5** | 1 | ![][flag_PH] \[Vik\] | 14 |  |
-| 6 | fixedbyglue ![][flag_PH] | 4 | **5** | ![][flag_PH] **Xidorn** | 11 |  |
+| 32 | Afireee ::{ flag=PH }:: | 1 | **5** | ::{ flag=PH }:: **Eboryte** | 16 |  |
+| 8 | - Neon - ::{ flag=PH }:: | 2 | **5** | ::{ flag=PH }:: **TyrantsEye2014** | 9 |  |
+| 4 | **-Marika** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: xX_MusicMan_Xx | 13 |  |
+| 5 | Fraye ::{ flag=US }:: | 0 | **5** | ::{ flag=PH }:: **Nezol** | 12 | *win by default* |
+| 2 | **Dunois** ::{ flag=CA }:: | **5** | 1 | ::{ flag=PH }:: Natsume- | 18 |  |
+| 7 | **PhasiconN** ::{ flag=PH }:: | **5** | 1 | ::{ flag=PH }:: Oooodriiin | 10 |  |
+| 3 | **Varsagus** ::{ flag=PH }:: | **5** | 1 | ::{ flag=PH }:: \[Vik\] | 14 |  |
+| 6 | fixedbyglue ::{ flag=PH }:: | 4 | **5** | ::{ flag=PH }:: **Xidorn** | 11 |  |
 
 #### Round of 32
 
@@ -799,22 +799,22 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | HaruTachi- ![][flag_PH] | 0 | **4** | ![][flag_PH] **Afireee** | 32 | *win by default* |
-| 16 | **Eboryte** ![][flag_PH] | **4** | 3 | ![][flag_PH] NepNep- | 17 |  |
-| 8 | **- Neon -** ![][flag_PH] | **4** | 0 | ![][flag_PH] CloudBlaze | 25 | *win by default* |
-| 9 | **TyrantsEye2014** ![][flag_PH] | **4** | 0 | ![][flag_PH] SkyLifeHope | 24 |  |
-| 4 | **-Marika** ![][flag_PH] | **4** | 0 | ![][flag_PH] Aharu | 29 |  |
-| 13 | **xX\_MusicMan\_Xx** ![][flag_PH] | **4** | 2 | ![][flag_PH] xchan | 20 |  |
-| 5 | **Fraye** ![][flag_US] | **4** | 0 | ![][flag_PH] \[Paradoxum\] | 28 | *win by default* |
-| 12 | **Nezol** ![][flag_PH] | **4** | 1 | ![][flag_PH] CharlesMoveOn | 21 |  |
-| 2 | **Dunois** ![][flag_CA] | **4** | 0 | ![][flag_PH] Itsvet | 31 |  |
-| 15 | NymphSan05 ![][flag_PH] | 0 | **4** | ![][flag_PH] **Natsume-** | 18 | *win by default* |
-| 7 | **PhasiconN** ![][flag_PH] | **4** | 0 | ![][flag_PH] Awishi | 26 |  |
-| 10 | **Oooodriiin** ![][flag_PH] | **4** | 0 | ![][flag_PH] Caernarvon725 | 23 |  |
-| 3 | **Varsagus** ![][flag_PH] | **4** | 0 | ![][flag_PH] Mietzu | 30 |  |
-| 14 | **\[Vik\]** ![][flag_PH] | **4** | 0 | ![][flag_PH] Marika | 19 | *win by default* |
-| 6 | **fixedbyglue** ![][flag_PH] | **4** | 0 | ![][flag_PH] Scylz | 27 |  |
-| 11 | **Xidorn** ![][flag_PH] | **4** | 2 | ![][flag_PH] Rimazii | 22 |  |
+| 1 | HaruTachi- ::{ flag=PH }:: | 0 | **4** | ::{ flag=PH }:: **Afireee** | 32 | *win by default* |
+| 16 | **Eboryte** ::{ flag=PH }:: | **4** | 3 | ::{ flag=PH }:: NepNep- | 17 |  |
+| 8 | **- Neon -** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: CloudBlaze | 25 | *win by default* |
+| 9 | **TyrantsEye2014** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: SkyLifeHope | 24 |  |
+| 4 | **-Marika** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Aharu | 29 |  |
+| 13 | **xX\_MusicMan\_Xx** ::{ flag=PH }:: | **4** | 2 | ::{ flag=PH }:: xchan | 20 |  |
+| 5 | **Fraye** ::{ flag=US }:: | **4** | 0 | ::{ flag=PH }:: \[Paradoxum\] | 28 | *win by default* |
+| 12 | **Nezol** ::{ flag=PH }:: | **4** | 1 | ::{ flag=PH }:: CharlesMoveOn | 21 |  |
+| 2 | **Dunois** ::{ flag=CA }:: | **4** | 0 | ::{ flag=PH }:: Itsvet | 31 |  |
+| 15 | NymphSan05 ::{ flag=PH }:: | 0 | **4** | ::{ flag=PH }:: **Natsume-** | 18 | *win by default* |
+| 7 | **PhasiconN** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Awishi | 26 |  |
+| 10 | **Oooodriiin** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Caernarvon725 | 23 |  |
+| 3 | **Varsagus** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Mietzu | 30 |  |
+| 14 | **\[Vik\]** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Marika | 19 | *win by default* |
+| 6 | **fixedbyglue** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Scylz | 27 |  |
+| 11 | **Xidorn** ::{ flag=PH }:: | **4** | 2 | ::{ flag=PH }:: Rimazii | 22 |  |
 
 #### Qualifiers
 
@@ -828,8 +828,8 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 2 | **-Nicotine** ![][flag_PH] | **7** | 3 | ![][flag_PH] KaganimeRin | 8 |  |
-| 1 | **Roido** ![][flag_PH] | **7** | 0 | ![][flag_PH] Nicotine | 2 | *win by default* |
+| 2 | **-Nicotine** ::{ flag=PH }:: | **7** | 3 | ::{ flag=PH }:: KaganimeRin | 8 |  |
+| 1 | **Roido** ::{ flag=PH }:: | **7** | 0 | ::{ flag=PH }:: Nicotine | 2 | *win by default* |
 
 #### Finals week 1
 
@@ -837,10 +837,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 5 | **-MomoX** ![][flag_PH] | **7** | 2 | ![][flag_PH] Laqure | 6 |  |
-| 3 | - Kielzu - ![][flag_PH] | 0 | **7** | ![][flag_PH] **KaganimeRin** | 8 | *win by default* |
-| 5 | -MomoX ![][flag_PH] | 3 | **7** | ![][flag_PH] **KaganimeRin** | 8 |  |
-| 1 | **Roido** ![][flag_PH] | **7** | 2 | ![][flag_PH] -Nicotine | 2 |  |
+| 5 | **-MomoX** ::{ flag=PH }:: | **7** | 2 | ::{ flag=PH }:: Laqure | 6 |  |
+| 3 | - Kielzu - ::{ flag=PH }:: | 0 | **7** | ::{ flag=PH }:: **KaganimeRin** | 8 | *win by default* |
+| 5 | -MomoX ::{ flag=PH }:: | 3 | **7** | ::{ flag=PH }:: **KaganimeRin** | 8 |  |
+| 1 | **Roido** ::{ flag=PH }:: | **7** | 2 | ::{ flag=PH }:: -Nicotine | 2 |  |
 
 #### Semifinals and Loser's Bracket Round 2 and 3
 
@@ -848,14 +848,14 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 8 | **KaganimeRin** ![][flag_PH] | **6** | 0 | ![][flag___] Contingent | 11 | *win by default* |
-| 4 | **Crowley** ![][flag_PH] | **6** | 0 | ![][flag_PH] princealbert10 | 15 | *win by default* |
-| 10 | **AJamez** ![][flag_PH] | **6** | 0 | ![][flag_PH] Weazle | 13 | *win by default* |
-| 6 | **Laqure** ![][flag_PH] | **6** | 0 | ![][flag_PH] JeirYagtama | 9 | *win by default* |
-| 4 | Crowley ![][flag_PH] | 4 | **6** | ![][flag_PH] **KaganimeRin** | 8 |  |
-| 6 | **Laqure** ![][flag_PH] | **6** | 0 | ![][flag_PH] AJamez | 10 | *win by default* |
-| 1 | **Roido** ![][flag_PH] | **6** | 3 | ![][flag_PH] -MomoX | 5 |  |
-| 2 | **-Nicotine** ![][flag_PH] | **6** | 3 | ![][flag_PH] \* Kielzu - | 3 |  |
+| 8 | **KaganimeRin** ::{ flag=PH }:: | **6** | 0 | ::{ flag=XX }:: Contingent | 11 | *win by default* |
+| 4 | **Crowley** ::{ flag=PH }:: | **6** | 0 | ::{ flag=PH }:: princealbert10 | 15 | *win by default* |
+| 10 | **AJamez** ::{ flag=PH }:: | **6** | 0 | ::{ flag=PH }:: Weazle | 13 | *win by default* |
+| 6 | **Laqure** ::{ flag=PH }:: | **6** | 0 | ::{ flag=PH }:: JeirYagtama | 9 | *win by default* |
+| 4 | Crowley ::{ flag=PH }:: | 4 | **6** | ::{ flag=PH }:: **KaganimeRin** | 8 |  |
+| 6 | **Laqure** ::{ flag=PH }:: | **6** | 0 | ::{ flag=PH }:: AJamez | 10 | *win by default* |
+| 1 | **Roido** ::{ flag=PH }:: | **6** | 3 | ::{ flag=PH }:: -MomoX | 5 |  |
+| 2 | **-Nicotine** ::{ flag=PH }:: | **6** | 3 | ::{ flag=PH }:: \* Kielzu - | 3 |  |
 
 #### Quarterfinals and Loser's Bracket Round 1
 
@@ -863,14 +863,14 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 16 | justin1709 ![][flag_PH] | 0 | **5** | ![][flag_PH] **JeirYagtama** | 9 |  |
-| 13 | **Weazle** ![][flag_PH] | **5** | 1 | ![][flag_PH] kaarin | 12 |  |
-| 15 | **princealbert10** ![][flag_PH] | **5** | 0 | ![][flag_PH] Kuya Frex | 7 | *win by default* |
-| 14 | oSuTroop3r ![][flag_PH] | 0 | **5** | ![][flag___] **Contingent** | 11 | *win by default* |
-| 1 | **Roido** ![][flag_PH] | **5** | 3 | ![][flag_PH] KaganimeRin | 8 |  |
-| 4 | Crowley ![][flag_PH] | 2 | **5** | ![][flag_PH] **-MomoX** | 5 |  |
-| 2 | **-Nicotine** ![][flag_PH] | **5** | 0 | ![][flag_PH] AJamez | 10 | *win by default* |
-| 3 | **- Kielzu -** ![][flag_PH] | **5** | 1 | ![][flag_PH] Laqure | 6 |  |
+| 16 | justin1709 ::{ flag=PH }:: | 0 | **5** | ::{ flag=PH }:: **JeirYagtama** | 9 |  |
+| 13 | **Weazle** ::{ flag=PH }:: | **5** | 1 | ::{ flag=PH }:: kaarin | 12 |  |
+| 15 | **princealbert10** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: Kuya Frex | 7 | *win by default* |
+| 14 | oSuTroop3r ::{ flag=PH }:: | 0 | **5** | ::{ flag=XX }:: **Contingent** | 11 | *win by default* |
+| 1 | **Roido** ::{ flag=PH }:: | **5** | 3 | ::{ flag=PH }:: KaganimeRin | 8 |  |
+| 4 | Crowley ::{ flag=PH }:: | 2 | **5** | ::{ flag=PH }:: **-MomoX** | 5 |  |
+| 2 | **-Nicotine** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: AJamez | 10 | *win by default* |
+| 3 | **- Kielzu -** ::{ flag=PH }:: | **5** | 1 | ::{ flag=PH }:: Laqure | 6 |  |
 
 #### Round of 16
 
@@ -878,14 +878,14 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **Roido** ![][flag_PH] | **4** | 0 | ![][flag_PH] justin1709 | 16 |  |
-| 8 | **KaganimeRin** ![][flag_PH] | **4** | 0 | ![][flag_PH] JeirYagtama | 9 | *win by default* |
-| 4 | **Crowley** ![][flag_PH] | **4** | 0 | ![][flag_PH] Weazle | 13 |  |
-| 5 | **-MomoX** ![][flag_PH] | **4** | 0 | ![][flag_PH] kaarin | 12 |  |
-| 2 | **-Nicotine** ![][flag_PH] | **4** | 0 | ![][flag_PH] princealbert10 | 15 | *win by default* |
-| 7 | Kuya Frex ![][flag_PH] | 0 | **4** | ![][flag_PH] **AJamez** | 10 |  |
-| 3 | **- Kielzu -** ![][flag_PH] | **4** | 0 | ![][flag_PH] oSuTroop3r | 14 | *win by default* |
-| 6 | **Laqure** ![][flag_PH] | **4** | 0 | ![][flag___] Contingent | 11 | *win by default* |
+| 1 | **Roido** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: justin1709 | 16 |  |
+| 8 | **KaganimeRin** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: JeirYagtama | 9 | *win by default* |
+| 4 | **Crowley** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Weazle | 13 |  |
+| 5 | **-MomoX** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: kaarin | 12 |  |
+| 2 | **-Nicotine** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: princealbert10 | 15 | *win by default* |
+| 7 | Kuya Frex ::{ flag=PH }:: | 0 | **4** | ::{ flag=PH }:: **AJamez** | 10 |  |
+| 3 | **- Kielzu -** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: oSuTroop3r | 14 | *win by default* |
+| 6 | **Laqure** ::{ flag=PH }:: | **4** | 0 | ::{ flag=XX }:: Contingent | 11 | *win by default* |
 
 ### osu!mania 4K
 
@@ -895,8 +895,8 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| 3 | Vigne Tsukinose ![][flag_CL] | 2 | **7** | ![][flag___] **exodia3000** | 8 |
-| 1 | **joseee-** ![][flag_PH] | **7** | 6 | ![][flag___] exodia3000 | 8 |
+| 3 | Vigne Tsukinose ::{ flag=CL }:: | 2 | **7** | ::{ flag=XX }:: **exodia3000** | 8 |
+| 1 | **joseee-** ::{ flag=PH }:: | **7** | 6 | ::{ flag=XX }:: exodia3000 | 8 |
 
 #### Finals week 1
 
@@ -904,10 +904,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 4 | **Toyohime-** ![][flag_PH] | **7** | 6 | ![][flag_PH] MapleSyrup- | 2 |  |
-| 7 | Mk3605 ![][flag_PH] | 3 | **7** | ![][flag___] **exodia3000** | 8 |  |
-| 8 | **exodia3000** ![][flag___] | **7** | 1 | ![][flag_PH] Toyohime- | 4 |  |
-| 1 | **joseee-** ![][flag_PH] | **7** | 0 | ![][flag_CL] Vigne Tsukinose | 3 | *win by default* |
+| 4 | **Toyohime-** ::{ flag=PH }:: | **7** | 6 | ::{ flag=PH }:: MapleSyrup- | 2 |  |
+| 7 | Mk3605 ::{ flag=PH }:: | 3 | **7** | ::{ flag=XX }:: **exodia3000** | 8 |  |
+| 8 | **exodia3000** ::{ flag=XX }:: | **7** | 1 | ::{ flag=PH }:: Toyohime- | 4 |  |
+| 1 | **joseee-** ::{ flag=PH }:: | **7** | 0 | ::{ flag=CL }:: Vigne Tsukinose | 3 | *win by default* |
 
 #### Semifinals and Loser's Bracket Round 1
 
@@ -915,10 +915,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 8 | **exodia3000** ![][flag___] | **6** | 0 | ![][flag_PH] windrush123 | 5 |  |
-| 2 | **MapleSyrup-** ![][flag_PH] | **6** | 0 | ![][flag_PH] nyx- | 6 | *win by default* |
-| 1 | **joseee-** ![][flag_PH] | **6** | 0 | ![][flag_PH] Toyohime- | 4 |  |
-| 7 | Mk3605 ![][flag_PH] | 2 | **6** | ![][flag_CL] **Vigne Tsukinose** | 3 |  |
+| 8 | **exodia3000** ::{ flag=XX }:: | **6** | 0 | ::{ flag=PH }:: windrush123 | 5 |  |
+| 2 | **MapleSyrup-** ::{ flag=PH }:: | **6** | 0 | ::{ flag=PH }:: nyx- | 6 | *win by default* |
+| 1 | **joseee-** ::{ flag=PH }:: | **6** | 0 | ::{ flag=PH }:: Toyohime- | 4 |  |
+| 7 | Mk3605 ::{ flag=PH }:: | 2 | **6** | ::{ flag=CL }:: **Vigne Tsukinose** | 3 |  |
 
 #### Quarterfinals
 
@@ -926,10 +926,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| 1 | **joseee-** ![][flag_PH] | **5** | 2 | ![][flag___] exodia3000 | 8 |
-| 4 | **Toyohime-** ![][flag_PH] | **5** | 4 | ![][flag_PH] windrush123 | 5 |
-| 2 | MapleSyrup- ![][flag_PH] | 1 | **5** | ![][flag_PH] **Mk3605** | 7 |
-| 3 | **Vigne Tsukinose** ![][flag_CL] | **5** | 1 | ![][flag_PH] nyx- | 6 |
+| 1 | **joseee-** ::{ flag=PH }:: | **5** | 2 | ::{ flag=XX }:: exodia3000 | 8 |
+| 4 | **Toyohime-** ::{ flag=PH }:: | **5** | 4 | ::{ flag=PH }:: windrush123 | 5 |
+| 2 | MapleSyrup- ::{ flag=PH }:: | 1 | **5** | ::{ flag=PH }:: **Mk3605** | 7 |
+| 3 | **Vigne Tsukinose** ::{ flag=CL }:: | **5** | 1 | ::{ flag=PH }:: nyx- | 6 |
 
 #### Group stage
 
@@ -937,30 +937,30 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 4 | **nyx-** ![][flag_PH] | **4** | 0 | ![][flag_PH] Nelvin\_27 | 7 | *win by default* |
-| 4 | nyx- ![][flag_PH] | 3 | **4** | ![][flag_CL] **Vigne Tsukinose** | 12 |  |
-| 4 | **nyx-** ![][flag_PH] | **4** | 3 | ![][flag_PH] GTXCZE | 14 |  |
-| 7 | Nelvin\_27 ![][flag_PH] | 0 | **4** | ![][flag_CL] **Vigne Tsukinose** | 12 | *win by default* |
-| 7 | Nelvin\_27 ![][flag_PH] | 0 | **4** | ![][flag_PH] **GTXCZE** | 14 | *win by default* |
-| 12 | **Vigne Tsukinose** ![][flag_CL] | **4** | 1 | ![][flag_PH] GTXCZE | 14 |  |
-| 2 | **MapleSyrup-** ![][flag_PH] | **4** | 3 | ![][flag_PH] TheArge | 5 |  |
-| 2 | **MapleSyrup-** ![][flag_PH] | **4** | 1 | ![][flag_US] Trainer- | 9 |  |
-| 2 | **MapleSyrup-** ![][flag_PH] | **4** | 0 | ![][flag___] exodia3000 | 13 |  |
-| 5 | **TheArge** ![][flag_PH] | **4** | 0 | ![][flag_US] Trainer- | 9 | *win by default* |
-| 5 | TheArge ![][flag_PH] | 0 | **4** | ![][flag___] **exodia3000** | 13 | *win by default* |
-| 9 | Trainer- ![][flag_US] | 3 | **4** | ![][flag___] **exodia3000** | 13 |  |
-| 3 | **windrush123** ![][flag_PH] | **4** | 0 | ![][flag_PH] FeveredNickel | 8 |  |
-| 3 | windrush123 ![][flag_PH] | 3 | **4** | ![][flag_PH] **Toyohime-** | 11 |  |
-| 3 | **windrush123** ![][flag_PH] | **4** | 0 | ![][flag_PH] Baltz | 15 |  |
-| 8 | FeveredNickel ![][flag_PH] | 1 | **4** | ![][flag_PH] **Toyohime-** | 11 |  |
-| 8 | FeveredNickel ![][flag_PH] | 1 | **4** | ![][flag_PH] **Baltz** | 15 |  |
-| 11 | **Toyohime-** ![][flag_PH] | **4** | 2 | ![][flag_PH] Baltz | 15 |  |
-| 1 | **joseee-** ![][flag_PH] | **4** | 0 | ![][flag_PH] Mk3605 | 6 |  |
-| 1 | **joseee-** ![][flag_PH] | **4** | 0 | ![][flag_PH] \_Shirayukihime\_ | 10 | *win by default* |
-| 1 | **joseee-** ![][flag_PH] | **4** | 0 | ![][flag_PH] Mentai Cosmic | 17 |  |
-| 6 | **Mk3605** ![][flag_PH] | **4** | 0 | ![][flag_PH] \_Shirayukihime\_ | 10 | *win by default* |
-| 6 | **Mk3605** ![][flag_PH] | **4** | 1 | ![][flag_PH] Mentai Cosmic | 17 |  |
-| 10 | **\_Shirayukihime\_** ![][flag_PH] | **4** | 0 | ![][flag_PH] Mentai Cosmic | 17 | *win by default* |
+| 4 | **nyx-** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Nelvin\_27 | 7 | *win by default* |
+| 4 | nyx- ::{ flag=PH }:: | 3 | **4** | ::{ flag=CL }:: **Vigne Tsukinose** | 12 |  |
+| 4 | **nyx-** ::{ flag=PH }:: | **4** | 3 | ::{ flag=PH }:: GTXCZE | 14 |  |
+| 7 | Nelvin\_27 ::{ flag=PH }:: | 0 | **4** | ::{ flag=CL }:: **Vigne Tsukinose** | 12 | *win by default* |
+| 7 | Nelvin\_27 ::{ flag=PH }:: | 0 | **4** | ::{ flag=PH }:: **GTXCZE** | 14 | *win by default* |
+| 12 | **Vigne Tsukinose** ::{ flag=CL }:: | **4** | 1 | ::{ flag=PH }:: GTXCZE | 14 |  |
+| 2 | **MapleSyrup-** ::{ flag=PH }:: | **4** | 3 | ::{ flag=PH }:: TheArge | 5 |  |
+| 2 | **MapleSyrup-** ::{ flag=PH }:: | **4** | 1 | ::{ flag=US }:: Trainer- | 9 |  |
+| 2 | **MapleSyrup-** ::{ flag=PH }:: | **4** | 0 | ::{ flag=XX }:: exodia3000 | 13 |  |
+| 5 | **TheArge** ::{ flag=PH }:: | **4** | 0 | ::{ flag=US }:: Trainer- | 9 | *win by default* |
+| 5 | TheArge ::{ flag=PH }:: | 0 | **4** | ::{ flag=XX }:: **exodia3000** | 13 | *win by default* |
+| 9 | Trainer- ::{ flag=US }:: | 3 | **4** | ::{ flag=XX }:: **exodia3000** | 13 |  |
+| 3 | **windrush123** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: FeveredNickel | 8 |  |
+| 3 | windrush123 ::{ flag=PH }:: | 3 | **4** | ::{ flag=PH }:: **Toyohime-** | 11 |  |
+| 3 | **windrush123** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Baltz | 15 |  |
+| 8 | FeveredNickel ::{ flag=PH }:: | 1 | **4** | ::{ flag=PH }:: **Toyohime-** | 11 |  |
+| 8 | FeveredNickel ::{ flag=PH }:: | 1 | **4** | ::{ flag=PH }:: **Baltz** | 15 |  |
+| 11 | **Toyohime-** ::{ flag=PH }:: | **4** | 2 | ::{ flag=PH }:: Baltz | 15 |  |
+| 1 | **joseee-** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Mk3605 | 6 |  |
+| 1 | **joseee-** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: \_Shirayukihime\_ | 10 | *win by default* |
+| 1 | **joseee-** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Mentai Cosmic | 17 |  |
+| 6 | **Mk3605** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: \_Shirayukihime\_ | 10 | *win by default* |
+| 6 | **Mk3605** ::{ flag=PH }:: | **4** | 1 | ::{ flag=PH }:: Mentai Cosmic | 17 |  |
+| 10 | **\_Shirayukihime\_** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Mentai Cosmic | 17 | *win by default* |
 
 #### Post-qualification play-offs
 
@@ -968,22 +968,22 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 16 | inverselina ![][flag_PH] | 0 | **4** | ![][flag_PH] **Mentai Cosmic** | 17 | *win by default* |
-| 15 | **Baltz** ![][flag_PH] | **4** | 0 | ![][flag_PH] \[\_blank-\] | 18 |  |
-| 14 | **GTXCZE** ![][flag_PH] | **4** | 0 | ![][flag_PH] EikiShiki60 | 19 |  |
-| 13 | **exodia3000** ![][flag___] | **4** | 1 | ![][flag_PH] Kaleiodo | 20 |  |
-| 12 | **Vigne Tsukinose** ![][flag_CL] | **4** | 1 | ![][flag_PH] takedown411 | 21 |  |
-| 11 | **Toyohime-** ![][flag_PH] | **4** | 0 | ![][flag_US] Chez | 22 |  |
-| 10 | **\_Shirayukihime\_** ![][flag_PH] | **4** | 0 | ![][flag_PH] Hezekiah- | 23 |  |
-| 9 | **Trainer-** ![][flag_US] | **4** | 0 | ![][flag_AU] Victoria Artois | 24 |  |
-| 28 | szc19 ![][flag_PH] | 0 | **4** | ![][flag_PH] **Inoariusu** | 29 | *win by default* |
-| 27 | **Batujitsu** ![][flag_PH] | **4** | 0 | ![][flag_PH] lord_waker | 30 | *win by default* |
-| 26 | Lordie09 ![][flag_PH] | 2 | **4** | ![][flag_PH] **vincent4399** | 31 |  |
-| 25 | **Otaku\_Gamer\_INF** ![][flag_PH] | **4** | 3 | ![][flag_PH] Altertis | 32 |  |
-| 5 | **TheArge** ![][flag_PH] | **4** | 1 | ![][flag_PH] Inoariusu | 29 |  |
-| 6 | **Mk3605** ![][flag_PH] | **4** | 0 | ![][flag_PH] Batujitsu | 27 |  |
-| 7 | **Nelvin\_27** ![][flag_PH] | **4** | 2 | ![][flag_PH] vincent4399 | 31 |  |
-| 8 | **FeveredNickel** ![][flag_PH] | **4** | 2 | ![][flag_PH] Otaku\_Gamer\_INF | 25 |  |
+| 16 | inverselina ::{ flag=PH }:: | 0 | **4** | ::{ flag=PH }:: **Mentai Cosmic** | 17 | *win by default* |
+| 15 | **Baltz** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: \[\_blank-\] | 18 |  |
+| 14 | **GTXCZE** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: EikiShiki60 | 19 |  |
+| 13 | **exodia3000** ::{ flag=XX }:: | **4** | 1 | ::{ flag=PH }:: Kaleiodo | 20 |  |
+| 12 | **Vigne Tsukinose** ::{ flag=CL }:: | **4** | 1 | ::{ flag=PH }:: takedown411 | 21 |  |
+| 11 | **Toyohime-** ::{ flag=PH }:: | **4** | 0 | ::{ flag=US }:: Chez | 22 |  |
+| 10 | **\_Shirayukihime\_** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Hezekiah- | 23 |  |
+| 9 | **Trainer-** ::{ flag=US }:: | **4** | 0 | ::{ flag=AU }:: Victoria Artois | 24 |  |
+| 28 | szc19 ::{ flag=PH }:: | 0 | **4** | ::{ flag=PH }:: **Inoariusu** | 29 | *win by default* |
+| 27 | **Batujitsu** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: lord_waker | 30 | *win by default* |
+| 26 | Lordie09 ::{ flag=PH }:: | 2 | **4** | ::{ flag=PH }:: **vincent4399** | 31 |  |
+| 25 | **Otaku\_Gamer\_INF** ::{ flag=PH }:: | **4** | 3 | ::{ flag=PH }:: Altertis | 32 |  |
+| 5 | **TheArge** ::{ flag=PH }:: | **4** | 1 | ::{ flag=PH }:: Inoariusu | 29 |  |
+| 6 | **Mk3605** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: Batujitsu | 27 |  |
+| 7 | **Nelvin\_27** ::{ flag=PH }:: | **4** | 2 | ::{ flag=PH }:: vincent4399 | 31 |  |
+| 8 | **FeveredNickel** ::{ flag=PH }:: | **4** | 2 | ::{ flag=PH }:: Otaku\_Gamer\_INF | 25 |  |
 
 #### Qualifiers
 
@@ -997,8 +997,8 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| 1 | MapleSyrup ![][flag_PH] | 0 | **7** | ![][flag_CL] **Vigne Tsukinose** | 3 |
-| 2 | **cieloday05** ![][flag_PH] | **7** | 1 | ![][flag_CL] Vigne Tsukinose | 3 |
+| 1 | MapleSyrup ::{ flag=PH }:: | 0 | **7** | ::{ flag=CL }:: **Vigne Tsukinose** | 3 |
+| 2 | **cieloday05** ::{ flag=PH }:: | **7** | 1 | ::{ flag=CL }:: Vigne Tsukinose | 3 |
 
 #### Finals week 1
 
@@ -1006,10 +1006,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 5 | **LackPoints** ![][flag_PH] | **7** | 0 | ![][flag_PH] joseee- | 6 | *win by default* |
-| 3 | **Vigne Tsukinose** ![][flag_CL] | **7** | 0 | ![][flag_PH] - Kura - | 4 | *win by default* |
-| 3 | **Vigne Tsukinose** ![][flag_CL] | **7** | 0 | ![][flag_PH] LackPoints | 5 |  |
-| 1 | MapleSyrup- ![][flag_PH] | 0 | **7** | ![][flag_PH] **cieloday05** | 2 |  |
+| 5 | **LackPoints** ::{ flag=PH }:: | **7** | 0 | ::{ flag=PH }:: joseee- | 6 | *win by default* |
+| 3 | **Vigne Tsukinose** ::{ flag=CL }:: | **7** | 0 | ::{ flag=PH }:: - Kura - | 4 | *win by default* |
+| 3 | **Vigne Tsukinose** ::{ flag=CL }:: | **7** | 0 | ::{ flag=PH }:: LackPoints | 5 |  |
+| 1 | MapleSyrup- ::{ flag=PH }:: | 0 | **7** | ::{ flag=PH }:: **cieloday05** | 2 |  |
 
 #### Semifinals and Loser's Bracket Round 1
 
@@ -1017,10 +1017,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 8 | nyx- ![][flag_PH] | 0 | **6** | ![][flag_PH] **- Kura -** | 4 | *win by default* |
-| 7 | Tots ![][flag_PH] | 0 | **6** | ![][flag_PH] **joseee-** | 6 | *win by default* |
-| 1 | **MapleSyrup-** ![][flag_PH] | **6** | 0 | ![][flag_PH] LackPoints | 5 |  |
-| 2 | **cieloday05** ![][flag_PH] | **6** | 0 | ![][flag_CL] Vigne Tsukinose | 3 |  |
+| 8 | nyx- ::{ flag=PH }:: | 0 | **6** | ::{ flag=PH }:: **- Kura -** | 4 | *win by default* |
+| 7 | Tots ::{ flag=PH }:: | 0 | **6** | ::{ flag=PH }:: **joseee-** | 6 | *win by default* |
+| 1 | **MapleSyrup-** ::{ flag=PH }:: | **6** | 0 | ::{ flag=PH }:: LackPoints | 5 |  |
+| 2 | **cieloday05** ::{ flag=PH }:: | **6** | 0 | ::{ flag=CL }:: Vigne Tsukinose | 3 |  |
 
 #### Quarterfinals
 
@@ -1028,10 +1028,10 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **MapleSyrup-** ![][flag_PH] | **5** | 0 | ![][flag_PH] nyx- | 8 |  |
-| 4 | - Kura - ![][flag_PH] | 0 | **5** | ![][flag_PH] **LackPoints** | 5 | *win by default* |
-| 2 | **cieloday05** ![][flag_PH] | **5** | 0 | ![][flag_PH] Tots | 7 | *win by default* |
-| 3 | **Vigne Tsukinose** ![][flag_CL] | **5** | 0 | ![][flag_PH] joseee- | 6 | *win by default* |
+| 1 | **MapleSyrup-** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: nyx- | 8 |  |
+| 4 | - Kura - ::{ flag=PH }:: | 0 | **5** | ::{ flag=PH }:: **LackPoints** | 5 | *win by default* |
+| 2 | **cieloday05** ::{ flag=PH }:: | **5** | 0 | ::{ flag=PH }:: Tots | 7 | *win by default* |
+| 3 | **Vigne Tsukinose** ::{ flag=CL }:: | **5** | 0 | ::{ flag=PH }:: joseee- | 6 | *win by default* |
 
 #### Group stage
 
@@ -1039,27 +1039,27 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 | Seed | Player 1 |  |  | Player 2 | Seed | Note |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 3 | **cieloday05** ![][flag_PH] | **4** | 1 | ![][flag_PH] joseee- | 6 |  |
-| 3 | **cieloday05** ![][flag_PH] | **4** | 0 | ![][flag_PH] FeveredNickel | 9 | *win by default* |
-| 3 | **cieloday05** ![][flag_PH] | **4** | 0 | ![][flag_PH] DrawdeX | 14 | *win by default* |
-| 6 | **joseee-** ![][flag_PH] | **4** | 0 | ![][flag_PH] FeveredNickel | 9 |  |
-| 6 | **joseee-** ![][flag_PH] | **4** | 0 | ![][flag_PH] DrawdeX | 14 |  |
-| 9 | **FeveredNickel** ![][flag_PH] | **4** | 0 | ![][flag_PH] DrawdeX | 14 | *win by default* |
-| 2 | **- Kura -** ![][flag_PH] | **4** | 2 | ![][flag_PH] LackPoints | 5 |  |
-| 2 | **- Kura -** ![][flag_PH] | **4** | 1 | ![][flag_PH] windrush123 | 12 |  |
-| 2 | **- Kura -** ![][flag_PH] | **4** | 0 | ![][flag_US] Chez | 13 | *win by default* |
-| 5 | **LackPoints** ![][flag_PH] | **4** | 0 | ![][flag_PH] windrush123 | 12 |  |
-| 5 | **LackPoints** ![][flag_PH] | **4** | 0 | ![][flag_US] Chez | 13 | *win by default* |
-| 12 | **windrush123** ![][flag_PH] | **4** | 0 | ![][flag_US] Chez | 13 | *win by default* |
-| 1 | **MapleSyrup-** ![][flag_PH] | **4** | 1 | ![][flag_PH] Tots | 8 |  |
-| 1 | **MapleSyrup-** ![][flag_PH] | **4** | 0 | ![][flag_PH] \_Shirayukihime\_ | 11 | *win by default* |
-| 1 | **MapleSyrup-** ![][flag_PH] | **4** | 0 | ![][flag_PH] - Aries - | 15 |  |
-| 8 | **Tots** ![][flag_PH] | **4** | 0 | ![][flag_PH] \_Shirayukihime\_ | 11 | *win by default* |
-| 8 | **Tots** ![][flag_PH] | **4** | 0 | ![][flag_PH] - Aries - | 15 | *win by default* |
-| 11 | **\_Shirayukihime\_** ![][flag_PH] | **4** | 0 | ![][flag_PH] - Aries - | 15 | *win by default* |
-| 4 | **Vigne Tsukinose** ![][flag_CL] | **4** | 1 | ![][flag_PH] fer789 | 7 |  |
-| 4 | **Vigne Tsukinose** ![][flag_CL] | **4** | 0 | ![][flag_PH] nyx- | 10 |  |
-| 7 | fer789 ![][flag_PH] | 2 | **4** | ![][flag_PH] **nyx-** | 10 |  |
+| 3 | **cieloday05** ::{ flag=PH }:: | **4** | 1 | ::{ flag=PH }:: joseee- | 6 |  |
+| 3 | **cieloday05** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: FeveredNickel | 9 | *win by default* |
+| 3 | **cieloday05** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: DrawdeX | 14 | *win by default* |
+| 6 | **joseee-** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: FeveredNickel | 9 |  |
+| 6 | **joseee-** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: DrawdeX | 14 |  |
+| 9 | **FeveredNickel** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: DrawdeX | 14 | *win by default* |
+| 2 | **- Kura -** ::{ flag=PH }:: | **4** | 2 | ::{ flag=PH }:: LackPoints | 5 |  |
+| 2 | **- Kura -** ::{ flag=PH }:: | **4** | 1 | ::{ flag=PH }:: windrush123 | 12 |  |
+| 2 | **- Kura -** ::{ flag=PH }:: | **4** | 0 | ::{ flag=US }:: Chez | 13 | *win by default* |
+| 5 | **LackPoints** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: windrush123 | 12 |  |
+| 5 | **LackPoints** ::{ flag=PH }:: | **4** | 0 | ::{ flag=US }:: Chez | 13 | *win by default* |
+| 12 | **windrush123** ::{ flag=PH }:: | **4** | 0 | ::{ flag=US }:: Chez | 13 | *win by default* |
+| 1 | **MapleSyrup-** ::{ flag=PH }:: | **4** | 1 | ::{ flag=PH }:: Tots | 8 |  |
+| 1 | **MapleSyrup-** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: \_Shirayukihime\_ | 11 | *win by default* |
+| 1 | **MapleSyrup-** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: - Aries - | 15 |  |
+| 8 | **Tots** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: \_Shirayukihime\_ | 11 | *win by default* |
+| 8 | **Tots** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: - Aries - | 15 | *win by default* |
+| 11 | **\_Shirayukihime\_** ::{ flag=PH }:: | **4** | 0 | ::{ flag=PH }:: - Aries - | 15 | *win by default* |
+| 4 | **Vigne Tsukinose** ::{ flag=CL }:: | **4** | 1 | ::{ flag=PH }:: fer789 | 7 |  |
+| 4 | **Vigne Tsukinose** ::{ flag=CL }:: | **4** | 0 | ::{ flag=PH }:: nyx- | 10 |  |
+| 7 | fer789 ::{ flag=PH }:: | 2 | **4** | ::{ flag=PH }:: **nyx-** | 10 |  |
 
 #### Qualifiers
 
@@ -1103,7 +1103,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Eligibility and registration
 
-- Players who currently have the ![][flag_PH] Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but **can present a proof of their Philippine Citizenship** to the staff are the only ones allowed to join the tournament, **regardless of rank on the game mode they are participating in**. There is no requirement for the player to understand the Filipino Language as a whole in order to be permitted.
+- Players who currently have the ::{ flag=PH }:: Philippine Flag on their profile or players who do not have the Philippine Flag on their profiles but **can present a proof of their Philippine Citizenship** to the staff are the only ones allowed to join the tournament, **regardless of rank on the game mode they are participating in**. There is no requirement for the player to understand the Filipino Language as a whole in order to be permitted.
 - Players who have shown exemplary performances over the previous months will be given an invitation to join the tournament and will be reserved a registration slot upon acceptance.
 - Staff Members who are **not part of the Executive Committee and the Mappool Selectors** are permitted to join the tourney.
 - The Registration phase of the tournament will begin on 2018-04-01 and end on 2018-04-15. Thirty-two (32) slots are initially opened for each tournament and players are either invited or asked to sign a registration form (invited players will be given priority), and will be seeded according to a criteria that is to be decided by the tournament organizers as they see fit. Additional slots may be added to the discretion of the Executive Committee. Players are allowed to join ANY of the four tournaments.
@@ -1216,17 +1216,8 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Qualification criteria (osu!mania)
 
-- During the staff discussions on the [Springtime osu!mania 4k Free-for-all Tournament](/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed **[Score Rating System](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217)** by ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers.
+- During the staff discussions on the [Springtime osu!mania 4k Free-for-all Tournament](/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed **[Score Rating System](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217)** by ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers.
 
 ### Disconnection clauses
 
 - It has been observed that computing percentages from the drain time is not practical, hence a definite clause was laid out.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag___]: /wiki/shared/flag/__.gif

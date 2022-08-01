@@ -4,6 +4,4 @@ stub: true
 
 # upppy
 
-**[upppy](https://up.ppy.sh)** adalah layanan pengunggahan file yang di-host oleh ![][flag_AU] [peppy](https://osu.ppy.sh/users/2). Layanan ini biasa digunakan untuk berbagi gambar di komunitas osu!.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+**[upppy](https://up.ppy.sh)** adalah layanan pengunggahan file yang di-host oleh ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). Layanan ini biasa digunakan untuk berbagi gambar di komunitas osu!.

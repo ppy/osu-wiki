@@ -8,7 +8,7 @@ tags:
 
 ![ATT 2020 logo](img/logo.jpg)
 
-The **Ausu!Taiko Tournament 2020** (**ATT 2020**) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352). The tournament was restricted to players within the Southeast Asian countries only. It was the sixth instalment of the Ausu!Taiko Tournament.
+The **Ausu!Taiko Tournament 2020** (**ATT 2020**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352). The tournament was restricted to players within the Southeast Asian countries only. It was the sixth instalment of the Ausu!Taiko Tournament.
 
 ## Tournament schedule
 
@@ -36,12 +36,12 @@ The Ausu!Taiko Tournament 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
-| Mappool selector | ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
-| Referee | ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_AU] [chenny](https://osu.ppy.sh/users/5845305), ![][flag_AU] [Likelihood](https://osu.ppy.sh/users/12998897), ![][flag_AU] [soliderror](https://osu.ppy.sh/users/10630542), ![][flag_AU] [sonniet](https://osu.ppy.sh/users/3773760) |
-| Streamer | ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) |
-| Designer | ![][flag_AU] [Likelihood](https://osu.ppy.sh/users/12998897) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) |
+| Mappool selector | ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) |
+| Referee | ::{ flag=AU }:: [anim shnacc](https://osu.ppy.sh/users/11373924), ::{ flag=AU }:: [Cactie](https://osu.ppy.sh/users/5592409), ::{ flag=AU }:: [chenny](https://osu.ppy.sh/users/5845305), ::{ flag=AU }:: [Likelihood](https://osu.ppy.sh/users/12998897), ::{ flag=AU }:: [soliderror](https://osu.ppy.sh/users/10630542), ::{ flag=AU }:: [sonniet](https://osu.ppy.sh/users/3773760) |
+| Streamer | ::{ flag=AU }:: [ill onion](https://osu.ppy.sh/users/8306102) |
+| Designer | ::{ flag=AU }:: [Likelihood](https://osu.ppy.sh/users/12998897) |
+| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -54,22 +54,22 @@ The Ausu!Taiko Tournament 2020 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Special | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269), ![][flag_AU] [acid](https://osu.ppy.sh/users/2913584), ![][flag_AU] [r1chyy](https://osu.ppy.sh/users/11499467) |
-| Top | ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_ID] [Katdon\_donKat](https://osu.ppy.sh/users/8089664), ![][flag_PH] [Aiery](https://osu.ppy.sh/users/10363380), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621), ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514) |
-| High | ![][flag_ID] [Kaemz](https://osu.ppy.sh/users/8494233), ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_ID] [ImChro](https://osu.ppy.sh/users/7280717), ![][flag_PH] [FiNNb](https://osu.ppy.sh/users/2164993), ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
-| Mid | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_AU] [- Heatwave -](https://osu.ppy.sh/users/4166621), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_AU] [- ease -](https://osu.ppy.sh/users/10692856), ![][flag_AU] [camx](https://osu.ppy.sh/users/4922423) |
-| Low | ![][flag_AU] [Vezuri](https://osu.ppy.sh/users/11457644), ![][flag_NZ] [Erkfir](https://osu.ppy.sh/users/7756939), ![][flag_AU] [HD\_AdreNaline](https://osu.ppy.sh/users/10540368), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_AU] [jkl68](https://osu.ppy.sh/users/4560404), ![][flag_AU] [Monk The Don](https://osu.ppy.sh/users/4012086) |
+| Special | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=PH }:: [jmeh07](https://osu.ppy.sh/users/2852269), ::{ flag=AU }:: [acid](https://osu.ppy.sh/users/2913584), ::{ flag=AU }:: [r1chyy](https://osu.ppy.sh/users/11499467) |
+| Top | ::{ flag=SG }:: [Bobfree](https://osu.ppy.sh/users/10096125), ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183), ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621), ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) |
+| High | ::{ flag=ID }:: [Kaemz](https://osu.ppy.sh/users/8494233), ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=ID }:: [ImChro](https://osu.ppy.sh/users/7280717), ::{ flag=PH }:: [FiNNb](https://osu.ppy.sh/users/2164993), ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
+| Mid | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302), ::{ flag=AU }:: [- Heatwave -](https://osu.ppy.sh/users/4166621), ::{ flag=NZ }:: [Blujae](https://osu.ppy.sh/users/10613885), ::{ flag=AU }:: [- ease -](https://osu.ppy.sh/users/10692856), ::{ flag=AU }:: [camx](https://osu.ppy.sh/users/4922423) |
+| Low | ::{ flag=AU }:: [Vezuri](https://osu.ppy.sh/users/11457644), ::{ flag=NZ }:: [Erkfir](https://osu.ppy.sh/users/7756939), ::{ flag=AU }:: [HD\_AdreNaline](https://osu.ppy.sh/users/10540368), ::{ flag=NZ }:: [NutAndGo](https://osu.ppy.sh/users/7740118), ::{ flag=AU }:: [jkl68](https://osu.ppy.sh/users/4560404), ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086) |
 
 ## Groups
 
 | Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_ID] [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | ![][flag_AU] [camx](https://osu.ppy.sh/users/4922423) | ![][flag_NZ] [Erkfir](https://osu.ppy.sh/users/7756939) |
-| **B** | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) | ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) | ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118) |
-| **C** | ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183) | ![][flag_ID] [Kaemz](https://osu.ppy.sh/users/8494233) | ![][flag_AU] [- ease -](https://osu.ppy.sh/users/10692856) | ![][flag_AU] [Vezuri](https://osu.ppy.sh/users/11457644) |
-| **D** | ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125) | ![][flag_PH] [FiNNb](https://osu.ppy.sh/users/2164993) | ![][flag_AU] [- Heatwave -](https://osu.ppy.sh/users/4166621) | ![][flag_AU] [HD\_AdreNaline](https://osu.ppy.sh/users/10540368) |
-| **E** | ![][flag_PH] [Aiery](https://osu.ppy.sh/users/10363380) | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) | ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885) | ![][flag_AU] [Monk The Don](https://osu.ppy.sh/users/4012086) |
-| **F** | ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514) | ![][flag_ID] [ImChro](https://osu.ppy.sh/users/7280717) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) | ![][flag_AU] [jkl68](https://osu.ppy.sh/users/4560404) |
+| **A** | ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071) | ::{ flag=AU }:: [camx](https://osu.ppy.sh/users/4922423) | ::{ flag=NZ }:: [Erkfir](https://osu.ppy.sh/users/7756939) |
+| **B** | ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621) | ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) | ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) | ::{ flag=NZ }:: [NutAndGo](https://osu.ppy.sh/users/7740118) |
+| **C** | ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) | ::{ flag=ID }:: [Kaemz](https://osu.ppy.sh/users/8494233) | ::{ flag=AU }:: [- ease -](https://osu.ppy.sh/users/10692856) | ::{ flag=AU }:: [Vezuri](https://osu.ppy.sh/users/11457644) |
+| **D** | ::{ flag=SG }:: [Bobfree](https://osu.ppy.sh/users/10096125) | ::{ flag=PH }:: [FiNNb](https://osu.ppy.sh/users/2164993) | ::{ flag=AU }:: [- Heatwave -](https://osu.ppy.sh/users/4166621) | ::{ flag=AU }:: [HD\_AdreNaline](https://osu.ppy.sh/users/10540368) |
+| **E** | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380) | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) | ::{ flag=NZ }:: [Blujae](https://osu.ppy.sh/users/10613885) | ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086) |
+| **F** | ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) | ::{ flag=ID }:: [ImChro](https://osu.ppy.sh/users/7280717) | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) | ::{ flag=AU }:: [jkl68](https://osu.ppy.sh/users/4560404) |
 
 ## Podium
 
@@ -77,9 +77,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [jmeh07](https://osu.ppy.sh/users/2852269) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
 
 ## Mappools
 
@@ -212,21 +212,21 @@ Monday, 1 June 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **cdhsausageboy** ![][flag_MY] | **7** | 4 | ![][flag_SG] Bobfree | [#1](https://osu.ppy.sh/community/matches/62370010) |
+| **cdhsausageboy** ::{ flag=MY }:: | **7** | 4 | ::{ flag=SG }:: Bobfree | [#1](https://osu.ppy.sh/community/matches/62370010) |
 
 Saturday, 6 June 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Sparxe** ![][flag_NZ] | **7** | 6 | ![][flag_PH] jmeh07 | [#1](https://osu.ppy.sh/community/matches/62575339) |
+| **Sparxe** ::{ flag=NZ }:: | **7** | 6 | ::{ flag=PH }:: jmeh07 | [#1](https://osu.ppy.sh/community/matches/62575339) |
 
 Sunday, 7 June 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **jmeh07** ![][flag_PH] | **7** | 5 | ![][flag_MY] cdhsausageboy | [#1](https://osu.ppy.sh/community/matches/62617427) |
-| Sparxe ![][flag_NZ] | 3 | **7** | ![][flag_PH] **jmeh07** | [#1](https://osu.ppy.sh/community/matches/62619400) |
-| **jmeh07** ![][flag_PH] | **7** | 4 | ![][flag_NZ] Sparxe | [#1](https://osu.ppy.sh/community/matches/62621523) |
+| **jmeh07** ::{ flag=PH }:: | **7** | 5 | ::{ flag=MY }:: cdhsausageboy | [#1](https://osu.ppy.sh/community/matches/62617427) |
+| Sparxe ::{ flag=NZ }:: | 3 | **7** | ::{ flag=PH }:: **jmeh07** | [#1](https://osu.ppy.sh/community/matches/62619400) |
+| **jmeh07** ::{ flag=PH }:: | **7** | 4 | ::{ flag=NZ }:: Sparxe | [#1](https://osu.ppy.sh/community/matches/62621523) |
 
 ### Semifinals
 
@@ -234,22 +234,22 @@ Saturday, 30 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bobfree** ![][flag_SG] | **7** | 3 | ![][flag_PH] Aiery | [#1](https://osu.ppy.sh/community/matches/62282080) |
-| **jmeh07** ![][flag_PH] | **7** | 0 | ![][flag_AU] acid | [#1](https://osu.ppy.sh/community/matches/62282747) |
-| **Sparxe** ![][flag_NZ] | **7** | 0 | ![][flag_MY] cdhsausageboy | [#1](https://osu.ppy.sh/community/matches/62286781) |
+| **Bobfree** ::{ flag=SG }:: | **7** | 3 | ::{ flag=PH }:: Aiery | [#1](https://osu.ppy.sh/community/matches/62282080) |
+| **jmeh07** ::{ flag=PH }:: | **7** | 0 | ::{ flag=AU }:: acid | [#1](https://osu.ppy.sh/community/matches/62282747) |
+| **Sparxe** ::{ flag=NZ }:: | **7** | 0 | ::{ flag=MY }:: cdhsausageboy | [#1](https://osu.ppy.sh/community/matches/62286781) |
 
 Sunday, 31 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Bedwyr Aorta ![][flag_MY] | 2 | **7** | ![][flag_ID] **Volta** | [#1](https://osu.ppy.sh/community/matches/62326316) |
-| **cdhsausageboy** ![][flag_MY] | **7** | 3 | ![][flag_ID] Volta | [#1](https://osu.ppy.sh/community/matches/62328139) |
+| Bedwyr Aorta ::{ flag=MY }:: | 2 | **7** | ::{ flag=ID }:: **Volta** | [#1](https://osu.ppy.sh/community/matches/62326316) |
+| **cdhsausageboy** ::{ flag=MY }:: | **7** | 3 | ::{ flag=ID }:: Volta | [#1](https://osu.ppy.sh/community/matches/62328139) |
 
 Monday, 1 June 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| acid ![][flag_AU] | 6 | **7** | ![][flag_SG] **Bobfree** | [#1](https://osu.ppy.sh/community/matches/62368599) |
+| acid ::{ flag=AU }:: | 6 | **7** | ::{ flag=SG }:: **Bobfree** | [#1](https://osu.ppy.sh/community/matches/62368599) |
 
 ### Quarterfinals
 
@@ -257,19 +257,19 @@ Saturday, 23 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **acid** ![][flag_AU] | **6** | 3 | ![][flag_PH] Rimazii | [#1](https://osu.ppy.sh/community/matches/61994413) |
-| **jmeh07** ![][flag_PH] | **6** | 1 | ![][flag_ID] Volta | [#1](https://osu.ppy.sh/community/matches/61995824) |
-| ImChro ![][flag_ID] | 1 | **6** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/61996643) |
-| **Sparxe** ![][flag_NZ] | **6** | 1 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/61999457) |
+| **acid** ::{ flag=AU }:: | **6** | 3 | ::{ flag=PH }:: Rimazii | [#1](https://osu.ppy.sh/community/matches/61994413) |
+| **jmeh07** ::{ flag=PH }:: | **6** | 1 | ::{ flag=ID }:: Volta | [#1](https://osu.ppy.sh/community/matches/61995824) |
+| ImChro ::{ flag=ID }:: | 1 | **6** | ::{ flag=MY }:: **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/61996643) |
+| **Sparxe** ::{ flag=NZ }:: | **6** | 1 | ::{ flag=AU }:: Beat43210 | [#1](https://osu.ppy.sh/community/matches/61999457) |
 
 Sunday, 24 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ImChro ![][flag_ID] | 2 | **6** | ![][flag_SG] **Bobfree** | [#1](https://osu.ppy.sh/community/matches/62036313) |
-| Beat43210 ![][flag_AU] | 5 | **6** | ![][flag_PH] **Aiery** | [#1](https://osu.ppy.sh/community/matches/62037669) |
-| **Volta** ![][flag_ID] | **6** | 5 | ![][flag_AU] r1chyy | [#1](https://osu.ppy.sh/community/matches/62037588) |
-| Rimazii ![][flag_PH] | 3 | **6** | ![][flag_MY] **Bedwyr Aorta** | [#1](https://osu.ppy.sh/community/matches/62045450) |
+| ImChro ::{ flag=ID }:: | 2 | **6** | ::{ flag=SG }:: **Bobfree** | [#1](https://osu.ppy.sh/community/matches/62036313) |
+| Beat43210 ::{ flag=AU }:: | 5 | **6** | ::{ flag=PH }:: **Aiery** | [#1](https://osu.ppy.sh/community/matches/62037669) |
+| **Volta** ::{ flag=ID }:: | **6** | 5 | ::{ flag=AU }:: r1chyy | [#1](https://osu.ppy.sh/community/matches/62037588) |
+| Rimazii ::{ flag=PH }:: | 3 | **6** | ::{ flag=MY }:: **Bedwyr Aorta** | [#1](https://osu.ppy.sh/community/matches/62045450) |
 
 ### Round of 16
 
@@ -277,23 +277,23 @@ Saturday, 16 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **acid** ![][flag_AU] | **6** | 2 | ![][flag_PH] FiNNb | [#1](https://osu.ppy.sh/community/matches/61726849) |
-| **Rimazii** ![][flag_PH] | **0** | -1 | ![][flag_PH] Aiery | *win by default* |
-| **jmeh07** ![][flag_PH] | **6** | 0 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/61728198) |
-| Bobfree ![][flag_SG] | 3 | **6** | ![][flag_ID] **Volta** | [#1](https://osu.ppy.sh/community/matches/61728709) |
-| **Beat43210** ![][flag_AU] | **6** | 0 | ![][flag_ID] Kaemz | [#1](https://osu.ppy.sh/community/matches/61729852) |
-| r1chyy ![][flag_AU] | 2 | **6** | ![][flag_ID] **ImChro** | [#1](https://osu.ppy.sh/community/matches/61731136) |
-| **Sparxe** ![][flag_NZ] | **6** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/61736554) |
+| **acid** ::{ flag=AU }:: | **6** | 2 | ::{ flag=PH }:: FiNNb | [#1](https://osu.ppy.sh/community/matches/61726849) |
+| **Rimazii** ::{ flag=PH }:: | **0** | -1 | ::{ flag=PH }:: Aiery | *win by default* |
+| **jmeh07** ::{ flag=PH }:: | **6** | 0 | ::{ flag=SG }:: uchuuj1n | [#1](https://osu.ppy.sh/community/matches/61728198) |
+| Bobfree ::{ flag=SG }:: | 3 | **6** | ::{ flag=ID }:: **Volta** | [#1](https://osu.ppy.sh/community/matches/61728709) |
+| **Beat43210** ::{ flag=AU }:: | **6** | 0 | ::{ flag=ID }:: Kaemz | [#1](https://osu.ppy.sh/community/matches/61729852) |
+| r1chyy ::{ flag=AU }:: | 2 | **6** | ::{ flag=ID }:: **ImChro** | [#1](https://osu.ppy.sh/community/matches/61731136) |
+| **Sparxe** ::{ flag=NZ }:: | **6** | 1 | ::{ flag=MY }:: Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/61736554) |
 
 Sunday, 17 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **cdhsausageboy** ![][flag_MY] | **6** | 1 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/61765287) |
-| **Bedwyr Aorta** ![][flag_MY] | **6** | 1 | ![][flag_ID] Kaemz | [#1](https://osu.ppy.sh/community/matches/61766964) |
-| **r1chyy** ![][flag_AU] | **6** | 4 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/61767683) |
-| uchuuj1n ![][flag_SG] | 1 | **6** | ![][flag_SG] **Bobfree** | [#1](https://osu.ppy.sh/community/matches/61768193) |
-| FiNNb ![][flag_PH] | 4 | **6** | ![][flag_PH] **Aiery** | [#1](https://osu.ppy.sh/community/matches/61770234) |
+| **cdhsausageboy** ::{ flag=MY }:: | **6** | 1 | ::{ flag=AU }:: Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/61765287) |
+| **Bedwyr Aorta** ::{ flag=MY }:: | **6** | 1 | ::{ flag=ID }:: Kaemz | [#1](https://osu.ppy.sh/community/matches/61766964) |
+| **r1chyy** ::{ flag=AU }:: | **6** | 4 | ::{ flag=AU }:: Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/61767683) |
+| uchuuj1n ::{ flag=SG }:: | 1 | **6** | ::{ flag=SG }:: **Bobfree** | [#1](https://osu.ppy.sh/community/matches/61768193) |
+| FiNNb ::{ flag=PH }:: | 4 | **6** | ::{ flag=PH }:: **Aiery** | [#1](https://osu.ppy.sh/community/matches/61770234) |
 
 ### Group stage
 
@@ -301,52 +301,52 @@ Saturday, 9 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| AmateurMonkeyYT ![][flag_AU] | 0 | **5** | ![][flag_SG] **uchuuj1n** | [#1](https://osu.ppy.sh/community/matches/61438467) |
-| **Bobfree** ![][flag_SG] | **5** | 2 | ![][flag_PH] FiNNb | [#1](https://osu.ppy.sh/community/matches/61439748) |
-| **camx** ![][flag_AU] | **5** | 0 | ![][flag_NZ] Erkfir | [#1](https://osu.ppy.sh/community/matches/61439738) |
-| Katdon\_donKat ![][flag_ID] | -1 | **0** | ![][flag_ID] **Volta** | *forfeit* |
-| **cdhsausageboy** ![][flag_MY] | **5** | 2 | ![][flag_AU] AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/61439727) |
-| Tsubasa2 ![][flag_AU] | 4 | **5** | ![][flag_ID] **Kaemz** | [#1](https://osu.ppy.sh/community/matches/61440495) |
-| **- ease -** ![][flag_AU] | **0** | -1 | ![][flag_AU] Vezuri | *forfeit* |
-| **Volta** ![][flag_ID] | **5** | 0 | ![][flag_AU] camx | [#1](https://osu.ppy.sh/community/matches/61440887) |
-| **Kaemz** ![][flag_ID] | **0** | -1 | ![][flag_AU] Vezuri | *forfeit* |
-| **cdhsausageboy** ![][flag_MY] | **5** | 1 | ![][flag_SG] uchuuj1n | [#1](https://osu.ppy.sh/community/matches/61441777) |
-| **Tsubasa2** ![][flag_AU] | **5** | 0 | ![][flag_AU] - ease - | [#1](https://osu.ppy.sh/community/matches/61441608) |
-| **Kaemz** ![][flag_ID] | **5** | 1 | ![][flag_AU] - ease - | [#1](https://osu.ppy.sh/community/matches/61442293) |
-| Katdon\_donKat ![][flag_ID] | -1 | **0** | ![][flag_AU] **camx** | *forfeit* |
-| **Tsubasa2** ![][flag_AU] | **0** | -1 | ![][flag_AU] Vezuri | *forfeit* |
-| **Volta** ![][flag_ID] | **5** | 0 | ![][flag_NZ] Erkfir | [#1](https://osu.ppy.sh/community/matches/61443187) |
-| Katdon\_donKat ![][flag_ID] | -1 | **0** | ![][flag_NZ] **Erkfir** | *forfeit* |
+| AmateurMonkeyYT ::{ flag=AU }:: | 0 | **5** | ::{ flag=SG }:: **uchuuj1n** | [#1](https://osu.ppy.sh/community/matches/61438467) |
+| **Bobfree** ::{ flag=SG }:: | **5** | 2 | ::{ flag=PH }:: FiNNb | [#1](https://osu.ppy.sh/community/matches/61439748) |
+| **camx** ::{ flag=AU }:: | **5** | 0 | ::{ flag=NZ }:: Erkfir | [#1](https://osu.ppy.sh/community/matches/61439738) |
+| Katdon\_donKat ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Volta** | *forfeit* |
+| **cdhsausageboy** ::{ flag=MY }:: | **5** | 2 | ::{ flag=AU }:: AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/61439727) |
+| Tsubasa2 ::{ flag=AU }:: | 4 | **5** | ::{ flag=ID }:: **Kaemz** | [#1](https://osu.ppy.sh/community/matches/61440495) |
+| **- ease -** ::{ flag=AU }:: | **0** | -1 | ::{ flag=AU }:: Vezuri | *forfeit* |
+| **Volta** ::{ flag=ID }:: | **5** | 0 | ::{ flag=AU }:: camx | [#1](https://osu.ppy.sh/community/matches/61440887) |
+| **Kaemz** ::{ flag=ID }:: | **0** | -1 | ::{ flag=AU }:: Vezuri | *forfeit* |
+| **cdhsausageboy** ::{ flag=MY }:: | **5** | 1 | ::{ flag=SG }:: uchuuj1n | [#1](https://osu.ppy.sh/community/matches/61441777) |
+| **Tsubasa2** ::{ flag=AU }:: | **5** | 0 | ::{ flag=AU }:: - ease - | [#1](https://osu.ppy.sh/community/matches/61441608) |
+| **Kaemz** ::{ flag=ID }:: | **5** | 1 | ::{ flag=AU }:: - ease - | [#1](https://osu.ppy.sh/community/matches/61442293) |
+| Katdon\_donKat ::{ flag=ID }:: | -1 | **0** | ::{ flag=AU }:: **camx** | *forfeit* |
+| **Tsubasa2** ::{ flag=AU }:: | **0** | -1 | ::{ flag=AU }:: Vezuri | *forfeit* |
+| **Volta** ::{ flag=ID }:: | **5** | 0 | ::{ flag=NZ }:: Erkfir | [#1](https://osu.ppy.sh/community/matches/61443187) |
+| Katdon\_donKat ::{ flag=ID }:: | -1 | **0** | ::{ flag=NZ }:: **Erkfir** | *forfeit* |
 
 Sunday, 10 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **ImChro** ![][flag_ID] | **5** | 2 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/61452974) |
-| - Heatwave - ![][flag_AU] | -1 | **0** | ![][flag_AU] **HD\_AdreNaline** | *win by default* |
-| Aiery ![][flag_PH] | 4 | **5** | ![][flag_AU] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/61480658) |
-| **Blujae** ![][flag_NZ] | **0** | -1 | ![][flag_AU] Monk The Don | *forfeit* |
-| **Rimazii** ![][flag_PH] | **5** | 2 | ![][flag_ID] ImChro | [#1](https://osu.ppy.sh/community/matches/61481656) |
-| **Bedwyr Aorta** ![][flag_MY] | **0** | -1 | ![][flag_AU] jkl68 | *forfeit* |
-| **uchuuj1n** ![][flag_SG] | **5** | 0 | ![][flag_NZ] NutAndGo | [#1](https://osu.ppy.sh/community/matches/61481480) |
-| **FiNNb** ![][flag_PH] | **0** | -1 | ![][flag_AU] - Heatwave - | *win by default* |
-| **Bobfree** ![][flag_SG] | **5** | 0 | ![][flag_AU] **HD\_AdreNaline** | [#1](https://osu.ppy.sh/community/matches/61482007) |
-| **ImChro** ![][flag_ID] | **0** | -1 | ![][flag_AU] jkl68 | *forfeit* |
-| **Aiery** ![][flag_PH] | **0** | -1 | ![][flag_NZ] Blujae | *win by default* |
-| **Beat43210** ![][flag_AU] | **0** | -1 | ![][flag_AU] Monk The Don | *forfeit* |
-| **AmateurMonkeyYT** ![][flag_AU] | **5** | 0 | ![][flag_NZ] NutAndGo | [#1](https://osu.ppy.sh/community/matches/61482516) |
-| **Bobfree** ![][flag_SG] | **0** | -1 | ![][flag_AU] - Heatwave - | *win by default* |
-| **FiNNb** ![][flag_PH] | **0** | -1 | ![][flag_AU] HD\_AdreNaline | *forfeit* |
-| **Aiery** ![][flag_PH] | **0** | -1 | ![][flag_AU] Monk The Don | *forfeit* |
-| **Beat43210** ![][flag_AU] | **0** | -1 | ![][flag_NZ] Blujae | *forfeit* |
-| **Rimazii** ![][flag_PH] | **0** | -1 | ![][flag_AU] jkl68 | *forfeit* |
-| **cdhsausageboy** ![][flag_MY] | **5** | 0 | ![][flag_NZ] NutAndGo | [#1](https://osu.ppy.sh/community/matches/61483977) |
+| **ImChro** ::{ flag=ID }:: | **5** | 2 | ::{ flag=MY }:: Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/61452974) |
+| - Heatwave - ::{ flag=AU }:: | -1 | **0** | ::{ flag=AU }:: **HD\_AdreNaline** | *win by default* |
+| Aiery ::{ flag=PH }:: | 4 | **5** | ::{ flag=AU }:: **Beat43210** | [#1](https://osu.ppy.sh/community/matches/61480658) |
+| **Blujae** ::{ flag=NZ }:: | **0** | -1 | ::{ flag=AU }:: Monk The Don | *forfeit* |
+| **Rimazii** ::{ flag=PH }:: | **5** | 2 | ::{ flag=ID }:: ImChro | [#1](https://osu.ppy.sh/community/matches/61481656) |
+| **Bedwyr Aorta** ::{ flag=MY }:: | **0** | -1 | ::{ flag=AU }:: jkl68 | *forfeit* |
+| **uchuuj1n** ::{ flag=SG }:: | **5** | 0 | ::{ flag=NZ }:: NutAndGo | [#1](https://osu.ppy.sh/community/matches/61481480) |
+| **FiNNb** ::{ flag=PH }:: | **0** | -1 | ::{ flag=AU }:: - Heatwave - | *win by default* |
+| **Bobfree** ::{ flag=SG }:: | **5** | 0 | ::{ flag=AU }:: **HD\_AdreNaline** | [#1](https://osu.ppy.sh/community/matches/61482007) |
+| **ImChro** ::{ flag=ID }:: | **0** | -1 | ::{ flag=AU }:: jkl68 | *forfeit* |
+| **Aiery** ::{ flag=PH }:: | **0** | -1 | ::{ flag=NZ }:: Blujae | *win by default* |
+| **Beat43210** ::{ flag=AU }:: | **0** | -1 | ::{ flag=AU }:: Monk The Don | *forfeit* |
+| **AmateurMonkeyYT** ::{ flag=AU }:: | **5** | 0 | ::{ flag=NZ }:: NutAndGo | [#1](https://osu.ppy.sh/community/matches/61482516) |
+| **Bobfree** ::{ flag=SG }:: | **0** | -1 | ::{ flag=AU }:: - Heatwave - | *win by default* |
+| **FiNNb** ::{ flag=PH }:: | **0** | -1 | ::{ flag=AU }:: HD\_AdreNaline | *forfeit* |
+| **Aiery** ::{ flag=PH }:: | **0** | -1 | ::{ flag=AU }:: Monk The Don | *forfeit* |
+| **Beat43210** ::{ flag=AU }:: | **0** | -1 | ::{ flag=NZ }:: Blujae | *forfeit* |
+| **Rimazii** ::{ flag=PH }:: | **0** | -1 | ::{ flag=AU }:: jkl68 | *forfeit* |
+| **cdhsausageboy** ::{ flag=MY }:: | **5** | 0 | ::{ flag=NZ }:: NutAndGo | [#1](https://osu.ppy.sh/community/matches/61483977) |
 
 Monday, 11 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Rimazii** ![][flag_PH] | **5** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/61493333) |
+| **Rimazii** ::{ flag=PH }:: | **5** | 1 | ::{ flag=MY }:: Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/61493333) |
 
 ## Ruleset
 
@@ -381,11 +381,3 @@ Monday, 11 May 2020:
 2. 5 points to win the match in the Group Stage.
 3. 6 points to win the match in the Round of 16 and Quarterfinals.
 4. 7 points to win the match in Semifinals and Finals.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"

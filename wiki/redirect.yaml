@@ -410,10 +410,10 @@
 
 "modded":                      "Modding"
 
-"multi":                       "Gameplay/Multiplayer"
-"multiplayer":                 "Gameplay/Multiplayer"
-"multi-play":                  "Gameplay/Multiplayer"
-"multiplay":                   "Gameplay/Multiplayer"
+"multi":                       "Client/Interface/Multiplayer"
+"multiplayer":                 "Client/Interface/Multiplayer"
+"multi-play":                  "Client/Interface/Multiplayer"
+"multiplay":                   "Client/Interface/Multiplayer"
 
 "replay":                      "Gameplay/Replay"
 
@@ -426,9 +426,6 @@
 "osu!_file_format":                    "Client/File_formats"
 "file_formats":                        "Client/File_formats"
 "file_format":                         "Client/File_formats"
-"osu!_file_formats/db":                "Client/File_formats/Db_(file_format)"
-".db":                                 "Client/File_formats/Db_(file_format)"
-"db":                                  "Client/File_formats/Db_(file_format)"
 "osu!_file_formats/osb":               "Client/File_formats/Osb_(file_format)"
 ".osb":                                "Client/File_formats/Osb_(file_format)"
 "osb":                                 "Client/File_formats/Osb_(file_format)"
@@ -2031,3 +2028,7 @@
 "sliderticks":                         "Gameplay/Hit_object/Slider/Slider_tick"
 "beatmapping/slider_tick":             "Gameplay/Hit_object/Slider/Slider_tick"
 "beatmapping/slider_ticks":            "Gameplay/Hit_object/Slider/Slider_tick"
+
+# Moved Multiplayer to Client/Interface
+
+"gameplay/multiplayer":                "Client/Interface/Multiplayer"

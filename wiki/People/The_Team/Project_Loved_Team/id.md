@@ -16,10 +16,6 @@ Project Loved Team kebanyakan terdiri dari kapten-kapten untuk setiap [mode perm
 
 ## Trivia
 
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) merupakan orang pertama yang ditugaskan untuk menyusun daftar kapten pada awal mula berdirinya Project Loved (September 2017) yang kala itu masih bernama [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-dan-project-loved-(sep-2017-–-hingga-sekarang)). Ia menjabat sebagai ketua dan pengelola utama Project Loved hingga akhir 2019.
+- ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) merupakan orang pertama yang ditugaskan untuk menyusun daftar kapten pada awal mula berdirinya Project Loved (September 2017) yang kala itu masih bernama [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-dan-project-loved-(sep-2017-–-hingga-sekarang)). Ia menjabat sebagai ketua dan pengelola utama Project Loved hingga akhir 2019.
 - Sebelum 28 April 2021, [halaman grup Project Loved](https://osu.ppy.sh/groups/31) tidak bersifat publik dan hanya digunakan untuk tujuan administratif. Namun sekarang, itu tersedia untuk umum.
-  - Sampai 16 April 2021, satu-satunya orang yang ada di grup itu adalah ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), dan ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689). Namun sekarang, semua tim Project Loved sudah berada di dalam grup.
-
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
+  - Sampai 16 April 2021, satu-satunya orang yang ada di grup itu adalah ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237), ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707), dan ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689). Namun sekarang, semua tim Project Loved sudah berada di dalam grup.

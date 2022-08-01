@@ -38,12 +38,12 @@ tags:
 
 | 团队 | 人员 |
 | :-: | :-- |
-| 比赛经理 | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
-| 比赛监督 | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| 图池管理 | ![][US] [qqqant](https://osu.ppy.sh/users/8976576), ![][SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][SG] [Raveille](https://osu.ppy.sh/users/1388767) |
-| 直播裁判 | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
-| 解说团队 | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][AU] [williammak](https://osu.ppy.sh/users/11083079), ![][CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| Wiki | ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| 比赛经理 | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256) |
+| 比赛监督 | ::{ flag=CN }:: [SSV Normandy](https://osu.ppy.sh/users/6475977) |
+| 图池管理 | ::{ flag=US }:: [qqqant](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
+| 直播裁判 | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
+| 解说团队 | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=AU }:: [williammak](https://osu.ppy.sh/users/11083079), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501) |
+| Wiki | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## 链接
 
@@ -360,8 +360,3 @@ tags:
    - 若选手使用特殊的时区，请提前告知组委会。
    - 除时区问题以外，选手未能按时参赛的，不论提前声明与否，仍然依照缺席处理。
 5. 选手弃权的比赛不予重赛。
-
-[CN]: /wiki/shared/flag/CN.gif "中国"
-[US]: /wiki/shared/flag/US.gif "美国"
-[AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[SG]: /wiki/shared/flag/SG.gif "新加坡"

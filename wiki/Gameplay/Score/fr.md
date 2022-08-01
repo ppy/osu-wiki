@@ -1,31 +1,28 @@
----
-outdated_since: 434116137cc02ba495d7201f9a2dc1dd74056f13
-outdated_translation: true
----
-
 # Score
 
-*Pour d'autres utilisations, voir [Score (désambiguïsation)](/wiki/Disambiguation/Score).*\
-*Pour les algorithmes de scoring spécifiques aux [modes de jeu](/wiki/Game_mode) voir : [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), et [osu!mania](osu!mania).*
+*Pour d'autres utilisations, voir [Score (désambiguïsation)](/wiki/Disambiguation/Score).*
 
-La performance d'un joueur sur une beatmap est exprimée sous la forme d'un score, après avoir complété avec succès une beatmap.
-La plupart du temps, le combo joue un rôle majeur dans le système de score, puisqu'il s'agit d'un multiplicateur de score.
+Le score attribué à un joueur après avoir complété une [beatmap](/wiki/Beatmap) est déterminé par les [jugements](/wiki/Gameplay/Judgement) que le joueur a reçus pour chaque [objet](/wiki/Gameplay/Hit_object). Le système de notation est divisé en deux versions majeures actuellement utilisées.
+
+## ScoreV1
+
+Le ScoreV1 est le nom familier du système de score original, par défaut, dans osu!. Bien qu'il soit généralement désigné par un seul nom, l'algorithme lui-même varie beaucoup en fonction du [mode de jeu](/wiki/Game_mode) actif :
+
+- osu! et osu!catch utilisent un multiplicateur de score strictement basé sur les combos, appliqué sur les valeurs de score pour chaque objet.
+- osu!taiko suit la logique du système de notation de *Taiko no Tatsujin* avec un petit score constant affecté d'un bonus de combo.
+- osu!mania est le seul mode de jeu avec une limite de score (sous ScoreV1), qui est fixée à 1 000 000 de points avec un [multiplicateur de score](/wiki/Gameplay/Game_modifier/Score_multiplier) 1.00x.
+
+Pour une description détaillée du fonctionnement de ScoreV1 dans chaque mode de jeu, voir :
+
+- [osu!](ScoreV1/osu!)
+- [osu!taiko](ScoreV1/osu!taiko)
+- [osu!catch](ScoreV1/osu!catch)
+- [osu!mania](ScoreV1/osu!mania)
 
 ## ScoreV2
 
-Avant l'apparition du ScoreV2, chaque mode de jeu possédait son propre système de score :
+ScoreV2 est une nouvelle version du système de score. L'idée principale est de standardiser les systèmes de score de tous les modes de jeu, de telle sorte qu'un score parfait rapporte 1 000 000 de points avec un modificateur de score de 1,00x, avec des gains de score supplémentaires grâce aux bonus de spinner pour osu!, aux roulements de tambour pour osu!taiko, et aux bananes pour osu!catch. Cela implique un écart par rapport aux valeurs de score originales de chaque objet, et un changement vers un système plus centré sur les proportions et la mise à l'échelle vers le plafond de 1 million.
 
-- osu! et osu!catch utilisent un multiplicateur de score basé uniquement sur le combo,
-- osu!taiko suit rigoureusement le système de score de *Taiko no Tatsujin* avec une portion constante du score affectée par le combo bonus, et
-- osu!mania est le seul mode de jeu avec un score limité à 1,000,000 (1 million) avec un modificateur de score égal à 1.00x.
+Outre l'amélioration de la standardisation, ScoreV2 est également une solution de contournement pour un problème de [dépassement d'entier](https://fr.wikipedia.org/wiki/Dépassement_d'entier) qui peut survenir sur des beatmaps longues et à forte intensité de combos. Le score total étant stocké sous la forme d'un nombre entier de 32 bits et ScoreV1 pouvant théoriquement donner un nombre illimité de points, le dépassement de la valeur maximale représentable de 2 147 483 647 points entraînerait l'apparition de valeurs négatives dans le compteur de score (ce qui est visuellement perçu comme un décompte à rebours). Dans la pratique, ScoreV2 est automatiquement activé pour les scores définis sur de longues beatmaps qui, autrement, auraient un score maximum supérieur à la limite des nombres entiers de 32 bits.
 
-Bien que l'erreur ne se produise uniquement sur des beatmaps *très longues et à grand combo*, si le joueur parvient à dépasser un combo d'approximativement 6,500 ou plus, le score du joueur commencera à être compté *à l'envers*.
-Ceci est un défaut des entiers signés 32-bit, qui possèdent (en programmation) un nombre maximal égal à **2,147,483,647**.
-
-C'est alors que le ScoreV2 entre en jeu.
-
-Le ScoreV2 essaie de normaliser les systèmes de score des différents modes de jeu à un score de 1,000,000 (1 million) avec un modificateur de score égal à 1.00x avec un score bonus provenant des spinners pour osu!, des drumrolls pour osu!taiko, et des bananes pour osu!catch.
-Chaque objet fait à présent partie du score de 1 million et sont réajustées en conséquence, plutôt que d'utiliser leurs propres valeurs de score et formules bonus.
-
-Le ScoreV2 peut être testé en mode [multijoueur](/wiki/Gameplay/Multiplayer) en tant que condition de victoire dans les options du salon.
-Depuis le [22 février 2017 (22/02/2017)](https://osu.ppy.sh/home/changelog/stable40/20170222.3), le système ScoreV2 peut être testé en mode *Solo* en utilisant le mod **UNRANKED** [ScoreV2](/wiki/Game_modifier/ScoreV2).
+ScoreV2 n'est pas activé par défaut dans le gameplay. En partie seule, il peut être activé à l'aide du modificateur de jeu UNRANKED [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), et en [multijoueur](/wiki/Client/Interface/Multiplayer), ScoreV2 peut être défini comme une condition de victoire pendant la configuration du match.

@@ -1,8 +1,8 @@
 # osu!taiko ranking criteria
 
-The **osu!taiko Ranking Criteria** are rules and guidelines that apply to the creation of osu!taiko-specific difficulties. In order to get an osu!taiko-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
+***Notice: This document is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
 
-These rules and guidelines have been discussed in the [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87). New ones may be suggested in that forum and this page will be updated once discussions reach an agreement.
+This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!taiko](/wiki/Game_mode/osu!taiko)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Glossary
 

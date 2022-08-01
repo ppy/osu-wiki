@@ -24,6 +24,4 @@ Voir les articles suivants :
 
 ## Outils communautaires
 
-Divers outils ont été créés par la communauté pour abstraire et développer le scripting des storyboards, comme [storybrew](https://github.com/Damnae/storybrew "GitHub repository") par ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377).
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
+Divers outils ont été créés par la communauté pour abstraire et développer le scripting des storyboards, comme [storybrew](https://github.com/Damnae/storybrew "GitHub repository") par ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377).

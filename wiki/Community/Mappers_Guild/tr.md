@@ -56,9 +56,6 @@ Her iki beatmap paketinin izinden giderek, Mappers' Guild, daha eski Featured Ar
 
 ### Otomasyon
 
-Mappers' Guild için başlangıçtaki plan görevler gibi MMO elementleri bulundurmak olsa da, belirli sayıdaki lonca katılımcıları için bitiş tarihlerini manuel olarak idare etmenin oldukça elverişsiz olduğu belirlendi. 2018'in sonlarına doğru, ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) ve ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) Mappers' Guild sistemini otomatikleştirecek, ödüllerin paylaştırılmasını ve görev/parti sistemlerinin yönetimini daha elverişli hale getirecek bir websitesi geliştirmeye başladı.
+Mappers' Guild için başlangıçtaki plan görevler gibi MMO elementleri bulundurmak olsa da, belirli sayıdaki lonca katılımcıları için bitiş tarihlerini manuel olarak idare etmenin oldukça elverişsiz olduğu belirlendi. 2018'in sonlarına doğru, ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) ve ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) Mappers' Guild sistemini otomatikleştirecek, ödüllerin paylaştırılmasını ve görev/parti sistemlerinin yönetimini daha elverişli hale getirecek bir websitesi geliştirmeye başladı.
 
 Mappers' Guild ile ilgili her şeyin günümüzde kontrol edildiği yer olan [Mappers' Guild websitesi](https://mappersguild.com/), 1 Mart 2019 tarihinde faaliyete geçti. Herkese açık olduğu için, lonca 500'ün üzerinde bir üye sayısına ulaşmıştır ve osu! topluluğunun geri kalanını Featured Artist mapleme içerikleriyle güncel tutmak amacıyla [güncelleme haber gönderilerini](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) yayımlamaktadır.
-
-[flag_CL]: /wiki/shared/flag/CL.gif "Şili"
-[flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"

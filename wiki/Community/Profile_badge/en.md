@@ -29,7 +29,7 @@ In the [game client](/wiki/Client) and on the website, badges are purely decorat
 
 Rather than stacking horizontally in a container spanning the whole page, the old website stacked badges vertically between a user's username and country flag.
 
-A side effect of this layout scheme was that the default, non-expanded height of [userpages](/wiki/osu!supporter#editable-profile-section) could be extended by means of earning more badges. While unintended, it became a running gag in the tournament community.<!-- More example userpages beyond Toy would be nice, else "running gag" doesn't have a source. -clayton --> ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) showcased this in [a popular Tweet](https://twitter.com/droombs/status/1036050610687074304), showing off his record for most badges won at the time of posting.<!-- I couldn't find a definitive source for this but I'm fairly certain that was part of the joke. Toy was the first to reach 10 badges about a year before this, and he was tied with DigitalHypno at 20 a few months later. Please add a source as a reference if you can find one! -clayton -->
+A side effect of this layout scheme was that the default, non-expanded height of [userpages](/wiki/osu!supporter#editable-profile-section) could be extended by means of earning more badges. While unintended, it became a running gag in the tournament community.<!-- More example userpages beyond Toy would be nice, else "running gag" doesn't have a source. -clayton --> ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) showcased this in [a popular Tweet](https://twitter.com/droombs/status/1036050610687074304), showing off his record for most badges won at the time of posting.<!-- I couldn't find a definitive source for this but I'm fairly certain that was part of the joke. Toy was the first to reach 10 badges about a year before this, and he was tied with DigitalHypno at 20 a few months later. Please add a source as a reference if you can find one! -clayton -->
 
 ## Trivia
 
@@ -37,8 +37,5 @@ A side effect of this layout scheme was that the default, non-expanded height of
 ![](https://assets.ppy.sh/profile-badges/tagwinner.png "Tag Tournament first-place badge")
 :::
 
-- The first two profile badges were awarded to ![][flag_PL] [niedzwiedz1124](https://osu.ppy.sh/users/9610) and ![][flag_PL] [White Wolf](https://osu.ppy.sh/users/39828) on 6 September, 2009, for [winning *Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).<!-- TODO: The changelog entry for badges being added is also on the same day, and should be mentioned. are these available online anywhere to link to? -clayton -->
+- The first two profile badges were awarded to ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) and ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828) on 6 September, 2009, for [winning *Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).<!-- TODO: The changelog entry for badges being added is also on the same day, and should be mentioned. are these available online anywhere to link to? -clayton -->
 - Badges can link to other web pages for more context, but none currently use this feature.
-
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
