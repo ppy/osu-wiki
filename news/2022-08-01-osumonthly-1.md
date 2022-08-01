@@ -10,7 +10,7 @@ The weekly newsletter returns in a monthly format — find out about happenings 
 
 5 years ago, [the osu!weekly](https://osu.ppy.sh/home/news/2017-06-07-osu-weekly-106) was the community's one stop shop for all the details on what was going on in the wide world of osu!. Today, we're giving this concept of a regular newsletter another go with the birth of the **osu!monthly**.
 
-We'll be keeping things simple at first until we can establish a proper foundation through your feedback and suggestions, so if you have any ideas for articles or other content we could feature, please let us know or get involved in the process over on the [osu!dev Discord](https://discord.com/invite/ppy).
+We'll be keeping things simple at first until we can establish a proper foundation through your feedback and suggestions, so if you have any ideas for articles or other content we could feature, please let us know via the [discussion thread on the forums](https://osu.ppy.sh/community/forums/topics/1614314) or get involved in the process over on the [osu!dev Discord](https://discord.com/invite/ppy).
 
 With all this out of the way, let's dive straight into the news!
 
