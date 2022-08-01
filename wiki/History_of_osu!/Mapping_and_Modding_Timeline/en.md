@@ -529,8 +529,8 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### October
 
-- **2021-10-12:** Former Beatmap Nominators who resigned on good terms within the past year can now become full members immediately upon rejoining.
-- **2021-10-13:** osu!mania beatmaps do not require hitsound additions anymore.
+- **2021-10-12:** Former Beatmap Nominators, who resigned on good terms within the past year, can now become full members immediately upon rejoining.
+- **2021-10-13:** osu!mania beatmaps do not require hit sound additions anymore.
   - This was done in response of a [popular request from the community](https://osu.ppy.sh/community/forums/topics/1418542) in order to allow for easier approachability to osu!mania mappers of different upbringings.
 - **2021-10-18:** Spread rules for osu!mania beatmaps have been relaxed.
   - This was done upon request from the community via a [Ranking Criteria proposal](https://osu.ppy.sh/community/forums/topics/1440933) in order to make the under-utilized Ranked section more approachable to mappers.
@@ -539,7 +539,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2021-12-04:** Following [this Ranking Criteria proposal](https://osu.ppy.sh/community/forums/topics/1447246), *Shokyuu* is now officially adopted as the official name of *Beginner* difficulties for osu!taiko.
 - **2021-12-14:** The burai sliders rule has been loosened per this [proposal](https://osu.ppy.sh/community/forums/topics/1442020).
-- This was done to accomodate for new mapping styles by making specific criteria for each difficuly, instead of making it a general rule.
+  - This was done to accomodate for new mapping styles by making specific criteria for each difficulty, instead of making it a general rule.
 
 **4500 beatmaps** were ranked in 2021.
 
@@ -559,36 +559,36 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
   - Falling below the 90 day requirements with more than 60 days worth of nominations will result in an activity warning.
   - Falling below 60 days worth of nominations in a 90 day period will result in a removal when activity is checked.
 - **2022-02-03:** osu!staff took Community Contributors nominations from the public for the first time via a form.
-- **2022-02-23:** `ModScore` activity over the past 3 months is no longer required to apply to the Beatmap Nominators in the osu!taiko, osu!catch, or osu!mania gamemodes.
+- **2022-02-23:** `ModScore` activity over the past 3 months is no longer required to apply to the Beatmap Nominators in the osu!taiko, osu!catch, or osu!mania game modes.
 
 ### March
 
 - **2022-03-01:** The osu!mania Nomination Assessment Team started adding more Asian members in order to improve the Asian represenation and accessibility to the Beatmap Nominators.
   - In total, 3 new NAT members were added across the following months.
 - **2022-03-01:** Based on notable community interest and [a lengthy discussion](https://osu.ppy.sh/community/forums/topics/1325267), the osu!taiko Muzukashii break guideline has been reworked to allow for more freedom by adding a substitute to 3/2 breaks.
-  - This change has greatly increased the accessibility of mapping Muzukashii difficulties to more mappers.
-- **2022-03-23:** 15 Beatmap Nominators across all gamemodes were added to the [2021 Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators).
-- **2022-03-31:** Beatmap Nominator applications for the osu! gamemode have closed for the first time since the adoption of the new application system from the BN/QAT restructure.
+  - This change has greatly increased the accessibility of mapping Muzukashii difficulties for many mappers.
+- **2022-03-23:** 15 Beatmap Nominators across all game modes were added to the [2021 Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators).
+- **2022-03-31:** Beatmap Nominator applications for the osu! game mode have closed for the first time, since the adoption of the new application system from the BN/QAT restructure.
   - This was done in order to catch up with the constantly-growing backlog.
 
 ### April
 
-- **2022-04-22:** Ranked/Loved guest difficutly maps now appear on userpages, and they got guests retroactively assigned to them, while giving NATs/GMTs the ability to assign them manually on all Ranked/Loved maps.
+- **2022-04-22:** Ranked/Loved guest difficutly maps now appear on userpages, and they have guests retroactively assigned to them, while giving NATs/GMTs the ability to assign them manually on all Ranked/Loved maps.
 - **2022-04-25:** A controversial map of [Unknown Artist - Spelunker](https://osu.ppy.sh/beatmapsets/1145452) has caused a lot of backlash from the community with its qualification.
   - This prompted ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) to be involved with a [public poll](https://twitter.com/ppy/status/1518084079404851200?s=20&t=max9uYbaK19pXj8u7fWQ4g) questioning its rankability.
   - This also caused a vote across all osu! BNs/NATs to determine its rankability.
 
 ### May
 
-- **2022-05-01:** Following the recent addition of 4 new NAT members, Beatmap Nominator applications for the osu! gamemode have opened again.
-- **2022-05-16:** Beatmap Nominators who are performing well will get their future evaluations in intervals of a longer 6 months, where the default historically was everyone being evaluated every 3 months.
+- **2022-05-01:** Following the recent addition of 4 new NAT members, Beatmap Nominator applications for the osu! game mode have opened again.
+- **2022-05-16:** Beatmap Nominators who are performing well will get their future evaluations in intervals of a longer 6 months, where historically the default was everyone being evaluated every 3 months.
 - **2022-05-16:** The nomination cap for osu!taiko has been increased from 75 to 100 unique nominations within 90 days. <!-- https://github.com/ppy/osu-wiki/pull/7382 -->
-  - This was mainly done because it's easier to reach the nomination cap in osu!taiko while performing well due to the simplicity of the gamemode.
+  - This was mainly done because it's easier to reach the nomination cap in osu!taiko while performing well due to the simplicity of the game mode.
   - This change was temporarily met with [opposition](https://github.com/ppy/osu-wiki/pull/7382#issuecomment-1137801175) because of concerns regarding the amount of Ranked osu!taiko maps being notably out of proportion with the amount of people actually playing them.
 
 ### June
 
-- **2022-06-30** [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021) are now revealed, featuring 15 users for their outstanding contributions to the game.
+- **2022-06-30** [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021) were revealed, featuring 15 users for their outstanding contributions to the game.
 
 ### July
 
