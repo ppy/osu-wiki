@@ -4,7 +4,7 @@ title: "Wiki contributors wanted!"
 date: 2022-08-04 10:00:00 +0000
 ---
 
-Lore maestros! Technical aficionados! Information brokers! We seek any kind of knowledge to share in the wiki, and to translate it for every corner of the community.
+Lore maestros! Technical aficionados! Information brokers! We seek to share any kind of knowledge in the wiki, and to translate it for every corner of the community.
 
 ![](/wiki/shared/news/banners/osu-wiki.jpg)
 
