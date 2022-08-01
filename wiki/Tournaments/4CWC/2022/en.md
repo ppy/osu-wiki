@@ -60,6 +60,8 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/91) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Livestream channel](https://www.twitch.tv/4cwc)
 
+## Participants
+
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=MA }:: ::{ flag=KZ }:: ::{ flag=KE }:: ::{ flag=BH }:: ::{ flag=IN }:: | **Afrasia** | **[OSUjanaiKATSURAda](https://osu.ppy.sh/users/2154499)**, [RussianKot](https://osu.ppy.sh/users/10760717), [Dragonesia](https://osu.ppy.sh/users/14314269), [RotMG](https://osu.ppy.sh/users/12705051), [Hagaru](https://osu.ppy.sh/users/8200513), [Ly4nik](https://osu.ppy.sh/users/24032082) |
@@ -103,6 +105,28 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+- NoMod
+  1. [ITO KASHITARO - Re;MilkyWay (Dapuluous) \[Dapu & Rustyy's Collection\]](https://osu.ppy.sh/beatmapsets/1819362#fruits/3733107)
+  2. [xi - Titania (Jemzuu) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/1278046#fruits/2669849)
+  3. [Dreamcatcher - GOOD NIGHT (Natsu) \[Afternoon\]](https://osu.ppy.sh/beatmapsets/603905#fruits/1283463)
+  4. [Function Phantom - Paradox (byfar) \[J1's Insane\]](https://osu.ppy.sh/beatmapsets/824125#fruits/1756217)
+- Hidden
+  1. [DJ TOTTO feat. \*spiLa\* - illumina (Imai Lisa) \[Platter\]](https://osu.ppy.sh/beatmapsets/880513#fruits/2594189)
+  2. [Can't Stop Won't Stop (feat. Fresh Big Mouf) - Mighty & High (thiev) \[Extra\]](https://osu.ppy.sh/beatmapsets/770361#fruits/1952154)
+- HardRock
+  1. [Yuzuki - Dear You (DJ Genericname DnB Remix) (R-34) \[R-34 & M0RU's Salad (4CWC Edit.)\]](https://osu.ppy.sh/beatmapsets/1819634#fruits/3733788)
+  2. [Yuna (CV: Kanda Sayaka) - Break Beat Bark! (Cut Ver.) (-Crimson-) \[Hard\]](https://osu.ppy.sh/beatmapsets/1285419#fruits/2670654)
+- DoubleTime
+  1. [BLANKFIELD - Retrospective City (Nelly) \[Collab Platter\]](https://osu.ppy.sh/beatmapsets/1203586#fruits/2531997)
+  2. [petit milady - azurite (garden) \[ArThasCD's hard\]](https://osu.ppy.sh/beatmapsets/777993#fruits/1653983)
+- MixedMod
+  1. [trapman featuring CreeperWorks - minefield surfing (Nelly) \[Platter\]](https://osu.ppy.sh/beatmapsets/1819363#fruits/3733108)
+  2. [Nekomata Master - Byakuya Gentou (ignorethis) \[Hyper\])](https://osu.ppy.sh/beatmapsets/36849#fruits/119376)
+- Tiebreaker
+  1. **[Camellia feat. Nanahira - Bassline Yatteru? w (Kukkai) \[Rain\])](https://osu.ppy.sh/beatmapsets/1643938#fruits/3356878)**
+
 ### Qualifiers
 
 - NoMod
@@ -118,6 +142,51 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
 - DoubleTime
   1. [solfa feat. Ceui - melty love (-Luminate) \[Platter\]](https://osu.ppy.sh/beatmapsets/1617558#fruits/3310327)
   2. [cosMo@BousouP - Oceanus (Broccoly) \[Irreversible's Hard\]](https://osu.ppy.sh/beatmapsets/267767#fruits/650188)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Yd3iHhU1ABF0MOxUFR9FJAeMcXtGBZkBuC_N7dX4bfc/edit#gid=429273414).
+
+| Seed | Country | Points |
+| :-: | :-- | :-- |
+| #1 | ::{ flag=MX }:: Mexico | 31 |
+| #2 | ::{ flag=US }:: United States | 43 |
+| #3 | ::{ flag=SG }:: Singapore | 50 |
+| #4 | ::{ flag=DE }:: Germany | 67 |
+| #5 | ::{ flag=JP }:: Japan | 70 |
+| #6 | ::{ flag=TH }:: Thailand | 71 |
+| #7 | ::{ flag=CL }:: Chile | 76 |
+| #8 | ::{ flag=TW }:: Taiwan | 96 |
+| #9 | ::{ flag=KR }:: South Korea | 110 |
+| #10 | ::{ flag=FR }:: France | 114 |
+| #11 | ::{ flag=MY }:: Malaysia | 114 |
+| #12 | ::{ flag=EC }:: ::{ flag=CO }:: ::{ flag=PE }:: ::{ flag=AR }:: Latam | 118 |
+| #13 | ::{ flag=PH }:: Philippines | 122 |
+| #14 | ::{ flag=NL }:: Netherland | 130 |
+| #15 | ::{ flag=RU }:: Russian Federation | 138 |
+| #16 | ::{ flag=CA }:: Canada | 142 |
+| #17 | ::{ flag=AU }:: Australia | 149 |
+| #18 | ::{ flag=MA }:: ::{ flag=KZ }:: ::{ flag=KE }:: ::{ flag=BH }:: ::{ flag=IN }:: Afrasia | 149 |
+| #19 | ::{ flag=ID }:: Indonesia | 150 |
+| #20 | ::{ flag=CN }:: China | 159 |
+| #21 | ::{ flag=HK }:: Hong Kong | 168 |
+| #22 | ::{ flag=PT }:: Portugal | 173 |
+| #23 | ::{ flag=PL }:: Poland | 178 |
+| #24 | ::{ flag=GB }:: United Kingdom | 195 |
+| #25 | ::{ flag=ES }:: Spain | 218 |
+| #26 | ::{ flag=NZ }:: New Zealand | 225 |
+| #27 | ::{ flag=EU }:: Europe | 226 |
+| #28 | ::{ flag=TR }:: Turkey | 248 |
+| #29 | ::{ flag=BR }:: Brazil | 257 |
+| #30 | ::{ flag=SE }:: Sweden | 268 |
+| #31 | ::{ flag=MO }:: Macau | 273 |
+| #32 | ::{ flag=DZ }:: Algeria | 276 |
+| #33 | ::{ flag=UA }:: Ukraine | 287 |
+| #34 | ::{ flag=VE }:: Venezuela | 288 |
+| #35 | ::{ flag=NO }:: Norway | 298 |
+| #36 | ::{ flag=VN }:: Vietnam | 317 |
 
 ## Ruleset
 
