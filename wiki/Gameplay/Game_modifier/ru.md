@@ -20,10 +20,6 @@ tags:
  - фри мод
 ---
 
-<!-- READ BEFORE EDITING:
-- Mods under "List of Mods" are listed by order of appearance on the Mod Selection Screen; same order as /Summary
-- Updates to this article should be accompanied with appropriate updates to /Summary -->
-
 # Игровой модификатор
 
 *У этого термина существуют и другие значения, см. [Мод (значения)](/wiki/Disambiguation/Mod).*

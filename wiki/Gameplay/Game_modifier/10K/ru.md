@@ -8,10 +8,6 @@ tags:
   - модификатор
 ---
 
-<!-- TODO:
-- add score multiplier, shortcut key, and caption values
-- Add information on when and why the 10k mod was removed -->
-
 # 10K (мод)
 
 ![Значок мода 10K](/wiki/shared/mods/10K.png "Значок мода 10K")
