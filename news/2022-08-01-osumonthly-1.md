@@ -19,7 +19,7 @@ With all this out of the way, let's dive straight into the news!
 - [What's new in osu!](#what's-new-in-osu!?)
 - [Top scores of the month](#top-scores-of-the-month)
 - [New features in osu!(lazer)](#new-features-in-osu!(lazer))
-- [Montly community quiz](#monthly-community-quiz)
+- [Monthly community quiz](#monthly-community-quiz)
 - [End word](#end-word)
 
 ## What's new in osu!?
