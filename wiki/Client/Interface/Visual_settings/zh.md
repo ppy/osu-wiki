@@ -10,7 +10,7 @@ no_native_review: true
 
 *注意：每张谱面的视觉设置会单独保存在该谱面上，但是部分设置会在 osu!关闭后丢失，如有需要请在[设置](/wiki/Client/Options)侧边栏中进行全局(永久)设置*
 
-你也可以在游戏中暂停(如ESC，切屏等)以显示视觉设置菜单。但务必注意，在多人游戏中按下ESC会被视为离开[多人游戏](/wiki/Gameplay/Multiplayer)房间！
+你也可以在游戏中暂停(如ESC，切屏等)以显示视觉设置菜单。但务必注意，在多人游戏中按下ESC会被视为离开[多人游戏](/wiki/Client/Interface/Multiplayer)房间！
 
 ## 设置
 

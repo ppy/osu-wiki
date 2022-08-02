@@ -18,7 +18,7 @@ The play style is widely considered to be the hardest method to play with and mo
 
 Dual mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another mouse to move the in-game cursor.
 
-The play style used to be considered a joke play style to most players until May 2013 when Canadian player ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) starting getting top scores on highly-respected maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing with two mice.
+The play style used to be considered a joke play style to most players until May 2013 when Canadian player ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) starting getting top scores on highly-respected maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing with two mice.
 
 *Note: It is also common for dual mouse players to tape the mouse used for clicking to the desk.*
 
@@ -78,7 +78,7 @@ Touchscreen and keyboard is a play style uses a keyboard for key inputs, and tou
 
 - **Laptop touchpad/trackpad**: While this method is possible, most players prefer not to use a trackpad because of the extreme difficulty involved. Specifically, players argue that controlling the cursor movement on the limited space of the laptop touchpad/trackpad is clunky, slow, and creates a lot of friction. The trackpad is used to navigate the in-game cursor.
 - **Joystick**: A creative way to control the cursor. This play style sees the player hold and move a joystick around to move the in-game cursor and — depending on player's joystick design — taps using the trigger/face buttons of the joystick, or with the keyboard keys to register the beats. It is widley-regarded as a sort of "challenge" play style due to the obvious drawbacks and sheer skill required to control the joystick movement.
-- **Metal plate**: This is a special way to replace the keyboard for tapping beats. The method was introduced by ![][flag_US] [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
+- **Metal plate**: This is a special way to replace the keyboard for tapping beats. The method was introduced by ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
 - **Gamepad**: Like the joystick, this method is one that is more considered to be a creative, and out-of-the-box way to play osu!. Depending on the brand of controller, this play style could see a player using a built-in trackpad, control/analog stick, or D-Pad to control the in-game cursor. Some players may find it more comfortable to use buttons already on the controller itself to tap beats, or through a regular keyboard.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
@@ -171,6 +171,3 @@ Another drawback is that osu!mania maps may have been designed without dance gam
 
 - **Guitar/Drum set** (5/6K): The default controller for the guitar-themed ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed ([DrumMania](https://en.wikipedia.org/wiki/GuitarFreaks_and_DrumMania)) rhythm game. Players stream on their guitar or hit the drums and cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
 - **Para Para controller** (5K): This is the default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitivity of the input receiver and the player's physical limitation.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

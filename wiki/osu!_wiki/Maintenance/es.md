@@ -66,7 +66,6 @@ En este caso, son implementadas por personas capaces de ello y **no** son añadi
 
 - [estado de osu-wiki](https://clayton.cc/osu-wiki-status/es): lista de articulos por idioma, y la categoria de mantenimiento que requieren (traducción, actualizacion, expansión de 'stubs'). Véase [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) para peticiones de funcionalidad.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin): una Node.js de utilidad para revisiones automatizadas y ediciones (Enlaces rotos, actualizaciones grupales, reemplazo de textos en toda la wiki, entre otras cosas)
-- [flag-wiki-osu](https://megaapplepi.github.io/flag-wiki-osu): automáticamente añade referencia a las banderas mencionadas en un artículo. Véase [ppy/osu-wiki#328](https://github.com/ppy/osu-wiki/issues/328) para peticiones de funcionalidad.
 
 ## Rutinas
 

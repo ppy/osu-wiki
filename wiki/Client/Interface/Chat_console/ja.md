@@ -24,7 +24,7 @@ osu!のほとんどの画面では`F8`を押すか、右下の`Show Chat`ボタ�
 
 ## 拡張チャットコンソール
 
-*[osu!academy](/wiki/Community/Video_series/osu!academy)では、[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII)で、[Multiplayer](/wiki/Gameplay/Multiplayer)とともにこのページを取り上げています。*
+*[osu!academy](/wiki/Community/Video_series/osu!academy)では、[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII)で、[Multiplayer](/wiki/Client/Interface/Multiplayer)とともにこのページを取り上げています。*
 
 osu!のほとんどの画面では`F9`を押すか、イントロ画面の右下にある`Online Users`ボタンをクリックすると、拡張チャットコンソールを切り替えることができます。拡張チャットは、チャットコンソールに加えて、画面の残りの3分の2にパネルのリストを重ねて表示し、現在osu!にログインしているユーザー情報が表示されます。
 

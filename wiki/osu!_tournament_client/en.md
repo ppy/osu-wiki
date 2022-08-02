@@ -44,7 +44,7 @@ For custom flags, `.jpg` and `.png` files are accepted. Flag images should be at
 
 An example of a flag using the correct specifications is this flag of Australia:
 
-![][flag_AU]
+::{ flag=AU }::
 
 Flags have to be placed in `<your-tournament>/Flags`. The flags can then be referenced in the Team Editor by their filenames without the file extension.
 
@@ -78,5 +78,3 @@ The video files have to placed in `<your-tournament>/Videos` and specific names 
 | Win | `teamwin-red`, `teamwin-blue` |
 | Drawings | `main` |
 | Showcase | `showcase` |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"

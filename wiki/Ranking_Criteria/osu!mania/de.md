@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 359208bc2e93ce6c2e1499e3bd1fbb57a3b9fc1c
+---
+
 # Ranking-Kriterien für osu!mania
 
 Die **Ranking-Kriterien für osu!mania** sind Regeln und Richtlinien, welche für die Gestaltung von osu!mania-spezifischen Schwierigkeitsstufen verwendet werden. Um eine osu!mania-spezifische Schwierigkeitsstufe zu ranken, ist es verpflichtend, dass die Gestaltung sich an die aufgelisteten Kriterien hält. Während **alle Regeln in jedem Fall befolgt werden müssen**, so können Richtlinien unter besonderen Umständen ignoriert werden. Diese besonderen Umstände müssen durch eine ausführliche Erklärung begründet werden, warum diese Richtlinie missachtet wurde und warum die generelle Qualität der Gestaltung gestört wird, wenn diese Richtlinie nicht ignoriert wird.

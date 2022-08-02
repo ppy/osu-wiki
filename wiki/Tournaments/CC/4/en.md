@@ -12,7 +12,7 @@ tags:
 
 ![CCIV logo](img/logo.png)
 
-The **Corgi Cup IV: September 2017** (***CCIV***) was a 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), and ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710). It was the fourth instalment of the Corgi Cup.
+The **Corgi Cup IV: September 2017** (***CCIV***) was a 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), and ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710). It was the fourth instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -45,12 +45,12 @@ Corgi Cup IV: September 2017 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710) |
-| Mappool selector | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AT] [omgforz](https://osu.ppy.sh/users/18983), ![][flag_SE] [Kotayo](https://osu.ppy.sh/users/1730025) |
-| Streamer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972) |
-| Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Doomsday is bad](https://osu.ppy.sh/users/3481378), ![][flag_DE] [Irate](https://osu.ppy.sh/users/7166084), ![][flag_SE] [Kotayo](https://osu.ppy.sh/users/1730025) |
-| Designer | ![][flag_GB] [Doomsday is bad](https://osu.ppy.sh/users/3481378), ![][flag_CA] [Jarvis](https://osu.ppy.sh/users/4814060) |
-| Referee | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Nitronic Techno](https://osu.ppy.sh/users/5298504), ![][flag_NO] [k3v5t3r](https://osu.ppy.sh/users/8143379), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) |
+| Host | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710) |
+| Mappool selector | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=AT }:: [omgforz](https://osu.ppy.sh/users/18983), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025) |
+| Streamer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972) |
+| Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378), ::{ flag=DE }:: [Irate](https://osu.ppy.sh/users/7166084), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025) |
+| Designer | ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378), ::{ flag=CA }:: [Jarvis](https://osu.ppy.sh/users/4814060) |
+| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Nitronic Techno](https://osu.ppy.sh/users/5298504), ::{ flag=NO }:: [k3v5t3r](https://osu.ppy.sh/users/8143379), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) |
 
 ## Links
 
@@ -63,10 +63,10 @@ Corgi Cup IV: September 2017 was run by various community members.
 
 | Seed | Members |
 | :-: | :-- |
-| 1-8 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238), ![][flag_GB] [My Angel Yaz](https://osu.ppy.sh/users/4117142), ![][flag_GB] [Jerome](https://osu.ppy.sh/users/3391379), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [djsettle](https://osu.ppy.sh/users/4010354) |
-| 9-16 | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Kardet](https://osu.ppy.sh/users/1438509), ![][flag_GB] [Shaww](https://osu.ppy.sh/users/2704809), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446), ![][flag_NO] [gilmat](https://osu.ppy.sh/users/5779181), ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294), ![][flag_GB] [My Angel Tyron](https://osu.ppy.sh/users/5444914) |
-| 17-24 | ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_GB] [feliciaforever](https://osu.ppy.sh/users/6177798), ![][flag_GB] [MagicMantwon](https://osu.ppy.sh/users/6183136), ![][flag_GB] [Electovoid](https://osu.ppy.sh/users/6648263), ![][flag_US] [Joezapy](https://osu.ppy.sh/users/6725659), ![][flag_AU] [Subject000016](https://osu.ppy.sh/users/3478364), ![][flag_DE] [lizzy-art](https://osu.ppy.sh/users/7282467) |
-| 25-32 | ![][flag_CZ] [NyarkoO](https://osu.ppy.sh/users/6622567), ![][flag_NL] [Penda](https://osu.ppy.sh/users/4268370), ![][flag_GB] [Doomsday is bad](https://osu.ppy.sh/users/3481378), ![][flag_GB] [Pepsi Max](https://osu.ppy.sh/users/4837257), ![][flag_IL] [Syncro](https://osu.ppy.sh/users/6565563), ![][flag_IN] [astergaster](https://osu.ppy.sh/users/8447756), ![][flag_GB] [icecream-chan](https://osu.ppy.sh/users/4776591), ![][flag_GB] [cfman29](https://osu.ppy.sh/users/9023597) |
+| 1-8 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238), ::{ flag=GB }:: [My Angel Yaz](https://osu.ppy.sh/users/4117142), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354) |
+| 9-16 | ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [Kardet](https://osu.ppy.sh/users/1438509), ::{ flag=GB }:: [Shaww](https://osu.ppy.sh/users/2704809), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446), ::{ flag=NO }:: [gilmat](https://osu.ppy.sh/users/5779181), ::{ flag=FI }:: [Mara](https://osu.ppy.sh/users/194294), ::{ flag=GB }:: [My Angel Tyron](https://osu.ppy.sh/users/5444914) |
+| 17-24 | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=GB }:: [feliciaforever](https://osu.ppy.sh/users/6177798), ::{ flag=GB }:: [MagicMantwon](https://osu.ppy.sh/users/6183136), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=US }:: [Joezapy](https://osu.ppy.sh/users/6725659), ::{ flag=AU }:: [Subject000016](https://osu.ppy.sh/users/3478364), ::{ flag=DE }:: [lizzy-art](https://osu.ppy.sh/users/7282467) |
+| 25-32 | ::{ flag=CZ }:: [NyarkoO](https://osu.ppy.sh/users/6622567), ::{ flag=NL }:: [Penda](https://osu.ppy.sh/users/4268370), ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378), ::{ flag=GB }:: [Pepsi Max](https://osu.ppy.sh/users/4837257), ::{ flag=IL }:: [Syncro](https://osu.ppy.sh/users/6565563), ::{ flag=IN }:: [astergaster](https://osu.ppy.sh/users/8447756), ::{ flag=GB }:: [icecream-chan](https://osu.ppy.sh/users/4776591), ::{ flag=GB }:: [cfman29](https://osu.ppy.sh/users/9023597) |
 
 ## Podium
 
@@ -74,9 +74,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026)  |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026)  |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
 
 ## Mappools
 
@@ -255,8 +255,8 @@ Sunday, 29 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Rohulk ![][flag_RO] | 5 | **7** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/37140825) |
-| Rohulk ![][flag_RO] | 3 | **7** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/37144171) |
+| Rohulk ::{ flag=RO }:: | 5 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/37140825) |
+| Rohulk ::{ flag=RO }:: | 3 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/37144171) |
 
 #### Losers bracket final
 
@@ -264,7 +264,7 @@ Saturday, 28 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Karthy ![][flag_GB] | 1 | **7** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/37116996) |
+| Karthy ::{ flag=GB }:: | 1 | **7** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/37116996) |
 
 ### Finals
 
@@ -274,7 +274,7 @@ Sunday, 22 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Karthy ![][flag_GB] | 4 | **6** | ![][flag_RO] **Rohulk** | *N/A* |
+| Karthy ::{ flag=GB }:: | 4 | **6** | ::{ flag=RO }:: **Rohulk** | *N/A* |
 
 #### Losers bracket
 
@@ -282,14 +282,14 @@ Saturday, 21 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **6** | 0 | ![][flag_US] zelda101 | [#1](https://osu.ppy.sh/community/matches/36951319) |
-| Electovoid ![][flag_GB] | 4 | **6** | ![][flag_GB] **helix** | [#1](https://osu.ppy.sh/community/matches/36951279) |
+| **Bubbleman** ::{ flag=GB }:: | **6** | 0 | ::{ flag=US }:: zelda101 | [#1](https://osu.ppy.sh/community/matches/36951319) |
+| Electovoid ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **helix** | [#1](https://osu.ppy.sh/community/matches/36951279) |
 
 Sunday, 22 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **6** | 0 | ![][flag_GB] helix | *N/A* |
+| **Bubbleman** ::{ flag=GB }:: | **6** | 0 | ::{ flag=GB }:: helix | *N/A* |
 
 ### Semifinals
 
@@ -299,8 +299,8 @@ Saturday, 14 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Rohulk** ![][flag_RO] | **6** | 2 | ![][flag_US] zelda101 | [#1](https://osu.ppy.sh/community/matches/36790717) |
-| helix ![][flag_GB] | 3 | **6** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/36793534) |
+| **Rohulk** ::{ flag=RO }:: | **6** | 2 | ::{ flag=US }:: zelda101 | [#1](https://osu.ppy.sh/community/matches/36790717) |
+| helix ::{ flag=GB }:: | 3 | **6** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/36793534) |
 
 #### Losers bracket
 
@@ -308,17 +308,17 @@ Saturday, 14 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **6** | 1 | ![][flag_GB] My Angel Tyron | [#1](https://osu.ppy.sh/community/matches/36797611) |
+| **Bubbleman** ::{ flag=GB }:: | **6** | 1 | ::{ flag=GB }:: My Angel Tyron | [#1](https://osu.ppy.sh/community/matches/36797611) |
 
 Sunday, 15 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| djsettle ![][flag_GB] | 3 | **6** | ![][flag_GB] **Electovoid** | *N/A* |
-| **OPJames** ![][flag_GB] | **6** | 0 | ![][flag_GB] Pelzio | [#1](https://osu.ppy.sh/community/matches/36821319) |
-| Jerome ![][flag_GB] | 5 | **6** | ![][flag_NO] **gilmat** | [#1](https://osu.ppy.sh/community/matches/36822109) |
-| **Bubbleman** ![][flag_GB] | **6** | 3 | ![][flag_GB] OPJames | [#1](https://osu.ppy.sh/community/matches/36824652) |
-| **Electovoid** ![][flag_GB] | **6** | 4 | ![][flag_NO] gilmat | [#1](https://osu.ppy.sh/community/matches/36826345) |
+| djsettle ::{ flag=GB }:: | 3 | **6** | ::{ flag=GB }:: **Electovoid** | *N/A* |
+| **OPJames** ::{ flag=GB }:: | **6** | 0 | ::{ flag=GB }:: Pelzio | [#1](https://osu.ppy.sh/community/matches/36821319) |
+| Jerome ::{ flag=GB }:: | 5 | **6** | ::{ flag=NO }:: **gilmat** | [#1](https://osu.ppy.sh/community/matches/36822109) |
+| **Bubbleman** ::{ flag=GB }:: | **6** | 3 | ::{ flag=GB }:: OPJames | [#1](https://osu.ppy.sh/community/matches/36824652) |
+| **Electovoid** ::{ flag=GB }:: | **6** | 4 | ::{ flag=NO }:: gilmat | [#1](https://osu.ppy.sh/community/matches/36826345) |
 
 ### Quarterfinals
 
@@ -328,20 +328,20 @@ Friday, 6 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Rohulk** ![][flag_RO] | **5** | 0 | ![][flag_GB] Jerome | [#1](https://osu.ppy.sh/community/matches/36599938) |
-| djsettle ![][flag_GB] | 2 | **5** | ![][flag_US] **Zelda101** | [#1](https://osu.ppy.sh/community/matches/36600730) |
+| **Rohulk** ::{ flag=RO }:: | **5** | 0 | ::{ flag=GB }:: Jerome | [#1](https://osu.ppy.sh/community/matches/36599938) |
+| djsettle ::{ flag=GB }:: | 2 | **5** | ::{ flag=US }:: **Zelda101** | [#1](https://osu.ppy.sh/community/matches/36600730) |
 
 Saturday, 7 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Bubbleman ![][flag_GB] | 3 | **5** | ![][flag_GB] **Helix** | [#1](https://osu.ppy.sh/community/matches/36626262) |
+| Bubbleman ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Helix** | [#1](https://osu.ppy.sh/community/matches/36626262) |
 
 Friday, 13 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| OPJames ![][flag_GB] | 0 | **5** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/36763412) |
+| OPJames ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/36763412) |
 
 #### Losers bracket
 
@@ -349,43 +349,43 @@ Thursday, 5 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **gilmat** ![][flag_NO] | **5** | 0 | ![][flag_GB] cfman29 | [#1](https://osu.ppy.sh/community/matches/36574123) |
+| **gilmat** ::{ flag=NO }:: | **5** | 0 | ::{ flag=GB }:: cfman29 | [#1](https://osu.ppy.sh/community/matches/36574123) |
 
 Saturday, 7 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Mara** ![][flag_FI] | **5** | 0 | ![][flag_GB] icecream-chan | [#1](https://osu.ppy.sh/community/matches/36629530) |
-| **My Angel Tyron** ![][flag_GB] | **5** | 0 | ![][flag_CZ] NyarkoO | [#1](https://osu.ppy.sh/community/matches/36635284) |
-| **dong** ![][flag_GB] | **5** | 1 | ![][flag_FI] Lefafel | [#1](https://osu.ppy.sh/community/matches/36636734) |
-| **Bae-** ![][flag_GB] | **5** | 2 | ![][flag_NL] Penda | [#1](https://osu.ppy.sh/community/matches/36636626) |
-| Kardet ![][flag_GB] | 0 | **1** | ![][flag_GB] **Electovoid** | *forfeit* |
+| **Mara** ::{ flag=FI }:: | **5** | 0 | ::{ flag=GB }:: icecream-chan | [#1](https://osu.ppy.sh/community/matches/36629530) |
+| **My Angel Tyron** ::{ flag=GB }:: | **5** | 0 | ::{ flag=CZ }:: NyarkoO | [#1](https://osu.ppy.sh/community/matches/36635284) |
+| **dong** ::{ flag=GB }:: | **5** | 1 | ::{ flag=FI }:: Lefafel | [#1](https://osu.ppy.sh/community/matches/36636734) |
+| **Bae-** ::{ flag=GB }:: | **5** | 2 | ::{ flag=NL }:: Penda | [#1](https://osu.ppy.sh/community/matches/36636626) |
+| Kardet ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **Electovoid** | *forfeit* |
 
 Sunday, 8 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Bae- ![][flag_GB] | 0 | **5** | ![][flag_NO] **gilmat** | [#1](https://osu.ppy.sh/community/matches/36658229) |
-| dong ![][flag_GB] | 2 | **5** | ![][flag_GB] **Electovoid** | [#1](https://osu.ppy.sh/community/matches/36664368) |
-| **My Angel Tyron** ![][flag_GB] | **5** | 4 | ![][flag_FI] Mara | [#1](https://osu.ppy.sh/community/matches/36666089) |
+| Bae- ::{ flag=GB }:: | 0 | **5** | ::{ flag=NO }:: **gilmat** | [#1](https://osu.ppy.sh/community/matches/36658229) |
+| dong ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **Electovoid** | [#1](https://osu.ppy.sh/community/matches/36664368) |
+| **My Angel Tyron** ::{ flag=GB }:: | **5** | 4 | ::{ flag=FI }:: Mara | [#1](https://osu.ppy.sh/community/matches/36666089) |
 
 Monday, 9 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Shaww** ![][flag_GB] | **5** | 3 | ![][flag_GB] feliciaforever | [#1](https://osu.ppy.sh/community/matches/36680508) |
+| **Shaww** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: feliciaforever | [#1](https://osu.ppy.sh/community/matches/36680508) |
 
 Friday, 13 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Pelzio** ![][flag_GB] | **5** | 2 | ![][flag_GB] Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/36766889) |
+| **Pelzio** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/36766889) |
 
 Saturday, 14 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Shaww ![][flag_GB] | 3 | **5** | ![][flag_GB] **Pelzio** | [#1](https://osu.ppy.sh/community/matches/36795543) |
+| Shaww ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Pelzio** | [#1](https://osu.ppy.sh/community/matches/36795543) |
 
 ### Round of 16
 
@@ -395,34 +395,34 @@ Wednesday, 27 September 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **My Angel Yaz** ![][flag_GB] | **5** | 1 | ![][flag_GB] dong | [#1](https://osu.ppy.sh/community/matches/36392589) |
+| **My Angel Yaz** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: dong | [#1](https://osu.ppy.sh/community/matches/36392589) |
 
 Thursday, 28 September 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Jerome** ![][flag_GB] | **5** | 2 | ![][flag_GB] My Angel Tyron | [#1](https://osu.ppy.sh/community/matches/36409067) |
+| **Jerome** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: My Angel Tyron | [#1](https://osu.ppy.sh/community/matches/36409067) |
 
 Saturday, 30 September 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Rohulk** ![][flag_RO] | **5** | 0 | ![][flag_FI] Mara | [#1](https://osu.ppy.sh/community/matches/36459612) |
-| Kardet ![][flag_GB] | 3 | **5** | ![][flag_GB] **Karthy** | [#1](https://osu.ppy.sh/community/matches/36463894) |
-| Pelzio ![][flag_GB] | 2 | **5** | ![][flag_US] **zelda101** | [#1](https://osu.ppy.sh/community/matches/36466063) |
+| **Rohulk** ::{ flag=RO }:: | **5** | 0 | ::{ flag=FI }:: Mara | [#1](https://osu.ppy.sh/community/matches/36459612) |
+| Kardet ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Karthy** | [#1](https://osu.ppy.sh/community/matches/36463894) |
+| Pelzio ::{ flag=GB }:: | 2 | **5** | ::{ flag=US }:: **zelda101** | [#1](https://osu.ppy.sh/community/matches/36466063) |
 
 Sunday, 1 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **djsettle** ![][flag_GB] | **5** | 0 | ![][flag_GB] Shaww | [#1](https://osu.ppy.sh/community/matches/36492348) |
-| **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_NO] gilmat | [#1](https://osu.ppy.sh/community/matches/36494308) |
+| **djsettle** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Shaww | [#1](https://osu.ppy.sh/community/matches/36492348) |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 1 | ::{ flag=NO }:: gilmat | [#1](https://osu.ppy.sh/community/matches/36494308) |
 
 Saturday, 7 October 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Helix** ![][flag_GB] | **5** | 1 | ![][flag_GB] Bae- | [#1](https://osu.ppy.sh/community/matches/36621352) |
+| **Helix** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Bae- | [#1](https://osu.ppy.sh/community/matches/36621352) |
 
 #### Losers bracket
 
@@ -430,24 +430,24 @@ Thursday, 28 September 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Penda** ![][flag_NO] | **5** | 2 | ![][flag_GB] Pepsi Max | [#1](https://osu.ppy.sh/community/matches/36404831) |
-| Subject000016 ![][flag_GB] | 3 | **5** | ![][flag_GB] **Electovoid** | [#1](https://osu.ppy.sh/community/matches/36410501) |
+| **Penda** ::{ flag=NO }:: | **5** | 2 | ::{ flag=GB }:: Pepsi Max | [#1](https://osu.ppy.sh/community/matches/36404831) |
+| Subject000016 ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Electovoid** | [#1](https://osu.ppy.sh/community/matches/36410501) |
 
 Saturday, 30 September 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Astergaster ![][flag_IN] | 0 | **1** | ![][flag_CZ] **NyarkoO** | *forfeit* |
-| Syncro ![][flag_IL] | 4 | **5** | ![][flag_GB] **icecream-chan** | [#1](https://osu.ppy.sh/community/matches/36462042) |
-| **Doomsday is bad** ![][flag_GB] | **5** | 1 | ![][flag_GB] Hydria | [#1](https://osu.ppy.sh/community/matches/36469745 ) |
+| Astergaster ::{ flag=IN }:: | 0 | **1** | ::{ flag=CZ }:: **NyarkoO** | *forfeit* |
+| Syncro ::{ flag=IL }:: | 4 | **5** | ::{ flag=GB }:: **icecream-chan** | [#1](https://osu.ppy.sh/community/matches/36462042) |
+| **Doomsday is bad** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Hydria | [#1](https://osu.ppy.sh/community/matches/36469745 ) |
 
 Saturday, 30 September 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Feliciaforever** ![][flag_GB] | **5** | 3 | ![][flag_US] Joezapy | [#1](https://osu.ppy.sh/community/matches/36490851) |
-| lizzy-art ![][flag_DE] | 0 | **5** | ![][flag_FI] **Lefafel** | [#1](https://osu.ppy.sh/community/matches/36494411) |
-| MagicMantwon ![][flag_GB] | 0 | **1** | ![][flag_GB] **cfman29** | *forfeit* |
+| **Feliciaforever** ::{ flag=GB }:: | **5** | 3 | ::{ flag=US }:: Joezapy | [#1](https://osu.ppy.sh/community/matches/36490851) |
+| lizzy-art ::{ flag=DE }:: | 0 | **5** | ::{ flag=FI }:: **Lefafel** | [#1](https://osu.ppy.sh/community/matches/36494411) |
+| MagicMantwon ::{ flag=GB }:: | 0 | **1** | ::{ flag=GB }:: **cfman29** | *forfeit* |
 
 ### Round of 32
 
@@ -455,49 +455,49 @@ Wednesday, 20 September 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kardet** ![][flag_GB] | **4** | 1 | ![][flag_IL] Syncro | [#1](https://osu.ppy.sh/community/matches/36226799) |
+| **Kardet** ::{ flag=GB }:: | **4** | 1 | ::{ flag=IL }:: Syncro | [#1](https://osu.ppy.sh/community/matches/36226799) |
 
 Thursday, 21 September 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Shaww** ![][flag_GB] | **4** | 0 | ![][flag_GB] Pepsi Max | [#1](https://osu.ppy.sh/community/matches/36246080) |
-| **zelda101** ![][flag_US] | **4** | 0 | ![][flag_GB] cfman29 | [#1](https://osu.ppy.sh/community/matches/36247488) |
+| **Shaww** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Pepsi Max | [#1](https://osu.ppy.sh/community/matches/36246080) |
+| **zelda101** ::{ flag=US }:: | **4** | 0 | ::{ flag=GB }:: cfman29 | [#1](https://osu.ppy.sh/community/matches/36247488) |
 
 Friday, 22 September 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Jerome** ![][flag_GB] | **4** | 0 | ![][flag_DE] Lizzy-art | [#1](https://osu.ppy.sh/community/matches/36272729) |
-| **dong** ![][flag_GB] | **4** | 1 | ![][flag_CZ] NyarkoO | [#1](https://osu.ppy.sh/community/matches/36273891) |
+| **Jerome** ::{ flag=GB }:: | **4** | 0 | ::{ flag=DE }:: Lizzy-art | [#1](https://osu.ppy.sh/community/matches/36272729) |
+| **dong** ::{ flag=GB }:: | **4** | 1 | ::{ flag=CZ }:: NyarkoO | [#1](https://osu.ppy.sh/community/matches/36273891) |
 
 Saturday, 23 September 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **My Angel Yaz** ![][flag_GB] | **4** | 0 | ![][flag_IN] Astergaster | [#1](https://osu.ppy.sh/community/matches/36300082) |
-| **Rohulk** ![][flag_RO] | **4** | 0 | ![][flag_AU] subject000016 | [#1](https://osu.ppy.sh/community/matches/36302136) |
-| **helix** ![][flag_GB] | **4** | 2 | ![][flag_GB] feliciaforever | [#1](https://osu.ppy.sh/community/matches/36305391) |
-| **Bubbleman** ![][flag_GB] | **4** | 1 | ![][flag_GB] Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/36309255 ) |
-| **Bae-** ![][flag_GB] | **4** | 3 | ![][flag_US] Joezapy | [#1](https://osu.ppy.sh/community/matches/36310095) |
+| **My Angel Yaz** ::{ flag=GB }:: | **4** | 0 | ::{ flag=IN }:: Astergaster | [#1](https://osu.ppy.sh/community/matches/36300082) |
+| **Rohulk** ::{ flag=RO }:: | **4** | 0 | ::{ flag=AU }:: subject000016 | [#1](https://osu.ppy.sh/community/matches/36302136) |
+| **helix** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: feliciaforever | [#1](https://osu.ppy.sh/community/matches/36305391) |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/36309255 ) |
+| **Bae-** ::{ flag=GB }:: | **4** | 3 | ::{ flag=US }:: Joezapy | [#1](https://osu.ppy.sh/community/matches/36310095) |
 
 Sunday, 24 September 2017:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Pelzio** ![][flag_GB] | **1** | 0 | ![][flag_GB] MagicMantwon | *forfeit* |
-| **gilmat** ![][flag_NO] | **4** | 1 | ![][flag_GB] Hydria | [#1](https://osu.ppy.sh/community/matches/36330053) |
-| **My Angel Tyron** ![][flag_GB] | **4** | 0 | ![][flag_FI] Lefafel | [#1](https://osu.ppy.sh/community/matches/36331666) |
-| **Karthy** ![][flag_GB] | **4** | 0 | ![][flag_GB] icecream-chan | [#1](https://osu.ppy.sh/community/matches/36333325) |
-| **Mara** ![][flag_FI] | **4** | 1 | ![][flag_GB] Electovoid | [#1](https://osu.ppy.sh/community/matches/36335181) |
-| **djsettle** ![][flag_GB] | **4** | 1 | ![][flag_NL] Penda | [#1](https://osu.ppy.sh/community/matches/36336721) |
+| **Pelzio** ::{ flag=GB }:: | **1** | 0 | ::{ flag=GB }:: MagicMantwon | *forfeit* |
+| **gilmat** ::{ flag=NO }:: | **4** | 1 | ::{ flag=GB }:: Hydria | [#1](https://osu.ppy.sh/community/matches/36330053) |
+| **My Angel Tyron** ::{ flag=GB }:: | **4** | 0 | ::{ flag=FI }:: Lefafel | [#1](https://osu.ppy.sh/community/matches/36331666) |
+| **Karthy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: icecream-chan | [#1](https://osu.ppy.sh/community/matches/36333325) |
+| **Mara** ::{ flag=FI }:: | **4** | 1 | ::{ flag=GB }:: Electovoid | [#1](https://osu.ppy.sh/community/matches/36335181) |
+| **djsettle** ::{ flag=GB }:: | **4** | 1 | ::{ flag=NL }:: Penda | [#1](https://osu.ppy.sh/community/matches/36336721) |
 
 ## Ruleset
 
 - This is a 32 player, 1v1, head-to-head, double-elimination tournament.
 - In order to participate, you must have the "Subscriber" or "Friend" role on Doomsday's Discord (hosts and mappool selectors are ineligible to enter).
 - The top 28 scores from the qualifiers will progress into the Round of 32.
-- The Top 4 from last CorgiCup (![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_RO] [Rohulk](https://osu.ppy.sh/users/3219026) and ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238)) all have automatic qualifications into the Round of 32 should they accept their invitation.
+- The Top 4 from last CorgiCup (::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) and ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238)) all have automatic qualifications into the Round of 32 should they accept their invitation.
 - Referees will create the match and invite players 10 mins before the match is due to start.
   - If a player fails to turn up before or on the time their match is due to start, a 10 minute timer will be started. After 10 minutes, if the player has still not shown up, the other player wins.
   - If both players fail to show up, the match can be rescheduled during the times given.
@@ -514,18 +514,3 @@ Sunday, 24 September 2017:
 - Score V2 will be used.
 - For FreeMod picks, players must select a choice of HD, HR, EZ, FL or a combination of these mods.
   - Players can choose to play FreeMod picks with DT if both players agree.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
-[flag_IN]: /wiki/shared/flag/IN.gif "India"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

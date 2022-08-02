@@ -44,13 +44,10 @@ En raison de la subjectivité du flow et de la quantité de modèles possibles d
 
 ## Voir également
 
-- [Analyzing Flow in Beatmaps](https://osu.ppy.sh/community/forums/topics/86329), un guide par ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
-- [Mapping Analysis #1 - Flow](https://osu.ppy.sh/home/news/2013-09-15-mapping-analysis-1-flow), un news post par ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005)
-- [flow + circles](https://www.youtube.com/watch?v=ig7nTSbWwVc) et [flow + sliders](https://www.youtube.com/watch?v=GYGatwQszwQ), épisodes de la série YouTube [osu!mapping](/wiki/Community/Video_series/osu!mapping) par ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
+- [Analyzing Flow in Beatmaps](https://osu.ppy.sh/community/forums/topics/86329), un guide par ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000)
+- [Mapping Analysis #1 - Flow](https://osu.ppy.sh/home/news/2013-09-15-mapping-analysis-1-flow), un news post par ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005)
+- [flow + circles](https://www.youtube.com/watch?v=ig7nTSbWwVc) et [flow + sliders](https://www.youtube.com/watch?v=GYGatwQszwQ), épisodes de la série YouTube [osu!mapping](/wiki/Community/Video_series/osu!mapping) par ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
 
 ## Notes
 
 [^circular-flow]: Pour les joueurs utilisant une souris, un mouvement circulaire appliqué dans la même direction pendant trop longtemps est considéré comme trop répétitif et inconfortable en raison de la dérive de la souris (également appelé mouse drift en anglais).
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
