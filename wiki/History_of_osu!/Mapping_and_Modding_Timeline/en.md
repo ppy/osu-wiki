@@ -569,7 +569,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
   - This change has greatly increased the accessibility of mapping Muzukashii difficulties for many mappers.
 - **2022-03-23:** 15 Beatmap Nominators across all game modes were added to the [2021 Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators).
 - **2022-03-31:** Beatmap Nominator applications for the osu! game mode have closed for the first time, since the adoption of the new application system from the BN/QAT restructure.
-  - This was done in order to catch up with the constantly-growing backlog.
+  - This was done in order to catch up with the constantly growing backlog.
 
 ### April
 
