@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: f49638dd8e8f6f5cdb494797a380997cc18ee4ce
 tags:
   - pp committee
   - komite pp
@@ -12,20 +10,35 @@ tags:
 
 Panel mode osu! pertama kali diperkenalkan kepada publik melalui [artikel berita *Performance Points & Star Rating Updates* pada bulan November 2021](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) sebagai bentuk tanggapan dari hasil [survei komunitas](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) yang diselenggarakan beberapa bulan sebelumnya.
 
-Panel mode osu!mania dibentuk pada 22 April 2022 untuk mendukung upaya perimbangan tingkat kesulitan mode osu!mania yang sedang marak-maraknya di kala itu, yang dimulai dengan [perubahan algoritma pelepasan *hold note*](https://github.com/ppy/osu/pull/17913).
+Panel mode osu!mania dibentuk pada tanggal 22 April 2022 sebagai bentuk respon dari hasil [survei komunitas mengenai performance points dan star rating pada mode permainan osu!taiko dan osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) yang diselenggarakan beberapa bulan sebelumnya, dan antisipasi terhadap pengembangan yang pesat, yang dimulai dengan [perubahan algoritma perhitungan tingkat kesulitan pelepasan hold note pada osu!mania](https://github.com/ppy/osu/pull/17913).
+
+Panel mode osu!taiko dibentuk pada tanggal 1 Mei 2022 sebagai bentuk respon dari hasil survei di atas, dengan [rencana-rencana untuk perubahan besar terhadap algoritma star rating](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
 
 ## Anggota
 
 ### osu!
 
-- ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549)
-- ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987)
-- ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616)
-- ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455)
+| Profil osu! | Profil GitHub |
+| :-- | :-- |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
+| ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987) | [emu1337](https://github.com/emu1337) |
+| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | [MBmasher](https://github.com/MBmasher) |
+| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
+
+### osu!taiko
+
+| Profil osu! | Profil GitHub |
+| :-- | :-- |
+| ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) |
+| ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [Horiiizons](https://github.com/Horiiizons) |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [mangomizer](https://github.com/mangomizer) |
+| ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | [vunyunt](https://github.com/vunyunt) |
 
 ### osu!mania
 
-- ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891)
-- ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881)
-- ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180)
-- ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379)
+| Profil osu! | Profil GitHub |
+| :-- | :-- |
+| ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) | [abraker95](https://github.com/abraker95) |
+| ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) | [Eve-ning](https://github.com/Eve-ning) |
+| ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180) | [molneya](https://github.com/molneya) |
+| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | [Kominaru](https://github.com/Kominaru) |
