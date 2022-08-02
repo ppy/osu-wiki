@@ -10,9 +10,6 @@ tags:
 
 ## History
 
-![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) was chosen as the inaugural MAT Leader at the group's formation on the 27th of December, 2009.
+::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) was chosen as the inaugural MAT Leader at the group's formation on the 27th of December, 2009.
 
-The position was later held by ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) from the 26th of August, 2010 until the dissolution of the MAT on the 23rd of April, 2013.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+The position was later held by ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) from the 26th of August, 2010 until the dissolution of the MAT on the 23rd of April, 2013.

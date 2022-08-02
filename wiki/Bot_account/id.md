@@ -9,7 +9,7 @@ tags:
 
 # Akun bot
 
-**Akun bot** merupakan sebuah akun osu! khusus yang dijalankan secara otomatis, bukan dijalankan oleh orang sungguhan. Jika dilihat di situs web, akun-akun ini memiliki lencana berlabel putih dan bertuliskan `BOT` dan hanya bagian `me!` yang terlihat di profil mereka. Akun bot paling sering digunakan untuk meng-*host* "bot obrolan" yang menawarkan berbagai fungsi kepada komunitas melalui kanal lobi [multiplayer](/wiki/Gameplay/Multiplayer) atau pesan pribadi.
+**Akun bot** merupakan sebuah akun osu! khusus yang dijalankan secara otomatis, bukan dijalankan oleh orang sungguhan. Jika dilihat di situs web, akun-akun ini memiliki lencana berlabel putih dan bertuliskan `BOT` dan hanya bagian `me!` yang terlihat di profil mereka. Akun bot paling sering digunakan untuk meng-*host* "bot obrolan" yang menawarkan berbagai fungsi kepada komunitas melalui kanal lobi [multiplayer](/wiki/Client/Interface/Multiplayer) atau pesan pribadi.
 
 Akun bot hanya dapat dibuat melalui [proses pengajuan](#mendaftarkan-akun-bot). Upaya membuat akun bot dengan mendaftarkan akun osu! seperti biasa akan dianggap sebagai memiliki banyak akun dan merupakan pelanggaran terhadap [peraturan komunitas](/wiki/Rules#peraturan-komunitas).
 
@@ -57,7 +57,4 @@ Isi email tersebut harus meliputi hal-hal berikut:
 ## Trivia
 
 - Lencana `BOT` ditampilkan pada akun dengan grup utama `Chat Bots` (group #29). Daftar grup ini tidak dipublikasikan secara umum.
-- Ada beberapa akun pribadi yang berada dalam grup *chat bots* karena pemiliknya tidak mau atau meminta untuk tidak dibuatkan akun bot terpisah seperti ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) dan ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Permintaan khusus seperti ini tidak lagi ditawarkan dan bot baru yang memasuki grup *chat bots* akan selalu diberikan akun eksklusif.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
-[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
+- Ada beberapa akun pribadi yang berada dalam grup *chat bots* karena pemiliknya tidak mau atau meminta untuk tidak dibuatkan akun bot terpisah seperti ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) dan ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). Permintaan khusus seperti ini tidak lagi ditawarkan dan bot baru yang memasuki grup *chat bots* akan selalu diberikan akun eksklusif.

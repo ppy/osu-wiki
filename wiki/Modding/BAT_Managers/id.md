@@ -15,11 +15,6 @@ tags:
 
 ## Triumvir Conglomerate
 
-Berdasarkan promosi dari semua anggota aktif [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) ke BAT, pada 15 Mei 2013, 3 anggota baru BATm dari setiap wilayah geografis utama dipilih: ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika Utara, ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa, dan ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) mewakili Asia. Keseimbangan kekuatan dari ketiga anggota ini disebut sebagai Triumvir Conglomerate.
+Berdasarkan promosi dari semua anggota aktif [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) ke BAT, pada 15 Mei 2013, 3 anggota baru BATm dari setiap wilayah geografis utama dipilih: ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika Utara, ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa, dan ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) mewakili Asia. Keseimbangan kekuatan dari ketiga anggota ini disebut sebagai Triumvir Conglomerate.
 
-Posisi ini kemudian digantikan oleh ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), dan ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) pada 22 Desember 2013 sampai pemisahan dari BAT menjadi Beatmap Nomination Group (sesudahnya menjadi [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)) dan [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) pada 21 Agustus 2014.
-
-[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
-[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
-[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
+Posisi ini kemudian digantikan oleh ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), dan ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) pada 22 Desember 2013 sampai pemisahan dari BAT menjadi Beatmap Nomination Group (sesudahnya menjadi [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)) dan [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) pada 21 Agustus 2014.

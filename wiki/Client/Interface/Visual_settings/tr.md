@@ -6,7 +6,7 @@
 
 *Bildirim: Görsel ayarlar değişiklikleri her bir beatmap için kaydedilir fakat bazıları osu! kapatıldığında sıfırlanır. Bunları evrensel (ve ebedi) olarak ayarlamak için [seçenekler](/wiki/Client/Options) menüsünü kullanın.*
 
-Alternatif olarak, oyunu duraklatarak görsel ayarlar paneline erişmek mümkündür. Ancak, bu yöntem [Çok oyunculu](/wiki/Gameplay/Multiplayer) maçlarda maçtan çıkma ve odayı terk etme olarak algılanacağı için çalışmaz.
+Alternatif olarak, oyunu duraklatarak görsel ayarlar paneline erişmek mümkündür. Ancak, bu yöntem [Çok oyunculu](/wiki/Client/Interface/Multiplayer) maçlarda maçtan çıkma ve odayı terk etme olarak algılanacağı için çalışmaz.
 
 ## Ayarlar
 
