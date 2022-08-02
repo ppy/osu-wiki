@@ -78,8 +78,8 @@ L'Intermediate Global Taiko Showdown 2019 était organisé par différents membr
 | ::{ flag=KR }:: | **Corée du Sud** | **[Civil oath](https://osu.ppy.sh/users/3216107)**, [MuangMuangE](https://osu.ppy.sh/users/3752338), [Hoshikuz](https://osu.ppy.sh/users/9892196), [Endroll](https://osu.ppy.sh/users/1399551) |
 | ::{ flag=DK }:: | **Danemark** | **[Axewu](https://osu.ppy.sh/users/4776228)**, [raser1234](https://osu.ppy.sh/users/2527887) |
 | ::{ flag=EC }:: | **Équateur** | **[-Anmi-](https://osu.ppy.sh/users/7857559)**, [Etsu](https://osu.ppy.sh/users/3442319), [Mik3gam3r7919](https://osu.ppy.sh/users/10570577) |
-| ::{ flag=US }:: | **États Unis A** | **[Swovine](https://osu.ppy.sh/users/6666316)**, [Cychloryn](https://osu.ppy.sh/users/6921736), [Stan GFriend](https://osu.ppy.sh/users/1773605), [InsaneToe](https://osu.ppy.sh/users/6389252), [kb131313](https://osu.ppy.sh/users/11229259) |
-| ::{ flag=US }:: | **États Unis B** | **[Binsu](https://osu.ppy.sh/users/6236911)**, [Slav Man](https://osu.ppy.sh/users/11612235), [White Axl](https://osu.ppy.sh/users/12334307), [Tsred](https://osu.ppy.sh/users/2737667), [Carlohman1](https://osu.ppy.sh/users/12212290) |
+| ::{ flag=US }:: | **États-Unis A** | **[Swovine](https://osu.ppy.sh/users/6666316)**, [Cychloryn](https://osu.ppy.sh/users/6921736), [Stan GFriend](https://osu.ppy.sh/users/1773605), [InsaneToe](https://osu.ppy.sh/users/6389252), [kb131313](https://osu.ppy.sh/users/11229259) |
+| ::{ flag=US }:: | **États-Unis B** | **[Binsu](https://osu.ppy.sh/users/6236911)**, [Slav Man](https://osu.ppy.sh/users/11612235), [White Axl](https://osu.ppy.sh/users/12334307), [Tsred](https://osu.ppy.sh/users/2737667), [Carlohman1](https://osu.ppy.sh/users/12212290) |
 | ::{ flag=FI }:: | **Finlande** | **[\[Otto\]](https://osu.ppy.sh/users/5049430)**, [Zoel](https://osu.ppy.sh/users/7289244), [SSieni](https://osu.ppy.sh/users/2402008), [Wanderful](https://osu.ppy.sh/users/3386674), [Kuromiyaa](https://osu.ppy.sh/users/12811744) |
 | ::{ flag=FR }:: | **France A** | **[Ladylag](https://osu.ppy.sh/users/2812098)**, [Kaho-Hinata](https://osu.ppy.sh/users/8903888), [Musclor](https://osu.ppy.sh/users/9637676), [Mimir](https://osu.ppy.sh/users/7382734), [Ladybug](https://osu.ppy.sh/users/4833654) |
 | ::{ flag=FR }:: | **France B** | **[Lyseria-Miku](https://osu.ppy.sh/users/8972795)**, [kamaboko117](https://osu.ppy.sh/users/9508031), [Heartswimm](https://osu.ppy.sh/users/10936319), [Panda\_0ne](https://osu.ppy.sh/users/11216472) |
@@ -108,8 +108,8 @@ L'Intermediate Global Taiko Showdown 2019 était organisé par différents membr
 | **B** | ::{ flag=PL }:: Pologne A | ::{ flag=PH }:: Philippines | ::{ flag=CH }:: Suisse | ::{ flag=GR }:: Grèce |
 | **C** | ::{ flag=JP }:: Japon | ::{ flag=AU }:: Australie | ::{ flag=EC }:: Équateur | ::{ flag=FR }:: France B |
 | **D** | ::{ flag=KR }:: Corée du Sud | ::{ flag=FR }:: France A | ::{ flag=NL }:: Pays-Bas | ::{ flag=SG }:: Singapour |
-| **E** | ::{ flag=US }:: États Unis B | ::{ flag=MX }:: Mexique | ::{ flag=AR }:: Argentine | ::{ flag=GB }:: Royaume-Uni |
-| **F** | ::{ flag=US }:: États Unis A | ::{ flag=CN }:: Chine | ::{ flag=CA }:: Canada | ::{ flag=DK }:: Danemark |
+| **E** | ::{ flag=US }:: États-Unis B | ::{ flag=MX }:: Mexique | ::{ flag=AR }:: Argentine | ::{ flag=GB }:: Royaume-Uni |
+| **F** | ::{ flag=US }:: États-Unis A | ::{ flag=CN }:: Chine | ::{ flag=CA }:: Canada | ::{ flag=DK }:: Danemark |
 | **G** | ::{ flag=BR }:: Brésil | ::{ flag=CL }:: Chili | ::{ flag=ID }:: Indonésie B | ::{ flag=PE }:: Pérou |
 | **H** | ::{ flag=HK }:: Hong Kong | ::{ flag=PL }:: Pologne B | ::{ flag=CO }:: Colombie | ::{ flag=IE }:: Irlande |
 
@@ -414,7 +414,7 @@ Samedi, 15 Juin 2019:
 | Mexique ::{ flag=MX }:: | 1 | **6** | ::{ flag=SG }:: **Singapour** | [#1](https://osu.ppy.sh/community/matches/52641017) |
 | Argentine ::{ flag=AR }:: | 3 | **6** | ::{ flag=FR }:: **France A** | [#1](https://osu.ppy.sh/community/matches/52644303) |
 | Pologne A ::{ flag=PL }:: | 0 | **6** | ::{ flag=CL }:: **Chili** | [#1](https://osu.ppy.sh/community/matches/52647239) |
-| **États Unis A** ::{ flag=US }:: | **6** | 0 | ::{ flag=EC }:: Équateur | [#1](https://www.twitch.tv/videos/439630298) |
+| **États-Unis A** ::{ flag=US }:: | **6** | 0 | ::{ flag=EC }:: Équateur | [#1](https://www.twitch.tv/videos/439630298) |
 
 Dimanche, 16 Juin 2019:
 
@@ -438,7 +438,7 @@ Samedi, 8 Juin 2019:
 
 | Groupe | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F3 | **États Unis A** ::{ flag=US }:: | **5** | 0 | ::{ flag=CN }:: Chine | [#1](https://osu.ppy.sh/community/matches/52446671) |
+| F3 | **États-Unis A** ::{ flag=US }:: | **5** | 0 | ::{ flag=CN }:: Chine | [#1](https://osu.ppy.sh/community/matches/52446671) |
 | G5 | Pérou ::{ flag=PE }:: | 0 | **5** | ::{ flag=CL }:: **Chili** | [#1](https://osu.ppy.sh/community/matches/52446788) |
 | C6 | Équateur ::{ flag=EC }:: | 0 | **5** | ::{ flag=JP }:: **Japon** | *victoire par défaut* |
 | G4 | **Indonésie B** ::{ flag=ID }:: | **5** | 4 | ::{ flag=PE }:: Pérou | [#1](https://osu.ppy.sh/community/matches/52447584) |
@@ -449,7 +449,7 @@ Samedi, 8 Juin 2019:
 | A2 | Finlande ::{ flag=FI }:: | 1 | **5** | ::{ flag=TW }:: **Taïwan** | [#1](https://osu.ppy.sh/community/matches/52453686) |
 | C5 | France B ::{ flag=FR }:: | 0 | **5** | ::{ flag=AU }:: **Australie** | [#1](https://osu.ppy.sh/community/matches/52453715) |
 | B1 | **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=CH }:: Suisse | [#1](https://osu.ppy.sh/community/matches/52454819) |
-| D3 | South Korea ::{ flag=KR }:: | 0 | **5** | ::{ flag=FR }:: **France A** | [#1](https://osu.ppy.sh/community/matches/52454997) |
+| D3 | Corée du Sud ::{ flag=KR }:: | 0 | **5** | ::{ flag=FR }:: **France A** | [#1](https://osu.ppy.sh/community/matches/52454997) |
 | C2 | France B ::{ flag=FR }:: | 0 | **5** | ::{ flag=JP }:: **Japon** | [#1](https://osu.ppy.sh/community/matches/52455708) |
 | H2 | Irlande ::{ flag=IE }:: | 0 | **5** | ::{ flag=HK }:: **Hong Kong** | *victoire par défaut* |
 | A1 | **Indonésie A** ::{ flag=ID }:: | **5** | 1 | ::{ flag=DE }:: Allemagne | [#1](https://osu.ppy.sh/community/matches/52454774) |
@@ -458,16 +458,16 @@ Samedi, 8 Juin 2019:
 | B2 | Grèce ::{ flag=GR }:: | 0 | **5** | ::{ flag=PL }:: **Pologne A** | [#1](https://osu.ppy.sh/community/matches/52460776) |
 | H1 | **Pologne B** ::{ flag=PL }:: | **5** | 0 | ::{ flag=CO }:: Colombie | *victoire par défaut* |
 | E4 | **Argentine** ::{ flag=AR }:: | **5** | 4 | ::{ flag=GB }:: Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/52492419) |
-| F2 | Danemark ::{ flag=DK }:: | 0 | **5** | ::{ flag=US }:: **États Unis A** | [#1](https://osu.ppy.sh/community/matches/52468990) |
+| F2 | Danemark ::{ flag=DK }:: | 0 | **5** | ::{ flag=US }:: **États-Unis A** | [#1](https://osu.ppy.sh/community/matches/52468990) |
 | E1 | Mexique ::{ flag=MX }:: | 0 | **5** | ::{ flag=AR }:: **Argentine** | [#1](https://osu.ppy.sh/community/matches/52501005) |
-| E3 | États Unis B ::{ flag=US }:: | 2 | **5** | ::{ flag=MX }:: **Mexique** | [#1](https://osu.ppy.sh/community/matches/52460665) |
-| E6 | **Argentine** ::{ flag=AR }:: | **5** | 1 | ::{ flag=US }:: États Unis B | [#1](https://osu.ppy.sh/community/matches/52498726) |
+| E3 | États-Unis B ::{ flag=US }:: | 2 | **5** | ::{ flag=MX }:: **Mexique** | [#1](https://osu.ppy.sh/community/matches/52460665) |
+| E6 | **Argentine** ::{ flag=AR }:: | **5** | 1 | ::{ flag=US }:: États-Unis B | [#1](https://osu.ppy.sh/community/matches/52498726) |
 
 Dimanche, 9 Juin 2019:
 
 | Groupe | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F6 | Canada ::{ flag=CA }:: | 3 | **5** | ::{ flag=US }:: **États Unis A** | [#1](https://osu.ppy.sh/community/matches/52474938) |
+| F6 | Canada ::{ flag=CA }:: | 3 | **5** | ::{ flag=US }:: **États-Unis A** | [#1](https://osu.ppy.sh/community/matches/52474938) |
 | G3 | Brésil ::{ flag=BR }:: | 2 | **5** | ::{ flag=CL }:: **Chili** | [#1](https://osu.ppy.sh/community/matches/52475794) |
 | C1 | Australie ::{ flag=AU }:: | 4 | **5** | ::{ flag=EC }:: **Équateur** | [#1](https://osu.ppy.sh/community/matches/52474929) |
 | G2 | Pérou ::{ flag=PE }:: | 0 | **5** | ::{ flag=BR }:: **Brésil** | [#1](https://osu.ppy.sh/community/matches/52474822) |
@@ -480,7 +480,7 @@ Dimanche, 9 Juin 2019:
 | A6 | Allemagne ::{ flag=DE }:: | 0 | **5** | ::{ flag=TW }:: **Taïwan** | [#1](http://osu.ppy.sh/community/matches/52484172) |
 | F5 | Danemark ::{ flag=DK }:: | 3 | **5** | ::{ flag=CN }:: **Chine** | [#1](https://osu.ppy.sh/community/matches/52484212) |
 | A5 | Finlande ::{ flag=FI }:: | 3 | **5** | ::{ flag=ID }:: **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/52485543) |
-| D6 | Pays-Bas ::{ flag=NL }:: | 4 | **5** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/52456119) |
+| D6 | Pays-Bas ::{ flag=NL }:: | 4 | **5** | ::{ flag=KR }:: **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/52456119) |
 | B5 | Grèce ::{ flag=GR }:: | 0 | **5** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/52486785) |
 | B4 | Suisse ::{ flag=CH }:: | 0 | **5** | ::{ flag=GR }:: Grèce | [#1](https://osu.ppy.sh/community/matches/52488184) |
 | A4 | Allemagne ::{ flag=DE }:: | 2 | **5** | ::{ flag=FI }:: **Finlande** | [#1](https://osu.ppy.sh/community/matches/52489442) |
@@ -488,7 +488,7 @@ Dimanche, 9 Juin 2019:
 | H5 | Irlande ::{ flag=IE }:: | 1 | **5** | ::{ flag=PL }:: **Pologne B** | [#1](https://osu.ppy.sh/community/matches/52488517) |
 | C4 | **Équateur** ::{ flag=EC }:: | **5** | 1 | ::{ flag=FR }:: France B | [#1](https://osu.ppy.sh/community/matches/52494321) |
 | H4 | Colombie ::{ flag=CO }:: | 0 | **5** | ::{ flag=IE }:: **Irlande** | *victoire par défaut* |
-| E2 | **Royaume-Uni** ::{ flag=GB }:: | **5** | 4 | ::{ flag=US }:: États Unis B | [#1](https://osu.ppy.sh/community/matches/52496157) |
+| E2 | **Royaume-Uni** ::{ flag=GB }:: | **5** | 4 | ::{ flag=US }:: États-Unis B | [#1](https://osu.ppy.sh/community/matches/52496157) |
 | F4 | Canada ::{ flag=CA }:: | 4 | **5** | ::{ flag=DK }:: **Danemark** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | Royaume-Uni ::{ flag=GB }:: | 1 | **5** | ::{ flag=MX }:: **Mexique** | [#1](https://osu.ppy.sh/community/matches/52489459) |
 
