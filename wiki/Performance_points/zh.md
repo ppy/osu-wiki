@@ -1,5 +1,3 @@
-<!-- Pennek also wrote a similar sub-article that may have small bits of extra info. If needed, find it here: https://github.com/ppy/osu-wiki/blob/be1fec96041971d2bace05eb216952a58b7cabbc/wiki/Performance_points/Performance_point_systems/en.md we should probably figure what to do with these two at some point-->
-
 # 表现分 (Performance points)
 
 **表现分 (Performance points) **又简称为 **pp**，是 osu! 内致力于准确量化玩家实力的指标。
@@ -42,7 +40,7 @@ ppv2 目前仍在提供服务，且 ppv2 的实时升级信息发布在这个[�
 
 权重系统是一个简单的公式，用于计算玩家的总表现分。这个公式能够降低玩家的最好表现成绩榜上，比较靠后的成绩对总表现分的影响力。上述公式如下：
 
-`总 pp = p * 0.95^(n-1)`<!-- may want a graphic representation here? (instead of code block) -->
+`总 pp = p * 0.95^(n-1)`
 
 这个公式里，*p* 是每个成绩的加权前表现分，*n* 是这个成绩的加权前表现分（最好表现成绩榜）排名。例如，如果玩家的最好成绩榜前 5 名成绩的加权前表现分是 110pp、100pp、100pp、90pp、80pp，那么加权后的表现分大约为 110pp、95pp、90pp、77pp、65pp。
 
@@ -76,8 +74,6 @@ ppv2 目前仍在提供服务，且 ppv2 的实时升级信息发布在这个[�
 
 如果谱面内含有高速或极难的[排列](/wiki/Beatmap/Pattern)，比如谱面内含有较多的[串/连打](/wiki/Beatmap/Pattern/Stream)或是高速跳排列段落，此时谱面的耐力指标和表现分将会显著增加。
 
-<!-- consult reg contributors before moving FAQ to a new location-->
-
 ## 常见问题 (FAQ)
 
 ### 在哪里能看到表现分 (pp) 排行榜？
@@ -95,7 +91,7 @@ ppv2 目前仍在提供服务，且 ppv2 的实时升级信息发布在这个[�
 请考虑以下几点建议：
 
 - 多练，找出最适合自己的游玩风格。
-- 尽量打出高连击、高准确率的成绩，而不是一味地刷 pp 图 (farming)，或者只想着糊图。<!-- "farming" will need to be linked once a stub or section is created -->
+- 尽量打出高连击、高准确率的成绩，而不是一味地刷 pp 图 (farming)，或者只想着糊图。
 - 提升你的准确率，即使是 1% 差别的成绩，表现分差距也可能是天壤之别。
 - 提升你的连击数。全连 (FC) 或者 [SS](/wiki/Gameplay/Grade) 的成绩能拿到大量表现分。
 
