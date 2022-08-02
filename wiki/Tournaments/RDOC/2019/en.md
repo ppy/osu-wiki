@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2019 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2019** (***RDOC 2019***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It was the fifth instalment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2019** (***RDOC 2019***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) and ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048). It was the fifth instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -39,14 +39,14 @@ The Royal Danish osu!Cup 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
-| Mappool selector | ![][flag_ES] [CapoeiraDoMorte](https://osu.ppy.sh/users/6141330), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
-| Referee | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Captain](https://osu.ppy.sh/users/2563435), ![][flag_DK] [I eat ass 47](https://osu.ppy.sh/users/5323224), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) |
-| Streamer | ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529) |
-| Commentator | ![][flag_DK] [ADanishWaffle](https://osu.ppy.sh/users/8117977), ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Chrv123](https://osu.ppy.sh/users/9125328), ![][flag_IE] [ez sucks](https://osu.ppy.sh/users/13681283), ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Peperonni](https://osu.ppy.sh/users/7392020), ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_DK] [Vitalia](https://osu.ppy.sh/users/9450032), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) |
-| Designer | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080), ![][flag_BR] [Hana Fubuki](https://osu.ppy.sh/users/4761039) |
-| Wiki editor | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
-| Donator | ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
+| Manager | ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
+| Mappool selector | ::{ flag=ES }:: [CapoeiraDoMorte](https://osu.ppy.sh/users/6141330), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
+| Referee | ::{ flag=MX }:: [Baskest](https://osu.ppy.sh/users/3963408), ::{ flag=DK }:: [Captain](https://osu.ppy.sh/users/2563435), ::{ flag=DK }:: [I eat ass 47](https://osu.ppy.sh/users/5323224), ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [MASQQ](https://osu.ppy.sh/users/5351497), ::{ flag=US }:: [moss-](https://osu.ppy.sh/users/9918921), ::{ flag=DK }:: [My Aim Zogs](https://osu.ppy.sh/users/3722715), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742), ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513) |
+| Streamer | ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [My Aim Zogs](https://osu.ppy.sh/users/3722715), ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513), ::{ flag=DK }:: [Tenaxzity](https://osu.ppy.sh/users/7395529) |
+| Commentator | ::{ flag=DK }:: [ADanishWaffle](https://osu.ppy.sh/users/8117977), ::{ flag=DK }:: [Arche-](https://osu.ppy.sh/users/2143311), ::{ flag=MX }:: [Baskest](https://osu.ppy.sh/users/3963408), ::{ flag=DK }:: [Chrv123](https://osu.ppy.sh/users/9125328), ::{ flag=IE }:: [ez sucks](https://osu.ppy.sh/users/13681283), ::{ flag=DK }:: [Haikuna](https://osu.ppy.sh/users/3786974), ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742), ::{ flag=DK }:: [Peperonni](https://osu.ppy.sh/users/7392020), ::{ flag=DK }:: [PolleSving](https://osu.ppy.sh/users/13218204), ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513), ::{ flag=DK }:: [Tenaxzity](https://osu.ppy.sh/users/7395529), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048), ::{ flag=DK }:: [Vitalia](https://osu.ppy.sh/users/9450032), ::{ flag=DK }:: [Zakura](https://osu.ppy.sh/users/3053599) |
+| Designer | ::{ flag=FI }:: [Micro](https://osu.ppy.sh/users/4801080), ::{ flag=BR }:: [Hana Fubuki](https://osu.ppy.sh/users/4761039) |
+| Wiki editor | ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
+| Donator | ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
 
 ## Links
 
@@ -60,37 +60,37 @@ The Royal Danish osu!Cup 2019 was run by various community members.
 
 | Seed | Player | Qualifier score |
 | --: | :-- | --: |
-| #1 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | 9820452 |
-| #2 | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) | 8740290 |
-| #3 | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | 8700974 |
-| #4 | ![][flag_DK] [Pablohh](https://osu.ppy.sh/users/10092099) | 8624235 |
-| #5 | ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311) | 8489990 |
-| #6 | ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508) | 8014969 |
-| #7 | ![][flag_DK] [OwOMarco](https://osu.ppy.sh/users/10650901) | 7987699 |
-| #8 | ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589) | 7673671 |
-| #9 | ![][flag_DK] [Tmunken](https://osu.ppy.sh/users/5176984) | 7157621 |
-| #10 | ![][flag_DK] [Pallerik](https://osu.ppy.sh/users/9303652) | 6918882 |
-| #11 | ![][flag_DK] [Lothjon](https://osu.ppy.sh/users/7369323) | 6865290 |
-| #12 | ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529) | 6724674 |
-| #13 | ![][flag_DK] [Malach](https://osu.ppy.sh/users/9364696) | 6506580 |
-| #14 | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) | 6251613 |
-| #15 | ![][flag_DK] [Drayko](https://osu.ppy.sh/users/11485703) | 5975658 |
-| #16 | ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925) | 5615289 |
-| #17 | ![][flag_DK] [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) | 5234905 |
-| #18 | ![][flag_DK] [Micropose](https://osu.ppy.sh/users/11140740) | 4973815 |
-| #19 | ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974) | 4795629 |
-| #20 | ![][flag_DK] [Sagon](https://osu.ppy.sh/users/11775933) | 4724424 |
-| #21 | ![][flag_DK] [FeelDaTonneh](https://osu.ppy.sh/users/4348782) | 4627355 |
-| #22 | ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204) | 4537748 |
-| #23 | ![][flag_DK] [Decrescendo](https://osu.ppy.sh/users/12900042) | 3576566 |
-| #24 | ![][flag_DK] [kim1998](https://osu.ppy.sh/users/14599636) | 3519075 |
-| #25 | ![][flag_DK] [Cittasnaf](https://osu.ppy.sh/users/13347734) | 3417555 |
-| #26 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | 3378902 |
-| #27 | ![][flag_DK] [Tr0nixCS](https://osu.ppy.sh/users/6734261) | 3130951 |
-| #28 | ![][flag_DK] [Dralle](https://osu.ppy.sh/users/12380988) | 2620366 |
-| #29 | ![][flag_DK] [NoSync](https://osu.ppy.sh/users/8634493) | 1782055 |
-| #30 | ![][flag_DK] [Slayco](https://osu.ppy.sh/users/9449330) | 1284564 |
-| #31 | ![][flag_DK] [Liquidminds](https://osu.ppy.sh/users/13438435) | 751992 |
+| #1 | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) | 9820452 |
+| #2 | ::{ flag=DK }:: [Tikzyy](https://osu.ppy.sh/users/11380904) | 8740290 |
+| #3 | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) | 8700974 |
+| #4 | ::{ flag=DK }:: [Pablohh](https://osu.ppy.sh/users/10092099) | 8624235 |
+| #5 | ::{ flag=DK }:: [Arche-](https://osu.ppy.sh/users/2143311) | 8489990 |
+| #6 | ::{ flag=DK }:: [teamplayer51](https://osu.ppy.sh/users/3084508) | 8014969 |
+| #7 | ::{ flag=DK }:: [OwOMarco](https://osu.ppy.sh/users/10650901) | 7987699 |
+| #8 | ::{ flag=DK }:: [Contaminate](https://osu.ppy.sh/users/4694589) | 7673671 |
+| #9 | ::{ flag=DK }:: [Tmunken](https://osu.ppy.sh/users/5176984) | 7157621 |
+| #10 | ::{ flag=DK }:: [Pallerik](https://osu.ppy.sh/users/9303652) | 6918882 |
+| #11 | ::{ flag=DK }:: [Lothjon](https://osu.ppy.sh/users/7369323) | 6865290 |
+| #12 | ::{ flag=DK }:: [Tenaxzity](https://osu.ppy.sh/users/7395529) | 6724674 |
+| #13 | ::{ flag=DK }:: [Malach](https://osu.ppy.sh/users/9364696) | 6506580 |
+| #14 | ::{ flag=DK }:: [Zakura](https://osu.ppy.sh/users/3053599) | 6251613 |
+| #15 | ::{ flag=DK }:: [Drayko](https://osu.ppy.sh/users/11485703) | 5975658 |
+| #16 | ::{ flag=DK }:: [Arild](https://osu.ppy.sh/users/3089925) | 5615289 |
+| #17 | ::{ flag=DK }:: [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) | 5234905 |
+| #18 | ::{ flag=DK }:: [Micropose](https://osu.ppy.sh/users/11140740) | 4973815 |
+| #19 | ::{ flag=DK }:: [Haikuna](https://osu.ppy.sh/users/3786974) | 4795629 |
+| #20 | ::{ flag=DK }:: [Sagon](https://osu.ppy.sh/users/11775933) | 4724424 |
+| #21 | ::{ flag=DK }:: [FeelDaTonneh](https://osu.ppy.sh/users/4348782) | 4627355 |
+| #22 | ::{ flag=DK }:: [PolleSving](https://osu.ppy.sh/users/13218204) | 4537748 |
+| #23 | ::{ flag=DK }:: [Decrescendo](https://osu.ppy.sh/users/12900042) | 3576566 |
+| #24 | ::{ flag=DK }:: [kim1998](https://osu.ppy.sh/users/14599636) | 3519075 |
+| #25 | ::{ flag=DK }:: [Cittasnaf](https://osu.ppy.sh/users/13347734) | 3417555 |
+| #26 | ::{ flag=DK }:: [Morrighan](https://osu.ppy.sh/users/12042090) | 3378902 |
+| #27 | ::{ flag=DK }:: [Tr0nixCS](https://osu.ppy.sh/users/6734261) | 3130951 |
+| #28 | ::{ flag=DK }:: [Dralle](https://osu.ppy.sh/users/12380988) | 2620366 |
+| #29 | ::{ flag=DK }:: [NoSync](https://osu.ppy.sh/users/8634493) | 1782055 |
+| #30 | ::{ flag=DK }:: [Slayco](https://osu.ppy.sh/users/9449330) | 1284564 |
+| #31 | ::{ flag=DK }:: [Liquidminds](https://osu.ppy.sh/users/13438435) | 751992 |
 
 Due to 6 no-shows in Qualifiers, only 31 players participated in the tournament. The #1 seed was given a bye into Round of 16 to make brackets work.
 
@@ -100,9 +100,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: [Tikzyy](https://osu.ppy.sh/users/11380904) |
 
 ## Mappools
 
@@ -283,13 +283,13 @@ Saturday, 4 April 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Vandabe** ![][flag_DK] | **7** | *forfeit* | ![][flag_DK] Tikzyy |
+| LB | **Vandabe** ::{ flag=DK }:: | **7** | *forfeit* | ::{ flag=DK }:: Tikzyy |
 
 Sunday, 5 April 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Spork Lover** ![][flag_DK] | **7** | 0 | ![][flag_DK] Vandabe |
+| UB | **Spork Lover** ::{ flag=DK }:: | **7** | 0 | ::{ flag=DK }:: Vandabe |
 
 ### Finals
 
@@ -297,15 +297,15 @@ Saturday, 28 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Spork Lover** ![][flag_DK] | **7** | 1 | ![][flag_DK] Vandabe |
-| LB | Pablohh ![][flag_DK] | *forfeit* | **7** | ![][flag_DK] **Lothjon** |
+| UB | **Spork Lover** ::{ flag=DK }:: | **7** | 1 | ::{ flag=DK }:: Vandabe |
+| LB | Pablohh ::{ flag=DK }:: | *forfeit* | **7** | ::{ flag=DK }:: **Lothjon** |
 
 Sunday, 29 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Tikzyy** ![][flag_DK] | **7** | 0 | ![][flag_DK] Lothjon |
-| LB | **Tikzyy** ![][flag_DK] | **7** | 3 | ![][flag_DK] Contaminate |
+| LB | **Tikzyy** ::{ flag=DK }:: | **7** | 0 | ::{ flag=DK }:: Lothjon |
+| LB | **Tikzyy** ::{ flag=DK }:: | **7** | 3 | ::{ flag=DK }:: Contaminate |
 
 ### Semifinals
 
@@ -313,19 +313,19 @@ Saturday, 21 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Tenaxzity** ![][flag_DK] | **6** | 4 | ![][flag_DK] teamplayer51 |
-| LB | **Contaminate** ![][flag_DK] | **6** | 0 | ![][flag_DK] Drayko |
-| LB | OwOMarco ![][flag_DK] | 2 | **6** | ![][flag_DK] **Zakura** |
-| UB | **Spork Lover** ![][flag_DK] | **6** | *forfeit* | ![][flag_DK] Pablohh |
+| LB | **Tenaxzity** ::{ flag=DK }:: | **6** | 4 | ::{ flag=DK }:: teamplayer51 |
+| LB | **Contaminate** ::{ flag=DK }:: | **6** | 0 | ::{ flag=DK }:: Drayko |
+| LB | OwOMarco ::{ flag=DK }:: | 2 | **6** | ::{ flag=DK }:: **Zakura** |
+| UB | **Spork Lover** ::{ flag=DK }:: | **6** | *forfeit* | ::{ flag=DK }:: Pablohh |
 
 Sunday, 22 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Lothjon** ![][flag_DK] | **6** | 5 | ![][flag_DK] Zakura |
-| UB | Tikzyy ![][flag_DK] | 5 | **6** | ![][flag_DK] **Vandabe** |
-| LB | Tenaxzity ![][flag_DK] | 3 | **6** | ![][flag_DK] **Contaminate** |
-| LB | **Lothjon** ![][flag_DK] | **6** | 3 | ![][flag_DK] Arche- |
+| LB | **Lothjon** ::{ flag=DK }:: | **6** | 5 | ::{ flag=DK }:: Zakura |
+| UB | Tikzyy ::{ flag=DK }:: | 5 | **6** | ::{ flag=DK }:: **Vandabe** |
+| LB | Tenaxzity ::{ flag=DK }:: | 3 | **6** | ::{ flag=DK }:: **Contaminate** |
+| LB | **Lothjon** ::{ flag=DK }:: | **6** | 3 | ::{ flag=DK }:: Arche- |
 
 ### Quarterfinals
 
@@ -333,27 +333,27 @@ Saturday, 14 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | Pallerik ![][flag_DK] | 2 | **5** | ![][flag_DK] **Sagon** |
-| LB | **Haikuna** ![][flag_DK] | **5** | 2 | ![][flag_DK] kim1998 |
-| LB | **Drayko** ![][flag_DK] | **5** | 4 | ![][flag_DK] FeelDaTonneh |
-| LB | Malach ![][flag_DK] | 0 | **5** | ![][flag_DK] **Morrighan** |
-| LB | \[THEDUCK\] ![][flag_DK] | 2 | **5** | ![][flag_DK] **PolleSving** |
-| UB | **Pablohh** ![][flag_DK] | **5** | 2 | ![][flag_DK] Tenaxzity |
-| LB | **teamplayer51** ![][flag_DK] | **5** | 3 | ![][flag_DK] Arild |
+| LB | Pallerik ::{ flag=DK }:: | 2 | **5** | ::{ flag=DK }:: **Sagon** |
+| LB | **Haikuna** ::{ flag=DK }:: | **5** | 2 | ::{ flag=DK }:: kim1998 |
+| LB | **Drayko** ::{ flag=DK }:: | **5** | 4 | ::{ flag=DK }:: FeelDaTonneh |
+| LB | Malach ::{ flag=DK }:: | 0 | **5** | ::{ flag=DK }:: **Morrighan** |
+| LB | \[THEDUCK\] ::{ flag=DK }:: | 2 | **5** | ::{ flag=DK }:: **PolleSving** |
+| UB | **Pablohh** ::{ flag=DK }:: | **5** | 2 | ::{ flag=DK }:: Tenaxzity |
+| LB | **teamplayer51** ::{ flag=DK }:: | **5** | 3 | ::{ flag=DK }:: Arild |
 
 Sunday, 15 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | Sagon ![][flag_DK] | 3 | **5** | ![][flag_DK] **Drayko** |
-| UB | **Spork Lover** ![][flag_DK] | **5** | 0 | ![][flag_DK] Contaminate |
-| LB | **Zakura** ![][flag_DK] | **5** | 2 | ![][flag_DK] PolleSving |
-| LB | **teamplayer51** ![][flag_DK] | **5** | 2 | ![][flag_DK] Haikuna |
-| UB | **Vandabe** ![][flag_DK] | **5** | 0 | ![][flag_DK] Lothjon |
-| LB | Tmunken ![][flag_DK] | 0 | **5** | ![][flag_DK] **Zakura** |
-| UB | **Tikzyy** ![][flag_DK] | **5** | 0 | ![][flag_DK] OwOMarco |
-| LB | **Arche-** ![][flag_DK] | **5** | 0 | ![][flag_DK] Morrighan |
-| LB | **Arche-** ![][flag_DK] | **5** | 0 | ![][flag_DK] Micropose |
+| LB | Sagon ::{ flag=DK }:: | 3 | **5** | ::{ flag=DK }:: **Drayko** |
+| UB | **Spork Lover** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: Contaminate |
+| LB | **Zakura** ::{ flag=DK }:: | **5** | 2 | ::{ flag=DK }:: PolleSving |
+| LB | **teamplayer51** ::{ flag=DK }:: | **5** | 2 | ::{ flag=DK }:: Haikuna |
+| UB | **Vandabe** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: Lothjon |
+| LB | Tmunken ::{ flag=DK }:: | 0 | **5** | ::{ flag=DK }:: **Zakura** |
+| UB | **Tikzyy** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: OwOMarco |
+| LB | **Arche-** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: Morrighan |
+| LB | **Arche-** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: Micropose |
 
 ### Round of 16
 
@@ -361,26 +361,26 @@ Saturday, 7 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | Arche- ![][flag_DK] | 3 | **5** | ![][flag_DK] **Tenaxzity** |
-| LB | LiquidMinds ![][flag_DK] | 0 | **5** | ![][flag_DK] **Micropose** |
-| LB | **Morrighan** ![][flag_DK] | **5** | 1 | ![][flag_DK] Decrescendo |
-| LB | Dralle ![][flag_DK] | 0 | **5** | ![][flag_DK] **FeelDaTonneh** |
-| LB | NoSync ![][flag_DK] | 0 | **5** | ![][flag_DK] **Sagon** |
-| LB | Cittasnaf ![][flag_DK] | 4 | **5** | ![][flag_DK] **kim1998** |
+| UB | Arche- ::{ flag=DK }:: | 3 | **5** | ::{ flag=DK }:: **Tenaxzity** |
+| LB | LiquidMinds ::{ flag=DK }:: | 0 | **5** | ::{ flag=DK }:: **Micropose** |
+| LB | **Morrighan** ::{ flag=DK }:: | **5** | 1 | ::{ flag=DK }:: Decrescendo |
+| LB | Dralle ::{ flag=DK }:: | 0 | **5** | ::{ flag=DK }:: **FeelDaTonneh** |
+| LB | NoSync ::{ flag=DK }:: | 0 | **5** | ::{ flag=DK }:: **Sagon** |
+| LB | Cittasnaf ::{ flag=DK }:: | 4 | **5** | ::{ flag=DK }:: **kim1998** |
 
 Sunday, 8 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | Slayco ![][flag_DK] | 0 | **5** | ![][flag_DK] **Zakura** |
-| UB | **Contaminate** ![][flag_DK] | **5** | 1 | ![][flag_DK] Tmunken |
-| UB | **Spork Lover** ![][flag_DK] | **5** | 0 | ![][flag_DK] \[THEDUCK\] |
-| UB | **OwOMarco** ![][flag_DK] | **5** | 0 | ![][flag_DK] Pallerik |
-| UB | **Tikzyy** ![][flag_DK] | **5** | 0 | ![][flag_DK] Drayko |
-| UB | **Vandabe** ![][flag_DK] | **5** | 0 | ![][flag_DK] Haikuna |
-| UB | **Pablohh** ![][flag_DK] | **5** | 0 | ![][flag_DK] Malach |
-| UB | teamplayer51 ![][flag_DK] | 0 | **5** | ![][flag_DK] **Lothjon** |
-| LB | Tr0nixCS ![][flag_DK] | 0 | **5** | ![][flag_DK] **PolleSving** |
+| LB | Slayco ::{ flag=DK }:: | 0 | **5** | ::{ flag=DK }:: **Zakura** |
+| UB | **Contaminate** ::{ flag=DK }:: | **5** | 1 | ::{ flag=DK }:: Tmunken |
+| UB | **Spork Lover** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: \[THEDUCK\] |
+| UB | **OwOMarco** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: Pallerik |
+| UB | **Tikzyy** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: Drayko |
+| UB | **Vandabe** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: Haikuna |
+| UB | **Pablohh** ::{ flag=DK }:: | **5** | 0 | ::{ flag=DK }:: Malach |
+| UB | teamplayer51 ::{ flag=DK }:: | 0 | **5** | ::{ flag=DK }:: **Lothjon** |
+| LB | Tr0nixCS ::{ flag=DK }:: | 0 | **5** | ::{ flag=DK }:: **PolleSving** |
 
 ### Round of 32
 
@@ -388,37 +388,37 @@ Friday, 28 February 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Malach** ![][flag_DK] | **4** | 1 | ![][flag_DK] Sagon |
-| UB | Zakura ![][flag_DK] | 3 | **4** | ![][flag_DK] **Haikuna** |
+| UB | **Malach** ::{ flag=DK }:: | **4** | 1 | ::{ flag=DK }:: Sagon |
+| UB | Zakura ::{ flag=DK }:: | 3 | **4** | ::{ flag=DK }:: **Haikuna** |
 
 Saturday, 29 February 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Tenaxzity** ![][flag_DK] | **4** | 1 | ![][flag_DK] FeelDaTonneh |
-| UB | **Arche-** ![][flag_DK] | **4** | 0 | ![][flag_DK] Dralle |
-| UB | **Pablohh** ![][flag_DK] | **4** | 0 | ![][flag_DK] NoSync |
-| UB | **Tmunken** ![][flag_DK] | **4** | 1 | ![][flag_DK] kim1998 |
-| UB | **Drayko** ![][flag_DK] | **4** | 2 | ![][flag_DK] Micropose |
-| UB | **Tikzyy** ![][flag_DK] | **4** | 0 | ![][flag_DK] LiquidMinds |
+| UB | **Tenaxzity** ::{ flag=DK }:: | **4** | 1 | ::{ flag=DK }:: FeelDaTonneh |
+| UB | **Arche-** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Dralle |
+| UB | **Pablohh** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: NoSync |
+| UB | **Tmunken** ::{ flag=DK }:: | **4** | 1 | ::{ flag=DK }:: kim1998 |
+| UB | **Drayko** ::{ flag=DK }:: | **4** | 2 | ::{ flag=DK }:: Micropose |
+| UB | **Tikzyy** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: LiquidMinds |
 
 Sunday, 1 March 2020:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Contaminate** ![][flag_DK] | **4** | 0 | ![][flag_DK] Cittasnaf |
-| UB | **teamplayer51** ![][flag_DK] | **4** | 0 | ![][flag_DK] Tr0nixCS |
-| UB | Arild ![][flag_DK] | 1 | **4** | ![][flag_DK] **\[THEDUCK\]** |
-| UB | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Slayco |
-| UB | **Pallerik** ![][flag_DK] | **4** | 0 | ![][flag_DK] Decrescendo |
-| UB | **OwOMarco** ![][flag_DK] | **4** | 0 | ![][flag_DK] Morrighan |
-| UB | **Lothjon** ![][flag_DK] | **4** | 0 | ![][flag_DK] PolleSving |
+| UB | **Contaminate** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Cittasnaf |
+| UB | **teamplayer51** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Tr0nixCS |
+| UB | Arild ::{ flag=DK }:: | 1 | **4** | ::{ flag=DK }:: **\[THEDUCK\]** |
+| UB | **Vandabe** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Slayco |
+| UB | **Pallerik** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Decrescendo |
+| UB | **OwOMarco** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: Morrighan |
+| UB | **Lothjon** ::{ flag=DK }:: | **4** | 0 | ::{ flag=DK }:: PolleSving |
 
 ## Ruleset
 
 ### General rules
 
-1. Only users in the Kingdom of Denmark can enter. This is determined by the profile-flag on a player's userpage (Eg. a player with either of these flags is eligible to participate: ![][flag_DK], ![][flag_FO], ![][flag_GL])
+1. Only users in the Kingdom of Denmark can enter. This is determined by the profile-flag on a player's userpage (Eg. a player with either of these flags is eligible to participate: ::{ flag=DK }::, ::{ flag=FO }::, ::{ flag=GL }::)
 2. This tournament uses a qualifier into a double-elimination bracket and single-player format. There are no teams here.
 3. The score system used will be **Score V2**.
 4. To participate you **must** join the Discord for the duration of the tournament.
@@ -474,14 +474,3 @@ Sunday, 1 March 2020:
 2. Matches are allowed to overlap if referees are available.
 3. Players must complete their match at the designated time or both players are eliminated.
 4. However, if both players can come up with a better time than what we have scheduled for them, please inform the organizers for a reschedule. Organizers will rearrange the match if they are informed before Thursday of the week the match is to be played and a referee is available.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FO]: /wiki/shared/flag/FO.gif "Faroe Islands"
-[flag_GL]: /wiki/shared/flag/GL.gif "Greenland"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

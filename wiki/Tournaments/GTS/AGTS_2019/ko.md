@@ -10,7 +10,7 @@ outdated_translation: true
 
 ![AGTS 2019 Logo](img/logo.jpg)
 
-**Advanced Global Taiko Showdown 2019** (***AGTS 2019***)는 더블 엘리미네이션 방식의 2대2 국가대항전 토너먼트이며, ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263)와 ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133)가 주최했습니다. Global Taiko Showdown 시리즈의 3번째 대회이기도 합니다..
+**Advanced Global Taiko Showdown 2019** (***AGTS 2019***)는 더블 엘리미네이션 방식의 2대2 국가대항전 토너먼트이며, ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263)와 ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133)가 주최했습니다. Global Taiko Showdown 시리즈의 3번째 대회이기도 합니다..
 
 ## 토너먼트 일정
 
@@ -41,16 +41,16 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 | 직책 | 구성원 |
 | :-- | :-- |
-| 관리 | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| 맵풀 선택 | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817), ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) |
-| 심판 | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_DK] [Plaiceholder](https://osu.ppy.sh/users/11910867), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_AU] [soliderror](https://osu.ppy.sh/users/10630542), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| 방송 송출 | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
-| 해설 | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_US] [Tsred](https://osu.ppy.sh/users/2737667), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| 디자인 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| 통계 정리 | ![][flag_DE] [IceDynamix](https://osu.ppy.sh/users/8599070), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [Leadenginger](https://osu.ppy.sh/users/3799991), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666) |
-| 번역 | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_TW] [InfinityAstral](https://osu.ppy.sh/users/9913256), ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| 위키 편집 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| 관리자 | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
+| 관리 | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| 맵풀 선택 | ::{ flag=DE }:: [Nepuri](https://osu.ppy.sh/users/6637817), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |
+| 심판 | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=FR }:: [Ladybug](https://osu.ppy.sh/users/4833654), ::{ flag=FR }:: [Ladylag](https://osu.ppy.sh/users/2812098), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=DK }:: [Plaiceholder](https://osu.ppy.sh/users/11910867), ::{ flag=TH }:: [Seaweed](https://osu.ppy.sh/users/5151214), ::{ flag=AU }:: [soliderror](https://osu.ppy.sh/users/10630542), ::{ flag=MY }:: [Stupid Idiot](https://osu.ppy.sh/users/8355574), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
+| 방송 송출 | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=NL }:: [Krekker](https://osu.ppy.sh/users/8265940), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517) |
+| 해설 | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=US }:: [kb131313](https://osu.ppy.sh/users/11229259), ::{ flag=US }:: [Tsred](https://osu.ppy.sh/users/2737667), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
+| 디자인 | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| 통계 정리 | ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=CA }:: [Leadenginger](https://osu.ppy.sh/users/3799991), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666) |
+| 번역 | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=KR }:: [BamgoeSN](https://osu.ppy.sh/users/1152851), ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=TW }:: [InfinityAstral](https://osu.ppy.sh/users/9913256), ::{ flag=US }:: [jyake](https://osu.ppy.sh/users/9099822), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| 위키 편집 | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| 관리자 | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
 
 ## 링크
 
@@ -64,47 +64,47 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 |  | 국가 | 팀원 |
 | :-: | :-: | :-- |
-| ![][flag_AR] | **아르헨티나** | **[Pollotuc](https://osu.ppy.sh/users/42440)**, [juanilp4evr](https://osu.ppy.sh/users/6413125), [Atreevete](https://osu.ppy.sh/users/2615199), [warning dark](https://osu.ppy.sh/users/5040981) |
-| ![][flag_AU] | **호주** | **[Beat43210](https://osu.ppy.sh/users/5664171)**, [Tsubasa2](https://osu.ppy.sh/users/6835183), [richy2001](https://osu.ppy.sh/users/11499467), [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
-| ![][flag_AT] | **오스트리아** | **[animexamera](https://osu.ppy.sh/users/7511357)**, [morth1](https://osu.ppy.sh/users/7246874), [Der Katze](https://osu.ppy.sh/users/7645997), [kBocaj](https://osu.ppy.sh/users/11453341), [Amane](https://osu.ppy.sh/users/6821436) |
-| ![][flag_BR] | **브라질** | **[Lazarento](https://osu.ppy.sh/users/3224958)**, [Uzi I](https://osu.ppy.sh/users/6042123), [AiAyako](https://osu.ppy.sh/users/7003491), [Lolligerjoj](https://osu.ppy.sh/users/9053338), [mihinho](https://osu.ppy.sh/users/6509269) |
-| ![][flag_CA] | **캐나다** | **[beary605](https://osu.ppy.sh/users/2198070)**, [iceandele](https://osu.ppy.sh/users/1740540), [Player-](https://osu.ppy.sh/users/3724819), [rubies87](https://osu.ppy.sh/users/4949934), [DuckyDoom](https://osu.ppy.sh/users/3153062) |
-| ![][flag_CL] | **칠레** | **[Catulus](https://osu.ppy.sh/users/6276709)**, [Adimoc](https://osu.ppy.sh/users/6757492), [-NaNdo-](https://osu.ppy.sh/users/1934382) |
-| ![][flag_CN] | **중국** | **[\[sACRIFICe\]](https://osu.ppy.sh/users/6294200)**, [super mario fan](https://osu.ppy.sh/users/8263525), [Flandre sca](https://osu.ppy.sh/users/10324309), [-OvO-](https://osu.ppy.sh/users/12208924), [Nisoquo](https://osu.ppy.sh/users/12345370) |
-| ![][flag_EC] | **에콰도르** | **[Gamelan4](https://osu.ppy.sh/users/9856910)**, [Arkano036](https://osu.ppy.sh/users/5899577), [Etsu](https://osu.ppy.sh/users/3442319) |
-| ![][flag_FR] | **프랑스** | **[maximaxiU](https://osu.ppy.sh/users/4069690)**, [Chernobog](https://osu.ppy.sh/users/3317042), [Gintoki8](https://osu.ppy.sh/users/2239411), [ALISTAR033009](https://osu.ppy.sh/users/9819975), [ZeddaStake](https://osu.ppy.sh/users/8801844) |
-| ![][flag_DE] | **독일 A** | **[Capu](https://osu.ppy.sh/users/2474015)**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [QEpicAce](https://osu.ppy.sh/users/9489153), [Siegmund99](https://osu.ppy.sh/users/5168596), [xBourbon\_Kid](https://osu.ppy.sh/users/645775) |
-| ![][flag_DE] | **독일 B** | **[Aninoss](https://osu.ppy.sh/users/7364706)**, [Sayira](https://osu.ppy.sh/users/7253958), [JanteSmith](https://osu.ppy.sh/users/371772), [Naugustogi](https://osu.ppy.sh/users/6803970) |
-| ![][flag_HK] | **홍콩** | **[Brown918](https://osu.ppy.sh/users/9805760)**, [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [\[\_isolated\_\]](https://osu.ppy.sh/users/6187838) |
-| ![][flag_ID] | **인도네시아 A** | **[Mikurio](https://osu.ppy.sh/users/10734140)**, [misaki_tk](https://osu.ppy.sh/users/3866964), [steven1](https://osu.ppy.sh/users/3090416), [Volta](https://osu.ppy.sh/users/4154071) |
-| ![][flag_ID] | **인도네시아 B** | **[Viewland](https://osu.ppy.sh/users/6250135)**, [Shirai-](https://osu.ppy.sh/users/4221845), [Alwaysyukaz](https://osu.ppy.sh/users/4999506), [ImChro](https://osu.ppy.sh/users/7280717), [Ahmad Haris](https://osu.ppy.sh/users/6048245) |
-| ![][flag_JP] | **일본** | **[Briesmas](https://osu.ppy.sh/users/2865172)**, [autumndayo](https://osu.ppy.sh/users/12268857), [TEL09016579767](https://osu.ppy.sh/users/3925121), [shinnme_ao](https://osu.ppy.sh/users/6252972), [Ku_Ren](https://osu.ppy.sh/users/2535243) |
-| ![][flag_MY] | **말레이시아** | **[Bedwyr Aorta](https://osu.ppy.sh/users/10875855)**, [Megumin-Sama](https://osu.ppy.sh/users/6201335), [Minisora](https://osu.ppy.sh/users/9627666), [imnoobatosuosu](https://osu.ppy.sh/users/12086753) |
-| ![][flag_MX] | **멕시코** | **[Iojioji](https://osu.ppy.sh/users/1346121)**, [ZaveryK](https://osu.ppy.sh/users/10913397), [L\_CORTES\_01](https://osu.ppy.sh/users/12548363) |
-| ![][flag_NL] | **네덜란드** | **[Krekker](https://osu.ppy.sh/users/8265940)**, [Hypello](https://osu.ppy.sh/users/1594036), [jesse-98](https://osu.ppy.sh/users/502722), [StrijkIjzer](https://osu.ppy.sh/users/4130926) |
-| ![][flag_PH] | **필리핀** | **[yuki\_momoiro722](https://osu.ppy.sh/users/7186791)**, [Niro-](https://osu.ppy.sh/users/6443899), [A i r](https://osu.ppy.sh/users/10363380), [Yron8](https://osu.ppy.sh/users/1537747) |
-| ![][flag_PL] | **폴란드** | **[Agresywny Arbuz](https://osu.ppy.sh/users/7056658)**, [Tetsurio](https://osu.ppy.sh/users/2044810), [-Jamu-](https://osu.ppy.sh/users/2271556), [Wolfgang](https://osu.ppy.sh/users/7184324), [fafik99](https://osu.ppy.sh/users/1787011) |
-| ![][flag_RU] | **러시아 A** | **[Nozdormu](https://osu.ppy.sh/users/7169208)**, [Akonine](https://osu.ppy.sh/users/7774222), [pavlukivan](https://osu.ppy.sh/users/8321579), [CrowWhite](https://osu.ppy.sh/users/8638977), [TwinT](https://osu.ppy.sh/users/9976154) |
-| ![][flag_RU] | **러시아 B** | **[-Rmdy](https://osu.ppy.sh/users/1933816)**, [JW-Dash](https://osu.ppy.sh/users/5285786), [oserry](https://osu.ppy.sh/users/11973082), [Starger](https://osu.ppy.sh/users/3398715), [Crysally](https://osu.ppy.sh/users/7792131) |
-| ![][flag_DK] ![][flag_NO] ![][flag_SE] | **스칸디나비아** | **[Hana Hayashi](https://osu.ppy.sh/users/4601806)**, [1794766](https://osu.ppy.sh/users/1794766), [Mills](https://osu.ppy.sh/users/7234023), [KatLeNeko](https://osu.ppy.sh/users/10183710), [mammasutter](https://osu.ppy.sh/users/11830625) |
-| ![][flag_KR] | **대한민국** | **[POCARI-SWEAT](https://osu.ppy.sh/users/5082685)**, [bbj0920](https://osu.ppy.sh/users/87546), [yuhuna_kor](https://osu.ppy.sh/users/13046017), [\[Akita-Neru\]](https://osu.ppy.sh/users/613944), [TRAtOrTs](https://osu.ppy.sh/users/12481695) |
-| ![][flag_ES] | **스페인** | **[naliem](https://osu.ppy.sh/users/3252709)**, [RuinedChicken](https://osu.ppy.sh/users/7983713), [Machango](https://osu.ppy.sh/users/7180552), [Nara\_NB](https://osu.ppy.sh/users/3593992) |
-| ![][flag_TW] | **대만** | **[- DeveRUX -](https://osu.ppy.sh/users/2900875)**, [Hatsuse](https://osu.ppy.sh/users/697007), [nw9v4g46](https://osu.ppy.sh/users/2169329), [david649713](https://osu.ppy.sh/users/1390823) |
-| ![][flag_GB] ![][flag_PT] | **영국/포르투갈** | **[Metzo](https://osu.ppy.sh/users/10633982)**, [w1ll](https://osu.ppy.sh/users/11406987), [Ali161102](https://osu.ppy.sh/users/7582420), [Yumi\_Hideaki](https://osu.ppy.sh/users/10081162) |
-| ![][flag_US] | **미국 A** | **[Backfire](https://osu.ppy.sh/users/263110)**, [ChurroChef](https://osu.ppy.sh/users/9258564), [CaptainEChan](https://osu.ppy.sh/users/9536977), [dragonworm](https://osu.ppy.sh/users/11464752) |
-| ![][flag_US] | **미국 B** | **[driodx](https://osu.ppy.sh/users/9709548)**, [Shindamama](https://osu.ppy.sh/users/12780046), [R J](https://osu.ppy.sh/users/6490509), [DiggyDogg](https://osu.ppy.sh/users/5014664) |
-| ![][flag_VE] | **베네수엘라** | **[Nutellitah](https://osu.ppy.sh/users/10613075)**, [JessiChan](https://osu.ppy.sh/users/1368025) |
+| ::{ flag=AR }:: | **아르헨티나** | **[Pollotuc](https://osu.ppy.sh/users/42440)**, [juanilp4evr](https://osu.ppy.sh/users/6413125), [Atreevete](https://osu.ppy.sh/users/2615199), [warning dark](https://osu.ppy.sh/users/5040981) |
+| ::{ flag=AU }:: | **호주** | **[Beat43210](https://osu.ppy.sh/users/5664171)**, [Tsubasa2](https://osu.ppy.sh/users/6835183), [richy2001](https://osu.ppy.sh/users/11499467), [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
+| ::{ flag=AT }:: | **오스트리아** | **[animexamera](https://osu.ppy.sh/users/7511357)**, [morth1](https://osu.ppy.sh/users/7246874), [Der Katze](https://osu.ppy.sh/users/7645997), [kBocaj](https://osu.ppy.sh/users/11453341), [Amane](https://osu.ppy.sh/users/6821436) |
+| ::{ flag=BR }:: | **브라질** | **[Lazarento](https://osu.ppy.sh/users/3224958)**, [Uzi I](https://osu.ppy.sh/users/6042123), [AiAyako](https://osu.ppy.sh/users/7003491), [Lolligerjoj](https://osu.ppy.sh/users/9053338), [mihinho](https://osu.ppy.sh/users/6509269) |
+| ::{ flag=CA }:: | **캐나다** | **[beary605](https://osu.ppy.sh/users/2198070)**, [iceandele](https://osu.ppy.sh/users/1740540), [Player-](https://osu.ppy.sh/users/3724819), [rubies87](https://osu.ppy.sh/users/4949934), [DuckyDoom](https://osu.ppy.sh/users/3153062) |
+| ::{ flag=CL }:: | **칠레** | **[Catulus](https://osu.ppy.sh/users/6276709)**, [Adimoc](https://osu.ppy.sh/users/6757492), [-NaNdo-](https://osu.ppy.sh/users/1934382) |
+| ::{ flag=CN }:: | **중국** | **[\[sACRIFICe\]](https://osu.ppy.sh/users/6294200)**, [super mario fan](https://osu.ppy.sh/users/8263525), [Flandre sca](https://osu.ppy.sh/users/10324309), [-OvO-](https://osu.ppy.sh/users/12208924), [Nisoquo](https://osu.ppy.sh/users/12345370) |
+| ::{ flag=EC }:: | **에콰도르** | **[Gamelan4](https://osu.ppy.sh/users/9856910)**, [Arkano036](https://osu.ppy.sh/users/5899577), [Etsu](https://osu.ppy.sh/users/3442319) |
+| ::{ flag=FR }:: | **프랑스** | **[maximaxiU](https://osu.ppy.sh/users/4069690)**, [Chernobog](https://osu.ppy.sh/users/3317042), [Gintoki8](https://osu.ppy.sh/users/2239411), [ALISTAR033009](https://osu.ppy.sh/users/9819975), [ZeddaStake](https://osu.ppy.sh/users/8801844) |
+| ::{ flag=DE }:: | **독일 A** | **[Capu](https://osu.ppy.sh/users/2474015)**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [QEpicAce](https://osu.ppy.sh/users/9489153), [Siegmund99](https://osu.ppy.sh/users/5168596), [xBourbon\_Kid](https://osu.ppy.sh/users/645775) |
+| ::{ flag=DE }:: | **독일 B** | **[Aninoss](https://osu.ppy.sh/users/7364706)**, [Sayira](https://osu.ppy.sh/users/7253958), [JanteSmith](https://osu.ppy.sh/users/371772), [Naugustogi](https://osu.ppy.sh/users/6803970) |
+| ::{ flag=HK }:: | **홍콩** | **[Brown918](https://osu.ppy.sh/users/9805760)**, [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [\[\_isolated\_\]](https://osu.ppy.sh/users/6187838) |
+| ::{ flag=ID }:: | **인도네시아 A** | **[Mikurio](https://osu.ppy.sh/users/10734140)**, [misaki_tk](https://osu.ppy.sh/users/3866964), [steven1](https://osu.ppy.sh/users/3090416), [Volta](https://osu.ppy.sh/users/4154071) |
+| ::{ flag=ID }:: | **인도네시아 B** | **[Viewland](https://osu.ppy.sh/users/6250135)**, [Shirai-](https://osu.ppy.sh/users/4221845), [Alwaysyukaz](https://osu.ppy.sh/users/4999506), [ImChro](https://osu.ppy.sh/users/7280717), [Ahmad Haris](https://osu.ppy.sh/users/6048245) |
+| ::{ flag=JP }:: | **일본** | **[Briesmas](https://osu.ppy.sh/users/2865172)**, [autumndayo](https://osu.ppy.sh/users/12268857), [TEL09016579767](https://osu.ppy.sh/users/3925121), [shinnme_ao](https://osu.ppy.sh/users/6252972), [Ku_Ren](https://osu.ppy.sh/users/2535243) |
+| ::{ flag=MY }:: | **말레이시아** | **[Bedwyr Aorta](https://osu.ppy.sh/users/10875855)**, [Megumin-Sama](https://osu.ppy.sh/users/6201335), [Minisora](https://osu.ppy.sh/users/9627666), [imnoobatosuosu](https://osu.ppy.sh/users/12086753) |
+| ::{ flag=MX }:: | **멕시코** | **[Iojioji](https://osu.ppy.sh/users/1346121)**, [ZaveryK](https://osu.ppy.sh/users/10913397), [L\_CORTES\_01](https://osu.ppy.sh/users/12548363) |
+| ::{ flag=NL }:: | **네덜란드** | **[Krekker](https://osu.ppy.sh/users/8265940)**, [Hypello](https://osu.ppy.sh/users/1594036), [jesse-98](https://osu.ppy.sh/users/502722), [StrijkIjzer](https://osu.ppy.sh/users/4130926) |
+| ::{ flag=PH }:: | **필리핀** | **[yuki\_momoiro722](https://osu.ppy.sh/users/7186791)**, [Niro-](https://osu.ppy.sh/users/6443899), [A i r](https://osu.ppy.sh/users/10363380), [Yron8](https://osu.ppy.sh/users/1537747) |
+| ::{ flag=PL }:: | **폴란드** | **[Agresywny Arbuz](https://osu.ppy.sh/users/7056658)**, [Tetsurio](https://osu.ppy.sh/users/2044810), [-Jamu-](https://osu.ppy.sh/users/2271556), [Wolfgang](https://osu.ppy.sh/users/7184324), [fafik99](https://osu.ppy.sh/users/1787011) |
+| ::{ flag=RU }:: | **러시아 A** | **[Nozdormu](https://osu.ppy.sh/users/7169208)**, [Akonine](https://osu.ppy.sh/users/7774222), [pavlukivan](https://osu.ppy.sh/users/8321579), [CrowWhite](https://osu.ppy.sh/users/8638977), [TwinT](https://osu.ppy.sh/users/9976154) |
+| ::{ flag=RU }:: | **러시아 B** | **[-Rmdy](https://osu.ppy.sh/users/1933816)**, [JW-Dash](https://osu.ppy.sh/users/5285786), [oserry](https://osu.ppy.sh/users/11973082), [Starger](https://osu.ppy.sh/users/3398715), [Crysally](https://osu.ppy.sh/users/7792131) |
+| ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **스칸디나비아** | **[Hana Hayashi](https://osu.ppy.sh/users/4601806)**, [1794766](https://osu.ppy.sh/users/1794766), [Mills](https://osu.ppy.sh/users/7234023), [KatLeNeko](https://osu.ppy.sh/users/10183710), [mammasutter](https://osu.ppy.sh/users/11830625) |
+| ::{ flag=KR }:: | **대한민국** | **[POCARI-SWEAT](https://osu.ppy.sh/users/5082685)**, [bbj0920](https://osu.ppy.sh/users/87546), [yuhuna_kor](https://osu.ppy.sh/users/13046017), [\[Akita-Neru\]](https://osu.ppy.sh/users/613944), [TRAtOrTs](https://osu.ppy.sh/users/12481695) |
+| ::{ flag=ES }:: | **스페인** | **[naliem](https://osu.ppy.sh/users/3252709)**, [RuinedChicken](https://osu.ppy.sh/users/7983713), [Machango](https://osu.ppy.sh/users/7180552), [Nara\_NB](https://osu.ppy.sh/users/3593992) |
+| ::{ flag=TW }:: | **대만** | **[- DeveRUX -](https://osu.ppy.sh/users/2900875)**, [Hatsuse](https://osu.ppy.sh/users/697007), [nw9v4g46](https://osu.ppy.sh/users/2169329), [david649713](https://osu.ppy.sh/users/1390823) |
+| ::{ flag=GB }:: ::{ flag=PT }:: | **영국/포르투갈** | **[Metzo](https://osu.ppy.sh/users/10633982)**, [w1ll](https://osu.ppy.sh/users/11406987), [Ali161102](https://osu.ppy.sh/users/7582420), [Yumi\_Hideaki](https://osu.ppy.sh/users/10081162) |
+| ::{ flag=US }:: | **미국 A** | **[Backfire](https://osu.ppy.sh/users/263110)**, [ChurroChef](https://osu.ppy.sh/users/9258564), [CaptainEChan](https://osu.ppy.sh/users/9536977), [dragonworm](https://osu.ppy.sh/users/11464752) |
+| ::{ flag=US }:: | **미국 B** | **[driodx](https://osu.ppy.sh/users/9709548)**, [Shindamama](https://osu.ppy.sh/users/12780046), [R J](https://osu.ppy.sh/users/6490509), [DiggyDogg](https://osu.ppy.sh/users/5014664) |
+| ::{ flag=VE }:: | **베네수엘라** | **[Nutellitah](https://osu.ppy.sh/users/10613075)**, [JessiChan](https://osu.ppy.sh/users/1368025) |
 
 ## 시드
 
 | 조 | 탑 시드 | 하이 시드 | 미드 시드 | 로우 시드 | 언시드 |
 | :-: | :-- | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_PL] 폴란드 | ![][flag_RU] 러시아 B | ![][flag_PH] 필리핀 | ![][flag_MY] 말레이시아 |
-| **B** | ![][flag_JP] 일본 | ![][flag_AR] 아르헨티나 | ![][flag_HK] 홍콩 | ![][flag_CL] 칠레 |
-| **C** | ![][flag_NL] 네덜란드 | ![][flag_FR] 프랑스 | ![][flag_MX] 멕시코 | ![][flag_TW] 대만 |
-| **D** | ![][flag_US] 미국 A | ![][flag_RU] 러시아 A | ![][flag_US] 미국 B | ![][flag_BR] 브라질 |
-| **E** | ![][flag_KR] 대한민국 | ![][flag_DE] 독일 A | ![][flag_DK] ![][flag_NO] ![][flag_SE] 스칸디나비아 | ![][flag_VE] 베네수엘라 |
-| **F** | ![][flag_CA] 캐나다 | ![][flag_GB] ![][flag_PT] 영국/포르투갈 | ![][flag_ID] 인도네시아 A | ![][flag_ID] 인도네시아 B |
+| **A** | ::{ flag=PL }:: 폴란드 | ::{ flag=RU }:: 러시아 B | ::{ flag=PH }:: 필리핀 | ::{ flag=MY }:: 말레이시아 |
+| **B** | ::{ flag=JP }:: 일본 | ::{ flag=AR }:: 아르헨티나 | ::{ flag=HK }:: 홍콩 | ::{ flag=CL }:: 칠레 |
+| **C** | ::{ flag=NL }:: 네덜란드 | ::{ flag=FR }:: 프랑스 | ::{ flag=MX }:: 멕시코 | ::{ flag=TW }:: 대만 |
+| **D** | ::{ flag=US }:: 미국 A | ::{ flag=RU }:: 러시아 A | ::{ flag=US }:: 미국 B | ::{ flag=BR }:: 브라질 |
+| **E** | ::{ flag=KR }:: 대한민국 | ::{ flag=DE }:: 독일 A | ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: 스칸디나비아 | ::{ flag=VE }:: 베네수엘라 |
+| **F** | ::{ flag=CA }:: 캐나다 | ::{ flag=GB }:: ::{ flag=PT }:: 영국/포르투갈 | ::{ flag=ID }:: 인도네시아 A | ::{ flag=ID }:: 인도네시아 B |
 
 ## 순위권
 
@@ -112,9 +112,9 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 | 등수 | 국가 |
 | :-: | :-- |
-| ![금메달](/wiki/shared/crown-gold.png "1등") | ![][flag_JP] 일본 |
-| ![은메달](/wiki/shared/crown-silver.png "2등") | ![][flag_CA] 캐나다 |
-| ![동메달](/wiki/shared/crown-bronze.png "3등") | ![][flag_RU] 러시아 A |
+| ![금메달](/wiki/shared/crown-gold.png "1등") | ::{ flag=JP }:: 일본 |
+| ![은메달](/wiki/shared/crown-silver.png "2등") | ::{ flag=CA }:: 캐나다 |
+| ![동메달](/wiki/shared/crown-bronze.png "3등") | ::{ flag=RU }:: 러시아 A |
 
 ## 맵풀
 
@@ -285,96 +285,96 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 | 토요일, 2019-09-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **일본** ![][flag_JP] | **7** | 1 | ![][flag_CA] 캐나다 | [#1](https://osu.ppy.sh/community/matches/54839968) |
+| **일본** ::{ flag=JP }:: | **7** | 1 | ::{ flag=CA }:: 캐나다 | [#1](https://osu.ppy.sh/community/matches/54839968) |
 
 ### 결승
 
 | 토요일, 2019-09-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **일본** ![][flag_JP] | **7** | 1 | ![][flag_RU] 러시아 A | [#1](https://osu.ppy.sh/community/matches/54674122) |
+| **일본** ::{ flag=JP }:: | **7** | 1 | ::{ flag=RU }:: 러시아 A | [#1](https://osu.ppy.sh/community/matches/54674122) |
 
 | 일요일, 2019-09-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| 대한민국 ![][flag_KR] | 4 | **7** | ![][flag_CA] **캐나다** | [#1](https://osu.ppy.sh/community/matches/54691282) |
-| 러시아 A ![][flag_RU] | 2 | **7** | ![][flag_CA] **캐나다** | [#1](https://osu.ppy.sh/community/matches/54706574) |
+| 대한민국 ::{ flag=KR }:: | 4 | **7** | ::{ flag=CA }:: **캐나다** | [#1](https://osu.ppy.sh/community/matches/54691282) |
+| 러시아 A ::{ flag=RU }:: | 2 | **7** | ::{ flag=CA }:: **캐나다** | [#1](https://osu.ppy.sh/community/matches/54706574) |
 
 ### 4강
 
 | 토요일, 2019-08-31 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| 인도네시아 A ![][flag_ID] | 4 | **7** | ![][flag_JP] **일본** | [#1](https://osu.ppy.sh/community/matches/54504410) |
-| **러시아 A** ![][flag_RU] | **7** | 2 | ![][flag_TW] 대만 | [#1](https://osu.ppy.sh/community/matches/54507108) |
-| 아르헨티나 ![][flag_AR] | 4 | **7** | ![][flag_CA] **캐나다** | [#1](https://osu.ppy.sh/community/matches/54515229) |
+| 인도네시아 A ::{ flag=ID }:: | 4 | **7** | ::{ flag=JP }:: **일본** | [#1](https://osu.ppy.sh/community/matches/54504410) |
+| **러시아 A** ::{ flag=RU }:: | **7** | 2 | ::{ flag=TW }:: 대만 | [#1](https://osu.ppy.sh/community/matches/54507108) |
+| 아르헨티나 ::{ flag=AR }:: | 4 | **7** | ::{ flag=CA }:: **캐나다** | [#1](https://osu.ppy.sh/community/matches/54515229) |
 
 | 일요일, 2019-09-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| 대만 ![][flag_TW] | 1 | **7** | ![][flag_CA] **캐나다** | [#1](https://osu.ppy.sh/community/matches/54521624) |
-| 네덜란드 ![][flag_NL] | 6 | **7** | ![][flag_KR] **대한민국** | [#1](https://osu.ppy.sh/community/matches/54530786) |
-| 인도네시아 A ![][flag_ID] | 3 | **7** | ![][flag_KR] **대한민국** | [#1](https://osu.ppy.sh/community/matches/54533409) |
+| 대만 ::{ flag=TW }:: | 1 | **7** | ::{ flag=CA }:: **캐나다** | [#1](https://osu.ppy.sh/community/matches/54521624) |
+| 네덜란드 ::{ flag=NL }:: | 6 | **7** | ::{ flag=KR }:: **대한민국** | [#1](https://osu.ppy.sh/community/matches/54530786) |
+| 인도네시아 A ::{ flag=ID }:: | 3 | **7** | ::{ flag=KR }:: **대한민국** | [#1](https://osu.ppy.sh/community/matches/54533409) |
 
 ### 8강
 
 | 토요일, 2019-08-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| 아르헨티나 ![][flag_AR] | 5 | **6** | ![][flag_TW] **대만** | [#1](https://osu.ppy.sh/community/matches/54305260) |
-| 독일 A ![][flag_DE] | 0 | **6** | ![][flag_ID] **인도네시아 A** | [#1](https://osu.ppy.sh/community/matches/54317268) |
-| **일본** ![][flag_JP] | **6** | 0 | ![][flag_BR] 브라질 | [#1](https://osu.ppy.sh/community/matches/54317042) |
-| **러시아 A** ![][flag_RU] | **6** | 2 | ![][flag_RU] 러시아 B | [#1](https://osu.ppy.sh/community/matches/54317274) |
-| 캐나다 ![][flag_CA] | 4 | **6** | ![][flag_JP] **일본** | [#1](https://osu.ppy.sh/community/matches/54318662) |
-| 폴란드 ![][flag_PL] | 1 | **6** | ![][flag_ID] **인도네시아 A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
-| **캐나다** ![][flag_CA] | **6** | 1 | ![][flag_RU] 러시아 B | [#1](https://osu.ppy.sh/community/matches/54322599) |
+| 아르헨티나 ::{ flag=AR }:: | 5 | **6** | ::{ flag=TW }:: **대만** | [#1](https://osu.ppy.sh/community/matches/54305260) |
+| 독일 A ::{ flag=DE }:: | 0 | **6** | ::{ flag=ID }:: **인도네시아 A** | [#1](https://osu.ppy.sh/community/matches/54317268) |
+| **일본** ::{ flag=JP }:: | **6** | 0 | ::{ flag=BR }:: 브라질 | [#1](https://osu.ppy.sh/community/matches/54317042) |
+| **러시아 A** ::{ flag=RU }:: | **6** | 2 | ::{ flag=RU }:: 러시아 B | [#1](https://osu.ppy.sh/community/matches/54317274) |
+| 캐나다 ::{ flag=CA }:: | 4 | **6** | ::{ flag=JP }:: **일본** | [#1](https://osu.ppy.sh/community/matches/54318662) |
+| 폴란드 ::{ flag=PL }:: | 1 | **6** | ::{ flag=ID }:: **인도네시아 A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
+| **캐나다** ::{ flag=CA }:: | **6** | 1 | ::{ flag=RU }:: 러시아 B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
 | 일요일, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| 대한민국 ![][flag_KR] | 3 | **6** | ![][flag_TW] **대만** | [#1](https://osu.ppy.sh/community/matches/54334906) |
-| 네덜란드 ![][flag_NL] | 2 | **6** | ![][flag_RU] **러시아 A** | [#1](https://osu.ppy.sh/community/matches/54346880) |
-| **대한민국** ![][flag_KR] | **6** | 0 | ![][flag_DE] 독일 A | [#1](https://osu.ppy.sh/community/matches/54346891) |
-| **네덜란드** ![][flag_NL] | **6** | 0 | ![][flag_BR] 브라질 | [#1](https://osu.ppy.sh/community/matches/54349753) |
-| 폴란드 ![][flag_PL] | 0 | **6** | ![][flag_AR] **아르헨티나** | [#1](https://osu.ppy.sh/community/matches/54360101) |
+| 대한민국 ::{ flag=KR }:: | 3 | **6** | ::{ flag=TW }:: **대만** | [#1](https://osu.ppy.sh/community/matches/54334906) |
+| 네덜란드 ::{ flag=NL }:: | 2 | **6** | ::{ flag=RU }:: **러시아 A** | [#1](https://osu.ppy.sh/community/matches/54346880) |
+| **대한민국** ::{ flag=KR }:: | **6** | 0 | ::{ flag=DE }:: 독일 A | [#1](https://osu.ppy.sh/community/matches/54346891) |
+| **네덜란드** ::{ flag=NL }:: | **6** | 0 | ::{ flag=BR }:: 브라질 | [#1](https://osu.ppy.sh/community/matches/54349753) |
+| 폴란드 ::{ flag=PL }:: | 0 | **6** | ::{ flag=AR }:: **아르헨티나** | [#1](https://osu.ppy.sh/community/matches/54360101) |
 
 ### 조별 예선
 
 | 조 | 토요일, 2019-08-17 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| C4 | 멕시코 ![][flag_MX] | 2 | **5** | ![][flag_TW] **대만** | [#1](https://osu.ppy.sh/community/matches/54132793) |
-| D6 | 미국 B ![][flag_US] | 1 | **5** | ![][flag_US] **미국 A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
-| A1 | **러시아 B** ![][flag_RU] | **5** | 3 | ![][flag_PH] 필리핀 | [#1](https://osu.ppy.sh/community/matches/54141466) |
-| F5 | **인도네시아 B** ![][flag_ID] | **5** | 0 | ![][flag_GB] ![][flag_PT] 영국/포르투갈 | [#1](https://osu.ppy.sh/community/matches/54142329) |
-| D1 | **러시아 A** ![][flag_RU] | **5** | 2 | ![][flag_US] 미국 B | [#1](https://osu.ppy.sh/community/matches/54143643) |
-| A5 | 말레이시아 ![][flag_MY] | 3 | **5** | ![][flag_RU] **러시아 B** | [#1](https://osu.ppy.sh/community/matches/54143711) |
-| C5 | **대만** ![][flag_TW] | **5** | 0 | ![][flag_FR] 프랑스 | [#1](https://osu.ppy.sh/community/matches/54146452) |
-| A6 | 필리핀 ![][flag_PH] | 1 | **5** | ![][flag_PL] **폴란드** | [#1](https://osu.ppy.sh/community/matches/54146455) |
-| E6 | 스칸디나비아 ![][flag_DK] ![][flag_NO] ![][flag_SE] | 0 | **5** | ![][flag_KR] 대한민국 | [#1](https://osu.ppy.sh/community/matches/54147726) |
-| C1 | **프랑스** ![][flag_FR] | **5** | 3 | ![][flag_MX] 멕시코 | [#1](https://osu.ppy.sh/community/matches/54149300) |
-| C6 | 멕시코 ![][flag_MX] | 1 | **5** | ![][flag_NL] **네덜란드** | [#1](https://osu.ppy.sh/community/matches/54151830) |
-| E1 | **독일 A** ![][flag_DE] | **5** | 1 | ![][flag_DK] ![][flag_NO] ![][flag_SE] 스칸디나비아 | [#1](https://osu.ppy.sh/community/matches/54152083) |
-| B5 | 칠레 ![][flag_CL] | 0 | **5** | ![][flag_AR] **아르헨티나** | [#1](https://osu.ppy.sh/community/matches/54153575) |
-| C3 | **캐나다** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] 영국/포르투갈 | [#1](https://osu.ppy.sh/community/matches/54153517) |
+| C4 | 멕시코 ::{ flag=MX }:: | 2 | **5** | ::{ flag=TW }:: **대만** | [#1](https://osu.ppy.sh/community/matches/54132793) |
+| D6 | 미국 B ::{ flag=US }:: | 1 | **5** | ::{ flag=US }:: **미국 A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
+| A1 | **러시아 B** ::{ flag=RU }:: | **5** | 3 | ::{ flag=PH }:: 필리핀 | [#1](https://osu.ppy.sh/community/matches/54141466) |
+| F5 | **인도네시아 B** ::{ flag=ID }:: | **5** | 0 | ::{ flag=GB }:: ::{ flag=PT }:: 영국/포르투갈 | [#1](https://osu.ppy.sh/community/matches/54142329) |
+| D1 | **러시아 A** ::{ flag=RU }:: | **5** | 2 | ::{ flag=US }:: 미국 B | [#1](https://osu.ppy.sh/community/matches/54143643) |
+| A5 | 말레이시아 ::{ flag=MY }:: | 3 | **5** | ::{ flag=RU }:: **러시아 B** | [#1](https://osu.ppy.sh/community/matches/54143711) |
+| C5 | **대만** ::{ flag=TW }:: | **5** | 0 | ::{ flag=FR }:: 프랑스 | [#1](https://osu.ppy.sh/community/matches/54146452) |
+| A6 | 필리핀 ::{ flag=PH }:: | 1 | **5** | ::{ flag=PL }:: **폴란드** | [#1](https://osu.ppy.sh/community/matches/54146455) |
+| E6 | 스칸디나비아 ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | 0 | **5** | ::{ flag=KR }:: 대한민국 | [#1](https://osu.ppy.sh/community/matches/54147726) |
+| C1 | **프랑스** ::{ flag=FR }:: | **5** | 3 | ::{ flag=MX }:: 멕시코 | [#1](https://osu.ppy.sh/community/matches/54149300) |
+| C6 | 멕시코 ::{ flag=MX }:: | 1 | **5** | ::{ flag=NL }:: **네덜란드** | [#1](https://osu.ppy.sh/community/matches/54151830) |
+| E1 | **독일 A** ::{ flag=DE }:: | **5** | 1 | ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: 스칸디나비아 | [#1](https://osu.ppy.sh/community/matches/54152083) |
+| B5 | 칠레 ::{ flag=CL }:: | 0 | **5** | ::{ flag=AR }:: **아르헨티나** | [#1](https://osu.ppy.sh/community/matches/54153575) |
+| C3 | **캐나다** ::{ flag=CA }:: | **5** | 0 | ::{ flag=GB }:: ::{ flag=PT }:: 영국/포르투갈 | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
 | 조 | 일요일, 2019-08-18 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F6 | 인도네시아 A ![][flag_ID] | 3 | **5** | ![][flag_CA] **캐나다** | [#1](https://osu.ppy.sh/community/matches/54159212) |
-| B2 | 칠레 ![][flag_CL] | 0 | **5** | ![][flag_JP] **일본** | [#1](https://osu.ppy.sh/community/matches/54160233) |
-| B1 | **아르헨티나** ![][flag_AR] | **5** | 2 | ![][flag_HK] 홍콩 | [#1](https://osu.ppy.sh/community/matches/54160229) |
-| B3 | **일본** ![][flag_JP] | **5** | 3 | ![][flag_AR] 아르헨티나 | [#1](https://osu.ppy.sh/community/matches/54161382) |
-| B4 | 홍콩 ![][flag_HK] | 0 | **5** | ![][flag_CL] **칠레** | [#1](https://osu.ppy.sh/community/matches/54161391) |
-| F2 | 인도네시아 B ![][flag_ID] | 0 | **5** | ![][flag_CA] **캐나다** | -win by default- |
-| B6 | 홍콩 ![][flag_HK] | 1 | **5** | ![][flag_JP] **일본** | [#1](https://osu.ppy.sh/community/matches/54165254) |
-| F4 | **인도네시아 A** ![][flag_ID] | **5** | 0 | ![][flag_ID] 인도네시아 B | [#1](https://osu.ppy.sh/community/matches/54168881) |
-| A3 | **폴란드** ![][flag_PL] | **5** | 1 | ![][flag_RU] 러시아 B | [#1](https://osu.ppy.sh/community/matches/54168865) |
-| D5 | 브라질 ![][flag_BR] | 2 | **5** | ![][flag_RU] **러시아 A** | [#1](https://osu.ppy.sh/community/matches/54168668) |
-| A4 | **필리핀** ![][flag_PH] | **5** | 0 | ![][flag_MY] 말레이시아 | [#1](https://osu.ppy.sh/community/matches/54170118) |
-| C2 | 대만 ![][flag_TW] | 0 | **5** | ![][flag_NL] **네덜란드** | [#1](https://osu.ppy.sh/community/matches/54169919) |
-| E2 | 베네수엘라 ![][flag_VE] | 0 | **5** | ![][flag_KR] **대한민국** | -win by default- |
-| E3 | **대한민국** ![][flag_KR] | **5** | 2 | ![][flag_DE] 독일 A | [#1](https://osu.ppy.sh/community/matches/54171395) |
-| F1 | 영국/포르투갈 ![][flag_GB] ![][flag_PT] | 4 | **5** | ![][flag_ID] **인도네시아 A** | [#1](https://osu.ppy.sh/community/matches/54171441) |
-| A2 | 말레이시아 ![][flag_MY] | 0 | **5** | ![][flag_PL] **폴란드** | [#1](https://osu.ppy.sh/community/matches/54171560) |
-| D3 | 미국 A ![][flag_US] | 2 | **5** | ![][flag_RU] **러시아 A** | [#1](https://osu.ppy.sh/community/matches/54171222) |
-| C3 | **네덜란드** ![][flag_NL] | **5** | 1 | ![][flag_FR] 프랑스 | [#1](https://osu.ppy.sh/community/matches/54173902) |
-| D4 | 미국 B ![][flag_US] | 4 | **5** | ![][flag_BR] **브라질** | [#1](https://osu.ppy.sh/community/matches/54175298) |
-| E4 | **스칸디나비아** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] 베네수엘라 | -win by default- |
-| E5 | 베네수엘라 ![][flag_VE] | 0 | **5** | ![][flag_DE] **독일 A** | -win by default- |
-| D2 | **브라질** ![][flag_BR] | **5** | 3 | ![][flag_US] 미국 A | [#1](https://osu.ppy.sh/community/matches/54181034) |
+| F6 | 인도네시아 A ::{ flag=ID }:: | 3 | **5** | ::{ flag=CA }:: **캐나다** | [#1](https://osu.ppy.sh/community/matches/54159212) |
+| B2 | 칠레 ::{ flag=CL }:: | 0 | **5** | ::{ flag=JP }:: **일본** | [#1](https://osu.ppy.sh/community/matches/54160233) |
+| B1 | **아르헨티나** ::{ flag=AR }:: | **5** | 2 | ::{ flag=HK }:: 홍콩 | [#1](https://osu.ppy.sh/community/matches/54160229) |
+| B3 | **일본** ::{ flag=JP }:: | **5** | 3 | ::{ flag=AR }:: 아르헨티나 | [#1](https://osu.ppy.sh/community/matches/54161382) |
+| B4 | 홍콩 ::{ flag=HK }:: | 0 | **5** | ::{ flag=CL }:: **칠레** | [#1](https://osu.ppy.sh/community/matches/54161391) |
+| F2 | 인도네시아 B ::{ flag=ID }:: | 0 | **5** | ::{ flag=CA }:: **캐나다** | -win by default- |
+| B6 | 홍콩 ::{ flag=HK }:: | 1 | **5** | ::{ flag=JP }:: **일본** | [#1](https://osu.ppy.sh/community/matches/54165254) |
+| F4 | **인도네시아 A** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: 인도네시아 B | [#1](https://osu.ppy.sh/community/matches/54168881) |
+| A3 | **폴란드** ::{ flag=PL }:: | **5** | 1 | ::{ flag=RU }:: 러시아 B | [#1](https://osu.ppy.sh/community/matches/54168865) |
+| D5 | 브라질 ::{ flag=BR }:: | 2 | **5** | ::{ flag=RU }:: **러시아 A** | [#1](https://osu.ppy.sh/community/matches/54168668) |
+| A4 | **필리핀** ::{ flag=PH }:: | **5** | 0 | ::{ flag=MY }:: 말레이시아 | [#1](https://osu.ppy.sh/community/matches/54170118) |
+| C2 | 대만 ::{ flag=TW }:: | 0 | **5** | ::{ flag=NL }:: **네덜란드** | [#1](https://osu.ppy.sh/community/matches/54169919) |
+| E2 | 베네수엘라 ::{ flag=VE }:: | 0 | **5** | ::{ flag=KR }:: **대한민국** | -win by default- |
+| E3 | **대한민국** ::{ flag=KR }:: | **5** | 2 | ::{ flag=DE }:: 독일 A | [#1](https://osu.ppy.sh/community/matches/54171395) |
+| F1 | 영국/포르투갈 ::{ flag=GB }:: ::{ flag=PT }:: | 4 | **5** | ::{ flag=ID }:: **인도네시아 A** | [#1](https://osu.ppy.sh/community/matches/54171441) |
+| A2 | 말레이시아 ::{ flag=MY }:: | 0 | **5** | ::{ flag=PL }:: **폴란드** | [#1](https://osu.ppy.sh/community/matches/54171560) |
+| D3 | 미국 A ::{ flag=US }:: | 2 | **5** | ::{ flag=RU }:: **러시아 A** | [#1](https://osu.ppy.sh/community/matches/54171222) |
+| C3 | **네덜란드** ::{ flag=NL }:: | **5** | 1 | ::{ flag=FR }:: 프랑스 | [#1](https://osu.ppy.sh/community/matches/54173902) |
+| D4 | 미국 B ::{ flag=US }:: | 4 | **5** | ::{ flag=BR }:: **브라질** | [#1](https://osu.ppy.sh/community/matches/54175298) |
+| E4 | **스칸디나비아** ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **5** | 0 | ::{ flag=VE }:: 베네수엘라 | -win by default- |
+| E5 | 베네수엘라 ::{ flag=VE }:: | 0 | **5** | ::{ flag=DE }:: **독일 A** | -win by default- |
+| D2 | **브라질** ::{ flag=BR }:: | **5** | 3 | ::{ flag=US }:: 미국 A | [#1](https://osu.ppy.sh/community/matches/54181034) |
 
 ## 규칙
 
@@ -485,35 +485,3 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
    - 모드와 곡은 랜덤으로 결정됩니다. (원문: the mod will be picked randomly according to a roll (according to a table) and then the map picked thanks to a wheel)
    - 팀원 교체에 대한 제한은 없습니다.
    - 연결 끊김에 대한 규칙은 일반 대전과 동일합니다.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "아르헨티나"
-[flag_AT]: /wiki/shared/flag/AT.gif "오스트리아"
-[flag_AU]: /wiki/shared/flag/AU.gif "오스트레일리아"
-[flag_BR]: /wiki/shared/flag/BR.gif "브라질"
-[flag_CA]: /wiki/shared/flag/CA.gif "캐나다"
-[flag_CL]: /wiki/shared/flag/CL.gif "칠레"
-[flag_CN]: /wiki/shared/flag/CN.gif "중국"
-[flag_DE]: /wiki/shared/flag/DE.gif "독일"
-[flag_DK]: /wiki/shared/flag/DK.gif "덴마크"
-[flag_EC]: /wiki/shared/flag/EC.gif "에콰도르"
-[flag_ES]: /wiki/shared/flag/ES.gif "스페인"
-[flag_FR]: /wiki/shared/flag/FR.gif "프랑스"
-[flag_GB]: /wiki/shared/flag/GB.gif "영국"
-[flag_HK]: /wiki/shared/flag/HK.gif "홍콩"
-[flag_ID]: /wiki/shared/flag/ID.gif "인도네시아"
-[flag_JP]: /wiki/shared/flag/JP.gif "일본"
-[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
-[flag_MX]: /wiki/shared/flag/MX.gif "멕시코"
-[flag_MY]: /wiki/shared/flag/MY.gif "말레이시아"
-[flag_NL]: /wiki/shared/flag/NL.gif "네덜란드"
-[flag_NO]: /wiki/shared/flag/NO.gif "노르웨이"
-[flag_PH]: /wiki/shared/flag/PH.gif "필리핀"
-[flag_PL]: /wiki/shared/flag/PL.gif "폴란드"
-[flag_PT]: /wiki/shared/flag/PT.gif "포르투갈"
-[flag_RU]: /wiki/shared/flag/RU.gif "러시아"
-[flag_SE]: /wiki/shared/flag/SE.gif "스웨덴"
-[flag_SG]: /wiki/shared/flag/SG.gif "싱가포르"
-[flag_TH]: /wiki/shared/flag/TH.gif "태국"
-[flag_TW]: /wiki/shared/flag/TW.gif "대만"
-[flag_US]: /wiki/shared/flag/US.gif "미국"
-[flag_VE]: /wiki/shared/flag/VE.gif "베네수엘라"

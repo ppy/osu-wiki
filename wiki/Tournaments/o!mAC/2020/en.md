@@ -38,14 +38,14 @@ The osu!mania Asian's Champions 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) |
-| Co-host | ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388) |
-| Mappool selector | ![][flag_ID] [Cims](https://osu.ppy.sh/users/15159469), ![][flag_ID] [LuxSayaka](https://osu.ppy.sh/users/8382579), ![][flag_TH] [-[DaNieL_TH]-](https://osu.ppy.sh/users/6456531) |
-| Streamer | ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_MY] [[MY]Solut1on\_](https://osu.ppy.sh/users/14262785), ![][flag_VN] [DanX](https://osu.ppy.sh/users/10542408) |
-| Commentator | ![][flag_US] [[GS]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_US] [[GS]Aussie](https://osu.ppy.sh/users/13395045), ![][flag_US] [[GS]Croniken](https://osu.ppy.sh/users/9989041), ![][flag_CL] [[GS]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
-| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939), ![][flag_ID] [Yukari\_Sama](https://osu.ppy.sh/users/6316524), ![][flag_PH] [Gerwin13](https://osu.ppy.sh/users/15776185), ![][flag_PH] [MowseChow](https://osu.ppy.sh/users/11341964), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711) |
-| Statistician | ![][flag_VN] [MashedPotato](https://osu.ppy.sh/users/10494860) |
-| Wiki editor | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Host | ::{ flag=ID }:: [Mirea](https://osu.ppy.sh/users/8404646) |
+| Co-host | ::{ flag=PH }:: [vincent4399](https://osu.ppy.sh/users/9764388) |
+| Mappool selector | ::{ flag=ID }:: [Cims](https://osu.ppy.sh/users/15159469), ::{ flag=ID }:: [LuxSayaka](https://osu.ppy.sh/users/8382579), ::{ flag=TH }:: [-[DaNieL_TH]-](https://osu.ppy.sh/users/6456531) |
+| Streamer | ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=MY }:: [[MY]Solut1on\_](https://osu.ppy.sh/users/14262785), ::{ flag=VN }:: [DanX](https://osu.ppy.sh/users/10542408) |
+| Commentator | ::{ flag=US }:: [[GS]Antunder](https://osu.ppy.sh/users/10416995), ::{ flag=US }:: [[GS]Aussie](https://osu.ppy.sh/users/13395045), ::{ flag=US }:: [[GS]Croniken](https://osu.ppy.sh/users/9989041), ::{ flag=CL }:: [[GS]Myuka](https://osu.ppy.sh/users/10072733), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) |
+| Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=ID }:: [by-ad](https://osu.ppy.sh/users/7439939), ::{ flag=ID }:: [Yukari\_Sama](https://osu.ppy.sh/users/6316524), ::{ flag=PH }:: [Gerwin13](https://osu.ppy.sh/users/15776185), ::{ flag=PH }:: [MowseChow](https://osu.ppy.sh/users/11341964), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711) |
+| Statistician | ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860) |
+| Wiki editor | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
@@ -62,9 +62,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: [WLYMinato](https://osu.ppy.sh/users/12703319) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
 
 ## Mappools
 
@@ -250,16 +250,3 @@ Check the results in this [statistics sheet](https://docs.google.com/spreadsheet
 - All matches will be run according to the schedule time unless there is a re-schedule request by the players.
 - Postponement will be given for 10 minutes if there are still players who have not entered the match lobby.
 - In case there's a player who has not entered the match lobby after 10 minutes suspension, we will start counting the match points accumulatively. 1 match point will goes to the attending player per 5 minutes. This will be running continuously until the third 5 minutes ends and the match will be declared as **Win by Default**.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

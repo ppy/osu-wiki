@@ -34,15 +34,15 @@ The Skinning Contest #3 is run by various community members.
 
 | User | Responsibility |
 | :-- | :-- |
-| ::{ flag="DE" }:: [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning |
-| ::{ flag="RO" }:: [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
-| ::{ flag="NL" }:: [Roan](https://osu.ppy.sh/users/8214639) | Contest planning, internal tool development |
-| ::{ flag="DE" }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
-| ::{ flag="PL" }:: [Redo_](https://osu.ppy.sh/users/7122165) | Contest planning, graphic design |
-| ::{ flag="GB" }:: [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
-| ::{ flag="NL" }:: [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
-| ::{ flag="PL" }:: [watterino](https://osu.ppy.sh/users/3512261) | Video editor |
-| ::{ flag="TR" }:: [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning, newspost writer |
+| ::{ flag=DE }:: [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning |
+| ::{ flag=RO }:: [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Contest planning, internal tool development |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Contest planning, graphic design |
+| ::{ flag=GB }:: [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
+| ::{ flag=NL }:: [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
+| ::{ flag=PL }:: [watterino](https://osu.ppy.sh/users/3512261) | Video editor |
+| ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning, newspost writer |
 
 ## Links
 

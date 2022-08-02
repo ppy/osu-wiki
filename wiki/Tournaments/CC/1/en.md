@@ -10,7 +10,7 @@ tags:
 
 ![CC logo](img/logo.png)
 
-The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tournament hosted by ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the first instalment of the Corgi Cup.
+The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tournament hosted by ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), and ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973). It was the first instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -37,13 +37,13 @@ Corgi Cup: June 2016 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710) |
-| Co-host | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
-| Mappool selector | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_PL] [Wilchq](https://osu.ppy.sh/users/2021758) |
-| Streamer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
-| Commentator | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [- Isozaki -](https://osu.ppy.sh/users/3987676), ![][flag_GB] [Doomsday is bad](https://osu.ppy.sh/users/3481378) |
-| Designer | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
-| Referee | ![][flag_RS] [SirCircle](https://osu.ppy.sh/users/3794917), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_FI] [M8gazine](https://osu.ppy.sh/users/5039710) |
+| Host | ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710) |
+| Co-host | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
+| Mappool selector | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758) |
+| Streamer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
+| Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [- Isozaki -](https://osu.ppy.sh/users/3987676), ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378) |
+| Designer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
+| Referee | ::{ flag=RS }:: [SirCircle](https://osu.ppy.sh/users/3794917), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710) |
 
 ## Links
 
@@ -55,10 +55,10 @@ Corgi Cup: June 2016 was run by various community members.
 
 | Seed | Members |
 | :-: | :-- |
-| Group A | ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_GB] Sopison <!-- missing -->, ![][flag_US] [Micmck101](https://osu.ppy.sh/users/5117269), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176) |
-| Group B | ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238), ![][flag_US] [Lazulite](https://osu.ppy.sh/users/4094169), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_GB] [djsettle](https://osu.ppy.sh/users/4010354) |
-| Group C | ![][flag_SE] [Atrocious](https://osu.ppy.sh/users/5126607), ![][flag_GB] [Seraxis](https://osu.ppy.sh/users/5068922), ![][flag_GB] [MagicMantwon](https://osu.ppy.sh/users/6183136), ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446) |
-| Group D | ![][flag_GB] [rafalbrew](https://osu.ppy.sh/users/3872602), ![][flag_GB] [YouKittenMe](https://osu.ppy.sh/users/6129402), ![][flag_DE] [Blegie](https://osu.ppy.sh/users/6063132), ![][flag_CZ] [NyarkoO](https://osu.ppy.sh/users/6622567) |
+| Group A | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=GB }:: Sopison <!-- missing -->, ::{ flag=US }:: [Micmck101](https://osu.ppy.sh/users/5117269), ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |
+| Group B | ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238), ::{ flag=US }:: [Lazulite](https://osu.ppy.sh/users/4094169), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354) |
+| Group C | ::{ flag=SE }:: [Atrocious](https://osu.ppy.sh/users/5126607), ::{ flag=GB }:: [Seraxis](https://osu.ppy.sh/users/5068922), ::{ flag=GB }:: [MagicMantwon](https://osu.ppy.sh/users/6183136), ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446) |
+| Group D | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602), ::{ flag=GB }:: [YouKittenMe](https://osu.ppy.sh/users/6129402), ::{ flag=DE }:: [Blegie](https://osu.ppy.sh/users/6063132), ::{ flag=CZ }:: [NyarkoO](https://osu.ppy.sh/users/6622567) |
 
 ## Podium
 
@@ -66,9 +66,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [rafalbrew](https://osu.ppy.sh/users/3872602) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [zelda101](https://osu.ppy.sh/users/4502238) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238) |
 
 ## Mappools
 
@@ -180,7 +180,7 @@ Sunday, 19 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **rafalbrew** ![][flag_GB] | **4** | 1 | ![][flag_GB] Pelzio | [#1](https://osu.ppy.sh/community/matches/25744050) |
+| **rafalbrew** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Pelzio | [#1](https://osu.ppy.sh/community/matches/25744050) |
 
 #### Third place match
 
@@ -188,7 +188,7 @@ Sunday, 19 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **zelda101** ![][flag_US] | **4** | 0 | ![][flag_GB] dong | [#1](https://osu.ppy.sh/community/matches/25744734) |
+| **zelda101** ::{ flag=US }:: | **4** | 0 | ::{ flag=GB }:: dong | [#1](https://osu.ppy.sh/community/matches/25744734) |
 
 ### Semifinals
 
@@ -196,8 +196,8 @@ Sunday, 19 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| zelda101 ![][flag_US] | 2 | **4** | ![][flag_GB] **rafalbrew** | [#1](https://osu.ppy.sh/community/matches/25742222) |
-| **Pelzio** ![][flag_GB] | **4** | 3 | ![][flag_GB] dong | [#1](https://osu.ppy.sh/community/matches/25743314) |
+| zelda101 ::{ flag=US }:: | 2 | **4** | ::{ flag=GB }:: **rafalbrew** | [#1](https://osu.ppy.sh/community/matches/25742222) |
+| **Pelzio** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: dong | [#1](https://osu.ppy.sh/community/matches/25743314) |
 
 ### Quarterfinals
 
@@ -205,10 +205,10 @@ Sunday, 19 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Seraxis ![][flag_GB] | 3 | **4** | ![][flag_US] **zelda101** | [#1](https://osu.ppy.sh/community/matches/25737972) |
-| **Pelzio** ![][flag_GB] | **4** | 1 | ![][flag_US] MicMck101 | [#1](https://osu.ppy.sh/community/matches/25739013) |
-| **dong** ![][flag_GB] | **4** | 3 | ![][flag_GB] djsettle | [#1](https://osu.ppy.sh/community/matches/25741329) |
-| Hydria ![][flag_GB] | 2 | **4** | ![][flag_GB] **rafalbrew** | [#1](https://osu.ppy.sh/community/matches/25740307) |
+| Seraxis ::{ flag=GB }:: | 3 | **4** | ::{ flag=US }:: **zelda101** | [#1](https://osu.ppy.sh/community/matches/25737972) |
+| **Pelzio** ::{ flag=GB }:: | **4** | 1 | ::{ flag=US }:: MicMck101 | [#1](https://osu.ppy.sh/community/matches/25739013) |
+| **dong** ::{ flag=GB }:: | **4** | 3 | ::{ flag=GB }:: djsettle | [#1](https://osu.ppy.sh/community/matches/25741329) |
+| Hydria ::{ flag=GB }:: | 2 | **4** | ::{ flag=GB }:: **rafalbrew** | [#1](https://osu.ppy.sh/community/matches/25740307) |
 
 ### Round of 16
 
@@ -216,14 +216,14 @@ Saturday, 18 June 2016:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Atrocious ![][flag_SE] | 3 | **4** | ![][flag_GB] **dong** | [#1](https://osu.ppy.sh/community/matches/25710268) |
-| Sopison ![][flag_GB] | 0 | **4** | ![][flag_GB] **djsettle** | [#1](https://osu.ppy.sh/community/matches/25711194) |
-| **Pelzio** ![][flag_GB] | **4** | 1 | ![][flag_GB] MagicMantwon | [#1](https://osu.ppy.sh/community/matches/25711910) |
-| Lazulite ![][flag_US] | 3 | **4** | ![][flag_GB] **Hydria** | [#1](https://osu.ppy.sh/community/matches/25712820) |
-| **rafalbrew** ![][flag_GB] | **4** | 0 | ![][flag_GB] SteffoST | [#1](https://osu.ppy.sh/community/matches/25713279) |
-| **Seraxis** ![][flag_GB] | **4** | 0 | ![][flag_CZ] NyarkoO | [#1](https://osu.ppy.sh/community/matches/25715231) |
-| **zelda101** ![][flag_GB] | **4** | 1 | ![][flag_DE] Blegie | [#1](https://osu.ppy.sh/community/matches/25715822) |
-| YouKittenMe ![][flag_GB] | 2 | **4** | ![][flag_US] **MicMck101** | [#1](https://osu.ppy.sh/community/matches/25716816) |
+| Atrocious ::{ flag=SE }:: | 3 | **4** | ::{ flag=GB }:: **dong** | [#1](https://osu.ppy.sh/community/matches/25710268) |
+| Sopison ::{ flag=GB }:: | 0 | **4** | ::{ flag=GB }:: **djsettle** | [#1](https://osu.ppy.sh/community/matches/25711194) |
+| **Pelzio** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: MagicMantwon | [#1](https://osu.ppy.sh/community/matches/25711910) |
+| Lazulite ::{ flag=US }:: | 3 | **4** | ::{ flag=GB }:: **Hydria** | [#1](https://osu.ppy.sh/community/matches/25712820) |
+| **rafalbrew** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: SteffoST | [#1](https://osu.ppy.sh/community/matches/25713279) |
+| **Seraxis** ::{ flag=GB }:: | **4** | 0 | ::{ flag=CZ }:: NyarkoO | [#1](https://osu.ppy.sh/community/matches/25715231) |
+| **zelda101** ::{ flag=GB }:: | **4** | 1 | ::{ flag=DE }:: Blegie | [#1](https://osu.ppy.sh/community/matches/25715822) |
+| YouKittenMe ::{ flag=GB }:: | 2 | **4** | ::{ flag=US }:: **MicMck101** | [#1](https://osu.ppy.sh/community/matches/25716816) |
 
 ## Ruleset
 
@@ -239,12 +239,3 @@ Saturday, 18 June 2016:
 - Hard Rock and Double Time mappools can be played with Hidden if the player wants to.
 - Score V2 will be used.
 - Free Mod can be any mod the player decides (including EZ + FL).
-
-[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
