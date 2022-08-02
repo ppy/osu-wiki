@@ -54,7 +54,7 @@ L'Advanced Global Taiko Showdown 2019 était organisée par plusieurs membres de
 ## Liens
 
 - [Thread de discussion](https://osu.ppy.sh/community/forums/topics/931003)
-- [Serveur Discord de l'AGTS](https://discord.gg/zbHVzvF)
+- [Serveur Discord de l'GTS](https://discord.gg/3mGC3HB)
 - [Diffusion en direct](https://www.twitch.tv/gtsosu)
 - [Tableaux Challonge](https://challonge.com/AGTS2019)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
