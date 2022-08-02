@@ -29,10 +29,10 @@ L'**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) est un tournoi par p
 | Classement | Prix |
 | :-: | :-- |
 | ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | Un badge unique sur le profil, une bannière d'équipe exclusive |
-| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | Une bannière d'équipe exclusive |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | Une bannière d'équipe exclusive |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | Une bannière d'équipe exclusive |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | Une bannière d'équipe exclusive |
 
-![](img/badge.png "Badge du vainqueur de l'AGTS 2019")
+![](img/badge.png "Badge des gagnants de l'AGTS 2019")
 
 ## Organisation
 
@@ -49,12 +49,12 @@ L'Advanced Global Taiko Showdown 2019 était organisée par plusieurs membres de
 | Statisticien | ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=CA }:: [Leadenginger](https://osu.ppy.sh/users/3799991), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666) |
 | Traducteur | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=KR }:: [BamgoeSN](https://osu.ppy.sh/users/1152851), ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=TW }:: [InfinityAstral](https://osu.ppy.sh/users/9913256), ::{ flag=US }:: [jyake](https://osu.ppy.sh/users/9099822), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Développeur | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
-| Editeur du Wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Éditeur du Wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Liens
 
-- [Thread de discussion](https://osu.ppy.sh/community/forums/topics/931003)
-- [Serveur Discord de l'GTS](https://discord.gg/3mGC3HB)
+- [Fil de discussion](https://osu.ppy.sh/community/forums/topics/931003)
+- [Serveur Discord du GTS](https://discord.gg/3mGC3HB)
 - [Diffusion en direct](https://www.twitch.tv/gtsosu)
 - [Tableaux Challonge](https://challonge.com/AGTS2019)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
@@ -111,11 +111,11 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 | Classement | Pays |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=JP }:: Japon |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "2nde place") | ::{ flag=CA }:: Canada |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=JP }:: Japon |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=CA }:: Canada |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=RU }:: Russie A |
 
-## Liste des beatmaps
+## Mappools
 
 ### Grande Finale
 
@@ -282,7 +282,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Grande Finale
 
-Samedi, 14 Septembre 2019:
+Samedi 14 septembre 2019 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -290,13 +290,13 @@ Samedi, 14 Septembre 2019:
 
 ### Finales
 
-Samedi, 7 Septembre 2019:
+Samedi 7 septembre 2019 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Japon** ::{ flag=JP }:: | **7** | 1 | ::{ flag=RU }:: Russie A | [#1](https://osu.ppy.sh/community/matches/54674122) |
 
-Dimanche, 8 Septembre 2019:
+Dimanche 8 septembre 2019 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -305,7 +305,7 @@ Dimanche, 8 Septembre 2019:
 
 ### Demi-finales
 
-Samedi, 31 Aout 2019:
+Samedi 31 août 2019 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -313,7 +313,7 @@ Samedi, 31 Aout 2019:
 | **Russie A** ::{ flag=RU }:: | **7** | 2 | ::{ flag=TW }:: Taïwan | [#1](https://osu.ppy.sh/community/matches/54507108) |
 | Argentine ::{ flag=AR }:: | 4 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/54515229) |
 
-Dimanche, 1 Septembre 2019:
+Dimanche 1 septembre 2019 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -323,7 +323,7 @@ Dimanche, 1 Septembre 2019:
 
 ### Quarts de finale
 
-Samedi, 24 Aout 2019:
+Samedi 24 août 2019 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -335,7 +335,7 @@ Samedi, 24 Aout 2019:
 | Pologne ::{ flag=PL }:: | 1 | **6** | ::{ flag=ID }:: **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
 | **Canada** ::{ flag=CA }:: | **6** | 1 | ::{ flag=RU }:: Russie B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
-Dimanche, 25 Aout 2019:
+Dimanche 25 août 2019 : 
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -347,7 +347,7 @@ Dimanche, 25 Aout 2019:
 
 ### Phases de poules
 
-Samedi, 17 Aout 2019:
+Samedi 17 août 2019 :
 
 | Groupe | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -366,7 +366,7 @@ Samedi, 17 Aout 2019:
 | B5 | Chili ::{ flag=CL }:: | 0 | **5** | ::{ flag=AR }:: **Argentine** | [#1](https://osu.ppy.sh/community/matches/54153575) |
 | C3 | **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=GB }:: ::{ flag=PT }:: Royaume-Uni/Portugal | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
-Dimanche, 18 Aout 2019:
+Dimanche 18 août 2019 : 
 
 | Groupe | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |
