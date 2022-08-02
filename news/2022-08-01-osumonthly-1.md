@@ -19,7 +19,7 @@ With all this out of the way, let's dive straight into the news!
 - [What's new in osu!](#what's-new-in-osu!?)
 - [Top scores of the month](#top-scores-of-the-month)
 - [New features in osu!(lazer)](#new-features-in-osu!(lazer))
-- [Montly community quiz](#monthly-community-quiz)
+- [Monthly community quiz](#monthly-community-quiz)
 - [End word](#end-word)
 
 ## What's new in osu!?
@@ -62,13 +62,9 @@ Not content to allow osu! to vacuum up all the glory, the members of the osu!tai
 
 Showcasing some of the best drum bashers the community has to offer, EGTS has a storied history of being one of the most competitively and visually impressive contests around, sporting enough dons and kats to even make the Taikonator blush.
 
-The GTS team's insanely talented designer ::{{ flag=PH }}:: [OsuMe65](https://osu.ppy.sh/users/852867), has also made a trailer for the tournament. Check it out and leave your thoughts down below!
+The GTS team's insanely talented designer [OsuMe65](https://osu.ppy.sh/users/852867), has also made a trailer for the tournament. Check it out and leave your thoughts down below!
 
-<div align="center">
-    <video width="100%" controls>
-        <source src="https://www.youtube.com/watch?v=9RtCEP0e9H8" type="video/mp4" preload="none">
-    </video>
-</div> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9RtCEP0e9H8" frameborder="0" allowfullscreen></iframe>
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -88,7 +84,7 @@ With the recent change of swapping from a Group Stage to a Qualifier format, mos
 
 ---
 
-Plenty of tournaments are running all across the community even after the conclusion of the osu!catch World Cup and the various "digit" tournaments (such as [4 Digit Catch World Cup 2022](/wiki/Tournaments/4CWC/2022) and [3 Digit Catch World Cup 2022](https://osu.ppy.sh/community/forums/topics/1580097)), with other regional tournmaents like [Catch French Dual Cup 2](https://osu.ppy.sh/community/forums/topics/1605746) entering the registration phase. 
+Plenty of tournaments are running all across the community even after the conclusion of the osu!catch World Cup and the various "digit" tournaments (such as [4 Digit Catch World Cup 2022](/wiki/Tournaments/4CWC/2022) and [3 Digit Catch World Cup 2022](https://osu.ppy.sh/community/forums/topics/1580097)), with other regional tournaments like [Catch French Dual Cup 2](https://osu.ppy.sh/community/forums/topics/1605746) entering the registration phase.
 
 Keep your eyes peeled for next month's issue, as this section is sure to swell once we start entering the closing months of the year and tournaments ramp up into full gear.
 
@@ -122,19 +118,19 @@ Whew! If you thought the pick for osu! was crazy, wait 'till you watch [shinchik
 
 This taiko play is set at an average of 411 BPM. Yes, you read that right, **411 BPM**! This is truly an insane play for any speed enthusiast and absolute taiko enjoyer. Make sure to show some love and enjoy the absolute speed demon plays shinichikuhome is known for!
 
-<iframe width="100%" height="315" src="https://youtu.be/embed/hKwIKC-DvcU" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://youtube.com/embed/hKwIKC-DvcU" frameborder="0" allowfullscreen></iframe>
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 #### Superstars strike
 
-The mania k-pop community is going to be absolutely ecstatic at this next showcase. 
+The mania k-pop community is going to be absolutely ecstatic at this next showcase.
 
 With [Onta_Bekasi](https://osu.ppy.sh/users/8677684) not just clearing but FCing the deceptively difficult yet soothing myriad of LNs and intricate patterns that [My Man](https://osu.ppy.sh/beatmapsets/514681#mania/1093212) so elegantly puts on display, the decision as to what to pick for July's monthly score was all but made for us.
 
 Enduring only a tiny 0.02% accuracy drop across a 3-minute long slog of over 5000 notes, Onta_Bekasi's showing is top tier stuff, and we think you'll understand why after seeing it for yourself below.
 
-<iframe width="100%" height="315" src="https://youtu.be/embed/1RuyJ3y_ot4" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://youtube.com/embed/1RuyJ3y_ot4" frameborder="0" allowfullscreen></iframe>
 
 #### Millions of long notes
 
@@ -142,7 +138,7 @@ Witness this shocking performance by [[GS]Myuka](https://osu.ppy.sh/users/100727
 
 If you thought the deluge of long notes in *My Man* was something, just wait until you see this 7 minute map of non-stop madness, featuring not only single-note rainbows and glissandos, but an interconnected web of the two. It is an impeccable display of skill, accuracy, speed, and just what osu!monthly is looking for in a showcase!
 
-<iframe width="100%" height="315" src="https://youtu.be/embed/nc_ejGtZKUM" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://youtube.com/embed/nc_ejGtZKUM" frameborder="0" allowfullscreen></iframe>
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 

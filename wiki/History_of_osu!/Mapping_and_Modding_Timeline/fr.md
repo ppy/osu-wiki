@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 27be3f6214c7f8e984b234823d56fe0bd50a208c
+---
+
 # Calendrier de mapping et de modding
 
 Les systèmes de mapping et de modding sont en constante amélioration. Le **calendrier de mapping et de modding** vise à documenter les plus grands changements apportés au système et à servir d'outil de référence lorsque les utilisateurs intègrent de nouvelles modifications.
