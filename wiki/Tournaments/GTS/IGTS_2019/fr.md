@@ -33,8 +33,7 @@ L'**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) était un tourno
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | bannière d'équipe exclusive |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | bannière d'équipe exclusive |
 
-![](img/badge.png "IGTS 2019 winner badge")
-![](img/badge.png, "Badge des gagnants de l'IGTS 2019")
+![](img/badge.png "Badge des gagnants de l'IGTS 2019")
 
 ## Organisation
 
@@ -57,6 +56,8 @@ L'Intermediate Global Taiko Showdown 2019 était organisé par différents membr
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/906298)
 - [Serveur Discord de l'IGTS](https://discord.gg/a6PzzFz)
+- [Serveur Discord de l'GTS](https://discord.gg/3mGC3HB)
+- [Site de GTS](https://gtsosu.com/)
 - [Livestream](https://www.twitch.tv/igtsosu)
 - [Tableaux Challonge](https://challonge.com/dqq46siu)
 - [Site de Pick'em](https://pickem.hwc.hr/tournaments/8) host par ![flag_DE] ![hallowatcher](https://osu.ppy.sh/users/1874761)
