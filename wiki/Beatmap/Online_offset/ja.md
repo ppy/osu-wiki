@@ -9,7 +9,7 @@ tags:
 
 **オンラインオフセット**は、[ビートマップ](/wiki/Beatmap)が[Ranked](/wiki/Beatmap/Category#ranked)になった後にビートマップに適用できるオフセットです。これは通常、ビートマップが曲のタイミングに合っていない場合に行われます。オンラインオフセットは、プレイヤーのグローバルオフセットとローカルオフセットの上に適用されます。
 
-これは、[ノミネーションアシスタントチーム](/wiki/People/The_Team/Nomination_Assessment_Team)(NAT)が設定でき、[ビートマップノミネーター](/wiki/People/The_Team/Beatmap_Nominators)(BN)や[開発者](/wiki/People/The_Team/Global_Moderation_Team)など、一部の昇格したユーザーからも見ることができます。また、オンラインオフセットは、Webサイトでは通常のユーザーからは見ることはできませんが、ゲーム画面では表示されます。  
+これは、[ノミネーションアシスタントチーム](/wiki/People/The_Team/Nomination_Assessment_Team)(NAT)が設定でき、[ビートマップノミネーター](/wiki/People/The_Team/Beatmap_Nominators)(BN)や[開発者](/wiki/People/The_Team/Global_Moderation_Team)など、一部の昇格したユーザーからも見ることができます。また、オンラインオフセットは、Webサイトでは通常のユーザーからは見ることはできませんが、ゲーム画面では表示されます。 
 以下は、オンラインオフセットを見ることができる昇格ユーザーにはどのように表示されるかを示しています。
 
 ![Web上でのオンラインオフセットの表示](img/online_offset.jpg)
