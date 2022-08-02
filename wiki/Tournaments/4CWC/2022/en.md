@@ -113,19 +113,19 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
   3. [Dreamcatcher - GOOD NIGHT (Natsu) \[Afternoon\]](https://osu.ppy.sh/beatmapsets/603905#fruits/1283463)
   4. [Function Phantom - Paradox (byfar) \[J1's Insane\]](https://osu.ppy.sh/beatmapsets/824125#fruits/1756217)
 - Hidden
-  1. [DJ TOTTO feat. *spiLa* - illumina (Imai Lisa) \[Platter\]](https://osu.ppy.sh/beatmapsets/880513#fruits/2594189)
+  1. [DJ TOTTO feat. \*spiLa\* - illumina (Imai Lisa) \[Platter\]](https://osu.ppy.sh/beatmapsets/880513#fruits/2594189)
   2. [Can't Stop Won't Stop (feat. Fresh Big Mouf) - Mighty & High (thiev) \[Extra\]](https://osu.ppy.sh/beatmapsets/770361#fruits/1952154)
-- Hard Rock
+- HardRock
   1. [Yuzuki - Dear You (DJ Genericname DnB Remix) (R-34) \[R-34 & M0RU's Salad (4CWC Edit.)\]](https://osu.ppy.sh/beatmapsets/1819634#fruits/3733788)
   2. [Yuna (CV: Kanda Sayaka) - Break Beat Bark! (Cut Ver.) (-Crimson-) \[Hard\]](https://osu.ppy.sh/beatmapsets/1285419#fruits/2670654)
-- Double Time
+- DoubleTime
   1. [BLANKFIELD - Retrospective City (Nelly) \[Collab Platter\]](https://osu.ppy.sh/beatmapsets/1203586#fruits/2531997)
   2. [petit milady - azurite (garden) \[ArThasCD's hard\]](https://osu.ppy.sh/beatmapsets/777993#fruits/1653983)
-- Mixed Mod
-  1. [trapman featuring CreeperWorks - minefield surfing (Nelly) \[Platter\]](https://osu.ppy.sh/beatmapsets/1819363#fruits/3733108)
+- MixedMod
+  1. [trapman featuring CreeperWorks - minefield surfing (Nelly) \[Salad\]](https://osu.ppy.sh/beatmapsets/1819363#fruits/3733108)
   2. [Nekomata Master - Byakuya Gentou (ignorethis) \[Hyper\])](https://osu.ppy.sh/beatmapsets/36849#fruits/119376)
 - Tiebreaker
-  1. [Camellia feat. Nanahira - Bassline Yatteru? w (Kukkai) \[Rain\])](https://osu.ppy.sh/beatmapsets/1643938#fruits/3356878)
+  1. **[Camellia feat. Nanahira - Bassline Yatteru? w (Kukkai) \[Rain\])](https://osu.ppy.sh/beatmapsets/1643938#fruits/3356878)**
 
 ### Qualifiers
 
@@ -136,18 +136,18 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
 - Hidden
   1. [Synthion - Aurora (wonjae) \[Syamu's Rain\]](https://osu.ppy.sh/beatmapsets/1290796#fruits/2686307)
   2. [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[Djulus' Insane\]](https://osu.ppy.sh/beatmapsets/1312079#fruits/2755563)
-- Hard Rock
+- HardRock
   1. [Raimukun - Firmament star (Jemzuu) \[Rustyy's Platter\]](https://osu.ppy.sh/beatmapsets/1633703#fruits/3345430)
   2. [nmk - sola (sjoy) \[cwR's Insane\]](https://osu.ppy.sh/beatmapsets/183267#fruits/440413)
-- Double Time
+- DoubleTime
   1. [solfa feat. Ceui - melty love (-Luminate) \[Platter\]](https://osu.ppy.sh/beatmapsets/1617558#fruits/3310327)
   2. [cosMo@BousouP - Oceanus (Broccoly) \[Irreversible's Hard\]](https://osu.ppy.sh/beatmapsets/267767#fruits/650188)
 
-## Match Results
+## Match results
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1Yd3iHhU1ABF0MOxUFR9FJAeMcXtGBZkBuC_N7dX4bfc/edit#gid=429273414).
+The final standings for the qualifiers can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Yd3iHhU1ABF0MOxUFR9FJAeMcXtGBZkBuC_N7dX4bfc/edit#gid=429273414).
 
 | Seed | Country | Points |
 | :-: | :-- | :-- |
