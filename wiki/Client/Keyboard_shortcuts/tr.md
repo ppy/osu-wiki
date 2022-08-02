@@ -41,7 +41,7 @@ Bu kısayollar her yerde çalışır:
 | `Esc` | Geri dön veya iptal et. |
 | `P`, `E`, veya `O` | Oynama menüsünü aç. |
 | `P` üç kez | Solo'ya gir. |
-| `P` iki kez, sonra `M` | [Çoklu](/wiki/Gameplay/Multiplayer)'ya gir. |
+| `P` iki kez, sonra `M` | [Çoklu](/wiki/Client/Interface/Multiplayer)'ya gir. |
 | `E` iki kez | Düzenleme moduna gir. |
 | `O` | Ayarlar yan çubuğunu aç. |
 | `Q` | Çıkış istemcisini görüntüle. |

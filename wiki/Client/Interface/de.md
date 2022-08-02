@@ -55,12 +55,12 @@ Greife auf diesen Dialog durch das Klicken deines Profils in der linken oberen E
 Nach dem Drücken von `Play` im Hauptmenü kannst du zwischen 3 Optionen auswählen:
 
 - Klicke auf `Solo` (oder drücke `P`), um für dich selbst zu spielen. Das führt dich weiter zur [Songauswahl](#songauswahl).
-- Klicke auf `Multi` (oder drücke `M`), um mit anderen Leuten zu spielen. Du wirst zur [Mehrspieler](/wiki/Gameplay/Multiplayer)-Lobby weitergeleitet.
+- Klicke auf `Multi` (oder drücke `M`), um mit anderen Leuten zu spielen. Du wirst zur [Mehrspieler](/wiki/Client/Interface/Multiplayer)-Lobby weitergeleitet.
 - Klicke auf `Back`, um zum Hauptmenü zurückzugelangen.
 
 ### Mehrspieler-Lobby
 
-*Hauptseite: [Mehrspieler](/wiki/Gameplay/Multiplayer)*
+*Hauptseite: [Mehrspieler](/wiki/Client/Interface/Multiplayer)*
 
 ![](img/multi-lobby-DE.jpg "Mehrspieler-Lobby")
 

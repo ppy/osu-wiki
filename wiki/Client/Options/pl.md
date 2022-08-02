@@ -19,7 +19,7 @@ Ta sekcja jest poświęcona twojemu kontu, ustawieniom języka i aktualizacjom.
 
 ### Logowanie
 
-Jeżeli nie zalogujesz się w kliencie gry, nakładka opcji zostanie otworzona automatycznie z prośbą o zalogowanie się. Możesz ją zignorować poprzez naciśnięcie klawisza `Esc`, naciśnięcie przycisku Wstecz czy przejście do ekranu wyboru utworu. Klient gry oznaczy cię jako „gościa” i nie będziesz w stanie przesyłać wyników, pobierać danych gry czy korzystać z [trybu wielosobowego](/wiki/Gameplay/Multiplayer).
+Jeżeli nie zalogujesz się w kliencie gry, nakładka opcji zostanie otworzona automatycznie z prośbą o zalogowanie się. Możesz ją zignorować poprzez naciśnięcie klawisza `Esc`, naciśnięcie przycisku Wstecz czy przejście do ekranu wyboru utworu. Klient gry oznaczy cię jako „gościa” i nie będziesz w stanie przesyłać wyników, pobierać danych gry czy korzystać z [trybu wielosobowego](/wiki/Client/Interface/Multiplayer).
 
 Jako gość otrzymasz następujące opcje:
 
