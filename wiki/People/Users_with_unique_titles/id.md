@@ -1,6 +1,6 @@
 # Daftar pengguna dengan gelar khusus
 
-Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [gugus pengguna (*user group*)](/wiki/People/The_Team#gugus-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen unik yang mereka torehkan.
+Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [kelompok pengguna (*user group*)](/wiki/People/The_Team#kelompok-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen unik yang mereka torehkan.
 
 ## Juara bertahan World Cup
 
