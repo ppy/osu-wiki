@@ -21,8 +21,6 @@
 
 ## 常规
 
-<!-- TODO: this is missing some functional options that are leftover from very old file formats -->
-
 | 项目 | 数据类型 | 描述 | 默认值 |
 | :-- | :-- | :-- | :-- |
 | `AudioFilename` | String（字符串） | 音频文件的相对路径 | |
@@ -334,10 +332,6 @@ osu! 里有四种滑条曲线类型：
 - 一次折返
 - 长 310.123 osu! 像素
 - 在滑条头添加了 Whistle（哨声）音效，并在滑条尾添加了 soft 音效组的 Whistle（哨声）
-
-<!-- TODO: specific details about all of the other game modes (this article should provide everything necessary to parse a .osu file)
-
-also there is no info about how they convert to other game modes from an osu! beatmap -->
 
 ### osu!taiko
 
