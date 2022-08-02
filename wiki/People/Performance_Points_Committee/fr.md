@@ -2,8 +2,6 @@
 tags:
   - pp committee
   - comité des pp
-outdated_since: ead5b487acab4f9c7446891b3f88f92e152db8c1
-outdated_translation: true
 ---
 
 # Comité des points de performance
@@ -14,7 +12,7 @@ Le panel du mode osu! a été annoncé pour la première fois au public par le b
 
 Le panel du mode osu!mania a été formé le 22 avril 2022 en réponse à [un autre sondage communautaire concernant les points de performance et le star rating dans les modes osu!taiko et osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) réalisé plus tôt dans l'année, ainsi qu'en prévision d'une augmentation des efforts de développement actifs, en commençant par [un changement dans le calcul de la difficulté des relâchements de hold notes dans osu!mania](https://github.com/ppy/osu/pull/17913).
 
-Le panel du mode osu!taiko a été formé le 1er mai 2022 en réponse au même sondage que ci-dessus, avec des [prévisions de changements majeurs à l'algorithme du star rating](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
+Le panel du mode osu!taiko a été formé le 1er mai 2022 en réponse au même sondage que ci-dessus, avec des [changements majeurs à l'algorithme du star rating](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
 
 ## Membres
 

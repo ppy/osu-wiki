@@ -9,7 +9,7 @@ tags:
 
 ![UKCC9 logo](img/logo.png)
 
-The **UK Community Cup 9** (***UKCC9***) was a British 1v1 double-elimination osu! tournament hosted by ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972) and ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973). It was the ninth instalment of the UK Community Cup series and the series' fifth 1v1 competition.
+The **UK Community Cup 9** (***UKCC9***) was a British 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972) and ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973). It was the ninth instalment of the UK Community Cup series and the series' fifth 1v1 competition.
 
 ## Tournament schedule
 
@@ -39,13 +39,13 @@ The UK Community Cup 9 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappool selector | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_US] [M I L E S](https://osu.ppy.sh/users/6036351) |
-| Streamer | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
-| Commentator | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Gazzzaa](https://osu.ppy.sh/users/8624512), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_US] [M I L E S](https://osu.ppy.sh/users/6036351), ![][flag_GB] [sut\_son](https://osu.ppy.sh/users/9622163), ![][flag_GB] [T-Bounce](https://osu.ppy.sh/users/13347736), ![][flag_GB] [Angel\_kanade](https://osu.ppy.sh/users/12013857) |
-| Designer | ![][flag_CA] [Mits](https://osu.ppy.sh/users/6256255) |
-| Referee | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_PL] [Marzale](https://osu.ppy.sh/users/5194043), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_TW] [Mitsui Ruri](https://osu.ppy.sh/users/9834516), ![][flag_GB] [NightmareParty](https://osu.ppy.sh/users/15671175), ![][flag_GB] [Angel\_kanade](https://osu.ppy.sh/users/12013857) |
-| Statistician | ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
+| Manager | ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Mappool selector | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351) |
+| Streamer | ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
+| Commentator | ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Gazzzaa](https://osu.ppy.sh/users/8624512), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=GB }:: [sut\_son](https://osu.ppy.sh/users/9622163), ::{ flag=GB }:: [T-Bounce](https://osu.ppy.sh/users/13347736), ::{ flag=GB }:: [Angel\_kanade](https://osu.ppy.sh/users/12013857) |
+| Designer | ::{ flag=CA }:: [Mits](https://osu.ppy.sh/users/6256255) |
+| Referee | ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Domblade](https://osu.ppy.sh/users/6701945), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=PL }:: [Marzale](https://osu.ppy.sh/users/5194043), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=BE }:: [DraQeu](https://osu.ppy.sh/users/4425520), ::{ flag=TW }:: [Mitsui Ruri](https://osu.ppy.sh/users/9834516), ::{ flag=GB }:: [NightmareParty](https://osu.ppy.sh/users/15671175), ::{ flag=GB }:: [Angel\_kanade](https://osu.ppy.sh/users/12013857) |
+| Statistician | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
 
 ## Links
 
@@ -53,7 +53,7 @@ The UK Community Cup 9 was run by various community members.
 - [Challonge](https://challonge.com/ukcc9)
 - [Discord](https://discord.gg/EtsU7Cw)
 - [Livestream](https://twitch.tv/osuukcc)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/44) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/44) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Main spreadsheet](https://docs.google.com/spreadsheets/d/1UASxqPHMk2IJxs8rKmRtxBa27ZODFa9NoW2Ls8GW2IE/edit?usp=sharing)
 
 ## Participants
@@ -62,10 +62,10 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1UASxqPHMk2IJxs8r
 
 | Seed | Members |
 | :-- | :-- |
-| 1-8 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222), ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178) |
-| 9-16 | ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549), ![][flag_GB] [bloo](https://osu.ppy.sh/users/6778877), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [Rinnu](https://osu.ppy.sh/users/12179012), ![][flag_GB] [Chemistry](https://osu.ppy.sh/users/6069540), ![][flag_GB] [Zyphox](https://osu.ppy.sh/users/6589047) |
-| 17-24 | ![][flag_GB] [Chugger](https://osu.ppy.sh/users/4491713), ![][flag_GB] [idealnettles](https://osu.ppy.sh/users/4010354), ![][flag_GB] [notelock](https://osu.ppy.sh/users/7516484), ![][flag_GB] [hlo](https://osu.ppy.sh/users/2232928), ![][flag_GB] [web](https://osu.ppy.sh/users/4949826), ![][flag_GB] [Gazzzaa](https://osu.ppy.sh/users/8624512), ![][flag_GB] [pod](https://osu.ppy.sh/users/8237552), ![][flag_GB] [Kathalshame](https://osu.ppy.sh/users/4572097) |
-| 25-32 | ![][flag_GB] [Alevari](https://osu.ppy.sh/users/2014867), ![][flag_GB] [HonourBound](https://osu.ppy.sh/users/2945999), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [Erylie](https://osu.ppy.sh/users/6652874), ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143), ![][flag_GB] [BergkampIslord](https://osu.ppy.sh/users/11846845), ![][flag_GB] [\_Snowy](https://osu.ppy.sh/users/10710046) |
+| 1-8 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222), ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083), ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761), ::{ flag=GB }:: [Best459](https://osu.ppy.sh/users/8185366), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Voss](https://osu.ppy.sh/users/7657761), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178) |
+| 9-16 | ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=GB }:: [Ventus](https://osu.ppy.sh/users/1986262), ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549), ::{ flag=GB }:: [bloo](https://osu.ppy.sh/users/6778877), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [Rinnu](https://osu.ppy.sh/users/12179012), ::{ flag=GB }:: [Chemistry](https://osu.ppy.sh/users/6069540), ::{ flag=GB }:: [Zyphox](https://osu.ppy.sh/users/6589047) |
+| 17-24 | ::{ flag=GB }:: [Chugger](https://osu.ppy.sh/users/4491713), ::{ flag=GB }:: [idealnettles](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [notelock](https://osu.ppy.sh/users/7516484), ::{ flag=GB }:: [hlo](https://osu.ppy.sh/users/2232928), ::{ flag=GB }:: [web](https://osu.ppy.sh/users/4949826), ::{ flag=GB }:: [Gazzzaa](https://osu.ppy.sh/users/8624512), ::{ flag=GB }:: [pod](https://osu.ppy.sh/users/8237552), ::{ flag=GB }:: [Kathalshame](https://osu.ppy.sh/users/4572097) |
+| 25-32 | ::{ flag=GB }:: [Alevari](https://osu.ppy.sh/users/2014867), ::{ flag=GB }:: [HonourBound](https://osu.ppy.sh/users/2945999), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=GB }:: [Teejay](https://osu.ppy.sh/users/9499753), ::{ flag=GB }:: [Erylie](https://osu.ppy.sh/users/6652874), ::{ flag=GB }:: [Defex](https://osu.ppy.sh/users/9674143), ::{ flag=GB }:: [BergkampIslord](https://osu.ppy.sh/users/11846845), ::{ flag=GB }:: [\_Snowy](https://osu.ppy.sh/users/10710046) |
 
 ## Podium
 
@@ -73,9 +73,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
 
 ## Mappools
 
@@ -271,7 +271,7 @@ Tuesday, 13 October 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **7** | 2 | ![][flag_GB] majoreh | [#1](https://osu.ppy.sh/community/matches/68229349) |
+| **Bubbleman** ::{ flag=GB }:: | **7** | 2 | ::{ flag=GB }:: majoreh | [#1](https://osu.ppy.sh/community/matches/68229349) |
 
 #### Losers Finals
 
@@ -279,7 +279,7 @@ Sunday, 11 October 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **majoreh** ![][flag_GB] | **7** | 3 | ![][flag_GB] Kingling | [#1](https://osu.ppy.sh/community/matches/68146468) |
+| **majoreh** ::{ flag=GB }:: | **7** | 3 | ::{ flag=GB }:: Kingling | [#1](https://osu.ppy.sh/community/matches/68146468) |
 
 ### Finals
 
@@ -289,7 +289,7 @@ Friday, 2 October 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **7** | 2 | ![][flag_GB] Kingling | [#1](https://osu.ppy.sh/community/matches/67769778) |
+| **Bubbleman** ::{ flag=GB }:: | **7** | 2 | ::{ flag=GB }:: Kingling | [#1](https://osu.ppy.sh/community/matches/67769778) |
 
 #### Losers Bracket Round 4
 
@@ -297,8 +297,8 @@ Saturday, 3 October 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **majoreh** ![][flag_GB] | **7** | 3 | ![][flag_GB] Malteser | [#1](https://osu.ppy.sh/community/matches/67813436) |
-| Doomsday ![][flag_GB] | 3 | **7** | ![][flag_GB] **Voss** | [#1](https://osu.ppy.sh/community/matches/67821664) |
+| **majoreh** ::{ flag=GB }:: | **7** | 3 | ::{ flag=GB }:: Malteser | [#1](https://osu.ppy.sh/community/matches/67813436) |
+| Doomsday ::{ flag=GB }:: | 3 | **7** | ::{ flag=GB }:: **Voss** | [#1](https://osu.ppy.sh/community/matches/67821664) |
 
 #### Losers Bracket Round 5
 
@@ -306,7 +306,7 @@ Friday, 9 October 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Voss ![][flag_GB] | 5 | **7** | ![][flag_GB] **majoreh** | [#1](https://osu.ppy.sh/community/matches/68049514) |
+| Voss ::{ flag=GB }:: | 5 | **7** | ::{ flag=GB }:: **majoreh** | [#1](https://osu.ppy.sh/community/matches/68049514) |
 
 ### Semifinals
 
@@ -316,13 +316,13 @@ Sunday, 27 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Doomsday ![][flag_GB] | 3 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/67575607) |
+| Doomsday ::{ flag=GB }:: | 3 | **6** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/67575607) |
 
 Tuesday, 29 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kingling** ![][flag_GB] | **6** | 4 | ![][flag_GB] majoreh | [#1](https://osu.ppy.sh/community/matches/67655051) |
+| **Kingling** ::{ flag=GB }:: | **6** | 4 | ::{ flag=GB }:: majoreh | [#1](https://osu.ppy.sh/community/matches/67655051) |
 
 #### Losers Bracket Round 2
 
@@ -330,15 +330,15 @@ Saturday, 26 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Malteser ![][flag_GB] | 4 | **6** | ![][flag_GB] **SteffoST** | [#1](https://osu.ppy.sh/community/matches/67531195) |
-| **Ventus** ![][flag_GB] | **6** | 0 | ![][flag_GB] Best459 | [#1](https://osu.ppy.sh/community/matches/67516094) |
+| Malteser ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **SteffoST** | [#1](https://osu.ppy.sh/community/matches/67531195) |
+| **Ventus** ::{ flag=GB }:: | **6** | 0 | ::{ flag=GB }:: Best459 | [#1](https://osu.ppy.sh/community/matches/67516094) |
 
 Sunday, 27 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| bloo ![][flag_GB] | 4 | **6** | ![][flag_GB] **Apo11o** | [#1](https://osu.ppy.sh/community/matches/67577093) |
-| **Voss** ![][flag_GB] | **6** | 1 | ![][flag_GB] AJT | [#1](https://osu.ppy.sh/community/matches/67580189) |
+| bloo ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **Apo11o** | [#1](https://osu.ppy.sh/community/matches/67577093) |
+| **Voss** ::{ flag=GB }:: | **6** | 1 | ::{ flag=GB }:: AJT | [#1](https://osu.ppy.sh/community/matches/67580189) |
 
 #### Losers Bracket Round 3
 
@@ -346,8 +346,8 @@ Monday, 28 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Best459 ![][flag_GB] | 2 | **6** | ![][flag_GB] **Voss** | [#1](https://osu.ppy.sh/community/matches/67605128) |
-| **Malteser** ![][flag_GB] | **6** | 2 | ![][flag_GB] Apo11o | [#1](https://osu.ppy.sh/community/matches/67606441) |
+| Best459 ::{ flag=GB }:: | 2 | **6** | ::{ flag=GB }:: **Voss** | [#1](https://osu.ppy.sh/community/matches/67605128) |
+| **Malteser** ::{ flag=GB }:: | **6** | 2 | ::{ flag=GB }:: Apo11o | [#1](https://osu.ppy.sh/community/matches/67606441) |
 
 ### Quarterfinals
 
@@ -357,15 +357,15 @@ Saturday, 19 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kingling** ![][flag_GB] | **6** | 1 | ![][flag_GB] Voss | [#1](https://osu.ppy.sh/community/matches/67188682) |
-| Ventus ![][flag_GB] | 4 | **6** | ![][flag_GB] **majoreh** | [#1](https://osu.ppy.sh/community/matches/67197534) |
+| **Kingling** ::{ flag=GB }:: | **6** | 1 | ::{ flag=GB }:: Voss | [#1](https://osu.ppy.sh/community/matches/67188682) |
+| Ventus ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **majoreh** | [#1](https://osu.ppy.sh/community/matches/67197534) |
 
 Sunday, 20 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Malteser ![][flag_GB] | 4 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/67239556) |
-| **Doomsday** ![][flag_GB] | **6** | 4 | ![][flag_GB] bloo | [#1](https://osu.ppy.sh/community/matches/67244248) |
+| Malteser ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/67239556) |
+| **Doomsday** ::{ flag=GB }:: | **6** | 4 | ::{ flag=GB }:: bloo | [#1](https://osu.ppy.sh/community/matches/67244248) |
 
 #### Losers Bracket Round 1
 
@@ -373,15 +373,15 @@ Saturday, 19 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **AJT** ![][flag_GB] | **6** | 0 | ![][flag_GB] helix | [#1](https://osu.ppy.sh/community/matches/67185256) |
-| **Apo11o** ![][flag_GB] | **6** | 0 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/67197694) |
+| **AJT** ::{ flag=GB }:: | **6** | 0 | ::{ flag=GB }:: helix | [#1](https://osu.ppy.sh/community/matches/67185256) |
+| **Apo11o** ::{ flag=GB }:: | **6** | 0 | ::{ flag=GB }:: Defex | [#1](https://osu.ppy.sh/community/matches/67197694) |
 
 Sunday, 20 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Chemistry ![][flag_GB] | 5 | **6** | ![][flag_GB] **Best459** | [#1](https://osu.ppy.sh/community/matches/67234076) |
-| Zyphox ![][flag_GB] | 5 | **6** | ![][flag_GB] **SteffoST** | [#1](https://osu.ppy.sh/community/matches/67239336) |
+| Chemistry ::{ flag=GB }:: | 5 | **6** | ::{ flag=GB }:: **Best459** | [#1](https://osu.ppy.sh/community/matches/67234076) |
+| Zyphox ::{ flag=GB }:: | 5 | **6** | ::{ flag=GB }:: **SteffoST** | [#1](https://osu.ppy.sh/community/matches/67239336) |
 
 ### Round of 16
 
@@ -389,29 +389,29 @@ Saturday, 12 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_GB] helix | [#1](https://osu.ppy.sh/community/matches/66844354) |
-| **Ventus** ![][flag_GB] | **5** | 3 | ![][flag_GB] Apo11o | [#1](https://osu.ppy.sh/community/matches/66859222) |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: helix | [#1](https://osu.ppy.sh/community/matches/66844354) |
+| **Ventus** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Apo11o | [#1](https://osu.ppy.sh/community/matches/66859222) |
 
 Sunday, 13 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Malteser** ![][flag_GB] | **5** | 3 | ![][flag_GB] AJT | [#1](https://osu.ppy.sh/community/matches/66915971) |
-| **Kingling** ![][flag_GB] | **5** | 1 | ![][flag_GB] Zyphox | [#1](https://osu.ppy.sh/community/matches/66911681) |
-| **Voss** ![][flag_GB] | **5** | 1 | ![][flag_GB] SteffoST | [#1](https://osu.ppy.sh/community/matches/66908156) |
-| **majoreh** ![][flag_GB] | **5** | 2 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/66907899) |
+| **Malteser** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: AJT | [#1](https://osu.ppy.sh/community/matches/66915971) |
+| **Kingling** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Zyphox | [#1](https://osu.ppy.sh/community/matches/66911681) |
+| **Voss** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: SteffoST | [#1](https://osu.ppy.sh/community/matches/66908156) |
+| **majoreh** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Defex | [#1](https://osu.ppy.sh/community/matches/66907899) |
 
 Monday, 14 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **5** | 3 | ![][flag_GB] Chemistry | [#1](https://osu.ppy.sh/community/matches/66949813) |
+| **Doomsday** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Chemistry | [#1](https://osu.ppy.sh/community/matches/66949813) |
 
 Wednesday, 16 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Best459 ![][flag_GB] | 2 | **5** | ![][flag_GB] **bloo** | [#1](https://osu.ppy.sh/community/matches/67022863) |
+| Best459 ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **bloo** | [#1](https://osu.ppy.sh/community/matches/67022863) |
 
 ### Group stage
 
@@ -419,89 +419,89 @@ Wednesday, 16 September 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Best459** ![][flag_GB] | **5** | 3 | ![][flag_GB] Zyphox | [#1](https://osu.ppy.sh/community/matches/66557152) |
-| **Best459** ![][flag_GB] | **5** | 2 | ![][flag_GB] hlo | [#1](https://osu.ppy.sh/community/matches/66562953) |
-| **Best459** ![][flag_GB] | **5** | 0 | ![][flag_GB] AlexDark69 | [#1](https://osu.ppy.sh/community/matches/66569272) |
-| **Zyphox** ![][flag_GB] | **5** | 0 | ![][flag_GB] hlo | [#1](https://osu.ppy.sh/community/matches/66511327) |
-| **Zyphox** ![][flag_GB] | **5** | 1 | ![][flag_GB] AlexDark69 | [#1](https://osu.ppy.sh/community/matches/66554446) |
-| **hlo** ![][flag_GB] | **5** | 4 | ![][flag_GB] AlexDark69 | [#1](https://osu.ppy.sh/community/matches/66557007) |
+| **Best459** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Zyphox | [#1](https://osu.ppy.sh/community/matches/66557152) |
+| **Best459** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: hlo | [#1](https://osu.ppy.sh/community/matches/66562953) |
+| **Best459** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: AlexDark69 | [#1](https://osu.ppy.sh/community/matches/66569272) |
+| **Zyphox** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: hlo | [#1](https://osu.ppy.sh/community/matches/66511327) |
+| **Zyphox** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: AlexDark69 | [#1](https://osu.ppy.sh/community/matches/66554446) |
+| **hlo** ::{ flag=GB }:: | **5** | 4 | ::{ flag=GB }:: AlexDark69 | [#1](https://osu.ppy.sh/community/matches/66557007) |
 
 #### Group B
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **majoreh** ![][flag_GB] | **5** | 4 | ![][flag_GB] Chemistry | [#1](https://osu.ppy.sh/community/matches/66372112) |
-| **majoreh** ![][flag_GB] | **5** | 1 | ![][flag_GB] Alevari | [#1](https://osu.ppy.sh/community/matches/66561238) |
-| **majoreh** ![][flag_GB] | **5** | 0 | ![][flag_GB] Kathalshame | [#1](https://osu.ppy.sh/community/matches/66609579) |
-| **Chemistry** ![][flag_GB] | **5** | 0 | ![][flag_GB] Alevari | [#1](https://osu.ppy.sh/community/matches/66566571) |
-| **Chemistry** ![][flag_GB] | **5** | 2 | ![][flag_GB] Kathalshame | [#1](https://osu.ppy.sh/community/matches/66521819) |
-| Alevari ![][flag_GB] | 2 | **5** | ![][flag_GB] **Kathalshame** | [#1](https://osu.ppy.sh/community/matches/66572026) |
+| **majoreh** ::{ flag=GB }:: | **5** | 4 | ::{ flag=GB }:: Chemistry | [#1](https://osu.ppy.sh/community/matches/66372112) |
+| **majoreh** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Alevari | [#1](https://osu.ppy.sh/community/matches/66561238) |
+| **majoreh** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Kathalshame | [#1](https://osu.ppy.sh/community/matches/66609579) |
+| **Chemistry** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Alevari | [#1](https://osu.ppy.sh/community/matches/66566571) |
+| **Chemistry** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Kathalshame | [#1](https://osu.ppy.sh/community/matches/66521819) |
+| Alevari ::{ flag=GB }:: | 2 | **5** | ::{ flag=GB }:: **Kathalshame** | [#1](https://osu.ppy.sh/community/matches/66572026) |
 
 #### Group C
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Malteser** ![][flag_GB] | **5** | 4 | ![][flag_GB] SteffoST | [#1](https://osu.ppy.sh/community/matches/66504562) |
-| **Malteser** ![][flag_GB] | **5** | 1 | ![][flag_GB] idealnettles | [#1](https://osu.ppy.sh/community/matches/66572022) |
-| **Malteser** ![][flag_GB] | **5** | 0 | ![][flag_GB] BergkampIslord | *forfeit* |
-| **SteffoST** ![][flag_GB] | **5** | 2 | ![][flag_GB] idealnettles | [#1](https://osu.ppy.sh/community/matches/66497429) |
-| **SteffoST** ![][flag_GB] | **5** | 0 | ![][flag_GB] BergkampIslord | *forfeit* |
-| **idealnettles** ![][flag_GB] | **5** | 0 | ![][flag_GB] BergkampIslord | *forfeit* |
+| **Malteser** ::{ flag=GB }:: | **5** | 4 | ::{ flag=GB }:: SteffoST | [#1](https://osu.ppy.sh/community/matches/66504562) |
+| **Malteser** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: idealnettles | [#1](https://osu.ppy.sh/community/matches/66572022) |
+| **Malteser** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: BergkampIslord | *forfeit* |
+| **SteffoST** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: idealnettles | [#1](https://osu.ppy.sh/community/matches/66497429) |
+| **SteffoST** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: BergkampIslord | *forfeit* |
+| **idealnettles** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: BergkampIslord | *forfeit* |
 
 #### Group D
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_GB] Rinnu | [#1](https://osu.ppy.sh/community/matches/66459017) |
-| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_GB] web | [#1](https://osu.ppy.sh/community/matches/66512760) |
-| **Bubbleman** ![][flag_GB] | **5** | 2 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/66564026) |
-| **Rinnu** ![][flag_GB] | **5** | 3 | ![][flag_GB] web | [#1](https://osu.ppy.sh/community/matches/66566571) |
-| Rinnu ![][flag_GB] | 4 | **5** | ![][flag_GB] **Defex** | [#1](https://osu.ppy.sh/community/matches/66607321) |
-| web ![][flag_GB] | 1 | **5** | ![][flag_GB] **Defex** | [#1](https://osu.ppy.sh/community/matches/66559575) |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Rinnu | [#1](https://osu.ppy.sh/community/matches/66459017) |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: web | [#1](https://osu.ppy.sh/community/matches/66512760) |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Defex | [#1](https://osu.ppy.sh/community/matches/66564026) |
+| **Rinnu** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: web | [#1](https://osu.ppy.sh/community/matches/66566571) |
+| Rinnu ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: **Defex** | [#1](https://osu.ppy.sh/community/matches/66607321) |
+| web ::{ flag=GB }:: | 1 | **5** | ::{ flag=GB }:: **Defex** | [#1](https://osu.ppy.sh/community/matches/66559575) |
 
 #### Group E
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| AJT ![][flag_GB] | 3 | **5** | ![][flag_GB] **Ventus** | [#1](https://osu.ppy.sh/community/matches/66518331) |
-| **AJT** ![][flag_GB] | **5** | 0 | ![][flag_GB] Gazzzaa | [#1](https://osu.ppy.sh/community/matches/66465650) |
-| **AJT** ![][flag_GB] | **5** | 0 | ![][flag_GB] \_Snowy | [#1](https://osu.ppy.sh/community/matches/66372097) |
-| **Ventus** ![][flag_GB] | **5** | 3 | ![][flag_GB] Gazzzaa | [#1](https://osu.ppy.sh/community/matches/66509520) |
-| **Ventus** ![][flag_GB] | **5** | 0 | ![][flag_GB] \_Snowy | [#1](https://osu.ppy.sh/community/matches/66566440) |
-| Gazzzaa ![][flag_GB] | 0 | **5** | ![][flag_GB] **\_Snowy** | *forfeit* |
+| AJT ::{ flag=GB }:: | 3 | **5** | ::{ flag=GB }:: **Ventus** | [#1](https://osu.ppy.sh/community/matches/66518331) |
+| **AJT** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Gazzzaa | [#1](https://osu.ppy.sh/community/matches/66465650) |
+| **AJT** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: \_Snowy | [#1](https://osu.ppy.sh/community/matches/66372097) |
+| **Ventus** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: Gazzzaa | [#1](https://osu.ppy.sh/community/matches/66509520) |
+| **Ventus** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: \_Snowy | [#1](https://osu.ppy.sh/community/matches/66566440) |
+| Gazzzaa ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **\_Snowy** | *forfeit* |
 
 #### Group F
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Doomsday** ![][flag_GB] | **5** | 2 | ![][flag_GB] Apo11o | [#1](https://osu.ppy.sh/community/matches/66568439) |
-| **Doomsday** ![][flag_GB] | **5** | 3 | ![][flag_GB] notelock | [#1](https://osu.ppy.sh/community/matches/66501853) |
-| **Doomsday** ![][flag_GB] | **5** | 0 | ![][flag_GB] Teejay | *forfeit* |
-| **Apo11o** ![][flag_GB] | **5** | 2 | ![][flag_GB] notelock | [#1](https://osu.ppy.sh/community/matches/66504905) |
-| **Apo11o** ![][flag_GB] | **5** | 0 | ![][flag_GB] Teejay | *forfeit* |
-| **notelock** ![][flag_GB] | **5** | 2 | ![][flag_GB] Teejay | [#1](https://osu.ppy.sh/community/matches/66510331) |
+| **Doomsday** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Apo11o | [#1](https://osu.ppy.sh/community/matches/66568439) |
+| **Doomsday** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: notelock | [#1](https://osu.ppy.sh/community/matches/66501853) |
+| **Doomsday** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Teejay | *forfeit* |
+| **Apo11o** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: notelock | [#1](https://osu.ppy.sh/community/matches/66504905) |
+| **Apo11o** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Teejay | *forfeit* |
+| **notelock** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Teejay | [#1](https://osu.ppy.sh/community/matches/66510331) |
 
 #### Group G
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kingling** ![][flag_GB] | **5** | 0 | ![][flag_GB] bloo | [#1](https://osu.ppy.sh/community/matches/66652725) |
-| **Kingling** ![][flag_GB] | **5** | 1 | ![][flag_GB] pod | [#1](https://osu.ppy.sh/community/matches/66560655) |
-| **Kingling** ![][flag_GB] | **5** | 0 | ![][flag_GB] HonourBound | [#1](https://osu.ppy.sh/community/matches/66654765) |
-| **bloo** ![][flag_GB] | **5** | 0 | ![][flag_GB] pod | *forfeit* |
-| **bloo** ![][flag_GB] | **5** | 2 | ![][flag_GB] HonourBound | [#1](https://osu.ppy.sh/community/matches/66657555) |
-| pod ![][flag_GB] | 4 | **5** | ![][flag_GB] **HonourBound** | [#1](https://osu.ppy.sh/community/matches/66569281) |
+| **Kingling** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: bloo | [#1](https://osu.ppy.sh/community/matches/66652725) |
+| **Kingling** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: pod | [#1](https://osu.ppy.sh/community/matches/66560655) |
+| **Kingling** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: HonourBound | [#1](https://osu.ppy.sh/community/matches/66654765) |
+| **bloo** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: pod | *forfeit* |
+| **bloo** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: HonourBound | [#1](https://osu.ppy.sh/community/matches/66657555) |
+| pod ::{ flag=GB }:: | 4 | **5** | ::{ flag=GB }:: **HonourBound** | [#1](https://osu.ppy.sh/community/matches/66569281) |
 
 #### Group H
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Voss** ![][flag_GB] | **5** | 4 | ![][flag_GB] helix | [#1](https://osu.ppy.sh/community/matches/66640494) |
-| **Voss** ![][flag_GB] | **5** | 1 | ![][flag_GB] Chugger | [#1](https://osu.ppy.sh/community/matches/66567879) |
-| **Voss** ![][flag_GB] | **5** | 0 | ![][flag_GB] Erylie | *forfeit* |
-| **helix** ![][flag_GB] | **5** | 2 | ![][flag_GB] Chugger | [#1](https://osu.ppy.sh/community/matches/66650550) |
-| **helix** ![][flag_GB] | **5** | 2 | ![][flag_GB] Erylie | [#1](https://osu.ppy.sh/community/matches/66510340) |
-| **Chugger** ![][flag_GB] | **5** | 0 | ![][flag_GB] Erylie | *forfeit* |
+| **Voss** ::{ flag=GB }:: | **5** | 4 | ::{ flag=GB }:: helix | [#1](https://osu.ppy.sh/community/matches/66640494) |
+| **Voss** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Chugger | [#1](https://osu.ppy.sh/community/matches/66567879) |
+| **Voss** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Erylie | *forfeit* |
+| **helix** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Chugger | [#1](https://osu.ppy.sh/community/matches/66650550) |
+| **helix** ::{ flag=GB }:: | **5** | 2 | ::{ flag=GB }:: Erylie | [#1](https://osu.ppy.sh/community/matches/66510340) |
+| **Chugger** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Erylie | *forfeit* |
 
 ### Qualifiers
 
@@ -511,16 +511,16 @@ Top 10 qualification results:
 
 | Placing | Player | Total score | Average score |
 | --: | :-- | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 8,738,273 | 899,539 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) | 8,584,021 | 881,695 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) | 8,468,289 | 871,624 |
-| *4th place* | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) | 8,191,791 | 843,249 |
-| *5th place* | ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366) | 7,807,207 | 802,121 |
-| *6th place* | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) | 7,571,786 | 785,066 |
-| *7th place* | ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761) | 7,478,786 | 772,999 |
-| *8th place* | ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178) | 7,443,208 | 760,232 |
-| *9th place* | ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765) | 7,243,298 | 740,908 |
-| *10th place* | ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262) | 7,095,593 | 735,019 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | 8,738,273 | 899,539 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) | 8,584,021 | 881,695 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) | 8,468,289 | 871,624 |
+| *4th place* | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | 8,191,791 | 843,249 |
+| *5th place* | ::{ flag=GB }:: [Best459](https://osu.ppy.sh/users/8185366) | 7,807,207 | 802,121 |
+| *6th place* | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | 7,571,786 | 785,066 |
+| *7th place* | ::{ flag=GB }:: [Voss](https://osu.ppy.sh/users/7657761) | 7,478,786 | 772,999 |
+| *8th place* | ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178) | 7,443,208 | 760,232 |
+| *9th place* | ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765) | 7,243,298 | 740,908 |
+| *10th place* | ::{ flag=GB }:: [Ventus](https://osu.ppy.sh/users/1986262) | 7,095,593 | 735,019 |
 
 ## Ruleset
 
@@ -529,7 +529,7 @@ Top 10 qualification results:
   - One qualification round where 32 players progress
   - Group stage where 16 players progress
   - Double-elimination bracket
-- To be able to participate, players must have a **![][flag_GB] United Kingdom or ![][flag_IE] Ireland flag or be able to provide proof of residency to the hosts**.
+- To be able to participate, players must have a **::{ flag=GB }:: United Kingdom or ::{ flag=IE }:: Ireland flag or be able to provide proof of residency to the hosts**.
 - Matches will be **Head to Head**, with **ScoreV2** as the scoring system used.
 - Ranks are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
 - All staff (apart from the hosts, mappool selectors and referees) are allowed to participate in the tournament.
@@ -586,18 +586,3 @@ Top 10 qualification results:
 - For FreeMod picks, players must select any combination of the following mods: **Hidden or Hard Rock**.
 - Failed scores will count.
 - Tiebreakers are FreeMod, but NoMod can also be used.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

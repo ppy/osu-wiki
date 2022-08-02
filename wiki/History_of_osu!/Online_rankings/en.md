@@ -18,31 +18,27 @@ Numerous players have held rank #1 in each game mode under different ranking sys
 
 *Main page: [osu!](osu!)*
 
-As of July 19, 2021, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ![][flag_AU] [mrekk](https://osu.ppy.sh/users/7562902/osu).
+As of July 19, 2021, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
 *Main page: [osu!taiko](osu!taiko)*
 
-As of June 3, 2021, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695/taiko).
+As of June 3, 2021, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695/taiko).
 
 ## ![][osu!catch] osu!catch
 
 *Main page: [osu!catch](osu!catch)*
 
-As of June 7, 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ![][flag_KR] [CTB Rushia1](https://osu.ppy.sh/users/4158549/fruits).
+As of June 7, 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: [CTB Rushia1](https://osu.ppy.sh/users/4158549/fruits).
 
 ## ![][osu!mania] osu!mania
 
 *Main page: [osu!mania](osu!mania)*
 
-As of June 3, 2021, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972/mania).
+As of June 3, 2021, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"

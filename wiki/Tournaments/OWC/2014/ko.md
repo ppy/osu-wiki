@@ -8,7 +8,7 @@ outdated_translation: true
 
 **osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](https://osu.ppy.sh/groups/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
 
-저번 우승자는 ![][flag_KR] **대한민국** 입니다..
+저번 우승자는 ::{ flag=KR }:: **대한민국** 입니다..
 
 ## 토너먼트 일정
 
@@ -35,11 +35,11 @@ outdated_translation: true
 
 | Job | Person(s) |
 | :-- | :-- |
-| 토너먼트 관리 | ![][flag_DE][Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE][p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES][Deif](https://osu.ppy.sh/users/318565) |
-| 비트맵 선별 | ![][flag_NL][GladiOol](https://osu.ppy.sh/users/23326) // ![][flag_KR][ToGlette](https://osu.ppy.sh/users/1076236) |
-| 방송 | ![][flag_AU][peppy](https://osu.ppy.sh/users/2) // ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR][shARPII](https://osu.ppy.sh/users/776257) |
-| 해설 | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
-| 통계 | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
+| 토너먼트 관리 | ::{ flag=DE }::[Loctav](https://osu.ppy.sh/users/71366) // ::{ flag=DE }::[p3n](https://osu.ppy.sh/users/123703) // ::{ flag=ES }::[Deif](https://osu.ppy.sh/users/318565) |
+| 비트맵 선별 | ::{ flag=NL }::[GladiOol](https://osu.ppy.sh/users/23326) // ::{ flag=KR }::[ToGlette](https://osu.ppy.sh/users/1076236) |
+| 방송 | ::{ flag=AU }::[peppy](https://osu.ppy.sh/users/2) // ::{ flag=PL }::[Marcin](https://osu.ppy.sh/users/722665) // ::{ flag=FR }::[shARPII](https://osu.ppy.sh/users/776257) |
+| 해설 | ::{ flag=GB }::[jesus1412](https://osu.ppy.sh/users/230116) // ::{ flag=FR }::[Mr Color](https://osu.ppy.s6078) // ::{ flag=GB }::[Raiku](https://osu.ppy.sh/users/1525538) // ::{ flag=US }::[ztrot](https://osu.ppy.sh/users/6347) |
+| 통계 | ::{ flag=PL }::[Marcin](https://osu.ppy.sh/users/722665) |
 
 ## 링크
 
@@ -158,13 +158,3 @@ outdated_translation: true
 3. All Double Elimination Stages will be held on either Saturday or Sunday.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
-
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_US]: /wiki/shared/flag/US.gif
