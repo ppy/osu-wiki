@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Community Mentorship Program Summer 2022 Signups Now Open"
+title: "Community Mentorship Program Fall 2022 Signups Now Open"
 date: 2022-08-04 14:00:00 +0000
 ---
 
@@ -20,7 +20,7 @@ For this following cycle, the timeline is as follows (all opening and closing da
 
 - Mentor signups will open on **August 5th** and close on **August 12th**.
 - Mentee signups will open on **August 27th** and close on **September 2nd**.
-- The 2022 Summer cycle will run from **September 3rd** to **December 3rd**.
+- The 2022 Fall cycle will run from **September 3rd** to **December 3rd**.
 
 Throughout this active cycle time, the organization team will host various events on the Mentorship Discord server, engaging and offering events for mentees and mentors to participate in. These include feedback lobbies, mapping contests, and more! Some of our previous mapping puzzles can be found here in [this thread](https://osu.ppy.sh/community/forums/topics/565382), and previous discussions can be found [here](https://osu.ppy.sh/community/forums/topics/514122).
 
