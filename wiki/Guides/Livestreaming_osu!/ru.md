@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: f7871c217dc440ceb77e42388dbcdda93714992d
+outdated_translation: true
 ---
 
 # Как начать стримить osu!

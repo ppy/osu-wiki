@@ -504,6 +504,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Catch French Beginner #3 | 15.06.2019 | 20.07.2019 | ::{ flag=FR }:: [MindLight](https://osu.ppy.sh/users/7664694) | ::{ flag=FR }:: [Ladylag](https://osu.ppy.sh/users/2812098) | ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519) |
 | [Catch French Beginner 4](CFB/4) | 25.04.2020 | 30.05.2020 | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172) |
 | [Catch French Beginner 5](CFB/5) | 16.01.2021 | 21.02.2021 | ::{ flag=FR }:: [Enias](https://osu.ppy.sh/users/8384680) | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) | ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) |
+| [Catch French Beginner 6](CFB/6) | 13.11.2021 | 19.12.2021 | ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732) | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606) | ::{ flag=FR }:: [\_\_\_\_\_\_\_\_\_\_\_\_](https://osu.ppy.sh/users/6973354) |
 
 #### Catch French Cup
 
@@ -515,6 +516,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Catch French Intermediate Cup](CFC/CFIC_1) | 01.03.2019 | 31.03.2019 | ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640) | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) |
 | [Catch French Cup 4](CFC/4) | 30.03.2019 | 28.04.2019 | ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875) | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | [Catch French Intermediate Cup 2](CFC/CFIC_2) | 15.02.2020 | 21.03.2020 | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688) | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) |
+| [Catch French Intermediate Cup 3](CFC/CFIC_3) | 11.09.2021 | 17.10.2021 | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908) | ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466) |
 
 #### Catch the Beat Indonesia Cup
 

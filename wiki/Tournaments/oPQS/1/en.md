@@ -85,7 +85,7 @@ The osu! Philippines Quickfire Showdown was ran by various community members.
   - ::{ flag=PH }:: [Random328](https://osu.ppy.sh/users/13822589)
   - ::{ flag=PH }:: [Revillica](https://osu.ppy.sh/users/9806095)
   - ::{ flag=PH }:: [Leehi](https://osu.ppy.sh/users/11172033)
-  - ::{ flag=PH }:: [MarvelWizardHD](https://osu.ppy.sh/users/5356586)
+  - ::{ flag=PH }:: [MarvelWizardKH](https://osu.ppy.sh/users/5356586)
   - ::{ flag=PH }:: [xXCraigyxD28Xx](https://osu.ppy.sh/users/14916935)
   - ::{ flag=PH }:: [Danimato](https://osu.ppy.sh/users/23541645)
   - ::{ flag=PH }:: [Takow](https://osu.ppy.sh/users/29766556)
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 - NoMod
-  1. [Imy - Countdown (jonathanlfj) [captin's Extra]](https://osu.ppy.sh/beatmapsets/1615696#osu/3298667)
+  1. [Imy - Countdown (jonathanlfj) [captin's Extra]](https://osu.ppy.sh/beatmapsets/1246683#osu/2593669)
   2. [UI-70 - Mou Uta Shika Kikoenai (Kurashina Asuka) [Expert]](https://osu.ppy.sh/beatmapsets/1537442#osu/3143524)
   3. [aran & lapix - KALACAKLA (Ambrew) [Follow Me Into Reality]](https://osu.ppy.sh/beatmapsets/706771#osu/1494341)
 - Hidden
@@ -262,7 +262,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [solfa feat. Chata - Colorful precious life (lit120) [Yozuku's Extra]](https://osu.ppy.sh/beatmapsets/1640724#osu/3348791)
-  2. [HyuN - Infinity Heaven (Niva) [Ad Infinitum]](https://osu.ppy.sh/beatmapsets/1537442#osu/3143524)
+  2. [HyuN - Infinity Heaven (Niva) [Ad Infinitum]](https://osu.ppy.sh/beatmapsets/891345#osu/1863246)
   3. [REOL - Give me a break Stop now (SnowNiNo\_)[Collab Extra]](https://osu.ppy.sh/beatmapsets/497482#osu/1072777)
 - Hidden
   1. [tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (TicClick) [Lunatic]](https://osu.ppy.sh/beatmapsets/223092#osu/521280)
@@ -349,9 +349,9 @@ This competition has come to an end and resulted in the following podium:
 | Gale Wise | 0 | **2** | **Dunn** | [#1](https://osu.ppy.sh/community/matches/102517825) |
 | **RnJn** | **2** | 0 | Chasm | [#1](https://osu.ppy.sh/community/matches/102518608) |
 | **KanataMyBeloved** | **2** | 0 | Edison | [#1](https://osu.ppy.sh/community/matches/102518225 ) |
-| **OsuSeulgiDragon** | **2** | 0 | Oooodriiin | [#1](https://osu.ppy.sh/community/matches/102518483) |
+| **OsuSeulgiDragon** | **2** | 1 | Oooodriiin | [#1](https://osu.ppy.sh/community/matches/102518483) |
 | Makir0 | 0 | **2** | **Pillows** | [#1](https://osu.ppy.sh/community/matches/102518974) |
-| CasualHexagons | 0 | **2** | **CircIes** | [#1](https://osu.ppy.sh/community/matches/102518936) |
+| CasualHexagons | 1 | **2** | **CircIes** | [#1](https://osu.ppy.sh/community/matches/102518936) |
 | **MerpyXD** | **2** | 0 | mechadoodle | [#1](https://osu.ppy.sh/community/matches/102519815) |
 
 ## Ruleset
