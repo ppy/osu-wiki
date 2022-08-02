@@ -1,84 +1,45 @@
----
-outdated_translation: true
----
-
 # osu! 文件格式
 
-## osu! 特有的文件格式
+## 文件格式列表
 
-### 存档
+| 文件格式 | 媒体类型 (MIME type) | 用途 |
+| :-- | :-- | :-- |
+| [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) | `x-osu-beatmap-archive` | osu! 谱面文件 |
+| [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) | `x-osu-skin-archive` | osu! 皮肤文件 |
+| [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) | `x-osu-beatmap` | osu! [难度](/wiki/Beatmap/Difficulty)文件 |
+| [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) | `x-osu-storyboard` | osu! [故事板](/wiki/Storyboard/Scripting)文件 |
+| [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) | `x-osu-replay` | osu! [回放](/wiki/Gameplay/Replay)文件 |
 
-| 文件格式 | 用途 |
-| :-- | :-- |
-| [.osz][Osz Link] | 可执行的谱面文件 |
-| [.osk][Osk Link] | 可执行的皮肤文件 |
+## 创建 .osz 和 .osk 文件
 
-### 谱面编辑器
+`.osz` 和 `.osk` 是分别用来存储游戏谱面和游戏皮肤的文件格式。当打开时，osu! 会自动将：
 
-| 文件格式 | 用途 |
-| :-- | :-- |
-| [.osu][Osu Link] | 参见[Compose](/wiki/Client/Beatmap_editor/Compose), [Timing](/wiki/Client/Beatmap_editor/Timing), [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) |
-| [.osb][Osb Link] | 参见[Design](/wiki/Client/Beatmap_editor/Design) |
+- `.osz` 文件解压至 `Songs` 文件夹
+- `.osk` 文件解压至 `Skins` 文件夹
 
-### 回放
+如果你熟悉了让 osu! 识别皮肤或谱面文件的方法，那么其他玩家将会更容易获取并使用你的作品。
 
-| 文件格式 | 用途 |
-| :-- | :-- |
-| [.osr][Osr Link] | 可执行的回放文件（不能被解压） |
+### 使用压缩软件创建
 
-## 创建 .osz/.osk 文件
+1. 安装一个可以创建 `.zip` 文件的压缩软件，如 [7-Zip](https://www.7-zip.org) 或者 [WinRAR](https://www.win-rar.com)。
+2. 将所有需压缩的文件集中在一个文件夹内。
+3. 右击文件夹，选择 `添加到压缩文件...` （或者，你也可以在压缩软件内选择并压缩它）
+4. 选择 ZIP 压缩文件格式。
+5. 把成功压缩的文件扩展名 `.zip` 修改成 `.osz`（如果你想创建皮肤文件，则改成 `.osk`）。
 
-.osz/.osk 文件是 osu!.exe 所独有的文件扩展名。打开时 .osz 会被 osu!.exe 读取并解压到 "Songs" 文件夹，而 .osk 文件会被读取并解压到 "Skins" 文件夹。默认地，从官网上直接下载的谱面文件格式是 .osz。而如何创建一个 .osz/.osk 文件则是作图/故事版以及皮肤相关社区中的基础知识。
+你可以通过复制一份文件并在 osu! 内打开，来测试压缩文件是否完好。
 
-### 用压缩软件创建
+### 在 osu! 中创建
 
-**所需软件：**
+创建谱面文件：
 
-- 文件压缩软件 (WinRAR, 7-zip)
-- osu! (为了测试和显示 osu! 图标的目的)
+- 在[谱面编辑器](/wiki/Client/Beatmap_editor)内打开想要压缩的谱面。
+- 在[顶边菜单栏](/wiki/Client/Beatmap_editor/Menu)内，选择`文件` > `导出图包...`。
+- `.osz` 压缩文件将导出至 osu! 文件夹下的 `Exports` 文件夹。
 
-**流程：**
+创建皮肤文件：
 
-1. 把相关文件 (.mp3, .flv, .osu, 故事版，等等) 移动到一个文件夹中并命名
-   - 在这里我们将文件夹命名为 "Amigo Fiesta" 以便解释
-2. 鼠标右键单击文件夹并且选择 "添加到压缩文件"
-   - 你也可以选择打开压缩软件然后将文件夹拖拽进去
-3. 检查设置，把压缩格式设为 ".zip" (而不是 .7z, .rar) 然后手动把文件扩展名改成 .osz
-   - Amigo Fiesta.zip -> Amigo Fiesta.osz, 压缩方式：".zip"
-4. 点击确认，产生了一个带有 osu! 图标的 .osz 文件
-5. 你可以重复这个操作来产生新文件
-   - 如果你想为谱面创建压缩文件，那么使用 .osz 扩展名
-   - 如果你想为皮肤创建压缩文件，那么使用 .osk 扩展名
-
-**图例：** (感谢 [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694))
-
-- [WinRAR](https://puu.sh/1MBV)
-- [7-zip](https://puu.sh/1MBW)
-
-### 在游戏中创建
-
-**所需软件：**
-
-- osu! (并不需要其它软件，因为游戏本身就可以产生 .osz/.osk 文件)
-
-**流程：**
-
-1. 如上所述，把相关文件移动到一个文件夹中并命名
-   - 通常，如果你之前编辑过谱面的话，所需的文件都已经准备好可以直接转换成 .osz 文件
-   - 创建 .osk 文件则需要你提前手动把所有所需的文件都放在一个文件夹里
-2. 打开 osu!
-3. 如果你想创建 .osz 格式文件：
-   - 点开 "Edit" 并选择你想要转换成 .osz 文件的谱面
-   - 打开 "File" 选项卡并选择 "导出图包..."
-   - 生成的 .osz 文件会被放置在 osu! 文件夹下的 "Exports" 文件夹里
-4. 如果你想创建 .osk 格式文件：
-   - 首先，确保你的皮肤文件夹里有所有你想要打包生成的文件，如果你正使用这个皮肤，你可以通过点击 "打开皮肤文件夹" 来确认
-   - 然后点击 "Options" 菜单下的 "选择皮肤".
-   - 在皮肤选择栏中，选择你想要导出的皮肤并单击 "导出 .osk".
-   - 生成的 .osk 文件会被放置在 osu! 文件夹下的 "Exports" 文件夹里
-
-[Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
-[Osk Link]: /wiki/osu!_File_Formats/Osk_(file_format)
-[Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
-[Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)
-[Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)
+- 你可以通过点击 osu! 设置里的`打开皮肤文件夹`按钮来检查你的皮肤文件，确保没有皮肤部件漏失。
+- 在设置内，点击`选择皮肤`按钮。
+- 选中你想要压缩的皮肤，并点击`导出.osk`。
+- `.osk` 压缩文件将导出至 osu! 文件夹下的 `Exports` 文件夹。
