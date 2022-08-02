@@ -122,7 +122,7 @@ The 4 Digit Catch World Cup 2022 is run by various community members.
   1. [BLANKFIELD - Retrospective City (Nelly) \[Collab Salad\]](https://osu.ppy.sh/beatmapsets/1203586#fruits/2531997)
   2. [petit milady - azurite (garden) \[ArThasCD's hard\]](https://osu.ppy.sh/beatmapsets/777993#fruits/1653983)
 - MixedMod
-  1. [trapman featuring CreeperWorks - minefield surfing (Nelly) \[Salad\]](https://osu.ppy.sh/beatmapsets/1819363#fruits/3733108)
+  1. [trapman featuring CreeperWorks - minefield surfing (Nelly) \[Platter\]](https://osu.ppy.sh/beatmapsets/1819363#fruits/3733108)
   2. [Nekomata Master - Byakuya Gentou (ignorethis) \[Hyper\]](https://osu.ppy.sh/beatmapsets/36849#fruits/119376)
 - Tiebreaker
   1. **[Camellia feat. Nanahira - Bassline Yatteru? w (Kukkai) \[Rain\]](https://osu.ppy.sh/beatmapsets/1643938#fruits/3356878)**
