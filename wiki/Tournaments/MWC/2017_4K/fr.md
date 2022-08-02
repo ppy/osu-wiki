@@ -93,14 +93,14 @@ L'osu!mania 4K World Cup 2017 était organisée par plusieurs membres de la comm
 
 | Groupe | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_BR] Brésil | ![][flag_PL] Polognee | ![][flag_PH] Philippines | ![][flag_VE] Venezuela |
-| **B** | ![][flag_GB] Royaume-Uni | ![][flag_MY] Malaisie | ![][flag_HK] Hong Kong | ![][flag_NO] Norvège |
-| **C** | ![][flag_CN] Chine | ![][flag_FR] France | ![][flag_AU] Australie | ![][flag_TW] Taiwan |
-| **D** | ![][flag_US] États-Unis | ![][flag_AR] Argentine | ![][flag_MX] Mexique | ![][flag_DE] Allemagne |
-| **E** | ![][flag_KR] Corée du Sud | ![][flag_SE] Suède | ![][flag_RU] Russian Federation | ![][flag_FI] Finland |
-| **F** | ![][flag_ID] Indonesie | ![][flag_IT] Italie | ![][flag_ES] Espagne | ![][flag_NZ] Nouvelle-Zélande |
-| **G** | ![][flag_JP] Japon | ![][flag_CA] Canada | ![][flag_CH] Suisse | ![][flag_NL] Pays-Bas |
-| **H** | ![][flag_CL] Chili | ![][flag_TH] Thaïlande | ![][flag_SG] Singapour | ![][flag_BE] Belgique |
+| **A** | ::{ flag=BR }:: Brésil | ::{ flag=PL }:: Polognee | ::{ flag=PH }:: Philippines | ::{ flag=VE }:: Venezuela |
+| **B** | ::{ flag=GB }:: Royaume-Uni | ::{ flag=MY }:: Malaisie | ::{ flag=HK }:: Hong Kong | ::{ flag=NO }:: Norvège |
+| **C** | ::{ flag=CN }:: Chine | ::{ flag=FR }:: France | ::{ flag=AU }:: Australie | ::{ flag=TW }:: Taiwan |
+| **D** | ::{ flag=US }:: États-Unis | ::{ flag=AR }:: Argentine | ::{ flag=MX }:: Mexique | ::{ flag=DE }:: Allemagne |
+| **E** | ::{ flag=KR }:: Corée du Sud | ::{ flag=SE }:: Suède | ::{ flag=RU }:: Russian Federation | ::{ flag=FI }:: Finland |
+| **F** | ::{ flag=ID }:: Indonesie | ::{ flag=IT }:: Italie | ::{ flag=ES }:: Espagne | ::{ flag=NZ }:: Nouvelle-Zélande |
+| **G** | ::{ flag=JP }:: Japon | ::{ flag=CA }:: Canada | ::{ flag=CH }:: Suisse | ::{ flag=NL }:: Pays-Bas |
+| **H** | ::{ flag=CL }:: Chili | ::{ flag=TH }:: Thaïlande | ::{ flag=SG }:: Singapour | ::{ flag=BE }:: Belgique |
 
 ![](img/bracket.jpg "MWC 4K 2017 bracket")
 
