@@ -30,7 +30,7 @@ Ranked Beatmaps werden als offizieller Spielinhalt beworben, da sie den Standard
 
 *Für die Geschichte der Loved-Kategorie, siehe: [Geschichte von Loved](/wiki/Beatmap/History_of_Loved)*
 
-Loved Beatmaps entsprechen nicht zwingend den [Ranking-Kriterien](/wiki/Ranking_Criteria), werden aber von der Community *geliebt* und werden deshalb, basierend auf Abstimmungen der Community, im Rahmen von [Project Loved](/wiki/Community/Project_Loved) regelmäßig hinzugefügt. Loved Beatmaps verfügen über Ranglisten, vergeben aber keine [Performance-Punkte](/wiki/Performance_points). Weiters werden alle Scores gelöscht, sobald die Beatmap in eine andere Kategorie verschoben wird (dies geschieht für gewöhnlich nur auf Anfrage des Erstellers). Im [Songauswahl-Bildschirm](/wiki/Client/Interface#songauswahl) werden Loved Beatmaps mit einem Herz-Symbol (![](/wiki/shared/status/loved.png)) markiert.
+Loved Beatmaps entsprechen nicht zwingend den [Ranking-Kriterien](/wiki/Ranking_Criteria), werden aber von der Community *geliebt* und werden deshalb, basierend auf Abstimmungen der Community, im Rahmen von [Project Loved](/wiki/Community/Project_Loved) regelmäßig hinzugefügt. Loved Beatmaps verfügen über Ranglisten, vergeben aber keine [Performance-Punkte](/wiki/Performance_points). Des Weiteren werden alle Scores gelöscht, sobald die Beatmap in eine andere Kategorie verschoben wird (dies geschieht für gewöhnlich nur auf Anfrage des Erstellers). Im [Songauswahl-Bildschirm](/wiki/Client/Interface#songauswahl) werden Loved Beatmaps mit einem Herz-Symbol (![](/wiki/shared/status/loved.png)) markiert.
 
 ## Geschichte
 
@@ -44,7 +44,7 @@ Im [Songauswahl-Bildschirm](/wiki/Client/Interface#songauswahl) werden Approved 
 
 ### Einführung der Qualifiziert-Kategorie
 
-Die [Qualifiziert](#qualifiziert)-Kategorie wurde im August 2014 während der [Umstrukturierung des BATs](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) eingeführt, um kürzlichn gerankte Beatmaps eine größere Bühne zu geben. Wenn eine qualifizierte Beatmap disqualifiziert und zurück in die Pending-Kategorie verschoben werden musste, würde es die Statistiken der Spieler nicht beeinflussen, da die Kategorie von Anfang an für das Vergeben von temporären Scores bestimmt war. Dadurch wurden richtige Erwartungen gesetzt und das negative Feedback der Community gegenüber Unranks wurde drastisch reduziert.
+Die [Qualifiziert](#qualifiziert)-Kategorie wurde im August 2014 während der [Umstrukturierung des BATs](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) eingeführt, um kürzlich gerankte Beatmaps eine größere Bühne zu geben. Wenn eine qualifizierte Beatmap disqualifiziert und zurück in die Pending-Kategorie verschoben werden musste, würde es die Statistiken der Spieler nicht beeinflussen, da die Kategorie von Anfang an für das Vergeben von temporären Scores bestimmt war. Dadurch wurden richtige Erwartungen gesetzt und das negative Feedback der Community gegenüber Unranks wurde drastisch reduziert.
 
 ### Spielstatistiken von Unranked Beatmaps
 
