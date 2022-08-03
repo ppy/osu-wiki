@@ -7,13 +7,13 @@ tags:
 
 ![Banner osu! Talk Event](img/banner.png)
 
-**osu! Talk Event** merupakan sebuah acara yang diselenggarakan osu! University di mana beberapa orang menjadi pembicara untuk berbagai macam topik yang terpusat pada tema dalam setiap iterasi.
+**osu! Talk Event** merupakan acara *talk show* hasil gagasan osu! University yang mengundang berbagai narasumber untuk membahas seputar berbagai macam topik yang terpusat pada tema tertentu dalam setiap iterasinya.
 
-Para pembicara membicarakan topiknya di *channel* Stage yang ada di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Selama acara berlangsung, utas-utas di *channel* `#community-meetings` dibuka sebagai tempat berdiskusi.
+Para pembicara membicarakan topiknya masing-masing pada *channel* Stage yang terdapat di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Selama acara berlangsung, berbagai utas terkait di *channel* `#community-meetings` akan dibuka sebagai tempat berdiskusi.
 
-Sesi pembicaraan ini juga ditayangkan secara langsung di [*channel* Twitch osu! University](https://twitch.tv/osuuniversity) dan rekaman setiap pembicaraan diarsipkan di [*channel* YouTube osu! University](https://www.youtube.com/c/osuuniversity).
+Sesi pembicaraan ini juga ditayangkan secara langsung di [*channel* Twitch osu! University](https://twitch.tv/osuuniversity), dengan rekaman seluruh sesi pembicaraan yang diarsipkan pada [*channel* YouTube osu! University](https://www.youtube.com/c/osuuniversity).
 
-Untuk dapat berpartisipasi sebagai pembicara dalam acara ini, atau untuk merekomendasikan orang yang cocok untuk memberikan sebuah pembicaraan, isilah [formulir nominasi pembicara](https://forms.gle/HCD6ac8JwURGh8zx8).
+Apabila kamu ingin berpartisipasi sebagai pembicara dalam acara ini atau merekomendasikan orang yang sekiranya cocok untuk menjadi pembicara, silakan isi [formulir nominasi pembicara berikut](https://forms.gle/HCD6ac8JwURGh8zx8).
 
 ## Daftar iterasi
 

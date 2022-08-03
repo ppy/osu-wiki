@@ -7,20 +7,20 @@ tags:
 
 ![Banner osu! Talk Event: Overcoming Obstacles](/wiki/shared/news/2022-05-19-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
 
-**osu! Talk Event** merupakan sebuah acara yang diselenggarakan osu! University di mana beberapa orang menjadi pembicara untuk berbagai macam topik. Artikel ini merupakan iterasi pertama dari acara ini dengan tema "overcoming obstacles" atau "mengatasi kesulitan".
+**osu! Talk Event** merupakan acara *talk show* hasil gagasan osu! University yang mengundang berbagai narasumber untuk membahas seputar berbagai macam topik. Artikel ini mencakup iterasi pertama dari acara ini, yang mengusung tema "*overcoming obstacles*" (atau "mengatasi kesulitan").
 
-Para pembicara membicarakan topiknya di *channel* Stage yang ada di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Selama acara berlangsung, utas-utas di *channel* `#community-meetings` dibuka sebagai tempat berdiskusi.
+Para pembicara membicarakan topiknya masing-masing pada *channel* Stage yang terdapat di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Selama acara berlangsung, berbagai utas terkait di *channel* `#community-meetings` akan dibuka sebagai tempat berdiskusi.
 
-Sesi pembicaraan ini juga ditayangkan secara langsung di [*channel* Twitch osu! University](https://twitch.tv/osuuniversity) dan rekaman setiap pembicaraan diarsipkan di [*channel* YouTube osu! University](https://www.youtube.com/c/osuuniversity).
+Sesi pembicaraan ini juga ditayangkan secara langsung di [*channel* Twitch osu! University](https://twitch.tv/osuuniversity), dengan rekaman seluruh sesi pembicaraan yang diarsipkan pada [*channel* YouTube osu! University](https://www.youtube.com/c/osuuniversity).
 
-Untuk dapat berpartisipasi sebagai pembicara dalam acara ini, atau untuk merekomendasikan orang yang cocok untuk memberikan sebuah pembicaraan, isilah [formulir nominasi pembicara](https://forms.gle/HCD6ac8JwURGh8zx8).
+Apabila kamu ingin berpartisipasi sebagai pembicara dalam acara ini atau merekomendasikan orang yang sekiranya cocok untuk menjadi pembicara, silakan isi [formulir nominasi pembicara berikut](https://forms.gle/HCD6ac8JwURGh8zx8).
 
 ## Informasi acara
 
-- **Acara ini berlangsung selama 3 hari**, dari tanggal 20 Mei 2022 hingga 22 Mei 2022.
-- **Pembicara akan menggunakan *channel* stage di Discord** yang ada di [server Discord osu!dev](https://discord.gg/ppy) untuk dapat berbicara.
-- **Setiap pembicaraan tidak akan lebih panjang dari 18 menit.** 18 menit merupakan waktu maksimum yang diperbolehkan, 18 menit bukanlah waktu yang harus dicapai — pembicaraan selama 3 menitpun dapat memberikan efek yang besar.
-- Cerita-cerita yang disampaikan tidak harus tentang osu!, namun karena ini merupakan acara yang terkait osu!, para pembicara disarankan untuk dapat menyambungkan cerita atau hikmah yang didapatkan dengan osu! dengan cara apapun.
+- **Acara ini berlangsung selama 3 hari**, mulai dari 20 Mei 2022 hingga 22 Mei 2022.
+- **Masing-masing pembicara akan diberikan *channel* stage khusus** pada [server Discord osu!dev](https://discord.gg/ppy) untuk dapat berbicara.
+- **Setiap sesi pembicaraan tidak boleh melebihi 18 menit.** 18 menit merupakan waktu maksimum yang diizinkan, 18 menit bukanlah target waktu yang harus dicapai oleh masing-masing pembicara — suatu obrolan singkat yang hanya berlangsung selama 3 menit pun dapat memberikan dampak yang besar apabila disampaikan dengan baik.
+- Topik pembicaraan yang diangkat tidak harus seluruhnya berhubungan dengan osu!. Meskipun demikian, karena osu! Talk Event merupakan acara osu!, para pembicara diharapkan untuk dapat menyambungkan cerita atau hikmah yang mereka dapatkan dengan osu! baik secara langsung maupun tidak.
 
 ## Daftar tautan
 

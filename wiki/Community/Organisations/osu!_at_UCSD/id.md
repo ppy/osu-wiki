@@ -12,9 +12,9 @@ tags:
 
 # osu! at UCSD
 
-**osu! at UCSD** merupakan klub osu! yang menjadi sebuah divisi dari *Triton Gaming* di University of California, San Diego (*UCSD*). Tujuan utama organisasi ini adalah mewadahi para pemain osu! yang tergabung atau berada disekitar UCSD dalam berinteraksi dan membangun komunitas lokal. Organisasi ini mengadakan pertemuan secara rutin baik secara langsung maupun secara virtual, mereka juga mengadakan turnamen osu! secara *online* dan *LAN*.
+**osu! at UCSD** merupakan klub osu! yang didirikan sebagai suatu divisi pada organisasi *Triton Gaming* yang bermarkas di University of California, San Diego (*UCSD*). Tujuan utama organisasi ini adalah mewadahi para pemain osu! yang tergabung atau berada di sekitar UCSD dalam berinteraksi dan membangun komunitas lokal. Organisasi ini rutin mengadakan pertemuan rutin baik secara langsung ataupun virtual serta berbagai turnamen osu! yang bersifat *online* maupun *LAN*.
 
-Daftar acara-acara yang telah diselenggarakan oleh osu! at UCSD dapat dilihat pada laman [indeks turnamen osu! at UCSD](/wiki/Tournaments/osu!_at_UCSD).
+Daftar acara yang telah diselenggarakan oleh osu! at UCSD dapat dilihat pada laman [indeks turnamen osu! at UCSD](/wiki/Tournaments/osu!_at_UCSD).
 
 ## Daftar tautan
 
@@ -24,7 +24,7 @@ Daftar acara-acara yang telah diselenggarakan oleh osu! at UCSD dapat dilihat pa
 
 ## Pengurus aktif
 
-- ::{ flag=US }:: Darin "[Darin on osu](https://osu.ppy.sh/users/4839876)" Nguyen (*President*)
+- ::{ flag=US }:: Darin "[Darin on osu](https://osu.ppy.sh/users/4839876)" Nguyen (*Presiden*)
 - ::{ flag=US }:: Ash "[Ahntaea](https://osu.ppy.sh/users/4941097)" Tran
 - ::{ flag=CN }:: Jason "[friidryce](https://osu.ppy.sh/users/8271310)" Au
 - ::{ flag=US }:: Peter "[Potor10](https://osu.ppy.sh/users/8029687)" Liu
