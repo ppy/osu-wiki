@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
 ---
 
 # Nội quy
@@ -25,7 +23,7 @@ Những nội quy dưới đây là nền móng trong việc gìn giữ cộng �
 3. **Nếu ai đó bị chặn chat, im lặng hoặc giới hạn, hãy kệ họ và đừng nói chuyện về họ.** Nếu ai đó bị giới hạn, vấn đề đó chỉ liên quan đến họ và quản trị game — người ngoài không can thiệp!
 4. **Cổ vũ chơi công bằng, và đừng chú ý đến người chơi gian lận hay những người độc hại.** Không may là những loại người này vẫn tồn tại, và việc chú ý tới họ chỉ khiến họ tiếp tục, hoặc kích động người khác làm theo. Hãy báo cáo họ qua chat bằng lệnh `!report` hoặc nút bấm trên trang cá nhân họ rồi ngó lơ đi.
 5. **Giữ chat trong sạch và phù hợp mọi lứa tuổi, tránh nội dung NSFW khi có thể.** NSFW không thực sự phù hợp với một cộng đồng mọi lứa tuổi. Bạn có thể tự do làm vậy trong chat riêng tư (có chừng mực) nhưng hãy tránh xa những kênh công cộng vì lợi ích người khác nữa.
-6. **Để ý những thứ bạn chia sẻ với người khác, đặc biệt khi nội dung có thể chứa những thứ có bản chất khó chịu hay có tác động mạnh.** Nếu bạn phải đắn đo về nó trước khi gửi, thì có lẽ nó không ổn đâu. Tránh những thứ như ánh sáng nhấp nháy, chớp giật, máu me, hình ảnh bạo hành hay bất cứ nội dung nặng đô nào khác. 
+6. **Để ý những thứ bạn chia sẻ với người khác, đặc biệt khi nội dung có thể chứa những thứ có bản chất khó chịu hay có tác động mạnh.** Nếu bạn phải đắn đo về nó trước khi gửi, thì có lẽ nó không ổn đâu. Tránh những thứ như ánh sáng nhấp nháy, chớp giật, máu me, hình ảnh bạo hành hay bất cứ nội dung nặng đô nào khác.
 7. **Chỉ đăng link các trang web hợp pháp và có liên quan.** Những trang chiếu lậu (những trang được cấp phép như Animelab hay Crunchyroll thì OK) hay bất chứ thứ gì liên quan tới "warez" hay bất cứ phần mềm lậu đều không ổn, và chúng tôi không muốn thấy nó trong chat. Quảng cáo link Twitch về trò chơi khác cũng được thôi, nhưng CHỈ ở `#videogames`.
 8. **Không quảng cáo bất cứ server chat bên thứ ba nào, bao gồm nhóm/server Discord, Teamspeak, Skype, Facebook, ...** osu! chat chỉ nên đặt osu! lên hàng đầu, chứ không phải nơi chia sẻ link tới server cá nhân. Quảng cáo trong chat riêng tư nếu cần.
 9. **Trong các kênh ngôn ngữ cụ thể, bạn phải nói ngôn ngữ đó (Tiếng Anh trong `#english`, Tiếng Việt trong `#vietnamese`, v.v.) khi tham gia thảo luận.** Ở những kênh không ghi chú ngôn ngữ, hãy luôn nói tiếng Anh. Kênh `#lobby` và `#help` có thể sử dụng bất cứ ngôn ngữ nào, không như các kênh khác. *Những ai là [nhân viên quản trị](/wiki/People/The_Team/Global_Moderation_Team) không cần tuân theo nội quy này khi đang thi hành nhiệm vụ.*
@@ -42,7 +40,7 @@ Những nội quy dưới đây là nền móng trong việc gìn giữ cộng �
 
 ## Nội quy đăng beatmap
 
-*Chú ý: Những nội quy dưới đây áp dụng cho **mọi map đăng lên**, chứ không chỉ map được xếp hạng. Về nội quy riêng cho beatmap được xếp hạng, hãy xem [Tiêu chuẩn Xếp hạng](/wiki/Client/Beatmap_editor).*
+*Chú ý: Những nội quy dưới đây áp dụng cho **mọi map đăng lên**, chứ không chỉ map được xếp hạng. Về nội quy riêng cho beatmap được xếp hạng, hãy xem [Tiêu chuẩn Xếp hạng](/wiki/Ranking_Criteria).*
 
 Những luật này được áp dụng chặt chẽ với mọi beatmap đăng trong game [Beatmap Submission System](/wiki/Submission). Những chủ đề/thảo luận được tạo thông qua osu! client khi một beatmap được đăng qua [editor](/wiki/Client/Beatmap_editor).
 
@@ -62,7 +60,7 @@ Những điều không hay đấy bao gồm (*nhưng không giới hạn*):
 - Bị mất quyền sửa hoặc thay đổi nội dung trên trang cá nhân hay các chi tiết trên hồ sơ.
 - Bị mất quyền chơi hoặc tham gia các giải đấu chính thức.
 
-Im lặng(/wiki/Silence) và các vi phạm khác **tự động** tăng thời lượng gần như theo cấp số nhân với mỗi lần vi phạm. Quản trị viên không điều chỉnh thời hạn bạn bị im lặng với mỗi lần vi phạm — những ai vi phạm liên tục sẽ bị cấm chơi trong khoảng thời gian dài.
+[Im lặng](/wiki/Silence) và các vi phạm khác **tự động** tăng thời lượng gần như theo cấp số nhân với mỗi lần vi phạm. Quản trị viên không điều chỉnh thời hạn bạn bị im lặng với mỗi lần vi phạm — những ai vi phạm liên tục sẽ bị cấm chơi trong khoảng thời gian dài.
 
 Một vài vi phạm có lượng thời gian phạt tối thiểu (thường là 42 tiếng trở lên) nếu nó có tính nghiêm trọng, chủ yếu là dành cho những lỗi vi phạm như chia sẻ nội dung không lành mạnh, hoặc liên tục quấy rối người chơi khác.
 
