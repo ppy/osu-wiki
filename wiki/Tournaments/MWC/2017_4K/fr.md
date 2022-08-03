@@ -1,41 +1,45 @@
 ---
-outdated_translation: true
+tags:
+  - MWC 2017
+  - MWC 4K 2017
+  - MWC2017
+  - MWC4K 2017
 ---
 
 # osu!mania 4K World Cup 2017
 
-![osu!mania 4K World Cup 2017](img/logo.jpg)
+![Logo de la MWC 4K 2017](img/logo.jpg)
 
-La **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) est un tournoi d'osu!mania entre pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de la osu!mania World Cup.
+L'**osu!mania 4K World Cup 2017** (***MWC 4K 2017***) est un tournoi d'osu!mania 4K par pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de l'osu!mania 4K World Cup.
 
 ## Calendrier du tournoi
 
 | Évènement | Date |
 | --: | :-- |
-| Inscription des équipes | 10 au 23 juillet 2017 |
-| Tirages au sort | 7 août 2017 (14:00 UTC+0) |
-| Phases de poules | 12 au 13 août 2017 |
-| Huitièmes de finale | 19 au 20 août 2017 |
-| Quarts de finale | 26 au 27 août 2017 |
-| Demi-finales | 2 au 3 septembre 2017 |
-| Finales - Semaine 1 | 9 au 10 septembre 2017 |
-| Finales - Semaine 2 | 16 au 17 septembre 2017 |
+| Inscription des équipes | 10/07/2017 - 23/07/2017 |
+| Tirages au sort | 07/08/2017 (14:00 UTC) |
+| Phases de poules | 12/08/2017 - 13/08/2017 |
+| Huitièmes de finale | 20/08/2017 |
+| Quarts de finale | 26/08/2017 - 27/08/2017 |
+| Demi-finales | 02/09/2017 - 03/09/2017 |
+| Finales - Semaine 1 | 09/09/2017 - 10/09/2017 |
+| Finales - Semaine 2 | 16/09/2017 |
 
 ## Récompenses
 
-Dans chaque coupe du monde, les joueurs qui réussissent à obtenir une place sur le podium reçoivent des prix uniques créés spécialement pour les gagnants de la coupe du monde. Il est possible que ces récompenses changent entre plusieurs coupe du monde.
-
 | Place | Récompenses |
 | :-- | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1re place") | 150 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil, et le titre « osu!mania Champion » pendant un an |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2e place") | 80 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3e place") | 40 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | 150 $ par membre de l'équipe, un badge de profil unique, de la marchandise exclusive d'osu!, le titre "osu!mania Champion" pendant un an |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 80 $ par membre de l'équipe, un badge de profil unique, de la marchandise exclusive d'osu! |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 40 $ par membre de l'équipe, un badge de profil unique, de la marchandise exclusive d'osu! |
+
+![](img/badge.jpg "Badge des gagnants de la MWC 4K 2017") ![](img/badge2.jpg "Badge de la 2ème place de la MWC 4K 2017") ![](img/badge3.jpg "Badge de la 3ème place de la MWC 4K 2017")
 
 ## Organisation
 
-La coupe du monde osu!mania 2017 est organisée par divers membres de la communauté, la multitude de tâches est distribuée dans plusieurs domaines de responsabilité.
+L'osu!mania 4K World Cup 2017 était organisée par divers membres de la communauté.
 
-| Poste | Membre |
+| Poste | Membre(s) |
 | :-- | :-- |
 | Direction | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
 | Sélecteurs de beatmaps | ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |
@@ -44,46 +48,11 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ## Liens
 
-- [Topic de discussion](https://osu.ppy.sh/community/forums/topics/615787)
+- [Fil de discussion](https://osu.ppy.sh/community/forums/topics/615787)
 - [Diffusion en direct](https://www.twitch.tv/osulive)
-- [Supportez votre équipe avec une bannière de profil !](https://osu.ppy.sh/store/products/226)
-- **[Statistiques générales, groupes et plus!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
-
-## Calendrier des matchs : demi-finales
-
-### Samedi 2 septembre 2017
-
-| Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | - |
-| Suède | ::{ flag=SE }:: | ::{ flag=JP }:: | Japon | **11h00 UTC** | 13h00 UTC +2 | 20h00 UTC +9 | ² |
-| Chine | ::{ flag=CN }:: | ::{ flag=FR }:: | France | **12h30 UTC** | 20h30 UTC +8 | 14h30 UTC +2 | ² |
-| Brésil | ::{ flag=BR }:: | ::{ flag=KR }:: | Corée du Sud | **14h00 UTC** | 11h00 UTC -3 | 23h00 UTC +9 | ¹ |
-| Pologne | ::{ flag=PL }:: | ::{ flag=ID }:: | Indonésie | **15h30 UTC** | 17h30 UTC +2 | 22h30 UTC +7 | ² |
-| Royaume-Uni | ::{ flag=GB }:: | ::{ flag=CA }:: | Canada | **17h00 UTC** | 18h00 UTC +1 | 12h00 UTC -5 | ² |
-| États-Unis | ::{ flag=US }:: | ::{ flag=CL }:: | Chili | **18h30 UTC** | 13h30 UTC -5 | 15h30 UTC -3 | ¹ |
-| France | ::{ flag=FR }:: | ::{ flag=CA }:: | Canada | **20h00 UTC** | 22h00 UTC +2 | 15h00 UTC -5 | ³ |
-
-### Dimanche 3 septembre 2017
-
-| Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | - |
-| Suède | ::{ flag=SE }:: | ::{ flag=PL }:: | Pologne | **12h30 UTC** | 14h30 UTC +2 | 14h30 UTC +2 | ³ |
-| Suède | ::{ flag=SE }:: | ::{ flag=ID }:: | Indonésie | **12h30 UTC** | 14h30 UTC +2 | 19h30 UTC +7 | ³ |
-| Japon | ::{ flag=JP }:: | ::{ flag=PL }:: | Pologne | **12h30 UTC** | 21h30 UTC +9 | 14h30 UTC +2 | ³ |
-| Japon | ::{ flag=JP }:: | ::{ flag=ID }:: | Indonésie | **12h30 UTC** | 21h30 UTC +9 | 19h30 UTC +7 | ³ |
-| Chine | ::{ flag=CN }:: | ::{ flag=GB }:: | Royaume-Uni | **14h00 UTC** | 22h00 UTC +8 | 15h00 UTC +1 | ³ |
-| Chine | ::{ flag=CN }:: | ::{ flag=CA }:: | Canada | **14h00 UTC** | 22h00 UTC +8 | 9h00 UTC -5 | ³ |
-| France | ::{ flag=FR }:: | ::{ flag=GB }:: | Royaume-Uni | **14h00 UTC** | 16h00 UTC +2 | 15h00 UTC +1 | ³ |
-
-¹ Rencontre du tableau des gagnants
-
-² Rencontre du tableau des perdants
-
-³ La rencontre dépend du résultat de la ²Rencontre du tableau des perdants
+- **[Statistiques générales, groupes et plus !](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
 
 ## Participants
-
-### Équipes confirmées
 
 |  | Pays | Membres |
 | --: | :-: | :-- |
@@ -120,9 +89,51 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | ::{ flag=US }:: | **États-Unis** | **[Zyph](https://osu.ppy.sh/users/1600432)**, [EtienneXC](https://osu.ppy.sh/users/5610085), [TheToaphster](https://osu.ppy.sh/users/7616811), [Chrubble](https://osu.ppy.sh/users/2594280), [stupud man](https://osu.ppy.sh/users/2141612), [xElectroGH](https://osu.ppy.sh/users/3251373) |
 | ::{ flag=VE }:: | **Venezuela** | **[Cyssel](https://osu.ppy.sh/users/6394478)**, [Satoruu](https://osu.ppy.sh/users/2243452), [Shinsekai-](https://osu.ppy.sh/users/2140739), [Marunne](https://osu.ppy.sh/users/8841450), [Prancer](https://osu.ppy.sh/users/1821350), [\[-Gearfrik-\]](https://osu.ppy.sh/users/8198818) |
 
-![Double Elimination bracket](img/bracket.jpg)
+## Groupes
+
+| Groupe | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ::{ flag=BR }:: Brésil | ::{ flag=PL }:: Pologne | ::{ flag=PH }:: Philippines | ::{ flag=VE }:: Venezuela |
+| **B** | ::{ flag=GB }:: Royaume-Uni | ::{ flag=MY }:: Malaisie | ::{ flag=HK }:: Hong Kong | ::{ flag=NO }:: Norvège |
+| **C** | ::{ flag=CN }:: Chine | ::{ flag=FR }:: France | ::{ flag=AU }:: Australie | ::{ flag=TW }:: Taïwan |
+| **D** | ::{ flag=US }:: États-Unis | ::{ flag=AR }:: Argentine | ::{ flag=MX }:: Mexique | ::{ flag=DE }:: Allemagne |
+| **E** | ::{ flag=KR }:: Corée du Sud | ::{ flag=SE }:: Suède | ::{ flag=RU }:: Fédération de Russie | ::{ flag=FI }:: Finlande |
+| **F** | ::{ flag=ID }:: Indonésie | ::{ flag=IT }:: Italie | ::{ flag=ES }:: Espagne | ::{ flag=NZ }:: Nouvelle-Zélande |
+| **G** | ::{ flag=JP }:: Japon | ::{ flag=CA }:: Canada | ::{ flag=CH }:: Suisse | ::{ flag=NL }:: Pays-Bas |
+| **H** | ::{ flag=CL }:: Chili | ::{ flag=TH }:: Thaïlande | ::{ flag=SG }:: Singapour | ::{ flag=BE }:: Belgique |
+
+![](img/bracket.jpg "Bracket de la MWC 4K 2017")
+
+## Podium
+
+![](img/podium.jpg "Podium de la MWC 4K 2017")
 
 ## Mappools
+
+### Finales
+
+**Ce mappool a été joué lors de la semaine 1 et la semaine 2 des finales.**
+
+**[Téléchargez le pack de beatmaps ici ! (123MB)](http://www.mediafire.com/file/jho7mgavbd8ktlo/MWC4K_2017_Finals.rar)**
+
+- FreeMod
+  1. [Mick Gordon - The Mastermind (Pope Gadget) \[Brainstorm\]](https://osu.ppy.sh/beatmapsets/663258#mania/1403911)
+  2. [Nine Inch Nails - March Of The Pigs (Valedict) \[OiNK\]](https://osu.ppy.sh/beatmapsets/544334#mania/1153543)
+  3. [DJ Sharpnel - Lolit Speed (IcyWorld) \[Marathon\]](https://osu.ppy.sh/beatmapsets/644943#mania/1366733)
+  4. [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/740979#mania/1349843)
+  5. [The Quick Brown Fox - Break (beary605) \[Smash\]](https://osu.ppy.sh/beatmapsets/500905#mania/1066057)
+  6. [Makou - Hamsin (Wh1teh) \[!!\]](https://osu.ppy.sh/beatmapsets/663678#mania/1404752)
+  7. [sakuraburst - descent (Ciel) \[delve\]](https://osu.ppy.sh/beatmapsets/664018#mania/1405397)
+  8. [Camellia - K.Y.A.F.A. (Evening) \[UNSTOPPABLE DOMINATION\]](https://osu.ppy.sh/beatmapsets/477233#mania/1076362)
+  9. [Miyu Tomita, Saori Oonishi, Naomi Ohzora, Kana Hanazawa - Hallelujah Essaim (JztCallMeRon) \[In the Name of God\]](https://osu.ppy.sh/beatmapsets/593598#mania/1255764)
+  10. [Sound Horizon - Raijin no Hidariude (-Kamikaze-) \[Tempest w/ \_underjoy\]](https://osu.ppy.sh/beatmapsets/599091#mania/1266238)
+  11. [Xanopticon - Psicicite (207bpm) (Shoegazer) \[Extreme\]](https://osu.ppy.sh/beatmapsets/659977#mania/1398964)
+  12. [Camellia - Lunatic Rough Party!! (Fullerene-) \[Inspire\]](https://osu.ppy.sh/beatmapsets/494345#mania/1052580)
+  13. [Behemoth - Daimonos (Wh1teh) \[Evangelion\]](https://osu.ppy.sh/beatmapsets/507176#mania/1078837)
+  14. [Yuuyu - Scrap Syndrome (Halogen-) \[Manic Disassembly\]](https://osu.ppy.sh/beatmapsets/663256#mania/1403908)
+  15. [Kairiki Bear - Inaiinai isonshou (feat. GUMI, Kagamine Rin) (juankristal) \[timing hell \[NSV\]\]](https://osu.ppy.sh/beatmapsets/663472#mania/1404354)
+- Tiebreaker
+  1. **[Infected Mushroom - The Messenger 2012 (Sped Up Ver.) (Pope Gadget) \[Witness\]](https://osu.ppy.sh/beatmapsets/664041#mania/1484095)**
 
 ### Demi-finales
 
@@ -210,90 +221,145 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ## Résultats des matchs
 
+### Finales - Semaine 2
+
+Samedi 16 septembre 2017 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
+| --: | :-: | :-: | :-- | :-- |
+| États-Unis ::{ flag=US }:: | 0 | **7** | ::{ flag=KR }:: **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/36111799) |
+
+### Finales - Semaine 1
+
+Samedi 9 septembre 2017 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
+| --: | :-: | :-: | :-- | :-- |
+| **Japon** ::{ flag=JP }:: | **6** | 0 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/35952218) |
+| Royaume-Uni ::{ flag=GB }:: | 0 | **6** | ::{ flag=BR }:: **Brésil** | [#1](https://osu.ppy.sh/community/matches/35955973) |
+
+Dimanche 10 septembre 2017 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
+| --: | :-: | :-: | :-- | :-- |
+| **Corée du Sud** ::{ flag=KR }:: | **6** | 0 | ::{ flag=US }:: États-Unis | [#1](https://osu.ppy.sh/community/matches/35972975) |
+| **Brésil** ::{ flag=BR }:: | **6** | 1 | ::{ flag=JP }:: Japon | [#1](https://osu.ppy.sh/community/matches/35974418) |
+| Brésil ::{ flag=BR }:: | 5 | **6** | ::{ flag=US }:: **États-Unis** | [#1](https://osu.ppy.sh/community/matches/35998794) |
+
+### Demi-finale
+
+Samedi 2 septembre 2017 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
+| --: | :-: | :-: | :-- | :-- |
+| Suède ::{ flag=SE }:: | 1 | **6** | ::{ flag=JP }:: **Japon** | [#1](https://osu.ppy.sh/community/matches/35769761) |
+| **Chine** ::{ flag=CN }:: | **6** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/35771726) |
+| Brésil ::{ flag=BR }:: | 0 | **6** | ::{ flag=KR }:: **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/35774130) |
+| Pologne ::{ flag=PL }:: | 1 | **6** | ::{ flag=ID }:: **Indonésie** | [#1](https://osu.ppy.sh/community/matches/35777392) |
+| **Royaume-Uni** ::{ flag=GB }:: | **6** | 3 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/35779902) |
+| **États-Unis** ::{ flag=US }:: | **6** | 0 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/35783065) |
+
+Dimanche 3 septembre 2017 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
+| --: | :-: | :-: | :-- | :-- |
+| **Japon** ::{ flag=JP }:: | **6** | 3 | ::{ flag=ID }:: Indonésie | [#1](https://osu.ppy.sh/community/matches/35804308) |
+| Chine ::{ flag=CN }:: | 2 | **6** | ::{ flag=GB }:: **Royaume-Uni** | [#1](https://osu.ppy.sh/community/matches/35807134) |
+
 ### Quarts de finale
 
-| Samedi 26 août 2017 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| France ::{ flag=FR }:: | 4 | 5 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/35585664) |
-| Argentine ::{ flag=AR }:: | 1 | 5 | ::{ flag=GB }:: Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/35588367) |
-| Canada ::{ flag=CA }:: | 0 | 5 | ::{ flag=US }:: États-Unis | [#1](https://osu.ppy.sh/community/matches/35590366) |
+Samedi 26 août 2017 :
 
-| Dimanche 27 août 2017 |  |  |  |  |
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-: |
-| Corée du Sud ::{ flag=KR }:: | 5 | 0 | ::{ flag=JP }:: Japon | [#1](https://osu.ppy.sh/community/matches/35601021) |
-| Nouvelle-Zélande ::{ flag=NZ }:: | 0 | 5 | ::{ flag=PL }:: Pologne | [#1](https://osu.ppy.sh/community/matches/35602514) |
-| Singapour ::{ flag=SG }:: | 1 | 5 | ::{ flag=CN }:: Chine | [#1](https://osu.ppy.sh/community/matches/35604433) |
-| Hong-Kong ::{ flag=HK }:: | 0 | 5 | ::{ flag=SE }:: Suède | -Victoire par défaut- |
-| Brésil ::{ flag=BR }:: | 5 | 1 | ::{ flag=ID }:: Indonésie | [#1](https://osu.ppy.sh/community/matches/35608732) |
+| France ::{ flag=FR }:: | 4 | **5** | ::{ flag=CL }:: **Chili** | [#1](https://osu.ppy.sh/community/matches/35585664) |
+| Argentine ::{ flag=AR }:: | 1 | **5** | ::{ flag=GB }:: **Royaume-Uni** | [#1](https://osu.ppy.sh/community/matches/35588367) |
+| Canada ::{ flag=CA }:: | 0 | **5** | ::{ flag=US }:: **États-Unis** | [#1](https://osu.ppy.sh/community/matches/35590366) |
+
+Dimanche 27 août 2017 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
+| --: | :-: | :-: | :-- | :-: |
+| **Corée du Sud** ::{ flag=KR }:: | **5** | 0 | ::{ flag=JP }:: Japon | [#1](https://osu.ppy.sh/community/matches/35601021) |
+| Nouvelle-Zélande ::{ flag=NZ }:: | 0 | **5** | ::{ flag=PL }:: **Pologne** | [#1](https://osu.ppy.sh/community/matches/35602514) |
+| Singapour ::{ flag=SG }:: | 1 | **5** | ::{ flag=CN }:: **Chine** | [#1](https://osu.ppy.sh/community/matches/35604433) |
+| Hong-Kong ::{ flag=HK }:: | 0 | **5** | ::{ flag=SE }:: **Suède** | *victoire par défaut* |
+| **Brésil** ::{ flag=BR }:: | **5** | 1 | ::{ flag=ID }:: Indonésie | [#1](https://osu.ppy.sh/community/matches/35608732) |
 
 ### Huitièmes de finale
 
-| Dimanche 20 août 2017 |  |  |  |  |
+Dimanche 20 août 2017 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-: |
-| Nouvelle-Zélande ::{ flag=NZ }:: | 1 | 5 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/35418105) |
-| Indonésie ::{ flag=ID }:: | 5 | 1 | ::{ flag=CN }:: Chine | [#1](https://osu.ppy.sh/community/matches/35419189) |
-| Royaume-Uni ::{ flag=GB }:: | 3 | 5 | ::{ flag=JP }:: Japon | [#1](https://osu.ppy.sh/community/matches/35420314) |
-| Corée du Sud ::{ flag=KR }:: | 5 | 0 | ::{ flag=AR }:: Argentine | [#1](https://osu.ppy.sh/community/matches/35421542) |
-| Brésil ::{ flag=BR }:: | 5 | 0 | ::{ flag=SG }:: Singapour | [#1](https://osu.ppy.sh/community/matches/35423100) |
-| Hong-Kong ::{ flag=HK }:: | 4 | 5 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/35424487) |
-| Pologne ::{ flag=PL }:: | 0 | 5 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/35429710) |
-| Suède ::{ flag=SE }:: | 0 | 5 | ::{ flag=US }:: États-Unis | [#1](https://osu.ppy.sh/community/matches/35431890) |
+| Nouvelle-Zélande ::{ flag=NZ }:: | 1 | **5** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/35418105) |
+| **Indonésie** ::{ flag=ID }:: | **5** | 1 | ::{ flag=CN }:: Chine | [#1](https://osu.ppy.sh/community/matches/35419189) |
+| Royaume-Uni ::{ flag=GB }:: | 3 | **5** | ::{ flag=JP }:: **Japon** | [#1](https://osu.ppy.sh/community/matches/35420314) |
+| **Corée du Sud** ::{ flag=KR }:: | **5** | 0 | ::{ flag=AR }:: Argentine | [#1](https://osu.ppy.sh/community/matches/35421542) |
+| **Brésil** ::{ flag=BR }:: | **5** | 0 | ::{ flag=SG }:: Singapour | [#1](https://osu.ppy.sh/community/matches/35423100) |
+| Hong-Kong ::{ flag=HK }:: | 4 | **5** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/35424487) |
+| Pologne ::{ flag=PL }:: | 0 | **5** | ::{ flag=CL }:: **Chili** | [#1](https://osu.ppy.sh/community/matches/35429710) |
+| Suède ::{ flag=SE }:: | 0 | **5** | ::{ flag=US }:: **États-Unis** | [#1](https://osu.ppy.sh/community/matches/35431890) |
 
 ### Phases de poules
 
-| Samedi 12 août 2017 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
-| Taïwan ::{ flag=TW }:: | 2 | 4 | ::{ flag=AU }:: Australie | [#1](https://osu.ppy.sh/community/matches/35209765) |
-| Fédération de Russie ::{ flag=RU }:: | 0 | 4 | ::{ flag=KR }:: Corée du Sud | [#1](https://osu.ppy.sh/community/matches/35209716) |
-| Nouvelle-Zélande ::{ flag=NZ }:: | 1 | 4 | ::{ flag=ID }:: Indonésie | [#1](https://osu.ppy.sh/community/matches/35209719) |
-| Philippines ::{ flag=PH }:: | 1 | 4 | ::{ flag=PL }:: Pologne | [#1](https://osu.ppy.sh/community/matches/35210698) |
-| Norvège ::{ flag=NO }:: | 3 | 4 | ::{ flag=HK }:: Hong-Kong | [#1](https://osu.ppy.sh/community/matches/35210701) |
-| Malaisie ::{ flag=MY }:: | 0 | 4 | ::{ flag=GB }:: Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/35210711) |
-| Suisse ::{ flag=CH }:: | 0 | 4 | ::{ flag=JP }:: Japon | [#1](https://osu.ppy.sh/community/matches/35210713) |
-| Norvège ::{ flag=NO }:: | 0 | 4 | ::{ flag=GB }:: Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/35211634) |
-| Australie ::{ flag=AU }:: | 1 | 4 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/35211644) |
-| Finlande ::{ flag=FI }:: | 4 | 2 | ::{ flag=RU }:: Fédération de Russie | [#1](https://osu.ppy.sh/community/matches/35211647) |
-| Singapour ::{ flag=SG }:: | 4 | 1 | ::{ flag=TH }:: Thaïlande | [#1](https://osu.ppy.sh/community/matches/35211655) |
-| France ::{ flag=FR }:: | 4 | 1 | ::{ flag=CN }:: Chine | [#1](https://osu.ppy.sh/community/matches/35212839) |
-| Fédération de Russie ::{ flag=RU }:: | 0 | 4 | ::{ flag=SE }:: Suède | [#1](https://osu.ppy.sh/community/matches/35212859) |
-| Belgique ::{ flag=BE }:: | 3 | 4 | ::{ flag=TH }:: Thaïlande | [#1](https://osu.ppy.sh/community/matches/35212861) |
-| Singapour ::{ flag=SG }:: | 0 | 4 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/35212866) |
-| Venezuela ::{ flag=VE }:: | 2 | 4 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/35214348) |
-| Finlande ::{ flag=FI }:: | 0 | 4 | ::{ flag=SE }:: Suède | [#1](https://osu.ppy.sh/community/matches/35214425) |
-| Espagne ::{ flag=ES }:: | 3 | 4 | ::{ flag=IT }:: Italie | [#1](https://osu.ppy.sh/community/matches/35214428) |
-| Belgique ::{ flag=BE }:: | 0 | 4 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/35214432) |
-| Pologne ::{ flag=PL }:: | 0 | 4 | ::{ flag=BR }:: Brésil | [#1](https://osu.ppy.sh/community/matches/35218496) |
-| Allemagne ::{ flag=DE }:: | 0 | 4 | ::{ flag=MX }:: Mexique | [#1](https://osu.ppy.sh/community/matches/35219133) |
-| Argentine ::{ flag=AR }:: | 1 | 4 | ::{ flag=US }:: États-Unis | [#1](https://osu.ppy.sh/community/matches/35218503) |
-| Pays-Bas ::{ flag=NL }:: | 1 | 4 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/35218508) |
-| Venezuela ::{ flag=VE }:: | 0 | 4 | ::{ flag=PL }:: Pologne | [#1](https://osu.ppy.sh/community/matches/35219912) |
-| Allemagne ::{ flag=DE }:: | 0 | 4 | ::{ flag=US }:: États-Unis | [#1](https://osu.ppy.sh/community/matches/35219931) |
-| Mexique ::{ flag=MX }:: | 0 | 4 | ::{ flag=AR }:: Argentine | [#1](https://osu.ppy.sh/community/matches/35219934) |
-| Suisse ::{ flag=CH }:: | 0 | 4 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/35219940) |
+Samedi 12 août 2017 :
 
-| Dimanche 13 août 2017 |  |  |  |  |
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-: |
-| Nouvelle-Zélande ::{ flag=NZ }:: | 4 | 2 | ::{ flag=ES }:: Espagne | [#1](https://osu.ppy.sh/community/matches/35236072) |
-| Italie ::{ flag=IT }:: | 0 | 4 | ::{ flag=ID }:: Indonésie | [#1](https://osu.ppy.sh/community/matches/35236074) |
-| Pays-Bas ::{ flag=NL }:: | 1 | 4 | ::{ flag=JP }:: Japon | [#1](https://osu.ppy.sh/community/matches/35236084) |
-| Nouvelle-Zélande ::{ flag=NZ }:: | 4 | 0 | ::{ flag=IT }:: Italie | [#1](https://osu.ppy.sh/community/matches/35237009) |
-| Australie ::{ flag=AU }:: | 1 | 4 | ::{ flag=CN }:: Chine | [#1](https://osu.ppy.sh/community/matches/35237013) |
-| Belgique ::{ flag=BE }:: | 0 | 4 | ::{ flag=SG }:: Singapour | -Victoire par défaut- |
-| Espagne ::{ flag=ES }:: | 0 | 4 | ::{ flag=ID }:: Indonésie | [#1](https://osu.ppy.sh/community/matches/35237019) |
-| Norvège ::{ flag=NO }:: | 2 | 4 | ::{ flag=MY }:: Malaisie | [#1](https://osu.ppy.sh/community/matches/35237818) |
-| Hong-Kong ::{ flag=HK }:: | 0 | 4 | ::{ flag=GB }:: Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/35237821) |
-| Suède ::{ flag=SE }:: | 2 | 4 | ::{ flag=KR }:: Corée du Sud | [#1](https://osu.ppy.sh/community/matches/35237888) |
-| Hong-Kong ::{ flag=HK }:: | 4 | 2 | ::{ flag=MY }:: Malaisie | [#1](https://osu.ppy.sh/community/matches/35238975) |
-| Taïwan ::{ flag=TW }:: | 2 | 4 | ::{ flag=CN }:: Chine | [#1](https://osu.ppy.sh/community/matches/35238978) |
-| Finlande ::{ flag=FI }:: | 0 | 4 | ::{ flag=KR }:: Corée du Sud | [#1](https://osu.ppy.sh/community/matches/35238983) |
-| Philippines ::{ flag=PH }:: | 1 | 4 | ::{ flag=BR }:: Brésil | [#1](https://osu.ppy.sh/community/matches/35240162) |
-| Taïwan ::{ flag=TW }:: | 1 | 4 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/35240166) |
-| Canada ::{ flag=CA }:: | 4 | 1 | ::{ flag=JP }:: Japon | [#1](https://osu.ppy.sh/community/matches/35240169) |
-| Thaïlande ::{ flag=TH }:: | 2 | 4 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/35240175) |
-| Pays-Bas ::{ flag=NL }:: | 1 | 4 | ::{ flag=CH }:: Suisse | [#1](https://osu.ppy.sh/community/matches/35241555) |
-| Venezuela ::{ flag=VE }:: | 0 | 4 | ::{ flag=BR }:: Brésil | -Victoire par défaut- |
-| Allemagne ::{ flag=DE }:: | 0 | 4 | ::{ flag=AR }:: Argentine | [#1](https://osu.ppy.sh/community/matches/35241635) |
-| Mexique ::{ flag=MX }:: | 0 | 4 | ::{ flag=US }:: États-Unis | [#1](https://osu.ppy.sh/community/matches/35241640) |
+| Taïwan ::{ flag=TW }:: | 2 | **4** | ::{ flag=AU }:: **Australie** | [#1](https://osu.ppy.sh/community/matches/35209765) |
+| Fédération de Russie ::{ flag=RU }:: | 0 | **4** | ::{ flag=KR }:: **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/35209716) |
+| Nouvelle-Zélande ::{ flag=NZ }:: | 1 | **4** | ::{ flag=ID }:: **Indonésie** | [#1](https://osu.ppy.sh/community/matches/35209719) |
+| Philippines ::{ flag=PH }:: | 1 | **4** | ::{ flag=PL }:: **Pologne** | [#1](https://osu.ppy.sh/community/matches/35210698) |
+| Norvège ::{ flag=NO }:: | 3 | **4** | ::{ flag=HK }:: **Hong-Kong** | [#1](https://osu.ppy.sh/community/matches/35210701) |
+| Malaisie ::{ flag=MY }:: | 0 | **4** | ::{ flag=GB }:: **Royaume-Uni** | [#1](https://osu.ppy.sh/community/matches/35210711) |
+| Suisse ::{ flag=CH }:: | 0 | **4** | ::{ flag=JP }:: **Japon** | [#1](https://osu.ppy.sh/community/matches/35210713) |
+| Norvège ::{ flag=NO }:: | 0 | **4** | ::{ flag=GB }:: **Royaume-Uni** | [#1](https://osu.ppy.sh/community/matches/35211634) |
+| Australie ::{ flag=AU }:: | 1 | **4** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/35211644) |
+| **Finlande** ::{ flag=FI }:: | **4** | 2 | ::{ flag=RU }:: Fédération de Russie | [#1](https://osu.ppy.sh/community/matches/35211647) |
+| **Singapour** ::{ flag=SG }:: | **4** | 1 | ::{ flag=TH }:: Thaïlande | [#1](https://osu.ppy.sh/community/matches/35211655) |
+| **France** ::{ flag=FR }:: | **4** | 1 | ::{ flag=CN }:: Chine | [#1](https://osu.ppy.sh/community/matches/35212839) |
+| Fédération de Russie ::{ flag=RU }:: | 0 | **4** | ::{ flag=SE }:: **Suède** | [#1](https://osu.ppy.sh/community/matches/35212859) |
+| Belgique ::{ flag=BE }:: | 3 | **4** | ::{ flag=TH }:: **Thaïlande** | [#1](https://osu.ppy.sh/community/matches/35212861) |
+| Singapour ::{ flag=SG }:: | 0 | **4** | ::{ flag=CL }:: **Chili** | [#1](https://osu.ppy.sh/community/matches/35212866) |
+| Venezuela ::{ flag=VE }:: | 2 | **4** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/35214348) |
+| Finlande ::{ flag=FI }:: | 0 | **4** | ::{ flag=SE }:: **Suède** | [#1](https://osu.ppy.sh/community/matches/35214425) |
+| Espagne ::{ flag=ES }:: | 3 | **4** | ::{ flag=IT }:: **Italie** | [#1](https://osu.ppy.sh/community/matches/35214428) |
+| Belgique ::{ flag=BE }:: | 0 | **4** | ::{ flag=CL }:: **Chili** | [#1](https://osu.ppy.sh/community/matches/35214432) |
+| Pologne ::{ flag=PL }:: | 0 | **4** | ::{ flag=BR }:: **Brésil** | [#1](https://osu.ppy.sh/community/matches/35218496) |
+| Allemagne ::{ flag=DE }:: | 0 | **4** | ::{ flag=MX }:: **Mexique** | [#1](https://osu.ppy.sh/community/matches/35219133) |
+| Argentine ::{ flag=AR }:: | 1 | **4** | ::{ flag=US }:: **États-Unis** | [#1](https://osu.ppy.sh/community/matches/35218503) |
+| Pays-Bas ::{ flag=NL }:: | 1 | **4** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/35218508) |
+| Venezuela ::{ flag=VE }:: | 0 | **4** | ::{ flag=PL }:: **Pologne** | [#1](https://osu.ppy.sh/community/matches/35219912) |
+| Allemagne ::{ flag=DE }:: | 0 | **4** | ::{ flag=US }:: **États-Unis** | [#1](https://osu.ppy.sh/community/matches/35219931) |
+| Mexique ::{ flag=MX }:: | 0 | **4** | ::{ flag=AR }:: **Argentine** | [#1](https://osu.ppy.sh/community/matches/35219934) |
+| Suisse ::{ flag=CH }:: | 0 | **4** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/35219940) |
+
+Dimanche 13 août 2017 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
+| --: | :-: | :-: | :-- | :-: |
+| **Nouvelle-Zélande** ::{ flag=NZ }:: | **4** | 2 | ::{ flag=ES }:: Espagne | [#1](https://osu.ppy.sh/community/matches/35236072) |
+| Italie ::{ flag=IT }:: | 0 | **4** | ::{ flag=ID }:: **Indonésie** | [#1](https://osu.ppy.sh/community/matches/35236074) |
+| Pays-Bas ::{ flag=NL }:: | 1 | **4** | ::{ flag=JP }:: **Japon** | [#1](https://osu.ppy.sh/community/matches/35236084) |
+| **Nouvelle-Zélande** ::{ flag=NZ }:: | **4** | 0 | ::{ flag=IT }:: Italie | [#1](https://osu.ppy.sh/community/matches/35237009) |
+| Australie ::{ flag=AU }:: | 1 | **4** | ::{ flag=CN }:: **Chine** | [#1](https://osu.ppy.sh/community/matches/35237013) |
+| Belgique ::{ flag=BE }:: | 0 | **4** | ::{ flag=SG }:: **Singapour** | *victoire par défaut* |
+| Espagne ::{ flag=ES }:: | 0 | **4** | ::{ flag=ID }:: **Indonésie** | [#1](https://osu.ppy.sh/community/matches/35237019) |
+| Norvège ::{ flag=NO }:: | 2 | **4** | ::{ flag=MY }:: **Malaisie** | [#1](https://osu.ppy.sh/community/matches/35237818) |
+| Hong-Kong ::{ flag=HK }:: | 0 | **4** | ::{ flag=GB }:: **Royaume-Uni** | [#1](https://osu.ppy.sh/community/matches/35237821) |
+| Suède ::{ flag=SE }:: | 2 | **4** | ::{ flag=KR }:: **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/35237888) |
+| **Hong-Kong** ::{ flag=HK }:: | **4** | 2 | ::{ flag=MY }:: Malaisie | [#1](https://osu.ppy.sh/community/matches/35238975) |
+| Taïwan ::{ flag=TW }:: | 2 | **4** | ::{ flag=CN }:: **Chine** | [#1](https://osu.ppy.sh/community/matches/35238978) |
+| Finlande ::{ flag=FI }:: | 0 | **4** | ::{ flag=KR }:: **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/35238983) |
+| Philippines ::{ flag=PH }:: | 1 | **4** | ::{ flag=BR }:: **Brésil** | [#1](https://osu.ppy.sh/community/matches/35240162) |
+| Taïwan ::{ flag=TW }:: | 1 | **4** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/35240166) |
+| **Canada** ::{ flag=CA }:: | **4** | 1 | ::{ flag=JP }:: Japon | [#1](https://osu.ppy.sh/community/matches/35240169) |
+| Thaïlande ::{ flag=TH }:: | 2 | **4** | ::{ flag=CL }:: **Chili** | [#1](https://osu.ppy.sh/community/matches/35240175) |
+| Pays-Bas ::{ flag=NL }:: | 1 | **4** | ::{ flag=CH }:: **Suisse** | [#1](https://osu.ppy.sh/community/matches/35241555) |
+| Venezuela ::{ flag=VE }:: | 0 | **4** | ::{ flag=BR }:: **Brésil** | *victoire par défaut* |
+| Allemagne ::{ flag=DE }:: | 0 | **4** | ::{ flag=AR }:: **Argentine** | [#1](https://osu.ppy.sh/community/matches/35241635) |
+| Mexique ::{ flag=MX }:: | 0 | **4** | ::{ flag=US }:: **États-Unis** | [#1](https://osu.ppy.sh/community/matches/35241640) |
 
 ## Règles
 
