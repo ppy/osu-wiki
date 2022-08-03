@@ -6,13 +6,13 @@ Un vídeo de YouTube mostrando las mascotas de osu! puede verse en [Mascot Showc
 
 ## Oficiales
 
-### ![osu! icon](/wiki/shared/mode/osu.png) pippi
+### ![icono de osu!](/wiki/shared/mode/osu.png) pippi
 
 ![pippi](img/pippi.png "pippi")
 
 pippi, estilizado con una "p" minúscula, es la mascota de osu! que se unió en 2008-07. También se la conoce como pippidon en osu!taiko y tuvo aparición en [Yandere Simulator](https://yanderesimulator.com) como un NPC. El concepto de arte inicial fue creado por [Sarumaru](https://osu.ppy.sh/users/9427), el sprite de pippidon fue creado por [crystalsuicune](https://osu.ppy.sh/users/9974), y el arte actual fue diseñado por [Daru](https://osu.ppy.sh/users/32480).
 
-### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
+### ![icono de osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
 *Para la publicación en las noticias, véase: [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) y [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
 
@@ -20,7 +20,7 @@ pippi, estilizado con una "p" minúscula, es la mascota de osu! que se unió en 
 
 Yuzu es la mascota de osu!catch que se unió en 2014-06-22. Nació en 2000-04-10, mide 172 cm de altura, y pesa 65 kg. Su diseño de arte actual fue diseñado por [Thievley](https://osu.ppy.sh/users/4717672). Mientras que su diseño de arte inicial y los sprites del catcher fueron hechos por [ztrot](https://osu.ppy.sh/users/6347); Daru creó el arte del comboburst.
 
-### ![osu!mania icon](/wiki/shared/mode/mania.png) Mani & Mari
+### ![icono de osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
 *Para más información, véase: [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)*
 
@@ -30,7 +30,7 @@ Diseñado por [xiemon](https://osu.ppy.sh/users/5203667) después de ser selecci
 
 Mani es algo así como un inconformista, siempre buscando explorar nuevos estilos y cosas, mientras que su hermana Mari (anteriormente conocida como Maria) es una perfeccionista rígida y clásica con una inclinación por ser el centro de atención. Los dos se llevan como el aceite y el agua.
 
-### ![osu!taiko icon](/wiki/shared/mode/taiko.png) Mocha
+### ![icono de osu!taiko](/wiki/shared/mode/taiko.png) Mocha
 
 *Para la publicación en las noticias, véase: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)*
 
