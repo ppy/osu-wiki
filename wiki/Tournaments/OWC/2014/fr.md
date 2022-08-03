@@ -51,7 +51,7 @@ L'osu! World Cup 2014 était organisée par divers membres de la communauté.
 - [Diffusion en direct](https://www.twitch.tv/osulive)
 - **[Feuille de Stats](https://owc.nicarim.pw/results/view/3)**
 
-# Participants
+## Participants
 
 |  | Pays | Membres |
 | --: | :-: | :-- |
@@ -439,7 +439,7 @@ Dimanche, 9 Novembre 2014:
 9. des participants ont violé les termes du [règlement général](/wiki/Rules) d'osu! ([détails](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)).
 10. 32 équipes maximum sont autorisées à participer.
 11. La liste des équipes autorisées à participer sera publiée après la période d'inscription des équipes.
-   - Les capitaines recevront un message de confirmation si leur inscription a été validée ou rejetée.
+    - Les capitaines recevront un message de confirmation si leur inscription a été validée ou rejetée.
 12. Les membres de l'équipe de sélection des beatmaps ne sont pas autorisés à jouer.
 
 ### Déroulement des phases tournoi
