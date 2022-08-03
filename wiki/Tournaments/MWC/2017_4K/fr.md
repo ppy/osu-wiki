@@ -8,7 +8,7 @@ tags:
 
 # osu!mania 4K World Cup 2017
 
-![MWC 4K 2017 Logo](img/logo.jpg)
+![Logo de la MWC 4K 2017](img/logo.jpg)
 
 La **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) est un tournoi d'osu!mania entre pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de la osu!mania World Cup.
 
@@ -29,17 +29,17 @@ La **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) est un tournoi d'osu!mani
 
 | Place | Récompenses |
 | :-- | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | 150 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil, et le titre « osu!mania Champion » pendant un an |
-| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | 80 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | 40 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | 150 $ par membre de l'équipe, un badge de profil unique, de la marchandise exclusive d'osu!, le titre "osu!mania Champion" pendant un an |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 80 $ par membre de l'équipe, un badge de profil unique, de la marchandise exclusive d'osu! |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 40 $ par membre de l'équipe, un badge de profil unique, de la marchandise exclusive d'osu! |
 
-![](img/badge.jpg "MWC 4K 2017 winner badge") ![](img/badge2.jpg "MWC 4K 2017 2nd place badge") ![](img/badge3.jpg "MWC 4K 2017 3rd place badge")
+![](img/badge.jpg "Badge des gagnants de la MWC 4K 2017") ![](img/badge2.jpg "Badge de la 2ème place de la MWC 4K 2017") ![](img/badge3.jpg "Badge de la 3ème place de la MWC 4K 2017")
 
 ## Organisation
 
-L'osu!mania 4K World Cup 2017 était organisée par plusieurs membres de la communauté
+L'osu!mania 4K World Cup 2017 était organisée par divers membres de la communauté.
 
-| Poste | Membre |
+| Poste | Membre(s) |
 | :-- | :-- |
 | Direction | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
 | Sélecteurs de beatmaps | ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |
@@ -48,9 +48,9 @@ L'osu!mania 4K World Cup 2017 était organisée par plusieurs membres de la comm
 
 ## Liens
 
-- [Topic de discussion](https://osu.ppy.sh/community/forums/topics/615787)
+- [Fil de discussion](https://osu.ppy.sh/community/forums/topics/615787)
 - [Diffusion en direct](https://www.twitch.tv/osulive)
-- **[Statistiques générales, groupes et plus!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
+- **[Statistiques générales, groupes et plus !](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
 
 ## Participants
 
@@ -102,17 +102,17 @@ L'osu!mania 4K World Cup 2017 était organisée par plusieurs membres de la comm
 | **G** | ::{ flag=JP }:: Japon | ::{ flag=CA }:: Canada | ::{ flag=CH }:: Suisse | ::{ flag=NL }:: Pays-Bas |
 | **H** | ::{ flag=CL }:: Chili | ::{ flag=TH }:: Thaïlande | ::{ flag=SG }:: Singapour | ::{ flag=BE }:: Belgique |
 
-![](img/bracket.jpg "MWC 4K 2017 bracket")
+![](img/bracket.jpg "Bracket de la MWC 4K 2017")
 
 ## Podium
 
-![](img/podium.jpg "MWC 4K 2017 podium")
+![](img/podium.jpg "Podium de la MWC 4K 2017")
 
 ## Mappools
 
 ### Finales
 
-**This mappool was played during the Finals week 1 and Finals week 2.**
+**Ce mappool a été joué lors de la semaine 1 et la semaine 2 des finales.**
 
 **[Téléchargez le pack de beatmaps ici ! (123MB)](http://www.mediafire.com/file/jho7mgavbd8ktlo/MWC4K_2017_Finals.rar)**
 
@@ -223,7 +223,7 @@ L'osu!mania 4K World Cup 2017 était organisée par plusieurs membres de la comm
 
 ### Finales - Semaine 2
 
-Samedi, 16 Septembre 2017:
+Samedi 16 septembre 2017 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -231,14 +231,14 @@ Samedi, 16 Septembre 2017:
 
 ### Finales - Semaine 1
 
-Samedi, 9 Septembre 2017:
+Samedi 9 septembre 2017 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Japon** ::{ flag=JP }:: | **6** | 0 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/35952218) |
 | Royaume-Uni ::{ flag=GB }:: | 0 | **6** | ::{ flag=BR }:: **Brésil** | [#1](https://osu.ppy.sh/community/matches/35955973) |
 
-Dimanche, 10 Septembre 2017:
+Dimanche 10 septembre 2017 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -248,7 +248,7 @@ Dimanche, 10 Septembre 2017:
 
 ### Demi-finale
 
-Samedi, 2 Septembre 2017:
+Samedi 2 septembre 2017 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -259,7 +259,7 @@ Samedi, 2 Septembre 2017:
 | **Royaume-Uni** ::{ flag=GB }:: | **6** | 3 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/35779902) |
 | **États-Unis** ::{ flag=US }:: | **6** | 0 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/35783065) |
 
-Dimanche, 3 Septembre 2017:
+Dimanche 3 septembre 2017 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -268,7 +268,7 @@ Dimanche, 3 Septembre 2017:
 
 ### Quarts de finale
 
-Samedi, 26 Août 2017:
+Samedi 26 août 2017 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-: |
@@ -276,7 +276,7 @@ Samedi, 26 Août 2017:
 | Argentine ::{ flag=AR }:: | 1 | **5** | ::{ flag=GB }:: **Royaume-Uni** | [#1](https://osu.ppy.sh/community/matches/35588367) |
 | Canada ::{ flag=CA }:: | 0 | **5** | ::{ flag=US }:: **États-Unis** | [#1](https://osu.ppy.sh/community/matches/35590366) |
 
-Dimanche, 27 Août 2017:
+Dimanche 27 août 2017 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-: |
@@ -288,7 +288,7 @@ Dimanche, 27 Août 2017:
 
 ### Huitièmes de finale
 
-Dimanche, 20 Août 2017:
+Dimanche 20 août 2017 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-: |
@@ -303,7 +303,7 @@ Dimanche, 20 Août 2017:
 
 ### Phases de poules
 
-Samedi, 12 Août 2017:
+Samedi 12 août 2017 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-: |
@@ -335,7 +335,7 @@ Samedi, 12 Août 2017:
 | Mexique ::{ flag=MX }:: | 0 | **4** | ::{ flag=AR }:: **Argentine** | [#1](https://osu.ppy.sh/community/matches/35219934) |
 | Suisse ::{ flag=CH }:: | 0 | **4** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/35219940) |
 
-Dimanche, 13 Août 2017:
+Dimanche 13 août 2017 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-: |
