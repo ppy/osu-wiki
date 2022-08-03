@@ -12,7 +12,7 @@ Founder of the music label *Foxtail-Grass Studio*, you might already be familiar
 
 With an expansive and emotive sound, we're absolutely confident that you'll love what **Hamu** has to offer, so we've partnered up to snag **16** new tracks across his entire range, from slow meandering through moonlit vistas to head-bopping, high-energy J-Pop that'll get stuck in your head for the rest of all eternity.
 
-Thanks to the crowned creators of the [Mappers' Guild](https://mappersguild.com/), we're also excited to showcase an all-new beatmap to get things rolling, played by esteemed osu! veterans [Mlaw](https://osu.ppy.sh/users/3126596) and corn connoisseur [Woey](https://osu.ppy.sh/users/3792472) IRL at COE2022:
+Thanks to the crowned creators of the [Mappers' Guild](https://mappersguild.com/), we're also excited to showcase an all-new beatmap to get things rolling, played by esteemed osu! veteran [Mlaw](https://osu.ppy.sh/users/3126596) and corn connoisseur [Woey](https://osu.ppy.sh/users/3792472) IRL at COE2022:
 
 <div align="center">
     <video width="100%" controls>
@@ -50,6 +50,6 @@ Check out [the collaborative set featured in the video above](https://osu.ppy.sh
 
 All of the above and exactly twelve more are available right this very moment over on [**Hamu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/289), so go ahead and make his sound the background to your latest creation, joining the league of esteemed **Hamu**-havers alongside a cat, an elite shrine maiden, and a sentient onion.
 
-As always, make sure to follow [@osugame on Twitter](https://twitter.com/osugame) to keep up to date on all things Featured Artist related and osu! news in general. You know where to find us!
+As always, make sure to follow [@osugame on Twitter](https://twitter.com/osugame) to keep up to date on all things Featured Artist–related and osu! news in general. You know where to find us!
 
 —pishifat & Ephemeral
