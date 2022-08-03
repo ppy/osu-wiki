@@ -314,7 +314,7 @@ Samedi 22 novembre 2014 :
 | **Fédération de Russie** ::{ flag=RU }:: | **5** | 1 | ::{ flag=AU }:: Australie | [#1](https://osu.ppy.sh/community/matches/10635177) |
 | **Taïwan** ::{ flag=TW }:: | **5** | 2 | ::{ flag=GB }:: Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/10636683) |
 | France ::{ flag=FR }:: | 1 | **5** | ::{ flag=CN }:: **Chine** | [#1](https://osu.ppy.sh/community/matches/10637580) |
-| Lien du match ::{ flag=AR }:: | 0 | **5** | ::{ flag=JP }:: **Japon** | [#1](https://osu.ppy.sh/community/matches/10638992) |
+| Argentine ::{ flag=AR }:: | 0 | **5** | ::{ flag=JP }:: **Japon** | [#1](https://osu.ppy.sh/community/matches/10638992) |
 
 Dimanche 23 novembre 2014 :
 
@@ -487,7 +487,7 @@ Dimanche 9 novembre 2014 :
 ### Instructions pour les mappools
 
 1. Il y aura 1 mappool pour les phases de poules, 1 mappool pour les huitièmes de finale, 1 mappool pour les quarts de finale, 1 mappool pour les demi-finales et 1 mappool pour les finales.
-2. Chaque mappool contient 5 brackets : NoMod, HardRock, Hidden, DoubleTime et FreeMod
+2. Chaque mappool contient 5 brackets : NoMod, HardRock, Hidden, DoubleTime et FreeMod.
 3. Chaque mappool contient 19 maps au total.
 4. Chaque mappool a un tiebreaker.
 5. Le bracket NoMod sera joué sans mods.
