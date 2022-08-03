@@ -40,7 +40,7 @@ L'osu! World Cup 2013 était organisée par divers membres de la communauté.
 | :-- | :-- |
 | Direction | ::{ flag=US }:: [dkun](https://osu.ppy.sh/users/154400), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) |
 | Sélecteurs de beatmaps | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323), ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042), ::{ flag=AR }:: [Wishy](https://osu.ppy.sh/users/495477) |
-| Retransmission des matchs |::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389), ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935), ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) |
+| Retransmission des matchs | ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389), ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935), ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) |
 | Commentateurs | ::{ flag=US }:: [Agnes](https://osu.ppy.sh/users/136982), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=NO }:: [kriers](https://osu.ppy.sh/users/333241), ::{ flag=AU }:: [LaVolpe024](https://osu.ppy.sh/users/597796), ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094), ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
 | Statisticiens | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
