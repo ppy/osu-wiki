@@ -18,7 +18,7 @@ Ce style de jeu est largement considéré comme la méthode la plus difficile à
 
 La double souris est un style de jeu dans lequel un joueur a une souris dans chaque main ; il utilise une souris pour taper et une autre pour déplacer le curseur dans le jeu.
 
-Ce style de jeu était considéré comme une blague par la plupart des joueurs jusqu'en mai 2013, lorsque le joueur canadien ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578) a commencé à obtenir les meilleurs scores sur des beatmaps très respectées comme [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) et [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) en jouant avec deux souris.
+Ce style de jeu était considéré comme une blague par la plupart des joueurs jusqu'en mai 2013, lorsque le joueur canadien ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) a commencé à obtenir les meilleurs scores sur des beatmaps très respectées comme [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) et [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) en jouant avec deux souris.
 
 *Note : Il est également courant pour les joueurs qui jouent en double souris de scotcher la souris utilisée pour cliquer sur le bureau.*
 
@@ -78,7 +78,7 @@ L'écran tactile et le clavier est un style de jeu qui utilise un clavier pour s
 
 - **Pavé tactile/trackpad de l'ordinateur portable** : Bien que cette méthode soit possible, la plupart des joueurs préfèrent ne pas utiliser de trackpad en raison de l'extrême difficulté que cela représente. Plus précisément, les joueurs affirment que le contrôle du mouvement du curseur sur l'espace limité du pavé tactile/trackpad de l'ordinateur portable est maladroit, lent et crée beaucoup de friction. Le trackpad est utilisé pour déplacer le curseur dans le jeu.
 - **Joystick** : Une façon créative de contrôler le curseur. Dans ce style de jeu, le joueur tient et déplace un joystick pour faire bouger le curseur et, selon la conception du joystick du joueur, tape en utilisant les boutons de déclenchement/de face du joystick, ou avec les touches du clavier pour enregistrer les battements. Ce style de jeu est largement considéré comme une sorte de "défi" en raison des inconvénients évidents et de l'habileté requise pour contrôler le mouvement du joystick.
-- **Plaque métallique** : Il s'agit d'une méthode spéciale qui remplace le clavier pour taper. La méthode a été introduite par ![][flag_US] [geckogates](https://osu.ppy.sh/users/geckogates) et nécessite un peu de câblage et de connaissances électroniques pour la construire. Le joueur attachera un fil aux doigts qui cliquent (connectés au circuit du clavier pour `Z` et `X`) et touchera les plaques de métal pour enregistrer les battements.
+- **Plaque métallique** : Il s'agit d'une méthode spéciale qui remplace le clavier pour taper. La méthode a été introduite par ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/geckogates) et nécessite un peu de câblage et de connaissances électroniques pour la construire. Le joueur attachera un fil aux doigts qui cliquent (connectés au circuit du clavier pour `Z` et `X`) et touchera les plaques de métal pour enregistrer les battements.
 - **Manette de jeu** : Tout comme le joystick, cette méthode est considérée comme une façon créative et originale de jouer à osu!. Selon la marque de la manette, le joueur peut utiliser un trackpad intégré, un stick de contrôle/analogique ou un D-Pad pour contrôler le curseur. Certains joueurs trouveront plus confortable d'utiliser les boutons déjà présents sur la manette pour cliquer, ou d'utiliser un clavier ordinaire.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
@@ -171,6 +171,3 @@ Un autre inconvénient est que les beatmaps d'osu!mania ont peut-être été con
 
 - **Ensemble guitare/batterie** (5/6K) : La manette par défaut du jeu de rythme sur le thème de la guitare ([Guitar Hero](https://fr.wikipedia.org/wiki/Guitar_Hero_(série_de_jeux_vidéo)))/de la batterie ([DrumMania](https://fr.wikipedia.org/wiki/GuitarFreaks_et_DrumMania)). Les joueurs jouent sur leur guitare ou frappent la batterie ainsi que les cymbales pour entrer des commandes. Les joueurs de batterie sont désavantagés par rapport aux joueurs de guitare car ils ne peuvent saisir que deux commandes à la fois sans une pédale de frappe spéciale.
 - **Contrôleur Para Para** (5K) : Il s'agit de la manette par défaut de la série [Para Para Paradise](https://fr.wikipedia.org/wiki/Para_Para_Paradise). Les joueurs déplacent leurs bras, leurs coudes et leurs mains au-dessus des capteurs de proximité pour entrer des commandes basées sur la position des mains à travers les capteurs de proximité. L'inconvénient est la sensibilité du récepteur d'entrée et la limitation physique du joueur.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

@@ -1,8 +1,8 @@
 # Critères de classement d'osu!mania
 
-Les **critères de classement d'osu!mania** sont des règles et des directives qui s'appliquent à la création des difficultés spécifiques à osu!mania. Pour qu'une difficulté spécifique à osu!mania soit classée, il est obligatoire que la création obéisse aux critères énumérés. Bien que **toutes les règles doivent être suivies en toute circonstance**, les directives peuvent être ignorées dans des circonstances exceptionnelles. Ces circonstances exceptionnelles doivent être justifiées par une explication exhaustive de la raison pour laquelle la directive a été ignorée et pourquoi le fait de ne pas l'ignorer nuira à la qualité globale de la création.
+***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_Criteria).***
 
-Les propositions de règles ainsi que les suggestions sont discutées dans le [Sous-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Toute règle ayant fait l'objet d'une discussion et d'un processus d'approbation par la communauté est listée ici car elle a été approuvée dans le fil de discussion correspondant.
+Cette liste de **critères de classement d'osu!mania** définit les [règles et directives](/wiki/Ranking_Criteria#termes-généraux) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!mania](/wiki/Game_mode/osu!mania) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Glossaire
 
@@ -60,7 +60,7 @@ Les règles et directives générales s'appliquent à tous les types de difficul
 - **Il ne doit pas y avoir plus de 6 notes enfoncées à un moment donné dans les difficultés Insane ou inférieures.** L'utilisation de plus de 6 notes doit également respecter un écart raisonnable vers la difficulté inférieure suivante. Cette règle ne s'applique pas aux fins de long notes, car elles sont relâchées et non pressées.
 - **Les beatmaps ne peuvent utiliser que 4 à 10 touches.** Toute autre option n'est pas prise en charge pour la catégorie classée.
 - **Si plusieurs key modes sont présents dans une seule beatmap, le key mode doit être indiqué dans tous les noms de difficulté. Sinon, le key mode ne doit pas être indiqué.**
-- **Si le [drain time](/wiki/Gameplay/Drain_time) de chaque difficulté est...**
+- **Si le [drain time](/wiki/Beatmap/Drain_time) de chaque difficulté est...**
   - **...inférieur à 2:30**, la difficulté la plus faible de chaque key mode inclus ne peut pas être plus difficile qu'une Normal, **OU** chaque key mode doit offrir une répartition commençant au moins 3 niveaux de difficulté en dessous de la difficulté la plus élevée.
   - **...entre 2:30 et 3:15**, la difficulté la plus faible de chaque key mode inclus ne peut pas être plus difficile qu'une Hard, **OU** chaque key mode doit fournir une répartition commençant au moins 2 niveaux de difficulté en dessous de la difficulté la plus élevée.
   - **...entre 3:15 et 4:00**, la difficulté la plus faible de chaque key mode inclus ne peut pas être plus difficile qu'une Insane, **OU** chaque key mode doit fournir une répartition commençant au moins 1 niveau de difficulté en dessous de la difficulté la plus élevée.

@@ -1,8 +1,3 @@
----
-outdated_since: 46a9f7c7d79fde8fd96098a16ac1203efd156ad1
-outdated_translation: true
----
-
 # Kontributor Komunitas
 
 ![](/wiki/shared/contributor.jpg "Lencana kontributor")
@@ -192,3 +187,27 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Kontribusi luar biasa terhadap taraf skin osu! dan moderasi |
 | ::{ flag=US }:: [I Must Decrease](https://osu.ppy.sh/users/2773526) | Kontribusi luar biasa terhadap pemeliharaan skor dan pengembangan |
 | ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) | Kontribusi luar biasa terhadap World Cups dan taraf turnamen komunitas |
+
+## 2022
+
+### Juni
+
+*Untuk posting berita terkait, lihat: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+
+| User | Contributions |
+| :-- | :-- |
+| ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Kontribusi luar biasa terhadap taraf turnamen di komunitas osu!taiko |
+| ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Kontribusi luar biasa terhadap pengembangan osu!(lazer) |
+| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Kontribusi luar biasa terhadap pengembangan osu!(lazer) dan osu!framework |
+| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Kontribusi luar biasa terhadap pengembangan dan perawatan osu! performance points |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Kontribusi luar biasa terhadap pengembangan osu! performance points |
+| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Kontribusi luar biasa terhadap pengembangan osu! performance points dan peremajaan mod Flashlight |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Kontribusi luar biasa terhadap proyek osu! wiki |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Kontribusi luar biasa terhadap proyek osu! wiki |
+| ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | Kontribusi luar biasa terhadap dukungan teknis macOS |
+| ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) | Kontribusi luar biasa terhadap manajemen dan organisasi Project Loved |
+| ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Kontribusi luar biasa terhadap taraf osu! mapping melalui pengembangan alat |
+| ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Kontribusi luar biasa terhadap taraf osu!taiko mapping melalui pengembangan alat |
+| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Kontribusi luar biasa terhadap taraf turnamen osu! dan World Cups |
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Kontribusi luar biasa terhadap taraf turnamen osu! dan World Cups |
+| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Kontribusi luar biasa terhadap taraf acara osu! yang diselenggarakan secara *offline* dan turnamen |

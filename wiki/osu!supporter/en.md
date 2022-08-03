@@ -1,7 +1,5 @@
 ---
 tags:
-  - support
-  - supporter
   - supporter tag
   - osu!supporter tag
 ---
@@ -68,7 +66,7 @@ Getting osu!supporter comes with the ability to change usernames for free for th
 osu!direct is the in-game beatmap search and download engine available to supporters. It may be accessed from the main menu by clicking the vertical `osu!direct` label on the right side of the screen. In addition to a built-in beatmap listing, osu!direct provides other ways to obtain new beatmaps without leaving the game:
 
 - Beatmap links in chat, which point to beatmaps on the osu! website, now trigger the download prompt in-game
-- Automatic beatmap downloads while playing in a [multiplayer](/wiki/Gameplay/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
+- Automatic beatmap downloads while playing in a [multiplayer](/wiki/Client/Interface/Multiplayer) lobby or [spectating](/wiki/Gameplay/Spectating) another player, as an [opt-out setting](/wiki/Client/Options#integration)
 - Automatic linking of currently played beatmaps in the `#spectator` chat tab for spectators, as an [opt-out setting](/wiki/Client/Options#alerts-and-privacy)
 
 ### Extended leaderboards

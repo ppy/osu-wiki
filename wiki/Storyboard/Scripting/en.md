@@ -30,12 +30,10 @@ See the following articles:
 
 <!-- as-is, this section's only purpose is to say that these projects exist (plus a popular example). this would be a good place to link away to other helpful projects or an article about them. -->
 
-Various tools have been made by the community to abstract and build upon storyboard scripting, such as ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)'s [storybrew](https://github.com/Damnae/storybrew "GitHub repository").
+Various tools have been made by the community to abstract and build upon storyboard scripting, such as ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)'s [storybrew](https://github.com/Damnae/storybrew "GitHub repository").
 
 <!--
 might be useful reference for historical topics in/around this article
 - first public sb specs https://osu.ppy.sh/community/forums/topics/1869
 - first(or close to it) video tutorial about scripting https://www.youtube.com/watch?v=UJ1YLDs-bZg
 -->
-
-[flag_FR]: /wiki/shared/flag/FR.gif "France"

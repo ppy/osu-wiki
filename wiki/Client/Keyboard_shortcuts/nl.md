@@ -43,7 +43,7 @@ Deze combinaties werken overal:
 | `Esc` | Keer terug of annuleer |
 | `P`, `E`, of `O` | Opent het speelmenu |
 | `P` drie keer | Enter Solo. |
-| `P` Twee keer, vervolgens `M` | Enter [Multi](/wiki/Gameplay/Multiplayer). |
+| `P` Twee keer, vervolgens `M` | Enter [Multi](/wiki/Client/Interface/Multiplayer). |
 | `E` Twee keer | Enter edit mode. |
 | `O` | Opent de opties sidebalk. |
 | `Q` | Laat het exit-commando zien. |

@@ -1,8 +1,8 @@
 # Ranking criteria osu!mania
 
-**Ranking Criteria osu!mania** merupakan peraturan dan pedoman yang berlaku untuk pembuatan tingkat kesulitan spesifik osu!mania. Untuk dapat membuat tingkat kesulitan spesifik osu!mania diwajibkan mematuhi kriteria yang tercantum. Meskipun **semua aturan wajib diikuti dalam keadaan apa pun**, namun pedoman dapat diabaikan dalam kasus tertentu. Kasus tertentu ini harus dapat dibenarkan dengan penjelasan yang lengkap tentang mengapa pedoman tersebut diabaikan dan alasan mengapa tidak mengabaikannya akan mengganggu kualitas keseluruhan pembuatan.
+***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_Criteria).***
 
-Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Setiap aturan yang melalui proses diskusi dan persetujuan komunitas dicantumkan di sini sebagaimana telah disepakati pada masing-masing utas diskusi.
+**Ranking criteria osu!mania** menjabarkan [aturan dan pedoman](/wiki/Ranking_Criteria#istilah-umum) spesifik untuk [beatmap](/wiki/Beatmap) [osu!mania](/wiki/Game_mode/osu!mania) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
 ## Glosarium
 
@@ -60,7 +60,7 @@ Aturan dan pedoman secara keseluruhan berlaku untuk setiap jenis tingkat kesulit
 - **Tidak boleh ada lebih dari 6 note yang ditekan pada saat yang bersamaan di tingkat kesulitan Insane atau dibawahnya.** Menggunakan lebih dari 6 note juga wajib mengikuti spread yang wajar ke tingkat kesulitan berikutnya yang lebih rendah. Aturan ini tidak berlaku untuk bagian akhir dari long note, karena long note dilepas, tidak ditekan.
 - **Beatmap hanya dapat menggunakan 4 sampai 10 key.** Selain itu tidak didukung untuk Ranked Section.
 - **Jika terdapat beberapa key mode dalam satu set beatmap, indikator key mode wajib dicantumkan pada setiap tingkat kesulitan. Jika tidak, key mode tidak perlu dicantumkan.**
-- **Jika [drain time](/wiki/Gameplay/Drain_time) dari setiap kesulitan...**
+- **Jika [drain time](/wiki/Beatmap/Drain_time) dari setiap kesulitan...**
   - **...lebih rendah dari durasi 2:30**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Normal, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 3 tingkat kesulitan di bawah kesulitan paling tinggi.
   - **...di antara durasi 2:30 dan 3:15**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Hard, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 2 tingkat kesulitan di bawah kesulitan paling tinggi.
   - **...di antara durasi 3:15 dan 4:00**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Insane, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 1 tingkat kesulitan di bawah kesulitan paling tinggi.

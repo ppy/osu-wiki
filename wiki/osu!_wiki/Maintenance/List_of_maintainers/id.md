@@ -8,21 +8,21 @@ Jika kamu memerlukan bantuan untuk memberikan kontribusi atau ingin *pull reques
 
 | Profil osu! | Profil GitHub | Status | Bahasa tambahan |
 | :-- | :-- | :-- | :-- |
-| ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | **Aktif** |  |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Aktif** |  |
-| ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Nonaktif |  |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Nonaktif | Spanyol |
-| ![][flag_DE] [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | Nonaktif | Jerman |
-| ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Nonaktif |  |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Nonaktif | Jerman |
-| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Aktif** | Jepang |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | Nonaktif |  |
-| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | [Repflez](https://github.com/Repflez) | Nonaktif | Spanyol |
-| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Nonaktif | Perancis |
-| ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Aktif** | Rusia |
-| ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | Nonaktif | Polandia |
-| ![][flag_SE] [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | Nonaktif | Finlandia, Swedia |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | Nonaktif | Spanyol |
+| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | **Aktif** |  |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Aktif** |  |
+| ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Nonaktif |  |
+| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Nonaktif | Spanyol |
+| ::{ flag=DE }:: [Loctav](https://github.com/Loctav) | [Loctav](https://github.com/Loctav) | Nonaktif | Jerman |
+| ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Nonaktif |  |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Nonaktif | Jerman |
+| ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Aktif** | Jepang |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | Nonaktif |  |
+| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Repflez](https://github.com/Repflez) | Nonaktif | Spanyol |
+| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Nonaktif | Perancis |
+| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Aktif** | Rusia |
+| ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | Nonaktif | Polandia |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | Nonaktif | Finlandia, Swedia |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | Nonaktif | Spanyol |
 
 ## Tim berita
 
@@ -30,30 +30,16 @@ Kurator, editor, dan pemberi persetujuan dari semua [postingan berita](https://o
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) |
-| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) |
+| ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
 
 ## Pengelola sebelumnya
 
 Daftar berikut mencakup para pengelola instansi MediaWiki, [yang pernah menaungi osu! wiki pada masanya dahulu](/wiki/History_of_osu!/osu!_wiki):
 
-- ![][flag_RU] [\[Dellirium\]](https://osu.ppy.sh/users/519032)
-- ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370)
-- ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570)
-- ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)
-- ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865)
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
-[flag_FR]: /wiki/shared/flag/FR.gif "Perancis"
-[flag_MX]: /wiki/shared/flag/MX.gif "Meksiko"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
-[flag_RU]: /wiki/shared/flag/RU.gif "Federasi Rusia"
-[flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
+- ::{ flag=RU }:: [\[Dellirium\]](https://osu.ppy.sh/users/519032)
+- ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
+- ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570)
+- ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078)
+- ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865)

@@ -15,26 +15,9 @@ jobs:
     name: changed files
     runs-on: ubuntu-latest
     steps:
-      - name: sparse checkout
-        shell: bash
-        run: |
-          # repository url, utilising provided github credentials
-          REPOSITORY="https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}.git"
-          # merge commit ref name (with refs/heads/ stripped out)
-          BRANCH="${GITHUB_REF/#refs\/heads\//}"
-
-          git version
-          # clone without blobs; don't checkout to avoid fetching them anyway
-          git clone --filter=blob:none --no-checkout ${REPOSITORY} .
-          git config --local gc.auto 0
-
-          # set up sparse checkout
-          git sparse-checkout init
-          git sparse-checkout set '**/*.md' '**/.remark*' '**/*.json' '**/*.yaml' 'scripts' 'wiki/**/*'
-
-          # fetch the merge commit ref
-          git -c protocol.version=2 fetch --no-tags --prune --progress --depth=2 origin +${GITHUB_SHA}:refs/remotes/origin/${BRANCH}
-          git checkout --progress --force -B $BRANCH refs/remotes/origin/$BRANCH
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: inspect binary file sizes
         shell: bash

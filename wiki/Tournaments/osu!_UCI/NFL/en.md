@@ -37,11 +37,11 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Position | Member(s) |
 | :-- | :-- |
-| Mappool selector | ![][flag_US] [[Blue]](https://osu.ppy.sh/users/13192092), ![][flag_US] [[Nick]](https://osu.ppy.sh/users/9726582), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [slushy](https://osu.ppy.sh/users/3692940), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Streamer | ![][flag_US] [R34pling](https://osu.ppy.sh/users/7662172) |
-| Commentator | ![][flag___] Matthew<!-- TODO what is his osu profile -->, ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659), ![][flag_US] [ruruchewy](https://osu.ppy.sh/users/7112839), ![][flag_US] [Sukida](https://osu.ppy.sh/users/4097867), ![][flag_US] [Yattaze](https://osu.ppy.sh/users/13870255) |
-| Referee | ![][flag_US] [[Blue]](https://osu.ppy.sh/users/13192092), ![][flag_US] [[Nick]](https://osu.ppy.sh/users/9726582), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [PingusKhan](https://osu.ppy.sh/users/9648050), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
-| Designer | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag___] Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
+| Mappool selector | ::{ flag=US }:: [[Blue]](https://osu.ppy.sh/users/13192092), ::{ flag=US }:: [[Nick]](https://osu.ppy.sh/users/9726582), ::{ flag=US }:: [migin](https://osu.ppy.sh/users/11118735), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659), ::{ flag=US }:: [slushy](https://osu.ppy.sh/users/3692940), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612) |
+| Streamer | ::{ flag=US }:: [R34pling](https://osu.ppy.sh/users/7662172) |
+| Commentator | ::{ flag=XX }:: Matthew<!-- TODO what is his osu profile -->, ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659), ::{ flag=US }:: [ruruchewy](https://osu.ppy.sh/users/7112839), ::{ flag=US }:: [Sukida](https://osu.ppy.sh/users/4097867), ::{ flag=US }:: [Yattaze](https://osu.ppy.sh/users/13870255) |
+| Referee | ::{ flag=US }:: [[Blue]](https://osu.ppy.sh/users/13192092), ::{ flag=US }:: [[Nick]](https://osu.ppy.sh/users/9726582), ::{ flag=US }:: [ilalalayou](https://osu.ppy.sh/users/3144766), ::{ flag=US }:: [migin](https://osu.ppy.sh/users/11118735), ::{ flag=US }:: [phamitsu](https://osu.ppy.sh/users/13045418), ::{ flag=US }:: [PingusKhan](https://osu.ppy.sh/users/9648050), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) |
+| Designer | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=XX }:: Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
 
 ## Links
 
@@ -61,31 +61,31 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 ### osu!
 
-- ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
-- ![][flag_US] [Ikeda](https://osu.ppy.sh/users/9288843)
-- ![][flag_US] [iolight](https://osu.ppy.sh/users/5141675)
-- ![][flag_US] [jms8719](https://osu.ppy.sh/users/2042565)
-- ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459)
-- ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313)
-- ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013)
-- ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308)
-- ![][flag_US] [Pab](https://osu.ppy.sh/users/4753430)
-- ![][flag_US] [ruruchewy](https://osu.ppy.sh/users/7112839)
-- ![][flag_US] [R Y A N](https://osu.ppy.sh/users/2765201)
-- ![][flag_US] [SSplosionz](https://osu.ppy.sh/users/9511965)
-- ![][flag_US] [Sukida](https://osu.ppy.sh/users/4097867)
-- ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
+- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
+- ::{ flag=US }:: [Ikeda](https://osu.ppy.sh/users/9288843)
+- ::{ flag=US }:: [iolight](https://osu.ppy.sh/users/5141675)
+- ::{ flag=US }:: [jms8719](https://osu.ppy.sh/users/2042565)
+- ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459)
+- ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313)
+- ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013)
+- ::{ flag=US }:: [MyAngelNeptune](https://osu.ppy.sh/users/5290308)
+- ::{ flag=US }:: [Pab](https://osu.ppy.sh/users/4753430)
+- ::{ flag=US }:: [ruruchewy](https://osu.ppy.sh/users/7112839)
+- ::{ flag=US }:: [R Y A N](https://osu.ppy.sh/users/2765201)
+- ::{ flag=US }:: [SSplosionz](https://osu.ppy.sh/users/9511965)
+- ::{ flag=US }:: [Sukida](https://osu.ppy.sh/users/4097867)
+- ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150)
 
 ### osu!mania
 
-- ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
-- ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614)
-- ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383)
-- ![][flag_CA] [Dark lord bob](https://osu.ppy.sh/users/4588299)
-- ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260)
-- ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052)
-- ![][flag_US] [Ralgrand](https://osu.ppy.sh/users/696447)
-- ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316)
+- ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576)
+- ::{ flag=US }:: [Chest Flattener](https://osu.ppy.sh/users/4292614)
+- ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383)
+- ::{ flag=CA }:: [Dark lord bob](https://osu.ppy.sh/users/4588299)
+- ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260)
+- ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052)
+- ::{ flag=US }:: [Ralgrand](https://osu.ppy.sh/users/696447)
+- ::{ flag=US }:: [Zushen](https://osu.ppy.sh/users/2106316)
 
 ## Podium
 
@@ -93,17 +93,17 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
 
 ### osu!mania
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [Dark lord bob](https://osu.ppy.sh/users/4588299) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CA }:: [Dark lord bob](https://osu.ppy.sh/users/4588299) |
 
 ## Mappools
 
@@ -307,7 +307,7 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Vaxei** ![][flag_US] | **6** | 3 | ![][flag_US] Monko2k | [#1](https://osu.ppy.sh/community/matches/57828235) |
+| **Vaxei** ::{ flag=US }:: | **6** | 3 | ::{ flag=US }:: Monko2k | [#1](https://osu.ppy.sh/community/matches/57828235) |
 
 #### Finals
 
@@ -315,13 +315,13 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Vaxei** ![][flag_US] | **5** | 3 | ![][flag_US] Monko2k | [#1](https://osu.ppy.sh/community/matches/57826509) |
+| **Vaxei** ::{ flag=US }:: | **5** | 3 | ::{ flag=US }:: Monko2k | [#1](https://osu.ppy.sh/community/matches/57826509) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Monko2k** ![][flag_US] | **6** | 4 | ![][flag_US] fieryrage | [#1](https://osu.ppy.sh/community/matches/57827438) (used Grand Finals mappool) |
+| **Monko2k** ::{ flag=US }:: | **6** | 4 | ::{ flag=US }:: fieryrage | [#1](https://osu.ppy.sh/community/matches/57827438) (used Grand Finals mappool) |
 
 #### Semifinals
 
@@ -329,16 +329,16 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Vaxei** ![][flag_US] | **4** | 1 | ![][flag_US] fieryrage | [#1](https://osu.ppy.sh/community/matches/57823102) |
-| **Monko2k** ![][flag_US] | **4** | 0 | ![][flag_US] Mathyu | [#1](https://osu.ppy.sh/community/matches/57823584) |
+| **Vaxei** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: fieryrage | [#1](https://osu.ppy.sh/community/matches/57823102) |
+| **Monko2k** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: Mathyu | [#1](https://osu.ppy.sh/community/matches/57823584) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **fieryrage** ![][flag_US] | **4** | 0 | ![][flag_US] R Y A N | *lost match link* <!-- TODO --> |
-| **Mathyu** ![][flag_US] | **4** | 0 | ![][flag_US] Kenny | [#1](https://osu.ppy.sh/community/matches/57824146) |
-| **fieryrage** ![][flag_US] | **0** | -1 | ![][flag_US] Mathyu | *forfeit* |
+| **fieryrage** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: R Y A N | *lost match link* <!-- TODO --> |
+| **Mathyu** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: Kenny | [#1](https://osu.ppy.sh/community/matches/57824146) |
+| **fieryrage** ::{ flag=US }:: | **0** | -1 | ::{ flag=US }:: Mathyu | *forfeit* |
 
 #### Quarterfinals
 
@@ -346,21 +346,21 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Vaxei** ![][flag_US] | **3** | 0 | ![][flag_US] Ikeda | [#1](https://osu.ppy.sh/community/matches/57821760) |
-| **fieryrage** ![][flag_US] | **3** | 0 | ![][flag_US] Kenny | [#1](https://osu.ppy.sh/community/matches/57821584) |
-| **Monko2k** ![][flag_US] | **3** | 2 | ![][flag_US] jms8719 | [#1](https://osu.ppy.sh/community/matches/57821707) |
-| **Mathyu** ![][flag_US] | **3** | 0 | ![][flag_US] R Y A N | [#1](https://osu.ppy.sh/community/matches/57821807) |
+| **Vaxei** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Ikeda | [#1](https://osu.ppy.sh/community/matches/57821760) |
+| **fieryrage** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Kenny | [#1](https://osu.ppy.sh/community/matches/57821584) |
+| **Monko2k** ::{ flag=US }:: | **3** | 2 | ::{ flag=US }:: jms8719 | [#1](https://osu.ppy.sh/community/matches/57821707) |
+| **Mathyu** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: R Y A N | [#1](https://osu.ppy.sh/community/matches/57821807) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **R Y A N** ![][flag_US] | **3** | 0 | ![][flag_US] Sukida | *lost match link* <!-- TODO --> |
-| **jms8719** ![][flag_US] | **3** | 0 | ![][flag_US] ruruchewy | [#1](https://osu.ppy.sh/community/matches/57822337) |
-| **Kenny** ![][flag_US] | **3** | 0 | ![][flag_US] iolight | [#1](https://osu.ppy.sh/community/matches/57822032) |
-| Ikeda ![][flag_US] | 0 | **3** | ![][flag_US] **Pab** | [#1](https://osu.ppy.sh/community/matches/57822208) |
-| **R Y A N** ![][flag_US] | **3** | 2 | ![][flag_US] jms8719 | [#1](https://osu.ppy.sh/community/matches/57822992) |
-| **Kenny** ![][flag_US] | **3** | 0 | ![][flag_US] Pab | [#1](https://osu.ppy.sh/community/matches/57822613) |
+| **R Y A N** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Sukida | *lost match link* <!-- TODO --> |
+| **jms8719** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ruruchewy | [#1](https://osu.ppy.sh/community/matches/57822337) |
+| **Kenny** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: iolight | [#1](https://osu.ppy.sh/community/matches/57822032) |
+| Ikeda ::{ flag=US }:: | 0 | **3** | ::{ flag=US }:: **Pab** | [#1](https://osu.ppy.sh/community/matches/57822208) |
+| **R Y A N** ::{ flag=US }:: | **3** | 2 | ::{ flag=US }:: jms8719 | [#1](https://osu.ppy.sh/community/matches/57822992) |
+| **Kenny** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Pab | [#1](https://osu.ppy.sh/community/matches/57822613) |
 
 #### Round of 16
 
@@ -368,38 +368,38 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Sukida ![][flag_US] | 2 | **3** | ![][flag_US] **Ikeda** | [#1](https://osu.ppy.sh/community/matches/57820970) |
-| **fieryrage** ![][flag_US] | **3** | 0 | ![][flag_US] SSplosionz | [#1](https://osu.ppy.sh/community/matches/57820963) |
-| **Kenny** ![][flag_US] | **3** | 0 | ![][flag_US] ruruchewy | [#1](https://osu.ppy.sh/community/matches/57820873) |
-| **jms8719** ![][flag_US] | **3** | 1 | ![][flag_US] iolight | [#1](https://osu.ppy.sh/community/matches/57820948) |
-| **R Y A N** ![][flag_US] | **3** | 1 | ![][flag_US] Pab | [#1](https://osu.ppy.sh/community/matches/57821189) |
+| Sukida ::{ flag=US }:: | 2 | **3** | ::{ flag=US }:: **Ikeda** | [#1](https://osu.ppy.sh/community/matches/57820970) |
+| **fieryrage** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: SSplosionz | [#1](https://osu.ppy.sh/community/matches/57820963) |
+| **Kenny** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ruruchewy | [#1](https://osu.ppy.sh/community/matches/57820873) |
+| **jms8719** ::{ flag=US }:: | **3** | 1 | ::{ flag=US }:: iolight | [#1](https://osu.ppy.sh/community/matches/57820948) |
+| **R Y A N** ::{ flag=US }:: | **3** | 1 | ::{ flag=US }:: Pab | [#1](https://osu.ppy.sh/community/matches/57821189) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| SSplosionz ![][flag_US] | 1 | **3** | ![][flag_US] **ruruchewy** | [#1](https://osu.ppy.sh/community/matches/57821446) |
+| SSplosionz ::{ flag=US }:: | 1 | **3** | ::{ flag=US }:: **ruruchewy** | [#1](https://osu.ppy.sh/community/matches/57821446) |
 
 #### Seeding
 
-All of the players joined a [seeding multiplayer match](https://osu.ppy.sh/community/matches/57819614). ![][flag_US] MyAngelNeptune left after playing the second HardRock pick and didn't continue in the tournament.
+All of the players joined a [seeding multiplayer match](https://osu.ppy.sh/community/matches/57819614). ::{ flag=US }:: MyAngelNeptune left after playing the second HardRock pick and didn't continue in the tournament.
 
 | Player | Aggregate placement |
 | :-- | :-- |
-| ![][flag_US] Vaxei | 20 |
-| ![][flag_US] Monko2k | 27 |
-| ![][flag_US] Mathyu | 28 |
-| ![][flag_US] fieryrage | 32 |
-| ![][flag_US] Kenny | 41 |
-| ![][flag_US] R Y A N | 47 |
-| ![][flag_US] jms8719 | 57 |
-| ![][flag_US] Ikeda | 68 |
-| ![][flag_US] Sukida | 68 |
-| ![][flag_US] iolight | 74 |
-| ![][flag_US] Pab | 78 |
-| ![][flag_US] ruruchewy | 90 |
-| ![][flag_US] SSplosionz | 98 |
-| ![][flag_US] MyAngelNeptune | 112 |
+| ::{ flag=US }:: Vaxei | 20 |
+| ::{ flag=US }:: Monko2k | 27 |
+| ::{ flag=US }:: Mathyu | 28 |
+| ::{ flag=US }:: fieryrage | 32 |
+| ::{ flag=US }:: Kenny | 41 |
+| ::{ flag=US }:: R Y A N | 47 |
+| ::{ flag=US }:: jms8719 | 57 |
+| ::{ flag=US }:: Ikeda | 68 |
+| ::{ flag=US }:: Sukida | 68 |
+| ::{ flag=US }:: iolight | 74 |
+| ::{ flag=US }:: Pab | 78 |
+| ::{ flag=US }:: ruruchewy | 90 |
+| ::{ flag=US }:: SSplosionz | 98 |
+| ::{ flag=US }:: MyAngelNeptune | 112 |
 
 ### osu!mania
 
@@ -407,7 +407,7 @@ All of the players joined a [seeding multiplayer match](https://osu.ppy.sh/commu
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-mint-** ![][flag_US] | **5** | 0 | ![][flag_US] Crescendo PiaNo | [#1](https://osu.ppy.sh/community/matches/57824501) |
+| **-mint-** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: Crescendo PiaNo | [#1](https://osu.ppy.sh/community/matches/57824501) |
 
 #### Semifinals
 
@@ -415,13 +415,13 @@ All of the players joined a [seeding multiplayer match](https://osu.ppy.sh/commu
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-mint-** ![][flag_US] | **4** | 0 | ![][flag_CA] Dark lord bob | [#1](https://osu.ppy.sh/community/matches/57821038) (used Round 2 mappool) |
+| **-mint-** ::{ flag=US }:: | **4** | 0 | ::{ flag=CA }:: Dark lord bob | [#1](https://osu.ppy.sh/community/matches/57821038) (used Round 2 mappool) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Dark lord bob ![][flag_CA] | 2 | **5** | ![][flag_US] **Crescendo PiaNo** | [#1](https://osu.ppy.sh/community/matches/57823420) |
+| Dark lord bob ::{ flag=CA }:: | 2 | **5** | ::{ flag=US }:: **Crescendo PiaNo** | [#1](https://osu.ppy.sh/community/matches/57823420) |
 
 #### Round 2
 
@@ -429,16 +429,16 @@ All of the players joined a [seeding multiplayer match](https://osu.ppy.sh/commu
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-mint-** ![][flag_US] | **4** | 1 | ![][flag_US] Zushen | [#1](https://osu.ppy.sh/community/matches/57820188) |
-| Crescendo PiaNo ![][flag_US] | 2 | **4** | ![][flag_CA] **Dark lord bob** | [#1](https://osu.ppy.sh/community/matches/57819903) |
+| **-mint-** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: Zushen | [#1](https://osu.ppy.sh/community/matches/57820188) |
+| Crescendo PiaNo ::{ flag=US }:: | 2 | **4** | ::{ flag=CA }:: **Dark lord bob** | [#1](https://osu.ppy.sh/community/matches/57819903) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Zushen** ![][flag_US] | **4** | 0 | ![][flag_US] Ouchiee | [#1](https://osu.ppy.sh/community/matches/57821024) |
-| **Crescendo PiaNo** ![][flag_US] | **4** | 1 | ![][flag_US] Ecal | [#1](https://osu.ppy.sh/community/matches/57821329) |
-| Zushen ![][flag_US] | 2 | **5** | ![][flag_US] **Crescendo PiaNo** | [#1](https://osu.ppy.sh/community/matches/57822917) (used Semifinals mappool) |
+| **Zushen** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: Ouchiee | [#1](https://osu.ppy.sh/community/matches/57821024) |
+| **Crescendo PiaNo** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: Ecal | [#1](https://osu.ppy.sh/community/matches/57821329) |
+| Zushen ::{ flag=US }:: | 2 | **5** | ::{ flag=US }:: **Crescendo PiaNo** | [#1](https://osu.ppy.sh/community/matches/57822917) (used Semifinals mappool) |
 
 #### Round 1
 
@@ -446,17 +446,17 @@ All of the players joined a [seeding multiplayer match](https://osu.ppy.sh/commu
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-mint-** ![][flag_US] | **3** | 0 | ![][flag_US] Ralgrand | [#1](https://osu.ppy.sh/community/matches/57819267) |
-| Ecal ![][flag_US] | 1 | **3** | ![][flag_US] **Zushen** | [#1](https://osu.ppy.sh/community/matches/57819163) |
-| **Crescendo PiaNo** ![][flag_US] | **3** | 0 | ![][flag_US] Chest Flattener | [#1](https://osu.ppy.sh/community/matches/57819400) |
-| **Dark lord bob** ![][flag_CA] | **3** | 1 | ![][flag_US] Ouchiee | [#1](https://osu.ppy.sh/community/matches/57819203) |
+| **-mint-** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Ralgrand | [#1](https://osu.ppy.sh/community/matches/57819267) |
+| Ecal ::{ flag=US }:: | 1 | **3** | ::{ flag=US }:: **Zushen** | [#1](https://osu.ppy.sh/community/matches/57819163) |
+| **Crescendo PiaNo** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Chest Flattener | [#1](https://osu.ppy.sh/community/matches/57819400) |
+| **Dark lord bob** ::{ flag=CA }:: | **3** | 1 | ::{ flag=US }:: Ouchiee | [#1](https://osu.ppy.sh/community/matches/57819203) |
 
 ##### Losers
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Chest Flattener ![][flag_US] | 1 | **4** | ![][flag_US] **Ouchiee** | [#1](https://osu.ppy.sh/community/matches/57819977) (used Round 2 mappool) |
-| **Ecal** ![][flag_US] | **4** | 0 | ![][flag_US] Ralgrand | [#1](https://osu.ppy.sh/community/matches/57820758) (used Round 2 mappool) |
+| Chest Flattener ::{ flag=US }:: | 1 | **4** | ::{ flag=US }:: **Ouchiee** | [#1](https://osu.ppy.sh/community/matches/57819977) (used Round 2 mappool) |
+| **Ecal** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: Ralgrand | [#1](https://osu.ppy.sh/community/matches/57820758) (used Round 2 mappool) |
 
 ## Ruleset
 
@@ -507,7 +507,3 @@ Both tournaments will use a standard double-elimination format for playoffs.
 2. Any sort of verbal harassment towards another in the tournament will not be tolerated. This includes referees, bystanders and any other attendees of the event.
 3. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
 4. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag___]: /wiki/shared/flag/__.gif

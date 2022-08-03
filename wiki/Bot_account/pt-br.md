@@ -11,7 +11,7 @@ tags:
 
 # Conta de bot
 
-Uma **conta de bot** é um tipo especial de conta no osu! gerenciada por um serviço automatizado ao invés de uma pessoa real. No website, elas têm uma insígnia de grupo branca escrito `BOT`, e apenas a seção `eu!` de seu perfil é visível. Contas de bot são comumente usada para hospedar "chat bots" que oferecem várias funcionalidades para a comunidade pelos canais do lobby [multiplayer](/wiki/Gameplay/Multiplayer) ou mensagens privadas.
+Uma **conta de bot** é um tipo especial de conta no osu! gerenciada por um serviço automatizado ao invés de uma pessoa real. No website, elas têm uma insígnia de grupo branca escrito `BOT`, e apenas a seção `eu!` de seu perfil é visível. Contas de bot são comumente usada para hospedar "chat bots" que oferecem várias funcionalidades para a comunidade pelos canais do lobby [multiplayer](/wiki/Client/Interface/Multiplayer) ou mensagens privadas.
 
 Contas de bot só podem ser criadas pelo [processo de aplicação](#criando-uma-conta-de-bot). A tentativa de criar uma conta de bot registrando normalmente é considerado "multi-accounting" e é contra as [regras da comunidade](/wiki/Rules#regras-da-comunidade).
 
@@ -58,7 +58,4 @@ O time de suporte de conta irá revisar sua solicitação. Se sua solicitação 
 ## Curiosidades
 
 - A insígnia do grupo `BOT` é mostrada em contas com um grupo primário de `Chat Bots` (grupo #29). A listagem deste grupo não é pública.
-- Algumas contas pessoais estão no grupo de chat bots pois seus donos não quiseram ou pediram para ter uma conta de bot separada para seus serviços, por exemplo ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) e ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Este tipo de instalação não é mais oferecido, e novos bots que entrarem no grupo sempre terão uma conta exclusiva.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
-[flag_FR]: /wiki/shared/flag/FR.gif "França"
+- Algumas contas pessoais estão no grupo de chat bots pois seus donos não quiseram ou pediram para ter uma conta de bot separada para seus serviços, por exemplo ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) e ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). Este tipo de instalação não é mais oferecido, e novos bots que entrarem no grupo sempre terão uma conta exclusiva.

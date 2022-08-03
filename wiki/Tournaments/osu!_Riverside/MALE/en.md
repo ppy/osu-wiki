@@ -11,7 +11,7 @@ tags:
 
 ![MALE logo](img/logo.png)
 
-The **Most Amazing LAN Ever** (***MALE***) was an osu! and osu!mania BYOC LAN tournament hosted by ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923) and ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614). It took place during *Highlander Con 2019*, a competitive gaming festival hosted by Highlander Gaming at the University of California, Riverside (*UCR*).
+The **Most Amazing LAN Ever** (***MALE***) was an osu! and osu!mania BYOC LAN tournament hosted by ::{ flag=US }:: [ForceJansen](https://osu.ppy.sh/users/5566923) and ::{ flag=US }:: [Chest Flattener](https://osu.ppy.sh/users/4292614). It took place during *Highlander Con 2019*, a competitive gaming festival hosted by Highlander Gaming at the University of California, Riverside (*UCR*).
 
 ## Event details
 
@@ -37,9 +37,9 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614) |
-| Commentator | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614) |
-| Mappool selector | ![][flag_US] [ForceJansen](https://osu.ppy.sh/users/5566923), ![][flag_US] [Chest Flattener](https://osu.ppy.sh/users/4292614), ![][flag_US] [Harrharrqi](https://osu.ppy.sh/users/2744592), ![][flag_SG] [Sheenoboo](https://osu.ppy.sh/users/5704437) |
+| Host | ::{ flag=US }:: [ForceJansen](https://osu.ppy.sh/users/5566923), ::{ flag=US }:: [Chest Flattener](https://osu.ppy.sh/users/4292614) |
+| Commentator | ::{ flag=US }:: [ForceJansen](https://osu.ppy.sh/users/5566923), ::{ flag=US }:: [Chest Flattener](https://osu.ppy.sh/users/4292614) |
+| Mappool selector | ::{ flag=US }:: [ForceJansen](https://osu.ppy.sh/users/5566923), ::{ flag=US }:: [Chest Flattener](https://osu.ppy.sh/users/4292614), ::{ flag=US }:: [Harrharrqi](https://osu.ppy.sh/users/2744592), ::{ flag=SG }:: [Sheenoboo](https://osu.ppy.sh/users/5704437) |
 
 ## Links
 
@@ -53,28 +53,28 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 ### osu!
 
-- ![][flag_US] [andrew22r](https://osu.ppy.sh/users/7941164)
-- ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350)
-- ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876)
-- ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231)
-- ![][flag_US] [GiraffeMidget](https://osu.ppy.sh/users/2413317)
-- ![][flag_US] [Ikeda Chizuru](https://osu.ppy.sh/users/9288843)
-- ![][flag_US] [J_8579](https://osu.ppy.sh/users/5590317)
-- ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459)
-- ![][flag_US] [MaidenofSorrow](https://osu.ppy.sh/users/13740709)
-- ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313)
-- ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308)
-- ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659)
-- ![][flag_US] [R Y A N](https://osu.ppy.sh/users/2765201)
+- ::{ flag=US }:: [andrew22r](https://osu.ppy.sh/users/7941164)
+- ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350)
+- ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876)
+- ::{ flag=US }:: [death grips](https://osu.ppy.sh/users/4829231)
+- ::{ flag=US }:: [GiraffeMidget](https://osu.ppy.sh/users/2413317)
+- ::{ flag=US }:: [Ikeda Chizuru](https://osu.ppy.sh/users/9288843)
+- ::{ flag=US }:: [J_8579](https://osu.ppy.sh/users/5590317)
+- ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459)
+- ::{ flag=US }:: [MaidenofSorrow](https://osu.ppy.sh/users/13740709)
+- ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313)
+- ::{ flag=US }:: [MyAngelNeptune](https://osu.ppy.sh/users/5290308)
+- ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659)
+- ::{ flag=US }:: [R Y A N](https://osu.ppy.sh/users/2765201)
 
 ### osu!mania
 
-- ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260)
-- ![][flag_US] [Giraffle](https://osu.ppy.sh/users/5344769)
-- ![][flag_US] [MintyYumi](https://osu.ppy.sh/users/3600982)
-- ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052)
-- ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659)
-- ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316)
+- ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260)
+- ::{ flag=US }:: [Giraffle](https://osu.ppy.sh/users/5344769)
+- ::{ flag=US }:: [MintyYumi](https://osu.ppy.sh/users/3600982)
+- ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052)
+- ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659)
+- ::{ flag=US }:: [Zushen](https://osu.ppy.sh/users/2106316)
 
 ## Podium
 
@@ -82,17 +82,17 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459) |
 
 ### osu!mania
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [Zushen](https://osu.ppy.sh/users/2106316) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) |
 
 ## Mappools
 
@@ -252,51 +252,51 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] Kenny | *forfeit (left early)* |
-| **Mathyu** ![][flag_US] | **7** | 1 | ![][flag_US] Darin on osu | [#1](https://osu.ppy.sh/community/matches/49192152) |
+| **Darin on osu** ::{ flag=US }:: | **1** | 0 | ::{ flag=US }:: Kenny | *forfeit (left early)* |
+| **Mathyu** ::{ flag=US }:: | **7** | 1 | ::{ flag=US }:: Darin on osu | [#1](https://osu.ppy.sh/community/matches/49192152) |
 
 #### Finals
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **R Y A N** ![][flag_US] | **6** | 1 | ![][flag_US] Riku on osu | [#1](https://osu.ppy.sh/community/matches/49191321) |
-| **Kenny** ![][flag_US] | **6** | 4 | ![][flag_US] clayton | [#1](https://osu.ppy.sh/community/matches/49191330) |
-| R Y A N ![][flag_US] | 5 | **7** | ![][flag_US] **Kenny** | [#1](https://osu.ppy.sh/community/matches/49191755) |
-| **Mathyu** ![][flag_US] | **6** | 4 | ![][flag_US] Darin on osu | [#1](https://osu.ppy.sh/community/matches/49191316) |
+| **R Y A N** ::{ flag=US }:: | **6** | 1 | ::{ flag=US }:: Riku on osu | [#1](https://osu.ppy.sh/community/matches/49191321) |
+| **Kenny** ::{ flag=US }:: | **6** | 4 | ::{ flag=US }:: clayton | [#1](https://osu.ppy.sh/community/matches/49191330) |
+| R Y A N ::{ flag=US }:: | 5 | **7** | ::{ flag=US }:: **Kenny** | [#1](https://osu.ppy.sh/community/matches/49191755) |
+| **Mathyu** ::{ flag=US }:: | **6** | 4 | ::{ flag=US }:: Darin on osu | [#1](https://osu.ppy.sh/community/matches/49191316) |
 
 #### Semifinals
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| J_8579 ![][flag_US] | 0 | **4** | ![][flag_US] **GiraffeMidget** | [#1](https://osu.ppy.sh/community/matches/49190507) |
-| **Riku on osu** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | [#1](https://osu.ppy.sh/community/matches/49190193) |
-| **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] Ikeda Chizuru | [#1](https://osu.ppy.sh/community/matches/49190471) |
-| **death grips** ![][flag_US] | **1** | 0 | ![][flag_US] DetectiveBleh | *forfeit (no-show)* |
-| GiraffeMidget ![][flag_US] | 0 | **1** | ![][flag_US] **Riku on osu** | *forfeit (left early)* |
-| **clayton** ![][flag_US] | **5** | 3 | ![][flag_US] death grips | <!-- match link lost --> |
-| **Mathyu** ![][flag_US] | **5** | 2 | ![][flag_US] R Y A N | <!-- match link lost --> |
-| **Darin on osu** ![][flag_US] | **5** | 3 | ![][flag_US] Kenny | <!-- match link lost --> |
+| J_8579 ::{ flag=US }:: | 0 | **4** | ::{ flag=US }:: **GiraffeMidget** | [#1](https://osu.ppy.sh/community/matches/49190507) |
+| **Riku on osu** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: andrew22r | [#1](https://osu.ppy.sh/community/matches/49190193) |
+| **clayton** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: Ikeda Chizuru | [#1](https://osu.ppy.sh/community/matches/49190471) |
+| **death grips** ::{ flag=US }:: | **1** | 0 | ::{ flag=US }:: DetectiveBleh | *forfeit (no-show)* |
+| GiraffeMidget ::{ flag=US }:: | 0 | **1** | ::{ flag=US }:: **Riku on osu** | *forfeit (left early)* |
+| **clayton** ::{ flag=US }:: | **5** | 3 | ::{ flag=US }:: death grips | <!-- match link lost --> |
+| **Mathyu** ::{ flag=US }:: | **5** | 2 | ::{ flag=US }:: R Y A N | <!-- match link lost --> |
+| **Darin on osu** ::{ flag=US }:: | **5** | 3 | ::{ flag=US }:: Kenny | <!-- match link lost --> |
 
 #### Quarterfinals
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **andrew22r** ![][flag_US] | **3** | 0 | ![][flag_US] MyAngelNeptune | [#1](https://osu.ppy.sh/community/matches/49189563) |
-| MaidenofSorrow ![][flag_US] | 0 | **4** | ![][flag_US] **Ikeda Chizuru** | <!-- match link lost --> |
-| **Mathyu** ![][flag_US] | **4** | 1 | ![][flag_US] death grips | [#1](https://osu.ppy.sh/community/matches/49190579) |
-| **R Y A N** ![][flag_US] | **4** | 3 | ![][flag_US] clayton | [#1](https://osu.ppy.sh/community/matches/49190109) |
-| **Darin on osu** ![][flag_US] | **4** | 1 | ![][flag_US] Riku on osu | [#1](https://osu.ppy.sh/community/matches/49189660) |
-| **Kenny** ![][flag_US] | **4** | 0 | ![][flag_US] J_8579 | [#1](https://osu.ppy.sh/community/matches/49190146) |
+| **andrew22r** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: MyAngelNeptune | [#1](https://osu.ppy.sh/community/matches/49189563) |
+| MaidenofSorrow ::{ flag=US }:: | 0 | **4** | ::{ flag=US }:: **Ikeda Chizuru** | <!-- match link lost --> |
+| **Mathyu** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: death grips | [#1](https://osu.ppy.sh/community/matches/49190579) |
+| **R Y A N** ::{ flag=US }:: | **4** | 3 | ::{ flag=US }:: clayton | [#1](https://osu.ppy.sh/community/matches/49190109) |
+| **Darin on osu** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: Riku on osu | [#1](https://osu.ppy.sh/community/matches/49189660) |
+| **Kenny** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: J_8579 | [#1](https://osu.ppy.sh/community/matches/49190146) |
 
 #### Round of 16
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| GiraffeMidget ![][flag_US] | 0 | **4** | ![][flag_US] **death grips** | <!-- match link lost --> |
-| **R Y A N** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | <!-- match link lost --> |
-| **clayton** ![][flag_US] | **4** | 1 | ![][flag_US] MyAngelNeptune | [#1](https://osu.ppy.sh/community/matches/49189127) |
-| **Darin on osu** ![][flag_US] | **4** | 0 | ![][flag_US] MaidenofSorrow | [#1](https://osu.ppy.sh/community/matches/49189132) |
-| **Riku on osu** ![][flag_US] | **4** | 2 | ![][flag_US] Ikeda Chizuru | <!-- match link lost --> |
+| GiraffeMidget ::{ flag=US }:: | 0 | **4** | ::{ flag=US }:: **death grips** | <!-- match link lost --> |
+| **R Y A N** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: andrew22r | <!-- match link lost --> |
+| **clayton** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: MyAngelNeptune | [#1](https://osu.ppy.sh/community/matches/49189127) |
+| **Darin on osu** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: MaidenofSorrow | [#1](https://osu.ppy.sh/community/matches/49189132) |
+| **Riku on osu** ::{ flag=US }:: | **4** | 2 | ::{ flag=US }:: Ikeda Chizuru | <!-- match link lost --> |
 
 ### osu!mania
 
@@ -306,24 +306,24 @@ The bracket was cut off early due to time concerns, so later matches switched to
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Zushen** ![][flag_US] | **4** | 0 | ![][flag_US] Ecal | <!-- match link lost --> |
+| **Zushen** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: Ecal | <!-- match link lost --> |
 
 #### Losers bracket (not used)
 
 | Player 1 |  |  | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
-| **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Riku on osu | *forfeit* |
-| **Giraffle** ![][flag_US] | **3** | 2 | ![][flag_US] MintyYumi | <!-- match link lost --> |
-| **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Giraffle | *forfeit* |
+| **Ouchiee** ::{ flag=US }:: | **1** | 0 | ::{ flag=US }:: Riku on osu | *forfeit* |
+| **Giraffle** ::{ flag=US }:: | **3** | 2 | ::{ flag=US }:: MintyYumi | <!-- match link lost --> |
+| **Ouchiee** ::{ flag=US }:: | **1** | 0 | ::{ flag=US }:: Giraffle | *forfeit* |
 
 #### Round of 6
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Giraffle** ![][flag_US] | **3** | 0 | ![][flag_US] Riku on osu | <!-- match link lost --> |
-| **Ouchiee** ![][flag_US] | **3** | 0 | ![][flag_US] MintyYumi | <!-- match link lost --> |
-| **Zushen** ![][flag_US] | **3** | 0 | ![][flag_US] Giraffle | <!-- match link lost --> |
-| **Ecal** ![][flag_US] | **3** | 2 | ![][flag_US] Ouchiee | <!-- match link lost --> |
+| **Giraffle** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Riku on osu | <!-- match link lost --> |
+| **Ouchiee** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: MintyYumi | <!-- match link lost --> |
+| **Zushen** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: Giraffle | <!-- match link lost --> |
+| **Ecal** ::{ flag=US }:: | **3** | 2 | ::{ flag=US }:: Ouchiee | <!-- match link lost --> |
 
 ## Ruleset
 
@@ -346,6 +346,3 @@ The bracket was cut off early due to time concerns, so later matches switched to
 1. Warm-up picks will likely not be allowed due to time concerns.
 2. Both players will `!roll` when they join the lobby. The player with the lower result will ban first, and the other will pick first.
 3. Map selection alternates between players. If the scores are tied at match point, the tiebreaker will be played.
-
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
