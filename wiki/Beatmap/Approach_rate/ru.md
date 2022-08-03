@@ -3,55 +3,58 @@ tags:
   - approach time
   - AR
   - reading
+  - читалка
+  - чтение
+  - АР
 ---
 
 # Скорость подхода
 
-*For suggested AR values, see: [Ranking criteria](/wiki/Ranking_Criteria)*
+*Для рекомендуемых значений AR см. [Критерии ранкинга](/wiki/Ranking_Criteria)*
 
-**Approach rate** (***AR***) is a [beatmap](/wiki/Beatmap) difficulty setting that defines when [hit objects](/wiki/Hit_object) start to fade in relative to when they should be hit or collected. It exists only in [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch).
+**Скорость подхода** (жарг. AR, от англ. Approach Rate) — параметр сложности [карты](/wiki/Beatmap), который определяет когда [ноты](/wiki/Hit_object) начинают появляться относительно того, когда они должны быть нажаты или пойманы. Она существует только в [osu!](/wiki/Game_mode/osu!) и в [osu!catch](/wiki/Game_mode/osu!catch).
 
-AR values range from 0 to 10. Higher approach rates mean that hit objects will be shown for a shorter period of time, giving less time for a player to react. On the other hand, lower approach rates allow more reaction time, but can result in an overwhelming amount of hit objects appearing on the screen at once.
+Значения скорости подхода варьируются от 0 до 10. С одной стороны, более высокая скорость подхода означает, что объекты будут видны в течение более короткого периода времени, что даёт игроку меньше времени на реакцию. С другой стороны, более низкая скорость подхода даёт больше времени на реакцию, но может привести к переизбытку объектов на экране одновременно.
 
-## Animation timing
+## Время анимации
 
-The duration of a hit object that stays visible on the screen (without mods) ranges from 1800ms at AR0 to 450ms at AR10. AR levels scale by 120ms for below AR5 and 150ms for above AR5.
+Длительность пребывания объекта на экране (без каких-либо модов) варьируется от 1800 мс при AR0 до 450 мс при AR10. Уровни скорости подхода масштабируются на 120 мс для уровней ниже 5, и на 150 мс для уровней выше 5.
 
-See the infographic and formulas below for an overview:
+Смотрите инфографику и формулы ниже для обзора:
 
 ```
-                                       X = hit/collect
+                                       X = нажатие/ловля
              p r e e m p t             ↓
 ├───────────────────────┬──────────────┤
-0%       fade_in          100% opacity
+0%       fade_in         100% видимости
 ```
 
-The hit object starts fading in at `X - preempt` with:
+Объект начинает появляться в `X - preempt`, где:
 
 - AR < 5: `preempt = 1200ms + 600ms * (5 - AR) / 5`
 - AR = 5: `preempt = 1200ms`
 - AR > 5: `preempt = 1200ms - 750ms * (AR - 5) / 5`
 
-The amount of time it takes for the hit object to completely fade in is also reliant on the approach rate:
+Количество времени, необходимое для полного появления объекта, также зависит от скорости подхода:
 
 - AR < 5: `fade_in = 800ms + 400ms * (5 - AR) / 5`
 - AR = 5: `fade_in = 800ms`
 - AR > 5: `fade_in = 800ms - 500ms * (AR - 5) / 5`
 
-## Mod effects
+## Эффекты модов
 
-There are four mods that alter the approach rate when activated:
+Есть четыре мода, которые при включении изменяют скорость подхода:
 
-- [Easy](/wiki/Game_modifier/Easy): Halves the AR value.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplies the AR value by 1.4, up to a maximum of 10.
-- [Double Time](/wiki/Game_modifier/Double_Time): The AR value is not affected, but due to the 50% play speed increase, hit objects stay on screen for 33% less time.
-- [Half Time](/wiki/Game_modifier/Half_Time): The AR value is not affected, but due to the 25% play speed decrease, hit objects stay on screen for 33% more time.
+- [Easy](/wiki/Game_modifier/Easy): Уменьшает значение AR вдвое.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Умножает значение AR на 1,4, максимум до 10.
+- [Double Time](/wiki/Game_modifier/Double_Time): Значение AR не меняется, хотя из-за ускорения карты на 50%, объекты остаются на экране на 33% меньше времени.
+- [Half Time](/wiki/Game_modifier/Half_Time): Значение AR не меняется, хотя из-за замедления карты на 25%, объекты остаются на экране на 33% больше времени.
 
-While Half Time and Double Time do not change the AR value, the speed difference leads to an apparent AR change. HT/DT ARs are commonly referred to in terms of their perceived value. For example, "AR8+DT" may also be written as "AR9.6".
+Хотя Half Time и Double Time не меняют значения AR, разница в скорости карты приводит к явному изменению скорости подхода. Об этих скоростях часто говорят с точки зрения их воспринимаемого значения. Например, «AR8+DT» также может быть написано как «AR9,6».
 
-## osu!taiko and osu!mania
+## osu!taiko и osu!mania
 
-Approach rate is visible when viewing [osu!taiko](/wiki/Game_mode/osu!taiko) or [osu!mania](/wiki/Game_mode/osu!mania) beatmap information, but it does not affect gameplay. Each mode's scroll speed is determined by other factors.
+Скорость подхода видна при просмотре информации карты в [osu!taiko](/wiki/Game_mode/osu!taiko) и [osu!mania](/wiki/Game_mode/osu!mania), но она никак не влияет на геймплей. Скорость прокрутки этих режимов определяется другими факторами.
 
 <!-- TODO: Insert lots of links -->
 
