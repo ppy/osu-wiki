@@ -12,7 +12,7 @@ tags:
 
 ![Logo de la MWC 2014](img/logo.jpg)
 
-L'**osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'osu!mania organisé par [l'équipe d'osu!](https://osu.ppy.sh/wiki/en/People/The_Team). Il était séparé en un bracket 4K et un bracket 7K et était la première itération de l'osu!mania 4K World Cup et de l'osu!mania 7K World Cup.
+L'**osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'osu!mania organisé par [l'équipe d'osu!](/wiki/People/The_Team). Il était séparé en un bracket 4K et un bracket 7K et était la première itération de l'osu!mania 4K World Cup et de l'osu!mania 7K World Cup.
 
 ## Calendrier
 
