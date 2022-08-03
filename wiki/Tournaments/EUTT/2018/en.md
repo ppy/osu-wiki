@@ -8,7 +8,7 @@ tags:
 
 ![EUTT 2018 logo](img/logo.png)
 
-The **European Taiko Tournament 2018** (***EUTT 2018***) was a 1v1 European double elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). It was the first instalment of the European Taiko Tournament.
+The **European Taiko Tournament 2018** (***EUTT 2018***) was a 1v1 European double elimination osu!taiko tournament hosted by ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110). It was the first instalment of the European Taiko Tournament.
 
 ## Tournament schedule
 
@@ -39,14 +39,14 @@ The European Taiko Tournament 2018 was run by various osu!taiko community member
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Mappool selector | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
-| Streamer | ![][flag_DE] [Heamburger](https://osu.ppy.sh/users/4705120) |
-| Commentator | ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_GB] [Faithful](https://osu.ppy.sh/users/8283935), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_NZ] [sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
-| Designer | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
-| Referee | ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Mappool selector | ::{ flag=DE }:: [Nepuri](https://osu.ppy.sh/users/6637817), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) |
+| Streamer | ::{ flag=DE }:: [Heamburger](https://osu.ppy.sh/users/4705120) |
+| Commentator | ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=GB }:: [Faithful](https://osu.ppy.sh/users/8283935), ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416), ::{ flag=NZ }:: [sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) |
+| Designer | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=FI }:: [Micro](https://osu.ppy.sh/users/4801080) |
+| Referee | ::{ flag=AU }:: [Cactie](https://osu.ppy.sh/users/5592409), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -60,10 +60,10 @@ The European Taiko Tournament 2018 was run by various osu!taiko community member
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945), ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166), ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444), ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622), ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438), ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728) |
-| High | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737), ![][flag_UA] [Don Omar](https://osu.ppy.sh/users/689414), ![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880), ![][flag_CH] [Oui](https://osu.ppy.sh/users/5538419), ![][flag_RU] [Naninub](https://osu.ppy.sh/users/8188876), ![][flag_DE] [-Leafeon](https://osu.ppy.sh/users/6956922), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008), ![][flag_DE] [jleste](https://osu.ppy.sh/users/8275687) |
-| Low | ![][flag_RU] [DayzeekFeed](https://osu.ppy.sh/users/5009970), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_RU] [night\_flower](https://osu.ppy.sh/users/11574707), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_AT] [animexamera](https://osu.ppy.sh/users/7511357), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_FR] [maximaxiU](https://osu.ppy.sh/users/4069690) |
-| Bottom | ![][flag_PL] [\_SC0RP10N](https://osu.ppy.sh/users/9511518), ![][flag_EE] [Kizma](https://osu.ppy.sh/users/8325847), ![][flag_GB] [Ali161102](https://osu.ppy.sh/users/7582420), ![][flag_PL] [Agresywny Arbuz](https://osu.ppy.sh/users/7056658), ![][flag_SV] [\[Carl S\]](https://osu.ppy.sh/users/6230047), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_GB] [ControlPro](https://osu.ppy.sh/users/10633982), ![][flag_ES] [alexinet232](https://osu.ppy.sh/users/5250153) |
+| Top | ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655), ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945), ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166), ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444), ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550), ::{ flag=FR }:: [Yona la loutre](https://osu.ppy.sh/users/7930622), ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728) |
+| High | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737), ::{ flag=UA }:: [Don Omar](https://osu.ppy.sh/users/689414), ::{ flag=PL }:: [Acrith](https://osu.ppy.sh/users/389880), ::{ flag=CH }:: [Oui](https://osu.ppy.sh/users/5538419), ::{ flag=RU }:: [Naninub](https://osu.ppy.sh/users/8188876), ::{ flag=DE }:: [-Leafeon](https://osu.ppy.sh/users/6956922), ::{ flag=DE }:: [lukili846](https://osu.ppy.sh/users/6278008), ::{ flag=DE }:: [jleste](https://osu.ppy.sh/users/8275687) |
+| Low | ::{ flag=RU }:: [DayzeekFeed](https://osu.ppy.sh/users/5009970), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=GB }:: [Lno](https://osu.ppy.sh/users/1900787), ::{ flag=RU }:: [night\_flower](https://osu.ppy.sh/users/11574707), ::{ flag=GB }:: [Grimbow](https://osu.ppy.sh/users/1387762), ::{ flag=AT }:: [animexamera](https://osu.ppy.sh/users/7511357), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=FR }:: [maximaxiU](https://osu.ppy.sh/users/4069690) |
+| Bottom | ::{ flag=PL }:: [\_SC0RP10N](https://osu.ppy.sh/users/9511518), ::{ flag=EE }:: [Kizma](https://osu.ppy.sh/users/8325847), ::{ flag=GB }:: [Ali161102](https://osu.ppy.sh/users/7582420), ::{ flag=PL }:: [Agresywny Arbuz](https://osu.ppy.sh/users/7056658), ::{ flag=SV }:: [\[Carl S\]](https://osu.ppy.sh/users/6230047), ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015), ::{ flag=GB }:: [ControlPro](https://osu.ppy.sh/users/10633982), ::{ flag=ES }:: [alexinet232](https://osu.ppy.sh/users/5250153) |
 
 ## Podium
 
@@ -71,9 +71,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166) |
 
 ## Mappools
 
@@ -245,13 +245,13 @@ Friday, 7 December 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Ikkun** ![][flag_IT] | **6** | 3 | ![][flag_ES] AlvaroYL | [#1](https://osu.ppy.sh/community/matches/47942813) |
+| **Ikkun** ::{ flag=IT }:: | **6** | 3 | ::{ flag=ES }:: AlvaroYL | [#1](https://osu.ppy.sh/community/matches/47942813) |
 
 Sunday, 9 December 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **goheegy** ![][flag_GB] | **6** | 0 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/47995456) |
+| **goheegy** ::{ flag=GB }:: | **6** | 0 | ::{ flag=IT }:: Ikkun | [#1](https://osu.ppy.sh/community/matches/47995456) |
 
 ### Finals
 
@@ -259,15 +259,15 @@ Saturday, 1 December 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **goheegy** ![][flag_GB] | **6** | 2 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/47806853) |
-| **AlvaroYL** ![][flag_ES] | **6** | 1 | ![][flag_FR] Yona la loutre | [#1](https://osu.ppy.sh/community/matches/47804859) |
-| **BabySnakes** ![][flag_PT] | **6** | 1 | ![][flag_TR] frukoyurdakul | [#1](https://osu.ppy.sh/community/matches/47812555) |
+| **goheegy** ::{ flag=GB }:: | **6** | 2 | ::{ flag=IT }:: Ikkun | [#1](https://osu.ppy.sh/community/matches/47806853) |
+| **AlvaroYL** ::{ flag=ES }:: | **6** | 1 | ::{ flag=FR }:: Yona la loutre | [#1](https://osu.ppy.sh/community/matches/47804859) |
+| **BabySnakes** ::{ flag=PT }:: | **6** | 1 | ::{ flag=TR }:: frukoyurdakul | [#1](https://osu.ppy.sh/community/matches/47812555) |
 
 Sunday, 2 December 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **AlvaroYL** ![][flag_ES] | **6** | 2 | ![][flag_PT] BabySnakes | [#1](https://osu.ppy.sh/community/matches/47838607) |
+| **AlvaroYL** ::{ flag=ES }:: | **6** | 2 | ::{ flag=PT }:: BabySnakes | [#1](https://osu.ppy.sh/community/matches/47838607) |
 
 ### Semifinals
 
@@ -275,19 +275,19 @@ Saturday, 24 November 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Yona la loutre** ![][flag_FR] | **5** | 4 | ![][flag_PL] Acrith | [#1](https://osu.ppy.sh/community/matches/47643110) |
-| D3kuu ![][flag_IT] | 0 | **5** | ![][flag_RU] **DayzeekFeed** | *win by default* |
-| **BabySnakes** ![][flag_PT] | **5** | 0 | ![][flag_DE] Zetera | [#1](https://osu.ppy.sh/community/matches/47647975) |
-| **Horiiizon** ![][flag_GB] | **5** | 0 | ![][flag_GB] Lno | *win by default* |
+| **Yona la loutre** ::{ flag=FR }:: | **5** | 4 | ::{ flag=PL }:: Acrith | [#1](https://osu.ppy.sh/community/matches/47643110) |
+| D3kuu ::{ flag=IT }:: | 0 | **5** | ::{ flag=RU }:: **DayzeekFeed** | *win by default* |
+| **BabySnakes** ::{ flag=PT }:: | **5** | 0 | ::{ flag=DE }:: Zetera | [#1](https://osu.ppy.sh/community/matches/47647975) |
+| **Horiiizon** ::{ flag=GB }:: | **5** | 0 | ::{ flag=GB }:: Lno | *win by default* |
 
 Sunday, 25 November 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Yona la loutre** ![][flag_FR] | **5** | 3 | ![][flag_RU] DayzeekFeed | [#1](https://osu.ppy.sh/community/matches/47673741) |
-| frukoyurdakul ![][flag_TR] | 4 | **5** | ![][flag_GB] **goheegy** | [#1](https://osu.ppy.sh/community/matches/47676655) |
-| **Ikkun** ![][flag_IT] | **5** | 3 | ![][flag_ES] AlvaroYL | [#1](https://osu.ppy.sh/community/matches/47678634) |
-| BabySnakes ![][flag_PT] | **5** | 1 | ![][flag_GB] Horiiizon | [#1](https://osu.ppy.sh/community/matches/47682738) |
+| **Yona la loutre** ::{ flag=FR }:: | **5** | 3 | ::{ flag=RU }:: DayzeekFeed | [#1](https://osu.ppy.sh/community/matches/47673741) |
+| frukoyurdakul ::{ flag=TR }:: | 4 | **5** | ::{ flag=GB }:: **goheegy** | [#1](https://osu.ppy.sh/community/matches/47676655) |
+| **Ikkun** ::{ flag=IT }:: | **5** | 3 | ::{ flag=ES }:: AlvaroYL | [#1](https://osu.ppy.sh/community/matches/47678634) |
+| BabySnakes ::{ flag=PT }:: | **5** | 1 | ::{ flag=GB }:: Horiiizon | [#1](https://osu.ppy.sh/community/matches/47682738) |
 
 ### Quarterfinals
 
@@ -295,27 +295,27 @@ Saturday, 17 November 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Yona la loutre ![][flag_FR] | 0 | **5** | ![][flag_GB] **goheegy** | *win by default* |
-| Horiiizon ![][flag_GB] | 1 | **5** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/47489874) |
-| **lukili846** ![][flag_DE] | **5** | 0 | ![][flag_AT] animexamera | [#1](https://osu.ppy.sh/community/matches/47496896) |
-| **Acrith** ![][flag_PL] | **5** | 4 | ![][flag_RU] Naninub | [#1](https://osu.ppy.sh/community/matches/47492274) |
-| Oui ![][flag_CH] | 0 | 0 | ![][flag_GB] Teezel | *nullified* |
-| **DayzeekFeed** ![][flag_RU] | **5** | 0 | ![][flag_FR] Chernobog | [#1](https://osu.ppy.sh/community/matches/47497153) |
-| Don Omar ![][flag_UA] | 0 | **5** | ![][flag_PL] **\_SC0RP10N** | *win by default* |
-| **Lno** ![][flag_GB] | **5** | 1 | ![][flag_GB] Grimbow | [#1](https://osu.ppy.sh/community/matches/47493556) |
-| **-Leafeon** ![][flag_DE] | **5** | 3 | ![][flag_RU] night\_flower | [#1](https://osu.ppy.sh/community/matches/47493638) |
+| Yona la loutre ::{ flag=FR }:: | 0 | **5** | ::{ flag=GB }:: **goheegy** | *win by default* |
+| Horiiizon ::{ flag=GB }:: | 1 | **5** | ::{ flag=IT }:: **Ikkun** | [#1](https://osu.ppy.sh/community/matches/47489874) |
+| **lukili846** ::{ flag=DE }:: | **5** | 0 | ::{ flag=AT }:: animexamera | [#1](https://osu.ppy.sh/community/matches/47496896) |
+| **Acrith** ::{ flag=PL }:: | **5** | 4 | ::{ flag=RU }:: Naninub | [#1](https://osu.ppy.sh/community/matches/47492274) |
+| Oui ::{ flag=CH }:: | 0 | 0 | ::{ flag=GB }:: Teezel | *nullified* |
+| **DayzeekFeed** ::{ flag=RU }:: | **5** | 0 | ::{ flag=FR }:: Chernobog | [#1](https://osu.ppy.sh/community/matches/47497153) |
+| Don Omar ::{ flag=UA }:: | 0 | **5** | ::{ flag=PL }:: **\_SC0RP10N** | *win by default* |
+| **Lno** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Grimbow | [#1](https://osu.ppy.sh/community/matches/47493556) |
+| **-Leafeon** ::{ flag=DE }:: | **5** | 3 | ::{ flag=RU }:: night\_flower | [#1](https://osu.ppy.sh/community/matches/47493638) |
 
 Sunday, 18 November 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| D3kuu ![][flag_IT] | 2 | **5** | ![][flag_TR] **frukoyurdakul** | [#1](https://osu.ppy.sh/community/matches/47520607) |
-| BabySnakes ![][flag_PT] | 4 | **5** | ![][flag_ES] **AlvaroYL** | [#1](https://osu.ppy.sh/community/matches/47521716) |
-| **Zetera** ![][flag_DE] | **5** | 0 | ![][flag_FR] maximaxiU | [#1](https://osu.ppy.sh/community/matches/47517887) |
-| **lukili846** ![][flag_DE] | **5** | 1 | ![][flag_PL] Acrith | [#1](https://osu.ppy.sh/community/matches/47525243) |
-| Oui ![][flag_CH] | 0 | **5** | ![][flag_RU] **DayzeekFeed** | *win by default* |
-| \_SC0RP10N ![][flag_PL] | 1 | **5** | ![][flag_DE] **Zetera** | [#1](https://osu.ppy.sh/community/matches/47519362) |
-| **Lno** ![][flag_GB] | **5** | 4 | ![][flag_DE] -Leafeon | [#1](https://osu.ppy.sh/community/matches/47520619) |
+| D3kuu ::{ flag=IT }:: | 2 | **5** | ::{ flag=TR }:: **frukoyurdakul** | [#1](https://osu.ppy.sh/community/matches/47520607) |
+| BabySnakes ::{ flag=PT }:: | 4 | **5** | ::{ flag=ES }:: **AlvaroYL** | [#1](https://osu.ppy.sh/community/matches/47521716) |
+| **Zetera** ::{ flag=DE }:: | **5** | 0 | ::{ flag=FR }:: maximaxiU | [#1](https://osu.ppy.sh/community/matches/47517887) |
+| **lukili846** ::{ flag=DE }:: | **5** | 1 | ::{ flag=PL }:: Acrith | [#1](https://osu.ppy.sh/community/matches/47525243) |
+| Oui ::{ flag=CH }:: | 0 | **5** | ::{ flag=RU }:: **DayzeekFeed** | *win by default* |
+| \_SC0RP10N ::{ flag=PL }:: | 1 | **5** | ::{ flag=DE }:: **Zetera** | [#1](https://osu.ppy.sh/community/matches/47519362) |
+| **Lno** ::{ flag=GB }:: | **5** | 4 | ::{ flag=DE }:: -Leafeon | [#1](https://osu.ppy.sh/community/matches/47520619) |
 
 ### Round of 16
 
@@ -323,27 +323,27 @@ Saturday, 10 November 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **D3kuu** ![][flag_IT] | **4** | 0 | ![][flag_DE] -Leafeon | [#1](https://osu.ppy.sh/community/matches/47332883) |
-| **frukoyurdakul** ![][flag_TR] | **4** | 0 | ![][flag_GB] Lno | *win by default* |
-| **Yona la loutre** ![][flag_FR] | **4** | 3 | ![][flag_DE] Zetera | [#1](https://osu.ppy.sh/community/matches/47327934) |
-| **goheegy** ![][flag_GB] | **4** | 0 | ![][flag_UA] Don Omar | *win by default* |
-| **Horiiizon** ![][flag_GB] | **4** | 0 | ![][flag_RU] DayzeekFeed | [#1](https://osu.ppy.sh/community/matches/47334956) |
-| **Ikkun** ![][flag_IT] | **4** | 0 | ![][flag_CH] Oui | [#1](https://osu.ppy.sh/community/matches/47336823) |
-| **BabySnakes** ![][flag_PT] | **4** | 2 | ![][flag_PL] Acrith | [#1](https://osu.ppy.sh/community/matches/47329721) |
-| Agresywny Arbuz ![][flag_PL] | 2 | **4** | ![][flag_AT] **animexamera** | [#1](https://osu.ppy.sh/community/matches/47331263) |
-| \[Carl S\] ![][flag_SV] | 0 | **4** | ![][flag_RU] **Naninub** | *win by default* |
-| Kizma ![][flag_EE] | 1 | **4** | ![][flag_GB] **Teezel** | [#1](https://osu.ppy.sh/community/matches/47325581) |
-| Ali161102 ![][flag_GB] | 1 | **4** | ![][flag_FR] **Chernobog** | [#1](https://osu.ppy.sh/community/matches/47336910) |
-| **\_SC0RP10N** ![][flag_PL] | **4** | 0 | ![][flag_DE] jleste | *win by default* |
-| Capu ![][flag_DE] | 0 | **4** | ![][flag_FR] **maximaxiU** | [#1](https://osu.ppy.sh/community/matches/47329509) |
-| alexinet232 ![][flag_ES] | 0 | **4** | ![][flag_GB] Grimbow | [#1](https://osu.ppy.sh/community/matches/47331393) |
-| ControlPro ![][flag_GB] | 1 | **4** | ![][flag_RU] night\_flower | [#1](https://osu.ppy.sh/community/matches/47332907) |
+| **D3kuu** ::{ flag=IT }:: | **4** | 0 | ::{ flag=DE }:: -Leafeon | [#1](https://osu.ppy.sh/community/matches/47332883) |
+| **frukoyurdakul** ::{ flag=TR }:: | **4** | 0 | ::{ flag=GB }:: Lno | *win by default* |
+| **Yona la loutre** ::{ flag=FR }:: | **4** | 3 | ::{ flag=DE }:: Zetera | [#1](https://osu.ppy.sh/community/matches/47327934) |
+| **goheegy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=UA }:: Don Omar | *win by default* |
+| **Horiiizon** ::{ flag=GB }:: | **4** | 0 | ::{ flag=RU }:: DayzeekFeed | [#1](https://osu.ppy.sh/community/matches/47334956) |
+| **Ikkun** ::{ flag=IT }:: | **4** | 0 | ::{ flag=CH }:: Oui | [#1](https://osu.ppy.sh/community/matches/47336823) |
+| **BabySnakes** ::{ flag=PT }:: | **4** | 2 | ::{ flag=PL }:: Acrith | [#1](https://osu.ppy.sh/community/matches/47329721) |
+| Agresywny Arbuz ::{ flag=PL }:: | 2 | **4** | ::{ flag=AT }:: **animexamera** | [#1](https://osu.ppy.sh/community/matches/47331263) |
+| \[Carl S\] ::{ flag=SV }:: | 0 | **4** | ::{ flag=RU }:: **Naninub** | *win by default* |
+| Kizma ::{ flag=EE }:: | 1 | **4** | ::{ flag=GB }:: **Teezel** | [#1](https://osu.ppy.sh/community/matches/47325581) |
+| Ali161102 ::{ flag=GB }:: | 1 | **4** | ::{ flag=FR }:: **Chernobog** | [#1](https://osu.ppy.sh/community/matches/47336910) |
+| **\_SC0RP10N** ::{ flag=PL }:: | **4** | 0 | ::{ flag=DE }:: jleste | *win by default* |
+| Capu ::{ flag=DE }:: | 0 | **4** | ::{ flag=FR }:: **maximaxiU** | [#1](https://osu.ppy.sh/community/matches/47329509) |
+| alexinet232 ::{ flag=ES }:: | 0 | **4** | ::{ flag=GB }:: Grimbow | [#1](https://osu.ppy.sh/community/matches/47331393) |
+| ControlPro ::{ flag=GB }:: | 1 | **4** | ::{ flag=RU }:: night\_flower | [#1](https://osu.ppy.sh/community/matches/47332907) |
 
 Sunday, 11 November 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **AlvaroYL** ![][flag_ES] | **4** | 0 | ![][flag_DE] lukili846 | [#1](https://osu.ppy.sh/community/matches/47356264) |
+| **AlvaroYL** ::{ flag=ES }:: | **4** | 0 | ::{ flag=DE }:: lukili846 | [#1](https://osu.ppy.sh/community/matches/47356264) |
 
 ### Round of 32
 
@@ -351,27 +351,27 @@ Saturday, 3 November 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **D3kuu** ![][flag_IT] | **4** | 0 | ![][flag_PL] Agresywny Arbuz | [#1](https://osu.ppy.sh/community/matches/47173837) |
-| animexamera ![][flag_AT] | 0 | **4** | ![][flag_DE] **-Leafeon** | [#1](https://osu.ppy.sh/community/matches/47183611) |
-| frukoyurdakul ![][flag_TR] | 0 | 0 | ![][flag_SV] \[Carl S\] | *nullified* |
-| **Lno** ![][flag_GB] | **4** | 2 | ![][flag_RU] Naninub | [#1](https://osu.ppy.sh/community/matches/47176732) |
-| **Yona la loutre** ![][flag_FR] | **4** | 0 | ![][flag_EE] Kizma | [#1](https://osu.ppy.sh/community/matches/47178332) |
-| **Zetera** ![][flag_DE] | **4** | 0 | ![][flag_GB] Teezel | [#1](https://osu.ppy.sh/community/matches/47182397) |
-| **goheegy** ![][flag_GB] | **4** | 0 | ![][flag_GB] Ali161102 | [#1](https://osu.ppy.sh/community/matches/47173854) |
-| **Don Omar** ![][flag_UA] | **4** | 2 | ![][flag_FR] Chernobog | [#1](https://osu.ppy.sh/community/matches/47175042) |
+| **D3kuu** ::{ flag=IT }:: | **4** | 0 | ::{ flag=PL }:: Agresywny Arbuz | [#1](https://osu.ppy.sh/community/matches/47173837) |
+| animexamera ::{ flag=AT }:: | 0 | **4** | ::{ flag=DE }:: **-Leafeon** | [#1](https://osu.ppy.sh/community/matches/47183611) |
+| frukoyurdakul ::{ flag=TR }:: | 0 | 0 | ::{ flag=SV }:: \[Carl S\] | *nullified* |
+| **Lno** ::{ flag=GB }:: | **4** | 2 | ::{ flag=RU }:: Naninub | [#1](https://osu.ppy.sh/community/matches/47176732) |
+| **Yona la loutre** ::{ flag=FR }:: | **4** | 0 | ::{ flag=EE }:: Kizma | [#1](https://osu.ppy.sh/community/matches/47178332) |
+| **Zetera** ::{ flag=DE }:: | **4** | 0 | ::{ flag=GB }:: Teezel | [#1](https://osu.ppy.sh/community/matches/47182397) |
+| **goheegy** ::{ flag=GB }:: | **4** | 0 | ::{ flag=GB }:: Ali161102 | [#1](https://osu.ppy.sh/community/matches/47173854) |
+| **Don Omar** ::{ flag=UA }:: | **4** | 2 | ::{ flag=FR }:: Chernobog | [#1](https://osu.ppy.sh/community/matches/47175042) |
 
 Sunday, 4 November 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Horiiizon** ![][flag_GB] | **4** | 0 | ![][flag_PL] \_SC0RP10N | [#1](https://osu.ppy.sh/community/matches/47204200) |
-| jleste ![][flag_DE] | 1 | **4** | ![][flag_RU] **DayzeekFeed** | [#1](https://osu.ppy.sh/community/matches/47205657) |
-| Capu ![][flag_DE] | 0 | **4** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/47206847) |
-| **Oui** ![][flag_CH] | **4** | 0 | ![][flag_FR] maximaxiU | [#1](https://osu.ppy.sh/community/matches/47208185) |
-| **BabySnakes** ![][flag_PT] | **4** | 0 | ![][flag_ES] alexinet232 | [#1](https://osu.ppy.sh/community/matches/47209702) |
-| **Acrith** ![][flag_PL] | **4** | 0 | ![][flag_GB] Grimbow | *win by default* |
-| **AlvaroYL** ![][flag_ES] | **4** | 0 | ![][flag_GB] ControlPro | [#1](https://osu.ppy.sh/community/matches/47213001) |
-| **lukili846** ![][flag_DE] | **4** | 0 | ![][flag_RU] night\_flower | [#1](https://osu.ppy.sh/community/matches/47214217) |
+| **Horiiizon** ::{ flag=GB }:: | **4** | 0 | ::{ flag=PL }:: \_SC0RP10N | [#1](https://osu.ppy.sh/community/matches/47204200) |
+| jleste ::{ flag=DE }:: | 1 | **4** | ::{ flag=RU }:: **DayzeekFeed** | [#1](https://osu.ppy.sh/community/matches/47205657) |
+| Capu ::{ flag=DE }:: | 0 | **4** | ::{ flag=IT }:: **Ikkun** | [#1](https://osu.ppy.sh/community/matches/47206847) |
+| **Oui** ::{ flag=CH }:: | **4** | 0 | ::{ flag=FR }:: maximaxiU | [#1](https://osu.ppy.sh/community/matches/47208185) |
+| **BabySnakes** ::{ flag=PT }:: | **4** | 0 | ::{ flag=ES }:: alexinet232 | [#1](https://osu.ppy.sh/community/matches/47209702) |
+| **Acrith** ::{ flag=PL }:: | **4** | 0 | ::{ flag=GB }:: Grimbow | *win by default* |
+| **AlvaroYL** ::{ flag=ES }:: | **4** | 0 | ::{ flag=GB }:: ControlPro | [#1](https://osu.ppy.sh/community/matches/47213001) |
+| **lukili846** ::{ flag=DE }:: | **4** | 0 | ::{ flag=RU }:: night\_flower | [#1](https://osu.ppy.sh/community/matches/47214217) |
 
 ## Ruleset
 
@@ -394,25 +394,3 @@ Sunday, 4 November 2018:
 14. If no staff or referee is available, the match will be postponed.
 15. Players will have up to 15 minutes after the scheduled time to show up. Failure to show up without prior notice will result in a win by default.
 16. Any modification of these rules will be announced.
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

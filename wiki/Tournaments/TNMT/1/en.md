@@ -26,7 +26,7 @@ The **:thonking: Newbie mania Tournament** (***TNMT***) was a 1v1 osu!mania 4K t
 
 ## Prizes
 
-All prizes were sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6679329)**.
+All prizes were sponsored by ::{ flag=CN }:: **[hans1999](https://osu.ppy.sh/users/6679329)**.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -38,14 +38,14 @@ All prizes were sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| Coordinator | ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Mappool selector | ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
-| Streamer | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
-| Referee | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
-| Commentator | ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Snowkyou](https://osu.ppy.sh/users/12513448), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
-| Designer | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) |
-| Wiki editor | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| Coordinator | ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Mappool selector | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [ByeForNow](https://osu.ppy.sh/users/7199159), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722) |
+| Streamer | ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=US }:: [-Lethal-](https://osu.ppy.sh/users/5125822), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766) |
+| Referee | ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766) |
+| Commentator | ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [Snowkyou](https://osu.ppy.sh/users/12513448), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=US }:: [-Lethal-](https://osu.ppy.sh/users/5125822), ::{ flag=NZ }:: [NutAndGo](https://osu.ppy.sh/users/7740118), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766) |
+| Designer | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |
+| Wiki editor | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835), ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -317,13 +317,3 @@ CJB & TMT Team has the ultimate power of interpretation.
   2. Higher `Number of rounds won - numbers of round lost`.
   3. Less round losses
   4. Winner of overtime
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

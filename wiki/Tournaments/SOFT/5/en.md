@@ -47,13 +47,13 @@ The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash p
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Mappool selector | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [lemonguy](https://osu.ppy.sh/users/4693052), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
-| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Streamer | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Commentator | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Statistician | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Manager | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Mappool selector | ::{ flag=BR }:: [Guilhermeziat](https://osu.ppy.sh/users/3661387), ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052), ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=GB }:: [StartAndSelect](https://osu.ppy.sh/users/8720555), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) |
+| Streamer | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=FI }:: [Camopoltergeist](https://osu.ppy.sh/users/8132964), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=SE }:: [Mestro](https://osu.ppy.sh/users/4798263), ::{ flag=BE }:: [NightNarumi](https://osu.ppy.sh/users/4381142), ::{ flag=US }:: [Penguinosity](https://osu.ppy.sh/users/10235296), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612) |
+| Commentator | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413), ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=ID }:: [Mipha-](https://osu.ppy.sh/users/5767941), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PingLaw](https://osu.ppy.sh/users/5401523), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Designer | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612) |
+| Statistician | ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links
 
@@ -66,31 +66,31 @@ The Springtime Osu!mania Free-for-all Tournament 5 offered a $250 minimum cash p
 
 | Seed | Users |
 | :-- | :-- |
-| Top (#1 - #16) | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363), ![][flag_GB] [XxNewson1234xX](https://osu.ppy.sh/users/9895650), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_US] [Alter-](https://osu.ppy.sh/users/4980256), ![][flag_JP] [AMDuskia1996](https://osu.ppy.sh/users/10242062), ![][flag_FR] [Auraah](https://osu.ppy.sh/users/10015908), ![][flag_US] [BaniiYanii](https://osu.ppy.sh/users/11888159), ![][flag_US] [mashu](https://osu.ppy.sh/users/12028216), ![][flag_GB] [Yonk\_](https://osu.ppy.sh/users/5156656), ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
-| High (#17 - #32) | ![][flag_VN] [Asrielly](https://osu.ppy.sh/users/2656302), ![][flag_US] [Geno\_](https://osu.ppy.sh/users/19392649), ![][flag_PH] [TheMysteryL](https://osu.ppy.sh/users/14113974), ![][flag_US] [WaterMelonTube](https://osu.ppy.sh/users/11937337), ![][flag_GB] [xSnaggles](https://osu.ppy.sh/users/3799946), ![][flag_AR] [\[Crz\]kOvID-](https://osu.ppy.sh/users/13858488), ![][flag_US] [ERA Zenith](https://osu.ppy.sh/users/7128063), ![][flag_IT] [Jeersy](https://osu.ppy.sh/users/11636434), ![][flag_BR] [\[LS\]LeMarcinho](https://osu.ppy.sh/users/13347579), ![][flag_VN] [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), ![][flag_GB] [Zoobin4](https://osu.ppy.sh/users/10055204), ![][flag_VE] [\_Yisus\_](https://osu.ppy.sh/users/1489811), ![][flag_DE] [jkzu123](https://osu.ppy.sh/users/15806513), ![][flag_TH] [ZCFirsTT](https://osu.ppy.sh/users/11179361), ![][flag_UY] [etterna in osu](https://osu.ppy.sh/users/5243536), ![][flag_AR] [gxrl](https://osu.ppy.sh/users/13226626) |
-| Low (#33 - #96) | ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_US] [TTenko](https://osu.ppy.sh/users/13802345), ![][flag_US] [etterna and osu](https://osu.ppy.sh/users/13712190), ![][flag_US] [ASharpp](https://osu.ppy.sh/users/12657177), ![][flag_AU] [ruka](https://osu.ppy.sh/users/6117525), ![][flag_NL] [Bakuretsue](https://osu.ppy.sh/users/10960533), ![][flag_TH] [SHOKO -](https://osu.ppy.sh/users/10279743), ![][flag_CH] [Tupidix](https://osu.ppy.sh/users/8655604), ![][flag_BR] [Yuragi](https://osu.ppy.sh/users/8501380), ![][flag_CA] [Stability](https://osu.ppy.sh/users/6701738), ![][flag_GB] [AirSpan](https://osu.ppy.sh/users/5063207), ![][flag_CL] [\[Crz\]Arkener](https://osu.ppy.sh/users/4116072), ![][flag_IE] [SPLOwON](https://osu.ppy.sh/users/15225195), ![][flag_US] [HeZeuS](https://osu.ppy.sh/users/7387788), ![][flag_GB] [Zycrxd](https://osu.ppy.sh/users/14245127), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_GB] [PikachuNick](https://osu.ppy.sh/users/4168230), ![][flag_BR] [Gabi Kamui](https://osu.ppy.sh/users/10658391), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_SG] [AdamAckerville](https://osu.ppy.sh/users/12297375), ![][flag_US] [oleka](https://osu.ppy.sh/users/9423766), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_PH] [\[LS\]Acestrol](https://osu.ppy.sh/users/13470043), ![][flag_TH] [Freshky](https://osu.ppy.sh/users/11959687), ![][flag_ES] [Guldakh](https://osu.ppy.sh/users/8553078), ![][flag_FR] [Ping36](https://osu.ppy.sh/users/9388217), ![][flag_BR] [Lenn](https://osu.ppy.sh/users/11236829), ![][flag_GB] [Solleks](https://osu.ppy.sh/users/9683287), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_BR] [Soore](https://osu.ppy.sh/users/15753462), ![][flag_MY] [[-Leon-]](https://osu.ppy.sh/users/13382147), ![][flag_AR] [Ingrid10](https://osu.ppy.sh/users/9786011), ![][flag_PY] [MomonSama](https://osu.ppy.sh/users/7762488), ![][flag_NZ] [CappK](https://osu.ppy.sh/users/16837177), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_NL] [2fast4you98](https://osu.ppy.sh/users/5183940), ![][flag_US] [Ery](https://osu.ppy.sh/users/9872668), ![][flag_HU] [Verald](https://osu.ppy.sh/users/5766307), ![][flag_AU] [Vegemite](https://osu.ppy.sh/users/13111686), ![][flag_ID] [RetroEX](https://osu.ppy.sh/users/10540515), ![][flag_TH] [LoliconTowa](https://osu.ppy.sh/users/8103540), ![][flag_GB] [Hayabusa](https://osu.ppy.sh/users/3104108), ![][flag_CL] [Xan-](https://osu.ppy.sh/users/5919873), ![][flag_CA] [CommandoBlack](https://osu.ppy.sh/users/7025841), ![][flag_FR] [DragonSonic](https://osu.ppy.sh/users/7294830), ![][flag_ID] [\[ReyZ\]](https://osu.ppy.sh/users/16768803), ![][flag_TH] [shokoha](https://osu.ppy.sh/users/14134289), ![][flag_BE] [Mortelspawn_](https://osu.ppy.sh/users/5331420), ![][flag_CA] [\[ro\]Nosteal](https://osu.ppy.sh/users/8160564), ![][flag_US] [thatcow](https://osu.ppy.sh/users/10629473), ![][flag_HK] [Quotient GD](https://osu.ppy.sh/users/11313227), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [\_Seth](https://osu.ppy.sh/users/8111953), ![][flag_BR] [Zergh](https://osu.ppy.sh/users/3181281), ![][flag_SG] [\[LS\]PlzNjoyGame](https://osu.ppy.sh/users/15210942), ![][flag_HK] [Dream Fire](https://osu.ppy.sh/users/11198186), ![][flag_US] [blizzo](https://osu.ppy.sh/users/13581430), ![][flag_NL] [samuelhklumpers](https://osu.ppy.sh/users/10945523), ![][flag_PH] [MowseChow](https://osu.ppy.sh/users/11341964), ![][flag_DE] [Sirbeyy](https://osu.ppy.sh/users/12917829), ![][flag_ID] [Proxae](https://osu.ppy.sh/users/8410575), ![][flag_DK] [Jole](https://osu.ppy.sh/users/2883132), ![][flag_AR] [prodilex](https://osu.ppy.sh/users/9472628) |
-| Bottom (#97 - #128) | ![][flag_US] [Matthia](https://osu.ppy.sh/users/19804607), ![][flag_US] [ok bye](https://osu.ppy.sh/users/15063813), ![][flag_ID] [nayuu](https://osu.ppy.sh/users/12561379), ![][flag_MY] [-Einar-](https://osu.ppy.sh/users/8782656), ![][flag_PE] [Kien io](https://osu.ppy.sh/users/10055648), ![][flag_ID] [Brinhildr](https://osu.ppy.sh/users/5833779), ![][flag_MX] [\[LS\]Shuri](https://osu.ppy.sh/users/14593518), ![][flag_VN] [Lottery61](https://osu.ppy.sh/users/13821222), ![][flag_US] [Tazin\_](https://osu.ppy.sh/users/9499508), ![][flag_ES] [RandomeLoL](https://osu.ppy.sh/users/7080063), ![][flag_NZ] [sophhhia](https://osu.ppy.sh/users/14833226), ![][flag_BR] [Crymeno](https://osu.ppy.sh/users/6165105), ![][flag_PH] [Eon Musk](https://osu.ppy.sh/users/12239110), ![][flag_IT] [Kiraz](https://osu.ppy.sh/users/3807675), ![][flag_RU] [wolfpup08](https://osu.ppy.sh/users/11939641), ![][flag_BR] [Namirin-chan](https://osu.ppy.sh/users/6761832), ![][flag_BR] [soutin](https://osu.ppy.sh/users/11771029), ![][flag_PH] [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ![][flag_TH] [basicmaime](https://osu.ppy.sh/users/6537441), ![][flag_AR] [jLuyalb](https://osu.ppy.sh/users/7093698), ![][flag_BE] [spamblock](https://osu.ppy.sh/users/11968058), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_US] [dinga dog](https://osu.ppy.sh/users/12206447), ![][flag_DE] [Niko\_Plays](https://osu.ppy.sh/users/9409456), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_TH] [MIkuaimbot](https://osu.ppy.sh/users/17699745), ![][flag_DE] [medium kek](https://osu.ppy.sh/users/11625617), ![][flag_US] [zVols](https://osu.ppy.sh/users/17057515), ![][flag_PL] [Mr\_adamello](https://osu.ppy.sh/users/7420894), ![][flag_SE] [Trymatic](https://osu.ppy.sh/users/14762260), ![][flag_PH] [- O R E O](https://osu.ppy.sh/users/17802217) |
+| Top (#1 - #16) | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363), ::{ flag=GB }:: [XxNewson1234xX](https://osu.ppy.sh/users/9895650), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439), ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=JP }:: [AMDuskia1996](https://osu.ppy.sh/users/10242062), ::{ flag=FR }:: [Auraah](https://osu.ppy.sh/users/10015908), ::{ flag=US }:: [BaniiYanii](https://osu.ppy.sh/users/11888159), ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216), ::{ flag=GB }:: [Yonk\_](https://osu.ppy.sh/users/5156656), ::{ flag=AR }:: [BossPlays](https://osu.ppy.sh/users/7341471), ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992), ::{ flag=FR }:: [ZayyKen](https://osu.ppy.sh/users/8624433) |
+| High (#17 - #32) | ::{ flag=VN }:: [Asrielly](https://osu.ppy.sh/users/2656302), ::{ flag=US }:: [Geno\_](https://osu.ppy.sh/users/19392649), ::{ flag=PH }:: [TheMysteryL](https://osu.ppy.sh/users/14113974), ::{ flag=US }:: [WaterMelonTube](https://osu.ppy.sh/users/11937337), ::{ flag=GB }:: [xSnaggles](https://osu.ppy.sh/users/3799946), ::{ flag=AR }:: [\[Crz\]kOvID-](https://osu.ppy.sh/users/13858488), ::{ flag=US }:: [ERA Zenith](https://osu.ppy.sh/users/7128063), ::{ flag=IT }:: [Jeersy](https://osu.ppy.sh/users/11636434), ::{ flag=BR }:: [\[LS\]LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=VN }:: [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), ::{ flag=GB }:: [Zoobin4](https://osu.ppy.sh/users/10055204), ::{ flag=VE }:: [\_Yisus\_](https://osu.ppy.sh/users/1489811), ::{ flag=DE }:: [jkzu123](https://osu.ppy.sh/users/15806513), ::{ flag=TH }:: [ZCFirsTT](https://osu.ppy.sh/users/11179361), ::{ flag=UY }:: [etterna in osu](https://osu.ppy.sh/users/5243536), ::{ flag=AR }:: [gxrl](https://osu.ppy.sh/users/13226626) |
+| Low (#33 - #96) | ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097), ::{ flag=US }:: [TTenko](https://osu.ppy.sh/users/13802345), ::{ flag=US }:: [etterna and osu](https://osu.ppy.sh/users/13712190), ::{ flag=US }:: [ASharpp](https://osu.ppy.sh/users/12657177), ::{ flag=AU }:: [ruka](https://osu.ppy.sh/users/6117525), ::{ flag=NL }:: [Bakuretsue](https://osu.ppy.sh/users/10960533), ::{ flag=TH }:: [SHOKO -](https://osu.ppy.sh/users/10279743), ::{ flag=CH }:: [Tupidix](https://osu.ppy.sh/users/8655604), ::{ flag=BR }:: [Yuragi](https://osu.ppy.sh/users/8501380), ::{ flag=CA }:: [Stability](https://osu.ppy.sh/users/6701738), ::{ flag=GB }:: [AirSpan](https://osu.ppy.sh/users/5063207), ::{ flag=CL }:: [\[Crz\]Arkener](https://osu.ppy.sh/users/4116072), ::{ flag=IE }:: [SPLOwON](https://osu.ppy.sh/users/15225195), ::{ flag=US }:: [HeZeuS](https://osu.ppy.sh/users/7387788), ::{ flag=GB }:: [Zycrxd](https://osu.ppy.sh/users/14245127), ::{ flag=US }:: [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ::{ flag=GB }:: [PikachuNick](https://osu.ppy.sh/users/4168230), ::{ flag=BR }:: [Gabi Kamui](https://osu.ppy.sh/users/10658391), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=SG }:: [AdamAckerville](https://osu.ppy.sh/users/12297375), ::{ flag=US }:: [oleka](https://osu.ppy.sh/users/9423766), ::{ flag=US }:: [Unholy](https://osu.ppy.sh/users/7672414), ::{ flag=PH }:: [\[LS\]Acestrol](https://osu.ppy.sh/users/13470043), ::{ flag=TH }:: [Freshky](https://osu.ppy.sh/users/11959687), ::{ flag=ES }:: [Guldakh](https://osu.ppy.sh/users/8553078), ::{ flag=FR }:: [Ping36](https://osu.ppy.sh/users/9388217), ::{ flag=BR }:: [Lenn](https://osu.ppy.sh/users/11236829), ::{ flag=GB }:: [Solleks](https://osu.ppy.sh/users/9683287), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=BR }:: [Soore](https://osu.ppy.sh/users/15753462), ::{ flag=MY }:: [[-Leon-]](https://osu.ppy.sh/users/13382147), ::{ flag=AR }:: [Ingrid10](https://osu.ppy.sh/users/9786011), ::{ flag=PY }:: [MomonSama](https://osu.ppy.sh/users/7762488), ::{ flag=NZ }:: [CappK](https://osu.ppy.sh/users/16837177), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=NL }:: [2fast4you98](https://osu.ppy.sh/users/5183940), ::{ flag=US }:: [Ery](https://osu.ppy.sh/users/9872668), ::{ flag=HU }:: [Verald](https://osu.ppy.sh/users/5766307), ::{ flag=AU }:: [Vegemite](https://osu.ppy.sh/users/13111686), ::{ flag=ID }:: [RetroEX](https://osu.ppy.sh/users/10540515), ::{ flag=TH }:: [LoliconTowa](https://osu.ppy.sh/users/8103540), ::{ flag=GB }:: [Hayabusa](https://osu.ppy.sh/users/3104108), ::{ flag=CL }:: [Xan-](https://osu.ppy.sh/users/5919873), ::{ flag=CA }:: [CommandoBlack](https://osu.ppy.sh/users/7025841), ::{ flag=FR }:: [DragonSonic](https://osu.ppy.sh/users/7294830), ::{ flag=ID }:: [\[ReyZ\]](https://osu.ppy.sh/users/16768803), ::{ flag=TH }:: [shokoha](https://osu.ppy.sh/users/14134289), ::{ flag=BE }:: [Mortelspawn_](https://osu.ppy.sh/users/5331420), ::{ flag=CA }:: [\[ro\]Nosteal](https://osu.ppy.sh/users/8160564), ::{ flag=US }:: [thatcow](https://osu.ppy.sh/users/10629473), ::{ flag=HK }:: [Quotient GD](https://osu.ppy.sh/users/11313227), ::{ flag=US }:: [-Lethal-](https://osu.ppy.sh/users/5125822), ::{ flag=US }:: [\_Seth](https://osu.ppy.sh/users/8111953), ::{ flag=BR }:: [Zergh](https://osu.ppy.sh/users/3181281), ::{ flag=SG }:: [\[LS\]PlzNjoyGame](https://osu.ppy.sh/users/15210942), ::{ flag=HK }:: [Dream Fire](https://osu.ppy.sh/users/11198186), ::{ flag=US }:: [blizzo](https://osu.ppy.sh/users/13581430), ::{ flag=NL }:: [samuelhklumpers](https://osu.ppy.sh/users/10945523), ::{ flag=PH }:: [MowseChow](https://osu.ppy.sh/users/11341964), ::{ flag=DE }:: [Sirbeyy](https://osu.ppy.sh/users/12917829), ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575), ::{ flag=DK }:: [Jole](https://osu.ppy.sh/users/2883132), ::{ flag=AR }:: [prodilex](https://osu.ppy.sh/users/9472628) |
+| Bottom (#97 - #128) | ::{ flag=US }:: [Matthia](https://osu.ppy.sh/users/19804607), ::{ flag=US }:: [ok bye](https://osu.ppy.sh/users/15063813), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=MY }:: [-Einar-](https://osu.ppy.sh/users/8782656), ::{ flag=PE }:: [Kien io](https://osu.ppy.sh/users/10055648), ::{ flag=ID }:: [Brinhildr](https://osu.ppy.sh/users/5833779), ::{ flag=MX }:: [\[LS\]Shuri](https://osu.ppy.sh/users/14593518), ::{ flag=VN }:: [Lottery61](https://osu.ppy.sh/users/13821222), ::{ flag=US }:: [Tazin\_](https://osu.ppy.sh/users/9499508), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=NZ }:: [sophhhia](https://osu.ppy.sh/users/14833226), ::{ flag=BR }:: [Crymeno](https://osu.ppy.sh/users/6165105), ::{ flag=PH }:: [Eon Musk](https://osu.ppy.sh/users/12239110), ::{ flag=IT }:: [Kiraz](https://osu.ppy.sh/users/3807675), ::{ flag=RU }:: [wolfpup08](https://osu.ppy.sh/users/11939641), ::{ flag=BR }:: [Namirin-chan](https://osu.ppy.sh/users/6761832), ::{ flag=BR }:: [soutin](https://osu.ppy.sh/users/11771029), ::{ flag=PH }:: [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ::{ flag=TH }:: [basicmaime](https://osu.ppy.sh/users/6537441), ::{ flag=AR }:: [jLuyalb](https://osu.ppy.sh/users/7093698), ::{ flag=BE }:: [spamblock](https://osu.ppy.sh/users/11968058), ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=US }:: [dinga dog](https://osu.ppy.sh/users/12206447), ::{ flag=DE }:: [Niko\_Plays](https://osu.ppy.sh/users/9409456), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=NL }:: [NightNarumi](https://osu.ppy.sh/users/4381142), ::{ flag=TH }:: [MIkuaimbot](https://osu.ppy.sh/users/17699745), ::{ flag=DE }:: [medium kek](https://osu.ppy.sh/users/11625617), ::{ flag=US }:: [zVols](https://osu.ppy.sh/users/17057515), ::{ flag=PL }:: [Mr\_adamello](https://osu.ppy.sh/users/7420894), ::{ flag=SE }:: [Trymatic](https://osu.ppy.sh/users/14762260), ::{ flag=PH }:: [- O R E O](https://osu.ppy.sh/users/17802217) |
 
 ## Groups
 
 | Group | Top | High | Mid | Low |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_FR] ZayyKen | ![][flag_AR] gxrl | ![][flag_GB] Zycrxd | ![][flag_ES] Guldakh |
-| **B** | ![][flag_GB] Yonk\_ | ![][flag_US] etterna and osu | ![][flag_SG] AdamAckerville | ![][flag_BR] Lenn |
-| **C** | ![][flag_PH] bojii | ![][flag_GB] Zoobin4 | ![][flag_BR] Yuragi | ![][flag_NL] NightNarumi |
-| **D** | ![][flag_US] Halogen- | ![][flag_PL] DaDarkDragon | ![][flag_BR] Gabi Kamui | ![][flag_US] -Lethal- |
-| **E** | ![][flag_GB] XxNewson1234xX | ![][flag_AR] \[Crz\]kOvID- | ![][flag_CA] Stability | ![][flag_PH] \[LS\]Acestrol |
-| **F** | ![][flag_AR] BossPlays | ![][flag_US] ASharpp | ![][flag_US] oleka | ![][flag_PL] Tidek |
-| **G** | ![][flag_US] mashu | ![][flag_US] WaterMelonTube | ![][flag_CH] Tupidix | ![][flag_ID] nayuu |
-| **H** | ![][flag_CL] \[GS\]Myuka | ![][flag_BR] \[LS\]LeMarcinho | ![][flag_IE] SPLOwON | ![][flag_PY] MomonSama |
-| **I** | ![][flag_JP] AMDuskia1996 | ![][flag_VN] Asrielly | ![][flag_GB] AirSpan | ![][flag_PE] Kien io |
-| **J** | ![][flag_GB] Pope Gadget | ![][flag_UY] etterna in osu | ![][flag_MY] Cryolien | ![][flag_IT] Kiraz |
-| **K** | ![][flag_US] Alter- | ![][flag_US] ERA Zenith | ![][flag_AU] ruka | ![][flag_SG] Polytetral |
-| **L** | ![][flag_PH] Silhoueska Elze | ![][flag_DE] jkzu123 | ![][flag_US] \[GS\]Antunder | ![][flag_US] Unholy |
-| **M** | ![][flag_US] BaniiYanii | ![][flag_GB] xSnaggles | ![][flag_US] HeZeuS | ![][flag_NL] 2fast4you98 |
-| **N** | ![][flag_TH] HowToPlayLN | ![][flag_US] Geno\_ | ![][flag_TH] SHOKO - | ![][flag_MY] \[-Leon-\] |
-| **O** | ![][flag_BR] SillyFangirl | ![][flag_IT] Jeersy | ![][flag_GB] PikachuNick | ![][flag_FR] Ping36 |
-| **P** | ![][flag_FR] Auraah | ![][flag_US] TTenko | ![][flag_NL] Bakuretsue | ![][flag_TH] Freshky |
+| **A** | ::{ flag=FR }:: ZayyKen | ::{ flag=AR }:: gxrl | ::{ flag=GB }:: Zycrxd | ::{ flag=ES }:: Guldakh |
+| **B** | ::{ flag=GB }:: Yonk\_ | ::{ flag=US }:: etterna and osu | ::{ flag=SG }:: AdamAckerville | ::{ flag=BR }:: Lenn |
+| **C** | ::{ flag=PH }:: bojii | ::{ flag=GB }:: Zoobin4 | ::{ flag=BR }:: Yuragi | ::{ flag=NL }:: NightNarumi |
+| **D** | ::{ flag=US }:: Halogen- | ::{ flag=PL }:: DaDarkDragon | ::{ flag=BR }:: Gabi Kamui | ::{ flag=US }:: -Lethal- |
+| **E** | ::{ flag=GB }:: XxNewson1234xX | ::{ flag=AR }:: \[Crz\]kOvID- | ::{ flag=CA }:: Stability | ::{ flag=PH }:: \[LS\]Acestrol |
+| **F** | ::{ flag=AR }:: BossPlays | ::{ flag=US }:: ASharpp | ::{ flag=US }:: oleka | ::{ flag=PL }:: Tidek |
+| **G** | ::{ flag=US }:: mashu | ::{ flag=US }:: WaterMelonTube | ::{ flag=CH }:: Tupidix | ::{ flag=ID }:: nayuu |
+| **H** | ::{ flag=CL }:: \[GS\]Myuka | ::{ flag=BR }:: \[LS\]LeMarcinho | ::{ flag=IE }:: SPLOwON | ::{ flag=PY }:: MomonSama |
+| **I** | ::{ flag=JP }:: AMDuskia1996 | ::{ flag=VN }:: Asrielly | ::{ flag=GB }:: AirSpan | ::{ flag=PE }:: Kien io |
+| **J** | ::{ flag=GB }:: Pope Gadget | ::{ flag=UY }:: etterna in osu | ::{ flag=MY }:: Cryolien | ::{ flag=IT }:: Kiraz |
+| **K** | ::{ flag=US }:: Alter- | ::{ flag=US }:: ERA Zenith | ::{ flag=AU }:: ruka | ::{ flag=SG }:: Polytetral |
+| **L** | ::{ flag=PH }:: Silhoueska Elze | ::{ flag=DE }:: jkzu123 | ::{ flag=US }:: \[GS\]Antunder | ::{ flag=US }:: Unholy |
+| **M** | ::{ flag=US }:: BaniiYanii | ::{ flag=GB }:: xSnaggles | ::{ flag=US }:: HeZeuS | ::{ flag=NL }:: 2fast4you98 |
+| **N** | ::{ flag=TH }:: HowToPlayLN | ::{ flag=US }:: Geno\_ | ::{ flag=TH }:: SHOKO - | ::{ flag=MY }:: \[-Leon-\] |
+| **O** | ::{ flag=BR }:: SillyFangirl | ::{ flag=IT }:: Jeersy | ::{ flag=GB }:: PikachuNick | ::{ flag=FR }:: Ping36 |
+| **P** | ::{ flag=FR }:: Auraah | ::{ flag=US }:: TTenko | ::{ flag=NL }:: Bakuretsue | ::{ flag=TH }:: Freshky |
 
 ## Podium
 
@@ -98,9 +98,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CL] [**\[GS\]Myuka**](https://osu.ppy.sh/users/10072733) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] [**SillyFangirl**](https://osu.ppy.sh/users/2288363) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CL }:: [**\[GS\]Myuka**](https://osu.ppy.sh/users/10072733) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [**bojii**](https://osu.ppy.sh/users/10083439) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=BR }:: [**SillyFangirl**](https://osu.ppy.sh/users/2288363) |
 
 ## Mappools
 
@@ -272,14 +272,14 @@ Saturday, 7 May 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **\[GS\]Myuka** ![][flag_CL] | **7** | 1 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/82877585) |
+| **\[GS\]Myuka** ::{ flag=CL }:: | **7** | 1 | ::{ flag=BR }:: SillyFangirl | [#1](https://osu.ppy.sh/community/matches/82877585) |
 
 Sunday, 8 May 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| bojii ![][flag_PH] | 2 | **7** | ![][flag_CL] **\[GS\]Myuka** | [#1](https://osu.ppy.sh/community/matches/82933914) |
-| **\[GS\]Myuka** ![][flag_CL] | **7** | 2 | ![][flag_PH] bojii | [#1](https://osu.ppy.sh/community/matches/82938115) |
+| bojii ::{ flag=PH }:: | 2 | **7** | ::{ flag=CL }:: **\[GS\]Myuka** | [#1](https://osu.ppy.sh/community/matches/82933914) |
+| **\[GS\]Myuka** ::{ flag=CL }:: | **7** | 2 | ::{ flag=PH }:: bojii | [#1](https://osu.ppy.sh/community/matches/82938115) |
 
 ### Finals
 
@@ -287,15 +287,15 @@ Saturday, 1 May 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| mashu ![][flag_US] | 0 | **7** | ![][flag_TH] **HowToPlayLN** | [#1](https://osu.ppy.sh/community/matches/82275323) |
-| **SillyFangirl** ![][flag_BR] | **7** | 2 | ![][flag_US] BaniiYanii | [#1](https://osu.ppy.sh/community/matches/82317902) |
+| mashu ::{ flag=US }:: | 0 | **7** | ::{ flag=TH }:: **HowToPlayLN** | [#1](https://osu.ppy.sh/community/matches/82275323) |
+| **SillyFangirl** ::{ flag=BR }:: | **7** | 2 | ::{ flag=US }:: BaniiYanii | [#1](https://osu.ppy.sh/community/matches/82317902) |
 
 Sunday, 2 May 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| \[GS\]Myuka ![][flag_CL] | 0 | **7** | ![][flag_PH] **bojii** | *win by default* |
-| HowToPlayLN ![][flag_TH] | 3 | **7** | ![][flag_BR] **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/82362098) |
+| \[GS\]Myuka ::{ flag=CL }:: | 0 | **7** | ::{ flag=PH }:: **bojii** | *win by default* |
+| HowToPlayLN ::{ flag=TH }:: | 3 | **7** | ::{ flag=BR }:: **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/82362098) |
 
 ### Semifinals
 
@@ -303,19 +303,19 @@ Saturday, 24 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| XxNewson1234xX ![][flag_GB] | 4 | **6** | ![][flag_JP] **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/81670257) |
-| **HowToPlayLN** ![][flag_TH] | **6** | 0 | ![][flag_GB] Zycrxd | [#1](https://osu.ppy.sh/community/matches/81674881) |
-| Pope Gadget ![][flag_GB] | 4 | **6** | ![][flag_GB] **xSnaggles** | [#1](https://osu.ppy.sh/community/matches/81681409) |
-| Halogen- ![][flag_US] | 2 | **6** | ![][flag_US] **BaniiYanii** | [#1](https://osu.ppy.sh/community/matches/81712907) |
-| **\[GS\]Myuka** ![][flag_CL] | **6** | 3 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/81719973) |
+| XxNewson1234xX ::{ flag=GB }:: | 4 | **6** | ::{ flag=JP }:: **AMDuskia1996** | [#1](https://osu.ppy.sh/community/matches/81670257) |
+| **HowToPlayLN** ::{ flag=TH }:: | **6** | 0 | ::{ flag=GB }:: Zycrxd | [#1](https://osu.ppy.sh/community/matches/81674881) |
+| Pope Gadget ::{ flag=GB }:: | 4 | **6** | ::{ flag=GB }:: **xSnaggles** | [#1](https://osu.ppy.sh/community/matches/81681409) |
+| Halogen- ::{ flag=US }:: | 2 | **6** | ::{ flag=US }:: **BaniiYanii** | [#1](https://osu.ppy.sh/community/matches/81712907) |
+| **\[GS\]Myuka** ::{ flag=CL }:: | **6** | 3 | ::{ flag=BR }:: SillyFangirl | [#1](https://osu.ppy.sh/community/matches/81719973) |
 
 Sunday, 25 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **bojii** ![][flag_PH] | **6** | 0 | ![][flag_US] mashu | [#1](https://osu.ppy.sh/community/matches/81731950) |
-| **HowToPlayLN** ![][flag_TH] | **6** | 5 | ![][flag_JP] AMDuskia1996 | [#1](https://osu.ppy.sh/community/matches/81761980) |
-| **BaniiYanii** ![][flag_US] | **6** | 1 | ![][flag_GB] xSnaggles | [#1](https://osu.ppy.sh/community/matches/81786358) |
+| **bojii** ::{ flag=PH }:: | **6** | 0 | ::{ flag=US }:: mashu | [#1](https://osu.ppy.sh/community/matches/81731950) |
+| **HowToPlayLN** ::{ flag=TH }:: | **6** | 5 | ::{ flag=JP }:: AMDuskia1996 | [#1](https://osu.ppy.sh/community/matches/81761980) |
+| **BaniiYanii** ::{ flag=US }:: | **6** | 1 | ::{ flag=GB }:: xSnaggles | [#1](https://osu.ppy.sh/community/matches/81786358) |
 
 ### Quarterfinals
 
@@ -323,27 +323,27 @@ Saturday, 17 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **AMDuskia1996** ![][flag_JP] | **6** | 1 | ![][flag_US] ASharpp | [#1](https://osu.ppy.sh/community/matches/81057898) |
-| **bojii** ![][flag_PH] | **6** | 0 | ![][flag_GB] Pope Gadget | [#1](https://osu.ppy.sh/community/matches/81077756) |
-| Silhoueska Elze ![][flag_PH] | 1 | **6** | ![][flag_GB] **xSnaggles** | [#1](https://osu.ppy.sh/community/matches/81081936) |
-| **Auraah** ![][flag_FR] | **6** | 1 | ![][flag_SG] AdamAckerville | [#1](https://osu.ppy.sh/community/matches/81086548) |
-| **Zycrxd** ![][flag_GB] | **6** | 0 | ![][flag_FR] ZayyKen | *win by default* |
-| jkzu123 ![][flag_DE] | 2 | **6** | ![][flag_UY] **etterna in osu** | [#1](https://osu.ppy.sh/community/matches/81099567) |
-| **Yonk\_** ![][flag_GB] | **6** | 4 | ![][flag_BR] \[LS\]LeMarcinho | [#1](https://osu.ppy.sh/community/matches/81107215) |
-| **\[GS\]Myuka** ![][flag_CL] | **6** | 0 | ![][flag_GB] XxNewson1234xX | [#1](https://osu.ppy.sh/community/matches/81115990) |
+| **AMDuskia1996** ::{ flag=JP }:: | **6** | 1 | ::{ flag=US }:: ASharpp | [#1](https://osu.ppy.sh/community/matches/81057898) |
+| **bojii** ::{ flag=PH }:: | **6** | 0 | ::{ flag=GB }:: Pope Gadget | [#1](https://osu.ppy.sh/community/matches/81077756) |
+| Silhoueska Elze ::{ flag=PH }:: | 1 | **6** | ::{ flag=GB }:: **xSnaggles** | [#1](https://osu.ppy.sh/community/matches/81081936) |
+| **Auraah** ::{ flag=FR }:: | **6** | 1 | ::{ flag=SG }:: AdamAckerville | [#1](https://osu.ppy.sh/community/matches/81086548) |
+| **Zycrxd** ::{ flag=GB }:: | **6** | 0 | ::{ flag=FR }:: ZayyKen | *win by default* |
+| jkzu123 ::{ flag=DE }:: | 2 | **6** | ::{ flag=UY }:: **etterna in osu** | [#1](https://osu.ppy.sh/community/matches/81099567) |
+| **Yonk\_** ::{ flag=GB }:: | **6** | 4 | ::{ flag=BR }:: \[LS\]LeMarcinho | [#1](https://osu.ppy.sh/community/matches/81107215) |
+| **\[GS\]Myuka** ::{ flag=CL }:: | **6** | 0 | ::{ flag=GB }:: XxNewson1234xX | [#1](https://osu.ppy.sh/community/matches/81115990) |
 
 Sunday, 18 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **BossPlays** ![][flag_AR] | **6** | 4 | ![][flag_US] Alter- | [#1](https://osu.ppy.sh/community/matches/81139935) |
-| **BaniiYanii** ![][flag_US] | **6** | 3 | ![][flag_MY] \[-Leon-\] | [#1](https://osu.ppy.sh/community/matches/81156967) |
-| Auraah ![][flag_FR] | 3 | **6** | ![][flag_GB] **Zycrxd** | [#1](https://osu.ppy.sh/community/matches/81171987) |
-| **AMDuskia1996** ![][flag_JP] | **6** | 3 | ![][flag_UY] etterna in osu | [#1](https://osu.ppy.sh/community/matches/81176086) |
-| **SillyFangirl** ![][flag_BR] | **6** | 2 | ![][flag_TH] HowToPlayLN | [#1](https://osu.ppy.sh/community/matches/81182150) |
-| **xSnaggles** ![][flag_GB] | **6** | 3 | ![][flag_GB] Yonk\_ | [#1](https://osu.ppy.sh/community/matches/81187946) |
-| BossPlays ![][flag_AR] | 2 | **6** | ![][flag_US] **BaniiYanii** | [#1](https://osu.ppy.sh/community/matches/81202385) |
-| Halogen- ![][flag_US] | 5 | **6** | ![][flag_US] **mashu** | [#1](https://osu.ppy.sh/community/matches/81209746) |
+| **BossPlays** ::{ flag=AR }:: | **6** | 4 | ::{ flag=US }:: Alter- | [#1](https://osu.ppy.sh/community/matches/81139935) |
+| **BaniiYanii** ::{ flag=US }:: | **6** | 3 | ::{ flag=MY }:: \[-Leon-\] | [#1](https://osu.ppy.sh/community/matches/81156967) |
+| Auraah ::{ flag=FR }:: | 3 | **6** | ::{ flag=GB }:: **Zycrxd** | [#1](https://osu.ppy.sh/community/matches/81171987) |
+| **AMDuskia1996** ::{ flag=JP }:: | **6** | 3 | ::{ flag=UY }:: etterna in osu | [#1](https://osu.ppy.sh/community/matches/81176086) |
+| **SillyFangirl** ::{ flag=BR }:: | **6** | 2 | ::{ flag=TH }:: HowToPlayLN | [#1](https://osu.ppy.sh/community/matches/81182150) |
+| **xSnaggles** ::{ flag=GB }:: | **6** | 3 | ::{ flag=GB }:: Yonk\_ | [#1](https://osu.ppy.sh/community/matches/81187946) |
+| BossPlays ::{ flag=AR }:: | 2 | **6** | ::{ flag=US }:: **BaniiYanii** | [#1](https://osu.ppy.sh/community/matches/81202385) |
+| Halogen- ::{ flag=US }:: | 5 | **6** | ::{ flag=US }:: **mashu** | [#1](https://osu.ppy.sh/community/matches/81209746) |
 
 ### Round of 16
 
@@ -351,27 +351,27 @@ Saturday, 10 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **bojii** ![][flag_PH] | **5** | 1 | ![][flag_DE] jkzu123 | [#1](https://osu.ppy.sh/community/matches/80470672) |
-| **HowToPlayLN** ![][flag_TH] | **5** | 2 | ![][flag_AR] BossPlays | [#1](https://osu.ppy.sh/community/matches/80475112) |
-| Stability ![][flag_CA] | 0 | **5** | ![][flag_MY] **\[-Leon-\]** | [#1](https://osu.ppy.sh/community/matches/80479329) |
-| **xSnaggles** ![][flag_GB] | **5** | 2 | ![][flag_PL] DaDarkDragon | [#1](https://osu.ppy.sh/community/matches/80484471) |
-| **[LS]LeMarcinho** ![][flag_BR] | **5** | 0 | ![][flag_NL] Bakuretsue | [#1](https://osu.ppy.sh/community/matches/80494608) |
-| **SillyFangirl** ![][flag_BR] | **5** | 0 | ![][flag_US] BaniiYanii | [#1](https://osu.ppy.sh/community/matches/80494724) |
-| Zoobin4 ![][flag_GB] | 4 | **5** | ![][flag_US] **Alter-** | [#1](https://osu.ppy.sh/community/matches/80509883) |
-| **AdamAckerville** ![][flag_SG] | **5** | 4 | ![][flag_US] WaterMelonTube | [#1](https://osu.ppy.sh/community/matches/80509919) |
+| **bojii** ::{ flag=PH }:: | **5** | 1 | ::{ flag=DE }:: jkzu123 | [#1](https://osu.ppy.sh/community/matches/80470672) |
+| **HowToPlayLN** ::{ flag=TH }:: | **5** | 2 | ::{ flag=AR }:: BossPlays | [#1](https://osu.ppy.sh/community/matches/80475112) |
+| Stability ::{ flag=CA }:: | 0 | **5** | ::{ flag=MY }:: **\[-Leon-\]** | [#1](https://osu.ppy.sh/community/matches/80479329) |
+| **xSnaggles** ::{ flag=GB }:: | **5** | 2 | ::{ flag=PL }:: DaDarkDragon | [#1](https://osu.ppy.sh/community/matches/80484471) |
+| **[LS]LeMarcinho** ::{ flag=BR }:: | **5** | 0 | ::{ flag=NL }:: Bakuretsue | [#1](https://osu.ppy.sh/community/matches/80494608) |
+| **SillyFangirl** ::{ flag=BR }:: | **5** | 0 | ::{ flag=US }:: BaniiYanii | [#1](https://osu.ppy.sh/community/matches/80494724) |
+| Zoobin4 ::{ flag=GB }:: | 4 | **5** | ::{ flag=US }:: **Alter-** | [#1](https://osu.ppy.sh/community/matches/80509883) |
+| **AdamAckerville** ::{ flag=SG }:: | **5** | 4 | ::{ flag=US }:: WaterMelonTube | [#1](https://osu.ppy.sh/community/matches/80509919) |
 
 Sunday, 11 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ruka ![][flag_AU] | 2 | **5** | ![][flag_US] **ASharpp** | [#1](https://osu.ppy.sh/community/matches/80540602) |
-| Asrielly ![][flag_VN] | 0 | **5** | ![][flag_FR] **ZayyKen** | *win by default* |
-| **Pope Gadget** ![][flag_GB] | **5** | 3 | ![][flag_JP] AMDuskia1996 | [#1](https://osu.ppy.sh/community/matches/80563987) |
-| **XxNewson1234xX** ![][flag_GB] | **5** | 4 | ![][flag_PH] Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/80567711) |
-| Zycrxd ![][flag_GB] | 2 | **5** | ![][flag_US] **Halogen-** | [#1](https://osu.ppy.sh/community/matches/80575595) |
-| **etterna in osu** ![][flag_UY] | **5** | 2 | ![][flag_IT] Jeersy | [#1](https://osu.ppy.sh/community/matches/80580222) |
-| Auraah ![][flag_FR] | 2 | **5** | ![][flag_US] **mashu** | [#1](https://osu.ppy.sh/community/matches/80584963) |
-| **\[GS\]Myuka** ![][flag_CL] | **5** | 0 | ![][flag_GB] Yonk\_ | [#1](https://osu.ppy.sh/community/matches/80590069) |
+| ruka ::{ flag=AU }:: | 2 | **5** | ::{ flag=US }:: **ASharpp** | [#1](https://osu.ppy.sh/community/matches/80540602) |
+| Asrielly ::{ flag=VN }:: | 0 | **5** | ::{ flag=FR }:: **ZayyKen** | *win by default* |
+| **Pope Gadget** ::{ flag=GB }:: | **5** | 3 | ::{ flag=JP }:: AMDuskia1996 | [#1](https://osu.ppy.sh/community/matches/80563987) |
+| **XxNewson1234xX** ::{ flag=GB }:: | **5** | 4 | ::{ flag=PH }:: Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/80567711) |
+| Zycrxd ::{ flag=GB }:: | 2 | **5** | ::{ flag=US }:: **Halogen-** | [#1](https://osu.ppy.sh/community/matches/80575595) |
+| **etterna in osu** ::{ flag=UY }:: | **5** | 2 | ::{ flag=IT }:: Jeersy | [#1](https://osu.ppy.sh/community/matches/80580222) |
+| Auraah ::{ flag=FR }:: | 2 | **5** | ::{ flag=US }:: **mashu** | [#1](https://osu.ppy.sh/community/matches/80584963) |
+| **\[GS\]Myuka** ::{ flag=CL }:: | **5** | 0 | ::{ flag=GB }:: Yonk\_ | [#1](https://osu.ppy.sh/community/matches/80590069) |
 
 ### Round of 32
 
@@ -379,27 +379,27 @@ Saturday, 3 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **XxNewson1234xX** ![][flag_GB] | **5** | 0 | ![][flag_VN] Asrielly | *win by default* |
-| **bojii** ![][flag_PH] | **5** | 0 | ![][flag_GB] Zoobin4 | [#1](https://osu.ppy.sh/community/matches/79843858) |
-| **Silhoueska Elze** ![][flag_PH] | **5** | 0 | ![][flag_FR] ZayyKen | [#1](https://osu.ppy.sh/community/matches/79847698) |
-| Alter- ![][flag_US] | 3 | **5** | ![][flag_DE] **jkzu123** | [#1](https://osu.ppy.sh/community/matches/79847672) |
-| **Zycrxd** ![][flag_GB] | **5** | 3 | ![][flag_GB] xSnaggles | [#1](https://osu.ppy.sh/community/matches/79851780) |
-| **Pope Gadget** ![][flag_GB] | **5** | 0 | ![][flag_CA] Stability | [#1](https://osu.ppy.sh/community/matches/79866981) |
-| **mashu** ![][flag_US] | **5** | 0 | ![][flag_NL] Bakuretsue | [#1](https://osu.ppy.sh/community/matches/79872235) |
+| **XxNewson1234xX** ::{ flag=GB }:: | **5** | 0 | ::{ flag=VN }:: Asrielly | *win by default* |
+| **bojii** ::{ flag=PH }:: | **5** | 0 | ::{ flag=GB }:: Zoobin4 | [#1](https://osu.ppy.sh/community/matches/79843858) |
+| **Silhoueska Elze** ::{ flag=PH }:: | **5** | 0 | ::{ flag=FR }:: ZayyKen | [#1](https://osu.ppy.sh/community/matches/79847698) |
+| Alter- ::{ flag=US }:: | 3 | **5** | ::{ flag=DE }:: **jkzu123** | [#1](https://osu.ppy.sh/community/matches/79847672) |
+| **Zycrxd** ::{ flag=GB }:: | **5** | 3 | ::{ flag=GB }:: xSnaggles | [#1](https://osu.ppy.sh/community/matches/79851780) |
+| **Pope Gadget** ::{ flag=GB }:: | **5** | 0 | ::{ flag=CA }:: Stability | [#1](https://osu.ppy.sh/community/matches/79866981) |
+| **mashu** ::{ flag=US }:: | **5** | 0 | ::{ flag=NL }:: Bakuretsue | [#1](https://osu.ppy.sh/community/matches/79872235) |
 
 Sunday, 4 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **BaniiYanii** ![][flag_US] | **5** | 3 | ![][flag_US] ASharpp | [#1](https://osu.ppy.sh/community/matches/79903645) |
-| **AMDuskia1996** ![][flag_JP] | **5** | 1 | ![][flag_MY] \[-Leon-\] | [#1](https://osu.ppy.sh/community/matches/79926507) |
-| **\[GS\]Myuka** ![][flag_CL] | **5** | 2 | ![][flag_SG] AdamAckerville | [#1](https://osu.ppy.sh/community/matches/79929883) |
-| **HowToPlayLN** ![][flag_TH] | **5** | 1 | ![][flag_UY] etterna in osu | [#1](https://osu.ppy.sh/community/matches/79934067) |
-| **SillyFangirl** ![][flag_BR] | **5** | 0 | ![][flag_AU] ruka | [#1](https://osu.ppy.sh/community/matches/79934369) |
-| **Halogen-** ![][flag_US] | **5** | 2 | ![][flag_PL] DaDarkDragon | [#1](https://osu.ppy.sh/community/matches/79942812) |
-| **Auraah** ![][flag_FR] | **5** | 4 | ![][flag_BR] \[LS\]LeMarcinho | [#1](https://osu.ppy.sh/community/matches/79946844) |
-| **BossPlays** ![][flag_AR] | **5** | 4 | ![][flag_IT] Jeersy | [#1](https://osu.ppy.sh/community/matches/79951781) |
-| **Yonk\_** ![][flag_GB] | **5** | 4 | ![][flag_US] WaterMelonTube | [#1](https://osu.ppy.sh/community/matches/79956707) |
+| **BaniiYanii** ::{ flag=US }:: | **5** | 3 | ::{ flag=US }:: ASharpp | [#1](https://osu.ppy.sh/community/matches/79903645) |
+| **AMDuskia1996** ::{ flag=JP }:: | **5** | 1 | ::{ flag=MY }:: \[-Leon-\] | [#1](https://osu.ppy.sh/community/matches/79926507) |
+| **\[GS\]Myuka** ::{ flag=CL }:: | **5** | 2 | ::{ flag=SG }:: AdamAckerville | [#1](https://osu.ppy.sh/community/matches/79929883) |
+| **HowToPlayLN** ::{ flag=TH }:: | **5** | 1 | ::{ flag=UY }:: etterna in osu | [#1](https://osu.ppy.sh/community/matches/79934067) |
+| **SillyFangirl** ::{ flag=BR }:: | **5** | 0 | ::{ flag=AU }:: ruka | [#1](https://osu.ppy.sh/community/matches/79934369) |
+| **Halogen-** ::{ flag=US }:: | **5** | 2 | ::{ flag=PL }:: DaDarkDragon | [#1](https://osu.ppy.sh/community/matches/79942812) |
+| **Auraah** ::{ flag=FR }:: | **5** | 4 | ::{ flag=BR }:: \[LS\]LeMarcinho | [#1](https://osu.ppy.sh/community/matches/79946844) |
+| **BossPlays** ::{ flag=AR }:: | **5** | 4 | ::{ flag=IT }:: Jeersy | [#1](https://osu.ppy.sh/community/matches/79951781) |
+| **Yonk\_** ::{ flag=GB }:: | **5** | 4 | ::{ flag=US }:: WaterMelonTube | [#1](https://osu.ppy.sh/community/matches/79956707) |
 
 ### Group stage
 
@@ -407,117 +407,117 @@ Saturday, 20 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **AMDuskia1996** ![][flag_JP] | **4** | 1 | ![][flag_VN] Asrielly | [#1](https://osu.ppy.sh/community/matches/78546358) |
-| **HowToPlayLN** ![][flag_TH] | **4** | 0 | ![][flag_TH] SHOKO - | *forfeited* |
-| **bojii** ![][flag_PH] | **4** | 0 | ![][flag_GB] Zoobin4 | [#1](https://osu.ppy.sh/community/matches/78551378) |
-| Tupidix ![][flag_CH] | 1 | **4** | ![][flag_ID] **nayuu** | [#1](https://osu.ppy.sh/community/matches/78551443) |
-| **TTenko** ![][flag_US] | **4** | 0 | ![][flag_TH] Freshky | *forfeited* |
-| Yonk\_ ![][flag_GB] | 3 | **4** | ![][flag_SG] **AdamAckerville** | [#1](https://osu.ppy.sh/community/matches/78554545) |
-| **Pope Gadget** ![][flag_GB] | **4** | 1 | ![][flag_MY] Cryolien | [#1](https://osu.ppy.sh/community/matches/78554516) |
-| **\[Crz\]kOvID-** ![][flag_AR] | **4** | 0 | ![][flag_PH] \[LS\]Acestrol | *forfeited* |
-| SHOKO - ![][flag_TH] | 0 | **4** | ![][flag_MY] **\[-Leon-\]** | *forfeited* |
-| **Zoobin4** ![][flag_GB] | **4** | 2 | ![][flag_NL] NightNarumi | [#1](https://osu.ppy.sh/community/matches/78558025) |
-| etterna and osu ![][flag_US] | 3 | **4** | ![][flag_SG] **AdamAckerville** | [#1](https://osu.ppy.sh/community/matches/78565622) |
-| **Yuragi** ![][flag_BR] | **4** | 3 | ![][flag_NL] NightNarumi | [#1](https://osu.ppy.sh/community/matches/78568435) |
-| **Jeersy** ![][flag_IT] | **4** | 0 | ![][flag_GB] PikachuNick | [#1](https://osu.ppy.sh/community/matches/78567971) |
-| **DaDarkDragon** ![][flag_PL] | **4** | 0 | ![][flag_US] -Lethal- | [#1](https://osu.ppy.sh/community/matches/78573181) |
-| SPLOwON ![][flag_IE] | 3 | **4** | ![][flag_PY] **MomonSama** | [#1](https://osu.ppy.sh/community/matches/78572703) |
-| **ZayyKen** ![][flag_FR] | **4** | 0 | ![][flag_AR] gxrl | *disqualified* |
-| **etterna and osu** ![][flag_US] | **4** | 3 | ![][flag_BR] Lenn | [#1](https://osu.ppy.sh/community/matches/78575784) |
-| **etterna in osu** ![][flag_UY] | **4** | 0 | ![][flag_IT] Kiraz | [#1](https://osu.ppy.sh/community/matches/78576948) |
-| **Yonk_** ![][flag_GB] | **4** | 1 | ![][flag_BR] Lenn | [#1](https://osu.ppy.sh/community/matches/78580255) |
-| **Halogen-** ![][flag_US] | **4** | 1 | ![][flag_US] -Lethal- | [#1](https://osu.ppy.sh/community/matches/78605757) |
+| **AMDuskia1996** ::{ flag=JP }:: | **4** | 1 | ::{ flag=VN }:: Asrielly | [#1](https://osu.ppy.sh/community/matches/78546358) |
+| **HowToPlayLN** ::{ flag=TH }:: | **4** | 0 | ::{ flag=TH }:: SHOKO - | *forfeited* |
+| **bojii** ::{ flag=PH }:: | **4** | 0 | ::{ flag=GB }:: Zoobin4 | [#1](https://osu.ppy.sh/community/matches/78551378) |
+| Tupidix ::{ flag=CH }:: | 1 | **4** | ::{ flag=ID }:: **nayuu** | [#1](https://osu.ppy.sh/community/matches/78551443) |
+| **TTenko** ::{ flag=US }:: | **4** | 0 | ::{ flag=TH }:: Freshky | *forfeited* |
+| Yonk\_ ::{ flag=GB }:: | 3 | **4** | ::{ flag=SG }:: **AdamAckerville** | [#1](https://osu.ppy.sh/community/matches/78554545) |
+| **Pope Gadget** ::{ flag=GB }:: | **4** | 1 | ::{ flag=MY }:: Cryolien | [#1](https://osu.ppy.sh/community/matches/78554516) |
+| **\[Crz\]kOvID-** ::{ flag=AR }:: | **4** | 0 | ::{ flag=PH }:: \[LS\]Acestrol | *forfeited* |
+| SHOKO - ::{ flag=TH }:: | 0 | **4** | ::{ flag=MY }:: **\[-Leon-\]** | *forfeited* |
+| **Zoobin4** ::{ flag=GB }:: | **4** | 2 | ::{ flag=NL }:: NightNarumi | [#1](https://osu.ppy.sh/community/matches/78558025) |
+| etterna and osu ::{ flag=US }:: | 3 | **4** | ::{ flag=SG }:: **AdamAckerville** | [#1](https://osu.ppy.sh/community/matches/78565622) |
+| **Yuragi** ::{ flag=BR }:: | **4** | 3 | ::{ flag=NL }:: NightNarumi | [#1](https://osu.ppy.sh/community/matches/78568435) |
+| **Jeersy** ::{ flag=IT }:: | **4** | 0 | ::{ flag=GB }:: PikachuNick | [#1](https://osu.ppy.sh/community/matches/78567971) |
+| **DaDarkDragon** ::{ flag=PL }:: | **4** | 0 | ::{ flag=US }:: -Lethal- | [#1](https://osu.ppy.sh/community/matches/78573181) |
+| SPLOwON ::{ flag=IE }:: | 3 | **4** | ::{ flag=PY }:: **MomonSama** | [#1](https://osu.ppy.sh/community/matches/78572703) |
+| **ZayyKen** ::{ flag=FR }:: | **4** | 0 | ::{ flag=AR }:: gxrl | *disqualified* |
+| **etterna and osu** ::{ flag=US }:: | **4** | 3 | ::{ flag=BR }:: Lenn | [#1](https://osu.ppy.sh/community/matches/78575784) |
+| **etterna in osu** ::{ flag=UY }:: | **4** | 0 | ::{ flag=IT }:: Kiraz | [#1](https://osu.ppy.sh/community/matches/78576948) |
+| **Yonk_** ::{ flag=GB }:: | **4** | 1 | ::{ flag=BR }:: Lenn | [#1](https://osu.ppy.sh/community/matches/78580255) |
+| **Halogen-** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: -Lethal- | [#1](https://osu.ppy.sh/community/matches/78605757) |
 
 Sunday, 21 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **AirSpan** ![][flag_GB] | **4** | 0 | ![][flag_PE] Kien io | [#1](https://osu.ppy.sh/community/matches/78611187) |
-| **mashu** ![][flag_US] | **4** | 0 | ![][flag_ID] nayuu | [#1](https://osu.ppy.sh/community/matches/78619841) |
-| **Alter-** ![][flag_US] | **4** | 3 | ![][flag_AU] ruka | [#1](https://osu.ppy.sh/community/matches/78619002) |
-| **AMDuskia1996** ![][flag_JP] | **4** | 2 | ![][flag_PE] Kien io | [#1](https://osu.ppy.sh/community/matches/78622601) |
-| **Asrielly** ![][flag_VN] | **4** | 1 | ![][flag_GB] AirSpan | [#1](https://osu.ppy.sh/community/matches/78621860) |
-| **ruka** ![][flag_AU] | **4** | 1 | ![][flag_SG] Polytetral | [#1](https://osu.ppy.sh/community/matches/78641158) |
-| AdamAckerville ![][flag_SG] | 3 | **4** | ![][flag_BR] **Lenn** | [#1](https://osu.ppy.sh/community/matches/78648418) |
-| **Zoobin4** ![][flag_GB] | **4** | 1 | ![][flag_BR] Yuragi | [#1](https://osu.ppy.sh/community/matches/78654469) |
-| **HowToPlayLN** ![][flag_TH] | **4** | 0 | ![][flag_US] Geno_ | *disqualified* |
-| gxrl ![][flag_AR] | 0 | **4** | ![][flag_GB] **Zycrxd** | *disqualified* |
-| Geno_ ![][flag_US] | 0 | **4** | ![][flag_TH] **SHOKO -** | *disqualified* |
-| **Silhoueska Elze** ![][flag_PH] | **4** | 0 | ![][flag_US] Unholy | *forfeited* |
-| **ZayyKen** ![][flag_FR] | **4** | 0 | ![][flag_ES] Guldakh | [#1](https://osu.ppy.sh/community/matches/78660835) |
-| **Jeersy** ![][flag_IT] | **4** | 0 | ![][flag_FR] Ping36 | [#1](https://osu.ppy.sh/community/matches/78660352) |
-| **xSnaggles** ![][flag_GB] | **4** | 3 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/78664293) |
-| **PikachuNick** ![][flag_GB] | **4** | 1 | ![][flag_FR] Ping36 | [#1](https://osu.ppy.sh/community/matches/78663760) |
-| HeZeuS ![][flag_US] | 3 | **4** | ![][flag_NL] **2fast4you98** | [#1](https://osu.ppy.sh/community/matches/78667716) |
-| **Auraah** ![][flag_FR] | **4** | 1 | ![][flag_NL] Bakuretsue | [#1](https://osu.ppy.sh/community/matches/78668593) |
-| **ASharpp** ![][flag_US] | **4** | 0 | ![][flag_PL] Tidek | [#1](https://osu.ppy.sh/community/matches/78671590) |
-| **Pope Gadget** ![][flag_GB] | **4** | 1 | ![][flag_UY] etterna in osu | [#1](https://osu.ppy.sh/community/matches/78671449) |
-| gxrl ![][flag_AR] | 0 | **4** | ![][flag_ES] **Guldakh** | *disqualified* |
-| **mashu** ![][flag_US] | **4** | 0 | ![][flag_CH] Tupidix | [#1](https://osu.ppy.sh/community/matches/78675148) |
-| **Halogen-** ![][flag_US] | **4** | 2 | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/78674977) |
-| **XxNewson1234xX** ![][flag_GB] | **4** | 3 | ![][flag_AR] \[Crz\]kOvID- | [#1](https://osu.ppy.sh/community/matches/78678797) |
-| **SillyFangirl** ![][flag_BR] | **4** | 0 | ![][flag_FR] Ping36 | [#1](https://osu.ppy.sh/community/matches/78678852) |
-| **\[GS\]Myuka** ![][flag_CL] | **4** | 0 | ![][flag_PY] MomonSama | [#1](https://osu.ppy.sh/community/matches/78682547) |
-| **BaniiYanii** ![][flag_US] | **4** | 1 | ![][flag_NL] 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/78682994) |
+| **AirSpan** ::{ flag=GB }:: | **4** | 0 | ::{ flag=PE }:: Kien io | [#1](https://osu.ppy.sh/community/matches/78611187) |
+| **mashu** ::{ flag=US }:: | **4** | 0 | ::{ flag=ID }:: nayuu | [#1](https://osu.ppy.sh/community/matches/78619841) |
+| **Alter-** ::{ flag=US }:: | **4** | 3 | ::{ flag=AU }:: ruka | [#1](https://osu.ppy.sh/community/matches/78619002) |
+| **AMDuskia1996** ::{ flag=JP }:: | **4** | 2 | ::{ flag=PE }:: Kien io | [#1](https://osu.ppy.sh/community/matches/78622601) |
+| **Asrielly** ::{ flag=VN }:: | **4** | 1 | ::{ flag=GB }:: AirSpan | [#1](https://osu.ppy.sh/community/matches/78621860) |
+| **ruka** ::{ flag=AU }:: | **4** | 1 | ::{ flag=SG }:: Polytetral | [#1](https://osu.ppy.sh/community/matches/78641158) |
+| AdamAckerville ::{ flag=SG }:: | 3 | **4** | ::{ flag=BR }:: **Lenn** | [#1](https://osu.ppy.sh/community/matches/78648418) |
+| **Zoobin4** ::{ flag=GB }:: | **4** | 1 | ::{ flag=BR }:: Yuragi | [#1](https://osu.ppy.sh/community/matches/78654469) |
+| **HowToPlayLN** ::{ flag=TH }:: | **4** | 0 | ::{ flag=US }:: Geno_ | *disqualified* |
+| gxrl ::{ flag=AR }:: | 0 | **4** | ::{ flag=GB }:: **Zycrxd** | *disqualified* |
+| Geno_ ::{ flag=US }:: | 0 | **4** | ::{ flag=TH }:: **SHOKO -** | *disqualified* |
+| **Silhoueska Elze** ::{ flag=PH }:: | **4** | 0 | ::{ flag=US }:: Unholy | *forfeited* |
+| **ZayyKen** ::{ flag=FR }:: | **4** | 0 | ::{ flag=ES }:: Guldakh | [#1](https://osu.ppy.sh/community/matches/78660835) |
+| **Jeersy** ::{ flag=IT }:: | **4** | 0 | ::{ flag=FR }:: Ping36 | [#1](https://osu.ppy.sh/community/matches/78660352) |
+| **xSnaggles** ::{ flag=GB }:: | **4** | 3 | ::{ flag=US }:: HeZeuS | [#1](https://osu.ppy.sh/community/matches/78664293) |
+| **PikachuNick** ::{ flag=GB }:: | **4** | 1 | ::{ flag=FR }:: Ping36 | [#1](https://osu.ppy.sh/community/matches/78663760) |
+| HeZeuS ::{ flag=US }:: | 3 | **4** | ::{ flag=NL }:: **2fast4you98** | [#1](https://osu.ppy.sh/community/matches/78667716) |
+| **Auraah** ::{ flag=FR }:: | **4** | 1 | ::{ flag=NL }:: Bakuretsue | [#1](https://osu.ppy.sh/community/matches/78668593) |
+| **ASharpp** ::{ flag=US }:: | **4** | 0 | ::{ flag=PL }:: Tidek | [#1](https://osu.ppy.sh/community/matches/78671590) |
+| **Pope Gadget** ::{ flag=GB }:: | **4** | 1 | ::{ flag=UY }:: etterna in osu | [#1](https://osu.ppy.sh/community/matches/78671449) |
+| gxrl ::{ flag=AR }:: | 0 | **4** | ::{ flag=ES }:: **Guldakh** | *disqualified* |
+| **mashu** ::{ flag=US }:: | **4** | 0 | ::{ flag=CH }:: Tupidix | [#1](https://osu.ppy.sh/community/matches/78675148) |
+| **Halogen-** ::{ flag=US }:: | **4** | 2 | ::{ flag=BR }:: Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/78674977) |
+| **XxNewson1234xX** ::{ flag=GB }:: | **4** | 3 | ::{ flag=AR }:: \[Crz\]kOvID- | [#1](https://osu.ppy.sh/community/matches/78678797) |
+| **SillyFangirl** ::{ flag=BR }:: | **4** | 0 | ::{ flag=FR }:: Ping36 | [#1](https://osu.ppy.sh/community/matches/78678852) |
+| **\[GS\]Myuka** ::{ flag=CL }:: | **4** | 0 | ::{ flag=PY }:: MomonSama | [#1](https://osu.ppy.sh/community/matches/78682547) |
+| **BaniiYanii** ::{ flag=US }:: | **4** | 1 | ::{ flag=NL }:: 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/78682994) |
 
 Saturday, 27 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **\[GS\]Antunder** ![][flag_US] | **4** | 0 | ![][flag_US] Unholy | *forfeited* |
-| **Silhoueska Elze** ![][flag_PH] | **4** | 0 | ![][flag_US] \[GS\]Antunder | [#1](https://osu.ppy.sh/community/matches/79181839) |
-| **Alter-** ![][flag_US] | **4** | 2 | ![][flag_SG] Polytetral | [#1](https://osu.ppy.sh/community/matches/79182144) |
-| **jkzu123** ![][flag_DE] | **4** | 0 | ![][flag_US] \[GS\]Antunder | *forfeited* |
-| **Bakuretsue** ![][flag_NL] | **4** | 0 | ![][flag_TH] Freshky | *forfeited* |
-| **bojii** ![][flag_PH] | **4** | 0 | ![][flag_BR] Yuragi | [#1](https://osu.ppy.sh/community/matches/79203403) |
-| **Stability** ![][flag_CA] | **4** | 0 | ![][flag_PH] \[LS\]Acestrol | *forfeited* |
-| ZayyKen ![][flag_FR] | 0 | **4** | ![][flag_GB] **Zycrxd** | [#1](https://osu.ppy.sh/community/matches/79210134) |
-| Geno\_ ![][flag_US] | 0 | **4** | ![][flag_MY] **\[-Leon-\]** | *disqualified* |
-| **Zycrxd** ![][flag_GB] | **4** | 0 | ![][flag_ES] Guldakh | [#1](https://osu.ppy.sh/community/matches/79216458) |
-| **DaDarkDragon** ![][flag_PL] | **4** | 1 | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/79218712) |
-| **Halogen-** ![][flag_US] | **4** | 3 | ![][flag_PL] DaDarkDragon | [#1](https://osu.ppy.sh/community/matches/79222234) |
-| **\[LS\]LeMarcinho** ![][flag_BR] | **4** | 0 | ![][flag_IE] SPLOwON | [#1](https://osu.ppy.sh/community/matches/79222894) |
-| **etterna in osu** ![][flag_UY] | **4** | 2 | ![][flag_MY] Cryolien | [#1](https://osu.ppy.sh/community/matches/79222261) |
-| **WaterMelonTube** ![][flag_US] | **4** | 0 | ![][flag_CH] Tupidix | [#1](https://osu.ppy.sh/community/matches/79240564) |
-| TTenko ![][flag_US] | 0 | **4** | ![][flag_NL] **Bakuretsue** | *forfeited* |
-| **\[LS\]LeMarcinho** ![][flag_BR] | **4** | 1 | ![][flag_PY] MomonSama | [#1](https://osu.ppy.sh/community/matches/79246149) |
-| **SillyFangirl** ![][flag_BR] | **4** | 0 | ![][flag_GB] PikachuNick | [#1](https://osu.ppy.sh/community/matches/79246158) |
-| \[Crz\]kOvID- ![][flag_AR] | 0 | **4** | ![][flag_CA] **Stability** | *win by default* |
-| **\[GS\]Myuka** ![][flag_CL] | **4** | 0 | ![][flag_BR] \[LS\]LeMarcinho | [#1](https://osu.ppy.sh/community/matches/79250668) |
-| **BossPlays** ![][flag_AR] | **4** | 1 | ![][flag_US] oleka | [#1](https://osu.ppy.sh/community/matches/79257447) |
+| **\[GS\]Antunder** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: Unholy | *forfeited* |
+| **Silhoueska Elze** ::{ flag=PH }:: | **4** | 0 | ::{ flag=US }:: \[GS\]Antunder | [#1](https://osu.ppy.sh/community/matches/79181839) |
+| **Alter-** ::{ flag=US }:: | **4** | 2 | ::{ flag=SG }:: Polytetral | [#1](https://osu.ppy.sh/community/matches/79182144) |
+| **jkzu123** ::{ flag=DE }:: | **4** | 0 | ::{ flag=US }:: \[GS\]Antunder | *forfeited* |
+| **Bakuretsue** ::{ flag=NL }:: | **4** | 0 | ::{ flag=TH }:: Freshky | *forfeited* |
+| **bojii** ::{ flag=PH }:: | **4** | 0 | ::{ flag=BR }:: Yuragi | [#1](https://osu.ppy.sh/community/matches/79203403) |
+| **Stability** ::{ flag=CA }:: | **4** | 0 | ::{ flag=PH }:: \[LS\]Acestrol | *forfeited* |
+| ZayyKen ::{ flag=FR }:: | 0 | **4** | ::{ flag=GB }:: **Zycrxd** | [#1](https://osu.ppy.sh/community/matches/79210134) |
+| Geno\_ ::{ flag=US }:: | 0 | **4** | ::{ flag=MY }:: **\[-Leon-\]** | *disqualified* |
+| **Zycrxd** ::{ flag=GB }:: | **4** | 0 | ::{ flag=ES }:: Guldakh | [#1](https://osu.ppy.sh/community/matches/79216458) |
+| **DaDarkDragon** ::{ flag=PL }:: | **4** | 1 | ::{ flag=BR }:: Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/79218712) |
+| **Halogen-** ::{ flag=US }:: | **4** | 3 | ::{ flag=PL }:: DaDarkDragon | [#1](https://osu.ppy.sh/community/matches/79222234) |
+| **\[LS\]LeMarcinho** ::{ flag=BR }:: | **4** | 0 | ::{ flag=IE }:: SPLOwON | [#1](https://osu.ppy.sh/community/matches/79222894) |
+| **etterna in osu** ::{ flag=UY }:: | **4** | 2 | ::{ flag=MY }:: Cryolien | [#1](https://osu.ppy.sh/community/matches/79222261) |
+| **WaterMelonTube** ::{ flag=US }:: | **4** | 0 | ::{ flag=CH }:: Tupidix | [#1](https://osu.ppy.sh/community/matches/79240564) |
+| TTenko ::{ flag=US }:: | 0 | **4** | ::{ flag=NL }:: **Bakuretsue** | *forfeited* |
+| **\[LS\]LeMarcinho** ::{ flag=BR }:: | **4** | 1 | ::{ flag=PY }:: MomonSama | [#1](https://osu.ppy.sh/community/matches/79246149) |
+| **SillyFangirl** ::{ flag=BR }:: | **4** | 0 | ::{ flag=GB }:: PikachuNick | [#1](https://osu.ppy.sh/community/matches/79246158) |
+| \[Crz\]kOvID- ::{ flag=AR }:: | 0 | **4** | ::{ flag=CA }:: **Stability** | *win by default* |
+| **\[GS\]Myuka** ::{ flag=CL }:: | **4** | 0 | ::{ flag=BR }:: \[LS\]LeMarcinho | [#1](https://osu.ppy.sh/community/matches/79250668) |
+| **BossPlays** ::{ flag=AR }:: | **4** | 1 | ::{ flag=US }:: oleka | [#1](https://osu.ppy.sh/community/matches/79257447) |
 
 Sunday, 28 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **BossPlays** ![][flag_AR] | **4** | 2 | ![][flag_US] ASharpp | [#1](https://osu.ppy.sh/community/matches/79264924) |
-| **ASharpp** ![][flag_US] | **4** | 0 | ![][flag_US] oleka | *forfeited* |
-| **Alter-** ![][flag_US] | **4** | 3 | ![][flag_US] ERA Zenith | [#1](https://osu.ppy.sh/community/matches/79270394) |
-| **AMDuskia1996** ![][flag_JP] | **4** | 0 | ![][flag_GB] AirSpan | *forfeited* |
-| **Asrielly** ![][flag_VN] | **4** | 0 | ![][flag_PE] Kien io | [#1](https://osu.ppy.sh/community/matches/79275638) |
-| ERA Zenith ![][flag_US] | 3 | **4** | ![][flag_AU] **ruka** | [#1](https://osu.ppy.sh/community/matches/79275942) |
-| **WaterMelonTube** ![][flag_US] | **4** | 0 | ![][flag_ID] nayuu | [#1](https://osu.ppy.sh/community/matches/79278734) |
-| **XxNewson1234xX** ![][flag_GB] | **4** | 0 | ![][flag_PH] \[LS\]Acestrol | *forfeited* |
-| **bojii** ![][flag_PH] | **4** | 0 | ![][flag_NL] NightNarumi | [#1](https://osu.ppy.sh/community/matches/79300252) |
-| **Auraah** ![][flag_FR] | **4** | 0 | ![][flag_TH] Freshky | *forfeited* |
-| **Silhoueska Elze** ![][flag_PH] | **4** | 3 | ![][flag_DE] jkzu123 | [#1](https://osu.ppy.sh/community/matches/79302863) |
-| **HowToPlayLN** ![][flag_TH] | **4** | 1 | ![][flag_MY] \[-Leon-\] | [#1](https://osu.ppy.sh/community/matches/79303004) |
-| ERA Zenith ![][flag_US] | 0 | **4** | ![][flag_SG] **Polytetral** | *forfeited* |
-| **XxNewson1234xX** ![][flag_GB] | **4** | 0 | ![][flag_CA] Stability | *win by default* |
-| **xSnaggles** ![][flag_GB] | **4** | 3 | ![][flag_NL] 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/79306111) |
-| **Cryolien** ![][flag_MY] | **4** | 0 | ![][flag_IT] Kiraz | [#1](https://osu.ppy.sh/community/matches/79311806) |
-| **Pope Gadget** ![][flag_GB] | **4** | 0 | ![][flag_IT] Kiraz | [#1](https://osu.ppy.sh/community/matches/79315345) |
-| **jkzu123** ![][flag_DE] | **4** | 0 | ![][flag_US] Unholy | *forfeited* |
-| **SillyFangirl** ![][flag_BR] | **4** | 1 | ![][flag_IT] Jeersy | [#1](https://osu.ppy.sh/community/matches/79315500) |
-| **Auraah** ![][flag_FR] | **4** | 0 | ![][flag_US] TTenko | *forfeited* |
-| **Yonk\_** ![][flag_GB] | **4** | 0 | ![][flag_US] etterna and osu | [#1](https://osu.ppy.sh/community/matches/79322516) |
-| **BaniiYanii** ![][flag_US] | **4** | 1 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/79322875) |
-| Gabi Kamui ![][flag_BR] | 2 | **4** | ![][flag_US] **-Lethal-** | [#1](https://osu.ppy.sh/community/matches/79326982) |
-| oleka ![][flag_US] | 0 | **4** | ![][flag_PL] **Tidek** | *forfeited* |
-| **\[GS\]Myuka** ![][flag_CL] | **4** | 0 | ![][flag_IE] SPLOwON | [#1](https://osu.ppy.sh/community/matches/79331692) |
-| **BossPlays** ![][flag_AR] | **4** | 0 | ![][flag_PL] Tidek | [#1](https://osu.ppy.sh/community/matches/79335804) |
-| **mashu** ![][flag_US] | **4** | 3 | ![][flag_US] WaterMelonTube | [#1](https://osu.ppy.sh/community/matches/79339599) |
-| **BaniiYanii** ![][flag_US] | **4** | 3 | ![][flag_GB] xSnaggles | [#1](https://osu.ppy.sh/community/matches/79339589) |
+| **BossPlays** ::{ flag=AR }:: | **4** | 2 | ::{ flag=US }:: ASharpp | [#1](https://osu.ppy.sh/community/matches/79264924) |
+| **ASharpp** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: oleka | *forfeited* |
+| **Alter-** ::{ flag=US }:: | **4** | 3 | ::{ flag=US }:: ERA Zenith | [#1](https://osu.ppy.sh/community/matches/79270394) |
+| **AMDuskia1996** ::{ flag=JP }:: | **4** | 0 | ::{ flag=GB }:: AirSpan | *forfeited* |
+| **Asrielly** ::{ flag=VN }:: | **4** | 0 | ::{ flag=PE }:: Kien io | [#1](https://osu.ppy.sh/community/matches/79275638) |
+| ERA Zenith ::{ flag=US }:: | 3 | **4** | ::{ flag=AU }:: **ruka** | [#1](https://osu.ppy.sh/community/matches/79275942) |
+| **WaterMelonTube** ::{ flag=US }:: | **4** | 0 | ::{ flag=ID }:: nayuu | [#1](https://osu.ppy.sh/community/matches/79278734) |
+| **XxNewson1234xX** ::{ flag=GB }:: | **4** | 0 | ::{ flag=PH }:: \[LS\]Acestrol | *forfeited* |
+| **bojii** ::{ flag=PH }:: | **4** | 0 | ::{ flag=NL }:: NightNarumi | [#1](https://osu.ppy.sh/community/matches/79300252) |
+| **Auraah** ::{ flag=FR }:: | **4** | 0 | ::{ flag=TH }:: Freshky | *forfeited* |
+| **Silhoueska Elze** ::{ flag=PH }:: | **4** | 3 | ::{ flag=DE }:: jkzu123 | [#1](https://osu.ppy.sh/community/matches/79302863) |
+| **HowToPlayLN** ::{ flag=TH }:: | **4** | 1 | ::{ flag=MY }:: \[-Leon-\] | [#1](https://osu.ppy.sh/community/matches/79303004) |
+| ERA Zenith ::{ flag=US }:: | 0 | **4** | ::{ flag=SG }:: **Polytetral** | *forfeited* |
+| **XxNewson1234xX** ::{ flag=GB }:: | **4** | 0 | ::{ flag=CA }:: Stability | *win by default* |
+| **xSnaggles** ::{ flag=GB }:: | **4** | 3 | ::{ flag=NL }:: 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/79306111) |
+| **Cryolien** ::{ flag=MY }:: | **4** | 0 | ::{ flag=IT }:: Kiraz | [#1](https://osu.ppy.sh/community/matches/79311806) |
+| **Pope Gadget** ::{ flag=GB }:: | **4** | 0 | ::{ flag=IT }:: Kiraz | [#1](https://osu.ppy.sh/community/matches/79315345) |
+| **jkzu123** ::{ flag=DE }:: | **4** | 0 | ::{ flag=US }:: Unholy | *forfeited* |
+| **SillyFangirl** ::{ flag=BR }:: | **4** | 1 | ::{ flag=IT }:: Jeersy | [#1](https://osu.ppy.sh/community/matches/79315500) |
+| **Auraah** ::{ flag=FR }:: | **4** | 0 | ::{ flag=US }:: TTenko | *forfeited* |
+| **Yonk\_** ::{ flag=GB }:: | **4** | 0 | ::{ flag=US }:: etterna and osu | [#1](https://osu.ppy.sh/community/matches/79322516) |
+| **BaniiYanii** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: HeZeuS | [#1](https://osu.ppy.sh/community/matches/79322875) |
+| Gabi Kamui ::{ flag=BR }:: | 2 | **4** | ::{ flag=US }:: **-Lethal-** | [#1](https://osu.ppy.sh/community/matches/79326982) |
+| oleka ::{ flag=US }:: | 0 | **4** | ::{ flag=PL }:: **Tidek** | *forfeited* |
+| **\[GS\]Myuka** ::{ flag=CL }:: | **4** | 0 | ::{ flag=IE }:: SPLOwON | [#1](https://osu.ppy.sh/community/matches/79331692) |
+| **BossPlays** ::{ flag=AR }:: | **4** | 0 | ::{ flag=PL }:: Tidek | [#1](https://osu.ppy.sh/community/matches/79335804) |
+| **mashu** ::{ flag=US }:: | **4** | 3 | ::{ flag=US }:: WaterMelonTube | [#1](https://osu.ppy.sh/community/matches/79339599) |
+| **BaniiYanii** ::{ flag=US }:: | **4** | 3 | ::{ flag=GB }:: xSnaggles | [#1](https://osu.ppy.sh/community/matches/79339589) |
 
 ### Playoffs
 
@@ -525,95 +525,95 @@ Saturday, 6 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **wolfpup08** ![][flag_RU] | **4** | 1 | ![][flag_PH] DaMeMeThEiFxD | [#1](https://osu.ppy.sh/community/matches/77355263) |
-| **Kiraz** ![][flag_IT] | **4** | 3 | ![][flag_TH] basicmaime | [#1](https://osu.ppy.sh/community/matches/77355256) |
-| **Polytetral** ![][flag_SG] | **4** | 1 | ![][flag_NZ] CappK | [#1](https://osu.ppy.sh/community/matches/77356378) |
-| sophhhia ![][flag_NZ] | 0 | **4** | ![][flag_PL] **\_underjoy** | [#1](https://osu.ppy.sh/community/matches/77356806) |
-| **nayuu** ![][flag_ID] | **4** | 2 | ![][flag_PL] Mr\_adamello | [#1](https://osu.ppy.sh/community/matches/77363514) |
-| **Eon Musk** ![][flag_PH] | **4** | 0 | ![][flag_AR] jLuyalb | [#1](https://osu.ppy.sh/community/matches/77366193) |
-| **PikachuNick** ![][flag_GB] | **4** | 1 | ![][flag_TH] shokoha | [#1](https://osu.ppy.sh/community/matches/77369066) |
-| **\[-Leon-\]** ![][flag_MY] | **4** | 0 | ![][flag_AR] Ingrid10 | [#1](https://osu.ppy.sh/community/matches/77370964) |
-| **Ping36** ![][flag_FR] | **4** | 2 | ![][flag_HU] Verald | [#1](https://osu.ppy.sh/community/matches/77371086) |
-| **etterna and osu** ![][flag_US] | **4** | 0 | ![][flag_ID] Proxae | [#1](https://osu.ppy.sh/community/matches/77372252) |
-| **AdamAckerville** ![][flag_SG] | **4** | 0 | ![][flag_CA] CommandoBlack | [#1](https://osu.ppy.sh/community/matches/77373051) |
-| **DaDarkDragon** ![][flag_PL] | **4** | 0 | ![][flag_AR] prodilex | [#1](https://osu.ppy.sh/community/matches/77391160) |
-| **Bakuretsue** ![][flag_NL] | **4** | 1 | ![][flag_NL] samuelhklumpers | [#1](https://osu.ppy.sh/community/matches/77381644) |
-| **Crymeno** ![][flag_BR] | **4** | 1 | ![][flag_BE] spamblock | [#1](https://osu.ppy.sh/community/matches/77385259) |
-| **Kien io** ![][flag_PE] | **4** | 0 | ![][flag_DE] medium kek | [#1](https://osu.ppy.sh/community/matches/77389025) |
-| RandomeLoL ![][flag_ES] | 3 | **4** | ![][flag_US] **dinga dog** | [#1](https://osu.ppy.sh/community/matches/77393637) |
+| **wolfpup08** ::{ flag=RU }:: | **4** | 1 | ::{ flag=PH }:: DaMeMeThEiFxD | [#1](https://osu.ppy.sh/community/matches/77355263) |
+| **Kiraz** ::{ flag=IT }:: | **4** | 3 | ::{ flag=TH }:: basicmaime | [#1](https://osu.ppy.sh/community/matches/77355256) |
+| **Polytetral** ::{ flag=SG }:: | **4** | 1 | ::{ flag=NZ }:: CappK | [#1](https://osu.ppy.sh/community/matches/77356378) |
+| sophhhia ::{ flag=NZ }:: | 0 | **4** | ::{ flag=PL }:: **\_underjoy** | [#1](https://osu.ppy.sh/community/matches/77356806) |
+| **nayuu** ::{ flag=ID }:: | **4** | 2 | ::{ flag=PL }:: Mr\_adamello | [#1](https://osu.ppy.sh/community/matches/77363514) |
+| **Eon Musk** ::{ flag=PH }:: | **4** | 0 | ::{ flag=AR }:: jLuyalb | [#1](https://osu.ppy.sh/community/matches/77366193) |
+| **PikachuNick** ::{ flag=GB }:: | **4** | 1 | ::{ flag=TH }:: shokoha | [#1](https://osu.ppy.sh/community/matches/77369066) |
+| **\[-Leon-\]** ::{ flag=MY }:: | **4** | 0 | ::{ flag=AR }:: Ingrid10 | [#1](https://osu.ppy.sh/community/matches/77370964) |
+| **Ping36** ::{ flag=FR }:: | **4** | 2 | ::{ flag=HU }:: Verald | [#1](https://osu.ppy.sh/community/matches/77371086) |
+| **etterna and osu** ::{ flag=US }:: | **4** | 0 | ::{ flag=ID }:: Proxae | [#1](https://osu.ppy.sh/community/matches/77372252) |
+| **AdamAckerville** ::{ flag=SG }:: | **4** | 0 | ::{ flag=CA }:: CommandoBlack | [#1](https://osu.ppy.sh/community/matches/77373051) |
+| **DaDarkDragon** ::{ flag=PL }:: | **4** | 0 | ::{ flag=AR }:: prodilex | [#1](https://osu.ppy.sh/community/matches/77391160) |
+| **Bakuretsue** ::{ flag=NL }:: | **4** | 1 | ::{ flag=NL }:: samuelhklumpers | [#1](https://osu.ppy.sh/community/matches/77381644) |
+| **Crymeno** ::{ flag=BR }:: | **4** | 1 | ::{ flag=BE }:: spamblock | [#1](https://osu.ppy.sh/community/matches/77385259) |
+| **Kien io** ::{ flag=PE }:: | **4** | 0 | ::{ flag=DE }:: medium kek | [#1](https://osu.ppy.sh/community/matches/77389025) |
+| RandomeLoL ::{ flag=ES }:: | 3 | **4** | ::{ flag=US }:: **dinga dog** | [#1](https://osu.ppy.sh/community/matches/77393637) |
 
 Sunday, 7 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Lenn** ![][flag_BR] | **4** | 0 | ![][flag_US] Ery | [#1](https://osu.ppy.sh/community/matches/77413884) |
-| **HeZeuS** ![][flag_US] | **4** | 0 | ![][flag_US] thatcow | [#1](https://osu.ppy.sh/community/matches/77426356) |
-| **-Einar-** ![][flag_MY] | **4** | 0 | ![][flag_US] zVols | [#1](https://osu.ppy.sh/community/matches/77428197) |
-| Matthia ![][flag_US] | 1 | **4** | ![][flag_PH] **- O R E O** | [#1](https://osu.ppy.sh/community/matches/77430695) |
-| **Freshky** ![][flag_TH] | **4** | 3 | ![][flag_ID] RetroEX | [#1](https://osu.ppy.sh/community/matches/77445856) |
-| Solleks ![][flag_GB] | 0 | **4** | ![][flag_NL] **2fast4you98** | [#1](https://osu.ppy.sh/community/matches/77447479) |
-| **\[LS\]Acestrol** ![][flag_PH] | **4** | 1 | ![][flag_TH] LoliconTowa | [#1](https://osu.ppy.sh/community/matches/77452015) |
-| **Brinhildr** ![][flag_ID] | **4** | 1 | ![][flag_TH] MIkuaimbot | [#1](https://osu.ppy.sh/community/matches/77451942) |
-| **SHOKO -** ![][flag_TH] | **4** | 0 | ![][flag_US] blizzo | [#1](https://osu.ppy.sh/community/matches/77461829) |
-| **Tupidix** ![][flag_CH] | **4** | 2 | ![][flag_HK] Dream Fire | [#1](https://osu.ppy.sh/community/matches/77462850) |
-| **Zycrxd** ![][flag_GB] | **4** | 0 | ![][flag_CA] \[ro\]Nosteal | *win by default* |
-| **Tidek** ![][flag_PL] | **4** | 2 | ![][flag_PL] SitekX | [#1](https://osu.ppy.sh/community/matches/77467680) |
-| **ok bye** ![][flag_US] | **4** | 0 | ![][flag_SE] Trymatic | *win by default* |
-| Tazin\_ ![][flag_US] | 1 | **4** | ![][flag_DE] **Niko\_Plays** | [#1](https://osu.ppy.sh/community/matches/77474340) |
-| \[LS\]Shuri ![][flag_MX] | 0 | **4** | ![][flag_NL] **NightNarumi** | [#1](https://osu.ppy.sh/community/matches/77477979) |
+| **Lenn** ::{ flag=BR }:: | **4** | 0 | ::{ flag=US }:: Ery | [#1](https://osu.ppy.sh/community/matches/77413884) |
+| **HeZeuS** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: thatcow | [#1](https://osu.ppy.sh/community/matches/77426356) |
+| **-Einar-** ::{ flag=MY }:: | **4** | 0 | ::{ flag=US }:: zVols | [#1](https://osu.ppy.sh/community/matches/77428197) |
+| Matthia ::{ flag=US }:: | 1 | **4** | ::{ flag=PH }:: **- O R E O** | [#1](https://osu.ppy.sh/community/matches/77430695) |
+| **Freshky** ::{ flag=TH }:: | **4** | 3 | ::{ flag=ID }:: RetroEX | [#1](https://osu.ppy.sh/community/matches/77445856) |
+| Solleks ::{ flag=GB }:: | 0 | **4** | ::{ flag=NL }:: **2fast4you98** | [#1](https://osu.ppy.sh/community/matches/77447479) |
+| **\[LS\]Acestrol** ::{ flag=PH }:: | **4** | 1 | ::{ flag=TH }:: LoliconTowa | [#1](https://osu.ppy.sh/community/matches/77452015) |
+| **Brinhildr** ::{ flag=ID }:: | **4** | 1 | ::{ flag=TH }:: MIkuaimbot | [#1](https://osu.ppy.sh/community/matches/77451942) |
+| **SHOKO -** ::{ flag=TH }:: | **4** | 0 | ::{ flag=US }:: blizzo | [#1](https://osu.ppy.sh/community/matches/77461829) |
+| **Tupidix** ::{ flag=CH }:: | **4** | 2 | ::{ flag=HK }:: Dream Fire | [#1](https://osu.ppy.sh/community/matches/77462850) |
+| **Zycrxd** ::{ flag=GB }:: | **4** | 0 | ::{ flag=CA }:: \[ro\]Nosteal | *win by default* |
+| **Tidek** ::{ flag=PL }:: | **4** | 2 | ::{ flag=PL }:: SitekX | [#1](https://osu.ppy.sh/community/matches/77467680) |
+| **ok bye** ::{ flag=US }:: | **4** | 0 | ::{ flag=SE }:: Trymatic | *win by default* |
+| Tazin\_ ::{ flag=US }:: | 1 | **4** | ::{ flag=DE }:: **Niko\_Plays** | [#1](https://osu.ppy.sh/community/matches/77474340) |
+| \[LS\]Shuri ::{ flag=MX }:: | 0 | **4** | ::{ flag=NL }:: **NightNarumi** | [#1](https://osu.ppy.sh/community/matches/77477979) |
 
 Wednesday, 10 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **ERA Zenith** ![][flag_US] | **4** | 1 | ![][flag_US] dinga dog | [#1](https://osu.ppy.sh/community/matches/77728586) |
+| **ERA Zenith** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: dinga dog | [#1](https://osu.ppy.sh/community/matches/77728586) |
 
 Friday, 12 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **\[Crz\]kOvID-** ![][flag_AR] | **4** | 1 | ![][flag_PL] \_underjoy | [#1](https://osu.ppy.sh/community/matches/77879438) |
+| **\[Crz\]kOvID-** ::{ flag=AR }:: | **4** | 1 | ::{ flag=PL }:: \_underjoy | [#1](https://osu.ppy.sh/community/matches/77879438) |
 
 Saturday, 13 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Gabi Kamui** ![][flag_BR] | **4** | 0 | ![][flag_ID] \[ReyZ\] | [#1](https://osu.ppy.sh/community/matches/77922577) |
-| **\[GS\]Antunder** ![][flag_US] | **4** | 3 | ![][flag_BE] Mortelspawn\_ | [#1](https://osu.ppy.sh/community/matches/77942197) |
-| TheMysteryL ![][flag_PH] | 0 | **4** | ![][flag_IT] **Kiraz** | *forfeited* |
-| **Zoobin4** ![][flag_GB] | **4** | 1 | ![][flag_ID] Brinhildr | [#1](https://osu.ppy.sh/community/matches/77953011) |
-| **Cryolien** ![][flag_MY] | **4** | 2 | ![][flag_FR] DragonSonic | [#1](https://osu.ppy.sh/community/matches/77955821) |
-| **Lottery61** ![][flag_VN] | **4** | 1 | ![][flag_ID] Fyl | [#1](https://osu.ppy.sh/community/matches/77957618) |
-| **Yuragi** ![][flag_BR] | **4** | 0 | ![][flag_SG] \[LS\]PlzNjoyGame | [#1](https://osu.ppy.sh/community/matches/77958785) |
-| **gxrl** ![][flag_AR] | **4** | 1 | ![][flag_PH] - O R E O | [#1](https://osu.ppy.sh/community/matches/77959873) |
-| CPT\_Sivelia ![][flag_VN] | 0 | **4** | ![][flag_NL] **NightNarumi** | *forfeited* |
-| **Geno\_** ![][flag_US] | **4** | 1 | ![][flag_RU] wolfpup08 | [#1](https://osu.ppy.sh/community/matches/77972980) |
-| **xSnaggles** ![][flag_GB] | **4** | 2 | ![][flag_BR] Crymeno | [#1](https://osu.ppy.sh/community/matches/77986628) |
-| **Unholy** ![][flag_US] | **4** | 1 | ![][flag_GB] Hayabusa | [#1](https://osu.ppy.sh/community/matches/77991422) |
-| Soore ![][flag_BR] | 2 | **4** | ![][flag_PY] **MomonSama** | [#1](https://osu.ppy.sh/community/matches/77995937) |
-| **oleka** ![][flag_US] | **4** | 0 | ![][flag_CL] Xan- | [#1](https://osu.ppy.sh/community/matches/78000491) |
-| **AirSpan** ![][flag_GB] | **4** | 0 | ![][flag_US] \_Seth | [#1](https://osu.ppy.sh/community/matches/78008232) |
+| **Gabi Kamui** ::{ flag=BR }:: | **4** | 0 | ::{ flag=ID }:: \[ReyZ\] | [#1](https://osu.ppy.sh/community/matches/77922577) |
+| **\[GS\]Antunder** ::{ flag=US }:: | **4** | 3 | ::{ flag=BE }:: Mortelspawn\_ | [#1](https://osu.ppy.sh/community/matches/77942197) |
+| TheMysteryL ::{ flag=PH }:: | 0 | **4** | ::{ flag=IT }:: **Kiraz** | *forfeited* |
+| **Zoobin4** ::{ flag=GB }:: | **4** | 1 | ::{ flag=ID }:: Brinhildr | [#1](https://osu.ppy.sh/community/matches/77953011) |
+| **Cryolien** ::{ flag=MY }:: | **4** | 2 | ::{ flag=FR }:: DragonSonic | [#1](https://osu.ppy.sh/community/matches/77955821) |
+| **Lottery61** ::{ flag=VN }:: | **4** | 1 | ::{ flag=ID }:: Fyl | [#1](https://osu.ppy.sh/community/matches/77957618) |
+| **Yuragi** ::{ flag=BR }:: | **4** | 0 | ::{ flag=SG }:: \[LS\]PlzNjoyGame | [#1](https://osu.ppy.sh/community/matches/77958785) |
+| **gxrl** ::{ flag=AR }:: | **4** | 1 | ::{ flag=PH }:: - O R E O | [#1](https://osu.ppy.sh/community/matches/77959873) |
+| CPT\_Sivelia ::{ flag=VN }:: | 0 | **4** | ::{ flag=NL }:: **NightNarumi** | *forfeited* |
+| **Geno\_** ::{ flag=US }:: | **4** | 1 | ::{ flag=RU }:: wolfpup08 | [#1](https://osu.ppy.sh/community/matches/77972980) |
+| **xSnaggles** ::{ flag=GB }:: | **4** | 2 | ::{ flag=BR }:: Crymeno | [#1](https://osu.ppy.sh/community/matches/77986628) |
+| **Unholy** ::{ flag=US }:: | **4** | 1 | ::{ flag=GB }:: Hayabusa | [#1](https://osu.ppy.sh/community/matches/77991422) |
+| Soore ::{ flag=BR }:: | 2 | **4** | ::{ flag=PY }:: **MomonSama** | [#1](https://osu.ppy.sh/community/matches/77995937) |
+| **oleka** ::{ flag=US }:: | **4** | 0 | ::{ flag=CL }:: Xan- | [#1](https://osu.ppy.sh/community/matches/78000491) |
+| **AirSpan** ::{ flag=GB }:: | **4** | 0 | ::{ flag=US }:: \_Seth | [#1](https://osu.ppy.sh/community/matches/78008232) |
 
 Sunday, 14 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Stability** ![][flag_CA] | **4** | 0 | ![][flag_BR] Zergh | [#1](https://osu.ppy.sh/community/matches/78010434) |
-| \_Yisus\_ ![][flag_VE] | 3 | **4** | ![][flag_PE] **Kien io** | [#1](https://osu.ppy.sh/community/matches/78011725) |
-| **etterna in osu** ![][flag_UY] | **4** | 0 | ![][flag_US] ok bye | [#1](https://osu.ppy.sh/community/matches/78014136) |
-| **Namirin-chan** ![][flag_BR] | **4** | 1 | ![][flag_BR] soutin | [#1](https://osu.ppy.sh/community/matches/78019150) |
-| **WaterMelonTube** ![][flag_US] | **4** | 2 | ![][flag_PH] Eon Musk | [#1](https://osu.ppy.sh/community/matches/78024721) |
-| **ruka** ![][flag_AU] | **4** | 0 | ![][flag_PH] MowseChow | [#1](https://osu.ppy.sh/community/matches/78042497) |
-| **Guldakh** ![][flag_ES] | **4** | 0 | ![][flag_AU] Vegemite | *forfeited* |
-| **SPLOwON** ![][flag_IE] | **4** | 1 | ![][flag_HK] Quotient GD | [#1](https://osu.ppy.sh/community/matches/78045548) |
-| **\[LS\]LeMarcinho** ![][flag_BR] | **4** | 1 | ![][flag_VN] Lottery61 | [#1](https://osu.ppy.sh/community/matches/78045943) |
-| **jkzu123** ![][flag_DE] | **4** | 2 | ![][flag_MY] -Einar- | [#1](https://osu.ppy.sh/community/matches/78047764) |
-| ZCFirsTT ![][flag_TH] | 3 | **4** | ![][flag_ID] **nayuu** | [#1](https://osu.ppy.sh/community/matches/78050280) |
-| **Asrielly** ![][flag_VN] | **4** | 0 | ![][flag_BR] Namirin-chan | [#1](https://osu.ppy.sh/community/matches/78053242) |
-| **Jeersy** ![][flag_IT] | **4** | 0 | ![][flag_DE] Niko\_Plays | [#1](https://osu.ppy.sh/community/matches/78068419) |
-| **TTenko** ![][flag_US] | **4** | 2 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/78071588) |
-| \[Crz\]Arkener ![][flag_CL] | 0 | **4** | ![][flag_US] **-Lethal-** | *forfeited* |
-| **ASharpp** ![][flag_US] | **4** | 0 | ![][flag_DE] Sirbeyy | [#1](https://osu.ppy.sh/community/matches/78078778) |
+| **Stability** ::{ flag=CA }:: | **4** | 0 | ::{ flag=BR }:: Zergh | [#1](https://osu.ppy.sh/community/matches/78010434) |
+| \_Yisus\_ ::{ flag=VE }:: | 3 | **4** | ::{ flag=PE }:: **Kien io** | [#1](https://osu.ppy.sh/community/matches/78011725) |
+| **etterna in osu** ::{ flag=UY }:: | **4** | 0 | ::{ flag=US }:: ok bye | [#1](https://osu.ppy.sh/community/matches/78014136) |
+| **Namirin-chan** ::{ flag=BR }:: | **4** | 1 | ::{ flag=BR }:: soutin | [#1](https://osu.ppy.sh/community/matches/78019150) |
+| **WaterMelonTube** ::{ flag=US }:: | **4** | 2 | ::{ flag=PH }:: Eon Musk | [#1](https://osu.ppy.sh/community/matches/78024721) |
+| **ruka** ::{ flag=AU }:: | **4** | 0 | ::{ flag=PH }:: MowseChow | [#1](https://osu.ppy.sh/community/matches/78042497) |
+| **Guldakh** ::{ flag=ES }:: | **4** | 0 | ::{ flag=AU }:: Vegemite | *forfeited* |
+| **SPLOwON** ::{ flag=IE }:: | **4** | 1 | ::{ flag=HK }:: Quotient GD | [#1](https://osu.ppy.sh/community/matches/78045548) |
+| **\[LS\]LeMarcinho** ::{ flag=BR }:: | **4** | 1 | ::{ flag=VN }:: Lottery61 | [#1](https://osu.ppy.sh/community/matches/78045943) |
+| **jkzu123** ::{ flag=DE }:: | **4** | 2 | ::{ flag=MY }:: -Einar- | [#1](https://osu.ppy.sh/community/matches/78047764) |
+| ZCFirsTT ::{ flag=TH }:: | 3 | **4** | ::{ flag=ID }:: **nayuu** | [#1](https://osu.ppy.sh/community/matches/78050280) |
+| **Asrielly** ::{ flag=VN }:: | **4** | 0 | ::{ flag=BR }:: Namirin-chan | [#1](https://osu.ppy.sh/community/matches/78053242) |
+| **Jeersy** ::{ flag=IT }:: | **4** | 0 | ::{ flag=DE }:: Niko\_Plays | [#1](https://osu.ppy.sh/community/matches/78068419) |
+| **TTenko** ::{ flag=US }:: | **4** | 2 | ::{ flag=DK }:: Jole | [#1](https://osu.ppy.sh/community/matches/78071588) |
+| \[Crz\]Arkener ::{ flag=CL }:: | 0 | **4** | ::{ flag=US }:: **-Lethal-** | *forfeited* |
+| **ASharpp** ::{ flag=US }:: | **4** | 0 | ::{ flag=DE }:: Sirbeyy | [#1](https://osu.ppy.sh/community/matches/78078778) |
 
 ### Qualifiers
 
@@ -734,40 +734,3 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_IN]: /wiki/shared/flag/IN.gif "India"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_PY]: /wiki/shared/flag/PY.gif "Paraguay"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
-[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

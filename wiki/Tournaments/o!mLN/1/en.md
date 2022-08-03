@@ -7,7 +7,7 @@ tags:
 
 ![o!mLN logo](img/logo.png)
 
-The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. It was the first instalment of the osu!mania LN Tournaments.
+The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. It was the first instalment of the osu!mania LN Tournaments.
 
 ## Tournament schedule
 
@@ -37,14 +37,14 @@ The osu!mania LN Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Mappool selector | ![][flag_FR] [Skochan](https://osu.ppy.sh/users/7861278), ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256) |
-| Referee | ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Trypha](https://osu.ppy.sh/users/2812098), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_GR] [nik](https://osu.ppy.sh/users/10077264), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_GB] [Weavile](https://osu.ppy.sh/users/9665028) |
-| Streamer | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Commentator | ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256), ![][flag_GB] [Theresa May](https://osu.ppy.sh/users/8946085) |
-| Designer | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Mappool selector | ::{ flag=FR }:: [Skochan](https://osu.ppy.sh/users/7861278), ::{ flag=US }:: [AYAYAA](https://osu.ppy.sh/users/4980256) |
+| Referee | ::{ flag=AU }:: [Cactie](https://osu.ppy.sh/users/5592409), ::{ flag=AU }:: [nonamegohst](https://osu.ppy.sh/users/4384859), ::{ flag=FI }:: [Camopoltergeist](https://osu.ppy.sh/users/8132964), ::{ flag=BE }:: [DraQeu](https://osu.ppy.sh/users/4425520), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [Trypha](https://osu.ppy.sh/users/2812098), ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=PL }:: [Kondi](https://osu.ppy.sh/users/7382321), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=US }:: [Tuco](https://osu.ppy.sh/users/11706350), ::{ flag=GB }:: [Weavile](https://osu.ppy.sh/users/9665028) |
+| Streamer | ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=US }:: [Tuco](https://osu.ppy.sh/users/11706350), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Commentator | ::{ flag=US }:: [AYAYAA](https://osu.ppy.sh/users/4980256), ::{ flag=GB }:: [Theresa May](https://osu.ppy.sh/users/8946085) |
+| Designer | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
+| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Wiki editor | ::{ flag=ID }:: [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -58,23 +58,23 @@ The osu!mania LN Tournament was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029), ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_FR] [AuraahDono](https://osu.ppy.sh/users/10015908), ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097) |
-| High | ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_FR] [Koiidex](https://osu.ppy.sh/users/5193488), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_FR] [MillaMaxwelle](https://osu.ppy.sh/users/6264519), ![][flag_TH] [basicmaime](https://osu.ppy.sh/users/6537441), ![][flag_BY] [mvq](https://osu.ppy.sh/users/6283029) |
-| Low | ![][flag_IT] [BadIsTheNewGod](https://osu.ppy.sh/users/5245132), ![][flag_TH] [DifficultIV](https://osu.ppy.sh/users/4647001), ![][flag_RU] [YaLTeR](https://osu.ppy.sh/users/3910006), ![][flag_FI] [-Oreo-](https://osu.ppy.sh/users/5099222), ![][flag_RU] [Mage](https://osu.ppy.sh/users/5527957), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [8524171514518](https://osu.ppy.sh/users/4666635) |
-| Unseeded | ![][flag_RU] [X\_Devil](https://osu.ppy.sh/users/6694908), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607), ![][flag_PH] [Bentai Bosmic](https://osu.ppy.sh/users/6375534), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_TH] [- SLAYER -](https://osu.ppy.sh/users/11622143), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_RU] [Jormungand](https://osu.ppy.sh/users/5145890), ![][flag_NL] [2fast4you98](https://osu.ppy.sh/users/5183940) |
+| Top | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029), ::{ flag=GB }:: [Amascite](https://osu.ppy.sh/users/3359035), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=ID }:: [-Rem-](https://osu.ppy.sh/users/5767941), ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061), ::{ flag=FR }:: [AuraahDono](https://osu.ppy.sh/users/10015908), ::{ flag=KR }:: [NKEYBOARD](https://osu.ppy.sh/users/10132430), ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097) |
+| High | ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516), ::{ flag=FR }:: [Koiidex](https://osu.ppy.sh/users/5193488), ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=FR }:: [MillaMaxwelle](https://osu.ppy.sh/users/6264519), ::{ flag=TH }:: [basicmaime](https://osu.ppy.sh/users/6537441), ::{ flag=BY }:: [mvq](https://osu.ppy.sh/users/6283029) |
+| Low | ::{ flag=IT }:: [BadIsTheNewGod](https://osu.ppy.sh/users/5245132), ::{ flag=TH }:: [DifficultIV](https://osu.ppy.sh/users/4647001), ::{ flag=RU }:: [YaLTeR](https://osu.ppy.sh/users/3910006), ::{ flag=FI }:: [-Oreo-](https://osu.ppy.sh/users/5099222), ::{ flag=RU }:: [Mage](https://osu.ppy.sh/users/5527957), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790), ::{ flag=PL }:: [8524171514518](https://osu.ppy.sh/users/4666635) |
+| Unseeded | ::{ flag=RU }:: [X\_Devil](https://osu.ppy.sh/users/6694908), ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607), ::{ flag=PH }:: [Bentai Bosmic](https://osu.ppy.sh/users/6375534), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=TH }:: [- SLAYER -](https://osu.ppy.sh/users/11622143), ::{ flag=PH }:: [Lenfried-](https://osu.ppy.sh/users/5314573), ::{ flag=RU }:: [Jormungand](https://osu.ppy.sh/users/5145890), ::{ flag=NL }:: [2fast4you98](https://osu.ppy.sh/users/5183940) |
 
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) | ![][flag_FR] [MillaMaxwelle](https://osu.ppy.sh/users/6264519) | ![][flag_IT] [BadIsTheNewGod](https://osu.ppy.sh/users/5245132) | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) |
-| **B** | ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097) | ![][flag_FR] [Koiidex](https://osu.ppy.sh/users/5193488) | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790) | ![][flag_TH] [- SLAYER -](https://osu.ppy.sh/users/11622143) |
-| **C** | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402) | ![][flag_PL] [8524171514518](https://osu.ppy.sh/users/4666635) | ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607) |
-| **D** | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | ![][flag_BY] [mvq](https://osu.ppy.sh/users/6283029) | ![][flag_RU] [Mage](https://osu.ppy.sh/users/5527957) | ![][flag_RU] [X\_Devil](https://osu.ppy.sh/users/6694908) |
-| **E** | ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941) | ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) | ![][flag_TH] [DifficultIV](https://osu.ppy.sh/users/4647001) | ![][flag_NL] [2fast4you98](https://osu.ppy.sh/users/5183940) |
-| **F** | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) | ![][flag_RU] [YaLTeR](https://osu.ppy.sh/users/3910006) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573) |
-| **G** | ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430) | ![][flag_TH] [basicmaime](https://osu.ppy.sh/users/6537441) | ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) | ![][flag_RU] [Jormungand](https://osu.ppy.sh/users/5145890) |
-| **H** | ![][flag_FR] [AuraahDono](https://osu.ppy.sh/users/10015908) | ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550) | ![][flag_FI] [-Oreo-](https://osu.ppy.sh/users/5099222) | ![][flag_PH] [Bentai Bosmic](https://osu.ppy.sh/users/6375534) |
+| **A** | ::{ flag=GB }:: [Amascite](https://osu.ppy.sh/users/3359035) | ::{ flag=FR }:: [MillaMaxwelle](https://osu.ppy.sh/users/6264519) | ::{ flag=IT }:: [BadIsTheNewGod](https://osu.ppy.sh/users/5245132) | ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
+| **B** | ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097) | ::{ flag=FR }:: [Koiidex](https://osu.ppy.sh/users/5193488) | ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790) | ::{ flag=TH }:: [- SLAYER -](https://osu.ppy.sh/users/11622143) |
+| **C** | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) | ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402) | ::{ flag=PL }:: [8524171514518](https://osu.ppy.sh/users/4666635) | ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607) |
+| **D** | ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061) | ::{ flag=BY }:: [mvq](https://osu.ppy.sh/users/6283029) | ::{ flag=RU }:: [Mage](https://osu.ppy.sh/users/5527957) | ::{ flag=RU }:: [X\_Devil](https://osu.ppy.sh/users/6694908) |
+| **E** | ::{ flag=ID }:: [-Rem-](https://osu.ppy.sh/users/5767941) | ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722) | ::{ flag=TH }:: [DifficultIV](https://osu.ppy.sh/users/4647001) | ::{ flag=NL }:: [2fast4you98](https://osu.ppy.sh/users/5183940) |
+| **F** | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) | ::{ flag=RU }:: [YaLTeR](https://osu.ppy.sh/users/3910006) | ::{ flag=PH }:: [Lenfried-](https://osu.ppy.sh/users/5314573) |
+| **G** | ::{ flag=KR }:: [NKEYBOARD](https://osu.ppy.sh/users/10132430) | ::{ flag=TH }:: [basicmaime](https://osu.ppy.sh/users/6537441) | ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) | ::{ flag=RU }:: [Jormungand](https://osu.ppy.sh/users/5145890) |
+| **H** | ::{ flag=FR }:: [AuraahDono](https://osu.ppy.sh/users/10015908) | ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550) | ::{ flag=FI }:: [-Oreo-](https://osu.ppy.sh/users/5099222) | ::{ flag=PH }:: [Bentai Bosmic](https://osu.ppy.sh/users/6375534) |
 
 ## Podium
 
@@ -82,9 +82,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Amascite](https://osu.ppy.sh/users/3359035) |
 
 ## Mappools
 
@@ -212,7 +212,7 @@ Saturday, 4 May 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **wonder5193** ![][flag_KR] | **7** | 1 | ![][flag_ID] \[Crz\]Crysarlene | [#1](https://osu.ppy.sh/community/matches/51517020) |
+| **wonder5193** ::{ flag=KR }:: | **7** | 1 | ::{ flag=ID }:: \[Crz\]Crysarlene | [#1](https://osu.ppy.sh/community/matches/51517020) |
 
 ### Finals
 
@@ -220,14 +220,14 @@ Saturday, 27 April 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Amascite ![][flag_GB] | 0 | **7** | ![][flag_KR] **wonder5193** | [#1](https://osu.ppy.sh/community/matches/51332041) |
-| Rem- ![][flag_ID] | 1 | **7** | ![][flag_ID] **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/51332053) |
+| Amascite ::{ flag=GB }:: | 0 | **7** | ::{ flag=KR }:: **wonder5193** | [#1](https://osu.ppy.sh/community/matches/51332041) |
+| Rem- ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/51332053) |
 
 Sunday, 28 April 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Amascite ![][flag_GB] | 0 | **7** | ![][flag_ID] **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/51366632) |
+| Amascite ::{ flag=GB }:: | 0 | **7** | ::{ flag=ID }:: **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/51366632) |
 
 ### Semifinals
 
@@ -235,22 +235,22 @@ Friday, 19 April 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| arge- ![][flag_PH] | 5 | **6** | ![][flag_FR] **AuraahDono** | [#1](https://osu.ppy.sh/community/matches/51128627) |
+| arge- ::{ flag=PH }:: | 5 | **6** | ::{ flag=FR }:: **AuraahDono** | [#1](https://osu.ppy.sh/community/matches/51128627) |
 
 Saturday, 20 April 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **wonder5193** ![][flag_KR] | **6** | 1 | ![][flag_ID] \[Crz\]Crysarlene | [#1](https://osu.ppy.sh/community/matches/51151259) |
-| **andreymc** ![][flag_BR] | **6** | 0 | ![][flag_KR] NKEYBOARD | [#1](https://osu.ppy.sh/community/matches/51154245) |
-| **Amascite** ![][flag_GB] | **6** | 3 | ![][flag_ID] -Rem- | [#1](https://osu.ppy.sh/community/matches/51158284) |
-| andreymc ![][flag_BR] | 3 | **6** | ![][flag_ID] **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/51158307) |
+| **wonder5193** ::{ flag=KR }:: | **6** | 1 | ::{ flag=ID }:: \[Crz\]Crysarlene | [#1](https://osu.ppy.sh/community/matches/51151259) |
+| **andreymc** ::{ flag=BR }:: | **6** | 0 | ::{ flag=KR }:: NKEYBOARD | [#1](https://osu.ppy.sh/community/matches/51154245) |
+| **Amascite** ::{ flag=GB }:: | **6** | 3 | ::{ flag=ID }:: -Rem- | [#1](https://osu.ppy.sh/community/matches/51158284) |
+| andreymc ::{ flag=BR }:: | 3 | **6** | ::{ flag=ID }:: **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/51158307) |
 
 Sunday, 21 April 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| AuraahDono ![][flag_FR] | 3 | **6** | ![][flag_ID] **-Rem-** | [#1](https://osu.ppy.sh/community/matches/51178754) |
+| AuraahDono ::{ flag=FR }:: | 3 | **6** | ::{ flag=ID }:: **-Rem-** | [#1](https://osu.ppy.sh/community/matches/51178754) |
 
 ### Quarterfinals
 
@@ -258,19 +258,19 @@ Saturday, 13 April 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Rem-** ![][flag_ID] | **5** | 4 | ![][flag_TH] basicmaime | [#1](https://osu.ppy.sh/community/matches/50961847) |
-| DaDarkDragon ![][flag_PL] | -1 | **0** | ![][flag_KR] **wonder5193** | *win by default* |
-| **\[Crz\]Crysarlene** ![][flag_ID] | **5** | 0 | ![][flag_PH] arge- | [#1](https://osu.ppy.sh/community/matches/50962595) |
-| **Amascite** ![][flag_GB] | **5** | 1 | ![][flag_BY] mvq | [#1](https://osu.ppy.sh/community/matches/50973498) |
+| **-Rem-** ::{ flag=ID }:: | **5** | 4 | ::{ flag=TH }:: basicmaime | [#1](https://osu.ppy.sh/community/matches/50961847) |
+| DaDarkDragon ::{ flag=PL }:: | -1 | **0** | ::{ flag=KR }:: **wonder5193** | *win by default* |
+| **\[Crz\]Crysarlene** ::{ flag=ID }:: | **5** | 0 | ::{ flag=PH }:: arge- | [#1](https://osu.ppy.sh/community/matches/50962595) |
+| **Amascite** ::{ flag=GB }:: | **5** | 1 | ::{ flag=BY }:: mvq | [#1](https://osu.ppy.sh/community/matches/50973498) |
 
 Sunday, 14 April 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **arge-** ![][flag_PH] | **0** | -1 | ![][flag_PH] Shiyui- | *win by default* |
-| mvq ![][flag_BY] | 1 | **5** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/50996431) |
-| DaDarkDragon ![][flag_PL] | -1 | **0** | ![][flag_FR] **AuraahDono** | *win by default* |
-| basicmaime ![][flag_TH] | 3 | **5** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/50999474) |
+| **arge-** ::{ flag=PH }:: | **0** | -1 | ::{ flag=PH }:: Shiyui- | *win by default* |
+| mvq ::{ flag=BY }:: | 1 | **5** | ::{ flag=KR }:: **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/50996431) |
+| DaDarkDragon ::{ flag=PL }:: | -1 | **0** | ::{ flag=FR }:: **AuraahDono** | *win by default* |
+| basicmaime ::{ flag=TH }:: | 3 | **5** | ::{ flag=BR }:: **andreymc** | [#1](https://osu.ppy.sh/community/matches/50999474) |
 
 ### Round of 16
 
@@ -278,28 +278,28 @@ Friday, 5 April 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Rem-** ![][flag_ID] | **4** | 0 | ![][flag_RU] YaLTeR | [#1](https://osu.ppy.sh/community/matches/50764875) |
+| **-Rem-** ::{ flag=ID }:: | **4** | 0 | ::{ flag=RU }:: YaLTeR | [#1](https://osu.ppy.sh/community/matches/50764875) |
 
 Saturday, 6 April 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| NKEYBOARD ![][flag_KR] | 1 | 4 | ![][flag_PH] **arge-** | [#1](https://osu.ppy.sh/community/matches/50790559) |
-| **basicmaime** ![][flag_TH] | **4** | 1 | ![][flag_FR] AuraahDono | [#1](https://osu.ppy.sh/community/matches/50793099) |
-| **Amascite** ![][flag_GB] | **0** | -1 | ![][flag_FR] Koiidex | *win by default* |
-| Shiyui- ![][flag_PH] | 1 | **4** | ![][flag_BY] **mvq** | [#1](https://osu.ppy.sh/community/matches/50800700) |
-| MillaMaxwelle ![][flag_FR] | -1 | **0** | ![][flag_PL] **DaDarkDragon** | *win by default* |
+| NKEYBOARD ::{ flag=KR }:: | 1 | 4 | ::{ flag=PH }:: **arge-** | [#1](https://osu.ppy.sh/community/matches/50790559) |
+| **basicmaime** ::{ flag=TH }:: | **4** | 1 | ::{ flag=FR }:: AuraahDono | [#1](https://osu.ppy.sh/community/matches/50793099) |
+| **Amascite** ::{ flag=GB }:: | **0** | -1 | ::{ flag=FR }:: Koiidex | *win by default* |
+| Shiyui- ::{ flag=PH }:: | 1 | **4** | ::{ flag=BY }:: **mvq** | [#1](https://osu.ppy.sh/community/matches/50800700) |
+| MillaMaxwelle ::{ flag=FR }:: | -1 | **0** | ::{ flag=PL }:: **DaDarkDragon** | *win by default* |
 
 Sunday, 7 April 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **wonder5193** ![][flag_KR] | **4** | 0 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/50816542) |
-| 2fast4you98 ![][flag_NL] | 0 | **4** | ![][flag_ID] **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/50822823) |
-| 2fast4you98 ![][flag_NL] | 1 | **4** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/50823229) |
-| Koiidex ![][flag_FR] | -1 | **0** | ![][flag_PH] **Shiyui-** | *win by default* |
-| YaLTeR ![][flag_RU] | 0 | **4** | ![][flag_FR] **AuraahDono** | [#1](https://osu.ppy.sh/community/matches/50827652) |
-| MillaMaxwelle ![][flag_FR] | -1 | **0** | ![][flag_BR] **andreymc** | *win by default* |
+| **wonder5193** ::{ flag=KR }:: | **4** | 0 | ::{ flag=BR }:: andreymc | [#1](https://osu.ppy.sh/community/matches/50816542) |
+| 2fast4you98 ::{ flag=NL }:: | 0 | **4** | ::{ flag=ID }:: **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/50822823) |
+| 2fast4you98 ::{ flag=NL }:: | 1 | **4** | ::{ flag=KR }:: **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/50823229) |
+| Koiidex ::{ flag=FR }:: | -1 | **0** | ::{ flag=PH }:: **Shiyui-** | *win by default* |
+| YaLTeR ::{ flag=RU }:: | 0 | **4** | ::{ flag=FR }:: **AuraahDono** | [#1](https://osu.ppy.sh/community/matches/50827652) |
+| MillaMaxwelle ::{ flag=FR }:: | -1 | **0** | ::{ flag=BR }:: **andreymc** | *win by default* |
 
 ### Group stage
 
@@ -307,79 +307,79 @@ Friday, 22 March 2019:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| B | **Koiidex** ![][flag_FR] | **4** | 0 | ![][flag_PL] Arkitev | [#1](https://osu.ppy.sh/community/matches/50448197) |
+| B | **Koiidex** ::{ flag=FR }:: | **4** | 0 | ::{ flag=PL }:: Arkitev | [#1](https://osu.ppy.sh/community/matches/50448197) |
 
 Saturday, 23 March 2019:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| B | - SLAYER - ![][flag_TH] | 0 | **4** | ![][flag_PL] **DaDarkDragon** | [#1](https://osu.ppy.sh/community/matches/50463854) |
-| A | Raveille ![][flag_SG] | 0 | **4** | ![][flag_GB] **Amascite** | [#1](https://osu.ppy.sh/community/matches/50464782) |
-| A | Raveille ![][flag_SG] | 1 | **4** | ![][flag_FR] **MillaMaxwelle** | [#1](https://osu.ppy.sh/community/matches/50465877) |
-| A | **MillaMaxwelle** ![][flag_FR] | **4** | 0 | ![][flag_IT] BadIsTheNewGod | [#1](https://osu.ppy.sh/community/matches/50467081) |
-| A | BadIsTheNewGod ![][flag_IT] | -1 | **0** | ![][flag_SG] **Raveille** | *win by default* |
-| A | **Amascite** ![][flag_GB] | **4** | 0 | ![][flag_FR] MillaMaxwelle | [#1](https://osu.ppy.sh/community/matches/50470177) |
-| B | Arkitev ![][flag_PL] | 2 | **4** | ![][flag_TH] **- SLAYER -** | [#1](https://osu.ppy.sh/community/matches/50473505) |
-| B | **Arkitev** ![][flag_PL] | **0** | -1 | ![][flag_PL] DaDarkDragon | *win by default* |
-| D | X\_Devil ![][flag_RU] | 0 | **4** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/50488377) |
+| B | - SLAYER - ::{ flag=TH }:: | 0 | **4** | ::{ flag=PL }:: **DaDarkDragon** | [#1](https://osu.ppy.sh/community/matches/50463854) |
+| A | Raveille ::{ flag=SG }:: | 0 | **4** | ::{ flag=GB }:: **Amascite** | [#1](https://osu.ppy.sh/community/matches/50464782) |
+| A | Raveille ::{ flag=SG }:: | 1 | **4** | ::{ flag=FR }:: **MillaMaxwelle** | [#1](https://osu.ppy.sh/community/matches/50465877) |
+| A | **MillaMaxwelle** ::{ flag=FR }:: | **4** | 0 | ::{ flag=IT }:: BadIsTheNewGod | [#1](https://osu.ppy.sh/community/matches/50467081) |
+| A | BadIsTheNewGod ::{ flag=IT }:: | -1 | **0** | ::{ flag=SG }:: **Raveille** | *win by default* |
+| A | **Amascite** ::{ flag=GB }:: | **4** | 0 | ::{ flag=FR }:: MillaMaxwelle | [#1](https://osu.ppy.sh/community/matches/50470177) |
+| B | Arkitev ::{ flag=PL }:: | 2 | **4** | ::{ flag=TH }:: **- SLAYER -** | [#1](https://osu.ppy.sh/community/matches/50473505) |
+| B | **Arkitev** ::{ flag=PL }:: | **0** | -1 | ::{ flag=PL }:: DaDarkDragon | *win by default* |
+| D | X\_Devil ::{ flag=RU }:: | 0 | **4** | ::{ flag=BR }:: **andreymc** | [#1](https://osu.ppy.sh/community/matches/50488377) |
 
 Sunday, 24 March 2019:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| D | X\_Devil ![][flag_RU] | 0 | **4** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/50488377) |
-| C | **Shiyui-** ![][flag_PH] | **0** | -1 | ![][flag_KR] wonder5193 | *win by default* |
-| C | **wonder5193** ![][flag_KR] | **4** | 0 | ![][flag_TH] RuleBlazing | [#1](https://osu.ppy.sh/community/matches/50495811) |
-| C | **RuleBlazing** ![][flag_TH] | **0** | -1 | ![][flag_PL] 8524171514518 | *win by default* |
-| D | X\_Devil ![][flag_RU] | 1 | **4** | ![][flag_BY] **mvq** | [#1](https://osu.ppy.sh/community/matches/50496802) |
-| C | 8524171514518 ![][flag_PL] | -1 | **0** | ![][flag_KR] **wonder5193** | *win by default* |
-| D | **mvq** ![][flag_BY] | **4** | 2 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/50500173) |
-| C | 8524171514518 ![][flag_PL] | -1 | **0** | ![][flag_PH] **Shiyui-** | *win by default* |
-| D | Mage ![][flag_RU] | 1 | **4** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/50501756) |
-| C | Shiyui- ![][flag_PH] | 2 | **4** | ![][flag_PL] **RuleBlazing** | [#1](https://osu.ppy.sh/community/matches/50501730) |
-| D | **Mage** ![][flag_RU] | 4 | 2 | ![][flag_RU] X\_Devil | [#1](https://osu.ppy.sh/community/matches/50504850) |
-| D | **andreymc** ![][flag_BR] | **4** | 2 | ![][flag_BY] mvq | [#1](https://osu.ppy.sh/community/matches/50504826) |
+| D | X\_Devil ::{ flag=RU }:: | 0 | **4** | ::{ flag=BR }:: **andreymc** | [#1](https://osu.ppy.sh/community/matches/50488377) |
+| C | **Shiyui-** ::{ flag=PH }:: | **0** | -1 | ::{ flag=KR }:: wonder5193 | *win by default* |
+| C | **wonder5193** ::{ flag=KR }:: | **4** | 0 | ::{ flag=TH }:: RuleBlazing | [#1](https://osu.ppy.sh/community/matches/50495811) |
+| C | **RuleBlazing** ::{ flag=TH }:: | **0** | -1 | ::{ flag=PL }:: 8524171514518 | *win by default* |
+| D | X\_Devil ::{ flag=RU }:: | 1 | **4** | ::{ flag=BY }:: **mvq** | [#1](https://osu.ppy.sh/community/matches/50496802) |
+| C | 8524171514518 ::{ flag=PL }:: | -1 | **0** | ::{ flag=KR }:: **wonder5193** | *win by default* |
+| D | **mvq** ::{ flag=BY }:: | **4** | 2 | ::{ flag=RU }:: Mage | [#1](https://osu.ppy.sh/community/matches/50500173) |
+| C | 8524171514518 ::{ flag=PL }:: | -1 | **0** | ::{ flag=PH }:: **Shiyui-** | *win by default* |
+| D | Mage ::{ flag=RU }:: | 1 | **4** | ::{ flag=BR }:: **andreymc** | [#1](https://osu.ppy.sh/community/matches/50501756) |
+| C | Shiyui- ::{ flag=PH }:: | 2 | **4** | ::{ flag=PL }:: **RuleBlazing** | [#1](https://osu.ppy.sh/community/matches/50501730) |
+| D | **Mage** ::{ flag=RU }:: | 4 | 2 | ::{ flag=RU }:: X\_Devil | [#1](https://osu.ppy.sh/community/matches/50504850) |
+| D | **andreymc** ::{ flag=BR }:: | **4** | 2 | ::{ flag=BY }:: mvq | [#1](https://osu.ppy.sh/community/matches/50504826) |
 
 Friday, 29 March 2019:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| E | **-Rem-** ![][flag_ID] | **4** | 0 | ![][flag_AU] PotassiumF | [#1](https://osu.ppy.sh/community/matches/50604149) |
-| E | DifficultIV ![][flag_TH] | -1 | **0** | ![][flag_ID] **-Rem-** | *win by default* |
+| E | **-Rem-** ::{ flag=ID }:: | **4** | 0 | ::{ flag=AU }:: PotassiumF | [#1](https://osu.ppy.sh/community/matches/50604149) |
+| E | DifficultIV ::{ flag=TH }:: | -1 | **0** | ::{ flag=ID }:: **-Rem-** | *win by default* |
 
 Saturday, 30 March 2019:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F | Lenfried- ![][flag_PH] | 1 | **4** | ![][flag_HK] **zero2snow** | [#1](https://osu.ppy.sh/community/matches/50626956) |
-| E | **PotassiumF** ![][flag_AU] | **4** | 0 | ![][flag_TH] DifficultIV | [#1](https://osu.ppy.sh/community/matches/50630712) |
-| F | **YaLTeR** ![][flag_RU] | **4** | 2 | ![][flag_PH] Lenfried- | [#1](https://osu.ppy.sh/community/matches/50630725) |
-| F | YaLTeR ![][flag_RU] | 0 | **4** | ![][flag_ID] **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/50631637) |
-| F | Lenfried- ![][flag_PH] | 0 | **4** | ![][flag_ID] **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/50632579) |
-| E | **2fast4you98** ![][flag_NL] | **4** | 3 | ![][flag_AU] PotassiumF | [#1](https://osu.ppy.sh/community/matches/50632587) |
-| G | SitekX ![][flag_PL] | 2 | **4** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/50633848) |
-| E | DifficultIV ![][flag_TH] | 1 | **4** | ![][flag_NL] **2fast4you98** | [#1](https://osu.ppy.sh/community/matches/50635299) |
-| G | **basicmaime** ![][flag_TH] | **4** | 2 | ![][flag_PL] SitekX | [#1](https://osu.ppy.sh/community/matches/50635464) |
-| E | 2fast4you98 ![][flag_NL] | 0 | **4** | ![][flag_ID] **-Rem-** | [#1](https://osu.ppy.sh/community/matches/50636168) |
-| G | **SitekX** ![][flag_PL] | **0** | -1 | ![][flag_RU] Jormungand | *win by default* |
-| B | - SLAYER - ![][flag_TH] | 0 | **4** | ![][flag_FR] **Koiidex** | [#1](https://osu.ppy.sh/community/matches/50640063) |
-| B | **DaDarkDragon** ![][flag_PL] | **4** | 0 | ![][flag_FR] Koiidex | [#1](https://osu.ppy.sh/community/matches/50641559) |
-| F | zero2snow ![][flag_HK] | -1 | **0** | ![][flag_RU] **YaLTeR** | *win by default* |
+| F | Lenfried- ::{ flag=PH }:: | 1 | **4** | ::{ flag=HK }:: **zero2snow** | [#1](https://osu.ppy.sh/community/matches/50626956) |
+| E | **PotassiumF** ::{ flag=AU }:: | **4** | 0 | ::{ flag=TH }:: DifficultIV | [#1](https://osu.ppy.sh/community/matches/50630712) |
+| F | **YaLTeR** ::{ flag=RU }:: | **4** | 2 | ::{ flag=PH }:: Lenfried- | [#1](https://osu.ppy.sh/community/matches/50630725) |
+| F | YaLTeR ::{ flag=RU }:: | 0 | **4** | ::{ flag=ID }:: **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/50631637) |
+| F | Lenfried- ::{ flag=PH }:: | 0 | **4** | ::{ flag=ID }:: **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/50632579) |
+| E | **2fast4you98** ::{ flag=NL }:: | **4** | 3 | ::{ flag=AU }:: PotassiumF | [#1](https://osu.ppy.sh/community/matches/50632587) |
+| G | SitekX ::{ flag=PL }:: | 2 | **4** | ::{ flag=KR }:: **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/50633848) |
+| E | DifficultIV ::{ flag=TH }:: | 1 | **4** | ::{ flag=NL }:: **2fast4you98** | [#1](https://osu.ppy.sh/community/matches/50635299) |
+| G | **basicmaime** ::{ flag=TH }:: | **4** | 2 | ::{ flag=PL }:: SitekX | [#1](https://osu.ppy.sh/community/matches/50635464) |
+| E | 2fast4you98 ::{ flag=NL }:: | 0 | **4** | ::{ flag=ID }:: **-Rem-** | [#1](https://osu.ppy.sh/community/matches/50636168) |
+| G | **SitekX** ::{ flag=PL }:: | **0** | -1 | ::{ flag=RU }:: Jormungand | *win by default* |
+| B | - SLAYER - ::{ flag=TH }:: | 0 | **4** | ::{ flag=FR }:: **Koiidex** | [#1](https://osu.ppy.sh/community/matches/50640063) |
+| B | **DaDarkDragon** ::{ flag=PL }:: | **4** | 0 | ::{ flag=FR }:: Koiidex | [#1](https://osu.ppy.sh/community/matches/50641559) |
+| F | zero2snow ::{ flag=HK }:: | -1 | **0** | ::{ flag=RU }:: **YaLTeR** | *win by default* |
 
 Sunday, 31 March 2019:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F | **\[Crz\]Crysarlene** ![][flag_ID] | **4** | 1 | ![][flag_HK] zero2snow | [#1](https://osu.ppy.sh/community/matches/50656905) |
-| G | NKEYBOARD ![][flag_KR] | -1 | **0** | ![][flag_TH] **basicmaime** | *win by default* |
-| H | Bentai Bosmic ![][flag_PH] | 0 | **4** | ![][flag_PH] **arge-** | [#1](https://osu.ppy.sh/community/matches/50660154) |
-| G | Jormungand ![][flag_RU] | -1 | **0** | ![][flag_KR] **NKEYBOARD** | *win by default* |
-| H | **arge-** ![][flag_PH] | **4** | 0 | ![][flag_FI] -Oreo- | [#1](https://osu.ppy.sh/community/matches/50661434) |
-| H | Bentai Bosmic ![][flag_PH] | -1 | **0** | ![][flag_FR] **AuraahDono** | *win by default* |
-| H | AuraahDono ![][flag_FR] | 2 | **4** | ![][flag_PH] **arge-** | [#1](https://osu.ppy.sh/community/matches/50662498) |
-| G | Jormungand ![][flag_RU] | -1 | **0** | ![][flag_TH] **basicmaime** | *win by default* |
-| H | **-Oreo-** ![][flag_FI] | **4** | 1 | ![][flag_PH] Bentai Bosmic | [#1](https://osu.ppy.sh/community/matches/50664267) |
-| H | -Oreo- ![][flag_FI] | 0 | **4** | ![][flag_FR] **AuraahDono** | [#1](https://osu.ppy.sh/community/matches/50666396) |
+| F | **\[Crz\]Crysarlene** ::{ flag=ID }:: | **4** | 1 | ::{ flag=HK }:: zero2snow | [#1](https://osu.ppy.sh/community/matches/50656905) |
+| G | NKEYBOARD ::{ flag=KR }:: | -1 | **0** | ::{ flag=TH }:: **basicmaime** | *win by default* |
+| H | Bentai Bosmic ::{ flag=PH }:: | 0 | **4** | ::{ flag=PH }:: **arge-** | [#1](https://osu.ppy.sh/community/matches/50660154) |
+| G | Jormungand ::{ flag=RU }:: | -1 | **0** | ::{ flag=KR }:: **NKEYBOARD** | *win by default* |
+| H | **arge-** ::{ flag=PH }:: | **4** | 0 | ::{ flag=FI }:: -Oreo- | [#1](https://osu.ppy.sh/community/matches/50661434) |
+| H | Bentai Bosmic ::{ flag=PH }:: | -1 | **0** | ::{ flag=FR }:: **AuraahDono** | *win by default* |
+| H | AuraahDono ::{ flag=FR }:: | 2 | **4** | ::{ flag=PH }:: **arge-** | [#1](https://osu.ppy.sh/community/matches/50662498) |
+| G | Jormungand ::{ flag=RU }:: | -1 | **0** | ::{ flag=TH }:: **basicmaime** | *win by default* |
+| H | **-Oreo-** ::{ flag=FI }:: | **4** | 1 | ::{ flag=PH }:: Bentai Bosmic | [#1](https://osu.ppy.sh/community/matches/50664267) |
+| H | -Oreo- ::{ flag=FI }:: | 0 | **4** | ::{ flag=FR }:: **AuraahDono** | [#1](https://osu.ppy.sh/community/matches/50666396) |
 
 ## Ruleset
 
@@ -397,25 +397,3 @@ Sunday, 31 March 2019:
     - Quaterfinals: BO9. Participants need to win 5 maps to win a match.
     - Semifinals: BO11. Participants need to win 6 maps to win a match.
     - **Finals and Grand Finals**: BO13. Participants need to win 7 maps to win a match.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

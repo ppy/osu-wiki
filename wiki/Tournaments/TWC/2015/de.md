@@ -9,7 +9,7 @@ outdated_translation: true
 
 ![TWC 2015 logo](img/logo.png)
 
-Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](https://osu.ppy.sh/groups/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist ![][flag_JP] **Japan**.
+Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](https://osu.ppy.sh/groups/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist ::{ flag=JP }:: **Japan**.
 
 ## Turnierzeitplan
 
@@ -36,11 +36,11 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 
 | Job | Person(s) |
 | :-- | :-- |
-| Turnier Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
-| Map Wähler | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
-| Streamer | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Kommentatoren | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Statistiker | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| Turnier Management | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) // ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) // ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) |
+| Map Wähler | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| Streamer | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) // ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) // ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
+| Kommentatoren | ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078) // ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistiker | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links
 
@@ -154,11 +154,3 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 3. Alle Double-Elimination Etappen finden entweder am Samstag oder am Sonntag statt.
 4. Die Zeiten der Partien werden vom Turnier Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Der Turnier Management bemüht sich die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
 5. Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Es müssen vom jeweiligen Team mindestens 3 Spieler anwesend sein, ansonsten zählt die Partie als aufgegeben.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australien"
-[flag_DE]: /wiki/shared/flag/DE.gif "Deutschland"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spanien"
-[flag_FR]: /wiki/shared/flag/FR.gif "Frankreich"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polen"
-[flag_US]: /wiki/shared/flag/US.gif "Vereinigte Staaten"

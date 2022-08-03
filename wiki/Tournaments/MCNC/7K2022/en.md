@@ -42,13 +42,13 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
-| Mappool selector | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [Madoka2574](https://osu.ppy.sh/users/8819336), ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229), ![][flag_CN] [tyrcs](https://osu.ppy.sh/users/13026904), ![][flag_BR] [Sillyfangirl](https://osu.ppy.sh/users/2288363) |
-| Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [110](https://osu.ppy.sh/users/4524921), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Edward_Tsui](https://osu.ppy.sh/users/8609627), ![][flag_CN] [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) |
-| Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
-| Referee | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [110](https://osu.ppy.sh/users/4524921), ![][flag_CN] [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Statistician | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ![][flag_CN] [Kuiiiiteeee](https://osu.ppy.sh/users/7304075),![][flag_CN] [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156)  |
+| Manager | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
+| Mappool selector | ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [Madoka2574](https://osu.ppy.sh/users/8819336), ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=BR }:: [Sillyfangirl](https://osu.ppy.sh/users/2288363) |
+| Streamer | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
+| Commentator | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) |
+| Designer | ::{ flag=CN }:: [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
+| Referee | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
+| Statistician | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Kuiiiiteeee](https://osu.ppy.sh/users/7304075),::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [Ayase Eli](https://osu.ppy.sh/users/6764156)  |
 
 ## Links
 
@@ -63,23 +63,23 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 | Seed | Player |
 | :-: | :-- |
-| #1 | ![][flag_CN] [Liangiaiajan](https://osu.ppy.sh/users/5144698) |
-| #2 | ![][flag_CN] [U1d](https://osu.ppy.sh/users/10125072) |
-| #3 | ![][flag_CN] [Krn3](https://osu.ppy.sh/users/12452291) |
-| #4 | ![][flag_TW] [IllIlllIIlIIlIl](https://osu.ppy.sh/users/7227070) |
-| #5 | ![][flag_CN] [4kGameBye](https://osu.ppy.sh/users/89545) |
-| #6 | ![][flag_CN] [My Angel Yukee7](https://osu.ppy.sh/users/9787146) |
-| #7 | ![][flag_CN] [LeartLey](https://osu.ppy.sh/users/10512663) |
-| #8 | ![][flag_CN] [Residual pain](https://osu.ppy.sh/users/8021339) |
-| #9 | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
-| #10 | ![][flag_HK] [Elton Tong](https://osu.ppy.sh/users/14885132) |
-| #11 | ![][flag_MO] [idqoos123](https://osu.ppy.sh/users/3946113) |
-| #12 | ![][flag_CN] [- xiaoluoli -](https://osu.ppy.sh/users/9502281) |
-| #13 | ![][flag_CN] [Zyuuu](https://osu.ppy.sh/users/15389275) |
-| #14 | ![][flag_CN] [Phukiir](https://osu.ppy.sh/users/4556538) |
-| #15 | ![][flag_CN] [katiexie](https://osu.ppy.sh/users/5908765) |
-| #16 | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| #17 | ![][flag_CN] [PJH165F](https://osu.ppy.sh/users/25181396) |
+| #1 | ::{ flag=CN }:: [Liangiaiajan](https://osu.ppy.sh/users/5144698) |
+| #2 | ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) |
+| #3 | ::{ flag=CN }:: [Krn3](https://osu.ppy.sh/users/12452291) |
+| #4 | ::{ flag=TW }:: [IllIlllIIlIIlIl](https://osu.ppy.sh/users/7227070) |
+| #5 | ::{ flag=CN }:: [4kGameBye](https://osu.ppy.sh/users/89545) |
+| #6 | ::{ flag=CN }:: [My Angel Yukee7](https://osu.ppy.sh/users/9787146) |
+| #7 | ::{ flag=CN }:: [LeartLey](https://osu.ppy.sh/users/10512663) |
+| #8 | ::{ flag=CN }:: [Residual pain](https://osu.ppy.sh/users/8021339) |
+| #9 | ::{ flag=CN }:: [yuwenhao1](https://osu.ppy.sh/users/14318312) |
+| #10 | ::{ flag=HK }:: [Elton Tong](https://osu.ppy.sh/users/14885132) |
+| #11 | ::{ flag=MO }:: [idqoos123](https://osu.ppy.sh/users/3946113) |
+| #12 | ::{ flag=CN }:: [- xiaoluoli -](https://osu.ppy.sh/users/9502281) |
+| #13 | ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275) |
+| #14 | ::{ flag=CN }:: [Phukiir](https://osu.ppy.sh/users/4556538) |
+| #15 | ::{ flag=CN }:: [katiexie](https://osu.ppy.sh/users/5908765) |
+| #16 | ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501) |
+| #17 | ::{ flag=CN }:: [PJH165F](https://osu.ppy.sh/users/25181396) |
 
 ## Podium
 
@@ -87,9 +87,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] [LiangIaiajan](https://osu.ppy.sh/users/5144698) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] [4kGameBye](https://osu.ppy.sh/users/89545) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [U1d](https://osu.ppy.sh/users/10125072) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: [LiangIaiajan](https://osu.ppy.sh/users/5144698) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: [4kGameBye](https://osu.ppy.sh/users/89545) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) |
 
 ## Mappools
 
@@ -349,9 +349,3 @@ The final standings for the Qualifier stage can be found at the following [sprea
 1. Each stage will be held on a single weekend (including Friday). It can be held on weekdays if both players require it, but this is not recommended.
 2. The schedule is decided by the players discussing with each other. All match times must be communicated to the Tournament Management two days prior to the actual match. If not informed, the Tournament Management will decide the match time at their own discretion. The daily schedule will be released a day beforehand.
 3. If a player needs to make a temporary change after deciding the match time, rescheduling can only be considered with the consent of both players, and the scheduled time must be set to at least one day after informing the Tournament Management.
-
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_MO]: /wiki/shared/flag/MO.gif "Macau"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"

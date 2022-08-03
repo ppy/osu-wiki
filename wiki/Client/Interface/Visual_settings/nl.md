@@ -12,7 +12,7 @@ outdated_since: acf6219ad2a73826433837b35b0fe5335a22ae8a
 
 *Opmerking: Visuele instellingen worden opgeslagen per beatmap maar zullen verloren gaan wanneer je osu! sluit. Om deze instellingen op alle beatmaps toe te passen (voor altijd) kan je het [opties](/wiki/Client/Options)-menu gebruiken.*
 
-Het is ook mogelijk om de visuele instellingen te bereiken door het spel te pauzeren. Dit werkt echter niet in [Multi](/wiki/Gameplay/Multiplayer) matches, omdat dit zal worden beschouwd als een poging om de match te beëindigen en de lobby te verlaten.
+Het is ook mogelijk om de visuele instellingen te bereiken door het spel te pauzeren. Dit werkt echter niet in [Multi](/wiki/Client/Interface/Multiplayer) matches, omdat dit zal worden beschouwd als een poging om de match te beëindigen en de lobby te verlaten.
 
 ## Instellingen
 
