@@ -10,7 +10,7 @@ tags:
 
 ![Logo de la MWC 4K 2017](img/logo.jpg)
 
-L'**osu!mania 4K World Cup 2017** (***MWC 4K 2017***) est un tournoi d'osu!mania 4 par pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de l'osu!mania 4K World Cup.
+L'**osu!mania 4K World Cup 2017** (***MWC 4K 2017***) est un tournoi d'osu!mania 4K par pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de l'osu!mania 4K World Cup.
 
 ## Calendrier du tournoi
 
@@ -93,12 +93,12 @@ L'osu!mania 4K World Cup 2017 était organisée par divers membres de la communa
 
 | Groupe | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=BR }:: Brésil | ::{ flag=PL }:: Polognee | ::{ flag=PH }:: Philippines | ::{ flag=VE }:: Venezuela |
+| **A** | ::{ flag=BR }:: Brésil | ::{ flag=PL }:: Pologne | ::{ flag=PH }:: Philippines | ::{ flag=VE }:: Venezuela |
 | **B** | ::{ flag=GB }:: Royaume-Uni | ::{ flag=MY }:: Malaisie | ::{ flag=HK }:: Hong Kong | ::{ flag=NO }:: Norvège |
-| **C** | ::{ flag=CN }:: Chine | ::{ flag=FR }:: France | ::{ flag=AU }:: Australie | ::{ flag=TW }:: Taiwan |
+| **C** | ::{ flag=CN }:: Chine | ::{ flag=FR }:: France | ::{ flag=AU }:: Australie | ::{ flag=TW }:: Taïwan |
 | **D** | ::{ flag=US }:: États-Unis | ::{ flag=AR }:: Argentine | ::{ flag=MX }:: Mexique | ::{ flag=DE }:: Allemagne |
-| **E** | ::{ flag=KR }:: Corée du Sud | ::{ flag=SE }:: Suède | ::{ flag=RU }:: Russian Federation | ::{ flag=FI }:: Finland |
-| **F** | ::{ flag=ID }:: Indonesie | ::{ flag=IT }:: Italie | ::{ flag=ES }:: Espagne | ::{ flag=NZ }:: Nouvelle-Zélande |
+| **E** | ::{ flag=KR }:: Corée du Sud | ::{ flag=SE }:: Suède | ::{ flag=RU }:: Fédération de Russie | ::{ flag=FI }:: Finlande |
+| **F** | ::{ flag=ID }:: Indonésie | ::{ flag=IT }:: Italie | ::{ flag=ES }:: Espagne | ::{ flag=NZ }:: Nouvelle-Zélande |
 | **G** | ::{ flag=JP }:: Japon | ::{ flag=CA }:: Canada | ::{ flag=CH }:: Suisse | ::{ flag=NL }:: Pays-Bas |
 | **H** | ::{ flag=CL }:: Chili | ::{ flag=TH }:: Thaïlande | ::{ flag=SG }:: Singapour | ::{ flag=BE }:: Belgique |
 
