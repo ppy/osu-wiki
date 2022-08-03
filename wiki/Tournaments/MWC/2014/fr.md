@@ -562,7 +562,7 @@ Cette compétition s'est conclue sur le podium suivant :
 3. Chaque mappool est composé d'une seule catégorie : FreeMod.
 4. Chaque mappool est composé de 10 à 14 beatmaps.
 5. Chaque mappool contient un tiebreaker
-6. La catégorie FreeMod sera joué avec le mode FreeMod activé. Chaque joueur pourra choisir [Hidden](/wiki/Game_modifier/Hidden), [Flashlight](/wiki/Game_modifier/Flashlight) ou [FadeIn](/wiki/Game_modifier/Fade_In) ou aucun mode.
+6. La catégorie FreeMod sera jouée avec les mods libres activés. Chaque joueur pourra choisir [Hidden](/wiki/Game_modifier/Hidden), [Flashlight](/wiki/Game_modifier/Flashlight) ou [FadeIn](/wiki/Game_modifier/Fade_In) ou aucun mod.
 7. Le tiebreaker sera joué sous la catégorie FreeMod.
 8. Le nombre de beatmaps FreeMod sera de :
    - 9 durant les phases de poules.
