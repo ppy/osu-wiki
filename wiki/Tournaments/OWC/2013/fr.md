@@ -6,61 +6,54 @@ tags:
 
 # osu! World Cup 2013
 
-![OWC 2013 logo](img/logo.jpg)
+![Logo de la OWC 2013](img/logo.jpg)
 
-La ***osu! World Cup 2013*** (ou **OWC 2013**, littéralement « coupe du monde d'osu! ») était la quatrième édition d'une compétition internationale annuelle où les meilleurs joueurs d'osu! du monde entier s'affrontent en équipe pour remporter la victoire et représenter leur pays.
-Cette compétition est terminée et a abouti au podium suivant :
+L'**osu! World Cup 2013** (***OWC 2013***) est un tournoi d'osu! par pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de l'osu! World Cup.
 
-| Place | Pays |
-| :-- | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=KR }:: **Corée du Sud** |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nde place") | ::{ flag=TW }:: **Taïwan** |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=PL }:: **Pologne** |
-
-![](img/badge.jpg "OWC 2013 winner badge")
-
-## Calendrier
+## Calendrier du tournoi
 
 | Évènement | Date |
-| :-- | :-- |
-| Inscription des équipes | 15 au 28 octobre 2013 |
-| Constitution des groupes | 31 octobre 2013 à 16 h 00 UTC+0 |
-| Poules | 8 au 10 novembre 2013 |
-| Huitièmes de finale | 16 et 17 novembre 2013 |
-| Quarts de finale | 23 et 24 novembre 2013 |
-| Demi-finales | 30 novembre et 1er décembre 2013 |
-| Finale et petite finale | 7 et 8 décembre 2013 |
+| --: | :-- |
+| Inscription des équipes | 15/10/2013 - 28/10/2013 |
+| Tirages au sort | 31/10/2013 (16:00 UTC) |
+| Phases de poules | 08/11/2013 - 10/11/2013 |
+| Huitièmes de finale | 16/11/2013 - 17/11/2013 |
+| Quarts de finale | 24/11/2013 |
+| Demi-finales | 30/11/2013 |
+| Finales | 07/12/2013 - 08/12/2013 |
 
-## Lots attribués
+## Récompenses
 
-Pour chaque participant :
+| Place | Récompenses |
+| :-: | :-- |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | Statut de supporter pendant 6 mois, un badge de profil unique, un trophée physique à l'effigie de l'OWC, une tablette graphique [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | Statut de supporter pendant 3 mois |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | Statut de supporter pendant 1 mois |
 
-| Place | Prix |
-| :-- | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1ère place") | Statut de supporter pendant 6 mois + un badge sur le profil + un trophée physique à l'effigie de l'OWC + une tablette graphique [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nde place") | Statut de supporter pendant 3 mois |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3ème place") | Statut de supporter pendant 1 mois |
+![](img/badge.jpg "Badge des gagnants de la OWC 2013")
 
-## Organisateurs
+## Organisation
 
-| Postes | Personnes |
+L'osu! World Cup 2013 était organisée par divers membres de la communauté.
+
+| Poste | Membre(s) |
 | :-- | :-- |
 | Direction | ::{ flag=US }:: [dkun](https://osu.ppy.sh/users/154400), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) |
-| Sélection des beatmaps | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323), ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042), ::{ flag=AR }:: [Wishy](https://osu.ppy.sh/users/495477) |
+| Sélecteurs de beatmaps | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323), ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042), ::{ flag=AR }:: [Wishy](https://osu.ppy.sh/users/495477) |
 | Retransmission des matchs |::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389), ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935), ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) |
-| Commentaires | ::{ flag=US }:: [Agnes](https://osu.ppy.sh/users/136982), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=NO }:: [kriers](https://osu.ppy.sh/users/333241), ::{ flag=AU }:: [LaVolpe024](https://osu.ppy.sh/users/597796), ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094), ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
-| Statistiques | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
+| Commentateurs | ::{ flag=US }:: [Agnes](https://osu.ppy.sh/users/136982), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=NO }:: [kriers](https://osu.ppy.sh/users/333241), ::{ flag=AU }:: [LaVolpe024](https://osu.ppy.sh/users/597796), ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094), ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
+| Statisticiens | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
-## Liens importants
+## Liens
 
-- [Topic de discussion sur le forum d'osu!](https://osu.ppy.sh/community/forums/topics/160181/start=0)
-- [Retransmission](https://www.twitch.tv/osulive/profile/pastBroadcasts)
-- [Feuille de Stats](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)
+- [Fil de discussion](https://osu.ppy.sh/community/forums/topics/160181/start=0)
+- [Diffusion en direct](https://www.twitch.tv/osulive/profile/pastBroadcasts)
+- **[Feuille de Stats](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)**
 
 ## Participants
 
-| Pays | Members |
-| :-- | :-- |
+|  | Pays | Membres |
+| --: | :-: | :-- |
 | ::{ flag=AR }:: | Argentine | **[Metro](https://osu.ppy.sh/users/306737)**, [CBA-ES-CAB](https://osu.ppy.sh/users/1875237), [druidxd](https://osu.ppy.sh/users/841441), [Fabi](https://osu.ppy.sh/users/173114), [Glazbom](https://osu.ppy.sh/users/608277), [Hernan](https://osu.ppy.sh/users/516680), [Mikumiku97](https://osu.ppy.sh/users/503749), [Salvage](https://osu.ppy.sh/users/242119) |
 | ::{ flag=AU }:: | Australie | **[JappyBabes](https://osu.ppy.sh/users/697783)**, [Bauxe](https://osu.ppy.sh/users/1881685), [flow](https://osu.ppy.sh/users/636660), [kamiyo-sama](https://osu.ppy.sh/users/557197), [Lach](https://osu.ppy.sh/users/2108620), [Melt3dCheeze](https://osu.ppy.sh/users/634837), [smoogipoo](https://osu.ppy.sh/users/1040328), [TimmyTimTims](https://osu.ppy.sh/users/1254926) |
 | ::{ flag=AT }:: | Austriche | **[Omgforz](https://osu.ppy.sh/users/578943)**, [Alumetorz](https://osu.ppy.sh/users/1145984), [Jin\_Back7](https://osu.ppy.sh/users/1238524), [M3tr01d](https://osu.ppy.sh/users/887921), [SunBurn](https://osu.ppy.sh/users/1654811), [WhitePhoenixLP](https://osu.ppy.sh/users/1426098) |
@@ -107,7 +100,7 @@ Pour chaque participant :
 | ::{ flag=TH }:: Thaïlande | ::{ flag=SE }:: Suède | ::{ flag=IT }:: Italie | ::{ flag=SG }:: Singapour |
 | ::{ flag=US }:: États-Unis | ::{ flag=GB }:: Royaume-Uni | ::{ flag=NL }:: Pays-Bas | ::{ flag=VE }:: Venezuela |
 
-![](img/bracket.jpg "OWC 2013 bracket")
+![](img/bracket.jpg "Bracket de la OWC 2013")
 
 ## Podium
 
@@ -115,11 +108,11 @@ Cette compétition s'est conclue sur le podium suivant :
 
 | Place | Équipe |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: **Corée du Sud** (**[Dungeon](https://osu.ppy.sh/users/461720)**, [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [CheEZ](https://osu.ppy.sh/users/272117), [dragonhuman](https://osu.ppy.sh/users/713266), [ffury](https://osu.ppy.sh/users/2056071), [K i R i K a R u](https://osu.ppy.sh/users/139670), [Shizuru-](https://osu.ppy.sh/users/1341421), [Tengu](https://osu.ppy.sh/users/380836)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=TW }:: **Taiwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [dabanlong](https://osu.ppy.sh/users/624254), [I will be back](https://osu.ppy.sh/users/477704), [onlyforyou](https://osu.ppy.sh/users/597858), [Rucker](https://osu.ppy.sh/users/147515), [Small K](https://osu.ppy.sh/users/952751), [SnowWhite](https://osu.ppy.sh/users/50265), [YuyuKo sama](https://osu.ppy.sh/users/234788)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PL }:: **Polande** (**[fartownik](https://osu.ppy.sh/users/56917)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [Beniek](https://osu.ppy.sh/users/1649633), [Niko](https://osu.ppy.sh/users/175141), [Piotrekol](https://osu.ppy.sh/users/304520), [rEdo](https://osu.ppy.sh/users/49329), [worst fl player](http://osu.ppy.sh/users/613592), [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=KR }:: **Corée du Sud** (**[Dungeon](https://osu.ppy.sh/users/461720)**, [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [CheEZ](https://osu.ppy.sh/users/272117), [dragonhuman](https://osu.ppy.sh/users/713266), [ffury](https://osu.ppy.sh/users/2056071), [K i R i K a R u](https://osu.ppy.sh/users/139670), [Shizuru-](https://osu.ppy.sh/users/1341421), [Tengu](https://osu.ppy.sh/users/380836)) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=TW }:: **Taiwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [dabanlong](https://osu.ppy.sh/users/624254), [I will be back](https://osu.ppy.sh/users/477704), [onlyforyou](https://osu.ppy.sh/users/597858), [Rucker](https://osu.ppy.sh/users/147515), [Small K](https://osu.ppy.sh/users/952751), [SnowWhite](https://osu.ppy.sh/users/50265), [YuyuKo sama](https://osu.ppy.sh/users/234788)) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=PL }:: **Polande** (**[fartownik](https://osu.ppy.sh/users/56917)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [Beniek](https://osu.ppy.sh/users/1649633), [Niko](https://osu.ppy.sh/users/175141), [Piotrekol](https://osu.ppy.sh/users/304520), [rEdo](https://osu.ppy.sh/users/49329), [worst fl player](http://osu.ppy.sh/users/613592), [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
 
-## Pool de maps
+## Mappools
 
 ### Finales
 
@@ -155,7 +148,7 @@ Cette compétition s'est conclue sur le podium suivant :
 - Tiebreaker
   1. **[t+pazolite feat. Rizna - Distorted Lovesong (RLC) \[Love\]](https://osu.ppy.sh/beatmapsets/81694#osu/226605)**
 
-### Semi-finales
+### Demi-finales
 
 **[Téléchargez le beatmapset ici ! (209 MB)](https://www.mediafire.com/?pn3yxce7m6v4j13)**
 
@@ -257,7 +250,7 @@ Cette compétition s'est conclue sur le podium suivant :
 - Tiebreaker
   1. **[Infected Mushroom - The Pretender (RLC) \[Pretender\]](https://osu.ppy.sh/beatmapsets/79498#osu/221777)**
 
-### Phase de groupe
+### Phases de poules
 
 **[Téléchargez le beatmapset ici ! (215 MB)](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
 
@@ -378,7 +371,7 @@ Samedi, 9 Novembre 2013:
 | **Argentine** ::{ flag=AR }:: | **4** | 0 | ::{ flag=SG }:: Singapour | [#1](https://osu.ppy.sh/community/matches/2614072) |
 | **Austriche** ::{ flag=AT }:: | **4** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/2614095) |
 | **Thaïlande** ::{ flag=TH }:: | **4** | 1 | ::{ flag=NL }:: Pays-Bas | [#1](https://osu.ppy.sh/community/matches/2618739) |
-| **Hong Kong** ::{ flag=HK }:: | **4** | 0 | ::{ flag=VE }:: Venezuela | *win by default* |
+| **Hong Kong** ::{ flag=HK }:: | **4** | 0 | ::{ flag=VE }:: Venezuela | *victoire par défaut* |
 | **Russie** ::{ flag=RU }:: | **4** | 0 | ::{ flag=EE }:: Estonie | [#1](https://osu.ppy.sh/community/matches/2617238) |
 | **États-Unis** ::{ flag=US }:: | **4** | 1 | ::{ flag=LV }:: Lettonie | [#1](https://osu.ppy.sh/community/matches/2621519) |
 | **Brésil** ::{ flag=BR }:: | **4** | 0 | ::{ flag=BG }:: Bulgarie | [#1](https://osu.ppy.sh/community/matches/2622522) |
@@ -396,7 +389,7 @@ Dimanche, 10 Novembre 2013:
 | **Japon** ::{ flag=JP }:: | **4** | 0 | ::{ flag=BE }:: Belgique | [#1](https://osu.ppy.sh/community/matches/2647505) |
 | **Chine** ::{ flag=CN }:: | **4** | 1 | ::{ flag=SE }:: Suède | [#1](https://osu.ppy.sh/community/matches/2648351) |
 | **Lettonie** ::{ flag=LV }:: | **4** | 3 | ::{ flag=IT }:: Italie | [#1](https://osu.ppy.sh/community/matches/2648523) |
-| **Taiwan** ::{ flag=TW }:: | **4** | 0 | ::{ flag=VE }:: Venezuela | *win by default* |
+| **Taiwan** ::{ flag=TW }:: | **4** | 0 | ::{ flag=VE }:: Venezuela | *victoire par défaut* |
 | Norvège ::{ flag=NO }:: | 0 | **4** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/2651081) |
 | **Pays-Bas** ::{ flag=NL }:: | **4** | 0 | ::{ flag=SG }:: Singapour | [#1](https://osu.ppy.sh/community/matches/2649765) |
 | **Thaïlande** ::{ flag=TH }:: | **4** | 0 | ::{ flag=AR }:: Argentine | [#1](https://osu.ppy.sh/community/matches/2652001) |
@@ -409,17 +402,9 @@ Dimanche, 10 Novembre 2013:
 | **Corée du Sud** ::{ flag=KR }:: | **4** | 2 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/2662493) |
 | Australie ::{ flag=AU }:: | 1 | **4** | ::{ flag=BR }:: **Brésil** | [#1](https://osu.ppy.sh/community/matches/2767400) |
 
-
 ## Règlement
 
-### Lexique
-
-- La **compétition** (le **tournoi**) est composée de plusieurs **phases**, énoncées dans la rubrique « Calendrier » du présent article,
-- Une **phase** est constituée de plusieurs **matchs** et sert à éliminer des équipes,
-- Un **match** est composé de plusieurs **parties** et aboutit à un score départageant deux équipes (exemple : France 4-2 Estonie),
-- Une **partie** est une session de jeu durant laquelle deux équipes s'affrontent sur une beatmap et dont la durée est équivalente à celle de la beatmap.
-
-### Organisation générale du tournoi
+### Règlement du tournoi
 
 1. L'OWC est une compétition d'osu! (mode standard) en 4 contre 4 faisant s'affronter des équipes nationales.
 2. Les beatmaps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
@@ -441,7 +426,7 @@ Dimanche, 10 Novembre 2013:
 14. Les imprévus sont gérés par les arbitres. La décision d'un arbitre peut être annulée par la direction.
 15. Si les présentes règles venaient à être modifiées pendant le tournoi, un communiqué officiel sera diffusé.
 
-### Inscription des équipes
+### Inscriptions au tournoi
 
 1. Chaque équipe doit être constituée au minimum de 4 joueurs.
    1. La taille d'une équipe ne peut dépasser 8 joueurs.
@@ -453,9 +438,7 @@ Dimanche, 10 Novembre 2013:
 5. 32 équipes maximum sont autorisées à participer. L'ordre des inscriptions suit la règle du « premier arrivé, premier servi ».
 6. Les membres de l'équipe de sélection des beatmaps ne sont pas autorisés à jouer.
 
-### Organisation des phases
-
-#### Poules
+### Déroulement des phases tournoi
 
 1. Les équipes sont réparties en 8 groupes de quatre durant les poules à l'aide d'un tirage au sort.
 2. Une équipe d'un groupe joue successivement contre toutes les autres équipes de son groupe.
@@ -467,15 +450,12 @@ Dimanche, 10 Novembre 2013:
    5. Éventuel second match remporté.
 4. Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
 5. Les matchs se jouent en 4 parties gagnantes. Un tiebreaker est joué si le match aboutit à 3:3.
+6. **Conditions de victoire :**
+   - Dans les phases de poules, vous devez remporter 4 beatmaps pour gagner un match. (meilleurs sur 7 beatmaps)
+   - Dans les huitièmes et quarts de finale, vous devez remporter 5 beatmaps pour gagner un match. (meilleurs sur 9 beatmaps)
+   - Dans les demi-finales et finales : semaine 1, vous devez remporter 6 beatmaps pour gagner un match. (meilleurs sur 11 beatmaps)
 
-#### Phases suivantes
-
-1. Les phases situées après les poules sont éliminatoires ; le perdant de chaque match est éliminé de la compétition.
-2. Conditions de victoire :
-   - 5 parties gagnantes durant les huitièmes et quarts de finale (un tiebreaker est joué si le match aboutit à 4:4),
-   - 6 parties gagnantes durant les demi-finales, la petite finale et la finale (un tiebreaker est joué si le match aboutit à 5:5).
-
-### Organisation des matchs
+### Instructions du match
 
 1. Une salle multijoueurs sera créée par un arbitre 30 minutes avant le début du match. Les équipes sont tenues de se rassembler durant cette période.
    1. La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyées aux capitaines des deux équipes dès que possible.
@@ -491,7 +471,7 @@ Dimanche, 10 Novembre 2013:
 5. Les capitaines doivent réaliser une capture d'écran du résultat de chaque partie. Un rappel sera fait par l'arbitre pour éviter tout oubli.
 6. Les résultats seront publiés dans le tableau officiel des résultats et statistiques (cf. rubrique « Liens importants »).
 
-### Beatmaps
+### Instructions pour les mappools
 
 1. Chaque phase se verra attribuer des beatmaps uniques.
 2. Les beatmaps seront réparties en 5 catégories : NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) et FreeMod.
@@ -506,7 +486,7 @@ Dimanche, 10 Novembre 2013:
    - 3 beatmaps durant les poules,
    - 4 beatmaps durant les autres phases.
 
-### Planification des matchs
+### Instructions sur la planification
 
 1. Chaque phase est jouée sur un seul week-end.
 2. Durant les poules, les premiers matchs sont joués le vendredi, les deuxièmes le samedi et les troisièmes le dimanche.
@@ -514,7 +494,3 @@ Dimanche, 10 Novembre 2013:
 3. Les matchs des phases suivantes sont joués soit le samedi, soit le dimanche.
 4. Les horaires des matchs sont imposés par la direction et seront diffusés le dimanche précédent le début de chaque phase. La direction fera de son mieux pour prévoir des horaires convenables pour chaque équipe en fonction de leur fuseau horaire.
 5. Les capitaines sont tenus responsables de la disponibilité de leur équipe à l'heure du match. Le choix par la direction de permettre à un capitaine de recruter 7 autres joueurs dans son équipe plutôt que 3 a été justement fait en ce sens pour lui permettre une gestion plus souple de la disponibilité de son équipe. Si un capitaine ne peut présenter une équipe de 4 joueurs à l'heure du match (en plus du délai maximal accordé), son équipe sera considérée comme ayant déclaré forfait.
-
-## Liens importants
-
-- [Topic de discussion sur le forum d'osu!](https://osu.ppy.sh/community/forums/topics/160181/start=0)
