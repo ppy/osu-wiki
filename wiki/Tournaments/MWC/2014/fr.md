@@ -18,40 +18,41 @@ L'**osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'osu!mania orga
 
 | Évènement | Date |
 | :-- | :-- |
-| Inscription des équipes | 1-20 juillet 2014 |
-| Tirages des équipes | 2 août 2014 |
-| Phase de groupes (4K) | 9-10 août 2014 |
-| Phase de groupes (7K) | 16-17 août 2014 |
-| Huitièmes de finale | 23-24 Août 2014 |
-| Quarts de finale | 31 Août |
-| Demi-finales | 7 Septembre 2014 |
-| Finale et petite finale | 14 Septembre 2014 |
+| Inscription des équipes | 01/07/2014 - 20/07/2014 |
+| Tirages au sort | 02/08/2014 |
+| Phases de poules (4K) | 09/08/2014 - 10/08/2014 |
+| Phases de poules (7K) | 16/08/2014 - 17/08/2014 |
+| Huitièmes de finale | 23/08/2014 - 24/08/2014 |
+| Quarts de finale | 31/08/2014 |
+| Demi-finales | 07/09/2014 |
+| Finales | 14/09/2014 |
 
-## Prix
+## Récompenses
 
 | Classement | Prix |
 | :-- | :-- |
 | ![Couronne en or](/wiki/shared/crown-gold.png "1er place") | 6 mois d'osu!supporter, un badge sur le profil, produits dérivés d'osu!, titre personalisé "osu!mania champion" pendant 1 an |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 3 mois d'osu!supporter |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 1 mois d'osu!supporter |
+
 ![](img/badge.jpg "Badge des gagnants de la MWC 2014")
 
 ## Organisation
 
 L'osu!mania World Cup 2014 était gérée par divers membres de la communauté.
 
-| Position | Membre(s) |
+| Poste | Membre(s) |
 | :-- | :-- |
 | Direction | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) |
-| Sélectionneur de beatmaps | ::{ flag=RU }:: [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489), ::{ flag=CL }:: [Agka](https://osu.ppy.sh/users/64811) |
+| Sélecteurs de beatmaps | ::{ flag=RU }:: [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489), ::{ flag=CL }:: [Agka](https://osu.ppy.sh/users/64811) |
 | Streamers | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665), ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
 | Commentateurs | ::{ flag=RU }:: [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489), ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000), ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078), ::{ flag=IT }:: [Roxas](https://osu.ppy.sh/users/1041833), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
-| Statistiques | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
+| Statisticiens | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Liens
 
-- [Livestream](https://www.twitch.tv/osulive)
-- [Topic de discussion](https://osu.ppy.sh/community/forums/topics/222100)
+- [Diffusion en direct](https://www.twitch.tv/osulive)
+- [Fil de discussion](https://osu.ppy.sh/community/forums/topics/222100)
 - **[Statistics sheet: Bracket 4K](https://mwc.servegame.com/results/view/1)**
 - **[Statistics sheet: Bracket 7K](https://mwc.servegame.com/results/view/2)**
 
@@ -107,7 +108,7 @@ L'osu!mania World Cup 2014 était gérée par divers membres de la communauté.
 | ::{ flag=GB }:: | **Royaume-Uni** | **[H A Y A B U S A](https://osu.ppy.sh/users/3104108)**, [Mafham](https://osu.ppy.sh/users/3660531), [The Muffin Man](https://osu.ppy.sh/users/2186171), [xWillx](https://osu.ppy.sh/users/696222) |
 | ::{ flag=US }:: | **États-Unis** | **[October Scream](https://osu.ppy.sh/users/2812237)**, [Squishykorean](https://osu.ppy.sh/users/4372604), [Blocko](https://osu.ppy.sh/users/4075092) |
 
-## Groupees
+## Groupes
 
 ### Bracket 4K
 
@@ -219,7 +220,7 @@ Cette compétition s'est conclue sur le podium suivant :
 - Tiebreaker
   1. **[Various Artists - J-Core Mix (arcwinolivirus) \[Marathon\]](https://osu.ppy.sh/beatmapsets/164429#mania/400353)**
 
-#### Phase de groupe
+#### Phases de poules
 
 - FreeMod
   1. [kors k - Insane Techniques (LeiN-) \[4K Another\]](https://osu.ppy.sh/beatmapsets/138188#mania/345760)
@@ -308,7 +309,7 @@ Cette compétition s'est conclue sur le podium suivant :
 - Tiebreaker
   1. **[ensou - COMA (Paulmrm) \[Insane\]](https://osu.ppy.sh/beatmapsets/193344#mania/459425)**
 
-#### Phase de groupes
+#### Phases de poules
 
 - FreeMod
   1. [MiddleIsland - Piano Concerto No.1 "Scream" (Lieselotte) \[LV.23\]](https://osu.ppy.sh/beatmapsets/90270#mania/245873)
@@ -363,7 +364,7 @@ Cette compétition s'est conclue sur le podium suivant :
 | Allemagne ::{ flag=DE }:: | 1 | **5** | ::{ flag=PL }:: **Pologne** | [#1](https://osu.ppy.sh/community/matches/8751265) |
 | **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=AR }:: Argentine | [#1](https://osu.ppy.sh/community/matches/8752601) |
 
-#### Phase de groupes
+#### Phases de poules
 
 | Équipe 1 |  |  | Équipe 2 | Liens des matchs |
 | --: | :-: | :-: | :-- | :-- |
@@ -446,7 +447,7 @@ Cette compétition s'est conclue sur le podium suivant :
 | **Chili** ::{ flag=CL }:: | **5** | 0 | ::{ flag=PL }:: Pologne | [#1](https://osu.ppy.sh/community/matches/8777543) |
 | **États-Unis** ::{ flag=US }:: | **5** | 4 | ::{ flag=GB }:: Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/8778916) |
 
-#### Phase de groupes
+#### Phases de poules
 
 | Équipe 1 |  |  | Équipe 2 | Liens des matchs |
 | --: | :-: | :-: | :-- | :-- |
@@ -561,7 +562,7 @@ Cette compétition s'est conclue sur le podium suivant :
 3. Chaque mappool est composé d'une seule catégorie : FreeMod.
 4. Chaque mappool est composé de 10 à 14 beatmaps.
 5. Chaque mappool contient un tiebreaker
-6. La catégorie FreeMod sera joué avec le mode FreeMod activé. Chaque joueur pourra choisir Hidden, Flashlight ou Fade-in ou aucun mode.
+6. La catégorie FreeMod sera joué avec le mode FreeMod activé. Chaque joueur pourra choisir [Hidden](/wiki/Game_modifier/Hidden), [Flashlight](/wiki/Game_modifier/Flashlight) ou [FadeIn](/wiki/Game_modifier/Fade_In) ou aucun mode.
 7. Le tiebreaker sera joué sous la catégorie FreeMod.
 8. Le nombre de beatmaps FreeMod sera de :
    - 9 durant les phases de Poules
