@@ -545,7 +545,7 @@ Cette compétition s'est conclue sur le podium suivant :
 
 ### Match Instructions
 
-1. Une salle multijoueurs sera créée par un arbitre 20 minutes avant le début du match. Les équipes sont tenues de se rassembler durant cette période.
+1. Une salle multijoueur sera créée par un arbitre 20 minutes avant le début du match. Les équipes sont tenues de se rassembler durant cette période.
    1. La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyées aux capitaines des deux équipes dès que possible.
    2. Les paramètres de la salle sont les suivants : osu!mania ; Team VS ; victoire sur score. Le nom de la salle doit suivre cette nomenclature : "MWC 2014: ÉquipeBleue vs ÉquipeRouge"
    3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
@@ -566,7 +566,7 @@ Cette compétition s'est conclue sur le podium suivant :
 7. Le tiebreaker sera joué sous la catégorie FreeMod.
 8. Le nombre de beatmaps FreeMod sera de :
    - 9 durant les phases de poules.
-   - 11 durant les huitièmes et quarts de finales
+   - 11 durant les huitièmes et quarts de finales.
    - 13 durant les demi-finales et finales.
 
 ### Planification des matchs
