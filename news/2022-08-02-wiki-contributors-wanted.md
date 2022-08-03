@@ -6,7 +6,7 @@ date: 2022-08-02 19:00:00 +0000
 
 Lore maestros! Technical aficionados! Information brokers! We seek to share any kind of knowledge in the wiki, and to translate it for every corner of the community.
 
-![](/wiki/shared/news/banners/osu-wiki.jpg)
+![](/wiki/shared/news/banners/osu-wiki.jpg?1)
 
 The [osu! wiki](/wiki/Main_Page) has seen a lot of reconstruction and development over the years. However, while the to-do list grows larger with new ideas and things to expand on, the amount of contributors has remained very small. We are therefore looking for more people to help out!
 
