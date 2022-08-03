@@ -14,7 +14,7 @@ tags:
 
 V osu!, veľkosť kruhov mení veľkosť kruhov a sliderov, kde väčšie hodnotu robia tieto objekty menšie. Spinnery nie sú afektované veľkosťou kruhov. Veľkosť kruhov sa vypočíta pomocou tohto vzorca:
 
-`r = 54.4 - 4.48 * CS`<!-- vynásobené 1.00041 na konci kvôli starším prehrávkam -->
+`r = 54.4 - 4.48 * CS`
 
 Where `r` is the radius measured in [osu!pixels](/wiki/osu!pixel), and `CS` is the circle size value.
 
@@ -36,5 +36,3 @@ Sú dva mody, ktoré môžu zmeniť veľkosť kruhov:
 
 - [Easy](/wiki/Game_modifier/Easy): Rozpolí hodnotu CS.
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock): Vynásobí hodnotu CS 1.3, na maximálnu hodnotu 10.
-
-<!--TODO: Insert links -->
