@@ -43,13 +43,13 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841) |
-| Mappool selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [Muses](https://osu.ppy.sh/users/9705896), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_MX] [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070) |
-| Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [Sonoaoi](https://osu.ppy.sh/users/9755808), ![][flag_CN] [110](https://osu.ppy.sh/users/4524921), ![][flag_CN] [\[Crz\]Mix0130](https://osu.ppy.sh/users/7215250) |
-| Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [\[Crz\]Mix0130](https://osu.ppy.sh/users/7215250) |
-| Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
-| Referee | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ![][flag_CN] [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156) |
-| Statistician | ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156), ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273) |
+| Manager | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=US }:: [dblade](https://osu.ppy.sh/users/4272841) |
+| Mappool selector | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=MX }:: [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ::{ flag=MX }:: [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070) |
+| Streamer | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [\[Crz\]Mix0130](https://osu.ppy.sh/users/7215250) |
+| Commentator | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ::{ flag=CN }:: [\[Crz\]Mix0130](https://osu.ppy.sh/users/7215250) |
+| Designer | ::{ flag=CN }:: [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
+| Referee | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ::{ flag=CN }:: [Ayase Eli](https://osu.ppy.sh/users/6764156) |
+| Statistician | ::{ flag=CN }:: [Ayase Eli](https://osu.ppy.sh/users/6764156), ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273) |
 
 ## Links
 
@@ -64,38 +64,38 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 
 | Seed | Player |
 | :-: | :-- |
-| #1 | ![][flag_CN] [- xiaoluoli -](https://osu.ppy.sh/users/9502281) |
-| #2 | ![][flag_CN] [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) |
-| #3 | ![][flag_CN] [Sillyp](https://osu.ppy.sh/users/4556538) |
-| #4 | ![][flag_CN] [gzdongsheng](https://osu.ppy.sh/users/8660315) |
-| #5 | ![][flag_CN] [gluefly](https://osu.ppy.sh/users/8715409) |
-| #6 | ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230) |
-| #7 | ![][flag_CN] [shade0214](https://osu.ppy.sh/users/14665128) |
-| #8 | ![][flag_CN] [observer233](https://osu.ppy.sh/users/15303552) |
-| #9 | ![][flag_CN] [\[Crz\]Makii](https://osu.ppy.sh/users/5242158) |
-| #10 | ![][flag_CN] [yuwenhao1](https://osu.ppy.sh/users/14318312) |
-| #11 | ![][flag_TW] [\[Rweiru\]](https://osu.ppy.sh/users/11234907) |
-| #12 | ![][flag_HK] [MCPXiaoBai](https://osu.ppy.sh/users/11259611) |
-| #13 | ![][flag_CN] [ketsuyo233](https://osu.ppy.sh/users/13844875) |
-| #14 | ![][flag_HK] [Lucas\_Kan](https://osu.ppy.sh/users/15755065) |
-| #15 | ![][flag_TW] [murorachi](https://osu.ppy.sh/users/8682905) |
-| #16 | ![][flag_CN] [\[Crz\]Liusecy](https://osu.ppy.sh/users/9082105) |
-| #17 | ![][flag_CN] [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) |
-| #18 | ![][flag_CN] [karzexcc](https://osu.ppy.sh/users/5144698) |
-| #19 | ![][flag_CN] [Molli](https://osu.ppy.sh/users/8893772) |
-| #20 | ![][flag_CN] [MsD_Mafufu](https://osu.ppy.sh/users/10884561) |
-| #21 | ![][flag_CN] [\[1552828\]](https://osu.ppy.sh/users/8208288) |
-| #22 | ![][flag_CN] [U1d](https://osu.ppy.sh/users/10125072) |
-| #23 | ![][flag_CN] [\[JbL\]Hx_032](https://osu.ppy.sh/users/11603156) |
-| #24 | ![][flag_HK] [Yana Feiya](https://osu.ppy.sh/users/7802517) |
-| #25 | ![][flag_CN] [Littlesheep37](https://osu.ppy.sh/users/14742881) |
-| #26 | ![][flag_CN] [Sern888](https://osu.ppy.sh/users/2089244) |
-| #27 | ![][flag_MO] [\[Crz\]macaoleaf](https://osu.ppy.sh/users/7082716) |
-| #28 | ![][flag_CN] [spensll](https://osu.ppy.sh/users/4547744) |
-| #29 | ![][flag_CN] [\[Paw\]Chuixing](https://osu.ppy.sh/users/14906054) |
-| #30 | ![][flag_TW] [Ha0201](https://osu.ppy.sh/users/12243730) |
-| #31 | ![][flag_TW] [Joylintp](https://osu.ppy.sh/users/13579078) |
-| #32 | ![][flag_CN] [4kGameBye](https://osu.ppy.sh/users/89545) |
+| #1 | ::{ flag=CN }:: [- xiaoluoli -](https://osu.ppy.sh/users/9502281) |
+| #2 | ::{ flag=CN }:: [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) |
+| #3 | ::{ flag=CN }:: [Sillyp](https://osu.ppy.sh/users/4556538) |
+| #4 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) |
+| #5 | ::{ flag=CN }:: [gluefly](https://osu.ppy.sh/users/8715409) |
+| #6 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) |
+| #7 | ::{ flag=CN }:: [shade0214](https://osu.ppy.sh/users/14665128) |
+| #8 | ::{ flag=CN }:: [observer233](https://osu.ppy.sh/users/15303552) |
+| #9 | ::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158) |
+| #10 | ::{ flag=CN }:: [yuwenhao1](https://osu.ppy.sh/users/14318312) |
+| #11 | ::{ flag=TW }:: [\[Rweiru\]](https://osu.ppy.sh/users/11234907) |
+| #12 | ::{ flag=HK }:: [MCPXiaoBai](https://osu.ppy.sh/users/11259611) |
+| #13 | ::{ flag=CN }:: [ketsuyo233](https://osu.ppy.sh/users/13844875) |
+| #14 | ::{ flag=HK }:: [Lucas\_Kan](https://osu.ppy.sh/users/15755065) |
+| #15 | ::{ flag=TW }:: [murorachi](https://osu.ppy.sh/users/8682905) |
+| #16 | ::{ flag=CN }:: [\[Crz\]Liusecy](https://osu.ppy.sh/users/9082105) |
+| #17 | ::{ flag=CN }:: [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) |
+| #18 | ::{ flag=CN }:: [karzexcc](https://osu.ppy.sh/users/5144698) |
+| #19 | ::{ flag=CN }:: [Molli](https://osu.ppy.sh/users/8893772) |
+| #20 | ::{ flag=CN }:: [MsD_Mafufu](https://osu.ppy.sh/users/10884561) |
+| #21 | ::{ flag=CN }:: [\[1552828\]](https://osu.ppy.sh/users/8208288) |
+| #22 | ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) |
+| #23 | ::{ flag=CN }:: [\[JbL\]Hx_032](https://osu.ppy.sh/users/11603156) |
+| #24 | ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517) |
+| #25 | ::{ flag=CN }:: [Littlesheep37](https://osu.ppy.sh/users/14742881) |
+| #26 | ::{ flag=CN }:: [Sern888](https://osu.ppy.sh/users/2089244) |
+| #27 | ::{ flag=MO }:: [\[Crz\]macaoleaf](https://osu.ppy.sh/users/7082716) |
+| #28 | ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
+| #29 | ::{ flag=CN }:: [\[Paw\]Chuixing](https://osu.ppy.sh/users/14906054) |
+| #30 | ::{ flag=TW }:: [Ha0201](https://osu.ppy.sh/users/12243730) |
+| #31 | ::{ flag=TW }:: [Joylintp](https://osu.ppy.sh/users/13579078) |
+| #32 | ::{ flag=CN }:: [4kGameBye](https://osu.ppy.sh/users/89545) |
 
 ## Groups
 
@@ -389,10 +389,3 @@ The osu!mania 4K Chinese National Cup 2021 was run by various community members.
 9. In the event of a tie during a map, the map is to be replayed. Should the map need to be replayed more than twice, then the player who selected that map may select another map with the replayed map being banned for the rest of the match. Should the pool run out of eligible maps this way, any nonbanned map may be picked again, overruling the previous rule of "maps picked cannot have been picked during the match yet".
 10. Both players are allowed to restart a map at most once due to disconnects and other technical issues if the map has not proceeded for 30 seconds or longer. Same mods and roster must be used should a restart commence. Please try to fix any and all issues as much as possible prior to the match.
 11. The referees may nullify rules at their discretion if necessary, and have the final say in what occurs during the match.
-
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_MO]: /wiki/shared/flag/MO.gif "Macau"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"

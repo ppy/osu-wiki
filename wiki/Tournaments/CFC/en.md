@@ -7,3 +7,4 @@ Index page for all of the Catch French Cup series.
 - [Catch French Intermediate Cup](CFIC_1)
 - [Catch French Cup 4](4)
 - [Catch French Intermediate Cup 2](CFIC_2)
+- [Catch French Intermediate Cup 3](CFIC_3)

@@ -42,14 +42,14 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783) |
-| Coordinator | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Marleza](https://osu.ppy.sh/users/5396181), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921) |
-| Mappool selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [-Rem-](https://osu.ppy.sh/users/5767941), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Streamer | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Commentator | ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750) |
-| Designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
-| Statistician helper | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Host | ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783) |
+| Coordinator | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [Marleza](https://osu.ppy.sh/users/5396181), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921) |
+| Mappool selector | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=ID }:: [-Rem-](https://osu.ppy.sh/users/5767941), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Referee | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
+| Streamer | ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PH }:: [LohaWarpe](https://osu.ppy.sh/users/8560810), ::{ flag=PL }:: [Miq](https://osu.ppy.sh/users/2424440), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
+| Commentator | ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750) |
+| Designer | ::{ flag=PL }:: [W D Gaster](https://osu.ppy.sh/users/1475814) |
+| Statistician helper | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links
 
@@ -62,23 +62,23 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 
 | Seed | Users |
 | :-- | :-- |
-| Top (#1 - #8) | ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_PL] [Nick Wilde](https://osu.ppy.sh/users/8550320), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Triksu](https://osu.ppy.sh/users/7233032), ![][flag_PL] [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260) |
-| High (#9 - #16) | ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Hvb3rt](https://osu.ppy.sh/users/7749033), ![][flag_PL] [arfuk0134](https://osu.ppy.sh/users/13618563), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297) |
-| Mid (#17 - #24) | ![][flag_PL] [EWGF](https://osu.ppy.sh/users/8422748), ![][flag_PL] [Felix27](https://osu.ppy.sh/users/7447943), ![][flag_PL] [PIayer69](https://osu.ppy.sh/users/10694850), ![][flag_PL] [C18-H27-NO3](https://osu.ppy.sh/users/8682644), ![][flag_PL] [Shadow Cultist](https://osu.ppy.sh/users/3827078), ![][flag_PL] [Marqez](https://osu.ppy.sh/users/9579664), ![][flag_PL] [m666](https://osu.ppy.sh/users/8623171), ![][flag_PL] [klodaa](https://osu.ppy.sh/users/10584535) |
-| Low (#25 - #32) | ![][flag_PL] [FD5GD](https://osu.ppy.sh/users/9477978), ![][flag_PL] [Kush-kun](https://osu.ppy.sh/users/9922294), ![][flag_PL] [p4v31](https://osu.ppy.sh/users/7474409), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [Kupamasla](https://osu.ppy.sh/users/9066667), ![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880), ![][flag_PL] [ricoMeister](https://osu.ppy.sh/users/9117305), ![][flag_PL] [MrBoom](https://osu.ppy.sh/users/1837989) |
+| Top (#1 - #8) | ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag=PL }:: [Nick Wilde](https://osu.ppy.sh/users/8550320), ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790), ::{ flag=PL }:: [Triksu](https://osu.ppy.sh/users/7233032), ::{ flag=PL }:: [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654), ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=PL }:: [TheFalek](https://osu.ppy.sh/users/10214260) |
+| High (#9 - #16) | ::{ flag=PL }:: [Moskas](https://osu.ppy.sh/users/1934077), ::{ flag=PL }:: [Miq](https://osu.ppy.sh/users/2424440), ::{ flag=PL }:: [Hvb3rt](https://osu.ppy.sh/users/7749033), ::{ flag=PL }:: [arfuk0134](https://osu.ppy.sh/users/13618563), ::{ flag=PL }:: [capsafangirl](https://osu.ppy.sh/users/4308015), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=PL }:: [Archaic84](https://osu.ppy.sh/users/8611177), ::{ flag=PL }:: [Justin14p](https://osu.ppy.sh/users/8461297) |
+| Mid (#17 - #24) | ::{ flag=PL }:: [EWGF](https://osu.ppy.sh/users/8422748), ::{ flag=PL }:: [Felix27](https://osu.ppy.sh/users/7447943), ::{ flag=PL }:: [PIayer69](https://osu.ppy.sh/users/10694850), ::{ flag=PL }:: [C18-H27-NO3](https://osu.ppy.sh/users/8682644), ::{ flag=PL }:: [Shadow Cultist](https://osu.ppy.sh/users/3827078), ::{ flag=PL }:: [Marqez](https://osu.ppy.sh/users/9579664), ::{ flag=PL }:: [m666](https://osu.ppy.sh/users/8623171), ::{ flag=PL }:: [klodaa](https://osu.ppy.sh/users/10584535) |
+| Low (#25 - #32) | ::{ flag=PL }:: [FD5GD](https://osu.ppy.sh/users/9477978), ::{ flag=PL }:: [Kush-kun](https://osu.ppy.sh/users/9922294), ::{ flag=PL }:: [p4v31](https://osu.ppy.sh/users/7474409), ::{ flag=PL }:: [Otis1204](https://osu.ppy.sh/users/11431349), ::{ flag=PL }:: [Kupamasla](https://osu.ppy.sh/users/9066667), ::{ flag=PL }:: [Acrith](https://osu.ppy.sh/users/389880), ::{ flag=PL }:: [ricoMeister](https://osu.ppy.sh/users/9117305), ::{ flag=PL }:: [MrBoom](https://osu.ppy.sh/users/1837989) |
 
 ## Groups
 
 | Group | Top | High | Mid | Low |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_PL] Arkitev | ![][flag_PL] capsafangirl | ![][flag_PL] EWGF | ![][flag_PL] ricoMeister |
-| **B** | ![][flag_PL] Triksu | ![][flag_PL] arfuk0134 | ![][flag_PL] Marqez | ![][flag_PL] Kush-kun |
-| **C** | ![][flag_PL] PoweR\_LendzeR | ![][flag_PL] Moskas | ![][flag_PL] C18-H27-NO3 | ![][flag_PL] Otis1204 |
-| **D** | ![][flag_PL] TheFalek | ![][flag_PL] Archaic84 | ![][flag_PL] klodaa | ![][flag_PL] p4v31 |
-| **E** | ![][flag_PL] Nick Wilde | ![][flag_PL] Eclipse- | ![][flag_PL] PIayer69 | ![][flag_PL] Kupamasla |
-| **F** | ![][flag_PL] SitekX | ![][flag_PL] Miq | ![][flag_PL] Felix27 | ![][flag_PL] Acrith |
-| **G** | ![][flag_PL] Tidek | ![][flag_PL] Hvb3rt | ![][flag_PL] Shadow Cultist | ![][flag_PL] FD5GD |
-| **H** | ![][flag_PL] \_underjoy | ![][flag_PL] Justin14p | ![][flag_PL] m666 | ![][flag_PL] MrBooM |
+| **A** | ::{ flag=PL }:: Arkitev | ::{ flag=PL }:: capsafangirl | ::{ flag=PL }:: EWGF | ::{ flag=PL }:: ricoMeister |
+| **B** | ::{ flag=PL }:: Triksu | ::{ flag=PL }:: arfuk0134 | ::{ flag=PL }:: Marqez | ::{ flag=PL }:: Kush-kun |
+| **C** | ::{ flag=PL }:: PoweR\_LendzeR | ::{ flag=PL }:: Moskas | ::{ flag=PL }:: C18-H27-NO3 | ::{ flag=PL }:: Otis1204 |
+| **D** | ::{ flag=PL }:: TheFalek | ::{ flag=PL }:: Archaic84 | ::{ flag=PL }:: klodaa | ::{ flag=PL }:: p4v31 |
+| **E** | ::{ flag=PL }:: Nick Wilde | ::{ flag=PL }:: Eclipse- | ::{ flag=PL }:: PIayer69 | ::{ flag=PL }:: Kupamasla |
+| **F** | ::{ flag=PL }:: SitekX | ::{ flag=PL }:: Miq | ::{ flag=PL }:: Felix27 | ::{ flag=PL }:: Acrith |
+| **G** | ::{ flag=PL }:: Tidek | ::{ flag=PL }:: Hvb3rt | ::{ flag=PL }:: Shadow Cultist | ::{ flag=PL }:: FD5GD |
+| **H** | ::{ flag=PL }:: \_underjoy | ::{ flag=PL }:: Justin14p | ::{ flag=PL }:: m666 | ::{ flag=PL }:: MrBooM |
 
 ## Podium
 
@@ -211,13 +211,13 @@ Saturday, 3 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **SitekX** ![][flag_PL] | **7** | 4 | ![][flag_PL] \_underjoy | [#1](https://osu.ppy.sh/community/matches/53806627) |
+| **SitekX** ::{ flag=PL }:: | **7** | 4 | ::{ flag=PL }:: \_underjoy | [#1](https://osu.ppy.sh/community/matches/53806627) |
 
 Sunday, 4 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Tidek** ![][flag_PL] | **7** | 3 | ![][flag_PL] SitekX | [#1](https://osu.ppy.sh/community/matches/53826679) |
+| **Tidek** ::{ flag=PL }:: | **7** | 3 | ::{ flag=PL }:: SitekX | [#1](https://osu.ppy.sh/community/matches/53826679) |
 
 ### Finals
 
@@ -225,15 +225,15 @@ Saturday, 27 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Arkitev ![][flag_PL] | 0 | **6** | ![][flag_PL] **Triksu** | [#1](https://osu.ppy.sh/community/matches/53638828) |
-| **\_underjoy** ![][flag_PL] | **6** | 1 | ![][flag_PL] Power\_LendzeR | [#1](https://osu.ppy.sh/community/matches/53641118) |
+| Arkitev ::{ flag=PL }:: | 0 | **6** | ::{ flag=PL }:: **Triksu** | [#1](https://osu.ppy.sh/community/matches/53638828) |
+| **\_underjoy** ::{ flag=PL }:: | **6** | 1 | ::{ flag=PL }:: Power\_LendzeR | [#1](https://osu.ppy.sh/community/matches/53641118) |
 
 Sunday, 28 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **\_underjoy** ![][flag_PL] | **6** | 0 | ![][flag_PL] Triksu | [#1](https://osu.ppy.sh/community/matches/53658627) |
-| SitekX ![][flag_PL] | 1 | **6** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/53667265) |
+| **\_underjoy** ::{ flag=PL }:: | **6** | 0 | ::{ flag=PL }:: Triksu | [#1](https://osu.ppy.sh/community/matches/53658627) |
+| SitekX ::{ flag=PL }:: | 1 | **6** | ::{ flag=PL }:: **Tidek** | [#1](https://osu.ppy.sh/community/matches/53667265) |
 
 ### Semifinals
 
@@ -241,39 +241,39 @@ Monday, 15 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **SitekX** ![][flag_PL] | **6** | 0 | ![][flag_PL] Arkitev | [#1](https://osu.ppy.sh/community/matches/53362294) |
+| **SitekX** ::{ flag=PL }:: | **6** | 0 | ::{ flag=PL }:: Arkitev | [#1](https://osu.ppy.sh/community/matches/53362294) |
 
 Tuesday, 16 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **PoweR\_LendzeR** ![][flag_PL] | **6** | 1 | ![][flag_PL] Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/53383630) |
+| **PoweR\_LendzeR** ::{ flag=PL }:: | **6** | 1 | ::{ flag=PL }:: Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/53383630) |
 
 Thrusday, 18 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **TheFalek** ![][flag_PL] | **6** | 0 | ![][flag_PL] Justin14p | *win by default* |
+| **TheFalek** ::{ flag=PL }:: | **6** | 0 | ::{ flag=PL }:: Justin14p | *win by default* |
 
 Friday, 19 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| \_underjoy ![][flag_PL] | 2 | **6** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/53451515) |
-| **PoweR\_LendzeR** ![][flag_PL] | **6** | 0 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/53453622) |
-| **Triksu** ![][flag_PL] | **6** | 1 | ![][flag_PL] Archaic84 | [#1](https://osu.ppy.sh/community/matches/53455242) |
+| \_underjoy ::{ flag=PL }:: | 2 | **6** | ::{ flag=PL }:: **Tidek** | [#1](https://osu.ppy.sh/community/matches/53451515) |
+| **PoweR\_LendzeR** ::{ flag=PL }:: | **6** | 0 | ::{ flag=PL }:: TheFalek | [#1](https://osu.ppy.sh/community/matches/53453622) |
+| **Triksu** ::{ flag=PL }:: | **6** | 1 | ::{ flag=PL }:: Archaic84 | [#1](https://osu.ppy.sh/community/matches/53455242) |
 
 Saturday, 20 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Miq ![][flag_PL] | 0 | **6** | ![][flag_PL] **arfuk0134** | [#1](https://osu.ppy.sh/community/matches/53474726) |
+| Miq ::{ flag=PL }:: | 0 | **6** | ::{ flag=PL }:: **arfuk0134** | [#1](https://osu.ppy.sh/community/matches/53474726) |
 
 Sunday, 21 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| arfuk0134 ![][flag_PL] | 0 | **6** | ![][flag_PL] **Triksu** | [#1](https://osu.ppy.sh/community/matches/53494667) |
+| arfuk0134 ::{ flag=PL }:: | 0 | **6** | ::{ flag=PL }:: **Triksu** | [#1](https://osu.ppy.sh/community/matches/53494667) |
 
 ### Quarterfinals
 
@@ -281,24 +281,24 @@ Thrusday, 11 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Archaic84** ![][flag_PL] | **5** | 2 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/53259601) |
+| **Archaic84** ::{ flag=PL }:: | **5** | 2 | ::{ flag=PL }:: Eclipse- | [#1](https://osu.ppy.sh/community/matches/53259601) |
 
 Saturday, 13 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| TheFalek ![][flag_PL] | 3 | **5** | ![][flag_PL] **Arkitev** | [#1](https://osu.ppy.sh/community/matches/53311577) |
-| Miq ![][flag_PL] | 3 | **5** | ![][flag_PL] **_underjoy** | [#1](https://osu.ppy.sh/community/matches/53312912) |
-| **SitekX** ![][flag_PL] | **5** | 0 | ![][flag_PL] PoweR\_LendzeR | [#1](https://osu.ppy.sh/community/matches/53314596) |
+| TheFalek ::{ flag=PL }:: | 3 | **5** | ::{ flag=PL }:: **Arkitev** | [#1](https://osu.ppy.sh/community/matches/53311577) |
+| Miq ::{ flag=PL }:: | 3 | **5** | ::{ flag=PL }:: **_underjoy** | [#1](https://osu.ppy.sh/community/matches/53312912) |
+| **SitekX** ::{ flag=PL }:: | **5** | 0 | ::{ flag=PL }:: PoweR\_LendzeR | [#1](https://osu.ppy.sh/community/matches/53314596) |
 
 Sunday, 14 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Kupamasla ![][flag_PL] | 0 | **5** | ![][flag_PL] **Justin14p** | [#1](https://osu.ppy.sh/community/matches/53334202) |
-| **Tidek** ![][flag_PL] | **5** | 0 | ![][flag_PL] Triksu | [#1](https://osu.ppy.sh/community/matches/53335461) |
-| **Shadow Cultist** ![][flag_PL] | **5** | 2 | ![][flag_PL] EWGF | [#1](https://osu.ppy.sh/community/matches/53336662) |
-| **arfuk0134** ![][flag_PL] | **5** | 2 | ![][flag_PL] Moskas | [#1](https://osu.ppy.sh/community/matches/53337861) |
+| Kupamasla ::{ flag=PL }:: | 0 | **5** | ::{ flag=PL }:: **Justin14p** | [#1](https://osu.ppy.sh/community/matches/53334202) |
+| **Tidek** ::{ flag=PL }:: | **5** | 0 | ::{ flag=PL }:: Triksu | [#1](https://osu.ppy.sh/community/matches/53335461) |
+| **Shadow Cultist** ::{ flag=PL }:: | **5** | 2 | ::{ flag=PL }:: EWGF | [#1](https://osu.ppy.sh/community/matches/53336662) |
+| **arfuk0134** ::{ flag=PL }:: | **5** | 2 | ::{ flag=PL }:: Moskas | [#1](https://osu.ppy.sh/community/matches/53337861) |
 
 ### Round of 16
 
@@ -306,29 +306,29 @@ Wednesday, 3 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Kupamasla ![][flag_PL] | 0 | **5** | ![][flag_PL] **Miq** | [#1](https://osu.ppy.sh/community/matches/53088382) |
+| Kupamasla ::{ flag=PL }:: | 0 | **5** | ::{ flag=PL }:: **Miq** | [#1](https://osu.ppy.sh/community/matches/53088382) |
 
 Friday, 5 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **SitekX** ![][flag_PL] | **5** | 0 | ![][flag_PL] Archaic84 | [#1](https://osu.ppy.sh/community/matches/53128644) |
-| **\_underjoy** ![][flag_PL] | **5** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/53131251) |
+| **SitekX** ::{ flag=PL }:: | **5** | 0 | ::{ flag=PL }:: Archaic84 | [#1](https://osu.ppy.sh/community/matches/53128644) |
+| **\_underjoy** ::{ flag=PL }:: | **5** | 0 | ::{ flag=PL }:: Justin14p | [#1](https://osu.ppy.sh/community/matches/53131251) |
 
 Saturday, 6 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Tidek** ![][flag_PL] | **5** | 1 | ![][flag_PL] Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/53148692) |
+| **Tidek** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/53148692) |
 
 Sunday, 7 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **PoweR\_LendzeR** ![][flag_PL] | **5** | 1 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/53173347) |
-| **Arkitev** ![][flag_PL] | **5** | 4 | ![][flag_PL] Moskas | [#1](https://osu.ppy.sh/community/matches/53174718) |
-| **TheFalek** ![][flag_PL] | **5** | 1 | ![][flag_PL] arfuk0134 | [#1](https://osu.ppy.sh/community/matches/53176156) |
-| **Triksu** ![][flag_PL] | **5** | 2 | ![][flag_PL] EWGF | [#1](https://osu.ppy.sh/community/matches/53177261) |
+| **PoweR\_LendzeR** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: Eclipse- | [#1](https://osu.ppy.sh/community/matches/53173347) |
+| **Arkitev** ::{ flag=PL }:: | **5** | 4 | ::{ flag=PL }:: Moskas | [#1](https://osu.ppy.sh/community/matches/53174718) |
+| **TheFalek** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: arfuk0134 | [#1](https://osu.ppy.sh/community/matches/53176156) |
+| **Triksu** ::{ flag=PL }:: | **5** | 2 | ::{ flag=PL }:: EWGF | [#1](https://osu.ppy.sh/community/matches/53177261) |
 
 ### Group stage
 
@@ -336,89 +336,89 @@ Friday, 21 June 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | [#1](https://osu.ppy.sh/community/matches/52796244) |
-| **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PL] Miq | [#1](https://osu.ppy.sh/community/matches/52796987) |
+| **SitekX** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Felix27 | [#1](https://osu.ppy.sh/community/matches/52796244) |
+| **SitekX** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Miq | [#1](https://osu.ppy.sh/community/matches/52796987) |
 
 Saturday, 22 June 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Tidek** ![][flag_PL] | **4** | 2 | ![][flag_PL] Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/52816728) |
-| **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Hvb3rt | *win by default* |
-| **Moskas** ![][flag_PL] | **4** | 1 | ![][flag_PL] Otis1204 | [#1](https://osu.ppy.sh/community/matches/52821555) |
-| **Triksu** ![][flag_PL] | **4** | 0 | ![][flag_PL] Kush-kun | [#1](https://osu.ppy.sh/community/matches/52823920) |
-| Nick Wilde ![][flag_PL] | 0 | **4** | ![][flag_PL] **Kupamasla** | *win by default* |
-| **Miq** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | [#1](https://osu.ppy.sh/community/matches/52825189) |
-| **PoweR\_LendzeR** ![][flag_PL] | **4** | 0 | ![][flag_PL] Moskas | [#1](https://osu.ppy.sh/community/matches/52825880) |
+| **Tidek** ::{ flag=PL }:: | **4** | 2 | ::{ flag=PL }:: Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/52816728) |
+| **Tidek** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Hvb3rt | *win by default* |
+| **Moskas** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: Otis1204 | [#1](https://osu.ppy.sh/community/matches/52821555) |
+| **Triksu** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Kush-kun | [#1](https://osu.ppy.sh/community/matches/52823920) |
+| Nick Wilde ::{ flag=PL }:: | 0 | **4** | ::{ flag=PL }:: **Kupamasla** | *win by default* |
+| **Miq** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Felix27 | [#1](https://osu.ppy.sh/community/matches/52825189) |
+| **PoweR\_LendzeR** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Moskas | [#1](https://osu.ppy.sh/community/matches/52825880) |
 
 Sunday, 23 June 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **\_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/52843927) |
-| **Tidek** ![][flag_PL] | **4** | 1 | ![][flag_PL] FD5GD | [#1](https://osu.ppy.sh/community/matches/52844767) |
-| **Marqez** ![][flag_PL] | **4** | 2 | ![][flag_PL] Kush-kun | [#1](https://osu.ppy.sh/community/matches/52847713) |
-| m666 ![][flag_PL] | 2 | **4** | ![][flag_PL] **MrBooM** | [#1](https://osu.ppy.sh/community/matches/52847977) |
-| **PoweR\_LendzeR** ![][flag_PL] | **4** | 2 | ![][flag_PL] Otis1204 | [#1](https://osu.ppy.sh/community/matches/52848713) |
-| **\_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] m666 | [#1](https://osu.ppy.sh/community/matches/52850715) |
-| Eclipse- ![][flag_PL] | 2 | **4** | ![][flag_PL] **Kupamasla** | [#1](https://osu.ppy.sh/community/matches/52851279) |
-| **Triksu** ![][flag_PL] | **4** | 0 | ![][flag_PL] Marqez | [#1](https://osu.ppy.sh/community/matches/52851621) |
-| Nick Wilde ![][flag_PL] | 0 | **4** | ![][flag_PL] **Eclipse-** | *win by default* |
-| **Justin14p** ![][flag_PL] | **4** | 2 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/52853335) |
-| **\_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/52856004) |
+| **\_underjoy** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: MrBooM | [#1](https://osu.ppy.sh/community/matches/52843927) |
+| **Tidek** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: FD5GD | [#1](https://osu.ppy.sh/community/matches/52844767) |
+| **Marqez** ::{ flag=PL }:: | **4** | 2 | ::{ flag=PL }:: Kush-kun | [#1](https://osu.ppy.sh/community/matches/52847713) |
+| m666 ::{ flag=PL }:: | 2 | **4** | ::{ flag=PL }:: **MrBooM** | [#1](https://osu.ppy.sh/community/matches/52847977) |
+| **PoweR\_LendzeR** ::{ flag=PL }:: | **4** | 2 | ::{ flag=PL }:: Otis1204 | [#1](https://osu.ppy.sh/community/matches/52848713) |
+| **\_underjoy** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: m666 | [#1](https://osu.ppy.sh/community/matches/52850715) |
+| Eclipse- ::{ flag=PL }:: | 2 | **4** | ::{ flag=PL }:: **Kupamasla** | [#1](https://osu.ppy.sh/community/matches/52851279) |
+| **Triksu** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Marqez | [#1](https://osu.ppy.sh/community/matches/52851621) |
+| Nick Wilde ::{ flag=PL }:: | 0 | **4** | ::{ flag=PL }:: **Eclipse-** | *win by default* |
+| **Justin14p** ::{ flag=PL }:: | **4** | 2 | ::{ flag=PL }:: MrBooM | [#1](https://osu.ppy.sh/community/matches/52853335) |
+| **\_underjoy** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Justin14p | [#1](https://osu.ppy.sh/community/matches/52856004) |
 
 Monday, 24 June 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Nick Wilde ![][flag_PL] | 0 | **4** | ![][flag_PL] **PIayer69** | *win by default* |
-| **Eclipse-** ![][flag_PL] | **4** | 0 | ![][flag_PL] PIayer69 | [#1](https://osu.ppy.sh/community/matches/52873996) |
+| Nick Wilde ::{ flag=PL }:: | 0 | **4** | ::{ flag=PL }:: **PIayer69** | *win by default* |
+| **Eclipse-** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: PIayer69 | [#1](https://osu.ppy.sh/community/matches/52873996) |
 
 Tuesday, 25 June 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| PIayer69 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Kupamasla** | *win by default* |
+| PIayer69 ::{ flag=PL }:: | 0 | **4** | ::{ flag=PL }:: **Kupamasla** | *win by default* |
 
 Wednesday, 26 June 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **arfuk0134** ![][flag_PL] | **4** | 1 | ![][flag_PL] Marqez | [#1](https://osu.ppy.sh/community/matches/52917859) |
-| **arfuk0134** ![][flag_PL] | **4** | 0 | ![][flag_PL] Kush-kun | [#1](https://osu.ppy.sh/community/matches/52920062) |
+| **arfuk0134** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: Marqez | [#1](https://osu.ppy.sh/community/matches/52917859) |
+| **arfuk0134** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Kush-kun | [#1](https://osu.ppy.sh/community/matches/52920062) |
 
 Friday, 28 June 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Triksu** ![][flag_PL] | **4** | 0 | ![][flag_PL] arfuk0134 | [#1](https://osu.ppy.sh/community/matches/52965551) |
-| **Moskas** ![][flag_PL] | **4** | 0 | ![][flag_PL] C18-H27-NO3 | [#1](https://osu.ppy.sh/community/matches/52965559) |
-| **Miq** ![][flag_PL] | **4** | 0 | ![][flag_PL] Acrith | [#1](https://osu.ppy.sh/community/matches/52968661) |
+| **Triksu** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: arfuk0134 | [#1](https://osu.ppy.sh/community/matches/52965551) |
+| **Moskas** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: C18-H27-NO3 | [#1](https://osu.ppy.sh/community/matches/52965559) |
+| **Miq** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Acrith | [#1](https://osu.ppy.sh/community/matches/52968661) |
 
 Saturday, 29 June 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Archaic84 | [#1](https://osu.ppy.sh/community/matches/52984457) |
-| **Archaic84** ![][flag_PL] | **4** | 2 | ![][flag_PL] p4v31 | [#1](https://osu.ppy.sh/community/matches/52985299) |
-| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] klodaa | [#1](https://osu.ppy.sh/community/matches/52986278) |
-| **Archaic84** ![][flag_PL] | **4** | 1 | ![][flag_PL] klodaa | [#1](https://osu.ppy.sh/community/matches/52987184) |
-| **Arkitev** ![][flag_PL] | **4** | 0 | ![][flag_PL] ricoMeister | [#1](https://osu.ppy.sh/community/matches/52987978) |
-| capsafangirl ![][flag_PL] | 3 | **4** | ![][flag_PL] **EWGF** | [#1](https://osu.ppy.sh/community/matches/52988926) |
-| **Arkitev** ![][flag_PL] | **4** | 0 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/52990029) |
-| **EWGF** ![][flag_PL] | **4** | 0 | ![][flag_PL] ricoMeister | [#1](https://osu.ppy.sh/community/matches/52989884) |
+| **TheFalek** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Archaic84 | [#1](https://osu.ppy.sh/community/matches/52984457) |
+| **Archaic84** ::{ flag=PL }:: | **4** | 2 | ::{ flag=PL }:: p4v31 | [#1](https://osu.ppy.sh/community/matches/52985299) |
+| **TheFalek** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: klodaa | [#1](https://osu.ppy.sh/community/matches/52986278) |
+| **Archaic84** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: klodaa | [#1](https://osu.ppy.sh/community/matches/52987184) |
+| **Arkitev** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: ricoMeister | [#1](https://osu.ppy.sh/community/matches/52987978) |
+| capsafangirl ::{ flag=PL }:: | 3 | **4** | ::{ flag=PL }:: **EWGF** | [#1](https://osu.ppy.sh/community/matches/52988926) |
+| **Arkitev** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: capsafangirl | [#1](https://osu.ppy.sh/community/matches/52990029) |
+| **EWGF** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: ricoMeister | [#1](https://osu.ppy.sh/community/matches/52989884) |
 
 Sunday, 30 June 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] p4v31 | [#1](https://osu.ppy.sh/community/matches/53008341) |
-| **C18-H27-NO3** ![][flag_PL] | **4** | 1 | ![][flag_PL] Otis1204 | [#1](https://osu.ppy.sh/community/matches/53009148) |
-| **capsafangirl** ![][flag_PL] | **4** | 0 | ![][flag_PL] ricoMeister | [#1](https://osu.ppy.sh/community/matches/53009944) |
-| Felix27 ![][flag_PL] | 2 | **4** | ![][flag_PL] **Acrith** | [#1](https://osu.ppy.sh/community/matches/53010911) |
-| Hvb3rt ![][flag_PL] | 0 | **4** | ![][flag_PL] **Shadow Cultist** | *win by default* |
-| Hvb3rt ![][flag_PL] | 0 | **4** | ![][flag_PL] **FD5GD** | *win by default* |
-| **PoweR\_LendzeR** ![][flag_PL] | **4** | 1 | ![][flag_PL] C18-H27-NO3 | [#1](https://osu.ppy.sh/community/matches/53013594) |
+| **TheFalek** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: p4v31 | [#1](https://osu.ppy.sh/community/matches/53008341) |
+| **C18-H27-NO3** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: Otis1204 | [#1](https://osu.ppy.sh/community/matches/53009148) |
+| **capsafangirl** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: ricoMeister | [#1](https://osu.ppy.sh/community/matches/53009944) |
+| Felix27 ::{ flag=PL }:: | 2 | **4** | ::{ flag=PL }:: **Acrith** | [#1](https://osu.ppy.sh/community/matches/53010911) |
+| Hvb3rt ::{ flag=PL }:: | 0 | **4** | ::{ flag=PL }:: **Shadow Cultist** | *win by default* |
+| Hvb3rt ::{ flag=PL }:: | 0 | **4** | ::{ flag=PL }:: **FD5GD** | *win by default* |
+| **PoweR\_LendzeR** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: C18-H27-NO3 | [#1](https://osu.ppy.sh/community/matches/53013594) |
 
 ### Qualifiers
 
@@ -529,9 +529,3 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in [Protocol](#protocol) will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
-
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
