@@ -6,7 +6,7 @@ tags:
 
 # osu! World Cup 2013
 
-![Logo de la OWC 2013](img/logo.jpg)
+![Logo de l'OWC 2013](img/logo.jpg)
 
 L'**osu! World Cup 2013** (***OWC 2013***) est un tournoi d'osu! par pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de l'osu! World Cup.
 
@@ -30,7 +30,7 @@ L'**osu! World Cup 2013** (***OWC 2013***) est un tournoi d'osu! par pays organi
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | Statut de supporter pendant 3 mois |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | Statut de supporter pendant 1 mois |
 
-![](img/badge.jpg "Badge des gagnants de la OWC 2013")
+![](img/badge.jpg "Badge des gagnants de l'OWC 2013")
 
 ## Organisation
 
@@ -56,7 +56,7 @@ L'osu! World Cup 2013 était organisée par divers membres de la communauté.
 | --: | :-: | :-- |
 | ::{ flag=AR }:: | Argentine | **[Metro](https://osu.ppy.sh/users/306737)**, [CBA-ES-CAB](https://osu.ppy.sh/users/1875237), [druidxd](https://osu.ppy.sh/users/841441), [Fabi](https://osu.ppy.sh/users/173114), [Glazbom](https://osu.ppy.sh/users/608277), [Hernan](https://osu.ppy.sh/users/516680), [Mikumiku97](https://osu.ppy.sh/users/503749), [Salvage](https://osu.ppy.sh/users/242119) |
 | ::{ flag=AU }:: | Australie | **[JappyBabes](https://osu.ppy.sh/users/697783)**, [Bauxe](https://osu.ppy.sh/users/1881685), [flow](https://osu.ppy.sh/users/636660), [kamiyo-sama](https://osu.ppy.sh/users/557197), [Lach](https://osu.ppy.sh/users/2108620), [Melt3dCheeze](https://osu.ppy.sh/users/634837), [smoogipoo](https://osu.ppy.sh/users/1040328), [TimmyTimTims](https://osu.ppy.sh/users/1254926) |
-| ::{ flag=AT }:: | Austriche | **[Omgforz](https://osu.ppy.sh/users/578943)**, [Alumetorz](https://osu.ppy.sh/users/1145984), [Jin\_Back7](https://osu.ppy.sh/users/1238524), [M3tr01d](https://osu.ppy.sh/users/887921), [SunBurn](https://osu.ppy.sh/users/1654811), [WhitePhoenixLP](https://osu.ppy.sh/users/1426098) |
+| ::{ flag=AT }:: | Autriche | **[Omgforz](https://osu.ppy.sh/users/578943)**, [Alumetorz](https://osu.ppy.sh/users/1145984), [Jin\_Back7](https://osu.ppy.sh/users/1238524), [M3tr01d](https://osu.ppy.sh/users/887921), [SunBurn](https://osu.ppy.sh/users/1654811), [WhitePhoenixLP](https://osu.ppy.sh/users/1426098) |
 | ::{ flag=BE }:: | Belgique | **[DrakRainbow](https://osu.ppy.sh/users/1320231)**, [GoldenWolf](https://osu.ppy.sh/users/1612624), [Sakisan](https://osu.ppy.sh/users/1011389), [larshmellow](https://osu.ppy.sh/users/2140973), [Friendzone King](https://osu.ppy.sh/users/2930903), [KinkehW](https://osu.ppy.sh/users/2064831), [Mithrane](https://osu.ppy.sh/users/839509) |
 | ::{ flag=BR }:: | Brésil | **[fabriciorby](https://osu.ppy.sh/users/209664)**, [AdRon Zh3Ro](https://osu.ppy.sh/users/150978), [antsu](https://osu.ppy.sh/users/92953), [Blue Dragon](https://osu.ppy.sh/users/19048), [Ghost Princess](https://osu.ppy.sh/users/4895448), [nouk](https://osu.ppy.sh/users/1515238), [powerstream89](https://osu.ppy.sh/users/2293274), [Shott](https://osu.ppy.sh/users/965354) |
 | ::{ flag=BG }:: | Bulgarie | **[Scrublord](https://osu.ppy.sh/users/869307)**, [Angeloid\_Alpha](https://osu.ppy.sh/users/578108), [-Arthus-](https://osu.ppy.sh/users/1869492), [b1o](https://osu.ppy.sh/users/1158340), [Defacer](https://osu.ppy.sh/users/1159024), [Hardatyou](https://osu.ppy.sh/users/2070768), [Supbads](https://osu.ppy.sh/users/2017338) |
@@ -64,7 +64,7 @@ L'osu! World Cup 2013 était organisée par divers membres de la communauté.
 | ::{ flag=CN }:: | Chine | **[Furudo\_Erika](https://osu.ppy.sh/users/169878)**, [5231\_Kinoko](https://osu.ppy.sh/users/181057), [Dsan](https://osu.ppy.sh/users/1266166), [GGBY](https://osu.ppy.sh/users/629717), [GunS\_N\_Rose](http://osu.ppy.sh/users/1349849), [InabaTewi](http://osu.ppy.sh/users/1078004), [N a n o](https://osu.ppy.sh/users/694114), [wobeinimacao](https://osu.ppy.sh/users/350723) |
 | ::{ flag=CL }:: | Chili | **[Innocent Steps](https://osu.ppy.sh/users/2233351)**, [BoopMos](https://osu.ppy.sh/users/791477), [cofla](https://osu.ppy.sh/users/12774688), [Cristian](https://osu.ppy.sh/users/194345), [Mesita](https://osu.ppy.sh/users/201459), [Neab](https://osu.ppy.sh/users/916693), [Revengexsoyah](https://osu.ppy.sh/users/123938), [SwENeMbO](https://osu.ppy.sh/users/652793) |
 | ::{ flag=EE }:: | Estonie | **[Noriko](https://osu.ppy.sh/users/1942522)**, [Kafaru](https://osu.ppy.sh/users/2281284), [MaDBoY94](https://osu.ppy.sh/users/235224), [Manzz](https://osu.ppy.sh/users/1869429), [ShinseinaTenshi](https://osu.ppy.sh/users/912518), [YellowManul](https://osu.ppy.sh/users/614413), [Yumz](https://osu.ppy.sh/users/1619062) |
-| ::{ flag=FI }:: | Finlandee | **[Soarezi](http://osu.ppy.sh/users/2097622)**, [ethox](https://osu.ppy.sh/users/441380), [fabbbyyy v2](https://osu.ppy.sh/users/1637452), [Juzaa](https://osu.ppy.sh/users/620661), [Souko](https://osu.ppy.sh/users/417431), [Subbie](https://osu.ppy.sh/users/1590138) |
+| ::{ flag=FI }:: | Finlande | **[Soarezi](http://osu.ppy.sh/users/2097622)**, [ethox](https://osu.ppy.sh/users/441380), [fabbbyyy v2](https://osu.ppy.sh/users/1637452), [Juzaa](https://osu.ppy.sh/users/620661), [Souko](https://osu.ppy.sh/users/417431), [Subbie](https://osu.ppy.sh/users/1590138) |
 | ::{ flag=FR }:: | France | **[-Kamui-](https://osu.ppy.sh/users/835808)**, [Kynan](https://osu.ppy.sh/users/1093361), [Musty](https://osu.ppy.sh/users/251683), [My Not](https://osu.ppy.sh/users/1572405), [NerO](https://osu.ppy.sh/users/1545031), [The\_badin](https://osu.ppy.sh/users/1567646), [Timal75](https://osu.ppy.sh/users/1570253), [Worne](https://osu.ppy.sh/users/1019489) |
 | ::{ flag=DE }:: | Allemagne | **[ShadowSoul](https://osu.ppy.sh/users/494970)**, [BDDav](https://osu.ppy.sh/users/1164526), [CookEasy](https://osu.ppy.sh/users/453226), [cptnXn](https://osu.ppy.sh/users/495272), [dukambe](https://osu.ppy.sh/users/880002), [Dustice](https://osu.ppy.sh/users/754565), [Imamoto](http://osu.ppy.sh/users/1201224), [Michi](https://osu.ppy.sh/users/932342) |
 | ::{ flag=HK }:: | Hong Kong | **[SiLviZ](https://osu.ppy.sh/users/1687524)**, [Akiko-](https://osu.ppy.sh/users/1226106), [auweichun](https://osu.ppy.sh/users/979729), [Fir3k0](https://osu.ppy.sh/users/1643913), [galen1922](https://osu.ppy.sh/users/745133), [HineX](https://osu.ppy.sh/users/13854), [K47](https://osu.ppy.sh/users/1730835), [Yakumo Yukarin](https://osu.ppy.sh/users/562623) |
@@ -76,12 +76,12 @@ L'osu! World Cup 2013 était organisée par divers membres de la communauté.
 | ::{ flag=NZ }:: | Nouvelle-Zélande | **[deadbeat](https://osu.ppy.sh/users/128370)**, [B O X](https://osu.ppy.sh/users/2070407), [buny](https://osu.ppy.sh/users/1488796), [Kiiwa](https://osu.ppy.sh/users/231111), [shortpotato](https://osu.ppy.sh/users/1266102), [TCN](https://osu.ppy.sh/users/1175528), [Xiipher](https://osu.ppy.sh/users/2384983) |
 | ::{ flag=NO }:: | Norvège | **[kriers](https://osu.ppy.sh/users/333241)**, [31415926535897](http://osu.ppy.sh/users/1156888), [Amedis](https://osu.ppy.sh/users/744117), [CXu](https://osu.ppy.sh/users/84841), [-GN](https://osu.ppy.sh/users/895581), [ivaz](https://osu.ppy.sh/users/496424), [KinomiCandy](https://osu.ppy.sh/users/375143), [Sniff](https://osu.ppy.sh/users/1161243) |
 | ::{ flag=PH }:: | Philippines | **[Pizzicato](http://osu.ppy.sh/users/692610)**, [\[Accelerator\]](http://osu.ppy.sh/users/1679638), [dayun10](https://osu.ppy.sh/users/570310), [-Gio](http://osu.ppy.sh/users/1795827), [Jann](https://osu.ppy.sh/users/6265774), [katayoki](https://osu.ppy.sh/users/1208491), [MioMilo](https://osu.ppy.sh/users/2199427), [Mira-san](https://osu.ppy.sh/users/1587999) |
-| ::{ flag=PL }:: | Polandee | **[fartownik](https://osu.ppy.sh/users/56917)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [Beniek](https://osu.ppy.sh/users/1649633), [Niko](https://osu.ppy.sh/users/175141), [Piotrekol](https://osu.ppy.sh/users/304520), [rEdo](https://osu.ppy.sh/users/49329), [worst fl player](http://osu.ppy.sh/users/613592), [WubWoofWolf](https://osu.ppy.sh/users/39828) |
-| ::{ flag=RU }:: | Russie | **[cr1m](http://osu.ppy.sh/users/803766)**, [Dremor](https://osu.ppy.sh/users/540407), [homu-homu-tan](https://osu.ppy.sh/users/1052037), [JuZu](https://osu.ppy.sh/users/1062960), [Kert](https://osu.ppy.sh/users/119933), [Maemi](https://osu.ppy.sh/users/1110843), [talala](https://osu.ppy.sh/users/1389663), [TheSpaceMan](http://osu.ppy.sh/users/1162734) |
+| ::{ flag=PL }:: | Pologne | **[fartownik](https://osu.ppy.sh/users/56917)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [Beniek](https://osu.ppy.sh/users/1649633), [Niko](https://osu.ppy.sh/users/175141), [Piotrekol](https://osu.ppy.sh/users/304520), [rEdo](https://osu.ppy.sh/users/49329), [worst fl player](http://osu.ppy.sh/users/613592), [WubWoofWolf](https://osu.ppy.sh/users/39828) |
+| ::{ flag=RU }:: | Fédération de Russie | **[cr1m](http://osu.ppy.sh/users/803766)**, [Dremor](https://osu.ppy.sh/users/540407), [homu-homu-tan](https://osu.ppy.sh/users/1052037), [JuZu](https://osu.ppy.sh/users/1062960), [Kert](https://osu.ppy.sh/users/119933), [Maemi](https://osu.ppy.sh/users/1110843), [talala](https://osu.ppy.sh/users/1389663), [TheSpaceMan](http://osu.ppy.sh/users/1162734) |
 | ::{ flag=SG }:: | Singapour | **[Bardiche\_Z](https://osu.ppy.sh/users/1305916)**, [Alacartx](https://osu.ppy.sh/users/1959767), [CloudNep](https://osu.ppy.sh/users/2038868), [deokoking](https://osu.ppy.sh/users/1527992), [phox](https://osu.ppy.sh/users/772295), [SenaAiriii](https://osu.ppy.sh/users/1893953), [Theseanbei](https://osu.ppy.sh/users/2044859), [Wishxrai](https://osu.ppy.sh/users/2238652) |
 | ::{ flag=KR }:: | Corée du Sud | **[Dungeon](https://osu.ppy.sh/users/461720)**, [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [CheEZ](https://osu.ppy.sh/users/272117), [dragonhuman](https://osu.ppy.sh/users/713266), [ffury](https://osu.ppy.sh/users/2056071), [K i R i K a R u](https://osu.ppy.sh/users/139670), [Shizuru-](https://osu.ppy.sh/users/1341421), [Tengu](https://osu.ppy.sh/users/380836) |
 | ::{ flag=SE }:: | Suède | **[Xytox](https://osu.ppy.sh/users/2229274)**, [Blandar](https://osu.ppy.sh/users/1410445), [Gnuu](https://osu.ppy.sh/users/914004), [Gyuunyu](https://osu.ppy.sh/users/799102), [Mayis](https://osu.ppy.sh/users/2003792), [Shilkey](https://osu.ppy.sh/users/2001716), [Shimox](https://osu.ppy.sh/users/1192387), [Slizzer](https://osu.ppy.sh/users/809983) |
-| ::{ flag=TW }:: | Taiwan | **[Uan](https://osu.ppy.sh/users/147623)**, [dabanlong](https://osu.ppy.sh/users/624254), [I will be back](https://osu.ppy.sh/users/477704), [onlyforyou](https://osu.ppy.sh/users/597858), [Rucker](https://osu.ppy.sh/users/147515), [Small K](https://osu.ppy.sh/users/952751), [SnowWhite](https://osu.ppy.sh/users/50265), [YuyuKo sama](https://osu.ppy.sh/users/234788) |
+| ::{ flag=TW }:: | Taïwan | **[Uan](https://osu.ppy.sh/users/147623)**, [dabanlong](https://osu.ppy.sh/users/624254), [I will be back](https://osu.ppy.sh/users/477704), [onlyforyou](https://osu.ppy.sh/users/597858), [Rucker](https://osu.ppy.sh/users/147515), [Small K](https://osu.ppy.sh/users/952751), [SnowWhite](https://osu.ppy.sh/users/50265), [YuyuKo sama](https://osu.ppy.sh/users/234788) |
 | ::{ flag=TH }:: | Thaïlande | **[NonxE](https://osu.ppy.sh/users/319312)**, [0OoMickeyoO0](https://osu.ppy.sh/users/317494), [Cint](https://osu.ppy.sh/users/889331), [Frostmourne](https://osu.ppy.sh/users/199669), [Neolution](https://osu.ppy.sh/users/1592782), [Popo\[Mikoto\]](https://osu.ppy.sh/users/445236) |
 | ::{ flag=GB }:: | Royaume-Uni | **[jesus1412](https://osu.ppy.sh/users/230116)**, [bubby963](https://osu.ppy.sh/users/1050426), [Charleyzard](https://osu.ppy.sh/users/1062584), [Doomsday](https://osu.ppy.sh/users/18983), [iLikeMudkipz](https://osu.ppy.sh/users/552515), [Navi](https://osu.ppy.sh/users/926304), [R a h a r u](https://osu.ppy.sh/users/785193), [Starry-](https://osu.ppy.sh/users/2166199) |
 | ::{ flag=US }:: | États-Unis | **[Kaoru](https://osu.ppy.sh/users/492699)**, [Floks](https://osu.ppy.sh/users/1146469), [Kyou-kun](https://osu.ppy.sh/users/285711), [pielak213](https://osu.ppy.sh/users/310455), [pooptartsonas](https://osu.ppy.sh/users/1334453), [SapphireGhost](https://osu.ppy.sh/users/388602), [Silynn](https://osu.ppy.sh/users/1171628), [Thatgooey](https://osu.ppy.sh/users/1200113) |
@@ -92,15 +92,15 @@ L'osu! World Cup 2013 était organisée par divers membres de la communauté.
 | Top seed | High seed | Mid seed | Low seed |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=CN }:: Chine | ::{ flag=AR }:: Argentine | ::{ flag=AU }:: Australie | ::{ flag=BE }:: Belgique |
-| ::{ flag=DE }:: Allemagne | ::{ flag=BR }:: Brésil | ::{ flag=AT }:: Austriche | ::{ flag=BG }:: Bulgarie |
+| ::{ flag=DE }:: Allemagne | ::{ flag=BR }:: Brésil | ::{ flag=AT }:: Autriche | ::{ flag=BG }:: Bulgarie |
 | ::{ flag=JP }:: Japon | ::{ flag=HK }:: Hong Kong | ::{ flag=CA }:: Canada | ::{ flag=CL }:: Chili |
 | ::{ flag=KR }:: Corée du Sud | ::{ flag=LV }:: Lettonie | ::{ flag=FI }:: Finlande | ::{ flag=EE }:: Estonie |
-| ::{ flag=PL }:: Polande | ::{ flag=NO }:: Norvège | ::{ flag=FR }:: France | ::{ flag=NZ }:: Nouvelle-Zélande |
-| ::{ flag=TW }:: Taiwan | ::{ flag=RU }:: Russie | ::{ flag=ID }:: Indonésie | ::{ flag=PH }:: Philippines |
+| ::{ flag=PL }:: Pologne | ::{ flag=NO }:: Norvège | ::{ flag=FR }:: France | ::{ flag=NZ }:: Nouvelle-Zélande |
+| ::{ flag=TW }:: Taïwan | ::{ flag=RU }:: Fédération de Russie | ::{ flag=ID }:: Indonésie | ::{ flag=PH }:: Philippines |
 | ::{ flag=TH }:: Thaïlande | ::{ flag=SE }:: Suède | ::{ flag=IT }:: Italie | ::{ flag=SG }:: Singapour |
 | ::{ flag=US }:: États-Unis | ::{ flag=GB }:: Royaume-Uni | ::{ flag=NL }:: Pays-Bas | ::{ flag=VE }:: Venezuela |
 
-![](img/bracket.jpg "Bracket de la OWC 2013")
+![](img/bracket.jpg "Bracket de l'OWC 2013")
 
 ## Podium
 
@@ -109,18 +109,18 @@ Cette compétition s'est conclue sur le podium suivant :
 | Place | Équipe |
 | :-: | :-- |
 | ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=KR }:: **Corée du Sud** (**[Dungeon](https://osu.ppy.sh/users/461720)**, [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [CheEZ](https://osu.ppy.sh/users/272117), [dragonhuman](https://osu.ppy.sh/users/713266), [ffury](https://osu.ppy.sh/users/2056071), [K i R i K a R u](https://osu.ppy.sh/users/139670), [Shizuru-](https://osu.ppy.sh/users/1341421), [Tengu](https://osu.ppy.sh/users/380836)) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=TW }:: **Taiwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [dabanlong](https://osu.ppy.sh/users/624254), [I will be back](https://osu.ppy.sh/users/477704), [onlyforyou](https://osu.ppy.sh/users/597858), [Rucker](https://osu.ppy.sh/users/147515), [Small K](https://osu.ppy.sh/users/952751), [SnowWhite](https://osu.ppy.sh/users/50265), [YuyuKo sama](https://osu.ppy.sh/users/234788)) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=PL }:: **Polande** (**[fartownik](https://osu.ppy.sh/users/56917)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [Beniek](https://osu.ppy.sh/users/1649633), [Niko](https://osu.ppy.sh/users/175141), [Piotrekol](https://osu.ppy.sh/users/304520), [rEdo](https://osu.ppy.sh/users/49329), [worst fl player](http://osu.ppy.sh/users/613592), [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=TW }:: **Taïwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [dabanlong](https://osu.ppy.sh/users/624254), [I will be back](https://osu.ppy.sh/users/477704), [onlyforyou](https://osu.ppy.sh/users/597858), [Rucker](https://osu.ppy.sh/users/147515), [Small K](https://osu.ppy.sh/users/952751), [SnowWhite](https://osu.ppy.sh/users/50265), [YuyuKo sama](https://osu.ppy.sh/users/234788)) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=PL }:: **Pologne** (**[fartownik](https://osu.ppy.sh/users/56917)**, [AmaiHachimitsu](https://osu.ppy.sh/users/844815), [Beniek](https://osu.ppy.sh/users/1649633), [Niko](https://osu.ppy.sh/users/175141), [Piotrekol](https://osu.ppy.sh/users/304520), [rEdo](https://osu.ppy.sh/users/49329), [worst fl player](http://osu.ppy.sh/users/613592), [WubWoofWolf](https://osu.ppy.sh/users/39828)) |
 
 ## Mappools
 
 ### Finales
 
-**[Téléchargez le beatmapset ici ! (194 MB)](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
+**[Téléchargez le pack de beatmaps ici ! (194 MB)](https://www.mediafire.com/download/igx08rvp8g5502v/Final%20Map%20Pool.rar)**
 
 - NoMod
   1. [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](https://osu.ppy.sh/beatmapsets/44519#osu/142239)
-  2. [O-Life Japon - Yakujinsama no Couple Dance (AngelHoney) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/16990#osu/95954)
+  2. [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/16990#osu/95954)
   3. [RYO - Shuffle Heaven (Nemis) \[eXtra\]](https://osu.ppy.sh/beatmapsets/85802#osu/235470)
   4. [AU - Infinite of Nuclear Fusion (OnosakiHito) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/35211#osu/291285)
   5. [Neru - Ningen Shikkaku (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/86983#osu/237848)
@@ -150,7 +150,7 @@ Cette compétition s'est conclue sur le podium suivant :
 
 ### Demi-finales
 
-**[Téléchargez le beatmapset ici ! (209 MB)](https://www.mediafire.com/?pn3yxce7m6v4j13)**
+**[Téléchargez le pack de beatmaps ici ! (209 MB)](https://www.mediafire.com/?pn3yxce7m6v4j13)**
 
 - NoMod
   1. [CON - Cruel Clocks (Amamiya Yuko) \[Skystar\]](https://osu.ppy.sh/beatmapsets/76882#osu/216272)
@@ -184,7 +184,7 @@ Cette compétition s'est conclue sur le podium suivant :
 
 ### Quarts de finale
 
-**[Téléchargez le beatmapset ici ! (184 MB)](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
+**[Téléchargez le pack de beatmaps ici ! (184 MB)](https://www.mediafire.com/download/i2umf8lrethjzoj/Quarter-finals.rar)**
 
 - NoMod
   1. [xi - Time files (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/49843#osu/153484)
@@ -218,7 +218,7 @@ Cette compétition s'est conclue sur le podium suivant :
 
 ### Huitièmes de finale
 
-**[Téléchargez le beatmapset ici ! (143 MB)](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
+**[Téléchargez le pack de beatmaps ici ! (143 MB)](https://www.mediafire.com/download/e62iav4kb90981b/Round_of_16_Pack.rar)**
 
 - NoMod
   1. [DECO\*27 feat. marina - Aimai Elegy (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/43248#osu/135804)
@@ -252,7 +252,7 @@ Cette compétition s'est conclue sur le podium suivant :
 
 ### Phases de poules
 
-**[Téléchargez le beatmapset ici ! (215 MB)](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
+**[Téléchargez le pack de beatmaps ici ! (215 MB)](https://www.mediafire.com/?jn0c8p6wqfrtfhb)**
 
 - NoMod
   1. [Mikami Shiori & Ookubo Rumi - Onna to Onna no Yuri-Game (eg91022a71w) \[YuruYuri\]](https://osu.ppy.sh/beatmapsets/45316#osu/153418)
@@ -288,72 +288,72 @@ Cette compétition s'est conclue sur le podium suivant :
 
 ### Finales
 
-Samedi, 7 Décembre 2013:
+Samedi 7 décembre 2013 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| **Corée du Sud** ::{ flag=KR }:: | **6** | 5 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/3233030) |
+| **Corée du Sud** ::{ flag=KR }:: | **6** | 5 | ::{ flag=TW }:: Taïwan | [#1](https://osu.ppy.sh/community/matches/3233030) |
 
-Dimanche, 8 Décembre 2013:
+Dimanche 8 décembre 2013 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| Royaume-Uni ::{ flag=GB }:: | 1 | **6** | ::{ flag=PL }:: **Polande** | [#1](https://osu.ppy.sh/community/matches/3272199) |
+| Royaume-Uni ::{ flag=GB }:: | 1 | **6** | ::{ flag=PL }:: **Pologne** | [#1](https://osu.ppy.sh/community/matches/3272199) |
 
 ### Semi-finales
 
-Samedi, 30 Novembre 2013:
+Samedi 30 novembre 2013 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Corée du Sud** ::{ flag=KR }:: | **6** | 1 | ::{ flag=GB }:: Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/3088440) |
-| **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=PL }:: Polande | [#1](https://osu.ppy.sh/community/matches/3091169) |
+| **Taïwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=PL }:: Pologne | [#1](https://osu.ppy.sh/community/matches/3091169) |
 
 ### Quarts de finale
 
-Dimanche, 24 Novembre 2013:
+Dimanche 24 novembre 2013 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| Japon ::{ flag=JP }:: | 2 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/2962477) |
-| **Corée du Sud** ::{ flag=KR }:: | **5** | 2 | ::{ flag=AT }:: Austriche | [#1](https://osu.ppy.sh/community/matches/2964278) |
-| Chine ::{ flag=CN }:: | 4 | **5** | ::{ flag=PL }:: **Polande** | [#1](https://osu.ppy.sh/community/matches/2966197) |
+| Japon ::{ flag=JP }:: | 2 | **5** | ::{ flag=TW }:: **Taïwan** | [#1](https://osu.ppy.sh/community/matches/2962477) |
+| **Corée du Sud** ::{ flag=KR }:: | **5** | 2 | ::{ flag=AT }:: Autriche | [#1](https://osu.ppy.sh/community/matches/2964278) |
+| Chine ::{ flag=CN }:: | 4 | **5** | ::{ flag=PL }:: **Pologne** | [#1](https://osu.ppy.sh/community/matches/2966197) |
 | **Royaume-Uni** ::{ flag=GB }:: | **5** | 3 | ::{ flag=DE }:: Allemagne | [#1](https://osu.ppy.sh/community/matches/2969031) |
 
 ### Huitièmes de finale
 
-Samedi, 16 Novembre 2013:
+Samedi 16 novembre 2013 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| **Corée du Sud** ::{ flag=KR }:: | **5** | 0 | ::{ flag=RU }:: Russie | [#1](https://osu.ppy.sh/community/matches/2778204) |
+| **Corée du Sud** ::{ flag=KR }:: | **5** | 0 | ::{ flag=RU }:: Fédération de Russie | [#1](https://osu.ppy.sh/community/matches/2778204) |
 | Hong Kong ::{ flag=HK }:: | 3 | **5** | ::{ flag=DE }:: **Allemagne** | [#1](https://osu.ppy.sh/community/matches/2780657) |
 | **Royaume-Uni** ::{ flag=GB }:: | **5** | 1 | ::{ flag=TH }:: Thaïlande | [#1](https://osu.ppy.sh/community/matches/2783657) |
 
-Dimanche, 17 Novembre 2013:
+Dimanche 17 novembre 2013 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Chine** ::{ flag=CN }:: | **5** | 2 | ::{ flag=US }:: États-Unis | [#1](https://osu.ppy.sh/community/matches/2805329) |
 | **Japon** ::{ flag=JP }:: | **5** | 1 | ::{ flag=NL }:: Pays-Bas | [#1](https://osu.ppy.sh/community/matches/2811659) |
-| **Taiwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=BR }:: Brésil | [#1](https://osu.ppy.sh/community/matches/2814063) |
-| France ::{ flag=FR }:: | 4 | **5** | ::{ flag=PL }:: **Polande** | [#1](https://osu.ppy.sh/community/matches/2817324) |
-| **Austriche** ::{ flag=AT }:: | **5** | 0 | ::{ flag=LV }:: Lettonie | [#1](https://osu.ppy.sh/community/matches/2820030) |
+| **Taïwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=BR }:: Brésil | [#1](https://osu.ppy.sh/community/matches/2814063) |
+| France ::{ flag=FR }:: | 4 | **5** | ::{ flag=PL }:: **Pologne** | [#1](https://osu.ppy.sh/community/matches/2817324) |
+| **Autriche** ::{ flag=AT }:: | **5** | 0 | ::{ flag=LV }:: Lettonie | [#1](https://osu.ppy.sh/community/matches/2820030) |
 
 ### Phase de groupe
 
-Vendredi, 8 Novembre 2013:
+Vendredi 8 novembre 2013 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| **Taiwan** ::{ flag=TW }:: | **4** | 0 | ::{ flag=ID }:: Indonésie | [#1](https://osu.ppy.sh/community/matches/2581408) |
-| **Polande** ::{ flag=PL }:: | **4** | 0 | ::{ flag=RU }:: Russie | [#1](https://osu.ppy.sh/community/matches/2587307) |
+| **Taïwan** ::{ flag=TW }:: | **4** | 0 | ::{ flag=ID }:: Indonésie | [#1](https://osu.ppy.sh/community/matches/2581408) |
+| **Pologne** ::{ flag=PL }:: | **4** | 0 | ::{ flag=RU }:: Fédération de Russie | [#1](https://osu.ppy.sh/community/matches/2587307) |
 | **Finlande** ::{ flag=FI }:: | **4** | 0 | ::{ flag=EE }:: Estonie | [#1](https://osu.ppy.sh/community/matches/2588205) |
 | **Allemagne** ::{ flag=DE }:: | **4** | 1 | ::{ flag=BR }:: Brésil | [#1](https://osu.ppy.sh/community/matches/2589515) |
 | **Royaume-Uni** ::{ flag=GB }:: | **4** | 1 | ::{ flag=BE }:: Belgique | [#1](https://osu.ppy.sh/community/matches/2590563) |
 | Argentine ::{ flag=AR }:: | 2 | **4** | ::{ flag=NL }:: **Pays-Bas** | [#1](https://osu.ppy.sh/community/matches/2592453) |
 
-Samedi, 9 Novembre 2013:
+Samedi 9 novembre 2013 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -363,21 +363,21 @@ Samedi, 9 Novembre 2013:
 | **Lettonie** ::{ flag=LV }:: | **4** | 0 | ::{ flag=NZ }:: Nouvelle-Zélande | [#1](https://osu.ppy.sh/community/matches/2606800) |
 | **Suède** ::{ flag=SE }:: | **4** | 3 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/2606823) |
 | **Allemagne** ::{ flag=DE }:: | **4** | 0 | ::{ flag=AU }:: Australie | [#1](https://osu.ppy.sh/community/matches/2608440), [#2](https://osu.ppy.sh/community/matches/2607511) |
-| Chine ::{ flag=CN }:: | 3 | **4** | ::{ flag=AT }:: **Austriche** | [#1](https://osu.ppy.sh/community/matches/2607534), [#2](https://osu.ppy.sh/community/matches/2608373) |
-| **Taiwan** ::{ flag=TW }:: | **4** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/2609074) |
+| Chine ::{ flag=CN }:: | 3 | **4** | ::{ flag=AT }:: **Autriche** | [#1](https://osu.ppy.sh/community/matches/2607534), [#2](https://osu.ppy.sh/community/matches/2608373) |
+| **Taïwan** ::{ flag=TW }:: | **4** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/2609074) |
 | **Japon** ::{ flag=JP }:: | **4** | 0 | ::{ flag=GB }:: Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/2609048) |
 | **Corée du Sud** ::{ flag=KR }:: | **4** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/2610159), [#2](https://osu.ppy.sh/community/matches/2612373) |
 | **Norvège** ::{ flag=NO }:: | **4** | 1 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/2612443) |
 | **Argentine** ::{ flag=AR }:: | **4** | 0 | ::{ flag=SG }:: Singapour | [#1](https://osu.ppy.sh/community/matches/2614072) |
-| **Austriche** ::{ flag=AT }:: | **4** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/2614095) |
+| **Autriche** ::{ flag=AT }:: | **4** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/2614095) |
 | **Thaïlande** ::{ flag=TH }:: | **4** | 1 | ::{ flag=NL }:: Pays-Bas | [#1](https://osu.ppy.sh/community/matches/2618739) |
 | **Hong Kong** ::{ flag=HK }:: | **4** | 0 | ::{ flag=VE }:: Venezuela | *victoire par défaut* |
-| **Russie** ::{ flag=RU }:: | **4** | 0 | ::{ flag=EE }:: Estonie | [#1](https://osu.ppy.sh/community/matches/2617238) |
+| **Fédération de Russie** ::{ flag=RU }:: | **4** | 0 | ::{ flag=EE }:: Estonie | [#1](https://osu.ppy.sh/community/matches/2617238) |
 | **États-Unis** ::{ flag=US }:: | **4** | 1 | ::{ flag=LV }:: Lettonie | [#1](https://osu.ppy.sh/community/matches/2621519) |
 | **Brésil** ::{ flag=BR }:: | **4** | 0 | ::{ flag=BG }:: Bulgarie | [#1](https://osu.ppy.sh/community/matches/2622522) |
-| **Polande** ::{ flag=PL }:: | **4** | 0 | ::{ flag=FI }:: Finlande | [#1](https://osu.ppy.sh/community/matches/2624015) |
+| **Pologne** ::{ flag=PL }:: | **4** | 0 | ::{ flag=FI }:: Finlande | [#1](https://osu.ppy.sh/community/matches/2624015) |
 
-Dimanche, 10 Novembre 2013:
+Dimanche 10 novembre 2013 :
 
 | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
@@ -389,16 +389,16 @@ Dimanche, 10 Novembre 2013:
 | **Japon** ::{ flag=JP }:: | **4** | 0 | ::{ flag=BE }:: Belgique | [#1](https://osu.ppy.sh/community/matches/2647505) |
 | **Chine** ::{ flag=CN }:: | **4** | 1 | ::{ flag=SE }:: Suède | [#1](https://osu.ppy.sh/community/matches/2648351) |
 | **Lettonie** ::{ flag=LV }:: | **4** | 3 | ::{ flag=IT }:: Italie | [#1](https://osu.ppy.sh/community/matches/2648523) |
-| **Taiwan** ::{ flag=TW }:: | **4** | 0 | ::{ flag=VE }:: Venezuela | *victoire par défaut* |
+| **Taïwan** ::{ flag=TW }:: | **4** | 0 | ::{ flag=VE }:: Venezuela | *victoire par défaut* |
 | Norvège ::{ flag=NO }:: | 0 | **4** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/2651081) |
 | **Pays-Bas** ::{ flag=NL }:: | **4** | 0 | ::{ flag=SG }:: Singapour | [#1](https://osu.ppy.sh/community/matches/2649765) |
 | **Thaïlande** ::{ flag=TH }:: | **4** | 0 | ::{ flag=AR }:: Argentine | [#1](https://osu.ppy.sh/community/matches/2652001) |
-| **Russie** ::{ flag=RU }:: | **4** | 0 | ::{ flag=FI }:: Finlande | [#1](https://osu.ppy.sh/community/matches/2653645) |
+| **Fédération de Russie** ::{ flag=RU }:: | **4** | 0 | ::{ flag=FI }:: Finlande | [#1](https://osu.ppy.sh/community/matches/2653645) |
 | **Allemagne** ::{ flag=DE }:: | **4** | 0 | ::{ flag=BG }:: Bulgarie | [#1](https://osu.ppy.sh/community/matches/2655599) |
-| **Polande** ::{ flag=PL }:: | **4** | 0 | ::{ flag=EE }:: Estonie | [#1](https://osu.ppy.sh/community/matches/2656900) |
+| **Pologne** ::{ flag=PL }:: | **4** | 0 | ::{ flag=EE }:: Estonie | [#1](https://osu.ppy.sh/community/matches/2656900) |
 | **France** ::{ flag=FR }:: | **4** | 1 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/2660496) |
 | **Royaume-Uni** ::{ flag=GB }:: | **4** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/2660446) |
-| Suède ::{ flag=SE }:: | 2 | **4** | ::{ flag=AT }:: **Austriche** | [#1](https://osu.ppy.sh/community/matches/2661584) |
+| Suède ::{ flag=SE }:: | 2 | **4** | ::{ flag=AT }:: **Autriche** | [#1](https://osu.ppy.sh/community/matches/2661584) |
 | **Corée du Sud** ::{ flag=KR }:: | **4** | 2 | ::{ flag=CL }:: Chili | [#1](https://osu.ppy.sh/community/matches/2662493) |
 | Australie ::{ flag=AU }:: | 1 | **4** | ::{ flag=BR }:: **Brésil** | [#1](https://osu.ppy.sh/community/matches/2767400) |
 
@@ -406,7 +406,7 @@ Dimanche, 10 Novembre 2013:
 
 ### Règlement du tournoi
 
-1. L'OWC est une compétition d'osu! (mode standard) en 4 contre 4 faisant s'affronter des équipes nationales.
+1. L'OWC est une compétition d'osu! en 4 contre 4 faisant s'affronter des équipes nationales.
 2. Les beatmaps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
    - Une beatmap, le *tiebreaker*, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
    - Certaines beatmaps, regroupées en catégories, se verront imposer des mods : [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) et [DoubleTime](/wiki/Game_modifier/Double_Time). Une catégorie FreeMod sera également mise à la disposition des joueurs (plus de détails dans la rubrique « Beatmaps »).
@@ -451,14 +451,14 @@ Dimanche, 10 Novembre 2013:
 4. Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
 5. Les matchs se jouent en 4 parties gagnantes. Un tiebreaker est joué si le match aboutit à 3:3.
 6. **Conditions de victoire :**
-   - Dans les phases de poules, vous devez remporter 4 beatmaps pour gagner un match. (meilleurs sur 7 beatmaps)
-   - Dans les huitièmes et quarts de finale, vous devez remporter 5 beatmaps pour gagner un match. (meilleurs sur 9 beatmaps)
-   - Dans les demi-finales et finales : semaine 1, vous devez remporter 6 beatmaps pour gagner un match. (meilleurs sur 11 beatmaps)
+   - Dans les phases de poules, vous devez remporter 4 beatmaps pour gagner un match. (Best-of-7)
+   - Dans les huitièmes et quarts de finale, vous devez remporter 5 beatmaps pour gagner un match. (Best-of-9)
+   - Dans les demi-finales et finales : semaine 1, vous devez remporter 6 beatmaps pour gagner un match. (Best-of-11)
 
 ### Instructions du match
 
-1. Une salle multijoueurs sera créée par un arbitre 30 minutes avant le début du match. Les équipes sont tenues de se rassembler durant cette période.
-   1. La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyées aux capitaines des deux équipes dès que possible.
+1. Une salle multijoueur sera créée par un arbitre 30 minutes avant le début du match. Les équipes sont tenues de se rassembler durant cette période.
+   1. La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyés aux capitaines des deux équipes dès que possible.
    2. Les paramètres de la salle sont les suivants : osu! ; Team VS ; victoire sur score. Le nom de la salle doit suivre cette nomenclature : « osu! World Cup 2013: ÉquipeBleue vs ÉquipeRouge » (nom des pays en anglais).
    3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
 2. L'arbitre devra quitter la salle pour permettre la venue du 8ème joueur, mais sera tout de même connecté à la salle de manière externe. Il regardera les 8 joueurs jouer simultanément grâce à un logiciel spécial.
