@@ -20,12 +20,12 @@ Thanks to the crowned creators of the [Mappers' Guild](https://mappersguild.com/
     </video>
 </div>
 
-### Lemrina
+### Secret Clover
 
 Check out [the collaborative set featured in the video above](https://osu.ppy.sh/beatmapsets/1799400) hosted by [Usaha](https://osu.ppy.sh/users/6443117) of the Mappers' Guild!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/289/Songs/Hamu%20-%20Lemrina.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/289/Songs/Hamu%20-%20Secret%20Clover.mp3" type="audio/mpeg">
 </audio>
 
 ### Koi no Dilemma
