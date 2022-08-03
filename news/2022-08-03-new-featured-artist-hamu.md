@@ -31,13 +31,13 @@ Check out [the collaborative set featured in the video above](https://osu.ppy.sh
 ### Koi no Dilemma
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/289/Songs/Hamu%20-%20Koi%20no%20Dilemma.mp3%22 type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/289/Songs/Hamu%20-%20Koi%20no%20Dilemma.mp3" type="audio/mpeg">
 </audio>
 
 ### Tantan Awa
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/289/Songs/Hamu%20-%20Yumemi%20Gokochi.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/289/Songs/Hamu%20-%20Tantan%20Awa.mp3" type="audio/mpeg">
 </audio>
 
 ### Nemurenu Ukiyo No Tsukiakari
