@@ -91,8 +91,6 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/JekiTheMonkey/JKPS)
 - Mikuia — A Twitch bot that can keep track of song requests and sends updates about any rank changes or plays you set in the chat.
   - [Website](https://mikuia.tv/)
-- Ronnia — A alternative to Mikuia with a similar feature set
-  - [GitHub](https://github.com/aticie/ronnia) | [Website](https://ronnia.me/)
 - [osu!RequestBot](https://osu.ppy.sh/community/forums/topics/175723) — Keep track of song requests while streaming.
   - [GitHub](https://github.com/RedbackThomson/OsuRequestBot)
 - [osu!StreamCompanion](https://osu.ppy.sh/community/forums/topics/209616) — osu! information extractor for live streamers.
