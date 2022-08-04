@@ -22,10 +22,10 @@ Die Funktionalität jedes Buttons wird unten beschrieben:
 
 Die Funktionalität jeder Textbox wird unten beschrieben:
 
-- `Annotation text`: Der Text, um eine Anmerkung anzuzeigen.
+- `Annotation text`: Der Text, der als Anmerkung angezeigt wird.
 - `Best Of`: Aktualisiert die Sternanzahl im oberen Teil mit der Menge an Spielen, die jedes Team braucht, um zu gewinnen.
 
-![Wenn ein Raum korrekt erstellt wurde, wird dies anstatt der Anweisungen aufgelistet](img/Osutourneyroomlist.png)
+![Wenn ein Raum korrekt erstellt wurde, wird dieser anstelle der Anweisungen aufgelistet](img/Osutourneyroomlist.png)
 
 Räume, die richtig angelegt wurden, können angeklickt werden, wodurch der osu!tourney-Client dem Raum zuschauen wird.
 
