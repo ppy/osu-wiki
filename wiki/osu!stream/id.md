@@ -4,11 +4,11 @@
 
 **osu!stream** adalah versi osu! yang dikhususkan untuk dimainkan di perangkat layar sentuh. Untuk sekarang, osu!stream hanya tersedia di perangkat [iOS](http://en.wikipedia.org/wiki/IOS) dari Apple. Versi [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) sebelumnya telah direncanakan dan hampir selesai, namun tidak dirilis dikarenakan isu latensi audio di Android yang menyebabkan pengalaman gameplay yang tidak nyaman.
 
-osu!stream memperkenalkan sistem gameplay yang baru, dengan elemen gameplay yang baru seperti *hold circles* dan *connected beats*. osu!stream tidak mendukung beatmap osu! biasa tanpa proses konversi secara manual. Namun, beatmap-beatmap dibuat oleh sebuah tim khusus mapper untuk memanfaatkan elemen-elemen gameplay baru dan mengikuti [tingkatan standar yang lebih ketat](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
+osu!stream memperkenalkan sistem gameplay yang baru, dengan elemen gameplay yang baru seperti *hold circles* dan *connected beats*. osu!stream tidak mendukung *beatmap* osu! biasa tanpa proses konversi secara manual. Namun, *beatmap*-*beatmap* dibuat oleh sebuah tim khusus mapper untuk memanfaatkan elemen-elemen gameplay baru dan mengikuti [tingkatan standar yang lebih ketat](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
 [osu!stream telah dibahas dalam osu!monthly \#5 disertai oleh sebuah wawancara (dalam bahasa Inggris).](https://osu.ppy.sh/community/forums/topics/59924)
 
-Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih lanjut, baca [postingan blog ini](https://blog.ppy.sh/osu-stream-2020-release/) mengenai rilisan terakhirnya. Source code osu!stream bersama dengan alat pengujian dan konversi beatmap telah tersedia secara publik di tahun yang sama dibawah lisensi permisif di [GitHub](https://github.com/ppy/osu-stream) untuk siapa saja yang berminat, dan semua beatmap yang sebelumnya berbayar sekarang tersedia secara gratis di dalam "Store" osu!stream.
+Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih lanjut, baca [postingan blog ini](https://blog.ppy.sh/osu-stream-2020-release/) mengenai rilisan terakhirnya. Source code osu!stream bersama dengan alat pengujian dan konversi *beatmap* telah tersedia secara publik di tahun yang sama dibawah lisensi permisif di [GitHub](https://github.com/ppy/osu-stream) untuk siapa saja yang berminat, dan semua *beatmap* yang sebelumnya berbayar sekarang tersedia secara gratis di dalam "Store" osu!stream.
 
 ### Pemasangan
 
@@ -23,7 +23,7 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
 - Unduh osu!stream
   - Apabila kamu diminta untuk memasukan Apple ID dan kata sandi, maka lakukanlah untuk mulai mengunduh.
 - osu!stream dapat dimainkan setelah unduhan dan pemasangan selesai.
-  - Disarankan untuk membaca bagian "Mendapatkan Beatmap Baru" untuk memastikan kamu mendapatkan koleksi beatmap gratis terbaru. osu!stream yang baru terinstal hanya diisi dengan 2 beatmap saja.
+  - Disarankan untuk membaca bagian "Mendapatkan *Beatmap* Baru" untuk memastikan kamu mendapatkan koleksi *beatmap* gratis terbaru. osu!stream yang baru terinstal hanya diisi dengan 2 *beatmap* saja.
 
 #### Melalui USB
 
@@ -35,7 +35,7 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
 - Pasang osu!stream melalui iTunes.
 - Lepas colokan USB-mu dan osu!stream dapat dimainkan.
 
-#### Mendapatkan Beatmap Baru
+#### Mendapatkan *Beatmap* Baru
 
 **Pastikan perangkat iOS kamu dapat terhubung ke Internet (menggunakan Wi-Fi atau data seluler).**
 
@@ -43,18 +43,18 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
 - Tekan logo osu! untuk membuka menu utamanya (atau tutorial apabila ini pertama kalinya kamu membuka osu!stream).
 - Tekan tombol "Store".
   - Atau kamu dapat menekan tombol "Play" lalu menekan "Download more songs!"
-- Pilih koleksi beatmap yang ingin kamu unduh.
+- Pilih koleksi *beatmap* yang ingin kamu unduh.
 
 ### Apa perbedaan versi osu! PC dengan osu!stream?
 
 - **Hanya dapat dimainkan di perangkat iOS.** (untuk sekarang)
-- Seluruh beatmap dibuat dari nol.
-- Kamu tidak membutuhkan akun untuk mengunduh beatmap baru.
+- Seluruh *beatmap* dibuat dari nol.
+- Kamu tidak membutuhkan akun untuk mengunduh *beatmap* baru.
 - Kamu dapat menghubungkan osu!stream dengan akun Twitter-mu.
 - Skor terbaikmu mungkin akan dikirim secara anonim ke situs dengan nama "Guest" (namun membutuhkan koneksi internet).
 - *Progress Bar* selalu ditampilkan memanjang di bagian bawah layar dan pewarnaannya sesuai dengan akurasi permainanmu.
 - **Average Timing** (timing rata-rata) ditampilkan pada layar hasil.
-- Kamu tidak dapat menyimpan rekor lamamu, atau menyimpan replay.
+- Kamu tidak dapat menyimpan rekor lamamu, atau menyimpan *replay*.
 - Kamu tidak dapat mengganti skin atau menambahkan mod apapun (untuk sekarang).
 - *Easter Eggs* dapat ditemukan namun tidak ada laman khusus *Achievement* (Pencapaian).
 
@@ -67,7 +67,7 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
 ![](img/Os-FG.jpg "Finger Guides display")
 
 - Terdapat dua lingkaran transparan yang muncul dalam game untuk membantu pemula kapan objek harus dikenai.
-  - Opsi ini menampilkan cara yang disarankan untuk dapat menyelesaikan suatu beatmap secara sempurna.
+  - Opsi ini menampilkan cara yang disarankan untuk dapat menyelesaikan suatu *beatmap* secara sempurna.
 - Lingkaran hijau mewakili tangan kiri dan lingkaran merah mewakili tangan kanan.
 - Kamu dapat menonaktifkan fitur ini dalam menu "Option" atau seletah kamu menyelesaikan tutorial.
 
@@ -128,7 +128,7 @@ Warna latarnya yaitu Hijau.
 
 **Tingkat Kesulitan: Easy ("Stream Down!" dari Normal) ~ Normal (titik permulaan) ~ Hard ("Stream Up!" dari Normal)**
 
-Mode Stream adalah penerapan *gameplay* baru yang dikhususkan untuk osu!stream. Pada mode ini, pemain akan memulai permainan dengan *lifebar* yang telah terisi setengah dengan tingkat kesulitan Normal. Pemain akan ditugaskan untuk mengisi *lifebar* untuk memicu "*Stream Up!*", yang pada dasarnya meningkatkan tingkat kesulitan pada beatmap tersebut (dengan objek yang dikenai menjadi lebih banyak) namun tidak sesulit mode Expert. Ketika pemain mendapatkan "*Stream Up!*", pemain akan mendapatkan *lifebar* (tahap 3/tahap 2) dan "*Stream Down!*" akan terjadi apabila *lifebar* (tahap 3/tahap 2) habis, lalu tingkat kesulitan akan menurun dan *lifebar* akan terisi setengah penuh. 
+Mode Stream adalah penerapan *gameplay* baru yang dikhususkan untuk osu!stream. Pada mode ini, pemain akan memulai permainan dengan *lifebar* yang telah terisi setengah dengan tingkat kesulitan Normal. Pemain akan ditugaskan untuk mengisi *lifebar* untuk memicu "*Stream Up!*", yang pada dasarnya meningkatkan tingkat kesulitan pada *beatmap* tersebut (dengan objek yang dikenai menjadi lebih banyak) namun tidak sesulit mode Expert. Ketika pemain mendapatkan "*Stream Up!*", pemain akan mendapatkan *lifebar* (tahap 3/tahap 2) dan "*Stream Down!*" akan terjadi apabila *lifebar* (tahap 3/tahap 2) habis, lalu tingkat kesulitan akan menurun dan *lifebar* akan terisi setengah penuh. 
 
 Singkatnya, kamu memulai permainan diantara Easy dan Hard.
 
@@ -353,7 +353,7 @@ Berbeda dengan versi osu! lainnya, *lifebar* di osu!stream tidak berkurang denga
 
 Karena sulit untuk mendapatkan lisensi dari lagu tersebut.
 
-### Bagaimana cara mendapatkan beatmap baru?
+### Bagaimana cara mendapatkan *beatmap* baru?
 
 Kamu dapat membuka laman "Store" dalam game atau dengan menekan tombol "Download more songs..." pada daftar pemilihan lagu.
 
