@@ -10,7 +10,7 @@ Kopiere dafür die Datei `osu!.exe` in einen leeren Ordner und führe sie aus. E
 
 Schließe osu! und erstelle die Datei `tournament.cfg` im Installationsverzeichnis. Starte osu! erneut und der osu!tourney-Client sollte sich öffnen.
 
-Füge Songs aus dem Mappool zum Ordner `/Songs/` vor dem Starten des Clients hinzu. Jede eingereichte Beatmap, die der Client nicht hat, wird automatisch heruntergeladen.
+Füge Songs aus dem Mappool vor dem Starten des Clients zum Ordner `/Songs/`  hinzu. Jede eingereichte Beatmap, die der Client nicht hat, wird automatisch heruntergeladen.
 
 Beim Schließen des Clients wird die Datei `tournament.cfg` mit den folgenden Angaben gefüllt:
 
@@ -38,5 +38,5 @@ Verändere die Datei `tournament.cfg` nicht, während osu! läuft. Schließe osu
   - Standard: 720, erlaubter Bereich: 568 bis 2160
 - `Aspect`: Das Seitenverhältnis der Spielfeldanzeigen.
   - Bedenke, dass das nur für 2v2 Layouts gilt.
-  - Ein Wert von 1.5 ist optimal für osu!taiko.
+  - Ein Wert von 1.5 (beachte den Punkt!) ist optimal für osu!taiko.
   - Standard: 2, erlaubter Bereich: 1 bis 2

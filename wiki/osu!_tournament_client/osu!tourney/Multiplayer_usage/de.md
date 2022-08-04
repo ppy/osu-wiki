@@ -21,7 +21,7 @@ Die Teamnamen (`Team Name 1` und `Team Name 2`) können mit jeglichen Teamnamen 
 
 *Hauptseite: [Befehle für das Turnier-Management](/wiki/osu!tourney/Tournament_management_commands)*
 
-Überprüfe, dass den Spielern die richtigen Slots zugewiesen werden, die den Raum betreten, mit den Befehlen `!mp move` und `!mp team`.
+Denke daran, den Spielern, die den Raum betreten, über die Befehle `!mp move` und `!mp team` die richtigen Slots zuzuweisen.
 
 Wie im [Ratgeber für den Zuschauerbetrieb](/wiki/osu!tourney/Spectator_usage) erklärt wird, wird jedes Fenster im Client einem Slot in der Mehrspieler-Lobby zugeordnet. Nachdem der Wert von `TeamSize` in der Datei `tournament.cfg` richtig eingestellt wurde, wird das blaue Team die erste `TeamSize` Anzahl von Slots und das rote Team die `TeamSize` Anzahl von Slots darunter belegen.
 
