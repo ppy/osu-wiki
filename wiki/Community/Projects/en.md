@@ -174,11 +174,10 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - [Mania Column Centering](https://osu.ppy.sh/community/forums/topics/581972) — Calculates the osu!mania stage positioning to make it centre.
   - [GitHub](https://github.com/RoanH/ManiaColumnCentering)
 - [osu! Skin Manager](https://osu.ppy.sh/community/forums/topics/231747) — A program where you can create and edit your skin.
-- [Skin Checker](https://osu.ppy.sh/community/forums/topics/617168) — Checks your skin for missing elements.
-  - [GitHub](https://github.com/RoanH/osuSkinChecker)
 - osu! skin mixer — A program that allows you to easily mix elements from other skins already in your skins folders
   - [GitHub](https://github.com/rednir/OsuSkinMixer)
-
+- [Skin Checker](https://osu.ppy.sh/community/forums/topics/617168) — Checks your skin for missing elements.
+  - [GitHub](https://github.com/RoanH/osuSkinChecker)
 
 ### Beatmap Management
 
