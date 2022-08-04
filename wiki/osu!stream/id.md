@@ -10,7 +10,7 @@ osu!stream memperkenalkan sistem gameplay yang baru, dengan elemen gameplay yang
 
 Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih lanjut, baca [postingan blog ini](https://blog.ppy.sh/osu-stream-2020-release/) mengenai rilisan terakhirnya. Source code osu!stream bersama dengan alat pengujian dan konversi *beatmap* telah tersedia secara publik di tahun yang sama dibawah lisensi permisif di [GitHub](https://github.com/ppy/osu-stream) untuk siapa saja yang berminat, dan semua *beatmap* yang sebelumnya berbayar sekarang tersedia secara gratis di dalam "Store" osu!stream.
 
-### Pemasangan
+## Pemasangan
 
 ![](img/Os-Devices.jpg "osu!stream di perangkat iOS")
 
@@ -371,3 +371,4 @@ Kamu dapat membuka laman "Store" dalam game atau dengan menekan tombol "Download
 - [Forum diskusi (website resmi osu!)](https://osu.ppy.sh/community/forums/79)
 - [Repository GitHub](https://github.com/ppy/osu-stream)
 - [Postingan blog](https://blog.ppy.sh/osu-stream-2020-release/)
+- 
