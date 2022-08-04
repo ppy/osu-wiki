@@ -181,7 +181,6 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Beatmap Management
 
-- [Auto-downloader for Bloodcat](https://osu.ppy.sh/community/forums/topics/166347) — Automatically download beatmaps using the Bloodcat mirror.
 - [Batch script to delete maps](https://osu.ppy.sh/community/forums/topics/682907) — A Windows Batch script to delete all beatmaps.
 - [Beatmap Version Checker](https://osu.ppy.sh/community/forums/topics/636199) — Scans through for outdated unranked beatmaps and automatically (or manually) update them.
   - [GitHub](https://github.com/RoanH/osuBeatmapVersionChecker)
