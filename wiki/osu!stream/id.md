@@ -1,73 +1,70 @@
----
-outdated_translation: true
----
-
 # osu!stream
 
 ![](img/Os-Logo.jpg)
 
-## Perkenalan
+**osu!stream** adalah versi osu! yang dikhususkan untuk dimainkan di perangkat layar sentuh. Untuk sekarang, osu!stream hanya tersedia di perangkat [iOS](http://en.wikipedia.org/wiki/IOS) dari Apple. Versi [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) sebelumnya telah direncanakan dan hampir selesai, namun tidak dirilis dikarenakan isu latensi audio di Android yang menyebabkan pengalaman gameplay yang tidak nyaman.
 
-**osu!stream** adalah versi osu! yang dikhususkan untuk dimainkan di perangkat layar sentuh. Untuk sekarang, osu!stream hanya tersedia di perangkat [iOS](http://en.wikipedia.org/wiki/IOS) dari Apple, dan versi [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-nya pun masih dalam tahap perencanaan. osu!stream memperkenalkan model gameplay yang baru, seperti *hold circle* dan *connected beat*.
+osu!stream memperkenalkan sistem gameplay yang baru, dengan elemen gameplay yang baru seperti *hold circles* dan *connected beats*. osu!stream tidak mendukung beatmap osu! biasa tanpa proses konversi secara manual. Namun, beatmap-beatmap dibuat oleh sebuah tim khusus mapper untuk memanfaatkan elemen-elemen gameplay baru dan mengikuti [tingkatan standar yang lebih ketat](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
-osu!stream tidak mendukung beatmap osu! versi PC. Sebagai gantinya, beatmap osu!stream dibuat oleh tim mapper khusus untuk memanfaatkan elemen gameplay yang baru. Beatmap yang tersedia dapat diunduh dari "Store" dan tersedia beatmap gratis dan berbayar.
+[osu!stream telah dibahas dalam osu!monthly \#5 disertai oleh sebuah wawancara (dalam bahasa Inggris).](https://osu.ppy.sh/community/forums/topics/59924)
 
-[osu!stream telah dibahas dalam osu!monthly \#5 (dalam bahasa Inggris).](https://osu.ppy.sh/community/forums/topics/59924)
+Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih lanjut, baca [postingan blog ini](https://blog.ppy.sh/osu-stream-2020-release/) mengenai rilisan terakhirnya. Source code osu!stream bersama dengan alat pengujian dan konversi beatmap telah tersedia secara publik di tahun yang sama dibawah lisensi permisif di [GitHub](https://github.com/ppy/osu-stream) untuk siapa saja yang berminat, dan semua beatmap yang sebelumnya berbayar sekarang tersedia secara gratis di dalam "Store" osu!stream.
 
 ### Pemasangan
 
-![](img/Os-Devices.jpg)
+![](img/Os-Devices.jpg "osu!stream di perangkat iOS")
 
-#### Melalui App Store
+#### Melalui App Store iOS (disarankan)
 
-Ini adalah metode yang direkomendasikan. Pastikan perangkat iOS-mu dapat terhubung ke Internet (menggunakan Wi-FI atau data seluler).
+**Pastikan perangkat iOS-mu dapat terhubung ke Internet (menggunakan Wi-Fi atau data seluler 3G/4G).**
 
 - Buka "App Store" di perangkat iOS kamu
 - Cari "osu!stream" di kotak pencarian.
 - Unduh osu!stream
-  - Apabila kamu diminta untuk memasukan ID Apple dan kata sandi, maka lakukanlah untuk mulai mengunduh.
+  - Apabila kamu diminta untuk memasukan Apple ID dan kata sandi, maka lakukanlah untuk mulai mengunduh.
 - osu!stream dapat dimainkan setelah unduhan dan pemasangan selesai.
-  - Disarankan untuk membaca bagian "Mendapatkan Beatmap Baru" untuk memastikan kamu mendapatkan bundel beatmap gratis terbaru. osu!stream yang baru terinstal hanya diisi dengan 2 beatmap.
+  - Disarankan untuk membaca bagian "Mendapatkan Beatmap Baru" untuk memastikan kamu mendapatkan koleksi beatmap gratis terbaru. osu!stream yang baru terinstal hanya diisi dengan 2 beatmap saja.
 
 #### Melalui USB
 
 **Pastikan [iTunes](https://www.apple.com/itunes/) telah terpasang di komputermu.**
 
-- Buka [laman ini](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8) dan unduh osu!stream.
-  - Apabila kamu diminta untuk memasukan ID Apple dan kata sandi, maka lakukanlah untuk mulai mengunduh.
+- Buka [laman ini dan unduh osu!stream](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8).
+  - Apabila kamu diminta untuk memasukan Apple ID dan kata sandi, maka lakukanlah untuk mulai mengunduh.
 - Pasangkan perangkat iOS-mu ke komputer melalui USB.
 - Pasang osu!stream melalui iTunes.
 - Lepas colokan USB-mu dan osu!stream dapat dimainkan.
 
 #### Mendapatkan Beatmap Baru
 
-**Pastikan perangkat iOS-mu dapat terhubung ke Internet (menggunakan Wi-FI atau data seluler).**
+**Pastikan perangkat iOS kamu dapat terhubung ke Internet (menggunakan Wi-Fi atau data seluler).**
 
 - Buka osu!stream.
-- Tekan logo osu! untuk membuka menu utamanya (atau tutorial apabila ini pertama kalinya kamu membuka osu!stream. Selesaikan tutorialnya terlebih dahulu untuk mengakses menu utama)
-- Tekan tombol "Store"...
-  - ... atau kamu dapat menekan tombol "Play" lalu menekan "Download more songs!"
-- Pilih lagu yang akan kamu unduh
-  - Disarankan untuk mendownload bundel yang tidak berbayar. Pada bundel yang gratis terdapat tulisan "FREE".
+- Tekan logo osu! untuk membuka menu utamanya (atau tutorial apabila ini pertama kalinya kamu membuka osu!stream).
+- Tekan tombol "Store".
+  - Atau kamu dapat menekan tombol "Play" lalu menekan "Download more songs!"
+- Pilih koleksi beatmap yang ingin kamu unduh.
 
 ### Apa perbedaan versi osu! PC dengan osu!stream?
 
 - **Hanya dapat dimainkan di perangkat iOS.** (untuk sekarang)
 - Seluruh beatmap dibuat dari nol.
 - Kamu tidak membutuhkan akun untuk mengunduh beatmap baru.
-- Kamu dapat menghubungkan osu!stream dengan akun twitter-mu.
-- Skor terbaikmu mungkin akan dikirim secara anonim ke situs dengan nama "Guest" (apabila terjadi, namun membutuhkan koneksi internet).
+- Kamu dapat menghubungkan osu!stream dengan akun Twitter-mu.
+- Skor terbaikmu mungkin akan dikirim secara anonim ke situs dengan nama "Guest" (namun membutuhkan koneksi internet).
 - *Progress Bar* selalu ditampilkan memanjang di bagian bawah layar dan pewarnaannya sesuai dengan akurasi permainanmu.
 - **Average Timing** (timing rata-rata) ditampilkan pada layar hasil.
 - Kamu tidak dapat menyimpan rekor lamamu, atau menyimpan replay.
-- You can't change your skin nor can you apply any mods (yet).
+- Kamu tidak dapat mengganti skin atau menambahkan mod apapun (untuk sekarang).
 - *Easter Eggs* dapat ditemukan namun tidak ada laman khusus *Achievement* (Pencapaian).
 
-#### Model Gameplay yang Baru
+#### Sistem Gameplay yang Baru
 
-**Catatan:** Kamu dapat mempelajari elemen gameplay yang baru di "Tutorial".
+**Catatan:** Kamu dapat mempelajari elemen gameplay yang baru di laman "Tutorial".
 
 ##### Tampilan Finger Guides
+
+![](img/Os-FG.jpg "Finger Guides display")
 
 - Terdapat dua lingkaran transparan yang muncul dalam game untuk membantu pemula kapan objek harus dikenai.
   - Opsi ini menampilkan cara yang disarankan untuk dapat menyelesaikan suatu beatmap secara sempurna.
@@ -76,136 +73,234 @@ Ini adalah metode yang direkomendasikan. Pastikan perangkat iOS-mu dapat terhubu
 
 ##### Connected Beats
 
-- Connected Beats, seperti namanya, mengharuskan kamu untuk menekan dua objek dalam waktu bersamaan.
-  - Connected Beats itu tidak hanya "hit circle - hit circle", namun bisa juga "hit circle - slider", "hold circle - slider" dan seterusnya.
-- Connected Beats dapat dicirikan dengan garis putih yang menghubungkan satu objek dengan objek yang lain.
+![](img/Os-CB.png "Connected Beats")
+
+- *Connected Beats*, seperti namanya, mengharuskan kamu untuk menekan dua objek dalam waktu bersamaan.
+  - *Connected Beats* itu tidak hanya "*hit circle* - *hit circle*", namun bisa juga "*hit circle* - *slider*", "*hold circle* - *slider*" dan seterusnya.
+- *Connected Beats* dapat dicirikan dengan garis putih yang menghubungkan satu objek dengan objek yang lain.
 
 ##### Hold circle
 
-- Hold circle mengharuskan kamu untuk menahan hold circle tersebut sampai lingkarannya "meledak".
-- Akurasi ditentukan dengan seberapa cepat/lambat kamu mengenainya, dan waktu kamu menahan hold circle tersebut.
-  - Apabila kamu mengangkat jarimu sebelum lingkarannya "meledak", pengali kombomu akan mengulang dari 0, namun ini tidak dianggap sebagai "miss" (karena kamu dianggap telah mengenai hold circle tersebut.
-  - Apabila kamu tidak menahan lingkaran tersebut, HP (health point) kamu akan berkurang selama kamu tidak menahannya sampai "meledak".
-- Hold circle dapat dicirikan dengan tulisan "hold" pada lingkaran dengan latar berwarna ungu dan pinggiran berwarna putih.
+![](img/Os-HC.jpg "Hold circle 1")
 
-#### Mode baru
+---
+
+![](img/Os-HC2.jpg "Hold circle 2")
+
+- *Hold circle* mengharuskan kamu untuk menahan lingkaran tersebut sampai lingkarannya "meledak".
+- Akurasi ditentukan dengan seberapa cepat/lambat kamu mengenainya, dan waktu kamu menahan *hold circle* tersebut.
+  - Apabila kamu mengangkat jarimu sebelum lingkarannya "meledak", pengali kombomu akan mengulang dari 0, namun ini tidak dianggap sebagai "*miss*" (karena kamu dianggap telah mengenai *hold circle* tersebut.)
+  - Apabila kamu tidak menahan lingkaran tersebut, HP (*health point*) kamu akan berkurang selama kamu tidak menahannya sampai "meledak".
+
+#### Mode baru yang menukarkan tingkat kesulitan
+
+---
+
+![](img/Os-PlayEasy.png "Easy")
+
+---
+
+![](img/Os-PlayNormal.png "Normal")
+
+---
+
+![](img/Os-PlayHard.png "Hard")
+
+---
+
+![](img/Os-PlayExpert.jpg "Expert")
+
+---
 
 ##### Mode Easy
 
-![](img/Os-ModeEasy.jpg "Easy mode")
+![](img/Os-ModeEasy.jpg "Mode Easy")
 
 **Tingkat Kesulitan: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
-Mode Easy dikhususkan untuk pemula agar dapat membiasakan gameplay dari osu!stream. Gameplaynya didesain dengan kelajuan yang lambat, agar pemain dapat mengerti alur dan timingnya. Tidak ada lifebar di mode ini dan memainkan mode Easy tidak akan membuka Mode Expert walau kamu telah mendapatkan akurasi 100% pada mode ini.
+
+Mode Easy dikhususkan untuk pemula agar dapat membiasakan *gameplay* dari osu!stream. *Gameplay*-nya didesain dengan kelajuan yang lebih lambat agar pemain dapat mengerti alur dan timing dalam *gameplay*-nya. Tidak ada lifebar di mode ini dan memainkan mode Easy tidak akan membuka Mode Expert.
 
 Warna latarnya yaitu Hijau.
 
 ##### Mode Stream
 
-![](img/Os-ModeStream.jpg "Stream mode")
+![](img/Os-ModeStream.jpg "Mode Stream")
 
 **Tingkat Kesulitan: Easy ("Stream Down!" dari Normal) ~ Normal (titik permulaan) ~ Hard ("Stream Up!" dari Normal)**
-Mode Stream adalah penerapan gameplay baru yang dikhususkan untuk osu!stream. Pada mode ini, pemain akan memulai permainan dengan lifebar yang telah terisi setengah dengan tingkat kesulitan Normal. Pemain akan ditugaskan untuk mengisi lifebar untuk memicu "Stream Up!", yang pada dasarnya meningkatkan tingkat kesulitan pada beatmap tersebut (dengan objek yang dikenai menjadi lebih banyak) namun tidak sesulit mode Expert. Ketika pemain mendapatkan "Stream Up!", pemain akan mendapatkan lifebar (tahap 3/tahap 2) dan "Stream Down!" akan terjadi apabila lifebar (tahap 3/tahap 2) habis, lalu tingkat kesulitan akan menurun dan lifebar akan terisi setengah penuh. Singkatnya, kamu memulai permainan diantara Easy dan Hard.
+
+Mode Stream adalah penerapan *gameplay* baru yang dikhususkan untuk osu!stream. Pada mode ini, pemain akan memulai permainan dengan *lifebar* yang telah terisi setengah dengan tingkat kesulitan Normal. Pemain akan ditugaskan untuk mengisi *lifebar* untuk memicu "*Stream Up!*", yang pada dasarnya meningkatkan tingkat kesulitan pada beatmap tersebut (dengan objek yang dikenai menjadi lebih banyak) namun tidak sesulit mode Expert. Ketika pemain mendapatkan "*Stream Up!*", pemain akan mendapatkan *lifebar* (tahap 3/tahap 2) dan "*Stream Down!*" akan terjadi apabila *lifebar* (tahap 3/tahap 2) habis, lalu tingkat kesulitan akan menurun dan *lifebar* akan terisi setengah penuh. 
+
+Singkatnya, kamu memulai permainan diantara Easy dan Hard.
 
 Perhatikan bahwa kamu **harus mendapatkan nilai A (akurasi >80%) di mode ini untuk membuka mode Expert dari lagu tersebut**. Akurasi lebih rendah dari 80% akan dihitung sebagai B, walau kamu telah mendapatkan *full combo* (dalam kasus ini kamu akan mendapatkan B).
 
-Warna latarnya yaitu Hijau (Easy), Biru (Normal) dan Merah Keunguan (Hard).
+Warna latarnya yaitu Hijau (Easy), Biru (Normal) dan Merah Jambu (Hard).
+
+---
+
+![](img/Os-SU.png "Stream Up!")
+
+---
+
+![](img/Os-SD.png "Stream Down!")
+
+---
+
+![](img/Os-Zero1.png "Health point (HP)/lifebar kritis")
+
+---
+
+![](img/Os-Zero2.png "Game Over")
+
+---
 
 ##### Mode Expert
 
-![](img/Os-ModeExpert.jpg "Expert mode")
+![](img/Os-ModeExpert.jpg "Mode Expert")
 
 **Difficulty: Expert**
-Terkunci pada awalnya, dan hanya dapat dibuka dengan mendapatkan nilai A atau lebih pada mode Stream. Mode Expert dikhususkan untuk pemain yang membutuhkan tantangan lebih. Di mode ini, pemain diberikan lifebar yang terisi penuh dan pemain ditugaskan untuk menjaganya agar lifebar tidak habis sampai di akhir lagu. Menyelesaikan mode ini tidak akan membuka apapun, namun tentunya kamu akan merasa hebat, bukan?
 
-Warna latarnya yaitu ungu dan tingkat kecerahan layar bergantung pada HP yang kamu miliki.
+Terkunci pada awalnya, dan hanya dapat dibuka dengan mendapatkan nilai A atau lebih pada mode Stream. Mode Expert dikhususkan untuk pemain yang membutuhkan tantangan lebih. Di mode ini, pemain diberikan *lifebar* yang terisi penuh dan pemain ditugaskan untuk menjaganya agar lifebar tidak habis sampai di akhir lagu. Menyelesaikan mode ini tidak akan membuka apapun, namun tentunya kamu akan merasa hebat, bukan?
+
+Warna latarnya yaitu Ungu dan tingkat kecerahan layar bergantung pada banyak HP yang kamu miliki.
 
 ### Antarmuka
 
-### Song list
+---
 
-***Buka [laman ini untuk daftar lagunya](Song_List)***.
+![](img/Os-MM.png "Tampilan menu utama")
+
+---
+
+![](img/Os-SL.jpg "Daftar lagu")
+
+---
+
+![](img/Os-Store.jpg "Layar Store")
+
+---
+
+![](img/Os-DS.png "Menu pemilihan Style")
+
+---
+
+![](img/Os-SI.png "Informasi lagu")
+
+---
+
+![](img/Os-PlayExpert.jpg "Expert")
+
+---
+
+![](img/Os-Pause.png "Menu Pause")
+
+---
+
+![](img/Os-FM.png "Menu failed")
+
+---
+
+![](img/Os-SC.png "Stage cleared!")
+
+---
+
+![](img/Os-Grade.jpg "Layar Grade")
+
+---
+
+![](img/Os-O1.png "Layar Option 1")
+
+---
+
+![](img/Os-O2.png "Layar Option 2")
+
+---
+
+### Daftar lagu
+
+***[Buka laman ini untuk daftar lagu secara penuh](Song_List)***
 
 ### Penilaian
 
+*Perhatikan: Leaderboard tetap dapat dilihat di dalam game, namun skor baru manapun tidak akan diterima.*
+
 #### Akurasi
 
-```
-Akurasi = HitValue / (PerfectHitValue)
+`Akurasi = HitValue / (PerfectHitValue)`
 
-HitValue = (Jumlah miss * 0 + Jumlah 50 * 1 + Jumlah 100 * 2 + Jumlah 300 * 4)
-PerfectHitValue = (Jumlah miss + Jumlah 50 + Jumlah 100 + Jumlah 300) * 4
-```
+| Istilah | Rumus/Formula |
+| :-: | :-- |
+| **HitValue** | (Jumlah *miss* \* 0 + Jumlah 50 \* 1 + Jumlah 100 \* 2 + Jumlah 300 \* 4) |
+| **PerfectHitValue** | (Jumlah *miss* + Jumlah 50 + Jumlah 100 + Jumlah 300) \* 4 |
 
-Dengan kata lain, setiap *miss* akan dihitung 0%, setiap `50 akan dihitung 25%, setiap 100 akan dihitung 50%, dan setiap 300 akan dihitung 100%.
+Dengan kata lain, setiap *miss* akan dihitung 0%, setiap 50 akan dihitung 25%, setiap 100 akan dihitung 50%, dan setiap 300 akan dihitung 100%.
 
 #### Skor
 
 Skor yang diberikan dari setiap *hit circle* dan ujung *slider* dihitung dengan rumus sebagai berikut:
 
-```
-Skor= Nilai Hit + Nilai Hit * (Pengali kombo * Pengali tetap) / 25
+`Skor= Nilai Hit + Nilai Hit * (Pengali kombo * Pengali tetap) / 25`
 
-Nilai Hit = Nilai yang diberikan dari objek (50, 100 atau 300).
-Pengali kombo = (Kombo sebelum hit ini - 1) atau 0.
-Pengali tetap = Pengali yang membuat skor menjadi tetap, yaitu 600.000
-```
+| Istilah | Penjelasan |
+| :-: | :-- |
+| **Nilai Hit** | [Penentuan nilai objek (*judgement*)](/wiki/Gameplay/Judgement) yang diberikan dari *hit circle* (50, 100 atau 300). |
+| **Pengali kombo** | (Kombo sebelum hit ini - 1) atau 0. |
+| **Pengali tetap** | Pengali yang membuat skor menjadi tetap, yaitu 600.000 |
 
-Sebagai tambahan, tiap awal slider, akhir slider, dan repeat tick diberi nilai 30 poin dan tiap putaran dari spinner diberi nilai 100 poin. Kamu juga akan diberi 10 poin tambahan tergantung kecepatan putaran spinner ketika spinner meter sudah penuh.
+Sebagai tambahan, tiap awal *slider*, akhir *slider*, dan *repeat tick* diberi nilai 30 poin dan tiap putaran dari *spinner* diberi nilai 100 poin. Kamu juga akan diberi 10 poin tambahan tergantung kecepatan putaran *spinner* ketika *spinner meter* sudah penuh.
 
 #### Penentuan Nilai Objek
 
 **Hit-circle**
 
-- Kamu akan mendapatkan 300, 100 atau 50 dari sebuah hit circle normal tergantung pada seberapa tepat kamu mengetuknya.
-- Apabila kamu tidak mengetuk hit circle sama sekali atau mengetuknya terlalu awal, kamu akan mendapatkan miss.
-  - Apabila kamu mengetuknya sangat, sangat cepat, objeknya hanya akan bergetar. Secara teknis, tidak akan terjadi apa-apa. Getaran tersebut hanya memberitahumu kamu mengetuknya terlaluuuuuuu awal.
+- Kamu akan mendapatkan 300, 100 atau 50 dari sebuah *hit circle* normal tergantung pada seberapa tepat kamu mengetuknya.
+- Apabila kamu tidak mengetuk *hit circle* sama sekali atau mengetuknya terlalu awal, kamu akan mendapatkan miss.
+  - Apabila kamu mengetuknya sangat, sangat cepat, objeknya hanya akan bergetar. Secara teknis tidak akan terjadi apa-apa, namun akan diberitahukan secara visual bahwa ketukan yang diberikan terlalu cepat.
 
 **Hold-circle**
 
-- Penentuan nilai hold circle bergantung pada ketukan awal dan waktu menahan sebelum "meledak".
-  - 300 apabila kamu melakukannya secara sempurna
+- Penentuan nilai *hold circle* bergantung pada ketukan awal dan waktu menahan sebelum "meledak".
+  - 300 apabila kamu melakukannya secara sempurna.
   - 100 aoabila ketukan awalnya kurang akurat, namun menahannya sampai "meledak".
-  - 50 apabila kamu setidaknya hanya menyentuh hold circle tersebut.
-  - 30 untuk setiap ketukan.
-  - Pengali kombo akan diulang dari 0 apabila kamu tidak menahannya sampai "meledak", dan kamu mendapatkan "Miss" apabila kamu tidak menyentuhnya sama sekali.
+  - 50 apabila kamu setidaknya hanya menyentuh *hold circle* tersebut.
+  - 30 untuk setiap "ledakan".
+  - Pengali kombo akan diulang dari 0 apabila kamu tidak menahannya sampai "meledak", dan kamu mendapatkan "*miss*" apabila kamu tidak menyentuhnya sama sekali.
 
 **Slider**
 
 - **Penentuan nilai slider bergantung pada ketepatan ketukan awal.**.
-- Slider terdiri dari slider tick, yang termasuk awal, akhir, dan repeat point dari slider.
-- Kamu mendapatkan 300 apabila kamu mendapatka seluruh slider tick dan ketukan awal yang akurat, 100 apabila kamu mendapatkan setidaknya setengah dari jumlah slider tick dengan ketukan awal yang kurang akurat, dan 50 apabila kamu setidaknya mendapatkan 1 slider tick atau setidaknya mengetuk awal slider.
-- **Mengetuk awal slider terlalu cepat** tidak akan memicu miss, namun **akan mengulang pengali kombomu dari 0**.
-- Kamu hanya akan mendapatkan miss apabila kamu tidak melakukan apa-apa terhadap slider tersebut.
+- Slider terdiri dari *slider tick*, yang termasuk awal, akhir, dan *repeat point* dari *slider*.
+- Kamu mendapatkan 300 apabila kamu mendapatkan seluruh *slider tick* dan ketukan awal yang akurat, 100 apabila kamu mendapatkan setidaknya setengah dari jumlah *slider tick* dengan ketukan awal yang kurang akurat, dan 50 apabila kamu setidaknya mendapatkan 1 *slider tick* atau setidaknya mengetuk awal *slider*.
+- **Mengetuk awal slider terlalu cepat** tidak akan memicu *miss*, namun **akan mengulang pengali kombomu dari 0**.
+- Kamu hanya akan mendapatkan *miss* apabila kamu tidak melakukan apa-apa terhadap *slider* tersebut.
 
 **Spinner**
 
-- Untuk spinner, kamu akan mendapatkan 300, 100 atau 50 tergantung pada jumlah putaran yang kamu lakukan dibanding panjang spinnernya.
-- Kamu akan mendapatkan miss apabila kamu tidak mengisi penuh bar yang ada di sisi spinner.
+- Untuk *spinner*, kamu akan mendapatkan 300, 100 atau 50 tergantung pada jumlah putaran yang kamu lakukan dibanding panjang *spinner*-nya.
+- Kamu akan mendapatkan *miss* apabila kamu tidak mengisi penuh bar yang ada di sisi *spinner*.
 
 #### Pengali
 
 Masing-masing berikut dapat menambahkan 1 poin pada pengali kombomu:
 
-- Ketukan yang berhasil pada hit circle.
-- Dapat menahan hold circle sampai "meledak".
-- Ketukan yang berhasil pada awal slider.
-- Berhasil menyentuh ujung slider.
-- Berhasil menyentuh slider tick.
-- Berhasil menyelesaikan spinner.
+- Ketukan yang berhasil pada *hit circle*.
+- Awal, akhir, dan setiap *hold tick* pada sebuah *hold circle*.
+- Awal, akhir, dan setiap *slider tick* pada sebuah *slider*.
+- Berhasil menyelesaikan *spinner*.
 
 Masing-masing berikut dapat mengulang pengali kombo dari 0:
 
-- Gagal mengenai hit circle.
-- Melepas hold circle ketika belum "meledak".
-- Tidak dapat menyentuh connected beat secara bersamaan.(Kena satu, lewat satu))
-- Mengetuk awal slider terlalu cepat
-- Tidak mengetuk awal slider atau mengenai slider tick
-- Gagal mengisi meter pada spinner dengan "clear".
+- Gagal mengenai *hit circle*.
+- Melepas *hold circle* ketika belum "meledak".
+- Tidak dapat menyentuh *connected beat* secara bersamaan. (Kena satu, lewat satu)
+- Mengetuk awal *slider* terlalu cepat.
+- Tidak mengetuk awal *slider* atau mengenai *slider tick*.
+- Gagal mengisi meter pada *spinner* dengan status "Clear".
 
 Masing-masing berikut tidak akan menambahkan atau mengulang pengali kombo dari 0:
 
-- Gagal mengenai ujung slider. (Kamu akan diberikan "Good!" atau poin 100/50)
-- Poin tambahan dari spinner
+- Gagal mengenai ujung akhir *slider*. (Kamu akan diberikan "Good!" atau poin 100/50)
+- Poin tambahan/bonus dari *spinner*
 
 #### Grade
 
@@ -220,50 +315,47 @@ Masing-masing berikut tidak akan menambahkan atau mengulang pengali kombo dari 0
 - C = Akurasi lebih dari 60%
 - D = 60% kebawah
 
-#### Lifebar
+#### Life meter
 
-Tidak seperti osu! standar, sistem lifebar di osu!stream memiliki aturan yang berbeda.
+Tidak seperti osu! biasanya, sistem *lifebar* di osu!stream memiliki aturan yang berbeda.
 
-Pada mode Easy, **lifebar tidak digunakan sama sekali**.
+Pada **Mode Easy, lifebar tidak digunakan sama sekali**.
 
 ![](img/Os-SUN.jpg "Contoh Stream Up! dari Normal")
 
-Pada **Mode Stream** , pemain diberikan **tiga lifebar dan pemain memulai dengan lifebar tahap 2 yang terisi setengah penuh**. Lifebar pemain akan (turun/naik) ke tahap berikutnya dengan cara mendapatkan (Stream Up!/Stream Down!) dengan (mengisi penuh lifebar/mengosongkan lifebar). Setelah tulisan ditampilkan, permainan akan menampilkan animasi di latar yang akan (menaikkan/menurukan) tingkat kesulitan dan kamu akan menapatkan lifebar terisi setengah penuh pada tahap baru. Apabila pemain mendapatkan "Stream Down!", pemain akan diberikan kekebalan sementara (dikarenakan lifebar pada tahap tersebut sudah kosong) sampai animasi penurunan tingkat kesulitan ditampilkan dan lifebar tersebut akan digantikan dengan lifebar (setengah penuh) baru.
+Pada **Mode Stream**, pemain diberikan tiga *lifebar* dan pemain memulai dengan *lifebar* tahap kedua yang terisi setengah penuh. *Lifebar* pemain akan turun/naik ke tahap berikutnya dengan sistem **"*Stream Up!*"** dan **"*Stream Down!*"** dengan mengisi penuh *lifebar*/mengosongkan *lifebar*. Setelah tulisan ditampilkan, permainan akan menampilkan animasi di latar yang akan (menaikkan/menurukan) tingkat kesulitan dan kamu akan menapatkan *lifebar* terisi setengah penuh pada tahap baru. Apabila pemain mendapatkan "*Stream Down!*", pemain akan diberikan kekebalan sementara (dikarenakan *lifebar* pada tahap tersebut sudah kosong) sampai animasi penurunan tingkat kesulitan ditampilkan dan *lifebar* tersebut akan digantikan dengan *lifebar* (setengah penuh) baru.
 
-Pada mode Expert **pemain hanya menggunakan 1 lifebar**.
+Pada **mode Expert, pemain hanya menggunakan 1 *lifebar***.
 
-Berikut adalah aturan yang dapat mengisi atau mengurangi lifebar.
+Berikut adalah aturan yang dapat mengisi atau mengurangi *lifebar*.
 
-Kamu mendapatkan HP dari:
+Kamu dapat mengisi *lifebar* dari:
 
-- Ht 300, 100, osu!, good! berwarna emas, dan good! berwarna hijau.
-  - Mengenai hit circle. (Nilai yang lebih baik mengisi lifebar lebih banyak. Hit circle terakhir dari warna yang sama juga dapat mengisi lifebar.)
-  - Mengenai awal slider, slider tick, dan ujung slider. (Nilai yang lebih baik di slider tick terakhir akan mengisi lifebar lebih banyak.)
-  - Menyelesaikan spinner dan menahan hold circle dengan benar
+- Menyelesaikan *spinner* dan *hold circle*.
+- Mengenai sebuah osu!, Good! berwarna emas, Good! berwarna hijau, 300, atau 100, 
+  - Untuk hit circle, penentuan nilai objek (*judgement*) yang lebih baik akan mengisi *lifebar* dengan nilai lebih. *Hit circle* terakhir dari warna yang sama juga dapat mengisi *lifebar* lebih banyak.
+  - Untuk *slider*, *lifebar* akan terisi tergantung dari seberapa banyak bagian *slider* yang terikuti, setelah *slider* telah diselesaikan.
 
-Kamu mengurangi HP dari:
+Kamu dapat mengurangi *lifebar* dari:
 
-- Hit 50 dan Miss
-- Tidak mengenai objek.
-- Tidak mengikuti slider.
-- Tidak menahan hold circle sampai "meledak".
-- Tidak dapat menyelesaikan spinner sampai tulisan "Clear" Muncul.
-- Tidak memutar spinner.
+- Mengenai sebuah objek dan mendapatkan 50.
+- Tidak mengenai objek atau *slider*.
+- Tidak mengikuti sebuah *slider* di dalam *slider follow circle* tersebut.
+- Tidak menahan *hold circle* sampai "meledak".
+- Tidak memutar *spinner*.
+- Tidak dapat menyelesaikan *spinner* sampai tulisan "Clear" muncul.
 
-HP tidak akan berkurang apabila:
-
-- Secara umum, **ketika bermain, lifebar tidak akan berkurang sama sekali**.
+Berbeda dengan versi osu! lainnya, *lifebar* di osu!stream tidak berkurang dengan sendirinya.
 
 ## Pertanyaan yang Mungkin Ditanyakan
 
 ### Mengapa tidak ada lagu (sisipkan lagu ber-hak cipta disini)?
 
-- Karena sulit untuk mendapatkan lisensi dari lagu tersebut.
+Karena sulit untuk mendapatkan lisensi dari lagu tersebut.
 
 ### Bagaimana cara mendapatkan beatmap baru?
 
-- Kamu dapat membuka laman "Store" dalam game atau dengan menekan tombol "Download more songs..." pada daftar pemilihan lagu.
-- Beatmap dibundel dan beberapa ada yang berbayar. Pastikan kamu dapat membedakan mana bundel yang berbayar dan mana yang tidak, agar kamu tidak "membeli" bundel berbayar secara tidak sengaja.
+Kamu dapat membuka laman "Store" dalam game atau dengan menekan tombol "Download more songs..." pada daftar pemilihan lagu.
 
 ### Apa lagu antarmuka dari osu!stream?
 
@@ -271,9 +363,11 @@ HP tidak akan berkurang apabila:
 
 ### Siapa saja yang ikut berkontribusi dalam pembuatan osu!stream?
 
-![](img/Os-Credit.jpg)
+![](img/Os-Credit.jpg "Credits")
 
 ## Tautan
 
-- [Website resmi osu!stream](http://www.osustream.com)
-- [Forum diskusi (osu!)](https://osu.ppy.sh/community/forums/79)
+- [Website resmi osu!stream](http://www.osustream.com) (tidak diperbarui lagi)
+- [Forum diskusi (website resmi osu!)](https://osu.ppy.sh/community/forums/79)
+- [Repository GitHub](https://github.com/ppy/osu-stream)
+- [Postingan blog](https://blog.ppy.sh/osu-stream-2020-release/)
