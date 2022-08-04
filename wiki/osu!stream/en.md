@@ -14,7 +14,7 @@ Development for this version ended in 2020. For more information, read the [blog
 
 ![](img/Os-Devices.jpg "osu!stream in iOS devices")
 
-### iOS' App Store method (Suggested)
+### iOS App Store method (suggested)
 
 **Make sure the iOS device can connect to the Internet (either by Wi-Fi or 3G/4G).**
 
