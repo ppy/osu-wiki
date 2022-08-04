@@ -56,21 +56,21 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 ### Gameplay
 
 - [Desktop Composition Disabler](https://osu.ppy.sh/community/forums/topics/177218) — Disables the Desktop Composition in Windows to reduce input latency for window-mode players.
-- OpenTabletDriver — Open source, cross-platform, user-mode tablet driver
-  - [GitHub](https://github.com/OpenTabletDriver/OpenTabletDriver) | [Website](https://opentabletdriver.net/)
 - [Key presses per second](https://osu.ppy.sh/community/forums/topics/552405) — Counts and displays how many times a certain key is pressed.
   - [GitHub](https://github.com/RoanH/KeysPerSecond)
+- OpenTabletDriver — Open source, cross-platform, user-mode tablet driver
+   - [GitHub](https://github.com/OpenTabletDriver/OpenTabletDriver) | [Website](https://opentabletdriver.net/)  
 - [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282) — Allows you to view and save your replays after backing out of the ranking screen.
   - [GitHub](https://github.com/jkapi/Osu-Replays)
 - [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) — An application that converts replay files to videos.
   - [GitHub](https://github.com/uyitroa/osr2mp4-app)
-- danser-go — CLI visualisation tool for osu!standard maps. Can also be used to render replay files as videos.
-  - [GitHub](https://github.com/Wieku/danser-go)
 - [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) — A program that takes a replay and analyses every miss to determine how and why it happened. It's straightforward to use and shows some pretty interesting data.
   - [GitHub](https://github.com/ThereGoesMySanity/osuMissAnalyzer/)
 
 #### osu!
 
+- danser-go — CLI visualisation tool for osu!standard maps. Can also be used to render replay files as videos.
+  - [GitHub](https://github.com/Wieku/danser-go)
 - osu!speed — Determines one's tapping speed.
   - [Website](https://osu-speed.simo.sh/)
 - [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716) — Determines one's tapping speed.
@@ -87,16 +87,18 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 - gosumemory — Cross-platform memory reader for osu!
   - [GitHub](https://github.com/l3lackShark/gosumemory)
-- Mikuia — A Twitch bot that can keep track of song requests and sends updates about any rank changes or plays you set in the chat.
-- Ronnia — A alternative to Mikuia with a similar feature set
-  - [GitHub](https://github.com/aticie/ronnia) | [Website](https://ronnia.me/)
-  - [Website](https://mikuia.tv/)
 - JKPS — A keys-per-second program that can be used as a input overlay with a lot of customization.
   - [GitHub](https://github.com/JekiTheMonkey/JKPS)
+- Mikuia — A Twitch bot that can keep track of song requests and sends updates about any rank changes or plays you set in the chat.
+  - [Website](https://mikuia.tv/)
+- Ronnia — A alternative to Mikuia with a similar feature set
+  - [GitHub](https://github.com/aticie/ronnia) | [Website](https://ronnia.me/)
 - [osu!RequestBot](https://osu.ppy.sh/community/forums/topics/175723) — Keep track of song requests while streaming.
   - [GitHub](https://github.com/RedbackThomson/OsuRequestBot)
 - [osu!StreamCompanion](https://osu.ppy.sh/community/forums/topics/209616) — osu! information extractor for live streamers.
   - [GitHub](https://github.com/Piotrekol/StreamCompanion)
+- Ronnia — A alternative to Mikuia with a similar feature set
+  - [GitHub](https://github.com/aticie/ronnia) | [Website](https://ronnia.me/)
 
 ### Beatmapping
 
@@ -104,14 +106,14 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [Website](http://maxime.delaby.free.fr/THEFIXER.html)
 - [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540) — Copy and paste hitsounds from one difficulty to another.
 - [Local Osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779) — A Notes-Per-Second calculator.
+- [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) — A huge compilation of tools to make mapping easier.
+  - [GitHub](https://github.com/OliBomby/Mapping_Tools) | [Website](https://mappingtools.github.io/)
 - [New Hitsound Copier](https://osu.ppy.sh/community/forums/topics/353638) — Another program to copy and paste hitsounds from one difficulty to another.
 - Osu! Storyboarder Banquet — A website dedicated to storyboarding
   - [GitHub](https://github.com/osb-group/osb.moe/) | [Website](https://osb.moe/)
 - [osu!tp's difficulty calculator](https://osu.ppy.sh/community/forums/topics/164057) — An AiMod integration of osu!tp's difficulty calculator.
   - [GitHub](https://github.com/Tom94/AiModtpDifficultyCalculator)
 - [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059) — A tool that stabilises the slider velocity after BPM changes.
-- [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) — A huge compilation of tools to make mapping easier.
-  - [GitHub](https://github.com/OliBomby/Mapping_Tools) | [Website](https://mappingtools.github.io/)
 
 
 #### osu!
