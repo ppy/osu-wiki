@@ -1,4 +1,4 @@
-# Lista de administradores de la osu! wiki
+# Lista de mantenedores de la osu! wiki
 
 Los mantenedores regularmente utilizan el [localizador de problemas](https://github.com/ppy/osu-wiki/issues) y revisan las "pull request" de otros contribuidores. A diferencia de otros contribuidores, ellos pueden editar las "pull request" y fusionarlas a la rama `master` del repositorio, haciendo los cambios públicos.
 
