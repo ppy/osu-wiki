@@ -201,7 +201,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Herausragende Beiträge zur Entwicklung von osu!(lazer) und osu!framework |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Herausragende Beiträge zur Entwicklung und Wartung der osu!-Performance-Punkte |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Herausragende Beiträge zur Entwicklung der osu!-Performance-Punkte |
-| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Herausragende Beiträge zur Entwicklung der osu!-Performance-Punkte und die Wiederbelebung der Mod Flashlight |
+| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Herausragende Beiträge zur Entwicklung der osu!-Performance-Punkte und zur Wiederbelebung der Mod Flashlight |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Herausragende Beiträge zum osu!-Wiki-Projekt |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Herausragende Beiträge zum osu!-Wiki-Projekt |
 | ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | Herausragende Beiträge zum technischen Support für macOS |
