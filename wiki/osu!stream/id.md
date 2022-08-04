@@ -2,7 +2,7 @@
 
 ![](img/Os-Logo.jpg "Logo osu! stream")
 
-**osu!stream** adalah versi osu! yang dikhususkan untuk dimainkan di perangkat layar sentuh. Untuk sekarang, osu!stream hanya tersedia di perangkat [iOS](http://en.wikipedia.org/wiki/IOS) dari Apple. Versi [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) sebelumnya telah direncanakan dan hampir selesai, namun tidak dirilis dikarenakan isu latensi audio di Android yang menyebabkan pengalaman gameplay yang tidak nyaman.
+**osu!stream** adalah versi osu! yang dikhususkan untuk dimainkan di perangkat layar sentuh. Untuk sekarang, osu!stream hanya tersedia di perangkat [iOS](https://id.wikipedia.org/wiki/IOS) dari Apple. Versi [Android](https://id.wikipedia.org/wiki/Android_(sistem_operasi)) sebelumnya telah direncanakan dan hampir selesai, namun tidak dirilis dikarenakan isu latensi audio di Android yang menyebabkan pengalaman gameplay yang tidak nyaman.
 
 osu!stream memperkenalkan sistem gameplay yang baru, dengan elemen gameplay yang baru seperti *hold circles* dan *connected beats*. osu!stream tidak mendukung *beatmap* osu! biasa tanpa proses konversi secara manual. Namun, *beatmap*-*beatmap* dibuat oleh sebuah tim khusus mapper untuk memanfaatkan elemen-elemen gameplay baru dan mengikuti [tingkatan standar yang lebih ketat](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
