@@ -1,10 +1,10 @@
 # Các gợi ý để làm công việc của bạn tốt hơn
 
-## Bài viết này sẽ nói về một số khó khăn có thể bạn đối mặt khi đang đóng góp. Các phương pháp được đề cập ở đây là làm cho công việc dễ hơn và có thể được áp dụng cho các dự án khác được quản lý trên GitHub hoặc các phương tiện tương tự.
+Bài viết này sẽ nói về một số khó khăn có thể bạn đối mặt khi đang đóng góp. Các phương pháp được đề cập ở đây là làm cho công việc dễ hơn và có thể được áp dụng cho các dự án khác được quản lý trên GitHub hoặc các phương tiện tương tự.
 
-## Mở đầu.
+## Mở đầu
 
-*Để biết thêm thông tin về Git và GitHub, hãy xem [Tài liệu GitHub](https://docs.github.com)*.
+*Để biết thêm thông tin về Git và GitHub, hãy xem [Tài liệu GitHub](https://docs.github.com).*
 
 **Git** là một máy chủ điều khiển các phiên bản và nó giúp xem các thay đổi về các tập tin. Dữ liệu và lịch sử thay đổi của osu! wiki đang được chứa trong một kho(repo) Git. **GitHub** là một phương tiện cho việc phát triển, nhằm cung cấp giao diện web cho repo Git và có một bộ công cụ dành cho quản lý dự án.
 
@@ -42,12 +42,15 @@ Nếu bạn gặp vấn đề gì khi đang sử dụng công cụ GitHub hoặc
 
 4. Nhấn nút `Run Workflow` và chờ nó hoàn thành. Nếu bạn tò mò xem công cụ này hoạt động ra sao, nhấn lại vào `Sync from osu! upstream`.
 
+![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Quá trình Workflow")
+
 ## Chỉnh sửa
 
 *Xem thêm: [Forking Workflow | Hướng dẫn Atlassian Git](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
 
 Trong phạm vi bản fork của bạn, bạn có thể tuỳ ý chỉnh sửa và lưu chúng. **Commits** là từng "phiên bản" của repo. **Branches** là không gian làm việc, bạn có thể chuyển đổi các phiên bản của repo. Để làm quá trình làm việc dễ dàng hơn và làm cho lịch sử của wiki sạch và không lộn xộn, lưu ý các điều sau:
-- [Đồng bộ branch `master`](#syncing-the-fork).
+
+- [Đồng bộ branch `master`](#đồng-bộ-fork).
 - Luôn luôn bắt đầu công việc bằng cách tạo branch từ `master`, và bạn chỉ giữ những thay đổi ở đây. Hãy cho branch một cái tên có ý nghĩa, như `update-staff-log`.
 - Lưu công việc(commit changes) khi bạn đã làm đủ một lượng thay đổi hợp lý. Lưu cả một bài viết sẽ tốt hơn lưu 10 lần chỉnh sửa nhỏ.
 - **Viết câu nhận xét ngắn và có ý nghĩa về công việc**, để làm mọi người biết bên trong có gì. Ví dụ như `Rewrite the section about jump patterns` có ý nghĩa hơn `Update vi.md`.
@@ -71,7 +74,7 @@ Cách tốt nhất để sửa theo đánh giá là qua giao diện web của Gi
 
 ![Sửa theo nhiều đánh giá](img/applying-batch-review.gif)
 
-Bạn có thể bấm `Commit suggestion` để sửa từng gợi ý một, nếu như bạn không viết linh tinh chả vì lý do gì và [với lời nhắc nhở có ý nghĩa](#making-edits).
+Bạn có thể bấm `Commit suggestion` để sửa từng gợi ý một, nếu như bạn không viết linh tinh chả vì lý do gì và [với lời nhắc nhở có ý nghĩa](#chỉnh-sửa).
 
 ![Sửa theo một đánh giá](img/applying-single-review.gif)
 
@@ -92,5 +95,5 @@ Tuỳ vào mức độ nghiêm trọng của các conflict, bạn có hai lựa 
    3. Từ đây, sửa các conflict thủ công và xoá cả dòng có các đánh dấu `<<<<<<<`, `=======`, và `>>>>>>> master`.
    4. Lặp lại quá trình trên với mọi conflict.
    5. Khi hoàn thành, nhấn `Mark as resolved` (bạn chỉ có thể làm điều này khi mọi phần conflict trong tệp đã được xử lý).
-2. Nếu nút `Resolve conflicts` bị khoá vì nó quá phức tạp đối với GitHub, bạn đã gặp xui xẻo và cần phải [cập nhật branch của bạn](#syncing-the-fork) và thực hiện lại các thay đổi của bạn.
+2. Nếu nút `Resolve conflicts` bị khoá vì nó quá phức tạp đối với GitHub, bạn đã gặp xui xẻo và cần phải [cập nhật branch của bạn](#đồng-bộ-fork) và thực hiện lại các thay đổi của bạn.
    - *Chú ý: Điều này chỉ đúng khi bạn giới hạn ở việc sử dụng Giao diện Web GitHub.*  Vẫn còn nhiều cách khác để sửa, nhưng chúng không nằm trong phạm vi của bài viết này. Hơn nữa, nó không đáng để làm vậy, bởi vì đằng nào bạn cũng sẽ phải ghi đè và hoàn tác lại các thay đổi bị conflict.
