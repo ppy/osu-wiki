@@ -4,12 +4,12 @@
 
 En osu!mania, cada beatmap tiene el mismo máximo de puntaje total de 1 millón (1,000,000).
 
-Los puntos son dados en dos partes, puntos base y puntos de bonificacion, cada uno contribuyendo un 50% del puntaje total.
+Los puntos son dados en dos partes, puntos base y puntos de bonificación, cada uno contribuyendo un 50% del puntaje total.
 
-- Los puntos base estan basados en el juicio de golpe.
+- Los puntos base están basados en el juicio de golpe.
   - Un 300 arco-íris vale un poco más que un 300.
-- Los puntos de bonificacion estan basados en el juicio y un multiplicador de bonificacion flotante.
-  - El multiplicador incrementa con un 300 arco-íris o un 300, mientras que decrece con un 200 o menor.
+- Los puntos de bonificación están basados en el juicio y un multiplicador de bonificación flotante.
+  - El multiplicador incrementa con un 300 arcoíris o un 300, mientras que decrece con un 200 o menor.
   - Mientras mejor juicio, más alto el multiplicador/menor es el castigo.
     - Hay un límite superior para el multiplicador.
 
@@ -22,7 +22,7 @@ PuntajeBase = (PuntajeMax * MultilpicadorMod * 0.5 / TotalDeNotas) * (ValorDelGo
 
 PuntajeBonus = (PuntajeMax * MultiplicadorMod * 0.5 / TotalDeNotas) * (ValorBonusDelGolpe * Sqrt(Bonus) / 320)
 Bonus = Bonus antes de este golpe + BonusDelGolpe - CastigoDelGolpe / DivisorMod
-Bonus esta limitado a [0, 100], inicialmente 100.
+Bonus está limitado a [0, 100], inicialmente 100.
 
 PuntajeMax = 1 000 000
 MultilpicadorMod = El multiplicador de puntaje de los mods seleccionados (reducción de dificultad y/o nK)
