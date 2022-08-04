@@ -86,7 +86,7 @@ Diseñada por [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa fue una de
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Diseñada por [pyun](https://osu.ppy.sh/users/981534), Chirou fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es muy estricta y exigente, perfeccionista y no le gusta cometer errores — especialmente en sus ritmos en osu!taiko. Pero más allá de su perspectiva fuerte, si llegas a su punto débil, puede ser esponjosa y linda. Tiene 14 años, nació el 25 de octubre con sangre tipo AB. Ella también mide 4 pies y 11 pulgadas y pesa 100 libras. Sus pasatiempos incluyen tocar la batería, mantenerse caliente en su capa y coleccionar gemas o rocas. Chirou ha hecho algunas apariciones en varias presentaciones de fanart de usuarios.
+Diseñada por [pyun](https://osu.ppy.sh/users/981534), Chirou fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es muy estricta y exigente, perfeccionista y no le gusta cometer errores, especialmente en sus ritmos en osu!taiko. Pero más allá de su perspectiva fuerte, si llegas a su punto débil, puede ser esponjosa y linda. Tiene 14 años, nació el 25 de octubre con sangre tipo AB. Ella también mide 4 pies y 11 pulgadas y pesa 100 libras. Sus pasatiempos incluyen tocar la batería, mantenerse caliente en su capa y coleccionar gemas o rocas. Chirou ha hecho algunas apariciones en varias presentaciones de fanart de usuarios.
 
 ### Taikonator
 
