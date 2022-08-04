@@ -59,7 +59,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - [Key presses per second](https://osu.ppy.sh/community/forums/topics/552405) — Counts and displays how many times a certain key is pressed.
   - [GitHub](https://github.com/RoanH/KeysPerSecond)
 - OpenTabletDriver — Open source, cross-platform, user-mode tablet driver
-   - [GitHub](https://github.com/OpenTabletDriver/OpenTabletDriver) | [Website](https://opentabletdriver.net/)  
+  - [GitHub](https://github.com/OpenTabletDriver/OpenTabletDriver) | [Website](https://opentabletdriver.net/)
 - [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282) — Allows you to view and save your replays after backing out of the ranking screen.
   - [GitHub](https://github.com/jkapi/Osu-Replays)
 - [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) — An application that converts replay files to videos.
@@ -115,7 +115,6 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/Tom94/AiModtpDifficultyCalculator)
 - [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059) — A tool that stabilises the slider velocity after BPM changes.
 
-
 #### osu!
 
 - [osu! Slider Creator Tool](https://osu.ppy.sh/community/forums/topics/536978) — Translate drawn shapes into sliders.
@@ -154,7 +153,6 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/Chiyozel/TaikoStoryboardGen)
 - Storybrew — Easy to use Storyboard editor.
   - [GitHub](https://github.com/Damnae/storybrew)
-
 
 ### Modding
 
