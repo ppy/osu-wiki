@@ -270,7 +270,9 @@ Sebagai tambahan, tiap awal *slider*, akhir *slider*, dan *repeat tick* diberi n
 
 - **Penentuan nilai slider bergantung pada ketepatan ketukan awal.**.
 - Slider terdiri dari *slider tick*, yang termasuk awal, akhir, dan *repeat point* dari *slider*.
-- Kamu mendapatkan 300 apabila kamu mendapatkan seluruh *slider tick* dan ketukan awal yang akurat, 100 apabila kamu mendapatkan setidaknya setengah dari jumlah *slider tick* dengan ketukan awal yang kurang akurat, dan 50 apabila kamu setidaknya mendapatkan 1 *slider tick* atau setidaknya mengetuk awal *slider*.
+  - Kamu mendapatkan 300 apabila berhasil mendapatkan seluruh *slider tick* dan ketukan awal yang akurat.
+  - Kamu mendapatkan 100 apabila mendapatkan setidaknya setengah dari bagian *slider* dengan ketukan awal yang cukup akurat.
+  - Kamu mendapatkan 50 apabila setidaknya mendapatkan setidaknya satu *slider tick* atau setidaknya mendapat ketukan awal *slider*.
 - **Mengetuk awal slider terlalu cepat** tidak akan memicu *miss*, namun **akan mengulang pengali kombomu dari 0**.
 - Kamu hanya akan mendapatkan *miss* apabila kamu tidak melakukan apa-apa terhadap *slider* tersebut.
 
@@ -326,8 +328,6 @@ Pada **Mode Easy, lifebar tidak digunakan sama sekali**.
 Pada **Mode Stream**, pemain diberikan tiga *lifebar* dan pemain memulai dengan *lifebar* tahap kedua yang terisi setengah penuh. *Lifebar* pemain akan turun/naik ke tahap berikutnya dengan sistem **"*Stream Up!*"** dan **"*Stream Down!*"** dengan mengisi penuh *lifebar*/mengosongkan *lifebar*. Setelah tulisan ditampilkan, permainan akan menampilkan animasi di latar yang akan (menaikkan/menurukan) tingkat kesulitan dan kamu akan menapatkan *lifebar* terisi setengah penuh pada tahap baru. Apabila pemain mendapatkan "*Stream Down!*", pemain akan diberikan kekebalan sementara (dikarenakan *lifebar* pada tahap tersebut sudah kosong) sampai animasi penurunan tingkat kesulitan ditampilkan dan *lifebar* tersebut akan digantikan dengan *lifebar* (setengah penuh) baru.
 
 Pada **mode Expert, pemain hanya menggunakan 1 *lifebar***.
-
-Berikut adalah aturan yang dapat mengisi atau mengurangi *lifebar*.
 
 Kamu dapat mengisi *lifebar* dari:
 
