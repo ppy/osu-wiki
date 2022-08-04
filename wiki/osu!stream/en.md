@@ -12,13 +12,13 @@ Development for this version ended in 2020. For more information, read the [blog
 
 ## Installation
 
-![](img/Os-Devices.jpg "osu!stream in iDevice")
+![](img/Os-Devices.jpg "osu!stream in iOS devices")
 
-### iDevice's App Store method (Suggested)
+### iOS App Store method (suggested)
 
-**Make sure the iDevice can connect to the Internet (either by Wi-Fi or 3G/4G).**
+**Make sure the iOS device can connect to the Internet (either by Wi-Fi or 3G/4G).**
 
-- Go to "App Store" from the iDevice
+- Go to "App Store" from the iOS device
 - Search for osu!stream
 - Press and install osu!stream
   - If prompted to key-in the Apple ID and the password, please do so.
@@ -31,13 +31,13 @@ Development for this version ended in 2020. For more information, read the [blog
 
 - Go to [this link and download it](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
   - If requested for Apple ID, key-in the Apple ID and the password.
-- Plug-in the iDevice to the device (that has osu!stream).
+- Plug-in the iOS device to the device (that has osu!stream).
 - Transfer the osu!stream files using iTunes.
-- Unplug the iDevice and osu!stream can be played.
+- Unplug the iOS device and osu!stream can be played.
 
 ## Adding Beatmaps
 
-**Make sure the iDevice can connect to the Internet (either by Wi-Fi or 3G/4G).**
+**Make sure the iOS device can connect to the Internet (either by Wi-Fi or 3G/4G).**
 
 - Open osu!stream.
 - Press the osu! symbol and it should be directed to the main menu (or tutorial if first time)
