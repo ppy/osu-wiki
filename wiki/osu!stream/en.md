@@ -33,7 +33,7 @@ Development for this version ended in 2020. For more information, read the [blog
   - If requested for Apple ID, key-in the Apple ID and the password.
 - Plug-in the iOS device to the device (that has osu!stream).
 - Transfer the osu!stream files using iTunes.
-- Unplug the iOS devicey and osu!stream can be played.
+- Unplug the iOS device and osu!stream can be played.
 
 ## Adding Beatmaps
 
