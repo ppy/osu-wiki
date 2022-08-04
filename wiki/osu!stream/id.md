@@ -371,4 +371,3 @@ Kamu dapat membuka laman "Store" dalam game atau dengan menekan tombol "Download
 - [Forum diskusi (website resmi osu!)](https://osu.ppy.sh/community/forums/79)
 - [Repository GitHub](https://github.com/ppy/osu-stream)
 - [Postingan blog](https://blog.ppy.sh/osu-stream-2020-release/)
-- 
