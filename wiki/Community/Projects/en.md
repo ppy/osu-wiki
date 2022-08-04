@@ -91,8 +91,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 - Ronnia — A alternative to Mikuia with a similar feature set
   - [GitHub](https://github.com/aticie/ronnia) | [Website](https://ronnia.me/)
   - [Website](https://mikuia.tv/)
-- [osu!Keys](https://osu.ppy.sh/community/forums/topics/497467) — Displays a key input overlay to overlay in a live stream.
-  - [GitHub](https://github.com/TheRedCoderGit/Osu-Keys/)
+- JKPS — A keys-per-second program that can be used as a input overlay with a lot of customization.
+  - [GitHub](https://github.com/JekiTheMonkey/JKPS)
 - [osu!RequestBot](https://osu.ppy.sh/community/forums/topics/175723) — Keep track of song requests while streaming.
   - [GitHub](https://github.com/RedbackThomson/OsuRequestBot)
 - [osu!StreamCompanion](https://osu.ppy.sh/community/forums/topics/209616) — osu! information extractor for live streamers.
