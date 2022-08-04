@@ -55,7 +55,3 @@ tags:
 ## osu!taiko и osu!mania
 
 Скорость подхода видна при просмотре информации карты в [osu!taiko](/wiki/Game_mode/osu!taiko) и [osu!mania](/wiki/Game_mode/osu!mania), но она никак не влияет на игровой процесс. Скорость прокрутки этих режимов определяется другими факторами.
-
-<!-- TODO: Insert lots of links -->
-
-<!-- TODO: a chart would be nice for comparing speeds/values with mods -->
