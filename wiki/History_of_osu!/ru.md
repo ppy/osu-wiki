@@ -1,6 +1,5 @@
 ---
 outdated: true
-needs_cleanup: true
 ---
 
 # История osu!
