@@ -14,7 +14,7 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
 
 ![](img/Os-Devices.jpg "osu!stream di perangkat iOS")
 
-#### Melalui App Store iOS (disarankan)
+### Melalui App Store iOS (disarankan)
 
 **Pastikan perangkat iOS-mu dapat terhubung ke Internet (menggunakan Wi-Fi atau data seluler 3G/4G).**
 
@@ -25,7 +25,7 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
 - osu!stream dapat dimainkan setelah unduhan dan pemasangan selesai.
   - Disarankan untuk membaca bagian "Mendapatkan *Beatmap* Baru" untuk memastikan kamu mendapatkan koleksi *beatmap* gratis terbaru. osu!stream yang baru terinstal hanya diisi dengan 2 *beatmap* saja.
 
-#### Melalui USB
+### Melalui USB
 
 **Pastikan [iTunes](https://www.apple.com/itunes/) telah terpasang di komputermu.**
 
@@ -35,7 +35,7 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
 - Pasang osu!stream melalui iTunes.
 - Lepas colokan USB-mu dan osu!stream dapat dimainkan.
 
-#### Mendapatkan *Beatmap* Baru
+## Mendapatkan *Beatmap* Baru
 
 **Pastikan perangkat iOS kamu dapat terhubung ke Internet (menggunakan Wi-Fi atau data seluler).**
 
@@ -45,7 +45,7 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
   - Atau kamu dapat menekan tombol "Play" lalu menekan "Download more songs!"
 - Pilih koleksi *beatmap* yang ingin kamu unduh.
 
-### Apa perbedaan versi osu! PC dengan osu!stream?
+## Apa perbedaan versi osu! PC dengan osu!stream?
 
 - **Hanya dapat dimainkan di perangkat iOS.** (untuk sekarang)
 - Seluruh *beatmap* dibuat dari nol.
@@ -58,11 +58,11 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
 - Kamu tidak dapat mengganti skin atau menambahkan mod apapun (untuk sekarang).
 - *Easter Eggs* dapat ditemukan namun tidak ada laman khusus *Achievement* (Pencapaian).
 
-#### Sistem Gameplay yang Baru
+### Sistem Gameplay yang Baru
 
 **Catatan:** Kamu dapat mempelajari elemen gameplay yang baru di laman "Tutorial".
 
-##### Tampilan Finger Guides
+#### Tampilan Finger Guides
 
 ![](img/Os-FG.jpg "Finger Guides display")
 
@@ -71,7 +71,7 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
 - Lingkaran hijau mewakili tangan kiri dan lingkaran merah mewakili tangan kanan.
 - Kamu dapat menonaktifkan fitur ini dalam menu "Option" atau seletah kamu menyelesaikan tutorial.
 
-##### Connected Beats
+#### Connected Beats
 
 ![](img/Os-CB.png "Connected Beats")
 
@@ -79,7 +79,7 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
   - *Connected Beats* itu tidak hanya "*hit circle* - *hit circle*", namun bisa juga "*hit circle* - *slider*", "*hold circle* - *slider*" dan seterusnya.
 - *Connected Beats* dapat dicirikan dengan garis putih yang menghubungkan satu objek dengan objek yang lain.
 
-##### Hold circle
+#### Hold circle
 
 ![](img/Os-HC.jpg "Hold circle 1")
 
@@ -92,7 +92,7 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
   - Apabila kamu mengangkat jarimu sebelum lingkarannya "meledak", pengali kombomu akan mengulang dari 0, namun ini tidak dianggap sebagai "*miss*" (karena kamu dianggap telah mengenai *hold circle* tersebut.)
   - Apabila kamu tidak menahan lingkaran tersebut, HP (*health point*) kamu akan berkurang selama kamu tidak menahannya sampai "meledak".
 
-#### Mode baru yang menukarkan tingkat kesulitan
+### Mode baru yang menukarkan tingkat kesulitan
 
 ---
 
@@ -112,7 +112,7 @@ Perkembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih
 
 ---
 
-##### Mode Easy
+#### Mode Easy
 
 ![](img/Os-ModeEasy.jpg "Mode Easy")
 
@@ -122,7 +122,7 @@ Mode Easy dikhususkan untuk pemula agar dapat membiasakan *gameplay* dari osu!st
 
 Warna latarnya yaitu Hijau.
 
-##### Mode Stream
+#### Mode Stream
 
 ![](img/Os-ModeStream.jpg "Mode Stream")
 
@@ -154,7 +154,7 @@ Warna latarnya yaitu Hijau (Easy), Biru (Normal) dan Merah Jambu (Hard).
 
 ---
 
-##### Mode Expert
+#### Mode Expert
 
 ![](img/Os-ModeExpert.jpg "Mode Expert")
 
@@ -164,7 +164,7 @@ Terkunci pada awalnya, dan hanya dapat dibuka dengan mendapatkan nilai A atau le
 
 Warna latarnya yaitu Ungu dan tingkat kecerahan layar bergantung pada banyak HP yang kamu miliki.
 
-### Antarmuka
+## Antarmuka
 
 ---
 
@@ -216,15 +216,15 @@ Warna latarnya yaitu Ungu dan tingkat kecerahan layar bergantung pada banyak HP 
 
 ---
 
-### Daftar lagu
+## Daftar lagu
 
 ***[Buka laman ini untuk daftar lagu secara penuh](Song_List)***
 
-### Penilaian
+## Penilaian
 
 *Perhatikan: Leaderboard tetap dapat dilihat di dalam game, namun skor baru manapun tidak akan diterima.*
 
-#### Akurasi
+### Akurasi
 
 `Akurasi = HitValue / (PerfectHitValue)`
 
@@ -235,7 +235,7 @@ Warna latarnya yaitu Ungu dan tingkat kecerahan layar bergantung pada banyak HP 
 
 Dengan kata lain, setiap *miss* akan dihitung 0%, setiap 50 akan dihitung 25%, setiap 100 akan dihitung 50%, dan setiap 300 akan dihitung 100%.
 
-#### Skor
+### Skor
 
 Skor yang diberikan dari setiap *hit circle* dan ujung *slider* dihitung dengan rumus sebagai berikut:
 
@@ -249,7 +249,7 @@ Skor yang diberikan dari setiap *hit circle* dan ujung *slider* dihitung dengan 
 
 Sebagai tambahan, tiap awal *slider*, akhir *slider*, dan *repeat tick* diberi nilai 30 poin dan tiap putaran dari *spinner* diberi nilai 100 poin. Kamu juga akan diberi 10 poin tambahan tergantung kecepatan putaran *spinner* ketika *spinner meter* sudah penuh.
 
-#### Penentuan Nilai Objek
+### Penentuan Nilai Objek
 
 **Hit-circle**
 
@@ -279,7 +279,7 @@ Sebagai tambahan, tiap awal *slider*, akhir *slider*, dan *repeat tick* diberi n
 - Untuk *spinner*, kamu akan mendapatkan 300, 100 atau 50 tergantung pada jumlah putaran yang kamu lakukan dibanding panjang *spinner*-nya.
 - Kamu akan mendapatkan *miss* apabila kamu tidak mengisi penuh bar yang ada di sisi *spinner*.
 
-#### Pengali
+### Pengali
 
 Masing-masing berikut dapat menambahkan 1 poin pada pengali kombomu:
 
@@ -302,7 +302,7 @@ Masing-masing berikut tidak akan menambahkan atau mengulang pengali kombo dari 0
 - Gagal mengenai ujung akhir *slider*. (Kamu akan diberikan "Good!" atau poin 100/50)
 - Poin tambahan/bonus dari *spinner*
 
-#### Grade
+### Grade
 
 ![](img/Os-Grade.jpg "Layar Grade")
 
@@ -315,7 +315,7 @@ Masing-masing berikut tidak akan menambahkan atau mengulang pengali kombo dari 0
 - C = Akurasi lebih dari 60%
 - D = 60% kebawah
 
-#### Life meter
+### Life meter
 
 Tidak seperti osu! biasanya, sistem *lifebar* di osu!stream memiliki aturan yang berbeda.
 
