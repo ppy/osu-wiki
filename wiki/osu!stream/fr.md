@@ -1,8 +1,3 @@
----
-outdated_since: 5ec193cde80339dbf180e6dd622a35731c905556
-outdated_translation: true
----
-
 # osu!stream
 
 ![](img/Os-Logo.jpg "logo d'osu!stream")
@@ -17,13 +12,13 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 
 ## Installation
 
-![](img/Os-Devices.jpg "osu!stream dans iDevice")
+![](img/Os-Devices.jpg "osu!stream sur les appareils iOS")
 
-### Méthode de l'App Store de l'iDevice (recommandé)
+### Méthode de l'App Store des appareils iOS (recommandé)
 
-**Assurez-vous que l'iDevice peut se connecter à Internet (soit par Wi-Fi, soit par 3G/4G).**
+**Assurez-vous que l'appareil iOS peut se connecter à Internet (soit par Wi-Fi, soit par 3G/4G).**
 
-- Allez sur l'"App Store" depuis votre iDevice.
+- Allez sur l'"App Store" depuis votre appareil iOS.
 - Recherchez osu!stream
 - Appuyez et installez osu!stream
   - Si vous êtes invité à saisir votre identifiant Apple et votre mot de passe, faites-le.
@@ -36,13 +31,13 @@ Le développement de cette version s'est terminé en 2020. Pour plus d'informati
 
 - Allez sur [ce lien](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8) et téléchargez osu!stream
   - Si l'on vous demande votre identifiant Apple, saisissez votre identifiant Apple et votre mot de passe.
-- Branchez l'iDevice sur l'appareil (qui a osu!stream).
+- Branchez l'appareil iOS sur l'appareil (qui a osu!stream).
 - Transférez les fichiers osu!stream en utilisant iTunes.
-- Débranchez l'iDevice et osu!stream pourra être lancé.
+- Débranchez l'appareil iOS et osu!stream pourra être lancé.
 
 ## Ajouter des beatmaps
 
-**Assurez-vous que l'iDevice peut se connecter à Internet (soit par Wi-Fi, soit par 3G/4G).**
+**Assurez-vous que l'appareil iOS peut se connecter à Internet (soit par Wi-Fi, soit par 3G/4G).**
 
 - Ouvrez osu!stream.
 - Appuyez sur le symbole d'osu! et vous devriez être redirigé vers le menu principal (ou le tutoriel si c'est la première fois).
