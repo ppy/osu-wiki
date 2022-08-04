@@ -6,8 +6,6 @@ Si necesitas ayuda para realizar una contribución o necesitas una revisión en 
 
 ## El equipo wiki
 
-<!-- Referencia interna: https://github.com/orgs/ppy/teams/wiki/members -->
-
 | Perfil de osu! | Perfil de GitHub | Estado | Idiomas adicionales |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | **Activo** | - |
