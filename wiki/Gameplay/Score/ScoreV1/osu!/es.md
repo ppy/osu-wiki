@@ -2,7 +2,7 @@
 
 *Ver también: [osu! judgement system](/wiki/Gameplay/Judgement/osu!)*
 
-En ScoreV1, cada uno de los tipos de objeto en osu! es puntuado de manera ligeramente distinta. Sin embargo, el total de los puntos es una simple suma de los puntos otorgados individualmente por cada objeto en el beatmap.
+En **ScoreV1**, cada uno de los tipos de objeto en osu! es puntuado de manera ligeramente distinta. Sin embargo, el total de los puntos es una simple suma de los puntos otorgados individualmente por cada objeto en el beatmap.
 
 Las reglas de cómo se puntúa cada objeto individualmente están indicadas en la sección inferior.
 
