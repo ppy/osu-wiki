@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: 1963510e21506f90b21ad201b0eb9ca98fe7ecb5
----
-
 # Các gợi ý để làm công việc của bạn tốt hơn
 
 ## Bài viết này sẽ nói về một số khó khăn có thể bạn đối mặt khi đang đóng góp. Các phương pháp được đề cập ở đây là làm cho công việc dễ hơn và có thể được áp dụng cho các dự án khác được quản lý trên GitHub hoặc các phương tiện tương tự.
@@ -36,7 +30,7 @@ Nếu bạn gặp vấn đề gì khi đang sử dụng công cụ GitHub hoặc
 2. Trong `Workflows`, tìm `Sync from osu! upstream`.
 3. Nhấn `Run workflow` và điền vào các thiết lập:
 
-![GitHub Actions Workflow - Chạy Workflow](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Chạy Workflow")
+![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Chạy Workflow")
 
 - **Use workflow from**: tên branch bạn muốn đồng bộ. Mặc định sẽ là `master`.
 - **Create a backup of your target branch**:
