@@ -1,6 +1,6 @@
 # osu!stream
 
-![](img/Os-Logo.jpg)
+![](img/Os-Logo.jpg "Logo osu! stream")
 
 **osu!stream** adalah versi osu! yang dikhususkan untuk dimainkan di perangkat layar sentuh. Untuk sekarang, osu!stream hanya tersedia di perangkat [iOS](http://en.wikipedia.org/wiki/IOS) dari Apple. Versi [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) sebelumnya telah direncanakan dan hampir selesai, namun tidak dirilis dikarenakan isu latensi audio di Android yang menyebabkan pengalaman gameplay yang tidak nyaman.
 
