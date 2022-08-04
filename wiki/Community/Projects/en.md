@@ -55,6 +55,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Gameplay
 
+- Circleguard — A replay analysis program typically used to check for instances of cheating.
+  - [GitHub](https://github.com/circleguard/circleguard)
 - [Desktop Composition Disabler](https://osu.ppy.sh/community/forums/topics/177218) — Disables the Desktop Composition in Windows to reduce input latency for window-mode players.
 - [Key presses per second](https://osu.ppy.sh/community/forums/topics/552405) — Counts and displays how many times a certain key is pressed.
   - [GitHub](https://github.com/RoanH/KeysPerSecond)
