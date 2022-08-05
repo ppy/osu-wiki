@@ -44,4 +44,3 @@ Los "spinners" también otorgan puntos de bonificación adicionales, no afectado
 
 - Cada rotación entera antes de que el "spinner" sea completado otorga 100 puntos.
 - Después de que el "spinner" sea completado, las rotaciones enteras otorgan 1000 puntos adicionales, para un total de 1100 puntos adicionales por rotación.
-
