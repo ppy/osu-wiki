@@ -16,8 +16,8 @@ Die folgenden Chatbefehle sind für die Fernverwaltung von Mehrspieler-Turnierr�
   - `teammode` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
   - `scoremode` - 0: Score, 1: Accuracy, 2: Combo, 3: Score V2
 - `!mp move <username> <slot>` - Verschiebt einen Spieler innerhalb des Raums zum angegebenen Slot (Startindex 1).
-- `!mp host <username>` - Transferiert die Gastgeberrechte zu diesem Spieler.
-- `!mp clearhost` - Löscht die Gastgeberrechte des Raums.
+- `!mp host <username>` - Transferiert die Host-Rechte zu diesem Spieler.
+- `!mp clearhost` - Löscht die Host-Rechte des Raums.
 - `!mp settings` - Zeigt alle Raumdetails an.
 - `!mp start [<time>]` - Startet das Spiel nach einer festgelegten Zeit (in Sekunden) oder sofort, wenn keine Zeit angegeben wird.
 - `!mp abort` - Bricht das Spiel ab.
@@ -50,7 +50,7 @@ Elemente, die mit Winkelklammern (`<>`) umschlossen sind, definieren "Parameter"
 
 Die Befehle können sowohl in osu! als auch über einen IRC-Client wie z. B. mIRC, HexChat oder HydraIRC verwendet werden.
 
-Der originale Gastgeber eines Mehrspieler-Raums kann ebenfalls diese Befehle benutzen. Falls der originale Gastgeber den Raum verlässt, wird der nächste Gastgeber diese Befehle nicht erben. Der originale Gastgeber wird wieder in der Lage sein, die Befehle zu verwenden, sobald er dem Raum erneut beitritt.
+Der originale Host eines Mehrspieler-Raums kann ebenfalls diese Befehle benutzen. Falls der originale Host den Raum verlässt, wird der nächste Host diese Befehle nicht erben. Der originale Host wird wieder in der Lage sein, die Befehle zu verwenden, sobald er dem Raum erneut beitritt.
 
 ## Beispielhafte Benutzung
 
