@@ -28,17 +28,17 @@ Pada tanggal 21 Agustus 2014, sebuah [*newspost*](https://osu.ppy.sh/home/news/2
 
 Seperti biasa, banyak hal baru ditambahkan ke osu!. Salah satunya adalah layar ketika masuk sudah diperbarui. Hal lain yang baru adalah sistem *scrolling* dalam [osu!mania](/wiki/Game_mode/osu!mania). Sistem baru ini berdasarkan pada BPM beatmap daripada *scroll* yang sudah ditetapkan! Intro dan outro baru ketika memasuki game, daripada langsung memainkan musik beatmap saat memasuki game, tema lagu yang luar biasa telah ditambahkan ke osu!. Dan kebanyakan orang mengucapkan osu! sebagai \\oss!\\, bukan \\osU!\\.
 
-Terakhir, mengarah pada peppy membuat keputusan yang sulit untuk merilis *osu!text.exe* (sekarang *osu!cuttingedge*) dapat digunakan **siapa saja**. Hal ini memungkinkan pemain yang tidak memiliki osu!supporter untuk melakukan *debug* pada osu! di mana osu! akan diperbarui ke klien mana pun. Itu pun, jika mereka ingin menggunakan fitur eksperimental yang kurang stabil. Setiap fungsi yang ada diberikan di osu!cuttingedge **kecuali** fitur multiplayer (membutuhkan osu!supporter).
+Terakhir, mengarah pada [peppy](https://osu.ppy.sh/users/2) membuat keputusan yang sulit untuk merilis *osu!text.exe* (sekarang *osu!cuttingedge*) dapat digunakan **siapa saja**. Hal ini memungkinkan pemain yang tidak memiliki [osu!supporter](https://osu.ppy.sh/home/support) untuk melakukan *debug* pada osu! di mana osu! akan diperbarui ke klien mana pun. Itu pun, jika mereka ingin menggunakan fitur eksperimental yang kurang stabil. Setiap fungsi yang ada diberikan di osu!cuttingedge **kecuali** fitur multiplayer (membutuhkan osu!supporter).
 
 ## Referensi
 
-1. [osu! newspost [peppy] (20 Januari 2014) - "Performance Ranking Maintenance"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
-2. [osu! newspost [Tom94] (26 Januari 2014) - "New Performance Ranking"](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)
-3. [osu! wiki article - "Performance points"](/wiki/Performance_points)
-4. [osu! newspost [Tom94] (1 Maret 2014) - "Performance ranking for all gamemodes"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
-5. [osu! forum comment (Resolved Issues) [Pawsu] - "[resolved] How to change all beatmap backgrounds")](https://osu.ppy.sh/community/forums/topics/397827?start=4749640)
-6. [osu! wiki article - "Skinning history"](/wiki/Skinning/History)
-7. [osu! newspost [LuigiHann] (3 April 2014) - "osu! Monthly Fanart Contest #1 - Ends this week!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
-8. [osu! newspost [LuigiHann] (21 Mei 2014) - "First Official osu! Fanart Contest Results!"](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results)
-9. [osu! newspost [peppy] (18 Juni 2014) - "Download restrictions removed"](https://osu.ppy.sh/home/news/2014-06-18-download-restrictions-removed)
-10. [osu! newspost [Ephemeral] (21 Agustus 2014) - "Restructuring of the BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
+1. [osu! *newspost* [peppy] (20 Januari 2014) - "Performance Ranking Maintenance"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
+2. [osu! *newspost* [Tom94] (26 Januari 2014) - "New Performance Ranking"](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)
+3. [artikel wiki osu! - "Performance points"](/wiki/Performance_points)
+4. [osu! *newspost* [Tom94] (1 Maret 2014) - "Performance ranking for all gamemodes"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
+5. [komentar forum osu! (Resolved Issues) [Pawsu] - "[resolved] How to change all beatmap backgrounds")](https://osu.ppy.sh/community/forums/topics/397827?start=4749640)
+6. [artikel wiki osu! - "Skinning history"](/wiki/Skinning/History)
+7. [osu! *newspost* [LuigiHann] (3 April 2014) - "osu! Monthly Fanart Contest #1 - Ends this week!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
+8. [osu! *newspost* [LuigiHann] (21 Mei 2014) - "First Official osu! Fanart Contest Results!"](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results)
+9. [osu! *newspost* [peppy] (18 Juni 2014) - "Download restrictions removed"](https://osu.ppy.sh/home/news/2014-06-18-download-restrictions-removed)
+10. [osu! *newspost* [Ephemeral] (21 Agustus 2014) - "Restructuring of the BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
