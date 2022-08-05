@@ -3,6 +3,8 @@ stub: true
 tags:
   - health drain rate
   - passive drain rate
+  - дрейн
+  - хп
 ---
 
 # HP drain rate
