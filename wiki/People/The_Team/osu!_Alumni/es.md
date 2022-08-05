@@ -4,9 +4,11 @@ outdated_translation: true
 
 # osu! Alumni
 
-Los **osu! Alumni** son miembros retirados o inactivos que realizaron importantes contribuciones durante su estancia. Si se tuviesen recursos disponibles, erigiríamos estatuas para cada miembro en la plaza de la ciudad. [Link](https://osu.ppy.sh/groups/16)
+Los **osu! Alumni** son miembros retirados o inactivos que realizaron importantes contribuciones durante su estancia. Si se tuviesen recursos disponibles, erigiríamos estatuas para cada miembro en la plaza de la ciudad.
 
-| Nombre | Epitafio |
+La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos los miembros.
+
+| Nombre | Funciones pasadas |
 | :-- | :-- |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ::{ flag=ID }:: [-SiN-](https://osu.ppy.sh/users/10560) | Moderador del chat |
