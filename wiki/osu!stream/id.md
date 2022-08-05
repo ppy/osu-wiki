@@ -347,7 +347,7 @@ Kamu dapat mengurangi *lifebar* dari:
 
 Berbeda dengan versi osu! lainnya, *lifebar* di osu!stream tidak berkurang dengan sendirinya.
 
-## Pertanyaan yang Mungkin Ditanyakan
+## Pertanyaan-pertanyaan
 
 ### Mengapa tidak ada lagu (sisipkan lagu ber-hak cipta disini)?
 
