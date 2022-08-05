@@ -6,9 +6,9 @@
 
 osu!stream memperkenalkan sistem gameplay yang baru, dengan elemen gameplay yang baru seperti *hold circles* dan *connected beats*. osu!stream tidak mendukung *beatmap* osu! biasa tanpa proses konversi secara manual. Namun, *beatmap*-*beatmap* dibuat oleh sebuah tim khusus mapper untuk memanfaatkan elemen-elemen gameplay baru dan mengikuti [tingkatan standar yang lebih ketat](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
-[osu!stream pernah diliput dalam osu!monthly \#5, yang juga disertai oleh wawancara singkat dengan para pengembangnya.](https://osu.ppy.sh/community/forums/topics/59924)
+[osu!stream pernah dibahas dalam osu!monthly \#5 yang juga memuat wawancara dengan pengembang.](https://osu.ppy.sh/community/forums/topics/59924)
 
-Pengembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih lanjut, baca [postingan blog ini](https://blog.ppy.sh/osu-stream-2020-release/) yang berisi rilisan terakhirnya. *Source code* osu!stream bersama dengan alat pengujian dan konversi *beatmap* telah dapat diakses secara publik di tahun yang sama dengan lisensi khusus di [GitHub](https://github.com/ppy/osu-stream) jika kamu berminatt, dan semua *beatmap* yang sebelumnya berbayar sekarang dapat di-*download* secara gratis melalui menu *in-game* "Store" di osu!stream.
+Pengembangan versi osu! ini diberhentikan pada tahun 2020. Untuk informasi lebih lanjut, baca [postingan blog ini](https://blog.ppy.sh/osu-stream-2020-release/) yang berisi rilisan terakhirnya. *Source code* osu!stream bersama dengan alat pengujian dan konversi *beatmap* telah dapat diakses secara publik di tahun yang sama dengan lisensi khusus di [GitHub](https://github.com/ppy/osu-stream) jika kamu berminat, dan semua *beatmap* yang sebelumnya berbayar sekarang dapat di-*download* secara gratis melalui menu *in-game* "Store" di osu!stream.
 
 ## Pemasangan
 
