@@ -38,9 +38,9 @@ Adicionalmente, partes del slider otorgan puntaje de manera independiente, no si
 
 ## Spinners
 
-Cada "spinner" como tal produce un juicio de 50, 100, o 300, basado en la razón de rotaciones hechas a rotación requeridas para completar el "spinner". Este juicio es convertido a un valor de puntaje usando el mismo método usado por los "hit circles".
+Cada "spinner" como tal produce un juicio de 50, 100, o 300, basado en la razón de rotaciones hechas a rotaciónes requeridas para completar el "spinner". Este juicio es convertido a un valor de puntaje usando el mismo método usado por los "hit circles".
 
 Los "spinners" también otorgan puntos de bonificación adicionales, no afectados por otras bonificaciones o multiplicadores:
 
-- Cada rotación entera antes de que el "spinner" sea completado otorga 100 puntos.
-- Después de que el "spinner" sea completado, las rotaciones enteras otorgan 1000 puntos adicionales, para un total de 1100 puntos adicionales por rotación.
+- Cada rotación completa antes de que el "spinner" sea completado otorga 100 puntos.
+- Después de que el "spinner" sea completado, las rotaciones completas otorgan 1000 puntos adicionales, para un total de 1100 puntos adicionales por rotación.
