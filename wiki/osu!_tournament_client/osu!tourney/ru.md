@@ -10,7 +10,7 @@
 
 - [Настройка](Setup)
 - [Управление мультиплеером](Multiplayer_usage)
-- [Режим наблюдения](Spectator_usage)
+- [Режим зрителя](Spectator_usage)
 - [Скиннинг](Skinning)
 - [Команды для управления турниром](Tournament_management_commands)
 - [Решение проблем](Troubleshooting)
