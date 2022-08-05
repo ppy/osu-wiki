@@ -3,14 +3,14 @@
 Die folgenden Chatbefehle sind für die Fernverwaltung von Mehrspieler-Turnierräumen vorgesehen:
 
 - `!mp make <name>` - Erstellt einen Turnierraum mit dem angegebenen Namen. Maximal 4 solcher Räume können erstellt werden.
-  - Dieser Raum ist insofern besonders, da er nicht geschlossen wird, sobald alle Spieler den Raum verlassen haben. Außerdem ist er passwortgeschützt vor Spielern, die ihm selbst beitreten wollen.
+  - Dieser Raum ist insofern besonders, da er nicht geschlossen wird, sobald alle Spieler den Raum verlassen haben. Außerdem ist er vor Spielern, die ihm selbst beitreten wollen, passwortgeschützt.
   - Wenn der Raum nicht mehr weiter genutzt werden soll, benutzte `!mp close`, um den Raum zu schließen.
 - `!mp makeprivate <name>` - Erstellt einen privaten Turnierraum mit dem angegebenen Namen. Dieser Befehl funktioniert wie `!mp make`, aber der Spielverlauf ist nur für den Raumersteller und die Teilnehmer sichtbar.
 - `!mp name <title>` - Ändert den Raumnamen.
 - `!mp invite <username>` - Lädt einen Spieler in den Raum ein.
   - Bedenke, dass dies *keine* Blockierungen privater Nachrichten umgeht, die im osu!-Client einstellbar sind. D. h., dass dein Turnierpersonal den Spielern mitteilen muss, "Private Nachrichten nur von Freunden" in den osu!-Einstellungen zu deaktivieren.
 - `!mp lock` - Sperrt den Raum, sodass Spieler nicht mehr ihr Team und ihren Slot ändern können.
-- `!mp unlock` - Kehrt die obigen Ausführungen um.
+- `!mp unlock` - Kehrt die obige Aktion um.
 - `!mp size <size>` - Stellt die Menge an verfügbaren Slots (1-16) im Raum ein.
 - `!mp set <teammode> [<scoremode>] [<size>]` - Stellt verschiedene Raumeigenschaften ein.
   - `teammode` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
@@ -54,12 +54,12 @@ Der originale Gastgeber eines Mehrspieler-Raums kann ebenfalls diese Befehle ben
 
 ## Beispielhafte Benutzung
 
-Das Folgende sind Beispiele für die Verwendung der Befehle:
+Im Folgenden sind Beispiele für die Verwendung der Befehle aufgelistet:
 
-- `!mp invite Zallius` - Lade Zallius zum Raum ein.
+- `!mp invite Zallius` - Lade Zallius in den Raum ein.
 - `!mp move Loctav 4` - Verschiebe Loctav auf Slot 4 des Raums.
 - `!mp team Zallius blue` - Verschiebe Zallius zum blauen Team.
-- `!mp team Loctav red` - Verschiebe Loctav zum roten Team.
+- `!mp team Loctav red` - Verschiebe Loctav ins rote Team.
 - `!mp set 0 2` - Setze den Teammodus auf "Head To Head" und den Scoring-Modus auf "Combo".
 - `!mp start` - Starte das Spiel sofort.
 

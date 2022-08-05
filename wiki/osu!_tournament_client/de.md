@@ -34,7 +34,7 @@ In der Turnierkonfiguration können die notwendigen Assets bereitgestellt werden
 
 ## Personalisierung
 
-Der osu!-Turnier-Client kann personalisiert werden mit eigenen Flaggen, Modsymbolen und Videodateien. Diese werden in den entsprechenden Szenen bei Bedarf angezeigt.
+Der osu!-Turnier-Client kann mit eigenen Flaggen, Modsymbolen und Videodateien personalisiert werden. Diese werden in den entsprechenden Szenen bei Bedarf angezeigt.
 
 ### Flaggen
 
@@ -56,7 +56,7 @@ Modsymbole müssen in `<dein-turnier>/Mods` platziert werden. Die Mods können d
 
 ### Videos
 
-Videos in Schleife können im Hintergrund jeder Szene angezeigt werden.
+Im Hintergrund jeder Szene können sich wiederholende Videos angezeigt werden.
 
 Tipp: Der Client dekodiert Videodateien mit Softwaredekodierung, daher kann die Leistung je nach Nutzungsszenario variieren.
 
