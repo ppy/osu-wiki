@@ -59,6 +59,6 @@ tags:
 
 Кату запускает несколько событий:
 
-- Скрытие [слоя Fail](/wiki/Storyboard/Scripting/General_Rules#layers).
-- Отображение [слоя Pass](/wiki/Storyboard/Scripting/General_Rules#layers).
+- Скрытие [слоя Fail](/wiki/Storyboard/Scripting/General_Rules#слои).
+- Отображение [слоя Pass](/wiki/Storyboard/Scripting/General_Rules#слои).
 - Если игрок находился в состоянии "Fail", происходит переход к состоянию "Passing".
