@@ -12,5 +12,5 @@
 - [Управление мультиплеером](Multiplayer_usage)
 - [Режим зрителя](Spectator_usage)
 - [Скиннинг](Skinning)
-- [Команды для управления турниром](Tournament_management_commands)
+- [Команды управления турниром](Tournament_management_commands)
 - [Решение проблем](Troubleshooting)
