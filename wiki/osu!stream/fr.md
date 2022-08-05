@@ -1,3 +1,8 @@
+---
+outdated_since: 5ec193cde80339dbf180e6dd622a35731c905556
+outdated_translation: true
+---
+
 # osu!stream
 
 ![](img/Os-Logo.jpg "logo d'osu!stream")

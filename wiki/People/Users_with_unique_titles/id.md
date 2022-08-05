@@ -1,11 +1,6 @@
----
-outdated_translation: true
-outdated_since: 6450b01c1dbc60bcfecdd85bce52a0bfc44b4e99
----
-
 # Daftar pengguna dengan gelar khusus
 
-Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [gugus pengguna (*user group*)](/wiki/People/The_Team#gugus-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen unik yang mereka torehkan.
+Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [kelompok pengguna (*user group*)](/wiki/People/The_Team#kelompok-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen unik yang mereka torehkan.
 
 ## Juara bertahan World Cup
 
@@ -281,7 +276,7 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas keberhasilan mereka
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Menorehkan FC NoMod pertama pada beatmap [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Menorehkan FC pada semua beatmap osu!taiko yang berstatus Ranked hingga tanggal 3 November 2019 |
-| ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Tidak terdokumentasi* |
+| ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Gelar ini diberikan oleh ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) sebagai tanda pencapaian peringkat #104 dalam kurun waktu sepekan, yang merupakan referensi dari [*The World Ends with You*](https://id.wikipedia.org/wiki/The_World_Ends_with_You) |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Memainkan semua beatmap osu! yang berstatus Ranked hingga tanggal 27 April 2019 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Memenangkan perlombaan [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
