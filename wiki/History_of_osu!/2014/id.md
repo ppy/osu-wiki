@@ -22,7 +22,7 @@ Pada tanggal 18 Juni 2014, [peppy](https://osu.ppy.sh/users/2) mengumumkan bahwa
 
 ## Agustus
 
-Pada tanggal 21 Agustus 2014, sebuah [*newspost*](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) mengumumkan bahwa akan diadakannya restrukturisasi [Beatmap Appreciation Team (BAT)](/wiki//Modding/Beatmap_Appreciation_Team), dimana dirincikan bahwa telah dilakukannya pemecahan tim asli BAT menjadi dua tim, yaitu Beatmap Appreciation Team dan [Quality Assurance Team (QAT)](/wiki//Modding/Quality_Assurance_Team) \[10\].
+Pada tanggal 21 Agustus 2014, sebuah [*newspost*](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) mengumumkan bahwa akan diadakannya restrukturisasi [Beatmap Appreciation Team (BAT)](/wiki/Modding/Beatmap_Appreciation_Team), dimana dirincikan bahwa telah dilakukannya pemecahan tim asli BAT menjadi dua tim, yaitu Beatmap Appreciation Team dan [Quality Assurance Team (QAT)](/wiki/Modding/Quality_Assurance_Team) \[10\].
 
 ## Oktober
 
