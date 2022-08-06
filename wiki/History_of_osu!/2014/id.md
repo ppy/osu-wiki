@@ -10,7 +10,7 @@ Pada 1 Maret 2014, sistem *performance point* untuk mode permainan [osu!taiko](/
 
 Dari area *skinning*, elemen `playfield.jpg` yang sebelumnya dapat dimodifikasi resmi dipensiunkan dan diganti dengan gambar bawaan yang tidak dapat diubah. Elemen `playfield.jpg` merupakan elemen *skinning* yang memungkinkan para pemain untuk menggunakan gambar apa pun yang mereka inginkan sebagai latar belakang beatmap yang dimainkan apabila beatmap yang bersangkutan tidak memiliki latar belakang. Fungsionalitas ini kemudian diperkenalkan kembali melalui elemen baru `menu-background.jpg` yang mengubah tampilan gambar latar beatmap dan menu utama secara bersamaan \[5,6\].
 
-![](img/2014-03_01.jpg "Latar belakang bawaan untuk beatmap tanpa latar belakang yang spesifik*")
+![](img/2014-03_01.jpg "Latar belakang bawaan untuk beatmap tanpa latar belakang yang spesifik")
 
 ## April
 
