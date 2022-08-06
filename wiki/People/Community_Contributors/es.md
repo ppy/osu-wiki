@@ -114,7 +114,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 
 ## 2019
 
-### February
+### Febrero
 
 *Ver también la publicación de el anuncio: [Colaboradores de la Comunidad: 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019).*
 
