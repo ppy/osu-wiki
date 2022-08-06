@@ -70,13 +70,7 @@ The Indonesian Taiko Showdown 2 was run by various community members.
 
 ## Podium
 
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [\_\_\_\_\_\_\_\_\_\_\_\_](https://osu.ppy.sh/users/6973354) |
+![](img/podium.jpg "IDTS 2 podium")
 
 ## Mappools
 
@@ -227,96 +221,136 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Saturday, 18 December 2021:
+Saturday, 8 January 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **iron-wish** ::{ flag=FR }:: | **7** | 5 | ::{ flag=FR }:: \_\_\_\_\_\_\_\_\_\_\_\_ | [#1](https://osu.ppy.sh/community/matches/95389445) |
+| Veltlion ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **Servatory** | [#1](https://osu.ppy.sh/community/matches/96255053) |
 
-Sunday, 19 December 2021:
+Sunday, 9 January 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **JunkoAndHiro** ::{ flag=FR }:: | **7** | 5 | ::{ flag=FR }:: iron-wish | [#1](https://osu.ppy.sh/community/matches/95428119) |
+| freezebear ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **Servatory** | [#1](https://osu.ppy.sh/community/matches/96295997) |
+| **Servatory** ::{ flag=ID }:: | **7** | 6 | ::{ flag=ID }:: freezebear | [#1](https://osu.ppy.sh/community/matches/96297839) |
 
 ### Finals
 
-Saturday, 11 December 2021:
+Saturday, 1 January 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **JunkoAndHiro** ::{ flag=FR }:: | **6** | 1 | ::{ flag=FR }:: iron-wish | [#1](https://osu.ppy.sh/community/matches/95096511) |
+| Veltlion ::{ flag=ID }:: | 6 | **7** | ::{ flag=ID }:: **freezebear** | [#1](https://osu.ppy.sh/community/matches/95967385) |
+| Kaemz ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **AciTelor** | *win by default* |
+| Mikurio ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **Servatory** | [#1](https://osu.ppy.sh/community/matches/95976165) |
 
-Sunday, 12 December 2021:
+Sunday, 2 January 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **RexyChann** ::{ flag=FR }:: | **6** | 1 | ::{ flag=FR }:: Utopsia | [#1](https://osu.ppy.sh/community/matches/95149967) |
-| **\_\_\_\_\_\_\_\_\_\_\_\_** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: RexyChann | [#1](https://osu.ppy.sh/community/matches/95152065) |
+| AciTelor ::{ flag=ID }:: | 0 | **7** | ::{ flag=ID }:: **Servatory** | [#1](https://osu.ppy.sh/community/matches/96011942) |
 
 ### Semifinals
 
-Saturday, 4 December 2021:
+Saturday, 25 December 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Kuzuyo ::{ flag=BE }:: | -1 | **0** | ::{ flag=FR }:: **JunkoAndHiro** | *win by default* |
-| RexyChann ::{ flag=FR }:: | 1 | **6** | ::{ flag=FR }:: **iron-wish** | [#1](https://osu.ppy.sh/community/matches/94797662) |
-| **Utopsia** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Firelex | *win by default* |
-| leeiplo ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **MRkayle** | *win by default* |
-| Mimir ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\_\_\_\_\_\_\_\_\_\_\_** | [#1](https://osu.ppy.sh/community/matches/94812153) |
-| **Issuko** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Gibralti | *win by default* |
+| Kaemz ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **freezebear** | *win by default* |
+| **Veltlion** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: Mikurio | [#1](https://osu.ppy.sh/community/matches/95668623) |
+| misaki\_tk ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Reen** | *win by default* |
+| **Servatory** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: Zedfish | [#1](https://osu.ppy.sh/community/matches/95674630) |
 
-Sunday, 5 December 2021:
+Sunday, 26 December 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Issuko ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **\_\_\_\_\_\_\_\_\_\_\_\_** | [#1](https://osu.ppy.sh/community/matches/94864020) |
-| MRkayle ::{ flag=FR }:: | 2 | **6** | ::{ flag=FR }:: **Utopsia** | [#1](https://osu.ppy.sh/community/matches/94866270) |
-| Kuzuyo ::{ flag=BE }:: | -1 | **0** | ::{ flag=FR }:: **\_\_\_\_\_\_\_\_\_\_\_\_** | *win by default* |
+| **AciTelor** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: teddylie | [#1](https://osu.ppy.sh/community/matches/95709831) |
+| **eltiras** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Ryouka- | *win by default* |
+| **AciTelor** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: Reen | [#1](https://osu.ppy.sh/community/matches/95715161) |
+| **Servatory** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: eltiras | [#1](https://osu.ppy.sh/community/matches/95715797) |
 
 ### Quarterfinals
 
-Friday, 26 November 2021:
+Saturday, 18 December 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kuzuyo** ::{ flag=BE }:: | **5** | 2 | ::{ flag=FR }:: Utopsia | [#1](https://osu.ppy.sh/community/matches/94476333) |
-| **RexyChann** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Mimir | *win by default* |
+| **Reen** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: kirikun11 | [#1](https://osu.ppy.sh/community/matches/95369082) |
+| **Kaemz** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: eltiras | [#1](https://osu.ppy.sh/community/matches/95370003) |
+| Servatory ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **freezebear** | [#1](https://osu.ppy.sh/community/matches/95371212) |
+| **NagisaMiaomi** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: ZFLamda | *win by default* |
+| **Konami-Kun** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: FinHazel | [#1](https://osu.ppy.sh/community/matches/95373794) |
+| **Maneh** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Rossi | *win by default* |
+| **Lxa** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: fritz learning | [#1](https://osu.ppy.sh/community/matches/95375658) |
+| **Ryouka-** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: Hypermaester77 | [#1](https://osu.ppy.sh/community/matches/95379273) |
+| **Zedfish** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: NasiGaPakeNasi | [#1](https://osu.ppy.sh/community/matches/95383957) |
 
-Saturday, 27 November 2021:
+Sunday, 19 December 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| MissFlufly ::{ flag=FR }:: | 0 | **5** | ::{ flag=FR }:: **\_\_\_\_\_\_\_\_\_\_\_\_** | [#1](https://osu.ppy.sh/community/matches/94510041) |
-| **JunkoAndHiro** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: leeiplo | [#1](https://osu.ppy.sh/community/matches/94530206) |
-
-Sunday, 28 November 2021:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **iron-wish** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: Issuko | [#1](https://osu.ppy.sh/community/matches/94566957) |
+| **Reen** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: Lxa | [#1](https://osu.ppy.sh/community/matches/95410175) |
+| **Ryouka-** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: Konami-Kun | [#1](https://osu.ppy.sh/community/matches/95413529) |
+| Maneh ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **Zedfish** | [#1](https://osu.ppy.sh/community/matches/95421752) |
+| NagisaMiaomi ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **teddylie** | [#1](https://osu.ppy.sh/community/matches/95424484) |
 
 ### Round of 16
 
-Saturday, 20 November 2021:
+Saturday, 11 December 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **JunkoAndHiro** ::{ flag=FR }:: | **4** | 0 | ::{ flag=FR }:: MissFlufly | [#1](https://osu.ppy.sh/community/matches/94201935) |
+| **Kaemz** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: Lxa | [#1](https://osu.ppy.sh/community/matches/95083897) |
+| **Mikurio** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: Zedfish | [#1](https://osu.ppy.sh/community/matches/95083897) |
+| **misaki\_tk** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: Konami-Kun | [#1](https://osu.ppy.sh/community/matches/95088170) |
+| **freezebear** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: NagisaMiaomi | [#1](https://osu.ppy.sh/community/matches/95089221) |
+| salym ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **Sagasemat** | [#1](https://osu.ppy.sh/community/matches/95092282) |
+| Mamat ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **fritz learning** | [#1](https://osu.ppy.sh/community/matches/95094334) |
+| eZmmR ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **Hypermaester77** | [#1](https://osu.ppy.sh/community/matches/95096460) |
 
-Sunday, 21 November 2021:
+Sunday, 12 December 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Utopsia** ::{ flag=FR }:: | **4** | 2 | ::{ flag=FR }:: Gibralti | [#1](https://osu.ppy.sh/community/matches/94252151) |
-| **Issuko** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Firelex | *win by default* |
-| **Mimir** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: MRkayle | [#1](https://osu.ppy.sh/community/matches/94261867) |
-| \_\_\_\_\_\_\_\_\_\_\_\_ ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **leeiplo** | *win by default* |
+| **eltiras** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: Reen | [#1](https://osu.ppy.sh/community/matches/95136100) |
+| **Servatory** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: teddylie | [#1](https://osu.ppy.sh/community/matches/95136342) |
+| **Veltlion** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Ryouka- | *win by default* |
+| Strikermens ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **kirikun11** | [#1](https://osu.ppy.sh/community/matches/95138536) |
+| Zarumu ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **NasiGaPakeNasi** | [#1](https://osu.ppy.sh/community/matches/95140757) |
+| Maneh ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **AciTelor** | [#1](https://osu.ppy.sh/community/matches/95142690) |
+| **FinHazel** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Ihram-San | *win by default* |
 
-### Qualifiers
+### Round of 32
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1bzOdY-7V3Zarksv__8NGnll3mvTQwoWwXLFugPiOAs0/edit?usp=sharing) alongside the final standings on which player made it through to the next stage.
+Friday, 3 December 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **AciTelor** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: fritz learning | [#1](https://osu.ppy.sh/community/matches/94749281) |
+
+Saturday, 4 December 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **freezebear** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: FinHazel | [#1](https://osu.ppy.sh/community/matches/94795470) |
+| **eltiras** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Zarumu | [#1](https://osu.ppy.sh/community/matches/94796651) |
+| **Maneh** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Mamat | [#1](https://osu.ppy.sh/community/matches/94798555) |
+| **Zedfish** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: kirikun11 | [#1](https://osu.ppy.sh/community/matches/94803761) |
+| **Mikurio** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: Strikermens | [#1](https://osu.ppy.sh/community/matches/94806179) |
+
+Sunday, 5 December 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Veltlion** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: salym | [#1](https://osu.ppy.sh/community/matches/94851181) |
+| ZFLamda ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **Konami-Kun** | [#1](https://osu.ppy.sh/community/matches/94852174) |
+| **Lxa** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Rossi | *win by default* |
+| **Ryouka-** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: Sagasemat | [#1](https://osu.ppy.sh/community/matches/94855554) |
+| **Reen** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: NasiGaPakeNasi | [#1](https://osu.ppy.sh/community/matches/94850866) |
+| **Servatory** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: eZmmR | [#1](https://osu.ppy.sh/community/matches/94852186) |
+| **teddylie** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Hypermaester77 | [#1](https://osu.ppy.sh/community/matches/94856639) |
+| NagisaMiaomi ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: Ihram-San | [#1](https://osu.ppy.sh/community/matches/94861231) |
 
 ## Ruleset
 
