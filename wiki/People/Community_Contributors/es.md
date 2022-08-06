@@ -144,3 +144,32 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | Excelente contribucion al Programa de Mentoria Comunitaria |
 | ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706) | Excelente contribucion al proyecto osu!(lazer) |
 
+## 2020
+
+### February
+
+*For the news post, see: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+
+| User | Contributions |
+| :-- | :-- |
+| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | Excelente contribucion en asuntos de la comunidad, eventos y torneos |
+| ::{ flag=SG }:: [hehe](https://osu.ppy.sh/users/2123087) | Excelente contribucion a la escena del mapping, eventos y torneos |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Excelente contribucion a las escenas del mapping, modding y metadata |
+| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | Excelente contribucion a el modo de juego osu!mania |
+| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Excelente contribucion a el modo de juego osu!catch y a la administracion |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Excelente contribucion en asuntos de administracion y liderazgo |
+| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | Excelente contribucion a el Equipo de Moderacion Global (GMT) |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Excelente contribucion a el Proyecto de Mentoria |
+| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Excelente contribucion a el Proyecto de Mentoria |
+| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Excelente contribucion a la moderacion y organizacion de la Copa Mundial |
+| ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | Excelente e inquebrantable contribucion a gran escala a la comunidad de osu! |
+| ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943) | Excelente contribucion a la Copa Mundial de osu! |
+| ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203) | Excelente contribucion a la Copa Mundial de osu! |
+| ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992) | Excelente contribucion a la escena de torneos de osu!mania |
+| ::{ flag=DE }:: [Junihuhn](https://osu.ppy.sh/users/4182339) | Excelente contribucion a las Copas Mundiales de osu! y la escena de torneos |
+| ::{ flag=NL }:: [Sartan](https://osu.ppy.sh/users/4100941) | Excelente contribucion a la escena de torneos de osu!catch |
+| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Excelente contribucion a la moderacion de la comunidad |
+| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | Excelente e inquebrantable contribucion en soporte y asistencia al jugador |
+| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Excelente e inquebrantable contribucion en soporte y asistencia al jugador |
+| ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Excelente contribucion a el Gremio de Mappers y Nominadores de Beatmaps |
+| ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | Excelente contribucion a proyectos de fuente abierta de osu! |
