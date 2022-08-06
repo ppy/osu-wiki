@@ -85,7 +85,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 
 ## 2017
 
-# Diciembre
+### Diciembre
 
 *Ver también la publicación del anuncio: [Colaboradores de la Comunidad: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017).*
 
