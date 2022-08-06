@@ -81,11 +81,11 @@ Reguli media: [Ghid utilizare conținut](/wiki/Rules/Content_Usage_Guidelines) �
 
 # Ajutor
 
-Răspunsuri la întrebări frecvente și soluții la probleme des întalnite aici.
+Răspunsuri la întrebări frecvente și soluții la probleme des întâlnite aici.
 
 [Centru ajutor](/wiki/Help_centre) • [Depanare performanță](/wiki/Performance_troubleshooting) • [Echipa de suport conturi](/wiki/People/The_Team/Account_support_team) • [Forum ajutor](https://osu.ppy.sh/forum/5)
 
-Restricționări profil: [Mut](/wiki/Silence) • [Restricționari cont](/wiki/Help_centre/Account_restrictions)
+Restricționări profil: [Mut](/wiki/Silence) • [Restricționări cont](/wiki/Help_centre/Account_restrictions)
 
 Fă-ți partea ta: [Ce și cum poți să ajuți](/wiki/Community/How_you_can_help!) • [Raportează comportament rău](/wiki/Reporting_bad_behaviour) • [Raportează abuz](/wiki/Reporting_bad_behaviour/Abuse) • [Raportează trișat](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -129,7 +129,7 @@ Interacționează cu osu! prin alte aplicații și medii sau ajută-l să se ext
 
 Precum aproape tot de aici, wiki-ul osu! este scris și întreținut de voluntari. Sugerează îmbunătățiri, raportează probleme sau scrie-ți propriul articol pe [repository-ul GitHub osu-wiki](https://github.com/ppy/osu-wiki).
 
-[Istoria osu!](/wiki/History_of_osu!) • [Istoria osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Cronologia de creare de beatmap-uri și mod-uri](/wiki/Mapping_and_Modding_Timeline) • [Întăi Aprilie](/wiki/History_of_osu!/April_Fools)
+[Istoria osu!](/wiki/History_of_osu!) • [Istoria osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Cronologia de creare de beatmap-uri și mod-uri](/wiki/Mapping_and_Modding_Timeline) • [Întâi Aprilie](/wiki/History_of_osu!/April_Fools)
 
 [Harta site-ului](/wiki/Sitemap) • [Ghid contribuții](/wiki/osu!_wiki/Contribution_guide) • [Criterii stilizare articole](/wiki/Article_styling_criteria) • [Criterii stilizare noutăți](/wiki/News_styling_criteria)
 
