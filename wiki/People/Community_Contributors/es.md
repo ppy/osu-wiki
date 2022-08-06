@@ -1,7 +1,3 @@
----
-outdated_translation: true
----
-
 # Colaboradores de la comunidad
 
 ![Medalla de colaborador](/wiki/shared/contributor.jpg "Medalla de colaborador")
@@ -89,6 +85,8 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 
 ## 2017
 
+# Diciembre
+
 *Ver también la publicación del anuncio: [Colaboradores de la Comunidad: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017).*
 
 | Usuario | Contribución |
@@ -113,3 +111,36 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [ThePooN](https://osu.ppy.sh/users/718454) | Esfuerzo extraordinario en la producción y publicación del proyecto Scorewatch |
 | [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Esfuerzos extraordinarios para impulsar el proyecto osu! wiki con innumerables revisiones, reprocesos y revisiones |
 | [TPGPL](https://osu.ppy.sh/users/3944705) | Piedra angular del proyecto osu! wiki y contribución sobresaliente a lo largo de los años |
+
+## 2019
+
+### February
+
+*Ver también la publicación del anuncio: [Colaboradores de la Comunidad: 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019).*
+
+| User | Contributions |
+| :-- | :-- |
+| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Organizacion de la Copa Mundial y Anfitrion de osu! Coffee Hour |
+| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Excelente contribucion en la organizacion de la Copa Mundial y torneos |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Excelente contribucion como miembro del GMT y el equipo de la osu! wiki |
+| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | Excelente contribucion en muchos proyectos y dominios |
+| ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | Excelente tranbajo en soport al jugador y resolucion de problemas |
+| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Extraordinario mantenedor del proyecto de Beatmap Packs |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Desarrollador de incontables herramientos las cuales han sido probadas como integras al ciclo moderno de ranking |
+| ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | Excelente contribucion al proyecto de Beatmap Spotlights |
+| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Excelente contribucion en numerosos proyectos y dominios |
+| ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Excelente contribucion al GMT y el mantenimiento de torneos |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Lider de equipo del Proyecto Loved |
+| ::{ flag=CA }:: [Kaifin](https://osu.ppy.sh/users/2596942) | Asistencia y organizacion en las etapas tempranas del Proyecto Loved |
+| ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955) | Capitan del Proyecto Loved (osu!catch) |
+| ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) | Capitan del Proyecto Loved (osu!taiko) |
+| ::{ flag=DE }:: [Tenshichan](https://osu.ppy.sh/users/1101600) | Capitan del Proyecto Loved (osu!catch) |
+| ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783) | Capitan del Proyecto Loved (osu!mania) |
+| ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | Capitan del Proyecto Loved (osu!mania) |
+| ::{ flag=AR }:: [Yuii-](https://osu.ppy.sh/users/2935923) | Excelente contribucion al Programa de Mentoria Comunitaria |
+| ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) | Excelente contribucion al Programa de Mentoria Comunitaria |
+| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | Excelente contribucion al Programa de Mentoria Comunitaria |
+| ::{ flag=US }:: [Mun](https://osu.ppy.sh/users/6699165) | Excelente contribucion al Programa de Mentoria Comunitaria |
+| ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | Excelente contribucion al Programa de Mentoria Comunitaria |
+| ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706) | Excelente contribucion al proyecto osu!(lazer) |
+
