@@ -107,7 +107,7 @@ Organizații: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 # [Persoane](/wiki/People)
 
-osu! nu ar fi fost posibil fără ajutorul multor utilizatori care au ajutat cu dezvoltarea, mentenanța și managmentul comunității: eforturile, timpul și dedicația lor fac jocul să trăiască și să prospere.
+osu! nu ar fi fost posibil fără ajutorul multor utilizatori care au ajutat cu dezvoltarea, mentenanța și managementul comunității: eforturile, timpul și dedicația lor fac jocul să trăiască și să prospere.
 
 [Echipa](/wiki/People/The_Team): [Dezvoltatorii](/wiki/People/The_Team/Developers) • [Echipa Moderare Globală](/wiki/People/The_Team/Global_Moderation_Team) • [Echipa de Suport](/wiki/People/The_Team/Support_Team) • [Evaluatori Nominalizări](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominalizatori Beatmap-uri](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Echipa Proiectului Iubit](/wiki/People/The_Team/Project_Loved_Team)
 
