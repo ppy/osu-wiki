@@ -22,10 +22,10 @@ Ogni sviluppo principale discusso nel server ha un suo canale:
 | [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
-| [classificazione stelle](/wiki/Beatmapping/Star_rating) e [punti performance](/wiki/Performance_points) di [osu!](/wiki/Game_mode/osu!) | `#difficulty-osu` |
-| classificazione stelle e punti performance di [osu!taiko](/wiki/Game_mode/osu!taiko) | `#difficulty-taiko` |
-| classificazione stelle e punti performance di [osu!catch](/wiki/Game_mode/osu!catch) | `#difficulty-catch` |
-| classificazione stelle e punti performance di [osu!mania](/wiki/Game_mode/osu!mania) | `#difficulty-mania` |
+| [Classificazione stelle](/wiki/Beatmapping/Star_rating) e [punti performance](/wiki/Performance_points) di [osu!](/wiki/Game_mode/osu!) | `#difficulty-osu` |
+| Classificazione stelle e punti performance di [osu!taiko](/wiki/Game_mode/osu!taiko) | `#difficulty-taiko` |
+| Classificazione stelle e punti performance di [osu!catch](/wiki/Game_mode/osu!catch) | `#difficulty-catch` |
+| Classificazione stelle e punti performance di [osu!mania](/wiki/Game_mode/osu!mania) | `#difficulty-mania` |
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
 | [Progetto Amata](/wiki/Community/Project_Loved) | `#osu-loved` |
