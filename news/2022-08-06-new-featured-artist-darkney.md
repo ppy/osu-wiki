@@ -10,9 +10,9 @@ Step into the light with our newest Featured Artist, **Darkney**!
 
 Here at osu!, we're lucky to be the beneficiary of many different types of musical material from a variety of artists. First we had image material, and now courtesy of [**Darkney**](https://osu.ppy.sh/beatmaps/artists/290), we've even moved into [*Cloud Material*](https://osu.ppy.sh/beatmapsets/739583) as well.
 
-Those familiar with the vintage 2018 [Monstrata](https://osu.ppy.sh/users/2706438) classic linked above will be excited to find out that we've snagged **13** new tracks from the talented German producer responsible for their creation. If you're a fan of his uniquely atmospheric spin on future brass x EDM (and we think you will be), this is a grand day indeed.
+Those familiar with the vintage 2018 [Monstrata](https://osu.ppy.sh/users/2706438) classic linked above will be excited to find out that we've snagged **13** new tracks from the talented German producer responsible for their creation. If you're a fan of his uniquely atmospheric spin on future bass x EDM (and we think you will be), this is a grand day indeed.
 
-If you just can't quite put your finger on what the hype is all about, don't worry, [Bubbleman](https://osu.ppy.sh/users/5182050) has quite literally done it for you in the video below at during an IRL performance at COE2022, so watch along and see for yourself:
+If you just can't quite put your finger on what the hype is all about, don't worry, [Bubbleman](https://osu.ppy.sh/users/5182050) has quite literally done it for you in the video below during an IRL performance at COE2022, so watch along and see for yourself:
 
 <div align="center">
     <video width="100%" controls>
