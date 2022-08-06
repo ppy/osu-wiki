@@ -51,7 +51,7 @@ Pengembangan versi osu! ini telah dihentikan pada tahun 2020. Untuk informasi le
 - Seluruh beatmap yang ada dibuat dari nol.
 - Kamu tidak membutuhkan akun untuk dapat mengunduh beatmap baru.
 - Kamu dapat menghubungkan osu!stream dengan akun Twitter-mu.
-- Skor terbaikmu mungkin akan dikirim secara anonim ke situs dengan nama "Guest" (namun membutuhkan koneksi internet).
+- Skor terbaikmu dapat dikirim secara anonim ke papan peringkat yang ada di situs dengan nama "Guest" (yang membutuhkan koneksi internet).
 - *Progress Bar* selalu ditampilkan memanjang di bagian bawah layar dan pewarnaannya sesuai dengan akurasi permainanmu.
 - **Average Timing** (timing rata-rata) ditampilkan pada layar hasil.
 - Kamu tidak dapat menyimpan rekor lamamu, atau menyimpan *replay*.
@@ -160,7 +160,7 @@ Warna latarnya yaitu Hijau (Easy), Biru (Normal) dan Merah Jambu (Hard).
 
 **Difficulty: Expert**
 
-Terkunci pada awalnya, dan hanya dapat dibuka dengan mendapatkan nilai A atau lebih pada mode Stream. Mode Expert dikhususkan untuk pemain yang membutuhkan tantangan lebih. Di mode ini, pemain diberikan *lifebar* yang terisi penuh dan pemain ditugaskan untuk menjaganya agar lifebar tidak habis sampai di akhir lagu. Menyelesaikan mode ini tidak akan membuka apapun, namun tentunya kamu akan merasa hebat, bukan?
+Mode ini terkunci secara *default* dan hanya dapat dibuka dengan memperoleh nilai A atau lebih pada mode Stream. Mode Expert dikhususkan untuk pemain yang membutuhkan tantangan lebih. Pada mode ini, pemain diberikan *lifebar* yang terisi penuh dan ditugaskan untuk menjaganya agar tidak sampai terkuras habis hingga akhir lagu. Menyelesaikan mode ini tidak akan membuka apapun, namun tentunya kamu akan merasa hebat, bukan?
 
 Warna latarnya yaitu Ungu dan tingkat kecerahan layar bergantung pada banyak HP yang kamu miliki.
 
