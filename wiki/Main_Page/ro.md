@@ -87,7 +87,7 @@ Răspunsuri la întrebări frecvente și soluții la probleme des întâlnite ai
 
 Restricționări profil: [Mut](/wiki/Silence) • [Restricționări cont](/wiki/Help_centre/Account_restrictions)
 
-Fă-ți partea ta: [Ce și cum poți să ajuți](/wiki/Community/How_you_can_help!) • [Raportează comportament rău](/wiki/Reporting_bad_behaviour) • [Raportează abuz](/wiki/Reporting_bad_behaviour/Abuse) • [Raportează trișat](/wiki/Reporting_bad_behaviour/Handling_foul_play)
+Fă-ți partea ta: [Cum și cu ce poți să ajuți](/wiki/Community/How_you_can_help!) • [Raportează comportament rău](/wiki/Reporting_bad_behaviour) • [Raportează abuz](/wiki/Reporting_bad_behaviour/Abuse) • [Raportează trișat](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -111,7 +111,7 @@ osu! nu ar fi fost posibil fără ajutorul multor utilizatori care au ajutat cu 
 
 [Echipa](/wiki/People/The_Team): [Dezvoltatorii](/wiki/People/The_Team/Developers) • [Echipa Moderare Globală](/wiki/People/The_Team/Global_Moderation_Team) • [Echipa de Suport](/wiki/People/The_Team/Support_Team) • [Evaluatori Nominalizări](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominalizatori Beatmap-uri](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Echipa Proiectului Iubit](/wiki/People/The_Team/Project_Loved_Team)
 
-[Contribuitori ai Comunității](/wiki/People/Community_Contributors) • [Utilizatori cu titluri unice](/wiki/People/Users_with_unique_titles) • [Comitetul de turnee](/wiki/People/Tournament_Committee) • [Comitetul Performance-Points](/wiki/People/Performance_Points_Committee)
+[Contribuitori ai Comunității](/wiki/People/Community_Contributors) • [Utilizatori cu titluri unice](/wiki/People/Users_with_unique_titles) • [Comitetul de Turnee](/wiki/People/Tournament_Committee) • [Comitetul Punctelor de Performanță](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">
