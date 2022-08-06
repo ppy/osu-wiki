@@ -11,7 +11,7 @@ Bine ați venit la osu! wiki, sursa open-source de cunoștințe conținând o va
 
 # Noțiuni de bază
 
-Articole și ghiduri importante care te vor ajuta sâ te familiarizezi cu osu!. În caz de orice probleme sau incertitudini, vă rugăm să verificați [Forum-ul de ajutor](https://osu.ppy.sh/forum/5).
+Articole și ghiduri importante care te vor ajuta să te familiarizezi cu osu!. În caz de orice probleme sau incertitudini, vă rugăm să verificați [Forum-ul de ajutor](https://osu.ppy.sh/forum/5).
 
 [Reguli](/wiki/Rules) • [Instalare](/wiki/Client/Installation) • [Înregistrare](/wiki/Registration) • [Centru Ajutor](/wiki/Help_centre)
 
@@ -70,7 +70,7 @@ Clasarea este procesul de obținere a unui clasament pentru un beatmap, fapt car
 
 Citește despre procedurile și regulile care mențin osu! și comunitatea sa în siguranță, de la licențierea melodiilor și ghiduri media până la reguli de forum și chat.
 
-[Reguli](/wiki/Rules) • [Codul de Conduită al Contribuitorilor](/wiki/Contributor_Code_of_Conduct) • [Codul de Conduita pentru Crearea de Beatmap-uri și Mod-uri](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Reguli](/wiki/Rules) • [Codul de Conduită al Contribuitorilor](/wiki/Contributor_Code_of_Conduct) • [Codul de Conduită pentru Crearea de Beatmap-uri și Mod-uri](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 Reguli media: [Ghid utilizare conținut](/wiki/Rules/Content_Usage_Guidelines) • [Proces votare conținut](/wiki/Rules/Content_Voting_Process) • [Conținut obscen](/wiki/Rules/Explicit_Content) • [Reguli conținut melodii](/wiki/Rules/Song_Content_Rules) • [Considerări conținut vizual](/wiki/Rules/Visual_Content_Considerations)
 
@@ -98,7 +98,7 @@ Interacțiunea socială este una dintre aspectele principale care motivează juc
 
 [Turnee](/wiki/Tournaments) • [Promovări Beatmap-uri](/wiki/Beatmap_Spotlights) • [Concursuri](/wiki/Contests) • [Programul de mentorat al comunității](/wiki/Community/Community_Mentorship_Program)
 
-[Proiecte](/wiki/Community/Projects): [Artiști Oficiali](/wiki/Featured_Artists) • [întâlniri ale comunității osu!](/wiki/Community/osu!_community_meetings) • [academia osu!](/wiki/Community/Video_series/osu!academy) • [crearea de beatmap-uri osu!](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Proiecte](/wiki/Community/Projects): [Artiști Oficiali](/wiki/Featured_Artists) • [Întâlniri ale comunității osu!](/wiki/Community/osu!_community_meetings) • [Academia osu!](/wiki/Community/Video_series/osu!academy) • [Crearea de beatmap-uri osu!](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organizații: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -128,7 +128,6 @@ Interacționează cu osu! prin alte aplicații și medii sau ajută-l să se ext
 # Wiki și pagini meta
 
 Precum aproape tot de aici, wiki-ul osu! este scris și întreținut de voluntari. Sugerează îmbunătățiri, raportează probleme sau scrie-ți propriul articol pe [repository-ul GitHub osu-wiki](https://github.com/ppy/osu-wiki).
-Just as almost everything out here, the osu! wiki is written and maintained by volunteers. Suggest an improvement, report an issue, or even write your own article at the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki).
 
 [Istoria osu!](/wiki/History_of_osu!) • [Istoria osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Cronologia de creare de beatmap-uri și mod-uri](/wiki/Mapping_and_Modding_Timeline) • [Întăi Aprilie](/wiki/History_of_osu!/April_Fools)
 
