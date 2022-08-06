@@ -279,7 +279,7 @@ Sebagai tambahan, setiap awal, akhir, dan *repeat tick* yang ada pada slider aka
 **Spinner**
 
 - Untuk spinner, kamu akan mendapatkan 300, 100 atau 50 tergantung pada jumlah putaran yang kamu lakukan relatif terhadap durasi spinner yang bersangkutan.
-- Kamu akan mendapatkan miss apabila kamu gagal mengisi penuh *spinner metre* yang ada pada sisi kiri dan kanan spinner.
+- Kamu akan mendapatkan miss apabila kamu gagal mengisi penuh *spinner meter* yang ada pada sisi kiri dan kanan spinner.
 
 ### Pengali Skor
 
