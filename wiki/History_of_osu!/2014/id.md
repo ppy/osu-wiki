@@ -2,7 +2,7 @@
 
 ## Januari
 
-Sistem [*performance point* (pp)](/wiki/Performance_points) dinonaktifkan untuk proses pemeliharaan pada tanggal 20 Januari 2014 akibat kesalahan perhitungan yang terjadi pada beberapa bulan sebelumnya \[1\]. Penonaktifan tersebut diikuti oleh pengumuman pada tanggal 26 Januari 2014 yang menjelaskan seputar perombakan sistem pp secara menyeluruh \[2,3\]. Sistem baru ini dirancang dan diimplementasikan oleh [Tom94](https://osu.ppy.sh/users/1857058) dan bertujuan agar skor pp ke depannya dihitung berdasakan nilai kesulitan ("*difficulty value*") yang terpisah dari [*star rating*](/wiki/Beatmapping/Star_rating) untuk seluruh kombinasi [*beatmap*](/wiki/Beatmap) dan [*mod*](/wiki/Game_modifier) yang berlaku. Sebagai dampaknya, sistem pp yang lama kemudian dikenal sebagai "ppv1" dan sistem pp yang baru dinamakan "ppv2".
+Sistem [*performance point* (pp)](/wiki/Performance_points) dinonaktifkan untuk proses pemeliharaan pada tanggal 20 Januari 2014 akibat kesalahan perhitungan yang terjadi pada beberapa bulan sebelumnya \[1\]. Penonaktifan tersebut diikuti oleh pengumuman pada tanggal 26 Januari 2014 yang menjelaskan seputar perombakan sistem pp secara menyeluruh \[2,3\]. Sistem baru ini dirancang dan diimplementasikan oleh [Tom94](https://osu.ppy.sh/users/1857058) dan bertujuan agar skor pp ke depannya dihitung berdasarkan nilai kesulitan ("*difficulty value*") yang terpisah dari [*star rating*](/wiki/Beatmapping/Star_rating) untuk seluruh kombinasi [*beatmap*](/wiki/Beatmap) dan [*mod*](/wiki/Game_modifier) yang berlaku. Sebagai dampaknya, sistem pp yang lama kemudian dikenal sebagai "ppv1" dan sistem pp yang baru dinamakan "ppv2".
 
 ## Maret
 
@@ -18,7 +18,7 @@ Dari area *skinning*, elemen `playfield.jpg` yang sebelumnya dapat dimodifikasi 
 
 ## Juni
 
-Pada tanggal 18 Juni 2014, [peppy](https://osu.ppy.sh/users/2) mengumumkan bahwa batas unduhan beatmap akan dihapus untuk seluruh pemain. Meskipun demikian, osu! akan tetap menerapkan sistem uji kewarasan (*sanity check*) untuk mencegah akun bot menguduh beatmap dalam jumlah yang berlebihan \[9\].
+Pada tanggal 18 Juni 2014, [peppy](https://osu.ppy.sh/users/2) mengumumkan bahwa batas unduhan beatmap akan dihapus untuk seluruh pemain. Meskipun demikian, osu! akan tetap menerapkan sistem uji kewarasan (*sanity check*) untuk mencegah akun bot mengunduh beatmap dalam jumlah yang berlebihan \[9\].
 
 ## Agustus
 
