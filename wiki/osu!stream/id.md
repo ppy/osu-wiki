@@ -116,7 +116,7 @@ Pengembangan versi osu! ini telah dihentikan pada tahun 2020. Untuk informasi le
 
 ![](img/Os-ModeEasy.jpg "Mode Easy")
 
-**Tingkat Kesulitan: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
+**Tingkat Kesulitan: Easy + [NoFail](/wiki/Gameplay/Game_modifier/No_Fail)**
 
 Mode Easy dikhususkan bagi para pemain pemula untuk dapat membiasakan diri mereka dengan permainan osu!stream. Secara umum, mode ini mengusung tempo permainan yang lebih lambat agar para pemain dapat memahami alur dan *timing* permainan yang ada. Tidak ada *lifebar* pada mode ini, dan memainkan mode Easy tidak akan membuka Mode Expert.
 
