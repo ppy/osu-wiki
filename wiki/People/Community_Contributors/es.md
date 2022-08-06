@@ -173,3 +173,19 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Excelente e inquebrantable contribucion en soporte y asistencia al jugador |
 | ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Excelente contribucion a el Gremio de Mappers y Nominadores de Beatmaps |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | Excelente contribucion a proyectos de fuente abierta de osu! |
+
+## 2021
+
+### Marzo
+
+*Ver también la publicación del anuncio: [Colaboradores de la Comunidad: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+
+| User | Contributions |
+| :-- | :-- |
+| ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | Excelente contribucion a eventos de la comunidad y desarrollo del juego |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Excelente contribucion a las Copas Mundiales y eventos de la comunidad |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | Excelente contribucion a las escenas de el mapping y modding |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Excelente contribucion a el desarrollo de osu! a traves de muchos proyectos |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Excelente contribucion a las escenas de skinning y moderacion de osu! |
+| ::{ flag=US }:: [I Must Decrease](https://osu.ppy.sh/users/2773526) | Excelente contribucion a el mantenimiento de scoring y el desarrollo del juego |
+| ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) | Excelente contribucion a las Copas Mundiales y a la escena de torneos de la comunidad |
