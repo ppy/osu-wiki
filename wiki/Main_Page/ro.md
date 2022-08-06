@@ -42,7 +42,7 @@ Totul despre a face clic pe cercuri, a lovi tobe, a prinde fructe și a cânta l
 </div>
 <div class="wiki-main-page-panel">
 
-# [Editor Beatmap](/wiki/Client/Beatmap_editor)
+# [Editor de Beatmap-uri](/wiki/Client/Beatmap_editor)
 
 Toate beatmap-urile osu! sunt create de către imaginația comunității sale dinamice. Ai dorit întotdeauna să îți împărtășești melodiile favorite cu alții dar nu ai știut cum? Familiarizează-te cu editorul integrat și oportunitățile pe care ți le oferă.
 
