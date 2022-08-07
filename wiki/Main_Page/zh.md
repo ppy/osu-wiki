@@ -129,7 +129,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 就和这个页面一样，osu! wiki 的一切都由志愿者编写并维护。提交建议、报告问题、撰写新文章均在 [osu-wiki 的 GitHub 仓库](https://github.com/ppy/osu-wiki)进行。
 
-[osu! 的历史](/wiki/History_of_osu!) • [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki) • [作图与摸图的发展历程](/wiki/Mapping_and_Modding_Timeline) • [愚人节玩笑](/wiki/History_of_osu!/April_Fools)
+[osu! 的历史](/wiki/History_of_osu!) • [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki) • [作图与摸图的发展历程](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [愚人节玩笑](/wiki/History_of_osu!/April_Fools)
 
 [网站导航](/wiki/Sitemap) • [wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide) • [文章风格规范](/wiki/Article_styling_criteria) • [新闻风格规范](/wiki/News_styling_criteria)
 
