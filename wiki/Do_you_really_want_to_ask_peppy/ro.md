@@ -8,7 +8,7 @@ Majoritatea problemelor tehnice pot fi rezolvate căutând sau postând în sec�
 
 ## Suport general osu!
 
-Pentru probleme legate de conturi, probleme cu plățile, urmărirea interdicțiilor, întrebări despre turnee și **și orice altceva legat de având nevoie de ajutor pe osu!**, vă rugăm să contactați [echipa de suport](/wiki/People/The_Team/Account_support_team) prin trimiterea unui e-mail la adresa [accounts@ppy.sh](mailto:accounts@ppy.sh) (interogări de cont) sau [osu@ppy.sh](mailto:osu@ppy.sh) (orice altceva).
+Pentru probleme legate de conturi, probleme cu plățile, detalii despre interdicții, întrebări legate de turnee **și orice altceva în caz de nevoie de ajutor în legatură cu osu!**, vă rugăm să contactați [echipa de suport](/wiki/People/The_Team/Account_support_team) prin trimiterea unui e-mail la adresa [accounts@ppy.sh](mailto:accounts@ppy.sh) (interogări de cont) sau [osu@ppy.sh](mailto:osu@ppy.sh) (orice altceva).
 
 ## Contact cu peppy
 
