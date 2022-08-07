@@ -527,7 +527,7 @@ Les systèmes de mapping et de modding sont en constante amélioration. Le **cal
 
 ### Octobre
 
-- **12/10/2021 :** Les anciens Beatmap Nominators, qui ont démissionné en de bons termes dans la dernière année, peuvent maintenant devenir des membres à part entière dès leur réadhésion sans passer par la probation.
+- **12/10/2021 :** Les anciens Beatmap Nominators, qui ont démissionné en bons termes au cours de l'année écoulée, peuvent maintenant devenir des membres à part entière dès leur réadhésion sans passer par la probation.
 - **13/10/2021 :** Les beatmaps du mode osu!mania n'ont plus besoin d'ajouts de hit sounds.
   - Ceci a été fait en réponse à une [demande populaire de la communauté](https://osu.ppy.sh/community/forums/topics/1418542) afin d'améliorer l'accessibilité pour les mappeurs osu!mania venant de divers jeux.
 - **18/10/2021 :** Les règles concernant les spreads des beatmaps osu!mania ont été assouplies.
