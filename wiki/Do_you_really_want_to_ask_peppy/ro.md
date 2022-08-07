@@ -2,7 +2,7 @@
 
 Salutare! peppy îți înțelege dorința de a-l contacta personal, dar mai întâi te roagă să înțelegi faptul că acesta **nu** este locul pentru a-i cere ajutor sau sprijin. El preferă să păstreze asistența pentru osu! separată de mesajele lui personale și de asemenea, consideră că este destul de greu să țină pasul și să răspunda mesajelor private de pe forum. Prin urmare, vă solicită să alegeți una dintre următoarele opțiuni:
 
-## Suportul tehnic
+## Suport tehnic
 
 Majoritatea problemelor tehnice pot fi rezolvate căutând un răspuns sau postând o întrebare în secțiunea [Forum-ul de ajutor](https://osu.ppy.sh/community/forums/5). Sunt mulți alți utilizatori acolo care te pot ajuta cu problemele tale, cel mai probabil vei găsi o soluție mai repede acolo, decât contactându-l pe peppy.
 
