@@ -4,7 +4,7 @@ Salutare! peppy înțelege dorința ta de a dori să-l contactezi personal, dar 
 
 ## Suportul tehnic
 
-Majoritatea problemelor tehnice pot fi rezolvate căutând sau postând în secțiunea [Forum-ul de ajutor](https://osu.ppy.sh/community/forums/5). Sunt mulți alții acolo care te pot ajuta cu problemele tale, așa că vei găsi o soluție mai repede decât să-l contactezi pe el.
+Majoritatea problemelor tehnice pot fi rezolvate căutând un răspuns sau postând o întrebare în secțiunea [Forum-ul de ajutor](https://osu.ppy.sh/community/forums/5). Sunt mulți alți utilizatori acolo care te pot ajuta cu problemele tale, cel mai probabil vei găsi o soluție mai repede acolo, decât contactându-l pe peppy.
 
 ## Suport general osu!
 
