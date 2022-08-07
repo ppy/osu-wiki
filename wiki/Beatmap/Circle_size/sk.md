@@ -16,7 +16,7 @@ V osu!, veľkosť kruhov mení veľkosť kruhov a sliderov, kde väčšie hodnot
 
 `r = 54.4 - 4.48 * CS`
 
-Where `r` is the radius measured in [osu!pixels](/wiki/osu!pixel), and `CS` is the circle size value.
+Kde `r` je polomer meraný v [osu!pixeloch](/wiki/osu!pixel), a `CS` ja hodnota veľkosti kruhu.
 
 ## osu!taiko
 
