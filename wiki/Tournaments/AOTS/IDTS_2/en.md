@@ -368,29 +368,34 @@ Sunday, 5 December 2022:
 
 ### General rules
 
-1. Participant must be within ranks #3,500 or below during registrations.
-2. The Score System used will be **Score V2**.
-3. If player can't attend within the span of **10 minutes**, the other player will win by default.
-4. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
-5. Indonesian Taiko Showdown 2 will use double-elimination bracket, which means that there will be a loser's bracket.
-6. Any player with French flag can participate in the tournament.
+1. Indonesian Taiko Showdown 2 will use double-elimination bracket, which means that there will be a loser's bracket.
+2. Any player with Indonesian flag can participate in the tournament.
+3. There is no rank limit regulated to participate.
+4. The Score System used will be **Score V2**.
+5. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
 
 ### Match regulations
 
-1. Players will do `!roll` at the start of the match to determine the order of who picks and bann first.
-2. Warmups are not allowed, so make sure you are well warmed up before playing against your opponent.
-3. Regarding map bans, the amount of map should be banned are as follows:
-   - From Round of 16 until Semifinals, each player will ban 1 map per match.
-   - In the Finals and Grand Finals, each player will ban 2 maps per match.
-4. Failed scores count, with that NoFail will be enforced for everyone
-5. The same player is not allowed to ban or the same mod twice in a row.
-6. Players will be forced to use a mod from a FreeMod pick.
-7. Hidden mod is combineable with HardRock and DoubleTime mod.
-8. The Tiebreaker will be played under NoMod or Hidden.
+1. Players will do `!roll` at the start of the match to determine the order of who picks and bann first. Player with higher roll will **pick first and band second** and player with lower roll will **bann first and pick second**.
+2. Players are allowed to submit **one warmup** but it must be below **4 minutes**.
+3. Each player must ban **one map** per match.
+4. Failed scores will count.
+5. Mappool size will be as follows:
+   - 4 NoMod maps (will increase throughout the tournament)
+   - 2 Hidden maps
+   - 2 HardRock maps
+   - 2 DoubleTime maps
+   - 3 FreeMod maps
+   - 1 Tiebreaker map
+6. If player can't attend within the span of **10 minutes**, the other player will win by default.
+7. A player may suggest using NightCore mod instead of DoubleTime with the approval from the other player.
+8. In case when both players are failing the map, the player with higher score will get the point instead.
+9. If both players have the same score during the match, the map will be replayed, then if it happened again the map will be ban for one temporary pick and other map will be picked instead.
+10. In case of a tie in points (example: 4-4 in BO9) the tiebreaker is selected.
+11. The Tiebreaker will be played under FreeMod.
 
 ### Winning conditions
 
-1. Round of 16: Best-of-7 (first to 4 points)
-2. Quarterfinals: Best-of-9 (first to 5 points)
-3. Semifinals and Finals: Best-of-11 (first to 6 points)
-4. Grand Finals: Best-of-13 (first to 7 points)
+1. Round of 32 and Round of 16: Best-of-9 (first to 5 points)
+2. Quarterfinals and Semifinals: Best-of-11 (first to 6 points)
+3. Finals and Grand Finals: Best-of-13 (first to 7 points)
