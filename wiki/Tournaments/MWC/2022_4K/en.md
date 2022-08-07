@@ -171,8 +171,6 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 7. [breakchild - nachmancore (Cut Ver.) (-mint-) \[Stage 7: konatacore\]](https://osu.ppy.sh/beatmapsets/1818002#mania/3729917)
 8. [xi - The End of Dreams (Sped Up Ver.) (aeoliancarp) \[Stage 8: Dawn\]](https://osu.ppy.sh/beatmapsets/1817980#mania/3729876)
 
-## Match schedule
-
 ## Match results
 
 ### Qualifiers
