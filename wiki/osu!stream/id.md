@@ -321,7 +321,7 @@ Masing-masing berikut tidak akan menambahkan atau mengulang pengali kombo dari 0
 
 Tidak seperti osu! biasanya, sistem *lifebar* di osu!stream memiliki aturan yang berbeda.
 
-Pada **Mode Easy, lifebar tidak digunakan sama sekali**.
+**Pada Mode Easy, *lifebar* tidak digunakan sama sekali**.
 
 ![](img/Os-SUN.jpg "Contoh Stream Up! dari Normal")
 
