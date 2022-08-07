@@ -1,4 +1,4 @@
-# Chiar dorești să-l întrebi pe peppy?
+# Chiar dorești să îi adresezi o întrebare lui peppy?
 
 Salutare! peppy îți înțelege dorința de a-l contacta personal, dar mai întâi te roagă să înțelegi faptul că acesta **nu** este locul pentru a-i cere ajutor sau sprijin. El preferă să păstreze asistența pentru osu! separată de mesajele lui personale și de asemenea, consideră că este destul de greu să țină pasul și să răspunda mesajelor private de pe forum. Prin urmare, vă solicită să alegeți una dintre următoarele opțiuni:
 
