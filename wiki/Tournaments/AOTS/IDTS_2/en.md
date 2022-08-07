@@ -43,7 +43,7 @@ The Indonesian Taiko Showdown 2 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722) |
-| Mappool selector | ::{ flag=ID }:: [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ::{ flag=ID }:: [Reed_405](https://osu.ppy.sh/users/9965069) |
+| Mappool selector | ::{ flag=ID }:: [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ::{ flag=ID }:: [Reed\_405](https://osu.ppy.sh/users/9965069) |
 | Referee | ::{ flag=ID }:: [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722), ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768), ::{ flag=ID }:: [PatZar](https://osu.ppy.sh/users/2479487), ::{ flag=ID }:: [Rei Hakurei](https://osu.ppy.sh/users/704111) |
 | Streamer | ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839) |
 | Commentator | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647), ::{ flag=ID }:: [ImChro](https://osu.ppy.sh/users/7280717) |
@@ -63,7 +63,7 @@ The Indonesian Taiko Showdown 2 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=ID }:: [misaki_tk](https://osu.ppy.sh/users/3866964), ::{ flag=ID }:: [Kaemz](https://osu.ppy.sh/users/8494233), ::{ flag=ID }:: [Servatory](https://osu.ppy.sh/users/4013317), ::{ flag=ID }:: [Mikurio](https://osu.ppy.sh/users/10734140), ::{ flag=ID }:: [Maneh](https://osu.ppy.sh/users/5179995), ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079), ::{ flag=ID }:: [eltiras](https://osu.ppy.sh/users/6720962), ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301), ::{ flag=ID }:: [Ryouka-](https://osu.ppy.sh/users/7099450), ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139) |
+| Top | ::{ flag=ID }:: [misaki\_tk](https://osu.ppy.sh/users/3866964), ::{ flag=ID }:: [Kaemz](https://osu.ppy.sh/users/8494233), ::{ flag=ID }:: [Servatory](https://osu.ppy.sh/users/4013317), ::{ flag=ID }:: [Mikurio](https://osu.ppy.sh/users/10734140), ::{ flag=ID }:: [Maneh](https://osu.ppy.sh/users/5179995), ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079), ::{ flag=ID }:: [eltiras](https://osu.ppy.sh/users/6720962), ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301), ::{ flag=ID }:: [Ryouka-](https://osu.ppy.sh/users/7099450), ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139) |
 | Middle | ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [Zedfish](https://osu.ppy.sh/users/22615825), ::{ flag=ID }:: [NagisaMiaomi](https://osu.ppy.sh/users/5879473), ::{ flag=ID }:: [ZFLamda](https://osu.ppy.sh/users/10727467), ::{ flag=ID }:: [AciTelor](https://osu.ppy.sh/users/16390988), ::{ flag=ID }:: [teddylie](https://osu.ppy.sh/users/1236126), ::{ flag=ID }:: [Lxa](https://osu.ppy.sh/users/20983500), ::{ flag=ID }:: [Hypermaester77](https://osu.ppy.sh/users/15155081), ::{ flag=ID }:: [Rossi](https://osu.ppy.sh/users/5569341), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413) |
 | Low | ::{ flag=ID }:: [Sagasemat](https://osu.ppy.sh/users/16761278), ::{ flag=ID }:: [kirikun11](https://osu.ppy.sh/users/4991728), ::{ flag=ID }:: [FinHazel](https://osu.ppy.sh/users/13660273), ::{ flag=ID }:: [NasiGaPakeNasi](https://osu.ppy.sh/users/17519250), ::{ flag=ID }:: [salym](https://osu.ppy.sh/users/19089549), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055), ::{ flag=ID }:: [Zarumu](https://osu.ppy.sh/users/18429972), ::{ flag=ID }:: [Strikermens](https://osu.ppy.sh/users/7276005), ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/3031177), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138) |
 
@@ -362,7 +362,7 @@ Sunday, 5 December 2022:
 | **Reen** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: NasiGaPakeNasi | [#1](https://osu.ppy.sh/community/matches/94850866) |
 | **Servatory** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: eZmmR | [#1](https://osu.ppy.sh/community/matches/94852186) |
 | **teddylie** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Hypermaester77 | [#1](https://osu.ppy.sh/community/matches/94856639) |
-| NagisaMiaomi ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: Ihram-San | [#1](https://osu.ppy.sh/community/matches/94861231) |
+| **NagisaMiaomi** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: Ihram-San | [#1](https://osu.ppy.sh/community/matches/94861231) |
 
 ## Ruleset
 
