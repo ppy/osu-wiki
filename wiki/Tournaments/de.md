@@ -397,6 +397,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Indonesian Taiko Showdown](AOTS/IDTS_1) | 06.05.2017 | 11.06.2017 | ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) | ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885) | ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768) |
 | [Asian Taiko Showdown 2018](AOTS/ATS_2018) | 02.06.2018 | 08.07.2018 | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ::{ flag=JP }:: [butter0414](https://osu.ppy.sh/users/7935022) |
 | [Asian-Oceanian Taiko Showdown](AOTS/AOTS_1) | 09.08.2019 | 15.09.2019 | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) | ::{ flag=HK }:: [MTDex](https://osu.ppy.sh/users/9468283) |
+| [Indonesian Taiko Showdown 2](AOTS/IDTS_2) | 03.12.2021 | 09.01.2022 | ::{ flag=ID }:: [Servatory](https://osu.ppy.sh/users/4013317) | ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301) | ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079) |
 
 #### Ausu!Taiko Tournament
 
