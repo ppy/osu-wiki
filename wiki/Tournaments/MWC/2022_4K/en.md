@@ -157,7 +157,6 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 - Tiebreaker
   1. **[USAO - Big Daddy (Toaph Daddy) \[Rapture\]](https://osu.ppy.sh/beatmapsets/1822992#mania/3740717)**
 
-
 ### Qualifiers
 
 **[Download the mappack here (44 MB)](https://drive.google.com/uc?id=1pl-xdoKFMPFjOS73vZxjWvIkANpj8kxn)**
