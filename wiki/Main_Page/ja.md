@@ -131,7 +131,7 @@ osu!は、開発、メンテナンス、コミュニティ管理に協力する�
 
 ここにあるほとんどのwikiは、ボランティアによって執筆・翻訳されています。改善を提案したり、問題を報告したり、独自の記事を書いたりすることもできます。
 
-[osu!の歴史](/wiki/History_of_osu!) • [osu! wikiの歴史](/wiki/History_of_osu!/osu!_wiki) • [MappingとModdingの変更履歴](/wiki/Mapping_and_Modding_Timeline) • [エイプリルフール](/wiki/History_of_osu!/April_Fools)
+[osu!の歴史](/wiki/History_of_osu!) • [osu! wikiの歴史](/wiki/History_of_osu!/osu!_wiki) • [MappingとModdingの変更履歴](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [エイプリルフール](/wiki/History_of_osu!/April_Fools)
 
 [サイトマップ](/wiki/Sitemap) • [貢献ガイド](/wiki/osu!_wiki/Contribution_guide) • [記事のスタイリング基準](/wiki/Article_styling_criteria) • [ニュースのスタイリング基準](/wiki/News_styling_criteria)
 
