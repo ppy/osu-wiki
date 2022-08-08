@@ -38,7 +38,7 @@ ppv2 目前仍在提供服务，且 ppv2 的实时升级信息发布在这个[�
 
 ### 权重系统
 
-权重系统是一个简单的公式，用于计算玩家的总表现分。这个公式能够降低玩家的最好表现成绩榜上，比较靠后的成绩对总表现分的影响力。上述公式如下：
+权重系统是一个用于计算玩家的总表现分的简单公式。这个公式能够降低玩家成绩榜上比较靠后的成绩对总表现分的影响。公式如下：
 
 `总 pp = p * 0.95^(n-1)`
 
@@ -50,15 +50,15 @@ ppv2 目前仍在提供服务，且 ppv2 的实时升级信息发布在这个[�
 
 谱面的[缩圈速度 (AR)](/wiki/Beatmapping/Approach_rate)，和部分[游戏模组](/wiki/Game_modifier)（即 [Flashlight](/wiki/Game_modifier/Flashlight)、[Hidden](/wiki/Game_modifier/Hidden)、[Hard Rock](/wiki/Game_modifier/Hard_Rock) 这些模组）会显著地影响快速准确地移动光标的难度，从而影响谱面的表现分。
 
-在 [osu!](/wiki/Game_mode/osu!) 游戏模式中，含有较多的较远[跳](/wiki/Beatmap/Pattern/Jump)排列的谱面常被称为跳图，通常能在其上获得较多的表现分。同样地，在 [osu!catch](/wiki/Game_mode/osu!catch) 游戏模式中，含有较多的红果跳排列的谱面也能获得较多的表现分。[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania) 游戏模式没有精准 (Aim) 指标。
+在 [osu!](/wiki/Game_mode/osu!) 游戏模式中，含有较多的长距离[跳](/wiki/Beatmap/Pattern/Jump)排列的谱面常被称为跳图，通常能在其上获得较多的表现分。同样地，在 [osu!catch](/wiki/Game_mode/osu!catch) 中，含有较多的红果跳排列的谱面也能获得较多的表现分。[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania) 则没有精准 (Aim) 指标。
 
 ### 速度 (Speed)
 
 *速度 (Speed)* 是衡量谱面物件密度的指标。
 
-短时间内出现大量物件的谱面，它的速度指标会很高。速度越高，谱面难度越高，也就能提供更多的表现分。
+短时间内出现大量物件的谱面，它的速度指标会较高。而该值越高，代表谱面难度越高，也就能提供更多的表现分。
 
-因此，诸如 [Double Time](/wiki/Game_modifier/Double_Time) 或 [Half Time](/wiki/Game_modifier/Half_Time) 这些影响谱面物件密度的模组，会显著改变谱面的速度指标，从而影响谱面的表现分。
+如 [Double Time](/wiki/Game_modifier/Double_Time) 或 [Half Time](/wiki/Game_modifier/Half_Time) 模组会影响谱面物件密度，从而显著改变谱面的速度指标，进而影响谱面的表现分。
 
 ### 精确 (Accuracy)
 
@@ -66,7 +66,7 @@ ppv2 目前仍在提供服务，且 ppv2 的实时升级信息发布在这个[�
 
 *精确 (Accuracy)* 是衡量玩家在[打击物件](/wiki/Hit_object)出现时，准时击打能力的指标，通常描述为一个百分值。这在衡量玩家的表现分算法里，也是一项比较重要的指标。
 
-非常瞎眼的，高准确率的成绩，算法会给予其较高的表现分。因此，一个[全连](/wiki/Full_combo)，但是准确率仅为 80% 的成绩，它的含金量甚至只有准确率 95% 的成绩的 2/3。因为算法十分看重玩家的准确率，所以当玩家开启 Hidden、Hard Rock、Flashlight 这些模组，并打出高准确率的成绩时，能获得可观的表现分。
+高准确率的成绩，算法会给予其较高的表现分。而一个[全连](/wiki/Full_combo)，但是准确率仅为 80% 的成绩，它的精确表现分甚至只有准确率 95% 的成绩的 2/3。因为算法十分看重玩家的准确率，所以当玩家开启 Hidden、Hard Rock、Flashlight 这些模组，并打出高准确率的成绩时，能获得可观的表现分。
 
 ### 耐力 (Strain)
 
