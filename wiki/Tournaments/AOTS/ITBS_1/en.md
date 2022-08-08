@@ -18,7 +18,7 @@ The **Indonesian Taiko Beginner Showdown** (***ITBS***) was an beginner Indonesi
 | Live drawings | 2022-04-10 (21:30 UTC+7) |
 | Qualifiers | 2022-04-16/2022-04-17 |
 | Round of 48 | 2022-04-23/2022-04-24 |
-| Round of 32 | 2022-04-22/2022-04-24 |
+| Round of 32 | 2022-04-23/2022-04-24 |
 | Round of 16 | 2022-05-07/2022-05-09 |
 | Quarterfinals | 2022-05-14/2022-05-15 |
 | Semifinals | 2022-05-21/2022-05-22 |
@@ -237,136 +237,171 @@ The Indonesian Taiko Beginner Showdown was run by various community members.
 
 ### Grand Finals
 
-Saturday, 8 January 2022:
+Saturday, 4 June 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Veltlion ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **Servatory** | [#1](https://osu.ppy.sh/community/matches/96255053) |
+| **WeebReen** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: N\_jaaayy | [#1](https://osu.ppy.sh/community/matches/101175653) |
 
-Sunday, 9 January 2022:
+Sunday, 5 June 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| freezebear ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **Servatory** | [#1](https://osu.ppy.sh/community/matches/96295997) |
-| **Servatory** ::{ flag=ID }:: | **7** | 6 | ::{ flag=ID }:: freezebear | [#1](https://osu.ppy.sh/community/matches/96297839) |
+| salym ::{ flag=ID }:: | 4 | **7** | ::{ flag=ID }:: **WeebReen** | [#1](https://osu.ppy.sh/community/matches/101212063) |
+| **WeebReen** ::{ flag=ID }:: | 5 | **7** | ::{ flag=ID }:: **salym** | [#1](https://osu.ppy.sh/community/matches/101214630) |
 
 ### Finals
 
-Saturday, 1 January 2022:
+Saturday, 28 May 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Veltlion ::{ flag=ID }:: | 6 | **7** | ::{ flag=ID }:: **freezebear** | [#1](https://osu.ppy.sh/community/matches/95967385) |
-| Kaemz ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **AciTelor** | *win by default* |
-| Mikurio ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **Servatory** | [#1](https://osu.ppy.sh/community/matches/95976165) |
+| **salym** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: WeebReen | [#1](https://osu.ppy.sh/community/matches/100981928), [#2](https://osu.ppy.sh/community/matches/100986115) |
+| **N\_jaaayy** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: BitDust | [#1](https://osu.ppy.sh/community/matches/100984261) |
 
-Sunday, 2 January 2022:
+Sunday, 29 May 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| AciTelor ::{ flag=ID }:: | 0 | **7** | ::{ flag=ID }:: **Servatory** | [#1](https://osu.ppy.sh/community/matches/96011942) |
+| Kampret ::{ flag=ID }:: | 1 | **6** | ::{ flag=ID }:: **Ihram-San** | [#1](https://osu.ppy.sh/community/matches/101014643) |
+| **N\_jaaayy** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: Ihram-San | [#1](https://osu.ppy.sh/community/matches/101018538) |
 
 ### Semifinals
 
-Saturday, 25 December 2022:
+Saturday, 21 May 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Kaemz ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **freezebear** | *win by default* |
-| **Veltlion** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: Mikurio | [#1](https://osu.ppy.sh/community/matches/95668623) |
-| misaki\_tk ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Reen** | *win by default* |
-| **Servatory** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: Zedfish | [#1](https://osu.ppy.sh/community/matches/95674630) |
+| Iskandar ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **zutu** | *win by default* |
+| **Aphelion-** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: dedotikea | [#1](https://osu.ppy.sh/community/matches/100788098) |
+| **Ihram-San** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: AZKiFanboy | [#1](https://osu.ppy.sh/community/matches/100790796) |
+| **salym** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: N\_jaaayy | [#1](https://osu.ppy.sh/community/matches/100792442) |
 
-Sunday, 26 December 2022:
+Sunday, 22 May 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **AciTelor** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: teddylie | [#1](https://osu.ppy.sh/community/matches/95709831) |
-| **eltiras** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Ryouka- | *win by default* |
-| **AciTelor** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: Reen | [#1](https://osu.ppy.sh/community/matches/95715161) |
-| **Servatory** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: eltiras | [#1](https://osu.ppy.sh/community/matches/95715797) |
+| Madoka Ayukawa ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **BitDust** | *win by default* |
+| **Ihram-San** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: Aphelion- | [#1](https://osu.ppy.sh/community/matches/100820674) |
+| **WeebReen** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: Kampret | [#1](https://osu.ppy.sh/community/matches/100823344) |
+| **BitDust** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: zutu | [#1](https://osu.ppy.sh/community/matches/100825634) |
 
 ### Quarterfinals
 
-Saturday, 18 December 2022:
+Saturday, 14 May 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Reen** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: kirikun11 | [#1](https://osu.ppy.sh/community/matches/95369082) |
-| **Kaemz** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: eltiras | [#1](https://osu.ppy.sh/community/matches/95370003) |
-| Servatory ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **freezebear** | [#1](https://osu.ppy.sh/community/matches/95371212) |
-| **NagisaMiaomi** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: ZFLamda | *win by default* |
-| **Konami-Kun** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: FinHazel | [#1](https://osu.ppy.sh/community/matches/95373794) |
-| **Maneh** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Rossi | *win by default* |
-| **Lxa** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: fritz learning | [#1](https://osu.ppy.sh/community/matches/95375658) |
-| **Ryouka-** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: Hypermaester77 | [#1](https://osu.ppy.sh/community/matches/95379273) |
-| **Zedfish** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: NasiGaPakeNasi | [#1](https://osu.ppy.sh/community/matches/95383957) |
+| **AZKiFanboy** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: DRMPG | [#1](https://osu.ppy.sh/community/matches/100596459) |
+| **Zarumu** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Kinora | *win by default* |
+| **hufuhufu** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Rew- | *win by default* |
+| Sololiquy ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Endless Paradex** | *win by default* |
+| **dedotikea** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: SakuyaIz | [#1](https://osu.ppy.sh/community/matches/100603897) |
+| **BitDust** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: -Reuto- | *win by default* |
 
-Sunday, 19 December 2022:
+Sunday, 15 May 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Reen** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: Lxa | [#1](https://osu.ppy.sh/community/matches/95410175) |
-| **Ryouka-** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: Konami-Kun | [#1](https://osu.ppy.sh/community/matches/95413529) |
-| Maneh ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **Zedfish** | [#1](https://osu.ppy.sh/community/matches/95421752) |
-| NagisaMiaomi ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **teddylie** | [#1](https://osu.ppy.sh/community/matches/95424484) |
+| MikeVT ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **epictuz** | [#1](https://osu.ppy.sh/community/matches/100627437) |
+| **salym** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: Ihram-San | [#1](https://osu.ppy.sh/community/matches/100629491) |
+| **zutu** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Mixuri | [#1](https://osu.ppy.sh/community/matches/100630526) |
+| hufuhufu ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **dedotikea** | [#1](https://osu.ppy.sh/community/matches/100632327) |
+| **BitDust** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Endless Paradex | [#1](https://osu.ppy.sh/community/matches/100635162) |
+| **Kampret** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Iskandar | *win by default* |
+| **AZKiFanboy** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: Zarumu | [#1](https://osu.ppy.sh/community/matches/100636816) |
+| Aphelion- ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **N\_jaaayy** | [#1](https://osu.ppy.sh/community/matches/100636904) |
+| epictuz ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **zutu** | [#1](https://osu.ppy.sh/community/matches/100640996) |
+| Madoka Ayukawa ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **WeebReen** | *win by default* |
 
 ### Round of 16
 
-Saturday, 11 December 2022:
+Saturday, 7 May 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kaemz** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: Lxa | [#1](https://osu.ppy.sh/community/matches/95083897) |
-| **Mikurio** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: Zedfish | [#1](https://osu.ppy.sh/community/matches/95083897) |
-| **misaki\_tk** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: Konami-Kun | [#1](https://osu.ppy.sh/community/matches/95088170) |
-| **freezebear** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: NagisaMiaomi | [#1](https://osu.ppy.sh/community/matches/95089221) |
-| salym ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **Sagasemat** | [#1](https://osu.ppy.sh/community/matches/95092282) |
-| Mamat ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **fritz learning** | [#1](https://osu.ppy.sh/community/matches/95094334) |
-| eZmmR ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **Hypermaester77** | [#1](https://osu.ppy.sh/community/matches/95096460) |
+| **salym** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: zutu | [#1](https://osu.ppy.sh/community/matches/100407799) |
+| **kabukibuki** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: mikey677 | *win by default* |
+| tamafx0 ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Dika312** | *win by default* |
+| Zoont ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **-SJ-** | *win by default* |
+| **WeebReen** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: hufuhufu | [#1](https://osu.ppy.sh/community/matches/100411308) |
+| Kazuyo ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **DRMPG** | *win by default* |
+| **ProBeater** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: \[-Elaina-\] | *win by default* |
+| **ThePubliX** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Rhifa | *win by default* |
+| BitDust ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **N\_jaaayy** | [#1](https://osu.ppy.sh/community/matches/100415861) |
+| Zarumu ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **Kampret** | [#1](https://osu.ppy.sh/community/matches/100416678) |
+| NandoFernandex ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Endless Paradex** | *win by default* |
 
-Sunday, 12 December 2022:
+Sunday, 8 May 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **eltiras** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: Reen | [#1](https://osu.ppy.sh/community/matches/95136100) |
-| **Servatory** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: teddylie | [#1](https://osu.ppy.sh/community/matches/95136342) |
-| **Veltlion** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Ryouka- | *win by default* |
-| Strikermens ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **kirikun11** | [#1](https://osu.ppy.sh/community/matches/95138536) |
-| Zarumu ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **NasiGaPakeNasi** | [#1](https://osu.ppy.sh/community/matches/95140757) |
-| Maneh ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **AciTelor** | [#1](https://osu.ppy.sh/community/matches/95142690) |
-| **FinHazel** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Ihram-San | *win by default* |
+| **Madoka Ayukawa** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: dedotikea | [#1](https://osu.ppy.sh/community/matches/100439811) |
+| **SakuyaIz** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: -SJ- | *win by default* |
+| **Mixuri** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: ProBeater | *win by default* |
+| AZKiFanboy ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Iskandar** | *win by default* |
+| Reihynn ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Kinora** | *win by default* |
+| **Rew-** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: kabukibuki | *win by default* |
+| **-Reuto-** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: ThePubliX | *win by default* |
+| Dapuluous ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **DRMPG** | [#1](https://osu.ppy.sh/community/matches/100449083) |
+| **Ihram-San** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: MikeVT | *win by default* |
+| **Aphelion-** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Sololiquy | [#1](https://osu.ppy.sh/community/matches/100449762) |
+
+Monday, 9 May 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **epictuz** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: Dika312 | [#1](https://osu.ppy.sh/community/matches/100468846) |
 
 ### Round of 32
 
-Friday, 3 December 2022:
+Saturday, 23 April 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **AciTelor** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: fritz learning | [#1](https://osu.ppy.sh/community/matches/94749281) |
+| **zutu** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: Zoont | [#1](https://osu.ppy.sh/community/matches/99988234) |
+| **WeebReen** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: epictuz | [#1](https://osu.ppy.sh/community/matches/100013559) |
+| **hufuhufu** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: tamafx0 | [#1](https://osu.ppy.sh/community/matches/100014370) |
+| kabukibuki ::{ flag=ID }:: | 3 | **4** | ::{ flag=ID }:: **MikeVT** | [#1](https://osu.ppy.sh/community/matches/100016352) |
+| ProBeater ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **dedotikea** | [#1](https://osu.ppy.sh/community/matches/100023113) |
+| ThePubliX ::{ flag=ID }:: | 3 | **4** | ::{ flag=ID }:: **Iskandar** | [#1](https://osu.ppy.sh/community/matches/100023793) |
+| Kazuyo ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **N\_jaaayy** | [#1](https://osu.ppy.sh/community/matches/100024710) |
 
-Saturday, 4 December 2022:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **freezebear** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: FinHazel | [#1](https://osu.ppy.sh/community/matches/94795470) |
-| **eltiras** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Zarumu | [#1](https://osu.ppy.sh/community/matches/94796651) |
-| **Maneh** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Mamat | [#1](https://osu.ppy.sh/community/matches/94798555) |
-| **Zedfish** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: kirikun11 | [#1](https://osu.ppy.sh/community/matches/94803761) |
-| **Mikurio** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: Strikermens | [#1](https://osu.ppy.sh/community/matches/94806179) |
-
-Sunday, 5 December 2022:
+Sunday, 24 April 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Veltlion** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: salym | [#1](https://osu.ppy.sh/community/matches/94851181) |
-| ZFLamda ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **Konami-Kun** | [#1](https://osu.ppy.sh/community/matches/94852174) |
-| **Lxa** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Rossi | *win by default* |
-| **Ryouka-** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: Sagasemat | [#1](https://osu.ppy.sh/community/matches/94855554) |
-| **Reen** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: NasiGaPakeNasi | [#1](https://osu.ppy.sh/community/matches/94850866) |
-| **Servatory** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: eZmmR | [#1](https://osu.ppy.sh/community/matches/94852186) |
-| **teddylie** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Hypermaester77 | [#1](https://osu.ppy.sh/community/matches/94856639) |
-| **NagisaMiaomi** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: Ihram-San | [#1](https://osu.ppy.sh/community/matches/94861231) |
+| **Kampret** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: NandoFernandez | [#1](https://osu.ppy.sh/community/matches/100048372) |
+| **Ihram-San** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: Rew- | [#1](https://osu.ppy.sh/community/matches/100048315) |
+| **Madoka Ayukawa** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Mixuri | [#1](https://osu.ppy.sh/community/matches/100057960) |
+| **BitDust** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Depuluous | *win by default* |
+| **AZKiFanboy** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: -Reuto- | [#1](https://osu.ppy.sh/community/matches/100059295) |
+| **Sololiquy** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Reihynn | *win by default* |
+| **salym** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: SakuyaIz | [#1](https://osu.ppy.sh/community/matches/100060448) |
+| **Zarumu** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: Endless Paradex | [#1](https://osu.ppy.sh/community/matches/100061031) |
+| **Aphelion-** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: Kinora | [#1](https://osu.ppy.sh/community/matches/100062146) |
+
+### Round of 48
+
+Saturday, 23 April 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Endless Paradox** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: mikey677 | *win by default* |
+| Dika312 ::{ flag=ID }:: | 2 | **4** | ::{ flag=ID }:: **Konami-Kun** | [#1](https://osu.ppy.sh/community/matches/100017272) |
+| **-Reuto-** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: -SJ- | *win by default* |
+
+Sunday, 24 April 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[-Elaina-\] ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **Dapuluous** | [#1](https://osu.ppy.sh/community/matches/100048329) |
+| DRMPG ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **Mixuri** | [#1](https://osu.ppy.sh/community/matches/100049781) |
+| Rhifa ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **SakuyaIz** | [#1](https://osu.ppy.sh/community/matches/100051672) |
+
+### Qualifiers
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1pMDlrWZUSFcjieAa49dpNQ9I-iBFK71aTMr1NKjPkU0/edit?usp=sharing) alongside the final standings on which teams made it through to the next stage.
 
 ## Ruleset
 
