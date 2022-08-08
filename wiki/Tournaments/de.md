@@ -78,6 +78,7 @@ Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelaussch
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 15.08.2020 | 20.09.2020 | ::{ flag=BR }:: Brasilien | ::{ flag=JP }:: Japan | ::{ flag=KR }:: Südkorea |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 31.07.2021 | 19.09.2021 | ::{ flag=BR }:: Brasilien | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=MY }:: Malaysia |
 | [osu!mania 7K World Cup 2022](MWC/2022_7K) | 16.12.2021 | 20.02.2022 | ::{ flag=KR }:: Südkorea | ::{ flag=CN }:: China | ::{ flag=MY }:: Malaysia |
+| [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07.07.2022 | 18.09.2022 | *TBD* | *TBD* | *TBD* |
 
 ## Community
 
