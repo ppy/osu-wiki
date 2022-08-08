@@ -35,7 +35,7 @@ The **Indonesian Taiko Beginner Showdown** (***ITBS***) was an beginner Indonesi
 
 ![](img/badge.jpg "ITBS winner badge")
 
-Generous donations from ![][flag_ID] [\[R\]](https://osu.ppy.sh/users/3577322), ![][flag_ID] [raynald](https://osu.ppy.sh/users/25094413), ![][flag_ID] [Seshito](https://osu.ppy.sh/users/19820939), and ![][flag_ID] [Zest2822](https://osu.ppy.sh/users/24002878) helped fund some of the prizes.
+Generous donations from ::{ flag=ID }:: [\[R\]](https://osu.ppy.sh/users/3577322), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413), ::{ flag=ID }:: [Seshito](https://osu.ppy.sh/users/19820939), and ::{ flag=ID }:: [Zest2822](https://osu.ppy.sh/users/24002878) helped fund some of the prizes.
 
 ## Organisation
 
@@ -43,22 +43,25 @@ The Indonesian Taiko Beginner Showdown was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722) |
-| Mappool selector | ::{ flag=ID }:: [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ::{ flag=ID }:: [Reed\_405](https://osu.ppy.sh/users/9965069) |
-| Referee | ::{ flag=ID }:: [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722), ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768), ::{ flag=ID }:: [PatZar](https://osu.ppy.sh/users/2479487), ::{ flag=ID }:: [Rei Hakurei](https://osu.ppy.sh/users/704111) |
-| Streamer | ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839) |
-| Commentator | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647), ::{ flag=ID }:: [ImChro](https://osu.ppy.sh/users/7280717) |
-| Designer | ::{ flag=ID }:: [Alice Pi](https://osu.ppy.sh/users/8787324) |
-| Statistician | ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465) |
+| Organiser | ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139) |
+| Co-Organiser | ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722) |
+| Mappool selector | ::{ flag=ID }:: [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=ID }:: [Poii](https://osu.ppy.sh/users/7924938) |
+| Mappool tester | ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079), ::{ flag=ID }:: [Zedfish](https://osu.ppy.sh/users/22615825) |
+| Referee | ::{ flag=ID }:: [-Foxee-](https://osu.ppy.sh/users/14989473), ::{ flag=ID }:: [Joltzzz](https://osu.ppy.sh/users/15436568), ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413), ::{ flag=ID }:: [Rei Hakurei](https://osu.ppy.sh/users/704111), ::{ flag=ID }:: [Zedfish](https://osu.ppy.sh/users/22615825) |
+| Streamer | ::{ flag=HK }:: [-Storm7-](https://osu.ppy.sh/users/12248285), ::{ flag=DE }:: [Penggwin](https://osu.ppy.sh/users/14050018), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839) |
+| Commentator | ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301), ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [Lxa](https://osu.ppy.sh/users/20983500), ::{ flag=ID }:: [Mirea](https://osu.ppy.sh/users/8404646), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413) |
+| Designer | ::{ flag=ID }:: [Poii](https://osu.ppy.sh/users/7924938) |
+| Recruiter | ::{ flag=ID }:: [Reed\_405](https://osu.ppy.sh/users/9965069) |
+| Statistician | ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139) |
 | Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1452569)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1532990)
 - [IDTS Discord server](https://discord.gg/jUDx7hJ7Xv)
 - [Livestream](https://www.twitch.tv/idtsosu)
-- [Challonge brackets](https://challonge.com/IDTS2)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1vilVbt-Z_UE26JMZS9nFy-ARt104FPRrk4st4I8WhEI/edit?usp=sharing)**
+- [Challonge brackets](https://challonge.com/ITBS_2022)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1pMDlrWZUSFcjieAa49dpNQ9I-iBFK71aTMr1NKjPkU0/edit?usp=sharing)**
 
 ## Participants
 
