@@ -14,13 +14,13 @@ tags:
 
 ## Timing
 
-Semakin tinggi nilai OD, semakin pendek jeda waktu untuk menekan [hit object](/wiki/Hit_object), baik secara umum maupun dalam mendapatkan [skor](/wiki/Gameplay/Score) yang tinggi. Waktu maksimum hit error untuk setiap hit object pada mode permainan osu! dan osu!mania berpusat pada ketepatan waktu hit object, dijelaskan dengan tabel di bawah.
+Semakin tinggi nilai OD, semakin singkat pula jeda waktu untuk menekan [hit object](/wiki/Hit_object) baik secara umum ataupun dari segi perhitungan [skor](/wiki/Gameplay/Score). Waktu hit error maksimum untuk setiap hit object pada mode permainan osu! dan osu!mania berpusat pada ketepatan waktu hit object, sebagaimana yang dijelaskan dengan tabel di bawah.
 
-Perlu dicatat pada osu! versi stable, hit window mode permainan osu! dan osu!taiko dapat lebih pendek 0,5 ms daripada hasil rumus perhitungan di kedua sisi (sebelum dan sesudah waktu hit), namun hal sebaliknya dapat terjadi pada osu!mania. Hal tersebut disebabkan oleh bagaimana sebuah hit dinilai, pada mode permainan osu! dan osu!taiko sebuah hit berada pada hit window jika `hit error < pembulatan(hit window)`, namun pada mode permainan osu!mania sebuah hit berada pada hit window jika `hit error <= pembulatan(hit window)`.
+Perlu dicatat pada osu! versi stable, hit window mode permainan osu! dan osu!taiko dapat lebih pendek 0,5 ms daripada hasil rumus perhitungan baik sebelum maupun sesudah waktu hit. Meskipun demikina, hal yang sebaliknya justru dapat terjadi pada mode osu!mania. Hal ini dikarenakan oleh mekanisme perhitungan waktu hit itu sendiri, di mana pada mode permainan osu! dan osu!taiko sebuah hit berada pada hit window apabila `hit error < pembulatan(hit window)`, namun pada mode permainan osu!mania sebuah hit berada pada hit window apabila `hit error <= pembulatan(hit window)`.
 
 Sebagai contoh, hit window sebuah Great pada osu!taiko dengan OD 5 adalah ±34,5 ms, alih-alih ±35 ms seperti hasil rumus pada tabel. Pada mode permainan osu!mania, hit window sebuah MAX adalah ±16,5 ms, bukan ±16 ms seperti hasil rumus pada tabel.
 
-Nilai hit window untuk penilaian-penilaian dapat dilihat dengan mengarahkan kursor di atas [informasi beatmap pada menu pemilihan lagu](/wiki/Client/Interface#informasi-beatmap), yang akan selalu memberikan nilai yang tepat.
+Nilai hit window untuk berbagai waktu penilaian yang ada dapat dilihat dengan mengarahkan kursor di atas [informasi beatmap pada menu pemilihan lagu](/wiki/Client/Interface#informasi-beatmap), yang akan selalu memberikan nilai yang tepat.
 
 ### osu!
 
@@ -48,13 +48,13 @@ Nilai hit window untuk penilaian-penilaian dapat dilihat dengan mengarahkan kurs
 | 100 | `127 - 3 * OD` |
 | 50 | `188 - 3 * OD` |
 
-Jika pemain menekan hit object diluar dari hit window 50, pemain akan mendapatkan miss. Pada kasus hit window antara dua objek yang bertumpuk, objek kedua tidak akan bisa ditekan hingga objek pertama hilang karena mekanik [notelock](/wiki/Gameplay/Judgement/Notelock).
+Jika pemain menekan hit object di luar dari hit window 50, pemain akan mendapatkan miss. Apabila terdapat dua objek yang hit window-nya saling bertumpuk, objek kedua tidak akan dapat ditekan hingga objek pertama hilang akibat mekanika [notelock](/wiki/Gameplay/Judgement/Notelock).
 
 ## Slider dan spinner
 
-Pada mode permainan [osu!](/wiki/Game_mode/osu!), slider akan memberikan skor 300 selama mereka ditekan dalam hit window 50. Ini terkadang disebut sebagai *slideracc* dan dihapus di dalam [ScoreV2](/wiki/Game_modifier/ScoreV2).
+Pada mode permainan [osu!](/wiki/Game_mode/osu!), slider akan memberikan skor 300 selama mereka ditekan dalam hit window 50. Hal ini terkadang disebut dengan istilah *slideracc* yang telah dihapus di dalam [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
-Overall difficulty juga berefek pada [spinner](/wiki/Hit_object/Spinner), di mana mereka harus diputar lebih banyak untuk mengisi pengukur pada waktunya. Pada mode permainan [osu!taiko](/wiki/Game_mode/osu!taiko), denden juga perlu ditekan lebih banyak untuk diselesaikan. Jumlah putaran per detik sangat dibutuhkan untuk menyelesaikan spinner, yang dijelaskan dengan rumus berikut:
+Overall difficulty juga berefek pada [spinner](/wiki/Hit_object/Spinner), di mana mereka harus diputar lebih banyak agar *spinner metre* yang ada dapat terisi pada waktunya. Pada mode permainan [osu!taiko](/wiki/Game_mode/osu!taiko), denden juga perlu ditekan lebih banyak untuk dapat diselesaikan. Di samping itu, jumlah putaran per detik yang dibutuhkan untuk menyelesaikan spinner juga akan terdampak sesuai dengan rumus berikut:
 
 - OD < 5: `5 - 2 * (5 - OD) / 5`
 - OD = 5: `5`
