@@ -7,7 +7,7 @@ tags:
 
 ![ITBS logo](img/logo.jpg)
 
-The **Indonesian Taiko Beginner Showdown** (***ITBS***) was an beginner Indonesian double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139). Indonesian players ranked below #10,000 were able to participate. It was the first instalment of the Indonesian Taiko Beginner Showdown and part of the Indonesian Taiko Showdown series.
+The **Indonesian Taiko Beginner Showdown** (***ITBS***) was a beginner Indonesian double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139). Indonesian players ranked below #10,000 were able to participate. It was the first instalment of the Indonesian Taiko Beginner Showdown and a part of the Indonesian Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -44,7 +44,7 @@ The Indonesian Taiko Beginner Showdown was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139) |
-| Co-Organiser | ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722) |
+| Co-organiser | ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722) |
 | Mappool selector | ::{ flag=ID }:: [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=ID }:: [Poii](https://osu.ppy.sh/users/7924938) |
 | Mappool tester | ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079), ::{ flag=ID }:: [Zedfish](https://osu.ppy.sh/users/22615825) |
 | Referee | ::{ flag=ID }:: [-Foxee-](https://osu.ppy.sh/users/14989473), ::{ flag=ID }:: [Joltzzz](https://osu.ppy.sh/users/15436568), ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413), ::{ flag=ID }:: [Rei Hakurei](https://osu.ppy.sh/users/704111), ::{ flag=ID }:: [Zedfish](https://osu.ppy.sh/users/22615825) |
