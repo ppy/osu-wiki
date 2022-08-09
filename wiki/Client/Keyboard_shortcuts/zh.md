@@ -24,7 +24,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 | `Alt` + `↑/↓` | 增大/减小音量，使用左/右键可在整体，音乐，音效之间切换。 |
 | `Ctrl` + `Alt` + `Shift` + `S` | 重新加载当前皮肤，如果在游玩铺面或结算界面时按下，则会在返回选歌界面后重载。 |
 | `Ctrl` + `F11` | 打开/关闭帧数时间图。按住 `Ctrl` 可以暂停时间图。 |
-| `F7` | 切换帧数限制模式。|
+| `F7` | 切换帧数限制模式。 |
 | `F8` | 显示/隐藏聊天栏。 |
 | `F9` | 显示/隐藏扩展聊天栏。 |
 | `F10` | 禁用所有鼠标按键（鼠标滚轮仍可使用）。 |
@@ -80,7 +80,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 | `Ctrl` + `4` | 将游戏模式切换为 [osu!mania](/wiki/Game_mode/osu!mania)。 |
 | `Ctrl` + `Enter` | 使用 [Auto](/wiki/Game_modifier/Auto) 自动播放当前谱面。 |
 | `Ctrl` + `Shift` + `Enter` | 使用 [Cinema mod](/wiki/Game_modifier/Cinema) 播放当前谱面. |
-| `Ctrl` + `A` | 打开/关闭 Auto。|
+| `Ctrl` + `A` | 打开/关闭 Auto。 |
 | `Ctrl` + `F3` or `Ctrl` + `+` | 提高 osu!mania 下落速度（仅适用于 osu!mania）. |
 | `Ctrl` + `F4` or `Ctrl` + `-` | 降低 osu!mania 下落速度（仅适用于 osu!mania）. |
 | `Ctrl` + `Backspace` | 删除搜索框内最后一个单词. |
