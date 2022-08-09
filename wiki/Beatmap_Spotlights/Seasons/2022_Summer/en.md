@@ -92,3 +92,4 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 - [T-SQUARE SUPER BAND SPECIAL - JAPANESE SOUL BROTHERS (Cut & Live Ver.) (Ska) \[\[4K\] 35th Anniversary | Part 2\]](https://osu.ppy.sh/beatmapsets/1683567#mania/3466516), suggested by [Hydria](https://osu.ppy.sh/users/808176)
 - [Mastermind(xi+nora2r) - Dreadnought (PyaKura) \[\[7K\] Hyperspace\]](https://osu.ppy.sh/beatmapsets/361643#mania/794499), suggested by [Venix](https://osu.ppy.sh/users/5999631)
 - [Camellia - OOPARTS (AWMRone) \[\[6K\] OOccultism\]](https://osu.ppy.sh/beatmapsets/1608837#mania/3285125), suggested by [Antalf](https://osu.ppy.sh/users/8793773)
+
