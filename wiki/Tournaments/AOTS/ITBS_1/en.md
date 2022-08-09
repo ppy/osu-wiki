@@ -428,7 +428,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 3. Player's account must be at least 3 months old since their osu! registration and have at least 500 playcount.
 4. In order to participate, players need to be placed #10,000 or below on the osu!taiko global ranking.
 5. Players are not allowed to rank up further than #9,000 during the tournament. Passing this limit will result in disqualification.
-6. Players must not have violated the [osu! community rules](https://osu.ppy.sh/wiki/id/Rules) within the last 12 months.
+6. Players must not have violated the [osu! community rules](/wiki/en/Rules) within the last 12 months.
 7. Joining the tournament's [Discord server](https://discord.gg/jUDx7hJ7Xv) is mandatory to be counted as a player.
 8. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
 
