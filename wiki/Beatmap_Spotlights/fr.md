@@ -69,7 +69,6 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de conse
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
 - ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
 
-
 ### Curateurs osu!mania
 
 - ::{ flag=AU }:: **[Crumpey](https://osu.ppy.sh/users/3518705)**
