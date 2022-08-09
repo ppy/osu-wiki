@@ -1,8 +1,3 @@
----
-outdated_since: 46a9f7c7d79fde8fd96098a16ac1203efd156ad1
-outdated_translation: true
----
-
 # Выдающиеся участники сообщества
 
 ![](/wiki/shared/contributor.jpg "Значок участника")
@@ -192,3 +187,27 @@ outdated_translation: true
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Выдающийся вклад в скиннинг osu! и инструменты для модерирования |
 | ::{ flag=US }:: [I Must Decrease](https://osu.ppy.sh/users/2773526) | Выдающийся вклад в разработку и поддержку систем скоринга в osu! |
 | ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) | Выдающийся вклад в OWC и турнирную сцену сообщества |
+
+## 2022
+
+### Июнь
+
+*См. также новость: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+
+| Участник | Вклад |
+| :-- | :-- |
+| ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Выдающийся вклад в турнирную сцену osu!taiko |
+| ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Выдающийся вклад в разработку osu!(lazer) |
+| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Выдающийся вклад в разработку osu!(lazer) и osu!framework |
+| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Выдающийся вклад в разработку и поддержку системы очков производительности |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Выдающийся вклад в разработку системы очков производительности |
+| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Выдающийся вклад в разработку системы очков производительности и оживление мода Flashlight |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Выдающийся вклад в проект osu! wiki |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Выдающийся вклад в проект osu! wiki |
+| ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | Выдающийся вклад в техподдержку osu! под macOS |
+| ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) | Выдающийся вклад в управление и организацию Project Loved |
+| ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Выдающийся вклад в маппинг-сцену osu! через разработку инструментов |
+| ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Выдающийся вклад в маппинг-сцену osu!taiko через разработку инструментов |
+| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Выдающийся вклад в турнирную сцену osu! и OWC |
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Выдающийся вклад в турнирную сцену osu! и OWC |
+| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Выдающийся вклад в организацию ивентов osu! и турнирную сцену |
