@@ -134,7 +134,7 @@ outdated_translation: true
 
 如同這裡幾乎所有的一切，osu! wiki 也是由志願者撰寫並維護的。歡迎在 [osu-wiki GitHub 儲存庫](https://github.com/ppy/osu-wiki)提出建議、回報問題、甚至自行撰寫文章。
     
-[osu! 歷史](/wiki/History_of_osu!) • [osu! wiki 歷史](/wiki/History_of_osu!/osu!_wiki) • [製譜及 Modding 時間線](/wiki/Mapping_and_Modding_Timeline) • [愚人節](/wiki/History_of_osu!/April_Fools)
+[osu! 歷史](/wiki/History_of_osu!) • [osu! wiki 歷史](/wiki/History_of_osu!/osu!_wiki) • [製譜及 Modding 時間線](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [愚人節](/wiki/History_of_osu!/April_Fools)
 
 [網站地圖](/wiki/Sitemap) • [貢獻指南](/wiki/osu!_wiki/Contribution_guide) • [文章風格標準](/wiki/Article_styling_criteria) • [新聞稿風格標準](/wiki/News_styling_criteria)
 
