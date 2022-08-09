@@ -68,7 +68,6 @@ tags:
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
 - ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
 
-
 ### osu!mania 策展人
 
 - ::{ flag=AU }:: **[Crumpey](https://osu.ppy.sh/users/3518705)**
