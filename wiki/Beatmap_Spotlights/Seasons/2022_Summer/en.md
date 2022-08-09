@@ -5,7 +5,7 @@ tags:
   - Seasonal Spotlights
 ---
 
-# Beatmap Spotlights Season 6 (Spring 2022)
+# Beatmap Spotlights Season 7 (Summer 2022)
 
 ## Schedule
 
