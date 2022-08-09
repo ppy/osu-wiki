@@ -26,8 +26,8 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 1. Every 2 weeks of a season, a single playlist lobby is opened. Everyone can participate for the two weeks.
    - After the first wave of lobbies, playlists will be opened again on a weekly basis.
-2. Each playlist lobby provides a pre-defined playlist of beatmaps.
-   - Each playlist contains an even distribution of Hard, Insane and Expert beatmaps.
+2. Each playlist lobby provides a predetermined playlist of beatmaps.
+   - Each playlist contains an even distribution of Hard, Insane, and Expert beatmaps.
    - Each playlist corresponds with the letter assigned to each 2 weeks. Therefore, each playlist gets replayed once during a season.
 3. Within a playlist lobby, everyone competes towards a room-specific leaderboard.
    - Only the best score results on each beatmap within the playlist are summed up to create a weekly ranked score for each player.
