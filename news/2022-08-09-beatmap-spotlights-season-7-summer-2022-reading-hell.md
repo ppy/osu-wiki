@@ -44,7 +44,6 @@ Fortunately though, it doesn't fail it at any point. There's no surprise in seei
 
 Be sure to give the beatmap a try, good job VINXIS!
 
-
 ### osu!taiko
 
 With over **150 votes**, the taiko voting ended up with a three-way tie, therefore we've got no other option than just mentioning and rewarding all three mappers of those! 
@@ -61,7 +60,6 @@ Fake.Fake.Fake, a popular mapset among speed players takes (1/3 of) the spotligh
 The featured difficulty is basically the perfect introduction to high BPM for players who are still on the way of grasping the shenanigans of multi-color 1/4 patterning, it mainly uses simple and intuitive patterns, so players can fully focus on its main challenge: conquering 255BPM
 
 Don't fret over the other difficulties tho, each one provides a unique experience for every kind of difficulty, so whether you're still trying to separate dons from kats, or you've effectively conquered the drums, there's certainly a treat for you here!
-
 
 **[THE ORAL CIGARETTES - 5150 [Muzukashii]](https://osu.ppy.sh/beatmapsets/1587293#taiko/3268021)**, mapped by [KyeX](https://osu.ppy.sh/users/15118934)\
 *primarily suggested and described by [[Zeth]](https://osu.ppy.sh/users/14102976)*
