@@ -67,9 +67,11 @@ The Indonesian Taiko Beginner Showdown was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=ID }:: [misaki\_tk](https://osu.ppy.sh/users/3866964), ::{ flag=ID }:: [Kaemz](https://osu.ppy.sh/users/8494233), ::{ flag=ID }:: [Servatory](https://osu.ppy.sh/users/4013317), ::{ flag=ID }:: [Mikurio](https://osu.ppy.sh/users/10734140), ::{ flag=ID }:: [Maneh](https://osu.ppy.sh/users/5179995), ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079), ::{ flag=ID }:: [eltiras](https://osu.ppy.sh/users/6720962), ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301), ::{ flag=ID }:: [Ryouka-](https://osu.ppy.sh/users/7099450), ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139) |
-| Middle | ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [Zedfish](https://osu.ppy.sh/users/22615825), ::{ flag=ID }:: [NagisaMiaomi](https://osu.ppy.sh/users/5879473), ::{ flag=ID }:: [ZFLamda](https://osu.ppy.sh/users/10727467), ::{ flag=ID }:: [AciTelor](https://osu.ppy.sh/users/16390988), ::{ flag=ID }:: [teddylie](https://osu.ppy.sh/users/1236126), ::{ flag=ID }:: [Lxa](https://osu.ppy.sh/users/20983500), ::{ flag=ID }:: [Hypermaester77](https://osu.ppy.sh/users/15155081), ::{ flag=ID }:: [Rossi](https://osu.ppy.sh/users/5569341), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413) |
-| Low | ::{ flag=ID }:: [Sagasemat](https://osu.ppy.sh/users/16761278), ::{ flag=ID }:: [kirikun11](https://osu.ppy.sh/users/4991728), ::{ flag=ID }:: [FinHazel](https://osu.ppy.sh/users/13660273), ::{ flag=ID }:: [NasiGaPakeNasi](https://osu.ppy.sh/users/17519250), ::{ flag=ID }:: [salym](https://osu.ppy.sh/users/19089549), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055), ::{ flag=ID }:: [Zarumu](https://osu.ppy.sh/users/18429972), ::{ flag=ID }:: [Strikermens](https://osu.ppy.sh/users/7276005), ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/3031177), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138) |
+| Top | ::{ flag=ID }:: [salym](https://osu.ppy.sh/users/19089549), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zarumu](https://osu.ppy.sh/users/18429972), ::{ flag=ID }:: [Aphelion-](https://osu.ppy.sh/users/8370351), ::{ flag=ID }:: [BitDust](https://osu.ppy.sh/users/9573836), ::{ flag=ID }:: [AZKiFanboy](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [MushReen](https://osu.ppy.sh/users/10129901), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) |
+| High | ::{ flag=ID }:: [kabukibuki](https://osu.ppy.sh/users/16526343), ::{ flag=ID }:: [hufuhufu](https://osu.ppy.sh/users/3057739), ::{ flag=ID }:: [ThePubliX](https://osu.ppy.sh/users/14856887), ::{ flag=ID }:: [Kazuyo](https://osu.ppy.sh/users/5604201), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [Kampret](https://osu.ppy.sh/users/8413114), ::{ flag=ID }:: [ProBeater](https://osu.ppy.sh/users/12064598), ::{ flag=ID }:: [zutu](https://osu.ppy.sh/users/11184912) |
+| Middle | ::{ flag=ID }:: [Zoont](https://osu.ppy.sh/users/7109269), ::{ flag=ID }:: [dedotikea](https://osu.ppy.sh/users/8805157), ::{ flag=ID }:: [NandoFernandez](https://osu.ppy.sh/users/10614731), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [N\_jaaayy](https://osu.ppy.sh/users/17787564), ::{ flag=ID }:: [Iskandar](https://osu.ppy.sh/users/17564331), ::{ flag=ID }:: [tamafx0](https://osu.ppy.sh/users/19154514), ::{ flag=ID }:: [MikeVT](https://osu.ppy.sh/users/23303599) |
+| Low | ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [epictuz](https://osu.ppy.sh/users/25644402), ::{ flag=ID }:: [-Reuto-](https://osu.ppy.sh/users/10717635), ::{ flag=ID }:: [\[-Elaina-\]](https://osu.ppy.sh/users/12532297), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [Endless Paradex](https://osu.ppy.sh/users/15455180), ::{ flag=ID }:: [DRMPG](https://osu.ppy.sh/users/11627890), ::{ flag=ID }:: [Rhifa](https://osu.ppy.sh/users/11607008) |
+| Unseeded | ::{ flag=ID }:: [SakuyaIz](https://osu.ppy.sh/users/14708166), ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772), ::{ flag=ID }:: [mikey677](https://osu.ppy.sh/users/23806740), ::{ flag=ID }:: [Kinora](https://osu.ppy.sh/users/20571283), ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [-SJ-](https://osu.ppy.sh/users/6971620) |
 
 ## Podium
 
@@ -308,7 +310,7 @@ Saturday, 14 May 2022:
 | --: | :-: | :-: | :-- | :-- |
 | **AZKiFanboy** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: DRMPG | [#1](https://osu.ppy.sh/community/matches/100596459) |
 | **Zarumu** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Kinora | *win by default* |
-| **hufuhufu** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Rew- | *win by default* |
+| **hufuhufu** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Revv- | *win by default* |
 | Sololiquy ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Endless Paradex** | *win by default* |
 | **dedotikea** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: SakuyaIz | [#1](https://osu.ppy.sh/community/matches/100603897) |
 | **BitDust** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: -Reuto- | *win by default* |
@@ -355,7 +357,7 @@ Sunday, 8 May 2022:
 | **Mixuri** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: ProBeater | *win by default* |
 | AZKiFanboy ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Iskandar** | *win by default* |
 | Reihynn ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Kinora** | *win by default* |
-| **Rew-** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: kabukibuki | *win by default* |
+| **Revv-** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: kabukibuki | *win by default* |
 | **-Reuto-** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: ThePubliX | *win by default* |
 | Dapuluous ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **DRMPG** | [#1](https://osu.ppy.sh/community/matches/100449083) |
 | **Ihram-San** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: MikeVT | *win by default* |
@@ -386,7 +388,7 @@ Sunday, 24 April 2022:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kampret** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: NandoFernandez | [#1](https://osu.ppy.sh/community/matches/100048372) |
-| **Ihram-San** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: Rew- | [#1](https://osu.ppy.sh/community/matches/100048315) |
+| **Ihram-San** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: Revv- | [#1](https://osu.ppy.sh/community/matches/100048315) |
 | **Madoka Ayukawa** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: Mixuri | [#1](https://osu.ppy.sh/community/matches/100057960) |
 | **BitDust** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Depuluous | *win by default* |
 | **AZKiFanboy** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: -Reuto- | [#1](https://osu.ppy.sh/community/matches/100059295) |
