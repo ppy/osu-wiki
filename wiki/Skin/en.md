@@ -27,4 +27,4 @@ Skins can either be created from scratch (see [Skinning](/wiki/Skinning) for cre
 Side Note: Most osu! standard players these days use custom skins, and a healthy amount of them provide the skins they use with a Twitch chat command, or a Youtube video's description. So if there's a popular osu! player whose skin you like, chances are, they have linked/shared their skins with above-mentioned methods (unless their skin was a work-in-progress or wanted to be made private).
 
 * See also: [Skinning](/wiki/Skinning)
-* For the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/community/forums/15)
+* For the dedicated sub-forum for skins, see [Skinning - osu! Community](https://osu.ppy.sh/community/forums/15)
