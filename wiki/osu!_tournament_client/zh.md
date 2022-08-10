@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu! 比赛客户端
 
 **osu! 比赛客户端** 是用于 [osu!tourney](/wiki/osu!tourney)，并可在直播 osu! 比赛时，提供多种多样的信息界面的官方信息覆盖层客户端。
