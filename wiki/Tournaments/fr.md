@@ -23,7 +23,7 @@ L'osu! World Cup est un tournoi à double élimination par équipe de 4 formée 
 | [osu! World Cup 2016](OWC/2016) | 02/10/2016 | 18/12/2016 | ::{ flag=US }:: États-Unis | ::{ flag=CN }:: Chine | ::{ flag=KR }:: Corée du Sud |
 | [osu! World Cup 2017](OWC/2017) | 13/10/2017 | 17/12/2017 | ::{ flag=PL }:: Pologne | ::{ flag=US }:: États-Unis | ::{ flag=GB }:: Royaume-Uni |
 | [osu! World Cup 2018](OWC/2018) | 10/11/2018 | 16/12/2018 | ::{ flag=US }:: États-Unis | ::{ flag=GB }:: Royaume-Uni | ::{ flag=DE }:: Allemagne |
-| [osu! World Cup 2019](2019) | 09/11/2019 | 22/12/2019 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=GB }:: Royaume-Uni |
+| [osu! World Cup 2019](OWC/2019) | 09/11/2019 | 22/12/2019 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=GB }:: Royaume-Uni |
 | [osu! World Cup 2020](OWC/2020) | 24/10/2020 | 06/12/2020 | ::{ flag=US }:: États-Unis | ::{ flag=DE }:: Allemagne | ::{ flag=CA }:: Canada |
 | [osu! World Cup 2021](OWC/2021) | 09/10/2021 | 28/11/2021 | ::{ flag=US }:: États-Unis | ::{ flag=DE }:: Allemagne | ::{ flag=KR }:: Corée du Sud |
 
