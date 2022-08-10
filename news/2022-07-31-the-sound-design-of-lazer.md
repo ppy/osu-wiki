@@ -79,3 +79,5 @@ Regrettably, it may have been a mistake to not showcase more of these sound effe
 ---
 
 How familiar are you with the sound of lazer? If you haven't tried it yet, go give osu!(lazer) a try and listen to all the different sounds, which you can do by downloading it from [its GitHub releases page](https://github.com/ppy/osu/releases). osu!(lazer) is actively being worked on by peppy and many other individuals who contribute their time and knowledge, so if you have any suggestions or want to help yourself, feel free to browse around on GitHub or take a closer look at development in the [osu!dev Discord server](https://discord.gg/ppy)!
+
+-0x84f
