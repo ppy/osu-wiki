@@ -20,7 +20,7 @@ Skins can either be created from scratch (see [Skinning](/wiki/Skinning) for cre
 3. Download the skin's ".osk" from the opened skin's page.
 4. Either double click the ".osk" file to automatically import and select it as default skin in osu! (the game may take a bit to re-open so just wait for a little for it to load the new skin).
 
-## Popular Skin Websites (osu standard)
+## Popular Skin Websites
 
 - [Circle People Skins](https://circle-people.com/skins/)
 - [osu! Skins](https://osuskins.net/)
