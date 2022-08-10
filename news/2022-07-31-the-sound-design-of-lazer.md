@@ -18,7 +18,7 @@ His first involvement with osu! as a music producer would come in 2011 as peppy 
 
 In 2021 during development of osu!(lazer), peppy saw that the sound design was lacking compared to all of the new visuals and asked nekodex if he was willing to try and give it a facelift. At that point nekodex's primary work such as the osu! website were in a good enough spot so he decided to accept the task and committed to it fully. 
 
-That meant nekodex had to design every single click, shuffle, scroll, hover. The only issue was, nekodex had no UI sound effect design experience AT ALL, and sound design in music production versus UI sound effects is a whole different ball game. nekodex described the difference like this:
+That meant nekodex had to design every single click, shuffle, scroll and hover. The only issue was, nekodex had no UI sound effect design experience AT ALL, and sound design in music production versus UI sound effects is a whole different ball game. nekodex described the difference like this:
 
 > The main difference, in my opinion, is the time scale you have to think in —— for instance, with music I'd be thinking of what emotions I'm trying to convey and how to do that, maybe tied with tension and release over multiple minutes. With sound effects I'm thinking about how to create feedback that 'feels' correct in sounds that are, at most, seconds long (with most being sub-second).
 
