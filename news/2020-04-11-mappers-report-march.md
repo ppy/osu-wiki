@@ -143,7 +143,7 @@ Starting up 2 months ago, there’s been a new podcast series hosted by [Cinnabu
 
 Previously announced in [another news post](https://osu.ppy.sh/home/news/2020-03-23-community-mentorship-program-spring-2020-signups-now-open), the Spring 2020 round of Community Mentorship is coming soon! Hosted regularly throughout the year, the mentorship program helps to nurture newer mappers in the community by pairing them up with Mentors. The applications to become a Mentor are already closed, but the Mentee applications will be opening on **April 19th**, so give applying a try if you’re passionate and interested in learning more about mapping!
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 

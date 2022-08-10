@@ -145,7 +145,7 @@ And of course, such a massive project wouldn't have been left without a showcase
 
 <iframe src="https://player.twitch.tv/?video=1051031340&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 

@@ -178,7 +178,7 @@ Making waves in the modding community recently is the freshly published modding 
 
 Yes, you heard that right. Until recently, extremely long maps could not be ranked due to breaking the score limit, since the scoreboards wouldn't reflect everyone's plays properly anyways. Now the developers have changed it so that super long maps which break the score limit even without mods will have score v2 force enabled. In such cases, these score v2 scores will be submittable, finally allowing super long maps to have proper leaderboards. This means we'll be seeing extremely long maps ranked in the future, which is a really exciting improvement!
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 

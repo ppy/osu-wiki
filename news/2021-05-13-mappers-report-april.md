@@ -157,7 +157,7 @@ The winning entry hosting the runner-ups' guest difficulties will be speed-carri
 
 If you're an anime fan, don't let this opportunity pass you by! Have a thorough look at this [forum thread](https://osu.ppy.sh/community/forums/topics/1308172) and you're good to go!
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 
