@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
   5. [Se-U-Ra - Cris Fortress (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1305819#taiko/2707381)
   6. [NIVIRO - The Ghost (Original Mix) (Lno) \[Oni\]](https://osu.ppy.sh/beatmapsets/1292593#taiko/2682553)
 - Hidden
-  1. [kamome sano - archive::zip (ekumea1123) \[inner::oni\]](https://osu.ppy.sh/beatmapsets/860544#taiko/1800462)
+  1. [kamome sano - archive\:\:zip (ekumea1123) \[inner\:\:oni\]](https://osu.ppy.sh/beatmapsets/860544#taiko/1800462)
   2. [you - Meruru (uone) \[Oni\]](https://osu.ppy.sh/beatmapsets/1222247#taiko/2542281)
 - HardRock
   1. [ARM (IOSYS) feat. Nicole Curry - Come to Life (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/566025#taiko/1199082)
