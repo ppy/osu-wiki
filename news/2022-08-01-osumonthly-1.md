@@ -19,7 +19,7 @@ With all this out of the way, let's dive straight into the news!
 - [What's new in osu!](#what's-new-in-osu!?)
 - [Top scores of the month](#top-scores-of-the-month)
 - [New features in osu!(lazer)](#new-features-in-osu!(lazer))
-- [Montly community quiz](#monthly-community-quiz)
+- [Monthly community quiz](#monthly-community-quiz)
 - [End word](#end-word)
 
 ## What's new in osu!?
@@ -62,7 +62,7 @@ Not content to allow osu! to vacuum up all the glory, the members of the osu!tai
 
 Showcasing some of the best drum bashers the community has to offer, EGTS has a storied history of being one of the most competitively and visually impressive contests around, sporting enough dons and kats to even make the Taikonator blush.
 
-The GTS team's insanely talented designer ::{{ flag=PH }}:: [OsuMe65](https://osu.ppy.sh/users/852867), has also made a trailer for the tournament. Check it out and leave your thoughts down below!
+The GTS team's insanely talented designer [OsuMe65](https://osu.ppy.sh/users/852867), has also made a trailer for the tournament. Check it out and leave your thoughts down below!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/9RtCEP0e9H8" frameborder="0" allowfullscreen></iframe>
 
@@ -84,7 +84,7 @@ With the recent change of swapping from a Group Stage to a Qualifier format, mos
 
 ---
 
-Plenty of tournaments are running all across the community even after the conclusion of the osu!catch World Cup and the various "digit" tournaments (such as [4 Digit Catch World Cup 2022](/wiki/Tournaments/4CWC/2022) and [3 Digit Catch World Cup 2022](https://osu.ppy.sh/community/forums/topics/1580097)), with other regional tournmaents like [Catch French Dual Cup 2](https://osu.ppy.sh/community/forums/topics/1605746) entering the registration phase. 
+Plenty of tournaments are running all across the community even after the conclusion of the osu!catch World Cup and the various "digit" tournaments (such as [4 Digit Catch World Cup 2022](/wiki/Tournaments/4CWC/2022) and [3 Digit Catch World Cup 2022](https://osu.ppy.sh/community/forums/topics/1580097)), with other regional tournaments like [Catch French Dual Cup 2](https://osu.ppy.sh/community/forums/topics/1605746) entering the registration phase.
 
 Keep your eyes peeled for next month's issue, as this section is sure to swell once we start entering the closing months of the year and tournaments ramp up into full gear.
 
@@ -124,7 +124,7 @@ This taiko play is set at an average of 411 BPM. Yes, you read that right, **411
 
 #### Superstars strike
 
-The mania k-pop community is going to be absolutely ecstatic at this next showcase. 
+The mania k-pop community is going to be absolutely ecstatic at this next showcase.
 
 With [Onta_Bekasi](https://osu.ppy.sh/users/8677684) not just clearing but FCing the deceptively difficult yet soothing myriad of LNs and intricate patterns that [My Man](https://osu.ppy.sh/beatmapsets/514681#mania/1093212) so elegantly puts on display, the decision as to what to pick for July's monthly score was all but made for us.
 
