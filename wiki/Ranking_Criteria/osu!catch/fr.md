@@ -2,7 +2,7 @@
 
 ***Note : Ce document est une extension des [critères généraux de classement](/wiki/Ranking_Criteria).***
 
-Cette liste de **critères de classement d'osu!** définit les [règles et directives](/wiki/Ranking_Criteria#termes-généraux) que les [beatmaps](/wiki/Game_mode/osu!catch) spécifiques à [osu!catch](/wiki/Beatmap) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
+Cette liste de **critères de classement d'osu!** définit les [règles et directives](/wiki/Ranking_Criteria#termes-généraux) que les [beatmaps](/wiki/Beatmap) spécifiques à [osu!catch](/wiki/Game_mode/osu!catch) doivent suivre afin de progresser dans la [procédure de classement des beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Global
 

@@ -3,7 +3,6 @@ tags:
   - AGTS 2019
   - AGTS
   - GTS
-outdated_translation: true
 ---
 
 # Advanced Global Taiko Showdown 2019
@@ -30,10 +29,10 @@ L'**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) est un tournoi par p
 | Classement | Prix |
 | :-: | :-- |
 | ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | Un badge unique sur le profil, une bannière d'équipe exclusive |
-| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | Une bannière d'équipe exclusive |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | Une bannière d'équipe exclusive |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | Une bannière d'équipe exclusive |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | Une bannière d'équipe exclusive |
 
-![Badge des gagnants de l'AGTS 2019](img/badge.png)
+![](img/badge.png "Badge des gagnants de l'AGTS 2019")
 
 ## Organisation
 
@@ -49,13 +48,13 @@ L'Advanced Global Taiko Showdown 2019 était organisée par plusieurs membres de
 | Graphiste | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Statisticien | ::{ flag=DE }:: [IceDynamix](https://osu.ppy.sh/users/8599070), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=CA }:: [Leadenginger](https://osu.ppy.sh/users/3799991), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666) |
 | Traducteur | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=KR }:: [BamgoeSN](https://osu.ppy.sh/users/1152851), ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=TW }:: [InfinityAstral](https://osu.ppy.sh/users/9913256), ::{ flag=US }:: [jyake](https://osu.ppy.sh/users/9099822), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Editeur du Wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Développeur | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
+| Éditeur du Wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Liens
 
-- [Thread de discussion](https://osu.ppy.sh/community/forums/topics/931003)
-- [Serveur Discord de l'AGTS](https://discord.gg/zbHVzvF)
+- [Fil de discussion](https://osu.ppy.sh/community/forums/topics/931003)
+- [Serveur Discord du GTS](https://discord.gg/3mGC3HB)
 - [Diffusion en direct](https://www.twitch.tv/gtsosu)
 - [Tableaux Challonge](https://challonge.com/AGTS2019)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/14iravIyZ5o4WIFIx5MyGT_hg59OZKmTp34mQ5txpy7g/edit?usp=sharing)**
@@ -112,11 +111,11 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 | Classement | Pays |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: Japon |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: Canada |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RU }:: Russie A |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=JP }:: Japon |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=CA }:: Canada |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=RU }:: Russie A |
 
-## Liste des beatmaps
+## Mappools
 
 ### Grande Finale
 
@@ -283,30 +282,40 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Grande Finale
 
-| Samedi, 14/09/2019 |  |  |  |  |
+Samedi 14 septembre 2019 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Japon** ::{ flag=JP }:: | **7** | 1 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/54839968) |
 
 ### Finales
 
-| Samedi, 07/09/2019 |  |  |  |  |
+Samedi 7 septembre 2019 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | **Japon** ::{ flag=JP }:: | **7** | 1 | ::{ flag=RU }:: Russie A | [#1](https://osu.ppy.sh/community/matches/54674122) |
 
-| Dimanche, 08/09/2019 |  |  |  |  |
+Dimanche 8 septembre 2019 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | Corée du Sud ::{ flag=KR }:: | 4 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/54691282) |
 | Russie A ::{ flag=RU }:: | 2 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/54706574) |
 
 ### Demi-finales
 
-| Samedi, 31/08/2019 |  |  |  |  |
+Samedi 31 août 2019 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | Indonésie A ::{ flag=ID }:: | 4 | **7** | ::{ flag=JP }:: **Japon** | [#1](https://osu.ppy.sh/community/matches/54504410) |
 | **Russie A** ::{ flag=RU }:: | **7** | 2 | ::{ flag=TW }:: Taïwan | [#1](https://osu.ppy.sh/community/matches/54507108) |
 | Argentine ::{ flag=AR }:: | 4 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/54515229) |
 
-| Dimanche, 01/09/2019 |  |  |  |  |
+Dimanche 1 septembre 2019 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | Taïwan ::{ flag=TW }:: | 1 | **7** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Pays-Bas ::{ flag=NL }:: | 6 | **7** | ::{ flag=KR }:: **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/54530786) |
@@ -314,7 +323,9 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Quarts de finale
 
-| Samedi, 24/08/2019 |  |  |  |  |
+Samedi 24 août 2019 :
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | Argentine ::{ flag=AR }:: | 5 | **6** | ::{ flag=TW }:: **Taïwan** | [#1](https://osu.ppy.sh/community/matches/54305260) |
 | Allemagne A ::{ flag=DE }:: | 0 | **6** | ::{ flag=ID }:: **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54317268) |
@@ -324,7 +335,9 @@ Cette compétition est maintenant terminée, voici le classement final:
 | Pologne ::{ flag=PL }:: | 1 | **6** | ::{ flag=ID }:: **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
 | **Canada** ::{ flag=CA }:: | **6** | 1 | ::{ flag=RU }:: Russie B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
-| Dimanche, 25/08/2019 |  |  |  |  |
+Dimanche 25 août 2019 : 
+
+| Équipe 1 |  |  | Équipe 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
 | Corée du Sud ::{ flag=KR }:: | 3 | **6** | ::{ flag=TW }:: **Taïwan** | [#1](https://osu.ppy.sh/community/matches/54334906) |
 | Pays-Bas ::{ flag=NL }:: | 2 | **6** | ::{ flag=RU }:: **Russie A** | [#1](https://osu.ppy.sh/community/matches/54346880) |
@@ -334,7 +347,9 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Phases de poules
 
-| Groupe | Samedi, 17/08/2019 |  |  |  |  |
+Samedi 17 août 2019 :
+
+| Groupe | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C4 | Mexique ::{ flag=MX }:: | 2 | **5** | ::{ flag=TW }:: **Taïwan** | [#1](https://osu.ppy.sh/community/matches/54132793) |
 | D6 | États-Unis B ::{ flag=US }:: | 1 | **5** | ::{ flag=US }:: **États-Unis A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
@@ -351,29 +366,31 @@ Cette compétition est maintenant terminée, voici le classement final:
 | B5 | Chili ::{ flag=CL }:: | 0 | **5** | ::{ flag=AR }:: **Argentine** | [#1](https://osu.ppy.sh/community/matches/54153575) |
 | C3 | **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=GB }:: ::{ flag=PT }:: Royaume-Uni/Portugal | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
-| Groupe | Dimanche, 18/08/2019 |  |  |  |  |
+Dimanche 18 août 2019 : 
+
+| Groupe | Équipe 1 |  |  | Équipe 2 | Lien du match |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F6 | Indonésie A ::{ flag=ID }:: | 3 | **5** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/54159212) |
 | B2 | Chili ::{ flag=CL }:: | 0 | **5** | ::{ flag=JP }:: **Japon** | [#1](https://osu.ppy.sh/community/matches/54160233) |
 | B1 | **Argentine** ::{ flag=AR }:: | **5** | 2 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/54160229) |
 | B3 | **Japon** ::{ flag=JP }:: | **5** | 3 | ::{ flag=AR }:: Argentine | [#1](https://osu.ppy.sh/community/matches/54161382) |
 | B4 | Hong Kong ::{ flag=HK }:: | 0 | **5** | ::{ flag=CL }:: **Chili** | [#1](https://osu.ppy.sh/community/matches/54161391) |
-| F2 | Indonésie B ::{ flag=ID }:: | 0 | **5** | ::{ flag=CA }:: **Canada** | -win by default- |
+| F2 | Indonésie B ::{ flag=ID }:: | 0 | **5** | ::{ flag=CA }:: **Canada** | *victoire par défaut* |
 | B6 | Hong Kong ::{ flag=HK }:: | 1 | **5** | ::{ flag=JP }:: **Japon** | [#1](https://osu.ppy.sh/community/matches/54165254) |
 | F4 | **Indonésie A** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: Indonésie B | [#1](https://osu.ppy.sh/community/matches/54168881) |
 | A3 | **Pologne** ::{ flag=PL }:: | **5** | 1 | ::{ flag=RU }:: Russie B | [#1](https://osu.ppy.sh/community/matches/54168865) |
 | D5 | Brésil ::{ flag=BR }:: | 2 | **5** | ::{ flag=RU }:: **Russie A** | [#1](https://osu.ppy.sh/community/matches/54168668) |
 | A4 | **Philippines** ::{ flag=PH }:: | **5** | 0 | ::{ flag=MY }:: Malaisie | [#1](https://osu.ppy.sh/community/matches/54170118) |
 | C2 | Taïwan ::{ flag=TW }:: | 0 | **5** | ::{ flag=NL }:: **Pays-Bas** | [#1](https://osu.ppy.sh/community/matches/54169919) |
-| E2 | Venezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=KR }:: **Corée du Sud** | -win by default- |
+| E2 | Venezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=KR }:: **Corée du Sud** | *victoire par défaut* |
 | E3 | **Corée du Sud** ::{ flag=KR }:: | **5** | 2 | ::{ flag=DE }:: Allemagne A | [#1](https://osu.ppy.sh/community/matches/54171395) |
 | F1 | Royaume-Uni/Portugal ::{ flag=GB }:: ::{ flag=PT }:: | 4 | **5** | ::{ flag=ID }:: **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54171441) |
 | A2 | Malaisie ::{ flag=MY }:: | 0 | **5** | ::{ flag=PL }:: **Pologne** | [#1](https://osu.ppy.sh/community/matches/54171560) |
 | D3 | États-Unis A ::{ flag=US }:: | 2 | **5** | ::{ flag=RU }:: **Russie A** | [#1](https://osu.ppy.sh/community/matches/54171222) |
 | C3 | **Pays-Bas** ::{ flag=NL }:: | **5** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/54173902) |
 | D4 | États-Unis B ::{ flag=US }:: | 4 | **5** | ::{ flag=BR }:: **Brésil** | [#1](https://osu.ppy.sh/community/matches/54175298) |
-| E4 | **Scandinavie** ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **5** | 0 | ::{ flag=VE }:: Venezuela | -win by default- |
-| E5 | Venezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=DE }:: **Allemagne A** | -win by default- |
+| E4 | **Scandinavie** ::{ flag=DK }:: ::{ flag=NO }:: ::{ flag=SE }:: | **5** | 0 | ::{ flag=VE }:: Venezuela | *victoire par défaut* |
+| E5 | Venezuela ::{ flag=VE }:: | 0 | **5** | ::{ flag=DE }:: **Allemagne A** | *victoire par défaut* |
 | D2 | **Brésil** ::{ flag=BR }:: | **5** | 3 | ::{ flag=US }:: États-Unis A | [#1](https://osu.ppy.sh/community/matches/54181034) |
 
 ## Règles
