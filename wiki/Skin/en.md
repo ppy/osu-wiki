@@ -13,7 +13,7 @@ A **skin** is a set of graphics (images) and custom sample sets (audio clips) th
 
 ## How to Use Custom Skins
 Skins can either be created from scratch (see [Skinning](/wiki/Skinning) for creating your own skin), or downloaded as a ".osk" file and imported into the game. To download and use an osu! skin you have to:
-- Pick one of the [Popular Skin Websites](#popular-skin-websites-(osu!-standard)) and open the link.
+- Pick one of the [Popular Skin Websites](#popular-skin-websites-osu-standard) and open the link.
 - Choose a skin that suits your tastes by clicking on it's name or picture.
 - Download the skin's ".osk" from the opened skin's page.
 - Either double click the ".osk" file to automatically import and select it as default skin in osu! (the game may take a bit to re-open so just wait for a little for it to load the new skin).
