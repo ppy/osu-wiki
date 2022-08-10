@@ -4,7 +4,7 @@
 
 Dieser Artikel betrifft die Schriftstandards für Deutsch. Verweise auf die englische Version dieser Seite für die Schriftstandards für englische Artikel.
 
-Alle deutschen Artikel müssen Standarddeutsch verwenden.
+Alle deutschen Artikel müssen Bundesdeutsches Hochdeutsch verwenden.
 
 ## Inhaltsparität
 
