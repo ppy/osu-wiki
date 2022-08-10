@@ -2,7 +2,7 @@
 
 Section dédiée aux tournois d'osu!. Les tournois ont un forum dédié qui se trouve [via ce lien](https://osu.ppy.sh/community/forums/55).
 
-Veuillez visiter la page [Support officiel](/wiki/Tournaments/Official_support) aux tournois pour plus de détails sur la façon de demander du support officiel pour votre tournoi (badges, processus de screening, etc.).
+Veuillez visiter la page [Support officiel aux tournois](/wiki/Tournaments/Official_support) pour plus de détails sur la façon de demander du support officiel pour votre tournoi (badges, processus de screening, etc.).
 
 ## World Cups officielles
 
