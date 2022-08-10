@@ -1,6 +1,7 @@
 ---
 tags:
   - vote
+no_native_review: true
 ---
 
 # 内容投票流程
