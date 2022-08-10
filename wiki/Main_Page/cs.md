@@ -134,7 +134,7 @@ Komunikujte s osu! prostřednictvím jiných aplikací a médií, nebo jí pomoc
 
 Stejně jako téměř všechno tady, osu! wiki je psána a udržována dobrovolníky. Navrhněte zlepšení, nahlaste problém nebo dokonce napište svůj vlastní článek na [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki "osu! wiki na GitHubu").
 
-[Historie osu!](/wiki/History_of_osu!) • [Historie osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Časová osa mapování a úprav](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
+[Historie osu!](/wiki/History_of_osu!) • [Historie osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Časová osa mapování a úprav](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
 [Obsah](/wiki/Sitemap) • [Jak přispět?](/wiki/osu!_wiki/Contribution_guide) • [Kritéria pro návrh článku](/wiki/Article_styling_criteria) • [Kritéria pro návrh zpráv](/wiki/News_styling_criteria)
 
