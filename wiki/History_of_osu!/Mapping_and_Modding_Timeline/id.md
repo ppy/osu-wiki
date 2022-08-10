@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 27be3f6214c7f8e984b234823d56fe0bd50a208c
+---
+
 # Sejarah mapping dan modding
 
 Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berubah seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk tapak tilas akan berbagai perubahan yang terjadi dari masa ke masa dan sebagai pedoman bagi mereka yang ingin mencetuskan ide-ide baru untuk mengembangkan sistem mapping dan modding yang telah ada ke depannya.

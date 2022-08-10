@@ -1,8 +1,8 @@
 # Ranking criteria osu!taiko
 
-**Ranking criteria osu!taiko** merupakan peraturan dan pedoman yang berlaku untuk pembuatan tingkat kesulitan mode permainan osu!taiko. Agar tingkat kesulitan mode permainan osu!taiko dapat di-*ranked*, mapper diwajibkan mematuhi kriteria yang tercantum. Meskipun **semua aturan wajib diikuti dalam keadaan apa pun**, namun pedoman dapat diabaikan dalam kasus tertentu. Kasus tertentu ini harus dapat dibenarkan dengan penjelasan yang lengkap tentang mengapa pedoman tersebut dapat diabaikan alasan bila tidak mengabaikannya akan mengganggu kualitas keseluruhan pembuatan map tersebut.
+***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_Criteria).***
 
-Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Setiap aturan yang melalui proses diskusi dan persetujuan komunitas dicantumkan di sini sebagaimana telah disepakati pada masing-masing utas diskusi.
+**Ranking criteria osu!taiko** menjabarkan [aturan dan pedoman](/wiki/Ranking_Criteria#istilah-umum) spesifik untuk [beatmap](/wiki/Beatmap) [osu!taiko](/wiki/Game_mode/osu!taiko) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
 ## Glosarium
 
