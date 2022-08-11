@@ -10,7 +10,7 @@ tags:
 
 ![Комната с плейлистом Featured Artist](img/playlist.jpg "Комната с плейлистом Featured Artist в osu!(lazer)")
 
-Открыть плейлисты можно, перейдя в меню **play** в osu!(lazer) и включив фильтр по **Featured Artists** в правом верхнем углу.
+Открыть плейлисты можно, выбрав в меню osu!(lazer) пункт **играть** и включив фильтр по **Featured Artists** в правом верхнем углу.
 
 ![Список плейлистов Featured Artist](img/playlist-listing.jpg)
 
