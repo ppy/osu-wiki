@@ -2,7 +2,7 @@
 
 ![](img/Os-Logo.jpg "osu!stream logo")
 
-**osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only. An [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port was planned and nearly completed, but not released due to audio latency issues in Android causing an unenjoyable gameplay experience.
+**osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only. An [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port was planned and nearly completed, but has yet to be released due to audio latency issues in Android causing an unenjoyable gameplay experience.
 
 It introduced a brand new gameplay system, with new gameplay elements such as hold circles and connected beats. It does not support classic osu! beatmaps without manual conversion. Instead, maps were created by a special team of mappers to take advantage of the new elements and adhere to a [stricter level of standards](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
@@ -116,7 +116,7 @@ Development for this version ended in 2020. For more information, read the [blog
 
 ![](img/Os-ModeEasy.jpg "Easy mode")
 
-**Difficulty: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
+**Difficulty: Easy + [NoFail](/wiki/Gameplay/Game_modifier/No_Fail)**
 
 Easy mode is for new-comers to get used to the osu!stream gameplay. The gameplay is considerably slower for new players to understand the flow and timing to hit. No lifebar will be issued and playing Easy mode will not unlock Expert mode.
 
@@ -329,10 +329,10 @@ In **Stream Mode**, the player is given three lifebars and the player starts wit
 
 In **Expert Mode, a single full lifebar is used instead**.
 
-The following fills the lifebar
+The following fills the lifebar:
 
-- Completing spinners and Hold Bubbles.
-- Hitting an osu!, gold good!, green good!, 300, or 100, 
+- Completing spinners and hold circles.
+- Hitting an osu!, gold good!, green good!, 300, or 100,
   - For hit circles, better judgements fill the lifebar more. The last hit circle in a colour combo awards more life.
   - For sliders, the lifebar is filled according to how many parts were completed, once the slider has been completed.
 
@@ -341,7 +341,7 @@ The following drains the lifebar:
 - Receiving a 50.
 - Missing any hit object or slider.
 - Not staying within a slider's follow circle.
-- Not holding a Hold Bubble until it explodes.
+- Not holding a hold circle until it explodes.
 - Not spinning a spinner.
 - Not completing a spinner with "Clear" message.
 

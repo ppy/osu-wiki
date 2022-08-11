@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_since: 1834ccd496bf810403e12761b11dbf6ed360f82e
-outdated_translation: true
 ---
 
 <div class="wiki-main-page__blurb">
@@ -52,7 +50,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 组件：[AiMod](/wiki/Client/Beatmap_editor/AiMod) • [节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [间距锁定 (DS)](/wiki/Client/Beatmap_editor/Distance_snap) • [编辑器菜单](/wiki/Client/Beatmap_editor/Menu) • [故事板负载](/wiki/Client/Beatmap_editor/SB_Load) • [编辑器时间轴](/wiki/Client/Beatmap_editor/Timelines)
 
-活动：[作图](/wiki/Beatmapping) • [排列](/wiki/Mapping_techniques) • [故事板](/wiki/Storyboard#storyboarding) • [皮肤](/wiki/Skinning)
+活动：[作图](/wiki/Beatmapping) • [排列](/wiki/Mapping_techniques) • [故事板](/wiki/Storyboard) • [皮肤](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -74,7 +72,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [规章制度](/wiki/Rules) • [贡献者公约](/wiki/Contributor_Code_of_Conduct) • [行为准则：摸图和作图](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
-媒体内容规范：[内容使用规范](/wiki/Rules/Content_Usage_Guidelines) • [少儿不宜内容](/wiki/Rules/Explicit_Content) • [歌曲内容规范](/wiki/Rules/Song_Content_Rules) • [视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)
+媒体内容规范：[内容使用规范](/wiki/Rules/Content_Usage_Guidelines) • [内容投票流程](/wiki/Rules/Content_Voting_Process) • [少儿不宜内容](/wiki/Rules/Explicit_Content) • [歌曲内容规范](/wiki/Rules/Song_Content_Rules) • [视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)
 
 [法律页面](/wiki/Legal): [服务条款](/wiki/Legal/Terms) • [隐私政策](/wiki/Legal/Privacy) • [版权政策 (DMCA)](/wiki/Legal/Copyright) • [歌曲许可](/wiki/Legal/Music_licensing)
 
@@ -131,7 +129,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 就和这个页面一样，osu! wiki 的一切都由志愿者编写并维护。提交建议、报告问题、撰写新文章均在 [osu-wiki 的 GitHub 仓库](https://github.com/ppy/osu-wiki)进行。
 
-[osu! 的历史](/wiki/History_of_osu!) • [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki) • [作图与摸图的发展历程](/wiki/Mapping_and_Modding_Timeline) • [愚人节玩笑](/wiki/History_of_osu!/April_Fools)
+[osu! 的历史](/wiki/History_of_osu!) • [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki) • [作图与摸图的发展历程](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [愚人节玩笑](/wiki/History_of_osu!/April_Fools)
 
 [网站导航](/wiki/Sitemap) • [wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide) • [文章风格规范](/wiki/Article_styling_criteria) • [新闻风格规范](/wiki/News_styling_criteria)
 
