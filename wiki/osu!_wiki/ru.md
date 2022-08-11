@@ -23,7 +23,7 @@
 
 ## Модель
 
-osu! вики построена на понятии доступности: изменения и переводы поощрены и могут быть сделаны любым участником обладающим возможностью и знаниями. Исходники статей хранятся в [репозитории GitHub]() и обновляются участниками, [используя pull request'ы](/wiki/osu!_wiki/Contribution_guide), который потом просмотрены и объеденины [администратором вики](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
+osu! вики построена на понятии доступности: изменения и переводы поощрены и могут быть сделаны любым участником, обладающим возможностью и знаниями. Исходники статей хранятся в [репозитории GitHub]() и обновляются участниками, [используя pull request'ы](/wiki/osu!_wiki/Contribution_guide), который потом просмотрены и объеденины [администратором вики](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
 
 Статьи форматированы использую [Markdown со вкусом GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). В дополнение, веб-сайт реализует собственные возможности важные для вики в целом, такие как перенаправления или улучшенное форматирование.<!-- TODO: front matter??? --><!-- TODO: article on custom features of the wiki? it could help us ease the ASC a bit as well -->
 
