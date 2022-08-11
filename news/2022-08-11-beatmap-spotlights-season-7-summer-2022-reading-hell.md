@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights Season 7: Summer 2022 - Reading Hell"
-date: 2022-08-09 19:00:00 +0000
+date: 2022-08-11 18:00:00 +0000
 ---
 
 Spotlights rivals, assemble! **Summer Season 2022** is here. Enjoy your nystagmus with brand new theme of *reading hell* betamps!
@@ -32,7 +32,7 @@ Thank you all for the votes casted for your favourite beatmaps and enjoy the res
 
 ### osu!
 
-![](/wiki/shared/news/2022-08-09-beatmap-spotlights-season-7-summer-2022-reading-hell/1257525.jpg)
+![](/wiki/shared/news/2022-08-11-beatmap-spotlights-season-7-summer-2022-reading-hell/1257525.jpg)
 
 **[Laur - Nostalgic Blood of the Strife [VINXIS' EXHAUST]](https://osu.ppy.sh/beatmapsets/1257525#osu/3036753)**, mapped by [VINXIS](https://osu.ppy.sh/users/4323406)\
 *primarily suggested by [Nowaie](https://osu.ppy.sh/users/5428909)*\
@@ -48,12 +48,12 @@ Be sure to give the beatmap a try, good job VINXIS!
 
 With over **150 votes**, the taiko voting ended up with a three-way tie, therefore we've got no other option than just mentioning and rewarding all three mappers of those! 
 
-![](/wiki/shared/news/2022-08-09-beatmap-spotlights-season-7-summer-2022-reading-hell/1283761.jpg)
+![](/wiki/shared/news/2022-08-11-beatmap-spotlights-season-7-summer-2022-reading-hell/1283761.jpg)
 
 **[AZKi - Fake.Fake.Fake [Xavy's Light Oni]](https://osu.ppy.sh/beatmapsets/1283761#taiko/2723695)**, mapped by [X a v y](https://osu.ppy.sh/users/3738344)\
 *primarily suggested and described by [Hivie](https://osu.ppy.sh/users/14102976)*
 
-![](/wiki/shared/news/2022-08-09-beatmap-spotlights-season-7-summer-2022-reading-hell/1587293.jpg)
+![](/wiki/shared/news/2022-08-11-beatmap-spotlights-season-7-summer-2022-reading-hell/1587293.jpg)
 
 Fake.Fake.Fake, a popular mapset among speed players takes (1/3 of) the spotlight for this season!
 
@@ -68,7 +68,7 @@ A song that most circle clickers may be familiar with but has only recently been
 
 Of course, the map doesn't only have eye-catching background to support the popularity the map has received over the months. All difficulties within the set were tastefully done and mapped cleanly as expected of KyeX, and Muzukashii took the *spotlight* for being an extremely well-done lower difficulty for the song. While other Muzukashii difficulties often struggle from song representation and improvisation issue due to the limiting nature of lower difficulties, this map managed to strike a delicate balance between using improvised triples to bring a lot of fun to the map, while not being too difficult for the player base the difficulty is targeting towards. And of course the song being an absolute banger just makes it all the better.
 
-![](/wiki/shared/news/2022-08-09-beatmap-spotlights-season-7-summer-2022-reading-hell/1506936.jpg)
+![](/wiki/shared/news/2022-08-11-beatmap-spotlights-season-7-summer-2022-reading-hell/1506936.jpg)
 
 **[UNDEAD CORPORATION - Flowering Night Fever Guitar Inst-hen (Greenshell) [Inner Oni]](https://osu.ppy.sh/beatmapsets/1506936#taiko/3217017)**, mapped by [Grenshell](https://osu.ppy.sh/users/8693851)\
 *primarily suggested and described by [Axer](https://osu.ppy.sh/users/7299864)*
@@ -79,7 +79,7 @@ The difficulty of the map is nothing to joke about mind you! Boasting a staggeri
 
 ### osu!catch
 
-![](/wiki/shared/news/2022-08-09-beatmap-spotlights-season-7-summer-2022-reading-hell/1517608.jpg)
+![](/wiki/shared/news/2022-08-11-beatmap-spotlights-season-7-summer-2022-reading-hell/1517608.jpg)
 
 **[Camellia - FM Synthesis Experiment [Glitch]](https://osu.ppy.sh/beatmapsets/1517608#fruits/3106757)**, mapped by [Unlucky_w](https://osu.ppy.sh/users/4820793)\
 *primarily suggested by [SadEgg](https://osu.ppy.sh/users/10278243)*\
@@ -91,7 +91,7 @@ While this is only his second ranked map, it shows a significant mastery of how 
 
 ### osu!mania
 
-![](/wiki/shared/news/2022-08-09-beatmap-spotlights-season-7-summer-2022-reading-hell/400078.jpg)
+![](/wiki/shared/news/2022-08-11-beatmap-spotlights-season-7-summer-2022-reading-hell/400078.jpg)
 
 **[Kurokotei - Galaxy Collapse [[4K] Cataclysmic Hypernova]](https://osu.ppy.sh/beatmapsets/400078#mania/992512)**, mapped by [Mat](https://osu.ppy.sh/users/2668921)\
 *primarily suggested and described by [Crumpey](https://osu.ppy.sh/users/3518705)*
@@ -131,14 +131,14 @@ For the full Spotlights Team members list, check out the [Beatmap Spotlights wik
 
 | Event | Time |
 | :-- | :-- |
-| Season start | Aug 09, 2022 |
-| Playlist lobby: Playlist A | Aug 09 - Aug 23, 2022 |
-| Playlist lobby: Playlist B | Aug 23 - Sep 6, 2022 |
-| Playlist lobby: Playlist C | Sep 6 - Sep 20, 2022 |
-| Playlist lobby: Playlist A | Sep 20 - Sep 27, 2022 |
-| Playlist lobby: Playlist B | Sep 27 - Oct 4, 2022 |
-| Playlist lobby: Playlist C | Oct 4 - Oct 11, 2022 |
-| Season conclusion | Oct 11, 2022 |
+| Season start | Aug 11, 2022 |
+| Playlist lobby: Playlist A | Aug 11 - Aug 25, 2022 |
+| Playlist lobby: Playlist B | Aug 25 - Sep 8, 2022 |
+| Playlist lobby: Playlist C | Sep 8 - Sep 22, 2022 |
+| Playlist lobby: Playlist A | Sep 22 - Sep 29, 2022 |
+| Playlist lobby: Playlist B | Sep 29 - Oct 6, 2022 |
+| Playlist lobby: Playlist C | Oct 6 - Oct 13, 2022 |
+| Season conclusion | Oct 13, 2022 |
 
 The Summer Season 2022 leaderboard will be available over at the [Beatmap Spotlights Summer Season 2022](/wiki/Beatmap_Spotlights/Seasons/2022_Summer) wiki article once the first batch of lobbies conclude in the coming weeks.
 

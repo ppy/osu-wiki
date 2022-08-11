@@ -11,14 +11,14 @@ tags:
 
 | Event | Time |
 | :-- | :-- |
-| Season start | Aug 09, 2022 |
-| Playlist lobby: Playlist A | Aug 09 - Aug 23, 2022 |
-| Playlist lobby: Playlist B | Aug 23 - Sep 6, 2022 |
-| Playlist lobby: Playlist C | Sep 6 - Sep 20, 2022 |
-| Playlist lobby: Playlist A | Sep 20 - Sep 27, 2022 |
-| Playlist lobby: Playlist B | Sep 27 - Oct 4, 2022 |
-| Playlist lobby: Playlist C | Oct 4 - Oct 11, 2022 |
-| Season conclusion | Oct 11, 2022 |
+| Season start | Aug 11, 2022 |
+| Playlist lobby: Playlist A | Aug 11 - Aug 25, 2022 |
+| Playlist lobby: Playlist B | Aug 25 - Sep 8, 2022 |
+| Playlist lobby: Playlist C | Sep 8 - Sep 22, 2022 |
+| Playlist lobby: Playlist A | Sep 22 - Sep 29, 2022 |
+| Playlist lobby: Playlist B | Sep 29 - Oct 6, 2022 |
+| Playlist lobby: Playlist C | Oct 6 - Oct 13, 2022 |
+| Season conclusion | Oct 13, 2022 |
 
 ## Weekly multiplayer lobbies
 
