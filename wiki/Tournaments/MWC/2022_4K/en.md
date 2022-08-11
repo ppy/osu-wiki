@@ -111,10 +111,10 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
 | Japan ::{ flag=JP }:: | ::{ flag=FI }:: Finland | [Aug 13 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T100000&p1=1440&p2=248&p3=101) |
-| Malaysia ::{ flag=MY }:: | ::{ flag=CZ }:: Czech Republic | [Aug 13 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T110000&p1=1440&p2=122&p3=204) |
-| Indonesia ::{ flag=ID }:: | ::{ flag=IT }:: Italy | [Aug 13 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T120000&p1=1440&p2=108&p3=215) |
+| Singapore ::{ flag=SG }:: | ::{ flag=PL }:: Poland | [Aug 13 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T100000&p1=1440&p2=236&p3=262) |
 | Thailand ::{ flag=TH }:: | ::{ flag=SE }:: Sweden | [Aug 13 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T130000&p1=1440&p2=28&p3=239) |
-| France ::{ flag=FR }:: | ::{ flag=DE }:: Germany | [Aug 13 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T150000&p1=1440&p2=195&p3=37) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=IT }:: Italy | [Aug 13 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T140000&p1=1440&p2=108&p3=215) |
+| Peru ::{ flag=PE }:: | ::{ flag=AR }:: Argentina | [Aug 13 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T140000&p1=1440&p2=131&p3=51) |
 | Brazil ::{ flag=BR }:: | ::{ flag=NO }:: Norway | [Aug 13 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T160000&p1=1440&p2=45&p3=187) |
 | Spain ::{ flag=ES }:: | ::{ flag=CL }:: Chile | [Aug 13 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T170000&p1=1440&p2=141&p3=232) |
 
@@ -122,15 +122,15 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Aug 14 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T010000&p1=1440&p2=263&p3=57) |
+| United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Aug 14 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T020000&p1=1440&p2=263&p3=57) |
 | Philippines ::{ flag=PH }:: | ::{ flag=NZ }:: New Zealand | [Aug 14 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T070000&p1=1440&p2=145&p3=264) |
 | South Korea ::{ flag=KR }:: | ::{ flag=TW }:: Taiwan | [Aug 14 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T090000&p1=1440&p2=235&p3=241) |
-| Vietnam ::{ flag=VN }:: | ::{ flag=RU }:: Russian Federation | [Aug 14 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T100000&p1=1440&p2=95&p3=166) |
-| Singapore ::{ flag=SG }:: | ::{ flag=PL }:: Poland | [Aug 14 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T110000&p1=1440&p2=236&p3=262) |
+| France ::{ flag=FR }:: | ::{ flag=DE }:: Germany | [Aug 14 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T110000&p1=1440&p2=195&p3=37) |
 | China ::{ flag=CN }:: | ::{ flag=NL }:: Netherlands | [Aug 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T120000&p1=1440&p2=33&p3=16) |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=CA }:: Canada | [Aug 14 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T140000&p1=1440&p2=102&p3=188) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=CZ }:: Czech Republic | [Aug 14 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T130000&p1=1440&p2=122&p3=204) |
+| Vietnam ::{ flag=VN }:: | ::{ flag=RU }:: Russian Federation | [Aug 14 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T140000&p1=1440&p2=95&p3=166) |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=RO }:: Romania | [Aug 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T150000&p1=1440&p2=136&p3=49) |
-| Peru ::{ flag=PE }:: | ::{ flag=AR }:: Argentina | [Aug 14 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T180000&p1=1440&p2=131&p3=51) |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=CA }:: Canada | [Aug 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T150000&p1=1440&p2=102&p3=188) |
 
 ## Mappools
 
