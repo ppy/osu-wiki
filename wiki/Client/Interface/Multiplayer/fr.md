@@ -111,7 +111,7 @@ Un joueur peut avoir quatres couleurs différentes dans cette liste, qui ont dif
 | **Rouge (n'a pas la map)** | Le joueur n'a pas la beatmap, indiqué par un indicateur `[n'a pas la map]` jusqu'à ce qu'il ait téléchargé la beatmap. |
 | **Blanc (pas prêt)** | Le joueur a la beatmap mais n'est pas encore prêt. Les [modificateurs de jeu](/wiki/Game_modifier) peuvent être modifiés dans cet état. |
 | **Vert (prêt)** | Le joueur est prêt. Les modificateurs de jeu ne peuvent pas être modifiés dans cet état. L'hôte sera capable de démarrer le jeu après avoir cliqué sur "prêt", et tous les joueurs vont démarrer la partie. |
-| **Bleu clair (en jeu)** | Le joueur est en train de jouer, l'indicateur `[en jeu]` est affiché jusqu'à la fin de la partie. 
+| **Bleu clair (en jeu)** | Le joueur est en train de jouer, l'indicateur `[en jeu]` est affiché jusqu'à la fin de la partie. |
 
 ### Paramètres de la salle
 
@@ -181,7 +181,7 @@ There are four different ways a match can be played:
 | `Head-to-head` | s'affronter les uns contre les autres dans le but d'atteindre le première place du classement de la partie. |
 | `Team VS` | s'affronter les un contre les autres en équipe (Rouge et Bleu) pour remporter la partie. |
 | `Tag co-op` | (mode osu! uniquement, non classé) | Faites équipe dans le but de compléter la beatmap un combo un la fois, tous ensemble. |
-| `Tag-team VS` (mode osu! uniquement, non classé) |La même chose que `Tag co-op`, mais avec deux équipes s'affrontant l'une contre l'autre. |
+| `Tag-team VS` | (mode osu! uniquement, non classé) |La même chose que `Tag co-op`, mais avec deux équipes s'affrontant l'une contre l'autre. |
 
 ##### Couleur de tag
 
@@ -210,7 +210,7 @@ Le bouton bleu est utilisé pour controller l'état de disponibilité du joueur 
 
 | Titre | Description |
 | :-: | :-- |
-| `Je suis prêt !` | Marque le joueur comme étant prêt (vert dans la liste de joueur). Le bouton changera pour `Je ne suis pas prêt`. Pour l'hôte de la salle, il changera pour `Start Game!` et `Force Start Game!` s'il y a des joueurs dans le lobby. |
+| `Je suis prêt !` | Marque le joueur comme étant prêt (vert dans la liste de joueur). Le bouton changera pour `Je ne suis pas prêt`. Pour l'hôte de la salle, il changera pour `Start Game!` et `Force Start Game!` | s'il y a des joueurs dans le lobby. |
 | `Je ne suis pas prêt` | Marque le joueur comme n'étant pas prêt (blanc dans la liste de joueur). Le bouton changera en `Je suis prêt !`. |
 | `Start Game!` | Commence la partie. Ce bouton apparaît uniquement pour l'hôte du match quand tous les joueurs sont prêt. |
 | `Force Start Game! ({ready}/{total})` | Démarre la partie même si tous les joueurs ne sont pas prêt. Ce bouton apparaît uniquement pour l'hôte de la partie quand quelques joueurs sont prêts. Le nombre de joueurs prêt comparé à celui du nombre total de joueurs est montré entre parenthèses. |
