@@ -170,11 +170,11 @@ Cette section affichera les [modes de jeu](/wiki/Game_modifier) utilisés pour c
 
 L'hôte peut activer `Mods Libres` pour permettre aux joueurs de choisir librement toute combinaisont de mod, excepté ceux qui changent la vitesse de gameplay tel que ([Double Time (DT)](/wiki/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Game_modifier/Nightcore) et [Half Time (HT)](/wiki/Game_modifier/Half_Time)).
 
-#### Team mode {#team-mode-match-setup}
+#### Mode par équipe {#team-mode-match-setup}
 
-*For more information about team modes, see the [gameplay section on team modes](#team-mode-gameplay).*
+*Pour plus d'information sur le mode par équipe, voir la [section gameplay sur le mode par équipe](#team-mode-gameplay).*
 
-There are four different ways a match can be played:
+Il y a 4 façons différents de jouer une partie :
 
 | Type de partie | Description |
 | :-- | :-- |
