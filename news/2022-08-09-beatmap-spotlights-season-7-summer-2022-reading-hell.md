@@ -32,9 +32,9 @@ Thank you all for the votes casted for your favourite beatmaps and enjoy the res
 
 ### osu!
 
-![](/wiki/shared/news/2022-08-09-beatmap-spotlights-season-7-summer-2022-reading-hell/1610231.jpg)
+![](/wiki/shared/news/2022-08-09-beatmap-spotlights-season-7-summer-2022-reading-hell/1257525.jpg)
 
-**[Laur - Nostalgic Blood of the Strife [VINXIS' EXHAUST]](https://osu.ppy.sh/beatmapsets/1610231#osu/3287767)**, mapped by [VINXIS](https://osu.ppy.sh/users/4323406)\
+**[Laur - Nostalgic Blood of the Strife [VINXIS' EXHAUST]](https://osu.ppy.sh/beatmapsets/1257525#osu/3036753)**, mapped by [VINXIS](https://osu.ppy.sh/users/4323406)\
 *primarily suggested by [Nowaie](https://osu.ppy.sh/users/5428909)*\
 *described by [Venix](https://osu.ppy.sh/users/5999631)*
 
