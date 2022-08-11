@@ -4,31 +4,31 @@ title: "Beatmap Spotlights Season 7: Summer 2022 - Reading Hell"
 date: 2022-08-11 23:00:00 +0000
 ---
 
-Spotlights rivals, assemble! **Summer Season 2022** is here. Enjoy your nystagmus with brand new theme of *reading hell* betamps!
+Spotlights rivals, assemble, for the summer season is finally is here! Experience a new form of hellish challenge with our latest reading-oriented theme and compete for fun and glory!
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-Those who participated in the playlist reveal livestream might already know that the theme for this season is *reading hell*, meaning basically hard to read maps of any sort. If you're one of the enthusiasts of having an insane amount of objects in the screen, we've got you covered this season!
+Those who watched the playlist reveal livestream on Twitch will be no stranger to this season's theme of *reading hell*, which basically means hard to read maps of any sort. If you're an enthusiast of having an utterly insane number of things on your screen at once, we've got you covered this season!
 
-Not to make the challenge overly easy to omit, we've also decided to disable Hard Rock freemod in this playlist, sorry but you can't run away from ar7!
+To keep things competitive, we've also decided to disable the Hard Rock freemod selection from this season's playlists. No cheesing AR7 for you! Time to get good.
 
-This season, we haven't really got any technical changes to cover, but you may expect some in the futurecoming seasons. We will also announce the results of the recent Beatmap of the Season community voting, so make sure to read on below if you're interested!
+If you just can't wait to try out the new playlists, **the Beatmap Spotlights lobbies are now open for play on the osu!(lazer) client**, so go get involved and start setting scores.
 
-If you just can't wait to try out the new maps, **the Beatmap Spotlights lobbies are now open for play on the osu!(lazer) client**. If you've got no idea how to get started with things, read on below!
+If you're wondering what the heck the Beatmap Spotlights are and how to get involved in them, simply read on below:
 
 ## How do I participate in the Beatmap Spotlights?
 
 To participate in the Beatmap Spotlights, download the latest version of the lazer client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
 
-Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to Spotlights only in the top right corner.
+Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to show only the Spotlights playlists in the top right corner. Changing gamemodes is as simple as clicking one of the four mode icons at the top middle-left of your screen - it'll be whatever game mode you played last by default.
 
-## Beatmap of The Season - results
+## Beatmap of the Season: Results
 
-With this season launch, we're going back to the roots, reviewing the Beatmap of The Season competition. This time both [Spotlights Curators](/wiki/Beatmap_Spotlights#curators) and Spotlights League players got to vote on the favourite beatmap from the Winter Season 2022 beatmap pool in each game mode.
+With this season launch, we're going back to basics with how we review the Beatmap of The Season competition. This time, both the [Spotlights Curators](/wiki/Beatmap_Spotlights#curators) and the Spotlights League players got to vote on their favourite beatmap from the Winter Season 2022 beatmap pool in each game mode.
 
 The creator of each winning entry will be awarded with **3 months of the osu!supporter tag** for their hard efforts.
 
-Thank you all for the votes casted for your favourite beatmaps and enjoy the results below!
+A big thank you to everyone who voted!
 
 ### osu!
 
@@ -96,11 +96,11 @@ While this is only his second ranked map, it shows a significant mastery of how 
 **[Kurokotei - Galaxy Collapse [[4K] Cataclysmic Hypernova]](https://osu.ppy.sh/beatmapsets/400078#mania/992512)**, mapped by [Mat](https://osu.ppy.sh/users/2668921)\
 *primarily suggested and described by [Crumpey](https://osu.ppy.sh/users/3518705)*
 
-A Map that I think secretly we all knew would be the highest voted map, and rightfully so! 
+This is a map that I think secretly we all knew would be the highest voted one, and rightfully so! 
 
 Galaxy Collapse came at a time where there weren't many high star rated 4k ranked maps, so it quickly became a baseline for all up and coming players to pass and prove their worth in the mania scene. 
 
-Alongside being a grueling 6:42 minute long marathon which tests your stamina, the patterns vary from rather simple streams to fast chord-jacks, not to mention the final kiai which changes the bpm to an insane 320 that challenges even those who are skilled enough to be able to play it proficiently. 
+Along with being a grueling 6:42 minute long marathon which tests your stamina, the patterns vary from rather simple streams to fast chord-jacks, not to mention the final kiai which changes the bpm to an insane 320 that challenges even those who are skilled enough to be able to play it proficiently. 
 
 I personally would like to congratulate Mat for his effort in creating such an iconic map that will be remembered in mania's history and hope to see more history-defining maps from him in the future!
 
