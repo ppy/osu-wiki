@@ -13,4 +13,4 @@ tags:
 - [Spring 2021](2021_Spring)
 - [Winter 2022](2022_Winter)
 - [Spring 2022](2022_Spring)
-- [Summer_2022](2022_Summer)
+- [Summer 2022](2022_Summer)
