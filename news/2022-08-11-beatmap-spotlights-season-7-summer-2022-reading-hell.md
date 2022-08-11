@@ -53,13 +53,13 @@ With over **150 votes**, the taiko voting ended up with a three-way tie, therefo
 **[AZKi - Fake.Fake.Fake [Xavy's Light Oni]](https://osu.ppy.sh/beatmapsets/1283761#taiko/2723695)**, mapped by [X a v y](https://osu.ppy.sh/users/3738344)\
 *primarily suggested and described by [Hivie](https://osu.ppy.sh/users/14102976)*
 
-![](/wiki/shared/news/2022-08-11-beatmap-spotlights-season-7-summer-2022-reading-hell/1587293.jpg)
-
 Fake.Fake.Fake, a popular mapset among speed players takes (1/3 of) the spotlight for this season!
 
 The featured difficulty is basically the perfect introduction to high BPM for players who are still on the way of grasping the shenanigans of multi-color 1/4 patterning, it mainly uses simple and intuitive patterns, so players can fully focus on its main challenge: conquering 255BPM
 
 Don't fret over the other difficulties tho, each one provides a unique experience for every kind of difficulty, so whether you're still trying to separate dons from kats, or you've effectively conquered the drums, there's certainly a treat for you here!
+
+![](/wiki/shared/news/2022-08-11-beatmap-spotlights-season-7-summer-2022-reading-hell/1587293.jpg)
 
 **[THE ORAL CIGARETTES - 5150 [Muzukashii]](https://osu.ppy.sh/beatmapsets/1587293#taiko/3268021)**, mapped by [KyeX](https://osu.ppy.sh/users/15118934)\
 *primarily suggested and described by [[Zeth]](https://osu.ppy.sh/users/14102976)*
