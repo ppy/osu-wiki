@@ -123,8 +123,8 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
 | United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Aug 14 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T020000&p1=1440&p2=263&p3=57) |
-| Philippines ::{ flag=PH }:: | ::{ flag=NZ }:: New Zealand | [Aug 14 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T070000&p1=1440&p2=145&p3=264) |
 | South Korea ::{ flag=KR }:: | ::{ flag=TW }:: Taiwan | [Aug 14 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T090000&p1=1440&p2=235&p3=241) |
+| Philippines ::{ flag=PH }:: | ::{ flag=NZ }:: New Zealand | [Aug 14 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T100000&p1=1440&p2=145&p3=264) |
 | France ::{ flag=FR }:: | ::{ flag=DE }:: Germany | [Aug 14 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T110000&p1=1440&p2=195&p3=37) |
 | China ::{ flag=CN }:: | ::{ flag=NL }:: Netherlands | [Aug 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T120000&p1=1440&p2=33&p3=16) |
 | Malaysia ::{ flag=MY }:: | ::{ flag=CZ }:: Czech Republic | [Aug 14 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T130000&p1=1440&p2=122&p3=204) |
