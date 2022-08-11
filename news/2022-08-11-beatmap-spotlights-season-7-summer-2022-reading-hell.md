@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights Season 7: Summer 2022 - Reading Hell"
-date: 2022-08-11 18:00:00 +0000
+date: 2022-08-11 23:00:00 +0000
 ---
 
 Spotlights rivals, assemble! **Summer Season 2022** is here. Enjoy your nystagmus with brand new theme of *reading hell* betamps!
