@@ -174,7 +174,7 @@ L'hôte peut activer `Mods Libres` pour permettre aux joueurs de choisir libreme
 
 *Pour plus d'information sur le mode par équipe, voir la [section gameplay sur le mode par équipe](#team-mode-gameplay).*
 
-Il y a 4 façons différents de jouer une partie :
+Il y a 4 façons différentes de jouer une partie :
 
 | Type de partie | Description |
 | :-- | :-- |
