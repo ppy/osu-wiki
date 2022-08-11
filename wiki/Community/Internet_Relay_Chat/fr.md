@@ -1,3 +1,8 @@
+---
+outdated_since: cf0ddf848ad418ee3a61282b7e83aa437082021d
+outdated_translation: true
+---
+
 # Internet Relay Chat
 
 *Pour plus d'informations, consultez : [Internet Relay Chat (Wikipédia)](https://fr.wikipedia.org/wiki/Internet_Relay_Chat)*
