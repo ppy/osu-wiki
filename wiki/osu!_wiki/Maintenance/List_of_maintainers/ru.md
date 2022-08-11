@@ -1,4 +1,4 @@
-# Список администраторов osu! вики
+# Список администраторов osu! wiki
 
 Администраторы постоянно следят за [списком проблем](https://github.com/ppy/osu-wiki/issues) и проверяю pull request'ы. В отличие от других участников, они могут редактировать pull request'ы и сливать их с `master` веткой репозитория, делая изменения публичными.   
 
@@ -39,7 +39,7 @@ Curators, editors, and approvers of all [news posts](https://osu.ppy.sh/home/new
 
 ## Бывшие администраторы
 
-Список включает администраторов MediaWiki, которую раньше osu! вики [использовала](/wiki/History_of_osu!/osu!_wiki):
+Список включает администраторов MediaWiki, которую раньше osu! wiki [использовала](/wiki/History_of_osu!/osu!_wiki):
 
 - ::{ flag=RU }:: [\[Dellirium\]](https://osu.ppy.sh/users/519032)
 - ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
