@@ -46,7 +46,7 @@ Be sure to give the beatmap a try, good job VINXIS!
 
 ### osu!taiko
 
-With over **150 votes**, the taiko voting ended up with a three-way tie, therefore we've got no other option than just mentioning and rewarding all three mappers of those! 
+With over **150 votes**, the taiko voting ended up with a three-way tie, therefore we've got no other option than just mentioning and rewarding all three mappers of those!
 
 ![](/wiki/shared/news/2022-08-11-beatmap-spotlights-season-7-summer-2022-reading-hell/1283761.jpg)
 
@@ -70,10 +70,10 @@ Of course, the map doesn't only have eye-catching background to support the popu
 
 ![](/wiki/shared/news/2022-08-11-beatmap-spotlights-season-7-summer-2022-reading-hell/1506936.jpg)
 
-**[UNDEAD CORPORATION - Flowering Night Fever Guitar Inst-hen (Greenshell) [Inner Oni]](https://osu.ppy.sh/beatmapsets/1506936#taiko/3217017)**, mapped by [Grenshell](https://osu.ppy.sh/users/8693851)\
+**[UNDEAD CORPORATION - Flowering Night Fever Guitar Inst-hen [Inner Oni]](https://osu.ppy.sh/beatmapsets/1506936#taiko/3217017)**, mapped by [Greenshell](https://osu.ppy.sh/users/8693851)\
 *primarily suggested and described by [Axer](https://osu.ppy.sh/users/7299864)*
 
-osu!taiko is no stranger to UNDEAD CORPORATION, and neither is Greenshell to metal mapping! Arriving at the demand of the player's choice we have his rendition of Flowering Night Fever! Namely, his Inner Oni difficulty. 
+osu!taiko is no stranger to UNDEAD CORPORATION, and neither is Greenshell to metal mapping! Arriving at the demand of the player's choice we have his rendition of Flowering Night Fever! Namely, his Inner Oni difficulty.
 
 The difficulty of the map is nothing to joke about mind you! Boasting a staggering 290BPM, stacked to the brim with 1/4 bursts, sprinkling a few 1/3 patterns during the solo, this is simply THE map to practice your speed limit on, or maybe just to tear what's left of your fingers away. One of the rare scenarios where up-and-coming players and well-seasoned players can meet, agreeing that inherently of rank this map is challenging nonetheless.
 
@@ -96,11 +96,11 @@ While this is only his second ranked map, it shows a significant mastery of how 
 **[Kurokotei - Galaxy Collapse [[4K] Cataclysmic Hypernova]](https://osu.ppy.sh/beatmapsets/400078#mania/992512)**, mapped by [Mat](https://osu.ppy.sh/users/2668921)\
 *primarily suggested and described by [Crumpey](https://osu.ppy.sh/users/3518705)*
 
-This is a map that I think secretly we all knew would be the highest voted one, and rightfully so! 
+This is a map that I think secretly we all knew would be the highest voted one, and rightfully so!
 
-Galaxy Collapse came at a time where there weren't many high star rated 4k ranked maps, so it quickly became a baseline for all up and coming players to pass and prove their worth in the mania scene. 
+Galaxy Collapse came at a time where there weren't many high star rated 4k ranked maps, so it quickly became a baseline for all up and coming players to pass and prove their worth in the mania scene.
 
-Along with being a grueling 6:42 minute long marathon which tests your stamina, the patterns vary from rather simple streams to fast chord-jacks, not to mention the final kiai which changes the bpm to an insane 320 that challenges even those who are skilled enough to be able to play it proficiently. 
+Along with being a grueling 6:42 minute long marathon which tests your stamina, the patterns vary from rather simple streams to fast chord-jacks, not to mention the final kiai which changes the bpm to an insane 320 that challenges even those who are skilled enough to be able to play it proficiently.
 
 I personally would like to congratulate Mat for his effort in creating such an iconic map that will be remembered in mania's history and hope to see more history-defining maps from him in the future!
 
