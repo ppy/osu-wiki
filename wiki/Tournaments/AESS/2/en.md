@@ -6,9 +6,9 @@ tags:
 
 # Aetherian's Summer Singles 2
 
-![AESS2 logo](img/mainbanner.png)
+![AESS2 logo](img/banner.png)
 
-The **Aetherian's Summer Singles 2** (***AESS2***) was a 1v1 double-elimination tournament hosted by ![](https://s.ppy.sh/images/flags/fi.gif) [Aetherian](https://osu.ppy.sh/users/6263040). It was the second instalment of the Aetherian's Summer Singles.
+The **Aetherian's Summer Singles 2** (***AESS2***) was a 1v1 double-elimination tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). It was the second instalment of the Aetherian's Summer Singles.
 
 ## Tournament schedule
 
@@ -27,12 +27,12 @@ The **Aetherian's Summer Singles 2** (***AESS2***) was a 1v1 double-elimination 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!support, profile banner, badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 9 months of osu!support, profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 months of osu!support, profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter, profile banner, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 9 months of osu!supporter, profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 months of osu!supporter, profile banner |
 | *4th place* | 4 months of osu!supporter |
-| *5th-6th place* | 2 months of osu!supporter |
-| *7th-8th place* | 1 month of osu!supporter |
+| *5th–6th place* | 2 months of osu!supporter |
+| *7th–8th place* | 1 month of osu!supporter |
 
 ![badge](img/badge.png "AESS2 winner badge")
 
@@ -42,15 +42,15 @@ The Aetherian's Summer Singles 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![](https://s.ppy.sh/images/flags/fi.gif) [Aetherian](https://osu.ppy.sh/users/6263040) |
-| Moderator | ![](https://s.ppy.sh/images/flags/us.gif) [Varler](https://osu.ppy.sh/users/2504750), ![](https://s.ppy.sh/images/flags/us.gif) [Sohlayce](https://osu.ppy.sh/users/17649736) |
-| Mappool selector | ![](https://s.ppy.sh/images/flags/fi.gif) [Pickxarro](https://osu.ppy.sh/users/3786620), ![](https://s.ppy.sh/images/flags/fi.gif) [Amasetic](https://osu.ppy.sh/users/11375251), ![](https://s.ppy.sh/images/flags/pl.gif) [Tutka](https://osu.ppy.sh/users/8170022) |
-| Mappool Tester | ![](https://s.ppy.sh/images/flags/id.gif) [Crezz](https://osu.ppy.sh/users/7108275), ![](https://s.ppy.sh/images/flags/kr.gif) [Nopekjk](https://osu.ppy.sh/users/4585186), ![](https://s.ppy.sh/images/flags/no.gif) [Naigo](https://osu.ppy.sh/users/10640486), ![](https://s.ppy.sh/images/flags/ua.gif) [dench](https://osu.ppy.sh/users/10073635), ![](https://s.ppy.sh/images/flags/pl.gif) [Mastasz](https://osu.ppy.sh/users/1876565), ![](https://s.ppy.sh/images/flags/fi.gif) [Eliaasi](https://osu.ppy.sh/users/9690571), ![](https://s.ppy.sh/images/flags/my.gif) [Zeph2003](https://osu.ppy.sh/users/10343292), ![](https://s.ppy.sh/images/flags/se.gif) [scylla](https://osu.ppy.sh/users/9405745), ![](https://s.ppy.sh/images/flags/fi.gif) [Haadez](https://osu.ppy.sh/users/8925266), ![](https://s.ppy.sh/images/flags/de.gif) [criller](https://osu.ppy.sh/users/8116659), ![](https://s.ppy.sh/images/flags/ru.gif) [gamer228666](https://osu.ppy.sh/users/5981005), ![](https://s.ppy.sh/images/flags/pl.gif) [HEDAYO](https://osu.ppy.sh/users/9323821) |
-| Custom Mapper | ![](https://s.ppy.sh/images/flags/au.gif) [VP757](https://osu.ppy.sh/users/9451871), ![](https://s.ppy.sh/images/flags/us.gif) [Kurashina Asuka](https://osu.ppy.sh/users/7476493) |
-| Streamer | ![](https://s.ppy.sh/images/flags/ca.gif) [Drou](https://osu.ppy.sh/users/415932), ![](https://s.ppy.sh/images/flags/de.gif) [Dragoncurve](https://osu.ppy.sh/users/6675367) |
-| Commentator | ![](https://s.ppy.sh/images/flags/ca.gif) [Drou](https://osu.ppy.sh/users/415932), ![](https://s.ppy.sh/images/flags/us.gif) [-Koda](https://osu.ppy.sh/users/12260184), ![](https://s.ppy.sh/images/flags/fi.gif) [Death Grips](https://osu.ppy.sh/users/10632187), ![](https://s.ppy.sh/images/flags/fi.gif) [Nev-](https://osu.ppy.sh/users/11836334) |
-| Graphics | ![](https://s.ppy.sh/images/flags/ca.gif) [Zyoulou](https://osu.ppy.sh/users/8668722), ![](https://s.ppy.sh/images/flags/fi.gif) [shdewz](https://osu.ppy.sh/users/10000899) |
-| Referee | ![](https://s.ppy.sh/images/flags/fi.gif) [Eliaasi](https://osu.ppy.sh/users/9690571), ![](https://s.ppy.sh/images/flags/ca.gif) [dinonesie](https://osu.ppy.sh/users/18315188), ![](https://s.ppy.sh/images/flags/ph.gif) [-Pekora-](https://osu.ppy.sh/users/17959882), ![](https://s.ppy.sh/images/flags/th.gif) [- Mirage -](https://osu.ppy.sh/users/2298513), ![](https://s.ppy.sh/images/flags/es.gif) [Bubble-](https://osu.ppy.sh/users/10559526), ![](https://s.ppy.sh/images/flags/vn.gif) [namiee](https://osu.ppy.sh/users/14279837), ![](https://s.ppy.sh/images/flags/za.gif) KaedeSnowyyy, ![](https://s.ppy.sh/images/flags/de.gif) Tayuno, ![](https://s.ppy.sh/images/flags/ca.gif) [atokymat](https://osu.ppy.sh/users/11465676), ![](https://s.ppy.sh/images/flags/us.gif) [ROB_](https://osu.ppy.sh/users/12455868) |
+| Host | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040) |
+| Moderator | ::{ flag=US }:: [Varler](https://osu.ppy.sh/users/2504750), ::{ flag=US }:: [Sohlayce](https://osu.ppy.sh/users/17649736) |
+| Mappool selector | ::{ flag=FI }:: [Pickxarro](https://osu.ppy.sh/users/3786620), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), []::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022) |
+| Mappool tester | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186), ::{ flag=NO }:: [Naigo](https://osu.ppy.sh/users/10640486), ::{ flag=UA }:: [dench](https://osu.ppy.sh/users/10073635), ::{ flag=PL }:: [Mastasz](https://osu.ppy.sh/users/1876565), ::{ flag=FI }:: [Eliaasi](https://osu.ppy.sh/users/9690571), ::{ flag=MY }:: [Zeph2003](https://osu.ppy.sh/users/10343292), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=FI }:: [Haadez](https://osu.ppy.sh/users/8925266), ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659), ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005), ::{ flag=PL }:: [HEDAYO](https://osu.ppy.sh/users/9323821) |
+| Custom mapper | ::{ flag=AU }:: [VP757](https://osu.ppy.sh/users/9451871), ::{ flag=US }:: [Kurashina Asuka](https://osu.ppy.sh/users/7476493) |
+| Streamer | ::{ flag=CA }:: [Drou](https://osu.ppy.sh/users/415932), ::{ flag=DE }:: [Dragoncurve](https://osu.ppy.sh/users/6675367) |
+| Commentator | ::{ flag=CA }:: [Drou](https://osu.ppy.sh/users/415932), ::{ flag=US }:: [-Koda](https://osu.ppy.sh/users/12260184), ::{ flag=FI }:: [Death Grips](https://osu.ppy.sh/users/10632187), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334) |
+| Graphic designer | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
+| Referee | ::{ flag=FI }:: [Eliaasi](https://osu.ppy.sh/users/9690571), ::{ flag=CA }:: [dinonesie](https://osu.ppy.sh/users/18315188), ::{ flag=PH }:: [-Pekora-](https://osu.ppy.sh/users/17959882), ::{ flag=TH }:: [- Mirage -](https://osu.ppy.sh/users/2298513), ::{ flag=ES }:: [Bubble-](https://osu.ppy.sh/users/10559526), ::{ flag=VN }:: [namiee](https://osu.ppy.sh/users/14279837), ::{ flag=ZA }:: KaedeSnowyyy, ::{ flag=DE }:: Tayuno, ::{ flag=CA }:: [atokymat](https://osu.ppy.sh/users/11465676), ::{ flag=US }:: [ROB_](https://osu.ppy.sh/users/12455868) |
 
 ## Links
 
@@ -62,12 +62,12 @@ The Aetherian's Summer Singles 2 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| 1-8 | ![](https://s.ppy.sh/images/flags/hk.gif) [mcy4](https://osu.ppy.sh/users/2165650), ![](https://s.ppy.sh/images/flags/kr.gif) [[Karcher]](https://osu.ppy.sh/users/11443437), ![](https://s.ppy.sh/images/flags/ro.gif) [SatonoDiamond](https://osu.ppy.sh/users/12366071), ![](https://s.ppy.sh/images/flags/us.gif) [Swiq_](https://osu.ppy.sh/users/11269055), ![](https://s.ppy.sh/images/flags/pl.gif) [maliszewski](https://osu.ppy.sh/users/12408961), ![](https://s.ppy.sh/images/flags/us.gif) [WillCookie](https://osu.ppy.sh/users/6404488), ![](https://s.ppy.sh/images/flags/us.gif) [Jacob3](https://osu.ppy.sh/users/13628898), ![](https://s.ppy.sh/images/flags/us.gif) [Jakson](https://osu.ppy.sh/users/8788058) |
-| 9-16 | ![](https://s.ppy.sh/images/flags/us.gif) [Venpris](https://osu.ppy.sh/users/8861593), ![](https://s.ppy.sh/images/flags/us.gif) [-Koda](https://osu.ppy.sh/users/12260184), ![](https://s.ppy.sh/images/flags/de.gif) [rundyyy](https://osu.ppy.sh/users/10917620), ![](https://s.ppy.sh/images/flags/ca.gif) [noncycle](https://osu.ppy.sh/users/12701607), ![](https://s.ppy.sh/images/flags/je.gif) [rudj](https://osu.ppy.sh/users/11592896), ![](https://s.ppy.sh/images/flags/us.gif) [EzChock](https://osu.ppy.sh/users/9276293), ![](https://s.ppy.sh/images/flags/us.gif) [BoshyMan741](https://osu.ppy.sh/users/4830687), ![](https://s.ppy.sh/images/flags/us.gif) [DarkScrap](https://osu.ppy.sh/users/13241562) |
-| 17-24 | ![](https://s.ppy.sh/images/flags/cl.gif) [Danidesu](https://osu.ppy.sh/users/2748187), ![](https://s.ppy.sh/images/flags/il.gif) [Galog](https://osu.ppy.sh/users/7799629), ![](https://s.ppy.sh/images/flags/pl.gif) [gnahus](https://osu.ppy.sh/users/12779141), ![](https://s.ppy.sh/images/flags/nz.gif) [Saiyku](https://osu.ppy.sh/users/13767572), ![](https://s.ppy.sh/images/flags/de.gif) [aahoff](https://osu.ppy.sh/users/11371245), ![](https://s.ppy.sh/images/flags/sg.gif) [200201envenho](https://osu.ppy.sh/users/8152145), ![](https://s.ppy.sh/images/flags/id.gif) [-Reuto-](https://osu.ppy.sh/users/10717635), ![](https://s.ppy.sh/images/flags/sg.gif) [GSBlank](https://osu.ppy.sh/users/2312106) |
-| 25-32 | ![](https://s.ppy.sh/images/flags/uk.gif) [Mahmood](https://osu.ppy.sh/users/7627844), ![](https://s.ppy.sh/images/flags/se.gif) [TOnyrino](https://osu.ppy.sh/users/7338010), ![](https://s.ppy.sh/images/flags/de.gif) [Tim Kackner](https://osu.ppy.sh/users/14385814), ![](https://s.ppy.sh/images/flags/ro.gif) [Kehest](https://osu.ppy.sh/users/6145000), ![](https://s.ppy.sh/images/flags/us.gif) [Olympia](https://osu.ppy.sh/users/5357992), ![](https://s.ppy.sh/images/flags/fi.gif) [Nev-](https://osu.ppy.sh/users/11836334), ![](https://s.ppy.sh/images/flags/us.gif) [Gabey](https://osu.ppy.sh/users/12904237), ![](https://s.ppy.sh/images/flags/us.gif) [Raoul](https://osu.ppy.sh/users/9924405) |
+| 1–8 | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650), ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437), ::{ flag=RO }:: [SatonoDiamond](https://osu.ppy.sh/users/12366071), ::{ flag=US }:: [Swiq_](https://osu.ppy.sh/users/11269055), ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961), ::{ flag=US }:: [WillCookie](https://osu.ppy.sh/users/6404488), ::{ flag=US }:: [Jacob3](https://osu.ppy.sh/users/13628898), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058) |
+| 9–16 | ::{ flag=US }:: [Venpris](https://osu.ppy.sh/users/8861593), ::{ flag=US }:: [-Koda](https://osu.ppy.sh/users/12260184), ::{ flag=DE }:: [rundyyy](https://osu.ppy.sh/users/10917620), ::{ flag=CA }:: [noncycle](https://osu.ppy.sh/users/12701607), ::{ flag=JE }:: [rudj](https://osu.ppy.sh/users/11592896), ::{ flag=US }:: [EzChock](https://osu.ppy.sh/users/9276293), ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687), ::{ flag=US }:: [DarkScrap](https://osu.ppy.sh/users/13241562) |
+| 17–24 | ::{ flag=CL }:: [Danidesu](https://osu.ppy.sh/users/2748187), ::{ flag=IL }:: [Galog](https://osu.ppy.sh/users/7799629), ::{ flag=PL }:: [gnahus](https://osu.ppy.sh/users/12779141), ::{ flag=NZ }:: [Saiyku](https://osu.ppy.sh/users/13767572), ::{ flag=DE }:: [aahoff](https://osu.ppy.sh/users/11371245), ::{ flag=SG }:: [200201envenho](https://osu.ppy.sh/users/8152145), ::{ flag=ID }:: [-Reuto-](https://osu.ppy.sh/users/10717635), ::{ flag=SG }:: [GSBlank](https://osu.ppy.sh/users/2312106) |
+| 25–32 | ::{ flag=UK }:: [Mahmood](https://osu.ppy.sh/users/7627844), ::{ flag=SE }:: [TOnyrino](https://osu.ppy.sh/users/7338010), ::{ flag=DE }:: [Tim Kackner](https://osu.ppy.sh/users/14385814), ::{ flag=RO }:: [Kehest](https://osu.ppy.sh/users/6145000), ::{ flag=US }:: [Olympia](https://osu.ppy.sh/users/5357992), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=US }:: [Raoul](https://osu.ppy.sh/users/9924405) |
 
-See the [Spreadsheet](https://docs.google.com/spreadsheets/d/1ESDw34gBfnDWwUrXEPZNxsi4MN89p156aIYP4RYbuYs/edit#gid=0) for a list of all participants.
+See [this spreadsheet](https://docs.google.com/spreadsheets/d/1ESDw34gBfnDWwUrXEPZNxsi4MN89p156aIYP4RYbuYs/edit#gid=0) for a list of all participants.
 
 ## Podium
 
@@ -75,10 +75,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![](https://s.ppy.sh/images/flags/pl.gif) [maliszewski](https://osu.ppy.sh/users/12408961) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![](https://s.ppy.sh/images/flags/kr.gif) [[Karcher]](https://osu.ppy.sh/users/11443437) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![](https://s.ppy.sh/images/flags/hk.gif) [mcy4](https://osu.ppy.sh/users/2165650) |
-| *4th place* | ![](https://s.ppy.sh/images/flags/us.gif) [Swiq_](https://osu.ppy.sh/users/11269055) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
+| *4th place* | ::{ flag=US }:: [Swiq_](https://osu.ppy.sh/users/11269055) |
 
 ## Mappools
 
@@ -253,153 +253,226 @@ This competition has come to an end and resulted in the following podium:
   1. [S3RL - Candy (feat. Sara) (Nuvolina) [Nuvolina & Anto's Insane]](https://osu.ppy.sh/beatmapsets/829956#osu/1742403)
   2. [Akiyama Uni - The Grimoire of Alice (Hollow Wings)[Insane]](https://osu.ppy.sh/beatmapsets/123839#osu/344619)
 
-
 ## Match results
 
 ### Grand Finals
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1lbPU99YYTEbwxHZBBJEM56IT4BabsE8AUbvI925EHs4/edit#gid=795207119).
 
-2022-07-23/2022-07-24
+Saturday, July 23, 2022
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[Karcher]** | **7** | 5 | mcy4 | [#1](https://osu.ppy.sh/community/matches/102491491) |
+
+Monday, July 25, 2022
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | maliszewski | 6 | **7** | **[Karcher]** | [#1](https://osu.ppy.sh/community/matches/102550377) |
 | [Karcher] | 2 | **7** | **maliszewski** | [#1](https://osu.ppy.sh/community/matches/102551817) |
 
 ### Finals
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Fu7K7d0XDyhL7bk5t0DxWSOihBUWojMxLYkEOAP8QIE/edit#gid=795207119).
 
-2022-07-16/2022-07-17
+Saturday, July 16, 2022
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **mcy4** | **7** | 3 | -Reuto- | [#1](https://osu.ppy.sh/community/matches/102310621) |
 | WillCookie | 1 | **7** | **Swiq_** | [#1](https://osu.ppy.sh/community/matches/102321669) |
+
+Sunday, July 17, 2022
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | Swiq_ | 0 | **7** | **mcy4** | [#1](https://osu.ppy.sh/community/matches/102341595) |
 | **maliszewski** | **7** | 2 | [Karcher] | [#1](https://osu.ppy.sh/community/matches/102337887) |
 
 ### Semifinals
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1_G1Nl-bDAJCUrPfiEsYCUn3AsXlVdJe9Mw4P4_tziQc/edit#gid=795207119).
 
-2022-07-09/2022-07-10
+Friday, July 8, 2022
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| mcy4 | 4 | **6** | **maliszewski** | [#1](https://osu.ppy.sh/community/matches/102105872) |
+
+Saturday, July 9, 2022
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **GSBlank** | **6** | 1 | Saiyku | [#1](https://osu.ppy.sh/community/matches/102127956) |
-| **Swiq_** | **0** | -1 | Jakson | [#1]() |
-| **-Reuto-** | **0** | -1 | rundyyy | [#1]() |
-| EzChock | 3 | **6** | **noncycle** | [#1](https://osu.ppy.sh/community/matches/102145896) |
-| **Swiq_** | **6** | 2 | GSBlank | [#1](https://osu.ppy.sh/community/matches/102161740) |
-| noncycle | -1 | **0** | **-Reuto-** | [#1](https://osu.ppy.sh/community/matches/102159397) |
-| mcy4 | 4 | **6** | **maliszewski** | [#1](https://osu.ppy.sh/community/matches/102105872) |
+| **Swiq_** | **0** | -1 | Jakson | *forfeit* |
+| **-Reuto-** | **0** | -1 | rundyyy | *forfeit* |
 | **[Karcher]** | **6** | 0 | WillCookie | [#1](https://osu.ppy.sh/community/matches/102120655) |
 
-### Quarterfinals
+Sunday, July 10, 2022
 
-2022-07-02/2022-07-03
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| EzChock | 3 | **6** | **noncycle** | [#1](https://osu.ppy.sh/community/matches/102145896) |
+| **Swiq_** | **6** | 2 | GSBlank | [#1](https://osu.ppy.sh/community/matches/102161740) |
+| noncycle | -1 | **0** | **-Reuto-** | *forfeit* |
+
+### Quarterfinals
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1BQrOYXhUlkIt_2aFozCdZZjq5_3AfHVF3kCp7BSu9H4/edit#gid=795207119).
+
+Friday, July 1, 2022
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | DarkScrap | 2 | **6** | **rundyyy** | [#1](https://osu.ppy.sh/community/matches/101930240) |
+| **[Karcher]** | **6** | 3 | -Reuto- | [#1](https://osu.ppy.sh/community/matches/101918959) |
+
+Saturday, July 2, 2022
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **Mahmood** | **6** | 4 | Nev- | [#1](https://osu.ppy.sh/community/matches/101952467) |
-| rudj | -1 | **0** | **-Koda** | [#1]() |
-| **noncycle** | **6** | 2 | Gabey | [#1](https://osu.ppy.sh/community/matches/101963866) |
+| rudj | -1 | **0** | **-Koda** | *forfeit* |
 | BoshyMan741 | 2 | **6** | **Kehest** | [#1](https://osu.ppy.sh/community/matches/101956568) |
-| TOnyrino | -1 | **0** | **Saiyku** | [#1]() |
-| SatonoDiamond | -1 | **0** | **Jakson** | [#1]() |
+| TOnyrino | -1 | **0** | **Saiyku** | *forfeit* |
+| SatonoDiamond | -1 | **0** | **Jakson** | *forfeit* |
 | 200201envenho | 1 | **6** | **Raoul** | [#1](https://osu.ppy.sh/community/matches/101939986) |
-| Mahmood | 1 | **6** | **rundyyy** | [#1](https://osu.ppy.sh/community/matches/102007615) |
-| **noncycle** | **6** | 3 | -Koda | [#1](https://osu.ppy.sh/community/matches/101989129) |
-| **Saiyku** | **6** | 4 | Kehest | [#1](https://osu.ppy.sh/community/matches/101972711) |
 | Raoul | 1 | **6** | **Jakson** | [#1](https://osu.ppy.sh/community/matches/101957948) |
 | **mcy4** | **6** | 1 | GSBlank | [#1](https://osu.ppy.sh/community/matches/101949633) |
-| Swiq_ | 2 | **6** | **maliszewski** | [#1](https://osu.ppy.sh/community/matches/101983816) |
-| **[Karcher]** | **6** | 3 | -Reuto- | [#1](https://osu.ppy.sh/community/matches/101918959) |
 | EzChock | 3 | **6** | **WillCookie** | [#1](https://osu.ppy.sh/community/matches/101959612) |
 
-### Round of 16
+Sunday, July 3, 2022
 
-2022-06-25/2022-06-26
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **noncycle** | **6** | 2 | Gabey | [#1](https://osu.ppy.sh/community/matches/101963866) |
+| **Saiyku** | **6** | 4 | Kehest | [#1](https://osu.ppy.sh/community/matches/101972711) |
+| Swiq_ | 2 | **6** | **maliszewski** | [#1](https://osu.ppy.sh/community/matches/101983816) |
+
+Monday, July 4, 2022
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Mahmood | 1 | **6** | **rundyyy** | [#1](https://osu.ppy.sh/community/matches/102007615) |
+| **noncycle** | **6** | 3 | -Koda | [#1](https://osu.ppy.sh/community/matches/101989129) |
+
+### Round of 16
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1_uXU7ASnyFu8iI59qejl3eBq0BOJmC2CK7Eyr639GvE/edit#gid=1210497130).
+
+Friday, June 24, 2022
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Gabey** | **0** | -1 | Galog | *forfeit* |
+
+Saturday, June 25, 2022
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kehest** | **5** | 4 | aahoff | [#1](https://osu.ppy.sh/community/matches/101763787) |
+| **mcy4** | **5** | 2 | DarkScrap | [#1](https://osu.ppy.sh/community/matches/101763792) |
+| Mahmood | 3 | **5** | **GSBlank** | [#1](https://osu.ppy.sh/community/matches/101767442) |
+| **Swiq_** | 0 | **-1** | rudj | *forfeit* |
+| maliszewski | **5** | 0 | noncycle | [#1](https://osu.ppy.sh/community/matches/101767849) |
+| SatonoDiamond | -1 | **0** | **EzChock** | *forfeit* |
+| **WillCookie** | **5** | 3 | 200201envenho | [#1](https://osu.ppy.sh/community/matches/101753576) |
+
+Sunday, June 26, 2022
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Raoul** | **5** | 1 | Danidesu | [#1](https://osu.ppy.sh/community/matches/101802795) |
-| **Jakson** | **5** | 3 | Venpris | [#1](https://osu.ppy.sh/community/matches/101825417) |
 | Em_Rald | 3 | **5** | **Saiyku** | [#1](https://osu.ppy.sh/community/matches/101779305) |
-| **Kehest** | **5** | 4 | aahoff | [#1](https://osu.ppy.sh/community/matches/101763787) |
-| **Gabey** | **0** | -1 | Galog | [#1]() |
-| Jacob3 | -1 | **0** | **-Koda** | [#1]() |
+| Jacob3 | -1 | **0** | **-Koda** | *forfeit* |
 | **Nev-** | **0** | -1 | gnahus | [#1](https://osu.ppy.sh/community/matches/101792972) |
-| Tim Kackner | 3 | **5** | **rundyyy** | [#1](https://osu.ppy.sh/community/matches/101817541) |
-| **mcy4** | **5** | 2 | DarkScrap | [#1](https://osu.ppy.sh/community/matches/101763792) |
-| Mahmood | 3 | **5** | **GSBlank** | [#1](https://osu.ppy.sh/community/matches/101767442) |
-| **Swiq_** | 0 | **-1** | rudj | [#1]() |
-| maliszewski | **5** | 0 | noncycle | [#1](https://osu.ppy.sh/community/matches/101767849) |
 | [Karcher] | **5** | 0 | BoshyMan741 | [#1](https://osu.ppy.sh/community/matches/101780102) |
 | TOnyrino | 2 | **5** | **-Reuto-** | [#1](https://osu.ppy.sh/community/matches/101787986) |
-| SatonoDiamond | -1 | **0** | **EzChock** | [#1]() |
-| **WillCookie** | **5** | 3 | 200201envenho | [#1](https://osu.ppy.sh/community/matches/101753576) |
+
+Monday, June 27, 2022
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Jakson** | **5** | 3 | Venpris | [#1](https://osu.ppy.sh/community/matches/101825417) |
+| Tim Kackner | 3 | **5** | **rundyyy** | [#1](https://osu.ppy.sh/community/matches/101817541) |
 
 ### Round of 32
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1QwuaJOPu-TqA8uiYSQOHrbrZZyz2W9XAMybl_SrFDHU/edit#gid=795207119).
 
-2022-06-18/2022-06-19
+Thursday, June 16, 2022
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| -Koda | 0 | **5** | **-Reuto-** | [#1](https://osu.ppy.sh/community/matches/101513586) |
+
+Friday, June 17, 2022
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **BoshyMan741** | **5** | 4 | Galog | [#1](https://osu.ppy.sh/community/matches/101545365) |
+| **SatonoDiamond** | **5** | 1 | Nev- | [#1](https://osu.ppy.sh/community/matches/101545295) |
+| rundyyy | 3 | **5** | **200201envenho** | [#1](https://osu.ppy.sh/community/matches/101543829) |
+
+Saturday, June 18, 2022
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **mcy4** | **5** | 1 | Raoul | [#1](https://osu.ppy.sh/community/matches/101560106) |
 | **DarkScrap** | **5** | 3 | Danidesu | [#1](https://osu.ppy.sh/community/matches/101579995) |
 | Jakson | 3 | **5** | **Mahmood** | [#1](https://osu.ppy.sh/community/matches/101578040) |
-| Venpris | -1 | **0** | **GSBlank** | [#1]() |
+| Venpris | -1 | **0** | **GSBlank** | *forfeit* |
 | **Swiq_** | **5** | 3 | Em_Rald | [#1](https://osu.ppy.sh/community/matches/101581530) |
 | **rudj** | **5** | 0 | Saiyku | [#1](https://osu.ppy.sh/community/matches/101568361) |
 | **maliszewski** | **5** | 1 | Kehest | [#1](https://osu.ppy.sh/community/matches/101568987) |
 | **noncycle** | **5** | 0 | aahoff | [#1](https://osu.ppy.sh/community/matches/101576687) |
 | **[Karcher]** | **5** | 2 | Gabey | [#1](https://osu.ppy.sh/community/matches/101559115) |
-| **BoshyMan741** | **5** | 4 | Galog | [#1](https://osu.ppy.sh/community/matches/101545365) |
-| Jacob3 | -1 | **0** | **TOnyrino** | [#1]() |
-| -Koda | 0 | **5** | **-Reuto-** | [#1](https://osu.ppy.sh/community/matches/101513586) |
-| **SatonoDiamond** | **5** | 1 | Nev- | [#1](https://osu.ppy.sh/community/matches/101545295) |
+| Jacob3 | -1 | **0** | **TOnyrino** | *forfeit* |
+
+Sunday, June 19, 2022
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **EzChock** | **5** | 1 | gnahus | [#1](https://osu.ppy.sh/community/matches/101607694) |
 | **WillCookie** | **5** | 4 | Tim Kackner | [#1](https://osu.ppy.sh/community/matches/101603892) |
-| rundyyy | 3 | **5** | **200201envenho** | [#1](https://osu.ppy.sh/community/matches/101543829) |
 
 ## Ruleset
 
 ### General
 
-- This tournament is a 1v1 double-elimination osu!standard tournament.
+- This tournament is a 1v1 double-elimination osu! tournament.
 - All matches will use Score V2 and NF will be enforced on every map.
-- All players have to treat staff members and all other players wiith high level of respect. Any kind of mistreatment can results into a being banned from the tournament.
+- All players have to treat staff members and all other players with a high level of respect. Any kind of mistreatment may result in being banned from the tournament.
 - This is an open rank tournament.
 - Staff members are not allowed to participate in the tournament.
-- Every player is required to join the tournament discord server.
+- Every player is required to join the tournament Discord server.
 - All times will be in UTC.
 
 ### Mappools
 
 - There will be a new mappool every week.
 - Mappools follow the following format:
-    - Qualifiers: 4xNM, 2xHD, 2xHR, 2xDT
-    - Round of 32: 5xNM, 3xHD, 3xHR, 3xDT, 1xTB
-    - Round of 16: 5xNM, 3xHD, 3xHR, 3xDT, 1xTB
-    - Quarterfinals: 6xNM, 4xHD, 4xHR, 4xDT, 1xTB
-    - Semifinals: 6xNM, 4xHD, 4xHR, 4xDT, 1xTB
-    - Finals: 6xNM, 4xHD, 4xHR, 4xDT, 1xTB
-    - Grand Final: 6xNM, 4xHD, 4xHR, 4xDT, 1xTB
- - Every mappool will be a slightly harder than the previous one. Star Rating goal for Grand Finals mappool is 8.0*
+
+| Stage | Maps |
+| :-- | :-- |
+| Qualifiers | 4 NM, 2 HD, 2 HR, 2 DT |
+| Round of 32 | 5 NM, 3 HD, 3 HR, 3 DT, 1 TB |
+| Round of 16 | 5 NM, 3 HD, 3 HR, 3 DT, 1 TB |
+| Quarterfinals | 6 NM, 4 HD, 4 HR, 4 DT, 1 TB |
+| Semifinals | 6 NM, 4 HD, 4 HR, 4 DT, 1 TB |
+| Finals | 6 NM, 4 HD, 4 HR, 4 DT, 1 TB |
+| Grand Final | 6 NM, 4 HD, 4 HR, 4 DT, 1 TB |
+
+ - Every mappool will be slightly harder than the previous one. Maps in the Grand Finals mappool will have 8 stars.
 
 ### Qualifiers
 
-- Qualifier mappool consists of 4xNM, 2xHD, 2xHR & 2x DT maps.
-- Qualifier mappool will be played in following order NM -> DT.
+- The Qualifier mappool consists of 4 NM, 2 HD, 2 HR, and 2 DT maps.
+- The Qualifier mappool will be played in following order: NM -> DT.
 - NF and Score V2 will be used on every map.
-- Mappool will be played once only.
-- If players disconnects during a map they can replay it after all other maps have been played and other players have left the lobby.
-- Players will be seeded following this pattern: Seed 1 VS Seed 32, Seed 2 VS Seed 31, ...
+- The mappool will be played once only.
+- If a player disconnects during a map they can replay it after all other maps have been played and all other players have left the lobby.
+- Players will be matched against each other in the pattern of *seed 1 vs. seed 32*, *seed 2 vs. seed 31*, etc.
 
 ### Match procedure
 
-- All matches will use NF and Score V2.
-- Players have 10 minute grace period to join the lobby after an agreed time. If 10 minutes pass and player is still not in the lobby, the other player wins the match.
-- Players are allowed to pick 1 map for warm up. Maximum length for warm up is 4 minutes. Warm ups have to be in good taste.
-- After warm ups both players will use !roll command to decide pick and ban order. Winner of the roll can decide pick or ban order, the loser of the roll will decide the remaining order.
+- Players have a 10-minute grace period to join the lobby after an agreed time. If 10 minutes pass and a player is still not in the lobby, the other player wins the match.
+- Players are allowed to pick 1 map for warmup, with a maximum length of 4 minutes. Warmups have to be in good taste.
+- After warmups both players will use the `!roll` command to decide pick and ban order. The winner of the roll can decide pick or ban order, and the loser of the roll will decide the remaining order.
 - Players have 90 seconds to pick/ban a map.
 - Double picking/banning maps is allowed.
