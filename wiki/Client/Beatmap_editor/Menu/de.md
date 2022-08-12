@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Menü des Beatmap-Editors
 
 ## Datei
