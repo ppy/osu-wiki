@@ -30,7 +30,7 @@ The Ranking Criteria. For some a blessing, for others a curse. On top of that, i
 
 ### osu!taiko 
 
-- **[1/3 Patterns in Futsuu](/wiki/Ranking_Criteria/osu!taiko#-futsuu):** The osu!taiko Futsuu difficulty Rule and Guideline regarding 1/3 pattern has been modified. The clause about rest moments was moved from the Rule to the Guideline. 
+- **[1/3 Patterns in Futsuu](/wiki/Ranking_Criteria/osu!taiko#futsuu):** The osu!taiko Futsuu difficulty Rule and Guideline regarding 1/3 pattern has been modified. The clause about rest moments was moved from the Rule to the Guideline. 
 
 ## Open Ranking Criteria Proposals 
 
@@ -88,7 +88,7 @@ Just as last month, the BNG never rests. We always have new additions and retire
 
 ### BN Resignations
 
-- **osu!:** [-Aqua](https://osu.ppy.sh/u/7150015), [Bibbity Bill](https://osu.ppy.sh/users/4446810), [Gero](https://osu.ppy.sh/users/1467715), [Teky](https://osu.ppy.sh/users/10520912) & [Petal](https://osu.ppy.sh/users/7354729)
+- **osu!:** [-Aqua](https://osu.ppy.sh/users/7150015), [Bibbity Bill](https://osu.ppy.sh/users/4446810), [Gero](https://osu.ppy.sh/users/1467715), [Teky](https://osu.ppy.sh/users/10520912) & [Petal](https://osu.ppy.sh/users/7354729)
 - **osu!catch:** [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### NAT Additions

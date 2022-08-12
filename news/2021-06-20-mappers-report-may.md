@@ -12,7 +12,7 @@ This month's issue of the Mappers' Report contains the following topics:
 
 - **[Ranking Criteria Changes](#ranking-criteria-changes)**
 - **[Within the Beatmap Nominators and NAT](#within-the-beatmap-nominators-and-nat)**
-- **[Mappers' Showcase](#mappers-showcase)**
+- **[Mappers' Showcase](#mappers'-showcase)**
 - **[Mapping Contests](#mapping-contests)**
 - **[Around the Community](#around-the-community)**
 - **[Conclusion](#conclusion)**

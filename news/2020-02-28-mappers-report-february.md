@@ -50,9 +50,9 @@ A description has been added to the rule "A beatmapset's custom difficulty namin
 - **[Hitsound Additions Requirements](/wiki/Ranking_Criteria#rules.4):** Following this change, osu!mania beatmapsets containing only difficulties of Insane or above do not require hitsound additions.
 - **[Difficulty name requirements](/wiki/Ranking_Criteria/osu!mania#rules):**
 A new specification has been added that sets with a single key mode must not use the key mode in the difficulty name.
-- **[Long note changes in Easy and Normal](/wiki/Ranking_Criteria/osu!mania#-easy):**
+- **[Long note changes in Easy and Normal](/wiki/Ranking_Criteria/osu!mania#easy):**
 The previous guidelines in Easy and Normal that "A long note cannot be released during another long note's body" have been removed. They have been replaced with "long note releases should be at least 1/1 beat from each other" for Easy difficulties and "long note releases should be at least 1/2 beat from each other" for Normal difficulties.
-- **[Chord usage change in Hard](/wiki/Ranking_Criteria/osu!mania#-hard):**
+- **[Chord usage change in Hard](/wiki/Ranking_Criteria/osu!mania#hard):**
 The wording of the guideline that chords should be used sparingly got changed into "Chords within 1/4 streams should be at least 1/1 beat apart from each other".
 
 ## NAT Meetings
