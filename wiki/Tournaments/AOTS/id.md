@@ -11,3 +11,4 @@ Halaman indeks untuk seri Asian-Oceanian Taiko Showdown.
 
 - [Asian Taiko Showdown 2018](ATS_2018)
 - [Asian-Oceanian Taiko Showdown](AOTS_1)
+- [Indonesian Taiko Beginner Showdown](ITBS_1)
