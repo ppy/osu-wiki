@@ -46,7 +46,7 @@ Alles über das Klicken von Kreisen, das Schlagen der Trommeln, das Schnappen vo
 
 Alle Beatmaps in osu! werden von kreativen Teilnehmern seiner aktiven Community erstellt. Wolltest du schon immer deine Lieblingsmusik mit anderen teilen, hast aber nie gewusst wie? Mache dich vertraut mit dem eingebauten Editor und den Möglichkeiten, die dieser bietet.
 
-Abschnitte: [Komposition](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song-Einstellung](/wiki/Client/Beatmap_editor/Song_Setup)
+Abschnitte: [Komposition](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song-Setup](/wiki/Client/Beatmap_editor/Song_Setup)
 
 Komponenten: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Taktteiler](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menü](/wiki/Client/Beatmap_editor/Menu) • [SB-Belastung](/wiki/Client/Beatmap_editor/SB_Load) • [Zeitleisten](/wiki/Client/Beatmap_editor/Timelines)
 
