@@ -15,7 +15,7 @@ Der Beatmap-Editor ist in vier Hauptabschnitte eingeteilt, die in der linken obe
 
 ## Compose
 
-Im Tab [Compose](/wiki/Client/Beatmap_editor/Compose) lassen sich alle [Hit-Objekte](/wiki/Hit_object) und andere gameplay-bezogene Elemente erstellen. Viele Mapper verbringen infolgedessen die meiste ihrer Zeit in diesem Bereich.
+Im Tab [Compose](/wiki/Client/Beatmap_editor/Compose) lassen sich alle [Hit-Objekte](/wiki/Hit_object) und andere Gameplay-bezogene Elemente erstellen. Viele Mapper verbringen infolgedessen die meiste ihrer Zeit in diesem Bereich.
 
 ## Design
 
