@@ -2,26 +2,26 @@
 tags:
   - charts
   - Ranking Charts
-  - Seasonal Spotlights  
+  - Seasonal Spotlights
   - tableaux
   - Tableaux de classement
   - Spotlights saisonnier
 ---
 
-# Saison 7 des Beatmap Spotlights (été 2022)
+# Saison 7 des Beatmap Spotlights (Été 2022)
 
 ## Programme
 
 | Événement | Date |
 | :-- | :-- |
-| Début de la saison | 11 Août 2022 |
-| Playlist lobby : Playlist A | 11 Août - 25 Août 2022 |
-| Playlist lobby : Playlist B | 25 Août - 8 Septembre 2022 |
-| Playlist lobby : Playlist C | 8 Septembre - 22 Septembre 2022 |
-| Playlist lobby : Playlist A | 22 Septembre - 29 Septembre 2022 |
-| Playlist lobby : Playlist B | 29 Septembre - 6 Octobre 2022 |
-| Playlist lobby : Playlist C | 6 Octobre - 13 Octobre 2022 |
-| Conclusion de la saison | 13 Octobre 2022 |
+| Début de la saison | 11 août 2022 |
+| Playlist lobby : Playlist A | 11 août - 25 août 2022 |
+| Playlist lobby : Playlist B | 25 août - 8 septembre 2022 |
+| Playlist lobby : Playlist C | 8 septembre - 22 septembre 2022 |
+| Playlist lobby : Playlist A | 22 septembre - 29 septembre 2022 |
+| Playlist lobby : Playlist B | 29 septembre - 6 octobre 2022 |
+| Playlist lobby : Playlist C | 6 octobre - 13 octobre 2022 |
+| Conclusion de la saison | 13 octobre 2022 |
 
 ## Lobbies multijoueurs hebdomadaires
 
