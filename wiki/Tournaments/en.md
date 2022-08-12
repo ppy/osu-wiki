@@ -78,6 +78,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 2020-08-15 | 2020-09-20 | ::{ flag=BR }:: Brazil | ::{ flag=JP }:: Japan | ::{ flag=KR }:: South Korea |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 2021-07-31 | 2021-09-19 | ::{ flag=BR }:: Brazil | ::{ flag=US }:: United States | ::{ flag=MY }:: Malaysia |
 | [osu!mania 7K World Cup 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | ::{ flag=KR }:: South Korea | ::{ flag=CN }:: China | ::{ flag=MY }:: Malaysia |
+| [osu!mania 4K World Cup 2022](MWC/2022_4K) | 2022-07-07 | 2022-09-18 | *TBD* | *TBD* | *TBD* |
 
 ## Community
 
@@ -397,6 +398,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Indonesian Taiko Showdown](AOTS/IDTS_1) | 2017-05-06 | 2017-06-11 | ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) | ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885) | ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768) |
 | [Asian Taiko Showdown 2018](AOTS/ATS_2018) | 2018-06-02 | 2018-07-08 | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ::{ flag=JP }:: [butter0414](https://osu.ppy.sh/users/7935022) |
 | [Asian-Oceanian Taiko Showdown](AOTS/AOTS_1) | 2019-08-09 | 2019-09-15 | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) | ::{ flag=HK }:: [MTDex](https://osu.ppy.sh/users/9468283) |
+| [Indonesian Taiko Showdown 2](AOTS/IDTS_2) | 2021-12-03 | 2022-01-09 | ::{ flag=ID }:: [Servatory](https://osu.ppy.sh/users/4013317) | ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301) | ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079) |
+| [Indonesian Taiko Beginner Showdown](AOTS/ITBS_1) | 2022-04-16 | 2022-06-05 | ::{ flag=ID }:: [salym](https://osu.ppy.sh/users/19089549) | ::{ flag=ID }:: [WeebReen](https://osu.ppy.sh/users/10129901) | ::{ flag=ID }:: [N\_jaaayy](https://osu.ppy.sh/users/17787564) |
 
 #### Ausu!Taiko Tournament
 
