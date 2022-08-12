@@ -93,5 +93,5 @@ Pour le moment, les participants doivent télécharger et installer [osu!(lazer)
 - [Camellia - Tojita Sekai (\[Crz\]Alleyne) \[\[4K\] The fake sky covers a closed world...\]](https://osu.ppy.sh/beatmapsets/1150451#mania/2401514), suggéré par [Protastic101](https://osu.ppy.sh/users/6712747)
 - [Camellia - Fly Wit Me (Leniane) \[\[4K\] Ascension\]](https://osu.ppy.sh/beatmapsets/1267752#mania/2634707), suggéré par [Hydria](https://osu.ppy.sh/users/808176)
 - [T-SQUARE SUPER BAND SPECIAL - JAPANESE SOUL BROTHERS (Cut & Live Ver.) (Ska) \[\[4K\] 35th Anniversary | Part 2\]](https://osu.ppy.sh/beatmapsets/1683567#mania/3466516), suggéré par [Hydria](https://osu.ppy.sh/users/808176)
-- [Mastermind(xi+nora2r) - Dreadnought (PyaKura) \[\[7K\] Hyperspace\]](https://osu.ppy.sh/beatmapsets/361643#mania/794499), picked as a result of popular vote amongst Curators
+- [Mastermind(xi+nora2r) - Dreadnought (PyaKura) \[\[7K\] Hyperspace\]](https://osu.ppy.sh/beatmapsets/361643#mania/794499), choisi suite à un vote populaire parmi les curateurs
 - [Camellia - OOPARTS (AWMRone) \[\[6K\] OOccultism\]](https://osu.ppy.sh/beatmapsets/1608837#mania/3285125), suggéré par [Antalf](https://osu.ppy.sh/users/8793773)
