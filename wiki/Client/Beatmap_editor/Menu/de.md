@@ -113,7 +113,7 @@ Diese Befehle können in den [Einstellungen](/wiki/Client/Options) deaktiviert w
 | Name | Beschreibung |
 | :-- | :-- |
 | Stups zurück (`J`) | Bewegt Hit-Objekt(e) abhängig vom Taktteiler um einen Beat zurück. |
-| Stubs vorwärts (`K`) | Bewegt Hit Objekt(e) abhängig vom Taktteiler um einen Beat nach vorne. |
+| Stups vorwärts (`K`) | Bewegt Hit-Objekt(e) abhängig vom Taktteiler um einen Beat nach vorne. |
 
 ## Ansicht
 
