@@ -50,7 +50,7 @@ Touchscreen-Spieler haben Probleme mit:
 
 ### Klicken mit Tastatur
 
-Wenn du mit Maus oder Tablet spielst oder irgendeiner anderer Eingabemethode, kannst du auch deine Tastatur verwenden (standardmäßig `Z` und `X`), um die Kreise anzuklicken. Der Vorteil dabei ist, dass die physische Bewegung auf zwei Hände verteilt wird, anstatt mit dem Eingabegerät fürs Zielen auch zu klicken, wodurch du schnellere Abschnitte wesentlich einfacher bewältigen kannst. Daran muss man sich erst gewöhnen, aber wenn du dich entscheidest, deine Tastatur zum Klicken zu nutzen, ist es keine schlechte Idee, dich schon früh daran zu gewöhnen.
+Wenn du mit Maus, Tablet oder irgendeiner anderen Eingabemethode spielst, kannst du auch deine Tastatur verwenden (standardmäßig `Z` und `X`), um die Kreise anzuklicken. Der Vorteil dabei ist, dass die physische Bewegung auf zwei Hände verteilt wird, anstatt mit dem Eingabegerät fürs Zielen auch zu klicken, wodurch du schnellere Abschnitte wesentlich einfacher bewältigen kannst. Daran muss man sich erst gewöhnen, aber wenn du dich entscheidest, deine Tastatur zum Klicken zu nutzen, ist es keine schlechte Idee, dich schon früh daran zu gewöhnen.
 
 ## Gameplay-Techniken
 
