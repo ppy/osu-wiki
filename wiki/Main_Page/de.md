@@ -94,7 +94,7 @@ Was du tun kannst: [Wie und mit was helfen](/wiki/Community/How_you_can_help!) �
 
 # Community und Projekte
 
-Eine aktive Community sind eines der Dinge, die osu! voranbringen. Entdecke die Aktivitätan und Veranstaltungen, freunde dich mit anderen an oder helfe, das nächste Event zu organisieren!
+Eine aktive Community ist eines der Dinge, die osu! voranbringen. Entdecke die Aktivitäten und Veranstaltungen, freunde dich mit anderen an oder helfe, das nächste Event zu organisieren!
 
 [Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Wettbewerbe](/wiki/Contests) • [Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
 
