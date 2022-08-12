@@ -8,7 +8,7 @@ no_native_review: true
 
 ![Dateimenü](img/M_File-DE.jpg "Dateimenü")
 
-**Grundlegende Befehle.**
+**Grundlegende Datei-Befehle.**
 
 ### Datei-Befehle
 
@@ -30,7 +30,7 @@ no_native_review: true
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Beatmap testen (`F5`) | Teste die Beatmap. Aktuelle Änderungen werden gespeichert für den Test. |
+| Beatmap testen (`F5`) | Teste die Beatmap. Aktuelle Änderungen werden für den Test gespeichert. |
 | AiMod öffnen (`Strg` + `Shift` + `A`) | AiMod öffnen. |
 
 ### Befehle zum Verpacken von Beatmaps
@@ -46,7 +46,7 @@ no_native_review: true
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Songs-Ordner öffnen | Öffnet den Songs-Ordner, welcher sich im Verzeichnis osu!/Songs befindet. |
+| Songs-Ordner öffnen | Öffnet den Song-Ordner, welcher sich im Verzeichnis osu!/Songs befindet. |
 | `.osu` im Editor öffnen | Öffnet die Schwierigkeitsstufe im Texteditor. |
 | `.osb` im Editor öffnen | Öffnet die Storyboard-Datei im Texteditor. |
 
@@ -54,7 +54,7 @@ no_native_review: true
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Beenden... (`Esc`) | Beatmap-Editor verlassen. Du wirst möglicherweise gefragt, ob du kürzliche Veränderungen speichern möchtest. *Ignoriert* manchmal Änderungen, die im Design-Tab gemacht wurden. |
+| Beenden... (`Esc`) | Beatmap-Editor verlassen. Du wirst möglicherweise gefragt, ob du kürzliche Änderungen speichern möchtest. *Ignoriert* manchmal Änderungen, die im Design-Tab gemacht wurden. |
 
 ## Bearbeiten
 
@@ -96,8 +96,8 @@ Diese Befehle können in den [Einstellungen](/wiki/Client/Options) deaktiviert w
 | Vertikal spiegeln (`Strg` + `J`) | Wendet das/die Hit-Objekt(e) von unten nach oben bzw. von oben nach unten (x-Achse ist die Mittelachse). |
 | 90° im Uhrzeigersinn drehen (`Strg` + `>`) | Hit-Objekt(e) um 90° nach rechts drehen. |
 | 90° gegen den Uhrzeigersinn drehen (`Strg` + `<`) | Hit-Objekt(e) um 90° nach links drehen. |
-| Rotieren ... (`Strg` + `Shift` + `R`) | Lege den Rotationswinkel (+/- 180°) für die Hit-Objekte fest. Du kannst auch die Richtung \[im/gegen Uhrzeigersinn\] und Position \[Mitte im Spielfeld/in der Auswahl\] festlegen. |
-| Skalieren... (`Strg` + `Shift` + `S`) | Verändere die Größe der Hit-Objekte um einen gewissen Faktor (0.500x - 1.200x). Du kannst die Position \[Mitte im Spielfeld/in der Auswahl\] festlegen und ob die Objekte nur auf einer oder beiden Achsen skaliert werden sollen. |
+| Rotieren ... (`Strg` + `Shift` + `R`) | Lege den Rotationswinkel (+/- 180°) für die Hit-Objekte fest. Du kannst auch die Richtung \[im/gegen den Uhrzeigersinn\] und Position \[Mitte des Spielfelds/der Auswahl\] festlegen. |
+| Skalieren... (`Strg` + `Shift` + `S`) | Verändere die Größe der Hit-Objekte um einen gewissen Faktor (0.500x - 1.200x). Du kannst die Position \[Mitte des Spielfelds/der Auswahl\] festlegen und ob die Objekte nur auf einer oder beiden Achsen skaliert werden sollen. |
 
 ### Tasten zum Zurücksetzen
 
@@ -108,11 +108,11 @@ Diese Befehle können in den [Einstellungen](/wiki/Client/Options) deaktiviert w
 | Combo-Farben zurücksetzen | Setzt alle Combo-Farben zurück. |
 | Pausen zurücksetzen | Setzt alle Pausen zurück. Funktioniert nicht bei automatisch platzierten Pausen, die übermäßigen HP-Drain verhindern. |
 
-### Befehle zum Stubsen
+### Befehle zum Stupsen
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Stubs zurück (`J`) | Bewegt Hit-Objekt(e) abhängig vom Taktteiler um einen Beat zurück. |
+| Stups zurück (`J`) | Bewegt Hit-Objekt(e) abhängig vom Taktteiler um einen Beat zurück. |
 | Stubs vorwärts (`K`) | Bewegt Hit Objekt(e) abhängig vom Taktteiler um einen Beat nach vorne. |
 
 ## Ansicht
@@ -246,4 +246,4 @@ Interessante Dinge.
 | Name | Beschreibung |
 | :-- | :-- |
 | Ingame-Hilfe anzeigen (`H`) | Öffnet im Editor ein Fenster mit hilfreichen Informationen. |
-| FAQ anzeigen | Du wirst zum [FAQ](/wiki/FAQ) weitergeleitet. |
+| FAQ anzeigen | Verlinkt nach [Beatmapping](/wiki/Beatmapping) |
