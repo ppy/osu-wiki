@@ -10,7 +10,7 @@ Delve into the inner workings behind the future of sound design in osu!(lazer), 
 
 Sound design relates to how any particular sound can make its listener *feel*. The sound itself can be anything from the pop and fizz when opening a can of Coca-Cola, to the continuous rumble of a car engine. In video games, sounds need to match the things players interact with, so for osu! the question is: "what sounds should things like a circle, button, or a toggle have?"
 
-osu!'s new client intends to answer that question with lots of brand new changes, including additional sound effects to suit the new design. If you are wondering where they come from or how they are made, keep reading along for an interview with [nekodex](https://osu.ppy.sh/users/102), the person behind the sound design of osu!(lazer).
+osu!'s new client intends to answer that question with lots of brand-new changes, including additional sound effects to suit the new design. If you are wondering where they come from or how they are made, keep reading along for an interview with [nekodex](https://osu.ppy.sh/users/102), the person behind the sound design of osu!(lazer).
 
 nekodex is a full-stack engineer born in Australia who joined the osu! team as a web developer in 2015 after peppy asked if he was interested in helping rebuild the osu! website. nekodex has been with the team ever since, working on various features such as the review system for beatmap modding, the chat system and much more, but today he describes himself as a hybrid audio designer/developer and isn't too involved in the web side of things anymore. 
 
