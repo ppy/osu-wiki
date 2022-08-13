@@ -484,7 +484,7 @@ Monday, 4 April 2022:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **AbejaIvan** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: M4rti\_ | [#1](https://osu.ppy.sh/community/matches/99418865) |
-| **NHarmonia** ::{ flag=ES }:: | **6** | 3 | ::{ flag=ES }:: Josde | [#1](https://osu.ppy.sh/community/matches/99420145) |/
+| **NHarmonia** ::{ flag=ES }:: | **6** | 3 | ::{ flag=ES }:: Josde | [#1](https://osu.ppy.sh/community/matches/99420145) |
 
 Tuesday, 5 April 2022:
 
@@ -500,9 +500,9 @@ Saturday, 26 March 2022:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | G | **Velocitz** ::{ flag=ES }:: | **6** | 3 | ::{ flag=ES }:: comandocYT | [#1](https://osu.ppy.sh/community/matches/99122728) |
 | H | **Pagoz** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: DrakoJ | [#1](https://osu.ppy.sh/community/matches/99123707) |
-| E | Jairofrancaso ::{ flag=ES }:: | 0 | **6** | ::{ flag=ES }:: **BabyScylla** | [#1](https://osu.ppy.sh/mp/99125861) |
-| F | **laGmaN** ::{ flag=ES }:: | **6** | 2 | ::{ flag=ES }:: TwitchDanteX10\_ | [#1](https://www.osu.ppy.sh/mp/99127811) |
-| F | **AVlad** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: -Wind | [#1](https://www.osu.ppy.sh/mp/99127811) |
+| E | Jairofrancaso ::{ flag=ES }:: | 0 | **6** | ::{ flag=ES }:: **BabyScylla** | [#1](https://osu.ppy.sh/community/matches/99125861) |
+| F | **laGmaN** ::{ flag=ES }:: | **6** | 2 | ::{ flag=ES }:: TwitchDanteX10\_ | [#1](https://osu.ppy.sh/community/matches/99127811) |
+| F | **AVlad** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: -Wind | [#1](https://osu.ppy.sh/community/matches/99127811) |
 | E | **\[-Chitoge-\]** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: Edrran | [#1](https://osu.ppy.sh/community/matches/99130889) |
 | B | **Widelux13** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: Alvaroping1 | [#1](https://osu.ppy.sh/community/matches/99130927) |
 | C | **Radiownd** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: M4rti\_ | [#1](https://osu.ppy.sh/community/matches/99132976) |
@@ -515,9 +515,9 @@ Sunday, 27 March 2022:
 | B | **Josde** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: Destrox | [#1](https://osu.ppy.sh/community/matches/99158966) |
 | C | **Hong Meiling** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: - Sprite - | [#1](https://osu.ppy.sh/community/matches/99161245) |
 | H | DrakoJ ::{ flag=ES }:: | -1 | **0** | ::{ flag=ES }:: **Hide in room** | *win by default* |
-| D | **Kingof** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: alfa | [#1](https://osu.ppy.sh/mp/99162800) |
-| E | **Jairofrancaso** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: \[-Chitoge-\] | [#1](https://osu.ppy.sh/mp/99164632) |
-| G | **Sakorii** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: B of yassin | [#1](https://osu.ppy.sh/mp/99164632) |
+| D | **Kingof** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: alfa | [#1](https://osu.ppy.sh/community/matches/99162800) |
+| E | **Jairofrancaso** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: \[-Chitoge-\] | [#1](https://osu.ppy.sh/community/matches/99164632) |
+| G | **Sakorii** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: B of yassin | [#1](https://osu.ppy.sh/community/matches/99164632) |
 | H | - Izayoi - ::{ flag=ES }:: | -1 | **0** | ::{ flag=ES }:: **Hide in room** | *win by default* |
 | A | **G M A I L** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: R a c e | [#1](https://osu.ppy.sh/community/matches/99171307) |
 
@@ -525,8 +525,8 @@ Monday, 28 March 2022:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| B | Alvaroping1 ::{ flag=ES }:: | 3 | **6** | ::{ flag=ES }:: **Josde** | [#1](https://osu.ppy.sh/mp/99191314) |
-| A | **-Hideki-** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: Jerkie | [#1](https://osu.ppy.sh/mp/99194408) |
+| B | Alvaroping1 ::{ flag=ES }:: | 3 | **6** | ::{ flag=ES }:: **Josde** | [#1](https://osu.ppy.sh/community/matches/99191314) |
+| A | **-Hideki-** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: Jerkie | [#1](https://osu.ppy.sh/community/matches/99194408) |
 | G | B of yassin ::{ flag=ES }:: | -1 | **0** | ::{ flag=ES }:: **Velocitz** | *win by default* |
 | C | **M4rti\_** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: Hong Meiling | [#1](https://osu.ppy.sh/community/matches/99196090) |
 | D | **CharlioM9** ::{ flag=ES }:: | **6** | 3 | ::{ flag=ES }:: Kingof | [#1](https://osu.ppy.sh/community/matches/99199431) |
