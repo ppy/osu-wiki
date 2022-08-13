@@ -583,10 +583,10 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 1. The group will consist of 8 groups of 4 players with total potential of 24 matches.
 2. The group seeding will be mixed of players that passed the qualifiers stage between seed #17 and #48. Following example is how the seeding will be simulated:
-   - Group A has 4 players; they are the seed #17, #32, #33, and #48
-   - Seed #17 and #32 first, will have a match to determine who can move on to the knockout stage directly, but for the who loses the match will have to compete in the group stage
-   - Seed #33 and #48 will also have a match, whoever loses this one will be eliminated, the one who wins will compete against the seed #17 and #32.
-   - For the final time the winner from both match will compete against each other and whoever wins will secure their spot in the knockout stage.
+   - Group A has 4 players; they are seed #17, #32, #33, and #48
+   - Seed #17 and #32 first, will have a match to determine who can move on to the knockout stage directly, but for the one who loses the match, they will have to compete in the group stage
+   - Seed #33 and #48 will also have a match, whoever loses this one will be eliminated, the one who wins will compete against the loser of seed #17 and #32.
+   - For the final time the loser from seed #17 and #32 will compete against winner from seed #33 and #48 and whoever wins will secure their spot in the knockout stage.
 3. With the mentioned simulation above, there will be only 2 players from each group that can make it to the knockout stage.
 
 ### Match regulations
