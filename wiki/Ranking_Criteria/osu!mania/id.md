@@ -1,8 +1,8 @@
 # Ranking criteria osu!mania
 
-**Ranking Criteria osu!mania** merupakan peraturan dan pedoman yang berlaku untuk pembuatan tingkat kesulitan spesifik osu!mania. Untuk dapat membuat tingkat kesulitan spesifik osu!mania diwajibkan mematuhi kriteria yang tercantum. Meskipun **semua aturan wajib diikuti dalam keadaan apa pun**, namun pedoman dapat diabaikan dalam kasus tertentu. Kasus tertentu ini harus dapat dibenarkan dengan penjelasan yang lengkap tentang mengapa pedoman tersebut diabaikan dan alasan mengapa tidak mengabaikannya akan mengganggu kualitas keseluruhan pembuatan.
+***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_Criteria).***
 
-Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Setiap aturan yang melalui proses diskusi dan persetujuan komunitas dicantumkan di sini sebagaimana telah disepakati pada masing-masing utas diskusi.
+**Ranking criteria osu!mania** menjabarkan [aturan dan pedoman](/wiki/Ranking_Criteria#istilah-umum) spesifik untuk [beatmap](/wiki/Beatmap) [osu!mania](/wiki/Game_mode/osu!mania) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
 ## Glosarium
 
