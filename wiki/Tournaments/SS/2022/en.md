@@ -80,7 +80,13 @@ The Spanish Showdown 2022 was run by various community members.
 
 ## Podium
 
-![](img/podium.jpg "SS 2022 podium")
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ES }:: **[A N T O N I O](https://osu.ppy.sh/users/12760743)** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ES }:: **[Estopa](https://osu.ppy.sh/users/4470553)** |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ES }:: **[NHarmonia](https://osu.ppy.sh/users/9582556)** |
 
 ## Mappools
 
