@@ -10,7 +10,7 @@ While they're best known for producing background tracks for *Blue Archive*, it'
 
 A master of variety, Korean composer **Mitsukiyo** designs cute and casual tunes ranging from hybrid jazz to modern electronic to even modern J-pop, providing just about anything an osu! mapper could desire.
 
-[**Mitsukiyo**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/292) is the new home for **12** of those ultra-catchy tunes. Pick up a song and begin crafting your magnum opus beatmap.
+[**Mitsukiyo**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/292) is the new home for **12** of those ultra catchy tunes. Pick up a song and begin crafting your magnum opus beatmap.
 
 Not sure where to start? Here's a few previews to give you a sample of **Mitsukiyo**'s works, including a special osu!taiko touchscreen showcase video featuring [mangomizer](https://osu.ppy.sh/users/1893718) playing [Mitsukiyo - Dream Leaf](https://osu.ppy.sh/beatmapsets/1792033). Check it all out:
 
