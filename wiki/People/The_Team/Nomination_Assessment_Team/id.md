@@ -57,7 +57,6 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluasi |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Jerman, Serbia | Evaluasi |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluasi |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanyol, Perancis | Evaluasi |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Belanda | Evaluasi |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polski | Evaluasi |
 

@@ -51,7 +51,6 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 评估 |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 德语，塞尔维亚语 | 评估 |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | 评估 |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | 西班牙语，法语 | 评估 |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 荷兰语 | 评估 |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 波兰语 | 评估 |
 

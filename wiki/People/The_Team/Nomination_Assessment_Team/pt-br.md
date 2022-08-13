@@ -57,7 +57,6 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Avaliação |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemão, sérvio | Avaliação |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Avaliação |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Espanhol, francês | Avaliação |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | Avaliação |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polonês | Avaliação |
 

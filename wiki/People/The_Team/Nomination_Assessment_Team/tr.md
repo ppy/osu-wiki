@@ -57,7 +57,6 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Değerlendirme |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Almanca, Sırpça | Değerlendirme |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Değerlendirme |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | İspanyolca, Fransızca | Değerlendirme |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Felemenkçe | Değerlendirme |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Lehçe | Değerlendirme |
 
