@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The sound design of lazer"
-date: 2022-07-31 00:00:00 +0000
+title: "The Sound Design of osu!(lazer)"
+date: 2022-08-14 08:00:00 +0000
 ---
 
-Learn about the inner workings behind the future sound of osu!
+Delve into the inner workings behind the future of sound design in osu!(lazer), featuring an interview with nekodex, the mind behind it all!
 
 ![](/wiki/shared/news/2022-07-31-lazer-sound-design/banner.png)
 
