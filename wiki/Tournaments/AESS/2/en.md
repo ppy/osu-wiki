@@ -1,7 +1,7 @@
 ---
 tags:
-  - AESS2
-  - Aetherian's Summer Singles
+  - AESS
+  - AESS 2
 ---
 
 # Aetherian's Summer Singles 2
@@ -34,7 +34,7 @@ The **Aetherian's Summer Singles 2** (***AESS2***) was a 1v1 double-elimination 
 | *5th–6th place* | 2 months of osu!supporter |
 | *7th–8th place* | 1 month of osu!supporter |
 
-![badge](img/badge.png "AESS2 winner badge")
+![](img/badge.png "AESS2 winner badge")
 
 ## Organisation
 
@@ -62,12 +62,12 @@ The Aetherian's Summer Singles 2 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| 1–8 | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650), ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437), ::{ flag=RO }:: [SatonoDiamond](https://osu.ppy.sh/users/12366071), ::{ flag=US }:: [Swiq_](https://osu.ppy.sh/users/11269055), ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961), ::{ flag=US }:: [WillCookie](https://osu.ppy.sh/users/6404488), ::{ flag=US }:: [Jacob3](https://osu.ppy.sh/users/13628898), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058) |
+| 1–8 | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650), ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437), ::{ flag=RO }:: [SatonoDiamond](https://osu.ppy.sh/users/12366071), ::{ flag=US }:: [Swiq\_](https://osu.ppy.sh/users/11269055), ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961), ::{ flag=US }:: [WillCookie](https://osu.ppy.sh/users/6404488), ::{ flag=US }:: [Jacob3](https://osu.ppy.sh/users/13628898), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058) |
 | 9–16 | ::{ flag=US }:: [Venpris](https://osu.ppy.sh/users/8861593), ::{ flag=US }:: [-Koda](https://osu.ppy.sh/users/12260184), ::{ flag=DE }:: [rundyyy](https://osu.ppy.sh/users/10917620), ::{ flag=CA }:: [noncycle](https://osu.ppy.sh/users/12701607), ::{ flag=JE }:: [rudj](https://osu.ppy.sh/users/11592896), ::{ flag=US }:: [EzChock](https://osu.ppy.sh/users/9276293), ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687), ::{ flag=US }:: [DarkScrap](https://osu.ppy.sh/users/13241562) |
 | 17–24 | ::{ flag=CL }:: [Danidesu](https://osu.ppy.sh/users/2748187), ::{ flag=IL }:: [Galog](https://osu.ppy.sh/users/7799629), ::{ flag=PL }:: [gnahus](https://osu.ppy.sh/users/12779141), ::{ flag=NZ }:: [Saiyku](https://osu.ppy.sh/users/13767572), ::{ flag=DE }:: [aahoff](https://osu.ppy.sh/users/11371245), ::{ flag=SG }:: [200201envenho](https://osu.ppy.sh/users/8152145), ::{ flag=ID }:: [-Reuto-](https://osu.ppy.sh/users/10717635), ::{ flag=SG }:: [GSBlank](https://osu.ppy.sh/users/2312106) |
 | 25–32 | ::{ flag=UK }:: [Mahmood](https://osu.ppy.sh/users/7627844), ::{ flag=SE }:: [TOnyrino](https://osu.ppy.sh/users/7338010), ::{ flag=DE }:: [Tim Kackner](https://osu.ppy.sh/users/14385814), ::{ flag=RO }:: [Kehest](https://osu.ppy.sh/users/6145000), ::{ flag=US }:: [Olympia](https://osu.ppy.sh/users/5357992), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=US }:: [Raoul](https://osu.ppy.sh/users/9924405) |
 
-See [this spreadsheet](https://docs.google.com/spreadsheets/d/1ESDw34gBfnDWwUrXEPZNxsi4MN89p156aIYP4RYbuYs/edit#gid=0) for a list of all participants.
+The list of all participants can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1ESDw34gBfnDWwUrXEPZNxsi4MN89p156aIYP4RYbuYs/edit#gid=0).
 
 ## Podium
 
@@ -78,7 +78,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
-| *4th place* | ::{ flag=US }:: [Swiq_](https://osu.ppy.sh/users/11269055) |
+| *4th place* | ::{ flag=US }:: [Swiq\_](https://osu.ppy.sh/users/11269055) |
 
 ## Mappools
 
@@ -105,14 +105,14 @@ This competition has come to an end and resulted in the following podium:
   1. [LiSA - Jet Rocket (Wen) [Kowari's Extra]](https://osu.ppy.sh/beatmapsets/1189927#osu/2492022)
   2. [Unlucky Morpheus - Endless Control (Kurashina Asuka) [Lunatic]](https://osu.ppy.sh/beatmapsets/1809003#osu/3710294)
   3. [SHIKI - Pure Ruby (reiSevia) [Another]](https://osu.ppy.sh/beatmapsets/1282017#osu/2662785)
-  4. [Nanamori-chu * Goraku-bu - Happy Time wa Owaranai (deadcode) [Insane]](https://osu.ppy.sh/beatmapsets/935707#osu/1967172)
+  4. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (deadcode) [Insane]](https://osu.ppy.sh/beatmapsets/935707#osu/1967172)
 - Tiebreaker
   1. **[Team Grimoire vs. Laur - Grievous Lady -nothing is but what is not- (captin1) [Anomaly]](https://osu.ppy.sh/beatmapsets/1076403#osu/2252249)**
 
 ### Finals
 
 - NoMod
-  1. [Kishida Kyoudan & The Akeboshi Rockets - GATE ~Sore wa Akatsuki no Youni~ (Yusomi) [Dawn]](https://osu.ppy.sh/beatmapsets/499455#osu/1063000)
+  1. [Kishida Kyoudan & The Akeboshi Rockets - GATE \~Sore wa Akatsuki no Youni\~ (Yusomi) [Dawn]](https://osu.ppy.sh/beatmapsets/499455#osu/1063000)
   2. [Plum - Dustwind (knowledgeking) [Hikuptah]](https://osu.ppy.sh/beatmapsets/1450157#osu/2981463)
   3. [Nanjo Yoshino x Kayano Ai (as Shirabe Tsukuyomi x Kirika Akatsuki) - Edge Works of Goddess ZABABA (Anxient) [NM4]](https://osu.ppy.sh/beatmapsets/600902#osu/3650435)
   4. [Mitsuyoshi Takenobu no Ani - Amphisbaena (Ameth Rianno) [Serpentine]](https://osu.ppy.sh/beatmapsets/641676#osu/1360599)
@@ -143,7 +143,7 @@ This competition has come to an end and resulted in the following podium:
   2. [xi - over the top (AMX) [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmapsets/801498#osu/1682412)
   3. [otetsu - Meiteki Cybernetics (Raijodo) [Collab Extra]](https://osu.ppy.sh/beatmapsets/1317461#osu/2729687)
   4. [Getty vs. DJ DiA - Antifront Gears (Realazy) [Assault]](https://osu.ppy.sh/beatmapsets/1103463#osu/2305315)
-  5. [MisoilePunch ~Take No Complete~ - Levier'n NabYss (Elcheer) [MAXIMUM]](https://osu.ppy.sh/beatmapsets/1581134#osu/3228585)
+  5. [MisoilePunch \~Take No Complete\~ - Levier'n NabYss (Elcheer) [MAXIMUM]](https://osu.ppy.sh/beatmapsets/1581134#osu/3228585)
   6. [Hakushi Hasegawa - Sabaku de (dsco) [iPhone Six Plus]](https://osu.ppy.sh/beatmapsets/1360892#osu/2815972)
 - Hidden
   1. [himeringo - Cruel Clocks (GranDSenpai) [The Eternal Passage of Time]](https://osu.ppy.sh/beatmapsets/1728939#osu/3533412)
@@ -156,7 +156,7 @@ This competition has come to an end and resulted in the following podium:
   3. [onoken - ZADAMGA (Down) [Luscent's Extra]](https://osu.ppy.sh/beatmapsets/1492550#osu/3188917)
   4. [Zekk - Duplication (Realazy) [Extra]](https://osu.ppy.sh/beatmapsets/1132727#osu/2371698)
 - DoubleTime
-  1. [Minase Inori, Hanazawa Kana, Iguchi Yuka, Hayami Saori - Koko kara, Koko kara (Asuka_-) [Sora]](https://osu.ppy.sh/beatmapsets/840217#osu/1758793)
+  1. [Minase Inori, Hanazawa Kana, Iguchi Yuka, Hayami Saori - Koko kara, Koko kara (Asuka\_-) [Sora]](https://osu.ppy.sh/beatmapsets/840217#osu/1758793)
   2. [ZUN - Shoujo Kisoukyoku ~ Dream Battle (Kurashina Asuka) [Lunatic]](https://osu.ppy.sh/beatmapsets/1575649#osu/3216909)
   3. [Eternal Tears Of Sorrow - Another Me (LMT) [Insane]](https://osu.ppy.sh/beatmapsets/1271974#osu/3107972)
   4. [Wednesday Campanella - Nishi Tamao (jasontime12345) [Corsace]](https://osu.ppy.sh/beatmapsets/1549805#osu/3167107)
@@ -232,7 +232,7 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   1. [Akatsuki Records - WARNING x WARNING x WARNING (Xenon-) [Insane]](https://osu.ppy.sh/beatmapsets/860440#osu/1813044)
   2. [Endorfin. - Raindrop Caffe Latte (ImpurePug) [Insane]](https://osu.ppy.sh/beatmapsets/1262556#osu/2624225)
-  3. [dj TAKA - Colors -sasakure.UK Futurelogic Remix- (wa_) [Hyper]](https://osu.ppy.sh/beatmapsets/317439#osu/1319822)
+  3. [dj TAKA - Colors -sasakure.UK Futurelogic Remix- (wa\_) [Hyper]](https://osu.ppy.sh/beatmapsets/317439#osu/1319822)
 - Tiebreaker
   1. **[Emille's Moonlight Serenade - Kimi no Na wo Hibikasete (Senseabel) [a promise beyond the sky]](https://osu.ppy.sh/beatmapsets/938781#osu/1961046)**
 
@@ -244,7 +244,7 @@ This competition has come to an end and resulted in the following podium:
   3. [KINEMA106 - IMPERIAL PARADE (Atalanta) [WORSHIP ME!!!]](https://osu.ppy.sh/beatmapsets/1569800#osu/3205635)
   4. [Zekk - Re_Construct (Acylica) [captin's Extra(#4)]](https://osu.ppy.sh/beatmapsets/1318329#osu/3136135)
 - Hidden
-  1. [Fujikawa Chiai - Gomi no Hi (a_Blue) [Extra]](https://osu.ppy.sh/beatmapsets/1235121#osu/2729414)
+  1. [Fujikawa Chiai - Gomi no Hi (a\_Blue) [Extra]](https://osu.ppy.sh/beatmapsets/1235121#osu/2729414)
   2. [BAND-MAID - Spirit!! (Lasse) [Expert!!]](https://osu.ppy.sh/beatmapsets/1306578#osu/2709014)
 - HardRock
   1. [BUD VIRGIN LOGIC - x Senritsu -Schlehit Melodie- (Mordred) [Lasse's Bud Light Extra]](https://osu.ppy.sh/beatmapsets/1569807#osu/3217086)
@@ -281,19 +281,19 @@ Saturday, July 16, 2022
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **mcy4** | **7** | 3 | -Reuto- | [#1](https://osu.ppy.sh/community/matches/102310621) |
-| WillCookie | 1 | **7** | **Swiq_** | [#1](https://osu.ppy.sh/community/matches/102321669) |
+| WillCookie | 1 | **7** | **Swiq\_** | [#1](https://osu.ppy.sh/community/matches/102321669) |
 
 Sunday, July 17, 2022
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Swiq_ | 0 | **7** | **mcy4** | [#1](https://osu.ppy.sh/community/matches/102341595) |
+| Swiq\_ | 0 | **7** | **mcy4** | [#1](https://osu.ppy.sh/community/matches/102341595) |
 | **maliszewski** | **7** | 2 | [Karcher] | [#1](https://osu.ppy.sh/community/matches/102337887) |
 
 ### Semifinals
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1_G1Nl-bDAJCUrPfiEsYCUn3AsXlVdJe9Mw4P4_tziQc/edit#gid=795207119).
 
-Friday, July 8, 2022
+Friday, July 8, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -304,7 +304,7 @@ Saturday, July 9, 2022
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **GSBlank** | **6** | 1 | Saiyku | [#1](https://osu.ppy.sh/community/matches/102127956) |
-| **Swiq_** | **0** | -1 | Jakson | *forfeit* |
+| **Swiq\_** | **0** | -1 | Jakson | *forfeit* |
 | **-Reuto-** | **0** | -1 | rundyyy | *forfeit* |
 | **[Karcher]** | **6** | 0 | WillCookie | [#1](https://osu.ppy.sh/community/matches/102120655) |
 
@@ -313,7 +313,7 @@ Sunday, July 10, 2022
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | EzChock | 3 | **6** | **noncycle** | [#1](https://osu.ppy.sh/community/matches/102145896) |
-| **Swiq_** | **6** | 2 | GSBlank | [#1](https://osu.ppy.sh/community/matches/102161740) |
+| **Swiq\_** | **6** | 2 | GSBlank | [#1](https://osu.ppy.sh/community/matches/102161740) |
 | noncycle | -1 | **0** | **-Reuto-** | *forfeit* |
 
 ### Quarterfinals
@@ -373,7 +373,7 @@ Saturday, June 25, 2022
 | **Kehest** | **5** | 4 | aahoff | [#1](https://osu.ppy.sh/community/matches/101763787) |
 | **mcy4** | **5** | 2 | DarkScrap | [#1](https://osu.ppy.sh/community/matches/101763792) |
 | Mahmood | 3 | **5** | **GSBlank** | [#1](https://osu.ppy.sh/community/matches/101767442) |
-| **Swiq_** | 0 | **-1** | rudj | *forfeit* |
+| **Swiq\_** | 0 | **-1** | rudj | *forfeit* |
 | maliszewski | **5** | 0 | noncycle | [#1](https://osu.ppy.sh/community/matches/101767849) |
 | SatonoDiamond | -1 | **0** | **EzChock** | *forfeit* |
 | **WillCookie** | **5** | 3 | 200201envenho | [#1](https://osu.ppy.sh/community/matches/101753576) |
@@ -383,7 +383,7 @@ Sunday, June 26, 2022
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Raoul** | **5** | 1 | Danidesu | [#1](https://osu.ppy.sh/community/matches/101802795) |
-| Em_Rald | 3 | **5** | **Saiyku** | [#1](https://osu.ppy.sh/community/matches/101779305) |
+| Em\_Rald | 3 | **5** | **Saiyku** | [#1](https://osu.ppy.sh/community/matches/101779305) |
 | Jacob3 | -1 | **0** | **-Koda** | *forfeit* |
 | **Nev-** | **0** | -1 | gnahus | [#1](https://osu.ppy.sh/community/matches/101792972) |
 | [Karcher] | **5** | 0 | BoshyMan741 | [#1](https://osu.ppy.sh/community/matches/101780102) |
@@ -422,7 +422,7 @@ Saturday, June 18, 2022
 | **DarkScrap** | **5** | 3 | Danidesu | [#1](https://osu.ppy.sh/community/matches/101579995) |
 | Jakson | 3 | **5** | **Mahmood** | [#1](https://osu.ppy.sh/community/matches/101578040) |
 | Venpris | -1 | **0** | **GSBlank** | *forfeit* |
-| **Swiq_** | **5** | 3 | Em_Rald | [#1](https://osu.ppy.sh/community/matches/101581530) |
+| **Swiq\_** | **5** | 3 | Em\_Rald | [#1](https://osu.ppy.sh/community/matches/101581530) |
 | **rudj** | **5** | 0 | Saiyku | [#1](https://osu.ppy.sh/community/matches/101568361) |
 | **maliszewski** | **5** | 1 | Kehest | [#1](https://osu.ppy.sh/community/matches/101568987) |
 | **noncycle** | **5** | 0 | aahoff | [#1](https://osu.ppy.sh/community/matches/101576687) |
