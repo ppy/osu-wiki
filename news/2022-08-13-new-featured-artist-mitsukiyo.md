@@ -30,7 +30,7 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1792033) hoste
 
 ### Mutual Panorama (feat. Aitsuki Nakuru)
 
-Or try [this brand new showcase beatmap](https://osu.ppy.sh/beatmapsets/1806127) hosted by [Ayesha Altugle](https://osu.ppy.sh/users/1125647)!
+Or try [this brand-new showcase beatmap](https://osu.ppy.sh/beatmapsets/1806127) hosted by [Ayesha Altugle](https://osu.ppy.sh/users/1125647)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/292/Balloon%20Party%2FMitsukiyo%20-%20Mutual%20Panorama%20(feat.%20Aitsuki%20Nakuru).mp3" type="audio/mpeg">
@@ -38,7 +38,7 @@ Or try [this brand new showcase beatmap](https://osu.ppy.sh/beatmapsets/1806127)
 
 ### Kimi to Boku no Sekai (feat. \*namirin)
 
-Orrrrrrrr try [this other brand new showcase beatmap](https://osu.ppy.sh/beatmapsets/1806117) hosted by [Amateurre](https://osu.ppy.sh/users/7326908)!
+Orrrrrrrr try [this other brand-new showcase beatmap](https://osu.ppy.sh/beatmapsets/1806117) hosted by [Amateurre](https://osu.ppy.sh/users/7326908)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/292/Balloon%20Party%2FMitsukiyo%20-%20Kimi%20to%20Boku%20no%20Sekai%20(feat.%20namirin).mp3" type="audio/mpeg">
