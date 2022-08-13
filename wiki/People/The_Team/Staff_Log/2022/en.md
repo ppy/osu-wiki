@@ -315,6 +315,9 @@ Abbreviations for user groups are used throughout this log:
 
 ## July
 
+2022-07-24: Moved [Shoegazer](https://osu.ppy.sh/users/2520707) from **GMT** to **osu! Alumni**
+2022-07-27: Added [Uberzolik](https://osu.ppy.sh/users/1314547) to **osu! Alumni**
+
 ### Beatmap Nominators
 
 #### Additions
@@ -323,6 +326,9 @@ Abbreviations for user groups are used throughout this log:
 - 2022-07-06: Added [Vararaup](https://osu.ppy.sh/users/8257675) to **Probationary BN**
 - 2022-07-13: Added [Burak](https://osu.ppy.sh/users/13213075) to **Probationary BN**
 - 2022-07-15: Added [Okoratu](https://osu.ppy.sh/users/1623405) to **Probationary BN**
+- 2022-07-23: Added [Lumenite-](https://osu.ppy.sh/users/6256027) to **Probationary BN**
+- 2022-07-30: Added [-Ming-](https://osu.ppy.sh/users/20127755) to **Probationary BN**
+- 2022-07-31: Added [Syadow-](https://osu.ppy.sh/users/3484485) to **Probationary BN**
 
 #### Moves
 
@@ -336,6 +342,11 @@ Abbreviations for user groups are used throughout this log:
 - 2022-07-16: Moved [KuroKuroKuro](https://osu.ppy.sh/users/11931563) from **Probationary BN** to **BN**
 - 2022-07-18: Moved [Antalf](https://osu.ppy.sh/users/11931563) from **Probationary BN** to **BN**
 - 2022-07-18: Moved [Touru0711](https://osu.ppy.sh/users/8625854) from **Probationary BN** to **BN**
+- 2022-07-24: Moved [Sotarks](https://osu.ppy.sh/users/4452992) from **BN** to **Probationary BN**
+- 2022-07-24: Moved [-Syncro](https://osu.ppy.sh/users/4338923) from **BN** to **Probationary BN**
+- 2022-07-27: Moved [Len](https://osu.ppy.sh/users/1686145) from **Probationary BN** to **BN**
+- 2022-07-27: Moved [Uberzolik](https://osu.ppy.sh/users/1314547) from **NAT** to **BN**
+- 2022-07-29: Moved [rew0825](https://osu.ppy.sh/users/2488026) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -349,5 +360,23 @@ Abbreviations for user groups are used throughout this log:
 - 2022-07-18: Removed [Myxo](https://osu.ppy.sh/users/2202645) from **BN**
 - 2022-07-18: Removed [D3kuu](https://osu.ppy.sh/users/7807444) from **Probationary BN**
 - 2022-07-18: Removed [Chromoxx](https://osu.ppy.sh/users/1881639) from **BN**
+- 2022-07-24: Removed [MeAqua tete](https://osu.ppy.sh/users/5645691) from **BN**
+- 2022-07-29: Removed [-Keitaro](https://osu.ppy.sh/users/3378391) from **BN**
+- 2022-07-30: Removed [secXcscX](https://osu.ppy.sh/users/13543418) from **BN**
 
-<!-- updated as of July 19, 2022 @ 05:30 UTC, removed Chromoxx from BN -->
+## August
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2022-08-02: Added [Noffy](https://osu.ppy.sh/users/1541323) to **BN**
+- 2022-08-02: Added [BlackBN](https://osu.ppy.sh/users/6291741) to **Probationary BN**
+
+#### Moves
+
+#### Removals
+
+- 2022-08-10: Removed [CallMeLyra](https://osu.ppy.sh/users/15272997) from **BN**
+- 2022-08-10: Removed [Aakki](https://osu.ppy.sh/users/11077540) from **BN**
+<!-- updated as of August 13, 2022 @ 05:30 UTC, removed Aakki from BN -->
