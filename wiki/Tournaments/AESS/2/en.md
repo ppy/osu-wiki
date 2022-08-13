@@ -50,7 +50,7 @@ The Aetherian's Summer Singles 2 was run by various community members.
 | Streamer | ::{ flag=CA }:: [Drou](https://osu.ppy.sh/users/415932), ::{ flag=DE }:: [Dragoncurve](https://osu.ppy.sh/users/6675367) |
 | Commentator | ::{ flag=CA }:: [Drou](https://osu.ppy.sh/users/415932), ::{ flag=US }:: [-Koda](https://osu.ppy.sh/users/12260184), ::{ flag=FI }:: [Death Grips](https://osu.ppy.sh/users/10632187), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334) |
 | Graphic designer | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
-| Referee | ::{ flag=FI }:: [Eliaasi](https://osu.ppy.sh/users/9690571), ::{ flag=CA }:: [dinonesie](https://osu.ppy.sh/users/18315188), ::{ flag=PH }:: [-Pekora-](https://osu.ppy.sh/users/17959882), ::{ flag=TH }:: [- Mirage -](https://osu.ppy.sh/users/2298513), ::{ flag=ES }:: [Bubble-](https://osu.ppy.sh/users/10559526), ::{ flag=VN }:: [namiee](https://osu.ppy.sh/users/14279837), ::{ flag=ZA }:: KaedeSnowyyy, ::{ flag=DE }:: Tayuno, ::{ flag=CA }:: [atokymat](https://osu.ppy.sh/users/11465676), ::{ flag=US }:: [ROB_](https://osu.ppy.sh/users/12455868) |
+| Referee | ::{ flag=FI }:: [Eliaasi](https://osu.ppy.sh/users/9690571), ::{ flag=CA }:: [dinonesie](https://osu.ppy.sh/users/18315188), ::{ flag=PH }:: [-Pekora-](https://osu.ppy.sh/users/17959882), ::{ flag=TH }:: [- Mirage -](https://osu.ppy.sh/users/2298513), ::{ flag=ES }:: [Bubble-](https://osu.ppy.sh/users/10559526), ::{ flag=VN }:: [namiee](https://osu.ppy.sh/users/14279837), ::{ flag=ZA }:: KaedeSnowyyy, ::{ flag=DE }:: Tayuno, ::{ flag=CA }:: [atokymat](https://osu.ppy.sh/users/11465676), ::{ flag=US }:: [ROB\_](https://osu.ppy.sh/users/12455868) |
 
 ## Links
 
