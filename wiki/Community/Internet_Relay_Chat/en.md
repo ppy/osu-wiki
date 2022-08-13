@@ -44,6 +44,7 @@ By default, many IRC clients inform you when a user joins or leaves a channel. F
 | [ircII](http://www.eterna.com.au/ircii/) | Type `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | Type `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | Type `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [Konversation](https://konversation.kde.org/) | Check "Hide Join/Part/Nick Events" under `Settings` -> `Configure Konversation...` (`Ctrl` + `Shift` + `,`) -> `Behavior` -> `Chat Window` |
 | [KVIrc](https://www.kvirc.net/) | (Refer to [the KVIrc wiki page](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
 | [mIRC](https://www.mirc.com/) | Go to mIRC Options (`Tools` -> `Options`, or `Alt` + `O`), select `IRC`, click the `Events...` button and select `Hide` for joins and parts |
 | [Quassel IRC](https://quassel-irc.org/) | Right-click inside the chat and choose Joins/Parts/Quits in the "Hide Events" menu |
