@@ -259,13 +259,13 @@ This competition has come to an end and resulted in the following podium:
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1lbPU99YYTEbwxHZBBJEM56IT4BabsE8AUbvI925EHs4/edit#gid=795207119).
 
-Saturday, July 23, 2022
+Saturday, July 23, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[Karcher]** | **7** | 5 | mcy4 | [#1](https://osu.ppy.sh/community/matches/102491491) |
 
-Monday, July 25, 2022
+Monday, July 25, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -276,14 +276,14 @@ Monday, July 25, 2022
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Fu7K7d0XDyhL7bk5t0DxWSOihBUWojMxLYkEOAP8QIE/edit#gid=795207119).
 
-Saturday, July 16, 2022
+Saturday, July 16, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **mcy4** | **7** | 3 | -Reuto- | [#1](https://osu.ppy.sh/community/matches/102310621) |
 | WillCookie | 1 | **7** | **Swiq\_** | [#1](https://osu.ppy.sh/community/matches/102321669) |
 
-Sunday, July 17, 2022
+Sunday, July 17, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -291,6 +291,7 @@ Sunday, July 17, 2022
 | **maliszewski** | **7** | 2 | [Karcher] | [#1](https://osu.ppy.sh/community/matches/102337887) |
 
 ### Semifinals
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1_G1Nl-bDAJCUrPfiEsYCUn3AsXlVdJe9Mw4P4_tziQc/edit#gid=795207119).
 
 Friday, July 8, 2022:
@@ -299,7 +300,7 @@ Friday, July 8, 2022:
 | --: | :-: | :-: | :-- | :-- |
 | mcy4 | 4 | **6** | **maliszewski** | [#1](https://osu.ppy.sh/community/matches/102105872) |
 
-Saturday, July 9, 2022
+Saturday, July 9, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -308,7 +309,7 @@ Saturday, July 9, 2022
 | **-Reuto-** | **0** | -1 | rundyyy | *forfeit* |
 | **[Karcher]** | **6** | 0 | WillCookie | [#1](https://osu.ppy.sh/community/matches/102120655) |
 
-Sunday, July 10, 2022
+Sunday, July 10, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -320,14 +321,14 @@ Sunday, July 10, 2022
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1BQrOYXhUlkIt_2aFozCdZZjq5_3AfHVF3kCp7BSu9H4/edit#gid=795207119).
 
-Friday, July 1, 2022
+Friday, July 1, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | DarkScrap | 2 | **6** | **rundyyy** | [#1](https://osu.ppy.sh/community/matches/101930240) |
 | **[Karcher]** | **6** | 3 | -Reuto- | [#1](https://osu.ppy.sh/community/matches/101918959) |
 
-Saturday, July 2, 2022
+Saturday, July 2, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -341,7 +342,7 @@ Saturday, July 2, 2022
 | **mcy4** | **6** | 1 | GSBlank | [#1](https://osu.ppy.sh/community/matches/101949633) |
 | EzChock | 3 | **6** | **WillCookie** | [#1](https://osu.ppy.sh/community/matches/101959612) |
 
-Sunday, July 3, 2022
+Sunday, July 3, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -349,7 +350,7 @@ Sunday, July 3, 2022
 | **Saiyku** | **6** | 4 | Kehest | [#1](https://osu.ppy.sh/community/matches/101972711) |
 | Swiq_ | 2 | **6** | **maliszewski** | [#1](https://osu.ppy.sh/community/matches/101983816) |
 
-Monday, July 4, 2022
+Monday, July 4, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -360,13 +361,13 @@ Monday, July 4, 2022
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1_uXU7ASnyFu8iI59qejl3eBq0BOJmC2CK7Eyr639GvE/edit#gid=1210497130).
 
-Friday, June 24, 2022
+Friday, June 24, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Gabey** | **0** | -1 | Galog | *forfeit* |
 
-Saturday, June 25, 2022
+Saturday, June 25, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -378,7 +379,7 @@ Saturday, June 25, 2022
 | SatonoDiamond | -1 | **0** | **EzChock** | *forfeit* |
 | **WillCookie** | **5** | 3 | 200201envenho | [#1](https://osu.ppy.sh/community/matches/101753576) |
 
-Sunday, June 26, 2022
+Sunday, June 26, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -389,7 +390,7 @@ Sunday, June 26, 2022
 | [Karcher] | **5** | 0 | BoshyMan741 | [#1](https://osu.ppy.sh/community/matches/101780102) |
 | TOnyrino | 2 | **5** | **-Reuto-** | [#1](https://osu.ppy.sh/community/matches/101787986) |
 
-Monday, June 27, 2022
+Monday, June 27, 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
