@@ -48,7 +48,7 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | Mappool helper | ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=SG }:: [aeoliancarp](https://osu.ppy.sh/users/1027529), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=DK }:: [Jole](https://osu.ppy.sh/users/2883132), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052), ::{ flag=US }:: [Matthia](https://osu.ppy.sh/users/19804607), ::{ flag=ID }:: [Mipha-](https://osu.ppy.sh/users/5767941), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155), ::{ flag=US }:: [\_Seth](https://osu.ppy.sh/users/8111953) |
 | SV mapper/consultant | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=FR }:: [BlackyDay](https://osu.ppy.sh/users/5724831), ::{ flag=US }:: [Ciel](https://osu.ppy.sh/users/1455309), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=US }:: [FullCombro](https://osu.ppy.sh/users/12045149), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=BR }:: [Halo-](https://osu.ppy.sh/users/7572142), ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972), ::{ flag=PH }:: [notapplicable](https://osu.ppy.sh/users/7170536), ::{ flag=US }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
-| Commentator | ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=US }:: [Orca\-](https://osu.ppy.sh/users/7958845), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=US }:: [\-Sparky\-](https://osu.ppy.sh/users/3187959) |
+| Commentator | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=US }:: [Orca\-](https://osu.ppy.sh/users/7958845), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=US }:: [\-Sparky\-](https://osu.ppy.sh/users/3187959) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
@@ -111,10 +111,10 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
 | Japan ::{ flag=JP }:: | ::{ flag=FI }:: Finland | [Aug 13 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T100000&p1=1440&p2=248&p3=101) |
-| Malaysia ::{ flag=MY }:: | ::{ flag=CZ }:: Czech Republic | [Aug 13 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T110000&p1=1440&p2=122&p3=204) |
-| Indonesia ::{ flag=ID }:: | ::{ flag=IT }:: Italy | [Aug 13 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T120000&p1=1440&p2=108&p3=215) |
+| Singapore ::{ flag=SG }:: | ::{ flag=PL }:: Poland | [Aug 13 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T100000&p1=1440&p2=236&p3=262) |
 | Thailand ::{ flag=TH }:: | ::{ flag=SE }:: Sweden | [Aug 13 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T130000&p1=1440&p2=28&p3=239) |
-| France ::{ flag=FR }:: | ::{ flag=DE }:: Germany | [Aug 13 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T150000&p1=1440&p2=195&p3=37) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=IT }:: Italy | [Aug 13 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T140000&p1=1440&p2=108&p3=215) |
+| Peru ::{ flag=PE }:: | ::{ flag=AR }:: Argentina | [Aug 13 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T140000&p1=1440&p2=131&p3=51) |
 | Brazil ::{ flag=BR }:: | ::{ flag=NO }:: Norway | [Aug 13 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T160000&p1=1440&p2=45&p3=187) |
 | Spain ::{ flag=ES }:: | ::{ flag=CL }:: Chile | [Aug 13 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220813T170000&p1=1440&p2=141&p3=232) |
 
@@ -122,15 +122,15 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Aug 14 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T010000&p1=1440&p2=263&p3=57) |
-| Philippines ::{ flag=PH }:: | ::{ flag=NZ }:: New Zealand | [Aug 14 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T070000&p1=1440&p2=145&p3=264) |
+| United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Aug 14 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T020000&p1=1440&p2=263&p3=57) |
 | South Korea ::{ flag=KR }:: | ::{ flag=TW }:: Taiwan | [Aug 14 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T090000&p1=1440&p2=235&p3=241) |
-| Vietnam ::{ flag=VN }:: | ::{ flag=RU }:: Russian Federation | [Aug 14 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T100000&p1=1440&p2=95&p3=166) |
-| Singapore ::{ flag=SG }:: | ::{ flag=PL }:: Poland | [Aug 14 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T110000&p1=1440&p2=236&p3=262) |
+| Philippines ::{ flag=PH }:: | ::{ flag=NZ }:: New Zealand | [Aug 14 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T100000&p1=1440&p2=145&p3=264) |
+| France ::{ flag=FR }:: | ::{ flag=DE }:: Germany | [Aug 14 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T110000&p1=1440&p2=195&p3=37) |
 | China ::{ flag=CN }:: | ::{ flag=NL }:: Netherlands | [Aug 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T120000&p1=1440&p2=33&p3=16) |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=CA }:: Canada | [Aug 14 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T140000&p1=1440&p2=102&p3=188) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=CZ }:: Czech Republic | [Aug 14 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T130000&p1=1440&p2=122&p3=204) |
+| Vietnam ::{ flag=VN }:: | ::{ flag=RU }:: Russian Federation | [Aug 14 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T140000&p1=1440&p2=95&p3=166) |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=RO }:: Romania | [Aug 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T150000&p1=1440&p2=136&p3=49) |
-| Peru ::{ flag=PE }:: | ::{ flag=AR }:: Argentina | [Aug 14 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T180000&p1=1440&p2=131&p3=51) |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=CA }:: Canada | [Aug 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220814T150000&p1=1440&p2=102&p3=188) |
 
 ## Mappools
 
