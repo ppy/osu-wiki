@@ -380,8 +380,6 @@ Pour `Tag co-op`, le résultat affiché est le score total, les [jugements](/wik
 
 L'écran de résultats de `Tag-team VS` est identique à [celui de `Team VS`](#team-vs-results-screen).
 
-The `Tag-team VS` results screen is identical to the [`Team VS`'s results screen](#team-vs-results-screen).
-
 ## Le saviez-vous ?
 
 ### Historique
