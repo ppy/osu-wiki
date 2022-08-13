@@ -256,6 +256,7 @@ This competition has come to an end and resulted in the following podium:
 ## Match results
 
 ### Grand Finals
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1lbPU99YYTEbwxHZBBJEM56IT4BabsE8AUbvI925EHs4/edit#gid=795207119).
 
 Saturday, July 23, 2022
@@ -272,6 +273,7 @@ Monday, July 25, 2022
 | [Karcher] | 2 | **7** | **maliszewski** | [#1](https://osu.ppy.sh/community/matches/102551817) |
 
 ### Finals
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Fu7K7d0XDyhL7bk5t0DxWSOihBUWojMxLYkEOAP8QIE/edit#gid=795207119).
 
 Saturday, July 16, 2022
@@ -315,6 +317,7 @@ Sunday, July 10, 2022
 | noncycle | -1 | **0** | **-Reuto-** | *forfeit* |
 
 ### Quarterfinals
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1BQrOYXhUlkIt_2aFozCdZZjq5_3AfHVF3kCp7BSu9H4/edit#gid=795207119).
 
 Friday, July 1, 2022
@@ -354,6 +357,7 @@ Monday, July 4, 2022
 | **noncycle** | **6** | 3 | -Koda | [#1](https://osu.ppy.sh/community/matches/101989129) |
 
 ### Round of 16
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1_uXU7ASnyFu8iI59qejl3eBq0BOJmC2CK7Eyr639GvE/edit#gid=1210497130).
 
 Friday, June 24, 2022
@@ -393,6 +397,7 @@ Monday, June 27, 2022
 | Tim Kackner | 3 | **5** | **rundyyy** | [#1](https://osu.ppy.sh/community/matches/101817541) |
 
 ### Round of 32
+
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1QwuaJOPu-TqA8uiYSQOHrbrZZyz2W9XAMybl_SrFDHU/edit#gid=795207119).
 
 Thursday, June 16, 2022
