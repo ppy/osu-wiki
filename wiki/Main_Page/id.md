@@ -131,7 +131,7 @@ Segala sesuatu yang sekiranya dapat berguna bagi mereka yang ingin berpartisipas
   
 Semua hal yang ada di osu!, tidak terkecuali osu! wiki, utamanya dikelola dan dikembangkan oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke osu! wiki, harap kunjungi [repositori osu-wiki di situs web GitHub](https://github.com/ppy/osu-wiki).
 
-[Sejarah osu!](/wiki/History_of_osu!) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
+[Sejarah osu!](/wiki/History_of_osu!) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
 [Peta situs](/wiki/Sitemap) • [Panduan kontribusi](/wiki/osu!_wiki/Contribution_guide) • [Kriteria penulisan artikel](/wiki/Article_styling_criteria) • [Kriteria penulisan berita](/wiki/News_styling_criteria)
 
