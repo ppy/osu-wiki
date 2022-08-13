@@ -16,7 +16,6 @@ The **Spanish Showdown 2022** (***SS 2022***) was a Spanish double-elimination 1
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2022-03-04/2022-03-17 |
-| Screening phase | 2022-03-18/2022-03-20 |
 | Qualifiers | 2022-03-18/2022-03-20 |
 | Group Stage | 2022-03-26/2022-03-29 |
 | Round of 32 | 2022-04-01/2022-04-05 |
@@ -547,41 +546,73 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 ### General rules
 
-1. Spanish Showdown 2022 will use double-elimination bracket, which means that there will be a loser's bracket.
-2. Any player with Indonesian flag can participate in the tournament.
-3. Player's account must be at least 3 months old since their osu! registration and have at least 500 playcount.
-4. In order to participate, players need to be placed #10,000 or below on the osu!taiko global ranking.
-5. Players are not allowed to rank up further than #9,000 during the tournament. Passing this limit will result in disqualification.
-6. Players must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
-7. Joining the tournament's [Discord server](https://discord.gg/jUDx7hJ7Xv) is mandatory to be counted as a player.
-8. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
+1. Spanish Showdown 2022 is a **1v1 tournament** with double-elimination bracket, which means that there will be a loser's bracket.
+2. There is no rank limit regulated to participate.
+3. Any player with Spanish flag can participate in the tournament.
+4. Joining the tournament's [Discord server](https://discord.gg/jUDx7hJ7Xv) is mandatory to be counted as a player.
+5. The Score System used will be **Score V2**.
+6. Players will be ranked according to the results of the qualifying phase.
+7. During the Grand Finals, if the player coming from loser's bracket win, there will be a bracket reset and both players will play again to determine the final winner.
+8. All times will be written under UTC+2.
+9. Any members of staff **apart from organisers, mappool selectors, and referees** are allowed to play.
+10. To make sure if players' registration counted, please visit the given following [statistics sheet](https://docs.google.com/spreadsheets/d/1bcPBwlT0N1Sd38_C65OWlexSIWtalU7iFF6K_QmyDEg/edit) and check the `Players` sheet.
+11. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
+12. Failed scores will count.
+
+### Stage regulations
+
+#### Qualifiers
+
+1. During this round there will be multiple lobbies available at various hours.
+2. A private match will be created and teams will be invited into the lobby when it is their time to play. Make sure to be online at this time.
+3. The mappool format for the qualifiers stage will be:
+   - 4 NoMod maps
+   - 2 Hidden maps
+   - 2 HardRock maps
+   - 2 DoubleTime maps
+4. The mappool will be played twice in a row (20 maps in total). During the second trial, you may not chose to play the map again especially if you have better score/not sure if you could improve it anymore. With that the best play on each map will be the one that will be submitted.
+5. With agreement from all the players in the lobby, a map can be skipped from the second trial of the quliaifers. Remember to inform the referee about this.
+6. In case of sudden disconnection, the disconnected player will have to ask the referee to invite them back to the lobby to continue.
+7. The scoring system will be based on the sum of their standings in the final scoring table from each map. The lower the sum the better seed a player will get.
+   - During this process, the overall table will be public but for detailed standings from each map it will be private to keep manipulation from happening
+8. Players finishing in the top 16 of the qualifiers will move on to the knockout stage directly without having to participate through the group stage.
+9. Players between the seed of #17 and #48 however, will have to participate in the group stage, in which there will be 8 groups of 4 players, from which top 2 players in each group will proceed to the knockout stage.
+10. Players in the seed #49 or below will be eliminated from the tournament.
+
+#### Group stage
+
+1. The group will consist of 8 groups of 4 players with total potential of 24 matches.
+2. The group seeding will be mixed of players that passed the qualifiers stage between seed #17 and #48. Following example is how the seeding will be simulated:
+   - Group A has 4 players; they are the seed #17, #32, #33, and #48
+   - Seed #17 and #32 first, will have a match to determine who can move on to the knockout stage directly, but for the who loses the match will have to compete in the group stage
+   - Seed #33 and #48 will also have a match, whoever loses this one will be eliminated, the one who wins will compete against the seed #17 and #32.
+   - For the final time the winner from both match will compete against each other and whoever wins will secure their spot in the knockout stage.
+3. With the mentioned simulation above, there will be only 2 players from each group that can make it to the knockout stage.
 
 ### Match regulations
 
-1. Players will do `!roll` at the start of the match to determine the order of who picks and bann first. Player with higher roll will **pick first and band second** and player with lower roll will **bann first and pick second**.
-2. The Score System used will be **Score V2**.
-3. Players are allowed to submit **one warmup** but it must be below **4 minutes**.
-4. Failed scores will count.
-5. Qualifiers will have different mappool format with only 2 NoMod maps, 1 Hidden map, 1 HardRock map, and 1 DoubleTime map with no map ban applied.
-6. For the remaining of the knockout stage, mappool size and its ban rules will be as follows:
-   - Round of 48 and Round of 32: 4 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 FreeMod maps, and 1 Tiebreaker with 1 ban per player
-   - Round of 16: 4 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime, 2 FreeMod maps, and 1 Tiebreaker with 1 ban per player
-   - Quarterfinals: 5 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime, 3 FreeMod maps, and 1 Tiebreaker with 2 ban per player
-   - Semifinals: 5 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime, 3 FreeMod maps, and 1 Tiebreaker with 2 ban per player
-   - Finals: 6 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime, 3 FreeMod maps, and 1 Tiebreaker with 2 ban per player
-   - Grand Finals: 6 NoMod maps, 3 Hidden maps, 3 HardRock maps, 3 DoubleTime, 3 FreeMod maps, and 1 Tiebreaker with 2 ban per player
-7. Players cannot ban from the same mod pool when the 2 ban rule is applied (e.g. Banning 2 NoMod maps in that same match).
-8. If player can't attend within the span of **15 minutes**, the other player will win by default.
-9. If both players have the same score during the match, the map will be replayed, then if it happened again the map will be ban for one temporary pick and other map will be picked instead.
-10. In case when both players are failing the map, the player with higher score will get the point instead.
-11. A player may suggest using NightCore mod instead of DoubleTime with the approval from the other player.
-12. The FreeMod pool is played with FreeMod activated. Every player may pick a combination of Hidden and HardRock.
-13. In case of a tie in points (example: 4-4 in BO9) the tiebreaker is selected.
-14. The tiebreaker is played under FreeMod conditions, but it is not necessary to have a mod activated.
+1. A private lobby will be created 10 minutes before a referee starts the match. Both players will be invited into the room before match time. If players don't find any invitation, they may ping the referee as sometimes issues might occur.
+2. Players will do `!roll` at the start of the match to determine the order of who picks and bann first. Player with higher roll will **pick the order wherever they want to bann first and pick second or vice versa**, player with lower roll will follow after the decision made by the player with higher roll.
+3. There are several penalties applied when players are late when the match time is up:
+   - **10 minutes**: The late player won't be able to make their ban.
+   - **15 minutes or more**: The win by default will be given to the other player.
+4. Reschedules will only be considered if both players agree on a time. This needs to be done and notified to the tournament staff at max **12 hours before** the particular match takes place.
+5. Players are allowed to submit **one warmup** but it must be below **4:00**.
+6. Mappool size and its ban rules will be as follows:
+   - Group Stage, Round of 32, and Round of 16: 5 NoMod maps, 3 Hidden maps, 3 HardRock maps, 3 DoubleTime maps, and 1 Tiebreaker
+   - Quarterfinals, Semifinals, and Finals: 6 NoMod maps, 3 Hidden maps, 3 HardRock maps, 4 DoubleTime, and 1 Tiebreaker
+   - Grand Finals: 6 NoMod maps, 4 Hidden maps, 4 HardRock maps, 4 DoubleTime, and 1 Tiebreaker
+7. Players have **one minute** to ban per match. Banned maps are removed from the mappool during the match and cannot be picked.
+8. Players have **one minute** to pick a map. In case they don't within the given time, the opponent will pick the map instead, however this will not change the order of picks.
+9. When a map has been picked, players have **one minute** to ready up and start the match. The referee will start the map when both players are ready. However if the one minute time has expire first, the referee will trigger `!mp start 15` to force start the match in 15 seconds.
+10. FreeMod is only available during the Tiebreaker.
+11. In case of disconnection, there will be several procedures applied:
+    - If there is a proof of score with correct timestamp: It will be counted
+    - If there is no proof of score ot it's too ambiguous: The other opponent will get the point
+    - If the disconnection occurs shortly after the start of the map: Match will be aborted and map will be replayed.
 
 ### Winning conditions
 
-1. Round of 48, Round of 32, and Round of 16: Best-of-7 (first to 4 points)
-2. Quarterfinals and Semifinals: Best-of-9 (first to 5 points)
-3. Finals: Best-of-11 (first to 6 points)
-4. Grand Finals: Best-of-13 (first to 7 points)
+1. Group Stage, Round of 32, and Round of 16: Best-of-11 (first to 6 points)
+2. Quarterfinals, Semifinals, and Finals: Best-of-13 (first to 7 points)
+3. Grand Finals: Best-of-15 (first to 8 points)
