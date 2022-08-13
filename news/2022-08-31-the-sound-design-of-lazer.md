@@ -16,7 +16,7 @@ nekodex is a full-stack engineer born in Australia who joined the osu! team as a
 
 His first involvement with osu! as a music producer would come in 2011 as peppy was preparing osu!stream (a spinoff of osu! for iOS) and needed original music for the game. Since peppy and nekodex are friends in real life and peppy was already familiar with his music, he ended up creating the [main menu theme](https://soundcloud.com/nekodex/osu-stream-theme) and a track ([Liquid Future](https://soundcloud.com/nekodex/liquid-future)) for the release of osu!stream, later going on to create several official songs for osu! throughout the years that we all know and love, such as [welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu), [circles!](https://soundcloud.com/nekodex/circles) and [aureole](https://soundcloud.com/nekodex/aureole).
 
-In 2021 during development of osu!(lazer), peppy felt that the sound design was lagging behind the many visual improvements and asked nekodex if he was willing to try and give it a facelift. At that point, nekodex's primary work with the osu! website was in a good enough spot, so he decided to commit to the task fully.
+In 2021 during development of osu!(lazer), peppy felt that the sound design was lacking the polish of the game's improved visuals, and asked nekodex if he was willing to try and give it a facelift. At that point, nekodex's primary work with the osu! website was in a good enough spot, so he decided to commit to the task fully.
 
 That meant nekodex had to design every single click, shuffle, scroll and hover. The only issue was, nekodex had no UI sound effect design experience AT ALL, and sound design in music production versus interface sound design is a whole different ball game entirely. nekodex described it like this:
 
@@ -79,6 +79,6 @@ Regrettably, it may have been a mistake to not showcase more of these sound effe
 
 How familiar are you with the sound of osu!(lazer)? If you haven't tried it yet, go give osu!(lazer) a try, which you can do by downloading it from [its GitHub releases page](https://github.com/ppy/osu/releases). 
 
-osu!(lazer) is actively being worked on by peppy and many other individuals who contribute their time and knowledge, so if you have any suggestions or want to help yourself, feel free to browse around on GitHub or take a closer look at development in the [osu!dev Discord server](https://discord.gg/ppy)!
+osu!(lazer) is an ongoing open source project, worked on full-time by peppy and many other skilled contributors from the community. If you'd like to help out with the future of osu!, check out the [osu!dev Discord server](https://discord.gg/ppy) for more details.
 
 —0x84f
