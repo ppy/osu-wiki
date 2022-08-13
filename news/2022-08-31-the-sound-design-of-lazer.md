@@ -6,7 +6,7 @@ date: 2022-08-14 08:00:00 +0000
 
 Delve into the inner workings behind the future of sound design in osu!(lazer), featuring an interview with nekodex, the mind behind it all!
 
-![](/wiki/shared/news/2022-07-31-lazer-sound-design/banner.png)
+![](/wiki/shared/news/2022-07-31-lazer-sound-design/banner.jpg)
 
 Sound design relates to how any particular sound can make its listener *feel*. The sound itself can be anything from the pop and fizz when opening a can of Coca-Cola, to the continuous rumble of a car engine. In video games, sounds need to match the things players interact with, so for osu! the question is: "what sounds should things like a circle, button, or a toggle have?"
 
