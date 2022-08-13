@@ -181,7 +181,7 @@ Il y a 4 façons différentes de jouer une partie :
 | `Head-to-head` | S'affronter les uns contre les autres dans le but d'atteindre le première place du classement de la partie. |
 | `Team VS` | S'affronter les un contre les autres en équipe (Rouge et Bleu) pour remporter la partie. |
 | `Tag co-op` (mode osu! uniquement, non classé) | Faites équipe dans le but de terminer la beatmap en jouant un combo à la fois, chacun son tour. |
-| `Tag-team VS` | (mode osu! uniquement, non classé) |La même chose que `Tag co-op`, mais avec deux équipes s'affrontant l'une contre l'autre. |
+| `Tag-team VS` (mode osu! uniquement, non classé) | La même chose que `Tag co-op`, mais avec deux équipes s'affrontant l'une contre l'autre. |
 
 ##### Couleur de tag
 
