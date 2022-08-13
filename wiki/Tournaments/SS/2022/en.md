@@ -9,7 +9,7 @@ tags:
 
 ![SS 2022 logo](img/logo.jpg)
 
-The **Spanish Showdown 2022** (***SS 2022***) was a Spanish double-elimination 1v1 osu! tournament hosted by ::{ flag=ES }:: [Margo](https://osu.ppy.sh/users/6995685), ::{ flag=ES }:: [M A N O L O](https://osu.ppy.sh/users/12296128), and ::{ flag=ES }:: [E R N E S T O](https://osu.ppy.sh/users/2127413). The tournament was targeted for Spanish top osu! players, with no rank limits. It was the second instalment of the Spanish Showdown.
+The **Spanish Showdown 2022** (***SS 2022***) was a Spanish double-elimination 1v1 osu! tournament hosted by ::{ flag=ES }:: [E R N E S T O](https://osu.ppy.sh/users/2127413), ::{ flag=ES }:: [M A N O L O](https://osu.ppy.sh/users/12296128), and ::{ flag=ES }:: [Margo](https://osu.ppy.sh/users/6995685). The tournament was targeted for Spanish top osu! players, with no rank limits. It was the second instalment of the Spanish Showdown.
 
 ## Tournament schedule
 
@@ -30,18 +30,18 @@ The **Spanish Showdown 2022** (***SS 2022***) was a Spanish double-elimination 1
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive banner, exclusive SS Discord server role, physical trophy, €70 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive banner, exclusive SS Discord server role, €40 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive banner, exclusive SS Discord server role, €20 |
-| *4th place* | Exclusive banner, €10 |
-| *5th place* | Exclusive banner, €5 |
-| *6th place* | Exclusive banner, €5 |
-| *7th place* | Exclusive banner |
-| *8th place* | Exclusive banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive banner, exclusive SS Discord server role, physical trophy, €114 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive banner, exclusive SS Discord server role, €68.4 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive banner, exclusive SS Discord server role, €45.6 |
+| *4th place* | Exclusive banner, €22.8 |
+| *5th place* | Exclusive banner, €11.4 |
+| *6th place* | Exclusive banner, €11.4 |
+| *7th place* | Exclusive banner, €5.7 |
+| *8th place* | Exclusive banner, €5.7 |
 
 ![](img/badge.jpg "SS 2022 winner badge")
 
-Total prize pool was €150 being splitted evenly by the decision from organiser, for exact formula please see the [SS 2022 discussion thread](https://osu.ppy.sh/community/forums/topics/1533166).
+Total prize pool was €285 being splitted evenly by the decision from organiser, for exact formula please see the [SS 2022 discussion thread](https://osu.ppy.sh/community/forums/topics/1533166).
 
 ## Organisation
 
@@ -49,16 +49,14 @@ The Spanish Showdown 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139) |
-| Co-organiser | ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722) |
-| Mappool selector | ::{ flag=ID }:: [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=ID }:: [Poii](https://osu.ppy.sh/users/7924938) |
-| Mappool tester | ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079), ::{ flag=ID }:: [Zedfish](https://osu.ppy.sh/users/22615825) |
-| Referee | ::{ flag=ID }:: [-Foxee-](https://osu.ppy.sh/users/14989473), ::{ flag=ID }:: [Joltzzz](https://osu.ppy.sh/users/15436568), ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413), ::{ flag=ID }:: [Rei Hakurei](https://osu.ppy.sh/users/704111), ::{ flag=ID }:: [Zedfish](https://osu.ppy.sh/users/22615825) |
-| Streamer | ::{ flag=HK }:: [-Storm7-](https://osu.ppy.sh/users/12248285), ::{ flag=DE }:: [Penggwin](https://osu.ppy.sh/users/14050018), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839) |
-| Commentator | ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301), ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [Lxa](https://osu.ppy.sh/users/20983500), ::{ flag=ID }:: [Mirea](https://osu.ppy.sh/users/8404646), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413) |
-| Designer | ::{ flag=ID }:: [Poii](https://osu.ppy.sh/users/7924938) |
-| Recruiter | ::{ flag=ID }:: [Reed\_405](https://osu.ppy.sh/users/9965069) |
-| Statistician | ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139) |
+| Organiser | ::{ flag=ES }:: [E R N E S T O](https://osu.ppy.sh/users/2127413), ::{ flag=ES }:: [M A N O L O](https://osu.ppy.sh/users/12296128), ::{ flag=ES }:: [Margo](https://osu.ppy.sh/users/6995685) |
+| Mappool selector | ::{ flag=ES }:: [M A N O L O](https://osu.ppy.sh/users/12296128), ::{ flag=ES }:: [Margo](https://osu.ppy.sh/users/6995685), ::{ flag=ES }:: [MeiFTW](https://osu.ppy.sh/users/15049805), ::{ flag=ES }:: [Mortal](https://osu.ppy.sh/users/4759050),  |
+| Custom mapper | ::{ flag=ES }:: [CebollaVladimir](https://osu.ppy.sh/users/15308238), ::{ flag=ES }:: [Jaime Altozano](https://osu.ppy.sh/users/7567228), ::{ flag=HK }:: [shoyeu](https://osu.ppy.sh/users/11854343), ::{ flag=ES }:: [Yuri Enjoyer](https://osu.ppy.sh/users/6961543) |
+| Referee | ::{ flag=ES }:: [Bubble-](https://osu.ppy.sh/users/10559526), ::{ flag=BR }:: [Checha](https://osu.ppy.sh/users/10157694), ::{ flag=CA }:: [dinonesie](https://osu.ppy.sh/users/18315188), ::{ flag=ES }:: [E R N E S T O](https://osu.ppy.sh/users/2127413), ::{ flag=ES }:: [Jaime Altozano](https://osu.ppy.sh/users/7567228), ::{ flag=ES }:: [LeonFlame](https://osu.ppy.sh/users/12152185), ::{ flag=ES }:: [M A N O L O](https://osu.ppy.sh/users/12296128), ::{ flag=ES }:: [Margo](https://osu.ppy.sh/users/6995685), ::{ flag=ES }:: [Milasus](https://osu.ppy.sh/users/3359440), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
+| Streamer | ::{ flag=ES }:: [E R N E S T O](https://osu.ppy.sh/users/2127413), ::{ flag=ES }:: [Margo](https://osu.ppy.sh/users/6995685), ::{ flag=ES }:: [Milasus](https://osu.ppy.sh/users/3359440) |
+| Commentator | ::{ flag=ES }:: [Frc](https://osu.ppy.sh/users/4739655), ::{ flag=ES }:: [gabriseto](https://osu.ppy.sh/users/11583445), ::{ flag=ES }:: [M A N O L O](https://osu.ppy.sh/users/12296128), ::{ flag=ES }:: [marbl](https://osu.ppy.sh/users/9895270), ::{ flag=ES }:: [Margo](https://osu.ppy.sh/users/6995685), ::{ flag=ES }:: [mario bro](https://osu.ppy.sh/users/6735738), ::{ flag=ES }:: [MeiFTW](https://osu.ppy.sh/users/15049805), ::{ flag=ES }:: [Milasus](https://osu.ppy.sh/users/3359440), ::{ flag=ES }:: [Mortal](https://osu.ppy.sh/users/4759050), ::{ flag=ES }:: [Pagoz](https://osu.ppy.sh/users/12675978), ::{ flag=ES }:: [Sakorii](https://osu.ppy.sh/users/14590106), ::{ flag=ES }:: [SansREPZ](https://osu.ppy.sh/users/8865297), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048) |
+| Designer | ::{ flag=CO }:: [Clippy](https://osu.ppy.sh/users/6385568), ::{ flag=ES }:: [Margo](https://osu.ppy.sh/users/6995685) |
+| Statistician | ::{ flag=US }:: [HitomiChan\_](https://osu.ppy.sh/users/11633961), ::{ flag=ES }:: [M A N O L O](https://osu.ppy.sh/users/12296128) |
 | Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
