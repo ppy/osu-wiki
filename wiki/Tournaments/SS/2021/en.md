@@ -71,19 +71,6 @@ The Spanish Showdown 2021 was run by various community members.
 | Low | ::{ flag=ES }:: [G M A I L](https://osu.ppy.sh/users/8567528), ::{ flag=ES }:: [Josde](https://osu.ppy.sh/users/2923459), ::{ flag=ES }:: [Hong Meiling](https://osu.ppy.sh/users/1362796), ::{ flag=ES }:: [Kingof](https://osu.ppy.sh/users/14402460), ::{ flag=ES }:: [\[-Chitoge-\]](https://osu.ppy.sh/users/13095971), ::{ flag=ES }:: [laGmaN](https://osu.ppy.sh/users/12781215), ::{ flag=ES }:: [Velocitz](https://osu.ppy.sh/users/11723911), ::{ flag=ES }:: [- Izayoi -](https://osu.ppy.sh/users/14791081), ::{ flag=ES }:: [Hide in room](https://osu.ppy.sh/users/14272234), ::{ flag=ES }:: [comandocYT](https://osu.ppy.sh/users/17594074), ::{ flag=ES }:: [TwitchDanteX10\_](https://osu.ppy.sh/users/12870172), ::{ flag=ES }:: [Edrran](https://osu.ppy.sh/users/15627043), ::{ flag=ES }:: [alfa](https://osu.ppy.sh/users/8352594), ::{ flag=ES }:: [- Sprite -](https://osu.ppy.sh/users/16430553), ::{ flag=ES }:: [Destrox](https://osu.ppy.sh/users/15220967), ::{ flag=ES }:: [R a c e](https://osu.ppy.sh/users/18660354) |
 | Eliminated | ::{ flag=ES }:: [zaakry](https://osu.ppy.sh/users/20508726), ::{ flag=ES }:: [LaBestiaPrecoz](https://osu.ppy.sh/users/13174212), ::{ flag=ES }:: [Demoniackk](https://osu.ppy.sh/users/18733543), ::{ flag=ES }:: [MBornes](https://osu.ppy.sh/users/20994818), ::{ flag=ES }:: [Pancakes\_UwU](https://osu.ppy.sh/users/20178662), ::{ flag=ES }:: [Haruki Amane](https://osu.ppy.sh/users/15721260), ::{ flag=ES }:: [L O K I I](https://osu.ppy.sh/users/8060366) |
 
-## Groups
-
-| Group | Top seed | High seed | Middle seed | Low seed |
-| :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=ES }:: [-Hideki-](https://osu.ppy.sh/users/8688804) | ::{ flag=ES }:: [Jerkie](https://osu.ppy.sh/users/5186239) | ::{ flag=ES }:: [G M A I L](https://osu.ppy.sh/users/8567528) | ::{ flag=ES }:: [R a c e](https://osu.ppy.sh/users/18660354) |
-| **B** | ::{ flag=ES }:: [Widelux13](https://osu.ppy.sh/users/3938945) | ::{ flag=ES }:: [Alvaroping1](https://osu.ppy.sh/users/15289150) | ::{ flag=ES }:: [Josde](https://osu.ppy.sh/users/2923459) | ::{ flag=ES }:: [Destrox](https://osu.ppy.sh/users/15220967) |
-| **C** | ::{ flag=ES }:: [Radiownd](https://osu.ppy.sh/users/6792694) | ::{ flag=ES }:: [M4rti\_](https://osu.ppy.sh/users/17018032) | ::{ flag=ES }:: [Hong Meiling](https://osu.ppy.sh/users/1362796) | ::{ flag=ES }:: [- Sprite -](https://osu.ppy.sh/users/16430553) |
-| **D** | ::{ flag=ES }:: [Frc](https://osu.ppy.sh/users/4739655) | ::{ flag=ES }:: [CharlioM9](https://osu.ppy.sh/users/13560194) | ::{ flag=ES }:: [Kingof](https://osu.ppy.sh/users/14402460) | ::{ flag=ES }:: [alfa](https://osu.ppy.sh/users/8352594) |
-| **E** | ::{ flag=ES }:: [Jairofrancaso](https://osu.ppy.sh/users/16420295) | ::{ flag=ES }:: [BabyScylla](https://osu.ppy.sh/users/9869794) | ::{ flag=ES }:: [\[-Chitoge-\]](https://osu.ppy.sh/users/13095971) | ::{ flag=ES }:: [Edrran](https://osu.ppy.sh/users/15627043) |
-| **F** | ::{ flag=ES }:: [AVlad](https://osu.ppy.sh/users/5233240) | ::{ flag=ES }:: [-Wind](https://osu.ppy.sh/users/8728647) | ::{ flag=ES }:: [laGmaN](https://osu.ppy.sh/users/12781215) | ::{ flag=ES }:: [TwitchDanteX10\_](https://osu.ppy.sh/users/12870172) |
-| **G** | ::{ flag=ES }:: [Sakorii](https://osu.ppy.sh/users/14590106) | ::{ flag=ES }:: [B of yassin](https://osu.ppy.sh/users/12048359) | ::{ flag=ES }:: [Velocitz](https://osu.ppy.sh/users/11723911) | ::{ flag=ES }:: [comandocYT](https://osu.ppy.sh/users/17594074) |
-| **H** | ::{ flag=ES }:: [Pagoz](https://osu.ppy.sh/users/12675978) | ::{ flag=ES }:: [DrakoJ](https://osu.ppy.sh/users/11645092) | ::{ flag=ES }:: [- Izayoi -](https://osu.ppy.sh/users/14791081) | ::{ flag=ES }:: [Hide in room](https://osu.ppy.sh/users/14272234) |
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -92,7 +79,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ES }:: **[A N T O N I O](https://osu.ppy.sh/users/12760743)** |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ES }:: **[Estopa](https://osu.ppy.sh/users/4470553)** |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ES }:: **[NHarmonia](https://osu.ppy.sh/users/9582556)** |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ES }:: **[waaiiru](https://osu.ppy.sh/users/903978)** |
 
 ## Mappools
 
