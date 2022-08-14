@@ -382,3 +382,17 @@ Abbreviations for user groups are used throughout this log:
 - 2022-08-10: Removed [Aakki](https://osu.ppy.sh/users/11077540) from **BN**
 
 <!-- last updated 2022-08-14 02:30 UTC - Removed Aakki from BN -->
+
+<!--
+To update this article:
+
+- Go to the #groupfeed channel of Aiess Discord server <https://discord.gg/2XV5dcW>
+- Use the "last updated" marker above to find the relevant message sent by Aiess
+- Add entries for all of the messages after that one
+  - For dates, use the timestamp in Aiess embeds (NOT the date of the Discord message), converted to UTC
+  - If a user was added from one group and removed from another at the same time, it can be logged as a "Move" here. The only time this shouldn't be done is when one of the groups is BN and another is not, since we group BN logging separately in this article (e.g. remove from BN + add to NAT != move from BN to NAT, for logging purposes)
+- Update the "last updated" marker above with the current time and the last message from Aiess
+- Make the same updates to group member lists in their relevant articles
+
+—clayton
+-->
