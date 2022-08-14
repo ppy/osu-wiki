@@ -385,4 +385,4 @@ Abbreviations for user groups are used throughout this log:
 - 2022-08-13: Removed [FuJu](https://osu.ppy.sh/users/10773882) from **BN**
 - 2022-08-13: Removed [elicz1](https://osu.ppy.sh/users/8039342) from **BN**
 
-<!-- updated as of August 13, 2022 @ 05:30 UTC, removed Aakki from BN -->
+<!-- updated as of August 13, 2022 @ 05:30 UTC, additions of the two new NAT -->
