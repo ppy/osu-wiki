@@ -225,7 +225,7 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ::{ flag=KR }: [-Ming-](https://osu.ppy.sh/users/20127755) | Корейский |
+| ::{ flag=KR }:: [-Ming-](https://osu.ppy.sh/users/20127755) | Корейский |
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | Индонезийский |
 
 ## История

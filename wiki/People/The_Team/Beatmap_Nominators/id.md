@@ -225,7 +225,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ::{ flag=KR }: [-Ming-](https://osu.ppy.sh/users/20127755) | Korea |
+| ::{ flag=KR }:: [-Ming-](https://osu.ppy.sh/users/20127755) | Korea |
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | Indonesia |
 
 ## Sejarah

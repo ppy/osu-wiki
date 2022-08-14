@@ -227,7 +227,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ::{ flag=KR }: [-Ming-](https://osu.ppy.sh/users/20127755) | เกาหลี |
+| ::{ flag=KR }:: [-Ming-](https://osu.ppy.sh/users/20127755) | เกาหลี |
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | อินโดนีเซีย |
 
 ## ประวัติ

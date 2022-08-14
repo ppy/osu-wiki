@@ -227,7 +227,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ::{ flag=KR }: [-Ming-](https://osu.ppy.sh/users/20127755) | Korece |
+| ::{ flag=KR }:: [-Ming-](https://osu.ppy.sh/users/20127755) | Korece |
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | Endonezce |
 
 ## Tarihçe
