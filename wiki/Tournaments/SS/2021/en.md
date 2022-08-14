@@ -427,7 +427,7 @@ Sunday, 11 April 2021:
 
 ### Qualifiers
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1bcPBwlT0N1Sd38_C65OWlexSIWtalU7iFF6K_QmyDEg/edit?usp=sharing) alongside the final standings on which players made it through to the next stage.
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Wmgzv8OY1_cVCFSAlTFSK4RRYaeP4pqsvyvM6kzsoEw/edit?usp=sharing) alongside the final standings on which players made it through to the next stage.
 
 ## Ruleset
 
@@ -435,14 +435,14 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 1. Spanish Showdown 2021 is a **1v1 tournament** with double-elimination bracket, which means that there will be a loser's bracket.
 2. There is no rank limit regulated to participate.
-3. Any player with Spanish flag can participate in the tournament.
-4. Joining the tournament's [Discord server](https://discord.gg/jUDx7hJ7Xv) is mandatory to be counted as a player.
+3. Any player with Spanish flag or can identify themself (e.g. with proven ID) as Spanish can participate in the tournament.
+4. Joining the tournament's [Discord server](https://discord.gg/85zFgHHBZv) is mandatory to be counted as a player.
 5. The Score System used will be **Score V2**.
 6. Players will be ranked according to the results of the qualifying phase.
 7. During the Grand Finals, if the player coming from loser's bracket win, there will be a bracket reset and both players will play again to determine the final winner.
-8. All times will be written under UTC+2.
+8. All times will be written under UTC+1.
 9. Any members of staff **apart from organisers, mappool selectors, and referees** are allowed to play.
-10. To make sure if players' registration counted, please visit the given following [statistics sheet](https://docs.google.com/spreadsheets/d/1bcPBwlT0N1Sd38_C65OWlexSIWtalU7iFF6K_QmyDEg/edit) and check the `Players` sheet.
+10. To make sure if players' registration counted, please visit the given following [statistics sheet](https://docs.google.com/spreadsheets/d/1Wmgzv8OY1_cVCFSAlTFSK4RRYaeP4pqsvyvM6kzsoEw/edit?usp=sharing) and check the `Player List` sheet.
 11. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
 12. Failed scores will count.
 
@@ -457,49 +457,40 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
    - 2 Hidden maps
    - 2 HardRock maps
    - 2 DoubleTime maps
-4. The mappool will be played twice in a row (20 maps in total). During the second trial, you may not chose to play the map again especially if you have better score/not sure if you could improve it anymore. With that the best play on each map will be the one that will be submitted.
-5. With agreement from all the players in the lobby, a map can be skipped from the second trial of the quliaifers. Remember to inform the referee about this.
-6. In case of sudden disconnection, the disconnected player will have to ask the referee to invite them back to the lobby to continue.
-7. The scoring system will be based on the sum of their standings in the final scoring table from each map. The lower the sum the better seed a player will get.
+4. The mappool will be played only one time (10 maps in total) throughout the stage. Make sure to be prepared and get the best out of it.
+5. In case of sudden disconnection, the disconnected player will have to ask the referee to invite them back to the lobby to continue.
+6. The scoring system will be based on the sum of their standings in the final scoring table from each map. The lower the sum the better seed a player will get.
    - During this process, the overall table will be public but for detailed standings from each map it will be private to keep manipulation from happening
-8. Players finishing in the top 16 of the qualifiers will move on to the knockout stage directly without having to participate through the group stage.
-9. Players between the seed of #17 and #48 however, will have to participate in the group stage, in which there will be 8 groups of 4 players, from which top 2 players in each group will proceed to the knockout stage.
-10. Players in the seed #49 or below will be eliminated from the tournament.
-
-#### Group stage
-
-1. The group will consist of 8 groups of 4 players with total potential of 24 matches.
-2. The group seeding will be mixed of players that passed the qualifiers stage between seed #17 and #48. Following example is how the seeding will be simulated:
-   - Group A has 4 players; they are seed #17, #32, #33, and #48
-   - Seed #17 and #32 first, will have a match to determine who can move on to the knockout stage directly, but for the one who loses the match, they will have to compete in the group stage
-   - Seed #33 and #48 will also have a match, whoever loses this one will be eliminated, the one who wins will compete against the loser of seed #17 and #32.
-   - For the final time the loser from seed #17 and #32 will compete against winner from seed #33 and #48 and whoever wins will secure their spot in the knockout stage.
-3. With the mentioned simulation above, there will be only 2 players from each group that can make it to the knockout stage.
+7. Players finishing in the top 16 of the qualifiers will move on to the knockout stage directly to the Round of 32.
+8. Players between the seed of #17 and #48 however, will have to participate in the Round of 48 first and have one match against other participant inside the previously given seed to secure their spot in the Round of 32.
+   - The composition given as an example is seed #17 will have a match against seed #48, and it will go up and downwards from there (e.g. seed #19 with seed #46).
+9. Players in the seed #49 or below will be eliminated from the tournament.
 
 ### Match regulations
 
 1. A private lobby will be created 10 minutes before a referee starts the match. Both players will be invited into the room before match time. If players don't find any invitation, they may ping the referee as sometimes issues might occur.
-2. Players will do `!roll` at the start of the match to determine the order of who picks and bann first. Player with higher roll will **pick the order wherever they want to bann first and pick second or vice versa**, player with lower roll will follow after the decision made by the player with higher roll.
-3. There are several penalties applied when players are late when the match time is up:
-   - **10 minutes**: The late player won't be able to make their ban.
+2. Each player will roll with the `!roll` command in the chat.
+3. The player with the highest roll **bans second and picks first**. The player with the lowest roll **bans first and picks second**.
+4. There are several penalties applied when players are late when the match time is up:
+   - **10 minutes**: Both bans will be given to the first present player.
    - **15 minutes or more**: The win by default will be given to the other player.
-4. Reschedules will only be considered if both players agree on a time. This needs to be done and notified to the tournament staff at max **12 hours before** the particular match takes place.
-5. Players are allowed to submit **one warmup** but it must be below **4:00**.
-6. Mappool size and its ban rules will be as follows:
-   - Group Stage, Round of 32, and Round of 16: 5 NoMod maps, 3 Hidden maps, 3 HardRock maps, 3 DoubleTime maps, and 1 Tiebreaker
-   - Quarterfinals, Semifinals, and Finals: 6 NoMod maps, 3 Hidden maps, 3 HardRock maps, 4 DoubleTime, and 1 Tiebreaker
-   - Grand Finals: 6 NoMod maps, 4 Hidden maps, 4 HardRock maps, 4 DoubleTime, and 1 Tiebreaker
-7. Players have **one minute** to ban per match. Banned maps are removed from the mappool during the match and cannot be picked.
-8. Players have **one minute** to pick a map. In case they don't within the given time, the opponent will pick the map instead, however this will not change the order of picks.
-9. When a map has been picked, players have **one minute** to ready up and start the match. The referee will start the map when both players are ready. However if the one minute time has expire first, the referee will trigger `!mp start 15` to force start the match in 15 seconds.
-10. FreeMod is only available during the Tiebreaker.
-11. In case of disconnection, there will be several procedures applied:
+5. Reschedules will only be considered if both players agree on a time. This needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC+1** in the particular week when the match takes place.
+6. Both players are allowed to submit **one warmup** but it must be below **4:00**.
+7. Mappool size and its ban rules will be as follows:
+   - Round of 48, Round of 32, and Round of 16: 5 NoMod maps, 2 Hidden maps, 2 HardRock maps, 3 DoubleTime maps, and 1 Tiebreaker
+   - Quarterfinals and Semifinals: 5 NoMod maps, 3 Hidden maps, 3 HardRock maps, 3 DoubleTime, and 1 Tiebreaker
+   - Finals and Grand Finals: 6 NoMod maps, 3 Hidden maps, 3 HardRock maps, 4 DoubleTime, and 1 Tiebreaker
+8. Players have **one minute** to ban per match. Banned maps are removed from the mappool during the match and cannot be picked.
+9. Players have **one minute** to pick a map. In case they don't within the given time, the opponent will pick the map instead, however this will not change the order of picks.
+10. When a map has been picked, players have **one minute** to ready up and start the match. The referee will start the map when both players are ready. However if the one minute time has expire first, the referee will trigger `!mp start 15` to force start the match in 15 seconds.
+11. FreeMod is only available during the Tiebreaker.
+12. In case of disconnection, there will be several procedures applied:
     - If there is a proof of score with correct timestamp: It will be counted
     - If there is no proof of score ot it's too ambiguous: The other opponent will get the point
     - If the disconnection occurs shortly after the start of the map: Match will be aborted and map will be replayed.
 
 ### Winning conditions
 
-1. Group Stage, Round of 32, and Round of 16: Best-of-11 (first to 6 points)
-2. Quarterfinals, Semifinals, and Finals: Best-of-13 (first to 7 points)
-3. Grand Finals: Best-of-15 (first to 8 points)
+1. Round of 48, Round of 32, and Round of 16: Best-of-9 (first to 5 points)
+2. Quarterfinals and Semifinals: Best-of-11 (first to 6 points)
+3. Finals and Grand Finals: Best-of-13 (first to 7 points)
