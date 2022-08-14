@@ -38,7 +38,7 @@ The **Spanish Showdown 2021** (***SS 2021***) was a Spanish double-elimination 1
 | *7th place* | Exclusive banner |
 | *8th place* | Exclusive banner |
 
-Total prize pool was €105 being splitted evenly by the decision from organiser, for exact formula please see the [SS 2021 discussion thread](https://osu.ppy.sh/community/forums/topics/1254577).
+The total prize pool was €105 split evenly by the decision of the organiser. For the exact formula see the [SS 2021 discussion thread](https://osu.ppy.sh/community/forums/topics/1254577).
 
 ## Organisation
 
@@ -300,7 +300,7 @@ Friday, 23 April 2021:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Aricin Fanboy** ::{ flag=ES }:: | **0** | -1 | ::{ flag=ES }:: Akalude | *win by default* |
-| Bairechuwu ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: Osudroid96 | [#1](https://osu.ppy.sh/community/matches/81584199) |
+| **Bairechuwu** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: Osudroid96 | [#1](https://osu.ppy.sh/community/matches/81584199) |
 | **-Shizuru** ::{ flag=ES }:: | **6** | 5 | ::{ flag=ES }:: AngelXC | [#1](https://osu.ppy.sh/community/matches/81589403) |
 | **JoanaBob** ::{ flag=ES }:: | **6** | 2 | ::{ flag=ES }:: -AmHappy- | [#1](https://osu.ppy.sh/community/matches/81595894) |
 
@@ -427,7 +427,7 @@ Sunday, 11 April 2021:
 
 ### Qualifiers
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1Wmgzv8OY1_cVCFSAlTFSK4RRYaeP4pqsvyvM6kzsoEw/edit?usp=sharing) alongside the final standings on which players made it through to the next stage.
+Detailed statistics for this round can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Wmgzv8OY1_cVCFSAlTFSK4RRYaeP4pqsvyvM6kzsoEw/edit?usp=sharing) alongside the final standings on which players made it through to the next stage.
 
 ## Ruleset
 
