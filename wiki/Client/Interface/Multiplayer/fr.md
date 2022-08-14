@@ -2,7 +2,7 @@
 
 Le **multijoueur** (souvent abrégé en *Multi*) est un mode de jeu dans lequel jusqu'à 16 joueurs peuvent s'affronter entre eux ou en équipe sur une beatmap choisie par l'hôte.
 
-L'[osu!academy](/wiki/Community/Video_series/osu!academy) couvre cette partie du client dans un format vidéo dans l'[épisode 6](https://www.youtube.com/watch?v=QPTLyG7O8ak), ainsi que les [panneaux d'utilisateurs en ligne](/wiki/Client/Interface/Chat_console#extended-chat-console).
+L'[osu!academy](/wiki/Community/Video_series/osu!academy) couvre cette partie du client dans un format vidéo dans l'[épisode 6](https://www.youtube.com/watch?v=QPTLyG7O8ak), ainsi que les [panneaux d'utilisateurs en ligne](/wiki/Client/Interface/Chat_console#la-console-de-tchat-étendue).
 
 ## Comment jouer
 
@@ -57,7 +57,7 @@ Les trois boutons au-dessus de la [console de tchat](/wiki/Client/Interface/Chat
 | :-: | :-- |
 | `Retour au menu` | Quitter le lobby et retourner au menu principal. |
 | `Créer une salle` | Créer une nouvelle salle. Voir plus bas pour plus de détails. |
-| `Salle au hasard` | Rejoindre une salle disponible de manière *aléatoire* basée sur le [rang dans le classement des points de performance](/wiki/Ranking#performance-points-ranking) actuel du joueur. |
+| `Salle au hasard` | Rejoindre une salle disponible de manière *aléatoire* basée sur le [rang dans le classement des points de performance](/wiki/Ranking#classement-des-points-de-performance) actuel du joueur. |
 
 ## Créer une salle
 
@@ -90,7 +90,7 @@ Bien qu'il n'y ait pas de bouton permettant d'y accéder directement, le [menu d
 ![](img/multi-match-header-fr.jpg "Exemple de section supérieure")
 :::
 
-La partie en haut à gauche indique si le joueur est l'hôte de la partie ou un joueur normal. Au milieu, il y a une boîte de joueur contenant des informations sur les [points de performance](/wiki/Performance_points/Total_performance_points), la [précision générale](/wiki/Gameplay/Accuracy), le [niveau](/wiki/Gameplay/Score/Total_score#level), le [rang](/wiki/Ranking#performance-points-ranking) ainsi que le [mode de jeu](/wiki/Game_mode). Sur la droite, il y a un bouton pour mettre en pause la musique actuellement sélectionnée.
+La partie en haut à gauche indique si le joueur est l'hôte de la partie ou un joueur normal. Au milieu, il y a une boîte de joueur contenant des informations sur les [points de performance](/wiki/Performance_points/Total_performance_points), la [précision générale](/wiki/Gameplay/Accuracy), le [niveau](/wiki/Gameplay/Score/Total_score#niveau), le [rang](/wiki/Ranking#classement-des-points-de-performance) ainsi que le [mode de jeu](/wiki/Game_mode). Sur la droite, il y a un bouton pour mettre en pause la musique actuellement sélectionnée.
 
 ### La liste des joueurs présents
 
@@ -156,7 +156,7 @@ Si le joueur ne possède pas la beatmap, un des statuts suivants sera affiché :
 
 | Statut de la beatmap | Description |
 | :-: | :-- |
-| `Ranked` / `Approved` / `Pending` / `Graveyard` | La [catégorie de beatmap](/wiki/Beatmap/Category). Cliquer sur la carte de beatmap ouvrira la page de la beatmap depuis le site web où elle pourra être [téléchargée](/wiki/Beatmap#downloading-beatmaps). |
+| `Ranked` / `Approved` / `Pending` / `Graveyard` | La [catégorie de beatmap](/wiki/Beatmap/Category). Cliquer sur la carte de beatmap ouvrira la page de la beatmap depuis le site web où elle pourra être [téléchargée](/wiki/Beatmap#télécharger-les-beatmaps). |
 | `Non publiée ou pas à jour` | La beatmap n'est pas disponible en téléchargement. L'hôte devra trouver le lien (dans la [liste des beatmaps](https://osu.ppy.sh/beatmapsets)) pour les joueurs si les problèmes persistent. |
 | `La beatmap ne peut pas être mise à jour` | L'hôte est en train de jouer une version modifiée de la beatmap. |
 
@@ -215,7 +215,7 @@ Le bouton bleu est utilisé pour contrôler l'état du joueur (prêt/pas prêt) 
 | `Start Game!` | Commence la partie. Ce bouton apparaît uniquement pour l'hôte de la salle lorsque tous les joueurs sont prêts. |
 | `Force Start Game! ({prêts}/{total})` | Démarre la partie même si tous les joueurs ne sont pas prêts. Ce bouton apparaît uniquement pour l'hôte de la salle lorsque quelques joueurs sont prêts. Le nombre de joueurs prêts comparé à celui du nombre total de joueurs est montré entre parenthèses. |
 
-### Historique de le salle
+### Historique de la salle
 
 ::: Infobox
 ![](img/multi-mh.jpg "Une page d'historique de la salle sur le site web")
@@ -245,7 +245,7 @@ En partie Team VS, avoir échoué à la fin de la beatmap ne permettra pas au sc
 
 #### Résultats
 
-Malgré le fait qu'il n'y ait pas d'[écran de résultats étendu](/wiki/Client/Interface#extended-results-screen) sous l'écran de résultats comme en jouant en solo, les scores réalisés en partie multijoueur (avec l'exception des parties en `Tag co-op` et `Tag-team VS`) vont quand même apparaître sur les classements en ligne s'ils sont suffisamment bons. Le résultat n'apparaîtra pas sur le classement local.
+Malgré le fait qu'il n'y ait pas d'[écran de résultats étendu](/wiki/Client/Interface#écran-de-résultats-étendu) sous l'écran de résultats comme en jouant en solo, les scores réalisés en partie multijoueur (avec l'exception des parties en `Tag co-op` et `Tag-team VS`) vont quand même apparaître sur les classements en ligne s'ils sont suffisamment bons. Le résultat n'apparaîtra pas sur le classement local.
 
 #### Sauvegarder le replay
 
@@ -281,7 +281,7 @@ La couleur de chaque joueur sur le classement en jeu indique le statut du joueur
 | :-: | :-: | :-- |
 | ![](img/Playerbox/Multi_PB_B.jpg "Normal") | Normal | Le joueur a plus de la moitié de sa vie. La couleur deviendra bleu clair ou rouge sang dépendant de la vie du joueur. |
 | ![](img/Playerbox/Multi_PB_R.jpg "Danger") | Danger | Le joueur a moins de la moitié de sa vie. La couleur deviendra rouge clair ou bleue dépendant de la vie du joueur. |
-| ![](img/Playerbox/Multi_PB_F.jpg "Échoué") | Échoué | Le joueur a atteint 0 PV et a [échoué](#health). |
+| ![](img/Playerbox/Multi_PB_F.jpg "Échoué") | Échoué | Le joueur a atteint 0 PV et a [échoué](#santé). |
 | ![](img/Playerbox/Multi_PB_TAG.jpg "Tag") | Tag | En `Tag co-op` et `Tag-team VS`, la boite du joueur sera toujours verte. Une flèche verte pointe vers le joueur actuel avec une légère lueur blanche. |
 | ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | La requête d'un joueur pour passer l'introduction d'une beatmap s'il y en a une. L'introduction sera passée une fois que tous les joueurs ont souhaité la passer. |
 | ![](img/Playerbox/Multi_PB_QUIT.jpg "Quit") | Quit | Le joueur a quitté la partie, soit en appuyant sur `Échap` deux fois, soit en ayant été déconnecté de [Bancho](/wiki/Bancho_(server)). La couleur du texte passera de blanche à rouge avec `[Quit]` rajouté à la fin. La couleur de la boîte indique le statut du joueur avant de quitter la partie. |
@@ -324,7 +324,7 @@ L'équipe bleue est sur la gauche, et l'équipe rouge est sur la droite. Une cou
 
 Changer d'équipe est possible tant que les joueurs se trouvent sur le lobby. Il n'y a pas de handicap pour une équipe avec moins de membres, et il est possible de commencer une partie avec uniquement une seule équipe.
 
-##### Résultats {#team-vs-results-screen}
+##### Résultats {#écran-de-résultats-team-vs}
 
 ::: Infobox
 ![](img/multi-teamvs-results.jpg "Écran de résultats Team VS")
@@ -354,7 +354,7 @@ Le tag co-op fait que tous les joueurs de la partie travaillent ensemble pour te
 
 Dans ce mode, l'emplacement des joueurs dans le lobby détermine l'ordre dans lequel ils vont jouer.
 
-Une flèche verte indiquera quel joueur est actuellement en train de jouer, et son pseudo sera indiqué en bas à droite. Des flèches d'avertissement indiquent quand c'est au tour du joueur et les prochains objets seront colorés. Le joueur peut définir une couleur de combo qui lui sera dédiée dans la partie [Couleur](#tag-colour) de la section de configuration de la salle dans le lobby de la partie.
+Une flèche verte indiquera quel joueur est actuellement en train de jouer, et son pseudo sera indiqué en bas à droite. Des flèches d'avertissement indiquent quand c'est au tour du joueur et les prochains objets seront colorés. Le joueur peut définir une couleur de combo qui lui sera dédiée dans la partie [Couleur](#couleur-de-tag) de la section de configuration de la salle dans le lobby de la partie.
 
 Tous les joueurs doivent jouer les spinners, ou le combo sera rompu.
 
@@ -378,7 +378,7 @@ Aucun score classé ou point de performance ne sera attribué pour des parties e
 
 Pour `Tag co-op`, le résultat affiché est le score total, les [jugements](/wiki/Gameplay/Judgement) ainsi que la précision de l'équipe. Les résultats individuels ne sont pas montrés, et peuvent être vus uniquement depuis l'historique de la partie. L'écran de résultats n'apparaît que si la beatmap est terminée avec succès, contrairement aux autres modes de jeu multijoueur.
 
-L'écran de résultats de `Tag-team VS` est identique à [celui de `Team VS`](#team-vs-results-screen).
+L'écran de résultats de `Tag-team VS` est identique à [celui de `Team VS`](#écran-de-résultats-team-vs).
 
 ## Le saviez-vous ?
 
