@@ -1,7 +1,3 @@
----
-outdated_translation: true
----
-
 # Gente
 
 Indice para los artículos sobre gente o grupos.

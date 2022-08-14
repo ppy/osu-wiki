@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: 6382d151ce26274a61c8a2af2ef5c87b83702d6f
----
-
 # Equipo de apoyo de cuentas
 
 *Para un equipo que modera ciertos subforos, ver: [Equipo de apoyo](/wiki/People/The_Team/Support_Team)*
