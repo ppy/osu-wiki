@@ -10,12 +10,12 @@ L'[osu!academy](/wiki/Community/Video_series/osu!academy) couvre cette partie du
 
 Depuis le menu principal, le lobby multijoueur principal peut être accédé avec les étapes suivantes :
 
-1. Cliquez sur le button `Play` ou appuyez sur `P`.
+1. Cliquez sur le bouton `Play` ou appuyez sur `P`.
 2. Cliquez ensuite sur le bouton `Multi` ou appuyez sur `M`.
 
 ## Lobby principal
 
-*Remarque : un tag actif [osu!supporter](/wiki/osu!supporter) est requis pour entrer dans le lobby lorsque vous utilisez le canal de mise à jour `Cutting Edge (Expérimental)`.*
+*Remarque : un tag actif [osu!supporter](/wiki/osu!supporter) est requis pour entrer dans le lobby lorsque le canal de mise à jour `Cutting Edge (Expérimental)` est utilisé.*
 
 ![](img/multi-lobby-fr.jpg "Exemple d'un jour typique dans le lobby multijoueur")
 
@@ -27,13 +27,13 @@ Les salles peuvent être filtrées en utilisant les options en haut à gauche.
 
 | Titre | Description |
 | :-: | :-- |
-| `Tous`/`osu!`/`osu!taiko`/`osu!catch`/ `osu!mania` | Montre uniquement les salle avec le [mode de jeu](/wiki/Game_mode) sélectionné ou pour tous les modes de jeu. |
-| `Salles dont je poss. les maps uniq.` | Montre uniquement les salles si le joueur possède la [beatmap](/wiki/Beatmap) actuellement jouée. |
+| `Tous`/`osu!`/`osu!taiko`/`osu!catch`/ `osu!mania` | Montre uniquement les salles avec le [mode de jeu](/wiki/Game_mode) sélectionné ou pour tous les modes de jeu. |
+| `Salles dont je poss. les maps uniq.` | Montre uniquement les salles dont le joueur possède la [beatmap](/wiki/Beatmap) actuellement jouée. |
 | `Afficher salles remplies` | Montre les salles même si elles n'ont pas de places disponibles. |
-| `Recherche` | Recherche une beatmap spécifique en train d'être jouée ou le nom de l'hôte en utilisant la barre de recherche. Lorsque vous utilisez la recherche, tous les filtres seront temporairement ignorés excepté `Afficher salles occupées`. |
+| `Recherche` | Recherche une beatmap spécifique en train d'être jouée ou le nom de l'hôte en utilisant la barre de recherche. Lorsque la recherche est utilisée, tous les filtres seront temporairement ignorés excepté `Afficher salles occupées`. |
 | `Salles avec amis uniquement` | Montre uniquement les salles où des amis du joueur sont en train de jouer. Cette option de filtre va remplacer les autres options de filtre quand elle est activée. |
-| `Afficher salles verrouillées` | Montre les salles qui requièrent un mot de passe pour rejoindre. |
-| `Afficher salles occupées` | Montre les salles qui sont actuellement en train de jouer une beatmap. Il est encore possible de les rejoindre s'il reste des places disponibles. Il y a un indicateur avec un titre grisé avec `(en cours)` ajouté, jusqu'à ce que la salle termine la partie. | 
+| `Afficher salles verrouillées` | Montre les salles qui requièrent un mot de passe pour les rejoindre. |
+| `Afficher salles occupées` | Montre les salles qui sont actuellement en train de jouer une beatmap. Il est encore possible de les rejoindre s'il reste des places disponibles. Il y a un indicateur avec un titre grisé avec `(en cours)` ajouté, jusqu'à ce que la salle termine la partie. |
 
 ### Salles
 
@@ -51,7 +51,7 @@ Pour rentrer dans une salle, cliquez sur l'une d'entre elles.
 
 ### Options générales
 
-Les trois boutons au-dessus la [console de tchat](/wiki/Client/Interface/Chat_console) fournissent les principales options de navigation de cet écran : 
+Les trois boutons au-dessus de la [console de tchat](/wiki/Client/Interface/Chat_console) fournissent les principales options de navigation de cet écran : 
 
 | Titre | Description |
 | :-: | :-- |
@@ -70,7 +70,7 @@ Les trois boutons au-dessus la [console de tchat](/wiki/Client/Interface/Chat_co
 | `Game Name` | Le nom de la salle. La valeur par défaut est `{nom du joueur}'s game`. |
 | `Require password to join` | Rendre la salle privée. |
 | `Password` | Définir un mot de passe pour la salle. Apparaît uniquement si le bouton `Require password to join` est activé. |
-| `Max Players` | Le nombre total de joueurs (incluant l'hôte) autorisés à rejoindre la salle. Une plage de 2 à 16 joueurs peut être sélectionné, avec une valeur par défaut de 8. Ceci peut être ajusté plus tard en verrouillant/déverrouillant des emplacements de joueurs. |
+| `Max Players` | Le nombre total de joueurs (incluant l'hôte) autorisés à rejoindre la salle. Une plage de 2 à 16 joueurs peut être sélectionnée, avec une valeur par défaut de 8. Ceci peut être ajusté plus tard en verrouillant/déverrouillant des emplacements de joueurs. |
 
 Appuyer sur le bouton `1. Start Game` va créer la salle avec la musique se jouant actuellement en tant que beatmap. Le bouton `2. Cancel` ramènera le joueur vers le lobby.
 
@@ -90,9 +90,9 @@ Bien qu'il n'y ait pas de bouton permettant d'y accéder directement, le [menu d
 ![](img/multi-match-header-fr.jpg "Exemple de section supérieure")
 :::
 
-La partie en haut à gauche indique si le joueur est l'hôte de la partie ou un joueur normal. Au milieu, il y a une boite de joueur contenant des informations sur les [points de performance](/wiki/Performance_points/Total_performance_points), la [précision générale](/wiki/Gameplay/Accuracy), le [niveau](/wiki/Gameplay/Score/Total_score#level), le [rang](/wiki/Ranking#performance-points-ranking) ainsi que le [mode de jeu](/wiki/Game_mode). Sur la droite, il y a un bouton pour mettre en pause la musique actuellement sélectionnée.
+La partie en haut à gauche indique si le joueur est l'hôte de la partie ou un joueur normal. Au milieu, il y a une boîte de joueur contenant des informations sur les [points de performance](/wiki/Performance_points/Total_performance_points), la [précision générale](/wiki/Gameplay/Accuracy), le [niveau](/wiki/Gameplay/Score/Total_score#level), le [rang](/wiki/Ranking#performance-points-ranking) ainsi que le [mode de jeu](/wiki/Game_mode). Sur la droite, il y a un bouton pour mettre en pause la musique actuellement sélectionnée.
 
-### La liste des joueurs actuels
+### La liste des joueurs présents
 
 ::: Infobox
 ![](img/multi-match-current-players-list-fr.jpg "Exemple d'une liste de joueurs dans un lobby d'une salle")
@@ -124,7 +124,7 @@ Le `Nom` est le nom du lobby qui est visible depuis la liste des salles en jeu a
 #### Beatmap
 
 ::: Infobox
-![](img/multi-host-map-change-fr.jpg "La carte de beatmap quand l'hôte est en train de changer les musiques")
+![](img/multi-host-map-change-fr.jpg "La carte de beatmap quand l'hôte est en train de changer la beatmap")
 :::
 
 ::: Infobox
@@ -152,7 +152,7 @@ En survolant la beatmap, une bulle affichera des informations sur la beatmap. On
 | `HP` | HP drain rate (ou drain de vie) |
 | `Star rating` | Le star rating |
 
-Si le joueur ne possède pas la beatmap, un des status suivant sera affiché :
+Si le joueur ne possède pas la beatmap, un des statuts suivants sera affiché :
 
 | Statut de la beatmap | Description |
 | :-: | :-- |
@@ -179,7 +179,7 @@ Il y a 4 façons différentes de jouer une partie :
 | Type de partie | Description |
 | :-- | :-- |
 | `Head-to-head` | S'affronter les uns contre les autres dans le but d'atteindre le première place du classement de la partie. |
-| `Team VS` | S'affronter les un contre les autres en équipe (Rouge et Bleu) pour remporter la partie. |
+| `Team VS` | S'affronter les uns contre les autres en équipe (Rouge et Bleu) pour remporter la partie. |
 | `Tag co-op` (mode osu! uniquement, non classé) | Faites équipe dans le but de terminer la beatmap en jouant un combo à la fois, chacun son tour. |
 | `Tag-team VS` (mode osu! uniquement, non classé) | La même chose que `Tag co-op`, mais avec deux équipes s'affrontant l'une contre l'autre. |
 
@@ -212,8 +212,8 @@ Le bouton bleu est utilisé pour contrôler l'état du joueur (prêt/pas prêt) 
 | :-: | :-- |
 | `Je suis prêt !` | Marque le joueur comme étant prêt (vert dans la liste des joueurs). Le bouton se changera en bouton `Je ne suis pas prêt`. Pour l'hôte de la salle, il se changera en bouton `Start Game!` ou `Force Start Game!` s'il y a des joueurs dans le lobby. |
 | `Je ne suis pas prêt` | Marque le joueur comme n'étant pas prêt (blanc dans la liste des joueurs). Le bouton se changera en `Je suis prêt !`. |
-| `Start Game!` | Commence la partie. Ce bouton apparaît uniquement pour l'hôte du match lorsque tous les joueurs sont prêts. |
-| `Force Start Game! ({prêts}/{total})` | Démarre la partie même si tous les joueurs ne sont pas prêts. Ce bouton apparaît uniquement pour l'hôte de la partie lorsque quelques joueurs sont prêts. Le nombre de joueurs prêts comparé à celui du nombre total de joueurs est montré entre parenthèses. |
+| `Start Game!` | Commence la partie. Ce bouton apparaît uniquement pour l'hôte de la salle lorsque tous les joueurs sont prêts. |
+| `Force Start Game! ({prêts}/{total})` | Démarre la partie même si tous les joueurs ne sont pas prêts. Ce bouton apparaît uniquement pour l'hôte de la salle lorsque quelques joueurs sont prêts. Le nombre de joueurs prêts comparé à celui du nombre total de joueurs est montré entre parenthèses. |
 
 ### Historique de le salle
 
@@ -235,13 +235,13 @@ Il n'y a aucune façon de mettre en pause une partie multijoueur. Appuyer sur `�
 
 #### Paramètres visuels
 
-Pendant que la partie est en train de démarrer, déplacer le curseur vers le bas de l'écran ouvrira le menu de paramètres visuels. Voir la page du [menu de paramètres visuels](/wiki/Client/Interface/Visual_settings) pour plus d'informations. 
+Lorsque que la partie est en train de démarrer, déplacer le curseur vers le bas de l'écran ouvrira le menu de paramètres visuels. Voir la page du [menu de paramètres visuels](/wiki/Client/Interface/Visual_settings) pour plus d'informations. 
 
 #### Santé
 
 Quand la barre de santé d'un joueur s'est entièrement vidée, il peut continuer à jouer, mais le score sera considéré comme un échec et n’apparaîtra pas sur les classements. Le joueur peut revivre s'il remplit entièrement la barre de vie, à moins qu'il n'utilise [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) ou [Perfect (PF)](/wiki/Game_modifier/Perfect).
 
-En partie Team VS, avoir échoué à la fin de la beatmap fera en sorte que le score ne contribuera pas au score de l'équipe.
+En partie Team VS, avoir échoué à la fin de la beatmap ne permettra pas au score réalisé de contribuer au score total de l'équipe.
 
 #### Résultats
 
@@ -283,7 +283,7 @@ La couleur de chaque joueur sur le classement en jeu indique le statut du joueur
 | ![](img/Playerbox/Multi_PB_R.jpg "Danger") | Danger | Le joueur a moins de la moitié de sa vie. La couleur deviendra rouge clair ou bleue dépendant de la vie du joueur. |
 | ![](img/Playerbox/Multi_PB_F.jpg "Échoué") | Échoué | Le joueur a atteint 0 PV et a [échoué](#health). |
 | ![](img/Playerbox/Multi_PB_TAG.jpg "Tag") | Tag | En `Tag co-op` et `Tag-team VS`, la boite du joueur sera toujours verte. Une flèche verte pointe vers le joueur actuel avec une légère lueur blanche. |
-| ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | La requête d'un joueur de passer l'introduction d'une beatmap s'il y en a une. L'introduction sera passée une fois que tous les joueurs ont souhaité la passer. |
+| ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | La requête d'un joueur pour passer l'introduction d'une beatmap s'il y en a une. L'introduction sera passée une fois que tous les joueurs ont souhaité la passer. |
 | ![](img/Playerbox/Multi_PB_QUIT.jpg "Quit") | Quit | Le joueur a quitté la partie, soit en appuyant sur `Échap` deux fois, soit en ayant été déconnecté de [Bancho](/wiki/Bancho_(server)). La couleur du texte passera de blanche à rouge avec `[Quit]` rajouté à la fin. La couleur de la boîte indique le statut du joueur avant de quitter la partie. |
 
 ### Type de partie {#team-mode-gameplay}
@@ -327,10 +327,10 @@ Changer d'équipe est possible tant que les joueurs se trouvent sur le lobby. Il
 ##### Résultats {#team-vs-results-screen}
 
 ::: Infobox
-![](img/multi-teamvs-results.jpg "Écran des résultats Team VS")
+![](img/multi-teamvs-results.jpg "Écran de résultats Team VS")
 :::
 
-L'équipe gagnante est annoncée en haut de l'écran des résultats.
+L'équipe gagnante est annoncée en haut de l'écran de résultats.
 
 Seul les joueurs encore en vie à la fin de la partie comptent dans le total de leur équipe.
 
@@ -354,11 +354,11 @@ Le tag co-op fait que tous les joueurs de la partie travaillent ensemble pour te
 
 Dans ce mode, l'emplacement des joueurs dans le lobby détermine l'ordre dans lequel ils vont jouer.
 
-Une flèche verte indiquera quel joueur est actuellement en train de jouer, et leur pseudo sera indiqué en bas à droite. Des flèches d'avertissement indiquent quand c'est au tour du joueur et les prochains objets seront colorés. Le joueur peut définir une couleur de combo qui lui sera dédiée dans la partie [Couleur](#tag-colour) de la section de configuration de la salle dans le lobby de la partie.
+Une flèche verte indiquera quel joueur est actuellement en train de jouer, et son pseudo sera indiqué en bas à droite. Des flèches d'avertissement indiquent quand c'est au tour du joueur et les prochains objets seront colorés. Le joueur peut définir une couleur de combo qui lui sera dédiée dans la partie [Couleur](#tag-colour) de la section de configuration de la salle dans le lobby de la partie.
 
 Tous les joueurs doivent jouer les spinners, ou le combo sera rompu.
 
-Si un joueur quitte pendant le match, le jeu jouera automatiquement sa partie pour lui.
+Si un joueur quitte pendant la beatmap, le jeu jouera automatiquement sa partie pour lui.
 
 Tous les joueurs partagent la même barre de vie. Si elle se vide entièrement, la partie se termine. En Tag-team VS, chaque équipe possède sa propre barre de vie, et perdre toute sa vie entraînera la défaite de cette équipe.
 
@@ -367,11 +367,11 @@ Les joueurs utilisant les modificateurs de jeu [Sudden Death (SD)](/wiki/Game_mo
 ##### Résultats
 
 ::: Infobox
-![](img/multi-coop-results.jpg "Écran des résultats Tag co-op")
+![](img/multi-coop-results.jpg "Écran de résultats Tag co-op")
 :::
 
 ::: Infobox
-![](img/multi-tagteam-results.jpg "Écran des résultats Tag-team VS")
+![](img/multi-tagteam-results.jpg "Écran de résultats Tag-team VS")
 :::
 
 Aucun score classé ou point de performance ne sera attribué pour des parties en `Tag co-op` ou en `Tag-team VS`.
@@ -385,10 +385,10 @@ L'écran de résultats de `Tag-team VS` est identique à [celui de `Team VS`](#t
 ### Historique
 
 ::: Infobox
-![](img/legacy-multi-lobby.jpg "Capture d'écran du lobby principal lorsqu'osu!mania était sortie pour la première fois (8 octobre 2012), mais n'était pas encore jouable en multijoueur")
+![](img/legacy-multi-lobby.jpg "Capture d'écran du lobby principal lorsqu'osu!mania était sorti pour la première fois (8 octobre 2012), mais n'était pas encore jouable en multijoueur")
 :::
 
-- La version initiale du multijoueur a été implémentée le 3 juin 2008 dans la version publique d'osu! b335
+- La version initiale du multijoueur a été implémentée le 3 juin 2008 dans la version publique d'osu! b335.
 - La configuration de la salle permettait uniquement un total de 8 joueurs.
 - osu!mania a été affiché comme le mode de jeu "3" dans le lobby pour les joueurs n'ayant pas encore mis à jour leur client avec la dernière version sortie (qui a activé le mode de jeu osu!mania sans prise en charge des classements).
 - "No Video" était le *seul* modificateur de jeu autorisé en multijoueur, mais a été retiré afin de le placer dans les [paramètres visuels](/wiki/Client/Interface/Visual_settings).
