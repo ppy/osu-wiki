@@ -237,7 +237,7 @@ Moving away from motivation, time taken, and visuals, we have a [guide all about
 
 Finally, on a bit of a different flavor we have a guide not related to mapping - but modding! The [Modding Mentorship Guide](https://sites.google.com/view/modding-guide/home) written by a long-time mapper and nominator [Cheri](https://osu.ppy.sh/users/5226970) seeks to help give guidance on how to mod and what to look out for from the ground up. This guide covers everything from ranking criteria, to rhythm, to spacing, to low difficulties, and spread. It covers quite a lot! In-depth modding guides of this kind are a bit rarer and left to people often learning on their own, so having a fully fleshed out guide like this will definitely be really helpful to aspiring and semi-experienced modders alike.
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 
