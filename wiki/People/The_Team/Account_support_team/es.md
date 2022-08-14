@@ -24,7 +24,7 @@ Debe contactar con este equipo para tratar temas relacionados con la cuenta que 
   - eliminaciones de contenido del perfil;
   - eliminaciones de beatmap;
   - publicaciones del foro o eliminación de comentarios.
-- Casos de mal comportamiento que [desea admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-roken-the-rules?).
+- Casos de mal comportamiento que [desea admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?).
 - [Pérdida de acceso al correo electrónico](/wiki/Help_centre/Account#sign-in) ligado a tu cuenta de osu!, o cuando tu cuenta es robada.
 - Nombre de usuario [revierte y realiza pequeñas correcciones ortográficas](/wiki/Help_centre/Account#name-changes).
 - [Registros de cuenta bot](/wiki/Bot_account).
