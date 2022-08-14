@@ -367,9 +367,6 @@ Abbreviations for user groups are used throughout this log:
 
 ## August
 
-- 2022-08-13: Added [FuJu](https://osu.ppy.sh/users/10773882) to **NAT**
-- 2022-08-13: Added [elicz1](https://osu.ppy.sh/users/8039342) to **NAT**
-
 ### Beatmap Nominators
 
 #### Additions
@@ -383,7 +380,5 @@ Abbreviations for user groups are used throughout this log:
 
 - 2022-08-07: Removed [CallMeLyra](https://osu.ppy.sh/users/15272997) from **BN**
 - 2022-08-10: Removed [Aakki](https://osu.ppy.sh/users/11077540) from **BN**
-- 2022-08-13: Removed [FuJu](https://osu.ppy.sh/users/10773882) from **BN**
-- 2022-08-13: Removed [elicz1](https://osu.ppy.sh/users/8039342) from **BN**
 
-<!-- updated as of August 13, 2022 @ 05:30 UTC, additions of the two new NAT -->
+<!-- last updated 2022-08-14 02:30 UTC - Removed Aakki from BN -->
