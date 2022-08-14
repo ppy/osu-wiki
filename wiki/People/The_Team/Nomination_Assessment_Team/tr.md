@@ -50,7 +50,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Değerlendirme, moderasyon |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Değerlendirme |
-| ::{ flag=AU }:: [elizc1](https://osu.ppy.sh/users/8039342) |  | Değerlendirme |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Değerlendirme |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Çince | Değerlendirme |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Almanca | Değerlendirme |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Yapısal, haberleşme |
