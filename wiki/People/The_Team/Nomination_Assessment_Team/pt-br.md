@@ -50,7 +50,9 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Avaliação, moderação |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, chinês | Avaliação |
+| ::{ flag=AU }:: [elizc1](https://osu.ppy.sh/users/8039342) |  | Avaliação |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinês | Avaliação |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemão | Avaliação |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estrutural, comunicação |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Avaliação |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Estrutural |

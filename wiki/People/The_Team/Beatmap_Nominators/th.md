@@ -64,14 +64,12 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | สเปน |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | สเปน |
 | ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | ดัตช์ |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=FI }:: [finnish bn](https://osu.ppy.sh/users/11077540) | ฟินแลนด์ |
 | ::{ flag=NO }:: [Fisky](https://osu.ppy.sh/users/8352623) | นอร์เวย์ |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | จีน |
 | ::{ flag=RU }:: [Froskya](https://osu.ppy.sh/users/4230454) | รัสเซีย |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | เยอรมัน |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | อินโดนีเซีย |
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | จีน, ฝรั่งเศส บ้าง |

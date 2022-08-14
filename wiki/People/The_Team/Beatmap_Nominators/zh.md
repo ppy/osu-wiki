@@ -62,14 +62,12 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | 西班牙语 |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
 | ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | 荷兰语 |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=FI }:: [finnish bn](https://osu.ppy.sh/users/11077540) | 芬兰语 |
 | ::{ flag=NO }:: [Fisky](https://osu.ppy.sh/users/8352623) | 挪威语 |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | 汉语 |
 | ::{ flag=RU }:: [Froskya](https://osu.ppy.sh/users/4230454) | 俄语 |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 德语 |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | 印度尼西亚语 |
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | 汉语，一部分法语 |

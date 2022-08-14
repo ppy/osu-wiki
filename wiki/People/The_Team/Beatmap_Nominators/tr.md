@@ -64,14 +64,12 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | İspanyolca |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
 | ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Felemenkçe |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=FI }:: [finnish bn](https://osu.ppy.sh/users/11077540) | Fince |
 | ::{ flag=NO }:: [Fisky](https://osu.ppy.sh/users/8352623) | Norveççe |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Çince |
 | ::{ flag=RU }:: [Froskya](https://osu.ppy.sh/users/4230454) | Rusça |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Almanca |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Endonezce |
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Çince, biraz Fransızca |

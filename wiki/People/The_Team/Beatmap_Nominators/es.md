@@ -63,14 +63,12 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | Español |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Español |
 | ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=FI }:: [finnish bn](https://osu.ppy.sh/users/11077540) | Finés |
 | ::{ flag=NO }:: [Fisky](https://osu.ppy.sh/users/8352623) | Noruego |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Chino |
 | ::{ flag=RU }:: [Froskya](https://osu.ppy.sh/users/4230454) | Ruso |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesio |
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Chino, algo de francés |

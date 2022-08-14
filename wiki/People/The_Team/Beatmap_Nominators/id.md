@@ -62,14 +62,12 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | Spanyol |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Spanyol |
 | ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Belanda |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=FI }:: [finnish bn](https://osu.ppy.sh/users/11077540) | Suomi |
 | ::{ flag=NO }:: [Fisky](https://osu.ppy.sh/users/8352623) | Norwegia |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Tionghoa |
 | ::{ flag=RU }:: [Froskya](https://osu.ppy.sh/users/4230454) | Rusia |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Jerman |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesia |
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Tionghoa, sedikit Perancis |

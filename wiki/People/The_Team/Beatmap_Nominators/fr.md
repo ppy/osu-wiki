@@ -62,14 +62,12 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | Espagnol |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Espagnol |
 | ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Néerlandais |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=FI }:: [finnish bn](https://osu.ppy.sh/users/11077540) | Finnois |
 | ::{ flag=NO }:: [Fisky](https://osu.ppy.sh/users/8352623) | Norvégien |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Chinois |
 | ::{ flag=RU }:: [Froskya](https://osu.ppy.sh/users/4230454) | Russe |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Allemand |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonésien |
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinois, un peu de français |
