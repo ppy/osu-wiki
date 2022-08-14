@@ -78,6 +78,7 @@ Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelaussch
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 15.08.2020 | 20.09.2020 | ::{ flag=BR }:: Brasilien | ::{ flag=JP }:: Japan | ::{ flag=KR }:: Südkorea |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 31.07.2021 | 19.09.2021 | ::{ flag=BR }:: Brasilien | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=MY }:: Malaysia |
 | [osu!mania 7K World Cup 2022](MWC/2022_7K) | 16.12.2021 | 20.02.2022 | ::{ flag=KR }:: Südkorea | ::{ flag=CN }:: China | ::{ flag=MY }:: Malaysia |
+| [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07.07.2022 | 18.09.2022 | *TBD* | *TBD* | *TBD* |
 
 ## Community
 
@@ -382,6 +383,13 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Yuri Cup](YC/1) | 22.02.2020 | 05.04.2020 | Corim's Bad Dream | a la verga | Rtzero x Rtzer0 |
 
+#### Spanish Showdown
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Spanish Showdown 2021 | 21.03.2021 | 08.05.2021 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | ::{ flag=ES }:: [Estopa](https://osu.ppy.sh/users/4470553) | ::{ flag=ES }:: [waaiiru](https://osu.ppy.sh/users/903978) |
+| [Spanish Showdown 2022](SS/2022) | 18.03.2022 | 15.05.2022 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | ::{ flag=ES }:: [Estopa](https://osu.ppy.sh/users/4470553) | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) |
+
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 #### 3 Digit Taiko World Cup
@@ -397,6 +405,8 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Indonesian Taiko Showdown](AOTS/IDTS_1) | 06.05.2017 | 11.06.2017 | ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) | ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885) | ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768) |
 | [Asian Taiko Showdown 2018](AOTS/ATS_2018) | 02.06.2018 | 08.07.2018 | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ::{ flag=JP }:: [butter0414](https://osu.ppy.sh/users/7935022) |
 | [Asian-Oceanian Taiko Showdown](AOTS/AOTS_1) | 09.08.2019 | 15.09.2019 | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) | ::{ flag=HK }:: [MTDex](https://osu.ppy.sh/users/9468283) |
+| [Indonesian Taiko Showdown 2](AOTS/IDTS_2) | 03.12.2021 | 09.01.2022 | ::{ flag=ID }:: [Servatory](https://osu.ppy.sh/users/4013317) | ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301) | ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079) |
+| [Indonesian Taiko Beginner Showdown](AOTS/ITBS_1) | 16.04.2022 | 05.06.2022 | ::{ flag=ID }:: [salym](https://osu.ppy.sh/users/19089549) | ::{ flag=ID }:: [WeebReen](https://osu.ppy.sh/users/10129901) | ::{ flag=ID }:: [N\_jaaayy](https://osu.ppy.sh/users/17787564) |
 
 #### Ausu!Taiko Tournament
 

@@ -116,7 +116,6 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai ta
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Swedia, Spanyol | Moderasi chat |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | Italia, Rumania | Moderasi chat |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Perancis, Spanyol | Moderasi chat |
-| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | Portugis | Moderasi komunitas mapping/modding |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesia | Moderasi chat |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesia, sedikit Vietnam | Moderasi chat |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Tionghoa | Moderasi chat |
