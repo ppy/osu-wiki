@@ -64,15 +64,15 @@ The answers from the interview had to be cut down a bit for this article, but if
 Regrettably, it may have been a mistake to not showcase more of these sound effects, so let's do just that and make it a small trivia game as well! Try to recognize what these sounds are used for in the game — **the first 3 comments to identify the below sound samples correctly will receive a month of osu!supporter!**
 
 <audio controls>
-  <source src="/wiki/shared/news/2022-07-31-lazer-sound-design/trivia-1.wav" type="audio/mpeg">
+  <source src="https://assets.ppy.sh/media/newspost-sdl-2022/trivia-1.wav" type="audio/mpeg">
 </audio>
 
 <audio controls>
-    <source src="/wiki/shared/news/2022-07-31-lazer-sound-design/trivia-2.wav" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/media/newspost-sdl-2022/trivia-2.wav" type="audio/mpeg">
 </audio>
 
 <audio controls>
-    <source src="/wiki/shared/news/2022-07-31-lazer-sound-design/trivia-3.wav" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/media/newspost-sdl-2022/trivia-3.wav" type="audio/mpeg">
 </audio>
 
 ---
