@@ -117,7 +117,6 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Schwedisch, Spanisch | Chat-Moderation |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | Italienisch, Rumänisch | Chat-Moderation |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Französisch, Spanisch | Chat-Moderation |
-| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | Portugiesisch | Moderation der Mapping-/Modding-Community |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesisch | Chat-Moderation |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesisch, etwas Vietnamesisch | Chat-Moderation |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chinesisch | Chat-Moderation |
