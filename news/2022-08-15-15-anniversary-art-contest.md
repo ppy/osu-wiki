@@ -16,7 +16,7 @@ And so, as the celebration of osu!'s 15th year draws ever closer, what better wa
 
 **Draw any one or combination of the official osu! mascots (or community mascots) exploring any part of osu!'s history!**
 
-Returning to the wide themes that made the A Place To Belong contest so interesting, we're foraying this time into something just as wide but a little more concrete. If you're a long-time player, you might already be familiar with a lot of the historical particulars, but in the event you're not, [check out the osu!wiki](https://osu.ppy.sh/wiki/en/History_of_osu%21) for some pointers on where to start. You may also want to consult any one of the many videos put out by content creators on the topic too.
+Returning to the wide themes that made the A Place To Belong contest so interesting, we're foraying this time into something just as wide but a little more concrete. If you're a long-time player, you might already be familiar with a lot of the historical particulars, but in the event you're not, [check out the osu!wiki](/wiki/History_of_osu%21) for some pointers on where to start. You may also want to consult any one of the many videos put out by content creators on the topic too.
 
 Speaking of pointers, here's a few suggestions to get the juices flowing:
 
