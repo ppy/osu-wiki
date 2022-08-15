@@ -17,8 +17,8 @@ The **Expert Global Taiko Showdown 2022** (***EGTS 2022***) is a worldwide doubl
 | --: | :-- |
 | Registration phase | 2022-07-16/2022-07-31 |
 | Screening phase | 2022-07-31/2022-08-07 |
-| Qualifiers | 2022-08-13/2022-08-14 |
-| Round of 128 | 2022-08-20/2022-08-21 |
+| Qualifiers | 2022-08-11/2022-08-14 |
+| Round of 96 | 2022-08-20/2022-08-21 |
 | Round of 64 | 2022-08-27/2022-08-28 |
 | Round of 32 | 2022-09-03/2022-08-04 |
 | Round of 16 | 2022-09-10/2022-09-11 |
