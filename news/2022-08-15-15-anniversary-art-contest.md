@@ -8,15 +8,15 @@ With osu!'s 15th anniversary approaching this September, it's time to take a loo
 
 ![](https://assets.ppy.sh/contests/153/header.jpg)
 
-On a balmy spring evening (the 16th, to be exact) during September back in 2007, some dude by the name of Dean "peppy" Herbert released the first build of a niche rhythm game designed to emulate the gameplay of the recent cult hit *osu! Tatakae! Ouendan!* to the public.
+On a balmy September evening (the 16th, to be exact) back in 2007, some dude by the name of Dean "peppy" Herbert released the first build of a niche rhythm game designed to emulate the gameplay of the recent cult hit *osu! Tatakae! Ouendan!* to the public.
 
-The rest, is quite literally... history. A history that includes hundreds of influential creators and contributors and thousands of adoring and supportive players that have taken osu! from a pet project run by one guy on forum software that is possibly older than your parents to the sprawling and eclectic behemoth that it has become.
+The rest, is quite literally... history. A history that includes hundreds of influential creators and contributors and thousands of adoring and supportive players who have taken osu! from a pet project run by one guy on forum software, that is possibly older than your parents, to the sprawling and eclectic behemoth it has become.
 
 And so, as the celebration of osu!'s 15th year draws ever closer, what better way to get the festivities going than with a fan art contest of historical proportions? Thus, we present this contest's theme:
 
 **Draw at least one of the official osu! mascots (or community mascots) exploring any part of osu!'s history!**
 
-Returning to the wide themes that made the A Place To Belong contest so interesting, we're foraying this time into something just as wide but a little more concrete. If you're a long-time player, you might already be familiar with a lot of the historical particulars, but in the event you're not, [check out the osu!wiki](/wiki/History_of_osu!) for some pointers on where to start. You may also want to consult any one of the many videos put out by content creators on the topic too.
+Returning to the wide themes that made the [A Place To Belong contest](https://osu.ppy.sh/community/contests/142) so interesting, we're foraying this time into something just as wide but a little more concrete. If you're a long-time player, you might already be familiar with a lot of the historical particulars, but in the event you're not, [check out the osu! wiki](/wiki/History_of_osu!) for some pointers on where to start. You may also want to consult any one of the many videos put out by content creators on the topic too.
 
 Speaking of pointers, here's a few suggestions to get the juices flowing:
 
@@ -24,7 +24,7 @@ Speaking of pointers, here's a few suggestions to get the juices flowing:
 - Time-travelling mascots crying in despair after they realize they've travelled to 2016 and can no longer play any beatmaps properly
 - Mascots re-enacting the spiderman-points-at-spiderman meme with different versions of themselves wearing their old costumes (most applicable to pippi)
 - Anything that celebrates some cornerstone moment in osu!'s history
-- Any one of the mascots gazing lovingly upon the faces of top players enshrined in the clouds forever-more
+- Any one of the mascots gazing lovingly upon the faces of top players enshrined in the clouds forevermore
 
 As always, you'll have **14 days** to yank the masterpiece out of the electrical tubes inside your head and into your drawing program of choice — but only once you've read the rules below first. You wouldn't want to get disqualified, right?
 
@@ -37,7 +37,7 @@ As always, you'll have **14 days** to yank the masterpiece out of the electrical
 - **Artist attribution (names, social media handles, etc) must be limited to no more than three lines total and confined to either the bottom left or bottom right corners of your entry.** Being proud of your work is good, just do it in a reasonably small spot of your work. One thing unique to osu!'s history is that we really don't like forced advertisement, and attribution that is too large can come across like it.
 - **Entries MUST meet the resolution requirements for a main-menu piece — namely 2732x1536. THIS IS CHECKED BY A SCRIPT AND ENTRIES THAT DO NOT MATCH THIS REQUIREMENT WILL BE DISCARDED AUTOMATICALLY.** The cold, unfeeling machine that processes your entries does not care how pretty your 690x420px submission might be, only that the numbers match.
 - **Artists should use the custom templates provided ([PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd?2017) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png?2017)) when composing their piece as a guideline to understand where the osu! cookie will be placed on the main menu and during the voting process.** The circular spot in the middle shows where the main-menu cookie will be when inside the game. Factor this in when designing your piece, as anything inside it is likely not going to be seen. This doesn't mean leaving a big circular hole full of nothing in the middle! Be creative.
-- **Do not leave the dotted osu! cookie template visible in your submission.** Deep breaths. We're calm. It's only taken nearly twenty contests but people have finally stopped doing it.
+- **Do not leave the dotted osu! cookie template visible in your submission!!!** ...Deep breaths. We're calm. It's only taken nearly twenty contests but people have finally stopped doing it.
 - **Don't use copyrighted characters from other intellectual properties.** All the official osu! mascots and the community mascots are fair game, but please avoid using representations of characters from other worlds or franchises in your work. Remember also that the community mascots are someone else's treasured creation, so please treat them with the same respect that you'd treat your own OCs and work.
 
 ---
