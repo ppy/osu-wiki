@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
----
-
 # Genauigkeit
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
@@ -13,7 +8,7 @@ Die Genauigkeit ist ein prozentualer Messwert für die Fertigkeit eines Spielers
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-![Genauigkeit = (50 \* Anzahl der 50er + 100 \* Anzahl der 100er + 300 \* Anzahl der 300er) / 300(Anzahl der 0er + Anzahl der 50er + Anzahl der 100er + Anzahl der 300er)](img/accuracy_osu.png "Genauigkeitsformel für osu!")
+![Genauigkeit = (300 \* Anzahl der 300er + 100 \* Anzahl der 100er + 50 \* Anzahl der 50er) / 300(Anzahl der 300er + Anzahl der 100er + Anzahl der 50er + Anzahl der Misses)](img/accuracy_osu.png "Genauigkeitsformel für osu!")
 
 In osu! wird die Genauigkeit berechnet, indem die [Bewertung](/wiki/Gameplay/Judgement) jedes Hit-Objekts nach seinem Wert gewichtet und durch den maximal möglichen Wert geteilt wird.
 
@@ -28,23 +23,40 @@ Referenz für einen Hit-Circle:
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-![Genauigkeit = 0,5(Anzahl von GOOD + Anzahl von GREAT) / (Anzahl von BAD + Anzahl von GOOD + Anzahl von GREAT)](img/accuracy_taiko.png "Genauigkeitsformel für osu!taiko")
+![Genauigkeit = (Anzahl an GREATs + 0.5 \* Anzahl an GOODs) / (Anzahl an GREATs + Anzahl an GOODs + Anzahl an Misses)](img/accuracy_taiko.png "Genauigkeitsformel für osu!taiko")
 
 In osu!taiko wird die Genauigkeit berechnet, indem man die Summe der Notengenauigkeit (wie präzise man die Note getroffen hat) durch die Anzahl der bisher getroffenen Noten teilt. Die Notengenauigkeit wird als GREAT (良) (zählt als 100%), GOOD (可) (zählt als 50%) (halb) und MISS/BAD (不可) (zählt als 0%, was auch die Combo beendet) bezeichnet. Trommelwirbel und Spinner haben keinen Einfluss auf die Genauigkeit.
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![Genauigkeit = (Anzahl der Droplets + Anzahl der Drops + Anzahl der Fruits) / (Anzahl der verfehlten Droplets + Anzahl der verfehlten Drops + Anzahl der verfehlten Fruits + Anzahl der Droplets + Anzahl der Drops + Anzahl der Fruits)](img/accuracy_catch.png "Genauigkeitsformel für osu!catch")
+![Genauigkeit = (Anzahl der gefangenen Früchte + Anzahl der gefangenen Drops + Anzahl der gefangenen Droplets) / (Anzahl aller Fruits + Anzahl aller Drops + Anzahl aller Droplets)](img/accuracy_catch.png "Genauigkeitsformel für osu!catch")
 
 In osu!catch wird die Genauigkeit berechnet, indem die Gesamtzahl der gesammelten Hit-Objekte, die keine Spinner sind, durch die Gesamtzahl der Objekte, die keine Spinner sind, geteilt wird. Alle Hit-Objekte haben den gleichen Wert, mit der Ausnahme von Bananen, da diese Teil der Spinner-Objekte sind.
 
-*Hinweis für API-Benutzer: Um die Genauigkeit in osu!catch zu berechnen, befindet sich die Anzahl der Droplets unter `count50` und die Anzahl der fehlenden Droplets unter `countkatu`.*
+*Hinweise für [API](/wiki/osu!api)-Benutzer:*
+
+- Die Anzahl der Gefangenen drops wird als `count100` zurückgegeben.
+- Die Anzahl der Gefangenen droplets wird als `count50` zurückgegeben.
+- Die Anzahl der verfehlten Fruits *und* Drops zusammen wird als `CountMiss` zurückgegeben.
+- Die Anzahl der verfehlten Droplets wird als `countKatu` zurückgegeben
+- `countGeki` sollte zur Berechnung der Genauigkeit nicht verwendet werden. Es ist die Anzahl der gefangenen Combo-beendenden Früchte.
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-![Genauigkeit = (50 \* Anzahl der 50er + 100 \* Anzahl der 100er + 200 \* Anzahl der 200er + 300 \* Anzahl der 300er + 300 \* Anzahl von MAX) / 300(Anzahl der 0er + Anzahl der 50er + Anzahl der 100er + Anzahl der 200er + Anzahl der 300er + Anzahl von MAX)](img/accuracy_mania.png "Genauigkeitsformel für osu!mania")
+In osu!mania wird Genauigkeit ähnlich wie bei [osu!](#osu!) berechnet. Allerdings hängt die Gewichtung der Regenbogen-300er (auch MAX-Ergebnis genannt) davon ab, ob ScoreV2 aktiv ist.
 
-In osu!mania wird die Genauigkeit ähnlich wie bei [osu!](#osu!) berechnet.
+Ohne ScoreV2 werden Regenbogen-300er und Gold-300er mit 300 gewichtet:
+
+![Genauigkeit = (300 \* (Anzahl der MAXs + Anzahl der 300er) + 200 \* Anzahl der 200er + 100 \* Anzahl der 100er + 50 \* Anzahl der 50er) / (300 \* (Anzahl der MAXs + Anzahl der 300er + Anzahl der 200er + Anzahl der 100er + Anzahl der 50er + Anzahl der Misses))](img/accuracy_mania_updated_score_v1.png "Genauigkeitsformel für osu!Mania unter ScoreV1")
+
+ScoreV2 erhöht die Gewichtung von Regenbogen-300ern zu 305:
+
+![Genauigkeit = (305 \* (Anzahl der MAXs) + 300 \* (Anzahl der 300er) + 200 \* Anzahl der 200er + 100 \* Anzahl der 100er + 50 \* Anzahl der 50er) / (300 \* (Anzahl der MAXs + Anzahl der 300er + Anzahl der 200er + Anzahl der 100er + Anzahl der 50er + Anzahl der Misses))](img/accuracy_mania_updated_score_v2.png "Genauigkeitsformel für osu!Mania unter ScoreV2")
+
+*Hinweise für [API](/wiki/osu!api)-Benutzer:*
+
+- Die Anzahl der Regenbogen-300er wird als `countGeki` zurückgegeben.
+- Die Anzahl der 200er wird als `countKatu` zurückgegeben.
 
 ## Leistungskurve
 
@@ -52,7 +64,7 @@ In osu!mania wird die Genauigkeit ähnlich wie bei [osu!](#osu!) berechnet.
 
 Die Leistungskurve ist ein Diagramm, das die Leistung des Spielers (basierend auf seinem Lebensbalken) im Verlauf eines Spiels (Zeit) anzeigt. Zusätzliche Informationen können angezeigt werden, wenn man den Mauszeiger im Spiel darüber bewegt.
 
-*Hinweis: Die zusätzlichen Informationen können nur nach dem Abspielen einer Beatmap oder nach dem Ansehen eines Replays angezeigt werden. Nach dem Verlassen des [Ergebnisbildschirms](/wiki/Client/Interface#rangliste) werden diese Informationen nicht gespeichert.*
+*Anmerkung: Die zusätzlichen Informationen können nur nach dem Abspielen einer Beatmap oder nach dem Ansehen eines Replays angezeigt werden. Nach dem Verlassen des [Ergebnisbildschirms](/wiki/Client/Interface#rangliste) werden diese Informationen nicht gespeichert.*
 
 ### Genauigkeit
 
