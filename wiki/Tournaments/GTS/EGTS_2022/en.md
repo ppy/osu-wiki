@@ -140,10 +140,10 @@ Detailed statistics for this round can be found in [this spreadsheet](https://gt
 
 ### Stage regulations
 
-1. There are nine stages in the tournament: the Qualifiers, the Round of 128, the Round of 64, the Round of 32, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
+1. There are nine stages in the tournament: the Qualifiers, the Round of 96, the Round of 64, the Round of 32, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
 2. Players will be seeded with the average of their ranks on each map during the Qualifiers round in 4 seeds: Top seed, High seed, Low seed, and Unseeded.
 3. Each stage has the following win conditions:
-   - **Round of 128, and Round of 64**: Best-of-9 (first to 5 points)
+   - **Round of 96, and Round of 64**: Best-of-9 (first to 5 points)
    - **Round of 32, Round of 16, and Quarterfinals**: Best-of-11 (first to 6 points)
    - **Semifinals, Finals, and Grand Finals**: Best-of-13 (first to 7 points)
 
@@ -154,7 +154,7 @@ Detailed statistics for this round can be found in [this spreadsheet](https://gt
 3. There will be no warmups during this stage.
 4. Seeding will be made with the average rank of each player on each map.
 5. Maps will be played twice in a row during the lobby. The best run will be taken into account for the ranking.
-6. Only the 128 best players will continue on to the bracket stage.
+6. Only the 96 best players will continue on to the bracket stage.
 
 ### Mappool instructions
 
@@ -163,11 +163,11 @@ Detailed statistics for this round can be found in [this spreadsheet](https://gt
 3. The Qualifier pool will be different from all other rounds, as it will have a format of 3 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime maps, and 1 Hidden+HardRock map.
 4. Each mappool consists of 6 sections: **NoMod, Hidden, HardRock, DoubleTime, ForceMod, and Tiebreaker**.
 5. The total maps per stage will be listed as follows:
-   - The Round of 128 and Round of 64 mappool will consist of 14 maps.
+   - The Round of 96 and Round of 64 mappool will consist of 14 maps.
    - The Round of 32, Round of 16, and Quarterfinals mappools will consist of 15 maps.
    - The Semifinals, Finals and Grand Finals mappools will consist of 19 maps.
 6. The size of the NoMod pool will be listed as follows:
-   - The Round of 128 and Round of 64 mappool will have 4 NoMod maps.
+   - The Round of 96 and Round of 64 mappool will have 4 NoMod maps.
    - The Round of 32, Round of 16, and Quarterfinals will have 5 NoMod maps.
    - The Semifinals, Finals, and Grand Finals will have 6 NoMod maps.
 7. All stages will have 2 Hidden, HardRock, and DoubleTime maps, and 3 ForceMod maps.
