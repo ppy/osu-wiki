@@ -49,4 +49,3 @@ A selection of the top-voted entries will make it to the main menu as our specia
 We're excited to see what people come up with, so get creative, and good luck!
 
 —Ephemeral
-
