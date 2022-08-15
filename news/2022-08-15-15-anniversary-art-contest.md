@@ -44,7 +44,7 @@ As always, you'll have **14 days** to yank the masterpiece out of the electrical
 
 Ready to make your mark on osu!'s history by drawing osu!'s history? Head on over to the [15th Anniversary Art Contest listing](https://osu.ppy.sh/community/contests/153) and drag-drop your entry onto the fat plus sign any time within the next **14 days**. You can also delete and resubmit your entry at will before the contest closes, so don't be shy.
 
-A selection of the top-voted entries will make it to the main menu as our special 15th Anniversary celebration pack, and will also score their artists **3 months of osu!supporter**, and a unique profile badge made from their own piece if they're any of the top 3.
+A selection of the top-voted entries will make it to the main menu as our special 15th anniversary celebration pack, and will also score their artists **3 months of osu!supporter**, and a unique profile badge made from their own piece if they're any of the top 3.
 
 We're excited to see what people come up with, so get creative, and good luck!
 
