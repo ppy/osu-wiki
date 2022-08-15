@@ -74,7 +74,56 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
-*Every mappool will be announced 7 days (usually Sunday) before the next stage's match timeline.*
+### Round of 96
+
+**[Download the mappack here! (73 MB)](https://mega.nz/file/2QATVbSD#jAPFWPwuBMfl7AtJP8I_pX8MzOyI63-jCsXKHxpZB84)**
+
+- NoMod
+  1. [goreshit - Still scared of ouija boards (BabySnakes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1828702#taiko/3753217)
+  2. [Dz'Xa - Keqing 250 (X a v y) \[C1 (EGTS Ver.)\]](https://osu.ppy.sh/beatmapsets/1828476#taiko/3752724)
+  3. [lapix - HiTECH Bass Loops Vol.1 (rubies87) \[Oni (EGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1828205#taiko/3752111)
+  4. [coltrane - this train going nowhere (Mew) \[final destination (egts ver.)\]](https://osu.ppy.sh/beatmapsets/1828705#taiko/3753223)
+- Hidden
+  1. [Eagle - Boomy and The Boost (roufou) \[ROCK IT ROCK IT\]](https://osu.ppy.sh/beatmapsets/1828582#taiko/3752956)
+  2. [Slax - Giri The Giri (Horiiizon) \[ler & Horiiizon's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1828739#taiko/3753299)
+- HardRock
+  1. [surk - Voltage (Ak1o) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1828345#taiko/3752465)
+  2. [USAO - Blows Up Everything (DarkVortex) \[Short Fuse\]](https://osu.ppy.sh/beatmapsets/1828587#taiko/3752963)
+- DoubleTime
+  1. [MEMODEMO - Extragalactic (Ak1o) \[Oni\]](https://osu.ppy.sh/beatmapsets/1828344#taiko/3752464)
+  2. [Siren (CV: Liyuu) - Polaris (MTNTWarz) \[Elegance\]](https://osu.ppy.sh/beatmapsets/1828550#taiko/3752883)
+- ForceMod
+  1. [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Saa Anata no Inochi wo Sasagete Nemure (Cynplytholowazy) \[Illusionary Existance\]](https://osu.ppy.sh/beatmapsets/1828484#taiko/3752737)
+  2. [m108 - Crescent Sakura (Cynplytholowazy) \[Floret\]](https://osu.ppy.sh/beatmapsets/1828485#taiko/3752739)
+  3. [KAH - JUDGE UP DOWN (BabySnakes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1828735#taiko/3753294)
+- Tiebreaker
+  1. **[blobdash & Raphlesia - Recollection (Nwolf) \[Collab of Memories\]](https://osu.ppy.sh/beatmapsets/1828727#taiko/3753265)**
+
+### Qualifiers
+
+**[Download the mappack here! (42 MB)](https://mega.nz/file/KaBlzYhZ#DJ-v_DsAdct_pIF3nNKNJcGA_1-rAkmsjcWErWqRt-c)**
+
+- NoMod
+  1. [exnoiz - Hello amen (ler1211) \[hihi ><\]](https://osu.ppy.sh/beatmapsets/1823672#taiko/3742073)
+  2. [N^2 - PROPHET-73 (UnagiDon) \[PROPHECY-021 (EGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1823571#taiko/3741842)
+  3. [3R2 - Corruption ([Zeth]) \[E\_rR0rr\_\]](https://osu.ppy.sh/beatmapsets/1823735#taiko/3742210)
+- Hidden
+  1. [Angela - Angela's Got Her #EYES On U... (roufou) \[Funny Oni\]](https://osu.ppy.sh/beatmapsets/1823744#taiko/3742222)
+  2. [Shibayan - Shock!! (S.S.H. Arrangement) (Zetera) \[Exceed\]](https://osu.ppy.sh/beatmapsets/1823654#taiko/3741993)
+- HardRock
+  1. [Halv - Amateras Rhythm (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1823609#taiko/3741894)
+  2. [A? - WAVE PUNCH (Cynplytholowazy) \[UPSURGE\]](https://osu.ppy.sh/beatmapsets/1823663#taiko/3742034)
+- DoubleTime
+  1. [LeaF - Mere Fancy (extended ver.) (DarkVortex) \[Fancy\]](https://osu.ppy.sh/beatmapsets/1823598#taiko/3741881)
+  2. [Fractal Dreamers - Monolithia (Nwolf) \[Ono\]](https://osu.ppy.sh/beatmapsets/1823577#taiko/3741852)
+- ForceMod
+  1. [BEMANI Sound Team 'TATSUYA' - Miwaku no YUMMY sweets (roufou) \[Monstrous Strength\]](https://osu.ppy.sh/beatmapsets/1823765#taiko/3742258)
+
+## Match results
+
+### Qualifiers
+
+Detailed statistics for this round can be found in [this spreadsheet](https://gtsosu.com/egts/stats#0) alongside the final standings on which players made it through to the next stage.
 
 ## Ruleset
 
