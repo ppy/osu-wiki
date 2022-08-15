@@ -14,7 +14,7 @@ The rest, is quite literally... history. A history that includes hundreds of inf
 
 And so, as the celebration of osu!'s 15th year draws ever closer, what better way to get the festivities going than with a fan art contest of historical proportions? Thus, we present this contest's theme:
 
-**Draw any one or combination of the official osu! mascots (or community mascots) exploring any part of osu!'s history!**
+**Draw at least one of the official osu! mascots (or community mascots) exploring any part of osu!'s history!**
 
 Returning to the wide themes that made the A Place To Belong contest so interesting, we're foraying this time into something just as wide but a little more concrete. If you're a long-time player, you might already be familiar with a lot of the historical particulars, but in the event you're not, [check out the osu!wiki](/wiki/History_of_osu!) for some pointers on where to start. You may also want to consult any one of the many videos put out by content creators on the topic too.
 
