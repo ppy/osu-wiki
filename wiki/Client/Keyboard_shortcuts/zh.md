@@ -97,7 +97,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 *注：按下快捷键来打开或关闭 Mod。您必须进入 Mod 菜单才可以使用这些快捷键。*\
 *注：Target practice (osu!)，1K 和 2K (osu!mania)，Co-op (osu!mania)，还有 Mirror (osu!mania) 没有快捷键。*
 
-| 快捷键 | Mod |
+| 快捷键 | 模组 |
 | :-- | :-- |
 | `Q` | Easy |
 | `W` | No Fail |
